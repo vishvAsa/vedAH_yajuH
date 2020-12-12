@@ -3,7 +3,7 @@ title = "०१२ सहस्रशीर्षा"
 unicode_script = "devanagari"
 +++
 
-<div class="js_include" url="../../../../../saMskAraH/mantraH/brahma/Rk/sahasra-shIrShA/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../../saMskAra/mantraH/brahma/Rk/sahasra-shIrShA/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## सारः
 

@@ -3,7 +3,7 @@ title = "१०३ आशुः शिशानो"
 unicode_script = "devanagari"
 +++
 
-<div class="js_include" url="../../../../../saMskAraH/mantraH/indraH/Rk/apratiratham/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../../saMskAra/mantraH/indraH/Rk/apratiratham/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 तैत्तिरीयभाष्ये [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_6_-_Kasinath_Sastri_Agase_1949#page/n443/mode/2up)।
 

@@ -4,5 +4,5 @@ unicode_script = "devanagari"
 +++
 
 <div class="js_include" url="../raibhy_AsId_anudeyI/"  newLevelForH1="2" includeTitle="false"> </div>  
-<div class="js_include" url="../../../../../saMskAraH/mantraH/misc-devas/Rk/dAmpatyam/vadhvAshiShaH_sUryAsUktAt/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../../saMskAra/mantraH/misc-devas/Rk/dAmpatyam/vadhvAshiShaH_sUryAsUktAt/"  newLevelForH1="2" includeTitle="false"> </div>  
 

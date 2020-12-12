@@ -3,4 +3,4 @@ title = "०४५ दिवस्परि"
 unicode_script = "devanagari"
 +++
 
-<div class="js_include" url="../../../../../saMskAraH/mantraH/agniH/Rk/divaspari/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../../saMskAra/mantraH/agniH/Rk/divaspari/"  newLevelForH1="2" includeTitle="false"> </div>  
