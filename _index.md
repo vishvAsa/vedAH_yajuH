@@ -1,4 +1,4 @@
 +++
-title = "+सङ्ग्रहान्तरम्"
+title = "+वेदाः"
 unicode_script = "devanagari"
 +++
