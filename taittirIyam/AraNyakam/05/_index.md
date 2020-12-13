@@ -168,7 +168,7 @@ unicode_script = "devanagari"
 इति त्रिशङ्कोर् वेदा॑नुव॒चनम् । (17)
 
 
-<div class="js_include" url="../../../../kalpaH/brAhmaNam/taittirIyam/tattvam/veda-sAraH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../kalpe_svamatam/brAhmaNam/taittirIyam/tattvam/veda-sAraH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 <div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/yajuH/shanno_mitraH_samApanam/"  newLevelForH1="2" includeTitle="true"> </div>  

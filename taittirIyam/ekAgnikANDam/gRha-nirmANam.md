@@ -3,7 +3,7 @@ title: गृहनिर्माणम्।
 unicode_script: devanagari
 ---
 
-हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n161/mode/2up)। प्रयोगो [ऽत्र](../../../../../saMskAra/mantraH/kalpaH/sUtra/Apastamba/pramANAni/gRhya/karmANi/gRha/)।
+हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n161/mode/2up)। प्रयोगो [ऽत्र](../../../../../saMskAra/mantraH/kalpe_svamatam/sUtra/Apastamba/pramANAni/gRhya/karmANi/gRha/)।
 
 ## निर्माणम्
 __________________
