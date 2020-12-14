@@ -29,7 +29,7 @@ unicode_script: devanagari
 <div class="js_include" url="../../../saMskAra/mantraH/indraH/paravastu-saama/gauShUktam/"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../../saMskAra/mantraH/indraH/paravastu-saama/Ashva-sUktam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../saMskAra/mantraH/skandaH/paravastu-saama/ka-IM-vyaktAH/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../saMskAra/mantraH/marutaH/paravastu-saama/ka-IM-vyaktAH/"  newLevelForH1="2" includeTitle="true"> </div> 
 
 <div class="js_include" url="../../../saMskAra/mantraH/agniH/paravastu-saama/jarAbodha/"  newLevelForH1="2" includeTitle="true"> </div>  
 
