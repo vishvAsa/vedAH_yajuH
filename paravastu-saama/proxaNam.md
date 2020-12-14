@@ -55,7 +55,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../../saMskAra/mantraH/agniH/paravastu-saama/agnir_mUrdhA_bhrAjaH/"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../../saMskAra/mantraH/rudraH/paravastu-saama/niyutvAn-vAyo/"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../../../saMskAra/mantraH/vAyuH/paravastu-saama/niyutvAn-vAyo/"  newLevelForH1="2" includeTitle="true"> </div>
 
 <div class="js_include" url="../../../saMskAra/mantraH/worlds/paravastu-saama/atrAha-goH/"  newLevelForH1="2" includeTitle="true"> </div>
 
@@ -138,7 +138,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../../saMskAra/mantraH/agniH/paravastu-saama/jAtaH-pareNa/"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../../saMskAra/mantraH/rudraH/paravastu-saama/nahi-vash-charamam/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../saMskAra/mantraH/skandaH/paravastu-saama/nahi_vash_charamam/"  newLevelForH1="2" includeTitle="true"> </div> 
 
 ("सोमः पवते जनिता मतीनामि"ति सर्वाण्य् अपत्य-नित्यवत्स-रथन्तर-व्याहृति-सामानि पुनर् जपेत्। तत् प्रकारः -…।)
 

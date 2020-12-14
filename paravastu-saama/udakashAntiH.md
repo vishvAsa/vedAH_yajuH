@@ -29,7 +29,7 @@ unicode_script: devanagari
 <div class="js_include" url="../../../saMskAra/mantraH/indraH/paravastu-saama/gauShUktam/"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../../saMskAra/mantraH/indraH/paravastu-saama/Ashva-sUktam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../saMskAra/mantraH/rudraH/paravastu-saama/ka-IM-vyaktAH/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../saMskAra/mantraH/skandaH/paravastu-saama/ka-IM-vyaktAH/"  newLevelForH1="2" includeTitle="true"> </div> 
 
 <div class="js_include" url="../../../saMskAra/mantraH/agniH/paravastu-saama/jarAbodha/"  newLevelForH1="2" includeTitle="true"> </div>  
 
@@ -114,7 +114,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../../saMskAra/mantraH/indraH/paravastu-saama/vAmadevyam-asmin/"  newLevelForH1="2" includeTitle="true"> </div>
 
-<div class="js_include" url="../../../saMskAra/mantraH/rudraH/paravastu-saama/niyutvAn-vAyo/"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../../../saMskAra/mantraH/vAyuH/paravastu-saama/niyutvAn-vAyo/"  newLevelForH1="2" includeTitle="true"> </div>
 
 <div class="js_include" url="../../../saMskAra/mantraH/worlds/paravastu-saama/atrAha-goH/"  newLevelForH1="2" includeTitle="true"> </div>
 
