@@ -1,4 +1,4 @@
-+++
-title = "+stobhapadam"
+---
+title: +स्तोभपदम्
 
-+++
+---
