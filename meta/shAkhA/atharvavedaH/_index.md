@@ -3,7 +3,10 @@ title = "+अथर्ववेदः"
 unicode_script = "devanagari"
 +++
 
-## शौनकशाखा
+## शौनक-शाखा
+- सायणभाष्यसहिता संहिता वास्तविकी। लोकेऽधुना शैनकपैप्पलादादिभिर् अधीयमाना तत ईषद् भिन्ना रूढेति (vulgate इति) प्रोच्यते।
+- केन्द्राणि
+
 > Gujarat, Karnataka, Rajasthan, Coastal Andhra Pradesh, Avadh region in Uttar Pradesh, Himachal Pradesh. Only Gujarat has maintained the oral traditions, and the shakha has been resuscitated in recent times in Tamil Nadu, Karnataka and in Andhra Pradesh.
 
 - Fragmentary Gopatha Brahmana (extant and published), no accents. Mundaka Upanishad 
