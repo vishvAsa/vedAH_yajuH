@@ -3,7 +3,7 @@ title: गृहनिर्माणम्।
 unicode_script: devanagari
 ---
 
-हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n161/mode/2up)। प्रयोगो [ऽत्र](../../../../../saMskAra/mantraH/kalpe_svamatam/sUtra/Apastamba/pramANAni/gRhya/karmANi/gRha/)।
+हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n161/mode/2up)। प्रयोगो [ऽत्र](../../sUtram/ApastambaH/pramANAni/gRhyam/karmANi/gRham/)।
 
 ## निर्माणम्
 __________________
@@ -42,7 +42,7 @@ ______________
 श्रीस् ते॒ स्तूपः॑+++(=पृष्ठवंशः)+++ ।+++(५)+++  
 
 ## प्रवेशः
-+++(अग्निमुद्धरति)+++  
++++(अग्निम् उद्धरति)+++  
 उ॒द्ध्रि॒यमा॑ण॒ उद्ध॑र पा॒प्मनो॑ मा॒  
 यद् अवि॑द्वा॒न् यच् च॑ वि॒द्वाꣳश् च॒कार॑ ।  
 अह्ना॒ यद् एनः॑ कृ॒तम् अ॑स्ति पा॒पꣳ  
