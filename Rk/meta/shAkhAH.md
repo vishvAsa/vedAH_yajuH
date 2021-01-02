@@ -1,7 +1,8 @@
 +++
-title = "ऋग्वेदः"
+title = "+शाखाः"
 unicode_script = "devanagari"
 +++
+
 ## शकल-शाखा
 - "Nambudiris of Kerala recite even the Brahmana and Aranyaka with accents. Accented manuscripts of Brahmana and Aranyaka are available to this day."
 
