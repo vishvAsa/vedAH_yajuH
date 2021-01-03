@@ -1,5 +1,5 @@
 +++
-title = "यजुर्वेदः"
+title = "शाखाः"
 unicode_script = "devanagari"
 +++
 ## कृष्णयजुर्वेदः

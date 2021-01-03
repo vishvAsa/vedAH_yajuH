@@ -1,5 +1,5 @@
 +++
-title = "+साम"
+title = "+अधिसाम"
 unicode_script = "devanagari"
 +++
 
