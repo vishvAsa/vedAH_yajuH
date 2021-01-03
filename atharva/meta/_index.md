@@ -1,5 +1,5 @@
 +++
-title = "+अथर्ववेदः"
+title = "+अध्यथर्वम्"
 unicode_script = "devanagari"
 +++
 
