@@ -3,6 +3,15 @@ title: सीमन्तोन्नयनम्
 unicode_script: devanagari
 
 ---
+
+## सीमन्तोन्नयनम्
+### होममन्त्राः
+<div class="js_include" url="../../../../saMskAra/mantraH/AdityaH/Rk/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="true"> </div>  
+
+<div class="js_include" url="../../../../saMskAra/mantraH/agniH/Rk/yas_tvA_hRdA/"  newLevelForH1="2" includeTitle="true"> </div>  
+
+<div class="js_include" url="../../../../saMskAra/mantraH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="true"> </div>  
+
 शम्याः परिध्यर्थे विवाहोपनयसमावर्तनसीमन्तचौलगोदानप्रायश्चित्तेषु ॥ …  
 सीमन्तोन्नयनं प्रथमे गर्भे चतुर्थे मासि ॥ आपस्तम्बगृह्यसूत्र १४.१ ॥  
 ब्राह्मणान्भोजयित्वाऽशिषो वाचयित्वाग्नेरुपसमाधानाद्याज्यभागान्तेऽन्वारब्धायामुत्तरा आहुतीर्हुत्वा +++(=  धाता ददातु नो रयिऽमिति चतस्रो यस्त्वा हृदा कीरिणेति चतस्रः)+++ जयादि प्रतिपद्यते ॥  
