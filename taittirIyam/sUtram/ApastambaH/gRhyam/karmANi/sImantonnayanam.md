@@ -6,11 +6,11 @@ unicode_script: devanagari
 
 ## सीमन्तोन्नयनम्
 ### होममन्त्राः
-<div class="js_include" url="../../../../saMskAra/mantraH/AdityaH/Rk/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/AdityaH/Rk/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/agniH/Rk/yas_tvA_hRdA/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/agniH/Rk/yas_tvA_hRdA/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 शम्याः परिध्यर्थे विवाहोपनयसमावर्तनसीमन्तचौलगोदानप्रायश्चित्तेषु ॥ …  
 सीमन्तोन्नयनं प्रथमे गर्भे चतुर्थे मासि ॥ आपस्तम्बगृह्यसूत्र १४.१ ॥  

@@ -168,9 +168,9 @@ unicode_script: devanagari
 ## होमः
 +++(ते च सर्वे माणवकस्यैव । द्वितीयचतुर्थाव् आचार्यस्येत्येके ।)+++
 
-<div class="js_include" url="../../../../saMskAra/mantraH/indraH/Rk/yogeyoge/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/indraH/Rk/yogeyoge/"  newLevelForH1="3" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/Rk/imam_agna_AyuShe/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/misc-devas/Rk/imam_agna_AyuShe/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ### शिष्टम्  
 श॒तम् इन् नु श॒रदो॒ अन्ति॑+++(कं)+++ देवा॒,  
@@ -193,9 +193,9 @@ unicode_script: devanagari
 दैवी॒ या मा॑नु॒षी मे॒धा  
 सा मामा वि॑शतादि॒ह ।  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 
 
@@ -215,7 +215,7 @@ unicode_script: devanagari
 ओंसुवः तत्सवितुर्वरेण्यं भर्गोदेवस्य धीमहि धियो यो नः प्रचोदयात् )+++
 
 
-<div class="js_include" url="../../../../saMskAra/mantraH/AdityaH/Rk/tat_savitur/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/AdityaH/Rk/tat_savitur/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 
 ## दण्डग्रहणम्
@@ -277,7 +277,7 @@ unicode_script: devanagari
 उत्तरैर् +++("तच्चक्षुर्देव हितम्")+++ आदित्यमुपतिष्ठते १७  
 
 +++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् ।  
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/Rk/pashyema_sharadaH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/misc-devas/Rk/pashyema_sharadaH/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 ### हस्तग्रहणमन्त्रः
