@@ -6,7 +6,7 @@ unicode_script: devanagari
 
 ## सीमन्तोन्नयनम्
 ### होममन्त्राः
-<div class="js_include" url="/saMskAra/mantraH/AdityaH/Rk/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../prakIrNam/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 <div class="js_include" url="/saMskAra/mantraH/agniH/Rk/yas_tvA_hRdA/"  newLevelForH1="2" includeTitle="true"> </div>  
 
