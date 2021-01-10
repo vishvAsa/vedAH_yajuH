@@ -67,7 +67,7 @@ unicode_script = "devanagari"
 
 वृषा॑ प॒वित्रे॒ अधि॒ सानो॒ अव्ये॑ बृ॒हथ्सोमो॑ वावृधे सुवा॒न इन्दुः॑ ।  
 
-<div class="js_include" url="../../../../../saMskAra/mantraH/agniH/Rk/jAtavedase_sunavAma_taittirIyam/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="11_jAtavedase_sunavAma_taittirIyam/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ## 2.1
@@ -236,7 +236,7 @@ unicode_script = "devanagari"
 
 ## 26.1
 
-आया॑तु॒ वर॑दा दे॒वी॒ अ॒ख्षरं॑ ब्रह्म॒संमि॑तम् । गा॒य॒त्रीञ्छन्द॑सां मा॒तेदं ब्र॑ह्म जु॒षस्व॑ नः । ओजो॑ऽसि॒ सहो॑ऽसि॒ बल॑मसि॒ भ्राजो॑ऽसि दे॒वाना॒न्धाम॒ नामा॑सि॒ विश्व॑मसि वि॒श्वायु॒स्सर्व॑मसि  स॒र्वायुरभिभूरोङ्गायत्रीमावा॑हया॒मि । (41)
+<div class="js_include" url="26_AyAtu_varadA/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 
@@ -260,7 +260,9 @@ unicode_script = "devanagari"
 
 ## 30.1
 
-उ॒त्तमे॑ शिख॑रे दे॒वी॒ भू॒म्यां प॑र्वत॒मूर्ध॑नि । ब्रा॒ह्म॒णेभ्यो ह्य॑नुज्ञा॒न॒ङ्ग॒च्छ दे॑वि य॒थासु॑खम् । (45)
+<div class="js_include" url="30_uttame_shikhare"  newLevelForH1="2" includeTitle="true"> </div>  
+
+
 
 
 
@@ -271,31 +273,7 @@ unicode_script = "devanagari"
 
 
 ## 32.1
-
-अ॒मृ॒तो॒प॒स्तर॑णमसि । (47)
-
-
-
-## 33.1
-<div class="js_include" url="../../../../../saMskAra/mantraH/rudraH/Rk/prANe_nivShTaH/"  newLevelForH1="2" includeTitle="false"> </div>  
-
-
-
-## 34.1
-
-प्रा॒णे निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि शि॒वो मा॑ वि॒शा प्र॑दाहाय प्रा॒णाय॒ स्वाहा । अ॒पा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि शि॒वो मा॑ वि॒शा प्र॑दाहायापा॒नाय॒ स्वाहा । व्या॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि शि॒वो मा॑ वि॒शा प्र॑दाहाय व्या॒नाय॒ स्वाहा । उ॒दा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि शि॒वो मा॑ वि॒शा प्र॑दाहायोदा॒नाय॒ स्वाहा । स॒मा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि शि॒वो मा॑ वि॒शा प्र॑दाहाय समा॒नाय॒ स्वाहा ।  ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (49)
-
-
-
-## 35.1
-
-अ॒मृ॒ता॒पि॒धा॒नम॑सि । (50)
-
-
-
-## 36.1
-
-श्र॒द्धायां प्रा॒णे निवि॑श्या॒मृत॑ हु॒तम्प्रा॒णमन्ने॑नाप्यायस्व । अ॒पा॒ने निवि॑श्या॒मृत॑ हु॒तम॑पा॒नमन्ने॑नाप्यायस्व । व्या॒ने निवि॑श्या॒मृत॑ हु॒तव्व्ँ या॒नमन्ने॑नाप्यायस्व । उ॒दा॒ने निवि॑श्या॒मृत॑ हु॒तमु॑दा॒नमन्ने॑नाप्यायस्व । स॒मा॒ने निवि॑श्या॒मृत॑ हु॒त स॑मा॒नमन्ने॑नाप्यायस्व । ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (51)
+<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/32-36_prANe_niviShTaH"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 
@@ -313,17 +291,17 @@ unicode_script = "devanagari"
 
 ## 39.1
 
-<div class="js_include" url="../../../../../saMskAra/mantraH/vAk/Rk/medhA_devI/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="39_medhA_devI/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## 43.1
 
-स॒द्योजा॒तं प्र॑पद्या॒मि॒ स॒द्योजा॒ताय॒ वै नमः॑ । भ॒वेभ॑वे॒ नाति॑भवे भजस्व॒ मां भ॒वोद्भ॑वाय॒ नमः॑ । (58)
+<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/43_sadyojAtam_prapadyAmi"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
 ## 44.1
 
-वा॒म॒दे॒वाय॒ नमो ज्ये॒ष्ठाय॒ नमो॑ रु॒द्राय॒ नमः॒ काला॑य॒ नमः॒ कल॑विकरणाय॒ नमो॒ बल॑विकरणाय॒  नमो॒ बल॑प्रमथनाय॒ नम॒स्सर्व॑भूतदमनाय॒ नमो॑ म॒नोन्म॑नाय॒ नमः॑ । (59)
+<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/44_vAmadevAya_namaH"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
@@ -341,7 +319,7 @@ unicode_script = "devanagari"
 
 ## 47.1
 
-ईशानस्सर्व॑विद्या॒ना॒मीश्वरस्सर्व॑भूता॒नां॒ ब्रह्माधि॑पति॒र्ब्रह्म॒णोऽधि॑पति॒र्ब्रह्मा॑ शि॒वो मे॑ अस्तु सदाशि॒वोम् । (62)
+<div class="js_include" url="47_IshAnas_sarvabhUtAnAm"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
