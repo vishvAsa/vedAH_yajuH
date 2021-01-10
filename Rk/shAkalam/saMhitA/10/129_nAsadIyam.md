@@ -1,5 +1,5 @@
 +++
-title = "१२५ अहं रुद्रेभिः"
+title = "१२५ नासदीयम्"
 unicode_script = "devanagari"
 +++
 
