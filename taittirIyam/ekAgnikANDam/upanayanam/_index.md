@@ -13,7 +13,7 @@ unicode_script: devanagari
 घृ॒तं पिब॑न्न् अ॒मृत॒ञ् चारु॒ गव्यं॑  
 पि॒तेव॑ पु॒त्रञ् ज॒रसे॑ नये॒मम् ।  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/Rk/dAmpatyam/ashmArohaNam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../prakIrNam/ashmArohaNam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ## भूषणम्
