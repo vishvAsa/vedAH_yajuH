@@ -3,8 +3,6 @@ title = "१२५ अहं रुद्रेभिः"
 unicode_script = "devanagari"
 +++
 
-<div class="js_include" url="../../../../../saMskAra/mantraH/brahma/Rk/ahaM_rudrebhiH/"  newLevelForH1="2" includeTitle="false"> </div>  
-
 अ॒हं रु॒द्रेभि॒र् वसु॑भिश् चराम्य्  
 अ॒हमा॑दि॒त्यैर् उ॒त वि॒श्वदे॑वैः ।  
 अ॒हं मि॒त्रावरु॑णो॒भा बि॑भर्म्य्  
