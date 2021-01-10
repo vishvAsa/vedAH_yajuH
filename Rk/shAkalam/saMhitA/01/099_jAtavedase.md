@@ -5,4 +5,7 @@ unicode_script = "devanagari"
 
 +++(एकैव ऋग् अत्र।)+++
 
-<div class="js_include" url="../../../../../saMskAra/mantraH/agniH/Rk/jAtavedase_sunavAma/"  newLevelForH1="2" includeTitle="false"> </div>  
+जा॒तवे॑दसे+++(=जातज्ञानाय)+++ सुनवाम॒ सोम॑म्  
+अरातीय॒तो+++(=शत्रुकामाय)+++ निद॑हाति॒ वेदः॑+++(=वेत्तीति)+++।  
+स नः॑ पर्ष॒द्+++(=अपारयत्)+++ अति॑ दु॒र्गाणि॒ विश्वा॑  
+ना॒वेव॒ सिन्धुं॑ दुरि॒ताऽत्य॒ग्निः॥

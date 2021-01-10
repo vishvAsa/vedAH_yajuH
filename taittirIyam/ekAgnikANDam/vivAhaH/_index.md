@@ -172,7 +172,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../../../saMskAra/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/taittirIyam/brAhmaNam/2/5/aMshAH/tvan_no_agne/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ### अश्मानमास्थापयति
 <div class="js_include" url="../prakIrNam/ashmArohaNam/"  newLevelForH1="4" includeTitle="true"> </div>  

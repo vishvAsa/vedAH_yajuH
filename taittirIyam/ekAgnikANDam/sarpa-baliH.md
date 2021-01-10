@@ -31,7 +31,7 @@ unicode_script: devanagari
 त्वयि॑ नस्स॒तस्+++(=आश्रितान्)+++, त्वयि॑ स॒द्भ्यो +++(सर्पेभ्यो)+++, व॒र्षाभ्यो॑ नः॒ परि॑देहि ।  
 +++(वर्षऋतौ सर्पबाहुल्यम्।)+++
 
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/Rk/namo_astu_sarpebhyaH/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/taittirIyam/ekAgnikANDam/prakIrNam/namo_astu_sarpebhyaH/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ## बलिहरण-सङ्कल्पः
