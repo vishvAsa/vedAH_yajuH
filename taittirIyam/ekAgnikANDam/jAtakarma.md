@@ -30,7 +30,7 @@ unicode_script: devanagari
 
 ### स्नापनम्
 
-<div class="js_include" url="../../../../saMskAra/mantraH/AdityaH/Rk/druho_munchAmi/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../prakIrNam/druho_munchAmi/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### दधि-घृत-प्राशनम्
 भूस्स्वाहा॒ भुव॒स्स्वाहा॒ सुव॒स्स्वाहा। ॐ स्वाहा॑ ।।
@@ -57,9 +57,15 @@ unicode_script: devanagari
 आप॑स्सु॒प्तेषु॑ जाग्रत॒ रक्षाꣳ॑सि॒ निरि॒तो नु॑दद्ध्वम् ।
 
 ## सूतकहोमः
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/Rk/dAmpatyam/sUtaka-homa-mantra-Ap/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-सर्षपान् फलीकरणमिश्रानञ्जलिनोत्तरैस् त्रिस्त्रि प्रतिस्वाहाकारं हुत्वा +++(पिता)+++ संशास्ति- "प्रविष्टे प्रविष्ट एव तूष्णीमग्नावावपते"ति ६  
+सर्षपान् फलीकरणमिश्रानञ्जलिनोत्तरैस् त्रिस्त्रि प्रतिस्वाहाकारं हुत्वा  
+
+<div class="js_include" url="../prakIrNam/sUtaka-homa-mantrAH/"  newLevelForH1="2" includeTitle="true"> </div>  
+
+
+
++++(पिता)+++ संशास्ति- "प्रविष्टे प्रविष्ट एव तूष्णीमग्नावावपते"ति ६  
+
 एवमहरहरानिर्दशतायाः +++(="निर्दशा"निर्गता दशभ्योऽहोरात्रेभ्यो या रात्रिस्सा)+++७
 
 ## प्रवासादेत्य जातकर्म
