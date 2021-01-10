@@ -6,7 +6,7 @@ unicode_script = "devanagari"
 ## प्रवेशः
 तैत्तिरीयोपनिषत् ३, वारुण्युपनिषत् २, भृगुवल्ली
 
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/yajuH/shanno_mitraH_prArambhe/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="aMshAH/shanno_mitraH_prArambhe/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ## शिक्षा
@@ -168,12 +168,12 @@ unicode_script = "devanagari"
 इति त्रिशङ्कोर् वेदा॑नुव॒चनम् । (17)
 
 
-<div class="js_include" url="../../../../kalpe_svamatam/brAhmaNam/taittirIyam/tattvam/veda-sAraH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="aMshAH/veda-sAraH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/yajuH/shanno_mitraH_samApanam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="aMshAH/shanno_mitraH_samApanam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/yajuH/sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="aMshAH/sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## ब्रह्मविद् आप्नोति
 ब्र॒ह्म॒विदा᳚प्नोति॒ पर᳚म् ।  
