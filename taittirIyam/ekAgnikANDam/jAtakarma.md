@@ -33,7 +33,7 @@ unicode_script: devanagari
 <div class="js_include" url="../prakIrNam/druho_munchAmi/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### दधि-घृत-प्राशनम्
-भूस्स्वाहा॒ भुव॒स्स्वाहा॒ सुव॒स्स्वाहा। ॐ स्वाहा॑ ।।
+भूस्स्वाहा॒ भुव॒स्स्वाहा॒ सुव॒स्स्वाहा। ॐ स्वाहा॑ ॥
 
 ### मातुर् उपस्थ आधानम्
 मा ते॑ कुमा॒रँ रक्षो॑वधी॒न्  
