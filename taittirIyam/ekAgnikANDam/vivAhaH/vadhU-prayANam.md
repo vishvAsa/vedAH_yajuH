@@ -60,7 +60,7 @@ ___________
 सु॒गं पन्था॑न॒म् आरु॑क्ष॒+++(ह)+++म्  
 अरि॑ष्ट२ꣳ स्वस्ति॒-वाह॑नम् ।  
 यस्मि॑न् वी॒रो न रिष्य॑त्य्,  
-अ॒न्येषां॑ वि॒न्दते॒ वसु॑ ।। (6)
+अ॒न्येषां॑ वि॒न्दते॒ वसु॑ ॥ (6)
 
 ## तीर्थादिव्यतिक्रमे जपः  
 ता+++(=तौ)+++ म॑न्दसा॒ना+++(=स्तूयमानौ)+++ मनु॑षो दुरो॒ण+++(=गृहे)+++  
@@ -92,7 +92,7 @@ ___________
 
 <div class="js_include" url="../../../../../saMskAra/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../../saMskAra/mantraH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/taittirIyam/brAhmaNam/2/5/aMshAH/tvan_no_agne/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ## क्षीरिवृक्षाद्यतिक्रमे जपः 

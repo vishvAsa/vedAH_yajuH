@@ -89,7 +89,7 @@ practice_weight: 0
 +++(तयोः)+++ विश्वा॑न्य् अ॒न्यो +++(सूर्यः)+++ भुव॑ना ऽभि॒चष्ट॑  
 ऋ॒तूँर् अ॒न्यो +++(चन्द्रमा)+++ वि॒दध॑ज् जायते॒ पुनः॑ ॥१८
 
-<div class="js_include" url="../../../../../../saMskAra/mantraH/somaH/Rk/navo_navo_bhavati/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../navo_navo_bhavati/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ### अनुषङ्गाः
 सु॒किं॒शु॒कं श॑ल्म॒लिं वि॒श्वरू॑पं॒  
@@ -97,3 +97,4 @@ practice_weight: 0
 आ रो॑ह +++(देवि)+++ सूर्ये अ॒मृत॑स्य लो॒कं  
 स्यो॒नं पत्ये॑ वह॒तुं कृ॑णुष्व ॥२०
 
+<div class="js_include" url="../udIrShvAtaH/"  newLevelForH1="3" includeTitle="false"> </div>  

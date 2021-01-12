@@ -6,7 +6,7 @@ unicode_script = "devanagari"
 ## प्रवेशः
 तैत्तिरीयोपनिषत् ३, वारुण्युपनिषत् २, भृगुवल्ली
 
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/yajuH/shanno_mitraH_prArambhe/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="aMshAH/shanno_mitraH_prArambhe/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ## शिक्षा
@@ -14,7 +14,7 @@ unicode_script = "devanagari"
 वर्णः॒ स्वरः ।  
 मात्रा॒ बलम् ।  
 साम॑ सन्ता॒नः ।  
-इत्युक्तश् शी᳚ख्षाद्ध्या॒यः ।। (2)
+इत्युक्तश् शी᳚ख्षाद्ध्या॒यः ॥ (2)
 
 ## संहितोपनिषत्
 स॒ह नौ॒ यशः ।  
@@ -44,7 +44,7 @@ unicode_script = "devanagari"
 इत्यद्ध्या॒त्मम् । 
 
 इतीमा म॑हास॒ꣳ॒हिताः ।  
-य एवम् एता महासꣳहिता व्याख्या॑ता वे॒द, सन्धीयते प्रज॑या प॒शुभिः,, ब्रह्मवर्चसेनान्नाद्येन सुवर्ग्येण॑ लोके॒न ।। (6)
+य एवम् एता महासꣳहिता व्याख्या॑ता वे॒द, सन्धीयते प्रज॑या प॒शुभिः,, ब्रह्मवर्चसेनान्नाद्येन सुवर्ग्येण॑ लोके॒न ॥ (6)
 
 ## प्रकीर्णम्
 <div class="js_include" url="../../../../saMskAra/mantraH/indraH/Rk/yash_ChandasAm/"  newLevelForH1="2" includeTitle="true"> </div>  
@@ -70,7 +70,7 @@ unicode_script = "devanagari"
 धात॒र् आय॑न्तु स॒र्वत॒स्  
 स्वाहा᳚ । 
 
-प्र॒ति॒वे॒शो॑सि॒, प्र मा॑ भाहि॒, प्र मा॑ पद्यस्व ।।
+प्र॒ति॒वे॒शो॑सि॒, प्र मा॑ भाहि॒, प्र मा॑ पद्यस्व ॥
 
 ## व्याहृतिभावः
 सायणटीका [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n505/mode/2up) ।
@@ -96,7 +96,7 @@ unicode_script = "devanagari"
 
 ### फलश्रुतिः
 ता वा ए॒ताश् च॑तस्रश् चतु॒र्धा, चत॑स्रश् चतस्रो॒ व्याहृ॑तयः ।  
-ता यो वेद॑ । स वे॑द॒ ब्रह्म॑ । सर्वे॑ऽस्मै दे॒वा ब॒लिमाव॑हन्ति ।। (11)
+ता यो वेद॑ । स वे॑द॒ ब्रह्म॑ । सर्वे॑ऽस्मै दे॒वा ब॒लिमाव॑हन्ति ॥ (11)
 
 ## पुरुषस्थानम्
 स य ए॒षो᳚ऽन्तर्-हृ॑दय आका॒शः, तस्मि॑न्न् अ॒यं पुरु॑षो मनो॒मयः॑ ।  
@@ -168,12 +168,12 @@ unicode_script = "devanagari"
 इति त्रिशङ्कोर् वेदा॑नुव॒चनम् । (17)
 
 
-<div class="js_include" url="../../../../kalpe_svamatam/brAhmaNam/taittirIyam/tattvam/veda-sAraH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="aMshAH/veda-sAraH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/yajuH/shanno_mitraH_samApanam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="aMshAH/shanno_mitraH_samApanam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/yajuH/sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="aMshAH/sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## ब्रह्मविद् आप्नोति
 ब्र॒ह्म॒विदा᳚प्नोति॒ पर᳚म् ।  

@@ -63,7 +63,7 @@ unicode_script: devanagari
 शन्ते॒ +++(छिद्रे निधीयमानं)+++ हिर॑ण्य॒ꣳ॒ शमु॑ स॒न्त्वाप॒श्  
 शन्ते॑ मे॒धी+++(=खलेवाली, खले धान्यपेषणस्थाने वाल्यन्ते वृषा इति - अत्र युगः)+++ भ॑वतु॒ शय्ँ यु॒गस्य॒ तृद्म॑+++(=छिद्रम्)+++ ।  
 शन्त॒ आप॑श् श॒त-प॑वित्रा भव॒न्त्व्  
-अथा॒ पत्या॑ त॒न्वꣳ॑ सꣳसृ॑जस्व ।। (1)
+अथा॒ पत्या॑ त॒न्वꣳ॑ सꣳसृ॑जस्व ॥ (1)
 
 ### स्नानम्  
 <div class="js_include" url="../../../../saMskAra/mantraH/jalam/Rk/hiraNyavarNAsh_shuchayaH/"  newLevelForH1="4" includeTitle="true"> </div>
@@ -85,7 +85,7 @@ unicode_script: devanagari
 पू॒षा त्वा+इ॒तो न॑यतु॒ हस्त॒-गृह्या॒  
 ऽश्विनौ॑ त्वा॒ प्रव॑हता॒ꣳ॒ रथे॑न ।  
 +++(मदीयान्)+++ गृ॒हान् ग॑च्छ गृ॒हप॑त्नी॒  
-यथा ऽसो॑+++(=स्या)+++ व॒शिनी॒ त्वं वि॒दथ॒म्+++(=यज्ञं)+++ आव॑दासि+++(=आवद)+++ ।। (2)
+यथा ऽसो॑+++(=स्या)+++ व॒शिनी॒ त्वं वि॒दथ॒म्+++(=यज्ञं)+++ आव॑दासि+++(=आवद)+++ ॥ (2)
 
 ### आज्यभागान्ते उत्तराभ्यामभिमन्त्रणम्
 सोमः॑ प्रथ॒मो वि॑विदे +++(लेभे)+++  
@@ -172,7 +172,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../../../saMskAra/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/taittirIyam/brAhmaNam/2/5/aMshAH/tvan_no_agne/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ### अश्मानमास्थापयति
 <div class="js_include" url="../prakIrNam/ashmArohaNam/"  newLevelForH1="4" includeTitle="true"> </div>  

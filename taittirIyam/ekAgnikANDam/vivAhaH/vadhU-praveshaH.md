@@ -19,7 +19,7 @@ ________________
 +++(वाह!)+++ अ॒यन् नो॑ दे॒वस् स॑वि॒ता बृह॒स्पति॑र्  
 इन्द्रा॒ग्नी मि॒त्रावरु॑णा स्व॒स्तये॑ ।  
 त्वष्टा॒ विष्णुः॑ प्र॒जया॑ सꣳररा॒णः+++(=सन्ददानः)+++  
-काम॒+++(य्)+++ आया॑तं॒ कामा॑य त्वा॒ विमु॑ञ्चतु ।। (7)
+काम॒+++(य्)+++ आया॑तं॒ कामा॑य त्वा॒ विमु॑ञ्चतु ॥ (7)
 
 _____________
 +++(चर्मास्तरणम्)+++  
@@ -80,7 +80,7 @@ _____________
 
 <div class="js_include" url="../../../../../saMskAra/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../../saMskAra/mantraH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/taittirIyam/brAhmaNam/2/5/aMshAH/tvan_no_agne/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 इति श्रीहरदत्तविरचिते एकाग्निकाण्डमन्त्रव्याख्याने अष्टमः खण्डः ॥
