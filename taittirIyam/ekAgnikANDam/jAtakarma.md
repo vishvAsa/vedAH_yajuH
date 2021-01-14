@@ -4,7 +4,7 @@ unicode_script: devanagari
 ---
 
 ### अभिमर्शनम्
-<div class="js_include" url="../../../../saMskAra/mantraH/agniH/Rk/divaspari/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/045_divaspari/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### उपस्थ आधानम्
 अ॒स्मिन्न॒हँस॒हस्रं॑ पुष्या॒म्येध॑मान॒स् स्वे वशे॑ ।
@@ -74,7 +74,7 @@ unicode_script: devanagari
 मूर्धन्यवघ्राणम् - अश्मा॑ भव पर॒शुर्भ॑व॒ हिर॑ण्य॒मस्तृ॑तं भव । प॒शू॒नान्त्वा॑ हिङ्का॒रेणा॒भि जि॑घ्राम्य् असौ+++(→नामनिर्देशः)+++ ।
 
 ### कर्णे जपः
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/Rk/agnirAyuShmAn/"  newLevelForH1="4" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/taittirIyam/ekAgnikANDam/prakIrNam/agnirAyuShmAn/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## कुमार्या अभिमन्त्रणम्
 सर्व॑स्माद् आ॒त्मन॒स् संभू॑ताऽसि॒, सा जी॑व श॒रद॑श् श॒तम् ।  
