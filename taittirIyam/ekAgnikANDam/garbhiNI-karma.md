@@ -7,7 +7,7 @@ unicode_script: devanagari
 ### होममन्त्राः
 <div class="js_include" url="../prakIrNam/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/agniH/Rk/yas_tvA_hRdA/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/05/aMshAH/yas_tvA_hRdA/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 <div class="js_include" url="../../../../saMskAra/mantraH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="true"> </div>  
 
