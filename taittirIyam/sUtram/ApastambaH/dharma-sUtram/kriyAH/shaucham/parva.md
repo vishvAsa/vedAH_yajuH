@@ -1,5 +1,5 @@
 ---
-title: अमावास्या
+title: पर्व
 tags: [अमावास्या, पूर्णिमा, पर्व]
 unicode_script: devanagari
 
