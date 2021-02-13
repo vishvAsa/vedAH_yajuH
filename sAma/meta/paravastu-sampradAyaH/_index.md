@@ -22,7 +22,7 @@ unicode_script: devanagari
   - स्वरचिह्नानि किमर्थानीति सम्प्रदाये ज्ञानं नष्टप्रायम्। स्वरचिह्नानि कानीत्यवगन्तुं प्रयत्नो [ऽत्र](https://docs.google.com/document/d/1dHkElOzXoAue48_xVgP-LAlSSpmMQ9QKjUrnSazEG1M/edit#heading=h.xyzfui7ansvz)।
   - This deviation from notation is seen in the myriad gAna traditions of other shAkhas as well. More at [svara page](../../../sanskrit/shixaa/svaraH/sAmaveda/)
 - वर्णालङ्काराः मुख्यतमाः। यथा - प्रेङ्खास्वरः, गमकस्य विविधनिवेशनानि, मात्राः। 
-- सम्बद्धटिप्पण्यो [ऽत्र](/notes/artha/skills/singing/)।
+- सम्बद्धटिप्पन्यो [ऽत्र](/notes/artha/skills/singing/)।
 
 ### santhA recordings
 I practiced a few saamans using our santhA recordings. It was a wonderful experience - as if the guru were right here teaching me. This made me very excited - because not only will my apasvaras decrease as a result, it also opened the possibility of recording such santhA-s for all the sAman-s, so that even after I move away, I can use them to continue my practice and master them in due course, before occasionally scheduling an online zoom session with the teacher so that he can test and refine!

@@ -9,6 +9,6 @@ unicode_script = "devanagari"
 
 {{< figure src="../../../../../../../saMskAra/mantraH/lokAntaram/images/naxatram/bce_2020-01-13_naxatra-prajApatiH.png" title="नक्षत्रियः प्रजापतिः" >}}
 
-### टिप्पणिः
+### टिप्पनी
 नाम - सूर्यपथि निष्ट्याम् आनेतुम् (projection) यो जानाति, (तथा प्रायेण विषुवस्थाने तस्यावस्थानं यो वेद), स हि नक्षत्रियं प्रजापतिं वेद, स हि उभयोर् लोकयोस् तं वेद।
 
