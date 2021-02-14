@@ -1,4 +1,4 @@
 +++
-title = "टिप्पणिः"
+title = "टिप्पनी"
 unicode_script = "devanagari"
 +++
