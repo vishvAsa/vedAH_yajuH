@@ -1,5 +1,4 @@
 +++
-title = "गृह्यप्रवेशविधिः"
-unicode_script = "devanagari"
+title = "+१८ गृहप्रवेशविधिः"
 
 +++

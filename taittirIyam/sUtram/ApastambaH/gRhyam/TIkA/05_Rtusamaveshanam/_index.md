@@ -1,5 +1,4 @@
 +++
-title = "ऋतुसमावेशनम्"
-unicode_script = "devanagari"
+title = "+०५ ऋतुसमवेशनम्"
 
 +++

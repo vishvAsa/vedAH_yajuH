@@ -1,5 +1,4 @@
 +++
-title = "आग्रयणस्थालीपाकः"
-unicode_script = "devanagari"
+title = "+२१ आग्रयणस्थालीपाकः"
 
 +++

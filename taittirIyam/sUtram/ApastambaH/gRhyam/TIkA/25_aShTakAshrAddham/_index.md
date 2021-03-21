@@ -1,5 +1,4 @@
 +++
-title = "अष्टकाश्राद्धम्"
-unicode_script = "devanagari"
+title = "+२५ अष्टकाश्राद्धम्"
 
 +++

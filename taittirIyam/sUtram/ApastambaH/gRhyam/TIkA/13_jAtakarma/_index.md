@@ -1,5 +1,4 @@
 +++
-title = "जातकर्म"
-unicode_script = "devanagari"
+title = "+१३ जातकर्म"
 
 +++

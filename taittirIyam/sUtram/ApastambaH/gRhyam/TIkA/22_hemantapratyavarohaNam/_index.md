@@ -1,5 +1,4 @@
 +++
-title = "हेमन्तप्रत्यवरोहणम्"
-unicode_script = "devanagari"
+title = "+२२ हेमन्तप्रत्यवरोहणम्"
 
 +++

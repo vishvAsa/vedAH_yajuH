@@ -1,5 +1,4 @@
 +++
-title = "कर्मान्तराणि"
-unicode_script = "devanagari"
+title = "+०६ कर्मान्तराणि"
 
 +++

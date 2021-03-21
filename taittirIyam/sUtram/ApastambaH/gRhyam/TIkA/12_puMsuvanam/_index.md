@@ -1,5 +1,4 @@
 +++
-title = "पुंसवनम्"
-unicode_script = "devanagari"
+title = "+१२ पुंसुवनम्"
 
 +++

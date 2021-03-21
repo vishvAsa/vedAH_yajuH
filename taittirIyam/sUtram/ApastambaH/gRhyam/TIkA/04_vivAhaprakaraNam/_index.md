@@ -1,5 +1,4 @@
 +++
-title = "विवाहप्रकरणम्"
-unicode_script = "devanagari"
+title = "+०४ विवाहप्रकरणम्"
 
 +++

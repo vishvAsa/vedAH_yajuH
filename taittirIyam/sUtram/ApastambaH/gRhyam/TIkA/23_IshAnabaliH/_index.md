@@ -1,5 +1,4 @@
 +++
-title = "ईशानबलिः"
-unicode_script = "devanagari"
+title = "+२३ ईशानबलिः"
 
 +++

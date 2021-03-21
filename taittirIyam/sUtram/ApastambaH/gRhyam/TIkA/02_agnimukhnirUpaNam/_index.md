@@ -1,5 +1,4 @@
 +++
-title = "अग्निमुखनिरूपणम्"
-unicode_script = "devanagari"
+title = "+०२ अग्निमुख्निरूपणम्"
 
 +++

@@ -1,5 +1,4 @@
 +++
-title = "चौलम्"
-unicode_script = "devanagari"
+title = "+१६ चौलम्"
 
 +++

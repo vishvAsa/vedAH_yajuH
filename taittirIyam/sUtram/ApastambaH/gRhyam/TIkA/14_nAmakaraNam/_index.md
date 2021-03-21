@@ -1,5 +1,4 @@
 +++
-title = " नामकरणम्"
-unicode_script = "devanagari"
+title = "+१४ नामकरणम्"
 
 +++
