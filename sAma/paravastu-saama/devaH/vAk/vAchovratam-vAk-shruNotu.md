@@ -9,7 +9,7 @@ practice_weight: 0
 
 स्वयम् अस्कुन्वे +++(=अकूर्दम्)+++॥
 
-{{< figure src="../../../images/mood/skipping-happy.jpg"  class="thumbnail">}}
+{{< figure src="..//saMskAra/mantraH/vAk/images/mood/skipping-happy.jpg"  class="thumbnail">}}
 
 ## साम
 

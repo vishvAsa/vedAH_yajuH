@@ -20,7 +20,7 @@ unicode_script: devanagari
 अरिष्ट-नेमिं पृतनाऽजम् आशुं  
 स्वस्तये तार्क्ष्यम् इहा +हुवेम  ।। ३३२
 
-{{< figure src="../../images/tArkShya.jpg"  class="thumbnail">}}
+{{< figure src="/saMskAra/mantraH/misc-devas/images/tArkShya.jpg"  class="thumbnail">}}
 
 ### टिप्पनी
 हेषारव इव श्येनशब्दः! तार्क्ष्यो गरुण इत्य् अर्वाचीनाः।
