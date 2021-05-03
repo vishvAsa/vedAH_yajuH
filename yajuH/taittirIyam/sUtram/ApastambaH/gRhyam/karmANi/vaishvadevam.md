@@ -43,5 +43,5 @@ tags: [वैश्वदेवम्, महायज्ञः]
 मयि॒ पुष्टिं॒ पुष्टि॑पतिर् दधातु॒ स्वाहा॑॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
 
 ## धर्मसूत्रोक्तांशाः
-<div class="js_include" url="/vedAH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/kriyAH/arhaNam/vaishvadevam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/kriyAH/arhaNam/vaishvadevam/"  newLevelForH1="2" includeTitle="true"> </div>  
 

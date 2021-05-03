@@ -5,21 +5,21 @@ unicode_script = "devanagari"
 सह॒ वै दे॒वाना॒ञ्चासु॑राणाञ्च य॒ज्ञौ प्रत॑तावास्ताव्ँव॒यꣵस्व॒र्गल्ँ लो॒कमे᳚ष्यामो व॒यमे᳚ष्याम॒ इति॒ तेऽसु॑रास्स॒न्नह्य॒ सह॑सै॒वाच॑रन्ब्रह्म॒चर्ये॑ण॒ तप॑सैव दे॒वास्तेऽसु॑रा अमुह्य॒ꣵ॒स्ते न प्राजा॑न॒ꣵ॒स्ते परा॑ऽभव॒न्ते न स्व॒र्गल्ँ लो॒कमा॑य॒न्प्रसृ॑तेन॒ वै य॒ज्ञेन॑ दे॒वास्स्व॒र्गल्ँ लो॒कमा॑य॒न्न प्रसृ॑ते॒नासु॑रा॒न्परा॑भावय॒न्प्रसृ॑तो ह॒ वै य॑ज्ञोपवी॒तिनो॑ य॒ज्ञोऽप्र॑सृ॒तोऽनु॑पवी॒तिनो॒ यत्किञ्च॑ ब्राह्म॒णो य॑ज्ञोपवी॒त्यधी॑ते॒ यज॑त ए॒व तत्तस्मा᳚द्यज्ञोपवी॒त्ये॑वाधी॑यीत या॒जये॒द्यजे॑त वा य॒ज्ञस्य॒ प्रसृ॑त्या॒ अजि॑न॒व्ँ वासो॑ वा दख्षिण॒त उ॑प॒वीय॒ दख्षि॑णं बा॒हुमुद्ध॑र॒तेऽव॑ धत्ते स॒व्यमिति॑ यज्ञोपवी॒तमे॒तदे॒व विप॑रीतं प्राचीनावी॒तꣳ स॒व्ँ वीतं॑ मानु॒षम् । 1 ।  
 रख्षाꣳ॑सि॒ ह वा॑ पुरोऽनुवा॒के तपोग्र॑मतिष्ठन्त॒ तान्प्र॒जाप॑तिर्व॒रेणो॒पाम॑न्त्रयत॒ तानि॒ वर॑मवृणीतादि॒त्यो नो॒ योद्धा॒ इति॒ तान्प्र॒जाप॑तिरब्रवी॒द्योध॑य॒ध्वमिति॒ तस्मा॒दुत्ति॑ष्ठन्त॒ꣳ॒ ह वा॒ तानि॒ रख्षाꣳ॑स्यादि॒त्यय्ँ योध॑यन्ति॒ याव॑दस्त॒मन्व॑गा॒त्तानि॑ ह॒ वा ए॒तानि॒ रख्षाꣳ॑सि गायत्रि॒याऽभि॑मन्त्रिते॒नाम्भ॑सा शाम्यन्ति॒ तदु॑ ह॒ वा ए॒ते ब्र॑ह्मवा॒दिनः॑ पू॒र्वाभि॑मु॒खाः स॒न्ध्याया᳚ङ्गायत्रि॒याऽभि॑मन्त्रिता॒ आप॑ ऊ॒र्ध्वं विख्षि॑पन्ति॒ ता ए॒ता आपो॑ व॒ज्रीभू॒त्वा तानि॒ रख्षाꣳ॑सि म॒न्देहारु॑णे द्वी॒पे प्रख्षि॑पन्ति॒ यत्प्र॑दख्षि॒णं प्रक्र॑मन्ति॒ तेन॑ पा॒प्मान॒मव॑धून्वन्त्यु॒द्यन्त॑मस्त॒य्ँयन्त॑मादि॒त्यम॑भिध्या॒यन्कु॒र्वन्ब्रा᳚ह्म॒णो वि॒द्वान्थ्स॒कलं॑ भ॒द्रम॑श्नुते॒ऽसावा॑दि॒त्यो ब्र॒ह्मेति॒ ब्रह्मै॒व सन्ब्रह्मा॒प्येति॒ य ए॒वव्ँ वेद॑ ।2।  
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/02/03-09_kUShmANDa-homa-mantrAH/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/02/03-09_kUShmANDa-homa-mantrAH/"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/02/10-11_kUShmANDam_vratAni_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/02/10-11_kUShmANDam_vratAni_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/02/12_brahma-yajJNa-phalam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/02/12_brahma-yajJNa-phalam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/02/13_pancha-mahA-yajJNaH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/02/13_pancha-mahA-yajJNaH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/02/14-19_brahma-yajJNaH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/02/14-19_brahma-yajJNaH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 रिच्य॑त इव॒ वा ए॒ष प्रेव रि॑च्यते॒ यो या॒जय॑ति॒ प्रति॑ वा गृ॒ह्णाति॑ या॒जयि॑त्वा प्रतिगृ॒ह्य वाऽन॑श्न॒न्त्रिः स्वा᳚ध्या॒यव्ँ वे॒दमधी॑यीत त्रिरा॒त्रव्ँ वा॑ सावि॒त्रीङ्गा॑य॒त्रीम॒न्वाति॑रेचयति॒ वरो॒ दख्षि॑णा॒ वरे॑णै॒व वरꣵ॑स्पृणोत्या॒त्मा हि वरः॑ । (19) ॥ 16 ।  
 दु॒हे ह॒ वा ए॒ष छन्दाꣳ॑सि॒ यो या॒जय॑ति॒ स येन॑ यज्ञक्र॒तुना॑ या॒जये॒थ्सोऽर॑ण्यं प॒रेत्य॑ शुचौ दे॒शे स्वा᳚ध्या॒यमे॒वैन॒मधी॑यन्नासी॒त तस्या॒नश॑नन्दी॒ख्षा स्था॒नमु॑प॒सद॒ आस॑नꣳ सु॒त्या वाग्जु॒हूर्मन॑ उप॒भृद्धृ॒तिर्ध्रु॒वा प्रा॒णो ह॒विस्सामा᳚ध्व॒र्युस्स वा ए॒ष य॒ज्ञः प्रा॒णद॑ख्षि॒णोऽन॑न्तदख्षिण॒स्समृ॑द्धतरः । (20) ॥ 17 ।  
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/02/22_1_bhUH_prapadye/"  newLevelForH1="2" includeTitle="true"> </div>  
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/02/22_2_dhruva-vandanam/"  newLevelForH1="2" includeTitle="true"> </div>  
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/02/22_3_shiMshumAra-vandanam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/02/22_1_bhUH_prapadye/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/02/22_2_dhruva-vandanam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/02/22_3_shiMshumAra-vandanam/"  newLevelForH1="2" includeTitle="true"> </div>  
 

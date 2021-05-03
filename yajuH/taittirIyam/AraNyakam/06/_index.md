@@ -60,19 +60,19 @@ unicode_script = "devanagari"
 महादे॒वस्य॑ धीमहि ।  
 तन्नो॑ रुद्रः प्रचो॒दयात् ।  
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/aMshAH/tatpuruShAya_vidmahe_rudraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/aMshAH/tatpuruShAya_vidmahe_rudraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/aMshAH/dantiH_prachodayAt.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/aMshAH/dantiH_prachodayAt.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/aMshAH/garuDaH_prachodayAt.md"  newLevelForH1="2" includeTitle="false"> </div>   
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/aMshAH/garuDaH_prachodayAt.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
 
 ## 1.6
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/aMshAH/kAtyAyanAya_vidmahe.md"  newLevelForH1="2" includeTitle="false"> </div>   
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/aMshAH/kAtyAyanAya_vidmahe.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/aMshAH/nArAyaNAya_vidmahe.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/aMshAH/nArAyaNAya_vidmahe.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
@@ -334,12 +334,12 @@ unicode_script = "devanagari"
 
 ## 24.1
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/24_agnish_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/24_agnish_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ## 25.1
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/25_sUryash_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/25_sUryash_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ## 26.1
@@ -382,7 +382,7 @@ unicode_script = "devanagari"
 
 
 ## 32.1
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/32-36_prANe_niviShTaH"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/32-36_prANe_niviShTaH"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 
@@ -404,25 +404,25 @@ unicode_script = "devanagari"
 
 ## 43.1
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/43_sadyojAtam_prapadyAmi"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/43_sadyojAtam_prapadyAmi"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
 ## 44.1
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/44_vAmadevAya_namaH"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/44_vAmadevAya_namaH"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
 ## 45.1
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/45_aghorebhyo_atha"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/45_aghorebhyo_atha"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
 ## 46.1
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/aMshAH/tatpuruShAya_vidmahe_rudraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/aMshAH/tatpuruShAya_vidmahe_rudraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
