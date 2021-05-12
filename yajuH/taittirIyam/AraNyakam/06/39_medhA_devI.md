@@ -3,13 +3,13 @@ title: मेधा देवी
 unicode_script: devanagari
 ---
 
-तैत्तिरीयारण्यके महानारायणोपनिषदि 3.6.39.1। सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n411/mode/2up) आन्ध्रपाठमवलम्बमानः, भास्करो द्राविडपाठमवलम्बमानो [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_02#page/n159/mode/2up)।
+तैत्तिरीयारण्यके महानारायणोपनिषदि 3.6.39.1। सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n411/mode/2up) आन्ध्रपाठमवलम्बमानः, भास्करो द्राविडपाठमवलम्बमानो [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_02#page/n159/mode/2up) ।
 
 
 मे॒धा दे॒वी जु॒षमा॑णा न॒ आगा॑द्  
 वि॒श्वाची॑+++(=विश्वमनक्तीति)+++ भ॒द्रा सु॑मन॒स्यमा॑ना +++(=सुमनः कामयन्ती)+++ ।  
 त्वया॒ जुष्टा॑ नु॒दमा॑ना दु॒रुक्ता॑न्  
-बृ॒हद् व॑देम वि॒दथे॑+++(=यज्ञे)+++) सु॒वीराः॑ ॥ 
+बृ॒हद् व॑देम वि॒दथे॑+++(=यज्ञे)+++ सु॒वीराः॑ ॥ 
 
 त्वया॒ जुष्ट॑ ऋ॒षिर् भ॑वति देवि॒  
 त्वया॒ ब्रह्मा॑ ऽऽग॒तश्री॑र् उ॒त त्वया॑ ।  
