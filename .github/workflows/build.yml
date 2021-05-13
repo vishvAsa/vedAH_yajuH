@@ -47,8 +47,7 @@ jobs:
         submodules: false
         # Setting true above seems to lead to submodule updation problems.
         fetch-depth: 1
-    - name: Update submodules (non-pull-request)
-      if: ${{ github.event_name != 'pull_request'}}
+    - name: Update submodules
       run: |
         set -o xtrace
         git submodule update --init --recursive
