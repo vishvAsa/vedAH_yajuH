@@ -4,14 +4,8 @@ unicode_script: devanagari
 ---
 
 ## ऋक्
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/06/aMshAH/agna_AyAhi/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-RV.6.16.10
-
-+++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n145/mode/2up&sa=D&ust=1542425956351000)। भरद्वाजः। गायत्री। अग्निः।])+++
-
-अग्न आ या॑हि वी॒तये +++(=हविर्भक्षणाय)+++  
-गृणा॒नो +++(=स्तूयमानः)+++ ह॒व्यदा॑तये +++(देवेभ्यः)+++ ।  
-नि होता॑ सत्सि ब॒र्हिषि॑ ।।
 
 {{< figure src="/saMskAra/mantraH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
 
