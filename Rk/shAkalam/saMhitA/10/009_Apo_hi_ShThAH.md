@@ -13,9 +13,9 @@ unicode_script = "devanagari"
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH/ApaH/shan_no_devIh/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
-ईशा॑ना॒ वार्या॑णां॒  
-क्षय॑न्तीश्+++(=निवासयित्रीः)+++ चर्षणी॒नाम्+++(=चलनशीलानाम्)+++ ।  
-अ॒पो या॑चामि भेष॒जम् ॥ ०५॥
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH/ApaH/IshAnA_vAryANAm/"  newLevelForH1="2" includeTitle="true"> </div>  
+
+
 
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH/ApaH/apsu_me_somo_gAyatrI/"  newLevelForH1="2" includeTitle="true"> </div>  
 
