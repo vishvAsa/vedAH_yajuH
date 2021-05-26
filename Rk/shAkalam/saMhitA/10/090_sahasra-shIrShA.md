@@ -3,8 +3,6 @@ title = "०१२ सहस्रशीर्षा"
 unicode_script = "devanagari"
 +++
 
-<div class="js_include" url="../../../../../saMskAra/mantraH/brahma/Rk/sahasra-shIrShA/"  newLevelForH1="2" includeTitle="false"> </div>  
-
 ## सारः
 
 - सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n191/mode/2up) ।

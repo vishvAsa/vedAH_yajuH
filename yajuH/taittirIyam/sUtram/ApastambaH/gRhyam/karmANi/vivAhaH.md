@@ -303,7 +303,7 @@ unicode_script: devanagari
 ## प्रदक्षिणमन्त्राः  
 उत्तराभिस्तसृभिः +++(=तुभ्यमाग्रे पर्यवहन्नित्यादिभिः)+++ प्रदक्षिणमग्निं कृत्वा ऽऽश्मानमास्थापयति यथा पुरस्तात् ॥ +++(यथा पुरस्तात्)+++  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH/tubhyam_agre_paryavahan/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH/tubhyam_agre_paryavahan.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 <div class="js_include" url="../prakIrNam/vishvA_uta_tvayA/"  newLevelForH1="4" includeTitle="true"> </div>  
 
@@ -321,9 +321,9 @@ unicode_script: devanagari
 सुब॒द्धाम् अ॒मुत॑स् करत्+++(=कुरु)+++ ।+++(५)+++)  
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH/tubhyam_agre_paryavahan/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH/tubhyam_agre_paryavahan.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH/vishvA_uta_tvayA/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH/vishvA_uta_tvayA.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 
 ### अश्मानमास्थापयति
