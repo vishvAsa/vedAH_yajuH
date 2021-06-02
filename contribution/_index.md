@@ -1,0 +1,61 @@
++++
+title = "+Contribution"
+unicode_script = "devanagari"
++++
+
+## समानं कर्म
+- https://github.com/vvasuki/vedAH इत्यत्र गत्वा पुनः fork इति करोतु। https://github.com/XYZ/vedAH इति किञ्चिल् लभ्यते।
+- यदि कार्यम् vedAH-content इत्यस्मिन् क्रियते
+  - `git pull upstream content` इति परिवर्तनानि लभ्यानि।
+  - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/vedAH/tree/content इत्यत्र गत्वा प्रेषणीयम्।
+- यदि कार्यम् vedAH-static इत्यस्मिन् क्रियते
+  - `git pull upstream static_files` इति परिवर्तनानि लभ्यानि।
+  - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/vedAH/tree/static इत्यत्र गत्वा प्रेषणीयम्।
+
+## Windows setup
+
+ततः (`F:\Git` इति यथापेक्षं परिवर्त्य)- 
+
+```
+cd F:\Git\
+
+git clone --single-branch --depth 1 --branch content https://github.com/XYZ/vedAH.git vedAH-content
+git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/vedAH.git vedAH-static
+git clone --single-branch --depth 1 --branch master https://github.com/XYZ/vedAH.git vedAH-master
+
+cd f:\Git\vedAH-static
+git remote add upstream https://github.com/vvasuki/vedAH.git
+git pull upstream static_files
+
+cd f:\Git\vedAH-content
+git remote add upstream https://github.com/vvasuki/vedAH.git
+git pull upstream content
+
+rmdir /S F:\Git\vedAH-master\content
+rmdir /S F:\Git\vedAH-master\static
+mklink /h F:\Git\vedAH-master\content F:\Git\vedAH-content
+mklink /h F:\Git\vedAH-master\static F:\Git\vedAH-static
+```
+
+## Linux setup
+```
+cd F:\Git\
+
+git clone --single-branch --depth 1 --branch content https://github.com/XYZ/vedAH.git vedAH-content
+git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/vedAH.git vedAH-static
+git clone --single-branch --depth 1 --branch master https://github.com/XYZ/vedAH.git vedAH-master
+
+cd f:\Git\vedAH-static
+git remote add upstream https://github.com/vvasuki/vedAH.git
+git pull upstream static_files
+
+cd ~/git_projects/vedAH-content
+git remote add upstream https://github.com/vvasuki/vedAH.git
+git pull upstream content
+
+rm -rf ~/git_projects/vedAH-master/content
+rm -rf ~/git_projects/vedAH-master/static
+ln -s ~/git_projects/vedAH-content ~/git_projects/vedAH-master/content 
+ln -s ~/git_projects/vedAH-static ~/git_projects/vedAH-master/static 
+```
+
