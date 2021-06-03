@@ -2,9 +2,4 @@
 title = "०१ योगेयोगे तवस्तरम्"
 
 +++
-## मन्त्रः
-
-योगे॑योगे त॒वस्त॑रम्
-## टीका
-अथ होममन्त्राः - ते च सर्वे माणवकस्यैव । द्वितीयचतुर्था - वाचार्यस्येत्येके । योगेयोगे गतम् । योगस्त्वह कर्मण्युद्योगः ॥
-
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/07_yogeyoge_tavastaraM.md"  newLevelForH1="2" includeTitle="true"> </div>  
