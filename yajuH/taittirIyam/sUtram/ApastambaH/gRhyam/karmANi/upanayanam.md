@@ -372,3 +372,6 @@ unicode_script: devanagari
 ऽन्यत् परिधाप्य २४
 
 +++(ततः केचित् प्रणवश्रद्धामेधाः पूजयित्वा दण्डत्यागम्, अन्यदण्डग्रहणाञ्चेच्छन्ति।)+++
+
+## नियमान्तरपालने व्यवस्था
+[धर्मसूत्राणि](/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/pAtram/AshramaH/brahmacharyam/) दृश्यन्ताम्।
