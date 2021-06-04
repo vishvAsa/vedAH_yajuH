@@ -66,7 +66,7 @@ ln -s ~/git_projects/vedAH-content ~/git_projects/vedAH-master/content
 ln -s ~/git_projects/vedAH-static ~/git_projects/vedAH-master/static 
 ```
 
-## सञ्चिकासु प्राप्तेषु सत्सु कार्यम्
+## सञ्चिकासु प्राप्तासु सत्सु कार्यम्
 - यदि कार्यम् vedAH-content इत्यस्मिन् क्रियते
   - `git pull upstream content` इति परिवर्तनानि लभ्यानि।
   - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/vedAH/tree/content इत्यत्र गत्वा प्रेषणीयम्।
