@@ -80,6 +80,12 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/09_iyan_duruktAtparibAdhamAnA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
+ऋ॒तस्य॑ गो॒प्त्री तप॑सः पर॒स्+++(=प्र)+++पी+++(=पात्री)+++  
+घ्न॒ती रक्ष॒स् सह॑माना॒ अरा॑तीः ।  
+सा न॑स् सम॒न्तम् अनु॒ परी॑हि भ॒द्रया॑  
+भ॒र्तार॑स्+++(=बिभ्राणाः)+++ ते मेखले॒ मा रि॑षाम ।
+
+### अजिनमन्त्रः
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
