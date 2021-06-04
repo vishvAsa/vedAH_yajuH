@@ -27,11 +27,6 @@ cd f:\Git\vedAH-content
 git remote add upstream https://github.com/vvasuki/vedAH.git
 git pull upstream content
 
-rmdir /S F:\Git\vedAH-master\content
-rmdir /S F:\Git\vedAH-master\static
-mklink /s F:\Git\vedAH-master\content F:\Git\vedAH-content
-mkdir F:\Git\vedAH-master\static
-mklink /s F:\Git\vedAH-master\static F:\Git\vedAH-static\*
 ```
 
 ### Stuff which won't work
