@@ -13,6 +13,7 @@ unicode_script: devanagari
 
 +++(धर्मसूत्रोक्तनियमा [अन्यत्र](/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/pAtram/AshramaH/upanayanam/)।)+++
 
++++(अधो यथापेक्षं लिङ्गपरिवर्तनं स्यात्।)+++  
 <div class="js_include" url="../digvapanam"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
