@@ -9,11 +9,11 @@ title = "०३० दीर्घायुःप्राप्तिः"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030/01_vishve_devA.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/01/030/01_vishve_devA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030/02_ye_vo.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/01/030/02_ye_vo.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030/03_ye_devA.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/01/030/03_ye_devA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030/04_yeShAM_prayAjA.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/01/030/04_yeShAM_prayAjA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

@@ -9,9 +9,9 @@ title = "१३४ शत्रुनाशनम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134/01_ayaM_vajrastarpayatAmRtasyAvAsya.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/134/01_ayaM_vajrastarpayatAmRtasyAvAsya.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134/02_adharo_adhara_uttarebhyo.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/134/02_adharo_adhara_uttarebhyo.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134/03_yo_jinAti.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/134/03_yo_jinAti.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

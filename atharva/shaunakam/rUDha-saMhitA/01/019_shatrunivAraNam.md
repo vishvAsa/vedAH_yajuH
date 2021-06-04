@@ -10,11 +10,11 @@ title = "०१९ शत्रुनिवारणम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/019/01_mA_no.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/01/019/01_mA_no.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/019/02_viShvancho_asmachCharavaH.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/01/019/02_viShvancho_asmachCharavaH.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/019/03_yo_naH.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/01/019/03_yo_naH.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/019/04_yaH_sapatno.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/01/019/04_yaH_sapatno.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

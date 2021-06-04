@@ -9,9 +9,9 @@ title = "०४२ परस्परचित्तैकीकरणम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042/01_ava_jyAmiva.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/042/01_ava_jyAmiva.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042/02_sakhAyAviva_sachAvahA.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/042/02_sakhAyAviva_sachAvahA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042/03_abhi_tiShThAmi.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/042/03_abhi_tiShThAmi.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

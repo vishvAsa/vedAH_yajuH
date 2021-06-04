@@ -9,23 +9,23 @@ title = "०१८ सुरक्षा"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018/01_agniM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/018/01_agniM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018/02_vAyuM_te3_antarixavantamRChantu.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/018/02_vAyuM_te3_antarixavantamRChantu.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018/03_somaM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/018/03_somaM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018/04_varuNaM_ta.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/018/04_varuNaM_ta.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018/05_sUryaM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/018/05_sUryaM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018/06_apasta_oShadhImatIrRChantu.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/018/06_apasta_oShadhImatIrRChantu.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018/07_vishvakarmANaM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/018/07_vishvakarmANaM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018/08_indraM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/018/08_indraM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018/09_prajApatiM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/018/09_prajApatiM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018/10_bRhaspatiM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/018/10_bRhaspatiM_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

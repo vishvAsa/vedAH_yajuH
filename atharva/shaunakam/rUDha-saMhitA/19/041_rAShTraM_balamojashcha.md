@@ -9,5 +9,5 @@ title = "०४१ राष्ट्रं बलमोजश्च"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/041/01_bhadramichChanta_RShayaH.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/041/01_bhadramichChanta_RShayaH.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

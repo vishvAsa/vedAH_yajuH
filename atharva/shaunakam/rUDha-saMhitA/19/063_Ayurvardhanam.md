@@ -9,5 +9,5 @@ title = "०६३ आयुर्वर्धनम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/063/01_ut_tiShTha.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/063/01_ut_tiShTha.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

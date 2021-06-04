@@ -9,7 +9,7 @@ title = "०४५ ईर्ष्यानिवारणम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/045/01_janAd_vishvajanInAt.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/045/01_janAd_vishvajanInAt.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/045/02_agnerivAsya_dahato.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/045/02_agnerivAsya_dahato.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

@@ -9,7 +9,7 @@ title = "०४१ सुपर्णः"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/041/01_ati_dhanvAnyatyapastatarda.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/041/01_ati_dhanvAnyatyapastatarda.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/041/02_shyeno_nRchaxA.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/041/02_shyeno_nRchaxA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

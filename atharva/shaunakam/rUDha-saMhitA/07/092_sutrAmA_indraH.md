@@ -9,5 +9,5 @@ title = "०९२ सुत्रामा इन्द्रः"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/092/01_sa_sutrAmA.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/092/01_sa_sutrAmA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

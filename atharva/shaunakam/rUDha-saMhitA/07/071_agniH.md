@@ -9,5 +9,5 @@ title = "०७१ अग्निः"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/071/01_pari_tvAgne.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/071/01_pari_tvAgne.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

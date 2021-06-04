@@ -9,5 +9,5 @@ title = "१०३ क्षत्रियः"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/103/01_ko_asyA.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/103/01_ko_asyA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

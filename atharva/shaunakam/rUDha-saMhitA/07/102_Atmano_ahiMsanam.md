@@ -9,5 +9,5 @@ title = "१०२ आत्मनोऽहिंसनम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/102/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/102/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

@@ -9,5 +9,5 @@ title = "०४४ इन्द्राविष्णुः"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/044/01_ubhA_jigyathurna.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/044/01_ubhA_jigyathurna.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

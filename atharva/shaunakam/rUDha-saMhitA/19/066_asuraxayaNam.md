@@ -9,5 +9,5 @@ title = "०६६ असुरक्षयणम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/066/01_ayojAlA_asurA.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/066/01_ayojAlA_asurA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

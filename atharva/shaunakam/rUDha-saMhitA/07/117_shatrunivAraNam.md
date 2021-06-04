@@ -9,5 +9,5 @@ title = "११७ शत्रुनिवारणम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/117/01_A_mandrairindra.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/117/01_A_mandrairindra.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

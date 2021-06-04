@@ -9,5 +9,5 @@ title = "११८ वर्मधारणम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/118/01_marmANi_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/118/01_marmANi_te.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

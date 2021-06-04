@@ -9,5 +9,5 @@ title = "०६६ ब्रह्म"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/066/01_yadyantarixe_yadi.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/066/01_yadyantarixe_yadi.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

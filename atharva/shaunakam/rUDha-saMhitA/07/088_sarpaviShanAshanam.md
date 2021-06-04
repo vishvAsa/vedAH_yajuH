@@ -9,5 +9,5 @@ title = "०८८ सर्पविषनाशनम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/088/01_apehyarirasyarirvA_asi.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/088/01_apehyarirasyarirvA_asi.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

@@ -9,5 +9,5 @@ title = "१०७ संतरणम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/107/01_ava_divastArayanti.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/107/01_ava_divastArayanti.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

@@ -9,5 +9,5 @@ title = "०२१ छन्दांसि"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/021/01_gAyatryu1ShNiganuShTub_bRhatI.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/021/01_gAyatryu1ShNiganuShTub_bRhatI.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

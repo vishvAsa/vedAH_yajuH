@@ -9,5 +9,5 @@ title = "०३९ आपः"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/039/01_divyaM_suparNaM.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/039/01_divyaM_suparNaM.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

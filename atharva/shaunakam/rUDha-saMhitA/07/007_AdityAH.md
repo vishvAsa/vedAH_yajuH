@@ -9,5 +9,5 @@ title = "००७ आदित्याः"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/007/01_diteH_putrANAmaditerakAriShamava.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/007/01_diteH_putrANAmaditerakAriShamava.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

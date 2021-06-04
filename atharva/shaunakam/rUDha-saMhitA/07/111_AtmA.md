@@ -9,5 +9,5 @@ title = "१११ आत्मा"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/111/01_indrasya_kuxirasi.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/111/01_indrasya_kuxirasi.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

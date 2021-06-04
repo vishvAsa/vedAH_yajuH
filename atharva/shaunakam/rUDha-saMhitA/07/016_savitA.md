@@ -9,5 +9,5 @@ title = "०१६ सविता"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/016/01_bRhaspate_savitarvardhayainaM.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/016/01_bRhaspate_savitarvardhayainaM.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

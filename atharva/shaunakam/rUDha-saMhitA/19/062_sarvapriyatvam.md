@@ -9,5 +9,5 @@ title = "०६२ सर्वप्रियत्वम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/062/01_priyaM_mA.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/062/01_priyaM_mA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

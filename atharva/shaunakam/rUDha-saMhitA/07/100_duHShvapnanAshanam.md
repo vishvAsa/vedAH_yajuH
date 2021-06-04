@@ -9,5 +9,5 @@ title = "१०० दुःष्वप्ननाशनम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/100/01_paryAvarte_duShvapnyAt.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/100/01_paryAvarte_duShvapnyAt.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

@@ -9,5 +9,5 @@ title = "०६३ दुरितनाशनम्"
 
 ## पाठः
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/063/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md"  newLevelForH1="2" includeTitle="false"> </div> 
+  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/063/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
