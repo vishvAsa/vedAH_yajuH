@@ -10,16 +10,16 @@ unicode_script: devanagari
 - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n102/mode/1up)
 - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/AASHEERVACHANA%20SAAMAANI#mode/1up)
 
-../devaH/indraH/paravastu-saama/harishrInidhanam/"  newLevelForH1="2" includeTitle="true"> </div>  
-../devaH/somaH/paravastu-saama/yashas/"  newLevelForH1="2" includeTitle="true"> </div>  
-../devaH/somaH/paravastu-saama/dIrgham/"  newLevelForH1="2" includeTitle="true"> </div>  
-../devaH/somaH/paravastu-saama/AdIShAdiyyam/"  newLevelForH1="2" includeTitle="true"> </div>  
-../devaH/indraH/paravastu-saama/gAram/"  newLevelForH1="2" includeTitle="true"> </div>  
-../devaH/somaH/paravastu-saama/mahAvAtsapram/"  newLevelForH1="2" includeTitle="true"> </div>  
-../devaH/somaH/paravastu-saama/vAtsaprottaram/"  newLevelForH1="2" includeTitle="true"> </div>  
-../devaH/indraH/paravastu-saama/rathantaram/"  newLevelForH1="2" includeTitle="true"> </div>  
-../devaH/somaH/paravastu-saama/tavAham-mahAvairAjam/"  newLevelForH1="2" includeTitle="true"> </div>  
-../devaH/agniH/paravastu-saama/mahAvaishvAmitram/"  newLevelForH1="2" includeTitle="true"> </div>  
-../devaH/indraH/paravastu-saama/shrAyantIyam/"  newLevelForH1="2" includeTitle="true"> </div>  
-../devaH/indraH/paravastu-saama/piba-somam-mahAvairAjam/"  newLevelForH1="2" includeTitle="true"> </div>  
-../devaH/agniH/paravastu-saama/mahAvaishvAnara-vratam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/indraH/harishrInidhanam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/somaH/yashas/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/somaH/dIrgham/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/somaH/AdIShAdiyyam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/indraH/gAram/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/somaH/mahAvAtsapram/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/somaH/vAtsaprottaram/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/indraH/rathantaram/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/somaH/tavAham-mahAvairAjam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/agniH/mahAvaishvAmitram/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/indraH/shrAyantIyam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/indraH/piba-somam-mahAvairAjam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../devaH/agniH/mahAvaishvAnara-vratam/"  newLevelForH1="2" includeTitle="true"> </div>  
