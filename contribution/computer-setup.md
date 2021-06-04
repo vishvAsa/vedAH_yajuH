@@ -35,8 +35,19 @@ git pull upstream content
 
 rmdir /S F:\Git\vedAH-master\content
 rmdir /S F:\Git\vedAH-master\static
-mklink /h F:\Git\vedAH-master\content F:\Git\vedAH-content
-mklink /h F:\Git\vedAH-master\static F:\Git\vedAH-static
+mklink /s F:\Git\vedAH-master\content F:\Git\vedAH-content
+mkdir F:\Git\vedAH-master\static
+mklink /s F:\Git\vedAH-master\static F:\Git\vedAH-static\*
+```
+
+### Stuff which won't work
+```
+mklink /s F:\Git\vedAH-master\static F:\Git\vedAH-static\
+f:\Git\vedAH-master>hugo.exe server --renderToDisk
+Error: add site dependencies: create deps: create PathSpec: build filesystems: create main fs: symlinks not allowed in this filesystem
+
+f:\Git>mklink /h F:\Git\vedAH-master\content F:\Git\vedAH-content
+Access is denied.
 ```
 
 ## Linux setup
