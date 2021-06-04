@@ -13,6 +13,10 @@ unicode_script: devanagari
 
 +++(धर्मसूत्रोक्तनियमा [अन्यत्र](/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/pAtram/AshramaH/upanayanam/)।)+++
 
+<div class="js_include" url="../digvapanam"  newLevelForH1="2" includeTitle="true"> </div>  
+
+
+
 ## समिदाधानम्
 > स्नातं कुमारं शुचि-वास-संबद्ध-शिखं यज्ञोपवीतम् आसञ्जति - "यज्ञोपवीतं परमं पवित्रम्" इति ।
 ततस् तं यज्ञोपवीतिनं देव-यजनम् उदानयति 
