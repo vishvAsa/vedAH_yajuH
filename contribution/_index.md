@@ -39,13 +39,13 @@ mklink /h F:\Git\vedAH-master\static F:\Git\vedAH-static
 
 ## Linux setup
 ```
-cd F:\Git\
+cd ~/git_projects/
 
 git clone --single-branch --depth 1 --branch content https://github.com/XYZ/vedAH.git vedAH-content
 git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/vedAH.git vedAH-static
 git clone --single-branch --depth 1 --branch master https://github.com/XYZ/vedAH.git vedAH-master
 
-cd f:\Git\vedAH-static
+cd ~/git_projects/vedAH-static
 git remote add upstream https://github.com/vvasuki/vedAH.git
 git pull upstream static_files
 
