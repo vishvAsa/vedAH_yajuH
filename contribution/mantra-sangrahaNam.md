@@ -16,7 +16,7 @@ unicode_script = "devanagari"
   - तत्रैव +ऋक्संहितायाम् प्रस्तोतव्या विश्वासलेखा। 
   - तत्र स्थापयित्व एकाग्निकाण्डे एवं लिखेत् 
   ```
-  <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md" newLevelForH1="2" includeTitle="true"> </div>
+  <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md" newLevelForH1="2" includeTitle="false"> </div>
   ```
   (आदौ /vedAH/ इति योजितम् अवधेयम्)।
 - एवम् प्रत्येकस्या ऋचो योजनात् पूर्वं संहितान्तरे विश्वासप्रस्तुतिर् इति पथि वर्तते वेति परीक्षणीयम्। Atom इत्यस्मिन् Ctrl+Shift+N इति नुदित्वा ऽञ्च्लाक्षरैर् आदिमाक्षरेषु टङ्कितेषु ("anRx" इति यथा ऽत्र) टङ्किते सरलं ज्ञायते ।
