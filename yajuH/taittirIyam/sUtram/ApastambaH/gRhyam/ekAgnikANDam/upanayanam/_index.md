@@ -3,7 +3,7 @@ title: +उपनयनम्
 unicode_script: devanagari
 ---
 
-<div class="js_include" url="digvapanam/"  newLevelForH1="1" includeTitle="true"> </div>  
+<div class="js_include" url="../../karmANi/digvapanam/"  newLevelForH1="1" includeTitle="true"> </div>  
 
 
 ## अथ समिदाधानम्
@@ -17,7 +17,7 @@ unicode_script: devanagari
 
 
 ## भूषणम्
-<div class="js_include" url="vAsas-saMskAraH/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../vAsas-saMskAraH/"  newLevelForH1="2" includeTitle="true"> </div> 
 
 ### मौञ्ज्याः परिव्ययनमन्त्रौ 
 इ॒यं दुरु॑क्तात् परि॒-बाध॑माना॒  
@@ -103,9 +103,9 @@ _________
 ## होमः
 +++(ते च सर्वे माणवकस्यैव । द्वितीयचतुर्थाव् आचार्यस्येत्येके ।)+++
 
-<div class="js_include" url="../../../../saMskAra/mantraH/indraH/Rk/yogeyoge/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/indraH/Rk/yogeyoge/"  newLevelForH1="3" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/Rk/imam_agna_AyuShe/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/misc-devas/Rk/imam_agna_AyuShe/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ### शिष्टम्  
 श॒तम् इन् नु श॒रदो॒ अन्ति॑+++(कं)+++ देवा॒,  
@@ -128,7 +128,7 @@ _________
 दैवी॒ या मा॑नु॒षी मे॒धा  
 सा मामा वि॑शतादि॒ह ।  
 
-<div class="js_include" url="../../../../saMskAra/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/2/5/aMshAH/tvan_no_agne/"  newLevelForH1="2" includeTitle="true"> </div>  
 
@@ -138,7 +138,7 @@ _________
 <div class="js_include" url="kUrcha-Asanam/"  newLevelForH1="4" includeTitle="false"> </div>  
 
 
-<div class="js_include" url="../../../../saMskAra/mantraH/AdityaH/Rk/tat_savitur/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/AdityaH/Rk/tat_savitur/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### ओष्ठोपस्पर्शनम् 
 +++(सावित्रीग्रहणात्)+++ अवृ॑धम् अ॒सौ+++(←सम्बोधने)+++ सौ॑म्य प्रा॒ण, स्वं मे॑ गोपाय ।+++(५)+++  
@@ -177,7 +177,7 @@ _________
 
 ### आदित्योपस्थानम्
 +++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् ।  
-<div class="js_include" url="../../../../saMskAra/mantraH/misc-devas/Rk/pashyema_sharadaH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/saMskAra/mantraH/misc-devas/Rk/pashyema_sharadaH/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ### हस्तग्रहणमन्त्रः 
 यस्मि॑न् भू॒तञ् च॒ भव्य॑ञ् च॒  
@@ -186,7 +186,7 @@ _________
 मह्यं॑ गृह्णामि त्वाम् अ॒हं  
 प्र॒जाप॑तिना त्वा॒ मह्यं॑ गृह्णाम्यसौ+++(→नामनिर्देशः)+++ ॥ 
 
-<div class="js_include" url="samidAdhAnam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../samidAdhAnam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ## संशासनम्
