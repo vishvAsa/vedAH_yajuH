@@ -4,7 +4,7 @@ unicode_script: devanagari
 ---
 
 ## ऋक्
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/06/aMshAH/agna_AyAhi.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/06/aMshAHagna_AyAhi.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 {{< figure src="/saMskAra/mantraH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
