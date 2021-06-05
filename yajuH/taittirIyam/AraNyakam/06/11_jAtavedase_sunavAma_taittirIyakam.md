@@ -12,7 +12,7 @@ unicode_script = "devanagari"
 दु॒र्गां दे॒वीꣳ शर॑णम् अ॒हं प्रप॑द्ये  
 सु॒तर॑सि+++(=सुतारयित्रि!)+++ तरसे॒+++(=तारयित्र्यै)+++ नमः॑॥
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/01/prAchInA_prastutiH/aMshAH/agne_tvam_pAraya"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/01/aMshAHagne_tvam_pAraya"  newLevelForH1="2" includeTitle="false"> </div>  
 
 विश्वा॑नि नो दु॒र्गहा॑ जातवेदः॒  
 सिन्धुं॒ न ना॒वा दु॑रि॒ताऽति॑ पर्षि।  

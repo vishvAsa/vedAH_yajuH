@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 ## शिरः
 ओं भूः । ओं भुवः॑ । ओ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओ स॒त्यम् ।  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/03/prAchInA_prastutiH/aMshAH/tat_savitur"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/03/aMshAHtat_savitur"  newLevelForH1="3" includeTitle="false"> </div>  
 
  
 ## पुच्छम्
