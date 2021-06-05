@@ -170,7 +170,7 @@ unicode_script = "devanagari"
 र॒जो भूमि॑स् त्व॒मा रोद॑यस्व॒ प्रव॑दन्ति॒ धीराः ।  
 पु॒नन्तु॒ ऋष॑यः। पु॒नन्तु॒ वस॑वः। पु॒नातु॒ वरु॑णः। पु॒नात्व् अ॑घमर्ष॒णः । 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/09/aMshAH//prAchInA_prastutiH/akrAnt_samudraH.md"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/09/prAchInA_prastutiH/akrAnt_samudraH.md"  newLevelForH1="3" includeTitle="false"> </div> 
 
 
 
@@ -350,7 +350,7 @@ unicode_script = "devanagari"
 
 ## 27.1
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/03/aMshAH//prAchInA_prastutiH/tat_savitur.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/03/prAchInA_prastutiH/tat_savitur.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## 28.1
 

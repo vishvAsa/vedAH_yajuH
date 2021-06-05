@@ -8,16 +8,16 @@ unicode_script = "devanagari"
 - सिन्धूद्वीप ऋषिः। गायत्री। आपः।
 
 ## पाठः
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH//prAchInA_prastutiH/ApaH/Apo_hi_ShThAH.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/prAchInA_prastutiH/ApaH/Apo_hi_ShThAH.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH//prAchInA_prastutiH/ApaH/shan_no_devIH.md"  newLevelForH1="2" includeTitle="true"> </div>  
-
-
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH//prAchInA_prastutiH/ApaH/IshAnA_vAryANAm.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/prAchInA_prastutiH/ApaH/shan_no_devIH.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/prAchInA_prastutiH/ApaH/IshAnA_vAryANAm.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH//prAchInA_prastutiH/ApaH/apsu_me_somo_gAyatrI.md"  newLevelForH1="2" includeTitle="true"> </div>  
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/prAchInA_prastutiH/ApaH/apsu_me_somo_gAyatrI.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 इ॒दम् आ॑पः॒ प्र व॑हत॒  
