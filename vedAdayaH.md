@@ -8,7 +8,7 @@ unicode_script: devanagari
 
 इ॒षे त्वा। उ॒र्जे त्वा॑। वा॒यव॑स्थोपा॒यवस्थ। दे॒वो वः॑ सवि॒ता प्रार्प॑यतु॒ श्रेष्ठ॑तमाय॒ कर्म॑णे ॥
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/06/aMshAH/agna_AyAhi.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/06/aMshAH//prAchInA_prastutiH/agna_AyAhi.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/amshAH/ApaH/shan_no_devIH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/amshAH//prAchInA_prastutiH/ApaH/shan_no_devIH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
