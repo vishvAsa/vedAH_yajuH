@@ -54,5 +54,5 @@ hugo server --renderToDisk --config ./config_dev.toml
     - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/vedAH/tree/content इत्यत्र गत्वा प्रेषणीयम्।
 - यदि कार्यम् vedAH-static इत्यस्मिन् क्रियते
     - `git pull upstream static_files` इति परिवर्तनानि लभ्यानि।
-    - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/vedAH/tree/static इत्यत्र गत्वा प्रेषणीयम्।
+    - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/vedAH/tree/static_files इत्यत्र गत्वा प्रेषणीयम्।
 
