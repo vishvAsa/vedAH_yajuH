@@ -8,17 +8,6 @@ unicode_script = "devanagari"
 - https://github.com/XYZ/vedAH इति पूर्वम् एव वर्तते चेन् निष्कासयतु browser-उपयोगेन।
 - https://github.com/vvasuki/vedAH इत्यत्र गत्वा पुनः fork इति करोतु। https://github.com/XYZ/vedAH इति किञ्चिल् लभ्यते।
 
-
-+++
-title = "Computer setup"
-unicode_script = "devanagari"
-+++
-
-## समानं कर्म
-- अधः XYZ इति यद् अस्ति, तस्य स्थाने स्वीयं github-नाम प्रयुङ्क्ताम्।
-- https://github.com/XYZ/vedAH इति पूर्वम् एव वर्तते चेन् निष्कासयतु browser-उपयोगेन।
-- https://github.com/vvasuki/vedAH इत्यत्र गत्वा पुनः fork इति करोतु। https://github.com/XYZ/vedAH इति किञ्चिल् लभ्यते।
-
 ## सङ्गणके समीचीनस्थानप्राप्तिः
 - ततः समीचीनस्थाने terminal/ command-prompt इत्य् उद्घाट्य गच्छतु। यथा
   - `cd F:\Git\` इति windows पक्षे
