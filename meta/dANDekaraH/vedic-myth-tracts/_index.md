@@ -42,16 +42,16 @@ as do not regret having been my pupils
 68-90 91-117 118-140 141-198 199-277 
 
 - New Light on the Vedic God, Savitr. 
-- Aşura Varuna 
-- Vişnu in the Veda 
+- Aṣura Varuṇa 
+- Viṣnu in the Veda 
 - Pūsan, the Pastoral God of the Veda 
 - Yama in the Veda 
-- Vrtraha Indra 
+- Vr̥traha Indra 
 - Rudra in the Veda 
 - Some Aspects of the Agni-Mythology in the Veda 
 - A Vedic God and a Vedic Seer, 
-  - Vedic God; Varuna 
-  - Vedic Seer : Vasiştha 
+  - Vedic God; Varuṇa 
+  - Vedic Seer : Vasiṣṭha 
 - Appendix : Indo-Europeanism and Vedic Mytbology 
 - Abbreviations 
 - Index 

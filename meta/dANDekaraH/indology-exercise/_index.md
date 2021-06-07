@@ -29,9 +29,9 @@ in my career as teacher
 - The Antecedents and the Early Beginnings of the Vedic period Some Aspects of the Indo-Mediterranean Contacts 45-67 
 - The Cultural Background of thc Veda 68-93 
 - The Dāśarājña 94.97 
-- The Two Births of Vasiştha 98-112 
-- Varuņa, Vasiştha, and Bhakti 113-121 
-- Vasiştha as Religious Conciliator 122-132 
+- The Two Births of Vasiṣṭha 98-112 
+- Varuņa, Vasiṣṭha, and Bhakti 113-121 
+- Vasiṣṭha as Religious Conciliator 122-132 
 - The Veda-Sükta in the Atharvaveda 133–140 
 - Atharyaveda III. 4: " Election of a King 141-148 
 - Atharvareda VII. 12. “Checks on Monarchy: Popular Assemblies" 149-154 
@@ -50,7 +50,7 @@ in my career as teacher
 ## ABBREVIATIONS 
 - AA American Anthropologist, Washington 
 - AbhBGW Abhandlungen der bayerischen Gesellschaft der Wissenschaften, Munchen 
-- ABORI Annals of the Bliandarkar Oriental Research Institute, Poona AB Attareya Bralimana AL Acta Linguistica Arch. Or Archiv Orientalnı, Prague As Res Asiatik Researches AV Atharvaveda AV Par Atharvaveda Parisusta BATI Bulletin of the American Institute for Iran BG Bhagavadguia Bh Vid Bharatiya Vidya Bombay Br Brahmana BSOIAS Bulletin of the School of Oriental (and African 
+- ABORI Annals of the Bliandarkar Oriental Research Institute, Poona AB Attareya Bralimana AL Acta Linguistica Arch. Or Archiv Orientalnı, Prague As Res Asiatik Researches AV Atharvaveda AV Par Atharvaveda Parisusta BATI Bulletin of the American Institute for Iran BG Bhagavadguia Bh Vid Bharatiya Vidya Bombay Br Brāhmaṇa BSOIAS Bulletin of the School of Oriental (and African 
 Studies, London CASS Studies Studies pub by the Centre of Advanced Study 
 in Sanskrit University of Poona CHI Cambridge History of India Ch Up Chandogya Upanı sad Comni Vol Commemoration Volume Crit Ed Critical Edition EMH "Etudes du mythologie hindoue" in the Bulletin de 
 l'Ecole Françoise d Extreme Orient, Paris GSAI Giornale della Sociela Asiatica Italiana HJAS Harvard Journal of Asiatic Studies, Cambridge, Mass HOS Harvard Oriental Series, Cambridge, Mass IAC (I-AC) Indo Asian Culture, Indian Council for Cultural 
@@ -67,5 +67,5 @@ VIII
 Sam Samhita SBBAW Sitzungsberichte der bayerischen Akademie der Wis 
 senschaften, Munchen SBE Sacred Books of the East SBMän = SBBAW ŚN Sukranıtı SP Summaries of Papers SPBr. Satapatha Bralimana Stud Fir Studio Firenre Sizb BGW Sitzungsberichte der bayerischen Gesellschaft der 
 Sutzungsberichte 
-Wissenschaften Syet Up Svetaśvatara Upanısad TBr. Taittiriya Brāhmana TMBT Tandya Maha Brahmana UCR University of Ceylon Review, Peradeniya Up Upanisad URC Uttararā macarita Vaj Sam Vajasaney, Samhita VIJ V ishveshvarananda Indological Journal, Hoshiarpur WZKM Wiener Zeitschrift for Kunde des Morgenlandes 
+Wissenschaften Syet Up Svetaśvatara Upanısad TBr. Taittiriya Brāhmana TMBT Tandya Maha Brāhmaṇa UCR University of Ceylon Review, Peradeniya Up Upanisad URC Uttararā macarita Vaj Sam Vajasaney, Samhita VIJ V ishveshvarananda Indological Journal, Hoshiarpur WZKM Wiener Zeitschrift for Kunde des Morgenlandes 
 YS Yajñavalkya Smru ZDMG Zeitschrift der deutschen morgenlandischen Gesellschaft ZII Zeitschrift für Indologie und Iranıstık ZKM = WVZKM Zvgl Spw (Zys) = KZ 

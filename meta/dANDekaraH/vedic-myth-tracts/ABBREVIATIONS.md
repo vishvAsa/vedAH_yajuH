@@ -2,7 +2,7 @@
 title = "ABBREVIATIONS"
 
 +++
-AB, AutBr Aitareya Brahmana ABORI Annals of the Bhandarkar Oriental Research Institute Ai et Wb Kurzgefasstes etymologisches Worterbuch der 
+AB, AutBr Aitareya Brāhmaṇa ABORI Annals of the Bhandarkar Oriental Research Institute Ai et Wb Kurzgefasstes etymologisches Worterbuch der 
 altındischen Sprache by CC UHLENBECK Alt Ar Altareya Aranyaka AJPh American Journal of Philology ALB Adyar Library Bulletin Anz f ISAK Anzeiger for indogermanische Sprach und 
 Altertuniskunde 10 Acta Orientalia AOS American Oriental Society Após Apastamba Srautasītra Arch / Rel Archiv für Religionswissenschaft Arch Or Archiv Orientalnı ĀśYGS Āsalajana Grhiyasūtra AV Atharvaseda BB 
 Bezzenberger s Beitrage zur Kunde der indogermanischen 
@@ -12,9 +12,9 @@ ABBREVIATIONS
 367 
 JIJAS Hanard Journal of Asian Studies 14 Indian Antiquary IC Indian Culture IE Indo European 
 HQ Indian fistorical Quarterly II) Indo-Iranian Journal IL Indian Linguistics Ind Stud Indische Studien cd by a WCBER 
-Jd Journal Asiatique JANIRS Journal of the Andhra Historical Research Society JAOS Journal of the American Oriental Society JASBen Journal of the Asiatic Society of Bengal JASBL Journal of the Asiatic Society of Bengal, Letters JB Jalminija Brahmana JBBRAS Journal of the Domha, Branch of the Royal Asialıc 
+Jd Journal Asiatique JANIRS Journal of the Andhra Historical Research Society JAOS Journal of the American Oriental Society JASBen Journal of the Asiatic Society of Bengal JASBL Journal of the Asiatic Society of Bengal, Letters JB Jalminija Brāhmaṇa JBBRAS Journal of the Domha, Branch of the Royal Asialıc 
 Sociel) JBHU Journal of the Banaras Ilindu Unnersin JBom Journal of the Unicrsity of Bombay JBORS 
-Journal of the Bihar and Orissa Research Society JGIRI Journal of the Ganganath Jha Research Institute JOJB Journal of the Oriental Institute, Baroda JORV Journal of Oriental Research, Madras IRAS Journal of the Royal Asiatic Society JUD Jalnıinija Uranişad Bralinana JUPIS Journal of the University of Poona, Huonanlilcs Section Mashala, as Müphala Santa färss, ass kütyrījara Srautasütra AB Aausitak/ Brühmana ARCOI (or COI) GJ lol R Cama Oriental Institute 
+Journal of the Bihar and Orissa Research Society JGIRI Journal of the Ganganath Jha Research Institute JOJB Journal of the Oriental Institute, Baroda JORV Journal of Oriental Research, Madras IRAS Journal of the Royal Asiatic Society JUD Jalnıinija Uraniṣad Bralinana JUPIS Journal of the University of Poona, Huonanlilcs Section Mashala, as Müphala Santa färss, ass kütyrījara Srautasütra AB Aausitak/ Brühmana ARCOI (or COI) GJ lol R Cama Oriental Institute 
 Golden Jubilee I olums hr leitschrift for vergleld ende Sprachforschung begrundet 
 von A NUIIN 
 368 

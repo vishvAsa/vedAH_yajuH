@@ -27,7 +27,7 @@ Andra 174n, 181, 182n, 185 Agidistis 1310
 angel 298 Agni 10, 24, 73n, 78, 93, 95, angele 298 
 97, 105, 118, 1217, 133, 206, angelus 298 206, 2120 220, 22211, Aogeropa 357 
 223n, 234, 259, 278fT, 345 angıras 297f Agnıcıdı 311 
-angırasam ajang 297 Agaişçoma sacrifice 44 Angirascs 127, 288, 29717 , 300 agolya 5,97 
+angırasam ajang 297 Agaiṣçoma sacrifice 44 Angirascs 127, 288, 29717 , 300 agolya 5,97 
 angirasi ognici 297 aha anlja 2791 
 angirasi raśanā 297 Ahi 144, 1440, 191, 191n angıraslama 297f. 
 372 
@@ -154,7 +154,7 @@ Jupiter 6, 37, 145, 352, 357, Ignis 309
 VEDIC MYTHOLOGICAL TRACTS 
 kamen 358. 
 Maitrāvaruna 9. Kanvas 111n 
-Maitrāvaruni (Vasiştha ) 333 kaparda 108n. 
+Maitrāvaruni (Vasiṣṭha ) 333 kaparda 108n. 
 Mana 54, 57. hapardın 98n, 203 
 manasıán 165. kapota 120, 140. 
 mān't 56 karambha 92, 108, 116f 
@@ -171,7 +171,7 @@ marut 193, 1940, 237, 237n. Khētük-das (marriage) 114, Maruts 770, 97, 144, 14
 164f., 164n, 1927., 1940, Krsna 77n, 89, 198, 198n. 
 199,205, 211ff., 2120, 2130, krtabrahman 196. 
 215fr., 219, 2200, 230, 236ff., Ksatra 61. 
-238, 240n, 247, 294, 302, kşetrânām palı 273n. 
+238, 240n, 247, 294, 302, kṣetrânām palı 273n. 
 349, 361. hūrnia 87n. 
 marutvān 144, 164, 192, 211. Laba-sūkta 162n, 163, 
 marza 194n, Lettiso song 840. 
@@ -263,7 +263,7 @@ INDEX
 punisa 2021. 
 ftu 3260, Purusasūkta 130., 131n, 135f. rtij 297. pārvya 73. 
 ru 254. pus 109, 1090. 
-rud 2541., 255a. Puşan 12, 147,, 90ff., 97, 109f., rudh 255p. 
+rud 2541., 255a. Puṣan 12, 147,, 90ff., 97, 109f., rudh 255p. 
 109n, 1971., 221n, 283, 358. rudra 206, 217, 221, 229, 239, pusta 250n, 
 2541., 254n. pusti 109, 
 Rudra 989, 140, 1921T., 194n, pūsu 250, 
@@ -334,7 +334,7 @@ Aug@ya 73, 76. tanīnapät 291ff,
 urvarja 273. Tanunaptra 292f. 
 Urvasi 3367. tapas 731, 208, 297. 
 unum 58. Teshub 2670. 
-Uşas 24, 219, 246n, 352, 356.' Thor 93n, 1910, 357. 
+Uṣas 24, 219, 246n, 352, 356.' Thor 93n, 1910, 357. 
 Usins 356. Thraetaona Athwía 1910, 303, Vahagn 174n, Thrita 150, 
 Vähikas 276, 2760, Tiāmat 130, 1912. 
 Vaiśvānara 293ff. Tondi 54, 
@@ -349,8 +349,8 @@ vara 137n. fryambaka 207, 222, 226, 267, yaräha 81, 870.
 varena 34. Tuisto 130, 1310. 
 pāri 52. Tullus Hostilius 360. 
 varna 35. Turvaśa 340. 
-Taruna 32, 34f., 52, 58, 610, Tvaşts 15, 19, 138, 142, 1610. 318 ff., 328. Typhon 1910. 
-Varuna 2, 6, 8f., 13, 18 ff., 25, Tyr 352, 357, 362, 
+Taruna 32, 34f., 52, 58, 610, Tvaṣts 15, 19, 138, 142, 1610. 318 ff., 328. Typhon 1910. 
+Varuṇa 2, 6, 8f., 13, 18 ff., 25, Tyr 352, 357, 362, 
 28 ff., 68, 70, 991, 102n, ucchesanabhāga 204, 2040. 1187., 136, 168, 173, 178 ff., ucchista-sukla 204n. 
 179n, 220, 228, 291, 310 ff, *uer 83. 
 341 ff., 355 ff., 360, 363f. *uel-tu 38. 
@@ -377,7 +377,7 @@ Vļsākapı 87, 164, 164n. vibhutadyumna 73.
 Vţsotsarga 117n. Vidart 358, 360. 
 vrt 173. Videgha Māthava 311. vrthra 173, 173n. vigāman 76. 
 vrthragna 173, 174n, 176. Vilistengā 163. 
-Vrtra, vrtrānı 38, 42, 46,69 ff., vímuco napát 105. 
+Vr̥tra, vrtrānı 38, 42, 46,69 ff., vímuco napát 105. 
 142f., 148, 154 ff, 1570, Vin, Vinnu 72n. 
 163f., 173ff., 174, 176, viraj 131, 135., 
 176n, 182n, 189n, 1900, 331, viś 77, 820. 
@@ -385,7 +385,7 @@ Vrtra, vrtrānı 38, 42, 46,69 ff., vímuco napát 105.
 vrirahā 65, 141, 173 ff., 302f. visa 218. 
 Vyamsa 161a, 170n. Visanios 268, 340. 
 Heru were 58. visnu 72n, 83, 360. 
-Wotan 352. Visnu 68 f., 99n, 1020, 164, yaksın 57, 328 
+Wotan 352. Viṣṇu 68 f., 99n, 1020, 164, yaksın 57, 328 
 197, 199, 212n, 220, 231, 
 yama 132, 134, 140. 358, 360f., 364. 
 Yama 62, 1020, 118 ff., 193, Vispalā 311. 

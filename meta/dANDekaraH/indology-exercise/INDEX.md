@@ -9,11 +9,11 @@ Ahavaniya (fire) 70, 203 Abhidhamma 251,
 Ahura Mazdah 39, 77, 173, 187, Abbiras 287, 298 
 187n, 207, 2070, 224 Abhyavartın 190 Abıyard 190 
 Artareya Aranyaka 75n abstract divinities 208 
-Antareya-Brahmana 104, 1430, acara 348 
+Antareya-Brāhmaṇa 104, 1430, acara 348 
 1440, 146, 149, 1500, 169, 177n, accent 12, 69 
 351, activisation 334 
 Aitihasikas 235 activistic 336 
-aja 136 Adbhuta-Brahmana 176n 
+aja 136 Adbhuta-Brāhmaṇa 176n 
 Ajamidha 1910 Adbhuadhyaya 176n 
 Ajas 234, adevism 184n 
 aj: 199, 243n Adhvaryu 109, 110, 110, 158, ajya 199 
@@ -37,7 +37,7 @@ Atharraveda Parisista 159, atharyu 158n, atheism 184, Athena Tritonis 216 Athens
 233. 
 aga 77. asal 342 asceticism 317, 338 Asharagata 190. Asian home theory 21n. Asiatic Mediterranean ( race) 7. Asoka 62, 271, 354, 355. asrama( 8 ) 347, 348n, 350, asramadharma 345, 347, äsranı 251. ase 185, Assyrian 15, 32 āstila 73 Astronomical evidence 8n, 9 astronomy 330 asu 246, 319. 
 Asura (asura ) 146, 162, 182, 228, 
-229n, 232, 248. Asura Varuna 213, 340, Aśraliyana 274. Astalāyana Grhyasūtra 274 asramedha 355, Asvins ( Asvinan) 146, 174, 176, 
+229n, 232, 248. Asura Varuṇa 213, 340, Aśraliyana 274. Astalāyana Grhyasūtra 274 asramedha 355, Asvins ( Asvinan) 146, 174, 176, 
 177, 181, 185, 187, 1870, 209, 209n, 214, 214n, 215, 220, 222, 227, 229, 230, 233, 235, 238, 
 2410, 2730. athar 158D. Atharvan(8) 119, 1440, 157, 
 3577, 158, 158, 160, 160n, 161, 
@@ -88,9 +88,9 @@ Buchanan, B 49 brachycephalic 6, 7, 12,29, 46. Buddha 62, 65, 66, 67n, 91, 329, 
 339, 355 Brahmā 271, 273, 291. 
 Buddha Religion 173 Brahmacarıd(s) 2360, 339. Buddhism 67n, 91, 270, 271, 273, Brahman (brahman) 107, 110, 327, 339, 344, 352, 354, 355 
 111, 113n, 135-137, 142n, 149, Buddhist paychology 251 150, 157, 1581, 159, 159n, 174, bureaucracy 333, 354 182, 188, 202, 210, 223, 233, bureaucratic machinery 328. 236, 238, 239, 239n, 243, 284, Burnham, R E 160. 289, 327 
-Burnouf, Eugène 171, 174, 178, Brahmadas 202, 239, 272, 327 178n. Brahmana( 8 ) 86–89, 1137, 141, Burnouf, Émile 178, 193 
+Burnouf, Eugène 171, 174, 178, Brahmadas 202, 239, 272, 327 178n. Brāhmaṇa( 8 ) 86–89, 1137, 141, Burnouf, Émile 178, 193 
 172, 184, 210n, 216, 219, 241, Burrow, T 37n 262, 279, 282, 283, 286, 292, Cacus 171 340, 343, 344, 351. 
-calsuh 1380 Brahmanaspati 202, 208n, 341. Caland, W. 221 brahman-bricht 243n 
+calsuh 1380 Brāhmaṇaspati 202, 208n, 341. Caland, W. 221 brahman-bricht 243n 
 Candragupta (Maurya ) 62, 328, Brahmanic (hierarchy, society, 353, 354 
 way of life and thought) 337. Candramas 207. 345, 352 
 capitalism 67n Brahmanism 197. 199. 263. 270_ Cappier, N 45, 
@@ -145,7 +145,7 @@ ges, mythology, period; Indo Germanic) 1, 3-5, 7-9, 11, 11n, 12, 13, 13, 14, 140
 208, 222n, 240. Indo-Mediterranean (contacts) 
 154, 170, 181-184, 186, 186n, 187n, 189, 190, 194, 195, 1950, 200, 202, 208, 2080, 212, 215, 217, 223, 224, 229n, 233, 235, 236, 238, 240, 2400, 241, 2410, 243, 248, 256, 259, 260, 263, 
 2730, 292, 338, 341. Indra- (cult, religion ) lin, 391, 
-113, 121, 123, 130, 132, 160. indrafalra: 70. Indra-Varuna (Indrāvarunau ) 
+113, 121, 123, 130, 132, 160. indrafalra: 70. Indra-Varuṇa (Indrāvarunau ) 
 113, 122, 122, 123n. indriyanām prāpyakārtā 249. indriyas 249, 260. Indus (people, region) 47, 50, 
 64, 190, 191, industrial revolution 333. Indus valley civilization (also see 
 Harappa) 10, 46, 241, 323, 
@@ -161,7 +161,7 @@ trade) 45, 63, 67n, Indra 11n. 31, 42, 51, 56, 69, 70,
 46 
 370 
 EXERCISES IN INDOLOGY 
-Jackson 2340 Jacobi, H 35, 350 Jagat 136 Jazmini 300 Jarmıniya Brahmana 97 Jainism 339, 344 Janamejaya 309 Jaritz, K 60n Jalaka: 269 Jåtayeda 159n, 163 Jatavedas 163, 164 JĀtavidyā 159n, 163 jati( 8 ) 109n, 346 jati vyavastha 346 
+Jackson 2340 Jacobi, H 35, 350 Jagat 136 Jazmini 300 Jarmıniya Brāhmaṇa 97 Jainism 339, 344 Janamejaya 309 Jaritz, K 60n Jalaka: 269 Jåtayeda 159n, 163 Jatavedas 163, 164 JĀtavidyā 159n, 163 jati( 8 ) 109n, 346 jati vyavastha 346 
 harmayoga 285, 286 larmendi iya, 138 Karm 269, 373n 290, 349. Károti 190 Kashmiri 303n, 305 309 Kassites 33, 34, 318, 35-38, 43, 51 hathaka Sarıhıta 97, 1090 Katyayana 98 halya jana-Srautasulra 1761 Kauravas 267, 268, 270 272, 2730, 
 280, 281, 294 296, 319 hauska Sutra 133, 1440, 1510, 
 157, 176 hausitaki Upanisad 97, 109 
@@ -171,7 +171,7 @@ Korybantıs 2171 Kosala.Videha 177. Kossina, G. 11, 120. krama patha 75, 750. Kr
 232. Kronos 238, Krsna 119n, 240, 240n, 268, 269, 
 271-273, 273n, 281-288, 2880, 
 289, 298, 299, 319. Krspá 275. Krspasm 271, 2730, 286-289, 
-298–300. Krsna lajurveda 88 Krama 10n. Kşatra 149, 150, 327. Ksatriya code of conduct 267. Ksatriyals) 216, 267, 268, 258, 
+298–300. Krsna lajurveda 88 Krama 10n. Kṣatra 149, 150, 327. Ksatriya code of conduct 267. Ksatriyals) 216, 267, 268, 258, 
 290, 327. 
 lākså 14n, 15n. 
 Lakálamkāra 307. Laksmana 185. Laksmi 65, Lal, B. B, 640. land of seven rivers see Sapta 
@@ -194,7 +194,7 @@ INDEX
 Max Muller, F. 13n, 87, 87n, 171, Mitanni-Hittite treaty 53. 
 1710, 1777, 178, 178n, 179, mixed castes 347. 179n, 180, 180n, 181, 18lo, 182, mleccha 49p. 182n, 183, 183n, 181, 184n, Mohenjodaro 45, 46, 48, 50. 
 186-188, 192, 209, 213n, 225n. mokī 191. māyā 139, 188, 222, 243 
-inolşa 266, 285, 286, 347. Mayrhofer, M. 15n, 52a. 
+inolṣa 266, 285, 286, 347. Mayrhofer, M. 15n, 52a. 
 monarchic absolatism 328. Mazda yasnians 225, 
 monarchy 150. Mazzini 335, 
 monkeys 186. Mecaulay 331, 
@@ -218,7 +218,7 @@ mythologisation ( of history ) 341, missionaries (to Greek kings )
 Nadi-Siikta 10n, 11n. Mithra 207, 225. 
 Nabus 190. Mitra 34, 51, 126, 127. 129. 129n. naksatraśaras 225. 
 146, 189, 207, 222, 232, 235 Naktā 182, 
-237, 239, 239, 2100. 341 Nana 229n. Nitra-Varuna MGtråvarnau Nanai 229n. 
+237, 239, 239, 2100. 341 Nana 229n. Nitra-Varuṇa MGtråvarnau Nanai 229n. 
 103, 104, 104, 105.107. 109, Nandaya 306, 
 naga 190. Mitandi( , Mitannian) 32. 34 38. mārāśamsīs 279, 295. 
 42, 43, 51-56, 
@@ -278,7 +278,7 @@ theological' mind 141, theopanism 237 thickening (of manas ) 250. Thieme, P. 75,
 239n, 243n. Thomas, H, 27n. Thoreau 335. Thracophrygian area 222n. three classes of gods 199. Tiglat-Pileser IV of Assyria 7. Tilak 80, 9n. Tilmpo see Dilman, Tirthamkaras 339. Tiruvalluvar 357. Tistrya 225. Tocharian dialect 27. tolerance 314, 335. Tolstoy 335 Tomyrie 191. totemism 205, 2110, 215, 234 Tovar 220 Toynbee 314. trade-routes 61. training of the king) 150.382 
 EXERCISES IN INDOLOGY 
 Trtsus 84, 85, 95, 96, 100, 108, 
-109, 109n, 110, 159 Trubetzkoy 27, tryañjala 62. Tura Kåvaseya 190 Turan 189, 190, Turvaśa 84, 94, 96 tvak 138n Traştr 69, 70, 208, 236 tveganrmre 162 Tveşaratha (tresaratha) 34, 63n, twaddle (theological) 87. twilight (morning) 214. Tylor 2041 Ubaidians 46, Udgatr 109, 110n, 158, 159, Ugraśrayas 290 Ugro-Finnio 16, 16n. Uktbs( 8 ) 109, 110, 159. * unchanging East" 321, unitarian (conception of mytho 
+109, 109n, 110, 159 Trubetzkoy 27, tryañjala 62. Tura Kåvaseya 190 Turan 189, 190, Turvaśa 84, 94, 96 tvak 138n Traṣtr 69, 70, 208, 236 tveganrmre 162 Tveṣaratha (tresaratha) 34, 63n, twaddle (theological) 87. twilight (morning) 214. Tylor 2041 Ubaidians 46, Udgatr 109, 110n, 158, 159, Ugraśrayas 290 Ugro-Finnio 16, 16n. Uktbs( 8 ) 109, 110, 159. * unchanging East" 321, unitarian (conception of mytho 
 logy) 195. unity of logical development) 74 universalisation 334 universe 81. universities 332 Upanisad( 8 ) 89.92, 135, 140, 184, 
 214, 216, 241, 262, 282-284, 286, 
 292, 340, 344, 349-352, 354 Upanisad-period 89 upastha 138n 
@@ -286,13 +286,13 @@ purustlo 133n. Ur 48, 50 Ural Altaic region 18, 18n, 22n, urbanisation (first) 6
 guage, people ) 140, 15, 150, 
 160, 10, 21n, 30, 31, 39, Ur Vahabhārala 305, 309. ar-monotheism 237, 237n, orns (pyxig) 47. tirugula 50. Urraś: 103, 104, 106, 107, 103, 
 175, 177. Ur-Veda 240. Usag 174, 175, 181, 182, 186, 191, 
-193, 204, 2040, 2960, 240. utsar 243, 243n, Vācaspati 138. trico matt 266 Vādırája 307, virajya 143n. Vaiśampayana 300, 309. - Vaiśeşika 339. Vaisnavism 197, 270. Faitāna-Sülra 133n, 1447, 148, 
+193, 204, 2040, 2960, 240. utsar 243, 243n, Vācaspati 138. trico matt 266 Vādırája 307, virajya 143n. Vaiśampayana 300, 309. - Vaiśeṣika 339. Vaisnavism 197, 270. Faitāna-Sülra 133n, 1447, 148, 
 157, Vājasaneyi samhita 153, 176n, 
 248 zajra 243 Vala 176, trīk 121, 138n, 161, 182, Vamadeva 830, 177. Varahamıhıra 65, 330. ! Varcin 190 varna(8) 315n, 346, 3480, varna-dharma 345 tarna-asrama-dharma 345, 356, Denne ogu otsuit 12, 345, 346, vartani 51, Varupa 34, 38. 51, 77, 114 116, 
 116n, 117, 117n, 118, 119, 1191, 120, 1201, 121.129, 130n, 131, 1310, 132, 144, 146, 147, 157, 158, 160 168, 170, 173, 177, 181-183, 187, 1877, 188, 189, 
 INDEX 
 383 
-191, 191n, 195, 197, 200, 202, 207, 208, 208n, 212, 215, 217, 218, 220, 220n, 2310, 222, 223, 220, 226, 228, 228n, 2290, 232, 233, 233n, 235 230, 239n, 248, 257, 262, 202 Varuna(-calt, -religion ) 11n, 39, 
+191, 191n, 195, 197, 200, 202, 207, 208, 208n, 212, 215, 217, 218, 220, 220n, 2310, 222, 223, 220, 226, 228, 228n, 2290, 232, 233, 233n, 235 230, 239n, 248, 257, 262, 202 Varuṇa(-calt, -religion ) 11n, 39, 
 390, 113, 123, 123, 127, 130, 
 132, 160. validari 1050 Vasco de Gama 326. 
 agrethe (Vasıthas, Vagsthas ) 830, 84, 85 95, 96, 98, 98, 99, 
