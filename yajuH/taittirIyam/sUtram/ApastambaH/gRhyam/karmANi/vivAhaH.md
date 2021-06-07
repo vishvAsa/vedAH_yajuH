@@ -83,8 +83,15 @@ unicode_script: devanagari
 
 ### स्नानम्  
 उत्तराभिः पञ्चभिस् +++(=हिरण्यवर्णा)+++ स्नापयित्वा,  
-<div class="js_include" url="/saMskAra/mantraH/jalam/Rk/hiraNyavarNAsh_shuchayaH/"  newLevelForH1="4" includeTitle="true"> </div>
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/02_hiraNyavarNAshshuchayaH_pAvakA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/03_yAsAM_rAjA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/04_yAsAn_devA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/05_shivena_tvA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ### अहतस्य वाससः परिधानम्  
 उत्तरया +++(=परि त्वा गिर्वणो गिरः)+++ ऽहतेन वाससाच्छाद्य,  
