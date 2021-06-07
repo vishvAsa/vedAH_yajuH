@@ -51,7 +51,7 @@ other current of thoush. been developing the weir Veda to the ohter
 (Continued on the next page) 
 160 
 EXERCISES IN INDOLOGY 
-cularly in the context of the Dasarājña, as the Purohita par excellence.22 The purohiti (or the priestcraft) of the Titsus, whose leader Vaşistha was, is said to have proved most efficacious in that war.23 The Taittiriya-Samhită (IIJ. 5. 2. 1) stresses Vasiştha's pre-eminence in both the aspects of the Atharvanic priestcraft - ritualistic and socio-political - in the following single unequivocal statement: tato vasistha-purolulāh prajāk prājāyanta iasmad väsisiho brahmi kāryah prar 'va jayate. Vasistha, accord ingly, is the Atharvan: his identity with Atharvan of AV V. 1124 may thus be regarded as being clearly indicated.25 
+cularly in the context of the Dasarājña, as the Purohita par excellence.22 The purohiti (or the priestcraft) of the Titsus, whose leader Vaşistha was, is said to have proved most efficacious in that war.23 The Taittiriya-Samhitā (IIJ. 5. 2. 1) stresses Vasiştha's pre-eminence in both the aspects of the Atharvanic priestcraft - ritualistic and socio-political - in the following single unequivocal statement: tato vasistha-purolulāh prajāk prājāyanta iasmad väsisiho brahmi kāryah prar 'va jayate. Vasistha, accord ingly, is the Atharvan: his identity with Atharvan of AV V. 1124 may thus be regarded as being clearly indicated.25 
 Secondly, the peculiar kind of relationship between Varuna and Atharvan, as envisaged in AV V. 11, would unmistakably remind one of the relationship between Varuna and Vasistha as reflected in the seventh Mandala of the RV, particularly in the group of hymns relating to Varuna ( 86-89). Indeed, as I have suggested elsewhere, Vasistha may be said to have originally professed special loyalty to the Varuna-cult, though, when a conflict between the ancient Varuna-cuit and the new Indra-cult became imminent, he exhibited a very practical and realistic attitude and deliberately sought to co-ordinate and harmonize the two religious cults.28 
 THE SAMVĀDASŪKTA IN THE ATHARVAVEDA 
 161 
@@ -94,7 +94,7 @@ sayings as fillers' is, as will be shown in the sequel, deliberate and significa
 tvám hy angá varuna brdılşi punarmaghesy ai adjánı bhari/ mó su paņiṁr abhy elávato blmn 
 má två socann aradhasan jánāsah |/7|| "Since, verily, thou (thyself ), o Varuna, (usually ) sayest many opprobrious things in respect of the revokers of gifts — do thou not easily side with such Panis May people not call thee stingy" 
 (Atharvan Vasıtha speaks after having secured the esoteric knowledge He also takes advantage of the casual reference to the Panis in 6d and presses on his claim for the return of the *cow.' (b) Punarmagha, lere, seems to refer specifically to the Panis (c) Bhūt needs to be changed to bhūh, abhi bhu' to side with to be counted among') 
-má ma vocann arădhásam jánāsah punas te punim jaritar dadami / 
+má ma vocann arādhásam jánāsah punas te punim jaritar dadami / 
 stotram me yısram á jālı saciblar 
 anfar visāsu nánusīsu dih su // 8 // "Let not people call me stingy. I give back the variegated cow unto thee, o singer Do thou, with (thy poetic) powers, stand by every song of praise for me, in all quarters inhabited by humans" 
 | Varuna speaks Vasistha's strategy has succeeded He may be said to have passed the test (cf, samcakse in 2b) (c) Āzāhu 

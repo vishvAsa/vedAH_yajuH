@@ -19,7 +19,7 @@ Ameretát 363 Agastya 337
 Amesa Spentas 31, 36, 41, 50, aggarēion 298 
 75n aggaron par 298 
 anhoniuc 279 aggaros 298 
-Amša 360 aggello 298 
+Amśa 360 aggello 298 
 anastapafu 107 aggeros 298 
 anastanedas 107 aggilus 298 
 Apava 340 aghrní 95, 95n 
@@ -29,24 +29,24 @@ angel 298 Agni 10, 24, 73n, 78, 93, 95, angele 298
 223n, 234, 259, 278fT, 345 angıras 297f Agnıcıdı 311 
 angırasam ajang 297 Agaişçoma sacrifice 44 Angirascs 127, 288, 29717 , 300 agolya 5,97 
 angirasi ognici 297 aha anlja 2791 
-angirasi rašanā 297 Ahi 144, 1440, 191, 191n angıraslama 297f. 
+angirasi raśanā 297 Ahi 144, 1440, 191, 191n angıraslama 297f. 
 372 
 VEDIC MYTHOLOGICAL TRACTS 
 Angra Mainyu 750 
-aša 60, 317 angustha 86 
+aśa 60, 317 angustha 86 
 asahe xam 60 anikajar 279 
 Asamati 287 anrta 317, 328 
 Asani 206n Aptaka 120 
-asat 316 anthropomorphism 5, 31, 92, Asa vahıšta 50 
-105, 107, 110n, 125, 166, ašava dah 50 258, 268n 
-ašem hapti 60 ănujqvara 322 
+asat 316 anthropomorphism 5, 31, 92, Asa vahıśta 50 
+105, 107, 110n, 125, 166, aśava dah 50 258, 268n 
+aśem hapti 60 ānujqvara 322 
 aśman 358 Apālā 163 
 asman 358 apām garbha 301 
 aśramas 261 Apām Napät 4, 301ff, 357 Assara Mazās 55n āpi 1500 
 Assur 55 Apollo 1910, 222 
 Assurbanipal 550 Apri hymns 2831, 286, 290f, astapadı 361 
 293 
-astră 1047, 108, 110, 110n Aptya 150, 302 
+astrā 1047, 108, 110, 110n Aptya 150, 302 
 asul 547, 550, 57, 310, 327 ar 59, 326 
 asura 13f, 20, 28ff , 53ff , 55n, ara 59 
 56ff, 60, 650, 116, 1800, arā 105, 108 
@@ -61,22 +61,22 @@ Atalocan 580 arhats 210, 210n, 259n
 áthar 310 arpajali 59 
 ārlar burzin 295 art 59, 326 
 athar.frā 295 Artagnes 1740 
-áthar gušaspa 295 Arthagn 174n 
+áthar guśaspa 295 Arthagn 174n 
 atharian 310 artios 56 
 Atharvi 311 artus 59, 326 
-atharyu 310, 364 Arūnaš $20 
+atharyu 310, 364 Arūnaś $20 
 Athwyas 1500 Aryaman 12, 20, 43, 50, 319, authgra 299 
 357, 
 Auriga 103. 
 INDEX 
 373 
-Aurora Borealis 150 aratara 80, 810 ayojana 117 Azi Dabāka 1910 Baalsamin 550 babliru 203 Babylon 50, 51 Bahlika 206, 2760 Bajami 58n halı 205, 247n 2480 Balı 871 Balkh 167 ff bandhuja 24 Banio 130 Batu 52 baxsayad 249 baršidan 249 Bendis 610 Bes 770 Bhaga 15, 191, 50, 352, 360 Bhakti 90, 341 ff Bhalanases 340 Bharadvajas 91,98 110f 115, 
+Aurora Borealis 150 aratara 80, 810 ayojana 117 Azi Dabāka 1910 Baalsamin 550 babliru 203 Babylon 50, 51 Bahlika 206, 2760 Bajami 58n halı 205, 247n 2480 Balı 871 Balkh 167 ff bandhuja 24 Banio 130 Batu 52 baxsayad 249 barśidan 249 Bendis 610 Bes 770 Bhaga 15, 191, 50, 352, 360 Bhakti 90, 341 ff Bhalanases 340 Bharadvajas 91,98 110f 115, 
 340 Bharatas 3341, 337 ff Bhav: 206, 228 blood offering 248, 252, 256 Boghazkoi inscription 36,48f, 
 61 Bond 610 Brabmā 740 brahmacarın 207 ff, 221, 232, 
 260 f, 263n, 275 brahman 66n, 195, 196, 207, 
 317, 322 Brahman 332, 3377 Brabmapaspati 195f, 1960, 
 285f, 288 brahmarahas 196 brhacchepa 262 BỊhaspati 24, 118, 124 f, 129, 
-195, 282, 284 ff, 288 Busyastă 270 Cacus and Evander 351 Candramas 498 , 124n cathruguosha 34 caturanika 34 45n cempu 2560 Cernudnos 2590 chepa 86 cippus 86 citlirem 307 cosmos 60 Dadhyan Atharvana 311 daena 356 daeva 184n daina 356 Daksa 50, 360 daksina ( -fire) 279, 281 ff daman 60 Darzates 18, 610 Dasagvas 2987 Daxarajña 332, 3320, 335, 338, 
+195, 282, 284 ff, 288 Busyastā 270 Cacus and Evander 351 Candramas 498 , 124n cathruguosha 34 caturanika 34 45n cempu 2560 Cernudnos 2590 chepa 86 cippus 86 citlirem 307 cosmos 60 Dadhyan Atharvana 311 daena 356 daeva 184n daina 356 Daksa 50, 360 daksina ( -fire) 279, 281 ff daman 60 Darzates 18, 610 Dasagvas 2987 Daxarajña 332, 3320, 335, 338, 
 341 Dasas 170, 1700, 172 Dasyu 1700 Deipatyros 362 deya 14 1840 dharma 317, 330 dharman 46, 73 Dhatę 2, 46, 7, 12, 19 dliena 356 dhenu 356 dhe 356.Diese Delsat 30 
 374 
 VEDIC MYTHOLOGICAL TRACTS 
@@ -90,9 +90,9 @@ fertility ( god rites ) 87,87n, Dieva Dēls 363
 242n, 264, 269, 271 ff, 2720 diksa 730 
 Fordicidia 361 Dionysos 240n, 242n, 351 
 Fortuna Primigenia 357 Dios Kourt 363 
-Fravašis 194, 361 Dius Fidius 357 
+Fravaśis 194, 361 Dius Fidius 357 
 Frey 357 Divo Napatā 363 
-Freyja 357 dogs 122f, 122n, 139, 140n su šan 110 del 317, 326, 328 
+Freyja 357 dogs 122f, 122n, 139, 140n su śan 110 del 317, 326, 328 
 Gandharvas 119, 1278, 134, dru 254 
 208 Druhyus 340 
 garagır 210 druj 60 
@@ -104,7 +104,7 @@ Gaupāyaga 287 Dyauh 12, 33, 37, 64, 219n gemellus 132
 genuinus 132 Dyauh Pitar 6, 37, 352 
 Gilgames 1910 eirene 59, 326 
 girisit 74, 76, 78, 89n Ekastaka 155 
-gırıša 227, 231 chavrátya 209 
+gırıśa 227, 231 chavrátya 209 
 girisania 227, 231 emun 132 
 girira 227, 231 engel 298 
 Glaucussaga 1270 Eos 352 
@@ -114,7 +114,7 @@ gopah 77n etagia 299
 Gotama Rahugana 311 Eumenidos 2570 
 govardhiana ( mountain) 198 ενα) ανα 13 
 gouinda 1980 Eve 1350 
-Harappa 183, 1831, 272 Evolutionary mythology 94, harikeša 273 
+Harappa 183, 1831, 272 Evolutionary mythology 94, harikeśa 273 
 INDEX 
 315 
 harmıya 119, 1190 
@@ -218,8 +218,8 @@ Ninib 50 mijate 56.
 mur-ava-da 204. Mohenjodaro seal 2598., 262, 
 mrrtı 205, 326n, 357. 2658., 2660, 272. 
 Nirīti 2170, 236 monai 56. 
-nisiktapă 87. Moon 41f., 44f., 48f1.. 51. 96. niska 203, 209, 
-100, 102, 1021, 104n, 11_ff. niu-chomio 299. 115, 12111., 282, 289, 291, nuvešanah 12, 20. 314, 329. 
+nisiktapā 87. Moon 41f., 44f., 48f1.. 51. 96. niska 203, 209, 
+100, 102, 1021, 104n, 11_ff. niu-chomio 299. 115, 12111., 282, 289, 291, nuveśanah 12, 20. 314, 329. 
 mivid 16. Mother Goddess 269ff., 270n, Njord 357, 
 48 
 378 
@@ -233,7 +233,7 @@ Phanes 1310 ognis 309
 pitambara 74 *oid 186 
 Pitrs (Pitars) 777, 118, 139, opaśa 1080 
 237 242, 279 ff, 284, 286 ft Orenda, orendism $4,55 57 posa 109n Orion 226n 
-pozis 249n Ouranos 328, 35, 321 Prajāpati 2, 13, 15, 292 padbiša 120, 136, 140 
+pozis 249n Ouranos 328, 35, 321 Prajāpati 2, 13, 15, 292 padbiśa 120, 136, 140 
 prakrti 262n padma 74 
 prasavila 12, 20 pakasasana 159n 
 prausthapada ( rite) 236 Pakthas 340 
@@ -246,7 +246,7 @@ pravai, prayatah 119n Panca Japah 339, 358 pre 2500 Panis 92, 98, 108, 170n, 171
 prsataka 205 Parjanya 37, 97, 118, 149, 352, prthupanı 24 
 356 
 Ppthvi 39 parka 2500 
-*pšu san 110 parna 273 
+*pśu san 110 parna 273 
 pū 110 parnasada 273 
 pucae, 2500 Paryatı 271n 
 pūçu 250 pasa(s) 22, 38f , 49, 59, 62f , pugat: 249n 
@@ -255,9 +255,9 @@ puj 250n pasunam pati 276
 puja 249 ff, 249, 250, 2510, paśupa 92 98n, 107, 1070 
 252, 2596 Pasupati 206, 214, 228 265 ff, *puksara 249 
 265n 275 
-purandara, purandara 650, pašusadhani 104, 1061, 108, 182 1 
+purandara, purandara 650, paśusadhani 104, 1061, 108, 182 1 
 110, 110n 
-Purohita 278, 297, 332, 33711 pašu san 110, 1100 
+Purohita 278, 297, 332, 33711 paśu san 110, 1100 
 Puru 340 
 INDEX 
 punisa 2021. 
@@ -271,7 +271,7 @@ Rudra 989, 140, 1921T., 194n, pūsu 250,
 Rudrāni 227, 258. Qurious 357. 
 rudrijah 192. rāian 61. 
 ruj 2540. rājasüra 204, 204n. 321, 361, rūpa 23. rasa 222. 
-rūtir 35. Rašau 361. 
+rūtir 35. Raśau 361. 
 rūor 35. ratnahavis 204n. 
 Sabala 140n. Rauhina 155., 170n. 
 sabhà 120n. ravilocana 74. 
@@ -279,7 +279,7 @@ Sachal 165. Rbhus 5, 13, 22.
 sahasrārcis 74. rētor 58. 
 sakamedha 225, 271. Revati 103n. 
 Sakka 190n. ritual 28., 5, 711., 41, 44, 63, Sakra 165. 
-65,720, 75, 82, 88, 91, 94, Sakra 190n. 96, 103, 1168., 123, 153, 156, Śakti 270n, 271. 188n, 197n, 203, 205, 205n, Sananicamedhra 210, 262. 212, 226, 261, 271, 2826., Šamaš 47, 51. 287f., 291f., 2951., 307, 310, Sambara 144, 157, 170n. 353, 360. 
+65,720, 75, 82, 88, 91, 94, Sakra 190n. 96, 103, 1168., 123, 153, 156, Śakti 270n, 271. 188n, 197n, 203, 205, 205n, Sananicamedhra 210, 262. 212, 226, 261, 271, 2826., śamaś 47, 51. 287f., 291f., 2951., 307, 310, Sambara 144, 157, 170n. 353, 360. 
 Sambhu 2560, Romulus-Remus 363. 
 Sãm khyas 262n. rota 58. 
 sarnyasa 2610. Řta, fia 6f., 9, 16f8., 227., 29., samraj() 21, 29, 61. 
@@ -291,12 +291,12 @@ sārameyau 1231, 351f,
 380 
 VEDIC MYTHOLOGICAL TRACTS Saranyū 119, 122n, 138, 352. 970, 998., 99n, 100n, 101, Sarira 222. 
 104, 115, 122, 125, 157n, Sarva 206, 228, 276n 
-190n, 222n, 365. šaspiñjara 2731. 
-Soma 43f., 50, 62, 91f., 96, 98, šaspja 273n, 274. 
+190n, 222n, 365. śaspiñjara 2731. 
+Soma 43f., 50, 62, 91f., 96, 98, śaspja 273n, 274. 
 99n, 103, 105, 113ff., 116, sat 316. 
-124f., 197n, 205n, 212n, 220, Šatakratu 165. 
+124f., 197n, 205n, 212n, 220, śatakratu 165. 
 2227, 2878. satarcas 73. 
-Somīpūsanau 96n. Satarudriya 2021., 204n, 207, spašah 61. 
+Somīpūsanau 96n. Satarudriya 2021., 204n, 207, spaśah 61. 
 214, 217, 220, 223, 2230, Śrāddha (-ritual) 86. 
 228, 231, 267n, 273ff. Srivatsa 84n. Saturnus 87n 
 Starkadt 361. satya 315ff. 
@@ -325,7 +325,7 @@ INDEX
 381 
 Sūryā 103, 1121T. 
 ugnis 309, sanguri 24. 
-ugra 202, 206n, 228. svardrš 73. 
+ugra 202, 206n, 228. svardrś 73. 
 Uhsing 74, 77n, 840. svasiyayana (-ceremony) 228, ulūka 120, 140. Siasur jārah 114, 
 Umā 258n. syond 184n. 
 Upavakt? 9. takman 218, 2320. 
@@ -337,7 +337,7 @@ unum 58. Teshub 2670.
 Uşas 24, 219, 246n, 352, 356.' Thor 93n, 1910, 357. 
 Usins 356. Thraetaona Athwía 1910, 303, Vahagn 174n, Thrita 150, 
 Vähikas 276, 2760, Tiāmat 130, 1912. 
-Vaišvānara 293ff. Tondi 54, 
+Vaiśvānara 293ff. Tondi 54, 
 ajra 143f., 147, 1480, 155, Traij ambala-homa 204, 2040, 171, 1820, 218, 2190. 
 225, 271. 
 pajrin 196. Tratr 2, 4, 
@@ -348,20 +348,20 @@ vara 137n. fryambaka 207, 222, 226, 267, yaräha 81, 870.
 270, 2710, 
 varena 34. Tuisto 130, 1310. 
 pāri 52. Tullus Hostilius 360. 
-varna 35. Turvaša 340. 
+varna 35. Turvaśa 340. 
 Taruna 32, 34f., 52, 58, 610, Tvaşts 15, 19, 138, 142, 1610. 318 ff., 328. Typhon 1910. 
 Varuna 2, 6, 8f., 13, 18 ff., 25, Tyr 352, 357, 362, 
 28 ff., 68, 70, 991, 102n, ucchesanabhāga 204, 2040. 1187., 136, 168, 173, 178 ff., ucchista-sukla 204n. 
 179n, 220, 228, 291, 310 ff, *uer 83. 
 341 ff., 355 ff., 360, 363f. *uel-tu 38. 
 varunapraghasa 39. wer 58,321, 328. 
-Vašagn 1741 
+Vaśagn 1741 
 301. 
 382 
 VEDIC MYTHOLOGICAL TRACTS Vasistha, Vāsısthas 65, 650, 125f., 137 ff. 
 70, 890, 180, 331 ff. 
 Vohu manah 50, Váta 240n, 352. 
-Vološu 356. vayas 59n, 
+Volośu 356. vayas 59n, 
 Votan 58n. Vāyu 12, 195n, 2120, 321. Vox 352. vayuna 59n. 
 vr 32, 35, 58, 61n, 173, 328. vazra 182n. 
 vrata 17, 58, 61, 210n, 316, vedhah 73. 
@@ -377,7 +377,7 @@ Vļsākapı 87, 164, 164n. vibhutadyumna 73.
 Vţsotsarga 117n. Vidart 358, 360. 
 vrt 173. Videgha Māthava 311. vrthra 173, 173n. vigāman 76. 
 vrthragna 173, 174n, 176. Vilistengā 163. 
-Vrtra, vrtrănı 38, 42, 46,69 ff., vímuco napát 105. 
+Vrtra, vrtrānı 38, 42, 46,69 ff., vímuco napát 105. 
 142f., 148, 154 ff, 1570, Vin, Vinnu 72n. 
 163f., 173ff., 174, 176, viraj 131, 135., 
 176n, 182n, 189n, 1900, 331, viś 77, 820. 

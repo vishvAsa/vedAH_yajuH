@@ -4,7 +4,7 @@ title = "ABBREVIATIONS"
 +++
 AB, AutBr Aitareya Brahmana ABORI Annals of the Bhandarkar Oriental Research Institute Ai et Wb Kurzgefasstes etymologisches Worterbuch der 
 altındischen Sprache by CC UHLENBECK Alt Ar Altareya Aranyaka AJPh American Journal of Philology ALB Adyar Library Bulletin Anz f ISAK Anzeiger for indogermanische Sprach und 
-Altertuniskunde 10 Acta Orientalia AOS American Oriental Society Após Apastamba Srautasītra Arch / Rel Archiv für Religionswissenschaft Arch Or Archiv Orientalnı ĀŠYGS Āsalajana Grhiyasūtra AV Atharvaseda BB 
+Altertuniskunde 10 Acta Orientalia AOS American Oriental Society Após Apastamba Srautasītra Arch / Rel Archiv für Religionswissenschaft Arch Or Archiv Orientalnı ĀśYGS Āsalajana Grhiyasūtra AV Atharvaseda BB 
 Bezzenberger s Beitrage zur Kunde der indogermanischen 
 Sprachen BDCRI Bulletin of the Deccan College Research Institute BSGW Berichte der philologisch historischen Klasse der konig 
 lischen Sachsichen Gesellschaft der Wissenschaften BSOS Bulletin of the School of Oriental Studies Chu Chandogya Upanisad CR Calcutta Review CUR Ceylon University Review GGA Gottingische Gelehrte Anzeigen GIPh Grundriss der indoiranischen Philologie Gr Gr Griechische Grammatik HIL History of Indian Literature by M WINTERNITZ 
@@ -25,11 +25,11 @@ van Wetenschappen, Amsterdam MIS Maitrāyanı Samhita NG Nachrichten von der Ges
 Gottingen NIA New Indian Antiquary Nir Nirukta Np EI Neupersische En mologie NR The New Review oo Orient und Occident by Tb BENFEY OST Original Sanskrit Texts by J MUIR Ostasiat Zsch Ostasiatische Zeitschrift PAIOC Proceedings of the All India Oriental Conference PAOS Proceedings of the American Oriental Society 
 (published in the relevant number of JAOS) 
 Parashara Grhy asutra PICO Proceedings of the International Congress of Orientalists PIHC Proceedings of the Indian History Congress Pr Bh Prabuddha Bhārata PW Sanskrit Worterbuch by O BOHTLINGK and R ROTH RDV Die Religion des Veda by H OLDENBERG RHR Revue de l'Histoire des Religions RPVU The Religion and Philosophy of the Veda and 
-Upanishads by A Berciedale KEITH RV Rgreda Šanss, ŚŚs Sankhājana Srautasūtra SBAW (or SAW) Sitzungsberichte der Akademie der 
+Upanishads by A Berciedale KEITH RV Rgreda śanss, ŚŚs Sankhājana Srautasūtra SBAW (or SAW) Sitzungsberichte der Akademie der 
 Vissenschaften SBE Sacred Books of the East 
 ABBREVIATIONS 
 369 
-ŚPB Šatapatha-Brähmana TĀ Taittiriya-Aranyaka TB; Taiti. Br. Taittiriya-Brāhmana TMB Tāndya-Maha-Brāhmana TS; Taitt. San. Taittiriya-Sanhitā UZTGVU Učenyje Zapiski Tartuskogo gosundaristiennogo 
+ŚPB śatapatha-Brähmana TĀ Taittiriya-Aranyaka TB; Taiti. Br. Taittiriya-Brāhmana TMB Tāndya-Maha-Brāhmana TS; Taitt. San. Taittiriya-Sanhitā UZTGVU Učenyje Zapiski Tartuskogo gosundaristiennogo 
 Universiteta VBQ Visvabharati Quarterly Ved. Stud. Vedische Studien VM Vedische Mythologie by Alfred HILLEBRANDT VM Vedic Mythology by A. A. MACDONELL VS Vajasaneyi-Samhita Wb. RV; Wb. z.R. Worterbuch zum Rig Veda 
 by H. GRASSMANN WuS Worter und Sachen WZKM. Wiener Zeitschrift for die Kunde des Morgenlandes YV Yajurveda ZDMG Zeitschrift der Deutschen Morgenlandischen 
 Gesellschaft ZII Zcitschrift for Indologie und Iranistik 

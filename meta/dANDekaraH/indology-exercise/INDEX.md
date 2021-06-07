@@ -4,7 +4,7 @@ title = "INDEX"
 +++
 arrya 5 
 Aalto, Pentti 49n. 
-ahamkāra 138, 138n. abhıcărila 83, 158n, 
+ahamkāra 138, 138n. abhıcārila 83, 158n, 
 Ahavaniya (fire) 70, 203 Abhidhamma 251, 
 Ahura Mazdah 39, 77, 173, 187, Abbiras 287, 298 
 187n, 207, 2070, 224 Abhyavartın 190 Abıyard 190 
@@ -56,7 +56,7 @@ Balabharata 306, 307. balı 146, 338 Balkh (region) 25, 26, 36-3v, 24
 362 
 EXERCISES IN INDOLOGY 
 Baltic plain 23, 41 Baltic Sea 19n Bapa 219 bandhu 167 bandhuta 343 Banerjea, A, C 128n Banerjee, N R 610 barasman 236, 243D Barnett L D 224n, 235n Barofsanes 65 Barth, A 196, 197, 197, 199, 
-267, 267n, 294 baru ( bharu ) 228 battle-axe 11, 13, 22 Battle of ten kings see Dašarafia Baukis 191 Becker 312 beech ( beech-argument) 14n, 19, 
+267, 267n, 294 baru ( bharu ) 228 battle-axe 11, 13, 22 Battle of ten kings see Daśarafia Baukis 191 Becker 312 beech ( beech-argument) 14n, 19, 
 191 beeg 18, 182, 19 Begram 63 Bender 19n Benfey 170, 171, 181, 1820 Bengal 304_307 Benvenuste, E 52n, 2410 Bergaigne, A 178, 191, 192, 1920, 
 193, 1931, 194, 1949, 195, 195n, 196, 196, 197, 200, 205, 
 212, 241 Berliner comparative mythology 
@@ -85,7 +85,7 @@ Brunbild 176 "Book" 319n
 Brandhofer, H, 189, 190, 190n, Bopp, F 4, 170, 171 
 191, 191n Bosch-Gimpera, P 24n 
 Buchanan, B 49 brachycephalic 6, 7, 12,29, 46. Buddha 62, 65, 66, 67n, 91, 329, Bradke, P. von 187a, 2010 
-339, 355 Brahmă 271, 273, 291. 
+339, 355 Brahmā 271, 273, 291. 
 Buddha Religion 173 Brahmacarıd(s) 2360, 339. Buddhism 67n, 91, 270, 271, 273, Brahman (brahman) 107, 110, 327, 339, 344, 352, 354, 355 
 111, 113n, 135-137, 142n, 149, Buddhist paychology 251 150, 157, 1581, 159, 159n, 174, bureaucracy 333, 354 182, 188, 202, 210, 223, 233, bureaucratic machinery 328. 236, 238, 239, 239n, 243, 284, Burnham, R E 160. 289, 327 
 Burnouf, Eugène 171, 174, 178, Brahmadas 202, 239, 272, 327 178n. Brahmana( 8 ) 86–89, 1137, 141, Burnouf, Émile 178, 193 
@@ -182,7 +182,7 @@ sindhu. Lanká 186. Lassen, C. 176, 274 274n. La Vallée Poussin, L. de 217,
 EXERCISES IN INDOLOGY 
 madhukasa 220, 2291, 
 manasaspatt 248, Madhyadeśa 272. 
-manasyu 248. Mădhyamdina 176n. 
+manasyu 248. Mādhyamdina 176n. 
 manasvan 248, Madri 273n. 
 mandala( 8 ) 83, 83n, 97, 98, 98n. Magadban thought-complex. 339. Manlūka-Sūkta 242. magic 81, 82, 84, 210n. 
 Mandũkeya. 234n. magical bondage and release 222, manīsā 254 magico-religious 242. 
@@ -216,7 +216,7 @@ Myriantheus 187n, mind 247, 248, 248n.
 mysticism 316. Minoan Crete 50. 
 mythologisation ( of history ) 341, missionaries (to Greek kings ) 
 Nadi-Siikta 10n, 11n. Mithra 207, 225. 
-Nabus 190. Mitra 34, 51, 126, 127. 129. 129n. naksatrašaras 225. 
+Nabus 190. Mitra 34, 51, 126, 127. 129. 129n. naksatraśaras 225. 
 146, 189, 207, 222, 232, 235 Naktā 182, 
 237, 239, 239, 2100. 341 Nana 229n. Nitra-Varuna MGtråvarnau Nanai 229n. 
 103, 104, 104, 105.107. 109, Nandaya 306, 
@@ -227,7 +227,7 @@ Nārāyana 134, 142n,
 376 
 EXERCISES IN INDOLOGY 
 prakrtı 136, 136n, 137, 138, 138n, prakritismy 69. pramana 72 Pramantha 182 prasada 251 prasar 2430 Pratrealhya (Rgveda ) 172. pralistha 243 Pratrds 109, 111, 159 pratyalsa 72, 318 pravritı 251 Prayadiya isti 1440 prayascitta 348. 
-pršno 121, 136, 136n, 137, 139, 
+prśno 121, 136, 136n, 137, 139, 
 139n, 162 pretha 199 prthrv: 138n, 199 Prthoparśavah 190 Przylaski, J 227 229, 2290, 230, 
 230, 232, 233 Ptolemaic ( empire) 62, public administration 333 prua 338 punarmagha 162, 166. Puranas 3 Purandara 39, 42 
 INDEX 
@@ -278,7 +278,7 @@ theological' mind 141, theopanism 237 thickening (of manas ) 250. Thieme, P. 75,
 239n, 243n. Thomas, H, 27n. Thoreau 335. Thracophrygian area 222n. three classes of gods 199. Tiglat-Pileser IV of Assyria 7. Tilak 80, 9n. Tilmpo see Dilman, Tirthamkaras 339. Tiruvalluvar 357. Tistrya 225. Tocharian dialect 27. tolerance 314, 335. Tolstoy 335 Tomyrie 191. totemism 205, 2110, 215, 234 Tovar 220 Toynbee 314. trade-routes 61. training of the king) 150.382 
 EXERCISES IN INDOLOGY 
 Trtsus 84, 85, 95, 96, 100, 108, 
-109, 109n, 110, 159 Trubetzkoy 27, tryañjala 62. Tura Kåvaseya 190 Turan 189, 190, Turvaša 84, 94, 96 tvak 138n Traştr 69, 70, 208, 236 tveganrmre 162 Tveşaratha (tresaratha) 34, 63n, twaddle (theological) 87. twilight (morning) 214. Tylor 2041 Ubaidians 46, Udgatr 109, 110n, 158, 159, Ugraśrayas 290 Ugro-Finnio 16, 16n. Uktbs( 8 ) 109, 110, 159. * unchanging East" 321, unitarian (conception of mytho 
+109, 109n, 110, 159 Trubetzkoy 27, tryañjala 62. Tura Kåvaseya 190 Turan 189, 190, Turvaśa 84, 94, 96 tvak 138n Traştr 69, 70, 208, 236 tveganrmre 162 Tveşaratha (tresaratha) 34, 63n, twaddle (theological) 87. twilight (morning) 214. Tylor 2041 Ubaidians 46, Udgatr 109, 110n, 158, 159, Ugraśrayas 290 Ugro-Finnio 16, 16n. Uktbs( 8 ) 109, 110, 159. * unchanging East" 321, unitarian (conception of mytho 
 logy) 195. unity of logical development) 74 universalisation 334 universe 81. universities 332 Upanisad( 8 ) 89.92, 135, 140, 184, 
 214, 216, 241, 262, 282-284, 286, 
 292, 340, 344, 349-352, 354 Upanisad-period 89 upastha 138n 
@@ -286,7 +286,7 @@ purustlo 133n. Ur 48, 50 Ural Altaic region 18, 18n, 22n, urbanisation (first) 6
 guage, people ) 140, 15, 150, 
 160, 10, 21n, 30, 31, 39, Ur Vahabhārala 305, 309. ar-monotheism 237, 237n, orns (pyxig) 47. tirugula 50. Urraś: 103, 104, 106, 107, 103, 
 175, 177. Ur-Veda 240. Usag 174, 175, 181, 182, 186, 191, 
-193, 204, 2040, 2960, 240. utsar 243, 243n, Vācaspati 138. trico matt 266 Vādırája 307, virajya 143n. Vaišampayana 300, 309. - Vaišeşika 339. Vaisnavism 197, 270. Faitāna-Sülra 133n, 1447, 148, 
+193, 204, 2040, 2960, 240. utsar 243, 243n, Vācaspati 138. trico matt 266 Vādırája 307, virajya 143n. Vaiśampayana 300, 309. - Vaiśeşika 339. Vaisnavism 197, 270. Faitāna-Sülra 133n, 1447, 148, 
 157, Vājasaneyi samhita 153, 176n, 
 248 zajra 243 Vala 176, trīk 121, 138n, 161, 182, Vamadeva 830, 177. Varahamıhıra 65, 330. ! Varcin 190 varna(8) 315n, 346, 3480, varna-dharma 345 tarna-asrama-dharma 345, 356, Denne ogu otsuit 12, 345, 346, vartani 51, Varupa 34, 38. 51, 77, 114 116, 
 116n, 117, 117n, 118, 119, 1191, 120, 1201, 121.129, 130n, 131, 1310, 132, 144, 146, 147, 157, 158, 160 168, 170, 173, 177, 181-183, 187, 1877, 188, 189, 
@@ -318,7 +318,7 @@ EXERCISES IN INDOLOGY
 uiniyoga 157 Vira) 201 Virajas 1420 Vis 149 Visamastokr 307 Vysanın 96 Visby 142n, 177, 186, 194 194n, 
 208, 242, 226, 226n, 230, 233, 235, 240, 240n, 241, 24+ 262, 
 289 Vispimitra 831, 84, 85, 95, 96, 
-113n, 173, 186, 219 Višparupa 69, 70 Visve Devah 103 106, 146, 181, 
+113n, 173, 186, 219 Viśparupa 69, 70 Visve Devah 103 106, 146, 181, 
 209 Vith 230 Vathal Vathoba 230n Vivagyat 181 Vivekananda 334 Voz 182 Vratyas 2, 233, 339 ursabha 184 Vpsakapı 217 
 Weidner, E F 30n Wells, H G9n Westergaard 187 Western 311. western approach 318 Yestern Asia 323, 324 western culture 332, Western sub recension 305 western tradition 314n. Wheeler, REM 42n, 610, 63, 
 657. whip-cord (-decorated cups, 
