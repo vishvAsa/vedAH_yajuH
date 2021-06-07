@@ -38,6 +38,7 @@ cd ..
 
 ```
 cd vedAH-master
+git pull upstream master
 cd themes/sanskrit-documentation-theme-hugo/
 git pull
 cd ../.. 
