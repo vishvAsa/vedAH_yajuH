@@ -2,7 +2,4 @@
 title = "०७ आशासाना सौमनसम्"
 
 +++
-आ॒शासा॑ना सौमन॒सं  
-प्र॒जां सौभा॑ग्यं तनूम्।  
-अ॒ग्नेर् अनु॑व्रता भू॒त्वा +++(तिष्ठति)+++,  
-+++(तां)+++ सं न॑ह्ये सुकृ॒ताय॒ कम् +++(पादपूरणे)+++।
+-<div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/14/001/42_AshAsAnA_saumanasaM.md"  newLevelForH1="2" includeTitle="false"> </div>
