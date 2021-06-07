@@ -49,7 +49,7 @@ hugo server --renderToDisk --config ./config_dev.toml
 ```
 
 ## सञ्चिकासु प्राप्तासु सत्सु कार्यम्
-- यदि कार्यम् vedAH-content इत्यस्मिन् क्रियते```
+- यदि कार्यम् vedAH-content इत्यस्मिन् क्रियते
     - `git pull upstream content` इति परिवर्तनानि लभ्यानि।
     - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/vedAH/tree/content इत्यत्र गत्वा प्रेषणीयम्।
 - यदि कार्यम् vedAH-static इत्यस्मिन् क्रियते
