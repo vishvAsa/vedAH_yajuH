@@ -23,10 +23,7 @@ unicode_script: devanagari
 सुहृदस् समवेतान् मन्त्रवतो ऽवरान् +++(वरः)+++ प्रहिणुयात् १  तानादितो द्वाभ्यामभिमन्त्रयेत २ +++(कृतप्राणायामोऽवरान् प्रेषयिष्येऽइति सङ्कल्प्य, "प्रसुग्मम्ते"ति द्वाभ्यां वरानभिमन्त्र्य, "यूयममुष्मात्कुलात्मह्यं कन्यां वृणीध्वम्" इति प्रेषयेत् । ततस्ते दुहितृमतो गृहं गत्वा, कन्यां दत्तसगोत्रत्वादिदोषरहितां बन्ध्वादिगुणसम्पन्नां च यत्नतोऽवधार्य, दुहितृमन्तं पित्रीदिकं "गौतमगोत्राय विष्णुशर्मणे वराय भवदीयां कन्यां प्रजासहत्वकर्मभ्यो वृणीमहे"इति ब्रूयुः । ततस्स पित्रादिर् "दास्यामी"ति प्रतिब्रूयात् । ततस्ते प्रत्येत्य, "सिद्धार्ता वय"मिति वरायावेदयेयुः । एतच्च वरप्रेषणाद्यासुरार्षयोरेव, नान्येषु अर्थलोपात् ।)+++
 
 +++(हे सुहृदः)+++  
-प्र॒सु॒ग्मन्ता॑+++(=प्रकर्षेण सुष्ठु गन्तारः)+++ धि॒यसा॒नस्य॑+++(=ध्यायमानस्य)+++ स॒क्षणि॑+++(=समाने क्षणे)+++  
-व॒रेभि॑र्+++(=श्रेष्ठैः [पथिभिः])+++ व॒राꣳ+++(=वरयितव्यान् [कन्यायाः पित्रादीन्])+++ अ॒भि षु॒ प्रसी॑दत+++(=प्रगच्छत)+++ ।  
-अ॒स्माक॒म्+++(=कन्याया मम च, अस्मदो द्वयोश्च इति बहुवचनम्)+++ इन्द्र॑ उ॒भयं॑ जुजोषति॒  
-यत् +++(यज्ञेषु)+++ सौ॒म्यस्यान्ध॑सो॒ बुबो॑धति ।  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/01_prasugmantA_dhiyasAnasya.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
@@ -39,46 +36,34 @@ unicode_script: devanagari
 +++(कन्यां प्रतिपादयति "तुभ्यमिमां प्रजासहत्वकर्मभ्यः प्रतिपादयामी"ति।)+++
 स्वयं दृष्ट्वा +++(दृष्ट्वैव चक्षुषी उपसंहरति)+++ तृतीयां +++(=अभ्रातृघ्नीमित्येताम्)+++ जपेत् ३  
 
-अभ्रा॑तृघ्नीं॒ वरु॒णा-  
-ऽप॑तिघ्नीं बृहस्पते ।  
-इन्द्राऽपु॑त्रघ्नीं ल॒क्ष्म्य॑न्,  
-ताम् अ॒स्यै स॑वितस् सुव ।+++(र५)+++  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/03_abhrAtRghnIM_varuNApatighnIm.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ### अवयवशः समीक्षणम्
 चतुर्थ्या +++(=अघोरचक्षुरित्येषा)+++ समीक्षेत ४   
 
-अघो॑र-चक्षु॒र् अप॑तिघ्न्य् एधि  
-शि॒वा प॒तिभ्य॑स् सु॒मना॑स् सु॒वर्चाः॑ ।  
-जी॒व॒सूर् दे॒वका॑मा स्यो॒ना+++(=प्रशस्ता)+++  
-शन्नो॑ भव द्वि॒पदे॒ शञ्चतु॑ष्पदे ।+++(र५)+++
+-<div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/14/002/17_aghorachaxurapatighnI_syonA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## भ्रुवोरन्तरे सम्मार्जनम्  
 अङ्गुष्ठेनोपमध्यमया चाङ्गुल्या दर्भं संगृह्योत्तरेण यजुषा +++(=इदमहमित्यनेन)+++ तस्या भ्रुवोरन्तरँ संमृज्य, प्रतीचीनं +++(प्रत्यग्गतम् उपर्युपरि शिरो )+++ निरस्येत् ५  
 
 +++(अङ्गुष्ठेनोपमध्यमया चाङ्गुल्या दर्भं संगृह्योत्तरेण यजुषा भ्रुवोरन्तरं संमृज्य प्रतीचीनं निरस्येत्।)+++  
-इ॒दम् अ॒हय्ँ या त्वयि॑ पति॒घ्न्य् अ॑ल॒क्ष्मिस्, तां निर्दि॑शामि ।+++(र५)+++  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/05_idamahay.N_yA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## कन्यावियोगकाले बन्धुजनस्य रोदने जपः  
 प्राप्ते निमित्त +++(=वध्वा स्वबन्धूनां च रोदनं)+++ उत्तरां जपेत् +++("जीवारुदन्ती")+++ ६ +++(निमित्तावृत्तौ मन्त्र आवर्तते ।)+++  
 
 +++(कन्याया एव रोदन इत्याश्वलायनः । यथाह - जीवां रुदन्तीति रुदत्याम् इति ।)+++  
-+++(हर्षस्थाने)+++ जी॒वाꣳ रु॑दन्ति॒ वि+++(नि)+++म॑यन्ते अद्ध्व॒रे  
-दी॒र्घाम् अनु॒ +++(भाव)+++प्रसि॑तिं+++(=बन्धं)+++ दीधियु॒र्+++(=ध्यायन्तु)+++ नरः॑+++(बहुवचनम्)+++ ।  
-वा॒मं पि॒तृभ्यो॒ य इ॒दꣳ स॑मेरि॒रे+++(=प्रवर्तयन्ति)+++  
-मयः॒+++(=सुखदं)+++ पति॑भ्यो॒, जन॑यः+++(=जन्याः [वध्वाः])+++ परि॒ष्वजे॑ ।  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/06_jIvAM_rudanti.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 #### स्नापनम्, अहतवस्त्रधारणं, योक्त्रसन्नहनं च ।  
 ### स्नपन-जलाऽऽनयनम्  
 युग्मान् समवेतान् मन्त्रवत उत्तरया +++(=व्युक्षत्क्रूर…)+++ ऽद्भ्यः +++(स्नानार्थजलाहरणार्थं)+++ प्रहिणुयात् ॥  
 
-व्यु॑क्षत्+++(=अपगच्छेत्)+++ +++(यदपां)+++ क्रू॒रम्,  
-उद॑च॒न्त्व्+++(=उद्गच्छन्तु)+++ आप॒,  
-आऽस्यै ब्रा॑ह्म॒णास् स्नप॑नꣳ हरन्तु ।  
-अ-वी॑र-घ्नी॒र्+++(!)+++ उद् अ॑च॒न्त्व् आपः॑ ।  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/07_vyuxat_krUramudachantvApa.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
@@ -87,32 +72,26 @@ unicode_script: devanagari
 
 उत्तरेण यजुषा +++(=अर्यम्णो अग्निं)+++ तस्याश्शिरसि दर्भेण्वं +++(=दर्भैः परिकल्पितमिण्वं निगलाकृतिं परिमण्डलाकारम् रोमककिरीटम् इव)+++ निधाय,  
 
-अ॒र्य॒म्णो +++(प्रसादात्)+++ अ॒ग्निं परि॑यन्तु क्षि॒प्रं  
-प्रती॑क्षन्ता॒ꣳ॒ श्वश्र्वो॑ दे॒वरा॑श्च ।  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/08_aryamNo_agnim.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 तस्मिन्नुत्तरया +++(=खेऽनस)+++ दक्षिणं युगच्छिद्रं प्रतिष्ठाप्य,  
 
 +++(तस्मिन्निण्वे दक्षिणं युगच्छिद्रं प्रतिष्ठापयति )+++  
-खे+++(=छिन्द्रावकाशे)+++ ऽनसः॒+++(=शकटस्य)+++ खे रथः॒+++(थस्य)+++ खे युग॑स्य +++(अपो निस्सार्य प्रसन्न)+++ शचीपते ।  
-अ॒पा॒लाम् इ॑न्द्र॒ त्रिः पू॒त्व्य्॑ अकर॒त् सूर्य॑वर्चसम् ।+++(र५)+++  
-
-(अत्रेतिहासमाचक्षते - अपाला नाम काचित् कन्या श्वित्रिणी +++(=श्वेतकुष्टवती)+++ । तां न कश्चिदुपयेमे । तस्याश्च मनसि कामः सदा बभूव, कथमहं इन्द्रं यजे इति । सा कदाचित् स्नानार्थं नद्यामवतीर्णा स्रोतसा ह्रियमाणा, तमेव कामं मनसि दधाना, स्रोतसा ऽपनीतं सोममपश्यत् । तं दन्तैः पिष्ट्वा तद्रसं इन्द्राय उपाहरत् । तमिन्द्रः पीत्वा रथस्यानसो+++(=शकटस्य)+++ युगस्येति त्रयाणां छिद्रेषु अपो निस्सार्य, ताभिः तां त्रिः पूर्त्वा सूर्यवर्चसम् अकरोत् । तदेतत् “कन्या वारवायती” (ऋग्वेदे) इत्यस्मिन् वर्गे द्रष्टव्यम् । रथ इति षष्ठ्यर्थे प्रथमा । रथादीनां खेषु छिद्रेषु, अपो निस्सार्य त्रिः पूर्त्वी । छान्दसो रेफोपजनः । पूत्वा शोधयित्वा हे शचीपते हे इन्द्र । त्वं अपालां नाम कन्यां सूर्यवर्चसं अकरत् अकरोः । पुरुषव्यत्ययश्छान्दसः । तथैव एनामपि कुर्वित्यर्थः ॥ )  
-
-
-छिद्रे सुवर्णमुत्तरया +++(=शं ते हिरण्यम्)+++ ऽन्तर्धाय,  
-
-+++(युगच्छिद्रे सुवर्णनिधानम् - )+++  
-शन्ते॒ +++(छिद्रे निधीयमानं)+++ हिर॑ण्य॒ꣳ॒ शमु॑ स॒न्त्वाप॒श्  
-शन्ते॑ मे॒धी+++(=खलेवाली, खले धान्यपेषणस्थाने वाल्यन्ते वृषा इति - अत्र युगः)+++ भ॑वतु॒ शय्ँ यु॒गस्य॒ तृद्म॑+++(=छिद्रम्)+++ ।  
-शन्त॒ आप॑श् श॒त-प॑वित्रा भव॒न्त्व्  
-अथा॒ पत्या॑ त॒न्वꣳ॑ सꣳसृ॑जस्व ।। (1)
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/09_khe-nasaH_khe.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ### स्नानम्  
 उत्तराभिः पञ्चभिस् +++(=हिरण्यवर्णा)+++ स्नापयित्वा,  
-<div class="js_include" url="/saMskAra/mantraH/jalam/Rk/hiraNyavarNAsh_shuchayaH/"  newLevelForH1="4" includeTitle="true"> </div>
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/02_hiraNyavarNAshshuchayaH_pAvakA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/03_yAsAM_rAjA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/04_yAsAn_devA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/05_shivena_tvA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ### अहतस्य वाससः परिधानम्  
 उत्तरया +++(=परि त्वा गिर्वणो गिरः)+++ ऽहतेन वाससाच्छाद्य,  
