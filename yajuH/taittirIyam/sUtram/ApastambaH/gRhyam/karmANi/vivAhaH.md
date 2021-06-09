@@ -163,35 +163,25 @@ unicode_script: devanagari
 
 -<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/08_imAmagnistrAyatA~N_gArhapatyaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-मा ते॑ गृ॒हे नि॒शि +++(रोदन)+++घोष॒ उत्था॑द्  
-अ॒न्यत्र॒ त्वद्+++(=त्वत्तः)+++ रु॑द॒त्य॑स् सव्ँ वि॑शन्तु ।  
-मा त्वं वि॑के॒श्य् उर॒ आवधि॑ष्ठा+++(=आताडयेः)+++ जी॒वप॑त्नी  
-पतिलो॒के विरा॑ज॒ पश्य॑न्ती प्र॒जाꣳ सु॑मन॒स्यमा॑नाम् ।+++(५)+++
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/09_mA_te.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-द्यौस्ते॑ पृ॒ष्ठꣳ र॑क्षतु  
-वा॒युर् ऊ॒रू  
-अ॒श्विनौ॑ च॒ स्तन॒न्  
-+++(स्तनं)+++ धय॑न्तꣳ+++(=चूसन्तम्)+++ सवि॒ताऽभि र॑क्षतु ।+++(५)+++  
-आ वास॑सः परि॒धाना॒द् +++(परि॑ त्वा गिर्-वणो॒ इत्यादिना)+++ बृह॒स्पति॒र्,  
-विश्वे॑ दे॒वा अ॒भिर॑क्षन्तु प॒श्चात् ।  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/10_dyauste_pRShTham.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-अ॒प्र॒ज॒स्तां पौ॑त्र मृ॒त्युं  
-पा॒प्मान॑म् उ॒त वा॒ ऽघम् ।  
-शी॒र्ष्णस् स्रज॑म् इवो॒न्मुच्य॑  
-द्वि॒षद्भ्यः॒ प्रति॑मुञ्चामि॒ पाश॑म् । +++(५)+++  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/11_aprajastAm_pautra.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/saMskAra/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/12_imam_me.md"  newLevelForH1="2" includeTitle="false"> </div>  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/13_tattvA_yAmi.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/2/5/aMshAH/tvan_no_agne/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/14_tvanno_agne.md"  newLevelForH1="2" includeTitle="true"> </div>  
+
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/15_sa_tvanno.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/16_tvamagne_ayA-syayA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 #### अश्मारोहणम्, लाजहोमाः
 ### अश्मानमास्थापयति
 अथैनामुत्तरेणाग्निं दक्षिणेन पदाश्मानमास्थापयत्यातिष्ठेति ॥  
-
-आति॑ष्ठे॒मम् अश्मा॑न॒म्  
-अश्मे॑व॒ त्व२ꣳ स्थि॒रा+++(रो पुंसि)+++ भ॑व ।  
-अ॒भिति॑ष्ठ पृतन्य॒तस्+++(=पृतनाकामान्)+++  
-सह॑स्व पृतनाय॒तः+++(=पृतनाकामान्)+++ ।+++(र५)+++  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## लाजहोमः  
 अथास्या अञ्जलावुपस्तीर्य, द्विर् लाजानोप्याभिघारयति। +++(वर एव तस्याः पाणिना)+++ जुहोति "इयं नारी"ति ॥  
