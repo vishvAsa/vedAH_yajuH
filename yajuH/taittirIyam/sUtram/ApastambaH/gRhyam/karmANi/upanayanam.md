@@ -27,12 +27,13 @@ unicode_script: devanagari
 
 ## समिदाधानम् अश्मन्य् आस्थापनं च  
 पालाशीं समिधम् उत्तरया +++("आयुर्दा देव"इत्येतया)+++ ऽऽधाप्य  
-उत्तरेण अग्निं, दक्षिणेन पदा ऽश्मानम् आस्थापयत्य् - आतिष्ठेति ९  
 
 आ॒यु॒र्दा दे॑व ज॒रसं॑ गृणा॒नो  
 घृ॒त+++(√ क्षरणदीप्त्यो)+++-प्र॑तीको+++(=अवयवो)+++ घृ॒त-पृ॑ष्ठो अग्ने ।  
 घृ॒तं पिब॑न्न् अ॒मृत॒ञ् चारु॒ गव्यं॑  
 पि॒तेव॑ पु॒त्रञ् ज॒रसे॑ नये॒मम् ।  
+
+उत्तरेण अग्निं, दक्षिणेन पदा ऽश्मानम् आस्थापयत्य् - आतिष्ठेति ९  
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
