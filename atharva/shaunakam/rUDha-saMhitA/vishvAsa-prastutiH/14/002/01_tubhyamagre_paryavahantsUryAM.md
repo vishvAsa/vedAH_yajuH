@@ -2,4 +2,7 @@
 title = "०१ तुभ्यमग्रे पर्यवहन्त्सूर्यां"
 
 +++
--<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/03_tubhyamagre_paryavahantsUryAm.md"  newLevelForH1="2" includeTitle="false"> </div>
+तुभ्य॒म् +++(अग्नये)+++ अग्रे॒ +++(गन्धर्वाः)+++  पर्य॑वहन्त्  
+सू॒र्यां व॑ह॒तुना॑ स॒ह ।  
+पुनः॒ पति॑भ्यो जा॒यां दा+++(ः)+++  
+अ॑ग्ने प्र॒जया॑ स॒ह ।+++(र५)+++  

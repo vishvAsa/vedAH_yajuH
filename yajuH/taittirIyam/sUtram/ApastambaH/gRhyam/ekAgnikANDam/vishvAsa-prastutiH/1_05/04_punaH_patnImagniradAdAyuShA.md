@@ -2,7 +2,4 @@
 title = "०४ पुनः पत्नीमग्निरदादायुषा"
 
 +++
-पुनः॒ पत्नी॑म् अ॒ग्निर् अ॑दा॒द्  
-आयु॑षा स॒ह वर्च॑सा ।  
-दी॒र्घा॒युर् अ॑स्या॒ यः पति॒स्  
-स ए॑तु श॒रद॑श् श॒तम् ॥+++(र५)+++  
+-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/39_punaH_patnImagniradAdAyuShA.md"  newLevelForH1="2" includeTitle="false"> </div>

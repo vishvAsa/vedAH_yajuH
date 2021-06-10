@@ -6,6 +6,12 @@ practice_weight: 0
 
 +++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../AdityaH/Rk/raibhy_AsId_anudeyI/) दृश्या।)+++  
 
--<div class="js_include" url="vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/03_tubhyamagre_paryavahantsUryAm.md"  newLevelForH1="2" includeTitle="false"> </div>
+तुभ्य॒म् +++(अग्नये)+++ अग्रे॒ +++(गन्धर्वाः)+++  पर्य॑वहन्त्  
+सू॒र्यां व॑ह॒तुना॑ स॒ह ।  
+पुनः॒ पति॑भ्यो जा॒यां दा+++(ः)+++  
+अ॑ग्ने प्र॒जया॑ स॒ह ।+++(र५)+++  
 
--<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/04_punaH_patnImagniradAdAyuShA.md"  newLevelForH1="2" includeTitle="false"> </div>
+पुनः॒ पत्नी॑म् अ॒ग्निर् अ॑दा॒द्  
+आयु॑षा स॒ह वर्च॑सा ।  
+दी॒र्घा॒युर् अ॑स्या॒ यः पति॒स्  
+स ए॑तु श॒रद॑श् श॒तम् ॥+++(र५)+++  
