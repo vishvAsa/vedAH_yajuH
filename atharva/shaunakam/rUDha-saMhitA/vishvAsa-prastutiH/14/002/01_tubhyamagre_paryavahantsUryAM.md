@@ -2,7 +2,4 @@
 title = "०१ तुभ्यमग्रे पर्यवहन्त्सूर्यां"
 
 +++
-तुभ्य॒म् +++(अग्नये)+++ अग्रे॒ +++(गन्धर्वाः)+++  पर्य॑वहन्त्  
-सू॒र्यां व॑ह॒तुना॑ स॒ह ।  
-पुनः॒ पति॑भ्यो जा॒यां दा+++(ः)+++  
-अ॑ग्ने प्र॒जया॑ स॒ह ।+++(र५)+++  
+-<div class="js_include" url="vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md "  newLevelForH1="2" includeTitle="false"> </div>
