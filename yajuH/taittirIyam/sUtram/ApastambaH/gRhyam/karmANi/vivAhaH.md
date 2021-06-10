@@ -223,10 +223,6 @@ unicode_script: devanagari
 ### प्रदक्षिणमन्त्राः
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/13_-15_tubhyamagre_paryavahanpunaH.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
--<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/04_punaH_patnImagniradAdAyuShA.md
-"  newLevelForH1="2" includeTitle="false"> </div>
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/05_vishvA_uta.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### अश्मानमास्थापयति
 -<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/06_AtiShThemamashmAnam.md"  newLevelForH1="2" includeTitle="false"> </div>
