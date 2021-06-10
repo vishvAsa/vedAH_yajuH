@@ -2,5 +2,4 @@
 title = "०२ पुनः पत्नीमग्निरदादायुषा"
 
 +++
-पुनः॒ पत्नी॑म॒ग्निर॑दा॒दायु॑षा स॒ह वर्च॑सा ।  
-दी॒र्घायु॑रस्या॒ यः पति॒र्जीवा॑ति श॒रदः॑ श॒तम्॥२॥  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/04_punaH_patnImagniradAdAyuShA.md"  newLevelForH1="2" includeTitle="false"> </div>
