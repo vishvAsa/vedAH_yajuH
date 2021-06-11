@@ -186,63 +186,50 @@ unicode_script: devanagari
 ## लाजहोमः  
 अथास्या अञ्जलावुपस्तीर्य, द्विर् लाजानोप्याभिघारयति। +++(वर एव तस्याः पाणिना)+++ जुहोति "इयं नारी"ति ॥  
 
-इ॒यन् ना॒र्य् उप॑ब्रूते॒  
-कुल्पा॑न्य् +++(=लाजान्)+++ आवपन्ति॒का+++(=आवपन्ती)+++ ।  
-दी॒र्घा॒युर् अ॑स्तु मे॒ पति॒र्  
-जीवा॑तु+++(=जीव्यात्)+++ श॒रद॑श्श॒तम् ।+++(र५)+++  
-
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/02_iyannAryupabrUte_kulpAnyAvapantikA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## प्रदक्षिणमन्त्राः  
 उत्तराभिस्तसृभिः +++(=तुभ्यमाग्रे पर्यवहन्नित्यादिभिः)+++ प्रदक्षिणमग्निं कृत्वा ऽऽश्मानमास्थापयति यथा पुरस्तात् ॥ +++(यथा पुरस्तात्)+++  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/10/aMshAHtubhyam_agre_paryavahan.md"  newLevelForH1="4" includeTitle="true"> </div>  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/03_tubhyamagre_paryavahantsUryAm.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="../prakIrNam/vishvA_uta_tvayA/"  newLevelForH1="4" includeTitle="true"> </div>  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/04_punaH_patnImagniradAdAyuShA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/05_vishvA_uta.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## अश्मानमास्थापयति  
-<div class="js_include" url="../prakIrNam/ashmArohaNam/"  newLevelForH1="4" includeTitle="true"> </div>  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/06_AtiShThemamashmAnam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## द्वितीयो लाजहोमः  
 होमश्चोत्तरया +++(=अर्यमणं नु देवम्)+++ ॥  
 पुनः परिक्रमणम् ॥  +++(अश्मन)+++ आस्थापनम् ॥  
 
-अ॒र्य॒मण॒न् नु+++(=क्षिप्रं)+++ दे॒वं क॒न्या॑+++(ः)+++  
-अ॒ग्निम् +++(च)+++ अयक्षत +++(पतिलाभाय)+++।  
-स इ॒मां दे॒वो अ॑द्ध्व॒रः+++(=अहिंसितः)+++ प्रेतो मु॒ञ्चाति॒ नाऽमुत॑स्+++(=पतिलोकात्)+++  
-सुब॒द्धाम् अ॒मुत॑स् करत्+++(=कुरु)+++ ।+++(५)+++)  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/07_aryamaNannu_devam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/10/aMshAHtubhyam_agre_paryavahan.md"  newLevelForH1="4" includeTitle="true"> </div>  
-
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/10/aMshAHvishvA_uta_tvayA.md"  newLevelForH1="4" includeTitle="true"> </div>  
-
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/08-11_tubhyamagre_paryavahanpunaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### अश्मानमास्थापयति
-<div class="js_include" url="../prakIrNam/ashmArohaNam/"  newLevelForH1="4" includeTitle="true"> </div>  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/06_AtiShThemamashmAnam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## तृतीयो लाजहोमः  
 होमश्चोत्तरया +++(=त्वमर्यमा भवसि)+++॥  
 पुनः परिक्रमणम् ॥ जयादि प्रतिपद्यते ॥  
 
-त्वम् अ॑र्य॒मा भ॑वसि॒ यत् क॒नी+++(न्या)+++ना॒न्  
-नाम॑ स्व॒धा+++(=अन्न)+++व॒त् स्व॑र्यं+++(र्ग्यं)+++ बि॒भर्षि॑ ।  
-अ॒ञ्जन्ति॑+++(=सिञ्चन्ति)+++ वृ॒क्षꣳ सुधि॑त॒न्+++(=सुष्ठु निहितं)+++ न गोभि॒र्+++(=गोविकारैराज्यादिभिः)+++  
-यद्दम्प॑ती॒ स+++(मान)+++म॑नसा+++(सौ)+++ कृ॒णोषि॑ ।  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/12_tvamaryamA_bhavasi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ### प्रदक्षिणमन्त्राः
-<div class="js_include" url="/saMskAra/mantraH/agniH/Rk/tubhyam_agre_paryavahan/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/13_-15_tubhyamagre_paryavahanpunaH.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="/saMskAra/mantraH/agniH/Rk/vishvA_uta_tvayA/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### अश्मानमास्थापयति
-<div class="js_include" url="../prakIrNam/ashmArohaNam/"  newLevelForH1="4" includeTitle="true"> </div>  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/06_AtiShThemamashmAnam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
-#### वैवागिकाग्नेर्नित्यधारणम् ।
+#### वैवाहिकाग्नेर्नित्यधारणम् ।
 
 +++(उखायाम् =पात्रवोशेषे)+++ समोप्यैतमग्निमनुहरन्ति॥
 ####  योक्त्रविमोकः, वध्वाः स्वगृहं प्रति नयनम् ।
@@ -250,21 +237,13 @@ unicode_script: devanagari
 ## योक्त्त्रं विमुञ्चति  
 परिषेचनान्तं कृत्वोत्तराभ्यां  +++(=प्र त्वा मुञ्चामीति)+++ योक्त्रं विमुच्य, तां ततः प्र वा वाहयेत् +++(=रथादिभिर्नयनं)+++, प्र वा हारयेत् +++(=मनुष्यवाह्येन शिबिकादिना नयनम्)+++ ॥
 
-प्र त्वा॑ मुञ्चामि॒ वरु॑णस्य॒ पाशा॒द् +++(योक्त्र-विमोकेन)+++  
-येन॒ त्वा ऽब॑द्ध्नात् सवि॒ता सु॒केतः॑+++(=सुप्रज्ञानो)+++ ।  
-धा॒तुश् च॒ योनौ॑ सुकृ॒तस्य॑ लो॒के  
-+++(सुकृतस्य लोको हि धातुर् योनिर् दम्पत्योः कृते।)+++  
-स्यो॒नन्+++(=सुखं)+++ ते॑ स॒ह पत्या॑ करोमि ।+++(र४)+++  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/16_pra_tvA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-इ॒मं विष्या॑मि॒+++(=विस्रंसयामि)+++ वरु॑णस्य॒ पाशं॒  
-यम् अब॑द्ध्नीत सवि॒ता सु॒शेवः॑+++(=सुसुखः)+++ ।  
-धा॒तुश्च॒ योनौ॑ सुकृ॒तस्य॑ लो॒के  
-+++(सुकृतस्य लोको हि धातुर् योनिर् दम्पत्योः कृते।)+++  
-ऽरि॑ष्टां+++(=अविनाशिनीम्)+++ त्वा स॒ह पत्या॑ करोमि ।  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/17_imaM_viShyAmi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## अनुगतस्यौपासनाग्नेस् समाधानमन्त्रः
-<div class="js_include" url="/saMskAra/mantraH/agniH/Rk/ayAshcha/"  newLevelForH1="3" includeTitle="false"> </div>  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
@@ -272,17 +251,12 @@ unicode_script: devanagari
 ## प्रयाणकाले रथस्योत्तम्भनी  
 … उत्तरा +++(=सत्येनोत्तभितेत्येषा )+++ रथस्योत्तम्भनी ॥   
 
-स॒त्येनोत्त॑भिता॒ भूमि॒स्  
-सूर्ये॒णोत्त॑भिता॒ द्यौः ।  
-ऋ॒तेना॑ऽऽदि॒त्यास् तिष्ठ॑न्ति  
-दि॒वि सोमो॒ अधि॑ श्रि॒तः ।+++(५)+++  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/01_satyenottabhitA_bhUmissUryeNottabhitA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## वाहाव् उत्तराभ्यां युनक्ति  
 वाहावुत्तराभ्यां +++(=युञ्जन्ति ब्रध्नं)+++ युनक्ति दक्षिणमग्रे ॥  
 
-यु॒ञ्जन्ति॑ ब्र॒द्ध्नम्+++(=महान्तम्)+++ अ॑रु॒षञ्+++(=गन्तारं)+++  
-चर॑न्त॒म् परि॑ त॒स्थुषः॑ ।  
-+++(यावद्)+++ रोच॑न्ते रोच॒ना दि॒वि ।+++(र५)+++  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/02_yunjanti_braddhnam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 <div class="js_include" url="/saMskAra/mantraH/indraH/Rk/yogeyoge/"  newLevelForH1="4" includeTitle="true"> </div>  
 

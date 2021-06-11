@@ -4,6 +4,4 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
-विश्वा॑ उ॒त त्वया॑ व॒यं  
-धारा॑ उद॒न्या॑+++(=उदक-सम्बन्धिनीः)+++ इव ।  
-अति॑गाहेमहि॒ द्विषः॑ ।+++(५)+++  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/05_vishvA_uta.md"  newLevelForH1="2" includeTitle="false"> </div>
