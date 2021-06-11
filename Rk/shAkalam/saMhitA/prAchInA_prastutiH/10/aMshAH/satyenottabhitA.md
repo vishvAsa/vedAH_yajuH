@@ -3,12 +3,7 @@ title: सत्येनोत्तभिता भूमिः
 unicode_script: devanagari
 practice_weight: 0
 ---
-## परिचयः
-- खज्ञानगर्भितम्।
-- सायणो [ऽत्र](https://sa.wikisource.org/wiki/%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AE%E0%A5%AB)।
 
-## सस्वरपाठः
--<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/01_satyenottabhitA_bhUmissUryeNottabhitA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 सोमे॑नादि॒त्या ब॒लिनः॒ +++(सोमपाः)+++  
 सोमे॑न पृथि॒वी म॒ही ।  
