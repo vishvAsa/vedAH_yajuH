@@ -2,7 +2,5 @@
 title = "१४ त्वन्नो अग्ने"
 
 +++
-त्वन् नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्  
-दे॒वस्य॒ हेडो+++(=क्रोधो )+++ ऽव॑ यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
-यजि॑ष्ठो॒ +++(हविर्)+++वह्नि॑तम॒श् शोशु॑चानो॒+++(=देदीप्यमानः)+++  
-विश्वा॒ द्वेषाँ॑सि॒ प्र मु॑मुग्ध्य् अ॒स्मत् ।
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/2/5/aMshAH/tvan_no_agne.md"  newLevelForH1="2" includeTitle="false"> </div>
