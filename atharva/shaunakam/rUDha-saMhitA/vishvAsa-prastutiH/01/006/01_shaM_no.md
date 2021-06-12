@@ -2,7 +2,4 @@
 title = "०१ शं नो"
 
 +++
-
-शं नो॑ दे॒वीर॒भिष्ट॑य॒  
-आपो॑ भवन्तु पी॒तये॑ ।  
-शं योर्+++(=[अ]मिश्रणाय)+++ अ॒भि स्र॑वन्तु नः ॥ ०४॥
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/04_shaM_no.md"  newLevelForH1="2" includeTitle="false"> </div>
