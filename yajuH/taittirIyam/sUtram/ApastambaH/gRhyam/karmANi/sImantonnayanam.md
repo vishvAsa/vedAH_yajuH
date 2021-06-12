@@ -15,11 +15,13 @@ unicode_script: devanagari
 उत्तरा आहुतीर् हुत्वा +++(=  "धाता ददातु नो रयिम्" इति चतस्रो "यस्त्वा हृदा कीरिणे"ति चतस्रः)+++  
 जयादि प्रतिपद्यते ॥  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/saMskAra/mantraH/agniH/Rk/yas_tvA_hRdA/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/10_yastvA_hRdA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/saMskAra/mantraH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/11_yasmai_tvaM.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/saMskAra/mantraH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
