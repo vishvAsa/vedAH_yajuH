@@ -258,7 +258,7 @@ unicode_script: devanagari
 
 -<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/02_yunjanti_braddhnam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/saMskAra/mantraH/indraH/Rk/yogeyoge/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/03_yogeyoge.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 
 ## आरोहन्तीम् उत्तराभिर् अभिमन्त्रयते  
@@ -269,90 +269,54 @@ unicode_script: devanagari
 आरो॑ह वध्व् अ॒मृत॑स्य लो॒क२ꣳ +++(तत्सङ्केतत्वेन)+++  
 स्यो॒नं+++(=सुखं)+++ पत्ये॑ वह॒तुं+++(=स्त्रीधनं)+++ कृ॑णुष्व ।+++(४)+++  
 
-उदु॑त्त॒रम् आ॒रोह॑न्ती  
-व्य॒स्यन्ती॑ पृतन्य॒तः+++(=योद्धुकामान्)+++ ।  
-मू॒र्द्धानं॒ पत्यु॒र् आ रो॑ह  
-प्र॒जया॑ च वि॒राड् भ॑व ।+++(५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/05_uduttaramArohantI_vyasyantI.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-स॒म्राज्ञी॒ श्वशु॑रे भव  
-स॒म्राज्ञी॑ श्वश्रु॒वां भ॑व ।  
-नना॑न्दरि स॒म्राज्ञी॑ भव  
-स॒म्राज्ञी॒ अधि॑ दे॒वृषु॑ ।+++(५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/06_samrAjnI_shvashure.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-स्नु॒षाणा॒ꣳ॒ श्वशु॑राणां  
-प्र॒जाया॑श्च॒ धन॑स्य च ।  
-पती॑नाञ्च देवॄ॒णाञ्च॑  
-सजा॒तानां॑ वि॒राड् भ॑व ।+++(५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/07_snuShANAM_shvashurANAm.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
 ## सूत्रे वर्त्मनोर् व्यवस्तृणाति
 +++(द्वे)+++ सूत्रे वर्त्मनोर् +++(=चक्रयोर्)+++ व्यवस्तृणात्त्य् +++(=तिर्यक्स्तृणाति)+++ उत्तरया +++(= नीललोहित इत्येतया)+++ नीलं दक्षिणस्यां लोहितमुत्तरस्याम् ॥   
 
-नी॒ल॒लो॒हि॒ते +++(सूत्रे)+++ भ॑वतः  
-+++(एकतरेण?)+++ +++(कु)+++कृ॒त्या-स॒क्तिर् +++(दूरं)+++ व्य॑ज्यते ।  
-एध॑न्तेऽस्या ज्ञा॒तयः॒  
-+++(एकतरेण?)+++ पति॑र् ब॒न्धेषु॑ बद्ध्यते ।  
+-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/08_nIlalohite_bhavataH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ते उत्तराभिर् +++(= ये वध्वश्चन्द्रमित्येताभिः)+++ अभियाति +++(= उपरि गच्छति)+++ ॥  
 ___________
 +++(ते सूत्रे उत्तराभिरभियाति)+++  
-ये व॒द्ध्वश् च॒न्द्रं+++(=आह्लादकं)+++ व॑ह॒तुं+++(=स्त्रीधनं)+++  
-यक्ष्मा॒ यन्ति॒ जना॒ꣳ॒ अनु॑ ।  
-पुन॒स् तान् य॒ज्ञिया॑ दे॒वा  
-नय॑न्तु॒ यत॒ आग॑ताः ।+++(र४)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/09_ye_vaddhvashchandram.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-मा वि॑दन् परिप॒न्थिनो॒  
-य आ॒सीद॑न्ति॒ दम्प॑ती ।  
-सु॒गेभि॑र् दु॒र्गम् +++(तौ)+++ अती॑ता॒म्  
-अप॑ द्रा॒+++(द्रव)+++न्त्व् अरा॑तयः ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/10_mA_vidanparipanthino.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-सु॒गं पन्था॑न॒म् आरु॑क्ष॒+++(ह)+++म्  
-अरि॑ष्ट२ꣳ स्वस्ति॒-वाह॑नम् ।  
-यस्मि॑न् वी॒रो न रिष्य॑त्य्,  
-अ॒न्येषां॑ वि॒न्दते॒ वसु॑ ॥ (6)
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/11_sugam_panthAnamAruxamariShTa2m.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ##### विशेष-स्थानातिक्रमणम्
 तीर्थ-स्थाणु+++(=गवां कण्डूयनार्थ निखातः स्तम्भः)+++-चतुष्पथव्यतिक्रमे चोत्तरां +++(=ता मन्दसाना)+++ जपेत् ॥   
 
 ## तीर्थादिव्यतिक्रमे जपः  
-ता+++(=तौ)+++ म॑न्दसा॒ना+++(=स्तूयमानौ)+++ मनु॑षो दुरो॒ण+++(=गृहे)+++  
-**आ ध॒त्तꣳ** र॒यिं द॒श-वी॑रं वच॒स्यवे॑+++(=वचनवते)+++ ।  
-**कृ॒तं**+++(=कुरुतं)+++ ती॒र्थꣳ सु॑-प्रपा॒णꣳ **शु॑भस्-पती** +++(अश्विनौ)+++,  
-स्था॒णुं प॑थे॒ष्ठाम् अप॑ दुर्म॒तिꣳ **ह॑तम्** ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/01_tAmandasAnA_manuSho.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 +++(नावमुत्तरयानुमन्त्रयते)+++  
 नावम् उत्तरयानुमन्त्रयते +++(=अयं नो मह्याः पारं स्वस्ति)+++ ॥ न च नाव्यांस् +++(=तरयितॄन्)+++ तरती वधूः पश्येत् ॥   
 
-अ॒यन् नो॑ म॒ह्याः+++(=महत्याः [नद्याः])+++ पा॒र२ꣳ  
-स्व॒स्ति ने॑ष॒द् वन॒स्पतिः॑ ।  
-सीरा॑+++(=नदि!)+++ नस् सु॒तरा॑ भव  
-दीर्घायु॒त्वाय॒ वर्च॑से ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/02_ayanno_mahyAH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 तीर्त्वोत्तरां +++(=अस्य पारः)+++ जपेत् ॥  
 
-+++(तीर्त्वा जपः)+++  
-अ॒स्य॒ +++(नद्यादेः)+++ पा॒रे +++(तीरे)+++ नि॑र्ऋ॒तस्य॑+++(=निस्तरितस्य)+++  
-जी॒वा **ज्योति॑र् अशीमहि** ।  
-म॒ह्या+++(=महत्यै)+++ इ॑न्द्रस् स्व॒स्तये॑ +++(ऽस्तु)+++।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/03_asya_pAre.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## श्मशानादिव्यतिक्रमे होमः  
 श्मशानाधिव्यातिक्रमे भाण्डे रथे वा रिष्टे ऽग्नेरुपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायाम् उत्तरा आहुतीर् +++(= "यदृतेचिद्" इत्याद्यास्सप्त)+++ हुत्वा जयादि प्रतिपद्यते, परिषेचनान्तं करोति ॥   
 
-यद् ऋ॒ते-चि॑द् अभि॒श्रि+++(श्लि)+++षः॑  
-पु॒रा ज॒र्तृ+++(तु)+++भ्य॑ आ॒तृदः॑+++(=दृढीकुर्वन्ति)+++ ।  
-सन्धा॑ता स॒न्धिं म॒घवा॑ पुरो॒वसु॒र्+++(=बहुधनः)+++,  
-निष्+++(=संस्)+++क॑र्ता॒ विहृ॑+++(~~ह्रु~~)+++तं॒+++(=विनष्टं)+++ पुनः॑ । +++(स्वाहा॑!)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/04_yadRtechidabhishriShaH_purA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-इडा॑म्+++(=अन्नम्)+++ अग्ने पुरु॒दꣳसꣳ॑+++(=बहुदर्शनीयं)+++  
-स॒निङ् गोश् श॑श्वत्त॒मꣳ हव॑म् आनाय साध+++(य)+++ ।  
-स्यान् न॑स् सू॒+++(~~सु~~)+++नुस् तन॑यो+++(=पौत्रः)+++  
-वि॒जावा+++(विजनक)+++ ऽग्ने॒ सा ते॑ सुम॒तिर् भू᳚त्व् अ॒स्मे+++(=स्मासु)+++ ।   
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/05_iDAmagna.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 <div class="js_include" url="/saMskAra/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
