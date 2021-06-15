@@ -2,12 +2,6 @@
 title = "२७ -३२ रेवतीस्त्वा व्यक्ष्णन्नित्येताः"
 
 +++
-## मन्त्रः
 
-रे॒वती॑स्त्वा॒ व्य॑क्ष्ण॒न्नित्ये॒ताः ॥ (७)
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-## टीका
-रेवतीस्त्वा व्यक्ष्णन् इत्यदि ॥ गताः । ताभिरेव द्वितीयं वासः परिधत्ते ॥
-
-
-इति श्रीहरदत्तविरचिते एकाग्निकाण्डव्याख्याने द्वितीयप्रश्ने सप्तमः खण्डः
