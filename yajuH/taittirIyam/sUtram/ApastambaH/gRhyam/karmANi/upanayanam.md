@@ -86,14 +86,14 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/09_iyan_duruktAtparibAdhamAnA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-+अजिनम् उत्तरमुत्तरया +++(मित्रस्य चक्षुरित्येतया )+++ ११
-
 ऋ॒तस्य॑ गो॒प्त्री तप॑सः पर॒स्+++(=प्र)+++पी+++(=पात्री)+++  
 घ्न॒ती रक्ष॒स् सह॑माना॒ अरा॑तीः ।  
 सा न॑स् सम॒न्तम् अनु॒ परी॑हि भ॒द्रया॑  
 भ॒र्तार॑स्+++(=बिभ्राणाः)+++ ते मेखले॒ मा रि॑षाम ।
 
 ### अजिनमन्त्रः
++अजिनम् उत्तरमुत्तरया +++(मित्रस्य चक्षुरित्येतया )+++ ११
+
 +++(धर्मसूत्रेषु - "क्षत्र-वृद्धिम् इच्छन् वस्त्राण्य्, एवोभय-वृद्धिम् इच्छन्न् उभयमिति हि ब्राह्मणम् ९" इत्यादि विकल्पा उक्ताः। तस्मिन् पक्षे ऽजिनप्रतिनिधित्वेन प्रायेण ग्राह्यं वस्त्रम्। )+++
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md"  newLevelForH1="2" includeTitle="true"> </div>  
@@ -223,9 +223,12 @@ unicode_script: devanagari
 दैवी॒ या मा॑नु॒षी मे॒धा  
 सा मामा वि॑शतादि॒ह ।  
 
-<div class="js_include" url="/saMskAra/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/2/5/aMshAH/tvan_no_agne/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## मन्त्रोपदेशः
 +++(आचार्यः कूर्चम् आरोहति)+++  
