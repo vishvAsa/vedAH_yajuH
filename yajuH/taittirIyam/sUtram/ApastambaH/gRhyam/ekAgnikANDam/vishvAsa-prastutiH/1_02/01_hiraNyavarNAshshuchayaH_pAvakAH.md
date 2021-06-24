@@ -2,7 +2,4 @@
 title = "०१ हिरण्यवर्णाश्शुचयः पावकाः"
 
 +++
-हिर॑ण्यवर्णा॒श् शुच॑यः पाव॒काः  
-प्रच॑क्रमुर् ‌हि॒त्वा ऽव॒द्यम् आपः॑ ।  
-श॒तं प॒वित्रा॒ वित॑ता॒ ह्या॑सु॒ +++(अप्सु)+++  
-ताभि॑ष् ट्वा दे॒वस् स॑वि॒ता पु॑नातु ।+++(र५)+++ 
+<div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033/01_hiraNyavarNAH_shuchayaH.md"  newLevelForH1="2" includeTitle="false"> </div>
