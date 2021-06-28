@@ -2,4 +2,7 @@
 title = "०४ अघोरचक्षुरपतिघ्न्येधि शिवा"
 
 +++
--<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/44_aghorachaxurapatighnyedhi_shivA.md"  newLevelForH1="2" includeTitle="false"> </div>
+अघो॑र-चक्षु॒र् अप॑तिघ्न्य् एधि  
+शि॒वा प॒तिभ्य॑स् सु॒मना॑स् सु॒वर्चाः॑ ।  
+जी॒व॒सूर् दे॒वका॑मा स्यो॒ना+++(=प्रशस्ता)+++  
+शन्नो॑ भव द्वि॒पदे॒ शञ्चतु॑ष्पदे ।+++(र५)+++
