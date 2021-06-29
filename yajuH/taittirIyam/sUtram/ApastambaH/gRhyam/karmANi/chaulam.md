@@ -29,7 +29,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/11_yasmai_tvaM.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/saMskAra/mantraH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/mantraH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 अपरेणाग्निं प्राञ्चम् उपवेश्य  
 त्रेण्या शलल्या+++(=शल्यक-सूचयः)+++, त्रिभिर् दर्भ-पुञ्जीलैः+++(=सविशाखा नाडीभिः)+++, शलालु+++(=अपक्वोदुम्बर)+++-ग्लप्सेन+++(=गुच्छेन)+++ +इति  

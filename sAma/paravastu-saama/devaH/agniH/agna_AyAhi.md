@@ -7,7 +7,7 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/06/aMshAHagna_AyAhi.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
-{{< figure src="/saMskAra/mantraH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
+{{< figure src="/devaH/mantraH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
 
 
 ## साम १

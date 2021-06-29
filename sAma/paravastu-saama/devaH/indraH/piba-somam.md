@@ -7,7 +7,7 @@ unicode_script: devanagari
 ## ऋक्
 
 
-<div class="js_include" url="/saMskAra/mantraH/indraH/Rk/piba_somam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/mantraH/indraH/Rk/piba_somam/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 ## साम १

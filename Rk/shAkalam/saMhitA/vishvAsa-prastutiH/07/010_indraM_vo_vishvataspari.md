@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 +++
 
 इन्द्रं॑ वो वि॒श्वत॒स्परि॒ हवा॑महे॒ जने॑भ्यः । अ॒स्माक॑मस्तु॒ केव॑लः ।  
-<div class="js_include" url="../../../../../saMskAra/mantraH/Rk/indran-naro/"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="../../../../../devaH/mantraH/Rk/indran-naro/"  newLevelForH1="2" includeTitle="false"> </div>
 इ॒न्द्रि॒याणि॑ शतक्रतो॒ या ते॒ जने॑षु प॒ञ्चसु॑ । इन्द्र॒ तानि॑ त आ वृ॑णे ।  
 अनु॑ ते दायि म॒ह इ॑न्द्रि॒याय॑ स॒त्रा ते॒ विश्व॒मनु॑ वृत्र॒हत्यै॑ ।  
 अनु॑ क्ष॒त्रमनु॒ सहो॑ यज॒त्रेन्द्र॑ दे॒वेभि॒रनु॑ ते नृ॒षह्ये॑ ।  

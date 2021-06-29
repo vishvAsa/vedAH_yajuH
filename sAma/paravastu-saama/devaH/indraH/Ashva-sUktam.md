@@ -6,7 +6,7 @@ unicode_script: devanagari
 
 ## ऋक्
 
-<div class="js_include" url="/saMskAra/mantraH/indraH/Rk/yadindrAham/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/mantraH/indraH/Rk/yadindrAham/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 शुक्र आहुतः {- स्वर्मयः}+++(नास्त्य् अयम् भागः कौथुमगाने)+++।
 

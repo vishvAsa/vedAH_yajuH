@@ -36,7 +36,7 @@ RV.7.32.16
 आ꣣पृ꣡च्छ्यं꣢ ध꣣रु꣡णं꣢ वा꣣꣬ज्य꣢꣯र्षसि꣣ नृ꣡भि꣢र्धौ꣣तो꣡ वि꣢चक्ष꣣णः꣢ ।।2 ।। ।।9(लु)।।
 
 
-{{< figure src="/saMskAra/mantraH/somaH/images/somotpAdane-devAhvAnam.png"  class="thumbnail">}}
+{{< figure src="/devaH/mantraH/somaH/images/somotpAdane-devAhvAnam.png"  class="thumbnail">}}
 
 
 ## साम

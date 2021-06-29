@@ -7,7 +7,7 @@ unicode_script: devanagari
 ## ऋक्
 भूः - स्वर्ज्योतिः। भुवः - स्वर्ज्योतिः। सुवः - स्वर्ज्योतिः। सत्यम् - स्वर्ज्योतिः। पुरुषः - स्वर्ज्योतिः। 
 
-<div class="js_include" url="/saMskAra/mantraH/AdityaH/Rk/tat_savitur/"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" url="/devaH/mantraH/AdityaH/Rk/tat_savitur/"  newLevelForH1="3" includeTitle="false"> </div>
 
 ## साम
 

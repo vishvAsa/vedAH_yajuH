@@ -76,7 +76,7 @@ unicode_script: devanagari
 अप्य॑भूद् भ॒द्रे सु॑कृ॒तस्य॑ लो॒के ।  
 
 ## सूर्यग्रहणमोक्षनिदर्शनम्  
-{{< figure src="/saMskAra/lokAntaram/images/solar_eclipse_receeding.jpg" class="thumbnail">}}
+{{< figure src="/devaH/lokAntaram/images/solar_eclipse_receeding.jpg" class="thumbnail">}}
 
 सूर्य॑म् ऋ॒तन् +++(=प्राप्तम्)+++ तम॑सो॒ ग्राह्या॒  
 यद् दे॒वा अमु॑ञ्च॒न्नसृ॑ज॒न् व्ये॑नसः +++(=व्यसृजन् एनसः)+++ ।  
@@ -210,7 +210,7 @@ _eclipse_receeding.jpg" class="thumbnail">}}
 
 ### कर्णे जपः  
 उत्तरान्मन्त्रान् +++(=अग्निरायुष्मान् स वनस्पतिभिः)+++ जपेत् १२  
-<div class="js_include" url="/saMskAra/mantraH/misc-devas/Rk/agnirAyuShmAn/"  newLevelForH1="4" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/mantraH/misc-devas/Rk/agnirAyuShmAn/"  newLevelForH1="4" includeTitle="false"> </div>  
 
 
 ## कुमार्या अभिमन्त्रणम्  

@@ -24,7 +24,7 @@ practice_weight: 0
 दक्षिणतः पितोत्तरा मातैवम् अवशिष्टानां ज्येष्ठो ज्येष्ठो ऽनन्तरः १०  
 +++(किञ्चित्सुप्त्वा)+++ सं-हाय  
 उत्तराभ्यां +++("स्योना पृथिवि" "बडित्थे"त्येताभ्यां)+++ पृथिवीमभिमृशन्ति ११  
-<div class="js_include" url="/saMskAra/mantraH/lokAntaram/Rk/syonA_pRthivI/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/devaH/mantraH/lokAntaram/Rk/syonA_pRthivI/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 बड् इ॒त्था+++(त्थं)+++ पर्व॑तानाङ्+++(→मेघानाम्)+++  
