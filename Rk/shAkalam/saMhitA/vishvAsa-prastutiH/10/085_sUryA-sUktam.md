@@ -6,7 +6,7 @@ unicode_script = "devanagari"
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/01_satyenottabhitA_bhUmiH.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
 <div class="js_include" url="Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/06_raibhyAsIdanudeyI_nArAshaMsI.md"  newLevelForH1="2" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/10/aMshAHdAmpatyam/vadhvAshiShaH_sUryAsUktAt.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
 
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/07_chittirA_upabarhaNaM.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
