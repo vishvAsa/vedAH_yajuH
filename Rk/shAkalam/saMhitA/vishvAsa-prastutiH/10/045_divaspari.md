@@ -7,16 +7,16 @@ unicode_script = "devanagari"
 
 ## त्रेधा जन्म  
 
-{{< figure src="/devaH/hindukaH//agniH/images/lightning.jpg" class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/agniH/images/lightning.jpg" class="thumbnail">}}  
 दि॒वस् परि॑ प्रथ॒मं ज॑ज्ञे अ॒ग्निर्  
-{{< figure src="/devaH/hindukaH//agniH/images/agni-rising-from-a-vedI-giving-bearing-gifts.jpg" class="thumbnail pb-3">}}  
+{{< figure src="/devaH/hindukaH/agniH/images/agni-rising-from-a-vedI-giving-bearing-gifts.jpg" class="thumbnail pb-3">}}  
 अ॒स्मद् द्वि॒तीय॒म् परि॑ जा॒तवे॑दाः ।  
-{{< figure src="/devaH/hindukaH//agniH/images/baku-fire-spring.jpg" class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/agniH/images/baku-fire-spring.jpg" class="thumbnail">}}  
 तृ॒तीय॑म् अ॒प्सु नृ॒मणा॒ अज॑स्र॒म्  
 इन्धा॑न एनं जरते +++(=स्तौति)+++ स्वा॒धीः ।  
 
 ## त्रेधा रूपाणि  
-{{< figure src="/devaH/hindukaH//agniH/images/lightning.jpg" class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/agniH/images/lightning.jpg" class="thumbnail">}}  
 +++(प्रतिज्ञा+ऋक्। अग्रिमायाम् उत्तरम्।)+++  
 वि॒द्मा ते॑ अग्ने त्रे॒धा +++{रूपाणि अग्नि-विद्युत्-सूर्यास्}+++ त्र॒याणि॑  
 वि॒द्मा ते॒ सद्म॒ +++{नानाकुण्डेषु}+++ विभृ॑तम् पुरु॒त्रा +++(=बहुधा)+++।  
@@ -31,21 +31,21 @@ unicode_script = "devanagari"
 
 ## लोके क्व दृश्यते?
 ### दवानलः  
-{{< figure src="/devaH/hindukaH//agniH/images/forest-fire.jpg" class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/agniH/images/forest-fire.jpg" class="thumbnail">}}  
 अक्र॑न्दद् अ॒ग्निः स्त॒नय॑न्निव॒ द्यौः  
 क्षामा॒ +++(=पृथिवीं)+++ रेरि॑हद् +++(=आस्वादयन्)+++ वी॒रुधः॑ +++(={वृक्ष}गुल्मान्)+++ सम॒ञ्जन्न् ।  
 स॒द्यो ज॑ज्ञा॒नो +++{दावानलः}+++ वि हीम् इ॒द्धो  
 अख्य॒दा रोद॑सी भा॒नुना॑ भात्य् अ॒न्तः ।  
 
 ### कुण्डस्थः
-{{< figure src="/devaH/hindukaH//agniH/images/agni-with-pillar-of-smoke-above.jpg" class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/agniH/images/agni-with-pillar-of-smoke-above.jpg" class="thumbnail">}}  
 उ॒शिक् +++(=कामयिता)+++ पा॑व॒को अ॑र॒तिः +++(=गन्ता)+++ सु॑मे॒धा  
 मर्ते॑ष्व् अ॒ग्निर् अ॒मृतो॒ निधा॑यि ।  
 इय॑र्ति +++(=गमयति)+++ धू॒मम् अ॑रु॒षम् +++(=महत्)+++ भरि॑भ्र॒द्  
 उच् छु॒क्रेण॑ शो॒चिषा॒ द्याम् इन॑क्षत् +++(=दीपयत्)+++।  
 
 ### ज्वालामुखी  
-{{< figure src="/devaH/hindukaH//agniH/images/mud-volcano.jpg" title="Mud volcanoes" class="thumbnail">}}[!](https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan)  
+{{< figure src="/devaH/hindukaH/agniH/images/mud-volcano.jpg" title="Mud volcanoes" class="thumbnail">}}[!](https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan)  
 विश्व॑स्य के॒तुर् भुव॑नस्य॒ गर्भ॒  
 आ रोद॑सी अपृणा॒ज् +++(=अपूरयत्)+++ जाय॑मानः ।  
 वी॒डुं +++(=दृढं)+++ चि॒द् अद्रि॑म् अभिनत् परा॒यञ् +++(=परागच्छन्)+++  
@@ -75,7 +75,7 @@ unicode_script = "devanagari"
 
 ## तेजोविभूतिर् जन्म च  
 
-{{< figure src="/devaH/hindukaH//agniH/images/lightning.jpg" class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/agniH/images/lightning.jpg" class="thumbnail">}}  
 दृ॒शा॒नो रु॒क्म +++(=रोचमानः)+++ उ॒र्व्या +++(=महत्या)+++ व्य॑द्यौद्,  
 दु॒र्मर्ष॒म् आयुः॑ श्रि॒ये रु॑चा॒नः ।  
 अ॒ग्निर् अ॒मृतो॑ अभव॒द् वयो॑भि॒र्  

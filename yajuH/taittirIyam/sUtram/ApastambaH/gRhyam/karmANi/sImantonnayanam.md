@@ -21,7 +21,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/11_yasmai_tvaM.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/devaH/hindukaH//indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/hindukaH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 

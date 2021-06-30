@@ -47,7 +47,7 @@ unicode_script = "devanagari"
 य एवम् एता महासꣳहिता व्याख्या॑ता वे॒द, सन्धीयते प्रज॑या प॒शुभिः,, ब्रह्मवर्चसेनान्नाद्येन सुवर्ग्येण॑ लोके॒न ॥ (6)
 
 ## प्रकीर्णम्
-<div class="js_include" url="/devaHhindukaH//indraH/Rk/yash_ChandasAm/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/devaHhindukaH/indraH/Rk/yash_ChandasAm/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 आ॒वह॑न्ती वितन्वा॒ना,,  
 कु॒र्वा॒णा चीर॑म् आ॒त्मनः॑ ।  

@@ -313,7 +313,7 @@ unicode_script: devanagari
 उत्तरैर् +++("तच्चक्षुर्देव हितम्")+++ आदित्यम् उपतिष्ठते १७  
 
 +++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् ।  
-<div class="js_include" url="/devaH/hindukaH//misc-devas/Rk/pashyema_sharadaH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/hindukaH/misc-devas/Rk/pashyema_sharadaH/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 ### हस्त-ग्रहण-मन्त्रः

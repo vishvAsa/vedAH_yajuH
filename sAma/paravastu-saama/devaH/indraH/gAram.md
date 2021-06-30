@@ -26,7 +26,7 @@ RV.8.2.1a
 नृ꣡भि꣢र्धौ꣣तः꣢ सु꣣तो꣢꣫ अश्नै꣣र꣢व्या꣣ वा꣢रैः꣣ प꣡रि꣢पूतः। अ꣢श्वो꣣ न꣢ नि꣣क्तो꣢ न꣣दी꣡षु꣢ ।।2 ।।  
 तं꣢ ते꣣ य꣢वं꣣ य꣢था꣣ गो꣡भिः꣢ स्वा꣣दु꣡म꣢कर्म श्री꣣ण꣡न्तः꣢। इ꣡न्द्र꣢ त्वा꣣स्मिं꣡त्स꣢ध꣣मा꣡दे꣢ ।।3 ।। ।।8(थौ)।।  
 
-{{< figure src="/devaH/hindukaH//indraH/images/indra-squeezing-soma-into-mouth.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/indraH/images/indra-squeezing-soma-into-mouth.jpg"  class="thumbnail">}}
 
 
 ## साम
