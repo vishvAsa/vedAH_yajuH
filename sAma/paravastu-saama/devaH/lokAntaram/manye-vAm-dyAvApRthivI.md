@@ -7,7 +7,7 @@ practice_weight: 0
 
 ## ऋक्
 
-<div class="js_include" url="/devaH/mantraH/lokAntaram/Rk/manye_vAm_dyAvApRthivI/"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/devaH/hindukaH//lokAntaram/Rk/manye_vAm_dyAvApRthivI/"  newLevelForH1="3" includeTitle="false"> </div> 
 
 ## साम
 

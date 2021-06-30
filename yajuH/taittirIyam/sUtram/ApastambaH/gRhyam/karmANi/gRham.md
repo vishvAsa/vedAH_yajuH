@@ -19,7 +19,7 @@ practice_weight: 0
 __________________
 
 ### स्थूणावधानम्
-<div class="js_include" url="/devaH/mantraH/lokAntaram/Rk/syonA_pRthivI/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/devaH/hindukaH//lokAntaram/Rk/syonA_pRthivI/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 +++(समं यथा तथा)+++ कॢप्तम् उत्तरय+++("स्योना पृथिवी")+++ +अभिमृश्य  
 प्रदक्षिणं स्थूणागर्तान् खानयित्वा+++(नकारस्छान्दसः)+++  

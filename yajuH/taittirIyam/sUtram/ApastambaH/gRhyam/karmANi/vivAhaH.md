@@ -322,9 +322,9 @@ ___________
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/05_iDAmagna.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/devaH/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/devaH/hindukaH//AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="/devaH/mantraH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/devaH/hindukaH//agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 
 ## क्षीरिवृक्षाद्यतिक्रमे जपः
@@ -432,9 +432,9 @@ _____________
 दी॒र्घम् आयुः॑ कृणोतु वाम् ।  
 
 
-<div class="js_include" url="/devaH/mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/devaH/hindukaH//AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="/devaH/mantraH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/devaH/hindukaH//agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 
 इति श्रीहरदत्तविरचिते एकाग्निकाण्डमन्त्रव्याख्याने अष्टमः खण्डः ॥  

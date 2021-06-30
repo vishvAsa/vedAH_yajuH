@@ -6,7 +6,7 @@ practice_weight: 0
 ---
 
 ## ऋक्
-<div class="js_include" url="/devaH/mantraH/indraH/Rk/yad_dyAva/"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" url="/devaH/hindukaH//indraH/Rk/yad_dyAva/"  newLevelForH1="3" includeTitle="false"> </div>
 
 
 ## साम

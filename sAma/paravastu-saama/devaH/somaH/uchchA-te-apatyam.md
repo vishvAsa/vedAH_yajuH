@@ -6,7 +6,7 @@ practice_weight: 0
 ---
 
 ## ऋक्
-<div class="js_include" url="/devaH/mantraH/somaH/Rk/uchchA_te/"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/devaH/hindukaH//somaH/Rk/uchchA_te/"  newLevelForH1="3" includeTitle="false"> </div> 
 
 ## साम
 - पारम्परिक-गान-मूलम् 

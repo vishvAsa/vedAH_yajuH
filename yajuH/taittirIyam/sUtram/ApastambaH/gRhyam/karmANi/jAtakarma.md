@@ -210,7 +210,7 @@ _eclipse_receeding.jpg" class="thumbnail">}}
 
 ### कर्णे जपः  
 उत्तरान्मन्त्रान् +++(=अग्निरायुष्मान् स वनस्पतिभिः)+++ जपेत् १२  
-<div class="js_include" url="/devaH/mantraH/misc-devas/Rk/agnirAyuShmAn/"  newLevelForH1="4" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/hindukaH//misc-devas/Rk/agnirAyuShmAn/"  newLevelForH1="4" includeTitle="false"> </div>  
 
 
 ## कुमार्या अभिमन्त्रणम्  

@@ -88,9 +88,9 @@ practice_weight: 0
 
 +++(प्रतिदिशम् मन्त्राः।)+++
 
-<div class="js_include" url="/devaH/mantraH/lokAntaram/yajuH/dik/samIchI_nAmAsi/"  newLevelForH1="4" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/hindukaH//lokAntaram/yajuH/dik/samIchI_nAmAsi/"  newLevelForH1="4" includeTitle="false"> </div>  
 
-<div class="js_include" url="/devaH/mantraH/lokAntaram/yajuH/dik/hetayo_nAma/"  newLevelForH1="4" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/hindukaH//lokAntaram/yajuH/dik/hetayo_nAma/"  newLevelForH1="4" includeTitle="false"> </div>  
 
 ### प्रत्येत्य गृहपरिषेचनमन्त्रौ
 उत्तरैर् उपस्थायापः परिषिच्याप्रतीक्षस् +++(→ पृष्ठतो ऽप्रतीक्षमाणस्)+++ तूष्णीम् एत्य  

@@ -7,7 +7,7 @@ practice_weight: 0
 ---
 
 ## ऋक्
-<div class="js_include" url="/devaH/mantraH/indraH/Rk/yata_indra/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/hindukaH//indraH/Rk/yata_indra/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 

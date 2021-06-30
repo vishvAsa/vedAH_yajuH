@@ -6,7 +6,7 @@ unicode_script: devanagari
 
 ## ऋक्
 
-<div class="js_include" url="/devaH/mantraH/lokAntaram/Rk/sadasaspatim/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/devaH/hindukaH//lokAntaram/Rk/sadasaspatim/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 

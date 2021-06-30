@@ -8,7 +8,7 @@ unicode_script: devanagari
 
 स्वयम् (अ?)स्कुन्वे +++(=अकूर्दम्)+++॥
 
-{{< figure src="..//devaH/mantraH/vAk/images/mood/skipping-happy.jpg"  class="thumbnail">}}
+{{< figure src="..//devaH/hindukaH//vAk/images/mood/skipping-happy.jpg"  class="thumbnail">}}
 
 ## साम
 
