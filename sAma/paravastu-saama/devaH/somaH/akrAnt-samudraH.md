@@ -7,7 +7,7 @@ practice_weight: 0
 
 ## ऋक्
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/09/aMshAHakrAnt_samudraH.md"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/097/40_akrAntsamudraH_prathame.md"  newLevelForH1="3" includeTitle="false"> </div> 
 
 
 ## साम
