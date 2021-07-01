@@ -259,7 +259,7 @@ unicode_script = "devanagari"
 
 
 ## 11.1
-<div class="js_include" url="/devaHhindukaH/brahma/Rk/sahasra-shIrSham/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/hindukaH/brahma/Rk/sahasra-shIrSham/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ## 12.1
