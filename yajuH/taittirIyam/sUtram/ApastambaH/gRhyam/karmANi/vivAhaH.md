@@ -322,6 +322,8 @@ ___________
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/05_iDAmagna.md"  newLevelForH1="2" includeTitle="false"> </div>
 
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/06-10_imam_me.md"  newLevelForH1="2" includeTitle="false"> </div>
+
 <div class="js_include" url="/devaH/hindukaH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 <div class="js_include" url="/devaH/hindukaH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
@@ -330,16 +332,10 @@ ___________
 ## क्षीरिवृक्षाद्यतिक्रमे जपः
 +++("सकृदेव, न पुनः पुनरित्यर्थः" इति हरदत्तः।)+++ क्षीरिणाम् अन्येषां वा लक्ष्मण्यानां +++(= प्रसिद्धानां सीमावृक्षणामित्यर्थः)+++ वृक्षाणां नदीनां धन्वनां +++(=दीर्घाण्यरण्यानि येषु ग्राम्याः पशवो न निवसन्ति)+++ च व्यतिक्रम उत्तरे +++(="ये गन्धर्वाः" इति वृक्षाणां व्यतिक्रमे,"या ओषधयः" इति नदीनां धन्वनाम् ।)+++ यथालिङ्गं जपेत्॥  
 
-ये ग॑न्ध॒र्वा अ॑प्स॒रस॑श् च दे॒वीर्  
-ए॒षु वृ॒क्षेषु॑ वानस्प॒त्येष् आस॑ते ।  
-शि॒वास् ते अ॒स्यै व॒द्ध्वै॑ भवन्तु॒  
-मा हिꣳ॑सिषुर् वह॒तुम्+++(=स्त्रीधनम्)+++ ऊ॒ह्यमा॑नाम् ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/11_ye_gandharvA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## नद्याद्यतिक्रमे जपः
-या ओष॑धयो॒ या न॒द्यो॑  
-यानि॒ धन्वा॑नि॒+++(=निर्जलस्थानानि)+++ ये वना॑ ।  
-ते त्वा॑ वधु प्र॒जाव॑तीं॒  
-प्र त्वे+++(=त्वां)+++ मु॑ञ्च॒न्त्व् अꣳह॑सः ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/12_yA_oShadhayo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
@@ -348,41 +344,24 @@ ___________
 +++(ज्ञातिधनसंयुक्तान् )+++ गृहान् उत्तरया +++(="सङ्काशयामि" इत्यनया)+++ सङ्काशयति +++(=दर्शयति)+++॥  
 
 +++(गृहानुत्तरया संकाशयति, तत्र वहतुः पूर्वं प्रापयितव्यः।)+++  
-संका॑शयामि+++(=प्रदर्शयामि)+++ वह॒तुं+++(=स्त्रीधनं)+++ ब्रह्म॑णा  
-गृ॒हैर् +++(सह)+++ अघो॑रेण॒ चक्षु॑षा॒ मैत्रे॑ण ।  
-+++(आभरणादिकम्)+++ प॒र्या-ण॑द्धं वि॒श्वरू॑पं॒ यद् अ॒स्याꣳ  
-स्यो॒नं पति॑भ्यस्+++(=पत्यादिभ्यः)+++ सवि॒ता कृ॑णोतु॒ तत् ।+++(र४)+++  
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/13_sankAshayAmi_vahatum.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 वाहावुत्तराभ्यां +++("आवामगन्" इति द्वाभ्याम्)+++ विमुञ्चति दक्षिणमग्रे।  
 +++(वाहौ विमुञ्चति)+++  
 
-आ वा॑म् अगन्त् सुम॒तिर्, वा॑जिनी+++(=अश्वी)+++वसू॒  
-न्य् +++(हे)+++ अश्वि॑ना, हृ॒त्सु +++(गृहप्राप्ति)+++कामाꣳ॑ अयꣳसत+++(=नियती कृताः)+++ ।  
-अभू॑तङ् गो॒पा मि॑थु॒ना शु॑भस्पती  
-प्रि॒या अ॑र्य॒म्णो दुर्याꣳ॑+++(=गृहान्)+++ अशीमहि+++(=प्रविशेम)+++ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/14_A_vAmagantsumatirvAjinI.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-+++(वाह!)+++ अ॒यन् नो॑ दे॒वस् स॑वि॒ता बृह॒स्पति॑र्  
-इन्द्रा॒ग्नी मि॒त्रावरु॑णा स्व॒स्तये॑ ।  
-त्वष्टा॒ विष्णुः॑ प्र॒जया॑ सꣳररा॒णः+++(=सन्ददानः)+++  
-काम॒+++(य्)+++ आया॑तं॒ कामा॑य त्वा॒ विमु॑ञ्चतु ॥ (7)
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/15_ayanno_devassavitA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 लोहितं चर्माऽऽनडुहं प्राचीनग्रीवम् उत्तर+++(=ऊर्ध्व)+++लोमम् मध्येऽगारस्योत्तरया +++(="शर्मा वर्मे"त्येतया)+++ ऽऽस्तीर्य, गृहान् प्रपादयन्न् उत्तरां +++(="गृहान् भद्रान्")+++ वाचयति, दक्षिणेन पदा +++(गृहान् प्रपादयन्)+++। न च देहलीमभि+++(धि)+++तिष्ठति।  
 _____________
 +++(चर्मास्तरणम्)+++  
-शर्म॒ वर्मे॒दम् आह॑रा॒+  
-ऽस्यै नार्या॑ उप॒स्तिरे॑+++(=उपस्तरणे)+++ ।  
-सिनी॑वालि॒+++(=शुक्लप्रथमाकला)+++ प्रजा॑यताम्  
-इ॒यं भग॑स्य सुम॒ताव् अ॑सत् ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/01_sharma_varmedamAharAsyai.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 _____________
 +++(गृहान् प्रपादयन् वधूं वाचयति)+++  
-**गृ॒हान्** भ॒द्रान्त् सु॒मन॑सः॒ **प्रप॒द्ये**  
-ऽवी॑रघ्नी वी॒रव॑तस् सु॒वीरान्॑ ।  
-इरां॒+++(=अन्नं)+++ वह॑तो घृ॒तम् +++(प्र+)+++उ॒क्षमा॑णा॒स्  
-**तेष्व्** अ॒हꣳ सु॒मना॒स् **सं वि॑शामि** ।+++(र५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/02_gRhAnbhadrAntsumanasaH_prapadye-vIraghnI.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
@@ -390,31 +369,18 @@ _____________
 
 उत्तरपूर्वे देशे ऽगारस्याग्नेर् उपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायाम् उत्तरा +++(="आगन्गोष्ठ"मित्याद्याः, लिङ्गविरोधे सत्यपि वर एव जुहोति, विधेर्बलीयस्त्वात् )+++ आहुतीर् हुत्वा जयादि प्रतिपद्यते  
 
-आग॑न् गो॒ष्ठं महि॑षी॒ गोभि॒र् अश्वै॒र्  
-आयु॑ष्मत्पत्नी, प्र॒जया॑ स्व॒र्वित् +++(यतो "नापुत्रस्य लोकोस्ति")+++।  
-ब॒ह्वीं प्र॒जाञ् ज॒नय॑न्ती सुरत्ने॒-
--मम् अ॒ग्निꣳ श॒त-हि॑मास् +++(शतवर्षाणि)+++ सपर्यात्+++(=परिचरतु)+++ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/03_AgangoShTham_mahiShI.md"  newLevelForH1="2" includeTitle="false"> </div>
+
 +++(पुरा हिमवदृतुभिर् वर्षाणि गण्यन्ते स्मेति विस्मयः।)+++
 
-अ॒यम् अ॒ग्निर् गृ॒ह-प॑तिस्+++(!)+++  
-सुस॒ꣳ॒सत्+++(=शोभनसदनः)+++ पु॑ष्टि॒वर्द्ध॑नः ।  
-यथा॒ भग॑स्या॒+++(=भगाय)+++ऽऽभ्यां दद॑द्  
-र॒यिं पुष्टि॒म् अथो॑ प्र॒जाम् ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/04_ayamagnirgRhapatissusaMsatpuShTivarddhanaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-प्र॒जाया॑ आभ्यां प्रजापत॒  
-इन्द्रा॑ग्नी॒ शर्म॑ यच्छतम् ।  
-यथैन॑यो॒र् न प्र॑मी॒याता॑+++(य्)+++  
-उ॒भयो॒र् जीव॑तोः प्र॒जा ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/05_prajAyA_AbhyAm.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-तेन॑ भू॒तेन॑ +++(हितेन)+++ ह॒विषा॒  
-ऽयम् आ प्या॑यतां॒ पुनः॑ ।  
-जा॒यां याम् अ॑स्मा॒ +++(मह्यं)+++ आवा॑क्षु॒स्+++(=आवहन्)+++  
-ताꣳ रसे॑ना॒भि व॑र्द्ध+++(य)+++ताम् ।+++(४)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/06_tena_bhUtena.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-अ॒भिव॑र्द्धतां॒ पय॑सा॒  
-ऽभि रा॒ष्ट्रेण॑ वर्द्धताम् ।  
-र॒य्या स॒हस्र॑पोषसे॒-  
-मौ स्ता॒म् अन॑पेक्षितौ ।+++(र४)+++  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/07_abhivarddhatAm_payasA-bhi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 इ॒हैव स्तं॒ मा वियो॑ष्टं॒  
 विश्व॒म् आयु॒र् व्य॑श्नुतम् ।  
@@ -499,7 +465,7 @@ __________________
 अथैनाम् आग्नेयेन स्थालीपाकेन +++(वर ऋत्विग् इव)+++ याजयति +++(अथेति वचनादेतस्यामव रात्र्यां स्थालीपाको भवति ।)+++॥  
 पत्न्य् अवहन्ति +++(व्रीहीन् यवान् वा नवान्। न तु श्रपणादिकमपि। पर्वसु पतिर् एवावहन्यात्।)+++ ॥  
 
-+++(शिष्टं [स्थालीपाककर्मान्यत्रोक्तम्](../sthAlIpAka/)। अत्र तु विवाहाङ्गत्वात् शम्या परिधय इति केचित्, नेत्यन्ये।)+++ 
++++(शिष्टं [स्थालीपाककर्मान्यत्रोक्तम्](../sthAlIpAka/)। अत्र तु विवाहाङ्गत्वात् शम्या परिधय इति केचित्, नेत्यन्ये।)+++
 
 योऽस्यापचितस् तस्मा ऋषभं ददाति +++(वराय याजकेन न दक्षिणा वध्वा देयेति भावेन, तत्प्रतिनिधिः)+++॥
 
