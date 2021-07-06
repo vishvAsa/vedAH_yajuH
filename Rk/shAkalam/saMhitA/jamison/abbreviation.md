@@ -1,3 +1,53 @@
 +++
 title = "Abbreviations"
 +++
+- ABORI Annals of the Bhandarkar Oriental Research Institute acc. accusative 
+- AiĀ Aitareya Āraṇyaka 
+- AiB Aitareya Brāhmaṇa 
+- ĀśvŚS Āśvalāyana Śrauta Sūtra 
+- AV Atharvaveda 
+- Aves. Avestan 
+- AVP Atharvaveda Paippalāda 
+- AVŚ Atharvaveda Śaunaka 
+- BD Br̥haddevatā 
+- BSOAS Bulletin of the School of Oriental and African Studies dat. dative 
+- EJVS Electronic Journal of Vedic Studies 
+- EVP Études ve﻿́diques et pāṇine﻿́ennes (Renou 1955–69) fem. feminine 
+- HR History of Religions 
+- IIJ Indo-Iranian Journal 
+- JA Journal asiatique 
+- JAOS Journal of the American Oriental Society 
+- JB Jaiminīya Brāhmaṇa 
+- JUB Journal of the University of Bombay 
+- KauB Kauṣītaki Brāhmaṇa 
+- Kl. Sch Kleine Schriften 
+- KS Kāṭhaka Saṃhitā 
+- KZ Zeitschrift für vergleichende Sprachforschung auf dem Gebiete der  indogermanischen Sprachen 
+- masc. masculine 
+- MBh Mahābhārata 
+- MDŚ Mānava Dharma Śāstra 
+- MSS Münchener Studien zur Sprachwissenschaft 
+- Nir. Nirukta
+- xiv Abbreviations 
+- nom. nominative 
+- OLZ Orientalistische Literaturzeitung 
+- PB Pañcaviṃśa Brāhmaṇa 
+- Pp. Padapāṭha 
+- R̥V R̥ gveda 
+- ŚāṅkhĀ Śāṅkhāyana Āraṇyaka 
+- ŚāṅkhGS Śāṅkhāyana Gr̥hya Sūtra 
+- ŚāṅkhŚS Śāṅkhāyana Śrauta Sūtra 
+- ŚB Śatapatha Brāhmaṇa 
+- SBE Sacred Books of the East 
+- sg. singular 
+- StII Studien zur Indologie und Iranistik 
+- TĀ Taittirīya Āraṇyaka 
+- TB Taittirīya Brāhmaṇa 
+- TS Taittirīya Saṃhitā 
+- Vālakh. Vālakhilya 
+- voc. vocative 
+- VS Vājasaneyi Saṃhitā 
+- VSM Vājasaneyi Saṃhitā Mādhyaṃdina 
+- WZKS Wiener Zeitschrift für die Kunde Südasiens 
+- Y Yasna 
+- ZDMG Zeitschrift der Deutschen Morgenländischen Gesellschaft
