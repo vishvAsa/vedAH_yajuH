@@ -27,3 +27,4 @@ unicode_script = "devanagari"
 > Mandukeya Rigveda: Magadha and eastern and central Uttar Pradesh. Possibly lower Himalayas in Uttarakhand and Himachal Pradesh. No text or oral tradition extant although the Brhaddevata and Rigvidhana might belong to it. 
 >
 > Source: The Vedas: Literature of Ancient India 
+
