@@ -382,21 +382,14 @@ _____________
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/07_abhivarddhatAm_payasA-bhi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-इ॒हैव स्तं॒ मा वियो॑ष्टं॒  
-विश्व॒म् आयु॒र् व्य॑श्नुतम् ।  
-म॒ह्या+++(य्)+++ इ॑न्द्रस् स्व॒स्तये॑ +++(ऽस्तु)+++ ।+++(र४)+++  
+<div class="js_include" url="/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/08_ihaiva_stam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-ध्रु॒वैधि पो॑ष्या॒ मयि॒  
-मह्य॑न् त्वा ऽदा॒द् बृह॒स्पतिः॑ ।  
-मया॒ पत्या॑ प्र॒जाव॑ती॒  
-सं जी॑व श॒रद॑श्श॒तम् ।+++(र४)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/09_dhruvaidhi_poShyA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-त्वष्टा॑ जा॒याम् अ॑जनय॒त्  
-+++("त्वष्टा रुपाणि पिंशतु" इति गर्भाधाने)+++  
-त्वष्टा॑ ऽस्यै॒+++(स्याः)+++ त्वां पति॑म् ।  
-त्वष्टा॑ स॒हस्र॒म् आयूꣳ॑षि  
-दी॒र्घम् आयुः॑ कृणोतु वाम् ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/10_tvaShTA_jAyAmajanayat.md"  newLevelForH1="2" includeTitle="false"> </div>
 
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/11_-15_imam_me.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 <div class="js_include" url="/devaH/hindukaH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
@@ -410,38 +403,25 @@ _____________
 परिषेचनान्तं कृत्वोत्तरया +++(=इह गावः प्रजायध्वम्)+++ चर्मण्युपविशत उत्तरो वरः +++(प्राङ्मुखौ)+++ ।  
 
 +++(उत्तरया चर्मण्युपविशतः। आमन्त्रितनिघातः छान्दसत्वान्नभवति ।)+++  
-इ॒ह गावः॒ प्रजा॑यद्ध्वम्  
-इ॒हाश्वा॑ इ॒ह पूरु॑षाः ।  
-इ॒हो+++(ह+उ)+++ स॒हस्र॑-दक्षिणो  
-रा॒यस्पोषो॒ निषी॑दतु ।+++(र५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/01_iha_gAvaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 अथास्याः पुंस्वो +++(=या पुमांसमेव सूते न स्त्रियं सा )+++ जीवपुत्रायाः पुत्रमङ्क उत्तरयोपवेश्य +++(="सोमेनादित्या")+++ तस्मै फलान्युत्तरेण +++(=प्रस्वस्थः प्रेयः)+++ यजुषा प्रदायोत्तरे +++(="इह प्रियं प्रजयाः")+++ जपित्वा वाचं यच्छत +++(=मौनमाचरतः)+++ आ नक्षत्रेभ्यः ॥  
 
 __________________
 +++(अथ या पुमांसमेव सूतवती जीवपुत्रा च, तस्याः पुत्रं वध्वा अङ्के उपवेशयति।)+++  
-सोमे॑नादि॒त्या ब॒लिन॒स्  
-सोमे॑न पृथि॒वी दृ॒ढा ।  
-अथो॒ नक्ष॑त्राणाम् ए॒षाम्  
-उ॒पस्थे॒ सोम॒ आधि॑+++(हि)+++तः।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/02_somenAdityA_balinassomena.md"  newLevelForH1="2" includeTitle="false"> </div>
 +++( एवमयं बालः तवोपस्थे उपविशतु)+++  +++(५)+++  
 
 __________________
 +++(तस्मै फलानि प्रयच्छति)+++  
-+++(हे फलानि!)+++ प्र स्वस्+++(=सूताः)+++ स्थः॒,  
-प्रेयं प्र॒जया॒ भुव॑ने शोचेष्ट+++(=सोषीष्ट, √ सू)+++ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/03_pra_svassthaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 __________________
 +++(उत्तरे जपति)+++  
-इ॒ह प्रि॒यं प्र॒जया॑ ते॒ समृ॑द्ध्यताम्,  
-अ॒स्मिन् गृ॒हे गार्ह॑पत्याय +++(भावाय)+++ जागृहि +++(अतिथीनामग्नीनां च सेवया)+++।  
-ए॒ना पत्या॑ त॒न्वꣳ॑ सꣳ सृ॑ज॒स्वा-  
-ऽथा॒ जीव्री॑+++(=जीर्णा)+++ वि॒दथ॒म्+++(=यज्ञं)+++ आ व॑दासि +++(पौत्रादिभ्यः)+++।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/04_iha_priyam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-सु॒म॒ङ्ग॒लीर् इ॒यं व॒धूर्  
-इ॒माꣳ स॑मेत॒ पश्य॑त ।  
-सौभा॑ग्यम् अ॒स्यै द॒त्वाया+++(=दत्वा)+++-  
-ऽथाऽऽस्तं॒ +++(स्वस्वगृहाणि)+++ वि परे॑तन+++(=गच्छत)+++ ।+++(र४)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/05_sumangalIriyaM_vadhUrimAm.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
@@ -449,15 +429,12 @@ __________________
 उदितेषु नक्षत्रेषु प्राचीमुदीचीं वा दिशमुपनिष्क्रम्योत्तराभ्यां +++(=ध्रुवक्षितिर्ध्रुवयोनिः)+++ यथालिङ्गं +++(=तेनोत्तरस्यामृचि सर्वेषां सप्तर्षीणां कृत्तिकादिनामरून्धत्याश्च सहदर्शनम्)+++ ध्रुवमरुन्धतीं च दर्शयति॥  
 
 +++(ध्रुवं दर्शयति)+++  
-ध्रु॒वक्षि॑तिर् ध्रु॒वयो॑निर्  
-ध्रु॒वम् अ॑सि ध्रु॒वत॑स् स्थि॒तम् ।  
-त्वन् नक्ष॑त्राणां मे॒थ्य्+++(=खलेवाली, खले धान्यपेषणस्थाने वाल्यन्ते वृषा इति)+++ असि॒  
-स मा॑ पाहि पृतन्य॒तः+++(=योद्धुकामात्)+++ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/06_dhruvaxitirddhruvayonirddhruvamasi_ddhruvatassthitam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 __________________
 +++(अरुन्धतीं दर्शयति। ६ कृत्तिकाः + अरुन्धती = ७ कृत्तिकाः सप्तऋषिपन्त्यः। अरुन्धती स्थिरा, शिष्टास् त्यक्ताः शङ्कया।)+++  
-स॒प्त॒ऋ॒षयः॑ प्रथ॒मां कृत्ति॑कानाम् अरुन्ध॒तीम् यद् ध्रु॒वता॒ꣳ॒ ह नि॒न्युः। षट्कृत्ति॑कामुख्ययो॒गं वह॑न्ति +++(तस्याम्)+++।  
-+++(वधूर्)+++ इयम् अ॒स्माक॑म् एधत्व् अष्ट॒मी ।+++(र५)+++  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/07_saptaRShayaH_prathamAm.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
@@ -480,16 +457,9 @@ __________________
 तं +++(दण्डं)+++ चतुर्थ्या ऽपररात्र +++(=रात्रेस्तृतीयो भागः)+++
 उत्तराभ्याम् +++(="उदीर्ष्वात" इत्येताभ्यां)+++ उत्थाप्य, प्रक्षाल्य, निधाय,  
 
-उ॒दी॒र्ष्वाऽतो॑ विश्वावसो॒ +++(गन्धर्व)+++  
-नम॑सेडामहे त्वा ।  
-अ॒न्याम् इ॑च्छ प्रफ॒र्व्यꣳ॑+++(=प्रथमवयसं)+++  
-सञ्जा॒यां पत्या॑ सृज ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/01_udIrShvAto_vishvAvaso.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-उ॒दी॒र्ष्वातः॒ पति॑वती॒ ह्य् ए॑षा  
-वि॒श्वाव॑सुं॒ नम॑सा गी॒र्भिर् ई॑ट्टे+++(=याचे)+++ ।  
-अ॒न्याम् इ॑च्छ पितृ॒षदं॒ व्य॑क्ता॒ꣳ॒  
-स ते॑ भा॒गो ज॒नुषा॒ तस्य॑ विद्धि ।  
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/02_udIrShvAtaH_pativatI.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## शेष-होम-मन्त्राः  
 अग्नेरुपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायाम् उत्तरा आहुतीर् +++(=सप्त प्रधानाहुतीर्जुहोति "अग्ने प्रायश्चित्ते"इत्येवमाद्याः)+++ हुत्वा जयादि प्रतिपद्यते।  
