@@ -391,9 +391,10 @@ _____________
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/11_-15_imam_me.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/devaH/hindukaH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/devaH/hindukaH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md"  newLevelForH1="2" includeTitle="false"> </div>
+
 
 
 इति श्रीहरदत्तविरचिते एकाग्निकाण्डमन्त्रव्याख्याने अष्टमः खण्डः ॥  
@@ -464,50 +465,20 @@ __________________
 ## शेष-होम-मन्त्राः  
 अग्नेरुपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायाम् उत्तरा आहुतीर् +++(=सप्त प्रधानाहुतीर्जुहोति "अग्ने प्रायश्चित्ते"इत्येवमाद्याः)+++ हुत्वा जयादि प्रतिपद्यते।  
 
-अग्ने॑ प्रायश्+++(=विनाश)+++-चित्ते॒+++(=सन्धातः)+++! त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
-ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
-याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/03-06_agne_prAyashchitte.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-वायो॑ प्रायश्चित्ते॒! त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
-ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
-याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++  
-
-आदि॑त्य प्रायश्चित्ते॒!  त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
-ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
-याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++
-
-प्रजा॑पते प्रायश्चित्ते॒!  त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
-ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
-याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++
-
-प्र॒स॒वश्+++(=अनुज्ञा)+++ चो॑पया॒मश्+++(=पृथिवी)+++ च॒  
-+++(इयं वा उपयामः इति श्रुतेः)+++  
-काट॑श्+++(=लिङ्गरूपरुद्रः)+++ चार्ण॒वश् च॑  
-धर्ण॒सिश्+++(=गृहं)+++ च॒ द्रवि॑णञ् च॒  
-भग॑श् चा॒न्तरि॑क्षञ् च॒  
-सिन्धु॑श् च समु॒द्रश् च॒  
-सर॑स्वाꣳश् च वि॒श्वव्य॑चाश् च॒  
-ते यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒, तमे॑षा॒ञ् जम्भे॑+++(=दन्ते)+++ दद्ध्म॒स् स्वाहा॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/07_prasavashchopayAmashcha_kATashchArNavashcha.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 +++(वसन्तादीनां षण्णामृतूनां द्वौद्वौ मासौ-)+++  
-मधु॑श्च॒ माध॑वश्च  
-शु॒क्रश्च॒ शुचि॑श्च॒  
-नभ॑श्च नभ॒स्य॑श् च॒  
-+इ॒षश् चो॒र्जश्च॒  
-सह॑श् च सह॒स्य॑श् च॒  
-तप॑श् च तप॒स्य॑श् च॒  
-ते यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तमे॑षा॒ञ् जम्भे॑+++(=दन्ते)+++ दद्ध्म॒स् स्वाहा॑ ।  
 
-चि॒त्तञ् च॒ चित्ति॒श् चा+  
-ऽकू॑त॒ञ्+++(=अभिप्रेतम्)+++ चाकू॑ति॒श्+++(=अभिप्रायः)+++ च  
-+अधी॑त॒ञ् चाधी॑तिश्च॒  
-विज्ञा॑तञ्च वि॒ज्ञान॑ञ्च॒  
-नाम॑ च॒ क्रतु॑श्+++(=आकृतिः)+++ च॒  
-दर्श॑श्च पू॒र्णमा॑सश्च॒  
-ते यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तमे॑षा॒ञ् जम्भे॑+++(=दन्ते)+++ दद्ध्म॒स् स्वाहा॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/08_madhushcha_mAdhavashcha.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/09_chittancha_chittishchAkUtanchAkUtishchAdhItanchAdhItishcha.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ### वध्वाश् शिरस्य् आज्यशेषानयनम्
-भूस् स्वाहा॒, भुव॒स् स्वाहा॒, सुव॒स् स्वाहोꣳ स्वाहा॑ ॥ (10)  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/10_bhUssvAhA_bhuvassvAhA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
 +++(भूरादयः त्रयो लोकाः । ओमिति ब्रह्म ॥)+++
 
 इति श्रीहरदत्तविरचिते एकाग्निकाण्डमन्त्र व्याख्याने दशमः खण्डः
@@ -519,71 +490,44 @@ __________________
 अपरेणाग्निं प्राचीम् उपवेश्य तस्याश् शिरस्याज्यशेषाद् व्याहृतिभिर् ओङ्कारचतुर्थाभिरानीयोत्तराभ्यां +++(="अपश्यं त्वे"त्येताभ्यां)+++ यथालिङ्गं +++(=पूर्वया वधूः उत्तरया वरः)+++ मिथस्समीक्ष्य,  
 
 +++(वधूर् वरं समीक्षते)+++  
-अप॑श्यन् त्वा॒ मन॑सा॒ चेकि॑तानं॒+++(=जानन्तं)+++  
-तप॑सो जा॒तं तप॑सो॒ विभू॑तम् ।  
-इ॒ह प्र॒जाम् इ॒ह र॒यिꣳ ररा॑णः॒  
-प्रजा॑यस्व प्र॒जया॑ पुत्रकाम ।  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/01_apashyantvA_manasA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ______________
 +++(वरो वधूम् ईक्षते)+++  
-अप॑श्यन् त्वा॒ मन॑सा॒ दीध्या॑ना॒ꣳ॒+++(=ध्यायन्तीं)+++  
-स्वायां॑ त॒नूꣳ+++(न्वां)+++ ऋ॒त्विये॒ +++(काले)+++ नाथ॑मानाम् ।  
-उप॒ माम् +++(सम्भोगकाले)+++ उ॒च्चा यु॑व॒तिर् बुभू॑याः॒+++(=अनुभूयाः)+++  
-प्रजा॑यस्व प्र॒जया॑ पुत्रकामे ।+++(४)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/02_apashyantvA_manasA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 उत्तरया +++(="समञ्जन्त्वि"त्येतया)+++ ऽज्यशेषेण हृदयदेशौ संमृज्य,  
 ______________
 +++(उत्तरयाऽऽज्यशेषेण हृदयदेशौ समनक्ति)+++
-सम॑ञ्जन्तु॒ विश्वे॑ दे॒वास्  
-समापो॒ हृद॑यानि नौ ।  
-सं मा॑त॒रिश्वा॒ सं धा॒ता  
-समु॒ देष्ट्री॑+++(=सरस्वती)+++ दिदेष्टु नौ ।+++(र५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/03_samanjantu_vishve.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
 ### अथ जपः  
 उत्तरास् तिस्रो +++(="प्रजापते तन्व"मित्याद्याः)+++ जपित्वा,  
 
-प्रजा॑पते त॒न्वं॑ मे जुषस्व॒  
-त्वष्ट॑र् दे॒वेभि॑स् स॒हसा॒म+++(न= सममान)+++ इ॑न्द्र ।  
-विश्वै॑र् दे॒वै रा॒तिभि॑स् सꣳ ररा॒णः  
-पु॒ꣳ॒सां ब॑हू॒नां मा॒तर॑स् स्याम ।+++(र४)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/04_prajApate_tanvam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-आ नः॑ प्र॒जाञ् ज॑नयतु प्र॒जाप॑तिर्  
-आजर॒साय॒ +++(स्नेहाय)+++ सम॑नक्त्व् अर्य॒मा ।  
-अ-दु॑र्-मङ्गलीः पतिलो॒कम् आ वि॑श॒  
-शन् नो॑ भव द्वि॒पदे॒ शञ् चतु॑ष्पदे ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/05_A_naH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-तां पू॑षञ् छि॒वत॑मा॒म् एर॑यस्व॒  
-यस्यां॒ बीजं॑ मनु॒ष्या॑ वप॑न्ति ।  
-या न॑ ऊ॒रू उ॑श॒ती+++(=कामयमाना)+++ वि॒स्र+++(श्र)+++या॑तै॒+++(=विश्लिष्टौ कुर्यात्)+++  
-यस्या॑म् उ॒शन्तः॒+++(=कामयमानाः)+++ प्रह॑रेम॒ शेफ॑म् ॥+++(५)+++ (11)
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/06_tAm_pUShanChivatamA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
 शेषं +++(="आरोहोरु"मित्यादि)+++ समावेशने जपेत् ॥  
 
-+++(अन्तरात्मन्!)+++ आरो॑हो॒रुम् उप॑बर्हस्व बा॒हुं  
-परि॑ष्वजस्व जा॒याꣳ सु॑मन॒स्यमा॑नः +++(=प्रीयमाणः)+++ ।  
-तस्यां॑ पुष्यतं मिथु॒नौ सयो॑नी (=सङ्गतोपस्थौ)  
-ब॒ह्वीं प्र॒जां ज॒नय॑न्तौ॒ सरे॑तसा ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/01_Arohorumupabarhasva_bAhum.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-आ॒र्द्रया+++(आज्याक्तया)+++ऽर॑ण्या॒ +++(अग्निम्)+++ यत्रा+++(था)+++ऽम॑न्थ॒त्,  
-+++(तथा)+++ पुरु॑षं॒ +++(गर्भम्)+++ पुरु॑षेण +++(शेफेन)+++ श॒क्रः ।  
-तद् ए॒तौ मि॑थु॒नौ सयो॑नी+++(=सङ्गतोपस्थौ)+++  
-प्र॒जया॒ऽमृते॑ने॒ह ग॑च्छतम् ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/02_ArdrayA-raNyA_yatrAmanthatpuruSham.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 अन्यो वैनाम् अभिमन्त्रयेत  +++(अत्र सुदर्शनाचार्यः - इदं च "अहं गर्भमदधाम्" इत्यादि लिङ्गविरोधेऽपि श्रुतेर्बलीयस्त्वा)+++११  
 
-अ॒हं गर्भ॒म् अद॑धा॒म् ओष॑धीष्व्  
-अ॒हं विश्वे॑षु॒ भुव॑नेष्व् अ॒न्तः ।  
-अ॒हं प्र॒जा अ॑जनयं पितॄृ॒णाम्  
-अ॒हं जनि॑भ्यो +++(=जन्याः = वध्वाः)+++ अप॒रीषु॑ +++(=पश्चात्कालस्नुषासु)+++ पु॒त्रान् ।+++(५)+++
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/03_aha~N_garbhamadadhAmoShadhIShvaham.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-पु॒त्रिणे॒मा कु॑मा॒रिणा॒ विश्व॒म् आयु॒र् व्य॑श्नुतम् ।  
-उ॒भा हिर॑ण्य-पेशसा+++(=रूपौ)+++ वी॒ति+++(=हविर्)+++हो॑त्रा कृ॒तद्व॑सू (=कृतवसू)।  
-द॒श॒स्यन्त्वा॒ +++(=दशस्यन्तौ =दातारौ)+++ ऽमृता॑य॒ कꣳ (पादपूरणे) श+++(स)+++म् ऊधो॑  
-रोम॒शꣳ ह॑थो+++(=श्लिष्टं कुरुतम्)+++ दे॒वेषु॑ कृ॒णुतो॒ दुवः॑ (=परिचरणम्)।+++(४)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/04_putriNemA_kumAriNA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/05_dashasyantvA-mRtAya_kaMshamUdho.md"  newLevelForH1="2" includeTitle="false"> </div>
+
 +++(भावयव्यस्य राज्ञो भार्याम् भावयव्यानीमिन्द्रः पत्युस्सखा परिहसन् उवाच उपभोगयोग्या त्वं न भवसि रोमाणि ते नोत्पन्नानीति । सा तमब्रवीत्- उपोप मे परामृश मा मे दभ्राणि मन्यथाः । सर्वाहमस्मि रोमशा गन्धारिणामिवाविका इति ॥)+++
