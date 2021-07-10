@@ -2,11 +2,14 @@
 title = "०४ येनेन्द्रो हविषा"
 
 +++
-## मन्त्रः
 
-येनेन्द्रो॑ ह॒विषा॑ कृ॒त्य॑भवद्दि॒व्यु॑त्त॒मः ।  
-अ॒हन्तद॑क्रि देवा असप॒त्ना किला॑भवम् ।  
+येनेन्द्रो॑ ह॒विषा॑ कृ॒त्य्  
+अ॑भवद् दि॒व्य् उ॑त्त॒मः ।  
+अ॒हन् तद् अ॑क्रि+++(=अकृषि)+++  
+देवा असप॒त्ना किला॑ऽभवम् ।  
 
-## टीका
-येनेन्द्र इति ॥ इन्द्रः येन हविषा कृती कृतकृत्यः अभवत् दिवि च उत्तमः अभवत् । अहमपि तत् हविः अक्रि करोतेर्लुडिं मन्त्रे घस इत्यादिसूत्रेण च्लेर्लुकि रूपं अकृषि । हे देवाः । ततश्च असपत्ना किल अभवम्, किल प्रसिद्धौ ॥
 
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/159/04_yenendro_haviShA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/174/04_yenendro_haviShA.md"  newLevelForH1="2" includeTitle="false"> </div>
