@@ -8,24 +8,10 @@ unicode_script: devanagari
 अन्ये तु यक्ष्मगृहीतायाः वासः एतद् भैषज्यविदे देयमुपदिश्यते इत्याहुः । सूर्याशब्देनापि त एव मन्त्रा उच्यन्ते ॥  
 
 ## मन्त्राः
-परा॑देहि शाब॒ल्यं॑  
-ब्र॒ह्मभ्यो॒ विभ॑जा॒ वसु॑ ।  
-कृ॒त्यैषा प॒द्-वती॑ भू॒त्वा  
-जा॒याऽऽवि॑शते॒ पति॑म् ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/07_parAdehi_shAbalyam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-अ॒श्ली॒ला +++(पति-)+++त॒नूर् भ॑व॒  
-रुश॑ती+++(=हिंसती →हिंस्यमाना)+++ पा॒पया॑ ऽमु॒या +++(दानकृत्यया)+++।  
-पति॒र् यद् व॒द्ध्वै॑ वास॑सा॒  
-स्वम् अङ्ग॑म् अभि॒धित्स॑ति ।  
-+++(तस्मात् तन्नपरिधेयं मन्त्रविदापिसता ॥)+++
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/08_ashlIlA_tanUrbhava.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-क्रू॒रम् ए॒तत् +++(वासः)+++ कटु॑कम्+++(=रुजाकारि)+++ ए॒तद्  
-अ॑पा॒ष्ठ+++(=प्रतिकूल)+++व॑द् वि॒षव॒न् नैतद् अत्त॑वे ।  
-सू॒र्यां +++(विवाहदेवीं)+++ यः प्र॒त्यक्षं॑ वि॒द्यात्  
-स ए॒तत् प्रति॑गृह्णीयात् ।+++(५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/09_krUrametat_kaTukametadapAShThavaddviShavannaitadattave.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-आ॒शस॑नं+++(=क्षतकरणं)+++ वि॒शस॑न॒म्+++(=चर्मणां पृथक्करणं)+++  
-अथो॑ अधि वि॒चर्त॑नम्+++(=त्वचोन्यत्र मोचनं)+++ +++(एतद् वासः)+++।  
-+++(तथापि गृहीतुर् न हिंसा, यतः -)+++ सू॒र्यायाः॑ पश्य रू॒पाणि॒  
-तानि॑ +++(विद्वान्)+++ ब्र॒ह्मोत शꣳ॑सति ॥+++(५)+++ (18)
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/10_AshasanaM_vishasanamatho.md"  newLevelForH1="2" includeTitle="false"> </div>  
