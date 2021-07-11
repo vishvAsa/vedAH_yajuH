@@ -2,11 +2,5 @@
 title = "०२ आतिष्ठेममश्मानमश्मेव त्व२म्"
 
 +++
-## मन्त्रः
 
-आति॑ष्ठे॒ममश्मा॑न॒मश्मे॑व॒ त्व२ꣳ स्थि॒रो भ॑व ।  
-अ॒भिति॑ष्ठ पृतन्य॒तस्सह॑स्व पृतनाय॒तः ।  
-
-## टीका
-अश्मास्थापनम् - अतिष्ठेति ॥ गतम् ॥
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md"  newLevelForH1="2" includeTitle="false"> </div>
