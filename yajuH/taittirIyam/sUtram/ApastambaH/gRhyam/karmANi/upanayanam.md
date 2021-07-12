@@ -20,7 +20,7 @@ unicode_script: devanagari
 
 ## यज्ञोपवीतधारणम्
 > स्नातं कुमारं शुचि-वाससं बद्ध-शिखं यज्ञोपवीतम् आसञ्जति - "यज्ञोपवीतं परमं पवित्रम्" इति ।
-ततस् तं यज्ञोपवीतिनं देव-यजनम् उदानयति 
+ततस् तं यज्ञोपवीतिनं देव-यजनम् उदानयति
 > (बौ.गृ.२५) इति बौधायनः ।  
 
 
@@ -28,14 +28,11 @@ unicode_script: devanagari
 स्नातम् +++(शुचि-वाससं बद्ध-शिखं यज्ञोपवीतिनम्)+++ अग्नेर् उपसमाधानाद्य् आज्य-भागान्ते +++(शम्याः परिध्यर्थे, सकृत्पात्रप्रयोगः)+++  
 पालाशीं समिधम् उत्तरया +++("आयुर्दा देव"इत्येतया ऽऽचार्योक्तया)+++ ऽऽधाप्य  
 
-आ॒यु॒र्दा दे॑व ज॒रसं॑ गृणा॒नो  
-घृ॒त+++(√ क्षरणदीप्त्यो)+++-प्र॑तीको+++(=अवयवो)+++ घृ॒त-पृ॑ष्ठो अग्ने ।  
-घृ॒तं पिब॑न्न् अ॒मृत॒ञ् चारु॒ गव्यं॑  
-पि॒तेव॑ पु॒त्रञ् ज॒रसे॑ नये॒मम् ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/01_AyurdA_deva.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 उत्तरेण अग्निं, दक्षिणेन पदा ऽश्मानम् आस्थापयत्य् - आतिष्ठेति ९  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/02_AtiShThemamashmAnamashmeva_tva2m.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
@@ -51,29 +48,17 @@ unicode_script: devanagari
 उत्तराभिस्तिसृभिः +++("या अकृन्त"न्नित्येताभिः)+++ परिधाप्य  
 
 +++(पूर्वमन्त्रस्योल्लेखो ऽत्र)+++  
-या अकृ॑न्त॒न्न् अव॑य॒न्॒ या अत॑न्वत॒  
-याश् च॑ दे॒वीर् +++(वस्त्रस्य)+++ अन्ता॑न् अ॒भितो॑ ऽददन्त+++(←दद् दाने)+++ ।  
-तास् त्वा॑ दे॒वीर् ज॒रसे॒ संव्य॑य॒न्त्व्  
-आयु॑ष्मान् इ॒दं परि॑धत्स्व॒ वासः॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/05_yA_akRntannavayan.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-परि॑धत्त धत्त॒ वास॑सैनꣳ  
-श॒तायु॑षं कृणुत दी॒र्घम् आयुः॑ ।  
-बृह॒स्पतिः॒ प्राय॑च्छ॒द् वास॑ ए॒तत्  
-सोमा॑य॒ राज्ञे॒ परि॑धात॒वा उ॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-ज॒रां ग॑च्छासि॒ परि॑धत्स्व॒ वासो॒  
-भवा॑ कृष्टी॒नाम्+++(=मनुष्याणां)+++ अ॑भिशस्ति॒-पावा॑+++(ता)+++ ।  
-श॒तञ् च॑ जीव श॒रद॑स् सु॒वर्चा॑  
-रा॒यश् च॒ पोष॒म् उप॒ संव्य॑यस्व +++(वासो यथा रायस्पोषं भवति तथा)+++।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 परिहितम् उत्तरयानुमन्त्रयते +++("परीदं वास")+++ १०  
 
 +++(परिहितवन्तं कुमारम् उत्तरयानुमन्त्रयते)+++  
-परी॒दं वासो॒ अधि॑+++(+अ)+++धास् स्व॒स्तये  
-ऽभू॑र् आपी॒नाम्+++(=आप्तानां)+++ अ॑भिशस्ति॒-पावा॑+++(ता!)+++ ।  
-श॒तञ् च॑ जीव श॒रदः॑ पुरू॒चीर्+++(=बहुगतीः)+++  
-वसू॑नि चा॒र्यो वि॑भजासि॒ जीवन्न्॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/08_parIdaM_vAso.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ### मौञ्जी
 मौञ्जीं मेखलां त्रिवृतां+++(तं)+++ त्रिःप्रदक्षिणम् उत्तराभ्यां +++("इयं दुरुक्ता"दित्येताभ्यां कुमारोक्ताभ्यां)+++ परिवीय  
@@ -246,7 +231,7 @@ unicode_script: devanagari
 ओं भूर् तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म् +++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
 ओं भुवः॑ धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
 
-ओं सुवः॑ 
+ओं सुवः॑
 
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md"  newLevelForH1="4" includeTitle="false"> </div>  
 
@@ -298,7 +283,7 @@ unicode_script: devanagari
 गुरवे वरं +++(अग्न्याधाने "गौर्वै वरः"(आप.श्रौ.४११४))+++ दत्त्वा  
 
 ### उत्थापनमन्त्रः  
-+उदायुषेत्य् उत्थाप्य 
++उदायुषेत्य् उत्थाप्य
 
 +++(कुमारो वदति -)+++  
 
