@@ -1,0 +1,12 @@
++++
+title = "52"
+
++++
+The heavenly well-feathered, lofty bird, child of the waters, and  beautiful (child) of the plants,
+the one bringing satisfaction by the rains from what is bounded by
+waters: Sarasvant!—him do I call upon again and again for help.
+The last collection of hymns in the first maṇḍala, I.165–191, is attributed to  Agastya, who according to later tradition was the son of Mitra and Varuṇa and of  the Apsaras Urvaśī. Several times in his hymns, however, Agastya refers to himself  as Mānya, the son of Māna (e.g., I.165.14–15, 177.5, 184.4). The collection opens  with hymns to the Maruts or to Indra and the Maruts (165–173) and hymns to  Indra (174–178). Somewhat oddly placed after these is a hymn that takes the form  of a dialogue between Agastya and his wife Lopāmudrā (179). Next are hymns to
+
+the Aśvins (180–184), followed by a series of single hymns, first hymns to Heaven  and Earth (185) and to the All Gods (186), then a praise of food (187), an Āprī hymn (188) and an Agni hymn (189), a hymn to Br̥haspati (190), and the concluding  hymn of the first maṇḍala, a charm against poisonous animals (191). Like the col
+lection of Dīrghatamas, the Agastya hymns thus form an unusual sequence. Also like the Dīrghatamas hymns, the Agastya hymns are stylistically creative,  especially in his hymns to Indra and the Maruts. He uses puns and verbal play (e.g.,  167), suppression of key words and ambiguous reference (171, 174), intricate simi les and unexpected turns of phrase (168, 169), syntactic innovation (168, 173, 174),  and striking imagery (173, 176). This lively and difficult poetry marks Agastya as  one of the great masters of the R̥gvedic tradition. He is best known for three hymns,  165, 170, and 171, which together describe how Indra and the Maruts argued over  a sacrifice offered by Agastya and were finally reconciled with one another, and for  his dialogue with Lopāmudrā (179), which turns on the tension between the ascetic  ideal and the responsibility to continue the family lineage. But both the set of Indra  and Marut hymns and the dialogue with Lopāmudrā also concern questions of  ritual innovation that define Agastya not only as a great poet but also as a signifi cant figure in the development of Vedic ritual practice.
+In all but six of his hymns Agastya concludes with his signature pāda vidyā́meṣáṃ vr̥jánaṃ jīrádānum “May we know refreshment and a community having lively  waters.” Also 165–168 share the same final verse, as do 175 and 176, and 183  and 184.

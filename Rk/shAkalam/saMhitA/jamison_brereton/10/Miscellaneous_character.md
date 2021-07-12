@@ -1,0 +1,5 @@
++++
+title = "Miscellaneous character"
+
++++
+The Xth maṇḍala consists of 191 hymns like Maṇḍala I, but it has a more miscellaneous character and looser organization than its twin. As a whole, X was certainly  the final addition to the codified R̥gveda, and it contains many hymns with younger  linguistic features and “popular” themes, or at least subjects that were not central to  the soma sacrifice that dominates the rest of the R̥gveda and determines the choice  of hymns to be included or excluded in the rest of the text. These include life-cycle  rituals like the funeral and the wedding, meta-reflections on the sacrifice and its  parts, additional mythological material, celebrations of deities and divine forces  peripheral to the soma sacrifice, dramatic monologues and dialogues, healing spells  and curses, and so forth. However, it is easy to overemphasize the special character  of X, for, when compared even with the chronologically close Atharvaveda, the  intricate, playful, and allusive style, the lexicon, and the complex development of  themes of most of X are quite distinctively R̥gvedic.

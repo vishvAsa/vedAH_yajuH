@@ -1,0 +1,13 @@
++++
+title = "+091"
+
++++
+91 (700)
+Indra
+Apālā Ātreyī
+7 verses; paṅkti 1–2, anuṣṭubh 3–7
+This deceptively simple, and much discussed, hymn consists of a monologue  embedded in a charm for healing and fertility. Unusually the speaker is an unmar ried girl, who undertakes a clandestine soma ritual for Indra, with erotic over tones, in ultimate preparation for her marriage. It begins with a contextualizing  introduction (vs. 1a–c): a maiden going to fetch water finds soma on her way.  She brings it home and addresses first the soma and then Indra. She announces  to soma her intention to press it (1de):  as it turns out she presses it with her  own mouth (2c) and offers it to Indra along with all the accoutrements of a real  soma sacrifice (vs. 2). Indra arrives for the soma, and she seeks to understand his  intentions, even as she assures him that she will keep his presence a secret (3ab). The  lexeme translated “recite” (ádhi √i) is an item of pedagogical vocabulary, appro priate to her age and stage of life, and refers to students’ oral recitation of their  lessons; in this context it seems to mean “reveal your presence verbally.” She then  urges the soma to flow softly, in contrast to the excessive noise usually associated  with soma’s preparation (3cd). In verse 4 she tremulously speculates to herself  about whether Indra will be able to achieve what she wants from her private  soma-pressing, and worries, as an adolescent girl apprehensive about sexual ity and marriage, about sexual intercourse with Indra, a rather formidable first  sexual partner, one might think. In the next two verses (5–6) she expresses her  wishes—three different types of hair growth: on the fields, that is, plants; on her  father’s bald head; and on her “belly,” the last wish indicating a desire for pubic  hair as a sign of sexual maturity. Apālā’s words end here; the final verse says  nothing directly about whether Indra fulfilled her expressed wishes (though we  take it as implying that he did), but simply states that he purified her by pulling
+
+her through increasingly smaller holes, rendering her “sun-skinned,” quite pos sibly a reference to the curing of teenage acne, a frequent accompaniment to the  entry into sexual maturity.
+This R̥gvedic hymn is extensively quoted and embedded in a prose narrative in  the Jaiminīya Brāhmaṇa (I.220–21). For detailed discussion of this hymn and its  middle Vedic version, see Jamison (1991: 149–51, 165–67). That account and this  translation are deeply indebted to and dependent upon the ground-breaking discus
+sion by Hanns-Peter Schmidt in chapter 1 “The Affliction of Apālā (R̥gveda 8.91)”  in his 1987 Some Women’s Rites and Rights in the Veda (pp. 1–29).

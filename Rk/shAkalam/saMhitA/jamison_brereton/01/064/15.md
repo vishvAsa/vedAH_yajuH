@@ -1,0 +1,8 @@
++++
+title = "15"
+
++++
+Now, Maruts, confer on us durable wealth consisting of heroes,  victorious in the clash,
+swelling in hundreds and thousands. – Early in the morning—soon—he  should come, rich through (his) insight.
+The next nine hymns (I.65–73) are ascribed to Parāśara Śāktya and are dedicated  only to Agni. The first six (65–70) are in the relatively rare dvipadā virāj meter, while  the last three are in triṣṭubh. Despite the difference in meter, there is a strong sense  of unity in this group of hymns, in phraseology, in style, and in theme. Moreover,  somewhat in Vālakhilya fashion there are several paired hymns, especially I.65–66  and I.68–69 (with I.70 acting as a climatic third to that pairing).
+The most important theme running through the series is Agni’s function as  the locus and target of joint action undertaken by men and by gods, and as  the representative of the unity thus produced. In this capacity for mortals he is  named the Vaiśvānara fire (“fire belonging to all men”—for another, nearby Agni  Vaiśvānara hymn see I.59), and the series I.68–70 contains an extended pun on the constituents of this epithet. In the divine realm the joint action of the gods is  represented by the Tānūnaptra rite and its foundation myth, treated in I.72 (see  Proferes 2007: 51–61). These complementary aspects of Agni are not restricted  to the hymns just named, but surface throughout this series, which thus shows a  rare thematic unity.
