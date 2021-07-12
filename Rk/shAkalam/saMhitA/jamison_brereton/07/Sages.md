@@ -1,7 +1,0 @@
-+++
-title = "Sages"
-
-+++
-Maṇḍala VII is unusual because in this, the longest of the Family Books, almost all  the hymns are attributed to just one poet, Vasiṣṭha Maitrāvaruṇi, Vasiṣṭha the son  of Mitra and Varuṇa. According to the Anukramaṇī two hymns were composed  either by Vasiṣṭha or by Kumāra Āgneya (101, 102), and two hymns were joint compositions of Vasiṣṭha and his sons (32, 33). In 32, however, it assigns one pāda, or  at most one and a half verses, to Śakti Vāsiṣṭha, and the rest of the hymn is by his  father. The Anukramaṇī unequivocally attributes all the other one hundred hymns  of the maṇḍala to Vasiṣṭha alone.
-
-This attribution of all these hymns to a single poet is historically unlikely. Perhaps  many of the poems were composed by Vasiṣṭha, but unlike the other family poets,  the Vasiṣṭha poets apparently developed a tradition of crediting their work to their  illustrious ancestor. Because of this focus on him, Vasiṣṭha emerges as a distinct  literary figure in the maṇḍala. He is mentioned—or mentions himself—twenty-four  times in VII, and he appears as a model ritualist also in hymns from later maṇḍalas,  for example, X.150.5, X.181.1, both attributed to his descendants, and X.65.15.  Not only is he a distinct figure in the R̥gveda, he also has a distinct literary personality. For the construction of a poetic persona, see Jamison (2007: esp. chap. 1, and  the following chapters) for a discussion of Vasiṣṭha.

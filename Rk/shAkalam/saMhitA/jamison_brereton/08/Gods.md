@@ -1,5 +1,0 @@
-+++
-title = "Gods"
-
-+++
-Unlike the rigid divinity order in the Family Books, where Agni hymns always  precede Indra hymns, the ordering within the hymn groups is more various, with  Indra often leading off. Indeed Indra is the dominant god of the maṇḍala: of the  ninety-two non-Vālakhilya hymns, exactly half, forty-six, are dedicated to him alone,  with a further two to Indra and Agni jointly. Moreover, six of the eleven Vālakhilya  hymns are Indra’s, in addition to a joint Indra-Varuṇa hymn. Agni is, by contrast, rather muted in the book: only fourteen hymns belong to him alone. The  Aśvins are relatively well represented, with eleven hymns and parts of several others. The Ādityas also have a presence, with three hymns to them as a group, one to  Mitra and Varuṇa, and one to Varuṇa alone, as well as a substantial part of the composite hymns VIII.42 and 101 and of the All God hymns VIII.27 and 83. The  Maruts receive three hymns, Soma two (of the few Soma hymns outside of IX), but  the minor gods are almost invisible in this maṇḍala except in incidental mentions  in All God hymns.

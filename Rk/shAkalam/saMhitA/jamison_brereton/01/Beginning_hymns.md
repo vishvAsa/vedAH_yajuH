@@ -1,7 +1,0 @@
-+++
-title = "Beginning hymns"
-
-+++
-The first ten hymns of the R̥gveda are attributed to Madhuchandas Vaiśvāmitra, with  I.11 ascribed to his son or descendant Jetar Mādhuchandasa. After the opening hymn  to Agni and two hymns (2–3) to the deities of the Praügaśastra litany, the remainder  of the hymns are addressed to Indra, most of them relatively simple and without  notable features.
-
-It is of course appropriate that the whole R̥gveda collection should begin with a  hymn to the deified ritual fire as the focal point of the sacrificial system. This hymn  in its relative simplicity and its clear exposition of Agni’s ritual role seems almost to  have been chosen for this prominent position for pedagogical purposes.+++(4)+++ It certainly  continues to serve such purposes in the modern West, where it is generally the first  hymn a student of the R̥gveda encounters and from which the mysteries of Vedic  Sanskrit grammar—accents, subjunctives, unexpected long vowels, variant nominal  forms, and so on—and of Vedic ritual are absorbed. It is therefore not surprising  that it is often assumed to be typical of R̥gvedic Agni hymns, but this is emphatically not the case: elsewhere in the R̥gveda Agni hymns often display especially contorted syntax and complex imagery and glory in enigma and paradox. The choice  of this particular Agni hymn to open the R̥gveda thus seems even more purposeful  against the background of more standard treatments of Agni.
