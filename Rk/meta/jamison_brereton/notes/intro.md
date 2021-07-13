@@ -15,8 +15,7 @@ of this sort, online posting seems the ideal medium. The commentary will be post
 piecemeal, and its various pieces will be updated from time to time. We anticipate
 that producing a complete commentary will take some years. At this point only
 Jamison will be posting commentary, primarily on hymns for which she had final
-responsibility. (For the division by translator, see the published translation, pp. 83–
-84.)
+responsibility. (For the division by translator, see the published translation, pp. 83- 84.)
 
 
 When citing from the comm., please give the date of access as well as the date of the
