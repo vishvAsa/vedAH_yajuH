@@ -10,3 +10,6 @@ But 1) do fingers “cry out”? and more important, 2) why then “seven”? It
 
 In IX the figure Vivasvant seems to be the prototype sacrificer (see Old ad IX.99.2), perhaps in his role as father of Manu. For further on Vivasvant see publ. intro. to I.139 as well as comm. to IX.99.2, X.14.5.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

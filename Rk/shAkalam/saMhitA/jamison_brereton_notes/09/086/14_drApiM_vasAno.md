@@ -8,3 +8,6 @@ I take nábhasā as instr. of extent of space, rather than accompaniment (Ge, Lo
 
 The identify of the “age-old father” isn’t clear, and various candidates have been suggested: Sāy.: Indra; Ge (n. 14d): Parjanya or Heaven; Re: Heaven. I’m generally inclined towards Heaven, though of course bringing Heaven here is not physcially possible.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

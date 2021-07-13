@@ -6,3 +6,6 @@ Noteworthy here is the variant on the expression of Indra’s standard deed, v�
 
 On √stambh with the waters as obj. see comm. ad II.11.5.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

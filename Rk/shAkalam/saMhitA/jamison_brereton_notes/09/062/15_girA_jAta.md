@@ -7,3 +7,6 @@ girā́jātáḥ “born on a mountain” is in the first instance a phrasal var
 The pass. dhīyate in b might weakly support taking hitáḥ in 10a to √dhā as well.
 
 Pāda c is the third instantiation (always in the c pāda) of the image comparing soma installed in the wooden cups to a bird on a yóni-: 4c śyenó ná yónim ā́sadat, 8c sī́dan yónā váneṣv ā́, our 15c vír yónā vasatā́v iva - and cf. in the preceding hymn IX.61.21c sī́dañ chyenó ná yónim ā́. Judging from the position of ivain our vs., both the bird and the yónihave become so much part of the identity of soma that only the ‘nest’ (vasatí-) is considered part of the simile proper - though we must keep in mind the multiple disturbances in the position of simile particles in Maṇḍala IX as disc. passim above.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

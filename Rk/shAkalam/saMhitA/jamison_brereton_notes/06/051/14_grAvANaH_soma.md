@@ -10,3 +10,6 @@ The most salient feature of the pressing stones is their noise, and so bellowing
 
 See comm. ad vs. 13 for the four-syllable pāda consisting of the nominal sentence vṛ́ko hí ṣáḥ. As I argued in my 2009 “Function of Animals in the RV” (Paris animal vol., 206-9, esp. 208), the wolf is a cross-category in RVic classification, and this statement is a quasi-legal declaration that a particular human evil-doer is an outlaw -- with parallels in other early Indo-European traditions.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -10,3 +10,6 @@ Syn.). I also take it as an abl., but suggest construing it with puráḥ. I now
 
 Nonetheless I hold to this interpr. Although puráḥ + ABL is not a robust construction, the related purā́is regularly found with the abl. Here I would suggest that we have a sort of pun. The lexeme puráḥ + √dhā ‘set in front, install’ is of course very common, and that phrase is found here, dadhiré puró naḥ. Although, as I just said, to express “ahead of / in front of the stranger” we might expect aryáḥ [abl.] … purā́, there was interference with the VP dadhiré puró naḥ “they have set us in front,” and puráḥ prevailed.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

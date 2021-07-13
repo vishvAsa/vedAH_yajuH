@@ -8,3 +8,6 @@ Because of its position within the NP víśvā áti dvíṣaḥ, áti is probabl
 
 The position of anyā́ḥ identifies the sisters as a defined and limited group, and of course, as the next vs. states (10b saptásvasā), Sarasvatī has precisely seven sister rivers.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

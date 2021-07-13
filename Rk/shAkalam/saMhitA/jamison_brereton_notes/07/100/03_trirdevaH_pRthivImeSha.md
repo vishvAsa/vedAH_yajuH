@@ -9,3 +9,6 @@ The hapax śatárcas- is problematic. The Pp analyses the 2nd member as arcasam,
 Old posits a masc. s-stem *arcás- ‘singer’, comparing VI.34.3 yádi stotā́raḥ śatáṃ yát sahásraṃ gṛṇánti “When a hundred, when a thousand praisers sing to him …,” an interpr. followed by Ge -- though the connection between the two passages seems tenuous to me. By contrast, Re tr. “au cent éclats,” perhaps flg. Sāy.’s arcís-. Since an infinitival dat. ṛcáse ‘to praise, for chanting (praise)’ is found in VI.39.5 and VII.61.6, it seems reasonable to take the underlying stem ṛcas- as the base here, as Gr does, glossing ‘hundertfach zu preisen’. My ‘worth a hundred verses’ is close to that, though perhaps ‘praises, chants’ would be better.
 
 Because of the lack of accent on asya, it should be pronominal, not adjectival; I would adjust the tr. to “of him, the stalwart.”
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

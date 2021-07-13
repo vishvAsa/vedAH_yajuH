@@ -9,3 +9,6 @@ differs on some important points from the standard (Old, Ge, WG, Kü [425]). In 
 As also indicated in the publ. intro., I take pāda d as an old saying encapsulating the wisdom of not wasting your money on a substandard item. The problem in this pāda is vāṇám, which ordinarily means ‘voice, music’ (see EWA s.v.).
 
 However, Ge tr. ‘Handel’ and suggests (n. 9d) that it is derived from vaṇíj- ‘merchant’, which seems very plausible. That it is otherwise unknown in this meaning would not be surprising, given the specialized lexical level it inhabits.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -10,3 +10,6 @@ I also now realize that the preterital tr. of dādhāra in d, matching that of G
 
 Putting this all together, I would alter the tr. of cd to “this one (upholds) his ‘beestings’ in the three “slopes” (=worlds); Soma upholds the broad midspace,” with absolutely no certainty about the rendering of c.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/03-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

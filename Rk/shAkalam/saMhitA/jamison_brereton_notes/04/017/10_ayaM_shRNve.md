@@ -6,3 +6,6 @@ The sense of ádha here is somewhat unclear and its position anomalous, as it is
 
 In pāda b the lexeme prá kṛṇute with its middle voice in my opinion encodes a complex thought: in battle Indra brings the (enemies’) cows forward in such a way as to make them his own, that is, to capture them. Med. kṛṇuté recurs in the next pāda, where its object is Indra’s own battle-fury (manyúm).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/09-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

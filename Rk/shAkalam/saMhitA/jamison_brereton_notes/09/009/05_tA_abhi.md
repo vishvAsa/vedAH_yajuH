@@ -6,3 +6,6 @@ This vs. presents the same problem as 4c: because of init. tā́ḥ, nom. pl. fe
 
 The unspecified dat. (or with Re loc.) mahé ‘for/in great …” has too many possibilities for its referent, and I have made no effort to choose one.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/009/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

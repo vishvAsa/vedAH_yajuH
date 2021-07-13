@@ -8,3 +8,6 @@ The 2nd hemistich opens with a form of the 2nd sg prn., táva, followed at inter
 
 The image of Soma purifying himself “between the two world-halves” of course reflects the cosmic reach of the Soma, but it may also have a narrower ritual application. In IX.98.9 Ge suggests that the world-halves there are the jaws of the soma-press, which would fit nicely here. See also IX.75.4, where the world-halves are called the mothers of Soma.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

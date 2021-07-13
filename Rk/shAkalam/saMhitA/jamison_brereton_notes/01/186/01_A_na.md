@@ -8,3 +8,6 @@ The initial ápi of c is somewhat puzzling. Ge (/WG) render it ‘auch’, which
 
 In d manīṣā́can be nom. or instr. I follow Ge in taking it as the former, while Re and WG take it as the latter, with Re taking Savitar as implied subject and WG víśvaṃ jágat. There is general agreement that a verb ‘come’ should be supplied in d.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

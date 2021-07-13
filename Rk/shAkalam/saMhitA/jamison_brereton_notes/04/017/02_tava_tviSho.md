@@ -9,3 +9,8 @@ BR suggest reading dyaúr éjad for Pp. dyaúḥ / réjat. Although rejected by 
 With Ge, I take tviṣáḥ as a gen. dependent on bhiyásā in b, thus parallel to manyóḥ. It would also be possible to take tviṣáḥ as an abl. of cause (so Hoffmann 179, WG).
 
 Note the phonetic figure táva tviṣáḥ. Note also that the reflex. adj. svásya must reference táva and therefore have 2nd ps. value (as well as not referring to the grammatical subj., as is sometimes claimed for reflexives).
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

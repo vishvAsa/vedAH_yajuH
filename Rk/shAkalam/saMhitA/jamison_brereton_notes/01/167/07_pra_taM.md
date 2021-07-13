@@ -8,3 +8,6 @@ Ge suggests that the greatness of the Maruts (pāda b) is demonstrated by the fa
 
 I do not understand the force of cid in d, and in fact I think it’s been automatically imported from the passages containing sthirā́cid where the adj. is a neut. pl. and the point is that our hero (whoever it happens to be) has destroyed various items “even though they are firm/hard” (I.127.4, IV.7.10, VIII.20.1). In other words, I do not think it has a function here.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

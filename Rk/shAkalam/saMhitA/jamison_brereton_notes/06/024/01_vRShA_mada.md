@@ -6,3 +6,6 @@ That avīḥ of c is also the verb of d is suggested by passages like I.110.9 v�
 
 of vā́ja- ‘prize’.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -18,3 +18,6 @@ the beacon of the days.” Cf. also III.34.4 ketúm áhnām, X.85.19 áhnāṃ k
 
 To return to the question of the relationship between the two hemistichs, I suggest that the “great vratás” of Agni that no one has/does venture against are the ritual patterns, esp. the dawn kindling, which in turn control the repeated return of the “beacon of the days.”
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

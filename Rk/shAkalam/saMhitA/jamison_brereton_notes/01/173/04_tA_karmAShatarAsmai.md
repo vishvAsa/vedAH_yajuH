@@ -10,3 +10,6 @@ Mayrhofer refuses to speculate. I suggest, very tentatively, that it may be a di
 
 If this gossamer suggestion is correct, then the first two pādas outline a twostep strategy: we have first perfomed the easier ritual requirements in a, but more concentrated attention is needed, and in b those fixated on the gods advance the ritual activities. The second half-verse predicts that Indra will look favorably on these efforts and will come to our ritual.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/173/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

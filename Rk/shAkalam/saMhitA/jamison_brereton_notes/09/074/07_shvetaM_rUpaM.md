@@ -18,3 +18,6 @@ we would expect sá īm in the Saṃhitā text (cf., e.g, IX.88.2). I take sém 
 
 And this in turn will lead to his producing rain in d, by splitting open the cask of heaven. This “splitting” (áva darṣat) is perhaps thematically related to the “bursting” down from heaven (nā́bhaḥ … avó diváḥ) in 6c, if that’s what nā́bhmeans. It is difficult to render the áva in the lexeme áva darṣat, but áva is a Lieblingswort of this poet: see 1a, 4d, 6a, as well as aváḥ in 6c - all presumably in service of the “rain down from heaven” theme.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/074/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

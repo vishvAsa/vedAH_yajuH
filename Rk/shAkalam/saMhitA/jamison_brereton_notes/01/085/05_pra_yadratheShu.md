@@ -8,3 +8,6 @@ intrusions of 4cd-5ab.
 
 The inundation of the skin in pāda 4 presumably refers to the wetting of hides in the tanning process (so Ge).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/085/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

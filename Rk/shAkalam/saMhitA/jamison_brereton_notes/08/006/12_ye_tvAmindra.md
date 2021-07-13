@@ -6,3 +6,6 @@ The 2 occurrences of tuṣṭuvúḥ are standardly interpr. as preterital (“�
 
 Pāda c contains an ellipsis: we expect an instr. here, as in VIII.1.18 ayā́ vardhasva tanvā̀girā́máma. The appropriate word can either be extracted from the proleptic adj. súṣṭutaḥ “by my (praise) (so that you become) well praised” (as well as the two forms of tuṣṭuvúḥ in ab) or, less likely, pratnéna mánmanā in 11a.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -12,3 +12,6 @@ to a ppl. cmpd. Old himself doesn’t provide a gloss, but on the basis of a cmp
 
 Unfortunately “gold-glittering” for háriścandra- obscures its relationship to háreś candrā́ḥ in 25b “of the tawny one, the glittering (drops).”
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -7,3 +7,6 @@ Although this vs. is lexically and syntactically quite distinct from V.38.2, the
 - Indra as unbounded ocean -- while in 38.2cd the unidentified praiseworthy thing
 spreads itself out longest, also an image of unbounded expanse. The means of expressing the concept are quite different, but the concept itself seems the same.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

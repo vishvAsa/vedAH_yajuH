@@ -12,3 +12,6 @@ Pāda d is syntactically problematic. The last two words (yatatho mahitvā́) ar
 
 rather than in its usual meaning ‘no one’, since the verb yatathaḥ is 2nd du. and cannot take ‘no one’ as subject. In order to avoid this problem, I create problems of my own. I take nákiḥ as a radically truncated sentence “No one …” This is based on the observation that one of the most common contexts in which nákis appears is as subj. of minat (etc.) ‘violate(s)’ (cf., e.g., I.69.7, IV.30.23, VI.30.2, etc.). I therefore suggest that nákiḥ here is an implicit response to the description of the behavior of bad rivals in 9b priyā́dhā́ma yuvádhitā minánti “they violate the dear ordinances ordained by you”. Here in our ritual “no one” performs such violation. With nákis out of the way, the rest of the pāda can be harmonized with the use of yatatho mahitvā́in 3d. There M+V ‘set in place’ various peoples (jánān). Here I would resupply jánān and take devébhiḥ as an instr. of accompaniment: M+V set in place the peoples along with the gods. I would prefer not to have to impose such a radical analysis on this pāda, but I find other analyses even more unsatisfactory.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

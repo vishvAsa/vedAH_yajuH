@@ -13,3 +13,6 @@ Scar (313 n. 444) and WG. I see no reason to accept this. The stem árṇa- exis
 
 Although most take atrá- as a PN, I still prefer the older derivation (see, e.g., Gr) from √ad ‘eat’ with simplification of the geminate (*at-trá-), pace EWA s.v. átri-. It does not have to have anything to do with the seer Atri (átri-), but átrin- ‘voracious’ is, in my opinion, derivationally connected.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

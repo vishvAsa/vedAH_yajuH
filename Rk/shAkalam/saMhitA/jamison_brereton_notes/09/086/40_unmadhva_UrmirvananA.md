@@ -8,3 +8,6 @@ There is an Old Avestan hapax of the same shape (Y. 44.15) that seems unconnecte
 
 Soma is presumably “thousand-spiked” (sahásrabhṛṣṭi-) because of the knobs, thorns, or similar extrusions on the plant.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

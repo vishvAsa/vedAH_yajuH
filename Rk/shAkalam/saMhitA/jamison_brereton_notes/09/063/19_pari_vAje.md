@@ -6,3 +6,6 @@ This vs. contains a fairly clever double meaning: the verb pári √sic means �
 
 Both Ge and Re construe vā́je in the simile rather loosely; I take it as a unmarked loc. absol. of the dháne hité (“when the prize is set,” e.g., IX.53.2) type, though without overt ppl. It adds to the somewhat slant syntax of the simile versus the frame that both contain a loc. (ávyo vā́reṣu in the frame), but the locc. have different functions. In fact ávyo vā́reṣu “onto the sheep’s fleece” expresses the goal of the sprinkling and is functionally parallel to vājayúm in the simile.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

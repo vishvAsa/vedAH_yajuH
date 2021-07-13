@@ -8,3 +8,6 @@ The ‘wool’ in both passages is best understood as a metaphor for ‘foam’.
 
 The instr. sg. pavyā́to the masc. stem paví- shows the older -ā ending, which becomes limited to fem. -i-stems when the masc./ neut. adopt -inā.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/052/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

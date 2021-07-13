@@ -16,3 +16,8 @@ I take this nominal clause (/subclause) as annunciatory of the gapped object of 
 
 Ge, Re, and Old (SBE) take janayanta in d as intrans. ‘be born’ (e.g., Ge “Dem Bullen wurden die sieben Freunde geboren”), but this medial form is a standard ex. of -anta replacement of the undercharacterized act. -an and is therefore transitive. See my “Voice fluctuation in the Rig Veda: Medial 3rd plural -anta in active paradigms,” IIJ 21 (1979) 146-69. It is correctly interpr. by Hoffmann (Injunk., 176) and WG. The form is an injunctive, contra the Pp.; so already Gr; see Old (Noten), Hoffmann. The “seven dear ones” (saptá priyā́saḥ) are most likely the Aṅgirases, here referred to in the plural rather than the collective neut. sg. in pāda a. III.31.5 contains “seven inspired poets” (saptá víprāḥ) in a clear Aṅgiras/Vala context. It is also possible that the phrase refers to the Aṅgirases’ music, since saptá vā́ṇīḥ ‘seven voices’ is a common phrase. The adj. priyā́saḥ could be either masc. or fem.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/11-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

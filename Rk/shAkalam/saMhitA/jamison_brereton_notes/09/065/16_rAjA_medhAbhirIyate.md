@@ -8,3 +8,6 @@ take it to √yā/ī ‘speed’ (so also Sāy., who glosses gacchati). In favor
 
 śatagvínam gávām póṣam, lit. “thriving of cattle that possesses hundredfold cattle” (vel sim.), redundantly codes the cattle twice (-gvínam gávām).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

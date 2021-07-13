@@ -10,3 +10,6 @@ Or at least it matches bhū́ma acdg. to the standard renderings (Ge, Re, WG, L�
 
 Yet another aspect of this little expression is its relation to other such expressions in this small group of hymns attributed to Parāśara Śāktya (I.65-73): twice elsewhere in this collection Agni is depicted as encompassing something else, with the lexemes pári √bhū (I.68.2 pári … bhúvat, I.69.2 pári … babhūtha), while in
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

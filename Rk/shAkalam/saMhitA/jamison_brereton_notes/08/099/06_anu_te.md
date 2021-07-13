@@ -13,3 +13,6 @@ Sāy and the Kashmir ms; see Old ad loc. Although Ge retains śnathayanta, in hi
 The phrase itá ūtī́(also, as itá ūtī́ḥ I.119.8, I.130.5) cannot be separated from the compound itáūti- (6x). The latter has an apparent Old Avestan cognate utaiiūiti- ‘youthfulness’, probably containing a *yūti- related to yúvan- ‘youth’. The Vedic compound clearly lost its transparency and has undergone some deformation, resulting, finally, in the folk-etymology “help from here / from then on” represented by the phrasal itá ūtí-. Both the compound and the phrase can co-occur with ajára- ‘unaging’ as here; see also I.146.2, X.31.7. For disc. and lit. see EWA s.v. itáūti-.
 
 Here in this Anhangslied it is likely that ūtí- ‘help’ has captured the de-compounded phrase, but that the phrase is still associated with the notion of constancy, hence my compromise “with enduring help.” Ge tr. “zu eurem unmittelbaren (immediate) Beistand,” but in n. allows “den durch Fortdauer (oder Verjüngung) Alterlosen.”
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/099/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

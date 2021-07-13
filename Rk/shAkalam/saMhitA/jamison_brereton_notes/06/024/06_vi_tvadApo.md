@@ -16,3 +16,6 @@ adj. vyácasvantā that opens pāda d but also the complex loc. phrase that occu
 
 Putting all this together, I offer the revised translation: “He is master of the manly power of both of these (armies) when the ritual adepts call on him in the clash, whether an obstacle or a dwelling place rich in men is at issue — if the two (armies) in their expansion will keep tussling mightily back and forth with one another.”
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

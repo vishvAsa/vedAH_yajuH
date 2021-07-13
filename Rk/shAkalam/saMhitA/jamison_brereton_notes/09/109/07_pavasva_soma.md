@@ -8,3 +8,6 @@ to mahā́nt-. Most (Old, Ge, Re, Lub) take it as an acc., supplying ‘fleece�
 
 A similar problem arises with a gen. pl. interpr., acdg. to which it would modify ávīnāmi “of the great sheep.” Since the most likely entity to be called ‘great’ in this vs. is Soma (cf., e.g., mahā́n samudráḥ in vs. 4, I think it likely that the form is nom. sg. In this sandhi position (before vowel) we would expect mahā́m̐(cf., e.g., IX.66.16 mahā́m̐asi), but I suggest that the anunāsika was redactionally changed to m because the form was reinterp. as a gen. pl. modifying immed. following ávīnām.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

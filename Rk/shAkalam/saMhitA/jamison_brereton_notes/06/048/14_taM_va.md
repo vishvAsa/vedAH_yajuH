@@ -14,3 +14,6 @@ The final infinitival ādíśe can be taken in a number of ways: Ge (fld. by Sca
 
 In that vs. I take the lexeme as meaning ‘designate (X as Y=epithet)’, and I think something similar is meant here: by giving Pūṣan attributes and identifying him with various gods I've uniquely identified him.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

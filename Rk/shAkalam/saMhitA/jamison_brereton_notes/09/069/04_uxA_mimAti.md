@@ -12,3 +12,6 @@ As for sácā, as disc. ad IV.31.5 sácā is generally a pleonastic marker of a 
 
 In c the earthly soma is still at issue - here protecting the commandments (vratā́ni pānáḥ) of the heavenly Soma, once again designated amṛ́tasya cā́ruṇah as in 2a; see comm. ad loc. A similar relationship between the earthly soma and the commandments of the heavenly Soma is found in the previous hymn, IX.69.1d.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/069/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

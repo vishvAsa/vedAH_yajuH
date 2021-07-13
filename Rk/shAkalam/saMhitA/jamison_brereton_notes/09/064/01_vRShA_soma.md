@@ -6,3 +6,6 @@ Old’s interpr. of vṛ́ṣā in c as a neut. pl. adj. with dhármāṇi seems
 
 vṛ́ṣā opens the two previous pādas of this vs., it seems unlikely that a morphologically different, and at the least very rare, phonologically identical form would open the third - esp. since, when a neut. adj. is required in the next vs. (2a), the deriv. vṛ́ṣṇya- is employed.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

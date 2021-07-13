@@ -12,3 +12,6 @@ As generally noted by tr. (Ge, Re, also Scar [72]), pāda d involves a play on t
 
 assumes that virā́jam represents not only the acc. sg. of the rt. noun cmpd. virā́j-, but also the nom. sg. pres. part. *virā́jan to the them. pres. rā́jati. This seems preferable to trying to construe it as an acc. sg. in the sense ‘wide-ruling’, and the interchange of final nasals would be fairly trivial for a pun. Scar. (72 n. 97) notes that the lexeme ánu √rāj is used in II.43.1 also of regulating meters, there Gāyatrī and Triṣṭubh. The preverb ánu also has to be read with ṣṭúp, as a cmpd decomposed and flanking rājati (ánu rājati ṣṭúp), for the meter name. The technical references to meters here may be the culmination of the kaví- / ṛ́ṣi- theme of 17-18.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/17-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

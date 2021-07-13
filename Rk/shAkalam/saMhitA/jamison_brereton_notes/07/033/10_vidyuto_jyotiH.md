@@ -14,3 +14,6 @@ The yád in b is very deep in its clause, with both subj. and obj. preceding it,
 
 With Old (fld. by Ge), I read dat. viśé contra Pp. viśáḥ. The clan in question is supposed to be the Tṛtsus.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/033/10-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

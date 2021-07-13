@@ -10,3 +10,6 @@ However, I now wonder if we should interpret the abstract amṛtatvám in c in l
 
 Note that the phrase víśve … devā́ḥ, parcelled out over two pādas, may teasingly invite us to connect the first term, víśve, with the dominant epithet in this hymn, vaiśvānará-.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

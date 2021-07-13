@@ -6,3 +6,6 @@ A broken construction. The subject of the 3rd ps. verb in c (patyate) must be In
 
 I.84.10-12: See publ. intro. for the structure of this tṛca and its relation to I.80. The subjects of all three verses are feminine (gauryàḥ, yā́ḥ … sayā́varīḥ 10; tā́(ḥ) … pṛ́śnayaḥ, … dhenávaḥ 11; tā́(ḥ) 12; vásvīḥ 10-12), but, in my opinion, the hidden referent of all three verses is the Maruts. See also comm. on vs. 16.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/084/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

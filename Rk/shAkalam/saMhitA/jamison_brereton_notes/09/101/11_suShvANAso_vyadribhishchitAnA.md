@@ -11,3 +11,6 @@ aor. áceti / céti. The semantics works fine, but for a root aor. part. its roo
 Both Ge and Re take the verbal idiom in cd as transitive, or at least construe iṣám as a species of Inhaltsakk. (e.g., “nous ont en résonnant assemblé de toutes parts la jouissance-rituelle”). But Re’s invocation of the idiom abhí … sám √svar as the basis for our abhítaḥ, sám asvaran seems quite apposite, and that idiom is intrans.
 
 with an acc. of goal. See, e.g., IX.110.8 índram abhí … sám asvaran “ They cried out in unison towards Indra” (sim. IX.106.11, 67.9). The conversion of the preverb abhí into the adverbial abhítaḥ would not be responsible for transitivizing the idiom. Cf., e.g., X.27.8 hávā íd aryó abhítaḥ sám āyan “The cries of the Stranger came together from all sides.” I agree that íṣam is an unexpected goal for this idiom, but I think we have to live with it.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

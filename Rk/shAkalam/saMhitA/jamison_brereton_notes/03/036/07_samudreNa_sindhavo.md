@@ -8,3 +8,6 @@ The verse contains two parallel morphological word-plays: bhárantaḥ … bhar�
 
 The latter, pavítra- lit. ‘instrument for purifying’, is of course very well attested in the RV, referring to the soma-purifying filters, but bharítra- is a hapax, obviously generated to match pavítra-, including the -i-liaison vowel appropriate only to the seṭ root √pū, not to aniṭ √bhṛ. It is tr. ‘arm’ by all (going back to the Naigh.), but milking with the arms doesn’t make sense in either life or metaphor. I think it means rather ‘hand’ and participates in a different word-play within its pāda: an ‘instrument for carrying’ can easily be a hand, and so it is synonymous with hásta- ‘hand’ found in the immediately preceding word hastín- ‘hand-ed’. There is a further implied verbal twist, at least with my interpr. of ab: the rivers don't have hands but carry anyway, while the priests do have hands but use their carrying appendages for something else. I’m afraid the publ. tr. needed to be quite heavy-handed to convey the deftness of this little play.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

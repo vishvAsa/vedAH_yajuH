@@ -10,3 +10,6 @@ The vs. also recycles various thematically significant lexical items: padá- (se
 
 The ‘pathway’ (pathyā̀) takes us back to III.54.5 where a question about “the pathway leading to the gods” (devā́m̐áchā pathyā̀) initiated the mysteries that have dogged us ever since.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/14-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

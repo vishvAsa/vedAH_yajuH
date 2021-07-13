@@ -30,3 +30,6 @@ ví síndhavaḥ samáyā sasrur ádrim
 
 Since ví ‘apart’ and sám ‘together’ are oppositional preverbs that frequently work formulaically with each other, samáyā seems to partake more in the semantics of sám than of samá- ‘same’ and to mean ‘altogether’, ‘all at once’, or ‘together with’. I take it in the last meaning here: the question being asked is when the current Dawn will be (re)joined with her sister Dawns, both preceding and following her.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

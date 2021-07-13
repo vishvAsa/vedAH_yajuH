@@ -12,3 +12,6 @@ Ge and Re take c with ab, with pávamānam another goal (beside Tṛpala Manyu) 
 
 But the only other occurrence of that stem modifies sā́man- ‘melody’ (I.62.2) and to bleach it to ‘preislichen’ (for which there are already numerous other synonyms) seems unfortunate. I would suggest that the prominent initial position of āṅguṣyàm in c, far from its head noun at the end of d, results from this intention to re-cast the harsh image of ab and do so as soon as possible.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

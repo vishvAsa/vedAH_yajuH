@@ -7,3 +7,6 @@ The translation “Here we are -- those of yours” reflects the annunciatory im
 On kṣoṇī́- as ‘war-cry’, see Thieme (1978[79]: KZ 92: 46), EWA s.v. ### 05
 táva smasi is a paraphrase of 4a (imé) te … té vayám
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/057/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

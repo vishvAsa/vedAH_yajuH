@@ -10,3 +10,6 @@ abhikánikradat ‘constantly roaring’. And so intrans. ‘bellowing’ fits t
 
 Note also IX.70.6 mātárā … nā́nadad eti “he goes bellowing to his two mothers [=Heaven and Earth,” with the same config. of participle to √nad + eti + H+E.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

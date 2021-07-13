@@ -8,3 +8,6 @@ something else is enclosing Agni, configured as a calf (vátsaṃ), using pári 
 
 All in all, I.65.3cd packs a lot into its ten syllables and five words, as witnessed by the many more words (more than ten times as many) in this entry required to describe its syntactic and semantic tricks.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

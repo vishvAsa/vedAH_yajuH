@@ -8,3 +8,6 @@ Acdg. to the standard interpr. (Ge [/WG], Re; cf. Klein DGRV I.218, Kü 314), pr
 
 At best we can take prajā́ḥ purudhā́with both verbs: “thrives with regard to offspring in great quantity and has begotten them [=offspring in great quantity]” or perhaps “thrives with regard to offspring and has begotten them [=offspring] in great quantity.” Such an interpr., with an acc. of respect and a fundamentally intransitive verb, follows that of Kü (314). I do not believe that pupóṣa here can have the transitive/causative sense that the other tr. ascribe to it (e.g., Re “a fait fleurir les créatures”).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/19-21.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

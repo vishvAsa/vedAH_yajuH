@@ -8,3 +8,6 @@ I take níṣattam as proleptic, depicting Vṛtra’s position after the action
 
 In b I supply ‘thinking himself’ with amarmáṇaḥ on the basis of 3c and of the almost identical III.32.4cd … viveda, amarmáṇo mányamānasya márma. The verb in b, vidát, is accented because of the following íd (see Gr s.v. íd 5, though there are fewer clear examples than he presents, since many of them are also pāda-initial). The Indra-reference shifts from 3rd to 2nd between the first and second hemistich, but this is scarcely novel.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

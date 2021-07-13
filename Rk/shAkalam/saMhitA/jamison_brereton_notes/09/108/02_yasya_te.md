@@ -9,3 +9,6 @@ I have silently converted yásya into yád, since “upon drinking of which - of
 The gerund pītvā́in a is echoed by the i-stem loc. pītā́in b.
 
 On the unexpected accent of supráketa-, as opposed to supraketá- (4x), see Old, who has no good explanation (nor do I).
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

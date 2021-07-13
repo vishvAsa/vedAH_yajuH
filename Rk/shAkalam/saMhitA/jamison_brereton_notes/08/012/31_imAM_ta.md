@@ -6,3 +6,6 @@ Pāda c presents some difficulties of interpretation, in particular how to distr
 
 I take the refrain prā́dhvaré as a (quasi) locative absolute, as in VIII.46.18, rather than as integrated into what precedes.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/31-33.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

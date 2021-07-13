@@ -16,3 +16,6 @@ For this reason I reluctantly accept Ge’s solution (considered but disfavored 
 
 seem to worry about this question. I very much doubt that it is Soma, who is otherwise referred to only in the 3rd ps. throughout the hymn, until the final vs.; I find it unlikely that this hymn-length consistency and the dramatic contrast created by the switch in persons in the final vs. would be violated by a seemingly irrelevant impv. just here. The most likely addressee is a ritual officiant of some sort. On a possible interpr. of the short impv. phrase see comm. on the next vs. The 2nd hemistich is, by contrast, relatively straightforward and, like 2cd, sketches the length of the territory Soma traverses, with the verb ví √mā ‘measure out’ and yójana-, a measure of distance. The preverb ví is in tmesis and takes its position after the verb at the beginning of the final, short pāda.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/102/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

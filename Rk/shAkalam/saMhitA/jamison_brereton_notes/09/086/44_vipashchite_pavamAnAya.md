@@ -8,3 +8,6 @@ But insofar as it is possible to narrow the referent of this word, it is used of
 
 The simile in d, átyo ná krīḷan, is also found in 26d.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

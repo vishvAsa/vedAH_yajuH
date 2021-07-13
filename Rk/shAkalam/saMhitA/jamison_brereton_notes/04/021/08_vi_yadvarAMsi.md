@@ -14,3 +14,6 @@ subjects várāṃsi … jávāṃsi (e.g., Ge “Wenn sich die Breiten des Berg
 
 The sudhyáḥ ‘those of good insight’ are probably, with WG, the Aṅgirases in the Vala myth, but I would add that this word would also identify the poets/priests at the ritual, in the double reading of this triad of verses that I favor.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

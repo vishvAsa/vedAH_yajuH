@@ -14,3 +14,6 @@ The sense of nimíṣi is unclear. My tr. “at (every) blink of the eye” take
 
 ‘stemming from a dead egg’, found otherwise in the RV in the creation hymn X.72.8-9 in the myth of Aditi and the birth of her sons. The last son born (or rather the egg miscarried), mārtāṇḍá-, is the ancestor of mortals; for disc. of the word and the myth see Hoffmann 1976 (=1992: 723). That half of this vs. is devoted to Varuṇa and the next vs. has the great trio of Aditi’s sons, Mitra, Varuṇa, and Aryaman, provides further evidence that the Mārtāṇḍa of the Aditi birth story is meant. Under this interpr., the domestic herd animal (paśú-) is paired with the likewise domesticated human, each in its own pen.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/038/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

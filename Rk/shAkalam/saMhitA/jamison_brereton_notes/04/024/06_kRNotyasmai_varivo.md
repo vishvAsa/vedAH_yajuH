@@ -11,3 +11,6 @@ The tradition (as well as modern ed. and tr.) is split on whether to read ávive
 Quite apart from the actual form is its referent. Old, who accepts the ávivenan reading, takes c with d and identifies Indra as the referent of ávivenan. Although this fits better with the similar expression in the next hymn (IV.25.3) where gods are (or may be) the subject, here I think Ge is correct that c belongs grammatically with the rel. cl. in ab, and the referent of ávivenan is the soma-presser subject of that rel. cl.
 
 This nominative is resumed by the appropriate correlative prn. tám in the acc. in d.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

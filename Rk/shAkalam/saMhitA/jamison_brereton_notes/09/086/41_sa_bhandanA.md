@@ -20,3 +20,6 @@ It’s a long and winding road to what we want! The interpr. of the hapax bahuvr
 
 assumes a concrete homestead, which belongs to the speaker and/or his associates, that is stuffed, as it were, with horses. The difference between the abstract and the concrete interpr. is small but significant, and I continue to prefer the concrete one.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

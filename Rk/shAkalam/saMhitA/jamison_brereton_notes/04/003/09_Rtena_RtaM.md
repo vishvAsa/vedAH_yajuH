@@ -16,3 +16,6 @@ On dhāsí- see comm. ad I.62.3, 140.1.
 
 The hapax jā́marya- is opaque; see EWA s.v. My tr. follows Janert’s analysis (Dhāsi, 33ff.), that it is a secondary derivative to jām-ara- “die die Nachkommen Nährende.” Ge’s suggestion (n. 9d) that it is related to YAves. zǝmar ‘on/in the earth’ (in zǝmar-gūz-), hence ‘earthly’ (versus heavenly milk = rain), fits the passage less well.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

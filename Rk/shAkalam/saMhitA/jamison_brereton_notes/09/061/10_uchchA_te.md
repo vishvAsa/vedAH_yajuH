@@ -17,3 +17,6 @@ part. to √as, though most tr. don’t render it as such (and Re rejects this i
 mid. pres.). Gr takes it as a 1st sg. pf., as does Ge (“Den im Himmel befindlichen (Trank) nehme ich auf der Erde zu mich”), but a 3rd sg., with the soma (represented by mádhu or ándhaḥ) as subject (with Re, Lü, Ober) allows pāda c to serve as obj. of ā́dade - Ge has to take it as an independent nominal clause - and the Gr/Ge interpr. also introduces a 1st sg.
 
 that has no other place in the context, where the 1st pl. reigns.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

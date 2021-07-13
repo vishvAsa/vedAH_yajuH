@@ -8,3 +8,6 @@ Both Ge and Old suggest that ṛ́ghāvā should be read as neut. *ṛ́ghāvad 
 
 In d “whetted sharp by the soma pressers” (níśitaṃ somasúbhiḥ) continues the theme of the previous vss., that getting Indra on one’s side in battle requires plying him with soma at the sacrifice.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

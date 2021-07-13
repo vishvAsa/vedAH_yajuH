@@ -9,3 +9,6 @@ ein ved. *oghas- ‘Strömung’ verwertbar.” Mayr instead tentatively follows
 
 Admittedly, there is no independently attested s-stem *óghas-. But consider the semantically and morphologically parallel gó-arṇas- (4x) ‘having a flood of cows’, with the well-attested s-stem árṇas- ‘flood’. It is easy (at least for me) to imagine that an s-stem *óghas- was coined in analogy to árṇas- for just this cmpd.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

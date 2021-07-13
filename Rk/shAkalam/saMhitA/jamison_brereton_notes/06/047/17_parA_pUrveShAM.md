@@ -8,3 +8,6 @@ The hapax ánānubhūtīḥ is not entirely clear, but two things must be kept i
 
 (Ge’s “dass sie … nicht …” has the same proleptic purpose interpr.) The point is that one can’t get old if one keeps the years at a distance; my “close in” is meant to capture the slangy tone of the passage (see also “double-cross” in b).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

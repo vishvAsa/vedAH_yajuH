@@ -6,3 +6,6 @@ The position of simile-marking ná is aberrant, preceding the simile’s noun m�
 
 The etymological figure in c, dákṣāṇāṃ dákṣapatiḥ “skill-lord of skills,” then participates in a phonological figure with semantically distinct dakṣiṇatáḥ “from the right (/south)” in d.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/095/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

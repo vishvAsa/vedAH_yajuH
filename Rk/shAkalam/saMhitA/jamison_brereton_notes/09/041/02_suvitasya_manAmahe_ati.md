@@ -10,3 +10,6 @@ With Old, Ge, Re I take the gen. suvitásya as the gen. obj. of manāmahe and co
 
 durāvyàm, modifying sétum, is assigned to a stem dur-ā́vya / durā́via by Gr, misrepresenting the accent, inter alia. As Old points out, however, the stem is really durāvī́-, a root noun cmpd. (see now Scar 497), and it must mean ‘difficult to pursue / follow’. Since sétu- here refers to the curls of the sheep’s fleece (in my view), these curls can be conceived of as the tracks that the liquid would follow as it's being strained through the fleece, tracks that can be difficult to pursue. So the acc. phrase sétuṃ durāvyàm jams two different but evocative images into one. Note also that suvitásya … durāv(í)yam is something of a phonetic figure, with the semantically contrastive adverbial prefixes su and dus, but different verbal roots (√i and √vī) -- though internal sandhi provides √i with an apparent initial v matching vī.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/041/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

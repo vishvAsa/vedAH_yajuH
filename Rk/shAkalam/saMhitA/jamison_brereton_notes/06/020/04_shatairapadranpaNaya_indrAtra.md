@@ -13,3 +13,6 @@ That arká-sāti means ‘winning of the (sun’s) rays’ is strongly suggested
 
 I don’t understand pāda d, but I would point out that another “insatiable Śuṣṇa” passage also has a mention of mealtime: IV.16.12 kútsāya śúṣṇam aśúṣaṃ ní barhīḥ, prapitvé áhnaḥ kúyavaṃ sahásrā “For Kutsa you laid low insatiable Śuṣṇa, who brings bad harvest, with his thousands, before the day's first meal.” Perhaps the point is that despite his voraciousness, Śuṣṇa is deprived of his meal by Indra’s timely blow. In that case the subj. of arirecīt … prá here is Indra, who leaves nothing for Śuṣṇa.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/020/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

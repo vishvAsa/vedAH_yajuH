@@ -7,3 +7,6 @@ This verse contains no main clause, just two different subordinate clauses intro
 The adj. manojúvaḥ ‘mind-swift’ could equally well be a nom. pl. masc.
 
 modifying the Maruts or an acc. pl. fem. modifying pṛ́ṣatīḥ. Most tr. opt for the latter, I think correctly on thematic grounds, but grammatically and semantically either is possible. Gr and Macd (Vedic Reader) take it as a nominative; certainly its position right before marutaḥ in pāda a, with pŕṣatīḥ appearing only in the middle of the second pāda, suggests that the initial audience interpretation would be as a modifier of the Maruts.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/085/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

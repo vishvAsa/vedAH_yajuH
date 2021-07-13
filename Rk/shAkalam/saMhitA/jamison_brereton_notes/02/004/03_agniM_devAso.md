@@ -6,3 +6,6 @@ I tr. dīdayat … ū́rmyā ā́“shine towards the nights,” rather than “
 
 On dakṣā́yyaḥ, whose morphology resembles didhiṣā́yyaḥ in 1c, see comm. ad I.91.3. As noted there, in this passage it could also or alternatively mean “to be skillfully tended.”
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/004/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

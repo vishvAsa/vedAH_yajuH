@@ -14,3 +14,6 @@ The verb viyánti in d is ambiguous. With the Pp., Gr., etc., it may be taken as
 
 Because of the connections between the preceding hymn VII.42 and this one, I favor the latter affiliation on the basis of (prá) vetu in VII.42.1b, but ví √i is certainly not excluded -- and might make slightly better sense with the simile. The tr. might then alternatively read “go apart” for “go questing.” On the other hand, I like the idea of formulations going in quest of divine response and rewards, an interpr. encouraged by the prá lexemes (like prá … etu in the next pāda, 2a).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/043/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

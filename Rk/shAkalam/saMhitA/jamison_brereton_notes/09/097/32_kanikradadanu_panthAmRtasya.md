@@ -14,3 +14,6 @@ morphological variant of matsarín(-tama)- (4x), with a different possessive suf
 
 The initial sá in both our pāda and the one on which it is based does not follow my rules for sá 2nd-ps. reference. On this aberrancy see comm. ad IX.76.5, where it can be motivated. That pāda was then simply borrowed (and slightly altered) here.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

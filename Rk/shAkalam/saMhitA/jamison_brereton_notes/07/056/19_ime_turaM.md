@@ -8,3 +8,6 @@ Both Ge and Re follow the Pp. reading sáhasaḥ. Re interpr. it rather loosely 
 
 adj. *sahásaḥ (“die Gewalt des Gewaltigen”), without comment. Old suggests that the better reading is dat. sáhase and cites passages containing ā́√nam with the dat. I follow this interpr.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/056/18-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

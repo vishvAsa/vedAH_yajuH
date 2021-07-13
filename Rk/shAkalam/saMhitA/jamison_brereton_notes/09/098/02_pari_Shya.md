@@ -8,3 +8,6 @@ The pāda-final avyáyam (a) and avyata (b) echo each other.
 
 The actual target of the simile in b, the nominative equivalent of Soma in the frame, is gapped, being represented only by the adjuncts ráthe and várma: “like (a man/warrior) on a chariot his armor.” In the publ. tr. “a man” should be in parens.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/098/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

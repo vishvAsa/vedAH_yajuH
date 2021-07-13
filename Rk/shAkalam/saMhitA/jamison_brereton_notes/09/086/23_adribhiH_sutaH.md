@@ -6,3 +6,6 @@ The augmented impf. abhavaḥ is somewhat surprising in this context, because, a
 
 The augment in (a)vṛṇoḥ is quite insecure: the Pp restores it, but it is not found in the Saṃhitā text and is metrically de trop.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

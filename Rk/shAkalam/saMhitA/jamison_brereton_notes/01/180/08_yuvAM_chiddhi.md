@@ -16,3 +16,6 @@ Yet another hapax troubles us: kā́rādhunī. Both Ge and WG refuse to tr. it.
 
 But given the other intractable problems in this hymn, it seems one of the lesser issues. The 2nd member -dhuni- is surely dhúni- ‘noisy’ or probably, substantivized ‘noise, tumult’. It also seems reasonably possible to connect kā́rā- to kārú- ‘bard’ and assign it a tenative meaning ‘praise-song’ (so also EWA s.v. kārú-, citing also AiG II.2, etc.). The form in the text (with probable but not certain -ī final, so Pp.) can be an instr. sg. The remaining problem is the accent, which should make the cmpd a bahuvrīhi, a grammatical identity at odds with my tr. “with a tumult of praise-songs.” AiG II.1.221 simply says it has abnormal accent, and with nothing better to offer, I will simply allow Wackernagel the last word on that subject. I take this simile with what precedes (“proclaimed as if with …”) rather than what follows (“is conspicuous by thousands as if by …”). Its position would allow either, despite the pāda break.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/180/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -12,3 +12,6 @@ See disc. in the notes, though I am puzzled by how the disc. and the tr. relate.
 
 In my view Night’s stretching her garment for him is in part a gesture of submission: she recognizes the sun’s ascendancy (both literally and conceptually) and removes her black garment and spreads it out for him to pass over, to indicate that she yields to his superior power. (Fortunately she doesn’t have Clytemnestra tendencies.) But this image also depicts a real-world phenomenon, that of the sun rising through morning mist or dark clouds clustering at the horizon. These can be seen as the remnants of the darkness of Night, the garment she has discarded at the place on the edge of the visible world where the sun first emerges. The pāda begins with ā́d ‘just after that’ -- namely, just after he has yoked his horses from their seat, the beginning of his journey -- suggesting that this is the first moment of sunrise.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/115/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -6,3 +6,6 @@ Various referents have been suggested for the seven reins. I tentatively take th
 
 The verb ‘rasps’ (rebhati) may convey the sound of old man's voice, as would be appropriate for an ancestor.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/09-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

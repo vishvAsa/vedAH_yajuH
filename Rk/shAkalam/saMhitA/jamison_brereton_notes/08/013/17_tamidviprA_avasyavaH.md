@@ -6,3 +6,6 @@ I am puzzled as to what “downward coursing help(s)” (pravátvatībhir ūtíb
 
 We meet vayā́iva again, repeating the simile of 6c. As in 6 I think that the tree branches are compared with Indra (and hence are acc. here), rather than being compared to the battle cries. They make Indra grow as tree-branches grow.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/013/16-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

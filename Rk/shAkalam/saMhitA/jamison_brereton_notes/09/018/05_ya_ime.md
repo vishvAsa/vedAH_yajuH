@@ -8,3 +8,6 @@ Both Ge and Re take ródasī mahī́as acc. obj. of the frame, with mātárā as
 
 For Heaven and Earth (i.e., the two world-halves represented by ródasī here) as subject of medial √duh, see VI.70.2 ghṛtáṃ duhāte “the two yield ghee as milk,” in a hymn to Heaven and Earth, which are the default referent of the many duals in the hymn.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -6,3 +6,8 @@ With Sāy. and Re but contra Ge, I consider the father and mother of pāda a to 
 
 Note the return of √dham ‘blow’ from 1a. In its earlier occurrence this root simply expressed the action of the drop (drapsásya dhámataḥ), but here the verb has been weaponized, as it were, against enemies.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

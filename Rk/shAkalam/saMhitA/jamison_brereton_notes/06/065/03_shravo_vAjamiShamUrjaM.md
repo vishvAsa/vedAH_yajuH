@@ -20,3 +20,6 @@ As noted in the publ. intro., gárbham √dhā ‘place the embryo’ is the def
 
 is used a number of times of the Maruts (5.41.13, 55.3, 59.3, 87.3), including once in a birth context: V.55.3 sākáṃ jātā́ḥ subhvàḥ “born all at once, good in essence.” As with mahȧḥ in pāda c I interpr. the singular here as referring to the collectivity of the Maruts.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

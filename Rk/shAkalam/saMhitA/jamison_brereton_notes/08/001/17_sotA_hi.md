@@ -12,3 +12,6 @@ In c I take gavyā́as part of the frame, not the simile, because of the positio
 
 On vakṣáṇā- ‘belly’ as a pl. tantum, see comm. ad X.27.16.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -8,3 +8,6 @@ As with raśmíbhiḥ in I.132.5 I take raśmíṣu here as a temporal expr., co
 
 On vakṣáṇā- ‘belly’ as a pl. tantum, see comm. ad X.27.16.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

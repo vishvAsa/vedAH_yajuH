@@ -13,3 +13,6 @@ See disc. ad I.48.6.
 Since pāda c lacks a main verb, it could belong either with ab or with d. Ge takes it with ab, seeming to refer to VI.46.1 as a parallel, and the publ. tr. follows suit.
 
 On the basis of VI.25.6c with contrastive locatives of the stake, one of which is vṛtré (see comm. immed. above), I am now inclined to reassign it to d, with vṛtréṣu (c) and góṣu (d) the stakes. The revised tr. would be “… secured; to you … when obstacles (are at stake), to you when cows (are at stake) does the fistfighter look as he fights.”
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

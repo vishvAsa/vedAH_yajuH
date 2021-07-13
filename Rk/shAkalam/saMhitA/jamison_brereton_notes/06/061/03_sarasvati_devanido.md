@@ -9,3 +9,6 @@ Although I.93 is a hymn to Agni and Soma and there are no clear connections betw
 Although this is probably the default explan., I am drawn to Re’s more content-rich suggestion that utá sets up the contrast between the very different actions of c and d—though under that analysis we might expect a contrastively accented verb in c (*ávindaḥ), and, moreover, he gives no parallel passages in which utá has such a function.
 
 The hapless ‘them’ (ebhyaḥ) in d must be the ‘god-scorners’ (deva-níd-) of a, as is the general consensus.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

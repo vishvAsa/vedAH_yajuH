@@ -10,3 +10,6 @@ Pāda c also inaugurates the paradox that is most clearly expressed in d. Agni i
 
 What -- if anything -- this refers to naturalistically is unclear. The tendency among interpr. has been to take it as a reference to rain (see Ge n. 10d) or to some other celestial phenomenon (Lü 390), but I find Bloomfield’s suggestion (RR 213) more appropriate to the passage, that the fire, blazing up, “shoots out his flames from his bright udder; he, a bull, is thereby -- mirabile dictu -- also a pṛ̥çni, the heavenly, yielding cow, par excellence.” Bl also suggests that śukrá- here mean ‘semen’, with a zeugma of duduhe: “As a bull he hath spurted semen, as a Pṛ̥çni cow he hath milked his udder.”
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

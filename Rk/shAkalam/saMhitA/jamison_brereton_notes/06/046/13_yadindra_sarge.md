@@ -6,3 +6,6 @@ The form árvataḥ ends the first pāda of this vs. and the last of vs. 1, but 
 
 mahādhané is repeated from 4c.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/13-14.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

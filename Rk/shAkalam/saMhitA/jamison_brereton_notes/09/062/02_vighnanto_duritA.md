@@ -9,3 +9,6 @@ Note the juxtaposition of the opposites duritā́lit. ‘ill-goings’ (pāda a)
 ‘good-goings’ (pāda b), formed with two different verbs of motion (√i, √gā). It is difficult to capture this relationship in Engl. without awkwardness, as the literal tr. just given demonstrate.
 
 My tr. follows Ge in taking árvate parallel to tokā́ya “for our offsping and for our steed”; I am somewhat tempted to take árvate as an anticipatory parallel to gáve in 3a, with which it forms a more natural class (“making wide space for our steed and for our cow”), but I can’t see how to do that without brutally splitting up 2c, since kṛṇvántaḥ is required to govern sugā́in 2b.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -6,3 +6,6 @@ The first ritual application is that of the Atirātra or “Overnight” soma ri
 
 The similes are complexly intertwined: the frogs are compared to brahmins, but those hypothetical brahmins are then implicitly compared to frogs around a pond - in other words to the original target of comparison.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

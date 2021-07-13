@@ -12,3 +12,6 @@ For the loc. uraú see III.54.9 uraú pathí.
 
 For ghanéva see comm. ad I.63.5.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/16-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

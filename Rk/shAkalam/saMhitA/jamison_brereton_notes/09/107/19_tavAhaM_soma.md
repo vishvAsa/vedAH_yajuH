@@ -14,3 +14,6 @@ There are various suggestions about what to supply with purū́ṇi: Sāy. rák�
 
 In the last pāda it is Soma who is urged to “go past the barriers” (paridhī́n); we might have expected the poet to ask Soma for help in getting past them himself (but see next vs.). For Soma’s journey past the paridhī́n Ge and Re cite IX.96.11 paridhī́m̐r áporṇu “open up the barriers.” In both passages the paridhí- are presumably obstacles to Soma’s progress on his ritual journey, perhaps the tufts of the fleece filter.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/19-20.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

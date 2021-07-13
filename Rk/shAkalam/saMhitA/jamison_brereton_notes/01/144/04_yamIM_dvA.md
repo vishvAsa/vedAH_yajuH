@@ -6,3 +6,6 @@ The phrase dívā ná náktam is universally taken as “by night as by day” (
 
 I render the verb in this clause as preterital, in keeping with the Pp. reading yúvā ajani. However, to match the presential saparyátaḥ of pāda a and the generality of the statement about his birth it would be possible to read (without emending the Saṃhitā text) yuvā jani, with an injunctive, which could have presential/timeless sense: “he is born …”
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/144/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -8,3 +8,6 @@ As I indicated in the publ. intro., I think the unexpressed subj. is the soma ju
 
 This enemy is identified as the “black skin” (kṛṣṇā́m … tvácam). For this phrase as a designation of non-Ārya “without commandments” (avratá-) see I.130.8 and IX.73.5 (in the latter tvácam ásiknīm; see above). The term avratá- is found in the next vs. (2c).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/041/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

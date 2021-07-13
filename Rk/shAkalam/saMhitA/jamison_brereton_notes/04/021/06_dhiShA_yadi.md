@@ -16,3 +16,6 @@ As indicated in the publ. intro. I take auśijá-, the vṛddhi deriv. of uśíj
 
 On the problematic duróṣāḥ (here apparently an -s-stem, as opposed to the thematic stem found in the two other occurrences), see comm. ad VIII.1.13.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

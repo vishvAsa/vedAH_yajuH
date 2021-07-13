@@ -17,3 +17,6 @@ Now recall that in 141.11 I wanted to see a similar passive value in the final t
 yatáḥ to contrast with act. transitive yámati. But in 144.3, because of the dual value of ayaṃsta, both transitive and passive, it is not necessary to supply anything, but simply to read the verb twice, once each with each occurrence of sám. I therefore think that 144.3 reinforces my interpr. of 141.11 and that, in turn, 141.11 supports my double reading of 144.3.
 
 Note that Old in SBE follows the syntactic division at pāda boundary in our 3cd, but in the Noten explicitly changes his view, taking asmád ā́with what follows as I do. I cannot follow his interpr. thereof, however: “Agni lenkt die Fahrt zu uns hin.”
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/144/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

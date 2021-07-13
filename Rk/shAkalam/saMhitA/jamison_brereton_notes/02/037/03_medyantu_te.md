@@ -6,3 +6,6 @@ Although the default referent of the voc. vanaspate in a ritual context might be
 
 Note that the havirdhāna carts are the subject of the last tṛca of nearby II.41 (vss. 19- 21).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -8,3 +8,6 @@ On ukhachíd- see Scar (131).
 
 Unfortunately I have nothing further to say about the sense of this vs. I have toyed with the possibility that there’s a ritual reference here, to the taking out of the offering fire from the householder’s fire and its removal to the east. But, though there might be rough correspondence -- very rough -- between the first and third parts, the middle part with the blind man and the snake doesn't work at all, as far as I can see.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

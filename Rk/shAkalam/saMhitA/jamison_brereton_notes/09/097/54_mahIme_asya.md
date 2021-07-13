@@ -35,3 +35,6 @@ Pāda d displays pleasing phonological play: cā́pāmítrām̐ápācíto acetá
 cleverly designed because of the discontinuous verb ápa … aca - the impv. aca needing to be extracted from acetáḥ (= aca itáḥ ‘turn away from here’). This acetáḥ looks superficially as if it belongs to the stem acetás- ‘unperceptive’, but it does not.
 
 That sense, and the same privative+√cit, is found instead in the negated rt noun cmpd. acít- in the acc. pl. The pāda provides an exceptionally tricky end to a dazzlingly frustrating tṛca.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

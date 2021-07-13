@@ -8,3 +8,6 @@ If the underlying narrative really does involve transporting spilled semen in a 
 
 I take drapsáṃ skannám as a nominal clause, rather than taking cd as a single clause with drapsáṃ skannám coreferential with tvā.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/033/10-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

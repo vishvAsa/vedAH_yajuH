@@ -6,3 +6,6 @@ The first hemistich introduces a note of aggression, but this quickly dissipates
 
 I do not understand the doubling of abhí in pāda c, esp. since abhí seems to add little to this idiom.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

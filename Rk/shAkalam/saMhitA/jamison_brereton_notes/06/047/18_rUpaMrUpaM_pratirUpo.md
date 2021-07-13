@@ -12,3 +12,6 @@ Ge thinks the form in b is Indra’s true form, to be recognized behind the vari
 
 Each constituency is shown a different form—hence the āmreḍita rūpáṃ-rūpam in a and the thousand horses in d, which presumably take each different form of Indra in a different direction.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

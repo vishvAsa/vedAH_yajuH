@@ -6,3 +6,6 @@ Ge (followed by Klein, DGRV I.242, II.108) takes pāda c as a subordinated condi
 
 Then we two will keep smiting obstacles in abundance.”
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

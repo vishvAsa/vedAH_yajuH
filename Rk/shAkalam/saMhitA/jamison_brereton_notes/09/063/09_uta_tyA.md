@@ -9,3 +9,6 @@ Pāda b of this vs., sū́ro ayukta yā́tave, consists entirely of words repeat
 The third pāda (índur índra íti bruván) presents another set of problems: how much of what precedes íti is part of the direct speech and what is the content of the speech? See Old’s clear formulation of these questions. The standard solution is to take the speech as including both words preceding íti and to take it as a statement of identity; e.g., Ge’s “Der Saft ist Indra” (sim. Old, Lü 216 n. 4, Klein DGRV I.407), in part on the basis of a similar TB statement (see Ge n. 9c), though I don’t think this late parallel should be given much weight. Moreover, IX.6.2 índav índra íti …, with voc. índo outside of the quotation, shows that the ‘drop’ word does not have to be included in the quotation here. In addition, the sandhi of índra íti is ambig.: it can represent nom. índraḥ with the Pp (and the standard interpr.), but it could also be loc. índre, the choice made by Re (“… en disant « c’est bien (pour aller) à Indra »”). In conjunction with the journey theme of this tṛca, I find this interpr.
 
 quite appealing and have adopted it.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

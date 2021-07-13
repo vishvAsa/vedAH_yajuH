@@ -18,3 +18,6 @@ Ge takes the 2nd hemistich as the words of Saramā, an interpr. I accept both be
 
 Verse-final gṛṇānáḥ has an exact match at the end of vs. 1, and this bit of ring composition signals that this section of the hymn is finished. In the next section we move on to the Kutsa / Uśanā Kāvya story.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/016/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

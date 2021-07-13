@@ -8,3 +8,6 @@ The three adjectives, tveṣám, tuviṣváṇi, and anarvā́nam, must qualify 
 
 form. Moreover, a proper neut. acc. to this stem would be *anarvá, which almost fatally obscures the 2nd member of the bahuvrīhi. The same substitution of masc. acc. anarvā́nam for expected neut. *anarvá- is found with the very same neut. acc. referent śárdho mā́rutam in I.37.1; cf. comm. there. The expected neut. NA presumably underlies the them. adj. anarvá-; see comm. ad I.185.3. Ge’s and Re’s strategy of taking anarvā́ṇam as only modifying Puṣan (e.g., Ge “den unerreichten Pūṣan, der …”) is thus both unnecessary and probably wrong, given its application (not in a simile) to the Marut troop in I.37.1.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

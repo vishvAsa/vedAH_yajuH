@@ -7,3 +7,8 @@ Although the adjacency of pṛ́ṣatībhir áśvaiḥ might seem to lend creden
 Pāda c is cleverly constructed: ā́paḥ ‘waters’ would be a perfectly acceptable subject of the following verb riṇaté ‘flow, dissolve’, but it is “bound” to kṣódante with the accent on riṇaté making the syntactic break clear. But the real subject of riṇaté, vánāni ‘trees’, is a much less appropriate subj. than what preceded.
 
 VIII.7.26, adduced by Ge, makes it clear that Heaven is roaring with fear, but the roaring must also represent thunder.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

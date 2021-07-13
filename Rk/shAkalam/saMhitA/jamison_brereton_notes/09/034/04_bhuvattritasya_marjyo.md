@@ -11,3 +11,6 @@ yád góbhiḥ ... samajyáse, IX.72.1 sáṃ dhenúbhiḥ ... ajyate; without s
 
 The publ. tr. does not reflect the possible pun on sám … ajyate that was noted in
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/034/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

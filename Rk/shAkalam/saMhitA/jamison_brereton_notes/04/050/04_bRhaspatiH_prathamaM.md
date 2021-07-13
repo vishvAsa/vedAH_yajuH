@@ -8,3 +8,6 @@ As usual, numerology is difficult to interpr. I think Ge is correct that the sev
 
 Ge suggests the seven reins of the sacrifice; I prefer the seven seers, who are, in my opinion, the referents of the phrase saptá raśmáyaḥ in the enigmatic I.105.9 (see comm. ad loc.). This would provide Bṛhaspati with two different connections to poetic speech, appropriately enough.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

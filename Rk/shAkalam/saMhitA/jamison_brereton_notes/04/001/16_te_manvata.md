@@ -11,3 +11,6 @@ On vrā́- see comm. ad VIII.2.16 and Jamison 2003 (= “Vedic vrā́: evidence 
 Siamak Adhami], 2003, pp. 39-56).
 
 Because of its accentuation yaśásā should be adjectival; the question is what head noun to supply. Flg. Lü (Varuṇa, 521, also fld. by Hoffmann, WG), I supply ‘name’, which appears in pāda a and appears to be the topic of the rest of the vs. Ge and Old prefer ‘milk’, but this is contextually less likely.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

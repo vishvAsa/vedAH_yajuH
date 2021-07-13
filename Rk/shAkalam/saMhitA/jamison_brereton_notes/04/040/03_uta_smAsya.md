@@ -14,3 +14,6 @@ As both Ge and Old point out, the parṇám ‘wing, feather(s)’ in the simile
 
 I follow Schaeffer (Intens. 131) in taking aṅkasám as referring to the curving racetrack rather than, with some, as a curvy part of a horse. Since áṅkāṃsi in the next vs. clearly refers to the racetrack, it’s unlikely that a related word would have an entirely different referent in such close proximity.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

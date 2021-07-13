@@ -8,3 +8,6 @@ The publ. tr. renders the first cmpd. as “by those of true insight,” implyin
 
 Old wants to emend índraḥ in d to voc. indra, to allow soma to be the subject of yodhat as it is of the rest of the vs., and he points to this same voc. indra at the end of the next hemistich (3b). However, it is hard to see why the first of two identical forms would be redactionally altered to be different from the second, and the shifting conceptual boundary between soma and Indra as agents in this sequence makes the transmitted text unproblematic, as Old also admits.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

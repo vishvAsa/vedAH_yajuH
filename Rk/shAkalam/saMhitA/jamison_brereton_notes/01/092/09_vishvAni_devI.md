@@ -8,3 +8,6 @@ cákṣuḥ in b can be either nom. or acc. Most tr. take it as the latter, with
 
 I’m not entirely sure what pāda d refers to, but perhaps it means that by dawning she has stimulated ritual speech and therefore “finds” it.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

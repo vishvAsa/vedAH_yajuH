@@ -16,3 +16,8 @@ The complex is then to be rendered ‘having a good husband in the house’ vel 
 
 Alternatively Ge (n. 7d) suggests that it might be a metathesis of *su-daṃpatnīḥ (given without accent), which seems quite unlikely. Although I think the form plays off dámpati-, I am still inclined towards the ‘wondrous’ interpr., because of the deeds that have just been ascribed to Indra.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -9,3 +9,6 @@ Ge seems to take gṛbhṇīta as opt. (which, of course, it can be), but this r
 bharat conjoined by ca (see Klein, DGRV I.233). The publ. tr. takes both verbs as preterital injunctives, but I would now be inclined to see them, with KH (Injunk.
 
 124), as general presents describing a regularly recurring situation: Indra’s behavior when(ever) he is under the influence of soma. Hence “he grabs … and he carries …” On the phrase sám apsujít, which constitutes an independent 4-syl. pāda in all 3 occurrences (here, VIII.13.2, VIII.36.1-6), see comm. ad VIII.13.2 and Scar’s views cited there.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

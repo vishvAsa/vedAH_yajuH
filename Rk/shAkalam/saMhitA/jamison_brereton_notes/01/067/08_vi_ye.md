@@ -6,3 +6,6 @@ The verb ví … cṛntánti lacks an overt object, and several different ones h
 
 The pf. prá vavāca is one of the very few pf. forms to √vac with full reduplication (against uvā́ca, etc.). On the basis of its agreement with Aves. vauuac-, Kü (p. 441) considers this the older type of reduplication, with the newer type spreading from Samprasāraṇa roots.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/067/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

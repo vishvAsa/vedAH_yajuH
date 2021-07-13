@@ -10,3 +10,6 @@ The med. part. huvāná- is ordinarily passive in value; pace Gr, only VII.30.3 
 
 This would of course make just as much sense; my choice is based on the usage of the preponderance of occurrences of the stem.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

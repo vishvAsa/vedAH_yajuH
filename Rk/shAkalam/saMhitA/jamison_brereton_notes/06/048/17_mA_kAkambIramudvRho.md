@@ -32,3 +32,6 @@ There are a couple of grammatical loose ends in this extremely loosely construct
 
 To lay out my reasoning in detail is, I realize, not necessarily to convince -- but at least there is reasoning every step of the way. I challenge other interpr. to provide the same!
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

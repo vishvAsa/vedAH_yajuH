@@ -12,3 +12,8 @@ The pṛkṣám of d should not be severed from pṛkṣé beginning 4a, though 
 
 nourishment. The corresponding root noun pṛ́kṣ- has the same basic sense (see Schindler, Rt Noun, s.v.), but here in the dat. is used infinitively (so also Schindler, as well as the standard tr.). The phrase pṛkṣáṃ yātha may well be a syntagm, judging from the PN pṛkṣá-yāma in I.122.7 (adduced by Old), and the acc. appears to be a goal, contra Ge’s (/WG) rendering of pṛkṣám as an adverb (“kräftig”).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

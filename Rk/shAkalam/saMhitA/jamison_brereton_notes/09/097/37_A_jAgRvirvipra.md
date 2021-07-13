@@ -16,3 +16,6 @@ víprāso matíbhiḥ, X.6.5 víprāso matíbhiḥ, X.25.10 matíṃ víprasya, 
 
 I therefore construe matī̃nā́m with vípraḥ in the publ. tr., as a loosely descriptive gen. In cd the phrase mithunā́saḥ … adhvaryávaḥ is taken by Ge (fld. by Re) as referring to the pair (or presumably multiple pairs, given the pl.) of Adhvaryu and Hotar. Although at least I.83.2, which he adduces for this sense, does seem to refer to that pair of two priests, in the dual, I think the pl. here instead refers to rivalrous priests at competing sacrifices, which must be implicit in Ge’s rendering, given the pl. They could be pairs of Adhvaryu and Hotar or (more likely in my opinion) just multiple Adhvaryus, each performing in a separate sacrifice.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/37-39.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

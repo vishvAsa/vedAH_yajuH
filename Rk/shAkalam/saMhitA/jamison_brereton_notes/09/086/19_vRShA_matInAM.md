@@ -16,3 +16,6 @@ On krāṇā́see comm. ad I.58.3. In addition to the adv. sense (‘successfull
 
 should be made, but I make the opposite choice to Ge’s. In the passage here I would supply ‘child’ as headnoun for síndhūnām and change the tr. to “Through his action, (the child) of the rivers …” There are several reasons for my change of heart besides a desire for consistency. For one thing krāṇā́is never elsewhere construed with a gen. For another, Soma is otherwise the sole subj. of ávīvaśat and doesn’t need any assistance in this action.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/19-21.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

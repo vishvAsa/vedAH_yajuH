@@ -9,3 +9,5 @@ The tr. of divítmate also needs to be revised. I now tentatively accept the ana
 1918; see Re op cit.). In this particular case, since the wealth is presumably coming from heaven, not going there, a lit. tr. would be “greatly for wealth coming from heaven,” but “… for heaven-sent wealth” would be more idiomatic. The -mantsuffix seems pleonastic, as AiG II.2.877-78 points out, since the hapax divít- and divítmant- appear both to be adjectives in the same meaning and are found adjacent to each other in the same case in the one passage in which divít- is found (X.76.6).
 
 The reason for -mant- rather than -vant- is likewise unclear (see AiG II.2.882, 891).
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

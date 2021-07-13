@@ -10,3 +10,6 @@ Kü (251) takes ví didyutaḥ as intrans., not trans.-caus. (in his terms, “i
 
 The simile in d svàr ṇá “like the sun” is perfectly ambiguous. It can be nominative, compared to Agni, the subject of ví didyutaḥ, as an entity that makes the dawns shine. (Given the temporal proximity of dawn and sunrise, this causal connection is perfectly in order.) Or Agni can make the dawns shine forth like the sun, with the simile in the acc. In 8b and 10d the same simile is in the nominative, but I do not think this is a sufficient reason to impose the same analysis here.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/002/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

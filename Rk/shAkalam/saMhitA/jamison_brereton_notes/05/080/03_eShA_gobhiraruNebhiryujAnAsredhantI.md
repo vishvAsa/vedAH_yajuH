@@ -13,3 +13,6 @@ This does not bother Ge or Re, who tr. the two acc. pls. together in the rel. cl
 There are two ways I can see to do this -- 1) take sá étaśaḥ as a parenthetical interjection within the relative clause, which otherwise occupies all of cd: “Who measured out the earthly spaces -- he is Etaśa! -- with his greatness -- god Savitar …” or 2) to keep the rel./corr. structure but fold étaśaḥ in as unmarked identification / simile: “Who measured out the earthly (spaces), he, (like/as) Etaśa, measured out the (heavenly) spaces with his greatness: god Savitar.” I prefer the latter, because it allows us to supply ‘heavenly’ in the main clause, and surely the point of contact between Savitar and Etaśa in this context is that Etaśa crosses the heaven daily, “measuring it out,” as he pulls the sun’s chariot. Etaśa as a measurer of earthly spaces makes little sense. I would therefore emend the publ. tr. to the 2nd alternative.
 
 That Savitar is identified with Etaśa in one of his aspects may be supported by the explicit identifications with other figures in the next two vss.: mitró bhavasi (4d), pūṣā́bhavasi (5b).
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

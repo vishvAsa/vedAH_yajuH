@@ -6,3 +6,6 @@ The standard tr. (Ge [/WG]) take viyóṣat as intransitive, a view argued for b
 
 Note that tanūpā́ḥ picks up 7d tanvò bodhi gopā́ḥ.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/016/20-21.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -16,3 +16,6 @@ Ge tr. nirṇíjam … yayúḥ as “Staat machen” (make a show), based, he s
 
 The infinitival usages he cites are mostly the dat. nirṇíje (which, in all quoted cases, I take as a noun) and he is uncertain about the usage of this acc. ex. But since the analysis just proposed of yád *ī provides us with an acc. obj., infinitival usage seems best here.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

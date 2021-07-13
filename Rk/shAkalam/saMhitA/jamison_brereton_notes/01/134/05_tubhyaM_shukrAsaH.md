@@ -16,3 +16,6 @@ The problem with ‘drink’ of course is that this root makes a root aorist, no
 
 I take the two abl. in fg in different senses: víśvasmād bhúvanāt as a temporal expression, but asuryā̀t as causal.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -8,3 +8,6 @@ On sácā see comm. ad vs. 4.
 
 Pāda d contains a fine sequence of alliterative sibilants of all three types: ṣaṣtíṃ sahasrā śácyā sácā han.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

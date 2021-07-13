@@ -12,3 +12,6 @@ yā́man reprises the same word in 1c, though they have somewhat different meani
 
 Although nom. pl. dyā́vaḥ ordinarily refers to ‘heavens’, in this case the context clearly establishes the meaning ‘days’.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

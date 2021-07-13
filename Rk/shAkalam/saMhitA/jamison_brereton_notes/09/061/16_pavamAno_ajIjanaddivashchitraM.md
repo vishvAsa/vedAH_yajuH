@@ -10,3 +10,6 @@ ad IX.57.3. Re takes the whole of b as a simile, with the “thunder” matching
 
 This is certainly possible, though it is not the soma pressing that ordinarily kindles the ritual fire. I prefer to take it more generally as shared light, perhaps localized as the sun, which would continue the heavenly theme of pāda b. Alternatively, this pāda, which is entirely in the neuter, may be nominative not accusative and refer to Soma himself. This interpr. may be favored by the matching pāda at the end of the tṛca, 18c jyótir víśvam svàr dṛśé “(as) light for everyone to see the sun,” where the soma sap—that is, soma itself—is identified as this light. I would therefore suggest an alternative tr. of pāda c here: “(he) the lofty light belonging to all men.”
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

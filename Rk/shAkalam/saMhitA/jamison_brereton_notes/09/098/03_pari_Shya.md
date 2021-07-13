@@ -6,3 +6,6 @@ The transmitted akṣā at the end of pāda a before i- should have appeared as 
 
 The simile in d has the same structure as the one in 2b: gapped nominative target whose identity is signalled by an adjunct, in this case bhrājā́‘with flame (/flash/light)’ - most likely pointing to Agni (Ge, Re [tr.], Ober [II.56]), though possibly Sūrya, who is also associated with forms of the root √bhrāj (alt. given by Re in his n.).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/098/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

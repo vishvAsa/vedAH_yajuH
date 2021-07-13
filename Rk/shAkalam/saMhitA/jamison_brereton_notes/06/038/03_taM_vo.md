@@ -10,3 +10,6 @@ My “puts strength in Indra” reflects the transitive periphrasis I see in thi
 
 The syntactically clearer forms of act. várdha- in the next vs. can be viewed as a type of poetic repair.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -6,3 +6,6 @@ The idiom punar √vṛdh ‘grow again’ recurs from 2b, again referring to th
 
 The final pāda is variously interpreted. I take the plants still to be the subject and the form “different from their parents” refers to their burned residue as ash and cinders, as opposed to the branches and leaves that were fed to the fire. But if pitróḥ is taken as a loc., the referent may be different; some take it as referring to Heaven and Earth (Sāy, Old [SBE], WG).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

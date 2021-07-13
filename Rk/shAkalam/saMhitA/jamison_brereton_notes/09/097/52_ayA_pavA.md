@@ -12,3 +12,6 @@ VII.44.3 also contains the word bradhná- ‘copper-colored’, found here in p�
 
 In d both Ge and Re take the hapax táku- as referring to a horse (Renner, coursier), the same one they see as the reference of bradhná- in c. Ge seems to think d involves giving this horse a sort of superior groom (“ein tüchtiges Lenker”), with dat. tákave the indirect obj. But as was recently noted (ad vs. 49), nṛ́- in the sg. is almost always used of Indra, and I think it is here as well. Soma, by virtue of being consumed by Indra at the sacrifice, brings Indra to the sacrifice and in effect bestows him upon the human worshipers, and he does so for a particular purpose. I take tákave as an infinitival dative of purpose: ‘to (make the) charge, to rush’ - Indra in his capacity as our supporter in conflict. Old considers, but rejects, such an infinitival interpr., in favor of what he considers the simpler indirect obj. with √dā.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

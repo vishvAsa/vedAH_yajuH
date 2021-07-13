@@ -13,3 +13,6 @@ I take the phrase giríbhya ā́as expressing the freeing of the odanám from th
 
 “all the way to,” though in that sense the ablative usually follows (see Gr s.v. ā́), hence “He pierced the boar all the way to/through the mountains.” As noted ad vs. 5, bundá- is reminiscent of (a)budhná- in the immediately preceding mysterious Gandharva verse.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

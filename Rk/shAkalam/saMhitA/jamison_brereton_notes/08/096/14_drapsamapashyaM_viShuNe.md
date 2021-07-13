@@ -7,3 +7,8 @@ The final word in a, enā, is taken as enāḥ by the Pp., a reading followed by
 Pāda b collects several words that have been prominent in the characterization of Indra earlier in the hymn: ójasā (ójiṣṭham 10d), śaviṣṭha (śavasas pate 6b, śávasā 9c), and śakra (śakra 4a). It is esp. clever that the grammatical identities of the first two terms have been switched: s-stem instr. to superlative and vice versa.
 
 Note that though cd forms a single clause with two different subjects (“all the worlds” and “heaven and earth”), the dual verb rejete agrees with the nearer one, the decomposed dual dvandva dyā́vā … pṛthivī́ca.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/14-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

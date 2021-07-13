@@ -18,3 +18,6 @@ As for verse-initial úpa, elsewhere in IX it's almost always used with a verb o
 
 This interpr. seems to me to provide a more satisfactory account of the vs. than the other alternative. However, it has one major drawback: the yád clause of b is embedded within the main clause, which occupies pādas a, c (/d). If I follow this interpr., there is no way of avoiding this violation of standard practice, whereas in the Ge/Re/Klein interpr. yád gúhā padám is a nominal cl., which is permitted internally. Weighing the two alternatives, I still find myself inclined to my own, though I don’t have an explanation for the problematic embedding. That there appears to be a parenthetic inserted clause in the next vs. may indicate that this hymn is somewhat more lax about the combination of syntactic units than we usually meet with.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/102/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

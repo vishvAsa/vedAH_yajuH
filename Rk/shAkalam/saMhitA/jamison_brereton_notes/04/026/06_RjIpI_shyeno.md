@@ -8,3 +8,6 @@ Three of the four cadences in this verse are bad (b, c, d).
 
 Goto (1st Kl, 171-72, flg. Wackernagel) argues that the thematic middle dádate is synchronicially distinct from √dā 'give' and means 'keep safe'. My ‘hanging onto’ represents a compromise between such a rendering and ‘take’, the standard sense of medial (ā́) √dā (see 7a ādā́ya).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

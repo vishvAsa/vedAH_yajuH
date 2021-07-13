@@ -7,3 +7,6 @@ The unclear reference just noted is found in the first word of the hymn, 3rd sg.
 The subject of cd is also left unspecified; again I assume Agni: if he is embarking upward in ab, then the journey (yā́man) in c is most likely his, though Ge supplies Indra. The only nominative attribute, sudā́nuḥ, is no help, as it is used of Agni and Indra about equally. What I take from the uncertainties of reference in this vs. is that the poet wants to keep us guessing.
 
 The pāda-final splv. citrátamaḥ produces a bad Triṣṭubh cadence. There is no obvious way to fix it, and the other 5 instances of this stem are found elsewhere in the line, where they work metrically.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -6,3 +6,6 @@ It is somewhat curious that the hymn begins with the expression “I have set lo
 
 As Ge (and Re) point out, ‘well-ornamented’ (supéśas-) of hymns means not only poetically skillful but also receiving adequate recompense from the gods; cf. vā́japeśas- ‘having prizes as its ornament’ in the preceding hymn (II.34.6), esp. in conjunction with vājayúḥ ‘seeking prizes’ in our pāda a.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

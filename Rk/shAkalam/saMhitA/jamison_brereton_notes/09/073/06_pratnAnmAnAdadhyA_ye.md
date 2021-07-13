@@ -14,3 +14,6 @@ VI.56.4), though the case is not overwhelming, given the semantic independence o
 
 Since ślókayantra- also works better if it applies only to one part of the subject, namely the soma streams, I now think that pāda b involves a non-overtly conjoined NP: “those with a signalling call for their reins [=soma streams] (and) the counselors [=priest=poets] of the wild one [=Soma].” I would therefore emend the tr. to what was just suggested. This is the closest we have come to specifying who the subj. of the repeated verb is, though both NPs are so opaque that nothing much is given away.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -6,3 +6,6 @@ The overlapping identities of Agni and his worshiper are indirectly signaled in 
 
 (There are a few other undoubted transitive occurrences: I.143.7, VII.9.6.) The combination of this participle and a form of púṣya- as here, with Agni as subj., is found in V.26.6 samidhānáḥ sahasrajid ágne dhármāṇi puṣyasi. Similarly sacate in d seems to match sácase at the end of the last hymn (IV.11.6), but Agni was the subject of that verb. The point here is that, though the second hemistich must in fact refer to the mortal worshiper, some of the phraseology invites a superimposition of Agni.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

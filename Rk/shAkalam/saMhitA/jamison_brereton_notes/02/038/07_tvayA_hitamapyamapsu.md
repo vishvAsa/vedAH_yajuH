@@ -8,3 +8,6 @@ The problem in 7a is bhāgám: it is tempting to tr. “the watery (race) has be
 
 The asya in pāda c anticipates devásya savitúḥ in d - perhaps better to tr. as Ge does: “… diese seine Gebote, des Gottes Savitar.” This doubling may have arisen because the clause begins in the middle of a pāda and continues over the pāda break.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/038/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

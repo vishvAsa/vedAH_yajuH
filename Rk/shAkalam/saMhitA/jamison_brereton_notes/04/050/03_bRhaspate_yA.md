@@ -6,3 +6,6 @@ Ths vs. also contains phonetic echoes of Bṛhaspati: ṛtaspṛ́ś(o) (b) and 
 
 As Ge’s cited parallels make clear, pāda b concerns the Sattra that the Aṅgirases performed.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

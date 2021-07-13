@@ -8,3 +8,6 @@ Ge (explicitly n. 2b) considers ṛtayúj- here as having a different sense from
 
 the other three instances of ṛtayúj- (incl. our vs. 4), all modifying ‘horses’, with the anodyne ‘wohlgeschirrten’, as opposed to our vs. 2, which he renders ‘der Verbündete des Ṛta’ -- in other words, implicitly following Ge’s differentiation. I would alter the publ. tr. from “whose yoke is truth” to “yoked with truth,” as in vs. 2.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

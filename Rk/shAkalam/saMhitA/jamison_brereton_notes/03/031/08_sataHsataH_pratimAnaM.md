@@ -16,3 +16,6 @@ This interpr. allows, but does not enforce, a coreferential interpr. of naḥ (c
 
 What calumny? Ge (n. 8d) suggests the dishonor because of the loss of the herd.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -6,3 +6,8 @@ aryáḥ is morphologically multivalent; I take it as nom. sg. to aryá-, with m
 
 apā́m when the god is mentioned (1c, 2c, 3d).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

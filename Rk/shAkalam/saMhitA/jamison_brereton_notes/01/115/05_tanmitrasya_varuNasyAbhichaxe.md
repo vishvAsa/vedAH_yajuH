@@ -10,3 +10,6 @@ same idea as “the eye of M+V” in 1b, “so that M+V can see (the world).” 
 Thus we can construct a consistent and convincingly naturalistic interpr. of these two verses as referring only to sunrise, without the dubious baggage of the “night-sun.” The second of the two verses, which is the last real verse of the hymn, also forms a ring with vs. 1: not only is the sun identified as the eye/sight of Mitra and Varuṇa (1b, 5a), but the “brilliant face” (citrám … ánīkam) of 1a is reprised by the “gleaming surface” (rúśat … pā́jaḥ) of 5c.
 
 [I.116-20 JPB]
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/115/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

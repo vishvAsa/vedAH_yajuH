@@ -19,3 +19,6 @@ Kü (99, 570) has a very diff. interpr. of the vs. In the first hemistich he tak
 
 In b the pf. siṣicatuḥ has a retroflexed root init., as we would expect. But the other two forms of the pf. in the RV (sisicuḥ II.24.4 and sisice III.32.15) do not. I have no explanation for the discrepancy.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/033/10-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

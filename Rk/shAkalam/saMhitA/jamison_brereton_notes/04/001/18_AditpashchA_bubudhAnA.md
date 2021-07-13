@@ -8,3 +8,6 @@ I interpr. the “treasure apportioned by heaven” (rátnam … dyúbhaktam) to
 
 In d I supply the treasure (in the form of light) as the subj. of satyám astu (so also Hoffmann). This VP should be interpr. in the context of santi satyā́in 7a. See comm. there.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

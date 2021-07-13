@@ -6,3 +6,6 @@ The main cl. begins in the middle (or rather towards the end) of pāda c, with �
 
 satrā́reappears once again (cf. 2d, 3a).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

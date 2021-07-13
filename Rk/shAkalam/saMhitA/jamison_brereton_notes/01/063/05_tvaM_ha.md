@@ -18,3 +18,6 @@ as a past tense, in keeping with its rendering in the first hemistich, but it wo
 
 In d ghanéva contains the old instr. ghanā́. The same phrase is found in
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

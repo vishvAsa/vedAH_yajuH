@@ -6,3 +6,6 @@ The third truth-formulation vs. sets up the Vala myth as the model for the comin
 
 Despite the injunctives of pāda a (vy àsan) and c (pári ṣadan), I am tempted, with Gr, to read anavanta in b, to produce 11 syllables. (Consider the augmented impf. in d, abhavat.) Old (Noten) considers this restoration possible but not necessary. Hoffmann (Injunk., 209) gives a typical treatment of the vs. in his interpretational system, assuming an injunc. navanta in b.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -16,3 +16,6 @@ Whether Ge, Re, and/or Klein were influenced by Old’s arguments or not, they a
 
 My own interpr. is identical to Old’s first pass, with impv. mumuktam and a supplied ‘me’ as obj., parallel to átrim in the simile. As for the second verb, I follow Gotō (1st Kl., 163 n. 258) in taking tū́rvataṃ narā as a parenthetical clause. This allows the abl. phrase at the end of d, duritā́d abhī́ke “from difficulty at close quarters,” to be construed with mumuktam, parallel to the abl. mahás támasaḥ “from great darkness” in the simile. However, if the parenthetical interpr. seems too awkward, it might be possible to take d as a single, separate cl.: “be victorious from difficulty at close quarters,” though tūrv seems not to take an abl. elsewhere.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

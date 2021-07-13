@@ -19,3 +19,6 @@ And another well-established referent is ‘waters’ (VII.49.2, 103.2; cf. X.98
 My interpr. of the final pāda differs from the standard, which takes deváḥ savitā́as solely constituting the simile: “he uncovers a desirable thing like god Savitar.” But this seems pretty flat. Moreover, the simile particle ná is to the left of both parts of the putative simile ( … ná deváḥ savitā́). A better constructed simile would include the portion to the left of ná, namely vā́ram. And I think it does: in my view vā́ram is a perfect pun; the word means both fleece (filter) and desirable object.
 
 In the frame, the first reading is the filter: Soma uncovers the fleece - that is, the juice passes beyond it; “desirable thing” is the reading in the simile, and in fact a 2nd reading in the frame. The tr. should be slightly emended to “He uncovers the fleece (/desirable thing) as the god Savitar uncovers a desirable thing.”
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

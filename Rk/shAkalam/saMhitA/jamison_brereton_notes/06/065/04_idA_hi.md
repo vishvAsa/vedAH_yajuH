@@ -16,3 +16,8 @@ Gr (and Lub) assign ukṣámānāḥ to √ukṣ ‘sprinkle’, but ‘grow’ 
 
 Our problematic expression may have spawned the two ánu forms (in c and d) from áyā nú. The first is in the familiar expression ánu jóṣam (II.21.3, etc.) “according to / at pleasure”; the latter I construe with tanvàm (cf. I.147.4 ánu mrk̥ ṣīṣta tanvàm, with similar discontinuity). Neither √vakṣ / ukṣ nor √mṛc otherwise ánu.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

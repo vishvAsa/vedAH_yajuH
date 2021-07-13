@@ -9,3 +9,6 @@ The acc. supraketám in pāda a is taken by some (e.g., Old, Macdonell, Schmidt)
 The acc. phrase in c refers to the Vala cave and is the obj. of abhí … tatasré in b. The head-noun ūrvá- ‘container, enclosure’ refers to the cave itself, but the three adj. pṛ́ṣantaṃ sṛprám ádabdham “dappled, glossy, uncheatable” are better applicable to its contents, the cows. Note the mirror-image phonetic figure beginning c: pṛ́ṣ(antaṃ) sṛp(rám), which contains partial anagrams of Bṛhaspati.
 
 The “future impv.” rákṣatāt in d is somewhat surprising, in that it does not follow a previous impv., as is usual. I take it to imply that Bṛhaspati should do his guarding after the Aṅgirases have breached the cave and released the cows. For another unexpected future impv. see nearby suvatāt in IV.54.3
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

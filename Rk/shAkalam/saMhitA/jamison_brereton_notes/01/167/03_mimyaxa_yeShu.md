@@ -10,3 +10,6 @@ But I take úparā as meaning ‘nearer, very close’ (so approx. Re) and the p
 
 Hoffmann (194-95, fld. by WG) sees sáṃ vā́k as a new, separate clause (“Dabei ist die Vāc.”). Although I don’t entirely understand the position and function of sám, I do not think making these last two words into an abrupt appendage works well.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

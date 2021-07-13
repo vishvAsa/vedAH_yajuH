@@ -6,3 +6,6 @@ pūṣéva dhījávano ‘si soma, which is, of course, a good arg. But Pūṣan
 
 nṛ́- is almost always used of Indra, as are ratheṣṭhā́- and ratheṣṭhá-. I am therefore certain that c, like d, refers to Indra.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

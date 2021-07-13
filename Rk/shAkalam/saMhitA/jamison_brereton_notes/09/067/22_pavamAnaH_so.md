@@ -8,3 +8,6 @@ In the publ. tr. I take pavítreṇa in b with pávamānaḥ in a, unlike Ge and
 
 Sim. EWA s.v. pótar-.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

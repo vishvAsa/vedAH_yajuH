@@ -10,3 +10,6 @@ As Old suggests, in c priyā́is governed either directly or indirectly by the 2
 
 Parallel to the dative kāríṇe ná “as if to a victor” in the simile, we can assume “to us” vel sim. in the frame. So Ge.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/37-39.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -8,3 +8,6 @@ Pāda b poses problems: what is the disjunction signaled by vā; where does the 
 
 Ge, Re, and Ober take c with d. This is certainly possible, but I prefer taking it with b, to express the potential hazards and dirty-dealing facing our horses in this race.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/078/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

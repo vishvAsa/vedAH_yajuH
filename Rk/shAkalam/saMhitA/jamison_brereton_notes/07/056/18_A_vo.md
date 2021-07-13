@@ -10,3 +10,6 @@ In c both Ge and Re supply ‘sacrificer’ with gen. ī́vataḥ ‘such’, wh
 
 gopā́- ‘herdsman’ is regularly construed with ṛtásya ‘truth’ (e.g., I.163.5, III.10.2), so perhaps that phrase is meant, anticipating ádvayāvī ‘without duplicity’ in d. Note that the gopā́- is also ádabdha-/ ádabhya- ‘undeceivable’ (e.g., II.9.6, X.25.7).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/056/18-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

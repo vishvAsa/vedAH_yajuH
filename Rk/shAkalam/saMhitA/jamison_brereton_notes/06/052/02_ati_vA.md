@@ -8,3 +8,6 @@ Old, Ge, and Re all take vṛjinā́ni as a nominalized adjective (“seine Fals
 
 (‘twisted [ways]’) and as an adj. ‘twisting’ characterizing the flames. In this way the punishment fits the crime. Note that vṛjiná- was used twice in the preceding hymn, VI.51.2, 13.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

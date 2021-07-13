@@ -10,3 +10,6 @@ What I don’t understand in this pāda are the preverb/adposition/adverb ā́an
 
 In c Ge and Re identify the horse neighing while being led as Agni; this would fit nicely with my hypothesis that b depicts the carrying of the Āhavanīya fire to the east, though neither of them takes b that way. Ge also identifies the bellowing cow of c as the Speech (vā́k) of d, which seems reasonable.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/173/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

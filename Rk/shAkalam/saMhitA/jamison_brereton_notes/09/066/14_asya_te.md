@@ -10,3 +10,6 @@ I do not know what the difference is between sakhyá- and sakhitvá-, or if any 
 
 In his endearingly crusty way, Bloomfield (RR ad IX.31.6) pronounces our vs. “arrant nonsense”: “pādas a and c, borrowed from good quarters, show that the stanza is irresponsible patchwork.” This seems rather harsh, but probably results in part from his interpr. of íyakṣantaḥ as the desid. of √yaj, rather than the now generally accepted derivation from √(n)aś; see comm. ad VI.21.3. Attributing it to √yaj produces a participial phrase in b that has nothing to do with sakhyé in a: “In thy friendship we, sacrificing with thy help, do we, O Indu, thy friendship crave” (Bl’s tr., which justifies his “arrant nonsense” judgment). Whereas a connection with √(n)aś sets out the reason we want your comradeship—we stand to gain from it—and makes ab a unified expression.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

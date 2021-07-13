@@ -8,3 +8,6 @@ The vs. begins with a most unusual sandhi: párītó ṣiñcatā. Ge (n. 1a; cf.
 
 Instead I think we must explain the retroflexion as an effect of the preverb pári. By far the greatest number of the retroflexed initials of this root occur immediately after pári, esp. the passive stem (pari) ṣicyá- (15 exx.), but also the ppl. páriṣikta- (8x); see also, in the next hymn (IX.108.7), our exact 2nd pl. act. impv. pári ṣiñcata. There is also retroflexion after the preverb ní (5+), and after the particles tū́(2x) and hí (1x). All of these are contact-induced, unlike our example, where the preverb is separated from the verb. Under these circumstances, there is ordinarily no retroflexion (see pári … siñcata X.32.5, pári … siktáḥ IX.97.15). However, here I think either the numerous exx. of pári √ṣic in IX (15+) imposed distant retroflexion here where it was phonologically unmotivated, or an unretroflexed initial was changed redactionally under the influence of pári ṣiñcata in the next hymn.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

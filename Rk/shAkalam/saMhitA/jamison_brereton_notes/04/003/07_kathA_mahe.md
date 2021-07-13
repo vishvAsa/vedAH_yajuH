@@ -17,3 +17,6 @@ recognize, there is no reason to substitute the god for his symbolic accoutremen
 
 Ge (n. 7d) points out the contrast between Viṣṇu as creator (c) and Rudra as destroyer (d).
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

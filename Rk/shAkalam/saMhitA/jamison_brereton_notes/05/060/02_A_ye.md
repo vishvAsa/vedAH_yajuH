@@ -7,3 +7,6 @@ The parallelism between the two loc. phrases pṛ̥ṣatīṣu śrutā́su (a) a
 The person changes between hemistichs from 3rd (ab: yé tasthúḥ) in the rel. cl.
 
 to 2nd (cd: voc. ugrāḥ … vaḥ) in the main cl.. This is hardly unusual in the RV. The standard tr. register this anacoluthon in various ways, WG most sharply, by supplying a main cl. for ab: “(Sie sind es), die …” and separating the two hemistichs into two sentences. This seems unnec.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/060/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

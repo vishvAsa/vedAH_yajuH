@@ -10,3 +10,6 @@ Vs. 15 also supports my interpr. in another way: kártā naḥ … sugám “mak
 
 (Re’s interpr. is overly complex; though he does find space for the asya, he does not deal with the accented verb. I won’t treat it further here.)
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

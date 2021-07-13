@@ -6,3 +6,6 @@ I do not understand the length in ūgrá- here and 10c. Lubotsky (2000 [“Vedic
 
 Indra adroitly manipulates the wording here to contrast his own solitary state with the Maruts’ collectivity: … mā́m ékaṃ samádhatta “… me alone together you…”
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

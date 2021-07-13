@@ -6,3 +6,6 @@ The root noun cmpd viśva-víd-, like other -víd- cmpds, is completely ambiguou
 
 The simile in c, sū́ryasyeva ná ráśmayaḥ, is redundantly marked, with adjacent simile particles iva ná. There is no structural reason for this; it must result from the attempt to fit the simile sū́ryasyeva raśmáyaḥ found elsewhere in trimeter verse (see nearby IX.69.6, also I.135.9, V.55.3, X.91.4) into a dimeter line. Or, to be more precise, to accommodate the fact that when a form of sū́rya- opens a vs. line, it does not show distraction to sū́r i ya-, in order to avoid placing a light syllable in 2nd position. In a dimeter line, in which this simile has to occupy the whole pāda, the failure to distract produces a 7-syllable line, and so ná was presumably added to fill the gap in the line. In a trimeter line that has the simile in initial position (with undistracted sū́ryasyeva), further material can be added at the end (so I.135.9, IX.69.6), and in a trimeter line where the simile follows the caesura, sū́ryasyeva can be distracted (so V.55.3, X.91.4) in that position.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

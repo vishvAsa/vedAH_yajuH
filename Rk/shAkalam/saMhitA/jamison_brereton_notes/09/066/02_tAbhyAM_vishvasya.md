@@ -8,3 +8,6 @@ Answering the first question is made difficult by the fact that this is the only
 
 This interpr. gives pratīcī́in c more content than the fairly empty renderings of Ge (“die sich (uns) darbieten”) and Re (“qui se tiennent face (à nous)”): Heaven and Earth as the two cosmic halves face each other.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

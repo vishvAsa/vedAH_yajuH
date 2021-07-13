@@ -7,3 +7,8 @@ In b ghóṣāt is morphologically ambiguous: it can be a subjunctive to the the
 interpr. of ghóṣāt, the gen. is dependent on that noun, but without that support it must find another role in the following clause (to which it must belong, because tanyati is unaccented and cannot start a new clause). With Ge (n. 2b) I take it as loosely construed with bruvāṇáḥ, though in a different sense from Ge’s “der sich zu Indra Bekennende” -- rather as the topic of the speech.
 
 As for the subject of ghóṣāt and tanyati, I think it anticipates the deváhūti- of c. This of course creates a problem of its own, in that bruvāṇáḥ should be fem. if deváhūti- is the referent. But given the poet’s general evasiveness about referents, I think in b we’re dealing with an as-yet-unidentified verbal product, which is then specified as deváhūti- (the same índra-hūti- of 1b) in c.
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

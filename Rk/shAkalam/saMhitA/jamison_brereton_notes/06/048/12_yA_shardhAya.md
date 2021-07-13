@@ -6,3 +6,6 @@ The publ. tr. renders dhúkṣata as if it were a subjunctive (“will milk out�
 
 could be used modally, but a presential “who milks out” might be better.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

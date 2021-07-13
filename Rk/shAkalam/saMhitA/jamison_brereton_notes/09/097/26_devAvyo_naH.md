@@ -8,3 +8,6 @@ The hapax in d, diviyáj-, has (at least) two possible meanings: ‘sacrificing 
 
 line, and these possibilities are disc. in more detail by Scar without a firm conclusion.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -9,3 +9,6 @@ The identity of the ‘water-grabber’ (uda-grābhá-) is unclear. The best sug
 His solution also does not mesh with passages like I.165.6 víśvasya śátror ánamam vadhasnaíḥ “I bowed with my weapons (those) of every rival,” which has the exact syntactic configuration of our passage.
 
 The expression in pāda c, “encompassing the glistening color,” presumably refers to Soma’s incorporating the gleaming white milk - rendered clearly, if nonliterally, by Ge’s “weisse Farbe annehmend.”
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -7,3 +7,5 @@ The final vs. of the hymn forms the outer frame of the omphalos structure with v
 Even the gods are dependent on our dawn sacrifice, and, reading further between those lines, our newly minted poet will have a crucial role in making that sacrifice succeed.
 
 The last hemistich has a curious etymological figure, repeated for emphasis: avatūtáye (i.e., avatu ūtáye) “let him help for help.”
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

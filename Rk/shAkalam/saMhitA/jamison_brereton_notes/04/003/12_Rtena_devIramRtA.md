@@ -10,3 +10,6 @@ stóbhati, and it is therefore impossible to determine its exact value -- includ
 
 808) argues against such a value, on the basis of the intrans. sense of the root, and I have followed him in the non-passive assessment. My tr. “beat a tattoo” reflects my sense that √stubh is associated esp. with rhythm. As for sárga-, lit. ‘surge, gush’, it can refer to the instant when the surge is released, hence here the start of a race.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -14,3 +14,6 @@ On the root affiliation of cakhā́da see EWA s.v. KHED and Kü (152-53), with l
 
 and the parallel I.93.4, with √muṣ ‘steal’: yád ámuṣṇītam avasám paṇíṃ gā́ḥ.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -8,3 +8,6 @@ injunc. ánu dāt in d as general pres. (e.g., “Jetzt sei … gepriesen; … o
 
 nūnám can instead draw attention to an immediate past action (“has [just] been wondered at”). And it seems preferable, if contextually possible, to take the two adjacent aor. injunctives in the same value.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -8,3 +8,5 @@ Still, I am somewhat unsatisfied by this interpr. On the one hand, as Klein poin
 
 *(waters/streams and) the rivers.” Strikingly svágūrta-, which occurs only 4x total in the RV, appears two vss. later (10c) in the same metrical position with the same
 sandhi form. It there modifies ápāṃsi ‘labors’. Is it too fanciful to suggest that that phrase, svágūrtā, ápāṃsi, is meant to invoke *(svá)gūrtā, *apáḥ here? For further disc. see also Old ad loc. 
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

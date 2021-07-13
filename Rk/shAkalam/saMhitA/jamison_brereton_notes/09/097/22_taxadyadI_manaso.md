@@ -12,3 +12,6 @@ in that way. Alternatively “in front of cattle” could refer to the place on 
 
 This would more narrowly define the location than the first locative phrase, which gives the whole ritual ground as the locus. The 2nd possibility provides a better set of parallels with vā - both locational - but I prefer the 1st because of the use of ánīkawith dawn elsewhere.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

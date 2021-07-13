@@ -6,3 +6,6 @@ The stem niyútvant- (3b) is repeated from 1c and 2a, as noted above, but here a
 
 could be captured by an adjacent or nearby word in another case -- niyútvataḥ is actually in a different pāda from the other genitives and is adjacent only to the dual dvandva índrāvāyū.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

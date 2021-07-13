@@ -18,3 +18,6 @@ The semantic basis for the simile in d is somewhat obscure. On the one hand, the
 
 In d nā́yase is analyzed (starting with the Pp.) as ná áyase, but this produces a bad cadence. I do not see any obstacle to assuming a preverb ā́, so ná ā́yase ‘for coursing hither’, which fixes the cadence.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/057/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

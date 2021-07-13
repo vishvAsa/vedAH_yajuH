@@ -10,3 +10,6 @@ Note the play jīrā́ajirá-. The cmpd ajirá-śocis- is a bit difficult to fit
 
 The 1st member ajirá- means ‘quick, nimble, agile’, and the whole bahuvrīhi occurs once elsewhere of Agni, VIII.19.13, where I tr. “of nimble flame.” How this would apply to drops is not entirely clear; I assume it refers to the propensity of drops, esp. moving drops, to catch the light. It is also possible that ajiráśociṣaḥ is gen. sg. and modifies Soma, rather than nom. pl. modifying the drops. This would not appreciably change the image.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

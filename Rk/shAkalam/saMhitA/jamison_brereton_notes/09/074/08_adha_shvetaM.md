@@ -8,3 +8,6 @@ of c, which does less violence to the order of elements but is still, to my mind
 
 It is easy to understand the attempts of others to link d with something else in the vs., because it consists only of a dative phrase (kakṣī́vate śatáhimāya) and a gen. pl. (gónām). However, as I just remarked, this pāda seems to be an abbreviated dānastuti, with the dāna specified and no stuti given, but the poet and would-be recipient emphatically named. In such circumstances condensed phraseology is not surprising. Ge appositely cites as parallel I.126.2 śatáṃ kakṣī́vān ásurasya gónām “A hundred cows of the lord (have I,) Kakṣīvant, (taken).” In our passage the “hundred” is cleverly tucked into the adj. śatáhima-, which otherwise presumably expresses Kakṣīvant’s proleptic wish for a 100-year lifespan; it seems unlikely that he is already that old.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/074/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

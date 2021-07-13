@@ -8,3 +8,6 @@ Re considers āsán simply an attribute limiting the pā́tra-, a “récipient 
 
 Note the phonologically matching words aratím and átithim stationed in the same metrical position in pādas a and c.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

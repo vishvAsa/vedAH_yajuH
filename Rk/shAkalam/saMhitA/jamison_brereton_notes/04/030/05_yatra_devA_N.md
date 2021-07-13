@@ -12,3 +12,6 @@ When sácā occurs with a loc., it generally lacks lexical value and simply sign
 
 However, I would now be inclined simply to tr. here “I have taken my share at sun(rise).”
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
