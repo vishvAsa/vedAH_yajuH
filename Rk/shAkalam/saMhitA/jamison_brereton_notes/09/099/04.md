@@ -1,0 +1,5 @@
++++
+title = "04"
+
++++
+The idiom nā́ma √bhṛ ‘bear the name(s)’ generally means “to have that name, to be so called” (cf., e.g., I.103.4). However, I find it unlikely that the thoughts have—that is, are called by—the names of the gods (this thought is called “Indra,” that one “Agni”). Rather, I think there are two possibilities. The thoughts=hymns directed to Soma contain the names of the gods who are to drink the soma (of the type ubiquitous in IX, “O drop, flow for Indra”). A more elaborate suggestion starts from IX.109.14 bíbharti cā́rv índrasya nā́ma, which means, in my view, not “he bears the dear name of Indra” (so, e.g., Ge), but rather “he bears the name dear to Indra,” namely “Soma.” Here, if we supply cā́ru, the passage could mean “the thoughts bear the name (dear) to the gods”; again that name is “Soma.” In this case the thoughts would not be called “Soma,” but would instead contain numerous instances of the name Soma in the hymns directed towards him. I prefer the former solution, as it does not require supplying additional material.

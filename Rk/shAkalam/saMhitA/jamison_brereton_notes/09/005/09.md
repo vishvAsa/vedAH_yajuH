@@ -1,0 +1,7 @@
++++
+title = "09"
+
++++
+The listing of figures in cd is puzzling. The publ. tr. follows Ge/Re, with Indra identified as the drop in c and Prajāpati as the self-purifying one in d, but I now very much doubt that this is correct. For one thing, Prajāpati as a separate god is found at best only in X (3x); this is the only occurrence of the stem in IX, and in the only other occurrence outside of X (IV.53.2) it is an epithet of Savitar. This two-pāda sequence (9cd), índur índro vṛ́ṣā háriḥ, pávamānaḥ prajā́patiḥ is a variant and expansion of 7c pávamāna índro vṛ́ṣā, and as in 7 I think it refers to two gods, Soma and Indra. As in 7c the two gods are first identified: here the drop (rather than pávamāna-) and Indra. The next word vṛ́ṣā ‘bull’ appeared to qualify Indra in 7c, but could (and often does) qualify either one, and here it’s placed between Indra and hári- ‘tawny’, a soma descriptor, suggesting affiliation to both. The opening of the next pāda, pávamānaḥ, reasserts the Soma figure. As for prajā́patiḥ, I think it’s possible that it again refers to both, though I have no idea why this stem appears here.
+
+As in vs. 7c I take these pādas as listing other gods to be summoned along with Tvaṣṭar here (tváṣṭāram … ā́huve, like 7b hótārā … huve), with slippage into a free-standing nominative phrase. It anticipates the somewhat random listing of even more gods in 11cd. I don’t find any of this very satisfactory, but I resist the supposed identification of Indra and Soma, who are the two poles of the Soma Maṇḍala.

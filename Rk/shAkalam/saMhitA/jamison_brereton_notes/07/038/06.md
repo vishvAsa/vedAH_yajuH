@@ -1,0 +1,5 @@
++++
+title = "06"
+
++++
+The presence of yā́ti ‘begs’ in d solidifies the affiliation to the same root of the mid. part. iyānáḥ in b. I follow Re in taking the part. as a passive, though this interpr. is somewhat problematic The pāda also appears identically in VII.52.3b, where the participle has transitive, though self-beneficial, usage. Ge takes it that way here as well (“darum bittend”), and Bl (RR, ad our passage) claims that there is “no good reason” to take iyānáḥ passively here. However, the context favors a passive 61 interpr.: Bhaga gives the treasure away when we (or the powerless one of d) beg for it; I do not think Bhaga is himself begging it from Savitar, as an intermediate step before giving it away himself. Moreover, the same mid. part. is regularly used in the passive; cf., e.g., VII.17.7, 29.1 also in VII. Although I am reluctant to give identical pādas, esp. in the same maṇḍala, different interpretations, in this case the multivalence of the medial voice of this root (finite ī́mahe is regularly transitive, e.g.) allows the same sequence to be used in two different ways.

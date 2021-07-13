@@ -1,0 +1,12 @@
++++
+title = "04"
+
++++
+The syntax of the 2nd hemistich, esp. pāda d, is clotted and has been variously interpreted. Ge takes the problematic upanāyám as obj. of vṛścá (as I do), but considers the referents of yé … eṣām to be the vā́jān of b: “… der sie sich holt, mögen sie nah (oder) fern sein.” Sāy.’s interpr. (see also Ge’s n. 4d) seems a more sensible version of Ge’s: he glosses upanāyám as ‘master’ (svāminam) and takes the plurals to refer to demons. Re seems to make upanāyám an appositive or parallel to the pl. yé … eṣām, which he (semi-)configures as the obj.: “Fends … (les démons) qui sont près (ou) loin, le chef de ces (démons).” All of them take ánti durā́t as a constituent, “near (or) far.” But the contrastive expression “near (or) far” generally matches cases (or adverbial equivalents thereof): ablatival ántitaḥ (...) dūrā́t (II.27.13, etc.) or locatival ánti dūré (I.79.11, etc.; see esp. IX.19.7 dūré vā sató ánti vā, IX.67.21 yád ánti yác ca dūraké). Our passage, by contrast, has locatival ánti and abl. durā́t, and I therefore separate them and assign them to different syntactic units.
+
+I take yé ánti as a minimalist rel. cl. “who (are) near,” while durā́t is construed with upanāyám. I take the latter as meaning ‘leader’, like simplex nāyá- (2x: VI.24.10, 46.11), and the whole sequence durā́d upanāyám eṣām to mean lit. “leader of those from afar” (rendered in English as a rel. cl. “… the one who lead …” for the sake of intelligibility). Cf. for directional durā́t with √nī VII.33.2 dūrā́d índram anayann ā́ … “From a distance they led Indra here.” In other words, I interpret upanāyám as the obj. of the impv. vṛścá at the beginning of c, and it is preceded by a brief nominal rel. cl. yé ánti, whose referent in the main cl. is eṣām. Nominal rel. clauses seem to be exempt from the prohibition on embedding that is evident for full relative clauses.
+
+It may be so positioned to allow ánti to be adjacent to durā́t though belonging to different clauses.
+
+Lowe (Part. 289) claims that tujánt- is a Caland adj. meaning ‘eager’ rather than a participle ‘thrusting’, but the passages, esp. this one and I.61.6 (with two exx.), favor a more dynamic rendering, and in particular tujatā́vadhéna “with your thrusting weapon” recalls IX.57.2 tuñjāná ā́yudhā “brandishing his weapons,” with an undoubted participle. I don’t actually see what is gained by reclassifying these forms as Caland adjectives.
+

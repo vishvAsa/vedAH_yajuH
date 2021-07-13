@@ -1,0 +1,8 @@
++++
+title = "01"
+
++++
+The ceaseless movement of the waters is clearly expressed in the first hemistich, and the question posed in the last pāda is a leading one, at least in my view. It asks at what (temporal) distance, i.e., how long ago, did the waters first start this movement. The implicit answer is “when they were released from Vṛtra’s hold,” which prepares for the account of the Indra-Vṛtra battle in the next vss. (On the unexpected long vowel in kíyāti, see comm. ad I.143.3.) The problematic pāda is c, and this is in great part because of the uncertain interpr. of aktúḥ. Ordinarily this word means ‘night’, but since “the night of the waters” is a curious expression, most comm. instead implictly derive it from √añj and tr. ‘color’ vel sim. (e.g., Ge “das Farbenspiel der Gewässer”). With Old I take the word in its usual meaning ‘night’, contrasted with the āmreḍita áhar-ahar “day after day.” However, I think the expression “night of the waters” is used metaphorically and perhaps has oppositional semantics. The waters are often, esp. in treatments of the Vala myth, identified with the dawns. Here, perhaps, “night” is meant to evoke its opposite, “dawn” (a poetic device we’ve seen elsewhere, e.g., I.103.7; see publ. intro. to I.103 and comm. ad loc.) and the whole expresses the fact that just as the waters keep flowing, so also do the dawns keep dawning. This interpr.
+
+may be too radical, however, and the point of the image may simply be how dark waters can look compared to the sky at dawn (or dusk) -- the “night of the waters” is this dark appearance under certain lighting conditions.
+

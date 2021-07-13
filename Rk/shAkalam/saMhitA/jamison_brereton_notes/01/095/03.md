@@ -1,0 +1,8 @@
++++
+title = "03"
+
++++
+The riddles in this verse have given rise to much more speculation than can be covered here. In the first hemistich the major question is whether the three births of pāda a (trī́ṇi jā́nā) are matched by three birth locations in b or only two. That there are three locatives (samudré … diví … apsú) might support the first view; that there are only two ékam’s the second. Despite their polarized positions in the pāda, I believe that samudré … apsú refer to one place of birth, diví to another. X.45.3, where samudré … apsú is one place of kindling (pāda a), diváḥ … ū́dhan a second (b), and a third is referred to in cd, supports the two-locale view. This then allows the third birth to be the ritual kindling described in the first vss. of the hymn, while very tentatively we might identify the birth in waters as that of Apāṃ Napāt and that in heaven as that of the sun. The three births can also refer to the three ritual fires, and that notion is taken up obliquely in the second half of the verse, in my opinion.
+
+The second hemistich describes the carrying of the kindled fire to the east end of the ritual ground, to become the Āhavanīya fire (not so called in the RV, but clearly referred to often in the text). This pacing out of the ritual ground also establishes the other ordered elements in the ritual, hence the VPs of pāda d. Gr and Old both read *pradíśam for prá díśam, as also in IV.29.3. I am not certain that that change is necessary here, though interrupting the pū́rvam ánu … díśam phrase with the preverb is somewhat disturbing (though note that prá immediately follows the caesura).
+

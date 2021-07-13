@@ -1,0 +1,12 @@
++++
+title = "+006"
+
++++
+Indra and the Maruts (per Anukr.) As noted in the intro. the Anukramaṇī’s identification of the divinities as Indra (1-3, 10), Maruts (4, 6, 8-9), and Indra and Maruts (5, 7) does not conform to the content of the hymn, which is quite disjointed, but appears to concern, at least in part, the Vala myth. The Maruts do not seem to figure at all in the hymn; the plural entities with Indra are probably the Aṅgirases. For my view of the structure (which is informed by the discussions of Ge and Old), see publ. intro.
+
+I.6.1-2: These verses begin identically (yuñjánti ‘they yoke’), inviting the audience to equate the action of the two verses.
+
+1b: The referent of the apparent acc. plural tasthúṣaḥ ‘(those) standing still’ is not given. Ge. (/WG) thinks it refers to stable things on the earth, but if the sun is referred to in the first pāda, it is more likely to “move around” celestial features than earthly ones, and the stars or other luminous heavenly bodies are referred to in the next pāda. Re’s interpretation (flg. Ludwig) of tasthúṣaḥ as an abl. sg. (“from the one standing still” - “à partir de (l’espace) immobile”) is ingenious and would match the minor syntactic idiom ‘yoke from ABL’ (e.g., I.115.4 yadéd áyukta harítaḥ sadhásthāt), so it cannot be dismissed. The ablatives in the final verses (9-10) might lend weak support for Re’s view.
+
+2b: The hapax compound vípakṣasā is difficult and has been variously interpreted. The second member, pákṣas- (and related and more common pakṣá-), can mean either ‘wing’ or ‘side’; the first member, ví-, is most likely the preverb ví, but in compounds this element has a number of possible meanings: ‘without’, distant’, ‘wide’,‘alternating/opposite/different’, ‘dispersed’. It could also possibly represent ví- ‘bird’, which has been claimed as the first member of some other compounds (see EWA s.v. váy-, KEWA III.266). The possible combinations of these two ambiguous elements allow for a number of interpretations. I more or less follow the Sāy/Gr interpretation, ‘auf beiden Seiten des Wagens gehend’, though I take it as an adverbial instrumental, not a dual. (The presence of a number of duals in -ā in the verse does not favor an adverbial interpretation, however.) Re’s “aux ailes d’oiseau” obviously takes the first member as the ‘bird’ word, while WG “die mit weiten Flügeln” takes ví as the preverb, but with the second member meaning ‘wing’ as in Re’s interpretation. Ge’s ‘auseinanderstrebenden(?)’ treats the second member quite loosely.
+

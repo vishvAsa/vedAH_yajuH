@@ -1,0 +1,7 @@
++++
+title = "07"
+
++++
+The sense of pāda c is not immediately apparent; its interpr. develops from an appreciation of the idiom inherent in the noun saṃdadí-. As discussed esp. ad I.139.1 (but see also IX.10.8, 79.4), the lexeme sám √dā belongs to √dā ‘tie’ and is used in the quite narrow idiom ‘tie/attach navel [ACC] to navel [LOC]’, generally as a metaphor to assert or display a family tie between something human and earthly and something divine and in heaven. In Re’s words (n. to our passage): “partout dit du nombril comme point d’attache entre terre et ciel; on pourra donc ici même suppléer nā́bhiḥ” - though his tr. “quand il se reconnaît dans les (eaux que) voici, s’unissant (à elles)” reflects that interpr. only darkly, at best. The earthly/heavenly connection, in lapidary shorthand, seems to be the intent of our passage, though ‘navel’ is absent. In this particular case I would accept Lü’s constantly asserted conception of the heavenly waters and their connection to Soma. Here because Soma’s umbilical tie to the heavenly waters (represented by the prn. āsu fem. loc.) is well known, he plunges into the ritual waters - though Lü (23-39) identifies the two sets of waters exactly oppositely: the āsu are the earthly waters, and the “great waters” (mahī́r apáḥ) the heavenly ones. The other occurrence of saṃdadí- at II.39.7 is more attenuated even than this one.
+
+Note that ví gāhate here forms a ring with prá gāhate in 2b, which might support my view that the great waters are the ones at the ritual.

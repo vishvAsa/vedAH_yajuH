@@ -1,0 +1,7 @@
++++
+title = "07"
+
++++
+As indicated in the publ. intro., this vs. in part forms a clear ring with vs. 1 and provides the answer to the question in 1a. Note the recurrence of the gods Aditi, Mitra, and Varuṇa, as well as of the agent noun trātár- and a finite form of the root √trā (here trātā́trāyatām).
+
+The 2nd hemistich is somewhat puzzling, however, and has given rise to a number of competing interpr. (in addition to the standard, see Janert [Dhāsi, pp. 6, 43ff., 52], Thieme [ZDMG 95.109], Scar [387], and Lühr 1997 [cited by Scar]). Ge and Re both attempt to give sā́nu a loc. sense (Ge by taking it as a truncation of sā́nuni, a move that Re disallows), but by form it ought to be an object parallel to dhāsím: the dhāsí of Mitra and Varuṇa (and) the back of Agni. This is the interpr. of Janert, and I follow him in his syntactic evaluation, though I do not necessarily follow him in seeing the dhāsí- of M+V as the seat of truth nor the back of Agni as the back of the Sun (as the heavenly Agni). I tentatively suggest that not violating the back of Agni means not failing to provide appropriate oblations (recall that Agni is sometimes called ghṛtásnu- ‘ghee-backed’). Judging from X.30.1, the “wellspring of Mitra and Varuṇa” is in heaven among the gods -- presumably the source of rain. Not violating it may again mean not failing to make the oblations that will travel to heaven and replenish that source of water. Perhaps the “watery sacrifices” in vs. 6 are connected.

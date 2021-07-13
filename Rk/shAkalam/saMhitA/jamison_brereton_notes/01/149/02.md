@@ -1,0 +1,12 @@
++++
+title = "02"
+
++++
+As noted in the publ. intro., the name Agni does not appear in this hymn, and in the earlier verses there is some ambiguity as to who the referent is. E.g, in 1c the stones (ádrayaḥ) might suggest Soma. In this vs. also there seems to be dual reference to Agni and Soma, esp. in the compound jīvápītasargaḥ (already unusual for having three members, a rarity in the RV). The middle term -pīta- can belong either to √pā ‘drink’ or √pyā ‘swell’. In the former case the cmpd means ‘whose surge is drunk by living beings’ vel sim. and should refer to Soma (and most emphatically not to Agni, if ‘drink’ means what it usually does -- though “to ‘drink’ smoke” is an idiom in certain languages); in the latter ‘whose surge is swelled by living beings’ and should refer to Agni, whose flames are fanned by the priests (though Soma would also be possible). Most interpr. (Gr, Old [SBE], Ge, WG) opt only for the ‘drunk’ interpr. without fully explaining how the word can qualify Agni.
+
+Old (Noten) has second thoughts and suggests instead ‘swell’, which Re also goes for.
+
+I think the poet intended the ambiguity.
+
+Pāda c, however, might seem to tip the referential scales towards Agni: fire can easily be envisioned as running forward (with its spreading flames) while not moving from its original place of kindling. This is not an appropriate image for soma, which is always on the run after its pressing -- flowing towards the milk it will be mixed with and towards the cups from which it will be drunk. But the “remain fixed” interpr. depends on śiśrīta having a root affiliation with √śri ‘prop, fix’. So, inter alia, Gr and Kü (528), who takes it as a pf. mid. opt. to √śri (as do I and WG). However, other interpr. assign it to √śrī ‘mix, etc.’ (Old [SBE] ‘has ripened’, Ge ‘gemischt(?) wird’) or an unprecedented verbal form beside root noun śrī, hence √śrī ‘être beau’ (Re ‘resplendit’). Narten (“Ved. śrīṇā́ti …,” 281 = KlSch 351) is uncertain which root to assign it to, though her tentative tr. (“angelehnt bleiben dürfte”) reflects a √śri affiliation. In any case, if śiśrīta could belong to śrī ‘mix, prepare’, it could easily apply to Soma (“was mixed/prepared in his womb”), since Soma is regularly the object of forms built to this root. The poet may well have meant this ambiguity, which my publ. tr. does not reflect. I would therefore tentatively emend the tr. to “would still remain fixed [/was prepared] in his womb.” Note the phonetic figure sasrāṇáḥ śiśrīta, with redupl. + r-cluster involving two different sibilants.
+

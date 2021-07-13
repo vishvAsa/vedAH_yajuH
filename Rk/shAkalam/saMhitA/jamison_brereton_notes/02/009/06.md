@@ -1,0 +1,9 @@
++++
+title = "06"
+
++++
+As noted above, I suggest that suvidátra- makes a ring with vídāna- in 1a, a suggestion that rests on assigning both words to the root √vid ‘find’ and on assuming that this root meaning is still apparent in suvidátra-. Neither of these assumptions is unchallenged. Gr assigns -vidatra- to dā1 ‘give’+ ví and glosses it ‘vertheilend’. (That √dā is not otherwise found with ví speaks against this derivation.) In his brief treatment of the word Debrunner (AiG II.2.170) gives its root etymology as √vid with a question mark, glossing it ‘wohlwollend’. Though no doubt other etymological suggestions have been made, I have not to my knowledge encountered them. The standard interpr. of the semantics, however, are like Debrunner’s -- ‘wohlwollend, gnädig, d’accueil favorable’, etc. Whatever the root derivation assumed, this rather vague meaning is far from ‘find’ (or ‘know’ or ‘distribute’) and the semantic pathway to it is unclear. Moreover, a passage like X.15.3 ā́hám pitṛ́̄n suvidátrām̐avitsi “I have found the suvidátra- forefathers (/forefathers that are easy/good to find)” testifies to at least a secondary connection between the form and the root √vid ‘find’, as well as enough semantic connection remaining to allow the phrase to function as a linguistic figure. The word is found twice in the Agni hymns of II, once here, once in II.1.8. Both vss. also contain the word ánīka- ‘visage, face’ (though in II.1.8 admittedly not in the same clause). Especially in our passage I think the point is that because of Agni’s shining face he is easy to find -- he is the brightest thing around.
+
+That the next hymn (II.10), which is at least metrically paired with this one (see comm. ad II.9-10), is also characterized by a ring linking the first and last vss.
+
+and that the first word of the ring is also formed with a -tra-suffix (johū́tra-) lend some support to my speculations about suvidátra- here.

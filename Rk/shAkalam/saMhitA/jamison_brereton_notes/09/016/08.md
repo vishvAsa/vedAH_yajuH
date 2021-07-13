@@ -1,0 +1,7 @@
++++
+title = "08"
+
++++
+Soma is addressed here in the 2nd ps., the first time since the uninsistent te in the first pāda of the hymn (1a prá te …) and thus sketches a sort of referential ring. Throughout the rest of the hymn soma is always in the 3rd ps., and the only 2nd ps. reference is found in vs. 5, where the referent is Indra (see comm. there).
+
+Pāda a is troublingly incomplete, with a nom. subj. (tvám) and an acc. vipaścítam but nothing to govern the acc. The pāda is identical to IX.64.25a, whose b pāda, punānó vā́cam iṣyasi, provides both a transitive verb and a referent for the acc., “being purified, you send forth speech attentive to poetic inspiration.” Although supplying a full pāda is something I would prefer not to do, I see no alternative to doing so (nor does Ge; see his n. 8a, where he expresses his reluctance; Bl, RR ad loc., as well). It is made somewhat more plausible by the appearance in nearby 12.6, by the same poet, of the relevant VP, vā́cam ... iṣyati. (See also iṣṇán in the next hymn, 17.5, where I supply ‘speech’ as the obj. [contra Ge, but in agreement with Re].) This is certainly a better solution than Re’s: he simply treats the acc. as a nom. and uses it as a modifier of Soma (“Toi, ô soma, qui comprends les mots-inspirés …”).

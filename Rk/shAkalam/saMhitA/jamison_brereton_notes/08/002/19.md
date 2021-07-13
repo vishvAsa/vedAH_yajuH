@@ -1,0 +1,6 @@
++++
+title = "19"
+
++++
+Hoffmann (1967: 87) notes of mā́hṛṇīthāḥ that the prohibitive contains a present injunctive, and he interprets it, plausibly, as “lass ab von deinen Groll…” rather than simply “don’t be angry.” However, recent work by IH (presented at AOS March 2017) has argued strenuously, and in my view successfully, against Hoffmann’s claim that mā́clauses with pres. injunc. are inhibitive, not prohibitive, showing that pres. injunc. verb are found in mā́clauses only when the default (root) aor. injunc. is not available. Note that √hṛ ‘be angry’ only makes pres. forms. The context then must determine whether the form is inhibitive or preventive -- in particular, the simile “like a great man with a young wife,” the interpretation of which will be severely affected by interference from our contemporary assumptions about such a situation and by our lack of knowledge about the corresponding assumptions in ancient India. If we assume on the basis of popular Western depictions that young wives have many ways of annoying their old husbands (profligate spending, flirting with younger men, etc.), but also have many wiles to win back their husbands’ favor, then an inhibitive would work.
+

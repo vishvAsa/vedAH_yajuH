@@ -1,0 +1,10 @@
++++
+title = "11"
+
++++
+vaṅkū́vaṅkutárā is generally taken as characterizing the speed of the two horses, and I agree that that is the general idea -- but think this meaning arises indirectly. Ge takes it as ‘flying’, Re as ‘rapid’, Hoffmann (Inj. 221) ‘ever faster moving’, WG ‘ever faster galloping’, but this basic meaning does not fit the root to which it most likely belongs, √vañc ‘move crookedly’, or the other occurrences of vaṅkú-, esp. I.114.4. I think the nuance here is the same one found in the deriv. adj.
+
+vákva(n)- ‘billowing’ à ‘surging’. The non-linear movement of the root is here concretized as a wave motion, with the attendant speed and power associated with waves.
+
+The c pāda presents some difficulties of construction, particularly the two accusatives yayím and apáḥ, which do not match in number. Ge and Re supply ‘mounts’ (ádhi tiṣṭhati) from the end of pāda b (or perhaps ā́… tiṣṭhasi from 12a) and ‘chariot’ with yayím and begin a new clause with nír. So, “the powerful one (mounted) the speeding (chariot); he released the water in a stream.” Alternatively Ge suggests that c is a single clause, but that apáḥ is not an acc. pl., as is usual, but the rare gen. sg. construed with srótasā, so “the powerful one released the speeding (chariot) with the water’s stream(speed) [mit des Wassers Strom(schnelle)].” Neither of these fussy solutions is appealing. With regard to the latter, nir apáḥ [acc.pl.] √sṛj appears to be formulaic (cf. I.103.2, X.124.7, the only other examples of níḥ √sṛj that I know of), and so a gen. sg. is unlikely; with regard to the former, it seems overly elaborate to supply so much material in a pāda that can be read as a unity. I follow Old in taking yayím as an epithet of (so Old) or, better, an appositive or qualifier to the waters. Since áp- ‘water(s)’ is in essence a plurale tantum, a parallel singular would not be surprising. For yayí/ī́- qualifying waters, cf. X.78.7 síndhavo ná yayíyaḥ “coursing like rivers,” adduced by Old (also X.92.5). My tr. “for coursing” rather than “as coursing” or the like is a concession to English.
+

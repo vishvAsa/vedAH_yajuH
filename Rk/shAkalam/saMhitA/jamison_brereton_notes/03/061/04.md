@@ -1,0 +1,18 @@
++++
+title = "04"
+
++++
+The puzzle in this vs. is the image in pāda a, áva syū́meva cinvatī́. Some factors that contribute to this puzzle: 1) áva √ci is not otherwise found in Vedic. (In epic/classical Skt. it means ‘gather’.) 2) áva need not be construed with cinvatī́, but could go with yā́ti, esp. since tmesis in participles is considerably rarer than in finite verbs. 3) There are several roots √ci. 4) The referent of syū́man- isn’t clear.
+
+To begin with the last, most interpr. locate syū́man- in the realm of sewing and garments. Ge tr. “die die Naht auszieht” (“who undoes/rips out a seam”), sim.
+
+Old “… die Naht auftrennend,” Re “défaisant le fil.” Old suggest that it is the seam that holds the darkness(es) together. Sāy. goes further, in suggesting that it refers to a garment (vastram), which Dawn takes off. WG’s “Wie eine (Frau) den Gurt ablegend” may also reflect this image, though their n. vacillates between sewing and equestrian interpr. The problem with all of these attempts is that, in its few occurrences, syū́man- is otherwise used of horse tackle, esp. of reins; cf. the PN syū́ma-raśmi- (“*Band-Bridle” Mayrhofer, PersNam s.v.) and the cmpds syū́ma-gabhasti- (I.122.15 ‘with hands as its guiding rope’), syūma-gṛ́bh- (VI.36.2 ‘pulling at the reins’), as well as instr. syū́manā (I.113.17), all in horse/chariot contexts. Despite its derivation from √sīv ‘sew’, it therefore seems unlikely that only here in the RV would it refer to garment construction. And, although Dawn as a female might in principle be connected with sewing (if that was Vedic women’s work), in fact she is usually not, whereas her travels are a standard theme; note, e.g., her chariot in 2b, her horses in 2c, and her driving (yāti) in this vs. We must then turn to the verb. If we use the later ‘gather’ sense for áva √ci, the simile might mean “gathering up the reins (preparatory to setting out on a journey).” A similar idea, though not related to horses, seems to be reflected in Ge’s alternative given in n. 4a: “Wie (die Hausfrau), die das Halfterband (den Tieren) abnimmt (um sie auf die Weide zu treiben),” relating it thematically to svásarasya pátnī “mistress of good pasture” in the next pāda. I prefer to compare the lexeme áva √tan ‘unstring, slacken’ of bowstrings (e.g., AV VI.42.1 áva jyā́m iva dhánvano manyúṃ tanomi te hṛdáḥ “Like a bowstring from a bow, I make slack the fury from your heart”; RVic exx. similar but without an explicit bowstring). The image is of Dawn letting the reins go slack to give the horses their head. Curiously, Griffith’s tr.
+
+is similar, “letting her reins drop downward,” though he thinks it refers to her sending down rays of light. If this interpr. is correct, I assume that it belongs to the root √ci ‘pile’, with a highly developed idiomatic sense. In fact combinations of √ci
+
++ PREVERB tend to show fairly extreme idiomaticity.
+
+Arnold (Ved. Met., 300) suggests reading uṣā́ā́yāti for simple uṣā́yāti, which would yield an 11-syl. line. Old is tempted but seems to favor the transmitted reading; Re, however, is convinced. HvN reject it without explan. (“a rest at the 5th place seems preferable”). I would follow Arnold and Re, and therefore the publ. tr.
+
+should be emended to “drives here.” Pāda d is taken by Ge and Re (and me) as containing one of the relatively rare RVic occurrences of ā́+ following abl. in the meaning ‘all the way to’. The source of this counterintuitive use of the abl. can be seen in passages like this, where ‘all the way to’ and ‘all the way from’ are essentially identical in sense: the light of dawn stretches throughout the midspace, and the directionality (from/to heaven/earth) is irrelevant.
+

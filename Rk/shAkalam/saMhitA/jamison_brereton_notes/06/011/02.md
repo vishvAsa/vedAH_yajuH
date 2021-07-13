@@ -1,0 +1,16 @@
++++
+title = "02"
+
++++
+ā́yásmin tvé … yákṣat. I would now alter the tr. here to “For even the wealthy Holy Place longs to sacrifice in you to the gods, to their races, for the singer”
+
+-- though I am still bothered by the prá.
+
+Another problem in this syntagm is devā́ñ jánma. Old (explicitly, ZDMG 55.300) and Ge (in tr.) take devā́n as a gen. pl., a form that could either represent the survival of a very archaic PIE gen. in *-ōm or the truncation of the standard form devā́nām. I do not think this nec., subscribing to Re’s assertion (in n.) “devā́ñ jánma ne comporte pas de désinence abrégée our archaïque, mais signifie «la génération (, à savoir) les dieux»,” with devā́n and jánma as parallel acc. In the second hemistich the referent of the subj., vépiṣṭho áṅgirasām … vípraḥ is in question. Ge, flg. Sāy., suggests the current poet, and the presence of the singer in b (gṛṇaté) might support this view. However, his superlative status among the Aṅgirases makes it more likely that it is Agni. Cf. the similar expression in I.127.1 jyéṣṭham ángirasāṃ vipra “(We call upon you), o inspired poet, as the oldest/most important of the Aṅgirases,” as well as the fairly frequent use of áṅgirastama- ‘first/best of the Aṅgirases’ for Agni (I.31.2, 75.2; VIII.23.10, 43.18, 44.8). If Agni is the referent, there has been a switch from 2nd ps. reference (tvé in pāda a) to 3rd ps.
+
+reference here, but this is hardly novel. See the next vs. (5).
+
+As disc. ad VI.3.6, I interpr. rebhá- not as ‘singer’, but as ‘hoarse/huskyvoiced (singer)’, sometimes used of Agni, whose crackling is likened to singing. He is so identified nearby in VI.3.6, and the use of this adj. here is another piece of evidence that Agni is the referent of the subject in this hemistich.
+
+In d chandáḥ is taken by Gr as the sole example of suffix-accented thematic chandá- (not only in the RV but, acdg. to Whit, Rts., anywhere), beside chánda-. Gr glosses our form ‘singend, preisend’ and chánda- as ‘glänzend, strahlend’; Ge, by contrast, takes it as an s-stem and dismisses the accent: “chandáḥ doch wohl für chándaḥ.” Pointing to the suggestive juxtaposition mádhu chandáḥ here, a near exact match for the PN madhuchandaḥ, to whom the first ten hymns in the RV are ascribed (though the name doesn’t appear in the RV text), he tr. “seine süsse Weise.” Re follows suit (“le doux chant”), with the somewhat cryptic note “chandáḥ «qui charme», comme chándaḥ.” (Curiously, Old doesn’t comment.) Although I would like to be able to follow their interpr., with chandáḥ an anomalously accented neut. sstem, rather than an -á-stem with Gr, I do not see any way to get the suffix accent redactionally or grammatically. My interpr. again introduces complications, but in this case I think they are necessary to avoid positing arbitrary accent shifts. I would suggest that the form is an s-stem, derivationally related to neut. chándas- ‘rhythm, meter,’ showing the usual rightward accent shift of adjectival possessive derivatives to neut. s-stems -- hence ‘having rhythm’. I wish that the form in the text were chandā́s (chandā́in sandhi), describing Agni the poet, but it is not. I therefore think it is either a neut. used adverbially (“rhythmically” as in the publ. tr.) or that it qualifies mádhu “rhythmic honey,” of the song.
+

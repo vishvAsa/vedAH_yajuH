@@ -1,0 +1,11 @@
++++
+title = "04"
+
++++
+As argued in the publ. intro., this vs. is the omphalos of a well-structured omphalos hymn, and it contains the “message” of the hymn: the revelatory vision of Agni immediately before the eyes of the poet. This immediacy is conveyed by the near-deictic pronoun that begins the first three pādas — ayám (a), idám (b), ayám (c) — and also ends the first pāda (imám). The immediacy is also conveyed by the abrupt command “look at him” (páśyatemám) at the end of the 1st pāda; since the impv. is in the 2nd plural, it cannot be addressed to the poet alone. Instead I suggest that it is the poet speaking, urging his priestly colleagues to behold the revelation that has just come to him. As noted also in the publ. intro., the name Agni does not occur in this verse. In fact, in the whole hymn agní- is found only in the first and last vss.
+
+(1d and 7b), another reinforcement of the omphalos structure. But every phrase in this vs. is an unmistakable description of Agni, and each could be matched by many similar phrases in Agni hymns. Unlike many omphalos vss., this one is not enigmatic and riddling (save for the omission of the name), but straightforward and obvious, one might say blazingly transparent. In this way it captures the poet’s sudden burst of enlightenment, in which he truly sees for the first time what is (and has always been) in front of him. As such it can be characterized as an epiphany in the technical sense: although the ritual fire has been there all along, it is only now that the poet sees that the fire is really the god. This divine revelation is underscored by the two occurrences of “immortal” (jyótir amṛ́tam b, ámartyaḥ d), taking up the poet’s initial true perception in 3c, where he saw that Agni was “the herdsman of the immortal” (amṛ́tasya gopā́ḥ).
+
+dhruvá in dhruvá ā́is ambiguous. The Pp. takes it as nom. dhruváḥ, but modern interpr. differ: Old (ZDMG 55.297 and Noten, with Gr [transl.], Hillebrandt, Pischel) and Thieme opt rather for the loc. dhruvé, while Gr (Wö), Ge, and Re follow the Pp. — as do I: dhruvám modifying Agni as light (jyótiḥ) in the next vs. (5a) seems decisive. The constructions are quite parallel: the “steadfast light” of 5a was also “set down” (níhitam), just as “steadfast (Agni)” was “set down” (níṣattaḥ) in 4c.
+
+A loc. interpr. is not out of the question, however.

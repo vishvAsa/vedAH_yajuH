@@ -1,0 +1,5 @@
++++
+title = "08"
+
++++
+Ge sees cows as the referent of the fem. bathers in b, which are, in his interpr., leaving their calves behind as they bathe. Although I do not know about the bathing habits of cows before modern animal husbandry (and Google is no help here), I doubt that they abandoned their calves to go splash in the river -- and I also doubt that Ge knew much about this topic either. Moreover, having bathing cows abandoning their calves in b and non-bathing cows doing the same in c seems poetically clumsy. Rather I follow Re in taking the rosy bathers of b to be the dawns (though he still sneaks in the cows in his tr. “vaches-aurores”). As he points out, Dawn arises from her bath in V.80.5, and usrá- in the fem. pl. is regularly used of dawns. I think there is a hint of coquetry and teasing here: a group of girls bathing in a river, surprised by some young men, with the girls flashing a bit of skin and then running off in fits of giggles. The girls-bathing motif is fairly widespread: the Gopis and Kṛṣṇa come to mind, as well as Nausicaa and her friends in the Odyssey, and nearer to home, the Apsarases engage in water play in X.95.7-9.

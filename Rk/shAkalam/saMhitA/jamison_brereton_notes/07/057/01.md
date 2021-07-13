@@ -1,0 +1,10 @@
++++
+title = "01"
+
++++
+My interpr. differs considerably from the standard—Old, Ge, Re —all of whom take ab as a single clause, with the sg. nā́ma mā́rutam the subject of 3rd pl.
+
+madanti and mádhvaḥ the oblique obj. of that verb. So, e.g., Old “Am Honigtrank erfreut sich … euer Marutname (=Marutgeschlecht).” The number disagreement between subj. and verb is taken as a constructio ad sensum (so explicitly Ge n. 1ab, sim. Old), and the clash between 2nd person encl. vaḥ / voc. yajatrāḥ and the 3rd ps.
+
+verb is glossed over. I find these disharmonies disturbing and prefer to separate the two pādas. By my interpr., as noted in the publ. intro., pāda a has an idiomatic contruction very similar to Engl. “has X’s name on it,” meaning “is destined for / belongs to X.” (“That cookie has your name on it” means “you should take it; I’ll cede it.”) Then in b the person switches from 2nd (vaḥ … yajatrāḥ) to 3rd (madanti with gapped subj. = Maruts), but the number is unchanged. This situation lasts through then first hemistich of vs. 2. As for the sense, I take the ‘honey’ to refer to the soma to be offered to the Maruts at the sacrifices mentioned in b: the soma oblation at the sacrifice in question is intended just for them. Alternatively, but less likely in my view, it could refer to the rain that the Maruts produce. In that case it would have the Maruts’ name because it is their product. The rain is metaphorically referred to in d pínvanti útsam “they swell the wellspring.” The relationship among the clauses in the 2nd hemistich isn’t certain, although there are no real implications whichever interpr. is chosen. With the standard tr. I 88 take pínvanti útsam, which opens d, as the main clause on which both the preceding rel. (c: yé rejáyanti) and the following temporal clause (yád áyāsuḥ) depend. In this case pínvanti would be accented because it opens its pāda. However, that verb could be part of the rel. cl. starting in c (yé …), with all of cd dependent on b: “… they become exhilarated -- they who set … to trembling (and) swell the wellspring, when …”
+

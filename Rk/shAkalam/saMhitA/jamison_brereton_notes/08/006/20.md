@@ -1,0 +1,8 @@
++++
+title = "20"
+
++++
+The first problem in this verse is what to do with āsā́. Ge construes it with prasvàḥ “Die … durch den Mund gebärend…,” and it would also be possible to take it with ácakriran, as Old seems to imply, yielding “with their mouth they have made you their child.” In either case this would require that ‘mouth’ is equivalent to the products of mouth, namely noise, and that the bellowing of the cows, which stands for the poets’ insights, is the instrumental cause. This is not impossible; indeed āsā́ sometimes refers to poetic speech. But I suggest instead that āsā́gárbha- is an idiom, “infant-by-mouth,” that is, nursling, and that they are nurturing him directly.
+
+Pāda c is puzzling, in part because it lacks both a verb and both parts of the frame that should match the simile dhármeva sū́ryam. The verb is the easiest: the preverb pári invites us to supply a form of √as ‘be’, in the standard idiom ‘surround, envelop’. Ge’s reconstruction of the frame also seems the most likely: the subject continues to be the cows/insights of vss. 19 and 20ab, the object ‘you’ [=Indra]. They surround/envelop him in a nurturing, maternal manner. But the image in the simile is very different: I do not know of other places in which the sun is surrounded or enveloped in this fashion or what “supports” could be involved. If they are in fact the “supports (of heaven),” as seems at least reasonable, it is possible to envision the sun operating within a space defined by these supports - though, again, this does not seem to be a RVic notion elsewhere. See Old for other, not particularly plausible, scenarios. As indicated in the publ. intro., the translation given is very uncertain.
+

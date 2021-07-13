@@ -1,0 +1,14 @@
++++
+title = "03"
+
++++
+Gr, Ge, et al. take hūyámānam to refer to the call or summons to Indra (e.g., Ge “Wie hört Indra den Ruf?”). Kulikov (-ya-presents, 307-8) rejects this interpr., noting that this is the only instance of such a construction: normally the subject of the passive is the deity being invoked. Although he reluctantly admits that it might correspond to the rare transitive type in which what is spoken is the object of the verb (1.17.9), he prefers to derive this form from √hu ‘pour’ and translates “How does Indra hear the (libation) being offered?” -- that is, the sound of the pouring. A different reconsideration is found in WG, who interpr. hūyámāna- in the standard way, as having the deity invoked as its subject -- but they think Indra is listening to the summons to a different deity than Indra. Although I recognize that the standard interpr. may have glided too swiftly over the problems with hūyámāna-, the two revisionist versions both seem overelaborate and implausible to me. Since it is undeniable that forms of √hū do sometimes take what is spoken as obj. (see the above-cited I.17.9, as well as juxtaposed occurrences of hávya- in VI.21.1 with comm. there), I think we must allow this rare usage in the passive as well, a point made very economically by Old. My tr. follows that of Thieme (p. 31) “Wie hört Indra den [Ruf], der gerufen wird?” In b ávasām is taken by all modern comm. and tr. as the gen. pl. of ávas- ‘help’ that it appears to be. Although this gen. pl. is not otherwise attested (the only pl.
+
+cases are nom./acc. and instr.), ávasām is what the gen. pl. of this stem would be.
+
+Moreover, it can easily be the complement of veda, which takes both acc. and gen. Nonetheless I favor Gr’s interpr., that it is the acc. sg. of a root noun cmpd from áva √sā ‘unhitch’. There is a major obvious stumbling block: the accent. Root noun cmpds are invariably accented on the final, so we expect *avasā́m. However, the other putative ex. of this cmpd at III.53.20 has been mangled in transmission (see disc. by Scar s.v. and comm. ad loc.), and I think it likely that the dominance of the ‘help’ stem, which is remarkably well attested, led to a redactional change in accent.
+
+One of the reasons I favor this solution has to do with the asya. In the ‘help’ interpr., the asya would refer to the mortal who will receive this help (see Ge n. 3b), but this hymn contains a lot of asya’s, and they all otherwise refer to Indra: 2a, 2b, 2c, 3c, 5c, 6c, plus enam 3d and asmin 5d. I very much doubt the poet would break this sequence with a pronoun referring to someone else. The only exception is asyā́(ḥ) 5a, which is both accented and feminine, and is playing a trick by its patterning with the asya in 5c.
+
+For úpamāti- from úpa √mā ‘mete out’, see comm. ad VIII.40.9.
+

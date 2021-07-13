@@ -1,0 +1,10 @@
++++
+title = "05"
+
++++
+gopā́(ḥ) in pāda a can be either sg. or pl. All the standard tr. take it as the former, referring to Agni, but this makes grammatical difficulties. Ge interprets the following asya as a word-haplology for *asy *asyá, thereby getting the 2nd sg. copula but gratuitously accenting the pronoun. Old reads *asy for asya and suggests accenting *cáranti. Re takes viśā́ṃ gopā́(ḥ) as a 3rd sg. expression (“Agni est …”) and seems to leave the following text alone. But all such tr. must introduce an accent on whatever word they think follows the short initial clause, since, as it stands, two unaccented words, asya caranti, would open that clause. These difficulties can be avoided by interpreting gopā́ḥ as plural, subject of caranti and coreferential with jantávaḥ. Pl. gopā́- is elsewhere used of Agni’s sidekicks, presumably his flames, in VI.8.7. Though it is true that this same expression viśā́ṃ gopā́(ḥ) is found two hymns later (I.96.4) as an undoubted singular referring to Agni, the grammatical complications resulting from taking it as a singular here outweigh that argument for me.
+
+Most tr. take the two-footed and four-footed as appositional to jantávaḥ and therefore as those who roam by night. This is contrary to the usual RVic vision of the creatures settling down at night. Agni’s flames make more sense as the roamers, evoking the flickering firelight that provides nightly illumination. The flames are called “herdsmen” because people and animals gather around the fire then, like a flock. This interpretation does raise the question of how to construe the nom. case of that expression dvipác ca yád utá cátuṣpat. I take it as a definitional relative clause expanding on viśā́m (so also Old). The ca … utá is a mix of two “both … and” constructions: X ca Y ca and utá X utá Y, with the first half of the conjoined NP fronted around the subordinating yád. This construction is very similar to 9b dūré vā yé ánti vā ké cid, complete with the fronted first element.
+
+The etymological relationship between citráḥ and praketáḥ in c is not easily rendered in English.
+

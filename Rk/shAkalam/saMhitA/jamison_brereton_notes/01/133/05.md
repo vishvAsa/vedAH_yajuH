@@ -1,0 +1,8 @@
++++
+title = "05"
+
++++
+This last verse of the colloquially bloodthirsty first hymn of the composite pulls out all the stops with striking interlocking phonetic figures in ab: #piśaṅga ...
+
+\#piśā́cim ... and (piśáṅg)abhrṣṭ̥ im ambhr̥ṇám# ... (s)ám mr̥ṇa# The latter sequence helps explain why we have another impossible hapax: ambhṛṇá-; as often, difficult words appear in contexts that play on their phonological shape. Again, wisdom would suggest leaving it untr. or at least tr. with a vague contextually generated term like ‘monstrous’, but I have had the temerity to suggest another very shaky etymology. I suggest that this is a colloquial deriv. of the lexeme ánu √bhṛ, a euphemistic idiom that refers to sexual assault and penetration -- e.g., in the cosmic incest myth (X.61.5). See comm. ad I.88.6 and Jamison 1981 (“A Vedic sexual pun: ástobhayat, anubhartrī, and RV I.88.6,” Acta Orientalia 42 [1981] 55- 63). The initial am would represent an apocopated form of the preverb ánu, a change that fits the register in the rest of the hymn. My ‘ballsy’ is an attempt to capture the slangy irreverence. Since Piśācas are later associated with sexual misconduct towards women -- at least on the basis of the Paiśāca “marriage” (e.g., MDŚ III.34), which involves taking advantage of a maiden who is asleep, intoxicated, or disordered -- a sexual interpr. of the adjective qualifying the Piśāci here would be entirely fitting. The same idiom, with an even more MIA cast, may be found in AirĀr ambhaṇa- ‘Bauch der Laute’ (belly of the lute); as discussed in my 1981 paper, the vīnā bears some resemblance to male genitalia and jokes about its shape are still current in South Asia.
+

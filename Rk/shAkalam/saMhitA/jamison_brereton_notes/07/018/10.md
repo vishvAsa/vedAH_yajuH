@@ -1,0 +1,18 @@
++++
+title = "10"
+
++++
+The vs. begins īyúr gā́vo ná, very similar to the opening of the preceding vs. 9 īyúr árthaṃ ná. The simile of the cows without a cowherd (gā́vo ná … ágopāḥ) presumably depicts the disordered flight of the troops that have lost their leader.
+
+I have now considerably changed my interpr. of the 2nd pāda. In the publ. tr. I take citā́saḥ as belonging to √ci ‘perceive’, meaning ‘perceived as, seeming’, rather than to √ci ‘gather’, the usual interpr. I now think the standard root assignment is 7 correct, but that it means not ‘assembled, gathered’ (so Ge, Schmidt) but ‘piled up’.
+
+In other words, the panic-stricken troops, running pell-mell without an overall leader, hit an obstacle and pile up on top of each other in a heap of bodies.
+
+The object they run into (abhí) is the opposing side, which is acting as allied forces under a properly concluded agreement: yathākṛtám … mitrám. The standard view of this phrase is that it describes the situation of the subjects, the fleeing fighters, construed with citā́saḥ and therefore referring to an accidental or on-thespot alliance; so Ge “zu zufällig geschlossener Freundschaft geschart,” Schmidt “...
+
+assembled for an alliance made on the spur of the moment.” But as Old points out, mitrám √kṛ is the standard phrase for concluding an alliance in the normal fashion, not for one made under pressure or by chance. It therefore better describes the wellorganized forces the subjects are confronting, and as I said in the comm. to the preceding vs., the adj. amítrān there may well describe the lack of alliance among these fighters going to defeat, here contrasted with our side, which is acting in concert under a functioning alliance. I would therefore alter the publ. tr. to “They went … piled up against an alliance properly concluded [=their enemies].” In c the pl. pṛ́śnigāvaḥ may well be the name of a clan, as Old suggests; the PN interpr. is followed also by Ge and Schmidt as well as the publ. tr. But it of course has a straightforward bahuvrīhi interpr. (‘having dappled cows’) and, more to the point, echoes the cow simile of the first hemistich, with -gāvaḥ in the same metrical position as gā́vaḥ in a. That the first member pṛ́śni- is immediately repeated in the cmpd pṛ́śni-nipreṣitāsaḥ calls further attention to the cmpd analysis. As for the 2nd cmpd., I am drawn to Ge’s suggestion (n. 10) that pṛ́śni- is a pun on the river name Paruṣṇī.
+
+In d ránti- is problematic. In its other occurrence, IX.102.5, it clearly means ‘joys’. But that makes no sense here. Ge refuses to tr.; Old tentatively suggests that the word has developed into a “sakral-poetisch” term for cow, presumably starting from ‘joy’. Schmidt tr. “supply lines” (< ‘refreshment’ < ‘enjoyment’), but this seems a semantic chain too tenuous, esp. since the logistics and support for the battle do not otherwise figure in this hymn (unless in 15cd). I take it as ‘battler’, assuming that it shows the same semantic bifurcation as ráṇa-, both ‘joy’ and ‘battle’.
+
+The phrase śruṣṭím cakruḥ opening d, “they followed orders,” forms a ring with the same phrase in 6c. This is, at first, puzzling, since vss. 6-10 do not appear to form a discrete section. However, on 2nd glance we can note that these five vss. mark out the most intense and name-heavy portion of the battle. Starting with the next vs. Indra takes over the fighting, and the hymn turns to the celebration of Indra and his victorious feats; vs. 5, preceding this section, also attributes the whole victory to Indra. The god is absent from 6-10, with the combatants on their own and engaged in pitched battle.
+

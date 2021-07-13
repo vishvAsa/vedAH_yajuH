@@ -1,0 +1,6 @@
++++
+title = "07"
+
++++
+The voc. pumas ‘o male’ is rather stark. It is in fact the only occurrence of the voc. of this stem in the RV and the only place where the stem is used of Soma. I ascribe its use here to the contrast being drawn with the feminines in vss. 4-6 (as well, perhaps, as the two mothers in 3) and to the martial content of the vs. As I argued already in my dissertation and the -áya-monograph based upon it, I consider the supposed root √kḷp to have been extracted from the -áya-transitive kalpáyati, itself (in my view) a -p-formation to √kṛ with “popular” l. The early rarity of the thematic noun kálpa-, very common later but found in the RV only here and in the privative form akalpá- (I.102.6), supports this view. In the publ. tr. I followed the standard interpr. of kálpa- in this passage as ‘ritual work’ (Ge “bei den heiligen Bräuchen,” Re “les rite”), based in part on its later usage. I still think this is a possible reading. However, on the basis of my interpr. of akalpá- in I.102.6 (see comm. ad loc.) and the rest of the vs. here, I wonder now if they are not rather (or in addition) martial arrangements: the address to Soma as ‘male’ (pāda a), the statement that darkness must be fought (yódhyā)(b), and the intensive subjunctive of √han, jaṅghanaḥ (c) all favor a more bellicose interpr.
+

@@ -1,0 +1,9 @@
++++
+title = "06"
+
++++
+I assume that “the flourishing of Sūryā” is simply an elaborate way of saying Sūryā. (MLW comments simply “Cf. Gk. βίη Ἡρακλείη.”) Ge (n. 6b; fld. by Re) suggests that it is meant to convey that the beauty of Sūryā increases the beauty of the Aśvins but I don't see this. I take the dat. śubhé in the same way as śriyé (5a and commonly elsewhere, e.g., in the next hymn VI.64.1), vápuṣe (6c), as vaguely attached datives of purpose/result.
+
+The latter (vápuṣe) Ge takes adverbially (“erstaunlich”), and he construes vām simply as a poss. gen. (“Eure Vogel(rosse)”). I think there is more content here and take ánu with vām (“after/following you”), separated because vām is taking Wackernagel’s position. The beautiful chariot of the beautiful Aśvins carrying the beautiful Sūryā must have been an amazing sight, and the birds in their wonder follow it. As their relative geographical positions indicate (birds after chariot), I think these birds are not, or not only, the Vogelrosse pulling the Aśvins chariot, but also the birds in the world who see the marvel and rise up to accompany it. The songs of the birds in a choir (vā́ṇī) reach the Aśvins to make them well-praised (súṣṭutā). As this indicates, I take súṣṭutā as dual (so also Gr, Ge), a proleptic adj.
+
+describing the state of the Aśvins after the birdsongs reach them. However, as Ge points out (n. 6d), súṣṭutā could also be a nom. sg. fem. modifying vā́ṇī ‘choir, music’, and the adj. is in fact strategically placed between the nom. sg. fem. and the duals. Although a “well-praised choir” doesn’t make a lot of sense in this context, Ge cites VIII.100.11 … vā́k … súṣṭutā -- though it’s worth pointing out that in that passage the reference is to the goddess Speech, while in our passage, as noted, I take the vā́ṇī as referring to the “choir” of birdsong.

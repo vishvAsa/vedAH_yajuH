@@ -1,0 +1,10 @@
++++
+title = "05"
+
++++
+On the name Śipiviṣṭa, see comm. ad VII.99.4. Note that Viṣṇu’s name was already celebrated in 3d, though the actual name is not mentioned there.
+
+The syntactic affiliation of aryáḥ is disputed: the question is whether it depends on vayúnāni or simply picks up te in the previous pāda. With Ge and Re I follow the latter course; Re argues cogently that vayúna- √vid does not normally have a “régime extérieur” (though I.72.7, II.19.3 appear to be exceptions). I would 131 further add that since Śipiviṣṭa seems a type of “secret name,” referring to Viṣṇu as a stranger (arí-) might fit with that. By contrast Thieme construes aryáḥ with vayúnāni, in two somewhat different ways: Fremdling (1938, p. 41) “… kennend die Ordnungen, die für den Fremdling gelten,” later corrected in Unters. (1949, 22 n. 1) to “… kennend die Geheimnisse des Fremden.” The end of pāda c tavásam átavyān#, with the s-stem adj. followed by a (negated) comparative to the same root, nicely echoes the end of 3c with the same configuration but the comparative not negated: tavásas távīyāni. The employment of longer and shorter forms of the comparative (i.e., with or without the linking vowel - ī-) allows the phrases to make an almost exact metrical match -- except that the cadence of 5c is faulty (... -sam átavyān), with a light syllable at the beginning (and in fact 5 light syllables in a row (… -i tavásam a-), starting right before the caesura and continuing through the break and into the cadence. As in the paired vss. 3-4 the metrical disturbance may call attention to the formulaic match. átavyān also picks up kīráyaḥ ‘(even) the weak’ in 4c semantically.
+
+In d the pres. part. kṣáyantam is rendered by both Re and Th (Fremdl.) as if it belongs to √kṣi ‘dwell’ (“qui résides” and “… [dich,] der da wohnt”), but the part. to the root pres. of that root is kṣiyánt-; the part. here must belong to √kṣā ‘rule over’ (them. pres. kṣáyati). Ge may be trying to have it both ways with his “der … thront,” if my German dictionaries are correct in glossing thronen as “sit enthroned.”
+

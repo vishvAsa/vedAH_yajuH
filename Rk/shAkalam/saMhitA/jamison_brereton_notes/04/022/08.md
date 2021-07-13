@@ -1,0 +1,12 @@
++++
+title = "08"
+
++++
+asmadryàk opening 8c ushers in the suite of pāda-initial emphatic forms of the 1st pl. pronoun that lasts and intensifies through the real end of the hymn, vs. 10 (vs. 11 being the Vāmadeva Indra refrain): 8c: asmadryàk, 9a asmé, 9c asmábhyam, 10a asmā́kam, 10b asmábhyam, 10c asmábhyam, 10d asmā́kam. Kü (310) interpr. pipīḷé as presential, but there is in fact no way to tell: this is not only the only perfect form to this root attested anywhere but the only verb form to it in the RV (pīḍayati is added in the AV). I think it works better as an immediate past, although there is in practice little difference between my “has been squeezed” and Kü’s “ausgepresst ist.” Ge, flg. Sāy., takes mádyaḥ with āṃśúḥ and explains the position of ná as “wie oft in Pādaausgang vor dem Vergleich.” But there seems no reason to ignore the usual structure of the simile, since mádyaḥ easily modifies síndhuḥ.
+
+The syntax of bc is somewhat unusual, in that the subject / verb construction is split over the hemistich boundary (b … śaktíḥ# c … yamyāḥ#), while the object tvā is in Wackernagel’s position in pāda b. Moreover, at least in the publ. tr. the genitive that limits the subj. śaktíḥ is only found in the next pāda: śuśucānásya. Ge (/WG) take the gen. śaśamānásya in b as dependent on śaktíḥ, with śámī an instr. adjunct to that participle: “the skill of the one laboring with labor” -- in contrast to the publ. tr., where śaśamānásya is dependent on śámī. I now think that the Ge interpr. may be preferable and would emend the publ. tr. to “Might the skill of the one laboring with labor (and) of the bright-blazing one pull …” The question is whether the two genitives are coreferential, with bright-blazing Agni identified as the one laboring with labor, or whether a (human) priest and Agni are both referred to. I do not think this can be determined, esp. since subjects of √śam elsewhere include both Agni and mortals.
+
+The simile in d and the frame in bc have slightly different senses. In the simile the swift horse is pulling on the reins: it is so eager to reach its goal that it strains against the reins rather than being guided by them. In the frame the śaktíḥ of the priest/god is strong enough to pull Indra to us. The difference in the relation of the accusative to the verb results from exploiting different senses of the root √yam.
+
+Despite Old’s expressed disbelief, I think Gr and Ludwig are correct in taking góḥ ‘of the cow’ to refer to reins made of leather. On pāda-final góh see also disc. ad vs. 4c.
+
