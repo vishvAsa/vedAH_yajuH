@@ -53,8 +53,9 @@ they are found). An index is provided for these.
 ## Abbreviations
 Unless otherwise indicated, “publ. intro” = the introduction to the
 hymn in question in our published translation. Other abbreviations: tr. can =
-translation(s), translator(s), translate(s); interpr. = interpret(s), interpretation(s). Gr =
-Grassmann, Ge = Geldner, Re = Renou (ÉVP unless otherwise noted), Old =
+translation(s), translator(s), translate(s); interpr. = interpret(s), interpretation(s). 
+
+Gr = Grassmann, Ge = Geldner, Re = Renou (ÉVP unless otherwise noted), Old =
 Oldenberg (Noten, unless otherwise noted), Th = Thieme, Hoff / KH = Karl
 Hoffmann, WG = Witzel Gotō, Sāy = Sāyaṇa, Bl = M. Bloomfield, RR = Rig-Veda
 Repetitions, Macd = Macdonell, HvN = Holland & van Nooten RV ed., Mau =
