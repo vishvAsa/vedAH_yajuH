@@ -2,4 +2,4 @@
 title = "01"
 
 +++
-Make auspicious thought our familiar.
+Make auspicious thought our familiar.  
