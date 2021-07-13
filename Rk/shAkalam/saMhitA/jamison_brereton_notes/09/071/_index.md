@@ -6,3 +6,6 @@ On the structure of this hymn see publ. intro. As indicated there, it is structu
 
 The hymn continues the preoccupation with the clothing and coverings that Soma assumes in the course of the ritual preparation, particularly in the first two and last two vss.
 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/068-086.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
