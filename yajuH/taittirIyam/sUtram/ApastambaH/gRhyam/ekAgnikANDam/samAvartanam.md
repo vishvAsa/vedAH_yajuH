@@ -5,32 +5,21 @@ unicode_script: devanagari
 
 
 ## समिदाधानम्
-इ॒म२ꣳ स्तोम॒म् अर्ह॑ते+++(=स्तुत्यर्हाय)+++ जा॒तवे॑दसे॒  
-+++(यथा तक्षा!)+++ रथ॑मिव॒ संम॑हेमा मनी॒षया॑+++(=बुद्ध्या)+++ ।+++(४)+++  
-भ॒द्रा हि नः॒ प्रम॑तिर् अस्य +++(अग्नेः)+++ स॒ꣳ॒सद्य्  
-अग्ने॑ स॒ख्ये॑ मा रि॑षामा व॒यं तव॑ ।+++(५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/01_ima2M_stomamarhate.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## क्षौरकर्म
 +++(क्षुराभिमन्त्रणम्)+++  
-त्र्या॒यु॒षं+++(=कौमारयौवनस्थाविराणि)+++ ज॒मद॑ग्नेः  
-क॒श्यप॑स्य त्र्यायु॒षम् ।  
-यद्दे॒वानां॑ त्र्यायु॒षन्  
-तन्मे॑ अस्तु त्र्यायु॒षम् ।+++(५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/02_tryAyuSha~n_jamadagneH.md"  newLevelForH1="2" includeTitle="false"> </div>
 +++(क्षुरकर्मणा वयोगतिम् अभिलक्ष्य।)+++
 
 ____________
 +++(क्षुरं वप्त्रे प्रयच्छति)+++  
-शि॒वो नामा॑सि॒,  
-स्वधि॑तिस्+++(=परशुः, वज्रः)+++ ते पि॒ता।  
-+++(वज्रो वै स्वधितिः इति दर्शनात्)+++  
-नम॑स्ते अस्तु॒।  
-मा मा॑ हिꣳसीः ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/03_shivo_nAmAsi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="../upanayanam/digvapanam/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/04-11_uShNena_vAyavudakenetyeShaH.md" includeTitle="true"> </div>  
 
 ## मेखलाया उपगूहनम्
-इ॒दम् अ॒हम् अ॒मुष्या॑ऽऽमुष्याय॒णस्य॑+++(←नामनिर्देशः)+++ पा॒प्मान॒म् उप॑गूहा॒म्य्,  
-उत्त॑रो॒ ऽसौ+++(←नामनिर्देशः)+++ द्वि॒षद्भ्यः॑ ।+++(५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/12_idamahamamuShyAmuShyAyaNasya_pApmAnamupagUhAmyuttaro-sau.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## स्नानम्
 <div class="js_include" url="/devaH/hindukaH/jalam/Rk/Apo_hi_ShThA/"  newLevelForH1="3" includeTitle="true"> </div>  
@@ -43,7 +32,7 @@ ____________
 सोमो॒ राजा॒ऽयम् आग॑म॒त्,  
 स मे॒ मुखं॒ प्रवे॑क्ष्यति॒ भगे॑न स॒ह वर्च॑सा ।+++(र५)+++  
 
-## वासः परिधत्ते 
+## वासः परिधत्ते
 सोम॑स्य त॒नूर् अ॑सि। +++(सौम्यँ वै वासः इति श्रुतेः।)+++  
 त॒नुवं॑ मे पाहि॒।  
 स्वामा॑ त॒नूर् आवि॑श +++(सोमस्य यथा)+++।+++(र५)+++  
@@ -70,15 +59,15 @@ __________________
 ब्रह्मवर्च॒सिनं॑ मा करोतु ।  
 __________________
 
-+++(ग्रीवास्वाबध्नाति)+++ 
++++(ग्रीवास्वाबध्नाति)+++
 अपा॑शो॒ ऽस्य् - उरो॑ मे॒ मा सꣳशा॑रीः+++(=हिंसीः)+++ ।  
 शि॒वो मोप॑तिष्ठस्व - दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ।  
 श॒तꣳ श॒रद्भ्य॒ आयु॑षे॒ वर्च॑से जी॒वात्वै+++(=जीवनाय)+++ पुण्या॑य ।  
 
 ## dvitIya-vAsaH-paridhAnam
-<div class="js_include" url="../upanayanam/vAsas-saMskAraH/"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="../upanayanam/vAsas-saMskAraH/"  newLevelForH1="3" includeTitle="false"> </div>
 
-## दशायां प्रवर्तो प्रबध्य जुहोति 
+## दशायां प्रवर्तो प्रबध्य जुहोति
 आ॒यु॒ष्यं॑ वर्च॒स्यꣳ॑ सु॒वीर्यꣳ॑  
 रा॒यस्पोष॒म् औद्भि॑द्यम्+++(→यशस्यम्)+++ ।  
 इ॒दꣳ हिर॑ण्यं॒ जैत्र्या॒या+++(=जयहेतवे)+++ऽवि॑शता॒न् माम् ।  
@@ -106,7 +95,7 @@ __________________
 स॒ꣳ॒राध॑न्यै दे॒व्यै स्वाहा॑ ।  
 प्र॒साध॑न्यै दे॒व्यै स्वाहा॑ ।  
 
-<div class="js_include" url="../prakIrNam/saMrAjan_cha/"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="../prakIrNam/saMrAjan_cha/"  newLevelForH1="3" includeTitle="false"> </div>
 
 
 ## स्रग्बन्धनम्
@@ -137,7 +126,7 @@ __________________
 इ॒दन् तत् पुन॒र् आद॑दे  
 दीर्घायु॒त्वाय॒ वर्च॑से ।  
 
-## उपानद्ग्रहणमन्त्रः 
+## उपानद्ग्रहणमन्त्रः
 प्र॒ति॒ष्ठे स्थो॑ दे॒वता॑ना॒म्।  
 मा मा॒ +++(नवपादरक्ष-व्रणोत्पादनेन)+++ सन्ता॑प्तम् ।+++(४)+++  
 
@@ -146,7 +135,7 @@ __________________
 ब्रह्म॑णश् छ॒दिर् वि॑श्व-ज॒नस्य॑ छा॒याऽसि॑।  
 स॒र्वतो॑ मा पाहि ।  
 
-## दण्डादानमन्त्रः 
+## दण्डादानमन्त्रः
 दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वे॑+++(=अनुज्ञायां)+++  
 ऽश्विनो॑र्बा॒हुभ्यां॑ पू॒ष्णो हस्ता॑भ्या॒म्  
 आ द॑दे।  
