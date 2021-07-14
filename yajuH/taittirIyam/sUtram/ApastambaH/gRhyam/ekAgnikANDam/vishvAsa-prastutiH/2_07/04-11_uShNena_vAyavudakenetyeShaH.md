@@ -2,10 +2,5 @@
 title = "०४-११ उष्णेन वायवुदकेनेत्येषः"
 
 +++
-## मन्त्रः
 
-उ॒ष्णेन॑ वायवुद॒केनेत्ये॒षः ।  
-
-## टीका
-उष्णेन वायवुदकेन इति ॥ गतार्थाः ॥
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/digvapanam.md"  newLevelForH1="2" includeTitle="false"> </div>
