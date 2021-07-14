@@ -7,4 +7,3 @@ sáṃ vāṃ śatā́ nāsatiyā sahásrā
 bharádvājāya vīra nū́ giré dād  
 dhatā́ rákṣāṃsi purudaṃsasā syuḥ  
 
-ā́ vāṃ sumné váriman sūríbhiḥ ṣyām  
