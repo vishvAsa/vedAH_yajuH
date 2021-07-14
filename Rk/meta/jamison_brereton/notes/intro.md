@@ -15,8 +15,7 @@ of this sort, online posting seems the ideal medium. The commentary will be post
 piecemeal, and its various pieces will be updated from time to time. We anticipate
 that producing a complete commentary will take some years. At this point only
 Jamison will be posting commentary, primarily on hymns for which she had final
-responsibility. (For the division by translator, see the published translation, pp. 83–
-84.)
+responsibility. (For the division by translator, see the published translation, pp. 83- 84.)
 
 
 When citing from the comm., please give the date of access as well as the date of the
@@ -54,8 +53,9 @@ they are found). An index is provided for these.
 ## Abbreviations
 Unless otherwise indicated, “publ. intro” = the introduction to the
 hymn in question in our published translation. Other abbreviations: tr. can =
-translation(s), translator(s), translate(s); interpr. = interpret(s), interpretation(s). Gr =
-Grassmann, Ge = Geldner, Re = Renou (ÉVP unless otherwise noted), Old =
+translation(s), translator(s), translate(s); interpr. = interpret(s), interpretation(s). 
+
+Gr = Grassmann, Ge = Geldner, Re = Renou (ÉVP unless otherwise noted), Old =
 Oldenberg (Noten, unless otherwise noted), Th = Thieme, Hoff / KH = Karl
 Hoffmann, WG = Witzel Gotō, Sāy = Sāyaṇa, Bl = M. Bloomfield, RR = Rig-Veda
 Repetitions, Macd = Macdonell, HvN = Holland & van Nooten RV ed., Mau =
