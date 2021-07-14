@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá yé diváḥ pr̥thivyā́ ná barháṇā  
-tmánā riricré abhrā́n ná sū́riyaḥ  
-pā́jasvanto ná vīrā́ḥ panasyávo  
-riśā́daso ná máryā abhídyavaḥ  
+प्र꣡ ये꣡ दिवः꣡ पृथिव्या꣡ न꣡ बर्ह꣡णा  
+त्म꣡ना रिरिच्रे꣡ अभ्रा꣡न् न꣡ सू꣡रियः  
+पा꣡जस्वन्तो न꣡ वीराः꣡ पनस्य꣡वो  
+रिशा꣡दसो न꣡ म꣡र्या अभि꣡द्यवः  

@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-yád indra manmaśás tuvā  
-nā́nā hávanta ūtáye  
-asmā́kebhir nŕ̥bhir átrā súvar jaya  
+य꣡द् इन्द्र मन्मश꣡स् तुवा  
+ना꣡ना ह꣡वन्त ऊत꣡ये  
+अस्मा꣡केभिर् न्ŕ̥भिर् अ꣡त्रा सु꣡वर् जय  

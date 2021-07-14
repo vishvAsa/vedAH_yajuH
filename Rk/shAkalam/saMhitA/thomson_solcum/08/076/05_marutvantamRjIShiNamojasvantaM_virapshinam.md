@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-marútvantam r̥jīṣíṇam  
-ójasvantaṃ virapśínam  
-índraṃ gīrbhír havāmahe  
+मरु꣡त्वन्तम् ऋजीषि꣡णम्  
+ओ꣡जस्वन्तं विरप्शि꣡नम्  
+इ꣡न्द्रं गीर्भि꣡र् हवामहे  

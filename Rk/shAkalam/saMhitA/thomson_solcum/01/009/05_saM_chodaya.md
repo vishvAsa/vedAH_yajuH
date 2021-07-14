@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sáṃ codaya citrám arvā́g  
-rā́dha indra váreṇiyam  
-ásad ít te vibhú prabhú  
+सं꣡ चोदय चित्र꣡म् अर्वा꣡ग्  
+रा꣡ध इन्द्र व꣡रेणियम्  
+अ꣡सद् इ꣡त् ते विभु꣡ प्रभु꣡  

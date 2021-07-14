@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mumóda gárbho vr̥ṣabháḥ kakúdmān  
-asremā́ vatsáḥ śímīvām̐ arāvīt  
-sá devátāti údyatāni kr̥ṇván  
-svéṣu kṣáyeṣu prathamó jigāti  
+मुमो꣡द ग꣡र्भो वृषभः꣡ ककु꣡द्मान्  
+अस्रेमा꣡ वत्सः꣡ शि꣡मीवाँ अरावीत्  
+स꣡ देव꣡ताति उ꣡द्यतानि कृण्व꣡न्  
+स्वे꣡षु क्ष꣡येषु प्रथमो꣡ जिगाति  

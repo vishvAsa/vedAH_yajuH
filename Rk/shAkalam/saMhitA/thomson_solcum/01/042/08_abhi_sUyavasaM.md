@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-abhí sūyávasaṃ naya  
-ná navajvāró ádhvane  
-pū́ṣann ihá krátuṃ vidaḥ  
+अभि꣡ सूय꣡वसं नय  
+न꣡ नवज्वारो꣡ अ꣡ध्वने  
+पू꣡षन्न् इह꣡ क्र꣡तुं विदः  

@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tám índraṃ johavīmi maghávānam ugráṃ  
-satrā́ dádhānam ápratiṣkutaṃ śávāṃsi  
-máṃhiṣṭho gīrbhír ā́ ca yajñíyo vavártad  
-rāyé no víśvā supáthā kr̥ṇotu vajrī́  
+त꣡म् इ꣡न्द्रं जोहवीमि मघ꣡वानम् उग्रं꣡  
+सत्रा꣡ द꣡धानम् अ꣡प्रतिष्कुतं श꣡वांसि  
+मं꣡हिष्ठो गीर्भि꣡र् आ꣡ च यज्ञि꣡यो वव꣡र्तद्  
+राये꣡ नो वि꣡श्वा सुप꣡था कृणोतु वज्री꣡  

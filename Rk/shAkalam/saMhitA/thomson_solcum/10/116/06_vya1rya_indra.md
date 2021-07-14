@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ví aryá indra tanuhi śrávāṃsi  
-ója sthiréva dhánvano 'bhímātīḥ  
-asmadríag vāvr̥dhānáḥ sáhobhir  
-ánibhr̥ṣṭas tanúvaṃ vāvr̥dhasva  
+वि꣡ अर्य꣡ इन्द्र तनुहि श्र꣡वांसि  
+ओ꣡ज स्थिरे꣡व ध꣡न्वनो ऽभि꣡मातीः  
+अस्मद्रि꣡अग् वावृधानः꣡ स꣡होभिर्  
+अ꣡निभृष्टस् तनु꣡वं वावृधस्व  

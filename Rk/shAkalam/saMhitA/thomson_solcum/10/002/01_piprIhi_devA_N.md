@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-piprīhí devā́m̐ uśató yaviṣṭha  
-vidvā́m̐ r̥tū́m̐r r̥tupate yajehá  
-yé daíviyā r̥tvíjas tébhir agne  
-tuváṃ hótr̥̄ṇām asi ā́yajiṣṭhaḥ  
+पिप्रीहि꣡ देवाँ꣡ उशतो꣡ यविष्ठ  
+विद्वाँ꣡ ऋतूँ꣡र् ऋतुपते यजेह꣡  
+ये꣡ दइ꣡विया ऋत्वि꣡जस् ते꣡भिर् अग्ने  
+तुवं꣡ हो꣡तॄणाम् असि आ꣡यजिष्ठः  

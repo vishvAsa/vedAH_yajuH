@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuváṃ tā́m̐ agna ubháyān ví vidvā́n  
-véṣi prapitvé mánuṣo yajatra  
-abhipitvé mánave śā́siyo bhūr  
-marmr̥jénya · uśígbhir ná akráḥ  
+तुवं꣡ ताँ꣡ अग्न उभ꣡यान् वि꣡ विद्वा꣡न्  
+वे꣡षि प्रपित्वे꣡ म꣡नुषो यजत्र  
+अभिपित्वे꣡ म꣡नवे शा꣡सियो भूर्  
+मर्मृजे꣡न्य · उशि꣡ग्भिर् न꣡ अक्रः꣡  

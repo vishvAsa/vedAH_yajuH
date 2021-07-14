@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-táma āsīt támasā gūḷhám ágre  
-apraketáṃ saliláṃ sárvam ā idám  
-tuchyénābhú ápihitaṃ yád ā́sīt  
-tápasas tán mahinā́jāyataíkam  
+त꣡म आसीत् त꣡मसा गूऌह꣡म् अ꣡ग्रे  
+अप्रकेतं꣡ सलिलं꣡ स꣡र्वम् आ इद꣡म्  
+तुछ्ये꣡नाभु꣡ अ꣡पिहितं य꣡द् आ꣡सीत्  
+त꣡पसस् त꣡न् महिना꣡जायतइ꣡कम्  

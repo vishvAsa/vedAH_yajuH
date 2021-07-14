@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-kíṃ te kr̥ṇvanti kī́kaṭeṣu gā́vo  
-nā́śíraṃ duhré ná tapanti gharmám  
-ā́ no bhara prámagandasya védo  
-naicāśākhám maghavan randhayā naḥ  
+किं꣡ ते कृण्वन्ति की꣡कटेषु गा꣡वो  
+ना꣡शि꣡रं दुह्रे꣡ न꣡ तपन्ति घर्म꣡म्  
+आ꣡ नो भर प्र꣡मगन्दस्य वे꣡दो  
+नैचाशाख꣡म् मघवन् रन्धया नः  

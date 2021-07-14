@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuváṃ no asyā́ uṣáso víuṣṭau  
-tuváṃ sū́ra údite bodhi gopā́ḥ  
-jánmeva nítyaṃ tánayaṃ juṣasva  
-stómam me agne tanúvā sujāta  
+तुवं꣡ नो अस्या꣡ उष꣡सो वि꣡उष्टौ  
+तुवं꣡ सू꣡र उ꣡दिते बोधि गोपाः꣡  
+ज꣡न्मेव नि꣡त्यं त꣡नयं जुषस्व  
+स्तो꣡मम् मे अग्ने तनु꣡वा सुजात  

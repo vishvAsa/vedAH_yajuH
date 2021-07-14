@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-kathā́ ha tád váruṇāya tvám agne  
-kathā́ divé garhase kán na ā́gaḥ  
-kathā́ mitrā́ya mīḷhúṣe pr̥thivyaí  
-brávaḥ kád aryamaṇé kád bhágāya  
+कथा꣡ ह त꣡द् व꣡रुणाय त्व꣡म् अग्ने  
+कथा꣡ दिवे꣡ गर्हसे क꣡न् न आ꣡गः  
+कथा꣡ मित्रा꣡य मीऌहु꣡षे पृथिव्यइ꣡  
+ब्र꣡वः क꣡द् अर्यमणे꣡ क꣡द् भ꣡गाय  

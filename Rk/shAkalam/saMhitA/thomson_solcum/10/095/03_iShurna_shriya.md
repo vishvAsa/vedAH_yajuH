@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-íṣur ná śriyá iṣudhér  
-asanā́ goṣā́ḥ śatasā́ ná ráṃhiḥ  
-avī́re krátau ví davidyutan ná  
-úrā ná māyúṃ citayanta dhúnayaḥ  
+इ꣡षुर् न꣡ श्रिय꣡ इषुधे꣡र्  
+असना꣡ गोषाः꣡ शतसा꣡ न꣡ रं꣡हिः  
+अवी꣡रे क्र꣡तौ वि꣡ दविद्युतन् न꣡  
+उ꣡रा न꣡ मायुं꣡ चितयन्त धु꣡नयः  

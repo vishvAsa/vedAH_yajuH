@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-kadā́ sūnúḥ pitáraṃ jātá ichāc  
-cakrán ná áśru vartayad vijānán  
-kó dámpatī sámanasā ví yūyod  
-ádha yád agníḥ śváśureṣu dī́dayat  
+कदा꣡ सूनुः꣡ पित꣡रं जात꣡ इछाच्  
+चक्र꣡न् न꣡ अ꣡श्रु वर्तयद् विजान꣡न्  
+को꣡ द꣡म्पती स꣡मनसा वि꣡ यूयोद्  
+अ꣡ध य꣡द् अग्निः꣡ श्व꣡शुरेषु दी꣡दयत्  

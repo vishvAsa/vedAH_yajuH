@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-pávante vā́jasātaye  
-sómāḥ sahásrapājasaḥ  
-gr̥ṇānā́ devávītaye  
+प꣡वन्ते वा꣡जसातये  
+सो꣡माः सह꣡स्रपाजसः  
+गृणाना꣡ देव꣡वीतये  

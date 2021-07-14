@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-vaiyaśvásya śrutaṃ narā  
-utó me asyá vedathaḥ  
-sajóṣasā váruṇo mitró aryamā́  
+वैयश्व꣡स्य श्रुतं नरा  
+उतो꣡ मे अस्य꣡ वेदथः  
+सजो꣡षसा व꣡रुणो मित्रो꣡ अर्यमा꣡  

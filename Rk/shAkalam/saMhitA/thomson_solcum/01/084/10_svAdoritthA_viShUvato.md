@@ -2,8 +2,8 @@
 title = "010"
 
 +++
-svādór itthā́ viṣūváto  
-mádhvaḥ pibanti gauríyaḥ  
-yā́ índreṇa sayā́varīr  
-vŕ̥ṣṇā mádanti śobháse  
-vásvīr ánu svarā́jiyam  
+स्वादो꣡र् इत्था꣡ विषूव꣡तो  
+म꣡ध्वः पिबन्ति गौरि꣡यः  
+या꣡ इ꣡न्द्रेण सया꣡वरीर्  
+व्ŕ̥ष्णा म꣡दन्ति शोभ꣡से  
+व꣡स्वीर् अ꣡नु स्वरा꣡जियम्  

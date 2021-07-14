@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sanā́d dívam pári bhū́mā vírūpe  
-punarbhúvā yuvatī́ svébhir évaiḥ  
-kr̥ṣṇébhir aktā́ uṣā́ rúśadbhir  
-vápurbhir ā́ carato anyā́anyā  
+सना꣡द् दि꣡वम् प꣡रि भू꣡मा वि꣡रूपे  
+पुनर्भु꣡वा युवती꣡ स्वे꣡भिर् ए꣡वैः  
+कृष्णे꣡भिर् अक्ता꣡ उषा꣡ रु꣡शद्भिर्  
+व꣡पुर्भिर् आ꣡ चरतो अन्या꣡अन्या  

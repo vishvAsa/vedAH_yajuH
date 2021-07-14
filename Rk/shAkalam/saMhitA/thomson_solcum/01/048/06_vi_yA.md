@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ví yā́ sr̥játi sámanaṃ ví arthínaḥ  
-padáṃ ná veti ódatī  
-váyo nákiṣ ṭe paptivā́ṃsa āsate  
-víuṣṭau vājinīvati  
+वि꣡ या꣡ सृज꣡ति स꣡मनं वि꣡ अर्थि꣡नः  
+पदं꣡ न꣡ वेति ओ꣡दती  
+व꣡यो न꣡किष् टे पप्तिवां꣡स आसते  
+वि꣡उष्टौ वाजिनीवति  

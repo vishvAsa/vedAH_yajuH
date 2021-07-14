@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-máhi mahé taváse dīdhiye nr̥̄́n  
-índrāya itthā́ taváse átavyān  
-yó asmai · sumatíṃ vā́jasātau  
-stutó jáne samaríyaś cikéta  
+म꣡हि महे꣡ तव꣡से दीधिये नॄ꣡न्  
+इ꣡न्द्राय इत्था꣡ तव꣡से अ꣡तव्यान्  
+यो꣡ अस्मै · सुमतिं꣡ वा꣡जसातौ  
+स्तुतो꣡ ज꣡ने समरि꣡यश् चिके꣡त  

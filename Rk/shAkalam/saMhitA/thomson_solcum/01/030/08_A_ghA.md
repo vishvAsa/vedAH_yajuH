@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-ā́ ghā gamad yádi śrávat  
-sahasríṇībhir ūtíbhiḥ  
-vā́jebhir úpa no hávam  
+आ꣡ घा गमद् य꣡दि श्र꣡वत्  
+सहस्रि꣡णीभिर् ऊति꣡भिः  
+वा꣡जेभिर् उ꣡प नो ह꣡वम्  

@@ -2,5 +2,5 @@
 title = "011"
 
 +++
-táṃ te sotā́ro rásam mádāya  
-punánti sómam mahé dyumnā́ya  
+तं꣡ ते सोता꣡रो र꣡सम् म꣡दाय  
+पुन꣡न्ति सो꣡मम् महे꣡ द्युम्ना꣡य  

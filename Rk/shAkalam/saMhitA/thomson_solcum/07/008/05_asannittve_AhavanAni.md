@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ásann ít tvé āhávanāni bhū́ri  
-bhúvo víśvebhiḥ sumánā ánīkaiḥ  
-stutáś cid agne śr̥ṇviṣe gr̥ṇānáḥ  
-svayáṃ vardhasva tanúvaṃ sujāta  
+अ꣡सन्न् इ꣡त् त्वे꣡ आह꣡वनानि भू꣡रि  
+भु꣡वो वि꣡श्वेभिः सुम꣡ना अ꣡नीकैः  
+स्तुत꣡श् चिद् अग्ने शृण्विषे गृणानः꣡  
+स्वयं꣡ वर्धस्व तनु꣡वं सुजात  

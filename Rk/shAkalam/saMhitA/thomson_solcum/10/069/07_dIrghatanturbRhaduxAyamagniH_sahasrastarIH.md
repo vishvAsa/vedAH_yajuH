@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-dīrghátantur br̥hádukṣāyám agníḥ  
-sahásrastarīḥ śatánītha ŕ̥bhvā  
-dyumā́n dyumátsu nŕ̥bhir mr̥jyámānaḥ  
-sumitréṣu dīdayo devayátsu  
+दीर्घ꣡तन्तुर् बृह꣡दुक्षाय꣡म् अग्निः꣡  
+सह꣡स्रस्तरीः शत꣡नीथ ŕ̥भ्वा  
+द्युमा꣡न् द्युम꣡त्सु न्ŕ̥भिर् मृज्य꣡मानः  
+सुमित्रे꣡षु दीदयो देवय꣡त्सु  

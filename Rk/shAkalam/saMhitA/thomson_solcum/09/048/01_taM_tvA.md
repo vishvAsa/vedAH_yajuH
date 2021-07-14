@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-táṃ tvā nr̥mṇā́ni bíbhrataṃ  
-sadhástheṣu mahó diváḥ  
-cā́ruṃ sukr̥tyáyemahe  
+तं꣡ त्वा नृम्णा꣡नि बि꣡भ्रतं  
+सध꣡स्थेषु महो꣡ दिवः꣡  
+चा꣡रुं सुकृत्य꣡येमहे  

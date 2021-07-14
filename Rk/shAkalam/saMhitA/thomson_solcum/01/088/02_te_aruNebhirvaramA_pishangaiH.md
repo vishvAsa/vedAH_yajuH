@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-té aruṇébhir váram ā́ piśáṅgaiḥ  
-śubhé káṃ yānti rathatū́rbhir áśvaiḥ  
-rukmó ná citráḥ svádhitīvān  
-pavyā́ ráthasya jaṅghananta bhū́ma  
+ते꣡ अरुणे꣡भिर् व꣡रम् आ꣡ पिश꣡ङ्गैः  
+शुभे꣡ कं꣡ यान्ति रथतू꣡र्भिर् अ꣡श्वैः  
+रुक्मो꣡ न꣡ चित्रः꣡ स्व꣡धितीवान्  
+पव्या꣡ र꣡थस्य जङ्घनन्त भू꣡म  

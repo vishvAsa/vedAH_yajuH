@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-ví tiṣṭhadhvam maruto vikṣú icháta  
-gr̥bhāyáta rakṣásaḥ sám pinaṣṭana  
-váyo yé bhūtvī́ patáyanti naktábhir  
-yé vā rípo dadhiré devé adhvaré  
+वि꣡ तिष्ठध्वम् मरुतो विक्षु꣡ इछ꣡त  
+गृभाय꣡त रक्ष꣡सः स꣡म् पिनष्टन  
+व꣡यो ये꣡ भूत्वी꣡ पत꣡यन्ति नक्त꣡भिर्  
+ये꣡ वा रि꣡पो दधिरे꣡ देवे꣡ अध्वरे꣡  

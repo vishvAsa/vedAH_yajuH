@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-pā́vīravī tanyatúr ékapād ajó  
-divó dhartā́ síndhur ā́paḥ samudríyaḥ  
-víśve devā́saḥ śr̥ṇavan vácāṃsi me  
-sárasvatī sahá dhībhíḥ púraṃdhiyā  
+पा꣡वीरवी तन्यतु꣡र् ए꣡कपाद् अजो꣡  
+दिवो꣡ धर्ता꣡ सि꣡न्धुर् आ꣡पः समुद्रि꣡यः  
+वि꣡श्वे देवा꣡सः शृणवन् व꣡चांसि मे  
+स꣡रस्वती सह꣡ धीभिः꣡ पु꣡रंधिया  

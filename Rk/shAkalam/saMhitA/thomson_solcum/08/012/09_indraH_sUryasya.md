@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-índraḥ sū́ryasya raśmíbhir  
-ní arśasānám oṣati  
-agnír váneva sāsahíḥ prá vāvr̥dhe  
+इ꣡न्द्रः सू꣡र्यस्य रश्मि꣡भिर्  
+नि꣡ अर्शसान꣡म् ओषति  
+अग्नि꣡र् व꣡नेव सासहिः꣡ प्र꣡ वावृधे  

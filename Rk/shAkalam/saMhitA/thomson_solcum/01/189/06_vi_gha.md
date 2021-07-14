@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ví gha tuvā́vām̐ r̥tajāta yaṃsad  
-gr̥ṇānó agne tanúve várūtham  
-víśvād ririkṣór utá vā ninitsór  
-abhihrútām ási hí deva viṣpáṭ  
+वि꣡ घ तुवा꣡वाँ ऋतजात यंसद्  
+गृणानो꣡ अग्ने तनु꣡वे व꣡रूथम्  
+वि꣡श्वाद् रिरिक्षो꣡र् उत꣡ वा निनित्सो꣡र्  
+अभिह्रु꣡ताम् अ꣡सि हि꣡ देव विष्प꣡ट्  

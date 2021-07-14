@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-ā́ pavasva gáviṣṭaye  
-mahé soma nr̥cákṣase  
-éndrasya jaṭháre viśa  
+आ꣡ पवस्व ग꣡विष्टये  
+महे꣡ सोम नृच꣡क्षसे  
+ए꣡न्द्रस्य जठ꣡रे विश  

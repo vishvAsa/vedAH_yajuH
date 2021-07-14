@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tveṣáṃ gaṇáṃ tavásaṃ khā́dihastaṃ  
-dhúnivratam māyínaṃ dā́tivāram  
-mayobhúvo yé ámitā mahitvā́  
-vándasva vipra tuvirā́dhaso nr̥̄́n  
+त्वेषं꣡ गणं꣡ तव꣡सं खा꣡दिहस्तं  
+धु꣡निव्रतम् मायि꣡नं दा꣡तिवारम्  
+मयोभु꣡वो ये꣡ अ꣡मिता महित्वा꣡  
+व꣡न्दस्व विप्र तुविरा꣡धसो नॄ꣡न्  

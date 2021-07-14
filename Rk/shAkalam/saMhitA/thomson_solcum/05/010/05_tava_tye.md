@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-táva tyé agne arcáyo  
-bhrā́janto yanti dhr̥ṣṇuyā́  
-párijmāno ná vidyútaḥ  
-svānó rátho ná vājayúḥ  
+त꣡व त्ये꣡ अग्ने अर्च꣡यो  
+भ्रा꣡जन्तो यन्ति धृष्णुया꣡  
+प꣡रिज्मानो न꣡ विद्यु꣡तः  
+स्वानो꣡ र꣡थो न꣡ वाजयुः꣡  

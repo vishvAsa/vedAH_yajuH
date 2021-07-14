@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sá no návyebhir vr̥ṣakarman ukthaíḥ  
-púrāṃ dartaḥ pāyúbhiḥ pāhi śagmaíḥ  
-divodāsébhir indra stávāno  
-vāvr̥dhīthā́ · áhobhir iva dyaúḥ  
+स꣡ नो न꣡व्येभिर् वृषकर्मन् उक्थइः꣡  
+पु꣡रां दर्तः पायु꣡भिः पाहि शग्मइः꣡  
+दिवोदासे꣡भिर् इन्द्र स्त꣡वानो  
+वावृधीथा꣡ · अ꣡होभिर् इव द्यउः꣡  

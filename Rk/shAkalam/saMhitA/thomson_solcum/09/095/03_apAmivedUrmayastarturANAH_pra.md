@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-apā́m ivéd ūrmáyas tárturāṇāḥ  
-prá manīṣā́ īrate sómam ácha  
-namasyántīr úpa ca yánti sáṃ ca  
-ā́ ca viśanti uśatī́r uśántam  
+अपा꣡म् इवे꣡द् ऊर्म꣡यस् त꣡र्तुराणाः  
+प्र꣡ मनीषा꣡ ईरते सो꣡मम् अ꣡छ  
+नमस्य꣡न्तीर् उ꣡प च य꣡न्ति सं꣡ च  
+आ꣡ च विशन्ति उशती꣡र् उश꣡न्तम्  

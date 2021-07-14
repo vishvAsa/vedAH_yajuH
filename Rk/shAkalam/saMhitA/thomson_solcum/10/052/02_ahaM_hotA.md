@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-aháṃ hótā ní asīdaṃ yájīyān  
-víśve devā́ marúto mā junanti  
-áhar-ahar aśvinā́dhvaryavaṃ vām  
-brahmā́ samíd bhavati sā́hutir vām  
+अहं꣡ हो꣡ता नि꣡ असीदं य꣡जीयान्  
+वि꣡श्वे देवा꣡ मरु꣡तो मा जुनन्ति  
+अ꣡हर्-अहर् अश्विना꣡ध्वर्यवं वाम्  
+ब्रह्मा꣡ समि꣡द् भवति सा꣡हुतिर् वाम्  

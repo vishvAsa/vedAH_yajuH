@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-aháṃ só asmi yáḥ purā́  
-suté vádāmi kā́ni cit  
-tám mā viyanti ādhíyo  
-vŕ̥ko ná tr̥ṣṇájam mr̥gáṃ  
-vittám me asyá rodasī  
+अहं꣡ सो꣡ अस्मि यः꣡ पुरा꣡  
+सुते꣡ व꣡दामि का꣡नि चित्  
+त꣡म् मा वियन्ति आधि꣡यो  
+व्ŕ̥को न꣡ तृष्ण꣡जम् मृगं꣡  
+वित्त꣡म् मे अस्य꣡ रोदसी  

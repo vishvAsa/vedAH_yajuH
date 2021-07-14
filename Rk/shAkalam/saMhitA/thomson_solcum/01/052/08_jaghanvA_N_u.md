@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-jaghanvā́m̐ u háribhiḥ sambhr̥takratav  
-índra vr̥trám mánuṣe gātuyánn apáḥ  
-áyachathā bāhuvór vájram āyasám  
-ádhārayo diví ā́ sū́riyaṃ dr̥śé  
+जघन्वाँ꣡ उ ह꣡रिभिः सम्भृतक्रतव्  
+इ꣡न्द्र वृत्र꣡म् म꣡नुषे गातुय꣡न्न् अपः꣡  
+अ꣡यछथा बाहुवो꣡र् व꣡ज्रम् आयस꣡म्  
+अ꣡धारयो दिवि꣡ आ꣡ सू꣡रियं दृशे꣡  

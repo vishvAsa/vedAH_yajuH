@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-sūriyā́yai devébhiyo  
-mitrā́ya váruṇāya ca  
-yé bhūtásya prácetasa  
-idáṃ tébhyo 'karaṃ námaḥ  
+सूरिया꣡यै देवे꣡भियो  
+मित्रा꣡य व꣡रुणाय च  
+ये꣡ भूत꣡स्य प्र꣡चेतस  
+इदं꣡ ते꣡भ्यो ऽकरं न꣡मः  

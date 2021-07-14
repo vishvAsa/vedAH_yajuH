@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-trivandhuréṇa trivŕ̥tā  
-ráthenā́ yātam aśvinā  
-mádhvaḥ sómasya pītáye  
+त्रिवन्धुरे꣡ण त्रिव्ŕ̥ता  
+र꣡थेना꣡ यातम् अश्विना  
+म꣡ध्वः सो꣡मस्य पीत꣡ये  

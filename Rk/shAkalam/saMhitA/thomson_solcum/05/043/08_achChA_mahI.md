@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-áchā mahī́ br̥hatī́ śáṃtamā gī́r  
-dūtó ná gantu aśvínā huvádhyai  
-mayobhúvā saráthā́ yātam arvā́g  
-gantáṃ nidhíṃ dhúram āṇír ná nā́bhim  
+अ꣡छा मही꣡ बृहती꣡ शं꣡तमा गी꣡र्  
+दूतो꣡ न꣡ गन्तु अश्वि꣡ना हुव꣡ध्यै  
+मयोभु꣡वा सर꣡था꣡ यातम् अर्वा꣡ग्  
+गन्तं꣡ निधिं꣡ धु꣡रम् आणि꣡र् न꣡ ना꣡भिम्  

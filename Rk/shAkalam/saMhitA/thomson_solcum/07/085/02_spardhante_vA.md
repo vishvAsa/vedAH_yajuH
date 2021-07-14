@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-spárdhante vā́ u devahū́ye átra  
-yéṣu dhvajéṣu didyávaḥ pátanti  
-yuváṃ tā́m̐ indrāvaruṇāv amítrān  
-hatám párācaḥ śáruvā víṣūcaḥ  
+स्प꣡र्धन्ते वा꣡ उ देवहू꣡ये अ꣡त्र  
+ये꣡षु ध्वजे꣡षु दिद्य꣡वः प꣡तन्ति  
+युवं꣡ ताँ꣡ इन्द्रावरुणाव् अमि꣡त्रान्  
+हत꣡म् प꣡राचः श꣡रुवा वि꣡षूचः  

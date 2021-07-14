@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tád rā́dho adyá savitúr váreṇiyaṃ  
-vayáṃ devásya prasavé manāmahe  
-asmábhyaṃ dyāvāpr̥thivī sucetúnā  
-rayíṃ dhattaṃ vásumantaṃ śatagvínam  
+त꣡द् रा꣡धो अद्य꣡ सवितु꣡र् व꣡रेणियं  
+वयं꣡ देव꣡स्य प्रसवे꣡ मनामहे  
+अस्म꣡भ्यं द्यावापृथिवी सुचेतु꣡ना  
+रयिं꣡ धत्तं व꣡सुमन्तं शतग्वि꣡नम्  

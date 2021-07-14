@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-agnír ná śúṣkaṃ vánam indra hetī́  
-rákṣo ní dhakṣi aśánir ná bhīmā́  
-gambhīráya r̥ṣváyā yó rurója  
-ádhvānayad duritā́ dambháyac ca  
+अग्नि꣡र् न꣡ शु꣡ष्कं व꣡नम् इन्द्र हेती꣡  
+र꣡क्षो नि꣡ धक्षि अश꣡निर् न꣡ भीमा꣡  
+गम्भीर꣡य ऋष्व꣡या यो꣡ रुरो꣡ज  
+अ꣡ध्वानयद् दुरिता꣡ दम्भ꣡यच् च  

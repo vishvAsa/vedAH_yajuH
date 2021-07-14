@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ daíviyā vr̥ṇīmahe ávāṃsi  
-bŕ̥haspátir no maha ā́ sakhāyaḥ  
-yáthā bhávema mīḷhúṣe ánāgā  
-yó no dātā́ parāvátaḥ pitéva  
+आ꣡ दइ꣡विया वृणीमहे अ꣡वांसि  
+ब्ŕ̥हस्प꣡तिर् नो मह आ꣡ सखायः  
+य꣡था भ꣡वेम मीऌहु꣡षे अ꣡नागा  
+यो꣡ नो दाता꣡ पराव꣡तः पिते꣡व  

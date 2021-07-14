@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ dhenávaḥ páyasā tū́rṇiarthā  
-ámardhantīr úpa no yantu mádhvā  
-mahó rāyé br̥hatī́ḥ saptá vípro  
-mayobhúvo jaritā́ johavīti  
+आ꣡ धेन꣡वः प꣡यसा तू꣡र्णिअर्था  
+अ꣡मर्धन्तीर् उ꣡प नो यन्तु म꣡ध्वा  
+महो꣡ राये꣡ बृहतीः꣡ सप्त꣡ वि꣡प्रो  
+मयोभु꣡वो जरिता꣡ जोहवीति  

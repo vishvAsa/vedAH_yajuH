@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-suagnáyo hí vā́riyaṃ  
-devā́so dadhiré ca naḥ  
-suagnáyo manāmahe  
+सुअग्न꣡यो हि꣡ वा꣡रियं  
+देवा꣡सो दधिरे꣡ च नः  
+सुअग्न꣡यो मनामहे  

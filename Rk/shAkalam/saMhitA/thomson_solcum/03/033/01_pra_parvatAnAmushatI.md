@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá párvatānām uśatī́ upásthād  
-áśve iva víṣite hā́samāne  
-gā́veva śubhré mātárā rihāṇé  
-vípāṭ chutudrī́ páyasā javete  
+प्र꣡ प꣡र्वतानाम् उशती꣡ उप꣡स्थाद्  
+अ꣡श्वे इव वि꣡षिते हा꣡समाने  
+गा꣡वेव शुभ्रे꣡ मात꣡रा रिहाणे꣡  
+वि꣡पाट् छुतुद्री꣡ प꣡यसा जवेते  

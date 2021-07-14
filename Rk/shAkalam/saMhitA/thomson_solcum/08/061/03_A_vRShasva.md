@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ vr̥ṣasva purūvaso  
-sutásya indra ándhasaḥ  
-vidmā́ hí tvā harivaḥ pr̥tsú sāsahím  
-ádhr̥ṣṭaṃ cid dadhr̥ṣváṇim  
+आ꣡ वृषस्व पुरूवसो  
+सुत꣡स्य इन्द्र अ꣡न्धसः  
+विद्मा꣡ हि꣡ त्वा हरिवः पृत्सु꣡ सासहि꣡म्  
+अ꣡धृष्टं चिद् दधृष्व꣡णिम्  

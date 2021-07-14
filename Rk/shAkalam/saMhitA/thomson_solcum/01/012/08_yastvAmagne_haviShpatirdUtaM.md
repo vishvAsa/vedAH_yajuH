@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-yás tvā́m agne havíṣpatir  
-dūtáṃ deva saparyáti  
-tásya sma prāvitā́ bhava  
+य꣡स् त्वा꣡म् अग्ने हवि꣡ष्पतिर्  
+दूतं꣡ देव सपर्य꣡ति  
+त꣡स्य स्म प्राविता꣡ भव  

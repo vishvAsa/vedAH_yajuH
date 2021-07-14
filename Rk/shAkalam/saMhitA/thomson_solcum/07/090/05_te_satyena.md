@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-té satyéna mánasā dī́dhiyānāḥ  
-svéna yuktā́saḥ krátunā vahanti  
-índravāyū vīravā́haṃ ráthaṃ vām  
-īśānáyor abhí pŕ̥kṣaḥ sacante  
+ते꣡ सत्ये꣡न म꣡नसा दी꣡धियानाः  
+स्वे꣡न युक्ता꣡सः क्र꣡तुना वहन्ति  
+इ꣡न्द्रवायू वीरवा꣡हं र꣡थं वाम्  
+ईशान꣡योर् अभि꣡ प्ŕ̥क्षः सचन्ते  

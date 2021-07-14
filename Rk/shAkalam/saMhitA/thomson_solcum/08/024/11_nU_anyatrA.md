@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-nū́ anyátrā cid adrivas  
-tuván no jagmur āśásaḥ  
-mághavañ chagdhí táva tán na ūtíbhiḥ  
+नू꣡ अन्य꣡त्रा चिद् अद्रिवस्  
+तुव꣡न् नो जग्मुर् आश꣡सः  
+म꣡घवञ् छग्धि꣡ त꣡व त꣡न् न ऊति꣡भिः  

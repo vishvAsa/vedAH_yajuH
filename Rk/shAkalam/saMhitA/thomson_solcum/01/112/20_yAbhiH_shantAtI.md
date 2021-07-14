@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-yā́bhiḥ śáṃtātī bhávatho dadāśúṣe  
-bhujyúṃ yā́bhir ávatho yā́bhir ádhrigum  
-omiyā́vatīṃ subhárām r̥tastúbhaṃ  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिः शं꣡ताती भ꣡वथो ददाशु꣡षे  
+भुज्युं꣡ या꣡भिर् अ꣡वथो या꣡भिर् अ꣡ध्रिगुम्  
+ओमिया꣡वतीं सुभ꣡राम् ऋतस्तु꣡भं  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

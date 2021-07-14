@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-té hí śráyiṣṭhavarcasas+ tá u nas  
-tiró víśvāni duritā́ náyanti  
-sukṣatrā́so váruṇo mitró agnír  
-r̥tádhītayo vakmarā́jasatyāḥ  
+ते꣡ हि꣡ श्र꣡यिष्ठवर्चसस्+ त꣡ उ नस्  
+तिरो꣡ वि꣡श्वानि दुरिता꣡ न꣡यन्ति  
+सुक्षत्रा꣡सो व꣡रुणो मित्रो꣡ अग्नि꣡र्  
+ऋत꣡धीतयो वक्मरा꣡जसत्याः  

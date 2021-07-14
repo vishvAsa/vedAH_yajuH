@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-agnínā rayím aśnavat  
-póṣam evá divé-dive  
-yaśásaṃ vīrávattamam  
+अग्नि꣡ना रयि꣡म् अश्नवत्  
+पो꣡षम् एव꣡ दिवे꣡-दिवे  
+यश꣡सं वीर꣡वत्तमम्  

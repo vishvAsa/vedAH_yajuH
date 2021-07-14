@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yád dha nūnám parāváti  
-yád vā pr̥thiviyā́ṃ diví  
-yujāná indra háribhir mahemata  
-r̥ṣvá r̥ṣvébhir ā́ gahi  
+य꣡द् ध नून꣡म् पराव꣡ति  
+य꣡द् वा पृथिवियां꣡ दिवि꣡  
+युजान꣡ इन्द्र ह꣡रिभिर् महेमत  
+ऋष्व꣡ ऋष्वे꣡भिर् आ꣡ गहि  

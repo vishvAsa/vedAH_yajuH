@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-candrámā apsú antár ā́  
-suparṇó dhāvate diví  
-ná vo hiraṇyanemayaḥ  
-padáṃ vindanti vidyuto  
-vittám me asyá rodasī  
+चन्द्र꣡मा अप्सु꣡ अन्त꣡र् आ꣡  
+सुपर्णो꣡ धावते दिवि꣡  
+न꣡ वो हिरण्यनेमयः  
+पदं꣡ विन्दन्ति विद्युतो  
+वित्त꣡म् मे अस्य꣡ रोदसी  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yáthā mánau sā́ṃvaraṇau  
-sómam indrā́pibaḥ sutám  
-nī́pātithau maghavan médhiyātithau  
-púṣṭigau śrúṣṭigau sácā  
+य꣡था म꣡नौ सां꣡वरणौ  
+सो꣡मम् इन्द्रा꣡पिबः सुत꣡म्  
+नी꣡पातिथौ मघवन् मे꣡धियातिथौ  
+पु꣡ष्टिगौ श्रु꣡ष्टिगौ स꣡चा  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sátvā bhariṣó gaviṣó duvanyasác  
-chravasyā́d iṣá uṣásas turaṇyasát  
-satyó dravó · dravaráḥ pataṃgaró  
-dadhikrā́vā íṣam ū́rjaṃ súvar janat  
+स꣡त्वा भरिषो꣡ गविषो꣡ दुवन्यस꣡च्  
+छ्रवस्या꣡द् इष꣡ उष꣡सस् तुरण्यस꣡त्  
+सत्यो꣡ द्रवो꣡ · द्रवरः꣡ पतंगरो꣡  
+दधिक्रा꣡वा इ꣡षम् ऊ꣡र्जं सु꣡वर् जनत्  

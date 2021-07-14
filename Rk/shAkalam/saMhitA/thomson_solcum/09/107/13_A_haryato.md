@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ā́ haryató árjune átke avyata  
-priyáḥ sūnúr ná márjiyaḥ  
-tám īṃ hinvanti apáso yáthā ráthaṃ  
-nadī́ṣu ā́ gábhastiyoḥ  
+आ꣡ हर्यतो꣡ अ꣡र्जुने अ꣡त्के अव्यत  
+प्रियः꣡ सूनु꣡र् न꣡ म꣡र्जियः  
+त꣡म् ईं हिन्वन्ति अप꣡सो य꣡था र꣡थं  
+नदी꣡षु आ꣡ ग꣡भस्तियोः  

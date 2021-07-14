@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vásuṃ ná citrámahasaṃ gr̥ṇīṣe  
-vāmáṃ śévam átithim adviṣeṇyám  
-sá rāsate śurúdho viśvádhāyaso  
-agnír hótā gr̥hápatiḥ suvī́ryam  
+व꣡सुं न꣡ चित्र꣡महसं गृणीषे  
+वामं꣡ शे꣡वम् अ꣡तिथिम् अद्विषेण्य꣡म्  
+स꣡ रासते शुरु꣡धो विश्व꣡धायसो  
+अग्नि꣡र् हो꣡ता गृह꣡पतिः सुवी꣡र्यम्  

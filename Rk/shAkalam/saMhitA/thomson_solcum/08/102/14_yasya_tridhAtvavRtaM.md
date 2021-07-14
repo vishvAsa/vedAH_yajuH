@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-yásya tridhā́tu ávr̥tam  
-barhís tasthā́v ásaṃdinam  
-ā́paś cin ní dadhā padám  
+य꣡स्य त्रिधा꣡तु अ꣡वृतम्  
+बर्हि꣡स् तस्था꣡व् अ꣡संदिनम्  
+आ꣡पश् चिन् नि꣡ दधा पद꣡म्  

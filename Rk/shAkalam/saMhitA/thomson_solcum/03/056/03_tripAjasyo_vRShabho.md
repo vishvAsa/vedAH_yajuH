@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tripājasyó vr̥ṣabhó viśvárūpa  
-utá triudhā́ purudhá prajā́vān  
-trianīkáḥ patyate mā́hināvān  
-sá retodhā́ vr̥ṣabháḥ śáśvatīnām  
+त्रिपाजस्यो꣡ वृषभो꣡ विश्व꣡रूप  
+उत꣡ त्रिउधा꣡ पुरुध꣡ प्रजा꣡वान्  
+त्रिअनीकः꣡ पत्यते मा꣡हिनावान्  
+स꣡ रेतोधा꣡ वृषभः꣡ श꣡श्वतीनाम्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-víṣṇur yóniṃ kalpayatu  
-tváṣṭā rūpā́ṇi piṃśatu  
-ā́ siñcatu prajā́patir  
-dhātā́ gárbhaṃ dadhātu te  
+वि꣡ष्णुर् यो꣡निं कल्पयतु  
+त्व꣡ष्टा रूपा꣡णि पिंशतु  
+आ꣡ सिञ्चतु प्रजा꣡पतिर्  
+धाता꣡ ग꣡र्भं दधातु ते  

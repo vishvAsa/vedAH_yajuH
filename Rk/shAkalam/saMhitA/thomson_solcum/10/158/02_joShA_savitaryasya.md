@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-jóṣā savitar yásya te  
-háraḥ śatáṃ savā́m̐ árhati  
-pāhí no didyútaḥ pátantyāḥ  
+जो꣡षा सवितर् य꣡स्य ते  
+ह꣡रः शतं꣡ सवाँ꣡ अ꣡र्हति  
+पाहि꣡ नो दिद्यु꣡तः प꣡तन्त्याः  

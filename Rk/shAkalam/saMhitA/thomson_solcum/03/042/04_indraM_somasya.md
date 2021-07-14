@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-índraṃ sómasya pītáye  
-stómair ihá havāmahe  
-ukthébhiḥ kuvíd āgámat  
+इ꣡न्द्रं सो꣡मस्य पीत꣡ये  
+स्तो꣡मैर् इह꣡ हवामहे  
+उक्थे꣡भिः कुवि꣡द् आग꣡मत्  

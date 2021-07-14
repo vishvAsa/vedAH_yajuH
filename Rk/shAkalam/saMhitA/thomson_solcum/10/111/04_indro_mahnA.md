@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-índro mahnā́ maható arṇavásya  
-vratā́minād áṅgirobhir gr̥ṇānáḥ  
-purū́ṇi cin ní tatānā rájāṃsi  
-dādhā́ra yó dharúṇaṃ satyátātā  
+इ꣡न्द्रो मह्ना꣡ महतो꣡ अर्णव꣡स्य  
+व्रता꣡मिनाद् अ꣡ङ्गिरोभिर् गृणानः꣡  
+पुरू꣡णि चिन् नि꣡ तताना र꣡जांसि  
+दाधा꣡र यो꣡ धरु꣡णं सत्य꣡ताता  

@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-āsú ṣmā ṇo maghavann indra pr̥tsu  
-àsmábhyam máhi várivaḥ sugáṃ kaḥ  
-apā́ṃ tokásya tánayasya jeṣá  
-índra sūrī́n kr̥ṇuhí smā no ardhám  
+आसु꣡ ष्मा णो मघवन्न् इन्द्र पृत्सु  
+अ᳡स्म꣡भ्यम् म꣡हि व꣡रिवः सुगं꣡ कः  
+अपां꣡ तोक꣡स्य त꣡नयस्य जेष꣡  
+इ꣡न्द्र सूरी꣡न् कृणुहि꣡ स्मा नो अर्ध꣡म्  

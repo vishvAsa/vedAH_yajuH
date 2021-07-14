@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yáṃ trā́yadhva idám-idaṃ  
-dévāso yáṃ ca náyatha  
-tásmā agne váruṇa mítra áryaman  
-márutaḥ śárma yachata  
+यं꣡ त्रा꣡यध्व इद꣡म्-इदं  
+दे꣡वासो यं꣡ च न꣡यथ  
+त꣡स्मा अग्ने व꣡रुण मि꣡त्र अ꣡र्यमन्  
+म꣡रुतः श꣡र्म यछत  

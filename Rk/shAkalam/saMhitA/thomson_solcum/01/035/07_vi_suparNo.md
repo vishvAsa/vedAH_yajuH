@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ví suparṇó antárikṣāṇi akhyad  
-gabhīrávepā ásuraḥ sunītháḥ  
-kúvedā́nīṃ sū́riyaḥ káś ciketa  
-katamā́ṃ dyā́ṃ raśmír asyā́ tatāna  
+वि꣡ सुपर्णो꣡ अन्त꣡रिक्षाणि अख्यद्  
+गभीर꣡वेपा अ꣡सुरः सुनीथः꣡  
+कु꣡वेदा꣡नीं सू꣡रियः क꣡श् चिकेत  
+कतमां꣡ द्यां꣡ रश्मि꣡र् अस्या꣡ ततान  

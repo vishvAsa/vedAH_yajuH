@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-úd u eti prasavītā́ jánānām  
-mahā́n ketúr arṇaváḥ sū́riyasya  
-samānáṃ cakrám pariāvívr̥tsan  
-yád etaśó váhati dhūrṣú yuktáḥ  
+उ꣡द् उ एति प्रसवीता꣡ ज꣡नानाम्  
+महा꣡न् केतु꣡र् अर्णवः꣡ सू꣡रियस्य  
+समानं꣡ चक्र꣡म् परिआवि꣡वृत्सन्  
+य꣡द् एतशो꣡ व꣡हति धूर्षु꣡ युक्तः꣡  

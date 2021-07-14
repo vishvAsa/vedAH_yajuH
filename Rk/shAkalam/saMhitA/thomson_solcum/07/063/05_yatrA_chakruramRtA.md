@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yátrā cakrúr amŕ̥tā gātúm asmai  
-śyenó ná dī́yann ánu eti pā́thaḥ  
-práti vāṃ sū́ra údite vidhema  
-námobhir mitrāvaruṇotá havyaíḥ  
+य꣡त्रा चक्रु꣡र् अम्ŕ̥ता गातु꣡म् अस्मै  
+श्येनो꣡ न꣡ दी꣡यन्न् अ꣡नु एति पा꣡थः  
+प्र꣡ति वां सू꣡र उ꣡दिते विधेम  
+न꣡मोभिर् मित्रावरुणोत꣡ हव्यइः꣡  

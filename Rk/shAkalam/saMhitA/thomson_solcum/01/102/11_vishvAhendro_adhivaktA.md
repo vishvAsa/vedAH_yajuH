@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-viśvā́héndro adhivaktā́ no astu  
-áparihvr̥tāḥ sanuyāma vā́jam  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+विश्वा꣡हे꣡न्द्रो अधिवक्ता꣡ नो अस्तु  
+अ꣡परिह्वृताः सनुयाम वा꣡जम्  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

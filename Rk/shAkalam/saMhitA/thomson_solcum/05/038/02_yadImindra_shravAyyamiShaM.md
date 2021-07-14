@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yád īm indra śravā́yiyam  
-íṣaṃ śaviṣṭha dadhiṣé  
-paprathé dīrghaśrúttamaṃ  
-híraṇyavarṇa duṣṭáram  
+य꣡द् ईम् इन्द्र श्रवा꣡यियम्  
+इ꣡षं शविष्ठ दधिषे꣡  
+पप्रथे꣡ दीर्घश्रु꣡त्तमं  
+हि꣡रण्यवर्ण दुष्ट꣡रम्  

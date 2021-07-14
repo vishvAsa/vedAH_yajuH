@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tuvám agna r̥bhúr āké namasíyas  
-tváṃ vā́jasya kṣumáto rāyá īśiṣe  
-tuváṃ ví bhāsi ánu dakṣi dāváne  
-tuváṃ viśíkṣur asi yajñám ātániḥ  
+तुव꣡म् अग्न ऋभु꣡र् आके꣡ नमसि꣡यस्  
+त्वं꣡ वा꣡जस्य क्षुम꣡तो राय꣡ ईशिषे  
+तुवं꣡ वि꣡ भासि अ꣡नु दक्षि दाव꣡ने  
+तुवं꣡ विशि꣡क्षुर् असि यज्ञ꣡म् आत꣡निः  

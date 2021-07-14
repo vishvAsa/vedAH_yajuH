@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-śíkṣeyam ín mahayaté divé-dive  
-rāyá ā́ kuhacidvíde  
-nahí tvád anyán maghavan na ā́piyaṃ  
-vásyo ásti pitā́ caná  
+शि꣡क्षेयम् इ꣡न् महयते꣡ दिवे꣡-दिवे  
+राय꣡ आ꣡ कुहचिद्वि꣡दे  
+नहि꣡ त्व꣡द् अन्य꣡न् मघवन् न आ꣡पियं  
+व꣡स्यो अ꣡स्ति पिता꣡ चन꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-úpa tvā kárman ūtáye sá no yúvā  
-ugráś cakrāma yó dhr̥ṣát  
-tuvā́m íd dhí avitā́raṃ vavr̥máhe  
-sákhāya indra sānasím  
+उ꣡प त्वा क꣡र्मन् ऊत꣡ये स꣡ नो यु꣡वा  
+उग्र꣡श् चक्राम यो꣡ धृष꣡त्  
+तुवा꣡म् इ꣡द् धि꣡ अविता꣡रं ववृम꣡हे  
+स꣡खाय इन्द्र सानसि꣡म्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yó asmai ghraṃsá utá vā yá ū́dhani  
-sómaṃ sunóti bhávati dyumā́m̐ áha  
-ápāpa śakrás tatanúṣṭim ūhati  
-tanū́śubhram maghávā yáḥ kavāsakháḥ  
+यो꣡ अस्मै घ्रंस꣡ उत꣡ वा य꣡ ऊ꣡धनि  
+सो꣡मं सुनो꣡ति भ꣡वति द्युमाँ꣡ अ꣡ह  
+अ꣡पाप शक्र꣡स् ततनु꣡ष्टिम् ऊहति  
+तनू꣡शुभ्रम् मघ꣡वा यः꣡ कवासखः꣡  

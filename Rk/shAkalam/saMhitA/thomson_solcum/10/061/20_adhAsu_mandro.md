@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-ádhāsu mandró aratír vibhā́vā  
-áva syati dvivartanír vaneṣā́ṭ  
-ūrdhuvā́ yác chráyaṇir ná śíśur dán  
-makṣū́ sthiráṃ śevr̥dháṃ sūta mātā́  
+अ꣡धासु मन्द्रो꣡ अरति꣡र् विभा꣡वा  
+अ꣡व स्यति द्विवर्तनि꣡र् वनेषा꣡ट्  
+ऊर्धुवा꣡ य꣡च् छ्र꣡यणिर् न꣡ शि꣡शुर् द꣡न्  
+मक्षू꣡ स्थिरं꣡ शेवृधं꣡ सूत माता꣡  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-préndrāgníbhyāṃ suvacasyā́m iyarmi  
-síndhāv iva prérayaṃ nā́vam arkaíḥ  
-áyā iva pári caranti devā́  
-yé asmábhyaṃ dhanadā́ udbhídaś ca  
+प्रे꣡न्द्राग्नि꣡भ्यां सुवचस्या꣡म् इयर्मि  
+सि꣡न्धाव् इव प्रे꣡रयं ना꣡वम् अर्कइः꣡  
+अ꣡या इव प꣡रि चरन्ति देवा꣡  
+ये꣡ अस्म꣡भ्यं धनदा꣡ उद्भि꣡दश् च  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vibhrā́ḍ br̥hát pibatu somiyám mádhu  
-ā́yur dádhad yajñápatāv ávihrutam  
-vā́tajūto yó abhirákṣati tmánā  
-prajā́ḥ pupoṣa purudhā́ ví rājati  
+विभ्रा꣡ड् बृह꣡त् पिबतु सोमिय꣡म् म꣡धु  
+आ꣡युर् द꣡धद् यज्ञ꣡पताव् अ꣡विह्रुतम्  
+वा꣡तजूतो यो꣡ अभिर꣡क्षति त्म꣡ना  
+प्रजाः꣡ पुपोष पुरुधा꣡ वि꣡ राजति  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áyodaṃṣṭro arcíṣā yātudhā́nān  
-úpa spr̥śa jātavedaḥ sámiddhaḥ  
-ā́ jihváyā mū́radevān rabhasva  
-kravyā́do vr̥ktvī́ ápi dhatsva āsán  
+अ꣡योदंष्ट्रो अर्चि꣡षा यातुधा꣡नान्  
+उ꣡प स्पृश जातवेदः स꣡मिद्धः  
+आ꣡ जिह्व꣡या मू꣡रदेवान् रभस्व  
+क्रव्या꣡दो वृक्त्वी꣡ अ꣡पि धत्स्व आस꣡न्  

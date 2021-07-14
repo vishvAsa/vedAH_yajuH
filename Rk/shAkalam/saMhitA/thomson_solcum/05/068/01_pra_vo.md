@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-prá vo mitrā́ya gāyata  
-váruṇāya vipā́ girā́  
-máhikṣatrāv r̥tám br̥hát  
+प्र꣡ वो मित्रा꣡य गायत  
+व꣡रुणाय विपा꣡ गिरा꣡  
+म꣡हिक्षत्राव् ऋत꣡म् बृह꣡त्  

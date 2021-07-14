@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-utá syá vājī́ aruṣás tuviṣváṇir  
-ihá sma dhāyi darśatáḥ  
-mā́ vo yā́meṣu marutaś ciráṃ karat  
-prá táṃ rátheṣu codata  
+उत꣡ स्य꣡ वाजी꣡ अरुष꣡स् तुविष्व꣡णिर्  
+इह꣡ स्म धायि दर्शतः꣡  
+मा꣡ वो या꣡मेषु मरुतश् चिरं꣡ करत्  
+प्र꣡ तं꣡ र꣡थेषु चोदत  

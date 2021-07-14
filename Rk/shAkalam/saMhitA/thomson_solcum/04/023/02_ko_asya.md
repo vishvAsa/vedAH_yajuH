@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kó asya vīráḥ sadhamā́dam āpa  
-sám ānaṃśa sumatíbhiḥ kó asya  
-kád asya citráṃ cikite kád ūtī́  
-vr̥dhé bhuvac chaśamānásya yájyoḥ  
+को꣡ अस्य वीरः꣡ सधमा꣡दम् आप  
+स꣡म् आनंश सुमति꣡भिः को꣡ अस्य  
+क꣡द् अस्य चित्रं꣡ चिकिते क꣡द् ऊती꣡  
+वृधे꣡ भुवच् छशमान꣡स्य य꣡ज्योः  

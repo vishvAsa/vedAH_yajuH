@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-eté asr̥gram índavas  
-tiráḥ pavítram āśávaḥ  
-víśvāni abhí saúbhagā  
+एते꣡ असृग्रम् इ꣡न्दवस्  
+तिरः꣡ पवि꣡त्रम् आश꣡वः  
+वि꣡श्वानि अभि꣡ सउ꣡भगा  

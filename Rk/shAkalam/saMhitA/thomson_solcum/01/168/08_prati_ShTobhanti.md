@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-práti ṣṭobhanti síndhavaḥ pavíbhyo  
-yád abhríyāṃ vā́cam udīráyanti  
-áva smayanta vidyútaḥ pr̥thivyā́ṃ  
-yádī ghr̥tám marútaḥ pruṣṇuvánti  
+प्र꣡ति ष्टोभन्ति सि꣡न्धवः पवि꣡भ्यो  
+य꣡द् अभ्रि꣡यां वा꣡चम् उदीर꣡यन्ति  
+अ꣡व स्मयन्त विद्यु꣡तः पृथिव्यां꣡  
+य꣡दी घृत꣡म् मरु꣡तः प्रुष्णुव꣡न्ति  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yé gavyatā́ mánasā śátrum ādabhúr  
-abhipraghnánti dhr̥ṣṇuyā́  
-ádha smā no maghavann indra girvaṇas  
-tanūpā́ ántamo bhava  
+ये꣡ गव्यता꣡ म꣡नसा श꣡त्रुम् आदभु꣡र्  
+अभिप्रघ्न꣡न्ति धृष्णुया꣡  
+अ꣡ध स्मा नो मघवन्न् इन्द्र गिर्वणस्  
+तनूपा꣡ अ꣡न्तमो भव  

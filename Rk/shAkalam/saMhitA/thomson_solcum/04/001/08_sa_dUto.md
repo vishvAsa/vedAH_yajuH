@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sá dūtó víśvéd abhí vaṣṭi sádmā  
-hótā híraṇyaratho ráṃsujihvaḥ  
-rohídaśvo vapuṣíyo vibhā́vā  
-sádā raṇváḥ pitumátīva saṃsát  
+स꣡ दूतो꣡ वि꣡श्वे꣡द् अभि꣡ वष्टि स꣡द्मा  
+हो꣡ता हि꣡रण्यरथो रं꣡सुजिह्वः  
+रोहि꣡दश्वो वपुषि꣡यो विभा꣡वा  
+स꣡दा रण्वः꣡ पितुम꣡तीव संस꣡त्  

@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-yájiṣṭhaṃ tvā yájamānā huvema  
-jyáyiṣṭham+ áṅgirasāṃ vipra mánmabhir  
-víprebhiḥ śukra mánmabhiḥ  
-párijmānam iva dyã́ṃ  
-hótāraṃ carṣaṇīnã́m  
-śocíṣkeśaṃ vŕ̥ṣaṇaṃ yám imā́ víśaḥ  
-prā́vantu jūtáye víśaḥ  
+य꣡जिष्ठं त्वा य꣡जमाना हुवेम  
+ज्य꣡यिष्ठम्+ अ꣡ङ्गिरसां विप्र म꣡न्मभिर्  
+वि꣡प्रेभिः शुक्र म꣡न्मभिः  
+प꣡रिज्मानम् इव द्य्ãं꣡  
+हो꣡तारं चर्षणीन्ã꣡म्  
+शोचि꣡ष्केशं व्ŕ̥षणं य꣡म् इमा꣡ वि꣡शः  
+प्रा꣡वन्तु जूत꣡ये वि꣡शः  

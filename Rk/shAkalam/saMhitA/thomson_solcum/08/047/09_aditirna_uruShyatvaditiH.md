@@ -2,9 +2,9 @@
 title = "009"
 
 +++
-áditir na uruṣyatu  
-áditiḥ śárma yachatu  
-mātā́ mitrásya reváto  
-aryamṇó váruṇasya ca  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+अ꣡दितिर् न उरुष्यतु  
+अ꣡दितिः श꣡र्म यछतु  
+माता꣡ मित्र꣡स्य रेव꣡तो  
+अर्यम्णो꣡ व꣡रुणस्य च  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

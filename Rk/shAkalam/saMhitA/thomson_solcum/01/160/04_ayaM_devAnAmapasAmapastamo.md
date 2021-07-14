@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ayáṃ devā́nām apásām apástamo  
-yó jajā́na ródasī viśváśambhuvā  
-ví yó mamé rájasī sukratūyáyā  
-ajárebhi skámbhanebhiḥ sám ānr̥ce  
+अयं꣡ देवा꣡नाम् अप꣡साम् अप꣡स्तमो  
+यो꣡ जजा꣡न रो꣡दसी विश्व꣡शम्भुवा  
+वि꣡ यो꣡ ममे꣡ र꣡जसी सुक्रतूय꣡या  
+अज꣡रेभि स्क꣡म्भनेभिः स꣡म् आनृचे  

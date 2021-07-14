@@ -2,9 +2,9 @@
 title = "006"
 
 +++
-dīrgháṃ hí aṅkuśáṃ yathā  
-śáktim bíbharṣi mantumaḥ  
-pū́rveṇa maghavan padā́  
-ajó vayā́ṃ yáthā yamo  
-devī́ jánitry ajījanad  
-bhadrā́ jánitry ajījanat  
+दीर्घं꣡ हि꣡ अङ्कुशं꣡ यथा  
+श꣡क्तिम् बि꣡भर्षि मन्तुमः  
+पू꣡र्वेण मघवन् पदा꣡  
+अजो꣡ वयां꣡ य꣡था यमो  
+देवी꣡ ज꣡नित्र्य् अजीजनद्  
+भद्रा꣡ ज꣡नित्र्य् अजीजनत्  

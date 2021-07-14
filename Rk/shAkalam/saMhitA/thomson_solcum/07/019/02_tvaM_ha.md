@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuváṃ ha tiyád indra kútsam āvaḥ  
-śúśrūṣamāṇas tanúvā samaryé  
-dā́saṃ yác chúṣṇaṃ kúyavaṃ ní asmā  
-árandhaya ārjuneyā́ya śíkṣan  
+तुवं꣡ ह तिय꣡द् इन्द्र कु꣡त्सम् आवः  
+शु꣡श्रूषमाणस् तनु꣡वा समर्ये꣡  
+दा꣡सं य꣡च् छु꣡ष्णं कु꣡यवं नि꣡ अस्मा  
+अ꣡रन्धय आर्जुनेया꣡य शि꣡क्षन्  

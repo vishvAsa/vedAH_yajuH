@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-út tiṣṭha brahmaṇas pate  
-devayántas tuvemahe  
-úpa prá yantu marútaḥ sudā́nava  
-índra prāśū́r bhavā sácā  
+उ꣡त् तिष्ठ ब्रह्मणस् पते  
+देवय꣡न्तस् तुवेमहे  
+उ꣡प प्र꣡ यन्तु मरु꣡तः सुदा꣡नव  
+इ꣡न्द्र प्राशू꣡र् भवा स꣡चा  

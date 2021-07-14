@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-abhí arṣa suāyudha  
-sóma dvibárhasaṃ rayím  
-áthā no vásyasas kr̥dhi  
+अभि꣡ अर्ष सुआयुध  
+सो꣡म द्विब꣡र्हसं रयि꣡म्  
+अ꣡था नो व꣡स्यसस् कृधि  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mā́ no asmín maghavan pr̥tsú áṃhasi  
-nahí te ántaḥ śávasaḥ parīṇáśe  
-ákrandayo nadíyo róruvad vánā  
-kathā́ ná kṣoṇī́r bhiyásā sám ārata  
+मा꣡ नो अस्मि꣡न् मघवन् पृत्सु꣡ अं꣡हसि  
+नहि꣡ ते अ꣡न्तः श꣡वसः परीण꣡शे  
+अ꣡क्रन्दयो नदि꣡यो रो꣡रुवद् व꣡ना  
+कथा꣡ न꣡ क्षोणी꣡र् भिय꣡सा स꣡म् आरत  

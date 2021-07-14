@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-tuváṃ tiyát paṇīnã́ṃ vido vásu  
-sám mātŕ̥bhir marjayasi svá ā́ dáma  
-r̥tásya dhītíbhir dáme  
-parāváto ná sā́ma tád  
-yátrā ráṇanti dhītáyaḥ  
-tridhā́tubhir áruṣībhir váyo dadhe  
-rócamāno váyo dadhe  
+तुवं꣡ तिय꣡त् पणीन्ãं꣡ विदो व꣡सु  
+स꣡म् मात्ŕ̥भिर् मर्जयसि स्व꣡ आ꣡ द꣡म  
+ऋत꣡स्य धीति꣡भिर् द꣡मे  
+पराव꣡तो न꣡ सा꣡म त꣡द्  
+य꣡त्रा र꣡णन्ति धीत꣡यः  
+त्रिधा꣡तुभिर् अ꣡रुषीभिर् व꣡यो दधे  
+रो꣡चमानो व꣡यो दधे  

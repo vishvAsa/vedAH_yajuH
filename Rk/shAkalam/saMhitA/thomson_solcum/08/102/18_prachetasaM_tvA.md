@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-prácetasaṃ tuvā kave  
-ágne dūtáṃ váreṇiyam  
-havyavā́haṃ ní ṣedire  
+प्र꣡चेतसं तुवा कवे  
+अ꣡ग्ने दूतं꣡ व꣡रेणियम्  
+हव्यवा꣡हं नि꣡ षेदिरे  

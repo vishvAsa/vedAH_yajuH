@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-daívī pūrtír dákṣiṇā devayajyā́  
-ná kavāríbhyo nahí té pr̥ṇánti  
-áthā náraḥ práyatadakṣiṇāso  
-avadyabhiyā́ bahávaḥ pr̥ṇanti  
+दइ꣡वी पूर्ति꣡र् द꣡क्षिणा देवयज्या꣡  
+न꣡ कवारि꣡भ्यो नहि꣡ ते꣡ पृण꣡न्ति  
+अ꣡था न꣡रः प्र꣡यतदक्षिणासो  
+अवद्यभिया꣡ बह꣡वः पृणन्ति  

@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tuvám bhuvaḥ pratimā́nam pr̥thivyā́  
-r̥ṣvávīrasya br̥hatáḥ pátir bhūḥ  
-víśvam ā́prā antárikṣam mahitvā́  
-satyám addhā́ nákir anyás tuvā́vān  
+तुव꣡म् भुवः प्रतिमा꣡नम् पृथिव्या꣡  
+ऋष्व꣡वीरस्य बृहतः꣡ प꣡तिर् भूः  
+वि꣡श्वम् आ꣡प्रा अन्त꣡रिक्षम् महित्वा꣡  
+सत्य꣡म् अद्धा꣡ न꣡किर् अन्य꣡स् तुवा꣡वान्  

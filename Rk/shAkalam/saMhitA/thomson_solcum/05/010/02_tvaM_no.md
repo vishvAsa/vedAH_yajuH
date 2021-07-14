@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuváṃ no agne adbhuta  
-krátvā dákṣasya maṃhánā  
-tuvé asuryàm ā́ruhat  
-krāṇā́ mitró ná yajñíyaḥ  
+तुवं꣡ नो अग्ने अद्भुत  
+क्र꣡त्वा द꣡क्षस्य मंह꣡ना  
+तुवे꣡ असुर्य᳡म् आ꣡रुहत्  
+क्राणा꣡ मित्रो꣡ न꣡ यज्ञि꣡यः  

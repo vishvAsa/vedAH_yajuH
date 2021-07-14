@@ -2,5 +2,5 @@
 title = "008"
 
 +++
-hváyāmi devā́m̐ áyātur agne  
-sā́dhann r̥téna dhíyaṃ dadhāmi  
+ह्व꣡यामि देवाँ꣡ अ꣡यातुर् अग्ने  
+सा꣡धन्न् ऋते꣡न धि꣡यं दधामि  

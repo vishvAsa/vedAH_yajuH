@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá suṣṭúbhā sá stubhā́ saptá vípraiḥ  
-svaréṇa ádriṃ svaríyo návagvaiḥ  
-saraṇyúbhiḥ phaligám indra śakra  
-valáṃ ráveṇa darayo dáśagvaiḥ  
+स꣡ सुष्टु꣡भा स꣡ स्तुभा꣡ सप्त꣡ वि꣡प्रैः  
+स्वरे꣡ण अ꣡द्रिं स्वरि꣡यो न꣡वग्वैः  
+सरण्यु꣡भिः फलिग꣡म् इन्द्र शक्र  
+वलं꣡ र꣡वेण दरयो द꣡शग्वैः  

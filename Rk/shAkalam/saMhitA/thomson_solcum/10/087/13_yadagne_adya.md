@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yád agne adyá mithunā́ śápāto  
-yád vācás tr̥ṣṭáṃ janáyanta rebhā́ḥ  
-manyór mánasaḥ śaravyā̀ jā́yate yā́  
-táyā vidhya hŕ̥daye yātudhā́nān  
+य꣡द् अग्ने अद्य꣡ मिथुना꣡ श꣡पातो  
+य꣡द् वाच꣡स् तृष्टं꣡ जन꣡यन्त रेभाः꣡  
+मन्यो꣡र् म꣡नसः शरव्या᳡ जा꣡यते या꣡  
+त꣡या विध्य ह्ŕ̥दये यातुधा꣡नान्  

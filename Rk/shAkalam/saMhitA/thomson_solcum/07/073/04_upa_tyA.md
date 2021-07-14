@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-úpa tyā́ váhnī gamato víśaṃ no  
-rakṣoháṇā sámbhr̥tā vīḷúpāṇī  
-sám ándhāṃsi agmata matsarā́ṇi  
-mā́ no mardhiṣṭam ā́ gataṃ śivéna  
+उ꣡प त्या꣡ व꣡ह्नी गमतो वि꣡शं नो  
+रक्षोह꣡णा स꣡म्भृता वीऌउ꣡पाणी  
+स꣡म् अ꣡न्धांसि अग्मत मत्सरा꣡णि  
+मा꣡ नो मर्धिष्टम् आ꣡ गतं शिवे꣡न  

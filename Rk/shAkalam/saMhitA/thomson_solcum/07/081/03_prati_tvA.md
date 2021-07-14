@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-práti tvā duhitar diva  
-úṣo jīrā́ abhutsmahi  
-yā́ váhasi purú spārháṃ vananvati  
-rátnaṃ ná dāśúṣe máyaḥ  
+प्र꣡ति त्वा दुहितर् दिव  
+उ꣡षो जीरा꣡ अभुत्स्महि  
+या꣡ व꣡हसि पुरु꣡ स्पार्हं꣡ वनन्वति  
+र꣡त्नं न꣡ दाशु꣡षे म꣡यः  

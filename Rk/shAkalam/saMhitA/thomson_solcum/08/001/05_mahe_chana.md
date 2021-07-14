@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mahé caná tvā́m adrivaḥ  
-párā śulkā́ya dẽyām  
-ná sahásrāya nā́yútāya vajrivo  
-ná śatā́ya śatāmagha  
+महे꣡ चन꣡ त्वा꣡म् अद्रिवः  
+प꣡रा शुल्का꣡य द्ẽयाम्  
+न꣡ सह꣡स्राय ना꣡यु꣡ताय वज्रिवो  
+न꣡ शता꣡य शतामघ  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-agníṃ vo devayajyáyā  
-agním prayatí adhvaré  
-agníṃ dhīṣú prathamám agním árvati  
-agníṃ kṣaítrāya sā́dhase  
+अग्निं꣡ वो देवयज्य꣡या  
+अग्नि꣡म् प्रयति꣡ अध्वरे꣡  
+अग्निं꣡ धीषु꣡ प्रथम꣡म् अग्नि꣡म् अ꣡र्वति  
+अग्निं꣡ क्षइ꣡त्राय सा꣡धसे  

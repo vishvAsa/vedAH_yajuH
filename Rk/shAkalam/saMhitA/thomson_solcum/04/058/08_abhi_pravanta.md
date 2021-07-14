@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-abhí pravanta sámaneva yóṣāḥ  
-kalyāṇíyaḥ smáyamānāso agním  
-ghr̥tásya dhā́rāḥ samídho nasanta  
-tā́ juṣāṇó haryati jātávedāḥ  
+अभि꣡ प्रवन्त स꣡मनेव यो꣡षाः  
+कल्याणि꣡यः स्म꣡यमानासो अग्नि꣡म्  
+घृत꣡स्य धा꣡राः समि꣡धो नसन्त  
+ता꣡ जुषाणो꣡ हर्यति जात꣡वेदाः  

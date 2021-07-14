@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá vo rayíṃ yuktáaśvam bharadhvaṃ  
-rāyá éṣe ávase dadhīta dhī́ḥ  
-suśéva évair auśijásya hótā  
-yé va évā · marutas turā́ṇām  
+प्र꣡ वो रयिं꣡ युक्त꣡अश्वम् भरध्वं  
+राय꣡ ए꣡षे अ꣡वसे दधीत धीः꣡  
+सुशे꣡व ए꣡वैर् औशिज꣡स्य हो꣡ता  
+ये꣡ व ए꣡वा · मरुतस् तुरा꣡णाम्  

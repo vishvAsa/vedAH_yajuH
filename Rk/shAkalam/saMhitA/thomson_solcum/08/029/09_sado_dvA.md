@@ -2,5 +2,5 @@
 title = "009"
 
 +++
-sádo duvā́ cakrate° upamā́ diví  
-samrā́jā sarpírāsutī  
+स꣡दो दुवा꣡ चक्रते° उपमा꣡ दिवि꣡  
+सम्रा꣡जा सर्पि꣡रासुती  

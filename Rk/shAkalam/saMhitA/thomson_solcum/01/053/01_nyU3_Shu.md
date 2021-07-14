@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ní ū ṣú vā́cam prá mahé bharāmahe  
-gíra índrāya sádane vivásvataḥ  
-nū́ cid dhí rátnaṃ sasatā́m ivā́vidan  
-ná duṣṭutír draviṇodéṣu śasyate  
+नि꣡ ऊ षु꣡ वा꣡चम् प्र꣡ महे꣡ भरामहे  
+गि꣡र इ꣡न्द्राय स꣡दने विव꣡स्वतः  
+नू꣡ चिद् धि꣡ र꣡त्नं ससता꣡म् इवा꣡विदन्  
+न꣡ दुष्टुति꣡र् द्रविणोदे꣡षु शस्यते  

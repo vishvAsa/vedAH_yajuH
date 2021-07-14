@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-dásrā yuvā́kavaḥ sutā́  
-nā́satyā vr̥ktábarhiṣaḥ  
-ā́ yātaṃ rudravartanī  
+द꣡स्रा युवा꣡कवः सुता꣡  
+ना꣡सत्या वृक्त꣡बर्हिषः  
+आ꣡ यातं रुद्रवर्तनी  

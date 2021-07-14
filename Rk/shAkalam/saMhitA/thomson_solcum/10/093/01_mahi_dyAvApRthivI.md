@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-máhi dyāvāpr̥thivī bhūtam urvī́  
-nā́rī yahvī́ ná ródasī sádaṃ naḥ  
-tébhir naḥ pātaṃ sáhyasa  
-ebhír naḥ pātaṃ śūṣáṇi  
+म꣡हि द्यावापृथिवी भूतम् उर्वी꣡  
+ना꣡री यह्वी꣡ न꣡ रो꣡दसी स꣡दं नः  
+ते꣡भिर् नः पातं स꣡ह्यस  
+एभि꣡र् नः पातं शूष꣡णि  

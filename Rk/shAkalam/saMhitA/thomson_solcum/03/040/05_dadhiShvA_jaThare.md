@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-dadhiṣvā́ jaṭháre sutáṃ  
-sómam indra váreṇiyam  
-táva dyukṣā́sa índavaḥ  
+दधिष्वा꣡ जठ꣡रे सुतं꣡  
+सो꣡मम् इन्द्र व꣡रेणियम्  
+त꣡व द्युक्षा꣡स इ꣡न्दवः  

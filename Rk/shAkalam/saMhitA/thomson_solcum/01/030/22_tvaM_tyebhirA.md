@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-tuváṃ tiyébhir ā́ gahi  
-vā́jebhir duhitar divaḥ  
-asmé rayíṃ ní dhāraya  
+तुवं꣡ तिये꣡भिर् आ꣡ गहि  
+वा꣡जेभिर् दुहितर् दिवः  
+अस्मे꣡ रयिं꣡ नि꣡ धारय  

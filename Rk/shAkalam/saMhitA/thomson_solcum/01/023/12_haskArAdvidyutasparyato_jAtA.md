@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-haskārā́d vidyútas pári  
-áto jātā́ avantu naḥ  
-marúto mr̥̄ḷayantu+ naḥ  
+हस्कारा꣡द् विद्यु꣡तस् प꣡रि  
+अ꣡तो जाता꣡ अवन्तु नः  
+मरु꣡तो मॄऌअयन्तु+ नः  

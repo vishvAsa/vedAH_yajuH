@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-samudríyā apsaráso manīṣíṇam  
-ā́sīnā antár abhí sómam akṣaran  
-tā́ īṃ hinvanti harmiyásya sakṣáṇiṃ  
-yā́cante sumnám pávamānam ákṣitam  
+समुद्रि꣡या अप्सर꣡सो मनीषि꣡णम्  
+आ꣡सीना अन्त꣡र् अभि꣡ सो꣡मम् अक्षरन्  
+ता꣡ ईं हिन्वन्ति हर्मिय꣡स्य सक्ष꣡णिं  
+या꣡चन्ते सुम्न꣡म् प꣡वमानम् अ꣡क्षितम्  

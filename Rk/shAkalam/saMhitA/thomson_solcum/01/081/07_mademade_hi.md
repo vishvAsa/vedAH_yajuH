@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-máde-made hí no dadír  
-yūthā́ gávām r̥jukrátuḥ  
-sáṃ gr̥bhāya purū́ śatā́  
-ubhayāhastiyā́ vásu  
-śiśīhí rāyá ā́ bhara  
+म꣡दे-मदे हि꣡ नो ददि꣡र्  
+यूथा꣡ ग꣡वाम् ऋजुक्र꣡तुः  
+सं꣡ गृभाय पुरू꣡ शता꣡  
+उभयाहस्तिया꣡ व꣡सु  
+शिशीहि꣡ राय꣡ आ꣡ भर  

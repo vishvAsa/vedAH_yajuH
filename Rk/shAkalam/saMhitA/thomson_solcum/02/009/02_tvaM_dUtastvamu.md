@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuváṃ dūtás tuvám u naḥ paraspā́s  
-tuváṃ vásya ā́ vr̥ṣabha praṇetā́  
-ágne tokásya nas táne tanū́nām  
-áprayuchan dī́diyad bodhi gopā́ḥ  
+तुवं꣡ दूत꣡स् तुव꣡म् उ नः परस्पा꣡स्  
+तुवं꣡ व꣡स्य आ꣡ वृषभ प्रणेता꣡  
+अ꣡ग्ने तोक꣡स्य नस् त꣡ने तनू꣡नाम्  
+अ꣡प्रयुछन् दी꣡दियद् बोधि गोपाः꣡  

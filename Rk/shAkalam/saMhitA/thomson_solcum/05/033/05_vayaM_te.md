@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vayáṃ té ta indara+ yé ca náraḥ  
-śárdho jajñānā́ yãtā́ś ca ráthāḥ  
-ā́smā́ñ jagamyād ahiśuṣma sátvā  
-bhágo ná hávyaḥ prabhr̥théṣu cā́ruḥ  
+वयं꣡ ते꣡ त इन्दर+ ये꣡ च न꣡रः  
+श꣡र्धो जज्ञाना꣡ य्ãता꣡श् च र꣡थाः  
+आ꣡स्मा꣡ञ् जगम्याद् अहिशुष्म स꣡त्वा  
+भ꣡गो न꣡ ह꣡व्यः प्रभृथे꣡षु चा꣡रुः  

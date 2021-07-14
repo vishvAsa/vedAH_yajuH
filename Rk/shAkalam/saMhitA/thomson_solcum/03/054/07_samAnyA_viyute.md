@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-samāniyā́ víyute dūréante  
-dhruvé padé tasthatur jāgarū́ke  
-utá svásārā yuvatī́ bhávantī  
-ā́d u bruvāte mithunā́ni nā́ma  
+समानिया꣡ वि꣡युते दूरे꣡अन्ते  
+ध्रुवे꣡ पदे꣡ तस्थतुर् जागरू꣡के  
+उत꣡ स्व꣡सारा युवती꣡ भ꣡वन्ती  
+आ꣡द् उ ब्रुवाते मिथुना꣡नि ना꣡म  

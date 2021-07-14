@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-práti smarethāṃ tujáyadbhir évair  
-hatáṃ druhó rakṣáso bhaṅgurā́vataḥ  
-índrāsomā duṣkŕ̥te mā́ sugám bhūd  
-yó naḥ kadā́ cid abhidā́sati druhā́  
+प्र꣡ति स्मरेथां तुज꣡यद्भिर् ए꣡वैर्  
+हतं꣡ द्रुहो꣡ रक्ष꣡सो भङ्गुरा꣡वतः  
+इ꣡न्द्रासोमा दुष्क्ŕ̥ते मा꣡ सुग꣡म् भूद्  
+यो꣡ नः कदा꣡ चिद् अभिदा꣡सति द्रुहा꣡  

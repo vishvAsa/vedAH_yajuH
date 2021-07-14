@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-úd ū ayām̐ upavaktéva bāhū́  
-hiraṇyáyā savitā́ suprátīkā  
-divó róhāṃsi aruhat pr̥thivyā́  
-árīramat patáyat kác cid ábhvam  
+उ꣡द् ऊ अयाँ उपवक्ते꣡व बाहू꣡  
+हिरण्य꣡या सविता꣡ सुप्र꣡तीका  
+दिवो꣡ रो꣡हांसि अरुहत् पृथिव्या꣡  
+अ꣡रीरमत् पत꣡यत् क꣡च् चिद् अ꣡भ्वम्  

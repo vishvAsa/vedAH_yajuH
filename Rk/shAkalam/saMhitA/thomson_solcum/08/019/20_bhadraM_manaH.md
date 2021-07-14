@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-bhadrám mánaḥ kr̥ṇuṣva vr̥tratū́riye  
-yénā samátsu sāsáhaḥ  
-áva sthirā́ tanuhi bhū́ri śárdhatāṃ  
-vanémā te abhíṣṭibhiḥ  
+भद्र꣡म् म꣡नः कृणुष्व वृत्रतू꣡रिये  
+ये꣡ना सम꣡त्सु सास꣡हः  
+अ꣡व स्थिरा꣡ तनुहि भू꣡रि श꣡र्धतां  
+वने꣡मा ते अभि꣡ष्टिभिः  

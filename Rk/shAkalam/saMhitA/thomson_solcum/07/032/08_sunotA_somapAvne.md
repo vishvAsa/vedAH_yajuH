@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sunótā somapā́vane  
-sómam índrāya vajríṇe  
-pácatā paktī́r ávase kr̥ṇudhvám ít  
-pr̥ṇánn ít pr̥ṇaté máyaḥ  
+सुनो꣡ता सोमपा꣡वने  
+सो꣡मम् इ꣡न्द्राय वज्रि꣡णे  
+प꣡चता पक्ती꣡र् अ꣡वसे कृणुध्व꣡म् इ꣡त्  
+पृण꣡न्न् इ꣡त् पृणते꣡ म꣡यः  

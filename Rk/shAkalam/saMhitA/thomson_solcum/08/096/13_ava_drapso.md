@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-áva drapsó aṃśumátīm atiṣṭhad  
-iyānáḥ kr̥ṣṇó daśábhiḥ sahásraiḥ  
-ā́vat tám índraḥ śáciyā dhámantam  
-ápa snéhitīr nr̥máṇā adhatta  
+अ꣡व द्रप्सो꣡ अंशुम꣡तीम् अतिष्ठद्  
+इयानः꣡ कृष्णो꣡ दश꣡भिः सह꣡स्रैः  
+आ꣡वत् त꣡म् इ꣡न्द्रः श꣡चिया ध꣡मन्तम्  
+अ꣡प स्ने꣡हितीर् नृम꣡णा अधत्त  

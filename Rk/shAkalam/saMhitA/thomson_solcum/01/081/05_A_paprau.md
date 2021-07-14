@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-ā́ paprau pā́rthivaṃ rájo  
-badbadhé rocanā́ diví  
-ná tvā́vām̐ indra káś caná  
-ná jātó ná janiṣyate  
-áti víśvaṃ vavakṣitha  
+आ꣡ पप्रौ पा꣡र्थिवं र꣡जो  
+बद्बधे꣡ रोचना꣡ दिवि꣡  
+न꣡ त्वा꣡वाँ इन्द्र क꣡श् चन꣡  
+न꣡ जातो꣡ न꣡ जनिष्यते  
+अ꣡ति वि꣡श्वं ववक्षिथ  

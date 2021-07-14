@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ yáḥ sómena jaṭháram ápiprata  
-ámandata maghávā mádhvo ándhasaḥ  
-yád īm mr̥gā́ya hántave mahā́vadhaḥ  
-sahásrabhr̥ṣṭim uśánā vadháṃ yámat  
+आ꣡ यः꣡ सो꣡मेन जठ꣡रम् अ꣡पिप्रत  
+अ꣡मन्दत मघ꣡वा म꣡ध्वो अ꣡न्धसः  
+य꣡द् ईम् मृगा꣡य ह꣡न्तवे महा꣡वधः  
+सह꣡स्रभृष्टिम् उश꣡ना वधं꣡ य꣡मत्  

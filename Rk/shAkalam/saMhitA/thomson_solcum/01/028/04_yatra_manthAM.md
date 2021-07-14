@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yátra mánthāṃ vibadhnáte  
-raśmī́n yámitavā́ iva  
-ulū́khalasutānãm  
-ávéd u indra jalgulaḥ  
+य꣡त्र म꣡न्थां विबध्न꣡ते  
+रश्मी꣡न् य꣡मितवा꣡ इव  
+उलू꣡खलसुतान्ãम्  
+अ꣡वे꣡द् उ इन्द्र जल्गुलः  

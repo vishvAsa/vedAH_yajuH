@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ámandān stómān prá bhare manīṣā́  
-síndhāv ádhi kṣiyató bhāviyásya  
-yó me sahásram ámimīta savā́n  
-atū́rto rā́jā śráva ichámānaḥ  
+अ꣡मन्दान् स्तो꣡मान् प्र꣡ भरे मनीषा꣡  
+सि꣡न्धाव् अ꣡धि क्षियतो꣡ भाविय꣡स्य  
+यो꣡ मे सह꣡स्रम् अ꣡मिमीत सवा꣡न्  
+अतू꣡र्तो रा꣡जा श्र꣡व इछ꣡मानः  

@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-ásya te sakhiyé vayám  
-íyakṣantas tuvótayaḥ  
-índo sakhitvám uśmasi  
+अ꣡स्य ते सखिये꣡ वय꣡म्  
+इ꣡यक्षन्तस् तुवो꣡तयः  
+इ꣡न्दो सखित्व꣡म् उश्मसि  

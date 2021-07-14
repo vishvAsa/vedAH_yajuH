@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-yó vām uruvyácastamaṃ  
-cíketati nr̥pā́yiyam  
-vartír aśvinā pári yātam asmayū́  
+यो꣡ वाम् उरुव्य꣡चस्तमं  
+चि꣡केतति नृपा꣡यियम्  
+वर्ति꣡र् अश्विना प꣡रि यातम् अस्मयू꣡  

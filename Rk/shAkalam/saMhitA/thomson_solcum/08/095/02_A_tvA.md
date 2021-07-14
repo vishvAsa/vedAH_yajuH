@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ tvā śukrā́ acucyavuḥ  
-sutā́sa indra girvaṇaḥ  
-píbā tú asya ándhasa  
-índra víśvāsu te hitám  
+आ꣡ त्वा शुक्रा꣡ अचुच्यवुः  
+सुता꣡स इन्द्र गिर्वणः  
+पि꣡बा तु꣡ अस्य अ꣡न्धस  
+इ꣡न्द्र वि꣡श्वासु ते हित꣡म्  

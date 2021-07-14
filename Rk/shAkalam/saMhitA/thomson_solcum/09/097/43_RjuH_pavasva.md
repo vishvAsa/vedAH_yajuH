@@ -2,7 +2,7 @@
 title = "043"
 
 +++
-r̥júḥ pavasva vr̥jinásya hantā́  
-ápā́mīvām bā́dhamāno mŕ̥dhaś ca  
-abhiśrīṇán páyaḥ páyasābhí gónām  
-índrasya tváṃ táva vayáṃ sákhāyaḥ  
+ऋजुः꣡ पवस्व वृजिन꣡स्य हन्ता꣡  
+अ꣡पा꣡मीवाम् बा꣡धमानो म्ŕ̥धश् च  
+अभिश्रीण꣡न् प꣡यः प꣡यसाभि꣡ गो꣡नाम्  
+इ꣡न्द्रस्य त्वं꣡ त꣡व वयं꣡ स꣡खायः  

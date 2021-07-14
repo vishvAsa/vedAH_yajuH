@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-agnír ukthé puróhito  
-grā́vāṇo barhír adhvaré  
-r̥cā́ yāmi marúto bráhmaṇas pátiṃ  
-devā́m̐ ávo váreṇiyam  
+अग्नि꣡र् उक्थे꣡ पुरो꣡हितो  
+ग्रा꣡वाणो बर्हि꣡र् अध्वरे꣡  
+ऋचा꣡ यामि मरु꣡तो ब्र꣡ह्मणस् प꣡तिं  
+देवाँ꣡ अ꣡वो व꣡रेणियम्  

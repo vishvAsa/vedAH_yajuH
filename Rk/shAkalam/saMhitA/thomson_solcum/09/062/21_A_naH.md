@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-ā́ naḥ sómam pavítra ā́  
-sr̥játā mádhumattamam  
-devébhyo devaśrúttamam  
+आ꣡ नः सो꣡मम् पवि꣡त्र आ꣡  
+सृज꣡ता म꣡धुमत्तमम्  
+देवे꣡भ्यो देवश्रु꣡त्तमम्  

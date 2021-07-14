@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-adyā́ cin nū́ cit tád ápo nadī́nāṃ  
-yád ābhiyo árado gātúm indra  
-ní párvatā admasádo ná sedus  
-tváyā dr̥̄ḷhā́ni+ sukrato rájāṃsi  
+अद्या꣡ चिन् नू꣡ चित् त꣡द् अ꣡पो नदी꣡नां  
+य꣡द् आभियो अ꣡रदो गातु꣡म् इन्द्र  
+नि꣡ प꣡र्वता अद्मस꣡दो न꣡ सेदुस्  
+त्व꣡या दॄऌहा꣡नि+ सुक्रतो र꣡जांसि  

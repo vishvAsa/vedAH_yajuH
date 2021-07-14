@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-dhánvanā gā́ dhánvanājíṃ jayema  
-dhánvanā tīvrā́ḥ samádo jayema  
-dhánuḥ śátror apakāmáṃ kr̥ṇoti  
-dhánvanā sárvāḥ pradíśo jayema  
+ध꣡न्वना गा꣡ ध꣡न्वनाजिं꣡ जयेम  
+ध꣡न्वना तीव्राः꣡ सम꣡दो जयेम  
+ध꣡नुः श꣡त्रोर् अपकामं꣡ कृणोति  
+ध꣡न्वना स꣡र्वाः प्रदि꣡शो जयेम  

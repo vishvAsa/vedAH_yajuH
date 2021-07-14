@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-asmā́kam indra duṣṭáram  
-puroyā́vānam ājíṣu  
-sayā́vānaṃ dháne-dhane  
-vājayántam avā rátham  
+अस्मा꣡कम् इन्द्र दुष्ट꣡रम्  
+पुरोया꣡वानम् आजि꣡षु  
+सया꣡वानं ध꣡ने-धने  
+वाजय꣡न्तम् अवा र꣡थम्  

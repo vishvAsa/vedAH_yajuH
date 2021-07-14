@@ -2,10 +2,10 @@
 title = "006"
 
 +++
-utó no asyā́ uṣáso juṣéta hí  
-arkásya bodhi havíṣo hávīmabhiḥ  
-súvarṣātā hávīmabhiḥ  
-yád indra hántave mŕ̥dho  
-vŕ̥ṣā vajriñ cíketasi  
-ā́ me asyá · vedháso návīyaso  
-mánma śrudhi návīyasaḥ  
+उतो꣡ नो अस्या꣡ उष꣡सो जुषे꣡त हि꣡  
+अर्क꣡स्य बोधि हवि꣡षो ह꣡वीमभिः  
+सु꣡वर्षाता ह꣡वीमभिः  
+य꣡द् इन्द्र ह꣡न्तवे म्ŕ̥धो  
+व्ŕ̥षा वज्रिञ् चि꣡केतसि  
+आ꣡ मे अस्य꣡ · वेध꣡सो न꣡वीयसो  
+म꣡न्म श्रुधि न꣡वीयसः  

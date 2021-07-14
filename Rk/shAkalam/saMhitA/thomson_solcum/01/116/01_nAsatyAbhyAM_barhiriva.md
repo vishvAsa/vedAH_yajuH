@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-nā́satyābhyām barhír iva prá vr̥ñje  
-stómām̐ iyarmi abhríyeva vā́taḥ  
-yā́v árbhagāya vimadā́ya jāyā́ṃ  
-senājúvā niūhátū ráthena  
+ना꣡सत्याभ्याम् बर्हि꣡र् इव प्र꣡ वृञ्जे  
+स्तो꣡माँ इयर्मि अभ्रि꣡येव वा꣡तः  
+या꣡व् अ꣡र्भगाय विमदा꣡य जायां꣡  
+सेनाजु꣡वा निऊह꣡तू र꣡थेन  

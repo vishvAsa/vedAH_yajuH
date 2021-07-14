@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuvám ádha prathamáṃ jā́yamāno  
-áme víśvā adhithā indra kr̥ṣṭī́ḥ  
-tuvám práti praváta āśáyānam  
-áhiṃ vájreṇa maghavan ví vr̥ścaḥ  
+तुव꣡म् अ꣡ध प्रथमं꣡ जा꣡यमानो  
+अ꣡मे वि꣡श्वा अधिथा इन्द्र कृष्टीः꣡  
+तुव꣡म् प्र꣡ति प्रव꣡त आश꣡यानम्  
+अ꣡हिं व꣡ज्रेण मघवन् वि꣡ वृश्चः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mitráṃ ná yáṃ súdhitam bhŕ̥gavo dadhúr  
-vánaspátāv ī́ḍiyam ūrdhváśociṣam  
-sá tváṃ súprīto vītáhavye adbhuta  
-práśastibhir mahayase divé-dive  
+मित्रं꣡ न꣡ यं꣡ सु꣡धितम् भ्ŕ̥गवो दधु꣡र्  
+व꣡नस्प꣡ताव् ई꣡डियम् ऊर्ध्व꣡शोचिषम्  
+स꣡ त्वं꣡ सु꣡प्रीतो वीत꣡हव्ये अद्भुत  
+प्र꣡शस्तिभिर् महयसे दिवे꣡-दिवे  

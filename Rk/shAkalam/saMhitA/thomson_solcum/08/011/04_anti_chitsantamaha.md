@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ánti cit sántam áha  
-yajñám mártasya ripóḥ  
-nópa veṣi jātavedaḥ  
+अ꣡न्ति चित् स꣡न्तम् अ꣡ह  
+यज्ञ꣡म् म꣡र्तस्य रिपोः꣡  
+नो꣡प वेषि जातवेदः  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-vayám adyá índarasya+ práyiṣṭhā+  
-vayáṃ śuvó vocemahi samaryé  
-vayám purā́ máhi ca no ánu dyū́n  
-tán na r̥bhukṣā́ narā́m ánu ṣyāt  
+वय꣡म् अद्य꣡ इ꣡न्दरस्य+ प्र꣡यिष्ठा+  
+वयं꣡ शुवो꣡ वोचेमहि समर्ये꣡  
+वय꣡म् पुरा꣡ म꣡हि च नो अ꣡नु द्यू꣡न्  
+त꣡न् न ऋभुक्षा꣡ नरा꣡म् अ꣡नु ष्यात्  

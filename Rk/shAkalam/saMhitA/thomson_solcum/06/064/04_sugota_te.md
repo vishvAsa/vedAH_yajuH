@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sugótá te supáthā párvateṣu  
-avāté apás tarasi svabhāno  
-sā́ na ā́ vaha pr̥thuyāman r̥ṣve  
-rayíṃ divo duhitar iṣayádhyai  
+सुगो꣡त꣡ ते सुप꣡था प꣡र्वतेषु  
+अवाते꣡ अप꣡स् तरसि स्वभानो  
+सा꣡ न आ꣡ वह पृथुयामन् ऋष्वे  
+रयिं꣡ दिवो दुहितर् इषय꣡ध्यै  

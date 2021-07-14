@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-ā́ te vr̥ṣan vŕ̥ṣaṇo dróṇam asthur  
-ghr̥taprúṣo ná ūrmáyo mádantaḥ  
-índra prá túbhyaṃ vŕ̥ṣabhiḥ sutā́nāṃ  
-vŕ̥ṣṇe bharanti vr̥ṣabhā́ya sómam  
+आ꣡ ते वृषन् व्ŕ̥षणो द्रो꣡णम् अस्थुर्  
+घृतप्रु꣡षो न꣡ ऊर्म꣡यो म꣡दन्तः  
+इ꣡न्द्र प्र꣡ तु꣡भ्यं व्ŕ̥षभिः सुता꣡नां  
+व्ŕ̥ष्णे भरन्ति वृषभा꣡य सो꣡मम्  

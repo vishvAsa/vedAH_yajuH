@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-yátrā vádete ávaraḥ páraś ca  
-yajñaníyoḥ kataró nau ví veda  
-ā́ śekur ít sadhamā́daṃ sákhāyo  
-nákṣanta yajñáṃ ká idáṃ ví vocat  
+य꣡त्रा व꣡देते अ꣡वरः प꣡रश् च  
+यज्ञनि꣡योः कतरो꣡ नौ वि꣡ वेद  
+आ꣡ शेकुर् इ꣡त् सधमा꣡दं स꣡खायो  
+न꣡क्षन्त यज्ञं꣡ क꣡ इदं꣡ वि꣡ वोचत्  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-átāriṣur bharatā́ gavyávaḥ sám  
-ábhakta vípraḥ sumatíṃ nadī́nām  
-prá pinvadhvam iṣáyantīḥ surā́dhā  
-ā́ vakṣáṇāḥ pr̥ṇádhvaṃ yātá śī́bham  
+अ꣡तारिषुर् भरता꣡ गव्य꣡वः स꣡म्  
+अ꣡भक्त वि꣡प्रः सुमतिं꣡ नदी꣡नाम्  
+प्र꣡ पिन्वध्वम् इष꣡यन्तीः सुरा꣡धा  
+आ꣡ वक्ष꣡णाः पृण꣡ध्वं यात꣡ शी꣡भम्  

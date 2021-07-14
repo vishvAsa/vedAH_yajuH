@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-áva spr̥dhi pitáraṃ yódhi vidvā́n  
-putró yás te sahasaḥ sūna ūhé  
-kadā́ cikitvo abhí cakṣase no  
-ágne kadā́m̐ r̥tacíd yātayāse  
+अ꣡व स्पृधि पित꣡रं यो꣡धि विद्वा꣡न्  
+पुत्रो꣡ य꣡स् ते सहसः सून ऊहे꣡  
+कदा꣡ चिकित्वो अभि꣡ चक्षसे नो  
+अ꣡ग्ने कदाँ꣡ ऋतचि꣡द् यातयासे  

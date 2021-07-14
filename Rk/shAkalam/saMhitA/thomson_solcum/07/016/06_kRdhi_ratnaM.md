@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-kr̥dhí rátnaṃ yájamānāya sukrato  
-tuváṃ hí ratnadhā́ ási  
-ā́ na r̥té śiśīhi víśvam r̥tvíjaṃ  
-suśáṃso yáś ca dákṣate  
+कृधि꣡ र꣡त्नं य꣡जमानाय सुक्रतो  
+तुवं꣡ हि꣡ रत्नधा꣡ अ꣡सि  
+आ꣡ न ऋते꣡ शिशीहि वि꣡श्वम् ऋत्वि꣡जं  
+सुशं꣡सो य꣡श् च द꣡क्षते  

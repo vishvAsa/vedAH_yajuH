@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-sá jāmíbhir yát samájāti mīḷhé  
-ájāmibhir vā puruhūtá évaiḥ  
-apā́ṃ tokásya tánayasya jeṣé  
-marútvān no bhavatu índra ūtī́  
+स꣡ जामि꣡भिर् य꣡त् सम꣡जाति मीऌहे꣡  
+अ꣡जामिभिर् वा पुरुहूत꣡ ए꣡वैः  
+अपां꣡ तोक꣡स्य त꣡नयस्य जेषे꣡  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

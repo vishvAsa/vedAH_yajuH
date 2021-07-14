@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ádhvaryavaḥ kártanā śruṣṭím asmai  
-váne nípūtaṃ vána ún nayadhvam  
-juṣāṇó hástyam abhí vāvaśe va  
-índrāya sómam madiráṃ juhota  
+अ꣡ध्वर्यवः क꣡र्तना श्रुष्टि꣡म् अस्मै  
+व꣡ने नि꣡पूतं व꣡न उ꣡न् नयध्वम्  
+जुषाणो꣡ ह꣡स्त्यम् अभि꣡ वावशे व  
+इ꣡न्द्राय सो꣡मम् मदिरं꣡ जुहोत  

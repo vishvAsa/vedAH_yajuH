@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-táṃ no dyā́vāpr̥thivī́ tán na ā́pa  
-índraḥ śr̥ṇvantu marúto hávaṃ vácaḥ  
-mā́ śū́ne bhūma sū́riyasya saṃdŕ̥śi  
-bhadráṃ jī́vanto jaraṇā́m aśīmahi  
+तं꣡ नो द्या꣡वापृथिवी꣡ त꣡न् न आ꣡प  
+इ꣡न्द्रः शृण्वन्तु मरु꣡तो ह꣡वं व꣡चः  
+मा꣡ शू꣡ने भूम सू꣡रियस्य संद्ŕ̥शि  
+भद्रं꣡ जी꣡वन्तो जरणा꣡म् अशीमहि  

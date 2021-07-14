@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá śundhyúvaṃ váruṇāya práyiṣṭhām+  
-matíṃ vasiṣṭha mīḷhúṣe bharasva  
-yá īm arvā́ñcaṃ kárate yájatraṃ  
-sahásrāmaghaṃ vŕ̥ṣaṇam br̥hántam  
+प्र꣡ शुन्ध्यु꣡वं व꣡रुणाय प्र꣡यिष्ठाम्+  
+मतिं꣡ वसिष्ठ मीऌहु꣡षे भरस्व  
+य꣡ ईम् अर्वा꣡ञ्चं क꣡रते य꣡जत्रं  
+सह꣡स्रामघं व्ŕ̥षणम् बृह꣡न्तम्  

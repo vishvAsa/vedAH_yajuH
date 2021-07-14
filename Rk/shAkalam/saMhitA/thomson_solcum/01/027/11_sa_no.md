@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-sá no mahā́m̐ animānó  
-dhūmáketuḥ puruścandráḥ  
-dhiyé vā́jāya hinvatu  
+स꣡ नो महाँ꣡ अनिमानो꣡  
+धूम꣡केतुः पुरुश्चन्द्रः꣡  
+धिये꣡ वा꣡जाय हिन्वतु  

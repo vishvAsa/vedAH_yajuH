@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-satyáṃ tád indrāvaruṇā kr̥śásya vām  
-mádhva ūrmíṃ duhate saptá vā́ṇīḥ  
-tā́bhir dāśvā́ṃsam avataṃ śubhas patī  
-yó vām ádabdho abhí pā́ti cíttibhiḥ  
+सत्यं꣡ त꣡द् इन्द्रावरुणा कृश꣡स्य वाम्  
+म꣡ध्व ऊर्मिं꣡ दुहते सप्त꣡ वा꣡णीः  
+ता꣡भिर् दाश्वां꣡सम् अवतं शुभस् पती  
+यो꣡ वाम् अ꣡दब्धो अभि꣡ पा꣡ति चि꣡त्तिभिः  

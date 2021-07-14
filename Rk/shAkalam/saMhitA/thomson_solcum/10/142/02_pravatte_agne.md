@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-pravát te agne jánimā pitūyatáḥ  
-sācī́va víśvā bhúvanā ní r̥ñjase  
-prá sáptayaḥ prá saniṣanta no dhíyaḥ  
-puráś caranti paśupā́ iva tmánā  
+प्रव꣡त् ते अग्ने ज꣡निमा पितूयतः꣡  
+साची꣡व वि꣡श्वा भु꣡वना नि꣡ ऋञ्जसे  
+प्र꣡ स꣡प्तयः प्र꣡ सनिषन्त नो धि꣡यः  
+पुर꣡श् चरन्ति पशुपा꣡ इव त्म꣡ना  

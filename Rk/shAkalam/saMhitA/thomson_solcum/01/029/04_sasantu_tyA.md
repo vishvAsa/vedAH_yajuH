@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-sasántu tyā́ árātayo  
-bódhantu śūra rātáyaḥ  
-ā́ tū́ na indra śaṃsaya  
-góṣu áśveṣu śubhríṣu  
-sahásreṣu tuvīmagha  
+सस꣡न्तु त्या꣡ अ꣡रातयो  
+बो꣡धन्तु शूर रात꣡यः  
+आ꣡ तू꣡ न इन्द्र शंसय  
+गो꣡षु अ꣡श्वेषु शुभ्रि꣡षु  
+सह꣡स्रेषु तुवीमघ  

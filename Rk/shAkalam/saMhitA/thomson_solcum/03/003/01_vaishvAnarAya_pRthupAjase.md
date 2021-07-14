@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vaiśvānarā́ya pr̥thupā́jase vípo  
-rátnā vidhanta dharúṇeṣu gā́tave  
-agnír hí devā́m̐ amŕ̥to duvasyáti  
-áthā dhármāṇi sanátā ná dūduṣat  
+वैश्वानरा꣡य पृथुपा꣡जसे वि꣡पो  
+र꣡त्ना विधन्त धरु꣡णेषु गा꣡तवे  
+अग्नि꣡र् हि꣡ देवाँ꣡ अम्ŕ̥तो दुवस्य꣡ति  
+अ꣡था ध꣡र्माणि सन꣡ता न꣡ दूदुषत्  

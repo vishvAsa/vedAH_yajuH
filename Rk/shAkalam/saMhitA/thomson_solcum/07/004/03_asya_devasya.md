@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-asyá devásya saṃsádi ánīke  
-yám mártiāsaḥ śiyetáṃ jagr̥bhré  
-ní yó gŕ̥bham paúruṣeyīm uvóca  
-durókam agnír āyáve śuśoca  
+अस्य꣡ देव꣡स्य संस꣡दि अ꣡नीके  
+य꣡म् म꣡र्तिआसः शियेतं꣡ जगृभ्रे꣡  
+नि꣡ यो꣡ ग्ŕ̥भम् पउ꣡रुषेयीम् उवो꣡च  
+दुरो꣡कम् अग्नि꣡र् आय꣡वे शुशोच  

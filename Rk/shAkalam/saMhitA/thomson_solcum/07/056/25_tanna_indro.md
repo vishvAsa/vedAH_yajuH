@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-tán na índro váruṇo mitró agnír  
-ā́pa óṣadhīr vaníno juṣanta  
-śárman siyāma marútām upásthe  
-yūyám pāta suastíbhiḥ sádā naḥ  
+त꣡न् न इ꣡न्द्रो व꣡रुणो मित्रो꣡ अग्नि꣡र्  
+आ꣡प ओ꣡षधीर् वनि꣡नो जुषन्त  
+श꣡र्मन् सियाम मरु꣡ताम् उप꣡स्थे  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

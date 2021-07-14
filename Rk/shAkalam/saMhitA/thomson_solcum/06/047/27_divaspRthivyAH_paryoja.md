@@ -2,7 +2,7 @@
 title = "027"
 
 +++
-divás pr̥thivyā́ḥ pári ója údbhr̥taṃ  
-vánaspátibhyaḥ pári ā́bhr̥taṃ sáhaḥ  
-apā́m ojmā́nam pári góbhir ā́vr̥tam  
-índrasya vájraṃ havíṣā ráthaṃ yaja  
+दिव꣡स् पृथिव्याः꣡ प꣡रि ओ꣡ज उ꣡द्भृतं  
+व꣡नस्प꣡तिभ्यः प꣡रि आ꣡भृतं स꣡हः  
+अपा꣡म् ओज्मा꣡नम् प꣡रि गो꣡भिर् आ꣡वृतम्  
+इ꣡न्द्रस्य व꣡ज्रं हवि꣡षा र꣡थं यज  

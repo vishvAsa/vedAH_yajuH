@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-yó naḥ suvó áraṇo  
-yáś ca níṣṭyo jíghāṃsati  
-devā́s táṃ sárve dhūrvantu  
-bráhma várma mámā́ntaram  
+यो꣡ नः सुवो꣡ अ꣡रणो  
+य꣡श् च नि꣡ष्ट्यो जि꣡घांसति  
+देवा꣡स् तं꣡ स꣡र्वे धूर्वन्तु  
+ब्र꣡ह्म व꣡र्म म꣡मा꣡न्तरम्  

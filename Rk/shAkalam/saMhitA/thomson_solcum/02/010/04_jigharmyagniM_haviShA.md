@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-jígharmi agníṃ havíṣā ghr̥téna  
-pratikṣiyántam bhúvanāni víśvā  
-pr̥thúṃ tiraścā́ váyasā br̥hántaṃ  
-vyáciṣṭham ánnai rabhasáṃ dŕ̥śānam  
+जि꣡घर्मि अग्निं꣡ हवि꣡षा घृते꣡न  
+प्रतिक्षिय꣡न्तम् भु꣡वनानि वि꣡श्वा  
+पृथुं꣡ तिरश्चा꣡ व꣡यसा बृह꣡न्तं  
+व्य꣡चिष्ठम् अ꣡न्नै रभसं꣡ द्ŕ̥शानम्  

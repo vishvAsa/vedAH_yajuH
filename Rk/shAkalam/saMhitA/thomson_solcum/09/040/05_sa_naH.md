@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sá naḥ punāná ā́ bhara  
-rayíṃ stotré suvī́riyam  
-jaritúr vardhayā gíraḥ  
+स꣡ नः पुनान꣡ आ꣡ भर  
+रयिं꣡ स्तोत्रे꣡ सुवी꣡रियम्  
+जरितु꣡र् वर्धया गि꣡रः  

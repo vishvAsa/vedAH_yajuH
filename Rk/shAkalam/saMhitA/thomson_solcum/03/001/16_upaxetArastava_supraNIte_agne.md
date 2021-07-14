@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-upakṣetā́ras táva supraṇīte  
-ágne víśvāni dhániyā dádhānāḥ  
-surétasā śrávasā túñjamānā  
-abhí ṣyāma pr̥tanāyū́m̐r ádevān  
+उपक्षेता꣡रस् त꣡व सुप्रणीते  
+अ꣡ग्ने वि꣡श्वानि ध꣡निया द꣡धानाः  
+सुरे꣡तसा श्र꣡वसा तु꣡ञ्जमाना  
+अभि꣡ ष्याम पृतनायूँ꣡र् अ꣡देवान्  

@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-vidyúdrathā marúta r̥ṣṭimánto  
-divó máryā r̥tájātā ayā́saḥ  
-sárasvatī śr̥ṇavan yajñíyāso  
-dhā́tā rayíṃ sahávīraṃ turāsaḥ  
+विद्यु꣡द्रथा मरु꣡त ऋष्टिम꣡न्तो  
+दिवो꣡ म꣡र्या ऋत꣡जाता अया꣡सः  
+स꣡रस्वती शृणवन् यज्ञि꣡यासो  
+धा꣡ता रयिं꣡ सह꣡वीरं तुरासः  

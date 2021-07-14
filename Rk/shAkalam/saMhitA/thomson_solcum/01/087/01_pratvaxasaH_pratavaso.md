@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prátvakṣasaḥ prátavaso virapśíno  
-ánānatā ávithurā r̥jīṣíṇaḥ  
-júṣṭatamāso nŕ̥tamāso añjíbhir  
-ví ānajre ké cid usrā́ iva stŕ̥bhiḥ  
+प्र꣡त्वक्षसः प्र꣡तवसो विरप्शि꣡नो  
+अ꣡नानता अ꣡विथुरा ऋजीषि꣡णः  
+जु꣡ष्टतमासो न्ŕ̥तमासो अञ्जि꣡भिर्  
+वि꣡ आनज्रे के꣡ चिद् उस्रा꣡ इव स्त्ŕ̥भिः  

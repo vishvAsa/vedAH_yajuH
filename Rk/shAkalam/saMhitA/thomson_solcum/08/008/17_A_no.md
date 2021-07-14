@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-ā́ no gantaṃ riśādasā  
-imáṃ stómam purubhujā  
-kr̥táṃ naḥ suśríyo narā  
-imā́ dātam abhíṣṭaye  
+आ꣡ नो गन्तं रिशादसा  
+इमं꣡ स्तो꣡मम् पुरुभुजा  
+कृतं꣡ नः सुश्रि꣡यो नरा  
+इमा꣡ दातम् अभि꣡ष्टये  

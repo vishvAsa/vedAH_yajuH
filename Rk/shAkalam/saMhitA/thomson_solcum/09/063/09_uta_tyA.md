@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-utá tyā́ haríto dáśa  
-sū́ro ayukta yā́tave  
-índur índra íti bruván  
+उत꣡ त्या꣡ हरि꣡तो द꣡श  
+सू꣡रो अयुक्त या꣡तवे  
+इ꣡न्दुर् इ꣡न्द्र इ꣡ति ब्रुव꣡न्  

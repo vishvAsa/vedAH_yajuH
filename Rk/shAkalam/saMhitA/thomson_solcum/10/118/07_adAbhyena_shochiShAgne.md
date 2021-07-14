@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ádābhiyena śocíṣā  
-ágne rákṣas tuváṃ daha  
-gopā́ r̥tásya dīdihi  
+अ꣡दाभियेन शोचि꣡षा  
+अ꣡ग्ने र꣡क्षस् तुवं꣡ दह  
+गोपा꣡ ऋत꣡स्य दीदिहि  

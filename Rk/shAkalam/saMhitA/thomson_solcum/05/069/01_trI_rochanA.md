@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-trī́ rocanā́ varuṇa trī́m̐r utá dyū́n  
-trī́ṇi mitra dhārayatho rájāṃsi  
-vāvr̥dhānā́v amátiṃ kṣatríyasya  
-ánu vratáṃ rákṣamāṇāv ajuryám  
+त्री꣡ रोचना꣡ वरुण त्रीँ꣡र् उत꣡ द्यू꣡न्  
+त्री꣡णि मित्र धारयथो र꣡जांसि  
+वावृधाना꣡व् अम꣡तिं क्षत्रि꣡यस्य  
+अ꣡नु व्रतं꣡ र꣡क्षमाणाव् अजुर्य꣡म्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sáṃ sīdasva mahā́m̐ asi  
-śócasva devavī́tamaḥ  
-ví dhūmám agne aruṣám miyedhiya  
-sr̥já praśasta darśatám  
+सं꣡ सीदस्व महाँ꣡ असि  
+शो꣡चस्व देववी꣡तमः  
+वि꣡ धूम꣡म् अग्ने अरुष꣡म् मियेधिय  
+सृज꣡ प्रशस्त दर्शत꣡म्  

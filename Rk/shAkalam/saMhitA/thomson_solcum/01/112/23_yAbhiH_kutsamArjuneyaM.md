@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-yā́bhiḥ kútsam ārjuneyáṃ śatakratū  
-prá turvī́tim prá ca dabhī́tim ā́vatam  
-yā́bhir dhvasántim puruṣántim ā́vataṃ  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिः कु꣡त्सम् आर्जुनेयं꣡ शतक्रतू  
+प्र꣡ तुर्वी꣡तिम् प्र꣡ च दभी꣡तिम् आ꣡वतम्  
+या꣡भिर् ध्वस꣡न्तिम् पुरुष꣡न्तिम् आ꣡वतं  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

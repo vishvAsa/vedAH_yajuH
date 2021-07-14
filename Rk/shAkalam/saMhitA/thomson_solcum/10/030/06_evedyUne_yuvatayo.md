@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-evéd yū́ne yuvatáyo namanta  
-yád īm uśánn uśatī́r éti ácha  
-sáṃ jānate mánasā sáṃ cikitre  
-adhvaryávo dhiṣáṇā́paś ca devī́ḥ  
+एवे꣡द् यू꣡ने युवत꣡यो नमन्त  
+य꣡द् ईम् उश꣡न्न् उशती꣡र् ए꣡ति अ꣡छ  
+सं꣡ जानते म꣡नसा सं꣡ चिकित्रे  
+अध्वर्य꣡वो धिष꣡णा꣡पश् च देवीः꣡  

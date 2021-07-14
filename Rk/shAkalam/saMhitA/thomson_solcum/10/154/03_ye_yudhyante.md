@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yé yúdhyante pradháneṣu  
-śū́rāso yé tanūtyájaḥ  
-yé vā sahásradakṣiṇās  
-tā́ṃś cid evā́pi gachatāt  
+ये꣡ यु꣡ध्यन्ते प्रध꣡नेषु  
+शू꣡रासो ये꣡ तनूत्य꣡जः  
+ये꣡ वा सह꣡स्रदक्षिणास्  
+तां꣡श् चिद् एवा꣡पि गछतात्  

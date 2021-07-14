@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-kavír ná niṇyáṃ vidáthāni sā́dhan  
-vŕ̥ṣā yát sékaṃ vipipānó árcāt  
-divá itthā́ jījanat saptá kārū́n  
-áhnā cic cakrur vayúnā gr̥ṇántaḥ  
+कवि꣡र् न꣡ निण्यं꣡ विद꣡थानि सा꣡धन्  
+व्ŕ̥षा य꣡त् से꣡कं विपिपानो꣡ अ꣡र्चात्  
+दिव꣡ इत्था꣡ जीजनत् सप्त꣡ कारू꣡न्  
+अ꣡ह्ना चिच् चक्रुर् वयु꣡ना गृण꣡न्तः  

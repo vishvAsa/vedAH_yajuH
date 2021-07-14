@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sómārudrā ví vr̥hataṃ víṣūcīm  
-ámīvā yā́ no gáyam āvivéśa  
-āré bādhethāṃ nírr̥tim parācaír  
-asmé bhadrā́ sauśravasā́ni santu  
+सो꣡मारुद्रा वि꣡ वृहतं वि꣡षूचीम्  
+अ꣡मीवा या꣡ नो ग꣡यम् आविवे꣡श  
+आरे꣡ बाधेथां नि꣡रृतिम् पराचइ꣡र्  
+अस्मे꣡ भद्रा꣡ सौश्रवसा꣡नि सन्तु  

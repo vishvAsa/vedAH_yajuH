@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tásmā agnír bhā́rataḥ śárma yaṃsaj  
-jiyók paśyāt sū́riyam uccárantam  
-yá índrāya sunávāméti ā́ha  
-náre náryāya nŕ̥tamāya nr̥̄ṇā́m+  
+त꣡स्मा अग्नि꣡र् भा꣡रतः श꣡र्म यंसज्  
+जियो꣡क् पश्यात् सू꣡रियम् उच्च꣡रन्तम्  
+य꣡ इ꣡न्द्राय सुन꣡वामे꣡ति आ꣡ह  
+न꣡रे न꣡र्याय न्ŕ̥तमाय नॄणा꣡म्+  

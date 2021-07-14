@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-tuvā́ṃ sutásya pītáye  
-pratnám indra havāmahe  
-kuśikā́so avasyávaḥ  
+तुवां꣡ सुत꣡स्य पीत꣡ये  
+प्रत्न꣡म् इन्द्र हवामहे  
+कुशिका꣡सो अवस्य꣡वः  

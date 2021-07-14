@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá va spáḷ akran suvitā́ya dāváne  
-árcā divé prá pr̥thivyā́ r̥tám bhare  
-ukṣánte áśvān táruṣanta ā́ rájo  
-ánu svám bhānúṃ śrathayante arṇavaíḥ  
+प्र꣡ व स्प꣡ऌ अक्रन् सुविता꣡य दाव꣡ने  
+अ꣡र्चा दिवे꣡ प्र꣡ पृथिव्या꣡ ऋत꣡म् भरे  
+उक्ष꣡न्ते अ꣡श्वान् त꣡रुषन्त आ꣡ र꣡जो  
+अ꣡नु स्व꣡म् भानुं꣡ श्रथयन्ते अर्णवइः꣡  

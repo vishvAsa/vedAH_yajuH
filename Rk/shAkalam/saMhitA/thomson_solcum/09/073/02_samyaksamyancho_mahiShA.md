@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-samyák samyáñco mahiṣā́ aheṣata  
-síndhor ūrmā́v ádhi venā́ avīvipan  
-mádhor dhā́rābhir janáyanto arkám ít  
-priyā́m índrasya tanúvam avīvr̥dhan  
+सम्य꣡क् सम्य꣡ञ्चो महिषा꣡ अहेषत  
+सि꣡न्धोर् ऊर्मा꣡व् अ꣡धि वेना꣡ अवीविपन्  
+म꣡धोर् धा꣡राभिर् जन꣡यन्तो अर्क꣡म् इ꣡त्  
+प्रिया꣡म् इ꣡न्द्रस्य तनु꣡वम् अवीवृधन्  

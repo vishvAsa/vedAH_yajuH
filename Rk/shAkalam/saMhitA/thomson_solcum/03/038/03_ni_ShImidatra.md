@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ní ṣīm íd átra gúhiyā dádhānā  
-utá kṣatrā́ya ródasī sám añjan  
-sám mā́trābhir mamiré yemúr urvī́  
-antár mahī́ sámr̥te dhā́yase dhuḥ  
+नि꣡ षीम् इ꣡द् अ꣡त्र गु꣡हिया द꣡धाना  
+उत꣡ क्षत्रा꣡य रो꣡दसी स꣡म् अञ्जन्  
+स꣡म् मा꣡त्राभिर् ममिरे꣡ येमु꣡र् उर्वी꣡  
+अन्त꣡र् मही꣡ स꣡मृते धा꣡यसे धुः  

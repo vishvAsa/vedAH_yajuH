@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tveṣáṃ rūpáṃ kr̥ṇute várṇo asya sá  
-yátrā́śayat sámr̥tā sédhati sridháḥ  
-apsā́ yāti svadháyā daíviyaṃ jánaṃ  
-sáṃ suṣṭutī́ násate sáṃ góagrayā  
+त्वेषं꣡ रूपं꣡ कृणुते व꣡र्णो अस्य स꣡  
+य꣡त्रा꣡शयत् स꣡मृता से꣡धति स्रिधः꣡  
+अप्सा꣡ याति स्वध꣡या दइ꣡वियं ज꣡नं  
+सं꣡ सुष्टुती꣡ न꣡सते सं꣡ गो꣡अग्रया  

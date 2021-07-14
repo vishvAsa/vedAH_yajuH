@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-sākáṃ jātáḥ krátunā sākám ójasā  
-vavakṣitha  
-sākáṃ vr̥ddhó vīríyaiḥ sāsahír mŕ̥dho  
-vícarṣaṇiḥ  
-dā́tā rā́dha stuvaté kā́miyaṃ vásu  
-saínaṃ saścad devó deváṃ  
-satyám índraṃ satyá índuḥ  
+साकं꣡ जातः꣡ क्र꣡तुना साक꣡म् ओ꣡जसा  
+ववक्षिथ  
+साकं꣡ वृद्धो꣡ वीरि꣡यैः सासहि꣡र् म्ŕ̥धो  
+वि꣡चर्षणिः  
+दा꣡ता रा꣡ध स्तुवते꣡ का꣡मियं व꣡सु  
+सइ꣡नं सश्चद् देवो꣡ देवं꣡  
+सत्य꣡म् इ꣡न्द्रं सत्य꣡ इ꣡न्दुः  

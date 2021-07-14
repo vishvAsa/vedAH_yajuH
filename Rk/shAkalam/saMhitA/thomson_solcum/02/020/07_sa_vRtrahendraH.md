@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sá vr̥trahā́ índaraḥ+ kr̥ṣṇáyonīḥ  
-puraṃdaró dã́sīr airayad ví  
-ájanayan mánave kṣā́m apáś ca  
-satrā́ śáṃsaṃ yájamānasya tūtot  
+स꣡ वृत्रहा꣡ इ꣡न्दरः+ कृष्ण꣡योनीः  
+पुरंदरो꣡ द्ã꣡सीर् ऐरयद् वि꣡  
+अ꣡जनयन् म꣡नवे क्षा꣡म् अप꣡श् च  
+सत्रा꣡ शं꣡सं य꣡जमानस्य तूतोत्  

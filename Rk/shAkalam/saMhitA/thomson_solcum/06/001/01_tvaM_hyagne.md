@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tuváṃ hí agne prathamó manóta  
-asyā́ dhiyó ábhavo dasma hótā  
-tváṃ sīṃ vr̥ṣann akr̥ṇor duṣṭárītu  
-sáho víśvasmai sáhase sáhadhyai  
+तुवं꣡ हि꣡ अग्ने प्रथमो꣡ मनो꣡त  
+अस्या꣡ धियो꣡ अ꣡भवो दस्म हो꣡ता  
+त्वं꣡ सीं वृषन्न् अकृणोर् दुष्ट꣡रीतु  
+स꣡हो वि꣡श्वस्मै स꣡हसे स꣡हध्यै  

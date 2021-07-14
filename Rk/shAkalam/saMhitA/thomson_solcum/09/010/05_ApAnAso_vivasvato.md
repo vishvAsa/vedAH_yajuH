@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-āpānā́so vivásvato  
-jánanta uṣáso bhágam  
-sū́rā áṇvaṃ ví tanvate  
+आपाना꣡सो विव꣡स्वतो  
+ज꣡नन्त उष꣡सो भ꣡गम्  
+सू꣡रा अ꣡ण्वं वि꣡ तन्वते  

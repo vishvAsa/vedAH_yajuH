@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-mātā́ pitáram r̥tá ā́ babhāja  
-dhīti ágre mánasā sáṃ hí jagmé  
-sā́ bībhatsúr gárbharasā níviddhā  
-námasvanta íd upavākám īyuḥ  
+माता꣡ पित꣡रम् ऋत꣡ आ꣡ बभाज  
+धीति अ꣡ग्रे म꣡नसा सं꣡ हि꣡ जग्मे꣡  
+सा꣡ बीभत्सु꣡र् ग꣡र्भरसा नि꣡विद्धा  
+न꣡मस्वन्त इ꣡द् उपवाक꣡म् ईयुः  

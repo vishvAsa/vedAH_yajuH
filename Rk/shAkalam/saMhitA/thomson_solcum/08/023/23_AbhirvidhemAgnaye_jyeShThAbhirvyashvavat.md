@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-ā́bhir vidhema agnáye  
-jyáyiṣṭhābhir+ viaśvavát  
-máṃhiṣṭhābhir matíbhiḥ śukráśociṣe  
+आ꣡भिर् विधेम अग्न꣡ये  
+ज्य꣡यिष्ठाभिर्+ विअश्वव꣡त्  
+मं꣡हिष्ठाभिर् मति꣡भिः शुक्र꣡शोचिषे  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-vā́yo yé te sahasríṇo  
-ráthāsas tébhir ā́ gahi  
-niyútvān sómapītaye  
+वा꣡यो ये꣡ ते सहस्रि꣡णो  
+र꣡थासस् ते꣡भिर् आ꣡ गहि  
+नियु꣡त्वान् सो꣡मपीतये  

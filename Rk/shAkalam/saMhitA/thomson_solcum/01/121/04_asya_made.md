@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-asyá máde svaríyaṃ dā r̥tā́ya  
-ápīvr̥tam usríyāṇām ánīkam  
-yád dha prasárge trikakúṃ nivártad  
-ápa drúho mā́nuṣasya dúro vaḥ  
+अस्य꣡ म꣡दे स्वरि꣡यं दा ऋता꣡य  
+अ꣡पीवृतम् उस्रि꣡याणाम् अ꣡नीकम्  
+य꣡द् ध प्रस꣡र्गे त्रिककुं꣡ निव꣡र्तद्  
+अ꣡प द्रु꣡हो मा꣡नुषस्य दु꣡रो वः  

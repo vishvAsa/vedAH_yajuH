@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tvám agne dyúbhis tuvám āśuśukṣáṇis  
-tuvám adbhiyás tuvám áśmanas pári  
-tuváṃ vánebhyas tuvám óṣadhībhiyas  
-tuváṃ nr̥̄ṇā́ṃ+ nr̥pate jāyase śúciḥ  
+त्व꣡म् अग्ने द्यु꣡भिस् तुव꣡म् आशुशुक्ष꣡णिस्  
+तुव꣡म् अद्भिय꣡स् तुव꣡म् अ꣡श्मनस् प꣡रि  
+तुवं꣡ व꣡नेभ्यस् तुव꣡म् ओ꣡षधीभियस्  
+तुवं꣡ नॄणां꣡+ नृपते जायसे शु꣡चिः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prātár agníḥ purupriyó  
-viśá staveta átithiḥ  
-víśvāni yó ámartiyo  
-havyā́ márteṣu ráṇyati  
+प्रात꣡र् अग्निः꣡ पुरुप्रियो꣡  
+विश꣡ स्तवेत अ꣡तिथिः  
+वि꣡श्वानि यो꣡ अ꣡मर्तियो  
+हव्या꣡ म꣡र्तेषु र꣡ण्यति  

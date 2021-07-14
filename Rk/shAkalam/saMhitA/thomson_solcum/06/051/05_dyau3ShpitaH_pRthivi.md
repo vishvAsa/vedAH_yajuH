@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-díyauṣ pítaḥ pŕ̥thivi mā́tar ádhrug  
-ágne bhrātar vasavo mr̥̄ḷátā+ naḥ  
-víśva ādityā adite sajóṣā  
-asmábhyaṃ śárma bahuláṃ ví yanta  
+दि꣡यौष् पि꣡तः प्ŕ̥थिवि मा꣡तर् अ꣡ध्रुग्  
+अ꣡ग्ने भ्रातर् वसवो मॄऌअ꣡ता+ नः  
+वि꣡श्व आदित्या अदिते सजो꣡षा  
+अस्म꣡भ्यं श꣡र्म बहुलं꣡ वि꣡ यन्त  

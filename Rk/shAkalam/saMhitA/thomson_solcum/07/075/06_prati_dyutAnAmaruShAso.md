@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-práti dyutānā́m aruṣā́so áśvāś  
-citrā́ adr̥śrann uṣásaṃ váhantaḥ  
-yā́ti śubhrā́ viśvapíśā ráthena  
-dádhāti rátnaṃ vidhaté jánāya  
+प्र꣡ति द्युताना꣡म् अरुषा꣡सो अ꣡श्वाश्  
+चित्रा꣡ अदृश्रन्न् उष꣡सं व꣡हन्तः  
+या꣡ति शुभ्रा꣡ विश्वपि꣡शा र꣡थेन  
+द꣡धाति र꣡त्नं विधते꣡ ज꣡नाय  

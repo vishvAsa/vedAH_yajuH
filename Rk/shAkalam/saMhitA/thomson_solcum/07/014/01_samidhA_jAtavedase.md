@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-samídhā jātávedase  
-devā́ya deváhūtibhiḥ  
-havírbhiḥ śukráśociṣe namasvíno  
-vayáṃ dāśema agnáye  
+समि꣡धा जात꣡वेदसे  
+देवा꣡य देव꣡हूतिभिः  
+हवि꣡र्भिः शुक्र꣡शोचिषे नमस्वि꣡नो  
+वयं꣡ दाशेम अग्न꣡ये  

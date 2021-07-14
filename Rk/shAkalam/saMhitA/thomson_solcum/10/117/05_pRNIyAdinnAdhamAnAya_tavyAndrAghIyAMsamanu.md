@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-pr̥ṇīyā́d ín nā́dhamānāya távyān  
-drā́ghīyāṃsam ánu paśyeta pánthām  
-ó hí vártante ráthiyeva cakrā́  
-anyám-anyam úpa tiṣṭhanta rā́yaḥ  
+पृणीया꣡द् इ꣡न् ना꣡धमानाय त꣡व्यान्  
+द्रा꣡घीयांसम् अ꣡नु पश्येत प꣡न्थाम्  
+ओ꣡ हि꣡ व꣡र्तन्ते र꣡थियेव चक्रा꣡  
+अन्य꣡म्-अन्यम् उ꣡प तिष्ठन्त रा꣡यः  

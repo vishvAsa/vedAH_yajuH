@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yás te mádo yújiyaś cā́rur ásti  
-yéna vr̥trā́ṇi hariaśva háṃsi  
-sá tvā́m indra prabhūvaso mamattu  
+य꣡स् ते म꣡दो यु꣡जियश् चा꣡रुर् अ꣡स्ति  
+ये꣡न वृत्रा꣡णि हरिअश्व हं꣡सि  
+स꣡ त्वा꣡म् इन्द्र प्रभूवसो ममत्तु  

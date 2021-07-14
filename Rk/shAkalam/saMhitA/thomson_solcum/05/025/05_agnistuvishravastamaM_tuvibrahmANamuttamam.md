@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-agnís tuvíśravastamaṃ  
-tuvíbrahmāṇam uttamám  
-atū́rtaṃ śrāvayátpatim  
-putráṃ dadāti dāśúṣe  
+अग्नि꣡स् तुवि꣡श्रवस्तमं  
+तुवि꣡ब्रह्माणम् उत्तम꣡म्  
+अतू꣡र्तं श्रावय꣡त्पतिम्  
+पुत्रं꣡ ददाति दाशु꣡षे  

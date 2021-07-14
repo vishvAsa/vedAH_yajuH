@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-táṃ no vājā r̥bhukṣaṇa  
-índra nā́satiyā rayím  
-sám áśvaṃ carṣaṇíbhya ā́  
-purú śasta magháttaye  
+तं꣡ नो वाजा ऋभुक्षण  
+इ꣡न्द्र ना꣡सतिया रयि꣡म्  
+स꣡म् अ꣡श्वं चर्षणि꣡भ्य आ꣡  
+पुरु꣡ शस्त मघ꣡त्तये  

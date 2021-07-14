@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-anavadyaír abhídyubhir  
-makháḥ sáhasvad arcati  
-gaṇaír índrasya kā́miyaiḥ  
+अनवद्यइ꣡र् अभि꣡द्युभिर्  
+मखः꣡ स꣡हस्वद् अर्चति  
+गणइ꣡र् इ꣡न्द्रस्य का꣡मियैः  

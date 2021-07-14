@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-yás te citráśravastamo  
-yá indra vr̥trahántamaḥ  
-yá ojodā́tamo mádaḥ  
+य꣡स् ते चित्र꣡श्रवस्तमो  
+य꣡ इन्द्र वृत्रह꣡न्तमः  
+य꣡ ओजोदा꣡तमो म꣡दः  

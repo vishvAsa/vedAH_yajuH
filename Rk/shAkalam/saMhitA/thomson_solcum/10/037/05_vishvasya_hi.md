@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-víśvasya hí préṣito rákṣasi vratám  
-áheḷayann uccárasi svadhā́ ánu  
-yád adyá tvā sūrya upabrávāmahai  
-táṃ no devā́ ánu maṃsīrata krátum  
+वि꣡श्वस्य हि꣡ प्रे꣡षितो र꣡क्षसि व्रत꣡म्  
+अ꣡हेऌअयन्न् उच्च꣡रसि स्वधा꣡ अ꣡नु  
+य꣡द् अद्य꣡ त्वा सूर्य उपब्र꣡वामहै  
+तं꣡ नो देवा꣡ अ꣡नु मंसीरत क्र꣡तुम्  

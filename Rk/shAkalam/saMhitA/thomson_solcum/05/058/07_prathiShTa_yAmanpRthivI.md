@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-práthiṣṭa yā́man pr̥thivī́ cid eṣām  
-bhárteva gárbhaṃ suvám íc chávo dhuḥ  
-vā́tān hí áśvān dhurí āyuyujré  
-varṣáṃ svédaṃ cakrire rudríyāsaḥ  
+प्र꣡थिष्ट या꣡मन् पृथिवी꣡ चिद् एषाम्  
+भ꣡र्तेव ग꣡र्भं सुव꣡म् इ꣡च् छ꣡वो धुः  
+वा꣡तान् हि꣡ अ꣡श्वान् धुरि꣡ आयुयुज्रे꣡  
+वर्षं꣡ स्वे꣡दं चक्रिरे रुद्रि꣡यासः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-víśvābhir dhībhír bhúvanena vājinā  
-divā́ pr̥thivyā́ ádribhiḥ sacābhúvā  
-sajóṣasā uṣásā sū́riyeṇa ca  
-sómam pibatam aśvinā  
+वि꣡श्वाभिर् धीभि꣡र् भु꣡वनेन वाजिना  
+दिवा꣡ पृथिव्या꣡ अ꣡द्रिभिः सचाभु꣡वा  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+सो꣡मम् पिबतम् अश्विना  

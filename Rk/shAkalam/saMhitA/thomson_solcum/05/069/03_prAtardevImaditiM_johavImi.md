@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prātár devī́m áditiṃ johavīmi  
-madhyáṃdina úditā sū́riyasya  
-rāyé mitrāvaruṇā sarvátātā  
-ī́ḷe tokā́ya tánayāya śáṃ yóḥ  
+प्रात꣡र् देवी꣡म् अ꣡दितिं जोहवीमि  
+मध्यं꣡दिन उ꣡दिता सू꣡रियस्य  
+राये꣡ मित्रावरुणा सर्व꣡ताता  
+ई꣡ऌए तोका꣡य त꣡नयाय शं꣡ योः꣡  

@@ -2,9 +2,9 @@
 title = "001"
 
 +++
-índra sómam imám piba  
-mádhumantaṃ camū́ sutám  
-asmé rayíṃ ní dhāraya  
-ví vo máde  
-sahasríṇam purūvaso  
-vívakṣase  
+इ꣡न्द्र सो꣡मम् इम꣡म् पिब  
+म꣡धुमन्तं चमू꣡ सुत꣡म्  
+अस्मे꣡ रयिं꣡ नि꣡ धारय  
+वि꣡ वो म꣡दे  
+सहस्रि꣡णम् पुरूवसो  
+वि꣡वक्षसे  

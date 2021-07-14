@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-té syandrā́so ná ukṣáṇo  
-áti ṣkandanti śárvarīḥ  
-marútām ádhā máho  
-diví kṣamā́ ca manmahe  
+ते꣡ स्यन्द्रा꣡सो न꣡ उक्ष꣡णो  
+अ꣡ति ष्कन्दन्ति श꣡र्वरीः  
+मरु꣡ताम् अ꣡धा म꣡हो  
+दिवि꣡ क्षमा꣡ च मन्महे  

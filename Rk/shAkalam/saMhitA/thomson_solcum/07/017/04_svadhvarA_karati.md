@@ -2,5 +2,5 @@
 title = "004"
 
 +++
-suadhvarā́ karati jātávedā  
-yákṣad devā́m̐ amŕ̥tān pipráyac ca  
+सुअध्वरा꣡ करति जात꣡वेदा  
+य꣡क्षद् देवाँ꣡ अम्ŕ̥तान् पिप्र꣡यच् च  

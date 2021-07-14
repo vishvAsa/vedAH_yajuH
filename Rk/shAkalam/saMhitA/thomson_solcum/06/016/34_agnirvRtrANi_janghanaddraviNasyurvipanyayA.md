@@ -2,6 +2,6 @@
 title = "034"
 
 +++
-agnír vr̥trā́ṇi jaṅghanad  
-draviṇasyúr vipanyáyā  
-sámiddhaḥ śukrá ā́hutaḥ  
+अग्नि꣡र् वृत्रा꣡णि जङ्घनद्  
+द्रविणस्यु꣡र् विपन्य꣡या  
+स꣡मिद्धः शुक्र꣡ आ꣡हुतः  

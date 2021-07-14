@@ -2,9 +2,9 @@
 title = "004"
 
 +++
-yáḥ kakúbho nidhārayáḥ  
-pr̥thivyā́m ádhi darśatáḥ  
-sá mā́tā pūrviyám padáṃ  
-tád váruṇasya sáptiyaṃ  
-sá hí gopā́ ivériyo  
-nábhantām anyaké same  
+यः꣡ ककु꣡भो निधारयः꣡  
+पृथिव्या꣡म् अ꣡धि दर्शतः꣡  
+स꣡ मा꣡ता पूर्विय꣡म् पदं꣡  
+त꣡द् व꣡रुणस्य स꣡प्तियं  
+स꣡ हि꣡ गोपा꣡ इवे꣡रियो  
+न꣡भन्ताम् अन्यके꣡ समे  

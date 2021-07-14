@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-abhí sidhmó ajigād asya śátrūn  
-ví tigména vr̥ṣabhéṇā púro 'bhet  
-sáṃ vájreṇa asr̥jad vr̥trám índraḥ  
-prá svā́m matím atirac chā́śadānaḥ  
+अभि꣡ सिध्मो꣡ अजिगाद् अस्य श꣡त्रून्  
+वि꣡ तिग्मे꣡न वृषभे꣡णा पु꣡रो ऽभेत्  
+सं꣡ व꣡ज्रेण असृजद् वृत्र꣡म् इ꣡न्द्रः  
+प्र꣡ स्वा꣡म् मति꣡म् अतिरच् छा꣡शदानः  

@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-sám māgne várcasā sr̥ja  
-sám prajáyā sám ā́yuṣā  
-vidyúr me asya devã́  
-índro vidyāt sahá ŕ̥ṣibhiḥ  
+स꣡म् माग्ने व꣡र्चसा सृज  
+स꣡म् प्रज꣡या स꣡म् आ꣡युषा  
+विद्यु꣡र् मे अस्य देव्ã꣡  
+इ꣡न्द्रो विद्यात् सह꣡ ŕ̥षिभिः  

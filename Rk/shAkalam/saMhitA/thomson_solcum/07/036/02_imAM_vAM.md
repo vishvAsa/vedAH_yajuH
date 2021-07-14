@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-imā́ṃ vām mitrāvaruṇā suvr̥ktím  
-íṣaṃ ná kr̥ṇve asurā návīyaḥ  
-inó vām anyáḥ padavī́r ádabdho  
-jánaṃ ca mitró yatati bruvāṇáḥ  
+इमां꣡ वाम् मित्रावरुणा सुवृक्ति꣡म्  
+इ꣡षं न꣡ कृण्वे असुरा न꣡वीयः  
+इनो꣡ वाम् अन्यः꣡ पदवी꣡र् अ꣡दब्धो  
+ज꣡नं च मित्रो꣡ यतति ब्रुवाणः꣡  

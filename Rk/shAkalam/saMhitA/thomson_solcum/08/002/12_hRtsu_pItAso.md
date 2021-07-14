@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-hr̥tsú pītā́so yudhyante  
-durmádāso ná súrāyām  
-ū́dhar ná nagnā́ jarante  
+हृत्सु꣡ पीता꣡सो युध्यन्ते  
+दुर्म꣡दासो न꣡ सु꣡रायाम्  
+ऊ꣡धर् न꣡ नग्ना꣡ जरन्ते  

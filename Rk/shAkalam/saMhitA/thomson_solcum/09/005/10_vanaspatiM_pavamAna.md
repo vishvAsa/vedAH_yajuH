@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-vánaspátim pavamāna  
-mádhvā sám aṅgdhi dhā́rayā  
-sahásravalśaṃ háritam  
-bhrā́jamānaṃ hiraṇyáyam  
+व꣡नस्प꣡तिम् पवमान  
+म꣡ध्वा स꣡म् अङ्ग्धि धा꣡रया  
+सह꣡स्रवल्शं ह꣡रितम्  
+भ्रा꣡जमानं हिरण्य꣡यम्  

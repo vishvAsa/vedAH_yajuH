@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-śám ū ṣú vām madhūyuvā  
-asmā́kam astu carkr̥tíḥ  
-arvācīnā́ vicetasā  
-víbhiḥ śyenéva dīyatam  
+श꣡म् ऊ षु꣡ वाम् मधूयुवा  
+अस्मा꣡कम् अस्तु चर्कृतिः꣡  
+अर्वाचीना꣡ विचेतसा  
+वि꣡भिः श्येने꣡व दीयतम्  

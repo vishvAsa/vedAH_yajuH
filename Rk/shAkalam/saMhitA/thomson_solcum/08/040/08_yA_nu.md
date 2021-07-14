@@ -2,9 +2,9 @@
 title = "008"
 
 +++
-yā́ nú śvetā́v avó divá  
-uccárāta úpa dyúbhiḥ  
-indrāgniyór ánu vratám  
-úhānā yanti síndhavo  
-yā́n sīm bandhā́d ámuñcatāṃ  
-nábhantām anyaké same  
+या꣡ नु꣡ श्वेता꣡व् अवो꣡ दिव꣡  
+उच्च꣡रात उ꣡प द्यु꣡भिः  
+इन्द्राग्नियो꣡र् अ꣡नु व्रत꣡म्  
+उ꣡हाना यन्ति सि꣡न्धवो  
+या꣡न् सीम् बन्धा꣡द् अ꣡मुञ्चतां  
+न꣡भन्ताम् अन्यके꣡ समे  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yáḥ pūrviyā́ya vedháse návīyase  
-sumájjānaye víṣṇave dádāśati  
-yó jātám asya maható máhi brávat  
-séd u śrávobhir yújiyaṃ cid abhy àsat  
+यः꣡ पूर्विया꣡य वेध꣡से न꣡वीयसे  
+सुम꣡ज्जानये वि꣡ष्णवे द꣡दाशति  
+यो꣡ जात꣡म् अस्य महतो꣡ म꣡हि ब्र꣡वत्  
+से꣡द् उ श्र꣡वोभिर् यु꣡जियं चिद् अभ्य् अ᳡सत्  

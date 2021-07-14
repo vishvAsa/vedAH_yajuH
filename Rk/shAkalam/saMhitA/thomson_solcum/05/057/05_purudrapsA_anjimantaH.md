@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-purudrapsā́ añjimántaḥ sudā́navas  
-tveṣásaṃdr̥śo anavabhrárādhasaḥ  
-sujātā́so janúṣā rukmávakṣaso  
-divó arkā́ amŕ̥taṃ nā́ma bhejire  
+पुरुद्रप्सा꣡ अञ्जिम꣡न्तः सुदा꣡नवस्  
+त्वेष꣡संदृशो अनवभ्र꣡राधसः  
+सुजाता꣡सो जनु꣡षा रुक्म꣡वक्षसो  
+दिवो꣡ अर्का꣡ अम्ŕ̥तं ना꣡म भेजिरे  

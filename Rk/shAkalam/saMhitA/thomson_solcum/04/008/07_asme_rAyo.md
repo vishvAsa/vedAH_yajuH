@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-asmé rā́yo divé-dive  
-sáṃ carantu puruspŕ̥haḥ  
-asmé vā́jāsa īratām  
+अस्मे꣡ रा꣡यो दिवे꣡-दिवे  
+सं꣡ चरन्तु पुरुस्प्ŕ̥हः  
+अस्मे꣡ वा꣡जास ईरताम्  

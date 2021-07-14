@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-té no rátnāni dhattana  
-trír ā́ sā́ptāni sunvaté  
-ékam-ekaṃ suśastíbhiḥ  
+ते꣡ नो र꣡त्नानि धत्तन  
+त्रि꣡र् आ꣡ सा꣡प्तानि सुन्वते꣡  
+ए꣡कम्-एकं सुशस्ति꣡भिः  

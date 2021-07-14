@@ -2,6 +2,6 @@
 title = "037"
 
 +++
-tuvā́m íd vr̥trahantama  
-jánāso vr̥ktábarhiṣaḥ  
-hávante vā́jasātaye  
+तुवा꣡म् इ꣡द् वृत्रहन्तम  
+ज꣡नासो वृक्त꣡बर्हिषः  
+ह꣡वन्ते वा꣡जसातये  

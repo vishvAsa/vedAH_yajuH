@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yūyáṃ rayím maruta spārhávīraṃ  
-yūyám ŕ̥ṣim avatha sā́mavipram  
-yūyám árvantam bharatā́ya vā́jaṃ  
-yūyáṃ dhattha rā́jānaṃ śruṣṭimántam  
+यूयं꣡ रयि꣡म् मरुत स्पार्ह꣡वीरं  
+यूय꣡म् ŕ̥षिम् अवथ सा꣡मविप्रम्  
+यूय꣡म् अ꣡र्वन्तम् भरता꣡य वा꣡जं  
+यूयं꣡ धत्थ रा꣡जानं श्रुष्टिम꣡न्तम्  

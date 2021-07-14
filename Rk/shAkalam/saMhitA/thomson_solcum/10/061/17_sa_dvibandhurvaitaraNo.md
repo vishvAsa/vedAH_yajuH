@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-sá dvibándhur vaitaraṇó yáṣṭā  
-sabardhúṃ dhenúm asúvaṃ duhádhyai  
-sáṃ yán mitrā́váruṇā vr̥ñjá ukthaír  
-jyáyiṣṭhebhir+ aryamáṇaṃ várūthaiḥ  
+स꣡ द्विब꣡न्धुर् वैतरणो꣡ य꣡ष्टा  
+सबर्धुं꣡ धेनु꣡म् असु꣡वं दुह꣡ध्यै  
+सं꣡ य꣡न् मित्रा꣡व꣡रुणा वृञ्ज꣡ उक्थइ꣡र्  
+ज्य꣡यिष्ठेभिर्+ अर्यम꣡णं व꣡रूथैः  

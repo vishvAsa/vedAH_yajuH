@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ná tvā devā́sa āśata  
-ná mártiyāso adrivaḥ  
-víśvā jātā́ni śávasābhibhū́r asi  
-ná tvā devā́sa āśata  
+न꣡ त्वा देवा꣡स आशत  
+न꣡ म꣡र्तियासो अद्रिवः  
+वि꣡श्वा जाता꣡नि श꣡वसाभिभू꣡र् असि  
+न꣡ त्वा देवा꣡स आशत  

@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-dhiṣvá vájraṃ gábhastiyo  
-rakṣohátyāya vajrivaḥ  
-sāsahīṣṭhā́ abhí spŕ̥dhaḥ  
+धिष्व꣡ व꣡ज्रं ग꣡भस्तियो  
+रक्षोह꣡त्याय वज्रिवः  
+सासहीष्ठा꣡ अभि꣡ स्प्ŕ̥धः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-práti stómebhir uṣásaṃ vásiṣṭhā  
-gīrbhír víprāsaḥ prathamā́ abudhran  
-vivartáyantīṃ rájasī sámante  
-āviṣkr̥ṇvatī́m bhúvanāni víśvā  
+प्र꣡ति स्तो꣡मेभिर् उष꣡सं व꣡सिष्ठा  
+गीर्भि꣡र् वि꣡प्रासः प्रथमा꣡ अबुध्रन्  
+विवर्त꣡यन्तीं र꣡जसी स꣡मन्ते  
+आविष्कृण्वती꣡म् भु꣡वनानि वि꣡श्वा  

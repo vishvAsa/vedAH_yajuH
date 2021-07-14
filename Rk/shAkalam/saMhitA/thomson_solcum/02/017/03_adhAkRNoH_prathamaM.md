@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ádhākr̥ṇoḥ prathamáṃ vīríyam mahád  
-yád asyā́gre bráhmaṇā śúṣmam aírayaḥ  
-ratheṣṭhéna háriaśvena vícyutāḥ  
-prá jīráyaḥ sisrate sadhríak pŕ̥thak  
+अ꣡धाकृणोः प्रथमं꣡ वीरि꣡यम् मह꣡द्  
+य꣡द् अस्या꣡ग्रे ब्र꣡ह्मणा शु꣡ष्मम् अइ꣡रयः  
+रथेष्ठे꣡न ह꣡रिअश्वेन वि꣡च्युताः  
+प्र꣡ जीर꣡यः सिस्रते सध्रि꣡अक् प्ŕ̥थक्  

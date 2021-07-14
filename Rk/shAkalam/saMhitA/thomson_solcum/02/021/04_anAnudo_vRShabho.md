@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-anānudó vr̥ṣabhó dódhato vadhó  
-gambhīrá r̥ṣvó ásamaṣṭakāviyaḥ  
-radhracodáḥ śnáthano vīḷitás pr̥thúr  
-índraḥ suyajñá uṣásaḥ súvar janat  
+अनानुदो꣡ वृषभो꣡ दो꣡धतो वधो꣡  
+गम्भीर꣡ ऋष्वो꣡ अ꣡समष्टकावियः  
+रध्रचोदः꣡ श्न꣡थनो वीऌइत꣡स् पृथु꣡र्  
+इ꣡न्द्रः सुयज्ञ꣡ उष꣡सः सु꣡वर् जनत्  

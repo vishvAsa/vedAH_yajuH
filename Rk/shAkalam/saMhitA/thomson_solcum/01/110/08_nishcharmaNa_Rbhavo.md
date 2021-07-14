@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-níś cármaṇa r̥bhavo gā́m apiṃśata  
-sáṃ vatsénāsr̥jatā mātáram púnaḥ  
-saúdhanvanāsaḥ suapasyáyā naro  
-jívrī yúvānā pitárākr̥ṇotana  
+नि꣡श् च꣡र्मण ऋभवो गा꣡म् अपिंशत  
+सं꣡ वत्से꣡नासृजता मात꣡रम् पु꣡नः  
+सउ꣡धन्वनासः सुअपस्य꣡या नरो  
+जि꣡व्री यु꣡वाना पित꣡राकृणोतन  

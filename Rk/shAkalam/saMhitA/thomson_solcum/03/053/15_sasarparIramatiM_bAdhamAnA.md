@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-sasarparī́r ámatim bā́dhamānā  
-br̥hán mimāya jamádagnidattā  
-ā́ sū́riyasya duhitā́ tatāna  
-śrávo devéṣu amŕ̥tam ajuryám  
+ससर्परी꣡र् अ꣡मतिम् बा꣡धमाना  
+बृह꣡न् मिमाय जम꣡दग्निदत्ता  
+आ꣡ सू꣡रियस्य दुहिता꣡ ततान  
+श्र꣡वो देवे꣡षु अम्ŕ̥तम् अजुर्य꣡म्  

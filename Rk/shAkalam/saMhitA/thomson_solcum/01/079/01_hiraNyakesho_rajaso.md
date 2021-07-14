@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-híraṇyakeśo rájaso visāré  
-áhir dhúnir vā́ta iva dhrájīmān  
-śúcibhrājā · uṣáso návedā  
-yáśasvatīr apasyúvo ná satyā́ḥ  
+हि꣡रण्यकेशो र꣡जसो विसारे꣡  
+अ꣡हिर् धु꣡निर् वा꣡त इव ध्र꣡जीमान्  
+शु꣡चिभ्राजा · उष꣡सो न꣡वेदा  
+य꣡शस्वतीर् अपस्यु꣡वो न꣡ सत्याः꣡  

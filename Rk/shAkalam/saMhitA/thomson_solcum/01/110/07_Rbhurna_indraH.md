@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-r̥bhúr na índraḥ śávasā návīyān  
-r̥bhúr vā́jebhir vásubhir vásur dadíḥ  
-yuṣmā́kaṃ devā ávasā́hani priyé  
-abhí tiṣṭhema pr̥tsutī́r ásunvatām  
+ऋभु꣡र् न इ꣡न्द्रः श꣡वसा न꣡वीयान्  
+ऋभु꣡र् वा꣡जेभिर् व꣡सुभिर् व꣡सुर् ददिः꣡  
+युष्मा꣡कं देवा अ꣡वसा꣡हनि प्रिये꣡  
+अभि꣡ तिष्ठेम पृत्सुती꣡र् अ꣡सुन्वताम्  

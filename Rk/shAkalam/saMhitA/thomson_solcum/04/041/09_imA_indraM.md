@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-imā́ índraṃ váruṇam me manīṣā́  
-ágmann úpa dráviṇam ichámānāḥ  
-úpem asthur joṣṭā́ra iva vásvo  
-raghvī́r iva śrávaso bhíkṣamāṇāḥ  
+इमा꣡ इ꣡न्द्रं व꣡रुणम् मे मनीषा꣡  
+अ꣡ग्मन्न् उ꣡प द्र꣡विणम् इछ꣡मानाः  
+उ꣡पेम् अस्थुर् जोष्टा꣡र इव व꣡स्वो  
+रघ्वी꣡र् इव श्र꣡वसो भि꣡क्षमाणाः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá kṣódasā dhā́yasā sasra eṣā́  
-sárasvatī dharúṇam ā́yasī pū́ḥ  
-prabā́badhānā rathíyeva yāti  
-víśvā apó mahinā́ síndhur anyā́ḥ  
+प्र꣡ क्षो꣡दसा धा꣡यसा सस्र एषा꣡  
+स꣡रस्वती धरु꣡णम् आ꣡यसी पूः꣡  
+प्रबा꣡बधाना रथि꣡येव याति  
+वि꣡श्वा अपो꣡ महिना꣡ सि꣡न्धुर् अन्याः꣡  

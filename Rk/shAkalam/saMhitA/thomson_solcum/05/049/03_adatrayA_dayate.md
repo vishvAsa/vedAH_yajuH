@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-adatrayā́ dayate vā́riyāṇi  
-pūṣā́ bhágo áditir vásta usráḥ  
-índro víṣṇur váruṇo mitró agnír  
-áhāni bhadrā́ janayanta dasmā́ḥ  
+अदत्रया꣡ दयते वा꣡रियाणि  
+पूषा꣡ भ꣡गो अ꣡दितिर् व꣡स्त उस्रः꣡  
+इ꣡न्द्रो वि꣡ष्णुर् व꣡रुणो मित्रो꣡ अग्नि꣡र्  
+अ꣡हानि भद्रा꣡ जनयन्त दस्माः꣡  

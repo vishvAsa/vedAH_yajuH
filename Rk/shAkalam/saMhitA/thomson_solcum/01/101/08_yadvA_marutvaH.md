@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yád vā marutvaḥ paramé sadhásthe  
-yád vāvamé vr̥jáne mādáyāse  
-áta ā́ yāhi adhvaráṃ no áchā  
-tvāyā́ havíś cakr̥mā satyarādhaḥ  
+य꣡द् वा मरुत्वः परमे꣡ सध꣡स्थे  
+य꣡द् वावमे꣡ वृज꣡ने माद꣡यासे  
+अ꣡त आ꣡ याहि अध्वरं꣡ नो अ꣡छा  
+त्वाया꣡ हवि꣡श् चकृमा सत्यराधः  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tuvám agne prámatis tvám pitā́si nas  
-tuváṃ vayaskŕ̥t táva jāmáyo vayám  
-sáṃ tvā rā́yaḥ śatínaḥ sáṃ sahasríṇaḥ  
-suvī́raṃ yanti vratapā́m adābhiya  
+तुव꣡म् अग्ने प्र꣡मतिस् त्व꣡म् पिता꣡सि नस्  
+तुवं꣡ वयस्क्ŕ̥त् त꣡व जाम꣡यो वय꣡म्  
+सं꣡ त्वा रा꣡यः शति꣡नः सं꣡ सहस्रि꣡णः  
+सुवी꣡रं यन्ति व्रतपा꣡म् अदाभिय  

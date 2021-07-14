@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ūrdhvó bhava práti vidhyā́dhi asmád  
-āvíṣ kr̥ṇuṣva daíviyāni agne  
-áva sthirā́ tanuhi yātujū́nāṃ  
-jāmím ájāmim prá mr̥ṇīhi śátrūn  
+ऊर्ध्वो꣡ भव प्र꣡ति विध्या꣡धि अस्म꣡द्  
+आवि꣡ष् कृणुष्व दइ꣡वियानि अग्ने  
+अ꣡व स्थिरा꣡ तनुहि यातुजू꣡नां  
+जामि꣡म् अ꣡जामिम् प्र꣡ मृणीहि श꣡त्रून्  

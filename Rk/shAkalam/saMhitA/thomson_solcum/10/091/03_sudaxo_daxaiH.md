@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sudákṣo dákṣaiḥ krátunāsi sukrátur  
-ágne kavíḥ kā́viyenāsi viśvavít  
-vásur vásūnāṃ kṣayasi tvám éka íd  
-dyā́vā ca yā́ni pr̥thivī́ ca púṣyataḥ  
+सुद꣡क्षो द꣡क्षैः क्र꣡तुनासि सुक्र꣡तुर्  
+अ꣡ग्ने कविः꣡ का꣡वियेनासि विश्ववि꣡त्  
+व꣡सुर् व꣡सूनां क्षयसि त्व꣡म् ए꣡क इ꣡द्  
+द्या꣡वा च या꣡नि पृथिवी꣡ च पु꣡ष्यतः  

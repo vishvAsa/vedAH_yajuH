@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-śúṣṇam pípruṃ kúyavaṃ vr̥trám indra  
-yadā́vadhīr ví púraḥ śámbarasya  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+शु꣡ष्णम् पि꣡प्रुं कु꣡यवं वृत्र꣡म् इन्द्र  
+यदा꣡वधीर् वि꣡ पु꣡रः श꣡म्बरस्य  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-tvā́m agne púṣkarād ádhi  
-átharvā nír amanthata  
-mūrdhnó víśvasya vāghátaḥ  
+त्वा꣡म् अग्ने पु꣡ष्कराद् अ꣡धि  
+अ꣡थर्वा नि꣡र् अमन्थत  
+मूर्ध्नो꣡ वि꣡श्वस्य वाघ꣡तः  

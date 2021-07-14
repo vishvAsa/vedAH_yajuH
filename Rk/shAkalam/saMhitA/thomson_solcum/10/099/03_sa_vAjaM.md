@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá vā́jaṃ yā́tā ápaduṣpadā yán  
-súvarṣātā pári ṣadat saniṣyán  
-anarvā́ yác chatádurasya védo  
-ghnáñ chiśnádevām̐ abhí várpasā bhū́t  
+स꣡ वा꣡जं या꣡ता अ꣡पदुष्पदा य꣡न्  
+सु꣡वर्षाता प꣡रि षदत् सनिष्य꣡न्  
+अनर्वा꣡ य꣡च् छत꣡दुरस्य वे꣡दो  
+घ्न꣡ञ् छिश्न꣡देवाँ अभि꣡ व꣡र्पसा भू꣡त्  

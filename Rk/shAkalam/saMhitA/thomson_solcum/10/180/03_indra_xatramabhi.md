@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-índra kṣatrám · abhí vāmám ójo  
-ájāyathā vr̥ṣabha carṣaṇīnā́m  
-ápānudo jánam amitrayántam  
-urúṃ devébhyo akr̥ṇor ulokám†  
+इ꣡न्द्र क्षत्र꣡म् · अभि꣡ वाम꣡म् ओ꣡जो  
+अ꣡जायथा वृषभ चर्षणीना꣡म्  
+अ꣡पानुदो ज꣡नम् अमित्रय꣡न्तम्  
+उरुं꣡ देवे꣡भ्यो अकृणोर् उलोक꣡म्†  

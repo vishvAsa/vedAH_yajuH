@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tuvám apó yádave turváśāya  
-áramayaḥ sudúghāḥ pārá indra  
-ugrám ayātam ávaho ha kútsaṃ  
-sáṃ ha yád vām uśánā́ranta devā́ḥ  
+तुव꣡म् अपो꣡ य꣡दवे तुर्व꣡शाय  
+अ꣡रमयः सुदु꣡घाः पार꣡ इन्द्र  
+उग्र꣡म् अयातम् अ꣡वहो ह कु꣡त्सं  
+सं꣡ ह य꣡द् वाम् उश꣡ना꣡रन्त देवाः꣡  

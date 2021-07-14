@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yé agnéḥ pári jajñiré  
-vírūpāso divás pári  
-návagvo nú dáśagvo áṅgirastamo  
-sácā devéṣu maṃhate  
+ये꣡ अग्नेः꣡ प꣡रि जज्ञिरे꣡  
+वि꣡रूपासो दिव꣡स् प꣡रि  
+न꣡वग्वो नु꣡ द꣡शग्वो अ꣡ङ्गिरस्तमो  
+स꣡चा देवे꣡षु मंहते  

@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-aítu pūṣā́ rayír bhágaḥ  
-suastí sarvadhā́tamaḥ  
-urúr ádhvā suastáye  
+अइ꣡तु पूषा꣡ रयि꣡र् भ꣡गः  
+सुअस्ति꣡ सर्वधा꣡तमः  
+उरु꣡र् अ꣡ध्वा सुअस्त꣡ये  

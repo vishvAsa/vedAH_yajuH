@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-sá pratnaván návīyasā  
-ágne dyumnéna saṃyátā  
-br̥hát tatantha bhānúnā  
+स꣡ प्रत्नव꣡न् न꣡वीयसा  
+अ꣡ग्ने द्युम्ने꣡न संय꣡ता  
+बृह꣡त् ततन्थ भानु꣡ना  

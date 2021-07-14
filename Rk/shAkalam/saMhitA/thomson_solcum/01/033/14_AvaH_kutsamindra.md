@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ā́vaḥ kútsam indara+ yásmi° cākán  
-prā́vo yúdhyantaṃ vr̥ṣabháṃ dáśadyum  
-śaphácyuto rẽṇúr nakṣata dyā́m  
-úc chvaitreyó nr̥ṣā́hiyāya tasthau  
+आ꣡वः कु꣡त्सम् इन्दर+ य꣡स्मि° चाक꣡न्  
+प्रा꣡वो यु꣡ध्यन्तं वृषभं꣡ द꣡शद्युम्  
+शफ꣡च्युतो र्ẽणु꣡र् नक्षत द्या꣡म्  
+उ꣡च् छ्वैत्रेयो꣡ नृषा꣡हियाय तस्थौ  

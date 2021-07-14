@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-pró ayāsīd índur índrasya niṣkr̥táṃ  
-sákhā sákhyur ná prá mināti saṃgíram  
-márya iva yuvatíbhiḥ sám arṣati  
-sómaḥ kaláśe śatáyāmanā pathā́  
+प्रो꣡ अयासीद् इ꣡न्दुर् इ꣡न्द्रस्य निष्कृतं꣡  
+स꣡खा स꣡ख्युर् न꣡ प्र꣡ मिनाति संगि꣡रम्  
+म꣡र्य इव युवति꣡भिः स꣡म् अर्षति  
+सो꣡मः कल꣡शे शत꣡यामना पथा꣡  

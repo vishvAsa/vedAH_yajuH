@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-apā́d ahastó apr̥tanyad índram  
-ā́sya vájram ádhi sā́nau jaghāna  
-vŕ̥ṣṇo vádhriḥ pratimā́nam búbhūṣan  
-purutrā́ vr̥tró aśayad víastaḥ  
+अपा꣡द् अहस्तो꣡ अपृतन्यद् इ꣡न्द्रम्  
+आ꣡स्य व꣡ज्रम् अ꣡धि सा꣡नौ जघान  
+व्ŕ̥ष्णो व꣡ध्रिः प्रतिमा꣡नम् बु꣡भूषन्  
+पुरुत्रा꣡ वृत्रो꣡ अशयद् वि꣡अस्तः  

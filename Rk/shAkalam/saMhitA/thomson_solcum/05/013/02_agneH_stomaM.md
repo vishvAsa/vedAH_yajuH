@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-agné stómam manāmahe  
-sidhrám adyá divispŕ̥śaḥ  
-devásya draviṇasyávaḥ  
+अग्ने꣡ स्तो꣡मम् मनामहे  
+सिध्र꣡म् अद्य꣡ दिविस्प्ŕ̥शः  
+देव꣡स्य द्रविणस्य꣡वः  

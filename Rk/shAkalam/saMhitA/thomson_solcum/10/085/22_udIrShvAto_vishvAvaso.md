@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-úd īrṣvā́to viśvāvaso  
-námaseḷā mahe tuvā  
-anyā́m icha prapharvíyaṃ  
-sáṃ jāyā́m pátiyā sr̥ja  
+उ꣡द् ईर्ष्वा꣡तो विश्वावसो  
+न꣡मसेऌआ महे तुवा  
+अन्या꣡म् इछ प्रफर्वि꣡यं  
+सं꣡ जाया꣡म् प꣡तिया सृज  

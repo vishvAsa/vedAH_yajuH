@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-tát sú no návyaṃ sányasa  
-ā́dityā yán múmocati  
-bandhā́d baddhám ivādite  
+त꣡त् सु꣡ नो न꣡व्यं स꣡न्यस  
+आ꣡दित्या य꣡न् मु꣡मोचति  
+बन्धा꣡द् बद्ध꣡म् इवादिते  

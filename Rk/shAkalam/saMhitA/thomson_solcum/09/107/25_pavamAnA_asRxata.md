@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-pávamānā asr̥kṣata  
-pavítram áti dhā́rayā  
-marútvanto matsarā́ indriyā́ háyā  
-medhā́m abhí práyāṃsi ca  
+प꣡वमाना असृक्षत  
+पवि꣡त्रम् अ꣡ति धा꣡रया  
+मरु꣡त्वन्तो मत्सरा꣡ इन्द्रिया꣡ ह꣡या  
+मेधा꣡म् अभि꣡ प्र꣡यांसि च  

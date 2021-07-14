@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-íṣur ná dhánvan práti dhīyate matír  
-vatsó ná mātúr úpa sarji ū́dhani  
-urúdhāreva duhe ágra āyatī́  
-ásya vratéṣu ápi sóma iṣyate  
+इ꣡षुर् न꣡ ध꣡न्वन् प्र꣡ति धीयते मति꣡र्  
+वत्सो꣡ न꣡ मातु꣡र् उ꣡प सर्जि ऊ꣡धनि  
+उरु꣡धारेव दुहे अ꣡ग्र आयती꣡  
+अ꣡स्य व्रते꣡षु अ꣡पि सो꣡म इष्यते  

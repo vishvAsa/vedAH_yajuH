@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-ā́ devā́nām abhavaḥ ketúr agne  
-mandró víśvāni kā́viyāni vidvā́n  
-práti mártām̐ avāsayo dámūnā  
-ánu devā́n rathiró yāsi sā́dhan  
+आ꣡ देवा꣡नाम् अभवः केतु꣡र् अग्ने  
+मन्द्रो꣡ वि꣡श्वानि का꣡वियानि विद्वा꣡न्  
+प्र꣡ति म꣡र्ताँ अवासयो द꣡मूना  
+अ꣡नु देवा꣡न् रथिरो꣡ यासि सा꣡धन्  

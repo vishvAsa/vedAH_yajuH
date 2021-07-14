@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-úpo rátheṣu pŕ̥ṣatīr ayugdhuvam  
-práṣṭir vahati róhitaḥ  
-ā́ vo yā́māya pr̥thivī́ cid aśrod  
-ábībhayanta mā́nuṣāḥ  
+उ꣡पो र꣡थेषु प्ŕ̥षतीर् अयुग्धुवम्  
+प्र꣡ष्टिर् वहति रो꣡हितः  
+आ꣡ वो या꣡माय पृथिवी꣡ चिद् अश्रोद्  
+अ꣡बीभयन्त मा꣡नुषाः  

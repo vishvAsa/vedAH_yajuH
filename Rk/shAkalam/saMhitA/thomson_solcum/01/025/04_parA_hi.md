@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-párā hí me vímanyavaḥ  
-pátanti vásyaïṣṭaye  
-váyo ná vasatī́r úpa  
+प꣡रा हि꣡ मे वि꣡मन्यवः  
+प꣡तन्ति व꣡स्यïष्टये  
+व꣡यो न꣡ वसती꣡र् उ꣡प  

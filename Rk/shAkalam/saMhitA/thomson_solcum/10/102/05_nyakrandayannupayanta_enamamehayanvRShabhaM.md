@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ní akrandayann upayánta enam  
-ámehayan vr̥ṣabhám mádhya ājéḥ  
-téna sū́bharvaṃ śatávat sahásraṃ  
-gávām múdgalaḥ pradháne jigāya  
+नि꣡ अक्रन्दयन्न् उपय꣡न्त एनम्  
+अ꣡मेहयन् वृषभ꣡म् म꣡ध्य आजेः꣡  
+ते꣡न सू꣡भर्वं शत꣡वत् सह꣡स्रं  
+ग꣡वाम् मु꣡द्गलः प्रध꣡ने जिगाय  

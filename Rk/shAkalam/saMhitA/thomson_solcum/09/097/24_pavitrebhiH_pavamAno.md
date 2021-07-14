@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-pavítrebhiḥ pávamāno nr̥cákṣā  
-rā́jā devā́nām utá mártiyānām  
-dvitā́ bhuvad rayipátī rayīṇā́m  
-r̥tám bharat súbhr̥taṃ cā́ru índuḥ  
+पवि꣡त्रेभिः प꣡वमानो नृच꣡क्षा  
+रा꣡जा देवा꣡नाम् उत꣡ म꣡र्तियानाम्  
+द्विता꣡ भुवद् रयिप꣡ती रयीणा꣡म्  
+ऋत꣡म् भरत् सु꣡भृतं चा꣡रु इ꣡न्दुः  

@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-prabhaṅgī́ śū́ro maghávā tuvī́maghaḥ  
-sámmiślo viríyāya kám  
-ubhā́ te bāhū́ vŕ̥ṣaṇā śatakrato  
-ní yā́ vájram mimikṣátuḥ  
+प्रभङ्गी꣡ शू꣡रो मघ꣡वा तुवी꣡मघः  
+स꣡म्मिश्लो विरि꣡याय क꣡म्  
+उभा꣡ ते बाहू꣡ व्ŕ̥षणा शतक्रतो  
+नि꣡ या꣡ व꣡ज्रम् मिमिक्ष꣡तुः  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yáthā ha tyád vasavo gauríyaṃ cit  
-padí ṣitā́m ámuñcatā yajatrāḥ  
-evó ṣú asmán muñcatā ví áṃhaḥ  
-prá tāri agne prataráṃ na ā́yuḥ  
+य꣡था ह त्य꣡द् वसवो गौरि꣡यं चित्  
+पदि꣡ षिता꣡म् अ꣡मुञ्चता यजत्राः  
+एवो꣡ षु꣡ अस्म꣡न् मुञ्चता वि꣡ अं꣡हः  
+प्र꣡ तारि अग्ने प्रतरं꣡ न आ꣡युः  

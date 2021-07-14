@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-dhíyaṃ vo apsú dadhiṣe suvarṣā́ṃ  
-yáyā́taran dáśa māsó návagvāḥ  
-ayā́ dhiyā́ siyāma devágopā  
-ayā́ dhiyā́ tuturyāmā́ti áṃhaḥ  
+धि꣡यं वो अप्सु꣡ दधिषे सुवर्षां꣡  
+य꣡या꣡तरन् द꣡श मासो꣡ न꣡वग्वाः  
+अया꣡ धिया꣡ सियाम देव꣡गोपा  
+अया꣡ धिया꣡ तुतुर्यामा꣡ति अं꣡हः  

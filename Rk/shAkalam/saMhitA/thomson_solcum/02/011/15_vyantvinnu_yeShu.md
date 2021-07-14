@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-vyántu ín nú yéṣu mandasānás  
-tr̥pát sómam pāhi drahyád indra  
-asmā́n sú pŕ̥tsu ā́ tarutra  
-ávardhayo dyā́m br̥hádbhir arkaíḥ  
+व्य꣡न्तु इ꣡न् नु꣡ ये꣡षु मन्दसान꣡स्  
+तृप꣡त् सो꣡मम् पाहि द्रह्य꣡द् इन्द्र  
+अस्मा꣡न् सु꣡ प्ŕ̥त्सु आ꣡ तरुत्र  
+अ꣡वर्धयो द्या꣡म् बृह꣡द्भिर् अर्कइः꣡  

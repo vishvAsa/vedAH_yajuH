@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-gā́yanti tvā gāyatríṇo  
-árcanti arkám arkíṇaḥ  
-brahmā́ṇas tvā śatakrata  
-úd vaṃśám iva yemire  
+गा꣡यन्ति त्वा गायत्रि꣡णो  
+अ꣡र्चन्ति अर्क꣡म् अर्कि꣡णः  
+ब्रह्मा꣡णस् त्वा शतक्रत  
+उ꣡द् वंश꣡म् इव येमिरे  

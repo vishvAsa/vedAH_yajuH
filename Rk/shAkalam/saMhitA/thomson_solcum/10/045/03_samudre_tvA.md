@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-samudré tvā nr̥máṇā apsú antár  
-nr̥cákṣā īdhe divó agna ū́dhan  
-tr̥tī́ye tvā rájasi tasthivā́ṃsam  
-apā́m upásthe mahiṣā́ avardhan  
+समुद्रे꣡ त्वा नृम꣡णा अप्सु꣡ अन्त꣡र्  
+नृच꣡क्षा ईधे दिवो꣡ अग्न ऊ꣡धन्  
+तृती꣡ये त्वा र꣡जसि तस्थिवां꣡सम्  
+अपा꣡म् उप꣡स्थे महिषा꣡ अवर्धन्  

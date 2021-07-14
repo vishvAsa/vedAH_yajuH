@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-báḷ asya nīthā́ ví paṇéś ca manmahe  
-vayā́ asya práhutā āsur áttave  
-yadā́ ghorā́so amr̥tatvám ā́śata  
-ā́d íj jánasya daíviyasya carkiran  
+ब꣡ऌ अस्य नीथा꣡ वि꣡ पणे꣡श् च मन्महे  
+वया꣡ अस्य प्र꣡हुता आसुर् अ꣡त्तवे  
+यदा꣡ घोरा꣡सो अमृतत्व꣡म् आ꣡शत  
+आ꣡द् इ꣡ज् ज꣡नस्य दइ꣡वियस्य चर्किरन्  

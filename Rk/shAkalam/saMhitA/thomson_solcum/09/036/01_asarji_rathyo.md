@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ásarji ráthiyo yathā  
-pavítre camúvoḥ sutáḥ  
-kā́rṣman vājī́ ní akramīt  
+अ꣡सर्जि र꣡थियो यथा  
+पवि꣡त्रे चमु꣡वोः सुतः꣡  
+का꣡र्ष्मन् वाजी꣡ नि꣡ अक्रमीत्  

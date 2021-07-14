@@ -2,7 +2,7 @@
 title = "046"
 
 +++
-índram mitráṃ váruṇam agním āhur  
-átho divyáḥ sá suparṇó garútmān  
-ékaṃ sád víprā bahudhā́ vadanti  
-agníṃ yamám mātaríśvānam āhuḥ  
+इ꣡न्द्रम् मित्रं꣡ व꣡रुणम् अग्नि꣡म् आहुर्  
+अ꣡थो दिव्यः꣡ स꣡ सुपर्णो꣡ गरु꣡त्मान्  
+ए꣡कं स꣡द् वि꣡प्रा बहुधा꣡ वदन्ति  
+अग्निं꣡ यम꣡म् मातरि꣡श्वानम् आहुः  

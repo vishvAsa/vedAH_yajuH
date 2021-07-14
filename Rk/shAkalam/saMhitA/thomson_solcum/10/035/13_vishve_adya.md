@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-víśve adyá marúto víśva ūtī́  
-víśve bhavantu agnáyaḥ sámiddhāḥ  
-víśve no devā́ ávasā́ gamantu  
-víśvam astu dráviṇaṃ vā́jo asmé  
+वि꣡श्वे अद्य꣡ मरु꣡तो वि꣡श्व ऊती꣡  
+वि꣡श्वे भवन्तु अग्न꣡यः स꣡मिद्धाः  
+वि꣡श्वे नो देवा꣡ अ꣡वसा꣡ गमन्तु  
+वि꣡श्वम् अस्तु द्र꣡विणं वा꣡जो अस्मे꣡  

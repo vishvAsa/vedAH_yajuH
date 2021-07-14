@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-índrāgnī śr̥ṇutáṃ hávaṃ  
-yájamānasya sunvatáḥ  
-vītáṃ havyā́ni ā́ gatam  
-píbataṃ somiyám mádhu  
+इ꣡न्द्राग्नी शृणुतं꣡ ह꣡वं  
+य꣡जमानस्य सुन्वतः꣡  
+वीतं꣡ हव्या꣡नि आ꣡ गतम्  
+पि꣡बतं सोमिय꣡म् म꣡धु  

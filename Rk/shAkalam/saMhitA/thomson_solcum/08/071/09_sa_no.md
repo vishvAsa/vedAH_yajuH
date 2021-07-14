@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-sá no vásva úpa māsi  
-ū́rjo napān mā́hinasya  
-sákhe vaso jaritŕ̥bhyaḥ  
+स꣡ नो व꣡स्व उ꣡प मासि  
+ऊ꣡र्जो नपान् मा꣡हिनस्य  
+स꣡खे वसो जरित्ŕ̥भ्यः  

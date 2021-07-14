@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-vā́topadhūta iṣitó váśām̐ ánu  
-tr̥ṣú yád ánnā véviṣad vitíṣṭhase  
-ā́ te yatante rathíyo yáthā pŕ̥thak  
-chárdhāṃsi agne ajárāṇi dhákṣataḥ  
+वा꣡तोपधूत इषितो꣡ व꣡शाँ अ꣡नु  
+तृषु꣡ य꣡द् अ꣡न्ना वे꣡विषद् विति꣡ष्ठसे  
+आ꣡ ते यतन्ते रथि꣡यो य꣡था प्ŕ̥थक्  
+छ꣡र्धांसि अग्ने अज꣡राणि ध꣡क्षतः  

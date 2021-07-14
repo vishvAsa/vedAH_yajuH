@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ní u priyó mánuṣaḥ sādi hótā  
-nā́satyā yó yájate vándate ca  
-aśnītám mádhvo aśvinā upāká  
-ā́ vāṃ voce vidátheṣu práyasvān  
+नि꣡ उ प्रियो꣡ म꣡नुषः सादि हो꣡ता  
+ना꣡सत्या यो꣡ य꣡जते व꣡न्दते च  
+अश्नीत꣡म् म꣡ध्वो अश्विना उपाक꣡  
+आ꣡ वां वोचे विद꣡थेषु प्र꣡यस्वान्  

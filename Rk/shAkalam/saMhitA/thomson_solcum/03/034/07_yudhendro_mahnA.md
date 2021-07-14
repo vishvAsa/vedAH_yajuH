@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yudhéndro mahnā́ várivaś cakāra  
-devébhiyaḥ sátpatiś carṣaṇiprā́ḥ  
-vivásvataḥ sádane asya tā́ni  
-víprā ukthébhiḥ kaváyo gr̥ṇanti  
+युधे꣡न्द्रो मह्ना꣡ व꣡रिवश् चकार  
+देवे꣡भियः स꣡त्पतिश् चर्षणिप्राः꣡  
+विव꣡स्वतः स꣡दने अस्य ता꣡नि  
+वि꣡प्रा उक्थे꣡भिः कव꣡यो गृणन्ति  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-dhūnuthá dyā́m párvatān dāśúṣe vásu  
-ní vo vánā jihate yā́mano bhiyā́  
-kopáyatha pr̥thivī́m pr̥śnimātaraḥ  
-śubhé yád ugrāḥ pŕ̥ṣatīr áyugdhuvam  
+धूनुथ꣡ द्या꣡म् प꣡र्वतान् दाशु꣡षे व꣡सु  
+नि꣡ वो व꣡ना जिहते या꣡मनो भिया꣡  
+कोप꣡यथ पृथिवी꣡म् पृश्निमातरः  
+शुभे꣡ य꣡द् उग्राः प्ŕ̥षतीर् अ꣡युग्धुवम्  

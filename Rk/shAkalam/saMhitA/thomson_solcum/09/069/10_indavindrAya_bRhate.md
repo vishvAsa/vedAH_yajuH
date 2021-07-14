@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-índav índrāya br̥haté pavasva  
-sumr̥̄ḷīkó+ anavadyó riśā́dāḥ  
-bhárā candrā́ṇi gr̥ṇaté vásūni  
-devaír dyāvāpr̥thivī prā́vataṃ naḥ  
+इ꣡न्दव् इ꣡न्द्राय बृहते꣡ पवस्व  
+सुमॄऌईको꣡+ अनवद्यो꣡ रिशा꣡दाः  
+भ꣡रा चन्द्रा꣡णि गृणते꣡ व꣡सूनि  
+देवइ꣡र् द्यावापृथिवी प्रा꣡वतं नः  

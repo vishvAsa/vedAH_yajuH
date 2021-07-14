@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-sá ā́huto ví rocate  
-agnír īḷéniyo girā́  
-srucā́ prátīkam ajyate  
+स꣡ आ꣡हुतो वि꣡ रोचते  
+अग्नि꣡र् ईऌए꣡नियो गिरा꣡  
+स्रुचा꣡ प्र꣡तीकम् अज्यते  

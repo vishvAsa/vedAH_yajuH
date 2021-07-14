@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índra ukthéna śávasā párur dadhe  
-bŕ̥haspate pratarītā́si ā́yuṣaḥ  
-yajñó mánuḥ prámatir naḥ pitā́ hí kam  
-ā́ sarvátātim áditiṃ vr̥ṇīmahe  
+इ꣡न्द्र उक्थे꣡न श꣡वसा प꣡रुर् दधे  
+ब्ŕ̥हस्पते प्रतरीता꣡सि आ꣡युषः  
+यज्ञो꣡ म꣡नुः प्र꣡मतिर् नः पिता꣡ हि꣡ कम्  
+आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे  

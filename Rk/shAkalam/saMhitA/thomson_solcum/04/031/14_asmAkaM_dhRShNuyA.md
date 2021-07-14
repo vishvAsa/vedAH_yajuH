@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-asmā́kaṃ dhr̥ṣṇuyā́ rátho  
-dyumā́m̐ indrā́napacyutaḥ  
-gavyúr aśvayúr īyate  
+अस्मा꣡कं धृष्णुया꣡ र꣡थो  
+द्युमाँ꣡ इन्द्रा꣡नपच्युतः  
+गव्यु꣡र् अश्वयु꣡र् ईयते  

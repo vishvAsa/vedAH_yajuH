@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-evā́ no agne vikṣú ā́ daśasya  
-tuváyā vayáṃ sahasāvan ā́skrāḥ  
-rāyā́ yujā́ sadhamā́do áriṣṭā  
-yūyám pāta suastíbhiḥ sádā naḥ  
+एवा꣡ नो अग्ने विक्षु꣡ आ꣡ दशस्य  
+तुव꣡या वयं꣡ सहसावन् आ꣡स्क्राः  
+राया꣡ युजा꣡ सधमा꣡दो अ꣡रिष्टा  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

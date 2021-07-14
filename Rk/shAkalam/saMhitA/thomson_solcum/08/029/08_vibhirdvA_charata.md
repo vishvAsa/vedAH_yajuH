@@ -2,5 +2,5 @@
 title = "008"
 
 +++
-víbhir duvā́ carata ékayā sahá  
-prá pravāséva vasataḥ  
+वि꣡भिर् दुवा꣡ चरत ए꣡कया सह꣡  
+प्र꣡ प्रवासे꣡व वसतः  

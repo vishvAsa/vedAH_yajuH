@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tigmā́yudhau tigmáhetī suśévau  
-sómārudrāv ihá sú mr̥̄ḷataṃ+ naḥ  
-prá no muñcataṃ váruṇasya pā́śād  
-gopāyátaṃ naḥ sumanasyámānā  
+तिग्मा꣡युधौ तिग्म꣡हेती सुशे꣡वौ  
+सो꣡मारुद्राव् इह꣡ सु꣡ मॄऌअतं+ नः  
+प्र꣡ नो मुञ्चतं व꣡रुणस्य पा꣡शाद्  
+गोपाय꣡तं नः सुमनस्य꣡माना  

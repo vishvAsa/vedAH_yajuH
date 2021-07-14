@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yūyáṃ ha rátnam maghávatsu dhattha  
-suvardŕ̥śa r̥bhukṣaṇo ámr̥ktam  
-sáṃ yajñéṣu svadhāvantaḥ pibadhvaṃ  
-ví no rā́dhāṃsi matíbhir dayadhvam  
+यूयं꣡ ह र꣡त्नम् मघ꣡वत्सु धत्थ  
+सुवर्द्ŕ̥श ऋभुक्षणो अ꣡मृक्तम्  
+सं꣡ यज्ञे꣡षु स्वधावन्तः पिबध्वं  
+वि꣡ नो रा꣡धांसि मति꣡भिर् दयध्वम्  

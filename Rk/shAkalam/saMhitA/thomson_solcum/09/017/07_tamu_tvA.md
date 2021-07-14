@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-tám u tvā vājínaṃ náro  
-dhībhír víprā avasyávaḥ  
-mr̥jánti devátātaye  
+त꣡म् उ त्वा वाजि꣡नं न꣡रो  
+धीभि꣡र् वि꣡प्रा अवस्य꣡वः  
+मृज꣡न्ति देव꣡तातये  

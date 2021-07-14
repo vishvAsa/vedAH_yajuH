@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ápa hata rakṣáso bhaṅgurā́vata  
-skabhāyáta nírr̥tiṃ sédhatā́matim  
-ā́ no rayíṃ sárvavīraṃ sunotana  
-devāvíyam bharata ślókam adrayaḥ  
+अ꣡प हत रक्ष꣡सो भङ्गुरा꣡वत  
+स्कभाय꣡त नि꣡रृतिं से꣡धता꣡मतिम्  
+आ꣡ नो रयिं꣡ स꣡र्ववीरं सुनोतन  
+देवावि꣡यम् भरत श्लो꣡कम् अद्रयः  

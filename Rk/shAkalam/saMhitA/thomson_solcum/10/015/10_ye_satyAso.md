@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yé satyā́so havirádo haviṣpā́  
-índreṇa devaíḥ saráthaṃ dádhānāḥ  
-ā́gne yāhi sahásraṃ devavandaíḥ  
-páraiḥ pū́rvaiḥ pitŕ̥bhir gharmasádbhiḥ  
+ये꣡ सत्या꣡सो हविर꣡दो हविष्पा꣡  
+इ꣡न्द्रेण देवइः꣡ सर꣡थं द꣡धानाः  
+आ꣡ग्ने याहि सह꣡स्रं देववन्दइः꣡  
+प꣡रैः पू꣡र्वैः पित्ŕ̥भिर् घर्मस꣡द्भिः  

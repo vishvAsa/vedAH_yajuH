@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-bhojáṃ tuvā́m indra vayáṃ huvema  
-dadíṣ ṭuvám indra ápāṃsi vā́jān  
-aviḍḍhí indra citráyā na ūtī́  
-kr̥dhí vŕ̥ṣann indara+ vásyaso naḥ  
+भोजं꣡ तुवा꣡म् इन्द्र वयं꣡ हुवेम  
+ददि꣡ष् टुव꣡म् इन्द्र अ꣡पांसि वा꣡जान्  
+अविड्ढि꣡ इन्द्र चित्र꣡या न ऊती꣡  
+कृधि꣡ व्ŕ̥षन्न् इन्दर+ व꣡स्यसो नः  

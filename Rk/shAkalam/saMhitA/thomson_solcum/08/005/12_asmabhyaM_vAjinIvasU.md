@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-asmábhyaṃ vājinīvasū  
-maghávadbhyaś ca sapráthaḥ  
-chardír yantam ádābhiyam  
+अस्म꣡भ्यं वाजिनीवसू  
+मघ꣡वद्भ्यश् च सप्र꣡थः  
+छर्दि꣡र् यन्तम् अ꣡दाभियम्  

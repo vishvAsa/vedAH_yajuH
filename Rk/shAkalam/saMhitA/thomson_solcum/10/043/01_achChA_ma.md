@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-áchā ma índram matáyaḥ suvarvídaḥ  
-sadhrī́cīr víśvā uśatī́r anūṣata  
-pári ṣvajante jánayo yáthā pátim  
-máryaṃ ná śundhyúm maghávānam ūtáye  
+अ꣡छा म इ꣡न्द्रम् मत꣡यः सुवर्वि꣡दः  
+सध्री꣡चीर् वि꣡श्वा उशती꣡र् अनूषत  
+प꣡रि ष्वजन्ते ज꣡नयो य꣡था प꣡तिम्  
+म꣡र्यं न꣡ शुन्ध्यु꣡म् मघ꣡वानम् ऊत꣡ये  

@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-táṃ vedhā́m medháyāhiyan  
-pávamānam ádhi dyávi  
-dharṇasím bhū́ridhāyasam  
+तं꣡ वेधा꣡म् मेध꣡याहियन्  
+प꣡वमानम् अ꣡धि द्य꣡वि  
+धर्णसि꣡म् भू꣡रिधायसम्  

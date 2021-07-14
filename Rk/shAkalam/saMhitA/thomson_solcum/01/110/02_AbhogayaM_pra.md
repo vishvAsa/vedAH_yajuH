@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ābhogáyam prá yád ichánta aítana  
-ápākāḥ prā́ñco máma ké cid āpáyaḥ  
-saúdhanvanāsaś caritásya bhūmánā  
-ágachata savitúr dāśúṣo gr̥hám  
+आभोग꣡यम् प्र꣡ य꣡द् इछ꣡न्त अइ꣡तन  
+अ꣡पाकाः प्रा꣡ञ्चो म꣡म के꣡ चिद् आप꣡यः  
+सउ꣡धन्वनासश् चरित꣡स्य भूम꣡ना  
+अ꣡गछत सवितु꣡र् दाशु꣡षो गृह꣡म्  

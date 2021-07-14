@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yát tvā hótāram anájan miyédhe  
-niṣādáyanto yajáthāya devā́ḥ  
-sá tváṃ no agne avitéhá bodhi  
-ádhi śrávāṃsi dhehi nas tanū́ṣu  
+य꣡त् त्वा हो꣡तारम् अन꣡जन् मिये꣡धे  
+निषाद꣡यन्तो यज꣡थाय देवाः꣡  
+स꣡ त्वं꣡ नो अग्ने अविते꣡ह꣡ बोधि  
+अ꣡धि श्र꣡वांसि धेहि नस् तनू꣡षु  

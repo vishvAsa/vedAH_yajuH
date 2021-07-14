@@ -2,10 +2,10 @@
 title = "009"
 
 +++
-tuvám agne · sáhasā sáhantamaḥ  
-śuṣmíntamo jāyase devátātaye  
-rayír ná devátātaye  
-śuṣmíntamo hí te mádo  
-dyumníntama utá krátuḥ  
-ádha smā te pári caranti ajara  
-śruṣṭīvā́no ná ajara  
+तुव꣡म् अग्ने · स꣡हसा स꣡हन्तमः  
+शुष्मि꣡न्तमो जायसे देव꣡तातये  
+रयि꣡र् न꣡ देव꣡तातये  
+शुष्मि꣡न्तमो हि꣡ ते म꣡दो  
+द्युम्नि꣡न्तम उत꣡ क्र꣡तुः  
+अ꣡ध स्मा ते प꣡रि चरन्ति अजर  
+श्रुष्टीवा꣡नो न꣡ अजर  

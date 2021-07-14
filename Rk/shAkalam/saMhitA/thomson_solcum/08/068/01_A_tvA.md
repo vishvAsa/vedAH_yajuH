@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ tvā ráthaṃ yáthotáye  
-sumnā́ya vartayāmasi  
-tuvikūrmím r̥tīṣáham  
-índra śáviṣṭha sátpate  
+आ꣡ त्वा र꣡थं य꣡थोत꣡ये  
+सुम्ना꣡य वर्तयामसि  
+तुविकूर्मि꣡म् ऋतीष꣡हम्  
+इ꣡न्द्र श꣡विष्ठ स꣡त्पते  

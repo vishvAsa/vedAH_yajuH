@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ vāṃ rátham avamásyāṃ víuṣṭau  
-sumnāyávo vŕ̥ṣaṇo vartayantu  
-syū́magabhastim r̥tayúgbhir áśvair  
-ā́ aśvinā vásumantaṃ vahethām  
+आ꣡ वां र꣡थम् अवम꣡स्यां वि꣡उष्टौ  
+सुम्नाय꣡वो व्ŕ̥षणो वर्तयन्तु  
+स्यू꣡मगभस्तिम् ऋतयु꣡ग्भिर् अ꣡श्वैर्  
+आ꣡ अश्विना व꣡सुमन्तं वहेथाम्  

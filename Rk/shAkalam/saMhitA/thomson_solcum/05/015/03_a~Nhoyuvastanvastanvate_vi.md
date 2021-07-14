@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-aṃhoyúvas tanúvas tanvate ví  
-váyo mahád duṣṭáram pūrviyā́ya  
-sá saṃváto návajātas tuturyāt  
-siṃháṃ ná kruddhám abhítaḥ pári ṣṭhuḥ  
+अंहोयु꣡वस् तनु꣡वस् तन्वते वि꣡  
+व꣡यो मह꣡द् दुष्ट꣡रम् पूर्विया꣡य  
+स꣡ संव꣡तो न꣡वजातस् तुतुर्यात्  
+सिंहं꣡ न꣡ क्रुद्ध꣡म् अभि꣡तः प꣡रि ष्ठुः  

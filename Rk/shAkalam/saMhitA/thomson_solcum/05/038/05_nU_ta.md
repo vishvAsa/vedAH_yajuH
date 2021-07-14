@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-nū́ ta ābhír abhíṣṭibhis  
-táva śármañ chatakrato  
-índra syā́ma sugopã́ḥ  
-śū́ra syā́ma sugopã́ḥ  
+नू꣡ त आभि꣡र् अभि꣡ष्टिभिस्  
+त꣡व श꣡र्मञ् छतक्रतो  
+इ꣡न्द्र स्या꣡म सुगोप्ãः꣡  
+शू꣡र स्या꣡म सुगोप्ãः꣡  

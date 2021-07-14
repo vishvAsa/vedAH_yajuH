@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-utéśiṣe prasavásya tvám éka íd  
-utá pūṣā́ bhavasi deva yā́mabhiḥ  
-utédáṃ víśvam bhúvanaṃ ví rājasi  
-śyāvā́śvas te savita stómam ānaśe  
+उते꣡शिषे प्रसव꣡स्य त्व꣡म् ए꣡क इ꣡द्  
+उत꣡ पूषा꣡ भवसि देव या꣡मभिः  
+उते꣡दं꣡ वि꣡श्वम् भु꣡वनं वि꣡ राजसि  
+श्यावा꣡श्वस् ते सवित स्तो꣡मम् आनशे  

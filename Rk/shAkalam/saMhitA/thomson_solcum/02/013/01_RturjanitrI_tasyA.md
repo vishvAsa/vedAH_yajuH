@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-r̥túr jánitrī tásyā apás pári  
-makṣū́ jātá ā́viśad yā́su várdhate  
-tád āhanā́ abhavat pipyúṣī páyo  
-aṃśóḥ pīyū́ṣam prathamáṃ tád ukthíyam  
+ऋतु꣡र् ज꣡नित्री त꣡स्या अप꣡स् प꣡रि  
+मक्षू꣡ जात꣡ आ꣡विशद् या꣡सु व꣡र्धते  
+त꣡द् आहना꣡ अभवत् पिप्यु꣡षी प꣡यो  
+अंशोः꣡ पीयू꣡षम् प्रथमं꣡ त꣡द् उक्थि꣡यम्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuvám agne śocíṣā śóśucāna  
-ā́ ródasī apr̥ṇā jā́yamānaḥ  
-tuváṃ devā́m̐ abhíśaster amuñco  
-vaíśvānara jātavedo mahitvā́  
+तुव꣡म् अग्ने शोचि꣡षा शो꣡शुचान  
+आ꣡ रो꣡दसी अपृणा जा꣡यमानः  
+तुवं꣡ देवाँ꣡ अभि꣡शस्तेर् अमुञ्चो  
+वइ꣡श्वानर जातवेदो महित्वा꣡  

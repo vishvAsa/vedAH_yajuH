@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-ī́ḷe girā́ mánurhitaṃ  
-yáṃ devā́ dūtám aratíṃ nieriré  
-yájiṣṭhaṃ havyavā́hanam  
+ई꣡ऌए गिरा꣡ म꣡नुर्हितं  
+यं꣡ देवा꣡ दूत꣡म् अरतिं꣡ निएरिरे꣡  
+य꣡जिष्ठं हव्यवा꣡हनम्  

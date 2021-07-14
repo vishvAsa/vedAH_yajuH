@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-áva síndhuṃ váruṇo dyaúr iva sthād  
-drapsó ná śvetó mr̥gás túviṣmān  
-gambhīráśaṃso rájaso vimā́naḥ  
-supārákṣatraḥ sató asyá rā́jā  
+अ꣡व सि꣡न्धुं व꣡रुणो द्यउ꣡र् इव स्थाद्  
+द्रप्सो꣡ न꣡ श्वेतो꣡ मृग꣡स् तु꣡विष्मान्  
+गम्भीर꣡शंसो र꣡जसो विमा꣡नः  
+सुपार꣡क्षत्रः सतो꣡ अस्य꣡ रा꣡जा  

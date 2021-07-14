@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-mahé śulkā́ya váruṇasya nú tviṣá  
-ójo mimāte dhruvám asya yát suvám  
-ájāmim anyáḥ śnatháyantam ā́tirad  
-dabhrébhir anyáḥ prá vr̥ṇoti bhū́yasaḥ  
+महे꣡ शुल्का꣡य व꣡रुणस्य नु꣡ त्विष꣡  
+ओ꣡जो मिमाते ध्रुव꣡म् अस्य य꣡त् सुव꣡म्  
+अ꣡जामिम् अन्यः꣡ श्नथ꣡यन्तम् आ꣡तिरद्  
+दभ्रे꣡भिर् अन्यः꣡ प्र꣡ वृणोति भू꣡यसः  

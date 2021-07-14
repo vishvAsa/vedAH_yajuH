@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-bahvīnā́m pitā́ bahúr asya putráś  
-ciścā́ kr̥ṇoti sámanāvagátya  
-iṣudhíḥ sáṅkāḥ pŕ̥tanāś ca sárvāḥ  
-pr̥ṣṭhé nínaddho jayati prásūtaḥ  
+बह्वीना꣡म् पिता꣡ बहु꣡र् अस्य पुत्र꣡श्  
+चिश्चा꣡ कृणोति स꣡मनावग꣡त्य  
+इषुधिः꣡ स꣡ङ्काः प्ŕ̥तनाश् च स꣡र्वाः  
+पृष्ठे꣡ नि꣡नद्धो जयति प्र꣡सूतः  

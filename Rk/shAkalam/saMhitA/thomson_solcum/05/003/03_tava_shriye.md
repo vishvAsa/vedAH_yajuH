@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-táva śriyé marúto marjayanta  
-rúdra yát te jánima cā́ru citrám  
-padáṃ yád víṣṇor upamáṃ nidhā́yi  
-téna pāsi gúhiyaṃ nā́ma gónām  
+त꣡व श्रिये꣡ मरु꣡तो मर्जयन्त  
+रु꣡द्र य꣡त् ते ज꣡निम चा꣡रु चित्र꣡म्  
+पदं꣡ य꣡द् वि꣡ष्णोर् उपमं꣡ निधा꣡यि  
+ते꣡न पासि गु꣡हियं ना꣡म गो꣡नाम्  

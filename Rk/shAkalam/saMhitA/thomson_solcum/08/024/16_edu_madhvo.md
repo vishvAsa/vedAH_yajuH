@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-éd u mádhvo madíntaraṃ  
-siñcá vādhvaryo ándhasaḥ  
-evā́ hí vīrá stávate sadā́vr̥dhaḥ  
+ए꣡द् उ म꣡ध्वो मदि꣡न्तरं  
+सिञ्च꣡ वाध्वर्यो अ꣡न्धसः  
+एवा꣡ हि꣡ वीर꣡ स्त꣡वते सदा꣡वृधः  

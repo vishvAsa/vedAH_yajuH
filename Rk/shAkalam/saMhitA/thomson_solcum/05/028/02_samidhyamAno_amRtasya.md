@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-samidhyámāno amŕ̥tasya rājasi  
-havíṣ kr̥ṇvántaṃ sacase suastáye  
-víśvaṃ sá dhatte dráviṇaṃ yám ínvasi  
-ātithyám agne ní ca dhatta ít puráḥ  
+समिध्य꣡मानो अम्ŕ̥तस्य राजसि  
+हवि꣡ष् कृण्व꣡न्तं सचसे सुअस्त꣡ये  
+वि꣡श्वं स꣡ धत्ते द्र꣡विणं य꣡म् इ꣡न्वसि  
+आतिथ्य꣡म् अग्ने नि꣡ च धत्त इ꣡त् पुरः꣡  

@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-devā́nāṃ dūtáḥ purudhá prásūto  
-ánāgān no vocatu sarvátātā  
-śr̥ṇótu naḥ pr̥thivī́ dyaúr utā́paḥ  
-sū́ryo nákṣatrair urú antárikṣam  
+देवा꣡नां दूतः꣡ पुरुध꣡ प्र꣡सूतो  
+अ꣡नागान् नो वोचतु सर्व꣡ताता  
+शृणो꣡तु नः पृथिवी꣡ द्यउ꣡र् उता꣡पः  
+सू꣡र्यो न꣡क्षत्रैर् उरु꣡ अन्त꣡रिक्षम्  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ā́ mitré váruṇe vayáṃ  
-gīrbhír juhumo atrivát  
-ní barhíṣi sadataṃ sómapītaye  
+आ꣡ मित्रे꣡ व꣡रुणे वयं꣡  
+गीर्भि꣡र् जुहुमो अत्रिव꣡त्  
+नि꣡ बर्हि꣡षि सदतं सो꣡मपीतये  

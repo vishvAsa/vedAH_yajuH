@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-mahé no adyá bodhaya  
-úṣo rāyé divítmatī  
-yáthā cin no ábodhayaḥ  
-satyáśravasi vāyiyé  
-sújāte áśvasūnr̥te  
+महे꣡ नो अद्य꣡ बोधय  
+उ꣡षो राये꣡ दिवि꣡त्मती  
+य꣡था चिन् नो अ꣡बोधयः  
+सत्य꣡श्रवसि वायिये꣡  
+सु꣡जाते अ꣡श्वसूनृते  

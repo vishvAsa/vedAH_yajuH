@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-téjiṣṭhayā tapanī́ rakṣásas tapa  
-yé tvā nidé dadhiré dr̥ṣṭávīriyam  
-āvís tát kr̥ṣva yád ásat ta ukthíyam  
-bŕ̥haspate ví parirā́po ardaya  
+ते꣡जिष्ठया तपनी꣡ रक्ष꣡सस् तप  
+ये꣡ त्वा निदे꣡ दधिरे꣡ दृष्ट꣡वीरियम्  
+आवि꣡स् त꣡त् कृष्व य꣡द् अ꣡सत् त उक्थि꣡यम्  
+ब्ŕ̥हस्पते वि꣡ परिरा꣡पो अर्दय  

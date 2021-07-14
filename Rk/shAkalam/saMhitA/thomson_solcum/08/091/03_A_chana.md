@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ caná tvā cikitsāmo  
-ádhi caná tvā némasi  
-śánair 'va° śanakaír iva  
-índrāyendo pári srava  
+आ꣡ चन꣡ त्वा चिकित्सामो  
+अ꣡धि चन꣡ त्वा ने꣡मसि  
+श꣡नैर् ऽव° शनकइ꣡र् इव  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

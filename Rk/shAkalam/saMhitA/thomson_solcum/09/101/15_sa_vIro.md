@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-sá vīró dakṣasā́dhano  
-ví yás tastámbha ródasī  
-háriḥ pavítre avyata  
-vedhā́ ná yónim āsádam  
+स꣡ वीरो꣡ दक्षसा꣡धनो  
+वि꣡ य꣡स् तस्त꣡म्भ रो꣡दसी  
+ह꣡रिः पवि꣡त्रे अव्यत  
+वेधा꣡ न꣡ यो꣡निम् आस꣡दम्  

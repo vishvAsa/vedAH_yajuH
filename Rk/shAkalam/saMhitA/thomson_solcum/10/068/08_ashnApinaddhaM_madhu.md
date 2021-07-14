@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-áśnā́pinaddham mádhu páry apaśyan  
-mátsyaṃ ná dīná udáni kṣiyántam  
-níṣ ṭáj jabhāra camasáṃ ná vr̥kṣā́d  
-bŕ̥haspátir viravéṇā vikŕ̥tya  
+अ꣡श्ना꣡पिनद्धम् म꣡धु प꣡र्य् अपश्यन्  
+म꣡त्स्यं न꣡ दीन꣡ उद꣡नि क्षिय꣡न्तम्  
+नि꣡ष् ट꣡ज् जभार चमसं꣡ न꣡ वृक्षा꣡द्  
+ब्ŕ̥हस्प꣡तिर् विरवे꣡णा विक्ŕ̥त्य  

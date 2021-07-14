@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-átāriṣma támasas pārám asyá  
-práti stómaṃ devayánto dádhānāḥ  
-purudáṃsā purutámā purājā́  
-ámartiyā havate aśvínā gī́ḥ  
+अ꣡तारिष्म त꣡मसस् पार꣡म् अस्य꣡  
+प्र꣡ति स्तो꣡मं देवय꣡न्तो द꣡धानाः  
+पुरुदं꣡सा पुरुत꣡मा पुराजा꣡  
+अ꣡मर्तिया हवते अश्वि꣡ना गीः꣡  

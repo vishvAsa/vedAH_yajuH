@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yá imé ródasī mahī́  
-sám mātáreva dóhate  
-mádeṣu sarvadhā́ asi  
+य꣡ इमे꣡ रो꣡दसी मही꣡  
+स꣡म् मात꣡रेव दो꣡हते  
+म꣡देषु सर्वधा꣡ असि  

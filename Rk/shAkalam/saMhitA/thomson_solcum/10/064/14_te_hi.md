@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-té hí dyā́vāpr̥thivī́ mātárā mahī́  
-devī́ devā́ñ jánmanā yajñíye itáḥ  
-ubhé bibhr̥ta ubháyam bhárīmabhiḥ  
-purū́ rétāṃsi pitŕ̥bhiś ca siñcataḥ  
+ते꣡ हि꣡ द्या꣡वापृथिवी꣡ मात꣡रा मही꣡  
+देवी꣡ देवा꣡ञ् ज꣡न्मना यज्ञि꣡ये इतः꣡  
+उभे꣡ बिभृत उभ꣡यम् भ꣡रीमभिः  
+पुरू꣡ रे꣡तांसि पित्ŕ̥भिश् च सिञ्चतः  

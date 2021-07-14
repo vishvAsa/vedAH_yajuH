@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-diváś cid ā́ te rucayanta rokā́  
-uṣó vibhātī́r ánu bhāsi pūrvī́ḥ  
-apó yád agna uśádhag váneṣu  
-hótur mandrásya panáyanta devā́ḥ  
+दिव꣡श् चिद् आ꣡ ते रुचयन्त रोका꣡  
+उषो꣡ विभाती꣡र् अ꣡नु भासि पूर्वीः꣡  
+अपो꣡ य꣡द् अग्न उश꣡धग् व꣡नेषु  
+हो꣡तुर् मन्द्र꣡स्य पन꣡यन्त देवाः꣡  

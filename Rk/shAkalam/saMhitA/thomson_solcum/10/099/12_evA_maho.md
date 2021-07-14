@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-evā́ mahó asura vakṣáthāya  
-vamrakáḥ paḍbhír úpa sarpad índram  
-sá iyānáḥ karati svastím asmā  
-íṣam ū́rjaṃ sukṣitíṃ víśvam ā́bhāḥ  
+एवा꣡ महो꣡ असुर वक्ष꣡थाय  
+वम्रकः꣡ पड्भि꣡र् उ꣡प सर्पद् इ꣡न्द्रम्  
+स꣡ इयानः꣡ करति स्वस्ति꣡म् अस्मा  
+इ꣡षम् ऊ꣡र्जं सुक्षितिं꣡ वि꣡श्वम् आ꣡भाः  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-nū́ cit sá bhreṣate jáno ná reṣan  
-máno yó asya ghorám āvívāsāt  
-yajñaír yá índre dádhate dúvāṃsi  
-kṣáyat sá rāyá r̥tapā́ r̥tejā́ḥ  
+नू꣡ चित् स꣡ भ्रेषते ज꣡नो न꣡ रेषन्  
+म꣡नो यो꣡ अस्य घोर꣡म् आवि꣡वासात्  
+यज्ञइ꣡र् य꣡ इ꣡न्द्रे द꣡धते दु꣡वांसि  
+क्ष꣡यत् स꣡ राय꣡ ऋतपा꣡ ऋतेजाः꣡  

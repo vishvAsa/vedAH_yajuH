@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-híraṇyastūpaḥ savitar yáthā tvā  
-āṅgirasó juhuvé vā́je asmín  
-evā́ tvā́rcann ávase vándamānaḥ  
-sómasyevāṃśúm práti jāgarāhám  
+हि꣡रण्यस्तूपः सवितर् य꣡था त्वा  
+आङ्गिरसो꣡ जुहुवे꣡ वा꣡जे अस्मि꣡न्  
+एवा꣡ त्वा꣡र्चन्न् अ꣡वसे व꣡न्दमानः  
+सो꣡मस्येवांशु꣡म् प्र꣡ति जागराह꣡म्  

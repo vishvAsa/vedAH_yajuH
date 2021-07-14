@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mandráṃ hótāram uśíjo námobhiḥ  
-prā́ñcaṃ yajñáṃ netā́ram adhvarā́ṇām  
-viśā́m akr̥ṇvann aratím pavākáṃ+  
-havyavā́haṃ dádhato mā́nuṣeṣu  
+मन्द्रं꣡ हो꣡तारम् उशि꣡जो न꣡मोभिः  
+प्रा꣡ञ्चं यज्ञं꣡ नेता꣡रम् अध्वरा꣡णाम्  
+विशा꣡म् अकृण्वन्न् अरति꣡म् पवाकं꣡+  
+हव्यवा꣡हं द꣡धतो मा꣡नुषेषु  

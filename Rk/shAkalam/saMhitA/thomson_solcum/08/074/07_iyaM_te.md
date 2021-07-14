@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-iyáṃ te návyasī matír  
-ágne ádhāyi asmád ā́  
-mándra sújāta súkrato  
-ámūra dásma átithe  
+इयं꣡ ते न꣡व्यसी मति꣡र्  
+अ꣡ग्ने अ꣡धायि अस्म꣡द् आ꣡  
+म꣡न्द्र सु꣡जात सु꣡क्रतो  
+अ꣡मूर द꣡स्म अ꣡तिथे  

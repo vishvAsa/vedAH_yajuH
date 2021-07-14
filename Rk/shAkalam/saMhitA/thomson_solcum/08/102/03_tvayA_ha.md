@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tváyā ha svid yujā́ vayáṃ  
-códiṣṭhena yaviṣṭhiya  
-abhí ṣmo vā́jasātaye  
+त्व꣡या ह स्विद् युजा꣡ वयं꣡  
+चो꣡दिष्ठेन यविष्ठिय  
+अभि꣡ ष्मो वा꣡जसातये  

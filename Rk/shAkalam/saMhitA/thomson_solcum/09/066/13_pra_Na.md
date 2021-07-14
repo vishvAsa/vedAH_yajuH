@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-prá ṇa indo mahé ráṇa  
-ā́po arṣanti síndhavaḥ  
-yád góbhir vāsayiṣyáse  
+प्र꣡ ण इन्दो महे꣡ र꣡ण  
+आ꣡पो अर्षन्ति सि꣡न्धवः  
+य꣡द् गो꣡भिर् वासयिष्य꣡से  

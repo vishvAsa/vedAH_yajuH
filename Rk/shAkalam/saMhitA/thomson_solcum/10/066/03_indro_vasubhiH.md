@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-índro vásubhiḥ pári pātu no gáyam  
-ādityaír no áditiḥ śárma yachatu  
-rudró rudrébhir devó mr̥̄ḷayāti+ nas  
-tváṣṭā no gnā́bhiḥ suvitā́ya jinvatu  
+इ꣡न्द्रो व꣡सुभिः प꣡रि पातु नो ग꣡यम्  
+आदित्यइ꣡र् नो अ꣡दितिः श꣡र्म यछतु  
+रुद्रो꣡ रुद्रे꣡भिर् देवो꣡ मॄऌअयाति+ नस्  
+त्व꣡ष्टा नो ग्ना꣡भिः सुविता꣡य जिन्वतु  

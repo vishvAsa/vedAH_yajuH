@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-nárāśáṃsam ihá priyám  
-asmín yajñá úpa hvaye  
-mádhujihvaṃ haviṣkŕ̥tam  
+न꣡राशं꣡सम् इह꣡ प्रिय꣡म्  
+अस्मि꣡न् यज्ञ꣡ उ꣡प ह्वये  
+म꣡धुजिह्वं हविष्क्ŕ̥तम्  

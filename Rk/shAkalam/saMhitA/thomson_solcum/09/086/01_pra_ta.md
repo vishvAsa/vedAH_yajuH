@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá ta āśávaḥ pavamāna dhījávo  
-mádā arṣanti raghujā́ iva tmánā  
-divyā́ḥ suparṇā́ mádhumanta índavo  
-madíntamāsaḥ pári kóśam āsate  
+प्र꣡ त आश꣡वः पवमान धीज꣡वो  
+म꣡दा अर्षन्ति रघुजा꣡ इव त्म꣡ना  
+दिव्याः꣡ सुपर्णा꣡ म꣡धुमन्त इ꣡न्दवो  
+मदि꣡न्तमासः प꣡रि को꣡शम् आसते  

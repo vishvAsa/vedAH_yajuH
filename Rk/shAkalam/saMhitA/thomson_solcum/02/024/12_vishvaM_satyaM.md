@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-víśvaṃ satyám maghavānā yuvór íd  
-ā́paś caná prá minanti vratáṃ vām  
-áchendrābrahmaṇaspatī havír no  
-ánnaṃ yújeva vājínā jigātam  
+वि꣡श्वं सत्य꣡म् मघवाना युवो꣡र् इ꣡द्  
+आ꣡पश् चन꣡ प्र꣡ मिनन्ति व्रतं꣡ वाम्  
+अ꣡छेन्द्राब्रह्मणस्पती हवि꣡र् नो  
+अ꣡न्नं यु꣡जेव वाजि꣡ना जिगातम्  

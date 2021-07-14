@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-r̥tā́varī divó arkaír abodhi  
-ā́ revátī ródasī citrám asthāt  
-āyatī́m agna uṣásaṃ vibhātī́ṃ  
-vāmám eṣi dráviṇam bhíkṣamāṇaḥ  
+ऋता꣡वरी दिवो꣡ अर्कइ꣡र् अबोधि  
+आ꣡ रेव꣡ती रो꣡दसी चित्र꣡म् अस्थात्  
+आयती꣡म् अग्न उष꣡सं विभातीं꣡  
+वाम꣡म् एषि द्र꣡विणम् भि꣡क्षमाणः  

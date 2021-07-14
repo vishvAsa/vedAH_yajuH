@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-sutā́ índrāya vāyáve  
-sómāso dádhiāśiraḥ  
-nimnáṃ ná yanti síndhavo abhí práyaḥ  
+सुता꣡ इ꣡न्द्राय वाय꣡वे  
+सो꣡मासो द꣡धिआशिरः  
+निम्नं꣡ न꣡ यन्ति सि꣡न्धवो अभि꣡ प्र꣡यः  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-áramayaḥ sárapasas tárāya káṃ  
-turvī́taye ca vayíyāya ca srutím  
-nīcā́ sántam úd anayaḥ parāvŕ̥jam  
-prā́ndháṃ śroṇáṃ śraváyan sā́si ukthíyaḥ  
+अ꣡रमयः स꣡रपसस् त꣡राय कं꣡  
+तुर्वी꣡तये च वयि꣡याय च स्रुति꣡म्  
+नीचा꣡ स꣡न्तम् उ꣡द् अनयः पराव्ŕ̥जम्  
+प्रा꣡न्धं꣡ श्रोणं꣡ श्रव꣡यन् सा꣡सि उक्थि꣡यः  

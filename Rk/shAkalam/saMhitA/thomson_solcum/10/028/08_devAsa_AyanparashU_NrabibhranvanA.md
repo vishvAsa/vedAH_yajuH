@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-devā́sa āyan paraśū́m̐r abibhran  
-vánā vr̥ścánto abhí viḍbhír āyan  
-ní sudrúvaṃ dádhato vakṣáṇāsu  
-yátrā kŕ̥pīṭam ánu tád dahanti  
+देवा꣡स आयन् परशूँ꣡र् अबिभ्रन्  
+व꣡ना वृश्च꣡न्तो अभि꣡ विड्भि꣡र् आयन्  
+नि꣡ सुद्रु꣡वं द꣡धतो वक्ष꣡णासु  
+य꣡त्रा क्ŕ̥पीटम् अ꣡नु त꣡द् दहन्ति  

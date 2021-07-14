@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-táṃ te mádaṃ gr̥ṇīmasi  
-vŕ̥ṣaṇam pr̥tsú sāsahím  
-ulokakr̥tnúm† adrivo hariśríyam  
+तं꣡ ते म꣡दं गृणीमसि  
+व्ŕ̥षणम् पृत्सु꣡ सासहि꣡म्  
+उलोककृत्नु꣡म्† अद्रिवो हरिश्रि꣡यम्  

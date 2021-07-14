@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́ te suastím īmaha  
-āréaghām úpāvasum  
-adyā́ ca sarvátātaye  
-śuváś ca sarvátātaye  
+आ꣡ ते सुअस्ति꣡म् ईमह  
+आरे꣡अघाम् उ꣡पावसुम्  
+अद्या꣡ च सर्व꣡तातये  
+शुव꣡श् च सर्व꣡तातये  

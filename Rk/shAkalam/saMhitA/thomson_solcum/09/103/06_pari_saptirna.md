@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-pári sáptir ná vājayúr  
-devó devébhiyaḥ sutáḥ  
-viānaśíḥ pávamāno ví dhāvati  
+प꣡रि स꣡प्तिर् न꣡ वाजयु꣡र्  
+देवो꣡ देवे꣡भियः सुतः꣡  
+विआनशिः꣡ प꣡वमानो वि꣡ धावति  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá sótā jīró adhvaréṣu asthāt  
-sómam índrāya vāyáve píbadhyai  
-prá yád vām mádhvo agriyám bháranti  
-adhvaryávo devayántaḥ śácībhiḥ  
+प्र꣡ सो꣡ता जीरो꣡ अध्वरे꣡षु अस्थात्  
+सो꣡मम् इ꣡न्द्राय वाय꣡वे पि꣡बध्यै  
+प्र꣡ य꣡द् वाम् म꣡ध्वो अग्रिय꣡म् भ꣡रन्ति  
+अध्वर्य꣡वो देवय꣡न्तः श꣡चीभिः  

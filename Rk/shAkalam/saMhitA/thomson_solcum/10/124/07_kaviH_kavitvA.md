@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-kavíḥ kavitvā́ diví rūpám ā́sajad  
-áprabhūtī váruṇo nír apáḥ sr̥jat  
-kṣémaṃ kr̥ṇvānā́ jánayo ná síndhavas  
-tā́ asya várṇaṃ śúcayo bharibhrati  
+कविः꣡ कवित्वा꣡ दिवि꣡ रूप꣡म् आ꣡सजद्  
+अ꣡प्रभूती व꣡रुणो नि꣡र् अपः꣡ सृजत्  
+क्षे꣡मं कृण्वाना꣡ ज꣡नयो न꣡ सि꣡न्धवस्  
+ता꣡ अस्य व꣡र्णं शु꣡चयो भरिभ्रति  

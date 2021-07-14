@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índrajyeṣṭhān br̥hádbhyaḥ párvatebhiyaḥ  
-kṣáyām̐ ebhyaḥ suvasi pastíyāvataḥ  
-yáthā-yathā patáyanto viyemirá  
-evaívá tasthuḥ savitaḥ savā́ya te  
+इ꣡न्द्रज्येष्ठान् बृह꣡द्भ्यः प꣡र्वतेभियः  
+क्ष꣡याँ एभ्यः सुवसि पस्ति꣡यावतः  
+य꣡था-यथा पत꣡यन्तो वियेमिर꣡  
+एवइ꣡व꣡ तस्थुः सवितः सवा꣡य ते  

@@ -2,5 +2,5 @@
 title = "005"
 
 +++
-śukráḥ pavasva devébhyaḥ soma  
-divé pr̥thivyaí śáṃ ca prajā́yai  
+शुक्रः꣡ पवस्व देवे꣡भ्यः सोम  
+दिवे꣡ पृथिव्यइ꣡ शं꣡ च प्रजा꣡यै  

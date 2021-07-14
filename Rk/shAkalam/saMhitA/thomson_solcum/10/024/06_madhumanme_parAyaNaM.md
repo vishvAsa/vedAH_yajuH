@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-mádhuman me parā́yaṇam  
-mádhumat púnar ā́yanam  
-tā́ no devā devátayā  
-yuvám mádhumatas kr̥tam  
+म꣡धुमन् मे परा꣡यणम्  
+म꣡धुमत् पु꣡नर् आ꣡यनम्  
+ता꣡ नो देवा देव꣡तया  
+युव꣡म् म꣡धुमतस् कृतम्  

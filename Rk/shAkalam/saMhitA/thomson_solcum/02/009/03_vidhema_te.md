@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-vidhéma te paramé jánman agne  
-vidhéma stómair ávare sadhásthe  
-yásmād yóner udā́rithā yáje tám  
-prá tvé havī́ṃṣi juhure sámiddhe  
+विधे꣡म ते परमे꣡ ज꣡न्मन् अग्ने  
+विधे꣡म स्तो꣡मैर् अ꣡वरे सध꣡स्थे  
+य꣡स्माद् यो꣡नेर् उदा꣡रिथा य꣡जे त꣡म्  
+प्र꣡ त्वे꣡ हवीं꣡षि जुहुरे स꣡मिद्धे  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-br̥hád váyo hí bhānáve  
-árcā devā́ya agnáye  
-yám mitráṃ ná práśastibhir  
-mártāso dadhiré puráḥ  
+बृह꣡द् व꣡यो हि꣡ भान꣡वे  
+अ꣡र्चा देवा꣡य अग्न꣡ये  
+य꣡म् मित्रं꣡ न꣡ प्र꣡शस्तिभिर्  
+म꣡र्तासो दधिरे꣡ पुरः꣡  

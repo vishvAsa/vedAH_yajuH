@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-véṣi hí adhvarīyatā́m  
-ágne hótā dáme viśā́m  
-samŕ̥dho viśpate kr̥ṇu  
-juṣásva havyám aṅgiraḥ  
+वे꣡षि हि꣡ अध्वरीयता꣡म्  
+अ꣡ग्ने हो꣡ता द꣡मे विशा꣡म्  
+सम्ŕ̥धो विश्पते कृणु  
+जुष꣡स्व हव्य꣡म् अङ्गिरः  

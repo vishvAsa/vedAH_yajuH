@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-mā́ no mardhīr ā́ bharā daddhí tán naḥ  
-prá dāśúṣe dā́tave bhū́ri yát te  
-návye deṣṇé śasté asmín ta ukthé  
-prá bravāma vayám indra stuvántaḥ  
+मा꣡ नो मर्धीर् आ꣡ भरा दद्धि꣡ त꣡न् नः  
+प्र꣡ दाशु꣡षे दा꣡तवे भू꣡रि य꣡त् ते  
+न꣡व्ये देष्णे꣡ शस्ते꣡ अस्मि꣡न् त उक्थे꣡  
+प्र꣡ ब्रवाम वय꣡म् इन्द्र स्तुव꣡न्तः  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-vayám indra tuvāyávo  
-havíṣmanto jarāmahe  
-utá tvám asmayúr vaso  
+वय꣡म् इन्द्र तुवाय꣡वो  
+हवि꣡ष्मन्तो जरामहे  
+उत꣡ त्व꣡म् अस्मयु꣡र् वसो  

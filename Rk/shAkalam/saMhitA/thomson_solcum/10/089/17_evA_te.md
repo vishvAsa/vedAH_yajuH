@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-evā́ te vayám indra bhuñjatīnā́ṃ  
-vidyā́ma · sumatīnā́ṃ návānām  
-vidyā́ma vástor ávasā gr̥ṇánto  
-viśvā́mitrā utá ta indra nūnám  
+एवा꣡ ते वय꣡म् इन्द्र भुञ्जतीनां꣡  
+विद्या꣡म · सुमतीनां꣡ न꣡वानाम्  
+विद्या꣡म व꣡स्तोर् अ꣡वसा गृण꣡न्तो  
+विश्वा꣡मित्रा उत꣡ त इन्द्र नून꣡म्  

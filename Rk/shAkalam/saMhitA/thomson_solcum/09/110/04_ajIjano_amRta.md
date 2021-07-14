@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ájījano amr̥ta mártiyeṣu ā́m̐  
-r̥tásya dhármann amŕ̥tasya cā́ruṇaḥ  
-sádāsaro vā́jam áchā sániṣyadat  
+अ꣡जीजनो अमृत म꣡र्तियेषु आँ꣡  
+ऋत꣡स्य ध꣡र्मन्न् अम्ŕ̥तस्य चा꣡रुणः  
+स꣡दासरो वा꣡जम् अ꣡छा स꣡निष्यदत्  

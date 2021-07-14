@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-ánu tritásya yúdhyataḥ  
-śúṣmam āvann utá krátum  
-ánv índraṃ vr̥tratū́riye  
+अ꣡नु त्रित꣡स्य यु꣡ध्यतः  
+शु꣡ष्मम् आवन्न् उत꣡ क्र꣡तुम्  
+अ꣡न्व् इ꣡न्द्रं वृत्रतू꣡रिये  

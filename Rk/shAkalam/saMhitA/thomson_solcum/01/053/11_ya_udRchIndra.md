@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yá udŕ̥ci indara+ devágopāḥ  
-sákhāyas te śivátamā ásāma  
-tuvā́ṃ stoṣāma tuváyā suvī́rā  
-drā́ghīya ā́yuḥ prataráṃ dádhānāḥ  
+य꣡ उद्ŕ̥चि इन्दर+ देव꣡गोपाः  
+स꣡खायस् ते शिव꣡तमा अ꣡साम  
+तुवां꣡ स्तोषाम तुव꣡या सुवी꣡रा  
+द्रा꣡घीय आ꣡युः प्रतरं꣡ द꣡धानाः  

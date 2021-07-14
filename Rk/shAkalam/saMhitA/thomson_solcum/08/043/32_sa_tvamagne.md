@@ -2,6 +2,6 @@
 title = "032"
 
 +++
-sá tvám agne vibhā́vasuḥ  
-sr̥ján sū́ryo ná raśmíbhiḥ  
-śárdhan támāṃsi jighnase  
+स꣡ त्व꣡म् अग्ने विभा꣡वसुः  
+सृज꣡न् सू꣡र्यो न꣡ रश्मि꣡भिः  
+श꣡र्धन् त꣡मांसि जिघ्नसे  

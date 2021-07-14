@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-tád adyā́ cit ta ukthíno  
-ánu ṣṭuvanti pūrváthā  
-vŕ̥ṣapatnīr apó jayā divé-dive  
+त꣡द् अद्या꣡ चित् त उक्थि꣡नो  
+अ꣡नु ष्टुवन्ति पूर्व꣡था  
+व्ŕ̥षपत्नीर् अपो꣡ जया दिवे꣡-दिवे  

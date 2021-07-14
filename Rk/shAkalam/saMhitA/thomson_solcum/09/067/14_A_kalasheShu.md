@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-ā́ kaláśeṣu dhāvati  
-śyenó várma ví gāhate  
-abhí dróṇā kánikradat  
+आ꣡ कल꣡शेषु धावति  
+श्येनो꣡ व꣡र्म वि꣡ गाहते  
+अभि꣡ द्रो꣡णा क꣡निक्रदत्  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-samídhāgníṃ duvasyata  
-ghr̥taír bodhayatā́tithim  
-ā́smin havyā́ juhotana  
+समि꣡धाग्निं꣡ दुवस्यत  
+घृतइ꣡र् बोधयता꣡तिथिम्  
+आ꣡स्मिन् हव्या꣡ जुहोतन  

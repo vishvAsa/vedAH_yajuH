@@ -2,10 +2,10 @@
 title = "004"
 
 +++
-asyā́ ū ṣú ṇa úpa sātáye bhuvo  
-áheḷamāno rarivā́m̐ ajāśuva  
-śravasyatā́m ajāśuva  
-ó ṣú tvā vavr̥tīmahi  
-stómebhir dasma sādhúbhiḥ  
-nahí tvā pūṣann atimánya āghr̥ṇe  
-ná te sakhyám apahnuvé  
+अस्या꣡ ऊ षु꣡ ण उ꣡प सात꣡ये भुवो  
+अ꣡हेऌअमानो ररिवाँ꣡ अजाशुव  
+श्रवस्यता꣡म् अजाशुव  
+ओ꣡ षु꣡ त्वा ववृतीमहि  
+स्तो꣡मेभिर् दस्म साधु꣡भिः  
+नहि꣡ त्वा पूषन्न् अतिम꣡न्य आघृणे  
+न꣡ ते सख्य꣡म् अपह्नुवे꣡  

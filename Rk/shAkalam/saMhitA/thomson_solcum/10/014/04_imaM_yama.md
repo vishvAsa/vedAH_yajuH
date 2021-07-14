@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-imáṃ yama prastarám ā́ hí sī́da  
-áṅgirobhiḥ pitŕ̥bhiḥ saṃvidānáḥ  
-ā́ tvā mántrāḥ kaviśastā́ vahantu  
-enā́ rājan havíṣā mādayasva  
+इमं꣡ यम प्रस्तर꣡म् आ꣡ हि꣡ सी꣡द  
+अ꣡ङ्गिरोभिः पित्ŕ̥भिः संविदानः꣡  
+आ꣡ त्वा म꣡न्त्राः कविशस्ता꣡ वहन्तु  
+एना꣡ राजन् हवि꣡षा मादयस्व  

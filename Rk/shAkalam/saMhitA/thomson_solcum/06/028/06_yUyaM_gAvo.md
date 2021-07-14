@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yūyáṃ gāvo medayathā kr̥śáṃ cid  
-aśrīráṃ cit kr̥ṇuthā suprátīkam  
-bhadráṃ gr̥háṃ kr̥ṇutha bhadravāco  
-br̥hád vo váya ucyate sabhā́su  
+यूयं꣡ गावो मेदयथा कृशं꣡ चिद्  
+अश्रीरं꣡ चित् कृणुथा सुप्र꣡तीकम्  
+भद्रं꣡ गृहं꣡ कृणुथ भद्रवाचो  
+बृह꣡द् वो व꣡य उच्यते सभा꣡सु  

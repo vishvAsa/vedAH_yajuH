@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-kuvín no agnír ucáthasya vī́r ásad  
-vásuṣ kuvíd vásubhiḥ kā́mam āvárat  
-codáḥ kuvít tutujyā́t sātáye dhíyaḥ  
-śúcipratīkaṃ tám ayā́ dhiyā́ gr̥ṇe  
+कुवि꣡न् नो अग्नि꣡र् उच꣡थस्य वी꣡र् अ꣡सद्  
+व꣡सुष् कुवि꣡द् व꣡सुभिः का꣡मम् आव꣡रत्  
+चोदः꣡ कुवि꣡त् तुतुज्या꣡त् सात꣡ये धि꣡यः  
+शु꣡चिप्रतीकं त꣡म् अया꣡ धिया꣡ गृणे  

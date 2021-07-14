@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ástoḍhuvaṃ stomiyā bráhmaṇā me  
-ávīvr̥dhadhvam uśatī́r uṣāsaḥ  
-yuṣmā́kaṃ devīr ávasā sanema  
-sahasríṇaṃ ca śatínaṃ ca vā́jam  
+अ꣡स्तोढुवं स्तोमिया ब्र꣡ह्मणा मे  
+अ꣡वीवृधध्वम् उशती꣡र् उषासः  
+युष्मा꣡कं देवीर् अ꣡वसा सनेम  
+सहस्रि꣡णं च शति꣡नं च वा꣡जम्  

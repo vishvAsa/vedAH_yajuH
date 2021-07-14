@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-evā́ tám āhur utá śr̥ṇva índra  
-éko vibhaktā́ taráṇir maghā́nām  
-mithastúra ūtáyo yásya pūrvī́r  
-asmé bhadrā́ṇi saścata priyā́ṇi  
+एवा꣡ त꣡म् आहुर् उत꣡ शृण्व इ꣡न्द्र  
+ए꣡को विभक्ता꣡ तर꣡णिर् मघा꣡नाम्  
+मिथस्तु꣡र ऊत꣡यो य꣡स्य पूर्वी꣡र्  
+अस्मे꣡ भद्रा꣡णि सश्चत प्रिया꣡णि  

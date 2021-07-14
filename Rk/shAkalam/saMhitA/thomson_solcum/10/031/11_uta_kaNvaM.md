@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-utá káṇvaṃ nr̥ṣádaḥ putrám āhur  
-utá śyāvó dhánam ā́datta vājī́  
-prá kr̥ṣṇā́ya rúśad apinvatódhar  
-r̥tám átra nákir asmā apīpet  
+उत꣡ क꣡ण्वं नृष꣡दः पुत्र꣡म् आहुर्  
+उत꣡ श्यावो꣡ ध꣡नम् आ꣡दत्त वाजी꣡  
+प्र꣡ कृष्णा꣡य रु꣡शद् अपिन्वतो꣡धर्  
+ऋत꣡म् अ꣡त्र न꣡किर् अस्मा अपीपेत्  

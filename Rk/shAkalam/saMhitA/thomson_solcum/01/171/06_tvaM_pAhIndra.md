@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvám pāhi indra sáhīyaso nr̥̄́n  
-bhávā marúdbhir ávayātaheḷāḥ  
-supraketébhiḥ sāsahír dádhāno  
-vidyā́meṣáṃ vr̥jánaṃ jīrádānum  
+तुव꣡म् पाहि इन्द्र स꣡हीयसो नॄ꣡न्  
+भ꣡वा मरु꣡द्भिर् अ꣡वयातहेऌआः  
+सुप्रकेते꣡भिः सासहि꣡र् द꣡धानो  
+विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्  

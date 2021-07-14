@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-índraṃ vo viśvátas pári  
-hávāmahe jánebhiyaḥ  
-asmā́kam astu kévalaḥ  
+इ꣡न्द्रं वो विश्व꣡तस् प꣡रि  
+ह꣡वामहे ज꣡नेभियः  
+अस्मा꣡कम् अस्तु के꣡वलः  

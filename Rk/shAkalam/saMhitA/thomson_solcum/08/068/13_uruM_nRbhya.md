@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-urúṃ nŕ̥bhya urúṃ gáva  
-urúṃ ráthāya pánthãm  
-devávītim manāmahe  
+उरुं꣡ न्ŕ̥भ्य उरुं꣡ ग꣡व  
+उरुं꣡ र꣡थाय प꣡न्थ्ãम्  
+देव꣡वीतिम् मनामहे  

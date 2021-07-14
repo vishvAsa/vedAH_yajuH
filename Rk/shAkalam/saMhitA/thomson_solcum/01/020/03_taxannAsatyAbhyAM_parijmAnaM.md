@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tákṣan nā́satiyābhiyām  
-párijmānaṃ sukháṃ rátham  
-tákṣan dhenúṃ sabardúghām  
+त꣡क्षन् ना꣡सतियाभियाम्  
+प꣡रिज्मानं सुखं꣡ र꣡थम्  
+त꣡क्षन् धेनुं꣡ सबर्दु꣡घाम्  

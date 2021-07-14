@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-ā́ vāṃ ráthaṃ duhitā́ sū́riyasya  
-kā́rṣmevātiṣṭhad árvatā jáyantī  
-víśve devā́ ánv amanyanta hr̥dbhíḥ  
-sám u śriyā́ nāsatiyā sacethe  
+आ꣡ वां र꣡थं दुहिता꣡ सू꣡रियस्य  
+का꣡र्ष्मेवातिष्ठद् अ꣡र्वता ज꣡यन्ती  
+वि꣡श्वे देवा꣡ अ꣡न्व् अमन्यन्त हृद्भिः꣡  
+स꣡म् उ श्रिया꣡ नासतिया सचेथे  

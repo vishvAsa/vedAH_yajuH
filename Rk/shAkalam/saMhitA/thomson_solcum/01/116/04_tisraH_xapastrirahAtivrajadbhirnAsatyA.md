@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tisráḥ kṣápas trír áhātivrájadbhir  
-nā́satyā bhujyúm ūhathuḥ pataṃgaíḥ  
-samudrásya dhánvan ārdrásya pāré  
-tribhī́ ráthaiḥ śatápadbhiḥ ṣáḷaśvaiḥ  
+तिस्रः꣡ क्ष꣡पस् त्रि꣡र् अ꣡हातिव्र꣡जद्भिर्  
+ना꣡सत्या भुज्यु꣡म् ऊहथुः पतंगइः꣡  
+समुद्र꣡स्य ध꣡न्वन् आर्द्र꣡स्य पारे꣡  
+त्रिभी꣡ र꣡थैः शत꣡पद्भिः ष꣡ऌअश्वैः  

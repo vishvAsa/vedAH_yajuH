@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-imā́m me maruto gíram  
-imáṃ stómam r̥bhukṣaṇaḥ  
-imám me vanatā hávam  
+इमा꣡म् मे मरुतो गि꣡रम्  
+इमं꣡ स्तो꣡मम् ऋभुक्षणः  
+इम꣡म् मे वनता ह꣡वम्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sám mā tapanti abhítaḥ  
-sapátnīr iva párśavaḥ  
-ní bādhate ámatir nagnátā jásur  
-vér ná vevīyate matíḥ  
+स꣡म् मा तपन्ति अभि꣡तः  
+सप꣡त्नीर् इव प꣡र्शवः  
+नि꣡ बाधते अ꣡मतिर् नग्न꣡ता ज꣡सुर्  
+वे꣡र् न꣡ वेवीयते मतिः꣡  

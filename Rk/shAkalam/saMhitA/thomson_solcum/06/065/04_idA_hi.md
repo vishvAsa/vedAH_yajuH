@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-idā́ hí vo vidhaté rátnam ásti  
-idā́ vīrā́ya dāśúṣe uṣāsaḥ  
-idā́ víprāya járate yád ukthā́  
-ní ṣma mā́vate vahathā purā́ cit  
+इदा꣡ हि꣡ वो विधते꣡ र꣡त्नम् अ꣡स्ति  
+इदा꣡ वीरा꣡य दाशु꣡षे उषासः  
+इदा꣡ वि꣡प्राय ज꣡रते य꣡द् उक्था꣡  
+नि꣡ ष्म मा꣡वते वहथा पुरा꣡ चित्  

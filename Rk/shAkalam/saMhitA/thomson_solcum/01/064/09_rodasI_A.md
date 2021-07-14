@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ródasī · ā́ vadatā gaṇaśriyo  
-nŕ̥ṣācaḥ śūrāḥ śávasā́himanyavaḥ  
-ā́ vandhúreṣu amátir ná darśatā́  
-vidyún ná tasthau maruto rátheṣu vaḥ  
+रो꣡दसी · आ꣡ वदता गणश्रियो  
+न्ŕ̥षाचः शूराः श꣡वसा꣡हिमन्यवः  
+आ꣡ वन्धु꣡रेषु अम꣡तिर् न꣡ दर्शता꣡  
+विद्यु꣡न् न꣡ तस्थौ मरुतो र꣡थेषु वः  

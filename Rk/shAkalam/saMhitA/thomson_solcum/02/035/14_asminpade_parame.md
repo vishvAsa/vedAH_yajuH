@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-asmín padé paramé tasthivā́ṃsam  
-adhvasmábhir viśváhā dīdivā́ṃsam  
-ā́po náptre ghr̥tám ánnaṃ váhantīḥ  
-svayám átkaiḥ pári dīyanti yahvī́ḥ  
+अस्मि꣡न् पदे꣡ परमे꣡ तस्थिवां꣡सम्  
+अध्वस्म꣡भिर् विश्व꣡हा दीदिवां꣡सम्  
+आ꣡पो न꣡प्त्रे घृत꣡म् अ꣡न्नं व꣡हन्तीः  
+स्वय꣡म् अ꣡त्कैः प꣡रि दीयन्ति यह्वीः꣡  

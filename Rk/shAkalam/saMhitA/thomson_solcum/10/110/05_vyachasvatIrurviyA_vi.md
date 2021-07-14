@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vyácasvatīr urviyā́ ví śrayantām  
-pátibhyo ná jánayaḥ śúmbhamānāḥ  
-dévīr dvāro br̥hatīr viśvaminvā  
-devébhiyo bhavata suprāyaṇā́ḥ  
+व्य꣡चस्वतीर् उर्विया꣡ वि꣡ श्रयन्ताम्  
+प꣡तिभ्यो न꣡ ज꣡नयः शु꣡म्भमानाः  
+दे꣡वीर् द्वारो बृहतीर् विश्वमिन्वा  
+देवे꣡भियो भवत सुप्रायणाः꣡  

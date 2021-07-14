@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yó no maruto vr̥kátāti mártiyo  
-ripúr dadhé vasavo rákṣatā riṣáḥ  
-vartáyata tápuṣā cakríyābhí tám  
-áva rudrā aśáso hantanā vádhaḥ  
+यो꣡ नो मरुतो वृक꣡ताति म꣡र्तियो  
+रिपु꣡र् दधे꣡ वसवो र꣡क्षता रिषः꣡  
+वर्त꣡यत त꣡पुषा चक्रि꣡याभि꣡ त꣡म्  
+अ꣡व रुद्रा अश꣡सो हन्तना व꣡धः  

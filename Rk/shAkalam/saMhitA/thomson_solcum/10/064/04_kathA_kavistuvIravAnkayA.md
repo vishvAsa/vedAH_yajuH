@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kathā́ kavís tuvīrávān káyā girā́  
-bŕ̥haspátir vāvr̥dhate suvr̥ktíbhiḥ  
-ajá ékapāt suhávebhir ŕ̥kvabhir  
-áhiḥ śr̥ṇotu budhníyo hávīmani  
+कथा꣡ कवि꣡स् तुवीर꣡वान् क꣡या गिरा꣡  
+ब्ŕ̥हस्प꣡तिर् वावृधते सुवृक्ति꣡भिः  
+अज꣡ ए꣡कपात् सुह꣡वेभिर् ŕ̥क्वभिर्  
+अ꣡हिः शृणोतु बुध्नि꣡यो ह꣡वीमनि  

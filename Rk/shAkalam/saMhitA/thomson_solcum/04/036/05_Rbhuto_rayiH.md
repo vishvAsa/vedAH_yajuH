@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-r̥bhutó rayíḥ prathamáśravastamo  
-vā́jaśrutāso yám ájījanan náraḥ  
-vibhvataṣṭó vidátheṣu pravā́ciyo  
-yáṃ devāso ávathā sá vícarṣaṇiḥ  
+ऋभुतो꣡ रयिः꣡ प्रथम꣡श्रवस्तमो  
+वा꣡जश्रुतासो य꣡म् अ꣡जीजनन् न꣡रः  
+विभ्वतष्टो꣡ विद꣡थेषु प्रवा꣡चियो  
+यं꣡ देवासो अ꣡वथा स꣡ वि꣡चर्षणिः  

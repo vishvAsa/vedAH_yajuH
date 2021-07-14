@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prajā́vatā vácasā váhnir āsā́  
-ā́ ca huvé ní ca satsīhá devaíḥ  
-véṣi hotrám utá potráṃ yajatra  
-bodhí prayantar janitar vásūnām  
+प्रजा꣡वता व꣡चसा व꣡ह्निर् आसा꣡  
+आ꣡ च हुवे꣡ नि꣡ च सत्सीह꣡ देवइः꣡  
+वे꣡षि होत्र꣡म् उत꣡ पोत्रं꣡ यजत्र  
+बोधि꣡ प्रयन्तर् जनितर् व꣡सूनाम्  

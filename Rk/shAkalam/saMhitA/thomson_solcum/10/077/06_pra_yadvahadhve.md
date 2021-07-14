@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá yád váhadhve marutaḥ parākā́d  
-yūyám maháḥ saṃváraṇasya vásvaḥ  
-vidānā́so vasavo rā́dhiyasya  
-ārā́c cid dvéṣaḥ sanutár yuyota  
+प्र꣡ य꣡द् व꣡हध्वे मरुतः पराका꣡द्  
+यूय꣡म् महः꣡ संव꣡रणस्य व꣡स्वः  
+विदाना꣡सो वसवो रा꣡धियस्य  
+आरा꣡च् चिद् द्वे꣡षः सनुत꣡र् युयोत  

@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-gayasphā́no amīvahā́  
-vasuvít puṣṭivárdhanaḥ  
-sumitráḥ soma no bhava  
+गयस्फा꣡नो अमीवहा꣡  
+वसुवि꣡त् पुष्टिव꣡र्धनः  
+सुमित्रः꣡ सोम नो भव  

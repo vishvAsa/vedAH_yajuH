@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-asmé ā́ vahataṃ rayíṃ  
-śatávantaṃ sahasríṇam  
-purukṣúṃ viśvádhāyasam  
+अस्मे꣡ आ꣡ वहतं रयिं꣡  
+शत꣡वन्तं सहस्रि꣡णम्  
+पुरुक्षुं꣡ विश्व꣡धायसम्  

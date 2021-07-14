@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-pávamānam avasyavo  
-vípram abhí prá gāyata  
-suṣvāṇáṃ devávītaye  
+प꣡वमानम् अवस्यवो  
+वि꣡प्रम् अभि꣡ प्र꣡ गायत  
+सुष्वाणं꣡ देव꣡वीतये  

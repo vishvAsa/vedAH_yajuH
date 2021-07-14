@@ -2,9 +2,9 @@
 title = "006"
 
 +++
-átrīṇāṃ stómam adrivo mahás kr̥dhi  
-píbā sómam mádāya káṃ śatakrato  
-yáṃ te bhāgám ádhārayan  
-víśvāḥ sehānáḥ pŕ̥tanā  
-urú jráyaḥ sám apsujín  
-marútvām̐ indra satpate  
+अ꣡त्रीणां स्तो꣡मम् अद्रिवो मह꣡स् कृधि  
+पि꣡बा सो꣡मम् म꣡दाय कं꣡ शतक्रतो  
+यं꣡ ते भाग꣡म् अ꣡धारयन्  
+वि꣡श्वाः सेहानः꣡ प्ŕ̥तना  
+उरु꣡ ज्र꣡यः स꣡म् अप्सुजि꣡न्  
+मरु꣡त्वाँ इन्द्र सत्पते  

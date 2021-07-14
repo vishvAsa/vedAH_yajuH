@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yā́ devéṣu tanúvam aírayanta  
-yā́sāṃ sómo víśvā rūpā́ṇi véda  
-tā́ asmábhyam páyasā pínvamānāḥ  
-prajā́vatīr indra goṣṭhé rirīhi  
+या꣡ देवे꣡षु तनु꣡वम् अइ꣡रयन्त  
+या꣡सां सो꣡मो वि꣡श्वा रूपा꣡णि वे꣡द  
+ता꣡ अस्म꣡भ्यम् प꣡यसा पि꣡न्वमानाः  
+प्रजा꣡वतीर् इन्द्र गोष्ठे꣡ रिरीहि  

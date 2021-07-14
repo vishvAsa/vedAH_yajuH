@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ yásmin tvé sú ápāke yajatra  
-yákṣad rājan sarvátāteva nú dyaúḥ  
-triṣadhásthas tatarúṣo ná jáṃho  
-havyā́ maghā́ni mā́nuṣā yájadhyai  
+आ꣡ य꣡स्मिन् त्वे꣡ सु꣡ अ꣡पाके यजत्र  
+य꣡क्षद् राजन् सर्व꣡तातेव नु꣡ द्यउः꣡  
+त्रिषध꣡स्थस् ततरु꣡षो न꣡ जं꣡हो  
+हव्या꣡ मघा꣡नि मा꣡नुषा य꣡जध्यै  

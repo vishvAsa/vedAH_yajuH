@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-devébhyo hí prathamáṃ yajñíyebhiyo  
-amr̥tatváṃ suvási bhāgám uttamám  
-ā́d íd dāmā́naṃ savitar ví ūrṇuṣe  
-anūcīnā́ jīvitā́ mā́nuṣebhiyaḥ  
+देवे꣡भ्यो हि꣡ प्रथमं꣡ यज्ञि꣡येभियो  
+अमृतत्वं꣡ सुव꣡सि भाग꣡म् उत्तम꣡म्  
+आ꣡द् इ꣡द् दामा꣡नं सवितर् वि꣡ ऊर्णुषे  
+अनूचीना꣡ जीविता꣡ मा꣡नुषेभियः  

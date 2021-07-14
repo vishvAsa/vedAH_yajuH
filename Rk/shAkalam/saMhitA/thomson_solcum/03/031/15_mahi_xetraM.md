@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-máhi kṣétram purú ścandráṃ vividvā́n  
-ā́d ít sákhibhyaś caráthaṃ sám airat  
-índro nŕ̥bhir ajanad dī́diyānaḥ  
-sākáṃ sū́ryam uṣásaṃ gātúm agním  
+म꣡हि क्षे꣡त्रम् पुरु꣡ श्चन्द्रं꣡ विविद्वा꣡न्  
+आ꣡द् इ꣡त् स꣡खिभ्यश् चर꣡थं स꣡म् ऐरत्  
+इ꣡न्द्रो न्ŕ̥भिर् अजनद् दी꣡दियानः  
+साकं꣡ सू꣡र्यम् उष꣡सं गातु꣡म् अग्नि꣡म्  

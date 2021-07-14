@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuváṃ rátham prá bharo yodhám r̥ṣvám  
-ā́vo yúdhyantaṃ vr̥ṣabháṃ dáśadyum  
-tuváṃ túgraṃ vetasáve sácāhan  
-tuváṃ tújiṃ gr̥ṇántam indra tūtoḥ  
+तुवं꣡ र꣡थम् प्र꣡ भरो योध꣡म् ऋष्व꣡म्  
+आ꣡वो यु꣡ध्यन्तं वृषभं꣡ द꣡शद्युम्  
+तुवं꣡ तु꣡ग्रं वेतस꣡वे स꣡चाहन्  
+तुवं꣡ तु꣡जिं गृण꣡न्तम् इन्द्र तूतोः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-táva syāma puruvī́rasya śármann  
-uruśáṃsasya varuṇa praṇetaḥ  
-yūyáṃ naḥ putrā aditer adabdhā  
-abhí kṣamadhvaṃ yújiyāya devāḥ  
+त꣡व स्याम पुरुवी꣡रस्य श꣡र्मन्न्  
+उरुशं꣡सस्य वरुण प्रणेतः  
+यूयं꣡ नः पुत्रा अदितेर् अदब्धा  
+अभि꣡ क्षमध्वं यु꣡जियाय देवाः  

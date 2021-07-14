@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-sám ít tā́n vr̥trahā́khidat  
-khé arā́m̐ iva khédayā  
-právr̥ddho dasyuhā́bhavat  
+स꣡म् इ꣡त् ता꣡न् वृत्रहा꣡खिदत्  
+खे꣡ अराँ꣡ इव खे꣡दया  
+प्र꣡वृद्धो दस्युहा꣡भवत्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-anārambhaṇé tád avīrayethām  
-anāsthāné agrabhaṇé samudré  
-yád aśvinā ūháthur bhujyúm ástaṃ  
-śatā́ritrāṃ nā́vam ātasthivā́ṃsam  
+अनारम्भणे꣡ त꣡द् अवीरयेथाम्  
+अनास्थाने꣡ अग्रभणे꣡ समुद्रे꣡  
+य꣡द् अश्विना ऊह꣡थुर् भुज्यु꣡म् अ꣡स्तं  
+शता꣡रित्रां ना꣡वम् आतस्थिवां꣡सम्  

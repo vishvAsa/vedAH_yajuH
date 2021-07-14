@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ávāsr̥janta jívrayo ná devā́  
-bhúvaḥ samrā́ḷ indara+ satyáyoniḥ  
-áhann áhim pariśáyānam árṇaḥ  
-prá vartanī́r arado viśvádhenāḥ  
+अ꣡वासृजन्त जि꣡व्रयो न꣡ देवा꣡  
+भु꣡वः सम्रा꣡ऌ इन्दर+ सत्य꣡योनिः  
+अ꣡हन्न् अ꣡हिम् परिश꣡यानम् अ꣡र्णः  
+प्र꣡ वर्तनी꣡र् अरदो विश्व꣡धेनाः  

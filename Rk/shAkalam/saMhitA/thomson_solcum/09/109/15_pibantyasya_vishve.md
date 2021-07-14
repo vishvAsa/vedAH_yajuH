@@ -2,5 +2,5 @@
 title = "015"
 
 +++
-píbanti asya víśve devā́so  
-góbhiḥ śrītásya nŕ̥bhiḥ sutásya  
+पि꣡बन्ति अस्य वि꣡श्वे देवा꣡सो  
+गो꣡भिः श्रीत꣡स्य न्ŕ̥भिः सुत꣡स्य  

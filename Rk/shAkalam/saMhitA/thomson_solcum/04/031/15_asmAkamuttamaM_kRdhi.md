@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-asmā́kam uttamáṃ kr̥dhi  
-śrávo devéṣu sūriya  
-várṣiṣṭhaṃ dyā́m ivopári  
+अस्मा꣡कम् उत्तमं꣡ कृधि  
+श्र꣡वो देवे꣡षु सूरिय  
+व꣡र्षिष्ठं द्या꣡म् इवोप꣡रि  

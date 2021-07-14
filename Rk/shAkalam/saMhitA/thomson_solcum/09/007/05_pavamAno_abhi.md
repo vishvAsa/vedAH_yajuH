@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-pávamāno abhí spŕ̥dho  
-víśo rā́jeva sīdati  
-yád īm r̥ṇvánti vedhásaḥ  
+प꣡वमानो अभि꣡ स्प्ŕ̥धो  
+वि꣡शो रा꣡जेव सीदति  
+य꣡द् ईम् ऋण्व꣡न्ति वेध꣡सः  

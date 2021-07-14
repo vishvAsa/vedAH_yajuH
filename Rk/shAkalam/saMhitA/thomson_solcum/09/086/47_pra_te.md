@@ -2,7 +2,7 @@
 title = "047"
 
 +++
-prá te dhā́rā áti áṇvāni meṣíyaḥ  
-punānásya saṃyáto yanti ráṃhayaḥ  
-yád góbhir indo camúvoḥ samajyása  
-ā́ svānáḥ° soma kaláśeṣu sīdasi  
+प्र꣡ ते धा꣡रा अ꣡ति अ꣡ण्वानि मेषि꣡यः  
+पुनान꣡स्य संय꣡तो यन्ति रं꣡हयः  
+य꣡द् गो꣡भिर् इन्दो चमु꣡वोः समज्य꣡स  
+आ꣡ स्वानः꣡° सोम कल꣡शेषु सीदसि  

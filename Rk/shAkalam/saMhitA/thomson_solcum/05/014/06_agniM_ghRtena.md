@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-agníṃ ghr̥téna vāvr̥dhuḥ  
-stómebhir viśvácarṣaṇim  
-suādhī́bhir vacasyúbhiḥ  
+अग्निं꣡ घृते꣡न वावृधुः  
+स्तो꣡मेभिर् विश्व꣡चर्षणिम्  
+सुआधी꣡भिर् वचस्यु꣡भिः  

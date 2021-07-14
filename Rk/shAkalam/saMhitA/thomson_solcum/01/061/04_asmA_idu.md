@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-asmā́ íd u · stómaṃ sáṃ hinomi  
-ráthaṃ ná · táṣṭeva tátsināya  
-gíraś ca · gírvāhase suvr̥ktí  
-índrāya viśvaminvám médhirāya  
+अस्मा꣡ इ꣡द् उ · स्तो꣡मं सं꣡ हिनोमि  
+र꣡थं न꣡ · त꣡ष्टेव त꣡त्सिनाय  
+गि꣡रश् च · गि꣡र्वाहसे सुवृक्ति꣡  
+इ꣡न्द्राय विश्वमिन्व꣡म् मे꣡धिराय  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-prācī́nam barhír ójasā  
-sahásravīram astr̥ṇan  
-yátrādityā virā́jatha  
+प्राची꣡नम् बर्हि꣡र् ओ꣡जसा  
+सह꣡स्रवीरम् अस्तृणन्  
+य꣡त्रादित्या विरा꣡जथ  

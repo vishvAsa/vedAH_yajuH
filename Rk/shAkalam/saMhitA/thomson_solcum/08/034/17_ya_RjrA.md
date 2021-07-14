@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-yá r̥jrā́ vā́taraṃhaso  
-aruṣā́so raghuṣyádaḥ  
-bhrā́jante sū́riyā iva  
+य꣡ ऋज्रा꣡ वा꣡तरंहसो  
+अरुषा꣡सो रघुष्य꣡दः  
+भ्रा꣡जन्ते सू꣡रिया इव  

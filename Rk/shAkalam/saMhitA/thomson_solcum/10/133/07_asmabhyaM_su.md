@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-asmábhyaṃ sú tuvám indra tā́ṃ śikṣa  
-yā́ dóhate práti váraṃ jaritré  
-áchidraüdhnī pīpáyad yáthā naḥ  
-sahásradhārā páyasā mahī́ gaúḥ  
+अस्म꣡भ्यं सु꣡ तुव꣡म् इन्द्र तां꣡ शिक्ष  
+या꣡ दो꣡हते प्र꣡ति व꣡रं जरित्रे꣡  
+अ꣡छिद्रüध्नी पीप꣡यद् य꣡था नः  
+सह꣡स्रधारा प꣡यसा मही꣡ गउः꣡  

@@ -2,7 +2,7 @@
 title = "035"
 
 +++
-sómaṃ gā́vo dhenávo vāvaśānā́ḥ  
-sómaṃ víprā matíbhiḥ pr̥chámānāḥ  
-sómaḥ sutáḥ pūyate ajyámānaḥ  
-sóme arkā́s triṣṭúbhaḥ sáṃ navante  
+सो꣡मं गा꣡वो धेन꣡वो वावशानाः꣡  
+सो꣡मं वि꣡प्रा मति꣡भिः पृछ꣡मानाः  
+सो꣡मः सुतः꣡ पूयते अज्य꣡मानः  
+सो꣡मे अर्का꣡स् त्रिष्टु꣡भः सं꣡ नवन्ते  

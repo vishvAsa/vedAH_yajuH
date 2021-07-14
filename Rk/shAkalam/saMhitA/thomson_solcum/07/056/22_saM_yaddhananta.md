@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-sáṃ yád dhánanta manyúbhir jánāsaḥ  
-śū́rā yahvī́ṣu óṣadhīṣu vikṣú  
-ádha smā no maruto rudriyāsas  
-trātā́ro bhūta pŕ̥tanāsu aryáḥ  
+सं꣡ य꣡द् ध꣡नन्त मन्यु꣡भिर् ज꣡नासः  
+शू꣡रा यह्वी꣡षु ओ꣡षधीषु विक्षु꣡  
+अ꣡ध स्मा नो मरुतो रुद्रियासस्  
+त्राता꣡रो भूत प्ŕ̥तनासु अर्यः꣡  

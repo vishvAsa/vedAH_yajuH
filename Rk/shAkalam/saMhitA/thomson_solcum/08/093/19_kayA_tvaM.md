@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-káyā tuváṃ na ūtiyā́  
-abhí prá mandase vr̥ṣan  
-káyā stotŕ̥bhya ā́ bhara  
+क꣡या तुवं꣡ न ऊतिया꣡  
+अभि꣡ प्र꣡ मन्दसे वृषन्  
+क꣡या स्तोत्ŕ̥भ्य आ꣡ भर  

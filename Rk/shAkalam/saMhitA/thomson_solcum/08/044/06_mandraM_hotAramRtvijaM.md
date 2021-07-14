@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-mandráṃ hótāram r̥tvíjaṃ  
-citrábhānuṃ vibhā́vasum  
-agním īḷe sá u śravat  
+मन्द्रं꣡ हो꣡तारम् ऋत्वि꣡जं  
+चित्र꣡भानुं विभा꣡वसुम्  
+अग्नि꣡म् ईऌए स꣡ उ श्रवत्  

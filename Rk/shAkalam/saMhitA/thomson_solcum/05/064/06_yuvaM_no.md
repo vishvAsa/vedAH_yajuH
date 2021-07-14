@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yuváṃ no yéṣu varuṇa  
-kṣatrám br̥hác ca bibhr̥tháḥ  
-urú ṇo vā́jasātaye  
-kr̥táṃ rāyé suastáye  
+युवं꣡ नो ये꣡षु वरुण  
+क्षत्र꣡म् बृह꣡च् च बिभृथः꣡  
+उरु꣡ णो वा꣡जसातये  
+कृतं꣡ राये꣡ सुअस्त꣡ये  

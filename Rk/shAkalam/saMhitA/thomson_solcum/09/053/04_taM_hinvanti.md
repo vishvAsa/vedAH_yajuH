@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-táṃ hinvanti madacyútaṃ  
-háriṃ nadī́ṣu vājínam  
-índum índrāya matsarám  
+तं꣡ हिन्वन्ति मदच्यु꣡तं  
+ह꣡रिं नदी꣡षु वाजि꣡नम्  
+इ꣡न्दुम् इ꣡न्द्राय मत्सर꣡म्  

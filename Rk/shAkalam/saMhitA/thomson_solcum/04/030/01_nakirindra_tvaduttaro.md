@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-nákir indra tvád úttaro  
-ná jyā́yām̐ asti vr̥trahan  
-nákir evā́ yáthā tuvám  
+न꣡किर् इन्द्र त्व꣡द् उ꣡त्तरो  
+न꣡ ज्या꣡याँ अस्ति वृत्रहन्  
+न꣡किर् एवा꣡ य꣡था तुव꣡म्  

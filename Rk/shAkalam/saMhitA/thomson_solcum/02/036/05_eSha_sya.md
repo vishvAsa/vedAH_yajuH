@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-eṣá syá te tanúvo nr̥mṇavárdhanaḥ  
-sáha ójaḥ pradívi bāhuvór hitáḥ  
-túbhyaṃ sutó maghavan túbhyam ā́bhr̥tas  
-tuvám asya brā́hmanād ā́ tr̥pát piba  
+एष꣡ स्य꣡ ते तनु꣡वो नृम्णव꣡र्धनः  
+स꣡ह ओ꣡जः प्रदि꣡वि बाहुवो꣡र् हितः꣡  
+तु꣡भ्यं सुतो꣡ मघवन् तु꣡भ्यम् आ꣡भृतस्  
+तुव꣡म् अस्य ब्रा꣡ह्मनाद् आ꣡ तृप꣡त् पिब  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ná tád divā́ ná pr̥thivyā́nu manye  
-ná yajñéna nótá śámībhir ābhíḥ  
-ubjántu táṃ subhúvaḥ párvatāso  
-ní hīyatām atiyājásya yaṣṭā́  
+न꣡ त꣡द् दिवा꣡ न꣡ पृथिव्या꣡नु मन्ये  
+न꣡ यज्ञे꣡न नो꣡त꣡ श꣡मीभिर् आभिः꣡  
+उब्ज꣡न्तु तं꣡ सुभु꣡वः प꣡र्वतासो  
+नि꣡ हीयताम् अतियाज꣡स्य यष्टा꣡  

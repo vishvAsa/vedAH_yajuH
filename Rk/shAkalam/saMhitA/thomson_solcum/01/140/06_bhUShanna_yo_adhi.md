@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-bhū́ṣan ná yó ádhi babhrū́ṣu námnate  
-vŕ̥ṣeva pátnīr abhí eti róruvat  
-ojāyámānas tanúvaś ca śumbhate  
-bhīmó ná śŕ̥ṅgā davidhāva durgŕ̥bhiḥ  
+भू꣡षन् न꣡ यो꣡ अ꣡धि बभ्रू꣡षु न꣡म्नते  
+व्ŕ̥षेव प꣡त्नीर् अभि꣡ एति रो꣡रुवत्  
+ओजाय꣡मानस् तनु꣡वश् च शुम्भते  
+भीमो꣡ न꣡ श्ŕ̥ङ्गा दविधाव दुर्ग्ŕ̥भिः  

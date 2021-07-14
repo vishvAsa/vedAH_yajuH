@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-kathā́ śárdhāya marútām r̥tā́ya  
-kathā́ sūré br̥haté pr̥chyámānaḥ  
-práti bravo áditaye turā́ya  
-sā́dhā divó jātavedaś cikitvā́n  
+कथा꣡ श꣡र्धाय मरु꣡ताम् ऋता꣡य  
+कथा꣡ सूरे꣡ बृहते꣡ पृछ्य꣡मानः  
+प्र꣡ति ब्रवो अ꣡दितये तुरा꣡य  
+सा꣡धा दिवो꣡ जातवेदश् चिकित्वा꣡न्  

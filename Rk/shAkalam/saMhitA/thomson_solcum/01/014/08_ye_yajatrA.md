@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-yé yájatrā yá ī́ḍiyās  
-té te pibantu jihváyā  
-mádhor agne váṣaṭkr̥ti  
+ये꣡ य꣡जत्रा य꣡ ई꣡डियास्  
+ते꣡ ते पिबन्तु जिह्व꣡या  
+म꣡धोर् अग्ने व꣡षट्कृति  

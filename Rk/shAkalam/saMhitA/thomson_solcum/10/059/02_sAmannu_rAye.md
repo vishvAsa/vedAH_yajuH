@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sā́man nú rāyé nidhimán nú ánnaṃ  
-kárāmahe sú purudhá śrávāṃsi  
-tā́ no víśvāni jaritā́ mamattu  
-parātaráṃ sú nírr̥tir jihītām  
+सा꣡मन् नु꣡ राये꣡ निधिम꣡न् नु꣡ अ꣡न्नं  
+क꣡रामहे सु꣡ पुरुध꣡ श्र꣡वांसि  
+ता꣡ नो वि꣡श्वानि जरिता꣡ ममत्तु  
+परातरं꣡ सु꣡ नि꣡रृतिर् जिहीताम्  

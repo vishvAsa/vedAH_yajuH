@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-asyéd eṣā́ sumatíḥ paprathāna  
-ábhavat · pūrviyā́ bhū́manā gaúḥ  
-asyá sánīḷā ásurasya yónau  
-samāná ā́ bháraṇe bíbhramāṇāḥ  
+अस्ये꣡द् एषा꣡ सुमतिः꣡ पप्रथान  
+अ꣡भवत् · पूर्विया꣡ भू꣡मना गउः꣡  
+अस्य꣡ स꣡नीऌआ अ꣡सुरस्य यो꣡नौ  
+समान꣡ आ꣡ भ꣡रणे बि꣡भ्रमाणाः  

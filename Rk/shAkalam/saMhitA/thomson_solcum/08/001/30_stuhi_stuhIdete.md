@@ -2,7 +2,7 @@
 title = "030"
 
 +++
-stuhí stuhī́d eté ghā te  
-máṃhiṣṭhāso maghónãm  
-ninditā́śvaḥ prapathī́ paramajiyā́  
-maghásya medhiyātithe  
+स्तुहि꣡ स्तुही꣡द् एते꣡ घा ते  
+मं꣡हिष्ठासो मघो꣡न्ãम्  
+निन्दिता꣡श्वः प्रपथी꣡ परमजिया꣡  
+मघ꣡स्य मेधियातिथे  

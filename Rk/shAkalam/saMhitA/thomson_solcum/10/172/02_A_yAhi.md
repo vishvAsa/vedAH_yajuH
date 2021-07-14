@@ -2,5 +2,5 @@
 title = "002"
 
 +++
-ā́ yāhi vásviyā dhiyā́  
-máṃhiṣṭho jārayánmakhaḥ sudā́nubhiḥ  
+आ꣡ याहि व꣡स्विया धिया꣡  
+मं꣡हिष्ठो जारय꣡न्मखः सुदा꣡नुभिः  

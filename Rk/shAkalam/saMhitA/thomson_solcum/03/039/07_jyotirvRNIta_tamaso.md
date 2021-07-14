@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-jyótir vr̥ṇīta támaso vijānánn  
-āré siyāma duritā́d abhī́ke  
-imā́ gíraḥ somapāḥ somavr̥ddha  
-juṣásvendra purutámasya kāróḥ  
+ज्यो꣡तिर् वृणीत त꣡मसो विजान꣡न्न्  
+आरे꣡ सियाम दुरिता꣡द् अभी꣡के  
+इमा꣡ गि꣡रः सोमपाः सोमवृद्ध  
+जुष꣡स्वेन्द्र पुरुत꣡मस्य कारोः꣡  

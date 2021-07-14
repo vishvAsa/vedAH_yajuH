@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mándasva hotrā́d ánu jóṣam ándhaso  
-ádhvaryavaḥ sá pūrṇā́ṃ vaṣṭi āsícam  
-tásmā etám bharata tadvaśó dadír  
-hotrā́d sómaṃ draviṇodaḥ píba rtúbhiḥ  
+म꣡न्दस्व होत्रा꣡द् अ꣡नु जो꣡षम् अ꣡न्धसो  
+अ꣡ध्वर्यवः स꣡ पूर्णां꣡ वष्टि आसि꣡चम्  
+त꣡स्मा एत꣡म् भरत तद्वशो꣡ ददि꣡र्  
+होत्रा꣡द् सो꣡मं द्रविणोदः पि꣡ब र्तु꣡भिः  

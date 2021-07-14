@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-jāyā́ tapyate kitavásya hīnā́  
-mātā́ putrásya cárataḥ kúva svit  
-r̥ṇāvā́ bíbhyad dhánam ichámāno  
-anyéṣām ástam úpa náktam eti  
+जाया꣡ तप्यते कितव꣡स्य हीना꣡  
+माता꣡ पुत्र꣡स्य च꣡रतः कु꣡व स्वित्  
+ऋणावा꣡ बि꣡भ्यद् ध꣡नम् इछ꣡मानो  
+अन्ये꣡षाम् अ꣡स्तम् उ꣡प न꣡क्तम् एति  

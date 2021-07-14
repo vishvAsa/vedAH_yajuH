@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-evā́ nŕ̥bhir indaraḥ+ suśravasyā́  
-prakhādáḥ pr̥kṣó abhí mitríṇo bhūt  
-samaryá iṣá stavate vívāci  
-satrākaró yájamānasya śáṃsaḥ  
+एवा꣡ न्ŕ̥भिर् इन्दरः+ सुश्रवस्या꣡  
+प्रखादः꣡ पृक्षो꣡ अभि꣡ मित्रि꣡णो भूत्  
+समर्य꣡ इष꣡ स्तवते वि꣡वाचि  
+सत्राकरो꣡ य꣡जमानस्य शं꣡सः  

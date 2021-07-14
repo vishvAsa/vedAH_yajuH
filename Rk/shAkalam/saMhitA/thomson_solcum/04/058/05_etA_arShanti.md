@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-etā́ arṣanti hŕ̥diyāt samudrā́c  
-chatávrajā ripúṇā nā́vacákṣe  
-ghr̥tásya dhā́rā abhí cākaśīmi  
-hiraṇyáyo vetasó mádhya āsām  
+एता꣡ अर्षन्ति ह्ŕ̥दियात् समुद्रा꣡च्  
+छत꣡व्रजा रिपु꣡णा ना꣡वच꣡क्षे  
+घृत꣡स्य धा꣡रा अभि꣡ चाकशीमि  
+हिरण्य꣡यो वेतसो꣡ म꣡ध्य आसाम्  

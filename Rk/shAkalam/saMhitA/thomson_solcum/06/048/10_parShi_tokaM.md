@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-párṣi tokáṃ tánayam partŕ̥bhiṣ ṭuvám  
-ádabdhair áprayutvabhiḥ  
-ágne héḷāṃsi daíviyā yuyodhi no  
-ádevāni hvárāṃsi ca  
+प꣡र्षि तोकं꣡ त꣡नयम् पर्त्ŕ̥भिष् टुव꣡म्  
+अ꣡दब्धैर् अ꣡प्रयुत्वभिः  
+अ꣡ग्ने हे꣡ऌआंसि दइ꣡विया युयोधि नो  
+अ꣡देवानि ह्व꣡रांसि च  

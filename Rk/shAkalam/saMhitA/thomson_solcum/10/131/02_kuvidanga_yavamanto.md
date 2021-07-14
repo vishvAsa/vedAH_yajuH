@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kuvíd aṅgá yávamanto yávaṃ cid  
-yáthā dā́nti anupūrváṃ viyū́ya  
-ihéhaiṣāṃ kr̥ṇuhi bhójanāni  
-yé barhíṣo námovr̥ktiṃ ná jagmúḥ  
+कुवि꣡द् अङ्ग꣡ य꣡वमन्तो य꣡वं चिद्  
+य꣡था दा꣡न्ति अनुपूर्वं꣡ वियू꣡य  
+इहे꣡हैषां कृणुहि भो꣡जनानि  
+ये꣡ बर्हि꣡षो न꣡मोवृक्तिं न꣡ जग्मुः꣡  

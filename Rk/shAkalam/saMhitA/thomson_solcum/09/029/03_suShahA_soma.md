@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-suṣáhā soma tā́ni te  
-punānā́ya prabhūvaso  
-várdhā samudrám ukthíyam  
+सुष꣡हा सोम ता꣡नि ते  
+पुनाना꣡य प्रभूवसो  
+व꣡र्धा समुद्र꣡म् उक्थि꣡यम्  

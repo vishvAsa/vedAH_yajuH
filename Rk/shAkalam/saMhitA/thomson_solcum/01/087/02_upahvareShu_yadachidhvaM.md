@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-upahvaréṣu yád ácidhuvaṃ yayíṃ  
-váya iva marutaḥ kéna cit pathā́  
-ścótanti kóśā úpa vo rátheṣu ā́  
-ghr̥tám ukṣatā mádhuvarṇam árcate  
+उपह्वरे꣡षु य꣡द् अ꣡चिधुवं ययिं꣡  
+व꣡य इव मरुतः के꣡न चित् पथा꣡  
+श्चो꣡तन्ति को꣡शा उ꣡प वो र꣡थेषु आ꣡  
+घृत꣡म् उक्षता म꣡धुवर्णम् अ꣡र्चते  

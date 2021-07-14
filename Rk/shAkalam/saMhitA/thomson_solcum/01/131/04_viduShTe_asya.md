@@ -2,10 +2,10 @@
 title = "004"
 
 +++
-vidúṣ ṭe asyá vīríyasya pūrávaḥ  
-púro yád indra śā́radīr avā́tiraḥ  
-sāsahānó avā́tiraḥ  
-śā́sas tám indra mártiyam  
-áyajyuṃ śavasas pate  
-mahī́m amuṣṇāḥ pr̥thivī́m imā́ apó  
-mandasāná imā́ apáḥ  
+विदु꣡ष् टे अस्य꣡ वीरि꣡यस्य पूर꣡वः  
+पु꣡रो य꣡द् इन्द्र शा꣡रदीर् अवा꣡तिरः  
+सासहानो꣡ अवा꣡तिरः  
+शा꣡सस् त꣡म् इन्द्र म꣡र्तियम्  
+अ꣡यज्युं शवसस् पते  
+मही꣡म् अमुष्णाः पृथिवी꣡म् इमा꣡ अपो꣡  
+मन्दसान꣡ इमा꣡ अपः꣡  

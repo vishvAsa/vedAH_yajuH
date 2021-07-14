@@ -2,5 +2,5 @@
 title = "003"
 
 +++
-ādityaír índraḥ ságaṇo marúdbhir  
-asmā́kam bhūtu avitā́ tanū́nām  
+आदित्यइ꣡र् इ꣡न्द्रः स꣡गणो मरु꣡द्भिर्  
+अस्मा꣡कम् भूतु अविता꣡ तनू꣡नाम्  

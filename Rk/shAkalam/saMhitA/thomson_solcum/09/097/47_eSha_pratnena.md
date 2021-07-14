@@ -2,7 +2,7 @@
 title = "047"
 
 +++
-eṣá pratnéna váyasā punānás  
-tiró várpāṃsi duhitúr dádhānaḥ  
-vásānaḥ śárma trivárūtham apsú  
-hóteva yāti sámaneṣu rébhan  
+एष꣡ प्रत्ने꣡न व꣡यसा पुनान꣡स्  
+तिरो꣡ व꣡र्पांसि दुहितु꣡र् द꣡धानः  
+व꣡सानः श꣡र्म त्रिव꣡रूथम् अप्सु꣡  
+हो꣡तेव याति स꣡मनेषु रे꣡भन्  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-amŕ̥taṃ jātávedasaṃ  
-tirás támāṃsi darśatám  
-ghr̥tā́havanam ī́ḍiyam  
+अम्ŕ̥तं जात꣡वेदसं  
+तिर꣡स् त꣡मांसि दर्शत꣡म्  
+घृता꣡हवनम् ई꣡डियम्  

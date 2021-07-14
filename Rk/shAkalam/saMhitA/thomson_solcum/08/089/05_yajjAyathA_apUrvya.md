@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yáj jā́yathā apūrviya  
-mághavan vr̥trahátyāya  
-tát pr̥thivī́m aprathayas  
-tád astabhnā utá dyã́m  
+य꣡ज् जा꣡यथा अपूर्विय  
+म꣡घवन् वृत्रह꣡त्याय  
+त꣡त् पृथिवी꣡म् अप्रथयस्  
+त꣡द् अस्तभ्ना उत꣡ द्य्ã꣡म्  

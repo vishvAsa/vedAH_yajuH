@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá hí satyó yám pū́rve cid  
-devā́saś cid yám īdhiré  
-hótāram mandrájihvam ít  
-sudītíbhir vibhā́vasum  
+स꣡ हि꣡ सत्यो꣡ य꣡म् पू꣡र्वे चिद्  
+देवा꣡सश् चिद् य꣡म् ईधिरे꣡  
+हो꣡तारम् मन्द्र꣡जिह्वम् इ꣡त्  
+सुदीति꣡भिर् विभा꣡वसुम्  

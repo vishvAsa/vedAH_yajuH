@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ádha dyaúś cit te ápa sā́ nú vájrād  
-dvitā́namad bhiyásā svásya manyóḥ  
-áhiṃ yád índro abhí óhasānaṃ  
-ní cid viśvā́yuḥ śayáthe jaghā́na  
+अ꣡ध द्यउ꣡श् चित् ते अ꣡प सा꣡ नु꣡ व꣡ज्राद्  
+द्विता꣡नमद् भिय꣡सा स्व꣡स्य मन्योः꣡  
+अ꣡हिं य꣡द् इ꣡न्द्रो अभि꣡ ओ꣡हसानं  
+नि꣡ चिद् विश्वा꣡युः शय꣡थे जघा꣡न  

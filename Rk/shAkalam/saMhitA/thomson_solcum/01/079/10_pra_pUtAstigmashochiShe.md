@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-prá pūtā́s tigmáśociṣe  
-vā́co gotami agnáye  
-bhárasva sumnayúr gíraḥ  
+प्र꣡ पूता꣡स् तिग्म꣡शोचिषे  
+वा꣡चो गोतमि अग्न꣡ये  
+भ꣡रस्व सुम्नयु꣡र् गि꣡रः  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-prá vo vāyúṃ rathayújam púraṃdhiṃ  
-stómaiḥ kr̥ṇudhvaṃ sakhiyā́ya pūṣáṇam  
-té hí devásya savitúḥ sávīmani  
-krátuṃ sácante sacítaḥ sácetasaḥ  
+प्र꣡ वो वायुं꣡ रथयु꣡जम् पु꣡रंधिं  
+स्तो꣡मैः कृणुध्वं सखिया꣡य पूष꣡णम्  
+ते꣡ हि꣡ देव꣡स्य सवितुः꣡ स꣡वीमनि  
+क्र꣡तुं स꣡चन्ते सचि꣡तः स꣡चेतसः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sahasrākṣéṇa śatáśāradena  
-śatā́yuṣā havíṣā́hārṣam enam  
-śatáṃ yáthemáṃ śarádo náyāti  
-índro víśvasya duritásya pārám  
+सहस्राक्षे꣡ण शत꣡शारदेन  
+शता꣡युषा हवि꣡षा꣡हार्षम् एनम्  
+शतं꣡ य꣡थेमं꣡ शर꣡दो न꣡याति  
+इ꣡न्द्रो वि꣡श्वस्य दुरित꣡स्य पार꣡म्  

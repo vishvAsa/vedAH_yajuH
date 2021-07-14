@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-antarikṣaprā́ṃ rájaso vimā́nīm  
-úpa śikṣāmi urváśīṃ vásiṣṭhaḥ  
-úpa tvā rātíḥ sukr̥tásya tíṣṭhān  
-ní vartasva hŕ̥dayaṃ tapyate me  
+अन्तरिक्षप्रां꣡ र꣡जसो विमा꣡नीम्  
+उ꣡प शिक्षामि उर्व꣡शीं व꣡सिष्ठः  
+उ꣡प त्वा रातिः꣡ सुकृत꣡स्य ति꣡ष्ठान्  
+नि꣡ वर्तस्व ह्ŕ̥दयं तप्यते मे  

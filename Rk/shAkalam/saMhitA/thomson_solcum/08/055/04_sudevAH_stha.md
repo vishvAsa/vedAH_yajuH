@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-sudevā́ stha kāṇvāyanā  
-váyo-vayo vicarántaḥ  
-áśvāso ná caṅkramata  
+सुदेवा꣡ स्थ काण्वायना  
+व꣡यो-वयो विचर꣡न्तः  
+अ꣡श्वासो न꣡ चङ्क्रमत  

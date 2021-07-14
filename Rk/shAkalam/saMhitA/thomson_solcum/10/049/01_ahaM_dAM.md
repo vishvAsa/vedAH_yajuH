@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-aháṃ dãṃ gr̥ṇaté pū́rviyaṃ vásu  
-ahám bráhma kr̥ṇavam máhya° várdhanam  
-ahám bhuvaṃ yájamānasya coditā́  
-áyajvanaḥ sākṣi víśvasmin bháre  
+अहं꣡ द्ãं गृणते꣡ पू꣡र्वियं व꣡सु  
+अह꣡म् ब्र꣡ह्म कृणवम् म꣡ह्य° व꣡र्धनम्  
+अह꣡म् भुवं य꣡जमानस्य चोदिता꣡  
+अ꣡यज्वनः साक्षि वि꣡श्वस्मिन् भ꣡रे  

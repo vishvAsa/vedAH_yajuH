@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-śunáṃ huvema maghávānam índram  
-asmín bháre nŕ̥tamaṃ vā́jasātau  
-śr̥ṇvántam ugrám ūtáye samátsu  
-ghnántaṃ vr̥trā́ṇi saṃjítaṃ dhánānām  
+शुनं꣡ हुवेम मघ꣡वानम् इ꣡न्द्रम्  
+अस्मि꣡न् भ꣡रे न्ŕ̥तमं वा꣡जसातौ  
+शृण्व꣡न्तम् उग्र꣡म् ऊत꣡ये सम꣡त्सु  
+घ्न꣡न्तं वृत्रा꣡णि संजि꣡तं ध꣡नानाम्  

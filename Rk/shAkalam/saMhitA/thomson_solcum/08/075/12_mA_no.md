@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-mā́ no asmín mahādhané  
-párā varg bhārabhŕ̥d yathā  
-saṃvárgaṃ sáṃ rayíṃ jaya  
+मा꣡ नो अस्मि꣡न् महाधने꣡  
+प꣡रा वर्ग् भारभ्ŕ̥द् यथा  
+संव꣡र्गं सं꣡ रयिं꣡ जय  

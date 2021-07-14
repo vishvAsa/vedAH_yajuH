@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-dvitā́ viūrṇvánn amŕ̥tasya dhā́ma  
-suvarvíde bhúvanāni prathanta  
-dhíyaḥ pinvānā́ḥ svásare ná gā́va  
-r̥tāyántīr abhí vāvaśra índum  
+द्विता꣡ विऊर्ण्व꣡न्न् अम्ŕ̥तस्य धा꣡म  
+सुवर्वि꣡दे भु꣡वनानि प्रथन्त  
+धि꣡यः पिन्वानाः꣡ स्व꣡सरे न꣡ गा꣡व  
+ऋताय꣡न्तीर् अभि꣡ वावश्र इ꣡न्दुम्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́ tám bhaja sauśravaséṣu agna  
-ukthá-uktha ā́ bhaja śasyámāne  
-priyáḥ sū́rye priyó agnā́ bhavāti  
-új jāténa bhinádad új jánitvaiḥ  
+आ꣡ त꣡म् भज सौश्रवसे꣡षु अग्न  
+उक्थ꣡-उक्थ आ꣡ भज शस्य꣡माने  
+प्रियः꣡ सू꣡र्ये प्रियो꣡ अग्ना꣡ भवाति  
+उ꣡ज् जाते꣡न भिन꣡दद् उ꣡ज् ज꣡नित्वैः  

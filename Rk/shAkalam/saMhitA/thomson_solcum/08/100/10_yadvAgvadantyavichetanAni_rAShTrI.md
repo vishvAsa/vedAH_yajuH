@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yád vā́g vádanti avicetanā́ni  
-rā́ṣṭrī devā́nāṃ niṣasā́da mandrā́  
-cátasra ū́rjaṃ duduhe páyāṃsi  
-kúva svid asyāḥ paramáṃ jagāma  
+य꣡द् वा꣡ग् व꣡दन्ति अविचेतना꣡नि  
+रा꣡ष्ट्री देवा꣡नां निषसा꣡द मन्द्रा꣡  
+च꣡तस्र ऊ꣡र्जं दुदुहे प꣡यांसि  
+कु꣡व स्विद् अस्याः परमं꣡ जगाम  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yáthā́yajo hotrám agne pr̥thivyā́  
-yáthā divó jātavedaś cikitvā́n  
-evā́néna havíṣā yakṣi devā́n  
-manuṣvád yajñám prá tiremám adyá  
+य꣡था꣡यजो होत्र꣡म् अग्ने पृथिव्या꣡  
+य꣡था दिवो꣡ जातवेदश् चिकित्वा꣡न्  
+एवा꣡ने꣡न हवि꣡षा यक्षि देवा꣡न्  
+मनुष्व꣡द् यज्ञ꣡म् प्र꣡ तिरेम꣡म् अद्य꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-índrasya dūtī́r iṣitā́ carāmi  
-mahá ichántī paṇayo nidhī́n vaḥ  
-atiṣkádo bhiyásā tán na āvat  
-táthā rasā́yā ataram páyāṃsi  
+इ꣡न्द्रस्य दूती꣡र् इषिता꣡ चरामि  
+मह꣡ इछ꣡न्ती पणयो निधी꣡न् वः  
+अतिष्क꣡दो भिय꣡सा त꣡न् न आवत्  
+त꣡था रसा꣡या अतरम् प꣡यांसि  

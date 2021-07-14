@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-áva syū́meva cinvatī́ maghónī  
-uṣā́ yāti · svásarasya pátnī  
-súvar jánantī subhágā sudáṃsā  
-ā́ntād diváḥ papratha ā́ pr̥thivyā́ḥ  
+अ꣡व स्यू꣡मेव चिन्वती꣡ मघो꣡नी  
+उषा꣡ याति · स्व꣡सरस्य प꣡त्नी  
+सु꣡वर् ज꣡नन्ती सुभ꣡गा सुदं꣡सा  
+आ꣡न्ताद् दिवः꣡ पप्रथ आ꣡ पृथिव्याः꣡  

@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-ā́ yé tanvánti raśmíbhis  
-tiráḥ samudrám ójasā  
-marúdbhir agna ā́ gahi  
+आ꣡ ये꣡ तन्व꣡न्ति रश्मि꣡भिस्  
+तिरः꣡ समुद्र꣡म् ओ꣡जसा  
+मरु꣡द्भिर् अग्न आ꣡ गहि  

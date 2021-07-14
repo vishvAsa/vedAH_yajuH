@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yajñā́-yajñā vo agnáye  
-girā́-girā ca dákṣase  
-prá-pra vayám amŕ̥taṃ jātávedasam  
-priyám mitráṃ ná śaṃsiṣam  
+यज्ञा꣡-यज्ञा वो अग्न꣡ये  
+गिरा꣡-गिरा च द꣡क्षसे  
+प्र꣡-प्र वय꣡म् अम्ŕ̥तं जात꣡वेदसम्  
+प्रिय꣡म् मित्रं꣡ न꣡ शंसिषम्  

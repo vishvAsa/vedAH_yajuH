@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-váyaḥ suparṇā́ úpa sedur índram  
-priyámedhā ŕ̥ṣayo nā́dhamānāḥ  
-ápa dhvāntám ūrṇuhí pūrdhí cákṣur  
-mumugdhí asmā́n nidháyeva baddhā́n  
+व꣡यः सुपर्णा꣡ उ꣡प सेदुर् इ꣡न्द्रम्  
+प्रिय꣡मेधा ŕ̥षयो ना꣡धमानाः  
+अ꣡प ध्वान्त꣡म् ऊर्णुहि꣡ पूर्धि꣡ च꣡क्षुर्  
+मुमुग्धि꣡ अस्मा꣡न् निध꣡येव बद्धा꣡न्  

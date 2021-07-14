@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-dvír yám páñca sváyaśasaṃ  
-svásāro ádrisaṃhatam  
-priyám índrasya kā́miyam  
-prasnāpáyanti ūrmíṇam  
+द्वि꣡र् य꣡म् प꣡ञ्च स्व꣡यशसं  
+स्व꣡सारो अ꣡द्रिसंहतम्  
+प्रिय꣡म् इ꣡न्द्रस्य का꣡मियम्  
+प्रस्नाप꣡यन्ति ऊर्मि꣡णम्  

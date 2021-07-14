@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-ádabdhasya svadhā́vato  
-dūtásya rébhataḥ sádā  
-agnéḥ sakhyáṃ vr̥ṇīmahe  
+अ꣡दब्धस्य स्वधा꣡वतो  
+दूत꣡स्य रे꣡भतः स꣡दा  
+अग्नेः꣡ सख्यं꣡ वृणीमहे  

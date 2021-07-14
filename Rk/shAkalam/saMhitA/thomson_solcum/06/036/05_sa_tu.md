@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá tú śrudhi śrútiyā yó duvoyúr  
-diyaúr ná bhū́ma abhí rā́yo aryáḥ  
-áso yáthā naḥ śávasā cakānó  
-yugé-yuge váyasā cékitānaḥ  
+स꣡ तु꣡ श्रुधि श्रु꣡तिया यो꣡ दुवोयु꣡र्  
+दियउ꣡र् न꣡ भू꣡म अभि꣡ रा꣡यो अर्यः꣡  
+अ꣡सो य꣡था नः श꣡वसा चकानो꣡  
+युगे꣡-युगे व꣡यसा चे꣡कितानः  

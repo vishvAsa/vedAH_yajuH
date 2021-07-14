@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-nā́ke suparṇám upapaptivā́ṃsaṃ  
-gíro venā́nām akr̥panta pūrvī́ḥ  
-śíśuṃ rihanti matáyaḥ pánipnataṃ  
-hiraṇyáyaṃ śakunáṃ kṣā́maṇi sthā́m  
+ना꣡के सुपर्ण꣡म् उपपप्तिवां꣡सं  
+गि꣡रो वेना꣡नाम् अकृपन्त पूर्वीः꣡  
+शि꣡शुं रिहन्ति मत꣡यः प꣡निप्नतं  
+हिरण्य꣡यं शकुनं꣡ क्षा꣡मणि स्था꣡म्  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-divó no vr̥ṣṭím maruto rarīdhvam  
-prá pinvata vŕ̥ṣṇo áśvasya dhā́rāḥ  
-arvā́ṅ eténa stanayitnúnéhi  
-apó niṣiñcánn ásuraḥ pitā́ naḥ  
+दिवो꣡ नो वृष्टि꣡म् मरुतो ररीध्वम्  
+प्र꣡ पिन्वत व्ŕ̥ष्णो अ꣡श्वस्य धा꣡राः  
+अर्वा꣡ङ् एते꣡न स्तनयित्नु꣡ने꣡हि  
+अपो꣡ निषिञ्च꣡न्न् अ꣡सुरः पिता꣡ नः  

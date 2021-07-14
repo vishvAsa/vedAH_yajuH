@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-padé iva níhite dasmé antás  
-táyor anyád guhiyam āvír anyát  
-sadhrīcīnā́ pathíyā sā́ víṣūcī  
-mahád devā́nām asuratvám ékam  
+पदे꣡ इव नि꣡हिते दस्मे꣡ अन्त꣡स्  
+त꣡योर् अन्य꣡द् गुहियम् आवि꣡र् अन्य꣡त्  
+सध्रीचीना꣡ पथि꣡या सा꣡ वि꣡षूची  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

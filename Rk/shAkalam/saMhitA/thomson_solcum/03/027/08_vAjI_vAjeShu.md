@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-vājī́ vā́jeṣu dhīyate  
-adhvaréṣu prá ṇīyate  
-vípro yajñásya sā́dhanaḥ  
+वाजी꣡ वा꣡जेषु धीयते  
+अध्वरे꣡षु प्र꣡ णीयते  
+वि꣡प्रो यज्ञ꣡स्य सा꣡धनः  

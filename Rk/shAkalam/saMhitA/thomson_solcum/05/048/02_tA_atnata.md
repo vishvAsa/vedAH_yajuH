@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tā́ atnata vayúnaṃ vīrávakṣaṇaṃ  
-samāniyā́ vr̥táyā víśvam ā́ rájaḥ  
-ápo ápācīr áparā ápejate  
-prá pū́rvābhis tirate devayúr jánaḥ  
+ता꣡ अत्नत वयु꣡नं वीर꣡वक्षणं  
+समानिया꣡ वृत꣡या वि꣡श्वम् आ꣡ र꣡जः  
+अ꣡पो अ꣡पाचीर् अ꣡परा अ꣡पेजते  
+प्र꣡ पू꣡र्वाभिस् तिरते देवयु꣡र् ज꣡नः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-naítā́vad anyé marúto yáthemé  
-bhrā́jante rukmaír ā́yudhais tanū́bhiḥ  
-ā́ ródasī viśvapíśaḥ piśānā́ḥ  
-samānám añjí añjate śubhé kám  
+नइ꣡ता꣡वद् अन्ये꣡ मरु꣡तो य꣡थेमे꣡  
+भ्रा꣡जन्ते रुक्मइ꣡र् आ꣡युधैस् तनू꣡भिः  
+आ꣡ रो꣡दसी विश्वपि꣡शः पिशानाः꣡  
+समान꣡म् अञ्जि꣡ अञ्जते शुभे꣡ क꣡म्  

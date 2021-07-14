@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-yád agne kā́ni kā́ni cid  
-ā́ te dā́rūṇi dadhmási  
-tā́ juṣasva yaviṣṭhiya  
+य꣡द् अग्ने का꣡नि का꣡नि चिद्  
+आ꣡ ते दा꣡रूणि दध्म꣡सि  
+ता꣡ जुषस्व यविष्ठिय  

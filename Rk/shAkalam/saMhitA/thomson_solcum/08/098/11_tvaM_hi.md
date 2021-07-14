@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-tuváṃ hí naḥ pitā́ vaso  
-tuvám mātā́ śatakrato babhū́vitha  
-ádhā te sumnám īmahe  
+तुवं꣡ हि꣡ नः पिता꣡ वसो  
+तुव꣡म् माता꣡ शतक्रतो बभू꣡विथ  
+अ꣡धा ते सुम्न꣡म् ईमहे  

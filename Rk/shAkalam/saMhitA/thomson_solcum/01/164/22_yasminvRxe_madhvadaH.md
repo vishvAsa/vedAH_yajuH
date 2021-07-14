@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-yásmin vr̥kṣé madhuádaḥ suparṇā́  
-niviśánte súvate cā́dhi víśve  
-tásyéd āhuḥ píppalaṃ svādú ágre  
-tán nón naśad yáḥ pitáraṃ ná véda  
+य꣡स्मिन् वृक्षे꣡ मधुअ꣡दः सुपर्णा꣡  
+निविश꣡न्ते सु꣡वते चा꣡धि वि꣡श्वे  
+त꣡स्ये꣡द् आहुः पि꣡प्पलं स्वादु꣡ अ꣡ग्रे  
+त꣡न् नो꣡न् नशद् यः꣡ पित꣡रं न꣡ वे꣡द  

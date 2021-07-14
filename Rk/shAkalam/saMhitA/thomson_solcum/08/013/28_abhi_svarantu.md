@@ -2,6 +2,6 @@
 title = "028"
 
 +++
-abhí svarantu yé táva  
-rudrā́saḥ sakṣata śríyam  
-utó marútvatīr víśo abhí práyaḥ  
+अभि꣡ स्वरन्तु ये꣡ त꣡व  
+रुद्रा꣡सः सक्षत श्रि꣡यम्  
+उतो꣡ मरु꣡त्वतीर् वि꣡शो अभि꣡ प्र꣡यः  

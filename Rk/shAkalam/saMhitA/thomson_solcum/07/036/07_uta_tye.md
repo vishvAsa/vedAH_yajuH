@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-utá tyé no marúto mandasānā́  
-dhíyaṃ tokáṃ ca vājíno avantu  
-mā́ naḥ pári khyad ákṣarā cáranti  
-ávīvr̥dhan yújiyaṃ té rayíṃ naḥ  
+उत꣡ त्ये꣡ नो मरु꣡तो मन्दसाना꣡  
+धि꣡यं तोकं꣡ च वाजि꣡नो अवन्तु  
+मा꣡ नः प꣡रि ख्यद् अ꣡क्षरा च꣡रन्ति  
+अ꣡वीवृधन् यु꣡जियं ते꣡ रयिं꣡ नः  

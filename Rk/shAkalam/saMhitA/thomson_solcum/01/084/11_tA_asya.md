@@ -2,8 +2,8 @@
 title = "011"
 
 +++
-tā́ asya pr̥śanāyúvaḥ  
-sómaṃ śrīṇanti pŕ̥śnayaḥ  
-priyā́ índrasya dhenávo  
-vájraṃ hinvanti sā́yakaṃ  
-vásvīr ánu svarā́jiyam  
+ता꣡ अस्य पृशनायु꣡वः  
+सो꣡मं श्रीणन्ति प्ŕ̥श्नयः  
+प्रिया꣡ इ꣡न्द्रस्य धेन꣡वो  
+व꣡ज्रं हिन्वन्ति सा꣡यकं  
+व꣡स्वीर् अ꣡नु स्वरा꣡जियम्  

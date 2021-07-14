@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-ná ghā vásur ní yamate  
-dānáṃ vā́jasya gómataḥ  
-yát sīm úpa śrávad gíraḥ  
+न꣡ घा व꣡सुर् नि꣡ यमते  
+दानं꣡ वा꣡जस्य गो꣡मतः  
+य꣡त् सीम् उ꣡प श्र꣡वद् गि꣡रः  

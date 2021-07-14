@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tā́ vidvā́ṃsā havāmahe vāṃ  
-tā́ no vidvā́ṃsā mánma vocetam adyá  
-prā́rcad dáyamāno yuvā́kuḥ  
+ता꣡ विद्वां꣡सा हवामहे वां  
+ता꣡ नो विद्वां꣡सा म꣡न्म वोचेतम् अद्य꣡  
+प्रा꣡र्चद् द꣡यमानो युवा꣡कुः  

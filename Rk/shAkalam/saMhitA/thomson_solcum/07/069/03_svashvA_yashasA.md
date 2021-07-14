@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-suáśvā yaśásā ā́ yātam arvā́g  
-dásrā nidhím mádhumantam pibāthaḥ  
-ví vāṃ rátho vadhúvā yā́damāno  
-ántān divó bādhate vartaníbhyām  
+सुअ꣡श्वा यश꣡सा आ꣡ यातम् अर्वा꣡ग्  
+द꣡स्रा निधि꣡म् म꣡धुमन्तम् पिबाथः  
+वि꣡ वां र꣡थो वधु꣡वा या꣡दमानो  
+अ꣡न्तान् दिवो꣡ बाधते वर्तनि꣡भ्याम्  

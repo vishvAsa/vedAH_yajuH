@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-ā́ daśábhir vivásvata  
-índraḥ kóśam acucyavīt  
-khédayā trivŕ̥tā diváḥ  
+आ꣡ दश꣡भिर् विव꣡स्वत  
+इ꣡न्द्रः को꣡शम् अचुच्यवीत्  
+खे꣡दया त्रिव्ŕ̥ता दिवः꣡  

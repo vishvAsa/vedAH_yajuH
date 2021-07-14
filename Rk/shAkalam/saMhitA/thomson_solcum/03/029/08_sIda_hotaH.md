@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sī́da hotaḥ svá uloké† cikitvā́n  
-sādáyā yajñáṃ sukr̥tásya yónau  
-devāvī́r devā́n havíṣā yajāsi  
-ágne br̥hád yájamāne váyo dhāḥ  
+सी꣡द होतः स्व꣡ उलोके꣡† चिकित्वा꣡न्  
+साद꣡या यज्ञं꣡ सुकृत꣡स्य यो꣡नौ  
+देवावी꣡र् देवा꣡न् हवि꣡षा यजासि  
+अ꣡ग्ने बृह꣡द् य꣡जमाने व꣡यो धाः  

@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-pánya íd úpa gāyata  
-pánya ukthā́ni śaṃsata  
-bráhmā kr̥ṇota pánya ít  
+प꣡न्य इ꣡द् उ꣡प गायत  
+प꣡न्य उक्था꣡नि शंसत  
+ब्र꣡ह्मा कृणोत प꣡न्य इ꣡त्  

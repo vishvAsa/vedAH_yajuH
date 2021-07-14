@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yát kíṃ cedáṃ varuṇa daíviye jáne  
-abhidrohám manuṣíyāś cárāmasi  
-ácittī yát táva dhármā yuyopimá  
-mā́ nas tásmād énaso deva rīriṣaḥ  
+य꣡त् किं꣡ चेदं꣡ वरुण दइ꣡विये ज꣡ने  
+अभिद्रोह꣡म् मनुषि꣡याश् च꣡रामसि  
+अ꣡चित्ती य꣡त् त꣡व ध꣡र्मा युयोपिम꣡  
+मा꣡ नस् त꣡स्माद् ए꣡नसो देव रीरिषः  

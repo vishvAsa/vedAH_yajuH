@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá vīrayā́ śúcayo dadrire vām  
-adhvaryúbhir mádhumantaḥ sutā́saḥ  
-váha vāyo niyúto yāhi áchā  
-píbā sutásya ándhaso mádāya  
+प्र꣡ वीरया꣡ शु꣡चयो दद्रिरे वाम्  
+अध्वर्यु꣡भिर् म꣡धुमन्तः सुता꣡सः  
+व꣡ह वायो नियु꣡तो याहि अ꣡छा  
+पि꣡बा सुत꣡स्य अ꣡न्धसो म꣡दाय  

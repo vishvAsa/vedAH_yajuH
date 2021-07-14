@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ná mā mimetha ná jihīḷa eṣā́  
-śivā́ sákhibhya utá máhyam āsīt  
-akṣásyāhám ekaparásya hetór  
-ánuvratām ápa jāyā́m arodham  
+न꣡ मा मिमेथ न꣡ जिहीऌअ एषा꣡  
+शिवा꣡ स꣡खिभ्य उत꣡ म꣡ह्यम् आसीत्  
+अक्ष꣡स्याह꣡म् एकपर꣡स्य हेतो꣡र्  
+अ꣡नुव्रताम् अ꣡प जाया꣡म् अरोधम्  

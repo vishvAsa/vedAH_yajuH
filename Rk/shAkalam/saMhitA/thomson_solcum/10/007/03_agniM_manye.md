@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-agním manye pitáram agním āpím  
-agním bhrā́taraṃ sádam ít sákhāyam  
-agnér ánīkam br̥hatáḥ saparyaṃ  
-diví śukráṃ yajatáṃ sū́riyasya  
+अग्नि꣡म् मन्ये पित꣡रम् अग्नि꣡म् आपि꣡म्  
+अग्नि꣡म् भ्रा꣡तरं स꣡दम् इ꣡त् स꣡खायम्  
+अग्ने꣡र् अ꣡नीकम् बृहतः꣡ सपर्यं  
+दिवि꣡ शुक्रं꣡ यजतं꣡ सू꣡रियस्य  

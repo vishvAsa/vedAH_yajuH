@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-araśmā́no yé arathā́ áyuktā  
-átyāso ná sasr̥jānā́sa ājaú  
-eté śukrā́so dhanuvanti sómā  
-dévāsas tā́m̐ úpa yātā píbadhyai  
+अरश्मा꣡नो ये꣡ अरथा꣡ अ꣡युक्ता  
+अ꣡त्यासो न꣡ ससृजाना꣡स आजउ꣡  
+एते꣡ शुक्रा꣡सो धनुवन्ति सो꣡मा  
+दे꣡वासस् ताँ꣡ उ꣡प याता पि꣡बध्यै  

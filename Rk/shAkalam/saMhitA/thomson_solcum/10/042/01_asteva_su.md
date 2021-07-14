@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ásteva sú prataráṃ lā́yam ásyan  
-bhū́ṣann iva prá bharā stómam asmai  
-vācā́ viprās tarata vā́cam aryó  
-ní rāmaya jaritaḥ sóma índram  
+अ꣡स्तेव सु꣡ प्रतरं꣡ ला꣡यम् अ꣡स्यन्  
+भू꣡षन्न् इव प्र꣡ भरा स्तो꣡मम् अस्मै  
+वाचा꣡ विप्रास् तरत वा꣡चम् अर्यो꣡  
+नि꣡ रामय जरितः सो꣡म इ꣡न्द्रम्  

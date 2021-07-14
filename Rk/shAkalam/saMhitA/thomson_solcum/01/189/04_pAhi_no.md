@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-pāhí no agne pāyúbhir ájasrair  
-utá priyé sádana ā́ śuśukvā́n  
-mā́ te bhayáṃ jaritā́raṃ yaviṣṭha  
-nūnáṃ vidan mā́ aparáṃ sahasvaḥ  
+पाहि꣡ नो अग्ने पायु꣡भिर् अ꣡जस्रैर्  
+उत꣡ प्रिये꣡ स꣡दन आ꣡ शुशुक्वा꣡न्  
+मा꣡ ते भयं꣡ जरिता꣡रं यविष्ठ  
+नूनं꣡ विदन् मा꣡ अपरं꣡ सहस्वः  

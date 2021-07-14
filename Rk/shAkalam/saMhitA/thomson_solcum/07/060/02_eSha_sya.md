@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-eṣá syá mitrāvaruṇā nr̥cákṣā  
-ubhé úd eti sū́riyo abhí jmán  
-víśvasya sthātúr jágataś ca gopā́  
-r̥jú márteṣu vr̥jinā́ ca páśyan  
+एष꣡ स्य꣡ मित्रावरुणा नृच꣡क्षा  
+उभे꣡ उ꣡द् एति सू꣡रियो अभि꣡ ज्म꣡न्  
+वि꣡श्वस्य स्थातु꣡र् ज꣡गतश् च गोपा꣡  
+ऋजु꣡ म꣡र्तेषु वृजिना꣡ च प꣡श्यन्  

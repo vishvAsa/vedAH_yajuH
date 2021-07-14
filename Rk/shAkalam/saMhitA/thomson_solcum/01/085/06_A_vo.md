@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́ vo vahantu sáptayo raghuṣyádo  
-raghupátvānaḥ prá jigāta bāhúbhiḥ  
-sī́datā́ barhír urú vaḥ sádas kr̥tám  
-mādáyadhvam maruto mádhvo ándhasaḥ  
+आ꣡ वो वहन्तु स꣡प्तयो रघुष्य꣡दो  
+रघुप꣡त्वानः प्र꣡ जिगात बाहु꣡भिः  
+सी꣡दता꣡ बर्हि꣡र् उरु꣡ वः स꣡दस् कृत꣡म्  
+माद꣡यध्वम् मरुतो म꣡ध्वो अ꣡न्धसः  

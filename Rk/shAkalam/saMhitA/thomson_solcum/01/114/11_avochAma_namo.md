@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ávocāma námo asmā avasyávaḥ  
-śr̥ṇótu no hávaṃ rudró marútvān  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+अ꣡वोचाम न꣡मो अस्मा अवस्य꣡वः  
+शृणो꣡तु नो ह꣡वं रुद्रो꣡ मरु꣡त्वान्  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

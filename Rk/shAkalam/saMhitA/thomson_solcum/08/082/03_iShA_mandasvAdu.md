@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-iṣā́ mandasva ā́d u te  
-áraṃ várāya manyáve  
-bhúvat ta indra śáṃ hr̥dé  
+इषा꣡ मन्दस्व आ꣡द् उ ते  
+अ꣡रं व꣡राय मन्य꣡वे  
+भु꣡वत् त इन्द्र शं꣡ हृदे꣡  

@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-arvāváto na ā́ gahi  
-parāvátaś ca vr̥trahan  
-imā́ juṣasva no gíraḥ  
+अर्वाव꣡तो न आ꣡ गहि  
+पराव꣡तश् च वृत्रहन्  
+इमा꣡ जुषस्व नो गि꣡रः  

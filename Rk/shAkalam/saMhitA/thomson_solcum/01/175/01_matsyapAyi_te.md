@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mátsi ápāyi te máhaḥ  
-pā́trasyeva harivo matsaró mádaḥ  
-vŕ̥ṣā te vŕ̥ṣṇa índur  
-vājī́ sahasrasā́tamaḥ  
+म꣡त्सि अ꣡पायि ते म꣡हः  
+पा꣡त्रस्येव हरिवो मत्सरो꣡ म꣡दः  
+व्ŕ̥षा ते व्ŕ̥ष्ण इ꣡न्दुर्  
+वाजी꣡ सहस्रसा꣡तमः  

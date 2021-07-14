@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-pūṣā́ subándhur divá ā́ pr̥thivyā́  
-iḷás pátir maghávā dasmávarcāḥ  
-yáṃ devā́so ádaduḥ sūriyā́yai  
-kā́mena kr̥táṃ tavásaṃ suáñcam  
+पूषा꣡ सुब꣡न्धुर् दिव꣡ आ꣡ पृथिव्या꣡  
+इऌअ꣡स् प꣡तिर् मघ꣡वा दस्म꣡वर्चाः  
+यं꣡ देवा꣡सो अ꣡ददुः सूरिया꣡यै  
+का꣡मेन कृतं꣡ तव꣡सं सुअ꣡ञ्चम्  

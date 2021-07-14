@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-sá śévr̥dham ádhi dhā dyumnám asmé  
-máhi kṣatráṃ janāṣā́ḷ indra távyam  
-rákṣā ca no maghónaḥ pāhí sūrī́n  
-rāyé ca naḥ suapatyā́ iṣé dhāḥ  
+स꣡ शे꣡वृधम् अ꣡धि धा द्युम्न꣡म् अस्मे꣡  
+म꣡हि क्षत्रं꣡ जनाषा꣡ऌ इन्द्र त꣡व्यम्  
+र꣡क्षा च नो मघो꣡नः पाहि꣡ सूरी꣡न्  
+राये꣡ च नः सुअपत्या꣡ इषे꣡ धाः  

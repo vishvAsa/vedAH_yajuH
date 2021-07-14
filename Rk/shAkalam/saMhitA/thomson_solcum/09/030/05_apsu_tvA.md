@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-apsú tvā mádhumattamaṃ  
-háriṃ hinvanti ádribhiḥ  
-índav índrāya pītáye  
+अप्सु꣡ त्वा म꣡धुमत्तमं  
+ह꣡रिं हिन्वन्ति अ꣡द्रिभिः  
+इ꣡न्दव् इ꣡न्द्राय पीत꣡ये  

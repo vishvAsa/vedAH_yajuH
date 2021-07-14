@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-papr̥kṣéṇyam indara+ tvé hí ójo  
-nr̥mṇā́ni ca nr̥támāno ámartaḥ  
-sá na énīṃ vasavāno rayíṃ dāḥ  
-prā́ryá stuṣe tuvimaghásya dā́nam  
+पपृक्षे꣡ण्यम् इन्दर+ त्वे꣡ हि꣡ ओ꣡जो  
+नृम्णा꣡नि च नृत꣡मानो अ꣡मर्तः  
+स꣡ न ए꣡नीं वसवानो रयिं꣡ दाः  
+प्रा꣡र्य꣡ स्तुषे तुविमघ꣡स्य दा꣡नम्  

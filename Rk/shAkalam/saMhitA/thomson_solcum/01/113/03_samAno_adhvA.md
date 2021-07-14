@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-samānó ádhvā svásaror anantás  
-tám anyā́nyā carato deváśiṣṭe  
-ná methete ná tasthatuḥ suméke  
-náktoṣā́sā sámanasā vírūpe  
+समानो꣡ अ꣡ध्वा स्व꣡सरोर् अनन्त꣡स्  
+त꣡म् अन्या꣡न्या चरतो देव꣡शिष्टे  
+न꣡ मेथेते न꣡ तस्थतुः सुमे꣡के  
+न꣡क्तोषा꣡सा स꣡मनसा वि꣡रूपे  

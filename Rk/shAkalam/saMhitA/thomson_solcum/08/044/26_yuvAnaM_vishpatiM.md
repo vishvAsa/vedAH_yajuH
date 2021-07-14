@@ -2,6 +2,6 @@
 title = "026"
 
 +++
-yúvānaṃ viśpátiṃ kavíṃ  
-viśvā́dam puruvépasam  
-agníṃ śumbhāmi mánmabhiḥ  
+यु꣡वानं विश्प꣡तिं कविं꣡  
+विश्वा꣡दम् पुरुवे꣡पसम्  
+अग्निं꣡ शुम्भामि म꣡न्मभिः  

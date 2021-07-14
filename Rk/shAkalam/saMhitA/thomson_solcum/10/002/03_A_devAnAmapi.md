@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ devā́nām ápi pánthām aganma  
-yác chaknávāma tád ánu právoḷhum  
-agnír vidvā́n sá yajāt séd u hótā  
-só adhvarā́n sá r̥tū́n kalpayāti  
+आ꣡ देवा꣡नाम् अ꣡पि प꣡न्थाम् अगन्म  
+य꣡च् छक्न꣡वाम त꣡द् अ꣡नु प्र꣡वोऌहुम्  
+अग्नि꣡र् विद्वा꣡न् स꣡ यजात् से꣡द् उ हो꣡ता  
+सो꣡ अध्वरा꣡न् स꣡ ऋतू꣡न् कल्पयाति  

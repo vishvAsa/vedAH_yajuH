@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-kápr̥n naraḥ kapr̥thám úd dadhātana  
-codáyata khudáta vā́jasātaye  
-niṣṭigríyaḥ putrám ā́ cyāvayotáya  
-índraṃ sabā́dha ihá sómapītaye  
+क꣡पृन् नरः कपृथ꣡म् उ꣡द् दधातन  
+चोद꣡यत खुद꣡त वा꣡जसातये  
+निष्टिग्रि꣡यः पुत्र꣡म् आ꣡ च्यावयोत꣡य  
+इ꣡न्द्रं सबा꣡ध इह꣡ सो꣡मपीतये  

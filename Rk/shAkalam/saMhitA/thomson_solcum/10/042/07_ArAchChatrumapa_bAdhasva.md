@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ārā́c chátrum ápa bādhasva dūrám  
-ugró yáḥ śámbaḥ puruhūta téna  
-asmé dhehi yávamad gómad indra  
-kr̥dhī́ dhíyaṃ jaritré vā́jaratnām  
+आरा꣡च् छ꣡त्रुम् अ꣡प बाधस्व दूर꣡म्  
+उग्रो꣡ यः꣡ श꣡म्बः पुरुहूत ते꣡न  
+अस्मे꣡ धेहि य꣡वमद् गो꣡मद् इन्द्र  
+कृधी꣡ धि꣡यं जरित्रे꣡ वा꣡जरत्नाम्  

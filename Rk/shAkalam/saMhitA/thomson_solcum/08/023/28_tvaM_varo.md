@@ -2,6 +2,6 @@
 title = "028"
 
 +++
-tuváṃ varo suṣā́maṇe  
-ágne jánāya codaya  
-sádā vaso rātíṃ yaviṣṭha śáśvate  
+तुवं꣡ वरो सुषा꣡मणे  
+अ꣡ग्ने ज꣡नाय चोदय  
+स꣡दा वसो रातिं꣡ यविष्ठ श꣡श्वते  

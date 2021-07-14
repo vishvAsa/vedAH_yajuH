@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-dvayā́m̐ agne rathíno viṃśatíṃ gā́  
-vadhū́mato maghávā máhya° samrā́ṭ  
-abhyāvartī́ cāyamānó dadāti  
-dūṇā́śeyáṃ dákṣiṇā pārthavā́nām  
+द्वयाँ꣡ अग्ने रथि꣡नो विंशतिं꣡ गा꣡  
+वधू꣡मतो मघ꣡वा म꣡ह्य° सम्रा꣡ट्  
+अभ्यावर्ती꣡ चायमानो꣡ ददाति  
+दूणा꣡शेयं꣡ द꣡क्षिणा पार्थवा꣡नाम्  

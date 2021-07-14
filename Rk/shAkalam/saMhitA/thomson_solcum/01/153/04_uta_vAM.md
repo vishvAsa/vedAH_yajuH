@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-utá vāṃ vikṣú mádiyāsu ándho  
-gā́va ā́paś ca pīpayanta devī́ḥ  
-utó no asyá pūrviyáḥ pátir dán  
-vītám pātám páyasa usríyāyāḥ  
+उत꣡ वां विक्षु꣡ म꣡दियासु अ꣡न्धो  
+गा꣡व आ꣡पश् च पीपयन्त देवीः꣡  
+उतो꣡ नो अस्य꣡ पूर्वियः꣡ प꣡तिर् द꣡न्  
+वीत꣡म् पात꣡म् प꣡यस उस्रि꣡यायाः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-nítyaṃ ná sūnúm mádhu bíbhrata úpa  
-krī́ḷanti krīḷā́ vidátheṣu ghŕ̥ṣvayaḥ  
-nákṣanti rudrā́ ávasā namasvínaṃ  
-ná mardhanti svátavaso haviṣkŕ̥tam  
+नि꣡त्यं न꣡ सूनु꣡म् म꣡धु बि꣡भ्रत उ꣡प  
+क्री꣡ऌअन्ति क्रीऌआ꣡ विद꣡थेषु घ्ŕ̥ष्वयः  
+न꣡क्षन्ति रुद्रा꣡ अ꣡वसा नमस्वि꣡नं  
+न꣡ मर्धन्ति स्व꣡तवसो हविष्क्ŕ̥तम्  

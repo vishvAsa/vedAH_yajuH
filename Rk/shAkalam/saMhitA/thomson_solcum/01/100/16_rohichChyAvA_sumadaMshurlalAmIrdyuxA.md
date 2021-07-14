@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-rohíc chyāvā́ sumádaṃśur lalāmī́r  
-diyukṣā́ rāyá r̥jarā́śuvasya  
-vŕ̥ṣaṇvantam bíbhratī dhūrṣú rátham  
-mandrā́ ciketa nā́huṣīṣu vikṣú  
+रोहि꣡च् छ्यावा꣡ सुम꣡दंशुर् ललामी꣡र्  
+दियुक्षा꣡ राय꣡ ऋजरा꣡शुवस्य  
+व्ŕ̥षण्वन्तम् बि꣡भ्रती धूर्षु꣡ र꣡थम्  
+मन्द्रा꣡ चिकेत ना꣡हुषीषु विक्षु꣡  

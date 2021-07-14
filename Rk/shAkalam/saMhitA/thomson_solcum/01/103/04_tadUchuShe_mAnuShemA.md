@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tád ūcúṣe mā́nuṣemā́ yugā́ni  
-kīrténiyam maghávā nā́ma bíbhrat  
-upaprayán dasyuhátyāya vajrī́  
-yád dha sūnúḥ śrávase nā́ma dadhé  
+त꣡द् ऊचु꣡षे मा꣡नुषेमा꣡ युगा꣡नि  
+कीर्ते꣡नियम् मघ꣡वा ना꣡म बि꣡भ्रत्  
+उपप्रय꣡न् दस्युह꣡त्याय वज्री꣡  
+य꣡द् ध सूनुः꣡ श्र꣡वसे ना꣡म दधे꣡  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́jipate nr̥pate tuvám íd dhí no  
-vā́ja ā́ vakṣi sukrato  
-vītī́ hótrābhir utá devávītibhiḥ  
-sasavā́ṃso ví śr̥ṇvire  
+आ꣡जिपते नृपते तुव꣡म् इ꣡द् धि꣡ नो  
+वा꣡ज आ꣡ वक्षि सुक्रतो  
+वीती꣡ हो꣡त्राभिर् उत꣡ देव꣡वीतिभिः  
+ससवां꣡सो वि꣡ शृण्विरे  

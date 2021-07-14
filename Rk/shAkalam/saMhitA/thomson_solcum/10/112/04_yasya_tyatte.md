@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yásya tyát te mahimā́nam mádeṣu  
-imé mahī́ ródasī nā́viviktām  
-tád óka ā́ háribhir indra yuktaíḥ  
-priyébhir yāhi priyám ánnam ácha  
+य꣡स्य त्य꣡त् ते महिमा꣡नम् म꣡देषु  
+इमे꣡ मही꣡ रो꣡दसी ना꣡विविक्ताम्  
+त꣡द् ओ꣡क आ꣡ ह꣡रिभिर् इन्द्र युक्तइः꣡  
+प्रिये꣡भिर् याहि प्रिय꣡म् अ꣡न्नम् अ꣡छ  

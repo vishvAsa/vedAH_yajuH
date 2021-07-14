@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-práti tyáṃ cā́rum adhvaráṃ  
-gopīthā́ya prá hūyase  
-marúdbhir agna ā́ gahi  
+प्र꣡ति त्यं꣡ चा꣡रुम् अध्वरं꣡  
+गोपीथा꣡य प्र꣡ हूयसे  
+मरु꣡द्भिर् अग्न आ꣡ गहि  

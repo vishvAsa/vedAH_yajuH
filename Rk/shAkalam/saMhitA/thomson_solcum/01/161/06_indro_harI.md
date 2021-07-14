@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-índro hárī yuyujé aśvínā rátham  
-bŕ̥haspátir viśvárūpām úpājata  
-r̥bhúr víbhvā vā́jo devā́m̐ agachata  
-suápaso yajñíyam bhāgám aitana  
+इ꣡न्द्रो ह꣡री युयुजे꣡ अश्वि꣡ना र꣡थम्  
+ब्ŕ̥हस्प꣡तिर् विश्व꣡रूपाम् उ꣡पाजत  
+ऋभु꣡र् वि꣡भ्वा वा꣡जो देवाँ꣡ अगछत  
+सुअ꣡पसो यज्ञि꣡यम् भाग꣡म् ऐतन  

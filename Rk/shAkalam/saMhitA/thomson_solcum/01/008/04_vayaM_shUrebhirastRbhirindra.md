@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-vayáṃ śū́rebhir ástr̥bhir  
-índra tváyā yujā́ vayám  
-sāsahyā́ma pr̥tanyatáḥ  
+वयं꣡ शू꣡रेभिर् अ꣡स्तृभिर्  
+इ꣡न्द्र त्व꣡या युजा꣡ वय꣡म्  
+सासह्या꣡म पृतन्यतः꣡  

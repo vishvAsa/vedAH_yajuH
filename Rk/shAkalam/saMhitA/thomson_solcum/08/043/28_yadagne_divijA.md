@@ -2,6 +2,6 @@
 title = "028"
 
 +++
-yád agne divijā́ ási  
-apsujā́ vā sahaskr̥ta  
-táṃ tvā gīrbhír havāmahe  
+य꣡द् अग्ने दिविजा꣡ अ꣡सि  
+अप्सुजा꣡ वा सहस्कृत  
+तं꣡ त्वा गीर्भि꣡र् हवामहे  

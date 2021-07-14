@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-yūyáṃ hí ṣṭhā́ sudānava  
-índrajyeṣṭhā abhídyavaḥ  
-ádhā cid va utá bruve  
+यूयं꣡ हि꣡ ष्ठा꣡ सुदानव  
+इ꣡न्द्रज्येष्ठा अभि꣡द्यवः  
+अ꣡धा चिद् व उत꣡ ब्रुवे  

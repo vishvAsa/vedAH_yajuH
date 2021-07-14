@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ágne tr̥tī́ye sávane hí kā́niṣaḥ  
-puroḷā́śaṃ sahasaḥ sūnav ā́hutam  
-áthā devéṣu adhvaráṃ vipanyáyā  
-dhā́ rátnavantam amŕ̥teṣu jā́gr̥vim  
+अ꣡ग्ने तृती꣡ये स꣡वने हि꣡ का꣡निषः  
+पुरोऌआ꣡शं सहसः सूनव् आ꣡हुतम्  
+अ꣡था देवे꣡षु अध्वरं꣡ विपन्य꣡या  
+धा꣡ र꣡त्नवन्तम् अम्ŕ̥तेषु जा꣡गृविम्  

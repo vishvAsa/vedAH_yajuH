@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuvā́ṃ víśve sajóṣaso  
-devā́so dūtám akrata  
-saparyántas tuvā kave  
-yajñéṣu devám īḷate  
+तुवां꣡ वि꣡श्वे सजो꣡षसो  
+देवा꣡सो दूत꣡म् अक्रत  
+सपर्य꣡न्तस् तुवा कवे  
+यज्ञे꣡षु देव꣡म् ईऌअते  

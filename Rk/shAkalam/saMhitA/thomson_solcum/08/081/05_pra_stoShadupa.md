@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-prá stoṣad úpa gāsiṣac  
-chrávat sā́ma gīyámānam  
-abhí rā́dhasā jugurat  
+प्र꣡ स्तोषद् उ꣡प गासिषच्  
+छ्र꣡वत् सा꣡म गीय꣡मानम्  
+अभि꣡ रा꣡धसा जुगुरत्  

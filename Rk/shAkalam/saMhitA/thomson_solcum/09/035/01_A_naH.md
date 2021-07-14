@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ā́ naḥ pavasva dhā́rayā  
-pávamāna rayím pr̥thúm  
-yáyā jyótir vidā́si naḥ  
+आ꣡ नः पवस्व धा꣡रया  
+प꣡वमान रयि꣡म् पृथु꣡म्  
+य꣡या ज्यो꣡तिर् विदा꣡सि नः  

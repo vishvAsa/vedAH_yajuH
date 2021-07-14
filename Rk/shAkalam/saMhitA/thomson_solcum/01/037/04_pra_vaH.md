@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-prá vaḥ śárdhāya ghŕ̥ṣvaye  
-tveṣádyumnāya śuṣmíṇe  
-deváttam bráhma gāyata  
+प्र꣡ वः श꣡र्धाय घ्ŕ̥ष्वये  
+त्वेष꣡द्युम्नाय शुष्मि꣡णे  
+देव꣡त्तम् ब्र꣡ह्म गायत  

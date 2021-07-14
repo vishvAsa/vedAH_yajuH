@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-ánu pratnásya ókaso  
-huvé tuvipratíṃ náram  
-yáṃ te pū́rvam pitā́ huvé  
+अ꣡नु प्रत्न꣡स्य ओ꣡कसो  
+हुवे꣡ तुविप्रतिं꣡ न꣡रम्  
+यं꣡ ते पू꣡र्वम् पिता꣡ हुवे꣡  

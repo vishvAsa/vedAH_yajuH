@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sámiddhasya śráyamāṇaḥ purástād  
-bráhma vanvānó ajáraṃ suvī́ram  
-āré asmád ámatim bā́dhamāna  
-úc chrayasva mahaté saúbhagāya  
+स꣡मिद्धस्य श्र꣡यमाणः पुर꣡स्ताद्  
+ब्र꣡ह्म वन्वानो꣡ अज꣡रं सुवी꣡रम्  
+आरे꣡ अस्म꣡द् अ꣡मतिम् बा꣡धमान  
+उ꣡च् छ्रयस्व महते꣡ सउ꣡भगाय  

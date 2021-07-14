@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-maínam agne ví daho mā́bhí śoco  
-mā́sya tvácaṃ cikṣipo mā́ śárīram  
-yadā́ śr̥táṃ kr̥ṇávo jātavedo  
-áthem enam prá hiṇutāt pitŕ̥bhyaḥ  
+मइ꣡नम् अग्ने वि꣡ दहो मा꣡भि꣡ शोचो  
+मा꣡स्य त्व꣡चं चिक्षिपो मा꣡ श꣡रीरम्  
+यदा꣡ शृतं꣡ कृण꣡वो जातवेदो  
+अ꣡थेम् एनम् प्र꣡ हिणुतात् पित्ŕ̥भ्यः  

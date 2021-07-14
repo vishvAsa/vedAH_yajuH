@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-jyeṣṭhá āha camasā́ dvā́ karéti  
-kánīyān trī́n kr̥ṇavāméti āha  
-kaniṣṭhá āha catúras karéti  
-tváṣṭa rbhavas tát panayad váco vaḥ  
+ज्येष्ठ꣡ आह चमसा꣡ द्वा꣡ करे꣡ति  
+क꣡नीयान् त्री꣡न् कृणवामे꣡ति आह  
+कनिष्ठ꣡ आह चतु꣡रस् करे꣡ति  
+त्व꣡ष्ट र्भवस् त꣡त् पनयद् व꣡चो वः  

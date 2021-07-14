@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-anyé jāyā́m pári mr̥śanti asya  
-yásyā́gr̥dhad védane vājī́ akṣáḥ  
-pitā́ mātā́ bhrā́tara enam āhur  
-ná jānīmo náyatā baddhám etám  
+अन्ये꣡ जाया꣡म् प꣡रि मृशन्ति अस्य  
+य꣡स्या꣡गृधद् वे꣡दने वाजी꣡ अक्षः꣡  
+पिता꣡ माता꣡ भ्रा꣡तर एनम् आहुर्  
+न꣡ जानीमो न꣡यता बद्ध꣡म् एत꣡म्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ūrdhvó agníḥ sumatíṃ vásvo aśret  
-pratīcī́ jūrṇír devátātim eti  
-bhejā́te ádrī rathíyeva pánthām  
-r̥táṃ hótā na iṣitó yajāti  
+ऊर्ध्वो꣡ अग्निः꣡ सुमतिं꣡ व꣡स्वो अश्रेत्  
+प्रतीची꣡ जूर्णि꣡र् देव꣡तातिम् एति  
+भेजा꣡ते अ꣡द्री रथि꣡येव प꣡न्थाम्  
+ऋतं꣡ हो꣡ता न इषितो꣡ यजाति  

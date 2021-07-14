@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-práti yád ā́po ádr̥śram āyatī́r  
-ghr̥tám páyāṃsi bíbhratīr mádhūni  
-adhvaryúbhir mánasā saṃvidānā́  
-índrāya sómaṃ súṣutam bhárantīḥ  
+प्र꣡ति य꣡द् आ꣡पो अ꣡दृश्रम् आयती꣡र्  
+घृत꣡म् प꣡यांसि बि꣡भ्रतीर् म꣡धूनि  
+अध्वर्यु꣡भिर् म꣡नसा संविदाना꣡  
+इ꣡न्द्राय सो꣡मं सु꣡षुतम् भ꣡रन्तीः  

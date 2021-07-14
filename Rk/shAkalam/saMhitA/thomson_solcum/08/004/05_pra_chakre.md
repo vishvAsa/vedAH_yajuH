@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá cakre sáhasā sáho  
-babháñja manyúm ójasā  
-víśve ta indra pr̥tanāyávo yaho  
-ní vr̥kṣā́ iva yemire  
+प्र꣡ चक्रे स꣡हसा स꣡हो  
+बभ꣡ञ्ज मन्यु꣡म् ओ꣡जसा  
+वि꣡श्वे त इन्द्र पृतनाय꣡वो यहो  
+नि꣡ वृक्षा꣡ इव येमिरे  

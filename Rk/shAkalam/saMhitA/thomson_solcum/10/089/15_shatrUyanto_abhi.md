@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-śatrūyánto abhí yé nas tatasré  
-máhi vrā́dhanta ogaṇā́sa indra  
-andhénāmítrās támasā sacantāṃ  
-sujyotíṣo aktávas tā́m̐ abhí ṣyuḥ  
+शत्रूय꣡न्तो अभि꣡ ये꣡ नस् ततस्रे꣡  
+म꣡हि व्रा꣡धन्त ओगणा꣡स इन्द्र  
+अन्धे꣡नामि꣡त्रास् त꣡मसा सचन्तां  
+सुज्योति꣡षो अक्त꣡वस् ताँ꣡ अभि꣡ ष्युः  

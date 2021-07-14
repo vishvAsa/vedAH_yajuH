@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-duvā́daśāraṃ nahí táj járāya  
-várvarti cakrám pári dyā́m r̥tásya  
-ā́ putrā́ agne mithunā́so átra  
-saptá śatā́ni viṃśatíś ca tasthuḥ  
+दुवा꣡दशारं नहि꣡ त꣡ज् ज꣡राय  
+व꣡र्वर्ति चक्र꣡म् प꣡रि द्या꣡म् ऋत꣡स्य  
+आ꣡ पुत्रा꣡ अग्ने मिथुना꣡सो अ꣡त्र  
+सप्त꣡ शता꣡नि विंशति꣡श् च तस्थुः  

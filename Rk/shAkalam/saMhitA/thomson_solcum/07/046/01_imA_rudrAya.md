@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imā́ rudrā́ya sthirádhanvane gíraḥ  
-kṣipráiṣave devā́ya svadhā́vane  
-áṣāḷhāya sáhamānāya vedháse  
-tigmā́yudhāya bharatā śr̥ṇótu naḥ  
+इमा꣡ रुद्रा꣡य स्थिर꣡धन्वने गि꣡रः  
+क्षिप्र꣡इषवे देवा꣡य स्वधा꣡वने  
+अ꣡षाऌहाय स꣡हमानाय वेध꣡से  
+तिग्मा꣡युधाय भरता शृणो꣡तु नः  

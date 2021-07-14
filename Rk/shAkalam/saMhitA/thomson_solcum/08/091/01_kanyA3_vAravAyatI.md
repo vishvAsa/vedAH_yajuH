@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-kaníyā vā́r avāyatī́  
-sómam ápi srutā́vidat  
-ástam bháranti abravīd  
-índrāya sunavai tuvā  
-śakrā́ya sunavai tuvā  
+कनि꣡या वा꣡र् अवायती꣡  
+सो꣡मम् अ꣡पि स्रुता꣡विदत्  
+अ꣡स्तम् भ꣡रन्ति अब्रवीद्  
+इ꣡न्द्राय सुनवै तुवा  
+शक्रा꣡य सुनवै तुवा  

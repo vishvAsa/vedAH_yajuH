@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-idáṃ vām āsíye havíḥ  
-priyám indrābr̥haspatī  
-ukthám mádaś ca śasyate  
+इदं꣡ वाम् आसि꣡ये हविः꣡  
+प्रिय꣡म् इन्द्राबृहस्पती  
+उक्थ꣡म् म꣡दश् च शस्यते  

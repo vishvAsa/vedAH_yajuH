@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tám evá ŕ̥ṣiṃ tám u brahmā́ṇam āhur  
-yajñaníyaṃ sāmagā́m ukthaśā́sam  
-sá śukrásya tanúvo veda tisró  
-yáḥ prathamó dákṣiṇayā rarā́dha  
+त꣡म् एव꣡ ŕ̥षिं त꣡म् उ ब्रह्मा꣡णम् आहुर्  
+यज्ञनि꣡यं सामगा꣡म् उक्थशा꣡सम्  
+स꣡ शुक्र꣡स्य तनु꣡वो वेद तिस्रो꣡  
+यः꣡ प्रथमो꣡ द꣡क्षिणया ररा꣡ध  

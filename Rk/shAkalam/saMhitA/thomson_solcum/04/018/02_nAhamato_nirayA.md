@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-nā́hám áto nír ayā durgáhaitát  
-tiraścátā pārśuvā́n nír gamāṇi  
-bahū́ni me ákr̥tā kártuvāni  
-yúdhyai tuvena sáṃ tuvena pr̥chai  
+ना꣡ह꣡म् अ꣡तो नि꣡र् अया दुर्ग꣡हैत꣡त्  
+तिरश्च꣡ता पार्शुवा꣡न् नि꣡र् गमाणि  
+बहू꣡नि मे अ꣡कृता क꣡र्तुवानि  
+यु꣡ध्यै तुवेन सं꣡ तुवेन पृछै  

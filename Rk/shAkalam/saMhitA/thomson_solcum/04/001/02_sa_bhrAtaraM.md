@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-sá bhrā́taraṃ váruṇam agna ā́ vavr̥tsva  
-devā́m̐ áchā sumatī́ yajñávanasaṃ  
-jyáyiṣṭhaṃ+ yajñávanasam  
-r̥tā́vānam ādityáṃ carṣaṇīdhŕ̥taṃ  
-rā́jānaṃ carṣaṇīdhŕ̥tam  
+स꣡ भ्रा꣡तरं व꣡रुणम् अग्न आ꣡ ववृत्स्व  
+देवाँ꣡ अ꣡छा सुमती꣡ यज्ञ꣡वनसं  
+ज्य꣡यिष्ठं+ यज्ञ꣡वनसम्  
+ऋता꣡वानम् आदित्यं꣡ चर्षणीध्ŕ̥तं  
+रा꣡जानं चर्षणीध्ŕ̥तम्  

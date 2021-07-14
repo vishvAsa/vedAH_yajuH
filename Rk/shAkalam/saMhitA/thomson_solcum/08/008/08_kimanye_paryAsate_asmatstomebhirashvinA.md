@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-kím anyé pári āsate  
-asmát stómebhir aśvínā  
-putráḥ káṇvasya vām ŕ̥ṣir  
-gīrbhír vatsó avīvr̥dhat  
+कि꣡म् अन्ये꣡ प꣡रि आसते  
+अस्म꣡त् स्तो꣡मेभिर् अश्वि꣡ना  
+पुत्रः꣡ क꣡ण्वस्य वाम् ŕ̥षिर्  
+गीर्भि꣡र् वत्सो꣡ अवीवृधत्  

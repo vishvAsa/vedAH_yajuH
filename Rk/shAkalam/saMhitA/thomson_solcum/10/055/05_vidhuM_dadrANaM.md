@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vidhúṃ dadrāṇáṃ sámane bahūnā́ṃ  
-yúvānaṃ sántam palitó jagāra  
-devásya paśya kā́viyam mahitvā́  
-adyā́ mamā́ra sá hiyáḥ sám āna  
+विधुं꣡ दद्राणं꣡ स꣡मने बहूनां꣡  
+यु꣡वानं स꣡न्तम् पलितो꣡ जगार  
+देव꣡स्य पश्य का꣡वियम् महित्वा꣡  
+अद्या꣡ ममा꣡र स꣡ हियः꣡ स꣡म् आन  

@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-r̥bhumántā vr̥ṣaṇā vā́javantā  
-marútvantā jaritúr gachatho hávam  
-sajóṣasā uṣásā sū́riyeṇa ca  
-ādityaír yātam aśvinā  
+ऋभुम꣡न्ता वृषणा वा꣡जवन्ता  
+मरु꣡त्वन्ता जरितु꣡र् गछथो ह꣡वम्  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+आदित्यइ꣡र् यातम् अश्विना  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-inó rājann · aratíḥ sámiddho  
-raúdro dákṣāya suṣumā́m̐ adarśi  
-cikíd ví bhāti bhãsā́ br̥hatā́  
-ásiknīm eti rúśatīm apā́jan  
+इनो꣡ राजन्न् · अरतिः꣡ स꣡मिद्धो  
+रउ꣡द्रो द꣡क्षाय सुषुमाँ꣡ अदर्शि  
+चिकि꣡द् वि꣡ भाति भ्ãसा꣡ बृहता꣡  
+अ꣡सिक्नीम् एति रु꣡शतीम् अपा꣡जन्  

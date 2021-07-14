@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ukthabhŕ̥taṃ sāmabhŕ̥tam bibharti  
-grā́vāṇam bíbhrat prá vadāti ágre  
-úpainam ādhvaṃ sumanasyámānā  
-ā́ vo gachāti pratr̥do vásiṣṭhaḥ  
+उक्थभ्ŕ̥तं सामभ्ŕ̥तम् बिभर्ति  
+ग्रा꣡वाणम् बि꣡भ्रत् प्र꣡ वदाति अ꣡ग्रे  
+उ꣡पैनम् आध्वं सुमनस्य꣡माना  
+आ꣡ वो गछाति प्रतृदो व꣡सिष्ठः  

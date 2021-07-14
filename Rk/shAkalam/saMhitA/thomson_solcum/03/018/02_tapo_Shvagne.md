@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tápo ṣú agne ántarām̐ amítrān  
-tápā śáṃsam áraruṣaḥ párasya  
-tápo vaso cikitānó acíttān  
-ví te tiṣṭhantām ajárā ayā́saḥ  
+त꣡पो षु꣡ अग्ने अ꣡न्तराँ अमि꣡त्रान्  
+त꣡पा शं꣡सम् अ꣡ररुषः प꣡रस्य  
+त꣡पो वसो चिकितानो꣡ अचि꣡त्तान्  
+वि꣡ ते तिष्ठन्ताम् अज꣡रा अया꣡सः  

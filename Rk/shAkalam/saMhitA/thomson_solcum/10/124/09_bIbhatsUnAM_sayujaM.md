@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-bībhatsū́nāṃ sayújaṃ haṃsám āhur  
-apā́ṃ divyā́nāṃ sakhiyé cárantam  
-anuṣṭúbham ánu carcūryámāṇam  
-índraṃ ní cikyuḥ kaváyo manīṣā́  
+बीभत्सू꣡नां सयु꣡जं हंस꣡म् आहुर्  
+अपां꣡ दिव्या꣡नां सखिये꣡ च꣡रन्तम्  
+अनुष्टु꣡भम् अ꣡नु चर्चूर्य꣡माणम्  
+इ꣡न्द्रं नि꣡ चिक्युः कव꣡यो मनीषा꣡  

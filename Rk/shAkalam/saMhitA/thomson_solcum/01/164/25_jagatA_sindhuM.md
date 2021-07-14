@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-jágatā síndhuṃ diví astabhāyad  
-rathaṃtaré sū́riyam páry apaśyat  
-gāyatrásya samídhas tisrá āhus  
-táto mahnā́ prá ririce mahitvā́  
+ज꣡गता सि꣡न्धुं दिवि꣡ अस्तभायद्  
+रथंतरे꣡ सू꣡रियम् प꣡र्य् अपश्यत्  
+गायत्र꣡स्य समि꣡धस् तिस्र꣡ आहुस्  
+त꣡तो मह्ना꣡ प्र꣡ रिरिचे महित्वा꣡  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sámiddham agníṃ samídhā girā́ gr̥ṇe  
-śúcim pavākám+ puró adhvaré dhruvám  
-vípraṃ hótāram puruvā́ram adrúhaṃ  
-kavíṃ sumnaír īmahe jātávedasam  
+स꣡मिद्धम् अग्निं꣡ समि꣡धा गिरा꣡ गृणे  
+शु꣡चिम् पवाक꣡म्+ पुरो꣡ अध्वरे꣡ ध्रुव꣡म्  
+वि꣡प्रं हो꣡तारम् पुरुवा꣡रम् अद्रु꣡हं  
+कविं꣡ सुम्नइ꣡र् ईमहे जात꣡वेदसम्  

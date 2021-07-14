@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ádha krátvā maghavan túbhya° devā́  
-ánu víśve adaduḥ somapéyam  
-yát sū́riyasya harítaḥ pátantīḥ  
-puráḥ satī́r úparā étaśe káḥ  
+अ꣡ध क्र꣡त्वा मघवन् तु꣡भ्य° देवा꣡  
+अ꣡नु वि꣡श्वे अददुः सोमपे꣡यम्  
+य꣡त् सू꣡रियस्य हरि꣡तः प꣡तन्तीः  
+पुरः꣡ सती꣡र् उ꣡परा ए꣡तशे कः꣡  

@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ádhā ha yád vayám agne tuvāyā́  
-paḍbhír hástebhiś cakr̥mā́ tanū́bhiḥ  
-ráthaṃ ná kránto ápasā bhuríjor  
-r̥táṃ yemuḥ sudhíya āśuṣāṇā́ḥ  
+अ꣡धा ह य꣡द् वय꣡म् अग्ने तुवाया꣡  
+पड्भि꣡र् ह꣡स्तेभिश् चकृमा꣡ तनू꣡भिः  
+र꣡थं न꣡ क्र꣡न्तो अ꣡पसा भुरि꣡जोर्  
+ऋतं꣡ येमुः सुधि꣡य आशुषाणाः꣡  

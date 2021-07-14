@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-abhrātéva puṃsá eti pratīcī́  
-gartārúg iva sanáye dhánānām  
-jāyéva pátya uśatī́ suvā́sā  
-uṣā́ hasréva ní riṇīte ápsaḥ  
+अभ्राते꣡व पुंस꣡ एति प्रतीची꣡  
+गर्तारु꣡ग् इव सन꣡ये ध꣡नानाम्  
+जाये꣡व प꣡त्य उशती꣡ सुवा꣡सा  
+उषा꣡ हस्रे꣡व नि꣡ रिणीते अ꣡प्सः  

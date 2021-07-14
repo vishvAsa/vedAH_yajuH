@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-té avindan mánasā dī́dhiyānā  
-yáju ṣkannám prathamáṃ devayā́nam  
-dhātúr dyútānāt savitúś ca víṣṇor  
-ā́ sū́riyād abharan gharmám eté  
+ते꣡ अविन्दन् म꣡नसा दी꣡धियाना  
+य꣡जु ष्कन्न꣡म् प्रथमं꣡ देवया꣡नम्  
+धातु꣡र् द्यु꣡तानात् सवितु꣡श् च वि꣡ष्णोर्  
+आ꣡ सू꣡रियाद् अभरन् घर्म꣡म् एते꣡  

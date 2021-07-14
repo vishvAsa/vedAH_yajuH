@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sádāsi raṇvó yávaseva púṣyate  
-hótrābhir agne mánuṣaḥ suadhvaráḥ  
-víprasya vā yác chaśamāná ukthíyaṃ  
-vā́jaṃ sasavā́m̐ upayā́si bhū́ribhiḥ  
+स꣡दासि रण्वो꣡ य꣡वसेव पु꣡ष्यते  
+हो꣡त्राभिर् अग्ने म꣡नुषः सुअध्वरः꣡  
+वि꣡प्रस्य वा य꣡च् छशमान꣡ उक्थि꣡यं  
+वा꣡जं ससवाँ꣡ उपया꣡सि भू꣡रिभिः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-kím átra dasrā kr̥ṇuthaḥ kím āsathe°  
-jáno yáḥ káś cid áhavir mahīyáte  
-áti kramiṣṭaṃ jurátam paṇér ásuṃ  
-jyótir víprāya kr̥ṇutaṃ vacasyáve  
+कि꣡म् अ꣡त्र दस्रा कृणुथः कि꣡म् आसथे°  
+ज꣡नो यः꣡ क꣡श् चिद् अ꣡हविर् महीय꣡ते  
+अ꣡ति क्रमिष्टं जुर꣡तम् पणे꣡र् अ꣡सुं  
+ज्यो꣡तिर् वि꣡प्राय कृणुतं वचस्य꣡वे  

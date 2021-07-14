@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-aptū́riye maruta āpír eṣó  
-ámandann índram ánu dā́tivārāḥ  
-tébhiḥ sākám pibatu vr̥trakhādáḥ  
-sutáṃ sómaṃ dāśúṣaḥ své sadhásthe  
+अप्तू꣡रिये मरुत आपि꣡र् एषो꣡  
+अ꣡मन्दन्न् इ꣡न्द्रम् अ꣡नु दा꣡तिवाराः  
+ते꣡भिः साक꣡म् पिबतु वृत्रखादः꣡  
+सुतं꣡ सो꣡मं दाशु꣡षः स्वे꣡ सध꣡स्थे  

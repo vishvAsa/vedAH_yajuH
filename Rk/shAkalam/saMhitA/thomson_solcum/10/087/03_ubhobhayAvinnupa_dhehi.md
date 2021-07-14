@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ubhóbhayāvinn úpa dhehi dáṃṣṭrā  
-hiṃsráḥ śíśāno ávaram páraṃ ca  
-utā́ntárikṣe pári yāhi rājañ  
-jámbhaiḥ sáṃ dhehi abhí yātudhā́nān  
+उभो꣡भयाविन्न् उ꣡प धेहि दं꣡ष्ट्रा  
+हिंस्रः꣡ शि꣡शानो अ꣡वरम् प꣡रं च  
+उता꣡न्त꣡रिक्षे प꣡रि याहि राजञ्  
+ज꣡म्भैः सं꣡ धेहि अभि꣡ यातुधा꣡नान्  

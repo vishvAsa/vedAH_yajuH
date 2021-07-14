@@ -2,7 +2,7 @@
 title = "053"
 
 +++
-utá na enā́ pavayā́ pavasva  
-ádhi śruté śravā́yiyasya tīrthé  
-ṣaṣṭíṃ sahásrā naigutó vásūni  
-vr̥kṣáṃ ná pakváṃ dhūnavad ráṇāya  
+उत꣡ न एना꣡ पवया꣡ पवस्व  
+अ꣡धि श्रुते꣡ श्रवा꣡यियस्य तीर्थे꣡  
+षष्टिं꣡ सह꣡स्रा नैगुतो꣡ व꣡सूनि  
+वृक्षं꣡ न꣡ पक्वं꣡ धूनवद् र꣡णाय  

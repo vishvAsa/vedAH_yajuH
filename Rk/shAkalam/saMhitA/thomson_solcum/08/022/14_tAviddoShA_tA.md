@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-tā́v íd doṣā́ tā́ uṣási śubhás pátī  
-tā́ yā́man rudrávartanī  
-mā́ no mártāya ripáve vājinīvasū  
-paró rudrāv áti khyatam  
+ता꣡व् इ꣡द् दोषा꣡ ता꣡ उष꣡सि शुभ꣡स् प꣡ती  
+ता꣡ या꣡मन् रुद्र꣡वर्तनी  
+मा꣡ नो म꣡र्ताय रिप꣡वे वाजिनीवसू  
+परो꣡ रुद्राव् अ꣡ति ख्यतम्  

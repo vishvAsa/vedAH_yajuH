@@ -2,7 +2,7 @@
 title = "057"
 
 +++
-índuṃ rihanti mahiṣā́ ádabdhāḥ  
-padé rebhanti kaváyo ná gŕ̥dhrāḥ  
-hinvánti dhī́rā daśábhiḥ kṣípābhiḥ  
-sám añjate rūpám apā́ṃ rásena  
+इ꣡न्दुं रिहन्ति महिषा꣡ अ꣡दब्धाः  
+पदे꣡ रेभन्ति कव꣡यो न꣡ ग्ŕ̥ध्राः  
+हिन्व꣡न्ति धी꣡रा दश꣡भिः क्षि꣡पाभिः  
+स꣡म् अञ्जते रूप꣡म् अपां꣡ र꣡सेन  

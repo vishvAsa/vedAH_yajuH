@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ūrjó nápātaṃ subhágaṃ sudī́ditim  
-agníṃ śráyiṣṭhaśociṣam+  
-sá no mitrásya váruṇasya só apā́m  
-ā́ sumnáṃ yakṣate diví  
+ऊर्जो꣡ न꣡पातं सुभ꣡गं सुदी꣡दितिम्  
+अग्निं꣡ श्र꣡यिष्ठशोचिषम्+  
+स꣡ नो मित्र꣡स्य व꣡रुणस्य सो꣡ अपा꣡म्  
+आ꣡ सुम्नं꣡ यक्षते दिवि꣡  

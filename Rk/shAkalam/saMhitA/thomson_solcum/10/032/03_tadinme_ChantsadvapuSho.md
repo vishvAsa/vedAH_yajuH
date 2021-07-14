@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tád ín me chantsad vápuṣo vápuṣṭaram  
-putró yáj jā́nam pitarór+ adhī́yati  
-jāyā́ pátiṃ vahati vagnúnā sumát  
-puṃsá íd bhadró vahatúḥ páriṣkr̥taḥ  
+त꣡द् इ꣡न् मे छन्त्सद् व꣡पुषो व꣡पुष्टरम्  
+पुत्रो꣡ य꣡ज् जा꣡नम् पितरो꣡र्+ अधी꣡यति  
+जाया꣡ प꣡तिं वहति वग्नु꣡ना सुम꣡त्  
+पुंस꣡ इ꣡द् भद्रो꣡ वहतुः꣡ प꣡रिष्कृतः  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yó ávare vr̥jáne viśváthā vibhúr  
-mahā́m u raṇváḥ śávasā vavákṣitha  
-sá devó devā́n práti paprathe pr̥thú  
-víśvéd u tā́ paribhū́r bráhmaṇas pátiḥ  
+यो꣡ अ꣡वरे वृज꣡ने विश्व꣡था विभु꣡र्  
+महा꣡म् उ रण्वः꣡ श꣡वसा वव꣡क्षिथ  
+स꣡ देवो꣡ देवा꣡न् प्र꣡ति पप्रथे पृथु꣡  
+वि꣡श्वे꣡द् उ ता꣡ परिभू꣡र् ब्र꣡ह्मणस् प꣡तिः  

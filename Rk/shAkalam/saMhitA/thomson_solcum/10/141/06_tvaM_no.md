@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuváṃ no agne agníbhir  
-bráhma yajñáṃ ca vardhaya  
-tuváṃ no devátātaye  
-rāyó dā́nāya codaya  
+तुवं꣡ नो अग्ने अग्नि꣡भिर्  
+ब्र꣡ह्म यज्ञं꣡ च वर्धय  
+तुवं꣡ नो देव꣡तातये  
+रायो꣡ दा꣡नाय चोदय  

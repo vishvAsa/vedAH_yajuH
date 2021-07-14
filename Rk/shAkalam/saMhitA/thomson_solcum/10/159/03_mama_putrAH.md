@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-máma putrā́ḥ śatruháṇo  
-átho me duhitā́ virā́ṭ  
-utā́hám asmi saṃjayā́  
-pátyau me ślóka uttamáḥ  
+म꣡म पुत्राः꣡ शत्रुह꣡णो  
+अ꣡थो मे दुहिता꣡ विरा꣡ट्  
+उता꣡ह꣡म् अस्मि संजया꣡  
+प꣡त्यौ मे श्लो꣡क उत्तमः꣡  

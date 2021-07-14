@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-r̥táṃ śáṃsanta r̥jú dī́dhiyānā  
-divás putrā́so ásurasya vīrā́ḥ  
-vípram padám áṅgiraso dádhānā  
-yajñásya dhā́ma prathamám mananta  
+ऋतं꣡ शं꣡सन्त ऋजु꣡ दी꣡धियाना  
+दिव꣡स् पुत्रा꣡सो अ꣡सुरस्य वीराः꣡  
+वि꣡प्रम् पद꣡म् अ꣡ङ्गिरसो द꣡धाना  
+यज्ञ꣡स्य धा꣡म प्रथम꣡म् मनन्त  

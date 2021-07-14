@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-saptā́syāsan paridháyas  
-tríḥ saptá samídhaḥ kr̥tā́ḥ  
-devā́ yád yajñáṃ tanvānā́  
-ábadhnan púruṣam paśúm  
+सप्ता꣡स्यासन् परिध꣡यस्  
+त्रिः꣡ सप्त꣡ समि꣡धः कृताः꣡  
+देवा꣡ य꣡द् यज्ञं꣡ तन्वाना꣡  
+अ꣡बध्नन् पु꣡रुषम् पशु꣡म्  

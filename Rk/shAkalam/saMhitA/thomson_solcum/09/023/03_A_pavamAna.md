@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ā́ pavamāna no bhara  
-aryó ádāśuṣo gáyam  
-kr̥dhí prajā́vatīr íṣaḥ  
+आ꣡ पवमान नो भर  
+अर्यो꣡ अ꣡दाशुषो ग꣡यम्  
+कृधि꣡ प्रजा꣡वतीर् इ꣡षः  

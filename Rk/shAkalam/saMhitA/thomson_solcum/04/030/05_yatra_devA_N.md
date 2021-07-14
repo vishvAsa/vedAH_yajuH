@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yátra devā́m̐ r̥ghāyató  
-víśvām̐ áyudhya éka ít  
-tuvám indra vanū́m̐r áhan  
+य꣡त्र देवाँ꣡ ऋघायतो꣡  
+वि꣡श्वाँ अ꣡युध्य ए꣡क इ꣡त्  
+तुव꣡म् इन्द्र वनूँ꣡र् अ꣡हन्  

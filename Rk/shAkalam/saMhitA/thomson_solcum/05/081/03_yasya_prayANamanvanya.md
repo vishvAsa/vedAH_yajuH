@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yásya prayā́ṇam ánu anyá íd yayúr  
-devā́ devásya mahimā́nam ójasā  
-yáḥ pā́rthivāni vimamé sá étaśo  
-rájāṃsi deváḥ savitā́ mahitvanā́  
+य꣡स्य प्रया꣡णम् अ꣡नु अन्य꣡ इ꣡द् ययु꣡र्  
+देवा꣡ देव꣡स्य महिमा꣡नम् ओ꣡जसा  
+यः꣡ पा꣡र्थिवानि विममे꣡ स꣡ ए꣡तशो  
+र꣡जांसि देवः꣡ सविता꣡ महित्वना꣡  

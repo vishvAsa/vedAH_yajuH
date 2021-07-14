@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sámiddhāgnir vanavat stīrṇábarhir  
-yuktágrāvā sutásomo jarāte  
-grā́vāṇo yásya iṣiráṃ vádanti  
-áyad adhvaryúr havíṣā́va síndhum  
+स꣡मिद्धाग्निर् वनवत् स्तीर्ण꣡बर्हिर्  
+युक्त꣡ग्रावा सुत꣡सोमो जराते  
+ग्रा꣡वाणो य꣡स्य इषिरं꣡ व꣡दन्ति  
+अ꣡यद् अध्वर्यु꣡र् हवि꣡षा꣡व सि꣡न्धुम्  

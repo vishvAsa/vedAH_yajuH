@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-nákir devā minīmasi  
-nákir ā́ yopayāmasi  
-mantraśrútyaṃ carāmasi  
-pakṣébhir apikakṣébhir  
-átrābhí sáṃ rabhāmahe  
+न꣡किर् देवा मिनीमसि  
+न꣡किर् आ꣡ योपयामसि  
+मन्त्रश्रु꣡त्यं चरामसि  
+पक्षे꣡भिर् अपिकक्षे꣡भिर्  
+अ꣡त्राभि꣡ सं꣡ रभामहे  

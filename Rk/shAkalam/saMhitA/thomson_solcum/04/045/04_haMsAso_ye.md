@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-haṃsā́so yé vām mádhumanto asrídho  
-híraṇyaparṇā uhúva uṣarbúdhaḥ  
-udaprúto mandíno mandinispŕ̥śo  
-mádhvo ná mákṣaḥ sávanāni gachathaḥ  
+हंसा꣡सो ये꣡ वाम् म꣡धुमन्तो अस्रि꣡धो  
+हि꣡रण्यपर्णा उहु꣡व उषर्बु꣡धः  
+उदप्रु꣡तो मन्दि꣡नो मन्दिनिस्प्ŕ̥शो  
+म꣡ध्वो न꣡ म꣡क्षः स꣡वनानि गछथः  

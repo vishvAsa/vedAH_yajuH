@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-yé mahó rájaso vidúr  
-víśve devā́so adrúhaḥ  
-marúdbhir agna ā́ gahi  
+ये꣡ महो꣡ र꣡जसो विदु꣡र्  
+वि꣡श्वे देवा꣡सो अद्रु꣡हः  
+मरु꣡द्भिर् अग्न आ꣡ गहि  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ayáṃ yó hótā kír u sá yamásya  
-kám ápy ūhe yát samañjánti devā́ḥ  
-áhar-ahar jāyate māsí-māsi  
-áthā devā́ dadhire havyavā́ham  
+अयं꣡ यो꣡ हो꣡ता कि꣡र् उ स꣡ यम꣡स्य  
+क꣡म् अ꣡प्य् ऊहे य꣡त् समञ्ज꣡न्ति देवाः꣡  
+अ꣡हर्-अहर् जायते मासि꣡-मासि  
+अ꣡था देवा꣡ दधिरे हव्यवा꣡हम्  

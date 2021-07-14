@@ -2,8 +2,8 @@
 title = "008"
 
 +++
-yátra rā́jā vaivasvató  
-yátrāvaródhanaṃ diváḥ  
-yátrāmū́r yahvátīr ā́pas  
-tátra mā́m amŕ̥taṃ kr̥dhi  
-índrāyendo pári srava  
+य꣡त्र रा꣡जा वैवस्वतो꣡  
+य꣡त्रावरो꣡धनं दिवः꣡  
+य꣡त्रामू꣡र् यह्व꣡तीर् आ꣡पस्  
+त꣡त्र मा꣡म् अम्ŕ̥तं कृधि  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

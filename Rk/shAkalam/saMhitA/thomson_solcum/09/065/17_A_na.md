@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-ā́ na indo śatagvínaṃ  
-gávām póṣaṃ suaśviyam  
-váhā bhágattim ūtáye  
+आ꣡ न इन्दो शतग्वि꣡नं  
+ग꣡वाम् पो꣡षं सुअश्वियम्  
+व꣡हा भ꣡गत्तिम् ऊत꣡ये  

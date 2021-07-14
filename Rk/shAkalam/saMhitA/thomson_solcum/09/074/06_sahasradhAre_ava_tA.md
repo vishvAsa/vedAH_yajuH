@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sahásradhāre áva tā́ asaścátas  
-tr̥tī́ye santu rájasi prajā́vatīḥ  
-cátasro nā́bho níhitā avó divó  
-havír bharanti amŕ̥taṃ ghr̥taścútaḥ  
+सह꣡स्रधारे अ꣡व ता꣡ असश्च꣡तस्  
+तृती꣡ये सन्तु र꣡जसि प्रजा꣡वतीः  
+च꣡तस्रो ना꣡भो नि꣡हिता अवो꣡ दिवो꣡  
+हवि꣡र् भरन्ति अम्ŕ̥तं घृतश्चु꣡तः  

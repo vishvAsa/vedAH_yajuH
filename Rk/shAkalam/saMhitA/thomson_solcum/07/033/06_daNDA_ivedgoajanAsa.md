@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-daṇḍā́ ivéd goájanāsa āsan  
-párichinnā bharatā́ arbhakā́saḥ  
-ábhavac ca puraetā́ vásiṣṭha  
-ā́d ít tŕ̥tsūnāṃ víśo aprathanta  
+दण्डा꣡ इवे꣡द् गोअ꣡जनास आसन्  
+प꣡रिछिन्ना भरता꣡ अर्भका꣡सः  
+अ꣡भवच् च पुरएता꣡ व꣡सिष्ठ  
+आ꣡द् इ꣡त् त्ŕ̥त्सूनां वि꣡शो अप्रथन्त  

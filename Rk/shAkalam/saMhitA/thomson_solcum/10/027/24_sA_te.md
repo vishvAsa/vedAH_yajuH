@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-sā́ te jīvā́tur utá tásya viddhi  
-mā́ smaitādŕ̥g ápa gūhaḥ samaryé  
-āvíḥ súvaḥ kr̥ṇuté gū́hate busáṃ  
-sá pādúr asya nirṇíjo ná mucyate  
+सा꣡ ते जीवा꣡तुर् उत꣡ त꣡स्य विद्धि  
+मा꣡ स्मैताद्ŕ̥ग् अ꣡प गूहः समर्ये꣡  
+आविः꣡ सु꣡वः कृणुते꣡ गू꣡हते बुसं꣡  
+स꣡ पादु꣡र् अस्य निर्णि꣡जो न꣡ मुच्यते  

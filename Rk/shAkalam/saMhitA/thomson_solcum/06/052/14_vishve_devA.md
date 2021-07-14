@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-víśve devā́ máma śr̥ṇvantu yajñíyā  
-ubhé ródasī apā́ṃ nápāc ca mánma  
-mā́ vo vácāṃsi paricákṣyāṇi vocaṃ  
-sumnéṣu íd vo ántamā madema  
+वि꣡श्वे देवा꣡ म꣡म शृण्वन्तु यज्ञि꣡या  
+उभे꣡ रो꣡दसी अपां꣡ न꣡पाच् च म꣡न्म  
+मा꣡ वो व꣡चांसि परिच꣡क्ष्याणि वोचं  
+सुम्ने꣡षु इ꣡द् वो अ꣡न्तमा मदेम  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-gr̥ṣṭíḥ sasūva stháviraṃ tavāgā́m  
-anādhr̥ṣyáṃ vr̥ṣabháṃ túmram índram  
-árīḷhaṃ vatsáṃ caráthāya mātā́  
-svayáṃ gātúṃ tanúva ichámānam  
+गृष्टिः꣡ ससूव स्थ꣡विरं तवागा꣡म्  
+अनाधृष्यं꣡ वृषभं꣡ तु꣡म्रम् इ꣡न्द्रम्  
+अ꣡रीऌहं वत्सं꣡ चर꣡थाय माता꣡  
+स्वयं꣡ गातुं꣡ तनु꣡व इछ꣡मानम्  

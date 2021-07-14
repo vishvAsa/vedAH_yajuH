@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-stávā nú ta indra pūrvyā́ mahā́ni  
-utá stavāma nū́tanā kr̥tā́ni  
-stávā vájram bāhuvór uśántaṃ  
-stávā hárī sū́riyasya ketū́  
+स्त꣡वा नु꣡ त इन्द्र पूर्व्या꣡ महा꣡नि  
+उत꣡ स्तवाम नू꣡तना कृता꣡नि  
+स्त꣡वा व꣡ज्रम् बाहुवो꣡र् उश꣡न्तं  
+स्त꣡वा ह꣡री सू꣡रियस्य केतू꣡  

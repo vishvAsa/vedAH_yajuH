@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-ā́ tvā rambháṃ ná jívrayo  
-rarabhmā́ śavasas pate  
-uśmási tvā sadhástha ā́  
+आ꣡ त्वा रम्भं꣡ न꣡ जि꣡व्रयो  
+ररभ्मा꣡ शवसस् पते  
+उश्म꣡सि त्वा सध꣡स्थ आ꣡  

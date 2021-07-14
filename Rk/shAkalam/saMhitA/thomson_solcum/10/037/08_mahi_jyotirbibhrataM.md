@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-máhi jyótir bíbhrataṃ tvā vicakṣaṇa  
-bhã́svantaṃ cákṣuṣe-cakṣuṣe máyaḥ  
-āróhantam br̥hatáḥ pā́jasas pári  
-vayáṃ jīvā́ḥ práti paśyema sūriya  
+म꣡हि ज्यो꣡तिर् बि꣡भ्रतं त्वा विचक्षण  
+भ्ã꣡स्वन्तं च꣡क्षुषे-चक्षुषे म꣡यः  
+आरो꣡हन्तम् बृहतः꣡ पा꣡जसस् प꣡रि  
+वयं꣡ जीवाः꣡ प्र꣡ति पश्येम सूरिय  

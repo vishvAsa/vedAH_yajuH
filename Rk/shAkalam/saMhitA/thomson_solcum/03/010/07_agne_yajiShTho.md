@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ágne yájiṣṭho adhvaré  
-devā́n devayaté yaja  
-hótā mandró ví rājasi áti srídhaḥ  
+अ꣡ग्ने य꣡जिष्ठो अध्वरे꣡  
+देवा꣡न् देवयते꣡ यज  
+हो꣡ता मन्द्रो꣡ वि꣡ राजसि अ꣡ति स्रि꣡धः  

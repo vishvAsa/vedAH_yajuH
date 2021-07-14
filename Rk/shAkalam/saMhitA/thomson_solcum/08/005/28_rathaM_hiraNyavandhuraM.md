@@ -2,6 +2,6 @@
 title = "028"
 
 +++
-ráthaṃ híraṇyavandhuraṃ  
-híraṇyābhīśum aśvinā  
-ā́ hí sthā́tho divispŕ̥śam  
+र꣡थं हि꣡रण्यवन्धुरं  
+हि꣡रण्याभीशुम् अश्विना  
+आ꣡ हि꣡ स्था꣡थो दिविस्प्ŕ̥शम्  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ásmai te pratiháryate  
-jā́tavedo vícarṣaṇe  
-ágne jánāmi suṣṭutím  
+अ꣡स्मै ते प्रतिह꣡र्यते  
+जा꣡तवेदो वि꣡चर्षणे  
+अ꣡ग्ने ज꣡नामि सुष्टुति꣡म्  

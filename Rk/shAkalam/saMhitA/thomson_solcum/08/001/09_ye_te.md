@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yé te sánti daśagvínaḥ  
-śatíno yé sahasríṇaḥ  
-áśvāso yé te vŕ̥ṣaṇo raghudrúvas  
-tébhir nas tū́yam ā́ gahi  
+ये꣡ ते स꣡न्ति दशग्वि꣡नः  
+शति꣡नो ये꣡ सहस्रि꣡णः  
+अ꣡श्वासो ये꣡ ते व्ŕ̥षणो रघुद्रु꣡वस्  
+ते꣡भिर् नस् तू꣡यम् आ꣡ गहि  

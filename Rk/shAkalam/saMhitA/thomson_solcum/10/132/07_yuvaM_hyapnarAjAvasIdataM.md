@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-yuváṃ hí · apnarā́jāv ásīdataṃ  
-tíṣṭhad ráthaṃ ná dhūrṣádaṃ vanarṣádam  
-tā́ naḥ kaṇūkayántīr  
-nr̥médhas tatre áṃhasaḥ  
-sumédhas tatre áṃhasaḥ  
+युवं꣡ हि꣡ · अप्नरा꣡जाव् अ꣡सीदतं  
+ति꣡ष्ठद् र꣡थं न꣡ धूर्ष꣡दं वनर्ष꣡दम्  
+ता꣡ नः कणूकय꣡न्तीर्  
+नृमे꣡धस् तत्रे अं꣡हसः  
+सुमे꣡धस् तत्रे अं꣡हसः  

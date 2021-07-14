@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-pávasva gojíd aśvajíd  
-viśvajít soma raṇyajít  
-prajā́vad rátnam ā́ bhara  
+प꣡वस्व गोजि꣡द् अश्वजि꣡द्  
+विश्वजि꣡त् सोम रण्यजि꣡त्  
+प्रजा꣡वद् र꣡त्नम् आ꣡ भर  

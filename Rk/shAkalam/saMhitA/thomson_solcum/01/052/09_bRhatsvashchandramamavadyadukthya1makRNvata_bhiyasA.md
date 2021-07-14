@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-br̥hát sváścandram ámavad yád ukthíyam  
-ákr̥ṇvata bhiyásā róhaṇaṃ diváḥ  
-yán mā́nuṣapradhanā índram ūtáyaḥ  
-súvar nr̥ṣā́co marútó 'madann ánu  
+बृह꣡त् स्व꣡श्चन्द्रम् अ꣡मवद् य꣡द् उक्थि꣡यम्  
+अ꣡कृण्वत भिय꣡सा रो꣡हणं दिवः꣡  
+य꣡न् मा꣡नुषप्रधना इ꣡न्द्रम् ऊत꣡यः  
+सु꣡वर् नृषा꣡चो मरु꣡तो꣡ ऽमदन्न् अ꣡नु  

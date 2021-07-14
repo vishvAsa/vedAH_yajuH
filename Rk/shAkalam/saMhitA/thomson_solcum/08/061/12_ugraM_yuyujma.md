@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ugráṃ yuyujma pŕ̥tanāsu sāsahím  
-r̥ṇákātim ádābhiyam  
-védā bhr̥máṃ cit sánitā rathī́tamo  
-vājínaṃ yám íd ū náśat  
+उग्रं꣡ युयुज्म प्ŕ̥तनासु सासहि꣡म्  
+ऋण꣡कातिम् अ꣡दाभियम्  
+वे꣡दा भृमं꣡ चित् स꣡निता रथी꣡तमो  
+वाजि꣡नं य꣡म् इ꣡द् ऊ न꣡शत्  

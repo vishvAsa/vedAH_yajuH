@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sā́ma dvibárhā máhi tigmábhr̥ṣṭiḥ  
-sahásraretā vr̥ṣabhás túviṣmān  
-padáṃ ná gór ápagūḷhaṃ vividvā́n  
-agnír máhyam préd u vocan manīṣā́m  
+सा꣡म द्विब꣡र्हा म꣡हि तिग्म꣡भृष्टिः  
+सह꣡स्ररेता वृषभ꣡स् तु꣡विष्मान्  
+पदं꣡ न꣡ गो꣡र् अ꣡पगूऌहं विविद्वा꣡न्  
+अग्नि꣡र् म꣡ह्यम् प्रे꣡द् उ वोचन् मनीषा꣡म्  

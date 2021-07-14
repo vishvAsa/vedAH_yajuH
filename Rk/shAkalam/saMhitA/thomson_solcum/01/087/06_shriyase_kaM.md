@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-śriyáse kám bhānúbhiḥ sám mimikṣire  
-té raśmíbhis tá ŕ̥kvabhiḥ sukhādáyaḥ  
-té vā́śīmanta iṣmíṇo ábhīravo  
-vidré priyásya mā́rutasya dhā́manaḥ  
+श्रिय꣡से क꣡म् भानु꣡भिः स꣡म् मिमिक्षिरे  
+ते꣡ रश्मि꣡भिस् त꣡ ŕ̥क्वभिः सुखाद꣡यः  
+ते꣡ वा꣡शीमन्त इष्मि꣡णो अ꣡भीरवो  
+विद्रे꣡ प्रिय꣡स्य मा꣡रुतस्य धा꣡मनः  

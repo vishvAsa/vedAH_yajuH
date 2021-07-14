@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-vayám enam idā́ hiyó  
-ápīpemehá vajríṇam  
-tásmā u adyá samanā́ sutám bhara  
-ā́ nūnám bhūṣata śruté  
+वय꣡म् एनम् इदा꣡ हियो꣡  
+अ꣡पीपेमेह꣡ वज्रि꣡णम्  
+त꣡स्मा उ अद्य꣡ समना꣡ सुत꣡म् भर  
+आ꣡ नून꣡म् भूषत श्रुते꣡  

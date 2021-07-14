@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-pŕ̥ṣadaśvā marútaḥ pŕ̥śnimātaraḥ  
-śubhaṃyā́vāno vidátheṣu jágmayaḥ  
-agnijihvā́ mánavaḥ sū́racakṣaso  
-víśve no devā́ ávasā́ gamann ihá  
+प्ŕ̥षदश्वा मरु꣡तः प्ŕ̥श्निमातरः  
+शुभंया꣡वानो विद꣡थेषु ज꣡ग्मयः  
+अग्निजिह्वा꣡ म꣡नवः सू꣡रचक्षसो  
+वि꣡श्वे नो देवा꣡ अ꣡वसा꣡ गमन्न् इह꣡  

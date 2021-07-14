@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yásya dvibárhaso br̥hát  
-sáho dādhā́ra ródasī  
-girī́m̐r ájrām̐ apáḥ súvar vr̥ṣatvanā́  
+य꣡स्य द्विब꣡र्हसो बृह꣡त्  
+स꣡हो दाधा꣡र रो꣡दसी  
+गिरीँ꣡र् अ꣡ज्राँ अपः꣡ सु꣡वर् वृषत्वना꣡  

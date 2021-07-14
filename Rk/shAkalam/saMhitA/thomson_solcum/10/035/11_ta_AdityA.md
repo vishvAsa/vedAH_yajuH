@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-tá ādityā ā́ gatā sarvátātaye  
-vr̥dhé no yajñám avatā sajoṣasaḥ  
-bŕ̥haspátim pūṣáṇam aśvínā bhágaṃ  
-suastí agníṃ samidhānám īmahe  
+त꣡ आदित्या आ꣡ गता सर्व꣡तातये  
+वृधे꣡ नो यज्ञ꣡म् अवता सजोषसः  
+ब्ŕ̥हस्प꣡तिम् पूष꣡णम् अश्वि꣡ना भ꣡गं  
+सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे  

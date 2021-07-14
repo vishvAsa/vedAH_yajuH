@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-yā́ sunīthé śaucadrathé  
-ví aúcho duhitar divaḥ  
-sā́ ví ucha sáhīyasi  
-satyáśravasi vāyiyé  
-sújāte áśvasūnr̥te  
+या꣡ सुनीथे꣡ शौचद्रथे꣡  
+वि꣡ अउ꣡छो दुहितर् दिवः  
+सा꣡ वि꣡ उछ स꣡हीयसि  
+सत्य꣡श्रवसि वायिये꣡  
+सु꣡जाते अ꣡श्वसूनृते  

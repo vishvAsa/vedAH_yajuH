@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sā́smā áram prathamáṃ sá dvitī́yam  
-utó tr̥tī́yam mánuṣaḥ sá hótā  
-anyásyā gárbham anyá ū jananta  
-só anyébhiḥ sacate jényo vŕ̥ṣā  
+सा꣡स्मा अ꣡रम् प्रथमं꣡ स꣡ द्विती꣡यम्  
+उतो꣡ तृती꣡यम् म꣡नुषः स꣡ हो꣡ता  
+अन्य꣡स्या ग꣡र्भम् अन्य꣡ ऊ जनन्त  
+सो꣡ अन्ये꣡भिः सचते जे꣡न्यो व्ŕ̥षा  

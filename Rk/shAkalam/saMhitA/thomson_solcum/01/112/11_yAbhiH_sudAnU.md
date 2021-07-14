@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yā́bhiḥ sudānū auśijā́ya vaṇíje  
-dīrgháśravase mádhu kóśo ákṣarat  
-kakṣī́vantaṃ stotā́raṃ yā́bhir ā́vataṃ  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिः सुदानू औशिजा꣡य वणि꣡जे  
+दीर्घ꣡श्रवसे म꣡धु को꣡शो अ꣡क्षरत्  
+कक्षी꣡वन्तं स्तोता꣡रं या꣡भिर् आ꣡वतं  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-utá vā yó no marcáyād ánāgaso  
-arātīvā́ mártiaḥ° sānukó vŕ̥kaḥ  
-bŕ̥haspate ápa táṃ vartayā patháḥ  
-sugáṃ no asyaí devávītaye kr̥dhi  
+उत꣡ वा यो꣡ नो मर्च꣡याद् अ꣡नागसो  
+अरातीवा꣡ म꣡र्तिअः° सानुको꣡ व्ŕ̥कः  
+ब्ŕ̥हस्पते अ꣡प तं꣡ वर्तया पथः꣡  
+सुगं꣡ नो अस्यइ꣡ देव꣡वीतये कृधि  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́ nāsatyā gáchataṃ hūyáte havír  
-mádhvaḥ pibatam madhupébhir āsábhiḥ  
-yuvór hí pū́rvaṃ savitóṣáso rátham  
-r̥tā́ya citráṃ ghr̥távantam íṣyati  
+आ꣡ नासत्या ग꣡छतं हूय꣡ते हवि꣡र्  
+म꣡ध्वः पिबतम् मधुपे꣡भिर् आस꣡भिः  
+युवो꣡र् हि꣡ पू꣡र्वं सवितो꣡ष꣡सो र꣡थम्  
+ऋता꣡य चित्रं꣡ घृत꣡वन्तम् इ꣡ष्यति  

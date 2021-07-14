@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-víśvasmāt sīm adhamā́m̐ indra dásyūn  
-víśo dā́sīr akr̥ṇor apraśastā́ḥ  
-ábādhethām ámr̥ṇataṃ ní śátrūn  
-ávindethām ápacitiṃ vádhatraiḥ  
+वि꣡श्वस्मात् सीम् अधमाँ꣡ इन्द्र द꣡स्यून्  
+वि꣡शो दा꣡सीर् अकृणोर् अप्रशस्ताः꣡  
+अ꣡बाधेथाम् अ꣡मृणतं नि꣡ श꣡त्रून्  
+अ꣡विन्देथाम् अ꣡पचितिं व꣡धत्रैः  

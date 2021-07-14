@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-pajréva cárcaraṃ jā́ram marā́yu  
-kṣádmevā́rtheṣu tartarītha ugrā  
-r̥bhū́ nā́pat kharamajrā́ kharájrur  
-vāyúr ná parpharat kṣayad rayīṇā́m  
+पज्रे꣡व च꣡र्चरं जा꣡रम् मरा꣡यु  
+क्ष꣡द्मेवा꣡र्थेषु तर्तरीथ उग्रा  
+ऋभू꣡ ना꣡पत् खरमज्रा꣡ खर꣡ज्रुर्  
+वायु꣡र् न꣡ पर्फरत् क्षयद् रयीणा꣡म्  

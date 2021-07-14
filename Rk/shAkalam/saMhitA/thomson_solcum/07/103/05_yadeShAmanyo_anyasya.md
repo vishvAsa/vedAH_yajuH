@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yád eṣãm anyó anyásya vā́caṃ  
-śāktásyeva vádati śíkṣamāṇaḥ  
-sárvaṃ tád eṣāṃ samŕ̥dheva párva  
-yát suvā́co vádathanā́dhi apsú  
+य꣡द् एष्ãम् अन्यो꣡ अन्य꣡स्य वा꣡चं  
+शाक्त꣡स्येव व꣡दति शि꣡क्षमाणः  
+स꣡र्वं त꣡द् एषां सम्ŕ̥धेव प꣡र्व  
+य꣡त् सुवा꣡चो व꣡दथना꣡धि अप्सु꣡  

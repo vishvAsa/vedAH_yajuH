@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá ít suápā bhúvaneṣu āsa  
-yá imé dyā́vāpr̥thivī́ jajā́na  
-urvī́ gabhīré rájasī suméke  
-avaṃśé dhī́raḥ śáciyā sám airat  
+स꣡ इ꣡त् सुअ꣡पा भु꣡वनेषु आस  
+य꣡ इमे꣡ द्या꣡वापृथिवी꣡ जजा꣡न  
+उर्वी꣡ गभीरे꣡ र꣡जसी सुमे꣡के  
+अवंशे꣡ धी꣡रः श꣡चिया स꣡म् ऐरत्  

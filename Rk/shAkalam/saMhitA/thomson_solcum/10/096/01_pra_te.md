@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá te mahé vidáthe śaṃsiṣaṃ hárī  
-prá te vanve vanúṣo haryatám mádam  
-ghr̥táṃ ná yó háribhiś cā́ru sécata  
-ā́ tvā viśantu hárivarpasaṃ gíraḥ  
+प्र꣡ ते महे꣡ विद꣡थे शंसिषं ह꣡री  
+प्र꣡ ते वन्वे वनु꣡षो हर्यत꣡म् म꣡दम्  
+घृतं꣡ न꣡ यो꣡ ह꣡रिभिश् चा꣡रु से꣡चत  
+आ꣡ त्वा विशन्तु ह꣡रिवर्पसं गि꣡रः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-r̥tásya hí prásitir dyaúr urú vyáco  
-námo mahī́ arámatiḥ pánīyasī  
-índro mitró váruṇaḥ sáṃ cikitrire  
-átho bhágaḥ savitā́ pūtádakṣasaḥ  
+ऋत꣡स्य हि꣡ प्र꣡सितिर् द्यउ꣡र् उरु꣡ व्य꣡चो  
+न꣡मो मही꣡ अर꣡मतिः प꣡नीयसी  
+इ꣡न्द्रो मित्रो꣡ व꣡रुणः सं꣡ चिकित्रिरे  
+अ꣡थो भ꣡गः सविता꣡ पूत꣡दक्षसः  

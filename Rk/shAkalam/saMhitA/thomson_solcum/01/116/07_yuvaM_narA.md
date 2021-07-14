@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yuváṃ narā stuvaté pajriyā́ya  
-kakṣī́vate aradatam púraṃdhim  
-kārotarā́c chaphā́d áśvasya vŕ̥ṣṇaḥ  
-śatáṃ kumbhā́m̐ asiñcataṃ súrāyāḥ  
+युवं꣡ नरा स्तुवते꣡ पज्रिया꣡य  
+कक्षी꣡वते अरदतम् पु꣡रंधिम्  
+कारोतरा꣡च् छफा꣡द् अ꣡श्वस्य व्ŕ̥ष्णः  
+शतं꣡ कुम्भाँ꣡ असिञ्चतं सु꣡रायाः  

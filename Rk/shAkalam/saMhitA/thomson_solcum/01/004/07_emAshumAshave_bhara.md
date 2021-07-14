@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ém āśúm āśáve bhara  
-yajñaśríyaṃ nr̥mā́danam  
-patayán mandayátsakham  
+ए꣡म् आशु꣡म् आश꣡वे भर  
+यज्ञश्रि꣡यं नृमा꣡दनम्  
+पतय꣡न् मन्दय꣡त्सखम्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-apā́m atiṣṭhad dharúṇahvaraṃ támo  
-antár vr̥trásya jaṭháreṣu párvataḥ  
-abhī́m índro nadíyo vavríṇā hitā́  
-víśvā anuṣṭhā́ḥ pravaṇéṣu jighnate  
+अपा꣡म् अतिष्ठद् धरु꣡णह्वरं त꣡मो  
+अन्त꣡र् वृत्र꣡स्य जठ꣡रेषु प꣡र्वतः  
+अभी꣡म् इ꣡न्द्रो नदि꣡यो वव्रि꣡णा हिता꣡  
+वि꣡श्वा अनुष्ठाः꣡ प्रवणे꣡षु जिघ्नते  

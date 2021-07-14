@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ékaḥ suparṇáḥ sá samudrám ā́ viveśa  
-sá idáṃ víśvam bhúvanaṃ ví caṣṭe  
-tám pā́kena mánasāpaśyam ántitas  
-tám mātā́ reḷhi sá u reḷhi mātáram  
+ए꣡कः सुपर्णः꣡ स꣡ समुद्र꣡म् आ꣡ विवेश  
+स꣡ इदं꣡ वि꣡श्वम् भु꣡वनं वि꣡ चष्टे  
+त꣡म् पा꣡केन म꣡नसापश्यम् अ꣡न्तितस्  
+त꣡म् माता꣡ रेऌहि स꣡ उ रेऌहि मात꣡रम्  

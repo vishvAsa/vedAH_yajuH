@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ánu te dāyi mahá indriyā́ya  
-satrā́ te víśvam ánu vr̥trahátye  
-ánu kṣatrám ánu sáho yajatrā́  
-índra devébhir ánu te nr̥ṣáhye  
+अ꣡नु ते दायि मह꣡ इन्द्रिया꣡य  
+सत्रा꣡ ते वि꣡श्वम् अ꣡नु वृत्रह꣡त्ये  
+अ꣡नु क्षत्र꣡म् अ꣡नु स꣡हो यजत्रा꣡  
+इ꣡न्द्र देवे꣡भिर् अ꣡नु ते नृष꣡ह्ये  

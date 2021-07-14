@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índraagnī yám ávatha  
-ubhā́ vā́jeṣu mártiyam  
-dr̥̄ḷhā́+ cit sá prá bhedati  
-dyumnā́ vā́ṇīr iva tritáḥ  
+इ꣡न्द्रअग्नी य꣡म् अ꣡वथ  
+उभा꣡ वा꣡जेषु म꣡र्तियम्  
+दॄऌहा꣡+ चित् स꣡ प्र꣡ भेदति  
+द्युम्ना꣡ वा꣡णीर् इव त्रितः꣡  

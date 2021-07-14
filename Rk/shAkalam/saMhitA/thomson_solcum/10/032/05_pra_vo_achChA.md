@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá vo áchā ririce devayúṣ padám  
-éko rudrébhir yāti turváṇiḥ  
-jarā́ vā yéṣu amŕ̥teṣu dāváne  
-pári va ū́mebhiyaḥ siñcatā mádhu  
+प्र꣡ वो अ꣡छा रिरिचे देवयु꣡ष् पद꣡म्  
+ए꣡को रुद्रे꣡भिर् याति तुर्व꣡णिः  
+जरा꣡ वा ये꣡षु अम्ŕ̥तेषु दाव꣡ने  
+प꣡रि व ऊ꣡मेभियः सिञ्चता म꣡धु  

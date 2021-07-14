@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yá ójiṣṭha indara+ táṃ sú no dā  
-mádo vr̥ṣan suabhiṣṭír dã́svān  
-saúvaśviyaṃ yó vanávat suáśvo  
-vr̥trā́ samátsu sāsáhad amítrān  
+य꣡ ओ꣡जिष्ठ इन्दर+ तं꣡ सु꣡ नो दा  
+म꣡दो वृषन् सुअभिष्टि꣡र् द्ã꣡स्वान्  
+सउ꣡वश्वियं यो꣡ वन꣡वत् सुअ꣡श्वो  
+वृत्रा꣡ सम꣡त्सु सास꣡हद् अमि꣡त्रान्  

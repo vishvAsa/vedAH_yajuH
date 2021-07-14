@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-agnír ŕ̥ṣiḥ pávamānaḥ  
-pā́ñcajanyaḥ puróhitaḥ  
-tám īmahe mahāgayám  
+अग्नि꣡र् ŕ̥षिः प꣡वमानः  
+पा꣡ञ्चजन्यः पुरो꣡हितः  
+त꣡म् ईमहे महागय꣡म्  

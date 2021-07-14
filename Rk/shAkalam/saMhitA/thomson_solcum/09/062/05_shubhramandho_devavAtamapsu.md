@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-śubhrám ándho devávātam  
-apsú dhūtó nŕ̥bhiḥ sutáḥ  
-svádanti gā́vaḥ páyobhiḥ  
+शुभ्र꣡म् अ꣡न्धो देव꣡वातम्  
+अप्सु꣡ धूतो꣡ न्ŕ̥भिः सुतः꣡  
+स्व꣡दन्ति गा꣡वः प꣡योभिः  

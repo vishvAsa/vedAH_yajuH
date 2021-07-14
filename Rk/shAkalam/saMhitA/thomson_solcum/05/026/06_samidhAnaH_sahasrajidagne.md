@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-samidhānáḥ sahasrajid  
-ágne dhármāṇi puṣyasi  
-devā́nāṃ dūtá ukthíyaḥ  
+समिधानः꣡ सहस्रजिद्  
+अ꣡ग्ने ध꣡र्माणि पुष्यसि  
+देवा꣡नां दूत꣡ उक्थि꣡यः  

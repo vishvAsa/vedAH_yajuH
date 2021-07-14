@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sujyótiṣaḥ sūriya dákṣapitr̥̄n  
-anāgāstvé sumaho vīhi devā́n  
-dvijánmāno yá r̥tasā́paḥ satyā́ḥ  
-súvarvanto yajatā́ agnijihvā́ḥ  
+सुज्यो꣡तिषः सूरिय द꣡क्षपितॄन्  
+अनागास्त्वे꣡ सुमहो वीहि देवा꣡न्  
+द्विज꣡न्मानो य꣡ ऋतसा꣡पः सत्याः꣡  
+सु꣡वर्वन्तो यजता꣡ अग्निजिह्वाः꣡  

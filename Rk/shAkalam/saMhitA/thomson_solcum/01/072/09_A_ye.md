@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ā́ yé víśvā svapatiyā́ni tasthúḥ  
-kr̥ṇvānā́so amr̥tatvā́ya gātúm  
-mahnā́ mahádbhiḥ pr̥thivī́ ví tasthe  
-mātā́ putraír áditir dhā́yase véḥ  
+आ꣡ ये꣡ वि꣡श्वा स्वपतिया꣡नि तस्थुः꣡  
+कृण्वाना꣡सो अमृतत्वा꣡य गातु꣡म्  
+मह्ना꣡ मह꣡द्भिः पृथिवी꣡ वि꣡ तस्थे  
+माता꣡ पुत्रइ꣡र् अ꣡दितिर् धा꣡यसे वेः꣡  

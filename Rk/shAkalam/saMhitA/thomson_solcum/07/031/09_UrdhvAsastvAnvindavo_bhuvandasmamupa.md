@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-ūrdhvā́sas tvā́nu índavo  
-bhúvan dasmám úpa dyávi  
-sáṃ te namanta kr̥ṣṭáyaḥ  
+ऊर्ध्वा꣡सस् त्वा꣡नु इ꣡न्दवो  
+भु꣡वन् दस्म꣡म् उ꣡प द्य꣡वि  
+सं꣡ ते नमन्त कृष्ट꣡यः  

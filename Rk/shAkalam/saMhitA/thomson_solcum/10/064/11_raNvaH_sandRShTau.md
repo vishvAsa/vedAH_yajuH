@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-raṇváḥ sáṃdr̥ṣṭau pitumā́m̐ iva kṣáyo  
-bhadrā́ rudrā́ṇām marútām úpastutiḥ  
-góbhiḥ ṣiyāma yaśáso jáneṣu ā́  
-sádā devāsa íḷayā sacemahi  
+रण्वः꣡ सं꣡दृष्टौ पितुमाँ꣡ इव क्ष꣡यो  
+भद्रा꣡ रुद्रा꣡णाम् मरु꣡ताम् उ꣡पस्तुतिः  
+गो꣡भिः षियाम यश꣡सो ज꣡नेषु आ꣡  
+स꣡दा देवास इ꣡ऌअया सचेमहि  

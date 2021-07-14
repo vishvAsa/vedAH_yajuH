@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-asmábhyaṃ tā́m̐ ápā vr̥dhi  
-vrajā́m̐ ásteva gómataḥ  
-návābhir indra ūtíbhiḥ  
+अस्म꣡भ्यं ताँ꣡ अ꣡पा वृधि  
+व्रजाँ꣡ अ꣡स्तेव गो꣡मतः  
+न꣡वाभिर् इन्द्र ऊति꣡भिः  

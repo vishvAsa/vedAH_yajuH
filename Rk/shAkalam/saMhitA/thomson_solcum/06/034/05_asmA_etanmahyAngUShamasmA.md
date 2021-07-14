@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ásmā etán máhi āṅgūṣám asmā  
-índrāya stotrám matíbhir avāci  
-ásad yáthā mahatí vr̥tratū́rya  
-índro viśvā́yur avitā́ vr̥dháś ca  
+अ꣡स्मा एत꣡न् म꣡हि आङ्गूष꣡म् अस्मा  
+इ꣡न्द्राय स्तोत्र꣡म् मति꣡भिर् अवाचि  
+अ꣡सद् य꣡था महति꣡ वृत्रतू꣡र्य  
+इ꣡न्द्रो विश्वा꣡युर् अविता꣡ वृध꣡श् च  

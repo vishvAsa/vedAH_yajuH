@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-nárāśáṃsasya mahimā́nam eṣām  
-úpa stoṣāma yajatásya yajñaíḥ  
-yé sukrátavaḥ śúcayo dhiyaṃdhā́ḥ  
-svádanti devā́ ubháyāni havyā́  
+न꣡राशं꣡सस्य महिमा꣡नम् एषाम्  
+उ꣡प स्तोषाम यजत꣡स्य यज्ञइः꣡  
+ये꣡ सुक्र꣡तवः शु꣡चयो धियंधाः꣡  
+स्व꣡दन्ति देवा꣡ उभ꣡यानि हव्या꣡  

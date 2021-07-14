@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śŕ̥ṅgeva naḥ prathamā́ gantam arvā́k  
-chaphā́v iva járbhurāṇā tárobhiḥ  
-cakravākéva práti vástor usrā  
-arvā́ñcā yātaṃ rathíyeva śakrā  
+श्ŕ̥ङ्गेव नः प्रथमा꣡ गन्तम् अर्वा꣡क्  
+छफा꣡व् इव ज꣡र्भुराणा त꣡रोभिः  
+चक्रवाके꣡व प्र꣡ति व꣡स्तोर् उस्रा  
+अर्वा꣡ञ्चा यातं रथि꣡येव शक्रा  

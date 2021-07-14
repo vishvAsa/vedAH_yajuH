@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yé gómantaṃ vā́javantaṃ suvī́raṃ  
-rayíṃ dhatthá vásumantam purukṣúm  
-té agrepā́ r̥bhavo mandasānā́  
-asmé dhatta yé ca rātíṃ gr̥ṇánti  
+ये꣡ गो꣡मन्तं वा꣡जवन्तं सुवी꣡रं  
+रयिं꣡ धत्थ꣡ व꣡सुमन्तम् पुरुक्षु꣡म्  
+ते꣡ अग्रेपा꣡ ऋभवो मन्दसाना꣡  
+अस्मे꣡ धत्त ये꣡ च रातिं꣡ गृण꣡न्ति  

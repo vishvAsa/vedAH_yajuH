@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sá punānó madíntamaḥ  
-sómaś camū́ṣu sīdati  
-paśaú ná réta ādádhat  
-pátir vacasyate dhiyáḥ  
+स꣡ पुनानो꣡ मदि꣡न्तमः  
+सो꣡मश् चमू꣡षु सीदति  
+पशउ꣡ न꣡ रे꣡त आद꣡धत्  
+प꣡तिर् वचस्यते धियः꣡  

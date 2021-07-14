@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-unátti bhū́mim pr̥thivī́m utá dyā́ṃ  
-yadā́ dugdháṃ váruṇo váṣṭi ā́d ít  
-sám abhréṇa vasata párvatāsas  
-taviṣīyántaḥ śrathayanta vīrā́ḥ  
+उन꣡त्ति भू꣡मिम् पृथिवी꣡म् उत꣡ द्यां꣡  
+यदा꣡ दुग्धं꣡ व꣡रुणो व꣡ष्टि आ꣡द् इ꣡त्  
+स꣡म् अभ्रे꣡ण वसत प꣡र्वतासस्  
+तविषीय꣡न्तः श्रथयन्त वीराः꣡  

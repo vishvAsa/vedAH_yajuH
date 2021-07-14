@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-priyamedhavád atriváj  
-jā́tavedo virūpavát  
-aṅgirasván mahivrata  
-práskaṇvasya śrudhī hávam  
+प्रियमेधव꣡द् अत्रिव꣡ज्  
+जा꣡तवेदो विरूपव꣡त्  
+अङ्गिरस्व꣡न् महिव्रत  
+प्र꣡स्कण्वस्य श्रुधी ह꣡वम्  

@@ -2,9 +2,9 @@
 title = "008"
 
 +++
-yó agníḥ saptámānuṣaḥ  
-śritó víśveṣu síndhuṣu  
-tám ā́ganma tripastiyám  
-mandhātúr dasyuhántamam  
-agníṃ yajñéṣu pūrviyáṃ  
-nábhantām anyaké same  
+यो꣡ अग्निः꣡ सप्त꣡मानुषः  
+श्रितो꣡ वि꣡श्वेषु सि꣡न्धुषु  
+त꣡म् आ꣡गन्म त्रिपस्तिय꣡म्  
+मन्धातु꣡र् दस्युह꣡न्तमम्  
+अग्निं꣡ यज्ञे꣡षु पूर्वियं꣡  
+न꣡भन्ताम् अन्यके꣡ समे  

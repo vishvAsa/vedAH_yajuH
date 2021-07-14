@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-antár hí agna ī́yase  
-vidvā́ñ jánmobháyā kave  
-dūtó jányeva mítriyaḥ  
+अन्त꣡र् हि꣡ अग्न ई꣡यसे  
+विद्वा꣡ञ् ज꣡न्मोभ꣡या कवे  
+दूतो꣡ ज꣡न्येव मि꣡त्रियः  

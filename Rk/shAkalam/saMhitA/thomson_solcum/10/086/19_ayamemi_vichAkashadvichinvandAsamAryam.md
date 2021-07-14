@@ -2,8 +2,8 @@
 title = "019"
 
 +++
-ayám emi vicā́kaśad  
-vicinván dā́sam ā́riyam  
-píbāmi pākasútvano  
-abhí dhī́ram acākaśaṃ  
-víśvasmād índra úttaraḥ  
+अय꣡म् एमि विचा꣡कशद्  
+विचिन्व꣡न् दा꣡सम् आ꣡रियम्  
+पि꣡बामि पाकसु꣡त्वनो  
+अभि꣡ धी꣡रम् अचाकशं  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

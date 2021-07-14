@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́ yát pátanti eníyaḥ  
-sudúghā ánapasphuraḥ  
-apasphúraṃ gr̥bhāyata  
-sómam índrāya pā́tave  
+आ꣡ य꣡त् प꣡तन्ति एनि꣡यः  
+सुदु꣡घा अ꣡नपस्फुरः  
+अपस्फु꣡रं गृभायत  
+सो꣡मम् इ꣡न्द्राय पा꣡तवे  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-utá gā́va ivādanti  
-utá véśmeva dr̥śyate  
-utó araṇyāníḥ sāyáṃ  
-śakaṭī́r iva sarjati  
+उत꣡ गा꣡व इवादन्ति  
+उत꣡ वे꣡श्मेव दृश्यते  
+उतो꣡ अरण्यानिः꣡ सायं꣡  
+शकटी꣡र् इव सर्जति  

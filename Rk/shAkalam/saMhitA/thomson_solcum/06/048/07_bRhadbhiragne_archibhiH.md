@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-br̥hádbhir agne arcíbhiḥ  
-śukréṇa deva śocíṣā  
-bharádvāje samidhānó yaviṣṭhiya  
-reván naḥ śukra dīdihi  
-dyumát pavāka+ dīdihi  
+बृह꣡द्भिर् अग्ने अर्चि꣡भिः  
+शुक्रे꣡ण देव शोचि꣡षा  
+भर꣡द्वाजे समिधानो꣡ यविष्ठिय  
+रेव꣡न् नः शुक्र दीदिहि  
+द्युम꣡त् पवाक+ दीदिहि  

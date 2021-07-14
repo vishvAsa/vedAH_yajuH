@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-ā́rcann átra marútaḥ sásmin ājaú  
-víśve devā́so amadann ánu tvā  
-vr̥trásya yád bhr̥ṣṭimátā vadhéna  
-ní tvám indra práti ānáṃ jaghántha  
+आ꣡र्चन्न् अ꣡त्र मरु꣡तः स꣡स्मिन् आजउ꣡  
+वि꣡श्वे देवा꣡सो अमदन्न् अ꣡नु त्वा  
+वृत्र꣡स्य य꣡द् भृष्टिम꣡ता वधे꣡न  
+नि꣡ त्व꣡म् इन्द्र प्र꣡ति आनं꣡ जघ꣡न्थ  

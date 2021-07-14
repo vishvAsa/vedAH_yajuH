@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-niyútvān vāyav ā́ gahi  
-ayáṃ śukró ayāmi te  
-gántāsi sunvató gr̥hám  
+नियु꣡त्वान् वायव् आ꣡ गहि  
+अयं꣡ शुक्रो꣡ अयामि ते  
+ग꣡न्तासि सुन्वतो꣡ गृह꣡म्  

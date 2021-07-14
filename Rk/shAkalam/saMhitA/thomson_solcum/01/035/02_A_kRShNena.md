@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ kr̥ṣṇéna rájasā vártamāno  
-niveśáyann amŕ̥tam mártiyaṃ ca  
-hiraṇyáyena savitā́ ráthena  
-ā́ devó yāti bhúvanāni páśyan  
+आ꣡ कृष्णे꣡न र꣡जसा व꣡र्तमानो  
+निवेश꣡यन्न् अम्ŕ̥तम् म꣡र्तियं च  
+हिरण्य꣡येन सविता꣡ र꣡थेन  
+आ꣡ देवो꣡ याति भु꣡वनानि प꣡श्यन्  

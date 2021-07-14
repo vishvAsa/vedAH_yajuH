@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ā́ pyāyasva sám etu te  
-viśvátaḥ soma vŕ̥ṣṇiyam  
-bhávā vā́jasya saṃgathé  
+आ꣡ प्यायस्व स꣡म् एतु ते  
+विश्व꣡तः सोम व्ŕ̥ष्णियम्  
+भ꣡वा वा꣡जस्य संगथे꣡  

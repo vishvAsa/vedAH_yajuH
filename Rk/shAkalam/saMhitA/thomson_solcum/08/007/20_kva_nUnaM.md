@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-kúva nūnáṃ sudānavo  
-mádathā vr̥ktabarhiṣaḥ  
-brahmā́ kó vaḥ saparyati  
+कु꣡व नूनं꣡ सुदानवो  
+म꣡दथा वृक्तबर्हिषः  
+ब्रह्मा꣡ को꣡ वः सपर्यति  

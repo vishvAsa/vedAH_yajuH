@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-utá syá deváḥ savitā́ bhágo no  
-apā́ṃ nápād avatu dā́nu pápriḥ  
-tváṣṭā devébhir jánibhiḥ sajóṣā  
-diyaúr devébhiḥ pr̥thivī́ samudraíḥ  
+उत꣡ स्य꣡ देवः꣡ सविता꣡ भ꣡गो नो  
+अपां꣡ न꣡पाद् अवतु दा꣡नु प꣡प्रिः  
+त्व꣡ष्टा देवे꣡भिर् ज꣡निभिः सजो꣡षा  
+दियउ꣡र् देवे꣡भिः पृथिवी꣡ समुद्रइः꣡  

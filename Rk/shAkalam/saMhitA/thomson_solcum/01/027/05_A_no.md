@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-ā́ no bhaja paraméṣu  
-ā́ vā́jeṣu madhyaméṣu  
-śíkṣā vásvo ántamasya  
+आ꣡ नो भज परमे꣡षु  
+आ꣡ वा꣡जेषु मध्यमे꣡षु  
+शि꣡क्षा व꣡स्वो अ꣡न्तमस्य  

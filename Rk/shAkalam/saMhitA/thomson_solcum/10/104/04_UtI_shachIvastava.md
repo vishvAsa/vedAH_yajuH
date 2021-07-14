@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ūtī́ śacīvas táva vīríyeṇa  
-váyo dádhānā uśíja r̥tajñā́ḥ  
-prajā́vad indra mánuṣo duroṇé  
-tasthúr gr̥ṇántaḥ sadhamā́diyāsaḥ  
+ऊती꣡ शचीवस् त꣡व वीरि꣡येण  
+व꣡यो द꣡धाना उशि꣡ज ऋतज्ञाः꣡  
+प्रजा꣡वद् इन्द्र म꣡नुषो दुरोणे꣡  
+तस्थु꣡र् गृण꣡न्तः सधमा꣡दियासः  

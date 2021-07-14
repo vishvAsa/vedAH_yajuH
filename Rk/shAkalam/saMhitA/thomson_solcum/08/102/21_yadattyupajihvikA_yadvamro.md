@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-yád átti upajíhvikā  
-yád vamró atisárpati  
-sárvaṃ tád astu te ghr̥tám  
+य꣡द् अ꣡त्ति उपजि꣡ह्विका  
+य꣡द् वम्रो꣡ अतिस꣡र्पति  
+स꣡र्वं त꣡द् अस्तु ते घृत꣡म्  

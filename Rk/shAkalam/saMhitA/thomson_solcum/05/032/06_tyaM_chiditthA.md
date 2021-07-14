@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tiyáṃ cid itthā́ katpayáṃ śáyānam  
-asūriyé támasi vāvr̥dhānám  
-táṃ cin mandānó vr̥ṣabháḥ sutásya  
-uccaír índro apagū́ryā jaghāna  
+तियं꣡ चिद् इत्था꣡ कत्पयं꣡ श꣡यानम्  
+असूरिये꣡ त꣡मसि वावृधान꣡म्  
+तं꣡ चिन् मन्दानो꣡ वृषभः꣡ सुत꣡स्य  
+उच्चइ꣡र् इ꣡न्द्रो अपगू꣡र्या जघान  

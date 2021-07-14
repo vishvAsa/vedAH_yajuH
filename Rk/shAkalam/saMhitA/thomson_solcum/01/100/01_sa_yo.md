@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sá yó vŕ̥ṣā vŕ̥ṣṇiyebhiḥ sámokā  
-mahó diváḥ pr̥thiviyā́ś ca samrā́ṭ  
-satīnásatvā háviyo bháreṣu  
-marútvān no bhavatu índra ūtī́  
+स꣡ यो꣡ व्ŕ̥षा व्ŕ̥ष्णियेभिः स꣡मोका  
+महो꣡ दिवः꣡ पृथिविया꣡श् च सम्रा꣡ट्  
+सतीन꣡सत्वा ह꣡वियो भ꣡रेषु  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-táva tyá indra sakhiyéṣu váhnaya  
-r̥tám manvānā́ ví adardirur valám  
-yátrā daśasyánn uṣáso riṇánn apáḥ  
-kútsāya mánmann ahíyaś ca daṃsáyaḥ  
+त꣡व त्य꣡ इन्द्र सखिये꣡षु व꣡ह्नय  
+ऋत꣡म् मन्वाना꣡ वि꣡ अदर्दिरुर् वल꣡म्  
+य꣡त्रा दशस्य꣡न्न् उष꣡सो रिण꣡न्न् अपः꣡  
+कु꣡त्साय म꣡न्मन्न् अहि꣡यश् च दंस꣡यः  

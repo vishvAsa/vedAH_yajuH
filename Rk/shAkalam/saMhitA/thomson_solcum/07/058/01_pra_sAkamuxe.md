@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá sākamúkṣe arcatā gaṇā́ya  
-yó daíviyasya dhā́manas túviṣmān  
-utá kṣodanti ródasī mahitvā́  
-nákṣante nā́kaṃ nírr̥ter avaṃśā́t  
+प्र꣡ साकमु꣡क्षे अर्चता गणा꣡य  
+यो꣡ दइ꣡वियस्य धा꣡मनस् तु꣡विष्मान्  
+उत꣡ क्षोदन्ति रो꣡दसी महित्वा꣡  
+न꣡क्षन्ते ना꣡कं नि꣡रृतेर् अवंशा꣡त्  

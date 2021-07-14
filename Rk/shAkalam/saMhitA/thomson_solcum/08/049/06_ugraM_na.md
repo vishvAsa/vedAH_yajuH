@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ugráṃ ná vīráṃ námasópa sedima  
-víbhūtim ákṣitāvasum  
-udrī́va vajrinn avató ná siñcaté  
-kṣáranti indra dhītáyaḥ  
+उग्रं꣡ न꣡ वीरं꣡ न꣡मसो꣡प सेदिम  
+वि꣡भूतिम् अ꣡क्षितावसुम्  
+उद्री꣡व वज्रिन्न् अवतो꣡ न꣡ सिञ्चते꣡  
+क्ष꣡रन्ति इन्द्र धीत꣡यः  

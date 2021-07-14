@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-ásarji kaláśām̐ abhí  
-mīḷhé sáptir ná vājayúḥ  
-punānó vā́caṃ janáyann asiṣyadat  
+अ꣡सर्जि कल꣡शाँ अभि꣡  
+मीऌहे꣡ स꣡प्तिर् न꣡ वाजयुः꣡  
+पुनानो꣡ वा꣡चं जन꣡यन्न् असिष्यदत्  

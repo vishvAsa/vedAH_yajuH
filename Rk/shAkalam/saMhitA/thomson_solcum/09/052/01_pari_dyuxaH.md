@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-pári dyukṣáḥ sanádrayir  
-bhárad vā́jaṃ no ándhasā  
-svānó° arṣa pavítra ā́  
+प꣡रि द्युक्षः꣡ सन꣡द्रयिर्  
+भ꣡रद् वा꣡जं नो अ꣡न्धसा  
+स्वानो꣡° अर्ष पवि꣡त्र आ꣡  

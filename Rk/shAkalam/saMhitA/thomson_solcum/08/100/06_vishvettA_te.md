@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-víśvét tā́ te sávaneṣu pravā́ciyā  
-yā́ cakártha maghavann indra sunvaté  
-pā́rāvataṃ yát purusambhr̥táṃ vásu  
-apā́vr̥ṇoḥ śarabhā́ya ŕ̥ṣibandhave  
+वि꣡श्वे꣡त् ता꣡ ते स꣡वनेषु प्रवा꣡चिया  
+या꣡ चक꣡र्थ मघवन्न् इन्द्र सुन्वते꣡  
+पा꣡रावतं य꣡त् पुरुसम्भृतं꣡ व꣡सु  
+अपा꣡वृणोः शरभा꣡य ŕ̥षिबन्धवे  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá brahmā́ṇo áṅgiraso nakṣanta  
-prá krandanúr nabhaníyasya vetu  
-prá dhenáva udaprúto navanta  
-yujyā́tām ádrī adhvarásya péśaḥ  
+प्र꣡ ब्रह्मा꣡णो अ꣡ङ्गिरसो नक्षन्त  
+प्र꣡ क्रन्दनु꣡र् नभनि꣡यस्य वेतु  
+प्र꣡ धेन꣡व उदप्रु꣡तो नवन्त  
+युज्या꣡ताम् अ꣡द्री अध्वर꣡स्य पे꣡शः  

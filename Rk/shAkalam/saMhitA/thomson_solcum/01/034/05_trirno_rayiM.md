@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-trír no rayíṃ vahatam aśvinā yuváṃ  
-trír devátātā trír utā́vataṃ dhíyaḥ  
-tríḥ saubhagatváṃ trír utá śrávāṃsi nas  
-triṣṭháṃ vāṃ sū́re duhitā́ ruhad rátham  
+त्रि꣡र् नो रयिं꣡ वहतम् अश्विना युवं꣡  
+त्रि꣡र् देव꣡ताता त्रि꣡र् उता꣡वतं धि꣡यः  
+त्रिः꣡ सौभगत्वं꣡ त्रि꣡र् उत꣡ श्र꣡वांसि नस्  
+त्रिष्ठं꣡ वां सू꣡रे दुहिता꣡ रुहद् र꣡थम्  

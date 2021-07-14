@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-eténāgne bráhmaṇā vāvr̥dhasva  
-śáktī vā yát te cakr̥mā́ vidā́ vā  
-utá prá ṇeṣi abhí vásyo asmā́n  
-sáṃ naḥ sr̥ja sumatī́° vā́javatyā  
+एते꣡नाग्ने ब्र꣡ह्मणा वावृधस्व  
+श꣡क्ती वा य꣡त् ते चकृमा꣡ विदा꣡ वा  
+उत꣡ प्र꣡ णेषि अभि꣡ व꣡स्यो अस्मा꣡न्  
+सं꣡ नः सृज सुमती꣡° वा꣡जवत्या  

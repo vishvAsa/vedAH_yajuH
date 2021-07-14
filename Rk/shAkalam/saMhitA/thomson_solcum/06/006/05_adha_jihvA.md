@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ádha jihvā́ pāpatīti prá vŕ̥ṣṇo  
-goṣuyúdho ná aśániḥ sr̥jānā́  
-śū́rasyeva prásitiḥ kṣātír agnér  
-durvártur bhīmó dayate vánāni  
+अ꣡ध जिह्वा꣡ पापतीति प्र꣡ व्ŕ̥ष्णो  
+गोषुयु꣡धो न꣡ अश꣡निः सृजाना꣡  
+शू꣡रस्येव प्र꣡सितिः क्षाति꣡र् अग्ने꣡र्  
+दुर्व꣡र्तुर् भीमो꣡ दयते व꣡नानि  

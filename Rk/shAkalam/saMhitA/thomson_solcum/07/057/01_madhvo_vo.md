@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mádhvo vo nā́ma mā́rutaṃ yajatrāḥ  
-prá yajñéṣu · śávasā madanti  
-yé rejáyanti ródasī cid urvī́  
-pínvanti útsaṃ yád áyāsur ugrā́ḥ  
+म꣡ध्वो वो ना꣡म मा꣡रुतं यजत्राः  
+प्र꣡ यज्ञे꣡षु · श꣡वसा मदन्ति  
+ये꣡ रेज꣡यन्ति रो꣡दसी चिद् उर्वी꣡  
+पि꣡न्वन्ति उ꣡त्सं य꣡द् अ꣡यासुर् उग्राः꣡  

@@ -2,7 +2,7 @@
 title = "058"
 
 +++
-tváyā vayám pávamānena soma  
-bháre kr̥táṃ ví cinuyāma śáśvat  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+त्व꣡या वय꣡म् प꣡वमानेन सोम  
+भ꣡रे कृतं꣡ वि꣡ चिनुयाम श꣡श्वत्  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tám īṃ hinvanti dhītáyo dáśa vríśo  
-devám mártāsa ūtáye havāmahe  
-dhánor ádhi praváta ā́ sá r̥ṇvati  
-abhivrájadbhir vayúnā návādhita  
+त꣡म् ईं हिन्वन्ति धीत꣡यो द꣡श व्रि꣡शो  
+देव꣡म् म꣡र्तास ऊत꣡ये हवामहे  
+ध꣡नोर् अ꣡धि प्रव꣡त आ꣡ स꣡ ऋण्वति  
+अभिव्र꣡जद्भिर् वयु꣡ना न꣡वाधित  

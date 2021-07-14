@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imā́ u vām bhr̥máyo mányamānā  
-yuvā́vate ná tújiyā abhūvan  
-kúva tyád indrāvaruṇā yáśo vāṃ  
-yéna smā sínam bhárathaḥ sákhibhyaḥ  
+इमा꣡ उ वाम् भृम꣡यो म꣡न्यमाना  
+युवा꣡वते न꣡ तु꣡जिया अभूवन्  
+कु꣡व त्य꣡द् इन्द्रावरुणा य꣡शो वां  
+ये꣡न स्मा सि꣡नम् भ꣡रथः स꣡खिभ्यः  

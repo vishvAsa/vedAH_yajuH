@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-návaṃ nú stómam agnáye  
-diváḥ śyenā́ya jījanam  
-vásvaḥ kuvíd vanā́ti naḥ  
+न꣡वं नु꣡ स्तो꣡मम् अग्न꣡ये  
+दिवः꣡ श्येना꣡य जीजनम्  
+व꣡स्वः कुवि꣡द् वना꣡ति नः  

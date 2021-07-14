@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-yád gāyatré ádhi gāyatrám ā́hitaṃ  
-traíṣṭubhād vā traíṣṭubhaṃ nirátakṣata  
-yád vā jágaj jágati ā́hitam padáṃ  
-yá ít tád vidús té amr̥tatvám ānaśuḥ  
+य꣡द् गायत्रे꣡ अ꣡धि गायत्र꣡म् आ꣡हितं  
+त्रइ꣡ष्टुभाद् वा त्रइ꣡ष्टुभं निर꣡तक्षत  
+य꣡द् वा ज꣡गज् ज꣡गति आ꣡हितम् पदं꣡  
+य꣡ इ꣡त् त꣡द् विदु꣡स् ते꣡ अमृतत्व꣡म् आनशुः  

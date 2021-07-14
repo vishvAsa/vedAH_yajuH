@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-mā́ vo mr̥gó ná yávase  
-jaritā́ bhūd ájoṣiyaḥ  
-pathā́ yamásya gād úpa  
+मा꣡ वो मृगो꣡ न꣡ य꣡वसे  
+जरिता꣡ भूद् अ꣡जोषियः  
+पथा꣡ यम꣡स्य गाद् उ꣡प  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-índra āsāṃ nayitā́+ bŕ̥haspátir  
-dákṣiṇā yajñáḥ purá etu sómaḥ  
-devasenā́nām abhibhañjatīnā́ṃ  
-jáyantīnām marúto yantu ágram  
+इ꣡न्द्र आसां नयिता꣡+ ब्ŕ̥हस्प꣡तिर्  
+द꣡क्षिणा यज्ञः꣡ पुर꣡ एतु सो꣡मः  
+देवसेना꣡नाम् अभिभञ्जतीनां꣡  
+ज꣡यन्तीनाम् मरु꣡तो यन्तु अ꣡ग्रम्  

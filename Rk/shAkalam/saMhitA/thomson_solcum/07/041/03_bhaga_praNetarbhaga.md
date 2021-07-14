@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-bhága práṇetar bhága sátyarādho  
-bhágemā́ṃ dhíyam úd avā dádan naḥ  
-bhága prá ṇo janaya góbhir áśvair  
-bhága prá nŕ̥bhir nr̥vántaḥ siyāma  
+भ꣡ग प्र꣡णेतर् भ꣡ग स꣡त्यराधो  
+भ꣡गेमां꣡ धि꣡यम् उ꣡द् अवा द꣡दन् नः  
+भ꣡ग प्र꣡ णो जनय गो꣡भिर् अ꣡श्वैर्  
+भ꣡ग प्र꣡ न्ŕ̥भिर् नृव꣡न्तः सियाम  

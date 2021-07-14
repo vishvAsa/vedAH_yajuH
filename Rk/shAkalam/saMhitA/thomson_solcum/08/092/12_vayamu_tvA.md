@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-vayám u tvā śatakrato  
-gā́vo ná yávaseṣu ā́  
-ukthéṣu raṇayāmasi  
+वय꣡म् उ त्वा शतक्रतो  
+गा꣡वो न꣡ य꣡वसेषु आ꣡  
+उक्थे꣡षु रणयामसि  

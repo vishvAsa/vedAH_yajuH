@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tvám āvitha suśrávasaṃ távotíbhis  
-táva trā́mabhir indra tū́rvayāṇam  
-tvám asmai kútsam atithigvám āyúm  
-mahé rā́jñe yū́ne arandhanāyaḥ  
+त्व꣡म् आविथ सुश्र꣡वसं त꣡वोति꣡भिस्  
+त꣡व त्रा꣡मभिर् इन्द्र तू꣡र्वयाणम्  
+त्व꣡म् अस्मै कु꣡त्सम् अतिथिग्व꣡म् आयु꣡म्  
+महे꣡ रा꣡ज्ञे यू꣡ने अरन्धनायः  

@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-purā́gne duritébhiyaḥ  
-purā́ mr̥dhrébhiyaḥ kave  
-prá ṇa ā́yur vaso tira  
+पुरा꣡ग्ने दुरिते꣡भियः  
+पुरा꣡ मृध्रे꣡भियः कवे  
+प्र꣡ ण आ꣡युर् वसो तिर  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-hótāraṃ viśvávedasaṃ  
-sáṃ hí tvā víśa indháte  
-sá ā́ vaha puruhūta prácetaso  
-ágne devā́m̐ ihá dravát  
+हो꣡तारं विश्व꣡वेदसं  
+सं꣡ हि꣡ त्वा वि꣡श इन्ध꣡ते  
+स꣡ आ꣡ वह पुरुहूत प्र꣡चेतसो  
+अ꣡ग्ने देवाँ꣡ इह꣡ द्रव꣡त्  

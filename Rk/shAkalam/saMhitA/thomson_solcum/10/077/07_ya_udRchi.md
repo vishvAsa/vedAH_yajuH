@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yá udŕ̥ci · yajñé adhvareṣṭhā́  
-marúdbhiyo ná mā́nuṣo dádāśat  
-revát sá váyo dadhate suvī́raṃ  
-sá devā́nām ápi gopīthé astu  
+य꣡ उद्ŕ̥चि · यज्ञे꣡ अध्वरेष्ठा꣡  
+मरु꣡द्भियो न꣡ मा꣡नुषो द꣡दाशत्  
+रेव꣡त् स꣡ व꣡यो दधते सुवी꣡रं  
+स꣡ देवा꣡नाम् अ꣡पि गोपीथे꣡ अस्तु  

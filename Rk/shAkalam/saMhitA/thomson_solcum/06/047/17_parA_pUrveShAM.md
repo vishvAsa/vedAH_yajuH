@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-párā pū́rveṣāṃ sakhiyā́ vr̥ṇakti  
-vitárturāṇo áparebhir eti  
-ánānubhūtīr avadhūnuvānáḥ  
-pūrvī́r índraḥ śarádas tartarīti  
+प꣡रा पू꣡र्वेषां सखिया꣡ वृणक्ति  
+वित꣡र्तुराणो अ꣡परेभिर् एति  
+अ꣡नानुभूतीर् अवधूनुवानः꣡  
+पूर्वी꣡र् इ꣡न्द्रः शर꣡दस् तर्तरीति  

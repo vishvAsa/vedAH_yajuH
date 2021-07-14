@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ahám púro mandasānó ví airaṃ  
-náva sākáṃ navatī́ḥ śámbarasya  
-śatatamáṃ veśíyaṃ sarvátātā  
-dívodāsam atithigváṃ yád ā́vam  
+अह꣡म् पु꣡रो मन्दसानो꣡ वि꣡ ऐरं  
+न꣡व साकं꣡ नवतीः꣡ श꣡म्बरस्य  
+शततमं꣡ वेशि꣡यं सर्व꣡ताता  
+दि꣡वोदासम् अतिथिग्वं꣡ य꣡द् आ꣡वम्  

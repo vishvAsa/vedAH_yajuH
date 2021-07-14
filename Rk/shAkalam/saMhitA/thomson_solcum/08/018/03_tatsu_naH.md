@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tát sú naḥ savitā́ bhágo  
-váruṇo mitró aryamā́  
-śárma yachantu saprátho yád ī́mahe  
+त꣡त् सु꣡ नः सविता꣡ भ꣡गो  
+व꣡रुणो मित्रो꣡ अर्यमा꣡  
+श꣡र्म यछन्तु सप्र꣡थो य꣡द् ई꣡महे  

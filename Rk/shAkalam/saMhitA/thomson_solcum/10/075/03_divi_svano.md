@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-diví svanó yatate bhū́miyopári  
-anantáṃ śúṣmam úd iyarti bhānúnā  
-abhrā́d iva prá stanayanti vr̥ṣṭáyaḥ  
-síndhur yád éti vr̥ṣabhó ná róruvat  
+दिवि꣡ स्वनो꣡ यतते भू꣡मियोप꣡रि  
+अनन्तं꣡ शु꣡ष्मम् उ꣡द् इयर्ति भानु꣡ना  
+अभ्रा꣡द् इव प्र꣡ स्तनयन्ति वृष्ट꣡यः  
+सि꣡न्धुर् य꣡द् ए꣡ति वृषभो꣡ न꣡ रो꣡रुवत्  

@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-dívā cit támaḥ kr̥ṇvanti  
-parjányenodavāhéna  
-yát pr̥thivī́ṃ viundánti  
+दि꣡वा चित् त꣡मः कृण्वन्ति  
+पर्ज꣡न्येनोदवाहे꣡न  
+य꣡त् पृथिवीं꣡ विउन्द꣡न्ति  

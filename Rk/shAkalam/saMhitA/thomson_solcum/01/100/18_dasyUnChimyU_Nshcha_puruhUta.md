@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-dásyūñ chímyūṃś ca puruhūtá évair  
-hatvā́ pr̥thivyā́ṃ śáruvā ní barhīt  
-sánat kṣétraṃ sákhibhiḥ śvitniyébhiḥ  
-sánat sū́ryaṃ sánad apáḥ suvájraḥ  
+द꣡स्यूञ् छि꣡म्यूंश् च पुरुहूत꣡ ए꣡वैर्  
+हत्वा꣡ पृथिव्यां꣡ श꣡रुवा नि꣡ बर्हीत्  
+स꣡नत् क्षे꣡त्रं स꣡खिभिः श्वित्निये꣡भिः  
+स꣡नत् सू꣡र्यं स꣡नद् अपः꣡ सुव꣡ज्रः  

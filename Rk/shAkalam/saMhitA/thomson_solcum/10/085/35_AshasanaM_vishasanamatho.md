@@ -2,7 +2,7 @@
 title = "035"
 
 +++
-āśásanaṃ viśásanam  
-átho adhivikártanam  
-sūryā́yāḥ paśya rūpā́ṇi  
-tā́ni brahmā́ tú śundhati  
+आश꣡सनं विश꣡सनम्  
+अ꣡थो अधिविक꣡र्तनम्  
+सूर्या꣡याः पश्य रूपा꣡णि  
+ता꣡नि ब्रह्मा꣡ तु꣡ शुन्धति  

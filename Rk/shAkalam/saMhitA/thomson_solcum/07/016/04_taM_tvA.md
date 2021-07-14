@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-táṃ tuvā dūtáṃ kr̥ṇmahe yaśástamaṃ  
-devā́m̐ ā́ vītáye vaha  
-víśvā sūno sahaso martabhójanā  
-rā́sva tád yát tuvémahe  
+तं꣡ तुवा दूतं꣡ कृण्महे यश꣡स्तमं  
+देवाँ꣡ आ꣡ वीत꣡ये वह  
+वि꣡श्वा सूनो सहसो मर्तभो꣡जना  
+रा꣡स्व त꣡द् य꣡त् तुवे꣡महे  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ékācetat sárasvatī nadī́nāṃ  
-śúcir yatī́ giríbhya ā́ samudrā́t  
-rāyáś cétantī bhúvanasya bhū́rer  
-ghr̥tám páyo duduhe nā́huṣāya  
+ए꣡काचेतत् स꣡रस्वती नदी꣡नां  
+शु꣡चिर् यती꣡ गिरि꣡भ्य आ꣡ समुद्रा꣡त्  
+राय꣡श् चे꣡तन्ती भु꣡वनस्य भू꣡रेर्  
+घृत꣡म् प꣡यो दुदुहे ना꣡हुषाय  

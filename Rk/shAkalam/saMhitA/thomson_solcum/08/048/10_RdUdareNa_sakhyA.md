@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-r̥dūdáreṇa sákhiyā saceya  
-yó mā ná ríṣyed dhariaśva pītáḥ  
-ayáṃ yáḥ sómo ní ádhāyi asmé  
-tásmā índram pratíram emi ā́yuḥ  
+ऋदूद꣡रेण स꣡खिया सचेय  
+यो꣡ मा न꣡ रि꣡ष्येद् धरिअश्व पीतः꣡  
+अयं꣡ यः꣡ सो꣡मो नि꣡ अ꣡धायि अस्मे꣡  
+त꣡स्मा इ꣡न्द्रम् प्रति꣡रम् एमि आ꣡युः  

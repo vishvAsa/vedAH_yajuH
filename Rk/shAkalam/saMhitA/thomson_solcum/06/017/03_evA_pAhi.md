@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-evā́ pāhi pratnáthā mándatu tvā  
-śrudhí bráhma vāvr̥dhásvotá gīrbhíḥ  
-āvíḥ sū́ryaṃ kr̥ṇuhí pīpihī́ṣo  
-jahí śátrūm̐r abhí gā́ indra tr̥ndhi  
+एवा꣡ पाहि प्रत्न꣡था म꣡न्दतु त्वा  
+श्रुधि꣡ ब्र꣡ह्म वावृध꣡स्वोत꣡ गीर्भिः꣡  
+आविः꣡ सू꣡र्यं कृणुहि꣡ पीपिही꣡षो  
+जहि꣡ श꣡त्रूँर् अभि꣡ गा꣡ इन्द्र तृन्धि  

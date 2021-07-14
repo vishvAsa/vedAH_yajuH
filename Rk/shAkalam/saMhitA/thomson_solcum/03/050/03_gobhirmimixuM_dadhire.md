@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-góbhir mimikṣúṃ dadhire supārám  
-índraṃ jyaíṣṭhyāya dhā́yase gr̥ṇānā́ḥ  
-mandānáḥ sómam papivā́m̐ r̥jīṣin  
-sám asmábhyam purudhā́ gā́ iṣaṇya  
+गो꣡भिर् मिमिक्षुं꣡ दधिरे सुपार꣡म्  
+इ꣡न्द्रं ज्यइ꣡ष्ठ्याय धा꣡यसे गृणानाः꣡  
+मन्दानः꣡ सो꣡मम् पपिवाँ꣡ ऋजीषिन्  
+स꣡म् अस्म꣡भ्यम् पुरुधा꣡ गा꣡ इषण्य  

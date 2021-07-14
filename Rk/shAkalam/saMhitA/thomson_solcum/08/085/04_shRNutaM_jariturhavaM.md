@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-śr̥ṇutáṃ jaritúr hávaṃ  
-kŕ̥ṣṇasya stuvató narā  
-mádhvaḥ sómasya pītáye  
+शृणुतं꣡ जरितु꣡र् ह꣡वं  
+क्ŕ̥ष्णस्य स्तुवतो꣡ नरा  
+म꣡ध्वः सो꣡मस्य पीत꣡ये  

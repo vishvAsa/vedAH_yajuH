@@ -2,9 +2,9 @@
 title = "003"
 
 +++
-áva tyā́ br̥hatī́r íṣo  
-viśváścandrā amitrahan  
-śácībhiḥ śakra dhūnuhi  
-índra víśvābhir ūtíbhir  
-devī́ jánitry ajījanad  
-bhadrā́ jánitry ajījanat  
+अ꣡व त्या꣡ बृहती꣡र् इ꣡षो  
+विश्व꣡श्चन्द्रा अमित्रहन्  
+श꣡चीभिः शक्र धूनुहि  
+इ꣡न्द्र वि꣡श्वाभिर् ऊति꣡भिर्  
+देवी꣡ ज꣡नित्र्य् अजीजनद्  
+भद्रा꣡ ज꣡नित्र्य् अजीजनत्  

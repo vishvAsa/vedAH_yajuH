@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sajóṣas tvā divó náro  
-yajñásya ketúm indhate  
-yád dha syá mā́nuṣo jánaḥ  
-sumnāyúr juhvé adhvaré  
+सजो꣡षस् त्वा दिवो꣡ न꣡रो  
+यज्ञ꣡स्य केतु꣡म् इन्धते  
+य꣡द् ध स्य꣡ मा꣡नुषो ज꣡नः  
+सुम्नायु꣡र् जुह्वे꣡ अध्वरे꣡  

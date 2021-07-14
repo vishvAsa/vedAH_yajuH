@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ayáṃ rocayad arúco rucānó  
-ayáṃ vāsayad ví r̥téna pūrvī́ḥ  
-ayám īyata r̥tayúgbhir áśvaiḥ  
-suvarvídā nā́bhinā carṣaṇiprā́ḥ  
+अयं꣡ रोचयद् अरु꣡चो रुचानो꣡  
+अयं꣡ वासयद् वि꣡ ऋते꣡न पूर्वीः꣡  
+अय꣡म् ईयत ऋतयु꣡ग्भिर् अ꣡श्वैः  
+सुवर्वि꣡दा ना꣡भिना चर्षणिप्राः꣡  

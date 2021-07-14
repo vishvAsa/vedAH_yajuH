@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ tvā gíro rathī́r iva  
-ásthuḥ sutéṣu girvaṇaḥ  
-abhí tvā sám anūṣata  
-índra vatsáṃ ná mātáraḥ  
+आ꣡ त्वा गि꣡रो रथी꣡र् इव  
+अ꣡स्थुः सुते꣡षु गिर्वणः  
+अभि꣡ त्वा स꣡म् अनूषत  
+इ꣡न्द्र वत्सं꣡ न꣡ मात꣡रः  

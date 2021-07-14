@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-sómasya mitrāvaruṇā  
-úditā sū́ra ā́ dade  
-tád ā́turasya bheṣajám  
+सो꣡मस्य मित्रावरुणा  
+उ꣡दिता सू꣡र आ꣡ ददे  
+त꣡द् आ꣡तुरस्य भेषज꣡म्  

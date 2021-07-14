@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-yā́v itthā́ ślókam ā́ divó  
-jyótir jánāya cakráthuḥ  
-ā́ na ū́rjaṃ vahatam aśvinā yuvám  
+या꣡व् इत्था꣡ श्लो꣡कम् आ꣡ दिवो꣡  
+ज्यो꣡तिर् ज꣡नाय चक्र꣡थुः  
+आ꣡ न ऊ꣡र्जं वहतम् अश्विना युव꣡म्  

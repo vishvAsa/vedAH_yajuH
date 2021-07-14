@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-víṣṇur itthā́ paramám asya vidvā́ñ  
-jātó br̥hánn abhí pāti tr̥tī́yam  
-āsā́ yád asya páyo ákrata sváṃ  
-sácetaso abhí arcanti átra  
+वि꣡ष्णुर् इत्था꣡ परम꣡म् अस्य विद्वा꣡ञ्  
+जातो꣡ बृह꣡न्न् अभि꣡ पाति तृती꣡यम्  
+आसा꣡ य꣡द् अस्य प꣡यो अ꣡क्रत स्वं꣡  
+स꣡चेतसो अभि꣡ अर्चन्ति अ꣡त्र  

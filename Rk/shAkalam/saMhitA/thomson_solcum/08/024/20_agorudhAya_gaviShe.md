@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-ágorudhāya gavíṣe  
-dyukṣā́ya dásmiyaṃ vácaḥ  
-ghr̥tā́t svā́dīyo mádhunaś ca vocata  
+अ꣡गोरुधाय गवि꣡षे  
+द्युक्षा꣡य द꣡स्मियं व꣡चः  
+घृता꣡त् स्वा꣡दीयो म꣡धुनश् च वोचत  

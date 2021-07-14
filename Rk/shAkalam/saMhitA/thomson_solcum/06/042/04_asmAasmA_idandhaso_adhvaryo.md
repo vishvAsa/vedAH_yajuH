@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-asmā́-asmā íd ándhaso  
-ádhvaryo prá bharā sutám  
-kuvít samasya jéniyasya śárdhato  
-abhíśaster avaspárat  
+अस्मा꣡-अस्मा इ꣡द् अ꣡न्धसो  
+अ꣡ध्वर्यो प्र꣡ भरा सुत꣡म्  
+कुवि꣡त् समस्य जे꣡नियस्य श꣡र्धतो  
+अभि꣡शस्तेर् अवस्प꣡रत्  

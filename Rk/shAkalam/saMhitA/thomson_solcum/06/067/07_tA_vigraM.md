@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tā́ vigráṃ dhaithe jaṭháram pr̥ṇádhyā  
-ā́ yát sádma sábhr̥tayaḥ pr̥ṇánti  
-ná mr̥ṣyante yuvatáyo ávātā  
-ví yát páyo viśvajinvā bhárante  
+ता꣡ विग्रं꣡ धैथे जठ꣡रम् पृण꣡ध्या  
+आ꣡ य꣡त् स꣡द्म स꣡भृतयः पृण꣡न्ति  
+न꣡ मृष्यन्ते युवत꣡यो अ꣡वाता  
+वि꣡ य꣡त् प꣡यो विश्वजिन्वा भ꣡रन्ते  

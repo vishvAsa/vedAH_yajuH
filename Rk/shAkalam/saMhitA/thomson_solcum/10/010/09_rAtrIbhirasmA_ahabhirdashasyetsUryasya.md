@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-rā́trībhir asmā áhabhir daśasyet  
-sū́ryasya cákṣur múhur ún mimīyāt  
-divā́ pr̥thivyā́ mithunā́ sábandhū  
-yamī́r yamásya bibhr̥yād ájāmi  
+रा꣡त्रीभिर् अस्मा अ꣡हभिर् दशस्येत्  
+सू꣡र्यस्य च꣡क्षुर् मु꣡हुर् उ꣡न् मिमीयात्  
+दिवा꣡ पृथिव्या꣡ मिथुना꣡ स꣡बन्धू  
+यमी꣡र् यम꣡स्य बिभृयाद् अ꣡जामि  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áyuddhaseno vibhúvā vibhindatā́  
-dā́śad vr̥trahā́ tújiyāni tejate  
-índrasya vájrād abibhed abhiśnáthaḥ  
-prā́krāmac chundhyū́r ájahād uṣā́ ánaḥ  
+अ꣡युद्धसेनो विभु꣡वा विभिन्दता꣡  
+दा꣡शद् वृत्रहा꣡ तु꣡जियानि तेजते  
+इ꣡न्द्रस्य व꣡ज्राद् अबिभेद् अभिश्न꣡थः  
+प्रा꣡क्रामच् छुन्ध्यू꣡र् अ꣡जहाद् उषा꣡ अ꣡नः  

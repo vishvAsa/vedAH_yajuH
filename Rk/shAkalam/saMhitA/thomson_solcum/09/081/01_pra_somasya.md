@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá sómasya pávamānasya ūrmáya  
-índrasya yanti jaṭháraṃ supéśasaḥ  
-dadhnā́ yád īm únnītā yaśásā gávāṃ  
-dānā́ya śū́ram udámandiṣuḥ sutā́ḥ  
+प्र꣡ सो꣡मस्य प꣡वमानस्य ऊर्म꣡य  
+इ꣡न्द्रस्य यन्ति जठ꣡रं सुपे꣡शसः  
+दध्ना꣡ य꣡द् ईम् उ꣡न्नीता यश꣡सा ग꣡वां  
+दाना꣡य शू꣡रम् उद꣡मन्दिषुः सुताः꣡  

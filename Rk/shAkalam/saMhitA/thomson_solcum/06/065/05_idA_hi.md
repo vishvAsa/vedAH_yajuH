@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-idā́ hí ta · uṣo adrisāno  
-gotrā́ gávām áṅgiraso gr̥ṇánti  
-ví arkéṇa bibhidur bráhmaṇā ca  
-satyā́ nr̥̄ṇā́m+ abhavad deváhūtiḥ  
+इदा꣡ हि꣡ त · उषो अद्रिसानो  
+गोत्रा꣡ ग꣡वाम् अ꣡ङ्गिरसो गृण꣡न्ति  
+वि꣡ अर्के꣡ण बिभिदुर् ब्र꣡ह्मणा च  
+सत्या꣡ नॄणा꣡म्+ अभवद् देव꣡हूतिः  

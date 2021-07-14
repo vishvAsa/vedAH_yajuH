@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-yó agníṃ tanúvo dáme  
-devám mártaḥ saparyáti  
-tásmā íd dīdayad vásu  
+यो꣡ अग्निं꣡ तनु꣡वो द꣡मे  
+देव꣡म् म꣡र्तः सपर्य꣡ति  
+त꣡स्मा इ꣡द् दीदयद् व꣡सु  

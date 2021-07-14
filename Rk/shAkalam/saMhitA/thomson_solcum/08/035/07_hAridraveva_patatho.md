@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-hāridravéva patatho vánéd úpa  
-sómaṃ sutám mahiṣévā́va gachathaḥ  
-sajóṣasā uṣásā sū́riyeṇa ca  
-trír vartír yātam aśvinā  
+हारिद्रवे꣡व पतथो व꣡ने꣡द् उ꣡प  
+सो꣡मं सुत꣡म् महिषे꣡वा꣡व गछथः  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+त्रि꣡र् वर्ति꣡र् यातम् अश्विना  

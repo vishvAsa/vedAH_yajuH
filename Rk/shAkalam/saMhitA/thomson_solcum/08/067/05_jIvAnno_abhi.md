@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-jīvā́n no abhí dhetana  
-ā́dityāsaḥ purā́ háthāt  
-kád dha stha havanaśrutaḥ  
+जीवा꣡न् नो अभि꣡ धेतन  
+आ꣡दित्यासः पुरा꣡ ह꣡थात्  
+क꣡द् ध स्थ हवनश्रुतः  

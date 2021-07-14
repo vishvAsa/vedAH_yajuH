@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ágne manyúm pratinudán páreṣām  
-ádabdho gopā́ḥ pári pāhi nas tvám  
-pratyáñco yantu nigútaḥ púnas té  
-amaíṣāṃ cittám prabúdhāṃ ví neśat  
+अ꣡ग्ने मन्यु꣡म् प्रतिनुद꣡न् प꣡रेषाम्  
+अ꣡दब्धो गोपाः꣡ प꣡रि पाहि नस् त्व꣡म्  
+प्रत्य꣡ञ्चो यन्तु निगु꣡तः पु꣡नस् ते꣡  
+अमइ꣡षां चित्त꣡म् प्रबु꣡धां वि꣡ नेशत्  

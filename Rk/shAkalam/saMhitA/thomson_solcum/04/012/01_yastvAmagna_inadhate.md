@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yás tvā́m agna inádhate yatásruk  
-trís te ánnaṃ kr̥ṇávat sásmin áhan  
-sá sú dyumnaír abhí astu prasákṣat  
-táva krátvā jātavedaś cikitvā́n  
+य꣡स् त्वा꣡म् अग्न इन꣡धते यत꣡स्रुक्  
+त्रि꣡स् ते अ꣡न्नं कृण꣡वत् स꣡स्मिन् अ꣡हन्  
+स꣡ सु꣡ द्युम्नइ꣡र् अभि꣡ अस्तु प्रस꣡क्षत्  
+त꣡व क्र꣡त्वा जातवेदश् चिकित्वा꣡न्  

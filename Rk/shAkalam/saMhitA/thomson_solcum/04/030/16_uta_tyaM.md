@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-utá tyám putrám agrúvaḥ  
-párāvr̥ktaṃ śatákratuḥ  
-ukthéṣu índra ā́bhajat  
+उत꣡ त्य꣡म् पुत्र꣡म् अग्रु꣡वः  
+प꣡रावृक्तं शत꣡क्रतुः  
+उक्थे꣡षु इ꣡न्द्र आ꣡भजत्  

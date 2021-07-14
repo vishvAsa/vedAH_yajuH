@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yā́bhiḥ káṇvam abhíṣṭibhiḥ  
-prā́vataṃ yuvám aśvinā  
-tā́bhiḥ ṣú asmā́m̐ avataṃ śubhas patī  
-pātáṃ sómam r̥tāvr̥dhā  
+या꣡भिः क꣡ण्वम् अभि꣡ष्टिभिः  
+प्रा꣡वतं युव꣡म् अश्विना  
+ता꣡भिः षु꣡ अस्माँ꣡ अवतं शुभस् पती  
+पातं꣡ सो꣡मम् ऋतावृधा  

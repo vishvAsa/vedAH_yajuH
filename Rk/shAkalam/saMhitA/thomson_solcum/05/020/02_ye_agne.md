@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yé agne néráyanti te  
-vr̥ddhā́ ugrásya śávasaḥ  
-ápa dvéṣo ápa hváro  
-anyávratasya saścire  
+ये꣡ अग्ने ने꣡र꣡यन्ति ते  
+वृद्धा꣡ उग्र꣡स्य श꣡वसः  
+अ꣡प द्वे꣡षो अ꣡प ह्व꣡रो  
+अन्य꣡व्रतस्य सश्चिरे  

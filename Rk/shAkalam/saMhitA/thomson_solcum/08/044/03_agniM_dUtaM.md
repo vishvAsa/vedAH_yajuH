@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-agníṃ dūtám puró dadhe  
-havyavā́ham úpa bruve  
-devā́m̐ ā́ sādayād ihá  
+अग्निं꣡ दूत꣡म् पुरो꣡ दधे  
+हव्यवा꣡हम् उ꣡प ब्रुवे  
+देवाँ꣡ आ꣡ सादयाद् इह꣡  

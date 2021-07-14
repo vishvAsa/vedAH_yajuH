@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ávantu mā́m uṣáso jā́yamānā  
-ávantu mā síndhavaḥ pínvamānāḥ  
-ávantu mā párvatāso dhruvā́so  
-ávantu mā pitáro deváhūtau  
+अ꣡वन्तु मा꣡म् उष꣡सो जा꣡यमाना  
+अ꣡वन्तु मा सि꣡न्धवः पि꣡न्वमानाः  
+अ꣡वन्तु मा प꣡र्वतासो ध्रुवा꣡सो  
+अ꣡वन्तु मा पित꣡रो देव꣡हूतौ  

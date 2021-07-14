@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-abhí hí satya somapā  
-ubhé babhū́tha ródasī  
-índrā́si sunvató vr̥dháḥ pátir diváḥ  
+अभि꣡ हि꣡ सत्य सोमपा  
+उभे꣡ बभू꣡थ रो꣡दसी  
+इ꣡न्द्रा꣡सि सुन्वतो꣡ वृधः꣡ प꣡तिर् दिवः꣡  

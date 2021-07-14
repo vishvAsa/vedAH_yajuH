@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-devó devā́nām asi mitró ádbhuto  
-vásur vásūnām asi cā́rur adhvaré  
-śárman siyāma táva sapráthastame  
-ágne sakhyé mā́ riṣāmā vayáṃ táva  
+देवो꣡ देवा꣡नाम् असि मित्रो꣡ अ꣡द्भुतो  
+व꣡सुर् व꣡सूनाम् असि चा꣡रुर् अध्वरे꣡  
+श꣡र्मन् सियाम त꣡व सप्र꣡थस्तमे  
+अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yáthā vā́to yáthā vánaṃ  
-yáthā samudrá éjati  
-evā́ tváṃ daśamāsiya  
-sahā́vehi jarā́yuṇā  
+य꣡था वा꣡तो य꣡था व꣡नं  
+य꣡था समुद्र꣡ ए꣡जति  
+एवा꣡ त्वं꣡ दशमासिय  
+सहा꣡वेहि जरा꣡युणा  

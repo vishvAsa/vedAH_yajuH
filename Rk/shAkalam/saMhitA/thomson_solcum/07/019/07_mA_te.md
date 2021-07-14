@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-mā́ te asyā́ṃ sahasāvan páriṣṭāv  
-aghā́ya bhūma harivaḥ parādaí  
-trā́yasva no avr̥kébhir várūthais  
-táva priyā́saḥ sūríṣu siyāma  
+मा꣡ ते अस्यां꣡ सहसावन् प꣡रिष्टाव्  
+अघा꣡य भूम हरिवः परादइ꣡  
+त्रा꣡यस्व नो अवृके꣡भिर् व꣡रूथैस्  
+त꣡व प्रिया꣡सः सूरि꣡षु सियाम  

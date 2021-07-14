@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá yé yayúr avr̥kā́so ráthā iva  
-nr̥pātā́ro jánānãm  
-utá svéna śávasā śūśuvur nára  
-utá kṣiyanti sukṣitím  
+प्र꣡ ये꣡ ययु꣡र् अवृका꣡सो र꣡था इव  
+नृपाता꣡रो ज꣡नान्ãम्  
+उत꣡ स्वे꣡न श꣡वसा शूशुवुर् न꣡र  
+उत꣡ क्षियन्ति सुक्षिति꣡म्  

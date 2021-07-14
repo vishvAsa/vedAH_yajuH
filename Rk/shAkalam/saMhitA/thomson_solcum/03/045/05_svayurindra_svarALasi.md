@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-svayúr indra svarā́ḷ asi  
-smáddiṣṭiḥ sváyaśastaraḥ  
-sá vāvr̥dhāná ójasā puruṣṭuta  
-bhávā naḥ suśrávastamaḥ  
+स्वयु꣡र् इन्द्र स्वरा꣡ऌ असि  
+स्म꣡द्दिष्टिः स्व꣡यशस्तरः  
+स꣡ वावृधान꣡ ओ꣡जसा पुरुष्टुत  
+भ꣡वा नः सुश्र꣡वस्तमः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ayáṃ só agnír yásmin sómam índraḥ  
-sutáṃ dadhé jaṭháre vāvaśānáḥ  
-sahasríṇaṃ vā́jam átyaṃ ná sáptiṃ  
-sasavā́n sán stūyase jātavedaḥ  
+अयं꣡ सो꣡ अग्नि꣡र् य꣡स्मिन् सो꣡मम् इ꣡न्द्रः  
+सुतं꣡ दधे꣡ जठ꣡रे वावशानः꣡  
+सहस्रि꣡णं वा꣡जम् अ꣡त्यं न꣡ स꣡प्तिं  
+ससवा꣡न् स꣡न् स्तूयसे जातवेदः  

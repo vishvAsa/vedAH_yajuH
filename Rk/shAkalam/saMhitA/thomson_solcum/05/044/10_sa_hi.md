@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sá hí kṣatrásya manasásya cíttibhir  
-evāvadásya yajatásya sádhreḥ  
-avatsārásya spr̥ṇavāma ráṇvabhiḥ  
-śáviṣṭhaṃ vā́jaṃ vidúṣā cid árdhiyam  
+स꣡ हि꣡ क्षत्र꣡स्य मनस꣡स्य चि꣡त्तिभिर्  
+एवावद꣡स्य यजत꣡स्य स꣡ध्रेः  
+अवत्सार꣡स्य स्पृणवाम र꣡ण्वभिः  
+श꣡विष्ठं वा꣡जं विदु꣡षा चिद् अ꣡र्धियम्  

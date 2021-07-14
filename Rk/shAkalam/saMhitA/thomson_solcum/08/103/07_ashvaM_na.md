@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-áśvaṃ ná gīrbhī́ rathíyaṃ sudā́navo  
-marmr̥jyánte devayávaḥ  
-ubhé toké tánaye dasma viśpate  
-párṣi rā́dho maghónãm  
+अ꣡श्वं न꣡ गीर्भी꣡ रथि꣡यं सुदा꣡नवो  
+मर्मृज्य꣡न्ते देवय꣡वः  
+उभे꣡ तोके꣡ त꣡नये दस्म विश्पते  
+प꣡र्षि रा꣡धो मघो꣡न्ãम्  

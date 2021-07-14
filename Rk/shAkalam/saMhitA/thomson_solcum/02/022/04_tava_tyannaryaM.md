@@ -2,11 +2,11 @@
 title = "004"
 
 +++
-táva tyán náriyaṃ nr̥to  
-ápa indra prathamám pūrviyáṃ diví  
-pravā́ciyaṃ kr̥tám  
-yád devásya śávasā prā́riṇā ásuṃ  
-riṇánn apáḥ  
-bhúvad víśvam abhí ā́devam ójasā  
-vidā́d ū́rjaṃ śatákratur  
-vidā́d íṣam  
+त꣡व त्य꣡न् न꣡रियं नृतो  
+अ꣡प इन्द्र प्रथम꣡म् पूर्वियं꣡ दिवि꣡  
+प्रवा꣡चियं कृत꣡म्  
+य꣡द् देव꣡स्य श꣡वसा प्रा꣡रिणा अ꣡सुं  
+रिण꣡न्न् अपः꣡  
+भु꣡वद् वि꣡श्वम् अभि꣡ आ꣡देवम् ओ꣡जसा  
+विदा꣡द् ऊ꣡र्जं शत꣡क्रतुर्  
+विदा꣡द् इ꣡षम्  

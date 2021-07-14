@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-naítā́vad enā́ paró anyád asti  
-ukṣā́ sá dyā́vāpr̥thivī́ bibharti  
-tvácam pavítraṃ kr̥ṇuta svadhā́vān  
-yád īṃ sū́ryaṃ ná haríto váhanti  
+नइ꣡ता꣡वद् एना꣡ परो꣡ अन्य꣡द् अस्ति  
+उक्षा꣡ स꣡ द्या꣡वापृथिवी꣡ बिभर्ति  
+त्व꣡चम् पवि꣡त्रं कृणुत स्वधा꣡वान्  
+य꣡द् ईं सू꣡र्यं न꣡ हरि꣡तो व꣡हन्ति  

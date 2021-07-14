@@ -2,10 +2,10 @@
 title = "001"
 
 +++
-agníṃ hótāram manye dā́suvantaṃ  
-vásuṃ sūnúṃ sáhaso jātávedasaṃ  
-vípraṃ ná jātávedasam  
-yá ūrdhváyā suadhvaró  
-devó devā́ciyā kr̥pā́  
-ghr̥tásya víbhrāṣṭim ánu vaṣṭi śocíṣā  
-ājúhvānasya sarpíṣaḥ  
+अग्निं꣡ हो꣡तारम् मन्ये दा꣡सुवन्तं  
+व꣡सुं सूनुं꣡ स꣡हसो जात꣡वेदसं  
+वि꣡प्रं न꣡ जात꣡वेदसम्  
+य꣡ ऊर्ध्व꣡या सुअध्वरो꣡  
+देवो꣡ देवा꣡चिया कृपा꣡  
+घृत꣡स्य वि꣡भ्राष्टिम् अ꣡नु वष्टि शोचि꣡षा  
+आजु꣡ह्वानस्य सर्पि꣡षः  

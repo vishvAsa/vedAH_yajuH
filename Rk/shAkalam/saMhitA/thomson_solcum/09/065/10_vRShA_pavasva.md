@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-vŕ̥ṣā pavasva dhā́rayā  
-marútvate ca matsaráḥ  
-víśvā dádhāna ójasā  
+व्ŕ̥षा पवस्व धा꣡रया  
+मरु꣡त्वते च मत्सरः꣡  
+वि꣡श्वा द꣡धान ओ꣡जसा  

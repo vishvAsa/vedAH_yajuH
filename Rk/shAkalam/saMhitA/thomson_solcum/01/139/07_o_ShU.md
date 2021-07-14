@@ -2,10 +2,10 @@
 title = "007"
 
 +++
-ó ṣū́ ṇo agne śr̥ṇuhi tvám īḷitó  
-devébhiyo bravasi yajñíyebhiyo  
-rā́jabhyo yajñíyebhiyaḥ  
-yád dha tyā́m áṅgirobhiyo  
-dhenúṃ devā ádattana  
-ví tā́ṃ duhre aryamā́ kartárī sácām̐  
-eṣá tā́ṃ veda me sácā  
+ओ꣡ षू꣡ णो अग्ने शृणुहि त्व꣡म् ईऌइतो꣡  
+देवे꣡भियो ब्रवसि यज्ञि꣡येभियो  
+रा꣡जभ्यो यज्ञि꣡येभियः  
+य꣡द् ध त्या꣡म् अ꣡ङ्गिरोभियो  
+धेनुं꣡ देवा अ꣡दत्तन  
+वि꣡ तां꣡ दुह्रे अर्यमा꣡ कर्त꣡री स꣡चाँ  
+एष꣡ तां꣡ वेद मे स꣡चा  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yá indra sásti avrató  
-anuṣvā́pam ádevayuḥ  
-svaíḥ ṣá évair mumurat póṣiyaṃ rayíṃ  
-sanutár dhehi táṃ tátaḥ  
+य꣡ इन्द्र स꣡स्ति अव्रतो꣡  
+अनुष्वा꣡पम् अ꣡देवयुः  
+स्वइः꣡ ष꣡ ए꣡वैर् मुमुरत् पो꣡षियं रयिं꣡  
+सनुत꣡र् धेहि तं꣡ त꣡तः  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-tuvé soma prathamā́ vr̥ktábarhiṣo  
-mahé vā́jāya śrávase dhíyaṃ dadhuḥ  
-sá tváṃ no vīra vīríyāya codaya  
+तुवे꣡ सोम प्रथमा꣡ वृक्त꣡बर्हिषो  
+महे꣡ वा꣡जाय श्र꣡वसे धि꣡यं दधुः  
+स꣡ त्वं꣡ नो वीर वीरि꣡याय चोदय  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá bhūtu yó ha prathamā́ya dhā́yasa  
-ójo mímāno mahimā́nam ā́tirat  
-śū́ro yó yutsú tanúvam parivyáta  
-śīrṣáṇi dyā́m mahinā́ práty amuñcata  
+स꣡ भूतु यो꣡ ह प्रथमा꣡य धा꣡यस  
+ओ꣡जो मि꣡मानो महिमा꣡नम् आ꣡तिरत्  
+शू꣡रो यो꣡ युत्सु꣡ तनु꣡वम् परिव्य꣡त  
+शीर्ष꣡णि द्या꣡म् महिना꣡ प्र꣡त्य् अमुञ्चत  

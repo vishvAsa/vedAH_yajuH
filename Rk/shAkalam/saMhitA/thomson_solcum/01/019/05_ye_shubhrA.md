@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yé śubhrā́ ghorávarpasaḥ  
-sukṣatrā́so riśā́dasaḥ  
-marúdbhir agna ā́ gahi  
+ये꣡ शुभ्रा꣡ घोर꣡वर्पसः  
+सुक्षत्रा꣡सो रिशा꣡दसः  
+मरु꣡द्भिर् अग्न आ꣡ गहि  

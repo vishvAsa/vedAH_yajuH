@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ágna índraś ca dāśúṣo duroṇé  
-sutā́vato yajñám ihópa yātam  
-ámardhantā somapéyāya devā  
+अ꣡ग्न इ꣡न्द्रश् च दाशु꣡षो दुरोणे꣡  
+सुता꣡वतो यज्ञ꣡म् इहो꣡प यातम्  
+अ꣡मर्धन्ता सोमपे꣡याय देवा  

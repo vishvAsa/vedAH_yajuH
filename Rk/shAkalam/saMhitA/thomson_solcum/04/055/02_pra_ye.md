@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá yé dhā́māni pūrviyā́ṇi árcān  
-ví yád uchā́n viyotā́ro ámūrāḥ  
-vidhātā́ro ví té dadhur ájasrā  
-r̥tádhītayo rurucanta dasmā́ḥ  
+प्र꣡ ये꣡ धा꣡मानि पूर्विया꣡णि अ꣡र्चान्  
+वि꣡ य꣡द् उछा꣡न् वियोता꣡रो अ꣡मूराः  
+विधाता꣡रो वि꣡ ते꣡ दधुर् अ꣡जस्रा  
+ऋत꣡धीतयो रुरुचन्त दस्माः꣡  

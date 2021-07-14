@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-ná tvā varante anyáthā  
-yád dítsasi stutó maghám  
-stotŕ̥bhya indra girvaṇaḥ  
+न꣡ त्वा वरन्ते अन्य꣡था  
+य꣡द् दि꣡त्ससि स्तुतो꣡ मघ꣡म्  
+स्तोत्ŕ̥भ्य इन्द्र गिर्वणः  

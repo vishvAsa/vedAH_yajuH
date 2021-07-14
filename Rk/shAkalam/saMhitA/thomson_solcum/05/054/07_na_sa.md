@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ná sá jīyate maruto ná hanyate  
-ná sredhati ná vyathate ná riṣyati  
-nā́sya rā́ya úpa dasyanti nótáya  
-ŕ̥ṣiṃ vā yáṃ rā́jānaṃ vā súṣūdatha  
+न꣡ स꣡ जीयते मरुतो न꣡ हन्यते  
+न꣡ स्रेधति न꣡ व्यथते न꣡ रिष्यति  
+ना꣡स्य रा꣡य उ꣡प दस्यन्ति नो꣡त꣡य  
+ŕ̥षिं वा यं꣡ रा꣡जानं वा सु꣡षूदथ  

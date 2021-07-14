@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-utó sá máhyam índubhiḥ  
-ṣáḍ yuktā́m̐ anuséṣidhat  
-góbhir yávaṃ ná carkr̥ṣat  
+उतो꣡ स꣡ म꣡ह्यम् इ꣡न्दुभिः  
+ष꣡ड् युक्ताँ꣡ अनुसे꣡षिधत्  
+गो꣡भिर् य꣡वं न꣡ चर्कृषत्  

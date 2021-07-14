@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mahā́m̐ índro nr̥vád ā́ carṣaṇiprā́  
-utá dvibárhā amináḥ sáhobhiḥ  
-asmadríag vāvr̥dhe vīríyāya  
-urúḥ pr̥thúḥ súkr̥taḥ kartŕ̥bhir bhūt  
+महाँ꣡ इ꣡न्द्रो नृव꣡द् आ꣡ चर्षणिप्रा꣡  
+उत꣡ द्विब꣡र्हा अमिनः꣡ स꣡होभिः  
+अस्मद्रि꣡अग् वावृधे वीरि꣡याय  
+उरुः꣡ पृथुः꣡ सु꣡कृतः कर्त्ŕ̥भिर् भूत्  

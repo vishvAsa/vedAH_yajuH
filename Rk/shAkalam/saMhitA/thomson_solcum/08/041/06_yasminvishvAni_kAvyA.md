@@ -2,9 +2,9 @@
 title = "006"
 
 +++
-yásmin víśvāni kā́viyā  
-cakré nā́bhir iva śritā́  
-tritáṃ jūtī́ saparyata  
-vrajé gā́vo ná saṃyúje  
-yujé áśvām̐ ayukṣata  
-nábhantām anyaké same  
+य꣡स्मिन् वि꣡श्वानि का꣡विया  
+चक्रे꣡ ना꣡भिर् इव श्रिता꣡  
+त्रितं꣡ जूती꣡ सपर्यत  
+व्रजे꣡ गा꣡वो न꣡ संयु꣡जे  
+युजे꣡ अ꣡श्वाँ अयुक्षत  
+न꣡भन्ताम् अन्यके꣡ समे  

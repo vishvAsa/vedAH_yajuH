@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá íṣuhastaiḥ sá niṣaṅgíbhir vaśī́  
-sáṃsraṣṭā sá yúdha índro gaṇéna  
-saṃsr̥ṣṭajít somapā́ bāhuśardhī́  
-ugrádhanvā prátihitābhir ástā  
+स꣡ इ꣡षुहस्तैः स꣡ निषङ्गि꣡भिर् वशी꣡  
+सं꣡स्रष्टा स꣡ यु꣡ध इ꣡न्द्रो गणे꣡न  
+संसृष्टजि꣡त् सोमपा꣡ बाहुशर्धी꣡  
+उग्र꣡धन्वा प्र꣡तिहिताभिर् अ꣡स्ता  

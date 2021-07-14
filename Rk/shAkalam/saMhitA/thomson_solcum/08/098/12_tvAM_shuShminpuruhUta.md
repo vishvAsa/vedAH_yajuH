@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-tuvā́ṃ śuṣmin puruhūta vājayántam  
-úpa bruve śatakrato  
-sá no rāsva suvī́riyam  
+तुवां꣡ शुष्मिन् पुरुहूत वाजय꣡न्तम्  
+उ꣡प ब्रुवे शतक्रतो  
+स꣡ नो रास्व सुवी꣡रियम्  

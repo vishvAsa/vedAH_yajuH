@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuvé agne sumatím bhíkṣamāṇā  
-diví śrávo dadhire yajñíyāsaḥ  
-náktā ca cakrúr uṣásā vírūpe  
-kr̥ṣṇáṃ ca várṇam aruṇáṃ ca sáṃ dhuḥ  
+तुवे꣡ अग्ने सुमति꣡म् भि꣡क्षमाणा  
+दिवि꣡ श्र꣡वो दधिरे यज्ञि꣡यासः  
+न꣡क्ता च चक्रु꣡र् उष꣡सा वि꣡रूपे  
+कृष्णं꣡ च व꣡र्णम् अरुणं꣡ च सं꣡ धुः  

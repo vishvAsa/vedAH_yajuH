@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-r̥táṃ voce námasā pr̥chyámānas  
-távāśásā jātavedo yádīdám  
-tuvám asyá kṣayasi yád dha víśvaṃ  
-diví yád u dráviṇaṃ yát pr̥thivyā́m  
+ऋतं꣡ वोचे न꣡मसा पृछ्य꣡मानस्  
+त꣡वाश꣡सा जातवेदो य꣡दीद꣡म्  
+तुव꣡म् अस्य꣡ क्षयसि य꣡द् ध वि꣡श्वं  
+दिवि꣡ य꣡द् उ द्र꣡विणं य꣡त् पृथिव्या꣡म्  

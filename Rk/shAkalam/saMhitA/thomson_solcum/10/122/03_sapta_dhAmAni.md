@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-saptá dhā́māni pariyánn ámartiyo  
-dā́śad dāśúṣe sukŕ̥te māmahasva  
-suvī́reṇa rayíṇāgne suābhúvā  
-yás ta ā́naṭ samídhā táṃ juṣasva  
+सप्त꣡ धा꣡मानि परिय꣡न्न् अ꣡मर्तियो  
+दा꣡शद् दाशु꣡षे सुक्ŕ̥ते मामहस्व  
+सुवी꣡रेण रयि꣡णाग्ने सुआभु꣡वा  
+य꣡स् त आ꣡नट् समि꣡धा तं꣡ जुषस्व  

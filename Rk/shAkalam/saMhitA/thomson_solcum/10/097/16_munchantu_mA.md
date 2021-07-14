@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-muñcántu mā śapathíyād  
-átho varuṇíyād utá  
-átho yamásya páḍbīśāt  
-sárvasmād devakilbiṣā́t  
+मुञ्च꣡न्तु मा शपथि꣡याद्  
+अ꣡थो वरुणि꣡याद् उत꣡  
+अ꣡थो यम꣡स्य प꣡ड्बीशात्  
+स꣡र्वस्माद् देवकिल्बिषा꣡त्  

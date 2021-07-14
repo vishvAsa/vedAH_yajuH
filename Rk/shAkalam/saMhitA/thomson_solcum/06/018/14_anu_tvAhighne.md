@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ánu tvā́highne ádha deva devā́  
-mádan víśve kavítamaṃ kavīnā́m  
-káro yátra várivo bādhitā́ya  
-divé jánāya tanúve gr̥ṇānáḥ  
+अ꣡नु त्वा꣡हिघ्ने अ꣡ध देव देवा꣡  
+म꣡दन् वि꣡श्वे कवि꣡तमं कवीना꣡म्  
+क꣡रो य꣡त्र व꣡रिवो बाधिता꣡य  
+दिवे꣡ ज꣡नाय तनु꣡वे गृणानः꣡  

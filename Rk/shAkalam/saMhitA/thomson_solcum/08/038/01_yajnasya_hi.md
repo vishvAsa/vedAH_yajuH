@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-yajñásya hí sthá r̥tvíjā  
-sásnī vā́jeṣu kármasu  
-índrāgnī tásya bodhatam  
+यज्ञ꣡स्य हि꣡ स्थ꣡ ऋत्वि꣡जा  
+स꣡स्नी वा꣡जेषु क꣡र्मसु  
+इ꣡न्द्राग्नी त꣡स्य बोधतम्  

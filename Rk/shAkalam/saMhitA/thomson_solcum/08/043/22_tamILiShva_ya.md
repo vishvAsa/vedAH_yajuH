@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-tám īḷiṣva yá ā́huto  
-agnír vibhrā́jate ghr̥taíḥ  
-imáṃ naḥ śr̥ṇavad dhávam  
+त꣡म् ईऌइष्व य꣡ आ꣡हुतो  
+अग्नि꣡र् विभ्रा꣡जते घृतइः꣡  
+इमं꣡ नः शृणवद् ध꣡वम्  

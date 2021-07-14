@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-ási hí vīra séniyo  
-ási bhū́ri parādadíḥ  
-ási dabhrásya cid vr̥dhó  
-yájamānāya śikṣasi  
-sunvaté bhū́ri te vásu  
+अ꣡सि हि꣡ वीर से꣡नियो  
+अ꣡सि भू꣡रि पराददिः꣡  
+अ꣡सि दभ्र꣡स्य चिद् वृधो꣡  
+य꣡जमानाय शिक्षसि  
+सुन्वते꣡ भू꣡रि ते व꣡सु  

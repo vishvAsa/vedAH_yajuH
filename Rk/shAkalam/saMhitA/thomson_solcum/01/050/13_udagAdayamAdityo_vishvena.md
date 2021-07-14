@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-úd agād ayám ādityó  
-víśvena sáhasā sahá  
-dviṣántam máhya° randháyan  
-mó aháṃ dviṣaté radham  
+उ꣡द् अगाद् अय꣡म् आदित्यो꣡  
+वि꣡श्वेन स꣡हसा सह꣡  
+द्विष꣡न्तम् म꣡ह्य° रन्ध꣡यन्  
+मो꣡ अहं꣡ द्विषते꣡ रधम्  

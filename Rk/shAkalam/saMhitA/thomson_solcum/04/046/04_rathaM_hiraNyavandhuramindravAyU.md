@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ráthaṃ híraṇyavandhuram  
-índravāyū suadhvarám  
-ā́ hí sthā́tho divispŕ̥śam  
+र꣡थं हि꣡रण्यवन्धुरम्  
+इ꣡न्द्रवायू सुअध्वर꣡म्  
+आ꣡ हि꣡ स्था꣡थो दिविस्प्ŕ̥शम्  

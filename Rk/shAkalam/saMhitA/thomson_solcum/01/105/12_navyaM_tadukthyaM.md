@@ -2,8 +2,8 @@
 title = "012"
 
 +++
-návyaṃ tád ukthíyaṃ hitáṃ  
-dévāsaḥ supravācanám  
-r̥tám arṣanti síndhavaḥ  
-satyáṃ tātāna sū́riyo  
-vittám me asyá rodasī  
+न꣡व्यं त꣡द् उक्थि꣡यं हितं꣡  
+दे꣡वासः सुप्रवाचन꣡म्  
+ऋत꣡म् अर्षन्ति सि꣡न्धवः  
+सत्यं꣡ तातान सू꣡रियो  
+वित्त꣡म् मे अस्य꣡ रोदसी  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-makṣū́ kanā́yāḥ sakhiyáṃ návīyo  
-rā́dho ná réta r̥tám ít turaṇyan  
-śúci yát te rékaṇa ā́yajanta  
-sabardúghāyāḥ páya usríyāyāḥ  
+मक्षू꣡ कना꣡याः सखियं꣡ न꣡वीयो  
+रा꣡धो न꣡ रे꣡त ऋत꣡म् इ꣡त् तुरण्यन्  
+शु꣡चि य꣡त् ते रे꣡कण आ꣡यजन्त  
+सबर्दु꣡घायाः प꣡य उस्रि꣡यायाः  

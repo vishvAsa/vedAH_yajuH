@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-somā́naṃ suáraṇaṃ  
-kr̥ṇuhí brahmaṇas pate  
-kakṣī́vantaṃ yá auśijáḥ  
+सोमा꣡नं सुअ꣡रणं  
+कृणुहि꣡ ब्रह्मणस् पते  
+कक्षी꣡वन्तं य꣡ औशिजः꣡  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yát te samudrám arṇavám  
-máno jagā́ma dūrakám  
-tát ta ā́ vartayāmasi  
-ihá kṣáyāya jīváse  
+य꣡त् ते समुद्र꣡म् अर्णव꣡म्  
+म꣡नो जगा꣡म दूरक꣡म्  
+त꣡त् त आ꣡ वर्तयामसि  
+इह꣡ क्ष꣡याय जीव꣡से  

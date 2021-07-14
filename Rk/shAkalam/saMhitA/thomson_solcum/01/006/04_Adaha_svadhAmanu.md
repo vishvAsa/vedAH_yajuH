@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ã́d áha svadhā́m ánu  
-púnar garbhatvám eriré  
-dádhānā nā́ma yajñíyam  
+ã꣡द् अ꣡ह स्वधा꣡म् अ꣡नु  
+पु꣡नर् गर्भत्व꣡म् एरिरे꣡  
+द꣡धाना ना꣡म यज्ञि꣡यम्  

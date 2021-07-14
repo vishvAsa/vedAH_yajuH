@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-r̥tásya hí dhenávo vāvaśānā́ḥ  
-sumádūdhnīḥ° pīpáyanta dyúbhaktāḥ  
-parāvátaḥ sumatím bhíkṣamāṇā  
-ví síndhavaḥ samáyā sasrur ádrim  
+ऋत꣡स्य हि꣡ धेन꣡वो वावशानाः꣡  
+सुम꣡दूध्नीः° पीप꣡यन्त द्यु꣡भक्ताः  
+पराव꣡तः सुमति꣡म् भि꣡क्षमाणा  
+वि꣡ सि꣡न्धवः सम꣡या सस्रुर् अ꣡द्रिम्  

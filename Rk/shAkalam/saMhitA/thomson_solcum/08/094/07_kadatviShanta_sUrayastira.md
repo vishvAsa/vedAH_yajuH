@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-kád atviṣanta sūráyas  
-tirá ā́pa iva srídhaḥ  
-árṣanti pūtádakṣasaḥ  
+क꣡द् अत्विषन्त सूर꣡यस्  
+तिर꣡ आ꣡प इव स्रि꣡धः  
+अ꣡र्षन्ति पूत꣡दक्षसः  

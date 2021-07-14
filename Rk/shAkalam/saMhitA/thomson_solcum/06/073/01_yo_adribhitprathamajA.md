@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yó adribhít prathamajā́ r̥tā́vā  
-bŕ̥haspátir āṅgirasó havíṣmān  
-dvibárhajmā prāgharmasát pitā́ na  
-ā́ ródasī vr̥ṣabhó roravīti  
+यो꣡ अद्रिभि꣡त् प्रथमजा꣡ ऋता꣡वा  
+ब्ŕ̥हस्प꣡तिर् आङ्गिरसो꣡ हवि꣡ष्मान्  
+द्विब꣡र्हज्मा प्राघर्मस꣡त् पिता꣡ न  
+आ꣡ रो꣡दसी वृषभो꣡ रोरवीति  

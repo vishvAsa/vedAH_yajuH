@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ no yajñā́ya takṣata rbhumád váyaḥ  
-krátve dákṣāya suprajā́vatīm íṣam  
-yáthā kṣáyāma sárvavīrayā viśā́  
-tán naḥ śárdhāya dhāsathā sú indriyám  
+आ꣡ नो यज्ञा꣡य तक्षत र्भुम꣡द् व꣡यः  
+क्र꣡त्वे द꣡क्षाय सुप्रजा꣡वतीम् इ꣡षम्  
+य꣡था क्ष꣡याम स꣡र्ववीरया विशा꣡  
+त꣡न् नः श꣡र्धाय धासथा सु꣡ इन्द्रिय꣡म्  

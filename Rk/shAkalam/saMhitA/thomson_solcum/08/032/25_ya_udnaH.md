@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-yá udnáḥ phaligám bhinán  
-níak síndhūm̐r avā́sr̥jat  
-yó góṣu pakváṃ dhāráyat  
+य꣡ उद्नः꣡ फलिग꣡म् भिन꣡न्  
+नि꣡अक् सि꣡न्धूँर् अवा꣡सृजत्  
+यो꣡ गो꣡षु पक्वं꣡ धार꣡यत्  

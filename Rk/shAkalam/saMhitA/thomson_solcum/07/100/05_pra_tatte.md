@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá tát te adyá śipiviṣṭa nā́ma  
-aryáḥ śaṃsāmi vayúnāni vidvā́n  
-táṃ tvā gr̥ṇāmi tavásam átavyān  
-kṣáyantam asyá rájasaḥ parāké  
+प्र꣡ त꣡त् ते अद्य꣡ शिपिविष्ट ना꣡म  
+अर्यः꣡ शंसामि वयु꣡नानि विद्वा꣡न्  
+तं꣡ त्वा गृणामि तव꣡सम् अ꣡तव्यान्  
+क्ष꣡यन्तम् अस्य꣡ र꣡जसः पराके꣡  

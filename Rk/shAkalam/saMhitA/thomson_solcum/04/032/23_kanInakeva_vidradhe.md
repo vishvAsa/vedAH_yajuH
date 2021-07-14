@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-kanīnakéva vidradhé  
-náve drupadé arbhaké  
-babhrū́ yā́meṣu śobhete  
+कनीनके꣡व विद्रधे꣡  
+न꣡वे द्रुपदे꣡ अर्भके꣡  
+बभ्रू꣡ या꣡मेषु शोभेते  

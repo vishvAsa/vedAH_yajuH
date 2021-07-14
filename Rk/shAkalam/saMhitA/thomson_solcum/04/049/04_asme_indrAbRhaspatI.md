@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-asmé indrābr̥haspatī  
-rayíṃ dhattaṃ śatagvínam  
-áśvāvantaṃ sahasríṇam  
+अस्मे꣡ इन्द्राबृहस्पती  
+रयिं꣡ धत्तं शतग्वि꣡नम्  
+अ꣡श्वावन्तं सहस्रि꣡णम्  

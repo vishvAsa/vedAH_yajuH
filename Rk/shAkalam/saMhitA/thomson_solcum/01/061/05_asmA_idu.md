@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-asmā́ íd u sáptim iva śravasyā́  
-índrāya arkáṃ juhúvā sám añje  
-vīráṃ dānáokasaṃ vandádhyai  
-purā́ṃ gūrtáśravasaṃ darmā́ṇam  
+अस्मा꣡ इ꣡द् उ स꣡प्तिम् इव श्रवस्या꣡  
+इ꣡न्द्राय अर्कं꣡ जुहु꣡वा स꣡म् अञ्जे  
+वीरं꣡ दान꣡ओकसं वन्द꣡ध्यै  
+पुरां꣡ गूर्त꣡श्रवसं दर्मा꣡णम्  

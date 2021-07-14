@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-adhīvāsám pári mātū́ rihánn áha  
-tuvigrébhiḥ sátvabhir yāti ví jráyaḥ  
-váyo dádhat padváte rérihat sádā  
-ánu śyénī sacate vartanī́r áha  
+अधीवास꣡म् प꣡रि मातू꣡ रिह꣡न्न् अ꣡ह  
+तुविग्रे꣡भिः स꣡त्वभिर् याति वि꣡ ज्र꣡यः  
+व꣡यो द꣡धत् पद्व꣡ते रे꣡रिहत् स꣡दा  
+अ꣡नु श्ये꣡नी सचते वर्तनी꣡र् अ꣡ह  

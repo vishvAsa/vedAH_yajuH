@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ví yásya te pr̥thivyā́m pā́jo áśret  
-tr̥ṣú yád ánnā samávr̥kta jámbhaiḥ  
-séneva sr̥ṣṭā́ prásitiṣ ṭa eti  
-yávaṃ ná dasma juhúvā vivekṣi  
+वि꣡ य꣡स्य ते पृथिव्या꣡म् पा꣡जो अ꣡श्रेत्  
+तृषु꣡ य꣡द् अ꣡न्ना सम꣡वृक्त ज꣡म्भैः  
+से꣡नेव सृष्टा꣡ प्र꣡सितिष् ट एति  
+य꣡वं न꣡ दस्म जुहु꣡वा विवेक्षि  

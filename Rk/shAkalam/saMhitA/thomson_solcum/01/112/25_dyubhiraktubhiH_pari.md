@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-dyúbhir aktúbhiḥ pári pātam asmā́n  
-áriṣṭebhir aśvinā saúbhagebhiḥ  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+द्यु꣡भिर् अक्तु꣡भिः प꣡रि पातम् अस्मा꣡न्  
+अ꣡रिष्टेभिर् अश्विना सउ꣡भगेभिः  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

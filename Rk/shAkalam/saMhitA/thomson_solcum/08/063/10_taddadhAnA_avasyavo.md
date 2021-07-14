@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-tád dádhānā avasyávo  
-yuṣmā́bhir dákṣapitaraḥ  
-syā́ma marútvato vr̥dhé  
+त꣡द् द꣡धाना अवस्य꣡वो  
+युष्मा꣡भिर् द꣡क्षपितरः  
+स्या꣡म मरु꣡त्वतो वृधे꣡  

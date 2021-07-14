@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-jagr̥bhmā́ te dákṣiṇam indra hástaṃ  
-vasūyávo vasupate vásūnām  
-vidmā́ hí tvā gópatiṃ śūra gónām  
-asmábhyaṃ citráṃ vŕ̥ṣaṇaṃ rayíṃ dāḥ  
+जगृभ्मा꣡ ते द꣡क्षिणम् इन्द्र ह꣡स्तं  
+वसूय꣡वो वसुपते व꣡सूनाम्  
+विद्मा꣡ हि꣡ त्वा गो꣡पतिं शूर गो꣡नाम्  
+अस्म꣡भ्यं चित्रं꣡ व्ŕ̥षणं रयिं꣡ दाः  

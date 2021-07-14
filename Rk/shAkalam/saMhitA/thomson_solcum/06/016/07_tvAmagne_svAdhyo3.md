@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-tuvā́m agne suādhíyo  
-mártāso devávītaye  
-yajñéṣu devám īḷate  
+तुवा꣡म् अग्ने सुआधि꣡यो  
+म꣡र्तासो देव꣡वीतये  
+यज्ञे꣡षु देव꣡म् ईऌअते  

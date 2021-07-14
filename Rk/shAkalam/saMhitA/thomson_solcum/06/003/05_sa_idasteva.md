@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá íd ásteva práti dhād asiṣyáñ  
-chíśīta téjo áyaso ná dhā́rām  
-citrádhrajatir aratír yó aktór  
-vér ná druṣádvā raghupátmajaṃhāḥ  
+स꣡ इ꣡द् अ꣡स्तेव प्र꣡ति धाद् असिष्य꣡ञ्  
+छि꣡शीत ते꣡जो अ꣡यसो न꣡ धा꣡राम्  
+चित्र꣡ध्रजतिर् अरति꣡र् यो꣡ अक्तो꣡र्  
+वे꣡र् न꣡ द्रुष꣡द्वा रघुप꣡त्मजंहाः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuvám agne prathamó áṅgirastamaḥ  
-kavír devā́nām pári bhūṣasi vratám  
-vibhúr víśvasmai bhúvanāya médhiro  
-dvimātā́ śayúḥ katidhā́ cid āyáve  
+तुव꣡म् अग्ने प्रथमो꣡ अ꣡ङ्गिरस्तमः  
+कवि꣡र् देवा꣡नाम् प꣡रि भूषसि व्रत꣡म्  
+विभु꣡र् वि꣡श्वस्मै भु꣡वनाय मे꣡धिरो  
+द्विमाता꣡ शयुः꣡ कतिधा꣡ चिद् आय꣡वे  

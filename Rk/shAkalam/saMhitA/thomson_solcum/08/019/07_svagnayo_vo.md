@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-suagnáyo vo agníbhiḥ  
-siyā́ma sūno sahasa ūrjām pate  
-suvī́ras tuvám asmayúḥ  
+सुअग्न꣡यो वो अग्नि꣡भिः  
+सिया꣡म सूनो सहस ऊर्जाम् पते  
+सुवी꣡रस् तुव꣡म् अस्मयुः꣡  

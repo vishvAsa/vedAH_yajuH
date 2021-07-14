@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-sukármāṇaḥ surúco devayánto  
-áyo ná devā́ jánimā dhámantaḥ  
-śucánto agníṃ vavr̥dhánta índram  
-ūrváṃ gávyam pariṣádanto agman  
+सुक꣡र्माणः सुरु꣡चो देवय꣡न्तो  
+अ꣡यो न꣡ देवा꣡ ज꣡निमा ध꣡मन्तः  
+शुच꣡न्तो अग्निं꣡ ववृध꣡न्त इ꣡न्द्रम्  
+ऊर्वं꣡ ग꣡व्यम् परिष꣡दन्तो अग्मन्  

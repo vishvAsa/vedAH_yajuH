@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yuvór dānā́ya subhárā asaścáto  
-rátham ā́ tasthur vacasáṃ ná mántave  
-yā́bhir dhíyo ávathaḥ kárman iṣṭáye  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+युवो꣡र् दाना꣡य सुभ꣡रा असश्च꣡तो  
+र꣡थम् आ꣡ तस्थुर् वचसं꣡ न꣡ म꣡न्तवे  
+या꣡भिर् धि꣡यो अ꣡वथः क꣡र्मन् इष्ट꣡ये  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

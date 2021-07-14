@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-nū́ me bráhmāṇi agna úc chaśādhi  
-tuváṃ deva maghávadbhyaḥ suṣūdaḥ  
-rātaú siyāma ubháyāsa ā́ te  
-yūyám pāta suastíbhiḥ sádā naḥ  
+नू꣡ मे ब्र꣡ह्माणि अग्न उ꣡च् छशाधि  
+तुवं꣡ देव मघ꣡वद्भ्यः सुषूदः  
+रातउ꣡ सियाम उभ꣡यास आ꣡ ते  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

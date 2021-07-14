@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-úd u ṣyá deváḥ savitā́ savā́ya  
-śaśvattamáṃ tádapā váhnir asthāt  
-nūnáṃ devébhyo ví hí dhā́ti rátnam  
-áthā́bhajad vītíhotraṃ suastaú  
+उ꣡द् उ ष्य꣡ देवः꣡ सविता꣡ सवा꣡य  
+शश्वत्तमं꣡ त꣡दपा व꣡ह्निर् अस्थात्  
+नूनं꣡ देवे꣡भ्यो वि꣡ हि꣡ धा꣡ति र꣡त्नम्  
+अ꣡था꣡भजद् वीति꣡होत्रं सुअस्तउ꣡  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-úpa no vājā adhvarám r̥bhukṣā  
-dévā yātá pathíbhir devayā́naiḥ  
-yáthā yajñám mánuṣo vikṣú āsú  
-dadhidhvé raṇvāḥ sudíneṣu áhnām  
+उ꣡प नो वाजा अध्वर꣡म् ऋभुक्षा  
+दे꣡वा यात꣡ पथि꣡भिर् देवया꣡नैः  
+य꣡था यज्ञ꣡म् म꣡नुषो विक्षु꣡ आसु꣡  
+दधिध्वे꣡ रण्वाः सुदि꣡नेषु अ꣡ह्नाम्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-agnír ná yó vána ā́ sr̥jyámāno  
-vŕ̥thā pā́jāṃsi kr̥ṇute nadī́ṣu  
-jáno ná yúdhvā mahatá upabdír  
-íyarti sómaḥ pávamāna ūrmím  
+अग्नि꣡र् न꣡ यो꣡ व꣡न आ꣡ सृज्य꣡मानो  
+व्ŕ̥था पा꣡जांसि कृणुते नदी꣡षु  
+ज꣡नो न꣡ यु꣡ध्वा महत꣡ उपब्दि꣡र्  
+इ꣡यर्ति सो꣡मः प꣡वमान ऊर्मि꣡म्  

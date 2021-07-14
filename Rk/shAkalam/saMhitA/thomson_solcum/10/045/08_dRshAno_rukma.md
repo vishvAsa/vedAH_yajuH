@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-dr̥śānó rukmá urviyā́ ví adyaud  
-durmárṣam ā́yuḥ śriyé rucānáḥ  
-agnír amŕ̥to abhavad váyobhir  
-yád enaṃ diyaúr janáyat surétāḥ  
+दृशानो꣡ रुक्म꣡ उर्विया꣡ वि꣡ अद्यौद्  
+दुर्म꣡र्षम् आ꣡युः श्रिये꣡ रुचानः꣡  
+अग्नि꣡र् अम्ŕ̥तो अभवद् व꣡योभिर्  
+य꣡द् एनं दियउ꣡र् जन꣡यत् सुरे꣡ताः  

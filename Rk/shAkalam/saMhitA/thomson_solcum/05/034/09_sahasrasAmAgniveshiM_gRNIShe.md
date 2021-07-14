@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sahasrasā́m ā́gniveśiṃ gr̥ṇīṣe  
-śátrim agna upamā́ṃ ketúm aryáḥ  
-tásmā ā́paḥ saṃyátaḥ pīpayanta  
-tásmin kṣatrám ámavat tveṣám astu  
+सहस्रसा꣡म् आ꣡ग्निवेशिं गृणीषे  
+श꣡त्रिम् अग्न उपमां꣡ केतु꣡म् अर्यः꣡  
+त꣡स्मा आ꣡पः संय꣡तः पीपयन्त  
+त꣡स्मिन् क्षत्र꣡म् अ꣡मवत् त्वेष꣡म् अस्तु  

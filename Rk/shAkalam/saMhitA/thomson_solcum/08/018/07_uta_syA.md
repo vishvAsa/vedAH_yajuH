@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-utá syā́ no dívā matír  
-áditir ūtiyā́ gamat  
-sā́ śáṃtāti máyas karad ápa srídhaḥ  
+उत꣡ स्या꣡ नो दि꣡वा मति꣡र्  
+अ꣡दितिर् ऊतिया꣡ गमत्  
+सा꣡ शं꣡ताति म꣡यस् करद् अ꣡प स्रि꣡धः  

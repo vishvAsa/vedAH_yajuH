@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-ā́ indra yāhi mátsuva  
-citréṇa deva rā́dhasā  
-sáro ná prāsi udáraṃ sápītibhir  
-ā́ sómebhir urú sphirám  
+आ꣡ इन्द्र याहि म꣡त्सुव  
+चित्रे꣡ण देव रा꣡धसा  
+स꣡रो न꣡ प्रासि उद꣡रं स꣡पीतिभिर्  
+आ꣡ सो꣡मेभिर् उरु꣡ स्फिर꣡म्  

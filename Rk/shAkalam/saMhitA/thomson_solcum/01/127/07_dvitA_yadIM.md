@@ -2,10 +2,10 @@
 title = "007"
 
 +++
-dvitā́ yád īṃ · kīstā́so abhídyavo  
-namasyánta upavócanta bhŕ̥gavo  
-mathnánto dāśā́ bhŕ̥gavaḥ  
-agnír īśe vásūnãṃ  
-śúcir yó dharṇír eṣãm  
-priyā́m̐ apidhī́m̐r vaniṣīṣṭa médhira  
-ā́ vaniṣīṣṭa médhiraḥ  
+द्विता꣡ य꣡द् ईं · कीस्ता꣡सो अभि꣡द्यवो  
+नमस्य꣡न्त उपवो꣡चन्त भ्ŕ̥गवो  
+मथ्न꣡न्तो दाशा꣡ भ्ŕ̥गवः  
+अग्नि꣡र् ईशे व꣡सून्ãं  
+शु꣡चिर् यो꣡ धर्णि꣡र् एष्ãम्  
+प्रियाँ꣡ अपिधीँ꣡र् वनिषीष्ट मे꣡धिर  
+आ꣡ वनिषीष्ट मे꣡धिरः  

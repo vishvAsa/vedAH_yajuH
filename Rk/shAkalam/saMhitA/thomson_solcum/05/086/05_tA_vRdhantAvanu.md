@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tā́ vr̥dhántāv ánu diyū́n  
-mártāya devā́v adábhā  
-árhantā cit puró dadhe  
-áṃśeva devā́v árvate  
+ता꣡ वृध꣡न्ताव् अ꣡नु दियू꣡न्  
+म꣡र्ताय देवा꣡व् अद꣡भा  
+अ꣡र्हन्ता चित् पुरो꣡ दधे  
+अं꣡शेव देवा꣡व् अ꣡र्वते  

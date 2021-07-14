@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yád indrāgnī paramásyām pr̥thivyā́m  
-madhyamásyām avamásyām utá stháḥ  
-átaḥ pári vr̥ṣaṇāv ā́ hí yātám  
-áthā sómasya pibataṃ sutásya  
+य꣡द् इन्द्राग्नी परम꣡स्याम् पृथिव्या꣡म्  
+मध्यम꣡स्याम् अवम꣡स्याम् उत꣡ स्थः꣡  
+अ꣡तः प꣡रि वृषणाव् आ꣡ हि꣡ यात꣡म्  
+अ꣡था सो꣡मस्य पिबतं सुत꣡स्य  

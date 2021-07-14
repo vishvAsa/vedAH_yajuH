@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-íḷāyās tvā padé vayáṃ  
-nā́bhā pr̥thiviyā́ ádhi  
-jā́tavedo ní dhīmahi  
-ágne havyā́ya vóḷhave  
+इ꣡ऌआयास् त्वा पदे꣡ वयं꣡  
+ना꣡भा पृथिविया꣡ अ꣡धि  
+जा꣡तवेदो नि꣡ धीमहि  
+अ꣡ग्ने हव्या꣡य वो꣡ऌहवे  

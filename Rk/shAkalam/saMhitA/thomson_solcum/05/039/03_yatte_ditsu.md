@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yát te ditsú prarā́dhiyam  
-máno ásti śrutám br̥hát  
-téna dr̥̄ḷhā́+ cid adriva  
-ā́ vā́jaṃ darṣi sātáye  
+य꣡त् ते दित्सु꣡ प्ररा꣡धियम्  
+म꣡नो अ꣡स्ति श्रुत꣡म् बृह꣡त्  
+ते꣡न दॄऌहा꣡+ चिद् अद्रिव  
+आ꣡ वा꣡जं दर्षि सात꣡ये  

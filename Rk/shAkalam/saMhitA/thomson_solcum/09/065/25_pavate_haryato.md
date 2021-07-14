@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-pávate haryató hárir  
-gr̥ṇānó jamádagninā  
-hinvānó gór ádhi tvací  
+प꣡वते हर्यतो꣡ ह꣡रिर्  
+गृणानो꣡ जम꣡दग्निना  
+हिन्वानो꣡ गो꣡र् अ꣡धि त्वचि꣡  

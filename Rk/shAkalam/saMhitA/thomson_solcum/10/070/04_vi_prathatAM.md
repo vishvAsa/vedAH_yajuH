@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ví prathatāṃ devájuṣṭaṃ tiraścā́  
-dīrgháṃ drāghmā́ surabhí bhūtu asmé  
-áheḷatā mánasā deva barhir  
-índrajyeṣṭhām̐ uśató yakṣi devā́n  
+वि꣡ प्रथतां देव꣡जुष्टं तिरश्चा꣡  
+दीर्घं꣡ द्राघ्मा꣡ सुरभि꣡ भूतु अस्मे꣡  
+अ꣡हेऌअता म꣡नसा देव बर्हिर्  
+इ꣡न्द्रज्येष्ठाँ उशतो꣡ यक्षि देवा꣡न्  

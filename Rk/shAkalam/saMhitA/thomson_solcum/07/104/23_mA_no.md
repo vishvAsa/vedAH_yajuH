@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-mā́ no rákṣo abhí naḍ yātumā́vatām  
-ápochatu mithunā́ yā́ kimīdínā  
-pr̥thivī́ naḥ pā́rthivāt pātu áṃhaso  
-antárikṣaṃ diviyā́t pātu asmā́n  
+मा꣡ नो र꣡क्षो अभि꣡ नड् यातुमा꣡वताम्  
+अ꣡पोछतु मिथुना꣡ या꣡ किमीदि꣡ना  
+पृथिवी꣡ नः पा꣡र्थिवात् पातु अं꣡हसो  
+अन्त꣡रिक्षं दिविया꣡त् पातु अस्मा꣡न्  

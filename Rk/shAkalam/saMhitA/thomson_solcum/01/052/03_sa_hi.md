@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá hí dvaró dvaríṣu vavrá ū́dhani  
-candrábudhno mádavr̥ddho manīṣíbhiḥ  
-índraṃ tám ahve suapasyáyā dhiyā́  
-máṃhiṣṭharātiṃ sá hí páprir ándhasaḥ  
+स꣡ हि꣡ द्वरो꣡ द्वरि꣡षु वव्र꣡ ऊ꣡धनि  
+चन्द्र꣡बुध्नो म꣡दवृद्धो मनीषि꣡भिः  
+इ꣡न्द्रं त꣡म् अह्वे सुअपस्य꣡या धिया꣡  
+मं꣡हिष्ठरातिं स꣡ हि꣡ प꣡प्रिर् अ꣡न्धसः  

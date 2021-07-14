@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sómam manyate papivā́n  
-yát sampiṃṣánti óṣadhim  
-sómaṃ yám brahmā́ṇo vidúr  
-ná tásyāśnāti káś caná  
+सो꣡मम् मन्यते पपिवा꣡न्  
+य꣡त् सम्पिंष꣡न्ति ओ꣡षधिम्  
+सो꣡मं य꣡म् ब्रह्मा꣡णो विदु꣡र्  
+न꣡ त꣡स्याश्नाति क꣡श् चन꣡  

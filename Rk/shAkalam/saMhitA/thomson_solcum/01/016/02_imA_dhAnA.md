@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-imā́ dhānā́ ghr̥tasnúvo  
-hárī ihópa vakṣataḥ  
-índraṃ sukhátame ráthe  
+इमा꣡ धाना꣡ घृतस्नु꣡वो  
+ह꣡री इहो꣡प वक्षतः  
+इ꣡न्द्रं सुख꣡तमे र꣡थे  

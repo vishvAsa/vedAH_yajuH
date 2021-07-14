@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sáṃ-sam íd yuvase vr̥ṣann  
-ágne víśvāni aryá ā́  
-iḷás padé sám idhyase  
-sá no vásūni ā́ bhara  
+सं꣡-सम् इ꣡द् युवसे वृषन्न्  
+अ꣡ग्ने वि꣡श्वानि अर्य꣡ आ꣡  
+इऌअ꣡स् पदे꣡ स꣡म् इध्यसे  
+स꣡ नो व꣡सूनि आ꣡ भर  

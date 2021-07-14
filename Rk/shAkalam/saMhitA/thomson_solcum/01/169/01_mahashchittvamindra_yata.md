@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-maháś cit tvám indara+ yatá etā́n  
-maháś cid asi tyájaso varūtā́  
-sá no vedho marútãṃ cikitvā́n  
-sumnā́ vanuṣva táva hí práyiṣṭhā+  
+मह꣡श् चित् त्व꣡म् इन्दर+ यत꣡ एता꣡न्  
+मह꣡श् चिद् असि त्य꣡जसो वरूता꣡  
+स꣡ नो वेधो मरु꣡त्ãं चिकित्वा꣡न्  
+सुम्ना꣡ वनुष्व त꣡व हि꣡ प्र꣡यिष्ठा+  

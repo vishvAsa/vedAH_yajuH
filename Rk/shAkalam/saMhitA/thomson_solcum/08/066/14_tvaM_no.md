@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-tuváṃ no asyā́ ámater utá kṣudhó  
-abhíśaster áva spr̥dhi  
-tuváṃ na ūtī́ táva citráyā dhiyā́  
-śíkṣā śaciṣṭha gātuvít  
+तुवं꣡ नो अस्या꣡ अ꣡मतेर् उत꣡ क्षुधो꣡  
+अभि꣡शस्तेर् अ꣡व स्पृधि  
+तुवं꣡ न ऊती꣡ त꣡व चित्र꣡या धिया꣡  
+शि꣡क्षा शचिष्ठ गातुवि꣡त्  

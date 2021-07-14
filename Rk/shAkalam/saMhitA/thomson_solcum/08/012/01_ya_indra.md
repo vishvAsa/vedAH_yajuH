@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-yá indra somapā́tamo  
-mádaḥ śaviṣṭha cétati  
-yénā háṃsi ní atríṇaṃ tám īmahe  
+य꣡ इन्द्र सोमपा꣡तमो  
+म꣡दः शविष्ठ चे꣡तति  
+ये꣡ना हं꣡सि नि꣡ अत्रि꣡णं त꣡म् ईमहे  

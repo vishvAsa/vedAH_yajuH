@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-kavíṃ śaśāsuḥ kaváyo ádabdhā  
-nidhāráyanto dúriyāsu āyóḥ  
-átas tuváṃ dŕ̥śiyām̐ agna etā́n  
-paḍbhíḥ paśyer ádbhutām̐ aryá évaiḥ  
+कविं꣡ शशासुः कव꣡यो अ꣡दब्धा  
+निधार꣡यन्तो दु꣡रियासु आयोः꣡  
+अ꣡तस् तुवं꣡ द्ŕ̥शियाँ अग्न एता꣡न्  
+पड्भिः꣡ पश्येर् अ꣡द्भुताँ अर्य꣡ ए꣡वैः  

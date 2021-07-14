@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ā́gne sthūráṃ rayím bhara  
-pr̥thúṃ gómantam aśvínam  
-aṅdhí kháṃ vartáyā paṇím  
+आ꣡ग्ने स्थूरं꣡ रयि꣡म् भर  
+पृथुं꣡ गो꣡मन्तम् अश्वि꣡नम्  
+अङ्धि꣡ खं꣡ वर्त꣡या पणि꣡म्  

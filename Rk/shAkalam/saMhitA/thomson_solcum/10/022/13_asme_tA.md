@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-asmé tā́ ta indara+ santu satyā́  
-áhiṃsantīr upaspŕ̥śaḥ  
-vidyā́ma yā́sãm bhújo  
-dhenūnã́ṃ ná vajrivaḥ  
+अस्मे꣡ ता꣡ त इन्दर+ सन्तु सत्या꣡  
+अ꣡हिंसन्तीर् उपस्प्ŕ̥शः  
+विद्या꣡म या꣡स्ãम् भु꣡जो  
+धेनून्ãं꣡ न꣡ वज्रिवः  

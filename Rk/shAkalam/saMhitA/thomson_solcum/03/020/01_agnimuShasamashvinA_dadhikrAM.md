@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-agním uṣásam aśvínā dadhikrā́ṃ  
-víuṣṭiṣu havate váhnir ukthaíḥ  
-sujyótiṣo naḥ śr̥ṇuvantu devā́ḥ  
-sajóṣaso adhvaráṃ vāvaśānā́ḥ  
+अग्नि꣡म् उष꣡सम् अश्वि꣡ना दधिक्रां꣡  
+वि꣡उष्टिषु हवते व꣡ह्निर् उक्थइः꣡  
+सुज्यो꣡तिषो नः शृणुवन्तु देवाः꣡  
+सजो꣡षसो अध्वरं꣡ वावशानाः꣡  

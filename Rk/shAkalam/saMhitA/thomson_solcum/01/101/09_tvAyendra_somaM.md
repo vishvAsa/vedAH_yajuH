@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tvāyéndra sómaṃ suṣumā sudakṣa  
-tvāyā́ havíś cakr̥mā brahmavāhaḥ  
-ádhā niyutvaḥ ságaṇo marúdbhir  
-asmín yajñé barhíṣi mādayasva  
+त्वाये꣡न्द्र सो꣡मं सुषुमा सुदक्ष  
+त्वाया꣡ हवि꣡श् चकृमा ब्रह्मवाहः  
+अ꣡धा नियुत्वः स꣡गणो मरु꣡द्भिर्  
+अस्मि꣡न् यज्ञे꣡ बर्हि꣡षि मादयस्व  

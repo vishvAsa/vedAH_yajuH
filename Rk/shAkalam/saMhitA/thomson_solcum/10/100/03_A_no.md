@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ no deváḥ savitā́ sāviṣad váya  
-r̥jūyaté yájamānāya sunvaté  
-yáthā devā́n pratibhū́ṣema pākavád  
-ā́ sarvátātim áditiṃ vr̥ṇīmahe  
+आ꣡ नो देवः꣡ सविता꣡ साविषद् व꣡य  
+ऋजूयते꣡ य꣡जमानाय सुन्वते꣡  
+य꣡था देवा꣡न् प्रतिभू꣡षेम पाकव꣡द्  
+आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे  

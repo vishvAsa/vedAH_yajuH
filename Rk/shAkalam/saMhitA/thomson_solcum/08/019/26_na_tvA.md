@@ -2,7 +2,7 @@
 title = "026"
 
 +++
-ná tvā rāsīya abhíśastaye vaso  
-ná pāpatvā́ya santiya  
-ná me stotā́ amatīvā́ ná dúrhitaḥ  
-siyā́d agne ná pāpáyā  
+न꣡ त्वा रासीय अभि꣡शस्तये वसो  
+न꣡ पापत्वा꣡य सन्तिय  
+न꣡ मे स्तोता꣡ अमतीवा꣡ न꣡ दु꣡र्हितः  
+सिया꣡द् अग्ने न꣡ पाप꣡या  

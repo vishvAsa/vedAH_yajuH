@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-yávaṃ-yavaṃ no ándhasā  
-puṣṭám-puṣṭam pári srava  
-sóma víśvā ca saúbhagā  
+य꣡वं-यवं नो अ꣡न्धसा  
+पुष्ट꣡म्-पुष्टम् प꣡रि स्रव  
+सो꣡म वि꣡श्वा च सउ꣡भगा  

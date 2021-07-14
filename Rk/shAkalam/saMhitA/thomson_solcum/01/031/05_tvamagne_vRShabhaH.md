@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tuvám agne vr̥ṣabháḥ puṣṭivárdhana  
-údyatasruce bhavasi śravā́yiyaḥ  
-yá ā́hutim pári védā váṣaṭkr̥tim  
-ékāyur ágre víśa āvívāsasi  
+तुव꣡म् अग्ने वृषभः꣡ पुष्टिव꣡र्धन  
+उ꣡द्यतस्रुचे भवसि श्रवा꣡यियः  
+य꣡ आ꣡हुतिम् प꣡रि वे꣡दा व꣡षट्कृतिम्  
+ए꣡कायुर् अ꣡ग्रे वि꣡श आवि꣡वाससि  

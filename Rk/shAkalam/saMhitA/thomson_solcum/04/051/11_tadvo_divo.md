@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-tád vo divo duhitaro vibhātī́r  
-úpa bruva uṣaso yajñáketuḥ  
-vayáṃ siyāma yaśáso jáneṣu  
-tád dyaúś ca dhattā́m pr̥thivī́ ca devī́  
+त꣡द् वो दिवो दुहितरो विभाती꣡र्  
+उ꣡प ब्रुव उषसो यज्ञ꣡केतुः  
+वयं꣡ सियाम यश꣡सो ज꣡नेषु  
+त꣡द् द्यउ꣡श् च धत्ता꣡म् पृथिवी꣡ च देवी꣡  

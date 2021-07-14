@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-sákhāyo bráhmavāhase  
-árcata prá ca gāyata  
-sá hí naḥ prámatir mahī́  
+स꣡खायो ब्र꣡ह्मवाहसे  
+अ꣡र्चत प्र꣡ च गायत  
+स꣡ हि꣡ नः प्र꣡मतिर् मही꣡  

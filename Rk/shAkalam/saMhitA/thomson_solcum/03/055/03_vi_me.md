@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ví me purutrā́ patayanti kā́māḥ  
-śámi áchā dīdiye pūrviyā́ṇi  
-sámiddhe agnā́v r̥tám íd vadema  
-mahád devā́nām asuratvám ékam  
+वि꣡ मे पुरुत्रा꣡ पतयन्ति का꣡माः  
+श꣡मि अ꣡छा दीदिये पूर्विया꣡णि  
+स꣡मिद्धे अग्ना꣡व् ऋत꣡म् इ꣡द् वदेम  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

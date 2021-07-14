@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ te saparyū́ javáse yunajmi  
-yáyor ánu pradívaḥ śruṣṭím ā́vaḥ  
-ihá tvā dheyur hárayaḥ suśipra  
-píbā tú asyá súṣutasya cā́roḥ  
+आ꣡ ते सपर्यू꣡ जव꣡से युनज्मि  
+य꣡योर् अ꣡नु प्रदि꣡वः श्रुष्टि꣡म् आ꣡वः  
+इह꣡ त्वा धेयुर् ह꣡रयः सुशिप्र  
+पि꣡बा तु꣡ अस्य꣡ सु꣡षुतस्य चा꣡रोः  

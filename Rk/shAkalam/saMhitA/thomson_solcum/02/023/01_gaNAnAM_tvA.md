@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-gaṇā́nāṃ tvā gaṇápatiṃ havāmahe  
-kavíṃ kavīnā́m upamáśravastamam  
-jyeṣṭharā́jam bráhmaṇām brahmaṇas pata  
-ā́ naḥ śr̥ṇvánn ūtíbhiḥ sīda sā́danam  
+गणा꣡नां त्वा गण꣡पतिं हवामहे  
+कविं꣡ कवीना꣡म् उपम꣡श्रवस्तमम्  
+ज्येष्ठरा꣡जम् ब्र꣡ह्मणाम् ब्रह्मणस् पत  
+आ꣡ नः शृण्व꣡न्न् ऊति꣡भिः सीद सा꣡दनम्  

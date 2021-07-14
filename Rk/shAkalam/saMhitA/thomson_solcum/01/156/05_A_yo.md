@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ yó vivā́ya sacáthāya daíviya  
-índrāya víṣṇuḥ sukŕ̥te sukŕ̥ttaraḥ  
-vedhā́ ajinvat triṣadhasthá ā́riyam  
-r̥tásya bhāgé yájamānam ā́bhajat  
+आ꣡ यो꣡ विवा꣡य सच꣡थाय दइ꣡विय  
+इ꣡न्द्राय वि꣡ष्णुः सुक्ŕ̥ते सुक्ŕ̥त्तरः  
+वेधा꣡ अजिन्वत् त्रिषधस्थ꣡ आ꣡रियम्  
+ऋत꣡स्य भागे꣡ य꣡जमानम् आ꣡भजत्  

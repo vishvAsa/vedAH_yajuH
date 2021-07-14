@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-nṹ tvā́m agna īmahe vásiṣṭhā  
-īśānáṃ sūno sahaso vásūnām  
-íṣaṃ stotŕ̥bhyo maghávadbhya ānaḍ  
-yūyám pāta suastíbhiḥ sádā naḥ  
+न्ũ꣡ त्वा꣡म् अग्न ईमहे व꣡सिष्ठा  
+ईशानं꣡ सूनो सहसो व꣡सूनाम्  
+इ꣡षं स्तोत्ŕ̥भ्यो मघ꣡वद्भ्य आनड्  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-paśū́n ná citrā́ subhágā prathānā́  
-síndhur ná kṣóda urviyā́ ví aśvait  
-áminatī daíviyāni vratā́ni  
-sū́ryasya ceti raśmíbhir dr̥śānā́  
+पशू꣡न् न꣡ चित्रा꣡ सुभ꣡गा प्रथाना꣡  
+सि꣡न्धुर् न꣡ क्षो꣡द उर्विया꣡ वि꣡ अश्वैत्  
+अ꣡मिनती दइ꣡वियानि व्रता꣡नि  
+सू꣡र्यस्य चेति रश्मि꣡भिर् दृशाना꣡  

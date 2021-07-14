@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-ádha jmó ádha vā divó  
-br̥ható rocanā́d ádhi  
-ayā́ vardhasva tanúvā girā́ máma  
-ā́ jātā́ sukrato pr̥ṇa  
+अ꣡ध ज्मो꣡ अ꣡ध वा दिवो꣡  
+बृहतो꣡ रोचना꣡द् अ꣡धि  
+अया꣡ वर्धस्व तनु꣡वा गिरा꣡ म꣡म  
+आ꣡ जाता꣡ सुक्रतो पृण  

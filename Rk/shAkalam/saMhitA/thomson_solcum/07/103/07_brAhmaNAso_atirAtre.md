@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-brāhmaṇā́so atirātré ná sóme  
-sáro ná pūrṇám abhíto vádantaḥ  
-saṃvatsarásya tád áhaḥ pári ṣṭha  
-yán maṇḍūkāḥ prāvr̥ṣī́ṇam babhū́va  
+ब्राह्मणा꣡सो अतिरात्रे꣡ न꣡ सो꣡मे  
+स꣡रो न꣡ पूर्ण꣡म् अभि꣡तो व꣡दन्तः  
+संवत्सर꣡स्य त꣡द् अ꣡हः प꣡रि ष्ठ  
+य꣡न् मण्डूकाः प्रावृषी꣡णम् बभू꣡व  

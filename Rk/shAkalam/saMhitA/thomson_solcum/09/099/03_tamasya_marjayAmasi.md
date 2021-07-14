@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tám asya marjayāmasi  
-mádo yá indrapā́tamaḥ  
-yáṃ gā́va āsábhir dadhúḥ  
-purā́ nūnáṃ ca sūráyaḥ  
+त꣡म् अस्य मर्जयामसि  
+म꣡दो य꣡ इन्द्रपा꣡तमः  
+यं꣡ गा꣡व आस꣡भिर् दधुः꣡  
+पुरा꣡ नूनं꣡ च सूर꣡यः  

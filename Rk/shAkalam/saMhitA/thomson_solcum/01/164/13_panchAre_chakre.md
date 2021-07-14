@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-páñcāre cakré parivártamāne  
-tásminn ā́ tasthur bhúvanāni víśvā  
-tásya nā́kṣas tapyate bhū́ribhāraḥ  
-sanā́d evá ná śīryate sánābhiḥ  
+प꣡ञ्चारे चक्रे꣡ परिव꣡र्तमाने  
+त꣡स्मिन्न् आ꣡ तस्थुर् भु꣡वनानि वि꣡श्वा  
+त꣡स्य ना꣡क्षस् तप्यते भू꣡रिभारः  
+सना꣡द् एव꣡ न꣡ शीर्यते स꣡नाभिः  

@@ -2,8 +2,8 @@
 title = "015"
 
 +++
-abhí práyāṃsi súdhitāni hí khyó  
-ní tvā dadhīta ródasī yájadhyai  
-ávā no · maghavan vā́jasātāv  
-ágne víśvāni duritā́ tarema  
-tā́ tarema távā́vasā tarema  
+अभि꣡ प्र꣡यांसि सु꣡धितानि हि꣡ ख्यो꣡  
+नि꣡ त्वा दधीत रो꣡दसी य꣡जध्यै  
+अ꣡वा नो · मघवन् वा꣡जसाताव्  
+अ꣡ग्ने वि꣡श्वानि दुरिता꣡ तरेम  
+ता꣡ तरेम त꣡वा꣡वसा तरेम  

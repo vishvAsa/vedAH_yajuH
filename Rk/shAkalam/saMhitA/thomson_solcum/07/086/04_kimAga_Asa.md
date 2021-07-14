@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kím ā́ga āsa varuṇa jyáyiṣṭhaṃ+  
-yát stotā́raṃ jíghāṃsasi sákhāyam  
-prá tán me voco dūḷabha svadhāvo  
-áva tvānenā́ námasā turá iyām  
+कि꣡म् आ꣡ग आस वरुण ज्य꣡यिष्ठं+  
+य꣡त् स्तोता꣡रं जि꣡घांससि स꣡खायम्  
+प्र꣡ त꣡न् मे वोचो दूऌअभ स्वधावो  
+अ꣡व त्वानेना꣡ न꣡मसा तुर꣡ इयाम्  

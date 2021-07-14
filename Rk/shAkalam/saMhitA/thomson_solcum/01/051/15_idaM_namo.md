@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-idáṃ námo vr̥ṣabhā́ya svarā́je  
-satyáśuṣmāya taváse avāci  
-asmínn indra vr̥jáne sárvavīrāḥ  
-smát sūríbhis táva śárman siyāma  
+इदं꣡ न꣡मो वृषभा꣡य स्वरा꣡जे  
+सत्य꣡शुष्माय तव꣡से अवाचि  
+अस्मि꣡न्न् इन्द्र वृज꣡ने स꣡र्ववीराः  
+स्म꣡त् सूरि꣡भिस् त꣡व श꣡र्मन् सियाम  

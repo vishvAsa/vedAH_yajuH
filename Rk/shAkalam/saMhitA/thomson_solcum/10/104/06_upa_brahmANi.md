@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-úpa bráhmāṇi harivo háribhyāṃ  
-sómasya yāhi pītáye sutásya  
-índra tvā yajñáḥ kṣámamāṇam ānaḍ  
-dāśvā́m̐ asi adhvarásya praketáḥ  
+उ꣡प ब्र꣡ह्माणि हरिवो ह꣡रिभ्यां  
+सो꣡मस्य याहि पीत꣡ये सुत꣡स्य  
+इ꣡न्द्र त्वा यज्ञः꣡ क्ष꣡ममाणम् आनड्  
+दाश्वाँ꣡ असि अध्वर꣡स्य प्रकेतः꣡  

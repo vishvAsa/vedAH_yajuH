@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-vidā́ cin nú mahānto yé va évā  
-brávāma dasmā vā́riyaṃ dádhānāḥ  
-váyaś caná subhúva ā́va yanti  
-kṣubhā́ mártam ánuyataṃ vadhasnaíḥ  
+विदा꣡ चिन् नु꣡ महान्तो ये꣡ व ए꣡वा  
+ब्र꣡वाम दस्मा वा꣡रियं द꣡धानाः  
+व꣡यश् चन꣡ सुभु꣡व आ꣡व यन्ति  
+क्षुभा꣡ म꣡र्तम् अ꣡नुयतं वधस्नइः꣡  

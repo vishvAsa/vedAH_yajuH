@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yā́bhī rebháṃ nívr̥taṃ sitám adbhiyá  
-úd vándanam aírayataṃ súvar dr̥śé  
-yā́bhiḥ káṇvam prá síṣāsantam ā́vataṃ  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भी रेभं꣡ नि꣡वृतं सित꣡म् अद्भिय꣡  
+उ꣡द् व꣡न्दनम् अइ꣡रयतं सु꣡वर् दृशे꣡  
+या꣡भिः क꣡ण्वम् प्र꣡ सि꣡षासन्तम् आ꣡वतं  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

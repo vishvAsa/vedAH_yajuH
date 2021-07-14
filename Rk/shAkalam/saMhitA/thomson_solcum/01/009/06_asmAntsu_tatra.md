@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-asmā́n sú tátra codaya  
-índra rāyé rábhasvataḥ  
-túvidyumna yáśasvataḥ  
+अस्मा꣡न् सु꣡ त꣡त्र चोदय  
+इ꣡न्द्र राये꣡ र꣡भस्वतः  
+तु꣡विद्युम्न य꣡शस्वतः  

@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-índram agníṃ kavichádā  
-yajñásya jūtiyā́ vr̥ṇe  
-tā́ sómasyehá tr̥mpatām  
+इ꣡न्द्रम् अग्निं꣡ कविछ꣡दा  
+यज्ञ꣡स्य जूतिया꣡ वृणे  
+ता꣡ सो꣡मस्येह꣡ तृम्पताम्  

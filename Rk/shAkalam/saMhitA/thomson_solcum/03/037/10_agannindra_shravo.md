@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-ágann indra śrávo br̥hád  
-dyumnáṃ dadhiṣva duṣṭáram  
-út te śúṣmaṃ tirāmasi  
+अ꣡गन्न् इन्द्र श्र꣡वो बृह꣡द्  
+द्युम्नं꣡ दधिष्व दुष्ट꣡रम्  
+उ꣡त् ते शु꣡ष्मं तिरामसि  

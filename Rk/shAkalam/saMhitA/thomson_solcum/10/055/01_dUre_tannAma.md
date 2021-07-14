@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-dūré tán nā́ma gúhiyam parācaír  
-yát tvā bhīté áhvayetāṃ vayodhaí  
-úd astabhnāḥ pr̥thivī́ṃ dyā́m abhī́ke  
-bhrā́tuḥ putrā́n maghavan titviṣāṇáḥ  
+दूरे꣡ त꣡न् ना꣡म गु꣡हियम् पराचइ꣡र्  
+य꣡त् त्वा भीते꣡ अ꣡ह्वयेतां वयोधइ꣡  
+उ꣡द् अस्तभ्नाः पृथिवीं꣡ द्या꣡म् अभी꣡के  
+भ्रा꣡तुः पुत्रा꣡न् मघवन् तित्विषाणः꣡  

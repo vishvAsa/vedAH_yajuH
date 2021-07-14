@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-táṃ tvājananta mātáraḥ  
-kavíṃ devā́so aṅgiraḥ  
-havyavā́ham ámartiyam  
+तं꣡ त्वाजनन्त मात꣡रः  
+कविं꣡ देवा꣡सो अङ्गिरः  
+हव्यवा꣡हम् अ꣡मर्तियम्  

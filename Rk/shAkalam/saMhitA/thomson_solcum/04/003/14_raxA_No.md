@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-rákṣā ṇo agne táva rákṣaṇebhī  
-rārakṣāṇáḥ · sumakha priṇānáḥ°  
-práti ṣphura ví ruja vīḍu áṃho  
-jahí rákṣo máhi cid vāvr̥dhānám  
+र꣡क्षा णो अग्ने त꣡व र꣡क्षणेभी  
+रारक्षाणः꣡ · सुमख प्रिणानः꣡°  
+प्र꣡ति ष्फुर वि꣡ रुज वीडु अं꣡हो  
+जहि꣡ र꣡क्षो म꣡हि चिद् वावृधान꣡म्  

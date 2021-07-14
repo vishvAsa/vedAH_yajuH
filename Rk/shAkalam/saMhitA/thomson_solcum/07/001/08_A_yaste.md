@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-ā́ yás te agna idhaté ánīkaṃ  
-vásiṣṭha śúkra dī́divaḥ pávāka  
-utó na ebhí staváthair ihá syāḥ  
+आ꣡ य꣡स् ते अग्न इधते꣡ अ꣡नीकं  
+व꣡सिष्ठ शु꣡क्र दी꣡दिवः प꣡वाक  
+उतो꣡ न एभि꣡ स्तव꣡थैर् इह꣡ स्याः  

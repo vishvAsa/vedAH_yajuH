@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-anyásyā vatsáṃ rihatī́ mimāya  
-káyā bhuvā́ ní dadhe dhenúr ū́dhaḥ  
-r̥tásya sā́ páyasāpinvatéḷā  
-mahád devā́nām asuratvám ékam  
+अन्य꣡स्या वत्सं꣡ रिहती꣡ मिमाय  
+क꣡या भुवा꣡ नि꣡ दधे धेनु꣡र् ऊ꣡धः  
+ऋत꣡स्य सा꣡ प꣡यसापिन्वते꣡ऌआ  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

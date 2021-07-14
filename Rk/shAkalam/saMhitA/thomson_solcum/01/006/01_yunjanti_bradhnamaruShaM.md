@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-yuñjánti bradhnám aruṣáṃ  
-cárantam pári tasthúṣaḥ  
-rócante rocanā́ diví  
+युञ्ज꣡न्ति ब्रध्न꣡म् अरुषं꣡  
+च꣡रन्तम् प꣡रि तस्थु꣡षः  
+रो꣡चन्ते रोचना꣡ दिवि꣡  

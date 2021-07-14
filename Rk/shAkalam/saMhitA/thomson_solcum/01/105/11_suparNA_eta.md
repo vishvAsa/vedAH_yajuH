@@ -2,8 +2,8 @@
 title = "011"
 
 +++
-suparṇā́ etá āsate  
-mádhya āródhane diváḥ  
-té sedhanti pathó vŕ̥kaṃ  
-tárantaṃ yahvátīr apó  
-vittám me asyá rodasī  
+सुपर्णा꣡ एत꣡ आसते  
+म꣡ध्य आरो꣡धने दिवः꣡  
+ते꣡ सेधन्ति पथो꣡ व्ŕ̥कं  
+त꣡रन्तं यह्व꣡तीर् अपो꣡  
+वित्त꣡म् मे अस्य꣡ रोदसी  

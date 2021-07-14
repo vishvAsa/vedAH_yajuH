@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-nicetā́ro hí marúto gr̥ṇántam  
-praṇetā́ro yájamānasya mánma  
-asmā́kam adyá vidátheṣu barhír  
-ā́ vītáye sadata pipriyāṇā́ḥ  
+निचेता꣡रो हि꣡ मरु꣡तो गृण꣡न्तम्  
+प्रणेता꣡रो य꣡जमानस्य म꣡न्म  
+अस्मा꣡कम् अद्य꣡ विद꣡थेषु बर्हि꣡र्  
+आ꣡ वीत꣡ये सदत पिप्रियाणाः꣡  

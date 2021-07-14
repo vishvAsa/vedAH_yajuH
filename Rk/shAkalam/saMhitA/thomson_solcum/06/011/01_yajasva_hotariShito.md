@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yájasva hotar iṣitó yájīyān  
-ágne bā́dho marútāṃ ná práyukti  
-ā́ no mitrā́váruṇā nā́satiyā  
-dyā́vā hotrā́ya pr̥thivī́ vavr̥tyāḥ  
+य꣡जस्व होतर् इषितो꣡ य꣡जीयान्  
+अ꣡ग्ने बा꣡धो मरु꣡तां न꣡ प्र꣡युक्ति  
+आ꣡ नो मित्रा꣡व꣡रुणा ना꣡सतिया  
+द्या꣡वा होत्रा꣡य पृथिवी꣡ ववृत्याः  

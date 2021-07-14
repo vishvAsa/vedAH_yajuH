@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tád íd dhí asya sávanaṃ vivér apó  
-yáthā purā́ mánave gātúm áśret  
-góarṇasi tvāṣṭaré áśvanirṇiji  
-prém adhvaréṣu adhvarā́m̐ aśiśrayuḥ  
+त꣡द् इ꣡द् धि꣡ अस्य स꣡वनं विवे꣡र् अपो꣡  
+य꣡था पुरा꣡ म꣡नवे गातु꣡म् अ꣡श्रेत्  
+गो꣡अर्णसि त्वाष्टरे꣡ अ꣡श्वनिर्णिजि  
+प्रे꣡म् अध्वरे꣡षु अध्वराँ꣡ अशिश्रयुः  

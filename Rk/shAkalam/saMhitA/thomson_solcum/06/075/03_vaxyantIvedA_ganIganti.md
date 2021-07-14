@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-vakṣyántīvéd ā́ ganīganti kárṇam  
-priyáṃ sákhāyam pariṣasvajānā́  
-yóṣeva śiṅkte vítatā́dhi dhánvañ  
-jiyā́ iyáṃ sámane pāráyantī  
+वक्ष्य꣡न्तीवे꣡द् आ꣡ गनीगन्ति क꣡र्णम्  
+प्रियं꣡ स꣡खायम् परिषस्वजाना꣡  
+यो꣡षेव शिङ्क्ते वि꣡तता꣡धि ध꣡न्वञ्  
+जिया꣡ इयं꣡ स꣡मने पार꣡यन्ती  

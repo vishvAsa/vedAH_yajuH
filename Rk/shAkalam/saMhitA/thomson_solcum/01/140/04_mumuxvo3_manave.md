@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mumukṣúvo mánave mānavasyaté  
-raghudrúvaḥ kr̥ṣṇásītāsa ū júvaḥ  
-asamanā́ ajirā́so raghuṣyádo  
-vā́tajūtā úpa yujyanta āśávaḥ  
+मुमुक्षु꣡वो म꣡नवे मानवस्यते꣡  
+रघुद्रु꣡वः कृष्ण꣡सीतास ऊ जु꣡वः  
+असमना꣡ अजिरा꣡सो रघुष्य꣡दो  
+वा꣡तजूता उ꣡प युज्यन्त आश꣡वः  

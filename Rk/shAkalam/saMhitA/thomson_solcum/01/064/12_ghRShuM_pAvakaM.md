@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ghŕ̥ṣum pavākáṃ+ vanínaṃ vícarṣaṇiṃ  
-rudrásya sūnúṃ havásā gr̥ṇīmasi  
-rajastúraṃ tavásam mā́rutaṃ gaṇám  
-r̥jīṣíṇaṃ vŕ̥ṣaṇaṃ saścata śriyé  
+घ्ŕ̥षुम् पवाकं꣡+ वनि꣡नं वि꣡चर्षणिं  
+रुद्र꣡स्य सूनुं꣡ हव꣡सा गृणीमसि  
+रजस्तु꣡रं तव꣡सम् मा꣡रुतं गण꣡म्  
+ऋजीषि꣡णं व्ŕ̥षणं सश्चत श्रिये꣡  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yajñó hí ta indara+ várdhano bhū́d  
-utá priyáḥ sutásomo miyédhaḥ  
-yajñéna yajñám ava yajñíyaḥ sán  
-yajñás te vájram ahihátya āvat  
+यज्ञो꣡ हि꣡ त इन्दर+ व꣡र्धनो भू꣡द्  
+उत꣡ प्रियः꣡ सुत꣡सोमो मिये꣡धः  
+यज्ञे꣡न यज्ञ꣡म् अव यज्ञि꣡यः स꣡न्  
+यज्ञ꣡स् ते व꣡ज्रम् अहिह꣡त्य आवत्  

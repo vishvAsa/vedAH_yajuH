@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yó vaḥ śivátamo rásas  
-tásya bhājayatehá naḥ  
-uśatī́r iva mātáraḥ  
+यो꣡ वः शिव꣡तमो र꣡सस्  
+त꣡स्य भाजयतेह꣡ नः  
+उशती꣡र् इव मात꣡रः  

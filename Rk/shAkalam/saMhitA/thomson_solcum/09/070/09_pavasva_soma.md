@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-pávasva soma devávītaye vŕ̥ṣā  
-índrasya hā́rdi somadhā́nam ā́ viśa  
-purā́ no bādhā́d duritā́ti pāraya  
-kṣetravíd dhí díśa ā́hā vipr̥chaté  
+प꣡वस्व सोम देव꣡वीतये व्ŕ̥षा  
+इ꣡न्द्रस्य हा꣡र्दि सोमधा꣡नम् आ꣡ विश  
+पुरा꣡ नो बाधा꣡द् दुरिता꣡ति पारय  
+क्षेत्रवि꣡द् धि꣡ दि꣡श आ꣡हा विपृछते꣡  

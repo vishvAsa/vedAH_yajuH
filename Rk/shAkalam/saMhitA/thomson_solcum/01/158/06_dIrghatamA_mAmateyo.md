@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-dīrghátamā māmateyó  
-jujurvā́n daśamé yugé  
-apā́m árthaṃ yatī́nãm  
-brahmā́ bhavati sā́rathiḥ  
+दीर्घ꣡तमा मामतेयो꣡  
+जुजुर्वा꣡न् दशमे꣡ युगे꣡  
+अपा꣡म् अ꣡र्थं यती꣡न्ãम्  
+ब्रह्मा꣡ भवति सा꣡रथिः  

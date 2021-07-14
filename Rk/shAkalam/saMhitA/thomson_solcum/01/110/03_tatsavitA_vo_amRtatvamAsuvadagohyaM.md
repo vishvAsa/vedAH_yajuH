@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tát savitā́ vo amr̥tatvám ā́suvad  
-ágohiyaṃ yác chraváyanta aítana  
-tyáṃ cic camasám ásurasya bhákṣaṇam  
-ékaṃ sántam akr̥ṇutā cáturvayam  
+त꣡त् सविता꣡ वो अमृतत्व꣡म् आ꣡सुवद्  
+अ꣡गोहियं य꣡च् छ्रव꣡यन्त अइ꣡तन  
+त्यं꣡ चिच् चमस꣡म् अ꣡सुरस्य भ꣡क्षणम्  
+ए꣡कं स꣡न्तम् अकृणुता च꣡तुर्वयम्  

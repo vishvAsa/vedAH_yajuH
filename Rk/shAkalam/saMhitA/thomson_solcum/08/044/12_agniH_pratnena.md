@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-agníḥ pratnéna mánmanā  
-śúmbhānas tanúvaṃ suvā́m  
-kavír vípreṇa vāvr̥dhe  
+अग्निः꣡ प्रत्ने꣡न म꣡न्मना  
+शु꣡म्भानस् तनु꣡वं सुवा꣡म्  
+कवि꣡र् वि꣡प्रेण वावृधे  

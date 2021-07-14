@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-túbhyaṃ hinvānó vasiṣṭa gā́ apó  
-ádhukṣan sīm ávibhir ádribhir náraḥ  
-píbendra svā́hā práhutaṃ váṣaṭkr̥taṃ  
-hotrā́d ā́ sómam prathamó yá ī́śiṣe  
+तु꣡भ्यं हिन्वानो꣡ वसिष्ट गा꣡ अपो꣡  
+अ꣡धुक्षन् सीम् अ꣡विभिर् अ꣡द्रिभिर् न꣡रः  
+पि꣡बेन्द्र स्वा꣡हा प्र꣡हुतं व꣡षट्कृतं  
+होत्रा꣡द् आ꣡ सो꣡मम् प्रथमो꣡ य꣡ ई꣡शिषे  

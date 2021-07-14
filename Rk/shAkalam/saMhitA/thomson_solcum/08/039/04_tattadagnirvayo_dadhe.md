@@ -2,9 +2,9 @@
 title = "004"
 
 +++
-tát-tad agnír váyo dadhe  
-yáthā-yathā kr̥paṇyáti  
-ūrjā́hutir vásūnãṃ  
-śáṃ ca yóś ca máyo dadhe  
-víśvasyai deváhūtiyai  
-nábhantām anyaké same  
+त꣡त्-तद् अग्नि꣡र् व꣡यो दधे  
+य꣡था-यथा कृपण्य꣡ति  
+ऊर्जा꣡हुतिर् व꣡सून्ãं  
+शं꣡ च यो꣡श् च म꣡यो दधे  
+वि꣡श्वस्यै देव꣡हूतियै  
+न꣡भन्ताम् अन्यके꣡ समे  

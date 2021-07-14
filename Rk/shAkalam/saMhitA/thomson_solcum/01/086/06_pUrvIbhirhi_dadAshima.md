@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-pūrvī́bhir hí dadāśimá  
-śarádbhir maruto vayám  
-ávobhiś carṣaṇīnã́m  
+पूर्वी꣡भिर् हि꣡ ददाशिम꣡  
+शर꣡द्भिर् मरुतो वय꣡म्  
+अ꣡वोभिश् चर्षणीन्ã꣡म्  

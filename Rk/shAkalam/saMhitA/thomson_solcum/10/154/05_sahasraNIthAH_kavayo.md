@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sahásraṇīthāḥ kaváyo  
-yé gopāyánti sū́riyam  
-ŕ̥ṣīn tápasvato yama  
-tapojā́m̐ ápi gachatāt  
+सह꣡स्रणीथाः कव꣡यो  
+ये꣡ गोपाय꣡न्ति सू꣡रियम्  
+ŕ̥षीन् त꣡पस्वतो यम  
+तपोजाँ꣡ अ꣡पि गछतात्  

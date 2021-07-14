@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yás ta idhmáṃ jabhárat siṣvidānó  
-mūrdhā́naṃ vā tatápate tuvāyā́  
-bhúvas tásya svátavām̐ḥ pāyúr agne  
-víśvasmāt sīm aghāyatá uruṣya  
+य꣡स् त इध्मं꣡ जभ꣡रत् सिष्विदानो꣡  
+मूर्धा꣡नं वा तत꣡पते तुवाया꣡  
+भु꣡वस् त꣡स्य स्व꣡तवाँः पायु꣡र् अग्ने  
+वि꣡श्वस्मात् सीम् अघायत꣡ उरुष्य  

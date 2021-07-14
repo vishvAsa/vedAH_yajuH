@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-etám u tyáṃ dáśa kṣípo  
-mr̥jánti síndhumātaram  
-sám ādityébhir akhyata  
+एत꣡म् उ त्यं꣡ द꣡श क्षि꣡पो  
+मृज꣡न्ति सि꣡न्धुमातरम्  
+स꣡म् आदित्ये꣡भिर् अख्यत  

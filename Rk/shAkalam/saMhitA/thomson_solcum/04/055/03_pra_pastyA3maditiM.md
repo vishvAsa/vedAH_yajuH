@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá pastíyām áditiṃ síndhum arkaíḥ  
-suastím īḷe sakhiyā́ya devī́m  
-ubhé yáthā no áhanī nipā́ta  
-uṣā́sānáktā karatām ádabdhe  
+प्र꣡ पस्ति꣡याम् अ꣡दितिं सि꣡न्धुम् अर्कइः꣡  
+सुअस्ति꣡म् ईऌए सखिया꣡य देवी꣡म्  
+उभे꣡ य꣡था नो अ꣡हनी निपा꣡त  
+उषा꣡सान꣡क्ता करताम् अ꣡दब्धे  

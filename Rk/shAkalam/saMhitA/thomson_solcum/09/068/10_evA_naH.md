@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-evā́ naḥ soma pariṣicyámāno  
-váyo dádhac citrátamam pavasva  
-adveṣé dyā́vāpr̥thivī́ huvema  
-dévā dhattá rayím asmé suvī́ram  
+एवा꣡ नः सोम परिषिच्य꣡मानो  
+व꣡यो द꣡धच् चित्र꣡तमम् पवस्व  
+अद्वेषे꣡ द्या꣡वापृथिवी꣡ हुवेम  
+दे꣡वा धत्त꣡ रयि꣡म् अस्मे꣡ सुवी꣡रम्  

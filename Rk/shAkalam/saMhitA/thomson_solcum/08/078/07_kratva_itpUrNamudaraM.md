@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-krátva ít pūrṇám udáraṃ  
-turásya asti vidhatáḥ  
-vr̥traghnáḥ somapā́vanaḥ  
+क्र꣡त्व इ꣡त् पूर्ण꣡म् उद꣡रं  
+तुर꣡स्य अस्ति विधतः꣡  
+वृत्रघ्नः꣡ सोमपा꣡वनः  

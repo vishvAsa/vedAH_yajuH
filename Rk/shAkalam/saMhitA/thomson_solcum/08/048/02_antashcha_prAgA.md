@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-antáś ca prā́gā áditir bhavāsi  
-avayātā́ háraso daíviyasya  
-índav índrasya sakhiyáṃ juṣāṇáḥ  
-śraúṣṭīva dhúram ánu rāyá r̥dhyāḥ  
+अन्त꣡श् च प्रा꣡गा अ꣡दितिर् भवासि  
+अवयाता꣡ ह꣡रसो दइ꣡वियस्य  
+इ꣡न्दव् इ꣡न्द्रस्य सखियं꣡ जुषाणः꣡  
+श्रउ꣡ष्टीव धु꣡रम् अ꣡नु राय꣡ ऋध्याः  

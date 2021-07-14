@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-drapsáś caskanda prathamā́m̐ ánu dyū́n  
-imáṃ ca yónim ánu yáś ca pū́rvaḥ  
-samānáṃ yónim ánu saṃcárantaṃ  
-drapsáṃ juhomi ánu saptá hótrāḥ  
+द्रप्स꣡श् चस्कन्द प्रथमाँ꣡ अ꣡नु द्यू꣡न्  
+इमं꣡ च यो꣡निम् अ꣡नु य꣡श् च पू꣡र्वः  
+समानं꣡ यो꣡निम् अ꣡नु संच꣡रन्तं  
+द्रप्सं꣡ जुहोमि अ꣡नु सप्त꣡ हो꣡त्राः  

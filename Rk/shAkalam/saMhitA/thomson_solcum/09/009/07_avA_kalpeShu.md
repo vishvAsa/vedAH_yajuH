@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ávā kálpeṣu naḥ pumas  
-támāṃsi soma yódhiyā  
-tā́ni punāna jaṅghanaḥ  
+अ꣡वा क꣡ल्पेषु नः पुमस्  
+त꣡मांसि सोम यो꣡धिया  
+ता꣡नि पुनान जङ्घनः  

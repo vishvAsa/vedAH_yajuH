@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-utá tyám bhujyúm aśvinā sákhāyo  
-mádhye jahur durévāsaḥ samudré  
-nír īm parṣad árāvā yó yuvā́kuḥ  
+उत꣡ त्य꣡म् भुज्यु꣡म् अश्विना स꣡खायो  
+म꣡ध्ये जहुर् दुरे꣡वासः समुद्रे꣡  
+नि꣡र् ईम् पर्षद् अ꣡रावा यो꣡ युवा꣡कुः  

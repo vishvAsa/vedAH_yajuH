@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-nū́ no rayím puruvī́ram br̥hántaṃ  
-dásrā mímāthām ubháyeṣu asmé  
-náro yád vām aśvinā stómam ā́van  
-sadhástutim ājamīḷhā́so agman  
+नू꣡ नो रयि꣡म् पुरुवी꣡रम् बृह꣡न्तं  
+द꣡स्रा मि꣡माथाम् उभ꣡येषु अस्मे꣡  
+न꣡रो य꣡द् वाम् अश्विना स्तो꣡मम् आ꣡वन्  
+सध꣡स्तुतिम् आजमीऌहा꣡सो अग्मन्  

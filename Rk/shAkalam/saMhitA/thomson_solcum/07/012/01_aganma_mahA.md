@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-áganma mahā́ námasā yáviṣṭhaṃ  
-yó dīdā́ya sámiddhaḥ své duroṇé  
-citrábhānuṃ ródasī antár urvī́  
-súāhutaṃ viśvátaḥ pratiáñcam  
+अ꣡गन्म महा꣡ न꣡मसा य꣡विष्ठं  
+यो꣡ दीदा꣡य स꣡मिद्धः स्वे꣡ दुरोणे꣡  
+चित्र꣡भानुं रो꣡दसी अन्त꣡र् उर्वी꣡  
+सु꣡आहुतं विश्व꣡तः प्रतिअ꣡ञ्चम्  

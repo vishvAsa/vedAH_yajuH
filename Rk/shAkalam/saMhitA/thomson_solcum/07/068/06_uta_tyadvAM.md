@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-utá tyád vāṃ juraté aśvinā bhūc  
-cyávānāya pratī́tiyaṃ havirdé  
-ádhi yád várpa itáūti dhattháḥ  
+उत꣡ त्य꣡द् वां जुरते꣡ अश्विना भूच्  
+च्य꣡वानाय प्रती꣡तियं हविर्दे꣡  
+अ꣡धि य꣡द् व꣡र्प इत꣡ऊति धत्थः꣡  

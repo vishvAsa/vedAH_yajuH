@@ -2,7 +2,7 @@
 title = "048"
 
 +++
-pávasva soma kratuvín na ukthiyó  
-ávyo vā́re pári dhāva mádhu priyám  
-jahí víśvān rakṣása indo atríṇo  
-br̥hád vadema vidáthe suvī́rāḥ  
+प꣡वस्व सोम क्रतुवि꣡न् न उक्थियो꣡  
+अ꣡व्यो वा꣡रे प꣡रि धाव म꣡धु प्रिय꣡म्  
+जहि꣡ वि꣡श्वान् रक्ष꣡स इन्दो अत्रि꣡णो  
+बृह꣡द् वदेम विद꣡थे सुवी꣡राः  

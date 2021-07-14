@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-táṃ vāṃ ráthaṃ vayám adyā́ huvema  
-pr̥thujráyam aśvinā sáṃgatiṃ góḥ  
-yáḥ sūriyā́ṃ váhati vandhurāyúr  
-gírvāhasam purutámaṃ vasūyúm  
+तं꣡ वां र꣡थं वय꣡म् अद्या꣡ हुवेम  
+पृथुज्र꣡यम् अश्विना सं꣡गतिं गोः꣡  
+यः꣡ सूरियां꣡ व꣡हति वन्धुरायु꣡र्  
+गि꣡र्वाहसम् पुरुत꣡मं वसूयु꣡म्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-úd usríyāḥ sr̥jate sū́riyaḥ sácām̐  
-udyán nákṣatram arcivát  
-távéd uṣo viúṣi sū́riyasya ca  
-sám bhakténa gamemahi  
+उ꣡द् उस्रि꣡याः सृजते सू꣡रियः स꣡चाँ  
+उद्य꣡न् न꣡क्षत्रम् अर्चिव꣡त्  
+त꣡वे꣡द् उषो विउ꣡षि सू꣡रियस्य च  
+स꣡म् भक्ते꣡न गमेमहि  

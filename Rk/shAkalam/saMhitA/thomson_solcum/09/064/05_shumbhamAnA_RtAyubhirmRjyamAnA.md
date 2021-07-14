@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-śumbhámānā r̥tāyúbhir  
-mr̥jyámānā gábhastiyoḥ  
-pávante vā́re avyáye  
+शुम्भ꣡माना ऋतायु꣡भिर्  
+मृज्य꣡माना ग꣡भस्तियोः  
+प꣡वन्ते वा꣡रे अव्य꣡ये  

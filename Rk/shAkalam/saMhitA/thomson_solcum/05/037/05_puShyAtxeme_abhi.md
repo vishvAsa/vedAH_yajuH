@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-púṣyāt kṣéme abhí yóge bhavāti  
-ubhé vŕ̥tau saṃyatī́ sáṃ jayāti  
-priyáḥ sū́rye priyó agnā́ bhavāti  
-yá índrāya sutásomo dádāśat  
+पु꣡ष्यात् क्षे꣡मे अभि꣡ यो꣡गे भवाति  
+उभे꣡ व्ŕ̥तौ संयती꣡ सं꣡ जयाति  
+प्रियः꣡ सू꣡र्ये प्रियो꣡ अग्ना꣡ भवाति  
+य꣡ इ꣡न्द्राय सुत꣡सोमो द꣡दाशत्  

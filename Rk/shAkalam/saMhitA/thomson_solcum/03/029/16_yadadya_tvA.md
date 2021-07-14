@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-yád adyá tvā prayatí yajñé asmín  
-hótaś cikitvo ávr̥ṇīmahīhá  
-dhruvám ayā dhruvám utā́śamiṣṭhāḥ  
-prajānán vidvā́m̐ úpa yāhi sómam  
+य꣡द् अद्य꣡ त्वा प्रयति꣡ यज्ञे꣡ अस्मि꣡न्  
+हो꣡तश् चिकित्वो अ꣡वृणीमहीह꣡  
+ध्रुव꣡म् अया ध्रुव꣡म् उता꣡शमिष्ठाः  
+प्रजान꣡न् विद्वाँ꣡ उ꣡प याहि सो꣡मम्  

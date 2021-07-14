@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-abhí préhi dakṣiṇató bhavā me  
-ádhā vr̥trā́ṇi jaṅghanāva bhū́ri  
-juhómi te dharúṇam mádhvo ágram  
-ubhā́ upāṃśú prathamā́ pibāva  
+अभि꣡ प्रे꣡हि दक्षिणतो꣡ भवा मे  
+अ꣡धा वृत्रा꣡णि जङ्घनाव भू꣡रि  
+जुहो꣡मि ते धरु꣡णम् म꣡ध्वो अ꣡ग्रम्  
+उभा꣡ उपांशु꣡ प्रथमा꣡ पिबाव  

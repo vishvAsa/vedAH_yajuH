@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vaiśvānarā́ya dhiṣáṇām r̥tāvŕ̥dhe  
-ghr̥táṃ ná pūtám agnáye janāmasi  
-dvitā́ hótāram mánuṣaś ca vāgháto  
-dhiyā́ ráthaṃ ná kúliśaḥ sám r̥ṇvati  
+वैश्वानरा꣡य धिष꣡णाम् ऋताव्ŕ̥धे  
+घृतं꣡ न꣡ पूत꣡म् अग्न꣡ये जनामसि  
+द्विता꣡ हो꣡तारम् म꣡नुषश् च वाघ꣡तो  
+धिया꣡ र꣡थं न꣡ कु꣡लिशः स꣡म् ऋण्वति  

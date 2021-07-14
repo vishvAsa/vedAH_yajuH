@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-sá naḥ pavāka+ dīdihi  
-dyumád asmé suvī́riyam  
-bhávā stotŕ̥bhyo ántamaḥ suastáye  
+स꣡ नः पवाक+ दीदिहि  
+द्युम꣡द् अस्मे꣡ सुवी꣡रियम्  
+भ꣡वा स्तोत्ŕ̥भ्यो अ꣡न्तमः सुअस्त꣡ये  

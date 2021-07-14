@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yéna dyaúr ugrā́ pr̥thivī́ ca dr̥̄ḷhā́+  
-yéna súva stabhitáṃ yéna nā́kaḥ  
-yó antárikṣe rájaso vimā́naḥ  
-kásmai devā́ya havíṣā vidhema  
+ये꣡न द्यउ꣡र् उग्रा꣡ पृथिवी꣡ च दॄऌहा꣡+  
+ये꣡न सु꣡व स्तभितं꣡ ये꣡न ना꣡कः  
+यो꣡ अन्त꣡रिक्षे र꣡जसो विमा꣡नः  
+क꣡स्मै देवा꣡य हवि꣡षा विधेम  

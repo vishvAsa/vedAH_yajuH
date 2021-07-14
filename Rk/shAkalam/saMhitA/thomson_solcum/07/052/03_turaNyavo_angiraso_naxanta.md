@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-turaṇyávo áṅgiraso nakṣanta  
-rátnaṃ devásya savitúr iyānā́ḥ  
-pitā́ ca tán no mahā́n yájatro  
-víśve devā́ḥ sámanaso juṣanta  
+तुरण्य꣡वो अ꣡ङ्गिरसो नक्षन्त  
+र꣡त्नं देव꣡स्य सवितु꣡र् इयानाः꣡  
+पिता꣡ च त꣡न् नो महा꣡न् य꣡जत्रो  
+वि꣡श्वे देवाः꣡ स꣡मनसो जुषन्त  

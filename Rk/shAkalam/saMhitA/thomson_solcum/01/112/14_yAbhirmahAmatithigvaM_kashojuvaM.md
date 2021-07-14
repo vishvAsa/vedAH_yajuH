@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yā́bhir mahā́m atithigváṃ kaśojúvaṃ  
-dívodāsaṃ śambarahátya ā́vatam  
-yā́bhiḥ pūrbhídye trasádasyum ā́vataṃ  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिर् महा꣡म् अतिथिग्वं꣡ कशोजु꣡वं  
+दि꣡वोदासं शम्बरह꣡त्य आ꣡वतम्  
+या꣡भिः पूर्भि꣡द्ये त्रस꣡दस्युम् आ꣡वतं  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

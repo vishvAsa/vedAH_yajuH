@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-imáṃ stómaṃ sákratavo me adyá  
-mitró aryamā́ váruṇo juṣanta  
-ādityā́saḥ śúcayo dhā́rapūtā  
-ávr̥jinā anavadyā́ áriṣṭāḥ  
+इमं꣡ स्तो꣡मं स꣡क्रतवो मे अद्य꣡  
+मित्रो꣡ अर्यमा꣡ व꣡रुणो जुषन्त  
+आदित्या꣡सः शु꣡चयो धा꣡रपूता  
+अ꣡वृजिना अनवद्या꣡ अ꣡रिष्टाः  

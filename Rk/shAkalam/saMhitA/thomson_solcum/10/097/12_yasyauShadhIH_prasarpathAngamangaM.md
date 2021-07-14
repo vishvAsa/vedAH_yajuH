@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yásyauṣadhīḥ prasárpatha  
-áṅgam-aṅgam páruṣ-paruḥ  
-táto yákṣmaṃ ví bādhadhva  
-ugró madhyamaśī́r iva  
+य꣡स्यौषधीः प्रस꣡र्पथ  
+अ꣡ङ्गम्-अङ्गम् प꣡रुष्-परुः  
+त꣡तो य꣡क्ष्मं वि꣡ बाधध्व  
+उग्रो꣡ मध्यमशी꣡र् इव  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-upamáṃ tvā maghónãṃ  
-jyéṣṭhaṃ ca vr̥ṣabhā́ṇãm  
-pūrbhíttamam maghavann indra govídam  
-ī́śānaṃ rāyá īmahe  
+उपमं꣡ त्वा मघो꣡न्ãं  
+ज्ये꣡ष्ठं च वृषभा꣡ण्ãम्  
+पूर्भि꣡त्तमम् मघवन्न् इन्द्र गोवि꣡दम्  
+ई꣡शानं राय꣡ ईमहे  

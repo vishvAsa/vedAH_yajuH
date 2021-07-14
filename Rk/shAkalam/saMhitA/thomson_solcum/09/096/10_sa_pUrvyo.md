@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sá pūrviyó vasuvíj jā́yamāno  
-mr̥jānó apsú duduhānó ádrau  
-abhiśastipā́ bhúvanasya rā́jā  
-vidád gātúm bráhmaṇe pūyámānaḥ  
+स꣡ पूर्वियो꣡ वसुवि꣡ज् जा꣡यमानो  
+मृजानो꣡ अप्सु꣡ दुदुहानो꣡ अ꣡द्रौ  
+अभिशस्तिपा꣡ भु꣡वनस्य रा꣡जा  
+विद꣡द् गातु꣡म् ब्र꣡ह्मणे पूय꣡मानः  

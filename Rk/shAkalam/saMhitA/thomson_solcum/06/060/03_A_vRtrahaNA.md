@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ vr̥trahaṇā vr̥trahábhiḥ śúṣmair  
-índra yātáṃ námobhir agne arvā́k  
-yuváṃ rā́dhobhir ákavebhir indra  
-ágne asmé bhavatam uttamébhiḥ  
+आ꣡ वृत्रहणा वृत्रह꣡भिः शु꣡ष्मैर्  
+इ꣡न्द्र यातं꣡ न꣡मोभिर् अग्ने अर्वा꣡क्  
+युवं꣡ रा꣡धोभिर् अ꣡कवेभिर् इन्द्र  
+अ꣡ग्ने अस्मे꣡ भवतम् उत्तमे꣡भिः  

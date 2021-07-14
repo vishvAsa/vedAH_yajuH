@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-prātaryā́vabhir ā́ gataṃ  
-devébhir jeniyāvasū  
-índrāgnī sómapītaye  
+प्रातर्या꣡वभिर् आ꣡ गतं  
+देवे꣡भिर् जेनियावसू  
+इ꣡न्द्राग्नी सो꣡मपीतये  

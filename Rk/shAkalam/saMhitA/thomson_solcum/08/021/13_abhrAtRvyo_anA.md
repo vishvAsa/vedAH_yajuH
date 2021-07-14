@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-abhrātr̥vyó anā́ tuvám  
-ánāpir indra janúṣā sanā́d asi  
-yudhéd āpitvám ichase  
+अभ्रातृव्यो꣡ अना꣡ तुव꣡म्  
+अ꣡नापिर् इन्द्र जनु꣡षा सना꣡द् असि  
+युधे꣡द् आपित्व꣡म् इछसे  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-píbā-pibéd indra śūra sómam  
-mándantu tvā mandínaḥ sutā́saḥ  
-pr̥ṇántas te kukṣī́ vardhayantu  
-itthā́ sutáḥ paurá índram āva  
+पि꣡बा-पिबे꣡द् इन्द्र शूर सो꣡मम्  
+म꣡न्दन्तु त्वा मन्दि꣡नः सुता꣡सः  
+पृण꣡न्तस् ते कुक्षी꣡ वर्धयन्तु  
+इत्था꣡ सुतः꣡ पौर꣡ इ꣡न्द्रम् आव  

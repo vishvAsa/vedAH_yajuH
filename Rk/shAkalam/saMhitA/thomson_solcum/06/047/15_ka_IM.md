@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-ká īṃ stavat káḥ pr̥ṇāt kó yajāte  
-yád ugrám ín maghávā viśváhā́vet  
-pā́dāv iva prahárann anyám-anyaṃ  
-kr̥ṇóti pū́rvam áparaṃ śácībhiḥ  
+क꣡ ईं स्तवत् कः꣡ पृणात् को꣡ यजाते  
+य꣡द् उग्र꣡म् इ꣡न् मघ꣡वा विश्व꣡हा꣡वेत्  
+पा꣡दाव् इव प्रह꣡रन्न् अन्य꣡म्-अन्यं  
+कृणो꣡ति पू꣡र्वम् अ꣡परं श꣡चीभिः  

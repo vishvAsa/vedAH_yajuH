@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-purū́ yát ta indara+ sánti ukthā́  
-gáve cakártha urvárāsu yúdhyan  
-tatakṣé sū́ryāya cid ókasi své  
-vŕ̥ṣā samátsu dãsásya nā́ma cit  
+पुरू꣡ य꣡त् त इन्दर+ स꣡न्ति उक्था꣡  
+ग꣡वे चक꣡र्थ उर्व꣡रासु यु꣡ध्यन्  
+ततक्षे꣡ सू꣡र्याय चिद् ओ꣡कसि स्वे꣡  
+व्ŕ̥षा सम꣡त्सु द्ãस꣡स्य ना꣡म चित्  

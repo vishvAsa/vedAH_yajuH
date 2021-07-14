@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-utá sma asya panayanti jánā  
-jūtíṃ kr̥ṣṭipró abhíbhūtim āśóḥ  
-utaínam āhuḥ samithé viyántaḥ  
-párā dadhikrā́ asarat sahásraiḥ  
+उत꣡ स्म अस्य पनयन्ति ज꣡ना  
+जूतिं꣡ कृष्टिप्रो꣡ अभि꣡भूतिम् आशोः꣡  
+उतइ꣡नम् आहुः समिथे꣡ विय꣡न्तः  
+प꣡रा दधिक्रा꣡ असरत् सह꣡स्रैः  

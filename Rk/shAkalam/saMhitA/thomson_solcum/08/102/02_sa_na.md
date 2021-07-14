@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sá na ī́ḷānayā sahá  
-devā́m̐ agne duvasyúvā  
-cikíd vibhānav ā́ vaha  
+स꣡ न ई꣡ऌआनया सह꣡  
+देवाँ꣡ अग्ने दुवस्यु꣡वा  
+चिकि꣡द् विभानव् आ꣡ वह  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-mitráṃ vayáṃ havāmahe  
-váruṇaṃ sómapītaye  
-jajñānā́ pūtádakṣasā  
+मित्रं꣡ वयं꣡ हवामहे  
+व꣡रुणं सो꣡मपीतये  
+जज्ञाना꣡ पूत꣡दक्षसा  

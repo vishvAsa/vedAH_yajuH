@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-sómo asmábhyaṃ dvipáde  
-cátuṣpade ca paśáve  
-anamīvā́ íṣas karat  
+सो꣡मो अस्म꣡भ्यं द्विप꣡दे  
+च꣡तुष्पदे च पश꣡वे  
+अनमीवा꣡ इ꣡षस् करत्  

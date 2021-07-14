@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tuváṃ rā́jā indara+ yé ca devā́  
-rákṣā nr̥̄́n pāhí asura tvám asmā́n  
-tváṃ sátpatir maghávā nas tárutras  
-tuváṃ satyó vásavānaḥ sahodā́ḥ  
+तुवं꣡ रा꣡जा इन्दर+ ये꣡ च देवा꣡  
+र꣡क्षा नॄ꣡न् पाहि꣡ असुर त्व꣡म् अस्मा꣡न्  
+त्वं꣡ स꣡त्पतिर् मघ꣡वा नस् त꣡रुत्रस्  
+तुवं꣡ सत्यो꣡ व꣡सवानः सहोदाः꣡  

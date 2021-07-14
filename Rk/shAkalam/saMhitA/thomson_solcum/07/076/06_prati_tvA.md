@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-práti tvā stómair īḷate vásiṣṭhā  
-uṣarbúdhaḥ subhage tuṣṭuvā́ṃsaḥ  
-gávāṃ netrī́ vā́japatnī na ucha  
-úṣaḥ sujāte prathamā́ jarasva  
+प्र꣡ति त्वा स्तो꣡मैर् ईऌअते व꣡सिष्ठा  
+उषर्बु꣡धः सुभगे तुष्टुवां꣡सः  
+ग꣡वां नेत्री꣡ वा꣡जपत्नी न उछ  
+उ꣡षः सुजाते प्रथमा꣡ जरस्व  

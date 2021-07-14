@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tárobhir vo vidádvasum  
-índraṃ sabā́dha ūtáye  
-br̥hád gā́yantaḥ sutásome adhvaré  
-huvé bháraṃ ná kāríṇam  
+त꣡रोभिर् वो विद꣡द्वसुम्  
+इ꣡न्द्रं सबा꣡ध ऊत꣡ये  
+बृह꣡द् गा꣡यन्तः सुत꣡सोमे अध्वरे꣡  
+हुवे꣡ भ꣡रं न꣡ कारि꣡णम्  

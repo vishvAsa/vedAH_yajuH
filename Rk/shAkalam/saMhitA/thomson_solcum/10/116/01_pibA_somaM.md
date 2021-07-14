@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-píbā sómam mahatá indriyā́ya  
-píbā vr̥trā́ya hántave śaviṣṭha  
-píba rāyé śávase hūyámānaḥ  
-píba mádhvas tr̥pád indrā́ vr̥ṣasva  
+पि꣡बा सो꣡मम् महत꣡ इन्द्रिया꣡य  
+पि꣡बा वृत्रा꣡य ह꣡न्तवे शविष्ठ  
+पि꣡ब राये꣡ श꣡वसे हूय꣡मानः  
+पि꣡ब म꣡ध्वस् तृप꣡द् इन्द्रा꣡ वृषस्व  

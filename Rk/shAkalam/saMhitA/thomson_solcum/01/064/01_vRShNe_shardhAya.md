@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vŕ̥ṣṇe śárdhāya súmakhāya vedháse  
-nódhaḥ suvr̥ktím prá bharā marúdbhiyaḥ  
-apó ná dhī́ro mánasā suhástiyo  
-gíraḥ sám añje vidátheṣu ābhúvaḥ  
+व्ŕ̥ष्णे श꣡र्धाय सु꣡मखाय वेध꣡से  
+नो꣡धः सुवृक्ति꣡म् प्र꣡ भरा मरु꣡द्भियः  
+अपो꣡ न꣡ धी꣡रो म꣡नसा सुह꣡स्तियो  
+गि꣡रः स꣡म् अञ्जे विद꣡थेषु आभु꣡वः  

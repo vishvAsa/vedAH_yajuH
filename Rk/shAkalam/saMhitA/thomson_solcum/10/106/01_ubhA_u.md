@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ubhā́ u nūnáṃ tád íd arthayethe  
-ví tanvāthe dhíyo vástrāpáseva  
-sadhrīcīnā́ yā́tave prém ajīgaḥ  
-sudíneva pŕ̥kṣa ā́ taṃsayethe  
+उभा꣡ उ नूनं꣡ त꣡द् इ꣡द् अर्थयेथे  
+वि꣡ तन्वाथे धि꣡यो व꣡स्त्राप꣡सेव  
+सध्रीचीना꣡ या꣡तवे प्रे꣡म् अजीगः  
+सुदि꣡नेव प्ŕ̥क्ष आ꣡ तंसयेथे  

@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-éhá devā́ mayobhúvā  
-dasrā́ híraṇyavartanī  
-uṣarbúdho vahantu sómapītaye  
+ए꣡ह꣡ देवा꣡ मयोभु꣡वा  
+दस्रा꣡ हि꣡रण्यवर्तनी  
+उषर्बु꣡धो वहन्तु सो꣡मपीतये  

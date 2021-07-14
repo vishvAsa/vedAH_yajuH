@@ -2,6 +2,6 @@
 title = "036"
 
 +++
-bráhma prajā́vad ā́ bhara  
-jā́tavedo vícarṣaṇe  
-ágne yád dīdáyad diví  
+ब्र꣡ह्म प्रजा꣡वद् आ꣡ भर  
+जा꣡तवेदो वि꣡चर्षणे  
+अ꣡ग्ने य꣡द् दीद꣡यद् दिवि꣡  

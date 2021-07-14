@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-úpa bradhnáṃ vāvā́tā vŕ̥ṣaṇā hárī  
-índram apásu vakṣataḥ  
-arvā́ñcaṃ tvā sáptayo adhvaraśríyo  
-váhantu sávanéd úpa  
+उ꣡प ब्रध्नं꣡ वावा꣡ता व्ŕ̥षणा ह꣡री  
+इ꣡न्द्रम् अप꣡सु वक्षतः  
+अर्वा꣡ञ्चं त्वा स꣡प्तयो अध्वरश्रि꣡यो  
+व꣡हन्तु स꣡वने꣡द् उ꣡प  

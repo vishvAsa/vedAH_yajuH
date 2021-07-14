@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-ātmā́ pitús tanū́r vā́sa  
-ojodā́ abhiáñjanam  
-turī́yam íd róhitasya pā́kasthāmānam  
-bhojáṃ dātā́ram abravam  
+आत्मा꣡ पितु꣡स् तनू꣡र् वा꣡स  
+ओजोदा꣡ अभिअ꣡ञ्जनम्  
+तुरी꣡यम् इ꣡द् रो꣡हितस्य पा꣡कस्थामानम्  
+भोजं꣡ दाता꣡रम् अब्रवम्  

@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-ā́ vidyúnmadbhir marutaḥ  
-suarkaí ráthebhir yāta  
-r̥ṣṭimádbhir áśvaparṇaiḥ  
-ā́ várṣiṣṭhayā na iṣā́  
-váyo ná paptatā sumāyāḥ  
+आ꣡ विद्यु꣡न्मद्भिर् मरुतः  
+सुअर्कइ꣡ र꣡थेभिर् यात  
+ऋष्टिम꣡द्भिर् अ꣡श्वपर्णैः  
+आ꣡ व꣡र्षिष्ठया न इषा꣡  
+व꣡यो न꣡ पप्तता सुमायाः  

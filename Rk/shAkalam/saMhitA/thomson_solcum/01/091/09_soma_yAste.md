@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-sóma yā́s te mayobhúva  
-ūtáyaḥ sánti dāśúṣe  
-tā́bhir no avitā́ bhava  
+सो꣡म या꣡स् ते मयोभु꣡व  
+ऊत꣡यः स꣡न्ति दाशु꣡षे  
+ता꣡भिर् नो अविता꣡ भव  

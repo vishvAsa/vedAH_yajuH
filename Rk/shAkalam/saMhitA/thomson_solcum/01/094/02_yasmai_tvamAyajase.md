@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yásmai tuvám āyájase sá sādhati  
-anarvā́ kṣeti dádhate suvī́riyam  
-sá tūtāva naínam aśnoti aṃhatír  
-ágne sakhyé mā́ riṣāmā vayáṃ táva  
+य꣡स्मै तुव꣡म् आय꣡जसे स꣡ साधति  
+अनर्वा꣡ क्षेति द꣡धते सुवी꣡रियम्  
+स꣡ तूताव नइ꣡नम् अश्नोति अंहति꣡र्  
+अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व  

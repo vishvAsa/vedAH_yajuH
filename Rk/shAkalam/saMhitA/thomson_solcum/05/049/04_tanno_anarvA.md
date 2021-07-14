@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tán no anarvā́ savitā́ várūthaṃ  
-tát síndhava iṣáyanto ánu gman  
-úpa yád vóce adhvarásya hótā  
-rāyáḥ syāma pátayo vā́jaratnāḥ  
+त꣡न् नो अनर्वा꣡ सविता꣡ व꣡रूथं  
+त꣡त् सि꣡न्धव इष꣡यन्तो अ꣡नु ग्मन्  
+उ꣡प य꣡द् वो꣡चे अध्वर꣡स्य हो꣡ता  
+रायः꣡ स्याम प꣡तयो वा꣡जरत्नाः  

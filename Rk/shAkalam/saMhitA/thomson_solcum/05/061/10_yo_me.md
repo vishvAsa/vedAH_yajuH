@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-yó me dhenūnã́ṃ śatáṃ  
-vaídadaśvir yáthā dádat  
-tarantá iva maṃhánā  
+यो꣡ मे धेनून्ãं꣡ शतं꣡  
+वइ꣡ददश्विर् य꣡था द꣡दत्  
+तरन्त꣡ इव मंह꣡ना  

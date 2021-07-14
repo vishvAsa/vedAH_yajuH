@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-agnír hótā kavíkratuḥ  
-satyáś citráśravastamaḥ  
-devó devébhir ā́ gamat  
+अग्नि꣡र् हो꣡ता कवि꣡क्रतुः  
+सत्य꣡श् चित्र꣡श्रवस्तमः  
+देवो꣡ देवे꣡भिर् आ꣡ गमत्  

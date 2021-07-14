@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-ánu dvā́ jahitā́ nayo  
-andháṃ śroṇáṃ ca vr̥trahan  
-ná tát te sumnám áṣṭave  
+अ꣡नु द्वा꣡ जहिता꣡ नयो  
+अन्धं꣡ श्रोणं꣡ च वृत्रहन्  
+न꣡ त꣡त् ते सुम्न꣡म् अ꣡ष्टवे  

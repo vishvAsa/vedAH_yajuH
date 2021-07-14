@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-índre agnā́ námo br̥hát  
-suvr̥ktím érayāmahe  
-dhiyā́ dhénā avasyávaḥ  
+इ꣡न्द्रे अग्ना꣡ न꣡मो बृह꣡त्  
+सुवृक्ति꣡म् ए꣡रयामहे  
+धिया꣡ धे꣡ना अवस्य꣡वः  

@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-túbhyāyáṃ sómaḥ páripūto ádribhi  
-spārhā́ vásānaḥ pári kóśam arṣati  
-śukrā́ vásāno arṣati  
-távāyám bhāgá āyúṣu  
-sómo devéṣu hūyate  
-váha vāyo niyúto yāhi asmayúr  
-juṣāṇó yāhi asmayúḥ  
+तु꣡भ्यायं꣡ सो꣡मः प꣡रिपूतो अ꣡द्रिभि  
+स्पार्हा꣡ व꣡सानः प꣡रि को꣡शम् अर्षति  
+शुक्रा꣡ व꣡सानो अर्षति  
+त꣡वाय꣡म् भाग꣡ आयु꣡षु  
+सो꣡मो देवे꣡षु हूयते  
+व꣡ह वायो नियु꣡तो याहि अस्मयु꣡र्  
+जुषाणो꣡ याहि अस्मयुः꣡  

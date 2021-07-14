@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-nr̥vád dasrā manoyújā  
-ráthena pr̥thupā́jasā  
-sácethe aśvinoṣásam  
+नृव꣡द् दस्रा मनोयु꣡जा  
+र꣡थेन पृथुपा꣡जसा  
+स꣡चेथे अश्विनोष꣡सम्  

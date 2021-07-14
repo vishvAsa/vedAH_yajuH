@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-nítyaś cākanyāt svápatir dámūnā  
-yásmā u deváḥ savitā́ jajā́na  
-bhágo vā góbhir aryamém anajyāt  
-só asmai cā́ruś chadayad utá syāt  
+नि꣡त्यश् चाकन्यात् स्व꣡पतिर् द꣡मूना  
+य꣡स्मा उ देवः꣡ सविता꣡ जजा꣡न  
+भ꣡गो वा गो꣡भिर् अर्यमे꣡म् अनज्यात्  
+सो꣡ अस्मै चा꣡रुश् छदयद् उत꣡ स्यात्  

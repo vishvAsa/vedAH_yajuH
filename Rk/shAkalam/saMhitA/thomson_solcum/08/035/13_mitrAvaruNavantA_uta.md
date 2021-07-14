@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-mitrā́váruṇavantā utá dhármavantā  
-marútvantā jaritúr gachatho hávam  
-sajóṣasā uṣásā sū́riyeṇa ca  
-ādityaír yātam aśvinā  
+मित्रा꣡व꣡रुणवन्ता उत꣡ ध꣡र्मवन्ता  
+मरु꣡त्वन्ता जरितु꣡र् गछथो ह꣡वम्  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+आदित्यइ꣡र् यातम् अश्विना  

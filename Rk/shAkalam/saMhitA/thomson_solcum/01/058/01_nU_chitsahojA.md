@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-nū́ cit sahojā́ amŕ̥to ní tundate  
-hótā yád dūtó ábhavad vivásvataḥ  
-ví sā́dhiṣṭhebhiḥ pathíbhī rájo mama  
-ā́ devátātā havíṣā vivāsati  
+नू꣡ चित् सहोजा꣡ अम्ŕ̥तो नि꣡ तुन्दते  
+हो꣡ता य꣡द् दूतो꣡ अ꣡भवद् विव꣡स्वतः  
+वि꣡ सा꣡धिष्ठेभिः पथि꣡भी र꣡जो मम  
+आ꣡ देव꣡ताता हवि꣡षा विवासति  

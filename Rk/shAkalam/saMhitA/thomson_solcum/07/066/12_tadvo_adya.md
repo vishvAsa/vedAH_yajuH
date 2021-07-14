@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-tád vo adyá manāmahe  
-suuktaíḥ sū́ra údite  
-yád óhate váruṇo mitró aryamā́  
-yūyám r̥tásya rathiyaḥ  
+त꣡द् वो अद्य꣡ मनामहे  
+सुउक्तइः꣡ सू꣡र उ꣡दिते  
+य꣡द् ओ꣡हते व꣡रुणो मित्रो꣡ अर्यमा꣡  
+यूय꣡म् ऋत꣡स्य रथियः  

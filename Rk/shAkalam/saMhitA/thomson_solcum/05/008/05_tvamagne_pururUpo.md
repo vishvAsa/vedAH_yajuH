@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tuvám agne pururū́po viśé-viśe  
-váyo dadhāsi pratnáthā puruṣṭuta  
-purū́ṇi ánnā sáhasā ví rājasi  
-tvíṣiḥ sā́ te titviṣāṇásya nā́dhŕ̥ṣe  
+तुव꣡म् अग्ने पुरुरू꣡पो विशे꣡-विशे  
+व꣡यो दधासि प्रत्न꣡था पुरुष्टुत  
+पुरू꣡णि अ꣡न्ना स꣡हसा वि꣡ राजसि  
+त्वि꣡षिः सा꣡ ते तित्विषाण꣡स्य ना꣡ध्ŕ̥षे  

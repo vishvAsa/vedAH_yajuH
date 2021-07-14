@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-triṣadhásthā saptádhātuḥ  
-páñca jātā́ vardháyantī  
-vā́je-vāje háviyā bhūt  
+त्रिषध꣡स्था सप्त꣡धातुः  
+प꣡ञ्च जाता꣡ वर्ध꣡यन्ती  
+वा꣡जे-वाजे ह꣡विया भूत्  

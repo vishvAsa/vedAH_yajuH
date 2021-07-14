@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-dhībhír hinvanti vājínaṃ  
-váne krī́ḷantam átyavim  
-abhí tripr̥ṣṭhám matáyaḥ sám asvaran  
+धीभि꣡र् हिन्वन्ति वाजि꣡नं  
+व꣡ने क्री꣡ऌअन्तम् अ꣡त्यविम्  
+अभि꣡ त्रिपृष्ठ꣡म् मत꣡यः स꣡म् अस्वरन्  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ā́ gantā mā́ riṣaṇyata  
-prásthāvāno mā́pa sthātā samanyavaḥ  
-sthirā́ cin namayiṣṇavaḥ  
+आ꣡ गन्ता मा꣡ रिषण्यत  
+प्र꣡स्थावानो मा꣡प स्थाता समन्यवः  
+स्थिरा꣡ चिन् नमयिष्णवः  

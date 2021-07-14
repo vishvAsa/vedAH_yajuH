@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-stutá índro maghávā yád dha vr̥trā́  
-bhū́rīṇi éko apratī́ni hanti  
-asyá priyó jaritā́ yásya śárman  
-nákir devā́ vāráyante ná mártāḥ  
+स्तुत꣡ इ꣡न्द्रो मघ꣡वा य꣡द् ध वृत्रा꣡  
+भू꣡रीणि ए꣡को अप्रती꣡नि हन्ति  
+अस्य꣡ प्रियो꣡ जरिता꣡ य꣡स्य श꣡र्मन्  
+न꣡किर् देवा꣡ वार꣡यन्ते न꣡ म꣡र्ताः  

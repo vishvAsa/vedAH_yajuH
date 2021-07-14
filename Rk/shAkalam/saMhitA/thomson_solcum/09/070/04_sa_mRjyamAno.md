@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá mr̥jyámāno daśábhiḥ sukármabhiḥ  
-prá madhyamā́su mātŕ̥ṣu pramé sácā  
-vratā́ni pānó amŕ̥tasya cā́ruṇa  
-ubhé nr̥cákṣā ánu paśyate víśau  
+स꣡ मृज्य꣡मानो दश꣡भिः सुक꣡र्मभिः  
+प्र꣡ मध्यमा꣡सु मात्ŕ̥षु प्रमे꣡ स꣡चा  
+व्रता꣡नि पानो꣡ अम्ŕ̥तस्य चा꣡रुण  
+उभे꣡ नृच꣡क्षा अ꣡नु पश्यते वि꣡शौ  

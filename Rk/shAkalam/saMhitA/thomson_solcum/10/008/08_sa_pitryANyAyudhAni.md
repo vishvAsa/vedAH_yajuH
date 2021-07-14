@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sá pítriyāṇi ā́yudhāni vidvā́n  
-índreṣita āptiyó abhy àyudhyat  
-triśīrṣā́ṇaṃ saptáraśmiṃ jaghanvā́n  
-tvāṣṭrásya cin níḥ sasr̥je tritó gā́ḥ  
+स꣡ पि꣡त्रियाणि आ꣡युधानि विद्वा꣡न्  
+इ꣡न्द्रेषित आप्तियो꣡ अभ्य् अ᳡युध्यत्  
+त्रिशीर्षा꣡णं सप्त꣡रश्मिं जघन्वा꣡न्  
+त्वाष्ट्र꣡स्य चिन् निः꣡ ससृजे त्रितो꣡ गाः꣡  

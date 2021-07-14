@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yé te pánthāḥ savitaḥ pūrviyā́so  
-areṇávaḥ súkr̥tā antárikṣe  
-tébhir no adyá pathíbhiḥ sugébhī  
-rákṣā ca no ádhi ca brūhi deva  
+ये꣡ ते प꣡न्थाः सवितः पूर्विया꣡सो  
+अरेण꣡वः सु꣡कृता अन्त꣡रिक्षे  
+ते꣡भिर् नो अद्य꣡ पथि꣡भिः सुगे꣡भी  
+र꣡क्षा च नो अ꣡धि च ब्रूहि देव  

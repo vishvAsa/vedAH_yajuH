@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-samāná ūrvé ádhi sáṃgatāsaḥ  
-sáṃ jānate ná yatante mithás té  
-té devā́nāṃ ná minanti vratā́ni  
-ámardhanto vásubhir yā́damānāḥ  
+समान꣡ ऊर्वे꣡ अ꣡धि सं꣡गतासः  
+सं꣡ जानते न꣡ यतन्ते मिथ꣡स् ते꣡  
+ते꣡ देवा꣡नां न꣡ मिनन्ति व्रता꣡नि  
+अ꣡मर्धन्तो व꣡सुभिर् या꣡दमानाः  

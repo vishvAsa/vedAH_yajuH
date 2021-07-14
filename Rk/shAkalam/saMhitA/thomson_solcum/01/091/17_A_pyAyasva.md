@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-ā́ pyāyasva madintama  
-sóma víśvebhir aṃśúbhiḥ  
-bhávā naḥ suśrávastamaḥ sákhā vr̥dhé  
+आ꣡ प्यायस्व मदिन्तम  
+सो꣡म वि꣡श्वेभिर् अंशु꣡भिः  
+भ꣡वा नः सुश्र꣡वस्तमः स꣡खा वृधे꣡  

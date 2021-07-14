@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá te mádāso madirā́sa āśávo  
-ásr̥kṣata ráthiyāso yáthā pŕ̥thak  
-dhenúr ná vatsám páyasābhí vajríṇam  
-índram índavo mádhumanta ūrmáyaḥ  
+प्र꣡ ते म꣡दासो मदिरा꣡स आश꣡वो  
+अ꣡सृक्षत र꣡थियासो य꣡था प्ŕ̥थक्  
+धेनु꣡र् न꣡ वत्स꣡म् प꣡यसाभि꣡ वज्रि꣡णम्  
+इ꣡न्द्रम् इ꣡न्दवो म꣡धुमन्त ऊर्म꣡यः  

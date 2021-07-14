@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-eṣá syá bhānúr úd iyarti yujyáte  
-ráthaḥ párijmā divó asyá sā́navi  
-pr̥kṣā́so asmin mithunā́ ádhi tráyo  
-dŕ̥tis turī́yo mádhuno ví rapśate  
+एष꣡ स्य꣡ भानु꣡र् उ꣡द् इयर्ति युज्य꣡ते  
+र꣡थः प꣡रिज्मा दिवो꣡ अस्य꣡ सा꣡नवि  
+पृक्षा꣡सो अस्मिन् मिथुना꣡ अ꣡धि त्र꣡यो  
+द्ŕ̥तिस् तुरी꣡यो म꣡धुनो वि꣡ रप्शते  

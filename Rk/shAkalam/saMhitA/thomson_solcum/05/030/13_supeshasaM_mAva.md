@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-supéśasam mā́va sr̥janti ástaṃ  
-gávāṃ sahásrai ruśámāso agne  
-tīvrā́ índram amamanduḥ sutā́so  
-aktór víuṣṭau páritakmiyāyāḥ  
+सुपे꣡शसम् मा꣡व सृजन्ति अ꣡स्तं  
+ग꣡वां सह꣡स्रै रुश꣡मासो अग्ने  
+तीव्रा꣡ इ꣡न्द्रम् अममन्दुः सुता꣡सो  
+अक्तो꣡र् वि꣡उष्टौ प꣡रितक्मियायाः  

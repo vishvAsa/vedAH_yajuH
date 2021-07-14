@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yáḥ śakró mr̥kṣó áśviyo  
-yó vā kī́jo hiraṇyáyaḥ  
-sá ūrvásya rejayati ápāvr̥tim  
-índro gávyasya vr̥trahā́  
+यः꣡ शक्रो꣡ मृक्षो꣡ अ꣡श्वियो  
+यो꣡ वा की꣡जो हिरण्य꣡यः  
+स꣡ ऊर्व꣡स्य रेजयति अ꣡पावृतिम्  
+इ꣡न्द्रो ग꣡व्यस्य वृत्रहा꣡  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-utó hí vāṃ dātarā́ sánti pū́rvā  
-yā́ pūrúbhyas trasádasyur nitośé  
-kṣetrāsã́ṃ dadathur urvarāsā́ṃ  
-ghanáṃ dásyubhyo abhíbhūtim ugrám  
+उतो꣡ हि꣡ वां दातरा꣡ स꣡न्ति पू꣡र्वा  
+या꣡ पूरु꣡भ्यस् त्रस꣡दस्युर् नितोशे꣡  
+क्षेत्रास्ãं꣡ ददथुर् उर्वरासां꣡  
+घनं꣡ द꣡स्युभ्यो अभि꣡भूतिम् उग्र꣡म्  

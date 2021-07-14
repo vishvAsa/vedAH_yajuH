@@ -2,7 +2,7 @@
 title = "026"
 
 +++
-vánaspate vīḍúaṅgo hí bhūyā́  
-asmátsakhā pratáraṇaḥ suvī́raḥ  
-góbhiḥ sáṃnaddho asi vīḷáyasva  
-āsthātā́ te jayatu jétuvāni  
+व꣡नस्पते वीडु꣡अङ्गो हि꣡ भूया꣡  
+अस्म꣡त्सखा प्रत꣡रणः सुवी꣡रः  
+गो꣡भिः सं꣡नद्धो असि वीऌअ꣡यस्व  
+आस्थाता꣡ ते जयतु जे꣡तुवानि  

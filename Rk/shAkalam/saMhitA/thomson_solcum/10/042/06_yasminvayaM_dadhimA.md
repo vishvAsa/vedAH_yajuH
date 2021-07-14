@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yásmin vayáṃ dadhimā́ śáṃsam índre  
-yáḥ śiśrā́ya maghávā kā́mam asmé  
-ārā́c cit sán bhayatām asya śátrur  
-ní asmai dyumnā́ jániyā namantām  
+य꣡स्मिन् वयं꣡ दधिमा꣡ शं꣡सम् इ꣡न्द्रे  
+यः꣡ शिश्रा꣡य मघ꣡वा का꣡मम् अस्मे꣡  
+आरा꣡च् चित् स꣡न् भयताम् अस्य श꣡त्रुर्  
+नि꣡ अस्मै द्युम्ना꣡ ज꣡निया नमन्ताम्  

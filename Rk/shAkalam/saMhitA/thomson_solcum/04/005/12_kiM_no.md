@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-kíṃ no asyá dráviṇaṃ kád dha rátnaṃ  
-ví no voco jātavedaś cikitvā́n  
-gúhā́dhvanaḥ paramáṃ yán no asyá  
-réku padáṃ ná nidānā́ áganma  
+किं꣡ नो अस्य꣡ द्र꣡विणं क꣡द् ध र꣡त्नं  
+वि꣡ नो वोचो जातवेदश् चिकित्वा꣡न्  
+गु꣡हा꣡ध्वनः परमं꣡ य꣡न् नो अस्य꣡  
+रे꣡कु पदं꣡ न꣡ निदाना꣡ अ꣡गन्म  

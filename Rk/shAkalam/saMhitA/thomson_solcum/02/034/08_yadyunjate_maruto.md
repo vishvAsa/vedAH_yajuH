@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yád yuñjáte marúto rukmávakṣaso  
-áśvān rátheṣu bhága ā́ sudā́navaḥ  
-dhenúr ná śíśve svásareṣu pinvate  
-jánāya rātáhaviṣe mahī́m íṣam  
+य꣡द् युञ्ज꣡ते मरु꣡तो रुक्म꣡वक्षसो  
+अ꣡श्वान् र꣡थेषु भ꣡ग आ꣡ सुदा꣡नवः  
+धेनु꣡र् न꣡ शि꣡श्वे स्व꣡सरेषु पिन्वते  
+ज꣡नाय रात꣡हविषे मही꣡म् इ꣡षम्  

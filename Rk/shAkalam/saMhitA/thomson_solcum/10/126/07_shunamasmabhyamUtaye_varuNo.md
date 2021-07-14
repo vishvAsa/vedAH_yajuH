@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-śunám asmábhyam ūtáye  
-váruṇo mitró aryamā́  
-śárma yachantu saprátha  
-ādityā́so yád ī́mahe áti dvíṣaḥ  
+शुन꣡म् अस्म꣡भ्यम् ऊत꣡ये  
+व꣡रुणो मित्रो꣡ अर्यमा꣡  
+श꣡र्म यछन्तु सप्र꣡थ  
+आदित्या꣡सो य꣡द् ई꣡महे अ꣡ति द्वि꣡षः  

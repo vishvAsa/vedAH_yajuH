@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-úpa no devā́ ávasā́ gamantu  
-áṅgirasāṃ sā́mabhi stūyámānāḥ  
-índra indriyaír marúto marúdbhir  
-ādityaír no áditiḥ śárma yaṃsat  
+उ꣡प नो देवा꣡ अ꣡वसा꣡ गमन्तु  
+अ꣡ङ्गिरसां सा꣡मभि स्तूय꣡मानाः  
+इ꣡न्द्र इन्द्रियइ꣡र् मरु꣡तो मरु꣡द्भिर्  
+आदित्यइ꣡र् नो अ꣡दितिः श꣡र्म यंसत्  

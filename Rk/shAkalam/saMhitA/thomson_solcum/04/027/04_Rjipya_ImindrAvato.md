@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-r̥jipyá īm índrāvato ná bhujyúṃ  
-śyenó jabhāra br̥ható ádhi ṣṇóḥ  
-antáḥ patat patatrí asya parṇám  
-ádha yā́mani prásitasya tád véḥ  
+ऋजिप्य꣡ ईम् इ꣡न्द्रावतो न꣡ भुज्युं꣡  
+श्येनो꣡ जभार बृहतो꣡ अ꣡धि ष्णोः꣡  
+अन्तः꣡ पतत् पतत्रि꣡ अस्य पर्ण꣡म्  
+अ꣡ध या꣡मनि प्र꣡सितस्य त꣡द् वेः꣡  

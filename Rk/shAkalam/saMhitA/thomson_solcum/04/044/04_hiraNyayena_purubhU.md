@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-hiraṇyáyena purubhū ráthena  
-imáṃ yajñáṃ nāsatiyópa yātam  
-píbātha ín mádhunaḥ somiyásya  
-dádhatho rátnaṃ vidhaté jánāya  
+हिरण्य꣡येन पुरुभू र꣡थेन  
+इमं꣡ यज्ञं꣡ नासतियो꣡प यातम्  
+पि꣡बाथ इ꣡न् म꣡धुनः सोमिय꣡स्य  
+द꣡धथो र꣡त्नं विधते꣡ ज꣡नाय  

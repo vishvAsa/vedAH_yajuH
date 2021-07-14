@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-nā́sya vartā́ ná tarutā́ nú asti  
-máruto yám ávatha vā́jasātau  
-toké vā góṣu tánaye yám apsú  
-sá vrajáṃ dártā pā́riye ádha dyóḥ  
+ना꣡स्य वर्ता꣡ न꣡ तरुता꣡ नु꣡ अस्ति  
+म꣡रुतो य꣡म् अ꣡वथ वा꣡जसातौ  
+तोके꣡ वा गो꣡षु त꣡नये य꣡म् अप्सु꣡  
+स꣡ व्रजं꣡ द꣡र्ता पा꣡रिये अ꣡ध द्योः꣡  

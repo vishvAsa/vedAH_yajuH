@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-svadhā́m ánu śríyaṃ náro  
-máhi tveṣā́ ámavanto vŕ̥ṣapsavaḥ  
-váhante áhrutapsavaḥ  
+स्वधा꣡म् अ꣡नु श्रि꣡यं न꣡रो  
+म꣡हि त्वेषा꣡ अ꣡मवन्तो व्ŕ̥षप्सवः  
+व꣡हन्ते अ꣡ह्रुतप्सवः  

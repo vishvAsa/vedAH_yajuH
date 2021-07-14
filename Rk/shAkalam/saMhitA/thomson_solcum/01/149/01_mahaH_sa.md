@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-maháḥ sá rāyá éṣate pátir dánn  
-iná inásya vásunaḥ padá ā́  
-úpa dhrájantam ádrayo vidhánn ít  
+महः꣡ स꣡ राय꣡ ए꣡षते प꣡तिर् द꣡न्न्  
+इन꣡ इन꣡स्य व꣡सुनः पद꣡ आ꣡  
+उ꣡प ध्र꣡जन्तम् अ꣡द्रयो विध꣡न्न् इ꣡त्  

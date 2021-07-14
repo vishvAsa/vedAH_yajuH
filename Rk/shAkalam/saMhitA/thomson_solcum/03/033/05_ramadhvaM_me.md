@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-rámadhvam me vácase somiyā́ya  
-ŕ̥tāvarīr úpa muhūrtám évaiḥ  
-prá síndhum áchā br̥hatī́ manīṣā́  
-avasyúr ahve kuśikásya sūnúḥ  
+र꣡मध्वम् मे व꣡चसे सोमिया꣡य  
+ŕ̥तावरीर् उ꣡प मुहूर्त꣡म् ए꣡वैः  
+प्र꣡ सि꣡न्धुम् अ꣡छा बृहती꣡ मनीषा꣡  
+अवस्यु꣡र् अह्वे कुशिक꣡स्य सूनुः꣡  

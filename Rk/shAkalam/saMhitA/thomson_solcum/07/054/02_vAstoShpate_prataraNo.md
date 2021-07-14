@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vā́stoṣ pate pratáraṇo na edhi  
-gayasphā́no góbhir áśvebhir indo  
-ajárāsas te sakhiyé siyāma  
-pitéva putrā́n práti no juṣasva  
+वा꣡स्तोष् पते प्रत꣡रणो न एधि  
+गयस्फा꣡नो गो꣡भिर् अ꣡श्वेभिर् इन्दो  
+अज꣡रासस् ते सखिये꣡ सियाम  
+पिते꣡व पुत्रा꣡न् प्र꣡ति नो जुषस्व  

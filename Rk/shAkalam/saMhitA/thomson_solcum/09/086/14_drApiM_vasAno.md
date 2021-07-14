@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-drāpíṃ vásāno yajató divispŕ̥śam  
-antarikṣaprā́ bhúvaneṣu árpitaḥ  
-súvar jajñānó nábhasābhí akramīt  
-pratnám asya pitáram ā́ vivāsati  
+द्रापिं꣡ व꣡सानो यजतो꣡ दिविस्प्ŕ̥शम्  
+अन्तरिक्षप्रा꣡ भु꣡वनेषु अ꣡र्पितः  
+सु꣡वर् जज्ञानो꣡ न꣡भसाभि꣡ अक्रमीत्  
+प्रत्न꣡म् अस्य पित꣡रम् आ꣡ विवासति  

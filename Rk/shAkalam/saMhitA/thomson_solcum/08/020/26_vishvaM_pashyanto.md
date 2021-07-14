@@ -2,7 +2,7 @@
 title = "026"
 
 +++
-víśvam páśyanto bibhr̥thā tanū́ṣu ā́  
-ténā no ádhi vocata  
-kṣamā́ rápo maruta ā́turasya na  
-íṣkartā víhrutam púnaḥ  
+वि꣡श्वम् प꣡श्यन्तो बिभृथा तनू꣡षु आ꣡  
+ते꣡ना नो अ꣡धि वोचत  
+क्षमा꣡ र꣡पो मरुत आ꣡तुरस्य न  
+इ꣡ष्कर्ता वि꣡ह्रुतम् पु꣡नः  

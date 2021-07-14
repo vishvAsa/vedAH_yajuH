@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-uruvyácasā mahínī asaścátā  
-pitā́ mātā́ ca bhúvanāni rakṣataḥ  
-sudhŕ̥ṣṭame vapuṣíye ná ródasī  
-pitā́ yát sīm abhí rūpaír ávāsayat  
+उरुव्य꣡चसा महि꣡नी असश्च꣡ता  
+पिता꣡ माता꣡ च भु꣡वनानि रक्षतः  
+सुध्ŕ̥ष्टमे वपुषि꣡ये न꣡ रो꣡दसी  
+पिता꣡ य꣡त् सीम् अभि꣡ रूपइ꣡र् अ꣡वासयत्  

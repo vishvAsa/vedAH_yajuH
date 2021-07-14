@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tám asya rā́jā váruṇas tám aśvínā  
-krátuṃ sacanta mā́rutasya vedhásaḥ  
-dādhā́ra dákṣam uttamám aharvídaṃ  
-vrajáṃ ca víṣṇuḥ sákhivām̐ aporṇuté  
+त꣡म् अस्य रा꣡जा व꣡रुणस् त꣡म् अश्वि꣡ना  
+क्र꣡तुं सचन्त मा꣡रुतस्य वेध꣡सः  
+दाधा꣡र द꣡क्षम् उत्तम꣡म् अहर्वि꣡दं  
+व्रजं꣡ च वि꣡ष्णुः स꣡खिवाँ अपोर्णुते꣡  

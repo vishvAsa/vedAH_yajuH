@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-tádbandhuḥ sūrír diví te dhiyaṃdhā́  
-nā́bhānédiṣṭho rapati prá vénan  
-sā́ no nā́bhiḥ paramā́ asyá vā gha  
-aháṃ tát paścā́ katitháś cid āsa  
+त꣡द्बन्धुः सूरि꣡र् दिवि꣡ ते धियंधा꣡  
+ना꣡भाने꣡दिष्ठो रपति प्र꣡ वे꣡नन्  
+सा꣡ नो ना꣡भिः परमा꣡ अस्य꣡ वा घ  
+अहं꣡ त꣡त् पश्चा꣡ कतिथ꣡श् चिद् आस  

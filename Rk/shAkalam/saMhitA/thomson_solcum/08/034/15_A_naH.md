@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-ā́ naḥ sahasraśó bhara  
-ayútāni śatā́ni ca  
-divó amúṣya śā́sato  
-dívaṃ yayá divāvaso  
+आ꣡ नः सहस्रशो꣡ भर  
+अयु꣡तानि शता꣡नि च  
+दिवो꣡ अमु꣡ष्य शा꣡सतो  
+दि꣡वं यय꣡ दिवावसो  

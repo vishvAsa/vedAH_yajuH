@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-br̥hád índrāya gāyata  
-máruto vr̥trahántamam  
-yéna jyótir ájanayann r̥tāvŕ̥dho  
-deváṃ devā́ya jā́gr̥vi  
+बृह꣡द् इ꣡न्द्राय गायत  
+म꣡रुतो वृत्रह꣡न्तमम्  
+ये꣡न ज्यो꣡तिर् अ꣡जनयन्न् ऋताव्ŕ̥धो  
+देवं꣡ देवा꣡य जा꣡गृवि  

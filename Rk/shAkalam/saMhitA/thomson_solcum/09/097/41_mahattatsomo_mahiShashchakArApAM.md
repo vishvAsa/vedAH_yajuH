@@ -2,7 +2,7 @@
 title = "041"
 
 +++
-mahát tát sómo mahiṣáś cakāra  
-apā́ṃ yád gárbho ávr̥ṇīta devā́n  
-ádadhād índre pávamāna ójo  
-ájanayat sū́riye jyótir índuḥ  
+मह꣡त् त꣡त् सो꣡मो महिष꣡श् चकार  
+अपां꣡ य꣡द् ग꣡र्भो अ꣡वृणीत देवा꣡न्  
+अ꣡दधाद् इ꣡न्द्रे प꣡वमान ओ꣡जो  
+अ꣡जनयत् सू꣡रिये ज्यो꣡तिर् इ꣡न्दुः  

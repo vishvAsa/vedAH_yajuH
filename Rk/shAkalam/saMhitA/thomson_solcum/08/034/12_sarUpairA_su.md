@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-sárūpair ā́ sú no gahi  
-sámbhr̥taiḥ sámbhr̥tāśuvaḥ  
-divó amúṣya śā́sato  
-dívaṃ yayá divāvaso  
+स꣡रूपैर् आ꣡ सु꣡ नो गहि  
+स꣡म्भृतैः स꣡म्भृताशुवः  
+दिवो꣡ अमु꣡ष्य शा꣡सतो  
+दि꣡वं यय꣡ दिवावसो  

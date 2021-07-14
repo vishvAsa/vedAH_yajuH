@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tád asya priyám abhí pā́tho aśyāṃ  
-náro yátra devayávo mádanti  
-urukramásya sá hí bándhur itthā́  
-víṣṇoḥ padé paramé mádhva útsaḥ  
+त꣡द् अस्य प्रिय꣡म् अभि꣡ पा꣡थो अश्यां  
+न꣡रो य꣡त्र देवय꣡वो म꣡दन्ति  
+उरुक्रम꣡स्य स꣡ हि꣡ ब꣡न्धुर् इत्था꣡  
+वि꣡ष्णोः पदे꣡ परमे꣡ म꣡ध्व उ꣡त्सः  

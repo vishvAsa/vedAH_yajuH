@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ śvaitreyásya jantávo  
-dyumád vardhanta kr̥ṣṭáyaḥ  
-niṣkágrīvo br̥háduktha  
-enā́ mádhvā ná vājayúḥ  
+आ꣡ श्वैत्रेय꣡स्य जन्त꣡वो  
+द्युम꣡द् वर्धन्त कृष्ट꣡यः  
+निष्क꣡ग्रीवो बृह꣡दुक्थ  
+एना꣡ म꣡ध्वा न꣡ वाजयुः꣡  

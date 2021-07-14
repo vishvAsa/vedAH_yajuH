@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-vācó jantúḥ kavīnã́m  
-pávasva soma dhā́rayā  
-devéṣu ratnadhā́ asi  
+वाचो꣡ जन्तुः꣡ कवीन्ã꣡म्  
+प꣡वस्व सोम धा꣡रया  
+देवे꣡षु रत्नधा꣡ असि  

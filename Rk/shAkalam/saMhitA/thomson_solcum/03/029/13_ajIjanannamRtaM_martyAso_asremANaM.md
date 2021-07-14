@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ájījanann amŕ̥tam mártiyāso  
-asremā́ṇaṃ taráṇiṃ vīḷújambham  
-dáśa svásāro agrúvaḥ samīcī́ḥ  
-púmāṃsaṃ jātám abhí sáṃ rabhante  
+अ꣡जीजनन्न् अम्ŕ̥तम् म꣡र्तियासो  
+अस्रेमा꣡णं तर꣡णिं वीऌउ꣡जम्भम्  
+द꣡श स्व꣡सारो अग्रु꣡वः समीचीः꣡  
+पु꣡मांसं जात꣡म् अभि꣡ सं꣡ रभन्ते  

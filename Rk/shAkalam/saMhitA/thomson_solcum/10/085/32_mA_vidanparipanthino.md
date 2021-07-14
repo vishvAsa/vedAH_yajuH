@@ -2,7 +2,7 @@
 title = "032"
 
 +++
-mā́ vidan paripanthíno  
-yá āsī́danti dámpatī  
-sugébhir durgám átītām  
-ápa drāntu árātayaḥ  
+मा꣡ विदन् परिपन्थि꣡नो  
+य꣡ आसी꣡दन्ति द꣡म्पती  
+सुगे꣡भिर् दुर्ग꣡म् अ꣡तीताम्  
+अ꣡प द्रान्तु अ꣡रातयः  

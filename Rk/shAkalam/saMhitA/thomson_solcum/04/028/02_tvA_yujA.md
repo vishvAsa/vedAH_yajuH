@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuvā́ yujā́ ní khidat sū́riyasya  
-índraś cakráṃ sáhasā sadyá indo  
-ádhi ṣṇúnā br̥hatā́ vártamānam  
-mahó druhó ápa viśvā́yu dhāyi  
+तुवा꣡ युजा꣡ नि꣡ खिदत् सू꣡रियस्य  
+इ꣡न्द्रश् चक्रं꣡ स꣡हसा सद्य꣡ इन्दो  
+अ꣡धि ष्णु꣡ना बृहता꣡ व꣡र्तमानम्  
+महो꣡ द्रुहो꣡ अ꣡प विश्वा꣡यु धायि  

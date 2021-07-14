@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sá vidvā́m̐ · apagoháṃ kanī́nām  
-āvír bhávann úd atiṣṭhat parāvŕ̥k  
-práti śroṇá sthād ví anág acaṣṭa  
-sómasya tā́ máda índraś cakāra  
+स꣡ विद्वाँ꣡ · अपगोहं꣡ कनी꣡नाम्  
+आवि꣡र् भ꣡वन्न् उ꣡द् अतिष्ठत् पराव्ŕ̥क्  
+प्र꣡ति श्रोण꣡ स्थाद् वि꣡ अन꣡ग् अचष्ट  
+सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार  

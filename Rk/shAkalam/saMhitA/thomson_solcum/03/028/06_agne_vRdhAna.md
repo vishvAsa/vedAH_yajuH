@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ágne vr̥dhāná ā́hutim  
-puroḷā́śaṃ jātavedaḥ  
-juṣásva tiróahniyam  
+अ꣡ग्ने वृधान꣡ आ꣡हुतिम्  
+पुरोऌआ꣡शं जातवेदः  
+जुष꣡स्व तिरो꣡अह्नियम्  

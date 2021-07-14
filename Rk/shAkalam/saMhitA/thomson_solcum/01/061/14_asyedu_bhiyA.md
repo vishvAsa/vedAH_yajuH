@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-asyéd u bhiyā́ giráyaś ca dr̥̄ḷhā́+  
-dyā́vā ca bhū́mā janúṣas tujete  
-úpo venásya jóguvāna oṇíṃ  
-sadyó bhuvad · vīríyāya nodhā́ḥ  
+अस्ये꣡द् उ भिया꣡ गिर꣡यश् च दॄऌहा꣡+  
+द्या꣡वा च भू꣡मा जनु꣡षस् तुजेते  
+उ꣡पो वेन꣡स्य जो꣡गुवान ओणिं꣡  
+सद्यो꣡ भुवद् · वीरि꣡याय नोधाः꣡  

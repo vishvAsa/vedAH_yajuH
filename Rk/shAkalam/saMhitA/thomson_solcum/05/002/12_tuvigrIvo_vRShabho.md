@@ -2,8 +2,8 @@
 title = "012"
 
 +++
-tuvigrī́vo vr̥ṣabhó vāvr̥dhānó  
-aśatrú aryáḥ sám ajāti védaḥ  
-ítīmám agním amŕ̥tā avocan  
-barhíṣmate mánave śárma yaṃsad  
-dhavíṣmate mánave śárma yaṃsat  
+तुविग्री꣡वो वृषभो꣡ वावृधानो꣡  
+अशत्रु꣡ अर्यः꣡ स꣡म् अजाति वे꣡दः  
+इ꣡तीम꣡म् अग्नि꣡म् अम्ŕ̥ता अवोचन्  
+बर्हि꣡ष्मते म꣡नवे श꣡र्म यंसद्  
+धवि꣡ष्मते म꣡नवे श꣡र्म यंसत्  

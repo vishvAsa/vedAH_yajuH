@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-ā́d ít pratnásya rétaso  
-jyótiṣ paśyanti vāsarám  
-paró yád idhyáte divā́  
+आ꣡द् इ꣡त् प्रत्न꣡स्य रे꣡तसो  
+ज्यो꣡तिष् पश्यन्ति वासर꣡म्  
+परो꣡ य꣡द् इध्य꣡ते दिवा꣡  

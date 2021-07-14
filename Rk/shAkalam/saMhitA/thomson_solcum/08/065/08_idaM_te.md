@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-idáṃ te somiyám mádhu  
-ádhukṣann ádribhir náraḥ  
-juṣāṇá indra tát piba  
+इदं꣡ ते सोमिय꣡म् म꣡धु  
+अ꣡धुक्षन्न् अ꣡द्रिभिर् न꣡रः  
+जुषाण꣡ इन्द्र त꣡त् पिब  

@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-índrotíbhir bahulā́bhir no adyá  
-yācchreṣṭhā́bhir maghavañ chūra jinva  
-yó no dvéṣṭi ádharaḥ sás padīṣṭa  
-yám u dviṣmás tám u prāṇó jahātu  
+इ꣡न्द्रोति꣡भिर् बहुला꣡भिर् नो अद्य꣡  
+याच्छ्रेष्ठा꣡भिर् मघवञ् छूर जिन्व  
+यो꣡ नो द्वे꣡ष्टि अ꣡धरः स꣡स् पदीष्ट  
+य꣡म् उ द्विष्म꣡स् त꣡म् उ प्राणो꣡ जहातु  

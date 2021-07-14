@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-iyáṃ vām brahmaṇas pate suvr̥ktír  
-bráhma índrāya vajríṇe akāri  
-aviṣṭáṃ dhíyo jigr̥tám púraṃdhīr  
-jajastám aryó vanúṣām árātīḥ  
+इयं꣡ वाम् ब्रह्मणस् पते सुवृक्ति꣡र्  
+ब्र꣡ह्म इ꣡न्द्राय वज्रि꣡णे अकारि  
+अविष्टं꣡ धि꣡यो जिगृत꣡म् पु꣡रंधीर्  
+जजस्त꣡म् अर्यो꣡ वनु꣡षाम् अ꣡रातीः  

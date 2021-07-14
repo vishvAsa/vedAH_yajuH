@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-imā́m ū ṣú āsurásya śrutásya  
-mahī́m māyā́ṃ váruṇasya prá vocam  
-mā́neneva tasthivā́m̐ antárikṣe  
-ví yó mamé pr̥thivī́ṃ sū́riyeṇa  
+इमा꣡म् ऊ षु꣡ आसुर꣡स्य श्रुत꣡स्य  
+मही꣡म् मायां꣡ व꣡रुणस्य प्र꣡ वोचम्  
+मा꣡नेनेव तस्थिवाँ꣡ अन्त꣡रिक्षे  
+वि꣡ यो꣡ ममे꣡ पृथिवीं꣡ सू꣡रियेण  

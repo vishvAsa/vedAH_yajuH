@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-góman naḥ soma vīrávad  
-áśvāvad vā́javat sutáḥ  
-pávasva br̥hatī́r íṣaḥ  
+गो꣡मन् नः सोम वीर꣡वद्  
+अ꣡श्वावद् वा꣡जवत् सुतः꣡  
+प꣡वस्व बृहती꣡र् इ꣡षः  

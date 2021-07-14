@@ -2,7 +2,7 @@
 title = "047"
 
 +++
-kr̥ṣṇáṃ niyā́naṃ hárayaḥ suparṇā́  
-apó vásānā dívam út patanti  
-tá ā́vavr̥tran sádanād r̥tásya  
-ā́d íd ghr̥téna pr̥thivī́ ví udyate  
+कृष्णं꣡ निया꣡नं ह꣡रयः सुपर्णा꣡  
+अपो꣡ व꣡साना दि꣡वम् उ꣡त् पतन्ति  
+त꣡ आ꣡ववृत्रन् स꣡दनाद् ऋत꣡स्य  
+आ꣡द् इ꣡द् घृते꣡न पृथिवी꣡ वि꣡ उद्यते  

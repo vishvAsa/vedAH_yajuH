@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-babhráve nú svátavase  
-aruṇā́ya divispŕ̥śe  
-sómāya gāthám arcata  
+बभ्र꣡वे नु꣡ स्व꣡तवसे  
+अरुणा꣡य दिविस्प्ŕ̥शे  
+सो꣡माय गाथ꣡म् अर्चत  

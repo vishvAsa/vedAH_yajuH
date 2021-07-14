@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ékaṃ nú tvā sátpatim pā́ñcajanyaṃ  
-jātáṃ śr̥ṇomi yaśásaṃ jáneṣu  
-tám me jagr̥bhra āśáso náviṣṭhaṃ  
-doṣā́ vástor hávamānāsa índram  
+ए꣡कं नु꣡ त्वा स꣡त्पतिम् पा꣡ञ्चजन्यं  
+जातं꣡ शृणोमि यश꣡सं ज꣡नेषु  
+त꣡म् मे जगृभ्र आश꣡सो न꣡विष्ठं  
+दोषा꣡ व꣡स्तोर् ह꣡वमानास इ꣡न्द्रम्  

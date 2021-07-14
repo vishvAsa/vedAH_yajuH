@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-sá tū́ pavasva pári pā́rthivaṃ rájo  
-divyā́ ca soma dhármabhiḥ  
-tuvā́ṃ víprāso matíbhir vicakṣaṇa  
-śubhráṃ hinvanti dhītíbhiḥ  
+स꣡ तू꣡ पवस्व प꣡रि पा꣡र्थिवं र꣡जो  
+दिव्या꣡ च सोम ध꣡र्मभिः  
+तुवां꣡ वि꣡प्रासो मति꣡भिर् विचक्षण  
+शुभ्रं꣡ हिन्वन्ति धीति꣡भिः  

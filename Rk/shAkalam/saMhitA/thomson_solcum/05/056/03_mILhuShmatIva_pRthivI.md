@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-mīḷhúṣmatīva pr̥thivī́ párāhatā  
-mádanti eti asmád ā́  
-ŕ̥kṣo ná vo marutaḥ śímīvām̐ ámo  
-dudhró gaúr iva bhīmayúḥ  
+मीऌहु꣡ष्मतीव पृथिवी꣡ प꣡राहता  
+म꣡दन्ति एति अस्म꣡द् आ꣡  
+ŕ̥क्षो न꣡ वो मरुतः शि꣡मीवाँ अ꣡मो  
+दुध्रो꣡ गउ꣡र् इव भीमयुः꣡  

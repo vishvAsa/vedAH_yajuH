@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-tám ahyan bhuríjor dhiyā́  
-saṃvásānaṃ vivásvataḥ  
-pátiṃ vācó ádābhiyam  
+त꣡म् अह्यन् भुरि꣡जोर् धिया꣡  
+संव꣡सानं विव꣡स्वतः  
+प꣡तिं वाचो꣡ अ꣡दाभियम्  

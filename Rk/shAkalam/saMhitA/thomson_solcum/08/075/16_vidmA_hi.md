@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-vidmā́ hí te purā́ vayám  
-ágne pitúr yáthā́vasaḥ  
-ádhā te sumnám īmahe  
+विद्मा꣡ हि꣡ ते पुरा꣡ वय꣡म्  
+अ꣡ग्ने पितु꣡र् य꣡था꣡वसः  
+अ꣡धा ते सुम्न꣡म् ईमहे  

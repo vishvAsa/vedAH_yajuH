@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-mádhumān no vánaspátir  
-mádhumām̐ astu sū́riyaḥ  
-mā́dhvīr gā́vo bhavantu naḥ  
+म꣡धुमान् नो व꣡नस्प꣡तिर्  
+म꣡धुमाँ अस्तु सू꣡रियः  
+मा꣡ध्वीर् गा꣡वो भवन्तु नः  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-bhinád valám áṅgirobhir gr̥ṇānó  
-ví párvatasya dr̥ṃhitā́ni airat  
-riṇág ródhāṃsi kr̥trímāṇi eṣāṃ  
-sómasya tā́ máda índraś cakāra  
+भिन꣡द् वल꣡म् अ꣡ङ्गिरोभिर् गृणानो꣡  
+वि꣡ प꣡र्वतस्य दृंहिता꣡नि ऐरत्  
+रिण꣡ग् रो꣡धांसि कृत्रि꣡माणि एषां  
+सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार  

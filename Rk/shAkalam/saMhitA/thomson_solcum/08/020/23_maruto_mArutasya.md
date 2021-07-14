@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-máruto mā́rutasya na  
-ā́ bheṣajásya vahatā sudānavaḥ  
-yūyáṃ sakhāyaḥ saptayaḥ  
+म꣡रुतो मा꣡रुतस्य न  
+आ꣡ भेषज꣡स्य वहता सुदानवः  
+यूयं꣡ सखायः सप्तयः  

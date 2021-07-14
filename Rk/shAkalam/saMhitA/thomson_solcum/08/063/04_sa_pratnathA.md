@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá pratnáthā kavivr̥dhá  
-índro vākásya vakṣáṇiḥ  
-śivó arkásya hómani  
-asmatrā́ gantu ávase  
+स꣡ प्रत्न꣡था कविवृध꣡  
+इ꣡न्द्रो वाक꣡स्य वक्ष꣡णिः  
+शिवो꣡ अर्क꣡स्य हो꣡मनि  
+अस्मत्रा꣡ गन्तु अ꣡वसे  

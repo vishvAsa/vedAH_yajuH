@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yác cid dhí te puruṣatrā́ yaviṣṭha  
-ácittibhiś cakr̥mā́ kác cid ā́gaḥ  
-kr̥dhī́ ṣú asmā́m̐ áditer ánāgān  
-ví énāṃsi śiśratho víṣvag agne  
+य꣡च् चिद् धि꣡ ते पुरुषत्रा꣡ यविष्ठ  
+अ꣡चित्तिभिश् चकृमा꣡ क꣡च् चिद् आ꣡गः  
+कृधी꣡ षु꣡ अस्माँ꣡ अ꣡दितेर् अ꣡नागान्  
+वि꣡ ए꣡नांसि शिश्रथो वि꣡ष्वग् अग्ने  

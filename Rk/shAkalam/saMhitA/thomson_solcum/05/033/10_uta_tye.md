@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-utá tiyé mā dhvaníyasya júṣṭā  
-lakṣmaṇíyasya surúco yátānāḥ  
-mahnā́ rāyáḥ saṃváraṇasya ŕ̥ṣer  
-vrajáṃ ná gā́vaḥ práyatā ápi gman  
+उत꣡ तिये꣡ मा ध्वनि꣡यस्य जु꣡ष्टा  
+लक्ष्मणि꣡यस्य सुरु꣡चो य꣡तानाः  
+मह्ना꣡ रायः꣡ संव꣡रणस्य ŕ̥षेर्  
+व्रजं꣡ न꣡ गा꣡वः प्र꣡यता अ꣡पि ग्मन्  

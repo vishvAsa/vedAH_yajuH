@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-duvé íd asya krámaṇe suvardŕ̥śo  
-abhikhyā́ya · mártiyo bhuraṇyati  
-tr̥tī́yam asya nákir ā́ dadharṣati  
-váyaś caná patáyantaḥ patatríṇaḥ  
+दुवे꣡ इ꣡द् अस्य क्र꣡मणे सुवर्द्ŕ̥शो  
+अभिख्या꣡य · म꣡र्तियो भुरण्यति  
+तृती꣡यम् अस्य न꣡किर् आ꣡ दधर्षति  
+व꣡यश् चन꣡ पत꣡यन्तः पतत्रि꣡णः  

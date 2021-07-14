@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-ágne pávasva suápā  
-asmé várcaḥ suvī́riyam  
-dádhad rayím máyi póṣam  
+अ꣡ग्ने प꣡वस्व सुअ꣡पा  
+अस्मे꣡ व꣡र्चः सुवी꣡रियम्  
+द꣡धद् रयि꣡म् म꣡यि पो꣡षम्  

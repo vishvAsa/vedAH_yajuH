@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sá prathamé víomani  
-devā́nāṃ sádane vr̥dháḥ  
-supāráḥ suśrávastamaḥ sám apsujít  
+स꣡ प्रथमे꣡ वि꣡ओमनि  
+देवा꣡नां स꣡दने वृधः꣡  
+सुपारः꣡ सुश्र꣡वस्तमः स꣡म् अप्सुजि꣡त्  

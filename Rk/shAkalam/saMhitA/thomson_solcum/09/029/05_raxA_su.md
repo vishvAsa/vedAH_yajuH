@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-rákṣā sú no áraruṣaḥ  
-svanā́t samasya kásya cit  
-nidó yátra mumucmáhe  
+र꣡क्षा सु꣡ नो अ꣡ररुषः  
+स्वना꣡त् समस्य क꣡स्य चित्  
+निदो꣡ य꣡त्र मुमुच्म꣡हे  

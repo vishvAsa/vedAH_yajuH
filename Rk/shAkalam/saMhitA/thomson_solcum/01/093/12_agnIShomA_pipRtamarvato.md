@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ágnīṣomā pipr̥tám árvato na  
-ā́ pyāyantām usríyā havyasū́daḥ  
-asmé bálāni maghávatsu dhattaṃ  
-kr̥ṇutáṃ no adhvaráṃ śruṣṭimántam  
+अ꣡ग्नीषोमा पिपृत꣡म् अ꣡र्वतो न  
+आ꣡ प्यायन्ताम् उस्रि꣡या हव्यसू꣡दः  
+अस्मे꣡ ब꣡लानि मघ꣡वत्सु धत्तं  
+कृणुतं꣡ नो अध्वरं꣡ श्रुष्टिम꣡न्तम्  

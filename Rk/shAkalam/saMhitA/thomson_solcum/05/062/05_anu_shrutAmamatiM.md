@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ánu śrutā́m amátiṃ várdhad urvī́m  
-barhír iva yájuṣā rákṣamāṇā  
-námasvantā dhr̥tadakṣā́dhi gárte  
-mítrā́sāthe varuṇéḷāsu antáḥ  
+अ꣡नु श्रुता꣡म् अम꣡तिं व꣡र्धद् उर्वी꣡म्  
+बर्हि꣡र् इव य꣡जुषा र꣡क्षमाणा  
+न꣡मस्वन्ता धृतदक्षा꣡धि ग꣡र्ते  
+मि꣡त्रा꣡साथे वरुणे꣡ऌआसु अन्तः꣡  

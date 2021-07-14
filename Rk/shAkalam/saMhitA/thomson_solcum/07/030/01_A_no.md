@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ no deva śávasā yāhi śuṣmin  
-bhávā vr̥dhá indara+ rāyó asyá  
-mahé nr̥mṇā́ya nr̥pate suvajra  
-máhi kṣatrā́ya paúṃsiyāya śūra  
+आ꣡ नो देव श꣡वसा याहि शुष्मिन्  
+भ꣡वा वृध꣡ इन्दर+ रायो꣡ अस्य꣡  
+महे꣡ नृम्णा꣡य नृपते सुवज्र  
+म꣡हि क्षत्रा꣡य पउं꣡सियाय शूर  

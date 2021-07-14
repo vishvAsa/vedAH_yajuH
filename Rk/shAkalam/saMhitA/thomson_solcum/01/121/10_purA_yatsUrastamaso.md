@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-purā́ yát sū́ras támaso ápītes  
-tám adrivaḥ phaligáṃ hetím asya  
-śúṣṇasya cit párihitaṃ yád ójo  
-divás pári súgrathitaṃ tád ā́daḥ  
+पुरा꣡ य꣡त् सू꣡रस् त꣡मसो अ꣡पीतेस्  
+त꣡म् अद्रिवः फलिगं꣡ हेति꣡म् अस्य  
+शु꣡ष्णस्य चित् प꣡रिहितं य꣡द् ओ꣡जो  
+दिव꣡स् प꣡रि सु꣡ग्रथितं त꣡द् आ꣡दः  

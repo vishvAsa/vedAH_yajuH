@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-pitré cic cakruḥ sádanaṃ sám asmai  
-máhi tvíṣīmat sukŕ̥to ví hí khyán  
-viṣkabhnánta skámbhanenā jánitrī  
-ā́sīnā ūrdhváṃ rabhasáṃ ví minvan  
+पित्रे꣡ चिच् चक्रुः स꣡दनं स꣡म् अस्मै  
+म꣡हि त्वि꣡षीमत् सुक्ŕ̥तो वि꣡ हि꣡ ख्य꣡न्  
+विष्कभ्न꣡न्त स्क꣡म्भनेना ज꣡नित्री  
+आ꣡सीना ऊर्ध्वं꣡ रभसं꣡ वि꣡ मिन्वन्  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-nṹ ṣṭutá indara+ nū́ gr̥ṇāná  
-íṣaṃ jaritré nadíyo ná pīpeḥ  
-ákāri te harivo bráhma návyaṃ  
-dhiyā́ siyāma rathíyaḥ sadāsā́ḥ  
+न्ũ꣡ ष्टुत꣡ इन्दर+ नू꣡ गृणान꣡  
+इ꣡षं जरित्रे꣡ नदि꣡यो न꣡ पीपेः  
+अ꣡कारि ते हरिवो ब्र꣡ह्म न꣡व्यं  
+धिया꣡ सियाम रथि꣡यः सदासाः꣡  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yuvā́ṃ ha ghóṣā pári aśvinā yatī́  
-rā́jña ūce duhitā́ pr̥ché vāṃ narā  
-bhūtám me áhna utá bhūtam aktáve  
-áśvāvate rathíne śaktam árvate  
+युवां꣡ ह घो꣡षा प꣡रि अश्विना यती꣡  
+रा꣡ज्ञ ऊचे दुहिता꣡ पृछे꣡ वां नरा  
+भूत꣡म् मे अ꣡ह्न उत꣡ भूतम् अक्त꣡वे  
+अ꣡श्वावते रथि꣡ने शक्तम् अ꣡र्वते  

@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-váhantu tvā ratheṣṭhã́m  
-ā́ hárayo rathayújaḥ  
-tiráś cid aryáṃ sávanāni vr̥trahann  
-anyéṣāṃ yā́ śatakrato  
+व꣡हन्तु त्वा रथेष्ठ्ã꣡म्  
+आ꣡ ह꣡रयो रथयु꣡जः  
+तिर꣡श् चिद् अर्यं꣡ स꣡वनानि वृत्रहन्न्  
+अन्ये꣡षां या꣡ शतक्रतो  

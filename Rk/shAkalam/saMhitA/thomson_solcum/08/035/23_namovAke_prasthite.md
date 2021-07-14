@@ -2,8 +2,8 @@
 title = "023"
 
 +++
-namovāké prásthite adhvaré narā  
-vivákṣaṇasya pītáye  
-ā́ yātam aśvinā́ gatam  
-avasyúr vām aháṃ huve  
-dhattáṃ rátnāni dāśúṣe  
+नमोवाके꣡ प्र꣡स्थिते अध्वरे꣡ नरा  
+विव꣡क्षणस्य पीत꣡ये  
+आ꣡ यातम् अश्विना꣡ गतम्  
+अवस्यु꣡र् वाम् अहं꣡ हुवे  
+धत्तं꣡ र꣡त्नानि दाशु꣡षे  

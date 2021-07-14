@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-hárī nú asya yā́ váne vidé vásu  
-índro maghaír maghávā vr̥trahā́ bhuvat  
-r̥bhúr vā́ja r̥bhukṣā́ḥ patyate śávo  
-áva kṣṇaumi dã́sasya nā́ma cit  
+ह꣡री नु꣡ अस्य या꣡ व꣡ने विदे꣡ व꣡सु  
+इ꣡न्द्रो मघइ꣡र् मघ꣡वा वृत्रहा꣡ भुवत्  
+ऋभु꣡र् वा꣡ज ऋभुक्षाः꣡ पत्यते श꣡वो  
+अ꣡व क्ष्णौमि द्ã꣡सस्य ना꣡म चित्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ná tā́ naśanti ná dabhāti táskaro  
-nā́sām āmitró vyáthir ā́ dadharṣati  
-devā́ṃś ca yā́bhir yájate dádāti ca  
-jyóg ít tā́bhiḥ sacate gópatiḥ sahá  
+न꣡ ता꣡ नशन्ति न꣡ दभाति त꣡स्करो  
+ना꣡साम् आमित्रो꣡ व्य꣡थिर् आ꣡ दधर्षति  
+देवां꣡श् च या꣡भिर् य꣡जते द꣡दाति च  
+ज्यो꣡ग् इ꣡त् ता꣡भिः सचते गो꣡पतिः सह꣡  

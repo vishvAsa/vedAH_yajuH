@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-tám u tvā dadhiáṅṅ ŕ̥ṣiḥ  
-putrá īdhe átharvaṇaḥ  
-vr̥traháṇam puraṃdarám  
+त꣡म् उ त्वा दधिअ꣡ङ्ङ् ŕ̥षिः  
+पुत्र꣡ ईधे अ꣡थर्वणः  
+वृत्रह꣡णम् पुरंदर꣡म्  

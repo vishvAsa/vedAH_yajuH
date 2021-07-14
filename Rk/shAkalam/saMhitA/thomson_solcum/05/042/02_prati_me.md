@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-práti me stómam áditir jagr̥bhyāt  
-sūnúṃ ná mātā́ hŕ̥diyaṃ suśévam  
-bráhma priyáṃ deváhitaṃ yád ásti  
-ahám mitré váruṇe yán mayobhú  
+प्र꣡ति मे स्तो꣡मम् अ꣡दितिर् जगृभ्यात्  
+सूनुं꣡ न꣡ माता꣡ ह्ŕ̥दियं सुशे꣡वम्  
+ब्र꣡ह्म प्रियं꣡ देव꣡हितं य꣡द् अ꣡स्ति  
+अह꣡म् मित्रे꣡ व꣡रुणे य꣡न् मयोभु꣡  

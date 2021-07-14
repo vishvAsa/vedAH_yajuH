@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yó bhū́yiṣṭhaṃ nā́satyābhyāṃ vivéṣa  
-cániṣṭham pitvó rárate vibhāgé  
-sá tokám asya pīparac chámībhir  
-ánūrdhvabhāsaḥ sádam ít tuturyāt  
+यो꣡ भू꣡यिष्ठं ना꣡सत्याभ्यां विवे꣡ष  
+च꣡निष्ठम् पित्वो꣡ र꣡रते विभागे꣡  
+स꣡ तोक꣡म् अस्य पीपरच् छ꣡मीभिर्  
+अ꣡नूर्ध्वभासः स꣡दम् इ꣡त् तुतुर्यात्  

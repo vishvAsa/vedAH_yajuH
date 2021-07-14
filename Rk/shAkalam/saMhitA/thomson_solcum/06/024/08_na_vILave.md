@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ná vīḷáve námate ná sthirā́ya  
-ná śárdhate dásyujūtāya stavā́n  
-ájrā índrasya giráyaś cid r̥ṣvā́  
-gambhīré cid bhavati gādhám asmai  
+न꣡ वीऌअ꣡वे न꣡मते न꣡ स्थिरा꣡य  
+न꣡ श꣡र्धते द꣡स्युजूताय स्तवा꣡न्  
+अ꣡ज्रा इ꣡न्द्रस्य गिर꣡यश् चिद् ऋष्वा꣡  
+गम्भीरे꣡ चिद् भवति गाध꣡म् अस्मै  

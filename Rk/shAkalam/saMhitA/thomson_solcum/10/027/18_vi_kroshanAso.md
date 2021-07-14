@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-ví krośanā́so víṣuañca āyan  
-pácāti némo nahí pákṣad ardháḥ  
-ayám me deváḥ savitā́ tád āha  
-drúanna íd vanavat sarpírannaḥ  
+वि꣡ क्रोशना꣡सो वि꣡षुअञ्च आयन्  
+प꣡चाति ने꣡मो नहि꣡ प꣡क्षद् अर्धः꣡  
+अय꣡म् मे देवः꣡ सविता꣡ त꣡द् आह  
+द्रु꣡अन्न इ꣡द् वनवत् सर्पि꣡रन्नः  

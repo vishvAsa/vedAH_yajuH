@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-r̥tā́vānaṃ vícetasam  
-páśyanto dyā́m iva stŕ̥bhiḥ  
-víśveṣām adhvarā́ṇãṃ  
-haskartā́raṃ dáme-dame  
+ऋता꣡वानं वि꣡चेतसम्  
+प꣡श्यन्तो द्या꣡म् इव स्त्ŕ̥भिः  
+वि꣡श्वेषाम् अध्वरा꣡ण्ãं  
+हस्कर्ता꣡रं द꣡मे-दमे  

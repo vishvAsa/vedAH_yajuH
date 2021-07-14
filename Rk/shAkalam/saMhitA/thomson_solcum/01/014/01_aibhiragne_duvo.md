@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-aíbhir agne dúvo gíro  
-víśvebhiḥ sómapītaye  
-devébhir yāhi yákṣi ca  
+अइ꣡भिर् अग्ने दु꣡वो गि꣡रो  
+वि꣡श्वेभिः सो꣡मपीतये  
+देवे꣡भिर् याहि य꣡क्षि च  

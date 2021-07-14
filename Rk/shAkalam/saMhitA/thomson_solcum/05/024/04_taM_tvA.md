@@ -2,5 +2,5 @@
 title = "004"
 
 +++
-táṃ tvā śociṣṭha dīdivaḥ  
-sumnā́ya nūnám īmahe sákhibhyaḥ  
+तं꣡ त्वा शोचिष्ठ दीदिवः  
+सुम्ना꣡य नून꣡म् ईमहे स꣡खिभ्यः  

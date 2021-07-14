@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-abhibhū́r ahám ā́gamaṃ  
-viśvákarmeṇa dhā́manā  
-ā́ vaś cittám ā́ vo vratám  
-ā́ vo 'háṃ sámitiṃ dade  
+अभिभू꣡र् अह꣡म् आ꣡गमं  
+विश्व꣡कर्मेण धा꣡मना  
+आ꣡ वश् चित्त꣡म् आ꣡ वो व्रत꣡म्  
+आ꣡ वो ऽहं꣡ स꣡मितिं ददे  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yá ādhrā́ya cakamānā́ya pitvó  
-ánnavān sán raphitā́yopajagmúṣe  
-sthirám mánaḥ kr̥ṇuté sévate purā́  
-utó cit sá marḍitā́raṃ ná vindate  
+य꣡ आध्रा꣡य चकमाना꣡य पित्वो꣡  
+अ꣡न्नवान् स꣡न् रफिता꣡योपजग्मु꣡षे  
+स्थिर꣡म् म꣡नः कृणुते꣡ से꣡वते पुरा꣡  
+उतो꣡ चित् स꣡ मर्डिता꣡रं न꣡ विन्दते  

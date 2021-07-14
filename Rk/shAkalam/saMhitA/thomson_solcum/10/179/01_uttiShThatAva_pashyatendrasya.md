@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-út tiṣṭhatā́va paśyata  
-índrasya bhāgám r̥tvíyam  
-yádi śrātó juhótana  
-yády áśrāto mamattána  
+उ꣡त् तिष्ठता꣡व पश्यत  
+इ꣡न्द्रस्य भाग꣡म् ऋत्वि꣡यम्  
+य꣡दि श्रातो꣡ जुहो꣡तन  
+य꣡द्य् अ꣡श्रातो ममत्त꣡न  

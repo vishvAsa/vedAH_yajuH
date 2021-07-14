@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yé cākánanta cākánanta nū́ té  
-mártā amr̥ta mó té áṃha ā́ran  
-vāvandhí yájyūm̐r utá téṣu dhehi  
-ójo jáneṣu yéṣu te siyā́ma  
+ये꣡ चाक꣡नन्त चाक꣡नन्त नू꣡ ते꣡  
+म꣡र्ता अमृत मो꣡ ते꣡ अं꣡ह आ꣡रन्  
+वावन्धि꣡ य꣡ज्यूँर् उत꣡ ते꣡षु धेहि  
+ओ꣡जो ज꣡नेषु ये꣡षु ते सिया꣡म  

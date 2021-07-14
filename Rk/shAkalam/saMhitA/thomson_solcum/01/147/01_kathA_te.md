@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kathā́ te agne śucáyanta āyór  
-dadāśúr · vā́jebhir āśuṣāṇā́ḥ  
-ubhé yát toké tánaye dádhānā  
-r̥tásya sā́man raṇáyanta devā́ḥ  
+कथा꣡ ते अग्ने शुच꣡यन्त आयो꣡र्  
+ददाशु꣡र् · वा꣡जेभिर् आशुषाणाः꣡  
+उभे꣡ य꣡त् तोके꣡ त꣡नये द꣡धाना  
+ऋत꣡स्य सा꣡मन् रण꣡यन्त देवाः꣡  

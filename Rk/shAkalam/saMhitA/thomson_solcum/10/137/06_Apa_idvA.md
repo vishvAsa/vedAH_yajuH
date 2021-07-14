@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́pa íd vā́ u bheṣajī́r  
-ā́po amīvacā́tanīḥ  
-ā́paḥ sárvasya bheṣajī́s  
-tā́s te kr̥ṇvantu bheṣajám  
+आ꣡प इ꣡द् वा꣡ उ भेषजी꣡र्  
+आ꣡पो अमीवचा꣡तनीः  
+आ꣡पः स꣡र्वस्य भेषजी꣡स्  
+ता꣡स् ते कृण्वन्तु भेषज꣡म्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-śáṃ no deváḥ savitā́ trā́yamāṇaḥ  
-śáṃ no bhavantu uṣáso vibhātī́ḥ  
-śáṃ naḥ parjányo bhavatu prajā́bhyaḥ  
-śáṃ naḥ kṣétrasya pátir astu śambhúḥ  
+शं꣡ नो देवः꣡ सविता꣡ त्रा꣡यमाणः  
+शं꣡ नो भवन्तु उष꣡सो विभातीः꣡  
+शं꣡ नः पर्ज꣡न्यो भवतु प्रजा꣡भ्यः  
+शं꣡ नः क्षे꣡त्रस्य प꣡तिर् अस्तु शम्भुः꣡  

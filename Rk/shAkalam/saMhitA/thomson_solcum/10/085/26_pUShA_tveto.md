@@ -2,7 +2,7 @@
 title = "026"
 
 +++
-pūṣā́ tvetó nayatu hastagŕ̥hya  
-aśvínā tvā prá vahatāṃ ráthena  
-gr̥hā́n gacha gr̥hápatnī yáthā́so  
-vaśínī tváṃ vidátham ā́ vadāsi  
+पूषा꣡ त्वेतो꣡ नयतु हस्तग्ŕ̥ह्य  
+अश्वि꣡ना त्वा प्र꣡ वहतां र꣡थेन  
+गृहा꣡न् गछ गृह꣡पत्नी य꣡था꣡सो  
+वशि꣡नी त्वं꣡ विद꣡थम् आ꣡ वदासि  

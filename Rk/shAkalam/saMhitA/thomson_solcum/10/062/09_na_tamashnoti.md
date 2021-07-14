@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ná tám aśnoti káś caná  
-divá 'va° sā́nu ārábham  
-sāvarṇiyásya dákṣiṇā  
-ví síndhur iva paprathe  
+न꣡ त꣡म् अश्नोति क꣡श् चन꣡  
+दिव꣡ ऽव° सा꣡नु आर꣡भम्  
+सावर्णिय꣡स्य द꣡क्षिणा  
+वि꣡ सि꣡न्धुर् इव पप्रथे  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-máma bráhma indara+ yāhi áchā  
-víśvā hárī dhurí dhiṣvā ráthasya  
-purutrā́ hí viháviyo babhū́tha  
-asmíñ chūra sávane mādayasva  
+म꣡म ब्र꣡ह्म इन्दर+ याहि अ꣡छा  
+वि꣡श्वा ह꣡री धुरि꣡ धिष्वा र꣡थस्य  
+पुरुत्रा꣡ हि꣡ विह꣡वियो बभू꣡थ  
+अस्मि꣡ञ् छूर स꣡वने मादयस्व  

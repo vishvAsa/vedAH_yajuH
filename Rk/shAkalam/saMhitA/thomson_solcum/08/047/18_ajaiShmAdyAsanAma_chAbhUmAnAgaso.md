@@ -2,9 +2,9 @@
 title = "018"
 
 +++
-ájaiṣmādyā́sanāma ca  
-ábhūmā́nāgaso vayám  
-úṣo yásmād duṣvápniyād  
-ábhaiṣmā́pa tád uchatu  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+अ꣡जैष्माद्या꣡सनाम च  
+अ꣡भूमा꣡नागसो वय꣡म्  
+उ꣡षो य꣡स्माद् दुष्व꣡प्नियाद्  
+अ꣡भैष्मा꣡प त꣡द् उछतु  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

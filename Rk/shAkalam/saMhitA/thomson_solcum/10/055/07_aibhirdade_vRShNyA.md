@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-aíbhir dade vŕ̥ṣṇiyā paúṃsiyāni  
-yébhir aúkṣad vr̥trahátyāya vajrī́  
-yé kármaṇaḥ kriyámāṇasya mahná  
-r̥tekarmám udájāyanta devā́ḥ  
+अइ꣡भिर् ददे व्ŕ̥ष्णिया पउं꣡सियानि  
+ये꣡भिर् अउ꣡क्षद् वृत्रह꣡त्याय वज्री꣡  
+ये꣡ क꣡र्मणः क्रिय꣡माणस्य मह्न꣡  
+ऋतेकर्म꣡म् उद꣡जायन्त देवाः꣡  

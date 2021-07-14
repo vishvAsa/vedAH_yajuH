@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-tám īṃ hinvanti agrúvo  
-dhámanti bākuráṃ dŕ̥tim  
-tridhā́tu vāraṇám mádhu  
+त꣡म् ईं हिन्वन्ति अग्रु꣡वो  
+ध꣡मन्ति बाकुरं꣡ द्ŕ̥तिम्  
+त्रिधा꣡तु वारण꣡म् म꣡धु  

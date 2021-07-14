@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-tát sú naḥ savitā́ bhágo  
-váruṇo mitró aryamā́  
-índro no rā́dhasā́ gamat  
+त꣡त् सु꣡ नः सविता꣡ भ꣡गो  
+व꣡रुणो मित्रो꣡ अर्यमा꣡  
+इ꣡न्द्रो नो रा꣡धसा꣡ गमत्  

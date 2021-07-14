@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yáthā vidvā́m̐ áraṃ kárad  
-víśvebhyo yajatébhiyaḥ  
-ayám agne tuvé ápi  
-yáṃ yajñáṃ cakr̥mā́ vayám  
+य꣡था विद्वाँ꣡ अ꣡रं क꣡रद्  
+वि꣡श्वेभ्यो यजते꣡भियः  
+अय꣡म् अग्ने तुवे꣡ अ꣡पि  
+यं꣡ यज्ञं꣡ चकृमा꣡ वय꣡म्  

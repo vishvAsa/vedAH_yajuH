@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-kásya svit sávanaṃ vŕ̥ṣā  
-jujuṣvā́m̐ áva gachati  
-índraṃ ká u svid ā́ cake  
+क꣡स्य स्वित् स꣡वनं व्ŕ̥षा  
+जुजुष्वाँ꣡ अ꣡व गछति  
+इ꣡न्द्रं क꣡ उ स्विद् आ꣡ चके  

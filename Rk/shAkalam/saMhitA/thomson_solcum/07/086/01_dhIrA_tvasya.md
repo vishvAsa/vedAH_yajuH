@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-dhī́rā tú asya mahinā́ janū́ṃṣi  
-ví yás tastámbha ródasī cid urvī́  
-prá nā́kam r̥ṣváṃ nunude br̥hántaṃ  
-dvitā́ nákṣatram papráthac ca bhū́ma  
+धी꣡रा तु꣡ अस्य महिना꣡ जनूं꣡षि  
+वि꣡ य꣡स् तस्त꣡म्भ रो꣡दसी चिद् उर्वी꣡  
+प्र꣡ ना꣡कम् ऋष्वं꣡ नुनुदे बृह꣡न्तं  
+द्विता꣡ न꣡क्षत्रम् पप्र꣡थच् च भू꣡म  

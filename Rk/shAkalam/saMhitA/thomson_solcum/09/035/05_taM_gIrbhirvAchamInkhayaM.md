@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-táṃ gīrbhír vācamīṅkhayám  
-punānáṃ vāsayāmasi  
-sómaṃ jánasya gópatim  
+तं꣡ गीर्भि꣡र् वाचमीङ्खय꣡म्  
+पुनानं꣡ वासयामसि  
+सो꣡मं ज꣡नस्य गो꣡पतिम्  

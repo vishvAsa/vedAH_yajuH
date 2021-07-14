@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-svanā́ ná yásya bhā́māsaḥ pávante  
-rócamānasya br̥hatáḥ sudívaḥ  
-jyéṣṭhebhir yás téjiṣṭhaiḥ krīḷumádbhir  
-várṣiṣṭhebhir bhānúbhir nákṣati dyā́m  
+स्वना꣡ न꣡ य꣡स्य भा꣡मासः प꣡वन्ते  
+रो꣡चमानस्य बृहतः꣡ सुदि꣡वः  
+ज्ये꣡ष्ठेभिर् य꣡स् ते꣡जिष्ठैः क्रीऌउम꣡द्भिर्  
+व꣡र्षिष्ठेभिर् भानु꣡भिर् न꣡क्षति द्या꣡म्  

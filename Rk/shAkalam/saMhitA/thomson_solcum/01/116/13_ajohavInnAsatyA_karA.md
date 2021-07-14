@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ájohavīn nāsatiyā karā́ vām  
-mahé yā́man purubhujā púraṃdhiḥ  
-śrutáṃ tác chā́sur iva vadhrimatyā́  
-híraṇyahastam aśvināv adattam  
+अ꣡जोहवीन् नासतिया करा꣡ वाम्  
+महे꣡ या꣡मन् पुरुभुजा पु꣡रंधिः  
+श्रुतं꣡ त꣡च् छा꣡सुर् इव वध्रिमत्या꣡  
+हि꣡रण्यहस्तम् अश्विनाव् अदत्तम्  

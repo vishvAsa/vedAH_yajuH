@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-daśasyántā mánave pūrviyáṃ diví  
-yávaṃ vŕ̥keṇa karṣathaḥ  
-tā́ vām adyá sumatíbhiḥ śubhas patī  
-áśvinā prá stuvīmahi  
+दशस्य꣡न्ता म꣡नवे पूर्वियं꣡ दिवि꣡  
+य꣡वं व्ŕ̥केण कर्षथः  
+ता꣡ वाम् अद्य꣡ सुमति꣡भिः शुभस् पती  
+अ꣡श्विना प्र꣡ स्तुवीमहि  

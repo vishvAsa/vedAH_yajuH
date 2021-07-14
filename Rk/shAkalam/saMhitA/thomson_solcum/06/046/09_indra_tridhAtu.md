@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-índra tridhā́tu śaraṇáṃ  
-trivárūthaṃ suastimát  
-chardír yacha maghávadbhyaś ca máhya° ca  
-yāváyā didyúm ebhiyaḥ  
+इ꣡न्द्र त्रिधा꣡तु शरणं꣡  
+त्रिव꣡रूथं सुअस्तिम꣡त्  
+छर्दि꣡र् यछ मघ꣡वद्भ्यश् च म꣡ह्य° च  
+याव꣡या दिद्यु꣡म् एभियः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-imáṃ naro marutaḥ saścatā vŕ̥dhaṃ  
-yásmin rā́yaḥ śévr̥dhāsaḥ  
-abhí yé sánti pŕ̥tanāsu dūḍhíyo  
-viśvā́hā śátrum ādabhúḥ  
+इमं꣡ नरो मरुतः सश्चता व्ŕ̥धं  
+य꣡स्मिन् रा꣡यः शे꣡वृधासः  
+अभि꣡ ये꣡ स꣡न्ति प्ŕ̥तनासु दूढि꣡यो  
+विश्वा꣡हा श꣡त्रुम् आदभुः꣡  

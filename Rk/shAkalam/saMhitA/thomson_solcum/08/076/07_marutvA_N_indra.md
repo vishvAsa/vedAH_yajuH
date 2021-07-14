@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-marútvām̐ indra mīḍhuvaḥ  
-píbā sómaṃ śatakrato  
-asmín yajñé puruṣṭuta  
+मरु꣡त्वाँ इन्द्र मीढुवः  
+पि꣡बा सो꣡मं शतक्रतो  
+अस्मि꣡न् यज्ञे꣡ पुरुष्टुत  

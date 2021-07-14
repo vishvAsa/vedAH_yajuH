@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuvā́ṃ rihanti mātáro  
-hárim pavítre adrúhaḥ  
-vatsáṃ jātáṃ ná dhenávaḥ  
-pávamāna vídharmaṇi  
+तुवां꣡ रिहन्ति मात꣡रो  
+ह꣡रिम् पवि꣡त्रे अद्रु꣡हः  
+वत्सं꣡ जातं꣡ न꣡ धेन꣡वः  
+प꣡वमान वि꣡धर्मणि  

@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-eṣá te deva nayitā+  
-ráthaspátiḥ śáṃ rayíḥ  
-śáṃ rāyé śáṃ suastáya  
-iṣastúto manāmahe  
-devastúto manāmahe  
+एष꣡ ते देव नयिता+  
+र꣡थस्प꣡तिः शं꣡ रयिः꣡  
+शं꣡ राये꣡ शं꣡ सुअस्त꣡य  
+इषस्तु꣡तो मनामहे  
+देवस्तु꣡तो मनामहे  

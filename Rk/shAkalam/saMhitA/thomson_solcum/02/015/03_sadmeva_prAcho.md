@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sádmeva prā́co ví mimāya mā́nair  
-vájreṇa khā́ni atr̥ṇan nadī́nām  
-vŕ̥thāsr̥jat pathíbhir dīrghayāthaíḥ  
-sómasya tā́ máda índraś cakāra  
+स꣡द्मेव प्रा꣡चो वि꣡ मिमाय मा꣡नैर्  
+व꣡ज्रेण खा꣡नि अतृणन् नदी꣡नाम्  
+व्ŕ̥थासृजत् पथि꣡भिर् दीर्घयाथइः꣡  
+सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार  

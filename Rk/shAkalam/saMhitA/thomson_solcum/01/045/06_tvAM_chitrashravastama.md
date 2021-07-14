@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvā́ṃ citraśravastama  
-hávante vikṣú jantávaḥ  
-śocíṣkeśam purupriya  
-ágne havyā́ya vóḷhave  
+तुवां꣡ चित्रश्रवस्तम  
+ह꣡वन्ते विक्षु꣡ जन्त꣡वः  
+शोचि꣡ष्केशम् पुरुप्रिय  
+अ꣡ग्ने हव्या꣡य वो꣡ऌहवे  

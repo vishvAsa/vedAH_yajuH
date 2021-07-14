@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-índrā ha rátnaṃ váruṇā dháyiṣṭhā+  
-itthā́ nŕ̥bhyaḥ śaśamānébhiyas tā́  
-yádī sákhāyā sakhiyā́ya sómaiḥ  
-sutébhiḥ suprayásā mādáyaite  
+इ꣡न्द्रा ह र꣡त्नं व꣡रुणा ध꣡यिष्ठा+  
+इत्था꣡ न्ŕ̥भ्यः शशमाने꣡भियस् ता꣡  
+य꣡दी स꣡खाया सखिया꣡य सो꣡मैः  
+सुते꣡भिः सुप्रय꣡सा माद꣡यैते  

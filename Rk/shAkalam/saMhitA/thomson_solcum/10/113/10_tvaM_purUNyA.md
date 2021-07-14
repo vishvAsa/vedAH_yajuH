@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tuvám purū́ṇi ā́ bharā suáśvyā  
-yébhir máṃsai nivácanāni śáṃsan  
-sugébhir víśvā duritā́ tarema  
-vidó ṣú ṇa urviyā́ gādhám adyá  
+तुव꣡म् पुरू꣡णि आ꣡ भरा सुअ꣡श्व्या  
+ये꣡भिर् मं꣡सै निव꣡चनानि शं꣡सन्  
+सुगे꣡भिर् वि꣡श्वा दुरिता꣡ तरेम  
+विदो꣡ षु꣡ ण उर्विया꣡ गाध꣡म् अद्य꣡  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-śaténā no abhíṣṭibhir  
-niyútvām̐ índrasārathiḥ  
-vā́yo sutásya tr̥mpatam  
+शते꣡ना नो अभि꣡ष्टिभिर्  
+नियु꣡त्वाँ इ꣡न्द्रसारथिः  
+वा꣡यो सुत꣡स्य तृम्पतम्  

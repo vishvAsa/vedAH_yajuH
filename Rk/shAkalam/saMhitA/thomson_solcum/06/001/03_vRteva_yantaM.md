@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-vr̥téva yántam bahúbhir vasavyaìs  
-tuvé rayíṃ jāgr̥vā́ṃso ánu gman  
-rúśantam agníṃ darśatám br̥hántaṃ  
-vapā́vantaṃ viśváhā dīdivā́ṃsam  
+वृते꣡व य꣡न्तम् बहु꣡भिर् वसव्यइ᳡स्  
+तुवे꣡ रयिं꣡ जागृवां꣡सो अ꣡नु ग्मन्  
+रु꣡शन्तम् अग्निं꣡ दर्शत꣡म् बृह꣡न्तं  
+वपा꣡वन्तं विश्व꣡हा दीदिवां꣡सम्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yujé vām bráhma pūrviyáṃ námobhir  
-ví ślóka etu pathíyeva sūréḥ  
-śr̥ṇvántu víśve amŕ̥tasya putrā́  
-ā́ yé dhā́māni diviyā́ni tasthúḥ  
+युजे꣡ वाम् ब्र꣡ह्म पूर्वियं꣡ न꣡मोभिर्  
+वि꣡ श्लो꣡क एतु पथि꣡येव सूरेः꣡  
+शृण्व꣡न्तु वि꣡श्वे अम्ŕ̥तस्य पुत्रा꣡  
+आ꣡ ये꣡ धा꣡मानि दिविया꣡नि तस्थुः꣡  

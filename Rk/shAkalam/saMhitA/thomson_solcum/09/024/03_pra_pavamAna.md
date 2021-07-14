@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-prá pavamāna dhanvasi  
-sóma índrāya pā́tave  
-nŕ̥bhir yató ví nīyase  
+प्र꣡ पवमान धन्वसि  
+सो꣡म इ꣡न्द्राय पा꣡तवे  
+न्ŕ̥भिर् यतो꣡ वि꣡ नीयसे  

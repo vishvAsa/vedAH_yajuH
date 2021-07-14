@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́ vām r̥tā́ya keśínīr anūṣata  
-mítra yátra váruṇa gātúm árcathaḥ  
-áva tmánā sr̥játam pínvataṃ dhíyo  
-yuváṃ víprasya mánmanām irajyathaḥ  
+आ꣡ वाम् ऋता꣡य केशि꣡नीर् अनूषत  
+मि꣡त्र य꣡त्र व꣡रुण गातु꣡म् अ꣡र्चथः  
+अ꣡व त्म꣡ना सृज꣡तम् पि꣡न्वतं धि꣡यो  
+युवं꣡ वि꣡प्रस्य म꣡न्मनाम् इरज्यथः  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-trír aśvinā síndhubhiḥ saptámātr̥bhis  
-tráya āhāvā́s trẽdhā́ havíṣ kr̥tám  
-tisráḥ pr̥thivī́r upári pravā́ divó  
-nā́kaṃ rakṣethe dyúbhir aktúbhir hitám  
+त्रि꣡र् अश्विना सि꣡न्धुभिः सप्त꣡मातृभिस्  
+त्र꣡य आहावा꣡स् त्र्ẽधा꣡ हवि꣡ष् कृत꣡म्  
+तिस्रः꣡ पृथिवी꣡र् उप꣡रि प्रवा꣡ दिवो꣡  
+ना꣡कं रक्षेथे द्यु꣡भिर् अक्तु꣡भिर् हित꣡म्  

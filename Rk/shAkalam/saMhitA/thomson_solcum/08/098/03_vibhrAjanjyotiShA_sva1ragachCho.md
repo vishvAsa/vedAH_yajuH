@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-vibhrā́jañ jyótiṣā súvar  
-ágacho rocanáṃ diváḥ  
-devā́s ta indra sakhiyā́ya yemire  
+विभ्रा꣡जञ् ज्यो꣡तिषा सु꣡वर्  
+अ꣡गछो रोचनं꣡ दिवः꣡  
+देवा꣡स् त इन्द्र सखिया꣡य येमिरे  

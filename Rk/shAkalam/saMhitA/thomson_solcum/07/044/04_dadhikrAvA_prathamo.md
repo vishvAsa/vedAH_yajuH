@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-dadhikrā́vā prathamó vājī́ árvā  
-ágre ráthānām bhavati prajānán  
-saṃvidāná uṣásā sū́riyeṇa  
-ādityébhir vásubhir áṅgirobhiḥ  
+दधिक्रा꣡वा प्रथमो꣡ वाजी꣡ अ꣡र्वा  
+अ꣡ग्रे र꣡थानाम् भवति प्रजान꣡न्  
+संविदान꣡ उष꣡सा सू꣡रियेण  
+आदित्ये꣡भिर् व꣡सुभिर् अ꣡ङ्गिरोभिः  

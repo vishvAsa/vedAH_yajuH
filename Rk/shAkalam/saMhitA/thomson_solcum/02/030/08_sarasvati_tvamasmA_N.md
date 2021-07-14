@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sárasvati tuvám asmā́m̐ aviḍḍhi  
-marútvatī dhr̥ṣatī́ jeṣi śátrūn  
-tyáṃ cic chárdhantaṃ taviṣīyámāṇam  
-índro hanti vr̥ṣabháṃ śáṇḍikānām  
+स꣡रस्वति तुव꣡म् अस्माँ꣡ अविड्ढि  
+मरु꣡त्वती धृषती꣡ जेषि श꣡त्रून्  
+त्यं꣡ चिच् छ꣡र्धन्तं तविषीय꣡माणम्  
+इ꣡न्द्रो हन्ति वृषभं꣡ श꣡ण्डिकानाम्  

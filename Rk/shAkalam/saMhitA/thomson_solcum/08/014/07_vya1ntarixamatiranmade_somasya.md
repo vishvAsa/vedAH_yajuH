@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ví antárikṣam atiran  
-máde sómasya rocanā́  
-índro yád ábhinad valám  
+वि꣡ अन्त꣡रिक्षम् अतिरन्  
+म꣡दे सो꣡मस्य रोचना꣡  
+इ꣡न्द्रो य꣡द् अ꣡भिनद् वल꣡म्  

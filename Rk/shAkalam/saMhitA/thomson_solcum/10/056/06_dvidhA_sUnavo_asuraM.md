@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-dvídhā sūnávo ásuraṃ suvarvídam  
-ā́sthāpayanta tr̥tī́yena kármaṇā  
-suvā́m prajā́m pitáraḥ pítriyaṃ sáha  
-ā́vareṣu adadhus tántum ā́tatam  
+द्वि꣡धा सून꣡वो अ꣡सुरं सुवर्वि꣡दम्  
+आ꣡स्थापयन्त तृती꣡येन क꣡र्मणा  
+सुवा꣡म् प्रजा꣡म् पित꣡रः पि꣡त्रियं स꣡ह  
+आ꣡वरेषु अदधुस् त꣡न्तुम् आ꣡ततम्  

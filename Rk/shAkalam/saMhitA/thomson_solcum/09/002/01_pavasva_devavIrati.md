@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-pávasva devavī́r áti  
-pavítraṃ soma ráṃhiyā  
-índram indo vŕ̥ṣā́ viśa  
+प꣡वस्व देववी꣡र् अ꣡ति  
+पवि꣡त्रं सोम रं꣡हिया  
+इ꣡न्द्रम् इन्दो व्ŕ̥षा꣡ विश  

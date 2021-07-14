@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sunītíbhir nayasi trā́yase jánaṃ  
-yás túbhyaṃ dā́śān ná tám áṃho aśnavat  
-brahmadvíṣas tápano manyumī́r asi  
-bŕ̥haspate máhi tát te mahitvanám  
+सुनीति꣡भिर् नयसि त्रा꣡यसे ज꣡नं  
+य꣡स् तु꣡भ्यं दा꣡शान् न꣡ त꣡म् अं꣡हो अश्नवत्  
+ब्रह्मद्वि꣡षस् त꣡पनो मन्युमी꣡र् असि  
+ब्ŕ̥हस्पते म꣡हि त꣡त् ते महित्वन꣡म्  

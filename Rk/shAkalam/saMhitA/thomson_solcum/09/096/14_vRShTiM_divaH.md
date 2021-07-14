@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-vr̥ṣṭíṃ diváḥ śatádhāraḥ pavasva  
-sahasrasā́ vājayúr devávītau  
-sáṃ síndhubhiḥ kaláśe vāvaśānáḥ  
-sám usríyābhiḥ pratirán na ā́yuḥ  
+वृष्टिं꣡ दिवः꣡ शत꣡धारः पवस्व  
+सहस्रसा꣡ वाजयु꣡र् देव꣡वीतौ  
+सं꣡ सि꣡न्धुभिः कल꣡शे वावशानः꣡  
+स꣡म् उस्रि꣡याभिः प्रतिर꣡न् न आ꣡युः  

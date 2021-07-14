@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-píbā sómam abhí yám ugra tárda  
-ūrváṃ gávyam máhi gr̥ṇāná indra  
-ví yó dhr̥ṣṇo vádhiṣo vajrahasta  
-víśvā vr̥trám amitríyā śávobhiḥ  
+पि꣡बा सो꣡मम् अभि꣡ य꣡म् उग्र त꣡र्द  
+ऊर्वं꣡ ग꣡व्यम् म꣡हि गृणान꣡ इन्द्र  
+वि꣡ यो꣡ धृष्णो व꣡धिषो वज्रहस्त  
+वि꣡श्वा वृत्र꣡म् अमित्रि꣡या श꣡वोभिः  

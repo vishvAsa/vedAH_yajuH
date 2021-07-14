@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yé te vŕ̥ṣaṇo vr̥ṣabhā́sa indra  
-brahmayújo vŕ̥ṣarathāso átyāḥ  
-tā́m̐ ā́ tiṣṭha tébhir ā́ yāhi arvā́ṅ  
-hávāmahe tvā sutá indra sóme  
+ये꣡ ते व्ŕ̥षणो वृषभा꣡स इन्द्र  
+ब्रह्मयु꣡जो व्ŕ̥षरथासो अ꣡त्याः  
+ताँ꣡ आ꣡ तिष्ठ ते꣡भिर् आ꣡ याहि अर्वा꣡ङ्  
+ह꣡वामहे त्वा सुत꣡ इन्द्र सो꣡मे  

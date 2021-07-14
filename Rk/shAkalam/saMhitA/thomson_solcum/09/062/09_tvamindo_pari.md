@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-tuvám indo pári srava  
-svā́diṣṭho áṅgirobhiyaḥ  
-varivovíd ghr̥tám páyaḥ  
+तुव꣡म् इन्दो प꣡रि स्रव  
+स्वा꣡दिष्ठो अ꣡ङ्गिरोभियः  
+वरिवोवि꣡द् घृत꣡म् प꣡यः  

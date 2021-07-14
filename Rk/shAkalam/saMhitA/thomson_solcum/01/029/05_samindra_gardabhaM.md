@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-sám indra gardabhám mr̥ṇa  
-nuvántam pāpáyāmuyā́  
-ā́ tū́ na indra śaṃsaya  
-góṣu áśveṣu śubhríṣu  
-sahásreṣu tuvīmagha  
+स꣡म् इन्द्र गर्दभ꣡म् मृण  
+नुव꣡न्तम् पाप꣡यामुया꣡  
+आ꣡ तू꣡ न इन्द्र शंसय  
+गो꣡षु अ꣡श्वेषु शुभ्रि꣡षु  
+सह꣡स्रेषु तुवीमघ  

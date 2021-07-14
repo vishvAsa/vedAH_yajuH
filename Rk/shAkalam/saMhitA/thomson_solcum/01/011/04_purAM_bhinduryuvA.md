@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-purā́m bhindúr yúvā kavír  
-ámitaujā ajāyata  
-índro víśvasya kármaṇo  
-dhartā́ vajrī́ puruṣṭutáḥ  
+पुरा꣡म् भिन्दु꣡र् यु꣡वा कवि꣡र्  
+अ꣡मितौजा अजायत  
+इ꣡न्द्रो वि꣡श्वस्य क꣡र्मणो  
+धर्ता꣡ वज्री꣡ पुरुष्टुतः꣡  

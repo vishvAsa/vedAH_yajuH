@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá yé vásubhya ī́vad ā́ námo dúr  
-yé mitré váruṇe suuktávācaḥ  
-ávaitu ábhvaṃ kr̥ṇutā́ várīyo  
-diváspr̥thivyór ávasā madema  
+प्र꣡ ये꣡ व꣡सुभ्य ई꣡वद् आ꣡ न꣡मो दु꣡र्  
+ये꣡ मित्रे꣡ व꣡रुणे सुउक्त꣡वाचः  
+अ꣡वैतु अ꣡भ्वं कृणुता꣡ व꣡रीयो  
+दिव꣡स्पृथिव्यो꣡र् अ꣡वसा मदेम  

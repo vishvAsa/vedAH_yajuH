@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́pāntamanyus tr̥pálaprabharmā  
-dhúniḥ śímīvāñ chárumām̐ r̥jīṣī́  
-sómo víśvāni atasā́ vánāni  
-nā́rvā́g índram pratimā́nāni debhuḥ  
+आ꣡पान्तमन्युस् तृप꣡लप्रभर्मा  
+धु꣡निः शि꣡मीवाञ् छ꣡रुमाँ ऋजीषी꣡  
+सो꣡मो वि꣡श्वानि अतसा꣡ व꣡नानि  
+ना꣡र्वा꣡ग् इ꣡न्द्रम् प्रतिमा꣡नानि देभुः  

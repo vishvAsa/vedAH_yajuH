@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-víprā yajñéṣu mā́nuṣeṣu kārū́  
-mánye vāṃ jātávedasā yájadhyai  
-ūrdhváṃ no adhvaráṃ kr̥taṃ háveṣu  
-tā́ devéṣu vanatho vā́riyāṇi  
+वि꣡प्रा यज्ञे꣡षु मा꣡नुषेषु कारू꣡  
+म꣡न्ये वां जात꣡वेदसा य꣡जध्यै  
+ऊर्ध्वं꣡ नो अध्वरं꣡ कृतं ह꣡वेषु  
+ता꣡ देवे꣡षु वनथो वा꣡रियाणि  

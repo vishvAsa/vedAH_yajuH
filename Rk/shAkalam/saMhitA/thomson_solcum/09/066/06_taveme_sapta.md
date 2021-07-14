@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-távemé saptá síndhavaḥ  
-praśíṣaṃ soma sisrate  
-túbhyaṃ dhāvanti dhenávaḥ  
+त꣡वेमे꣡ सप्त꣡ सि꣡न्धवः  
+प्रशि꣡षं सोम सिस्रते  
+तु꣡भ्यं धावन्ति धेन꣡वः  

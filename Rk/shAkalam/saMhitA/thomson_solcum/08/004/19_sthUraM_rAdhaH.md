@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-sthūráṃ rā́dhaḥ śatā́śuvaṃ  
-kuruṅgásya díviṣṭiṣu  
-rā́jñas tveṣásya subhágasya rātíṣu  
-turváśeṣu amanmahi  
+स्थूरं꣡ रा꣡धः शता꣡शुवं  
+कुरुङ्ग꣡स्य दि꣡विष्टिषु  
+रा꣡ज्ञस् त्वेष꣡स्य सुभ꣡गस्य राति꣡षु  
+तुर्व꣡शेषु अमन्महि  

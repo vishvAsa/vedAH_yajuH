@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áśoci agníḥ samidhānó asmé  
-úpo adr̥śran támasaś cid ántāḥ  
-áceti ketúr uṣásaḥ purástāc  
-chriyé divó duhitúr jā́yamānaḥ  
+अ꣡शोचि अग्निः꣡ समिधानो꣡ अस्मे꣡  
+उ꣡पो अदृश्रन् त꣡मसश् चिद् अ꣡न्ताः  
+अ꣡चेति केतु꣡र् उष꣡सः पुर꣡स्ताच्  
+छ्रिये꣡ दिवो꣡ दुहितु꣡र् जा꣡यमानः  

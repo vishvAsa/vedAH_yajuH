@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-r̥téna devī́r amŕ̥tā ámr̥ktā  
-árṇobhir ā́po mádhumadbhir agne  
-vājī́ ná · sárgeṣu prastubhānáḥ  
-prá sádam ít srávitave dadhanyuḥ  
+ऋते꣡न देवी꣡र् अम्ŕ̥ता अ꣡मृक्ता  
+अ꣡र्णोभिर् आ꣡पो म꣡धुमद्भिर् अग्ने  
+वाजी꣡ न꣡ · स꣡र्गेषु प्रस्तुभानः꣡  
+प्र꣡ स꣡दम् इ꣡त् स्र꣡वितवे दधन्युः  

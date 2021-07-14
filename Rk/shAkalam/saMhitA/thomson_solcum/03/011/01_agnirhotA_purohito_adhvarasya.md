@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-agnír hótā puróhito  
-adhvarásya vícarṣaṇiḥ  
-sá veda yajñám ānuṣák  
+अग्नि꣡र् हो꣡ता पुरो꣡हितो  
+अध्वर꣡स्य वि꣡चर्षणिः  
+स꣡ वेद यज्ञ꣡म् आनुष꣡क्  

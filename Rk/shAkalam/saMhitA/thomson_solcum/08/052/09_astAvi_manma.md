@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ástāvi mánma pūrviyám  
-bráhma índrāya vocata  
-pūrvī́r r̥tásya br̥hatī́r anūṣata  
-stotúr medhā́ asr̥kṣata  
+अ꣡स्तावि म꣡न्म पूर्विय꣡म्  
+ब्र꣡ह्म इ꣡न्द्राय वोचत  
+पूर्वी꣡र् ऋत꣡स्य बृहती꣡र् अनूषत  
+स्तोतु꣡र् मेधा꣡ असृक्षत  

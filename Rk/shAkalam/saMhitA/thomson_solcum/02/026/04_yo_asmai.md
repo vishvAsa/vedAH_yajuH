@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yó asmai havyaír ghr̥távadbhir ávidhat  
-prá tám prācā́ nayati bráhmaṇas pátiḥ  
-uruṣyátīm áṃhaso rákṣatī riṣó  
-aṃhóś cid asmā urucákrir ádbhutaḥ  
+यो꣡ अस्मै हव्यइ꣡र् घृत꣡वद्भिर् अ꣡विधत्  
+प्र꣡ त꣡म् प्राचा꣡ नयति ब्र꣡ह्मणस् प꣡तिः  
+उरुष्य꣡तीम् अं꣡हसो र꣡क्षती रिषो꣡  
+अंहो꣡श् चिद् अस्मा उरुच꣡क्रिर् अ꣡द्भुतः  

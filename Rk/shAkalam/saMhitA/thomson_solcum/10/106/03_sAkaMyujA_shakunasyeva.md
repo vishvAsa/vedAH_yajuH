@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sākaṃyújā śakunásyeva pakṣā́  
-paśvéva citrā́ yájur ā́ gamiṣṭam  
-agnír iva devayór dīdivā́ṃsā  
-párijmāneva yajathaḥ purutrā́  
+साकंयु꣡जा शकुन꣡स्येव पक्षा꣡  
+पश्वे꣡व चित्रा꣡ य꣡जुर् आ꣡ गमिष्टम्  
+अग्नि꣡र् इव देवयो꣡र् दीदिवां꣡सा  
+प꣡रिज्मानेव यजथः पुरुत्रा꣡  

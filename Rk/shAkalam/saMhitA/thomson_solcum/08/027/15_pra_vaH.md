@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-prá vaḥ śaṃsāmi adruhaḥ  
-saṃsthá úpastutīnãm  
-ná táṃ dhūrtír varuṇa mitra mártiyaṃ  
-yó vo dhā́mabhyo ávidhat  
+प्र꣡ वः शंसामि अद्रुहः  
+संस्थ꣡ उ꣡पस्तुतीन्ãम्  
+न꣡ तं꣡ धूर्ति꣡र् वरुण मित्र म꣡र्तियं  
+यो꣡ वो धा꣡मभ्यो अ꣡विधत्  

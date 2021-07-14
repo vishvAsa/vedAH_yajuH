@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-dhíyam pūṣā́ jinvatu viśvaminvó  
-rayíṃ sómo rayipátir dadhātu  
-ávatu devī́ áditir anarvā́  
-br̥hád vadema vidáthe suvī́rāḥ  
+धि꣡यम् पूषा꣡ जिन्वतु विश्वमिन्वो꣡  
+रयिं꣡ सो꣡मो रयिप꣡तिर् दधातु  
+अ꣡वतु देवी꣡ अ꣡दितिर् अनर्वा꣡  
+बृह꣡द् वदेम विद꣡थे सुवी꣡राः  

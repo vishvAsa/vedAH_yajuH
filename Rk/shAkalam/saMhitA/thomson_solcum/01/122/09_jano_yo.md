@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-jáno yó mitrāvaruṇāv abhidhrúg  
-apó ná vāṃ sunóti akṣṇayādhrúk  
-svayáṃ sá yákṣmaṃ hŕ̥daye ní dhatta  
-ā́pa yád īṃ hótarābhir r̥tā́vā  
+ज꣡नो यो꣡ मित्रावरुणाव् अभिध्रु꣡ग्  
+अपो꣡ न꣡ वां सुनो꣡ति अक्ष्णयाध्रु꣡क्  
+स्वयं꣡ स꣡ य꣡क्ष्मं ह्ŕ̥दये नि꣡ धत्त  
+आ꣡प य꣡द् ईं हो꣡तराभिर् ऋता꣡वा  

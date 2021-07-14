@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-samānám u tyám puruhūtám ukthíyaṃ  
-ráthaṃ tricakráṃ sávanā gánigmatam  
-párijmānaṃ vidathíyaṃ suvr̥ktíbhir  
-vayáṃ víuṣṭā uṣáso havāmahe  
+समान꣡म् उ त्य꣡म् पुरुहूत꣡म् उक्थि꣡यं  
+र꣡थं त्रिचक्रं꣡ स꣡वना ग꣡निग्मतम्  
+प꣡रिज्मानं विदथि꣡यं सुवृक्ति꣡भिर्  
+वयं꣡ वि꣡उष्टा उष꣡सो हवामहे  

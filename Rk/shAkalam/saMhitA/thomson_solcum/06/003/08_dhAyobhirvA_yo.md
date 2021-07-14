@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-dhā́yobhir vā yó yújiyebhir arkaír  
-vidyún ná davidyot suvébhiḥ śúṣmaiḥ  
-śárdho vā yó marútãṃ tatákṣa  
-r̥bhúr ná tveṣó rabhasānó adyaut  
+धा꣡योभिर् वा यो꣡ यु꣡जियेभिर् अर्कइ꣡र्  
+विद्यु꣡न् न꣡ दविद्योत् सुवे꣡भिः शु꣡ष्मैः  
+श꣡र्धो वा यो꣡ मरु꣡त्ãं तत꣡क्ष  
+ऋभु꣡र् न꣡ त्वेषो꣡ रभसानो꣡ अद्यौत्  

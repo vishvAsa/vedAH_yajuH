@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-devī́ devásya ródasī jánitrī  
-bŕ̥haspátiṃ vāvr̥dhatur mahitvā́  
-dakṣā́yiyāya dakṣatā sakhāyaḥ  
-kárad bráhmaṇe sutárā sugādhā́  
+देवी꣡ देव꣡स्य रो꣡दसी ज꣡नित्री  
+ब्ŕ̥हस्प꣡तिं वावृधतुर् महित्वा꣡  
+दक्षा꣡यियाय दक्षता सखायः  
+क꣡रद् ब्र꣡ह्मणे सुत꣡रा सुगाधा꣡  

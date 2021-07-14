@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-yát sómam indra víṣṇavi  
-yád vā gha tritá āptiyé  
-yád vā marútsu mándase sám índubhiḥ  
+य꣡त् सो꣡मम् इन्द्र वि꣡ष्णवि  
+य꣡द् वा घ त्रित꣡ आप्तिये꣡  
+य꣡द् वा मरु꣡त्सु म꣡न्दसे स꣡म् इ꣡न्दुभिः  

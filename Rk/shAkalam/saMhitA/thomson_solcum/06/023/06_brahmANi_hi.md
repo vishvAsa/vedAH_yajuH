@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-bráhmāṇi hí cakr̥ṣé várdhanāni  
-tā́vat ta indra matíbhir viviṣmaḥ  
-suté sóme sutapāḥ śáṃtamāni  
-rā́ṇḍyā kriyāsma vákṣaṇāni yajñaíḥ  
+ब्र꣡ह्माणि हि꣡ चकृषे꣡ व꣡र्धनानि  
+ता꣡वत् त इन्द्र मति꣡भिर् विविष्मः  
+सुते꣡ सो꣡मे सुतपाः शं꣡तमानि  
+रा꣡ण्ड्या क्रियास्म व꣡क्षणानि यज्ञइः꣡  

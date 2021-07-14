@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-sá no víśvebhir devébhir  
-ū́rjo napād bhádraśoce  
-rayíṃ dehi viśvávāram  
+स꣡ नो वि꣡श्वेभिर् देवे꣡भिर्  
+ऊ꣡र्जो नपाद् भ꣡द्रशोचे  
+रयिं꣡ देहि विश्व꣡वारम्  

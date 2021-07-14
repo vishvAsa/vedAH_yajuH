@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-víśvasya ketúr bhúvanasya gárbha  
-ā́ ródasī apr̥ṇāj jā́yamānaḥ  
-vīḷúṃ cid ádrim abhinat parāyáñ  
-jánā yád agním áyajanta páñca  
+वि꣡श्वस्य केतु꣡र् भु꣡वनस्य ग꣡र्भ  
+आ꣡ रो꣡दसी अपृणाज् जा꣡यमानः  
+वीऌउं꣡ चिद् अ꣡द्रिम् अभिनत् पराय꣡ञ्  
+ज꣡ना य꣡द् अग्नि꣡म् अ꣡यजन्त प꣡ञ्च  

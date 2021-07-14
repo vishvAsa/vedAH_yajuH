@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tám u ṣṭavāma yá imā́ jajā́na  
-víśvā jātā́ni ávarāṇi asmāt  
-índreṇa mitráṃ didhiṣema gīrbhír  
-úpo námobhir vr̥ṣabháṃ viśema  
+त꣡म् उ ष्टवाम य꣡ इमा꣡ जजा꣡न  
+वि꣡श्वा जाता꣡नि अ꣡वराणि अस्मात्  
+इ꣡न्द्रेण मित्रं꣡ दिधिषेम गीर्भि꣡र्  
+उ꣡पो न꣡मोभिर् वृषभं꣡ विशेम  

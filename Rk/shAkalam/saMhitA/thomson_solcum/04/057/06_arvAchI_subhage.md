@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-arvā́cī subhage bhava  
-sī́te vándāmahe tuvā  
-yáthā naḥ subhágā́sasi  
-yáthā naḥ suphálā́sasi  
+अर्वा꣡ची सुभगे भव  
+सी꣡ते व꣡न्दामहे तुवा  
+य꣡था नः सुभ꣡गा꣡ससि  
+य꣡था नः सुफ꣡ला꣡ससि  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yó dabhrébhir háviyo yáś ca bhū́ribhir  
-yó abhī́ke varivovín nr̥ṣā́hiye  
-táṃ vikhādé sásnim adyá śrutáṃ náram  
-arvā́ñcam índram ávase karāmahe  
+यो꣡ दभ्रे꣡भिर् ह꣡वियो य꣡श् च भू꣡रिभिर्  
+यो꣡ अभी꣡के वरिवोवि꣡न् नृषा꣡हिये  
+तं꣡ विखादे꣡ स꣡स्निम् अद्य꣡ श्रुतं꣡ न꣡रम्  
+अर्वा꣡ञ्चम् इ꣡न्द्रम् अ꣡वसे करामहे  

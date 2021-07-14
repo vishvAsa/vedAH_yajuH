@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ yád ruhā́va váruṇaś ca nā́vam  
-prá yát samudrám īráyāva mádhyam  
-ádhi yád apā́ṃ sanúbhiś cárāva  
-prá preṅkhá īṅkhayāvahai śubhé kám  
+आ꣡ य꣡द् रुहा꣡व व꣡रुणश् च ना꣡वम्  
+प्र꣡ य꣡त् समुद्र꣡म् ईर꣡याव म꣡ध्यम्  
+अ꣡धि य꣡द् अपां꣡ सनु꣡भिश् च꣡राव  
+प्र꣡ प्रेङ्ख꣡ ईङ्खयावहै शुभे꣡ क꣡म्  

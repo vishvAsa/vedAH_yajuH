@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ī́ḷe agníṃ suávasaṃ námobhir  
-ihá prasattó ví cayat kr̥táṃ naḥ  
-ráthair iva prá bhare vājayádbhiḥ  
-pradakṣiṇín marútāṃ stómam r̥dhyām  
+ई꣡ऌए अग्निं꣡ सुअ꣡वसं न꣡मोभिर्  
+इह꣡ प्रसत्तो꣡ वि꣡ चयत् कृतं꣡ नः  
+र꣡थैर् इव प्र꣡ भरे वाजय꣡द्भिः  
+प्रदक्षिणि꣡न् मरु꣡तां स्तो꣡मम् ऋध्याम्  

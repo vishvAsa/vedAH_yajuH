@@ -2,10 +2,10 @@
 title = "001"
 
 +++
-prá sú jyéṣṭhaṃ nicirā́bhyām br̥hán námo  
-havyám matím bharatā mr̥̄ḷayádbhiyāṃ+  
-svā́diṣṭham mr̥̄ḷayádbhiyām+  
-tā́ samrā́jā ghr̥tā́sutī  
-yajñé-yajña úpastutā  
-áthainoḥ kṣatráṃ ná kútaś canā́dhŕ̥ṣe  
-devatváṃ nū́ cid ādhŕ̥ṣe  
+प्र꣡ सु꣡ ज्ये꣡ष्ठं निचिरा꣡भ्याम् बृह꣡न् न꣡मो  
+हव्य꣡म् मति꣡म् भरता मॄऌअय꣡द्भियां+  
+स्वा꣡दिष्ठम् मॄऌअय꣡द्भियाम्+  
+ता꣡ सम्रा꣡जा घृता꣡सुती  
+यज्ञे꣡-यज्ञ उ꣡पस्तुता  
+अ꣡थैनोः क्षत्रं꣡ न꣡ कु꣡तश् चना꣡ध्ŕ̥षे  
+देवत्वं꣡ नू꣡ चिद् आध्ŕ̥षे  

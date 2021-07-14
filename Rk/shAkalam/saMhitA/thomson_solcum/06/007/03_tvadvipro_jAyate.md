@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuvád vípro jāyate vājī́ agne  
-tuvád vīrā́so abhimātiṣā́haḥ  
-vaíśvānara tuvám asmā́su dhehi  
-vásūni rājan spr̥hayā́yiyāṇi  
+तुव꣡द् वि꣡प्रो जायते वाजी꣡ अग्ने  
+तुव꣡द् वीरा꣡सो अभिमातिषा꣡हः  
+वइ꣡श्वानर तुव꣡म् अस्मा꣡सु धेहि  
+व꣡सूनि राजन् स्पृहया꣡यियाणि  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ghr̥tám agnér vadhriaśvásya várdhanaṃ  
-ghr̥tám ánnaṃ ghr̥tám u asya médanam  
-ghr̥ténā́huta urviyā́ ví paprathe  
-sū́rya iva rocate sarpírāsutiḥ  
+घृत꣡म् अग्ने꣡र् वध्रिअश्व꣡स्य व꣡र्धनं  
+घृत꣡म् अ꣡न्नं घृत꣡म् उ अस्य मे꣡दनम्  
+घृते꣡ना꣡हुत उर्विया꣡ वि꣡ पप्रथे  
+सू꣡र्य इव रोचते सर्पि꣡रासुतिः  

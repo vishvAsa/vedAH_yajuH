@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-táṃ tvā víprā vipanyávo  
-jāgr̥vā́ṃsaḥ sám indhate  
-havyavā́ham ámartiyaṃ sahovŕ̥dham  
+तं꣡ त्वा वि꣡प्रा विपन्य꣡वो  
+जागृवां꣡सः स꣡म् इन्धते  
+हव्यवा꣡हम् अ꣡मर्तियं सहोव्ŕ̥धम्  

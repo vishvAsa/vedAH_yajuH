@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-yám ī gárbham r̥tāvŕ̥dho  
-dr̥śé cā́rum ájījanan  
-kavím máṃhiṣṭham adhvaré puruspŕ̥ham  
+य꣡म् ई ग꣡र्भम् ऋताव्ŕ̥धो  
+दृशे꣡ चा꣡रुम् अ꣡जीजनन्  
+कवि꣡म् मं꣡हिष्ठम् अध्वरे꣡ पुरुस्प्ŕ̥हम्  

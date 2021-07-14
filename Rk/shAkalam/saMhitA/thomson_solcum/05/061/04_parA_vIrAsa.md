@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-párā vīrāsa etana  
-máryāso bhádrajānayaḥ  
-agnitápo yáthā́satha  
+प꣡रा वीरास एतन  
+म꣡र्यासो भ꣡द्रजानयः  
+अग्नित꣡पो य꣡था꣡सथ  

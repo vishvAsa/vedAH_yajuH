@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ágne diváḥ sūnúr asi prácetās  
-tánā pr̥thivyā́ utá viśvávedāḥ  
-ŕ̥dhag devā́m̐ ihá yajā cikitvaḥ  
+अ꣡ग्ने दिवः꣡ सूनु꣡र् असि प्र꣡चेतास्  
+त꣡ना पृथिव्या꣡ उत꣡ विश्व꣡वेदाः  
+ŕ̥धग् देवाँ꣡ इह꣡ यजा चिकित्वः  

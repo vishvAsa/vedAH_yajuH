@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-índrākutsā váhamānā ráthena  
-ā́ vām átyā ápi kárṇe vahantu  
-níḥ ṣīm adbhyó dhámatho níḥ ṣadhásthān  
-maghóno hr̥dó varathas támāṃsi  
+इ꣡न्द्राकुत्सा व꣡हमाना र꣡थेन  
+आ꣡ वाम् अ꣡त्या अ꣡पि क꣡र्णे वहन्तु  
+निः꣡ षीम् अद्भ्यो꣡ ध꣡मथो निः꣡ षध꣡स्थान्  
+मघो꣡नो हृदो꣡ वरथस् त꣡मांसि  

@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-óṣadhayaḥ sáṃ vadante  
-sómena sahá rā́jañā  
-yásmai kr̥ṇóti brāhmaṇás  
-táṃ rājan pārayāmasi  
+ओ꣡षधयः सं꣡ वदन्ते  
+सो꣡मेन सह꣡ रा꣡जञा  
+य꣡स्मै कृणो꣡ति ब्राह्मण꣡स्  
+तं꣡ राजन् पारयामसि  

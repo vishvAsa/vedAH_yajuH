@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-hánta ū nú kím āsase  
-prathamáṃ no ráthaṃ kr̥dhi  
-upamáṃ vājayú śrávaḥ  
+ह꣡न्त ऊ नु꣡ कि꣡म् आससे  
+प्रथमं꣡ नो र꣡थं कृधि  
+उपमं꣡ वाजयु꣡ श्र꣡वः  

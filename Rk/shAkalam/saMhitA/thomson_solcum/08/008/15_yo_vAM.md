@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-yó vāṃ nāsatiyāv ŕ̥ṣir  
-gīrbhír vatsó ávīvr̥dhat  
-tásmai sahásranirṇijam  
-íṣaṃ dhattaṃ ghr̥taścútam  
+यो꣡ वां नासतियाव् ŕ̥षिर्  
+गीर्भि꣡र् वत्सो꣡ अ꣡वीवृधत्  
+त꣡स्मै सह꣡स्रनिर्णिजम्  
+इ꣡षं धत्तं घृतश्चु꣡तम्  

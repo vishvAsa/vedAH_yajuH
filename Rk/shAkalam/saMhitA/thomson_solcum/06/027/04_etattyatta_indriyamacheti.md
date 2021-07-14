@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-etát tiyát ta indriyám aceti  
-yénā́vadhīr varáśikhasya śéṣaḥ  
-vájrasya yát te níhatasya śúṣmāt  
-svanā́c cid indra paramó dadā́ra  
+एत꣡त् तिय꣡त् त इन्द्रिय꣡म् अचेति  
+ये꣡ना꣡वधीर् वर꣡शिखस्य शे꣡षः  
+व꣡ज्रस्य य꣡त् ते नि꣡हतस्य शु꣡ष्मात्  
+स्वना꣡च् चिद् इन्द्र परमो꣡ ददा꣡र  

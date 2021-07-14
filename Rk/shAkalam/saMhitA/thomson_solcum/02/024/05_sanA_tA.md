@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sánā tā́ kā́ cid bhúvanā bhávītuvā  
-mādbhíḥ śarádbhir dúro varanta vaḥ  
-áyatantā carato anyád-anyad íd  
-yā́ cakā́ra vayúnā bráhmaṇas pátiḥ  
+स꣡ना ता꣡ का꣡ चिद् भु꣡वना भ꣡वीतुवा  
+माद्भिः꣡ शर꣡द्भिर् दु꣡रो वरन्त वः  
+अ꣡यतन्ता चरतो अन्य꣡द्-अन्यद् इ꣡द्  
+या꣡ चका꣡र वयु꣡ना ब्र꣡ह्मणस् प꣡तिः  

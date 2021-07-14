@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tám u tvā nūnám asura prácetasaṃ  
-rā́dho bhāgám ivemahe  
-mahī́va kŕ̥ttiḥ śaraṇā́ ta indra  
-prá te sumnā́ no aśnavan  
+त꣡म् उ त्वा नून꣡म् असुर प्र꣡चेतसं  
+रा꣡धो भाग꣡म् इवेमहे  
+मही꣡व क्ŕ̥त्तिः शरणा꣡ त इन्द्र  
+प्र꣡ ते सुम्ना꣡ नो अश्नवन्  

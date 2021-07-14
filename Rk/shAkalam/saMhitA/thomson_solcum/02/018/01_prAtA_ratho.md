@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prātā́ rátho · návo yoji sásniś  
-cáturyugas trikaśáḥ saptáraśmiḥ  
-dáśāritro manuṣíyaḥ suvarṣā́ḥ  
-sá iṣṭíbhir matíbhī ráṃhiyo bhūt  
+प्राता꣡ र꣡थो · न꣡वो योजि स꣡स्निश्  
+च꣡तुर्युगस् त्रिकशः꣡ सप्त꣡रश्मिः  
+द꣡शारित्रो मनुषि꣡यः सुवर्षाः꣡  
+स꣡ इष्टि꣡भिर् मति꣡भी रं꣡हियो भूत्  

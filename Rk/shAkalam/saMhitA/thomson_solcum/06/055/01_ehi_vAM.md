@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-éhi vā́ṃ vimuco napād  
-ā́ghr̥ṇe sáṃ sacāvahai  
-rathī́r r̥tásya no bhava  
+ए꣡हि वां꣡ विमुचो नपाद्  
+आ꣡घृणे सं꣡ सचावहै  
+रथी꣡र् ऋत꣡स्य नो भव  

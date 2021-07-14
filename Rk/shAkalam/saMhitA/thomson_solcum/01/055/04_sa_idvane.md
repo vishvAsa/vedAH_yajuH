@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá íd váne namasyúbhir vacasyate  
-cā́ru jáneṣu prabruvāṇá indriyám  
-vŕ̥ṣā chándur bhavati haryató vŕ̥ṣā  
-kṣémeṇa dhénām maghávā yád ínvati  
+स꣡ इ꣡द् व꣡ने नमस्यु꣡भिर् वचस्यते  
+चा꣡रु ज꣡नेषु प्रब्रुवाण꣡ इन्द्रिय꣡म्  
+व्ŕ̥षा छ꣡न्दुर् भवति हर्यतो꣡ व्ŕ̥षा  
+क्षे꣡मेण धे꣡नाम् मघ꣡वा य꣡द् इ꣡न्वति  

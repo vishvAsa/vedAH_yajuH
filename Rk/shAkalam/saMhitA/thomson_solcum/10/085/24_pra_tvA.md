@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-prá tvā muñcāmi váruṇasya pā́śād  
-yéna tvā́badhnāt savitā́ suśévaḥ  
-r̥tásya yónau sukr̥tásya loké  
-áriṣṭāṃ tvā sahá pátyā dadhāmi  
+प्र꣡ त्वा मुञ्चामि व꣡रुणस्य पा꣡शाद्  
+ये꣡न त्वा꣡बध्नात् सविता꣡ सुशे꣡वः  
+ऋत꣡स्य यो꣡नौ सुकृत꣡स्य लोके꣡  
+अ꣡रिष्टां त्वा सह꣡ प꣡त्या दधामि  

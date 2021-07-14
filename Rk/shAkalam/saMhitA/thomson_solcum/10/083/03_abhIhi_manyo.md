@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-abhī́hi manyo tavásas távīyān  
-tápasā yujā́ ví jahi śátrūn  
-amitrahā́ vr̥trahā́ dasyuhā́ ca  
-víśvā vásūni ā́ bharā tuváṃ naḥ  
+अभी꣡हि मन्यो तव꣡सस् त꣡वीयान्  
+त꣡पसा युजा꣡ वि꣡ जहि श꣡त्रून्  
+अमित्रहा꣡ वृत्रहा꣡ दस्युहा꣡ च  
+वि꣡श्वा व꣡सूनि आ꣡ भरा तुवं꣡ नः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-índrāsomāv áhim apáḥ pariṣṭhā́ṃ  
-hathó vr̥trám ánu vāṃ dyaúr amanyata  
-prá árṇāṃsi airayataṃ nadī́nām  
-ā́ samudrā́ṇi paprathuḥ purū́ṇi  
+इ꣡न्द्रासोमाव् अ꣡हिम् अपः꣡ परिष्ठां꣡  
+हथो꣡ वृत्र꣡म् अ꣡नु वां द्यउ꣡र् अमन्यत  
+प्र꣡ अ꣡र्णांसि ऐरयतं नदी꣡नाम्  
+आ꣡ समुद्रा꣡णि पप्रथुः पुरू꣡णि  

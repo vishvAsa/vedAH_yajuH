@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-gárbhe nú nau janitā́ dámpatī kar  
-devás tváṣṭā savitā́ viśvárūpaḥ  
-nákir asya prá minanti vratā́ni  
-véda nāv asyá pr̥thivī́ utá dyaúḥ  
+ग꣡र्भे नु꣡ नौ जनिता꣡ द꣡म्पती कर्  
+देव꣡स् त्व꣡ष्टा सविता꣡ विश्व꣡रूपः  
+न꣡किर् अस्य प्र꣡ मिनन्ति व्रता꣡नि  
+वे꣡द नाव् अस्य꣡ पृथिवी꣡ उत꣡ द्यउः꣡  

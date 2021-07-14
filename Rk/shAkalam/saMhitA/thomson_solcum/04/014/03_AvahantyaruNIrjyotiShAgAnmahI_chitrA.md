@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-āváhanti aruṇī́r jyótiṣā́gān  
-mahī́ citrā́ raśmíbhiś cékitānā  
-prabodháyantī suvitā́ya devī́  
-uṣā́ īyate suyújā ráthena  
+आव꣡हन्ति अरुणी꣡र् ज्यो꣡तिषा꣡गान्  
+मही꣡ चित्रा꣡ रश्मि꣡भिश् चे꣡किताना  
+प्रबोध꣡यन्ती सुविता꣡य देवी꣡  
+उषा꣡ ईयते सुयु꣡जा र꣡थेन  

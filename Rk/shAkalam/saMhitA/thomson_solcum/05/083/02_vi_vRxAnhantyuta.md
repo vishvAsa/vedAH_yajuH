@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ví vr̥kṣā́n hanti utá hanti rakṣáso  
-víśvam bibhāya bhúvanam mahā́vadhāt  
-utā́nāgā īṣate vŕ̥ṣṇiyāvato  
-yát parjánya stanáyan hánti duṣkŕ̥taḥ  
+वि꣡ वृक्षा꣡न् हन्ति उत꣡ हन्ति रक्ष꣡सो  
+वि꣡श्वम् बिभाय भु꣡वनम् महा꣡वधात्  
+उता꣡नागा ईषते व्ŕ̥ष्णियावतो  
+य꣡त् पर्ज꣡न्य स्तन꣡यन् ह꣡न्ति दुष्क्ŕ̥तः  

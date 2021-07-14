@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-samrā́jo yé suvŕ̥dho yajñám āyayúr  
-áparihvr̥tā dadhiré diví kṣáyam  
-tā́m̐ ā́ vivāsa námasā suvr̥ktíbhir  
-mahó ādityā́m̐ áditiṃ suastáye  
+सम्रा꣡जो ये꣡ सुव्ŕ̥धो यज्ञ꣡म् आययु꣡र्  
+अ꣡परिह्वृता दधिरे꣡ दिवि꣡ क्ष꣡यम्  
+ताँ꣡ आ꣡ विवास न꣡मसा सुवृक्ति꣡भिर्  
+महो꣡ आदित्याँ꣡ अ꣡दितिं सुअस्त꣡ये  

@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-mā́ vo dātrā́n maruto nír arāma  
-mā́ paścā́d daghma rathiyo vibhāgé  
-ā́ na spārhé bhajatanā vasavyè  
-yád īṃ sujātáṃ vr̥ṣaṇo vo ásti  
+मा꣡ वो दात्रा꣡न् मरुतो नि꣡र् अराम  
+मा꣡ पश्चा꣡द् दघ्म रथियो विभागे꣡  
+आ꣡ न स्पार्हे꣡ भजतना वसव्ये᳡  
+य꣡द् ईं सुजातं꣡ वृषणो वो अ꣡स्ति  

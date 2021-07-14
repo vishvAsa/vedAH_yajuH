@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sámiddho agnír níhitaḥ pr̥thivyā́m  
-pratyáṅ víśvāni bhúvanāni asthāt  
-hótā pavākáḥ+ pradívaḥ sumedhā́  
-devó devā́n yajatu agnír árhan  
+स꣡मिद्धो अग्नि꣡र् नि꣡हितः पृथिव्या꣡म्  
+प्रत्य꣡ङ् वि꣡श्वानि भु꣡वनानि अस्थात्  
+हो꣡ता पवाकः꣡+ प्रदि꣡वः सुमेधा꣡  
+देवो꣡ देवा꣡न् यजतु अग्नि꣡र् अ꣡र्हन्  

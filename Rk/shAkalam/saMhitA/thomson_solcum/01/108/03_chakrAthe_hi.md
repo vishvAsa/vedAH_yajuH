@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-cakrā́the hí sadhríaṅ nā́ma bhadráṃ  
-sadhrīcīnā́ vr̥trahaṇā utá sthaḥ  
-tā́v indrāgnī sadhríañcā niṣádyā  
-vŕ̥ṣṇaḥ sómasya vr̥ṣaṇā́ vr̥ṣethām  
+चक्रा꣡थे हि꣡ सध्रि꣡अङ् ना꣡म भद्रं꣡  
+सध्रीचीना꣡ वृत्रहणा उत꣡ स्थः  
+ता꣡व् इन्द्राग्नी सध्रि꣡अञ्चा निष꣡द्या  
+व्ŕ̥ष्णः सो꣡मस्य वृषणा꣡ वृषेथाम्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-índraḥ suśípro maghávā tárutro  
-mahā́vrātas tuvikūrmír ŕ̥ghāvān  
-yád ugró dhā́ bādhitó mártiyeṣu  
-kúva tyā́ te vr̥ṣabha vīríyāṇi  
+इ꣡न्द्रः सुशि꣡प्रो मघ꣡वा त꣡रुत्रो  
+महा꣡व्रातस् तुविकूर्मि꣡र् ŕ̥घावान्  
+य꣡द् उग्रो꣡ धा꣡ बाधितो꣡ म꣡र्तियेषु  
+कु꣡व त्या꣡ ते वृषभ वीरि꣡याणि  

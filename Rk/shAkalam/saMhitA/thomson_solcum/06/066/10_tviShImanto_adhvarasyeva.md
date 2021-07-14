@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tvíṣīmanto adhvarásyeva didyút  
-tr̥ṣucyávaso juhúvo ná agnéḥ  
-arcátrayo · dhúnayo ná vīrā́  
-bhrā́jajjanmāno marúto ádhr̥ṣṭāḥ  
+त्वि꣡षीमन्तो अध्वर꣡स्येव दिद्यु꣡त्  
+तृषुच्य꣡वसो जुहु꣡वो न꣡ अग्नेः꣡  
+अर्च꣡त्रयो · धु꣡नयो न꣡ वीरा꣡  
+भ्रा꣡जज्जन्मानो मरु꣡तो अ꣡धृष्टाः  

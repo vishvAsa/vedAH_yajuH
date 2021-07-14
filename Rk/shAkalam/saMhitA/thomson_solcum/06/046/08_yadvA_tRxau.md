@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yád vā tr̥kṣaú maghavan druhyā́v ā́ jáne  
-yát pūraú kác ca vŕ̥ṣṇiyam  
-asmábhyaṃ tád rirīhi sáṃ nr̥ṣā́hiye  
-amítrān pr̥tsú turváṇe  
+य꣡द् वा तृक्षउ꣡ मघवन् द्रुह्या꣡व् आ꣡ ज꣡ने  
+य꣡त् पूरउ꣡ क꣡च् च व्ŕ̥ष्णियम्  
+अस्म꣡भ्यं त꣡द् रिरीहि सं꣡ नृषा꣡हिये  
+अमि꣡त्रान् पृत्सु꣡ तुर्व꣡णे  

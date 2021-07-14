@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-míhaḥ pavākā́ḥ+ prátatā abhūvan  
-suastí naḥ pipr̥hi pārám āsām  
-índra tváṃ rathiráḥ pāhi no riṣó  
-makṣū́-makṣū kr̥ṇuhi gojíto naḥ  
+मि꣡हः पवाकाः꣡+ प्र꣡तता अभूवन्  
+सुअस्ति꣡ नः पिपृहि पार꣡म् आसाम्  
+इ꣡न्द्र त्वं꣡ रथिरः꣡ पाहि नो रिषो꣡  
+मक्षू꣡-मक्षू कृणुहि गोजि꣡तो नः  

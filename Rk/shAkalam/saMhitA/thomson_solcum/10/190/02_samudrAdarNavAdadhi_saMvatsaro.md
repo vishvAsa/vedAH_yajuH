@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-samudrā́d arṇavā́d ádhi  
-saṃvatsaró ajāyata  
-ahorātrā́ṇi vidádhad  
-víśvasya miṣató vaśī́  
+समुद्रा꣡द् अर्णवा꣡द् अ꣡धि  
+संवत्सरो꣡ अजायत  
+अहोरात्रा꣡णि विद꣡धद्  
+वि꣡श्वस्य मिषतो꣡ वशी꣡  

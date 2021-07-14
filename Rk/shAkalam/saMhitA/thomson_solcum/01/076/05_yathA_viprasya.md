@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yáthā víprasya mánuṣo havírbhir  
-devā́m̐ áyajaḥ kavíbhiḥ kavíḥ sán  
-evā́ hotaḥ satyatara tvám adyá  
-ágne mandráyā juhúvā yajasva  
+य꣡था वि꣡प्रस्य म꣡नुषो हवि꣡र्भिर्  
+देवाँ꣡ अ꣡यजः कवि꣡भिः कविः꣡ स꣡न्  
+एवा꣡ होतः सत्यतर त्व꣡म् अद्य꣡  
+अ꣡ग्ने मन्द्र꣡या जुहु꣡वा यजस्व  

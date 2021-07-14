@@ -2,9 +2,9 @@
 title = "001"
 
 +++
-bhadráṃ no ápi vātaya  
-máno dákṣam utá krátum  
-ádhā te sakhyé ándhaso  
-ví vo máde  
-ráṇan gā́vo ná yávase  
-vívakṣase  
+भद्रं꣡ नो अ꣡पि वातय  
+म꣡नो द꣡क्षम् उत꣡ क्र꣡तुम्  
+अ꣡धा ते सख्ये꣡ अ꣡न्धसो  
+वि꣡ वो म꣡दे  
+र꣡णन् गा꣡वो न꣡ य꣡वसे  
+वि꣡वक्षसे  

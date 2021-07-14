@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yáthā́hāni anupūrvám bhávanti  
-yátha rtáva r̥túbhir yánti sādhú  
-yáthā ná pū́rvam áparo jáhāti  
-evā́ dhātar ā́yūṃṣi kalpayaiṣām  
+य꣡था꣡हानि अनुपूर्व꣡म् भ꣡वन्ति  
+य꣡थ र्त꣡व ऋतु꣡भिर् य꣡न्ति साधु꣡  
+य꣡था न꣡ पू꣡र्वम् अ꣡परो ज꣡हाति  
+एवा꣡ धातर् आ꣡यूंषि कल्पयैषाम्  

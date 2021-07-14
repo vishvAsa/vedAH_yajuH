@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tuvā́m agna r̥tāyávaḥ sám īdhire  
-pratnám pratnā́sa ūtáye sahaskr̥ta  
-puruścandráṃ yajatáṃ viśvádhāyasaṃ  
-dámūnasaṃ gr̥hápatiṃ váreṇiyam  
+तुवा꣡म् अग्न ऋताय꣡वः स꣡म् ईधिरे  
+प्रत्न꣡म् प्रत्ना꣡स ऊत꣡ये सहस्कृत  
+पुरुश्चन्द्रं꣡ यजतं꣡ विश्व꣡धायसं  
+द꣡मूनसं गृह꣡पतिं व꣡रेणियम्  

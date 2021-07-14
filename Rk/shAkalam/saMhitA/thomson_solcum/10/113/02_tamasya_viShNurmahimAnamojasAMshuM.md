@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tám asya víṣṇur mahimā́nam ójasā  
-aṃśúṃ dadhanvā́n mádhuno ví rapśate  
-devébhir índro maghávā sayā́vabhir  
-vr̥tráṃ jaghanvā́m̐ abhavad váreṇiyaḥ  
+त꣡म् अस्य वि꣡ष्णुर् महिमा꣡नम् ओ꣡जसा  
+अंशुं꣡ दधन्वा꣡न् म꣡धुनो वि꣡ रप्शते  
+देवे꣡भिर् इ꣡न्द्रो मघ꣡वा सया꣡वभिर्  
+वृत्रं꣡ जघन्वाँ꣡ अभवद् व꣡रेणियः  

@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-víśvā hí martiyatvanā́  
-anukāmā́ śatakrato  
-áganma vajrinn āśásaḥ  
+वि꣡श्वा हि꣡ मर्तियत्वना꣡  
+अनुकामा꣡ शतक्रतो  
+अ꣡गन्म वज्रिन्न् आश꣡सः  

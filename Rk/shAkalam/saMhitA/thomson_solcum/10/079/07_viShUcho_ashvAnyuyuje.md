@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-víṣūco áśvān yuyuje vanejā́  
-ŕ̥jītibhī raśanā́bhir gr̥bhītā́n  
-cakṣadé mitró vásubhiḥ sújātaḥ  
-sám ānr̥dhe párvabhir vāvr̥dhānáḥ  
+वि꣡षूचो अ꣡श्वान् युयुजे वनेजा꣡  
+ŕ̥जीतिभी रशना꣡भिर् गृभीता꣡न्  
+चक्षदे꣡ मित्रो꣡ व꣡सुभिः सु꣡जातः  
+स꣡म् आनृधे प꣡र्वभिर् वावृधानः꣡  

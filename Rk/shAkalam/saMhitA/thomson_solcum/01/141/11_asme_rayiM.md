@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-asmé rayíṃ ná suárthaṃ dámūnasam  
-bhágaṃ dákṣaṃ ná papr̥cāsi dharṇasím  
-raśmī́m̐r 'va° yó yámati jánmanī ubhé  
-devā́nāṃ śáṃsam r̥tá ā́ ca sukrátuḥ  
+अस्मे꣡ रयिं꣡ न꣡ सुअ꣡र्थं द꣡मूनसम्  
+भ꣡गं द꣡क्षं न꣡ पपृचासि धर्णसि꣡म्  
+रश्मीँ꣡र् ऽव° यो꣡ य꣡मति ज꣡न्मनी उभे꣡  
+देवा꣡नां शं꣡सम् ऋत꣡ आ꣡ च सुक्र꣡तुः  

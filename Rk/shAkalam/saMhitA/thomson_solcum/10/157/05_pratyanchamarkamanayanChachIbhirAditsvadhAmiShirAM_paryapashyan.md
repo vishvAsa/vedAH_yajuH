@@ -2,5 +2,5 @@
 title = "005"
 
 +++
-pratyáñcam arkám anayañ chácībhir  
-ā́d ít svadhā́m iṣirā́m páry apaśyan  
+प्रत्य꣡ञ्चम् अर्क꣡म् अनयञ् छ꣡चीभिर्  
+आ꣡द् इ꣡त् स्वधा꣡म् इषिरा꣡म् प꣡र्य् अपश्यन्  

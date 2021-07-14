@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuvā́m mr̥janti dáśa yóṣaṇaḥ sutáṃ  
-sóma ŕ̥ṣibhir matíbhir dhītíbhir hitám  
-ávyo vā́rebhir utá deváhūtibhir  
-nŕ̥bhir yató vā́jam ā́ darṣi sātáye  
+तुवा꣡म् मृजन्ति द꣡श यो꣡षणः सुतं꣡  
+सो꣡म ŕ̥षिभिर् मति꣡भिर् धीति꣡भिर् हित꣡म्  
+अ꣡व्यो वा꣡रेभिर् उत꣡ देव꣡हूतिभिर्  
+न्ŕ̥भिर् यतो꣡ वा꣡जम् आ꣡ दर्षि सात꣡ये  

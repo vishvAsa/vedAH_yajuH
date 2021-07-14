@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-rā́jantam adhvarā́ṇãṃ  
-gopā́m r̥tásya dī́divim  
-várdhamānaṃ suvé dáme  
+रा꣡जन्तम् अध्वरा꣡ण्ãं  
+गोपा꣡म् ऋत꣡स्य दी꣡दिविम्  
+व꣡र्धमानं सुवे꣡ द꣡मे  

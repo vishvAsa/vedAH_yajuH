@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ŕ̥dhag itthā́ sá mártiyaḥ  
-śaśamé devátātaye  
-yó nūnám mitrā́váruṇāv abhíṣṭaya  
-ācakré havyádātaye  
+ŕ̥धग् इत्था꣡ स꣡ म꣡र्तियः  
+शशमे꣡ देव꣡तातये  
+यो꣡ नून꣡म् मित्रा꣡व꣡रुणाव् अभि꣡ष्टय  
+आचक्रे꣡ हव्य꣡दातये  

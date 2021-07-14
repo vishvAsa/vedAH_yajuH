@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sasváś cid dhí tanúvaḥ śúmbhamānā  
-ā́ haṃsā́so nī́lapr̥ṣṭhā apaptan  
-víśvaṃ śárdho abhíto mā ní ṣeda  
-náro ná raṇvā́ḥ sávane mádantaḥ  
+सस्व꣡श् चिद् धि꣡ तनु꣡वः शु꣡म्भमाना  
+आ꣡ हंसा꣡सो नी꣡लपृष्ठा अपप्तन्  
+वि꣡श्वं श꣡र्धो अभि꣡तो मा नि꣡ षेद  
+न꣡रो न꣡ रण्वाः꣡ स꣡वने म꣡दन्तः  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sutá índrāya vāyáve  
-váruṇāya marúdbhiyaḥ  
-sómo arṣati víṣṇave  
+सुत꣡ इ꣡न्द्राय वाय꣡वे  
+व꣡रुणाय मरु꣡द्भियः  
+सो꣡मो अर्षति वि꣡ष्णवे  

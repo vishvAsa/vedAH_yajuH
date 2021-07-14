@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-párehi vígram ástr̥tam  
-índram pr̥chā vipaścítam  
-yás te sákhibhya ā́ váram  
+प꣡रेहि वि꣡ग्रम् अ꣡स्तृतम्  
+इ꣡न्द्रम् पृछा विपश्चि꣡तम्  
+य꣡स् ते स꣡खिभ्य आ꣡ व꣡रम्  

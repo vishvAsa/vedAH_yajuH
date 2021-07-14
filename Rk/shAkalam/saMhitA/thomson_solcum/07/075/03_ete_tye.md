@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-eté tiyé bhānávo darśatā́yāś  
-citrā́ uṣáso amŕ̥tāsa ā́guḥ  
-janáyanto daíviyāni vratā́ni  
-āpr̥ṇánto antárikṣā ví asthuḥ  
+एते꣡ तिये꣡ भान꣡वो दर्शता꣡याश्  
+चित्रा꣡ उष꣡सो अम्ŕ̥तास आ꣡गुः  
+जन꣡यन्तो दइ꣡वियानि व्रता꣡नि  
+आपृण꣡न्तो अन्त꣡रिक्षा वि꣡ अस्थुः  

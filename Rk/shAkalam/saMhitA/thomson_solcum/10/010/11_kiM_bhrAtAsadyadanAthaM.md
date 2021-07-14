@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-kím bhrā́tāsad yád anāthám bhávāti  
-kím u svásā yán nírr̥tir nigáchāt  
-kā́mamūtā bahú etád rapāmi  
-tanúvā me tanúvaṃ sám pipr̥gdhi  
+कि꣡म् भ्रा꣡तासद् य꣡द् अनाथ꣡म् भ꣡वाति  
+कि꣡म् उ स्व꣡सा य꣡न् नि꣡रृतिर् निग꣡छात्  
+का꣡ममूता बहु꣡ एत꣡द् रपामि  
+तनु꣡वा मे तनु꣡वं स꣡म् पिपृग्धि  

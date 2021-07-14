@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-stotā́ yát te ánuvrata  
-ukthā́ni r̥tuthā́ dadhé  
-śúciḥ pavāká+ ucyate só ádbhutaḥ  
+स्तोता꣡ य꣡त् ते अ꣡नुव्रत  
+उक्था꣡नि ऋतुथा꣡ दधे꣡  
+शु꣡चिः पवाक꣡+ उच्यते सो꣡ अ꣡द्भुतः  

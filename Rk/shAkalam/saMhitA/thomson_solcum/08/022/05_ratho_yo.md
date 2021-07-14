@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-rátho yó vāṃ trivandhuró  
-híraṇyābhīśur aśvinā  
-pári dyā́vāpr̥thivī́ bhū́ṣati śrutás  
-téna nāsatiyā́ gatam  
+र꣡थो यो꣡ वां त्रिवन्धुरो꣡  
+हि꣡रण्याभीशुर् अश्विना  
+प꣡रि द्या꣡वापृथिवी꣡ भू꣡षति श्रुत꣡स्  
+ते꣡न नासतिया꣡ गतम्  

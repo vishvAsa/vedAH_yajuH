@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ágne táva śrávo váyo  
-máhi bhrājante arcáyo vibhāvaso  
-bŕ̥hadbhāno śávasā vā́jam ukthíyaṃ  
-dádhāsi dāśúṣe kave  
+अ꣡ग्ने त꣡व श्र꣡वो व꣡यो  
+म꣡हि भ्राजन्ते अर्च꣡यो विभावसो  
+ब्ŕ̥हद्भानो श꣡वसा वा꣡जम् उक्थि꣡यं  
+द꣡धासि दाशु꣡षे कवे  

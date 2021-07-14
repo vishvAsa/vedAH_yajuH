@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-gúhā śíro níhitam ŕ̥dhag akṣī́  
-ásinvann atti jihváyā vánāni  
-átrāṇi asmai paḍbhíḥ sám bharanti  
-uttānáhastā námasā́dhi vikṣú  
+गु꣡हा शि꣡रो नि꣡हितम् ŕ̥धग् अक्षी꣡  
+अ꣡सिन्वन्न् अत्ति जिह्व꣡या व꣡नानि  
+अ꣡त्राणि अस्मै पड्भिः꣡ स꣡म् भरन्ति  
+उत्तान꣡हस्ता न꣡मसा꣡धि विक्षु꣡  

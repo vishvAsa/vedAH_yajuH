@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ágne nákṣatram ajáram  
-ā́ sū́ryaṃ rohayo diví  
-dádhaj jyótir jánebhiyaḥ  
+अ꣡ग्ने न꣡क्षत्रम् अज꣡रम्  
+आ꣡ सू꣡र्यं रोहयो दिवि꣡  
+द꣡धज् ज्यो꣡तिर् ज꣡नेभियः  

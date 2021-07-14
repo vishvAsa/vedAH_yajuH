@@ -2,9 +2,9 @@
 title = "012"
 
 +++
-tríḥ saptá viṣpuliṅgakā́  
-viṣásya púṣiyam akṣan  
-tā́ś cin nú ná maranti  
-nó vayám marāma  
-āré asya yójanaṃ hariṣṭhā́  
-mádhu tvā madhulā́ cakāra  
+त्रिः꣡ सप्त꣡ विष्पुलिङ्गका꣡  
+विष꣡स्य पु꣡षियम् अक्षन्  
+ता꣡श् चिन् नु꣡ न꣡ मरन्ति  
+नो꣡ वय꣡म् मराम  
+आरे꣡ अस्य यो꣡जनं हरिष्ठा꣡  
+म꣡धु त्वा मधुला꣡ चकार  

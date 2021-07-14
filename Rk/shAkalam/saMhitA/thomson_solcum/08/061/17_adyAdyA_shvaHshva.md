@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-adyá-adyā śuváḥ-śuva  
-índra trā́sva paré ca naḥ  
-víśvā ca no jaritr̥̄́n satpate áhā  
-dívā náktaṃ ca rakṣiṣaḥ  
+अद्य꣡-अद्या शुवः꣡-शुव  
+इ꣡न्द्र त्रा꣡स्व परे꣡ च नः  
+वि꣡श्वा च नो जरितॄ꣡न् सत्पते अ꣡हा  
+दि꣡वा न꣡क्तं च रक्षिषः  

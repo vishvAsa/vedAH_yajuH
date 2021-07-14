@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-tuváṃ soma mahé bhágaṃ  
-tuváṃ yū́na r̥tāyaté  
-dákṣaṃ dadhāsi jīváse  
+तुवं꣡ सोम महे꣡ भ꣡गं  
+तुवं꣡ यू꣡न ऋतायते꣡  
+द꣡क्षं दधासि जीव꣡से  

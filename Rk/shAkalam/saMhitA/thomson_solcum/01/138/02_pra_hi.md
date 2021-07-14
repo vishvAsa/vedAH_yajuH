@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-prá hí tvā pūṣann ajiráṃ ná yā́mani  
-stómebhiḥ kr̥ṇvá r̥ṇávo yáthā mŕ̥dha  
-úṣṭro ná pīparo mŕ̥dhaḥ  
-huvé yát tvā mayobhúvaṃ  
-deváṃ sakhyā́ya mártiyaḥ  
-asmā́kam · āṅgūṣā́n dyumnínas kr̥dhi  
-vā́jeṣu dyumnínas kr̥dhi  
+प्र꣡ हि꣡ त्वा पूषन्न् अजिरं꣡ न꣡ या꣡मनि  
+स्तो꣡मेभिः कृण्व꣡ ऋण꣡वो य꣡था म्ŕ̥ध  
+उ꣡ष्ट्रो न꣡ पीपरो म्ŕ̥धः  
+हुवे꣡ य꣡त् त्वा मयोभु꣡वं  
+देवं꣡ सख्या꣡य म꣡र्तियः  
+अस्मा꣡कम् · आङ्गूषा꣡न् द्युम्नि꣡नस् कृधि  
+वा꣡जेषु द्युम्नि꣡नस् कृधि  

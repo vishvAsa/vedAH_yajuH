@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-nahí devó ná mártiyo  
-mahás táva krátum paráḥ  
-marúdbhir agna ā́ gahi  
+नहि꣡ देवो꣡ न꣡ म꣡र्तियो  
+मह꣡स् त꣡व क्र꣡तुम् परः꣡  
+मरु꣡द्भिर् अग्न आ꣡ गहि  

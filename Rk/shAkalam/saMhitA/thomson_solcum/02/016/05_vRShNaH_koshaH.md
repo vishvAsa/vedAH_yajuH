@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vŕ̥ṣṇaḥ kóśaḥ pavate mádhva ūrmír  
-vr̥ṣabhā́nnāya vr̥ṣabhā́ya pā́tave  
-vŕ̥ṣaṇādhvaryū́ vr̥ṣabhā́so ádrayo  
-vŕ̥ṣaṇaṃ sómaṃ vr̥ṣabhā́ya suṣvati  
+व्ŕ̥ष्णः को꣡शः पवते म꣡ध्व ऊर्मि꣡र्  
+वृषभा꣡न्नाय वृषभा꣡य पा꣡तवे  
+व्ŕ̥षणाध्वर्यू꣡ वृषभा꣡सो अ꣡द्रयो  
+व्ŕ̥षणं सो꣡मं वृषभा꣡य सुष्वति  

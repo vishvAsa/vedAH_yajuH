@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-índra vā́jeṣu no ava  
-sahásrapradhaneṣu ca  
-ugrá ugrā́bhir ūtíbhiḥ  
+इ꣡न्द्र वा꣡जेषु नो अव  
+सह꣡स्रप्रधनेषु च  
+उग्र꣡ उग्रा꣡भिर् ऊति꣡भिः  

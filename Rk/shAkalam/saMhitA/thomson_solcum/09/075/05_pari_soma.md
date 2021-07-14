@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-pári soma prá dhanuvā suastáye  
-nŕ̥bhiḥ punānó abhí vāsayāśíram  
-yé te mádā āhanáso víhāyasas  
-tébhir índraṃ codaya dā́tave maghám  
+प꣡रि सोम प्र꣡ धनुवा सुअस्त꣡ये  
+न्ŕ̥भिः पुनानो꣡ अभि꣡ वासयाशि꣡रम्  
+ये꣡ ते म꣡दा आहन꣡सो वि꣡हायसस्  
+ते꣡भिर् इ꣡न्द्रं चोदय दा꣡तवे मघ꣡म्  

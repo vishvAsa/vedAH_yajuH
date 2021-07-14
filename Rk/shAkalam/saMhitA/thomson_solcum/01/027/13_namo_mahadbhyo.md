@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-námo mahádbhyo námo arbhakébhyo  
-námo yúvabhyo náma āśinébhyaḥ  
-yájāma devā́n yádi śaknávāma  
-mā́ jyā́yasaḥ śáṃsam ā́ vr̥kṣi devāḥ  
+न꣡मो मह꣡द्भ्यो न꣡मो अर्भके꣡भ्यो  
+न꣡मो यु꣡वभ्यो न꣡म आशिने꣡भ्यः  
+य꣡जाम देवा꣡न् य꣡दि शक्न꣡वाम  
+मा꣡ ज्या꣡यसः शं꣡सम् आ꣡ वृक्षि देवाः  

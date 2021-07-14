@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-té ma āhur yá āyayúr  
-úpa dyúbhir víbhir máde  
-náro máryā arepása  
-imā́n páśyann íti ṣṭuhi  
+ते꣡ म आहुर् य꣡ आययु꣡र्  
+उ꣡प द्यु꣡भिर् वि꣡भिर् म꣡दे  
+न꣡रो म꣡र्या अरेप꣡स  
+इमा꣡न् प꣡श्यन्न् इ꣡ति ष्टुहि  

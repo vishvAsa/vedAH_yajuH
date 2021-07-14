@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yád adyá vāṃ nāsatiyā  
-ukthaír ācucyuvīmáhi  
-yád vā vā́ṇībhir aśvinā  
-evét kāṇvásya bodhatam  
+य꣡द् अद्य꣡ वां नासतिया  
+उक्थइ꣡र् आचुच्युवीम꣡हि  
+य꣡द् वा वा꣡णीभिर् अश्विना  
+एवे꣡त् काण्व꣡स्य बोधतम्  

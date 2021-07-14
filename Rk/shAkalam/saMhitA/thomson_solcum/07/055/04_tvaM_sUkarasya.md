@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-tváṃ sūkarásya dardr̥hi  
-táva dardartu sūkaráḥ  
-stotr̥̄́n índrasya rāyasi  
-kím asmā́n duchunāyase  
-ní ṣú svapa  
+त्वं꣡ सूकर꣡स्य दर्दृहि  
+त꣡व दर्दर्तु सूकरः꣡  
+स्तोतॄ꣡न् इ꣡न्द्रस्य रायसि  
+कि꣡म् अस्मा꣡न् दुछुनायसे  
+नि꣡ षु꣡ स्वप  

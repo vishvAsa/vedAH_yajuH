@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá īm mahī́ṃ dhúnim étor aramṇāt  
-só asnātr̥̄́n apārayat suastí  
-tá utsnā́ya rayím abhí prá tasthuḥ  
-sómasya tā́ máda índraś cakāra  
+स꣡ ईम् महीं꣡ धु꣡निम् ए꣡तोर् अरम्णात्  
+सो꣡ अस्नातॄ꣡न् अपारयत् सुअस्ति꣡  
+त꣡ उत्स्ना꣡य रयि꣡म् अभि꣡ प्र꣡ तस्थुः  
+सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार  

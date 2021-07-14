@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imā́ rudrā́ya taváse kapardíne  
-kṣayádvīrāya prá bharāmahe matī́ḥ  
-yáthā śám ásad dvipáde cátuṣpade  
-víśvam puṣṭáṃ grā́me asmínn anāturám  
+इमा꣡ रुद्रा꣡य तव꣡से कपर्दि꣡ने  
+क्षय꣡द्वीराय प्र꣡ भरामहे मतीः꣡  
+य꣡था श꣡म् अ꣡सद् द्विप꣡दे च꣡तुष्पदे  
+वि꣡श्वम् पुष्टं꣡ ग्रा꣡मे अस्मि꣡न्न् अनातुर꣡म्  

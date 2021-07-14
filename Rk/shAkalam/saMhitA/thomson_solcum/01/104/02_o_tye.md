@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ó tiyé nára índram ūtáye gur  
-nū́ cit tā́n sadyó ádhvano jagamyāt  
-devā́so manyúṃ dã́sasya ścamnan  
-té na ā́ vakṣan suvitā́ya várṇam  
+ओ꣡ तिये꣡ न꣡र इ꣡न्द्रम् ऊत꣡ये गुर्  
+नू꣡ चित् ता꣡न् सद्यो꣡ अ꣡ध्वनो जगम्यात्  
+देवा꣡सो मन्युं꣡ द्ã꣡सस्य श्चम्नन्  
+ते꣡ न आ꣡ वक्षन् सुविता꣡य व꣡र्णम्  

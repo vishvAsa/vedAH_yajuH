@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-té no gr̥ṇāné mahinī máhi śrávaḥ  
-kṣatráṃ dyāvāpr̥thivī dhāsatho br̥hát  
-yénābhí kr̥ṣṭī́s tatánāma viśváhā  
-panā́yiyam ójo asmé sám invatam  
+ते꣡ नो गृणाने꣡ महिनी म꣡हि श्र꣡वः  
+क्षत्रं꣡ द्यावापृथिवी धासथो बृह꣡त्  
+ये꣡नाभि꣡ कृष्टी꣡स् तत꣡नाम विश्व꣡हा  
+पना꣡यियम् ओ꣡जो अस्मे꣡ स꣡म् इन्वतम्  

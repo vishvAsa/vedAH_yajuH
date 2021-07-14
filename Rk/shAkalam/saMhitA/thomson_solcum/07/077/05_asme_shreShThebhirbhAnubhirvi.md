@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-asmé śréṣṭhebhir bhānúbhir ví bhāhi  
-úṣo devi pratirántī na ā́yuḥ  
-íṣaṃ ca no dádhatī viśvavāre  
-gómad áśvāvad ráthavac ca rā́dhaḥ  
+अस्मे꣡ श्रे꣡ष्ठेभिर् भानु꣡भिर् वि꣡ भाहि  
+उ꣡षो देवि प्रतिर꣡न्ती न आ꣡युः  
+इ꣡षं च नो द꣡धती विश्ववारे  
+गो꣡मद् अ꣡श्वावद् र꣡थवच् च रा꣡धः  

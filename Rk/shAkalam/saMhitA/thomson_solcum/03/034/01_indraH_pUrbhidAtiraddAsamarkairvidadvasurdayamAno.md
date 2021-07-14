@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índraḥ pūrbhíd ā́tirad dā́sam arkaír  
-vidádvasur dáyamāno ví śátrūn  
-bráhmajūtas tanúvā vāvr̥dhānó  
-bhū́ridātra ā́pr̥ṇad ródasī ubhé  
+इ꣡न्द्रः पूर्भि꣡द् आ꣡तिरद् दा꣡सम् अर्कइ꣡र्  
+विद꣡द्वसुर् द꣡यमानो वि꣡ श꣡त्रून्  
+ब्र꣡ह्मजूतस् तनु꣡वा वावृधानो꣡  
+भू꣡रिदात्र आ꣡पृणद् रो꣡दसी उभे꣡  

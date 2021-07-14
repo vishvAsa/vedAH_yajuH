@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-vidyúto jyótiḥ pári saṃjíhānam  
-mitrā́váruṇā yád ápaśyatāṃ tvā  
-tát te jánma utá ékaṃ vasiṣṭha  
-agástyo yát tvā viśá ājabhā́ra  
+विद्यु꣡तो ज्यो꣡तिः प꣡रि संजि꣡हानम्  
+मित्रा꣡व꣡रुणा य꣡द् अ꣡पश्यतां त्वा  
+त꣡त् ते ज꣡न्म उत꣡ ए꣡कं वसिष्ठ  
+अग꣡स्त्यो य꣡त् त्वा विश꣡ आजभा꣡र  

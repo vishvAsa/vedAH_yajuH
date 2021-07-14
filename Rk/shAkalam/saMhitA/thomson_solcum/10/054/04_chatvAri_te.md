@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-catvā́ri te asuríyāṇi nā́ma  
-ádābhiyāni mahiṣásya santi  
-tuvám aṅgá tā́ni víśvāni vitse  
-yébhiḥ kármāṇi maghavañ cakártha  
+चत्वा꣡रि ते असुरि꣡याणि ना꣡म  
+अ꣡दाभियानि महिष꣡स्य सन्ति  
+तुव꣡म् अङ्ग꣡ ता꣡नि वि꣡श्वानि वित्से  
+ये꣡भिः क꣡र्माणि मघवञ् चक꣡र्थ  

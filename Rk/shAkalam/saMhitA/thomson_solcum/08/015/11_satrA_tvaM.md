@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-satrā́ tuvám puruṣṭutam̐  
-éko vr̥trā́ṇi tośase  
-nā́nyá índrāt káraṇam bhū́ya invati  
+सत्रा꣡ तुव꣡म् पुरुष्टुतँ  
+ए꣡को वृत्रा꣡णि तोशसे  
+ना꣡न्य꣡ इ꣡न्द्रात् क꣡रणम् भू꣡य इन्वति  

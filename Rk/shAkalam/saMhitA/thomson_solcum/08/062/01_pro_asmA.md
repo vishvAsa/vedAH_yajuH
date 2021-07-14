@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-prá ū asmā úpastutim  
-bháratā yáj jújoṣati  
-ukthaír índrasya mā́hinaṃ  
-váyo vardhanti somíno  
-bhadrā́ índrasya rātáyaḥ  
+प्र꣡ ऊ अस्मा उ꣡पस्तुतिम्  
+भ꣡रता य꣡ज् जु꣡जोषति  
+उक्थइ꣡र् इ꣡न्द्रस्य मा꣡हिनं  
+व꣡यो वर्धन्ति सोमि꣡नो  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  

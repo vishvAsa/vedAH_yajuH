@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuvā́vato hí indra krátve ásmi  
-tuvā́vato avitúḥ śūra rātaú  
-víśvéd áhāni taviṣīva ugram̐  
-ókaḥ kr̥ṇuṣva harivo ná mardhīḥ  
+तुवा꣡वतो हि꣡ इन्द्र क्र꣡त्वे अ꣡स्मि  
+तुवा꣡वतो अवितुः꣡ शूर रातउ꣡  
+वि꣡श्वे꣡द् अ꣡हानि तविषीव उग्रँ  
+ओ꣡कः कृणुष्व हरिवो न꣡ मर्धीः  

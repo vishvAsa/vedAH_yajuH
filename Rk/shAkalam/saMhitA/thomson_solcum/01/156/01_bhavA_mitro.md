@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-bhávā mitró ná śéviyo ghr̥tā́sutir  
-víbhūtadyumna evayā́ u sapráthāḥ  
-ádhā te viṣṇo vidúṣā cid árdhiya  
-stómo yajñáś ca rā́dhiyo havíṣmatā  
+भ꣡वा मित्रो꣡ न꣡ शे꣡वियो घृता꣡सुतिर्  
+वि꣡भूतद्युम्न एवया꣡ उ सप्र꣡थाः  
+अ꣡धा ते विष्णो विदु꣡षा चिद् अ꣡र्धिय  
+स्तो꣡मो यज्ञ꣡श् च रा꣡धियो हवि꣡ष्मता  

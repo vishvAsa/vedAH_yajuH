@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-asyá śúṣmāso dadr̥śānápaver  
-jéhamānasya svanayan niyúdbhiḥ  
-pratnébhir yó rúśadbhir devátamo  
-ví rébhadbhir aratír bhā́ti víbhvā  
+अस्य꣡ शु꣡ष्मासो ददृशान꣡पवेर्  
+जे꣡हमानस्य स्वनयन् नियु꣡द्भिः  
+प्रत्ने꣡भिर् यो꣡ रु꣡शद्भिर् देव꣡तमो  
+वि꣡ रे꣡भद्भिर् अरति꣡र् भा꣡ति वि꣡भ्वा  

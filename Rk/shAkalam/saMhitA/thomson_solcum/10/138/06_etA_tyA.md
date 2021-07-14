@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-etā́ tiyā́ te śrútiyāni kévalā  
-yád éka ékam ákr̥ṇor ayajñám  
-māsā́ṃ vidhā́nam adadhā ádhi dyávi  
-tváyā víbhinnam bharati pradhím pitā́  
+एता꣡ तिया꣡ ते श्रु꣡तियानि के꣡वला  
+य꣡द् ए꣡क ए꣡कम् अ꣡कृणोर् अयज्ञ꣡म्  
+मासां꣡ विधा꣡नम् अदधा अ꣡धि द्य꣡वि  
+त्व꣡या वि꣡भिन्नम् भरति प्रधि꣡म् पिता꣡  

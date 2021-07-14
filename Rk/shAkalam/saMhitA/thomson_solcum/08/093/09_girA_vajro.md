@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-girā́ vájro ná sámbhr̥taḥ  
-sábalo ánapacyutaḥ  
-vavakṣá r̥ṣvó ástr̥taḥ  
+गिरा꣡ व꣡ज्रो न꣡ स꣡म्भृतः  
+स꣡बलो अ꣡नपच्युतः  
+ववक्ष꣡ ऋष्वो꣡ अ꣡स्तृतः  

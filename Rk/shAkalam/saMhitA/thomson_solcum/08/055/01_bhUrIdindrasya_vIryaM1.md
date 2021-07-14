@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-bhū́rī́d índrasya vīríyaṃ  
-ví ákhyam abhí ā́yati  
-rā́dhas te dasyave vr̥ka  
+भू꣡री꣡द् इ꣡न्द्रस्य वीरि꣡यं  
+वि꣡ अ꣡ख्यम् अभि꣡ आ꣡यति  
+रा꣡धस् ते दस्यवे वृक  

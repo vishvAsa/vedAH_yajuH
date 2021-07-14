@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-asyá tveṣā́ ajárā asyá bhānávaḥ  
-susaṃdŕ̥śaḥ suprátīkasya sudyútaḥ  
-bhā́tvakṣaso áti aktúr ná síndhavo  
-agné rejante ásasanto ajárāḥ  
+अस्य꣡ त्वेषा꣡ अज꣡रा अस्य꣡ भान꣡वः  
+सुसंद्ŕ̥शः सुप्र꣡तीकस्य सुद्यु꣡तः  
+भा꣡त्वक्षसो अ꣡ति अक्तु꣡र् न꣡ सि꣡न्धवो  
+अग्ने꣡ रेजन्ते अ꣡ससन्तो अज꣡राः  

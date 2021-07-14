@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-mandrásya rūpáṃ vividur manīṣíṇaḥ  
-śyenó yád ándho ábharat parāvátaḥ  
-tám marjayanta suvŕ̥dhaṃ nadī́ṣu ā́m̐  
-uśántam aṃśúm pariyántam r̥gmíyam  
+मन्द्र꣡स्य रूपं꣡ विविदुर् मनीषि꣡णः  
+श्येनो꣡ य꣡द् अ꣡न्धो अ꣡भरत् पराव꣡तः  
+त꣡म् मर्जयन्त सुव्ŕ̥धं नदी꣡षु आँ꣡  
+उश꣡न्तम् अंशु꣡म् परिय꣡न्तम् ऋग्मि꣡यम्  

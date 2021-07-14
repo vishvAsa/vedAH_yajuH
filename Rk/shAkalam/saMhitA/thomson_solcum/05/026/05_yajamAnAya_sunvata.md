@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yájamānāya sunvatá  
-ā́gne suvī́riyaṃ vaha  
-devaír ā́ satsi barhíṣi  
+य꣡जमानाय सुन्वत꣡  
+आ꣡ग्ने सुवी꣡रियं वह  
+देवइ꣡र् आ꣡ सत्सि बर्हि꣡षि  

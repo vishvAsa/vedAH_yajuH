@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-vidvā́m̐ agne vayúnāni kṣitīnā́ṃ  
-ví ānuṣák churúdho jīváse dhāḥ  
-antarvidvā́m̐ ádhvano devayā́nān  
-átandro dūtó abhavo havirvā́ṭ  
+विद्वाँ꣡ अग्ने वयु꣡नानि क्षितीनां꣡  
+वि꣡ आनुष꣡क् छुरु꣡धो जीव꣡से धाः  
+अन्तर्विद्वाँ꣡ अ꣡ध्वनो देवया꣡नान्  
+अ꣡तन्द्रो दूतो꣡ अभवो हविर्वा꣡ट्  

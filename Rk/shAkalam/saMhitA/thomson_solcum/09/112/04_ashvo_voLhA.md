@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-áśvo vóḷhā sukháṃ ráthaṃ  
-hasanā́m upamantríṇaḥ  
-śépo rómaṇvantau bhedaú  
-vā́r ín maṇḍū́ka ichati  
-índrāyendo pári srava  
+अ꣡श्वो वो꣡ऌहा सुखं꣡ र꣡थं  
+हसना꣡म् उपमन्त्रि꣡णः  
+शे꣡पो रो꣡मण्वन्तौ भेदउ꣡  
+वा꣡र् इ꣡न् मण्डू꣡क इछति  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

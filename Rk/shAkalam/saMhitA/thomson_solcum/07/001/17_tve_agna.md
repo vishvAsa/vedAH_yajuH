@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-tuvé agna āhávanāni bhū́ri  
-īśānā́sa ā́ juhuyāma nítyā  
-ubhā́ kr̥ṇvánto vahatū́ miyédhe  
+तुवे꣡ अग्न आह꣡वनानि भू꣡रि  
+ईशाना꣡स आ꣡ जुहुयाम नि꣡त्या  
+उभा꣡ कृण्व꣡न्तो वहतू꣡ मिये꣡धे  

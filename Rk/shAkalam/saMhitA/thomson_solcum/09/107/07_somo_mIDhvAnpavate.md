@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sómo mīḍhvā́n pavate gātuvíttama  
-ŕ̥ṣir vípro vicakṣaṇáḥ  
-tuváṃ kavír abhavo devavī́tama  
-ā́ sū́ryaṃ rohayo diví  
+सो꣡मो मीढ्वा꣡न् पवते गातुवि꣡त्तम  
+ŕ̥षिर् वि꣡प्रो विचक्षणः꣡  
+तुवं꣡ कवि꣡र् अभवो देववी꣡तम  
+आ꣡ सू꣡र्यं रोहयो दिवि꣡  

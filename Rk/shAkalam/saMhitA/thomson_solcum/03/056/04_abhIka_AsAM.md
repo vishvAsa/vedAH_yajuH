@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-abhī́ka āsām padavī́r abodhi  
-ādityā́nām ahuve cā́ru nā́ma  
-ā́paś cid asmā aramanta devī́ḥ  
-pŕ̥thag vrájantīḥ pári ṣīm avr̥ñjan  
+अभी꣡क आसाम् पदवी꣡र् अबोधि  
+आदित्या꣡नाम् अहुवे चा꣡रु ना꣡म  
+आ꣡पश् चिद् अस्मा अरमन्त देवीः꣡  
+प्ŕ̥थग् व्र꣡जन्तीः प꣡रि षीम् अवृञ्जन्  

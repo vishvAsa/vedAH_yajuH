@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-imáṃ vidhánto apā́ṃ sadhásthe  
-paśúṃ ná naṣṭám padaír ánu gman  
-gúhā cátantam uśíjo námobhir  
-ichánto dhī́rā bhŕ̥gavo avindan  
+इमं꣡ विध꣡न्तो अपां꣡ सध꣡स्थे  
+पशुं꣡ न꣡ नष्ट꣡म् पदइ꣡र् अ꣡नु ग्मन्  
+गु꣡हा च꣡तन्तम् उशि꣡जो न꣡मोभिर्  
+इछ꣡न्तो धी꣡रा भ्ŕ̥गवो अविन्दन्  

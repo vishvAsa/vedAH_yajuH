@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-satyā́m āśíṣaṃ kr̥ṇutā vayodhaí  
-kīríṃ cid dhí ávatha svébhir évaiḥ  
-paścā́ mŕ̥dho ápa bhavantu víśvās  
-tád rodasī śr̥ṇutaṃ viśvaminvé  
+सत्या꣡म् आशि꣡षं कृणुता वयोधइ꣡  
+कीरिं꣡ चिद् धि꣡ अ꣡वथ स्वे꣡भिर् ए꣡वैः  
+पश्चा꣡ म्ŕ̥धो अ꣡प भवन्तु वि꣡श्वास्  
+त꣡द् रोदसी शृणुतं विश्वमिन्वे꣡  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́ mádhvo asmā asicann ámatram  
-índrāya pūrṇáṃ sá hí satyárādhāḥ  
-sá vāvr̥dhe várimann ā́ pr̥thivyā́  
-abhí krátvā náriyaḥ paúṃsiyaiś ca  
+आ꣡ म꣡ध्वो अस्मा असिचन्न् अ꣡मत्रम्  
+इ꣡न्द्राय पूर्णं꣡ स꣡ हि꣡ सत्य꣡राधाः  
+स꣡ वावृधे व꣡रिमन्न् आ꣡ पृथिव्या꣡  
+अभि꣡ क्र꣡त्वा न꣡रियः पउं꣡सियैश् च  

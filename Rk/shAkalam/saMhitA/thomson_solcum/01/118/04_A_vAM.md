@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ vāṃ śyenā́so aśvinā vahantu  
-ráthe yuktā́sa āśávaḥ pataṃgā́ḥ  
-yé aptúro diviyā́so ná gŕ̥dhrā  
-abhí práyo nāsatiyā váhanti  
+आ꣡ वां श्येना꣡सो अश्विना वहन्तु  
+र꣡थे युक्ता꣡स आश꣡वः पतंगाः꣡  
+ये꣡ अप्तु꣡रो दिविया꣡सो न꣡ ग्ŕ̥ध्रा  
+अभि꣡ प्र꣡यो नासतिया व꣡हन्ति  

@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-ásmā ít kā́viyaṃ váca  
-ukthám índrāya śáṃsiyam  
-tásmā u bráhmavāhase  
-gíro vardhanti átrayo  
-gíraḥ śumbhanti átrayaḥ  
+अ꣡स्मा इ꣡त् का꣡वियं व꣡च  
+उक्थ꣡म् इ꣡न्द्राय शं꣡सियम्  
+त꣡स्मा उ ब्र꣡ह्मवाहसे  
+गि꣡रो वर्धन्ति अ꣡त्रयो  
+गि꣡रः शुम्भन्ति अ꣡त्रयः  

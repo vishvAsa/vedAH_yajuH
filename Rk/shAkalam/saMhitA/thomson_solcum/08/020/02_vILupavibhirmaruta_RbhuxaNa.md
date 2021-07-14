@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vīḷupavíbhir maruta r̥bhukṣaṇa  
-ā́ rudrāsaḥ sudītíbhiḥ  
-iṣā́ no adyá ā́ gatā puruspr̥ho  
-yajñám ā́ sobharīyávaḥ  
+वीऌउपवि꣡भिर् मरुत ऋभुक्षण  
+आ꣡ रुद्रासः सुदीति꣡भिः  
+इषा꣡ नो अद्य꣡ आ꣡ गता पुरुस्पृहो  
+यज्ञ꣡म् आ꣡ सोभरीय꣡वः  

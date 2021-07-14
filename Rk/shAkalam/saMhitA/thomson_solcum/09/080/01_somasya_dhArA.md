@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sómasya dhā́rā pavate nr̥cákṣasa  
-r̥téna devā́n havate divás pári  
-bŕ̥haspáte raváthenā ví didyute  
-samudrā́so ná sávanāni vivyacuḥ  
+सो꣡मस्य धा꣡रा पवते नृच꣡क्षस  
+ऋते꣡न देवा꣡न् हवते दिव꣡स् प꣡रि  
+ब्ŕ̥हस्प꣡ते रव꣡थेना वि꣡ दिद्युते  
+समुद्रा꣡सो न꣡ स꣡वनानि विव्यचुः  

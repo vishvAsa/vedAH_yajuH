@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-hávanta u tvā háviyaṃ vívāci  
-tanū́ṣu śū́rāḥ sū́riyasya sātaú  
-tuváṃ víśveṣu séniyo jáneṣu  
-tuváṃ vr̥trā́ṇi randhayā suhántu  
+ह꣡वन्त उ त्वा ह꣡वियं वि꣡वाचि  
+तनू꣡षु शू꣡राः सू꣡रियस्य सातउ꣡  
+तुवं꣡ वि꣡श्वेषु से꣡नियो ज꣡नेषु  
+तुवं꣡ वृत्रा꣡णि रन्धया सुह꣡न्तु  

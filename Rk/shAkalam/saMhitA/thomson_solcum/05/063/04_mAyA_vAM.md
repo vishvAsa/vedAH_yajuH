@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-māyā́ vām mitrāvaruṇā diví śritā́  
-sū́ryo jyótiś carati citrám ā́yudham  
-tám abhréṇa vr̥ṣṭiyā́ gūhatho diví  
-párjanya drapsā́ mádhumanta īrate  
+माया꣡ वाम् मित्रावरुणा दिवि꣡ श्रिता꣡  
+सू꣡र्यो ज्यो꣡तिश् चरति चित्र꣡म् आ꣡युधम्  
+त꣡म् अभ्रे꣡ण वृष्टिया꣡ गूहथो दिवि꣡  
+प꣡र्जन्य द्रप्सा꣡ म꣡धुमन्त ईरते  

@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-jyéṣṭhena sotar índrāya  
-sómaṃ vīrā́ya śakrā́ya  
-bhárā píban náriyāya  
+ज्ये꣡ष्ठेन सोतर् इ꣡न्द्राय  
+सो꣡मं वीरा꣡य शक्रा꣡य  
+भ꣡रा पि꣡बन् न꣡रियाय  

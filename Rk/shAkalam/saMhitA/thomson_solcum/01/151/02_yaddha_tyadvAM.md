@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yád dha tyád vām purumīḷhásya somínaḥ  
-prá mitrā́so ná dadhiré suābhúvaḥ  
-ádha krátuṃ vidataṃ gātúm árcata  
-utá śrutaṃ vr̥ṣaṇā pastíyāvataḥ  
+य꣡द् ध त्य꣡द् वाम् पुरुमीऌह꣡स्य सोमि꣡नः  
+प्र꣡ मित्रा꣡सो न꣡ दधिरे꣡ सुआभु꣡वः  
+अ꣡ध क्र꣡तुं विदतं गातु꣡म् अ꣡र्चत  
+उत꣡ श्रुतं वृषणा पस्ति꣡यावतः  

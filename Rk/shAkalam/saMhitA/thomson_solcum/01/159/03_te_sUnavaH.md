@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-té sūnávaḥ suápasaḥ sudáṃsaso  
-mahī́ jajñur mātárā pūrvácittaye  
-sthātúś ca satyáṃ jágataś ca dhármaṇi  
-putrásya pāthaḥ padám ádvayāvinaḥ  
+ते꣡ सून꣡वः सुअ꣡पसः सुदं꣡ससो  
+मही꣡ जज्ञुर् मात꣡रा पूर्व꣡चित्तये  
+स्थातु꣡श् च सत्यं꣡ ज꣡गतश् च ध꣡र्मणि  
+पुत्र꣡स्य पाथः पद꣡म् अ꣡द्वयाविनः  

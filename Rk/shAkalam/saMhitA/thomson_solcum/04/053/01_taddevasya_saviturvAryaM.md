@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tád devásya savitúr vā́riyam mahád  
-vr̥ṇīmáhe ásurasya prácetasaḥ  
-chardír yéna dāśúṣe yáchati tmánā  
-tán no mahā́m̐ úd ayān devó aktúbhiḥ  
+त꣡द् देव꣡स्य सवितु꣡र् वा꣡रियम् मह꣡द्  
+वृणीम꣡हे अ꣡सुरस्य प्र꣡चेतसः  
+छर्दि꣡र् ये꣡न दाशु꣡षे य꣡छति त्म꣡ना  
+त꣡न् नो महाँ꣡ उ꣡द् अयान् देवो꣡ अक्तु꣡भिः  

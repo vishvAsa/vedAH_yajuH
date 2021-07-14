@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuvám etā́n rudató jákṣataś ca  
-áyodhayo rájasa indra pāré  
-ávādaho divá ā́ dásyum uccā́  
-prá sunvatá stuvatáḥ śáṃsam āvaḥ  
+तुव꣡म् एता꣡न् रुदतो꣡ ज꣡क्षतश् च  
+अ꣡योधयो र꣡जस इन्द्र पारे꣡  
+अ꣡वादहो दिव꣡ आ꣡ द꣡स्युम् उच्चा꣡  
+प्र꣡ सुन्वत꣡ स्तुवतः꣡ शं꣡सम् आवः  

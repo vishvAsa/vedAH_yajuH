@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-bŕ̥haspate yā́ paramā́ parāvád  
-áta ā́ ta r̥taspŕ̥śo ní ṣeduḥ  
-túbhyaṃ khātā́ avatā́ ádridugdhā  
-mádhva ścotanti abhíto virapśám  
+ब्ŕ̥हस्पते या꣡ परमा꣡ पराव꣡द्  
+अ꣡त आ꣡ त ऋतस्प्ŕ̥शो नि꣡ षेदुः  
+तु꣡भ्यं खाता꣡ अवता꣡ अ꣡द्रिदुग्धा  
+म꣡ध्व श्चोतन्ति अभि꣡तो विरप्श꣡म्  

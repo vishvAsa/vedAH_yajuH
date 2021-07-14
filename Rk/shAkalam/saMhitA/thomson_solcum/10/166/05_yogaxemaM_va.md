@@ -2,9 +2,9 @@
 title = "005"
 
 +++
-yogakṣemáṃ va ādā́ya  
-ahám bhūyāsam uttamá  
-ā́ vo mūrdhā́nam akramīm  
-adhaspadā́n ma úd vadata  
-maṇḍū́kā iva udakā́n  
-maṇḍū́kā udakā́d iva  
+योगक्षेमं꣡ व आदा꣡य  
+अह꣡म् भूयासम् उत्तम꣡  
+आ꣡ वो मूर्धा꣡नम् अक्रमीम्  
+अधस्पदा꣡न् म उ꣡द् वदत  
+मण्डू꣡का इव उदका꣡न्  
+मण्डू꣡का उदका꣡द् इव  

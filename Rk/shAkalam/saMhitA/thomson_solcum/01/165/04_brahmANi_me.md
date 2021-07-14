@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-bráhmāṇi me matáyaḥ śáṃ sutā́saḥ  
-śúṣma iyarti prábhr̥to me ádriḥ  
-ā́ śāsate práti haryanti ukthā́  
-imā́ hárī vahatas tā́ no ácha  
+ब्र꣡ह्माणि मे मत꣡यः शं꣡ सुता꣡सः  
+शु꣡ष्म इयर्ति प्र꣡भृतो मे अ꣡द्रिः  
+आ꣡ शासते प्र꣡ति हर्यन्ति उक्था꣡  
+इमा꣡ ह꣡री वहतस् ता꣡ नो अ꣡छ  

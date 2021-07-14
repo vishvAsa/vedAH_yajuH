@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-índro yātūnā́m abhavat parāśaró  
-havirmáthīnām abhí āvívāsatām  
-abhī́d u śakráḥ paraśúr yáthā vánam  
-pā́treva bhindán satá eti rakṣásaḥ  
+इ꣡न्द्रो यातूना꣡म् अभवत् पराशरो꣡  
+हविर्म꣡थीनाम् अभि꣡ आवि꣡वासताम्  
+अभी꣡द् उ शक्रः꣡ परशु꣡र् य꣡था व꣡नम्  
+पा꣡त्रेव भिन्द꣡न् सत꣡ एति रक्ष꣡सः  

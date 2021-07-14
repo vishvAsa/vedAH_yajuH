@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-jānánto rūpám akr̥panta víprā  
-mr̥gásya ghóṣam mahiṣásya hí gmán  
-r̥téna yánto ádhi síndhum asthur  
-vidád gandharvó amŕ̥tāni nā́ma  
+जान꣡न्तो रूप꣡म् अकृपन्त वि꣡प्रा  
+मृग꣡स्य घो꣡षम् महिष꣡स्य हि꣡ ग्म꣡न्  
+ऋते꣡न य꣡न्तो अ꣡धि सि꣡न्धुम् अस्थुर्  
+विद꣡द् गन्धर्वो꣡ अम्ŕ̥तानि ना꣡म  

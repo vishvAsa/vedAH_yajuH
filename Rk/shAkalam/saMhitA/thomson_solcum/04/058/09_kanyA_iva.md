@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-kanyā̀ iva vahatúm étavā́ u  
-añjí añjānā́ abhí cākaśīmi  
-yátra sómaḥ sūyáte yátra yajñó  
-ghr̥tásya dhā́rā abhí tát pavante  
+कन्या᳡ इव वहतु꣡म् ए꣡तवा꣡ उ  
+अञ्जि꣡ अञ्जाना꣡ अभि꣡ चाकशीमि  
+य꣡त्र सो꣡मः सूय꣡ते य꣡त्र यज्ञो꣡  
+घृत꣡स्य धा꣡रा अभि꣡ त꣡त् पवन्ते  

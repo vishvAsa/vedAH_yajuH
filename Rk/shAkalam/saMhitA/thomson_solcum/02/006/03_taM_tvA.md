@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-táṃ tvā gīrbhír gírvaṇasaṃ  
-draviṇasyúṃ draviṇodaḥ  
-saparyéma saparyávaḥ  
+तं꣡ त्वा गीर्भि꣡र् गि꣡र्वणसं  
+द्रविणस्युं꣡ द्रविणोदः  
+सपर्ये꣡म सपर्य꣡वः  

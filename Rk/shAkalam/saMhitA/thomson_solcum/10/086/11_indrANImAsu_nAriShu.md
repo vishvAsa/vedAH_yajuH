@@ -2,8 +2,8 @@
 title = "011"
 
 +++
-indrāṇī́m āsú nā́riṣu  
-subhágām ahám aśravam  
-nahy àsyā aparáṃ caná  
-jarásā márate pátir  
-víśvasmād índra úttaraḥ  
+इन्द्राणी꣡म् आसु꣡ ना꣡रिषु  
+सुभ꣡गाम् अह꣡म् अश्रवम्  
+नह्य् अ᳡स्या अपरं꣡ चन꣡  
+जर꣡सा म꣡रते प꣡तिर्  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

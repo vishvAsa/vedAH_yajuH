@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ádhā nú asya saṃdŕ̥śaṃ jaganvā́n  
-agnér ánīkaṃ váruṇasya maṃsi  
-súvar yád áśmann adhipā́ u ándho  
-abhí mā vápur dr̥śáye ninīyāt  
+अ꣡धा नु꣡ अस्य संद्ŕ̥शं जगन्वा꣡न्  
+अग्ने꣡र् अ꣡नीकं व꣡रुणस्य मंसि  
+सु꣡वर् य꣡द् अ꣡श्मन्न् अधिपा꣡ उ अ꣡न्धो  
+अभि꣡ मा व꣡पुर् दृश꣡ये निनीयात्  

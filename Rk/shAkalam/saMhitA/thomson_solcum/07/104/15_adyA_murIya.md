@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-adyā́ murīya yádi yātudhā́no ásmi  
-yádi vā́yus tatápa pū́ruṣasya  
-ádhā sá vīraír daśábhir ví yūyā  
-yó mā móghaṃ yā́tudhānéti ā́ha  
+अद्या꣡ मुरीय य꣡दि यातुधा꣡नो अ꣡स्मि  
+य꣡दि वा꣡युस् तत꣡प पू꣡रुषस्य  
+अ꣡धा स꣡ वीरइ꣡र् दश꣡भिर् वि꣡ यूया  
+यो꣡ मा मो꣡घं या꣡तुधाने꣡ति आ꣡ह  

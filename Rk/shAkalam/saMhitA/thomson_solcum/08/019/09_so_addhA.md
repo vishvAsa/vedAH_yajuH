@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-só addhā́ dāśúadhvaro  
-ágne mártaḥ subhaga sá praśáṃsiyaḥ  
-sá dhībhír astu sánitā  
+सो꣡ अद्धा꣡ दाशु꣡अध्वरो  
+अ꣡ग्ने म꣡र्तः सुभग स꣡ प्रशं꣡सियः  
+स꣡ धीभि꣡र् अस्तु स꣡निता  

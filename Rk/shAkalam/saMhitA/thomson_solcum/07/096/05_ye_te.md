@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yé te sarasva ūrmáyo  
-mádhumanto ghr̥taścútaḥ  
-tébhir no avitā́ bhava  
+ये꣡ ते सरस्व ऊर्म꣡यो  
+म꣡धुमन्तो घृतश्चु꣡तः  
+ते꣡भिर् नो अविता꣡ भव  

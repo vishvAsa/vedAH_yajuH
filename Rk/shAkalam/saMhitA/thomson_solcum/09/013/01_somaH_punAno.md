@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-sómaḥ punānó arṣati  
-sahásradhāro átyaviḥ  
-vāyór índrasya niṣkr̥tám  
+सो꣡मः पुनानो꣡ अर्षति  
+सह꣡स्रधारो अ꣡त्यविः  
+वायो꣡र् इ꣡न्द्रस्य निष्कृत꣡म्  

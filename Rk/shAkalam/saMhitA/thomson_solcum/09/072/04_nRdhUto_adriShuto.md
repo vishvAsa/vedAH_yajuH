@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-nŕ̥dhūto ádriṣuto barhíṣi priyáḥ  
-pátir gávām pradíva índur r̥tvíyaḥ  
-púraṃdhivān mánuṣo yajñasā́dhanaḥ  
-śúcir dhiyā́ pavate sóma indra te  
+न्ŕ̥धूतो अ꣡द्रिषुतो बर्हि꣡षि प्रियः꣡  
+प꣡तिर् ग꣡वाम् प्रदि꣡व इ꣡न्दुर् ऋत्वि꣡यः  
+पु꣡रंधिवान् म꣡नुषो यज्ञसा꣡धनः  
+शु꣡चिर् धिया꣡ पवते सो꣡म इन्द्र ते  

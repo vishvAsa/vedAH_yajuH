@@ -2,5 +2,5 @@
 title = "010"
 
 +++
-árcanta éke máhi sā́ma manvata  
-téna sū́ryam arocayan  
+अ꣡र्चन्त ए꣡के म꣡हि सा꣡म मन्वत  
+ते꣡न सू꣡र्यम् अरोचयन्  

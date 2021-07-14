@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vavrā́so ná yé suajā́ḥ svátavasa  
-íṣaṃ súvar abhijā́yanta dhū́tayaḥ  
-sahasríyāso apã́ṃ ná ūrmáya  
-āsā́ gā́vo vándiyāso ná ukṣáṇaḥ  
+वव्रा꣡सो न꣡ ये꣡ सुअजाः꣡ स्व꣡तवस  
+इ꣡षं सु꣡वर् अभिजा꣡यन्त धू꣡तयः  
+सहस्रि꣡यासो अप्ãं꣡ न꣡ ऊर्म꣡य  
+आसा꣡ गा꣡वो व꣡न्दियासो न꣡ उक्ष꣡णः  

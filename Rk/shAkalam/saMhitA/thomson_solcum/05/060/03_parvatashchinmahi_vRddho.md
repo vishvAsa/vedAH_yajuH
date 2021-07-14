@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-párvataś cin máhi vr̥ddhó bibhāya  
-diváś cit sā́nu rejata svané vaḥ  
-yát krī́ḷatha maruta r̥ṣṭimánta  
-ā́pa iva sadhríañco dhavadhve  
+प꣡र्वतश् चिन् म꣡हि वृद्धो꣡ बिभाय  
+दिव꣡श् चित् सा꣡नु रेजत स्वने꣡ वः  
+य꣡त् क्री꣡ऌअथ मरुत ऋष्टिम꣡न्त  
+आ꣡प इव सध्रि꣡अञ्चो धवध्वे  

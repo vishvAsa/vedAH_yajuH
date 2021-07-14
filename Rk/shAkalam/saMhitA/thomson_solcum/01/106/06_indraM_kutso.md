@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-índraṃ kútso vr̥traháṇaṃ śácīpátiṃ  
-kāṭé níbāḷha ŕ̥ṣir ahvad ūtáye  
-ráthaṃ ná durgā́d vasavaḥ sudānavo  
-víśvasmān no áṃhaso níṣ pipartana  
+इ꣡न्द्रं कु꣡त्सो वृत्रह꣡णं श꣡चीप꣡तिं  
+काटे꣡ नि꣡बाऌह ŕ̥षिर् अह्वद् ऊत꣡ये  
+र꣡थं न꣡ दुर्गा꣡द् वसवः सुदानवो  
+वि꣡श्वस्मान् नो अं꣡हसो नि꣡ष् पिपर्तन  

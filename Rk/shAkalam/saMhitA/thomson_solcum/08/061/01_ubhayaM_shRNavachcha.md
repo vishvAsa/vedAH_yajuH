@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ubháyaṃ śr̥ṇávac ca na  
-índro arvā́g idáṃ vácaḥ  
-satrā́ciyā maghávā sómapītaye  
-dhiyā́ śáviṣṭha ā́ gamat  
+उभ꣡यं शृण꣡वच् च न  
+इ꣡न्द्रो अर्वा꣡ग् इदं꣡ व꣡चः  
+सत्रा꣡चिया मघ꣡वा सो꣡मपीतये  
+धिया꣡ श꣡विष्ठ आ꣡ गमत्  

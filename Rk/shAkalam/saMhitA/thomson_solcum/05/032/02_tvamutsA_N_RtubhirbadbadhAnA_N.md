@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuvám útsām̐ r̥túbhir badbadhānā́m̐  
-áraṃha ū́dhaḥ párvatasya vajrin  
-áhiṃ cid ugra práyutaṃ śáyānaṃ  
-jaghanvā́m̐ indra táviṣīm adhatthāḥ  
+तुव꣡म् उ꣡त्साँ ऋतु꣡भिर् बद्बधानाँ꣡  
+अ꣡रंह ऊ꣡धः प꣡र्वतस्य वज्रिन्  
+अ꣡हिं चिद् उग्र प्र꣡युतं श꣡यानं  
+जघन्वाँ꣡ इन्द्र त꣡विषीम् अधत्थाः  

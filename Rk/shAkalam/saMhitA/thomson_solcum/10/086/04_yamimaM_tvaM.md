@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-yám imáṃ tváṃ vr̥ṣā́kapim  
-priyám indrābhirákṣasi  
-śuvā́ nú asya jambhiṣad  
-ápi kárṇe varāhayúr  
-víśvasmād índra úttaraḥ  
+य꣡म् इमं꣡ त्वं꣡ वृषा꣡कपिम्  
+प्रिय꣡म् इन्द्राभिर꣡क्षसि  
+शुवा꣡ नु꣡ अस्य जम्भिषद्  
+अ꣡पि क꣡र्णे वराहयु꣡र्  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

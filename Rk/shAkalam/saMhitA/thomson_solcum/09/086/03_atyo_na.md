@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-átyo ná hyānó° abhí vā́jam arṣa  
-suvarvít kóśaṃ divó ádrimātaram  
-vŕ̥ṣā pavítre ádhi sā́no avyáye  
-sómaḥ punāná indriyā́ya dhā́yase  
+अ꣡त्यो न꣡ ह्यानो꣡° अभि꣡ वा꣡जम् अर्ष  
+सुवर्वि꣡त् को꣡शं दिवो꣡ अ꣡द्रिमातरम्  
+व्ŕ̥षा पवि꣡त्रे अ꣡धि सा꣡नो अव्य꣡ये  
+सो꣡मः पुनान꣡ इन्द्रिया꣡य धा꣡यसे  

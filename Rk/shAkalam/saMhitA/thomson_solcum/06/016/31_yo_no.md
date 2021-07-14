@@ -2,6 +2,6 @@
 title = "031"
 
 +++
-yó no agne duréva ā́  
-márto vadhā́ya dā́śati  
-tásmān naḥ pāhi áṃhasaḥ  
+यो꣡ नो अग्ने दुरे꣡व आ꣡  
+म꣡र्तो वधा꣡य दा꣡शति  
+त꣡स्मान् नः पाहि अं꣡हसः  

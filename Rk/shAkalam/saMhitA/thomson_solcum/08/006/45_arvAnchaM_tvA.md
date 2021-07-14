@@ -2,6 +2,6 @@
 title = "045"
 
 +++
-arvā́ñcaṃ tvā puruṣṭuta  
-priyámedhastutā hárī  
-somapéyāya vakṣataḥ  
+अर्वा꣡ञ्चं त्वा पुरुष्टुत  
+प्रिय꣡मेधस्तुता ह꣡री  
+सोमपे꣡याय वक्षतः  

@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-párṣi dīné gabhīrá ā́m̐  
-úgraputre jíghāṃsataḥ  
-mā́kis tokásya no riṣat  
+प꣡र्षि दीने꣡ गभीर꣡ आँ꣡  
+उ꣡ग्रपुत्रे जि꣡घांसतः  
+मा꣡किस् तोक꣡स्य नो रिषत्  

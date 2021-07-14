@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-apā́ṃ nápātam ávase  
-savitā́ram úpa stuhi  
-tásya vratā́ni uśmasi  
+अपां꣡ न꣡पातम् अ꣡वसे  
+सविता꣡रम् उ꣡प स्तुहि  
+त꣡स्य व्रता꣡नि उश्मसि  

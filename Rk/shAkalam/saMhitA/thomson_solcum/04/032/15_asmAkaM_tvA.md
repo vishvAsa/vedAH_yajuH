@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-asmā́kaṃ tvā matīnã́m  
-ā́ stóma indra yachatu  
-arvā́g ā́ vartayā hárī  
+अस्मा꣡कं त्वा मतीन्ã꣡म्  
+आ꣡ स्तो꣡म इन्द्र यछतु  
+अर्वा꣡ग् आ꣡ वर्तया ह꣡री  

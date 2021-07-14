@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-kó agním īṭṭe havíṣā ghr̥téna  
-srucā́ yajātā r̥túbhir dhruvébhiḥ  
-kásmai devā́ ā́ vahān āśú hóma  
-kó maṃsate vītíhotraḥ sudeváḥ  
+को꣡ अग्नि꣡म् ईट्टे हवि꣡षा घृते꣡न  
+स्रुचा꣡ यजाता ऋतु꣡भिर् ध्रुवे꣡भिः  
+क꣡स्मै देवा꣡ आ꣡ वहान् आशु꣡ हो꣡म  
+को꣡ मंसते वीति꣡होत्रः सुदेवः꣡  

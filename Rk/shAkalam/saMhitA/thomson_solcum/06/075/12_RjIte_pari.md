@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ŕ̥jīte pári vr̥ṅdhi no  
-áśmā bhavatu nas tanū́ḥ  
-sómo ádhi bravītu no  
-áditiḥ śárma yachatu  
+ŕ̥जीते प꣡रि वृङ्धि नो  
+अ꣡श्मा भवतु नस् तनूः꣡  
+सो꣡मो अ꣡धि ब्रवीतु नो  
+अ꣡दितिः श꣡र्म यछतु  

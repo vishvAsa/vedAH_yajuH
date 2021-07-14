@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-árhan bibharṣi sā́yakāni dhánva  
-árhan niṣkáṃ yajatáṃ viśvárūpam  
-árhann idáṃ dayase víśvam ábhvaṃ  
-ná vā́ ójīyo rudara+ tvád asti  
+अ꣡र्हन् बिभर्षि सा꣡यकानि ध꣡न्व  
+अ꣡र्हन् निष्कं꣡ यजतं꣡ विश्व꣡रूपम्  
+अ꣡र्हन्न् इदं꣡ दयसे वि꣡श्वम् अ꣡भ्वं  
+न꣡ वा꣡ ओ꣡जीयो रुदर+ त्व꣡द् अस्ति  

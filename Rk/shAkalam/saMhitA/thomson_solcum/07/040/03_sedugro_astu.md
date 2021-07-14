@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-séd ugró astu marutaḥ sá śuṣmī́  
-yám mártiyam pr̥ṣadaśvā ávātha  
-utém agníḥ sárasvatī junánti  
-ná tásya rāyáḥ parietā́ asti  
+से꣡द् उग्रो꣡ अस्तु मरुतः स꣡ शुष्मी꣡  
+य꣡म् म꣡र्तियम् पृषदश्वा अ꣡वाथ  
+उते꣡म् अग्निः꣡ स꣡रस्वती जुन꣡न्ति  
+न꣡ त꣡स्य रायः꣡ परिएता꣡ अस्ति  

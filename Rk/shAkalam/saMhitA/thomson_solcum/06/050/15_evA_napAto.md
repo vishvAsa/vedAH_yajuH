@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-evā́ nápāto máma tásya dhībhír  
-bharádvājā abhí arcanti arkaíḥ  
-gnã́ hutā́so vásavo ádhr̥ṣṭā  
-víśve stutā́so bhũtā yajatrāḥ  
+एवा꣡ न꣡पातो म꣡म त꣡स्य धीभि꣡र्  
+भर꣡द्वाजा अभि꣡ अर्चन्ति अर्कइः꣡  
+ग्न्ã꣡ हुता꣡सो व꣡सवो अ꣡धृष्टा  
+वि꣡श्वे स्तुता꣡सो भ्ũता यजत्राः  

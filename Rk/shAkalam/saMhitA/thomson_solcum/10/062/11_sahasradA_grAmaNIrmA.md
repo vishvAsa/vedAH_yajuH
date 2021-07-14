@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-sahasradā́ grāmaṇī́r mā́ riṣan mánuḥ  
-sū́ryeṇāsya yátamānaitu dákṣiṇā  
-sā́varṇer devā́ḥ prá tirantu ā́yur  
-yásminn áśrāntā ásanāma vā́jam  
+सहस्रदा꣡ ग्रामणी꣡र् मा꣡ रिषन् म꣡नुः  
+सू꣡र्येणास्य य꣡तमानैतु द꣡क्षिणा  
+सा꣡वर्णेर् देवाः꣡ प्र꣡ तिरन्तु आ꣡युर्  
+य꣡स्मिन्न् अ꣡श्रान्ता अ꣡सनाम वा꣡जम्  

@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-prá vo dhíyo mandrayúvo vipanyúvaḥ  
-panasyúvaḥ saṃvásaneṣu akramuḥ  
-sómam manīṣā́ abhy ànūṣata stúbho  
-abhí dhenávaḥ páyasem aśiśrayuḥ  
+प्र꣡ वो धि꣡यो मन्द्रयु꣡वो विपन्यु꣡वः  
+पनस्यु꣡वः संव꣡सनेषु अक्रमुः  
+सो꣡मम् मनीषा꣡ अभ्य् अ᳡नूषत स्तु꣡भो  
+अभि꣡ धेन꣡वः प꣡यसेम् अशिश्रयुः  

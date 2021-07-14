@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá sūnúbhir ná rudarébhir+ ŕ̥bhvā  
-nr̥ṣā́hiye sāsahuvā́m̐ amítrān  
-sánīḷebhiḥ śravasíyāni tū́rvan  
-marútvān no bhavatu índra ūtī́  
+स꣡ सूनु꣡भिर् न꣡ रुदरे꣡भिर्+ ŕ̥भ्वा  
+नृषा꣡हिये सासहुवाँ꣡ अमि꣡त्रान्  
+स꣡नीऌएभिः श्रवसि꣡यानि तू꣡र्वन्  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

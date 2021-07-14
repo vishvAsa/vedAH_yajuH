@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-yó no deváḥ parāvátaḥ  
-sakhitvanā́ya māmahé  
-divó ná vr̥ṣṭím pratháyan vavákṣitha  
+यो꣡ नो देवः꣡ पराव꣡तः  
+सखित्वना꣡य मामहे꣡  
+दिवो꣡ न꣡ वृष्टि꣡म् प्रथ꣡यन् वव꣡क्षिथ  

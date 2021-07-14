@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-samīcīnā́sa āsate  
-hótāraḥ saptájāmayaḥ  
-padám ékasya píprataḥ  
+समीचीना꣡स आसते  
+हो꣡तारः सप्त꣡जामयः  
+पद꣡म् ए꣡कस्य पि꣡प्रतः  

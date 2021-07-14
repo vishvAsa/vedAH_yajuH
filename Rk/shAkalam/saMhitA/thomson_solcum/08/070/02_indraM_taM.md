@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-índraṃ táṃ śumbha puruhanman ávase  
-yásya dvitā́ vidhartári  
-hástāya vájraḥ práti dhāyi darśató  
-mahó divé ná sū́riyaḥ  
+इ꣡न्द्रं तं꣡ शुम्भ पुरुहन्मन् अ꣡वसे  
+य꣡स्य द्विता꣡ विधर्त꣡रि  
+ह꣡स्ताय व꣡ज्रः प्र꣡ति धायि दर्शतो꣡  
+महो꣡ दिवे꣡ न꣡ सू꣡रियः  

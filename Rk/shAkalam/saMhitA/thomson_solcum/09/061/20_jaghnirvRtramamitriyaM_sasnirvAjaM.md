@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-jághnir vr̥trám amitríyaṃ  
-sásnir vā́jaṃ divé-dive  
-goṣā́ u aśvasā́ asi  
+ज꣡घ्निर् वृत्र꣡म् अमित्रि꣡यं  
+स꣡स्निर् वा꣡जं दिवे꣡-दिवे  
+गोषा꣡ उ अश्वसा꣡ असि  

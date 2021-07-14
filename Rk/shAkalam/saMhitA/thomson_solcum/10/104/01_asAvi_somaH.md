@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ásāvi sómaḥ puruhūta túbhyaṃ  
-háribhyāṃ yajñám úpa yāhi tū́yam  
-túbhyaṃ gíro vípravīrā iyānā́  
-dadhanvirá indra píbā sutásya  
+अ꣡सावि सो꣡मः पुरुहूत तु꣡भ्यं  
+ह꣡रिभ्यां यज्ञ꣡म् उ꣡प याहि तू꣡यम्  
+तु꣡भ्यं गि꣡रो वि꣡प्रवीरा इयाना꣡  
+दधन्विर꣡ इन्द्र पि꣡बा सुत꣡स्य  

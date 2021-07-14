@@ -2,8 +2,8 @@
 title = "003"
 
 +++
-mó ṣú devā adáḥ súvar  
-áva pādi divás pári  
-mā́ somiyásya śambhúvaḥ  
-śū́ne bhūma kádā caná  
-vittám me asyá rodasī  
+मो꣡ षु꣡ देवा अदः꣡ सु꣡वर्  
+अ꣡व पादि दिव꣡स् प꣡रि  
+मा꣡ सोमिय꣡स्य शम्भु꣡वः  
+शू꣡ने भूम क꣡दा चन꣡  
+वित्त꣡म् मे अस्य꣡ रोदसी  

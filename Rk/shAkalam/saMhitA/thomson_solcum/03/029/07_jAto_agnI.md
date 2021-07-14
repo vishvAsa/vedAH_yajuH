@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-jātó agnī́ rocate cékitāno  
-vājī́ vípraḥ kaviśastáḥ sudā́nuḥ  
-yáṃ devā́sa ī́ḍiyaṃ viśvavídaṃ  
-havyavā́ham ádadhur adhvaréṣu  
+जातो꣡ अग्नी꣡ रोचते चे꣡कितानो  
+वाजी꣡ वि꣡प्रः कविशस्तः꣡ सुदा꣡नुः  
+यं꣡ देवा꣡स ई꣡डियं विश्ववि꣡दं  
+हव्यवा꣡हम् अ꣡दधुर् अध्वरे꣡षु  

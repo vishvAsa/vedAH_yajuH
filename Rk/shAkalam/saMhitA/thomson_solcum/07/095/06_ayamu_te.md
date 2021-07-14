@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ayám u te sarasvati vásiṣṭho  
-dvā́rāv r̥tásya subhage ví āvaḥ  
-várdha śubhre stuvaté rāsi vā́jān  
-yūyám pāta suastíbhiḥ sádā naḥ  
+अय꣡म् उ ते सरस्वति व꣡सिष्ठो  
+द्वा꣡राव् ऋत꣡स्य सुभगे वि꣡ आवः  
+व꣡र्ध शुभ्रे स्तुवते꣡ रासि वा꣡जान्  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ghr̥távantaḥ pavāka+ te  
-stokā́ ścotanti médasaḥ  
-svádharman devávītaye  
-śréṣṭhaṃ no dhehi vā́riyam  
+घृत꣡वन्तः पवाक+ ते  
+स्तोका꣡ श्चोतन्ति मे꣡दसः  
+स्व꣡धर्मन् देव꣡वीतये  
+श्रे꣡ष्ठं नो धेहि वा꣡रियम्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-uchántī yā́ kr̥ṇóṣi maṃhánā mahi  
-prakhyaí devi súvar dr̥śé  
-tásyās te ratnabhā́ja īmahe vayáṃ  
-syā́ma mātúr ná sūnávaḥ  
+उछ꣡न्ती या꣡ कृणो꣡षि मंह꣡ना महि  
+प्रख्यइ꣡ देवि सु꣡वर् दृशे꣡  
+त꣡स्यास् ते रत्नभा꣡ज ईमहे वयं꣡  
+स्या꣡म मातु꣡र् न꣡ सून꣡वः  

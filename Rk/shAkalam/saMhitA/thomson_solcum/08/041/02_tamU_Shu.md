@@ -2,9 +2,9 @@
 title = "002"
 
 +++
-tám ū ṣú samanā́ girā́  
-pitr̥̄ṇã́ṃ ca mánmabhiḥ  
-nābhākásya práśastibhir  
-yáḥ síndhūnām úpodayé  
-saptásvasā sá madhyamó  
-nábhantām anyaké same  
+त꣡म् ऊ षु꣡ समना꣡ गिरा꣡  
+पितॄण्ãं꣡ च म꣡न्मभिः  
+नाभाक꣡स्य प्र꣡शस्तिभिर्  
+यः꣡ सि꣡न्धूनाम् उ꣡पोदये꣡  
+सप्त꣡स्वसा स꣡ मध्यमो꣡  
+न꣡भन्ताम् अन्यके꣡ समे  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ádribhiḥ sutáḥ pavate gábhastiyor  
-vr̥ṣāyáte nábhasā vépate matī́  
-sá modate násate sā́dhate girā́  
-nenikté apsú yájate párīmaṇi  
+अ꣡द्रिभिः सुतः꣡ पवते ग꣡भस्तियोर्  
+वृषाय꣡ते न꣡भसा वे꣡पते मती꣡  
+स꣡ मोदते न꣡सते सा꣡धते गिरा꣡  
+नेनिक्ते꣡ अप्सु꣡ य꣡जते प꣡रीमणि  

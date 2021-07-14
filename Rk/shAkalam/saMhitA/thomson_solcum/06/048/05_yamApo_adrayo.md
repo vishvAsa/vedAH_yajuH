@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yám ā́po ádrayo vánā  
-gárbham r̥tásya píprati  
-sáhasā yó mathitó jā́yate nŕ̥bhiḥ  
-pr̥thivyā́ ádhi sā́navi  
+य꣡म् आ꣡पो अ꣡द्रयो व꣡ना  
+ग꣡र्भम् ऋत꣡स्य पि꣡प्रति  
+स꣡हसा यो꣡ मथितो꣡ जा꣡यते न्ŕ̥भिः  
+पृथिव्या꣡ अ꣡धि सा꣡नवि  

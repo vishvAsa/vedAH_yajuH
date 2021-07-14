@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-sémā́ṃ vetu váṣaṭkr̥tim  
-agnír juṣata no gíraḥ  
-yájiṣṭho havyavā́hanaḥ  
+से꣡मां꣡ वेतु व꣡षट्कृतिम्  
+अग्नि꣡र् जुषत नो गि꣡रः  
+य꣡जिष्ठो हव्यवा꣡हनः  

@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-tát sú naḥ śárma yachata  
-ā́dityā yán múmocati  
-énasvantaṃ cid énasaḥ sudānavaḥ  
+त꣡त् सु꣡ नः श꣡र्म यछत  
+आ꣡दित्या य꣡न् मु꣡मोचति  
+ए꣡नस्वन्तं चिद् ए꣡नसः सुदानवः  

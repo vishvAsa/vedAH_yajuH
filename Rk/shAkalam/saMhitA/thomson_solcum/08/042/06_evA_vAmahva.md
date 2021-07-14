@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-evā́ vām ahva ūtáye  
-yáthā́huvanta médhirāḥ  
-nā́satyā sómapītaye  
-nábhantām anyaké same  
+एवा꣡ वाम् अह्व ऊत꣡ये  
+य꣡था꣡हुवन्त मे꣡धिराः  
+ना꣡सत्या सो꣡मपीतये  
+न꣡भन्ताम् अन्यके꣡ समे  

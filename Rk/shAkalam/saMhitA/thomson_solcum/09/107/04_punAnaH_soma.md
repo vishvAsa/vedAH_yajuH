@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-punānáḥ soma dhā́rayā  
-apó vásāno arṣasi  
-ā́ ratnadhā́ yónim r̥tásya sīdasi  
-útso deva hiraṇyáyaḥ  
+पुनानः꣡ सोम धा꣡रया  
+अपो꣡ व꣡सानो अर्षसि  
+आ꣡ रत्नधा꣡ यो꣡निम् ऋत꣡स्य सीदसि  
+उ꣡त्सो देव हिरण्य꣡यः  

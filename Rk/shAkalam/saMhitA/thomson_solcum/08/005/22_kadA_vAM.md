@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-kadā́ vāṃ taugriyó vidhat  
-samudré jahitó narā  
-yád vāṃ rátho víbhiṣ pátāt  
+कदा꣡ वां तौग्रियो꣡ विधत्  
+समुद्रे꣡ जहितो꣡ नरा  
+य꣡द् वां र꣡थो वि꣡भिष् प꣡तात्  

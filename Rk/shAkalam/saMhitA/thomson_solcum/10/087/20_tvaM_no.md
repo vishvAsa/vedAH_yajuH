@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-tuváṃ no agne adharā́d údaktāt  
-tuvám paścā́d utá rakṣā purástāt  
-práti té te ajárāsas tápiṣṭhā  
-agháśaṃsaṃ śóśucato dahantu  
+तुवं꣡ नो अग्ने अधरा꣡द् उ꣡दक्तात्  
+तुव꣡म् पश्चा꣡द् उत꣡ रक्षा पुर꣡स्तात्  
+प्र꣡ति ते꣡ ते अज꣡रासस् त꣡पिष्ठा  
+अघ꣡शंसं शो꣡शुचतो दहन्तु  

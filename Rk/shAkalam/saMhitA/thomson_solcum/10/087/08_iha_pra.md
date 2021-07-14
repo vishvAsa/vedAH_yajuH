@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ihá prá brūhi yatamáḥ só agne  
-yó yātudhā́no yá idáṃ kr̥ṇóti  
-tám ā́ rabhasva samídhā yaviṣṭha  
-nr̥cákṣasaś cákṣuṣe randhayainam  
+इह꣡ प्र꣡ ब्रूहि यतमः꣡ सो꣡ अग्ने  
+यो꣡ यातुधा꣡नो य꣡ इदं꣡ कृणो꣡ति  
+त꣡म् आ꣡ रभस्व समि꣡धा यविष्ठ  
+नृच꣡क्षसश् च꣡क्षुषे रन्धयैनम्  

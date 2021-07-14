@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-duvé vírūpe carataḥ suárthe  
-anyā́nyā vatsám úpa dhāpayete  
-hárir anyásyām bhávati svadhā́vāñ  
-chukró anyásyāṃ dadr̥śe suvárcāḥ  
+दुवे꣡ वि꣡रूपे चरतः सुअ꣡र्थे  
+अन्या꣡न्या वत्स꣡म् उ꣡प धापयेते  
+ह꣡रिर् अन्य꣡स्याम् भ꣡वति स्वधा꣡वाञ्  
+छुक्रो꣡ अन्य꣡स्यां ददृशे सुव꣡र्चाः  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-nemíṃ namanti cákṣasā  
-meṣáṃ víprā abhisvárā  
-sudītáyo vo adrúho ápi kárṇe  
-tarasvínaḥ sám ŕ̥kvabhiḥ  
+नेमिं꣡ नमन्ति च꣡क्षसा  
+मेषं꣡ वि꣡प्रा अभिस्व꣡रा  
+सुदीत꣡यो वो अद्रु꣡हो अ꣡पि क꣡र्णे  
+तरस्वि꣡नः स꣡म् ŕ̥क्वभिः  

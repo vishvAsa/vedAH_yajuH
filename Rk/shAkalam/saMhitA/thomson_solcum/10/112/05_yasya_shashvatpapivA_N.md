@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yásya śáśvat papivā́m̐ indra śátrūn  
-anānukr̥tyā́ ráṇiyā cakártha  
-sá te púraṃdhiṃ táviṣīm iyarti  
-sá te mádāya sutá indra sómaḥ  
+य꣡स्य श꣡श्वत् पपिवाँ꣡ इन्द्र श꣡त्रून्  
+अनानुकृत्या꣡ र꣡णिया चक꣡र्थ  
+स꣡ ते पु꣡रंधिं त꣡विषीम् इयर्ति  
+स꣡ ते म꣡दाय सुत꣡ इन्द्र सो꣡मः  

@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-sárgām̐ iva sr̥jataṃ suṣṭutī́r úpa  
-śyāvā́śuvasya sunvató madacyutā  
-sajóṣasā uṣásā sū́riyeṇa ca  
-áśvinā tiróahniyam  
+स꣡र्गाँ इव सृजतं सुष्टुती꣡र् उ꣡प  
+श्यावा꣡शुवस्य सुन्वतो꣡ मदच्युता  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+अ꣡श्विना तिरो꣡अह्नियम्  

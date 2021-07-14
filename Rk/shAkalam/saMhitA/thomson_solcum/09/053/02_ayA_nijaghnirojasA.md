@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ayā́ nijaghnír ójasā  
-rathasaṃgé dháne hité  
-stávā ábibhyuṣā hr̥dā́  
+अया꣡ निजघ्नि꣡र् ओ꣡जसा  
+रथसंगे꣡ ध꣡ने हिते꣡  
+स्त꣡वा अ꣡बिभ्युषा हृदा꣡  

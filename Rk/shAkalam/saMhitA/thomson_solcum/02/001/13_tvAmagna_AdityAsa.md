@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tuvā́m agna āditiyā́sa āsíyaṃ  
-tuvā́ṃ jihvā́ṃ śúcayaś cakrire kave  
-tvā́ṃ rātiṣā́co adhvaréṣu saścire  
-tuvé devā́ havír adanti ā́hutam  
+तुवा꣡म् अग्न आदितिया꣡स आसि꣡यं  
+तुवां꣡ जिह्वां꣡ शु꣡चयश् चक्रिरे कवे  
+त्वां꣡ रातिषा꣡चो अध्वरे꣡षु सश्चिरे  
+तुवे꣡ देवा꣡ हवि꣡र् अदन्ति आ꣡हुतम्  

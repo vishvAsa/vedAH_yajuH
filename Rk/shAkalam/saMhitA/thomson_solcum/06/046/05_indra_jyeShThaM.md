@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índra jyéṣṭhaṃ na ā́ bharam̐  
-ójiṣṭham pápuri śrávaḥ  
-yénemé citra vajrahasta ródasī  
-ā́ ubhé suśipra prã́ḥ  
+इ꣡न्द्र ज्ये꣡ष्ठं न आ꣡ भरँ  
+ओ꣡जिष्ठम् प꣡पुरि श्र꣡वः  
+ये꣡नेमे꣡ चित्र वज्रहस्त रो꣡दसी  
+आ꣡ उभे꣡ सुशिप्र प्र्ãः꣡  

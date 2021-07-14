@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá agnáye br̥haté yajñíyāya  
-r̥tásya vŕ̥ṣṇe ásurāya mánma  
-ghr̥táṃ ná yajñá āsíye súpūtaṃ  
-gíram bhare vr̥ṣabhā́ya pratīcī́m  
+प्र꣡ अग्न꣡ये बृहते꣡ यज्ञि꣡याय  
+ऋत꣡स्य व्ŕ̥ष्णे अ꣡सुराय म꣡न्म  
+घृतं꣡ न꣡ यज्ञ꣡ आसि꣡ये सु꣡पूतं  
+गि꣡रम् भरे वृषभा꣡य प्रतीची꣡म्  

@@ -2,7 +2,7 @@
 title = "027"
 
 +++
-yá éko ásti daṃsánā  
-mahā́m̐ ugró abhí vrataíḥ  
-gámat sá śiprī́ ná sá yoṣad ā́ gamad  
-dhávaṃ ná pári varjati  
+य꣡ ए꣡को अ꣡स्ति दंस꣡ना  
+महाँ꣡ उग्रो꣡ अभि꣡ व्रतइः꣡  
+ग꣡मत् स꣡ शिप्री꣡ न꣡ स꣡ योषद् आ꣡ गमद्  
+ध꣡वं न꣡ प꣡रि वर्जति  

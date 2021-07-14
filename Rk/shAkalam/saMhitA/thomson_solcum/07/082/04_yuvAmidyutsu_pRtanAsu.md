@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yuvā́m íd yutsú pŕ̥tanāsu váhnayo  
-yuvā́ṃ kṣémasya prasavé mitájñavaḥ  
-īśānā́ vásva ubháyasya kāráva  
-índrāvaruṇā suhávā havāmahe  
+युवा꣡म् इ꣡द् युत्सु꣡ प्ŕ̥तनासु व꣡ह्नयो  
+युवां꣡ क्षे꣡मस्य प्रसवे꣡ मित꣡ज्ञवः  
+ईशाना꣡ व꣡स्व उभ꣡यस्य कार꣡व  
+इ꣡न्द्रावरुणा सुह꣡वा हवामहे  

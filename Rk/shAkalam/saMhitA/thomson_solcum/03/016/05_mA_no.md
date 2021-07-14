@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mā́ no agne ámataye  
-mā́vī́ratāyai rīradhaḥ  
-mā́gótāyai sahasas putra mā́ nide  
-ápa dvéṣāṃsi ā́ kr̥dhi  
+मा꣡ नो अग्ने अ꣡मतये  
+मा꣡वी꣡रतायै रीरधः  
+मा꣡गो꣡तायै सहसस् पुत्र मा꣡ निदे  
+अ꣡प द्वे꣡षांसि आ꣡ कृधि  

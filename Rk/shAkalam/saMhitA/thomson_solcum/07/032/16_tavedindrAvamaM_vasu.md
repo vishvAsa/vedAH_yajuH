@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-távéd indrāvamáṃ vásu  
-tuvám puṣyasi madhyamám  
-satrā́ víśvasya paramásya rājasi  
-nákiṣ ṭvā góṣu vr̥ṇvate  
+त꣡वे꣡द् इन्द्रावमं꣡ व꣡सु  
+तुव꣡म् पुष्यसि मध्यम꣡म्  
+सत्रा꣡ वि꣡श्वस्य परम꣡स्य राजसि  
+न꣡किष् ट्वा गो꣡षु वृण्वते  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yás tvā suáśvaḥ suhiraṇyó agna  
-upayā́ti vásumatā ráthena  
-tásya trātā́ bhavasi tásya sákhā  
-yás ta ātithyám ānuṣág jújoṣat  
+य꣡स् त्वा सुअ꣡श्वः सुहिरण्यो꣡ अग्न  
+उपया꣡ति व꣡सुमता र꣡थेन  
+त꣡स्य त्राता꣡ भवसि त꣡स्य स꣡खा  
+य꣡स् त आतिथ्य꣡म् आनुष꣡ग् जु꣡जोषत्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sá raṃhata urugāyásya jūtíṃ  
-vŕ̥thā krī́ḷantam mimate ná gā́vaḥ  
-parīṇasáṃ kr̥ṇute tigmáśr̥ṅgo  
-dívā hárir dádr̥śe náktam r̥jráḥ  
+स꣡ रंहत उरुगाय꣡स्य जूतिं꣡  
+व्ŕ̥था क्री꣡ऌअन्तम् मिमते न꣡ गा꣡वः  
+परीणसं꣡ कृणुते तिग्म꣡शृङ्गो  
+दि꣡वा ह꣡रिर् द꣡दृशे न꣡क्तम् ऋज्रः꣡  

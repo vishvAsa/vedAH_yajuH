@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-púmām̐ enaṃ tanuta út kr̥ṇatti  
-púmān ví tatne ádhi nā́ke asmín  
-imé mayū́khā úpa sedur ū sádaḥ  
-sā́māni cakrus tásarāṇi ótave  
+पु꣡माँ एनं तनुत उ꣡त् कृणत्ति  
+पु꣡मान् वि꣡ तत्ने अ꣡धि ना꣡के अस्मि꣡न्  
+इमे꣡ मयू꣡खा उ꣡प सेदुर् ऊ स꣡दः  
+सा꣡मानि चक्रुस् त꣡सराणि ओ꣡तवे  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-práthiṣṭa yásya vīrákarmam iṣṇád  
-ánuṣṭhitaṃ nú náriyo ápauhat  
-púnas tád ā́ vr̥hati yát kanā́yā  
-duhitúr ā́ ánubhr̥tam anarvā́  
+प्र꣡थिष्ट य꣡स्य वीर꣡कर्मम् इष्ण꣡द्  
+अ꣡नुष्ठितं नु꣡ न꣡रियो अ꣡पौहत्  
+पु꣡नस् त꣡द् आ꣡ वृहति य꣡त् कना꣡या  
+दुहितु꣡र् आ꣡ अ꣡नुभृतम् अनर्वा꣡  

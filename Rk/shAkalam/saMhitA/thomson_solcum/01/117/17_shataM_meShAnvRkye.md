@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-śatám meṣā́n vr̥kíye māmahānáṃ  
-támaḥ práṇītam áśivena pitrā́  
-ā́kṣī́ r̥jrā́śve aśvināv adhattaṃ  
-jyótir andhā́ya cakrathur vicákṣe  
+शत꣡म् मेषा꣡न् वृकि꣡ये मामहानं꣡  
+त꣡मः प्र꣡णीतम् अ꣡शिवेन पित्रा꣡  
+आ꣡क्षी꣡ ऋज्रा꣡श्वे अश्विनाव् अधत्तं  
+ज्यो꣡तिर् अन्धा꣡य चक्रथुर् विच꣡क्षे  

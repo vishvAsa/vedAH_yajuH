@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-viśpátiṃ yahvám átithiṃ náraḥ sádā  
-yantā́raṃ dhīnā́m uśíjaṃ ca vāghátām  
-adhvarā́ṇāṃ cétanaṃ jātávedasam  
-prá śaṃsanti námasā jūtíbhir vr̥dhé  
+विश्प꣡तिं यह्व꣡म् अ꣡तिथिं न꣡रः स꣡दा  
+यन्ता꣡रं धीना꣡म् उशि꣡जं च वाघ꣡ताम्  
+अध्वरा꣡णां चे꣡तनं जात꣡वेदसम्  
+प्र꣡ शंसन्ति न꣡मसा जूति꣡भिर् वृधे꣡  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-girī́m̐r ájrān réjamānām̐ adhārayad  
-diyaúḥ krandad antárikṣāṇi kopayat  
-samīcīné dhiṣáṇe ví ṣkabhāyati  
-vŕ̥ṣṇaḥ pītvā́ máda ukthā́ni śaṃsati  
+गिरीँ꣡र् अ꣡ज्रान् रे꣡जमानाँ अधारयद्  
+दियउः꣡ क्रन्दद् अन्त꣡रिक्षाणि कोपयत्  
+समीचीने꣡ धिष꣡णे वि꣡ ष्कभायति  
+व्ŕ̥ष्णः पीत्वा꣡ म꣡द उक्था꣡नि शंसति  

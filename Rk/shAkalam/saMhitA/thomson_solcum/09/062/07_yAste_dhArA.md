@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-yā́s te dhā́rā madhuścúto  
-ásr̥gram inda ūtáye  
-tā́bhiḥ pavítram ā́sadaḥ  
+या꣡स् ते धा꣡रा मधुश्चु꣡तो  
+अ꣡सृग्रम् इन्द ऊत꣡ये  
+ता꣡भिः पवि꣡त्रम् आ꣡सदः  

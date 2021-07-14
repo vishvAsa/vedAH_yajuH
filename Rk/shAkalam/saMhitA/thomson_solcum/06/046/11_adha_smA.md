@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ádha smā no vr̥dhé bhava  
-índra nāyám avā yudhí  
-yád antárikṣe patáyanti parṇíno  
-didyávas tigmámūrdhānaḥ  
+अ꣡ध स्मा नो वृधे꣡ भव  
+इ꣡न्द्र नाय꣡म् अवा युधि꣡  
+य꣡द् अन्त꣡रिक्षे पत꣡यन्ति पर्णि꣡नो  
+दिद्य꣡वस् तिग्म꣡मूर्धानः  

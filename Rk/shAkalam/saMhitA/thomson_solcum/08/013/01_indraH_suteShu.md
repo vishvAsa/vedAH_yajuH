@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-índraḥ sutéṣu sómeṣu  
-krátum punīta ukthíyam  
-vidé vr̥dhásya dákṣaso mahā́n hí ṣáḥ  
+इ꣡न्द्रः सुते꣡षु सो꣡मेषु  
+क्र꣡तुम् पुनीत उक्थि꣡यम्  
+विदे꣡ वृध꣡स्य द꣡क्षसो महा꣡न् हि꣡ षः꣡  

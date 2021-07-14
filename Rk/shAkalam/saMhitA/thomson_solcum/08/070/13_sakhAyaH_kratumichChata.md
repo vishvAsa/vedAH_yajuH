@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-sákhāyaḥ krátum ichata  
-kathā́ rādhāma śarásya  
-úpastutim bhojáḥ sūrír yó áhrayaḥ  
+स꣡खायः क्र꣡तुम् इछत  
+कथा꣡ राधाम शर꣡स्य  
+उ꣡पस्तुतिम् भोजः꣡ सूरि꣡र् यो꣡ अ꣡ह्रयः  

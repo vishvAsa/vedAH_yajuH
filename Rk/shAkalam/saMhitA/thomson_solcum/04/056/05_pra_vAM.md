@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-prá vām máhi dyávī abhí  
-úpastutim bharāmahe  
-śúcī úpa práśastaye  
+प्र꣡ वाम् म꣡हि द्य꣡वी अभि꣡  
+उ꣡पस्तुतिम् भरामहे  
+शु꣡ची उ꣡प प्र꣡शस्तये  

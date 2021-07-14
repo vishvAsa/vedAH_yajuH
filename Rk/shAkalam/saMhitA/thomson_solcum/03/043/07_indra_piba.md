@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-índra píba vŕ̥ṣadhūtasya vŕ̥ṣṇa  
-ā́ yáṃ te śyená uśaté jabhā́ra  
-yásya máde cyāváyasi prá kr̥ṣṭī́r  
-yásya máde ápa gotrā́ vavártha  
+इ꣡न्द्र पि꣡ब व्ŕ̥षधूतस्य व्ŕ̥ष्ण  
+आ꣡ यं꣡ ते श्येन꣡ उशते꣡ जभा꣡र  
+य꣡स्य म꣡दे च्याव꣡यसि प्र꣡ कृष्टी꣡र्  
+य꣡स्य म꣡दे अ꣡प गोत्रा꣡ वव꣡र्थ  

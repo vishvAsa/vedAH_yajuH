@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yó naḥ sánutyo abhidā́sad agne  
-yó ántaro mitramaho vanuṣyā́t  
-tám ajárebhir vŕ̥ṣabhis táva svaís  
-tápā tapiṣṭha tápasā tápasvān  
+यो꣡ नः स꣡नुत्यो अभिदा꣡सद् अग्ने  
+यो꣡ अ꣡न्तरो मित्रमहो वनुष्या꣡त्  
+त꣡म् अज꣡रेभिर् व्ŕ̥षभिस् त꣡व स्वइ꣡स्  
+त꣡पा तपिष्ठ त꣡पसा त꣡पस्वान्  

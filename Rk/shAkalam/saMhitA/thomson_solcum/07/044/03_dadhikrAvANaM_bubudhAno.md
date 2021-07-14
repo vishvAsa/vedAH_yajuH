@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-dadhikrā́vāṇam bubudhānó agním  
-úpa bruva uṣásaṃ sū́riyaṃ gā́m  
-bradhnám mām̐ścatór váruṇasya babhrúṃ  
-té víśvāsmád duritā́ yāvayantu  
+दधिक्रा꣡वाणम् बुबुधानो꣡ अग्नि꣡म्  
+उ꣡प ब्रुव उष꣡सं सू꣡रियं गा꣡म्  
+ब्रध्न꣡म् माँश्चतो꣡र् व꣡रुणस्य बभ्रुं꣡  
+ते꣡ वि꣡श्वास्म꣡द् दुरिता꣡ यावयन्तु  

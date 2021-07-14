@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yúvā suvā́sāḥ párivīta ā́gāt  
-sá u śréyān bhavati jā́yamānaḥ  
-táṃ dhī́rāsaḥ kaváya ún nayanti  
-suādhíyo mánasā devayántaḥ  
+यु꣡वा सुवा꣡साः प꣡रिवीत आ꣡गात्  
+स꣡ उ श्रे꣡यान् भवति जा꣡यमानः  
+तं꣡ धी꣡रासः कव꣡य उ꣡न् नयन्ति  
+सुआधि꣡यो म꣡नसा देवय꣡न्तः  

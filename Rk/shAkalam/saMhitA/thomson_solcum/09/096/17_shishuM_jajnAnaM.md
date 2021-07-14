@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-śíśuṃ jajñānáṃ haryatám mr̥janti  
-śumbhánti váhnim marúto gaṇéna  
-kavír gīrbhíḥ kā́viyenā kavíḥ sán  
-sómaḥ pavítram áti eti rébhan  
+शि꣡शुं जज्ञानं꣡ हर्यत꣡म् मृजन्ति  
+शुम्भ꣡न्ति व꣡ह्निम् मरु꣡तो गणे꣡न  
+कवि꣡र् गीर्भिः꣡ का꣡वियेना कविः꣡ स꣡न्  
+सो꣡मः पवि꣡त्रम् अ꣡ति एति रे꣡भन्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-bhā́ratī pávamānasya  
-sárasvatī íḷā mahī́  
-imáṃ no yajñám ā́ gaman  
-tisró devī́ḥ supéśasaḥ  
+भा꣡रती प꣡वमानस्य  
+स꣡रस्वती इ꣡ऌआ मही꣡  
+इमं꣡ नो यज्ञ꣡म् आ꣡ गमन्  
+तिस्रो꣡ देवीः꣡ सुपे꣡शसः  

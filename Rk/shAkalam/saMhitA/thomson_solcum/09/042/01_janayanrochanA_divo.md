@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-janáyan rocanā́ divó  
-janáyann apsú sū́riyam  
-vásāno gā́ apó háriḥ  
+जन꣡यन् रोचना꣡ दिवो꣡  
+जन꣡यन्न् अप्सु꣡ सू꣡रियम्  
+व꣡सानो गा꣡ अपो꣡ ह꣡रिः  

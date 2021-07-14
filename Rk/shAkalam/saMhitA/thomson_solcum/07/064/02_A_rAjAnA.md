@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ rājānā maha r̥tasya gopā  
-síndhupatī kṣatriyā yātam arvā́k  
-íḷāṃ no mitrāvaruṇotá vr̥ṣṭím  
-áva divá invataṃ jīradānū  
+आ꣡ राजाना मह ऋतस्य गोपा  
+सि꣡न्धुपती क्षत्रिया यातम् अर्वा꣡क्  
+इ꣡ऌआं नो मित्रावरुणोत꣡ वृष्टि꣡म्  
+अ꣡व दिव꣡ इन्वतं जीरदानू  

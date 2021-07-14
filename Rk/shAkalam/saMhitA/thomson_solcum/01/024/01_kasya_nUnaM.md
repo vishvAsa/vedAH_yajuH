@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kásya nūnáṃ katamásyāmŕ̥tānām  
-mánāmahe cā́ru devásya nā́ma  
-kó no mahyā́ áditaye púnar dāt  
-pitáraṃ ca dr̥śéyam mātáraṃ ca  
+क꣡स्य नूनं꣡ कतम꣡स्याम्ŕ̥तानाम्  
+म꣡नामहे चा꣡रु देव꣡स्य ना꣡म  
+को꣡ नो मह्या꣡ अ꣡दितये पु꣡नर् दात्  
+पित꣡रं च दृशे꣡यम् मात꣡रं च  

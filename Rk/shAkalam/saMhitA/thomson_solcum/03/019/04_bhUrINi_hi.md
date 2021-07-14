@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-bhū́rīṇi hí tvé dadhiré ánīkā  
-ágne devásya yájyavo jánāsaḥ  
-sá ā́ vaha devátātiṃ yaviṣṭha  
-śárdho yád adyá diviyáṃ yájāsi  
+भू꣡रीणि हि꣡ त्वे꣡ दधिरे꣡ अ꣡नीका  
+अ꣡ग्ने देव꣡स्य य꣡ज्यवो ज꣡नासः  
+स꣡ आ꣡ वह देव꣡तातिं यविष्ठ  
+श꣡र्धो य꣡द् अद्य꣡ दिवियं꣡ य꣡जासि  

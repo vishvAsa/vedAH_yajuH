@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yáthā káṇve maghavan médhe adhvaré  
-dīrghánīthe dámūnasi  
-yáthā góśarye ásiṣāso adrivo  
-máyi gotráṃ hariśríyam  
+य꣡था क꣡ण्वे मघवन् मे꣡धे अध्वरे꣡  
+दीर्घ꣡नीथे द꣡मूनसि  
+य꣡था गो꣡शर्ये अ꣡सिषासो अद्रिवो  
+म꣡यि गोत्रं꣡ हरिश्रि꣡यम्  

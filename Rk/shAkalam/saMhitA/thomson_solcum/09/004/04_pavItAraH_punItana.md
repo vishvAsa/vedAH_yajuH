@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-pávītāraḥ punītána  
-sómam índrāya pā́tave  
-áthā no vásyasas kr̥dhi  
+प꣡वीतारः पुनीत꣡न  
+सो꣡मम् इ꣡न्द्राय पा꣡तवे  
+अ꣡था नो व꣡स्यसस् कृधि  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvé asuryàṃ vásavo ní r̥ṇvan  
-krátuṃ hí te mitramaho juṣánta  
-tuváṃ dásyūm̐r ókaso agna āja  
-urú jyótir janáyann ā́riyāya  
+तुवे꣡ असुर्यं᳡ व꣡सवो नि꣡ ऋण्वन्  
+क्र꣡तुं हि꣡ ते मित्रमहो जुष꣡न्त  
+तुवं꣡ द꣡स्यूँर् ओ꣡कसो अग्न आज  
+उरु꣡ ज्यो꣡तिर् जन꣡यन्न् आ꣡रियाय  

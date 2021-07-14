@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá hótā jātó mahā́n nabhovín  
-nr̥ṣádvā sīdad apā́m upásthe  
-dádhir yó dhā́yi sá te váyāṃsi  
-yantā́ vásūni vidhaté tanūpā́ḥ  
+प्र꣡ हो꣡ता जातो꣡ महा꣡न् नभोवि꣡न्  
+नृष꣡द्वा सीदद् अपा꣡म् उप꣡स्थे  
+द꣡धिर् यो꣡ धा꣡यि स꣡ ते व꣡यांसि  
+यन्ता꣡ व꣡सूनि विधते꣡ तनूपाः꣡  

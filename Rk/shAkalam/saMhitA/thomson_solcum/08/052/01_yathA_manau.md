@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yáthā mánau vívasvati  
-sómaṃ śakrā́pibaḥ sutám  
-yáthā trité chánda indra jújoṣasi  
-āyaú mādayase sácā  
+य꣡था म꣡नौ वि꣡वस्वति  
+सो꣡मं शक्रा꣡पिबः सुत꣡म्  
+य꣡था त्रिते꣡ छ꣡न्द इन्द्र जु꣡जोषसि  
+आयउ꣡ मादयसे स꣡चा  

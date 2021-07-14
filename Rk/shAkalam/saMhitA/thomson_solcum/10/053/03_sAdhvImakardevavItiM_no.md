@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sādhvī́m akar devávītiṃ no adyá  
-yajñásya jihvā́m avidāma gúhyām  
-sá ā́yur ā́gāt surabhír vásāno  
-bhadrā́m akar deváhūtiṃ no adyá  
+साध्वी꣡म् अकर् देव꣡वीतिं नो अद्य꣡  
+यज्ञ꣡स्य जिह्वा꣡म् अविदाम गु꣡ह्याम्  
+स꣡ आ꣡युर् आ꣡गात् सुरभि꣡र् व꣡सानो  
+भद्रा꣡म् अकर् देव꣡हूतिं नो अद्य꣡  

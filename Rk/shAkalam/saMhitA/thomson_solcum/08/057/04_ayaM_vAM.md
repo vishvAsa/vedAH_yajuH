@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ayáṃ vām bhāgó níhito yajatrā  
-imā́ gíro nāsatiyópa yātam  
-píbataṃ sómam mádhumantam asmé  
-prá dāśuvā́ṃsam avataṃ śácībhiḥ  
+अयं꣡ वाम् भागो꣡ नि꣡हितो यजत्रा  
+इमा꣡ गि꣡रो नासतियो꣡प यातम्  
+पि꣡बतं सो꣡मम् म꣡धुमन्तम् अस्मे꣡  
+प्र꣡ दाशुवां꣡सम् अवतं श꣡चीभिः  

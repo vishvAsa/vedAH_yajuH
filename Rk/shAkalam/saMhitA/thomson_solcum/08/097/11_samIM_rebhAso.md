@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-sám īṃ rebhā́so asvarann  
-índraṃ sómasya pītáye  
-súvarpatiṃ yád īṃ vr̥dhé  
-dhr̥távrato hí ójasā sám ūtíbhiḥ  
+स꣡म् ईं रेभा꣡सो अस्वरन्न्  
+इ꣡न्द्रं सो꣡मस्य पीत꣡ये  
+सु꣡वर्पतिं य꣡द् ईं वृधे꣡  
+धृत꣡व्रतो हि꣡ ओ꣡जसा स꣡म् ऊति꣡भिः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-asyá śā́sur ubháyāsaḥ sacante  
-havíṣmanta uśíjo yé ca mártāḥ  
-diváś cit pū́rvo ní asādi hótā  
-āpŕ̥chiyo viśpátir vikṣú vedhā́ḥ  
+अस्य꣡ शा꣡सुर् उभ꣡यासः सचन्ते  
+हवि꣡ष्मन्त उशि꣡जो ये꣡ च म꣡र्ताः  
+दिव꣡श् चित् पू꣡र्वो नि꣡ असादि हो꣡ता  
+आप्ŕ̥छियो विश्प꣡तिर् विक्षु꣡ वेधाः꣡  

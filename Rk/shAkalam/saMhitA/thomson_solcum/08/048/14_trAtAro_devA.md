@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-trā́tāro devā ádhi vocatā no  
-mā́ no nidrā́ īśata mótá jálpiḥ  
-vayáṃ sómasya viśváha priyā́saḥ  
-suvī́rāso vidátham ā́ vadema  
+त्रा꣡तारो देवा अ꣡धि वोचता नो  
+मा꣡ नो निद्रा꣡ ईशत मो꣡त꣡ ज꣡ल्पिः  
+वयं꣡ सो꣡मस्य विश्व꣡ह प्रिया꣡सः  
+सुवी꣡रासो विद꣡थम् आ꣡ वदेम  

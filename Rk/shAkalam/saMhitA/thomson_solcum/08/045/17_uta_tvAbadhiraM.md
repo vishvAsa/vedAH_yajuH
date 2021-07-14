@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-utá tvā́badhiraṃ vayáṃ  
-śrútkarṇaṃ sántam ūtáye  
-dūrā́d ihá havāmahe  
+उत꣡ त्वा꣡बधिरं वयं꣡  
+श्रु꣡त्कर्णं स꣡न्तम् ऊत꣡ये  
+दूरा꣡द् इह꣡ हवामहे  

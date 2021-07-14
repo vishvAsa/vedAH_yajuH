@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yáḥ smārundhānó gádhiyā samátsu  
-sánutaraś cárati góṣu gáchan  
-āvírr̥jīko vidáthā nicíkyat  
-tiró aratím pári ā́pa āyóḥ  
+यः꣡ स्मारुन्धानो꣡ ग꣡धिया सम꣡त्सु  
+स꣡नुतरश् च꣡रति गो꣡षु ग꣡छन्  
+आवि꣡रृजीको विद꣡था निचि꣡क्यत्  
+तिरो꣡ अरति꣡म् प꣡रि आ꣡प आयोः꣡  

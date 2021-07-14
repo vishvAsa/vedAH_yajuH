@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-udgātéva śakune sā́ma gāyasi  
-brahmaputrá 'va° sávaneṣu śaṃsasi  
-vŕ̥ṣeva vājī́ śíśumatīr apī́tiyā  
-sarváto naḥ śakune bhadrám ā́ vada  
-viśváto naḥ śakune púṇyam ā́ vada  
+उद्गाते꣡व शकुने सा꣡म गायसि  
+ब्रह्मपुत्र꣡ ऽव° स꣡वनेषु शंससि  
+व्ŕ̥षेव वाजी꣡ शि꣡शुमतीर् अपी꣡तिया  
+सर्व꣡तो नः शकुने भद्र꣡म् आ꣡ वद  
+विश्व꣡तो नः शकुने पु꣡ण्यम् आ꣡ वद  

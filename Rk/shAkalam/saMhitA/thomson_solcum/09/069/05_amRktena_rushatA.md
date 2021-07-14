@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ámr̥ktena rúśatā vā́sasā hárir  
-ámartiyo nirṇijānáḥ pári vyata  
-divás pr̥ṣṭhám barháṇā nirṇíje kr̥ta  
-upastáraṇaṃ camúvor nabhasmáyam  
+अ꣡मृक्तेन रु꣡शता वा꣡ससा ह꣡रिर्  
+अ꣡मर्तियो निर्णिजानः꣡ प꣡रि व्यत  
+दिव꣡स् पृष्ठ꣡म् बर्ह꣡णा निर्णि꣡जे कृत  
+उपस्त꣡रणं चमु꣡वोर् नभस्म꣡यम्  

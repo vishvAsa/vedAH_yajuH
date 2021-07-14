@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-udnó hradám apibaj járhr̥ṣāṇaḥ  
-kū́ṭaṃ sma tr̥ṃhád abhímātim eti  
-prá muṣkábhāraḥ śráva ichámāno  
-ajirám bāhū́ abharat síṣāsan  
+उद्नो꣡ ह्रद꣡म् अपिबज् ज꣡र्हृषाणः  
+कू꣡टं स्म तृंह꣡द् अभि꣡मातिम् एति  
+प्र꣡ मुष्क꣡भारः श्र꣡व इछ꣡मानो  
+अजिर꣡म् बाहू꣡ अभरत् सि꣡षासन्  

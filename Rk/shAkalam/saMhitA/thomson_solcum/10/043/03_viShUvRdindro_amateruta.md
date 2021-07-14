@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-viṣūvŕ̥d índro ámater utá kṣudháḥ  
-sá íd rāyó maghávā vásva īśate  
-tásyéd imé pravaṇé saptá síndhavo  
-váyo vardhanti vr̥ṣabhásya śuṣmíṇaḥ  
+विषूव्ŕ̥द् इ꣡न्द्रो अ꣡मतेर् उत꣡ क्षुधः꣡  
+स꣡ इ꣡द् रायो꣡ मघ꣡वा व꣡स्व ईशते  
+त꣡स्ये꣡द् इमे꣡ प्रवणे꣡ सप्त꣡ सि꣡न्धवो  
+व꣡यो वर्धन्ति वृषभ꣡स्य शुष्मि꣡णः  

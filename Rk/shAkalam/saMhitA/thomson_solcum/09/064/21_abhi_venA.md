@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-abhí venā́ anūṣata  
-íyakṣanti prácetasaḥ  
-májjanti ávicetasaḥ  
+अभि꣡ वेना꣡ अनूषत  
+इ꣡यक्षन्ति प्र꣡चेतसः  
+म꣡ज्जन्ति अ꣡विचेतसः  

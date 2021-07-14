@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-índra mr̥̄ḷá+ máhya° jīvā́tum icha  
-codáya dhíyam áyaso ná dhā́rām  
-yát kíṃ cāháṃ tvāyúr idáṃ vádāmi  
-táj juṣasva kr̥dhí mā devávantam  
+इ꣡न्द्र मॄऌअ꣡+ म꣡ह्य° जीवा꣡तुम् इछ  
+चोद꣡य धि꣡यम् अ꣡यसो न꣡ धा꣡राम्  
+य꣡त् किं꣡ चाहं꣡ त्वायु꣡र् इदं꣡ व꣡दामि  
+त꣡ज् जुषस्व कृधि꣡ मा देव꣡वन्तम्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yáś cid ā́po mahinā́ paryápaśyad  
-dákṣaṃ dádhānā janáyantīr yajñám  
-yó devéṣv ádhi devá éka ā́sīt  
-kásmai devā́ya havíṣā vidhema  
+य꣡श् चिद् आ꣡पो महिना꣡ पर्य꣡पश्यद्  
+द꣡क्षं द꣡धाना जन꣡यन्तीर् यज्ञ꣡म्  
+यो꣡ देवे꣡ष्व् अ꣡धि देव꣡ ए꣡क आ꣡सीत्  
+क꣡स्मै देवा꣡य हवि꣡षा विधेम  

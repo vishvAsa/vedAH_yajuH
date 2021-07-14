@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-revā́m̐ íd reváta stotā́  
-syā́t tuvā́vato maghónaḥ  
-préd u harivaḥ śrutásya  
+रेवाँ꣡ इ꣡द् रेव꣡त स्तोता꣡  
+स्या꣡त् तुवा꣡वतो मघो꣡नः  
+प्रे꣡द् उ हरिवः श्रुत꣡स्य  

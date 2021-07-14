@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá mā́hina índaro+ árṇo apā́m  
-prá airayad ahihā́chā samudrám  
-ájanayat sū́riyaṃ vidád gā́  
-aktúnā áhnāṃ vayúnāni sādhat  
+स꣡ मा꣡हिन इ꣡न्दरो+ अ꣡र्णो अपा꣡म्  
+प्र꣡ ऐरयद् अहिहा꣡छा समुद्र꣡म्  
+अ꣡जनयत् सू꣡रियं विद꣡द् गा꣡  
+अक्तु꣡ना अ꣡ह्नां वयु꣡नानि साधत्  

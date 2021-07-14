@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-út te śúṣmā jihatām út te arcír  
-út te agne śaśamānásya vā́jāḥ  
-úc chvañcasva ní nama várdhamāna  
-ā́ tvādyá víśve vásavaḥ sadantu  
+उ꣡त् ते शु꣡ष्मा जिहताम् उ꣡त् ते अर्चि꣡र्  
+उ꣡त् ते अग्ने शशमान꣡स्य वा꣡जाः  
+उ꣡च् छ्वञ्चस्व नि꣡ नम व꣡र्धमान  
+आ꣡ त्वाद्य꣡ वि꣡श्वे व꣡सवः सदन्तु  

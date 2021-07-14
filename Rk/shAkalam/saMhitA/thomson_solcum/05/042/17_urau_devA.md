@@ -2,4 +2,4 @@
 title = "017"
 
 +++
-uraú devā anibādhé siyāma  
+उरउ꣡ देवा अनिबाधे꣡ सियाम  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-prá hótre pūrviyáṃ váco  
-agnáye bharatā br̥hát  
-vipā́ṃ jyótīṃṣi bíbhrate ná vedháse  
+प्र꣡ हो꣡त्रे पूर्वियं꣡ व꣡चो  
+अग्न꣡ये भरता बृह꣡त्  
+विपां꣡ ज्यो꣡तींषि बि꣡भ्रते न꣡ वेध꣡से  

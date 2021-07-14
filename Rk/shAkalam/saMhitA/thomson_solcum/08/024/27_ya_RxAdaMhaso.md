@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-yá ŕ̥kṣād áṃhaso mucád  
-yó vā́ryāt saptá síndhuṣu  
-vádhar dāsásya tuvinr̥mṇa nīnamaḥ  
+य꣡ ŕ̥क्षाद् अं꣡हसो मुच꣡द्  
+यो꣡ वा꣡र्यात् सप्त꣡ सि꣡न्धुषु  
+व꣡धर् दास꣡स्य तुविनृम्ण नीनमः  

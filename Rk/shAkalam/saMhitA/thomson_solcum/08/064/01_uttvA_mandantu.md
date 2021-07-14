@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-út tvā mandantu stómāḥ  
-kr̥ṇuṣvá rā́dho adrivaḥ  
-áva brahmadvíṣo jahi  
+उ꣡त् त्वा मन्दन्तु स्तो꣡माः  
+कृणुष्व꣡ रा꣡धो अद्रिवः  
+अ꣡व ब्रह्मद्वि꣡षो जहि  

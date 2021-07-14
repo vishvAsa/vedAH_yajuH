@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tvám agne rā́jā váruṇo dhr̥távratas  
-tuvám mitró bhavasi dasmá ī́ḍiyaḥ  
-tvám aryamā́ sátpatir yásya sambhújaṃ  
-tuvám áṃśo vidáthe deva bhājayúḥ  
+त्व꣡म् अग्ने रा꣡जा व꣡रुणो धृत꣡व्रतस्  
+तुव꣡म् मित्रो꣡ भवसि दस्म꣡ ई꣡डियः  
+त्व꣡म् अर्यमा꣡ स꣡त्पतिर् य꣡स्य सम्भु꣡जं  
+तुव꣡म् अं꣡शो विद꣡थे देव भाजयुः꣡  

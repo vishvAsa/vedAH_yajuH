@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-tuváṃ hí rādhaspate rā́dhaso maháḥ  
-kṣáyasya ási vidhatáḥ  
-táṃ tvā vayám maghavann indra girvaṇaḥ  
-sutā́vanto havāmahe  
+तुवं꣡ हि꣡ राधस्पते रा꣡धसो महः꣡  
+क्ष꣡यस्य अ꣡सि विधतः꣡  
+तं꣡ त्वा वय꣡म् मघवन्न् इन्द्र गिर्वणः  
+सुता꣡वन्तो हवामहे  

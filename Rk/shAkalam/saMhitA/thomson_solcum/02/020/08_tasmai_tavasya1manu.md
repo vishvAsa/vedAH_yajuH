@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tásmai tavasíyam ánu dāyi satrā́  
-índrāya · devébhir árṇasātau  
-práti yád asya vájram bāhuvór dhúr  
-hatvī́ dásyūn púra ā́yasīr ní tārīt  
+त꣡स्मै तवसि꣡यम् अ꣡नु दायि सत्रा꣡  
+इ꣡न्द्राय · देवे꣡भिर् अ꣡र्णसातौ  
+प्र꣡ति य꣡द् अस्य व꣡ज्रम् बाहुवो꣡र् धु꣡र्  
+हत्वी꣡ द꣡स्यून् पु꣡र आ꣡यसीर् नि꣡ तारीत्  

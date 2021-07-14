@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yuktó ha yád vāṃ taugriyā́ya perúr  
-ví mádhye · árṇaso dhā́yi pajráḥ  
-úpa vām ávaḥ śaraṇáṃ gameyaṃ  
-śū́ro ná ájma patáyadbhir évaiḥ  
+युक्तो꣡ ह य꣡द् वां तौग्रिया꣡य पेरु꣡र्  
+वि꣡ म꣡ध्ये · अ꣡र्णसो धा꣡यि पज्रः꣡  
+उ꣡प वाम् अ꣡वः शरणं꣡ गमेयं  
+शू꣡रो न꣡ अ꣡ज्म पत꣡यद्भिर् ए꣡वैः  

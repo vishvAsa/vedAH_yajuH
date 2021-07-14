@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-pávamāno ajījanad  
-diváś citráṃ ná tanyatúm  
-jyótir vaiśvānarám br̥hát  
+प꣡वमानो अजीजनद्  
+दिव꣡श् चित्रं꣡ न꣡ तन्यतु꣡म्  
+ज्यो꣡तिर् वैश्वानर꣡म् बृह꣡त्  

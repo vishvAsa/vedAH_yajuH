@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-utá vāta pitā́si na  
-utá bhrā́totá naḥ sákhā  
-sá no jīvā́tave kr̥dhi  
+उत꣡ वात पिता꣡सि न  
+उत꣡ भ्रा꣡तोत꣡ नः स꣡खा  
+स꣡ नो जीवा꣡तवे कृधि  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-r̥táṃ yemāná r̥tám íd vanoti  
-r̥tásya śúṣmas turayā́ u gavyúḥ  
-r̥tā́ya pr̥thvī́ bahulé gabhīré  
-r̥tā́ya dhenū́ paramé duhāte  
+ऋतं꣡ येमान꣡ ऋत꣡म् इ꣡द् वनोति  
+ऋत꣡स्य शु꣡ष्मस् तुरया꣡ उ गव्युः꣡  
+ऋता꣡य पृथ्वी꣡ बहुले꣡ गभीरे꣡  
+ऋता꣡य धेनू꣡ परमे꣡ दुहाते  

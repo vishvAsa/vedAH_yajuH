@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá śárdhāya mā́rutāya svábhānava  
-imā́ṃ vā́cam anajā parvatacyúte  
-gharmastúbhe divá ā́ pr̥ṣṭhayájvane  
-dyumnáśravase máhi nr̥mṇám arcata  
+प्र꣡ श꣡र्धाय मा꣡रुताय स्व꣡भानव  
+इमां꣡ वा꣡चम् अनजा पर्वतच्यु꣡ते  
+घर्मस्तु꣡भे दिव꣡ आ꣡ पृष्ठय꣡ज्वने  
+द्युम्न꣡श्रवसे म꣡हि नृम्ण꣡म् अर्चत  

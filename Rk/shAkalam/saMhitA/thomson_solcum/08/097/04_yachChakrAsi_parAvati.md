@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yác chakrā́si parāváti  
-yád arvāváti vr̥trahan  
-átas tvā gīrbhír dyugád indra keśíbhiḥ  
-sutā́vām̐ ā́ vivāsati  
+य꣡च् छक्रा꣡सि पराव꣡ति  
+य꣡द् अर्वाव꣡ति वृत्रहन्  
+अ꣡तस् त्वा गीर्भि꣡र् द्युग꣡द् इन्द्र केशि꣡भिः  
+सुता꣡वाँ आ꣡ विवासति  

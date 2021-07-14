@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-agníṃ víśvā abhí pŕ̥kṣaḥ sacante  
-samudráṃ ná sravátaḥ saptá yahvī́ḥ  
-ná jāmíbhir ví cikite váyo no  
-vidā́ devéṣu prámatiṃ cikitvā́n  
+अग्निं꣡ वि꣡श्वा अभि꣡ प्ŕ̥क्षः सचन्ते  
+समुद्रं꣡ न꣡ स्रव꣡तः सप्त꣡ यह्वीः꣡  
+न꣡ जामि꣡भिर् वि꣡ चिकिते व꣡यो नो  
+विदा꣡ देवे꣡षु प्र꣡मतिं चिकित्वा꣡न्  

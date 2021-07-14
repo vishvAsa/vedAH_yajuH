@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ yám pr̥ṇánti diví sádmabarhiṣaḥ  
-samudráṃ ná subhúvaḥ svā́ abhíṣṭayaḥ  
-táṃ vr̥trahátye ánu tasthur ūtáyaḥ  
-śúṣmā índram avātā́ áhrutapsavaḥ  
+आ꣡ य꣡म् पृण꣡न्ति दिवि꣡ स꣡द्मबर्हिषः  
+समुद्रं꣡ न꣡ सुभु꣡वः स्वा꣡ अभि꣡ष्टयः  
+तं꣡ वृत्रह꣡त्ये अ꣡नु तस्थुर् ऊत꣡यः  
+शु꣡ष्मा इ꣡न्द्रम् अवाता꣡ अ꣡ह्रुतप्सवः  

@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-ayám akr̥ṇod uṣásaḥ supátnīr  
-ayáṃ sū́rye adadhāj jyótir antáḥ  
-ayáṃ tridhā́tu diví rocanéṣu  
-tritéṣu vindad amŕ̥taṃ nígūḷham  
+अय꣡म् अकृणोद् उष꣡सः सुप꣡त्नीर्  
+अयं꣡ सू꣡र्ये अदधाज् ज्यो꣡तिर् अन्तः꣡  
+अयं꣡ त्रिधा꣡तु दिवि꣡ रोचने꣡षु  
+त्रिते꣡षु विन्दद् अम्ŕ̥तं नि꣡गूऌहम्  

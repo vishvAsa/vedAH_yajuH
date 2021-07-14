@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-kúva trī́ cakrā́ trivŕ̥to ráthasya  
-kúva tráyo vandhúro yé sánīḷāḥ  
-kadā́ yógo vājíno rā́sabhasya  
-yéna yajñáṃ nāsatiyopayātháḥ  
+कु꣡व त्री꣡ चक्रा꣡ त्रिव्ŕ̥तो र꣡थस्य  
+कु꣡व त्र꣡यो वन्धु꣡रो ये꣡ स꣡नीऌआः  
+कदा꣡ यो꣡गो वाजि꣡नो रा꣡सभस्य  
+ये꣡न यज्ञं꣡ नासतियोपयाथः꣡  

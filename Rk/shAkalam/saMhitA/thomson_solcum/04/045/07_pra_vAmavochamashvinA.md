@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-prá vām avocam aśvinā dhiyaṃdhā́  
-ráthaḥ suáśvo ajáro yó ásti  
-yéna sadyáḥ pári rájāṃsi yāthó  
-havíṣmantaṃ taráṇim bhojám ácha  
+प्र꣡ वाम् अवोचम् अश्विना धियंधा꣡  
+र꣡थः सुअ꣡श्वो अज꣡रो यो꣡ अ꣡स्ति  
+ये꣡न सद्यः꣡ प꣡रि र꣡जांसि याथो꣡  
+हवि꣡ष्मन्तं तर꣡णिम् भोज꣡म् अ꣡छ  

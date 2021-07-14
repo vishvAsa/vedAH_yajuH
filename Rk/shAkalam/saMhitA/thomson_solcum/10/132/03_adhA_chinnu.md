@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ádhā cin nú yád dídhiṣāmahe vām  
-abhí priyáṃ rékaṇaḥ pátyamānāḥ  
-dadvā́m̐ vā yát púṣyati rékṇaḥ  
-sám ū āran nákir asya maghā́ni  
+अ꣡धा चिन् नु꣡ य꣡द् दि꣡धिषामहे वाम्  
+अभि꣡ प्रियं꣡ रे꣡कणः प꣡त्यमानाः  
+दद्वाँ꣡ वा य꣡त् पु꣡ष्यति रे꣡क्णः  
+स꣡म् ऊ आरन् न꣡किर् अस्य मघा꣡नि  

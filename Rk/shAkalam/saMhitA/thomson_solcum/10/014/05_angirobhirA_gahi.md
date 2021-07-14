@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áṅgirobhir ā́ gahi yajñíyebhir  
-yáma vairūpaír ihá mādayasva  
-vívasvantaṃ huve yáḥ pitā́ te  
-asmín yajñé barhíṣi ā́ niṣádya  
+अ꣡ङ्गिरोभिर् आ꣡ गहि यज्ञि꣡येभिर्  
+य꣡म वैरूपइ꣡र् इह꣡ मादयस्व  
+वि꣡वस्वन्तं हुवे यः꣡ पिता꣡ ते  
+अस्मि꣡न् यज्ञे꣡ बर्हि꣡षि आ꣡ निष꣡द्य  

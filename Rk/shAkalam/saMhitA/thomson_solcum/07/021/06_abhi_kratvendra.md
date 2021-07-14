@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-abhí krátvā indara+ bhūr ádha jmán  
-ná te vivyaṅ mahimā́naṃ rájāṃsi  
-svénā hí vr̥tráṃ śávasā jaghántha  
-ná śátrur ántaṃ vividad yudhā́ te  
+अभि꣡ क्र꣡त्वा इन्दर+ भूर् अ꣡ध ज्म꣡न्  
+न꣡ ते विव्यङ् महिमा꣡नं र꣡जांसि  
+स्वे꣡ना हि꣡ वृत्रं꣡ श꣡वसा जघ꣡न्थ  
+न꣡ श꣡त्रुर् अ꣡न्तं विविदद् युधा꣡ ते  

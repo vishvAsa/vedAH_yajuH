@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tám marmr̥jānám mahiṣáṃ ná sā́nā  
-aṃśúṃ duhanti ukṣáṇaṃ giriṣṭhā́m  
-táṃ vāvaśānám matáyaḥ sacante  
-tritó bibharti váruṇaṃ samudré  
+त꣡म् मर्मृजान꣡म् महिषं꣡ न꣡ सा꣡ना  
+अंशुं꣡ दुहन्ति उक्ष꣡णं गिरिष्ठा꣡म्  
+तं꣡ वावशान꣡म् मत꣡यः सचन्ते  
+त्रितो꣡ बिभर्ति व꣡रुणं समुद्रे꣡  

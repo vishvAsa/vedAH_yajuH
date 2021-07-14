@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-rápad gandharvī́r ápiyā ca yóṣaṇā  
-nadásya nādé pári pātu me mánaḥ  
-iṣṭásya mádhye áditir ní dhātu no  
-bhrā́tā no jyeṣṭháḥ prathamó ví vocati  
+र꣡पद् गन्धर्वी꣡र् अ꣡पिया च यो꣡षणा  
+नद꣡स्य नादे꣡ प꣡रि पातु मे म꣡नः  
+इष्ट꣡स्य म꣡ध्ये अ꣡दितिर् नि꣡ धातु नो  
+भ्रा꣡ता नो ज्येष्ठः꣡ प्रथमो꣡ वि꣡ वोचति  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-eté vadanti śatávat sahásravad  
-abhí krandanti háritebhir āsábhiḥ  
-viṣṭvī́ grā́vāṇaḥ sukŕ̥taḥ sukr̥tyáyā  
-hótuś cit pū́rve havirádyam āśata  
+एते꣡ वदन्ति शत꣡वत् सह꣡स्रवद्  
+अभि꣡ क्रन्दन्ति ह꣡रितेभिर् आस꣡भिः  
+विष्ट्वी꣡ ग्रा꣡वाणः सुक्ŕ̥तः सुकृत्य꣡या  
+हो꣡तुश् चित् पू꣡र्वे हविर꣡द्यम् आशत  

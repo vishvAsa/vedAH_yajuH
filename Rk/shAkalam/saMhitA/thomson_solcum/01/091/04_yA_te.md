@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yā́ te dhā́māni diví yā́ pr̥thivyā́ṃ  
-yā́ párvateṣu óṣadhīṣu apsú  
-tébhir no víśvaiḥ sumánā áheḷan  
-rā́jan soma práti havyā́ gr̥bhāya  
+या꣡ ते धा꣡मानि दिवि꣡ या꣡ पृथिव्यां꣡  
+या꣡ प꣡र्वतेषु ओ꣡षधीषु अप्सु꣡  
+ते꣡भिर् नो वि꣡श्वैः सुम꣡ना अ꣡हेऌअन्  
+रा꣡जन् सोम प्र꣡ति हव्या꣡ गृभाय  

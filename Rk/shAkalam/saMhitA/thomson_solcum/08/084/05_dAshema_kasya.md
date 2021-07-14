@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-dā́śema kásya mánasā  
-yajñásya sahaso yaho  
-kád u voca idáṃ námaḥ  
+दा꣡शेम क꣡स्य म꣡नसा  
+यज्ञ꣡स्य सहसो यहो  
+क꣡द् उ वोच इदं꣡ न꣡मः  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yád devā́piḥ śáṃtanave puróhito  
-hotrā́ya vr̥táḥ kr̥páyann ádīdhet  
-devaśrútaṃ vr̥ṣṭivániṃ rárāṇo  
-bŕ̥haspátir vā́cam asmā ayachat  
+य꣡द् देवा꣡पिः शं꣡तनवे पुरो꣡हितो  
+होत्रा꣡य वृतः꣡ कृप꣡यन्न् अ꣡दीधेत्  
+देवश्रु꣡तं वृष्टिव꣡निं र꣡राणो  
+ब्ŕ̥हस्प꣡तिर् वा꣡चम् अस्मा अयछत्  

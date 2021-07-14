@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-diváś cid rocanā́d ádhi  
-ā́ no gantaṃ suvarvidā  
-dhībhír vatsapracetasā  
-stómebhir havanaśrutā  
+दिव꣡श् चिद् रोचना꣡द् अ꣡धि  
+आ꣡ नो गन्तं सुवर्विदा  
+धीभि꣡र् वत्सप्रचेतसा  
+स्तो꣡मेभिर् हवनश्रुता  

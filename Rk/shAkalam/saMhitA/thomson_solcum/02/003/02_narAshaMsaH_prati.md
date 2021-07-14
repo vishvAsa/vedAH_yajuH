@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-nárāśáṃsaḥ práti dhā́māni añján  
-tisró dívaḥ práti mahnā́ suarcíḥ  
-ghr̥taprúṣā mánasā havyám undán  
-mūrdhán yajñásya sám anaktu devā́n  
+न꣡राशं꣡सः प्र꣡ति धा꣡मानि अञ्ज꣡न्  
+तिस्रो꣡ दि꣡वः प्र꣡ति मह्ना꣡ सुअर्चिः꣡  
+घृतप्रु꣡षा म꣡नसा हव्य꣡म् उन्द꣡न्  
+मूर्ध꣡न् यज्ञ꣡स्य स꣡म् अनक्तु देवा꣡न्  

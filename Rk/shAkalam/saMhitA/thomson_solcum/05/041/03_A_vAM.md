@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ vāṃ yáyiṣṭhā+ aśvinā huvádhyai  
-vā́tasya pátman ráthiyasya puṣṭaú  
-utá vā divó ásurāya mánma  
-prá ándhāṃsīva yájyave bharadhvam  
+आ꣡ वां य꣡यिष्ठा+ अश्विना हुव꣡ध्यै  
+वा꣡तस्य प꣡त्मन् र꣡थियस्य पुष्टउ꣡  
+उत꣡ वा दिवो꣡ अ꣡सुराय म꣡न्म  
+प्र꣡ अ꣡न्धांसीव य꣡ज्यवे भरध्वम्  

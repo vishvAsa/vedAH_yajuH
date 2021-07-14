@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ágne yáṃ yajñám adhvaráṃ  
-viśvátaḥ paribhū́r ási  
-sá íd devéṣu gachati  
+अ꣡ग्ने यं꣡ यज्ञ꣡म् अध्वरं꣡  
+विश्व꣡तः परिभू꣡र् अ꣡सि  
+स꣡ इ꣡द् देवे꣡षु गछति  

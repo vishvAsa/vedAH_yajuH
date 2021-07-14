@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-kuvín mā gopā́ṃ kárase jánasya  
-kuvíd rā́jānam maghavann r̥jīṣin  
-kuvín ma ŕ̥ṣim papivā́ṃsaṃ sutásya  
-kuvín me vásvo amŕ̥tasya śíkṣāḥ  
+कुवि꣡न् मा गोपां꣡ क꣡रसे ज꣡नस्य  
+कुवि꣡द् रा꣡जानम् मघवन्न् ऋजीषिन्  
+कुवि꣡न् म ŕ̥षिम् पपिवां꣡सं सुत꣡स्य  
+कुवि꣡न् मे व꣡स्वो अम्ŕ̥तस्य शि꣡क्षाः  

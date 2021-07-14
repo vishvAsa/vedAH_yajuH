@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-víśve ta indra vīríyaṃ  
-devā́ ánu krátuṃ daduḥ  
-bhúvo víśvasya gópatiḥ puruṣṭuta  
-bhadrā́ índrasya rātáyaḥ  
+वि꣡श्वे त इन्द्र वीरि꣡यं  
+देवा꣡ अ꣡नु क्र꣡तुं ददुः  
+भु꣡वो वि꣡श्वस्य गो꣡पतिः पुरुष्टुत  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  

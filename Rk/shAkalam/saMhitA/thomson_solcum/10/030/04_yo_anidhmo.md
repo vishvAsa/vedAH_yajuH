@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yó anidhmó dī́dayad apsú antár  
-yáṃ víprāsa ī́ḷate adhvaréṣu  
-ápāṃ napān mádhumatīr apó dā  
-yā́bhir índro vāvr̥dhé vīríyāya  
+यो꣡ अनिध्मो꣡ दी꣡दयद् अप्सु꣡ अन्त꣡र्  
+यं꣡ वि꣡प्रास ई꣡ऌअते अध्वरे꣡षु  
+अ꣡पां नपान् म꣡धुमतीर् अपो꣡ दा  
+या꣡भिर् इ꣡न्द्रो वावृधे꣡ वीरि꣡याय  

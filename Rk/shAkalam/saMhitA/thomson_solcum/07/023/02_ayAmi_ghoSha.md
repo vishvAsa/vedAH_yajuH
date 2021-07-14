@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áyāmi ghóṣa indra devájāmir  
-irajyánta yác churúdho vívāci  
-nahí svám ā́yuś cikité jáneṣu  
-tā́nī́d áṃhāṃsi áti parṣi asmā́n  
+अ꣡यामि घो꣡ष इन्द्र देव꣡जामिर्  
+इरज्य꣡न्त य꣡च् छुरु꣡धो वि꣡वाचि  
+नहि꣡ स्व꣡म् आ꣡युश् चिकिते꣡ ज꣡नेषु  
+ता꣡नी꣡द् अं꣡हांसि अ꣡ति पर्षि अस्मा꣡न्  

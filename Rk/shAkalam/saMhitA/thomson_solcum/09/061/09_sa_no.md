@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-sá no bhágāya vāyáve  
-pūṣṇé pavasva mádhumān  
-cā́rur mitré váruṇe ca  
+स꣡ नो भ꣡गाय वाय꣡वे  
+पूष्णे꣡ पवस्व म꣡धुमान्  
+चा꣡रुर् मित्रे꣡ व꣡रुणे च  

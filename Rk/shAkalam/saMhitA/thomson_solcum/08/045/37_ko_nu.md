@@ -2,6 +2,6 @@
 title = "037"
 
 +++
-kó nú maryā ámithitaḥ  
-sákhā sákhāyam abravīt  
-jahā́ kó asmád īṣate  
+को꣡ नु꣡ मर्या अ꣡मिथितः  
+स꣡खा स꣡खायम् अब्रवीत्  
+जहा꣡ को꣡ अस्म꣡द् ईषते  

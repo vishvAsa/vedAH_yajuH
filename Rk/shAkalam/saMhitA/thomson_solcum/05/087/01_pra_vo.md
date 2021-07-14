@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-prá vo mahé matáyo yantu víṣṇave  
-marútvate girijā́ evayā́marut  
-prá śárdhāya práyajyave sukhādáye  
-taváse bhandádiṣṭaye  
-dhúnivratāya śávase  
+प्र꣡ वो महे꣡ मत꣡यो यन्तु वि꣡ष्णवे  
+मरु꣡त्वते गिरिजा꣡ एवया꣡मरुत्  
+प्र꣡ श꣡र्धाय प्र꣡यज्यवे सुखाद꣡ये  
+तव꣡से भन्द꣡दिष्टये  
+धु꣡निव्रताय श꣡वसे  

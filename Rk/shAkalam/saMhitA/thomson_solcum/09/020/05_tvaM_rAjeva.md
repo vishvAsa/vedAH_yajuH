@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-tuváṃ rā́jeva suvrató  
-gíraḥ somā́ viveśitha  
-punānó vahne adbhuta  
+तुवं꣡ रा꣡जेव सुव्रतो꣡  
+गि꣡रः सोमा꣡ विवेशिथ  
+पुनानो꣡ वह्ने अद्भुत  

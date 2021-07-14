@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-táva tyá indo ándhaso  
-devā́ mádhor ví aśnate  
-pávamānasya marútaḥ  
+त꣡व त्य꣡ इन्दो अ꣡न्धसो  
+देवा꣡ म꣡धोर् वि꣡ अश्नते  
+प꣡वमानस्य मरु꣡तः  

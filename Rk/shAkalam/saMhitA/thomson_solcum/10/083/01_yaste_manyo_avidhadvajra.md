@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yás te manyo ávidhad vajra sāyaka  
-sáha ójaḥ puṣyati víśvam ānuṣák  
-sāhyā́ma dā́sam ā́riyaṃ tváyā yujā́  
-sáhaskr̥tena sáhasā sáhasvatā  
+य꣡स् ते मन्यो अ꣡विधद् वज्र सायक  
+स꣡ह ओ꣡जः पुष्यति वि꣡श्वम् आनुष꣡क्  
+साह्या꣡म दा꣡सम् आ꣡रियं त्व꣡या युजा꣡  
+स꣡हस्कृतेन स꣡हसा स꣡हस्वता  

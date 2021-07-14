@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá vaḥ pã́ntam ándhaso dhiyāyaté  
-mahé śū́rāya víṣṇave ca arcata  
-yā́ sā́nuni párvatānām ádābhiyā  
-mahás tasthátur árvateva sādhúnā  
+प्र꣡ वः प्ã꣡न्तम् अ꣡न्धसो धियायते꣡  
+महे꣡ शू꣡राय वि꣡ष्णवे च अर्चत  
+या꣡ सा꣡नुनि प꣡र्वतानाम् अ꣡दाभिया  
+मह꣡स् तस्थ꣡तुर् अ꣡र्वतेव साधु꣡ना  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-trír ā́ diváḥ savitar vā́riyāṇi  
-divé-diva ā́ suva trír no áhnaḥ  
-tridhā́tu rāyá ā́ suvā vásūni  
-bhága trātar dhiṣaṇe sātáye dhāḥ  
+त्रि꣡र् आ꣡ दिवः꣡ सवितर् वा꣡रियाणि  
+दिवे꣡-दिव आ꣡ सुव त्रि꣡र् नो अ꣡ह्नः  
+त्रिधा꣡तु राय꣡ आ꣡ सुवा व꣡सूनि  
+भ꣡ग त्रातर् धिषणे सात꣡ये धाः  

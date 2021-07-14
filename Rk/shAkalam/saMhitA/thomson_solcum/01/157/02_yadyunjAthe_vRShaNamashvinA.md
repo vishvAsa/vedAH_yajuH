@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yád yuñjā́the vŕ̥ṣaṇam aśvinā ráthaṃ  
-ghr̥téna no mádhunā kṣatrám ukṣatam  
-asmā́kam bráhma pŕ̥tanāsu jinvataṃ  
-vayáṃ dhánā śū́rasātā bhajemahi  
+य꣡द् युञ्जा꣡थे व्ŕ̥षणम् अश्विना र꣡थं  
+घृते꣡न नो म꣡धुना क्षत्र꣡म् उक्षतम्  
+अस्मा꣡कम् ब्र꣡ह्म प्ŕ̥तनासु जिन्वतं  
+वयं꣡ ध꣡ना शू꣡रसाता भजेमहि  

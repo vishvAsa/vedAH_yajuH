@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-háriṃ hí yónim abhí yé samásvaran  
-hinvánto hárī diviyáṃ yáthā sádaḥ  
-ā́ yám pr̥ṇánti háribhir ná dhenáva  
-índrāya śūṣáṃ hárivantam arcata  
+ह꣡रिं हि꣡ यो꣡निम् अभि꣡ ये꣡ सम꣡स्वरन्  
+हिन्व꣡न्तो ह꣡री दिवियं꣡ य꣡था स꣡दः  
+आ꣡ य꣡म् पृण꣡न्ति ह꣡रिभिर् न꣡ धेन꣡व  
+इ꣡न्द्राय शूषं꣡ ह꣡रिवन्तम् अर्चत  

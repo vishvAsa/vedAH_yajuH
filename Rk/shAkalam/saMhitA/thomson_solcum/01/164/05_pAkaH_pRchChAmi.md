@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-pā́kaḥ pr̥chāmi mánasā́vijānan  
-devā́nām enā́ níhitā padā́ni  
-vatsé baṣkáye ádhi saptá tántūn  
-ví tatnire kaváya ótavā́ u  
+पा꣡कः पृछामि म꣡नसा꣡विजानन्  
+देवा꣡नाम् एना꣡ नि꣡हिता पदा꣡नि  
+वत्से꣡ बष्क꣡ये अ꣡धि सप्त꣡ त꣡न्तून्  
+वि꣡ तत्निरे कव꣡य ओ꣡तवा꣡ उ  

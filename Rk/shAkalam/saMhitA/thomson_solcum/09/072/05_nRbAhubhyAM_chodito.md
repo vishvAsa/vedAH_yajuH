@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-nŕ̥bāhúbhyāṃ coditó dhā́rayā sutó  
-anuṣvadhám pavate sóma indra te  
-ā́prāḥ krátūn sám ajair adhvaré matī́r  
-vér ná druṣác camúvor ā́sadad dháriḥ  
+न्ŕ̥बाहु꣡भ्यां चोदितो꣡ धा꣡रया सुतो꣡  
+अनुष्वध꣡म् पवते सो꣡म इन्द्र ते  
+आ꣡प्राः क्र꣡तून् स꣡म् अजैर् अध्वरे꣡ मती꣡र्  
+वे꣡र् न꣡ द्रुष꣡च् चमु꣡वोर् आ꣡सदद् ध꣡रिः  

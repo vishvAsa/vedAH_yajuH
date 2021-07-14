@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tád vo jāmitvám marutaḥ páre yugé  
-purū́ yác cháṃsam amŕ̥tāsa ā́vata  
-ayā́ dhiyā́ mánave śruṣṭím ā́viyā  
-sākáṃ náro daṃsánair ā́ cikitrire  
+त꣡द् वो जामित्व꣡म् मरुतः प꣡रे युगे꣡  
+पुरू꣡ य꣡च् छं꣡सम् अम्ŕ̥तास आ꣡वत  
+अया꣡ धिया꣡ म꣡नवे श्रुष्टि꣡म् आ꣡विया  
+साकं꣡ न꣡रो दंस꣡नैर् आ꣡ चिकित्रिरे  

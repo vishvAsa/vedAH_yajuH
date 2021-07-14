@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ádha gmántā náhuṣo hávaṃ sūréḥ  
-śrótā rājāno amŕ̥tasya mandrāḥ  
-nabhojúvo yán niravásya rā́dhaḥ  
-práśastaye mahinā́ ráthavate  
+अ꣡ध ग्म꣡न्ता न꣡हुषो ह꣡वं सूरेः꣡  
+श्रो꣡ता राजानो अम्ŕ̥तस्य मन्द्राः  
+नभोजु꣡वो य꣡न् निरव꣡स्य रा꣡धः  
+प्र꣡शस्तये महिना꣡ र꣡थवते  

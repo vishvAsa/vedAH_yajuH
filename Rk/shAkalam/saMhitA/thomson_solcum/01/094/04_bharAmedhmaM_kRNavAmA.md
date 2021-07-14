@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-bhárāmedhmáṃ kr̥ṇávāmā havī́ṃṣi te  
-citáyantaḥ párvaṇā-parvaṇā vayám  
-jīvā́tave prataráṃ sādhayā dhíyo  
-ágne sakhyé mā́ riṣāmā vayáṃ táva  
+भ꣡रामेध्मं꣡ कृण꣡वामा हवीं꣡षि ते  
+चित꣡यन्तः प꣡र्वणा-पर्वणा वय꣡म्  
+जीवा꣡तवे प्रतरं꣡ साधया धि꣡यो  
+अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व  

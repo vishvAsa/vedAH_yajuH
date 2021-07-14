@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yát sā́noḥ sā́num ā́ruhad  
-bhū́ri áspaṣṭa kártuvam  
-tád índro árthaṃ cetati  
-yūthéna vr̥ṣṇír ejati  
+य꣡त् सा꣡नोः सा꣡नुम् आ꣡रुहद्  
+भू꣡रि अ꣡स्पष्ट क꣡र्तुवम्  
+त꣡द् इ꣡न्द्रो अ꣡र्थं चेतति  
+यूथे꣡न वृष्णि꣡र् एजति  

@@ -2,9 +2,9 @@
 title = "013"
 
 +++
-navānā́ṃ navatīnã́ṃ  
-viṣásya rópuṣīṇãm  
-sárvāsām agrabhaṃ nā́ma  
-nó vayám marāma  
-āré asya yójanaṃ hariṣṭhā́  
-mádhu tvā madhulā́ cakāra  
+नवानां꣡ नवतीन्ãं꣡  
+विष꣡स्य रो꣡पुषीण्ãम्  
+स꣡र्वासाम् अग्रभं ना꣡म  
+नो꣡ वय꣡म् मराम  
+आरे꣡ अस्य यो꣡जनं हरिष्ठा꣡  
+म꣡धु त्वा मधुला꣡ चकार  

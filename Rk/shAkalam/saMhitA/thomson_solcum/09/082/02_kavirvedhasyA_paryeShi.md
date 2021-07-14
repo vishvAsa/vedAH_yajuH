@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kavír vedhasyā́ pári eṣi mā́hinam  
-átyo ná mr̥ṣṭó abhí vā́jam arṣasi  
-apasédhan duritā́ soma mr̥̄ḷaya+  
-ghr̥táṃ vásānaḥ pári yāsi nirṇíjam  
+कवि꣡र् वेधस्या꣡ प꣡रि एषि मा꣡हिनम्  
+अ꣡त्यो न꣡ मृष्टो꣡ अभि꣡ वा꣡जम् अर्षसि  
+अपसे꣡धन् दुरिता꣡ सोम मॄऌअय+  
+घृतं꣡ व꣡सानः प꣡रि यासि निर्णि꣡जम्  

@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-píba svádhainavānãm  
-utá yás túgriye sácā  
-utā́yám indra yás táva  
+पि꣡ब स्व꣡धैनवान्ãम्  
+उत꣡ य꣡स् तु꣡ग्रिये स꣡चा  
+उता꣡य꣡म् इन्द्र य꣡स् त꣡व  

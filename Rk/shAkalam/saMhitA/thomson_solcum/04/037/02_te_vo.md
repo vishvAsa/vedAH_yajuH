@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-té vo hr̥dé mánase santu yajñā́  
-júṣṭāso adyá ghr̥tánirṇijo guḥ  
-prá vaḥ sutā́so harayanta pūrṇā́ḥ  
-krátve dákṣāya harṣayanta pītā́ḥ  
+ते꣡ वो हृदे꣡ म꣡नसे सन्तु यज्ञा꣡  
+जु꣡ष्टासो अद्य꣡ घृत꣡निर्णिजो गुः  
+प्र꣡ वः सुता꣡सो हरयन्त पूर्णाः꣡  
+क्र꣡त्वे द꣡क्षाय हर्षयन्त पीताः꣡  

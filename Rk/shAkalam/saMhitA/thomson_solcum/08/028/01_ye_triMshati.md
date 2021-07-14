@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-yé triṃśáti tráyas paró  
-devā́so barhír ā́sadan  
-vidánn áha dvitā́sanan  
+ये꣡ त्रिंश꣡ति त्र꣡यस् परो꣡  
+देवा꣡सो बर्हि꣡र् आ꣡सदन्  
+विद꣡न्न् अ꣡ह द्विता꣡सनन्  

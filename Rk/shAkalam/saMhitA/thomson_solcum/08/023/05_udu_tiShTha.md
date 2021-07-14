@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-úd u tiṣṭha suadhvara  
-stávāno deviyā́ kr̥pā́  
-abhikhyā́ bhāsā́ br̥hatā́ śuśukvániḥ  
+उ꣡द् उ तिष्ठ सुअध्वर  
+स्त꣡वानो देविया꣡ कृपा꣡  
+अभिख्या꣡ भासा꣡ बृहता꣡ शुशुक्व꣡निः  

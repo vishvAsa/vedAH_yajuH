@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-abhí sómāsa āyávaḥ  
-pávante mádiyam mádam  
-samudrásyā́dhi viṣṭápi manīṣíṇo  
-matsarā́saḥ suvarvídaḥ  
+अभि꣡ सो꣡मास आय꣡वः  
+प꣡वन्ते म꣡दियम् म꣡दम्  
+समुद्र꣡स्या꣡धि विष्ट꣡पि मनीषि꣡णो  
+मत्सरा꣡सः सुवर्वि꣡दः  

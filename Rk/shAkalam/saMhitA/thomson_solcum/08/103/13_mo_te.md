@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-mó té riṣan yé áchaüktibhir vaso  
-ágne kébhiś cid évaiḥ  
-kīríś cid dhí tvā́m ī́ṭṭe dūtíyāya  
-rātáhavyaḥ suadhvaráḥ  
+मो꣡ ते꣡ रिषन् ये꣡ अ꣡छüक्तिभिर् वसो  
+अ꣡ग्ने के꣡भिश् चिद् ए꣡वैः  
+कीरि꣡श् चिद् धि꣡ त्वा꣡म् ई꣡ट्टे दूति꣡याय  
+रात꣡हव्यः सुअध्वरः꣡  

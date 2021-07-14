@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-eṣā́ yayau paramā́d antár ádreḥ  
-kū́cit satī́r ūruvé gā́ viveda  
-divó ná vidyút stanáyanti abhraíḥ  
-sómasya te pavata indra dhā́rā  
+एषा꣡ ययौ परमा꣡द् अन्त꣡र् अ꣡द्रेः  
+कू꣡चित् सती꣡र् ऊरुवे꣡ गा꣡ विवेद  
+दिवो꣡ न꣡ विद्यु꣡त् स्तन꣡यन्ति अभ्रइः꣡  
+सो꣡मस्य ते पवत इन्द्र धा꣡रा  

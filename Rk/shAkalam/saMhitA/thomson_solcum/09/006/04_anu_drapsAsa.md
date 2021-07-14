@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ánu drapsā́sa índava  
-ā́po ná pravátāsaran  
-punānā́ índram āśata  
+अ꣡नु द्रप्सा꣡स इ꣡न्दव  
+आ꣡पो न꣡ प्रव꣡तासरन्  
+पुनाना꣡ इ꣡न्द्रम् आशत  

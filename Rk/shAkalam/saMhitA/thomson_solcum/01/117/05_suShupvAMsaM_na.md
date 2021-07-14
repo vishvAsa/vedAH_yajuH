@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-suṣupvā́ṃsaṃ ná nírr̥ter upásthe  
-sū́ryaṃ ná dasrā támasi kṣiyántam  
-śubhé rukmáṃ ná darśatáṃ níkhātam  
-úd ūpathur aśvinā vándanāya  
+सुषुप्वां꣡सं न꣡ नि꣡रृतेर् उप꣡स्थे  
+सू꣡र्यं न꣡ दस्रा त꣡मसि क्षिय꣡न्तम्  
+शुभे꣡ रुक्मं꣡ न꣡ दर्शतं꣡ नि꣡खातम्  
+उ꣡द् ऊपथुर् अश्विना व꣡न्दनाय  

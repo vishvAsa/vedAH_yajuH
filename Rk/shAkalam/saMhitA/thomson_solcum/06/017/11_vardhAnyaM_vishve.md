@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-várdhān yáṃ víśve marútaḥ sajóṣāḥ  
-pácac chatám mahiṣā́m̐ indra túbhyam  
-pūṣā́ víṣṇus trī́ṇi sárāṃsi dhāvan  
-vr̥traháṇam madirám aṃśúm asmai  
+व꣡र्धान् यं꣡ वि꣡श्वे मरु꣡तः सजो꣡षाः  
+प꣡चच् छत꣡म् महिषाँ꣡ इन्द्र तु꣡भ्यम्  
+पूषा꣡ वि꣡ष्णुस् त्री꣡णि स꣡रांसि धावन्  
+वृत्रह꣡णम् मदिर꣡म् अंशु꣡म् अस्मै  

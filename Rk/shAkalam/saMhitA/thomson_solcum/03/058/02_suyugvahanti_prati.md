@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-suyúg vahanti práti vām r̥téna  
-ūrdhvā́ bhavanti pitáreva médhāḥ  
-járethām asmád ví paṇér manīṣā́ṃ  
-yuvór ávaś cakr̥mā́ yātam arvā́k  
+सुयु꣡ग् वहन्ति प्र꣡ति वाम् ऋते꣡न  
+ऊर्ध्वा꣡ भवन्ति पित꣡रेव मे꣡धाः  
+ज꣡रेथाम् अस्म꣡द् वि꣡ पणे꣡र् मनीषां꣡  
+युवो꣡र् अ꣡वश् चकृमा꣡ यातम् अर्वा꣡क्  

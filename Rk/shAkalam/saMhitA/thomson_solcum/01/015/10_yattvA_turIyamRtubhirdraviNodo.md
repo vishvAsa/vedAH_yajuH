@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-yát tvā turī́yam r̥túbhir  
-dráviṇodo yájāmahe  
-ádha smā no dadír bhava  
+य꣡त् त्वा तुरी꣡यम् ऋतु꣡भिर्  
+द्र꣡विणोदो य꣡जामहे  
+अ꣡ध स्मा नो ददि꣡र् भव  

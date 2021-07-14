@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-úpastutiṃ námasa údyatiṃ ca  
-ślókaṃ yaṃsat savitéva prá bāhū́  
-asyá krátvā ahaníyo yó ásti  
-mr̥gó ná bhīmó 'rakṣásas° túviṣmān  
+उ꣡पस्तुतिं न꣡मस उ꣡द्यतिं च  
+श्लो꣡कं यंसत् सविते꣡व प्र꣡ बाहू꣡  
+अस्य꣡ क्र꣡त्वा अहनि꣡यो यो꣡ अ꣡स्ति  
+मृगो꣡ न꣡ भीमो꣡ ऽरक्ष꣡सस्° तु꣡विष्मान्  

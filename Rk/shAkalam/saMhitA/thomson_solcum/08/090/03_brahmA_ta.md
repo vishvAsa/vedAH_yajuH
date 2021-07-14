@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-bráhmā ta indra girvaṇaḥ  
-kriyánte ánatidbhutā  
-imā́ juṣasva hariaśva yójanā  
-índra yā́ te ámanmahi  
+ब्र꣡ह्मा त इन्द्र गिर्वणः  
+क्रिय꣡न्ते अ꣡नतिद्भुता  
+इमा꣡ जुषस्व हरिअश्व यो꣡जना  
+इ꣡न्द्र या꣡ ते अ꣡मन्महि  

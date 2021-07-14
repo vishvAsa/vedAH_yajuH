@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-devā́so hí ṣmā mánave sámanyavo  
-víśve sākáṃ sárātayaḥ  
-té no adyá té aparáṃ tucé tú no  
-bhávantu varivovídaḥ  
+देवा꣡सो हि꣡ ष्मा म꣡नवे स꣡मन्यवो  
+वि꣡श्वे साकं꣡ स꣡रातयः  
+ते꣡ नो अद्य꣡ ते꣡ अपरं꣡ तुचे꣡ तु꣡ नो  
+भ꣡वन्तु वरिवोवि꣡दः  

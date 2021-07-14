@@ -2,10 +2,10 @@
 title = "011"
 
 +++
-pāhí no · indara+ suṣṭuta sridhó  
-avayātā́ sádam íd durmatīnã́ṃ  
-deváḥ sán durmatīnã́m  
-hantā́ pāpásya rakṣásas  
-trātā́ víprasya mā́vataḥ  
-ádhā hí tvā janitā́ jī́janad vaso  
-rakṣoháṇaṃ tvā jī́janad vaso  
+पाहि꣡ नो · इन्दर+ सुष्टुत स्रिधो꣡  
+अवयाता꣡ स꣡दम् इ꣡द् दुर्मतीन्ãं꣡  
+देवः꣡ स꣡न् दुर्मतीन्ã꣡म्  
+हन्ता꣡ पाप꣡स्य रक्ष꣡सस्  
+त्राता꣡ वि꣡प्रस्य मा꣡वतः  
+अ꣡धा हि꣡ त्वा जनिता꣡ जी꣡जनद् वसो  
+रक्षोह꣡णं त्वा जी꣡जनद् वसो  

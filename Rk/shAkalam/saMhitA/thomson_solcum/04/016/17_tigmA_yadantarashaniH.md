@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-tigmā́ yád antár aśániḥ pátāti  
-kásmiñ cic chūra muhuké jánānām  
-ghorā́ yád arya sámr̥tir bhávāti  
-ádha smā nas tanúvo bodhi gopā́ḥ  
+तिग्मा꣡ य꣡द् अन्त꣡र् अश꣡निः प꣡ताति  
+क꣡स्मिञ् चिच् छूर मुहुके꣡ ज꣡नानाम्  
+घोरा꣡ य꣡द् अर्य स꣡मृतिर् भ꣡वाति  
+अ꣡ध स्मा नस् तनु꣡वो बोधि गोपाः꣡  

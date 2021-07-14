@@ -2,9 +2,9 @@
 title = "004"
 
 +++
-áva yát tváṃ śatakratav  
-índra víśvāni dhūnuṣé  
-rayíṃ ná sunvaté sácā  
-sahasríṇībhir ūtíbhir  
-devī́ jánitry ajījanad  
-bhadrā́ jánitry ajījanat  
+अ꣡व य꣡त् त्वं꣡ शतक्रतव्  
+इ꣡न्द्र वि꣡श्वानि धूनुषे꣡  
+रयिं꣡ न꣡ सुन्वते꣡ स꣡चा  
+सहस्रि꣡णीभिर् ऊति꣡भिर्  
+देवी꣡ ज꣡नित्र्य् अजीजनद्  
+भद्रा꣡ ज꣡नित्र्य् अजीजनत्  

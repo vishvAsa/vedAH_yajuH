@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yá indra śúṣmo maghavan te ásti  
-śíkṣā sákhibhyaḥ puruhūta nŕ̥bhyaḥ  
-tuváṃ hí dr̥̄ḷhā́+ maghavan vícetā  
-ápā vr̥dhi párivr̥taṃ ná rā́dhaḥ  
+य꣡ इन्द्र शु꣡ष्मो मघवन् ते अ꣡स्ति  
+शि꣡क्षा स꣡खिभ्यः पुरुहूत न्ŕ̥भ्यः  
+तुवं꣡ हि꣡ दॄऌहा꣡+ मघवन् वि꣡चेता  
+अ꣡पा वृधि प꣡रिवृतं न꣡ रा꣡धः  

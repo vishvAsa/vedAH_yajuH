@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-néśat támo dúdhitaṃ rócata dyaúr  
-úd deviyā́ uṣáso bhānúr arta  
-ā́ sū́riyo br̥hatás tiṣṭhad ájrām̐  
-r̥jú márteṣu vr̥jinā́ ca páśyan  
+ने꣡शत् त꣡मो दु꣡धितं रो꣡चत द्यउ꣡र्  
+उ꣡द् देविया꣡ उष꣡सो भानु꣡र् अर्त  
+आ꣡ सू꣡रियो बृहत꣡स् तिष्ठद् अ꣡ज्राँ  
+ऋजु꣡ म꣡र्तेषु वृजिना꣡ च प꣡श्यन्  

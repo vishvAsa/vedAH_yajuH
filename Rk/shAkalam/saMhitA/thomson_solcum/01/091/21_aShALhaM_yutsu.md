@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-áṣāḷhaṃ yutsú pŕ̥tanāsu pápriṃ  
-suvarṣā́m apsā́ṃ vr̥jánasya gopā́m  
-bhareṣujā́ṃ sukṣitíṃ suśrávasaṃ  
-jáyantaṃ tvā́m ánu madema soma  
+अ꣡षाऌहं युत्सु꣡ प्ŕ̥तनासु प꣡प्रिं  
+सुवर्षा꣡म् अप्सां꣡ वृज꣡नस्य गोपा꣡म्  
+भरेषुजां꣡ सुक्षितिं꣡ सुश्र꣡वसं  
+ज꣡यन्तं त्वा꣡म् अ꣡नु मदेम सोम  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-iṣiréṇa te mánasā sutásya  
-bhakṣīmáhi pítriyasyeva rāyáḥ  
-sóma rājan prá ṇa ā́yūṃṣi tārīr  
-áhānīva sū́riyo vāsarā́ṇi  
+इषिरे꣡ण ते म꣡नसा सुत꣡स्य  
+भक्षीम꣡हि पि꣡त्रियस्येव रायः꣡  
+सो꣡म राजन् प्र꣡ ण आ꣡यूंषि तारीर्  
+अ꣡हानीव सू꣡रियो वासरा꣡णि  

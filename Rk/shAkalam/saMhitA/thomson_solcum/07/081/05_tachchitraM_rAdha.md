@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tác citráṃ rā́dha ā́ bhara  
-úṣo yád dīrghaśrúttamam  
-yát te divo duhitar martabhójanaṃ  
-tád rāsva bhunájāmahai  
+त꣡च् चित्रं꣡ रा꣡ध आ꣡ भर  
+उ꣡षो य꣡द् दीर्घश्रु꣡त्तमम्  
+य꣡त् ते दिवो दुहितर् मर्तभो꣡जनं  
+त꣡द् रास्व भुन꣡जामहै  

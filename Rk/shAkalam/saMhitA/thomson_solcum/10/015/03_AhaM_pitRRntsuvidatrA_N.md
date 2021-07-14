@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́hám pitr̥̄́n suvidátrām̐ avitsi  
-nápātaṃ ca vikrámaṇaṃ ca víṣṇoḥ  
-barhiṣádo yé svadháyā sutásya  
-bhájanta pitvás tá ihā́gamiṣṭhāḥ  
+आ꣡ह꣡म् पितॄ꣡न् सुविद꣡त्राँ अवित्सि  
+न꣡पातं च विक्र꣡मणं च वि꣡ष्णोः  
+बर्हिष꣡दो ये꣡ स्वध꣡या सुत꣡स्य  
+भ꣡जन्त पित्व꣡स् त꣡ इहा꣡गमिष्ठाः  

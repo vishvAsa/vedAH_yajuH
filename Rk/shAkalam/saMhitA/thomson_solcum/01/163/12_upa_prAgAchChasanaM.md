@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-úpa prā́gāc chásanaṃ vājī́ árvā  
-devadrī́cā mánasā dī́dhiyānaḥ  
-ajáḥ puró nīyate nā́bhir asya  
-ánu paścā́t kaváyo yanti rebhā́ḥ  
+उ꣡प प्रा꣡गाच् छ꣡सनं वाजी꣡ अ꣡र्वा  
+देवद्री꣡चा म꣡नसा दी꣡धियानः  
+अजः꣡ पुरो꣡ नीयते ना꣡भिर् अस्य  
+अ꣡नु पश्चा꣡त् कव꣡यो यन्ति रेभाः꣡  

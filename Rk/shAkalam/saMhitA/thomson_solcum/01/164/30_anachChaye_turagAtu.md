@@ -2,7 +2,7 @@
 title = "030"
 
 +++
-anác chaye · turágātu jīvám  
-éjad dhruvám mádhya ā́ pastíyānām  
-jīvó mr̥tásya carati svadhā́bhir  
-ámartiyo mártiyenā sáyoniḥ  
+अन꣡च् छये · तुर꣡गातु जीव꣡म्  
+ए꣡जद् ध्रुव꣡म् म꣡ध्य आ꣡ पस्ति꣡यानाम्  
+जीवो꣡ मृत꣡स्य चरति स्वधा꣡भिर्  
+अ꣡मर्तियो म꣡र्तियेना स꣡योनिः  

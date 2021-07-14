@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-yá índoḥ pávamānasya  
-ánu dhā́māni ákramīt  
-tám āhuḥ suprajā́ íti  
-yás te somā́vidhan mána  
-índrāyendo pári srava  
+य꣡ इ꣡न्दोः प꣡वमानस्य  
+अ꣡नु धा꣡मानि अ꣡क्रमीत्  
+त꣡म् आहुः सुप्रजा꣡ इ꣡ति  
+य꣡स् ते सोमा꣡विधन् म꣡न  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

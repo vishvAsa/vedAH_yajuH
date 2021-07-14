@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-bhúvat tritásya márjiyo  
-bhúvad índrāya matsaráḥ  
-sáṃ rūpaír ajyate háriḥ  
+भु꣡वत् त्रित꣡स्य म꣡र्जियो  
+भु꣡वद् इ꣡न्द्राय मत्सरः꣡  
+सं꣡ रूपइ꣡र् अज्यते ह꣡रिः  

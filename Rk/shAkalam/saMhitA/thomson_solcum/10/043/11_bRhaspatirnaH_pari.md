@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-bŕ̥haspátir naḥ pári pātu paścā́d  
-utóttarasmād ádharād aghāyóḥ  
-índraḥ purástād utá madhyató naḥ  
-sákhā sákhibhyo várivaḥ kr̥ṇotu  
+ब्ŕ̥हस्प꣡तिर् नः प꣡रि पातु पश्चा꣡द्  
+उतो꣡त्तरस्माद् अ꣡धराद् अघायोः꣡  
+इ꣡न्द्रः पुर꣡स्ताद् उत꣡ मध्यतो꣡ नः  
+स꣡खा स꣡खिभ्यो व꣡रिवः कृणोतु  

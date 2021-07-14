@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yuṣmóto vípro marutaḥ śatasvī́  
-yuṣmóto árvā sáhuriḥ sahasrī́  
-yuṣmótaḥ samrā́ḷ utá hanti vr̥trám  
-prá tád vo astu dhūtayo dayiṣṇám+  
+युष्मो꣡तो वि꣡प्रो मरुतः शतस्वी꣡  
+युष्मो꣡तो अ꣡र्वा स꣡हुरिः सहस्री꣡  
+युष्मो꣡तः सम्रा꣡ऌ उत꣡ हन्ति वृत्र꣡म्  
+प्र꣡ त꣡द् वो अस्तु धूतयो दयिष्ण꣡म्+  

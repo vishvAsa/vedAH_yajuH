@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-yā́bhiḥ síndhum ávatha yā́bhis tū́rvatha  
-yā́bhir daśasyáthā krívim  
-máyo no bhūta ūtíbhir mayobhuvaḥ  
-śivā́bhir asacadviṣaḥ  
+या꣡भिः सि꣡न्धुम् अ꣡वथ या꣡भिस् तू꣡र्वथ  
+या꣡भिर् दशस्य꣡था क्रि꣡विम्  
+म꣡यो नो भूत ऊति꣡भिर् मयोभुवः  
+शिवा꣡भिर् असचद्विषः  

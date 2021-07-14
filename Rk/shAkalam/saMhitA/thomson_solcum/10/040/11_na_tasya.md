@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ná tásya vidma tád u ṣú prá vocata  
-yúvā ha yád yuvatyā́ḥ kṣéti yóniṣu  
-priyósriyasya vr̥ṣabhásya retíno  
-gr̥háṃ gamema aśvinā tád uśmasi  
+न꣡ त꣡स्य विद्म त꣡द् उ षु꣡ प्र꣡ वोचत  
+यु꣡वा ह य꣡द् युवत्याः꣡ क्षे꣡ति यो꣡निषु  
+प्रियो꣡स्रियस्य वृषभ꣡स्य रेति꣡नो  
+गृहं꣡ गमेम अश्विना त꣡द् उश्मसि  

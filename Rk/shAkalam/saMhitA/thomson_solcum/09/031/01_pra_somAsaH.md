@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-prá sómāsaḥ suādhíyaḥ  
-pávamānāso akramuḥ  
-rayíṃ kr̥ṇvanti cétanam  
+प्र꣡ सो꣡मासः सुआधि꣡यः  
+प꣡वमानासो अक्रमुः  
+रयिं꣡ कृण्वन्ति चे꣡तनम्  

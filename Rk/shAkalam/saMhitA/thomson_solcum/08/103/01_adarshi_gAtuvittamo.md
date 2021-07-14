@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ádarśi gātuvíttamo  
-yásmin vratā́ni ādadhúḥ  
-úpo ṣú jātám ā́riyasya várdhanam  
-agníṃ nakṣanta no gíraḥ  
+अ꣡दर्शि गातुवि꣡त्तमो  
+य꣡स्मिन् व्रता꣡नि आदधुः꣡  
+उ꣡पो षु꣡ जात꣡म् आ꣡रियस्य व꣡र्धनम्  
+अग्निं꣡ नक्षन्त नो गि꣡रः  

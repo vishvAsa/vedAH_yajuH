@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ayáṃ sóma indara+ túbhya° sunva  
-ā́ tú prá yāhi harivas tádokāḥ  
-píbā tú asyá súṣutasya cā́ror  
-dádo maghā́ni maghavann iyānáḥ  
+अयं꣡ सो꣡म इन्दर+ तु꣡भ्य° सुन्व  
+आ꣡ तु꣡ प्र꣡ याहि हरिवस् त꣡दोकाः  
+पि꣡बा तु꣡ अस्य꣡ सु꣡षुतस्य चा꣡रोर्  
+द꣡दो मघा꣡नि मघवन्न् इयानः꣡  

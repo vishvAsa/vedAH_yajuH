@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yátra grā́vā pr̥thúbudhna  
-ūrdhvó bhávati sótave  
-ulū́khalasutānãm  
-ávéd u indra jalgulaḥ  
+य꣡त्र ग्रा꣡वा पृथु꣡बुध्न  
+ऊर्ध्वो꣡ भ꣡वति सो꣡तवे  
+उलू꣡खलसुतान्ãम्  
+अ꣡वे꣡द् उ इन्द्र जल्गुलः  

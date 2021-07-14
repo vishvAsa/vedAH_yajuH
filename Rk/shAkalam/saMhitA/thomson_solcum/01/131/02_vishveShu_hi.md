@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-víśveṣu hí tvā sávaneṣu tuñjáte  
-samānám ékaṃ vŕ̥ṣamaṇyavaḥ pŕ̥thak  
-súvaḥ saniṣyávaḥ pŕ̥thak  
-táṃ tvā nā́vaṃ ná parṣáṇiṃ  
-śūṣásya dhurí dhīmahi  
-índraṃ ná yajñaíś citáyanta āyáva  
-stómebhir índram āyávaḥ  
+वि꣡श्वेषु हि꣡ त्वा स꣡वनेषु तुञ्ज꣡ते  
+समान꣡म् ए꣡कं व्ŕ̥षमण्यवः प्ŕ̥थक्  
+सु꣡वः सनिष्य꣡वः प्ŕ̥थक्  
+तं꣡ त्वा ना꣡वं न꣡ पर्ष꣡णिं  
+शूष꣡स्य धुरि꣡ धीमहि  
+इ꣡न्द्रं न꣡ यज्ञइ꣡श् चित꣡यन्त आय꣡व  
+स्तो꣡मेभिर् इ꣡न्द्रम् आय꣡वः  

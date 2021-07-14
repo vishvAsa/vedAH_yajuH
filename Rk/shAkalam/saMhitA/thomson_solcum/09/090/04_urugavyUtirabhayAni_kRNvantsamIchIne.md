@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-urúgavyūtir ábhayāni kr̥ṇván  
-samīcīné ā́ pavasvā púraṃdhī  
-apáḥ síṣāsann uṣásaḥ súvar gā́ḥ  
-sáṃ cikrado mahó asmábhya° vā́jān  
+उरु꣡गव्यूतिर् अ꣡भयानि कृण्व꣡न्  
+समीचीने꣡ आ꣡ पवस्वा पु꣡रंधी  
+अपः꣡ सि꣡षासन्न् उष꣡सः सु꣡वर् गाः꣡  
+सं꣡ चिक्रदो महो꣡ अस्म꣡भ्य° वा꣡जान्  

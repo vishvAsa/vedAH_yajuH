@@ -2,5 +2,5 @@
 title = "003"
 
 +++
-sá no bodhi śrudhī́ hávam  
-uruṣyā́ ṇo aghāyatáḥ samasmāt  
+स꣡ नो बोधि श्रुधी꣡ ह꣡वम्  
+उरुष्या꣡ णो अघायतः꣡ समस्मात्  

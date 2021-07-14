@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-víṣpardhaso · narã́ṃ ná śáṃsair  
-asmā́kāsad índaro+ vájrahastaḥ  
-mitrāyúvo ná pū́rpatiṃ súśiṣṭau  
-madhyāyúva úpa śikṣanti yajñaíḥ  
+वि꣡ष्पर्धसो · नर्ãं꣡ न꣡ शं꣡सैर्  
+अस्मा꣡कासद् इ꣡न्दरो+ व꣡ज्रहस्तः  
+मित्रायु꣡वो न꣡ पू꣡र्पतिं सु꣡शिष्टौ  
+मध्यायु꣡व उ꣡प शिक्षन्ति यज्ञइः꣡  

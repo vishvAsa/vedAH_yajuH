@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mánthatā naraḥ kavím ádvayantam  
-prácetasam amŕ̥taṃ suprátīkam  
-yajñásya ketúm prathamám purástād  
-agníṃ naro janayatā suśévam  
+म꣡न्थता नरः कवि꣡म् अ꣡द्वयन्तम्  
+प्र꣡चेतसम् अम्ŕ̥तं सुप्र꣡तीकम्  
+यज्ञ꣡स्य केतु꣡म् प्रथम꣡म् पुर꣡स्ताद्  
+अग्निं꣡ नरो जनयता सुशे꣡वम्  

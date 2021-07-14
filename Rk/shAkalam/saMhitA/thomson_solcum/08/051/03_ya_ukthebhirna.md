@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yá ukthébhir ná vindháte  
-cikíd yá r̥ṣicódanaḥ  
-índraṃ tám áchā vada návyasyā matī́  
-áriṣyantaṃ ná bhójase  
+य꣡ उक्थे꣡भिर् न꣡ विन्ध꣡ते  
+चिकि꣡द् य꣡ ऋषिचो꣡दनः  
+इ꣡न्द्रं त꣡म् अ꣡छा वद न꣡व्यस्या मती꣡  
+अ꣡रिष्यन्तं न꣡ भो꣡जसे  

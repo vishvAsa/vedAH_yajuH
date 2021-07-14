@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-gojítā bāhū́ ámitakratuḥ simáḥ  
-kárman-karmañ chatámūtiḥ khajaṃkaráḥ  
-akalpá índraḥ pratimā́nam ójasā  
-áthā jánā ví hvayante siṣāsávaḥ  
+गोजि꣡ता बाहू꣡ अ꣡मितक्रतुः सिमः꣡  
+क꣡र्मन्-कर्मञ् छत꣡मूतिः खजंकरः꣡  
+अकल्प꣡ इ꣡न्द्रः प्रतिमा꣡नम् ओ꣡जसा  
+अ꣡था ज꣡ना वि꣡ ह्वयन्ते सिषास꣡वः  

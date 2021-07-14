@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yád índreṇa saráthaṃ yāthó aśvinā  
-yád vā vāyúnā bhávathaḥ sámokasā  
-yád ādityébhir r̥bhúbhiḥ sajóṣasā  
-yád vā víṣṇor vikrámaṇeṣu tíṣṭhathaḥ  
+य꣡द् इ꣡न्द्रेण सर꣡थं याथो꣡ अश्विना  
+य꣡द् वा वायु꣡ना भ꣡वथः स꣡मोकसा  
+य꣡द् आदित्ये꣡भिर् ऋभु꣡भिः सजो꣡षसा  
+य꣡द् वा वि꣡ष्णोर् विक्र꣡मणेषु ति꣡ष्ठथः  

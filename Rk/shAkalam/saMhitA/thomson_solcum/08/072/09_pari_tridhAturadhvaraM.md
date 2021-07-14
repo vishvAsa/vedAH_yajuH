@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-pári tridhā́tur adhvaráṃ  
-jūrṇír eti návīyasī  
-mádhvā hótāro añjate  
+प꣡रि त्रिधा꣡तुर् अध्वरं꣡  
+जूर्णि꣡र् एति न꣡वीयसी  
+म꣡ध्वा हो꣡तारो अञ्जते  

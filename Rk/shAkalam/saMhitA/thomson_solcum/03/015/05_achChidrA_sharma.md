@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áchidrā śárma jaritaḥ purū́ṇi  
-devā́m̐ áchā dī́diyānaḥ sumedhā́ḥ  
-rátho ná sásnir abhí vakṣi vā́jam  
-ágne tuváṃ ródasī naḥ suméke  
+अ꣡छिद्रा श꣡र्म जरितः पुरू꣡णि  
+देवाँ꣡ अ꣡छा दी꣡दियानः सुमेधाः꣡  
+र꣡थो न꣡ स꣡स्निर् अभि꣡ वक्षि वा꣡जम्  
+अ꣡ग्ने तुवं꣡ रो꣡दसी नः सुमे꣡के  

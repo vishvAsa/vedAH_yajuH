@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-pūṣémā́ ā́śā ánu veda sárvāḥ  
-só asmā́m̐ ábhayatamena neṣat  
-suastidā́ ā́ghr̥ṇiḥ sárvavīro  
-áprayuchan purá etu prajānán  
+पूषे꣡मा꣡ आ꣡शा अ꣡नु वेद स꣡र्वाः  
+सो꣡ अस्माँ꣡ अ꣡भयतमेन नेषत्  
+सुअस्तिदा꣡ आ꣡घृणिः स꣡र्ववीरो  
+अ꣡प्रयुछन् पुर꣡ एतु प्रजान꣡न्  

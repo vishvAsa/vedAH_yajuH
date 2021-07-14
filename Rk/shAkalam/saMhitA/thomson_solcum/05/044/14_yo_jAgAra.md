@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yó jāgā́ra tám ŕ̥caḥ kāmayante  
-yó jāgā́ra tám u sā́māni yanti  
-yó jāgā́ra tám ayáṃ sóma āha  
-távāhám asmi sakhiyé níokāḥ  
+यो꣡ जागा꣡र त꣡म् ŕ̥चः कामयन्ते  
+यो꣡ जागा꣡र त꣡म् उ सा꣡मानि यन्ति  
+यो꣡ जागा꣡र त꣡म् अयं꣡ सो꣡म आह  
+त꣡वाह꣡म् अस्मि सखिये꣡ नि꣡ओकाः  

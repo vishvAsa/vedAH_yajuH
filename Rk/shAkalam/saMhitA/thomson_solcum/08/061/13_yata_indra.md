@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yáta indra bháyāmahe  
-táto no ábhayaṃ kr̥dhi  
-mághavañ chagdhí táva tán na ūtíbhir  
-ví dvíṣo ví mŕ̥dho jahi  
+य꣡त इन्द्र भ꣡यामहे  
+त꣡तो नो अ꣡भयं कृधि  
+म꣡घवञ् छग्धि꣡ त꣡व त꣡न् न ऊति꣡भिर्  
+वि꣡ द्वि꣡षो वि꣡ म्ŕ̥धो जहि  

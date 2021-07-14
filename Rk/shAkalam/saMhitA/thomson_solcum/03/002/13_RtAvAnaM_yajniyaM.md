@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-r̥tā́vānaṃ yajñíyaṃ vípram ukthíyam  
-ā́ yáṃ dadhé mātaríśvā diví kṣáyam  
-táṃ citráyāmaṃ hárikeśam īmahe  
-sudītím agníṃ suvitā́ya návyase  
+ऋता꣡वानं यज्ञि꣡यं वि꣡प्रम् उक्थि꣡यम्  
+आ꣡ यं꣡ दधे꣡ मातरि꣡श्वा दिवि꣡ क्ष꣡यम्  
+तं꣡ चित्र꣡यामं ह꣡रिकेशम् ईमहे  
+सुदीति꣡म् अग्निं꣡ सुविता꣡य न꣡व्यसे  

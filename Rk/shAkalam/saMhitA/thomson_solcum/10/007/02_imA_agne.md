@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-imā́ agne matáyas túbhya° jātā́  
-góbhir áśvair abhí gr̥ṇanti rā́dhaḥ  
-yadā́ te márto ánu bhógam ā́naḍ  
-váso dádhāno matíbhiḥ sujāta  
+इमा꣡ अग्ने मत꣡यस् तु꣡भ्य° जाता꣡  
+गो꣡भिर् अ꣡श्वैर् अभि꣡ गृणन्ति रा꣡धः  
+यदा꣡ ते म꣡र्तो अ꣡नु भो꣡गम् आ꣡नड्  
+व꣡सो द꣡धानो मति꣡भिः सुजात  

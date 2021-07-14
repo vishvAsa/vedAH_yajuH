@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-yásya várṇam madhuścútaṃ  
-háriṃ hinvánti ádribhiḥ  
-índum índrāya pītáye  
+य꣡स्य व꣡र्णम् मधुश्चु꣡तं  
+ह꣡रिं हिन्व꣡न्ति अ꣡द्रिभिः  
+इ꣡न्दुम् इ꣡न्द्राय पीत꣡ये  

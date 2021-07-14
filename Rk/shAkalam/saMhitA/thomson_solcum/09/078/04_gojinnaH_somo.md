@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-gojín naḥ sómo rathajíd dhiraṇyajít  
-suvarjíd abjít pavate sahasrajít  
-yáṃ devā́saś cakriré pītáye mádaṃ  
-svā́diṣṭhaṃ drapsám aruṇám mayobhúvam  
+गोजि꣡न् नः सो꣡मो रथजि꣡द् धिरण्यजि꣡त्  
+सुवर्जि꣡द् अब्जि꣡त् पवते सहस्रजि꣡त्  
+यं꣡ देवा꣡सश् चक्रिरे꣡ पीत꣡ये म꣡दं  
+स्वा꣡दिष्ठं द्रप्स꣡म् अरुण꣡म् मयोभु꣡वम्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mahā́m̐ asi adhvarásya praketó  
-ná rté tuvád amŕ̥tā mādayante  
-ā́ víśvebhiḥ saráthaṃ yāhi devaír  
-ní agne hótā prathamáḥ sadehá  
+महाँ꣡ असि अध्वर꣡स्य प्रकेतो꣡  
+न꣡ र्ते꣡ तुव꣡द् अम्ŕ̥ता मादयन्ते  
+आ꣡ वि꣡श्वेभिः सर꣡थं याहि देवइ꣡र्  
+नि꣡ अग्ने हो꣡ता प्रथमः꣡ सदेह꣡  

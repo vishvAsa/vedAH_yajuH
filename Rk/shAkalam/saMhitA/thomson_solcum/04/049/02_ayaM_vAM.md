@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ayáṃ vām pári ṣicyate  
-sóma indrābr̥haspatī  
-cā́rur mádāya pītáye  
+अयं꣡ वाम् प꣡रि षिच्यते  
+सो꣡म इन्द्राबृहस्पती  
+चा꣡रुर् म꣡दाय पीत꣡ये  

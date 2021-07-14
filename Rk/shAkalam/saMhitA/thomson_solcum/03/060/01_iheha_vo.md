@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ihéha vo mánasā bandhútā nara  
-uśíjo jagmur abhí tā́ni védasā  
-yā́bhir māyā́bhiḥ prátijūtivarpasaḥ  
-saúdhanvanā yajñíyam bhāgám ānaśá  
+इहे꣡ह वो म꣡नसा बन्धु꣡ता नर  
+उशि꣡जो जग्मुर् अभि꣡ ता꣡नि वे꣡दसा  
+या꣡भिर् माया꣡भिः प्र꣡तिजूतिवर्पसः  
+सउ꣡धन्वना यज्ञि꣡यम् भाग꣡म् आनश꣡  

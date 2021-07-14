@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-súvarbhānor ádha yád indra māyā́  
-avó divó vártamānā avā́han  
-gūḷháṃ sū́ryaṃ támasā́pavratena  
-turī́yeṇa bráhmaṇāvindad átriḥ  
+सु꣡वर्भानोर् अ꣡ध य꣡द् इन्द्र माया꣡  
+अवो꣡ दिवो꣡ व꣡र्तमाना अवा꣡हन्  
+गूऌहं꣡ सू꣡र्यं त꣡मसा꣡पव्रतेन  
+तुरी꣡येण ब्र꣡ह्मणाविन्दद् अ꣡त्रिः  

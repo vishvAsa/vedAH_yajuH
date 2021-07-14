@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-idā́ hí va úpastutim  
-idā́ vāmásya bhaktáye  
-úpa vo viśvavedaso namasyúr ā́m̐  
-ásr̥kṣi ániyām iva  
+इदा꣡ हि꣡ व उ꣡पस्तुतिम्  
+इदा꣡ वाम꣡स्य भक्त꣡ये  
+उ꣡प वो विश्ववेदसो नमस्यु꣡र् आँ꣡  
+अ꣡सृक्षि अ꣡नियाम् इव  

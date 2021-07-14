@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-té syāma deva varuṇa  
-té mitra sūríbhiḥ sahá  
-íṣaṃ súvaś ca dhīmahi  
+ते꣡ स्याम देव वरुण  
+ते꣡ मित्र सूरि꣡भिः सह꣡  
+इ꣡षं सु꣡वश् च धीमहि  

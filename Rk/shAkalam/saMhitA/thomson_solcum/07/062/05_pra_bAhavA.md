@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá bāhávā sisr̥taṃ jīváse na  
-ā́ no gávyūtim ukṣataṃ ghr̥téna  
-ā́ no jáne śravayataṃ yuvānā  
-śrutám me mitrāvaruṇā hávemā́  
+प्र꣡ बाह꣡वा सिसृतं जीव꣡से न  
+आ꣡ नो ग꣡व्यूतिम् उक्षतं घृते꣡न  
+आ꣡ नो ज꣡ने श्रवयतं युवाना  
+श्रुत꣡म् मे मित्रावरुणा ह꣡वेमा꣡  

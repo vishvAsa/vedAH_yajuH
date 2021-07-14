@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tuváṃ śárdhāya mahinā́ gr̥ṇāná  
-urú kr̥dhi maghavañ chagdhí rāyáḥ  
-tuváṃ no mitró váruṇo ná māyī́  
-pitvó ná dasma dayase vibhaktā́  
+तुवं꣡ श꣡र्धाय महिना꣡ गृणान꣡  
+उरु꣡ कृधि मघवञ् छग्धि꣡ रायः꣡  
+तुवं꣡ नो मित्रो꣡ व꣡रुणो न꣡ मायी꣡  
+पित्वो꣡ न꣡ दस्म दयसे विभक्ता꣡  

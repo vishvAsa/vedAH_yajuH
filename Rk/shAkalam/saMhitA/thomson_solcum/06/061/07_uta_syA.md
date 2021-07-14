@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-utá syā́ naḥ sárasvatī  
-ghorā́ híraṇyavartaniḥ  
-vr̥traghnī́ vaṣṭi suṣṭutím  
+उत꣡ स्या꣡ नः स꣡रस्वती  
+घोरा꣡ हि꣡रण्यवर्तनिः  
+वृत्रघ्नी꣡ वष्टि सुष्टुति꣡म्  

@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-nr̥cákṣasaṃ tuvā vayám  
-índrapītaṃ suvarvídam  
-bhakṣīmáhi prajā́m íṣam  
+नृच꣡क्षसं तुवा वय꣡म्  
+इ꣡न्द्रपीतं सुवर्वि꣡दम्  
+भक्षीम꣡हि प्रजा꣡म् इ꣡षम्  

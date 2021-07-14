@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-punāná indav ā́ bhara  
-sóma dvibárhasaṃ rayím  
-tuváṃ vásūni puṣyasi  
-víśvāni dāśúṣo gr̥hé  
+पुनान꣡ इन्दव् आ꣡ भर  
+सो꣡म द्विब꣡र्हसं रयि꣡म्  
+तुवं꣡ व꣡सूनि पुष्यसि  
+वि꣡श्वानि दाशु꣡षो गृहे꣡  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yád báṃhiṣṭhaṃ nā́tivídhe sudānū  
-áchidraṃ śárma bhuvanasya gopā  
-téna no mitrāvaruṇāv aviṣṭaṃ  
-síṣāsanto jigīvā́ṃsaḥ siyāma  
+य꣡द् बं꣡हिष्ठं ना꣡तिवि꣡धे सुदानू  
+अ꣡छिद्रं श꣡र्म भुवनस्य गोपा  
+ते꣡न नो मित्रावरुणाव् अविष्टं  
+सि꣡षासन्तो जिगीवां꣡सः सियाम  

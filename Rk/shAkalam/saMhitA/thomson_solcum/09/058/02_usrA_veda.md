@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-usrā́ veda vásūnãm  
-mártasya devī́ ávasaḥ  
-tárat sá mandī́ dhāvati  
+उस्रा꣡ वेद व꣡सून्ãम्  
+म꣡र्तस्य देवी꣡ अ꣡वसः  
+त꣡रत् स꣡ मन्दी꣡ धावति  

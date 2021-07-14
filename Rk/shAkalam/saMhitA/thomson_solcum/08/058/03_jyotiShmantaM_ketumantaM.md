@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-jyótiṣmantaṃ ketumántaṃ tricakráṃ  
-sukháṃ ráthaṃ suṣádam bhū́rivāram  
-citrā́maghā yásya yóge 'dhijajñe  
-táṃ vāṃ huvé áti riktam† píbadhyai  
+ज्यो꣡तिष्मन्तं केतुम꣡न्तं त्रिचक्रं꣡  
+सुखं꣡ र꣡थं सुष꣡दम् भू꣡रिवारम्  
+चित्रा꣡मघा य꣡स्य यो꣡गे ऽधिजज्ञे  
+तं꣡ वां हुवे꣡ अ꣡ति रिक्तम्† पि꣡बध्यै  

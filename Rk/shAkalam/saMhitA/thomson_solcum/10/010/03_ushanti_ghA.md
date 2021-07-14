@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-uśánti ghā té amŕ̥tāsa etád  
-ékasya cit tyajásam mártiyasya  
-ní te máno mánasi dhāyi asmé  
-jányuḥ pátis tanúvam ā́ viviśyāḥ  
+उश꣡न्ति घा ते꣡ अम्ŕ̥तास एत꣡द्  
+ए꣡कस्य चित् त्यज꣡सम् म꣡र्तियस्य  
+नि꣡ ते म꣡नो म꣡नसि धायि अस्मे꣡  
+ज꣡न्युः प꣡तिस् तनु꣡वम् आ꣡ विविश्याः  

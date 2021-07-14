@@ -2,10 +2,10 @@
 title = "004"
 
 +++
-nū́ itthā́ te pūrváthā ca pravā́ciyaṃ  
-yád áṅgirobhyo ávr̥ṇor ápa vrajám  
-índra śíkṣann ápa vrajám  
-aíbhyaḥ samāniyā́ diśā́  
-asmábhyaṃ jeṣi yótsi ca  
-sunvádbhiyo randhayā káṃ cid avratáṃ  
-hr̥ṇāyántaṃ cid avratám  
+नू꣡ इत्था꣡ ते पूर्व꣡था च प्रवा꣡चियं  
+य꣡द् अ꣡ङ्गिरोभ्यो अ꣡वृणोर् अ꣡प व्रज꣡म्  
+इ꣡न्द्र शि꣡क्षन्न् अ꣡प व्रज꣡म्  
+अइ꣡भ्यः समानिया꣡ दिशा꣡  
+अस्म꣡भ्यं जेषि यो꣡त्सि च  
+सुन्व꣡द्भियो रन्धया कं꣡ चिद् अव्रतं꣡  
+हृणाय꣡न्तं चिद् अव्रत꣡म्  

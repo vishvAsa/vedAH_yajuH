@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sám u priyó mr̥jyate sā́no ávye  
-yaśástaro yaśásāṃ kṣaíto asmé  
-abhí svara dhánuvā pūyámāno  
-yūyám pāta suastíbhiḥ sádā naḥ  
+स꣡म् उ प्रियो꣡ मृज्यते सा꣡नो अ꣡व्ये  
+यश꣡स्तरो यश꣡सां क्षइ꣡तो अस्मे꣡  
+अभि꣡ स्वर ध꣡नुवा पूय꣡मानो  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

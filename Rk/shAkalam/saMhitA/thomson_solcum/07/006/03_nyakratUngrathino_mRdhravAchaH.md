@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ní akratū́n grathíno mr̥dhrávācaḥ  
-paṇī́m̐r aśraddhā́m̐ avr̥dhā́m̐ ayajñā́n  
-prá-pra tā́n dásyūm̐r agnír vivāya  
-pū́rvaś cakāra áparām̐ áyajyūn  
+नि꣡ अक्रतू꣡न् ग्रथि꣡नो मृध्र꣡वाचः  
+पणीँ꣡र् अश्रद्धाँ꣡ अवृधाँ꣡ अयज्ञा꣡न्  
+प्र꣡-प्र ता꣡न् द꣡स्यूँर् अग्नि꣡र् विवाय  
+पू꣡र्वश् चकार अ꣡पराँ अ꣡यज्यून्  

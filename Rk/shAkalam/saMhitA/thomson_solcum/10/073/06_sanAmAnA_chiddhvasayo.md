@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sánāmānā cid dhvasayo ní asmā  
-ávāhann índra uṣáso yáthā́naḥ  
-r̥ṣvaír agachaḥ sákhibhir níkāmaiḥ  
-sākám pratiṣṭhā́ hŕ̥diyā jaghantha  
+स꣡नामाना चिद् ध्वसयो नि꣡ अस्मा  
+अ꣡वाहन्न् इ꣡न्द्र उष꣡सो य꣡था꣡नः  
+ऋष्वइ꣡र् अगछः स꣡खिभिर् नि꣡कामैः  
+साक꣡म् प्रतिष्ठा꣡ ह्ŕ̥दिया जघन्थ  

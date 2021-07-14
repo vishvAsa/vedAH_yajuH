@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ā́ nūnáṃ raghúvartaniṃ  
-ráthaṃ tiṣṭhātho aśvinā  
-ā́ vāṃ stómā imé máma  
-nábho ná cucyavīrata  
+आ꣡ नूनं꣡ रघु꣡वर्तनिं  
+र꣡थं तिष्ठाथो अश्विना  
+आ꣡ वां स्तो꣡मा इमे꣡ म꣡म  
+न꣡भो न꣡ चुच्यवीरत  

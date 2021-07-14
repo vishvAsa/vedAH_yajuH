@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tám u jyáyiṣṭhaṃ+ námasā havírbhiḥ  
-suśévam bráhmaṇas pátiṃ gr̥ṇīṣe  
-índraṃ ślóko máhi daívyaḥ siṣaktu  
-yó bráhmaṇo devákr̥tasya rā́jā  
+त꣡म् उ ज्य꣡यिष्ठं+ न꣡मसा हवि꣡र्भिः  
+सुशे꣡वम् ब्र꣡ह्मणस् प꣡तिं गृणीषे  
+इ꣡न्द्रं श्लो꣡को म꣡हि दइ꣡व्यः सिषक्तु  
+यो꣡ ब्र꣡ह्मणो देव꣡कृतस्य रा꣡जा  

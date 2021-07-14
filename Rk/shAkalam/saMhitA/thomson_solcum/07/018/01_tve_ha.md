@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tuvé ha yát pitáraś cin na indra  
-víśvā vāmā́ jaritā́ro ásanvan  
-tuvé gā́vaḥ sudúghās tvé hí áśvās  
-tuváṃ vásu devayaté vániṣṭhaḥ  
+तुवे꣡ ह य꣡त् पित꣡रश् चिन् न इन्द्र  
+वि꣡श्वा वामा꣡ जरिता꣡रो अ꣡सन्वन्  
+तुवे꣡ गा꣡वः सुदु꣡घास् त्वे꣡ हि꣡ अ꣡श्वास्  
+तुवं꣡ व꣡सु देवयते꣡ व꣡निष्ठः  

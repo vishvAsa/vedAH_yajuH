@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuvé vásūni purvaṇīka hotar  
-doṣā́ vástor érire yajñíyāsaḥ  
-kṣā́meva víśvā bhúvanāni yásmin  
-sáṃ saúbhagāni dadhiré pavāké+  
+तुवे꣡ व꣡सूनि पुर्वणीक होतर्  
+दोषा꣡ व꣡स्तोर् ए꣡रिरे यज्ञि꣡यासः  
+क्षा꣡मेव वि꣡श्वा भु꣡वनानि य꣡स्मिन्  
+सं꣡ सउ꣡भगानि दधिरे꣡ पवाके꣡+  

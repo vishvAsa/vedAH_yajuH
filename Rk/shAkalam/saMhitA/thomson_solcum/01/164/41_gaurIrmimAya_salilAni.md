@@ -2,7 +2,7 @@
 title = "041"
 
 +++
-gaurī́r mimāya salilā́ni tákṣatī  
-ékapadī dvipádī sā́ cátuṣpadī  
-aṣṭā́padī návapadī babhūvúṣī  
-sahásrākṣarā paramé víoman  
+गौरी꣡र् मिमाय सलिला꣡नि त꣡क्षती  
+ए꣡कपदी द्विप꣡दी सा꣡ च꣡तुष्पदी  
+अष्टा꣡पदी न꣡वपदी बभूवु꣡षी  
+सह꣡स्राक्षरा परमे꣡ वि꣡ओमन्  

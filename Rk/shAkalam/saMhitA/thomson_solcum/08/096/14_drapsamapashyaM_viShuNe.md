@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-drapsám apaśyaṃ víṣuṇe cárantam  
-upahvaré nadíyo aṃśumátyāḥ  
-nábho ná kr̥ṣṇám avatasthivā́ṃsam  
-íṣyāmi vo vr̥ṣaṇo yúdhyatājaú  
+द्रप्स꣡म् अपश्यं वि꣡षुणे च꣡रन्तम्  
+उपह्वरे꣡ नदि꣡यो अंशुम꣡त्याः  
+न꣡भो न꣡ कृष्ण꣡म् अवतस्थिवां꣡सम्  
+इ꣡ष्यामि वो वृषणो यु꣡ध्यताजउ꣡  

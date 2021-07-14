@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-táṃ vr̥dhántam mā́rutam bhrā́jadr̥ṣṭiṃ  
-rudrásya sūnúṃ havásā́ vivāse  
-diváḥ śárdhāya śúcayo manīṣā́  
-giráyo ná ā́pa ugrā́ aspr̥dhran  
+तं꣡ वृध꣡न्तम् मा꣡रुतम् भ्रा꣡जदृष्टिं  
+रुद्र꣡स्य सूनुं꣡ हव꣡सा꣡ विवासे  
+दिवः꣡ श꣡र्धाय शु꣡चयो मनीषा꣡  
+गिर꣡यो न꣡ आ꣡प उग्रा꣡ अस्पृध्रन्  

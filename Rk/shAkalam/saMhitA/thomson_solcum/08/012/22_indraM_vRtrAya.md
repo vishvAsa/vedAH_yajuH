@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-índraṃ vr̥trā́ya hántave  
-devā́so dadhire puráḥ  
-índraṃ vā́ṇīr anūṣatā sám ójase  
+इ꣡न्द्रं वृत्रा꣡य ह꣡न्तवे  
+देवा꣡सो दधिरे पुरः꣡  
+इ꣡न्द्रं वा꣡णीर् अनूषता स꣡म् ओ꣡जसे  

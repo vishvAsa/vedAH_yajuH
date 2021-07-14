@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-krī́ḷan no raśma ā́ bhuvaḥ  
-sám bhásmanā vāyúnā vévidānaḥ  
-tā́ asya san dhr̥ṣájo ná tigmā́ḥ  
-súsaṃśitā vakṣíyo vakṣaṇesthā́ḥ  
+क्री꣡ऌअन् नो रश्म आ꣡ भुवः  
+स꣡म् भ꣡स्मना वायु꣡ना वे꣡विदानः  
+ता꣡ अस्य सन् धृष꣡जो न꣡ तिग्माः꣡  
+सु꣡संशिता वक्षि꣡यो वक्षणेस्थाः꣡  

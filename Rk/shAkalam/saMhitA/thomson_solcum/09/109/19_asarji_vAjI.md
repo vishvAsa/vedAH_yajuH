@@ -2,5 +2,5 @@
 title = "019"
 
 +++
-ásarji vājī́ tiráḥ pavítram  
-índrāya sómaḥ sahásradhāraḥ  
+अ꣡सर्जि वाजी꣡ तिरः꣡ पवि꣡त्रम्  
+इ꣡न्द्राय सो꣡मः सह꣡स्रधारः  

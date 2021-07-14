@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ādityā́so áditir mādayantām  
-mitró aryamā́ váruṇo rájiṣṭhāḥ  
-asmā́kaṃ santu bhúvanasya gopā́ḥ  
-píbantu sómam ávase no adyá  
+आदित्या꣡सो अ꣡दितिर् मादयन्ताम्  
+मित्रो꣡ अर्यमा꣡ व꣡रुणो र꣡जिष्ठाः  
+अस्मा꣡कं सन्तु भु꣡वनस्य गोपाः꣡  
+पि꣡बन्तु सो꣡मम् अ꣡वसे नो अद्य꣡  

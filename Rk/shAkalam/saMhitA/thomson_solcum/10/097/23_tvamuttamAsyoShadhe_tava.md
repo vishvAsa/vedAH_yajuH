@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-tvám uttamā́si oṣadhe  
-táva vr̥kṣā́ úpastayaḥ  
-úpastir astu sò 'smā́kaṃ  
-yó asmā́m̐ abhidā́sati  
+त्व꣡म् उत्तमा꣡सि ओषधे  
+त꣡व वृक्षा꣡ उ꣡पस्तयः  
+उ꣡पस्तिर् अस्तु सो᳡ ऽस्मा꣡कं  
+यो꣡ अस्माँ꣡ अभिदा꣡सति  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-tuváṃ somāsi sátpatis  
-tuváṃ rā́jotá vr̥trahā́  
-tuvám bhadró asi krátuḥ  
+तुवं꣡ सोमासि स꣡त्पतिस्  
+तुवं꣡ रा꣡जोत꣡ वृत्रहा꣡  
+तुव꣡म् भद्रो꣡ असि क्र꣡तुः  

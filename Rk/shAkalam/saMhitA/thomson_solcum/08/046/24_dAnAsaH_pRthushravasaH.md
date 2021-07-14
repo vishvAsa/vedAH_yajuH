@@ -2,8 +2,8 @@
 title = "024"
 
 +++
-dā́nāsaḥ pr̥thuśrávasaḥ  
-kānītásya surā́dhasaḥ  
-ráthaṃ hiraṇyáyaṃ dádan  
-máṃhiṣṭhaḥ sūrír abhũd  
-várṣiṣṭham akr̥ta śrávaḥ  
+दा꣡नासः पृथुश्र꣡वसः  
+कानीत꣡स्य सुरा꣡धसः  
+र꣡थं हिरण्य꣡यं द꣡दन्  
+मं꣡हिष्ठः सूरि꣡र् अभ्ũद्  
+व꣡र्षिष्ठम् अकृत श्र꣡वः  

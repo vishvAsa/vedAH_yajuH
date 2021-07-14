@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-śánaiś cid yánto adrivo  
-áśvāvantaḥ śatagvínaḥ  
-vivákṣaṇā anehásaḥ  
+श꣡नैश् चिद् य꣡न्तो अद्रिवो  
+अ꣡श्वावन्तः शतग्वि꣡नः  
+विव꣡क्षणा अनेह꣡सः  

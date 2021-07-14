@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yajñásya vo rathíyaṃ viśpátiṃ viśā́ṃ  
-hótāram aktór átithiṃ vibhā́vasum  
-śócañ chúṣkāsu háriṇīṣu járbhurad  
-vŕ̥ṣā ketúr yajató dyā́m aśāyata  
+यज्ञ꣡स्य वो रथि꣡यं विश्प꣡तिं विशां꣡  
+हो꣡तारम् अक्तो꣡र् अ꣡तिथिं विभा꣡वसुम्  
+शो꣡चञ् छु꣡ष्कासु ह꣡रिणीषु ज꣡र्भुरद्  
+व्ŕ̥षा केतु꣡र् यजतो꣡ द्या꣡म् अशायत  

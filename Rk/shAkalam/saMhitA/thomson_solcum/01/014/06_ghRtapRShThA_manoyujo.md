@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ghr̥tápr̥ṣṭhā manoyújo  
-yé tvā váhanti váhnayaḥ  
-ā́ devā́n sómapītaye  
+घृत꣡पृष्ठा मनोयु꣡जो  
+ये꣡ त्वा व꣡हन्ति व꣡ह्नयः  
+आ꣡ देवा꣡न् सो꣡मपीतये  

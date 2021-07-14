@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuváṃ soma krátubhiḥ sukrátur bhūs  
-tuváṃ dákṣaiḥ sudákṣo viśvávedāḥ  
-tuváṃ vŕ̥ṣā vr̥ṣatvébhir mahitvā́  
-dyumnébhir dyumní abhavo nr̥cákṣāḥ  
+तुवं꣡ सोम क्र꣡तुभिः सुक्र꣡तुर् भूस्  
+तुवं꣡ द꣡क्षैः सुद꣡क्षो विश्व꣡वेदाः  
+तुवं꣡ व्ŕ̥षा वृषत्वे꣡भिर् महित्वा꣡  
+द्युम्ने꣡भिर् द्युम्नि꣡ अभवो नृच꣡क्षाः  

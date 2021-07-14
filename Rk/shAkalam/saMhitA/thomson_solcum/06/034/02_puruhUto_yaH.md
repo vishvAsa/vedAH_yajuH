@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-puruhūtó yáḥ purugūrtá ŕ̥bhvām̐  
-ékaḥ purupraśastó ásti yajñaíḥ  
-rátho ná mahé śávase yujānó  
-asmā́bhir índro anumā́diyo bhūt  
+पुरुहूतो꣡ यः꣡ पुरुगूर्त꣡ ŕ̥भ्वाँ  
+ए꣡कः पुरुप्रशस्तो꣡ अ꣡स्ति यज्ञइः꣡  
+र꣡थो न꣡ महे꣡ श꣡वसे युजानो꣡  
+अस्मा꣡भिर् इ꣡न्द्रो अनुमा꣡दियो भूत्  

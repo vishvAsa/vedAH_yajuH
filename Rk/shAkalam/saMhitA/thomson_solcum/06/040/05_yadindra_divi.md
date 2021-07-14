@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yád indra diví pā́riye yád ŕ̥dhag  
-yád vā suvé sádane yátra vā́si  
-áto no yajñám ávase niyútvān  
-sajóṣāḥ pāhi girvaṇo marúdbhiḥ  
+य꣡द् इन्द्र दिवि꣡ पा꣡रिये य꣡द् ŕ̥धग्  
+य꣡द् वा सुवे꣡ स꣡दने य꣡त्र वा꣡सि  
+अ꣡तो नो यज्ञ꣡म् अ꣡वसे नियु꣡त्वान्  
+सजो꣡षाः पाहि गिर्वणो मरु꣡द्भिः  

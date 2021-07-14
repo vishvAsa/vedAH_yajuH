@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-táva vāyav r̥taspate  
-tváṣṭur jāmātar adbhuta  
-ávāṃsi ā́ vr̥ṇīmahe  
+त꣡व वायव् ऋतस्पते  
+त्व꣡ष्टुर् जामातर् अद्भुत  
+अ꣡वांसि आ꣡ वृणीमहे  

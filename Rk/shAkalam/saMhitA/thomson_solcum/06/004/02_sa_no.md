@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá no vibhā́vā cakṣáṇir ná vástor  
-agnír vandā́ru védiyaś cáno dhāt  
-viśvā́yur yó amŕ̥to mártiyeṣu  
-uṣarbhúd bhū́d átithir jātávedāḥ  
+स꣡ नो विभा꣡वा चक्ष꣡णिर् न꣡ व꣡स्तोर्  
+अग्नि꣡र् वन्दा꣡रु वे꣡दियश् च꣡नो धात्  
+विश्वा꣡युर् यो꣡ अम्ŕ̥तो म꣡र्तियेषु  
+उषर्भु꣡द् भू꣡द् अ꣡तिथिर् जात꣡वेदाः  

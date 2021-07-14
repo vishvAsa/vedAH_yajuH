@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-hiraṇyáyī aráṇī  
-yáṃ nirmánthato aśvínā  
-táṃ te gárbhaṃ havāmahe  
-daśamé māsí sū́tave  
+हिरण्य꣡यी अर꣡णी  
+यं꣡ निर्म꣡न्थतो अश्वि꣡ना  
+तं꣡ ते ग꣡र्भं हवामहे  
+दशमे꣡ मासि꣡ सू꣡तवे  

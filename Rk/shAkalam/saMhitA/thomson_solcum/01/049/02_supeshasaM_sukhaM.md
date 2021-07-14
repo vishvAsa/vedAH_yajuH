@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-supéśasaṃ sukháṃ ráthaṃ  
-yám adhyásthā uṣas tuvám  
-ténā suśrávasaṃ jánam  
-prā́vādyá duhitar divaḥ  
+सुपे꣡शसं सुखं꣡ र꣡थं  
+य꣡म् अध्य꣡स्था उषस् तुव꣡म्  
+ते꣡ना सुश्र꣡वसं ज꣡नम्  
+प्रा꣡वाद्य꣡ दुहितर् दिवः  

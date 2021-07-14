@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ví me kárṇā patayato ví cákṣur  
-vī́dáṃ jyótir hŕ̥daya ā́hitaṃ yát  
-ví me mánaś carati dūráādhīḥ  
-kíṃ svid vakṣyā́mi kím u nū́ maniṣye  
+वि꣡ मे क꣡र्णा पतयतो वि꣡ च꣡क्षुर्  
+वी꣡दं꣡ ज्यो꣡तिर् ह्ŕ̥दय आ꣡हितं य꣡त्  
+वि꣡ मे म꣡नश् चरति दूर꣡आधीः  
+किं꣡ स्विद् वक्ष्या꣡मि कि꣡म् उ नू꣡ मनिष्ये  

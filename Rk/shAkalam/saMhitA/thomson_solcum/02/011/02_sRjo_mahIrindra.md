@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sr̥jó mahī́r indra yā́ ápinvaḥ  
-páriṣṭhitā áhinā śūra pūrvī́ḥ  
-ámartyaṃ cid dāsám mányamānam  
-ávābhinad ukthaír vāvr̥dhānáḥ  
+सृजो꣡ मही꣡र् इन्द्र या꣡ अ꣡पिन्वः  
+प꣡रिष्ठिता अ꣡हिना शूर पूर्वीः꣡  
+अ꣡मर्त्यं चिद् दास꣡म् म꣡न्यमानम्  
+अ꣡वाभिनद् उक्थइ꣡र् वावृधानः꣡  

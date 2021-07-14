@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ájītaye áhataye pavasva  
-svastáye sarvátātaye br̥haté  
-tád uśanti víśva imé sákhāyas  
-tád aháṃ vaśmi pavamāna soma  
+अ꣡जीतये अ꣡हतये पवस्व  
+स्वस्त꣡ये सर्व꣡तातये बृहते꣡  
+त꣡द् उशन्ति वि꣡श्व इमे꣡ स꣡खायस्  
+त꣡द् अहं꣡ वश्मि पवमान सोम  

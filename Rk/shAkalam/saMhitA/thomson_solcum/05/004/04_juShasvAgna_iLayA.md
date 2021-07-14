@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-juṣásva agna íḷayā sajóṣā  
-yátamāno raśmíbhiḥ sū́riyasya  
-juṣásva naḥ samídhaṃ jātaveda  
-ā́ ca devā́n havirádyāya vakṣi  
+जुष꣡स्व अग्न इ꣡ऌअया सजो꣡षा  
+य꣡तमानो रश्मि꣡भिः सू꣡रियस्य  
+जुष꣡स्व नः समि꣡धं जातवेद  
+आ꣡ च देवा꣡न् हविर꣡द्याय वक्षि  

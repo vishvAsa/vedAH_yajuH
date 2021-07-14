@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-janū́ś cid vo marutas tveṣíyeṇa  
-bhī́māsas túvimanyavo áyāsaḥ  
-prá yé máhobhir ójasotá sánti  
-víśvo vo yā́man bhayate suvardŕ̥k  
+जनू꣡श् चिद् वो मरुतस् त्वेषि꣡येण  
+भी꣡मासस् तु꣡विमन्यवो अ꣡यासः  
+प्र꣡ ये꣡ म꣡होभिर् ओ꣡जसोत꣡ स꣡न्ति  
+वि꣡श्वो वो या꣡मन् भयते सुवर्द्ŕ̥क्  

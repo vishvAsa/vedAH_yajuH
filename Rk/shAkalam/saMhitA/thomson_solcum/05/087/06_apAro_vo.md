@@ -2,8 +2,8 @@
 title = "006"
 
 +++
-apāró vo mahimā́ vr̥ddhaśavasas  
-tveṣáṃ śávo avatu evayā́marut  
-sthā́tāro hí prásitau saṃdŕ̥śi sthána  
-té na uruṣyatā nidáḥ  
-śuśukvā́ṃso ná agnáyaḥ  
+अपारो꣡ वो महिमा꣡ वृद्धशवसस्  
+त्वेषं꣡ श꣡वो अवतु एवया꣡मरुत्  
+स्था꣡तारो हि꣡ प्र꣡सितौ संद्ŕ̥शि स्थ꣡न  
+ते꣡ न उरुष्यता निदः꣡  
+शुशुक्वां꣡सो न꣡ अग्न꣡यः  

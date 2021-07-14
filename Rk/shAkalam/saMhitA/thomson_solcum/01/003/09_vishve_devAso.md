@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-víśve devā́so asrídha  
-éhimāyāso adrúhaḥ  
-médhaṃ juṣanta váhnayaḥ  
+वि꣡श्वे देवा꣡सो अस्रि꣡ध  
+ए꣡हिमायासो अद्रु꣡हः  
+मे꣡धं जुषन्त व꣡ह्नयः  

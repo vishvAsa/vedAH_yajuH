@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-yác citrám ápna uṣáso váhanti  
-ījānā́ya śaśamānā́ya bhadrám  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+य꣡च् चित्र꣡म् अ꣡प्न उष꣡सो व꣡हन्ति  
+ईजाना꣡य शशमाना꣡य भद्र꣡म्  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

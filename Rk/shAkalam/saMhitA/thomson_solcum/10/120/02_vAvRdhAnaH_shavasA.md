@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vāvr̥dhānáḥ śávasā bhū́riojāḥ  
-śátrur dāsā́ya bhiyásaṃ dadhāti  
-ávianac ca vianác ca sásni  
-sáṃ te navanta prábhr̥tā mádeṣu  
+वावृधानः꣡ श꣡वसा भू꣡रिओजाः  
+श꣡त्रुर् दासा꣡य भिय꣡सं दधाति  
+अ꣡विअनच् च विअन꣡च् च स꣡स्नि  
+सं꣡ ते नवन्त प्र꣡भृता म꣡देषु  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ási yamó ási ādityó arvann  
-ási tritó gúhiyena vraténa  
-ási sómena samáyā vípr̥kta  
-āhús te trī́ṇi diví bándhanāni  
+अ꣡सि यमो꣡ अ꣡सि आदित्यो꣡ अर्वन्न्  
+अ꣡सि त्रितो꣡ गु꣡हियेन व्रते꣡न  
+अ꣡सि सो꣡मेन सम꣡या वि꣡पृक्त  
+आहु꣡स् ते त्री꣡णि दिवि꣡ ब꣡न्धनानि  

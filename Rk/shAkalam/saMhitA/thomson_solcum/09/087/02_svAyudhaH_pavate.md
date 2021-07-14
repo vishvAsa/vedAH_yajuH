@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-suāyudháḥ pavate devá índur  
-aśastihā́ vr̥jánaṃ rákṣamāṇaḥ  
-pitā́ devā́nāṃ janitā́ sudákṣo  
-viṣṭambhó divó dharúṇaḥ pr̥thivyā́ḥ  
+सुआयुधः꣡ पवते देव꣡ इ꣡न्दुर्  
+अशस्तिहा꣡ वृज꣡नं र꣡क्षमाणः  
+पिता꣡ देवा꣡नां जनिता꣡ सुद꣡क्षो  
+विष्टम्भो꣡ दिवो꣡ धरु꣡णः पृथिव्याः꣡  

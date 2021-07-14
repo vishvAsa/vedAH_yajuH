@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-kadā́ ta indra girvaṇa  
-stotā́ bhavāti śáṃtamaḥ  
-kadā́ no gávye áśviye vásau dadhaḥ  
+कदा꣡ त इन्द्र गिर्वण  
+स्तोता꣡ भवाति शं꣡तमः  
+कदा꣡ नो ग꣡व्ये अ꣡श्विये व꣡सौ दधः  

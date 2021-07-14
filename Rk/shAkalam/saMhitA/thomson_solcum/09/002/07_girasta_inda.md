@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-gíras ta inda ójasā  
-marmr̥jyánte apasyúvaḥ  
-yā́bhir mádāya śúmbhase  
+गि꣡रस् त इन्द ओ꣡जसा  
+मर्मृज्य꣡न्ते अपस्यु꣡वः  
+या꣡भिर् म꣡दाय शु꣡म्भसे  

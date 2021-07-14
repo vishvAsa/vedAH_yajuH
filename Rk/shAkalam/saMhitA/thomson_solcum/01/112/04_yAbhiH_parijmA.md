@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yā́bhiḥ párijmā tánayasya majmánā  
-dvimātā́ tūrṣú taráṇir vibhū́ṣati  
-yā́bhis trimántur ábhavad vicakṣaṇás  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिः प꣡रिज्मा त꣡नयस्य मज्म꣡ना  
+द्विमाता꣡ तूर्षु꣡ तर꣡णिर् विभू꣡षति  
+या꣡भिस् त्रिम꣡न्तुर् अ꣡भवद् विचक्षण꣡स्  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

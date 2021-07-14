@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-táṃ hí svarā́jaṃ vr̥ṣabháṃ tám ójase  
-dhiṣáṇe niṣṭatakṣátuḥ  
-utópamā́nām prathamó ní ṣīdasi  
-sómakāmaṃ hí te mánaḥ  
+तं꣡ हि꣡ स्वरा꣡जं वृषभं꣡ त꣡म् ओ꣡जसे  
+धिष꣡णे निष्टतक्ष꣡तुः  
+उतो꣡पमा꣡नाम् प्रथमो꣡ नि꣡ षीदसि  
+सो꣡मकामं हि꣡ ते म꣡नः  

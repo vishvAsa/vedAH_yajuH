@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-kathā́ mahé puṣṭimbharā́ya pūṣṇé  
-kád rudrā́ya súmakhāya havirdé  
-kád víṣṇava urugāyā́ya réto  
-brávaḥ kád agne śárave br̥hatyaí  
+कथा꣡ महे꣡ पुष्टिम्भरा꣡य पूष्णे꣡  
+क꣡द् रुद्रा꣡य सु꣡मखाय हविर्दे꣡  
+क꣡द् वि꣡ष्णव उरुगाया꣡य रे꣡तो  
+ब्र꣡वः क꣡द् अग्ने श꣡रवे बृहत्यइ꣡  

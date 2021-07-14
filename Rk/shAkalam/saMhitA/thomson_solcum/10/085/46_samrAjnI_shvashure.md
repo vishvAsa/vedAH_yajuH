@@ -2,7 +2,7 @@
 title = "046"
 
 +++
-samrā́jñī śváśure bhava  
-samrā́jñī śvaśruvā́m bhava  
-nánāndari samrā́jñī bhava  
-samrā́jñī ádhi devŕ̥ṣu  
+सम्रा꣡ज्ञी श्व꣡शुरे भव  
+सम्रा꣡ज्ञी श्वश्रुवा꣡म् भव  
+न꣡नान्दरि सम्रा꣡ज्ञी भव  
+सम्रा꣡ज्ञी अ꣡धि देव्ŕ̥षु  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-prā́smai gāyatrám arcata  
-vāvā́tur yáḥ puraṃdaráḥ  
-yā́bhiḥ kāṇvásya úpa barhír āsádaṃ  
-yā́sad vajrī́ bhinát púraḥ  
+प्रा꣡स्मै गायत्र꣡म् अर्चत  
+वावा꣡तुर् यः꣡ पुरंदरः꣡  
+या꣡भिः काण्व꣡स्य उ꣡प बर्हि꣡र् आस꣡दं  
+या꣡सद् वज्री꣡ भिन꣡त् पु꣡रः  

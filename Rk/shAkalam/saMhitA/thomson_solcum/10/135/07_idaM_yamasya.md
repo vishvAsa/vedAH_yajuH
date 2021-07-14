@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-idáṃ yamásya sā́danaṃ  
-devamānáṃ yád ucyáte  
-iyám asya dhamyate nāḷī́r  
-ayáṃ gīrbhíḥ páriṣkr̥taḥ  
+इदं꣡ यम꣡स्य सा꣡दनं  
+देवमानं꣡ य꣡द् उच्य꣡ते  
+इय꣡म् अस्य धम्यते नाऌई꣡र्  
+अयं꣡ गीर्भिः꣡ प꣡रिष्कृतः  

@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-índrāya soma pā́tave  
-mádāya pári ṣicyase  
-manaścín mánasas pátiḥ  
+इ꣡न्द्राय सोम पा꣡तवे  
+म꣡दाय प꣡रि षिच्यसे  
+मनश्चि꣡न् म꣡नसस् प꣡तिः  

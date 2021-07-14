@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-śatáṃ vo amba dhā́māni  
-sahásram utá vo rúhaḥ  
-ádhā śatakratvo yūyám  
-imám me agadáṃ kr̥ta  
+शतं꣡ वो अम्ब धा꣡मानि  
+सह꣡स्रम् उत꣡ वो रु꣡हः  
+अ꣡धा शतक्रत्वो यूय꣡म्  
+इम꣡म् मे अगदं꣡ कृत  

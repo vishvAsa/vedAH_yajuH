@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ā́ kṣódo máhi vr̥táṃ nadī́nām  
-páriṣṭhitam asr̥ja ūrmím apā́m  
-tā́sām ánu praváta indra pánthām  
-prā́rdayo nī́cīr apásaḥ samudrám  
+आ꣡ क्षो꣡दो म꣡हि वृतं꣡ नदी꣡नाम्  
+प꣡रिष्ठितम् असृज ऊर्मि꣡म् अपा꣡म्  
+ता꣡साम् अ꣡नु प्रव꣡त इन्द्र प꣡न्थाम्  
+प्रा꣡र्दयो नी꣡चीर् अप꣡सः समुद्र꣡म्  

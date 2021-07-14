@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá hí ririkṣá ójasā  
-divó ántebhiyas pári  
-ná tvā vivyāca rája indra pā́rthivam  
-ánu svadhā́ṃ vavakṣitha  
+प्र꣡ हि꣡ रिरिक्ष꣡ ओ꣡जसा  
+दिवो꣡ अ꣡न्तेभियस् प꣡रि  
+न꣡ त्वा विव्याच र꣡ज इन्द्र पा꣡र्थिवम्  
+अ꣡नु स्वधां꣡ ववक्षिथ  

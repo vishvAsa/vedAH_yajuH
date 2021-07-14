@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-amī́ṣāṃ cittám pratilobháyantī  
-gr̥hāṇā́ṅgānu apuve párehi  
-abhí préhi nír daha hr̥tsú śókair  
-andhénāmítrās támasā sacantām  
+अमी꣡षां चित्त꣡म् प्रतिलोभ꣡यन्ती  
+गृहाणा꣡ङ्गानु अपुवे प꣡रेहि  
+अभि꣡ प्रे꣡हि नि꣡र् दह हृत्सु꣡ शो꣡कैर्  
+अन्धे꣡नामि꣡त्रास् त꣡मसा सचन्ताम्  

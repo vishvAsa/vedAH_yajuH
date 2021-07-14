@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-yád vā śakra parāváti  
-samudré ádhi mándase  
-asmā́kam ít suté raṇā sám índubhiḥ  
+य꣡द् वा शक्र पराव꣡ति  
+समुद्रे꣡ अ꣡धि म꣡न्दसे  
+अस्मा꣡कम् इ꣡त् सुते꣡ रणा स꣡म् इ꣡न्दुभिः  

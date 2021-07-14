@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-mā́ te rā́dhāṃsi mā́ ta ūtáyo vaso  
-asmā́n kádā canā́ dabhan  
-víśvā ca na upamimīhí mānuṣa  
-vásūni carṣaṇíbhya ā́  
+मा꣡ ते रा꣡धांसि मा꣡ त ऊत꣡यो वसो  
+अस्मा꣡न् क꣡दा चना꣡ दभन्  
+वि꣡श्वा च न उपमिमीहि꣡ मानुष  
+व꣡सूनि चर्षणि꣡भ्य आ꣡  

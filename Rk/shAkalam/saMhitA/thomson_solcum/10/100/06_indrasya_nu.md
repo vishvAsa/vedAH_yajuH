@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-índrasya nú súkr̥taṃ daíviyaṃ sáho  
-agnír gr̥hé jaritā́ médhiraḥ kavíḥ  
-yajñáś ca bhūd vidáthe cā́rur ántama  
-ā́ sarvátātim áditiṃ vr̥ṇīmahe  
+इ꣡न्द्रस्य नु꣡ सु꣡कृतं दइ꣡वियं स꣡हो  
+अग्नि꣡र् गृहे꣡ जरिता꣡ मे꣡धिरः कविः꣡  
+यज्ञ꣡श् च भूद् विद꣡थे चा꣡रुर् अ꣡न्तम  
+आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे  

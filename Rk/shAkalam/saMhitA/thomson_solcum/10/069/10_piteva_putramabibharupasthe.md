@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-pitéva putrám abibhar upásthe  
-tuvā́m agne vadhriaśváḥ saparyán  
-juṣāṇó asya samídhaṃ yaviṣṭha  
-utá pū́rvām̐ avanor vrā́dhataś cit  
+पिते꣡व पुत्र꣡म् अबिभर् उप꣡स्थे  
+तुवा꣡म् अग्ने वध्रिअश्वः꣡ सपर्य꣡न्  
+जुषाणो꣡ अस्य समि꣡धं यविष्ठ  
+उत꣡ पू꣡र्वाँ अवनोर् व्रा꣡धतश् चित्  

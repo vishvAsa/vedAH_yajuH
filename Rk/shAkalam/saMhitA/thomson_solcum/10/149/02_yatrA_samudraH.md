@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yátrā samudrá skabhitó ví aúnad  
-ápāṃ napāt savitā́ tásya veda  
-áto bhū́r áta ā útthitaṃ rájo  
-áto dyā́vāpr̥thivī́ aprathetām  
+य꣡त्रा समुद्र꣡ स्कभितो꣡ वि꣡ अउ꣡नद्  
+अ꣡पां नपात् सविता꣡ त꣡स्य वेद  
+अ꣡तो भू꣡र् अ꣡त आ उ꣡त्थितं र꣡जो  
+अ꣡तो द्या꣡वापृथिवी꣡ अप्रथेताम्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-apó mahī́r abhíśaster amuñco  
-ájāgar āsu ádhi devá ékaḥ  
-índra yā́s tváṃ vr̥tratū́rye cakártha  
-tā́bhir viśvā́yus tanúvam pupuṣyāḥ  
+अपो꣡ मही꣡र् अभि꣡शस्तेर् अमुञ्चो  
+अ꣡जागर् आसु अ꣡धि देव꣡ ए꣡कः  
+इ꣡न्द्र या꣡स् त्वं꣡ वृत्रतू꣡र्ये चक꣡र्थ  
+ता꣡भिर् विश्वा꣡युस् तनु꣡वम् पुपुष्याः  

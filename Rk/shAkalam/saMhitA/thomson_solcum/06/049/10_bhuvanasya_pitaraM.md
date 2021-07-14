@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-bhúvanasya pitáraṃ gīrbhír ābhī́  
-rudráṃ dívā vardháyā rudrám aktaú  
-br̥hántam r̥ṣvám ajáraṃ suṣumnám  
-ŕ̥dhag ghuvema kavíneṣitā́saḥ  
+भु꣡वनस्य पित꣡रं गीर्भि꣡र् आभी꣡  
+रुद्रं꣡ दि꣡वा वर्ध꣡या रुद्र꣡म् अक्तउ꣡  
+बृह꣡न्तम् ऋष्व꣡म् अज꣡रं सुषुम्न꣡म्  
+ŕ̥धग् घुवेम कवि꣡नेषिता꣡सः  

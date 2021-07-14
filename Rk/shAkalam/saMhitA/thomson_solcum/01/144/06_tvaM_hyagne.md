@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuváṃ hí agne diviyásya rā́jasi  
-tvám pā́rthivasya paśupā́ iva tmánā  
-énī ta eté br̥hatī́ abhiśríyā  
-hiraṇyáyī vákvarī barhír āśate°  
+तुवं꣡ हि꣡ अग्ने दिविय꣡स्य रा꣡जसि  
+त्व꣡म् पा꣡र्थिवस्य पशुपा꣡ इव त्म꣡ना  
+ए꣡नी त एते꣡ बृहती꣡ अभिश्रि꣡या  
+हिरण्य꣡यी व꣡क्वरी बर्हि꣡र् आशते°  

@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-tád vā́riyaṃ vr̥ṇīmahe  
-váriṣṭhaṃ gopayátiyam  
-mitró yát pā́nti váruṇo yád aryamā́  
+त꣡द् वा꣡रियं वृणीमहे  
+व꣡रिष्ठं गोपय꣡तियम्  
+मित्रो꣡ य꣡त् पा꣡न्ति व꣡रुणो य꣡द् अर्यमा꣡  

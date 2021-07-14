@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yádi kṣitā́yur yádi vā páreto  
-yádi mr̥tyór antikáṃ nī́ta evá  
-tám ā́ harāmi nírr̥ter upásthād  
-áspārṣam enaṃ śatáśāradāya  
+य꣡दि क्षिता꣡युर् य꣡दि वा प꣡रेतो  
+य꣡दि मृत्यो꣡र् अन्तिकं꣡ नी꣡त एव꣡  
+त꣡म् आ꣡ हरामि नि꣡रृतेर् उप꣡स्थाद्  
+अ꣡स्पार्षम् एनं शत꣡शारदाय  

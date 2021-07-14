@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-stuhí bhojā́n stuvató asya yā́mani  
-ráṇan gā́vo ná yávase  
-yatáḥ pū́rvām̐ iva sákhīm̐r ánu hvaya  
-girā́ gr̥ṇīhi kāmínaḥ  
+स्तुहि꣡ भोजा꣡न् स्तुवतो꣡ अस्य या꣡मनि  
+र꣡णन् गा꣡वो न꣡ य꣡वसे  
+यतः꣡ पू꣡र्वाँ इव स꣡खीँर् अ꣡नु ह्वय  
+गिरा꣡ गृणीहि कामि꣡नः  

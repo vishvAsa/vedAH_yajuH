@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tvám agne rudró ásuro mahó divás  
-tuváṃ śárdho mā́rutam pr̥kṣá īśiṣe  
-tuváṃ vā́tair aruṇaír yāsi śaṃgayás  
-tuvám pūṣā́ vidhatáḥ pāsi nú tmánā  
+त्व꣡म् अग्ने रुद्रो꣡ अ꣡सुरो महो꣡ दिव꣡स्  
+तुवं꣡ श꣡र्धो मा꣡रुतम् पृक्ष꣡ ईशिषे  
+तुवं꣡ वा꣡तैर् अरुणइ꣡र् यासि शंगय꣡स्  
+तुव꣡म् पूषा꣡ विधतः꣡ पासि नु꣡ त्म꣡ना  

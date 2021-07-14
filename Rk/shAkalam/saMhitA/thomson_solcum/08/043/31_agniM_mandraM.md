@@ -2,6 +2,6 @@
 title = "031"
 
 +++
-agním mandrám purupriyáṃ  
-śīrám pavākáśociṣam+  
-hr̥dbhír mandrébhir īmahe  
+अग्नि꣡म् मन्द्र꣡म् पुरुप्रियं꣡  
+शीर꣡म् पवाक꣡शोचिषम्+  
+हृद्भि꣡र् मन्द्रे꣡भिर् ईमहे  

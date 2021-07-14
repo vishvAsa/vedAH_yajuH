@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-devā́n vásiṣṭho amŕ̥tān vavande  
-yé víśvā bhúvanā abhí pratasthúḥ  
-té no rāsantām urugāyám adyá  
-yūyám pāta suastíbhiḥ sádā naḥ  
+देवा꣡न् व꣡सिष्ठो अम्ŕ̥तान् ववन्दे  
+ये꣡ वि꣡श्वा भु꣡वना अभि꣡ प्रतस्थुः꣡  
+ते꣡ नो रासन्ताम् उरुगाय꣡म् अद्य꣡  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

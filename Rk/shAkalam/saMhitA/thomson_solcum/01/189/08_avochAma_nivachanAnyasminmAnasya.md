@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ávocāma nivácanāni asmin  
-mā́nasya sūnúḥ sahasāné agnaú  
-vayáṃ sahásram ŕ̥ṣibhiḥ sanema  
-vidyā́meṣáṃ vr̥jánaṃ jīrádānum  
+अ꣡वोचाम निव꣡चनानि अस्मिन्  
+मा꣡नस्य सूनुः꣡ सहसाने꣡ अग्नउ꣡  
+वयं꣡ सह꣡स्रम् ŕ̥षिभिः सनेम  
+विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्  

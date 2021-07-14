@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-prá té agnáyo agníbhyo váraṃ níḥ  
-suvī́rāsaḥ śośucanta dyumántaḥ  
-yátrā náraḥ samā́sate sujātā́ḥ  
+प्र꣡ ते꣡ अग्न꣡यो अग्नि꣡भ्यो व꣡रं निः꣡  
+सुवी꣡रासः शोशुचन्त द्युम꣡न्तः  
+य꣡त्रा न꣡रः समा꣡सते सुजाताः꣡  

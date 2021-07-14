@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yā́s te prajā́ amŕ̥tasya  
-párasmin dhā́mann r̥tásya  
-mūrdhā́ nā́bhā soma vena  
-ābhū́ṣantīḥ soma vedaḥ  
+या꣡स् ते प्रजा꣡ अम्ŕ̥तस्य  
+प꣡रस्मिन् धा꣡मन्न् ऋत꣡स्य  
+मूर्धा꣡ ना꣡भा सोम वेन  
+आभू꣡षन्तीः सोम वेदः  

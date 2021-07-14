@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-sr̥jánti raśmím ójasā  
-pánthāṃ sū́ryāya yā́tave  
-té bhānúbhir ví tasthire  
+सृज꣡न्ति रश्मि꣡म् ओ꣡जसा  
+प꣡न्थां सू꣡र्याय या꣡तवे  
+ते꣡ भानु꣡भिर् वि꣡ तस्थिरे  

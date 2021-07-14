@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-táṃ no dāta maruto vājínaṃ rátha  
-āpānám bráhma citáyad divé-dive  
-íṣaṃ stotŕ̥bhyo vr̥jáneṣu kāráve  
-saním medhā́m áriṣṭaṃ duṣṭáraṃ sáhaḥ  
+तं꣡ नो दात मरुतो वाजि꣡नं र꣡थ  
+आपान꣡म् ब्र꣡ह्म चित꣡यद् दिवे꣡-दिवे  
+इ꣡षं स्तोत्ŕ̥भ्यो वृज꣡नेषु कार꣡वे  
+सनि꣡म् मेधा꣡म् अ꣡रिष्टं दुष्ट꣡रं स꣡हः  

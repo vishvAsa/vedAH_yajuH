@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-suastí no mimītām aśvínā bhágaḥ  
-suastí devī́ áditir anarváṇaḥ  
-suastí pūṣā́ ásuro dadhātu naḥ  
-suastí dyā́vāpr̥thivī́ sucetúnā  
+सुअस्ति꣡ नो मिमीताम् अश्वि꣡ना भ꣡गः  
+सुअस्ति꣡ देवी꣡ अ꣡दितिर् अनर्व꣡णः  
+सुअस्ति꣡ पूषा꣡ अ꣡सुरो दधातु नः  
+सुअस्ति꣡ द्या꣡वापृथिवी꣡ सुचेतु꣡ना  

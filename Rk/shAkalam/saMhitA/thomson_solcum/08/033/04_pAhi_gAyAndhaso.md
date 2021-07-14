@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-pāhí gā́yā́ndhaso máda  
-índrāya medhiyātithe  
-yáḥ sámmiślo háriyor yáḥ suté sácā  
-vajrī́ rátho hiraṇyáyaḥ  
+पाहि꣡ गा꣡या꣡न्धसो म꣡द  
+इ꣡न्द्राय मेधियातिथे  
+यः꣡ स꣡म्मिश्लो ह꣡रियोर् यः꣡ सुते꣡ स꣡चा  
+वज्री꣡ र꣡थो हिरण्य꣡यः  

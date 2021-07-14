@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-mā́ prá gāma pathó vayám  
-mā́ yajñā́d indra somínaḥ  
-mā́ntá sthur no árātayaḥ  
+मा꣡ प्र꣡ गाम पथो꣡ वय꣡म्  
+मा꣡ यज्ञा꣡द् इन्द्र सोमि꣡नः  
+मा꣡न्त꣡ स्थुर् नो अ꣡रातयः  

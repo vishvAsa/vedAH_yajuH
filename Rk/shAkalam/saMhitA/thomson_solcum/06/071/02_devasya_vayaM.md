@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-devásya vayáṃ savitúḥ sávīmani  
-śréṣṭhe siyāma vásunaś ca dāváne  
-yó víśvasya dvipádo yáś cátuṣpado  
-nivéśane prasavé cā́si bhū́manaḥ  
+देव꣡स्य वयं꣡ सवितुः꣡ स꣡वीमनि  
+श्रे꣡ष्ठे सियाम व꣡सुनश् च दाव꣡ने  
+यो꣡ वि꣡श्वस्य द्विप꣡दो य꣡श् च꣡तुष्पदो  
+निवे꣡शने प्रसवे꣡ चा꣡सि भू꣡मनः  

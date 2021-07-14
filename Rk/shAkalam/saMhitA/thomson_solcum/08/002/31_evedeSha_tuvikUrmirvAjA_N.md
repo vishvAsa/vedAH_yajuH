@@ -2,6 +2,6 @@
 title = "031"
 
 +++
-evéd eṣá tuvikūrmír  
-vā́jām̐ éko vájrahastaḥ  
-sanā́d ámr̥kto dayate  
+एवे꣡द् एष꣡ तुविकूर्मि꣡र्  
+वा꣡जाँ ए꣡को व꣡ज्रहस्तः  
+सना꣡द् अ꣡मृक्तो दयते  

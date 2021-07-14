@@ -2,9 +2,9 @@
 title = "002"
 
 +++
-vidā́ devā aghā́nãm  
-ā́dityāso apā́kr̥tim  
-pakṣā́ váyo yáthopári  
-ví asmé śárma yachata  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+विदा꣡ देवा अघा꣡न्ãम्  
+आ꣡दित्यासो अपा꣡कृतिम्  
+पक्षा꣡ व꣡यो य꣡थोप꣡रि  
+वि꣡ अस्मे꣡ श꣡र्म यछत  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

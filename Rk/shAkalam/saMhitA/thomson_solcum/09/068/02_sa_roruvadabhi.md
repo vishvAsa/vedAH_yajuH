@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá róruvad abhí pū́rvā acikradad  
-upārúhaḥ śratháyan svādate háriḥ  
-tiráḥ pavítram pariyánn urú jráyo  
-ní śáryāṇi dadhate devá ā́ váram  
+स꣡ रो꣡रुवद् अभि꣡ पू꣡र्वा अचिक्रदद्  
+उपारु꣡हः श्रथ꣡यन् स्वादते ह꣡रिः  
+तिरः꣡ पवि꣡त्रम् परिय꣡न्न् उरु꣡ ज्र꣡यो  
+नि꣡ श꣡र्याणि दधते देव꣡ आ꣡ व꣡रम्  

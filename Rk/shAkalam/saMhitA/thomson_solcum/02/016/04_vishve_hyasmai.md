@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-víśve hí asmai yajatā́ya dhr̥ṣṇáve  
-krátum bháranti vr̥ṣabhā́ya sáścate  
-vŕ̥ṣā yajasva havíṣā vidúṣṭaraḥ  
-píbendra sómaṃ vr̥ṣabhéṇa bhānúnā  
+वि꣡श्वे हि꣡ अस्मै यजता꣡य धृष्ण꣡वे  
+क्र꣡तुम् भ꣡रन्ति वृषभा꣡य स꣡श्चते  
+व्ŕ̥षा यजस्व हवि꣡षा विदु꣡ष्टरः  
+पि꣡बेन्द्र सो꣡मं वृषभे꣡ण भानु꣡ना  

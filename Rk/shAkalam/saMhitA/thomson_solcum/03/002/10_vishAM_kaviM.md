@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-viśā́ṃ kavíṃ viśpátim mā́nuṣīr íṣaḥ  
-sáṃ sīm akr̥ṇvan svádhitiṃ ná téjase  
-sá udváto niváto yāti véviṣat  
-sá gárbham eṣú bhúvaneṣu dīdharat  
+विशां꣡ कविं꣡ विश्प꣡तिम् मा꣡नुषीर् इ꣡षः  
+सं꣡ सीम् अकृण्वन् स्व꣡धितिं न꣡ ते꣡जसे  
+स꣡ उद्व꣡तो निव꣡तो याति वे꣡विषत्  
+स꣡ ग꣡र्भम् एषु꣡ भु꣡वनेषु दीधरत्  

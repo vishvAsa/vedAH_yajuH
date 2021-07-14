@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-mã́ṃ catvā́ra āśávaḥ  
-śáviṣṭhasya dravitnávaḥ  
-suráthāso abhí práyo  
-vákṣan váyo ná túgriyam  
+म्ãं꣡ चत्वा꣡र आश꣡वः  
+श꣡विष्ठस्य द्रवित्न꣡वः  
+सुर꣡थासो अभि꣡ प्र꣡यो  
+व꣡क्षन् व꣡यो न꣡ तु꣡ग्रियम्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tríḥ saptá sasrā́ nadíyo mahī́r apó  
-vánaspátīn párvatām̐ agním ūtáye  
-kr̥śā́num ástr̥̄n tiṣíyaṃ sadhástha ā́  
-rudráṃ rudréṣu rudríyaṃ havāmahe  
+त्रिः꣡ सप्त꣡ सस्रा꣡ नदि꣡यो मही꣡र् अपो꣡  
+व꣡नस्प꣡तीन् प꣡र्वताँ अग्नि꣡म् ऊत꣡ये  
+कृशा꣡नुम् अ꣡स्तॄन् तिषि꣡यं सध꣡स्थ आ꣡  
+रुद्रं꣡ रुद्रे꣡षु रुद्रि꣡यं हवामहे  

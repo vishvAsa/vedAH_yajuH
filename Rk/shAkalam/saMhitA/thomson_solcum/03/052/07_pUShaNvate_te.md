@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-pūṣaṇváte te cakr̥mā karambháṃ  
-hárivate háriaśvāya dhānā́ḥ  
-apūpám addhi ságaṇo marúdbhiḥ  
-sómam piba vr̥trahā́ śūra vidvā́n  
+पूषण्व꣡ते ते चकृमा करम्भं꣡  
+ह꣡रिवते ह꣡रिअश्वाय धानाः꣡  
+अपूप꣡म् अद्धि स꣡गणो मरु꣡द्भिः  
+सो꣡मम् पिब वृत्रहा꣡ शूर विद्वा꣡न्  

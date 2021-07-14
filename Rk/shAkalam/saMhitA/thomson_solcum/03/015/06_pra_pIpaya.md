@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá pīpaya vr̥ṣabha jínva vā́jān  
-ágne tuváṃ ródasī naḥ sudóghe  
-devébhir deva surúcā rucānó  
-mā́ no mártasya durmatíḥ pári ṣṭhāt  
+प्र꣡ पीपय वृषभ जि꣡न्व वा꣡जान्  
+अ꣡ग्ने तुवं꣡ रो꣡दसी नः सुदो꣡घे  
+देवे꣡भिर् देव सुरु꣡चा रुचानो꣡  
+मा꣡ नो म꣡र्तस्य दुर्मतिः꣡ प꣡रि ष्ठात्  

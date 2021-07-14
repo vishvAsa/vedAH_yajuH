@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-híraṇyarūpam uṣáso víuṣṭāv  
-áyasthūṇam úditā sū́riyasya  
-ā́ rohatho varuṇa mitra gártam  
-átaś cakṣāthe áditiṃ dítiṃ ca  
+हि꣡रण्यरूपम् उष꣡सो वि꣡उष्टाव्  
+अ꣡यस्थूणम् उ꣡दिता सू꣡रियस्य  
+आ꣡ रोहथो वरुण मित्र ग꣡र्तम्  
+अ꣡तश् चक्षाथे अ꣡दितिं दि꣡तिं च  

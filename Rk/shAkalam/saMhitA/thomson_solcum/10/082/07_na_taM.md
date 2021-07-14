@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ná táṃ vidātha yá imā́ jajā́na  
-anyád yuṣmā́kam ántaram babhūva  
-nīhāréṇa prā́vr̥tā jálpiyā ca  
-asutŕ̥pa ukthaśā́saś caranti  
+न꣡ तं꣡ विदाथ य꣡ इमा꣡ जजा꣡न  
+अन्य꣡द् युष्मा꣡कम् अ꣡न्तरम् बभूव  
+नीहारे꣡ण प्रा꣡वृता ज꣡ल्पिया च  
+असुत्ŕ̥प उक्थशा꣡सश् चरन्ति  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tuvám agne śaśamānā́ya sunvaté  
-rátnaṃ yaviṣṭha devátātim invasi  
-táṃ tvā nú návyaṃ sahaso yuvan vayám  
-bhágaṃ ná kāré mahiratna dhīmahi  
+तुव꣡म् अग्ने शशमाना꣡य सुन्वते꣡  
+र꣡त्नं यविष्ठ देव꣡तातिम् इन्वसि  
+तं꣡ त्वा नु꣡ न꣡व्यं सहसो युवन् वय꣡म्  
+भ꣡गं न꣡ कारे꣡ महिरत्न धीमहि  

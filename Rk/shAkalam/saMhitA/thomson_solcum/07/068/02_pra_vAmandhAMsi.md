@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-prá vām ándhāṃsi mádiyāni asthur  
-áraṃ gantaṃ havíṣo vītáye me  
-tiró aryó hávanāni śrutáṃ naḥ  
+प्र꣡ वाम् अ꣡न्धांसि म꣡दियानि अस्थुर्  
+अ꣡रं गन्तं हवि꣡षो वीत꣡ये मे  
+तिरो꣡ अर्यो꣡ ह꣡वनानि श्रुतं꣡ नः  

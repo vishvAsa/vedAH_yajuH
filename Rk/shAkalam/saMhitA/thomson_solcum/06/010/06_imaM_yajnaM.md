@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-imáṃ yajñáṃ cáno dhā agna uśán  
-yáṃ ta āsānó juhuté havíṣmān  
-bharádvājeṣu dadhiṣe suvr̥ktím  
-ávīr vā́jasya gádhiyasya sātaú  
+इमं꣡ यज्ञं꣡ च꣡नो धा अग्न उश꣡न्  
+यं꣡ त आसानो꣡ जुहुते꣡ हवि꣡ष्मान्  
+भर꣡द्वाजेषु दधिषे सुवृक्ति꣡म्  
+अ꣡वीर् वा꣡जस्य ग꣡धियस्य सातउ꣡  

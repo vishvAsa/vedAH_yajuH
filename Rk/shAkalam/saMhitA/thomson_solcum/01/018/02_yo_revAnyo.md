@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yó revā́n yó amīvahā́  
-vasuvít puṣṭivárdhanaḥ  
-sá naḥ siṣaktu yás turáḥ  
+यो꣡ रेवा꣡न् यो꣡ अमीवहा꣡  
+वसुवि꣡त् पुष्टिव꣡र्धनः  
+स꣡ नः सिषक्तु य꣡स् तुरः꣡  

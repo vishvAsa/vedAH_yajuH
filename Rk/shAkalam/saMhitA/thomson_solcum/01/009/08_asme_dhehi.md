@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-asmé dhehi śrávo br̥hád  
-dyumnáṃ sahasrasā́tamam  
-índra tā́ rathínīr íṣaḥ  
+अस्मे꣡ धेहि श्र꣡वो बृह꣡द्  
+द्युम्नं꣡ सहस्रसा꣡तमम्  
+इ꣡न्द्र ता꣡ रथि꣡नीर् इ꣡षः  

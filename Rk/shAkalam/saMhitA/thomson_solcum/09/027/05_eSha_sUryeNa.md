@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-eṣá sū́ryeṇa hāsate  
-pávamāno ádhi dyávi  
-pavítre matsaró mádaḥ  
+एष꣡ सू꣡र्येण हासते  
+प꣡वमानो अ꣡धि द्य꣡वि  
+पवि꣡त्रे मत्सरो꣡ म꣡दः  

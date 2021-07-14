@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-jyótir yajñā́ya ródasī ánu ṣyād  
-āré siyāma duritásya bhū́reḥ  
-bhū́ri cid dhí tujató mártiyasya  
-supārā́so vasavo barháṇāvat  
+ज्यो꣡तिर् यज्ञा꣡य रो꣡दसी अ꣡नु ष्याद्  
+आरे꣡ सियाम दुरित꣡स्य भू꣡रेः  
+भू꣡रि चिद् धि꣡ तुजतो꣡ म꣡र्तियस्य  
+सुपारा꣡सो वसवो बर्ह꣡णावत्  

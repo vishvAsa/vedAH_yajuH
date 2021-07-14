@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-práti dhānā́ bharata tū́yam asmai  
-puroḷā́śaṃ vīrátamāya nr̥̄ṇā́m+  
-divé-dive sadŕ̥śīr indra túbhyaṃ  
-várdhantu tvā somapéyāya dhr̥ṣṇo  
+प्र꣡ति धाना꣡ भरत तू꣡यम् अस्मै  
+पुरोऌआ꣡शं वीर꣡तमाय नॄणा꣡म्+  
+दिवे꣡-दिवे सद्ŕ̥शीर् इन्द्र तु꣡भ्यं  
+व꣡र्धन्तु त्वा सोमपे꣡याय धृष्णो  

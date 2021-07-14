@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-vājíntamāya sáhyase supitriya  
-tr̥ṣú cyávāno ánu jātávedase  
-anudré cid yó dhr̥ṣatā́ váraṃ saté  
-mahíntamāya dhánvanéd aviṣyaté  
+वाजि꣡न्तमाय स꣡ह्यसे सुपित्रिय  
+तृषु꣡ च्य꣡वानो अ꣡नु जात꣡वेदसे  
+अनुद्रे꣡ चिद् यो꣡ धृषता꣡ व꣡रं सते꣡  
+महि꣡न्तमाय ध꣡न्वने꣡द् अविष्यते꣡  

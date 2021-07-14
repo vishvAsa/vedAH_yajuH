@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-śriyé jātáḥ śriyá ā́ nír iyāya  
-śríyaṃ váyo jaritŕ̥bhyo dadhāti  
-śríyaṃ vásānā amr̥tatvám āyan  
-bhávanti satyā́ samithā́ mitádrau  
+श्रिये꣡ जातः꣡ श्रिय꣡ आ꣡ नि꣡र् इयाय  
+श्रि꣡यं व꣡यो जरित्ŕ̥भ्यो दधाति  
+श्रि꣡यं व꣡साना अमृतत्व꣡म् आयन्  
+भ꣡वन्ति सत्या꣡ समिथा꣡ मित꣡द्रौ  

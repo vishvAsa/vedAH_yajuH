@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yamā́ya sómaṃ sunuta  
-yamā́ya juhutā havíḥ  
-yamáṃ ha yajñó gachati  
-agnídūto áraṃkr̥taḥ  
+यमा꣡य सो꣡मं सुनुत  
+यमा꣡य जुहुता हविः꣡  
+यमं꣡ ह यज्ञो꣡ गछति  
+अग्नि꣡दूतो अ꣡रंकृतः  

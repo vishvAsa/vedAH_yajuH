@@ -2,8 +2,8 @@
 title = "003"
 
 +++
-kārúr aháṃ tató bhiṣág  
-upalaprakṣíṇī nanā́  
-nā́nādhiyo vasūyávo  
-ánu gā́ iva tasthima  
-índrāyendo pári srava  
+कारु꣡र् अहं꣡ ततो꣡ भिष꣡ग्  
+उपलप्रक्षि꣡णी नना꣡  
+ना꣡नाधियो वसूय꣡वो  
+अ꣡नु गा꣡ इव तस्थिम  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-jihmáṃ nunudre avatáṃ táyā diśā́  
-ásiñcann útsaṃ gótamāya tr̥ṣṇáje  
-ā́ gachantīm ávasā citrábhānavaḥ  
-kā́maṃ víprasya tarpayanta dhā́mabhiḥ  
+जिह्मं꣡ नुनुद्रे अवतं꣡ त꣡या दिशा꣡  
+अ꣡सिञ्चन्न् उ꣡त्सं गो꣡तमाय तृष्ण꣡जे  
+आ꣡ गछन्तीम् अ꣡वसा चित्र꣡भानवः  
+का꣡मं वि꣡प्रस्य तर्पयन्त धा꣡मभिः  

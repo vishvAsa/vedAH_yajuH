@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yuñjáte mána utá yuñjate dhíyo  
-víprā víprasya br̥ható vipaścítaḥ  
-ví hótrā dadhe vayunāvíd éka ín  
-mahī́ devásya savitúḥ páriṣṭutiḥ  
+युञ्ज꣡ते म꣡न उत꣡ युञ्जते धि꣡यो  
+वि꣡प्रा वि꣡प्रस्य बृहतो꣡ विपश्चि꣡तः  
+वि꣡ हो꣡त्रा दधे वयुनावि꣡द् ए꣡क इ꣡न्  
+मही꣡ देव꣡स्य सवितुः꣡ प꣡रिष्टुतिः  

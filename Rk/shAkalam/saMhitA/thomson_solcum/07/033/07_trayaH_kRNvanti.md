@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tráyaḥ kr̥ṇvanti bhúvaneṣu rétas  
-tisráḥ prajā́ ā́riyā jyótiragrāḥ  
-tráyo gharmā́sa uṣásaṃ sacante  
-sárvām̐ ít tā́m̐ ánu vidur vásiṣṭhāḥ  
+त्र꣡यः कृण्वन्ति भु꣡वनेषु रे꣡तस्  
+तिस्रः꣡ प्रजा꣡ आ꣡रिया ज्यो꣡तिरग्राः  
+त्र꣡यो घर्मा꣡स उष꣡सं सचन्ते  
+स꣡र्वाँ इ꣡त् ताँ꣡ अ꣡नु विदुर् व꣡सिष्ठाः  

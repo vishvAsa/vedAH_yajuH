@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índraḥ svā́hā pibatu yásya sóma  
-āgátyā túmro vr̥ṣabhó marútvān  
-óruvyácāḥ pr̥ṇatām ebhír ánnair  
-ā́sya havís tanúvaḥ kā́mam r̥dhyāḥ  
+इ꣡न्द्रः स्वा꣡हा पिबतु य꣡स्य सो꣡म  
+आग꣡त्या तु꣡म्रो वृषभो꣡ मरु꣡त्वान्  
+ओ꣡रुव्य꣡चाः पृणताम् एभि꣡र् अ꣡न्नैर्  
+आ꣡स्य हवि꣡स् तनु꣡वः का꣡मम् ऋध्याः  

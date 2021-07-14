@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ásāma yáthā suṣakhā́ya ena  
-suabhiṣṭáyo narã́ṃ ná śáṃsaiḥ  
-ásad yáthā na índro vandaneṣṭhā́s  
-turó ná kárma náyamāna ukthā́  
+अ꣡साम य꣡था सुषखा꣡य एन  
+सुअभिष्ट꣡यो नर्ãं꣡ न꣡ शं꣡सैः  
+अ꣡सद् य꣡था न इ꣡न्द्रो वन्दनेष्ठा꣡स्  
+तुरो꣡ न꣡ क꣡र्म न꣡यमान उक्था꣡  

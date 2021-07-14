@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-páriviṣṭaṃ jāhuṣáṃ viśvátaḥ sīṃ  
-sugébhir náktam ūhathū rájobhiḥ  
-vibhindúnā nāsatiyā ráthena  
-ví párvatām̐ ajarayū́ ayātam  
+प꣡रिविष्टं जाहुषं꣡ विश्व꣡तः सीं  
+सुगे꣡भिर् न꣡क्तम् ऊहथू र꣡जोभिः  
+विभिन्दु꣡ना नासतिया र꣡थेन  
+वि꣡ प꣡र्वताँ अजरयू꣡ अयातम्  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yó vāṃ yajñaíḥ śaśamānó ha dā́śati  
-kavír hótā yájati manmasā́dhanaḥ  
-úpā́ha táṃ gáchatho vīthó adhvarám  
-áchā gíraḥ sumatíṃ gantam asmayū́  
+यो꣡ वां यज्ञइः꣡ शशमानो꣡ ह दा꣡शति  
+कवि꣡र् हो꣡ता य꣡जति मन्मसा꣡धनः  
+उ꣡पा꣡ह तं꣡ ग꣡छथो वीथो꣡ अध्वर꣡म्  
+अ꣡छा गि꣡रः सुमतिं꣡ गन्तम् अस्मयू꣡  

@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-turī́yaṃ nā́ma yajñíyaṃ  
-yadā́ káras tád uśmasi  
-ā́d ít pátir na ohase  
+तुरी꣡यं ना꣡म यज्ञि꣡यं  
+यदा꣡ क꣡रस् त꣡द् उश्मसि  
+आ꣡द् इ꣡त् प꣡तिर् न ओहसे  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ádhvaryavo apá itā samudrám  
-apā́ṃ nápātaṃ havíṣā yajadhvam  
-sá vo dadad ūrmím adyā́ súpūtaṃ  
-tásmai sómam mádhumantaṃ sunota  
+अ꣡ध्वर्यवो अप꣡ इता समुद्र꣡म्  
+अपां꣡ न꣡पातं हवि꣡षा यजध्वम्  
+स꣡ वो ददद् ऊर्मि꣡म् अद्या꣡ सु꣡पूतं  
+त꣡स्मै सो꣡मम् म꣡धुमन्तं सुनोत  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-píbataṃ gharmám mádhumantam aśvinā  
-ā́ barhíḥ sīdataṃ narā  
-tā́ mandasānā́ mánuṣo duroṇá ā́  
-ní pātaṃ védasā váyaḥ  
+पि꣡बतं घर्म꣡म् म꣡धुमन्तम् अश्विना  
+आ꣡ बर्हिः꣡ सीदतं नरा  
+ता꣡ मन्दसाना꣡ म꣡नुषो दुरोण꣡ आ꣡  
+नि꣡ पातं वे꣡दसा व꣡यः  

@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-sádā kavī sumatím ā́ cake vāṃ  
-víśvā dhíyo aśvinā prā́vatam me  
-asmé rayíṃ nāsatiyā br̥hántam  
-apatyasā́caṃ śrútiyaṃ rarāthām  
+स꣡दा कवी सुमति꣡म् आ꣡ चके वां  
+वि꣡श्वा धि꣡यो अश्विना प्रा꣡वतम् मे  
+अस्मे꣡ रयिं꣡ नासतिया बृह꣡न्तम्  
+अपत्यसा꣡चं श्रु꣡तियं रराथाम्  

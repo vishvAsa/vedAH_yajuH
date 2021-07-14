@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-vā́tasya yuktā́n suyújaś cid áśvān  
-kavíś cid eṣó ajagann avasyúḥ  
-víśve te átra marútaḥ sákhāya  
-índra bráhmāṇi táviṣīm avardhan  
+वा꣡तस्य युक्ता꣡न् सुयु꣡जश् चिद् अ꣡श्वान्  
+कवि꣡श् चिद् एषो꣡ अजगन्न् अवस्युः꣡  
+वि꣡श्वे ते अ꣡त्र मरु꣡तः स꣡खाय  
+इ꣡न्द्र ब्र꣡ह्माणि त꣡विषीम् अवर्धन्  

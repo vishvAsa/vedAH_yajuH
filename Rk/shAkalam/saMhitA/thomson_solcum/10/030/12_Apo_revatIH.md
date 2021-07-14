@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ā́po revatīḥ kṣáyathā hí vásvaḥ  
-krátuṃ ca bhadrám bibhr̥thā́mŕ̥taṃ ca  
-rāyáś ca sthá suapatyásya pátnīḥ  
-sárasvatī tád gr̥ṇaté váyo dhāt  
+आ꣡पो रेवतीः क्ष꣡यथा हि꣡ व꣡स्वः  
+क्र꣡तुं च भद्र꣡म् बिभृथा꣡म्ŕ̥तं च  
+राय꣡श् च स्थ꣡ सुअपत्य꣡स्य प꣡त्नीः  
+स꣡रस्वती त꣡द् गृणते꣡ व꣡यो धात्  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-prá sómāso madacyútaḥ  
-śrávase no maghṍnaḥ  
-sutā́ vidáthe akramuḥ  
+प्र꣡ सो꣡मासो मदच्यु꣡तः  
+श्र꣡वसे नो मघ्õ꣡नः  
+सुता꣡ विद꣡थे अक्रमुः  

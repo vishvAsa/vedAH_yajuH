@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ávartiyā śúna āntrā́ṇi pece  
-ná devéṣu vivide marḍitā́ram  
-ápaśyaṃ jāyā́m ámahīyamānām  
-ádhā me śyenó mádhu ā́ jabhāra  
+अ꣡वर्तिया शु꣡न आन्त्रा꣡णि पेचे  
+न꣡ देवे꣡षु विविदे मर्डिता꣡रम्  
+अ꣡पश्यं जाया꣡म् अ꣡महीयमानाम्  
+अ꣡धा मे श्येनो꣡ म꣡धु आ꣡ जभार  

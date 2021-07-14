@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-té māyíno mamire suprácetaso  
-jāmī́ sáyonī mithunā́ sámokasā  
-návyaṃ-navyaṃ tántum ā́ tanvate diví  
-samudré antáḥ kaváyaḥ sudītáyaḥ  
+ते꣡ मायि꣡नो ममिरे सुप्र꣡चेतसो  
+जामी꣡ स꣡योनी मिथुना꣡ स꣡मोकसा  
+न꣡व्यं-नव्यं त꣡न्तुम् आ꣡ तन्वते दिवि꣡  
+समुद्रे꣡ अन्तः꣡ कव꣡यः सुदीत꣡यः  

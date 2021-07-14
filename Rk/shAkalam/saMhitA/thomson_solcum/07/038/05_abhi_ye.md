@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-abhí yé mithó vanúṣaḥ sápante  
-rātíṃ divó rātiṣā́caḥ pr̥thivyā́ḥ  
-áhir budhníya utá naḥ śr̥ṇotu  
-várūtrī ékadhenubhir ní pātu  
+अभि꣡ ये꣡ मिथो꣡ वनु꣡षः स꣡पन्ते  
+रातिं꣡ दिवो꣡ रातिषा꣡चः पृथिव्याः꣡  
+अ꣡हिर् बुध्नि꣡य उत꣡ नः शृणोतु  
+व꣡रूत्री ए꣡कधेनुभिर् नि꣡ पातु  

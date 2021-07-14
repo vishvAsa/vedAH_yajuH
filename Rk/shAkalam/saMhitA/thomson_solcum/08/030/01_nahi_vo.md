@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-nahí vo ásti arbhakó  
-dévāso ná kumārakáḥ  
-víśve satómahānta ít  
+नहि꣡ वो अ꣡स्ति अर्भको꣡  
+दे꣡वासो न꣡ कुमारकः꣡  
+वि꣡श्वे सतो꣡महान्त इ꣡त्  

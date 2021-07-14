@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-kúva svid asyá rájaso mahás páraṃ  
-kuvā́varam maruto yásmin āyayá  
-yác cyāváyatha vithuréva sáṃhitaṃ  
-ví ádriṇā patatha tveṣám arṇavám  
+कु꣡व स्विद् अस्य꣡ र꣡जसो मह꣡स् प꣡रं  
+कुवा꣡वरम् मरुतो य꣡स्मिन् आयय꣡  
+य꣡च् च्याव꣡यथ विथुरे꣡व सं꣡हितं  
+वि꣡ अ꣡द्रिणा पतथ त्वेष꣡म् अर्णव꣡म्  

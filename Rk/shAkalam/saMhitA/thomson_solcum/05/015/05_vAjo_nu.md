@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vā́jo nú te śávasas pātu ántam  
-urúṃ dóghaṃ dharúṇaṃ deva rāyáḥ  
-padáṃ ná tāyúr gúhā dádhāno  
-mahó rāyé citáyann átrim aspaḥ  
+वा꣡जो नु꣡ ते श꣡वसस् पातु अ꣡न्तम्  
+उरुं꣡ दो꣡घं धरु꣡णं देव रायः꣡  
+पदं꣡ न꣡ तायु꣡र् गु꣡हा द꣡धानो  
+महो꣡ राये꣡ चित꣡यन्न् अ꣡त्रिम् अस्पः  

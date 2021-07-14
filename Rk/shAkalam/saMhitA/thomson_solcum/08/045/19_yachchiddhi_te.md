@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-yác cid dhí te ápi vyáthir  
-jaganvā́ṃso ámanmahi  
-godā́ íd indra bodhi naḥ  
+य꣡च् चिद् धि꣡ ते अ꣡पि व्य꣡थिर्  
+जगन्वां꣡सो अ꣡मन्महि  
+गोदा꣡ इ꣡द् इन्द्र बोधि नः  

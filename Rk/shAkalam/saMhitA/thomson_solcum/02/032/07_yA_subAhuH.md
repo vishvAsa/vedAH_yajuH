@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yā́ subāhúḥ suaṅguríḥ  
-suṣū́mā bahusū́varī  
-tasyai viśpátniyai havíḥ  
-sinīvālyaí juhotana  
+या꣡ सुबाहुः꣡ सुअङ्गुरिः꣡  
+सुषू꣡मा बहुसू꣡वरी  
+तस्यै विश्प꣡त्नियै हविः꣡  
+सिनीवाल्यइ꣡ जुहोतन  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-abhí priyā́ṇi pavate punānó  
-devó devā́n svéna rásena pr̥ñcán  
-índur dhármāṇi r̥tuthā́ vásāno  
-dáśa kṣípo avyata sā́no ávye  
+अभि꣡ प्रिया꣡णि पवते पुनानो꣡  
+देवो꣡ देवा꣡न् स्वे꣡न र꣡सेन पृञ्च꣡न्  
+इ꣡न्दुर् ध꣡र्माणि ऋतुथा꣡ व꣡सानो  
+द꣡श क्षि꣡पो अव्यत सा꣡नो अ꣡व्ये  

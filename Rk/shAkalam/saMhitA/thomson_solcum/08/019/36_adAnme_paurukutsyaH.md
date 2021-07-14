@@ -2,6 +2,6 @@
 title = "036"
 
 +++
-ádān me paurukutsiyáḥ  
-pañcāśátaṃ trasádasyur vadhū́nām  
-máṃhiṣṭho aryáḥ sátpatiḥ  
+अ꣡दान् मे पौरुकुत्सियः꣡  
+पञ्चाश꣡तं त्रस꣡दस्युर् वधू꣡नाम्  
+मं꣡हिष्ठो अर्यः꣡ स꣡त्पतिः  

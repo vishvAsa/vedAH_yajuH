@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-adbhíḥ soma papr̥cānásya te ráso  
-ávyo vā́raṃ ví pavamāna dhāvati  
-sá mr̥jyámānaḥ kavíbhir madintama  
-svádasvéndrāya pavamāna pītáye  
+अद्भिः꣡ सोम पपृचान꣡स्य ते र꣡सो  
+अ꣡व्यो वा꣡रं वि꣡ पवमान धावति  
+स꣡ मृज्य꣡मानः कवि꣡भिर् मदिन्तम  
+स्व꣡दस्वे꣡न्द्राय पवमान पीत꣡ये  

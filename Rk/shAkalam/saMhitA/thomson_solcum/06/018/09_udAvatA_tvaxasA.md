@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-udā́vatā tvákṣasā pányasā ca  
-vr̥trahátyāya rátham indra tiṣṭha  
-dhiṣvá vájraṃ hásta ā́ dakṣiṇatrā́  
-abhí prá manda purudatra māyā́ḥ  
+उदा꣡वता त्व꣡क्षसा प꣡न्यसा च  
+वृत्रह꣡त्याय र꣡थम् इन्द्र तिष्ठ  
+धिष्व꣡ व꣡ज्रं ह꣡स्त आ꣡ दक्षिणत्रा꣡  
+अभि꣡ प्र꣡ मन्द पुरुदत्र मायाः꣡  

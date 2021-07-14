@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-sám índro gā́ ajayat sáṃ híraṇyā  
-sám aśviyā́ maghávā yó ha pūrvī́ḥ  
-ebhír nŕ̥bhir nŕ̥tamo asya śākaí  
-rāyó vibhaktā́ sambharáś ca vásvaḥ  
+स꣡म् इ꣡न्द्रो गा꣡ अजयत् सं꣡ हि꣡रण्या  
+स꣡म् अश्विया꣡ मघ꣡वा यो꣡ ह पूर्वीः꣡  
+एभि꣡र् न्ŕ̥भिर् न्ŕ̥तमो अस्य शाकइ꣡  
+रायो꣡ विभक्ता꣡ सम्भर꣡श् च व꣡स्वः  

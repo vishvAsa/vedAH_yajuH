@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sám prérate ánu vā́tasya viṣṭhā́  
-aínaṃ gachanti sámanaṃ ná yóṣāḥ  
-tā́bhiḥ sayúk saráthaṃ devá īyate  
-asyá víśvasya bhúvanasya rā́jā  
+स꣡म् प्रे꣡रते अ꣡नु वा꣡तस्य विष्ठा꣡  
+अइ꣡नं गछन्ति स꣡मनं न꣡ यो꣡षाः  
+ता꣡भिः सयु꣡क् सर꣡थं देव꣡ ईयते  
+अस्य꣡ वि꣡श्वस्य भु꣡वनस्य रा꣡जा  

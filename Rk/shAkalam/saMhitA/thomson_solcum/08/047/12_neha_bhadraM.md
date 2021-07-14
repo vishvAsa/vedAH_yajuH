@@ -2,9 +2,9 @@
 title = "012"
 
 +++
-néhá bhadráṃ rakṣasvíne  
-nā́vayaí nópayā́ utá  
-gáve ca bhadráṃ dhenáve  
-vīrā́ya ca śravasyaté  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+ने꣡ह꣡ भद्रं꣡ रक्षस्वि꣡ने  
+ना꣡वयइ꣡ नो꣡पया꣡ उत꣡  
+ग꣡वे च भद्रं꣡ धेन꣡वे  
+वीरा꣡य च श्रवस्यते꣡  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

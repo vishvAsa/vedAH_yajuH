@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-sádā sugáḥ pitumā́m̐ astu pánthā  
-mádhvā devā óṣadhīḥ sám pipr̥kta  
-bhágo me agne sakhiyé ná mr̥dhyā  
-úd rāyó aśyāṃ sádanam purukṣóḥ  
+स꣡दा सुगः꣡ पितुमाँ꣡ अस्तु प꣡न्था  
+म꣡ध्वा देवा ओ꣡षधीः स꣡म् पिपृक्त  
+भ꣡गो मे अग्ने सखिये꣡ न꣡ मृध्या  
+उ꣡द् रायो꣡ अश्यां स꣡दनम् पुरुक्षोः꣡  

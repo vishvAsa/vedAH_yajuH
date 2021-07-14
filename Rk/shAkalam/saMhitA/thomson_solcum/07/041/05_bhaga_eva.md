@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-bhága evá bhágavām̐ astu devās  
-téna vayám bhágavantaḥ siyāma  
-táṃ tvā bhaga sárva íj johavīti  
-sá no bhaga puraetā́ bhavehá  
+भ꣡ग एव꣡ भ꣡गवाँ अस्तु देवास्  
+ते꣡न वय꣡म् भ꣡गवन्तः सियाम  
+तं꣡ त्वा भग स꣡र्व इ꣡ज् जोहवीति  
+स꣡ नो भग पुरएता꣡ भवेह꣡  

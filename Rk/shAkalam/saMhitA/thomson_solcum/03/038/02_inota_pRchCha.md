@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-inótá pr̥cha jánimā kavīnā́m  
-manodhŕ̥taḥ sukŕ̥tas takṣata dyā́m  
-imā́ u te praṇíyo várdhamānā  
-mánovātā ádha nú dhármaṇi gman  
+इनो꣡त꣡ पृछ ज꣡निमा कवीना꣡म्  
+मनोध्ŕ̥तः सुक्ŕ̥तस् तक्षत द्या꣡म्  
+इमा꣡ उ ते प्रणि꣡यो व꣡र्धमाना  
+म꣡नोवाता अ꣡ध नु꣡ ध꣡र्मणि ग्मन्  

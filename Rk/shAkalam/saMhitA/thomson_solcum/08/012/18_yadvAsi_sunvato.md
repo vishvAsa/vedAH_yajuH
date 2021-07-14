@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-yád vā́si sunvató vr̥dhó  
-yájamānasya satpate  
-ukthé vā yásya ráṇyasi sám índubhiḥ  
+य꣡द् वा꣡सि सुन्वतो꣡ वृधो꣡  
+य꣡जमानस्य सत्पते  
+उक्थे꣡ वा य꣡स्य र꣡ण्यसि स꣡म् इ꣡न्दुभिः  

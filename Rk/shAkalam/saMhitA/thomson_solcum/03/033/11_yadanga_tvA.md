@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yád aṅgá tvā bharatā́ḥ saṃtáreyur  
-gavyán grā́ma iṣitá índrajūtaḥ  
-árṣād áha prasaváḥ sárgatakta  
-ā́ vo vr̥ṇe sumatíṃ yajñíyānām  
+य꣡द् अङ्ग꣡ त्वा भरताः꣡ संत꣡रेयुर्  
+गव्य꣡न् ग्रा꣡म इषित꣡ इ꣡न्द्रजूतः  
+अ꣡र्षाद् अ꣡ह प्रसवः꣡ स꣡र्गतक्त  
+आ꣡ वो वृणे सुमतिं꣡ यज्ञि꣡यानाम्  

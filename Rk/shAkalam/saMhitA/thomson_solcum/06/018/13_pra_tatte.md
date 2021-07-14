@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-prá tát te adyā́ káraṇaṃ kr̥tám bhūt  
-kútsaṃ yád āyúm atithigvám asmai  
-purū́ sahásrā ní śiśā abhí kṣā́m  
-út tū́rvayāṇaṃ dhr̥ṣatā́ ninetha  
+प्र꣡ त꣡त् ते अद्या꣡ क꣡रणं कृत꣡म् भूत्  
+कु꣡त्सं य꣡द् आयु꣡म् अतिथिग्व꣡म् अस्मै  
+पुरू꣡ सह꣡स्रा नि꣡ शिशा अभि꣡ क्षा꣡म्  
+उ꣡त् तू꣡र्वयाणं धृषता꣡ निनेथ  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-távāhám agna ūtíbhir  
-mitrásya ca práśastibhiḥ  
-dveṣoyúto ná duritā́  
-turyā́ma mártiyānãm  
+त꣡वाह꣡म् अग्न ऊति꣡भिर्  
+मित्र꣡स्य च प्र꣡शस्तिभिः  
+द्वेषोयु꣡तो न꣡ दुरिता꣡  
+तुर्या꣡म म꣡र्तियान्ãम्  

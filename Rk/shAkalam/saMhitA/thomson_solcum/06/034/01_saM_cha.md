@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sáṃ ca tvé jagmúr gíra indra pūrvī́r  
-ví ca tvád yanti vibhúvo manīṣā́ḥ  
-purā́ nūnáṃ ca stutáye ŕ̥ṣīṇām  
-paspr̥dhrá índre ádhi ukthaarkā́  
+सं꣡ च त्वे꣡ जग्मु꣡र् गि꣡र इन्द्र पूर्वी꣡र्  
+वि꣡ च त्व꣡द् यन्ति विभु꣡वो मनीषाः꣡  
+पुरा꣡ नूनं꣡ च स्तुत꣡ये ŕ̥षीणाम्  
+पस्पृध्र꣡ इ꣡न्द्रे अ꣡धि उक्थअर्का꣡  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ákāri bráhma samidhāna túbhyaṃ  
-śáṃsāti uktháṃ yájate ví ū dhāḥ  
-hótāram agním mánuṣo ní ṣedur  
-namasyánta uśíjaḥ śáṃsam āyóḥ  
+अ꣡कारि ब्र꣡ह्म समिधान तु꣡भ्यं  
+शं꣡साति उक्थं꣡ य꣡जते वि꣡ ऊ धाः  
+हो꣡तारम् अग्नि꣡म् म꣡नुषो नि꣡ षेदुर्  
+नमस्य꣡न्त उशि꣡जः शं꣡सम् आयोः꣡  

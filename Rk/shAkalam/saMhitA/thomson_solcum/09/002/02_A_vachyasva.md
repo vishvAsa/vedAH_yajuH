@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ā́ vacyasva máhi psáro  
-vŕ̥ṣendo dyumnávattamaḥ  
-ā́ yóniṃ dharṇasíḥ sadaḥ  
+आ꣡ वच्यस्व म꣡हि प्स꣡रो  
+व्ŕ̥षेन्दो द्युम्न꣡वत्तमः  
+आ꣡ यो꣡निं धर्णसिः꣡ सदः  

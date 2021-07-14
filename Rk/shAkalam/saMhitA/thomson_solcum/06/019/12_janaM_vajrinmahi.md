@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-jánaṃ vajrin máhi cin mányamānam  
-ebhyó nŕ̥bhyo randhayā yéṣu ásmi  
-ádhā hí tvā pr̥thivyā́ṃ śū́rasātau  
-hávāmahe tánaye góṣu apsú  
+ज꣡नं वज्रिन् म꣡हि चिन् म꣡न्यमानम्  
+एभ्यो꣡ न्ŕ̥भ्यो रन्धया ये꣡षु अ꣡स्मि  
+अ꣡धा हि꣡ त्वा पृथिव्यां꣡ शू꣡रसातौ  
+ह꣡वामहे त꣡नये गो꣡षु अप्सु꣡  

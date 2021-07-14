@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-imáṃ juṣasva girvaṇaḥ  
-samudrá iva pinvate  
-índra víśvābhir ūtíbhir vavákṣitha  
+इमं꣡ जुषस्व गिर्वणः  
+समुद्र꣡ इव पिन्वते  
+इ꣡न्द्र वि꣡श्वाभिर् ऊति꣡भिर् वव꣡क्षिथ  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-asyá devásya mīḷhúṣo vayā́  
-víṣṇor eṣásya prabhr̥thé havírbhiḥ  
-vidé hí rudró rudríyam mahitváṃ  
-yāsiṣṭáṃ vartír aśvināv írāvat  
+अस्य꣡ देव꣡स्य मीऌहु꣡षो वया꣡  
+वि꣡ष्णोर् एष꣡स्य प्रभृथे꣡ हवि꣡र्भिः  
+विदे꣡ हि꣡ रुद्रो꣡ रुद्रि꣡यम् महित्वं꣡  
+यासिष्टं꣡ वर्ति꣡र् अश्विनाव् इ꣡रावत्  

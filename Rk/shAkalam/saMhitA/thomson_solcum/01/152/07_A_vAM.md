@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́ vām mitrāvaruṇā havyájuṣṭiṃ  
-námasā devāv ávasā vavr̥tyām  
-asmā́kam bráhma pŕ̥tanāsu sahyā  
-asmā́kaṃ vr̥ṣṭír diviyā́ supārā́  
+आ꣡ वाम् मित्रावरुणा हव्य꣡जुष्टिं  
+न꣡मसा देवाव् अ꣡वसा ववृत्याम्  
+अस्मा꣡कम् ब्र꣡ह्म प्ŕ̥तनासु सह्या  
+अस्मा꣡कं वृष्टि꣡र् दिविया꣡ सुपारा꣡  

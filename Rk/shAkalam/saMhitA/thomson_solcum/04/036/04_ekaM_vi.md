@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ékaṃ ví cakra camasáṃ cáturvayaṃ  
-níś cármaṇo gā́m ariṇīta dhītíbhiḥ  
-áthā devéṣu amr̥tatvám ānaśa  
-śruṣṭī́ vājā r̥bhavas tád va ukthíyam  
+ए꣡कं वि꣡ चक्र चमसं꣡ च꣡तुर्वयं  
+नि꣡श् च꣡र्मणो गा꣡म् अरिणीत धीति꣡भिः  
+अ꣡था देवे꣡षु अमृतत्व꣡म् आनश  
+श्रुष्टी꣡ वाजा ऋभवस् त꣡द् व उक्थि꣡यम्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yásmai tuvám maghavann indra girvaṇaḥ  
-śíkṣo śíkṣasi dāśúṣe  
-asmā́kaṃ gíra utá suṣṭutíṃ vaso  
-kaṇvavác chr̥ṇudhī hávam  
+य꣡स्मै तुव꣡म् मघवन्न् इन्द्र गिर्वणः  
+शि꣡क्षो शि꣡क्षसि दाशु꣡षे  
+अस्मा꣡कं गि꣡र उत꣡ सुष्टुतिं꣡ वसो  
+कण्वव꣡च् छृणुधी ह꣡वम्  

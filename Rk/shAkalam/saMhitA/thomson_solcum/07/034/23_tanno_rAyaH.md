@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-tán no rā́yaḥ párvatās tán na ā́pas  
-tád rātiṣā́ca óṣadhīr utá dyaúḥ  
-vánaspátibhiḥ pr̥thivī́ sajóṣā  
-ubhé ródasī pári pāsato naḥ  
+त꣡न् नो रा꣡यः प꣡र्वतास् त꣡न् न आ꣡पस्  
+त꣡द् रातिषा꣡च ओ꣡षधीर् उत꣡ द्यउः꣡  
+व꣡नस्प꣡तिभिः पृथिवी꣡ सजो꣡षा  
+उभे꣡ रो꣡दसी प꣡रि पासतो नः  

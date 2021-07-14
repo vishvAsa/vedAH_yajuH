@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-dānā́ya mánaḥ somapāvan astu te  
-arvā́ñcā hárī vandanaśrud ā́ kr̥dhi  
-yámiṣṭhāsaḥ sā́rathayo yá indra te  
-ná tvā kétā ā́ dabhnuvanti bhū́rṇayaḥ  
+दाना꣡य म꣡नः सोमपावन् अस्तु ते  
+अर्वा꣡ञ्चा ह꣡री वन्दनश्रुद् आ꣡ कृधि  
+य꣡मिष्ठासः सा꣡रथयो य꣡ इन्द्र ते  
+न꣡ त्वा के꣡ता आ꣡ दभ्नुवन्ति भू꣡र्णयः  

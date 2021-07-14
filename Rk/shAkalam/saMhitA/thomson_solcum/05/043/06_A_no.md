@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́ no mahī́m arámatiṃ sajóṣā  
-gnã́ṃ devī́ṃ námasā rātáhavyām  
-mádhor mádāya br̥hatī́m r̥tajñā́m  
-ā́gne vaha pathíbhir devayā́naiḥ  
+आ꣡ नो मही꣡म् अर꣡मतिं सजो꣡षा  
+ग्न्ãं꣡ देवीं꣡ न꣡मसा रात꣡हव्याम्  
+म꣡धोर् म꣡दाय बृहती꣡म् ऋतज्ञा꣡म्  
+आ꣡ग्ने वह पथि꣡भिर् देवया꣡नैः  

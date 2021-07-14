@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-rásaṃ te mitró aryamā́  
-píbanti váruṇaḥ kave  
-pávamānasya marútaḥ  
+र꣡सं ते मित्रो꣡ अर्यमा꣡  
+पि꣡बन्ति व꣡रुणः कवे  
+प꣡वमानस्य मरु꣡तः  

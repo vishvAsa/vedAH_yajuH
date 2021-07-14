@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-paró mā́trayā tanúvā vr̥dhāna  
-ná te mahitvám ánu aśnuvanti  
-ubhé te vidma rájasī pr̥thivyā́  
-víṣṇo deva tvám paramásya vitse  
+परो꣡ मा꣡त्रया तनु꣡वा वृधान  
+न꣡ ते महित्व꣡म् अ꣡नु अश्नुवन्ति  
+उभे꣡ ते विद्म र꣡जसी पृथिव्या꣡  
+वि꣡ष्णो देव त्व꣡म् परम꣡स्य वित्से  

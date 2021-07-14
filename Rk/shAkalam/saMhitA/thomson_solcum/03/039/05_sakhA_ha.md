@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sákhā ha yátra sákhibhir návagvair  
-abhijñú ā́ sátvabhir gā́ anugmán  
-satyáṃ tád índro daśábhir dáśagvaiḥ  
-sū́ryaṃ viveda támasi kṣiyántam  
+स꣡खा ह य꣡त्र स꣡खिभिर् न꣡वग्वैर्  
+अभिज्ञु꣡ आ꣡ स꣡त्वभिर् गा꣡ अनुग्म꣡न्  
+सत्यं꣡ त꣡द् इ꣡न्द्रो दश꣡भिर् द꣡शग्वैः  
+सू꣡र्यं विवेद त꣡मसि क्षिय꣡न्तम्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yám indra dadhiṣé tuvám  
-áśvaṃ gā́m bhāgám ávyayam  
-yájamāne sunvatí dákṣiṇāvati  
-tásmin táṃ dhehi mā́ paṇaú  
+य꣡म् इन्द्र दधिषे꣡ तुव꣡म्  
+अ꣡श्वं गा꣡म् भाग꣡म् अ꣡व्ययम्  
+य꣡जमाने सुन्वति꣡ द꣡क्षिणावति  
+त꣡स्मिन् तं꣡ धेहि मा꣡ पणउ꣡  

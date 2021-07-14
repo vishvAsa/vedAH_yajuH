@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-índra yá u nú te ásti  
-vā́jo víprebhiḥ sánitvaḥ  
-asmā́bhiḥ sú táṃ sanuhi  
+इ꣡न्द्र य꣡ उ नु꣡ ते अ꣡स्ति  
+वा꣡जो वि꣡प्रेभिः स꣡नित्वः  
+अस्मा꣡भिः सु꣡ तं꣡ सनुहि  

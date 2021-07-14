@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-pã́nti mitrā́váruṇāv avadyā́c  
-cáyata īm aryamó ápraśastān  
-utá cyavante ácyutā dhruvā́ṇi  
-vāvr̥dhá īm maruto dā́tivāraḥ  
+प्ã꣡न्ति मित्रा꣡व꣡रुणाव् अवद्या꣡च्  
+च꣡यत ईम् अर्यमो꣡ अ꣡प्रशस्तान्  
+उत꣡ च्यवन्ते अ꣡च्युता ध्रुवा꣡णि  
+वावृध꣡ ईम् मरुतो दा꣡तिवारः  

@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-áśvināv éhá gachataṃ  
-nā́satyā mā́ ví venatam  
-tiráś cid aryayā́ pári  
-vartír yātam adābhiyā  
-mā́dhvī máma śrutaṃ hávam  
+अ꣡श्विनाव् ए꣡ह꣡ गछतं  
+ना꣡सत्या मा꣡ वि꣡ वेनतम्  
+तिर꣡श् चिद् अर्यया꣡ प꣡रि  
+वर्ति꣡र् यातम् अदाभिया  
+मा꣡ध्वी म꣡म श्रुतं ह꣡वम्  

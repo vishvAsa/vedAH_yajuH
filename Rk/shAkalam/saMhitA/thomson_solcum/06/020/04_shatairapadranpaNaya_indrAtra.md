@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-śataír apadran paṇáya indrā́tra  
-dáśoṇaye kaváye arkásātau  
-vadhaíḥ śúṣṇasya aśúṣasya māyā́ḥ  
-pitvó ná arirecīt kíṃ caná prá  
+शतइ꣡र् अपद्रन् पण꣡य इन्द्रा꣡त्र  
+द꣡शोणये कव꣡ये अर्क꣡सातौ  
+वधइः꣡ शु꣡ष्णस्य अशु꣡षस्य मायाः꣡  
+पित्वो꣡ न꣡ अरिरेचीत् किं꣡ चन꣡ प्र꣡  

@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-víśvam ít sávanaṃ sutám  
-índro mádāya gachati  
-vr̥trahā́ sómapītaye  
+वि꣡श्वम् इ꣡त् स꣡वनं सुत꣡म्  
+इ꣡न्द्रो म꣡दाय गछति  
+वृत्रहा꣡ सो꣡मपीतये  

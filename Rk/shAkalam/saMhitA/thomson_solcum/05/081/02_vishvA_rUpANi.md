@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-víśvā rūpā́ṇi práti muñcate kavíḥ  
-prā́sāvīd bhadráṃ dvipáde cátuṣpade  
-ví nā́kam akhyat savitā́ váreṇiyo  
-ánu prayā́ṇam uṣáso ví rājati  
+वि꣡श्वा रूपा꣡णि प्र꣡ति मुञ्चते कविः꣡  
+प्रा꣡सावीद् भद्रं꣡ द्विप꣡दे च꣡तुष्पदे  
+वि꣡ ना꣡कम् अख्यत् सविता꣡ व꣡रेणियो  
+अ꣡नु प्रया꣡णम् उष꣡सो वि꣡ राजति  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ámūro hótā ní asādi vikṣú  
-agnír mandró vidátheṣu prácetāḥ  
-ūrdhuvám bhānúṃ savitéva aśren  
-méteva dhūmáṃ stabhāyad úpa dyā́m  
+अ꣡मूरो हो꣡ता नि꣡ असादि विक्षु꣡  
+अग्नि꣡र् मन्द्रो꣡ विद꣡थेषु प्र꣡चेताः  
+ऊर्धुव꣡म् भानुं꣡ सविते꣡व अश्रेन्  
+मे꣡तेव धूमं꣡ स्तभायद् उ꣡प द्या꣡म्  

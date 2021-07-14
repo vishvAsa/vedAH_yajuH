@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yát te dívaṃ yát pr̥thivī́m  
-máno jagā́ma dūrakám  
-tát ta ā́ vartayāmasi  
-ihá kṣáyāya jīváse  
+य꣡त् ते दि꣡वं य꣡त् पृथिवी꣡म्  
+म꣡नो जगा꣡म दूरक꣡म्  
+त꣡त् त आ꣡ वर्तयामसि  
+इह꣡ क्ष꣡याय जीव꣡से  

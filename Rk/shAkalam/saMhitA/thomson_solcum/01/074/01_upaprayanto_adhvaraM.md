@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-upaprayánto adhvarám  
-mántraṃ vocema agnáye  
-āré asmé ca śr̥ṇvaté  
+उपप्रय꣡न्तो अध्वर꣡म्  
+म꣡न्त्रं वोचेम अग्न꣡ये  
+आरे꣡ अस्मे꣡ च शृण्वते꣡  

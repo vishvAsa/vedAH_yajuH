@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ā́dyá rátham bhānumo bhānumántam  
-ágne tíṣṭha yajatébhiḥ sámantam  
-vidvā́n pathīnā́m urú antárikṣam  
-éhá devā́n havirádyāya vakṣi  
+आ꣡द्य꣡ र꣡थम् भानुमो भानुम꣡न्तम्  
+अ꣡ग्ने ति꣡ष्ठ यजते꣡भिः स꣡मन्तम्  
+विद्वा꣡न् पथीना꣡म् उरु꣡ अन्त꣡रिक्षम्  
+ए꣡ह꣡ देवा꣡न् हविर꣡द्याय वक्षि  

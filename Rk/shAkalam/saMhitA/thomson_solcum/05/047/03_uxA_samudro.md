@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ukṣā́ samudró aruṣáḥ suparṇáḥ  
-pū́rvasya yónim pitúr ā́ viveśa  
-mádhye divó níhitaḥ pŕ̥śnir áśmā  
-ví cakrame rájasas pāti ántau  
+उक्षा꣡ समुद्रो꣡ अरुषः꣡ सुपर्णः꣡  
+पू꣡र्वस्य यो꣡निम् पितु꣡र् आ꣡ विवेश  
+म꣡ध्ये दिवो꣡ नि꣡हितः प्ŕ̥श्निर् अ꣡श्मा  
+वि꣡ चक्रमे र꣡जसस् पाति अ꣡न्तौ  

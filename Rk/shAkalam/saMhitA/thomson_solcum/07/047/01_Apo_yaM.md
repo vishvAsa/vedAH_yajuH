@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́po yáṃ vaḥ prathamáṃ devayánta  
-indrapā́nam ūrmím ákr̥ṇvateḷáḥ  
-táṃ vo vayáṃ śúcim ariprám adyá  
-ghr̥taprúṣam mádhumantaṃ vanema  
+आ꣡पो यं꣡ वः प्रथमं꣡ देवय꣡न्त  
+इन्द्रपा꣡नम् ऊर्मि꣡म् अ꣡कृण्वतेऌअः꣡  
+तं꣡ वो वयं꣡ शु꣡चिम् अरिप्र꣡म् अद्य꣡  
+घृतप्रु꣡षम् म꣡धुमन्तं वनेम  

@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-ardháṃ vīrásya śr̥tapā́m anindrám  
-párā śárdhantaṃ nunude abhí kṣā́m  
-índro manyúm manyumíyo mimāya  
-bhejé pathó vartaním pátyamānaḥ  
+अर्धं꣡ वीर꣡स्य शृतपा꣡म् अनिन्द्र꣡म्  
+प꣡रा श꣡र्धन्तं नुनुदे अभि꣡ क्षा꣡म्  
+इ꣡न्द्रो मन्यु꣡म् मन्युमि꣡यो मिमाय  
+भेजे꣡ पथो꣡ वर्तनि꣡म् प꣡त्यमानः  

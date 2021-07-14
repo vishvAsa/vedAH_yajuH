@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-asapatnā́ sapatnaghnī́  
-jáyanti abhibhū́varī  
-ā́vr̥kṣam anyā́sāṃ várco  
-rā́dho ástheyasām iva  
+असपत्ना꣡ सपत्नघ्नी꣡  
+ज꣡यन्ति अभिभू꣡वरी  
+आ꣡वृक्षम् अन्या꣡सां व꣡र्चो  
+रा꣡धो अ꣡स्थेयसाम् इव  

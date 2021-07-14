@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-dadānám ín ná dadabhanta mánma  
-agnír várūtham máma tásya cākan  
-juṣánta · víśvāni asya kárma  
-úpastutim bháramāṇasya kāróḥ  
+ददान꣡म् इ꣡न् न꣡ ददभन्त म꣡न्म  
+अग्नि꣡र् व꣡रूथम् म꣡म त꣡स्य चाकन्  
+जुष꣡न्त · वि꣡श्वानि अस्य क꣡र्म  
+उ꣡पस्तुतिम् भ꣡रमाणस्य कारोः꣡  

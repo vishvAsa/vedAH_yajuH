@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-té no bhadréṇa śármaṇā  
-yuṣmā́kaṃ nāvā́ vasavaḥ  
-áti víśvāni duritā́ pipartana  
+ते꣡ नो भद्रे꣡ण श꣡र्मणा  
+युष्मा꣡कं नावा꣡ वसवः  
+अ꣡ति वि꣡श्वानि दुरिता꣡ पिपर्तन  

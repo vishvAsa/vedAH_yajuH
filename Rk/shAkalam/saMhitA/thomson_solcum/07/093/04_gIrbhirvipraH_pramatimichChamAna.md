@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-gīrbhír vípraḥ prámatim ichámāna  
-ī́ṭṭe rayíṃ yaśásam pūrvabhā́jam  
-índraagnī vr̥trahaṇā suvajrā  
-prá no návyebhis tirataṃ dayiṣṇaíḥ+  
+गीर्भि꣡र् वि꣡प्रः प्र꣡मतिम् इछ꣡मान  
+ई꣡ट्टे रयिं꣡ यश꣡सम् पूर्वभा꣡जम्  
+इ꣡न्द्रअग्नी वृत्रहणा सुवज्रा  
+प्र꣡ नो न꣡व्येभिस् तिरतं दयिष्णइः꣡+  

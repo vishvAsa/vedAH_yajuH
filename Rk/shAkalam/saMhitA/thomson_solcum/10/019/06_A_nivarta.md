@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ā́ nivarta ní vartaya  
-púnar na indra gā́ dehi  
-jīvā́bhir bhunajāmahai  
+आ꣡ निवर्त नि꣡ वर्तय  
+पु꣡नर् न इन्द्र गा꣡ देहि  
+जीवा꣡भिर् भुनजामहै  

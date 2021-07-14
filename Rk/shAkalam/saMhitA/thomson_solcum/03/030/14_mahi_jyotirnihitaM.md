@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-máhi jyótir níhitaṃ vakṣáṇāsu  
-āmā́ pakváṃ carati bíbhratī gaúḥ  
-víśvaṃ svā́dma sámbhr̥tam usríyāyāṃ  
-yát sīm índro ádadhād bhójanāya  
+म꣡हि ज्यो꣡तिर् नि꣡हितं वक्ष꣡णासु  
+आमा꣡ पक्वं꣡ चरति बि꣡भ्रती गउः꣡  
+वि꣡श्वं स्वा꣡द्म स꣡म्भृतम् उस्रि꣡यायां  
+य꣡त् सीम् इ꣡न्द्रो अ꣡दधाद् भो꣡जनाय  

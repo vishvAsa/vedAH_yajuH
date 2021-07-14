@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índraṃ stavā nŕ̥tamaṃ yásya mahnā́  
-vibabādhé rocanā́ ví jmó ántān  
-ā́ yáḥ papraú carṣaṇīdhŕ̥d várobhiḥ  
-prá síndhubhyo riricānó mahitvā́  
+इ꣡न्द्रं स्तवा न्ŕ̥तमं य꣡स्य मह्ना꣡  
+विबबाधे꣡ रोचना꣡ वि꣡ ज्मो꣡ अ꣡न्तान्  
+आ꣡ यः꣡ पप्रउ꣡ चर्षणीध्ŕ̥द् व꣡रोभिः  
+प्र꣡ सि꣡न्धुभ्यो रिरिचानो꣡ महित्वा꣡  

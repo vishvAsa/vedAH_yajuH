@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tá ukṣitā́so mahimā́nam āśata  
-diví rudrā́so ádhi cakrire sádaḥ  
-árcanto arkáṃ janáyanta indriyám  
-ádhi śríyo dadhire pŕ̥śnimātaraḥ  
+त꣡ उक्षिता꣡सो महिमा꣡नम् आशत  
+दिवि꣡ रुद्रा꣡सो अ꣡धि चक्रिरे स꣡दः  
+अ꣡र्चन्तो अर्कं꣡ जन꣡यन्त इन्द्रिय꣡म्  
+अ꣡धि श्रि꣡यो दधिरे प्ŕ̥श्निमातरः  

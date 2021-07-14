@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-sū́raś cid rátham páritakmiyāyām  
-pū́rvaṃ karad úparaṃ jūjuvā́ṃsam  
-bhárac cakrám étaśaḥ sáṃ riṇāti  
-puró dádhat saniṣyati krátuṃ naḥ  
+सू꣡रश् चिद् र꣡थम् प꣡रितक्मियायाम्  
+पू꣡र्वं करद् उ꣡परं जूजुवां꣡सम्  
+भ꣡रच् चक्र꣡म् ए꣡तशः सं꣡ रिणाति  
+पुरो꣡ द꣡धत् सनिष्यति क्र꣡तुं नः  

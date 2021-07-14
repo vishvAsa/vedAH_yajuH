@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-asyá me dyāvāpr̥thivī r̥tāyató  
-bhūtám avitrī́ vácasaḥ síṣāsataḥ  
-yáyor ā́yuḥ prataráṃ té idám purá  
-úpastute vasūyúr vām mahó dadhe  
+अस्य꣡ मे द्यावापृथिवी ऋतायतो꣡  
+भूत꣡म् अवित्री꣡ व꣡चसः सि꣡षासतः  
+य꣡योर् आ꣡युः प्रतरं꣡ ते꣡ इद꣡म् पुर꣡  
+उ꣡पस्तुते वसूयु꣡र् वाम् महो꣡ दधे  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-vidyúnmahaso náro áśmadidyavo  
-vā́tatviṣo marútaḥ parvatacyútaḥ  
-abdayā́ cin múhur ā́ hrādunīvŕ̥taḥ  
-stanáyadamā rabhasā́ údojasaḥ  
+विद्यु꣡न्महसो न꣡रो अ꣡श्मदिद्यवो  
+वा꣡तत्विषो मरु꣡तः पर्वतच्यु꣡तः  
+अब्दया꣡ चिन् मु꣡हुर् आ꣡ ह्रादुनीव्ŕ̥तः  
+स्तन꣡यदमा रभसा꣡ उ꣡दोजसः  

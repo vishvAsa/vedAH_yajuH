@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-tám agním áste vásavo ní r̥ṇvan  
-supraticákṣam ávase kútaś cit  
-dakṣā́yiyo yó dáma ā́sa nítyaḥ  
+त꣡म् अग्नि꣡म् अ꣡स्ते व꣡सवो नि꣡ ऋण्वन्  
+सुप्रतिच꣡क्षम् अ꣡वसे कु꣡तश् चित्  
+दक्षा꣡यियो यो꣡ द꣡म आ꣡स नि꣡त्यः  

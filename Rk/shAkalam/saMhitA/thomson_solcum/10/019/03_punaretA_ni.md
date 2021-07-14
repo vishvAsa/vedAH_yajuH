@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-púnar etā́ ní vartantām  
-asmín puṣyantu gópatau  
-ihaívā́gne ní dhāraya  
-ihá tiṣṭhatu yā́ rayíḥ  
+पु꣡नर् एता꣡ नि꣡ वर्तन्ताम्  
+अस्मि꣡न् पुष्यन्तु गो꣡पतौ  
+इहइ꣡वा꣡ग्ने नि꣡ धारय  
+इह꣡ तिष्ठतु या꣡ रयिः꣡  

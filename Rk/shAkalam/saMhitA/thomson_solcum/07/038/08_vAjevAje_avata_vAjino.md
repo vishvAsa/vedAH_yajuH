@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-vā́je-vāje avata vājino no  
-dháneṣu viprā amr̥tā r̥tajñāḥ  
-asyá mádhvaḥ pibata mādáyadhvaṃ  
-tr̥ptā́ yāta pathíbhir devayā́naiḥ  
+वा꣡जे-वाजे अवत वाजिनो नो  
+ध꣡नेषु विप्रा अमृता ऋतज्ञाः  
+अस्य꣡ म꣡ध्वः पिबत माद꣡यध्वं  
+तृप्ता꣡ यात पथि꣡भिर् देवया꣡नैः  

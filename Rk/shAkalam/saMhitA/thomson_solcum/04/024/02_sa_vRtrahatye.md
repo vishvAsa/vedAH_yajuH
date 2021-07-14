@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá vr̥trahátye háviyaḥ sá ī́ḍyaḥ  
-sá súṣṭuta índaraḥ+ satyárādhāḥ  
-sá yā́mann ā́ maghávā mártiyāya  
-brahmaṇyaté súṣvaye várivo dhāt  
+स꣡ वृत्रह꣡त्ये ह꣡वियः स꣡ ई꣡ड्यः  
+स꣡ सु꣡ष्टुत इ꣡न्दरः+ सत्य꣡राधाः  
+स꣡ या꣡मन्न् आ꣡ मघ꣡वा म꣡र्तियाय  
+ब्रह्मण्यते꣡ सु꣡ष्वये व꣡रिवो धात्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-katarā́ pū́rvā katarā́parāyóḥ  
-kathā́ jāté kavayaḥ kó ví veda  
-víśvaṃ tmánā bibhr̥to yád dha nā́ma  
-ví vartete áhanī cakríyeva  
+कतरा꣡ पू꣡र्वा कतरा꣡परायोः꣡  
+कथा꣡ जाते꣡ कवयः को꣡ वि꣡ वेद  
+वि꣡श्वं त्म꣡ना बिभृतो य꣡द् ध ना꣡म  
+वि꣡ वर्तेते अ꣡हनी चक्रि꣡येव  

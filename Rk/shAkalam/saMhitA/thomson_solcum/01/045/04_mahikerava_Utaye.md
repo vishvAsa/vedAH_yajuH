@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-máhikerava ūtáye  
-priyámedhā ahūṣata  
-rā́jantam adhvarā́ṇãm  
-agníṃ śukréṇa śocíṣā  
+म꣡हिकेरव ऊत꣡ये  
+प्रिय꣡मेधा अहूषत  
+रा꣡जन्तम् अध्वरा꣡ण्ãम्  
+अग्निं꣡ शुक्रे꣡ण शोचि꣡षा  

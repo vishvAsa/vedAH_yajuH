@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-yán nāsatiyā parāké  
-arvāké ásti bheṣajám  
-téna nūnáṃ vimadā́ya pracetasā  
-chardír vatsā́ya yachatam  
+य꣡न् नासतिया पराके꣡  
+अर्वाके꣡ अ꣡स्ति भेषज꣡म्  
+ते꣡न नूनं꣡ विमदा꣡य प्रचेतसा  
+छर्दि꣡र् वत्सा꣡य यछतम्  

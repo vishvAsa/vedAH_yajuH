@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-ámbitame nádītame  
-dévitame sárasvati  
-apraśastā́ iva smasi  
-práśastim amba nas kr̥dhi  
+अ꣡म्बितमे न꣡दीतमे  
+दे꣡वितमे स꣡रस्वति  
+अप्रशस्ता꣡ इव स्मसि  
+प्र꣡शस्तिम् अम्ब नस् कृधि  

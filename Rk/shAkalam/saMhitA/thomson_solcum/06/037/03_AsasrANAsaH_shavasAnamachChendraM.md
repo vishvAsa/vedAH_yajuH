@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-āsasrāṇā́saḥ śavasānám ácha  
-índraṃ sucakré rathíyāso áśvāḥ  
-abhí śráva ŕ̥jiyanto vaheyur  
-nū́ cin nú vāyór amŕ̥taṃ ví dasyet  
+आसस्राणा꣡सः शवसान꣡म् अ꣡छ  
+इ꣡न्द्रं सुचक्रे꣡ रथि꣡यासो अ꣡श्वाः  
+अभि꣡ श्र꣡व ŕ̥जियन्तो वहेयुर्  
+नू꣡ चिन् नु꣡ वायो꣡र् अम्ŕ̥तं वि꣡ दस्येत्  

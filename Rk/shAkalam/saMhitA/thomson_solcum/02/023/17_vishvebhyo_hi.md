@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-víśvebhyo hí tvā bhúvanebhiyas pári  
-tváṣṭā́janat sā́manaḥ-sāmanaḥ kavíḥ  
-sá r̥ṇacíd r̥ṇayā́ bráhmaṇas pátir  
-druhó hantā́ mahá r̥tásya dhartári  
+वि꣡श्वेभ्यो हि꣡ त्वा भु꣡वनेभियस् प꣡रि  
+त्व꣡ष्टा꣡जनत् सा꣡मनः-सामनः कविः꣡  
+स꣡ ऋणचि꣡द् ऋणया꣡ ब्र꣡ह्मणस् प꣡तिर्  
+द्रुहो꣡ हन्ता꣡ मह꣡ ऋत꣡स्य धर्त꣡रि  

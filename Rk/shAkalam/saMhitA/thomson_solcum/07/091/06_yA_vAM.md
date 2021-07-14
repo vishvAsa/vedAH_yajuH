@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yā́ vāṃ śatáṃ niyúto yā́ḥ sahásram  
-índravāyū viśvávārāḥ sácante  
-ā́bhir yātaṃ suvidátrābhir arvā́k  
-pātáṃ narā prátibhr̥tasya mádhvaḥ  
+या꣡ वां शतं꣡ नियु꣡तो याः꣡ सह꣡स्रम्  
+इ꣡न्द्रवायू विश्व꣡वाराः स꣡चन्ते  
+आ꣡भिर् यातं सुविद꣡त्राभिर् अर्वा꣡क्  
+पातं꣡ नरा प्र꣡तिभृतस्य म꣡ध्वः  

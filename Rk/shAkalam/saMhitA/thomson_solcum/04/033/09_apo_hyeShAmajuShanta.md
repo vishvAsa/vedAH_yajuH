@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ápo hí eṣām ájuṣanta devā́  
-abhí krátvā mánasā dī́dhiyānāḥ  
-vā́jo devā́nām abhavat sukármā  
-índrasya rbhukṣā́ váruṇasya víbhvā  
+अ꣡पो हि꣡ एषाम् अ꣡जुषन्त देवा꣡  
+अभि꣡ क्र꣡त्वा म꣡नसा दी꣡धियानाः  
+वा꣡जो देवा꣡नाम् अभवत् सुक꣡र्मा  
+इ꣡न्द्रस्य र्भुक्षा꣡ व꣡रुणस्य वि꣡भ्वा  

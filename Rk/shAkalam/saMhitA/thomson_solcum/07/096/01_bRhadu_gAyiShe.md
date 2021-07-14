@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-br̥hád u gāyiṣe váco  
-asuríyā nadī́nãm  
-sárasvatīm ín mahayā suvr̥ktíbhi  
-stómair vasiṣṭha ródasī  
+बृह꣡द् उ गायिषे व꣡चो  
+असुरि꣡या नदी꣡न्ãम्  
+स꣡रस्वतीम् इ꣡न् महया सुवृक्ति꣡भि  
+स्तो꣡मैर् वसिष्ठ रो꣡दसी  

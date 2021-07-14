@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá sū́ na etu adhvaró  
-agnā́ devéṣu pūrviyáḥ  
-ādityéṣu prá váruṇe dhr̥távrate  
-marútsu viśvábhānuṣu  
+प्र꣡ सू꣡ न एतु अध्वरो꣡  
+अग्ना꣡ देवे꣡षु पूर्वियः꣡  
+आदित्ये꣡षु प्र꣡ व꣡रुणे धृत꣡व्रते  
+मरु꣡त्सु विश्व꣡भानुषु  

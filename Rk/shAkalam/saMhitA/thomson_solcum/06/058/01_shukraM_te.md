@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-śukráṃ te anyád yajatáṃ te anyád  
-víṣurūpe áhanī dyaúr ivāsi  
-víśvā hí māyā́ ávasi svadhāvo  
-bhadrā́ te pūṣann ihá rātír astu  
+शुक्रं꣡ ते अन्य꣡द् यजतं꣡ ते अन्य꣡द्  
+वि꣡षुरूपे अ꣡हनी द्यउ꣡र् इवासि  
+वि꣡श्वा हि꣡ माया꣡ अ꣡वसि स्वधावो  
+भद्रा꣡ ते पूषन्न् इह꣡ राति꣡र् अस्तु  

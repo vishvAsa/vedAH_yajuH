@@ -2,6 +2,6 @@
 title = "026"
 
 +++
-utó sahásrabharṇasaṃ  
-vā́caṃ soma makhasyúvam  
-punāná indav ā́ bhara  
+उतो꣡ सह꣡स्रभर्णसं  
+वा꣡चं सोम मखस्यु꣡वम्  
+पुनान꣡ इन्दव् आ꣡ भर  

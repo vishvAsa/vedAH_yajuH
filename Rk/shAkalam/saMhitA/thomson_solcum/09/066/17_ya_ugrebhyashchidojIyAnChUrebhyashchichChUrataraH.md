@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-yá ugrébhyaś cid ójīyāñ  
-chū́rebhyaś cic chū́rataraḥ  
-bhūridā́bhyaś cin máṃhīyān  
+य꣡ उग्रे꣡भ्यश् चिद् ओ꣡जीयाञ्  
+छू꣡रेभ्यश् चिच् छू꣡रतरः  
+भूरिदा꣡भ्यश् चिन् मं꣡हीयान्  

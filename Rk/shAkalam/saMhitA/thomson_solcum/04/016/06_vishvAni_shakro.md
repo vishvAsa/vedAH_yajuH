@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-víśvāni śakró náriyāṇi vidvā́n  
-apó rireca sákhibhir níkāmaiḥ  
-áśmānaṃ cid yé bibhidúr vácobhir  
-vrajáṃ gómantam uśíjo ví vavruḥ  
+वि꣡श्वानि शक्रो꣡ न꣡रियाणि विद्वा꣡न्  
+अपो꣡ रिरेच स꣡खिभिर् नि꣡कामैः  
+अ꣡श्मानं चिद् ये꣡ बिभिदु꣡र् व꣡चोभिर्  
+व्रजं꣡ गो꣡मन्तम् उशि꣡जो वि꣡ वव्रुः  

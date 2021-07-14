@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tveṣáṃ rūpáṃ kr̥ṇuta úttaraṃ yát  
-sampr̥ñcānáḥ sádane góbhir adbhíḥ  
-kavír budhnám pári marmr̥jyate dhī́ḥ  
-sā́ devátātā sámitir babhūva  
+त्वेषं꣡ रूपं꣡ कृणुत उ꣡त्तरं य꣡त्  
+सम्पृञ्चानः꣡ स꣡दने गो꣡भिर् अद्भिः꣡  
+कवि꣡र् बुध्न꣡म् प꣡रि मर्मृज्यते धीः꣡  
+सा꣡ देव꣡ताता स꣡मितिर् बभूव  

@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-mā́ te godatra nír arāma rā́dhasa  
-índra mā́ te gr̥hāmahi  
-dr̥̄ḷhā́+ cid aryáḥ prá mr̥śābhi ā́ bhara  
-ná te dāmā́na ādábhe  
+मा꣡ ते गोदत्र नि꣡र् अराम रा꣡धस  
+इ꣡न्द्र मा꣡ ते गृहामहि  
+दॄऌहा꣡+ चिद् अर्यः꣡ प्र꣡ मृशाभि आ꣡ भर  
+न꣡ ते दामा꣡न आद꣡भे  

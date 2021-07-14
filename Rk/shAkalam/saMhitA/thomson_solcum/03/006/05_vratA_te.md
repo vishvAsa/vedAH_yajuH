@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vratā́ te agne maható mahā́ni  
-táva krátvā ródasī ā́ tatantha  
-tuváṃ dūtó abhavo jā́yamānas  
-tuváṃ netā́ vr̥ṣabha carṣaṇīnā́m  
+व्रता꣡ ते अग्ने महतो꣡ महा꣡नि  
+त꣡व क्र꣡त्वा रो꣡दसी आ꣡ ततन्थ  
+तुवं꣡ दूतो꣡ अभवो जा꣡यमानस्  
+तुवं꣡ नेता꣡ वृषभ चर्षणीना꣡म्  

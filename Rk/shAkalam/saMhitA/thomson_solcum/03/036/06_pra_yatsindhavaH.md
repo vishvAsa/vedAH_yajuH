@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá yát síndhavaḥ prasaváṃ yáthā́yann  
-ā́paḥ samudráṃ rathíyeva jagmuḥ  
-átaś cid índraḥ sádaso várīyān  
-yád īṃ sómaḥ pr̥ṇáti dugdhó aṃśúḥ  
+प्र꣡ य꣡त् सि꣡न्धवः प्रसवं꣡ य꣡था꣡यन्न्  
+आ꣡पः समुद्रं꣡ रथि꣡येव जग्मुः  
+अ꣡तश् चिद् इ꣡न्द्रः स꣡दसो व꣡रीयान्  
+य꣡द् ईं सो꣡मः पृण꣡ति दुग्धो꣡ अंशुः꣡  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sá váhniḥ soma jā́gr̥viḥ  
-pávasva devavī́r áti  
-abhí kóśam madhuścútam  
+स꣡ व꣡ह्निः सोम जा꣡गृविः  
+प꣡वस्व देववी꣡र् अ꣡ति  
+अभि꣡ को꣡शम् मधुश्चु꣡तम्  

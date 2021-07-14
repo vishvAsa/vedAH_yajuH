@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sódañcaṃ síndhum ariṇān mahitvā́  
-vájreṇā́na uṣásaḥ sám pipeṣa  
-ajaváso javínībhir vivr̥ścán  
-sómasya tā́ máda índraś cakāra  
+सो꣡दञ्चं सि꣡न्धुम् अरिणान् महित्वा꣡  
+व꣡ज्रेणा꣡न उष꣡सः स꣡म् पिपेष  
+अजव꣡सो जवि꣡नीभिर् विवृश्च꣡न्  
+सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार  

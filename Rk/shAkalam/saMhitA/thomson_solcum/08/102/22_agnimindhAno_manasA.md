@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-agním índhāno mánasā  
-dhíyaṃ saceta mártiyaḥ  
-agním īdhe vivásvabhiḥ  
+अग्नि꣡म् इ꣡न्धानो म꣡नसा  
+धि꣡यं सचेत म꣡र्तियः  
+अग्नि꣡म् ईधे विव꣡स्वभिः  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yuváṃ ha stho bhiṣájā bheṣajébhir  
-átho ha stho rathíyā rā́thiyebhiḥ  
-átho ha kṣatrám ádhi dhattha ugrā  
-yó vāṃ havíṣmān mánasā dadā́śa  
+युवं꣡ ह स्थो भिष꣡जा भेषजे꣡भिर्  
+अ꣡थो ह स्थो रथि꣡या रा꣡थियेभिः  
+अ꣡थो ह क्षत्र꣡म् अ꣡धि धत्थ उग्रा  
+यो꣡ वां हवि꣡ष्मान् म꣡नसा ददा꣡श  

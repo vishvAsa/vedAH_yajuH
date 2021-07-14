@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ vo yakṣi amr̥tatváṃ suvī́raṃ  
-yáthā vo devā várivaḥ kárāṇi  
-ā́ bāhuvór vájram índrasya dheyām  
-áthemā́ víśvāḥ pŕ̥tanā jayāti  
+आ꣡ वो यक्षि अमृतत्वं꣡ सुवी꣡रं  
+य꣡था वो देवा व꣡रिवः क꣡राणि  
+आ꣡ बाहुवो꣡र् व꣡ज्रम् इ꣡न्द्रस्य धेयाम्  
+अ꣡थेमा꣡ वि꣡श्वाः प्ŕ̥तना जयाति  

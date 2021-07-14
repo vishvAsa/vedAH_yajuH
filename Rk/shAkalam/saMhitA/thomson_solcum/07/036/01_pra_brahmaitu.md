@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá bráhma etu sádanād r̥tásya  
-ví raśmíbhiḥ sasr̥je sū́riyo gā́ḥ  
-ví sā́nunā pr̥thivī́ sasra urvī́  
-pr̥thú prátīkam ádhi édhe agníḥ  
+प्र꣡ ब्र꣡ह्म एतु स꣡दनाद् ऋत꣡स्य  
+वि꣡ रश्मि꣡भिः ससृजे सू꣡रियो गाः꣡  
+वि꣡ सा꣡नुना पृथिवी꣡ सस्र उर्वी꣡  
+पृथु꣡ प्र꣡तीकम् अ꣡धि ए꣡धे अग्निः꣡  

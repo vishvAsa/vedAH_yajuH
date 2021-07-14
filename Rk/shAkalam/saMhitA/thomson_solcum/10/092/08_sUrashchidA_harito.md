@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sū́raś cid ā́ haríto asya rīramad  
-índrād ā́ káś cid bhayate távīyasaḥ  
-bhīmásya vŕ̥ṣṇo jaṭhárād abhiśváso  
-divé-dive sáhuri stann ábādhitaḥ  
+सू꣡रश् चिद् आ꣡ हरि꣡तो अस्य रीरमद्  
+इ꣡न्द्राद् आ꣡ क꣡श् चिद् भयते त꣡वीयसः  
+भीम꣡स्य व्ŕ̥ष्णो जठ꣡राद् अभिश्व꣡सो  
+दिवे꣡-दिवे स꣡हुरि स्तन्न् अ꣡बाधितः  

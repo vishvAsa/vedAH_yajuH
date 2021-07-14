@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-yád ánti yác ca dūraké  
-bhayáṃ vindáti mā́m ihá  
-pávamāna ví táj jahi  
+य꣡द् अ꣡न्ति य꣡च् च दूरके꣡  
+भयं꣡ विन्द꣡ति मा꣡म् इह꣡  
+प꣡वमान वि꣡ त꣡ज् जहि  

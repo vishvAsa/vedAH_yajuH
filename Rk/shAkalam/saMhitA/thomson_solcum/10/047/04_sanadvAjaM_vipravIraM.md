@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sanádvājaṃ vípravīraṃ tárutraṃ  
-dhanaspŕ̥taṃ śūśuvā́ṃsaṃ sudákṣam  
-dasyuhánam pūrbhídam indra satyám  
-asmábhyaṃ citráṃ vŕ̥ṣaṇaṃ rayíṃ dāḥ  
+सन꣡द्वाजं वि꣡प्रवीरं त꣡रुत्रं  
+धनस्प्ŕ̥तं शूशुवां꣡सं सुद꣡क्षम्  
+दस्युह꣡नम् पूर्भि꣡दम् इन्द्र सत्य꣡म्  
+अस्म꣡भ्यं चित्रं꣡ व्ŕ̥षणं रयिं꣡ दाः  

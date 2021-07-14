@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-śagdhí vā́jasya subhaga prajā́vato  
-ágne br̥ható adhvaré  
-sáṃ rāyā́ bhū́yasā sr̥ja mayobhúnā  
-túvidyumna yáśasvatā  
+शग्धि꣡ वा꣡जस्य सुभग प्रजा꣡वतो  
+अ꣡ग्ने बृहतो꣡ अध्वरे꣡  
+सं꣡ राया꣡ भू꣡यसा सृज मयोभु꣡ना  
+तु꣡विद्युम्न य꣡शस्वता  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ na ū́rjaṃ vahatam aśvinā yuvám  
-mádhumatyā naḥ káśayā mimikṣatam  
-prā́yus tā́riṣṭaṃ nī́ rápāṃsi mr̥kṣataṃ  
-sédhataṃ dvéṣo bhávataṃ sacābhúvā  
+आ꣡ न ऊ꣡र्जं वहतम् अश्विना युव꣡म्  
+म꣡धुमत्या नः क꣡शया मिमिक्षतम्  
+प्रा꣡युस् ता꣡रिष्टं नी꣡ र꣡पांसि मृक्षतं  
+से꣡धतं द्वे꣡षो भ꣡वतं सचाभु꣡वा  

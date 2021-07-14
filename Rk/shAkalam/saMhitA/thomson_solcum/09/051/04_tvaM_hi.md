@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-tuváṃ hí soma vardháyan  
-sutó mádāya bhū́rṇaye  
-vŕ̥ṣan stotā́ram ūtáye  
+तुवं꣡ हि꣡ सोम वर्ध꣡यन्  
+सुतो꣡ म꣡दाय भू꣡र्णये  
+व्ŕ̥षन् स्तोता꣡रम् ऊत꣡ये  

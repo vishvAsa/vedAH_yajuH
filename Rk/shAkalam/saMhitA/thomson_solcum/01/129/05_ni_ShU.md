@@ -2,10 +2,10 @@
 title = "005"
 
 +++
-ní ṣū́ namā átimatiṃ káyasya cit  
-téjiṣṭhābhir aráṇibhir ná ūtíbhir  
-ugrā́bhir ugra ūtíbhiḥ  
-nẽ́ṣi ṇo yáthā purā́  
-anenā́ḥ śūra mányase  
-víśvāni pūrór ápa parṣi váhnir  
-āsā́ váhnir no ácha  
+नि꣡ षू꣡ नमा अ꣡तिमतिं क꣡यस्य चित्  
+ते꣡जिष्ठाभिर् अर꣡णिभिर् न꣡ ऊति꣡भिर्  
+उग्रा꣡भिर् उग्र ऊति꣡भिः  
+ने̃꣡षि णो य꣡था पुरा꣡  
+अनेनाः꣡ शूर म꣡न्यसे  
+वि꣡श्वानि पूरो꣡र् अ꣡प पर्षि व꣡ह्निर्  
+आसा꣡ व꣡ह्निर् नो अ꣡छ  

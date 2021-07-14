@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-índraṃ vr̥trā́ya hántave  
-puruhūtám úpa bruve  
-bháreṣu vā́jasātaye  
+इ꣡न्द्रं वृत्रा꣡य ह꣡न्तवे  
+पुरुहूत꣡म् उ꣡प ब्रुवे  
+भ꣡रेषु वा꣡जसातये  

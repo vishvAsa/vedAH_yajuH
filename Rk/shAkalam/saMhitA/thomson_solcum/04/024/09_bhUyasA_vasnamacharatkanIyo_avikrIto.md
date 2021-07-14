@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-bhū́yasā vasnám acarat kánīyo  
-ávikrīto akāniṣam púnar yán  
-sá bhū́yasā kánīyo nā́rirecīd  
-dīnā́ dákṣā ví duhanti prá vāṇám  
+भू꣡यसा वस्न꣡म् अचरत् क꣡नीयो  
+अ꣡विक्रीतो अकानिषम् पु꣡नर् य꣡न्  
+स꣡ भू꣡यसा क꣡नीयो ना꣡रिरेचीद्  
+दीना꣡ द꣡क्षा वि꣡ दुहन्ति प्र꣡ वाण꣡म्  

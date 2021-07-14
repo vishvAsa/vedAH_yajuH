@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sugó hí vo aryaman mitra pánthā  
-anr̥kṣaró varuṇa sādhúr ásti  
-ténāditiyā ádhi vocatā no  
-yáchatā no duṣparihántu śárma  
+सुगो꣡ हि꣡ वो अर्यमन् मित्र प꣡न्था  
+अनृक्षरो꣡ वरुण साधु꣡र् अ꣡स्ति  
+ते꣡नादितिया अ꣡धि वोचता नो  
+य꣡छता नो दुष्परिह꣡न्तु श꣡र्म  

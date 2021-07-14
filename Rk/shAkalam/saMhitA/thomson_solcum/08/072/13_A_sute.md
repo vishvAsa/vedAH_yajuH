@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-ā́ suté siñcata śríyaṃ  
-ródasīyor abhiśríyam  
-rasā́ dadhīta vr̥ṣabhám  
+आ꣡ सुते꣡ सिञ्चत श्रि꣡यं  
+रो꣡दसीयोर् अभिश्रि꣡यम्  
+रसा꣡ दधीत वृषभ꣡म्  

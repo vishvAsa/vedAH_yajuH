@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-té na índraḥ pr̥thivī́ kṣā́ma vardhan  
-pūṣā́ bhágo áditiḥ páñca jánāḥ  
-suśármāṇaḥ suávasaḥ sunīthā́  
-bhávantu naḥ sutrātrā́saḥ sugopā́ḥ  
+ते꣡ न इ꣡न्द्रः पृथिवी꣡ क्षा꣡म वर्धन्  
+पूषा꣡ भ꣡गो अ꣡दितिः प꣡ञ्च ज꣡नाः  
+सुश꣡र्माणः सुअ꣡वसः सुनीथा꣡  
+भ꣡वन्तु नः सुत्रात्रा꣡सः सुगोपाः꣡  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-dyumnī́ vāṃ stómo aśvinā  
-krívir ná séka ā́ gatam  
-mádhvaḥ sutásya sá diví priyó narā  
-pātáṃ gaurā́v ivériṇe  
+द्युम्नी꣡ वां स्तो꣡मो अश्विना  
+क्रि꣡विर् न꣡ से꣡क आ꣡ गतम्  
+म꣡ध्वः सुत꣡स्य स꣡ दिवि꣡ प्रियो꣡ नरा  
+पातं꣡ गौरा꣡व् इवे꣡रिणे  

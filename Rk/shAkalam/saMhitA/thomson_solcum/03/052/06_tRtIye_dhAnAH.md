@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tr̥tī́ye dhānā́ḥ sávane puruṣṭuta  
-puroḷā́śam ā́hutam māmahasva naḥ  
-r̥bhumántaṃ vā́javantaṃ tuvā kave  
-práyasvanta úpa śikṣema dhītíbhiḥ  
+तृती꣡ये धानाः꣡ स꣡वने पुरुष्टुत  
+पुरोऌआ꣡शम् आ꣡हुतम् मामहस्व नः  
+ऋभुम꣡न्तं वा꣡जवन्तं तुवा कवे  
+प्र꣡यस्वन्त उ꣡प शिक्षेम धीति꣡भिः  

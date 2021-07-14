@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ví sadyó víśvā dr̥ṃhitā́ni eṣām  
-índraḥ púraḥ sáhasā saptá dardaḥ  
-ví ā́navasya tŕ̥tsave gáyam bhāg  
-jéṣma pūrúṃ vidáthe mr̥dhrávācam  
+वि꣡ सद्यो꣡ वि꣡श्वा दृंहिता꣡नि एषाम्  
+इ꣡न्द्रः पु꣡रः स꣡हसा सप्त꣡ दर्दः  
+वि꣡ आ꣡नवस्य त्ŕ̥त्सवे ग꣡यम् भाग्  
+जे꣡ष्म पूरुं꣡ विद꣡थे मृध्र꣡वाचम्  

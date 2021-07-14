@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ayoddhéva durmáda ā́ hí juhvé  
-mahāvīráṃ tuvibādhám r̥jīṣám  
-nā́tārīd asya sámr̥tiṃ vadhā́nāṃ  
-sáṃ rujā́nāḥ pipiṣa índraśatruḥ  
+अयोद्धे꣡व दुर्म꣡द आ꣡ हि꣡ जुह्वे꣡  
+महावीरं꣡ तुविबाध꣡म् ऋजीष꣡म्  
+ना꣡तारीद् अस्य स꣡मृतिं वधा꣡नां  
+सं꣡ रुजा꣡नाः पिपिष इ꣡न्द्रशत्रुः  

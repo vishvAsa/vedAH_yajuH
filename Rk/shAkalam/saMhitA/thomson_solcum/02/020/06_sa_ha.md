@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sá ha śrutá índaro+ nā́ma devá  
-ūrdhvó bhuvan mánuṣe dasmátamaḥ  
-áva priyám arśasānásya sāhvā́ñ  
-chíro bharad dãsásya svadhā́vān  
+स꣡ ह श्रुत꣡ इ꣡न्दरो+ ना꣡म देव꣡  
+ऊर्ध्वो꣡ भुवन् म꣡नुषे दस्म꣡तमः  
+अ꣡व प्रिय꣡म् अर्शसान꣡स्य साह्वा꣡ञ्  
+छि꣡रो भरद् द्ãस꣡स्य स्वधा꣡वान्  

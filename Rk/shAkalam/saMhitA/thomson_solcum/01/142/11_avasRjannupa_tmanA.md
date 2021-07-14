@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-avasr̥jánn úpa tmánā  
-devā́n yakṣi vanaspate  
-agnír havyā́ suṣūdati  
-devó devéṣu médhiraḥ  
+अवसृज꣡न्न् उ꣡प त्म꣡ना  
+देवा꣡न् यक्षि वनस्पते  
+अग्नि꣡र् हव्या꣡ सुषूदति  
+देवो꣡ देवे꣡षु मे꣡धिरः  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-píbataṃ ca tr̥pṇutáṃ cā́ ca gachatam  
-prajā́ṃ ca dhattáṃ dráviṇaṃ ca dhattam  
-sajóṣasā uṣásā sū́riyeṇa ca  
-ū́rjaṃ no dhattam aśvinā  
+पि꣡बतं च तृप्णुतं꣡ चा꣡ च गछतम्  
+प्रजां꣡ च धत्तं꣡ द्र꣡विणं च धत्तम्  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+ऊ꣡र्जं नो धत्तम् अश्विना  

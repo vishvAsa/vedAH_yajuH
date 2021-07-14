@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-rā́jño nú te váruṇasya vratā́ni  
-br̥hád gabhīráṃ táva soma dhā́ma  
-śúciṣ ṭuvám asi priyó ná mitró  
-dakṣā́yiyo aryamévāsi soma  
+रा꣡ज्ञो नु꣡ ते व꣡रुणस्य व्रता꣡नि  
+बृह꣡द् गभीरं꣡ त꣡व सोम धा꣡म  
+शु꣡चिष् टुव꣡म् असि प्रियो꣡ न꣡ मित्रो꣡  
+दक्षा꣡यियो अर्यमे꣡वासि सोम  

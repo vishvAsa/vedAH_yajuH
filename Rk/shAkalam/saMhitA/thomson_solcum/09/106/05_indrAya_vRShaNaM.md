@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-índrāya vŕ̥ṣaṇam mádam  
-pávasva viśvádarśataḥ  
-sahásrayāmā pathikŕ̥d vicakṣaṇáḥ  
+इ꣡न्द्राय व्ŕ̥षणम् म꣡दम्  
+प꣡वस्व विश्व꣡दर्शतः  
+सह꣡स्रयामा पथिक्ŕ̥द् विचक्षणः꣡  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá senānī́ḥ śū́ro ágre ráthānāṃ  
-gavyánn eti hárṣate asya sénā  
-bhadrā́n kr̥ṇvánn indrahavā́n sákhibhya  
-ā́ sómo vástrā rabhasā́ni datte  
+प्र꣡ सेनानीः꣡ शू꣡रो अ꣡ग्रे र꣡थानां  
+गव्य꣡न्न् एति ह꣡र्षते अस्य से꣡ना  
+भद्रा꣡न् कृण्व꣡न्न् इन्द्रहवा꣡न् स꣡खिभ्य  
+आ꣡ सो꣡मो व꣡स्त्रा रभसा꣡नि दत्ते  

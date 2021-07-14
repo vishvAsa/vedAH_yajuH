@@ -2,8 +2,8 @@
 title = "009"
 
 +++
-ubhé suścandra sarpíṣo  
-dárvī śrīṇīṣa āsáni  
-utó na út pupūriyā  
-ukthéṣu śavasas pata  
-íṣaṃ stotŕ̥bhya ā́ bhara  
+उभे꣡ सुश्चन्द्र सर्पि꣡षो  
+द꣡र्वी श्रीणीष आस꣡नि  
+उतो꣡ न उ꣡त् पुपूरिया  
+उक्थे꣡षु शवसस् पत  
+इ꣡षं स्तोत्ŕ̥भ्य आ꣡ भर  

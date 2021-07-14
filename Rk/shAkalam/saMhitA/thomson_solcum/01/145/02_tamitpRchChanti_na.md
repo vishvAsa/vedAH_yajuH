@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tám ít pr̥chanti ná simó ví pr̥chati  
-svéneva dhī́ro mánasā yád ágrabhīt  
-ná mr̥ṣyate prathamáṃ nā́paraṃ váco  
-asyá krátvā sacate ápradr̥pitaḥ  
+त꣡म् इ꣡त् पृछन्ति न꣡ सिमो꣡ वि꣡ पृछति  
+स्वे꣡नेव धी꣡रो म꣡नसा य꣡द् अ꣡ग्रभीत्  
+न꣡ मृष्यते प्रथमं꣡ ना꣡परं व꣡चो  
+अस्य꣡ क्र꣡त्वा सचते अ꣡प्रदृपितः  

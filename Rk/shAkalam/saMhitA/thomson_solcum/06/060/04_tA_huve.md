@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-tā́ huve yáyor idám  
-papné víśvam purā́ kr̥tám  
-indraagnī́ ná mardhataḥ  
+ता꣡ हुवे य꣡योर् इद꣡म्  
+पप्ने꣡ वि꣡श्वम् पुरा꣡ कृत꣡म्  
+इन्द्रअग्नी꣡ न꣡ मर्धतः  

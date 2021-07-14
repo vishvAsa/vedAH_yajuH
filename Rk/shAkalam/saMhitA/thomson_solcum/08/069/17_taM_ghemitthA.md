@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-táṃ ghem itthā́ namasvína  
-úpa svarā́jam āsate  
-árthaṃ cid asya súdhitaṃ yád étava  
-āvartáyanti dāváne  
+तं꣡ घेम् इत्था꣡ नमस्वि꣡न  
+उ꣡प स्वरा꣡जम् आसते  
+अ꣡र्थं चिद् अस्य सु꣡धितं य꣡द् ए꣡तव  
+आवर्त꣡यन्ति दाव꣡ने  

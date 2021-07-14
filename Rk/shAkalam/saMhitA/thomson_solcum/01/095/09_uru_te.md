@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-urú te jráyaḥ pári eti budhnáṃ  
-virócamānam mahiṣásya dhā́ma  
-víśvebhir agne sváyaśobhir iddhó  
-ádabdhebhiḥ pāyúbhiḥ pāhi asmā́n  
+उरु꣡ ते ज्र꣡यः प꣡रि एति बुध्नं꣡  
+विरो꣡चमानम् महिष꣡स्य धा꣡म  
+वि꣡श्वेभिर् अग्ने स्व꣡यशोभिर् इद्धो꣡  
+अ꣡दब्धेभिः पायु꣡भिः पाहि अस्मा꣡न्  

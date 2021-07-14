@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuváṃ ha tyád indara+ codīḥ sákhā  
-vr̥tráṃ yád vajrin vr̥ṣakarman ubhnā́ḥ  
-yád dha śūra vr̥ṣamaṇaḥ parācaír  
-ví dásyūm̐r yónāv ákr̥to vr̥thāṣā́ṭ  
+तुवं꣡ ह त्य꣡द् इन्दर+ चोदीः स꣡खा  
+वृत्रं꣡ य꣡द् वज्रिन् वृषकर्मन् उभ्नाः꣡  
+य꣡द् ध शूर वृषमणः पराचइ꣡र्  
+वि꣡ द꣡स्यूँर् यो꣡नाव् अ꣡कृतो वृथाषा꣡ट्  

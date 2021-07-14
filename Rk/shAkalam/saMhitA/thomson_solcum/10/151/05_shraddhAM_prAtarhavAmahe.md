@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-śraddhā́m prātár havāmahe  
-śraddhā́m madhyáṃdinam pári  
-śraddhā́ṃ sū́ryasya nimrúci  
-śráddhe śrád dhāpayehá naḥ  
+श्रद्धा꣡म् प्रात꣡र् हवामहे  
+श्रद्धा꣡म् मध्यं꣡दिनम् प꣡रि  
+श्रद्धां꣡ सू꣡र्यस्य निम्रु꣡चि  
+श्र꣡द्धे श्र꣡द् धापयेह꣡ नः  

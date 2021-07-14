@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-áśmāsiyam avatám bráhmaṇas pátir  
-mádhudhāram abhí yám ójasā́tr̥ṇat  
-tám evá víśve papire suvardŕ̥śo  
-bahú sākáṃ sisicur útsam udríṇam  
+अ꣡श्मासियम् अवत꣡म् ब्र꣡ह्मणस् प꣡तिर्  
+म꣡धुधारम् अभि꣡ य꣡म् ओ꣡जसा꣡तृणत्  
+त꣡म् एव꣡ वि꣡श्वे पपिरे सुवर्द्ŕ̥शो  
+बहु꣡ साकं꣡ सिसिचुर् उ꣡त्सम् उद्रि꣡णम्  

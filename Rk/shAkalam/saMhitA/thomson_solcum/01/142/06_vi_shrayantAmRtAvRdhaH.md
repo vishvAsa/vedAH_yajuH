@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ví śrayantām r̥tāvŕ̥dhaḥ  
-prayaí devébhiyo mahī́ḥ  
-pavākā́saḥ+ puruspŕ̥ho  
-dvā́ro devī́r asaścátaḥ  
+वि꣡ श्रयन्ताम् ऋताव्ŕ̥धः  
+प्रयइ꣡ देवे꣡भियो महीः꣡  
+पवाका꣡सः+ पुरुस्प्ŕ̥हो  
+द्वा꣡रो देवी꣡र् असश्च꣡तः  

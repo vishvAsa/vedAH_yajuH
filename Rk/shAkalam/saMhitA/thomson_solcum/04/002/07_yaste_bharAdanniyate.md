@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yás te bhárād ánniyate cid ánnaṃ  
-niśíṣan mandrám átithim udī́rat  
-ā́ devayúr inádhate duroṇé  
-tásmin rayír dhruvó astu dã́svān  
+य꣡स् ते भ꣡राद् अ꣡न्नियते चिद् अ꣡न्नं  
+निशि꣡षन् मन्द्र꣡म् अ꣡तिथिम् उदी꣡रत्  
+आ꣡ देवयु꣡र् इन꣡धते दुरोणे꣡  
+त꣡स्मिन् रयि꣡र् ध्रुवो꣡ अस्तु द्ã꣡स्वान्  

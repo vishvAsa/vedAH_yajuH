@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá naḥ kṣumántaṃ sádane ví ūrṇuhi  
-góarṇasaṃ rayím indra śravā́yiyam  
-siyā́ma te jáyataḥ śakra medíno  
-yáthā vayám uśmási tád vaso kr̥dhi  
+स꣡ नः क्षुम꣡न्तं स꣡दने वि꣡ ऊर्णुहि  
+गो꣡अर्णसं रयि꣡म् इन्द्र श्रवा꣡यियम्  
+सिया꣡म ते ज꣡यतः शक्र मेदि꣡नो  
+य꣡था वय꣡म् उश्म꣡सि त꣡द् वसो कृधि  

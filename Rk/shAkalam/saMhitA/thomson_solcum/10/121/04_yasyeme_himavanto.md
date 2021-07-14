@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yásya imé himávanto mahitvā́  
-yásya samudráṃ rasáyā sahā́húḥ  
-yásya imā́ḥ pradíśo yásya bāhū́  
-kásmai devā́ya havíṣā vidhema  
+य꣡स्य इमे꣡ हिम꣡वन्तो महित्वा꣡  
+य꣡स्य समुद्रं꣡ रस꣡या सहा꣡हुः꣡  
+य꣡स्य इमाः꣡ प्रदि꣡शो य꣡स्य बाहू꣡  
+क꣡स्मै देवा꣡य हवि꣡षा विधेम  

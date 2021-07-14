@@ -2,8 +2,8 @@
 title = "009"
 
 +++
-yátrānukāmáṃ cáraṇaṃ  
-trināké tridivé diváḥ  
-lokā́ yátra jyótiṣmantas  
-tátra mā́m amŕ̥taṃ kr̥dhi  
-índrāyendo pári srava  
+य꣡त्रानुकामं꣡ च꣡रणं  
+त्रिनाके꣡ त्रिदिवे꣡ दिवः꣡  
+लोका꣡ य꣡त्र ज्यो꣡तिष्मन्तस्  
+त꣡त्र मा꣡म् अम्ŕ̥तं कृधि  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

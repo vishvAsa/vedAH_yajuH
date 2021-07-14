@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-asmā́kam índraḥ sámr̥teṣu dhvajéṣu  
-asmā́kaṃ yā́ íṣavas tā́ jayantu  
-asmā́kaṃ vīrā́ úttare bhavantu  
-asmā́m̐ u devā avatā háveṣu  
+अस्मा꣡कम् इ꣡न्द्रः स꣡मृतेषु ध्वजे꣡षु  
+अस्मा꣡कं या꣡ इ꣡षवस् ता꣡ जयन्तु  
+अस्मा꣡कं वीरा꣡ उ꣡त्तरे भवन्तु  
+अस्माँ꣡ उ देवा अवता ह꣡वेषु  

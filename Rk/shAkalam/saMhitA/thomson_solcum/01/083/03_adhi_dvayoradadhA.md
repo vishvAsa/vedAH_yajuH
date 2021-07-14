@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ádhi dváyor adadhā ukthíyaṃ váco  
-yatásrucā mithunā́ yā́ saparyátaḥ  
-ásaṃyatto vraté te kṣeti púṣyati  
-bhadrā́ śaktír yájamānāya sunvaté  
+अ꣡धि द्व꣡योर् अदधा उक्थि꣡यं व꣡चो  
+यत꣡स्रुचा मिथुना꣡ या꣡ सपर्य꣡तः  
+अ꣡संयत्तो व्रते꣡ ते क्षेति पु꣡ष्यति  
+भद्रा꣡ शक्ति꣡र् य꣡जमानाय सुन्वते꣡  

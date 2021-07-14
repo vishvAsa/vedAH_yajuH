@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-átrer iva śr̥ṇutam pūrviyástutiṃ  
-śyāvā́śuvasya sunvató madacyutā  
-sajóṣasā uṣásā sū́riyena ca  
-áśvinā tiróahniyam  
+अ꣡त्रेर् इव शृणुतम् पूर्विय꣡स्तुतिं  
+श्यावा꣡शुवस्य सुन्वतो꣡ मदच्युता  
+सजो꣡षसा उष꣡सा सू꣡रियेन च  
+अ꣡श्विना तिरो꣡अह्नियम्  

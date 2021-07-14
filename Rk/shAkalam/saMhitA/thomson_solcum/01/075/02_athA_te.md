@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-áthā te aṅgirastama  
-ágne vedhastama priyám  
-vocéma bráhma sānasí  
+अ꣡था ते अङ्गिरस्तम  
+अ꣡ग्ने वेधस्तम प्रिय꣡म्  
+वोचे꣡म ब्र꣡ह्म सानसि꣡  

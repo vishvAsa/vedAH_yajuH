@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sadyáś cin nú té maghavann abhíṣṭau  
-náraḥ śaṃsanti ukthaśā́sa ukthā́  
-yé te hávebhir ví paṇī́m̐r ádāśann  
-asmā́n vr̥ṇīṣva yújiyāya tásmai  
+सद्य꣡श् चिन् नु꣡ ते꣡ मघवन्न् अभि꣡ष्टौ  
+न꣡रः शंसन्ति उक्थशा꣡स उक्था꣡  
+ये꣡ ते ह꣡वेभिर् वि꣡ पणीँ꣡र् अ꣡दाशन्न्  
+अस्मा꣡न् वृणीष्व यु꣡जियाय त꣡स्मै  

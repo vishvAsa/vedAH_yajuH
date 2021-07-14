@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-agnír ha tyáṃ járataḥ kárṇam āva  
-agnír adbhyó nír adahaj járūtham  
-agnír átriṃ gharmá uruṣyad antár  
-agnír nr̥médham prajáyāsr̥jat sám  
+अग्नि꣡र् ह त्यं꣡ ज꣡रतः क꣡र्णम् आव  
+अग्नि꣡र् अद्भ्यो꣡ नि꣡र् अदहज् ज꣡रूथम्  
+अग्नि꣡र् अ꣡त्रिं घर्म꣡ उरुष्यद् अन्त꣡र्  
+अग्नि꣡र् नृमे꣡धम् प्रज꣡यासृजत् स꣡म्  

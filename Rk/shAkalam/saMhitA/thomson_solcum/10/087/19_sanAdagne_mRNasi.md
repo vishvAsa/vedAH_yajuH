@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-sanā́d agne mr̥ṇasi yātudhā́nān  
-ná tvā rákṣāṃsi pŕ̥tanāsu jigyuḥ  
-ánu daha sahámūrān kravyā́do  
-mā́ te hetyā́ mukṣata daíviyāyāḥ  
+सना꣡द् अग्ने मृणसि यातुधा꣡नान्  
+न꣡ त्वा र꣡क्षांसि प्ŕ̥तनासु जिग्युः  
+अ꣡नु दह सह꣡मूरान् क्रव्या꣡दो  
+मा꣡ ते हेत्या꣡ मुक्षत दइ꣡वियायाः  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-véti adhvaryúḥ pathíbhī rájiṣṭhaiḥ  
-práti havyā́ni vītáye  
-ádhā niyutva ubháyasya naḥ piba  
-śúciṃ sómaṃ gávāśiram  
+वे꣡ति अध्वर्युः꣡ पथि꣡भी र꣡जिष्ठैः  
+प्र꣡ति हव्या꣡नि वीत꣡ये  
+अ꣡धा नियुत्व उभ꣡यस्य नः पिब  
+शु꣡चिं सो꣡मं ग꣡वाशिरम्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-śáṃsā mitrásya váruṇasya dhā́ma  
-śúṣmo ródasī badbadhe mahitvā́  
-áyan mā́sā áyajvanām avī́rāḥ  
-prá yajñámanmā vr̥jánaṃ tirāte  
+शं꣡सा मित्र꣡स्य व꣡रुणस्य धा꣡म  
+शु꣡ष्मो रो꣡दसी बद्बधे महित्वा꣡  
+अ꣡यन् मा꣡सा अ꣡यज्वनाम् अवी꣡राः  
+प्र꣡ यज्ञ꣡मन्मा वृज꣡नं तिराते  

@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-alā́yiyasya paraśúr nanāśa  
-tám ā́ pavasva deva soma  
-ākhúṃ cid evá deva soma  
+अला꣡यियस्य परशु꣡र् ननाश  
+त꣡म् आ꣡ पवस्व देव सोम  
+आखुं꣡ चिद् एव꣡ देव सोम  

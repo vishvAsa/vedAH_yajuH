@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-aháṃ caná tát sūríbhir ānaśyāṃ  
-táva jyā́ya indara+ sumnám ójaḥ  
-tváyā yát stávante sadhavīra vīrā́s  
-trivárūthena náhuṣā śaviṣṭha  
+अहं꣡ चन꣡ त꣡त् सूरि꣡भिर् आनश्यां  
+त꣡व ज्या꣡य इन्दर+ सुम्न꣡म् ओ꣡जः  
+त्व꣡या य꣡त् स्त꣡वन्ते सधवीर वीरा꣡स्  
+त्रिव꣡रूथेन न꣡हुषा शविष्ठ  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-cité tád vāṃ surādhasā  
-rātíḥ sumatír aśvinā  
-ā́ yán naḥ sádane pr̥thaú  
-sámane párṣatho narā  
+चिते꣡ त꣡द् वां सुराधसा  
+रातिः꣡ सुमति꣡र् अश्विना  
+आ꣡ य꣡न् नः स꣡दने पृथउ꣡  
+स꣡मने प꣡र्षथो नरा  

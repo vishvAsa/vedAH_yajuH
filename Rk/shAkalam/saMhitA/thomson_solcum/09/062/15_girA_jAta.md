@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-girā́ jātá ihá stutá  
-índur índrāya dhīyate  
-vír yónā vasatā́v iva  
+गिरा꣡ जात꣡ इह꣡ स्तुत꣡  
+इ꣡न्दुर् इ꣡न्द्राय धीयते  
+वि꣡र् यो꣡ना वसता꣡व् इव  

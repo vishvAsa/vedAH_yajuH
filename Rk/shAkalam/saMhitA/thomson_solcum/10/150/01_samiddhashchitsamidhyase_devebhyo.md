@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sámiddhaś cit sám idhyase  
-devébhyo havyavāhana  
-ādityaí rudraír vásubhir na ā́ gahi  
-mr̥̄ḷīkā́ya+ na ā́ gahi  
+स꣡मिद्धश् चित् स꣡म् इध्यसे  
+देवे꣡भ्यो हव्यवाहन  
+आदित्यइ꣡ रुद्रइ꣡र् व꣡सुभिर् न आ꣡ गहि  
+मॄऌईका꣡य+ न आ꣡ गहि  

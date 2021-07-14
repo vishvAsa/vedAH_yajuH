@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yájasva vīra prá vihi manāyató  
-bhadrám mánaḥ kr̥ṇuṣva vr̥tratū́riye  
-havíṣ kr̥ṇuṣva subhágo yáthā́sasi  
-bráhmaṇas páter áva ā́ vr̥ṇīmahe  
+य꣡जस्व वीर प्र꣡ विहि मनायतो꣡  
+भद्र꣡म् म꣡नः कृणुष्व वृत्रतू꣡रिये  
+हवि꣡ष् कृणुष्व सुभ꣡गो य꣡था꣡ससि  
+ब्र꣡ह्मणस् प꣡तेर् अ꣡व आ꣡ वृणीमहे  

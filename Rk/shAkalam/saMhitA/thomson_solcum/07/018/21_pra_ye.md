@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-prá yé gr̥hā́d ámamadus tuvāyā́  
-parāśaráḥ śatáyātur vásiṣṭhaḥ  
-ná te bhojásya sakhiyám mr̥ṣanta  
-ádhā sūríbhyaḥ sudínā ví uchān  
+प्र꣡ ये꣡ गृहा꣡द् अ꣡ममदुस् तुवाया꣡  
+पराशरः꣡ शत꣡यातुर् व꣡सिष्ठः  
+न꣡ ते भोज꣡स्य सखिय꣡म् मृषन्त  
+अ꣡धा सूरि꣡भ्यः सुदि꣡ना वि꣡ उछान्  

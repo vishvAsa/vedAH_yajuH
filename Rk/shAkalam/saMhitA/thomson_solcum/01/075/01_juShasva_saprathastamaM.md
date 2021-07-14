@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-juṣásva sapráthastamaṃ  
-váco devápsarastamam  
-havyā́ júhvāna āsáni  
+जुष꣡स्व सप्र꣡थस्तमं  
+व꣡चो देव꣡प्सरस्तमम्  
+हव्या꣡ जु꣡ह्वान आस꣡नि  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ásya hí sváyaśastara  
-āsā́ vidharman mányase  
-táṃ nā́kaṃ citráśociṣam  
-mandrám paró manīṣáyā  
+अ꣡स्य हि꣡ स्व꣡यशस्तर  
+आसा꣡ विधर्मन् म꣡न्यसे  
+तं꣡ ना꣡कं चित्र꣡शोचिषम्  
+मन्द्र꣡म् परो꣡ मनीष꣡या  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-nahí sthū́ri r̥tuthā́ yātám ásti  
-nótá śrávo vivide saṃgaméṣu  
-gavyánta índraṃ sakhiyā́ya víprā  
-aśvāyánto vŕ̥ṣaṇaṃ vājáyantaḥ  
+नहि꣡ स्थू꣡रि ऋतुथा꣡ यात꣡म् अ꣡स्ति  
+नो꣡त꣡ श्र꣡वो विविदे संगमे꣡षु  
+गव्य꣡न्त इ꣡न्द्रं सखिया꣡य वि꣡प्रा  
+अश्वाय꣡न्तो व्ŕ̥षणं वाज꣡यन्तः  

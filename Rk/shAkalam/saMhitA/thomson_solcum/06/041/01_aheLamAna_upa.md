@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-áheḷamāna úpa yāhi yajñáṃ  
-túbhyam pavanta índavaḥ sutā́saḥ  
-gā́vo ná vajrin suvám óko ácha  
-índrā́ gahi prathamó yajñíyānām  
+अ꣡हेऌअमान उ꣡प याहि यज्ञं꣡  
+तु꣡भ्यम् पवन्त इ꣡न्दवः सुता꣡सः  
+गा꣡वो न꣡ वज्रिन् सुव꣡म् ओ꣡को अ꣡छ  
+इ꣡न्द्रा꣡ गहि प्रथमो꣡ यज्ञि꣡यानाम्  

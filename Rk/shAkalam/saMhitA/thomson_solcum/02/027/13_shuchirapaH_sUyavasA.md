@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-śúcir apáḥ sūyávasā ádabdha  
-úpa kṣeti vr̥ddhávayāḥ suvī́raḥ  
-nákiṣ ṭáṃ ghnanti ántito ná dūrā́d  
-yá ādityā́nām bhávati práṇītau  
+शु꣡चिर् अपः꣡ सूय꣡वसा अ꣡दब्ध  
+उ꣡प क्षेति वृद्ध꣡वयाः सुवी꣡रः  
+न꣡किष् टं꣡ घ्नन्ति अ꣡न्तितो न꣡ दूरा꣡द्  
+य꣡ आदित्या꣡नाम् भ꣡वति प्र꣡णीतौ  

@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-granthíṃ ná ví ṣya grathitám punāná  
-r̥júṃ ca gātúṃ vr̥jináṃ ca soma  
-átyo ná krado hárir ā́ sr̥jānó  
-máryo deva dhanuva pastíyāvān  
+ग्रन्थिं꣡ न꣡ वि꣡ ष्य ग्रथित꣡म् पुनान꣡  
+ऋजुं꣡ च गातुं꣡ वृजिनं꣡ च सोम  
+अ꣡त्यो न꣡ क्रदो ह꣡रिर् आ꣡ सृजानो꣡  
+म꣡र्यो देव धनुव पस्ति꣡यावान्  

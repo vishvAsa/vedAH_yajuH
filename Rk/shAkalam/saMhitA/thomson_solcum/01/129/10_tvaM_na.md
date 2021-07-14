@@ -2,10 +2,10 @@
 title = "010"
 
 +++
-tuváṃ na indra rãyā́ tárūṣasā  
-ugráṃ cit tvā mahimā́ sakṣad ávase  
-mahé mitráṃ ná ávase  
-ójiṣṭha trā́tar ávitā  
-ráthaṃ káṃ cid amartiya  
-anyám asmád ririṣeḥ káṃ cid adrivo  
-rírikṣantaṃ cid adrivaḥ  
+तुवं꣡ न इन्द्र र्ãया꣡ त꣡रूषसा  
+उग्रं꣡ चित् त्वा महिमा꣡ सक्षद् अ꣡वसे  
+महे꣡ मित्रं꣡ न꣡ अ꣡वसे  
+ओ꣡जिष्ठ त्रा꣡तर् अ꣡विता  
+र꣡थं कं꣡ चिद् अमर्तिय  
+अन्य꣡म् अस्म꣡द् रिरिषेः कं꣡ चिद् अद्रिवो  
+रि꣡रिक्षन्तं चिद् अद्रिवः  

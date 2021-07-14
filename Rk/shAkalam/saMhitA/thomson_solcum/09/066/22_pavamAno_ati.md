@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-pávamāno áti srídho  
-abhí arṣati suṣṭutím  
-sū́ro ná viśvádarśataḥ  
+प꣡वमानो अ꣡ति स्रि꣡धो  
+अभि꣡ अर्षति सुष्टुति꣡म्  
+सू꣡रो न꣡ विश्व꣡दर्शतः  

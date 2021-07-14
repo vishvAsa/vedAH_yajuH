@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-sá no vā́jāya śrávasa iṣé ca  
-rāyé dhehi dyumáta indra víprān  
-bharádvāje nr̥váta indra sūrī́n  
-diví ca smaidhi pā́riye na indra  
+स꣡ नो वा꣡जाय श्र꣡वस इषे꣡ च  
+राये꣡ धेहि द्युम꣡त इन्द्र वि꣡प्रान्  
+भर꣡द्वाजे नृव꣡त इन्द्र सूरी꣡न्  
+दिवि꣡ च स्मैधि पा꣡रिये न इन्द्र  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yūyáṃ hí devīr r̥tayúgbhir áśvaiḥ  
-pariprayāthá bhúvanāni sadyáḥ  
-prabodháyantīr uṣasaḥ sasántaṃ  
-dvipā́c cátuṣpāc caráthāya jīvám  
+यूयं꣡ हि꣡ देवीर् ऋतयु꣡ग्भिर् अ꣡श्वैः  
+परिप्रयाथ꣡ भु꣡वनानि सद्यः꣡  
+प्रबोध꣡यन्तीर् उषसः सस꣡न्तं  
+द्विपा꣡च् च꣡तुष्पाच् चर꣡थाय जीव꣡म्  

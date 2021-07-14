@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-índraṃ vayám mahādhaná  
-índram árbhe havāmahe  
-yújaṃ vr̥tréṣu vajríṇam  
+इ꣡न्द्रं वय꣡म् महाधन꣡  
+इ꣡न्द्रम् अ꣡र्भे हवामहे  
+यु꣡जं वृत्रे꣡षु वज्रि꣡णम्  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ápa tyā́ asthur ánirā ámīvā  
-nír atrasan támiṣīcīr ábhaiṣuḥ  
-ā́ sómo asmā́m̐ aruhad víhāyā  
-áganma yátra pratiránta ā́yuḥ  
+अ꣡प त्या꣡ अस्थुर् अ꣡निरा अ꣡मीवा  
+नि꣡र् अत्रसन् त꣡मिषीचीर् अ꣡भैषुः  
+आ꣡ सो꣡मो अस्माँ꣡ अरुहद् वि꣡हाया  
+अ꣡गन्म य꣡त्र प्रतिर꣡न्त आ꣡युः  

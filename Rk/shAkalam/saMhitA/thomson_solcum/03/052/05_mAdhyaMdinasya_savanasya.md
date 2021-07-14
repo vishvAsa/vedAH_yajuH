@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mā́dhyaṃdinasya sávanasya dhānā́ḥ  
-puroḷā́śam indra kr̥ṣvehá cā́rum  
-prá yát stotā́ jaritā́ tū́rṇiartho  
-vr̥ṣāyámāṇa úpa gīrbhír ī́ṭṭe  
+मा꣡ध्यंदिनस्य स꣡वनस्य धानाः꣡  
+पुरोऌआ꣡शम् इन्द्र कृष्वेह꣡ चा꣡रुम्  
+प्र꣡ य꣡त् स्तोता꣡ जरिता꣡ तू꣡र्णिअर्थो  
+वृषाय꣡माण उ꣡प गीर्भि꣡र् ई꣡ट्टे  

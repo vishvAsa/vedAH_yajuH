@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ná sóma índram ásuto mamāda  
-nā́brahmāṇo maghávānaṃ sutā́saḥ  
-tásmā uktháṃ janaye yáj jújoṣan  
-nr̥ván návīyaḥ śr̥ṇávad yáthā naḥ  
+न꣡ सो꣡म इ꣡न्द्रम् अ꣡सुतो ममाद  
+ना꣡ब्रह्माणो मघ꣡वानं सुता꣡सः  
+त꣡स्मा उक्थं꣡ जनये य꣡ज् जु꣡जोषन्  
+नृव꣡न् न꣡वीयः शृण꣡वद् य꣡था नः  

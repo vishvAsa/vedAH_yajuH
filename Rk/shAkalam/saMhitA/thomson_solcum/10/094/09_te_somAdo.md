@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-té somā́do hárī índrasya niṃsate  
-aṃśúṃ duhánto ádhi āsate gávi  
-tébhir dugdhám papivā́n somiyám mádhu  
-índro vardhate práthate vr̥ṣāyáte  
+ते꣡ सोमा꣡दो ह꣡री इ꣡न्द्रस्य निंसते  
+अंशुं꣡ दुह꣡न्तो अ꣡धि आसते ग꣡वि  
+ते꣡भिर् दुग्ध꣡म् पपिवा꣡न् सोमिय꣡म् म꣡धु  
+इ꣡न्द्रो वर्धते प्र꣡थते वृषाय꣡ते  

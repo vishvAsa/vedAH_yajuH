@@ -2,6 +2,6 @@
 title = "038"
 
 +++
-evā́re vr̥ṣabhā suté  
-ásinvan bhū́ri āvayaḥ  
-śvaghnī́va nivátā cáran  
+एवा꣡रे वृषभा सुते꣡  
+अ꣡सिन्वन् भू꣡रि आवयः  
+श्वघ्नी꣡व निव꣡ता च꣡रन्  

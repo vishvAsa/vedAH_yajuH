@@ -2,7 +2,7 @@
 title = "026"
 
 +++
-índra krátuṃ na ā́ bhara  
-pitā́ putrébhiyo yáthā  
-śíkṣā ṇo asmín puruhūta yā́mani  
-jīvā́ jyótir aśīmahi  
+इ꣡न्द्र क्र꣡तुं न आ꣡ भर  
+पिता꣡ पुत्रे꣡भियो य꣡था  
+शि꣡क्षा णो अस्मि꣡न् पुरुहूत या꣡मनि  
+जीवा꣡ ज्यो꣡तिर् अशीमहि  

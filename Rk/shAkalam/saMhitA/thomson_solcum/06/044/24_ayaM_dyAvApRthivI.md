@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-ayáṃ dyā́vāpr̥thivī́ ví ṣkabhāyad  
-ayáṃ rátham ayunak saptáraśmim  
-ayáṃ góṣu śáciyā pakvám antáḥ  
-sómo dādhāra dáśayantram útsam  
+अयं꣡ द्या꣡वापृथिवी꣡ वि꣡ ष्कभायद्  
+अयं꣡ र꣡थम् अयुनक् सप्त꣡रश्मिम्  
+अयं꣡ गो꣡षु श꣡चिया पक्व꣡म् अन्तः꣡  
+सो꣡मो दाधार द꣡शयन्त्रम् उ꣡त्सम्  

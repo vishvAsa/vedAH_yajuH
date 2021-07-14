@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-mā́ te amājúro yathā  
-mūrā́sa indra sakhiyé tuvā́vataḥ  
-ní ṣadāma sácā suté  
+मा꣡ ते अमाजु꣡रो यथा  
+मूरा꣡स इन्द्र सखिये꣡ तुवा꣡वतः  
+नि꣡ षदाम स꣡चा सुते꣡  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sūktavākám prathamám ā́d íd agním  
-ā́d íd dhavír ajanayanta devā́ḥ  
-sá eṣāṃ yajñó abhavat tanūpā́s  
-táṃ dyaúr veda tám pr̥thivī́ tám ā́paḥ  
+सूक्तवाक꣡म् प्रथम꣡म् आ꣡द् इ꣡द् अग्नि꣡म्  
+आ꣡द् इ꣡द् धवि꣡र् अजनयन्त देवाः꣡  
+स꣡ एषां यज्ञो꣡ अभवत् तनूपा꣡स्  
+तं꣡ द्यउ꣡र् वेद त꣡म् पृथिवी꣡ त꣡म् आ꣡पः  

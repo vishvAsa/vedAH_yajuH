@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-táṃ sotāro dhanaspŕ̥tam  
-āśúṃ vā́jāya yā́tave  
-háriṃ hinota vājínam  
+तं꣡ सोतारो धनस्प्ŕ̥तम्  
+आशुं꣡ वा꣡जाय या꣡तवे  
+ह꣡रिं हिनोत वाजि꣡नम्  

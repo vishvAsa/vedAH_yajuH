@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá rocayaj janúṣā ródasī ubhé  
-sá mātarór abhavat putrá ī́ḍiyaḥ  
-havyavā́ḷ agnír ajáraś cánohito  
-dūḷábho viśā́m átithir vibhā́vasuḥ  
+स꣡ रोचयज् जनु꣡षा रो꣡दसी उभे꣡  
+स꣡ मातरो꣡र् अभवत् पुत्र꣡ ई꣡डियः  
+हव्यवा꣡ऌ अग्नि꣡र् अज꣡रश् च꣡नोहितो  
+दूऌअ꣡भो विशा꣡म् अ꣡तिथिर् विभा꣡वसुः  

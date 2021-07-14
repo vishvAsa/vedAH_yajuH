@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tám ín náro ví hvayante samīké  
-ririkvā́ṃsas tanúvaḥ kr̥ṇvata trā́m  
-mithó yát tyāgám ubháyāso ágman  
-náras tokásya tánayasya sātaú  
+त꣡म् इ꣡न् न꣡रो वि꣡ ह्वयन्ते समीके꣡  
+रिरिक्वां꣡सस् तनु꣡वः कृण्वत त्रा꣡म्  
+मिथो꣡ य꣡त् त्याग꣡म् उभ꣡यासो अ꣡ग्मन्  
+न꣡रस् तोक꣡स्य त꣡नयस्य सातउ꣡  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-járamāṇaḥ sám idhyase  
-devébhyo havyavāhana  
-táṃ tvā havanta mártiyāḥ  
+ज꣡रमाणः स꣡म् इध्यसे  
+देवे꣡भ्यो हव्यवाहन  
+तं꣡ त्वा हवन्त म꣡र्तियाः  

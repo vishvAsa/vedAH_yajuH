@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-prá pūṣáṇaṃ vr̥ṇīmahe  
-yújiyāya purūvásum  
-sá śakra śikṣa puruhūta no dhiyā́  
-túje rāyé vimocana  
+प्र꣡ पूष꣡णं वृणीमहे  
+यु꣡जियाय पुरूव꣡सुम्  
+स꣡ शक्र शिक्ष पुरुहूत नो धिया꣡  
+तु꣡जे राये꣡ विमोचन  

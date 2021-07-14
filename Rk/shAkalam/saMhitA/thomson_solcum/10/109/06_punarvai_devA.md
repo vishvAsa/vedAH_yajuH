@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-púnar vaí devā́ adaduḥ  
-púnar manuṣíyā utá  
-rā́jānaḥ satyáṃ kr̥ṇvānā́  
-brahmajāyā́m púnar daduḥ  
+पु꣡नर् वइ꣡ देवा꣡ अददुः  
+पु꣡नर् मनुषि꣡या उत꣡  
+रा꣡जानः सत्यं꣡ कृण्वाना꣡  
+ब्रह्मजाया꣡म् पु꣡नर् ददुः  

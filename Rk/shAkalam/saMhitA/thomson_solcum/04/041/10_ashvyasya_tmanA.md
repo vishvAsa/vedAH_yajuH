@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-áśvyasya tmánā ráthiyasya puṣṭér  
-nítyasya rāyáḥ pátayaḥ siyāma  
-tā́ cakrāṇā́ ūtíbhir návyasībhir  
-asmatrā́ rā́yo niyútaḥ sacantām  
+अ꣡श्व्यस्य त्म꣡ना र꣡थियस्य पुष्टे꣡र्  
+नि꣡त्यस्य रायः꣡ प꣡तयः सियाम  
+ता꣡ चक्राणा꣡ ऊति꣡भिर् न꣡व्यसीभिर्  
+अस्मत्रा꣡ रा꣡यो नियु꣡तः सचन्ताम्  

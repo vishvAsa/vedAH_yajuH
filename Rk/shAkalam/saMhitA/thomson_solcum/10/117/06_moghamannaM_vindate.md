@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-mógham ánnaṃ vindate ápracetāḥ  
-satyám bravīmi vadhá ít sá tásya  
-nā́ryamáṇam púṣyati nó sákhāyaṃ  
-kévalāgho bhavati kevalādī́  
+मो꣡घम् अ꣡न्नं विन्दते अ꣡प्रचेताः  
+सत्य꣡म् ब्रवीमि वध꣡ इ꣡त् स꣡ त꣡स्य  
+ना꣡र्यम꣡णम् पु꣡ष्यति नो꣡ स꣡खायं  
+के꣡वलाघो भवति केवलादी꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá yanti yajñáṃ vipáyanti barhíḥ  
-somamā́do vidáthe dudhrávācaḥ  
-ní u bhriyante yaśáso gr̥bhā́d ā́  
-dūráüpabdo vŕ̥ṣaṇo nr̥ṣā́caḥ  
+प्र꣡ यन्ति यज्ञं꣡ विप꣡यन्ति बर्हिः꣡  
+सोममा꣡दो विद꣡थे दुध्र꣡वाचः  
+नि꣡ उ भ्रियन्ते यश꣡सो गृभा꣡द् आ꣡  
+दूर꣡üपब्दो व्ŕ̥षणो नृषा꣡चः  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-áraṃ kā́māya hárayo dadhanvire  
-sthirā́ya hinvan hárayo hárī turā́  
-árvadbhir yó háribhir jóṣam ī́yate  
-só asya kā́maṃ hárivantam ānaśe  
+अ꣡रं का꣡माय ह꣡रयो दधन्विरे  
+स्थिरा꣡य हिन्वन् ह꣡रयो ह꣡री तुरा꣡  
+अ꣡र्वद्भिर् यो꣡ ह꣡रिभिर् जो꣡षम् ई꣡यते  
+सो꣡ अस्य का꣡मं ह꣡रिवन्तम् आनशे  

@@ -2,7 +2,7 @@
 title = "042"
 
 +++
-ihaívá stam mā́ ví yauṣṭaṃ  
-víśvam ā́yur ví aśnutam  
-krī́ḷantau putraír náptr̥bhir  
-módamānau suvé gr̥hé  
+इहइ꣡व꣡ स्तम् मा꣡ वि꣡ यौष्टं  
+वि꣡श्वम् आ꣡युर् वि꣡ अश्नुतम्  
+क्री꣡ऌअन्तौ पुत्रइ꣡र् न꣡प्तृभिर्  
+मो꣡दमानौ सुवे꣡ गृहे꣡  

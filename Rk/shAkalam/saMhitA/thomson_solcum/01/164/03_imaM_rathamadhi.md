@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-imáṃ rátham ádhi yé saptá tasthúḥ  
-saptácakraṃ saptá vahanti áśvāḥ  
-saptá svásāro abhí sáṃ navante  
-yátra gávāṃ níhitā saptá nā́ma  
+इमं꣡ र꣡थम् अ꣡धि ये꣡ सप्त꣡ तस्थुः꣡  
+सप्त꣡चक्रं सप्त꣡ वहन्ति अ꣡श्वाः  
+सप्त꣡ स्व꣡सारो अभि꣡ सं꣡ नवन्ते  
+य꣡त्र ग꣡वां नि꣡हिता सप्त꣡ ना꣡म  

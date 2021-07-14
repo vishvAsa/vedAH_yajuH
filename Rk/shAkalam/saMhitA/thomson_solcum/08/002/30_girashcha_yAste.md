@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-gíraś ca yā́s te girvāha  
-ukthā́ ca túbhyaṃ tā́ni  
-satrā́ dadhiré śávāṃsi  
+गि꣡रश् च या꣡स् ते गिर्वाह  
+उक्था꣡ च तु꣡भ्यं ता꣡नि  
+सत्रा꣡ दधिरे꣡ श꣡वांसि  

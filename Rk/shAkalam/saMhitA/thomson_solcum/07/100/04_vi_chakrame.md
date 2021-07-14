@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ví cakrame pr̥thivī́m eṣá etā́ṃ  
-kṣétrāya víṣṇur mánuṣe daśasyán  
-dhruvā́so asya kīráyo jánāsa  
-urukṣitíṃ sujánimā cakāra  
+वि꣡ चक्रमे पृथिवी꣡म् एष꣡ एतां꣡  
+क्षे꣡त्राय वि꣡ष्णुर् म꣡नुषे दशस्य꣡न्  
+ध्रुवा꣡सो अस्य कीर꣡यो ज꣡नास  
+उरुक्षितिं꣡ सुज꣡निमा चकार  

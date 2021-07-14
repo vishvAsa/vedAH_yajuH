@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuvā́ṃ víśve amr̥ta jā́yamānaṃ  
-śíśuṃ ná devā́ abhí sáṃ navante  
-táva krátubhir amr̥tatvám āyan  
-vaíśvānara yát pitarór+ ádīdeḥ  
+तुवां꣡ वि꣡श्वे अमृत जा꣡यमानं  
+शि꣡शुं न꣡ देवा꣡ अभि꣡ सं꣡ नवन्ते  
+त꣡व क्र꣡तुभिर् अमृतत्व꣡म् आयन्  
+वइ꣡श्वानर य꣡त् पितरो꣡र्+ अ꣡दीदेः  

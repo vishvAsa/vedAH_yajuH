@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-brahmacārī́ carati véviṣad víṣaḥ  
-sá devā́nām bhavati ékam áṅgam  
-téna jāyā́m ánv avindad bŕ̥haspátiḥ  
-sómena nītā́ṃ juhúvaṃ ná devāḥ  
+ब्रह्मचारी꣡ चरति वे꣡विषद् वि꣡षः  
+स꣡ देवा꣡नाम् भवति ए꣡कम् अ꣡ङ्गम्  
+ते꣡न जाया꣡म् अ꣡न्व् अविन्दद् ब्ŕ̥हस्प꣡तिः  
+सो꣡मेन नीतां꣡ जुहु꣡वं न꣡ देवाः  

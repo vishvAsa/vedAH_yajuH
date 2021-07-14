@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-evā́ ta indra ucátham ahema  
-śravasyā́ ná tmánā vājáyantaḥ  
-aśyā́ma tát sā́ptam āśuṣāṇā́  
-nanámo vádhar ádevasya pīyóḥ  
+एवा꣡ त इन्द्र उच꣡थम् अहेम  
+श्रवस्या꣡ न꣡ त्म꣡ना वाज꣡यन्तः  
+अश्या꣡म त꣡त् सा꣡प्तम् आशुषाणा꣡  
+नन꣡मो व꣡धर् अ꣡देवस्य पीयोः꣡  

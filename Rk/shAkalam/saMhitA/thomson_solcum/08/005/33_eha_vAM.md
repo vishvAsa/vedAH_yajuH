@@ -2,6 +2,6 @@
 title = "033"
 
 +++
-éhá vām pruṣitápsavo  
-váyo vahantu parṇínaḥ  
-áchā suadhvaráṃ jánam  
+ए꣡ह꣡ वाम् प्रुषित꣡प्सवो  
+व꣡यो वहन्तु पर्णि꣡नः  
+अ꣡छा सुअध्वरं꣡ ज꣡नम्  

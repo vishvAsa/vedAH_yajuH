@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-asyá pītvā́ śatakrato  
-ghanó vr̥trā́ṇām abhavaḥ  
-prā́vo vā́jeṣu vājínam  
+अस्य꣡ पीत्वा꣡ शतक्रतो  
+घनो꣡ वृत्रा꣡णाम् अभवः  
+प्रा꣡वो वा꣡जेषु वाजि꣡नम्  

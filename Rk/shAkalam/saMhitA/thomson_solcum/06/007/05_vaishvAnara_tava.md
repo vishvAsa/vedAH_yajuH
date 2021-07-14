@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vaíśvānara táva tā́ni vratā́ni  
-mahā́ni agne nákir ā́ dadharṣa  
-yáj jā́yamānaḥ pitarór+ upásthe  
-ávindaḥ ketúṃ vayúneṣu áhnām  
+वइ꣡श्वानर त꣡व ता꣡नि व्रता꣡नि  
+महा꣡नि अग्ने न꣡किर् आ꣡ दधर्ष  
+य꣡ज् जा꣡यमानः पितरो꣡र्+ उप꣡स्थे  
+अ꣡विन्दः केतुं꣡ वयु꣡नेषु अ꣡ह्नाम्  

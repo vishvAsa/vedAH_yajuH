@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ná jāmáye tā́nuvo rikthám āraik  
-cakā́ra gárbhaṃ sanitúr nidhā́nam  
-yádī mātáro janáyanta váhnim  
-anyáḥ kartā́ sukŕ̥tor anyá r̥ndhán  
+न꣡ जाम꣡ये ता꣡नुवो रिक्थ꣡म् आरैक्  
+चका꣡र ग꣡र्भं सनितु꣡र् निधा꣡नम्  
+य꣡दी मात꣡रो जन꣡यन्त व꣡ह्निम्  
+अन्यः꣡ कर्ता꣡ सुक्ŕ̥तोर् अन्य꣡ ऋन्ध꣡न्  

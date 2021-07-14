@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ubhā́ devā́ divispŕ̥śā  
-indravāyū́ havāmahe  
-asyá sómasya pītáye  
+उभा꣡ देवा꣡ दिविस्प्ŕ̥शा  
+इन्द्रवायू꣡ हवामहे  
+अस्य꣡ सो꣡मस्य पीत꣡ये  

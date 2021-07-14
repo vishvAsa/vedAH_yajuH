@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ratheṣṭhā́ya adhvaryavaḥ  
-sómam índrāya sotana  
-ádhi bradhnásya ádrayo ví cakṣate  
-sunvánto dāśúadhvaram  
+रथेष्ठा꣡य अध्वर्यवः  
+सो꣡मम् इ꣡न्द्राय सोतन  
+अ꣡धि ब्रध्न꣡स्य अ꣡द्रयो वि꣡ चक्षते  
+सुन्व꣡न्तो दाशु꣡अध्वरम्  

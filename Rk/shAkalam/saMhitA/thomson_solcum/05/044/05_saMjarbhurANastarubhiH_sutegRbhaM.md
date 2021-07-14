@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-saṃjárbhurāṇas tárubhiḥ sutegŕ̥bhaṃ  
-vayākínaṃ cittágarbhāsu susváruḥ  
-dhāravākéṣu r̥jugātha śobhase  
-várdhasva pátnīr abhí jīvó adhvaré  
+संज꣡र्भुराणस् त꣡रुभिः सुतेग्ŕ̥भं  
+वयाकि꣡नं चित्त꣡गर्भासु सुस्व꣡रुः  
+धारवाके꣡षु ऋजुगाथ शोभसे  
+व꣡र्धस्व प꣡त्नीर् अभि꣡ जीवो꣡ अध्वरे꣡  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-śraddháyāgníḥ sám idhyate  
-śraddháyā hūyate havíḥ  
-śraddhā́m bhágasya mūrdháni  
-vácasā́ vedayāmasi  
+श्रद्ध꣡याग्निः꣡ स꣡म् इध्यते  
+श्रद्ध꣡या हूयते हविः꣡  
+श्रद्धा꣡म् भ꣡गस्य मूर्ध꣡नि  
+व꣡चसा꣡ वेदयामसि  

@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-yáṃ tvā gopávano girā́  
-cániṣṭhad agne aṅgiraḥ  
-sá pavāka+ śrudhī hávam  
+यं꣡ त्वा गोप꣡वनो गिरा꣡  
+च꣡निष्ठद् अग्ने अङ्गिरः  
+स꣡ पवाक+ श्रुधी ह꣡वम्  

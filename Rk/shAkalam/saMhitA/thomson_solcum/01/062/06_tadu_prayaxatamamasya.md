@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tád u práyakṣatamam asya kárma  
-dasmásya cā́rutamam asti dáṃsaḥ  
-upahvaré yád úparā ápinvan  
-mádhuarṇaso nadíyaś cátasraḥ  
+त꣡द् उ प्र꣡यक्षतमम् अस्य क꣡र्म  
+दस्म꣡स्य चा꣡रुतमम् अस्ति दं꣡सः  
+उपह्वरे꣡ य꣡द् उ꣡परा अ꣡पिन्वन्  
+म꣡धुअर्णसो नदि꣡यश् च꣡तस्रः  

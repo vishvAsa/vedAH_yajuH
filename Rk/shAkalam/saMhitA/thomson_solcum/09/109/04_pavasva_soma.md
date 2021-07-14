@@ -2,5 +2,5 @@
 title = "004"
 
 +++
-pávasva soma mahā́n samudráḥ  
-pitā́ devā́nāṃ víśvābhí dhā́ma  
+प꣡वस्व सोम महा꣡न् समुद्रः꣡  
+पिता꣡ देवा꣡नां वि꣡श्वाभि꣡ धा꣡म  

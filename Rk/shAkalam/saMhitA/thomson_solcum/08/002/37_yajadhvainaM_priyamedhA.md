@@ -2,6 +2,6 @@
 title = "037"
 
 +++
-yájadhvainam priyamedhā  
-índraṃ satrā́cā mánasā  
-yó bhū́t sómaiḥ satyámadvā  
+य꣡जध्वैनम् प्रियमेधा  
+इ꣡न्द्रं सत्रा꣡चा म꣡नसा  
+यो꣡ भू꣡त् सो꣡मैः सत्य꣡मद्वा  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá hí kṣáyeṇa kṣámiyasya jánmanaḥ  
-sā́mrājiyena diviyásya cétati  
-ávann ávantīr úpa no dúraś cara  
-anamīvó rudara+ jā́su no bhava  
+स꣡ हि꣡ क्ष꣡येण क्ष꣡मियस्य ज꣡न्मनः  
+सा꣡म्राजियेन दिविय꣡स्य चे꣡तति  
+अ꣡वन्न् अ꣡वन्तीर् उ꣡प नो दु꣡रश् चर  
+अनमीवो꣡ रुदर+ जा꣡सु नो भव  

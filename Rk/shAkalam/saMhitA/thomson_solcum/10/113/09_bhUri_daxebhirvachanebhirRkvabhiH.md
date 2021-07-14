@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-bhū́ri dákṣebhir vacanébhir ŕ̥kvabhiḥ  
-sakhiyébhiḥ sakhiyā́ni prá vocata  
-índro dhúniṃ ca cúmuriṃ ca dambháyañ  
-chraddhāmanasyā́ śr̥ṇute dabhī́taye  
+भू꣡रि द꣡क्षेभिर् वचने꣡भिर् ŕ̥क्वभिः  
+सखिये꣡भिः सखिया꣡नि प्र꣡ वोचत  
+इ꣡न्द्रो धु꣡निं च चु꣡मुरिं च दम्भ꣡यञ्  
+छ्रद्धामनस्या꣡ शृणुते दभी꣡तये  

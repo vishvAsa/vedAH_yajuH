@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-duró áśvasya durá indra gór asi  
-duró yávasya vásuna inás pátiḥ  
-śikṣānaráḥ pradívó 'kāmakarśanaḥ°  
-sákhā sákhibhyas tám idáṃ gr̥ṇīmasi  
+दुरो꣡ अ꣡श्वस्य दुर꣡ इन्द्र गो꣡र् असि  
+दुरो꣡ य꣡वस्य व꣡सुन इन꣡स् प꣡तिः  
+शिक्षानरः꣡ प्रदि꣡वो꣡ ऽकामकर्शनः°  
+स꣡खा स꣡खिभ्यस् त꣡म् इदं꣡ गृणीमसि  

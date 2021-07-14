@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-ā́ na indo mahī́m íṣam  
-pávasva viśvádarśataḥ  
-asmábhyaṃ soma gātuvít  
+आ꣡ न इन्दो मही꣡म् इ꣡षम्  
+प꣡वस्व विश्व꣡दर्शतः  
+अस्म꣡भ्यं सोम गातुवि꣡त्  

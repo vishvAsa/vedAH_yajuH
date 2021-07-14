@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-vibhrā́jamāna uṣásām upásthād  
-rebhaír úd eti anumadyámānaḥ  
-eṣá me deváḥ savitā́ cachanda  
-yáḥ samānáṃ ná praminā́ti dhā́ma  
+विभ्रा꣡जमान उष꣡साम् उप꣡स्थाद्  
+रेभइ꣡र् उ꣡द् एति अनुमद्य꣡मानः  
+एष꣡ मे देवः꣡ सविता꣡ चछन्द  
+यः꣡ समानं꣡ न꣡ प्रमिना꣡ति धा꣡म  

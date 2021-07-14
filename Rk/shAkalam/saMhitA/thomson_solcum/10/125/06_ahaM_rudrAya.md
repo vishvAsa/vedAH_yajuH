@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-aháṃ rudrā́ya dhánur ā́ tanomi  
-brahmadvíṣe śárave hántavā́ u  
-aháṃ jánāya samádaṃ kr̥ṇomi  
-aháṃ dyā́vāpr̥thivī́ ā́ viveśa  
+अहं꣡ रुद्रा꣡य ध꣡नुर् आ꣡ तनोमि  
+ब्रह्मद्वि꣡षे श꣡रवे ह꣡न्तवा꣡ उ  
+अहं꣡ ज꣡नाय सम꣡दं कृणोमि  
+अहं꣡ द्या꣡वापृथिवी꣡ आ꣡ विवेश  

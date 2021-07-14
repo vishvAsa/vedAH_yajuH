@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-tuvám makhásya dódhataḥ  
-śíro áva tvacó bharaḥ  
-ágachaḥ somíno gr̥hám  
+तुव꣡म् मख꣡स्य दो꣡धतः  
+शि꣡रो अ꣡व त्वचो꣡ भरः  
+अ꣡गछः सोमि꣡नो गृह꣡म्  

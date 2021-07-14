@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yás te hánti patáyantaṃ  
-niṣatsnúṃ yáḥ sarīsr̥pám  
-jātáṃ yás te jíghāṃsati  
-tám itó nāśayāmasi  
+य꣡स् ते ह꣡न्ति पत꣡यन्तं  
+निषत्स्नुं꣡ यः꣡ सरीसृप꣡म्  
+जातं꣡ य꣡स् ते जि꣡घांसति  
+त꣡म् इतो꣡ नाशयामसि  

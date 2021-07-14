@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuváṃ hí mā́nuṣe jáne  
-ágne súprīta idhyáse  
-srúcas tvā yanti ānuṣák  
-sújāta sárpirāsute  
+तुवं꣡ हि꣡ मा꣡नुषे ज꣡ने  
+अ꣡ग्ने सु꣡प्रीत इध्य꣡से  
+स्रु꣡चस् त्वा यन्ति आनुष꣡क्  
+सु꣡जात स꣡र्पिरासुते  

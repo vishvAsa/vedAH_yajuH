@@ -2,7 +2,7 @@
 title = "032"
 
 +++
-kánikradad ánu pánthām r̥tásya  
-śukró ví bhāsi amŕ̥tasya dhā́ma  
-sá índrāya pavase matsarávān  
-hinvānó vā́cam matíbhiḥ kavīnā́m  
+क꣡निक्रदद् अ꣡नु प꣡न्थाम् ऋत꣡स्य  
+शुक्रो꣡ वि꣡ भासि अम्ŕ̥तस्य धा꣡म  
+स꣡ इ꣡न्द्राय पवसे मत्सर꣡वान्  
+हिन्वानो꣡ वा꣡चम् मति꣡भिः कवीना꣡म्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sácasva nāyám ávase abhī́ka  
-itó vā tám indara+ pāhi riṣáḥ  
-amā́ cainam áraṇye pāhi riṣó  
-mádema · śatáhimāḥ suvī́rāḥ  
+स꣡चस्व नाय꣡म् अ꣡वसे अभी꣡क  
+इतो꣡ वा त꣡म् इन्दर+ पाहि रिषः꣡  
+अमा꣡ चैनम् अ꣡रण्ये पाहि रिषो꣡  
+म꣡देम · शत꣡हिमाः सुवी꣡राः  

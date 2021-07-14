@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-marútvantaṃ havāmaha  
-índram ā́ sómapītaye  
-sajū́r gaṇéna tr̥mpatu  
+मरु꣡त्वन्तं हवामह  
+इ꣡न्द्रम् आ꣡ सो꣡मपीतये  
+सजू꣡र् गणे꣡न तृम्पतु  

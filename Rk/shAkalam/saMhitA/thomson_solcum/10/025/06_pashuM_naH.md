@@ -2,9 +2,9 @@
 title = "006"
 
 +++
-paśúṃ naḥ soma rakṣasi  
-purutrā́ víṣṭhitaṃ jágat  
-samā́kr̥ṇoṣi jīváse  
-ví vo máde  
-víśvā sampáśyan bhúvanā  
-vívakṣase  
+पशुं꣡ नः सोम रक्षसि  
+पुरुत्रा꣡ वि꣡ष्ठितं ज꣡गत्  
+समा꣡कृणोषि जीव꣡से  
+वि꣡ वो म꣡दे  
+वि꣡श्वा सम्प꣡श्यन् भु꣡वना  
+वि꣡वक्षसे  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-trír ā́ diváḥ savitā́ soṣavīti  
-rā́jānā mitrā́váruṇā supāṇī́  
-ā́paś cid asya ródasī cid urvī́  
-rátnam bhikṣanta savitúḥ savā́ya  
+त्रि꣡र् आ꣡ दिवः꣡ सविता꣡ सोषवीति  
+रा꣡जाना मित्रा꣡व꣡रुणा सुपाणी꣡  
+आ꣡पश् चिद् अस्य रो꣡दसी चिद् उर्वी꣡  
+र꣡त्नम् भिक्षन्त सवितुः꣡ सवा꣡य  

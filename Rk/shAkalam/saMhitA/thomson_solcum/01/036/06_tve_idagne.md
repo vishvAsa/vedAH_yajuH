@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvé íd agne subháge yaviṣṭhiya  
-víśvam ā́ hūyate havíḥ  
-sá tváṃ no adyá sumánā utā́paráṃ  
-yákṣi devā́n suvī́riyā  
+तुवे꣡ इ꣡द् अग्ने सुभ꣡गे यविष्ठिय  
+वि꣡श्वम् आ꣡ हूयते हविः꣡  
+स꣡ त्वं꣡ नो अद्य꣡ सुम꣡ना उता꣡परं꣡  
+य꣡क्षि देवा꣡न् सुवी꣡रिया  

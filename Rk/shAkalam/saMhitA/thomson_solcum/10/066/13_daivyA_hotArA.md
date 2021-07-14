@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-daívyā hótārā prathamā́ puróhita  
-r̥tásya pánthām ánu emi sādhuyā́  
-kṣétrasya pátim prátiveśam īmahe  
-víśvān devā́m̐ amŕ̥tām̐ áprayuchataḥ  
+दइ꣡व्या हो꣡तारा प्रथमा꣡ पुरो꣡हित  
+ऋत꣡स्य प꣡न्थाम् अ꣡नु एमि साधुया꣡  
+क्षे꣡त्रस्य प꣡तिम् प्र꣡तिवेशम् ईमहे  
+वि꣡श्वान् देवाँ꣡ अम्ŕ̥ताँ अ꣡प्रयुछतः  

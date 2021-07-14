@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-índrāvaruṇā mádhumattamasya  
-vŕ̥ṣṇaḥ sómasya vr̥ṣaṇā́ vr̥ṣethām  
-idáṃ vām ándhaḥ páriṣiktam asmé  
-āsádyāsmín barhíṣi mādayethām  
+इ꣡न्द्रावरुणा म꣡धुमत्तमस्य  
+व्ŕ̥ष्णः सो꣡मस्य वृषणा꣡ वृषेथाम्  
+इदं꣡ वाम् अ꣡न्धः प꣡रिषिक्तम् अस्मे꣡  
+आस꣡द्यास्मि꣡न् बर्हि꣡षि मादयेथाम्  

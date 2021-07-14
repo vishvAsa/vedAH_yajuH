@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-sadāpr̥ṇó yajató ví dvíṣo vadhīd  
-bāhuvr̥ktáḥ śrutavít táryo vaḥ sácā  
-ubhā́ sá várā práti eti bhā́ti ca  
-yád īṃ gaṇám bhájate suprayā́vabhiḥ  
+सदापृणो꣡ यजतो꣡ वि꣡ द्वि꣡षो वधीद्  
+बाहुवृक्तः꣡ श्रुतवि꣡त् त꣡र्यो वः स꣡चा  
+उभा꣡ स꣡ व꣡रा प्र꣡ति एति भा꣡ति च  
+य꣡द् ईं गण꣡म् भ꣡जते सुप्रया꣡वभिः  

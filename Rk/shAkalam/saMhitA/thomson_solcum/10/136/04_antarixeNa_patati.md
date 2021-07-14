@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-antárikṣeṇa patati  
-víśvā rūpā́vacā́kaśat  
-múnir devásya-devasya  
-saúkr̥tyāya sákhā hitáḥ  
+अन्त꣡रिक्षेण पतति  
+वि꣡श्वा रूपा꣡वचा꣡कशत्  
+मु꣡निर् देव꣡स्य-देवस्य  
+सउ꣡कृत्याय स꣡खा हितः꣡  

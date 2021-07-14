@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sámiddhe agnaú sutá indra sóma  
-ā́ tvā vahantu hárayo váhiṣṭhāḥ  
-tuvāyatā́ mánasā johavīmi  
-índrā́ yāhi suvitā́ya mahé naḥ  
+स꣡मिद्धे अग्नउ꣡ सुत꣡ इन्द्र सो꣡म  
+आ꣡ त्वा वहन्तु ह꣡रयो व꣡हिष्ठाः  
+तुवायता꣡ म꣡नसा जोहवीमि  
+इ꣡न्द्रा꣡ याहि सुविता꣡य महे꣡ नः  

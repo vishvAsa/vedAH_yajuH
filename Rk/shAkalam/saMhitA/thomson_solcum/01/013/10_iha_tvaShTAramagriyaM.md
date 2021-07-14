@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-ihá tváṣṭāram agriyáṃ  
-viśvárūpam úpa hvaye  
-asmā́kam astu kévalaḥ  
+इह꣡ त्व꣡ष्टारम् अग्रियं꣡  
+विश्व꣡रूपम् उ꣡प ह्वये  
+अस्मा꣡कम् अस्तु के꣡वलः  

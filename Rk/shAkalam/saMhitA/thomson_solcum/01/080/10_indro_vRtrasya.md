@@ -2,8 +2,8 @@
 title = "010"
 
 +++
-índro vr̥trásya táviṣīṃ  
-nír ahan sáhasā sáhaḥ  
-mahát tád asya paúṃsiyaṃ  
-vr̥tráṃ jaghanvā́m̐ asr̥jad  
-árcann ánu svarā́jiyam  
+इ꣡न्द्रो वृत्र꣡स्य त꣡विषीं  
+नि꣡र् अहन् स꣡हसा स꣡हः  
+मह꣡त् त꣡द् अस्य पउं꣡सियं  
+वृत्रं꣡ जघन्वाँ꣡ असृजद्  
+अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्  

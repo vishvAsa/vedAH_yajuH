@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-íṣyan vā́cam upavaktéva hótuḥ  
-punāná indo ví ṣiyā manīṣā́m  
-índraś ca yát kṣáyathaḥ saúbhagāya  
-suvī́riyasya pátayaḥ siyāma  
+इ꣡ष्यन् वा꣡चम् उपवक्ते꣡व हो꣡तुः  
+पुनान꣡ इन्दो वि꣡ षिया मनीषा꣡म्  
+इ꣡न्द्रश् च य꣡त् क्ष꣡यथः सउ꣡भगाय  
+सुवी꣡रियस्य प꣡तयः सियाम  

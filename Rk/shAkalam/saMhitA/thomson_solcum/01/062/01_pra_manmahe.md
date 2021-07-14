@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá manmahe śavasānā́ya śūṣám  
-āṅgūṣáṃ gírvaṇase aṅgirasvát  
-suvr̥ktíbhi stuvatá r̥gmiyā́ya  
-árcāma arkáṃ náre víśrutāya  
+प्र꣡ मन्महे शवसाना꣡य शूष꣡म्  
+आङ्गूषं꣡ गि꣡र्वणसे अङ्गिरस्व꣡त्  
+सुवृक्ति꣡भि स्तुवत꣡ ऋग्मिया꣡य  
+अ꣡र्चाम अर्कं꣡ न꣡रे वि꣡श्रुताय  

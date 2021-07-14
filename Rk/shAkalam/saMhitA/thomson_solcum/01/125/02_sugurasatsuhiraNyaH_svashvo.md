@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sugúr asat suhiraṇyáḥ suáśvo  
-br̥hád asmai váya índro dadhāti  
-yás tvāyántaṃ vásunā prātaritvo  
-mukṣī́jayeva pádim utsinā́ti  
+सुगु꣡र् असत् सुहिरण्यः꣡ सुअ꣡श्वो  
+बृह꣡द् अस्मै व꣡य इ꣡न्द्रो दधाति  
+य꣡स् त्वाय꣡न्तं व꣡सुना प्रातरित्वो  
+मुक्षी꣡जयेव प꣡दिम् उत्सिना꣡ति  

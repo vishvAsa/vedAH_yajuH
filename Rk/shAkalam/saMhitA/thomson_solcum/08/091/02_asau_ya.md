@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-asaú yá éṣi vīrakó  
-gr̥háṃ-gr̥haṃ vicā́kaśad  
-imáṃ jámbhasutam piba  
-dhānā́vantaṃ karambhíṇam  
-apūpávantam ukthínam  
+असउ꣡ य꣡ ए꣡षि वीरको꣡  
+गृहं꣡-गृहं विचा꣡कशद्  
+इमं꣡ ज꣡म्भसुतम् पिब  
+धाना꣡वन्तं करम्भि꣡णम्  
+अपूप꣡वन्तम् उक्थि꣡नम्  

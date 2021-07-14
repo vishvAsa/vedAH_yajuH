@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ā́ no agne vayovŕ̥dhaṃ  
-rayím pavāka+ śáṃsiyam  
-rā́svā ca na upamāte puruspŕ̥haṃ  
-súnītī sváyaśastaram  
+आ꣡ नो अग्ने वयोव्ŕ̥धं  
+रयि꣡म् पवाक+ शं꣡सियम्  
+रा꣡स्वा च न उपमाते पुरुस्प्ŕ̥हं  
+सु꣡नीती स्व꣡यशस्तरम्  

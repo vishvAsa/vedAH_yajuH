@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tr̥ṇaskandásya nú víśaḥ  
-pári vr̥ṅkta sudānavaḥ  
-ūrdhvā́n naḥ karta jīváse  
+तृणस्कन्द꣡स्य नु꣡ वि꣡शः  
+प꣡रि वृङ्क्त सुदानवः  
+ऊर्ध्वा꣡न् नः कर्त जीव꣡से  

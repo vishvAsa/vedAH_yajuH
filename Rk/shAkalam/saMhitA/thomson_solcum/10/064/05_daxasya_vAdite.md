@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-dákṣasya vā adite jánmani vraté  
-rā́jānā mitrā́váruṇā́ vivāsasi  
-átūrtapanthāḥ pururátho aryamā́  
-saptáhotā víṣurūpeṣu jánmasu  
+द꣡क्षस्य वा अदिते ज꣡न्मनि व्रते꣡  
+रा꣡जाना मित्रा꣡व꣡रुणा꣡ विवाससि  
+अ꣡तूर्तपन्थाः पुरुर꣡थो अर्यमा꣡  
+सप्त꣡होता वि꣡षुरूपेषु ज꣡न्मसु  

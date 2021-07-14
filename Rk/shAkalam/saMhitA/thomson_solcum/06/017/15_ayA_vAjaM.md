@@ -2,5 +2,5 @@
 title = "015"
 
 +++
-ayā́ vā́jaṃ deváhitaṃ sanema  
-mádema · śatáhimāḥ suvī́rāḥ  
+अया꣡ वा꣡जं देव꣡हितं सनेम  
+म꣡देम · शत꣡हिमाः सुवी꣡राः  

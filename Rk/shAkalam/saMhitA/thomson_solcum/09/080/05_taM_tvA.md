@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-táṃ tvā hastíno mádhumantam ádribhir  
-duhánti apsú vr̥ṣabháṃ dáśa kṣípaḥ  
-índraṃ soma mādáyan daíviyaṃ jánaṃ  
-síndhor ivormíḥ pávamāno arṣasi  
+तं꣡ त्वा हस्ति꣡नो म꣡धुमन्तम् अ꣡द्रिभिर्  
+दुह꣡न्ति अप्सु꣡ वृषभं꣡ द꣡श क्षि꣡पः  
+इ꣡न्द्रं सोम माद꣡यन् दइ꣡वियं ज꣡नं  
+सि꣡न्धोर् इवोर्मिः꣡ प꣡वमानो अर्षसि  

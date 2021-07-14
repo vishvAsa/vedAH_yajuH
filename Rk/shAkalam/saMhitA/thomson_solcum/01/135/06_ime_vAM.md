@@ -2,10 +2,10 @@
 title = "006"
 
 +++
-imé vāṃ sómā apsú ā́ sutā́ ihá  
-adhvaryúbhir bháramāṇā ayaṃsata  
-vā́yo śukrā́ ayaṃsata  
-eté vām abhy àsr̥kṣata  
-tiráḥ pavítram āśávaḥ  
-yuvāyávo áti rómāṇi avyáyā  
-sómāso áti avyáyā  
+इमे꣡ वां सो꣡मा अप्सु꣡ आ꣡ सुता꣡ इह꣡  
+अध्वर्यु꣡भिर् भ꣡रमाणा अयंसत  
+वा꣡यो शुक्रा꣡ अयंसत  
+एते꣡ वाम् अभ्य् अ᳡सृक्षत  
+तिरः꣡ पवि꣡त्रम् आश꣡वः  
+युवाय꣡वो अ꣡ति रो꣡माणि अव्य꣡या  
+सो꣡मासो अ꣡ति अव्य꣡या  

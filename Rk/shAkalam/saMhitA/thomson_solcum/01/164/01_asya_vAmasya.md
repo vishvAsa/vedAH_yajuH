@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-asyá vāmásya palitásya hótus  
-tásya bhrā́tā madhyamó asti áśnaḥ  
-tr̥tī́yo bhrā́tā ghr̥tápr̥ṣṭho asya  
-átrāpaśyaṃ viśpátiṃ saptáputram  
+अस्य꣡ वाम꣡स्य पलित꣡स्य हो꣡तुस्  
+त꣡स्य भ्रा꣡ता मध्यमो꣡ अस्ति अ꣡श्नः  
+तृती꣡यो भ्रा꣡ता घृत꣡पृष्ठो अस्य  
+अ꣡त्रापश्यं विश्प꣡तिं सप्त꣡पुत्रम्  

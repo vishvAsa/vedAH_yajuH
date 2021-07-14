@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-sóma íd vaḥ sutó astu  
-kálayo mā́ bibhītana  
-ápéd eṣá dhvasmā́yati  
-svayáṃ ghaiṣó ápāyati  
+सो꣡म इ꣡द् वः सुतो꣡ अस्तु  
+क꣡लयो मा꣡ बिभीतन  
+अ꣡पे꣡द् एष꣡ ध्वस्मा꣡यति  
+स्वयं꣡ घैषो꣡ अ꣡पायति  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-aurvabhr̥guvác chúcim  
-apnavānavád ā́ huve  
-agníṃ samudrávāsasam  
+और्वभृगुव꣡च् छु꣡चिम्  
+अप्नवानव꣡द् आ꣡ हुवे  
+अग्निं꣡ समुद्र꣡वाससम्  

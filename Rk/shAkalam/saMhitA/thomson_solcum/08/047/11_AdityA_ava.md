@@ -2,9 +2,9 @@
 title = "011"
 
 +++
-ā́dityā áva hí khyáta  
-ádhi kū́lād iva spáśaḥ  
-sutīrthám árvato yathā  
-ánu no neṣathā sugám  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+आ꣡दित्या अ꣡व हि꣡ ख्य꣡त  
+अ꣡धि कू꣡लाद् इव स्प꣡शः  
+सुतीर्थ꣡म् अ꣡र्वतो यथा  
+अ꣡नु नो नेषथा सुग꣡म्  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ādityā́so áditayaḥ siyāma  
-pū́r devatrā́ vasavo martiyatrā́  
-sánema mitrāvaruṇā sánanto  
-bhávema dyāvāpr̥thivī bhávantaḥ  
+आदित्या꣡सो अ꣡दितयः सियाम  
+पू꣡र् देवत्रा꣡ वसवो मर्तियत्रा꣡  
+स꣡नेम मित्रावरुणा स꣡नन्तो  
+भ꣡वेम द्यावापृथिवी भ꣡वन्तः  

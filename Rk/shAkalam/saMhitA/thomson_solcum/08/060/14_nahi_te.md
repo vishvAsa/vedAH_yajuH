@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-nahí te agne vr̥ṣabha pratidhŕ̥ṣe  
-jámbhāso yád vitíṣṭhase  
-sá tváṃ no hotaḥ súhutaṃ havíṣ kr̥dhi  
-váṃsvā no vā́riyā purú  
+नहि꣡ ते अग्ने वृषभ प्रतिध्ŕ̥षे  
+ज꣡म्भासो य꣡द् विति꣡ष्ठसे  
+स꣡ त्वं꣡ नो होतः सु꣡हुतं हवि꣡ष् कृधि  
+वं꣡स्वा नो वा꣡रिया पुरु꣡  

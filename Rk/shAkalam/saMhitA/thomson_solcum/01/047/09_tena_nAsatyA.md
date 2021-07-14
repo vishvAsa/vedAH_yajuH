@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-téna nāsatiyā́ gataṃ  
-ráthena sū́riyatvacā  
-yéna śáśvad ūháthur dāśúṣe vásu  
-mádhvaḥ sómasya pītáye  
+ते꣡न नासतिया꣡ गतं  
+र꣡थेन सू꣡रियत्वचा  
+ये꣡न श꣡श्वद् ऊह꣡थुर् दाशु꣡षे व꣡सु  
+म꣡ध्वः सो꣡मस्य पीत꣡ये  

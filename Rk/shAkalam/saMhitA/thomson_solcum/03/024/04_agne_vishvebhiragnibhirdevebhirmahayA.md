@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ágne víśvebhir agníbhir  
-devébhir mahayā gíraḥ  
-yajñéṣu yá u cāyávaḥ  
+अ꣡ग्ने वि꣡श्वेभिर् अग्नि꣡भिर्  
+देवे꣡भिर् महया गि꣡रः  
+यज्ञे꣡षु य꣡ उ चाय꣡वः  

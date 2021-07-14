@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ánarśarātiṃ vasudā́m úpa stuhi  
-bhadrā́ índrasya rātáyaḥ  
-só asya kā́maṃ vidható ná roṣati  
-máno dānā́ya codáyan  
+अ꣡नर्शरातिं वसुदा꣡म् उ꣡प स्तुहि  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  
+सो꣡ अस्य का꣡मं विधतो꣡ न꣡ रोषति  
+म꣡नो दाना꣡य चोद꣡यन्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-śunám aṣṭrāví acarat kapardī́  
-varatrā́yāṃ dā́ru ānáhyamānaḥ  
-nr̥mṇā́ni kr̥ṇván baháve jánāya  
-gā́ḥ paspaśānás táviṣīr adhatta  
+शुन꣡म् अष्ट्रावि꣡ अचरत् कपर्दी꣡  
+वरत्रा꣡यां दा꣡रु आन꣡ह्यमानः  
+नृम्णा꣡नि कृण्व꣡न् बह꣡वे ज꣡नाय  
+गाः꣡ पस्पशान꣡स् त꣡विषीर् अधत्त  

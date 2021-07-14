@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-sá jāyata prathamáḥ pastíyāsu  
-mahó budhné rájaso asyá yónau  
-apā́d aśīrṣā́ guhámāno ántā  
-ā́yóyuvāno vr̥ṣabhásya nīḷé  
+स꣡ जायत प्रथमः꣡ पस्ति꣡यासु  
+महो꣡ बुध्ने꣡ र꣡जसो अस्य꣡ यो꣡नौ  
+अपा꣡द् अशीर्षा꣡ गुह꣡मानो अ꣡न्ता  
+आ꣡यो꣡युवानो वृषभ꣡स्य नीऌए꣡  

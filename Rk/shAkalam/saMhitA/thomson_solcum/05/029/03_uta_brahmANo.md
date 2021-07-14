@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-utá brahmāṇo maruto me asyá  
-índraḥ sómasya súṣutasya peyāḥ  
-tád dhí havyám mánuṣe gā́ ávindad  
-áhann áhim papivā́m̐ índro asya  
+उत꣡ ब्रह्माणो मरुतो मे अस्य꣡  
+इ꣡न्द्रः सो꣡मस्य सु꣡षुतस्य पेयाः  
+त꣡द् धि꣡ हव्य꣡म् म꣡नुषे गा꣡ अ꣡विन्दद्  
+अ꣡हन्न् अ꣡हिम् पपिवाँ꣡ इ꣡न्द्रो अस्य  

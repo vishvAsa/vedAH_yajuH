@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-kr̥táṃ no yajñáṃ vidátheṣu cā́ruṃ  
-kr̥tám bráhmāṇi sūríṣu praśastā́  
-úpo rayír devájūto na etu  
-prá ṇa spārhā́bhir ūtíbhis tiretam  
+कृतं꣡ नो यज्ञं꣡ विद꣡थेषु चा꣡रुं  
+कृत꣡म् ब्र꣡ह्माणि सूरि꣡षु प्रशस्ता꣡  
+उ꣡पो रयि꣡र् देव꣡जूतो न एतु  
+प्र꣡ ण स्पार्हा꣡भिर् ऊति꣡भिस् तिरेतम्  

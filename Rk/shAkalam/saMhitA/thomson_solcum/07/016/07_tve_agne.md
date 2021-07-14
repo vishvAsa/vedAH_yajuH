@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuvé agne suāhuta  
-priyā́saḥ santu sūráyaḥ  
-yantā́ro yé maghávāno jánānãm  
-ūrvā́n dáyanta gónãm  
+तुवे꣡ अग्ने सुआहुत  
+प्रिया꣡सः सन्तु सूर꣡यः  
+यन्ता꣡रो ये꣡ मघ꣡वानो ज꣡नान्ãम्  
+ऊर्वा꣡न् द꣡यन्त गो꣡न्ãम्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-dhr̥távrato dhanadā́ḥ sómavr̥ddhaḥ  
-sá hí vāmásya vásunaḥ purukṣúḥ  
-sáṃ jagmire pathíyā rā́yo asmin  
-samudré ná síndhavo yā́damānāḥ  
+धृत꣡व्रतो धनदाः꣡ सो꣡मवृद्धः  
+स꣡ हि꣡ वाम꣡स्य व꣡सुनः पुरुक्षुः꣡  
+सं꣡ जग्मिरे पथि꣡या रा꣡यो अस्मिन्  
+समुद्रे꣡ न꣡ सि꣡न्धवो या꣡दमानाः  

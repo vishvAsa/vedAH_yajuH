@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yáṃ kumāra návaṃ rátham  
-acakrám mánasā́kr̥ṇoḥ  
-ékeṣaṃ viśvátaḥ prā́ñcam  
-ápaśyann ádhi tiṣṭhasi  
+यं꣡ कुमार न꣡वं र꣡थम्  
+अचक्र꣡म् म꣡नसा꣡कृणोः  
+ए꣡केषं विश्व꣡तः प्रा꣡ञ्चम्  
+अ꣡पश्यन्न् अ꣡धि तिष्ठसि  

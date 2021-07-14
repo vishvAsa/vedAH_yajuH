@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-svādúḥ pavasva diviyā́ya jánmane  
-svādúr índrāya suhávītunāmane  
-svādúr mitrā́ya váruṇāya vāyáve  
-bŕ̥haspátaye mádhumām̐ ádābhiyaḥ  
+स्वादुः꣡ पवस्व दिविया꣡य ज꣡न्मने  
+स्वादु꣡र् इ꣡न्द्राय सुह꣡वीतुनामने  
+स्वादु꣡र् मित्रा꣡य व꣡रुणाय वाय꣡वे  
+ब्ŕ̥हस्प꣡तये म꣡धुमाँ अ꣡दाभियः  

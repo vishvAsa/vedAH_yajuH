@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-imám me stómam aśvinā  
-imám me śr̥ṇutaṃ hávam  
-mádhvaḥ sómasya pītáye  
+इम꣡म् मे स्तो꣡मम् अश्विना  
+इम꣡म् मे शृणुतं ह꣡वम्  
+म꣡ध्वः सो꣡मस्य पीत꣡ये  

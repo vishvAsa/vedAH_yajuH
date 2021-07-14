@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ādityā́ rudrā́ vásavaḥ sunīthā́  
-dyā́vākṣā́mā pr̥thivī́ antárikṣam  
-sajóṣaso yajñám avantu devā́  
-ūrdhváṃ kr̥ṇvantu adhvarásya ketúm  
+आदित्या꣡ रुद्रा꣡ व꣡सवः सुनीथा꣡  
+द्या꣡वाक्षा꣡मा पृथिवी꣡ अन्त꣡रिक्षम्  
+सजो꣡षसो यज्ञ꣡म् अवन्तु देवा꣡  
+ऊर्ध्वं꣡ कृण्वन्तु अध्वर꣡स्य केतु꣡म्  

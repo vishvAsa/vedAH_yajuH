@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-satrā́ sómā abhavann asya víśve  
-satrā́ mádāso br̥ható mádiṣṭhāḥ  
-satrā́bhavo vásupatir vásūnāṃ  
-dátre víśvā adhithā indra kr̥ṣṭī́ḥ  
+सत्रा꣡ सो꣡मा अभवन्न् अस्य वि꣡श्वे  
+सत्रा꣡ म꣡दासो बृहतो꣡ म꣡दिष्ठाः  
+सत्रा꣡भवो व꣡सुपतिर् व꣡सूनां  
+द꣡त्रे वि꣡श्वा अधिथा इन्द्र कृष्टीः꣡  

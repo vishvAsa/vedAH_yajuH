@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-carúr ná yás tám īṅkhaya  
-índo ná dā́nam īṅkhaya  
-vadhaír vadhasnav īṅkhaya  
+चरु꣡र् न꣡ य꣡स् त꣡म् ईङ्खय  
+इ꣡न्दो न꣡ दा꣡नम् ईङ्खय  
+वधइ꣡र् वधस्नव् ईङ्खय  

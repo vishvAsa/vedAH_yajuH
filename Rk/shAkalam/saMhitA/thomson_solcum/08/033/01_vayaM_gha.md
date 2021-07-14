@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vayáṃ gha tvā sutā́vanta  
-ā́po ná vr̥ktábarhiṣaḥ  
-pavítrasya prasrávaṇeṣu vr̥trahan  
-pári stotā́ra āsate  
+वयं꣡ घ त्वा सुता꣡वन्त  
+आ꣡पो न꣡ वृक्त꣡बर्हिषः  
+पवि꣡त्रस्य प्रस्र꣡वणेषु वृत्रहन्  
+प꣡रि स्तोता꣡र आसते  

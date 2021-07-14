@@ -2,9 +2,9 @@
 title = "009"
 
 +++
-agnís trī́ṇi tridhā́tūni  
-ā́ kṣeti vidáthā kavíḥ  
-sá trī́m̐r ekādaśā́m̐ ihá  
-yákṣac ca pipráyac ca no  
-vípro dūtáḥ páriṣkr̥to  
-nábhantām anyaké same  
+अग्नि꣡स् त्री꣡णि त्रिधा꣡तूनि  
+आ꣡ क्षेति विद꣡था कविः꣡  
+स꣡ त्रीँ꣡र् एकादशाँ꣡ इह꣡  
+य꣡क्षच् च पिप्र꣡यच् च नो  
+वि꣡प्रो दूतः꣡ प꣡रिष्कृतो  
+न꣡भन्ताम् अन्यके꣡ समे  

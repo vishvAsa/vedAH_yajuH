@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yád ū́vadhyam udárasyāpavā́ti  
-yá āmásya kravíṣo gandhó ásti  
-sukr̥tā́ tác chamitā́raḥ kr̥ṇvantu  
-utá médhaṃ śr̥tapā́kam pacantu  
+य꣡द् ऊ꣡वध्यम् उद꣡रस्यापवा꣡ति  
+य꣡ आम꣡स्य क्रवि꣡षो गन्धो꣡ अ꣡स्ति  
+सुकृता꣡ त꣡च् छमिता꣡रः कृण्वन्तु  
+उत꣡ मे꣡धं शृतपा꣡कम् पचन्तु  

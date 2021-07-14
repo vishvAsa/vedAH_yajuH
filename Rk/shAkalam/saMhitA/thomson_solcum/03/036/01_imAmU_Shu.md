@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imā́m ū ṣú prábhr̥tiṃ sātáye dhāḥ  
-śáśvac-chaśvad ūtíbhir yā́damānaḥ  
-suté-sute vāvr̥dhe várdhanebhir  
-yáḥ kármabhir mahádbhiḥ súśruto bhū́t  
+इमा꣡म् ऊ षु꣡ प्र꣡भृतिं सात꣡ये धाः  
+श꣡श्वच्-छश्वद् ऊति꣡भिर् या꣡दमानः  
+सुते꣡-सुते वावृधे व꣡र्धनेभिर्  
+यः꣡ क꣡र्मभिर् मह꣡द्भिः सु꣡श्रुतो भू꣡त्  

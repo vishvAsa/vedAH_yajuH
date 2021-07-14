@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-méhanād vanaṃkáraṇāl  
-lómabhyas te nakhébhiyaḥ  
-yákṣmaṃ sárvasmād ātmánas  
-tám idáṃ ví vr̥hāmi te  
+मे꣡हनाद् वनंक꣡रणाल्  
+लो꣡मभ्यस् ते नखे꣡भियः  
+य꣡क्ष्मं स꣡र्वस्माद् आत्म꣡नस्  
+त꣡म् इदं꣡ वि꣡ वृहामि ते  

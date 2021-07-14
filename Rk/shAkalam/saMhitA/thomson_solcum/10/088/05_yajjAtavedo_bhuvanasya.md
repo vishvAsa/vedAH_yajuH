@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yáj jātavedo bhúvanasya mūrdhánn  
-átiṣṭho agne sahá rocanéna  
-táṃ tvāhema matíbhir gīrbhír ukthaíḥ  
-sá yajñíyo abhavo rodasiprā́ḥ  
+य꣡ज् जातवेदो भु꣡वनस्य मूर्ध꣡न्न्  
+अ꣡तिष्ठो अग्ने सह꣡ रोचने꣡न  
+तं꣡ त्वाहेम मति꣡भिर् गीर्भि꣡र् उक्थइः꣡  
+स꣡ यज्ञि꣡यो अभवो रोदसिप्राः꣡  

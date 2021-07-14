@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-tváyā ha svid yujā́ vayám  
-práti śvasántaṃ vr̥ṣabha bruvīmahi  
-saṃsthé jánasya gómataḥ  
+त्व꣡या ह स्विद् युजा꣡ वय꣡म्  
+प्र꣡ति श्वस꣡न्तं वृषभ ब्रुवीमहि  
+संस्थे꣡ ज꣡नस्य गो꣡मतः  

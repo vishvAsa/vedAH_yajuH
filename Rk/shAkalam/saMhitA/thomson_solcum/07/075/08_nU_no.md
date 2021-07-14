@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-nū́ no gómad vīrávad dhehi rátnam  
-úṣo áśvāvad purubhójo asmé  
-mā́ no barhíḥ puruṣátā nidé kar  
-yūyám pāta suastíbhiḥ sádā naḥ  
+नू꣡ नो गो꣡मद् वीर꣡वद् धेहि र꣡त्नम्  
+उ꣡षो अ꣡श्वावद् पुरुभो꣡जो अस्मे꣡  
+मा꣡ नो बर्हिः꣡ पुरुष꣡ता निदे꣡ कर्  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

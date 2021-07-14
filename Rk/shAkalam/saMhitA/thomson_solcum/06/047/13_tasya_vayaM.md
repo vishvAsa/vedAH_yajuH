@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tásya vayáṃ sumataú yajñíyasya  
-ápi bhadré saumanasé siyāma  
-sá sutrā́mā suávām̐ índro asmé  
-ārā́c cid dvéṣaḥ sanutár yuyotu  
+त꣡स्य वयं꣡ सुमतउ꣡ यज्ञि꣡यस्य  
+अ꣡पि भद्रे꣡ सौमनसे꣡ सियाम  
+स꣡ सुत्रा꣡मा सुअ꣡वाँ इ꣡न्द्रो अस्मे꣡  
+आरा꣡च् चिद् द्वे꣡षः सनुत꣡र् युयोतु  

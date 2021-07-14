@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-apaghnán pavase mŕ̥dhaḥ  
-kratuvít soma matsaráḥ  
-nudásvā́devayuṃ jánam  
+अपघ्न꣡न् पवसे म्ŕ̥धः  
+क्रतुवि꣡त् सोम मत्सरः꣡  
+नुद꣡स्वा꣡देवयुं ज꣡नम्  

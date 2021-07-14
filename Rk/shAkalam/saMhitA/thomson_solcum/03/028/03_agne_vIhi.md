@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ágne vīhí puroḷā́śam  
-ā́hutaṃ tiróahniyam  
-sáhasaḥ sūnúr asi adhvaré hitáḥ  
+अ꣡ग्ने वीहि꣡ पुरोऌआ꣡शम्  
+आ꣡हुतं तिरो꣡अह्नियम्  
+स꣡हसः सूनु꣡र् असि अध्वरे꣡ हितः꣡  

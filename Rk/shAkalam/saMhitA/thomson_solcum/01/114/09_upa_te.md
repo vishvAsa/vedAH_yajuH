@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-úpa te stómān paśupā́ ivā́karaṃ  
-rā́svā pitar marutāṃ sumnám asmé  
-bhadrā́ hí te sumatír mr̥̄ḷayáttamā+  
-áthā vayám áva ít te vr̥ṇīmahe  
+उ꣡प ते स्तो꣡मान् पशुपा꣡ इवा꣡करं  
+रा꣡स्वा पितर् मरुतां सुम्न꣡म् अस्मे꣡  
+भद्रा꣡ हि꣡ ते सुमति꣡र् मॄऌअय꣡त्तमा+  
+अ꣡था वय꣡म् अ꣡व इ꣡त् ते वृणीमहे  

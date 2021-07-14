@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-utá svānā́so diví ṣantu agnés  
-tigmā́yudhā rákṣase hántavā́ u  
-máde cid asya prá rujanti bhā́mā  
-ná varante paribā́dho ádevīḥ  
+उत꣡ स्वाना꣡सो दिवि꣡ षन्तु अग्ने꣡स्  
+तिग्मा꣡युधा र꣡क्षसे ह꣡न्तवा꣡ उ  
+म꣡दे चिद् अस्य प्र꣡ रुजन्ति भा꣡मा  
+न꣡ वरन्ते परिबा꣡धो अ꣡देवीः  

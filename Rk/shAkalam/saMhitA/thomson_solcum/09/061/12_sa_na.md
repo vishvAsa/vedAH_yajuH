@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-sá na índrāya yájyave  
-váruṇāya marúdbhiyaḥ  
-varivovít pári srava  
+स꣡ न इ꣡न्द्राय य꣡ज्यवे  
+व꣡रुणाय मरु꣡द्भियः  
+वरिवोवि꣡त् प꣡रि स्रव  

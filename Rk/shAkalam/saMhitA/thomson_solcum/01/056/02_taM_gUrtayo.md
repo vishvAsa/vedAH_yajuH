@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-táṃ gūrtáyo nemanníṣaḥ párīṇasaḥ  
-samudráṃ ná saṃcáraṇe saniṣyávaḥ  
-pátiṃ dákṣasya vidáthasya nū́ sáho  
-giríṃ ná venā́ ádhi roha téjasā  
+तं꣡ गूर्त꣡यो नेमन्नि꣡षः प꣡रीणसः  
+समुद्रं꣡ न꣡ संच꣡रणे सनिष्य꣡वः  
+प꣡तिं द꣡क्षस्य विद꣡थस्य नू꣡ स꣡हो  
+गिरिं꣡ न꣡ वेना꣡ अ꣡धि रोह ते꣡जसा  

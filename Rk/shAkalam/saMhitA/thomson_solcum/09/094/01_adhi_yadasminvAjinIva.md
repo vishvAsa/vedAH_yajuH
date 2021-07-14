@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ádhi yád asmin vājínīva śúbha  
-spárdhante dhíyaḥ sū́riye ná víśaḥ  
-apó vr̥ṇānáḥ pavate kavīyán  
-vrajáṃ ná paśuvárdhanāya mánma  
+अ꣡धि य꣡द् अस्मिन् वाजि꣡नीव शु꣡भ  
+स्प꣡र्धन्ते धि꣡यः सू꣡रिये न꣡ वि꣡शः  
+अपो꣡ वृणानः꣡ पवते कवीय꣡न्  
+व्रजं꣡ न꣡ पशुव꣡र्धनाय म꣡न्म  

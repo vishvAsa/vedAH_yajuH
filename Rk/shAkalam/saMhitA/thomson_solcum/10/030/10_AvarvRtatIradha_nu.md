@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-āvárvr̥tatīr ádha nú dvidhā́rā  
-goṣuyúdho ná niyaváṃ cárantīḥ  
-ŕ̥ṣe jánitrīr bhúvanasya pátnīr  
-apó vandasva savŕ̥dhaḥ sáyonīḥ  
+आव꣡र्वृततीर् अ꣡ध नु꣡ द्विधा꣡रा  
+गोषुयु꣡धो न꣡ नियवं꣡ च꣡रन्तीः  
+ŕ̥षे ज꣡नित्रीर् भु꣡वनस्य प꣡त्नीर्  
+अपो꣡ वन्दस्व सव्ŕ̥धः स꣡योनीः  

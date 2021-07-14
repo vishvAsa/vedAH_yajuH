@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ná pañcábhir daśábhir vaṣṭi ārábhaṃ  
-nā́sunvatā sacate púṣyatā caná  
-jinā́ti véd amuyā́ hánti vā dhúnir  
-ā́ devayúm bhajati gómati vrajé  
+न꣡ पञ्च꣡भिर् दश꣡भिर् वष्टि आर꣡भं  
+ना꣡सुन्वता सचते पु꣡ष्यता चन꣡  
+जिना꣡ति वे꣡द् अमुया꣡ ह꣡न्ति वा धु꣡निर्  
+आ꣡ देवयु꣡म् भजति गो꣡मति व्रजे꣡  

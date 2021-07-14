@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-té asya santu ketávo ámr̥tyavo  
-ádābhiyāso janúṣī ubhé ánu  
-yébhir nr̥mṇā́ ca devíyā ca punatá  
-ā́d íd rā́jānam manánā agr̥bhṇata  
+ते꣡ अस्य सन्तु केत꣡वो अ꣡मृत्यवो  
+अ꣡दाभियासो जनु꣡षी उभे꣡ अ꣡नु  
+ये꣡भिर् नृम्णा꣡ च देवि꣡या च पुनत꣡  
+आ꣡द् इ꣡द् रा꣡जानम् मन꣡ना अगृभ्णत  

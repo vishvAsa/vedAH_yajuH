@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ní yé riṇánti ójasā  
-vŕ̥thā gā́vo ná durdhúraḥ  
-áśmānaṃ cit svaríyam párvataṃ girím  
-prá cyāvayanti yā́mabhiḥ  
+नि꣡ ये꣡ रिण꣡न्ति ओ꣡जसा  
+व्ŕ̥था गा꣡वो न꣡ दुर्धु꣡रः  
+अ꣡श्मानं चित् स्वरि꣡यम् प꣡र्वतं गिरि꣡म्  
+प्र꣡ च्यावयन्ति या꣡मभिः  

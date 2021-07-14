@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-dádhāmi te mádhuno bhakṣám ágre  
-hitás te bhāgáḥ sutó astu sómaḥ  
-ásaś ca tváṃ dakṣiṇatáḥ sákhā me  
-ádhā vr̥trā́ṇi jaṅghanāva bhū́ri  
+द꣡धामि ते म꣡धुनो भक्ष꣡म् अ꣡ग्रे  
+हित꣡स् ते भागः꣡ सुतो꣡ अस्तु सो꣡मः  
+अ꣡सश् च त्वं꣡ दक्षिणतः꣡ स꣡खा मे  
+अ꣡धा वृत्रा꣡णि जङ्घनाव भू꣡रि  

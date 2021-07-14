@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ vāṃ ráthaṃ yuvatís tiṣṭhad átra  
-juṣṭvī́ narā duhitā́ sū́riyasya  
-pári vām áśvā vápuṣaḥ pataṃgā́  
-váyo vahantu aruṣā́ abhī́ke  
+आ꣡ वां र꣡थं युवति꣡स् तिष्ठद् अ꣡त्र  
+जुष्ट्वी꣡ नरा दुहिता꣡ सू꣡रियस्य  
+प꣡रि वाम् अ꣡श्वा व꣡पुषः पतंगा꣡  
+व꣡यो वहन्तु अरुषा꣡ अभी꣡के  

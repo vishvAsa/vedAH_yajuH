@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-ayā́ cittó vipā́náyā  
-háriḥ pavasva dhā́rayā  
-yújaṃ vā́jeṣu codaya  
+अया꣡ चित्तो꣡ विपा꣡न꣡या  
+ह꣡रिः पवस्व धा꣡रया  
+यु꣡जं वा꣡जेषु चोदय  

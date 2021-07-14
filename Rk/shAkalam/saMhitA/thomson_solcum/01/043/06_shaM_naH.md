@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-śáṃ naḥ karati árvate  
-sugám meṣā́ya meṣíye  
-nŕ̥bhyo nā́ribhiyo gáve  
+शं꣡ नः करति अ꣡र्वते  
+सुग꣡म् मेषा꣡य मेषि꣡ये  
+न्ŕ̥भ्यो ना꣡रिभियो ग꣡वे  

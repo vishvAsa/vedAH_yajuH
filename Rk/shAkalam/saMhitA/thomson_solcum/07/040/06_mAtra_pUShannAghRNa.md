@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-mā́ átra pūṣan āghr̥ṇa irasyo  
-várūtrī yád rātiṣā́caś ca rā́san  
-mayobhúvo no árvanto ní pāntu  
-vr̥ṣṭím párijmā vã́to dadātu  
+मा꣡ अ꣡त्र पूषन् आघृण इरस्यो  
+व꣡रूत्री य꣡द् रातिषा꣡चश् च रा꣡सन्  
+मयोभु꣡वो नो अ꣡र्वन्तो नि꣡ पान्तु  
+वृष्टि꣡म् प꣡रिज्मा व्ã꣡तो ददातु  

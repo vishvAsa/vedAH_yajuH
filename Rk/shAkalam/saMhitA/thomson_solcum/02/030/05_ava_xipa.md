@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áva kṣipa divó áśmānam uccā́  
-yéna śátrum mandasānó nijū́rvāḥ  
-tokásya sātaú tánayasya bhū́rer  
-asmā́m̐ ardháṃ kr̥ṇutād indra gónām  
+अ꣡व क्षिप दिवो꣡ अ꣡श्मानम् उच्चा꣡  
+ये꣡न श꣡त्रुम् मन्दसानो꣡ निजू꣡र्वाः  
+तोक꣡स्य सातउ꣡ त꣡नयस्य भू꣡रेर्  
+अस्माँ꣡ अर्धं꣡ कृणुताद् इन्द्र गो꣡नाम्  

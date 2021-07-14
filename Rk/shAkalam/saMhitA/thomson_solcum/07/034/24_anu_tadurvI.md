@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-ánu tád urvī́ ródasī jihātām  
-ánu dyukṣó váruṇa índrasakhā  
-ánu víśve marúto yé sahā́so  
-rāyáḥ siyāma dharúṇaṃ dhiyádhyai  
+अ꣡नु त꣡द् उर्वी꣡ रो꣡दसी जिहाताम्  
+अ꣡नु द्युक्षो꣡ व꣡रुण इ꣡न्द्रसखा  
+अ꣡नु वि꣡श्वे मरु꣡तो ये꣡ सहा꣡सो  
+रायः꣡ सियाम धरु꣡णं धिय꣡ध्यै  

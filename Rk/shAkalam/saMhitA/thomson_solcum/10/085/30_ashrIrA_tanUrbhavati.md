@@ -2,7 +2,7 @@
 title = "030"
 
 +++
-aśrīrā́ tanū́r bhavati  
-rúśatī pāpáyāmuyā́  
-pátir yád vadhvò vā́sasā  
-svám áṅgam abhidhítsate  
+अश्रीरा꣡ तनू꣡र् भवति  
+रु꣡शती पाप꣡यामुया꣡  
+प꣡तिर् य꣡द् वध्वो᳡ वा꣡ससा  
+स्व꣡म् अ꣡ङ्गम् अभिधि꣡त्सते  

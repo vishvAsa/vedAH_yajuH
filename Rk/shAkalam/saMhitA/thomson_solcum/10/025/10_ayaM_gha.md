@@ -2,9 +2,9 @@
 title = "010"
 
 +++
-ayáṃ gha sá turó máda  
-índrasya vardhata priyáḥ  
-ayáṃ kakṣī́vato mahó  
-ví vo máde  
-matíṃ víprasya vardhayad  
-vívakṣase  
+अयं꣡ घ स꣡ तुरो꣡ म꣡द  
+इ꣡न्द्रस्य वर्धत प्रियः꣡  
+अयं꣡ कक्षी꣡वतो महो꣡  
+वि꣡ वो म꣡दे  
+मतिं꣡ वि꣡प्रस्य वर्धयद्  
+वि꣡वक्षसे  

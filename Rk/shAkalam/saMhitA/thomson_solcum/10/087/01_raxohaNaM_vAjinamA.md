@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-rakṣoháṇaṃ vājínam ā́ jigharmi  
-mitrám práthiṣṭham úpa yāmi śárma  
-śíśāno agníḥ krátubhiḥ sámiddhaḥ  
-sá no dívā sá riṣáḥ pātu náktam  
+रक्षोह꣡णं वाजि꣡नम् आ꣡ जिघर्मि  
+मित्र꣡म् प्र꣡थिष्ठम् उ꣡प यामि श꣡र्म  
+शि꣡शानो अग्निः꣡ क्र꣡तुभिः स꣡मिद्धः  
+स꣡ नो दि꣡वा स꣡ रिषः꣡ पातु न꣡क्तम्  

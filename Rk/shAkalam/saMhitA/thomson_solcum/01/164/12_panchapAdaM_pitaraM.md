@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-páñcapādam pitáraṃ dvā́daśākr̥tiṃ  
-divá āhuḥ páre árdhe purīṣíṇam  
-áthemé anyá úpare vicakṣaṇáṃ  
-saptácakre ṣáḷara āhur árpitam  
+प꣡ञ्चपादम् पित꣡रं द्वा꣡दशाकृतिं  
+दिव꣡ आहुः प꣡रे अ꣡र्धे पुरीषि꣡णम्  
+अ꣡थेमे꣡ अन्य꣡ उ꣡परे विचक्षणं꣡  
+सप्त꣡चक्रे ष꣡ऌअर आहुर् अ꣡र्पितम्  

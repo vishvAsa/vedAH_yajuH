@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-kṣápa usráś ca dīdihi  
-suagnáyas tváyā vayám  
-suvī́ras tuvám asmayúḥ  
+क्ष꣡प उस्र꣡श् च दीदिहि  
+सुअग्न꣡यस् त्व꣡या वय꣡म्  
+सुवी꣡रस् तुव꣡म् अस्मयुः꣡  

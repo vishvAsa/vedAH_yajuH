@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-táva bhramā́sa āśuyā́ patanti  
-ánu spr̥śa dhr̥ṣatā́ śóśucānaḥ  
-tápūṃṣi agne juhúvā pataṃgā́n  
-ásaṃdito ví sr̥ja víṣvag ulkā́ḥ  
+त꣡व भ्रमा꣡स आशुया꣡ पतन्ति  
+अ꣡नु स्पृश धृषता꣡ शो꣡शुचानः  
+त꣡पूंषि अग्ने जुहु꣡वा पतंगा꣡न्  
+अ꣡संदितो वि꣡ सृज वि꣡ष्वग् उल्काः꣡  

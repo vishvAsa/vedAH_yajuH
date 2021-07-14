@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yásyā rúśanto arcáyaḥ  
-práti bhadrā́ ádr̥kṣata  
-sā́ no rayíṃ viśvávāraṃ supéśasam  
-uṣā́ dadātu súgmiyam  
+य꣡स्या रु꣡शन्तो अर्च꣡यः  
+प्र꣡ति भद्रा꣡ अ꣡दृक्षत  
+सा꣡ नो रयिं꣡ विश्व꣡वारं सुपे꣡शसम्  
+उषा꣡ ददातु सु꣡ग्मियम्  

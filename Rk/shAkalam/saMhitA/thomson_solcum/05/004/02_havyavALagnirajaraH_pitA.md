@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-havyavā́ḷ agnír ajáraḥ pitā́ no  
-vibhúr vibhā́vā sudŕ̥śīko asmé  
-sugārhapatyā́ḥ sám íṣo didīhi  
-asmadríak sám mimīhi śrávāṃsi  
+हव्यवा꣡ऌ अग्नि꣡र् अज꣡रः पिता꣡ नो  
+विभु꣡र् विभा꣡वा सुद्ŕ̥शीको अस्मे꣡  
+सुगार्हपत्याः꣡ स꣡म् इ꣡षो दिदीहि  
+अस्मद्रि꣡अक् स꣡म् मिमीहि श्र꣡वांसि  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-úd ín nú asya ricyate  
-áṃśo dhánaṃ ná jigyúṣaḥ  
-yá índro hárivān ná dabhanti táṃ rípo  
-dákṣaṃ dadhāti somíni  
+उ꣡द् इ꣡न् नु꣡ अस्य रिच्यते  
+अं꣡शो ध꣡नं न꣡ जिग्यु꣡षः  
+य꣡ इ꣡न्द्रो ह꣡रिवान् न꣡ दभन्ति तं꣡ रि꣡पो  
+द꣡क्षं दधाति सोमि꣡नि  

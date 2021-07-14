@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ní tvā yajñásya sā́dhanam  
-ágne hótāram r̥tvíjam  
-manuṣvád deva dhīmahi prácetasaṃ  
-jīráṃ dūtám ámartiyam  
+नि꣡ त्वा यज्ञ꣡स्य सा꣡धनम्  
+अ꣡ग्ने हो꣡तारम् ऋत्वि꣡जम्  
+मनुष्व꣡द् देव धीमहि प्र꣡चेतसं  
+जीरं꣡ दूत꣡म् अ꣡मर्तियम्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mā́ no mitró váruṇo aryamā́yúr  
-índra r̥bhukṣā́ marútaḥ pári khyan  
-yád vājíno devájātasya sápteḥ  
-pravakṣyā́mo vidáthe vīríyāṇi  
+मा꣡ नो मित्रो꣡ व꣡रुणो अर्यमा꣡यु꣡र्  
+इ꣡न्द्र ऋभुक्षा꣡ मरु꣡तः प꣡रि ख्यन्  
+य꣡द् वाजि꣡नो देव꣡जातस्य स꣡प्तेः  
+प्रवक्ष्या꣡मो विद꣡थे वीरि꣡याणि  

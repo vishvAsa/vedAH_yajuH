@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-śagdhī́ no asyá yád dha paurám ā́vitha  
-dhíya indra síṣāsataḥ  
-śagdhí yáthā rúśamaṃ śyā́vakaṃ kŕ̥pam  
-índra prā́vaḥ súvarṇaram  
+शग्धी꣡ नो अस्य꣡ य꣡द् ध पौर꣡म् आ꣡विथ  
+धि꣡य इन्द्र सि꣡षासतः  
+शग्धि꣡ य꣡था रु꣡शमं श्या꣡वकं क्ŕ̥पम्  
+इ꣡न्द्र प्रा꣡वः सु꣡वर्णरम्  

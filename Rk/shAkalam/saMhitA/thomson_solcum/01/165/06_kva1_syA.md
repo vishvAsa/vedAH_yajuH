@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-kúva syā́ vo marutaḥ svadhā́ āsīd  
-yán mā́m ékaṃ samádhattāhihátye  
-aháṃ hí ūgrás taviṣás túviṣmān  
-víśvasya śátror ánamaṃ vadhasnaíḥ  
+कु꣡व स्या꣡ वो मरुतः स्वधा꣡ आसीद्  
+य꣡न् मा꣡म् ए꣡कं सम꣡धत्ताहिह꣡त्ये  
+अहं꣡ हि꣡ ऊग्र꣡स् तविष꣡स् तु꣡विष्मान्  
+वि꣡श्वस्य श꣡त्रोर् अ꣡नमं वधस्नइः꣡  

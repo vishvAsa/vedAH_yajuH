@@ -2,9 +2,9 @@
 title = "004"
 
 +++
-yó na indrābhíto jáno  
-vr̥kāyúr ādídeśati  
-adhaspadáṃ tám īṃ kr̥dhi  
-vibādhó asi sāsahír  
-nábhantām anyakéṣãṃ  
-jiyākā́ ádhi dhánvasu  
+यो꣡ न इन्द्राभि꣡तो ज꣡नो  
+वृकायु꣡र् आदि꣡देशति  
+अधस्पदं꣡ त꣡म् ईं कृधि  
+विबाधो꣡ असि सासहि꣡र्  
+न꣡भन्ताम् अन्यके꣡ष्ãं  
+जियाका꣡ अ꣡धि ध꣡न्वसु  

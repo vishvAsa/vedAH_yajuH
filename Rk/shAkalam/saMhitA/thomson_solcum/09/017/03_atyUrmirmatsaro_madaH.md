@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-átyūrmir matsaró mádaḥ  
-sómaḥ pavítre arṣati  
-vighnán rákṣāṃsi devayúḥ  
+अ꣡त्यूर्मिर् मत्सरो꣡ म꣡दः  
+सो꣡मः पवि꣡त्रे अर्षति  
+विघ्न꣡न् र꣡क्षांसि देवयुः꣡  

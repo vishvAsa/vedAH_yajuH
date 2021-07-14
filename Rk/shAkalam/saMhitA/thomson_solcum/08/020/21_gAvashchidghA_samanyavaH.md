@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-gā́vaś cid ghā samanyavaḥ  
-sajātíyena marutaḥ sábandhavaḥ  
-rihaté kakúbho mitháḥ  
+गा꣡वश् चिद् घा समन्यवः  
+सजाति꣡येन मरुतः स꣡बन्धवः  
+रिहते꣡ ककु꣡भो मिथः꣡  

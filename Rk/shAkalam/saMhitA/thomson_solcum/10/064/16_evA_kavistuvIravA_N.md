@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-evā́ kavís tuvīrávām̐ r̥tajñā́  
-draviṇasyúr dráviṇasaś cakānáḥ  
-ukthébhir átra matíbhiś ca vípro  
-ápīpayad gáyo divyā́ni jánma  
+एवा꣡ कवि꣡स् तुवीर꣡वाँ ऋतज्ञा꣡  
+द्रविणस्यु꣡र् द्र꣡विणसश् चकानः꣡  
+उक्थे꣡भिर् अ꣡त्र मति꣡भिश् च वि꣡प्रो  
+अ꣡पीपयद् ग꣡यो दिव्या꣡नि ज꣡न्म  

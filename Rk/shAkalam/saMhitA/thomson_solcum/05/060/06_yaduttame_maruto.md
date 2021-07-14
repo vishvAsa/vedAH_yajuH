@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yád uttamé maruto madhyamé vā  
-yád vāvamé subhagāso diví ṣṭhá  
-áto no rudrā utá vā nú asya  
-ágne vittā́d dhavíṣo yád yájāma  
+य꣡द् उत्तमे꣡ मरुतो मध्यमे꣡ वा  
+य꣡द् वावमे꣡ सुभगासो दिवि꣡ ष्ठ꣡  
+अ꣡तो नो रुद्रा उत꣡ वा नु꣡ अस्य  
+अ꣡ग्ने वित्ता꣡द् धवि꣡षो य꣡द् य꣡जाम  

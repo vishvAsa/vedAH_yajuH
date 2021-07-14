@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́ manīṣā́m antárikṣasya nŕ̥bhyaḥ  
-srucéva ghr̥táṃ juhavāma vidmánā  
-taraṇitvā́ yé pitúr asya saścirá  
-r̥bhávo vā́jam aruhan divó rájaḥ  
+आ꣡ मनीषा꣡म् अन्त꣡रिक्षस्य न्ŕ̥भ्यः  
+स्रुचे꣡व घृतं꣡ जुहवाम विद्म꣡ना  
+तरणित्वा꣡ ये꣡ पितु꣡र् अस्य सश्चिर꣡  
+ऋभ꣡वो वा꣡जम् अरुहन् दिवो꣡ र꣡जः  

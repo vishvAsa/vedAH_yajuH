@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-índraagnī yuvā́m imé  
-abhí stómā anūṣata  
-píbataṃ śambhuvā sutám  
+इ꣡न्द्रअग्नी युवा꣡म् इमे꣡  
+अभि꣡ स्तो꣡मा अनूषत  
+पि꣡बतं शम्भुवा सुत꣡म्  

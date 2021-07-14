@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ávocāma mahaté saúbhagāya satyáṃ  
-tveṣā́bhiyām mahimā́nam indriyám  
-asmā́n sú indrāvaruṇā ghr̥taścútas  
-tríbhiḥ sāptébhir avataṃ śubhas patī  
+अ꣡वोचाम महते꣡ सउ꣡भगाय सत्यं꣡  
+त्वेषा꣡भियाम् महिमा꣡नम् इन्द्रिय꣡म्  
+अस्मा꣡न् सु꣡ इन्द्रावरुणा घृतश्चु꣡तस्  
+त्रि꣡भिः साप्ते꣡भिर् अवतं शुभस् पती  

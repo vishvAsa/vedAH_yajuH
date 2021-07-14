@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá rbhúbhyo dūtám iva vā́cam iṣya  
-upastíre śvaítarīṃ dhenúm īḷe  
-yé vā́tajūtās taráṇibhir évaiḥ  
-pári dyā́ṃ sadyó apáso babhūvúḥ  
+प्र꣡ र्भु꣡भ्यो दूत꣡म् इव वा꣡चम् इष्य  
+उपस्ति꣡रे श्वइ꣡तरीं धेनु꣡म् ईऌए  
+ये꣡ वा꣡तजूतास् तर꣡णिभिर् ए꣡वैः  
+प꣡रि द्यां꣡ सद्यो꣡ अप꣡सो बभूवुः꣡  

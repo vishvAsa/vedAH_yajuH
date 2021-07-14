@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-trī́ṇi ta āhur diví bándhanāni  
-trī́ṇi apsú trī́ṇi antáḥ samudré  
-utéva me váruṇaś chantsi arvan  
-yátrā ta āhúḥ paramáṃ janítram  
+त्री꣡णि त आहुर् दिवि꣡ ब꣡न्धनानि  
+त्री꣡णि अप्सु꣡ त्री꣡णि अन्तः꣡ समुद्रे꣡  
+उते꣡व मे व꣡रुणश् छन्त्सि अर्वन्  
+य꣡त्रा त आहुः꣡ परमं꣡ जनि꣡त्रम्  

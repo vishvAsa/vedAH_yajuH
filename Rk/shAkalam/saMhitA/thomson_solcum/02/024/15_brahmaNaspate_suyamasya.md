@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-bráhmaṇas pate suyámasya viśváhā  
-rāyáḥ siyāma rathíyo váyasvataḥ  
-vīréṣu vīrā́m̐ úpa pr̥ndhi nas tuváṃ  
-yád ī́śāno bráhmaṇā véṣi me hávam  
+ब्र꣡ह्मणस् पते सुय꣡मस्य विश्व꣡हा  
+रायः꣡ सियाम रथि꣡यो व꣡यस्वतः  
+वीरे꣡षु वीराँ꣡ उ꣡प पृन्धि नस् तुवं꣡  
+य꣡द् ई꣡शानो ब्र꣡ह्मणा वे꣡षि मे ह꣡वम्  

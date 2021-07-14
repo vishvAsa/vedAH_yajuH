@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ūrdhvā́ dhītíḥ práti asya práyāmani  
-ádhāyi śásman sám ayanta ā́ díśaḥ  
-svádāmi gharmám práti yanti ūtáya  
-ā́ vām ūrjā́nī rátham aśvināruhat  
+ऊर्ध्वा꣡ धीतिः꣡ प्र꣡ति अस्य प्र꣡यामनि  
+अ꣡धायि श꣡स्मन् स꣡म् अयन्त आ꣡ दि꣡शः  
+स्व꣡दामि घर्म꣡म् प्र꣡ति यन्ति ऊत꣡य  
+आ꣡ वाम् ऊर्जा꣡नी र꣡थम् अश्विनारुहत्  

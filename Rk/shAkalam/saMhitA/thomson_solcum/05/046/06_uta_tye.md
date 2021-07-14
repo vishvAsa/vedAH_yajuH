@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-utá tyé naḥ párvatāsaḥ suśastáyaḥ  
-sudītáyo nadíyas trā́maṇe bhuvan  
-bhágo vibhaktā́ śávasā́vasā́ gamad  
-uruvyácā áditiḥ śrotu me hávam  
+उत꣡ त्ये꣡ नः प꣡र्वतासः सुशस्त꣡यः  
+सुदीत꣡यो नदि꣡यस् त्रा꣡मणे भुवन्  
+भ꣡गो विभक्ता꣡ श꣡वसा꣡वसा꣡ गमद्  
+उरुव्य꣡चा अ꣡दितिः श्रोतु मे ह꣡वम्  

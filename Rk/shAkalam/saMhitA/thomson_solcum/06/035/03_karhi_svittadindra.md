@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-kárhi svit tád indara+ yáj jaritré  
-viśvápsu bráhma kr̥ṇávaḥ śaviṣṭha  
-kadā́ dhíyo ná niyúto yuvāse  
-kadā́ gómaghā hávanāni gachāḥ  
+क꣡र्हि स्वित् त꣡द् इन्दर+ य꣡ज् जरित्रे꣡  
+विश्व꣡प्सु ब्र꣡ह्म कृण꣡वः शविष्ठ  
+कदा꣡ धि꣡यो न꣡ नियु꣡तो युवासे  
+कदा꣡ गो꣡मघा ह꣡वनानि गछाः  

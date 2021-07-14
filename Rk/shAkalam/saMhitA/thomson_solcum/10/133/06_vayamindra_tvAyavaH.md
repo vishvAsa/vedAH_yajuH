@@ -2,9 +2,9 @@
 title = "006"
 
 +++
-vayám indra tuvāyávaḥ  
-sakhitvám ā́ rabhāmahe  
-r̥tásya naḥ pathā́ naya  
-áti víśvāni duritā́  
-nábhantām anyakéṣãṃ  
-jiyākā́ ádhi dhánvasu  
+वय꣡म् इन्द्र तुवाय꣡वः  
+सखित्व꣡म् आ꣡ रभामहे  
+ऋत꣡स्य नः पथा꣡ नय  
+अ꣡ति वि꣡श्वानि दुरिता꣡  
+न꣡भन्ताम् अन्यके꣡ष्ãं  
+जियाका꣡ अ꣡धि ध꣡न्वसु  

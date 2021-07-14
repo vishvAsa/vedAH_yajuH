@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ na índro háribhir yātu ácha  
-arvācīnó ávase rā́dhase ca  
-tíṣṭhāti vajrī́ maghávā virapśī́  
-imáṃ yajñám ánu no vā́jasātau  
+आ꣡ न इ꣡न्द्रो ह꣡रिभिर् यातु अ꣡छ  
+अर्वाचीनो꣡ अ꣡वसे रा꣡धसे च  
+ति꣡ष्ठाति वज्री꣡ मघ꣡वा विरप्शी꣡  
+इमं꣡ यज्ञ꣡म् अ꣡नु नो वा꣡जसातौ  

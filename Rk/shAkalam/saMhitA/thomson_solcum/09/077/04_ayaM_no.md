@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ayáṃ no vidvā́n vanavad vanuṣyatá  
-índuḥ satrā́cā mánasā puruṣṭutáḥ  
-inásya yáḥ sádane gárbham ādadhé  
-gávām urubjám abhí árṣati vrajám  
+अयं꣡ नो विद्वा꣡न् वनवद् वनुष्यत꣡  
+इ꣡न्दुः सत्रा꣡चा म꣡नसा पुरुष्टुतः꣡  
+इन꣡स्य यः꣡ स꣡दने ग꣡र्भम् आदधे꣡  
+ग꣡वाम् उरुब्ज꣡म् अभि꣡ अ꣡र्षति व्रज꣡म्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yā́ti deváḥ pravátā yā́ti udvátā  
-yā́ti śubhrā́bhyāṃ yajató háribhyām  
-ā́ devó yāti savitā́ parāváto  
-ápa víśvā duritā́ bā́dhamānaḥ  
+या꣡ति देवः꣡ प्रव꣡ता या꣡ति उद्व꣡ता  
+या꣡ति शुभ्रा꣡भ्यां यजतो꣡ ह꣡रिभ्याम्  
+आ꣡ देवो꣡ याति सविता꣡ पराव꣡तो  
+अ꣡प वि꣡श्वा दुरिता꣡ बा꣡धमानः  

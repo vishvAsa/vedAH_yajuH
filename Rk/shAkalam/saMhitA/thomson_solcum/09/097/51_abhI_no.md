@@ -2,7 +2,7 @@
 title = "051"
 
 +++
-abhī́ no arṣa diviyā́ vásūni  
-abhí víśvā pā́rthivā pūyámānaḥ  
-abhí yéna dráviṇam aśnávāma  
-abhí ārṣeyáṃ jamadagniván naḥ  
+अभी꣡ नो अर्ष दिविया꣡ व꣡सूनि  
+अभि꣡ वि꣡श्वा पा꣡र्थिवा पूय꣡मानः  
+अभि꣡ ये꣡न द्र꣡विणम् अश्न꣡वाम  
+अभि꣡ आर्षेयं꣡ जमदग्निव꣡न् नः  

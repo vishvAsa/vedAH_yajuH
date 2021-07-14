@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ugrā́ sántā havāmaha  
-úpedáṃ sávanaṃ sutám  
-indrāgnī́ éhá gachatām  
+उग्रा꣡ स꣡न्ता हवामह  
+उ꣡पेदं꣡ स꣡वनं सुत꣡म्  
+इन्द्राग्नी꣡ ए꣡ह꣡ गछताम्  

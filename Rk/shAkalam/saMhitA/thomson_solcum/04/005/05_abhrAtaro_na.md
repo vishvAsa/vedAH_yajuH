@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-abhrātáro ná yóṣaṇo viántaḥ  
-patirípo ná jánayo durévāḥ  
-pāpā́saḥ sánto anr̥tā́ asatyā́  
-idám padám ajanatā gabhīrám  
+अभ्रात꣡रो न꣡ यो꣡षणो विअ꣡न्तः  
+पतिरि꣡पो न꣡ ज꣡नयो दुरे꣡वाः  
+पापा꣡सः स꣡न्तो अनृता꣡ असत्या꣡  
+इद꣡म् पद꣡म् अजनता गभीर꣡म्  

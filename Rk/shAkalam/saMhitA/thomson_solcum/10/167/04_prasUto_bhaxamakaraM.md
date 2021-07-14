@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prásūto bhakṣám akaraṃ carā́v ápi  
-stómaṃ cemám prathamáḥ sūrír ún mr̥je  
-suté sāténa yádi ā́gamaṃ vãm  
-práti viśvāmitrajamadagnī dáme  
+प्र꣡सूतो भक्ष꣡म् अकरं चरा꣡व् अ꣡पि  
+स्तो꣡मं चेम꣡म् प्रथमः꣡ सूरि꣡र् उ꣡न् मृजे  
+सुते꣡ साते꣡न य꣡दि आ꣡गमं व्ãम्  
+प्र꣡ति विश्वामित्रजमदग्नी द꣡मे  

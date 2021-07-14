@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-vr̥ṣāyánte mahé átyāya pūrvī́r  
-vŕ̥ṣṇe citrā́ya raśmáyaḥ suyāmā́ḥ  
-déva hotar mandrátaraś cikitvā́n  
-mahó devā́n ródasī éhá vakṣi  
+वृषाय꣡न्ते महे꣡ अ꣡त्याय पूर्वी꣡र्  
+व्ŕ̥ष्णे चित्रा꣡य रश्म꣡यः सुयामाः꣡  
+दे꣡व होतर् मन्द्र꣡तरश् चिकित्वा꣡न्  
+महो꣡ देवा꣡न् रो꣡दसी ए꣡ह꣡ वक्षि  

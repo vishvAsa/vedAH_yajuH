@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-aváḥ páreṇa pitáraṃ yó asya  
-anuvéda pará enā́vareṇa  
-kavīyámānaḥ ká ihá prá vocad  
-devám mánaḥ kúto ádhi prájātam  
+अवः꣡ प꣡रेण पित꣡रं यो꣡ अस्य  
+अनुवे꣡द पर꣡ एना꣡वरेण  
+कवीय꣡मानः क꣡ इह꣡ प्र꣡ वोचद्  
+देव꣡म् म꣡नः कु꣡तो अ꣡धि प्र꣡जातम्  

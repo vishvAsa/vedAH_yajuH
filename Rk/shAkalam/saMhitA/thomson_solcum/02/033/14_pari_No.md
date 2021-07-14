@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-pári ṇo hetī́ rudarásya+ vr̥jyāḥ  
-pári tveṣásya durmatír mahī́ gāt  
-áva sthirā́ maghávadbhyas tanuṣva  
-mī́ḍhvas tokā́ya tánayāya mr̥̄ḷa+  
+प꣡रि णो हेती꣡ रुदर꣡स्य+ वृज्याः  
+प꣡रि त्वेष꣡स्य दुर्मति꣡र् मही꣡ गात्  
+अ꣡व स्थिरा꣡ मघ꣡वद्भ्यस् तनुष्व  
+मी꣡ढ्वस् तोका꣡य त꣡नयाय मॄऌअ+  

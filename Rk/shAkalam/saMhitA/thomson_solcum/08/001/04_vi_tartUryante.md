@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ví tartūryante maghavan vipaścíto  
-aryó vípo jánānãm  
-úpa kramasva pururū́pam ā́ bhara  
-vā́jaṃ nédiṣṭham ūtáye  
+वि꣡ तर्तूर्यन्ते मघवन् विपश्चि꣡तो  
+अर्यो꣡ वि꣡पो ज꣡नान्ãम्  
+उ꣡प क्रमस्व पुरुरू꣡पम् आ꣡ भर  
+वा꣡जं ने꣡दिष्ठम् ऊत꣡ये  

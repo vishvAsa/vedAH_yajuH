@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-háyo ná vidvā́m̐ ayuji svayáṃ dhurí  
-tā́ṃ vahāmi pratáraṇīm avasyúvam  
-nā́syā vaśmi vimúcaṃ nā́vŕ̥tam púnar  
-vidvā́n patháḥ puraetá rjú neṣati  
+ह꣡यो न꣡ विद्वाँ꣡ अयुजि स्वयं꣡ धुरि꣡  
+तां꣡ वहामि प्रत꣡रणीम् अवस्यु꣡वम्  
+ना꣡स्या वश्मि विमु꣡चं ना꣡व्ŕ̥तम् पु꣡नर्  
+विद्वा꣡न् पथः꣡ पुरएत꣡ र्जु꣡ नेषति  

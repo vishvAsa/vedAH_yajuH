@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́ bhānúnā pā́rthivāni jráyāṃsi  
-mahás todásya dhr̥ṣatā́ tatantha  
-sá bādhasva ápa bhayā́ sáhobhi  
-spŕ̥dho vanuṣyán vanúṣo ní jūrva  
+आ꣡ भानु꣡ना पा꣡र्थिवानि ज्र꣡यांसि  
+मह꣡स् तोद꣡स्य धृषता꣡ ततन्थ  
+स꣡ बाधस्व अ꣡प भया꣡ स꣡होभि  
+स्प्ŕ̥धो वनुष्य꣡न् वनु꣡षो नि꣡ जूर्व  

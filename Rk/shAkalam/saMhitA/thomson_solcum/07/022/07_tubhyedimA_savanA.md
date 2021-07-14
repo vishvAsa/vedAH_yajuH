@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-túbhyéd imā́ sávanā śūra víśvā  
-túbhyam bráhmāṇi várdhanā kr̥ṇomi  
-tuváṃ nŕ̥bhir háviyo viśvádhāsi  
+तु꣡भ्ये꣡द् इमा꣡ स꣡वना शूर वि꣡श्वा  
+तु꣡भ्यम् ब्र꣡ह्माणि व꣡र्धना कृणोमि  
+तुवं꣡ न्ŕ̥भिर् ह꣡वियो विश्व꣡धासि  

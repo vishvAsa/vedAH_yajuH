@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ásunīte máno asmā́su dhāraya  
-jīvā́tave sú prá tirā na ā́yuḥ  
-rārandhí naḥ sū́riyasya saṃdŕ̥śi  
-ghr̥téna tváṃ tanúvaṃ vardhayasva  
+अ꣡सुनीते म꣡नो अस्मा꣡सु धारय  
+जीवा꣡तवे सु꣡ प्र꣡ तिरा न आ꣡युः  
+रारन्धि꣡ नः सू꣡रियस्य संद्ŕ̥शि  
+घृते꣡न त्वं꣡ तनु꣡वं वर्धयस्व  

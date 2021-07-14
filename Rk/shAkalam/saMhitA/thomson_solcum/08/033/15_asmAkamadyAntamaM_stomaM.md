@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-asmā́kam adyá ántamaṃ  
-stómaṃ dhiṣva mahāmaha  
-asmā́kaṃ te sávanā santu śáṃtamā  
-mádāya dyukṣa somapāḥ  
+अस्मा꣡कम् अद्य꣡ अ꣡न्तमं  
+स्तो꣡मं धिष्व महामह  
+अस्मा꣡कं ते स꣡वना सन्तु शं꣡तमा  
+म꣡दाय द्युक्ष सोमपाः  

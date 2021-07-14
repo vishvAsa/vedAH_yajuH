@@ -2,9 +2,9 @@
 title = "003"
 
 +++
-ágne mánmāni túbhya° káṃ  
-ghr̥táṃ ná juhva āsáni  
-sá devéṣu prá cikiddhi  
-tuváṃ hí ási pūrviyáḥ  
-śivó dūtó vivásvato  
-nábhantām anyaké same  
+अ꣡ग्ने म꣡न्मानि तु꣡भ्य° कं꣡  
+घृतं꣡ न꣡ जुह्व आस꣡नि  
+स꣡ देवे꣡षु प्र꣡ चिकिद्धि  
+तुवं꣡ हि꣡ अ꣡सि पूर्वियः꣡  
+शिवो꣡ दूतो꣡ विव꣡स्वतो  
+न꣡भन्ताम् अन्यके꣡ समे  

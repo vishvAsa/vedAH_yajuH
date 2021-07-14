@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vijeṣakŕ̥d índra ivānavabravó  
-asmā́kam manyo adhipā́ bhavehá  
-priyáṃ te nā́ma sahure gr̥ṇīmasi  
-vidmā́ tám útsaṃ yáta ābabhū́tha  
+विजेषक्ŕ̥द् इ꣡न्द्र इवानवब्रवो꣡  
+अस्मा꣡कम् मन्यो अधिपा꣡ भवेह꣡  
+प्रियं꣡ ते ना꣡म सहुरे गृणीमसि  
+विद्मा꣡ त꣡म् उ꣡त्सं य꣡त आबभू꣡थ  

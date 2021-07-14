@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tīvrásyābhívayaso asyá pāhi  
-sarvarathā́ ví hárī ihá muñca  
-índra mā́ tvā yájamānāso anyé  
-ní rīraman túbhyam imé sutā́saḥ  
+तीव्र꣡स्याभि꣡वयसो अस्य꣡ पाहि  
+सर्वरथा꣡ वि꣡ ह꣡री इह꣡ मुञ्च  
+इ꣡न्द्र मा꣡ त्वा य꣡जमानासो अन्ये꣡  
+नि꣡ रीरमन् तु꣡भ्यम् इमे꣡ सुता꣡सः  

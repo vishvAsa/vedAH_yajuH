@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá bhūr jáyantam mahā́ṃ vipodhā́m  
-mūrā́ ámūram purā́ṃ darmā́ṇam  
-náyanto gárbhaṃ vanā́ṃ dhíyaṃ dhur  
-híriśmaśruṃ ná árvāṇaṃ dhánarcam  
+प्र꣡ भूर् ज꣡यन्तम् महां꣡ विपोधा꣡म्  
+मूरा꣡ अ꣡मूरम् पुरां꣡ दर्मा꣡णम्  
+न꣡यन्तो ग꣡र्भं वनां꣡ धि꣡यं धुर्  
+हि꣡रिश्मश्रुं न꣡ अ꣡र्वाणं ध꣡नर्चम्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kr̥ṣṇā́ṃ yád énīm abhí várpasā bhū́j  
-janáyan yóṣām br̥hatáḥ pitúr jā́m  
-ūrdhvám bhānúṃ sū́riyasya stabhāyán  
-divó vásubhir aratír ví bhāti  
+कृष्णां꣡ य꣡द् ए꣡नीम् अभि꣡ व꣡र्पसा भू꣡ज्  
+जन꣡यन् यो꣡षाम् बृहतः꣡ पितु꣡र् जा꣡म्  
+ऊर्ध्व꣡म् भानुं꣡ सू꣡रियस्य स्तभाय꣡न्  
+दिवो꣡ व꣡सुभिर् अरति꣡र् वि꣡ भाति  

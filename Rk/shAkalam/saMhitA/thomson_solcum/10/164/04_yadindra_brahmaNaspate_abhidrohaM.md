@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yád indra brahmaṇas pate  
-abhidroháṃ cárāmasi  
-prácetā na āṅgirasó  
-dviṣatā́m pātu áṃhasaḥ  
+य꣡द् इन्द्र ब्रह्मणस् पते  
+अभिद्रोहं꣡ च꣡रामसि  
+प्र꣡चेता न आङ्गिरसो꣡  
+द्विषता꣡म् पातु अं꣡हसः  

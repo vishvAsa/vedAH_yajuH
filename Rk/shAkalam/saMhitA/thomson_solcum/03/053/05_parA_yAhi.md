@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-párā yāhi maghavann ā́ ca yāhi  
-índra bhrātar ubhayátrā te ártham  
-yátrā ráthasya br̥ható nidhā́naṃ  
-vimócanaṃ vājíno rā́sabhasya  
+प꣡रा याहि मघवन्न् आ꣡ च याहि  
+इ꣡न्द्र भ्रातर् उभय꣡त्रा ते अ꣡र्थम्  
+य꣡त्रा र꣡थस्य बृहतो꣡ निधा꣡नं  
+विमो꣡चनं वाजि꣡नो रा꣡सभस्य  

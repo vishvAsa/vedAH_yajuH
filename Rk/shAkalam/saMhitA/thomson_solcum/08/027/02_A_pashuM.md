@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ paśúṃ gāsi pr̥thivī́ṃ vánaspátīn  
-uṣā́sā náktam óṣadhīḥ  
-víśve ca no vasavo viśvavedaso  
-dhīnā́m bhūta prāvitā́raḥ  
+आ꣡ पशुं꣡ गासि पृथिवीं꣡ व꣡नस्प꣡तीन्  
+उषा꣡सा न꣡क्तम् ओ꣡षधीः  
+वि꣡श्वे च नो वसवो विश्ववेदसो  
+धीना꣡म् भूत प्राविता꣡रः  

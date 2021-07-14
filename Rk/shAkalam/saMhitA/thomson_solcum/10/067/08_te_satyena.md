@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-té satyéna mánasā gópatiṃ gā́  
-iyānā́sa iṣaṇayanta dhībhíḥ  
-bŕ̥haspátir mithóavadyapebhir  
-úd usríyā asr̥jata svayúgbhiḥ  
+ते꣡ सत्ये꣡न म꣡नसा गो꣡पतिं गा꣡  
+इयाना꣡स इषणयन्त धीभिः꣡  
+ब्ŕ̥हस्प꣡तिर् मिथो꣡अवद्यपेभिर्  
+उ꣡द् उस्रि꣡या असृजत स्वयु꣡ग्भिः  

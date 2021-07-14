@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yugé-yuge vidathíyaṃ gr̥ṇádbhiyo  
-ágne rayíṃ yaśásaṃ dhehi návyasīm  
-pavyéva rājann agháśaṃsam ajara  
-nīcā́ ní vr̥śca vanínaṃ ná téjasā  
+युगे꣡-युगे विदथि꣡यं गृण꣡द्भियो  
+अ꣡ग्ने रयिं꣡ यश꣡सं धेहि न꣡व्यसीम्  
+पव्ये꣡व राजन्न् अघ꣡शंसम् अजर  
+नीचा꣡ नि꣡ वृश्च वनि꣡नं न꣡ ते꣡जसा  

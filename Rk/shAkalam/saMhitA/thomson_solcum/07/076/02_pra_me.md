@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá me pánthā devayā́nā adr̥śrann  
-ámardhanto vásubhir íṣkr̥tāsaḥ  
-ábhūd u ketúr uṣásaḥ purástāt  
-pratīcī́ ā́gād ádhi harmiyébhyaḥ  
+प्र꣡ मे प꣡न्था देवया꣡ना अदृश्रन्न्  
+अ꣡मर्धन्तो व꣡सुभिर् इ꣡ष्कृतासः  
+अ꣡भूद् उ केतु꣡र् उष꣡सः पुर꣡स्तात्  
+प्रतीची꣡ आ꣡गाद् अ꣡धि हर्मिये꣡भ्यः  

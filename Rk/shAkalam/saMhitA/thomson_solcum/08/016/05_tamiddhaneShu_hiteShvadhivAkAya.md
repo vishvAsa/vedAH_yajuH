@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-tám íd dháneṣu hitéṣu  
-adhivākā́ya havante  
-yéṣām índras té jayanti  
+त꣡म् इ꣡द् ध꣡नेषु हिते꣡षु  
+अधिवाका꣡य हवन्ते  
+ये꣡षाम् इ꣡न्द्रस् ते꣡ जयन्ति  

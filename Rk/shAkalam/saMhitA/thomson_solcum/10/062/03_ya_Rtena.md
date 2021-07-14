@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yá r̥téna sū́ryam ā́rohayan diví  
-áprathayan pr̥thivī́m mātáraṃ ví  
-suprajāstvám aṅgiraso vo astu  
-práti gr̥bhṇīta mānaváṃ sumedhasaḥ  
+य꣡ ऋते꣡न सू꣡र्यम् आ꣡रोहयन् दिवि꣡  
+अ꣡प्रथयन् पृथिवी꣡म् मात꣡रं वि꣡  
+सुप्रजास्त्व꣡म् अङ्गिरसो वो अस्तु  
+प्र꣡ति गृभ्णीत मानवं꣡ सुमेधसः  

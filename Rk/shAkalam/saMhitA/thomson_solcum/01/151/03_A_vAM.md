@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ vām bhūṣan kṣitáyo jánma ródasoḥ°  
-pravā́ciyaṃ vr̥ṣaṇā dákṣase mahé  
-yád īm r̥tā́ya bháratho yád árvate  
-prá hótrayā śímiyā vītho adhvarám  
+आ꣡ वाम् भूषन् क्षित꣡यो ज꣡न्म रो꣡दसोः°  
+प्रवा꣡चियं वृषणा द꣡क्षसे महे꣡  
+य꣡द् ईम् ऋता꣡य भ꣡रथो य꣡द् अ꣡र्वते  
+प्र꣡ हो꣡त्रया शि꣡मिया वीथो अध्वर꣡म्  

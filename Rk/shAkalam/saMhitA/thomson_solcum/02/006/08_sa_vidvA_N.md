@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-sá vidvā́m̐ ā́ ca piprayo  
-yákṣi cikitva ānuṣák  
-ā́ cāsmín satsi barhíṣi  
+स꣡ विद्वाँ꣡ आ꣡ च पिप्रयो  
+य꣡क्षि चिकित्व आनुष꣡क्  
+आ꣡ चास्मि꣡न् सत्सि बर्हि꣡षि  

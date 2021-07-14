@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-mā́ na stenébhyo yé abhí druhás padé  
-nirāmíṇo ripávó 'nneṣu jāgr̥dhúḥ  
-ā́ devā́nām óhate ví vráyo hr̥dí  
-bŕ̥haspate ná paráḥ sā́mano viduḥ  
+मा꣡ न स्तेने꣡भ्यो ये꣡ अभि꣡ द्रुह꣡स् पदे꣡  
+निरामि꣡णो रिप꣡वो꣡ ऽन्नेषु जागृधुः꣡  
+आ꣡ देवा꣡नाम् ओ꣡हते वि꣡ व्र꣡यो हृदि꣡  
+ब्ŕ̥हस्पते न꣡ परः꣡ सा꣡मनो विदुः  

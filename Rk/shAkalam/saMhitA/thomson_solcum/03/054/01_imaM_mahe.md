@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imám mahé vidathíyāya śūṣáṃ  
-śáśvat kŕ̥tva ī́ḍiyāya prá jabhruḥ  
-śr̥ṇótu no dámiyebhir ánīkaiḥ  
-śr̥ṇótu agnír diviyaír ájasraḥ  
+इम꣡म् महे꣡ विदथि꣡याय शूषं꣡  
+श꣡श्वत् क्ŕ̥त्व ई꣡डियाय प्र꣡ जभ्रुः  
+शृणो꣡तु नो द꣡मियेभिर् अ꣡नीकैः  
+शृणो꣡तु अग्नि꣡र् दिवियइ꣡र् अ꣡जस्रः  

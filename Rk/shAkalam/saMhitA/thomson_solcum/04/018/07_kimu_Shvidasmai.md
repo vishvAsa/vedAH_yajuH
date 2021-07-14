@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-kím u ṣvid asmai nivído bhananta  
-índrasyāvadyáṃ didhiṣanta ā́paḥ  
-mámaitā́n putró mahatā́ vadhéna  
-vr̥tráṃ jaghanvā́m̐ asr̥jad ví síndhūn  
+कि꣡म् उ ष्विद् अस्मै निवि꣡दो भनन्त  
+इ꣡न्द्रस्यावद्यं꣡ दिधिषन्त आ꣡पः  
+म꣡मैता꣡न् पुत्रो꣡ महता꣡ वधे꣡न  
+वृत्रं꣡ जघन्वाँ꣡ असृजद् वि꣡ सि꣡न्धून्  

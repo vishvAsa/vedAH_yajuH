@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yā́ vīríyāṇi prathamā́ni kártuvā  
-mahitvébhir yátamānau samīyátuḥ  
-dhvāntáṃ támo · áva dadhvase hatá  
-índro mahnā́ pūrváhūtāv apatyata  
+या꣡ वीरि꣡याणि प्रथमा꣡नि क꣡र्तुवा  
+महित्वे꣡भिर् य꣡तमानौ समीय꣡तुः  
+ध्वान्तं꣡ त꣡मो · अ꣡व दध्वसे हत꣡  
+इ꣡न्द्रो मह्ना꣡ पूर्व꣡हूताव् अपत्यत  

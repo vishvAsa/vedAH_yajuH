@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ná te sákhā sakhiyáṃ vaṣṭi etát  
-sálakṣmā yád víṣurūpā bhávāti  
-mahás putrā́so ásurasya vīrā́  
-divó dhartā́ra urviyā́ pári khyan  
+न꣡ ते स꣡खा सखियं꣡ वष्टि एत꣡त्  
+स꣡लक्ष्मा य꣡द् वि꣡षुरूपा भ꣡वाति  
+मह꣡स् पुत्रा꣡सो अ꣡सुरस्य वीरा꣡  
+दिवो꣡ धर्ता꣡र उर्विया꣡ प꣡रि ख्यन्  

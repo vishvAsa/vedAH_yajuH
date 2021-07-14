@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-suastí mitrāvaruṇā  
-suastí pathye revati  
-svastí na índraś cāgníś ca  
-svastí no adite kr̥dhi  
+सुअस्ति꣡ मित्रावरुणा  
+सुअस्ति꣡ पथ्ये रेवति  
+स्वस्ति꣡ न इ꣡न्द्रश् चाग्नि꣡श् च  
+स्वस्ति꣡ नो अदिते कृधि  

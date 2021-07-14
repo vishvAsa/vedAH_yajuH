@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índur índrāya pavata  
-íti devā́so abruvan  
-vācás pátir makhasyate  
-víśvasyéśāna ójasā  
+इ꣡न्दुर् इ꣡न्द्राय पवत  
+इ꣡ति देवा꣡सो अब्रुवन्  
+वाच꣡स् प꣡तिर् मखस्यते  
+वि꣡श्वस्ये꣡शान ओ꣡जसा  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-áhaś ca kr̥ṣṇám áhar árjunaṃ ca  
-ví vartete rájasī vediyā́bhiḥ  
-vaiśvānaró jā́yamāno ná rā́jā  
-ávātiraj jyótiṣāgnís támāṃsi  
+अ꣡हश् च कृष्ण꣡म् अ꣡हर् अ꣡र्जुनं च  
+वि꣡ वर्तेते र꣡जसी वेदिया꣡भिः  
+वैश्वानरो꣡ जा꣡यमानो न꣡ रा꣡जा  
+अ꣡वातिरज् ज्यो꣡तिषाग्नि꣡स् त꣡मांसि  

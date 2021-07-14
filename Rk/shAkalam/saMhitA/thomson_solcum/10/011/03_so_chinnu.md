@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-só cin nú bhadrā́ kṣumátī yáśasvatī  
-uṣā́ uvāsa mánave súvarvatī  
-yád īm uśántam uśatā́m ánu krátum  
-agníṃ hótāraṃ vidáthāya jī́janan  
+सो꣡ चिन् नु꣡ भद्रा꣡ क्षुम꣡ती य꣡शस्वती  
+उषा꣡ उवास म꣡नवे सु꣡वर्वती  
+य꣡द् ईम् उश꣡न्तम् उशता꣡म् अ꣡नु क्र꣡तुम्  
+अग्निं꣡ हो꣡तारं विद꣡थाय जी꣡जनन्  

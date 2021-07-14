@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ná ma índreṇa sakhiyáṃ ví yoṣad  
-asmábhyam asya dákṣiṇā duhīta  
-úpa jyáyiṣṭhe+ várūthe gábhastau  
-prāyé-prāye jigīvā́ṃsaḥ siyāma  
+न꣡ म इ꣡न्द्रेण सखियं꣡ वि꣡ योषद्  
+अस्म꣡भ्यम् अस्य द꣡क्षिणा दुहीत  
+उ꣡प ज्य꣡यिष्ठे+ व꣡रूथे ग꣡भस्तौ  
+प्राये꣡-प्राये जिगीवां꣡सः सियाम  

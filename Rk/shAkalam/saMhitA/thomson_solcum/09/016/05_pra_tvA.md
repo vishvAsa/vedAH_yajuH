@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-prá tvā námobhir índava  
-índra sómā asr̥kṣata  
-mahé bhárāya kāríṇaḥ  
+प्र꣡ त्वा न꣡मोभिर् इ꣡न्दव  
+इ꣡न्द्र सो꣡मा असृक्षत  
+महे꣡ भ꣡राय कारि꣡णः  

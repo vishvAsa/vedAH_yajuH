@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-kū́cij jāyate sánayāsu návyo  
-váne tasthau palitó dhūmáketuḥ  
-asnātā́po vr̥ṣabhó ná prá veti  
-sácetaso yám praṇáyanta mártāḥ  
+कू꣡चिज् जायते स꣡नयासु न꣡व्यो  
+व꣡ने तस्थौ पलितो꣡ धूम꣡केतुः  
+अस्नाता꣡पो वृषभो꣡ न꣡ प्र꣡ वेति  
+स꣡चेतसो य꣡म् प्रण꣡यन्त म꣡र्ताः  

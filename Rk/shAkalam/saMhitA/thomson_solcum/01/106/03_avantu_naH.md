@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ávantu naḥ pitáraḥ supravācanā́  
-utá devī́ deváputre r̥tāvŕ̥dhā  
-ráthaṃ ná durgā́d vasavaḥ sudānavo  
-víśvasmān no áṃhaso níṣ pipartana  
+अ꣡वन्तु नः पित꣡रः सुप्रवाचना꣡  
+उत꣡ देवी꣡ देव꣡पुत्रे ऋताव्ŕ̥धा  
+र꣡थं न꣡ दुर्गा꣡द् वसवः सुदानवो  
+वि꣡श्वस्मान् नो अं꣡हसो नि꣡ष् पिपर्तन  

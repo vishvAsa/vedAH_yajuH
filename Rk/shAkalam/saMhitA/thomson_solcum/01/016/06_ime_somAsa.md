@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-imé sómāsa índavaḥ  
-sutā́so ádhi barhíṣi  
-tā́m̐ indra sáhase piba  
+इमे꣡ सो꣡मास इ꣡न्दवः  
+सुता꣡सो अ꣡धि बर्हि꣡षि  
+ताँ꣡ इन्द्र स꣡हसे पिब  

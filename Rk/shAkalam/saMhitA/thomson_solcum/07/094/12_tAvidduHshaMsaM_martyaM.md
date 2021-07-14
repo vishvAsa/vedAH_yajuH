@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-tā́v íd duḥśáṃsam mártiyaṃ  
-dúrvidvāṃsaṃ rakṣasvínam  
-ābhogáṃ hánmanā hatam  
-udadhíṃ hánmanā hatam  
+ता꣡व् इ꣡द् दुःशं꣡सम् म꣡र्तियं  
+दु꣡र्विद्वांसं रक्षस्वि꣡नम्  
+आभोगं꣡ ह꣡न्मना हतम्  
+उदधिं꣡ ह꣡न्मना हतम्  

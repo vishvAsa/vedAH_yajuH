@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-kṣatrā́ya tvaṃ śrávase tvam mahīyā́  
-iṣṭáye tvam ártham iva tvam ityaí  
-vísadr̥śā jīvitā́bhipracákṣa  
-uṣā́ ajīgar bhúvanāni víśvā  
+क्षत्रा꣡य त्वं श्र꣡वसे त्वम् महीया꣡  
+इष्ट꣡ये त्वम् अ꣡र्थम् इव त्वम् इत्यइ꣡  
+वि꣡सदृशा जीविता꣡भिप्रच꣡क्ष  
+उषा꣡ अजीगर् भु꣡वनानि वि꣡श्वा  

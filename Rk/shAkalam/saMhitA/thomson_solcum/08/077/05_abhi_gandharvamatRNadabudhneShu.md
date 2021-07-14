@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-abhí gandharvám atr̥ṇad  
-abudhnéṣu rájassu ā́  
-índro brahmábhya íd vr̥dhé  
+अभि꣡ गन्धर्व꣡म् अतृणद्  
+अबुध्ने꣡षु र꣡जस्सु आ꣡  
+इ꣡न्द्रो ब्रह्म꣡भ्य इ꣡द् वृधे꣡  

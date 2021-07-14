@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-máhi ā́ te sakhiyáṃ vaśmi śaktī́r  
-ā́ vr̥traghné niyúto yanti pūrvī́ḥ  
-máhi stotrám áva ā́ganma sūrér  
-asmā́kaṃ sú maghavan bodhi gopā́ḥ  
+म꣡हि आ꣡ ते सखियं꣡ वश्मि शक्ती꣡र्  
+आ꣡ वृत्रघ्ने꣡ नियु꣡तो यन्ति पूर्वीः꣡  
+म꣡हि स्तोत्र꣡म् अ꣡व आ꣡गन्म सूरे꣡र्  
+अस्मा꣡कं सु꣡ मघवन् बोधि गोपाः꣡  

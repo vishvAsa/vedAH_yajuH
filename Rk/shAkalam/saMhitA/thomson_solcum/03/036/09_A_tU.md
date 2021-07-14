@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ā́ tū́ bhara mā́kir etát pári ṣṭhād  
-vidmā́ hí tvā vásupatiṃ vásūnām  
-índra yát te mā́hinaṃ dátram ásti  
-asmábhyaṃ tád dháriaśva prá yandhi  
+आ꣡ तू꣡ भर मा꣡किर् एत꣡त् प꣡रि ष्ठाद्  
+विद्मा꣡ हि꣡ त्वा व꣡सुपतिं व꣡सूनाम्  
+इ꣡न्द्र य꣡त् ते मा꣡हिनं द꣡त्रम् अ꣡स्ति  
+अस्म꣡भ्यं त꣡द् ध꣡रिअश्व प्र꣡ यन्धि  

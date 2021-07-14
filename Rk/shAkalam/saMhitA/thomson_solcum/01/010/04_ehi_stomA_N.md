@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-éhi stómām̐ abhí svara  
-abhí gr̥ṇīhi ā́ ruva  
-bráhma ca no vaso sácā  
-índra yajñáṃ ca vardhaya  
+ए꣡हि स्तो꣡माँ अभि꣡ स्वर  
+अभि꣡ गृणीहि आ꣡ रुव  
+ब्र꣡ह्म च नो वसो स꣡चा  
+इ꣡न्द्र यज्ञं꣡ च वर्धय  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yás tityā́ja sacivídaṃ sákhāyaṃ  
-ná tásya vācí ápi bhāgó asti  
-yád īṃ śr̥ṇóti álakaṃ śr̥ṇoti  
-nahí pravéda sukr̥tásya pánthām  
+य꣡स् तित्या꣡ज सचिवि꣡दं स꣡खायं  
+न꣡ त꣡स्य वाचि꣡ अ꣡पि भागो꣡ अस्ति  
+य꣡द् ईं शृणो꣡ति अ꣡लकं शृणोति  
+नहि꣡ प्रवे꣡द सुकृत꣡स्य प꣡न्थाम्  

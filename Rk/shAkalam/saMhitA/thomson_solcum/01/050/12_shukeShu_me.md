@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-śúkeṣu me harimā́ṇaṃ  
-ropaṇā́kāsu dadhmasi  
-átho hāridravéṣu me  
-harimā́ṇaṃ ní dadhmasi  
+शु꣡केषु मे हरिमा꣡णं  
+रोपणा꣡कासु दध्मसि  
+अ꣡थो हारिद्रवे꣡षु मे  
+हरिमा꣡णं नि꣡ दध्मसि  

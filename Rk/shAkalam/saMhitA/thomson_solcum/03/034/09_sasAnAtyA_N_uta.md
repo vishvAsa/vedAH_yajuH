@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sasā́nā́tyām̐ utá sū́ryaṃ sasāna  
-índraḥ sasāna purubhójasaṃ gā́m  
-hiraṇyáyam utá bhógaṃ sasāna  
-hatvī́ dásyūn prā́riyaṃ várṇam āvat  
+ससा꣡ना꣡त्याँ उत꣡ सू꣡र्यं ससान  
+इ꣡न्द्रः ससान पुरुभो꣡जसं गा꣡म्  
+हिरण्य꣡यम् उत꣡ भो꣡गं ससान  
+हत्वी꣡ द꣡स्यून् प्रा꣡रियं व꣡र्णम् आवत्  

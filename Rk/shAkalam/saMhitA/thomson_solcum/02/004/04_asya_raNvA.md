@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-asyá raṇvā́ · suvásyeva puṣṭíḥ  
-sáṃdr̥ṣṭir asya hiyānásya dákṣoḥ  
-ví yó bháribhrad óṣadhīṣu jihvā́m  
-átyo ná ráthyo dodhavīti vā́rān  
+अस्य꣡ रण्वा꣡ · सुव꣡स्येव पुष्टिः꣡  
+सं꣡दृष्टिर् अस्य हियान꣡स्य द꣡क्षोः  
+वि꣡ यो꣡ भ꣡रिभ्रद् ओ꣡षधीषु जिह्वा꣡म्  
+अ꣡त्यो न꣡ र꣡थ्यो दोधवीति वा꣡रान्  

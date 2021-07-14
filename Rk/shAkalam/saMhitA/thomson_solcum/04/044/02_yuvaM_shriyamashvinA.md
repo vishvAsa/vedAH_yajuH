@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yuváṃ śríyam aśvinā devátā tā́ṃ  
-dívo napātā vanathaḥ śácībhiḥ  
-yuvór vápur abhí pŕ̥kṣaḥ sacante  
-váhanti yát kakuhā́so ráthe vām  
+युवं꣡ श्रि꣡यम् अश्विना देव꣡ता तां꣡  
+दि꣡वो नपाता वनथः श꣡चीभिः  
+युवो꣡र् व꣡पुर् अभि꣡ प्ŕ̥क्षः सचन्ते  
+व꣡हन्ति य꣡त् ककुहा꣡सो र꣡थे वाम्  

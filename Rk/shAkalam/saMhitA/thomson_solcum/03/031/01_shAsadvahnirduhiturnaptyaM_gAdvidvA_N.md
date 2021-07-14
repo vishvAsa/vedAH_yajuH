@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-śā́sad váhnir duhitúr naptíyaṃ gād  
-vidvā́m̐ r̥tásya dī́dhitiṃ saparyán  
-pitā́ yátra duhitúḥ sékam r̥ñján  
-sáṃ śagmíyena mánasā dadhanvé  
+शा꣡सद् व꣡ह्निर् दुहितु꣡र् नप्ति꣡यं गाद्  
+विद्वाँ꣡ ऋत꣡स्य दी꣡धितिं सपर्य꣡न्  
+पिता꣡ य꣡त्र दुहितुः꣡ से꣡कम् ऋञ्ज꣡न्  
+सं꣡ शग्मि꣡येन म꣡नसा दधन्वे꣡  

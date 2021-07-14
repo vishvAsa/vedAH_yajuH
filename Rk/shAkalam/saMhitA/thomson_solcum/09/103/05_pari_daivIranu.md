@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-pári daívīr ánu svadhā́  
-índreṇa yāhi sarátham  
-punānó vāghád vāghádbhir ámartiyaḥ  
+प꣡रि दइ꣡वीर् अ꣡नु स्वधा꣡  
+इ꣡न्द्रेण याहि सर꣡थम्  
+पुनानो꣡ वाघ꣡द् वाघ꣡द्भिर् अ꣡मर्तियः  

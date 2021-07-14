@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-hr̥dā́ taṣṭéṣu mánaso javéṣu  
-yád brāhmaṇā́ḥ saṃyájante sákhāyaḥ  
-átrā́ha tvaṃ ví jahur vediyā́bhir  
-óhabrahmāṇo ví caranti u tve  
+हृदा꣡ तष्टे꣡षु म꣡नसो जवे꣡षु  
+य꣡द् ब्राह्मणाः꣡ संय꣡जन्ते स꣡खायः  
+अ꣡त्रा꣡ह त्वं वि꣡ जहुर् वेदिया꣡भिर्  
+ओ꣡हब्रह्माणो वि꣡ चरन्ति उ त्वे  

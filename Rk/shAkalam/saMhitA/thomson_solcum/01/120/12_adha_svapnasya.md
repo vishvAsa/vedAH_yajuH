@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-ádha svápnasya nír vide  
-ábhuñjataś ca revátaḥ  
-ubhā́ tā́ básri naśyataḥ  
+अ꣡ध स्व꣡प्नस्य नि꣡र् विदे  
+अ꣡भुञ्जतश् च रेव꣡तः  
+उभा꣡ ता꣡ ब꣡स्रि नश्यतः  

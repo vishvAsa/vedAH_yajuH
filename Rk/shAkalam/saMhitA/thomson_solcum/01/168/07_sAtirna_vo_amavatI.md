@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sātír ná vo ámavatī súvarvatī  
-tveṣā́ vípākā marutaḥ pípiṣvatī  
-bhadrā́ vo rātíḥ pr̥ṇató ná dákṣiṇā  
-pr̥thujráyī asuríyeva jáñjatī  
+साति꣡र् न꣡ वो अ꣡मवती सु꣡वर्वती  
+त्वेषा꣡ वि꣡पाका मरुतः पि꣡पिष्वती  
+भद्रा꣡ वो रातिः꣡ पृणतो꣡ न꣡ द꣡क्षिणा  
+पृथुज्र꣡यी असुरि꣡येव ज꣡ञ्जती  

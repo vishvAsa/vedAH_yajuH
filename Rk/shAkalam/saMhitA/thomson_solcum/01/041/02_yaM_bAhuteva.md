@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yám bāhúteva píprati  
-pã́nti mártiyaṃ riṣáḥ  
-áriṣṭaḥ sárva edhate  
+य꣡म् बाहु꣡तेव पि꣡प्रति  
+प्ã꣡न्ति म꣡र्तियं रिषः꣡  
+अ꣡रिष्टः स꣡र्व एधते  

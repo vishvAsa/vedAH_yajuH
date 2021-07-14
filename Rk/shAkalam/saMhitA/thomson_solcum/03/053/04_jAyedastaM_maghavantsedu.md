@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-jāyéd ástam maghavan séd u yónis  
-tád ít tvā yuktā́ hárayo vahantu  
-yadā́ kadā́ ca sunávāma sómam  
-agníṣ ṭvā dūtó dhanuvāti ácha  
+जाये꣡द् अ꣡स्तम् मघवन् से꣡द् उ यो꣡निस्  
+त꣡द् इ꣡त् त्वा युक्ता꣡ ह꣡रयो वहन्तु  
+यदा꣡ कदा꣡ च सुन꣡वाम सो꣡मम्  
+अग्नि꣡ष् ट्वा दूतो꣡ धनुवाति अ꣡छ  

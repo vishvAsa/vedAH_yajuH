@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-prá kā́viyam uśáneva bruvāṇó  
-devó devā́nāṃ jánimā vivakti  
-máhivrataḥ śúcibandhuḥ pavākáḥ+  
-padā́ varāhó abhí eti rébhan  
+प्र꣡ का꣡वियम् उश꣡नेव ब्रुवाणो꣡  
+देवो꣡ देवा꣡नां ज꣡निमा विवक्ति  
+म꣡हिव्रतः शु꣡चिबन्धुः पवाकः꣡+  
+पदा꣡ वराहो꣡ अभि꣡ एति रे꣡भन्  

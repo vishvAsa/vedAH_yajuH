@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-dhániyā cid dhí tvé dhiṣáṇā váṣṭi  
-prá devā́ñ jánma gr̥ṇaté yájadhyai  
-vépiṣṭho áṅgirasāṃ yád dha vípro  
-mádhu chandó bhánati rebhá iṣṭaú  
+ध꣡निया चिद् धि꣡ त्वे꣡ धिष꣡णा व꣡ष्टि  
+प्र꣡ देवा꣡ञ् ज꣡न्म गृणते꣡ य꣡जध्यै  
+वे꣡पिष्ठो अ꣡ङ्गिरसां य꣡द् ध वि꣡प्रो  
+म꣡धु छन्दो꣡ भ꣡नति रेभ꣡ इष्टउ꣡  

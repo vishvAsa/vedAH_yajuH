@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sám asya háriṃ hárayo mr̥janti  
-aśvahayaír ániśitaṃ námobhiḥ  
-ā́ tiṣṭhati rátham índrasya sákhā  
-vidvā́m̐ enā sumatíṃ yāti ácha  
+स꣡म् अस्य ह꣡रिं ह꣡रयो मृजन्ति  
+अश्वहयइ꣡र् अ꣡निशितं न꣡मोभिः  
+आ꣡ तिष्ठति र꣡थम् इ꣡न्द्रस्य स꣡खा  
+विद्वाँ꣡ एना सुमतिं꣡ याति अ꣡छ  

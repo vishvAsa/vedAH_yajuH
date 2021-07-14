@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-bhojā́ya áśvaṃ sám mr̥janti āśúm  
-bhojā́yāste kaníyā śúmbhamānā  
-bhojásyedám puṣkaríṇīva véśma  
-páriṣkr̥taṃ devamānéva citrám  
+भोजा꣡य अ꣡श्वं स꣡म् मृजन्ति आशु꣡म्  
+भोजा꣡यास्ते कनि꣡या शु꣡म्भमाना  
+भोज꣡स्येद꣡म् पुष्करि꣡णीव वे꣡श्म  
+प꣡रिष्कृतं देवमाने꣡व चित्र꣡म्  

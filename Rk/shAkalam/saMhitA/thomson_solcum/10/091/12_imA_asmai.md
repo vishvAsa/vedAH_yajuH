@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-imā́ asmai matáyo vā́co asmád ā́m̐  
-ŕ̥co gíraḥ suṣṭutáyaḥ sám agmata  
-vasūyávo vásave jātávedase  
-vr̥ddhā́su cid várdhano yā́su cākánat  
+इमा꣡ अस्मै मत꣡यो वा꣡चो अस्म꣡द् आँ꣡  
+ŕ̥चो गि꣡रः सुष्टुत꣡यः स꣡म् अग्मत  
+वसूय꣡वो व꣡सवे जात꣡वेदसे  
+वृद्धा꣡सु चिद् व꣡र्धनो या꣡सु चाक꣡नत्  

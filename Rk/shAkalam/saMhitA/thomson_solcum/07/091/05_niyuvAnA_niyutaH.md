@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-niyuvānā́ niyúta spārhávīrā  
-índravāyū saráthaṃ yātam arvā́k  
-idáṃ hí vām prábhr̥tam mádhvo ágram  
-ádha priṇānā́+ ví mumuktam asmé  
+नियुवाना꣡ नियु꣡त स्पार्ह꣡वीरा  
+इ꣡न्द्रवायू सर꣡थं यातम् अर्वा꣡क्  
+इदं꣡ हि꣡ वाम् प्र꣡भृतम् म꣡ध्वो अ꣡ग्रम्  
+अ꣡ध प्रिणाना꣡+ वि꣡ मुमुक्तम् अस्मे꣡  

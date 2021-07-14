@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ánuspaṣṭo bhavati eṣó asya  
-yó asmai revā́n ná sunóti sómam  
-nír aratnaú maghávā táṃ dadhāti  
-brahmadvíṣo hanti ánānudiṣṭaḥ  
+अ꣡नुस्पष्टो भवति एषो꣡ अस्य  
+यो꣡ अस्मै रेवा꣡न् न꣡ सुनो꣡ति सो꣡मम्  
+नि꣡र् अरत्नउ꣡ मघ꣡वा तं꣡ दधाति  
+ब्रह्मद्वि꣡षो हन्ति अ꣡नानुदिष्टः  

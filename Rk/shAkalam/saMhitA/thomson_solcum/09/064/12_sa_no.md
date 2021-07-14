@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-sá no arṣa pavítra ā́  
-mádo yó devavī́tamaḥ  
-índav índrāya pītáye  
+स꣡ नो अर्ष पवि꣡त्र आ꣡  
+म꣡दो यो꣡ देववी꣡तमः  
+इ꣡न्दव् इ꣡न्द्राय पीत꣡ये  

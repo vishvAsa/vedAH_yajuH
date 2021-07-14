@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imā́ u tvā purutámasya kārór  
-háviyaṃ vīra háviyā havante  
-dhíyo ratheṣṭhā́m ajáraṃ návīyo  
-rayír víbhūtir īyate vacasyā́  
+इमा꣡ उ त्वा पुरुत꣡मस्य कारो꣡र्  
+ह꣡वियं वीर ह꣡विया हवन्ते  
+धि꣡यो रथेष्ठा꣡म् अज꣡रं न꣡वीयो  
+रयि꣡र् वि꣡भूतिर् ईयते वचस्या꣡  

@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-ágne víśvebhiḥ suanīka devaír  
-ū́rṇāvantam prathamáḥ sīda yónim  
-kulāyínaṃ ghr̥távantaṃ savitré  
-yajñáṃ naya yájamānāya sādhú  
+अ꣡ग्ने वि꣡श्वेभिः सुअनीक देवइ꣡र्  
+ऊ꣡र्णावन्तम् प्रथमः꣡ सीद यो꣡निम्  
+कुलायि꣡नं घृत꣡वन्तं सवित्रे꣡  
+यज्ञं꣡ नय य꣡जमानाय साधु꣡  

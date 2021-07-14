@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-itá ūtī́ vo ajáram  
-prahetā́ram áprahitam  
-āśúṃ jétāraṃ hétāraṃ rathī́tamam  
-átūrtaṃ tugriyāvŕ̥dham  
+इत꣡ ऊती꣡ वो अज꣡रम्  
+प्रहेता꣡रम् अ꣡प्रहितम्  
+आशुं꣡ जे꣡तारं हे꣡तारं रथी꣡तमम्  
+अ꣡तूर्तं तुग्रियाव्ŕ̥धम्  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-prá soma yāhi dhā́rayā  
-sutá índrāya matsaráḥ  
-dádhāno ákṣiti śrávaḥ  
+प्र꣡ सोम याहि धा꣡रया  
+सुत꣡ इ꣡न्द्राय मत्सरः꣡  
+द꣡धानो अ꣡क्षिति श्र꣡वः  

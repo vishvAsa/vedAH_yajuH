@@ -2,7 +2,7 @@
 title = "026"
 
 +++
-devāvíyo naḥ pariṣicyámānāḥ  
-kṣáyaṃ suvī́raṃ dhanuvantu sómāḥ  
-āyajyávaḥ sumatíṃ viśvávārā  
-hótāro ná diviyájo mandrátamāḥ  
+देवावि꣡यो नः परिषिच्य꣡मानाः  
+क्ष꣡यं सुवी꣡रं धनुवन्तु सो꣡माः  
+आयज्य꣡वः सुमतिं꣡ विश्व꣡वारा  
+हो꣡तारो न꣡ दिविय꣡जो मन्द्र꣡तमाः  

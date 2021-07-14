@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vaiśvānarám mánasāgníṃ nicā́yiyā  
-havíṣmanto anuṣatyáṃ suvarvídam  
-sudā́nuṃ deváṃ rathiráṃ vasūyávo  
-gīrbhī́ raṇváṃ kuśikā́so havāmahe  
+वैश्वानर꣡म् म꣡नसाग्निं꣡ निचा꣡यिया  
+हवि꣡ष्मन्तो अनुषत्यं꣡ सुवर्वि꣡दम्  
+सुदा꣡नुं देवं꣡ रथिरं꣡ वसूय꣡वो  
+गीर्भी꣡ रण्वं꣡ कुशिका꣡सो हवामहे  

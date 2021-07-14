@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá dī́dhitir viśvávārā jigāti  
-hótāram iḷáḥ prathamáṃ yájadhyai  
-áchā námobhir vr̥ṣabháṃ vandádhyai  
-sá devā́n yakṣad iṣitó yájīyān  
+प्र꣡ दी꣡धितिर् विश्व꣡वारा जिगाति  
+हो꣡तारम् इऌअः꣡ प्रथमं꣡ य꣡जध्यै  
+अ꣡छा न꣡मोभिर् वृषभं꣡ वन्द꣡ध्यै  
+स꣡ देवा꣡न् यक्षद् इषितो꣡ य꣡जीयान्  

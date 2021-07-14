@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sr̥ṇíyeva jarbhárī turphárītū  
-naitośéva turphárī parpharī́kā  
-udanyajéva jémanā maderū́  
-tā́ me jarā́yu ajáram marā́yu  
+सृणि꣡येव जर्भ꣡री तुर्फ꣡रीतू  
+नैतोशे꣡व तुर्फ꣡री पर्फरी꣡का  
+उदन्यजे꣡व जे꣡मना मदेरू꣡  
+ता꣡ मे जरा꣡यु अज꣡रम् मरा꣡यु  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ayám uśānáḥ pári ádrim usrā́  
-r̥tádhītibhir r̥tayúg yujānáḥ  
-rujád árugṇaṃ ví valásya sā́num  
-paṇī́m̐r vácobhir abhí yodhad índraḥ  
+अय꣡म् उशानः꣡ प꣡रि अ꣡द्रिम् उस्रा꣡  
+ऋत꣡धीतिभिर् ऋतयु꣡ग् युजानः꣡  
+रुज꣡द् अ꣡रुग्णं वि꣡ वल꣡स्य सा꣡नुम्  
+पणीँ꣡र् व꣡चोभिर् अभि꣡ योधद् इ꣡न्द्रः  

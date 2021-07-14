@@ -2,9 +2,9 @@
 title = "004"
 
 +++
-yám agne mányase rayíṃ  
-sáhasāvann amartiya  
-tám ā́ no vā́jasātaye  
-ví vo máde  
-yajñéṣu citrám ā́ bharā  
-vívakṣase  
+य꣡म् अग्ने म꣡न्यसे रयिं꣡  
+स꣡हसावन्न् अमर्तिय  
+त꣡म् आ꣡ नो वा꣡जसातये  
+वि꣡ वो म꣡दे  
+यज्ञे꣡षु चित्र꣡म् आ꣡ भरा  
+वि꣡वक्षसे  

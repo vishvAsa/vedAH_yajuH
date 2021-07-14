@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-hótāraṃ citráratham adhvarásya  
-yajñásya-yajñasya ketúṃ rúśantam  
-prátyardhiṃ devásya-devasya mahnā́  
-śriyā́ tú agním átithiṃ jánānām  
+हो꣡तारं चित्र꣡रथम् अध्वर꣡स्य  
+यज्ञ꣡स्य-यज्ञस्य केतुं꣡ रु꣡शन्तम्  
+प्र꣡त्यर्धिं देव꣡स्य-देवस्य मह्ना꣡  
+श्रिया꣡ तु꣡ अग्नि꣡म् अ꣡तिथिं ज꣡नानाम्  

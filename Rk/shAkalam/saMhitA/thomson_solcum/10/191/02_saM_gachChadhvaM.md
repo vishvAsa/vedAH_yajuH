@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sáṃ gachadhvaṃ sáṃ vadadhvaṃ  
-sáṃ vo mánāṃsi jānatām  
-devā́ bhāgáṃ yáthā pū́rve  
-saṃjānānā́ upā́sate  
+सं꣡ गछध्वं सं꣡ वदध्वं  
+सं꣡ वो म꣡नांसि जानताम्  
+देवा꣡ भागं꣡ य꣡था पू꣡र्वे  
+संजानाना꣡ उपा꣡सते  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-trír no aśvinā yajatā́ divé-dive  
-pári tridhā́tu pr̥thivī́m aśāyatam  
-tisró nāsatyā rathiyā parāváta  
-ātméva vā́taḥ svásarāṇi gachatam  
+त्रि꣡र् नो अश्विना यजता꣡ दिवे꣡-दिवे  
+प꣡रि त्रिधा꣡तु पृथिवी꣡म् अशायतम्  
+तिस्रो꣡ नासत्या रथिया पराव꣡त  
+आत्मे꣡व वा꣡तः स्व꣡सराणि गछतम्  

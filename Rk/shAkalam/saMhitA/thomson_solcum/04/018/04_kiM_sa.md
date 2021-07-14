@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kíṃ sá ŕ̥dhak kr̥ṇavad yáṃ sahásram  
-māsó jabhā́ra śarádaś ca pūrvī́ḥ  
-nahī́ nú asya pratimā́nam ásti  
-antár jātéṣu utá yé jánitvāḥ  
+किं꣡ स꣡ ŕ̥धक् कृणवद् यं꣡ सह꣡स्रम्  
+मासो꣡ जभा꣡र शर꣡दश् च पूर्वीः꣡  
+नही꣡ नु꣡ अस्य प्रतिमा꣡नम् अ꣡स्ति  
+अन्त꣡र् जाते꣡षु उत꣡ ये꣡ ज꣡नित्वाः  

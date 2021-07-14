@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-tuváṃ rayím puruvī́ram  
-ágne dāśúṣe mártāya  
-prá ṇo naya vásyo ácha  
+तुवं꣡ रयि꣡म् पुरुवी꣡रम्  
+अ꣡ग्ने दाशु꣡षे म꣡र्ताय  
+प्र꣡ णो नय व꣡स्यो अ꣡छ  

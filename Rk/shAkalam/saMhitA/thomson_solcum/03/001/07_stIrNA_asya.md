@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-stīrṇā́ asya saṃháto viśvárūpā  
-ghr̥tásya yónau sraváthe mádhūnām  
-ásthur átra dhenávaḥ pínvamānā  
-mahī́ dasmásya mātárā samīcī́  
+स्तीर्णा꣡ अस्य संह꣡तो विश्व꣡रूपा  
+घृत꣡स्य यो꣡नौ स्रव꣡थे म꣡धूनाम्  
+अ꣡स्थुर् अ꣡त्र धेन꣡वः पि꣡न्वमाना  
+मही꣡ दस्म꣡स्य मात꣡रा समीची꣡  

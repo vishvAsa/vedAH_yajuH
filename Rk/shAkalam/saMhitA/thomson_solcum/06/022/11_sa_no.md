@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-sá no niyúdbhiḥ puruhūta vedho  
-viśvávārābhir ā́ gahi prayajyo  
-ná yā́ ádevo várate ná devá  
-ā́bhir yāhi tū́yam ā́ madriadrík  
+स꣡ नो नियु꣡द्भिः पुरुहूत वेधो  
+विश्व꣡वाराभिर् आ꣡ गहि प्रयज्यो  
+न꣡ या꣡ अ꣡देवो व꣡रते न꣡ देव꣡  
+आ꣡भिर् याहि तू꣡यम् आ꣡ मद्रिअद्रि꣡क्  

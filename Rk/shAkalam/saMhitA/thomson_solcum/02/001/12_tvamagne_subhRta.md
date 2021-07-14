@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-tuvám agne súbhr̥ta uttamáṃ váyas  
-táva spārhé várṇa ā́ saṃdŕ̥śi śríyaḥ  
-tuváṃ vā́jaḥ pratáraṇo br̥hánn asi  
-tuváṃ rayír bahuló viśvátas pr̥thúḥ  
+तुव꣡म् अग्ने सु꣡भृत उत्तमं꣡ व꣡यस्  
+त꣡व स्पार्हे꣡ व꣡र्ण आ꣡ संद्ŕ̥शि श्रि꣡यः  
+तुवं꣡ वा꣡जः प्रत꣡रणो बृह꣡न्न् असि  
+तुवं꣡ रयि꣡र् बहुलो꣡ विश्व꣡तस् पृथुः꣡  

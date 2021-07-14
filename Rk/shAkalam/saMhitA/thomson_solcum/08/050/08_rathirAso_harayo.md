@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-rathirā́so hárayo yé te asrídha  
-ójo vā́tasya píprati  
-yébhir ní dásyum mánuṣo nighóṣayo  
-yébhiḥ súvaḥ parī́yase  
+रथिरा꣡सो ह꣡रयो ये꣡ ते अस्रि꣡ध  
+ओ꣡जो वा꣡तस्य पि꣡प्रति  
+ये꣡भिर् नि꣡ द꣡स्युम् म꣡नुषो निघो꣡षयो  
+ये꣡भिः सु꣡वः परी꣡यसे  

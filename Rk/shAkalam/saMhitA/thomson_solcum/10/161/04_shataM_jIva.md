@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-śatáṃ jīva śarádo várdhamānaḥ  
-śatáṃ hemantā́ñ chatám ū vasantā́n  
-śatám indrāgnī́ savitā́ bŕ̥haspátiḥ  
-śatā́yuṣā havíṣemám púnar duḥ  
+शतं꣡ जीव शर꣡दो व꣡र्धमानः  
+शतं꣡ हेमन्ता꣡ञ् छत꣡म् ऊ वसन्ता꣡न्  
+शत꣡म् इन्द्राग्नी꣡ सविता꣡ ब्ŕ̥हस्प꣡तिः  
+शता꣡युषा हवि꣡षेम꣡म् पु꣡नर् दुः  

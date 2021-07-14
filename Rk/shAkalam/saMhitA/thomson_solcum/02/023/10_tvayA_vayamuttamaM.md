@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tváyā vayám uttamáṃ dhīmahe váyo  
-bŕ̥haspate pápriṇā sásninā yujā́  
-mā́ no duḥśáṃso abhidipsúr īśata  
-prá suśáṃsā matíbhis tāriṣīmahi  
+त्व꣡या वय꣡म् उत्तमं꣡ धीमहे व꣡यो  
+ब्ŕ̥हस्पते प꣡प्रिणा स꣡स्निना युजा꣡  
+मा꣡ नो दुःशं꣡सो अभिदिप्सु꣡र् ईशत  
+प्र꣡ सुशं꣡सा मति꣡भिस् तारिषीमहि  

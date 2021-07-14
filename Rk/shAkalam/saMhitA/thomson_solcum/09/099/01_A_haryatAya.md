@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ haryatā́ya dhr̥ṣṇáve  
-dhánus tanvanti paúṃsiyam  
-śukrā́ṃ vayanti ásurāya nirṇíjaṃ  
-vipā́m ágre mahīyúvaḥ  
+आ꣡ हर्यता꣡य धृष्ण꣡वे  
+ध꣡नुस् तन्वन्ति पउं꣡सियम्  
+शुक्रां꣡ वयन्ति अ꣡सुराय निर्णि꣡जं  
+विपा꣡म् अ꣡ग्रे महीयु꣡वः  

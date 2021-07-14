@@ -2,6 +2,6 @@
 title = "026"
 
 +++
-índra tvám avitéd asi  
-itthā́ stuvató adrivaḥ  
-r̥tā́d iyarmi te dhíyam manoyújam  
+इ꣡न्द्र त्व꣡म् अविते꣡द् असि  
+इत्था꣡ स्तुवतो꣡ अद्रिवः  
+ऋता꣡द् इयर्मि ते धि꣡यम् मनोयु꣡जम्  

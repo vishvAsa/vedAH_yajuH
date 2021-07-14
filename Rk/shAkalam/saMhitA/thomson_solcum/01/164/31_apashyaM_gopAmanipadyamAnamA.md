@@ -2,7 +2,7 @@
 title = "031"
 
 +++
-ápaśyaṃ gopā́m ánipadyamānam  
-ā́ ca párā ca pathíbhiś cárantam  
-sá sadhrī́cīḥ sá víṣūcīr vásāna  
-ā́ varīvarti bhúvaneṣu antáḥ  
+अ꣡पश्यं गोपा꣡म् अ꣡निपद्यमानम्  
+आ꣡ च प꣡रा च पथि꣡भिश् च꣡रन्तम्  
+स꣡ सध्री꣡चीः स꣡ वि꣡षूचीर् व꣡सान  
+आ꣡ वरीवर्ति भु꣡वनेषु अन्तः꣡  

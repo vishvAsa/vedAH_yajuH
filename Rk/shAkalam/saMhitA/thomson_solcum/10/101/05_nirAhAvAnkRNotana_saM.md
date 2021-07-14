@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-nír āhāvā́n kr̥ṇotana  
-sáṃ varatrā́ dadhātana  
-siñcā́mahā avatám udríṇaṃ vayáṃ  
-suṣékam ánupakṣitam  
+नि꣡र् आहावा꣡न् कृणोतन  
+सं꣡ वरत्रा꣡ दधातन  
+सिञ्चा꣡महा अवत꣡म् उद्रि꣡णं वयं꣡  
+सुषे꣡कम् अ꣡नुपक्षितम्  

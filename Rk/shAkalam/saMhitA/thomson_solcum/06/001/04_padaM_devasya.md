@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-padáṃ devásya námasā viántaḥ  
-śravasyávaḥ śráva āpann ámr̥ktam  
-nā́māni cid dadhire yajñíyāni  
-bhadrā́yāṃ te raṇayanta sáṃdr̥ṣṭau  
+पदं꣡ देव꣡स्य न꣡मसा विअ꣡न्तः  
+श्रवस्य꣡वः श्र꣡व आपन्न् अ꣡मृक्तम्  
+ना꣡मानि चिद् दधिरे यज्ञि꣡यानि  
+भद्रा꣡यां ते रणयन्त सं꣡दृष्टौ  

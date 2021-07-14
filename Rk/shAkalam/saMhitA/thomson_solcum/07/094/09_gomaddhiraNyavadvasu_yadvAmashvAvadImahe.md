@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-gómad dhíraṇyavad vásu  
-yád vām áśvāvad ī́mahe  
-índrāgnī tád vanemahi  
+गो꣡मद् धि꣡रण्यवद् व꣡सु  
+य꣡द् वाम् अ꣡श्वावद् ई꣡महे  
+इ꣡न्द्राग्नी त꣡द् वनेमहि  

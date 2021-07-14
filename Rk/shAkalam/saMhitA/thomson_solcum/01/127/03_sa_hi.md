@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-sá hí purū́ cid ójasā virúkmatā  
-dī́diyāno · bhávati druhaṃtaráḥ  
-paraśúr ná druhaṃtaráḥ  
-vīḷú cid yásya sámr̥tau  
-śrúvad váneva yát sthirám  
-niḥṣáhamāṇo yamate ná ayate  
-dhanvāsáhā ná ayate  
+स꣡ हि꣡ पुरू꣡ चिद् ओ꣡जसा विरु꣡क्मता  
+दी꣡दियानो · भ꣡वति द्रुहंतरः꣡  
+परशु꣡र् न꣡ द्रुहंतरः꣡  
+वीऌउ꣡ चिद् य꣡स्य स꣡मृतौ  
+श्रु꣡वद् व꣡नेव य꣡त् स्थिर꣡म्  
+निःष꣡हमाणो यमते न꣡ अयते  
+धन्वास꣡हा न꣡ अयते  

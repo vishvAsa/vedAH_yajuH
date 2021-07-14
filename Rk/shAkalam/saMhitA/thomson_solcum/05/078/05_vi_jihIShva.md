@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ví jihīṣva vanaspate  
-yóniḥ sū́ṣyantiyā iva  
-śrutám me aśvinā hávaṃ  
-saptávadhriṃ ca muñcatam  
+वि꣡ जिहीष्व वनस्पते  
+यो꣡निः सू꣡ष्यन्तिया इव  
+श्रुत꣡म् मे अश्विना ह꣡वं  
+सप्त꣡वध्रिं च मुञ्चतम्  

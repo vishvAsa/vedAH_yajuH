@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ásādi vr̥tó váhnir ājaganvā́n  
-agnír brahmā́ nr̥ṣádane vidhartā́  
-diyaúś ca yám pr̥thivī́ vāvr̥dhā́te  
-ā́ yáṃ hótā yájati viśvávāram  
+अ꣡सादि वृतो꣡ व꣡ह्निर् आजगन्वा꣡न्  
+अग्नि꣡र् ब्रह्मा꣡ नृष꣡दने विधर्ता꣡  
+दियउ꣡श् च य꣡म् पृथिवी꣡ वावृधा꣡ते  
+आ꣡ यं꣡ हो꣡ता य꣡जति विश्व꣡वारम्  

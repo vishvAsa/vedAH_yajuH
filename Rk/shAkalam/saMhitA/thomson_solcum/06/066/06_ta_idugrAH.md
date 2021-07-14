@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tá íd ugrā́ḥ śávasā dhr̥ṣṇúṣeṇā  
-ubhé yujanta ródasī suméke  
-ádha sma eṣu rodasī́ sváśocir  
-ā́ ámavatsu tasthau ná rókaḥ  
+त꣡ इ꣡द् उग्राः꣡ श꣡वसा धृष्णु꣡षेणा  
+उभे꣡ युजन्त रो꣡दसी सुमे꣡के  
+अ꣡ध स्म एषु रोदसी꣡ स्व꣡शोचिर्  
+आ꣡ अ꣡मवत्सु तस्थौ न꣡ रो꣡कः  

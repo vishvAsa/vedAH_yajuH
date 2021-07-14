@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-sá vidvā́m̐ áṅgirobhiya  
-índro gā́ avr̥ṇod ápa  
-stuṣé tád asya paúṃsiyam  
+स꣡ विद्वाँ꣡ अ꣡ङ्गिरोभिय  
+इ꣡न्द्रो गा꣡ अवृणोद् अ꣡प  
+स्तुषे꣡ त꣡द् अस्य पउं꣡सियम्  

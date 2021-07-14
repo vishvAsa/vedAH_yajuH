@@ -2,7 +2,7 @@
 title = "035"
 
 +++
-íṣam ū́rjam pavamānābhí arṣasi  
-śyenó ná váṃsu kaláśeṣu sīdasi  
-índrāya mádvā mádiyo mádaḥ sutó  
-divó viṣṭambhá upamó vicakṣaṇáḥ  
+इ꣡षम् ऊ꣡र्जम् पवमानाभि꣡ अर्षसि  
+श्येनो꣡ न꣡ वं꣡सु कल꣡शेषु सीदसि  
+इ꣡न्द्राय म꣡द्वा म꣡दियो म꣡दः सुतो꣡  
+दिवो꣡ विष्टम्भ꣡ उपमो꣡ विचक्षणः꣡  

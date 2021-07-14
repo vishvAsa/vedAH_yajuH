@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-haṃsaír iva sákhibhir vā́vadadbhir  
-aśmanmáyāni náhanā viásyan  
-bŕ̥haspátir abhikánikradad gā́  
-utá prā́staud úc ca vidvā́m̐ agāyat  
+हंसइ꣡र् इव स꣡खिभिर् वा꣡वदद्भिर्  
+अश्मन्म꣡यानि न꣡हना विअ꣡स्यन्  
+ब्ŕ̥हस्प꣡तिर् अभिक꣡निक्रदद् गा꣡  
+उत꣡ प्रा꣡स्तौद् उ꣡च् च विद्वाँ꣡ अगायत्  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-catúrbhiḥ sākáṃ navatíṃ ca nā́mabhiś  
-cakráṃ ná vr̥ttáṃ viátīm̐r avīvipat  
-br̥háccharīro vimímāna ŕ̥kvabhir  
-yúvā́kumāraḥ práti eti āhavám  
+चतु꣡र्भिः साकं꣡ नवतिं꣡ च ना꣡मभिश्  
+चक्रं꣡ न꣡ वृत्तं꣡ विअ꣡तीँर् अवीविपत्  
+बृह꣡च्छरीरो विमि꣡मान ŕ̥क्वभिर्  
+यु꣡वा꣡कुमारः प्र꣡ति एति आहव꣡म्  

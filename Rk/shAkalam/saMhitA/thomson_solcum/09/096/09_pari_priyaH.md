@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-pári priyáḥ kaláśe devávāta  
-índrāya sómo ráṇiyo mádāya  
-sahásradhāraḥ śatávāja índur  
-vājī́ ná sáptiḥ sámanā jigāti  
+प꣡रि प्रियः꣡ कल꣡शे देव꣡वात  
+इ꣡न्द्राय सो꣡मो र꣡णियो म꣡दाय  
+सह꣡स्रधारः शत꣡वाज इ꣡न्दुर्  
+वाजी꣡ न꣡ स꣡प्तिः स꣡मना जिगाति  

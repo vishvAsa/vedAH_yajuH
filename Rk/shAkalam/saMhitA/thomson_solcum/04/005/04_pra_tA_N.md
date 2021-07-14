@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prá tā́m̐ agnír babhasat tigmájambhas  
-tápiṣṭhena śocíṣā yáḥ surā́dhāḥ  
-prá yé minánti váruṇasya dhā́ma  
-priyā́ mitrásya cétato dhruvā́ṇi  
+प्र꣡ ताँ꣡ अग्नि꣡र् बभसत् तिग्म꣡जम्भस्  
+त꣡पिष्ठेन शोचि꣡षा यः꣡ सुरा꣡धाः  
+प्र꣡ ये꣡ मिन꣡न्ति व꣡रुणस्य धा꣡म  
+प्रिया꣡ मित्र꣡स्य चे꣡ततो ध्रुवा꣡णि  

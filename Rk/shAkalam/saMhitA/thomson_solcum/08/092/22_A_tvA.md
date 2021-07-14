@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-ā́ tvā viśantu índavaḥ  
-samudrám iva síndhavaḥ  
-ná tvā́m indrā́ti ricyate  
+आ꣡ त्वा विशन्तु इ꣡न्दवः  
+समुद्र꣡म् इव सि꣡न्धवः  
+न꣡ त्वा꣡म् इन्द्रा꣡ति रिच्यते  

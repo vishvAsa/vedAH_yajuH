@@ -2,9 +2,9 @@
 title = "003"
 
 +++
-ūrjā́ devā́m̐ ávasi ójasā tuvā́m  
-píbā sómam mádāya káṃ śatakrato  
-yáṃ te bhāgám ádhārayan  
-víśvāḥ sehānáḥ pŕ̥tanā  
-urú jráyaḥ sám apsujín  
-marútvām̐ indra satpate  
+ऊर्जा꣡ देवाँ꣡ अ꣡वसि ओ꣡जसा तुवा꣡म्  
+पि꣡बा सो꣡मम् म꣡दाय कं꣡ शतक्रतो  
+यं꣡ ते भाग꣡म् अ꣡धारयन्  
+वि꣡श्वाः सेहानः꣡ प्ŕ̥तना  
+उरु꣡ ज्र꣡यः स꣡म् अप्सुजि꣡न्  
+मरु꣡त्वाँ इन्द्र सत्पते  

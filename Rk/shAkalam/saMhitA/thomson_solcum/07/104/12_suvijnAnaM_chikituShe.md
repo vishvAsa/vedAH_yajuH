@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-suvijñānáṃ cikitúṣe jánāya  
-sác cā́sac ca vácasī paspr̥dhāte  
-táyor yát satyáṃ yatarád ŕ̥jīyas  
-tád ít sómo avati hánti ā́sat  
+सुविज्ञानं꣡ चिकितु꣡षे ज꣡नाय  
+स꣡च् चा꣡सच् च व꣡चसी पस्पृधाते  
+त꣡योर् य꣡त् सत्यं꣡ यतर꣡द् ŕ̥जीयस्  
+त꣡द् इ꣡त् सो꣡मो अवति ह꣡न्ति आ꣡सत्  

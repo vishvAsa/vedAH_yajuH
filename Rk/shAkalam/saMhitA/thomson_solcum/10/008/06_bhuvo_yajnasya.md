@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-bhúvo yajñásya rájasaś ca netā́  
-yátrā niyúdbhiḥ sácase śivā́bhiḥ  
-diví mūrdhā́naṃ dadhiṣe suarṣā́ṃ  
-jihvā́m agne cakr̥ṣe havyavā́ham  
+भु꣡वो यज्ञ꣡स्य र꣡जसश् च नेता꣡  
+य꣡त्रा नियु꣡द्भिः स꣡चसे शिवा꣡भिः  
+दिवि꣡ मूर्धा꣡नं दधिषे सुअर्षां꣡  
+जिह्वा꣡म् अग्ने चकृषे हव्यवा꣡हम्  

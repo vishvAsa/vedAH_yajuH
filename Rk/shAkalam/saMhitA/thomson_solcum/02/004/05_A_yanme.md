@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ yán me ábhvaṃ vanádaḥ pánanta  
-uśígbhiyo ná amimīta várṇam  
-sá citréṇa cikite ráṃsu bhāsā́  
-jujurvā́m̐ yó · múhur ā́ yúvā bhū́t  
+आ꣡ य꣡न् मे अ꣡भ्वं वन꣡दः प꣡नन्त  
+उशि꣡ग्भियो न꣡ अमिमीत व꣡र्णम्  
+स꣡ चित्रे꣡ण चिकिते रं꣡सु भासा꣡  
+जुजुर्वाँ꣡ यो꣡ · मु꣡हुर् आ꣡ यु꣡वा भू꣡त्  

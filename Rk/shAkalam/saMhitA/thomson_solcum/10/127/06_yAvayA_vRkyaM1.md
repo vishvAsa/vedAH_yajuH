@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-yāváyā vr̥kíyaṃ vŕ̥kaṃ  
-yaváya stenám ūrmiye  
-áthā naḥ sutárā bhava  
+याव꣡या वृकि꣡यं व्ŕ̥कं  
+यव꣡य स्तेन꣡म् ऊर्मिये  
+अ꣡था नः सुत꣡रा भव  

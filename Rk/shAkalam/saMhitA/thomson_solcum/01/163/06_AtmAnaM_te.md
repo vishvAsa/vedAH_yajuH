@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ātmā́naṃ te mánasārā́d ajānām  
-avó divā́ patáyantam pataṃgám  
-śíro apaśyam pathíbhiḥ sugébhir  
-areṇúbhir jéhamānam patatrí  
+आत्मा꣡नं ते म꣡नसारा꣡द् अजानाम्  
+अवो꣡ दिवा꣡ पत꣡यन्तम् पतंग꣡म्  
+शि꣡रो अपश्यम् पथि꣡भिः सुगे꣡भिर्  
+अरेणु꣡भिर् जे꣡हमानम् पतत्रि꣡  

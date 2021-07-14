@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sākáṃ jātā́ḥ subhúvaḥ sākám ukṣitā́ḥ  
-śriyé cid ā́ prataráṃ vāvr̥dhur náraḥ  
-virokíṇaḥ sū́riyasyeva raśmáyaḥ  
-śúbhaṃ yātā́m ánu ráthā avr̥tsata  
+साकं꣡ जाताः꣡ सुभु꣡वः साक꣡म् उक्षिताः꣡  
+श्रिये꣡ चिद् आ꣡ प्रतरं꣡ वावृधुर् न꣡रः  
+विरोकि꣡णः सू꣡रियस्येव रश्म꣡यः  
+शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत  

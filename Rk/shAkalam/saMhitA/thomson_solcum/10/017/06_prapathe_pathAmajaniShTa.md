@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prápathe pathā́m ajaniṣṭa pūṣā́  
-prápathe diváḥ prápathe pr̥thivyā́ḥ  
-ubhé abhí priyátame sadhásthe  
-ā́ ca párā ca carati prajānán  
+प्र꣡पथे पथा꣡म् अजनिष्ट पूषा꣡  
+प्र꣡पथे दिवः꣡ प्र꣡पथे पृथिव्याः꣡  
+उभे꣡ अभि꣡ प्रिय꣡तमे सध꣡स्थे  
+आ꣡ च प꣡रा च चरति प्रजान꣡न्  

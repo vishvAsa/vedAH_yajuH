@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-índur hiyānáḥ sotŕ̥bhir  
-mr̥jyámānaḥ kánikradat  
-íyarti vagnúm indriyám  
+इ꣡न्दुर् हियानः꣡ सोत्ŕ̥भिर्  
+मृज्य꣡मानः क꣡निक्रदत्  
+इ꣡यर्ति वग्नु꣡म् इन्द्रिय꣡म्  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-yóge-yoge tavástaraṃ  
-vā́je-vāje havāmahe  
-sákhāya índram ūtáye  
+यो꣡गे-योगे तव꣡स्तरं  
+वा꣡जे-वाजे हवामहे  
+स꣡खाय इ꣡न्द्रम् ऊत꣡ये  

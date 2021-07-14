@@ -2,7 +2,7 @@
 title = "026"
 
 +++
-píbā tú asyá girvaṇaḥ  
-sutásya pūrvapā́ iva  
-páriṣkr̥tasya rasína iyám āsutíś  
-cā́rur mádāya patyate  
+पि꣡बा तु꣡ अस्य꣡ गिर्वणः  
+सुत꣡स्य पूर्वपा꣡ इव  
+प꣡रिष्कृतस्य रसि꣡न इय꣡म् आसुति꣡श्  
+चा꣡रुर् म꣡दाय पत्यते  

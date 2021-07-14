@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-cíttim ácittiṃ cinavad ví vidvā́n  
-pr̥ṣṭhéva vītā́ vr̥jinā́ ca mártān  
-rāyé ca naḥ suapatyā́ya deva  
-dítiṃ ca rā́sva áditim uruṣya  
+चि꣡त्तिम् अ꣡चित्तिं चिनवद् वि꣡ विद्वा꣡न्  
+पृष्ठे꣡व वीता꣡ वृजिना꣡ च म꣡र्तान्  
+राये꣡ च नः सुअपत्या꣡य देव  
+दि꣡तिं च रा꣡स्व अ꣡दितिम् उरुष्य  

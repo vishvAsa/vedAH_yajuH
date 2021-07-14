@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-svā́hākr̥tāni ā́ gahi  
-úpa havyā́ni vītáye  
-índrā́ gahi śrudhī́ hávaṃ  
-tuvā́ṃ havante adhvaré  
+स्वा꣡हाकृतानि आ꣡ गहि  
+उ꣡प हव्या꣡नि वीत꣡ये  
+इ꣡न्द्रा꣡ गहि श्रुधी꣡ ह꣡वं  
+तुवां꣡ हवन्ते अध्वरे꣡  

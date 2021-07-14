@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-eṣā́ víenī bhavati dvibárhā  
-āviṣkr̥ṇvānā́ tanúvam purástāt  
-r̥tásya pánthām ánu eti sādhú  
-prajānatī́va ná díśo mināti  
+एषा꣡ वि꣡एनी भवति द्विब꣡र्हा  
+आविष्कृण्वाना꣡ तनु꣡वम् पुर꣡स्तात्  
+ऋत꣡स्य प꣡न्थाम् अ꣡नु एति साधु꣡  
+प्रजानती꣡व न꣡ दि꣡शो मिनाति  

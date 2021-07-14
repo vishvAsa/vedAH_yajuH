@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yám agne vājasātama  
-tuváṃ cin mányase rayím  
-táṃ no gīrbhíḥ śravā́yiyaṃ  
-devatrā́ panayā yújam  
+य꣡म् अग्ने वाजसातम  
+तुवं꣡ चिन् म꣡न्यसे रयि꣡म्  
+तं꣡ नो गीर्भिः꣡ श्रवा꣡यियं  
+देवत्रा꣡ पनया यु꣡जम्  

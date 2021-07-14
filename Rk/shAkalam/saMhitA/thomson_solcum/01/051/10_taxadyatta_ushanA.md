@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tákṣad yát ta uśánā sáhasā sáho  
-ví ródasī majmánā bādhate śávaḥ  
-ā́ tvā vā́tasya nr̥maṇo manoyúja  
-ā́ pū́ryamāṇam avahann abhí śrávaḥ  
+त꣡क्षद् य꣡त् त उश꣡ना स꣡हसा स꣡हो  
+वि꣡ रो꣡दसी मज्म꣡ना बाधते श꣡वः  
+आ꣡ त्वा वा꣡तस्य नृमणो मनोयु꣡ज  
+आ꣡ पू꣡र्यमाणम् अवहन्न् अभि꣡ श्र꣡वः  

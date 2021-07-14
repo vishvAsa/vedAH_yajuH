@@ -2,5 +2,5 @@
 title = "021"
 
 +++
-devébhiyas tvā vŕ̥thā pā́jase  
-apó vásānaṃ hárim mr̥janti  
+देवे꣡भियस् त्वा व्ŕ̥था पा꣡जसे  
+अपो꣡ व꣡सानं ह꣡रिम् मृजन्ति  

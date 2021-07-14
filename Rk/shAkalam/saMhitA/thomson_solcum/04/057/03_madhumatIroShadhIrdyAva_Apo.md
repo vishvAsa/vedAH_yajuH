@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-mádhumatīr óṣadhīr dyā́va ā́po  
-mádhuman no bhavatu antárikṣam  
-kṣétrasya pátir mádhumān no astu  
-áriṣyanto ánu enaṃ carema  
+म꣡धुमतीर् ओ꣡षधीर् द्या꣡व आ꣡पो  
+म꣡धुमन् नो भवतु अन्त꣡रिक्षम्  
+क्षे꣡त्रस्य प꣡तिर् म꣡धुमान् नो अस्तु  
+अ꣡रिष्यन्तो अ꣡नु एनं चरेम  

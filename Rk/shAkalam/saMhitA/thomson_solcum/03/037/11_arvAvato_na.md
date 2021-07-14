@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-arvāváto na ā́ gahi  
-átho śakra parāvátaḥ  
-ulokó† yás te adriva  
-índrehá táta ā́ gahi  
+अर्वाव꣡तो न आ꣡ गहि  
+अ꣡थो शक्र पराव꣡तः  
+उलोको꣡† य꣡स् ते अद्रिव  
+इ꣡न्द्रेह꣡ त꣡त आ꣡ गहि  

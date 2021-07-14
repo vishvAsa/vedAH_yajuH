@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-durmántu átra amŕ̥tasya nā́ma  
-sálakṣmā yád víṣurūpā bhávāti  
-yamásya yó manávate sumántu  
-ágne tám r̥ṣva pāhi áprayuchan  
+दुर्म꣡न्तु अ꣡त्र अम्ŕ̥तस्य ना꣡म  
+स꣡लक्ष्मा य꣡द् वि꣡षुरूपा भ꣡वाति  
+यम꣡स्य यो꣡ मन꣡वते सुम꣡न्तु  
+अ꣡ग्ने त꣡म् ऋष्व पाहि अ꣡प्रयुछन्  

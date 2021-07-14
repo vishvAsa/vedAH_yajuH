@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-prá vo vā́jā abhídyavo  
-havíṣmanto ghr̥tā́ciyā  
-devā́ñ jigāti sumnayúḥ  
+प्र꣡ वो वा꣡जा अभि꣡द्यवो  
+हवि꣡ष्मन्तो घृता꣡चिया  
+देवा꣡ञ् जिगाति सुम्नयुः꣡  

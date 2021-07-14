@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ní asmai devī́ svádhitir jihīta  
-índrāya gātúr uśatī́va yeme  
-sáṃ yád ójo yuváte víśvam ābhir  
-ánu svadhā́vne kṣitáyo namanta  
+नि꣡ अस्मै देवी꣡ स्व꣡धितिर् जिहीत  
+इ꣡न्द्राय गातु꣡र् उशती꣡व येमे  
+सं꣡ य꣡द् ओ꣡जो युव꣡ते वि꣡श्वम् आभिर्  
+अ꣡नु स्वधा꣡व्ने क्षित꣡यो नमन्त  

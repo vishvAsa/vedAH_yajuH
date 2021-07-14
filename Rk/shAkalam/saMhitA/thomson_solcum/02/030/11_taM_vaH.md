@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-táṃ vaḥ śárdham mā́rutaṃ sumnayúr girā́  
-úpa bruve námasā daíviyaṃ jánam  
-yáthā rayíṃ sárvavīraṃ náśāmahā  
-apatyasā́caṃ śrútiyaṃ divé-dive  
+तं꣡ वः श꣡र्धम् मा꣡रुतं सुम्नयु꣡र् गिरा꣡  
+उ꣡प ब्रुवे न꣡मसा दइ꣡वियं ज꣡नम्  
+य꣡था रयिं꣡ स꣡र्ववीरं न꣡शामहा  
+अपत्यसा꣡चं श्रु꣡तियं दिवे꣡-दिवे  

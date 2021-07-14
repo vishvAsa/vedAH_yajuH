@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índro diváḥ pratimā́nam pr̥thivyā́  
-víśvā veda sávanā hánti śúṣṇam  
-mahī́ṃ cid dyā́m ā́tanot sū́riyeṇa  
-cāskámbha cit kámbhanena skábhīyān  
+इ꣡न्द्रो दिवः꣡ प्रतिमा꣡नम् पृथिव्या꣡  
+वि꣡श्वा वेद स꣡वना ह꣡न्ति शु꣡ष्णम्  
+महीं꣡ चिद् द्या꣡म् आ꣡तनोत् सू꣡रियेण  
+चास्क꣡म्भ चित् क꣡म्भनेन स्क꣡भीयान्  

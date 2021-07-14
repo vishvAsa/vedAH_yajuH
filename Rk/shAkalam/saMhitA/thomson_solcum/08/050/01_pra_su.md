@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá sú śrutáṃ surā́dhasam  
-árcā śakrám abhíṣṭaye  
-yáḥ sunvaté stuvaté kā́miyaṃ vásu  
-sahásreṇeva máṃhate  
+प्र꣡ सु꣡ श्रुतं꣡ सुरा꣡धसम्  
+अ꣡र्चा शक्र꣡म् अभि꣡ष्टये  
+यः꣡ सुन्वते꣡ स्तुवते꣡ का꣡मियं व꣡सु  
+सह꣡स्रेणेव मं꣡हते  

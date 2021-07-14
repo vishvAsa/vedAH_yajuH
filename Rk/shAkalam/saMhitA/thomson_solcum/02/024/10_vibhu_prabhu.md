@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-vibhú prabhú prathamám mehánāvato  
-bŕ̥haspáteḥ suvidátrāṇi rā́dhiyā  
-imā́ sātā́ni veniyásya vājíno  
-yéna jánā ubháye bhuñjaté víśaḥ  
+विभु꣡ प्रभु꣡ प्रथम꣡म् मेह꣡नावतो  
+ब्ŕ̥हस्प꣡तेः सुविद꣡त्राणि रा꣡धिया  
+इमा꣡ साता꣡नि वेनिय꣡स्य वाजि꣡नो  
+ये꣡न ज꣡ना उभ꣡ये भुञ्जते꣡ वि꣡शः  

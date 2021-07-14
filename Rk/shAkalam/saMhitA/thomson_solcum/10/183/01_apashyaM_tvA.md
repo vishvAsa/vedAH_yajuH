@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ápaśyaṃ tvā mánasā cékitānaṃ  
-tápaso jātáṃ tápaso víbhūtam  
-ihá prajā́m ihá rayíṃ rárāṇaḥ  
-prá jāyasva prajáyā putrakāma  
+अ꣡पश्यं त्वा म꣡नसा चे꣡कितानं  
+त꣡पसो जातं꣡ त꣡पसो वि꣡भूतम्  
+इह꣡ प्रजा꣡म् इह꣡ रयिं꣡ र꣡राणः  
+प्र꣡ जायस्व प्रज꣡या पुत्रकाम  

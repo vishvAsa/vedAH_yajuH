@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sthūrásya rāyó br̥ható yá ī́śe  
-tám u ṣṭavāma vidátheṣu índram  
-yó vāyúnā jáyati gómatīṣu  
-prá dhr̥ṣṇuyā́ náyati vásyo ácha  
+स्थूर꣡स्य रायो꣡ बृहतो꣡ य꣡ ई꣡शे  
+त꣡म् उ ष्टवाम विद꣡थेषु इ꣡न्द्रम्  
+यो꣡ वायु꣡ना ज꣡यति गो꣡मतीषु  
+प्र꣡ धृष्णुया꣡ न꣡यति व꣡स्यो अ꣡छ  

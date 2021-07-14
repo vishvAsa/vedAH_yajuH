@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-śúcī vo havyā́ marutaḥ śúcīnāṃ  
-śúciṃ hinomi adhvaráṃ śúcibhyaḥ  
-r̥téna satyám r̥tasā́pa āyañ  
-chúcijanmānaḥ śúcayaḥ pavākā́ḥ+  
+शु꣡ची वो हव्या꣡ मरुतः शु꣡चीनां  
+शु꣡चिं हिनोमि अध्वरं꣡ शु꣡चिभ्यः  
+ऋते꣡न सत्य꣡म् ऋतसा꣡प आयञ्  
+छु꣡चिजन्मानः शु꣡चयः पवाकाः꣡+  

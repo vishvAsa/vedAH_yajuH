@@ -2,9 +2,9 @@
 title = "005"
 
 +++
-sá ciketa sáhīyasā  
-agníś citréṇa kármaṇā  
-sá hótā śáśvatīnãṃ  
-dákṣiṇābhir abhī́vr̥ta  
-inóti ca pratīvíyaṃ  
-nábhantām anyaké same  
+स꣡ चिकेत स꣡हीयसा  
+अग्नि꣡श् चित्रे꣡ण क꣡र्मणा  
+स꣡ हो꣡ता श꣡श्वतीन्ãं  
+द꣡क्षिणाभिर् अभी꣡वृत  
+इनो꣡ति च प्रतीवि꣡यं  
+न꣡भन्ताम् अन्यके꣡ समे  

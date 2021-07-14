@@ -2,6 +2,6 @@
 title = "028"
 
 +++
-yó víśvāni abhí vratā́  
-sómasya máde ándhasaḥ  
-índro devéṣu cétati  
+यो꣡ वि꣡श्वानि अभि꣡ व्रता꣡  
+सो꣡मस्य म꣡दे अ꣡न्धसः  
+इ꣡न्द्रो देवे꣡षु चे꣡तति  

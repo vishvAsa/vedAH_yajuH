@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prá yáṃ rāyé nínīṣasi  
-márto yás te vaso dā́śat  
-sá vīráṃ dhatte agna ukthaśaṃsínaṃ  
-tmánā sahasrapoṣíṇam  
+प्र꣡ यं꣡ राये꣡ नि꣡नीषसि  
+म꣡र्तो य꣡स् ते वसो दा꣡शत्  
+स꣡ वीरं꣡ धत्ते अग्न उक्थशंसि꣡नं  
+त्म꣡ना सहस्रपोषि꣡णम्  

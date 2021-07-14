@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-amī́ yé devā sthána  
-triṣú ā́ rocané diváḥ  
-kád va r̥táṃ kád ánr̥taṃ  
-kúva pratnā́ va ā́hutir  
-vittám me asyá rodasī  
+अमी꣡ ये꣡ देवा स्थ꣡न  
+त्रिषु꣡ आ꣡ रोचने꣡ दिवः꣡  
+क꣡द् व ऋतं꣡ क꣡द् अ꣡नृतं  
+कु꣡व प्रत्ना꣡ व आ꣡हुतिर्  
+वित्त꣡म् मे अस्य꣡ रोदसी  

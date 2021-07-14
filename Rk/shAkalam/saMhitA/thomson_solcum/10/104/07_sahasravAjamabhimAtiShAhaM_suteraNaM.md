@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sahásravājam abhimātiṣā́haṃ  
-sutéraṇam maghávānaṃ suvr̥ktím  
-úpa bhūṣanti gíro ápratītam  
-índraṃ namasyā́ jaritúḥ pananta  
+सह꣡स्रवाजम् अभिमातिषा꣡हं  
+सुते꣡रणम् मघ꣡वानं सुवृक्ति꣡म्  
+उ꣡प भूषन्ति गि꣡रो अ꣡प्रतीतम्  
+इ꣡न्द्रं नमस्या꣡ जरितुः꣡ पनन्त  

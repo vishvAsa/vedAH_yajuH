@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tuvám agne vāgháte supráṇītiḥ  
-sutásomāya vidhaté yaviṣṭha  
-rátnam bhara śaśamānā́ya ghr̥ṣve  
-pr̥thú ścandrám ávase carṣaṇiprā́ḥ  
+तुव꣡म् अग्ने वाघ꣡ते सुप्र꣡णीतिः  
+सुत꣡सोमाय विधते꣡ यविष्ठ  
+र꣡त्नम् भर शशमाना꣡य घृष्वे  
+पृथु꣡ श्चन्द्र꣡म् अ꣡वसे चर्षणिप्राः꣡  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-purú tvā dāśuvā́n voce  
-arír agne táva svid ā́  
-todásyeva śaraṇá ā́ mahásya  
+पुरु꣡ त्वा दाशुवा꣡न् वोचे  
+अरि꣡र् अग्ने त꣡व स्विद् आ꣡  
+तोद꣡स्येव शरण꣡ आ꣡ मह꣡स्य  

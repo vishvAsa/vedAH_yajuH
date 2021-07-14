@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-utá sma té páruṣṇiyām  
-ū́rṇā vasata śundhyávaḥ  
-utá pavyā́ ráthānãm  
-ádrim bhindanti ójasā  
+उत꣡ स्म ते꣡ प꣡रुष्णियाम्  
+ऊ꣡र्णा वसत शुन्ध्य꣡वः  
+उत꣡ पव्या꣡ र꣡थान्ãम्  
+अ꣡द्रिम् भिन्दन्ति ओ꣡जसा  

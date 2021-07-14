@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-etā́ni vām aśvinā várdhanāni  
-bráhma stómaṃ gr̥tsamadā́so akran  
-tā́ni narā jujuṣāṇópa yātam  
-br̥hád vadema vidáthe suvī́rāḥ  
+एता꣡नि वाम् अश्विना व꣡र्धनानि  
+ब्र꣡ह्म स्तो꣡मं गृत्समदा꣡सो अक्रन्  
+ता꣡नि नरा जुजुषाणो꣡प यातम्  
+बृह꣡द् वदेम विद꣡थे सुवी꣡राः  

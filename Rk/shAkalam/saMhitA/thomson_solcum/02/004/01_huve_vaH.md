@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-huvé vaḥ sudiyótmānaṃ suvr̥ktíṃ  
-viśā́m agním átithiṃ suprayásam  
-mitrá iva yó didhiṣā́yiyo bhū́d  
-devá ā́deve jáne jātávedāḥ  
+हुवे꣡ वः सुदियो꣡त्मानं सुवृक्तिं꣡  
+विशा꣡म् अग्नि꣡म् अ꣡तिथिं सुप्रय꣡सम्  
+मित्र꣡ इव यो꣡ दिधिषा꣡यियो भू꣡द्  
+देव꣡ आ꣡देवे ज꣡ने जात꣡वेदाः  

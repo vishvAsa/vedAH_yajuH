@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-íṣaṃ duhán sudúghāṃ viśvádhāyasaṃ  
-yajñapríye yájamānāya sukrato  
-ágne ghr̥tásnus trír r̥tā́ni dī́diyad  
-vartír yajñám pariyán sukratūyase  
+इ꣡षं दुह꣡न् सुदु꣡घां विश्व꣡धायसं  
+यज्ञप्रि꣡ये य꣡जमानाय सुक्रतो  
+अ꣡ग्ने घृत꣡स्नुस् त्रि꣡र् ऋता꣡नि दी꣡दियद्  
+वर्ति꣡र् यज्ञ꣡म् परिय꣡न् सुक्रतूयसे  

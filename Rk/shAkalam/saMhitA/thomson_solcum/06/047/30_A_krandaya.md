@@ -2,7 +2,7 @@
 title = "030"
 
 +++
-ā́ krandaya bálam ójo na ā́ dhā  
-ní ṣṭanihi duritā́ bā́dhamānaḥ  
-ápa protha dundubhe duchúnā itá  
-índrasya muṣṭír asi vīḷáyasva  
+आ꣡ क्रन्दय ब꣡लम् ओ꣡जो न आ꣡ धा  
+नि꣡ ष्टनिहि दुरिता꣡ बा꣡धमानः  
+अ꣡प प्रोथ दुन्दुभे दुछु꣡ना इत꣡  
+इ꣡न्द्रस्य मुष्टि꣡र् असि वीऌअ꣡यस्व  

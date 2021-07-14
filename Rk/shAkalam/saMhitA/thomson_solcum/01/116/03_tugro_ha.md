@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-túgro ha bhujyúm aśvinodameghé  
-rayíṃ ná káś cin mamr̥vā́m̐ ávāhāḥ  
-tám ūhathur naubhír ātmanvátībhir  
-antarikṣaprúdbhir ápodakābhiḥ  
+तु꣡ग्रो ह भुज्यु꣡म् अश्विनोदमेघे꣡  
+रयिं꣡ न꣡ क꣡श् चिन् ममृवाँ꣡ अ꣡वाहाः  
+त꣡म् ऊहथुर् नौभि꣡र् आत्मन्व꣡तीभिर्  
+अन्तरिक्षप्रु꣡द्भिर् अ꣡पोदकाभिः  

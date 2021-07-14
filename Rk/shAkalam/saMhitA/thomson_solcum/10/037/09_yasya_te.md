@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yásya te víśvā bhúvanāni ketúnā  
-prá cérate ní ca viśánte aktúbhiḥ  
-anāgāstvéna harikeśa sūriya  
-áhnāhnā no vásyasā-vasyasód ihi  
+य꣡स्य ते वि꣡श्वा भु꣡वनानि केतु꣡ना  
+प्र꣡ चे꣡रते नि꣡ च विश꣡न्ते अक्तु꣡भिः  
+अनागास्त्वे꣡न हरिकेश सूरिय  
+अ꣡ह्नाह्ना नो व꣡स्यसा-वस्यसो꣡द् इहि  

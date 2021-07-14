@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-sudeváḥ samahāsati  
-suvī́ro naro marutaḥ sá mártiyaḥ  
-yáṃ trā́yadhve siyā́ma té  
+सुदेवः꣡ समहासति  
+सुवी꣡रो नरो मरुतः स꣡ म꣡र्तियः  
+यं꣡ त्रा꣡यध्वे सिया꣡म ते꣡  

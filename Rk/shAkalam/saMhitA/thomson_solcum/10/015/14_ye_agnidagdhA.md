@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yé agnidagdhā́ yé ánagnidagdhā  
-mádhye diváḥ svadháyā mādáyante  
-tébhiḥ svarā́ḷ · ásunītim etā́ṃ  
-yathāvaśáṃ tanúvaṃ kalpayasva  
+ये꣡ अग्निदग्धा꣡ ये꣡ अ꣡नग्निदग्धा  
+म꣡ध्ये दिवः꣡ स्वध꣡या माद꣡यन्ते  
+ते꣡भिः स्वरा꣡ऌ · अ꣡सुनीतिम् एतां꣡  
+यथावशं꣡ तनु꣡वं कल्पयस्व  

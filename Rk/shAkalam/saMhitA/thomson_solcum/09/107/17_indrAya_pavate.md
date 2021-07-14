@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-índrāya pavate mádaḥ  
-sómo marútvate sutáḥ  
-sahásradhāro áti ávyam arṣati  
-tám ī mr̥janti āyávaḥ  
+इ꣡न्द्राय पवते म꣡दः  
+सो꣡मो मरु꣡त्वते सुतः꣡  
+सह꣡स्रधारो अ꣡ति अ꣡व्यम् अर्षति  
+त꣡म् ई मृजन्ति आय꣡वः  

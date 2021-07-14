@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-codáyataṃ sūnŕ̥tāḥ pínvataṃ dhíya  
-út púraṃdhīr īrayataṃ tád uśmasi  
-yaśásam bhāgáṃ kr̥ṇutaṃ no aśvinā  
-sómaṃ ná cā́rum maghávatsu nas kr̥tam  
+चोद꣡यतं सून्ŕ̥ताः पि꣡न्वतं धि꣡य  
+उ꣡त् पु꣡रंधीर् ईरयतं त꣡द् उश्मसि  
+यश꣡सम् भागं꣡ कृणुतं नो अश्विना  
+सो꣡मं न꣡ चा꣡रुम् मघ꣡वत्सु नस् कृतम्  

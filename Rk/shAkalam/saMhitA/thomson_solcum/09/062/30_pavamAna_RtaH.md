@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-pávamāna r̥táḥ kavíḥ  
-sómaḥ pavítram ā́sadat  
-dádhat stotré suvī́riyam  
+प꣡वमान ऋतः꣡ कविः꣡  
+सो꣡मः पवि꣡त्रम् आ꣡सदत्  
+द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्  

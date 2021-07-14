@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-préndrasya vocam prathamā́ kr̥tā́ni  
-prá nū́tanā maghávā yā́ cakā́ra  
-yadéd ádevīr ásahiṣṭa māyā́  
-áthābhavat kévalaḥ sómo asya  
+प्रे꣡न्द्रस्य वोचम् प्रथमा꣡ कृता꣡नि  
+प्र꣡ नू꣡तना मघ꣡वा या꣡ चका꣡र  
+यदे꣡द् अ꣡देवीर् अ꣡सहिष्ट माया꣡  
+अ꣡थाभवत् के꣡वलः सो꣡मो अस्य  

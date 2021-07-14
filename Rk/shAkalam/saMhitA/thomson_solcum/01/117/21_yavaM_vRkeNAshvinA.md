@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-yávaṃ vŕ̥keṇa aśvinā vápantā  
-íṣaṃ duhántā mánuṣāya dasrā  
-abhí dásyum bákureṇā dhámantā  
-urú jyótiś cakrathur ā́riyāya  
+य꣡वं व्ŕ̥केण अश्विना व꣡पन्ता  
+इ꣡षं दुह꣡न्ता म꣡नुषाय दस्रा  
+अभि꣡ द꣡स्युम् ब꣡कुरेणा ध꣡मन्ता  
+उरु꣡ ज्यो꣡तिश् चक्रथुर् आ꣡रियाय  

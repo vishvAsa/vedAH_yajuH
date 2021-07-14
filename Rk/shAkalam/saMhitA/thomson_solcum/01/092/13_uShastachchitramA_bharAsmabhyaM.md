@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-úṣas tác citrám ā́ bhara  
-asmábhyaṃ vājinīvati  
-yéna tokáṃ ca tánayaṃ ca dhā́mahe  
+उ꣡षस् त꣡च् चित्र꣡म् आ꣡ भर  
+अस्म꣡भ्यं वाजिनीवति  
+ये꣡न तोकं꣡ च त꣡नयं च धा꣡महे  

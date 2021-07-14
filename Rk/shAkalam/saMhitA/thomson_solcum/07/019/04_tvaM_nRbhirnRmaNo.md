@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuváṃ nŕ̥bhir nr̥maṇo devávītau  
-bhū́rīṇi vr̥trā́ hariaśva haṃsi  
-tuváṃ ní dásyuṃ cúmuriṃ dhúniṃ ca  
-ásvāpayo dabhī́taye suhántu  
+तुवं꣡ न्ŕ̥भिर् नृमणो देव꣡वीतौ  
+भू꣡रीणि वृत्रा꣡ हरिअश्व हंसि  
+तुवं꣡ नि꣡ द꣡स्युं चु꣡मुरिं धु꣡निं च  
+अ꣡स्वापयो दभी꣡तये सुह꣡न्तु  

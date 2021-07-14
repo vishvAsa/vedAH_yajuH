@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yád dhaviṣyàm r̥tuśó devayā́naṃ  
-trír mā́nuṣāḥ pári áśvaṃ náyanti  
-átrā pūṣṇáḥ prathamó bhāgá eti  
-yajñáṃ devébhyaḥ prativedáyann ajáḥ  
+य꣡द् धविष्य᳡म् ऋतुशो꣡ देवया꣡नं  
+त्रि꣡र् मा꣡नुषाः प꣡रि अ꣡श्वं न꣡यन्ति  
+अ꣡त्रा पूष्णः꣡ प्रथमो꣡ भाग꣡ एति  
+यज्ञं꣡ देवे꣡भ्यः प्रतिवेद꣡यन्न् अजः꣡  

@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-índro mádāya vāvr̥dhe  
-śávase vr̥trahā́ nŕ̥bhiḥ  
-tám ín mahátsu ājíṣu  
-utém árbhe havāmahe  
-sá vā́jeṣu prá no 'viṣat  
+इ꣡न्द्रो म꣡दाय वावृधे  
+श꣡वसे वृत्रहा꣡ न्ŕ̥भिः  
+त꣡म् इ꣡न् मह꣡त्सु आजि꣡षु  
+उते꣡म् अ꣡र्भे हवामहे  
+स꣡ वा꣡जेषु प्र꣡ नो ऽविषत्  

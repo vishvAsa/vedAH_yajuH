@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-sá pavasva yá ā́vitha  
-índraṃ vr̥trā́ya hántave  
-vavrivā́ṃsam mahī́r apáḥ  
+स꣡ पवस्व य꣡ आ꣡विथ  
+इ꣡न्द्रं वृत्रा꣡य ह꣡न्तवे  
+वव्रिवां꣡सम् मही꣡र् अपः꣡  

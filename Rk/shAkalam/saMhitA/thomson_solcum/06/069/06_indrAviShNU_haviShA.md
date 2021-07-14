@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-índrāviṣṇū havíṣā vāvr̥dhānā́  
-ágrādvānā námasā rātahavyā  
-ghŕ̥tāsutī dráviṇaṃ dhattam asmé  
-samudrá sthaḥ kaláśaḥ somadhā́naḥ  
+इ꣡न्द्राविष्णू हवि꣡षा वावृधाना꣡  
+अ꣡ग्राद्वाना न꣡मसा रातहव्या  
+घ्ŕ̥तासुती द्र꣡विणं धत्तम् अस्मे꣡  
+समुद्र꣡ स्थः कल꣡शः सोमधा꣡नः  

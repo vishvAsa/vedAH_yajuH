@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-br̥hánta ín nú yé te tarutra  
-ukthébhir vā sumnám āvívāsān  
-str̥ṇānā́so barhíḥ pastíyāvat  
-tuvótā íd indra vā́jam agman  
+बृह꣡न्त इ꣡न् नु꣡ ये꣡ ते तरुत्र  
+उक्थे꣡भिर् वा सुम्न꣡म् आवि꣡वासान्  
+स्तृणाना꣡सो बर्हिः꣡ पस्ति꣡यावत्  
+तुवो꣡ता इ꣡द् इन्द्र वा꣡जम् अग्मन्  

@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-imám me varuṇa śrudhī  
-hávam adyā́ ca mr̥̄ḷaya+  
-tuvā́m avasyúr ā́ cake  
+इम꣡म् मे वरुण श्रुधी  
+ह꣡वम् अद्या꣡ च मॄऌअय+  
+तुवा꣡म् अवस्यु꣡र् आ꣡ चके  

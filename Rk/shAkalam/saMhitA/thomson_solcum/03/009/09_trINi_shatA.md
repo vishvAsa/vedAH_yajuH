@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-trī́ṇi śatā́ trī́ sahásrāṇi agníṃ  
-triṃśác ca devā́ náva cāsaparyan  
-aúkṣan ghr̥taír ástr̥ṇan barhír asmā  
-ā́d íd dhótāraṃ ní asādayanta  
+त्री꣡णि शता꣡ त्री꣡ सह꣡स्राणि अग्निं꣡  
+त्रिंश꣡च् च देवा꣡ न꣡व चासपर्यन्  
+अउ꣡क्षन् घृतइ꣡र् अ꣡स्तृणन् बर्हि꣡र् अस्मा  
+आ꣡द् इ꣡द् धो꣡तारं नि꣡ असादयन्त  

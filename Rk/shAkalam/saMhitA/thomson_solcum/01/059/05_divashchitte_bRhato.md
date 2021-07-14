@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-diváś cit te br̥ható jātavedo  
-vaíśvānara prá ririce mahitvám  
-rā́jā kr̥ṣṭīnā́m asi mā́nuṣīṇāṃ  
-yudhā́ devébhyo várivaś cakartha  
+दिव꣡श् चित् ते बृहतो꣡ जातवेदो  
+वइ꣡श्वानर प्र꣡ रिरिचे महित्व꣡म्  
+रा꣡जा कृष्टीना꣡म् असि मा꣡नुषीणां  
+युधा꣡ देवे꣡भ्यो व꣡रिवश् चकर्थ  

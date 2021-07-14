@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-íṣaṃ tokā́ya no dádhad  
-asmábhyaṃ soma viśvátaḥ  
-ā́ pavasva sahasríṇam  
+इ꣡षं तोका꣡य नो द꣡धद्  
+अस्म꣡भ्यं सोम विश्व꣡तः  
+आ꣡ पवस्व सहस्रि꣡णम्  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-píbā sómam indara+ mándatu tvā  
-yáṃ te suṣā́va hariaśva ádriḥ  
-sotúr bāhúbhyāṃ súyato ná árvā  
+पि꣡बा सो꣡मम् इन्दर+ म꣡न्दतु त्वा  
+यं꣡ ते सुषा꣡व हरिअश्व अ꣡द्रिः  
+सोतु꣡र् बाहु꣡भ्यां सु꣡यतो न꣡ अ꣡र्वा  

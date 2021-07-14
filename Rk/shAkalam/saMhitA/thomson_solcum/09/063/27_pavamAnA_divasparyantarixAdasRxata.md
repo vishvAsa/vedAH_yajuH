@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-pávamānā divás pári  
-antárikṣād asr̥kṣata  
-pr̥thivyā́ ádhi sā́navi  
+प꣡वमाना दिव꣡स् प꣡रि  
+अन्त꣡रिक्षाद् असृक्षत  
+पृथिव्या꣡ अ꣡धि सा꣡नवि  

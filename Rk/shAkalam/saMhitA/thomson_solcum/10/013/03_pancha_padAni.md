@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-páñca padā́ni rupó ánv arohaṃ  
-cátuṣpadīm ánu emi vraténa  
-akṣáreṇa · práti mima etā́m  
-r̥tásya nā́bhāv ádhi sám punāmi  
+प꣡ञ्च पदा꣡नि रुपो꣡ अ꣡न्व् अरोहं  
+च꣡तुष्पदीम् अ꣡नु एमि व्रते꣡न  
+अक्ष꣡रेण · प्र꣡ति मिम एता꣡म्  
+ऋत꣡स्य ना꣡भाव् अ꣡धि स꣡म् पुनामि  

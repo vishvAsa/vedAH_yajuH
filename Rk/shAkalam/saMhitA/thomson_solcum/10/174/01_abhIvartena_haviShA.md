@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-abhīvarténa havíṣā  
-yénéndro abhivāvr̥té  
-ténāsmā́n brahmaṇas pate  
-abhí rāṣṭrā́ya vartaya  
+अभीवर्ते꣡न हवि꣡षा  
+ये꣡ने꣡न्द्रो अभिवावृते꣡  
+ते꣡नास्मा꣡न् ब्रह्मणस् पते  
+अभि꣡ राष्ट्रा꣡य वर्तय  

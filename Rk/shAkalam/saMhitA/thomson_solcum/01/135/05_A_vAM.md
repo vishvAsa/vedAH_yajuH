@@ -2,10 +2,10 @@
 title = "005"
 
 +++
-ā́ vāṃ dhíyo vavr̥tyur adhvarā́m̐ úpa  
-imám índum · marmr̥janta vājínam  
-āśúm átyaṃ ná vājínam  
-téṣām pibatam asmayū́  
-ā́ no gantam ihótiyā́  
-índravāyū sutā́nām ádribhir yuvám  
-mádāya vājadā yuvám  
+आ꣡ वां धि꣡यो ववृत्युर् अध्वराँ꣡ उ꣡प  
+इम꣡म् इ꣡न्दुम् · मर्मृजन्त वाजि꣡नम्  
+आशु꣡म् अ꣡त्यं न꣡ वाजि꣡नम्  
+ते꣡षाम् पिबतम् अस्मयू꣡  
+आ꣡ नो गन्तम् इहो꣡तिया꣡  
+इ꣡न्द्रवायू सुता꣡नाम् अ꣡द्रिभिर् युव꣡म्  
+म꣡दाय वाजदा युव꣡म्  

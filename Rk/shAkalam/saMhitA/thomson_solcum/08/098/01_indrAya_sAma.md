@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-índrāya sā́ma gāyata  
-víprāya br̥haté br̥hát  
-dharmakŕ̥te vipaścíte panasyáve  
+इ꣡न्द्राय सा꣡म गायत  
+वि꣡प्राय बृहते꣡ बृह꣡त्  
+धर्मक्ŕ̥ते विपश्चि꣡ते पनस्य꣡वे  

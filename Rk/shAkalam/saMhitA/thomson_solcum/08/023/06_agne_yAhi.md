@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ágne yāhí suśastíbhir  
-havyā́ júhvāna ānuṣák  
-yáthā dūtó babhū́tha havyavā́hanaḥ  
+अ꣡ग्ने याहि꣡ सुशस्ति꣡भिर्  
+हव्या꣡ जु꣡ह्वान आनुष꣡क्  
+य꣡था दूतो꣡ बभू꣡थ हव्यवा꣡हनः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-suastidā́ viśás pátir  
-vr̥trahā́ vimr̥dhó vaśī́  
-vŕ̥ṣéndraḥ purá etu naḥ  
-somapā́ abhayaṃkaráḥ  
+सुअस्तिदा꣡ विश꣡स् प꣡तिर्  
+वृत्रहा꣡ विमृधो꣡ वशी꣡  
+व्ŕ̥षे꣡न्द्रः पुर꣡ एतु नः  
+सोमपा꣡ अभयंकरः꣡  

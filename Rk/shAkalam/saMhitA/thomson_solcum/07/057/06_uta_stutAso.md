@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-utá stutā́so marúto viantu  
-víśvebhir nā́mabhir náro havī́ṃṣi  
-dádāta no amŕ̥tasya prajā́yai  
-jigr̥tá rāyáḥ sūnŕ̥tā maghā́ni  
+उत꣡ स्तुता꣡सो मरु꣡तो विअन्तु  
+वि꣡श्वेभिर् ना꣡मभिर् न꣡रो हवीं꣡षि  
+द꣡दात नो अम्ŕ̥तस्य प्रजा꣡यै  
+जिगृत꣡ रायः꣡ सून्ŕ̥ता मघा꣡नि  

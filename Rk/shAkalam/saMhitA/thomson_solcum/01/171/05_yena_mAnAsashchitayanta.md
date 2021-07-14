@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yéna mā́nāsaś citáyanta usrā́  
-víuṣṭiṣu śávasā śáśvatīnām  
-sá no marúdbhir vr̥ṣabha śrávo dhā  
-ugrá ugrébhi stháviraḥ sahodā́ḥ  
+ये꣡न मा꣡नासश् चित꣡यन्त उस्रा꣡  
+वि꣡उष्टिषु श꣡वसा श꣡श्वतीनाम्  
+स꣡ नो मरु꣡द्भिर् वृषभ श्र꣡वो धा  
+उग्र꣡ उग्रे꣡भि स्थ꣡विरः सहोदाः꣡  

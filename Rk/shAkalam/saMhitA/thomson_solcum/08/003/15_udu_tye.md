@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-úd u tyé mádhumattamā  
-gíra stómāsa īrate  
-satrājíto dhanasā́ ákṣitotayo  
-vājayánto ráthā iva  
+उ꣡द् उ त्ये꣡ म꣡धुमत्तमा  
+गि꣡र स्तो꣡मास ईरते  
+सत्राजि꣡तो धनसा꣡ अ꣡क्षितोतयो  
+वाजय꣡न्तो र꣡था इव  

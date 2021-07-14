@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ūrdhvó gandharvó ádhi nā́ke asthāt  
-pratyáṅ citrā́ bíbhrad asyā́yudhāni  
-vásāno átkaṃ surabhíṃ dr̥śé káṃ  
-súvar ṇá nā́ma janata priyā́ṇi  
+ऊर्ध्वो꣡ गन्धर्वो꣡ अ꣡धि ना꣡के अस्थात्  
+प्रत्य꣡ङ् चित्रा꣡ बि꣡भ्रद् अस्या꣡युधानि  
+व꣡सानो अ꣡त्कं सुरभिं꣡ दृशे꣡ कं꣡  
+सु꣡वर् ण꣡ ना꣡म जनत प्रिया꣡णि  

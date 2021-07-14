@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-śunám andhā́ya bháram ahvayat sā́  
-vr̥kī́r aśvinā vr̥ṣaṇā náréti  
-jāráḥ kanī́na iva cakṣadāná  
-r̥jrā́śuvaḥ śatám ékaṃ ca meṣā́n  
+शुन꣡म् अन्धा꣡य भ꣡रम् अह्वयत् सा꣡  
+वृकी꣡र् अश्विना वृषणा न꣡रे꣡ति  
+जारः꣡ कनी꣡न इव चक्षदान꣡  
+ऋज्रा꣡शुवः शत꣡म् ए꣡कं च मेषा꣡न्  

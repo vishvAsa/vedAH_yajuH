@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-ambáyo yanti ádhvabhir  
-jāmáyo adhvarīyatā́m  
-pr̥ñcatī́r mádhunā páyaḥ  
+अम्ब꣡यो यन्ति अ꣡ध्वभिर्  
+जाम꣡यो अध्वरीयता꣡म्  
+पृञ्चती꣡र् म꣡धुना प꣡यः  

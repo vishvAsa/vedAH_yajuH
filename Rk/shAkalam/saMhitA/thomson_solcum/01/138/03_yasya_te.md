@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-yásya te pūṣan sakhiyé vipanyávaḥ  
-krátvā cit sánto ávasā bubhujrirá  
-íti krátvā bubhujriré  
-tā́m ánu tvā návīyasīṃ  
-niyútaṃ rāyá īmahe  
-áheḷamāna uruśaṃsa sárī bhava  
-vā́je-vāje sárī bhava  
+य꣡स्य ते पूषन् सखिये꣡ विपन्य꣡वः  
+क्र꣡त्वा चित् स꣡न्तो अ꣡वसा बुभुज्रिर꣡  
+इ꣡ति क्र꣡त्वा बुभुज्रिरे꣡  
+ता꣡म् अ꣡नु त्वा न꣡वीयसीं  
+नियु꣡तं राय꣡ ईमहे  
+अ꣡हेऌअमान उरुशंस स꣡री भव  
+वा꣡जे-वाजे स꣡री भव  

@@ -2,8 +2,8 @@
 title = "023"
 
 +++
-párśur ha nā́ma mānavī́  
-sākáṃ sasūva viṃśatím  
-bhadrám bhala tyásyā abhūd  
-yásyā udáram ā́mayad  
-víśvasmād índra úttaraḥ  
+प꣡र्शुर् ह ना꣡म मानवी꣡  
+साकं꣡ ससूव विंशति꣡म्  
+भद्र꣡म् भल त्य꣡स्या अभूद्  
+य꣡स्या उद꣡रम् आ꣡मयद्  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

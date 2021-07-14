@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tuvé dhenúḥ sudúghā jātavedo  
-asaścáteva samanā́ sabardhúk  
-tuváṃ nŕ̥bhir dákṣiṇāvadbhir agne  
-sumitrébhir idhyase devayádbhiḥ  
+तुवे꣡ धेनुः꣡ सुदु꣡घा जातवेदो  
+असश्च꣡तेव समना꣡ सबर्धु꣡क्  
+तुवं꣡ न्ŕ̥भिर् द꣡क्षिणावद्भिर् अग्ने  
+सुमित्रे꣡भिर् इध्यसे देवय꣡द्भिः  

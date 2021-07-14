@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ā́po bhū́yiṣṭhā íti éko abravīd  
-agnír bhū́yiṣṭha íti anyó abravīt  
-vadharyántīm bahúbhyaḥ praíko abravīd  
-r̥tā́ vádantaś camasā́m̐ apiṃśata  
+आ꣡पो भू꣡यिष्ठा इ꣡ति ए꣡को अब्रवीद्  
+अग्नि꣡र् भू꣡यिष्ठ इ꣡ति अन्यो꣡ अब्रवीत्  
+वधर्य꣡न्तीम् बहु꣡भ्यः प्रइ꣡को अब्रवीद्  
+ऋता꣡ व꣡दन्तश् चमसाँ꣡ अपिंशत  

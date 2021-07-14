@@ -2,6 +2,6 @@
 title = "033"
 
 +++
-túvā́m íd dhí tuvāyávo  
-anunónuvataś cárān  
-sákhāya indra kārávaḥ  
+तु꣡वा꣡म् इ꣡द् धि꣡ तुवाय꣡वो  
+अनुनो꣡नुवतश् च꣡रान्  
+स꣡खाय इन्द्र कार꣡वः  

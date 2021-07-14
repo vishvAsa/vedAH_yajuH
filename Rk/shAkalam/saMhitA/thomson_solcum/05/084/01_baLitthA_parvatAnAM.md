@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-báḷ itthā́ párvatānãṃ  
-khidrám bibharṣi pr̥thivi  
-prá yā́ bhū́mim pravatvati  
-mahnā́ jinóṣi mahini  
+ब꣡ऌ इत्था꣡ प꣡र्वतान्ãं  
+खिद्र꣡म् बिभर्षि पृथिवि  
+प्र꣡ या꣡ भू꣡मिम् प्रवत्वति  
+मह्ना꣡ जिनो꣡षि महिनि  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-mā́ no árātir īśata  
-devásya mártiyasya ca  
-párṣi tásyā utá dviṣáḥ  
+मा꣡ नो अ꣡रातिर् ईशत  
+देव꣡स्य म꣡र्तियस्य च  
+प꣡र्षि त꣡स्या उत꣡ द्विषः꣡  

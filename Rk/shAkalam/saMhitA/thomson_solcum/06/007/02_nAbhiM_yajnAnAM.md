@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-nā́bhiṃ yajñā́nāṃ sádanaṃ rayīṇā́m  
-mahā́m āhāvám abhí sáṃ navanta  
-vaiśvānaráṃ rathíyam adhvarā́ṇāṃ  
-yajñásya ketúṃ janayanta devā́ḥ  
+ना꣡भिं यज्ञा꣡नां स꣡दनं रयीणा꣡म्  
+महा꣡म् आहाव꣡म् अभि꣡ सं꣡ नवन्त  
+वैश्वानरं꣡ रथि꣡यम् अध्वरा꣡णां  
+यज्ञ꣡स्य केतुं꣡ जनयन्त देवाः꣡  

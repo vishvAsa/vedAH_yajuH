@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yuyópa nā́bhir úparasya āyóḥ  
-prá pū́rvābhis tirate rā́ṣṭi śū́raḥ  
-añjasī́ · kuliśī́ vīrápatnī  
-páyo hinvānā́ udábhir bharante  
+युयो꣡प ना꣡भिर् उ꣡परस्य आयोः꣡  
+प्र꣡ पू꣡र्वाभिस् तिरते रा꣡ष्टि शू꣡रः  
+अञ्जसी꣡ · कुलिशी꣡ वीर꣡पत्नी  
+प꣡यो हिन्वाना꣡ उद꣡भिर् भरन्ते  

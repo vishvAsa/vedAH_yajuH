@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-mā́kudhríag indara+ śūra vásvīr  
-asmé bhūvann abhíṣṭayaḥ  
-vayáṃ-vayaṃ ta āsãṃ  
-sumné siyāma vajrivaḥ  
+मा꣡कुध्रि꣡अग् इन्दर+ शूर व꣡स्वीर्  
+अस्मे꣡ भूवन्न् अभि꣡ष्टयः  
+वयं꣡-वयं त आस्ãं  
+सुम्ने꣡ सियाम वज्रिवः  

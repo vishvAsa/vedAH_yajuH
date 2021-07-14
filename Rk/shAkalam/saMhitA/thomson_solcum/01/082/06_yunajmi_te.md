@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yunájmi te bráhmaṇā keśínā hárī  
-úpa prá yāhi dadhiṣé gábhastiyoḥ  
-út tvā sutā́so rabhasā́ amandiṣuḥ  
-pūṣaṇvā́n vajrin sám u pátniyāmadaḥ  
+युन꣡ज्मि ते ब्र꣡ह्मणा केशि꣡ना ह꣡री  
+उ꣡प प्र꣡ याहि दधिषे꣡ ग꣡भस्तियोः  
+उ꣡त् त्वा सुता꣡सो रभसा꣡ अमन्दिषुः  
+पूषण्वा꣡न् वज्रिन् स꣡म् उ प꣡त्नियामदः  

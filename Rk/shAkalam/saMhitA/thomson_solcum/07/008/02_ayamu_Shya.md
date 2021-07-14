@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ayám u ṣyá · súmahām̐ avedi  
-hótā mandró mánuṣo yahvó agníḥ  
-ví bhā́ akaḥ sasr̥jānáḥ pr̥thivyā́ṃ  
-kr̥ṣṇápavir óṣadhībhir vavakṣe  
+अय꣡म् उ ष्य꣡ · सु꣡महाँ अवेदि  
+हो꣡ता मन्द्रो꣡ म꣡नुषो यह्वो꣡ अग्निः꣡  
+वि꣡ भा꣡ अकः ससृजानः꣡ पृथिव्यां꣡  
+कृष्ण꣡पविर् ओ꣡षधीभिर् ववक्षे  

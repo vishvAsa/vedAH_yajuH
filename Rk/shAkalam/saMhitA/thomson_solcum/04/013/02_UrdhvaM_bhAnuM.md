@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ūrdhvám bhānúṃ savitā́ devó aśred  
-drapsáṃ dávidhvad gaviṣó ná sátvā  
-ánu vratáṃ váruṇo yanti mitró  
-yát sū́riyaṃ diví āroháyanti  
+ऊर्ध्व꣡म् भानुं꣡ सविता꣡ देवो꣡ अश्रेद्  
+द्रप्सं꣡ द꣡विध्वद् गविषो꣡ न꣡ स꣡त्वा  
+अ꣡नु व्रतं꣡ व꣡रुणो यन्ति मित्रो꣡  
+य꣡त् सू꣡रियं दिवि꣡ आरोह꣡यन्ति  

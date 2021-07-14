@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-pári víśvāni cétasā  
-mr̥śáse pávase matī́  
-sá naḥ soma śrávo vidaḥ  
+प꣡रि वि꣡श्वानि चे꣡तसा  
+मृश꣡से प꣡वसे मती꣡  
+स꣡ नः सोम श्र꣡वो विदः  

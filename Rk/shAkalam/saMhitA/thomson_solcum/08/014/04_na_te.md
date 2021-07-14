@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ná te vartā́sti rā́dhasa  
-índra devó ná mártiyaḥ  
-yád dítsasi stutó maghám  
+न꣡ ते वर्ता꣡स्ति रा꣡धस  
+इ꣡न्द्र देवो꣡ न꣡ म꣡र्तियः  
+य꣡द् दि꣡त्ससि स्तुतो꣡ मघ꣡म्  

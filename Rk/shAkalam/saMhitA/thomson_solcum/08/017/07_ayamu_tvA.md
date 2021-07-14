@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ayám u tvā vicarṣaṇe  
-jánīr ivābhí sáṃvr̥taḥ  
-prá sóma indra sarpatu  
+अय꣡म् उ त्वा विचर्षणे  
+ज꣡नीर् इवाभि꣡ सं꣡वृतः  
+प्र꣡ सो꣡म इन्द्र सर्पतु  

@@ -2,8 +2,8 @@
 title = "016"
 
 +++
-ā́ tū́ suśipra dampate  
-ráthaṃ tiṣṭhā hiraṇyáyam  
-ádha dyukṣáṃ sacevahi  
-sahásrapādam aruṣáṃ  
-suastigā́m anehásam  
+आ꣡ तू꣡ सुशिप्र दम्पते  
+र꣡थं तिष्ठा हिरण्य꣡यम्  
+अ꣡ध द्युक्षं꣡ सचेवहि  
+सह꣡स्रपादम् अरुषं꣡  
+सुअस्तिगा꣡म् अनेह꣡सम्  

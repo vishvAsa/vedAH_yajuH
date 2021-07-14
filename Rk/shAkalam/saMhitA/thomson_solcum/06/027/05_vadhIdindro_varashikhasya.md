@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vádhīd índro varáśikhasya śéṣo  
-'bhyāvartíne cāyamānā́ya śíkṣan  
-vr̥cī́vato yád dhariyūpī́yāyāṃ  
-hán pū́rve árdhe bhiyásā́paro dárt  
+व꣡धीद् इ꣡न्द्रो वर꣡शिखस्य शे꣡षो  
+ऽभ्यावर्ति꣡ने चायमाना꣡य शि꣡क्षन्  
+वृची꣡वतो य꣡द् धरियूपी꣡यायां  
+ह꣡न् पू꣡र्वे अ꣡र्धे भिय꣡सा꣡परो द꣡र्त्  

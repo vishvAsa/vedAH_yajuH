@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yáṃ tvā devā́so mánave dadhúr ihá  
-yájiṣṭhaṃ havyavāhana  
-yáṃ káṇvo médhiyātithir dhanaspŕ̥taṃ  
-yáṃ vŕ̥ṣā yám upastutáḥ  
+यं꣡ त्वा देवा꣡सो म꣡नवे दधु꣡र् इह꣡  
+य꣡जिष्ठं हव्यवाहन  
+यं꣡ क꣡ण्वो मे꣡धियातिथिर् धनस्प्ŕ̥तं  
+यं꣡ व्ŕ̥षा य꣡म् उपस्तुतः꣡  

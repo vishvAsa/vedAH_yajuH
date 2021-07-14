@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tuváṃ tám indra mártiyam  
-amitrayántam adrivaḥ  
-sarvarathā́ śatakrato  
-ní yāhi śavasas pate  
+तुवं꣡ त꣡म् इन्द्र म꣡र्तियम्  
+अमित्रय꣡न्तम् अद्रिवः  
+सर्वरथा꣡ शतक्रतो  
+नि꣡ याहि शवसस् पते  

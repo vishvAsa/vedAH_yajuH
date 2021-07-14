@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-siyonā́ pr̥thivi bhava  
-anr̥kṣarā́ nivéśanī  
-yáchā naḥ śárma sapráthaḥ  
+सियोना꣡ पृथिवि भव  
+अनृक्षरा꣡ निवे꣡शनी  
+य꣡छा नः श꣡र्म सप्र꣡थः  

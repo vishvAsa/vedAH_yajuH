@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-gavyánta índraṃ sakhiyā́ya víprā  
-aśvāyánto vŕ̥ṣaṇaṃ vājáyantaḥ  
-janīyánto janidā́m ákṣitotim  
-ā́ cyāvayāmo avaté ná kóśam  
+गव्य꣡न्त इ꣡न्द्रं सखिया꣡य वि꣡प्रा  
+अश्वाय꣡न्तो व्ŕ̥षणं वाज꣡यन्तः  
+जनीय꣡न्तो जनिदा꣡म् अ꣡क्षितोतिम्  
+आ꣡ च्यावयामो अवते꣡ न꣡ को꣡शम्  

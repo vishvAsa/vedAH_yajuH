@@ -2,7 +2,7 @@
 title = "037"
 
 +++
-ā́ jā́gr̥vir vípra r̥tā́ matīnā́ṃ  
-sómaḥ punānó asadac camū́ṣu  
-sápanti yám mithunā́so níkāmā  
-adhvaryávo rathirā́saḥ suhástāḥ  
+आ꣡ जा꣡गृविर् वि꣡प्र ऋता꣡ मतीनां꣡  
+सो꣡मः पुनानो꣡ असदच् चमू꣡षु  
+स꣡पन्ति य꣡म् मिथुना꣡सो नि꣡कामा  
+अध्वर्य꣡वो रथिरा꣡सः सुह꣡स्ताः  

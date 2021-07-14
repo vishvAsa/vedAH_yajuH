@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ráthe tíṣṭhan nayati vājínaḥ puró  
-yátra-yatra kāmáyate suṣārathíḥ  
-abhī́śūnām mahimā́nam panāyata  
-mánaḥ paścā́d ánu yachanti raśmáyaḥ  
+र꣡थे ति꣡ष्ठन् नयति वाजि꣡नः पुरो꣡  
+य꣡त्र-यत्र काम꣡यते सुषारथिः꣡  
+अभी꣡शूनाम् महिमा꣡नम् पनायत  
+म꣡नः पश्चा꣡द् अ꣡नु यछन्ति रश्म꣡यः  

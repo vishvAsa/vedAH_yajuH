@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-túviśuṣma túvikrato  
-śácīvo víśvayā mate  
-ā́ paprātha mahitvanā́  
+तु꣡विशुष्म तु꣡विक्रतो  
+श꣡चीवो वि꣡श्वया मते  
+आ꣡ पप्राथ महित्वना꣡  

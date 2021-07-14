@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-paścédám anyád abhavad yájatram  
-ámartiyasya bhúvanasya bhūnā́  
-suparṇó aṅgá savitúr garútmān  
-pū́rvo jātáḥ sá u asyā́nu dhárma  
+पश्चे꣡द꣡म् अन्य꣡द् अभवद् य꣡जत्रम्  
+अ꣡मर्तियस्य भु꣡वनस्य भूना꣡  
+सुपर्णो꣡ अङ्ग꣡ सवितु꣡र् गरु꣡त्मान्  
+पू꣡र्वो जातः꣡ स꣡ उ अस्या꣡नु ध꣡र्म  

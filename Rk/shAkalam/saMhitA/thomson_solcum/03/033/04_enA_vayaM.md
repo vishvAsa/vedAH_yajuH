@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-enā́ vayám páyasā pínvamānā  
-ánu yóniṃ devákr̥taṃ cárantīḥ  
-ná vártave prasaváḥ sárgataktaḥ  
-kiṃyúr vípro nadíyo johavīti  
+एना꣡ वय꣡म् प꣡यसा पि꣡न्वमाना  
+अ꣡नु यो꣡निं देव꣡कृतं च꣡रन्तीः  
+न꣡ व꣡र्तवे प्रसवः꣡ स꣡र्गतक्तः  
+किंयु꣡र् वि꣡प्रो नदि꣡यो जोहवीति  

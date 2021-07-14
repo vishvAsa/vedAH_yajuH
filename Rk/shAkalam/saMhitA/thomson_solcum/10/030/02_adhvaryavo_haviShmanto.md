@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ádhvaryavo havíṣmanto hí bhūtá  
-ácha apá itośatī́r uśantaḥ  
-áva yā́ś cáṣṭe aruṇáḥ suparṇás  
-tám ā́syadhvam ūrmím adyā́ suhastāḥ  
+अ꣡ध्वर्यवो हवि꣡ष्मन्तो हि꣡ भूत꣡  
+अ꣡छ अप꣡ इतोशती꣡र् उशन्तः  
+अ꣡व या꣡श् च꣡ष्टे अरुणः꣡ सुपर्ण꣡स्  
+त꣡म् आ꣡स्यध्वम् ऊर्मि꣡म् अद्या꣡ सुहस्ताः  

@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-vípraṃ hótāram adrúhaṃ  
-dhūmáketuṃ vibhā́vasum  
-yajñā́nāṃ ketúm īmahe  
+वि꣡प्रं हो꣡तारम् अद्रु꣡हं  
+धूम꣡केतुं विभा꣡वसुम्  
+यज्ञा꣡नां केतु꣡म् ईमहे  

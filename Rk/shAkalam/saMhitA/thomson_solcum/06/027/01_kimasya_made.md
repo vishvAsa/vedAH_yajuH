@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kím asya máde kím u asya pītā́v  
-índraḥ kím asya sakhiyé cakāra  
-ráṇā vā yé niṣádi kíṃ té asya  
-purā́ vividre kím u nū́tanāsaḥ  
+कि꣡म् अस्य म꣡दे कि꣡म् उ अस्य पीता꣡व्  
+इ꣡न्द्रः कि꣡म् अस्य सखिये꣡ चकार  
+र꣡णा वा ये꣡ निष꣡दि किं꣡ ते꣡ अस्य  
+पुरा꣡ विविद्रे कि꣡म् उ नू꣡तनासः  

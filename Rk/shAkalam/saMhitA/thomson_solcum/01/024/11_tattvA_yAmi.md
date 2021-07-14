@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-tát tvā yāmi bráhmaṇā vándamānas  
-tád ā́ śāste yájamāno havírbhiḥ  
-áheḷamāno varuṇehá bodhi  
-úruśaṃsa mā́ na ā́yuḥ prá moṣīḥ  
+त꣡त् त्वा यामि ब्र꣡ह्मणा व꣡न्दमानस्  
+त꣡द् आ꣡ शास्ते य꣡जमानो हवि꣡र्भिः  
+अ꣡हेऌअमानो वरुणेह꣡ बोधि  
+उ꣡रुशंस मा꣡ न आ꣡युः प्र꣡ मोषीः  

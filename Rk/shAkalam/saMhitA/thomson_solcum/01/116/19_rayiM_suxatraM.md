@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-rayíṃ sukṣatráṃ suapatyám ā́yuḥ  
-suvī́riyaṃ nāsatiyā váhantā  
-ā́ jahnā́vīṃ sámanasópa vā́jais  
-trír áhno bhāgáṃ dádhatīm ayātam  
+रयिं꣡ सुक्षत्रं꣡ सुअपत्य꣡म् आ꣡युः  
+सुवी꣡रियं नासतिया व꣡हन्ता  
+आ꣡ जह्ना꣡वीं स꣡मनसो꣡प वा꣡जैस्  
+त्रि꣡र् अ꣡ह्नो भागं꣡ द꣡धतीम् अयातम्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-eté sómāḥ pávamānāsa índraṃ  
-ráthā iva prá yayuḥ sātím ácha  
-sutā́ḥ pavítram áti yanti ávyaṃ  
-hitvī́ vavríṃ haríto vr̥ṣṭím ácha  
+एते꣡ सो꣡माः प꣡वमानास इ꣡न्द्रं  
+र꣡था इव प्र꣡ ययुः साति꣡म् अ꣡छ  
+सुताः꣡ पवि꣡त्रम् अ꣡ति यन्ति अ꣡व्यं  
+हित्वी꣡ वव्रिं꣡ हरि꣡तो वृष्टि꣡म् अ꣡छ  

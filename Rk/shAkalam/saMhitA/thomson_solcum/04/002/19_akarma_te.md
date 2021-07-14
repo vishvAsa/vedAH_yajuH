@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-ákarma te suápaso abhūma  
-r̥tám avasrann uṣáso vibhātī́ḥ  
-ánūnam agním purudhā́ suścandráṃ  
-devásya mármr̥jataś cā́ru cákṣuḥ  
+अ꣡कर्म ते सुअ꣡पसो अभूम  
+ऋत꣡म् अवस्रन्न् उष꣡सो विभातीः꣡  
+अ꣡नूनम् अग्नि꣡म् पुरुधा꣡ सुश्चन्द्रं꣡  
+देव꣡स्य म꣡र्मृजतश् चा꣡रु च꣡क्षुः  

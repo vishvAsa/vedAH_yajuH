@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-stotráṃ rādhānãm pate  
-gírvāho vīra yásya te  
-víbhūtir astu sūnŕ̥tā  
+स्तोत्रं꣡ राधान्ãम् पते  
+गि꣡र्वाहो वीर य꣡स्य ते  
+वि꣡भूतिर् अस्तु सून्ŕ̥ता  

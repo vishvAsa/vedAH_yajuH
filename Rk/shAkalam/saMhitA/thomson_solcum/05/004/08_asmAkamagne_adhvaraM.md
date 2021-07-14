@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-asmā́kam agne adhvaráṃ juṣasva  
-sáhasaḥ sūno triṣadhastha havyám  
-vayáṃ devéṣu sukŕ̥taḥ siyāma  
-śármaṇā nas trivárūthena pāhi  
+अस्मा꣡कम् अग्ने अध्वरं꣡ जुषस्व  
+स꣡हसः सूनो त्रिषधस्थ हव्य꣡म्  
+वयं꣡ देवे꣡षु सुक्ŕ̥तः सियाम  
+श꣡र्मणा नस् त्रिव꣡रूथेन पाहि  

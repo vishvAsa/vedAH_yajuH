@@ -2,7 +2,7 @@
 title = "042"
 
 +++
-mátsi vāyúm iṣṭáye rā́dhase ca  
-mátsi mitrā́váruṇā pūyámānaḥ  
-mátsi śárdho mā́rutam mátsi devā́n  
-mátsi dyā́vāpr̥thivī́ deva soma  
+म꣡त्सि वायु꣡म् इष्ट꣡ये रा꣡धसे च  
+म꣡त्सि मित्रा꣡व꣡रुणा पूय꣡मानः  
+म꣡त्सि श꣡र्धो मा꣡रुतम् म꣡त्सि देवा꣡न्  
+म꣡त्सि द्या꣡वापृथिवी꣡ देव सोम  

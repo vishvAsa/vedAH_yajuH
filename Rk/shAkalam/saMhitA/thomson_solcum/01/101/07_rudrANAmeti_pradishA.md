@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-rudrā́ṇām eti pradíśā vicakṣaṇó  
-rudrébhir yóṣā tanute pr̥thú jráyaḥ  
-índram manīṣā́ abhí arcati śrutám  
-marútvantaṃ sakhiyā́ya havāmahe  
+रुद्रा꣡णाम् एति प्रदि꣡शा विचक्षणो꣡  
+रुद्रे꣡भिर् यो꣡षा तनुते पृथु꣡ ज्र꣡यः  
+इ꣡न्द्रम् मनीषा꣡ अभि꣡ अर्चति श्रुत꣡म्  
+मरु꣡त्वन्तं सखिया꣡य हवामहे  

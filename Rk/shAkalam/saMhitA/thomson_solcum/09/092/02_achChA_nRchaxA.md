@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áchā nr̥cákṣā asarat pavítre  
-nā́ma dádhānaḥ kavír asya yónau  
-sī́dan hóteva sádane camū́ṣu  
-úpem agmann ŕ̥ṣayaḥ saptá víprāḥ  
+अ꣡छा नृच꣡क्षा असरत् पवि꣡त्रे  
+ना꣡म द꣡धानः कवि꣡र् अस्य यो꣡नौ  
+सी꣡दन् हो꣡तेव स꣡दने चमू꣡षु  
+उ꣡पेम् अग्मन्न् ŕ̥षयः सप्त꣡ वि꣡प्राः  

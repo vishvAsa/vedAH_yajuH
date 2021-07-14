@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yé pāyávo māmateyáṃ te agne  
-páśyanto andháṃ duritā́d árakṣan  
-rarákṣa tā́n sukŕ̥to viśvávedā  
-dípsanta íd ripávo nā́ha debhuḥ  
+ये꣡ पाय꣡वो मामतेयं꣡ ते अग्ने  
+प꣡श्यन्तो अन्धं꣡ दुरिता꣡द् अ꣡रक्षन्  
+रर꣡क्ष ता꣡न् सुक्ŕ̥तो विश्व꣡वेदा  
+दि꣡प्सन्त इ꣡द् रिप꣡वो ना꣡ह देभुः  

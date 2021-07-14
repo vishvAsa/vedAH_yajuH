@@ -2,9 +2,9 @@
 title = "011"
 
 +++
-iyattikā́ śakuntikā́  
-sakā́ jaghāsa te viṣám  
-só cin nú ná marāti  
-nó vayám marāma  
-āré asya yójanaṃ hariṣṭhā́  
-mádhu tvā madhulā́ cakāra  
+इयत्तिका꣡ शकुन्तिका꣡  
+सका꣡ जघास ते विष꣡म्  
+सो꣡ चिन् नु꣡ न꣡ मराति  
+नो꣡ वय꣡म् मराम  
+आरे꣡ अस्य यो꣡जनं हरिष्ठा꣡  
+म꣡धु त्वा मधुला꣡ चकार  

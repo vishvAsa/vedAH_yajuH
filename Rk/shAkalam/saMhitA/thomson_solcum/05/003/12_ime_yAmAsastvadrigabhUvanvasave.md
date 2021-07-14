@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-imé yā́māsas tuvadríg abhūvan  
-vásave vā tád íd ā́go avāci  
-nā́hāyám agnír abhíśastaye no  
-ná rī́ṣate vāvr̥dhānáḥ párā dāt  
+इमे꣡ या꣡मासस् तुवद्रि꣡ग् अभूवन्  
+व꣡सवे वा त꣡द् इ꣡द् आ꣡गो अवाचि  
+ना꣡हाय꣡म् अग्नि꣡र् अभि꣡शस्तये नो  
+न꣡ री꣡षते वावृधानः꣡ प꣡रा दात्  

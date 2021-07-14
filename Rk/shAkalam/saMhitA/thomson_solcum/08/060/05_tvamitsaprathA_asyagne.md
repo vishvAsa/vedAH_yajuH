@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tuvám ít sapráthā asi  
-ágne trātar r̥tás kavíḥ  
-tuvā́ṃ víprāsaḥ samidhāna dīdiva  
-ā́ vivāsanti vedhásaḥ  
+तुव꣡म् इ꣡त् सप्र꣡था असि  
+अ꣡ग्ने त्रातर् ऋत꣡स् कविः꣡  
+तुवां꣡ वि꣡प्रासः समिधान दीदिव  
+आ꣡ विवासन्ति वेध꣡सः  

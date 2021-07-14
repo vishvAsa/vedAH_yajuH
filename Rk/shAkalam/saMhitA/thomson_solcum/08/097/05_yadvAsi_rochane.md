@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yád vā́si rocané diváḥ  
-samudrásyā́dhi viṣṭápi  
-yát pā́rthive sádane vr̥trahantama  
-yád antárikṣa ā́ gahi  
+य꣡द् वा꣡सि रोचने꣡ दिवः꣡  
+समुद्र꣡स्या꣡धि विष्ट꣡पि  
+य꣡त् पा꣡र्थिवे स꣡दने वृत्रहन्तम  
+य꣡द् अन्त꣡रिक्ष आ꣡ गहि  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-sákhe viṣṇo vitaráṃ ví kramasva  
-diyaúr dehí lokáṃ vájrāya viṣkábhe  
-hánāva vr̥tráṃ riṇácāva síndhūn  
-índrasya yantu prasavé vísr̥ṣṭāḥ  
+स꣡खे विष्णो वितरं꣡ वि꣡ क्रमस्व  
+दियउ꣡र् देहि꣡ लोकं꣡ व꣡ज्राय विष्क꣡भे  
+ह꣡नाव वृत्रं꣡ रिण꣡चाव सि꣡न्धून्  
+इ꣡न्द्रस्य यन्तु प्रसवे꣡ वि꣡सृष्टाः  

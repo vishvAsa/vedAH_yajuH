@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá rudrébhir áśastavāra ŕ̥bhvā  
-hitvī́ gáyam āréavadya ā́gāt  
-vamrásya manye mithunā́ vívavrī  
-ánnam abhī́tyārodayan muṣāyán  
+स꣡ रुद्रे꣡भिर् अ꣡शस्तवार ŕ̥भ्वा  
+हित्वी꣡ ग꣡यम् आरे꣡अवद्य आ꣡गात्  
+वम्र꣡स्य मन्ये मिथुना꣡ वि꣡वव्री  
+अ꣡न्नम् अभी꣡त्यारोदयन् मुषाय꣡न्  

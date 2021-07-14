@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ayám mitró namasíyaḥ suśévo  
-rā́jā sukṣatró ajaniṣṭa vedhā́ḥ  
-tásya vayáṃ sumataú yajñíyasya  
-ápi bhadré saumanasé siyāma  
+अय꣡म् मित्रो꣡ नमसि꣡यः सुशे꣡वो  
+रा꣡जा सुक्षत्रो꣡ अजनिष्ट वेधाः꣡  
+त꣡स्य वयं꣡ सुमतउ꣡ यज्ञि꣡यस्य  
+अ꣡पि भद्रे꣡ सौमनसे꣡ सियाम  

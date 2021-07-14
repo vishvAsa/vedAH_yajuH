@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-rasā́yiyaḥ páyasā pínvamāna  
-īráyann eṣi mádhumantam aṃśúm  
-pávamānaḥ saṃtaním eṣi kr̥ṇvánn  
-índrāya soma pariṣicyámānaḥ  
+रसा꣡यियः प꣡यसा पि꣡न्वमान  
+ईर꣡यन्न् एषि म꣡धुमन्तम् अंशु꣡म्  
+प꣡वमानः संतनि꣡म् एषि कृण्व꣡न्न्  
+इ꣡न्द्राय सोम परिषिच्य꣡मानः  

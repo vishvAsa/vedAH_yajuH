@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ágna ójiṣṭham ā́ bhara  
-dyumnám asmábhyam adhrigo  
-prá no rāyā́ párīṇasā  
-rátsi vā́jāya pánthãm  
+अ꣡ग्न ओ꣡जिष्ठम् आ꣡ भर  
+द्युम्न꣡म् अस्म꣡भ्यम् अध्रिगो  
+प्र꣡ नो राया꣡ प꣡रीणसा  
+र꣡त्सि वा꣡जाय प꣡न्थ्ãम्  

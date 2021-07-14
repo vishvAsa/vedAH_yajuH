@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá nū́ mahitváṃ vr̥ṣabhásya vocaṃ  
-yám pūrávo vr̥traháṇaṃ sácante  
-vaiśvānaró dásyum agnír jaghanvā́m̐  
-ádhūnot kā́ṣṭhā áva śámbaram bhet  
+प्र꣡ नू꣡ महित्वं꣡ वृषभ꣡स्य वोचं  
+य꣡म् पूर꣡वो वृत्रह꣡णं स꣡चन्ते  
+वैश्वानरो꣡ द꣡स्युम् अग्नि꣡र् जघन्वाँ꣡  
+अ꣡धूनोत् का꣡ष्ठा अ꣡व श꣡म्बरम् भेत्  

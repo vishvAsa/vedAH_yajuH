@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sató nūnáṃ kavayaḥ sáṃ śiśīta  
-vā́śībhir yā́bhir amŕ̥tāya tákṣatha  
-vidvā́ṃsaḥ padā́ gúhiyāni kartana  
-yéna devā́so amr̥tatvám ānaśúḥ  
+सतो꣡ नूनं꣡ कवयः सं꣡ शिशीत  
+वा꣡शीभिर् या꣡भिर् अम्ŕ̥ताय त꣡क्षथ  
+विद्वां꣡सः पदा꣡ गु꣡हियानि कर्तन  
+ये꣡न देवा꣡सो अमृतत्व꣡म् आनशुः꣡  

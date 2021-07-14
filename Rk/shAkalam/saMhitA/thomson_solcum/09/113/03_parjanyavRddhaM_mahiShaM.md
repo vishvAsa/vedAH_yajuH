@@ -2,8 +2,8 @@
 title = "003"
 
 +++
-parjányavr̥ddham mahiṣáṃ  
-táṃ sū́ryasya duhitā́bharat  
-táṃ gandharvā́ḥ práty agr̥bhṇan  
-táṃ sóme rásam ā́dadhur  
-índrāyendo pári srava  
+पर्ज꣡न्यवृद्धम् महिषं꣡  
+तं꣡ सू꣡र्यस्य दुहिता꣡भरत्  
+तं꣡ गन्धर्वाः꣡ प्र꣡त्य् अगृभ्णन्  
+तं꣡ सो꣡मे र꣡सम् आ꣡दधुर्  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

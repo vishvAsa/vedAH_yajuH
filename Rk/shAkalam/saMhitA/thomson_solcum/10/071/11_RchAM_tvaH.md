@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-r̥cā́ṃ tuvaḥ póṣam āste pupuṣvā́n  
-gāyatráṃ tvo gāyati śákvarīṣu  
-brahmā́ tuvo vádati jātavidyā́ṃ  
-yajñásya mā́trāṃ ví mimīta u tvaḥ  
+ऋचां꣡ तुवः पो꣡षम् आस्ते पुपुष्वा꣡न्  
+गायत्रं꣡ त्वो गायति श꣡क्वरीषु  
+ब्रह्मा꣡ तुवो व꣡दति जातविद्यां꣡  
+यज्ञ꣡स्य मा꣡त्रां वि꣡ मिमीत उ त्वः  

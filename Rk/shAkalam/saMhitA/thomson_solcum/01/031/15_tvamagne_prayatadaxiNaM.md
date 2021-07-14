@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-tuvám agne práyatadakṣiṇaṃ náraṃ  
-vármeva syūtám pári pāsi viśvátaḥ  
-svādukṣádmā yó vasataú siyonakŕ̥j  
-jīvayājáṃ yájate sópamā́ diváḥ  
+तुव꣡म् अग्ने प्र꣡यतदक्षिणं न꣡रं  
+व꣡र्मेव स्यूत꣡म् प꣡रि पासि विश्व꣡तः  
+स्वादुक्ष꣡द्मा यो꣡ वसतउ꣡ सियोनक्ŕ̥ज्  
+जीवयाजं꣡ य꣡जते सो꣡पमा꣡ दिवः꣡  

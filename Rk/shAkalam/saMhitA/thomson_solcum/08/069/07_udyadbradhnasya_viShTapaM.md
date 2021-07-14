@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-úd yád bradhnásya viṣṭápaṃ  
-gr̥hám índraś ca gánvahi  
-mádhvaḥ pītvā́ sacevahi  
-tríḥ saptá sákhiyuḥ padé  
+उ꣡द् य꣡द् ब्रध्न꣡स्य विष्ट꣡पं  
+गृह꣡म् इ꣡न्द्रश् च ग꣡न्वहि  
+म꣡ध्वः पीत्वा꣡ सचेवहि  
+त्रिः꣡ सप्त꣡ स꣡खियुः पदे꣡  

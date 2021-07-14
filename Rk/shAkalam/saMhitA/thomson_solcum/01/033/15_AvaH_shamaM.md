@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-ā́vaḥ śámaṃ vr̥ṣabháṃ túgriyāsu  
-kṣetrajeṣé maghavañ chvítriyaṃ gā́m  
-jiyók cid átra tasthivā́ṃso akrañ  
-chatrūyatā́m ádharā védanākaḥ  
+आ꣡वः श꣡मं वृषभं꣡ तु꣡ग्रियासु  
+क्षेत्रजेषे꣡ मघवञ् छ्वि꣡त्रियं गा꣡म्  
+जियो꣡क् चिद् अ꣡त्र तस्थिवां꣡सो अक्रञ्  
+छत्रूयता꣡म् अ꣡धरा वे꣡दनाकः  

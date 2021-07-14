@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-yád agne mártiyas tuváṃ  
-siyā́m ahám mitramaho ámartiyaḥ  
-sáhasaḥ sūnav āhuta  
+य꣡द् अग्ने म꣡र्तियस् तुवं꣡  
+सिया꣡म् अह꣡म् मित्रमहो अ꣡मर्तियः  
+स꣡हसः सूनव् आहुत  

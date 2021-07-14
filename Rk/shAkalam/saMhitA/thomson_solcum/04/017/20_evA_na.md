@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-evā́ na índro maghávā virapśī́  
-kárat satyā́ carṣaṇīdhŕ̥d anarvā́  
-tuváṃ rā́jā janúṣāṃ dhehi asmé  
-ádhi śrávo mā́hinaṃ yáj jaritré  
+एवा꣡ न इ꣡न्द्रो मघ꣡वा विरप्शी꣡  
+क꣡रत् सत्या꣡ चर्षणीध्ŕ̥द् अनर्वा꣡  
+तुवं꣡ रा꣡जा जनु꣡षां धेहि अस्मे꣡  
+अ꣡धि श्र꣡वो मा꣡हिनं य꣡ज् जरित्रे꣡  

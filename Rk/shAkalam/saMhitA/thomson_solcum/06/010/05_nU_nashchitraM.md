@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-nū́ naś citrám puruvā́jābhir ūtī́  
-ágne rayím maghávadbhyaś ca dhehi  
-yé rā́dhasā śrávasā cā́ti anyā́n  
-suvī́ryebhiś ca abhí sánti jánān  
+नू꣡ नश् चित्र꣡म् पुरुवा꣡जाभिर् ऊती꣡  
+अ꣡ग्ने रयि꣡म् मघ꣡वद्भ्यश् च धेहि  
+ये꣡ रा꣡धसा श्र꣡वसा चा꣡ति अन्या꣡न्  
+सुवी꣡र्येभिश् च अभि꣡ स꣡न्ति ज꣡नान्  

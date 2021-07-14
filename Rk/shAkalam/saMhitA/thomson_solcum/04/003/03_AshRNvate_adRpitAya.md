@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-āśr̥ṇvaté ádr̥pitāya mánma  
-nr̥cákṣase sumr̥ḷīkā́ya vedhaḥ  
-devā́ya śastím amŕ̥tāya śaṃsa  
-grā́veva sótā madhuṣúd yám īḷé  
+आशृण्वते꣡ अ꣡दृपिताय म꣡न्म  
+नृच꣡क्षसे सुमृऌईका꣡य वेधः  
+देवा꣡य शस्ति꣡म् अम्ŕ̥ताय शंस  
+ग्रा꣡वेव सो꣡ता मधुषु꣡द् य꣡म् ईऌए꣡  

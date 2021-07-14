@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-hiraṇyáyebhiḥ pavíbhiḥ payovŕ̥dha  
-újjighnanta āpathíyo ná párvatān  
-makhā́ ayā́saḥ svasŕ̥to dhruvacyúto  
-dudhrakŕ̥to marúto bhrā́jadr̥ṣṭayaḥ  
+हिरण्य꣡येभिः पवि꣡भिः पयोव्ŕ̥ध  
+उ꣡ज्जिघ्नन्त आपथि꣡यो न꣡ प꣡र्वतान्  
+मखा꣡ अया꣡सः स्वस्ŕ̥तो ध्रुवच्यु꣡तो  
+दुध्रक्ŕ̥तो मरु꣡तो भ्रा꣡जदृष्टयः  

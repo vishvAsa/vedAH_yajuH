@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-áriṣṭaḥ sá mártio° víśva edhate  
-prá prajā́bhir jāyate dhármaṇas pári  
-yám ādityāso náyathā sunītíbhir  
-áti víśvāni duritā́ suastáye  
+अ꣡रिष्टः स꣡ म꣡र्तिओ° वि꣡श्व एधते  
+प्र꣡ प्रजा꣡भिर् जायते ध꣡र्मणस् प꣡रि  
+य꣡म् आदित्यासो न꣡यथा सुनीति꣡भिर्  
+अ꣡ति वि꣡श्वानि दुरिता꣡ सुअस्त꣡ये  

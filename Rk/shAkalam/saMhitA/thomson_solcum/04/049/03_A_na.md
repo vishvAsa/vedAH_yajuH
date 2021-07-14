@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ā́ na indrābr̥haspatī  
-gr̥hám índraś ca gachatam  
-somapā́ sómapītaye  
+आ꣡ न इन्द्राबृहस्पती  
+गृह꣡म् इ꣡न्द्रश् च गछतम्  
+सोमपा꣡ सो꣡मपीतये  

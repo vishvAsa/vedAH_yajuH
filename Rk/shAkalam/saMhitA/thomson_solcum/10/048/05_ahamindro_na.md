@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ahám índro ná párā jigya íd dhánaṃ  
-ná mr̥tyáve áva tasthe kádā caná  
-sómam ín mā sunvánto yācatā vásu  
-ná me pūravaḥ sakhiyé riṣāthana  
+अह꣡म् इ꣡न्द्रो न꣡ प꣡रा जिग्य इ꣡द् ध꣡नं  
+न꣡ मृत्य꣡वे अ꣡व तस्थे क꣡दा चन꣡  
+सो꣡मम् इ꣡न् मा सुन्व꣡न्तो याचता व꣡सु  
+न꣡ मे पूरवः सखिये꣡ रिषाथन  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-hiraṇyagarbháḥ sám avartatā́gre  
-bhūtásya jātáḥ pátir éka āsīt  
-sá dādhāra pr̥thivī́ṃ dyā́m utémā́ṃ  
-kásmai devā́ya havíṣā vidhema  
+हिरण्यगर्भः꣡ स꣡म् अवर्तता꣡ग्रे  
+भूत꣡स्य जातः꣡ प꣡तिर् ए꣡क आसीत्  
+स꣡ दाधार पृथिवीं꣡ द्या꣡म् उते꣡मां꣡  
+क꣡स्मै देवा꣡य हवि꣡षा विधेम  

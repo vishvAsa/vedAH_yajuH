@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yuvám bhujyúṃ samudrá ā́  
-rájasaḥ pārá īṅkhitám  
-yātám áchā patatríbhir  
-nā́satyā sātáye kr̥tam  
+युव꣡म् भुज्युं꣡ समुद्र꣡ आ꣡  
+र꣡जसः पार꣡ ईङ्खित꣡म्  
+यात꣡म् अ꣡छा पतत्रि꣡भिर्  
+ना꣡सत्या सात꣡ये कृतम्  

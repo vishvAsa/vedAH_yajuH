@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-úd vr̥ha rákṣaḥ sahámūlam indra  
-vr̥ścā́ mádhyam práti ágraṃ śr̥ṇīhi  
-ā́ kī́vataḥ salalū́kaṃ cakartha  
-brahmadvíṣe tápuṣiṃ hetím asya  
+उ꣡द् वृह र꣡क्षः सह꣡मूलम् इन्द्र  
+वृश्चा꣡ म꣡ध्यम् प्र꣡ति अ꣡ग्रं शृणीहि  
+आ꣡ की꣡वतः सललू꣡कं चकर्थ  
+ब्रह्मद्वि꣡षे त꣡पुषिं हेति꣡म् अस्य  

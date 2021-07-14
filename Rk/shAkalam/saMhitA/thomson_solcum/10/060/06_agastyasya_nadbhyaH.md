@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-agástiyasya nádbhiyaḥ  
-sáptī yunakṣi róhitā  
-paṇī́n ní akramīr abhí  
-víśvān rājann arādhásaḥ  
+अग꣡स्तियस्य न꣡द्भियः  
+स꣡प्ती युनक्षि रो꣡हिता  
+पणी꣡न् नि꣡ अक्रमीर् अभि꣡  
+वि꣡श्वान् राजन्न् अराध꣡सः  

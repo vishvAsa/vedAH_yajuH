@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yán nāsatyā bhuraṇyátho  
-yád vā deva bhiṣajyáthaḥ  
-ayáṃ vāṃ vatsó matíbhir ná vindhate  
-havíṣmantaṃ hí gáchathaḥ  
+य꣡न् नासत्या भुरण्य꣡थो  
+य꣡द् वा देव भिषज्य꣡थः  
+अयं꣡ वां वत्सो꣡ मति꣡भिर् न꣡ विन्धते  
+हवि꣡ष्मन्तं हि꣡ ग꣡छथः  

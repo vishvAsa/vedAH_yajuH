@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yá ātmadā́ baladā́ yásya víśva  
-upā́sate praśíṣaṃ yásya devā́ḥ  
-yásya chāyā́ ámŕ̥taṃ yásya mr̥tyúḥ  
-kásmai devā́ya havíṣā vidhema  
+य꣡ आत्मदा꣡ बलदा꣡ य꣡स्य वि꣡श्व  
+उपा꣡सते प्रशि꣡षं य꣡स्य देवाः꣡  
+य꣡स्य छाया꣡ अ꣡म्ŕ̥तं य꣡स्य मृत्युः꣡  
+क꣡स्मै देवा꣡य हवि꣡षा विधेम  

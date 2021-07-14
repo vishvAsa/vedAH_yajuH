@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-tám aṅgirasván námasā saparyán  
-návyaṃ kr̥ṇomi sányase purājā́m  
-drúho ví yāhi bahulā́ ádevīḥ  
-súvaś ca no maghavan sātáye dhāḥ  
+त꣡म् अङ्गिरस्व꣡न् न꣡मसा सपर्य꣡न्  
+न꣡व्यं कृणोमि स꣡न्यसे पुराजा꣡म्  
+द्रु꣡हो वि꣡ याहि बहुला꣡ अ꣡देवीः  
+सु꣡वश् च नो मघवन् सात꣡ये धाः  

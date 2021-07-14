@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kó vas trātā́ vasavaḥ kó varūtā́  
-dyā́vābhūmī adite trā́sithāṃ° naḥ  
-sáhīyaso varuṇa mitra mártāt  
-kó vo 'dhvaré várivo dhāti devāḥ  
+को꣡ वस् त्राता꣡ वसवः को꣡ वरूता꣡  
+द्या꣡वाभूमी अदिते त्रा꣡सिथां° नः  
+स꣡हीयसो वरुण मित्र म꣡र्तात्  
+को꣡ वो ऽध्वरे꣡ व꣡रिवो धाति देवाः  

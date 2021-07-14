@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-máruto yád dha vo bálaṃ  
-jánām̐ acucyavītana  
-girī́m̐r acucyavītana  
+म꣡रुतो य꣡द् ध वो ब꣡लं  
+ज꣡नाँ अचुच्यवीतन  
+गिरीँ꣡र् अचुच्यवीतन  

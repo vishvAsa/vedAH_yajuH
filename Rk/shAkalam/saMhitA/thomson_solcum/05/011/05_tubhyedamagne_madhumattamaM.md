@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-túbhyedám agne mádhumattamaṃ vácas  
-túbhyam manīṣā́ iyám astu śáṃ hr̥dé  
-tuvā́ṃ gíraḥ síndhum ivāvánīr mahī́r  
-ā́ pr̥ṇanti śávasā vardháyanti ca  
+तु꣡भ्येद꣡म् अग्ने म꣡धुमत्तमं व꣡चस्  
+तु꣡भ्यम् मनीषा꣡ इय꣡म् अस्तु शं꣡ हृदे꣡  
+तुवां꣡ गि꣡रः सि꣡न्धुम् इवाव꣡नीर् मही꣡र्  
+आ꣡ पृणन्ति श꣡वसा वर्ध꣡यन्ति च  

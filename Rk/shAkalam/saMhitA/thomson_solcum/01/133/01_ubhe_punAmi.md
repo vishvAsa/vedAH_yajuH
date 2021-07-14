@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ubhé punāmi ródasī r̥téna  
-drúho dahāmi sám mahī́r anindrā́ḥ  
-abhivlágya yátra hatā́ amítrā  
-vailasthānám pári tr̥ḷhā́ áśeran  
+उभे꣡ पुनामि रो꣡दसी ऋते꣡न  
+द्रु꣡हो दहामि स꣡म् मही꣡र् अनिन्द्राः꣡  
+अभिव्ल꣡ग्य य꣡त्र हता꣡ अमि꣡त्रा  
+वैलस्थान꣡म् प꣡रि तृऌहा꣡ अ꣡शेरन्  

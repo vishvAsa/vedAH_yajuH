@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-iyáṃ śúṣmebhir bisakhā́ ivārujat  
-sā́nu girīṇā́ṃ taviṣébhir ūrmíbhiḥ  
-pārāvataghnī́m ávase suvr̥ktíbhiḥ  
-sárasvatīm ā́ vivāsema dhītíbhiḥ  
+इयं꣡ शु꣡ष्मेभिर् बिसखा꣡ इवारुजत्  
+सा꣡नु गिरीणां꣡ तविषे꣡भिर् ऊर्मि꣡भिः  
+पारावतघ्नी꣡म् अ꣡वसे सुवृक्ति꣡भिः  
+स꣡रस्वतीम् आ꣡ विवासेम धीति꣡भिः  

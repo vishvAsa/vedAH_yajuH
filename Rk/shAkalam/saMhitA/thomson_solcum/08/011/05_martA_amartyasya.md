@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-mártā ámartiyasya te  
-bhū́ri nā́ma manāmahe  
-víprāso jātávedasaḥ  
+म꣡र्ता अ꣡मर्तियस्य ते  
+भू꣡रि ना꣡म मनामहे  
+वि꣡प्रासो जात꣡वेदसः  

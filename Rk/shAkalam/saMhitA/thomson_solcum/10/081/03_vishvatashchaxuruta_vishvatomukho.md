@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-viśvátaścakṣur utá viśvátomukho  
-viśvátobāhur utá viśvátaspāt  
-sám bāhúbhyāṃ dhámati sám pátatrair  
-dyā́vābhū́mī janáyan devá ékaḥ  
+विश्व꣡तश्चक्षुर् उत꣡ विश्व꣡तोमुखो  
+विश्व꣡तोबाहुर् उत꣡ विश्व꣡तस्पात्  
+स꣡म् बाहु꣡भ्यां ध꣡मति स꣡म् प꣡तत्रैर्  
+द्या꣡वाभू꣡मी जन꣡यन् देव꣡ ए꣡कः  

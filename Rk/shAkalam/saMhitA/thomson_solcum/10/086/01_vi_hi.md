@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-ví hí sótor ásr̥kṣata  
-néndraṃ devám amaṃsata  
-yátrā́madad vr̥ṣā́kapir  
-aryáḥ puṣṭéṣu mátsakhā  
-víśvasmād índra úttaraḥ  
+वि꣡ हि꣡ सो꣡तोर् अ꣡सृक्षत  
+ने꣡न्द्रं देव꣡म् अमंसत  
+य꣡त्रा꣡मदद् वृषा꣡कपिर्  
+अर्यः꣡ पुष्टे꣡षु म꣡त्सखा  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

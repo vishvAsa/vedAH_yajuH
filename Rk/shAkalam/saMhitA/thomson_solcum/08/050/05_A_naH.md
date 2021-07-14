@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ naḥ sóme suadhvará  
-iyānó 'tyo° ná tośate  
-yáṃ te svadāvan suádanti gūrtáyaḥ  
-pauré chandayase hávam  
+आ꣡ नः सो꣡मे सुअध्वर꣡  
+इयानो꣡ ऽत्यो° न꣡ तोशते  
+यं꣡ ते स्वदावन् सुअ꣡दन्ति गूर्त꣡यः  
+पौरे꣡ छन्दयसे ह꣡वम्  

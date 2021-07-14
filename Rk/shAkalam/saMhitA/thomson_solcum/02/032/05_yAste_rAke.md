@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yā́s te rāke sumatáyaḥ supéśaso  
-yā́bhir dádāsi dāśúṣe vásūni  
-tā́bhir no adyá sumánā upā́gahi  
-sahasrapoṣáṃ subhage rárāṇā  
+या꣡स् ते राके सुमत꣡यः सुपे꣡शसो  
+या꣡भिर् द꣡दासि दाशु꣡षे व꣡सूनि  
+ता꣡भिर् नो अद्य꣡ सुम꣡ना उपा꣡गहि  
+सहस्रपोषं꣡ सुभगे र꣡राणा  

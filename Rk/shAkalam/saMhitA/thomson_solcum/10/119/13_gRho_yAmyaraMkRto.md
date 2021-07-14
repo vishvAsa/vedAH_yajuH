@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-gr̥hó yāmi áraṃkr̥to  
-devébhyo havyavā́hanaḥ  
-kuvít sómasyā́pām íti  
+गृहो꣡ यामि अ꣡रंकृतो  
+देवे꣡भ्यो हव्यवा꣡हनः  
+कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति  

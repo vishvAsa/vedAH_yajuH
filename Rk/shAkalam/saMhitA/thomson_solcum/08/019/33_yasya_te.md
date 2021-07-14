@@ -2,7 +2,7 @@
 title = "033"
 
 +++
-yásya te agne anyé agnáya  
-upakṣíto vayā́ iva  
-vípo ná dyumnā́ ní yuve jánānãṃ  
-táva kṣatrā́ṇi vardháyan  
+य꣡स्य ते अग्ने अन्ये꣡ अग्न꣡य  
+उपक्षि꣡तो वया꣡ इव  
+वि꣡पो न꣡ द्युम्ना꣡ नि꣡ युवे ज꣡नान्ãं  
+त꣡व क्षत्रा꣡णि वर्ध꣡यन्  

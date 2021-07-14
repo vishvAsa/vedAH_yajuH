@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-imáṃ tritó bhū́ri avindad ichán  
-vaibhūvasó mūrdháni ághniyāyāḥ  
-sá śévr̥dho jātá ā́ harmiyéṣu  
-nā́bhir yúvā bhavati rocanásya  
+इमं꣡ त्रितो꣡ भू꣡रि अविन्दद् इछ꣡न्  
+वैभूवसो꣡ मूर्ध꣡नि अ꣡घ्नियायाः  
+स꣡ शे꣡वृधो जात꣡ आ꣡ हर्मिये꣡षु  
+ना꣡भिर् यु꣡वा भवति रोचन꣡स्य  

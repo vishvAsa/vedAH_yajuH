@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-índro mahā́ṃ síndhum āśáyānam  
-māyāvínaṃ vr̥trám asphuran níḥ  
-árejetāṃ ródasī bhiyāné  
-kánikradato vŕ̥ṣṇo asya vájrāt  
+इ꣡न्द्रो महां꣡ सि꣡न्धुम् आश꣡यानम्  
+मायावि꣡नं वृत्र꣡म् अस्फुरन् निः꣡  
+अ꣡रेजेतां रो꣡दसी भियाने꣡  
+क꣡निक्रदतो व्ŕ̥ष्णो अस्य व꣡ज्रात्  

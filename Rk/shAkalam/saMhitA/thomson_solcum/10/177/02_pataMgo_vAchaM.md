@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-pataṃgó vā́cam mánasā bibharti  
-tā́ṃ gandharvó avadad gárbhe antáḥ  
-tā́ṃ dyótamānāṃ svaríyam manīṣā́m  
-r̥tásya padé kaváyo ní pānti  
+पतंगो꣡ वा꣡चम् म꣡नसा बिभर्ति  
+तां꣡ गन्धर्वो꣡ अवदद् ग꣡र्भे अन्तः꣡  
+तां꣡ द्यो꣡तमानां स्वरि꣡यम् मनीषा꣡म्  
+ऋत꣡स्य पदे꣡ कव꣡यो नि꣡ पान्ति  

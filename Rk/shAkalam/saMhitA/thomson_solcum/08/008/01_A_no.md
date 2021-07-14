@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ no víśvābhir ūtíbhir  
-áśvinā gáchataṃ yuvám  
-dásrā híraṇyavartanī  
-píbataṃ somiyám mádhu  
+आ꣡ नो वि꣡श्वाभिर् ऊति꣡भिर्  
+अ꣡श्विना ग꣡छतं युव꣡म्  
+द꣡स्रा हि꣡रण्यवर्तनी  
+पि꣡बतं सोमिय꣡म् म꣡धु  

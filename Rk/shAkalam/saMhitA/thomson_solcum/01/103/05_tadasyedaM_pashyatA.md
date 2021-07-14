@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tád asyedám paśyatā bhū́ri puṣṭáṃ  
-śrád índrasya dhattana vīríyāya  
-sá gā́ avindat só avindad áśvān  
-sá óṣadhīḥ só apáḥ sá vánāni  
+त꣡द् अस्येद꣡म् पश्यता भू꣡रि पुष्टं꣡  
+श्र꣡द् इ꣡न्द्रस्य धत्तन वीरि꣡याय  
+स꣡ गा꣡ अविन्दत् सो꣡ अविन्दद् अ꣡श्वान्  
+स꣡ ओ꣡षधीः सो꣡ अपः꣡ स꣡ व꣡नानि  

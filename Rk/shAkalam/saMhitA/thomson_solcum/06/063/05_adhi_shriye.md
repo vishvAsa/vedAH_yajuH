@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ádhi śriyé duhitā́ sū́riyasya  
-ráthaṃ tasthau purubhujā śatótim  
-prá māyā́bhir māyinā bhūtam átra  
-nárā nr̥tū jániman yajñíyānām  
+अ꣡धि श्रिये꣡ दुहिता꣡ सू꣡रियस्य  
+र꣡थं तस्थौ पुरुभुजा शतो꣡तिम्  
+प्र꣡ माया꣡भिर् मायिना भूतम् अ꣡त्र  
+न꣡रा नृतू ज꣡निमन् यज्ञि꣡यानाम्  

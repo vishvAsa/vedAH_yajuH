@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-surūpakr̥tnúm ūtáye  
-sudúghām iva godúhe  
-juhūmási dyávi-dyavi  
+सुरूपकृत्नु꣡म् ऊत꣡ये  
+सुदु꣡घाम् इव गोदु꣡हे  
+जुहूम꣡सि द्य꣡वि-द्यवि  

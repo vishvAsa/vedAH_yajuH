@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ná yásya índro váruṇo ná mitró  
-vratám aryamā́ ná minánti rudráḥ  
-ná árātayas tám idáṃ suastí  
-huvé deváṃ savitā́raṃ námobhiḥ  
+न꣡ य꣡स्य इ꣡न्द्रो व꣡रुणो न꣡ मित्रो꣡  
+व्रत꣡म् अर्यमा꣡ न꣡ मिन꣡न्ति रुद्रः꣡  
+न꣡ अ꣡रातयस् त꣡म् इदं꣡ सुअस्ति꣡  
+हुवे꣡ देवं꣡ सविता꣡रं न꣡मोभिः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-agnír 'va° manyo tviṣitáḥ sahasva  
-senānī́r naḥ sahure hūtá edhi  
-hatvā́ya śátrūn ví bhajasva véda  
-ójo mímāno ví mŕ̥dho nudasva  
+अग्नि꣡र् ऽव° मन्यो त्विषितः꣡ सहस्व  
+सेनानी꣡र् नः सहुरे हूत꣡ एधि  
+हत्वा꣡य श꣡त्रून् वि꣡ भजस्व वे꣡द  
+ओ꣡जो मि꣡मानो वि꣡ म्ŕ̥धो नुदस्व  

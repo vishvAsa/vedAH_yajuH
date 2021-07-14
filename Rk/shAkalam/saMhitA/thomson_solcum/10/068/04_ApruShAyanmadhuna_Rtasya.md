@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-āpruṣāyán mádhuna rtásya yónim  
-avakṣipánn arká ulkā́m iva dyóḥ  
-bŕ̥haspátir uddhárann áśmano gā́  
-bhū́myā udnéva ví tvácam bibheda  
+आप्रुषाय꣡न् म꣡धुन र्त꣡स्य यो꣡निम्  
+अवक्षिप꣡न्न् अर्क꣡ उल्का꣡म् इव द्योः꣡  
+ब्ŕ̥हस्प꣡तिर् उद्ध꣡रन्न् अ꣡श्मनो गा꣡  
+भू꣡म्या उद्ने꣡व वि꣡ त्व꣡चम् बिभेद  

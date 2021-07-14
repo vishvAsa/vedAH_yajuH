@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tvám mā́nebhya indara+ viśvájanyā  
-rádā marúdbhiḥ śurúdho góagrāḥ  
-stávānebhi stavase deva devaír  
-vidyā́meṣáṃ vr̥jánaṃ jīrádānum  
+त्व꣡म् मा꣡नेभ्य इन्दर+ विश्व꣡जन्या  
+र꣡दा मरु꣡द्भिः शुरु꣡धो गो꣡अग्राः  
+स्त꣡वानेभि स्तवसे देव देवइ꣡र्  
+विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्  

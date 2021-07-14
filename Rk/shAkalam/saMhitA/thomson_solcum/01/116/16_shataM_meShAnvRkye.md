@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-śatám meṣā́n vr̥kíye cakṣadānám  
-r̥jrā́śuvaṃ tám pitā́ndháṃ cakāra  
-tásmā akṣī́ nāsatiyā vicákṣa  
-ā́dhattaṃ dasrā bhiṣajāv anarván  
+शत꣡म् मेषा꣡न् वृकि꣡ये चक्षदान꣡म्  
+ऋज्रा꣡शुवं त꣡म् पिता꣡न्धं꣡ चकार  
+त꣡स्मा अक्षी꣡ नासतिया विच꣡क्ष  
+आ꣡धत्तं दस्रा भिषजाव् अनर्व꣡न्  

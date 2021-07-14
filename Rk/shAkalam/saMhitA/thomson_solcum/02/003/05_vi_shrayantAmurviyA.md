@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ví śrayantām urviyā́ hūyámānā  
-dvā́ro devī́ḥ suprāyaṇā́ námobhiḥ  
-vyácasvatīr ví prathantām ajuryā́  
-várṇam punānā́ yaśásaṃ suvī́ram  
+वि꣡ श्रयन्ताम् उर्विया꣡ हूय꣡माना  
+द्वा꣡रो देवीः꣡ सुप्रायणा꣡ न꣡मोभिः  
+व्य꣡चस्वतीर् वि꣡ प्रथन्ताम् अजुर्या꣡  
+व꣡र्णम् पुनाना꣡ यश꣡सं सुवी꣡रम्  

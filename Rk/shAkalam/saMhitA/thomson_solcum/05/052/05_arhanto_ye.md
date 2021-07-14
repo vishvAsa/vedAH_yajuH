@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-árhanto yé sudā́navo  
-náro ásāmiśavasaḥ  
-prá yajñáṃ yajñíyebhiyo  
-divó arcā marúdbhiyaḥ  
+अ꣡र्हन्तो ये꣡ सुदा꣡नवो  
+न꣡रो अ꣡सामिशवसः  
+प्र꣡ यज्ञं꣡ यज्ञि꣡येभियो  
+दिवो꣡ अर्चा मरु꣡द्भियः  

@@ -2,8 +2,8 @@
 title = "010"
 
 +++
-yátra kā́mā nikāmā́ś ca  
-yátra bradhnásya viṣṭápam  
-svadhā́ ca yátra tŕ̥ptiś ca  
-tátra mā́m amŕ̥taṃ kr̥dhi  
-índrāyendo pári srava  
+य꣡त्र का꣡मा निकामा꣡श् च  
+य꣡त्र ब्रध्न꣡स्य विष्ट꣡पम्  
+स्वधा꣡ च य꣡त्र त्ŕ̥प्तिश् च  
+त꣡त्र मा꣡म् अम्ŕ̥तं कृधि  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

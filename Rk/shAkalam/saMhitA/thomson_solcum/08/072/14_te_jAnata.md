@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-té jānata svám okíyaṃ  
-sáṃ vatsā́so ná mātŕ̥bhiḥ  
-mithó nasanta jāmíbhiḥ  
+ते꣡ जानत स्व꣡म् ओकि꣡यं  
+सं꣡ वत्सा꣡सो न꣡ मात्ŕ̥भिः  
+मिथो꣡ नसन्त जामि꣡भिः  

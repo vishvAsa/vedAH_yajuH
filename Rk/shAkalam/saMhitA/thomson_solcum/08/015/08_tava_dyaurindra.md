@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-táva dyaúr indra paúṃsiyam  
-pr̥thivī́ vardhati śrávaḥ  
-tuvā́m ā́paḥ párvatāsaś ca hinvire  
+त꣡व द्यउ꣡र् इन्द्र पउं꣡सियम्  
+पृथिवी꣡ वर्धति श्र꣡वः  
+तुवा꣡म् आ꣡पः प꣡र्वतासश् च हिन्विरे  

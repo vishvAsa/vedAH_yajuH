@@ -2,6 +2,6 @@
 title = "029"
 
 +++
-suvī́raṃ rayím ā́ bhara  
-jā́tavedo vícarṣaṇe  
-jahí rákṣāṃsi sukrato  
+सुवी꣡रं रयि꣡म् आ꣡ भर  
+जा꣡तवेदो वि꣡चर्षणे  
+जहि꣡ र꣡क्षांसि सुक्रतो  

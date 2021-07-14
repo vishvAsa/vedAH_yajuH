@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-pŕ̥dākusānur yajató gavéṣaṇa  
-ékaḥ sánn abhí bhū́yasaḥ  
-bhū́rṇim áśvaṃ nayat tujā́ puró gr̥bhā  
-índraṃ sómasya pītáye  
+प्ŕ̥दाकुसानुर् यजतो꣡ गवे꣡षण  
+ए꣡कः स꣡न्न् अभि꣡ भू꣡यसः  
+भू꣡र्णिम् अ꣡श्वं नयत् तुजा꣡ पुरो꣡ गृभा  
+इ꣡न्द्रं सो꣡मस्य पीत꣡ये  

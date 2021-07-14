@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá bhíkṣamāṇo amŕ̥tasya cā́ruṇa  
-ubhé dyā́vā kā́viyenā ví śaśrathe  
-téjiṣṭhā apó maṃhánā pári vyata  
-yádī devásya śrávasā sádo vidúḥ  
+स꣡ भि꣡क्षमाणो अम्ŕ̥तस्य चा꣡रुण  
+उभे꣡ द्या꣡वा का꣡वियेना वि꣡ शश्रथे  
+ते꣡जिष्ठा अपो꣡ मंह꣡ना प꣡रि व्यत  
+य꣡दी देव꣡स्य श्र꣡वसा स꣡दो विदुः꣡  

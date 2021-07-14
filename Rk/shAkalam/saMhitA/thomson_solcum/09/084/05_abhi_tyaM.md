@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-abhí tyáṃ gā́vaḥ páyasā payovŕ̥dhaṃ  
-sómaṃ śrīṇanti matíbhiḥ suvarvídam  
-dhanaṃjayáḥ pavate kŕ̥tviyo ráso  
-vípraḥ kavíḥ kā́viyenā súvarcanāḥ  
+अभि꣡ त्यं꣡ गा꣡वः प꣡यसा पयोव्ŕ̥धं  
+सो꣡मं श्रीणन्ति मति꣡भिः सुवर्वि꣡दम्  
+धनंजयः꣡ पवते क्ŕ̥त्वियो र꣡सो  
+वि꣡प्रः कविः꣡ का꣡वियेना सु꣡वर्चनाः  

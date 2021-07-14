@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-śáṃ no bhavantu vājíno háveṣu  
-devátātā mitádravaḥ suarkā́ḥ  
-jambháyanto áhiṃ vŕ̥kaṃ rákṣāṃsi  
-sánemi asmád yuyavann ámīvāḥ  
+शं꣡ नो भवन्तु वाजि꣡नो ह꣡वेषु  
+देव꣡ताता मित꣡द्रवः सुअर्काः꣡  
+जम्भ꣡यन्तो अ꣡हिं व्ŕ̥कं र꣡क्षांसि  
+स꣡नेमि अस्म꣡द् युयवन्न् अ꣡मीवाः  

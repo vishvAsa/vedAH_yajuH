@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-prá tuvidyumnásya sthávirasya ghŕ̥ṣver  
-divó rarapśe mahimā́ pr̥thivyā́ḥ  
-nā́sya śátrur ná pratimā́nam asti  
-ná pratiṣṭhíḥ purumāyásya sáhyoḥ  
+प्र꣡ तुविद्युम्न꣡स्य स्थ꣡विरस्य घ्ŕ̥ष्वेर्  
+दिवो꣡ ररप्शे महिमा꣡ पृथिव्याः꣡  
+ना꣡स्य श꣡त्रुर् न꣡ प्रतिमा꣡नम् अस्ति  
+न꣡ प्रतिष्ठिः꣡ पुरुमाय꣡स्य स꣡ह्योः  

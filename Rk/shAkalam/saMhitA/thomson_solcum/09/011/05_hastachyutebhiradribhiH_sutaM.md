@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-hástacyutebhir ádribhiḥ  
-sutáṃ sómam punītana  
-mádhāv ā́ dhāvatā mádhu  
+ह꣡स्तच्युतेभिर् अ꣡द्रिभिः  
+सुतं꣡ सो꣡मम् पुनीतन  
+म꣡धाव् आ꣡ धावता म꣡धु  

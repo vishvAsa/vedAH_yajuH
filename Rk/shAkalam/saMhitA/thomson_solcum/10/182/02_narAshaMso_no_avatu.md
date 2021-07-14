@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-nárāśáṃso no avatu prayājé  
-śáṃ no astu anuyājó háveṣu  
-kṣipád áśastim ápa durmatíṃ hann  
-áthā karad yájamānāya śáṃ yóḥ  
+न꣡राशं꣡सो नो अवतु प्रयाजे꣡  
+शं꣡ नो अस्तु अनुयाजो꣡ ह꣡वेषु  
+क्षिप꣡द् अ꣡शस्तिम् अ꣡प दुर्मतिं꣡ हन्न्  
+अ꣡था करद् य꣡जमानाय शं꣡ योः꣡  

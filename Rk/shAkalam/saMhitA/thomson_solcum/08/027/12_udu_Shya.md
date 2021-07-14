@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-úd u ṣyá vaḥ savitā́ supraṇītayo  
-ásthād ūrdhvó váreṇiyaḥ  
-ní dvipā́daś · cátuṣpādo arthíno  
-áviśran patayiṣṇávaḥ  
+उ꣡द् उ ष्य꣡ वः सविता꣡ सुप्रणीतयो  
+अ꣡स्थाद् ऊर्ध्वो꣡ व꣡रेणियः  
+नि꣡ द्विपा꣡दश् · च꣡तुष्पादो अर्थि꣡नो  
+अ꣡विश्रन् पतयिष्ण꣡वः  

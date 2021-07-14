@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-táṃ tvā vayáṃ viśvavāra  
-ā́ śāsmahe puruhūta  
-sákhe vaso jaritŕ̥bhyaḥ  
+तं꣡ त्वा वयं꣡ विश्ववार  
+आ꣡ शास्महे पुरुहूत  
+स꣡खे वसो जरित्ŕ̥भ्यः  

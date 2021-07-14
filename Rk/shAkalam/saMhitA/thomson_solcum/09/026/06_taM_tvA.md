@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-táṃ tvā hinvanti vedhásaḥ  
-pávamāna girāvŕ̥dham  
-índav índrāya matsarám  
+तं꣡ त्वा हिन्वन्ति वेध꣡सः  
+प꣡वमान गिराव्ŕ̥धम्  
+इ꣡न्दव् इ꣡न्द्राय मत्सर꣡म्  

@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-manuṣvád agne aṅgirasvád aṅgiro  
-yayātivát sádane pūrvavác chuce  
-ácha yāhi ā́ vahā daíviyaṃ jánam  
-ā́ sādaya barhíṣi yákṣi ca priyám  
+मनुष्व꣡द् अग्ने अङ्गिरस्व꣡द् अङ्गिरो  
+ययातिव꣡त् स꣡दने पूर्वव꣡च् छुचे  
+अ꣡छ याहि आ꣡ वहा दइ꣡वियं ज꣡नम्  
+आ꣡ सादय बर्हि꣡षि य꣡क्षि च प्रिय꣡म्  

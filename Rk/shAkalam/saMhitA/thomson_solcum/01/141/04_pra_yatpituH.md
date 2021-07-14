@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prá yát pitúḥ paramā́n nīyáte pári  
-ā́ pr̥kṣúdho vīrúdho dáṃsu rohati  
-ubhā́ yád asya janúṣaṃ yád ínvata  
-ā́d íd yáviṣṭho abhavad ghr̥ṇā́ śúciḥ  
+प्र꣡ य꣡त् पितुः꣡ परमा꣡न् नीय꣡ते प꣡रि  
+आ꣡ पृक्षु꣡धो वीरु꣡धो दं꣡सु रोहति  
+उभा꣡ य꣡द् अस्य जनु꣡षं य꣡द् इ꣡न्वत  
+आ꣡द् इ꣡द् य꣡विष्ठो अभवद् घृणा꣡ शु꣡चिः  

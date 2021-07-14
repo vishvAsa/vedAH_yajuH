@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-kitavā́so yád riripúr ná dīví  
-yád vā ghā satyám utá yán ná vidmá  
-sárvā tā́ ví ṣya śithiréva deva  
-ádhā te syāma varuṇa priyā́saḥ  
+कितवा꣡सो य꣡द् रिरिपु꣡र् न꣡ दीवि꣡  
+य꣡द् वा घा सत्य꣡म् उत꣡ य꣡न् न꣡ विद्म꣡  
+स꣡र्वा ता꣡ वि꣡ ष्य शिथिरे꣡व देव  
+अ꣡धा ते स्याम वरुण प्रिया꣡सः  

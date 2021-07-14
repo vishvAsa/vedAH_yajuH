@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yā́m pūṣan brahmacódanīm  
-ā́rām bíbharṣi āghr̥ṇe  
-táyā samasya hŕ̥dayam  
-ā́ rikha kikirā́ kr̥ṇu  
+या꣡म् पूषन् ब्रह्मचो꣡दनीम्  
+आ꣡राम् बि꣡भर्षि आघृणे  
+त꣡या समस्य ह्ŕ̥दयम्  
+आ꣡ रिख किकिरा꣡ कृणु  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ā́ no yajñám bhā́ratī tū́yam etu  
-íḷā manuṣvád ihá cetáyantī  
-tisró devī́r barhír édáṃ siyonáṃ  
-sárasvatī suápasaḥ sadantu  
+आ꣡ नो यज्ञ꣡म् भा꣡रती तू꣡यम् एतु  
+इ꣡ऌआ मनुष्व꣡द् इह꣡ चेत꣡यन्ती  
+तिस्रो꣡ देवी꣡र् बर्हि꣡र् ए꣡दं꣡ सियोनं꣡  
+स꣡रस्वती सुअ꣡पसः सदन्तु  

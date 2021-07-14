@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-pr̥thū́ karásnā bahulā́ gábhastī  
-asmadríak sám mimīhi śrávāṃsi  
-yūthéva paśváḥ paśupā́ dámūnā  
-asmā́m̐ indrābhí ā́ vavr̥tsuvājaú  
+पृथू꣡ कर꣡स्ना बहुला꣡ ग꣡भस्ती  
+अस्मद्रि꣡अक् स꣡म् मिमीहि श्र꣡वांसि  
+यूथे꣡व पश्वः꣡ पशुपा꣡ द꣡मूना  
+अस्माँ꣡ इन्द्राभि꣡ आ꣡ ववृत्सुवाजउ꣡  

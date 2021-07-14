@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-yé ca árhanti marútaḥ sudā́navaḥ  
-smán mīḷhúṣaś cáranti yé  
-átaś cid ā́ na úpa vásyasā hr̥dā́  
-yúvāna ā́ vavr̥dhuvam  
+ये꣡ च अ꣡र्हन्ति मरु꣡तः सुदा꣡नवः  
+स्म꣡न् मीऌहु꣡षश् च꣡रन्ति ये꣡  
+अ꣡तश् चिद् आ꣡ न उ꣡प व꣡स्यसा हृदा꣡  
+यु꣡वान आ꣡ ववृधुवम्  

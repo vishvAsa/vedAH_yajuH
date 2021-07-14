@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá tváṃ no agne avamó bhavotī́  
-nédiṣṭho asyā́ uṣáso víuṣṭau  
-áva yakṣva no váruṇaṃ rárāṇo  
-vīhí mr̥̄ḷīkáṃ+ suhávo na edhi  
+स꣡ त्वं꣡ नो अग्ने अवमो꣡ भवोती꣡  
+ने꣡दिष्ठो अस्या꣡ उष꣡सो वि꣡उष्टौ  
+अ꣡व यक्ष्व नो व꣡रुणं र꣡राणो  
+वीहि꣡ मॄऌईकं꣡+ सुह꣡वो न एधि  

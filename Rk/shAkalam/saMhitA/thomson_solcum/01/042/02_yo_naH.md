@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yó naḥ pūṣann aghó vŕ̥ko  
-duḥśéva ādídeśati  
-ápa sma tám pathó jahi  
+यो꣡ नः पूषन्न् अघो꣡ व्ŕ̥को  
+दुःशे꣡व आदि꣡देशति  
+अ꣡प स्म त꣡म् पथो꣡ जहि  

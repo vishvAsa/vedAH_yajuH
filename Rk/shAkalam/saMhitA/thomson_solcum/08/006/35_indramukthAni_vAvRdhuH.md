@@ -2,6 +2,6 @@
 title = "035"
 
 +++
-índram ukthā́ni vāvr̥dhuḥ  
-samudrám iva síndhavaḥ  
-ánuttamanyum ajáram  
+इ꣡न्द्रम् उक्था꣡नि वावृधुः  
+समुद्र꣡म् इव सि꣡न्धवः  
+अ꣡नुत्तमन्युम् अज꣡रम्  

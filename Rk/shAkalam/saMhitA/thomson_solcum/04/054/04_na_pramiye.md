@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ná pramíye savitúr daíviyasya tád  
-yáthā víśvam bhúvanaṃ dhārayiṣyáti  
-yát pr̥thivyā́ várimann ā́ suaṅgurír  
-várṣman diváḥ suváti satyám asya tát  
+न꣡ प्रमि꣡ये सवितु꣡र् दइ꣡वियस्य त꣡द्  
+य꣡था वि꣡श्वम् भु꣡वनं धारयिष्य꣡ति  
+य꣡त् पृथिव्या꣡ व꣡रिमन्न् आ꣡ सुअङ्गुरि꣡र्  
+व꣡र्ष्मन् दिवः꣡ सुव꣡ति सत्य꣡म् अस्य त꣡त्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tápurmūrdhā tapatu rakṣáso yé  
-brahmadvíṣaḥ śárave hántavā́ u  
-kṣipád áśastim ápa durmatíṃ hann  
-áthā karad yájamānāya śáṃ yóḥ  
+त꣡पुर्मूर्धा तपतु रक्ष꣡सो ये꣡  
+ब्रह्मद्वि꣡षः श꣡रवे ह꣡न्तवा꣡ उ  
+क्षिप꣡द् अ꣡शस्तिम् अ꣡प दुर्मतिं꣡ हन्न्  
+अ꣡था करद् य꣡जमानाय शं꣡ योः꣡  

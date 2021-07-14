@@ -2,8 +2,8 @@
 title = "008"
 
 +++
-śáṃ ródasī subándhave  
-yahvī́ r̥tásya mātárā  
-bháratām ápa yád rápo  
-dyaúḥ pr̥thivi kṣamā́ rápo  
-mó ṣú te kíṃ canā́mamat  
+शं꣡ रो꣡दसी सुब꣡न्धवे  
+यह्वी꣡ ऋत꣡स्य मात꣡रा  
+भ꣡रताम् अ꣡प य꣡द् र꣡पो  
+द्यउः꣡ पृथिवि क्षमा꣡ र꣡पो  
+मो꣡ षु꣡ ते किं꣡ चना꣡ममत्  

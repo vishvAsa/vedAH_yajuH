@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-br̥hánteva gambháreṣu pratiṣṭhā́m  
-pā́deva gādháṃ tárate vidāthaḥ  
-kárṇeva śā́sur ánu hí smárātho  
-áṃśeva no bhajataṃ citrám ápnaḥ  
+बृह꣡न्तेव गम्भ꣡रेषु प्रतिष्ठा꣡म्  
+पा꣡देव गाधं꣡ त꣡रते विदाथः  
+क꣡र्णेव शा꣡सुर् अ꣡नु हि꣡ स्म꣡राथो  
+अं꣡शेव नो भजतं चित्र꣡म् अ꣡प्नः  

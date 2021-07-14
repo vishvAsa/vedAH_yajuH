@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-purāṇā́ vāṃ vīríyā prá bravā jáne  
-átho hāsathur bhiṣájā mayobhúvā  
-tā́ vāṃ nú návyāv ávase karāmahe  
-ayáṃ nāsatyā śrád arír yáthā dádhat  
+पुराणा꣡ वां वीरि꣡या प्र꣡ ब्रवा ज꣡ने  
+अ꣡थो हासथुर् भिष꣡जा मयोभु꣡वा  
+ता꣡ वां नु꣡ न꣡व्याव् अ꣡वसे करामहे  
+अयं꣡ नासत्या श्र꣡द् अरि꣡र् य꣡था द꣡धत्  

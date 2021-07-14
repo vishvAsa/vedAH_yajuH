@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ásamātiṃ nitóśanaṃ  
-tveṣáṃ niyayínaṃ rátham  
-bhajérathasya sátpatim  
+अ꣡समातिं नितो꣡शनं  
+त्वेषं꣡ निययि꣡नं र꣡थम्  
+भजे꣡रथस्य स꣡त्पतिम्  

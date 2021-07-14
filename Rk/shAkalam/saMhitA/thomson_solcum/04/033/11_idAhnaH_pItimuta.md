@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-idā́hnaḥ pītím utá vo mádaṃ dhur  
-ná rté śrāntásya sakhiyā́ya devā́ḥ  
-té nūnám asmé r̥bhavo vásūni  
-tr̥tī́ye asmín sávane dadhāta  
+इदा꣡ह्नः पीति꣡म् उत꣡ वो म꣡दं धुर्  
+न꣡ र्ते꣡ श्रान्त꣡स्य सखिया꣡य देवाः꣡  
+ते꣡ नून꣡म् अस्मे꣡ ऋभवो व꣡सूनि  
+तृती꣡ये अस्मि꣡न् स꣡वने दधात  

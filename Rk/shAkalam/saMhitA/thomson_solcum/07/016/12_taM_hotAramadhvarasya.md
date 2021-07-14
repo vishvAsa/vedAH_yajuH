@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-táṃ hótāram adhvarásya prácetasaṃ  
-váhniṃ devā́ akr̥ṇvata  
-dádhāti rátnaṃ vidhaté suvī́riyam  
-agnír jánāya dāśúṣe  
+तं꣡ हो꣡तारम् अध्वर꣡स्य प्र꣡चेतसं  
+व꣡ह्निं देवा꣡ अकृण्वत  
+द꣡धाति र꣡त्नं विधते꣡ सुवी꣡रियम्  
+अग्नि꣡र् ज꣡नाय दाशु꣡षे  

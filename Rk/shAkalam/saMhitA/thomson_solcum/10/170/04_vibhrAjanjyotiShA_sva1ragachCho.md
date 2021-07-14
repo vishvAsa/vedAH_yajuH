@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-vibhrā́jañ jyótiṣā súvar  
-ágacho rocanáṃ diváḥ  
-yénemā́ víśvā bhúvanāni ā́bhr̥tā  
-viśvákarmaṇā viśvádeviyāvatā  
+विभ्रा꣡जञ् ज्यो꣡तिषा सु꣡वर्  
+अ꣡गछो रोचनं꣡ दिवः꣡  
+ये꣡नेमा꣡ वि꣡श्वा भु꣡वनानि आ꣡भृता  
+विश्व꣡कर्मणा विश्व꣡देवियावता  

@@ -2,8 +2,8 @@
 title = "008"
 
 +++
-utá no gómatīr íṣa  
-ā́ vahā duhitar divaḥ  
-sākáṃ sū́ryasya raśmíbhiḥ  
-śukraíḥ śócadbhir arcíbhiḥ  
-sújāte áśvasūnr̥te  
+उत꣡ नो गो꣡मतीर् इ꣡ष  
+आ꣡ वहा दुहितर् दिवः  
+साकं꣡ सू꣡र्यस्य रश्मि꣡भिः  
+शुक्रइः꣡ शो꣡चद्भिर् अर्चि꣡भिः  
+सु꣡जाते अ꣡श्वसूनृते  

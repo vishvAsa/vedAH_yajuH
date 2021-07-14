@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yajñaír átharvā prathamáḥ pathás tate  
-tátaḥ sū́ryo vratapā́ vená ā́jani  
-ā́ gā́ ājad uśánā kāviyáḥ sácā  
-yamásya jātám amŕ̥taṃ yajāmahe  
+यज्ञइ꣡र् अ꣡थर्वा प्रथमः꣡ पथ꣡स् तते  
+त꣡तः सू꣡र्यो व्रतपा꣡ वेन꣡ आ꣡जनि  
+आ꣡ गा꣡ आजद् उश꣡ना कावियः꣡ स꣡चा  
+यम꣡स्य जात꣡म् अम्ŕ̥तं यजामहे  

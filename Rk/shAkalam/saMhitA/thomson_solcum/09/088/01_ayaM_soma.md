@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ayáṃ sóma indara+ túbhya° sunve  
-túbhyam pavate tuvám asya pāhi  
-tuváṃ ha yáṃ cakr̥ṣé tváṃ vavr̥ṣá  
-índum mádāya yújiyāya sómam  
+अयं꣡ सो꣡म इन्दर+ तु꣡भ्य° सुन्वे  
+तु꣡भ्यम् पवते तुव꣡म् अस्य पाहि  
+तुवं꣡ ह यं꣡ चकृषे꣡ त्वं꣡ ववृष꣡  
+इ꣡न्दुम् म꣡दाय यु꣡जियाय सो꣡मम्  

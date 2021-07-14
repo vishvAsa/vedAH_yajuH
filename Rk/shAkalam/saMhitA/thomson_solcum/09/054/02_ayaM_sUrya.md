@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ayáṃ sū́rya ivopadŕ̥g  
-ayáṃ sárāṃsi dhāvati  
-saptá praváta ā́ dívam  
+अयं꣡ सू꣡र्य इवोपद्ŕ̥ग्  
+अयं꣡ स꣡रांसि धावति  
+सप्त꣡ प्रव꣡त आ꣡ दि꣡वम्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ no yātam úpaśruti  
-áśvinā sómapītaye  
-svā́hā stómasya vardhanā  
-prá kavī dhītíbhir narā  
+आ꣡ नो यातम् उ꣡पश्रुति  
+अ꣡श्विना सो꣡मपीतये  
+स्वा꣡हा स्तो꣡मस्य वर्धना  
+प्र꣡ कवी धीति꣡भिर् नरा  

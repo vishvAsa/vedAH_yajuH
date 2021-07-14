@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ā́ juhotā duvasyáta  
-agním prayatí adhvaré  
-vr̥ṇīdhváṃ havyavā́hanam  
+आ꣡ जुहोता दुवस्य꣡त  
+अग्नि꣡म् प्रयति꣡ अध्वरे꣡  
+वृणीध्वं꣡ हव्यवा꣡हनम्  

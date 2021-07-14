@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mā́ tvā rudra cukrudhāmā námobhir  
-mā́ dúṣṭutī vr̥ṣabha mā́ sáhūtī  
-ún no vīrā́m̐ arpaya bheṣajébhir  
-bhiṣáktamaṃ tvā bhiṣájāṃ śr̥ṇomi  
+मा꣡ त्वा रुद्र चुक्रुधामा न꣡मोभिर्  
+मा꣡ दु꣡ष्टुती वृषभ मा꣡ स꣡हूती  
+उ꣡न् नो वीराँ꣡ अर्पय भेषजे꣡भिर्  
+भिष꣡क्तमं त्वा भिष꣡जां शृणोमि  

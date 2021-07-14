@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-uvócitha hí maghavan dayiṣṇám+  
-mahó árbhasya vásuno vibhāgé  
-ubhā́ te pūrṇā́ vásunā gábhastī  
-ná sūnŕ̥tā ní yamate vasavyā̀  
+उवो꣡चिथ हि꣡ मघवन् दयिष्ण꣡म्+  
+महो꣡ अ꣡र्भस्य व꣡सुनो विभागे꣡  
+उभा꣡ ते पूर्णा꣡ व꣡सुना ग꣡भस्ती  
+न꣡ सून्ŕ̥ता नि꣡ यमते वसव्या᳡  

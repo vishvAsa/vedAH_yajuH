@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ná té ta indra abhí asmád r̥ṣva  
-áyuktāso abrahmátā yád ásan  
-tíṣṭhā rátham ádhi táṃ vajrahastā́  
-raśmíṃ deva · yamase suáśvaḥ  
+न꣡ ते꣡ त इन्द्र अभि꣡ अस्म꣡द् ऋष्व  
+अ꣡युक्तासो अब्रह्म꣡ता य꣡द् अ꣡सन्  
+ति꣡ष्ठा र꣡थम् अ꣡धि तं꣡ वज्रहस्ता꣡  
+रश्मिं꣡ देव · यमसे सुअ꣡श्वः  

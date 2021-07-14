@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-prá yád váhethe mahinā́ ráthasya  
-prá syandrā yātho mánuṣo ná hótā  
-dhattáṃ sūríbhya utá vā suáśvyaṃ  
-nā́satiyā rayiṣā́caḥ siyāma  
+प्र꣡ य꣡द् व꣡हेथे महिना꣡ र꣡थस्य  
+प्र꣡ स्यन्द्रा याथो म꣡नुषो न꣡ हो꣡ता  
+धत्तं꣡ सूरि꣡भ्य उत꣡ वा सुअ꣡श्व्यं  
+ना꣡सतिया रयिषा꣡चः सियाम  

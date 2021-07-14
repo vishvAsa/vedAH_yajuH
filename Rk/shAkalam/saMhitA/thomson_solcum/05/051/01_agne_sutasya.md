@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ágne sutásya pītáye  
-víśvair ū́mebhir ā́ gahi  
-devébhir havyádātaye  
+अ꣡ग्ने सुत꣡स्य पीत꣡ये  
+वि꣡श्वैर् ऊ꣡मेभिर् आ꣡ गहि  
+देवे꣡भिर् हव्य꣡दातये  

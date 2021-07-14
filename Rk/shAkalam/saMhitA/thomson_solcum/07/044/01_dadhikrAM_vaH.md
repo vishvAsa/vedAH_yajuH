@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-dadhikrā́ṃ vaḥ prathamám aśvínoṣásam  
-agníṃ sámiddham bhágam ūtáye huve  
-índraṃ víṣṇum pūṣáṇam bráhmaṇas pátim  
-ādityā́n dyā́vāpr̥thivī́ apáḥ súvaḥ  
+दधिक्रां꣡ वः प्रथम꣡म् अश्वि꣡नोष꣡सम्  
+अग्निं꣡ स꣡मिद्धम् भ꣡गम् ऊत꣡ये हुवे  
+इ꣡न्द्रं वि꣡ष्णुम् पूष꣡णम् ब्र꣡ह्मणस् प꣡तिम्  
+आदित्या꣡न् द्या꣡वापृथिवी꣡ अपः꣡ सु꣡वः  

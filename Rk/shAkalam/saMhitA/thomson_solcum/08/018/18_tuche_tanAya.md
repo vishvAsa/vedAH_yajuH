@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-tucé tánāya tát sú no  
-drā́ghīya ā́yu° jīváse  
-ā́dityāsaḥ sumahasaḥ kr̥ṇótana  
+तुचे꣡ त꣡नाय त꣡त् सु꣡ नो  
+द्रा꣡घीय आ꣡यु° जीव꣡से  
+आ꣡दित्यासः सुमहसः कृणो꣡तन  

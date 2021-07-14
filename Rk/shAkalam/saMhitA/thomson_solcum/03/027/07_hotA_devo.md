@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-hótā devó ámartiyaḥ  
-purástād eti māyáyā  
-vidáthāni pracodáyan  
+हो꣡ता देवो꣡ अ꣡मर्तियः  
+पुर꣡स्ताद् एति माय꣡या  
+विद꣡थानि प्रचोद꣡यन्  

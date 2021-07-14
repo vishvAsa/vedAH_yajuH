@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-ayáṃ sómaḥ kapardíne  
-ghr̥táṃ ná pavate mádhu  
-ā́ bhakṣat kaníyāsu naḥ  
+अयं꣡ सो꣡मः कपर्दि꣡ने  
+घृतं꣡ न꣡ पवते म꣡धु  
+आ꣡ भक्षत् कनि꣡यासु नः  

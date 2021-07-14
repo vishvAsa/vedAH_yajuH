@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-śáśvanto hí śátravo rāradhúṣ ṭe  
-bhedásya cic chárdhato vinda rándhim  
-mártām̐ éna stuvató yáḥ kr̥ṇóti  
-tigmáṃ tásmin ní jahi vájram indra  
+श꣡श्वन्तो हि꣡ श꣡त्रवो रारधु꣡ष् टे  
+भेद꣡स्य चिच् छ꣡र्धतो विन्द र꣡न्धिम्  
+म꣡र्ताँ ए꣡न स्तुवतो꣡ यः꣡ कृणो꣡ति  
+तिग्मं꣡ त꣡स्मिन् नि꣡ जहि व꣡ज्रम् इन्द्र  

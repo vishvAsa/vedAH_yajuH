@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-mahī́ mitrásya sādhathas  
-tárantī pípratī r̥tám  
-pári yajñáṃ ní ṣedathuḥ  
+मही꣡ मित्र꣡स्य साधथस्  
+त꣡रन्ती पि꣡प्रती ऋत꣡म्  
+प꣡रि यज्ञं꣡ नि꣡ षेदथुः  

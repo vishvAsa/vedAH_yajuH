@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ní agníṃ jātávedasaṃ  
-dádhātā devám r̥tvíjam  
-prá yajñá etu ānuṣág  
-adyā́ devávyacastamaḥ  
+नि꣡ अग्निं꣡ जात꣡वेदसं  
+द꣡धाता देव꣡म् ऋत्वि꣡जम्  
+प्र꣡ यज्ञ꣡ एतु आनुष꣡ग्  
+अद्या꣡ देव꣡व्यचस्तमः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ no víśvābhir ūtíbhiḥ sajóṣā  
-bráhma juṣāṇó hariaśva yāhi  
-várīvr̥jat sthávirebhiḥ suśipra  
-asmé dádhad vŕ̥ṣaṇaṃ śúṣmam indra  
+आ꣡ नो वि꣡श्वाभिर् ऊति꣡भिः सजो꣡षा  
+ब्र꣡ह्म जुषाणो꣡ हरिअश्व याहि  
+व꣡रीवृजत् स्थ꣡विरेभिः सुशिप्र  
+अस्मे꣡ द꣡धद् व्ŕ̥षणं शु꣡ष्मम् इन्द्र  

@@ -2,9 +2,9 @@
 title = "014"
 
 +++
-yác ca góṣu duṣvápniyaṃ  
-yác cāsmé duhitar divaḥ  
-tritā́ya tád vibhāvari  
-āptiyā́ya párā vaha  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+य꣡च् च गो꣡षु दुष्व꣡प्नियं  
+य꣡च् चास्मे꣡ दुहितर् दिवः  
+त्रिता꣡य त꣡द् विभावरि  
+आप्तिया꣡य प꣡रा वह  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

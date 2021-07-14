@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ā́t sóma indriyó ráso  
-vájraḥ sahasrasā́ bhuvat  
-uktháṃ yád asya jā́yate  
+आ꣡त् सो꣡म इन्द्रियो꣡ र꣡सो  
+व꣡ज्रः सहस्रसा꣡ भुवत्  
+उक्थं꣡ य꣡द् अस्य जा꣡यते  

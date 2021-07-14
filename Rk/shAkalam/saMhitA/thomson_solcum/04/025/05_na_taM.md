@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ná táṃ jinanti bahávo ná dabhrā́  
-urú asmā áditiḥ śárma yaṃsat  
-priyáḥ sukŕ̥t priyá índre manāyúḥ  
-priyáḥ suprāvī́ḥ priyó asya somī́  
+न꣡ तं꣡ जिनन्ति बह꣡वो न꣡ दभ्रा꣡  
+उरु꣡ अस्मा अ꣡दितिः श꣡र्म यंसत्  
+प्रियः꣡ सुक्ŕ̥त् प्रिय꣡ इ꣡न्द्रे मनायुः꣡  
+प्रियः꣡ सुप्रावीः꣡ प्रियो꣡ अस्य सोमी꣡  

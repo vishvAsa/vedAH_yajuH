@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-tváyā vayáṃ sadhaníyas tuvótās  
-táva práṇīti aśiyāma vā́jān  
-ubhā́ śáṃsā sūdaya satyatāte  
-anuṣṭhuyā́ kr̥ṇuhi ahrayāṇa  
+त्व꣡या वयं꣡ सधनि꣡यस् तुवो꣡तास्  
+त꣡व प्र꣡णीति अशियाम वा꣡जान्  
+उभा꣡ शं꣡सा सूदय सत्यताते  
+अनुष्ठुया꣡ कृणुहि अह्रयाण  

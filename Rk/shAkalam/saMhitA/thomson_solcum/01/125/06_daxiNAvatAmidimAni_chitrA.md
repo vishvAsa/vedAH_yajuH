@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-dákṣiṇāvatām íd imā́ni citrā́  
-dákṣiṇāvatāṃ diví sū́riyāsaḥ  
-dákṣiṇāvanto amŕ̥tam bhajante  
-dákṣiṇāvantaḥ prá tiranta ā́yuḥ  
+द꣡क्षिणावताम् इ꣡द् इमा꣡नि चित्रा꣡  
+द꣡क्षिणावतां दिवि꣡ सू꣡रियासः  
+द꣡क्षिणावन्तो अम्ŕ̥तम् भजन्ते  
+द꣡क्षिणावन्तः प्र꣡ तिरन्त आ꣡युः  

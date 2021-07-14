@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ā́ vo dhíyaṃ yajñíyāṃ varta ūtáye  
-dévā devī́ṃ yajatā́ṃ yajñíyām ihá  
-sā́ no duhīyad yávaseva gatvī́  
-sahásradhārā páyasā mahī́ gaúḥ  
+आ꣡ वो धि꣡यं यज्ञि꣡यां वर्त ऊत꣡ये  
+दे꣡वा देवीं꣡ यजतां꣡ यज्ञि꣡याम् इह꣡  
+सा꣡ नो दुहीयद् य꣡वसेव गत्वी꣡  
+सह꣡स्रधारा प꣡यसा मही꣡ गउः꣡  

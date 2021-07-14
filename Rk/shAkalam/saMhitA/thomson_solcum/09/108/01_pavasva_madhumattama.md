@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-pávasva mádhumattama  
-índrāya soma kratuvíttamo mádaḥ  
-máhi dyukṣátamo mádaḥ  
+प꣡वस्व म꣡धुमत्तम  
+इ꣡न्द्राय सोम क्रतुवि꣡त्तमो म꣡दः  
+म꣡हि द्युक्ष꣡तमो म꣡दः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-táṃ vo víṃ ná druṣádaṃ devám ándhasa  
-índum próthantam pravápantam arṇavám  
-āsā́ váhniṃ ná śocíṣā virapśínam  
-máhivrataṃ ná sarájantam ádhvanaḥ  
+तं꣡ वो विं꣡ न꣡ द्रुष꣡दं देव꣡म् अ꣡न्धस  
+इ꣡न्दुम् प्रो꣡थन्तम् प्रव꣡पन्तम् अर्णव꣡म्  
+आसा꣡ व꣡ह्निं न꣡ शोचि꣡षा विरप्शि꣡नम्  
+म꣡हिव्रतं न꣡ सर꣡जन्तम् अ꣡ध्वनः  

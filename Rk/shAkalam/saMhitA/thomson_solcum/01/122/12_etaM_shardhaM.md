@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-etáṃ śárdhaṃ · dhāma yásya sūrér  
-íty avocan dáśatayasya náṃśe  
-dyumnā́ni yéṣu vasútātī rārán  
-víśve sanvantu prabhr̥théṣu vā́jam  
+एतं꣡ श꣡र्धं · धाम य꣡स्य सूरे꣡र्  
+इ꣡त्य् अवोचन् द꣡शतयस्य नं꣡शे  
+द्युम्ना꣡नि ये꣡षु वसु꣡ताती रार꣡न्  
+वि꣡श्वे सन्वन्तु प्रभृथे꣡षु वा꣡जम्  

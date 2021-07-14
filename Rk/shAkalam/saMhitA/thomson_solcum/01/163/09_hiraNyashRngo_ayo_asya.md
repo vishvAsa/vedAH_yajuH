@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-híraṇyaśr̥ṅgo áyo asya pā́dā  
-mánojavā ávara índra āsīt  
-devā́ íd asya havirádyam āyan  
-yó árvantam prathamó adhyátiṣṭhat  
+हि꣡रण्यशृङ्गो अ꣡यो अस्य पा꣡दा  
+म꣡नोजवा अ꣡वर इ꣡न्द्र आसीत्  
+देवा꣡ इ꣡द् अस्य हविर꣡द्यम् आयन्  
+यो꣡ अ꣡र्वन्तम् प्रथमो꣡ अध्य꣡तिष्ठत्  

@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ā́ no gávyebhir áśviyair  
-vasavyaìr úpa gachatam  
-sákhāyau devaú sakhiyā́ya śambhúvā  
-indrāgnī́ tā́ havāmahe  
+आ꣡ नो ग꣡व्येभिर् अ꣡श्वियैर्  
+वसव्यइ᳡र् उ꣡प गछतम्  
+स꣡खायौ देवउ꣡ सखिया꣡य शम्भु꣡वा  
+इन्द्राग्नी꣡ ता꣡ हवामहे  

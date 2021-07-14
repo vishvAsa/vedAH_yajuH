@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-úc chrayasva vanaspate  
-várṣman pr̥thiviyā́ ádhi  
-súmitī mīyámāno  
-várco dhā yajñávāhase  
+उ꣡च् छ्रयस्व वनस्पते  
+व꣡र्ष्मन् पृथिविया꣡ अ꣡धि  
+सु꣡मिती मीय꣡मानो  
+व꣡र्चो धा यज्ञ꣡वाहसे  

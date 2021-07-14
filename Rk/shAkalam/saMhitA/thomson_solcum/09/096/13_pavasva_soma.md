@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-pávasva soma mádhumām̐ r̥tā́vā  
-apó vásāno ádhi sā́no ávye  
-áva dróṇāni ghr̥távānti sīda  
-madíntamo matsará indrapā́naḥ  
+प꣡वस्व सोम म꣡धुमाँ ऋता꣡वा  
+अपो꣡ व꣡सानो अ꣡धि सा꣡नो अ꣡व्ये  
+अ꣡व द्रो꣡णानि घृत꣡वान्ति सीद  
+मदि꣡न्तमो मत्सर꣡ इन्द्रपा꣡नः  

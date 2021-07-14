@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-úpa va eṣe námasā jigīṣā́  
-uṣā́sānáktā sudúgheva dhenúḥ  
-samāné áhan vimímāno arkáṃ  
-víṣurūpe páyasi sásmin ū́dhan  
+उ꣡प व एषे न꣡मसा जिगीषा꣡  
+उषा꣡सान꣡क्ता सुदु꣡घेव धेनुः꣡  
+समाने꣡ अ꣡हन् विमि꣡मानो अर्कं꣡  
+वि꣡षुरूपे प꣡यसि स꣡स्मिन् ऊ꣡धन्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yás ta indra priyó jáno dádāśad  
-ásan nireké adrivaḥ sákhā te  
-vayáṃ te asyā́ṃ sumataú cániṣṭhāḥ  
-syā́ma várūthe ághnato nŕ̥pītau  
+य꣡स् त इन्द्र प्रियो꣡ ज꣡नो द꣡दाशद्  
+अ꣡सन् निरेके꣡ अद्रिवः स꣡खा ते  
+वयं꣡ ते अस्यां꣡ सुमतउ꣡ च꣡निष्ठाः  
+स्या꣡म व꣡रूथे अ꣡घ्नतो न्ŕ̥पीतौ  

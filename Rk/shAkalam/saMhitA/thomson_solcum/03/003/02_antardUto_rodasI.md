@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-antár dūtó ródasī dasmá īyate  
-hótā níṣatto mánuṣaḥ puróhitaḥ  
-kṣáyam br̥hántam pári bhūṣati dyúbhir  
-devébhir agnír iṣitó dhiyā́vasuḥ  
+अन्त꣡र् दूतो꣡ रो꣡दसी दस्म꣡ ईयते  
+हो꣡ता नि꣡षत्तो म꣡नुषः पुरो꣡हितः  
+क्ष꣡यम् बृह꣡न्तम् प꣡रि भूषति द्यु꣡भिर्  
+देवे꣡भिर् अग्नि꣡र् इषितो꣡ धिया꣡वसुः  

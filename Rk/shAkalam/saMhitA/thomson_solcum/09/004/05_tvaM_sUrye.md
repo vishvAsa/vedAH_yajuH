@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-tváṃ sū́riye na ā́ bhaja  
-táva krátvā távotíbhiḥ  
-áthā no vásyasas kr̥dhi  
+त्वं꣡ सू꣡रिये न आ꣡ भज  
+त꣡व क्र꣡त्वा त꣡वोति꣡भिः  
+अ꣡था नो व꣡स्यसस् कृधि  

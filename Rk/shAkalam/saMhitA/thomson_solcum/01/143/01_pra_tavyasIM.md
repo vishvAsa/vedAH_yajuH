@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá távyasīṃ návyasīṃ dhītím agnáye  
-vācó matíṃ sáhasaḥ sūnáve bhare  
-apā́ṃ nápād yó vásubhiḥ sahá priyó  
-hótā pr̥thivyā́ṃ ní ásīdad r̥tvíyaḥ  
+प्र꣡ त꣡व्यसीं न꣡व्यसीं धीति꣡म् अग्न꣡ये  
+वाचो꣡ मतिं꣡ स꣡हसः सून꣡वे भरे  
+अपां꣡ न꣡पाद् यो꣡ व꣡सुभिः सह꣡ प्रियो꣡  
+हो꣡ता पृथिव्यां꣡ नि꣡ अ꣡सीदद् ऋत्वि꣡यः  

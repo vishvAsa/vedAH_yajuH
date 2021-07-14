@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-trātā́ram índram avitā́ram índraṃ  
-háve-have suhávaṃ śū́ram índram  
-hváyāmi śakrám puruhūtám índraṃ  
-suastí no maghávā dhātu índraḥ  
+त्राता꣡रम् इ꣡न्द्रम् अविता꣡रम् इ꣡न्द्रं  
+ह꣡वे-हवे सुह꣡वं शू꣡रम् इ꣡न्द्रम्  
+ह्व꣡यामि शक्र꣡म् पुरुहूत꣡म् इ꣡न्द्रं  
+सुअस्ति꣡ नो मघ꣡वा धातु इ꣡न्द्रः  

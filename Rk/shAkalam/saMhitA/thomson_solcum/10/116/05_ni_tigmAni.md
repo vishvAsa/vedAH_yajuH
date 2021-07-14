@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ní tigmā́ni bhrāśáyan bhrā́śiyāni  
-áva sthirā́ tanuhi yātujū́nām  
-ugrā́ya te sáho bálaṃ dadāmi  
-pratī́tyā śátrūn vigadéṣu vr̥śca  
+नि꣡ तिग्मा꣡नि भ्राश꣡यन् भ्रा꣡शियानि  
+अ꣡व स्थिरा꣡ तनुहि यातुजू꣡नाम्  
+उग्रा꣡य ते स꣡हो ब꣡लं ददामि  
+प्रती꣡त्या श꣡त्रून् विगदे꣡षु वृश्च  

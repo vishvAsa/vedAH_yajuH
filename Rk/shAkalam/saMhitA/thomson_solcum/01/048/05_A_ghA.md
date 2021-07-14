@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ ghā yóṣeva sūnárī  
-uṣā́ yāti prabhuñjatī́  
-jaráyantī vŕ̥janam padvád īyata  
-út pātayati pakṣíṇaḥ  
+आ꣡ घा यो꣡षेव सून꣡री  
+उषा꣡ याति प्रभुञ्जती꣡  
+जर꣡यन्ती व्ŕ̥जनम् पद्व꣡द् ईयत  
+उ꣡त् पातयति पक्षि꣡णः  

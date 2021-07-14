@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-yásya te nū́ cid ādíśaṃ  
-ná minánti svarā́jiyam  
-ná devó nā́dhrigur jánaḥ  
+य꣡स्य ते नू꣡ चिद् आदि꣡शं  
+न꣡ मिन꣡न्ति स्वरा꣡जियम्  
+न꣡ देवो꣡ ना꣡ध्रिगुर् ज꣡नः  

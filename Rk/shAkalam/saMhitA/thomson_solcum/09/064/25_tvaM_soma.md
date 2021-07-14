@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-tuváṃ soma vipaścítam  
-punānó vā́cam iṣyasi  
-índo sahásrabharṇasam  
+तुवं꣡ सोम विपश्चि꣡तम्  
+पुनानो꣡ वा꣡चम् इष्यसि  
+इ꣡न्दो सह꣡स्रभर्णसम्  

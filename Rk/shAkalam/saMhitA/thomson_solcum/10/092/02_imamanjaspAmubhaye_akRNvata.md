@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-imám añjaspā́m ubháye akr̥ṇvata  
-dharmā́ṇam agníṃ vidáthasya sā́dhanam  
-aktúṃ ná yahvám uṣásaḥ puróhitaṃ  
-tánūnápātam aruṣásya niṃsate  
+इम꣡म् अञ्जस्पा꣡म् उभ꣡ये अकृण्वत  
+धर्मा꣡णम् अग्निं꣡ विद꣡थस्य सा꣡धनम्  
+अक्तुं꣡ न꣡ यह्व꣡म् उष꣡सः पुरो꣡हितं  
+त꣡नून꣡पातम् अरुष꣡स्य निंसते  

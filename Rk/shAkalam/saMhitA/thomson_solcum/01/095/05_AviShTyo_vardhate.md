@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-āvíṣṭiyo vardhate cā́rur āsu  
-jihmā́nām ūrdhváḥ sváyaśā upásthe  
-ubhé tváṣṭur bibhyatur jā́yamānāt  
-pratīcī́ siṃhám práti joṣayete  
+आवि꣡ष्टियो वर्धते चा꣡रुर् आसु  
+जिह्मा꣡नाम् ऊर्ध्वः꣡ स्व꣡यशा उप꣡स्थे  
+उभे꣡ त्व꣡ष्टुर् बिभ्यतुर् जा꣡यमानात्  
+प्रतीची꣡ सिंह꣡म् प्र꣡ति जोषयेते  

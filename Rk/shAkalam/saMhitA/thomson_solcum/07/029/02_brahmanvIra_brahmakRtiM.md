@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-bráhman vīra bráhmakr̥tiṃ juṣāṇó  
-arvācīnó háribhir yāhi tū́yam  
-asmínn ū ṣú sávane mādayasva  
-úpa bráhmāṇi śr̥ṇava imā́ naḥ  
+ब्र꣡ह्मन् वीर ब्र꣡ह्मकृतिं जुषाणो꣡  
+अर्वाचीनो꣡ ह꣡रिभिर् याहि तू꣡यम्  
+अस्मि꣡न्न् ऊ षु꣡ स꣡वने मादयस्व  
+उ꣡प ब्र꣡ह्माणि शृणव इमा꣡ नः  

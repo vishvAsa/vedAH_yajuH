@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yád émi prasphuránn iva  
-dŕ̥tir ná dhmātó adrivaḥ  
-mr̥̄ḷā́+ sukṣatra mr̥̄ḷáya  
+य꣡द् ए꣡मि प्रस्फुर꣡न्न् इव  
+द्ŕ̥तिर् न꣡ ध्मातो꣡ अद्रिवः  
+मॄऌआ꣡+ सुक्षत्र मॄऌअ꣡य  

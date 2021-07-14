@@ -2,5 +2,5 @@
 title = "009"
 
 +++
-abhí vo devī́ṃ dhíyaṃ dadhidhvam  
-prá vo devatrā́ vā́caṃ kr̥ṇudhvam  
+अभि꣡ वो देवीं꣡ धि꣡यं दधिध्वम्  
+प्र꣡ वो देवत्रा꣡ वा꣡चं कृणुध्वम्  

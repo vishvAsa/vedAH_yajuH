@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yátra dvā́v iva jaghánā  
-adhiṣavaṇíyā kr̥tā́  
-ulū́khalasutānãm  
-ávéd u indra jalgulaḥ  
+य꣡त्र द्वा꣡व् इव जघ꣡ना  
+अधिषवणि꣡या कृता꣡  
+उलू꣡खलसुतान्ãम्  
+अ꣡वे꣡द् उ इन्द्र जल्गुलः  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-tuvā́vataḥ purūvaso  
-vayám indra praṇayitaḥ+  
-smási sthātar harīṇãm  
+तुवा꣡वतः पुरूवसो  
+वय꣡म् इन्द्र प्रणयितः+  
+स्म꣡सि स्थातर् हरीण्ãम्  

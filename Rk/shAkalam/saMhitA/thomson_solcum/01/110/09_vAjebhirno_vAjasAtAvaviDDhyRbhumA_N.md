@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-vā́jebhir no vā́jasātāv aviḍḍhi  
-rbhumā́m̐ indra citrám ā́ darṣi rā́dhaḥ  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+वा꣡जेभिर् नो वा꣡जसाताव् अविड्ढि  
+र्भुमाँ꣡ इन्द्र चित्र꣡म् आ꣡ दर्षि रा꣡धः  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

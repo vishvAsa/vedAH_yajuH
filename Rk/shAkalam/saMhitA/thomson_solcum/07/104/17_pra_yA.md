@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-prá yā́ jígāti khargáleva náktam  
-ápa druhā́ tanúvaṃ gū́hamānā  
-vavrā́m̐ anantā́m̐ áva sā́ padīṣṭa  
-grā́vāṇo ghnantu rakṣása upabdaíḥ  
+प्र꣡ या꣡ जि꣡गाति खर्ग꣡लेव न꣡क्तम्  
+अ꣡प द्रुहा꣡ तनु꣡वं गू꣡हमाना  
+वव्राँ꣡ अनन्ताँ꣡ अ꣡व सा꣡ पदीष्ट  
+ग्रा꣡वाणो घ्नन्तु रक्ष꣡स उपब्दइः꣡  

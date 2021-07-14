@@ -2,7 +2,7 @@
 title = "039"
 
 +++
-govít pavasva vasuvíd dhiraṇyavíd  
-retodhā́ indo bhúvaneṣu árpitaḥ  
-tuváṃ suvī́ro asi soma viśvavít  
-táṃ tvā víprā úpa girémá āsate  
+गोवि꣡त् पवस्व वसुवि꣡द् धिरण्यवि꣡द्  
+रेतोधा꣡ इन्दो भु꣡वनेषु अ꣡र्पितः  
+तुवं꣡ सुवी꣡रो असि सोम विश्ववि꣡त्  
+तं꣡ त्वा वि꣡प्रा उ꣡प गिरे꣡म꣡ आसते  

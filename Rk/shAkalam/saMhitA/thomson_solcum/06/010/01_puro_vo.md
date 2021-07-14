@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-puró vo mandráṃ diviyáṃ suvr̥ktím  
-prayatí yajñé agním adhvaré dadhidhvam  
-purá ukthébhiḥ sá hí no vibhā́vā  
-suadhvarā́ karati jātávedāḥ  
+पुरो꣡ वो मन्द्रं꣡ दिवियं꣡ सुवृक्ति꣡म्  
+प्रयति꣡ यज्ञे꣡ अग्नि꣡म् अध्वरे꣡ दधिध्वम्  
+पुर꣡ उक्थे꣡भिः स꣡ हि꣡ नो विभा꣡वा  
+सुअध्वरा꣡ करति जात꣡वेदाः  

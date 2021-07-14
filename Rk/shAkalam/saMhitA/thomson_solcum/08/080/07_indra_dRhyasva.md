@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-índra dŕ̥hyasva pū́r asi  
-bhadrā́ ta eti niṣkr̥tá   
-iyáṃ dhī́r r̥tvíyāvatī  
+इ꣡न्द्र द्ŕ̥ह्यस्व पू꣡र् असि  
+भद्रा꣡ त एति निष्कृत꣡   
+इयं꣡ धी꣡र् ऋत्वि꣡यावती  

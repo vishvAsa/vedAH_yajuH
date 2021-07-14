@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-pūrvī́r asya niṣṣídho mártiyeṣu  
-purū́ vásūni pr̥thivī́ bibharti  
-índrāya dyā́va óṣadhīr utā́po  
-rayíṃ rakṣanti jīráyo vánāni  
+पूर्वी꣡र् अस्य निष्षि꣡धो म꣡र्तियेषु  
+पुरू꣡ व꣡सूनि पृथिवी꣡ बिभर्ति  
+इ꣡न्द्राय द्या꣡व ओ꣡षधीर् उता꣡पो  
+रयिं꣡ रक्षन्ति जीर꣡यो व꣡नानि  

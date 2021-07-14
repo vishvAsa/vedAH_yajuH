@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-etám u tyáṃ dáśa kṣípo  
-mr̥jánti saptá dhītáyaḥ  
-suāyudhám madíntamam  
+एत꣡म् उ त्यं꣡ द꣡श क्षि꣡पो  
+मृज꣡न्ति सप्त꣡ धीत꣡यः  
+सुआयुध꣡म् मदि꣡न्तमम्  

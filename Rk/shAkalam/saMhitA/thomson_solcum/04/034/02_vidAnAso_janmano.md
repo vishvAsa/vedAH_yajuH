@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vidānā́so jánmano vājaratnā  
-utá rtúbhir r̥bhavo mādayadhvam  
-sáṃ vo mádā ágmata sám púraṃdhiḥ  
-suvī́rām asmé rayím érayadhvam  
+विदाना꣡सो ज꣡न्मनो वाजरत्ना  
+उत꣡ र्तु꣡भिर् ऋभवो मादयध्वम्  
+सं꣡ वो म꣡दा अ꣡ग्मत स꣡म् पु꣡रंधिः  
+सुवी꣡राम् अस्मे꣡ रयि꣡म् ए꣡रयध्वम्  

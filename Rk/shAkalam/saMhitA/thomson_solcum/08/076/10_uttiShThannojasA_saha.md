@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-uttíṣṭhann ójasā sahá  
-pītvī́ śípre avepayaḥ  
-sómam indra camū́ sutám  
+उत्ति꣡ष्ठन्न् ओ꣡जसा सह꣡  
+पीत्वी꣡ शि꣡प्रे अवेपयः  
+सो꣡मम् इन्द्र चमू꣡ सुत꣡म्  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-áṅgiraso naḥ pitáro návagvā  
-átharvāṇo bhŕ̥gavaḥ somiyā́saḥ  
-téṣāṃ vayáṃ sumataú yajñíyānām  
-ápi bhadré saumanasé siyāma  
+अ꣡ङ्गिरसो नः पित꣡रो न꣡वग्वा  
+अ꣡थर्वाणो भ्ŕ̥गवः सोमिया꣡सः  
+ते꣡षां वयं꣡ सुमतउ꣡ यज्ञि꣡यानाम्  
+अ꣡पि भद्रे꣡ सौमनसे꣡ सियाम  

@@ -2,6 +2,6 @@
 title = "033"
 
 +++
-tát te sahasva īmahe  
-dātráṃ yán nópadásyati  
-tvád agne vā́riyaṃ vásu  
+त꣡त् ते सहस्व ईमहे  
+दात्रं꣡ य꣡न् नो꣡पद꣡स्यति  
+त्व꣡द् अग्ने वा꣡रियं व꣡सु  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-idáṃ sú me jaritar ā́ cikiddhi  
-pratīpáṃ śā́paṃ nadíyo vahanti  
-lopāśáḥ siṃhám pratiáñcam atsāḥ  
-kroṣṭā́ varāháṃ nír atakta kákṣāt  
+इदं꣡ सु꣡ मे जरितर् आ꣡ चिकिद्धि  
+प्रतीपं꣡ शा꣡पं नदि꣡यो वहन्ति  
+लोपाशः꣡ सिंह꣡म् प्रतिअ꣡ञ्चम् अत्साः  
+क्रोष्टा꣡ वराहं꣡ नि꣡र् अतक्त क꣡क्षात्  

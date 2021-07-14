@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yán niyā́naṃ niáyanaṃ  
-saṃjñā́naṃ yát parā́yaṇam  
-āvártanaṃ nivártanaṃ  
-yó gopā́ ápi táṃ huve  
+य꣡न् निया꣡नं निअ꣡यनं  
+संज्ञा꣡नं य꣡त् परा꣡यणम्  
+आव꣡र्तनं निव꣡र्तनं  
+यो꣡ गोपा꣡ अ꣡पि तं꣡ हुवे  

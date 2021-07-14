@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-dhartā́ro divá r̥bhávaḥ suhástā  
-vātāparjanyā́ mahiṣásya tanyatóḥ  
-ā́pa óṣadhīḥ prá tirantu no gíro  
-bhágo rātír vājíno yantu me hávam  
+धर्ता꣡रो दिव꣡ ऋभ꣡वः सुह꣡स्ता  
+वातापर्जन्या꣡ महिष꣡स्य तन्यतोः꣡  
+आ꣡प ओ꣡षधीः प्र꣡ तिरन्तु नो गि꣡रो  
+भ꣡गो राति꣡र् वाजि꣡नो यन्तु मे ह꣡वम्  

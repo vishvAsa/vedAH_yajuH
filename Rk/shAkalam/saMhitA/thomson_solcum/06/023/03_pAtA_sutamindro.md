@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-pā́tā sutám índaro+ astu sómam  
-praṇenī́r ugró jaritā́ram ūtī́  
-kártā vīrā́ya súṣvaye ulokáṃ†  
-dā́tā vásu stuvaté kīráye cit  
+पा꣡ता सुत꣡म् इ꣡न्दरो+ अस्तु सो꣡मम्  
+प्रणेनी꣡र् उग्रो꣡ जरिता꣡रम् ऊती꣡  
+क꣡र्ता वीरा꣡य सु꣡ष्वये उलोकं꣡†  
+दा꣡ता व꣡सु स्तुवते꣡ कीर꣡ये चित्  

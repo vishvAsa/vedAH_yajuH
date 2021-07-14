@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ayám u vām purutámo rayīyáñ  
-chaśvattamám ávase johavīti  
-sajóṣāv indrāvaruṇā marúdbhir  
-divā́ pr̥thivyā́ śr̥ṇutaṃ hávam me  
+अय꣡म् उ वाम् पुरुत꣡मो रयीय꣡ञ्  
+छश्वत्तम꣡म् अ꣡वसे जोहवीति  
+सजो꣡षाव् इन्द्रावरुणा मरु꣡द्भिर्  
+दिवा꣡ पृथिव्या꣡ शृणुतं ह꣡वम् मे  

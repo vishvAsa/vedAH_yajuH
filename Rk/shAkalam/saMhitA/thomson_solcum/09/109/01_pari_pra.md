@@ -2,5 +2,5 @@
 title = "001"
 
 +++
-pári prá dhanva índrāya soma  
-svādúr mitrā́ya pūṣṇé bhágāya  
+प꣡रि प्र꣡ धन्व इ꣡न्द्राय सोम  
+स्वादु꣡र् मित्रा꣡य पूष्णे꣡ भ꣡गाय  

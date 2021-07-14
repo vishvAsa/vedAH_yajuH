@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-abhí priyā́ divás padám  
-adhvaryúbhir gúhā hitám  
-sū́raḥ paśyati cákṣasā  
+अभि꣡ प्रिया꣡ दिव꣡स् पद꣡म्  
+अध्वर्यु꣡भिर् गु꣡हा हित꣡म्  
+सू꣡रः पश्यति च꣡क्षसा  

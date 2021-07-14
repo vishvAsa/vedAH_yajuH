@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-punāné tanúvā mitháḥ  
-svéna dákṣeṇa rājathaḥ  
-ūhiyā́the sanā́d r̥tám  
+पुनाने꣡ तनु꣡वा मिथः꣡  
+स्वे꣡न द꣡क्षेण राजथः  
+ऊहिया꣡थे सना꣡द् ऋत꣡म्  

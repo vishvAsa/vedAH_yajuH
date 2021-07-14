@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-imám indra gávāśiraṃ  
-yávāśiraṃ ca naḥ piba  
-āgátyā vŕ̥ṣabhiḥ sutám  
+इम꣡म् इन्द्र ग꣡वाशिरं  
+य꣡वाशिरं च नः पिब  
+आग꣡त्या व्ŕ̥षभिः सुत꣡म्  

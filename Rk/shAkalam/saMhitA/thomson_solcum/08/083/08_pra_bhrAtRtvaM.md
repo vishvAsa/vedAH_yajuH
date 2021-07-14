@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-prá bhrātr̥tváṃ sudānavo  
-ádha dvitā́ samāniyā́  
-mātúr gárbhe bharāmahe  
+प्र꣡ भ्रातृत्वं꣡ सुदानवो  
+अ꣡ध द्विता꣡ समानिया꣡  
+मातु꣡र् ग꣡र्भे भरामहे  

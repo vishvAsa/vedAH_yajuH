@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yúyūṣataḥ sávayasā tád íd vápuḥ  
-samānám árthaṃ vitáritratā mitháḥ  
-ā́d īm bhágo ná háviyaḥ sám asmád ā́  
-vóḷhur ná raśmī́n sám ayaṃsta sā́rathiḥ  
+यु꣡यूषतः स꣡वयसा त꣡द् इ꣡द् व꣡पुः  
+समान꣡म् अ꣡र्थं वित꣡रित्रता मिथः꣡  
+आ꣡द् ईम् भ꣡गो न꣡ ह꣡वियः स꣡म् अस्म꣡द् आ꣡  
+वो꣡ऌहुर् न꣡ रश्मी꣡न् स꣡म् अयंस्त सा꣡रथिः  

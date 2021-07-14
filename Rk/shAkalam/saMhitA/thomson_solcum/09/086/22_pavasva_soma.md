@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-pávasva soma diviyéṣu dhā́masu  
-sr̥jāná indo kaláśe pavítra ā́  
-sī́dann índrasya jaṭháre kánikradan  
-nŕ̥bhir yatáḥ sū́ryam ā́rohayo diví  
+प꣡वस्व सोम दिविये꣡षु धा꣡मसु  
+सृजान꣡ इन्दो कल꣡शे पवि꣡त्र आ꣡  
+सी꣡दन्न् इ꣡न्द्रस्य जठ꣡रे क꣡निक्रदन्  
+न्ŕ̥भिर् यतः꣡ सू꣡र्यम् आ꣡रोहयो दिवि꣡  

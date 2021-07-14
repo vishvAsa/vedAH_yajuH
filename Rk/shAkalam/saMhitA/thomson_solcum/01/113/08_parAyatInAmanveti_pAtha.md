@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-parāyatīnā́m ánu eti pā́tha  
-āyatīnā́m prathamā́ śáśvatīnām  
-viuchántī jīvám udīráyanti  
-uṣā́ mr̥táṃ káṃ caná bodháyantī  
+परायतीना꣡म् अ꣡नु एति पा꣡थ  
+आयतीना꣡म् प्रथमा꣡ श꣡श्वतीनाम्  
+विउछ꣡न्ती जीव꣡म् उदीर꣡यन्ति  
+उषा꣡ मृतं꣡ कं꣡ चन꣡ बोध꣡यन्ती  

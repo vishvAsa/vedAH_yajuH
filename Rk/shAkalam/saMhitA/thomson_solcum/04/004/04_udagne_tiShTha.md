@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-úd agne tiṣṭha práti ā́ tanuṣva  
-ní amítrām̐ oṣatāt tigmahete  
-yó no árātiṃ samidhāna cakré  
-nīcā́ táṃ dhakṣi atasáṃ ná śúṣkam  
+उ꣡द् अग्ने तिष्ठ प्र꣡ति आ꣡ तनुष्व  
+नि꣡ अमि꣡त्राँ ओषतात् तिग्महेते  
+यो꣡ नो अ꣡रातिं समिधान चक्रे꣡  
+नीचा꣡ तं꣡ धक्षि अतसं꣡ न꣡ शु꣡ष्कम्  

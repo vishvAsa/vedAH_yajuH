@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-śr̥ṇvé vīrá ugrám-ugraṃ damāyánn  
-anyám-anyam atinenīyámānaḥ  
-edhamānadvíḷ ubháyasya rā́jā  
-coṣkūyáte víśa índro manuṣyā̀n  
+शृण्वे꣡ वीर꣡ उग्र꣡म्-उग्रं दमाय꣡न्न्  
+अन्य꣡म्-अन्यम् अतिनेनीय꣡मानः  
+एधमानद्वि꣡ऌ उभ꣡यस्य रा꣡जा  
+चोष्कूय꣡ते वि꣡श इ꣡न्द्रो मनुष्या᳡न्  

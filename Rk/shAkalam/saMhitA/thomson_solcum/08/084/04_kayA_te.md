@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-káyā te agne aṅgira  
-ū́rjo napād úpastutim  
-várāya deva manyáve  
+क꣡या ते अग्ने अङ्गिर  
+ऊ꣡र्जो नपाद् उ꣡पस्तुतिम्  
+व꣡राय देव मन्य꣡वे  

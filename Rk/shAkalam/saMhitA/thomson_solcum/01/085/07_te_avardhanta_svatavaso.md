@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-té 'vardhanta svátavaso mahitvanā́  
-ā́ nā́kaṃ tasthúr urú cakrire sádaḥ  
-víṣṇur yád dhā́vad vŕ̥ṣaṇam madacyútaṃ  
-váyo ná sīdann ádhi barhíṣi priyé  
+ते꣡ ऽवर्धन्त स्व꣡तवसो महित्वना꣡  
+आ꣡ ना꣡कं तस्थु꣡र् उरु꣡ चक्रिरे स꣡दः  
+वि꣡ष्णुर् य꣡द् धा꣡वद् व्ŕ̥षणम् मदच्यु꣡तं  
+व꣡यो न꣡ सीदन्न् अ꣡धि बर्हि꣡षि प्रिये꣡  

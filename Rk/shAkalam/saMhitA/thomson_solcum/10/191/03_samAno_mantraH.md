@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-samānó mántraḥ sámitiḥ samānī́  
-samānám mánaḥ sahá cittám eṣām  
-samānám mántram abhí mantraye vaḥ  
-samānéna vo havíṣā juhomi  
+समानो꣡ म꣡न्त्रः स꣡मितिः समानी꣡  
+समान꣡म् म꣡नः सह꣡ चित्त꣡म् एषाम्  
+समान꣡म् म꣡न्त्रम् अभि꣡ मन्त्रये वः  
+समाने꣡न वो हवि꣡षा जुहोमि  

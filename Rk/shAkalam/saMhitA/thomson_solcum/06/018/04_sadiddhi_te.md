@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sád íd dhí te tuvijātásya mánye  
-sáhaḥ sahiṣṭha turatás turásya  
-ugrám ugrásya tavásas távīyo  
-áradhrasya radhratúro babhūva  
+स꣡द् इ꣡द् धि꣡ ते तुविजात꣡स्य म꣡न्ये  
+स꣡हः सहिष्ठ तुरत꣡स् तुर꣡स्य  
+उग्र꣡म् उग्र꣡स्य तव꣡सस् त꣡वीयो  
+अ꣡रध्रस्य रध्रतु꣡रो बभूव  

@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-dáśa rā́trīr áśivenā náva dyū́n  
-ávanaddhaṃ śnathitám apsú antáḥ  
-víprutaṃ rebhám udáni právr̥ktam  
-ún ninyathuḥ sómam iva sruvéṇa  
+द꣡श रा꣡त्रीर् अ꣡शिवेना न꣡व द्यू꣡न्  
+अ꣡वनद्धं श्नथित꣡म् अप्सु꣡ अन्तः꣡  
+वि꣡प्रुतं रेभ꣡म् उद꣡नि प्र꣡वृक्तम्  
+उ꣡न् निन्यथुः सो꣡मम् इव स्रुवे꣡ण  

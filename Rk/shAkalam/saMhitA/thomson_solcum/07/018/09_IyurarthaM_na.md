@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-īyúr árthaṃ ná niarthám páruṣṇīm  
-āśúś canéd abhipitváṃ jagāma  
-sudā́sa índraḥ sutúkām̐ amítrān  
-árandhayan mā́nuṣe vádhrivācaḥ  
+ईयु꣡र् अ꣡र्थं न꣡ निअर्थ꣡म् प꣡रुष्णीम्  
+आशु꣡श् चने꣡द् अभिपित्वं꣡ जगाम  
+सुदा꣡स इ꣡न्द्रः सुतु꣡काँ अमि꣡त्रान्  
+अ꣡रन्धयन् मा꣡नुषे व꣡ध्रिवाचः  

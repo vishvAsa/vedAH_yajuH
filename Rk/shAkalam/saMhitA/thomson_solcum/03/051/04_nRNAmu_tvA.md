@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-nr̥̄ṇā́m+ u tvā nŕ̥tamaṃ gīrbhír ukthaír  
-abhí prá vīrám arcatā sabā́dhaḥ  
-sáṃ sáhase purumāyó jihīte  
-námo asya pradíva éka īśe  
+नॄणा꣡म्+ उ त्वा न्ŕ̥तमं गीर्भि꣡र् उक्थइ꣡र्  
+अभि꣡ प्र꣡ वीर꣡म् अर्चता सबा꣡धः  
+सं꣡ स꣡हसे पुरुमायो꣡ जिहीते  
+न꣡मो अस्य प्रदि꣡व ए꣡क ईशे  

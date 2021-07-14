@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-tuváṃ ha tyád vr̥ṣabha carṣaṇīnā́ṃ  
-ghanó vr̥trā́ṇāṃ taviṣó babhūtha  
-tuváṃ síndhūm̐r asr̥jas tastabhānā́n  
-tuvám apó ajayo dāsápatnīḥ  
+तुवं꣡ ह त्य꣡द् वृषभ चर्षणीनां꣡  
+घनो꣡ वृत्रा꣡णां तविषो꣡ बभूथ  
+तुवं꣡ सि꣡न्धूँर् असृजस् तस्तभाना꣡न्  
+तुव꣡म् अपो꣡ अजयो दास꣡पत्नीः  

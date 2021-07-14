@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-mahó mahā́ni panayanti asya  
-índrasya kárma súkr̥tā purū́ṇi  
-vr̥jánena vr̥jinā́n sám pipeṣa  
-māyā́bhir dásyūm̐r abhíbhūtiojāḥ  
+महो꣡ महा꣡नि पनयन्ति अस्य  
+इ꣡न्द्रस्य क꣡र्म सु꣡कृता पुरू꣡णि  
+वृज꣡नेन वृजिना꣡न् स꣡म् पिपेष  
+माया꣡भिर् द꣡स्यूँर् अभि꣡भूतिओजाः  

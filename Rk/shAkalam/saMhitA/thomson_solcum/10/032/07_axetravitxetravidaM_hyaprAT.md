@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ákṣetravit kṣetravídaṃ hí áprāṭ  
-sá prá eti kṣetravídā́nuśiṣṭaḥ  
-etád vaí bhadrám anuśā́sanasya  
-utá srutíṃ vindati añjasī́nām  
+अ꣡क्षेत्रवित् क्षेत्रवि꣡दं हि꣡ अ꣡प्राट्  
+स꣡ प्र꣡ एति क्षेत्रवि꣡दा꣡नुशिष्टः  
+एत꣡द् वइ꣡ भद्र꣡म् अनुशा꣡सनस्य  
+उत꣡ स्रुतिं꣡ विन्दति अञ्जसी꣡नाम्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-idám udakám pibatéty abravītana  
-idáṃ vā ghā pibatā muñjanéjanam  
-saúdhanvanā yádi tán néva háryatha  
-tr̥tī́ye ghā sávane mādayādhuvai  
+इद꣡म् उदक꣡म् पिबते꣡त्य् अब्रवीतन  
+इदं꣡ वा घा पिबता मुञ्जने꣡जनम्  
+सउ꣡धन्वना य꣡दि त꣡न् ने꣡व ह꣡र्यथ  
+तृती꣡ये घा स꣡वने मादयाधुवै  

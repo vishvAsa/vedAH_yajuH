@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-mádhumantaṃ tanūnapād  
-yajñáṃ devéṣu naḥ kave  
-adyā́ kr̥ṇuhi vītáye  
+म꣡धुमन्तं तनूनपाद्  
+यज्ञं꣡ देवे꣡षु नः कवे  
+अद्या꣡ कृणुहि वीत꣡ये  

@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-jánmañ-janman níhito jātávedā  
-viśvā́mitrebhir idhyate ájasraḥ  
-tásya vayáṃ sumataú yajñíyasya  
-ápi bhadré saumanasé siyāma  
+ज꣡न्मञ्-जन्मन् नि꣡हितो जात꣡वेदा  
+विश्वा꣡मित्रेभिर् इध्यते अ꣡जस्रः  
+त꣡स्य वयं꣡ सुमतउ꣡ यज्ञि꣡यस्य  
+अ꣡पि भद्रे꣡ सौमनसे꣡ सियाम  

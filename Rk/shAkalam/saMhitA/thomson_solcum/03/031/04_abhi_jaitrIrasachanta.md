@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-abhí jaítrīr asacanta spr̥dhānám  
-máhi jyótis támaso nír ajānan  
-táṃ jānatī́ḥ práty úd āyann uṣā́saḥ  
-pátir gávām abhavad éka índraḥ  
+अभि꣡ जइ꣡त्रीर् असचन्त स्पृधान꣡म्  
+म꣡हि ज्यो꣡तिस् त꣡मसो नि꣡र् अजानन्  
+तं꣡ जानतीः꣡ प्र꣡त्य् उ꣡द् आयन्न् उषा꣡सः  
+प꣡तिर् ग꣡वाम् अभवद् ए꣡क इ꣡न्द्रः  

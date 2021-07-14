@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-mā́ na indra párā vr̥ṇag  
-bhávā naḥ sadhamā́diyaḥ  
-tuváṃ na ūtī́ tuvám ín na ā́piyam  
-mā́ na indra párā vr̥ṇak  
+मा꣡ न इन्द्र प꣡रा वृणग्  
+भ꣡वा नः सधमा꣡दियः  
+तुवं꣡ न ऊती꣡ तुव꣡म् इ꣡न् न आ꣡पियम्  
+मा꣡ न इन्द्र प꣡रा वृणक्  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-abhí tyám mádiyam mádam  
-índav índra íti kṣara  
-abhí vājíno árvataḥ  
+अभि꣡ त्य꣡म् म꣡दियम् म꣡दम्  
+इ꣡न्दव् इ꣡न्द्र इ꣡ति क्षर  
+अभि꣡ वाजि꣡नो अ꣡र्वतः  

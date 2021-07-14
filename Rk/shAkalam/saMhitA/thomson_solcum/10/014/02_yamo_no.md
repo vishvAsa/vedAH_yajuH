@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yamó no gātúm prathamó viveda  
-naíṣā́ gávyūtir ápabhartavā́ u  
-yátrā naḥ pū́rve pitáraḥ pareyúr  
-enā́ jajñānā́ḥ pathíyā ánu svā́ḥ  
+यमो꣡ नो गातु꣡म् प्रथमो꣡ विवेद  
+नइ꣡षा꣡ ग꣡व्यूतिर् अ꣡पभर्तवा꣡ उ  
+य꣡त्रा नः पू꣡र्वे पित꣡रः परेयु꣡र्  
+एना꣡ जज्ञानाः꣡ पथि꣡या अ꣡नु स्वाः꣡  

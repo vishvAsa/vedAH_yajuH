@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yáṃ sīm ákr̥ṇvan támase vipŕ̥ce  
-dhruvákṣemā ánavasyanto ártham  
-táṃ sū́riyaṃ harítaḥ saptá yahvī́  
-spáśaṃ víśvasya jágato vahanti  
+यं꣡ सीम् अ꣡कृण्वन् त꣡मसे विप्ŕ̥चे  
+ध्रुव꣡क्षेमा अ꣡नवस्यन्तो अ꣡र्थम्  
+तं꣡ सू꣡रियं हरि꣡तः सप्त꣡ यह्वी꣡  
+स्प꣡शं वि꣡श्वस्य ज꣡गतो वहन्ति  

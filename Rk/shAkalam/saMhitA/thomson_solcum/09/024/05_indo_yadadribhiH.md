@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-índo yád ádribhiḥ sutáḥ  
-pavítram paridhā́vasi  
-áram índrasya dhā́mane  
+इ꣡न्दो य꣡द् अ꣡द्रिभिः सुतः꣡  
+पवि꣡त्रम् परिधा꣡वसि  
+अ꣡रम् इ꣡न्द्रस्य धा꣡मने  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-etā́ni agne navatíṃ sahásrā  
-sám prá yacha vŕ̥ṣṇa índrāya bhāgám  
-vidvā́n pathá r̥tuśó devayā́nān  
-ápy aulānáṃ diví devéṣu dhehi  
+एता꣡नि अग्ने नवतिं꣡ सह꣡स्रा  
+स꣡म् प्र꣡ यछ व्ŕ̥ष्ण इ꣡न्द्राय भाग꣡म्  
+विद्वा꣡न् पथ꣡ ऋतुशो꣡ देवया꣡नान्  
+अ꣡प्य् औलानं꣡ दिवि꣡ देवे꣡षु धेहि  

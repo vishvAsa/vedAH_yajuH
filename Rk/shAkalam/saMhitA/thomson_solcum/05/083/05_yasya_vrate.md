@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yásya vraté pr̥thivī́ nánnamīti  
-yásya vraté śaphávaj járbhurīti  
-yásya vratá óṣadhīr viśvárūpāḥ  
-sá naḥ parjanya máhi śárma yacha  
+य꣡स्य व्रते꣡ पृथिवी꣡ न꣡न्नमीति  
+य꣡स्य व्रते꣡ शफ꣡वज् ज꣡र्भुरीति  
+य꣡स्य व्रत꣡ ओ꣡षधीर् विश्व꣡रूपाः  
+स꣡ नः पर्जन्य म꣡हि श꣡र्म यछ  

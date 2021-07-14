@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-púraṃdarā śíkṣataṃ vajrahastā  
-asmā́m̐ indrāgnī avatam bháreṣu  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+पु꣡रंदरा शि꣡क्षतं वज्रहस्ता  
+अस्माँ꣡ इन्द्राग्नी अवतम् भ꣡रेषु  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-alātr̥ṇó valá indra vrajó góḥ  
-purā́ hántor bháyamāno ví āra  
-sugā́n pathó akr̥ṇon niráje gā́ḥ  
-prā́van vā́ṇīḥ puruhūtáṃ dhámantīḥ  
+अलातृणो꣡ वल꣡ इन्द्र व्रजो꣡ गोः꣡  
+पुरा꣡ ह꣡न्तोर् भ꣡यमानो वि꣡ आर  
+सुगा꣡न् पथो꣡ अकृणोन् निर꣡जे गाः꣡  
+प्रा꣡वन् वा꣡णीः पुरुहूतं꣡ ध꣡मन्तीः  

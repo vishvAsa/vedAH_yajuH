@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-prá vo mahī́m arámatiṃ kr̥ṇudhvam  
-prá pūṣáṇaṃ vidathíyaṃ ná vīrám  
-bhágaṃ dhiyó avitā́raṃ no asyā́ḥ  
-sātaú vā́jaṃ rātiṣā́cam púraṃdhim  
+प्र꣡ वो मही꣡म् अर꣡मतिं कृणुध्वम्  
+प्र꣡ पूष꣡णं विदथि꣡यं न꣡ वीर꣡म्  
+भ꣡गं धियो꣡ अविता꣡रं नो अस्याः꣡  
+सातउ꣡ वा꣡जं रातिषा꣡चम् पु꣡रंधिम्  

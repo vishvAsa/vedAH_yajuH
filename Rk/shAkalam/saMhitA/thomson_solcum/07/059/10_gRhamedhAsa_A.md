@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-gŕ̥hamedhāsa ā́ gata  
-máruto mā́pa bhūtana  
-yuṣmā́kotī́ sudānavaḥ  
+ग्ŕ̥हमेधास आ꣡ गत  
+म꣡रुतो मा꣡प भूतन  
+युष्मा꣡कोती꣡ सुदानवः  

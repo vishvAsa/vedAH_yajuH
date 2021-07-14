@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-dhāráyanta ādityā́so jágat sthā́  
-devā́ víśvasya bhúvanasya gopā́ḥ  
-dīrghā́dhiyo rákṣamāṇā asuryàm  
-r̥tā́vānaś cáyamānā r̥ṇā́ni  
+धार꣡यन्त आदित्या꣡सो ज꣡गत् स्था꣡  
+देवा꣡ वि꣡श्वस्य भु꣡वनस्य गोपाः꣡  
+दीर्घा꣡धियो र꣡क्षमाणा असुर्य᳡म्  
+ऋता꣡वानश् च꣡यमाना ऋणा꣡नि  

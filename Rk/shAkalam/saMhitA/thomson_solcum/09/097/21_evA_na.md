@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-evā́ na indo abhí devávītim  
-pári srava nábho árṇaś camū́ṣu  
-sómo asmábhyaṃ kā́miyam br̥hántaṃ  
-rayíṃ dadātu vīrávantam ugrám  
+एवा꣡ न इन्दो अभि꣡ देव꣡वीतिम्  
+प꣡रि स्रव न꣡भो अ꣡र्णश् चमू꣡षु  
+सो꣡मो अस्म꣡भ्यं का꣡मियम् बृह꣡न्तं  
+रयिं꣡ ददातु वीर꣡वन्तम् उग्र꣡म्  

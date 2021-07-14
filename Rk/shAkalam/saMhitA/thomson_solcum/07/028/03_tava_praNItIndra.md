@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-táva práṇītī indra jóhuvānān  
-sáṃ yán nr̥̃́n ná ródasī ninétha  
-mahé kṣatrā́ya śávase hí jajñe  
-átūtujiṃ cit tū́tujir aśiśnat  
+त꣡व प्र꣡णीती इन्द्र जो꣡हुवानान्  
+सं꣡ य꣡न् न्र्̥̃꣡न् न꣡ रो꣡दसी निने꣡थ  
+महे꣡ क्षत्रा꣡य श꣡वसे हि꣡ जज्ञे  
+अ꣡तूतुजिं चित् तू꣡तुजिर् अशिश्नत्  

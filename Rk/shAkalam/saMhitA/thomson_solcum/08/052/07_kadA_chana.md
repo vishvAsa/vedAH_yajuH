@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-kadā́ caná prá yuchasi  
-ubhé ní pāsi jánmanī  
-túrīyāditya hávanaṃ ta indriyám  
-ā́ tasthāv amŕ̥taṃ diví  
+कदा꣡ चन꣡ प्र꣡ युछसि  
+उभे꣡ नि꣡ पासि ज꣡न्मनी  
+तु꣡रीयादित्य ह꣡वनं त इन्द्रिय꣡म्  
+आ꣡ तस्थाव् अम्ŕ̥तं दिवि꣡  

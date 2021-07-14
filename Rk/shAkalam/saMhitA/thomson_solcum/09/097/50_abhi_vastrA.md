@@ -2,7 +2,7 @@
 title = "050"
 
 +++
-abhí vástrā suvasanā́ni arṣa  
-abhí dhenū́ḥ sudúghāḥ pūyámānaḥ  
-abhí candrā́ bhártave no híraṇyā  
-abhí áśvān rathíno deva soma  
+अभि꣡ व꣡स्त्रा सुवसना꣡नि अर्ष  
+अभि꣡ धेनूः꣡ सुदु꣡घाः पूय꣡मानः  
+अभि꣡ चन्द्रा꣡ भ꣡र्तवे नो हि꣡रण्या  
+अभि꣡ अ꣡श्वान् रथि꣡नो देव सोम  

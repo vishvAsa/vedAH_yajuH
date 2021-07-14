@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-stuhí śrutáṃ gartasádaṃ yúvānam  
-mr̥gáṃ ná bhīmám upahatnúm ugrám  
-mr̥̄ḷā́+ jaritré rudara+ stávāno  
-anyáṃ te asmán ní vapantu sénāḥ  
+स्तुहि꣡ श्रुतं꣡ गर्तस꣡दं यु꣡वानम्  
+मृगं꣡ न꣡ भीम꣡म् उपहत्नु꣡म् उग्र꣡म्  
+मॄऌआ꣡+ जरित्रे꣡ रुदर+ स्त꣡वानो  
+अन्यं꣡ ते अस्म꣡न् नि꣡ वपन्तु से꣡नाः  

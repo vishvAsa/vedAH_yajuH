@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-rátho ná yātáḥ śíkvabhiḥ kr̥tó  
-diyā́m áṅgebhir aruṣébhir īyate  
-ā́d asya té kr̥ṣṇā́so dakṣi sūráyaḥ  
-śū́rasyeva tveṣáthād īṣate váyaḥ  
+र꣡थो न꣡ यातः꣡ शि꣡क्वभिः कृतो꣡  
+दिया꣡म् अ꣡ङ्गेभिर् अरुषे꣡भिर् ईयते  
+आ꣡द् अस्य ते꣡ कृष्णा꣡सो दक्षि सूर꣡यः  
+शू꣡रस्येव त्वेष꣡थाद् ईषते व꣡यः  

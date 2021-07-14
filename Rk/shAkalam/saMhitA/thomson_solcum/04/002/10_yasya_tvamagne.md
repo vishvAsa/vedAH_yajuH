@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yásya tvám agne adhvaráṃ jújoṣo  
-devó mártasya súdhitaṃ rárāṇaḥ  
-prītéd asad dhótarā sā́ yaviṣṭha  
-ásāma yásya vidható vr̥dhā́saḥ  
+य꣡स्य त्व꣡म् अग्ने अध्वरं꣡ जु꣡जोषो  
+देवो꣡ म꣡र्तस्य सु꣡धितं र꣡राणः  
+प्रीते꣡द् असद् धो꣡तरा सा꣡ यविष्ठ  
+अ꣡साम य꣡स्य विधतो꣡ वृधा꣡सः  

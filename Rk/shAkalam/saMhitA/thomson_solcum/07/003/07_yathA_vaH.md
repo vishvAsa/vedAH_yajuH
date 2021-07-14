@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yáthā vaḥ svā́hā agnáye dā́śema  
-párī́ḷābhir ghr̥távadbhiś ca havyaíḥ  
-tébhir no agne ámitair máhobhiḥ  
-śatám pūrbhír ā́yasībhir ní pāhi  
+य꣡था वः स्वा꣡हा अग्न꣡ये दा꣡शेम  
+प꣡री꣡ऌआभिर् घृत꣡वद्भिश् च हव्यइः꣡  
+ते꣡भिर् नो अग्ने अ꣡मितैर् म꣡होभिः  
+शत꣡म् पूर्भि꣡र् आ꣡यसीभिर् नि꣡ पाहि  

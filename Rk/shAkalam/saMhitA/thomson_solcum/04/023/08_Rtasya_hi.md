@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-r̥tásya hí śurúdhaḥ sánti pūrvī́r  
-r̥tásya dhītír vr̥jinā́ni hanti  
-r̥tásya ślóko badhirā́ tatarda  
-kárṇā budhānáḥ śucámāna āyóḥ  
+ऋत꣡स्य हि꣡ शुरु꣡धः स꣡न्ति पूर्वी꣡र्  
+ऋत꣡स्य धीति꣡र् वृजिना꣡नि हन्ति  
+ऋत꣡स्य श्लो꣡को बधिरा꣡ ततर्द  
+क꣡र्णा बुधानः꣡ शुच꣡मान आयोः꣡  

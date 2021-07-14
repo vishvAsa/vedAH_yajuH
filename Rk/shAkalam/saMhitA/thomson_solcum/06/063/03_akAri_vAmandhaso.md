@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ákāri vām · ándhaso várīmann  
-ástāri barhíḥ suprāyaṇátamam  
-uttānáhasto yuvayúr vavanda  
-ā́ vāṃ nákṣanto ádraya ãñjan  
+अ꣡कारि वाम् · अ꣡न्धसो व꣡रीमन्न्  
+अ꣡स्तारि बर्हिः꣡ सुप्रायण꣡तमम्  
+उत्तान꣡हस्तो युवयु꣡र् ववन्द  
+आ꣡ वां न꣡क्षन्तो अ꣡द्रय ãञ्जन्  

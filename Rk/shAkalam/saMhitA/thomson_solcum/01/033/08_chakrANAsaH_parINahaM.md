@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-cakrāṇā́saḥ parīṇáham pr̥thivyā́  
-híraṇyena maṇínā śúmbhamānāḥ  
-ná hinvānā́sas titirus tá índram  
-pári spáśo adadhāt sū́riyeṇa  
+चक्राणा꣡सः परीण꣡हम् पृथिव्या꣡  
+हि꣡रण्येन मणि꣡ना शु꣡म्भमानाः  
+न꣡ हिन्वाना꣡सस् तितिरुस् त꣡ इ꣡न्द्रम्  
+प꣡रि स्प꣡शो अदधात् सू꣡रियेण  

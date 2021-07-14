@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-bhúvo jánasya diviyásya rā́jā  
-pā́rthivasya jágatas tveṣasaṃdr̥k  
-dhiṣvá vájraṃ dákṣiṇa indra háste  
-víśvā ajurya dayase ví māyā́ḥ  
+भु꣡वो ज꣡नस्य दिविय꣡स्य रा꣡जा  
+पा꣡र्थिवस्य ज꣡गतस् त्वेषसंदृक्  
+धिष्व꣡ व꣡ज्रं द꣡क्षिण इन्द्र ह꣡स्ते  
+वि꣡श्वा अजुर्य दयसे वि꣡ मायाः꣡  

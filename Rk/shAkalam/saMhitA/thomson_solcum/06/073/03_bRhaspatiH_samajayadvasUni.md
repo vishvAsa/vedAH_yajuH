@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-bŕ̥haspátiḥ sám ajayad vásūni  
-mahó vrajā́n gómato devá eṣáḥ  
-apáḥ síṣāsan súvar ápratīto  
-bŕ̥haspátir hánti amítram arkaíḥ  
+ब्ŕ̥हस्प꣡तिः स꣡म् अजयद् व꣡सूनि  
+महो꣡ व्रजा꣡न् गो꣡मतो देव꣡ एषः꣡  
+अपः꣡ सि꣡षासन् सु꣡वर् अ꣡प्रतीतो  
+ब्ŕ̥हस्प꣡तिर् ह꣡न्ति अमि꣡त्रम् अर्कइः꣡  

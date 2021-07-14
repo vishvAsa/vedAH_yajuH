@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-súvar yád védi sudŕ̥śīkam arkaír  
-máhi jyótī rurucur yád dha vástoḥ  
-andhā́ támāṃsi dúdhitā vicákṣe  
-nŕ̥bhyaś cakāra nŕ̥tamo abhíṣṭau  
+सु꣡वर् य꣡द् वे꣡दि सुद्ŕ̥शीकम् अर्कइ꣡र्  
+म꣡हि ज्यो꣡ती रुरुचुर् य꣡द् ध व꣡स्तोः  
+अन्धा꣡ त꣡मांसि दु꣡धिता विच꣡क्षे  
+न्ŕ̥भ्यश् चकार न्ŕ̥तमो अभि꣡ष्टौ  

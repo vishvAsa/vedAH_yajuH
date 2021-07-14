@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yát te márīcīḥ praváto  
-máno jagā́ma dūrakám  
-tát ta ā́ vartayāmasi  
-ihá kṣáyāya jīváse  
+य꣡त् ते म꣡रीचीः प्रव꣡तो  
+म꣡नो जगा꣡म दूरक꣡म्  
+त꣡त् त आ꣡ वर्तयामसि  
+इह꣡ क्ष꣡याय जीव꣡से  

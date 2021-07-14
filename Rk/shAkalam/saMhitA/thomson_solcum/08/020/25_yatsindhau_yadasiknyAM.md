@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-yát síndhau yád ásikniyāṃ  
-yát samudréṣu marutaḥ subarhiṣaḥ  
-yát párvateṣu bheṣajám  
+य꣡त् सि꣡न्धौ य꣡द् अ꣡सिक्नियां  
+य꣡त् समुद्रे꣡षु मरुतः सुबर्हिषः  
+य꣡त् प꣡र्वतेषु भेषज꣡म्  

@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-yā́ te dhā́māni havíṣā yájanti  
-tā́ te víśvā paribhū́r astu yajñám  
-gayasphā́naḥ pratáraṇaḥ suvī́ro  
-ávīrahā prá carā soma dúryān  
+या꣡ ते धा꣡मानि हवि꣡षा य꣡जन्ति  
+ता꣡ ते वि꣡श्वा परिभू꣡र् अस्तु यज्ञ꣡म्  
+गयस्फा꣡नः प्रत꣡रणः सुवी꣡रो  
+अ꣡वीरहा प्र꣡ चरा सोम दु꣡र्यान्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-bhávā várūthaṃ gr̥ṇaté vibhāvo  
-bhávā maghavan maghávadbhyaḥ śárma  
-uruṣyá agne áṃhaso gr̥ṇántam  
-prātár makṣū́ dhiyā́vasur jagamyāt  
+भ꣡वा व꣡रूथं गृणते꣡ विभावो  
+भ꣡वा मघवन् मघ꣡वद्भ्यः श꣡र्म  
+उरुष्य꣡ अग्ने अं꣡हसो गृण꣡न्तम्  
+प्रात꣡र् मक्षू꣡ धिया꣡वसुर् जगम्यात्  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-juṣéthāṃ yajñám bódhataṃ hávasya me  
-sattó hótā nivídaḥ pūrviyā́ ánu  
-áchā rā́jānā náma eti āvŕ̥tam  
-praśāstrā́d ā́ pibataṃ somiyám mádhu  
+जुषे꣡थां यज्ञ꣡म् बो꣡धतं ह꣡वस्य मे  
+सत्तो꣡ हो꣡ता निवि꣡दः पूर्विया꣡ अ꣡नु  
+अ꣡छा रा꣡जाना न꣡म एति आव्ŕ̥तम्  
+प्रशास्त्रा꣡द् आ꣡ पिबतं सोमिय꣡म् म꣡धु  

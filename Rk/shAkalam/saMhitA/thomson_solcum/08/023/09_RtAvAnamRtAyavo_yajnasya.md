@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-r̥tā́vānam r̥tāyavo  
-yajñásya sā́dhanaṃ girā́  
-úpo enaṃ jujuṣur námasas padé  
+ऋता꣡वानम् ऋतायवो  
+यज्ञ꣡स्य सा꣡धनं गिरा꣡  
+उ꣡पो एनं जुजुषुर् न꣡मसस् पदे꣡  

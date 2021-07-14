@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yáṃ krándasī ávasā tastabhāné  
-abhy aíkṣetām mánasā réjamāne  
-yátrā́dhi sū́ra údito vibhā́ti  
-kásmai devā́ya havíṣā vidhema  
+यं꣡ क्र꣡न्दसी अ꣡वसा तस्तभाने꣡  
+अभ्य् अइ꣡क्षेताम् म꣡नसा रे꣡जमाने  
+य꣡त्रा꣡धि सू꣡र उ꣡दितो विभा꣡ति  
+क꣡स्मै देवा꣡य हवि꣡षा विधेम  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-agníṃ dūtám práti yád ábravītana  
-áśvaḥ kártvo rátha utéhá kártuvaḥ  
-dhenúḥ kártvā yuvaśā́ kártuvā duvā́  
-tā́ni bhrātar ánu vaḥ kr̥tvī́ émasi  
+अग्निं꣡ दूत꣡म् प्र꣡ति य꣡द् अ꣡ब्रवीतन  
+अ꣡श्वः क꣡र्त्वो र꣡थ उते꣡ह꣡ क꣡र्तुवः  
+धेनुः꣡ क꣡र्त्वा युवशा꣡ क꣡र्तुवा दुवा꣡  
+ता꣡नि भ्रातर् अ꣡नु वः कृत्वी꣡ ए꣡मसि  

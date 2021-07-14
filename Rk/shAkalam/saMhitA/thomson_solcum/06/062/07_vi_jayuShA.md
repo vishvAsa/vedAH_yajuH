@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ví jayúṣā rathiyā yātam ádriṃ  
-śrutáṃ hávaṃ vr̥ṣaṇā vadhrimatyā́ḥ  
-daśasyántā śayáve pipyathur gā́m  
-íti cyavānā sumatím bhuraṇyū  
+वि꣡ जयु꣡षा रथिया यातम् अ꣡द्रिं  
+श्रुतं꣡ ह꣡वं वृषणा वध्रिमत्याः꣡  
+दशस्य꣡न्ता शय꣡वे पिप्यथुर् गा꣡म्  
+इ꣡ति च्यवाना सुमति꣡म् भुरण्यू  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yé ca pū́rva ŕ̥ṣayo yé ca nū́tnā  
-índra bráhmāṇi janáyanta víprāḥ  
-asmé te santu sakhiyā́ śivā́ni  
-yūyám pāta suastíbhiḥ sádā naḥ  
+ये꣡ च पू꣡र्व ŕ̥षयो ये꣡ च नू꣡त्ना  
+इ꣡न्द्र ब्र꣡ह्माणि जन꣡यन्त वि꣡प्राः  
+अस्मे꣡ ते सन्तु सखिया꣡ शिवा꣡नि  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

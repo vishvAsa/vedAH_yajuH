@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-draviṇodā́ dráviṇaso  
-grā́vahastāso adhvaré  
-yajñéṣu devám īḷate  
+द्रविणोदा꣡ द्र꣡विणसो  
+ग्रा꣡वहस्तासो अध्वरे꣡  
+यज्ञे꣡षु देव꣡म् ईऌअते  

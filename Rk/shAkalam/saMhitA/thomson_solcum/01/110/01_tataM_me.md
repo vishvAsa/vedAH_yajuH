@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tatám me ápas tád u tāyate púnaḥ  
-svā́diṣṭhā dhītír ucáthāya śasyate  
-ayáṃ samudrá ihá viśvádeviyaḥ  
-svā́hākr̥tasya sám u tr̥pṇuta rbhavaḥ  
+तत꣡म् मे अ꣡पस् त꣡द् उ तायते पु꣡नः  
+स्वा꣡दिष्ठा धीति꣡र् उच꣡थाय शस्यते  
+अयं꣡ समुद्र꣡ इह꣡ विश्व꣡देवियः  
+स्वा꣡हाकृतस्य स꣡म् उ तृप्णुत र्भवः  

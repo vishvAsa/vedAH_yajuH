@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prá sú ṣá víbhyo maruto vír astu  
-prá śyenáḥ śyenébhiya āśupátvā  
-acakráyā yát svadháyā suparṇó  
-havyám bháran mánave devájuṣṭam  
+प्र꣡ सु꣡ ष꣡ वि꣡भ्यो मरुतो वि꣡र् अस्तु  
+प्र꣡ श्येनः꣡ श्येने꣡भिय आशुप꣡त्वा  
+अचक्र꣡या य꣡त् स्वध꣡या सुपर्णो꣡  
+हव्य꣡म् भ꣡रन् म꣡नवे देव꣡जुष्टम्  

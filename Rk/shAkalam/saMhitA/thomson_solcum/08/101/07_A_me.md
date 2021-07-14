@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́ me vácāṃsi údyatā  
-dyumáttamāni kártuvā  
-ubhā́ yātaṃ nāsatiyā sajóṣasā  
-práti havyā́ni vītáye  
+आ꣡ मे व꣡चांसि उ꣡द्यता  
+द्युम꣡त्तमानि क꣡र्तुवा  
+उभा꣡ यातं नासतिया सजो꣡षसा  
+प्र꣡ति हव्या꣡नि वीत꣡ये  

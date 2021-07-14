@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tā́ vām adyá tā́v aparáṃ huvema  
-uchántiyām uṣási váhnir ukthaíḥ  
-nā́satiyā kúha cit sántāv aryó  
-divó nápātā sudã́starāya  
+ता꣡ वाम् अद्य꣡ ता꣡व् अपरं꣡ हुवेम  
+उछ꣡न्तियाम् उष꣡सि व꣡ह्निर् उक्थइः꣡  
+ना꣡सतिया कु꣡ह चित् स꣡न्ताव् अर्यो꣡  
+दिवो꣡ न꣡पाता सुद्ã꣡स्तराय  

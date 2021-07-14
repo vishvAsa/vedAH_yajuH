@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-arvā́g ráthaṃ viśvávāraṃ ta ugra  
-índra yuktā́so hárayo vahantu  
-kīríś cid dhí tvā hávate súvarvān  
-r̥dhīmáhi sadhamā́das te adyá  
+अर्वा꣡ग् र꣡थं विश्व꣡वारं त उग्र  
+इ꣡न्द्र युक्ता꣡सो ह꣡रयो वहन्तु  
+कीरि꣡श् चिद् धि꣡ त्वा ह꣡वते सु꣡वर्वान्  
+ऋधीम꣡हि सधमा꣡दस् ते अद्य꣡  

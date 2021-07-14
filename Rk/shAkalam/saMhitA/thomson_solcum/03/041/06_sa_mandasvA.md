@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-sá mandasvā hí ándhaso  
-rā́dhase tanúvā mahé  
-ná stotā́raṃ nidé karaḥ  
+स꣡ मन्दस्वा हि꣡ अ꣡न्धसो  
+रा꣡धसे तनु꣡वा महे꣡  
+न꣡ स्तोता꣡रं निदे꣡ करः  

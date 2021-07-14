@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-devébhir nú iṣitó yajñíyebhir  
-agníṃ stoṣāṇi ajáram br̥hántam  
-yó bhānúnā pr̥thivī́ṃ dyā́m utémā́m  
-ātatā́na ródasī antárikṣam  
+देवे꣡भिर् नु꣡ इषितो꣡ यज्ञि꣡येभिर्  
+अग्निं꣡ स्तोषाणि अज꣡रम् बृह꣡न्तम्  
+यो꣡ भानु꣡ना पृथिवीं꣡ द्या꣡म् उते꣡मा꣡म्  
+आतता꣡न रो꣡दसी अन्त꣡रिक्षम्  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá hí krátuṃ vr̥hátho yáṃ vanuthó  
-radhrásya stho yájamānasya codaú  
-índrāsomā yuvám asmā́m̐ aviṣṭam  
-asmín bhayásthe kr̥ṇutam ulokám†  
+प्र꣡ हि꣡ क्र꣡तुं वृह꣡थो यं꣡ वनुथो꣡  
+रध्र꣡स्य स्थो य꣡जमानस्य चोदउ꣡  
+इ꣡न्द्रासोमा युव꣡म् अस्माँ꣡ अविष्टम्  
+अस्मि꣡न् भय꣡स्थे कृणुतम् उलोक꣡म्†  

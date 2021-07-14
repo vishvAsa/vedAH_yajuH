@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tuváṃ tád ukthám indra barháṇā kaḥ  
-prá yác chatā́ sahásrā śūra dárṣi  
-áva girér dã́saṃ śámbaraṃ han  
-prā́vo dívodāsaṃ citrā́bhir ūtī́  
+तुवं꣡ त꣡द् उक्थ꣡म् इन्द्र बर्ह꣡णा कः  
+प्र꣡ य꣡च् छता꣡ सह꣡स्रा शूर द꣡र्षि  
+अ꣡व गिरे꣡र् द्ã꣡सं श꣡म्बरं हन्  
+प्रा꣡वो दि꣡वोदासं चित्रा꣡भिर् ऊती꣡  

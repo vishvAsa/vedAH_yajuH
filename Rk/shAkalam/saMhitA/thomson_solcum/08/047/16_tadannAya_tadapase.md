@@ -2,9 +2,9 @@
 title = "016"
 
 +++
-tádannāya tádapase  
-tám bhāgám upasedúṣe  
-tritā́ya ca dvitā́ya ca  
-úṣo duṣvápniyaṃ vaha  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+त꣡दन्नाय त꣡दपसे  
+त꣡म् भाग꣡म् उपसेदु꣡षे  
+त्रिता꣡य च द्विता꣡य च  
+उ꣡षो दुष्व꣡प्नियं वह  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

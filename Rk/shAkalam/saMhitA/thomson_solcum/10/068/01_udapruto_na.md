@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-udaprúto ná váyo rákṣamāṇā  
-vā́vadato abhríyasyeva ghóṣāḥ  
-giribhrájo ná ūrmáyo mádanto  
-bŕ̥haspátim abhí arkā́ anāvan  
+उदप्रु꣡तो न꣡ व꣡यो र꣡क्षमाणा  
+वा꣡वदतो अभ्रि꣡यस्येव घो꣡षाः  
+गिरिभ्र꣡जो न꣡ ऊर्म꣡यो म꣡दन्तो  
+ब्ŕ̥हस्प꣡तिम् अभि꣡ अर्का꣡ अनावन्  

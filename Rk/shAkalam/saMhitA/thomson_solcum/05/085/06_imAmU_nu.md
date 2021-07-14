@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-imā́m ū nú kavítamasya māyā́m  
-mahī́ṃ devásya nákir ā́ dadharṣa  
-ékaṃ yád udnā́ ná pr̥ṇánti énīr  
-āsiñcántīr avánayaḥ samudrám  
+इमा꣡म् ऊ नु꣡ कवि꣡तमस्य माया꣡म्  
+महीं꣡ देव꣡स्य न꣡किर् आ꣡ दधर्ष  
+ए꣡कं य꣡द् उद्ना꣡ न꣡ पृण꣡न्ति ए꣡नीर्  
+आसिञ्च꣡न्तीर् अव꣡नयः समुद्र꣡म्  

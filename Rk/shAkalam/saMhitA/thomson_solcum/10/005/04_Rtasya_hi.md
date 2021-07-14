@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-r̥tásya hí vartanáyaḥ sújātam  
-íṣo vā́jāya pradívaḥ sácante  
-adhīvāsáṃ ródasī vāvasāné  
-ghr̥taír ánnair vāvr̥dhāte mádhūnām  
+ऋत꣡स्य हि꣡ वर्तन꣡यः सु꣡जातम्  
+इ꣡षो वा꣡जाय प्रदि꣡वः स꣡चन्ते  
+अधीवासं꣡ रो꣡दसी वावसाने꣡  
+घृतइ꣡र् अ꣡न्नैर् वावृधाते म꣡धूनाम्  

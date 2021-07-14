@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá sūriya práti puró na úd gā  
-ebhí stómebhir etaśébhir évaiḥ  
-prá no mitrā́ya váruṇāya voco  
-ánāgaso aryamṇé agnáye ca  
+स꣡ सूरिय प्र꣡ति पुरो꣡ न उ꣡द् गा  
+एभि꣡ स्तो꣡मेभिर् एतशे꣡भिर् ए꣡वैः  
+प्र꣡ नो मित्रा꣡य व꣡रुणाय वोचो  
+अ꣡नागसो अर्यम्णे꣡ अग्न꣡ये च  

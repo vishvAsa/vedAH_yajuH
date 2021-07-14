@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ārokā́ iva ghéd áha  
-tigmā́ agne táva tvíṣaḥ  
-dadbhír vánāni bapsati  
+आरोका꣡ इव घे꣡द् अ꣡ह  
+तिग्मा꣡ अग्ने त꣡व त्वि꣡षः  
+दद्भि꣡र् व꣡नानि बप्सति  

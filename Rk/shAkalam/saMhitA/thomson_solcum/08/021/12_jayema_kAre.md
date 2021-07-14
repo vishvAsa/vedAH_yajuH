@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-jáyema kāré puruhūta kāríṇo  
-abhí tiṣṭhema dūḍhíyaḥ  
-nŕ̥bhir vr̥tráṃ hanyā́ma śūśuyā́ma ca  
-áver indra prá ṇo dhíyaḥ  
+ज꣡येम कारे꣡ पुरुहूत कारि꣡णो  
+अभि꣡ तिष्ठेम दूढि꣡यः  
+न्ŕ̥भिर् वृत्रं꣡ हन्या꣡म शूशुया꣡म च  
+अ꣡वेर् इन्द्र प्र꣡ णो धि꣡यः  

@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-ádhā te ápratiṣkutaṃ  
-devī́ śúṣmaṃ saparyataḥ  
-ubhé suśipra ródasī  
+अ꣡धा ते अ꣡प्रतिष्कुतं  
+देवी꣡ शु꣡ष्मं सपर्यतः  
+उभे꣡ सुशिप्र रो꣡दसी  

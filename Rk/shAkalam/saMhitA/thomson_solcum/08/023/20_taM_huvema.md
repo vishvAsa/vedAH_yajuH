@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-táṃ huvema yatásrucaḥ  
-subhā́saṃ śukráśociṣam  
-viśā́m agním ajáram pratnám ī́ḍiyam  
+तं꣡ हुवेम यत꣡स्रुचः  
+सुभा꣡सं शुक्र꣡शोचिषम्  
+विशा꣡म् अग्नि꣡म् अज꣡रम् प्रत्न꣡म् ई꣡डियम्  

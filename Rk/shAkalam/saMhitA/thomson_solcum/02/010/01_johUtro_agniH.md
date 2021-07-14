@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-johū́tro agníḥ prathamáḥ pitéva  
-iḷás padé mánuṣā yát sámiddhaḥ  
-śríyaṃ vásāno amŕ̥to vícetā  
-marmr̥jényaḥ śravasíyaḥ sá vājī́  
+जोहू꣡त्रो अग्निः꣡ प्रथमः꣡ पिते꣡व  
+इऌअ꣡स् पदे꣡ म꣡नुषा य꣡त् स꣡मिद्धः  
+श्रि꣡यं व꣡सानो अम्ŕ̥तो वि꣡चेता  
+मर्मृजे꣡न्यः श्रवसि꣡यः स꣡ वाजी꣡  

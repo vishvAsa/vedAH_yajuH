@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-síndhur ná kṣódaḥ śímīvām̐ r̥ghāyató  
-vŕ̥ṣeva vádhrīm̐r abhí vaṣṭi ójasā  
-agnér iva prásitir nā́ha vártave  
-yáṃ-yaṃ yújaṃ kr̥ṇuté bráhmaṇas pátiḥ  
+सि꣡न्धुर् न꣡ क्षो꣡दः शि꣡मीवाँ ऋघायतो꣡  
+व्ŕ̥षेव व꣡ध्रीँर् अभि꣡ वष्टि ओ꣡जसा  
+अग्ने꣡र् इव प्र꣡सितिर् ना꣡ह व꣡र्तवे  
+यं꣡-यं यु꣡जं कृणुते꣡ ब्र꣡ह्मणस् प꣡तिः  

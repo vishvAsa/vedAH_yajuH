@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-stómāsas tvā vicāriṇi  
-práti ṣṭobhanti aktúbhiḥ  
-prá yā́ vā́jaṃ ná héṣantam  
-perúm ásyasi arjuni  
+स्तो꣡मासस् त्वा विचारिणि  
+प्र꣡ति ष्टोभन्ति अक्तु꣡भिः  
+प्र꣡ या꣡ वा꣡जं न꣡ हे꣡षन्तम्  
+पेरु꣡म् अ꣡स्यसि अर्जुनि  

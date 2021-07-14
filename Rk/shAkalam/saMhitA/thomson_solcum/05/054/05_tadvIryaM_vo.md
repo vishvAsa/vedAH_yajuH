@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tád vīríyaṃ vo maruto mahitvanáṃ  
-dīrgháṃ tatāna sū́riyo ná yójanam  
-étā ná yā́me ágr̥bhītaśociṣo  
-ánaśvadāṃ yán ní áyātanā girím  
+त꣡द् वीरि꣡यं वो मरुतो महित्वनं꣡  
+दीर्घं꣡ ततान सू꣡रियो न꣡ यो꣡जनम्  
+ए꣡ता न꣡ या꣡मे अ꣡गृभीतशोचिषो  
+अ꣡नश्वदां य꣡न् नि꣡ अ꣡यातना गिरि꣡म्  

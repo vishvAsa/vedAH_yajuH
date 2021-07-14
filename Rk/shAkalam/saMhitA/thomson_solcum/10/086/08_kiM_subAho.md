@@ -2,8 +2,8 @@
 title = "008"
 
 +++
-kíṃ subāho suaṅgure  
-pŕ̥thuṣṭo pŕ̥thujāghane  
-kíṃ śūrapatni nas tuvám  
-abhy àmīṣi vr̥ṣā́kapiṃ  
-víśvasmād índra úttaraḥ  
+किं꣡ सुबाहो सुअङ्गुरे  
+प्ŕ̥थुष्टो प्ŕ̥थुजाघने  
+किं꣡ शूरपत्नि नस् तुव꣡म्  
+अभ्य् अ᳡मीषि वृषा꣡कपिं  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

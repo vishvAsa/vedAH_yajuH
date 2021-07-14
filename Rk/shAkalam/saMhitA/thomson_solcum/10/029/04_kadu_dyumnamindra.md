@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kád u dyumnám indra tuvā́vato nr̥̄́n  
-káyā dhiyā́ karase kán na ā́gan  
-mitró ná satyá urugāya bhr̥tyā́  
-ánne samasya yád ásan manīṣā́ḥ  
+क꣡द् उ द्युम्न꣡म् इन्द्र तुवा꣡वतो नॄ꣡न्  
+क꣡या धिया꣡ करसे क꣡न् न आ꣡गन्  
+मित्रो꣡ न꣡ सत्य꣡ उरुगाय भृत्या꣡  
+अ꣡न्ने समस्य य꣡द् अ꣡सन् मनीषाः꣡  

@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-bodhínmanasā rathíyā  
-iṣirā́ havanaśrútā  
-víbhiś cyávānam aśvinā  
-ní yātho ádvayāvinam  
-mā́dhvī máma śrutaṃ hávam  
+बोधि꣡न्मनसा रथि꣡या  
+इषिरा꣡ हवनश्रु꣡ता  
+वि꣡भिश् च्य꣡वानम् अश्विना  
+नि꣡ याथो अ꣡द्वयाविनम्  
+मा꣡ध्वी म꣡म श्रुतं ह꣡वम्  

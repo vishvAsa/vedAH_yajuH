@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ámandan mā maruta stómo átra  
-yán me naraḥ śrútiyam bráhma cakrá  
-índrāya vŕ̥ṣṇe súmakhāya máhyaṃ  
-sákhye sákhāyas tanúve tanū́bhiḥ  
+अ꣡मन्दन् मा मरुत स्तो꣡मो अ꣡त्र  
+य꣡न् मे नरः श्रु꣡तियम् ब्र꣡ह्म चक्र꣡  
+इ꣡न्द्राय व्ŕ̥ष्णे सु꣡मखाय म꣡ह्यं  
+स꣡ख्ये स꣡खायस् तनु꣡वे तनू꣡भिः  

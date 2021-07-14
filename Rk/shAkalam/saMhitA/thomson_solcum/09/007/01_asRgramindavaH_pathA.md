@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ásr̥gram índavaḥ pathā́  
-dhármann r̥tásya suśríyaḥ  
-vidānā́ asya yójanam  
+अ꣡सृग्रम् इ꣡न्दवः पथा꣡  
+ध꣡र्मन्न् ऋत꣡स्य सुश्रि꣡यः  
+विदाना꣡ अस्य यो꣡जनम्  

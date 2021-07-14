@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vayáṃ te agne samídhā vidhema  
-vayáṃ dāśema suṣṭutī́ yajatra  
-vayáṃ ghr̥téna adhvarasya hotar  
-vayáṃ deva havíṣā bhadraśoce  
+वयं꣡ ते अग्ने समि꣡धा विधेम  
+वयं꣡ दाशेम सुष्टुती꣡ यजत्र  
+वयं꣡ घृते꣡न अध्वरस्य होतर्  
+वयं꣡ देव हवि꣡षा भद्रशोचे  

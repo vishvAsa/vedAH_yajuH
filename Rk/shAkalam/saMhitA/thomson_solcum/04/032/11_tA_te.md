@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-tā́ te gr̥ṇanti vedháso  
-yā́ni cakártha paúṃsiyā  
-sutéṣu indra girvaṇaḥ  
+ता꣡ ते गृणन्ति वेध꣡सो  
+या꣡नि चक꣡र्थ पउं꣡सिया  
+सुते꣡षु इन्द्र गिर्वणः  

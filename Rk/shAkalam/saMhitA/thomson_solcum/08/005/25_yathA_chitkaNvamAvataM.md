@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-yáthā cit káṇvam ā́vatam  
-priyámedham upastutám  
-átriṃ śiñjā́ram aśvinā  
+य꣡था चित् क꣡ण्वम् आ꣡वतम्  
+प्रिय꣡मेधम् उपस्तुत꣡म्  
+अ꣡त्रिं शिञ्जा꣡रम् अश्विना  

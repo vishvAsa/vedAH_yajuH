@@ -2,7 +2,7 @@
 title = "046"
 
 +++
-eṣá syá te pavata indra sómaś  
-camū́ṣu dhī́ra uśaté távasvān  
-súvarcakṣā rathiráḥ satyáśuṣmaḥ  
-kā́mo ná yó devayatā́m ásarji  
+एष꣡ स्य꣡ ते पवत इन्द्र सो꣡मश्  
+चमू꣡षु धी꣡र उशते꣡ त꣡वस्वान्  
+सु꣡वर्चक्षा रथिरः꣡ सत्य꣡शुष्मः  
+का꣡मो न꣡ यो꣡ देवयता꣡म् अ꣡सर्जि  

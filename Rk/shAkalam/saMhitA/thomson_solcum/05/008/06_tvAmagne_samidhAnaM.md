@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvā́m agne samidhānáṃ yaviṣṭhiya  
-devā́ dūtáṃ cakrire havyavā́hanam  
-urujráyasaṃ ghr̥táyonim ā́hutaṃ  
-tveṣáṃ cákṣur dadhire codayánmati  
+तुवा꣡म् अग्ने समिधानं꣡ यविष्ठिय  
+देवा꣡ दूतं꣡ चक्रिरे हव्यवा꣡हनम्  
+उरुज्र꣡यसं घृत꣡योनिम् आ꣡हुतं  
+त्वेषं꣡ च꣡क्षुर् दधिरे चोदय꣡न्मति  

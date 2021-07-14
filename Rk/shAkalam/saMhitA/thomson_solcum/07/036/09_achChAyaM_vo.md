@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-áchāyáṃ vo marutaḥ ślóka etu  
-áchā víṣṇuṃ niṣiktapā́m ávobhiḥ  
-utá prajā́yai gr̥ṇaté váyo dhur  
-yūyám pāta suastíbhiḥ sádā naḥ  
+अ꣡छायं꣡ वो मरुतः श्लो꣡क एतु  
+अ꣡छा वि꣡ष्णुं निषिक्तपा꣡म् अ꣡वोभिः  
+उत꣡ प्रजा꣡यै गृणते꣡ व꣡यो धुर्  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

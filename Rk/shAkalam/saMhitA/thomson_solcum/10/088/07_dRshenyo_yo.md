@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-dr̥śéniyo yó mahinā́ sámiddho  
-árocata divíyonir vibhā́vā  
-tásminn agnaú sūktavākéna devā́  
-havír víśva ā́juhavus tanūpā́ḥ  
+दृशे꣡नियो यो꣡ महिना꣡ स꣡मिद्धो  
+अ꣡रोचत दिवि꣡योनिर् विभा꣡वा  
+त꣡स्मिन्न् अग्नउ꣡ सूक्तवाके꣡न देवा꣡  
+हवि꣡र् वि꣡श्व आ꣡जुहवुस् तनूपाः꣡  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-utá tyáṃ vīráṃ dhanasā́m r̥jīṣíṇaṃ  
-dūré cit sántam ávase havāmahe  
-yásya svā́diṣṭhā sumatíḥ pitúr yathā  
-mā́ no ví yauṣṭaṃ sakhiyā́ mumócatam  
+उत꣡ त्यं꣡ वीरं꣡ धनसा꣡म् ऋजीषि꣡णं  
+दूरे꣡ चित् स꣡न्तम् अ꣡वसे हवामहे  
+य꣡स्य स्वा꣡दिष्ठा सुमतिः꣡ पितु꣡र् यथा  
+मा꣡ नो वि꣡ यौष्टं सखिया꣡ मुमो꣡चतम्  

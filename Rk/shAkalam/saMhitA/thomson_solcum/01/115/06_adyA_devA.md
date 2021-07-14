@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-adyā́ devā úditā sū́riyasya  
-nír áṃhasaḥ pipr̥tā́ nír avadyā́t  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+अद्या꣡ देवा उ꣡दिता सू꣡रियस्य  
+नि꣡र् अं꣡हसः पिपृता꣡ नि꣡र् अवद्या꣡त्  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

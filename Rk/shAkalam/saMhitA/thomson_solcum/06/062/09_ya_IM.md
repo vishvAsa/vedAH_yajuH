@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yá īṃ rā́jānāv r̥tuthā́ vidádhad  
-rájaso mitró váruṇaś cíketat  
-gambhīrā́ya rákṣase hetím asya  
-dróghāya cid vácasa ā́navāya  
+य꣡ ईं रा꣡जानाव् ऋतुथा꣡ विद꣡धद्  
+र꣡जसो मित्रो꣡ व꣡रुणश् चि꣡केतत्  
+गम्भीरा꣡य र꣡क्षसे हेति꣡म् अस्य  
+द्रो꣡घाय चिद् व꣡चस आ꣡नवाय  

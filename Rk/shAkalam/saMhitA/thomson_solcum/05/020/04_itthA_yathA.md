@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-itthā́ yáthā ta ūtáye  
-sáhasāvan divé-dive  
-rāyá r̥tā́ya sukrato  
-góbhiḥ ṣyāma sadhamā́do  
-vīraíḥ syāma sadhamā́daḥ  
+इत्था꣡ य꣡था त ऊत꣡ये  
+स꣡हसावन् दिवे꣡-दिवे  
+राय꣡ ऋता꣡य सुक्रतो  
+गो꣡भिः ष्याम सधमा꣡दो  
+वीरइः꣡ स्याम सधमा꣡दः  

@@ -2,10 +2,10 @@
 title = "005"
 
 +++
-yó mitrā́ya váruṇāyā́vidhaj jáno  
-anarvā́ṇaṃ tám pári pāto áṃhaso  
-dāśvā́ṃsam mártam áṃhasaḥ  
-tám aryamā́bhí rakṣati  
-r̥jūyántam ánu vratám  
-ukthaír yá enoḥ paribhū́ṣati vratáṃ  
-stómair ābhū́ṣati vratám  
+यो꣡ मित्रा꣡य व꣡रुणाया꣡विधज् ज꣡नो  
+अनर्वा꣡णं त꣡म् प꣡रि पातो अं꣡हसो  
+दाश्वां꣡सम् म꣡र्तम् अं꣡हसः  
+त꣡म् अर्यमा꣡भि꣡ रक्षति  
+ऋजूय꣡न्तम् अ꣡नु व्रत꣡म्  
+उक्थइ꣡र् य꣡ एनोः परिभू꣡षति व्रतं꣡  
+स्तो꣡मैर् आभू꣡षति व्रत꣡म्  

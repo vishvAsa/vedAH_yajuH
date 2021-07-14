@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-váneṣu ví antárikṣaṃ tatāna  
-vā́jam árvatsu páya usríyāsu  
-hr̥tsú krátuṃ váruṇo apsú agníṃ  
-diví sū́ryam adadhāt sómam ádrau  
+व꣡नेषु वि꣡ अन्त꣡रिक्षं ततान  
+वा꣡जम् अ꣡र्वत्सु प꣡य उस्रि꣡यासु  
+हृत्सु꣡ क्र꣡तुं व꣡रुणो अप्सु꣡ अग्निं꣡  
+दिवि꣡ सू꣡र्यम् अदधात् सो꣡मम् अ꣡द्रौ  

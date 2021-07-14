@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-asyéd evá prá ririce mahitváṃ  
-divás pr̥thivyā́ḥ pári antárikṣāt  
-svarā́ḷ índro dáma ā́ viśvágūrtaḥ  
-svarír ámatro vavakṣe ráṇāya  
+अस्ये꣡द् एव꣡ प्र꣡ रिरिचे महित्वं꣡  
+दिव꣡स् पृथिव्याः꣡ प꣡रि अन्त꣡रिक्षात्  
+स्वरा꣡ऌ इ꣡न्द्रो द꣡म आ꣡ विश्व꣡गूर्तः  
+स्वरि꣡र् अ꣡मत्रो ववक्षे र꣡णाय  

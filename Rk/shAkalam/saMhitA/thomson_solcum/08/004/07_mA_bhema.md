@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-mā́ bhema mā́ śramiṣma  
-ugrásya sakhiyé táva  
-mahát te vŕ̥ṣṇo abhicákṣiyaṃ kr̥tám  
-páśyema turváśaṃ yádum  
+मा꣡ भेम मा꣡ श्रमिष्म  
+उग्र꣡स्य सखिये꣡ त꣡व  
+मह꣡त् ते व्ŕ̥ष्णो अभिच꣡क्षियं कृत꣡म्  
+प꣡श्येम तुर्व꣡शं य꣡दुम्  

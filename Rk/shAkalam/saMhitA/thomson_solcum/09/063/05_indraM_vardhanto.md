@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-índraṃ várdhanto aptúraḥ  
-kr̥ṇvánto víśvam ā́riyam  
-apaghnánto árāvaṇaḥ  
+इ꣡न्द्रं व꣡र्धन्तो अप्तु꣡रः  
+कृण्व꣡न्तो वि꣡श्वम् आ꣡रियम्  
+अपघ्न꣡न्तो अ꣡रावणः  

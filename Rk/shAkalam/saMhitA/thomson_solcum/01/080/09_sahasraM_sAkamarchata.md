@@ -2,8 +2,8 @@
 title = "009"
 
 +++
-sahásraṃ sākám arcata  
-pári ṣṭobhata viṃśatíḥ  
-śataínam ánv anonavur  
-índrāya bráhma údyatam  
-árcann ánu svarā́jiyam  
+सह꣡स्रं साक꣡म् अर्चत  
+प꣡रि ष्टोभत विंशतिः꣡  
+शतइ꣡नम् अ꣡न्व् अनोनवुर्  
+इ꣡न्द्राय ब्र꣡ह्म उ꣡द्यतम्  
+अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्  

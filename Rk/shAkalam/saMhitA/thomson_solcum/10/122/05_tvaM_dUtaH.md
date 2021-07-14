@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tuváṃ dūtáḥ · prathamó váreṇyaḥ  
-sá hūyámāno amŕ̥tāya matsva  
-tvā́m marjayan marúto dāśúṣo gr̥hé  
-tuvā́ṃ stómebhir bhŕ̥gavo ví rurucuḥ  
+तुवं꣡ दूतः꣡ · प्रथमो꣡ व꣡रेण्यः  
+स꣡ हूय꣡मानो अम्ŕ̥ताय मत्स्व  
+त्वा꣡म् मर्जयन् मरु꣡तो दाशु꣡षो गृहे꣡  
+तुवां꣡ स्तो꣡मेभिर् भ्ŕ̥गवो वि꣡ रुरुचुः  

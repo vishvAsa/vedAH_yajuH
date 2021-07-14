@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-imám me gaṅge yamune sarasvati  
-śútudri stómaṃ sacatā páruṣṇi ā́  
-asikniyā́ marudvr̥dhe vitástayā  
-ā́rjīkīye śr̥ṇuhi ā́ suṣómayā  
+इम꣡म् मे गङ्गे यमुने सरस्वति  
+शु꣡तुद्रि स्तो꣡मं सचता प꣡रुष्णि आ꣡  
+असिक्निया꣡ मरुद्वृधे वित꣡स्तया  
+आ꣡र्जीकीये शृणुहि आ꣡ सुषो꣡मया  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-vayáṃ te asyā́m indra dyumnáhūtau  
-sákhāyaḥ syāma mahina práyiṣṭhāḥ+  
-prā́tardaniḥ kṣatraśrī́r astu śréṣṭho  
-ghané vr̥trā́ṇāṃ sanáye dhánānām  
+वयं꣡ ते अस्या꣡म् इन्द्र द्युम्न꣡हूतौ  
+स꣡खायः स्याम महिन प्र꣡यिष्ठाः+  
+प्रा꣡तर्दनिः क्षत्रश्री꣡र् अस्तु श्रे꣡ष्ठो  
+घने꣡ वृत्रा꣡णां सन꣡ये ध꣡नानाम्  

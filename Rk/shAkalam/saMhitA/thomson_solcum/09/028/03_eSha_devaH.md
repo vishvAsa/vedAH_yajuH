@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-eṣá deváḥ śubhāyate  
-ádhi yónāv ámartiyaḥ  
-vr̥trahā́ devavī́tamaḥ  
+एष꣡ देवः꣡ शुभायते  
+अ꣡धि यो꣡नाव् अ꣡मर्तियः  
+वृत्रहा꣡ देववी꣡तमः  

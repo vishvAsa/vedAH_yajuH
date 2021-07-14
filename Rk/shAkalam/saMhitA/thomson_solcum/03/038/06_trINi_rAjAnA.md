@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-trī́ṇi rājānā vidáthe purū́ṇi  
-pári víśvāni bhūṣathaḥ sádāṃsi  
-ápaśyam átra mánasā jaganvā́n  
-vraté gandharvā́m̐ ápi vāyúkeśān  
+त्री꣡णि राजाना विद꣡थे पुरू꣡णि  
+प꣡रि वि꣡श्वानि भूषथः स꣡दांसि  
+अ꣡पश्यम् अ꣡त्र म꣡नसा जगन्वा꣡न्  
+व्रते꣡ गन्धर्वाँ꣡ अ꣡पि वायु꣡केशान्  

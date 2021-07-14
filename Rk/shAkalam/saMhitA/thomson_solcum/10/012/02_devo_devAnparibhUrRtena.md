@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-devó devā́n · paribhū́r r̥téna  
-váhā no havyám prathamáś cikitvā́n  
-dhūmáketuḥ samídhā bhā́r̥jīko  
-mandró hótā nítyo vācā́ yájīyān  
+देवो꣡ देवा꣡न् · परिभू꣡र् ऋते꣡न  
+व꣡हा नो हव्य꣡म् प्रथम꣡श् चिकित्वा꣡न्  
+धूम꣡केतुः समि꣡धा भा꣡ऋजीको  
+मन्द्रो꣡ हो꣡ता नि꣡त्यो वाचा꣡ य꣡जीयान्  

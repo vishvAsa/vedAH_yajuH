@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-abhí tvā sindho śíśum ín ná mātáro  
-vāśrā́ arṣanti páyaseva dhenávaḥ  
-rā́jeva yúdhvā nayasi tvám ít sícau  
-yád āsām ágram pravátām ínakṣasi  
+अभि꣡ त्वा सिन्धो शि꣡शुम् इ꣡न् न꣡ मात꣡रो  
+वाश्रा꣡ अर्षन्ति प꣡यसेव धेन꣡वः  
+रा꣡जेव यु꣡ध्वा नयसि त्व꣡म् इ꣡त् सि꣡चौ  
+य꣡द् आसाम् अ꣡ग्रम् प्रव꣡ताम् इ꣡नक्षसि  

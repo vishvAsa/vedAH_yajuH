@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yáṃ krándasī saṃyatī́ vihváyete  
-páre ávara ubháyā amítrāḥ  
-samānáṃ cid rátham ātasthivā́ṃsā  
-nā́nā havete sá janāsa índraḥ  
+यं꣡ क्र꣡न्दसी संयती꣡ विह्व꣡येते  
+प꣡रे अ꣡वर उभ꣡या अमि꣡त्राः  
+समानं꣡ चिद् र꣡थम् आतस्थिवां꣡सा  
+ना꣡ना हवेते स꣡ जनास इ꣡न्द्रः  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ā́ te vatsó máno yamat  
-paramā́c cit sadhásthãt  
-ágne tvā́ṃkāmayā girā́  
+आ꣡ ते वत्सो꣡ म꣡नो यमत्  
+परमा꣡च् चित् सध꣡स्थ्ãत्  
+अ꣡ग्ने त्वां꣡कामया गिरा꣡  

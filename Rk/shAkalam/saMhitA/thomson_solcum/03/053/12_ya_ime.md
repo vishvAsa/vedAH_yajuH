@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yá imé ródasī ubhé  
-ahám índram átuṣṭavam  
-viśvā́mitrasya rakṣati  
-bráhmedám bhā́rataṃ jánam  
+य꣡ इमे꣡ रो꣡दसी उभे꣡  
+अह꣡म् इ꣡न्द्रम् अ꣡तुष्टवम्  
+विश्वा꣡मित्रस्य रक्षति  
+ब्र꣡ह्मेद꣡म् भा꣡रतं ज꣡नम्  

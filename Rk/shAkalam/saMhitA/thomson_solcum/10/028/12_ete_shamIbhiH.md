@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-eté śámībhiḥ suśámī abhūvan  
-yé hinviré tanúvaḥ sóma ukthaíḥ  
-nr̥vád vádann úpa no māhi vā́jān  
-diví śrávo dadhiṣe nā́ma vīráḥ  
+एते꣡ श꣡मीभिः सुश꣡मी अभूवन्  
+ये꣡ हिन्विरे꣡ तनु꣡वः सो꣡म उक्थइः꣡  
+नृव꣡द् व꣡दन्न् उ꣡प नो माहि वा꣡जान्  
+दिवि꣡ श्र꣡वो दधिषे ना꣡म वीरः꣡  

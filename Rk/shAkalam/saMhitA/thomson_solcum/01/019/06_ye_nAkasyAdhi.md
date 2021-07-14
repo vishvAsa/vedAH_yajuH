@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-yé nā́kasyā́dhi rocané  
-diví devā́sa ā́sate  
-marúdbhir agna ā́ gahi  
+ये꣡ ना꣡कस्या꣡धि रोचने꣡  
+दिवि꣡ देवा꣡स आ꣡सते  
+मरु꣡द्भिर् अग्न आ꣡ गहि  

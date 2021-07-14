@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-vaiśvānarásya daṃsánābhiyo br̥hád  
-áriṇād ékaḥ suapasyáyā kavíḥ  
-ubhā́ pitárā maháyann ajāyata  
-agnír dyā́vāpr̥thivī́ bhū́riretasā  
+वैश्वानर꣡स्य दंस꣡नाभियो बृह꣡द्  
+अ꣡रिणाद् ए꣡कः सुअपस्य꣡या कविः꣡  
+उभा꣡ पित꣡रा मह꣡यन्न् अजायत  
+अग्नि꣡र् द्या꣡वापृथिवी꣡ भू꣡रिरेतसा  

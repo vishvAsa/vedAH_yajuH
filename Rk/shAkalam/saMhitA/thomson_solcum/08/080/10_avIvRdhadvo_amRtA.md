@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ávīvr̥dhad vo amr̥tā ámandīd  
-ekadyū́r devā utá yā́ś ca devīḥ  
-tásmā u rā́dhaḥ kr̥ṇuta praśastám  
-prātár makṣū́ dhiyā́vasur jagamyāt  
+अ꣡वीवृधद् वो अमृता अ꣡मन्दीद्  
+एकद्यू꣡र् देवा उत꣡ या꣡श् च देवीः  
+त꣡स्मा उ रा꣡धः कृणुत प्रशस्त꣡म्  
+प्रात꣡र् मक्षू꣡ धिया꣡वसुर् जगम्यात्  

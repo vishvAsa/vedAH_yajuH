@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-yā́ te bhīmā́ni ā́yudhā  
-tigmā́ni sánti dhū́rvaṇe  
-rákṣā samasya no nidáḥ  
+या꣡ ते भीमा꣡नि आ꣡युधा  
+तिग्मा꣡नि स꣡न्ति धू꣡र्वणे  
+र꣡क्षा समस्य नो निदः꣡  

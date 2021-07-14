@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-devás tváṣṭā savitā́ viśvárūpaḥ  
-pupóṣa prajā́ḥ purudhā́ jajāna  
-imā́ ca víśvā bhúvanāni asya  
-mahád devā́nām asuratvám ékam  
+देव꣡स् त्व꣡ष्टा सविता꣡ विश्व꣡रूपः  
+पुपो꣡ष प्रजाः꣡ पुरुधा꣡ जजान  
+इमा꣡ च वि꣡श्वा भु꣡वनानि अस्य  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tám ūrmím āpo mádhumattamaṃ vo  
-apā́ṃ nápād avatu āśuhémā  
-yásminn índro vásubhir mādáyāte  
-tám aśyāma devayánto vo adyá  
+त꣡म् ऊर्मि꣡म् आपो म꣡धुमत्तमं वो  
+अपां꣡ न꣡पाद् अवतु आशुहे꣡मा  
+य꣡स्मिन्न् इ꣡न्द्रो व꣡सुभिर् माद꣡याते  
+त꣡म् अश्याम देवय꣡न्तो वो अद्य꣡  

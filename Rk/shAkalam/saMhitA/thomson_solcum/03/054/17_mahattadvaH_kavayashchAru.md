@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-mahát tád vaḥ kavayaś cā́ru nā́ma  
-yád dha devā bhávatha víśva índre  
-sákha rbhúbhiḥ puruhūta priyébhir  
-imā́ṃ dhíyaṃ sātáye takṣatā naḥ  
+मह꣡त् त꣡द् वः कवयश् चा꣡रु ना꣡म  
+य꣡द् ध देवा भ꣡वथ वि꣡श्व इ꣡न्द्रे  
+स꣡ख र्भु꣡भिः पुरुहूत प्रिये꣡भिर्  
+इमां꣡ धि꣡यं सात꣡ये तक्षता नः  

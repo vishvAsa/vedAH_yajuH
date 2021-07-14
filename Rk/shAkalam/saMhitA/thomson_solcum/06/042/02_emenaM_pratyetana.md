@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ém enam pratiétana  
-sómebhiḥ somapā́tamam  
-ámatrebhir r̥jīṣíṇam  
-índraṃ sutébhir índubhiḥ  
+ए꣡म् एनम् प्रतिए꣡तन  
+सो꣡मेभिः सोमपा꣡तमम्  
+अ꣡मत्रेभिर् ऋजीषि꣡णम्  
+इ꣡न्द्रं सुते꣡भिर् इ꣡न्दुभिः  

@@ -2,5 +2,5 @@
 title = "003"
 
 +++
-pitubhŕ̥to ná tántum ít  
-sudā́navaḥ práti dadhmo yájāmasi  
+पितुभ्ŕ̥तो न꣡ त꣡न्तुम् इ꣡त्  
+सुदा꣡नवः प्र꣡ति दध्मो य꣡जामसि  

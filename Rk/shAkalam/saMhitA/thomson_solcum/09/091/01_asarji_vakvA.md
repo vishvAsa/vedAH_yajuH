@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ásarji vákvā ráthiye yáthājaú  
-dhiyā́ manótā prathamó manīṣī́  
-dáśa svásāro ádhi sā́no ávye  
-ájanti váhniṃ sádanāni ácha  
+अ꣡सर्जि व꣡क्वा र꣡थिये य꣡थाजउ꣡  
+धिया꣡ मनो꣡ता प्रथमो꣡ मनीषी꣡  
+द꣡श स्व꣡सारो अ꣡धि सा꣡नो अ꣡व्ये  
+अ꣡जन्ति व꣡ह्निं स꣡दनानि अ꣡छ  

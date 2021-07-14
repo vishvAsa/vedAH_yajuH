@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ā́ no yāhi úpaśruti  
-ukthéṣu raṇayā ihá  
-divó amúṣya śā́sato  
-dívaṃ yayá divāvaso  
+आ꣡ नो याहि उ꣡पश्रुति  
+उक्थे꣡षु रणया इह꣡  
+दिवो꣡ अमु꣡ष्य शा꣡सतो  
+दि꣡वं यय꣡ दिवावसो  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ no yajñáṃ namovŕ̥dhaṃ sajóṣā  
-índra deva háribhir yāhi tū́yam  
-aháṃ hí tvā matíbhir jóhavīmi  
-ghr̥táprayāḥ sadhamā́de mádhūnām  
+आ꣡ नो यज्ञं꣡ नमोव्ŕ̥धं सजो꣡षा  
+इ꣡न्द्र देव ह꣡रिभिर् याहि तू꣡यम्  
+अहं꣡ हि꣡ त्वा मति꣡भिर् जो꣡हवीमि  
+घृत꣡प्रयाः सधमा꣡दे म꣡धूनाम्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ánasvantā sátpatir māmahe me  
-gā́vā cétiṣṭho ásuro maghónaḥ  
-traivr̥ṣṇó agne daśábhiḥ sahásrair  
-vaíśvānara tríaruṇaś ciketa  
+अ꣡नस्वन्ता स꣡त्पतिर् मामहे मे  
+गा꣡वा चे꣡तिष्ठो अ꣡सुरो मघो꣡नः  
+त्रैवृष्णो꣡ अग्ने दश꣡भिः सह꣡स्रैर्  
+वइ꣡श्वानर त्रि꣡अरुणश् चिकेत  

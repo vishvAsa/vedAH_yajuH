@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tuvám indra prátūrtiṣu  
-abhí víśvā asi spŕ̥dhaḥ  
-aśastihā́ janitā́ viśvatū́r asi  
-tuváṃ tūrya taruṣyatáḥ  
+तुव꣡म् इन्द्र प्र꣡तूर्तिषु  
+अभि꣡ वि꣡श्वा असि स्प्ŕ̥धः  
+अशस्तिहा꣡ जनिता꣡ विश्वतू꣡र् असि  
+तुवं꣡ तूर्य तरुष्यतः꣡  

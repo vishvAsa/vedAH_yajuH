@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yáṃ tvám agne samádahas  
-tám u nír vāpayā púnaḥ  
-kiyā́mbu átra rohatu  
-pākadūrvā́ víalkaśā  
+यं꣡ त्व꣡म् अग्ने सम꣡दहस्  
+त꣡म् उ नि꣡र् वापया पु꣡नः  
+किया꣡म्बु अ꣡त्र रोहतु  
+पाकदूर्वा꣡ वि꣡अल्कशा  

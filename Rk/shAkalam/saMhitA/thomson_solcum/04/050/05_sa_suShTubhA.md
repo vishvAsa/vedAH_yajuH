@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá suṣṭúbhā sá ŕ̥kvatā gaṇéna  
-valáṃ ruroja phaligáṃ ráveṇa  
-bŕ̥haspátir usríyā havyasū́daḥ  
-kánikradad vā́vaśatīr úd ājat  
+स꣡ सुष्टु꣡भा स꣡ ŕ̥क्वता गणे꣡न  
+वलं꣡ रुरोज फलिगं꣡ र꣡वेण  
+ब्ŕ̥हस्प꣡तिर् उस्रि꣡या हव्यसू꣡दः  
+क꣡निक्रदद् वा꣡वशतीर् उ꣡द् आजत्  

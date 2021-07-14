@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-índrasya soma rā́dhase  
-punānó hā́rdi codaya  
-r̥tásya yónim āsádam  
+इ꣡न्द्रस्य सोम रा꣡धसे  
+पुनानो꣡ हा꣡र्दि चोदय  
+ऋत꣡स्य यो꣡निम् आस꣡दम्  

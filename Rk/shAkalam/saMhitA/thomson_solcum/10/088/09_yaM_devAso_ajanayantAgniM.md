@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yáṃ devā́so ájanayanta agníṃ  
-yásminn ā́juhavur bhúvanāni víśvā  
-só arcíṣā pr̥thivī́ṃ dyā́m utémā́m  
-r̥jūyámāno atapan mahitvā́  
+यं꣡ देवा꣡सो अ꣡जनयन्त अग्निं꣡  
+य꣡स्मिन्न् आ꣡जुहवुर् भु꣡वनानि वि꣡श्वा  
+सो꣡ अर्चि꣡षा पृथिवीं꣡ द्या꣡म् उते꣡मा꣡म्  
+ऋजूय꣡मानो अतपन् महित्वा꣡  

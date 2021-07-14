@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ viśvavārā aśvinā gataṃ naḥ  
-prá tát sthā́nam avāci vām pr̥thivyā́m  
-áśvo ná vājī́ śunápr̥ṣṭho asthād  
-ā́ yát sedáthur dhruváse ná yónim  
+आ꣡ विश्ववारा अश्विना गतं नः  
+प्र꣡ त꣡त् स्था꣡नम् अवाचि वाम् पृथिव्या꣡म्  
+अ꣡श्वो न꣡ वाजी꣡ शुन꣡पृष्ठो अस्थाद्  
+आ꣡ य꣡त् सेद꣡थुर् ध्रुव꣡से न꣡ यो꣡निम्  

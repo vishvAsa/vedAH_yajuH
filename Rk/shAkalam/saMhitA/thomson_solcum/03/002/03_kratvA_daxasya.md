@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-krátvā dákṣasya táruṣo vídharmaṇi  
-devā́so agníṃ janayanta cíttibhiḥ  
-rurucānám bhānúnā jyótiṣā mahā́m  
-átyaṃ ná vā́jaṃ saniṣyánn úpa bruve  
+क्र꣡त्वा द꣡क्षस्य त꣡रुषो वि꣡धर्मणि  
+देवा꣡सो अग्निं꣡ जनयन्त चि꣡त्तिभिः  
+रुरुचान꣡म् भानु꣡ना ज्यो꣡तिषा महा꣡म्  
+अ꣡त्यं न꣡ वा꣡जं सनिष्य꣡न्न् उ꣡प ब्रुवे  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yó duṣṭáro viśvavāra śravā́yiyo  
-vā́jeṣu ásti tarutā́  
-sá naḥ śaviṣṭha sávanā́ vaso gahi  
-gaméma gómati vrajé  
+यो꣡ दुष्ट꣡रो विश्ववार श्रवा꣡यियो  
+वा꣡जेषु अ꣡स्ति तरुता꣡  
+स꣡ नः शविष्ठ स꣡वना꣡ वसो गहि  
+गमे꣡म गो꣡मति व्रजे꣡  

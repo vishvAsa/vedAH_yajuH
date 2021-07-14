@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-áva svarāti gárgaro  
-godhā́ pári saniṣvaṇat  
-píṅgā pári caniṣkadad  
-índrāya bráhma údyatam  
+अ꣡व स्वराति ग꣡र्गरो  
+गोधा꣡ प꣡रि सनिष्वणत्  
+पि꣡ङ्गा प꣡रि चनिष्कदद्  
+इ꣡न्द्राय ब्र꣡ह्म उ꣡द्यतम्  

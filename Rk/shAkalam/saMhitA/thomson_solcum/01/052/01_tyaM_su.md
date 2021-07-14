@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tiyáṃ sú meṣám mahayā suvarvídaṃ  
-śatáṃ yásya subhúvaḥ sākám ī́rate  
-átyaṃ ná vā́jaṃ havanasyádaṃ rátham  
-éndraṃ vavr̥tyām ávase suvr̥ktíbhiḥ  
+तियं꣡ सु꣡ मेष꣡म् महया सुवर्वि꣡दं  
+शतं꣡ य꣡स्य सुभु꣡वः साक꣡म् ई꣡रते  
+अ꣡त्यं न꣡ वा꣡जं हवनस्य꣡दं र꣡थम्  
+ए꣡न्द्रं ववृत्याम् अ꣡वसे सुवृक्ति꣡भिः  

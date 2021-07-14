@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-mahó no agne suvitásya vidvā́n  
-rayíṃ sūríbhya ā́ vahā br̥hántam  
-yéna vayáṃ sahasāvan mádema  
-ávikṣitāsa ā́yuṣā suvī́rāḥ  
+महो꣡ नो अग्ने सुवित꣡स्य विद्वा꣡न्  
+रयिं꣡ सूरि꣡भ्य आ꣡ वहा बृह꣡न्तम्  
+ये꣡न वयं꣡ सहसावन् म꣡देम  
+अ꣡विक्षितास आ꣡युषा सुवी꣡राः  

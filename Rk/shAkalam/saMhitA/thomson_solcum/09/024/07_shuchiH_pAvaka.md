@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-śúciḥ pavāká+ ucyate  
-sómaḥ sutásya mádhuvaḥ  
-devāvī́r aghaśaṃsahā́  
+शु꣡चिः पवाक꣡+ उच्यते  
+सो꣡मः सुत꣡स्य म꣡धुवः  
+देवावी꣡र् अघशंसहा꣡  

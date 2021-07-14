@@ -2,8 +2,8 @@
 title = "032"
 
 +++
-śatáṃ dāsé balbūthé  
-vípras tárukṣa ā́ dade  
-té te vāyav imé jánā  
-mádanti índragopā  
-mádanti devágopāḥ  
+शतं꣡ दासे꣡ बल्बूथे꣡  
+वि꣡प्रस् त꣡रुक्ष आ꣡ ददे  
+ते꣡ ते वायव् इमे꣡ ज꣡ना  
+म꣡दन्ति इ꣡न्द्रगोपा  
+म꣡दन्ति देव꣡गोपाः  

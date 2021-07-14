@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-víśvasya hí śruṣṭáye devá ūrdhváḥ  
-prá bāhávā pr̥thúpāṇiḥ sísarti  
-ā́paś cid asya vratá ā́ nímr̥grā  
-ayáṃ cid vā́to ramate párijman  
+वि꣡श्वस्य हि꣡ श्रुष्ट꣡ये देव꣡ ऊर्ध्वः꣡  
+प्र꣡ बाह꣡वा पृथु꣡पाणिः सि꣡सर्ति  
+आ꣡पश् चिद् अस्य व्रत꣡ आ꣡ नि꣡मृग्रा  
+अयं꣡ चिद् वा꣡तो रमते प꣡रिज्मन्  

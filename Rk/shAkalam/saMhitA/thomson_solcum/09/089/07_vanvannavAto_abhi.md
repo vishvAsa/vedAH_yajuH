@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-vanvánn ávāto abhí devávītim  
-índrāya soma vr̥trahā́ pavasva  
-śagdhí maháḥ puruścandrásya rāyáḥ  
-suvī́riyasya pátayaḥ siyāma  
+वन्व꣡न्न् अ꣡वातो अभि꣡ देव꣡वीतिम्  
+इ꣡न्द्राय सोम वृत्रहा꣡ पवस्व  
+शग्धि꣡ महः꣡ पुरुश्चन्द्र꣡स्य रायः꣡  
+सुवी꣡रियस्य प꣡तयः सियाम  

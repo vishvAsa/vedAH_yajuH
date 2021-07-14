@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-arvā́ṅ narā daíviyenā́vasā́ gataṃ  
-śr̥ṇutáṃ hávaṃ yádi me jújoṣathaḥ  
-yuvór hí sakhyám utá vā yád ā́piyam  
-mārḍīkám indrāvaruṇā ní yachatam  
+अर्वा꣡ङ् नरा दइ꣡वियेना꣡वसा꣡ गतं  
+शृणुतं꣡ ह꣡वं य꣡दि मे जु꣡जोषथः  
+युवो꣡र् हि꣡ सख्य꣡म् उत꣡ वा य꣡द् आ꣡पियम्  
+मार्डीक꣡म् इन्द्रावरुणा नि꣡ यछतम्  

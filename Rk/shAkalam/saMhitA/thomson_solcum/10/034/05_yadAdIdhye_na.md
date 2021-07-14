@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yád ādī́dhye ná daviṣāṇi ebhiḥ  
-parāyádbhyo áva hīye sákhibhyaḥ  
-níuptāś ca babhrávo vā́cam ákratam̐  
-émī́d eṣāṃ niṣkr̥táṃ jāríṇīva  
+य꣡द् आदी꣡ध्ये न꣡ दविषाणि एभिः  
+पराय꣡द्भ्यो अ꣡व हीये स꣡खिभ्यः  
+नि꣡उप्ताश् च बभ्र꣡वो वा꣡चम् अ꣡क्रतँ  
+ए꣡मी꣡द् एषां निष्कृतं꣡ जारि꣡णीव  

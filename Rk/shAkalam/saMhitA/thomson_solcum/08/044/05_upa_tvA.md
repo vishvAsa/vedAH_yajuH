@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-úpa tvā juhúvo máma  
-ghr̥tā́cīr yantu haryata  
-ágne havyā́ juṣasva naḥ  
+उ꣡प त्वा जुहु꣡वो म꣡म  
+घृता꣡चीर् यन्तु हर्यत  
+अ꣡ग्ने हव्या꣡ जुषस्व नः  

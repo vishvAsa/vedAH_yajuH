@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-bhadrā́ agnér vadhriaśvásya saṃdŕ̥śo  
-vāmī́ práṇītiḥ suráṇā úpetayaḥ  
-yád īṃ sumitrā́ víśo ágra indháte  
-ghr̥ténā́huto jarate dávidyutat  
+भद्रा꣡ अग्ने꣡र् वध्रिअश्व꣡स्य संद्ŕ̥शो  
+वामी꣡ प्र꣡णीतिः सुर꣡णा उ꣡पेतयः  
+य꣡द् ईं सुमित्रा꣡ वि꣡शो अ꣡ग्र इन्ध꣡ते  
+घृते꣡ना꣡हुतो जरते द꣡विद्युतत्  

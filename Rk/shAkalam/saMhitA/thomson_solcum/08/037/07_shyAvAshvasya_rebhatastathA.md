@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-śyāvā́śuvasya rébhatas táthā śr̥ṇu  
-yáthā́śr̥ṇor átreḥ kármāṇi kr̥ṇvatáḥ  
-prá trasádasyum āvitha tvám éka ín nr̥ṣā́hiya  
-índra kṣatrā́ṇi vardháyan  
+श्यावा꣡शुवस्य रे꣡भतस् त꣡था शृणु  
+य꣡था꣡शृणोर् अ꣡त्रेः क꣡र्माणि कृण्वतः꣡  
+प्र꣡ त्रस꣡दस्युम् आविथ त्व꣡म् ए꣡क इ꣡न् नृषा꣡हिय  
+इ꣡न्द्र क्षत्रा꣡णि वर्ध꣡यन्  

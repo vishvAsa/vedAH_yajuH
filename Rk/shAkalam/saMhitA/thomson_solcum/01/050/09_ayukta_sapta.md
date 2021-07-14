@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-áyukta saptá śundhyúvaḥ  
-sū́ro ráthasya naptíyaḥ  
-tā́bhir yāti sváyuktibhiḥ  
+अ꣡युक्त सप्त꣡ शुन्ध्यु꣡वः  
+सू꣡रो र꣡थस्य नप्ति꣡यः  
+ता꣡भिर् याति स्व꣡युक्तिभिः  

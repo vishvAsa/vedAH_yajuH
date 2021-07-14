@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yé cid dhí pū́rva r̥tasā́pa ā́san  
-sākáṃ devébhir ávadann r̥tā́ni  
-té cid ávāsur nahí ántam āpúḥ  
-sám ū nú pátnīr vŕ̥ṣabhir jagamyuḥ  
+ये꣡ चिद् धि꣡ पू꣡र्व ऋतसा꣡प आ꣡सन्  
+साकं꣡ देवे꣡भिर् अ꣡वदन्न् ऋता꣡नि  
+ते꣡ चिद् अ꣡वासुर् नहि꣡ अ꣡न्तम् आपुः꣡  
+स꣡म् ऊ नु꣡ प꣡त्नीर् व्ŕ̥षभिर् जगम्युः  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mahā́m̐ ugró vāvr̥dhe vīríyāya  
-samā́cakre vr̥ṣabháḥ kā́viyena  
-índro bhágo vājadā́ asya gā́vaḥ  
-prá jāyante dákṣiṇā asya pūrvī́ḥ  
+महाँ꣡ उग्रो꣡ वावृधे वीरि꣡याय  
+समा꣡चक्रे वृषभः꣡ का꣡वियेन  
+इ꣡न्द्रो भ꣡गो वाजदा꣡ अस्य गा꣡वः  
+प्र꣡ जायन्ते द꣡क्षिणा अस्य पूर्वीः꣡  

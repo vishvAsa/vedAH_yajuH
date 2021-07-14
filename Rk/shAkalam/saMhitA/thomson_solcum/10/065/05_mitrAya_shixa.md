@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mitrā́ya śikṣa váruṇāya dāśúṣe  
-yā́ samrā́jā mánasā ná prayúchataḥ  
-yáyor dhā́ma dhármaṇā rócate br̥hád  
-yáyor ubhé ródasī nā́dhasī vŕ̥tau  
+मित्रा꣡य शिक्ष व꣡रुणाय दाशु꣡षे  
+या꣡ सम्रा꣡जा म꣡नसा न꣡ प्रयु꣡छतः  
+य꣡योर् धा꣡म ध꣡र्मणा रो꣡चते बृह꣡द्  
+य꣡योर् उभे꣡ रो꣡दसी ना꣡धसी व्ŕ̥तौ  

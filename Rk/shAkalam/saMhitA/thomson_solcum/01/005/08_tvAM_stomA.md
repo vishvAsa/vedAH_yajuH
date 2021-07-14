@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-tuvā́ṃ stómā avīvr̥dhan  
-tuvā́m ukthā́ śatakrato  
-tuvā́ṃ vardhantu no gíraḥ  
+तुवां꣡ स्तो꣡मा अवीवृधन्  
+तुवा꣡म् उक्था꣡ शतक्रतो  
+तुवां꣡ वर्धन्तु नो गि꣡रः  

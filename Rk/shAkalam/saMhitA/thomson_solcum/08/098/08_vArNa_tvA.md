@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-vã́r ṇá tvā yaviyā́bhir  
-várdhanti śūra bráhmāṇi  
-vāvr̥dhvā́ṃsaṃ cid adrivo divé-dive  
+व्ã꣡र् ण꣡ त्वा यविया꣡भिर्  
+व꣡र्धन्ति शूर ब्र꣡ह्माणि  
+वावृध्वां꣡सं चिद् अद्रिवो दिवे꣡-दिवे  

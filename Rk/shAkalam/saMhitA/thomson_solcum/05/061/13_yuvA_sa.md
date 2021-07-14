@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-yúvā sá mā́ruto gaṇás  
-tveṣáratho ánediyaḥ  
-śubhaṃyā́vā́pratiṣkutaḥ  
+यु꣡वा स꣡ मा꣡रुतो गण꣡स्  
+त्वेष꣡रथो अ꣡नेदियः  
+शुभंया꣡वा꣡प्रतिष्कुतः  

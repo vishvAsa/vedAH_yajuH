@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tuváṃ soma pávamāno  
-víśvāni duritā́ tara  
-kavíḥ sīda ní barhíṣi  
+तुवं꣡ सोम प꣡वमानो  
+वि꣡श्वानि दुरिता꣡ तर  
+कविः꣡ सीद नि꣡ बर्हि꣡षि  

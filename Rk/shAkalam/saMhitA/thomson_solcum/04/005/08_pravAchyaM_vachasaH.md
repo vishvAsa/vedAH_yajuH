@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-pravā́ciyaṃ vácasaḥ kím me asyá  
-gúhā hitám úpa niṇíg vadanti  
-yád usríyāṇām ápa vā́r iva vrán  
-pā́ti priyáṃ rupó ágram padáṃ véḥ  
+प्रवा꣡चियं व꣡चसः कि꣡म् मे अस्य꣡  
+गु꣡हा हित꣡म् उ꣡प निणि꣡ग् वदन्ति  
+य꣡द् उस्रि꣡याणाम् अ꣡प वा꣡र् इव व्र꣡न्  
+पा꣡ति प्रियं꣡ रुपो꣡ अ꣡ग्रम् पदं꣡ वेः꣡  

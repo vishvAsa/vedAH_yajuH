@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-túbhyéd eté bahulā́ ádridugdhāś  
-camūṣádaś camasā́ indrapā́nāḥ  
-ví aśnuhi tarpáyā kā́mam eṣām  
-áthā máno vasudéyāya kr̥ṣva  
+तु꣡भ्ये꣡द् एते꣡ बहुला꣡ अ꣡द्रिदुग्धाश्  
+चमूष꣡दश् चमसा꣡ इन्द्रपा꣡नाः  
+वि꣡ अश्नुहि तर्प꣡या का꣡मम् एषाम्  
+अ꣡था म꣡नो वसुदे꣡याय कृष्व  

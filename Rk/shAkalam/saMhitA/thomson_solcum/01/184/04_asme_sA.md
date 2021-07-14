@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-asmé sā́ vām mādhuvī rātír astu  
-stómaṃ hinotam māniyásya kāróḥ  
-ánu yád vāṃ śravasíyā sudānū  
-suvī́ryāya carṣaṇáyo mádanti  
+अस्मे꣡ सा꣡ वाम् माधुवी राति꣡र् अस्तु  
+स्तो꣡मं हिनोतम् मानिय꣡स्य कारोः꣡  
+अ꣡नु य꣡द् वां श्रवसि꣡या सुदानू  
+सुवी꣡र्याय चर्षण꣡यो म꣡दन्ति  

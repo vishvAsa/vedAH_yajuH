@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-púnar yé cakrúḥ pitárā yúvānā  
-sánā yū́peva jaraṇā́ śáyānā  
-té vā́jo víbhvām̐ r̥bhúr índravanto  
-mádhupsaraso no avantu yajñám  
+पु꣡नर् ये꣡ चक्रुः꣡ पित꣡रा यु꣡वाना  
+स꣡ना यू꣡पेव जरणा꣡ श꣡याना  
+ते꣡ वा꣡जो वि꣡भ्वाँ ऋभु꣡र् इ꣡न्द्रवन्तो  
+म꣡धुप्सरसो नो अवन्तु यज्ञ꣡म्  

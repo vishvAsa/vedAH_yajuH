@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tám ā́ nūnáṃ vr̥jánam anyáthā cic  
-chū́ro yác chakra ví dúro gr̥ṇīṣé  
-mā́ nír araṃ śukradúghasya dhenór  
-āṅgirasā́n bráhmaṇā vipra jinva  
+त꣡म् आ꣡ नूनं꣡ वृज꣡नम् अन्य꣡था चिच्  
+छू꣡रो य꣡च् छक्र वि꣡ दु꣡रो गृणीषे꣡  
+मा꣡ नि꣡र् अरं शुक्रदु꣡घस्य धेनो꣡र्  
+आङ्गिरसा꣡न् ब्र꣡ह्मणा विप्र जिन्व  

@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ávyo vā́re pári priyó  
-hárir váneṣu sīdati  
-rebhó vanuṣyate matī́  
+अ꣡व्यो वा꣡रे प꣡रि प्रियो꣡  
+ह꣡रिर् व꣡नेषु सीदति  
+रेभो꣡ वनुष्यते मती꣡  

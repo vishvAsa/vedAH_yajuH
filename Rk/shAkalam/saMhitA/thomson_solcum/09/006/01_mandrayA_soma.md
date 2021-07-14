@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-mandráyā soma dhā́rayā  
-vŕ̥ṣā pavasva devayúḥ  
-ávyo vā́reṣu asmayúḥ  
+मन्द्र꣡या सोम धा꣡रया  
+व्ŕ̥षा पवस्व देवयुः꣡  
+अ꣡व्यो वा꣡रेषु अस्मयुः꣡  

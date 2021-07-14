@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-tuvám agne br̥hád váyo  
-dádhāsi deva dāśúṣe  
-kavír gr̥hápatir yúvā  
+तुव꣡म् अग्ने बृह꣡द् व꣡यो  
+द꣡धासि देव दाशु꣡षे  
+कवि꣡र् गृह꣡पतिर् यु꣡वा  

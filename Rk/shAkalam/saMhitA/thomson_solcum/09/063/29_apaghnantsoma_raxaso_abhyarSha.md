@@ -2,6 +2,6 @@
 title = "029"
 
 +++
-apaghnán soma rakṣáso  
-abhí arṣa kánikradat  
-dyumántaṃ śúṣmam uttamám  
+अपघ्न꣡न् सोम रक्ष꣡सो  
+अभि꣡ अर्ष क꣡निक्रदत्  
+द्युम꣡न्तं शु꣡ष्मम् उत्तम꣡म्  

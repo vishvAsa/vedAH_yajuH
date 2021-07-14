@@ -2,8 +2,8 @@
 title = "009"
 
 +++
-íti tvāgne vr̥ṣṭihávyasya putrā́  
-upastutā́sa ŕ̥ṣayo avocan  
-tā́ṃś ca pāhí · gr̥ṇatáś ca sūrī́n  
-váṣaḍ váṣaḷ íty ūrdhvā́so anakṣan  
-námo náma íty ūrdhvā́so anakṣan  
+इ꣡ति त्वाग्ने वृष्टिह꣡व्यस्य पुत्रा꣡  
+उपस्तुता꣡स ŕ̥षयो अवोचन्  
+तां꣡श् च पाहि꣡ · गृणत꣡श् च सूरी꣡न्  
+व꣡षड् व꣡षऌ इ꣡त्य् ऊर्ध्वा꣡सो अनक्षन्  
+न꣡मो न꣡म इ꣡त्य् ऊर्ध्वा꣡सो अनक्षन्  

@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-bhadró no agnír ā́huto  
-bhadrā́ rātíḥ subhaga bhadró adhvaráḥ  
-bhadrā́ utá práśastayaḥ  
+भद्रो꣡ नो अग्नि꣡र् आ꣡हुतो  
+भद्रा꣡ रातिः꣡ सुभग भद्रो꣡ अध्वरः꣡  
+भद्रा꣡ उत꣡ प्र꣡शस्तयः  

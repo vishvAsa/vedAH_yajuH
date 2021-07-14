@@ -2,7 +2,7 @@
 title = "033"
 
 +++
-tát sú no víśve aryá ā́  
-sádā gr̥ṇanti kārávaḥ  
-br̥búṃ sahasradā́tamaṃ  
-sūríṃ sahasrasā́tamam  
+त꣡त् सु꣡ नो वि꣡श्वे अर्य꣡ आ꣡  
+स꣡दा गृणन्ति कार꣡वः  
+बृबुं꣡ सहस्रदा꣡तमं  
+सूरिं꣡ सहस्रसा꣡तमम्  

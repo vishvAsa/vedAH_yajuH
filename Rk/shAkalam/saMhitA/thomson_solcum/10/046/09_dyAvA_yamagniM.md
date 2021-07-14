@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-dyā́vā yám agním pr̥thivī́ jániṣṭām  
-ā́pas tváṣṭā bhŕ̥gavo yáṃ sáhobhiḥ  
-īḷéniyam prathamám mātaríśvā  
-devā́s tatakṣur mánave yájatram  
+द्या꣡वा य꣡म् अग्नि꣡म् पृथिवी꣡ ज꣡निष्टाम्  
+आ꣡पस् त्व꣡ष्टा भ्ŕ̥गवो यं꣡ स꣡होभिः  
+ईऌए꣡नियम् प्रथम꣡म् मातरि꣡श्वा  
+देवा꣡स् ततक्षुर् म꣡नवे य꣡जत्रम्  

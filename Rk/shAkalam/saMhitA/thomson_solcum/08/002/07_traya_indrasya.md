@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-tráya índarasya+ sómāḥ  
-sutā́saḥ santu devásya  
-suvé kṣáye sutapā́vnaḥ  
+त्र꣡य इ꣡न्दरस्य+ सो꣡माः  
+सुता꣡सः सन्तु देव꣡स्य  
+सुवे꣡ क्ष꣡ये सुतपा꣡व्नः  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-táṃ vaḥ śárdhaṃ ratheśúbhaṃ  
-tveṣám panasyúm ā́ huve  
-yásmin sújātā subhágā mahīyáte  
-sácā marútsu mīḷhuṣī́  
+तं꣡ वः श꣡र्धं रथेशु꣡भं  
+त्वेष꣡म् पनस्यु꣡म् आ꣡ हुवे  
+य꣡स्मिन् सु꣡जाता सुभ꣡गा महीय꣡ते  
+स꣡चा मरु꣡त्सु मीऌहुषी꣡  

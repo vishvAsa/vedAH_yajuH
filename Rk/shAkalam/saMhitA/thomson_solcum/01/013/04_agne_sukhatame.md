@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ágne sukhátame ráthe  
-devā́m̐ īḷitá ā́ vaha  
-ási hótā mánurhitaḥ  
+अ꣡ग्ने सुख꣡तमे र꣡थे  
+देवाँ꣡ ईऌइत꣡ आ꣡ वह  
+अ꣡सि हो꣡ता म꣡नुर्हितः  

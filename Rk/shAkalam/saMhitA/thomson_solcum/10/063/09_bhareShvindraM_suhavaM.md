@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-bháreṣu índraṃ suhávaṃ havāmahe  
-aṃhomúcaṃ sukŕ̥taṃ daíviyaṃ jánam  
-agním mitráṃ váruṇaṃ sātáye bhágaṃ  
-dyā́vāpr̥thivī́ marútaḥ suastáye  
+भ꣡रेषु इ꣡न्द्रं सुह꣡वं हवामहे  
+अंहोमु꣡चं सुक्ŕ̥तं दइ꣡वियं ज꣡नम्  
+अग्नि꣡म् मित्रं꣡ व꣡रुणं सात꣡ये भ꣡गं  
+द्या꣡वापृथिवी꣡ मरु꣡तः सुअस्त꣡ये  

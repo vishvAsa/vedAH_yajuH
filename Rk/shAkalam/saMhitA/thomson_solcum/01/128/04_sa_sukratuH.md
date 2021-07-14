@@ -2,10 +2,10 @@
 title = "004"
 
 +++
-sá sukrátuḥ puróhito dáme-dame  
-agnír yajñásya adhvarásya cetati  
-krátvā yajñásya cetati  
-krátvā vedhā́ iṣūyaté  
-víśvā jātā́ni paspaśe  
-yáto ghr̥taśrī́r átithir ájāyata  
-váhnir vedhā́ ájāyata  
+स꣡ सुक्र꣡तुः पुरो꣡हितो द꣡मे-दमे  
+अग्नि꣡र् यज्ञ꣡स्य अध्वर꣡स्य चेतति  
+क्र꣡त्वा यज्ञ꣡स्य चेतति  
+क्र꣡त्वा वेधा꣡ इषूयते꣡  
+वि꣡श्वा जाता꣡नि पस्पशे  
+य꣡तो घृतश्री꣡र् अ꣡तिथिर् अ꣡जायत  
+व꣡ह्निर् वेधा꣡ अ꣡जायत  

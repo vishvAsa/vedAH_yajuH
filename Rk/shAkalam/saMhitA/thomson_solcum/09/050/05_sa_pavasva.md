@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sá pavasva madintama  
-góbhir añjānó aktúbhiḥ  
-índav índrāya pītáye  
+स꣡ पवस्व मदिन्तम  
+गो꣡भिर् अञ्जानो꣡ अक्तु꣡भिः  
+इ꣡न्दव् इ꣡न्द्राय पीत꣡ये  

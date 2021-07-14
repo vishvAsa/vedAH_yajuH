@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-úd dharṣaya maghavann ā́yudhāni  
-út sátvanām māmakā́nām mánāṃsi  
-úd vr̥trahan vājínāṃ vā́jināni  
-úd ráthānāṃ jáyatāṃ yantu ghóṣāḥ  
+उ꣡द् धर्षय मघवन्न् आ꣡युधानि  
+उ꣡त् स꣡त्वनाम् मामका꣡नाम् म꣡नांसि  
+उ꣡द् वृत्रहन् वाजि꣡नां वा꣡जिनानि  
+उ꣡द् र꣡थानां ज꣡यतां यन्तु घो꣡षाः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ nūnám aśvinā yuváṃ  
-vatsásya gantam ávase  
-prā́smai yachatam avr̥kám pr̥thú chardír  
-yuyutáṃ yā́ árātayaḥ  
+आ꣡ नून꣡म् अश्विना युवं꣡  
+वत्स꣡स्य गन्तम् अ꣡वसे  
+प्रा꣡स्मै यछतम् अवृक꣡म् पृथु꣡ छर्दि꣡र्  
+युयुतं꣡ या꣡ अ꣡रातयः  

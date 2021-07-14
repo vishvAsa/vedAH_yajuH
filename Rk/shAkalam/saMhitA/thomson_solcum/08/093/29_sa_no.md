@@ -2,6 +2,6 @@
 title = "029"
 
 +++
-sá no víśvāni ā́ bhara  
-suvitā́ni śatakrato  
-yád indra mr̥̄ḷáyāsi+ naḥ  
+स꣡ नो वि꣡श्वानि आ꣡ भर  
+सुविता꣡नि शतक्रतो  
+य꣡द् इन्द्र मॄऌअ꣡यासि+ नः  

@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-mr̥jānó vā́re pávamāno avyáye  
-vŕ̥ṣā́va cakrado váne  
-devā́nāṃ soma pavamāna niṣkr̥táṃ  
-góbhir añjānó arṣasi  
+मृजानो꣡ वा꣡रे प꣡वमानो अव्य꣡ये  
+व्ŕ̥षा꣡व चक्रदो व꣡ने  
+देवा꣡नां सोम पवमान निष्कृतं꣡  
+गो꣡भिर् अञ्जानो꣡ अर्षसि  

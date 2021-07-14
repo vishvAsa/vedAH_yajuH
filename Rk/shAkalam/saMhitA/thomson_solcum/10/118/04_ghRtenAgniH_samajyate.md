@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ghr̥ténāgníḥ sám ajyate  
-mádhupratīka ā́hutaḥ  
-rócamāno vibhā́vasuḥ  
+घृते꣡नाग्निः꣡ स꣡म् अज्यते  
+म꣡धुप्रतीक आ꣡हुतः  
+रो꣡चमानो विभा꣡वसुः  

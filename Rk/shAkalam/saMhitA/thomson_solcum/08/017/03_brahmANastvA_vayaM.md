@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-brahmā́ṇas tvā vayáṃ yujā́  
-somapā́m indra somínaḥ  
-sutā́vanto havāmahe  
+ब्रह्मा꣡णस् त्वा वयं꣡ युजा꣡  
+सोमपा꣡म् इन्द्र सोमि꣡नः  
+सुता꣡वन्तो हवामहे  

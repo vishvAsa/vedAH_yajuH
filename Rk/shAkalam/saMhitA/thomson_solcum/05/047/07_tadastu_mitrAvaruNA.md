@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tád astu mitrāvaruṇā tád agne  
-śáṃ yór asmábhyam idám astu śastám  
-aśīmáhi gādhám utá pratiṣṭhā́ṃ  
-námo divé br̥haté sā́danāya  
+त꣡द् अस्तु मित्रावरुणा त꣡द् अग्ने  
+शं꣡ यो꣡र् अस्म꣡भ्यम् इद꣡म् अस्तु शस्त꣡म्  
+अशीम꣡हि गाध꣡म् उत꣡ प्रतिष्ठां꣡  
+न꣡मो दिवे꣡ बृहते꣡ सा꣡दनाय  

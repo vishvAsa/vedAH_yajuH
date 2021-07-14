@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-devébhiyaḥ kám avr̥ṇīta mr̥tyúm  
-prajā́yai kám amŕ̥taṃ nā́vr̥ṇīta  
-bŕ̥haspátiṃ yajñám akr̥ṇvatá ŕ̥ṣim  
-priyā́ṃ yamás tanúvam prā́rirecīt  
+देवे꣡भियः क꣡म् अवृणीत मृत्यु꣡म्  
+प्रजा꣡यै क꣡म् अम्ŕ̥तं ना꣡वृणीत  
+ब्ŕ̥हस्प꣡तिं यज्ञ꣡म् अकृण्वत꣡ ŕ̥षिम्  
+प्रियां꣡ यम꣡स् तनु꣡वम् प्रा꣡रिरेचीत्  

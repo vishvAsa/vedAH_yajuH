@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-ná pūṣáṇam methāmasi  
-sūktaír abhí gr̥ṇīmasi  
-vásūni dasmám īmahe  
+न꣡ पूष꣡णम् मेथामसि  
+सूक्तइ꣡र् अभि꣡ गृणीमसि  
+व꣡सूनि दस्म꣡म् ईमहे  

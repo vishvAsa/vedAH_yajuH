@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-dhármaṇā mitrāvaruṇā vipaścitā  
-vratā́ rakṣethe ásurasya māyáyā  
-r̥téna víśvam bhúvanaṃ ví rājathaḥ  
-sū́ryam ā́ dhattho diví cítriyaṃ rátham  
+ध꣡र्मणा मित्रावरुणा विपश्चिता  
+व्रता꣡ रक्षेथे अ꣡सुरस्य माय꣡या  
+ऋते꣡न वि꣡श्वम् भु꣡वनं वि꣡ राजथः  
+सू꣡र्यम् आ꣡ धत्थो दिवि꣡ चि꣡त्रियं र꣡थम्  

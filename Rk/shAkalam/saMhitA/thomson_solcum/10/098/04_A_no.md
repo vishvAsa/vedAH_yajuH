@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ no drapsā́ mádhumanto viśantu  
-índra dehi ádhirathaṃ sahásram  
-ní ṣīda hotrám r̥tuthā́ yajasva  
-devā́n devāpe havíṣā saparya  
+आ꣡ नो द्रप्सा꣡ म꣡धुमन्तो विशन्तु  
+इ꣡न्द्र देहि अ꣡धिरथं सह꣡स्रम्  
+नि꣡ षीद होत्र꣡म् ऋतुथा꣡ यजस्व  
+देवा꣡न् देवापे हवि꣡षा सपर्य  

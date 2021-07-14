@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-syū́manā vācá úd iyarti váhni  
-stávāno rebhá uṣáso vibhātī́ḥ  
-adyā́ tád ucha gr̥ṇaté maghoni  
-asmé ā́yur ní didīhi prajā́vat  
+स्यू꣡मना वाच꣡ उ꣡द् इयर्ति व꣡ह्नि  
+स्त꣡वानो रेभ꣡ उष꣡सो विभातीः꣡  
+अद्या꣡ त꣡द् उछ गृणते꣡ मघोनि  
+अस्मे꣡ आ꣡युर् नि꣡ दिदीहि प्रजा꣡वत्  

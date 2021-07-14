@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-utá tváṃ sūno sahaso no adyá  
-ā́ devā́m̐ asmín adhvaré vavr̥tyāḥ  
-siyā́m aháṃ te sádam íd rātaú  
-táva syām agne ávasā suvī́raḥ  
+उत꣡ त्वं꣡ सूनो सहसो नो अद्य꣡  
+आ꣡ देवाँ꣡ अस्मि꣡न् अध्वरे꣡ ववृत्याः  
+सिया꣡म् अहं꣡ ते स꣡दम् इ꣡द् रातउ꣡  
+त꣡व स्याम् अग्ने अ꣡वसा सुवी꣡रः  

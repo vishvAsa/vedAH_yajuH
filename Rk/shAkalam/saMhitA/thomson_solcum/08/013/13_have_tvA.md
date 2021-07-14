@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-háve tvā sū́ra údite  
-háve madhyáṃdine diváḥ  
-juṣāṇá indra sáptibhir na ā́ gahi  
+ह꣡वे त्वा सू꣡र उ꣡दिते  
+ह꣡वे मध्यं꣡दिने दिवः꣡  
+जुषाण꣡ इन्द्र स꣡प्तिभिर् न आ꣡ गहि  

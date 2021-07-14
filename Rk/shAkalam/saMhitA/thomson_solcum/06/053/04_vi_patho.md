@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ví pathó vā́jasātaye  
-cinuhí ví mŕ̥dho jahi  
-sā́dhantām ugra no dhíyaḥ  
+वि꣡ पथो꣡ वा꣡जसातये  
+चिनुहि꣡ वि꣡ म्ŕ̥धो जहि  
+सा꣡धन्ताम् उग्र नो धि꣡यः  

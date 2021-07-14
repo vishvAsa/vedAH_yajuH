@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yuṣmā́kam budhné apā́ṃ ná yā́mani  
-vithuryáti ná mahī́ śratharyáti  
-viśvápsur yajñó arvā́g ayáṃ sú vaḥ  
-práyasvanto ná satrā́ca ā́ gata  
+युष्मा꣡कम् बुध्ने꣡ अपां꣡ न꣡ या꣡मनि  
+विथुर्य꣡ति न꣡ मही꣡ श्रथर्य꣡ति  
+विश्व꣡प्सुर् यज्ञो꣡ अर्वा꣡ग् अयं꣡ सु꣡ वः  
+प्र꣡यस्वन्तो न꣡ सत्रा꣡च आ꣡ गत  

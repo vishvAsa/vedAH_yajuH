@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yád īṃ sutā́sa índavo  
-abhí priyám ámandiṣuḥ  
-ā́po ná dhāyi sávanam ma ā́ vaso  
-dúghā ivópa dāśúṣe  
+य꣡द् ईं सुता꣡स इ꣡न्दवो  
+अभि꣡ प्रिय꣡म् अ꣡मन्दिषुः  
+आ꣡पो न꣡ धायि स꣡वनम् म आ꣡ वसो  
+दु꣡घा इवो꣡प दाशु꣡षे  

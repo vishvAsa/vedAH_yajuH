@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mó ṣú ṇaḥ soma mr̥tyáve párā dāḥ  
-páśyema nú sū́riyam uccárantam  
-dyúbhir hitó jarimā́ sū́ no astu  
-parātaráṃ sú nírr̥tir jihītām  
+मो꣡ षु꣡ णः सोम मृत्य꣡वे प꣡रा दाः  
+प꣡श्येम नु꣡ सू꣡रियम् उच्च꣡रन्तम्  
+द्यु꣡भिर् हितो꣡ जरिमा꣡ सू꣡ नो अस्तु  
+परातरं꣡ सु꣡ नि꣡रृतिर् जिहीताम्  

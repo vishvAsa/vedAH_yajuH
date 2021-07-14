@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ā́ daíviyāni pā́rthivāni jánma  
-apáś ca áchā súmakhāya vocam  
-várdhantāṃ dyā́vo gíraś candráagrā  
-udā́ vardhantām abhíṣātā árṇāḥ  
+आ꣡ दइ꣡वियानि पा꣡र्थिवानि ज꣡न्म  
+अप꣡श् च अ꣡छा सु꣡मखाय वोचम्  
+व꣡र्धन्तां द्या꣡वो गि꣡रश् चन्द्र꣡अग्रा  
+उदा꣡ वर्धन्ताम् अभि꣡षाता अ꣡र्णाः  

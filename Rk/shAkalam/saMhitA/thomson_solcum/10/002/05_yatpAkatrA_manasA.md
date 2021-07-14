@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yát pākatrā́ mánasā dīnádakṣā  
-ná yajñásya manvaté mártiyāsaḥ  
-agníṣ ṭád dhótā kratuvíd vijānán  
-yájiṣṭho devā́m̐ r̥tuśó yajāti  
+य꣡त् पाकत्रा꣡ म꣡नसा दीन꣡दक्षा  
+न꣡ यज्ञ꣡स्य मन्वते꣡ म꣡र्तियासः  
+अग्नि꣡ष् ट꣡द् धो꣡ता क्रतुवि꣡द् विजान꣡न्  
+य꣡जिष्ठो देवाँ꣡ ऋतुशो꣡ यजाति  

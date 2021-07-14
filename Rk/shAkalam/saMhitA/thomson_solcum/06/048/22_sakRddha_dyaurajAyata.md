@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-sakŕ̥d dha dyaúr ajāyata  
-sakŕ̥d bhū́mir ajāyata  
-pŕ̥śnyā dugdháṃ sakŕ̥t páyas  
-tád anyó nā́nu jāyate  
+सक्ŕ̥द् ध द्यउ꣡र् अजायत  
+सक्ŕ̥द् भू꣡मिर् अजायत  
+प्ŕ̥श्न्या दुग्धं꣡ सक्ŕ̥त् प꣡यस्  
+त꣡द् अन्यो꣡ ना꣡नु जायते  

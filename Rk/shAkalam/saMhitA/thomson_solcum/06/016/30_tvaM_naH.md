@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-tuváṃ naḥ pāhi áṃhaso  
-jā́tavedo aghāyatáḥ  
-rákṣā ṇo brahmaṇas kave  
+तुवं꣡ नः पाहि अं꣡हसो  
+जा꣡तवेदो अघायतः꣡  
+र꣡क्षा णो ब्रह्मणस् कवे  

@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-tuvé sú putra śavaso  
-ávr̥tran kā́makātayaḥ  
-ná tvā́m indrā́ti ricyate  
+तुवे꣡ सु꣡ पुत्र शवसो  
+अ꣡वृत्रन् का꣡मकातयः  
+न꣡ त्वा꣡म् इन्द्रा꣡ति रिच्यते  

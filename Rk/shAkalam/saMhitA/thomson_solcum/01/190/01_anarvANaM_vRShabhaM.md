@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-anarvā́ṇaṃ vr̥ṣabhám mandrájihvam  
-bŕ̥haspátiṃ vardhayā návyam arkaíḥ  
-gāthāníyaḥ surúco yásya devā́  
-āśr̥ṇvánti návamānasya mártāḥ  
+अनर्वा꣡णं वृषभ꣡म् मन्द्र꣡जिह्वम्  
+ब्ŕ̥हस्प꣡तिं वर्धया न꣡व्यम् अर्कइः꣡  
+गाथानि꣡यः सुरु꣡चो य꣡स्य देवा꣡  
+आशृण्व꣡न्ति न꣡वमानस्य म꣡र्ताः  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-daśasyā́ naḥ puruaṇīka hotar  
-devébhir agne agníbhir idhānáḥ  
-rāyáḥ sūno sahaso vāvasānā́  
-áti srasema vr̥jánaṃ ná áṃhaḥ  
+दशस्या꣡ नः पुरुअणीक होतर्  
+देवे꣡भिर् अग्ने अग्नि꣡भिर् इधानः꣡  
+रायः꣡ सूनो सहसो वावसाना꣡  
+अ꣡ति स्रसेम वृज꣡नं न꣡ अं꣡हः  

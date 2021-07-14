@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-prá śárdha ārta prathamáṃ vipanyā́m̐  
-r̥tásya yónā vr̥ṣabhásya nīḷé  
-spārhó yúvā vapuṣíyo vibhā́vā  
-saptá priyā́so 'janayanta vŕ̥ṣṇe  
+प्र꣡ श꣡र्ध आर्त प्रथमं꣡ विपन्याँ꣡  
+ऋत꣡स्य यो꣡ना वृषभ꣡स्य नीऌए꣡  
+स्पार्हो꣡ यु꣡वा वपुषि꣡यो विभा꣡वा  
+सप्त꣡ प्रिया꣡सो ऽजनयन्त व्ŕ̥ष्णे  

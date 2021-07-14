@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-abhí priyā́ṇi pavate cánohito  
-nā́māni yahvó ádhi yéṣu várdhate  
-ā́ sū́riyasya br̥ható br̥hánn ádhi  
-ráthaṃ víṣvañcam aruhad vicakṣaṇáḥ  
+अभि꣡ प्रिया꣡णि पवते च꣡नोहितो  
+ना꣡मानि यह्वो꣡ अ꣡धि ये꣡षु व꣡र्धते  
+आ꣡ सू꣡रियस्य बृहतो꣡ बृह꣡न्न् अ꣡धि  
+र꣡थं वि꣡ष्वञ्चम् अरुहद् विचक्षणः꣡  

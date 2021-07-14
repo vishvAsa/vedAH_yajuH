@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-ā́ te dadhāmi indriyám  
-ukthā́ víśvā śatakrato  
-stotŕ̥bhya indra mr̥̄ḷaya+  
+आ꣡ ते दधामि इन्द्रिय꣡म्  
+उक्था꣡ वि꣡श्वा शतक्रतो  
+स्तोत्ŕ̥भ्य इन्द्र मॄऌअय+  

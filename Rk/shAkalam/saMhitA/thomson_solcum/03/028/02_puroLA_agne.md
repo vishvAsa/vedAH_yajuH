@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-puroḷā́ agne pacatás  
-túbhyaṃ vā ghā páriṣkr̥taḥ  
-táṃ juṣasva yaviṣṭhiya  
+पुरोऌआ꣡ अग्ने पचत꣡स्  
+तु꣡भ्यं वा घा प꣡रिष्कृतः  
+तं꣡ जुषस्व यविष्ठिय  

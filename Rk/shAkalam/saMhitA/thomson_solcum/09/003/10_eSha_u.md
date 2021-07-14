@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-eṣá u syá puruvrató  
-jajñānó janáyann íṣaḥ  
-dhā́rayā pavate sutáḥ  
+एष꣡ उ स्य꣡ पुरुव्रतो꣡  
+जज्ञानो꣡ जन꣡यन्न् इ꣡षः  
+धा꣡रया पवते सुतः꣡  

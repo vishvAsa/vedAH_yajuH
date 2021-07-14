@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-avaṃśé dyā́m astabhāyad br̥hántam  
-ā́ ródasī apr̥ṇad antárikṣam  
-sá dhārayat pr̥thivī́m papráthac ca  
-sómasya tā́ máda índraś cakāra  
+अवंशे꣡ द्या꣡म् अस्तभायद् बृह꣡न्तम्  
+आ꣡ रो꣡दसी अपृणद् अन्त꣡रिक्षम्  
+स꣡ धारयत् पृथिवी꣡म् पप्र꣡थच् च  
+सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार  

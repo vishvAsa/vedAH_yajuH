@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-abhī́ na ā́ vavr̥tsuva  
-cakráṃ ná vr̥ttám árvataḥ  
-niyúdbhiś carṣaṇīnã́m  
+अभी꣡ न आ꣡ ववृत्सुव  
+चक्रं꣡ न꣡ वृत्त꣡म् अ꣡र्वतः  
+नियु꣡द्भिश् चर्षणीन्ã꣡म्  

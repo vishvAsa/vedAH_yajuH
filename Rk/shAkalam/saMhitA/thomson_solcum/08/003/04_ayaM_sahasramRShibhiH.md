@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ayáṃ sahásram ŕ̥ṣibhiḥ sáhaskr̥taḥ  
-samudrá iva paprathe  
-satyáḥ só asya mahimā́ gr̥ṇe śávo  
-yajñéṣu viprarā́jiye  
+अयं꣡ सह꣡स्रम् ŕ̥षिभिः स꣡हस्कृतः  
+समुद्र꣡ इव पप्रथे  
+सत्यः꣡ सो꣡ अस्य महिमा꣡ गृणे श꣡वो  
+यज्ञे꣡षु विप्ररा꣡जिये  

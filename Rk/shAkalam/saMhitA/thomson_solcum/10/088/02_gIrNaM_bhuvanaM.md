@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-gīrṇám bhúvanaṃ támasā́pagūḷham  
-āvíḥ súvar abhavaj jāté agnaú  
-tásya devā́ḥ pr̥thivī́ dyaúr utā́po  
-áraṇayann óṣadhīḥ sakhyé asya  
+गीर्ण꣡म् भु꣡वनं त꣡मसा꣡पगूऌहम्  
+आविः꣡ सु꣡वर् अभवज् जाते꣡ अग्नउ꣡  
+त꣡स्य देवाः꣡ पृथिवी꣡ द्यउ꣡र् उता꣡पो  
+अ꣡रणयन्न् ओ꣡षधीः सख्ये꣡ अस्य  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ā́ tú aśatrav ā́ gahi  
-ní ukthā́ni ca hūyase  
-upamé rocané diváḥ  
+आ꣡ तु꣡ अशत्रव् आ꣡ गहि  
+नि꣡ उक्था꣡नि च हूयसे  
+उपमे꣡ रोचने꣡ दिवः꣡  

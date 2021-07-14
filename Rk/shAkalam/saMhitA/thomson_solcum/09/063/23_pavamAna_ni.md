@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-pávamāna ní tośase  
-rayíṃ soma śravā́yiyam  
-priyáḥ samudrám ā́ viśa  
+प꣡वमान नि꣡ तोशसे  
+रयिं꣡ सोम श्रवा꣡यियम्  
+प्रियः꣡ समुद्र꣡म् आ꣡ विश  

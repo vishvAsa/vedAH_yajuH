@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-mahā́m̐ asi soma jyéṣṭha  
-ugrā́ṇām inda ójiṣṭhaḥ  
-yúdhvā sáñ cháśvaj jigetha  
+महाँ꣡ असि सोम ज्ये꣡ष्ठ  
+उग्रा꣡णाम् इन्द ओ꣡जिष्ठः  
+यु꣡ध्वा स꣡ञ् छ꣡श्वज् जिगेथ  

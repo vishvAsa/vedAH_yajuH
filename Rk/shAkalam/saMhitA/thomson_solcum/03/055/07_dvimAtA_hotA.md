@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-dvimātā́ hótā vidátheṣu samrā́ḷ  
-ánu ágraṃ cárati kṣéti budhnáḥ  
-prá ráṇyāni raṇyavā́co bharante  
-mahád devā́nām asuratvám ékam  
+द्विमाता꣡ हो꣡ता विद꣡थेषु सम्रा꣡ऌ  
+अ꣡नु अ꣡ग्रं च꣡रति क्षे꣡ति बुध्नः꣡  
+प्र꣡ र꣡ण्यानि रण्यवा꣡चो भरन्ते  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

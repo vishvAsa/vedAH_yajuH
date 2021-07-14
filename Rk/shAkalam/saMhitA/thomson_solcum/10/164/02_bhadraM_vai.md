@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-bhadráṃ vaí váraṃ vr̥ṇate  
-bhadráṃ yuñjanti dákṣiṇam  
-bhadráṃ vaivasvaté cákṣur  
-bahutrā́ jī́vato mánaḥ  
+भद्रं꣡ वइ꣡ व꣡रं वृणते  
+भद्रं꣡ युञ्जन्ति द꣡क्षिणम्  
+भद्रं꣡ वैवस्वते꣡ च꣡क्षुर्  
+बहुत्रा꣡ जी꣡वतो म꣡नः  

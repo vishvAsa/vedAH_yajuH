@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ádrogham ā́ vahośató yaviṣṭhiya  
-devā́m̐ ajasra vītáye  
-abhí práyāṃsi súdhitā́ vaso gahi  
-mándasva dhītíbhir hitáḥ  
+अ꣡द्रोघम् आ꣡ वहोशतो꣡ यविष्ठिय  
+देवाँ꣡ अजस्र वीत꣡ये  
+अभि꣡ प्र꣡यांसि सु꣡धिता꣡ वसो गहि  
+म꣡न्दस्व धीति꣡भिर् हितः꣡  

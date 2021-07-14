@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-śāsá itthā́ mahā́m̐ asi  
-amitrakhādó ádbhutaḥ  
-ná yásya hanyáte sákhā  
-ná jī́yate kádā caná  
+शास꣡ इत्था꣡ महाँ꣡ असि  
+अमित्रखादो꣡ अ꣡द्भुतः  
+न꣡ य꣡स्य हन्य꣡ते स꣡खा  
+न꣡ जी꣡यते क꣡दा चन꣡  

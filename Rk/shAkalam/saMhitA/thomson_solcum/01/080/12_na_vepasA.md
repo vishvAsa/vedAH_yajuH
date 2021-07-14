@@ -2,8 +2,8 @@
 title = "012"
 
 +++
-ná vépasā ná tanyatā́  
-índraṃ vr̥tró ví bībhayat  
-abhy ènaṃ vájra āyasáḥ  
-sahásrabhr̥ṣṭir āyata  
-árcann ánu svarā́jiyam  
+न꣡ वे꣡पसा न꣡ तन्यता꣡  
+इ꣡न्द्रं वृत्रो꣡ वि꣡ बीभयत्  
+अभ्य् ए᳡नं व꣡ज्र आयसः꣡  
+सह꣡स्रभृष्टिर् आयत  
+अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्  

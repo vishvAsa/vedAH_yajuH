@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-r̥cā́ kapótaṃ nudata praṇódam  
-íṣam mádantaḥ pári gā́ṃ nayadhvam  
-saṃyopáyanto duritā́ni víśvā  
-hitvā́ na ū́rjam prá patāt pátiṣṭhaḥ  
+ऋचा꣡ कपो꣡तं नुदत प्रणो꣡दम्  
+इ꣡षम् म꣡दन्तः प꣡रि गां꣡ नयध्वम्  
+संयोप꣡यन्तो दुरिता꣡नि वि꣡श्वा  
+हित्वा꣡ न ऊ꣡र्जम् प्र꣡ पतात् प꣡तिष्ठः  

@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-yā́bhiḥ kr̥śā́num ásane duvasyátho  
-javé yā́bhir yū́no árvantam ā́vatam  
-mádhu priyám bharatho yát saráḍbhiyas  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिः कृशा꣡नुम् अ꣡सने दुवस्य꣡थो  
+जवे꣡ या꣡भिर् यू꣡नो अ꣡र्वन्तम् आ꣡वतम्  
+म꣡धु प्रिय꣡म् भरथो य꣡त् सर꣡ड्भियस्  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

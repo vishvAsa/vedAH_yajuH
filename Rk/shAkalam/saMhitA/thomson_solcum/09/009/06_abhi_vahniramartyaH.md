@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-abhí váhnir ámartiyaḥ  
-saptá paśyati vā́vahiḥ  
-krívir devī́r atarpayat  
+अभि꣡ व꣡ह्निर् अ꣡मर्तियः  
+सप्त꣡ पश्यति वा꣡वहिः  
+क्रि꣡विर् देवी꣡र् अतर्पयत्  

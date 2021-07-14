@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-nítyastotro vánaspátir  
-dhīnā́m antáḥ sabardúghaḥ  
-hinvānó mā́nuṣā yugā́  
+नि꣡त्यस्तोत्रो व꣡नस्प꣡तिर्  
+धीना꣡म् अन्तः꣡ सबर्दु꣡घः  
+हिन्वानो꣡ मा꣡नुषा युगा꣡  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ayáṃ te stómo agriyó  
-hr̥dispŕ̥g astu śáṃtamaḥ  
-áthā sómaṃ sutám piba  
+अयं꣡ ते स्तो꣡मो अग्रियो꣡  
+हृदिस्प्ŕ̥ग् अस्तु शं꣡तमः  
+अ꣡था सो꣡मं सुत꣡म् पिब  

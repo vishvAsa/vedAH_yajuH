@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áchā hí sómaḥ kaláśām̐ ásiṣyadad  
-átyo ná vóḷhā raghúvartanir vŕ̥ṣā  
-áthā devā́nām ubháyasya jánmano  
-vidvā́m̐ aśnoti amúta itáś ca yát  
+अ꣡छा हि꣡ सो꣡मः कल꣡शाँ अ꣡सिष्यदद्  
+अ꣡त्यो न꣡ वो꣡ऌहा रघु꣡वर्तनिर् व्ŕ̥षा  
+अ꣡था देवा꣡नाम् उभ꣡यस्य ज꣡न्मनो  
+विद्वाँ꣡ अश्नोति अमु꣡त इत꣡श् च य꣡त्  

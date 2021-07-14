@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ no mitra sudītíbhir  
-váruṇaś ca sadhástha ā́  
-suvé kṣáye maghónãṃ  
-sákhīnãṃ ca vr̥dháse  
+आ꣡ नो मित्र सुदीति꣡भिर्  
+व꣡रुणश् च सध꣡स्थ आ꣡  
+सुवे꣡ क्ष꣡ये मघो꣡न्ãं  
+स꣡खीन्ãं च वृध꣡से  

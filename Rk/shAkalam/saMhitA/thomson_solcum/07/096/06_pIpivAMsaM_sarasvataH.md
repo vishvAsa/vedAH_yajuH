@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-pīpivā́ṃsaṃ sárasvata  
-stánaṃ yó viśvádarśataḥ  
-bhakṣīmáhi prajā́m íṣam  
+पीपिवां꣡सं स꣡रस्वत  
+स्त꣡नं यो꣡ विश्व꣡दर्शतः  
+भक्षीम꣡हि प्रजा꣡म् इ꣡षम्  

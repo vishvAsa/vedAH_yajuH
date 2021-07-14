@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-tā́bhir ā́ gachataṃ narā  
-úpedáṃ sávanaṃ sutám  
-índrāgnī sómapītaye  
+ता꣡भिर् आ꣡ गछतं नरा  
+उ꣡पेदं꣡ स꣡वनं सुत꣡म्  
+इ꣡न्द्राग्नी सो꣡मपीतये  

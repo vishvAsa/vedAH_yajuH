@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-úṣo maghoni ā́ vaha  
-sū́nr̥te vā́riyā purú  
-asmábhyaṃ vājinīvati  
+उ꣡षो मघोनि आ꣡ वह  
+सू꣡नृते वा꣡रिया पुरु꣡  
+अस्म꣡भ्यं वाजिनीवति  

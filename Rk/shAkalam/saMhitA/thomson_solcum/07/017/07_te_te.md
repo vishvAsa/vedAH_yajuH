@@ -2,5 +2,5 @@
 title = "007"
 
 +++
-té te devā́ya dā́śataḥ siyāma  
-mahó no rátnā ví dadha iyānáḥ  
+ते꣡ ते देवा꣡य दा꣡शतः सियाम  
+महो꣡ नो र꣡त्ना वि꣡ दध इयानः꣡  

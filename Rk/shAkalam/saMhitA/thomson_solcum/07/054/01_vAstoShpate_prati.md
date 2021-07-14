@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vā́stoṣ pate práti jānīhi asmā́n  
-suāveśó anamīvó bhavā naḥ  
-yát tvémahe práti tán no juṣasva  
-śáṃ no bhava dvipáde śáṃ cátuṣpade  
+वा꣡स्तोष् पते प्र꣡ति जानीहि अस्मा꣡न्  
+सुआवेशो꣡ अनमीवो꣡ भवा नः  
+य꣡त् त्वे꣡महे प्र꣡ति त꣡न् नो जुषस्व  
+शं꣡ नो भव द्विप꣡दे शं꣡ च꣡तुष्पदे  

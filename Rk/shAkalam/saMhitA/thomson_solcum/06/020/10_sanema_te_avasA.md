@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sanéma te ávasā návya indra  
-prá pūráva stavanta enā́ yajñaíḥ  
-saptá yát púraḥ śárma śā́radīr dárd  
-dhán dã́sīḥ purukútsāya śíkṣan  
+सने꣡म ते अ꣡वसा न꣡व्य इन्द्र  
+प्र꣡ पूर꣡व स्तवन्त एना꣡ यज्ञइः꣡  
+सप्त꣡ य꣡त् पु꣡रः श꣡र्म शा꣡रदीर् द꣡र्द्  
+ध꣡न् द्ã꣡सीः पुरुकु꣡त्साय शि꣡क्षन्  

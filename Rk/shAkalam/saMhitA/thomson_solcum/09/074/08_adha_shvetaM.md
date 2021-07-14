@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ádha śvetáṃ kaláśaṃ góbhir aktáṃ  
-kā́rṣmann ā́ vājī́ akramīt sasavā́n  
-ā́ hinvire mánasā devayántaḥ  
-kakṣī́vate śatáhimāya gónām  
+अ꣡ध श्वेतं꣡ कल꣡शं गो꣡भिर् अक्तं꣡  
+का꣡र्ष्मन्न् आ꣡ वाजी꣡ अक्रमीत् ससवा꣡न्  
+आ꣡ हिन्विरे म꣡नसा देवय꣡न्तः  
+कक्षी꣡वते शत꣡हिमाय गो꣡नाम्  

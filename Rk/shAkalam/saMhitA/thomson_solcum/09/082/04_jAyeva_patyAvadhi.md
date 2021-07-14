@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-jāyéva pátyāv ádhi śéva maṃhase  
-pájrāyā garbha śr̥ṇuhí brávīmi te  
-antár vā́ṇīṣu prá carā sú jīváse  
-anindiyó vr̥jáne soma jāgr̥hi  
+जाये꣡व प꣡त्याव् अ꣡धि शे꣡व मंहसे  
+प꣡ज्राया गर्भ शृणुहि꣡ ब्र꣡वीमि ते  
+अन्त꣡र् वा꣡णीषु प्र꣡ चरा सु꣡ जीव꣡से  
+अनिन्दियो꣡ वृज꣡ने सोम जागृहि  

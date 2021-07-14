@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-gambhīrā́m̐ udadhī́m̐r iva  
-krátum puṣyasi gā́ iva  
-prá sugopā́ yávasaṃ dhenávo yathā  
-hradáṃ kulyā́ ivāśata  
+गम्भीराँ꣡ उदधीँ꣡र् इव  
+क्र꣡तुम् पुष्यसि गा꣡ इव  
+प्र꣡ सुगोपा꣡ य꣡वसं धेन꣡वो यथा  
+ह्रदं꣡ कुल्या꣡ इवाशत  

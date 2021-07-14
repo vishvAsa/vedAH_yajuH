@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-prá só agne távotíbhiḥ  
-suvī́rābhis tirate vā́jabharmabhiḥ  
-yásya tváṃ sakhyám āváraḥ  
+प्र꣡ सो꣡ अग्ने त꣡वोति꣡भिः  
+सुवी꣡राभिस् तिरते वा꣡जभर्मभिः  
+य꣡स्य त्वं꣡ सख्य꣡म् आव꣡रः  

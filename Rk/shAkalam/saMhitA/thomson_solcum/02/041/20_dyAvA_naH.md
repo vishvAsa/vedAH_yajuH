@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-dyā́vā naḥ pr̥thivī́ imáṃ  
-sidhrám adyá divispŕ̥śam  
-yajñáṃ devéṣu yachatām  
+द्या꣡वा नः पृथिवी꣡ इमं꣡  
+सिध्र꣡म् अद्य꣡ दिविस्प्ŕ̥शम्  
+यज्ञं꣡ देवे꣡षु यछताम्  

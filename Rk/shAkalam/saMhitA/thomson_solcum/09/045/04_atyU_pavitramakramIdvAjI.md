@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-áty ū pavítram akramīd  
-vājī́ dhúraṃ ná yā́mani  
-índur devéṣu patyate  
+अ꣡त्य् ऊ पवि꣡त्रम् अक्रमीद्  
+वाजी꣡ धु꣡रं न꣡ या꣡मनि  
+इ꣡न्दुर् देवे꣡षु पत्यते  

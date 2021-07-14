@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-agníṃ hótāram prá vr̥ṇe miyédhe  
-gŕ̥tsaṃ kavíṃ viśvavídam ámūram  
-sá no yakṣad devátātā yájīyān  
-rāyé vā́jāya vanate maghā́ni  
+अग्निं꣡ हो꣡तारम् प्र꣡ वृणे मिये꣡धे  
+ग्ŕ̥त्सं कविं꣡ विश्ववि꣡दम् अ꣡मूरम्  
+स꣡ नो यक्षद् देव꣡ताता य꣡जीयान्  
+राये꣡ वा꣡जाय वनते मघा꣡नि  

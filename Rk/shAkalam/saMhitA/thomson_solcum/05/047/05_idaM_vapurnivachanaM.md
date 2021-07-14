@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-idáṃ vápur nivácanaṃ janāsaś  
-cáranti yán nadíyas tasthúr ā́paḥ  
-duvé yád īm bibhr̥tó mātúr anyé  
-ihéha jāté yamíyā sábandhū  
+इदं꣡ व꣡पुर् निव꣡चनं जनासश्  
+च꣡रन्ति य꣡न् नदि꣡यस् तस्थु꣡र् आ꣡पः  
+दुवे꣡ य꣡द् ईम् बिभृतो꣡ मातु꣡र् अन्ये꣡  
+इहे꣡ह जाते꣡ यमि꣡या स꣡बन्धू  

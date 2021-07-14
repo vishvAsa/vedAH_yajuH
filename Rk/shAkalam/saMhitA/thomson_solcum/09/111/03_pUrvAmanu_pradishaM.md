@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-pū́rvām ánu pradíśaṃ yāti cékitat  
-sáṃ raśmíbhir yatate darśató rátho  
-daíviyo darśató ráthaḥ  
-ágmann ukthā́ni paúṃsiyā  
-índraṃ jaítrāya harṣayan  
-vájraś ca yád bhávatho ánapacyutā  
-samátsu ánapacyutā  
+पू꣡र्वाम् अ꣡नु प्रदि꣡शं याति चे꣡कितत्  
+सं꣡ रश्मि꣡भिर् यतते दर्शतो꣡ र꣡थो  
+दइ꣡वियो दर्शतो꣡ र꣡थः  
+अ꣡ग्मन्न् उक्था꣡नि पउं꣡सिया  
+इ꣡न्द्रं जइ꣡त्राय हर्षयन्  
+व꣡ज्रश् च य꣡द् भ꣡वथो अ꣡नपच्युता  
+सम꣡त्सु अ꣡नपच्युता  

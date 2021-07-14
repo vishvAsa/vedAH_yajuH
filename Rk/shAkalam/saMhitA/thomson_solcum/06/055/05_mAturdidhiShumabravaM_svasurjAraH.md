@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-mātúr didhiṣúm abravaṃ  
-svásur jāráḥ śr̥ṇotu naḥ  
-bhrā́téndrasya sákhā máma  
+मातु꣡र् दिधिषु꣡म् अब्रवं  
+स्व꣡सुर् जारः꣡ शृणोतु नः  
+भ्रा꣡ते꣡न्द्रस्य स꣡खा म꣡म  

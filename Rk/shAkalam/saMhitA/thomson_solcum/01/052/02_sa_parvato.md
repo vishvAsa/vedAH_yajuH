@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá párvato ná dharúṇeṣu ácyutaḥ  
-sahásramūtis táviṣīṣu vāvr̥dhe  
-índro yád vr̥trám ávadhīn nadīvŕ̥tam  
-ubjánn árṇāṃsi járhr̥ṣāṇo ándhasā  
+स꣡ प꣡र्वतो न꣡ धरु꣡णेषु अ꣡च्युतः  
+सह꣡स्रमूतिस् त꣡विषीषु वावृधे  
+इ꣡न्द्रो य꣡द् वृत्र꣡म् अ꣡वधीन् नदीव्ŕ̥तम्  
+उब्ज꣡न्न् अ꣡र्णांसि ज꣡र्हृषाणो अ꣡न्धसा  

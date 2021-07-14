@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-prātáḥ sutám apibo hariaśva  
-mā́dhyaṃdinaṃ sávanaṃ kévalaṃ te  
-sám r̥bhúbhiḥ pibasva ratnadhébhiḥ  
-sákhīm̐r yā́m̐ indra cakr̥ṣé sukr̥tyā́  
+प्रातः꣡ सुत꣡म् अपिबो हरिअश्व  
+मा꣡ध्यंदिनं स꣡वनं के꣡वलं ते  
+स꣡म् ऋभु꣡भिः पिबस्व रत्नधे꣡भिः  
+स꣡खीँर् याँ꣡ इन्द्र चकृषे꣡ सुकृत्या꣡  

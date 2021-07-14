@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ vām áśvāsaḥ suyújo vahantu  
-yatáraśmaya úpa yantu arvā́k  
-ghr̥tásya nirṇíg ánu vartate vām  
-úpa síndhavaḥ pradívi kṣaranti  
+आ꣡ वाम् अ꣡श्वासः सुयु꣡जो वहन्तु  
+यत꣡रश्मय उ꣡प यन्तु अर्वा꣡क्  
+घृत꣡स्य निर्णि꣡ग् अ꣡नु वर्तते वाम्  
+उ꣡प सि꣡न्धवः प्रदि꣡वि क्षरन्ति  

@@ -2,5 +2,5 @@
 title = "004"
 
 +++
-bhájanta víśve devatváṃ nā́ma  
-r̥táṃ sápanto amŕ̥tam évaiḥ  
+भ꣡जन्त वि꣡श्वे देवत्वं꣡ ना꣡म  
+ऋतं꣡ स꣡पन्तो अम्ŕ̥तम् ए꣡वैः  

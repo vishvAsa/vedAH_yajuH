@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-hinvánti sū́ram úsrayaḥ  
-pávamānam madhuścútam  
-abhí girā́ sám asvaran  
+हिन्व꣡न्ति सू꣡रम् उ꣡स्रयः  
+प꣡वमानम् मधुश्चु꣡तम्  
+अभि꣡ गिरा꣡ स꣡म् अस्वरन्  

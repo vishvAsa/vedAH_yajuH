@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-vájreṇa hí vr̥trahā́ vr̥trám ástar  
-ádevasya śū́śuvānasya māyā́ḥ  
-ví dhr̥ṣṇo átra dhr̥ṣatā́ jaghantha  
-áthābhavo maghavan bāhúojāḥ  
+व꣡ज्रेण हि꣡ वृत्रहा꣡ वृत्र꣡म् अ꣡स्तर्  
+अ꣡देवस्य शू꣡शुवानस्य मायाः꣡  
+वि꣡ धृष्णो अ꣡त्र धृषता꣡ जघन्थ  
+अ꣡थाभवो मघवन् बाहु꣡ओजाः  

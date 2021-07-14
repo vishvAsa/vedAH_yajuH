@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yáṃ devāso ávatha vā́jasātau  
-yáṃ trā́yadhve yám pipr̥thā́ti áṃhaḥ  
-yó vo gopīthé ná bhayásya véda  
-té syāma devávītaye turāsaḥ  
+यं꣡ देवासो अ꣡वथ वा꣡जसातौ  
+यं꣡ त्रा꣡यध्वे य꣡म् पिपृथा꣡ति अं꣡हः  
+यो꣡ वो गोपीथे꣡ न꣡ भय꣡स्य वे꣡द  
+ते꣡ स्याम देव꣡वीतये तुरासः  

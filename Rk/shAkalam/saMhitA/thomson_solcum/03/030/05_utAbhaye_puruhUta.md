@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-utā́bhaye puruhūta śrávobhir  
-éko dr̥̄ḷhám+ avado vr̥trahā́ sán  
-imé cid indra ródasī apāré  
-yát saṃgr̥bhṇā́ maghavan kāśír ít te  
+उता꣡भये पुरुहूत श्र꣡वोभिर्  
+ए꣡को दॄऌह꣡म्+ अवदो वृत्रहा꣡ स꣡न्  
+इमे꣡ चिद् इन्द्र रो꣡दसी अपारे꣡  
+य꣡त् संगृभ्णा꣡ मघवन् काशि꣡र् इ꣡त् ते  

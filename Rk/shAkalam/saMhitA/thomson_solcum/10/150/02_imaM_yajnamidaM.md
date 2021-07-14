@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-imáṃ yajñám idáṃ váco  
-jujuṣāṇá upā́gahi  
-mártāsas tvā samidhāna havāmahe  
-mr̥̄ḷīkā́ya+ havāmahe  
+इमं꣡ यज्ञ꣡म् इदं꣡ व꣡चो  
+जुजुषाण꣡ उपा꣡गहि  
+म꣡र्तासस् त्वा समिधान हवामहे  
+मॄऌईका꣡य+ हवामहे  

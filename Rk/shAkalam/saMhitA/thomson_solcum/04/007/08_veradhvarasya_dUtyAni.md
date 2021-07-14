@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-vér adhvarásya dūtíyāni vidvā́n  
-ubhé antā́ ródasī saṃcikitvā́n  
-dūtá īyase pradíva urāṇó  
-vidúṣṭaro divá āródhanāni  
+वे꣡र् अध्वर꣡स्य दूति꣡यानि विद्वा꣡न्  
+उभे꣡ अन्ता꣡ रो꣡दसी संचिकित्वा꣡न्  
+दूत꣡ ईयसे प्रदि꣡व उराणो꣡  
+विदु꣡ष्टरो दिव꣡ आरो꣡धनानि  

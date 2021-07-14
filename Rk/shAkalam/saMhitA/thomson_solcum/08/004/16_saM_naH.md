@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-sáṃ naḥ śiśīhi bhuríjor iva kṣuráṃ  
-rā́sva rāyó vimocana  
-tuvé tán naḥ suvédam usríyaṃ vásu  
-yáṃ tváṃ hinóṣi mártiyam  
+सं꣡ नः शिशीहि भुरि꣡जोर् इव क्षुरं꣡  
+रा꣡स्व रायो꣡ विमोचन  
+तुवे꣡ त꣡न् नः सुवे꣡दम् उस्रि꣡यं व꣡सु  
+यं꣡ त्वं꣡ हिनो꣡षि म꣡र्तियम्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índrāsomā tápataṃ rákṣa ubjátaṃ  
-ní arpayataṃ vr̥ṣaṇā tamovŕ̥dhaḥ  
-párā śr̥ṇītam acíto ní oṣataṃ  
-hatáṃ nudéthāṃ ní śiśītam atríṇaḥ  
+इ꣡न्द्रासोमा त꣡पतं र꣡क्ष उब्ज꣡तं  
+नि꣡ अर्पयतं वृषणा तमोव्ŕ̥धः  
+प꣡रा शृणीतम् अचि꣡तो नि꣡ ओषतं  
+हतं꣡ नुदे꣡थां नि꣡ शिशीतम् अत्रि꣡णः  

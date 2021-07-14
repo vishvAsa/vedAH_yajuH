@@ -2,7 +2,7 @@
 title = "039"
 
 +++
-mā́kir enā́ pathā́ gãd  
-yénemé yánti cedáyaḥ  
-anyó nét sūrír óhate  
-bhūridā́vattaro jánaḥ  
+मा꣡किर् एना꣡ पथा꣡ ग्ãद्  
+ये꣡नेमे꣡ य꣡न्ति चेद꣡यः  
+अन्यो꣡ ने꣡त् सूरि꣡र् ओ꣡हते  
+भूरिदा꣡वत्तरो ज꣡नः  

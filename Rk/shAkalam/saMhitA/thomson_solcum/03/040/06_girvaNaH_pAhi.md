@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-gírvaṇaḥ pāhí naḥ sutám  
-mádhor dhā́rābhir ajyase  
-índra tvā́dātam íd yáśaḥ  
+गि꣡र्वणः पाहि꣡ नः सुत꣡म्  
+म꣡धोर् धा꣡राभिर् अज्यसे  
+इ꣡न्द्र त्वा꣡दातम् इ꣡द् य꣡शः  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ví hí tvā́m indra purudhā́ jánāso  
-hitáprayaso vr̥ṣabha hváyante  
-asmā́kaṃ te · mádhumattamāni  
-imā́ bhuvan sávanā téṣu harya  
+वि꣡ हि꣡ त्वा꣡म् इन्द्र पुरुधा꣡ ज꣡नासो  
+हित꣡प्रयसो वृषभ ह्व꣡यन्ते  
+अस्मा꣡कं ते · म꣡धुमत्तमानि  
+इमा꣡ भुवन् स꣡वना ते꣡षु हर्य  

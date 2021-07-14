@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-punardā́ya brahmajāyā́ṃ  
-kr̥tvī́ devaír nikilbiṣám  
-ū́rjam pr̥thivyā́ bhaktvā́ya  
-urugāyám úpāsate  
+पुनर्दा꣡य ब्रह्मजायां꣡  
+कृत्वी꣡ देवइ꣡र् निकिल्बिष꣡म्  
+ऊ꣡र्जम् पृथिव्या꣡ भक्त्वा꣡य  
+उरुगाय꣡म् उ꣡पासते  

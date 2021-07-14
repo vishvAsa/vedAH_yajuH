@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-kavím mr̥janti márjiyaṃ  
-dhībhír víprā avasyávaḥ  
-vŕ̥ṣā kánikrad arṣati  
+कवि꣡म् मृजन्ति म꣡र्जियं  
+धीभि꣡र् वि꣡प्रा अवस्य꣡वः  
+व्ŕ̥षा क꣡निक्रद् अर्षति  

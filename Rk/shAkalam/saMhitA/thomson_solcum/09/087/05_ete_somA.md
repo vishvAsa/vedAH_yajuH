@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-eté sómā abhí gavyā́ sahásrā  
-mahé vā́jāyām ŕ̥tāya śrávāṃsi  
-pavítrebhiḥ pávamānā asr̥grañ  
-chravasyávo ná pr̥tanā́jo átyāḥ  
+एते꣡ सो꣡मा अभि꣡ गव्या꣡ सह꣡स्रा  
+महे꣡ वा꣡जायाम् ŕ̥ताय श्र꣡वांसि  
+पवि꣡त्रेभिः प꣡वमाना असृग्रञ्  
+छ्रवस्य꣡वो न꣡ पृतना꣡जो अ꣡त्याः  

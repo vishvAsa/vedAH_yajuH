@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-devásya savitúr vayáṃ  
-vājayántaḥ púraṃdhiyā  
-bhágasya rātím īmahe  
+देव꣡स्य सवितु꣡र् वयं꣡  
+वाजय꣡न्तः पु꣡रंधिया  
+भ꣡गस्य राति꣡म् ईमहे  

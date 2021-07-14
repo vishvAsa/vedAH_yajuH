@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-paró divā́ pará enā́ pr̥thivyā́  
-paró devébhir ásurair yád ásti  
-káṃ svid gárbham prathamáṃ dadhra ā́po  
-yátra devā́ḥ samápaśyanta víśve  
+परो꣡ दिवा꣡ पर꣡ एना꣡ पृथिव्या꣡  
+परो꣡ देवे꣡भिर् अ꣡सुरैर् य꣡द् अ꣡स्ति  
+कं꣡ स्विद् ग꣡र्भम् प्रथमं꣡ दध्र आ꣡पो  
+य꣡त्र देवाः꣡ सम꣡पश्यन्त वि꣡श्वे  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yáthā pū́rvebhyo jaritŕ̥bhya indra  
-máyo 'vā́po° ná tŕ̥ṣyate babhū́tha  
-tā́m ánu tvā nivídaṃ johavīmi  
-vidyā́meṣáṃ vr̥jánaṃ jīrádānum  
+य꣡था पू꣡र्वेभ्यो जरित्ŕ̥भ्य इन्द्र  
+म꣡यो ऽवा꣡पो° न꣡ त्ŕ̥ष्यते बभू꣡थ  
+ता꣡म् अ꣡नु त्वा निवि꣡दं जोहवीमि  
+विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्  

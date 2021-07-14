@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yéna vr̥ddhó ná śávasā  
-turó ná svā́bhir ūtíbhiḥ  
-sómaḥ sutáḥ sá indra te  
-ásti svadhāpate mádaḥ  
+ये꣡न वृद्धो꣡ न꣡ श꣡वसा  
+तुरो꣡ न꣡ स्वा꣡भिर् ऊति꣡भिः  
+सो꣡मः सुतः꣡ स꣡ इन्द्र ते  
+अ꣡स्ति स्वधापते म꣡दः  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ná vā́ u te tanúvā tanúvaṃ sám papr̥cyām  
-pāpám āhur yáḥ svásāraṃ nigáchāt  
-anyéna mát pramúdaḥ kalpayasva  
-ná te bhrā́tā subhage vaṣṭi etát  
+न꣡ वा꣡ उ ते तनु꣡वा तनु꣡वं स꣡म् पपृच्याम्  
+पाप꣡म् आहुर् यः꣡ स्व꣡सारं निग꣡छात्  
+अन्ये꣡न म꣡त् प्रमु꣡दः कल्पयस्व  
+न꣡ ते भ्रा꣡ता सुभगे वष्टि एत꣡त्  

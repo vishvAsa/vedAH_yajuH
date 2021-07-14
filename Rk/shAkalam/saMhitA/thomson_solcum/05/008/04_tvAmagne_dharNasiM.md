@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuvā́m agne dharṇasíṃ viśvádhā vayáṃ  
-gīrbhír gr̥ṇánto námasópa sedima  
-sá no juṣasva samidhānó aṅgiro  
-devó mártasya yaśásā sudītíbhiḥ  
+तुवा꣡म् अग्ने धर्णसिं꣡ विश्व꣡धा वयं꣡  
+गीर्भि꣡र् गृण꣡न्तो न꣡मसो꣡प सेदिम  
+स꣡ नो जुषस्व समिधानो꣡ अङ्गिरो  
+देवो꣡ म꣡र्तस्य यश꣡सा सुदीति꣡भिः  

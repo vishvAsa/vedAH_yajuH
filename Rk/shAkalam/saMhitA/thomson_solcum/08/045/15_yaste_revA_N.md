@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-yás te revā́m̐ ádāśuriḥ  
-pramamárṣa magháttaye  
-tásya no véda ā́ bhara  
+य꣡स् ते रेवाँ꣡ अ꣡दाशुरिः  
+प्रमम꣡र्ष मघ꣡त्तये  
+त꣡स्य नो वे꣡द आ꣡ भर  

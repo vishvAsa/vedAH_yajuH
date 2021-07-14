@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-út te śúṣmāso asthū  
-rákṣo bhindánto adrivaḥ  
-nudásva yā́ḥ parispŕ̥dhaḥ  
+उ꣡त् ते शु꣡ष्मासो अस्थू  
+र꣡क्षो भिन्द꣡न्तो अद्रिवः  
+नुद꣡स्व याः꣡ परिस्प्ŕ̥धः  

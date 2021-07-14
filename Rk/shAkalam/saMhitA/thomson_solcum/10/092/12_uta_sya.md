@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-utá syá na uśíjām urviyā́ kavír  
-áhiḥ śr̥ṇotu budhníyo hávīmani  
-sū́ryāmā́sā vicárantā divikṣítā  
-dhiyā́ śamīnahuṣī asyá bodhatam  
+उत꣡ स्य꣡ न उशि꣡जाम् उर्विया꣡ कवि꣡र्  
+अ꣡हिः शृणोतु बुध्नि꣡यो ह꣡वीमनि  
+सू꣡र्यामा꣡सा विच꣡रन्ता दिविक्षि꣡ता  
+धिया꣡ शमीनहुषी अस्य꣡ बोधतम्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-dhartā́ diváḥ pavate kŕ̥tviyo ráso  
-dákṣo devā́nām anumā́diyo nŕ̥bhiḥ  
-háriḥ sr̥jānó átiyo ná sátvabhir  
-vŕ̥thā pā́jāṃsi kr̥ṇute nadī́ṣu ā́  
+धर्ता꣡ दिवः꣡ पवते क्ŕ̥त्वियो र꣡सो  
+द꣡क्षो देवा꣡नाम् अनुमा꣡दियो न्ŕ̥भिः  
+ह꣡रिः सृजानो꣡ अ꣡तियो न꣡ स꣡त्वभिर्  
+व्ŕ̥था पा꣡जांसि कृणुते नदी꣡षु आ꣡  

@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-cátuḥsahasraṃ gáviyasya paśváḥ  
-práty agrabhīṣma ruśámeṣu agne  
-gharmáś cit taptáḥ pravŕ̥je yá ā́sīd  
-ayasmáyas tám u ā́dāma víprāḥ  
+च꣡तुःसहस्रं ग꣡वियस्य पश्वः꣡  
+प्र꣡त्य् अग्रभीष्म रुश꣡मेषु अग्ने  
+घर्म꣡श् चित् तप्तः꣡ प्रव्ŕ̥जे य꣡ आ꣡सीद्  
+अयस्म꣡यस् त꣡म् उ आ꣡दाम वि꣡प्राः  

@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-utó nú asya jóṣam ā́m̐  
-índraḥ sutásya gómataḥ  
-prātár hóteva matsati  
+उतो꣡ नु꣡ अस्य जो꣡षम् आँ꣡  
+इ꣡न्द्रः सुत꣡स्य गो꣡मतः  
+प्रात꣡र् हो꣡तेव मत्सति  

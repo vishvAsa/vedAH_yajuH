@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-iyattakáḥ kuṣumbhakás  
-takám bhinadmi áśmanā  
-táto viṣám prá vāvr̥te  
-párācīr ánu saṃvátaḥ  
+इयत्तकः꣡ कुषुम्भक꣡स्  
+तक꣡म् भिनद्मि अ꣡श्मना  
+त꣡तो विष꣡म् प्र꣡ वावृते  
+प꣡राचीर् अ꣡नु संव꣡तः  

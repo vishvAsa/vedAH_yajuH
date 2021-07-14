@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́po ná devī́r úpa yanti hotríyam  
-aváḥ paśyanti vítataṃ yáthā rájaḥ  
-prācaír devā́saḥ prá ṇayanti devayúm  
-brahmapríyaṃ joṣayante varā́ iva  
+आ꣡पो न꣡ देवी꣡र् उ꣡प यन्ति होत्रि꣡यम्  
+अवः꣡ पश्यन्ति वि꣡ततं य꣡था र꣡जः  
+प्राचइ꣡र् देवा꣡सः प्र꣡ णयन्ति देवयु꣡म्  
+ब्रह्मप्रि꣡यं जोषयन्ते वरा꣡ इव  

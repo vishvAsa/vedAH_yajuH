@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imáṃ stómam árhate jātávedase  
-rátham iva sám mahemā manīṣáyā  
-bhadrā́ hí naḥ prámatir asya saṃsádi  
-ágne sakhyé mā́ riṣāmā vayáṃ táva  
+इमं꣡ स्तो꣡मम् अ꣡र्हते जात꣡वेदसे  
+र꣡थम् इव स꣡म् महेमा मनीष꣡या  
+भद्रा꣡ हि꣡ नः प्र꣡मतिर् अस्य संस꣡दि  
+अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व  

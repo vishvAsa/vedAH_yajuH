@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-śáciyākarta pitárā yúvānā  
-śácyākarta camasáṃ devapā́nam  
-śácyā hárī dhánutarāv ataṣṭa  
-indravā́hāv r̥bhavo vājaratnāḥ  
+श꣡चियाकर्त पित꣡रा यु꣡वाना  
+श꣡च्याकर्त चमसं꣡ देवपा꣡नम्  
+श꣡च्या ह꣡री ध꣡नुतराव् अतष्ट  
+इन्द्रवा꣡हाव् ऋभवो वाजरत्नाः  

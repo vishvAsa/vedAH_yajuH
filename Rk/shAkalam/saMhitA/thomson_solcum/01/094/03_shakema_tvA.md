@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śakéma tvā samídhaṃ sādháyā dhíyas  
-tuvé devā́ havír adanti ā́hutam  
-tvám ādityā́m̐ ā́ vaha tā́n hí uśmási  
-ágne sakhyé mā́ riṣāmā vayáṃ táva  
+शके꣡म त्वा समि꣡धं साध꣡या धि꣡यस्  
+तुवे꣡ देवा꣡ हवि꣡र् अदन्ति आ꣡हुतम्  
+त्व꣡म् आदित्याँ꣡ आ꣡ वह ता꣡न् हि꣡ उश्म꣡सि  
+अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व  

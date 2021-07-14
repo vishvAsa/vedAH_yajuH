@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ápaśyam asya maható mahitvám  
-ámartiyasya mártiyāsu vikṣú  
-nā́nā hánū víbhr̥te sám bharete  
-ásinvatī bápsatī bhū́ri attaḥ  
+अ꣡पश्यम् अस्य महतो꣡ महित्व꣡म्  
+अ꣡मर्तियस्य म꣡र्तियासु विक्षु꣡  
+ना꣡ना ह꣡नू वि꣡भृते स꣡म् भरेते  
+अ꣡सिन्वती ब꣡प्सती भू꣡रि अत्तः  

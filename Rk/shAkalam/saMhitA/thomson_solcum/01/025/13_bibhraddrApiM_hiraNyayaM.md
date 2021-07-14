@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-bíbhrad drāpíṃ hiraṇyáyaṃ  
-váruṇo vasta nirṇíjam  
-pári spáśo ní ṣedire  
+बि꣡भ्रद् द्रापिं꣡ हिरण्य꣡यं  
+व꣡रुणो वस्त निर्णि꣡जम्  
+प꣡रि स्प꣡शो नि꣡ षेदिरे  

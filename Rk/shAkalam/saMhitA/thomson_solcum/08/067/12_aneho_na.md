@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-anehó na uruvraja  
-úrūci ví prásartave  
-kr̥dhí tokā́ya jīváse  
+अनेहो꣡ न उरुव्रज  
+उ꣡रूचि वि꣡ प्र꣡सर्तवे  
+कृधि꣡ तोका꣡य जीव꣡से  

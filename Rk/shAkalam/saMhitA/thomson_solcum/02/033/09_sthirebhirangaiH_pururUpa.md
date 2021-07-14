@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sthirébhir áṅgaiḥ pururū́pa ugró  
-babhrúḥ śukrébhiḥ pipiśe híraṇyaiḥ  
-ī́śānād asyá bhúvanasya bhū́rer  
-ná vā́ u yoṣad rudarā́d+ asuryàm  
+स्थिरे꣡भिर् अ꣡ङ्गैः पुरुरू꣡प उग्रो꣡  
+बभ्रुः꣡ शुक्रे꣡भिः पिपिशे हि꣡रण्यैः  
+ई꣡शानाद् अस्य꣡ भु꣡वनस्य भू꣡रेर्  
+न꣡ वा꣡ उ योषद् रुदरा꣡द्+ असुर्य᳡म्  

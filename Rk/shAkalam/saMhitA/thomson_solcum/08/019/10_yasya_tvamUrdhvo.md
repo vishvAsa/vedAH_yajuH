@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yásya tvám ūrdhvó adhvarā́ya tíṣṭhasi  
-kṣayádvīraḥ sá sādhate  
-só árvadbhiḥ sánitā sá vipanyúbhiḥ  
-sá śū́raiḥ sánitā kr̥tám  
+य꣡स्य त्व꣡म् ऊर्ध्वो꣡ अध्वरा꣡य ति꣡ष्ठसि  
+क्षय꣡द्वीरः स꣡ साधते  
+सो꣡ अ꣡र्वद्भिः स꣡निता स꣡ विपन्यु꣡भिः  
+स꣡ शू꣡रैः स꣡निता कृत꣡म्  

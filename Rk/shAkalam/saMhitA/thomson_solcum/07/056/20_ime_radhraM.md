@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-imé radhráṃ cin marúto junanti  
-bhŕ̥miṃ cid yáthā vásavo juṣánta  
-ápa bādhadhvaṃ vr̥ṣaṇas támāṃsi  
-dhattá víśvaṃ tánayaṃ tokám asmé  
+इमे꣡ रध्रं꣡ चिन् मरु꣡तो जुनन्ति  
+भ्ŕ̥मिं चिद् य꣡था व꣡सवो जुष꣡न्त  
+अ꣡प बाधध्वं वृषणस् त꣡मांसि  
+धत्त꣡ वि꣡श्वं त꣡नयं तोक꣡म् अस्मे꣡  

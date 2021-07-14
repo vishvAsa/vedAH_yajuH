@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-áchā síndhum mātŕ̥tamām ayāsaṃ  
-vípāśam urvī́ṃ subhágām aganma  
-vatsám iva mātárā saṃrihāṇé  
-samānáṃ yónim ánu saṃcárantī  
+अ꣡छा सि꣡न्धुम् मात्ŕ̥तमाम् अयासं  
+वि꣡पाशम् उर्वीं꣡ सुभ꣡गाम् अगन्म  
+वत्स꣡म् इव मात꣡रा संरिहाणे꣡  
+समानं꣡ यो꣡निम् अ꣡नु संच꣡रन्ती  

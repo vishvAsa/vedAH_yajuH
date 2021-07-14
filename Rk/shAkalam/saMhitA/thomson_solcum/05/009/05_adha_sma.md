@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-ádha sma yásya arcáyaḥ  
-samyák saṃyánti dhūmínaḥ  
-yád īm áha tritó diví  
-úpa dhmā́teva dhámati  
-śíśīte dhmātárī yathā  
+अ꣡ध स्म य꣡स्य अर्च꣡यः  
+सम्य꣡क् संय꣡न्ति धूमि꣡नः  
+य꣡द् ईम् अ꣡ह त्रितो꣡ दिवि꣡  
+उ꣡प ध्मा꣡तेव ध꣡मति  
+शि꣡शीते ध्मात꣡री यथा  

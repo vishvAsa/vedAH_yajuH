@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śáṃsāvādhvaryo práti me gr̥ṇīhi  
-índrāya vā́haḥ kr̥ṇavāva júṣṭam  
-édám barhír yájamānasya sīda  
-áthā ca bhūd ukthám índrāya śastám  
+शं꣡सावाध्वर्यो प्र꣡ति मे गृणीहि  
+इ꣡न्द्राय वा꣡हः कृणवाव जु꣡ष्टम्  
+ए꣡द꣡म् बर्हि꣡र् य꣡जमानस्य सीद  
+अ꣡था च भूद् उक्थ꣡म् इ꣡न्द्राय शस्त꣡म्  

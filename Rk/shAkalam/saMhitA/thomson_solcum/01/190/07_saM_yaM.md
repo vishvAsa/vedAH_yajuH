@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sáṃ yáṃ stúbho avánayo ná yánti  
-samudráṃ ná sraváto ródhacakrāḥ  
-sá vidvā́m̐ · ubháyaṃ caṣṭe antár  
-bŕ̥haspátis tára ā́paś ca gŕ̥dhraḥ  
+सं꣡ यं꣡ स्तु꣡भो अव꣡नयो न꣡ य꣡न्ति  
+समुद्रं꣡ न꣡ स्रव꣡तो रो꣡धचक्राः  
+स꣡ विद्वाँ꣡ · उभ꣡यं चष्टे अन्त꣡र्  
+ब्ŕ̥हस्प꣡तिस् त꣡र आ꣡पश् च ग्ŕ̥ध्रः  

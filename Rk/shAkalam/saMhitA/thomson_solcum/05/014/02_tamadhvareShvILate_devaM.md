@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-tám adhvaréṣu īḷate  
-devám mártā ámartiyam  
-yájiṣṭham mā́nuṣe jáne  
+त꣡म् अध्वरे꣡षु ईऌअते  
+देव꣡म् म꣡र्ता अ꣡मर्तियम्  
+य꣡जिष्ठम् मा꣡नुषे ज꣡ने  

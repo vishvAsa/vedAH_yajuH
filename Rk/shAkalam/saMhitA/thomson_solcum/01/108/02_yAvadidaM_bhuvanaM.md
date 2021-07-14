@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yā́vad idám bhúvanaṃ víśvam ásti  
-uruvyácā varimátā gabhīrám  
-tā́vām̐ ayám pā́tave sómo astu  
-áram indrāgnī mánase yuvábhyām  
+या꣡वद् इद꣡म् भु꣡वनं वि꣡श्वम् अ꣡स्ति  
+उरुव्य꣡चा वरिम꣡ता गभीर꣡म्  
+ता꣡वाँ अय꣡म् पा꣡तवे सो꣡मो अस्तु  
+अ꣡रम् इन्द्राग्नी म꣡नसे युव꣡भ्याम्  

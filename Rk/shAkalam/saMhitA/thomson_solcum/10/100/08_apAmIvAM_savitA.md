@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ápā́mīvāṃ savitā́ sāviṣan níag  
-várīya íd ápa sedhantu ádrayaḥ  
-grā́vā yátra madhuṣúd ucyáte br̥hád  
-ā́ sarvátātim áditiṃ vr̥ṇīmahe  
+अ꣡पा꣡मीवां सविता꣡ साविषन् नि꣡अग्  
+व꣡रीय इ꣡द् अ꣡प सेधन्तु अ꣡द्रयः  
+ग्रा꣡वा य꣡त्र मधुषु꣡द् उच्य꣡ते बृह꣡द्  
+आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-daívyā hótārā prathamā́ ní r̥ñje  
-saptá pr̥kṣā́saḥ svadháyā madanti  
-r̥táṃ śáṃsanta r̥tám ít tá āhur  
-ánu vratáṃ vratapā́ dī́dhiyānāḥ  
+दइ꣡व्या हो꣡तारा प्रथमा꣡ नि꣡ ऋञ्जे  
+सप्त꣡ पृक्षा꣡सः स्वध꣡या मदन्ति  
+ऋतं꣡ शं꣡सन्त ऋत꣡म् इ꣡त् त꣡ आहुर्  
+अ꣡नु व्रतं꣡ व्रतपा꣡ दी꣡धियानाः  

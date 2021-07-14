@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tuvā́m agne dáma ā́ viśpátiṃ víśas  
-tuvā́ṃ rā́jānaṃ suvidátram r̥ñjate  
-tuváṃ víśvāni suanīka patyase  
-tuváṃ sahásrāṇi śatā́ dáśa práti  
+तुवा꣡म् अग्ने द꣡म आ꣡ विश्प꣡तिं वि꣡शस्  
+तुवां꣡ रा꣡जानं सुविद꣡त्रम् ऋञ्जते  
+तुवं꣡ वि꣡श्वानि सुअनीक पत्यसे  
+तुवं꣡ सह꣡स्राणि शता꣡ द꣡श प्र꣡ति  

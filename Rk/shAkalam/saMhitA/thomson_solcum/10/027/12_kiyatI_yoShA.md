@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-kíyatī yóṣā maryató vadhūyóḥ  
-páriprītā pányasā vā́riyeṇa  
-bhadrā́ vadhū́r bhavati yát supéśāḥ  
-svayáṃ sā́ mitráṃ vanute jáne cit  
+कि꣡यती यो꣡षा मर्यतो꣡ वधूयोः꣡  
+प꣡रिप्रीता प꣡न्यसा वा꣡रियेण  
+भद्रा꣡ वधू꣡र् भवति य꣡त् सुपे꣡शाः  
+स्वयं꣡ सा꣡ मित्रं꣡ वनुते ज꣡ने चित्  

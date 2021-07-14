@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá nūnám bráhmaṇas pátir  
-mántraṃ vadati ukthíyam  
-yásminn índro váruṇo mitró aryamā́  
-devā́ ókāṃsi cakriré  
+प्र꣡ नून꣡म् ब्र꣡ह्मणस् प꣡तिर्  
+म꣡न्त्रं वदति उक्थि꣡यम्  
+य꣡स्मिन्न् इ꣡न्द्रो व꣡रुणो मित्रो꣡ अर्यमा꣡  
+देवा꣡ ओ꣡कांसि चक्रिरे꣡  

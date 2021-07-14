@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-yásya mandānó ándhaso  
-mā́ghonaṃ dadhiṣé śávaḥ  
-ayáṃ sá sóma indra te sutáḥ píba  
+य꣡स्य मन्दानो꣡ अ꣡न्धसो  
+मा꣡घोनं दधिषे꣡ श꣡वः  
+अयं꣡ स꣡ सो꣡म इन्द्र ते सुतः꣡ पि꣡ब  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tád vāṃ narā śáṃsiyam pajriyéṇa  
-kakṣī́vatā nāsatiyā párijman  
-śaphā́d áśvasya vājíno jánāya  
-śatáṃ kumbhā́m̐ asiñcatam mádhūnām  
+त꣡द् वां नरा शं꣡सियम् पज्रिये꣡ण  
+कक्षी꣡वता नासतिया प꣡रिज्मन्  
+शफा꣡द् अ꣡श्वस्य वाजि꣡नो ज꣡नाय  
+शतं꣡ कुम्भाँ꣡ असिञ्चतम् म꣡धूनाम्  

@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yajñénéndram ávasā́ cakre arvā́g  
-aínaṃ sumnā́ya návyase vavr̥tyām  
-yá stómebhir vāvr̥dhé pūrviyébhir  
-yó madhyamébhir utá nū́tanebhiḥ  
+यज्ञे꣡ने꣡न्द्रम् अ꣡वसा꣡ चक्रे अर्वा꣡ग्  
+अइ꣡नं सुम्ना꣡य न꣡व्यसे ववृत्याम्  
+य꣡ स्तो꣡मेभिर् वावृधे꣡ पूर्विये꣡भिर्  
+यो꣡ मध्यमे꣡भिर् उत꣡ नू꣡तनेभिः  

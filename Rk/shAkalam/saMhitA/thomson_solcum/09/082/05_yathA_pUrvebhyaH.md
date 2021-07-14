@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yáthā pū́rvebhyaḥ śatasā́ ámr̥dhraḥ  
-sahasrasā́ḥ paryáyā vā́jam indo  
-evā́ pavasva suvitā́ya návyase  
-táva vratám ánu ā́paḥ sacante  
+य꣡था पू꣡र्वेभ्यः शतसा꣡ अ꣡मृध्रः  
+सहस्रसाः꣡ पर्य꣡या वा꣡जम् इन्दो  
+एवा꣡ पवस्व सुविता꣡य न꣡व्यसे  
+त꣡व व्रत꣡म् अ꣡नु आ꣡पः सचन्ते  

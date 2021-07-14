@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-iyám me nā́bhir ihá me sadhástham  
-imé me devā́ ayám asmi sárvaḥ  
-dvijā́ áha prathamajā́ r̥tásya  
-idáṃ dhenúr aduhaj jā́yamānā  
+इय꣡म् मे ना꣡भिर् इह꣡ मे सध꣡स्थम्  
+इमे꣡ मे देवा꣡ अय꣡म् अस्मि स꣡र्वः  
+द्विजा꣡ अ꣡ह प्रथमजा꣡ ऋत꣡स्य  
+इदं꣡ धेनु꣡र् अदुहज् जा꣡यमाना  

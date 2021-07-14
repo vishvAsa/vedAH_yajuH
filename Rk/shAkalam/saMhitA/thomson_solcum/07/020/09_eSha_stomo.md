@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-eṣá stómo acikradad vŕ̥ṣā ta  
-utá stāmúr maghavann akrapiṣṭa  
-rāyás kā́mo jaritā́raṃ ta ā́gan  
-tvám aṅgá śakra vásva ā́ śako naḥ  
+एष꣡ स्तो꣡मो अचिक्रदद् व्ŕ̥षा त  
+उत꣡ स्तामु꣡र् मघवन्न् अक्रपिष्ट  
+राय꣡स् का꣡मो जरिता꣡रं त आ꣡गन्  
+त्व꣡म् अङ्ग꣡ शक्र व꣡स्व आ꣡ शको नः  

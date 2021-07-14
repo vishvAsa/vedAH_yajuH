@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ahám índro váruṇas té mahitvā́  
-urvī́ gabhīré rájasī suméke  
-tváṣṭeva víśvā bhúvanāni vidvā́n  
-sám airayaṃ ródasī dhāráyaṃ ca  
+अह꣡म् इ꣡न्द्रो व꣡रुणस् ते꣡ महित्वा꣡  
+उर्वी꣡ गभीरे꣡ र꣡जसी सुमे꣡के  
+त्व꣡ष्टेव वि꣡श्वा भु꣡वनानि विद्वा꣡न्  
+स꣡म् ऐरयं रो꣡दसी धार꣡यं च  

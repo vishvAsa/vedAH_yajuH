@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-etā́ni bhadrā́ kalaśa kriyāma  
-kúruśravaṇa dádato maghā́ni  
-dāná íd vo maghavānaḥ só astu  
-ayáṃ ca sómo hr̥dí yám bíbharmi  
+एता꣡नि भद्रा꣡ कलश क्रियाम  
+कु꣡रुश्रवण द꣡दतो मघा꣡नि  
+दान꣡ इ꣡द् वो मघवानः सो꣡ अस्तु  
+अयं꣡ च सो꣡मो हृदि꣡ य꣡म् बि꣡भर्मि  

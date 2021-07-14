@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sá tū́ no agnír nayatu prajānánn  
-áchā rátnaṃ devábhaktaṃ yád asya  
-dhiyā́ yád víśve amŕ̥tā ákr̥ṇvan  
-diyaúṣ pitā́ janitā́ satyám ukṣan  
+स꣡ तू꣡ नो अग्नि꣡र् नयतु प्रजान꣡न्न्  
+अ꣡छा र꣡त्नं देव꣡भक्तं य꣡द् अस्य  
+धिया꣡ य꣡द् वि꣡श्वे अम्ŕ̥ता अ꣡कृण्वन्  
+दियउ꣡ष् पिता꣡ जनिता꣡ सत्य꣡म् उक्षन्  

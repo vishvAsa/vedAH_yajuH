@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá sú gmántā dhiyasānásya sakṣáṇi  
-varébhir varā́m̐ abhí ṣú prasī́dataḥ  
-asmā́kam índra ubháyaṃ jujoṣati  
-yát somiyásya ándhaso búbodhati  
+प्र꣡ सु꣡ ग्म꣡न्ता धियसान꣡स्य सक्ष꣡णि  
+वरे꣡भिर् वराँ꣡ अभि꣡ षु꣡ प्रसी꣡दतः  
+अस्मा꣡कम् इ꣡न्द्र उभ꣡यं जुजोषति  
+य꣡त् सोमिय꣡स्य अ꣡न्धसो बु꣡बोधति  

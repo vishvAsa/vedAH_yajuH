@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-śrát te dadhāmi prathamā́ya manyáve  
-áhan yád vr̥tráṃ náriyaṃ vivér apáḥ  
-ubhé yát tvā bhávato ródasī ánu  
-réjate śúṣmāt pr̥thivī́ cid adrivaḥ  
+श्र꣡त् ते दधामि प्रथमा꣡य मन्य꣡वे  
+अ꣡हन् य꣡द् वृत्रं꣡ न꣡रियं विवे꣡र् अपः꣡  
+उभे꣡ य꣡त् त्वा भ꣡वतो रो꣡दसी अ꣡नु  
+रे꣡जते शु꣡ष्मात् पृथिवी꣡ चिद् अद्रिवः  

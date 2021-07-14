@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tuváṃ tiyā́ cid ácyutā  
-ágne paśúr ná yávase  
-dhā́mā ha yát te ajara  
-vánā vr̥ścánti śíkvasaḥ  
+तुवं꣡ तिया꣡ चिद् अ꣡च्युता  
+अ꣡ग्ने पशु꣡र् न꣡ य꣡वसे  
+धा꣡मा ह य꣡त् ते अजर  
+व꣡ना वृश्च꣡न्ति शि꣡क्वसः  

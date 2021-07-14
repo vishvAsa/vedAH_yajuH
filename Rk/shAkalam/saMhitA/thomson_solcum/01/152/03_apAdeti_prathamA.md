@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-apā́d eti prathamā́ padvátīnāṃ  
-kás tád vām mitrāvaruṇā́ ciketa  
-gárbho bhārám bharati ā́ cid asya  
-r̥tám píparti ánr̥taṃ ní tārīt  
+अपा꣡द् एति प्रथमा꣡ पद्व꣡तीनां  
+क꣡स् त꣡द् वाम् मित्रावरुणा꣡ चिकेत  
+ग꣡र्भो भार꣡म् भरति आ꣡ चिद् अस्य  
+ऋत꣡म् पि꣡पर्ति अ꣡नृतं नि꣡ तारीत्  

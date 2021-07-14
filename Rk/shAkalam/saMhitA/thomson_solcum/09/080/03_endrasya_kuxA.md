@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-éndrasya kukṣā́ pavate madíntama  
-ū́rjaṃ vásānaḥ śrávase sumaṅgálaḥ  
-pratyáṅ sá víśvā bhúvanābhí paprathe  
-krī́ḷan hárir átiyaḥ syandate vŕ̥ṣā  
+ए꣡न्द्रस्य कुक्षा꣡ पवते मदि꣡न्तम  
+ऊ꣡र्जं व꣡सानः श्र꣡वसे सुमङ्ग꣡लः  
+प्रत्य꣡ङ् स꣡ वि꣡श्वा भु꣡वनाभि꣡ पप्रथे  
+क्री꣡ऌअन् ह꣡रिर् अ꣡तियः स्यन्दते व्ŕ̥षा  

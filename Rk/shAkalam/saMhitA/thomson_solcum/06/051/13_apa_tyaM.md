@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-ápa tyáṃ vr̥jináṃ ripúṃ  
-stenám agne durādhíyam  
-daviṣṭhám asya satpate kr̥dhī́ sugám  
+अ꣡प त्यं꣡ वृजिनं꣡ रिपुं꣡  
+स्तेन꣡म् अग्ने दुराधि꣡यम्  
+दविष्ठ꣡म् अस्य सत्पते कृधी꣡ सुग꣡म्  

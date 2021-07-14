@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-híraṇyatvaṅ mádhuvarṇo ghr̥tásnuḥ  
-pŕ̥kṣo váhann ā́ rátho vartate vām  
-mánojavā aśvinā vā́taraṃhā  
-yénātiyāthó duritā́ni víśvā  
+हि꣡रण्यत्वङ् म꣡धुवर्णो घृत꣡स्नुः  
+प्ŕ̥क्षो व꣡हन्न् आ꣡ र꣡थो वर्तते वाम्  
+म꣡नोजवा अश्विना वा꣡तरंहा  
+ये꣡नातियाथो꣡ दुरिता꣡नि वि꣡श्वा  

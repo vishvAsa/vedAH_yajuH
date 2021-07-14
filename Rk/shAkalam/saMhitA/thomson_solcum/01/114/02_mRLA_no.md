@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mr̥̄ḷā́+ no rudra utá no máyas kr̥dhi  
-kṣayádvīrāya námasā vidhema te  
-yác cháṃ ca yóś ca mánur āyejé pitā́  
-tád aśyāma táva rudra práṇītiṣu  
+मॄऌआ꣡+ नो रुद्र उत꣡ नो म꣡यस् कृधि  
+क्षय꣡द्वीराय न꣡मसा विधेम ते  
+य꣡च् छं꣡ च यो꣡श् च म꣡नुर् आयेजे꣡ पिता꣡  
+त꣡द् अश्याम त꣡व रुद्र प्र꣡णीतिषु  

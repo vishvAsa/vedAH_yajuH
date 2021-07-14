@@ -2,7 +2,7 @@
 title = "032"
 
 +++
-pāvamānī́r yó adhyéti  
-ŕ̥ṣibhiḥ sámbhr̥taṃ rásam  
-tásmai sárasvatī duhe  
-kṣīráṃ sarpír mádhūdakám  
+पावमानी꣡र् यो꣡ अध्ये꣡ति  
+ŕ̥षिभिः स꣡म्भृतं र꣡सम्  
+त꣡स्मै स꣡रस्वती दुहे  
+क्षीरं꣡ सर्पि꣡र् म꣡धूदक꣡म्  

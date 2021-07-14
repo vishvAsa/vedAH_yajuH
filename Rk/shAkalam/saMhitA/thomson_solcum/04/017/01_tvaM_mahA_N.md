@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tuvám mahā́m̐ indara+ túbhya° ha kṣā́  
-ánu kṣatrám maṃhánā manyata dyaúḥ  
-tuváṃ vr̥tráṃ · śávasā jaghanvā́n  
-sr̥jáḥ síndhūm̐r áhinā jagrasānā́n  
+तुव꣡म् महाँ꣡ इन्दर+ तु꣡भ्य° ह क्षा꣡  
+अ꣡नु क्षत्र꣡म् मंह꣡ना मन्यत द्यउः꣡  
+तुवं꣡ वृत्रं꣡ · श꣡वसा जघन्वा꣡न्  
+सृजः꣡ सि꣡न्धूँर् अ꣡हिना जग्रसाना꣡न्  

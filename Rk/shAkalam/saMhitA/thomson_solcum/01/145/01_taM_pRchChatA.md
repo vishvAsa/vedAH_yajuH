@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tám pr̥chatā sá jagāmā sá veda  
-sá cikitvā́m̐ īyate sā́ nú īyate  
-tásmin santi praśíṣas tásmin iṣṭáyaḥ  
-sá vā́jasya śávasaḥ śuṣmíṇas pátiḥ  
+त꣡म् पृछता स꣡ जगामा स꣡ वेद  
+स꣡ चिकित्वाँ꣡ ईयते सा꣡ नु꣡ ईयते  
+त꣡स्मिन् सन्ति प्रशि꣡षस् त꣡स्मिन् इष्ट꣡यः  
+स꣡ वा꣡जस्य श꣡वसः शुष्मि꣡णस् प꣡तिः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá kr̥ṣṭihéva śūṣá eti róruvad  
-asuryàṃ várṇaṃ ní riṇīte asya tám  
-jáhāti vavrím pitúr eti niṣkr̥tám  
-upaprútaṃ kr̥ṇute nirṇíjaṃ tánā  
+प्र꣡ कृष्टिहे꣡व शूष꣡ एति रो꣡रुवद्  
+असुर्यं᳡ व꣡र्णं नि꣡ रिणीते अस्य त꣡म्  
+ज꣡हाति वव्रि꣡म् पितु꣡र् एति निष्कृत꣡म्  
+उपप्रु꣡तं कृणुते निर्णि꣡जं त꣡ना  

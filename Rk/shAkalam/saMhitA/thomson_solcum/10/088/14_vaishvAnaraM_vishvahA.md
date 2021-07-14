@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-vaiśvānaráṃ viśváhā dīdivā́ṃsam  
-mántrair agníṃ kavím áchā vadāmaḥ  
-yó mahimnā́ paribabhū́va urvī́  
-utā́vástād utá deváḥ parástāt  
+वैश्वानरं꣡ विश्व꣡हा दीदिवां꣡सम्  
+म꣡न्त्रैर् अग्निं꣡ कवि꣡म् अ꣡छा वदामः  
+यो꣡ महिम्ना꣡ परिबभू꣡व उर्वी꣡  
+उता꣡व꣡स्ताद् उत꣡ देवः꣡ पर꣡स्तात्  

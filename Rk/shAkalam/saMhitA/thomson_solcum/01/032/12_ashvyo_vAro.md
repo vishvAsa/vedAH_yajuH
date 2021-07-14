@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-áśviyo vā́ro abhavas tád indra  
-sr̥ké yát tvā pratyáhan devá ékaḥ  
-ájayo gā́ ájayaḥ śūra sómam  
-ávāsr̥jaḥ sártave saptá síndhūn  
+अ꣡श्वियो वा꣡रो अभवस् त꣡द् इन्द्र  
+सृके꣡ य꣡त् त्वा प्रत्य꣡हन् देव꣡ ए꣡कः  
+अ꣡जयो गा꣡ अ꣡जयः शूर सो꣡मम्  
+अ꣡वासृजः स꣡र्तवे सप्त꣡ सि꣡न्धून्  

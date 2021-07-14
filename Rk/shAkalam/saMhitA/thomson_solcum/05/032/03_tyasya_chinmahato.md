@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tiyásya cin maható nír mr̥gásya  
-vádhar jaghāna táviṣībhir índraḥ  
-yá éka íd apratír mányamāna  
-ā́d asmād anyó ajaniṣṭa távyān  
+तिय꣡स्य चिन् महतो꣡ नि꣡र् मृग꣡स्य  
+व꣡धर् जघान त꣡विषीभिर् इ꣡न्द्रः  
+य꣡ ए꣡क इ꣡द् अप्रति꣡र् म꣡न्यमान  
+आ꣡द् अस्माद् अन्यो꣡ अजनिष्ट त꣡व्यान्  

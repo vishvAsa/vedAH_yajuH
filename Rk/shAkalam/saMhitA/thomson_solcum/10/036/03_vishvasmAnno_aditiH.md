@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-víśvasmān no áditiḥ pātu áṃhaso  
-mātā́ mitrásya váruṇasya revátaḥ  
-súvarvaj jyótir avr̥káṃ naśīmahi  
-tád devā́nām ávo adyā́ vr̥ṇīmahe  
+वि꣡श्वस्मान् नो अ꣡दितिः पातु अं꣡हसो  
+माता꣡ मित्र꣡स्य व꣡रुणस्य रेव꣡तः  
+सु꣡वर्वज् ज्यो꣡तिर् अवृकं꣡ नशीमहि  
+त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे  

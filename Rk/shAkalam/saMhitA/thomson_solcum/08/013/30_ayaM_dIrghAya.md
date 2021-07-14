@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-ayáṃ dīrghā́ya cákṣase  
-prā́ci prayatí adhvaré  
-mímīte yajñám ānuṣág vicákṣiya  
+अयं꣡ दीर्घा꣡य च꣡क्षसे  
+प्रा꣡चि प्रयति꣡ अध्वरे꣡  
+मि꣡मीते यज्ञ꣡म् आनुष꣡ग् विच꣡क्षिय  

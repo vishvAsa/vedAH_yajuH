@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá ít támo avayunáṃ tatanvát  
-sū́riyeṇa vayúnavac cakāra  
-kadā́ te mártā amŕ̥tasya dhā́ma  
-íyakṣanto ná minanti svadhāvaḥ  
+स꣡ इ꣡त् त꣡मो अवयुनं꣡ ततन्व꣡त्  
+सू꣡रियेण वयु꣡नवच् चकार  
+कदा꣡ ते म꣡र्ता अम्ŕ̥तस्य धा꣡म  
+इ꣡यक्षन्तो न꣡ मिनन्ति स्वधावः  

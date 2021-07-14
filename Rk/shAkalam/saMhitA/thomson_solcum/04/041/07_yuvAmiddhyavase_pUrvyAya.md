@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yuvā́m íd dhí ávase pūrviyā́ya  
-pári prábhūtī gavíṣaḥ suāpī  
-vr̥ṇīmáhe sakhiyā́ya priyā́ya  
-śū́rā máṃhiṣṭhā pitáreva śambhū́  
+युवा꣡म् इ꣡द् धि꣡ अ꣡वसे पूर्विया꣡य  
+प꣡रि प्र꣡भूती गवि꣡षः सुआपी  
+वृणीम꣡हे सखिया꣡य प्रिया꣡य  
+शू꣡रा मं꣡हिष्ठा पित꣡रेव शम्भू꣡  

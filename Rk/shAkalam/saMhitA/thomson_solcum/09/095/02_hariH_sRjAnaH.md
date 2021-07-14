@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-háriḥ sr̥jānáḥ pathíyām r̥tásya  
-íyarti vā́cam aritéva nā́vam  
-devó devā́nāṃ gúhiyāni nā́ma  
-āvíṣ kr̥ṇoti barhíṣi pravā́ce  
+ह꣡रिः सृजानः꣡ पथि꣡याम् ऋत꣡स्य  
+इ꣡यर्ति वा꣡चम् अरिते꣡व ना꣡वम्  
+देवो꣡ देवा꣡नां गु꣡हियानि ना꣡म  
+आवि꣡ष् कृणोति बर्हि꣡षि प्रवा꣡चे  

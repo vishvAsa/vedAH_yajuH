@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-vayáṃ ghā te tuvé íd u  
-índra víprā ápi ṣmasi  
-nahí tvád anyáḥ puruhūta káś caná  
-mághavann ásti marḍitā́  
+वयं꣡ घा ते तुवे꣡ इ꣡द् उ  
+इ꣡न्द्र वि꣡प्रा अ꣡पि ष्मसि  
+नहि꣡ त्व꣡द् अन्यः꣡ पुरुहूत क꣡श् चन꣡  
+म꣡घवन्न् अ꣡स्ति मर्डिता꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-gr̥bhītáṃ te mána indra dvibárhāḥ  
-sutáḥ sómaḥ páriṣiktā mádhūni  
-vísr̥ṣṭadhenā bharate suvr̥ktír  
-iyám índraṃ jóhuvatī manīṣā́  
+गृभीतं꣡ ते म꣡न इन्द्र द्विब꣡र्हाः  
+सुतः꣡ सो꣡मः प꣡रिषिक्ता म꣡धूनि  
+वि꣡सृष्टधेना भरते सुवृक्ति꣡र्  
+इय꣡म् इ꣡न्द्रं जो꣡हुवती मनीषा꣡  

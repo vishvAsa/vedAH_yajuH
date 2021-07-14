@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́ hí dyā́vāpr̥thivī́ agna ubhé  
-sádā putró ná mātárā tatántha  
-prá yāhi ácha uśató yaviṣṭha  
-átha ā́ vaha sahasyehá devā́n  
+आ꣡ हि꣡ द्या꣡वापृथिवी꣡ अग्न उभे꣡  
+स꣡दा पुत्रो꣡ न꣡ मात꣡रा तत꣡न्थ  
+प्र꣡ याहि अ꣡छ उशतो꣡ यविष्ठ  
+अ꣡थ आ꣡ वह सहस्येह꣡ देवा꣡न्  

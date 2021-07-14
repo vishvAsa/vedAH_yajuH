@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-índra bráhma kriyámāṇā juṣasva  
-yā́ te śaviṣṭha náviyā ákarma  
-vástreva bhadrā́ súkr̥tā vasūyū́  
-ráthaṃ ná dhī́raḥ suápā atakṣam  
+इ꣡न्द्र ब्र꣡ह्म क्रिय꣡माणा जुषस्व  
+या꣡ ते शविष्ठ न꣡विया अ꣡कर्म  
+व꣡स्त्रेव भद्रा꣡ सु꣡कृता वसूयू꣡  
+र꣡थं न꣡ धी꣡रः सुअ꣡पा अतक्षम्  

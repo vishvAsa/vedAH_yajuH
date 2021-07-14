@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vr̥ṣāravā́ya vádate  
-yád upā́vati ciccikáḥ  
-āghāṭíbhir 'va° dhāváyann  
-araṇyānír mahīyate  
+वृषारवा꣡य व꣡दते  
+य꣡द् उपा꣡वति चिच्चिकः꣡  
+आघाटि꣡भिर् ऽव° धाव꣡यन्न्  
+अरण्यानि꣡र् महीयते  

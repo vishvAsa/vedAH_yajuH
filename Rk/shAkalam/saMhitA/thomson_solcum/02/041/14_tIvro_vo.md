@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-tīvró vo mádhumām̐ ayáṃ  
-śunáhotreṣu matsaráḥ  
-etám pibata kā́miyam  
+तीव्रो꣡ वो म꣡धुमाँ अयं꣡  
+शुन꣡होत्रेषु मत्सरः꣡  
+एत꣡म् पिबत का꣡मियम्  

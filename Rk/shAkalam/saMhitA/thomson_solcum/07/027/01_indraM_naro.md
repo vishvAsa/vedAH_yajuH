@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índraṃ náro nemádhitā havante  
-yát pā́riyā yunájate dhíyas tā́ḥ  
-śū́ro nŕ̥ṣātā śávasaś cakāná  
-ā́ gómati vrajé bhajā tuváṃ naḥ  
+इ꣡न्द्रं न꣡रो नेम꣡धिता हवन्ते  
+य꣡त् पा꣡रिया युन꣡जते धि꣡यस् ताः꣡  
+शू꣡रो न्ŕ̥षाता श꣡वसश् चकान꣡  
+आ꣡ गो꣡मति व्रजे꣡ भजा तुवं꣡ नः  

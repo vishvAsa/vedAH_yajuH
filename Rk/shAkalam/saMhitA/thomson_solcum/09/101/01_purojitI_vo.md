@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-purójitī vo ándhasaḥ  
-sutā́ya mādayitnáve  
-ápa śvā́naṃ śnathiṣṭana  
-sákhāyo dīrghajihvíyam  
+पुरो꣡जिती वो अ꣡न्धसः  
+सुता꣡य मादयित्न꣡वे  
+अ꣡प श्वा꣡नं श्नथिष्टन  
+स꣡खायो दीर्घजिह्वि꣡यम्  

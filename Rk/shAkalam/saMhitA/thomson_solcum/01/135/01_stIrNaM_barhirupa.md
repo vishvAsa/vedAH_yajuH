@@ -2,10 +2,10 @@
 title = "001"
 
 +++
-stīrṇám barhír úpa no yāhi vītáye  
-sahásreṇa · niyútā niyutvate  
-śatínībhir niyutvate  
-túbhyaṃ hí pūrvápītaye  
-devā́ devā́ya yemiré  
-prá te sutā́so mádhumanto asthiran  
-mádāya krátve asthiran  
+स्तीर्ण꣡म् बर्हि꣡र् उ꣡प नो याहि वीत꣡ये  
+सह꣡स्रेण · नियु꣡ता नियुत्वते  
+शति꣡नीभिर् नियुत्वते  
+तु꣡भ्यं हि꣡ पूर्व꣡पीतये  
+देवा꣡ देवा꣡य येमिरे꣡  
+प्र꣡ ते सुता꣡सो म꣡धुमन्तो अस्थिरन्  
+म꣡दाय क्र꣡त्वे अस्थिरन्  

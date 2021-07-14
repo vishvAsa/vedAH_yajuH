@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ā́ vedhásaṃ nī́lapŕ̥ṣṭham br̥hántam  
-bŕ̥haspátiṃ sádane sādayadhvam  
-sādádyoniṃ dáma ā́ dīdivā́ṃsaṃ  
-híraṇyavarṇam aruṣáṃ sapema  
+आ꣡ वेध꣡सं नी꣡लप्ŕ̥ष्ठम् बृह꣡न्तम्  
+ब्ŕ̥हस्प꣡तिं स꣡दने सादयध्वम्  
+साद꣡द्योनिं द꣡म आ꣡ दीदिवां꣡सं  
+हि꣡रण्यवर्णम् अरुषं꣡ सपेम  

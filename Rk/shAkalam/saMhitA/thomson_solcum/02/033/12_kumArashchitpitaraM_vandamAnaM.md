@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-kumāráś cit pitáraṃ vándamānam  
-práti nānāma rudaropayántam+  
-bhū́rer dātā́raṃ sátpatiṃ gr̥ṇīṣe  
-stutás tuvám bheṣajā́ rāsi asmé  
+कुमार꣡श् चित् पित꣡रं व꣡न्दमानम्  
+प्र꣡ति नानाम रुदरोपय꣡न्तम्+  
+भू꣡रेर् दाता꣡रं स꣡त्पतिं गृणीषे  
+स्तुत꣡स् तुव꣡म् भेषजा꣡ रासि अस्मे꣡  

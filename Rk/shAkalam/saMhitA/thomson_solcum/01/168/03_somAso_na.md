@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sómāso ná yé sutā́s tr̥ptáaṃśavo  
-hr̥tsú pītā́so duváso ná ā́sate  
-aíṣām áṃseṣu rambhíṇīva rārabhe  
-hásteṣu khādíś ca kr̥tíś ca sáṃ dadhe  
+सो꣡मासो न꣡ ये꣡ सुता꣡स् तृप्त꣡अंशवो  
+हृत्सु꣡ पीता꣡सो दुव꣡सो न꣡ आ꣡सते  
+अइ꣡षाम् अं꣡सेषु रम्भि꣡णीव रारभे  
+ह꣡स्तेषु खादि꣡श् च कृति꣡श् च सं꣡ दधे  

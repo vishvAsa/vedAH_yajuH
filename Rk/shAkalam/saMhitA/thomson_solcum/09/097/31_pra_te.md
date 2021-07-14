@@ -2,7 +2,7 @@
 title = "031"
 
 +++
-prá te dhā́rā mádhumatīr asr̥gran  
-vā́rān yát pūtó atiéṣi ávyān  
-pávamāna pávase dhā́ma gónāṃ  
-jajñānáḥ sū́riyam apinvo arkaíḥ  
+प्र꣡ ते धा꣡रा म꣡धुमतीर् असृग्रन्  
+वा꣡रान् य꣡त् पूतो꣡ अतिए꣡षि अ꣡व्यान्  
+प꣡वमान प꣡वसे धा꣡म गो꣡नां  
+जज्ञानः꣡ सू꣡रियम् अपिन्वो अर्कइः꣡  

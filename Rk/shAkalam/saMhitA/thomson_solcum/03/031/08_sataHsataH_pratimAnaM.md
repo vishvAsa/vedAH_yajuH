@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-satáḥ-sataḥ pratimā́nam purobhū́r  
-víśvā veda jánimā hánti śúṣṇam  
-prá ṇo diváḥ padavī́r gavyúr árcan  
-sákhā sákhīm̐r amuñcan nír avadyā́t  
+सतः꣡-सतः प्रतिमा꣡नम् पुरोभू꣡र्  
+वि꣡श्वा वेद ज꣡निमा ह꣡न्ति शु꣡ष्णम्  
+प्र꣡ णो दिवः꣡ पदवी꣡र् गव्यु꣡र् अ꣡र्चन्  
+स꣡खा स꣡खीँर् अमुञ्चन् नि꣡र् अवद्या꣡त्  

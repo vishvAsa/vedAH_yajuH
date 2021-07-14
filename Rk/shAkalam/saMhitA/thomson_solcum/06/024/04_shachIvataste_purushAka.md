@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-śácīvatas te puruśāka śā́kā  
-gávām iva srutáyaḥ saṃcáraṇīḥ  
-vatsā́nãṃ ná tantáyas ta indra  
-dā́manvanto adāmā́naḥ sudāman  
+श꣡चीवतस् ते पुरुशाक शा꣡का  
+ग꣡वाम् इव स्रुत꣡यः संच꣡रणीः  
+वत्सा꣡न्ãं न꣡ तन्त꣡यस् त इन्द्र  
+दा꣡मन्वन्तो अदामा꣡नः सुदामन्  

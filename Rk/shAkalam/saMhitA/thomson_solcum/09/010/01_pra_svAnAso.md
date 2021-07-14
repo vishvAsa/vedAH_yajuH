@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-prá svānā́so ráthā iva  
-árvanto ná śravasyávaḥ  
-sómāso rāyé akramuḥ  
+प्र꣡ स्वाना꣡सो र꣡था इव  
+अ꣡र्वन्तो न꣡ श्रवस्य꣡वः  
+सो꣡मासो राये꣡ अक्रमुः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ásaścantī bhū́ridhāre páyasvatī  
-ghr̥táṃ duhāte sukŕ̥te śúcivrate  
-rā́jantī asyá bhúvanasya rodasī  
-asmé rétaḥ siñcataṃ yán mánurhitam  
+अ꣡सश्चन्ती भू꣡रिधारे प꣡यस्वती  
+घृतं꣡ दुहाते सुक्ŕ̥ते शु꣡चिव्रते  
+रा꣡जन्ती अस्य꣡ भु꣡वनस्य रोदसी  
+अस्मे꣡ रे꣡तः सिञ्चतं य꣡न् म꣡नुर्हितम्  

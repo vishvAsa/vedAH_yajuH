@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ no bhadrā́ḥ krátavo yantu viśváto  
-ádabdhāso áparītāsa udbhídaḥ  
-devā́ no yáthā sádam íd vr̥dhé ásann  
-áprāyuvo rakṣitā́ro divé-dive  
+आ꣡ नो भद्राः꣡ क्र꣡तवो यन्तु विश्व꣡तो  
+अ꣡दब्धासो अ꣡परीतास उद्भि꣡दः  
+देवा꣡ नो य꣡था स꣡दम् इ꣡द् वृधे꣡ अ꣡सन्न्  
+अ꣡प्रायुवो रक्षिता꣡रो दिवे꣡-दिवे  

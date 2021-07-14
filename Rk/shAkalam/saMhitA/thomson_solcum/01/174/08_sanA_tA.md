@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sánā tā́ ta indara+ návyā ā́guḥ  
-sáho nábho áviraṇāya pūrvī́ḥ  
-bhinát púro · ná bhído ádevīr  
-nanámo vádhar ádevasya pīyóḥ  
+स꣡ना ता꣡ त इन्दर+ न꣡व्या आ꣡गुः  
+स꣡हो न꣡भो अ꣡विरणाय पूर्वीः꣡  
+भिन꣡त् पु꣡रो · न꣡ भि꣡दो अ꣡देवीर्  
+नन꣡मो व꣡धर् अ꣡देवस्य पीयोः꣡  

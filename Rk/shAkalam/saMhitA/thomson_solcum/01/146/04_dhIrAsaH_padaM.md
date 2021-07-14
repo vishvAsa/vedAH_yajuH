@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-dhī́rāsaḥ padáṃ kaváyo nayanti  
-nā́nā hr̥dā́ rákṣamāṇā ajuryám  
-síṣāsantaḥ páry apaśyanta síndhum  
-āvír ebhyo abhavat sū́riyo nr̥̄́n  
+धी꣡रासः पदं꣡ कव꣡यो नयन्ति  
+ना꣡ना हृदा꣡ र꣡क्षमाणा अजुर्य꣡म्  
+सि꣡षासन्तः प꣡र्य् अपश्यन्त सि꣡न्धुम्  
+आवि꣡र् एभ्यो अभवत् सू꣡रियो नॄ꣡न्  

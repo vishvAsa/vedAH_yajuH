@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-dhā́man te víśvam bhúvanam ádhi śritám  
-antáḥ samudré hr̥dí antár ā́yuṣi  
-apā́m ánīke samithé yá ā́bhr̥tas  
-tám aśyāma mádhumantaṃ ta ūrmím  
+धा꣡मन् ते वि꣡श्वम् भु꣡वनम् अ꣡धि श्रित꣡म्  
+अन्तः꣡ समुद्रे꣡ हृदि꣡ अन्त꣡र् आ꣡युषि  
+अपा꣡म् अ꣡नीके समिथे꣡ य꣡ आ꣡भृतस्  
+त꣡म् अश्याम म꣡धुमन्तं त ऊर्मि꣡म्  

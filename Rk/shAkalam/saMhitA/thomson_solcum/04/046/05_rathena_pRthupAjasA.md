@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-ráthena pr̥thupā́jasā  
-dāśvā́ṃsam úpa gachatam  
-índravāyū ihā́ gatam  
+र꣡थेन पृथुपा꣡जसा  
+दाश्वां꣡सम् उ꣡प गछतम्  
+इ꣡न्द्रवायू इहा꣡ गतम्  

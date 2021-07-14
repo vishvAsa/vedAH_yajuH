@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-evéd eté práti mā rócamānā  
-ánediyaḥ śráva éṣo dádhānāḥ  
-saṃcákṣiyā marutaś candrávarṇā  
-áchānta me chadáyāthā ca nūnám  
+एवे꣡द् एते꣡ प्र꣡ति मा रो꣡चमाना  
+अ꣡नेदियः श्र꣡व ए꣡षो द꣡धानाः  
+संच꣡क्षिया मरुतश् चन्द्र꣡वर्णा  
+अ꣡छान्त मे छद꣡याथा च नून꣡म्  

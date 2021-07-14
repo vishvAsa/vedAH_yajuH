@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yó áśvānāṃ yó gávāṃ gópatir vaśī́  
-yá āritáḥ kármaṇi-karmaṇi sthiráḥ  
-vīḷóś cid índro yó ásunvato vadhó  
-marútvantaṃ sakhiyā́ya havāmahe  
+यो꣡ अ꣡श्वानां यो꣡ ग꣡वां गो꣡पतिर् वशी꣡  
+य꣡ आरितः꣡ क꣡र्मणि-कर्मणि स्थिरः꣡  
+वीऌओ꣡श् चिद् इ꣡न्द्रो यो꣡ अ꣡सुन्वतो वधो꣡  
+मरु꣡त्वन्तं सखिया꣡य हवामहे  

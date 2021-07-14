@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-pánya ā́ dardirac chatā́  
-sahásrā vājī́ ávr̥taḥ  
-índro yó yájvano vr̥dháḥ  
+प꣡न्य आ꣡ दर्दिरच् छता꣡  
+सह꣡स्रा वाजी꣡ अ꣡वृतः  
+इ꣡न्द्रो यो꣡ य꣡ज्वनो वृधः꣡  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-bhū́ri cakartha yújiyebhir asmé  
-samānébhir vr̥ṣabha paúṃsiyebhiḥ  
-bhū́rīṇi hí kr̥ṇávāmā śaviṣṭha  
-índra krátvā maruto yád váśāma  
+भू꣡रि चकर्थ यु꣡जियेभिर् अस्मे꣡  
+समाने꣡भिर् वृषभ पउं꣡सियेभिः  
+भू꣡रीणि हि꣡ कृण꣡वामा शविष्ठ  
+इ꣡न्द्र क्र꣡त्वा मरुतो य꣡द् व꣡शाम  

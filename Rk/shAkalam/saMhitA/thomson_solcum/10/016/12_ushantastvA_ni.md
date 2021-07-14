@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-uśántas tvā ní dhīmahi  
-uśántaḥ sám idhīmahi  
-uśánn uśatá ā́ vaha  
-pitr̥̄́n havíṣe áttave  
+उश꣡न्तस् त्वा नि꣡ धीमहि  
+उश꣡न्तः स꣡म् इधीमहि  
+उश꣡न्न् उशत꣡ आ꣡ वह  
+पितॄ꣡न् हवि꣡षे अ꣡त्तवे  

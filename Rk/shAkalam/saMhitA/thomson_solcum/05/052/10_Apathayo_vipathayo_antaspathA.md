@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́pathayo vípathayo  
-ántaspathā ánupathāḥ  
-etébhir máhya° nā́mabhir  
-yajñáṃ viṣṭārá ohate  
+आ꣡पथयो वि꣡पथयो  
+अ꣡न्तस्पथा अ꣡नुपथाः  
+एते꣡भिर् म꣡ह्य° ना꣡मभिर्  
+यज्ञं꣡ विष्टार꣡ ओहते  

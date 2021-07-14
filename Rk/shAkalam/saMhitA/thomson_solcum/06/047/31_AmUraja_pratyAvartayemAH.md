@@ -2,7 +2,7 @@
 title = "031"
 
 +++
-ā́mū́r aja pratiā́vartayemā́ḥ  
-ketumád · dundubhír vāvadīti  
-sám áśvaparṇāś cáranti no náro  
-asmā́kam indra rathíno jayantu  
+आ꣡मू꣡र् अज प्रतिआ꣡वर्तयेमाः꣡  
+केतुम꣡द् · दुन्दुभि꣡र् वावदीति  
+स꣡म् अ꣡श्वपर्णाश् च꣡रन्ति नो न꣡रो  
+अस्मा꣡कम् इन्द्र रथि꣡नो जयन्तु  

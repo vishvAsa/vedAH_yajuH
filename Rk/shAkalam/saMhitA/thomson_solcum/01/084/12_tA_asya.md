@@ -2,8 +2,8 @@
 title = "012"
 
 +++
-tā́ asya námasā sáhaḥ  
-saparyánti prácetasaḥ  
-vratā́ni asya saścire  
-purū́ṇi pūrvácittaye  
-vásvīr ánu svarā́jiyam  
+ता꣡ अस्य न꣡मसा स꣡हः  
+सपर्य꣡न्ति प्र꣡चेतसः  
+व्रता꣡नि अस्य सश्चिरे  
+पुरू꣡णि पूर्व꣡चित्तये  
+व꣡स्वीर् अ꣡नु स्वरा꣡जियम्  

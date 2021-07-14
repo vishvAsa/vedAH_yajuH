@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-táva prayājā́ anuyājā́ś ca kévala  
-ū́rjasvanto havíṣaḥ santu bhāgā́ḥ  
-távāgne yajñó ayám astu sárvas  
-túbhyaṃ namantām pradíśaś cátasraḥ  
+त꣡व प्रयाजा꣡ अनुयाजा꣡श् च के꣡वल  
+ऊ꣡र्जस्वन्तो हवि꣡षः सन्तु भागाः꣡  
+त꣡वाग्ने यज्ञो꣡ अय꣡म् अस्तु स꣡र्वस्  
+तु꣡भ्यं नमन्ताम् प्रदि꣡शश् च꣡तस्रः  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-evéd índraṃ vŕ̥ṣaṇaṃ vájrabāhuṃ  
-vásiṣṭhāso abhí arcanti arkaíḥ  
-sá na stutó vīrávad dhātu gómad  
-yūyám pāta suastíbhiḥ sádā naḥ  
+एवे꣡द् इ꣡न्द्रं व्ŕ̥षणं व꣡ज्रबाहुं  
+व꣡सिष्ठासो अभि꣡ अर्चन्ति अर्कइः꣡  
+स꣡ न स्तुतो꣡ वीर꣡वद् धातु गो꣡मद्  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

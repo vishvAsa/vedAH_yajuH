@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vīḷupátmabhir āśuhémabhir vā  
-devā́nāṃ vā jūtíbhiḥ śā́śadānā  
-tád rā́sabho nāsatiyā sahásram  
-ājā́ yamásya pradháne jigāya  
+वीऌउप꣡त्मभिर् आशुहे꣡मभिर् वा  
+देवा꣡नां वा जूति꣡भिः शा꣡शदाना  
+त꣡द् रा꣡सभो नासतिया सह꣡स्रम्  
+आजा꣡ यम꣡स्य प्रध꣡ने जिगाय  

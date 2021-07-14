@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-samidhyámānaḥ prathamā́nu dhármā  
-sám aktúbhir ajyate viśvávāraḥ  
-śocíṣkeśo ghr̥tánirṇik pavākáḥ+  
-suyajñó agnír yajáthāya devā́n  
+समिध्य꣡मानः प्रथमा꣡नु ध꣡र्मा  
+स꣡म् अक्तु꣡भिर् अज्यते विश्व꣡वारः  
+शोचि꣡ष्केशो घृत꣡निर्णिक् पवाकः꣡+  
+सुयज्ञो꣡ अग्नि꣡र् यज꣡थाय देवा꣡न्  

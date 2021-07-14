@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-tám u tvā gótamo girā́  
-rāyáskāmo duvasyati  
-dyumnaír abhí prá ṇonumaḥ  
+त꣡म् उ त्वा गो꣡तमो गिरा꣡  
+राय꣡स्कामो दुवस्यति  
+द्युम्नइ꣡र् अभि꣡ प्र꣡ णोनुमः  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-vāsáyasīva vedhásas tuváṃ naḥ  
-kadā́ na indra vácaso bubodhaḥ  
-ástaṃ tātyā́ dhiyā́ rayíṃ suvī́ram  
-pr̥kṣó no árvā ní uhīta vājī́  
+वास꣡यसीव वेध꣡सस् तुवं꣡ नः  
+कदा꣡ न इन्द्र व꣡चसो बुबोधः  
+अ꣡स्तं तात्या꣡ धिया꣡ रयिं꣡ सुवी꣡रम्  
+पृक्षो꣡ नो अ꣡र्वा नि꣡ उहीत वाजी꣡  

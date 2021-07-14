@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-párā gā́vo yávasaṃ kác cid āghr̥ṇe  
-nítyaṃ rékṇo amartiya  
-asmā́kam pūṣann avitā́ śivó bhava  
-máṃhiṣṭho vā́jasātaye  
+प꣡रा गा꣡वो य꣡वसं क꣡च् चिद् आघृणे  
+नि꣡त्यं रे꣡क्णो अमर्तिय  
+अस्मा꣡कम् पूषन्न् अविता꣡ शिवो꣡ भव  
+मं꣡हिष्ठो वा꣡जसातये  

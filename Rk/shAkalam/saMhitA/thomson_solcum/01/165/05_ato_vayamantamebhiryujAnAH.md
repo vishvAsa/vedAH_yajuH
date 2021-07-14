@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áto vayám antamébhir yujānā́ḥ  
-svákṣatrebhis tanúvaḥ śúmbhamānāḥ  
-máhobhir étām̐ úpa yujmahe nú  
-índra svadhā́m ánu hí no babhū́tha  
+अ꣡तो वय꣡म् अन्तमे꣡भिर् युजानाः꣡  
+स्व꣡क्षत्रेभिस् तनु꣡वः शु꣡म्भमानाः  
+म꣡होभिर् ए꣡ताँ उ꣡प युज्महे नु꣡  
+इ꣡न्द्र स्वधा꣡म् अ꣡नु हि꣡ नो बभू꣡थ  

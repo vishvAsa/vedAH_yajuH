@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-mahā́m̐ utā́si yásya te  
-ánu svadhā́varī sáhaḥ  
-mamnā́te indra ródasī  
+महाँ꣡ उता꣡सि य꣡स्य ते  
+अ꣡नु स्वधा꣡वरी स꣡हः  
+मम्ना꣡ते इन्द्र रो꣡दसी  

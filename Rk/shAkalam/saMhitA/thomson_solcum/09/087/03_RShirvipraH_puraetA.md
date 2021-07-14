@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ŕ̥ṣir vípraḥ puraetā́ jánānām  
-r̥bhúr dhī́ra uśánā kā́viyena  
-sá cid viveda níhitaṃ yád āsām  
-apīcíyaṃ gúhiyaṃ nā́ma gónām  
+ŕ̥षिर् वि꣡प्रः पुरएता꣡ ज꣡नानाम्  
+ऋभु꣡र् धी꣡र उश꣡ना का꣡वियेन  
+स꣡ चिद् विवेद नि꣡हितं य꣡द् आसाम्  
+अपीचि꣡यं गु꣡हियं ना꣡म गो꣡नाम्  

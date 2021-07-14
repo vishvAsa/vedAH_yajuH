@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sárasvatīṃ yā́m pitáro hávante  
-dakṣiṇā́ yajñám abhinákṣamāṇāḥ  
-sahasraarghám iḷó átra bhāgáṃ  
-rāyás póṣaṃ yájamāneṣu dhehi  
+स꣡रस्वतीं या꣡म् पित꣡रो ह꣡वन्ते  
+दक्षिणा꣡ यज्ञ꣡म् अभिन꣡क्षमाणाः  
+सहस्रअर्घ꣡म् इऌओ꣡ अ꣡त्र भागं꣡  
+राय꣡स् पो꣡षं य꣡जमानेषु धेहि  

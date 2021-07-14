@@ -2,5 +2,5 @@
 title = "001"
 
 +++
-ā́ yāhi vánasā sahá  
-gā́vaḥ sacanta vartaníṃ yád ū́dhabhiḥ  
+आ꣡ याहि व꣡नसा सह꣡  
+गा꣡वः सचन्त वर्तनिं꣡ य꣡द् ऊ꣡धभिः  

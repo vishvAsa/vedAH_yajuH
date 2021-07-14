@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yé te śúṣmaṃ yé táviṣīm ávardhann  
-árcanta indra marútas ta ójaḥ  
-mā́dhyaṃdine sávane vajrahasta  
-píbā rudrébhiḥ ságaṇaḥ suśipra  
+ये꣡ ते शु꣡ष्मं ये꣡ त꣡विषीम् अ꣡वर्धन्न्  
+अ꣡र्चन्त इन्द्र मरु꣡तस् त ओ꣡जः  
+मा꣡ध्यंदिने स꣡वने वज्रहस्त  
+पि꣡बा रुद्रे꣡भिः स꣡गणः सुशिप्र  

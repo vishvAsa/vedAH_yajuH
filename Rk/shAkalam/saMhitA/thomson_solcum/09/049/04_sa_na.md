@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-sá na ūrjé ví avyáyam  
-pavítraṃ dhāva dhā́rayā  
-devā́saḥ śr̥ṇávan hí kam  
+स꣡ न ऊर्जे꣡ वि꣡ अव्य꣡यम्  
+पवि꣡त्रं धाव धा꣡रया  
+देवा꣡सः शृण꣡वन् हि꣡ कम्  

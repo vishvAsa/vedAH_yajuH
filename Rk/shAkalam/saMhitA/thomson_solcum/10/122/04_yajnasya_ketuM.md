@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yajñásya ketúm prathamám puróhitaṃ  
-havíṣmanta īḷate saptá vājínam  
-śr̥ṇvántam agníṃ ghr̥tápr̥ṣṭham ukṣáṇam  
-pr̥ṇántaṃ devám pr̥ṇaté suvī́riyam  
+यज्ञ꣡स्य केतु꣡म् प्रथम꣡म् पुरो꣡हितं  
+हवि꣡ष्मन्त ईऌअते सप्त꣡ वाजि꣡नम्  
+शृण्व꣡न्तम् अग्निं꣡ घृत꣡पृष्ठम् उक्ष꣡णम्  
+पृण꣡न्तं देव꣡म् पृणते꣡ सुवी꣡रियम्  

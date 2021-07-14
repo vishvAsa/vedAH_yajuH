@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-anyám asmád bhiyā́ iyám  
-ágne síṣaktu duchúnā  
-várdhā no ámavac chávaḥ  
+अन्य꣡म् अस्म꣡द् भिया꣡ इय꣡म्  
+अ꣡ग्ने सि꣡षक्तु दुछु꣡ना  
+व꣡र्धा नो अ꣡मवच् छ꣡वः  

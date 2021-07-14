@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá vo mahé máhi námo bharadhvam  
-āṅgūṣíyaṃ śavasānā́ya sā́ma  
-yénā naḥ pū́rve pitáraḥ padajñā́  
-árcanto áṅgiraso gā́ ávindan  
+प्र꣡ वो महे꣡ म꣡हि न꣡मो भरध्वम्  
+आङ्गूषि꣡यं शवसाना꣡य सा꣡म  
+ये꣡ना नः पू꣡र्वे पित꣡रः पदज्ञा꣡  
+अ꣡र्चन्तो अ꣡ङ्गिरसो गा꣡ अ꣡विन्दन्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-áṣāḷham ugrám pŕ̥tanāsu sāsahíṃ  
-yásmin mahī́r urujráyaḥ  
-sáṃ dhenávo jā́yamāne anonavur  
-dyā́vaḥ kṣā́mo anonavuḥ  
+अ꣡षाऌहम् उग्र꣡म् प्ŕ̥तनासु सासहिं꣡  
+य꣡स्मिन् मही꣡र् उरुज्र꣡यः  
+सं꣡ धेन꣡वो जा꣡यमाने अनोनवुर्  
+द्या꣡वः क्षा꣡मो अनोनवुः  

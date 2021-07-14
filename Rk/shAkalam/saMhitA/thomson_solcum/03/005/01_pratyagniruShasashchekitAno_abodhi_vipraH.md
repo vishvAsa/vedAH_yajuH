@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-práti agnír uṣásaś cékitāno  
-ábodhi vípraḥ padavī́ḥ kavīnā́m  
-pr̥thupā́jā devayádbhiḥ sámiddho  
-ápa dvā́rā támaso váhnir āvaḥ  
+प्र꣡ति अग्नि꣡र् उष꣡सश् चे꣡कितानो  
+अ꣡बोधि वि꣡प्रः पदवीः꣡ कवीना꣡म्  
+पृथुपा꣡जा देवय꣡द्भिः स꣡मिद्धो  
+अ꣡प द्वा꣡रा त꣡मसो व꣡ह्निर् आवः  

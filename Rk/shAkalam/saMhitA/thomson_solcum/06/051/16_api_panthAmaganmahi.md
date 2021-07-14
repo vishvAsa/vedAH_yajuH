@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-ápi pánthām aganmahi  
-suastigā́m anehásam  
-yéna víśvāḥ pári dvíṣo  
-vr̥ṇákti vindáte vásu  
+अ꣡पि प꣡न्थाम् अगन्महि  
+सुअस्तिगा꣡म् अनेह꣡सम्  
+ये꣡न वि꣡श्वाः प꣡रि द्वि꣡षो  
+वृण꣡क्ति विन्द꣡ते व꣡सु  

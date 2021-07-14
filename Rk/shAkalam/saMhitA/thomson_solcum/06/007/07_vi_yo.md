@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ví yó rájāṃsi ámimīta sukrátur  
-vaiśvānaró ví divó rocanā́ kavíḥ  
-pári yó víśvā bhúvanāni paprathé  
-ádabdho gopā́ amŕ̥tasya rakṣitā́  
+वि꣡ यो꣡ र꣡जांसि अ꣡मिमीत सुक्र꣡तुर्  
+वैश्वानरो꣡ वि꣡ दिवो꣡ रोचना꣡ कविः꣡  
+प꣡रि यो꣡ वि꣡श्वा भु꣡वनानि पप्रथे꣡  
+अ꣡दब्धो गोपा꣡ अम्ŕ̥तस्य रक्षिता꣡  

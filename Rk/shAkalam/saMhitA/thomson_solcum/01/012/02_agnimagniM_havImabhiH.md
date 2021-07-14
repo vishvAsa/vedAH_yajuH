@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-agním-agniṃ hávīmabhiḥ  
-sádā havanta viśpátim  
-havyavā́ham purupriyám  
+अग्नि꣡म्-अग्निं ह꣡वीमभिः  
+स꣡दा हवन्त विश्प꣡तिम्  
+हव्यवा꣡हम् पुरुप्रिय꣡म्  

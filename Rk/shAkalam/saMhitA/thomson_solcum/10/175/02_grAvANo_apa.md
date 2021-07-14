@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-grā́vāṇo ápa duchúnām  
-ápa sedhata durmatím  
-usrā́ḥ kartana bheṣajám  
+ग्रा꣡वाणो अ꣡प दुछु꣡नाम्  
+अ꣡प सेधत दुर्मति꣡म्  
+उस्राः꣡ कर्तन भेषज꣡म्  

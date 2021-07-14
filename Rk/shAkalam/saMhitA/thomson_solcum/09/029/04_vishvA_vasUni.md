@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-víśvā vásūni saṃjáyan  
-pávasva soma dhā́rayā  
-inú dvéṣāṃsi sadhríak  
+वि꣡श्वा व꣡सूनि संज꣡यन्  
+प꣡वस्व सोम धा꣡रया  
+इनु꣡ द्वे꣡षांसि सध्रि꣡अक्  

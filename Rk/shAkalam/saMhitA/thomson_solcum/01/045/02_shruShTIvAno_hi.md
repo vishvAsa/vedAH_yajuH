@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-śruṣṭīvā́no hí dāśúṣe  
-devā́ agne vícetasaḥ  
-tā́n rohidaśva girvaṇas  
-tráyastriṃśatam ā́ vaha  
+श्रुष्टीवा꣡नो हि꣡ दाशु꣡षे  
+देवा꣡ अग्ने वि꣡चेतसः  
+ता꣡न् रोहिदश्व गिर्वणस्  
+त्र꣡यस्त्रिंशतम् आ꣡ वह  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá īm mr̥gó · ápiyo vanargúr  
-úpa tvací upamásyāṃ ní dhāyi  
-ví abravīd vayúnā mártiyebhyo  
-agnír vidvā́m̐ · r̥tacíd dhí satyáḥ  
+स꣡ ईम् मृगो꣡ · अ꣡पियो वनर्गु꣡र्  
+उ꣡प त्वचि꣡ उपम꣡स्यां नि꣡ धायि  
+वि꣡ अब्रवीद् वयु꣡ना म꣡र्तियेभ्यो  
+अग्नि꣡र् विद्वाँ꣡ · ऋतचि꣡द् धि꣡ सत्यः꣡  

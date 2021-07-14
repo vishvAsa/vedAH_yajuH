@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-áchā naḥ śīráśociṣaṃ  
-gíro yantu darśatám  
-áchā yajñā́so námasā purūvásum  
-purupraśastám ūtáye  
+अ꣡छा नः शीर꣡शोचिषं  
+गि꣡रो यन्तु दर्शत꣡म्  
+अ꣡छा यज्ञा꣡सो न꣡मसा पुरूव꣡सुम्  
+पुरुप्रशस्त꣡म् ऊत꣡ये  

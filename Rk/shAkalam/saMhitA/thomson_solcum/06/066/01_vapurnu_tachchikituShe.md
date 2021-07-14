@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vápur nú tác cikitúṣe cid astu  
-samānáṃ nā́ma dhenú pátyamānam  
-márteṣu anyád doháse pīpā́ya  
-sakŕ̥c chukráṃ duduhe pŕ̥śnir ū́dhaḥ  
+व꣡पुर् नु꣡ त꣡च् चिकितु꣡षे चिद् अस्तु  
+समानं꣡ ना꣡म धेनु꣡ प꣡त्यमानम्  
+म꣡र्तेषु अन्य꣡द् दोह꣡से पीपा꣡य  
+सक्ŕ̥च् छुक्रं꣡ दुदुहे प्ŕ̥श्निर् ऊ꣡धः  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yā́si kútsena sarátham avasyús  
-todó vā́tasya háriyor ī́śānaḥ  
-r̥jrā́ vā́jaṃ ná gádhiyaṃ yúyūṣan  
-kavír yád áhan pā́riyāya bhū́ṣāt  
+या꣡सि कु꣡त्सेन सर꣡थम् अवस्यु꣡स्  
+तोदो꣡ वा꣡तस्य ह꣡रियोर् ई꣡शानः  
+ऋज्रा꣡ वा꣡जं न꣡ ग꣡धियं यु꣡यूषन्  
+कवि꣡र् य꣡द् अ꣡हन् पा꣡रियाय भू꣡षात्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-táṃ suprátīkaṃ sudŕ̥śaṃ suáñcam  
-ávidvāṃso vidúṣṭaraṃ sapema  
-sá yakṣad víśvā vayúnāni vidvā́n  
-prá havyám agnír amŕ̥teṣu vocat  
+तं꣡ सुप्र꣡तीकं सुद्ŕ̥शं सुअ꣡ञ्चम्  
+अ꣡विद्वांसो विदु꣡ष्टरं सपेम  
+स꣡ यक्षद् वि꣡श्वा वयु꣡नानि विद्वा꣡न्  
+प्र꣡ हव्य꣡म् अग्नि꣡र् अम्ŕ̥तेषु वोचत्  

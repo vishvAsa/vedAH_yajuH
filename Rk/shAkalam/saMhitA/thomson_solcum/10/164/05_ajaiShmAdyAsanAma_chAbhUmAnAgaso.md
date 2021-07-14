@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-ájaiṣmādyā́sanāma ca  
-ábhūmā́nāgaso vayám  
-jāgratsvapnáḥ saṃkalpáḥ pāpó  
-yáṃ dviṣmás táṃ sá r̥chatu  
-yó no dvéṣṭi tám r̥chatu  
+अ꣡जैष्माद्या꣡सनाम च  
+अ꣡भूमा꣡नागसो वय꣡म्  
+जाग्रत्स्वप्नः꣡ संकल्पः꣡ पापो꣡  
+यं꣡ द्विष्म꣡स् तं꣡ स꣡ ऋछतु  
+यो꣡ नो द्वे꣡ष्टि त꣡म् ऋछतु  

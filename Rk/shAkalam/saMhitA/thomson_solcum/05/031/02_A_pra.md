@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ prá drava harivo mā́ ví venaḥ  
-píśaṅgarāte abhí naḥ sacasva  
-nahí tvád indra vásyo anyád ásti  
-amenā́ṃś cij jánivataś cakartha  
+आ꣡ प्र꣡ द्रव हरिवो मा꣡ वि꣡ वेनः  
+पि꣡शङ्गराते अभि꣡ नः सचस्व  
+नहि꣡ त्व꣡द् इन्द्र व꣡स्यो अन्य꣡द् अ꣡स्ति  
+अमेनां꣡श् चिज् ज꣡निवतश् चकर्थ  

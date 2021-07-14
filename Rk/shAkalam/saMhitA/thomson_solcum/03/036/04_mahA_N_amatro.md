@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mahā́m̐ ámatro vr̥jáne virapśí  
-ugráṃ śávaḥ patyate dhr̥ṣṇú ójaḥ  
-nā́ha vivyāca pr̥thivī́ canaínaṃ  
-yát sómāso háriaśvam ámandan  
+महाँ꣡ अ꣡मत्रो वृज꣡ने विरप्शि꣡  
+उग्रं꣡ श꣡वः पत्यते धृष्णु꣡ ओ꣡जः  
+ना꣡ह विव्याच पृथिवी꣡ चनइ꣡नं  
+य꣡त् सो꣡मासो ह꣡रिअश्वम् अ꣡मन्दन्  

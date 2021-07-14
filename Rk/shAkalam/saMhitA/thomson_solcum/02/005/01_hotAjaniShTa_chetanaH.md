@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-hótājaniṣṭa cétanaḥ  
-pitā́ pitŕ̥bhya ūtáye  
-prayákṣañ jéniyaṃ vásu  
-śakéma vājíno yámam  
+हो꣡ताजनिष्ट चे꣡तनः  
+पिता꣡ पित्ŕ̥भ्य ऊत꣡ये  
+प्रय꣡क्षञ् जे꣡नियं व꣡सु  
+शके꣡म वाजि꣡नो य꣡मम्  

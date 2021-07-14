@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-vaíśvānara táva dhā́māni ā́ cake  
-yébhiḥ suvarvíd ábhavo vicakṣaṇa  
-jātá ā́pr̥ṇo bhúvanāni ródasī  
-ágne tā́ víśvā paribhū́r asi tmánā  
+वइ꣡श्वानर त꣡व धा꣡मानि आ꣡ चके  
+ये꣡भिः सुवर्वि꣡द् अ꣡भवो विचक्षण  
+जात꣡ आ꣡पृणो भु꣡वनानि रो꣡दसी  
+अ꣡ग्ने ता꣡ वि꣡श्वा परिभू꣡र् असि त्म꣡ना  

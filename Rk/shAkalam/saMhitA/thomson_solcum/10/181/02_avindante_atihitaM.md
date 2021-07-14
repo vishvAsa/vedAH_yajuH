@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ávindan té átihitaṃ yád ā́sīd  
-yajñásya dhā́ma paramáṃ gúhā yát  
-dhātúr dyútānāt savitúś ca víṣṇor  
-bharádvājo br̥hád ā́ cakre agnéḥ  
+अ꣡विन्दन् ते꣡ अ꣡तिहितं य꣡द् आ꣡सीद्  
+यज्ञ꣡स्य धा꣡म परमं꣡ गु꣡हा य꣡त्  
+धातु꣡र् द्यु꣡तानात् सवितु꣡श् च वि꣡ष्णोर्  
+भर꣡द्वाजो बृह꣡द् आ꣡ चक्रे अग्नेः꣡  

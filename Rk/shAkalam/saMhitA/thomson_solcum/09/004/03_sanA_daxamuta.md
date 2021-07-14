@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-sánā dákṣam utá krátum  
-ápa soma mŕ̥dho jahi  
-áthā no vásyasas kr̥dhi  
+स꣡ना द꣡क्षम् उत꣡ क्र꣡तुम्  
+अ꣡प सोम म्ŕ̥धो जहि  
+अ꣡था नो व꣡स्यसस् कृधि  

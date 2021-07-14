@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-índro nédiṣṭham ávasā́gamiṣṭhaḥ  
-sárasvatī síndhubhiḥ pínvamānā  
-parjányo na óṣadhībhir mayobhúr  
-agníḥ suśáṃsaḥ suhávaḥ pitéva  
+इ꣡न्द्रो ने꣡दिष्ठम् अ꣡वसा꣡गमिष्ठः  
+स꣡रस्वती सि꣡न्धुभिः पि꣡न्वमाना  
+पर्ज꣡न्यो न ओ꣡षधीभिर् मयोभु꣡र्  
+अग्निः꣡ सुशं꣡सः सुह꣡वः पिते꣡व  

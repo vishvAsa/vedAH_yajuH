@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-stīrṇáṃ te barhíḥ sutá indra sómaḥ  
-kr̥tā́ dhānā́ áttave te háribhyām  
-tádokase puruśā́kāya vŕ̥ṣṇe  
-marútvate túbhyaṃ rātā́ havī́ṃṣi  
+स्तीर्णं꣡ ते बर्हिः꣡ सुत꣡ इन्द्र सो꣡मः  
+कृता꣡ धाना꣡ अ꣡त्तवे ते ह꣡रिभ्याम्  
+त꣡दोकसे पुरुशा꣡काय व्ŕ̥ष्णे  
+मरु꣡त्वते तु꣡भ्यं राता꣡ हवीं꣡षि  

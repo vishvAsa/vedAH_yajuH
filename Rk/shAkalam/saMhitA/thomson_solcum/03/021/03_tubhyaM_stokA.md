@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-túbhyaṃ stokā́ ghr̥taścúto  
-ágne víprāya santiya  
-ŕ̥ṣiḥ śréṣṭhaḥ sám idhyase  
-yajñásya prāvitā́ bhava  
+तु꣡भ्यं स्तोका꣡ घृतश्चु꣡तो  
+अ꣡ग्ने वि꣡प्राय सन्तिय  
+ŕ̥षिः श्रे꣡ष्ठः स꣡म् इध्यसे  
+यज्ञ꣡स्य प्राविता꣡ भव  

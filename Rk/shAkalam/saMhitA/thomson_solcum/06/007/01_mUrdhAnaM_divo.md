@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mūrdhā́naṃ divó aratím pr̥thivyā́  
-vaiśvānarám r̥tá ā́ jātám agním  
-kavíṃ samrā́jam átithiṃ jánānām  
-āsánn ā́ pā́traṃ janayanta devā́ḥ  
+मूर्धा꣡नं दिवो꣡ अरति꣡म् पृथिव्या꣡  
+वैश्वानर꣡म् ऋत꣡ आ꣡ जात꣡म् अग्नि꣡म्  
+कविं꣡ सम्रा꣡जम् अ꣡तिथिं ज꣡नानाम्  
+आस꣡न्न् आ꣡ पा꣡त्रं जनयन्त देवाः꣡  

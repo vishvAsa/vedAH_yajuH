@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yuváṃ śakrā māyāvínā  
-samīcī́ nír amanthatam  
-vimadéna yád īḷitā́  
-nā́satyā nirámanthatam  
+युवं꣡ शक्रा मायावि꣡ना  
+समीची꣡ नि꣡र् अमन्थतम्  
+विमदे꣡न य꣡द् ईऌइता꣡  
+ना꣡सत्या निर꣡मन्थतम्  

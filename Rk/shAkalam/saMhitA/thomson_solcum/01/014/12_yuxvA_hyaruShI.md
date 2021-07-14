@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-yukṣvā́ hí áruṣī ráthe  
-haríto deva rohítaḥ  
-tā́bhir devā́m̐ ihā́ vaha  
+युक्ष्वा꣡ हि꣡ अ꣡रुषी र꣡थे  
+हरि꣡तो देव रोहि꣡तः  
+ता꣡भिर् देवाँ꣡ इहा꣡ वह  

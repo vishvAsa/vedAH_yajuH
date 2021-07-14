@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuvám agne draviṇodā́ araṃkŕ̥te  
-tuváṃ deváḥ savitā́ ratnadhā́ asi  
-tuvám bhágo nr̥pate vásva īśiṣe  
-tuvám pãyúr dáme yás te ávidhat  
+तुव꣡म् अग्ने द्रविणोदा꣡ अरंक्ŕ̥ते  
+तुवं꣡ देवः꣡ सविता꣡ रत्नधा꣡ असि  
+तुव꣡म् भ꣡गो नृपते व꣡स्व ईशिषे  
+तुव꣡म् प्ãयु꣡र् द꣡मे य꣡स् ते अ꣡विधत्  

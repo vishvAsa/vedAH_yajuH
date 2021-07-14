@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-divó ná yásya rétaso dúghānāḥ  
-pánthāso yánti śávasā́parītāḥ  
-taráddveṣāḥ sāsahíḥ paúṃsiyebhir  
-marútvān no bhavatu índra ūtī́  
+दिवो꣡ न꣡ य꣡स्य रे꣡तसो दु꣡घानाः  
+प꣡न्थासो य꣡न्ति श꣡वसा꣡परीताः  
+तर꣡द्द्वेषाः सासहिः꣡ पउं꣡सियेभिर्  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

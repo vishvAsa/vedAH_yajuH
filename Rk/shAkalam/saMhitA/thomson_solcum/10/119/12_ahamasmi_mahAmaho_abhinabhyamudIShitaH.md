@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-ahám asmi mahāmahó  
-abhinabhyám údīṣitaḥ  
-kuvít sómasyā́pām íti  
+अह꣡म् अस्मि महामहो꣡  
+अभिनभ्य꣡म् उ꣡दीषितः  
+कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति  

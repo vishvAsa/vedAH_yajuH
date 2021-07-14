@@ -2,9 +2,9 @@
 title = "001"
 
 +++
-agním astoṣi r̥gmíyam  
-agním īḷā́ yajádhiyai  
-agnír devā́m̐ anaktu na  
-ubhé hí vidáthe kavír  
-antáś cárati dūtíyaṃ  
-nábhantām anyaké same  
+अग्नि꣡म् अस्तोषि ऋग्मि꣡यम्  
+अग्नि꣡म् ईऌआ꣡ यज꣡धियै  
+अग्नि꣡र् देवाँ꣡ अनक्तु न  
+उभे꣡ हि꣡ विद꣡थे कवि꣡र्  
+अन्त꣡श् च꣡रति दूति꣡यं  
+न꣡भन्ताम् अन्यके꣡ समे  

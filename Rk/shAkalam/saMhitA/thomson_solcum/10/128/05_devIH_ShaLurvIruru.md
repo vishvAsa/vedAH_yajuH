@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-dévīḥ ṣaḷ urvīr urú naḥ kr̥ṇota  
-víśve devāsa ihá vīrayadhvam  
-mā́ hāsmahi prajáyā mā́ tanū́bhir  
-mā́ radhāma dviṣaté soma rājan  
+दे꣡वीः षऌ उर्वीर् उरु꣡ नः कृणोत  
+वि꣡श्वे देवास इह꣡ वीरयध्वम्  
+मा꣡ हास्महि प्रज꣡या मा꣡ तनू꣡भिर्  
+मा꣡ रधाम द्विषते꣡ सोम राजन्  

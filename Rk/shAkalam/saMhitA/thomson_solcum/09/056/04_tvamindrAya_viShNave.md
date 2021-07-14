@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-tuvám índrāya víṣṇave  
-svādúr indo pári srava  
-nr̥̄́n stotr̥̄́n pāhi áṃhasaḥ  
+तुव꣡म् इ꣡न्द्राय वि꣡ष्णवे  
+स्वादु꣡र् इन्दो प꣡रि स्रव  
+नॄ꣡न् स्तोतॄ꣡न् पाहि अं꣡हसः  

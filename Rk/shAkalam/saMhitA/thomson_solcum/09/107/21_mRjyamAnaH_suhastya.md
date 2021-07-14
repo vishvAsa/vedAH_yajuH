@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-mr̥jyámānaḥ suhastiya  
-samudré vā́cam invasi  
-rayím piśáṅgam bahulám puruspŕ̥ham  
-pávamānābhí arṣasi  
+मृज्य꣡मानः सुहस्तिय  
+समुद्रे꣡ वा꣡चम् इन्वसि  
+रयि꣡म् पिश꣡ङ्गम् बहुल꣡म् पुरुस्प्ŕ̥हम्  
+प꣡वमानाभि꣡ अर्षसि  

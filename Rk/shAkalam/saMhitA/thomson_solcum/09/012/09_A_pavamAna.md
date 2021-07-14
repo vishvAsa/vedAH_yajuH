@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-ā́ pavamāna dhāraya  
-rayíṃ sahásravarcasam  
-asmé indo suābhúvam  
+आ꣡ पवमान धारय  
+रयिं꣡ सह꣡स्रवर्चसम्  
+अस्मे꣡ इन्दो सुआभु꣡वम्  

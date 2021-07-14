@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuváṃ divó br̥hatáḥ sā́nu kopayo  
-áva tmánā dhr̥ṣatā́ śámbaram bhinat  
-yán māyíno vrandíno mandínā dhr̥ṣác  
-chitā́ṃ gábhastim aśánim pr̥tanyási  
+तुवं꣡ दिवो꣡ बृहतः꣡ सा꣡नु कोपयो  
+अ꣡व त्म꣡ना धृषता꣡ श꣡म्बरम् भिनत्  
+य꣡न् मायि꣡नो व्रन्दि꣡नो मन्दि꣡ना धृष꣡च्  
+छितां꣡ ग꣡भस्तिम् अश꣡निम् पृतन्य꣡सि  

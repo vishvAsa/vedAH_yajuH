@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tīvrā́n ghóṣān kr̥ṇvate vŕ̥ṣapāṇayo  
-áśvā ráthebhiḥ sahá vājáyantaḥ  
-avakrā́mantaḥ prápadair amítrān  
-kṣiṇánti śátrūm̐r ánapavyayantaḥ  
+तीव्रा꣡न् घो꣡षान् कृण्वते व्ŕ̥षपाणयो  
+अ꣡श्वा र꣡थेभिः सह꣡ वाज꣡यन्तः  
+अवक्रा꣡मन्तः प्र꣡पदैर् अमि꣡त्रान्  
+क्षिण꣡न्ति श꣡त्रूँर् अ꣡नपव्ययन्तः  

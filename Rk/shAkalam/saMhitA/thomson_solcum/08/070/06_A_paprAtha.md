@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́ paprātha mahinā́ vŕ̥ṣṇiyā vr̥ṣan  
-víśvā śaviṣṭha śávasā  
-asmā́m̐ ava maghavan gómati vrajé  
-vájriñ citrā́bhir ūtíbhiḥ  
+आ꣡ पप्राथ महिना꣡ व्ŕ̥ष्णिया वृषन्  
+वि꣡श्वा शविष्ठ श꣡वसा  
+अस्माँ꣡ अव मघवन् गो꣡मति व्रजे꣡  
+व꣡ज्रिञ् चित्रा꣡भिर् ऊति꣡भिः  

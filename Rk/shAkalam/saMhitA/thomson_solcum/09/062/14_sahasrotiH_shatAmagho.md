@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-sahásrotiḥ śatā́magho  
-vimā́no rájasaḥ kavíḥ  
-índrāya pavate mádaḥ  
+सह꣡स्रोतिः शता꣡मघो  
+विमा꣡नो र꣡जसः कविः꣡  
+इ꣡न्द्राय पवते म꣡दः  

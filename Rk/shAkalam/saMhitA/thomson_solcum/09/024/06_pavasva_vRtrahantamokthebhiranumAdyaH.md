@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-pávasva vr̥trahantama  
-ukthébhir anumā́diyaḥ  
-śúciḥ pavākó+ ádbhutaḥ  
+प꣡वस्व वृत्रहन्तम  
+उक्थे꣡भिर् अनुमा꣡दियः  
+शु꣡चिः पवाको꣡+ अ꣡द्भुतः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ádribhiḥ sutó matíbhiś cánohitaḥ  
-prarocáyan ródasī mātárā śúciḥ  
-rómāṇi ávyā samáyā ví dhāvati  
-mádhor dhā́rā pínvamānā divé-dive  
+अ꣡द्रिभिः सुतो꣡ मति꣡भिश् च꣡नोहितः  
+प्ररोच꣡यन् रो꣡दसी मात꣡रा शु꣡चिः  
+रो꣡माणि अ꣡व्या सम꣡या वि꣡ धावति  
+म꣡धोर् धा꣡रा पि꣡न्वमाना दिवे꣡-दिवे  

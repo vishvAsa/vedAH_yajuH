@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ā́ no bhara dákṣiṇena  
-abhí savyéna prá mr̥śa  
-índra mā́ no vásor nír bhāk  
+आ꣡ नो भर द꣡क्षिणेन  
+अभि꣡ सव्ये꣡न प्र꣡ मृश  
+इ꣡न्द्र मा꣡ नो व꣡सोर् नि꣡र् भाक्  

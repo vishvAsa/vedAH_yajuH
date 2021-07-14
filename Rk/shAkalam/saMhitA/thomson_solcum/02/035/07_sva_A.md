@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-svá ā́ dáme sudúghā yásya dhenúḥ  
-svadhā́m pīpāya subhú ánnam atti  
-só 'pā́ṃ° nápād ūrjáyann apsú antár  
-vasudéyāya vidhaté ví bhāti  
+स्व꣡ आ꣡ द꣡मे सुदु꣡घा य꣡स्य धेनुः꣡  
+स्वधा꣡म् पीपाय सुभु꣡ अ꣡न्नम् अत्ति  
+सो꣡ ऽपां꣡° न꣡पाद् ऊर्ज꣡यन्न् अप्सु꣡ अन्त꣡र्  
+वसुदे꣡याय विधते꣡ वि꣡ भाति  

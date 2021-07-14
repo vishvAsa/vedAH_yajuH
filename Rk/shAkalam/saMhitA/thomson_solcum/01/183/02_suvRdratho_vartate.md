@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-suvŕ̥d rátho vartate yánn abhí kṣā́ṃ  
-yát tíṣṭhathaḥ krátumantā́nu pr̥kṣé  
-vápur vapuṣyā́ sacatām iyáṃ gī́r  
-divó duhitrā́ uṣásā sacethe  
+सुव्ŕ̥द् र꣡थो वर्तते य꣡न्न् अभि꣡ क्षां꣡  
+य꣡त् ति꣡ष्ठथः क्र꣡तुमन्ता꣡नु पृक्षे꣡  
+व꣡पुर् वपुष्या꣡ सचताम् इयं꣡ गी꣡र्  
+दिवो꣡ दुहित्रा꣡ उष꣡सा सचेथे  

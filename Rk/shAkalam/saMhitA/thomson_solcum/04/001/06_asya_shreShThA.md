@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-asyá śráyiṣṭhā+ subhágasya saṃdŕ̥g  
-devásya citrátamā mártiyeṣu  
-śúci ghr̥táṃ ná taptám ághniyāyā  
-spārhā́ devásya maṃháneva dhenóḥ  
+अस्य꣡ श्र꣡यिष्ठा+ सुभ꣡गस्य संद्ŕ̥ग्  
+देव꣡स्य चित्र꣡तमा म꣡र्तियेषु  
+शु꣡चि घृतं꣡ न꣡ तप्त꣡म् अ꣡घ्नियाया  
+स्पार्हा꣡ देव꣡स्य मंह꣡नेव धेनोः꣡  

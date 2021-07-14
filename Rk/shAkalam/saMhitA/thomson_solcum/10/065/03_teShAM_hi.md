@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-téṣāṃ hí mahnā́ mahatā́m anarváṇāṃ  
-stómām̐ íyarmi r̥tajñā́ r̥tāvŕ̥dhām  
-yé apsavám arṇaváṃ citrárādhasas  
-té no rāsantām maháye sumitriyā́ḥ  
+ते꣡षां हि꣡ मह्ना꣡ महता꣡म् अनर्व꣡णां  
+स्तो꣡माँ इ꣡यर्मि ऋतज्ञा꣡ ऋताव्ŕ̥धाम्  
+ये꣡ अप्सव꣡म् अर्णवं꣡ चित्र꣡राधसस्  
+ते꣡ नो रासन्ताम् मह꣡ये सुमित्रियाः꣡  

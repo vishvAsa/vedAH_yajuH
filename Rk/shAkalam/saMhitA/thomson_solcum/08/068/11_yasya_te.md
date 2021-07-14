@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-yásya te svādú sakhiyáṃ  
-svādvī́ práṇītir adrivaḥ  
-yajñó vitantasā́yiyaḥ  
+य꣡स्य ते स्वादु꣡ सखियं꣡  
+स्वाद्वी꣡ प्र꣡णीतिर् अद्रिवः  
+यज्ञो꣡ वितन्तसा꣡यियः  

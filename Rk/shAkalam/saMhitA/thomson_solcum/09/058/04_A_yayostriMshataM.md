@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ā́ yáyos triṃśátaṃ tánā  
-sahásrāṇi ca dádmahe  
-tárat sá mandī́ dhāvati  
+आ꣡ य꣡योस् त्रिंश꣡तं त꣡ना  
+सह꣡स्राणि च द꣡द्महे  
+त꣡रत् स꣡ मन्दी꣡ धावति  

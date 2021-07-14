@@ -2,6 +2,6 @@
 title = "029"
 
 +++
-yadā́ te mā́rutīr víśas  
-túbhyam indra niyemiré  
-ā́d ít te víśvā bhúvanāni yemire  
+यदा꣡ ते मा꣡रुतीर् वि꣡शस्  
+तु꣡भ्यम् इन्द्र नियेमिरे꣡  
+आ꣡द् इ꣡त् ते वि꣡श्वा भु꣡वनानि येमिरे  

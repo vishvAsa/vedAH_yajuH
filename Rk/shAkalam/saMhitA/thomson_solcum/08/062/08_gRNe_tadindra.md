@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-gr̥ṇé tád indra te śáva  
-upamáṃ devátātaye  
-yád dháṃsi vr̥trám ójasā śacīpate  
-bhadrā́ índrasya rātáyaḥ  
+गृणे꣡ त꣡द् इन्द्र ते श꣡व  
+उपमं꣡ देव꣡तातये  
+य꣡द् धं꣡सि वृत्र꣡म् ओ꣡जसा शचीपते  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  

@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-úd agne táva tád ghr̥tā́d  
-arcī́ rocata ā́hutam  
-níṃsānaṃ juhúvo múkhe  
+उ꣡द् अग्ने त꣡व त꣡द् घृता꣡द्  
+अर्ची꣡ रोचत आ꣡हुतम्  
+निं꣡सानं जुहु꣡वो मु꣡खे  

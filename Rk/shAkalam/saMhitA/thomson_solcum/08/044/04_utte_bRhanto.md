@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-út te br̥hánto arcáyaḥ  
-samidhānásya dīdivaḥ  
-ágne śukrā́sa īrate  
+उ꣡त् ते बृह꣡न्तो अर्च꣡यः  
+समिधान꣡स्य दीदिवः  
+अ꣡ग्ने शुक्रा꣡स ईरते  

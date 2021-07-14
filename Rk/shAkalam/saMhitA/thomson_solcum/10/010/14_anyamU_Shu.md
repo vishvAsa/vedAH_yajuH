@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-anyám ū ṣú tváṃ yami anyá u tvā́m  
-pári ṣvajāte líbujeva vr̥kṣám  
-tásya vā tvám mána ichā́ sá vā táva  
-ádhā kr̥ṇuṣva saṃvídaṃ súbhadrām  
+अन्य꣡म् ऊ षु꣡ त्वं꣡ यमि अन्य꣡ उ त्वा꣡म्  
+प꣡रि ष्वजाते लि꣡बुजेव वृक्ष꣡म्  
+त꣡स्य वा त्व꣡म् म꣡न इछा꣡ स꣡ वा त꣡व  
+अ꣡धा कृणुष्व संवि꣡दं सु꣡भद्राम्  

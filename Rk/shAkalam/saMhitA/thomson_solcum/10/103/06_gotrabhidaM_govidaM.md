@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-gotrabhídaṃ govídaṃ vájrabāhuṃ  
-jáyantam ájma pramr̥ṇántam ójasā  
-imáṃ sajātā ánu vīrayadhvam  
-índraṃ sakhāyo ánu sáṃ rabhadhvam  
+गोत्रभि꣡दं गोवि꣡दं व꣡ज्रबाहुं  
+ज꣡यन्तम् अ꣡ज्म प्रमृण꣡न्तम् ओ꣡जसा  
+इमं꣡ सजाता अ꣡नु वीरयध्वम्  
+इ꣡न्द्रं सखायो अ꣡नु सं꣡ रभध्वम्  

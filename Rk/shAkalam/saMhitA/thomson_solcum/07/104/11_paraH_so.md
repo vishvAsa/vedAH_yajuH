@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-paráḥ só astu tanúvā tánā ca  
-tisráḥ pr̥thivī́r adhó astu víśvāḥ  
-práti śuṣyatu yáśo asya devā  
-yó no dívā dípsati yáś ca náktam  
+परः꣡ सो꣡ अस्तु तनु꣡वा त꣡ना च  
+तिस्रः꣡ पृथिवी꣡र् अधो꣡ अस्तु वि꣡श्वाः  
+प्र꣡ति शुष्यतु य꣡शो अस्य देवा  
+यो꣡ नो दि꣡वा दि꣡प्सति य꣡श् च न꣡क्तम्  

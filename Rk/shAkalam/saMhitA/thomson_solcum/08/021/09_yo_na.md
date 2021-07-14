@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-yó na idám-idam purā́  
-prá vásya āninā́ya tám u va stuṣe  
-sákhāya índram ūtáye  
+यो꣡ न इद꣡म्-इदम् पुरा꣡  
+प्र꣡ व꣡स्य आनिना꣡य त꣡म् उ व स्तुषे  
+स꣡खाय इ꣡न्द्रम् ऊत꣡ये  

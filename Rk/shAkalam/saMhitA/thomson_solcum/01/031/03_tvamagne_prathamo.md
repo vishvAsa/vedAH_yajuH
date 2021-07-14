@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuvám agne prathamó mātaríśvana  
-āvír bhava sukratūyā́ vivásvate  
-árejetāṃ ródasī hotr̥vū́riye  
-ásaghnor bhārám áyajo mahó vaso  
+तुव꣡म् अग्ने प्रथमो꣡ मातरि꣡श्वन  
+आवि꣡र् भव सुक्रतूया꣡ विव꣡स्वते  
+अ꣡रेजेतां रो꣡दसी होतृवू꣡रिये  
+अ꣡सघ्नोर् भार꣡म् अ꣡यजो महो꣡ वसो  

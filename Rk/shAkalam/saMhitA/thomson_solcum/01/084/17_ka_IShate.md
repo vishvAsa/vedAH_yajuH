@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-ká īṣate tujyáte kó bibhāya  
-kó maṃsate sántam índraṃ kó ánti  
-kás tokā́ya ká íbhāyotá rāyé  
-ádhi bravat tanúve kó jánāya  
+क꣡ ईषते तुज्य꣡ते को꣡ बिभाय  
+को꣡ मंसते स꣡न्तम् इ꣡न्द्रं को꣡ अ꣡न्ति  
+क꣡स् तोका꣡य क꣡ इ꣡भायोत꣡ राये꣡  
+अ꣡धि ब्रवत् तनु꣡वे को꣡ ज꣡नाय  

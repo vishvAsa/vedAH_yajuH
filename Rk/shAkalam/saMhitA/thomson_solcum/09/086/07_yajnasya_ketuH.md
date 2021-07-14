@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yajñásya ketúḥ pavate suadhvaráḥ  
-sómo devā́nām úpa yāti niṣkr̥tám  
-sahásradhāraḥ pári kóśam arṣati  
-vŕ̥ṣā pavítram áti eti róruvat  
+यज्ञ꣡स्य केतुः꣡ पवते सुअध्वरः꣡  
+सो꣡मो देवा꣡नाम् उ꣡प याति निष्कृत꣡म्  
+सह꣡स्रधारः प꣡रि को꣡शम् अर्षति  
+व्ŕ̥षा पवि꣡त्रम् अ꣡ति एति रो꣡रुवत्  

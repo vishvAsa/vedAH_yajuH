@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tám asya dyā́vāpr̥thivī́ sácetasā  
-víśvebhir devaír ánu śúṣmam āvatām  
-yád aít kr̥ṇvānó mahimā́nam indriyám  
-pītvī́ sómasya krátumām̐ avardhata  
+त꣡म् अस्य द्या꣡वापृथिवी꣡ स꣡चेतसा  
+वि꣡श्वेभिर् देवइ꣡र् अ꣡नु शु꣡ष्मम् आवताम्  
+य꣡द् अइ꣡त् कृण्वानो꣡ महिमा꣡नम् इन्द्रिय꣡म्  
+पीत्वी꣡ सो꣡मस्य क्र꣡तुमाँ अवर्धत  

@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-iṣé pavasva dhā́rayā  
-mr̥jyámāno manīṣíbhiḥ  
-índo rucā́bhí gā́ ihi  
+इषे꣡ पवस्व धा꣡रया  
+मृज्य꣡मानो मनीषि꣡भिः  
+इ꣡न्दो रुचा꣡भि꣡ गा꣡ इहि  

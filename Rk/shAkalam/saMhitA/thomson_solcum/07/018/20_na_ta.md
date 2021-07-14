@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-ná ta indra sumatáyo ná rā́yaḥ  
-saṃcákṣe pū́rvā uṣáso ná nū́tnāḥ  
-dévakaṃ cin mānyamānáṃ jaghantha  
-áva tmánā br̥hatáḥ śámbaram bhet  
+न꣡ त इन्द्र सुमत꣡यो न꣡ रा꣡यः  
+संच꣡क्षे पू꣡र्वा उष꣡सो न꣡ नू꣡त्नाः  
+दे꣡वकं चिन् मान्यमानं꣡ जघन्थ  
+अ꣡व त्म꣡ना बृहतः꣡ श꣡म्बरम् भेत्  

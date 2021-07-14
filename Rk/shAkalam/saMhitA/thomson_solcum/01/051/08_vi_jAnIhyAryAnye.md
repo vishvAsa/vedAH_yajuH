@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ví jānīhi ā́riyān yé ca dásyavo  
-barhíṣmate randhayā śā́sad avratā́n  
-śā́kī bhava yájamānasya coditā́  
-víśvét tā́ te sadhamā́deṣu cākana  
+वि꣡ जानीहि आ꣡रियान् ये꣡ च द꣡स्यवो  
+बर्हि꣡ष्मते रन्धया शा꣡सद् अव्रता꣡न्  
+शा꣡की भव य꣡जमानस्य चोदिता꣡  
+वि꣡श्वे꣡त् ता꣡ ते सधमा꣡देषु चाकन  

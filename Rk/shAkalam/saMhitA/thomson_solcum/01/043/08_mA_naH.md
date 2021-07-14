@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-mā́ naḥ somaparibā́dho  
-mā́rātayo juhuranta  
-ā́ na indo vā́je bhaja  
+मा꣡ नः सोमपरिबा꣡धो  
+मा꣡रातयो जुहुरन्त  
+आ꣡ न इन्दो वा꣡जे भज  

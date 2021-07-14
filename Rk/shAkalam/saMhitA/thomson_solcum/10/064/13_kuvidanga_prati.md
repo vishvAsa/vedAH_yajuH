@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-kuvíd aṅgá práti yáthā cid asyá naḥ  
-sajātíyasya maruto búbodhatha  
-nā́bhā yátra prathamáṃ saṃnásāmahe  
-tátra jāmitvám áditir dadhātu naḥ  
+कुवि꣡द् अङ्ग꣡ प्र꣡ति य꣡था चिद् अस्य꣡ नः  
+सजाति꣡यस्य मरुतो बु꣡बोधथ  
+ना꣡भा य꣡त्र प्रथमं꣡ संन꣡सामहे  
+त꣡त्र जामित्व꣡म् अ꣡दितिर् दधातु नः  

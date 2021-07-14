@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-nā́háṃ veda bhrātr̥tváṃ nó svasr̥tvám  
-índro vidur áṅgirasaś ca ghorā́ḥ  
-gókāmā me achadayan yád ā́yam  
-ápā́ta ita paṇayo várīyaḥ  
+ना꣡हं꣡ वेद भ्रातृत्वं꣡ नो꣡ स्वसृत्व꣡म्  
+इ꣡न्द्रो विदुर् अ꣡ङ्गिरसश् च घोराः꣡  
+गो꣡कामा मे अछदयन् य꣡द् आ꣡यम्  
+अ꣡पा꣡त इत पणयो व꣡रीयः  

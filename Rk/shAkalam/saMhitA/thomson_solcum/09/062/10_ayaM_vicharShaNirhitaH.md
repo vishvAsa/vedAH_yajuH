@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-ayáṃ vícarṣaṇir hitáḥ  
-pávamānaḥ sá cetati  
-hinvāná ā́piyam br̥hát  
+अयं꣡ वि꣡चर्षणिर् हितः꣡  
+प꣡वमानः स꣡ चेतति  
+हिन्वान꣡ आ꣡पियम् बृह꣡त्  

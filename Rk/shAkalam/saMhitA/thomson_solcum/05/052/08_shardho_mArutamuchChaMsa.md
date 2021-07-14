@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-śárdho mā́rutam úc chaṃsa  
-satyáśavasam ŕ̥bhvasam  
-utá sma té śubhé náraḥ  
-prá syandrā́ yujata tmánā  
+श꣡र्धो मा꣡रुतम् उ꣡च् छंस  
+सत्य꣡शवसम् ŕ̥भ्वसम्  
+उत꣡ स्म ते꣡ शुभे꣡ न꣡रः  
+प्र꣡ स्यन्द्रा꣡ युजत त्म꣡ना  

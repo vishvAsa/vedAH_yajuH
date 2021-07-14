@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-tuváṃ naḥ pāhi áṃhaso  
-dóṣāvastar aghāyatáḥ  
-dívā náktam adābhiya  
+तुवं꣡ नः पाहि अं꣡हसो  
+दो꣡षावस्तर् अघायतः꣡  
+दि꣡वा न꣡क्तम् अदाभिय  

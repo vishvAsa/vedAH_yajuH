@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-abhí tvā pūrvápītaye  
-sr̥jā́mi somiyám mádhu  
-marúdbhir agna ā́ gahi  
+अभि꣡ त्वा पूर्व꣡पीतये  
+सृजा꣡मि सोमिय꣡म् म꣡धु  
+मरु꣡द्भिर् अग्न आ꣡ गहि  

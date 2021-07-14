@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yó yajñásya prasā́dhanas  
-tántur devéṣu ā́tataḥ  
-tám ā́hutaṃ naśīmahi  
+यो꣡ यज्ञ꣡स्य प्रसा꣡धनस्  
+त꣡न्तुर् देवे꣡षु आ꣡ततः  
+त꣡म् आ꣡हुतं नशीमहि  

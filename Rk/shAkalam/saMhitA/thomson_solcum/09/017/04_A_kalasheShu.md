@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ā́ kaláśeṣu dhāvati  
-pavítre pári ṣicyate  
-ukthaír yajñéṣu vardhate  
+आ꣡ कल꣡शेषु धावति  
+पवि꣡त्रे प꣡रि षिच्यते  
+उक्थइ꣡र् यज्ञे꣡षु वर्धते  

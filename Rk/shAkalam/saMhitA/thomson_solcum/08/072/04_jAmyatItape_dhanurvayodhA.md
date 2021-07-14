@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-jāmí atītape dhánur  
-vayodhā́ aruhad vánam  
-dr̥ṣádaṃ jihváyā́vadhīt  
+जामि꣡ अतीतपे ध꣡नुर्  
+वयोधा꣡ अरुहद् व꣡नम्  
+दृष꣡दं जिह्व꣡या꣡वधीत्  

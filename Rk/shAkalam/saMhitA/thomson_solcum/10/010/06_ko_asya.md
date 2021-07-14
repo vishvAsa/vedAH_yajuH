@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-kó asyá veda prathamásya áhnaḥ  
-ká īṃ dadarśa ká ihá prá vocat  
-br̥hán mitrásya váruṇasya dhā́ma  
-kád u brava āhano vī́ciyā nr̥̄́n  
+को꣡ अस्य꣡ वेद प्रथम꣡स्य अ꣡ह्नः  
+क꣡ ईं ददर्श क꣡ इह꣡ प्र꣡ वोचत्  
+बृह꣡न् मित्र꣡स्य व꣡रुणस्य धा꣡म  
+क꣡द् उ ब्रव आहनो वी꣡चिया नॄ꣡न्  

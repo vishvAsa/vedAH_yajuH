@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yā́m̐ ā́bhajo marúta indra sóme  
-yé tvā́m ávardhann ábhavan gaṇás te  
-tébhir etáṃ sajóṣā vāvaśānó  
-agnéḥ piba jihváyā sómam indra  
+याँ꣡ आ꣡भजो मरु꣡त इन्द्र सो꣡मे  
+ये꣡ त्वा꣡म् अ꣡वर्धन्न् अ꣡भवन् गण꣡स् ते  
+ते꣡भिर् एतं꣡ सजो꣡षा वावशानो꣡  
+अग्नेः꣡ पिब जिह्व꣡या सो꣡मम् इन्द्र  

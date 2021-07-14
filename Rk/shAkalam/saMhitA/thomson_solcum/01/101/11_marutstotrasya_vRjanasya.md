@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-marútstotrasya vr̥jánasya gopā́  
-vayám índreṇa sanuyāma vā́jam  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+मरु꣡त्स्तोत्रस्य वृज꣡नस्य गोपा꣡  
+वय꣡म् इ꣡न्द्रेण सनुयाम वा꣡जम्  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

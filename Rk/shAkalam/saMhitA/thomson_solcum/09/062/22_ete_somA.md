@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-eté sómā asr̥kṣata  
-gr̥ṇānā́ḥ śrávase mahé  
-madíntamasya dhā́rayā  
+एते꣡ सो꣡मा असृक्षत  
+गृणानाः꣡ श्र꣡वसे महे꣡  
+मदि꣡न्तमस्य धा꣡रया  

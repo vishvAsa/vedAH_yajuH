@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-táva cyautnā́ni vajrahasta tā́ni  
-náva yát púro navatíṃ ca sadyáḥ  
-nivéśane śatatamā́viveṣīr  
-áhañ ca vr̥tráṃ námucim utā́han  
+त꣡व च्यौत्ना꣡नि वज्रहस्त ता꣡नि  
+न꣡व य꣡त् पु꣡रो नवतिं꣡ च सद्यः꣡  
+निवे꣡शने शततमा꣡विवेषीर्  
+अ꣡हञ् च वृत्रं꣡ न꣡मुचिम् उता꣡हन्  

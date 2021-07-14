@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-ā́ yāhi kr̥ṇávāma ta  
-índra bráhmāṇi várdhanā  
-yébhiḥ śaviṣṭha cākáno  
-bhadrám ihá śravasyaté  
-bhadrā́ índrasya rātáyaḥ  
+आ꣡ याहि कृण꣡वाम त  
+इ꣡न्द्र ब्र꣡ह्माणि व꣡र्धना  
+ये꣡भिः शविष्ठ चाक꣡नो  
+भद्र꣡म् इह꣡ श्रवस्यते꣡  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  

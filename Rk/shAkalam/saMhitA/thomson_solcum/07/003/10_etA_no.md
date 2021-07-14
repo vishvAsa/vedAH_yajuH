@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-etā́ no agne saúbhagā didīhi  
-ápi krátuṃ sucétasaṃ vatema  
-víśvā stotŕ̥bhyo gr̥ṇaté ca santu  
-yūyám pāta suastíbhiḥ sádā naḥ  
+एता꣡ नो अग्ने सउ꣡भगा दिदीहि  
+अ꣡पि क्र꣡तुं सुचे꣡तसं वतेम  
+वि꣡श्वा स्तोत्ŕ̥भ्यो गृणते꣡ च सन्तु  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

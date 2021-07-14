@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-utá dyumát suvī́riyam  
-br̥hád agne vivāsasi  
-devébhyo deva dāśúṣe  
+उत꣡ द्युम꣡त् सुवी꣡रियम्  
+बृह꣡द् अग्ने विवाससि  
+देवे꣡भ्यो देव दाशु꣡षे  

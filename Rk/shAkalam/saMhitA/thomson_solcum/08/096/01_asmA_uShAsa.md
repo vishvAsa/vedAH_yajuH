@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-asmā́ uṣā́sa ā́tiranta yā́mam  
-índrāya náktam ū́rmiyāḥ suvā́caḥ  
-asmā́ ā́po mātáraḥ saptá tasthur  
-nŕ̥bhyas tárāya síndhavaḥ supārā́ḥ  
+अस्मा꣡ उषा꣡स आ꣡तिरन्त या꣡मम्  
+इ꣡न्द्राय न꣡क्तम् ऊ꣡र्मियाः सुवा꣡चः  
+अस्मा꣡ आ꣡पो मात꣡रः सप्त꣡ तस्थुर्  
+न्ŕ̥भ्यस् त꣡राय सि꣡न्धवः सुपाराः꣡  

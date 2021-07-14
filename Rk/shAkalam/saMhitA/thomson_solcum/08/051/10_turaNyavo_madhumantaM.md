@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-turaṇyávo mádhumantaṃ ghr̥taścútaṃ  
-víprāso arkám ānr̥cuḥ  
-asmé rayíḥ paprathe vŕ̥ṣṇiyaṃ śávo  
-asmé svānā́sa° índavaḥ  
+तुरण्य꣡वो म꣡धुमन्तं घृतश्चु꣡तं  
+वि꣡प्रासो अर्क꣡म् आनृचुः  
+अस्मे꣡ रयिः꣡ पप्रथे व्ŕ̥ष्णियं श꣡वो  
+अस्मे꣡ स्वाना꣡स° इ꣡न्दवः  

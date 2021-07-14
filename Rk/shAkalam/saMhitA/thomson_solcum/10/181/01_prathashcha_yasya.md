@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-práthaś ca yásya sapráthaś ca nā́ma  
-ā́nuṣṭubhasya havíṣo havír yát  
-dhātúr dyútānāt savitúś ca víṣṇo  
-rathaṃtarám ā́ jabhārā vásiṣṭhaḥ  
+प्र꣡थश् च य꣡स्य सप्र꣡थश् च ना꣡म  
+आ꣡नुष्टुभस्य हवि꣡षो हवि꣡र् य꣡त्  
+धातु꣡र् द्यु꣡तानात् सवितु꣡श् च वि꣡ष्णो  
+रथंतर꣡म् आ꣡ जभारा व꣡सिष्ठः  

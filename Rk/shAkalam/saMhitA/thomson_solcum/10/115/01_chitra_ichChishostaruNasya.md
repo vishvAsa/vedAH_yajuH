@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-citrá íc chíśos táruṇasya vakṣátho  
-ná yó mātárāv apiéti dhā́tave  
-anūdhā́ yádi jī́janad ádhā ca nú  
-vavákṣa sadyó máhi dūtíyaṃ cáran  
+चित्र꣡ इ꣡च् छि꣡शोस् त꣡रुणस्य वक्ष꣡थो  
+न꣡ यो꣡ मात꣡राव् अपिए꣡ति धा꣡तवे  
+अनूधा꣡ य꣡दि जी꣡जनद् अ꣡धा च नु꣡  
+वव꣡क्ष सद्यो꣡ म꣡हि दूति꣡यं च꣡रन्  

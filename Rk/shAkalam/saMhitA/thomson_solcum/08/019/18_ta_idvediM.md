@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-tá íd védiṃ · subhaga tá ā́hutiṃ  
-té sótuṃ cakrire diví  
-tá íd vā́jebhir jigiyur mahád dhánaṃ  
-yé tvé kā́maṃ nieriré  
+त꣡ इ꣡द् वे꣡दिं · सुभग त꣡ आ꣡हुतिं  
+ते꣡ सो꣡तुं चक्रिरे दिवि꣡  
+त꣡ इ꣡द् वा꣡जेभिर् जिगियुर् मह꣡द् ध꣡नं  
+ये꣡ त्वे꣡ का꣡मं निएरिरे꣡  

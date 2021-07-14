@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-átapyamāne ávasā ávantī  
-ánu ṣyāma ródasī deváputre  
-ubhé devā́nām ubháyebhir áhnāṃ  
-dyā́vā rákṣatam pr̥thivī no ábhvāt  
+अ꣡तप्यमाने अ꣡वसा अ꣡वन्ती  
+अ꣡नु ष्याम रो꣡दसी देव꣡पुत्रे  
+उभे꣡ देवा꣡नाम् उभ꣡येभिर् अ꣡ह्नां  
+द्या꣡वा र꣡क्षतम् पृथिवी नो अ꣡भ्वात्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-asmā́kam átra pitáras tá āsan  
-saptá ŕ̥ṣayo daurgahé badhyámāne  
-tá ā́yajanta trasádasyum asyā  
-índraṃ ná vr̥tratúram ardhadevám  
+अस्मा꣡कम् अ꣡त्र पित꣡रस् त꣡ आसन्  
+सप्त꣡ ŕ̥षयो दौर्गहे꣡ बध्य꣡माने  
+त꣡ आ꣡यजन्त त्रस꣡दस्युम् अस्या  
+इ꣡न्द्रं न꣡ वृत्रतु꣡रम् अर्धदेव꣡म्  

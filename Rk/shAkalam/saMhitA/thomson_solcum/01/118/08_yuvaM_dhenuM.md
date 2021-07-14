@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yuváṃ dhenúṃ śayáve nādhitā́ya  
-ápinvatam aśvinā pūrviyā́ya  
-ámuñcataṃ vártikām áṃhaso níḥ  
-práti jáṅghāṃ viśpálāyā adhattam  
+युवं꣡ धेनुं꣡ शय꣡वे नाधिता꣡य  
+अ꣡पिन्वतम् अश्विना पूर्विया꣡य  
+अ꣡मुञ्चतं व꣡र्तिकाम् अं꣡हसो निः꣡  
+प्र꣡ति ज꣡ङ्घां विश्प꣡लाया अधत्तम्  

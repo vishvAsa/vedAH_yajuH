@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-nānānáṃ vā́ u no dhíyo  
-ví vratā́ni jánānãm  
-tákṣā riṣṭáṃ rutám bhiṣág  
-brahmā́ sunvántam ichati  
-índrāyendo pári srava  
+नानानं꣡ वा꣡ उ नो धि꣡यो  
+वि꣡ व्रता꣡नि ज꣡नान्ãम्  
+त꣡क्षा रिष्टं꣡ रुत꣡म् भिष꣡ग्  
+ब्रह्मा꣡ सुन्व꣡न्तम् इछति  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

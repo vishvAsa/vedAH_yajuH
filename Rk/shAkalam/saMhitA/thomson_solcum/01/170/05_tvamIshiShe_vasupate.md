@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tvám īśiṣe vasupate vásūnāṃ  
-tvám mitrā́ṇām mitrapate dháyiṣṭhaḥ+  
-índra tuvám marúdbhiḥ sáṃ vadasva  
-ádha prā́śāna r̥tuthā́ havī́ṃṣi  
+त्व꣡म् ईशिषे वसुपते व꣡सूनां  
+त्व꣡म् मित्रा꣡णाम् मित्रपते ध꣡यिष्ठः+  
+इ꣡न्द्र तुव꣡म् मरु꣡द्भिः सं꣡ वदस्व  
+अ꣡ध प्रा꣡शान ऋतुथा꣡ हवीं꣡षि  

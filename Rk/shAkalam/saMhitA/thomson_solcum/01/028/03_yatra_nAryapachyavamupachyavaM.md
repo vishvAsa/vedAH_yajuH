@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yátra nā́rī apacyavám  
-upacyaváṃ ca śíkṣate  
-ulū́khalasutānãm  
-ávéd u indra jalgulaḥ  
+य꣡त्र ना꣡री अपच्यव꣡म्  
+उपच्यवं꣡ च शि꣡क्षते  
+उलू꣡खलसुतान्ãम्  
+अ꣡वे꣡द् उ इन्द्र जल्गुलः  

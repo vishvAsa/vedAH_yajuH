@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-vidmā́ hí tvā dhanaṃjayáṃ  
-vā́jeṣu dadhr̥ṣáṃ kave  
-ádhā te sumnám īmahe  
+विद्मा꣡ हि꣡ त्वा धनंजयं꣡  
+वा꣡जेषु दधृषं꣡ कवे  
+अ꣡धा ते सुम्न꣡म् ईमहे  

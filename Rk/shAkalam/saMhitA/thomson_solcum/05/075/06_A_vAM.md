@@ -2,8 +2,8 @@
 title = "006"
 
 +++
-ā́ vāṃ narā manoyújo  
-áśvāsaḥ pruṣitápsavaḥ  
-váyo vahantu pītáye  
-sahá sumnébhir aśvinā  
-mā́dhvī máma śrutaṃ hávam  
+आ꣡ वां नरा मनोयु꣡जो  
+अ꣡श्वासः प्रुषित꣡प्सवः  
+व꣡यो वहन्तु पीत꣡ये  
+सह꣡ सुम्ने꣡भिर् अश्विना  
+मा꣡ध्वी म꣡म श्रुतं ह꣡वम्  

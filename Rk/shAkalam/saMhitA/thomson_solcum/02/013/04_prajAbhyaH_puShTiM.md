@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prajā́bhyaḥ puṣṭíṃ vibhájanta āsate  
-rayíṃ 'va° pr̥ṣṭhám prabhávantam āyaté  
-ásinvan dáṃṣṭraiḥ pitúr atti bhójanaṃ  
-yás tā́kr̥ṇoḥ prathamáṃ sā́si ukthíyaḥ  
+प्रजा꣡भ्यः पुष्टिं꣡ विभ꣡जन्त आसते  
+रयिं꣡ ऽव° पृष्ठ꣡म् प्रभ꣡वन्तम् आयते꣡  
+अ꣡सिन्वन् दं꣡ष्ट्रैः पितु꣡र् अत्ति भो꣡जनं  
+य꣡स् ता꣡कृणोः प्रथमं꣡ सा꣡सि उक्थि꣡यः  

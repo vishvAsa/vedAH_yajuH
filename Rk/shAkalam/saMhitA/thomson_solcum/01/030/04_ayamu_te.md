@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ayám u te sám atasi  
-kapóta iva garbhadhím  
-vácas tác cin na ohase  
+अय꣡म् उ ते स꣡म् अतसि  
+कपो꣡त इव गर्भधि꣡म्  
+व꣡चस् त꣡च् चिन् न ओहसे  

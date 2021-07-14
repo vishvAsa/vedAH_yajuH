@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-mánojavā áyamāna  
-āyasī́m atarat púram  
-dívaṃ suparṇó gatvā́ya  
-sómaṃ vajríṇa ā́bharat  
+म꣡नोजवा अ꣡यमान  
+आयसी꣡म् अतरत् पु꣡रम्  
+दि꣡वं सुपर्णो꣡ गत्वा꣡य  
+सो꣡मं वज्रि꣡ण आ꣡भरत्  

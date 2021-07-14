@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-stutā́so no marúto mr̥̄ḷayantu+  
-utá stutó maghávā śámbhaviṣṭhaḥ  
-ūrdhvā́ naḥ santu komiyā́ vánāni  
-áhāni víśvā maruto jigīṣā́  
+स्तुता꣡सो नो मरु꣡तो मॄऌअयन्तु+  
+उत꣡ स्तुतो꣡ मघ꣡वा श꣡म्भविष्ठः  
+ऊर्ध्वा꣡ नः सन्तु कोमिया꣡ व꣡नानि  
+अ꣡हानि वि꣡श्वा मरुतो जिगीषा꣡  

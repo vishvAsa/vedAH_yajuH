@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ástīdám adhimánthanam  
-ásti prajánanaṃ kr̥tám  
-etā́ṃ viśpátnīm ā́ bhara  
-agním manthāma pūrváthā  
+अ꣡स्तीद꣡म् अधिम꣡न्थनम्  
+अ꣡स्ति प्रज꣡ननं कृत꣡म्  
+एतां꣡ विश्प꣡त्नीम् आ꣡ भर  
+अग्नि꣡म् मन्थाम पूर्व꣡था  

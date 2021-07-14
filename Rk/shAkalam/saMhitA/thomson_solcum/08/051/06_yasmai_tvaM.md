@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yásmai tuváṃ vaso dānā́ya śíkṣasi  
-sá rāyás póṣam aśnute  
-táṃ tvā vayám maghavann indra girvaṇaḥ  
-sutā́vanto havāmahe  
+य꣡स्मै तुवं꣡ वसो दाना꣡य शि꣡क्षसि  
+स꣡ राय꣡स् पो꣡षम् अश्नुते  
+तं꣡ त्वा वय꣡म् मघवन्न् इन्द्र गिर्वणः  
+सुता꣡वन्तो हवामहे  

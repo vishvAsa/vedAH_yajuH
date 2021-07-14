@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-satyámugrasya br̥hatáḥ  
-sáṃ sravanti saṃsravā́ḥ  
-sáṃ yanti rasíno rásāḥ  
-punānó bráhmaṇā hara  
-índrāyendo pári srava  
+सत्य꣡मुग्रस्य बृहतः꣡  
+सं꣡ स्रवन्ति संस्रवाः꣡  
+सं꣡ यन्ति रसि꣡नो र꣡साः  
+पुनानो꣡ ब्र꣡ह्मणा हर  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

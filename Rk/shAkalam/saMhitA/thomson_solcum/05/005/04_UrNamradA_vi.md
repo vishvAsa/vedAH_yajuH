@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ū́rṇamradā ví prathasva  
-abhí arkā́ anūṣata  
-bhávā naḥ śubhra sātáye  
+ऊ꣡र्णम्रदा वि꣡ प्रथस्व  
+अभि꣡ अर्का꣡ अनूषत  
+भ꣡वा नः शुभ्र सात꣡ये  

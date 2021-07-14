@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-túbhyaṃ ścotanti adhrigo śacīva  
-stokā́so agne médaso ghr̥tásya  
-kaviśastó br̥hatā́ bhānúnā́gā  
-havyā́ juṣasva medhira  
+तु꣡भ्यं श्चोतन्ति अध्रिगो शचीव  
+स्तोका꣡सो अग्ने मे꣡दसो घृत꣡स्य  
+कविशस्तो꣡ बृहता꣡ भानु꣡ना꣡गा  
+हव्या꣡ जुषस्व मेधिर  

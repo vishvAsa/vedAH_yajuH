@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kó vo mahā́nti mahatā́m úd aśnavat  
-kás kā́viyā marutaḥ kó ha paúṃsiyā  
-yūyáṃ ha bhū́miṃ kiráṇaṃ ná rejatha  
-prá yád bháradhve suvitā́ya dāváne  
+को꣡ वो महा꣡न्ति महता꣡म् उ꣡द् अश्नवत्  
+क꣡स् का꣡विया मरुतः को꣡ ह पउं꣡सिया  
+यूयं꣡ ह भू꣡मिं किर꣡णं न꣡ रेजथ  
+प्र꣡ य꣡द् भ꣡रध्वे सुविता꣡य दाव꣡ने  

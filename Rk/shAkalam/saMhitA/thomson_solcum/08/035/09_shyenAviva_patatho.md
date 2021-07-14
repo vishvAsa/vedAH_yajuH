@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-śyenā́v iva patatho havyádātaye  
-sómaṃ sutám mahiṣévā́va gachathaḥ  
-sajóṣasā uṣásā sū́riyeṇa ca  
-trír vartír yātam aśvinā  
+श्येना꣡व् इव पतथो हव्य꣡दातये  
+सो꣡मं सुत꣡म् महिषे꣡वा꣡व गछथः  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+त्रि꣡र् वर्ति꣡र् यातम् अश्विना  

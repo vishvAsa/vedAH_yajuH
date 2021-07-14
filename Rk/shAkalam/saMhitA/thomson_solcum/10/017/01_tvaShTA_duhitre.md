@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tváṣṭā duhitré vahatúṃ kr̥ṇoti  
-ítīdáṃ víśvam bhúvanaṃ sám eti  
-yamásya mātā́ pariuhyámānā  
-mahó jāyā́ vívasvato nanāśa  
+त्व꣡ष्टा दुहित्रे꣡ वहतुं꣡ कृणोति  
+इ꣡तीदं꣡ वि꣡श्वम् भु꣡वनं स꣡म् एति  
+यम꣡स्य माता꣡ परिउह्य꣡माना  
+महो꣡ जाया꣡ वि꣡वस्वतो ननाश  

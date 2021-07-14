@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kā́ vãm bhūd úpamātiḥ káyā na  
-ā́ áśvinā gamatho hūyámānā  
-kó vām maháś cit tyájaso abhī́ka  
-uruṣyátam mādhvī dasrā na ūtī́  
+का꣡ व्ãम् भूद् उ꣡पमातिः क꣡या न  
+आ꣡ अ꣡श्विना गमथो हूय꣡माना  
+को꣡ वाम् मह꣡श् चित् त्य꣡जसो अभी꣡क  
+उरुष्य꣡तम् माध्वी दस्रा न ऊती꣡  

@@ -2,8 +2,8 @@
 title = "008"
 
 +++
-adveṣó no maruto gātúm étana  
-śrótā hávaṃ jaritúr evayā́marut  
-víṣṇor maháḥ samanyavo yuyotana  
-smád rathíyo ná daṃsánā  
-ápa dvéṣāṃsi sanutáḥ  
+अद्वेषो꣡ नो मरुतो गातु꣡म् ए꣡तन  
+श्रो꣡ता ह꣡वं जरितु꣡र् एवया꣡मरुत्  
+वि꣡ष्णोर् महः꣡ समन्यवो युयोतन  
+स्म꣡द् रथि꣡यो न꣡ दंस꣡ना  
+अ꣡प द्वे꣡षांसि सनुतः꣡  

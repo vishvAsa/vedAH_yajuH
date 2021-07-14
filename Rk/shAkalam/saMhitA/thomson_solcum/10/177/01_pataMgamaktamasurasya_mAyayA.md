@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-pataṃgám aktám ásurasya māyáyā  
-hr̥dā́ paśyanti mánasā vipaścítaḥ  
-samudré antáḥ kaváyo ví cakṣate  
-márīcīnām padám ichanti vedhásaḥ  
+पतंग꣡म् अक्त꣡म् अ꣡सुरस्य माय꣡या  
+हृदा꣡ पश्यन्ति म꣡नसा विपश्चि꣡तः  
+समुद्रे꣡ अन्तः꣡ कव꣡यो वि꣡ चक्षते  
+म꣡रीचीनाम् पद꣡म् इछन्ति वेध꣡सः  

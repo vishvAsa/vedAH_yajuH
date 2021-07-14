@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-aśvāyánto gavyánto vājáyanto  
-hávāmahe tvā úpagantavā́ u  
-ābhū́ṣantas te sumataú návāyāṃ  
-vayám indra tvā śunáṃ huvema  
+अश्वाय꣡न्तो गव्य꣡न्तो वाज꣡यन्तो  
+ह꣡वामहे त्वा उ꣡पगन्तवा꣡ उ  
+आभू꣡षन्तस् ते सुमतउ꣡ न꣡वायां  
+वय꣡म् इन्द्र त्वा शुनं꣡ हुवेम  

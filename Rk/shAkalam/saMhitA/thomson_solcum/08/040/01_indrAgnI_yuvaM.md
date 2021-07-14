@@ -2,9 +2,9 @@
 title = "001"
 
 +++
-índraagnī yuváṃ sú naḥ  
-sáhantā dā́satho rayím  
-yéna dr̥̄ḷhā́+ samátsu ā́  
-vīḷú cit sāhiṣīmáhi  
-agnír váneva vā́ta ín  
-nábhantām anyaké same  
+इ꣡न्द्रअग्नी युवं꣡ सु꣡ नः  
+स꣡हन्ता दा꣡सथो रयि꣡म्  
+ये꣡न दॄऌहा꣡+ सम꣡त्सु आ꣡  
+वीऌउ꣡ चित् साहिषीम꣡हि  
+अग्नि꣡र् व꣡नेव वा꣡त इ꣡न्  
+न꣡भन्ताम् अन्यके꣡ समे  

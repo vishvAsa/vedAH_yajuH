@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sáktum iva títaünā punánto  
-yátra dhī́rā mánasā vā́cam ákrata  
-átrā sákhāyaḥ sakhiyā́ni jānate  
-bhadraíṣāṃ lakṣmī́r níhitā́dhi vācí  
+स꣡क्तुम् इव ति꣡तüना पुन꣡न्तो  
+य꣡त्र धी꣡रा म꣡नसा वा꣡चम् अ꣡क्रत  
+अ꣡त्रा स꣡खायः सखिया꣡नि जानते  
+भद्रइ꣡षां लक्ष्मी꣡र् नि꣡हिता꣡धि वाचि꣡  

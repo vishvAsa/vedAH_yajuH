@@ -2,7 +2,7 @@
 title = "042"
 
 +++
-tásyāḥ samudrā́ ádhi ví kṣaranti  
-téna jīvanti pradíśaś cátasraḥ  
-tátaḥ kṣarati akṣáraṃ  
-tád víśvam úpa jīvati  
+त꣡स्याः समुद्रा꣡ अ꣡धि वि꣡ क्षरन्ति  
+ते꣡न जीवन्ति प्रदि꣡शश् च꣡तस्रः  
+त꣡तः क्षरति अक्ष꣡रं  
+त꣡द् वि꣡श्वम् उ꣡प जीवति  

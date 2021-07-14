@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-índro mahnā́ maható arṇavásya  
-ví mūrdhā́nam abhinad arbudásya  
-áhann áhim áriṇāt saptá síndhūn  
-devaír dyāvāpr̥thivī prā́vataṃ naḥ  
+इ꣡न्द्रो मह्ना꣡ महतो꣡ अर्णव꣡स्य  
+वि꣡ मूर्धा꣡नम् अभिनद् अर्बुद꣡स्य  
+अ꣡हन्न् अ꣡हिम् अ꣡रिणात् सप्त꣡ सि꣡न्धून्  
+देवइ꣡र् द्यावापृथिवी प्रा꣡वतं नः  

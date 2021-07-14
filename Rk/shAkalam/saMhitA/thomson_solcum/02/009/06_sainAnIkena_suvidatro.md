@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-saínā́nīkena suvidátro asmé  
-yáṣṭā devā́m̐ ā́yajiṣṭhaḥ suastí  
-ádabdho gopā́ utá naḥ paraspā́  
-ágne dyumád utá revád didīhi  
+सइ꣡ना꣡नीकेन सुविद꣡त्रो अस्मे꣡  
+य꣡ष्टा देवाँ꣡ आ꣡यजिष्ठः सुअस्ति꣡  
+अ꣡दब्धो गोपा꣡ उत꣡ नः परस्पा꣡  
+अ꣡ग्ने द्युम꣡द् उत꣡ रेव꣡द् दिदीहि  

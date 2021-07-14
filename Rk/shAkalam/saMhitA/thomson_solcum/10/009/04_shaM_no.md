@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-śáṃ no devī́r abhíṣṭaya  
-ā́po bhavantu pītáye  
-śáṃ yór abhí sravantu naḥ  
+शं꣡ नो देवी꣡र् अभि꣡ष्टय  
+आ꣡पो भवन्तु पीत꣡ये  
+शं꣡ यो꣡र् अभि꣡ स्रवन्तु नः  

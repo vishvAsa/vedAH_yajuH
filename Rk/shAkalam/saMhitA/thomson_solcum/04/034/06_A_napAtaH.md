@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́ napātaḥ śavaso yātanópa  
-imáṃ yajñáṃ námasā hūyámānāḥ  
-sajóṣasaḥ sūrayo yásya ca sthá  
-mádhvaḥ pāta ratnadhā́ índravantaḥ  
+आ꣡ नपातः शवसो यातनो꣡प  
+इमं꣡ यज्ञं꣡ न꣡मसा हूय꣡मानाः  
+सजो꣡षसः सूरयो य꣡स्य च स्थ꣡  
+म꣡ध्वः पात रत्नधा꣡ इ꣡न्द्रवन्तः  

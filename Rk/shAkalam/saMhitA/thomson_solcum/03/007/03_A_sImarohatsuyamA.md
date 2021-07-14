@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ sīm arohat suyámā bhávantīḥ  
-pátiś cikitvā́n rayivíd rayīṇā́m  
-prá nī́lapr̥ṣṭho atasásya dhāsés  
-tā́ avāsayat purudhápratīkaḥ  
+आ꣡ सीम् अरोहत् सुय꣡मा भ꣡वन्तीः  
+प꣡तिश् चिकित्वा꣡न् रयिवि꣡द् रयीणा꣡म्  
+प्र꣡ नी꣡लपृष्ठो अतस꣡स्य धासे꣡स्  
+ता꣡ अवासयत् पुरुध꣡प्रतीकः  

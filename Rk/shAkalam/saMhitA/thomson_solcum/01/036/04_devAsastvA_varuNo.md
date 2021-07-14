@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-devā́sas tvā váruṇo mitró aryamā́  
-sáṃ dūtám pratnám indhate  
-víśvaṃ só agne jayati tváyā dhánaṃ  
-yás te dadā́śa mártiyaḥ  
+देवा꣡सस् त्वा व꣡रुणो मित्रो꣡ अर्यमा꣡  
+सं꣡ दूत꣡म् प्रत्न꣡म् इन्धते  
+वि꣡श्वं सो꣡ अग्ने जयति त्व꣡या ध꣡नं  
+य꣡स् ते ददा꣡श म꣡र्तियः  

@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-agnír jāgāra tám ŕ̥caḥ kāmayante  
-agnír jāgāra tám u sā́māni yanti  
-agnír jāgāra tám ayáṃ sóma āha  
-távāhám asmi sakhiyé níokāḥ  
+अग्नि꣡र् जागार त꣡म् ŕ̥चः कामयन्ते  
+अग्नि꣡र् जागार त꣡म् उ सा꣡मानि यन्ति  
+अग्नि꣡र् जागार त꣡म् अयं꣡ सो꣡म आह  
+त꣡वाह꣡म् अस्मि सखिये꣡ नि꣡ओकाः  

@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tuváṃ hí aṅgá daíviyā  
-pávamāna jánimāni dyumáttamaḥ  
-amr̥tatvā́ya ghoṣáyaḥ  
+तुवं꣡ हि꣡ अङ्ग꣡ दइ꣡विया  
+प꣡वमान ज꣡निमानि द्युम꣡त्तमः  
+अमृतत्वा꣡य घोष꣡यः  

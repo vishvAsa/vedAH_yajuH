@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mahé yát pitrá īṃ rásaṃ divé kár  
-áva tsarat pr̥śaníyaś cikitvā́n  
-sr̥jád ástā dhr̥ṣatā́ didyúm asmai  
-svā́yāṃ devó duhitári tvíṣiṃ dhāt  
+महे꣡ य꣡त् पित्र꣡ ईं र꣡सं दिवे꣡ क꣡र्  
+अ꣡व त्सरत् पृशनि꣡यश् चिकित्वा꣡न्  
+सृज꣡द् अ꣡स्ता धृषता꣡ दिद्यु꣡म् अस्मै  
+स्वा꣡यां देवो꣡ दुहित꣡रि त्वि꣡षिं धात्  

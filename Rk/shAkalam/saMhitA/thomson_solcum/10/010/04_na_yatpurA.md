@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ná yát purā́ cakr̥mā́ kád dha nūnám  
-r̥tā́ vádanto ánr̥taṃ rapema  
-gandharvó apsú ápiyā ca yóṣā  
-sā́ no nā́bhiḥ paramáṃ jāmí tán nau  
+न꣡ य꣡त् पुरा꣡ चकृमा꣡ क꣡द् ध नून꣡म्  
+ऋता꣡ व꣡दन्तो अ꣡नृतं रपेम  
+गन्धर्वो꣡ अप्सु꣡ अ꣡पिया च यो꣡षा  
+सा꣡ नो ना꣡भिः परमं꣡ जामि꣡ त꣡न् नौ  

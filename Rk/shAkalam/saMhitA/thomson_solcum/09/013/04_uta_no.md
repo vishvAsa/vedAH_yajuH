@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-utá no vā́jasātaye  
-pávasva br̥hatī́r íṣaḥ  
-dyumád indo suvī́riyam  
+उत꣡ नो वा꣡जसातये  
+प꣡वस्व बृहती꣡र् इ꣡षः  
+द्युम꣡द् इन्दो सुवी꣡रियम्  

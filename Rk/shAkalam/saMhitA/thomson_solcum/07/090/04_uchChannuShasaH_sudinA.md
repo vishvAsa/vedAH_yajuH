@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-uchánn uṣásaḥ sudínā ariprā́  
-urú jyótir vividur dī́dhiyānāḥ  
-gávyaṃ cid ūrvám uśíjo ví vavrus  
-téṣām ánu pradívaḥ sasrur ā́paḥ  
+उछ꣡न्न् उष꣡सः सुदि꣡ना अरिप्रा꣡  
+उरु꣡ ज्यो꣡तिर् विविदुर् दी꣡धियानाः  
+ग꣡व्यं चिद् ऊर्व꣡म् उशि꣡जो वि꣡ वव्रुस्  
+ते꣡षाम् अ꣡नु प्रदि꣡वः सस्रुर् आ꣡पः  

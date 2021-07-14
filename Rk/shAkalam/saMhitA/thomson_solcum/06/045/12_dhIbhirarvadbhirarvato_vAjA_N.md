@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-dhībhír árvadbhir árvato  
-vā́jām̐ indra śravā́yiyān  
-tváyā jeṣma hitáṃ dhánam  
+धीभि꣡र् अ꣡र्वद्भिर् अ꣡र्वतो  
+वा꣡जाँ इन्द्र श्रवा꣡यियान्  
+त्व꣡या जेष्म हितं꣡ ध꣡नम्  

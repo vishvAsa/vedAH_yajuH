@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yūpavraskā́ utá yé yūpavāhā́ś  
-caṣā́laṃ yé aśvayūpā́ya tákṣati  
-yé cā́rvate pácanaṃ sambharánti  
-utó téṣām abhígūrtir na invatu  
+यूपव्रस्का꣡ उत꣡ ये꣡ यूपवाहा꣡श्  
+चषा꣡लं ये꣡ अश्वयूपा꣡य त꣡क्षति  
+ये꣡ चा꣡र्वते प꣡चनं सम्भर꣡न्ति  
+उतो꣡ ते꣡षाम् अभि꣡गूर्तिर् न इन्वतु  

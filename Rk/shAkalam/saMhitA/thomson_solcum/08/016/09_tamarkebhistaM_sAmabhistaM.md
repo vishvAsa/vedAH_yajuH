@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-tám arkébhis táṃ sā́mabhis  
-táṃ gāyatraíś carṣaṇáyaḥ  
-índraṃ vardhanti kṣitáyaḥ  
+त꣡म् अर्के꣡भिस् तं꣡ सा꣡मभिस्  
+तं꣡ गायत्रइ꣡श् चर्षण꣡यः  
+इ꣡न्द्रं वर्धन्ति क्षित꣡यः  

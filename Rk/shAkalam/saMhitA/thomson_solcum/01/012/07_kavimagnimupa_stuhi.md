@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-kavím agním úpa stuhi  
-satyádharmāṇam adhvaré  
-devám amīvacā́tanam  
+कवि꣡म् अग्नि꣡म् उ꣡प स्तुहि  
+सत्य꣡धर्माणम् अध्वरे꣡  
+देव꣡म् अमीवचा꣡तनम्  

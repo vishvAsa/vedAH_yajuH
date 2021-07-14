@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-vacovídaṃ vā́cam udīráyantīṃ  
-víśvābhir dhībhír upatíṣṭhamānām  
-devī́ṃ devébhyaḥ pári eyúṣīṃ gā́m  
-ā́ māvr̥kta mártiyo dabhrácetāḥ  
+वचोवि꣡दं वा꣡चम् उदीर꣡यन्तीं  
+वि꣡श्वाभिर् धीभि꣡र् उपति꣡ष्ठमानाम्  
+देवीं꣡ देवे꣡भ्यः प꣡रि एयु꣡षीं गा꣡म्  
+आ꣡ मावृक्त म꣡र्तियो दभ्र꣡चेताः  

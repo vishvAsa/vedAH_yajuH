@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-prá yád vas triṣṭúbham íṣam  
-máruto vípro ákṣarat  
-ví párvateṣu rājatha  
+प्र꣡ य꣡द् वस् त्रिष्टु꣡भम् इ꣡षम्  
+म꣡रुतो वि꣡प्रो अ꣡क्षरत्  
+वि꣡ प꣡र्वतेषु राजथ  

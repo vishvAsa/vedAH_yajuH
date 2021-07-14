@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-úd astambhīt samídhā nā́kam r̥ṣvó  
-agnír bhávann uttamó rocanā́nām  
-yádī bhŕ̥gubhyaḥ pári mātaríśvā  
-gúhā sántaṃ havyavā́haṃ samīdhé  
+उ꣡द् अस्तम्भीत् समि꣡धा ना꣡कम् ऋष्वो꣡  
+अग्नि꣡र् भ꣡वन्न् उत्तमो꣡ रोचना꣡नाम्  
+य꣡दी भ्ŕ̥गुभ्यः प꣡रि मातरि꣡श्वा  
+गु꣡हा स꣡न्तं हव्यवा꣡हं समीधे꣡  

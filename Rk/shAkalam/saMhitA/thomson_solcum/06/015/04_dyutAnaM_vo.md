@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-diyutānáṃ vo átithiṃ súvarṇaram  
-agníṃ hótāram mánuṣaḥ suadhvarám  
-vípraṃ ná dyukṣávacasaṃ suvr̥ktíbhir  
-havyavā́ham aratíṃ devám r̥ñjase  
+दियुतानं꣡ वो अ꣡तिथिं सु꣡वर्णरम्  
+अग्निं꣡ हो꣡तारम् म꣡नुषः सुअध्वर꣡म्  
+वि꣡प्रं न꣡ द्युक्ष꣡वचसं सुवृक्ति꣡भिर्  
+हव्यवा꣡हम् अरतिं꣡ देव꣡म् ऋञ्जसे  

@@ -2,10 +2,10 @@
 title = "001"
 
 +++
-prá-pra pūṣṇás tuvijātásya śasyate  
-mahitvám asya taváso ná tandate  
-stotrám asya ná tandate  
-árcāmi sumnayánn ahám  
-ántiūtim mayobhúvam  
-víśvasya yó mána āyuyuvé makhó  
-devá āyuyuvé makháḥ  
+प्र꣡-प्र पूष्ण꣡स् तुविजात꣡स्य शस्यते  
+महित्व꣡म् अस्य तव꣡सो न꣡ तन्दते  
+स्तोत्र꣡म् अस्य न꣡ तन्दते  
+अ꣡र्चामि सुम्नय꣡न्न् अह꣡म्  
+अ꣡न्तिऊतिम् मयोभु꣡वम्  
+वि꣡श्वस्य यो꣡ म꣡न आयुयुवे꣡ मखो꣡  
+देव꣡ आयुयुवे꣡ मखः꣡  

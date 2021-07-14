@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-sanāyaté gótama indra návyam  
-átakṣad bráhma hariyójanāya  
-sunīthā́ya naḥ śavasāna nodhā́ḥ  
-prātár makṣū́ dhiyā́vasur jagamyāt  
+सनायते꣡ गो꣡तम इन्द्र न꣡व्यम्  
+अ꣡तक्षद् ब्र꣡ह्म हरियो꣡जनाय  
+सुनीथा꣡य नः शवसान नोधाः꣡  
+प्रात꣡र् मक्षू꣡ धिया꣡वसुर् जगम्यात्  

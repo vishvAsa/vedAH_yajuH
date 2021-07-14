@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-kó addhā́ veda ká ihá prá vocat  
-kúta ā́jātā kúta iyáṃ vísr̥ṣṭiḥ  
-arvā́g devā́ asyá visárjanena  
-áthā kó veda yáta ābabhū́va  
+को꣡ अद्धा꣡ वेद क꣡ इह꣡ प्र꣡ वोचत्  
+कु꣡त आ꣡जाता कु꣡त इयं꣡ वि꣡सृष्टिः  
+अर्वा꣡ग् देवा꣡ अस्य꣡ विस꣡र्जनेन  
+अ꣡था को꣡ वेद य꣡त आबभू꣡व  

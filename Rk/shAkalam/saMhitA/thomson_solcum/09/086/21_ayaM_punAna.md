@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-ayám punāná uṣáso ví rocayad  
-ayáṃ síndhubhyo abhavad ulokakŕ̥t†  
-ayáṃ tríḥ saptá duduhāná āśíraṃ  
-sómo hr̥dé pavate cā́ru matsaráḥ  
+अय꣡म् पुनान꣡ उष꣡सो वि꣡ रोचयद्  
+अयं꣡ सि꣡न्धुभ्यो अभवद् उलोकक्ŕ̥त्†  
+अयं꣡ त्रिः꣡ सप्त꣡ दुदुहान꣡ आशि꣡रं  
+सो꣡मो हृदे꣡ पवते चा꣡रु मत्सरः꣡  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yád rodasī pradívo ásti bhū́mā  
-héḷo devā́nām utá martiyatrā́  
-tád ādityā vasavo rudriyāso  
-rakṣoyúje tápur agháṃ dadhāta  
+य꣡द् रोदसी प्रदि꣡वो अ꣡स्ति भू꣡मा  
+हे꣡ऌओ देवा꣡नाम् उत꣡ मर्तियत्रा꣡  
+त꣡द् आदित्या वसवो रुद्रियासो  
+रक्षोयु꣡जे त꣡पुर् अघं꣡ दधात  

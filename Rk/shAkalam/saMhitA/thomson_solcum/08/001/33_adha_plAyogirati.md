@@ -2,7 +2,7 @@
 title = "033"
 
 +++
-ádha plā́yogir áti dāsad anyā́n  
-āsaṅgó agne daśábhiḥ sahásraiḥ  
-ádhokṣáṇo dáśa máhyaṃ rúśanto  
-naḷā́ iva sáraso nír atiṣṭhan  
+अ꣡ध प्ला꣡योगिर् अ꣡ति दासद् अन्या꣡न्  
+आसङ्गो꣡ अग्ने दश꣡भिः सह꣡स्रैः  
+अ꣡धोक्ष꣡णो द꣡श म꣡ह्यं रु꣡शन्तो  
+नऌआ꣡ इव स꣡रसो नि꣡र् अतिष्ठन्  

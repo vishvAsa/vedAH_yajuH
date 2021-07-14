@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-mā́ no mahā́ntam utá mā́ no arbhakám  
-mā́ na úkṣantam utá mā́ na ukṣitám  
-mā́ no vadhīḥ pitáram mótá mātáram  
-mā́ naḥ priyā́s tanúvo rudra rīriṣaḥ  
+मा꣡ नो महा꣡न्तम् उत꣡ मा꣡ नो अर्भक꣡म्  
+मा꣡ न उ꣡क्षन्तम् उत꣡ मा꣡ न उक्षित꣡म्  
+मा꣡ नो वधीः पित꣡रम् मो꣡त꣡ मात꣡रम्  
+मा꣡ नः प्रिया꣡स् तनु꣡वो रुद्र रीरिषः  

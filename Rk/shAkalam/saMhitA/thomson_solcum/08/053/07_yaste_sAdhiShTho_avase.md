@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yás te sā́dhiṣṭho ávase  
-té siyāma bháreṣu te  
-vayáṃ hótrābhir utá deváhūtibhiḥ  
-sasavā́ṃso manāmahe  
+य꣡स् ते सा꣡धिष्ठो अ꣡वसे  
+ते꣡ सियाम भ꣡रेषु ते  
+वयं꣡ हो꣡त्राभिर् उत꣡ देव꣡हूतिभिः  
+ससवां꣡सो मनामहे  

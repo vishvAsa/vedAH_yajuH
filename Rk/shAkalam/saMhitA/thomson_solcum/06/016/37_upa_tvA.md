@@ -2,6 +2,6 @@
 title = "037"
 
 +++
-úpa tvā raṇvásaṃdr̥śam  
-práyasvantaḥ sahaskr̥ta  
-ágne sasr̥jmáhe gíraḥ  
+उ꣡प त्वा रण्व꣡संदृशम्  
+प्र꣡यस्वन्तः सहस्कृत  
+अ꣡ग्ने ससृज्म꣡हे गि꣡रः  

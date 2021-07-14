@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índhāno agníṃ vanavad vanuṣyatáḥ  
-kr̥tábrahmā śūśuvad rātáhavya ít  
-jāténa jātám áti sá prá sarsr̥te  
-yáṃ-yaṃ yújaṃ kr̥ṇuté bráhmaṇas pátiḥ  
+इ꣡न्धानो अग्निं꣡ वनवद् वनुष्यतः꣡  
+कृत꣡ब्रह्मा शूशुवद् रात꣡हव्य इ꣡त्  
+जाते꣡न जात꣡म् अ꣡ति स꣡ प्र꣡ सर्सृते  
+यं꣡-यं यु꣡जं कृणुते꣡ ब्र꣡ह्मणस् प꣡तिः  

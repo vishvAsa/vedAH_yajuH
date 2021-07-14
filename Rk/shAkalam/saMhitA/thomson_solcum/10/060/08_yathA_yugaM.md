@@ -2,8 +2,8 @@
 title = "008"
 
 +++
-yáthā yugáṃ varatráyā  
-náhyanti dharúṇāya kám  
-evā́ dādhāra te máno  
-jīvā́tave ná mr̥tyáve  
-átho ariṣṭátātaye  
+य꣡था युगं꣡ वरत्र꣡या  
+न꣡ह्यन्ति धरु꣡णाय क꣡म्  
+एवा꣡ दाधार ते म꣡नो  
+जीवा꣡तवे न꣡ मृत्य꣡वे  
+अ꣡थो अरिष्ट꣡तातये  

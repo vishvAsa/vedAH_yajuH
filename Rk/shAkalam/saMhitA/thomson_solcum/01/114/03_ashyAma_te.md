@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-aśyā́ma te sumatíṃ devayajyáyā  
-kṣayádvīrasya táva rudra mīḍhuvaḥ  
-sumnāyánn íd víśo asmā́kam ā́ cara  
-áriṣṭavīrā juhavāma te havíḥ  
+अश्या꣡म ते सुमतिं꣡ देवयज्य꣡या  
+क्षय꣡द्वीरस्य त꣡व रुद्र मीढुवः  
+सुम्नाय꣡न्न् इ꣡द् वि꣡शो अस्मा꣡कम् आ꣡ चर  
+अ꣡रिष्टवीरा जुहवाम ते हविः꣡  

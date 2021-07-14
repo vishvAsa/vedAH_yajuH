@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-gā́rhapatyena santiya  
-r̥túnā yajñanī́r asi  
-devā́n devayaté yaja  
+गा꣡र्हपत्येन सन्तिय  
+ऋतु꣡ना यज्ञनी꣡र् असि  
+देवा꣡न् देवयते꣡ यज  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-taráṇir viśvádarśato  
-jyotiṣkŕ̥d asi sūriya  
-víśvam ā́ bhāsi rocanám  
+तर꣡णिर् विश्व꣡दर्शतो  
+ज्योतिष्क्ŕ̥द् असि सूरिय  
+वि꣡श्वम् आ꣡ भासि रोचन꣡म्  

@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-páyasvatīr óṣadhayaḥ  
-páyasvan māmakáṃ vácaḥ  
-apā́m páyasvad ít páyas  
-téna mā sahá śundhata  
+प꣡यस्वतीर् ओ꣡षधयः  
+प꣡यस्वन् मामकं꣡ व꣡चः  
+अपा꣡म् प꣡यस्वद् इ꣡त् प꣡यस्  
+ते꣡न मा सह꣡ शुन्धत  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-rā́jā samudráṃ nadíyo ví gāhate  
-apā́m ūrmíṃ sacate síndhuṣu śritáḥ  
-ádhy asthāt sā́nu pávamāno avyáyaṃ  
-nā́bhā pr̥thivyā́ dharúṇo mahó diváḥ  
+रा꣡जा समुद्रं꣡ नदि꣡यो वि꣡ गाहते  
+अपा꣡म् ऊर्मिं꣡ सचते सि꣡न्धुषु श्रितः꣡  
+अ꣡ध्य् अस्थात् सा꣡नु प꣡वमानो अव्य꣡यं  
+ना꣡भा पृथिव्या꣡ धरु꣡णो महो꣡ दिवः꣡  

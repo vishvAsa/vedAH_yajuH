@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-duvé te cakré sūriye  
-brahmā́ṇa r̥tuthā́ viduḥ  
-áthaíkaṃ cakráṃ yád gúhā  
-tád addhātáya íd viduḥ  
+दुवे꣡ ते चक्रे꣡ सूरिये  
+ब्रह्मा꣡ण ऋतुथा꣡ विदुः  
+अ꣡थइ꣡कं चक्रं꣡ य꣡द् गु꣡हा  
+त꣡द् अद्धात꣡य इ꣡द् विदुः  

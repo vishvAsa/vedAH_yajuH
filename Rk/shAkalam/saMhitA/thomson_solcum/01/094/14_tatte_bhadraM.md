@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-tát te bhadráṃ yát sámiddhaḥ suvé dáme  
-sómāhuto járase mr̥̄ḷayáttamaḥ+  
-dádhāsi rátnaṃ dráviṇaṃ ca dāśúṣe  
-ágne sakhyé mā́ riṣāmā vayáṃ táva  
+त꣡त् ते भद्रं꣡ य꣡त् स꣡मिद्धः सुवे꣡ द꣡मे  
+सो꣡माहुतो ज꣡रसे मॄऌअय꣡त्तमः+  
+द꣡धासि र꣡त्नं द्र꣡विणं च दाशु꣡षे  
+अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व  

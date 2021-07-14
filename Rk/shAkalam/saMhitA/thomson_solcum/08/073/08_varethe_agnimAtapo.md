@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-várethe agním ātápo  
-vádate valgú átraye  
-ánti ṣad bhūtu vām ávaḥ  
+व꣡रेथे अग्नि꣡म् आत꣡पो  
+व꣡दते वल्गु꣡ अ꣡त्रये  
+अ꣡न्ति षद् भूतु वाम् अ꣡वः  

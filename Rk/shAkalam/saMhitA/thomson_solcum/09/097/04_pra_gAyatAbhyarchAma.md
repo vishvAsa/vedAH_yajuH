@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prá gāyata abhí arcāma devā́n  
-sómaṃ hinota mahaté dhánāya  
-svādúḥ pavāte áti vā́ram ávyam  
-ā́ sīdāti kaláśaṃ devayúr naḥ  
+प्र꣡ गायत अभि꣡ अर्चाम देवा꣡न्  
+सो꣡मं हिनोत महते꣡ ध꣡नाय  
+स्वादुः꣡ पवाते अ꣡ति वा꣡रम् अ꣡व्यम्  
+आ꣡ सीदाति कल꣡शं देवयु꣡र् नः  

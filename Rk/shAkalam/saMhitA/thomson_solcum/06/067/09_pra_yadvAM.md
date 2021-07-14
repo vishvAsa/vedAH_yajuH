@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-prá yád vām mitrāvaruṇā spũrdhán  
-priyā́ dhā́ma yuvádhitā minánti  
-ná yé devā́sa óhasā ná mártā  
-áyajñasāco ápiyo ná putrā́ḥ  
+प्र꣡ य꣡द् वाम् मित्रावरुणा स्प्ũर्ध꣡न्  
+प्रिया꣡ धा꣡म युव꣡धिता मिन꣡न्ति  
+न꣡ ये꣡ देवा꣡स ओ꣡हसा न꣡ म꣡र्ता  
+अ꣡यज्ञसाचो अ꣡पियो न꣡ पुत्राः꣡  

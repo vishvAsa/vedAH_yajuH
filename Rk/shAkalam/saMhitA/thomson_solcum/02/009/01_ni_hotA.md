@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ní hótā hotr̥ṣádane vídānas  
-tveṣó dīdivā́m̐ asadat sudákṣaḥ  
-ádabdhavratapramatir vásiṣṭhaḥ  
-sahasrambharáḥ śúcijihvo agníḥ  
+नि꣡ हो꣡ता होतृष꣡दने वि꣡दानस्  
+त्वेषो꣡ दीदिवाँ꣡ असदत् सुद꣡क्षः  
+अ꣡दब्धव्रतप्रमतिर् व꣡सिष्ठः  
+सहस्रम्भरः꣡ शु꣡चिजिह्वो अग्निः꣡  

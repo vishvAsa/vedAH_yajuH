@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-váhantu tvā manoyújo  
-yuktā́so navatír náva  
-vā́yav ā́ candréṇa ráthena  
-yāhí sutásya pītáye  
+व꣡हन्तु त्वा मनोयु꣡जो  
+युक्ता꣡सो नवति꣡र् न꣡व  
+वा꣡यव् आ꣡ चन्द्रे꣡ण र꣡थेन  
+याहि꣡ सुत꣡स्य पीत꣡ये  

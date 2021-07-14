@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áva drugdhā́ni pítriyā sr̥jā no  
-áva yā́ vayáṃ cakr̥mā́ tanū́bhiḥ  
-áva rājan paśutŕ̥paṃ ná tāyúṃ  
-sr̥jā́ vatsáṃ ná dā́mano vásiṣṭham  
+अ꣡व द्रुग्धा꣡नि पि꣡त्रिया सृजा नो  
+अ꣡व या꣡ वयं꣡ चकृमा꣡ तनू꣡भिः  
+अ꣡व राजन् पशुत्ŕ̥पं न꣡ तायुं꣡  
+सृजा꣡ वत्सं꣡ न꣡ दा꣡मनो व꣡सिष्ठम्  

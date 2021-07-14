@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ná te ádevaḥ pradívo ní vāsate  
-yád etaśébhiḥ pataraí ratharyási  
-prācī́nam anyád ánu vartate rája  
-úd anyéna jyótiṣā yāsi sūriya  
+न꣡ ते अ꣡देवः प्रदि꣡वो नि꣡ वासते  
+य꣡द् एतशे꣡भिः पतरइ꣡ रथर्य꣡सि  
+प्राची꣡नम् अन्य꣡द् अ꣡नु वर्तते र꣡ज  
+उ꣡द् अन्ये꣡न ज्यो꣡तिषा यासि सूरिय  

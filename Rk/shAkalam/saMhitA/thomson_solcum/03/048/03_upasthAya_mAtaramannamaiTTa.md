@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-upasthā́ya mātáram ánnam aiṭṭa  
-tigmám apaśyad abhí sómam ū́dhaḥ  
-prayāváyann acarad gŕ̥tso anyā́n  
-mahā́ni cakre purudhápratīkaḥ  
+उपस्था꣡य मात꣡रम् अ꣡न्नम् ऐट्ट  
+तिग्म꣡म् अपश्यद् अभि꣡ सो꣡मम् ऊ꣡धः  
+प्रयाव꣡यन्न् अचरद् ग्ŕ̥त्सो अन्या꣡न्  
+महा꣡नि चक्रे पुरुध꣡प्रतीकः  

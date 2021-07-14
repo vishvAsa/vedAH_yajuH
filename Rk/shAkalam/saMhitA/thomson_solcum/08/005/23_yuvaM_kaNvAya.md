@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-yuváṃ káṇvāya nāsatyā  
-ápiriptāya harmiyé  
-śáśvad ūtī́r daśasyathaḥ  
+युवं꣡ क꣡ण्वाय नासत्या  
+अ꣡पिरिप्ताय हर्मिये꣡  
+श꣡श्वद् ऊती꣡र् दशस्यथः  

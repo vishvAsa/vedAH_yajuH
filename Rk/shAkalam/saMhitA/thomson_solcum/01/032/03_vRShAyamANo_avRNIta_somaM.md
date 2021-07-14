@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-vr̥ṣāyámāṇo avr̥ṇīta sómaṃ  
-tríkadrukeṣu apibat sutásya  
-ā́ sā́yakam maghávādatta vájram  
-áhann enam prathamajā́m áhīnām  
+वृषाय꣡माणो अवृणीत सो꣡मं  
+त्रि꣡कद्रुकेषु अपिबत् सुत꣡स्य  
+आ꣡ सा꣡यकम् मघ꣡वादत्त व꣡ज्रम्  
+अ꣡हन्न् एनम् प्रथमजा꣡म् अ꣡हीनाम्  

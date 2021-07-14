@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá vaḥ satā́ṃ jyéṣṭhatamāya suṣṭutím  
-agnā́v iva samidhāné havír bhare  
-índram ajuryáṃ jaráyantam ukṣitáṃ  
-sanā́d yúvānam ávase havāmahe  
+प्र꣡ वः सतां꣡ ज्ये꣡ष्ठतमाय सुष्टुति꣡म्  
+अग्ना꣡व् इव समिधाने꣡ हवि꣡र् भरे  
+इ꣡न्द्रम् अजुर्यं꣡ जर꣡यन्तम् उक्षितं꣡  
+सना꣡द् यु꣡वानम् अ꣡वसे हवामहे  

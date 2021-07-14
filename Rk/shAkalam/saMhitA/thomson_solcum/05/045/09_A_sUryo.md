@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ā́ sū́riyo yãtu saptáaśvaḥ  
-kṣétraṃ yád asyorviyā́ dīrghayāthé  
-raghúḥ śyenáḥ patayad ándho áchā  
-yúvā kavír dīdayad góṣu gáchan  
+आ꣡ सू꣡रियो य्ãतु सप्त꣡अश्वः  
+क्षे꣡त्रं य꣡द् अस्योर्विया꣡ दीर्घयाथे꣡  
+रघुः꣡ श्येनः꣡ पतयद् अ꣡न्धो अ꣡छा  
+यु꣡वा कवि꣡र् दीदयद् गो꣡षु ग꣡छन्  

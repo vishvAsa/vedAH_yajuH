@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ká īṃ veda suté sácā  
-píbantaṃ kád váyo dadhe  
-ayáṃ yáḥ púro vibhinátti ójasā  
-mandānáḥ śiprī́ ándhasaḥ  
+क꣡ ईं वेद सुते꣡ स꣡चा  
+पि꣡बन्तं क꣡द् व꣡यो दधे  
+अयं꣡ यः꣡ पु꣡रो विभिन꣡त्ति ओ꣡जसा  
+मन्दानः꣡ शिप्री꣡ अ꣡न्धसः  

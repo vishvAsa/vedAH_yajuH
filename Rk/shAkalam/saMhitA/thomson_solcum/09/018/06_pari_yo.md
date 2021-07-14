@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-pári yó ródasī ubhé  
-sadyó vā́jebhir árṣati  
-mádeṣu sarvadhā́ asi  
+प꣡रि यो꣡ रो꣡दसी उभे꣡  
+सद्यो꣡ वा꣡जेभिर् अ꣡र्षति  
+म꣡देषु सर्वधा꣡ असि  

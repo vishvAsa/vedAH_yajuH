@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-úpo adarśi śundhyúvo ná vákṣo  
-nodhā́ ivāvír akr̥ta priyā́ṇi  
-admasán ná sasató bodháyantī  
-śaśvattamā́gāt púnar eyúṣīṇām  
+उ꣡पो अदर्शि शुन्ध्यु꣡वो न꣡ व꣡क्षो  
+नोधा꣡ इवावि꣡र् अकृत प्रिया꣡णि  
+अद्मस꣡न् न꣡ ससतो꣡ बोध꣡यन्ती  
+शश्वत्तमा꣡गात् पु꣡नर् एयु꣡षीणाम्  

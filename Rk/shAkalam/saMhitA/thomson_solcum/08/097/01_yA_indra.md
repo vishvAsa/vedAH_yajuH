@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yā́ indra bhúja ā́bharaḥ  
-súvarvām̐ ásurebhiyaḥ  
-stotā́ram ín maghavann asya vardhaya  
-yé ca tvé vr̥ktábarhiṣaḥ  
+या꣡ इन्द्र भु꣡ज आ꣡भरः  
+सु꣡वर्वाँ अ꣡सुरेभियः  
+स्तोता꣡रम् इ꣡न् मघवन्न् अस्य वर्धय  
+ये꣡ च त्वे꣡ वृक्त꣡बर्हिषः  

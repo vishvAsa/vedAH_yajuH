@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-árcantas tvā havāmahe  
-árcantaḥ sám idhīmahi  
-ágne árcanta ūtáye  
+अ꣡र्चन्तस् त्वा हवामहे  
+अ꣡र्चन्तः स꣡म् इधीमहि  
+अ꣡ग्ने अ꣡र्चन्त ऊत꣡ये  

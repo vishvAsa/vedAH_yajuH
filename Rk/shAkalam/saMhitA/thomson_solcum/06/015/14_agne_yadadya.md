@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ágne yád adyá viśó adhvarasya hotaḥ  
-pávākaśoce véṣ ṭuváṃ hí yájvā  
-r̥tā́ yajāsi mahinā́ ví yád bhū́r  
-havyā́ vaha yaviṣṭha yā́ te adyá  
+अ꣡ग्ने य꣡द् अद्य꣡ विशो꣡ अध्वरस्य होतः  
+प꣡वाकशोचे वे꣡ष् टुवं꣡ हि꣡ य꣡ज्वा  
+ऋता꣡ यजासि महिना꣡ वि꣡ य꣡द् भू꣡र्  
+हव्या꣡ वह यविष्ठ या꣡ ते अद्य꣡  

@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-pári divyā́ni mármr̥śad  
-víśvāni soma pā́rthivā  
-vásūni yāhi asmayúḥ  
+प꣡रि दिव्या꣡नि म꣡र्मृशद्  
+वि꣡श्वानि सोम पा꣡र्थिवा  
+व꣡सूनि याहि अस्मयुः꣡  

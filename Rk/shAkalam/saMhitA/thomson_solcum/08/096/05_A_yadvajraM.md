@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ yád vájram bāhuvór indra dhátse  
-madacyútam áhaye hántavā́ u  
-prá párvatā ánavanta prá gā́vaḥ  
-prá brahmā́ṇo abhinákṣanta índram  
+आ꣡ य꣡द् व꣡ज्रम् बाहुवो꣡र् इन्द्र ध꣡त्से  
+मदच्यु꣡तम् अ꣡हये ह꣡न्तवा꣡ उ  
+प्र꣡ प꣡र्वता अ꣡नवन्त प्र꣡ गा꣡वः  
+प्र꣡ ब्रह्मा꣡णो अभिन꣡क्षन्त इ꣡न्द्रम्  

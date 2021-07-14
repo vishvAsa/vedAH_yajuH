@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-híraṇyapāṇiḥ savitā́ sujihvás  
-trír ā́ divó vidáthe pátyamānaḥ  
-devéṣu ca savitaḥ ślókam áśrer  
-ā́d asmábhyam ā́ suva sarvátātim  
+हि꣡रण्यपाणिः सविता꣡ सुजिह्व꣡स्  
+त्रि꣡र् आ꣡ दिवो꣡ विद꣡थे प꣡त्यमानः  
+देवे꣡षु च सवितः श्लो꣡कम् अ꣡श्रेर्  
+आ꣡द् अस्म꣡भ्यम् आ꣡ सुव सर्व꣡तातिम्  

@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-tuváṃ ha tyát saptábhyo jā́yamāno  
-aśatrúbhyo abhavaḥ śátrur indra  
-gūḷhé dyā́vāpr̥thivī́ ánv avindo  
-vibhumádbhyo bhúvanebhyo ráṇaṃ dhāḥ  
+तुवं꣡ ह त्य꣡त् सप्त꣡भ्यो जा꣡यमानो  
+अशत्रु꣡भ्यो अभवः श꣡त्रुर् इन्द्र  
+गूऌहे꣡ द्या꣡वापृथिवी꣡ अ꣡न्व् अविन्दो  
+विभुम꣡द्भ्यो भु꣡वनेभ्यो र꣡णं धाः  

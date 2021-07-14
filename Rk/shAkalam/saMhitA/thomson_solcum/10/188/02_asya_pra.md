@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-asyá prá jātávedaso  
-vípravīrasya mīḷhúṣaḥ  
-mahī́m iyarmi suṣṭutím  
+अस्य꣡ प्र꣡ जात꣡वेदसो  
+वि꣡प्रवीरस्य मीऌहु꣡षः  
+मही꣡म् इयर्मि सुष्टुति꣡म्  

@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-tát savitúr váreṇiyam  
-bhárgo devásya dhīmahi  
-dhíyo yó naḥ pracodáyāt  
+त꣡त् सवितु꣡र् व꣡रेणियम्  
+भ꣡र्गो देव꣡स्य धीमहि  
+धि꣡यो यो꣡ नः प्रचोद꣡यात्  

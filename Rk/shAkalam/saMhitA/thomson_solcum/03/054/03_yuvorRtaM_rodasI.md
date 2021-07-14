@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yuvór r̥táṃ rodasī satyám astu  
-mahé ṣú ṇaḥ suvitā́ya prá bhūtam  
-idáṃ divé námo agne pr̥thivyaí  
-saparyā́mi práyasā yā́mi rátnam  
+युवो꣡र् ऋतं꣡ रोदसी सत्य꣡म् अस्तु  
+महे꣡ षु꣡ णः सुविता꣡य प्र꣡ भूतम्  
+इदं꣡ दिवे꣡ न꣡मो अग्ने पृथिव्यइ꣡  
+सपर्या꣡मि प्र꣡यसा या꣡मि र꣡त्नम्  

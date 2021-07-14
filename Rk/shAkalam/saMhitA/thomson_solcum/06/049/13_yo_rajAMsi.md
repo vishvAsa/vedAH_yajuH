@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yó rájāṃsi vimamé pā́rthivāni  
-tríś cid víṣṇur mánave bādhitā́ya  
-tásya te śármann upadadyámāne  
-rāyā́ madema tanúvā tánā ca  
+यो꣡ र꣡जांसि विममे꣡ पा꣡र्थिवानि  
+त्रि꣡श् चिद् वि꣡ष्णुर् म꣡नवे बाधिता꣡य  
+त꣡स्य ते श꣡र्मन्न् उपदद्य꣡माने  
+राया꣡ मदेम तनु꣡वा त꣡ना च  

@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-manīṣíbhiḥ pavate pūrviyáḥ kavír  
-nŕ̥bhir yatáḥ pári kóśām̐ acikradat  
-tritásya nā́ma janáyan mádhu kṣarad  
-índrasya vāyóḥ sakhiyā́ya kártave  
+मनीषि꣡भिः पवते पूर्वियः꣡ कवि꣡र्  
+न्ŕ̥भिर् यतः꣡ प꣡रि को꣡शाँ अचिक्रदत्  
+त्रित꣡स्य ना꣡म जन꣡यन् म꣡धु क्षरद्  
+इ꣡न्द्रस्य वायोः꣡ सखिया꣡य क꣡र्तवे  

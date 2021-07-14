@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-yáṃ víprā ukthávāhaso  
-abhipramandúr āyávaḥ  
-ghr̥táṃ ná pipya āsáni r̥tásya yát  
+यं꣡ वि꣡प्रा उक्थ꣡वाहसो  
+अभिप्रमन्दु꣡र् आय꣡वः  
+घृतं꣡ न꣡ पिप्य आस꣡नि ऋत꣡स्य य꣡त्  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-tuvám indra sajóṣasam  
-arkám bibharṣi bāhuvóḥ  
-vájraṃ śíśāna ójasā  
+तुव꣡म् इन्द्र सजो꣡षसम्  
+अर्क꣡म् बिभर्षि बाहुवोः꣡  
+व꣡ज्रं शि꣡शान ओ꣡जसा  

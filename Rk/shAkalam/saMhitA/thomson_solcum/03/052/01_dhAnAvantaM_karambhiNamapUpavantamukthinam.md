@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-dhānā́vantaṃ karambhíṇam  
-apūpávantam ukthínam  
-índra prātár juṣasva naḥ  
+धाना꣡वन्तं करम्भि꣡णम्  
+अपूप꣡वन्तम् उक्थि꣡नम्  
+इ꣡न्द्र प्रात꣡र् जुषस्व नः  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ā́ paramā́bhir utá madhyamā́bhir  
-niyúdbhir yātam avamā́bhir arvā́k  
-dr̥̄ḷhásya+ cid gómato ví vrajásya  
-dúro vartaṃ gr̥ṇaté citrarātī  
+आ꣡ परमा꣡भिर् उत꣡ मध्यमा꣡भिर्  
+नियु꣡द्भिर् यातम् अवमा꣡भिर् अर्वा꣡क्  
+दॄऌह꣡स्य+ चिद् गो꣡मतो वि꣡ व्रज꣡स्य  
+दु꣡रो वर्तं गृणते꣡ चित्रराती  

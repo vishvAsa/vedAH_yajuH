@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yó bhójanaṃ ca dáyase ca várdhanam  
-ārdrā́d ā́ śúṣkam mádhumad dudóhitha  
-sá śevadhíṃ ní dadhiṣe vivásvati  
-víśvasyaíka īśiṣe sā́si ukthíyaḥ  
+यो꣡ भो꣡जनं च द꣡यसे च व꣡र्धनम्  
+आर्द्रा꣡द् आ꣡ शु꣡ष्कम् म꣡धुमद् दुदो꣡हिथ  
+स꣡ शेवधिं꣡ नि꣡ दधिषे विव꣡स्वति  
+वि꣡श्वस्यइ꣡क ईशिषे सा꣡सि उक्थि꣡यः  

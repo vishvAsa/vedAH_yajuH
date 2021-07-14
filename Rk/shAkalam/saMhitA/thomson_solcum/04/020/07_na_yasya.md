@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ná yásya vartā́ janúṣā nu ásti  
-ná rā́dhasa āmarītā́ maghásya  
-udvāvr̥ṣāṇás taviṣīva ugra  
-asmábhyaṃ daddhi puruhūta rāyáḥ  
+न꣡ य꣡स्य वर्ता꣡ जनु꣡षा नु अ꣡स्ति  
+न꣡ रा꣡धस आमरीता꣡ मघ꣡स्य  
+उद्वावृषाण꣡स् तविषीव उग्र  
+अस्म꣡भ्यं दद्धि पुरुहूत रायः꣡  

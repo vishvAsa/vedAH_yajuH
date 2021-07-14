@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-híraṇyarūpaḥ sá híraṇyasaṃdr̥g  
-apā́ṃ nápāt séd u híraṇyavarṇaḥ  
-hiraṇyáyāt pári yóner niṣádyā  
-hiraṇyadā́ dadati ánnam asmai  
+हि꣡रण्यरूपः स꣡ हि꣡रण्यसंदृग्  
+अपां꣡ न꣡पात् से꣡द् उ हि꣡रण्यवर्णः  
+हिरण्य꣡यात् प꣡रि यो꣡नेर् निष꣡द्या  
+हिरण्यदा꣡ ददति अ꣡न्नम् अस्मै  

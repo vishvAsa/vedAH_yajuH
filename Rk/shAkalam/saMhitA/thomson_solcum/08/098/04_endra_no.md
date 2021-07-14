@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ā́ indra no gadhi priyáḥ  
-satrājíd ágohiyaḥ  
-girír ná viśvátas pr̥thúḥ pátir diváḥ  
+आ꣡ इन्द्र नो गधि प्रियः꣡  
+सत्राजि꣡द् अ꣡गोहियः  
+गिरि꣡र् न꣡ विश्व꣡तस् पृथुः꣡ प꣡तिर् दिवः꣡  

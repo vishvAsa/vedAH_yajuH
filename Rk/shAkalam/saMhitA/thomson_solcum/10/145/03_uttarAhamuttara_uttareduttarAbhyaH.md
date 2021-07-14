@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-úttarā ahám uttara  
-úttarā íd úttarābhyaḥ  
-áthā sapátnī yā́ máma  
-ádharā sā́dharābhiyaḥ  
+उ꣡त्तरा अह꣡म् उत्तर  
+उ꣡त्तरा इ꣡द् उ꣡त्तराभ्यः  
+अ꣡था सप꣡त्नी या꣡ म꣡म  
+अ꣡धरा सा꣡धराभियः  

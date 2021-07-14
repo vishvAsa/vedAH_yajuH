@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sá no bodhi puroḷā́śaṃ rárāṇaḥ  
-píbā tú sómaṃ gór̥jīkam indra  
-édám barhír yájamānasya sīda  
-urúṃ kr̥dhi tuvāyatá ulokám†  
+स꣡ नो बोधि पुरोऌआ꣡शं र꣡राणः  
+पि꣡बा तु꣡ सो꣡मं गो꣡ऋजीकम् इन्द्र  
+ए꣡द꣡म् बर्हि꣡र् य꣡जमानस्य सीद  
+उरुं꣡ कृधि तुवायत꣡ उलोक꣡म्†  

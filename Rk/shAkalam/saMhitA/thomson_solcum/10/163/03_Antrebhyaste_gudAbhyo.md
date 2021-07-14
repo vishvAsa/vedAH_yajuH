@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-āntrébhyas te gúdābhiyo  
-vaniṣṭhór hŕ̥dayād ádhi  
-yákṣmam mátasnābhyāṃ yaknáḥ  
-plāśíbhyo ví vr̥hāmi te  
+आन्त्रे꣡भ्यस् ते गु꣡दाभियो  
+वनिष्ठो꣡र् ह्ŕ̥दयाद् अ꣡धि  
+य꣡क्ष्मम् म꣡तस्नाभ्यां यक्नः꣡  
+प्लाशि꣡भ्यो वि꣡ वृहामि ते  

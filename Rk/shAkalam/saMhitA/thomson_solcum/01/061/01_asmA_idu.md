@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-asmā́ íd u prá taváse turā́ya  
-práyo ná harmi stómam mā́hināya  
-ŕ̥cīṣamāya ádhrigava óham  
-índrāya · bráhmāṇi rātátamā  
+अस्मा꣡ इ꣡द् उ प्र꣡ तव꣡से तुरा꣡य  
+प्र꣡यो न꣡ हर्मि स्तो꣡मम् मा꣡हिनाय  
+ŕ̥चीषमाय अ꣡ध्रिगव ओ꣡हम्  
+इ꣡न्द्राय · ब्र꣡ह्माणि रात꣡तमा  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-táṃ no agne maghávadbhyaḥ purukṣúṃ  
-rayíṃ ní vā́jaṃ śrútiyaṃ yuvasva  
-vaíśvānara máhi naḥ śárma yacha  
-rudrébhir agne vásubhiḥ sajóṣāḥ  
+तं꣡ नो अग्ने मघ꣡वद्भ्यः पुरुक्षुं꣡  
+रयिं꣡ नि꣡ वा꣡जं श्रु꣡तियं युवस्व  
+वइ꣡श्वानर म꣡हि नः श꣡र्म यछ  
+रुद्रे꣡भिर् अग्ने व꣡सुभिः सजो꣡षाः  

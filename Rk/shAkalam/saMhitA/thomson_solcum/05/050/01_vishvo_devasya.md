@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-víśvo devásya nayitúr+  
-márto vurīta sakhiyám  
-víśvo rāyá iṣudhyati  
-dyumnáṃ vr̥ṇīta puṣyáse  
+वि꣡श्वो देव꣡स्य नयितु꣡र्+  
+म꣡र्तो वुरीत सखिय꣡म्  
+वि꣡श्वो राय꣡ इषुध्यति  
+द्युम्नं꣡ वृणीत पुष्य꣡से  

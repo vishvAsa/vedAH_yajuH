@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-śáśvad índraḥ pópruthadbhir jigāya  
-nā́nadadbhiḥ śā́śvasadbhir dhánāni  
-sá no hiraṇyaratháṃ daṃsánāvān  
-sá naḥ sanitā́ sanáye sá no 'dāt  
+श꣡श्वद् इ꣡न्द्रः पो꣡प्रुथद्भिर् जिगाय  
+ना꣡नदद्भिः शा꣡श्वसद्भिर् ध꣡नानि  
+स꣡ नो हिरण्यरथं꣡ दंस꣡नावान्  
+स꣡ नः सनिता꣡ सन꣡ये स꣡ नो ऽदात्  

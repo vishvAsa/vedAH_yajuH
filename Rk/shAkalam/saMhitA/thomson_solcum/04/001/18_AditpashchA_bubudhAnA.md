@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-ā́d ít paścā́ bubudhānā́ ví akhyann  
-ā́d íd rátnaṃ dhārayanta dyúbhaktam  
-víśve víśvāsu dúriyāsu devā́  
-mítra dhiyé varuṇa satyám astu  
+आ꣡द् इ꣡त् पश्चा꣡ बुबुधाना꣡ वि꣡ अख्यन्न्  
+आ꣡द् इ꣡द् र꣡त्नं धारयन्त द्यु꣡भक्तम्  
+वि꣡श्वे वि꣡श्वासु दु꣡रियासु देवा꣡  
+मि꣡त्र धिये꣡ वरुण सत्य꣡म् अस्तु  

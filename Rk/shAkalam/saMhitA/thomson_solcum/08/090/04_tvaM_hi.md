@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuváṃ hí satyó maghavann ánānato  
-vr̥trā́ bhū́ri nir̥ñjáse  
-sá tváṃ śaviṣṭha vajrahasta dāśúṣe  
-arvā́ñcaṃ rayím ā́ kr̥dhi  
+तुवं꣡ हि꣡ सत्यो꣡ मघवन्न् अ꣡नानतो  
+वृत्रा꣡ भू꣡रि निऋञ्ज꣡से  
+स꣡ त्वं꣡ शविष्ठ वज्रहस्त दाशु꣡षे  
+अर्वा꣡ञ्चं रयि꣡म् आ꣡ कृधि  

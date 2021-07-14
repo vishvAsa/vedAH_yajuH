@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-só agna enā́ námasā sámiddho  
-áchā mitráṃ váruṇam índraṃ voceḥ  
-yát sīm ā́gaś cakr̥mā́ tát sú mr̥̄ḷa+  
-tád aryamā́ áditiḥ śiśrathantu  
+सो꣡ अग्न एना꣡ न꣡मसा स꣡मिद्धो  
+अ꣡छा मित्रं꣡ व꣡रुणम् इ꣡न्द्रं वोचेः  
+य꣡त् सीम् आ꣡गश् चकृमा꣡ त꣡त् सु꣡ मॄऌअ+  
+त꣡द् अर्यमा꣡ अ꣡दितिः शिश्रथन्तु  

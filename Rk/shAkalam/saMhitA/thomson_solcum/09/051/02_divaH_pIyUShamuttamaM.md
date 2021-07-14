@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-diváḥ pīyū́ṣam uttamáṃ  
-sómam índrāya vajríṇe  
-sunótā mádhumattamam  
+दिवः꣡ पीयू꣡षम् उत्तमं꣡  
+सो꣡मम् इ꣡न्द्राय वज्रि꣡णे  
+सुनो꣡ता म꣡धुमत्तमम्  

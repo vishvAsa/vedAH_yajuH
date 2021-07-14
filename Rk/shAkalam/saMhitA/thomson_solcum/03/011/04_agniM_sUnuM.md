@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-agníṃ sūnúṃ sánaśrutaṃ  
-sáhaso jātávedasam  
-váhniṃ devā́ akr̥ṇvata  
+अग्निं꣡ सूनुं꣡ स꣡नश्रुतं  
+स꣡हसो जात꣡वेदसम्  
+व꣡ह्निं देवा꣡ अकृण्वत  

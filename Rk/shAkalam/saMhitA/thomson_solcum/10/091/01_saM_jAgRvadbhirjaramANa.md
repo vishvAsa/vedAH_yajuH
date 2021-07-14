@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sáṃ jāgr̥vádbhir járamāṇa idhyate  
-dáme dámūnā iṣáyann iḷás padé  
-víśvasya hótā havíṣo váreṇiyo  
-vibhúr vibhā́vā suṣákhā sakhīyaté  
+सं꣡ जागृव꣡द्भिर् ज꣡रमाण इध्यते  
+द꣡मे द꣡मूना इष꣡यन्न् इऌअ꣡स् पदे꣡  
+वि꣡श्वस्य हो꣡ता हवि꣡षो व꣡रेणियो  
+विभु꣡र् विभा꣡वा सुष꣡खा सखीयते꣡  

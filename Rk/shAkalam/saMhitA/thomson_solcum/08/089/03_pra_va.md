@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá va índrāya br̥haté  
-máruto bráhma arcata  
-vr̥tráṃ hanati vr̥trahā́ śatákratur  
-vájreṇa śatáparvaṇā  
+प्र꣡ व इ꣡न्द्राय बृहते꣡  
+म꣡रुतो ब्र꣡ह्म अर्चत  
+वृत्रं꣡ हनति वृत्रहा꣡ शत꣡क्रतुर्  
+व꣡ज्रेण शत꣡पर्वणा  

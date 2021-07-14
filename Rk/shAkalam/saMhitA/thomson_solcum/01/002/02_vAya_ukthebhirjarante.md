@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-vā́ya ukthébhir jarante  
-tuvā́m áchā jaritā́raḥ  
-sutásomā aharvídaḥ  
+वा꣡य उक्थे꣡भिर् जरन्ते  
+तुवा꣡म् अ꣡छा जरिता꣡रः  
+सुत꣡सोमा अहर्वि꣡दः  

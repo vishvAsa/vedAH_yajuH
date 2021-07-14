@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-káyā no agna r̥táyann r̥téna  
-bhúvo návedā ucáthasya návyaḥ  
-védā me devá r̥tupā́ r̥tūnā́ṃ  
-nā́hám pátiṃ sanitúr asyá rāyáḥ  
+क꣡या नो अग्न ऋत꣡यन्न् ऋते꣡न  
+भु꣡वो न꣡वेदा उच꣡थस्य न꣡व्यः  
+वे꣡दा मे देव꣡ ऋतुपा꣡ ऋतूनां꣡  
+ना꣡ह꣡म् प꣡तिं सनितु꣡र् अस्य꣡ रायः꣡  

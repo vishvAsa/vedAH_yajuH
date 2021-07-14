@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-víśvāni deva savitar  
-duritā́ni párā suva  
-yád bhadráṃ tán na ā́ suva  
+वि꣡श्वानि देव सवितर्  
+दुरिता꣡नि प꣡रा सुव  
+य꣡द् भद्रं꣡ त꣡न् न आ꣡ सुव  

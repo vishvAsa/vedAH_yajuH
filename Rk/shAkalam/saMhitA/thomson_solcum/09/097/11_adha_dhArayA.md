@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ádha dhā́rayā mádhuvā pr̥cānás  
-tiró róma pavate ádridugdhaḥ  
-índur índrasya sakhiyáṃ juṣāṇó  
-devó devásya matsaró mádāya  
+अ꣡ध धा꣡रया म꣡धुवा पृचान꣡स्  
+तिरो꣡ रो꣡म पवते अ꣡द्रिदुग्धः  
+इ꣡न्दुर् इ꣡न्द्रस्य सखियं꣡ जुषाणो꣡  
+देवो꣡ देव꣡स्य मत्सरो꣡ म꣡दाय  

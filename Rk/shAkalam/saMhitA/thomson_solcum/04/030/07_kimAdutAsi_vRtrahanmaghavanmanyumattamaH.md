@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-kím ā́d utā́si vr̥trahan  
-mághavan manyumáttamaḥ  
-átrā́ha dā́num ā́tiraḥ  
+कि꣡म् आ꣡द् उता꣡सि वृत्रहन्  
+म꣡घवन् मन्युम꣡त्तमः  
+अ꣡त्रा꣡ह दा꣡नुम् आ꣡तिरः  

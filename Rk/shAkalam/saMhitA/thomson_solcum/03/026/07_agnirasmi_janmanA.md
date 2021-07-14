@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-agnír asmi jánmanā jātávedā  
-ghr̥tám me cákṣur amŕ̥tam ma āsán  
-arkás tridhā́tū rájaso vimā́no  
-ájasro gharmó havír asmi nā́ma  
+अग्नि꣡र् अस्मि ज꣡न्मना जात꣡वेदा  
+घृत꣡म् मे च꣡क्षुर् अम्ŕ̥तम् म आस꣡न्  
+अर्क꣡स् त्रिधा꣡तू र꣡जसो विमा꣡नो  
+अ꣡जस्रो घर्मो꣡ हवि꣡र् अस्मि ना꣡म  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sasváś cid dhí sámr̥tis tveṣī́ eṣām  
-apīcíyena sáhasā sáhante  
-yuṣmád bhiyā́ vr̥ṣaṇo réjamānā  
-dákṣasya cin mahinā́ mr̥̄ḷátā+ naḥ  
+सस्व꣡श् चिद् धि꣡ स꣡मृतिस् त्वेषी꣡ एषाम्  
+अपीचि꣡येन स꣡हसा स꣡हन्ते  
+युष्म꣡द् भिया꣡ वृषणो रे꣡जमाना  
+द꣡क्षस्य चिन् महिना꣡ मॄऌअ꣡ता+ नः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yā́ te didyúd ávasr̥ṣṭā divás pári  
-kṣmayā́ cárati pári sā́ vr̥ṇaktu naḥ  
-sahásraṃ te suapivāta bheṣajā́  
-mā́ nas tokéṣu tánayeṣu rīriṣaḥ  
+या꣡ ते दिद्यु꣡द् अ꣡वसृष्टा दिव꣡स् प꣡रि  
+क्ष्मया꣡ च꣡रति प꣡रि सा꣡ वृणक्तु नः  
+सह꣡स्रं ते सुअपिवात भेषजा꣡  
+मा꣡ नस् तोके꣡षु त꣡नयेषु रीरिषः  

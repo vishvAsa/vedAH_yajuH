@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-kásya nūnám párīṇaso  
-dhíyo jinvasi dampate  
-góṣātā yásya te gíraḥ  
+क꣡स्य नून꣡म् प꣡रीणसो  
+धि꣡यो जिन्वसि दम्पते  
+गो꣡षाता य꣡स्य ते गि꣡रः  

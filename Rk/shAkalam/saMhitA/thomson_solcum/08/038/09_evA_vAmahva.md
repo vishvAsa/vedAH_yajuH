@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-evā́ vām ahva ūtáye  
-yáthā́huvanta médhirāḥ  
-índrāgnī sómapītaye  
+एवा꣡ वाम् अह्व ऊत꣡ये  
+य꣡था꣡हुवन्त मे꣡धिराः  
+इ꣡न्द्राग्नी सो꣡मपीतये  

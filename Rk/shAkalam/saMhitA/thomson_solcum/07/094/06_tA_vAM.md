@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-tā́ vāṃ gīrbhír vipanyávaḥ  
-práyasvanto havāmahe  
-medhásātā saniṣyávaḥ  
+ता꣡ वां गीर्भि꣡र् विपन्य꣡वः  
+प्र꣡यस्वन्तो हवामहे  
+मेध꣡साता सनिष्य꣡वः  

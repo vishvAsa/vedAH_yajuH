@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-véda māsó dhr̥távrato  
-duvā́daśa prajā́vataḥ  
-védā yá upajā́yate  
+वे꣡द मासो꣡ धृत꣡व्रतो  
+दुवा꣡दश प्रजा꣡वतः  
+वे꣡दा य꣡ उपजा꣡यते  

@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-áraṃ ta indra kukṣáye  
-sómo bhavatu vr̥trahan  
-áraṃ dhā́mabhya índavaḥ  
+अ꣡रं त इन्द्र कुक्ष꣡ये  
+सो꣡मो भवतु वृत्रहन्  
+अ꣡रं धा꣡मभ्य इ꣡न्दवः  

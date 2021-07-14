@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tát sú vām mitrāvaruṇā mahitvám  
-īrmā́ tasthúṣīr áhabhir duduhre  
-víśvāḥ pinvathaḥ svásarasya dhénā  
-ánu vām ékaḥ pavír ā́ vavarta  
+त꣡त् सु꣡ वाम् मित्रावरुणा महित्व꣡म्  
+ईर्मा꣡ तस्थु꣡षीर् अ꣡हभिर् दुदुह्रे  
+वि꣡श्वाः पिन्वथः स्व꣡सरस्य धे꣡ना  
+अ꣡नु वाम् ए꣡कः पवि꣡र् आ꣡ ववर्त  

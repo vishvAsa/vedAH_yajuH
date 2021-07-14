@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-chardír yantam ádābhiyaṃ  
-víprāya stuvaté narā  
-mádhvaḥ sómasya pītáye  
+छर्दि꣡र् यन्तम् अ꣡दाभियं  
+वि꣡प्राय स्तुवते꣡ नरा  
+म꣡ध्वः सो꣡मस्य पीत꣡ये  

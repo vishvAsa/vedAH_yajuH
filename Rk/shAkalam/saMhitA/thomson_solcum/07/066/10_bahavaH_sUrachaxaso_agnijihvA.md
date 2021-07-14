@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-bahávaḥ sū́racakṣaso  
-agnijihvā́ r̥tāvŕ̥dhaḥ  
-trī́ṇi yé yemúr vidáthāni dhītíbhir  
-víśvāni páribhūtibhiḥ  
+बह꣡वः सू꣡रचक्षसो  
+अग्निजिह्वा꣡ ऋताव्ŕ̥धः  
+त्री꣡णि ये꣡ येमु꣡र् विद꣡थानि धीति꣡भिर्  
+वि꣡श्वानि प꣡रिभूतिभिः  

@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-áhāvi agne havír āsíye te  
-srucī́va ghr̥táṃ camúvīva sómaḥ  
-vājasániṃ rayím asmé suvī́ram  
-praśastáṃ dhehi yaśásam br̥hántam  
+अ꣡हावि अग्ने हवि꣡र् आसि꣡ये ते  
+स्रुची꣡व घृतं꣡ चमु꣡वीव सो꣡मः  
+वाजस꣡निं रयि꣡म् अस्मे꣡ सुवी꣡रम्  
+प्रशस्तं꣡ धेहि यश꣡सम् बृह꣡न्तम्  

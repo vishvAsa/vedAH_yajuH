@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-kánikradat kaláśe góbhir ajyase  
-ví avyáyaṃ samáyā vā́ram arṣasi  
-marmr̥jyámāno átiyo ná sānasír  
-índrasya soma jaṭháre sám akṣaraḥ  
+क꣡निक्रदत् कल꣡शे गो꣡भिर् अज्यसे  
+वि꣡ अव्य꣡यं सम꣡या वा꣡रम् अर्षसि  
+मर्मृज्य꣡मानो अ꣡तियो न꣡ सानसि꣡र्  
+इ꣡न्द्रस्य सोम जठ꣡रे स꣡म् अक्षरः  

@@ -2,9 +2,9 @@
 title = "005"
 
 +++
-táva tyé soma śáktibhir  
-níkāmāso ví r̥ṇvire  
-gŕ̥tsasya dhī́rās taváso  
-ví vo máde  
-vrajáṃ gómantam aśvínaṃ  
-vívakṣase  
+त꣡व त्ये꣡ सोम श꣡क्तिभिर्  
+नि꣡कामासो वि꣡ ऋण्विरे  
+ग्ŕ̥त्सस्य धी꣡रास् तव꣡सो  
+वि꣡ वो म꣡दे  
+व्रजं꣡ गो꣡मन्तम् अश्वि꣡नं  
+वि꣡वक्षसे  

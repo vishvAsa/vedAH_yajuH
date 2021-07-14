@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-eṣá tunnó abhíṣṭutaḥ  
-pavítram áti gāhate  
-rakṣohā́ vā́ram avyáyam  
+एष꣡ तुन्नो꣡ अभि꣡ष्टुतः  
+पवि꣡त्रम् अ꣡ति गाहते  
+रक्षोहा꣡ वा꣡रम् अव्य꣡यम्  

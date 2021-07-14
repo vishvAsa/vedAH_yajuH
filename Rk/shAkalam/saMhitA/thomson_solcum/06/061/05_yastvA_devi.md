@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yás tvā devi sarasvati  
-upabrūté dháne hité  
-índraṃ ná vr̥tratū́riye  
+य꣡स् त्वा देवि सरस्वति  
+उपब्रूते꣡ ध꣡ने हिते꣡  
+इ꣡न्द्रं न꣡ वृत्रतू꣡रिये  

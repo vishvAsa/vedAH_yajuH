@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-avakrakṣíṇaṃ vr̥ṣabháṃ yathājúraṃ  
-gã́ṃ ná carṣaṇīsáham  
-vidvéṣaṇaṃ saṃvánanobhayaṃkarám  
-máṃhiṣṭham ubhayāvínam  
+अवक्रक्षि꣡णं वृषभं꣡ यथाजु꣡रं  
+ग्ãं꣡ न꣡ चर्षणीस꣡हम्  
+विद्वे꣡षणं संव꣡ननोभयंकर꣡म्  
+मं꣡हिष्ठम् उभयावि꣡नम्  

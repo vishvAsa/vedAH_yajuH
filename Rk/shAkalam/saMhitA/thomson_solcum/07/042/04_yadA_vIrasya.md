@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yadā́ vīrásya reváto duroṇé  
-siyonaśī́r átithir ācíketat  
-súprīto agníḥ súdhito dáma ā́  
-sá viśé dāti vā́riyam íyatyai  
+यदा꣡ वीर꣡स्य रेव꣡तो दुरोणे꣡  
+सियोनशी꣡र् अ꣡तिथिर् आचि꣡केतत्  
+सु꣡प्रीतो अग्निः꣡ सु꣡धितो द꣡म आ꣡  
+स꣡ विशे꣡ दाति वा꣡रियम् इ꣡यत्यै  

@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yásyā́jasraṃ śávasā mā́nam ukthám  
-paribhujád ródasī viśvátaḥ sīm  
-sá pāriṣat krátubhir mandasānó  
-marútvān no bhavatu índra ūtī́  
+य꣡स्या꣡जस्रं श꣡वसा मा꣡नम् उक्थ꣡म्  
+परिभुज꣡द् रो꣡दसी विश्व꣡तः सीम्  
+स꣡ पारिषत् क्र꣡तुभिर् मन्दसानो꣡  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yé te trír áhan savitaḥ savā́so  
-divé-dive saúbhagam āsuvánti  
-índro dyā́vāpr̥thivī́ síndhur adbhír  
-ādityaír no áditiḥ śárma yaṃsat  
+ये꣡ ते त्रि꣡र् अ꣡हन् सवितः सवा꣡सो  
+दिवे꣡-दिवे सउ꣡भगम् आसुव꣡न्ति  
+इ꣡न्द्रो द्या꣡वापृथिवी꣡ सि꣡न्धुर् अद्भि꣡र्  
+आदित्यइ꣡र् नो अ꣡दितिः श꣡र्म यंसत्  

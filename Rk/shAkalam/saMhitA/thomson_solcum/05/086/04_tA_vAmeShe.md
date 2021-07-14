@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tā́ vām éṣe ráthānãm  
-indraagnī́ havāmahe  
-pátī turásya rā́dhaso  
-vidvā́ṃsā gírvaṇastamā  
+ता꣡ वाम् ए꣡षे र꣡थान्ãम्  
+इन्द्रअग्नी꣡ हवामहे  
+प꣡ती तुर꣡स्य रा꣡धसो  
+विद्वां꣡सा गि꣡र्वणस्तमा  

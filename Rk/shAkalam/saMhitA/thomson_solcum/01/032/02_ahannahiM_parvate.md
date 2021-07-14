@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áhann áhim párvate śiśriyāṇáṃ  
-tváṣṭāsmai vájraṃ svaríyaṃ tatakṣa  
-vāśrā́ iva dhenávaḥ syándamānā  
-áñjaḥ samudrám áva jagmur ā́paḥ  
+अ꣡हन्न् अ꣡हिम् प꣡र्वते शिश्रियाणं꣡  
+त्व꣡ष्टास्मै व꣡ज्रं स्वरि꣡यं ततक्ष  
+वाश्रा꣡ इव धेन꣡वः स्य꣡न्दमाना  
+अ꣡ञ्जः समुद्र꣡म् अ꣡व जग्मुर् आ꣡पः  

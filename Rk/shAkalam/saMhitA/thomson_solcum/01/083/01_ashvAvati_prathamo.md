@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-áśvāvati prathamó góṣu gachati  
-suprāvī́r indra mártiyas távotíbhiḥ  
-tám ít pr̥ṇakṣi vásunā bhávīyasā  
-síndhum ā́po yáthābhíto vícetasaḥ  
+अ꣡श्वावति प्रथमो꣡ गो꣡षु गछति  
+सुप्रावी꣡र् इन्द्र म꣡र्तियस् त꣡वोति꣡भिः  
+त꣡म् इ꣡त् पृणक्षि व꣡सुना भ꣡वीयसा  
+सि꣡न्धुम् आ꣡पो य꣡थाभि꣡तो वि꣡चेतसः  

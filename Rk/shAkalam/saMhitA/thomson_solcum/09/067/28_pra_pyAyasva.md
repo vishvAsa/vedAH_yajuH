@@ -2,6 +2,6 @@
 title = "028"
 
 +++
-prá pyāyasva prá syandasva  
-sóma víśvebhir aṃśúbhiḥ  
-devébhya uttamáṃ havíḥ  
+प्र꣡ प्यायस्व प्र꣡ स्यन्दस्व  
+सो꣡म वि꣡श्वेभिर् अंशु꣡भिः  
+देवे꣡भ्य उत्तमं꣡ हविः꣡  

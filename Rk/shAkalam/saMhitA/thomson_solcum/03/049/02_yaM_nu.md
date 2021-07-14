@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yáṃ nú nákiḥ pŕ̥tanāsu svarā́jaṃ  
-dvitā́ tárati nŕ̥tamaṃ hariṣṭhā́m  
-inátamaḥ sátvabhir yó ha śūṣaíḥ  
-pr̥thujráyā aminād ā́yu° dásyoḥ  
+यं꣡ नु꣡ न꣡किः प्ŕ̥तनासु स्वरा꣡जं  
+द्विता꣡ त꣡रति न्ŕ̥तमं हरिष्ठा꣡म्  
+इन꣡तमः स꣡त्वभिर् यो꣡ ह शूषइः꣡  
+पृथुज्र꣡या अमिनाद् आ꣡यु° द꣡स्योः  

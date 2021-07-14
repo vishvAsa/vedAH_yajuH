@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tásyéd árvanto raṃhayanta āśávas  
-tásya dyumnítamaṃ yáśaḥ  
-ná tám áṃho devákr̥taṃ kútaś caná  
-ná mártiyakr̥taṃ naśat  
+त꣡स्ये꣡द् अ꣡र्वन्तो रंहयन्त आश꣡वस्  
+त꣡स्य द्युम्नि꣡तमं य꣡शः  
+न꣡ त꣡म् अं꣡हो देव꣡कृतं कु꣡तश् चन꣡  
+न꣡ म꣡र्तियकृतं नशत्  

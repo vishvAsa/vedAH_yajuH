@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-dyúbhir hitám mitrám iva prayógam  
-pratnám r̥tvíjam adhvarásya jārám  
-bāhúbhyām agním āyávo 'jananta  
-vikṣú hótāraṃ ní asādayanta  
+द्यु꣡भिर् हित꣡म् मित्र꣡म् इव प्रयो꣡गम्  
+प्रत्न꣡म् ऋत्वि꣡जम् अध्वर꣡स्य जार꣡म्  
+बाहु꣡भ्याम् अग्नि꣡म् आय꣡वो ऽजनन्त  
+विक्षु꣡ हो꣡तारं नि꣡ असादयन्त  

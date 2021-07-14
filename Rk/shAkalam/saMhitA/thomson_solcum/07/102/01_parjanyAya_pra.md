@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-parjányāya prá gāyata  
-divás putrā́ya mīḷhúṣe  
-sá no yávasam ichatu  
+पर्ज꣡न्याय प्र꣡ गायत  
+दिव꣡स् पुत्रा꣡य मीऌहु꣡षे  
+स꣡ नो य꣡वसम् इछतु  

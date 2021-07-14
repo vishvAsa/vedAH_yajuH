@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́ ghā tā́ gachān úttarā yugā́ni  
-yátra jāmáyaḥ kr̥ṇávann ájāmi  
-úpa barbr̥hi vr̥ṣabhā́ya bāhúm  
-anyám ichasva subhage pátim mát  
+आ꣡ घा ता꣡ गछान् उ꣡त्तरा युगा꣡नि  
+य꣡त्र जाम꣡यः कृण꣡वन्न् अ꣡जामि  
+उ꣡प बर्बृहि वृषभा꣡य बाहु꣡म्  
+अन्य꣡म् इछस्व सुभगे प꣡तिम् म꣡त्  

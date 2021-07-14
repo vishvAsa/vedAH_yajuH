@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yuvó ráthasya pári cakrám īyata  
-īrmā́nyád vām iṣaṇyati  
-asmā́m̐ áchā sumatír vāṃ śubhas patī  
-ā́ dhenúr iva dhāvatu  
+युवो꣡ र꣡थस्य प꣡रि चक्र꣡म् ईयत  
+ईर्मा꣡न्य꣡द् वाम् इषण्यति  
+अस्माँ꣡ अ꣡छा सुमति꣡र् वां शुभस् पती  
+आ꣡ धेनु꣡र् इव धावतु  

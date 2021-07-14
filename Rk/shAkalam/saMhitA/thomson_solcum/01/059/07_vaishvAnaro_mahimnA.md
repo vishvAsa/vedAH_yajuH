@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-vaiśvānaró mahimnā́ viśvákr̥ṣṭir  
-bharádvājeṣu yajató vibhā́vā  
-śātavaneyé śatínībhir agníḥ  
-puruṇīthé jarate sūnŕ̥tāvān  
+वैश्वानरो꣡ महिम्ना꣡ विश्व꣡कृष्टिर्  
+भर꣡द्वाजेषु यजतो꣡ विभा꣡वा  
+शातवनेये꣡ शति꣡नीभिर् अग्निः꣡  
+पुरुणीथे꣡ जरते सून्ŕ̥तावान्  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-krīḷúr makhó ná maṃhayúḥ  
-pavítraṃ soma gachasi  
-dádhat stotré suvī́riyam  
+क्रीऌउ꣡र् मखो꣡ न꣡ मंहयुः꣡  
+पवि꣡त्रं सोम गछसि  
+द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्  

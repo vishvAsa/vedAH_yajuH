@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-daívyā hótārā prathamā́ suvā́cā  
-mímānā yajñám mánuṣo yájadhyai  
-pracodáyantā vidátheṣu kārū́  
-prācī́naṃ jyótiḥ pradíśā diśántā  
+दइ꣡व्या हो꣡तारा प्रथमा꣡ सुवा꣡चा  
+मि꣡माना यज्ञ꣡म् म꣡नुषो य꣡जध्यै  
+प्रचोद꣡यन्ता विद꣡थेषु कारू꣡  
+प्राची꣡नं ज्यो꣡तिः प्रदि꣡शा दिश꣡न्ता  

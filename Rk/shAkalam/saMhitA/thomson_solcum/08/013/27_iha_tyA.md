@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-ihá tyā́ sadhamā́diyā  
-yujānáḥ sómapītaye  
-hárī indra pratádvasū abhí svara  
+इह꣡ त्या꣡ सधमा꣡दिया  
+युजानः꣡ सो꣡मपीतये  
+ह꣡री इन्द्र प्रत꣡द्वसू अभि꣡ स्वर  

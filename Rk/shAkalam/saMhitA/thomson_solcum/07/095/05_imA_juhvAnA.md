@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-imā́ júhvānā yuṣmád ā́ námobhiḥ  
-práti stómaṃ sarasvati juṣasva  
-táva śárman priyátame dádhānā  
-úpa stheyāma śaraṇáṃ ná vr̥kṣám  
+इमा꣡ जु꣡ह्वाना युष्म꣡द् आ꣡ न꣡मोभिः  
+प्र꣡ति स्तो꣡मं सरस्वति जुषस्व  
+त꣡व श꣡र्मन् प्रिय꣡तमे द꣡धाना  
+उ꣡प स्थेयाम शरणं꣡ न꣡ वृक्ष꣡म्  

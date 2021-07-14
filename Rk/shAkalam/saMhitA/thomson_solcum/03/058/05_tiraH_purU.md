@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tiráḥ purū́ cid aśvinā rájāṃsi  
-āṅgūṣó vām maghavānā jáneṣu  
-éhá yātam pathíbhir devayā́nair  
-dásrāv imé vāṃ nidháyo mádhūnām  
+तिरः꣡ पुरू꣡ चिद् अश्विना र꣡जांसि  
+आङ्गूषो꣡ वाम् मघवाना ज꣡नेषु  
+ए꣡ह꣡ यातम् पथि꣡भिर् देवया꣡नैर्  
+द꣡स्राव् इमे꣡ वां निध꣡यो म꣡धूनाम्  

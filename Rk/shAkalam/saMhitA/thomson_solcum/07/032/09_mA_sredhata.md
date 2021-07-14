@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-mā́ sredhata somino dákṣatā mahé  
-kr̥ṇudhváṃ rāyá ātúje  
-taráṇir íj jayati kṣéti púṣyati  
-ná devā́saḥ kavatnáve  
+मा꣡ स्रेधत सोमिनो द꣡क्षता महे꣡  
+कृणुध्वं꣡ राय꣡ आतु꣡जे  
+तर꣡णिर् इ꣡ज् जयति क्षे꣡ति पु꣡ष्यति  
+न꣡ देवा꣡सः कवत्न꣡वे  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá vaḥ pã́ntaṃ raghumanyavó 'ndho  
-yajñáṃ rudrā́ya mīḷhúṣe bharadhvam  
-divó astoṣi ásurasya vīraír  
-iṣudhyéva marúto ródasīyoḥ  
+प्र꣡ वः प्ã꣡न्तं रघुमन्यवो꣡ ऽन्धो  
+यज्ञं꣡ रुद्रा꣡य मीऌहु꣡षे भरध्वम्  
+दिवो꣡ अस्तोषि अ꣡सुरस्य वीरइ꣡र्  
+इषुध्ये꣡व मरु꣡तो रो꣡दसीयोः  

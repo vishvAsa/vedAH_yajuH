@@ -2,7 +2,7 @@
 title = "034"
 
 +++
-pr̥chā́mi tvā páram ántam pr̥thivyā́ḥ  
-pr̥chā́mi yátra bhúvanasya nā́bhiḥ  
-pr̥chā́mi tvā vŕ̥ṣṇo áśvasya rétaḥ  
-pr̥chā́mi vācáḥ paramáṃ víoma  
+पृछा꣡मि त्वा प꣡रम् अ꣡न्तम् पृथिव्याः꣡  
+पृछा꣡मि य꣡त्र भु꣡वनस्य ना꣡भिः  
+पृछा꣡मि त्वा व्ŕ̥ष्णो अ꣡श्वस्य रे꣡तः  
+पृछा꣡मि वाचः꣡ परमं꣡ वि꣡ओम  

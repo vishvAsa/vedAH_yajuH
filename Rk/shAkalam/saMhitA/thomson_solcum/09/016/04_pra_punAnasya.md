@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-prá punānásya cétasā  
-sómaḥ pavítre arṣati  
-krátvā sadhástham ā́sadat  
+प्र꣡ पुनान꣡स्य चे꣡तसा  
+सो꣡मः पवि꣡त्रे अर्षति  
+क्र꣡त्वा सध꣡स्थम् आ꣡सदत्  

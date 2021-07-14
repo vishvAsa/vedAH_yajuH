@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-táyā pavasva dhā́rayā  
-yáyā gā́va ihā́gáman  
-jányāsa úpa no gr̥hám  
+त꣡या पवस्व धा꣡रया  
+य꣡या गा꣡व इहा꣡ग꣡मन्  
+ज꣡न्यास उ꣡प नो गृह꣡म्  

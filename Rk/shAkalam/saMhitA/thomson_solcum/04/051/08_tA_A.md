@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tā́ ā́ caranti samanā́ purástāt  
-samānátaḥ samanā́ paprathānā́ḥ  
-r̥tásya devī́ḥ sádaso budhānā́  
-gávāṃ ná sárgā uṣáso jarante  
+ता꣡ आ꣡ चरन्ति समना꣡ पुर꣡स्तात्  
+समान꣡तः समना꣡ पप्रथानाः꣡  
+ऋत꣡स्य देवीः꣡ स꣡दसो बुधाना꣡  
+ग꣡वां न꣡ स꣡र्गा उष꣡सो जरन्ते  

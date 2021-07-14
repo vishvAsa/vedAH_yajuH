@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́ pakthā́so bhalānáso bhananta  
-ā́lināso viṣāṇínaḥ śivā́saḥ  
-ā́ yó 'nayat sadhamā́ ā́riyasya  
-gavyā́ tŕ̥tsubhyo ajagan yudhā́ nr̥̄́n  
+आ꣡ पक्था꣡सो भलान꣡सो भनन्त  
+आ꣡लिनासो विषाणि꣡नः शिवा꣡सः  
+आ꣡ यो꣡ ऽनयत् सधमा꣡ आ꣡रियस्य  
+गव्या꣡ त्ŕ̥त्सुभ्यो अजगन् युधा꣡ नॄ꣡न्  

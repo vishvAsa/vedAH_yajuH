@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sahásreṇeva sacate yavīyúdhā  
-yás ta ā́naḷ úpastutim  
-putrám prāvargáṃ kr̥ṇute suvī́riye  
-dāśnóti námaüktibhiḥ  
+सह꣡स्रेणेव सचते यवीयु꣡धा  
+य꣡स् त आ꣡नऌ उ꣡पस्तुतिम्  
+पुत्र꣡म् प्रावर्गं꣡ कृणुते सुवी꣡रिये  
+दाश्नो꣡ति न꣡मüक्तिभिः  

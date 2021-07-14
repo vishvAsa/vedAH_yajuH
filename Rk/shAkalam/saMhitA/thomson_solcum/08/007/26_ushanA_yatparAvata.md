@@ -2,6 +2,6 @@
 title = "026"
 
 +++
-uśánā yát parāváta  
-ukṣṇó rándhram áyātana  
-diyaúr ná cakradad bhiyā́  
+उश꣡ना य꣡त् पराव꣡त  
+उक्ष्णो꣡ र꣡न्ध्रम् अ꣡यातन  
+दियउ꣡र् न꣡ चक्रदद् भिया꣡  

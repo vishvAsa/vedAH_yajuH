@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tád ít sadhástham abhí cā́ru dīdhaya  
-gā́vo yác chā́san vahatúṃ ná dhenávaḥ  
-mātā́ yán mántur yūthásya pūrviyā́  
-abhí vāṇásya saptádhātur íj jánaḥ  
+त꣡द् इ꣡त् सध꣡स्थम् अभि꣡ चा꣡रु दीधय  
+गा꣡वो य꣡च् छा꣡सन् वहतुं꣡ न꣡ धेन꣡वः  
+माता꣡ य꣡न् म꣡न्तुर् यूथ꣡स्य पूर्विया꣡  
+अभि꣡ वाण꣡स्य सप्त꣡धातुर् इ꣡ज् ज꣡नः  

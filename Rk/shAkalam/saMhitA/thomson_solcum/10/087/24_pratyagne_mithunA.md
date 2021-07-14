@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-práty agne mithunā́ daha  
-yātudhā́nā kimīdínā  
-sáṃ tvā śiśāmi jāgr̥hi  
-ádabdhaṃ vipra mánmabhiḥ  
+प्र꣡त्य् अग्ने मिथुना꣡ दह  
+यातुधा꣡ना किमीदि꣡ना  
+सं꣡ त्वा शिशामि जागृहि  
+अ꣡दब्धं विप्र म꣡न्मभिः  

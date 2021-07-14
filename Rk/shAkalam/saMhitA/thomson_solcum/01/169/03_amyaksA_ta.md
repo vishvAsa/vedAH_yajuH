@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ámyak sā́ ta indara+ r̥ṣṭír asmé  
-sánemi ábhvam marúto junanti  
-agníś cid dhí ṣma atasé śuśukvā́n  
-ā́po ná dvīpáṃ dádhati práyāṃsi  
+अ꣡म्यक् सा꣡ त इन्दर+ ऋष्टि꣡र् अस्मे꣡  
+स꣡नेमि अ꣡भ्वम् मरु꣡तो जुनन्ति  
+अग्नि꣡श् चिद् धि꣡ ष्म अतसे꣡ शुशुक्वा꣡न्  
+आ꣡पो न꣡ द्वीपं꣡ द꣡धति प्र꣡यांसि  

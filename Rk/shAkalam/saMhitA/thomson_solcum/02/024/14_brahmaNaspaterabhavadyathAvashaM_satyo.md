@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-bráhmaṇas páter abhavad yathāvaśáṃ  
-satyó manyúr máhi kármā kariṣyatáḥ  
-yó gā́ udā́jat sá divé ví cābhajan  
-mahī́va rītíḥ śávasāsarat pŕ̥thak  
+ब्र꣡ह्मणस् प꣡तेर् अभवद् यथावशं꣡  
+सत्यो꣡ मन्यु꣡र् म꣡हि क꣡र्मा करिष्यतः꣡  
+यो꣡ गा꣡ उदा꣡जत् स꣡ दिवे꣡ वि꣡ चाभजन्  
+मही꣡व रीतिः꣡ श꣡वसासरत् प्ŕ̥थक्  

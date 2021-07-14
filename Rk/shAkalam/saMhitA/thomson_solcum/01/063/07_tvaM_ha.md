@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuváṃ ha tyád indara+ saptá yúdhyan  
-púro vajrin purukútsāya dardaḥ  
-barhír ná yát · sudā́se vŕ̥thā várg  
-aṃhó rājan várivaḥ pūráve kaḥ  
+तुवं꣡ ह त्य꣡द् इन्दर+ सप्त꣡ यु꣡ध्यन्  
+पु꣡रो वज्रिन् पुरुकु꣡त्साय दर्दः  
+बर्हि꣡र् न꣡ य꣡त् · सुदा꣡से व्ŕ̥था व꣡र्ग्  
+अंहो꣡ राजन् व꣡रिवः पूर꣡वे कः  

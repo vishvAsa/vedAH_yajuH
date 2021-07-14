@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-práti asya śráyaṇayo+ dadr̥śra  
-ékaṃ niyā́nam bahávo ráthāsaḥ  
-bāhū́ yád agne anumármr̥jāno  
-níaṅṅ uttānā́m anuéṣi bhū́mim  
+प्र꣡ति अस्य श्र꣡यणयो+ ददृश्र  
+ए꣡कं निया꣡नम् बह꣡वो र꣡थासः  
+बाहू꣡ य꣡द् अग्ने अनुम꣡र्मृजानो  
+नि꣡अङ्ङ् उत्ताना꣡म् अनुए꣡षि भू꣡मिम्  

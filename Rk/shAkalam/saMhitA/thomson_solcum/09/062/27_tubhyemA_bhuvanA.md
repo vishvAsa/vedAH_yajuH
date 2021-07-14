@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-túbhyemā́ bhúvanā kave  
-mahimné soma tasthire  
-túbhyam arṣanti síndhavaḥ  
+तु꣡भ्येमा꣡ भु꣡वना कवे  
+महिम्ने꣡ सोम तस्थिरे  
+तु꣡भ्यम् अर्षन्ति सि꣡न्धवः  

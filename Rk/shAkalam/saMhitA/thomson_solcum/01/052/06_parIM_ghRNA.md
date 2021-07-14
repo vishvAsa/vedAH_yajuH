@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-párīṃ ghr̥ṇā́ carati titviṣé śávo  
-apó vr̥tvī́ rájaso budhnám ā́śayat  
-vr̥trásya yát pravaṇé durgŕ̥bhiśvano  
-nijaghántha hánuvor indra tanyatúm  
+प꣡रीं घृणा꣡ चरति तित्विषे꣡ श꣡वो  
+अपो꣡ वृत्वी꣡ र꣡जसो बुध्न꣡म् आ꣡शयत्  
+वृत्र꣡स्य य꣡त् प्रवणे꣡ दुर्ग्ŕ̥भिश्वनो  
+निजघ꣡न्थ ह꣡नुवोर् इन्द्र तन्यतु꣡म्  

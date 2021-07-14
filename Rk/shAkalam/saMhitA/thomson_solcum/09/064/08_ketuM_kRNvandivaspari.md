@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-ketúṃ kr̥ṇván divás pári  
-víśvā rūpā́bhí arṣasi  
-samudráḥ soma pinvase  
+केतुं꣡ कृण्व꣡न् दिव꣡स् प꣡रि  
+वि꣡श्वा रूपा꣡भि꣡ अर्षसि  
+समुद्रः꣡ सोम पिन्वसे  

@@ -2,9 +2,9 @@
 title = "007"
 
 +++
-áti vāyo sasató yāhi śáśvato  
-yátra grā́vā vádati tátra gachataṃ  
-gr̥hám índraś ca gachatam  
-ví sūnŕ̥tā dádr̥śe rī́yate ghr̥tám  
-ā́ pūrṇáyā niyútā yātho adhvarám  
-índraś ca yātho adhvarám  
+अ꣡ति वायो ससतो꣡ याहि श꣡श्वतो  
+य꣡त्र ग्रा꣡वा व꣡दति त꣡त्र गछतं  
+गृह꣡म् इ꣡न्द्रश् च गछतम्  
+वि꣡ सून्ŕ̥ता द꣡दृशे री꣡यते घृत꣡म्  
+आ꣡ पूर्ण꣡या नियु꣡ता याथो अध्वर꣡म्  
+इ꣡न्द्रश् च याथो अध्वर꣡म्  

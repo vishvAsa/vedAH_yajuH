@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá jihváyā cáturanīka r̥ñjate  
-cā́ru vásāno váruṇo yátann arím  
-ná tásya vidma puruṣatvátā vayáṃ  
-yáto bhágaḥ savitā́ dā́ti vā́riyam  
+स꣡ जिह्व꣡या च꣡तुरनीक ऋञ्जते  
+चा꣡रु व꣡सानो व꣡रुणो य꣡तन्न् अरि꣡म्  
+न꣡ त꣡स्य विद्म पुरुषत्व꣡ता वयं꣡  
+य꣡तो भ꣡गः सविता꣡ दा꣡ति वा꣡रियम्  

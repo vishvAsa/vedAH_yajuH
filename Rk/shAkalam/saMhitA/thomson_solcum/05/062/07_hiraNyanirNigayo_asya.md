@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-híraṇyanirṇig áyo asya sthū́ṇā  
-ví bhrājate diví aśvā́janīva  
-bhadré kṣétre nímitā tílvile vā  
-sanéma mádhvo ádhigartiyasya  
+हि꣡रण्यनिर्णिग् अ꣡यो अस्य स्थू꣡णा  
+वि꣡ भ्राजते दिवि꣡ अश्वा꣡जनीव  
+भद्रे꣡ क्षे꣡त्रे नि꣡मिता ति꣡ल्विले वा  
+सने꣡म म꣡ध्वो अ꣡धिगर्तियस्य  

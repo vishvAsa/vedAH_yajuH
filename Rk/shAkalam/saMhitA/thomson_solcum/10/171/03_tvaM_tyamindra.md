@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tuváṃ tyám indra mártiyam  
-āstrabudhnā́ya veniyám  
-múhuḥ śrathnā manasyáve  
+तुवं꣡ त्य꣡म् इन्द्र म꣡र्तियम्  
+आस्त्रबुध्ना꣡य वेनिय꣡म्  
+मु꣡हुः श्रथ्ना मनस्य꣡वे  

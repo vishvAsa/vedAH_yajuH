@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yát sthó dīrgháprasadmani  
-yád vādó rocané diváḥ  
-yád vā samudré ádhi ā́kr̥te gr̥hé  
-áta ā́ yātam aśvinā  
+य꣡त् स्थो꣡ दीर्घ꣡प्रसद्मनि  
+य꣡द् वादो꣡ रोचने꣡ दिवः꣡  
+य꣡द् वा समुद्रे꣡ अ꣡धि आ꣡कृते गृहे꣡  
+अ꣡त आ꣡ यातम् अश्विना  

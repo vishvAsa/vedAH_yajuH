@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sváranti tvā suté náro  
-váso nireká ukthínaḥ  
-kadā́ sutáṃ tr̥ṣāṇá óka ā́ gama  
-índra svabdī́va váṃsagaḥ  
+स्व꣡रन्ति त्वा सुते꣡ न꣡रो  
+व꣡सो निरेक꣡ उक्थि꣡नः  
+कदा꣡ सुतं꣡ तृषाण꣡ ओ꣡क आ꣡ गम  
+इ꣡न्द्र स्वब्दी꣡व वं꣡सगः  

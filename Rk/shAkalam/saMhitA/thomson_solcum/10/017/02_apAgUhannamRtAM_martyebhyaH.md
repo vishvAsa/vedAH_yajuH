@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ápāgūhann amŕ̥tām mártiyebhyaḥ  
-kr̥tvī́ sávarṇām adadur vívasvate  
-utā́śvínāv abharad yát tád ā́sīd  
-ájahād u dvā́ mithunā́ saraṇyū́ḥ  
+अ꣡पागूहन्न् अम्ŕ̥ताम् म꣡र्तियेभ्यः  
+कृत्वी꣡ स꣡वर्णाम् अददुर् वि꣡वस्वते  
+उता꣡श्वि꣡नाव् अभरद् य꣡त् त꣡द् आ꣡सीद्  
+अ꣡जहाद् उ द्वा꣡ मिथुना꣡ सरण्यूः꣡  

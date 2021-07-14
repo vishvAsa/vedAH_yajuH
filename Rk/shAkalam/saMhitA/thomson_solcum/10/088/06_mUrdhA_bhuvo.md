@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-mūrdhā́ bhuvó bhavati náktam agnís  
-tátaḥ sū́ryo jāyate prātár udyán  
-māyā́m ū tú yajñíyānām etā́m  
-ápo yát tū́rṇiś cárati prajānán  
+मूर्धा꣡ भुवो꣡ भवति न꣡क्तम् अग्नि꣡स्  
+त꣡तः सू꣡र्यो जायते प्रात꣡र् उद्य꣡न्  
+माया꣡म् ऊ तु꣡ यज्ञि꣡यानाम् एता꣡म्  
+अ꣡पो य꣡त् तू꣡र्णिश् च꣡रति प्रजान꣡न्  

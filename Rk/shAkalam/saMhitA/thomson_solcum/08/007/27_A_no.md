@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-ā́ no makhásya dāváne  
-áśvair híraṇyapāṇibhiḥ  
-dévāsa úpa gantana  
+आ꣡ नो मख꣡स्य दाव꣡ने  
+अ꣡श्वैर् हि꣡रण्यपाणिभिः  
+दे꣡वास उ꣡प गन्तन  

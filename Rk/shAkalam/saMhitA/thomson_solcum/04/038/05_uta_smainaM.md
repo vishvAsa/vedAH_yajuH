@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-utá smainaṃ vastramáthiṃ ná tāyúm  
-ánu krośanti kṣitáyo bháreṣu  
-nīcā́yamānaṃ jásuriṃ ná śyenáṃ  
-śrávaś ca áchā paśumác ca yūthám  
+उत꣡ स्मैनं वस्त्रम꣡थिं न꣡ तायु꣡म्  
+अ꣡नु क्रोशन्ति क्षित꣡यो भ꣡रेषु  
+नीचा꣡यमानं ज꣡सुरिं न꣡ श्येनं꣡  
+श्र꣡वश् च अ꣡छा पशुम꣡च् च यूथ꣡म्  

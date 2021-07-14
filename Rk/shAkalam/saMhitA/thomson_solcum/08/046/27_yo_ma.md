@@ -2,7 +2,7 @@
 title = "027"
 
 +++
-yó ma imáṃ cid u tmánā  
-ámandac citráṃ dāváne  
-araṭvé ákṣe náhuṣe sukŕ̥tvani  
-sukŕ̥ttarāya sukrátuḥ  
+यो꣡ म इमं꣡ चिद् उ त्म꣡ना  
+अ꣡मन्दच् चित्रं꣡ दाव꣡ने  
+अरट्वे꣡ अ꣡क्षे न꣡हुषे सुक्ŕ̥त्वनि  
+सुक्ŕ̥त्तराय सुक्र꣡तुः  

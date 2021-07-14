@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sá gór áśvasya ví vrajám  
-mandānáḥ somiyébhiyaḥ  
-púraṃ ná śūra darṣasi  
+स꣡ गो꣡र् अ꣡श्वस्य वि꣡ व्रज꣡म्  
+मन्दानः꣡ सोमिये꣡भियः  
+पु꣡रं न꣡ शूर दर्षसि  

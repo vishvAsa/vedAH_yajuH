@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yó na índuḥ pitaro hr̥tsú pītó  
-ámartiyo mártiyām̐ āvivéśa  
-tásmai sómāya havíṣā vidhema  
-mr̥̄ḷīké+ asya sumataú siyāma  
+यो꣡ न इ꣡न्दुः पितरो हृत्सु꣡ पीतो꣡  
+अ꣡मर्तियो म꣡र्तियाँ आविवे꣡श  
+त꣡स्मै सो꣡माय हवि꣡षा विधेम  
+मॄऌईके꣡+ अस्य सुमतउ꣡ सियाम  

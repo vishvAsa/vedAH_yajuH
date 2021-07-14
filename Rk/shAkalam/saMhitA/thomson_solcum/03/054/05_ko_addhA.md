@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-kó addhā́ veda ká ihá prá vocad  
-devā́m̐ áchā pathíyā kā́ sám eti  
-dádr̥śra eṣām avamā́ sádāṃsi  
-páreṣu yā́ gúhiyeṣu vratéṣu  
+को꣡ अद्धा꣡ वेद क꣡ इह꣡ प्र꣡ वोचद्  
+देवाँ꣡ अ꣡छा पथि꣡या का꣡ स꣡म् एति  
+द꣡दृश्र एषाम् अवमा꣡ स꣡दांसि  
+प꣡रेषु या꣡ गु꣡हियेषु व्रते꣡षु  

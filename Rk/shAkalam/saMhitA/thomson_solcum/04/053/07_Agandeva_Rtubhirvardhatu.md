@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́gan devá r̥túbhir várdhatu kṣáyaṃ  
-dádhātu naḥ savitā́ suprajā́m íṣam  
-sá naḥ kṣapā́bhir áhabhiś ca jinvatu  
-prajā́vantaṃ rayím asmé sám invatu  
+आ꣡गन् देव꣡ ऋतु꣡भिर् व꣡र्धतु क्ष꣡यं  
+द꣡धातु नः सविता꣡ सुप्रजा꣡म् इ꣡षम्  
+स꣡ नः क्षपा꣡भिर् अ꣡हभिश् च जिन्वतु  
+प्रजा꣡वन्तं रयि꣡म् अस्मे꣡ स꣡म् इन्वतु  

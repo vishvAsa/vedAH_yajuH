@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-yó asmai havíṣā́vidhan  
-ná tám pūṣā́pi mr̥ṣyate  
-prathamó vindate vásu  
+यो꣡ अस्मै हवि꣡षा꣡विधन्  
+न꣡ त꣡म् पूषा꣡पि मृष्यते  
+प्रथमो꣡ विन्दते व꣡सु  

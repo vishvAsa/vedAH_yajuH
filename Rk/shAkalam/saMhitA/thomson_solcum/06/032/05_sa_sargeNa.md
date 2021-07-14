@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá sárgeṇa śávasā taktó átyair  
-apá índro dakṣiṇatás turāṣā́ṭ  
-itthā́ sr̥jānā́ ánapāvr̥d árthaṃ  
-divé-dive viviṣur apramr̥ṣyám  
+स꣡ स꣡र्गेण श꣡वसा तक्तो꣡ अ꣡त्यैर्  
+अप꣡ इ꣡न्द्रो दक्षिणत꣡स् तुराषा꣡ट्  
+इत्था꣡ सृजाना꣡ अ꣡नपावृद् अ꣡र्थं  
+दिवे꣡-दिवे विविषुर् अप्रमृष्य꣡म्  

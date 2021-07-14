@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-só cin nú sákhyā náriya iná stutáś  
-carkŕ̥tiya índaro+ mā́vate náre  
-víśvāsu dhūrṣú vājakŕ̥tyeṣu satpate  
-vr̥tré vā apsú abhí śūra mandase  
+सो꣡ चिन् नु꣡ स꣡ख्या न꣡रिय इन꣡ स्तुत꣡श्  
+चर्क्ŕ̥तिय इ꣡न्दरो+ मा꣡वते न꣡रे  
+वि꣡श्वासु धूर्षु꣡ वाजक्ŕ̥त्येषु सत्पते  
+वृत्रे꣡ वा अप्सु꣡ अभि꣡ शूर मन्दसे  

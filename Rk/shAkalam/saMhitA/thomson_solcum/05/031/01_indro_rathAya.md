@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índro ráthāya pravátaṃ kr̥ṇoti  
-yám adhyásthān maghávā vājayántam  
-yūthéva paśvó ví unoti gopā́  
-áriṣṭo yāti prathamáḥ síṣāsan  
+इ꣡न्द्रो र꣡थाय प्रव꣡तं कृणोति  
+य꣡म् अध्य꣡स्थान् मघ꣡वा वाजय꣡न्तम्  
+यूथे꣡व पश्वो꣡ वि꣡ उनोति गोपा꣡  
+अ꣡रिष्टो याति प्रथमः꣡ सि꣡षासन्  

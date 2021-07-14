@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-catvā́ri śŕ̥ṅgā tráyo asya pā́dā  
-duvé śīrṣé saptá hástāso asya  
-trídhā baddhó vr̥ṣabhó roravīti  
-mahó devó mártiyām̐ ā́ viveśa  
+चत्वा꣡रि श्ŕ̥ङ्गा त्र꣡यो अस्य पा꣡दा  
+दुवे꣡ शीर्षे꣡ सप्त꣡ ह꣡स्तासो अस्य  
+त्रि꣡धा बद्धो꣡ वृषभो꣡ रोरवीति  
+महो꣡ देवो꣡ म꣡र्तियाँ आ꣡ विवेश  

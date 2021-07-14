@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-eṣá pratnéna jánmanā  
-devó devébhiyaḥ sutáḥ  
-háriḥ pavítre arṣati  
+एष꣡ प्रत्ने꣡न ज꣡न्मना  
+देवो꣡ देवे꣡भियः सुतः꣡  
+ह꣡रिः पवि꣡त्रे अर्षति  

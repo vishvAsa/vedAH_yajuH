@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-índro dadhīcó asthábhir  
-vr̥trā́ṇi ápratiṣkutaḥ  
-jaghā́na navatī́r náva  
+इ꣡न्द्रो दधीचो꣡ अस्थ꣡भिर्  
+वृत्रा꣡णि अ꣡प्रतिष्कुतः  
+जघा꣡न नवती꣡र् न꣡व  

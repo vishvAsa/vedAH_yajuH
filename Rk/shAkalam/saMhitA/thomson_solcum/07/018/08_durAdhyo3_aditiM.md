@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-durādhíyo áditiṃ sreváyanto  
-acetáso ví jagr̥bhre páruṣṇīm  
-mahnā́vivyak pr̥thivī́m pátyamānaḥ  
-paśúṣ kavír aśayac cā́yamānaḥ  
+दुराधि꣡यो अ꣡दितिं स्रेव꣡यन्तो  
+अचेत꣡सो वि꣡ जगृभ्रे प꣡रुष्णीम्  
+मह्ना꣡विव्यक् पृथिवी꣡म् प꣡त्यमानः  
+पशु꣡ष् कवि꣡र् अशयच् चा꣡यमानः  

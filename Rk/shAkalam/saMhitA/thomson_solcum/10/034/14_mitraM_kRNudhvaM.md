@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-mitráṃ kr̥ṇudhvaṃ khálu mr̥̄ḷátā+ no  
-mā́ no ghoréṇa caratābhí dhr̥ṣṇú  
-ní vo nú manyúr viśatām árātir  
-anyó babhrūṇā́m prásitau nú astu  
+मित्रं꣡ कृणुध्वं ख꣡लु मॄऌअ꣡ता+ नो  
+मा꣡ नो घोरे꣡ण चरताभि꣡ धृष्णु꣡  
+नि꣡ वो नु꣡ मन्यु꣡र् विशताम् अ꣡रातिर्  
+अन्यो꣡ बभ्रूणा꣡म् प्र꣡सितौ नु꣡ अस्तु  

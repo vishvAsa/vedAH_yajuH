@@ -2,7 +2,7 @@
 title = "028"
 
 +++
-nīlalohitám bhavati  
-kr̥tyā́saktír ví ajyate  
-édhante asyā jñātáyaḥ  
-pátir bandhéṣu badhyate  
+नीललोहित꣡म् भवति  
+कृत्या꣡सक्ति꣡र् वि꣡ अज्यते  
+ए꣡धन्ते अस्या ज्ञात꣡यः  
+प꣡तिर् बन्धे꣡षु बध्यते  

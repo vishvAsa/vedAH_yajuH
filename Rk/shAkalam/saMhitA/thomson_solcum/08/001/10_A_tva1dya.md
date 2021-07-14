@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́ tú adyá sabardúghāṃ  
-huvé gāyatrávepasam  
-índraṃ dhenúṃ sudúghām ániyām íṣam  
-urúdhārām araṃkŕ̥tam  
+आ꣡ तु꣡ अद्य꣡ सबर्दु꣡घां  
+हुवे꣡ गायत्र꣡वेपसम्  
+इ꣡न्द्रं धेनुं꣡ सुदु꣡घाम् अ꣡नियाम् इ꣡षम्  
+उरु꣡धाराम् अरंक्ŕ̥तम्  

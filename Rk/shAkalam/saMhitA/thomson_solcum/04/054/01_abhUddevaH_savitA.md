@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ábhūd deváḥ savitā́ vándiyo nú na  
-idā́nīm áhna upavā́ciyo nŕ̥bhiḥ  
-ví yó rátnā bhájati mānavébhiyaḥ  
-śréṣṭhaṃ no átra dráviṇaṃ yáthā dádhat  
+अ꣡भूद् देवः꣡ सविता꣡ व꣡न्दियो नु꣡ न  
+इदा꣡नीम् अ꣡ह्न उपवा꣡चियो न्ŕ̥भिः  
+वि꣡ यो꣡ र꣡त्ना भ꣡जति मानवे꣡भियः  
+श्रे꣡ष्ठं नो अ꣡त्र द्र꣡विणं य꣡था द꣡धत्  

@@ -2,7 +2,7 @@
 title = "038"
 
 +++
-tuváṃ nr̥cákṣā asi soma viśvátaḥ  
-pávamāna vr̥ṣabha tā́ ví dhāvasi  
-sá naḥ pavasva vásumad dhíraṇyavad  
-vayáṃ siyāma bhúvaneṣu jīváse  
+तुवं꣡ नृच꣡क्षा असि सोम विश्व꣡तः  
+प꣡वमान वृषभ ता꣡ वि꣡ धावसि  
+स꣡ नः पवस्व व꣡सुमद् धि꣡रण्यवद्  
+वयं꣡ सियाम भु꣡वनेषु जीव꣡से  

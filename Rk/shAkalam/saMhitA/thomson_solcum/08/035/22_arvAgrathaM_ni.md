@@ -2,8 +2,8 @@
 title = "022"
 
 +++
-arvā́g ráthaṃ ní yachatam  
-píbataṃ somiyám mádhu  
-ā́ yātam aśvinā́ gatam  
-avasyúr vām aháṃ huve  
-dhattáṃ rátnāni dāśúṣe  
+अर्वा꣡ग् र꣡थं नि꣡ यछतम्  
+पि꣡बतं सोमिय꣡म् म꣡धु  
+आ꣡ यातम् अश्विना꣡ गतम्  
+अवस्यु꣡र् वाम् अहं꣡ हुवे  
+धत्तं꣡ र꣡त्नानि दाशु꣡षे  

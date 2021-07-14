@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yé devā́so ábhavatā sukr̥tyā́  
-śyenā́ ivéd ádhi diví niṣedá  
-té rátnaṃ dhāta śavaso napātaḥ  
-saúdhanvanā ábhavatāmŕ̥tāsaḥ  
+ये꣡ देवा꣡सो अ꣡भवता सुकृत्या꣡  
+श्येना꣡ इवे꣡द् अ꣡धि दिवि꣡ निषेद꣡  
+ते꣡ र꣡त्नं धात शवसो नपातः  
+सउ꣡धन्वना अ꣡भवताम्ŕ̥तासः  

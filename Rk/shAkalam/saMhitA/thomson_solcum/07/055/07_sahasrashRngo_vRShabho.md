@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sahásraśr̥ṅgo vr̥ṣabhó  
-yáḥ samudrā́d udā́carat  
-ténā sahasyènā vayáṃ  
-ní jánān svāpayāmasi  
+सह꣡स्रशृङ्गो वृषभो꣡  
+यः꣡ समुद्रा꣡द् उदा꣡चरत्  
+ते꣡ना सहस्ये᳡ना वयं꣡  
+नि꣡ ज꣡नान् स्वापयामसि  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-asyá krátvā vícetaso  
-dasmásya vásu rátha ā́  
-ádhā víśvāsu háviyo  
-agnír vikṣú prá śasyate  
+अस्य꣡ क्र꣡त्वा वि꣡चेतसो  
+दस्म꣡स्य व꣡सु र꣡थ आ꣡  
+अ꣡धा वि꣡श्वासु ह꣡वियो  
+अग्नि꣡र् विक्षु꣡ प्र꣡ शस्यते  

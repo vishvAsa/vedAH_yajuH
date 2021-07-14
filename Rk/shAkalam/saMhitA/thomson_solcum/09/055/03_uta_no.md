@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-utá no govíd aśvavít  
-pávasva soma ándhasā  
-makṣū́tamebhir áhabhiḥ  
+उत꣡ नो गोवि꣡द् अश्ववि꣡त्  
+प꣡वस्व सोम अ꣡न्धसा  
+मक्षू꣡तमेभिर् अ꣡हभिः  

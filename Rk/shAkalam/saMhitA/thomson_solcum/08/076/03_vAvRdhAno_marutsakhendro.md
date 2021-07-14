@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-vāvr̥dhānó marútsakhā  
-índro ví vr̥trám airayat  
-sr̥ján samudríyā apáḥ  
+वावृधानो꣡ मरु꣡त्सखा  
+इ꣡न्द्रो वि꣡ वृत्र꣡म् ऐरयत्  
+सृज꣡न् समुद्रि꣡या अपः꣡  

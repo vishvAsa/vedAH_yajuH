@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-triṃśád dhā́ma ví rājati  
-vā́k pataṃgā́ya dhīyate  
-práti vástor áha dyúbhiḥ  
+त्रिंश꣡द् धा꣡म वि꣡ राजति  
+वा꣡क् पतंगा꣡य धीयते  
+प्र꣡ति व꣡स्तोर् अ꣡ह द्यु꣡भिः  

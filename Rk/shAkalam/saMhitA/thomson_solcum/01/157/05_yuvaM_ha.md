@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yuváṃ ha gárbhaṃ jágatīṣu dhattho  
-yuváṃ víśveṣu bhúvaneṣu antáḥ  
-yuvám agníṃ ca vr̥ṣaṇāv apáś ca  
-vánaspátīm̐r aśvināv aírayethām  
+युवं꣡ ह ग꣡र्भं ज꣡गतीषु धत्थो  
+युवं꣡ वि꣡श्वेषु भु꣡वनेषु अन्तः꣡  
+युव꣡म् अग्निं꣡ च वृषणाव् अप꣡श् च  
+व꣡नस्प꣡तीँर् अश्विनाव् अइ꣡रयेथाम्  

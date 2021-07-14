@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-yé ké ca jmā́ mahíno áhimāyā  
-divó jajñiré apã́ṃ sadhásthe  
-té asmábhyam iṣáye víśvam ā́yuḥ  
-kṣápa usrā́ varivasyantu devā́ḥ  
+ये꣡ के꣡ च ज्मा꣡ महि꣡नो अ꣡हिमाया  
+दिवो꣡ जज्ञिरे꣡ अप्ãं꣡ सध꣡स्थे  
+ते꣡ अस्म꣡भ्यम् इष꣡ये वि꣡श्वम् आ꣡युः  
+क्ष꣡प उस्रा꣡ वरिवस्यन्तु देवाः꣡  

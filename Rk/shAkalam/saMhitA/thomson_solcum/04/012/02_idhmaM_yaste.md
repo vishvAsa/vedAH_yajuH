@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-idhmáṃ yás te jabhárac chaśramāṇó  
-mahó agne ánīkam ā́ saparyán  
-sá idhānáḥ práti doṣā́m uṣā́sam  
-púṣyan rayíṃ sacate ghnánn amítrān  
+इध्मं꣡ य꣡स् ते जभ꣡रच् छश्रमाणो꣡  
+महो꣡ अग्ने अ꣡नीकम् आ꣡ सपर्य꣡न्  
+स꣡ इधानः꣡ प्र꣡ति दोषा꣡म् उषा꣡सम्  
+पु꣡ष्यन् रयिं꣡ सचते घ्न꣡न्न् अमि꣡त्रान्  

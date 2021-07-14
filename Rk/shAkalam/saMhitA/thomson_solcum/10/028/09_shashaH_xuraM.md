@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-śaśáḥ kṣurám pratiáñcaṃ jagāra  
-ádriṃ logéna ví abhedam ārā́t  
-br̥hántaṃ cid r̥haté randhayāni  
-váyad vatsó vr̥ṣabháṃ śū́śuvānaḥ  
+शशः꣡ क्षुर꣡म् प्रतिअ꣡ञ्चं जगार  
+अ꣡द्रिं लोगे꣡न वि꣡ अभेदम् आरा꣡त्  
+बृह꣡न्तं चिद् ऋहते꣡ रन्धयानि  
+व꣡यद् वत्सो꣡ वृषभं꣡ शू꣡शुवानः  

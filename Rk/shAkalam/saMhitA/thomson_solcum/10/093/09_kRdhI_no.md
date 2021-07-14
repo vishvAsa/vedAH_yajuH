@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-kr̥dhī́ no · áhrayo deva savitaḥ  
-sá ca stuṣe maghónãm  
-sahó na índro váhnibhir ní eṣãṃ  
-carṣaṇīnā́ṃ cakráṃ raśmíṃ ná yoyuve  
+कृधी꣡ नो · अ꣡ह्रयो देव सवितः  
+स꣡ च स्तुषे मघो꣡न्ãम्  
+सहो꣡ न इ꣡न्द्रो व꣡ह्निभिर् नि꣡ एष्ãं  
+चर्षणीनां꣡ चक्रं꣡ रश्मिं꣡ न꣡ योयुवे  

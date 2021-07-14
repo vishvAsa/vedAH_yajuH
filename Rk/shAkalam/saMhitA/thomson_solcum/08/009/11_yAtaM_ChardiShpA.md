@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-yātáṃ chardiṣpā́ utá naḥ paraspā́  
-bhūtáṃ jagatpā́ utá nas tanūpā́  
-vartís tokā́ya tánayāya yātam  
+यातं꣡ छर्दिष्पा꣡ उत꣡ नः परस्पा꣡  
+भूतं꣡ जगत्पा꣡ उत꣡ नस् तनूपा꣡  
+वर्ति꣡स् तोका꣡य त꣡नयाय यातम्  

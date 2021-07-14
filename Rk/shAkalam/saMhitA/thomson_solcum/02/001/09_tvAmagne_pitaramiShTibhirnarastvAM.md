@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tuvā́m agne pitáram iṣṭíbhir náras  
-tuvā́m bhrātrā́ya śámiyā tanūrúcam  
-tuvám putró bhavasi yás te ávidhat  
-tuváṃ sákhā suśévaḥ pāsi ādhŕ̥ṣaḥ  
+तुवा꣡म् अग्ने पित꣡रम् इष्टि꣡भिर् न꣡रस्  
+तुवा꣡म् भ्रात्रा꣡य श꣡मिया तनूरु꣡चम्  
+तुव꣡म् पुत्रो꣡ भवसि य꣡स् ते अ꣡विधत्  
+तुवं꣡ स꣡खा सुशे꣡वः पासि आध्ŕ̥षः  

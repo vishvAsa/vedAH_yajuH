@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-áramamāṇo áti eti gā́ abhí  
-sū́ryasya priyáṃ duhitús tiró rávam  
-ánv asmai jóṣam abharad vinaṃgr̥sáḥ  
-sáṃ dvayī́bhiḥ svásr̥bhiḥ kṣeti jāmíbhiḥ  
+अ꣡रममाणो अ꣡ति एति गा꣡ अभि꣡  
+सू꣡र्यस्य प्रियं꣡ दुहितु꣡स् तिरो꣡ र꣡वम्  
+अ꣡न्व् अस्मै जो꣡षम् अभरद् विनंगृसः꣡  
+सं꣡ द्वयी꣡भिः स्व꣡सृभिः क्षेति जामि꣡भिः  

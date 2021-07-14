@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá sū́riyaḥ pári urū́ várāṃsi  
-éndro vavr̥tyād ráthiyeva cakrā́  
-átiṣṭhantam apasíyaṃ ná sárgaṃ  
-kr̥ṣṇā́ támāṃsi tvíṣiyā jaghāna  
+स꣡ सू꣡रियः प꣡रि उरू꣡ व꣡रांसि  
+ए꣡न्द्रो ववृत्याद् र꣡थियेव चक्रा꣡  
+अ꣡तिष्ठन्तम् अपसि꣡यं न꣡ स꣡र्गं  
+कृष्णा꣡ त꣡मांसि त्वि꣡षिया जघान  

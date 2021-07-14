@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-pitúḥ pratnásya jánmanā vadāmasi  
-sómasya jihvā́ prá jigāti cákṣasā  
-yád īm índraṃ śámi ŕ̥kvāṇa ā́śata  
-ā́d ín nā́māni yajñíyāni dadhire  
+पितुः꣡ प्रत्न꣡स्य ज꣡न्मना वदामसि  
+सो꣡मस्य जिह्वा꣡ प्र꣡ जिगाति च꣡क्षसा  
+य꣡द् ईम् इ꣡न्द्रं श꣡मि ŕ̥क्वाण आ꣡शत  
+आ꣡द् इ꣡न् ना꣡मानि यज्ञि꣡यानि दधिरे  

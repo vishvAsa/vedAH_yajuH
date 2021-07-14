@@ -2,8 +2,8 @@
 title = "008"
 
 +++
-asmín yajñé adābhiyā  
-jaritā́raṃ śubhas patī  
-avasyúm aśvinā yuváṃ  
-gr̥ṇántam úpa bhūṣatho  
-mā́dhvī máma śrutaṃ hávam  
+अस्मि꣡न् यज्ञे꣡ अदाभिया  
+जरिता꣡रं शुभस् पती  
+अवस्यु꣡म् अश्विना युवं꣡  
+गृण꣡न्तम् उ꣡प भूषथो  
+मा꣡ध्वी म꣡म श्रुतं ह꣡वम्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ásāmi hí prayajyavaḥ  
-káṇvaṃ dadá pracetasaḥ  
-ásāmibhir maruta ā́ na ūtíbhir  
-gántā vr̥ṣṭíṃ ná vidyútaḥ  
+अ꣡सामि हि꣡ प्रयज्यवः  
+क꣡ण्वं दद꣡ प्रचेतसः  
+अ꣡सामिभिर् मरुत आ꣡ न ऊति꣡भिर्  
+ग꣡न्ता वृष्टिं꣡ न꣡ विद्यु꣡तः  

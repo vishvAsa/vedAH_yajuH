@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-dhartā́ divó rájasas pr̥ṣṭá ūrdhvó  
-rátho ná vāyúr vásubhir niyútvān  
-kṣapā́ṃ vastā́ janitā́ sū́riyasya  
-víbhaktā bhāgáṃ dhiṣáṇeva vā́jam  
+धर्ता꣡ दिवो꣡ र꣡जसस् पृष्ट꣡ ऊर्ध्वो꣡  
+र꣡थो न꣡ वायु꣡र् व꣡सुभिर् नियु꣡त्वान्  
+क्षपां꣡ वस्ता꣡ जनिता꣡ सू꣡रियस्य  
+वि꣡भक्ता भागं꣡ धिष꣡णेव वा꣡जम्  

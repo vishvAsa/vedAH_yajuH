@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tā́ bhujyúṃ víbhir adbhiyáḥ samudrā́t  
-túgrasya sūnúm ūhathū rájobhiḥ  
-areṇúbhir yójanebhir bhujántā  
-patatríbhir árṇaso nír upásthāt  
+ता꣡ भुज्युं꣡ वि꣡भिर् अद्भियः꣡ समुद्रा꣡त्  
+तु꣡ग्रस्य सूनु꣡म् ऊहथू र꣡जोभिः  
+अरेणु꣡भिर् यो꣡जनेभिर् भुज꣡न्ता  
+पतत्रि꣡भिर् अ꣡र्णसो नि꣡र् उप꣡स्थात्  

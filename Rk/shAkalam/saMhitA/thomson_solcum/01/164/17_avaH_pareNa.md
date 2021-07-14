@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-aváḥ páreṇa pará enā́vareṇa  
-padā́ vatsám bíbhratī gaúr úd asthāt  
-sā́ kadrī́cī káṃ svid árdham párāgāt  
-kúva svit sūte nahí yūthé antáḥ  
+अवः꣡ प꣡रेण पर꣡ एना꣡वरेण  
+पदा꣡ वत्स꣡म् बि꣡भ्रती गउ꣡र् उ꣡द् अस्थात्  
+सा꣡ कद्री꣡ची कं꣡ स्विद् अ꣡र्धम् प꣡रागात्  
+कु꣡व स्वित् सूते नहि꣡ यूथे꣡ अन्तः꣡  

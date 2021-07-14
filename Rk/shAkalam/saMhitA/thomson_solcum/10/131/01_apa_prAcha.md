@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ápa prā́ca indra víśvām̐ amítrān  
-ápā́pāco abhibhūte nudasva  
-ápódīco ápa śūrādharā́ca  
-uraú yáthā táva śárman mádema  
+अ꣡प प्रा꣡च इन्द्र वि꣡श्वाँ अमि꣡त्रान्  
+अ꣡पा꣡पाचो अभिभूते नुदस्व  
+अ꣡पो꣡दीचो अ꣡प शूराधरा꣡च  
+उरउ꣡ य꣡था त꣡व श꣡र्मन् म꣡देम  

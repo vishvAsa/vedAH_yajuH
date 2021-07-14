@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ŕ̥śyo ná tŕ̥ṣyann avapā́nam ā́ gahi  
-píbā sómaṃ váśām̐ ánu  
-niméghamāno maghavan divé-diva  
-ójiṣṭhaṃ dadhiṣe sáhaḥ  
+ŕ̥श्यो न꣡ त्ŕ̥ष्यन्न् अवपा꣡नम् आ꣡ गहि  
+पि꣡बा सो꣡मं व꣡शाँ अ꣡नु  
+निमे꣡घमानो मघवन् दिवे꣡-दिव  
+ओ꣡जिष्ठं दधिषे स꣡हः  

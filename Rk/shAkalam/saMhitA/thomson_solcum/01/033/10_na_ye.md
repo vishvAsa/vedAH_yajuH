@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ná yé diváḥ pr̥thivyā́ ántam āpúr  
-ná māyā́bhir dhanadā́m paryábhūvan  
-yújaṃ vájraṃ vr̥ṣabháś cakra índro  
-nír jyótiṣā támaso gā́ adukṣat  
+न꣡ ये꣡ दिवः꣡ पृथिव्या꣡ अ꣡न्तम् आपु꣡र्  
+न꣡ माया꣡भिर् धनदा꣡म् पर्य꣡भूवन्  
+यु꣡जं व꣡ज्रं वृषभ꣡श् चक्र इ꣡न्द्रो  
+नि꣡र् ज्यो꣡तिषा त꣡मसो गा꣡ अदुक्षत्  

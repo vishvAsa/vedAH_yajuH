@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-gáchataṃ dāśúṣo gr̥hám  
-itthā́ stuvató aśvinā  
-mádhvaḥ sómasya pītáye  
+ग꣡छतं दाशु꣡षो गृह꣡म्  
+इत्था꣡ स्तुवतो꣡ अश्विना  
+म꣡ध्वः सो꣡मस्य पीत꣡ये  

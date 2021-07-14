@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-saṃkrándanenānimiṣéṇa jiṣṇúnā  
-yutkāréṇa duścyavanéna dhr̥ṣṇúnā  
-tád índreṇa jayata tát sahadhvaṃ  
-yúdho nara íṣuhastena vŕ̥ṣṇā  
+संक्र꣡न्दनेनानिमिषे꣡ण जिष्णु꣡ना  
+युत्कारे꣡ण दुश्च्यवने꣡न धृष्णु꣡ना  
+त꣡द् इ꣡न्द्रेण जयत त꣡त् सहध्वं  
+यु꣡धो नर इ꣡षुहस्तेन व्ŕ̥ष्णा  

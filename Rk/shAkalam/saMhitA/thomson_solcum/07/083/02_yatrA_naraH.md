@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yátrā náraḥ samáyante kr̥tádhvajo  
-yásminn ājā́ bhávati kíṃ caná priyám  
-yátrā bháyante bhúvanā suvardŕ̥śas  
-tátrā na indrāvaruṇā́dhi vocatam  
+य꣡त्रा न꣡रः सम꣡यन्ते कृत꣡ध्वजो  
+य꣡स्मिन्न् आजा꣡ भ꣡वति किं꣡ चन꣡ प्रिय꣡म्  
+य꣡त्रा भ꣡यन्ते भु꣡वना सुवर्द्ŕ̥शस्  
+त꣡त्रा न इन्द्रावरुणा꣡धि वोचतम्  

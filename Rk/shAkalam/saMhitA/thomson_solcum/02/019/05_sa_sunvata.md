@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá sunvatá índaraḥ+ sū́ryam  
-ā́ devó riṇaṅ mártiyāya stavā́n  
-ā́ yád rayíṃ guhádavadyam asmai  
-bhárad áṃśaṃ ná étaśo daśasyán  
+स꣡ सुन्वत꣡ इ꣡न्दरः+ सू꣡र्यम्  
+आ꣡ देवो꣡ रिणङ् म꣡र्तियाय स्तवा꣡न्  
+आ꣡ य꣡द् रयिं꣡ गुह꣡दवद्यम् अस्मै  
+भ꣡रद् अं꣡शं न꣡ ए꣡तशो दशस्य꣡न्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-prá citrám arkáṃ gr̥ṇaté turā́ya  
-mā́rutāya svátavase bharadhvam  
-yé sáhāṃsi · sáhasā sáhante  
-réjate agne pr̥thivī́ makhébhyaḥ  
+प्र꣡ चित्र꣡म् अर्कं꣡ गृणते꣡ तुरा꣡य  
+मा꣡रुताय स्व꣡तवसे भरध्वम्  
+ये꣡ स꣡हांसि · स꣡हसा स꣡हन्ते  
+रे꣡जते अग्ने पृथिवी꣡ मखे꣡भ्यः  

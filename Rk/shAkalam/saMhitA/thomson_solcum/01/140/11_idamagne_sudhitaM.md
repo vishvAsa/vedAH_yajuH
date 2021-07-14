@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-idám agne súdhitaṃ dúrdhitād ádhi  
-priyā́d u cin mánmanaḥ préyo astu te  
-yát te śukráṃ tanúvo rócate śúci  
-ténāsmábhyaṃ vanase rátnam ā́ tuvám  
+इद꣡म् अग्ने सु꣡धितं दु꣡र्धिताद् अ꣡धि  
+प्रिया꣡द् उ चिन् म꣡न्मनः प्रे꣡यो अस्तु ते  
+य꣡त् ते शुक्रं꣡ तनु꣡वो रो꣡चते शु꣡चि  
+ते꣡नास्म꣡भ्यं वनसे र꣡त्नम् आ꣡ तुव꣡म्  

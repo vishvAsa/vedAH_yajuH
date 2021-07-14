@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ajā́śuvaḥ paśupā́ vā́japastiyo  
-dhiyaṃjinvó bhúvane víśve árpitaḥ  
-áṣṭrām pūṣā́ śithirā́m udvárīvr̥jat  
-saṃcákṣāṇo bhúvanā devá īyate  
+अजा꣡शुवः पशुपा꣡ वा꣡जपस्तियो  
+धियंजिन्वो꣡ भु꣡वने वि꣡श्वे अ꣡र्पितः  
+अ꣡ष्ट्राम् पूषा꣡ शिथिरा꣡म् उद्व꣡रीवृजत्  
+संच꣡क्षाणो भु꣡वना देव꣡ ईयते  

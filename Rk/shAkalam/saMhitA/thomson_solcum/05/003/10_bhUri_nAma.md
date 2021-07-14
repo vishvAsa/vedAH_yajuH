@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-bhū́ri nā́ma vándamāno dadhāti  
-pitā́ vaso yádi táj joṣáyāse  
-kuvíd devásya sáhasā cakānáḥ  
-sumnám agnír vanate vāvr̥dhānáḥ  
+भू꣡रि ना꣡म व꣡न्दमानो दधाति  
+पिता꣡ वसो य꣡दि त꣡ज् जोष꣡यासे  
+कुवि꣡द् देव꣡स्य स꣡हसा चकानः꣡  
+सुम्न꣡म् अग्नि꣡र् वनते वावृधानः꣡  

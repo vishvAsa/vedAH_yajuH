@@ -2,10 +2,10 @@
 title = "008"
 
 +++
-mó ṣú vo asmád abhí tā́ni paúṃsiyā  
-sánā bhūvan dyumnā́ni mótá jāriṣur  
-asmát purótá jāriṣuḥ  
-yád vaś citráṃ yugé-yuge  
-návyaṃ ghóṣād ámartiyam  
-asmā́su tán maruto yác ca duṣṭáraṃ  
-didhr̥tā́ yác ca duṣṭáram  
+मो꣡ षु꣡ वो अस्म꣡द् अभि꣡ ता꣡नि पउं꣡सिया  
+स꣡ना भूवन् द्युम्ना꣡नि मो꣡त꣡ जारिषुर्  
+अस्म꣡त् पुरो꣡त꣡ जारिषुः  
+य꣡द् वश् चित्रं꣡ युगे꣡-युगे  
+न꣡व्यं घो꣡षाद् अ꣡मर्तियम्  
+अस्मा꣡सु त꣡न् मरुतो य꣡च् च दुष्ट꣡रं  
+दिधृता꣡ य꣡च् च दुष्ट꣡रम्  

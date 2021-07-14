@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-áva yát suvé sadhásthe  
-devā́nāṃ durmatī́r ī́kṣe  
-rā́jann ápa dvíṣaḥ sedha  
-mī́ḍhvo ápa srídhaḥ sedha  
+अ꣡व य꣡त् सुवे꣡ सध꣡स्थे  
+देवा꣡नां दुर्मती꣡र् ई꣡क्षे  
+रा꣡जन्न् अ꣡प द्वि꣡षः सेध  
+मी꣡ढ्वो अ꣡प स्रि꣡धः सेध  

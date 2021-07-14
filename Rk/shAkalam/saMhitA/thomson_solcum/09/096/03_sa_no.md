@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá no deva devátāte pavasva  
-mahé soma psárasa indrapā́naḥ  
-kr̥ṇvánn apó varṣáyan dyā́m utémā́m  
-urór ā́ no varivasyā punānáḥ  
+स꣡ नो देव देव꣡ताते पवस्व  
+महे꣡ सोम प्स꣡रस इन्द्रपा꣡नः  
+कृण्व꣡न्न् अपो꣡ वर्ष꣡यन् द्या꣡म् उते꣡मा꣡म्  
+उरो꣡र् आ꣡ नो वरिवस्या पुनानः꣡  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yéna jyótīṃṣi āyáve  
-mánave ca vivéditha  
-mandānó asyá barhíṣo ví rājasi  
+ये꣡न ज्यो꣡तींषि आय꣡वे  
+म꣡नवे च विवे꣡दिथ  
+मन्दानो꣡ अस्य꣡ बर्हि꣡षो वि꣡ राजसि  

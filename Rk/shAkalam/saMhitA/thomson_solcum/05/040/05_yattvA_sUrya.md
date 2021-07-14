@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yát tvā sūrya súvarbhānus  
-támasā́vidhyad āsuráḥ  
-ákṣetravid yáthā mugdhó  
-bhúvanāni adīdhayuḥ  
+य꣡त् त्वा सूर्य सु꣡वर्भानुस्  
+त꣡मसा꣡विध्यद् आसुरः꣡  
+अ꣡क्षेत्रविद् य꣡था मुग्धो꣡  
+भु꣡वनानि अदीधयुः  

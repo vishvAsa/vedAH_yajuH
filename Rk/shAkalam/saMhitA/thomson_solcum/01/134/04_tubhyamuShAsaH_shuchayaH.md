@@ -2,10 +2,10 @@
 title = "004"
 
 +++
-túbhyam uṣā́saḥ śúcayaḥ parāváti  
-bhadrā́ vástrā tanvate dáṃsu raśmíṣu  
-citrā́ návyeṣu raśmíṣu  
-túbhyaṃ dhenúḥ sabardúghā  
-víśvā vásūni dohate  
-ájanayo marúto vakṣáṇābhiyo  
-divá ā́ vakṣáṇābhiyaḥ  
+तु꣡भ्यम् उषा꣡सः शु꣡चयः पराव꣡ति  
+भद्रा꣡ व꣡स्त्रा तन्वते दं꣡सु रश्मि꣡षु  
+चित्रा꣡ न꣡व्येषु रश्मि꣡षु  
+तु꣡भ्यं धेनुः꣡ सबर्दु꣡घा  
+वि꣡श्वा व꣡सूनि दोहते  
+अ꣡जनयो मरु꣡तो वक्ष꣡णाभियो  
+दिव꣡ आ꣡ वक्ष꣡णाभियः  

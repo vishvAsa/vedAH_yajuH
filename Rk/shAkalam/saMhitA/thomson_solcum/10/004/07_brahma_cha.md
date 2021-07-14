@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-bráhma ca te jātavedo námaś ca  
-iyáṃ ca gī́ḥ sádam íd várdhanī bhūt  
-rákṣā ṇo agne tánayāni tokā́  
-rákṣotá nas tanúvo áprayuchan  
+ब्र꣡ह्म च ते जातवेदो न꣡मश् च  
+इयं꣡ च गीः꣡ स꣡दम् इ꣡द् व꣡र्धनी भूत्  
+र꣡क्षा णो अग्ने त꣡नयानि तोका꣡  
+र꣡क्षोत꣡ नस् तनु꣡वो अ꣡प्रयुछन्  

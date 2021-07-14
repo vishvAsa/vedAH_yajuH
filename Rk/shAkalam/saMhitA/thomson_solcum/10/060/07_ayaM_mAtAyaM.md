@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ayám mātā́ ayám pitā́  
-ayáṃ jīvā́tur ā́gamat  
-idáṃ táva prasárpaṇaṃ  
-súbandhav éhi nír ihi  
+अय꣡म् माता꣡ अय꣡म् पिता꣡  
+अयं꣡ जीवा꣡तुर् आ꣡गमत्  
+इदं꣡ त꣡व प्रस꣡र्पणं  
+सु꣡बन्धव् ए꣡हि नि꣡र् इहि  

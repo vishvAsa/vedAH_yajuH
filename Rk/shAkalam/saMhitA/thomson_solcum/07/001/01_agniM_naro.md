@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-agníṃ náro dī́dhitibhir aráṇyor  
-hástacyutī janayanta praśastám  
-dūredŕ̥śaṃ gr̥hápatim atharyúm  
+अग्निं꣡ न꣡रो दी꣡धितिभिर् अर꣡ण्योर्  
+ह꣡स्तच्युती जनयन्त प्रशस्त꣡म्  
+दूरेद्ŕ̥शं गृह꣡पतिम् अथर्यु꣡म्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tigmáṃ cid éma máhi várpo asya  
-bhásad áśvo ná yamasāná āsā́  
-vijéhamānaḥ paraśúr ná jihvā́ṃ  
-dravír ná drāvayati dā́ru dhákṣat  
+तिग्मं꣡ चिद् ए꣡म म꣡हि व꣡र्पो अस्य  
+भ꣡सद् अ꣡श्वो न꣡ यमसान꣡ आसा꣡  
+विजे꣡हमानः परशु꣡र् न꣡ जिह्वां꣡  
+द्रवि꣡र् न꣡ द्रावयति दा꣡रु ध꣡क्षत्  

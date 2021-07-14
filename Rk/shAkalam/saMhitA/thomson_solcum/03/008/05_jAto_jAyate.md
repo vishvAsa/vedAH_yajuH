@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-jātó jāyate sudinatvé áhnāṃ  
-samaryá ā́ vidáthe várdhamānaḥ  
-punánti dhī́rā apáso manīṣā́  
-devayā́ vípra úd iyarti vā́cam  
+जातो꣡ जायते सुदिनत्वे꣡ अ꣡ह्नां  
+समर्य꣡ आ꣡ विद꣡थे व꣡र्धमानः  
+पुन꣡न्ति धी꣡रा अप꣡सो मनीषा꣡  
+देवया꣡ वि꣡प्र उ꣡द् इयर्ति वा꣡चम्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-áprayuchann áprayuchadbhir agne  
-śivébhir naḥ pāyúbhiḥ pāhi śagmaíḥ  
-ádabdhebhir ádr̥pitebhir iṣṭe  
-ánimiṣadbhiḥ pári pāhi no jā́ḥ  
+अ꣡प्रयुछन्न् अ꣡प्रयुछद्भिर् अग्ने  
+शिवे꣡भिर् नः पायु꣡भिः पाहि शग्मइः꣡  
+अ꣡दब्धेभिर् अ꣡दृपितेभिर् इष्टे  
+अ꣡निमिषद्भिः प꣡रि पाहि नो जाः꣡  

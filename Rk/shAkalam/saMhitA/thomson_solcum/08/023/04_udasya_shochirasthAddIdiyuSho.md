@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-úd asya śocír asthãd  
-dīdiyúṣo ví ajáram  
-tápurjambhasya sudyúto gaṇaśríyaḥ  
+उ꣡द् अस्य शोचि꣡र् अस्थ्ãद्  
+दीदियु꣡षो वि꣡ अज꣡रम्  
+त꣡पुर्जम्भस्य सुद्यु꣡तो गणश्रि꣡यः  

@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-bhūyā́mo ṣú tuvā́vataḥ  
-sákhāya indra gómataḥ  
-yújo vā́jāya ghŕ̥ṣvaye  
+भूया꣡मो षु꣡ तुवा꣡वतः  
+स꣡खाय इन्द्र गो꣡मतः  
+यु꣡जो वा꣡जाय घ्ŕ̥ष्वये  

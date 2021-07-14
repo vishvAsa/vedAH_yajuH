@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-aháṃ sómam āhanásam bibharmi  
-aháṃ tváṣṭāram utá pūṣáṇam bhágam  
-aháṃ dadhāmi dráviṇaṃ havíṣmate  
-suprāvíye yájamānāya sunvaté  
+अहं꣡ सो꣡मम् आहन꣡सम् बिभर्मि  
+अहं꣡ त्व꣡ष्टारम् उत꣡ पूष꣡णम् भ꣡गम्  
+अहं꣡ दधामि द्र꣡विणं हवि꣡ष्मते  
+सुप्रावि꣡ये य꣡जमानाय सुन्वते꣡  

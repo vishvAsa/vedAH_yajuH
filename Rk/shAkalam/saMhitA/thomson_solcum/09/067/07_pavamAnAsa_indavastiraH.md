@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-pávamānāsa índavas  
-tiráḥ pavítram āśávaḥ  
-índraṃ yā́mebhir āśata  
+प꣡वमानास इ꣡न्दवस्  
+तिरः꣡ पवि꣡त्रम् आश꣡वः  
+इ꣡न्द्रं या꣡मेभिर् आशत  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-áva tmánā bharate kétavedā  
-áva tmánā bharate phénam udán  
-kṣīréṇa snātaḥ kúyavasya yóṣe  
-haté té syātām pravaṇé śíphāyāḥ  
+अ꣡व त्म꣡ना भरते के꣡तवेदा  
+अ꣡व त्म꣡ना भरते फे꣡नम् उद꣡न्  
+क्षीरे꣡ण स्नातः कु꣡यवस्य यो꣡षे  
+हते꣡ ते꣡ स्याताम् प्रवणे꣡ शि꣡फायाः  

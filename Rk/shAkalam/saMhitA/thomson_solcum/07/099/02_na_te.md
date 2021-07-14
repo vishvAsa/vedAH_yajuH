@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ná te viṣṇo jā́yamāno ná jātó  
-déva mahimnáḥ páram ántam āpa  
-úd astabhnā nā́kam r̥ṣvám br̥hántaṃ  
-dādhártha prā́cīṃ kakúbham pr̥thivyā́ḥ  
+न꣡ ते विष्णो जा꣡यमानो न꣡ जातो꣡  
+दे꣡व महिम्नः꣡ प꣡रम् अ꣡न्तम् आप  
+उ꣡द् अस्तभ्ना ना꣡कम् ऋष्व꣡म् बृह꣡न्तं  
+दाध꣡र्थ प्रा꣡चीं ककु꣡भम् पृथिव्याः꣡  

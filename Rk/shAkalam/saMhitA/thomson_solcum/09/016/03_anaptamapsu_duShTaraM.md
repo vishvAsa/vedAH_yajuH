@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ánaptam apsú duṣṭáraṃ  
-sómam pavítra ā́ sr̥ja  
-punīhī́ndrāya pā́tave  
+अ꣡नप्तम् अप्सु꣡ दुष्ट꣡रं  
+सो꣡मम् पवि꣡त्र आ꣡ सृज  
+पुनीही꣡न्द्राय पा꣡तवे  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mámāgne várco vihavéṣu astu  
-vayáṃ tvéndhānās tanúvam puṣema  
-máhyaṃ namantām pradíśaś cátasras  
-tváyā́dhyakṣeṇa pŕ̥tanā jayema  
+म꣡माग्ने व꣡र्चो विहवे꣡षु अस्तु  
+वयं꣡ त्वे꣡न्धानास् तनु꣡वम् पुषेम  
+म꣡ह्यं नमन्ताम् प्रदि꣡शश् च꣡तस्रस्  
+त्व꣡या꣡ध्यक्षेण प्ŕ̥तना जयेम  

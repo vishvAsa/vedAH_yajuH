@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-mā́ nas toké tánaye mā́ na āyaú  
-mā́ no góṣu mā́ no áśveṣu rīriṣaḥ  
-vīrā́n mā́ no rudara+ bhāmitó vadhīr  
-havíṣmantaḥ sádam ít tvā havāmahe  
+मा꣡ नस् तोके꣡ त꣡नये मा꣡ न आयउ꣡  
+मा꣡ नो गो꣡षु मा꣡ नो अ꣡श्वेषु रीरिषः  
+वीरा꣡न् मा꣡ नो रुदर+ भामितो꣡ वधीर्  
+हवि꣡ष्मन्तः स꣡दम् इ꣡त् त्वा हवामहे  

@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-abhí vyayasva khadirásya sā́ram  
-ójo dhehi spandané śiṃśápāyām  
-ákṣa vīḷo vīḷita vīḷáyasva  
-mā́ yā́mād asmā́d áva jīhipo naḥ  
+अभि꣡ व्ययस्व खदिर꣡स्य सा꣡रम्  
+ओ꣡जो धेहि स्पन्दने꣡ शिंश꣡पायाम्  
+अ꣡क्ष वीऌओ वीऌइत वीऌअ꣡यस्व  
+मा꣡ या꣡माद् अस्मा꣡द् अ꣡व जीहिपो नः  

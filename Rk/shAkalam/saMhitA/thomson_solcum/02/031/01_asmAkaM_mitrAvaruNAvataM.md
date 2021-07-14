@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-asmā́kam mitrāvaruṇāvataṃ rátham  
-ādityaí rudraír vásubhiḥ sacābhúvā  
-prá yád váyo ná páptan vásmanas pári  
-śravasyávo hŕ̥ṣīvanto vanarṣádaḥ  
+अस्मा꣡कम् मित्रावरुणावतं र꣡थम्  
+आदित्यइ꣡ रुद्रइ꣡र् व꣡सुभिः सचाभु꣡वा  
+प्र꣡ य꣡द् व꣡यो न꣡ प꣡प्तन् व꣡स्मनस् प꣡रि  
+श्रवस्य꣡वो ह्ŕ̥षीवन्तो वनर्ष꣡दः  

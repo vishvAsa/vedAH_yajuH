@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́gann r̥bhūṇā́m ihá ratnadhéyam  
-ábhūt sómasya súṣutasya pītíḥ  
-sukr̥tyáyā yát suapasyáyā cam̐  
-ékaṃ vicakrá camasáṃ caturdhā́  
+आ꣡गन्न् ऋभूणा꣡म् इह꣡ रत्नधे꣡यम्  
+अ꣡भूत् सो꣡मस्य सु꣡षुतस्य पीतिः꣡  
+सुकृत्य꣡या य꣡त् सुअपस्य꣡या चँ  
+ए꣡कं विचक्र꣡ चमसं꣡ चतुर्धा꣡  

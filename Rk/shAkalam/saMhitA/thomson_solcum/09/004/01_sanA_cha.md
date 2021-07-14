@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-sánā ca soma jéṣi ca  
-pávamāna máhi śrávaḥ  
-áthā no vásyasas kr̥dhi  
+स꣡ना च सोम जे꣡षि च  
+प꣡वमान म꣡हि श्र꣡वः  
+अ꣡था नो व꣡स्यसस् कृधि  

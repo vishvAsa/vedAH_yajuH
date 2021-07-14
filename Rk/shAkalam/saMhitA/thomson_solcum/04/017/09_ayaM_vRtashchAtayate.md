@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ayáṃ vŕ̥taś cātayate samīcī́r  
-yá ājíṣu maghávā śr̥ṇvá ékaḥ  
-ayáṃ vā́jam bharati yáṃ sanóti  
-asyá priyā́saḥ sakhiyé siyāma  
+अयं꣡ व्ŕ̥तश् चातयते समीची꣡र्  
+य꣡ आजि꣡षु मघ꣡वा शृण्व꣡ ए꣡कः  
+अयं꣡ वा꣡जम् भरति यं꣡ सनो꣡ति  
+अस्य꣡ प्रिया꣡सः सखिये꣡ सियाम  

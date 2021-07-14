@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá daívodāso agnír  
-devā́m̐ áchā ná majmánā  
-ánu mātáram pr̥thivī́ṃ ví vāvr̥te  
-tasthaú nā́kasya sā́navi  
+प्र꣡ दइ꣡वोदासो अग्नि꣡र्  
+देवाँ꣡ अ꣡छा न꣡ मज्म꣡ना  
+अ꣡नु मात꣡रम् पृथिवीं꣡ वि꣡ वावृते  
+तस्थउ꣡ ना꣡कस्य सा꣡नवि  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-úpāsmai gāyatā naraḥ  
-pávamānāya índave  
-abhí devā́m̐ íyakṣate  
+उ꣡पास्मै गायता नरः  
+प꣡वमानाय इ꣡न्दवे  
+अभि꣡ देवाँ꣡ इ꣡यक्षते  

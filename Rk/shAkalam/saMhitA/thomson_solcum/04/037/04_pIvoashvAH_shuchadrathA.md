@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-pī́voaśvāḥ śucádrathā hí bhūtá  
-áyaḥśiprā · vājinaḥ suniṣkā́ḥ  
-índrasya sūno śavaso napāto  
-ánu vaś ceti agriyám mádāya  
+पी꣡वोअश्वाः शुच꣡द्रथा हि꣡ भूत꣡  
+अ꣡यःशिप्रा · वाजिनः सुनिष्काः꣡  
+इ꣡न्द्रस्य सूनो शवसो नपातो  
+अ꣡नु वश् चेति अग्रिय꣡म् म꣡दाय  

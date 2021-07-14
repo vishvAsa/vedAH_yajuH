@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yā́ḥ sū́riyo raśmíbhir ātatā́na  
-yā́bhya índro áradad gātúm ūrmím  
-té sindhavo várivo dhātanā no  
-yūyám pāta suastíbhiḥ sádā naḥ  
+याः꣡ सू꣡रियो रश्मि꣡भिर् आतता꣡न  
+या꣡भ्य इ꣡न्द्रो अ꣡रदद् गातु꣡म् ऊर्मि꣡म्  
+ते꣡ सिन्धवो व꣡रिवो धातना नो  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

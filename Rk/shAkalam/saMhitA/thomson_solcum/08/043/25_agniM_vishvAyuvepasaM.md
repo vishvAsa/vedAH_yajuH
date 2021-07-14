@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-agníṃ viśvā́yuvepasam  
-máryaṃ ná vājínaṃ hitám  
-sáptiṃ ná vājayāmasi  
+अग्निं꣡ विश्वा꣡युवेपसम्  
+म꣡र्यं न꣡ वाजि꣡नं हित꣡म्  
+स꣡प्तिं न꣡ वाजयामसि  

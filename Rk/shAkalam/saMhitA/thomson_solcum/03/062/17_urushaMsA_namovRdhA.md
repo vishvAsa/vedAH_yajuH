@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-uruśáṃsā namovŕ̥dhā  
-mahnā́ dákṣasya rājathaḥ  
-drā́ghiṣṭhābhiḥ śucivratā  
+उरुशं꣡सा नमोव्ŕ̥धा  
+मह्ना꣡ द꣡क्षस्य राजथः  
+द्रा꣡घिष्ठाभिः शुचिव्रता  

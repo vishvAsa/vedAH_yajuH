@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-pr̥kṣáprayajo draviṇaḥ suvā́caḥ  
-suketáva uṣáso revád ūṣuḥ  
-utó cid agne mahinā́ pr̥thivyā́ḥ  
-kr̥táṃ cid énaḥ sám mahé daśasya  
+पृक्ष꣡प्रयजो द्रविणः सुवा꣡चः  
+सुकेत꣡व उष꣡सो रेव꣡द् ऊषुः  
+उतो꣡ चिद् अग्ने महिना꣡ पृथिव्याः꣡  
+कृतं꣡ चिद् ए꣡नः स꣡म् महे꣡ दशस्य  

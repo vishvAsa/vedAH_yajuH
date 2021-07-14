@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prātaryā́vāṇā prathamā́ yajadhvam  
-purā́ gŕ̥dhrād áraruṣaḥ pibātaḥ  
-prātár hí yajñám aśvínā dadhā́te  
-prá śaṃsanti kaváyaḥ pūrvabhā́jaḥ  
+प्रातर्या꣡वाणा प्रथमा꣡ यजध्वम्  
+पुरा꣡ ग्ŕ̥ध्राद् अ꣡ररुषः पिबातः  
+प्रात꣡र् हि꣡ यज्ञ꣡म् अश्वि꣡ना दधा꣡ते  
+प्र꣡ शंसन्ति कव꣡यः पूर्वभा꣡जः  

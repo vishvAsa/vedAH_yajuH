@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índur devā́nām úpa sakhyám āyán  
-sahásradhāraḥ pavate mádāya  
-nŕ̥bhi stávāno ánu dhā́ma pū́rvam  
-ágann índram mahaté saúbhagāya  
+इ꣡न्दुर् देवा꣡नाम् उ꣡प सख्य꣡म् आय꣡न्  
+सह꣡स्रधारः पवते म꣡दाय  
+न्ŕ̥भि स्त꣡वानो अ꣡नु धा꣡म पू꣡र्वम्  
+अ꣡गन्न् इ꣡न्द्रम् महते꣡ सउ꣡भगाय  

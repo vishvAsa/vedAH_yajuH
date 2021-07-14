@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ukṣā́ mimāti práti yanti dhenávo  
-devásya devī́r úpa yanti niṣkr̥tám  
-áty akramīd árjunaṃ vā́ram avyáyam  
-átkaṃ ná niktám pári sómo avyata  
+उक्षा꣡ मिमाति प्र꣡ति यन्ति धेन꣡वो  
+देव꣡स्य देवी꣡र् उ꣡प यन्ति निष्कृत꣡म्  
+अ꣡त्य् अक्रमीद् अ꣡र्जुनं वा꣡रम् अव्य꣡यम्  
+अ꣡त्कं न꣡ निक्त꣡म् प꣡रि सो꣡मो अव्यत  

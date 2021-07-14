@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-abhí vo vīrám ándhaso mádeṣu gāya  
-girā́ mahā́ vícetasam  
-índraṃ nā́ma śrútiyaṃ śākínaṃ váco yáthā  
+अभि꣡ वो वीर꣡म् अ꣡न्धसो म꣡देषु गाय  
+गिरा꣡ महा꣡ वि꣡चेतसम्  
+इ꣡न्द्रं ना꣡म श्रु꣡तियं शाकि꣡नं व꣡चो य꣡था  

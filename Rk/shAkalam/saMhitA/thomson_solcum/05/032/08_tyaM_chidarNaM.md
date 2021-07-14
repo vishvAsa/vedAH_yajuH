@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tiyáṃ cid árṇam madhupáṃ śáyānam  
-asinváṃ vavrám máhi ā́dad ugráḥ  
-apā́dam atrám mahatā́ vadhéna  
-ní duryoṇá āvr̥ṇaṅ mr̥dhrávācam  
+तियं꣡ चिद् अ꣡र्णम् मधुपं꣡ श꣡यानम्  
+असिन्वं꣡ वव्र꣡म् म꣡हि आ꣡दद् उग्रः꣡  
+अपा꣡दम् अत्र꣡म् महता꣡ वधे꣡न  
+नि꣡ दुर्योण꣡ आवृणङ् मृध्र꣡वाचम्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yó mā pā́kena mánasā cárantam  
-abhicáṣṭe ánr̥tebhir vácobhiḥ  
-ā́pa iva kāśínā sáṃgr̥bhītā  
-ásann astu ā́sata indra vaktā́  
+यो꣡ मा पा꣡केन म꣡नसा च꣡रन्तम्  
+अभिच꣡ष्टे अ꣡नृतेभिर् व꣡चोभिः  
+आ꣡प इव काशि꣡ना सं꣡गृभीता  
+अ꣡सन्न् अस्तु आ꣡सत इन्द्र वक्ता꣡  

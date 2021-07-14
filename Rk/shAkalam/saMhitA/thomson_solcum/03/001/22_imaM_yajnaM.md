@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-imáṃ yajñáṃ sahasāvan tuváṃ no  
-devatrā́ dhehi sukrato rárāṇaḥ  
-prá yaṃsi hotar br̥hatī́r íṣo no  
-ágne máhi dráviṇam ā́ yajasva  
+इमं꣡ यज्ञं꣡ सहसावन् तुवं꣡ नो  
+देवत्रा꣡ धेहि सुक्रतो र꣡राणः  
+प्र꣡ यंसि होतर् बृहती꣡र् इ꣡षो नो  
+अ꣡ग्ने म꣡हि द्र꣡विणम् आ꣡ यजस्व  

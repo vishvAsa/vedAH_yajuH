@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-sutā́vantas tuvā vayám  
-práyasvanto havāmahe  
-idáṃ no barhír āsáde  
+सुता꣡वन्तस् तुवा वय꣡म्  
+प्र꣡यस्वन्तो हवामहे  
+इदं꣡ नो बर्हि꣡र् आस꣡दे  

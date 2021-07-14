@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yudhmásya te vr̥ṣabhásya svarā́ja  
-ugrásya yū́na sthávirasya ghŕ̥ṣveḥ  
-ájūryato vajríṇo vīríyāṇi  
-índra śrutásya maható mahā́ni  
+युध्म꣡स्य ते वृषभ꣡स्य स्वरा꣡ज  
+उग्र꣡स्य यू꣡न स्थ꣡विरस्य घ्ŕ̥ष्वेः  
+अ꣡जूर्यतो वज्रि꣡णो वीरि꣡याणि  
+इ꣡न्द्र श्रुत꣡स्य महतो꣡ महा꣡नि  

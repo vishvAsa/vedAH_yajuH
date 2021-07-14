@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-punānáś camū́ janáyan matíṃ kavíḥ  
-sómo devéṣu raṇyati  
-apó vásānaḥ pári góbhir úttaraḥ  
-sī́dan váneṣu avyata  
+पुनान꣡श् चमू꣡ जन꣡यन् मतिं꣡ कविः꣡  
+सो꣡मो देवे꣡षु रण्यति  
+अपो꣡ व꣡सानः प꣡रि गो꣡भिर् उ꣡त्तरः  
+सी꣡दन् व꣡नेषु अव्यत  

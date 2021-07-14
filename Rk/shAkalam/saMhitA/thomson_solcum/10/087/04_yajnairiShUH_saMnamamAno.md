@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yajñaír íṣūḥ saṃnámamāno agne  
-vācā́ śalyā́m̐ aśánibhir dihānáḥ  
-tā́bhir vidhya hŕ̥daye yātudhā́nān  
-pratīcó bāhū́n práti bhaṅdhi eṣām  
+यज्ञइ꣡र् इ꣡षूः संन꣡ममानो अग्ने  
+वाचा꣡ शल्याँ꣡ अश꣡निभिर् दिहानः꣡  
+ता꣡भिर् विध्य ह्ŕ̥दये यातुधा꣡नान्  
+प्रतीचो꣡ बाहू꣡न् प्र꣡ति भङ्धि एषाम्  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yó rā́jabhya r̥taníbhyo dadā́śa  
-yáṃ vardháyanti puṣṭáyaś ca nítyāḥ  
-sá revā́n yāti prathamó ráthena  
-vasudā́vā vidátheṣu praśastáḥ  
+यो꣡ रा꣡जभ्य ऋतनि꣡भ्यो ददा꣡श  
+यं꣡ वर्ध꣡यन्ति पुष्ट꣡यश् च नि꣡त्याः  
+स꣡ रेवा꣡न् याति प्रथमो꣡ र꣡थेन  
+वसुदा꣡वा विद꣡थेषु प्रशस्तः꣡  

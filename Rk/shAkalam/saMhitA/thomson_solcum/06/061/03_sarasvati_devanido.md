@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sárasvati devanído ní barhaya  
-prajā́ṃ víśvasya bŕ̥sayasya māyínaḥ  
-utá kṣitíbhyo avánīr avindo  
-viṣám ebhyo asravo vājinīvati  
+स꣡रस्वति देवनि꣡दो नि꣡ बर्हय  
+प्रजां꣡ वि꣡श्वस्य ब्ŕ̥सयस्य मायि꣡नः  
+उत꣡ क्षिति꣡भ्यो अव꣡नीर् अविन्दो  
+विष꣡म् एभ्यो अस्रवो वाजिनीवति  

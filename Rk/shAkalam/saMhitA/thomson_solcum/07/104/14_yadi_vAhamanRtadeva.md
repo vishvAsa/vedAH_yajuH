@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yádi vāhám ánr̥tadeva ā́sa  
-móghaṃ vā devā́m̐ apiūhé agne  
-kím asmábhyaṃ jātavedo hr̥ṇīṣe  
-droghavā́cas te nirr̥tháṃ sacantām  
+य꣡दि वाह꣡म् अ꣡नृतदेव आ꣡स  
+मो꣡घं वा देवाँ꣡ अपिऊहे꣡ अग्ने  
+कि꣡म् अस्म꣡भ्यं जातवेदो हृणीषे  
+द्रोघवा꣡चस् ते निरृथं꣡ सचन्ताम्  

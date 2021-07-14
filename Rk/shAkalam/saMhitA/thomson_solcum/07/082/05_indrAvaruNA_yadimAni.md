@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índrāvaruṇā yád imā́ni cakráthur  
-víśvā jātā́ni bhúvanasya majmánā  
-kṣémeṇa mitró váruṇaṃ duvasyáti  
-marúdbhir ugráḥ śúbham anyá īyate  
+इ꣡न्द्रावरुणा य꣡द् इमा꣡नि चक्र꣡थुर्  
+वि꣡श्वा जाता꣡नि भु꣡वनस्य मज्म꣡ना  
+क्षे꣡मेण मित्रो꣡ व꣡रुणं दुवस्य꣡ति  
+मरु꣡द्भिर् उग्रः꣡ शु꣡भम् अन्य꣡ ईयते  

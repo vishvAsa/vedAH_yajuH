@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-yó jinā́ti ná jī́yate  
-hánti śátrum abhī́tiya  
-sá pavasva sahasrajit  
+यो꣡ जिना꣡ति न꣡ जी꣡यते  
+ह꣡न्ति श꣡त्रुम् अभी꣡तिय  
+स꣡ पवस्व सहस्रजित्  

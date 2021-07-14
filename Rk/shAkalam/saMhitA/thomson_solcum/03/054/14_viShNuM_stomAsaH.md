@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-víṣṇuṃ stómāsaḥ purudasmám arkā́  
-bhágasyeva kāríṇo yā́mani gman  
-urukramáḥ kakuhó yásya pūrvī́r  
-ná mardhanti yuvatáyo jánitrīḥ  
+वि꣡ष्णुं स्तो꣡मासः पुरुदस्म꣡म् अर्का꣡  
+भ꣡गस्येव कारि꣡णो या꣡मनि ग्मन्  
+उरुक्रमः꣡ ककुहो꣡ य꣡स्य पूर्वी꣡र्  
+न꣡ मर्धन्ति युवत꣡यो ज꣡नित्रीः  

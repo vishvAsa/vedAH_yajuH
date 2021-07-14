@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-imā́ bráhma sarasvati  
-juṣásva vājinīvati  
-yā́ te mánma gr̥tsamadā́ r̥tāvari  
-priyā́ devéṣu júhvati  
+इमा꣡ ब्र꣡ह्म सरस्वति  
+जुष꣡स्व वाजिनीवति  
+या꣡ ते म꣡न्म गृत्समदा꣡ ऋतावरि  
+प्रिया꣡ देवे꣡षु जु꣡ह्वति  

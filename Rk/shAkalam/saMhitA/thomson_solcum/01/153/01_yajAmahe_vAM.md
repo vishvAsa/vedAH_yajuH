@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yájāmahe vām maháḥ sajóṣā  
-havyébhir mitrāvaruṇā námobhiḥ  
-ghr̥taír ghr̥tasnū ádha yád vām asmé  
-adhvaryávo ná dhītíbhir bháranti  
+य꣡जामहे वाम् महः꣡ सजो꣡षा  
+हव्ये꣡भिर् मित्रावरुणा न꣡मोभिः  
+घृतइ꣡र् घृतस्नू अ꣡ध य꣡द् वाम् अस्मे꣡  
+अध्वर्य꣡वो न꣡ धीति꣡भिर् भ꣡रन्ति  

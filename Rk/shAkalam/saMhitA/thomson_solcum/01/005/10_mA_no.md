@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-mā́ no mártā abhí druhan  
-tanū́nām indra girvaṇaḥ  
-ī́śāno yavayā vadhám  
+मा꣡ नो म꣡र्ता अभि꣡ द्रुहन्  
+तनू꣡नाम् इन्द्र गिर्वणः  
+ई꣡शानो यवया वध꣡म्  

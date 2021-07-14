@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-tébhyo dyumnám br̥hád yáśa  
-úṣo maghoni ā́ vaha  
-yé no rā́dhāṃsi áśviyā  
-gavyā́ bhájanta sūráyaḥ  
-sújāte áśvasūnr̥te  
+ते꣡भ्यो द्युम्न꣡म् बृह꣡द् य꣡श  
+उ꣡षो मघोनि आ꣡ वह  
+ये꣡ नो रा꣡धांसि अ꣡श्विया  
+गव्या꣡ भ꣡जन्त सूर꣡यः  
+सु꣡जाते अ꣡श्वसूनृते  

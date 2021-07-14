@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-túbhyam bráhmāṇi gíra indra túbhyaṃ  
-satrā́ dadhire harivo juṣásva  
-bodhí āpír ávaso nū́tanasya  
-sákhe vaso jaritŕ̥bhyo váyo dhāḥ  
+तु꣡भ्यम् ब्र꣡ह्माणि गि꣡र इन्द्र तु꣡भ्यं  
+सत्रा꣡ दधिरे हरिवो जुष꣡स्व  
+बोधि꣡ आपि꣡र् अ꣡वसो नू꣡तनस्य  
+स꣡खे वसो जरित्ŕ̥भ्यो व꣡यो धाः  

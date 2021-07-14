@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-prá sómāya viaśvavát  
-pávamānāya gāyata  
-mahé sahásracakṣase  
+प्र꣡ सो꣡माय विअश्वव꣡त्  
+प꣡वमानाय गायत  
+महे꣡ सह꣡स्रचक्षसे  

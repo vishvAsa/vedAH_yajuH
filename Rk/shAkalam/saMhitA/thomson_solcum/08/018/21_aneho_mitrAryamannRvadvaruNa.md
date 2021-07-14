@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-anehó mitra aryaman  
-nr̥vád varuṇa śáṃsiyam  
-trivárūtham maruto yanta naś chardíḥ  
+अनेहो꣡ मित्र अर्यमन्  
+नृव꣡द् वरुण शं꣡सियम्  
+त्रिव꣡रूथम् मरुतो यन्त नश् छर्दिः꣡  

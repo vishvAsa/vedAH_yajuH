@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-urvī́ pr̥thvī́ bahulé dūréante  
-úpa bruve námasā yajñé asmín  
-dadhā́te yé subháge suprátūrtī  
-dyā́vā rákṣatam pr̥thivī no ábhvāt  
+उर्वी꣡ पृथ्वी꣡ बहुले꣡ दूरे꣡अन्ते  
+उ꣡प ब्रुवे न꣡मसा यज्ञे꣡ अस्मि꣡न्  
+दधा꣡ते ये꣡ सुभ꣡गे सुप्र꣡तूर्ती  
+द्या꣡वा र꣡क्षतम् पृथिवी नो अ꣡भ्वात्  

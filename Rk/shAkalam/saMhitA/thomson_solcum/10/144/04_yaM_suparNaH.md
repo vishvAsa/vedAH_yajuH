@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-yáṃ suparṇáḥ parāvátaḥ  
-śyenásya putrá ā́bharat  
-śatácakraṃ yò 'hyò vartaníḥ  
+यं꣡ सुपर्णः꣡ पराव꣡तः  
+श्येन꣡स्य पुत्र꣡ आ꣡भरत्  
+शत꣡चक्रं यो᳡ ऽह्यो᳡ वर्तनिः꣡  

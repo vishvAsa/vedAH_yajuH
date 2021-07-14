@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-nahí nú te mahimánaḥ samasya  
-ná maghavan maghavattvásya vidmá  
-ná rā́dhaso-rādhaso nū́tanasya  
-índra nákir dadr̥śa indriyáṃ te  
+नहि꣡ नु꣡ ते महिम꣡नः समस्य  
+न꣡ मघवन् मघवत्त्व꣡स्य विद्म꣡  
+न꣡ रा꣡धसो-राधसो नू꣡तनस्य  
+इ꣡न्द्र न꣡किर् ददृश इन्द्रियं꣡ ते  

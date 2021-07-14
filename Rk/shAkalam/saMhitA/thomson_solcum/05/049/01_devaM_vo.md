@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-deváṃ vo adyá savitā́ram éṣe  
-bhágaṃ ca rátnaṃ vibhájantam āyóḥ  
-ā́ vāṃ narā purubhujā vavr̥tyāṃ  
-divé-dive cid aśvinā sakhīyán  
+देवं꣡ वो अद्य꣡ सविता꣡रम् ए꣡षे  
+भ꣡गं च र꣡त्नं विभ꣡जन्तम् आयोः꣡  
+आ꣡ वां नरा पुरुभुजा ववृत्यां  
+दिवे꣡-दिवे चिद् अश्विना सखीय꣡न्  

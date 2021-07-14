@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuváṃ dhíyam manoyújaṃ  
-sr̥jā́ vr̥ṣṭíṃ ná tanyatúḥ  
-tuváṃ vásūni pā́rthivā  
-divyā́ ca soma puṣyasi  
+तुवं꣡ धि꣡यम् मनोयु꣡जं  
+सृजा꣡ वृष्टिं꣡ न꣡ तन्यतुः꣡  
+तुवं꣡ व꣡सूनि पा꣡र्थिवा  
+दिव्या꣡ च सोम पुष्यसि  

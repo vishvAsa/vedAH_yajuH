@@ -2,7 +2,7 @@
 title = "037"
 
 +++
-īśāná imā́ bhúvanāni vī́yase  
-yujāná indo harítaḥ suparṇíyaḥ  
-tā́s te kṣarantu mádhumad ghr̥tám páyas  
-táva vraté soma tiṣṭhantu kr̥ṣṭáyaḥ  
+ईशान꣡ इमा꣡ भु꣡वनानि वी꣡यसे  
+युजान꣡ इन्दो हरि꣡तः सुपर्णि꣡यः  
+ता꣡स् ते क्षरन्तु म꣡धुमद् घृत꣡म् प꣡यस्  
+त꣡व व्रते꣡ सोम तिष्ठन्तु कृष्ट꣡यः  

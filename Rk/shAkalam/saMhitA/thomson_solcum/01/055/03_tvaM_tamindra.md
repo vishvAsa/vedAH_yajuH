@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuváṃ tám indra párvataṃ ná bhójase  
-mahó nr̥mṇásya dhármaṇām irajyasi  
-prá vīríyeṇa devátā́ti cekite  
-víśvasmā ugráḥ kármaṇe puróhitaḥ  
+तुवं꣡ त꣡म् इन्द्र प꣡र्वतं न꣡ भो꣡जसे  
+महो꣡ नृम्ण꣡स्य ध꣡र्मणाम् इरज्यसि  
+प्र꣡ वीरि꣡येण देव꣡ता꣡ति चेकिते  
+वि꣡श्वस्मा उग्रः꣡ क꣡र्मणे पुरो꣡हितः  

@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-ā́ yé víśvā pā́rthivāni  
-papráthan rocanā́ diváḥ  
-marútaḥ sómapītaye  
+आ꣡ ये꣡ वि꣡श्वा पा꣡र्थिवानि  
+पप्र꣡थन् रोचना꣡ दिवः꣡  
+मरु꣡तः सो꣡मपीतये  

@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-yác cid dhí te gaṇā́ imé  
-chadáyanti magháttaye  
-pári cid váṣṭayo dadhur  
-dádato rā́dho áhrayaṃ  
-sújāte áśvasūnr̥te  
+य꣡च् चिद् धि꣡ ते गणा꣡ इमे꣡  
+छद꣡यन्ति मघ꣡त्तये  
+प꣡रि चिद् व꣡ष्टयो दधुर्  
+द꣡दतो रा꣡धो अ꣡ह्रयं  
+सु꣡जाते अ꣡श्वसूनृते  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-purā́ sambādhā́d abhí ā́ vavr̥tsva no  
-dhenúr ná vatsáṃ yávasasya pipyúṣī  
-sakŕ̥t sú te sumatíbhiḥ śatakrato  
-sám pátnībhir ná vŕ̥ṣaṇo nasīmahi  
+पुरा꣡ सम्बाधा꣡द् अभि꣡ आ꣡ ववृत्स्व नो  
+धेनु꣡र् न꣡ वत्सं꣡ य꣡वसस्य पिप्यु꣡षी  
+सक्ŕ̥त् सु꣡ ते सुमति꣡भिः शतक्रतो  
+स꣡म् प꣡त्नीभिर् न꣡ व्ŕ̥षणो नसीमहि  

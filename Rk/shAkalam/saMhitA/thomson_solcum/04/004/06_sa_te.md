@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sá te jānāti sumatíṃ yaviṣṭha  
-yá ī́vate bráhmaṇe gātúm aírat  
-víśvāni asmai sudínāni rāyó  
-dyumnā́ni aryó ví dúro abhí dyaut  
+स꣡ ते जानाति सुमतिं꣡ यविष्ठ  
+य꣡ ई꣡वते ब्र꣡ह्मणे गातु꣡म् अइ꣡रत्  
+वि꣡श्वानि अस्मै सुदि꣡नानि रायो꣡  
+द्युम्ना꣡नि अर्यो꣡ वि꣡ दु꣡रो अभि꣡ द्यौत्  

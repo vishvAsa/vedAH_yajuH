@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sadŕ̥śīr adyá sadŕ̥śīr íd u śvó  
-dīrgháṃ sacante váruṇasya dhā́ma  
-anavadyā́s triṃśátaṃ yójanāni  
-ékaikā krátum pári yanti sadyáḥ  
+सद्ŕ̥शीर् अद्य꣡ सद्ŕ̥शीर् इ꣡द् उ श्वो꣡  
+दीर्घं꣡ सचन्ते व꣡रुणस्य धा꣡म  
+अनवद्या꣡स् त्रिंश꣡तं यो꣡जनानि  
+ए꣡कैका क्र꣡तुम् प꣡रि यन्ति सद्यः꣡  

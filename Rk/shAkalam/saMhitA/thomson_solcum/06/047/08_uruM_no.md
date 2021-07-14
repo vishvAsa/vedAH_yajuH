@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-urúṃ no lokám ánu neṣi vidvā́n  
-súvarvaj jyótir ábhayaṃ suastí  
-r̥ṣvā́ ta indra sthávirasya bāhū́  
-úpa stheyāma śaraṇā́ br̥hántā  
+उरुं꣡ नो लोक꣡म् अ꣡नु नेषि विद्वा꣡न्  
+सु꣡वर्वज् ज्यो꣡तिर् अ꣡भयं सुअस्ति꣡  
+ऋष्वा꣡ त इन्द्र स्थ꣡विरस्य बाहू꣡  
+उ꣡प स्थेयाम शरणा꣡ बृह꣡न्ता  

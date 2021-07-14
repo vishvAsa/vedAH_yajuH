@@ -2,11 +2,11 @@
 title = "001"
 
 +++
-tríkadrukeṣu mahiṣó yávāśiraṃ  
-tuviśúṣmas  
-tr̥pát sómam apibad víṣṇunā sutáṃ  
-yáthā́vaśat  
-sá īm mamāda máhi kárma kártave  
-mahā́m urúṃ  
-saínaṃ saścad devó deváṃ  
-satyám índraṃ satyá índuḥ  
+त्रि꣡कद्रुकेषु महिषो꣡ य꣡वाशिरं  
+तुविशु꣡ष्मस्  
+तृप꣡त् सो꣡मम् अपिबद् वि꣡ष्णुना सुतं꣡  
+य꣡था꣡वशत्  
+स꣡ ईम् ममाद म꣡हि क꣡र्म क꣡र्तवे  
+महा꣡म् उरुं꣡  
+सइ꣡नं सश्चद् देवो꣡ देवं꣡  
+सत्य꣡म् इ꣡न्द्रं सत्य꣡ इ꣡न्दुः  

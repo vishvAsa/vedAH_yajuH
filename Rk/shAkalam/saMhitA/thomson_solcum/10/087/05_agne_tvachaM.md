@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ágne tvácaṃ yātudhā́nasya bhindhi  
-hiṃsrā́śánir hárasā hantu enam  
-prá párvāṇi jātavedaḥ śr̥ṇīhi  
-kravyā́t kraviṣṇúr ví cinotu vr̥kṇám  
+अ꣡ग्ने त्व꣡चं यातुधा꣡नस्य भिन्धि  
+हिंस्रा꣡श꣡निर् ह꣡रसा हन्तु एनम्  
+प्र꣡ प꣡र्वाणि जातवेदः शृणीहि  
+क्रव्या꣡त् क्रविष्णु꣡र् वि꣡ चिनोतु वृक्ण꣡म्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-bhū́riṃ duvé ácarantī cárantam  
-padvántaṃ gárbham apádī dadhāte  
-nítyaṃ ná sūnúm pitarór+ upásthe  
-dyā́vā rákṣatam pr̥thivī no ábhvāt  
+भू꣡रिं दुवे꣡ अ꣡चरन्ती च꣡रन्तम्  
+पद्व꣡न्तं ग꣡र्भम् अप꣡दी दधाते  
+नि꣡त्यं न꣡ सूनु꣡म् पितरो꣡र्+ उप꣡स्थे  
+द्या꣡वा र꣡क्षतम् पृथिवी नो अ꣡भ्वात्  

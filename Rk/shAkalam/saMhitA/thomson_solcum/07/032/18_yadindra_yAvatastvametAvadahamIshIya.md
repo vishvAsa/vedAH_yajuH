@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-yád indra yā́vatas tuvám  
-etā́vad ahám ī́śīya  
-stotā́ram íd didhiṣeya radāvaso  
-ná pāpatvā́ya rāsīya  
+य꣡द् इन्द्र या꣡वतस् तुव꣡म्  
+एता꣡वद् अह꣡म् ई꣡शीय  
+स्तोता꣡रम् इ꣡द् दिधिषेय रदावसो  
+न꣡ पापत्वा꣡य रासीय  

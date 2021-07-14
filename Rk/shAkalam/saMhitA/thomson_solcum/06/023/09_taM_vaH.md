@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-táṃ vaḥ sakhāyaḥ sáṃ yáthā sutéṣu  
-sómebhir īm pr̥ṇatā bhojám índram  
-kuvít tásmā ásati no bhárāya  
-ná súṣvim índro ávase mr̥dhāti  
+तं꣡ वः सखायः सं꣡ य꣡था सुते꣡षु  
+सो꣡मेभिर् ईम् पृणता भोज꣡म् इ꣡न्द्रम्  
+कुवि꣡त् त꣡स्मा अ꣡सति नो भ꣡राय  
+न꣡ सु꣡ष्विम् इ꣡न्द्रो अ꣡वसे मृधाति  

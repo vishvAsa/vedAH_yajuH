@@ -2,6 +2,6 @@
 title = "031"
 
 +++
-kád dha nūnáṃ kadhapriyo  
-yád índram ájahātana  
-kó vaḥ sakhitvá ohate  
+क꣡द् ध नूनं꣡ कधप्रियो  
+य꣡द् इ꣡न्द्रम् अ꣡जहातन  
+को꣡ वः सखित्व꣡ ओहते  

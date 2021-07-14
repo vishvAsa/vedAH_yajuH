@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-grā́vṇo brahmā́ yuyujānáḥ saparyán  
-kīríṇā devā́n námasopaśíkṣan  
-átriḥ sū́ryasya diví cákṣur ā́dhāt  
-súvarbhānor ápa māyā́ aghukṣat  
+ग्रा꣡व्णो ब्रह्मा꣡ युयुजानः꣡ सपर्य꣡न्  
+कीरि꣡णा देवा꣡न् न꣡मसोपशि꣡क्षन्  
+अ꣡त्रिः सू꣡र्यस्य दिवि꣡ च꣡क्षुर् आ꣡धात्  
+सु꣡वर्भानोर् अ꣡प माया꣡ अघुक्षत्  

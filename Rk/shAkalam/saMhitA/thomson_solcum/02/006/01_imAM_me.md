@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-imā́m me agne samídham  
-imā́m upasádaṃ vaneḥ  
-imā́ u ṣú śrudhī gíraḥ  
+इमा꣡म् मे अग्ने समि꣡धम्  
+इमा꣡म् उपस꣡दं वनेः  
+इमा꣡ उ षु꣡ श्रुधी गि꣡रः  

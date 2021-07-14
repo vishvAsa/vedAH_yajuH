@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-mātā́ devā́nām áditer ánīkaṃ  
-yajñásya ketúr br̥hatī́ ví bhāhi  
-praśastikŕ̥d bráhmaṇe no ví ucha  
-ā́ no jáne janaya viśvavāre  
+माता꣡ देवा꣡नाम् अ꣡दितेर् अ꣡नीकं  
+यज्ञ꣡स्य केतु꣡र् बृहती꣡ वि꣡ भाहि  
+प्रशस्तिक्ŕ̥द् ब्र꣡ह्मणे नो वि꣡ उछ  
+आ꣡ नो ज꣡ने जनय विश्ववारे  

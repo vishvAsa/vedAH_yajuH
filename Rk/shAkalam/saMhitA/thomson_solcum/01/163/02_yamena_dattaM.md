@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yaména dattáṃ tritá enam āyunag  
-índra eṇam prathamó ádhy atiṣṭhat  
-gandharvó asya raśanā́m agr̥bhṇāt  
-sū́rād áśvaṃ vasavo nír ataṣṭa  
+यमे꣡न दत्तं꣡ त्रित꣡ एनम् आयुनग्  
+इ꣡न्द्र एणम् प्रथमो꣡ अ꣡ध्य् अतिष्ठत्  
+गन्धर्वो꣡ अस्य रशना꣡म् अगृभ्णात्  
+सू꣡राद् अ꣡श्वं वसवो नि꣡र् अतष्ट  

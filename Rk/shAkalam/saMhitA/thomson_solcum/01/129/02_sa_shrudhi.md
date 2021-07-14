@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-sá śrudhi yáḥ smā pŕ̥tanāsu kā́su cid  
-dakṣā́yya indra bhárahūtaye nŕ̥bhir  
-ási prátūrtaye nŕ̥bhiḥ  
-yáḥ śū́raiḥ súvaḥ sánitā  
-yó víprair vā́jaṃ tárutā  
-tám īśānā́sa iradhanta vājínam  
-pr̥kṣám átyaṃ ná vājínam  
+स꣡ श्रुधि यः꣡ स्मा प्ŕ̥तनासु का꣡सु चिद्  
+दक्षा꣡य्य इन्द्र भ꣡रहूतये न्ŕ̥भिर्  
+अ꣡सि प्र꣡तूर्तये न्ŕ̥भिः  
+यः꣡ शू꣡रैः सु꣡वः स꣡निता  
+यो꣡ वि꣡प्रैर् वा꣡जं त꣡रुता  
+त꣡म् ईशाना꣡स इरधन्त वाजि꣡नम्  
+पृक्ष꣡म् अ꣡त्यं न꣡ वाजि꣡नम्  

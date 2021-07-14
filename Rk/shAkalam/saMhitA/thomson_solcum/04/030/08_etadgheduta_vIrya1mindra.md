@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-etád ghéd utá vīríyam  
-índra cakártha paúṃsiyam  
-stríyaṃ yád durhaṇāyúvaṃ  
-vádhīr duhitáraṃ diváḥ  
+एत꣡द् घे꣡द् उत꣡ वीरि꣡यम्  
+इ꣡न्द्र चक꣡र्थ पउं꣡सियम्  
+स्त्रि꣡यं य꣡द् दुर्हणायु꣡वं  
+व꣡धीर् दुहित꣡रं दिवः꣡  

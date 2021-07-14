@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́ yád vām īyacakṣasā  
-mítra vayáṃ ca sūráyaḥ  
-vyáciṣṭhe bahupā́yiye  
-yátemahi svarā́jiye  
+आ꣡ य꣡द् वाम् ईयचक्षसा  
+मि꣡त्र वयं꣡ च सूर꣡यः  
+व्य꣡चिष्ठे बहुपा꣡यिये  
+य꣡तेमहि स्वरा꣡जिये  

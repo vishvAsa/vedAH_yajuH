@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-kó nú átra maruto māmahe vaḥ  
-prá yātana sákhīm̐r áchā sakhāyaḥ  
-mánmāni citrā apivātáyanta  
-eṣā́m bhūta návedā ma r̥tā́nām  
+को꣡ नु꣡ अ꣡त्र मरुतो मामहे वः  
+प्र꣡ यातन स꣡खीँर् अ꣡छा सखायः  
+म꣡न्मानि चित्रा अपिवात꣡यन्त  
+एषा꣡म् भूत न꣡वेदा म ऋता꣡नाम्  

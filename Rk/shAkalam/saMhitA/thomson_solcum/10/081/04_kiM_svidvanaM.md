@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kíṃ svid vánaṃ ká u sá vr̥kṣá āsa  
-yáto dyā́vāpr̥thivī́ niṣṭatakṣúḥ  
-mánīṣiṇo mánasā pr̥chátéd u tád  
-yád adhyátiṣṭhad bhúvanāni dhāráyan  
+किं꣡ स्विद् व꣡नं क꣡ उ स꣡ वृक्ष꣡ आस  
+य꣡तो द्या꣡वापृथिवी꣡ निष्टतक्षुः꣡  
+म꣡नीषिणो म꣡नसा पृछ꣡ते꣡द् उ त꣡द्  
+य꣡द् अध्य꣡तिष्ठद् भु꣡वनानि धार꣡यन्  

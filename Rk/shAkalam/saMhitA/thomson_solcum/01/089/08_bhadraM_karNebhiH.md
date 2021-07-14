@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-bhadráṃ kárṇebhiḥ śr̥ṇuyāma devā  
-bhadrám paśyema akṣábhir yajatrāḥ  
-sthiraír áṅgais tuṣṭuvā́ṃsas tanū́bhir  
-ví aśema deváhitaṃ yád ā́yuḥ  
+भद्रं꣡ क꣡र्णेभिः शृणुयाम देवा  
+भद्र꣡म् पश्येम अक्ष꣡भिर् यजत्राः  
+स्थिरइ꣡र् अ꣡ङ्गैस् तुष्टुवां꣡सस् तनू꣡भिर्  
+वि꣡ अशेम देव꣡हितं य꣡द् आ꣡युः  

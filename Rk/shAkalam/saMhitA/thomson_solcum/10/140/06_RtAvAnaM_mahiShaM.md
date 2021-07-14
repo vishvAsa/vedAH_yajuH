@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-r̥tā́vānam mahiṣáṃ viśvádarśatam  
-agníṃ sumnā́ya dadhire puró jánāḥ  
-śrútkarṇaṃ sapráthastamaṃ tuvā girā́  
-daíviyam mā́nuṣā yugā́  
+ऋता꣡वानम् महिषं꣡ विश्व꣡दर्शतम्  
+अग्निं꣡ सुम्ना꣡य दधिरे पुरो꣡ ज꣡नाः  
+श्रु꣡त्कर्णं सप्र꣡थस्तमं तुवा गिरा꣡  
+दइ꣡वियम् मा꣡नुषा युगा꣡  

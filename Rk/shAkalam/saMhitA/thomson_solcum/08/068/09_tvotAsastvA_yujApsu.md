@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-tuvótāsas tuvā́ yujā́  
-apsú sū́rye mahád dhánam  
-jáyema pr̥tsú vajrivaḥ  
+तुवो꣡तासस् तुवा꣡ युजा꣡  
+अप्सु꣡ सू꣡र्ये मह꣡द् ध꣡नम्  
+ज꣡येम पृत्सु꣡ वज्रिवः  

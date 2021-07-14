@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-ánu pū́rvāṇi okíyā  
-sāmrājiyásya saścima  
-mitrásya vratā́ váruṇasya dīrghaśrút  
+अ꣡नु पू꣡र्वाणि ओकि꣡या  
+साम्राजिय꣡स्य सश्चिम  
+मित्र꣡स्य व्रता꣡ व꣡रुणस्य दीर्घश्रु꣡त्  

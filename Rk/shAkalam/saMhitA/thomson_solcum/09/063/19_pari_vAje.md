@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-pári vā́je ná vājayúm  
-ávyo vā́reṣu siñcata  
-índrāya mádhumattamam  
+प꣡रि वा꣡जे न꣡ वाजयु꣡म्  
+अ꣡व्यो वा꣡रेषु सिञ्चत  
+इ꣡न्द्राय म꣡धुमत्तमम्  

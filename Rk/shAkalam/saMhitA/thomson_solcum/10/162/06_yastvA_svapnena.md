@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yás tvā svápnena támasā  
-mohayitvā́ nipádyate  
-prajā́ṃ yás te jíghāṃsati  
-tám itó nāśayāmasi  
+य꣡स् त्वा स्व꣡प्नेन त꣡मसा  
+मोहयित्वा꣡ निप꣡द्यते  
+प्रजां꣡ य꣡स् ते जि꣡घांसति  
+त꣡म् इतो꣡ नाशयामसि  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-utá naḥ sudiyótmā jīráaśvo  
-hótā mandráḥ śr̥ṇavac candrárathaḥ  
-sá no neṣan néṣatamair ámūro  
-agnír vāmáṃ suvitáṃ vásyo ácha  
+उत꣡ नः सुदियो꣡त्मा जीर꣡अश्वो  
+हो꣡ता मन्द्रः꣡ शृणवच् चन्द्र꣡रथः  
+स꣡ नो नेषन् ने꣡षतमैर् अ꣡मूरो  
+अग्नि꣡र् वामं꣡ सुवितं꣡ व꣡स्यो अ꣡छ  

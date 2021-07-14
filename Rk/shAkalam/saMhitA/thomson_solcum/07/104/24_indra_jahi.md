@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-índra jahí púmāṃsaṃ yātudhā́nam  
-utá stríyam māyáyā śā́śadānām  
-vígrīvāso mū́radevā r̥dantu  
-mā́ té dr̥śan sū́riyam uccárantam  
+इ꣡न्द्र जहि꣡ पु꣡मांसं यातुधा꣡नम्  
+उत꣡ स्त्रि꣡यम् माय꣡या शा꣡शदानाम्  
+वि꣡ग्रीवासो मू꣡रदेवा ऋदन्तु  
+मा꣡ ते꣡ दृशन् सू꣡रियम् उच्च꣡रन्तम्  

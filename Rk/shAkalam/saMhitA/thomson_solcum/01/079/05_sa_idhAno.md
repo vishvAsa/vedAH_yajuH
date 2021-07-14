@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sá idhānó vásuṣ kavír  
-agnír īḷéniyo girā́  
-revád asmábhya° purvaṇīka dīdihi  
+स꣡ इधानो꣡ व꣡सुष् कवि꣡र्  
+अग्नि꣡र् ईऌए꣡नियो गिरा꣡  
+रेव꣡द् अस्म꣡भ्य° पुर्वणीक दीदिहि  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-sám asya manyáve víśo  
-víśvā namanta kr̥ṣṭáyaḥ  
-samudrā́yeva síndhavaḥ  
+स꣡म् अस्य मन्य꣡वे वि꣡शो  
+वि꣡श्वा नमन्त कृष्ट꣡यः  
+समुद्रा꣡येव सि꣡न्धवः  

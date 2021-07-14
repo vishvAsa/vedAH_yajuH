@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-piśáṅgabhr̥ṣṭim ambhr̥ṇám  
-piśā́cim indra sám mr̥ṇa  
-sárvaṃ rákṣo ní barhaya  
+पिश꣡ङ्गभृष्टिम् अम्भृण꣡म्  
+पिशा꣡चिम् इन्द्र स꣡म् मृण  
+स꣡र्वं र꣡क्षो नि꣡ बर्हय  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ vā́tasya dhrájato ranta ityā́  
-ápīpayanta dhenávo ná sū́dāḥ  
-mahó diváḥ sádane jā́yamāno  
-ácikradad vr̥ṣabháḥ sásmin ū́dhan  
+आ꣡ वा꣡तस्य ध्र꣡जतो रन्त इत्या꣡  
+अ꣡पीपयन्त धेन꣡वो न꣡ सू꣡दाः  
+महो꣡ दिवः꣡ स꣡दने जा꣡यमानो  
+अ꣡चिक्रदद् वृषभः꣡ स꣡स्मिन् ऊ꣡धन्  

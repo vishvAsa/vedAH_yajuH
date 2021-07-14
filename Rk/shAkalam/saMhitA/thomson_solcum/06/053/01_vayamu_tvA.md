@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-vayám u tvā pathas pate  
-ráthaṃ ná vā́jasātaye  
-dhiyé pūṣann ayujmahi  
+वय꣡म् उ त्वा पथस् पते  
+र꣡थं न꣡ वा꣡जसातये  
+धिये꣡ पूषन्न् अयुज्महि  

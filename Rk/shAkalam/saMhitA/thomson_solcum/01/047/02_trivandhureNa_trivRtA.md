@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-trivandhuréṇa trivŕ̥tā supéśasā  
-ráthenā́ yātam aśvinā  
-káṇvāso vām bráhma kr̥ṇvanti adhvaré  
-téṣāṃ sú śr̥ṇutaṃ hávam  
+त्रिवन्धुरे꣡ण त्रिव्ŕ̥ता सुपे꣡शसा  
+र꣡थेना꣡ यातम् अश्विना  
+क꣡ण्वासो वाम् ब्र꣡ह्म कृण्वन्ति अध्वरे꣡  
+ते꣡षां सु꣡ शृणुतं ह꣡वम्  

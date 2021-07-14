@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-nákiṣ ṭuvád rathī́taro  
-hárī yád indra yáchase  
-nákiṣ ṭuvā́nu majmánā  
-nákiḥ suáśva ānaśe  
+न꣡किष् टुव꣡द् रथी꣡तरो  
+ह꣡री य꣡द् इन्द्र य꣡छसे  
+न꣡किष् टुवा꣡नु मज्म꣡ना  
+न꣡किः सुअ꣡श्व आनशे  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́d íd dhótāraṃ vr̥ṇate díviṣṭiṣu  
-bhágam iva papr̥cānā́sa r̥ñjate  
-devā́n yát krátvā majmánā puruṣṭutó  
-mártaṃ śáṃsaṃ viśvádhā véti dhā́yase  
+आ꣡द् इ꣡द् धो꣡तारं वृणते दि꣡विष्टिषु  
+भ꣡गम् इव पपृचाना꣡स ऋञ्जते  
+देवा꣡न् य꣡त् क्र꣡त्वा मज्म꣡ना पुरुष्टुतो꣡  
+म꣡र्तं शं꣡सं विश्व꣡धा वे꣡ति धा꣡यसे  

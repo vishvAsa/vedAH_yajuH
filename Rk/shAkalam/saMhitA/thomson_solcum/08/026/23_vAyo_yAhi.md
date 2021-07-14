@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-vā́yo yāhí śivā́ divó  
-váhasvā sú suáśviyam  
-váhasva maháḥ pr̥thupákṣasā ráthe  
+वा꣡यो याहि꣡ शिवा꣡ दिवो꣡  
+व꣡हस्वा सु꣡ सुअ꣡श्वियम्  
+व꣡हस्व महः꣡ पृथुप꣡क्षसा र꣡थे  

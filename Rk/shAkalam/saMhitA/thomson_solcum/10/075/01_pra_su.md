@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá sú va āpo mahimā́nam uttamáṃ  
-kārúr vocāti sádane vivásvataḥ  
-prá saptá-sapta trẽdhā́ hí cakramúḥ  
-prá sŕ̥tvarīṇām áti síndhur ójasā  
+प्र꣡ सु꣡ व आपो महिमा꣡नम् उत्तमं꣡  
+कारु꣡र् वोचाति स꣡दने विव꣡स्वतः  
+प्र꣡ सप्त꣡-सप्त त्र्ẽधा꣡ हि꣡ चक्रमुः꣡  
+प्र꣡ स्ŕ̥त्वरीणाम् अ꣡ति सि꣡न्धुर् ओ꣡जसा  

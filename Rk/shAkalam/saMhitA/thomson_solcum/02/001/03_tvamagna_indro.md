@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tvám agna índro vr̥ṣabháḥ satā́m asi  
-tuváṃ víṣṇur urugāyó namasíyaḥ  
-tuvám brahmā́ rayivíd brahmaṇas pate  
-tuváṃ vidhartaḥ sacase púraṃdhiyā  
+त्व꣡म् अग्न इ꣡न्द्रो वृषभः꣡ सता꣡म् असि  
+तुवं꣡ वि꣡ष्णुर् उरुगायो꣡ नमसि꣡यः  
+तुव꣡म् ब्रह्मा꣡ रयिवि꣡द् ब्रह्मणस् पते  
+तुवं꣡ विधर्तः सचसे पु꣡रंधिया  

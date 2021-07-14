@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-pávamānasya te vayám  
-pavítram abhiundatáḥ  
-sakhitvám ā́ vr̥ṇīmahe  
+प꣡वमानस्य ते वय꣡म्  
+पवि꣡त्रम् अभिउन्दतः꣡  
+सखित्व꣡म् आ꣡ वृणीमहे  

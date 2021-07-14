@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-ékasyā vástor āvataṃ ráṇāya  
-váśam aśvinā sanáye sahásrā  
-nír ahataṃ duchúnā índravantā  
-pr̥thuśrávaso vr̥ṣaṇāv árātīḥ  
+ए꣡कस्या व꣡स्तोर् आवतं र꣡णाय  
+व꣡शम् अश्विना सन꣡ये सह꣡स्रा  
+नि꣡र् अहतं दुछु꣡ना इ꣡न्द्रवन्ता  
+पृथुश्र꣡वसो वृषणाव् अ꣡रातीः  

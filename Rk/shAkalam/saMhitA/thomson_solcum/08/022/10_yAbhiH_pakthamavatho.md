@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yā́bhiḥ pakthám ávatho yā́bhir ádhriguṃ  
-yā́bhir babhrúṃ víjoṣasam  
-tā́bhir no makṣū́ tū́yam aśvinā́ gatam  
-bhiṣajyátaṃ yád ā́turam  
+या꣡भिः पक्थ꣡म् अ꣡वथो या꣡भिर् अ꣡ध्रिगुं  
+या꣡भिर् बभ्रुं꣡ वि꣡जोषसम्  
+ता꣡भिर् नो मक्षू꣡ तू꣡यम् अश्विना꣡ गतम्  
+भिषज्य꣡तं य꣡द् आ꣡तुरम्  

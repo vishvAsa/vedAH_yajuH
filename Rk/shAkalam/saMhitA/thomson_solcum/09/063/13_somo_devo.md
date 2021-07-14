@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-sómo devó ná sū́riyo  
-ádribhiḥ pavate sutáḥ  
-dádhānaḥ kaláśe rásam  
+सो꣡मो देवो꣡ न꣡ सू꣡रियो  
+अ꣡द्रिभिः पवते सुतः꣡  
+द꣡धानः कल꣡शे र꣡सम्  

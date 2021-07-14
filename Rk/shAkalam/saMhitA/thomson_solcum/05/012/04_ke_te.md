@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ké te agne ripáve bándhanāsaḥ  
-ké pāyávaḥ saniṣanta dyumántaḥ  
-ké dhāsím agne ánr̥tasya pānti  
-ká ā́sato vácasaḥ santi gopā́ḥ  
+के꣡ ते अग्ने रिप꣡वे ब꣡न्धनासः  
+के꣡ पाय꣡वः सनिषन्त द्युम꣡न्तः  
+के꣡ धासि꣡म् अग्ने अ꣡नृतस्य पान्ति  
+क꣡ आ꣡सतो व꣡चसः सन्ति गोपाः꣡  

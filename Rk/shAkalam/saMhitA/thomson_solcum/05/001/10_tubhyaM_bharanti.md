@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-túbhyam bharanti kṣitáyo yaviṣṭha  
-balím agne ántita ótá dūrā́t  
-ā́ bhándiṣṭhasya sumatíṃ cikiddhi  
-br̥hát te agne máhi śárma bhadrám  
+तु꣡भ्यम् भरन्ति क्षित꣡यो यविष्ठ  
+बलि꣡म् अग्ने अ꣡न्तित ओ꣡त꣡ दूरा꣡त्  
+आ꣡ भ꣡न्दिष्ठस्य सुमतिं꣡ चिकिद्धि  
+बृह꣡त् ते अग्ने म꣡हि श꣡र्म भद्र꣡म्  

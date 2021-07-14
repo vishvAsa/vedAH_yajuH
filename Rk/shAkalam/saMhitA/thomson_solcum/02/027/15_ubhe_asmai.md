@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-ubhé asmai pīpayataḥ samīcī́  
-divó vr̥ṣṭíṃ subhágo nā́ma púṣyan  
-ubhā́ kṣáyāv ājáyan yāti pr̥tsú  
-ubhā́v árdhau bhavataḥ sādhū́ asmai  
+उभे꣡ अस्मै पीपयतः समीची꣡  
+दिवो꣡ वृष्टिं꣡ सुभ꣡गो ना꣡म पु꣡ष्यन्  
+उभा꣡ क्ष꣡याव् आज꣡यन् याति पृत्सु꣡  
+उभा꣡व् अ꣡र्धौ भवतः साधू꣡ अस्मै  

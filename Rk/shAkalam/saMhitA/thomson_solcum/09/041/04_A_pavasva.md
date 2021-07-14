@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ā́ pavasva mahī́m íṣaṃ  
-gómad indo híraṇyavat  
-áśvāvad vā́javat sutáḥ  
+आ꣡ पवस्व मही꣡म् इ꣡षं  
+गो꣡मद् इन्दो हि꣡रण्यवत्  
+अ꣡श्वावद् वा꣡जवत् सुतः꣡  

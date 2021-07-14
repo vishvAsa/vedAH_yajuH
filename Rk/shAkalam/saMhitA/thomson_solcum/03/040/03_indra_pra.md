@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-índra prá ṇo dhitā́vānaṃ  
-yajñáṃ víśvebhir devébhiḥ  
-tirá stavāna viśpate  
+इ꣡न्द्र प्र꣡ णो धिता꣡वानं  
+यज्ञं꣡ वि꣡श्वेभिर् देवे꣡भिः  
+तिर꣡ स्तवान विश्पते  

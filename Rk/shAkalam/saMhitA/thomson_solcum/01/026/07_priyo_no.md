@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-priyó no astu viśpátir  
-hótā mandró váreṇiyaḥ  
-priyā́ḥ suagnáyo vayám  
+प्रियो꣡ नो अस्तु विश्प꣡तिर्  
+हो꣡ता मन्द्रो꣡ व꣡रेणियः  
+प्रियाः꣡ सुअग्न꣡यो वय꣡म्  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-abhí tvā pā́jo rakṣáso ví tasthe  
-máhi jajñānám abhí tát sú tiṣṭha  
-táva pratnéna yújiyena sákhyā  
-vájreṇa dhr̥ṣṇo ápa tā́ nudasva  
+अभि꣡ त्वा पा꣡जो रक्ष꣡सो वि꣡ तस्थे  
+म꣡हि जज्ञान꣡म् अभि꣡ त꣡त् सु꣡ तिष्ठ  
+त꣡व प्रत्ने꣡न यु꣡जियेन स꣡ख्या  
+व꣡ज्रेण धृष्णो अ꣡प ता꣡ नुदस्व  

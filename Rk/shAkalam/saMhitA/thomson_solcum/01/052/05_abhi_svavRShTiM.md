@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-abhí svávr̥ṣṭim máde asya yúdhyato  
-raghvī́r iva pravaṇé sasrur ūtáyaḥ  
-índro yád vajrī́ dhr̥ṣámāṇo ándhasā  
-bhinád valásya paridhī́m̐r iva tritáḥ  
+अभि꣡ स्व꣡वृष्टिम् म꣡दे अस्य यु꣡ध्यतो  
+रघ्वी꣡र् इव प्रवणे꣡ सस्रुर् ऊत꣡यः  
+इ꣡न्द्रो य꣡द् वज्री꣡ धृष꣡माणो अ꣡न्धसा  
+भिन꣡द् वल꣡स्य परिधीँ꣡र् इव त्रितः꣡  

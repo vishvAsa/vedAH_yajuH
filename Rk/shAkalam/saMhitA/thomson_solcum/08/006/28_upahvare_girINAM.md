@@ -2,6 +2,6 @@
 title = "028"
 
 +++
-upahvaré girīṇã́ṃ  
-saṃgathé ca nadī́nãm  
-dhiyā́ vípro ajāyata  
+उपह्वरे꣡ गिरीण्ãं꣡  
+संगथे꣡ च नदी꣡न्ãम्  
+धिया꣡ वि꣡प्रो अजायत  

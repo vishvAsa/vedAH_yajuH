@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-adyā́ dūtáṃ vr̥ṇīmahe  
-vásum agním purupriyám  
-dhūmáketum bhā́r̥jīkaṃ víuṣṭiṣu  
-yajñā́nām adhvaraśríyam  
+अद्या꣡ दूतं꣡ वृणीमहे  
+व꣡सुम् अग्नि꣡म् पुरुप्रिय꣡म्  
+धूम꣡केतुम् भा꣡ऋजीकं वि꣡उष्टिषु  
+यज्ञा꣡नाम् अध्वरश्रि꣡यम्  

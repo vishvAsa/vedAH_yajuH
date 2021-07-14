@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́ nā́mabhir marúto vakṣi víśvān  
-ā́ rūpébhir jātavedo huvānáḥ  
-yajñáṃ gíro jaritúḥ suṣṭutíṃ ca  
-víśve ganta maruto víśva ūtī́  
+आ꣡ ना꣡मभिर् मरु꣡तो वक्षि वि꣡श्वान्  
+आ꣡ रूपे꣡भिर् जातवेदो हुवानः꣡  
+यज्ञं꣡ गि꣡रो जरितुः꣡ सुष्टुतिं꣡ च  
+वि꣡श्वे गन्त मरुतो वि꣡श्व ऊती꣡  

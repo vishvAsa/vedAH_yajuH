@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ devó dūtó ajiráś cikitvā́n  
-tuvád devāpe abhí mā́m agachat  
-pratīcīnáḥ práti mā́m ā́ vavr̥tsva  
-dádhāmi te dyumátīṃ vā́cam āsán  
+आ꣡ देवो꣡ दूतो꣡ अजिर꣡श् चिकित्वा꣡न्  
+तुव꣡द् देवापे अभि꣡ मा꣡म् अगछत्  
+प्रतीचीनः꣡ प्र꣡ति मा꣡म् आ꣡ ववृत्स्व  
+द꣡धामि ते द्युम꣡तीं वा꣡चम् आस꣡न्  

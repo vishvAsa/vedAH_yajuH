@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ te pitar marutāṃ sumnám etu  
-mā́ naḥ sū́ryasya saṃdŕ̥śo yuyothāḥ  
-abhí no vīró árvati kṣameta  
-prá jāyemahi rudara+ prajā́bhiḥ  
+आ꣡ ते पितर् मरुतां सुम्न꣡म् एतु  
+मा꣡ नः सू꣡र्यस्य संद्ŕ̥शो युयोथाः  
+अभि꣡ नो वीरो꣡ अ꣡र्वति क्षमेत  
+प्र꣡ जायेमहि रुदर+ प्रजा꣡भिः  

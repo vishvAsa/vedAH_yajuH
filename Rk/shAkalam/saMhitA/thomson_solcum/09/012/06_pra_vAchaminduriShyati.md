@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-prá vā́cam índur iṣyati  
-samudrásyā́dhi viṣṭápi  
-jínvan kóśam madhuścútam  
+प्र꣡ वा꣡चम् इ꣡न्दुर् इष्यति  
+समुद्र꣡स्या꣡धि विष्ट꣡पि  
+जि꣡न्वन् को꣡शम् मधुश्चु꣡तम्  

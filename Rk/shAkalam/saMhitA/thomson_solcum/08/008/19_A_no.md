@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-ā́ no gantam mayobhúvā  
-áśvinā śambhúvā yuvám  
-yó vāṃ vipanyū dhītíbhir  
-gīrbhír vatsó ávīvr̥dhat  
+आ꣡ नो गन्तम् मयोभु꣡वा  
+अ꣡श्विना शम्भु꣡वा युव꣡म्  
+यो꣡ वां विपन्यू धीति꣡भिर्  
+गीर्भि꣡र् वत्सो꣡ अ꣡वीवृधत्  

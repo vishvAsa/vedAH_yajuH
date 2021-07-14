@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yám agním médhiyātithiḥ  
-káṇva īdhá r̥tā́d ádhi  
-tásya préṣo dīdiyus tám imā́ ŕ̥cas  
-tám agníṃ vardhayāmasi  
+य꣡म् अग्नि꣡म् मे꣡धियातिथिः  
+क꣡ण्व ईध꣡ ऋता꣡द् अ꣡धि  
+त꣡स्य प्रे꣡षो दीदियुस् त꣡म् इमा꣡ ŕ̥चस्  
+त꣡म् अग्निं꣡ वर्धयामसि  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ŕ̥tadhītaya ā́ gata  
-sátyadharmāṇo adhvarám  
-agnéḥ pibata jihváyā  
+ŕ̥तधीतय आ꣡ गत  
+स꣡त्यधर्माणो अध्वर꣡म्  
+अग्नेः꣡ पिबत जिह्व꣡या  

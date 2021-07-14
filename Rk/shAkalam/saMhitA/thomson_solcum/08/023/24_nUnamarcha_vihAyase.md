@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-nūnám arca víhāyase  
-stómebhi sthūrayūpavát  
-ŕ̥ṣe vaiyaśva dámiyāya agnáye  
+नून꣡म् अर्च वि꣡हायसे  
+स्तो꣡मेभि स्थूरयूपव꣡त्  
+ŕ̥षे वैयश्व द꣡मियाय अग्न꣡ये  

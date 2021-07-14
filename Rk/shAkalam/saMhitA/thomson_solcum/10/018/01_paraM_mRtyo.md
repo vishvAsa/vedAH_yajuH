@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-páram mr̥tyo ánu párehi pánthāṃ  
-yás te suvá ítaro devayā́nāt  
-cákṣuṣmate śr̥ṇvaté te bravīmi  
-mā́ naḥ prajā́ṃ rīriṣo mótá vīrā́n  
+प꣡रम् मृत्यो अ꣡नु प꣡रेहि प꣡न्थां  
+य꣡स् ते सुव꣡ इ꣡तरो देवया꣡नात्  
+च꣡क्षुष्मते शृण्वते꣡ ते ब्रवीमि  
+मा꣡ नः प्रजां꣡ रीरिषो मो꣡त꣡ वीरा꣡न्  

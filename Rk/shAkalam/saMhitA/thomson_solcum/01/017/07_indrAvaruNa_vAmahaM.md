@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-índrāvaruṇa vām aháṃ  
-huvé citrā́ya rā́dhase  
-asmā́n sú jigyúṣas kr̥tam  
+इ꣡न्द्रावरुण वाम् अहं꣡  
+हुवे꣡ चित्रा꣡य रा꣡धसे  
+अस्मा꣡न् सु꣡ जिग्यु꣡षस् कृतम्  

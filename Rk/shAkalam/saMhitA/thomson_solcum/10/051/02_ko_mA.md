@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kó mā dadarśa katamáḥ sá devó  
-yó me tanvò bahudhā́ paryápaśyat  
-kuvā́ha mitrāvaruṇā kṣiyanti  
-agnér víśvāḥ samídho devayā́nīḥ  
+को꣡ मा ददर्श कतमः꣡ स꣡ देवो꣡  
+यो꣡ मे तन्वो᳡ बहुधा꣡ पर्य꣡पश्यत्  
+कुवा꣡ह मित्रावरुणा क्षियन्ति  
+अग्ने꣡र् वि꣡श्वाः समि꣡धो देवया꣡नीः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yóniṣ ṭa indra sádane akāri  
-tám ā́ nŕ̥bhiḥ puruhūta prá yāhi  
-áso yáthā no avitā́ vr̥dhé ca  
-dádo vásūni mamádaś ca sómaiḥ  
+यो꣡निष् ट इन्द्र स꣡दने अकारि  
+त꣡म् आ꣡ न्ŕ̥भिः पुरुहूत प्र꣡ याहि  
+अ꣡सो य꣡था नो अविता꣡ वृधे꣡ च  
+द꣡दो व꣡सूनि मम꣡दश् च सो꣡मैः  

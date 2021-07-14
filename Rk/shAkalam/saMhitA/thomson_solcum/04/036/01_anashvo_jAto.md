@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-anaśvó jātó anabhīśúr ukthíyo  
-ráthas tricakráḥ pári vartate rájaḥ  
-mahát tád vo devíyasya pravā́canaṃ  
-dyā́m r̥bhavaḥ pr̥thivī́ṃ yác ca púṣyatha  
+अनश्वो꣡ जातो꣡ अनभीशु꣡र् उक्थि꣡यो  
+र꣡थस् त्रिचक्रः꣡ प꣡रि वर्तते र꣡जः  
+मह꣡त् त꣡द् वो देवि꣡यस्य प्रवा꣡चनं  
+द्या꣡म् ऋभवः पृथिवीं꣡ य꣡च् च पु꣡ष्यथ  

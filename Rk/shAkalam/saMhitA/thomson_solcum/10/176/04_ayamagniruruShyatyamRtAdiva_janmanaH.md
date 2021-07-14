@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ayám agnír uruṣyati  
-amŕ̥tād iva jánmanaḥ  
-sáhasaś cid sáhīyān  
-devó jīvā́tave kr̥táḥ  
+अय꣡म् अग्नि꣡र् उरुष्यति  
+अम्ŕ̥ताद् इव ज꣡न्मनः  
+स꣡हसश् चिद् स꣡हीयान्  
+देवो꣡ जीवा꣡तवे कृतः꣡  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-havíṣ kr̥ṇudhvam ā́ gamad  
-adhvaryúr vanate púnaḥ  
-vidvā́m̐ asya praśā́sanam  
+हवि꣡ष् कृणुध्वम् आ꣡ गमद्  
+अध्वर्यु꣡र् वनते पु꣡नः  
+विद्वाँ꣡ अस्य प्रशा꣡सनम्  

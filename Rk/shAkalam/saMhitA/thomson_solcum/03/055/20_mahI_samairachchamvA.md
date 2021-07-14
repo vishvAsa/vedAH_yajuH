@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-mahī́ sám airac camúvā samīcī́  
-ubhé té asya vásunā nír̥ṣṭe  
-śr̥ṇvé vīró vindámāno vásūni  
-mahád devā́nām asuratvám ékam  
+मही꣡ स꣡म् ऐरच् चमु꣡वा समीची꣡  
+उभे꣡ ते꣡ अस्य व꣡सुना नि꣡ऋष्टे  
+शृण्वे꣡ वीरो꣡ विन्द꣡मानो व꣡सूनि  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

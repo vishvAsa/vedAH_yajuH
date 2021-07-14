@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-távéd indrāhám āśásā  
-háste dā́traṃ canā́ dade  
-dinásya vā maghavan sámbhr̥tasya vā  
-pūrdhí yávasya kāśínā  
+त꣡वे꣡द् इन्द्राह꣡म् आश꣡सा  
+ह꣡स्ते दा꣡त्रं चना꣡ ददे  
+दिन꣡स्य वा मघवन् स꣡म्भृतस्य वा  
+पूर्धि꣡ य꣡वस्य काशि꣡ना  

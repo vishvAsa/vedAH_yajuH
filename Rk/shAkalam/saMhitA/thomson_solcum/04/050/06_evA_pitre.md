@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-evā́ pitré viśvádevāya vŕ̥ṣṇe  
-yajñaír vidhema námasā havírbhiḥ  
-bŕ̥haspate suprajā́ vīrávanto  
-vayáṃ siyāma pátayo rayīṇā́m  
+एवा꣡ पित्रे꣡ विश्व꣡देवाय व्ŕ̥ष्णे  
+यज्ञइ꣡र् विधेम न꣡मसा हवि꣡र्भिः  
+ब्ŕ̥हस्पते सुप्रजा꣡ वीर꣡वन्तो  
+वयं꣡ सियाम प꣡तयो रयीणा꣡म्  

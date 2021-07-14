@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-túbhyaṃ tā́ aṅgirastama  
-víśvāḥ sukṣitáyaḥ pŕ̥thak  
-ágne kā́māya yemire  
+तु꣡भ्यं ता꣡ अङ्गिरस्तम  
+वि꣡श्वाः सुक्षित꣡यः प्ŕ̥थक्  
+अ꣡ग्ने का꣡माय येमिरे  

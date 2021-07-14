@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-asmé rudrā́ mehánā párvatāso  
-vr̥trahátye bhárahūtau sajóṣāḥ  
-yáḥ śáṃsate stuvaté dhā́yi pajrá  
-índrajyeṣṭhā asmā́m̐ avantu devā́ḥ  
+अस्मे꣡ रुद्रा꣡ मेह꣡ना प꣡र्वतासो  
+वृत्रह꣡त्ये भ꣡रहूतौ सजो꣡षाः  
+यः꣡ शं꣡सते स्तुवते꣡ धा꣡यि पज्र꣡  
+इ꣡न्द्रज्येष्ठा अस्माँ꣡ अवन्तु देवाः꣡  

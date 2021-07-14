@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-árāvīd aṃśúḥ sácamāna ūrmíṇā  
-devāvíyam mánuṣe pinvati tvácam  
-dádhāti gárbham áditer upástha ā́  
-yéna tokáṃ ca tánayaṃ ca dhā́mahe  
+अ꣡रावीद् अंशुः꣡ स꣡चमान ऊर्मि꣡णा  
+देवावि꣡यम् म꣡नुषे पिन्वति त्व꣡चम्  
+द꣡धाति ग꣡र्भम् अ꣡दितेर् उप꣡स्थ आ꣡  
+ये꣡न तोकं꣡ च त꣡नयं च धा꣡महे  

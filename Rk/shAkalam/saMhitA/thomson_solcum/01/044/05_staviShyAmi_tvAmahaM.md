@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-staviṣyā́mi tuvā́m aháṃ  
-víśvasyāmr̥ta bhojana  
-ágne trātā́ram amŕ̥tam miyedhiya  
-yájiṣṭhaṃ havyavāhana  
+स्तविष्या꣡मि तुवा꣡म् अहं꣡  
+वि꣡श्वस्यामृत भोजन  
+अ꣡ग्ने त्राता꣡रम् अम्ŕ̥तम् मियेधिय  
+य꣡जिष्ठं हव्यवाहन  

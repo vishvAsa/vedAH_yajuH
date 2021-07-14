@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-nīcī́nabāraṃ váruṇaḥ kávandham  
-prá sasarja ródasī antárikṣam  
-téna víśvasya bhúvanasya rā́jā  
-yávaṃ ná vr̥ṣṭír ví unatti bhū́ma  
+नीची꣡नबारं व꣡रुणः क꣡वन्धम्  
+प्र꣡ ससर्ज रो꣡दसी अन्त꣡रिक्षम्  
+ते꣡न वि꣡श्वस्य भु꣡वनस्य रा꣡जा  
+य꣡वं न꣡ वृष्टि꣡र् वि꣡ उनत्ति भू꣡म  

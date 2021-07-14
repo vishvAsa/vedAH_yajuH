@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-nahí anyám baḷā́karam  
-marḍitā́raṃ śatakrato  
-tuváṃ na indra mr̥̄ḷaya+  
+नहि꣡ अन्य꣡म् बऌआ꣡करम्  
+मर्डिता꣡रं शतक्रतो  
+तुवं꣡ न इन्द्र मॄऌअय+  

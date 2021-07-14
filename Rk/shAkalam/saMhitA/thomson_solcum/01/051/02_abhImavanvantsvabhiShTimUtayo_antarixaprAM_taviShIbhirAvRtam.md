@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-abhī́m avanvan suabhiṣṭím ūtáyo  
-antarikṣaprā́ṃ táviṣībhir ā́vr̥tam  
-índraṃ dákṣāsa r̥bhávo madacyútaṃ  
-śatákratuṃ jávanī sūnŕ̥tā́ruhat  
+अभी꣡म् अवन्वन् सुअभिष्टि꣡म् ऊत꣡यो  
+अन्तरिक्षप्रां꣡ त꣡विषीभिर् आ꣡वृतम्  
+इ꣡न्द्रं द꣡क्षास ऋभ꣡वो मदच्यु꣡तं  
+शत꣡क्रतुं ज꣡वनी सून्ŕ̥ता꣡रुहत्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sáṃ yán mahī́ mithatī́ spárdhamāne  
-tanūrúcā śū́rasātā yátaite  
-ádevayuṃ vidáthe devayúbhiḥ  
-satrā́ hataṃ somasútā jánena  
+सं꣡ य꣡न् मही꣡ मिथती꣡ स्प꣡र्धमाने  
+तनूरु꣡चा शू꣡रसाता य꣡तैते  
+अ꣡देवयुं विद꣡थे देवयु꣡भिः  
+सत्रा꣡ हतं सोमसु꣡ता ज꣡नेन  

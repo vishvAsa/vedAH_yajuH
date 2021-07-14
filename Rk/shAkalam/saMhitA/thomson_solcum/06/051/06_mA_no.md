@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-mā́ no vŕ̥kāya vr̥kíye samasmā  
-aghāyaté rīradhatā yajatrāḥ  
-yūyáṃ hí ṣṭhā́ rathíyo nas tanū́nāṃ  
-yūyáṃ dákṣasya vácaso babhūvá  
+मा꣡ नो व्ŕ̥काय वृकि꣡ये समस्मा  
+अघायते꣡ रीरधता यजत्राः  
+यूयं꣡ हि꣡ ष्ठा꣡ रथि꣡यो नस् तनू꣡नां  
+यूयं꣡ द꣡क्षस्य व꣡चसो बभूव꣡  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tuvám agne vanuṣyató ní pāhi  
-tuvám u naḥ sahasāvann avadyā́t  
-sáṃ tvā dhvasmanvád abhí etu pā́thaḥ  
-sáṃ rayí spr̥hayā́yiyaḥ sahasrī́  
+तुव꣡म् अग्ने वनुष्यतो꣡ नि꣡ पाहि  
+तुव꣡म् उ नः सहसावन्न् अवद्या꣡त्  
+सं꣡ त्वा ध्वस्मन्व꣡द् अभि꣡ एतु पा꣡थः  
+सं꣡ रयि꣡ स्पृहया꣡यियः सहस्री꣡  

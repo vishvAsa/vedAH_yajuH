@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-trātā́ no bodhi dádr̥śāna āpír  
-abhikhyātā́ marḍitā́ somiyā́nām  
-sákhā pitā́ pitŕ̥tamaḥ pitr̥̄ṇā́ṃ  
-kártem ulokám† uśaté vayodhā́ḥ  
+त्राता꣡ नो बोधि द꣡दृशान आपि꣡र्  
+अभिख्याता꣡ मर्डिता꣡ सोमिया꣡नाम्  
+स꣡खा पिता꣡ पित्ŕ̥तमः पितॄणां꣡  
+क꣡र्तेम् उलोक꣡म्† उशते꣡ वयोधाः꣡  

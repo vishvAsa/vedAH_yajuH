@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-agníṃ vaḥ pūrviyáṃ girā́  
-devám īḷe vásūnãm  
-saparyántaḥ purupriyám  
-mitráṃ ná kṣetrasā́dhasam  
+अग्निं꣡ वः पूर्वियं꣡ गिरा꣡  
+देव꣡म् ईऌए व꣡सून्ãम्  
+सपर्य꣡न्तः पुरुप्रिय꣡म्  
+मित्रं꣡ न꣡ क्षेत्रसा꣡धसम्  

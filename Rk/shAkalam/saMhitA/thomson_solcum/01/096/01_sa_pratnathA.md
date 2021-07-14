@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sá pratnáthā sáhasā jā́yamānaḥ  
-sadyáḥ kā́vyāni báḷ adhatta víśvā  
-ā́paś ca mitráṃ dhiṣáṇā ca sādhan  
-devā́ agníṃ dhārayan draviṇodā́m  
+स꣡ प्रत्न꣡था स꣡हसा जा꣡यमानः  
+सद्यः꣡ का꣡व्यानि ब꣡ऌ अधत्त वि꣡श्वा  
+आ꣡पश् च मित्रं꣡ धिष꣡णा च साधन्  
+देवा꣡ अग्निं꣡ धारयन् द्रविणोदा꣡म्  

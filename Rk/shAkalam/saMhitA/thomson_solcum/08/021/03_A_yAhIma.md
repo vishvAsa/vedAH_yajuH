@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ā́ yāhi imá índavo  
-áśvapate gópata úrvarāpate  
-sómaṃ somapate piba  
+आ꣡ याहि इम꣡ इ꣡न्दवो  
+अ꣡श्वपते गो꣡पत उ꣡र्वरापते  
+सो꣡मं सोमपते पिब  

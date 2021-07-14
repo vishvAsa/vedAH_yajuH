@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuváṃ tám agne amr̥tatvá uttamé  
-mártaṃ dadhāsi śrávase divé-dive  
-yás tātr̥ṣāṇá ubháyāya jánmane  
-máyaḥ kr̥ṇóṣi práya ā́ ca sūráye  
+तुवं꣡ त꣡म् अग्ने अमृतत्व꣡ उत्तमे꣡  
+म꣡र्तं दधासि श्र꣡वसे दिवे꣡-दिवे  
+य꣡स् तातृषाण꣡ उभ꣡याय ज꣡न्मने  
+म꣡यः कृणो꣡षि प्र꣡य आ꣡ च सूर꣡ये  

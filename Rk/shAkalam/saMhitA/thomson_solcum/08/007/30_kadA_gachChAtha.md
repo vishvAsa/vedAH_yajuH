@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-kadā́ gachātha maruta  
-itthā́ vípraṃ hávamānam  
-mārḍīkébhir nā́dhamānam  
+कदा꣡ गछाथ मरुत  
+इत्था꣡ वि꣡प्रं ह꣡वमानम्  
+मार्डीके꣡भिर् ना꣡धमानम्  

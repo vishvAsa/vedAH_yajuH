@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-asyá stuṣe máhimaghasya rā́dhaḥ  
-sácā sanema náhuṣaḥ suvī́rāḥ  
-jáno yáḥ pajrébhiyo vājínīvān  
-áśvāvato rathíno máhya° sūríḥ  
+अस्य꣡ स्तुषे म꣡हिमघस्य रा꣡धः  
+स꣡चा सनेम न꣡हुषः सुवी꣡राः  
+ज꣡नो यः꣡ पज्रे꣡भियो वाजि꣡नीवान्  
+अ꣡श्वावतो रथि꣡नो म꣡ह्य° सूरिः꣡  

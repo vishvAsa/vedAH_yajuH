@@ -2,5 +2,5 @@
 title = "002"
 
 +++
-índras te soma sutásya peyāḥ  
-krátve dákṣāya víśve ca devā́ḥ  
+इ꣡न्द्रस् ते सोम सुत꣡स्य पेयाः  
+क्र꣡त्वे द꣡क्षाय वि꣡श्वे च देवाः꣡  

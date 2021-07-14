@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-báṇ mahā́m̐ asi sūriya  
-báḷ āditya mahā́m̐ asi  
-mahás te sató mahimā́ panasyate  
-addhā́ deva mahā́m̐ asi  
+ब꣡ण् महाँ꣡ असि सूरिय  
+ब꣡ऌ आदित्य महाँ꣡ असि  
+मह꣡स् ते सतो꣡ महिमा꣡ पनस्यते  
+अद्धा꣡ देव महाँ꣡ असि  

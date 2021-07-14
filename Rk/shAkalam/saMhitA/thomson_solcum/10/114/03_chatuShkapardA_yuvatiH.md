@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-cátuṣkapardā yuvatíḥ supéśā  
-ghr̥tápratīkā vayúnāni vaste  
-tásyāṃ suparṇā́ vŕ̥ṣaṇā ní ṣedatur  
-yátra devā́ dadhiré bhāgadhéyam  
+च꣡तुष्कपर्दा युवतिः꣡ सुपे꣡शा  
+घृत꣡प्रतीका वयु꣡नानि वस्ते  
+त꣡स्यां सुपर्णा꣡ व्ŕ̥षणा नि꣡ षेदतुर्  
+य꣡त्र देवा꣡ दधिरे꣡ भागधे꣡यम्  

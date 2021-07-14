@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-viṣṭambhó divó dharúṇaḥ pr̥thivyā́  
-víśvā utá kṣitáyo háste asya  
-ásat ta útso gr̥ṇaté niyútvān  
-mádhvo aṃśúḥ pavata indriyā́ya  
+विष्टम्भो꣡ दिवो꣡ धरु꣡णः पृथिव्या꣡  
+वि꣡श्वा उत꣡ क्षित꣡यो ह꣡स्ते अस्य  
+अ꣡सत् त उ꣡त्सो गृणते꣡ नियु꣡त्वान्  
+म꣡ध्वो अंशुः꣡ पवत इन्द्रिया꣡य  

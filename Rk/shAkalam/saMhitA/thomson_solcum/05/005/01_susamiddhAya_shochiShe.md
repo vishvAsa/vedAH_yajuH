@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-súsamiddhāya śocíṣe  
-ghr̥táṃ tīvráṃ juhotana  
-agnáye jātávedase  
+सु꣡समिद्धाय शोचि꣡षे  
+घृतं꣡ तीव्रं꣡ जुहोतन  
+अग्न꣡ये जात꣡वेदसे  

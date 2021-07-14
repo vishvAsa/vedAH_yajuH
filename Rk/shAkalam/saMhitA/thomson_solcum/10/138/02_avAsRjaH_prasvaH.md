@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ávāsr̥jaḥ prasúvaḥ śvañcáyo girī́n  
-úd āja usrā́ ápibo mádhu priyám  
-ávardhayo vaníno asya dáṃsasā  
-śuśóca sū́rya r̥tájātayā girā́  
+अ꣡वासृजः प्रसु꣡वः श्वञ्च꣡यो गिरी꣡न्  
+उ꣡द् आज उस्रा꣡ अ꣡पिबो म꣡धु प्रिय꣡म्  
+अ꣡वर्धयो वनि꣡नो अस्य दं꣡ससा  
+शुशो꣡च सू꣡र्य ऋत꣡जातया गिरा꣡  

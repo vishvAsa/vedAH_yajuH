@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-yád vaḥ śrāntā́ya sunvaté  
-várūtham ásti yác chardíḥ  
-ténā no ádhi vocata  
+य꣡द् वः श्रान्ता꣡य सुन्वते꣡  
+व꣡रूथम् अ꣡स्ति य꣡च् छर्दिः꣡  
+ते꣡ना नो अ꣡धि वोचत  

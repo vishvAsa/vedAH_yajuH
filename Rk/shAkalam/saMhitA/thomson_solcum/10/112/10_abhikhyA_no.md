@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-abhikhyā́ no maghavan nā́dhamānān  
-sákhe bodhí vasupate sákhīnām  
-ráṇaṃ kr̥dhi raṇakr̥t satyaśuṣma  
-ábhakte cid ā́ bhajā rāyé asmā́n  
+अभिख्या꣡ नो मघवन् ना꣡धमानान्  
+स꣡खे बोधि꣡ वसुपते स꣡खीनाम्  
+र꣡णं कृधि रणकृत् सत्यशुष्म  
+अ꣡भक्ते चिद् आ꣡ भजा राये꣡ अस्मा꣡न्  

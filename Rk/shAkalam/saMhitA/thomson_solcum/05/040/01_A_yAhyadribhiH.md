@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ā́ yāhi ádribhiḥ sutáṃ  
-sómaṃ somapate piba  
-vŕ̥ṣann indra vŕ̥ṣabhir vr̥trahantama  
+आ꣡ याहि अ꣡द्रिभिः सुतं꣡  
+सो꣡मं सोमपते पिब  
+व्ŕ̥षन्न् इन्द्र व्ŕ̥षभिर् वृत्रहन्तम  

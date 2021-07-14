@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-idáṃ tiyát pā́taram+ indrapā́nam  
-índrasya priyám amŕ̥tam apāyi  
-mátsad yáthā saumanasā́ya deváṃ  
-ví asmád dvéṣo yuyávad ví áṃhaḥ  
+इदं꣡ तिय꣡त् पा꣡तरम्+ इन्द्रपा꣡नम्  
+इ꣡न्द्रस्य प्रिय꣡म् अम्ŕ̥तम् अपायि  
+म꣡त्सद् य꣡था सौमनसा꣡य देवं꣡  
+वि꣡ अस्म꣡द् द्वे꣡षो युय꣡वद् वि꣡ अं꣡हः  

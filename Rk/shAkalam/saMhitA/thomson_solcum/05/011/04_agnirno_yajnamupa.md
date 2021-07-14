@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-agnír no yajñám úpa vetu sādhuyā́  
-agníṃ náro ví bharante gr̥hé-gr̥he  
-agnír dūtó abhavad dhavyavā́hano  
-agníṃ vr̥ṇānā́ vr̥ṇate kavíkratum  
+अग्नि꣡र् नो यज्ञ꣡म् उ꣡प वेतु साधुया꣡  
+अग्निं꣡ न꣡रो वि꣡ भरन्ते गृहे꣡-गृहे  
+अग्नि꣡र् दूतो꣡ अभवद् धव्यवा꣡हनो  
+अग्निं꣡ वृणाना꣡ वृणते कवि꣡क्रतुम्  

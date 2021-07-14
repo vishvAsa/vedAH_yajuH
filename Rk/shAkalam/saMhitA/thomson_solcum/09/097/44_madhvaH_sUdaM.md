@@ -2,7 +2,7 @@
 title = "044"
 
 +++
-mádhvaḥ sū́dam pavasva vásva útsaṃ  
-vīráṃ ca na ā́ pavasvā bhágaṃ ca  
-svádasvéndrāya pávamāna indo  
-rayíṃ ca na ā́ pavasvā samudrā́t  
+म꣡ध्वः सू꣡दम् पवस्व व꣡स्व उ꣡त्सं  
+वीरं꣡ च न आ꣡ पवस्वा भ꣡गं च  
+स्व꣡दस्वे꣡न्द्राय प꣡वमान इन्दो  
+रयिं꣡ च न आ꣡ पवस्वा समुद्रा꣡त्  

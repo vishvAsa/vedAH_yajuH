@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-práty u adarśi āyatī́  
-uchántī duhitā́ diváḥ  
-ápo máhi vyayati cákṣase támo  
-jyótiṣ kr̥ṇoti sūnárī  
+प्र꣡त्य् उ अदर्शि आयती꣡  
+उछ꣡न्ती दुहिता꣡ दिवः꣡  
+अ꣡पो म꣡हि व्ययति च꣡क्षसे त꣡मो  
+ज्यो꣡तिष् कृणोति सून꣡री  

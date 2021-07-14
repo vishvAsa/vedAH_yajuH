@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-sá pavasva sáhamānaḥ pr̥tanyū́n  
-sédhan rákṣāṃsi ápa durgáhāṇi  
-suāyudháḥ sāsahvā́n soma śátrūn  
+स꣡ पवस्व स꣡हमानः पृतन्यू꣡न्  
+से꣡धन् र꣡क्षांसि अ꣡प दुर्ग꣡हाणि  
+सुआयुधः꣡ सासह्वा꣡न् सोम श꣡त्रून्  

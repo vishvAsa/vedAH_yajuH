@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-hayé devā yūyám íd āpáya stha  
-té mr̥̄ḷata+ nā́dhamānāya máhyam  
-mā́ vo rátho madhyamavā́ḷ r̥té bhūn  
-mā́ yuṣmā́vatsu āpíṣu śramiṣma  
+हये꣡ देवा यूय꣡म् इ꣡द् आप꣡य स्थ  
+ते꣡ मॄऌअत+ ना꣡धमानाय म꣡ह्यम्  
+मा꣡ वो र꣡थो मध्यमवा꣡ऌ ऋते꣡ भून्  
+मा꣡ युष्मा꣡वत्सु आपि꣡षु श्रमिष्म  

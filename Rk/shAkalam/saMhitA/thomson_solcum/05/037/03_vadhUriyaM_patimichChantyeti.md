@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-vadhū́r iyám pátim ichántī eti  
-yá īṃ váhāte máhiṣīm iṣirā́m  
-ā́sya śravasyād rátha ā́ ca ghoṣāt  
-purū́ sahásrā pári vartayāte  
+वधू꣡र् इय꣡म् प꣡तिम् इछ꣡न्ती एति  
+य꣡ ईं व꣡हाते म꣡हिषीम् इषिरा꣡म्  
+आ꣡स्य श्रवस्याद् र꣡थ आ꣡ च घोषात्  
+पुरू꣡ सह꣡स्रा प꣡रि वर्तयाते  

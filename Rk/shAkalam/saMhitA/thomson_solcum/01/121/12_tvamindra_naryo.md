@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-tuvám indra náriyo yā́m̐ ávo nr̥̄́n  
-tíṣṭhā vā́tasya suyújo váhiṣṭhān  
-yáṃ te kāvyá uśánā mandínaṃ dā́d  
-vr̥traháṇam pā́ryaṃ tatakṣa vájram  
+तुव꣡म् इन्द्र न꣡रियो याँ꣡ अ꣡वो नॄ꣡न्  
+ति꣡ष्ठा वा꣡तस्य सुयु꣡जो व꣡हिष्ठान्  
+यं꣡ ते काव्य꣡ उश꣡ना मन्दि꣡नं दा꣡द्  
+वृत्रह꣡णम् पा꣡र्यं ततक्ष व꣡ज्रम्  

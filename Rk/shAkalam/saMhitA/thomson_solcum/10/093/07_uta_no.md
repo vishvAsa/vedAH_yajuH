@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-utá no rudrā́ cin mr̥̄ḷatām+ aśvínā  
-víśve devā́so ráthaspátir bhágaḥ  
-r̥bhúr vā́ja r̥bhukṣaṇaḥ  
-párijmā viśvavedasaḥ  
+उत꣡ नो रुद्रा꣡ चिन् मॄऌअताम्+ अश्वि꣡ना  
+वि꣡श्वे देवा꣡सो र꣡थस्प꣡तिर् भ꣡गः  
+ऋभु꣡र् वा꣡ज ऋभुक्षणः  
+प꣡रिज्मा विश्ववेदसः  

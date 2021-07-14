@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-jánāso vr̥ktábarhiṣo  
-havíṣmanto araṃkŕ̥taḥ  
-yuvā́ṃ havante aśvinā  
+ज꣡नासो वृक्त꣡बर्हिषो  
+हवि꣡ष्मन्तो अरंक्ŕ̥तः  
+युवां꣡ हवन्ते अश्विना  

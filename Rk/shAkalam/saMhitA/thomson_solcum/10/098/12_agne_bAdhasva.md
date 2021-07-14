@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ágne bā́dhasva ví mŕ̥dho ví durgáhā  
-ápā́mīvām ápa rákṣāṃsi sedha  
-asmā́t samudrā́d br̥ható divó no  
-apā́m bhūmā́nam úpa naḥ sr̥jehá  
+अ꣡ग्ने बा꣡धस्व वि꣡ म्ŕ̥धो वि꣡ दुर्ग꣡हा  
+अ꣡पा꣡मीवाम् अ꣡प र꣡क्षांसि सेध  
+अस्मा꣡त् समुद्रा꣡द् बृहतो꣡ दिवो꣡ नो  
+अपा꣡म् भूमा꣡नम् उ꣡प नः सृजेह꣡  

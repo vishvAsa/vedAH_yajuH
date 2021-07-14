@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-átas tuvā rayím abhí  
-rā́jānaṃ sukrato diváḥ  
-suparṇó avyathír bharat  
+अ꣡तस् तुवा रयि꣡म् अभि꣡  
+रा꣡जानं सुक्रतो दिवः꣡  
+सुपर्णो꣡ अव्यथि꣡र् भरत्  

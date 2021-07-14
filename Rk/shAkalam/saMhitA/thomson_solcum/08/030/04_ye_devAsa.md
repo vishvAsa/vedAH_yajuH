@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yé devāsa ihá sthána  
-víśve vaiśvānarā́ utá  
-asmábhyaṃ śárma saprátho  
-gáve áśvāya yachata  
+ये꣡ देवास इह꣡ स्थ꣡न  
+वि꣡श्वे वैश्वानरा꣡ उत꣡  
+अस्म꣡भ्यं श꣡र्म सप्र꣡थो  
+ग꣡वे अ꣡श्वाय यछत  

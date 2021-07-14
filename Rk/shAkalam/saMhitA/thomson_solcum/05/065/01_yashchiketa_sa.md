@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yáś cikéta sá sukrátur  
-devatrā́ sá bravītu naḥ  
-váruṇo yásya darśató  
-mitró vā vánate gíraḥ  
+य꣡श् चिके꣡त स꣡ सुक्र꣡तुर्  
+देवत्रा꣡ स꣡ ब्रवीतु नः  
+व꣡रुणो य꣡स्य दर्शतो꣡  
+मित्रो꣡ वा व꣡नते गि꣡रः  

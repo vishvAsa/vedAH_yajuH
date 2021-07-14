@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ví rákṣo ví mŕ̥dho jahi  
-ví vr̥trásya hánū ruja  
-ví manyúm indra vr̥trahann  
-amítrasyābhidā́sataḥ  
+वि꣡ र꣡क्षो वि꣡ म्ŕ̥धो जहि  
+वि꣡ वृत्र꣡स्य ह꣡नू रुज  
+वि꣡ मन्यु꣡म् इन्द्र वृत्रहन्न्  
+अमि꣡त्रस्याभिदा꣡सतः  

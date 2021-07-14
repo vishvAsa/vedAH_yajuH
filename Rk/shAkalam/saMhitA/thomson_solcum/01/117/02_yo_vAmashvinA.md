@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yó vām aśvinā mánaso jávīyān  
-ráthaḥ suáśvo víśa ājígāti  
-yéna gáchathaḥ sukŕ̥to duroṇáṃ  
-téna narā vartír asmábhya° yātam  
+यो꣡ वाम् अश्विना म꣡नसो ज꣡वीयान्  
+र꣡थः सुअ꣡श्वो वि꣡श आजि꣡गाति  
+ये꣡न ग꣡छथः सुक्ŕ̥तो दुरोणं꣡  
+ते꣡न नरा वर्ति꣡र् अस्म꣡भ्य° यातम्  

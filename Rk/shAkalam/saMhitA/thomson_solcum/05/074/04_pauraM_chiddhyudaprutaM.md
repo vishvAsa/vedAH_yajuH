@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-pauráṃ cid dhí udaprútam  
-paúra paurā́ya jínvathaḥ  
-yád īṃ gr̥bhītátātaye  
-siṃhám iva druhás padé  
+पौरं꣡ चिद् धि꣡ उदप्रु꣡तम्  
+पउ꣡र पौरा꣡य जि꣡न्वथः  
+य꣡द् ईं गृभीत꣡तातये  
+सिंह꣡म् इव द्रुह꣡स् पदे꣡  

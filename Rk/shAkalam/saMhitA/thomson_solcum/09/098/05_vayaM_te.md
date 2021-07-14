@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vayáṃ te asyá vr̥trahan  
-váso vásvaḥ puruspŕ̥haḥ  
-ní nédiṣṭhatamā iṣáḥ  
-syā́ma sumnásya adhrigo  
+वयं꣡ ते अस्य꣡ वृत्रहन्  
+व꣡सो व꣡स्वः पुरुस्प्ŕ̥हः  
+नि꣡ ने꣡दिष्ठतमा इषः꣡  
+स्या꣡म सुम्न꣡स्य अध्रिगो  

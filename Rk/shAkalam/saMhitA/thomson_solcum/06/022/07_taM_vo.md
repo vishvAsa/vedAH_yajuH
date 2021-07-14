@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-táṃ vo dhiyā́ návyasiyā śáviṣṭham  
-pratnám pratnavát paritaṃsayádhyai  
-sá no vakṣad animānáḥ suváhmā  
-índro víśvāni áti durgáhāṇi  
+तं꣡ वो धिया꣡ न꣡व्यसिया श꣡विष्ठम्  
+प्रत्न꣡म् प्रत्नव꣡त् परितंसय꣡ध्यै  
+स꣡ नो वक्षद् अनिमानः꣡ सुव꣡ह्मा  
+इ꣡न्द्रो वि꣡श्वानि अ꣡ति दुर्ग꣡हाणि  

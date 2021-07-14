@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-ā́ no rayím madacyútam  
-purukṣúṃ viśvádhāyasam  
-íyartā maruto diváḥ  
+आ꣡ नो रयि꣡म् मदच्यु꣡तम्  
+पुरुक्षुं꣡ विश्व꣡धायसम्  
+इ꣡यर्ता मरुतो दिवः꣡  

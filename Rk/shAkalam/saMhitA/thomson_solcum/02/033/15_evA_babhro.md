@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-evā́ babhro vr̥ṣabha cekitāna  
-yáthā deva ná hr̥ṇīṣé ná háṃsi  
-havanaśrún no rudarehá+ bodhi  
-br̥hád vadema vidáthe suvī́rāḥ  
+एवा꣡ बभ्रो वृषभ चेकितान  
+य꣡था देव न꣡ हृणीषे꣡ न꣡ हं꣡सि  
+हवनश्रु꣡न् नो रुदरेह꣡+ बोधि  
+बृह꣡द् वदेम विद꣡थे सुवी꣡राः  

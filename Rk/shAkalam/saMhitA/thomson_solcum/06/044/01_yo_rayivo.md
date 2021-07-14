@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yó rayivo rayíṃtamo  
-yó dyumnaír dyumnávattamaḥ  
-sómaḥ sutáḥ sá indra te  
-ásti svadhāpate mádaḥ  
+यो꣡ रयिवो रयिं꣡तमो  
+यो꣡ द्युम्नइ꣡र् द्युम्न꣡वत्तमः  
+सो꣡मः सुतः꣡ स꣡ इन्द्र ते  
+अ꣡स्ति स्वधापते म꣡दः  

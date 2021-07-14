@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-śúciḥ punānás tanúvam arepásam  
-ávye hárir ní adhāviṣṭa sā́navi  
-júṣṭo mitrā́ya váruṇāya vāyáve  
-tridhā́tu mádhu kriyate sukármabhiḥ  
+शु꣡चिः पुनान꣡स् तनु꣡वम् अरेप꣡सम्  
+अ꣡व्ये ह꣡रिर् नि꣡ अधाविष्ट सा꣡नवि  
+जु꣡ष्टो मित्रा꣡य व꣡रुणाय वाय꣡वे  
+त्रिधा꣡तु म꣡धु क्रियते सुक꣡र्मभिः  

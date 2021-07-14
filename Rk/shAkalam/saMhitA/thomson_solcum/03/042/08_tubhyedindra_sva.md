@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-túbhyéd indra svá okíye  
-sómaṃ codāmi pītáye  
-eṣá rārantu te hr̥dí  
+तु꣡भ्ये꣡द् इन्द्र स्व꣡ ओकि꣡ये  
+सो꣡मं चोदामि पीत꣡ये  
+एष꣡ रारन्तु ते हृदि꣡  

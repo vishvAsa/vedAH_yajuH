@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá mātárā vicáran vājáyann apáḥ  
-prá médhiraḥ svadháyā pinvate padám  
-aṃśúr yávena pipiśe yató nŕ̥bhiḥ  
-sáṃ jāmíbhir násate rákṣate śíraḥ  
+स꣡ मात꣡रा विच꣡रन् वाज꣡यन्न् अपः꣡  
+प्र꣡ मे꣡धिरः स्वध꣡या पिन्वते पद꣡म्  
+अंशु꣡र् य꣡वेन पिपिशे यतो꣡ न्ŕ̥भिः  
+सं꣡ जामि꣡भिर् न꣡सते र꣡क्षते शि꣡रः  

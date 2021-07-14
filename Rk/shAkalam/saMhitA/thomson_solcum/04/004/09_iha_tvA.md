@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ihá tvā bhū́ri ā́ cared úpa tmán  
-dóṣāvastar dīdivā́ṃsam ánu dyū́n  
-krī́ḷantas tvā sumánasaḥ sapema  
-abhí dyumnā́ tasthivā́ṃso jánānām  
+इह꣡ त्वा भू꣡रि आ꣡ चरेद् उ꣡प त्म꣡न्  
+दो꣡षावस्तर् दीदिवां꣡सम् अ꣡नु द्यू꣡न्  
+क्री꣡ऌअन्तस् त्वा सुम꣡नसः सपेम  
+अभि꣡ द्युम्ना꣡ तस्थिवां꣡सो ज꣡नानाम्  

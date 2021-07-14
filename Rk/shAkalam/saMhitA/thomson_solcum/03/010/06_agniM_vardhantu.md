@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-agníṃ vardhantu no gíro  
-yáto jā́yata ukthíyaḥ  
-mahé vā́jāya dráviṇāya darśatáḥ  
+अग्निं꣡ वर्धन्तु नो गि꣡रो  
+य꣡तो जा꣡यत उक्थि꣡यः  
+महे꣡ वा꣡जाय द्र꣡विणाय दर्शतः꣡  

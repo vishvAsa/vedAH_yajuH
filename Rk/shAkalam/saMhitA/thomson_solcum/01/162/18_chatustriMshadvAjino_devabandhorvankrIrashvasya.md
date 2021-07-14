@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-cátustriṃśad vājíno devábandhor  
-váṅkrīr áśvasya svádhitiḥ sám eti  
-áchidrā gā́trā vayúnā kr̥ṇota  
-páruṣ-parur anughúṣyā ví śasta  
+च꣡तुस्त्रिंशद् वाजि꣡नो देव꣡बन्धोर्  
+व꣡ङ्क्रीर् अ꣡श्वस्य स्व꣡धितिः स꣡म् एति  
+अ꣡छिद्रा गा꣡त्रा वयु꣡ना कृणोत  
+प꣡रुष्-परुर् अनुघु꣡ष्या वि꣡ शस्त  

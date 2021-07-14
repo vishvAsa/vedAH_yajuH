@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ví tvád ā́po ná párvatasya pr̥ṣṭhā́d  
-ukthébhir indra anayanta yajñaíḥ  
-táṃ tvābhíḥ suṣṭutíbhir vājáyanta  
-ājíṃ ná jagmur girvāho áśvāḥ  
+वि꣡ त्व꣡द् आ꣡पो न꣡ प꣡र्वतस्य पृष्ठा꣡द्  
+उक्थे꣡भिर् इन्द्र अनयन्त यज्ञइः꣡  
+तं꣡ त्वाभिः꣡ सुष्टुति꣡भिर् वाज꣡यन्त  
+आजिं꣡ न꣡ जग्मुर् गिर्वाहो अ꣡श्वाः  

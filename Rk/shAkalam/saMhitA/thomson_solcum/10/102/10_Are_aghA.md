@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-āré aghā́ kó nú itthā́ dadarśa  
-yáṃ yuñjánti tám u ā́ sthāpayanti  
-nā́smai tŕ̥ṇaṃ nódakám ā́ bharanti  
-úttaro dhuró vahati pradédiśat  
+आरे꣡ अघा꣡ को꣡ नु꣡ इत्था꣡ ददर्श  
+यं꣡ युञ्ज꣡न्ति त꣡म् उ आ꣡ स्थापयन्ति  
+ना꣡स्मै त्ŕ̥णं नो꣡दक꣡म् आ꣡ भरन्ति  
+उ꣡त्तरो धुरो꣡ वहति प्रदे꣡दिशत्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ā́ vaṃsate maghávā vīrávad yáśaḥ  
-sámiddho dyumnī́ ā́hutaḥ  
-kuvín no asya sumatír návīyasī  
-áchā vā́jebhir āgámat  
+आ꣡ वंसते मघ꣡वा वीर꣡वद् य꣡शः  
+स꣡मिद्धो द्युम्नी꣡ आ꣡हुतः  
+कुवि꣡न् नो अस्य सुमति꣡र् न꣡वीयसी  
+अ꣡छा वा꣡जेभिर् आग꣡मत्  

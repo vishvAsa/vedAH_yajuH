@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-práti bravāṇi vartáyate áśru  
-cakrán ná krandad ādhíye śivā́yai  
-prá tát te · hinavā yát te asmé  
-párehi ástaṃ nahí mūra mā́paḥ  
+प्र꣡ति ब्रवाणि वर्त꣡यते अ꣡श्रु  
+चक्र꣡न् न꣡ क्रन्दद् आधि꣡ये शिवा꣡यै  
+प्र꣡ त꣡त् ते · हिनवा य꣡त् ते अस्मे꣡  
+प꣡रेहि अ꣡स्तं नहि꣡ मूर मा꣡पः  

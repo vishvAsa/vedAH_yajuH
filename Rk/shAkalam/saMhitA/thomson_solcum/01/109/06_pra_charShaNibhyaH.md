@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá carṣaṇíbhyaḥ pr̥tanāháveṣu  
-prá pr̥thivyā́ riricāthe diváś ca  
-prá síndhubhyaḥ prá giríbhyo mahitvā́  
-préndrāgnī víśvā bhúvanā́ti anyā́  
+प्र꣡ चर्षणि꣡भ्यः पृतनाह꣡वेषु  
+प्र꣡ पृथिव्या꣡ रिरिचाथे दिव꣡श् च  
+प्र꣡ सि꣡न्धुभ्यः प्र꣡ गिरि꣡भ्यो महित्वा꣡  
+प्रे꣡न्द्राग्नी वि꣡श्वा भु꣡वना꣡ति अन्या꣡  

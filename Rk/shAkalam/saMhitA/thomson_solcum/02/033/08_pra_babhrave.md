@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-prá babhráve vr̥ṣabhā́ya śvitīcé  
-mahó mahī́ṃ suṣṭutím īrayāmi  
-namasyā́ kalmalīkínaṃ námobhir  
-gr̥ṇīmási tveṣáṃ rudrásya nā́ma  
+प्र꣡ बभ्र꣡वे वृषभा꣡य श्वितीचे꣡  
+महो꣡ महीं꣡ सुष्टुति꣡म् ईरयामि  
+नमस्या꣡ कल्मलीकि꣡नं न꣡मोभिर्  
+गृणीम꣡सि त्वेषं꣡ रुद्र꣡स्य ना꣡म  

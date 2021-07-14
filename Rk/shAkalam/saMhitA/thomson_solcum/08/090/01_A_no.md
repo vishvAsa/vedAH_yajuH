@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ no víśvāsu háviya  
-índraḥ samátsu bhūṣatu  
-úpa bráhmāṇi sávanāni vr̥trahā́  
-paramajyā́ ŕ̥cīṣamaḥ  
+आ꣡ नो वि꣡श्वासु ह꣡विय  
+इ꣡न्द्रः सम꣡त्सु भूषतु  
+उ꣡प ब्र꣡ह्माणि स꣡वनानि वृत्रहा꣡  
+परमज्या꣡ ŕ̥चीषमः  

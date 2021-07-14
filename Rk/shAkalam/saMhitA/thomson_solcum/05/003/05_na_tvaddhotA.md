@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ná tvád dhótā pū́rvo agne yájīyān  
-ná kā́viyaiḥ paró asti svadhāvaḥ  
-viśáś ca yásyā átithir bhávāsi  
-sá yajñéna vanavad deva mártān  
+न꣡ त्व꣡द् धो꣡ता पू꣡र्वो अग्ने य꣡जीयान्  
+न꣡ का꣡वियैः परो꣡ अस्ति स्वधावः  
+विश꣡श् च य꣡स्या अ꣡तिथिर् भ꣡वासि  
+स꣡ यज्ञे꣡न वनवद् देव म꣡र्तान्  

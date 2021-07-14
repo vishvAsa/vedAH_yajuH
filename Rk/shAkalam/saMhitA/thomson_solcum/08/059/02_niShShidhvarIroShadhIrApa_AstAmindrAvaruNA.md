@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-niṣṣídhvarīr óṣadhīr ā́pa āstām  
-índrāvaruṇā mahimā́nam ā́śata  
-yā́ sísratū rájasaḥ pāré ádhvano  
-yáyoḥ śátrur nákir ā́deva óhate  
+निष्षि꣡ध्वरीर् ओ꣡षधीर् आ꣡प आस्ताम्  
+इ꣡न्द्रावरुणा महिमा꣡नम् आ꣡शत  
+या꣡ सि꣡स्रतू र꣡जसः पारे꣡ अ꣡ध्वनो  
+य꣡योः श꣡त्रुर् न꣡किर् आ꣡देव ओ꣡हते  

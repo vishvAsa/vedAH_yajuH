@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-duvé samīcī́ bibhr̥taś cárantaṃ  
-śīrṣató jātám mánasā vímr̥ṣṭam  
-sá pratyáṅ víśvā bhúvanāni tasthāv  
-áprayuchan taráṇir bhrā́jamānaḥ  
+दुवे꣡ समीची꣡ बिभृतश् च꣡रन्तं  
+शीर्षतो꣡ जात꣡म् म꣡नसा वि꣡मृष्टम्  
+स꣡ प्रत्य꣡ङ् वि꣡श्वा भु꣡वनानि तस्थाव्  
+अ꣡प्रयुछन् तर꣡णिर् भ्रा꣡जमानः  

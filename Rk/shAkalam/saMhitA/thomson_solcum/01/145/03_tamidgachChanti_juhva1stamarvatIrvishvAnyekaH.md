@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tám íd gachanti juhúvas tám árvatīr  
-víśvāni ékaḥ śr̥ṇavad vácāṃsi me  
-purupraiṣás táturir yajñasā́dhano  
-áchidrotiḥ śíśur ā́datta sáṃ rábhaḥ  
+त꣡म् इ꣡द् गछन्ति जुहु꣡वस् त꣡म् अ꣡र्वतीर्  
+वि꣡श्वानि ए꣡कः शृणवद् व꣡चांसि मे  
+पुरुप्रैष꣡स् त꣡तुरिर् यज्ञसा꣡धनो  
+अ꣡छिद्रोतिः शि꣡शुर् आ꣡दत्त सं꣡ र꣡भः  

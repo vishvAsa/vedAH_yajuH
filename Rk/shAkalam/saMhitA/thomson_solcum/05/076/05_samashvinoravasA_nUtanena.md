@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sám aśvínor ávasā nū́tanena  
-mayobhúvā supráṇītī gamema  
-ā́ no rayíṃ vahatam ótá vīrā́n  
-ā́ víśvāni amr̥tā saúbhagāni  
+स꣡म् अश्वि꣡नोर् अ꣡वसा नू꣡तनेन  
+मयोभु꣡वा सुप्र꣡णीती गमेम  
+आ꣡ नो रयिं꣡ वहतम् ओ꣡त꣡ वीरा꣡न्  
+आ꣡ वि꣡श्वानि अमृता सउ꣡भगानि  

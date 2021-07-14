@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-sá tváṃ na indra vā́jebhir  
-daśasyā́ ca gātuyā́ ca  
-áchā ca naḥ sumnáṃ neṣi  
+स꣡ त्वं꣡ न इन्द्र वा꣡जेभिर्  
+दशस्या꣡ च गातुया꣡ च  
+अ꣡छा च नः सुम्नं꣡ नेषि  

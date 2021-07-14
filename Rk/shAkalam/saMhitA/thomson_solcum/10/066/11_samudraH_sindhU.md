@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-samudráḥ síndhū rájo antárikṣam  
-ajá ékapāt tanayitnúr arṇaváḥ  
-áhir budhníyaḥ śr̥ṇavad vácāṃsi me  
-víśve devā́sa utá sūráyo máma  
+समुद्रः꣡ सि꣡न्धू र꣡जो अन्त꣡रिक्षम्  
+अज꣡ ए꣡कपात् तनयित्नु꣡र् अर्णवः꣡  
+अ꣡हिर् बुध्नि꣡यः शृणवद् व꣡चांसि मे  
+वि꣡श्वे देवा꣡स उत꣡ सूर꣡यो म꣡म  

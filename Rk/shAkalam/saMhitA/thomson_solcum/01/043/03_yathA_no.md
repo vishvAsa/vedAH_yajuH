@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-yáthā no mitró váruṇo  
-yáthā rudráś cíketati  
-yáthā víśve sajóṣasaḥ  
+य꣡था नो मित्रो꣡ व꣡रुणो  
+य꣡था रुद्र꣡श् चि꣡केतति  
+य꣡था वि꣡श्वे सजो꣡षसः  

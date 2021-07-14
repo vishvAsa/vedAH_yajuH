@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-táyor íd ghr̥távat páyo  
-víprā rihanti dhītíbhiḥ  
-gandharvásya dhruvé padé  
+त꣡योर् इ꣡द् घृत꣡वत् प꣡यो  
+वि꣡प्रा रिहन्ति धीति꣡भिः  
+गन्धर्व꣡स्य ध्रुवे꣡ पदे꣡  

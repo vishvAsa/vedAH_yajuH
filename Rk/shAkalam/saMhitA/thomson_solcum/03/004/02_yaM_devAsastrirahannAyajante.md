@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yáṃ devā́sas trír áhann āyájante  
-divé-dive váruṇo mitró agníḥ  
-sémáṃ yajñám mádhumantaṃ kr̥dhī nas  
-tánūnapād ghr̥táyoniṃ vidhántam  
+यं꣡ देवा꣡सस् त्रि꣡र् अ꣡हन्न् आय꣡जन्ते  
+दिवे꣡-दिवे व꣡रुणो मित्रो꣡ अग्निः꣡  
+से꣡मं꣡ यज्ञ꣡म् म꣡धुमन्तं कृधी नस्  
+त꣡नूनपाद् घृत꣡योनिं विध꣡न्तम्  

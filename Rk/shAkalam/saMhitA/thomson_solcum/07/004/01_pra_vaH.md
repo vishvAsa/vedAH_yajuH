@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá vaḥ śukrā́ya bhānáve bharadhvaṃ  
-havyám matíṃ ca agnáye súpūtam  
-yó daíviyāni mā́nuṣā janū́ṃṣi  
-antár víśvāni vidmánā jígāti  
+प्र꣡ वः शुक्रा꣡य भान꣡वे भरध्वं  
+हव्य꣡म् मतिं꣡ च अग्न꣡ये सु꣡पूतम्  
+यो꣡ दइ꣡वियानि मा꣡नुषा जनूं꣡षि  
+अन्त꣡र् वि꣡श्वानि विद्म꣡ना जि꣡गाति  

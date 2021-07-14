@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-śatáṃ te rājan bhiṣájaḥ sahásram  
-urvī́ gabhīrā́ sumatíṣ ṭe astu  
-bā́dhasva dūré nírr̥tim parācaíḥ  
-kr̥táṃ cid énaḥ prá mumugdhi asmát  
+शतं꣡ ते राजन् भिष꣡जः सह꣡स्रम्  
+उर्वी꣡ गभीरा꣡ सुमति꣡ष् टे अस्तु  
+बा꣡धस्व दूरे꣡ नि꣡रृतिम् पराचइः꣡  
+कृतं꣡ चिद् ए꣡नः प्र꣡ मुमुग्धि अस्म꣡त्  

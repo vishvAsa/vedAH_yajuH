@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śréṣṭho jātásya rudara+ śriyā́si  
-tavástamas tavásāṃ vajrabāho  
-párṣi ṇaḥ pārám áṃhasaḥ suastí  
-víśvā abhī́tī rápaso yuyodhi  
+श्रे꣡ष्ठो जात꣡स्य रुदर+ श्रिया꣡सि  
+तव꣡स्तमस् तव꣡सां वज्रबाहो  
+प꣡र्षि णः पार꣡म् अं꣡हसः सुअस्ति꣡  
+वि꣡श्वा अभी꣡ती र꣡पसो युयोधि  

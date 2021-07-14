@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-purū́ṇi agne purudhā́ tuvāyā́  
-vásūni rājan vasútā te aśyām  
-purū́ṇi hí tvé puruvāra sánti  
-ágne vásu vidhaté rā́jani tvé  
+पुरू꣡णि अग्ने पुरुधा꣡ तुवाया꣡  
+व꣡सूनि राजन् वसु꣡ता ते अश्याम्  
+पुरू꣡णि हि꣡ त्वे꣡ पुरुवार स꣡न्ति  
+अ꣡ग्ने व꣡सु विधते꣡ रा꣡जनि त्वे꣡  

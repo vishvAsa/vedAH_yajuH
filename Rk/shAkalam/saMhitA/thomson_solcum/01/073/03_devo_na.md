@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-devó ná yáḥ pr̥thivī́ṃ viśvádhāyā  
-upakṣéti hitámitro ná rā́jā  
-puraḥsádaḥ śarmasádo ná vīrā́  
-anavadyā́ pátijuṣṭeva nā́rī  
+देवो꣡ न꣡ यः꣡ पृथिवीं꣡ विश्व꣡धाया  
+उपक्षे꣡ति हित꣡मित्रो न꣡ रा꣡जा  
+पुरःस꣡दः शर्मस꣡दो न꣡ वीरा꣡  
+अनवद्या꣡ प꣡तिजुष्टेव ना꣡री  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yád vā prasrávaṇe divó  
-mādáyāse súvarṇare  
-yád vā samudré ándhasaḥ  
+य꣡द् वा प्रस्र꣡वणे दिवो꣡  
+माद꣡यासे सु꣡वर्णरे  
+य꣡द् वा समुद्रे꣡ अ꣡न्धसः  

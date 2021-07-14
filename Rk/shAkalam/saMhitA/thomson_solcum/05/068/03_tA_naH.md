@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tā́ naḥ śaktam pā́rthivasya  
-mahó rāyó diviyásya  
-máhi vāṃ kṣatráṃ devéṣu  
+ता꣡ नः शक्तम् पा꣡र्थिवस्य  
+महो꣡ रायो꣡ दिविय꣡स्य  
+म꣡हि वां क्षत्रं꣡ देवे꣡षु  

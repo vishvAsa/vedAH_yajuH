@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ádha gmántā uśánā pr̥chate vāṃ  
-kádarthā na ā́ gr̥hám  
-ā́ jagmathuḥ parākã́d  
-diváś ca gmáś ca mártiyam  
+अ꣡ध ग्म꣡न्ता उश꣡ना पृछते वां  
+क꣡दर्था न आ꣡ गृह꣡म्  
+आ꣡ जग्मथुः पराक्ã꣡द्  
+दिव꣡श् च ग्म꣡श् च म꣡र्तियम्  

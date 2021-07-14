@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ví yád ásthād yajató vā́tacodito  
-hvāró ná vákvā jaráṇā ánākr̥taḥ  
-tásya pátman dakṣúṣaḥ kr̥ṣṇájaṃhasaḥ  
-śúcijanmano rája ā́ víadhvanaḥ  
+वि꣡ य꣡द् अ꣡स्थाद् यजतो꣡ वा꣡तचोदितो  
+ह्वारो꣡ न꣡ व꣡क्वा जर꣡णा अ꣡नाकृतः  
+त꣡स्य प꣡त्मन् दक्षु꣡षः कृष्ण꣡जंहसः  
+शु꣡चिजन्मनो र꣡ज आ꣡ वि꣡अध्वनः  

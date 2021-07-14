@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tán nú vocāma rabhasā́ya jánmane  
-pū́rvam mahitváṃ vr̥ṣabhásya ketáve  
-aidhéva yā́man marutas tuviṣvaṇo  
-yudhéva śakrās taviṣā́ṇi kartana  
+त꣡न् नु꣡ वोचाम रभसा꣡य ज꣡न्मने  
+पू꣡र्वम् महित्वं꣡ वृषभ꣡स्य केत꣡वे  
+ऐधे꣡व या꣡मन् मरुतस् तुविष्वणो  
+युधे꣡व शक्रास् तविषा꣡णि कर्तन  

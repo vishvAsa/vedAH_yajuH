@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ádhā hí agne  
-krátor bhadrásya  
-dákṣasya sādhóḥ  
-rathī́r r̥tásya br̥ható babhū́tha  
+अ꣡धा हि꣡ अग्ने  
+क्र꣡तोर् भद्र꣡स्य  
+द꣡क्षस्य साधोः꣡  
+रथी꣡र् ऋत꣡स्य बृहतो꣡ बभू꣡थ  

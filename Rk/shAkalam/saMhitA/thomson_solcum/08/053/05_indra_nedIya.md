@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índra nédīya éd ihi  
-mitámedhābhir ūtíbhiḥ  
-ā́ śaṃtama śáṃtamābhir abhíṣṭibhir  
-ā́ suāpe suāpíbhiḥ  
+इ꣡न्द्र ने꣡दीय ए꣡द् इहि  
+मित꣡मेधाभिर् ऊति꣡भिः  
+आ꣡ शंतम शं꣡तमाभिर् अभि꣡ष्टिभिर्  
+आ꣡ सुआपे सुआपि꣡भिः  

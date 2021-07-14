@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-br̥hánn achāyó apalāśó árvā  
-tasthaú mātā́ víṣito atti gárbhaḥ  
-anyásyā vatsáṃ rihatī́ mimāya  
-káyā bhuvā́ ní dadhe dhenúr ū́dhaḥ  
+बृह꣡न्न् अछायो꣡ अपलाशो꣡ अ꣡र्वा  
+तस्थउ꣡ माता꣡ वि꣡षितो अत्ति ग꣡र्भः  
+अन्य꣡स्या वत्सं꣡ रिहती꣡ मिमाय  
+क꣡या भुवा꣡ नि꣡ दधे धेनु꣡र् ऊ꣡धः  

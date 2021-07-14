@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-sá no bodhi sahasiya praśáṃsiyo  
-yásmin sujātā́ iṣáyanta sūráyaḥ  
-yám agne yajñám upayánti vājíno  
-nítye toké dīdivā́ṃsaṃ suvé dáme  
+स꣡ नो बोधि सहसिय प्रशं꣡सियो  
+य꣡स्मिन् सुजाता꣡ इष꣡यन्त सूर꣡यः  
+य꣡म् अग्ने यज्ञ꣡म् उपय꣡न्ति वाजि꣡नो  
+नि꣡त्ये तोके꣡ दीदिवां꣡सं सुवे꣡ द꣡मे  

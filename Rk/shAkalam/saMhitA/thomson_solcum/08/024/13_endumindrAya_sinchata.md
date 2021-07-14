@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-éndum índrāya siñcata  
-píbāti somiyám mádhu  
-prá rā́dhasā codayāte mahitvanā́  
+ए꣡न्दुम् इ꣡न्द्राय सिञ्चत  
+पि꣡बाति सोमिय꣡म् म꣡धु  
+प्र꣡ रा꣡धसा चोदयाते महित्वना꣡  

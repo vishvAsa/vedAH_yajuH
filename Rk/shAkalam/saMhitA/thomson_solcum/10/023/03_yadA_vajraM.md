@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yadā́ vájraṃ híraṇyam íd áthā ráthaṃ  
-hárī yám asya váhato ví sūríbhiḥ  
-ā́ tiṣṭhati · maghávā sánaśruta  
-índro vā́jasya dīrgháśravasas pátiḥ  
+यदा꣡ व꣡ज्रं हि꣡रण्यम् इ꣡द् अ꣡था र꣡थं  
+ह꣡री य꣡म् अस्य व꣡हतो वि꣡ सूरि꣡भिः  
+आ꣡ तिष्ठति · मघ꣡वा स꣡नश्रुत  
+इ꣡न्द्रो वा꣡जस्य दीर्घ꣡श्रवसस् प꣡तिः  

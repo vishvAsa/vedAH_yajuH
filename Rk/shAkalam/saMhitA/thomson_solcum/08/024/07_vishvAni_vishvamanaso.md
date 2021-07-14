@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-víśvāni viśvámanaso  
-dhiyā́ no vr̥trahantama  
-úgra praṇetar ádhi ṣū́ vaso gahi  
+वि꣡श्वानि विश्व꣡मनसो  
+धिया꣡ नो वृत्रहन्तम  
+उ꣡ग्र प्रणेतर् अ꣡धि षू꣡ वसो गहि  

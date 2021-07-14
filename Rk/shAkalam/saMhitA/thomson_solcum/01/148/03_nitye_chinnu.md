@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-nítye cin nú yáṃ sádane jagr̥bhré  
-práśastibhir dadhiré yajñíyāsaḥ  
-prá sū́ nayanta gr̥bháyanta iṣṭā́v  
-áśvāso ná rathíyo rārahāṇā́ḥ  
+नि꣡त्ये चिन् नु꣡ यं꣡ स꣡दने जगृभ्रे꣡  
+प्र꣡शस्तिभिर् दधिरे꣡ यज्ञि꣡यासः  
+प्र꣡ सू꣡ नयन्त गृभ꣡यन्त इष्टा꣡व्  
+अ꣡श्वासो न꣡ रथि꣡यो रारहाणाः꣡  

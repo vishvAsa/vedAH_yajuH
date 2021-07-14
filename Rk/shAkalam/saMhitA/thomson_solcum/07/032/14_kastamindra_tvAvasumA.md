@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-kás tám indra tuvā́vasum  
-ā́ mártiyo dadharṣati  
-śraddhā́ ít te maghavan pā́riye diví  
-vājī́ vā́jaṃ siṣāsati  
+क꣡स् त꣡म् इन्द्र तुवा꣡वसुम्  
+आ꣡ म꣡र्तियो दधर्षति  
+श्रद्धा꣡ इ꣡त् ते मघवन् पा꣡रिये दिवि꣡  
+वाजी꣡ वा꣡जं सिषासति  

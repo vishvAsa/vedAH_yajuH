@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ yé rájāṃsi táviṣībhir ávyata  
-prá va évāsaḥ sváyatāso adhrajan  
-bháyante víśvā bhúvanāni harmiyā́  
-citró vo yā́maḥ práyatāsu r̥ṣṭíṣu  
+आ꣡ ये꣡ र꣡जांसि त꣡विषीभिर् अ꣡व्यत  
+प्र꣡ व ए꣡वासः स्व꣡यतासो अध्रजन्  
+भ꣡यन्ते वि꣡श्वा भु꣡वनानि हर्मिया꣡  
+चित्रो꣡ वो या꣡मः प्र꣡यतासु ऋष्टि꣡षु  

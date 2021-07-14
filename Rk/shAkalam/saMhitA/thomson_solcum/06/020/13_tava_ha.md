@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-táva ha tyád indara+ víśvam ājaú  
-sastó dhúnīcúmurī yā́ ha síṣvap  
-dīdáyad ít túbhya° sómebhiḥ sunván  
-dabhī́tir idhmábhr̥tiḥ pakthí arkaíḥ  
+त꣡व ह त्य꣡द् इन्दर+ वि꣡श्वम् आजउ꣡  
+सस्तो꣡ धु꣡नीचु꣡मुरी या꣡ ह सि꣡ष्वप्  
+दीद꣡यद् इ꣡त् तु꣡भ्य° सो꣡मेभिः सुन्व꣡न्  
+दभी꣡तिर् इध्म꣡भृतिः पक्थि꣡ अर्कइः꣡  

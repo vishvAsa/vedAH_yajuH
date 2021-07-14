@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-jániṣṭhā ugráḥ sáhase turā́ya  
-mandrá ójiṣṭho bahulā́bhimānaḥ  
-ávardhann índram marútaś cid átra  
-mātā́ yád vīráṃ dadhánad dhániṣṭhā  
+ज꣡निष्ठा उग्रः꣡ स꣡हसे तुरा꣡य  
+मन्द्र꣡ ओ꣡जिष्ठो बहुला꣡भिमानः  
+अ꣡वर्धन्न् इ꣡न्द्रम् मरु꣡तश् चिद् अ꣡त्र  
+माता꣡ य꣡द् वीरं꣡ दध꣡नद् ध꣡निष्ठा  

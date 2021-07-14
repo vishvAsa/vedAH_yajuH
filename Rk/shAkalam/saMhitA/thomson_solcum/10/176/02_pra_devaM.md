@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-prá deváṃ deviyā́ dhiyā́  
-bháratā jātávedasam  
-havyā́ no vakṣad ānuṣák  
+प्र꣡ देवं꣡ देविया꣡ धिया꣡  
+भ꣡रता जात꣡वेदसम्  
+हव्या꣡ नो वक्षद् आनुष꣡क्  

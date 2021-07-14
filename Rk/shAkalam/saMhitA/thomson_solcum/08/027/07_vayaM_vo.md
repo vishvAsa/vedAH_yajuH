@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-vayáṃ vo vr̥ktábarhiṣo  
-hitáprayasa ānuṣák  
-sutásomāso varuṇa havāmahe  
-manuṣvád iddháagnayaḥ  
+वयं꣡ वो वृक्त꣡बर्हिषो  
+हित꣡प्रयस आनुष꣡क्  
+सुत꣡सोमासो वरुण हवामहे  
+मनुष्व꣡द् इद्ध꣡अग्नयः  

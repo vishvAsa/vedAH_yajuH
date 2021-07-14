@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-párā ha yát sthiráṃ hathá  
-náro vartáyathā gurú  
-ví yãthana vanínaḥ pr̥thiviyā́  
-ví ā́śāḥ párvatānãm  
+प꣡रा ह य꣡त् स्थिरं꣡ हथ꣡  
+न꣡रो वर्त꣡यथा गुरु꣡  
+वि꣡ य्ãथन वनि꣡नः पृथिविया꣡  
+वि꣡ आ꣡शाः प꣡र्वतान्ãम्  

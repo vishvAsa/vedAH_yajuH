@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sánemi sakhyáṃ suapasyámānaḥ  
-sūnúr dādhāra śávasā sudáṃsāḥ  
-āmā́su cid dadhiṣe pakvám antáḥ  
-páyaḥ kr̥ṣṇā́su rúśad róhiṇīṣu  
+स꣡नेमि सख्यं꣡ सुअपस्य꣡मानः  
+सूनु꣡र् दाधार श꣡वसा सुदं꣡साः  
+आमा꣡सु चिद् दधिषे पक्व꣡म् अन्तः꣡  
+प꣡यः कृष्णा꣡सु रु꣡शद् रो꣡हिणीषु  

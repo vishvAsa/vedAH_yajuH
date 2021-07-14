@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-asyá svānásya° mandínas tritásya  
-ní árbudaṃ vāvr̥dhānó astaḥ  
-ávartayat sū́riyo ná cakrám  
-bhinád valám índro áṅgirasvān  
+अस्य꣡ स्वान꣡स्य° मन्दि꣡नस् त्रित꣡स्य  
+नि꣡ अ꣡र्बुदं वावृधानो꣡ अस्तः  
+अ꣡वर्तयत् सू꣡रियो न꣡ चक्र꣡म्  
+भिन꣡द् वल꣡म् इ꣡न्द्रो अ꣡ङ्गिरस्वान्  

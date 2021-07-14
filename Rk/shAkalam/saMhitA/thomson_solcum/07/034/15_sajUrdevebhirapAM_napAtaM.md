@@ -2,5 +2,5 @@
 title = "015"
 
 +++
-sajū́r devébhir apā́ṃ nápātaṃ  
-sákhāyaṃ kr̥dhvaṃ śivó no astu  
+सजू꣡र् देवे꣡भिर् अपां꣡ न꣡पातं  
+स꣡खायं कृध्वं शिवो꣡ नो अस्तु  

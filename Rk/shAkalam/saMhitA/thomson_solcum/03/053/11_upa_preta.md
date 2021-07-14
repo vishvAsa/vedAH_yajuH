@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-úpa préta kuśikāś cetáyadhvam  
-áśvaṃ rāyé prá muñcatā sudā́saḥ  
-rā́jā vr̥tráṃ jaṅghanat prā́g ápāg údag  
-áthā yajāte vára ā́ pr̥thivyā́ḥ  
+उ꣡प प्रे꣡त कुशिकाश् चेत꣡यध्वम्  
+अ꣡श्वं राये꣡ प्र꣡ मुञ्चता सुदा꣡सः  
+रा꣡जा वृत्रं꣡ जङ्घनत् प्रा꣡ग् अ꣡पाग् उ꣡दग्  
+अ꣡था यजाते व꣡र आ꣡ पृथिव्याः꣡  

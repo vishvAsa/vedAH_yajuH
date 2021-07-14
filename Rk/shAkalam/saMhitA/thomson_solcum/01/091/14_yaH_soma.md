@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-yáḥ soma sakhiyé táva  
-rāráṇad deva mártiyaḥ  
-táṃ dákṣaḥ sacate kavíḥ  
+यः꣡ सोम सखिये꣡ त꣡व  
+रार꣡णद् देव म꣡र्तियः  
+तं꣡ द꣡क्षः सचते कविः꣡  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-kathā́ ta etád ahám ā́ ciketaṃ  
-gŕ̥tsasya pā́kas taváso manīṣā́m  
-tuváṃ no vidvā́m̐ r̥tuthā́ ví voco  
-yám árdhaṃ te maghavan kṣemiyā́ dhū́ḥ  
+कथा꣡ त एत꣡द् अह꣡म् आ꣡ चिकेतं  
+ग्ŕ̥त्सस्य पा꣡कस् तव꣡सो मनीषा꣡म्  
+तुवं꣡ नो विद्वाँ꣡ ऋतुथा꣡ वि꣡ वोचो  
+य꣡म् अ꣡र्धं ते मघवन् क्षेमिया꣡ धूः꣡  

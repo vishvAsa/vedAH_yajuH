@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-índraḥ suvarṣā́ janáyann áhāni  
-jigā́yośígbhiḥ pŕ̥tanā abhiṣṭíḥ  
-prā́rocayan mánave ketúm áhnām  
-ávindaj jyótir br̥haté ráṇāya  
+इ꣡न्द्रः सुवर्षा꣡ जन꣡यन्न् अ꣡हानि  
+जिगा꣡योशि꣡ग्भिः प्ŕ̥तना अभिष्टिः꣡  
+प्रा꣡रोचयन् म꣡नवे केतु꣡म् अ꣡ह्नाम्  
+अ꣡विन्दज् ज्यो꣡तिर् बृहते꣡ र꣡णाय  

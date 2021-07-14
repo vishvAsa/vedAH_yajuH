@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-prá vo bhriyanta índavo  
-matsarā́ mādayiṣṇávaḥ  
-drapsā́ mádhvaś camūṣádaḥ  
+प्र꣡ वो भ्रियन्त इ꣡न्दवो  
+मत्सरा꣡ मादयिष्ण꣡वः  
+द्रप्सा꣡ म꣡ध्वश् चमूष꣡दः  

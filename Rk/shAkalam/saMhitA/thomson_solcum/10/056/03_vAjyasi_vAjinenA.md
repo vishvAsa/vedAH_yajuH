@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-vājī́ asi vā́jinenā suvenī́ḥ  
-suvitá stómaṃ suvitó dívaṃ gāḥ  
-suvitó dhárma prathamā́nu satyā́  
-suvitó devā́n suvitó 'nu pátma  
+वाजी꣡ असि वा꣡जिनेना सुवेनीः꣡  
+सुवित꣡ स्तो꣡मं सुवितो꣡ दि꣡वं गाः  
+सुवितो꣡ ध꣡र्म प्रथमा꣡नु सत्या꣡  
+सुवितो꣡ देवा꣡न् सुवितो꣡ ऽनु प꣡त्म  

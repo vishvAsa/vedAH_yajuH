@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-ádhā gā́va úpamātiṃ kanā́yā  
-ánu śvāntásya kásya cit páreyuḥ  
-śrudhí tváṃ sudraviṇo nas tuváṃ yāḷ  
-āśvaghnásya vāvr̥dhe sūnŕ̥tābhiḥ  
+अ꣡धा गा꣡व उ꣡पमातिं कना꣡या  
+अ꣡नु श्वान्त꣡स्य क꣡स्य चित् प꣡रेयुः  
+श्रुधि꣡ त्वं꣡ सुद्रविणो नस् तुवं꣡ याऌ  
+आश्वघ्न꣡स्य वावृधे सून्ŕ̥ताभिः  

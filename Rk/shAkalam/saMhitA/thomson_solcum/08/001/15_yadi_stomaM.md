@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-yádi stómam máma śrávad  
-asmā́kam índram índavaḥ  
-tiráḥ pavítraṃ sasr̥vā́ṃsa āśávo  
-mándantu tugriyāvŕ̥dhaḥ  
+य꣡दि स्तो꣡मम् म꣡म श्र꣡वद्  
+अस्मा꣡कम् इ꣡न्द्रम् इ꣡न्दवः  
+तिरः꣡ पवि꣡त्रं ससृवां꣡स आश꣡वो  
+म꣡न्दन्तु तुग्रियाव्ŕ̥धः  

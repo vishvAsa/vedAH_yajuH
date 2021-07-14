@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-abhivŕ̥tya sapátnān  
-abhí yā́ no árātayaḥ  
-abhí pr̥tanyántaṃ tiṣṭha  
-abhí yó na irasyáti  
+अभिव्ŕ̥त्य सप꣡त्नान्  
+अभि꣡ या꣡ नो अ꣡रातयः  
+अभि꣡ पृतन्य꣡न्तं तिष्ठ  
+अभि꣡ यो꣡ न इरस्य꣡ति  

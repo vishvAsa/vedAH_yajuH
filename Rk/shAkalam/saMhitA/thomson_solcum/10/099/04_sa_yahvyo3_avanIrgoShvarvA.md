@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá yahvíyo avánīr góṣu árvā  
-ā́ juhoti pradhaníyāsu sásriḥ  
-apā́do yátra yújyāso arathā́  
-droṇíaśvāsa ī́rate ghr̥táṃ vā́ḥ  
+स꣡ यह्वि꣡यो अव꣡नीर् गो꣡षु अ꣡र्वा  
+आ꣡ जुहोति प्रधनि꣡यासु स꣡स्रिः  
+अपा꣡दो य꣡त्र यु꣡ज्यासो अरथा꣡  
+द्रोणि꣡अश्वास ई꣡रते घृतं꣡ वाः꣡  

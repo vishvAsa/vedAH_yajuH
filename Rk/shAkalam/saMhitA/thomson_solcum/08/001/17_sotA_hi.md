@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-sótā hí sómam ádribhir  
-ém enam apsú dhāvata  
-gavyā́ vástreva vāsáyanta ín náro  
-nír dhukṣan vakṣáṇābhiyaḥ  
+सो꣡ता हि꣡ सो꣡मम् अ꣡द्रिभिर्  
+ए꣡म् एनम् अप्सु꣡ धावत  
+गव्या꣡ व꣡स्त्रेव वास꣡यन्त इ꣡न् न꣡रो  
+नि꣡र् धुक्षन् वक्ष꣡णाभियः  

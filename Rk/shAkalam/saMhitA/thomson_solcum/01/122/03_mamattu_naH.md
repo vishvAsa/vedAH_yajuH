@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-mamáttu naḥ · párijmā vasarhā́  
-mamáttu vā́to apã́ṃ vŕ̥ṣaṇvān  
-śiśītám indrāparvatā yuváṃ nas  
-tán no víśve varivasyantu devā́ḥ  
+मम꣡त्तु नः · प꣡रिज्मा वसर्हा꣡  
+मम꣡त्तु वा꣡तो अप्ãं꣡ व्ŕ̥षण्वान्  
+शिशीत꣡म् इन्द्रापर्वता युवं꣡ नस्  
+त꣡न् नो वि꣡श्वे वरिवस्यन्तु देवाः꣡  

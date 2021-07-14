@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-índur vājī́ pavate gónioghā  
-índre sómaḥ sáha ínvan mádāya  
-hánti rákṣo bā́dhate páry árātīr  
-várivaḥ kr̥ṇván vr̥jánasya rā́jā  
+इ꣡न्दुर् वाजी꣡ पवते गो꣡निओघा  
+इ꣡न्द्रे सो꣡मः स꣡ह इ꣡न्वन् म꣡दाय  
+ह꣡न्ति र꣡क्षो बा꣡धते प꣡र्य् अ꣡रातीर्  
+व꣡रिवः कृण्व꣡न् वृज꣡नस्य रा꣡जा  

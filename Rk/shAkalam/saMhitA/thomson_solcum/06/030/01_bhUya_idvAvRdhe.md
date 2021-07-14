@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-bhū́ya íd · vāvr̥dhe vīríyāyam̐  
-éko ajuryó dayate vásūni  
-prá ririce divá índraḥ pr̥thivyā́  
-ardhám íd asya práti ródasī ubhé  
+भू꣡य इ꣡द् · वावृधे वीरि꣡यायँ  
+ए꣡को अजुर्यो꣡ दयते व꣡सूनि  
+प्र꣡ रिरिचे दिव꣡ इ꣡न्द्रः पृथिव्या꣡  
+अर्ध꣡म् इ꣡द् अस्य प्र꣡ति रो꣡दसी उभे꣡  

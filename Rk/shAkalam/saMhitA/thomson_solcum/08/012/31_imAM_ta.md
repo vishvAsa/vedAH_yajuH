@@ -2,6 +2,6 @@
 title = "031"
 
 +++
-imā́ṃ ta indra suṣṭutíṃ  
-vípra iyarti dhītíbhiḥ  
-jāmím padéva pípratīm prá adhvaré  
+इमां꣡ त इन्द्र सुष्टुतिं꣡  
+वि꣡प्र इयर्ति धीति꣡भिः  
+जामि꣡म् पदे꣡व पि꣡प्रतीम् प्र꣡ अध्वरे꣡  

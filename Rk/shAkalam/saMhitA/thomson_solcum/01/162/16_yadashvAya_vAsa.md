@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-yád áśvāya vā́sa upastr̥ṇánti  
-adhīvāsáṃ yā́ híraṇyāni asmai  
-saṃdā́nam árvantam páḍbīśam  
-priyā́ devéṣu ā́ yāmayanti  
+य꣡द् अ꣡श्वाय वा꣡स उपस्तृण꣡न्ति  
+अधीवासं꣡ या꣡ हि꣡रण्यानि अस्मै  
+संदा꣡नम् अ꣡र्वन्तम् प꣡ड्बीशम्  
+प्रिया꣡ देवे꣡षु आ꣡ यामयन्ति  

@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-bhū́ridā bhū́ri dehi no  
-mā́ dabhrám bhū́ri ā́ bhara  
-bhū́ri ghéd indra ditsasi  
+भू꣡रिदा भू꣡रि देहि नो  
+मा꣡ दभ्र꣡म् भू꣡रि आ꣡ भर  
+भू꣡रि घे꣡द् इन्द्र दित्ससि  

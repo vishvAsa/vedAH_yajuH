@@ -2,6 +2,6 @@
 title = "026"
 
 +++
-mahó no rāyá ā́ bhara  
-pávamāna jahī́ mŕ̥dhaḥ  
-rā́svendo vīrávad yáśaḥ  
+महो꣡ नो राय꣡ आ꣡ भर  
+प꣡वमान जही꣡ म्ŕ̥धः  
+रा꣡स्वेन्दो वीर꣡वद् य꣡शः  

@@ -2,8 +2,8 @@
 title = "024"
 
 +++
-svā́hākr̥tasya tr̥mpataṃ  
-sutásya devāv ándhasaḥ  
-ā́ yātam aśvinā́ gatam  
-avasyúr vām aháṃ huve  
-dhattáṃ rátnāni dāśúṣe  
+स्वा꣡हाकृतस्य तृम्पतं  
+सुत꣡स्य देवाव् अ꣡न्धसः  
+आ꣡ यातम् अश्विना꣡ गतम्  
+अवस्यु꣡र् वाम् अहं꣡ हुवे  
+धत्तं꣡ र꣡त्नानि दाशु꣡षे  

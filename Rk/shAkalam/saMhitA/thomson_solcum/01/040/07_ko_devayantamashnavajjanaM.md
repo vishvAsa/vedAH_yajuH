@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-kó devayántam aśnavaj  
-jánaṃ kó vr̥ktábarhiṣam  
-prá-pra dāśuvā́n pastíyābhir asthita  
-antarvā́vat kṣáyaṃ dadhe  
+को꣡ देवय꣡न्तम् अश्नवज्  
+ज꣡नं को꣡ वृक्त꣡बर्हिषम्  
+प्र꣡-प्र दाशुवा꣡न् पस्ति꣡याभिर् अस्थित  
+अन्तर्वा꣡वत् क्ष꣡यं दधे  

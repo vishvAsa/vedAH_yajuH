@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-bhadrám idáṃ ruśámā agne akran  
-gávāṃ catvā́ri dádataḥ sahásrā  
-r̥ṇaṃcayásya práyatā maghā́ni  
-práty agrabhīṣma nŕ̥tamasya nr̥̄ṇā́m+  
+भद्र꣡म् इदं꣡ रुश꣡मा अग्ने अक्रन्  
+ग꣡वां चत्वा꣡रि द꣡दतः सह꣡स्रा  
+ऋणंचय꣡स्य प्र꣡यता मघा꣡नि  
+प्र꣡त्य् अग्रभीष्म न्ŕ̥तमस्य नॄणा꣡म्+  

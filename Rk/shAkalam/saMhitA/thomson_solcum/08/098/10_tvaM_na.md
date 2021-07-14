@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-tuváṃ na indra ā́ bharam̐  
-ójo nr̥mṇáṃ śatakrato vicarṣaṇe  
-ā́ vīrám pr̥tanāṣáham  
+तुवं꣡ न इन्द्र आ꣡ भरँ  
+ओ꣡जो नृम्णं꣡ शतक्रतो विचर्षणे  
+आ꣡ वीर꣡म् पृतनाष꣡हम्  

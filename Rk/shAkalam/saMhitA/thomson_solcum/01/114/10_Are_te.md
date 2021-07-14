@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-āré te goghnám utá pūruṣaghnáṃ  
-kṣáyadvīra sumnám asmé te astu  
-mr̥̄ḷā́+ ca no ádhi ca brūhi deva  
-ádhā ca naḥ śárma yacha dvibárhāḥ  
+आरे꣡ ते गोघ्न꣡म् उत꣡ पूरुषघ्नं꣡  
+क्ष꣡यद्वीर सुम्न꣡म् अस्मे꣡ ते अस्तु  
+मॄऌआ꣡+ च नो अ꣡धि च ब्रूहि देव  
+अ꣡धा च नः श꣡र्म यछ द्विब꣡र्हाः  

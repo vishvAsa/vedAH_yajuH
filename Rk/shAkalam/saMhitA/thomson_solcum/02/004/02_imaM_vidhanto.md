@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-imáṃ vidhánto apã́ṃ sadhásthe  
-dvitā́dadhur bhr̥gavo vikṣú āyóḥ  
-eṣá víśvāni abhí astu bhū́mā  
-devā́nām agnír aratír jīrā́śvaḥ  
+इमं꣡ विध꣡न्तो अप्ãं꣡ सध꣡स्थे  
+द्विता꣡दधुर् भृगवो विक्षु꣡ आयोः꣡  
+एष꣡ वि꣡श्वानि अभि꣡ अस्तु भू꣡मा  
+देवा꣡नाम् अग्नि꣡र् अरति꣡र् जीरा꣡श्वः  

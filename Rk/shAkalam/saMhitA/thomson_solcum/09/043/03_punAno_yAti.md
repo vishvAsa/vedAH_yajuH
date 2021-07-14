@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-punānó yāti haryatáḥ  
-sómo gīrbhíḥ páriṣkr̥taḥ  
-víprasya médhiyātitheḥ  
+पुनानो꣡ याति हर्यतः꣡  
+सो꣡मो गीर्भिः꣡ प꣡रिष्कृतः  
+वि꣡प्रस्य मे꣡धियातिथेः  

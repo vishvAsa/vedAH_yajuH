@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sásnim avindac cáraṇe nadī́nām  
-ápāvr̥ṇod dúro áśmavrajānām  
-prā́sāṃ gandharvó amŕ̥tāni vocad  
-índro dákṣam pári jānād ahī́nām  
+स꣡स्निम् अविन्दच् च꣡रणे नदी꣡नाम्  
+अ꣡पावृणोद् दु꣡रो अ꣡श्मव्रजानाम्  
+प्रा꣡सां गन्धर्वो꣡ अम्ŕ̥तानि वोचद्  
+इ꣡न्द्रो द꣡क्षम् प꣡रि जानाद् अही꣡नाम्  

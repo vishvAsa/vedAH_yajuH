@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yuvám átrayé 'vanītāya taptám  
-ū́rjam omā́nam aśvināv adhattam  
-yuváṃ káṇvāyā́piriptāya cákṣuḥ  
-práty adhattaṃ suṣṭutíṃ jujuṣāṇā́  
+युव꣡म् अ꣡त्रये꣡ ऽवनीताय तप्त꣡म्  
+ऊ꣡र्जम् ओमा꣡नम् अश्विनाव् अधत्तम्  
+युवं꣡ क꣡ण्वाया꣡पिरिप्ताय च꣡क्षुः  
+प्र꣡त्य् अधत्तं सुष्टुतिं꣡ जुजुषाणा꣡  

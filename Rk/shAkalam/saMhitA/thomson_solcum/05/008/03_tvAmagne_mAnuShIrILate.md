@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuvā́m agne mā́nuṣīr īḷate víśo  
-hotrāvídaṃ víviciṃ ratnadhā́tamam  
-gúhā sántaṃ subhaga viśvádarśataṃ  
-tuviṣvaṇásaṃ suyájaṃ ghr̥taśríyam  
+तुवा꣡म् अग्ने मा꣡नुषीर् ईऌअते वि꣡शो  
+होत्रावि꣡दं वि꣡विचिं रत्नधा꣡तमम्  
+गु꣡हा स꣡न्तं सुभग विश्व꣡दर्शतं  
+तुविष्वण꣡सं सुय꣡जं घृतश्रि꣡यम्  

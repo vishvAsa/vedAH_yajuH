@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-yūyám mártaṃ vipanyavaḥ  
-praṇetā́ra itthā́ dhiyā́  
-śrótāro yā́mahūtiṣu  
+यूय꣡म् म꣡र्तं विपन्यवः  
+प्रणेता꣡र इत्था꣡ धिया꣡  
+श्रो꣡तारो या꣡महूतिषु  

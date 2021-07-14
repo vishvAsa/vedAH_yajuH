@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sánā jyótiḥ sánā súvar  
-víśvā ca soma saúbhagā  
-áthā no vásyasas kr̥dhi  
+स꣡ना ज्यो꣡तिः स꣡ना सु꣡वर्  
+वि꣡श्वा च सोम सउ꣡भगा  
+अ꣡था नो व꣡स्यसस् कृधि  

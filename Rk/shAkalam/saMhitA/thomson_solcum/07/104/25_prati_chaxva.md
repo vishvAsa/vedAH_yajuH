@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-práti cakṣva ví cakṣuva  
-índraś ca soma jāgr̥tam  
-rákṣobhyo vadhám asyatam  
-aśániṃ yātumádbhiyaḥ  
+प्र꣡ति चक्ष्व वि꣡ चक्षुव  
+इ꣡न्द्रश् च सोम जागृतम्  
+र꣡क्षोभ्यो वध꣡म् अस्यतम्  
+अश꣡निं यातुम꣡द्भियः  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-r̥bhúm r̥bhukṣaṇo rayíṃ  
-vā́je vājíntamaṃ yújam  
-índrasvantaṃ havāmahe  
-sadāsā́tamam aśvínam  
+ऋभु꣡म् ऋभुक्षणो रयिं꣡  
+वा꣡जे वाजि꣡न्तमं यु꣡जम्  
+इ꣡न्द्रस्वन्तं हवामहे  
+सदासा꣡तमम् अश्वि꣡नम्  

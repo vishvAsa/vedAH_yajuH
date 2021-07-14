@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prá vāyúm áchā br̥hatī́ manīṣā́  
-br̥hádrayiṃ viśvávāraṃ rathaprā́m  
-dyutádyāmā niyútaḥ pátyamānaḥ  
-kavíḥ kavím iyakṣasi prayajyo  
+प्र꣡ वायु꣡म् अ꣡छा बृहती꣡ मनीषा꣡  
+बृह꣡द्रयिं विश्व꣡वारं रथप्रा꣡म्  
+द्युत꣡द्यामा नियु꣡तः प꣡त्यमानः  
+कविः꣡ कवि꣡म् इयक्षसि प्रयज्यो  

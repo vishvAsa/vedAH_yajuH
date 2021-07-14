@@ -2,6 +2,6 @@
 title = "033"
 
 +++
-utá brahmaṇiyā́ vayáṃ  
-túbhyam pravr̥ddha vajrivaḥ  
-víprā atakṣma jīváse  
+उत꣡ ब्रह्मणिया꣡ वयं꣡  
+तु꣡भ्यम् प्रवृद्ध वज्रिवः  
+वि꣡प्रा अतक्ष्म जीव꣡से  

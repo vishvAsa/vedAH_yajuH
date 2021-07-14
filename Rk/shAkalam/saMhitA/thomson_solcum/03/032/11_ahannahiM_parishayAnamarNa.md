@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-áhann áhim pariśáyānam árṇa  
-ojāyámānaṃ tuvijāta távyān  
-ná te mahitvám ánu bhūd ádha dyaúr  
-yád anyáyā sphigíyā kṣā́m ávasthāḥ  
+अ꣡हन्न् अ꣡हिम् परिश꣡यानम् अ꣡र्ण  
+ओजाय꣡मानं तुविजात त꣡व्यान्  
+न꣡ ते महित्व꣡म् अ꣡नु भूद् अ꣡ध द्यउ꣡र्  
+य꣡द् अन्य꣡या स्फिगि꣡या क्षा꣡म् अ꣡वस्थाः  

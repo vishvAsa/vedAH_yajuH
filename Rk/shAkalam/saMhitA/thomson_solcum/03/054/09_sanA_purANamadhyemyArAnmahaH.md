@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sánā purāṇám ádhi emi ārā́n  
-maháḥ pitúr janitúr jāmí tán naḥ  
-devā́so yátra panitā́ra évair  
-uraú pathí víute tasthúr antáḥ  
+स꣡ना पुराण꣡म् अ꣡धि एमि आरा꣡न्  
+महः꣡ पितु꣡र् जनितु꣡र् जामि꣡ त꣡न् नः  
+देवा꣡सो य꣡त्र पनिता꣡र ए꣡वैर्  
+उरउ꣡ पथि꣡ वि꣡उते तस्थु꣡र् अन्तः꣡  

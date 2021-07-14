@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-yā́bhiḥ páṭharvā jáṭharasya majmánā  
-agnír nā́dīdec citá iddhó ájman ā́  
-yā́bhiḥ śáryātam ávatho mahādhané  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिः प꣡ठर्वा ज꣡ठरस्य मज्म꣡ना  
+अग्नि꣡र् ना꣡दीदेच् चित꣡ इद्धो꣡ अ꣡ज्मन् आ꣡  
+या꣡भिः श꣡र्यातम् अ꣡वथो महाधने꣡  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

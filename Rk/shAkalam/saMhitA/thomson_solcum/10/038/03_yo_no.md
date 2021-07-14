@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yó no dā́sa ā́riyo vā puruṣṭuta  
-ádeva indra yudháye cíketati  
-asmā́bhiṣ ṭe suṣáhāḥ santu śátravas  
-tváyā vayáṃ tā́n vanuyāma saṃgamé  
+यो꣡ नो दा꣡स आ꣡रियो वा पुरुष्टुत  
+अ꣡देव इन्द्र युध꣡ये चि꣡केतति  
+अस्मा꣡भिष् टे सुष꣡हाः सन्तु श꣡त्रवस्  
+त्व꣡या वयं꣡ ता꣡न् वनुयाम संगमे꣡  

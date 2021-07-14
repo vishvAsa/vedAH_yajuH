@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-ubhā́bhyāṃ deva savitaḥ  
-pavítreṇa savéna ca  
-mã́m punīhi viśvátaḥ  
+उभा꣡भ्यां देव सवितः  
+पवि꣡त्रेण सवे꣡न च  
+म्ã꣡म् पुनीहि विश्व꣡तः  

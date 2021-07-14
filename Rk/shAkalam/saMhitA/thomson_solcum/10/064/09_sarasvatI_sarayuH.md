@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sárasvatī saráyuḥ síndhur ūrmíbhir  
-mahó mahī́r ávasā́ yantu vákṣaṇīḥ  
-devī́r ā́po mātáraḥ sūdayitnúvo  
-ghr̥távat páyo mádhuman no arcata  
+स꣡रस्वती सर꣡युः सि꣡न्धुर् ऊर्मि꣡भिर्  
+महो꣡ मही꣡र् अ꣡वसा꣡ यन्तु व꣡क्षणीः  
+देवी꣡र् आ꣡पो मात꣡रः सूदयित्नु꣡वो  
+घृत꣡वत् प꣡यो म꣡धुमन् नो अर्चत  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-tám indra mádam ā́ gahi  
-barhiṣṭhā́ṃ grā́vabhiḥ sutám  
-kuvín nú asya tr̥pṇávaḥ  
+त꣡म् इन्द्र म꣡दम् आ꣡ गहि  
+बर्हिष्ठां꣡ ग्रा꣡वभिः सुत꣡म्  
+कुवि꣡न् नु꣡ अस्य तृप्ण꣡वः  

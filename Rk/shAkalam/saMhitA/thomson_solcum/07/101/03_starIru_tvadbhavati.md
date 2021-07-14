@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-starī́r u tvad bhávati sū́ta u tvad  
-yathāvaśáṃ tanúvaṃ cakra eṣáḥ  
-pitúḥ páyaḥ práti gr̥bhṇāti mātā́  
-téna pitā́ vardhate téna putráḥ  
+स्तरी꣡र् उ त्वद् भ꣡वति सू꣡त उ त्वद्  
+यथावशं꣡ तनु꣡वं चक्र एषः꣡  
+पितुः꣡ प꣡यः प्र꣡ति गृभ्णाति माता꣡  
+ते꣡न पिता꣡ वर्धते ते꣡न पुत्रः꣡  

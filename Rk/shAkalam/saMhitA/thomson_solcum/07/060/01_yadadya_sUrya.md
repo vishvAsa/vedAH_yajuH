@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yád adyá sūriya brávo ánāgā  
-udyán mitrā́ya váruṇāya satyám  
-vayáṃ devatrā́ adite siyāma  
-táva priyā́so aryaman gr̥ṇántaḥ  
+य꣡द् अद्य꣡ सूरिय ब्र꣡वो अ꣡नागा  
+उद्य꣡न् मित्रा꣡य व꣡रुणाय सत्य꣡म्  
+वयं꣡ देवत्रा꣡ अदिते सियाम  
+त꣡व प्रिया꣡सो अर्यमन् गृण꣡न्तः  

@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-prá yā́ mahimnā́ mahínāsu cékite  
-dyumnébhir anyā́ apásām apástamā  
-rátha iva br̥hatī́ vibhváne kr̥tā́  
-upastútyā cikitúṣā sárasvatī  
+प्र꣡ या꣡ महिम्ना꣡ महि꣡नासु चे꣡किते  
+द्युम्ने꣡भिर् अन्या꣡ अप꣡साम् अप꣡स्तमा  
+र꣡थ इव बृहती꣡ विभ्व꣡ने कृता꣡  
+उपस्तु꣡त्या चिकितु꣡षा स꣡रस्वती  

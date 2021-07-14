@@ -2,5 +2,5 @@
 title = "017"
 
 +++
-ásr̥gran devávītaye  
-vājayánto ráthā iva  
+अ꣡सृग्रन् देव꣡वीतये  
+वाजय꣡न्तो र꣡था इव  

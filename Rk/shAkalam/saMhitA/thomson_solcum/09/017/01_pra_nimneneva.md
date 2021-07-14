@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-prá nimnéneva síndhavo  
-ghnánto vr̥trā́ṇi bhū́rṇayaḥ  
-sómā asr̥gram āśávaḥ  
+प्र꣡ निम्ने꣡नेव सि꣡न्धवो  
+घ्न꣡न्तो वृत्रा꣡णि भू꣡र्णयः  
+सो꣡मा असृग्रम् आश꣡वः  

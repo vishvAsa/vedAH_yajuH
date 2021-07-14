@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-juṣád dhavyā́ mā́nuṣasya  
-ūrdhvás tasthāv ŕ̥bhvā yajñé  
-minván sádma purá eti  
+जुष꣡द् धव्या꣡ मा꣡नुषस्य  
+ऊर्ध्व꣡स् तस्थाव् ŕ̥भ्वा यज्ञे꣡  
+मिन्व꣡न् स꣡द्म पुर꣡ एति  

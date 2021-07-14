@@ -2,8 +2,8 @@
 title = "010"
 
 +++
-amī́ yé páñca ukṣáṇo  
-mádhye tasthúr mahó diváḥ  
-devatrā́ nú pravā́ciyaṃ  
-sadhrīcīnā́ ní vāvr̥tur  
-vittám me asyá rodasī  
+अमी꣡ ये꣡ प꣡ञ्च उक्ष꣡णो  
+म꣡ध्ये तस्थु꣡र् महो꣡ दिवः꣡  
+देवत्रा꣡ नु꣡ प्रवा꣡चियं  
+सध्रीचीना꣡ नि꣡ वावृतुर्  
+वित्त꣡म् मे अस्य꣡ रोदसी  

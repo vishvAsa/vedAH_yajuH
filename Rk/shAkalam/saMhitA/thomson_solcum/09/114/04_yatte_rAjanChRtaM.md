@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-yát te rājañ chr̥táṃ havís  
-téna somābhí rakṣa naḥ  
-arātīvā́ mā́ nas tārīn  
-mó ca naḥ kíṃ canā́mamad  
-índrāyendo pári srava  
+य꣡त् ते राजञ् छृतं꣡ हवि꣡स्  
+ते꣡न सोमाभि꣡ रक्ष नः  
+अरातीवा꣡ मा꣡ नस् तारीन्  
+मो꣡ च नः किं꣡ चना꣡ममद्  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

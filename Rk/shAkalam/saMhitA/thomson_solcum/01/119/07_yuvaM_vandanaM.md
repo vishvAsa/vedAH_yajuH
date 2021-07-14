@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yuváṃ vándanaṃ nírr̥taṃ jaraṇyáyā  
-ráthaṃ ná dasrā karaṇā́ sám invathaḥ  
-kṣétrād ā́ vípraṃ janatho vipanyáyā  
-prá vām átra vidhaté daṃsánā bhuvat  
+युवं꣡ व꣡न्दनं नि꣡रृतं जरण्य꣡या  
+र꣡थं न꣡ दस्रा करणा꣡ स꣡म् इन्वथः  
+क्षे꣡त्राद् आ꣡ वि꣡प्रं जनथो विपन्य꣡या  
+प्र꣡ वाम् अ꣡त्र विधते꣡ दंस꣡ना भुवत्  

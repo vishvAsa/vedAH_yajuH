@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuváṃ kútsaṃ śuṣṇahátyeṣu āvitha  
-árandhayo atithigvā́ya śámbaram  
-mahā́ntaṃ cid arbudáṃ ní kramīḥ padā́  
-sanā́d evá dasyuhátyāya jajñiṣe  
+तुवं꣡ कु꣡त्सं शुष्णह꣡त्येषु आविथ  
+अ꣡रन्धयो अतिथिग्वा꣡य श꣡म्बरम्  
+महा꣡न्तं चिद् अर्बुदं꣡ नि꣡ क्रमीः पदा꣡  
+सना꣡द् एव꣡ दस्युह꣡त्याय जज्ञिषे  

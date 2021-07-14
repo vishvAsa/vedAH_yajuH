@@ -2,8 +2,8 @@
 title = "008"
 
 +++
-mādáyasva suté sácā  
-śávase śūra rā́dhase  
-vidmā́ hí tvā purūvásum  
-úpa kā́mān sasr̥jmáhe  
-áthā no avitā́ bhava  
+माद꣡यस्व सुते꣡ स꣡चा  
+श꣡वसे शूर रा꣡धसे  
+विद्मा꣡ हि꣡ त्वा पुरूव꣡सुम्  
+उ꣡प का꣡मान् ससृज्म꣡हे  
+अ꣡था नो अविता꣡ भव  

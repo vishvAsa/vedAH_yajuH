@@ -2,7 +2,7 @@
 title = "029"
 
 +++
-śatáṃ dhā́rā devájātā asr̥gran  
-sahásram enāḥ kaváyo mr̥janti  
-índo sanítraṃ divá ā́ pavasva  
-puraetā́si maható dhánasya  
+शतं꣡ धा꣡रा देव꣡जाता असृग्रन्  
+सह꣡स्रम् एनाः कव꣡यो मृजन्ति  
+इ꣡न्दो सनि꣡त्रं दिव꣡ आ꣡ पवस्व  
+पुरएता꣡सि महतो꣡ ध꣡नस्य  

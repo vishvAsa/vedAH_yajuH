@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-táva tviṣó jániman rejata dyaú  
-réjad bhū́mir bhiyásā svásya manyóḥ  
-r̥ghāyánta subhúvaḥ párvatāsa  
-ā́rdan dhánvāni saráyanta ā́paḥ  
+त꣡व त्विषो꣡ ज꣡निमन् रेजत द्यउ꣡  
+रे꣡जद् भू꣡मिर् भिय꣡सा स्व꣡स्य मन्योः꣡  
+ऋघाय꣡न्त सुभु꣡वः प꣡र्वतास  
+आ꣡र्दन् ध꣡न्वानि सर꣡यन्त आ꣡पः  

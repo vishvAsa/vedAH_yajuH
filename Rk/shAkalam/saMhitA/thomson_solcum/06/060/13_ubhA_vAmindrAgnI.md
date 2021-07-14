@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ubhā́ vām indraagnī āhuvádhyā  
-ubhā́ rā́dhasaḥ sahá mādayádhyai  
-ubhā́ dātā́rāv iṣã́ṃ rayīṇā́m  
-ubhā́ vā́jasya sātáye huve vām  
+उभा꣡ वाम् इन्द्रअग्नी आहुव꣡ध्या  
+उभा꣡ रा꣡धसः सह꣡ मादय꣡ध्यै  
+उभा꣡ दाता꣡राव् इष्ãं꣡ रयीणा꣡म्  
+उभा꣡ वा꣡जस्य सात꣡ये हुवे वाम्  

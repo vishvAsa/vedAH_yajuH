@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tā́n pū́rvayā nivídā hūmahe vayám  
-bhágam mitrám áditiṃ dákṣam asrídham  
-aryamáṇaṃ váruṇaṃ sómam aśvínā  
-sárasvatī naḥ subhágā máyas karat  
+ता꣡न् पू꣡र्वया निवि꣡दा हूमहे वय꣡म्  
+भ꣡गम् मित्र꣡म् अ꣡दितिं द꣡क्षम् अस्रि꣡धम्  
+अर्यम꣡णं व꣡रुणं सो꣡मम् अश्वि꣡ना  
+स꣡रस्वती नः सुभ꣡गा म꣡यस् करत्  

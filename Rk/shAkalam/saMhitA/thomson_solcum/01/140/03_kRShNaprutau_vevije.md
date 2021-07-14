@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-kr̥ṣṇaprútau vevijé asya sakṣítā  
-ubhā́ tarete abhí mātárā śíśum  
-prācā́jihvaṃ dhvasáyantaṃ tr̥ṣucyútam  
-ā́ sā́ciyaṃ kúpayaṃ várdhanam pitúḥ  
+कृष्णप्रु꣡तौ वेविजे꣡ अस्य सक्षि꣡ता  
+उभा꣡ तरेते अभि꣡ मात꣡रा शि꣡शुम्  
+प्राचा꣡जिह्वं ध्वस꣡यन्तं तृषुच्यु꣡तम्  
+आ꣡ सा꣡चियं कु꣡पयं व꣡र्धनम् पितुः꣡  

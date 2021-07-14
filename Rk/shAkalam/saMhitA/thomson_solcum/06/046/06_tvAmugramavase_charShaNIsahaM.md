@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvā́m ugrám ávase carṣaṇīsáhaṃ  
-rā́jan devéṣu hūmahe  
-víśvā sú no vithurā́ pibdanā́ vaso  
-amítrān suṣáhān kr̥dhi  
+तुवा꣡म् उग्र꣡म् अ꣡वसे चर्षणीस꣡हं  
+रा꣡जन् देवे꣡षु हूमहे  
+वि꣡श्वा सु꣡ नो विथुरा꣡ पिब्दना꣡ वसो  
+अमि꣡त्रान् सुष꣡हान् कृधि  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́d índraḥ satrā́ táviṣīr apatyata  
-várīyo dyā́vāpr̥thivī́ abādhata  
-ávābharad dhr̥ṣitó vájram āyasáṃ  
-śévam mitrā́ya váruṇāya dāśúṣe  
+आ꣡द् इ꣡न्द्रः सत्रा꣡ त꣡विषीर् अपत्यत  
+व꣡रीयो द्या꣡वापृथिवी꣡ अबाधत  
+अ꣡वाभरद् धृषितो꣡ व꣡ज्रम् आयसं꣡  
+शे꣡वम् मित्रा꣡य व꣡रुणाय दाशु꣡षे  

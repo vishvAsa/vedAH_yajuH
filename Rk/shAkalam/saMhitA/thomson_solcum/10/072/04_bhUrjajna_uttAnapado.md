@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-bhū́r jajña uttānápado  
-bhuvá ā́śā ajāyanta  
-áditer dákṣo 'jāyata°  
-dákṣād u áditiḥ pári  
+भू꣡र् जज्ञ उत्तान꣡पदो  
+भुव꣡ आ꣡शा अजायन्त  
+अ꣡दितेर् द꣡क्षो ऽजायत°  
+द꣡क्षाद् उ अ꣡दितिः प꣡रि  

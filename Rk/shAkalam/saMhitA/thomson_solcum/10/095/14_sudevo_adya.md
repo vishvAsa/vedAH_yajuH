@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-sudevó adyá prapáted ánāvr̥t  
-parāvátam paramā́ṃ gántavā́ u  
-ádhā śáyīta nírr̥ter upásthe  
-ádhainaṃ vŕ̥kā rabhasā́so adyúḥ  
+सुदेवो꣡ अद्य꣡ प्रप꣡तेद् अ꣡नावृत्  
+पराव꣡तम् परमां꣡ ग꣡न्तवा꣡ उ  
+अ꣡धा श꣡यीत नि꣡रृतेर् उप꣡स्थे  
+अ꣡धैनं व्ŕ̥का रभसा꣡सो अद्युः꣡  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-eṣá drapsó vr̥ṣabhó viśvárūpa  
-índrāya vŕ̥ṣṇe sám akāri sómaḥ  
-etám piba hariva sthātar ugra  
-yásyéśiṣe pradívi yás te ánnam  
+एष꣡ द्रप्सो꣡ वृषभो꣡ विश्व꣡रूप  
+इ꣡न्द्राय व्ŕ̥ष्णे स꣡म् अकारि सो꣡मः  
+एत꣡म् पिब हरिव स्थातर् उग्र  
+य꣡स्ये꣡शिषे प्रदि꣡वि य꣡स् ते अ꣡न्नम्  

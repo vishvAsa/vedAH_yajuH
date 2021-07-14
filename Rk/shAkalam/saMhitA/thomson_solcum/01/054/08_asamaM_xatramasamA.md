@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ásamaṃ kṣatrám ásamā manīṣā́  
-prá somapā́ ápasā santu néme  
-yé ta indra dadúṣo vardháyanti  
-máhi kṣatráṃ stháviraṃ vŕ̥ṣṇiyaṃ ca  
+अ꣡समं क्षत्र꣡म् अ꣡समा मनीषा꣡  
+प्र꣡ सोमपा꣡ अ꣡पसा सन्तु ने꣡मे  
+ये꣡ त इन्द्र ददु꣡षो वर्ध꣡यन्ति  
+म꣡हि क्षत्रं꣡ स्थ꣡विरं व्ŕ̥ष्णियं च  

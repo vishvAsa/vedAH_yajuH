@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-tā́n yájatrām̐ r̥tāvŕ̥dho  
-ágne pátnīvatas kr̥dhi  
-mádhvaḥ sujihva pāyaya  
+ता꣡न् य꣡जत्राँ ऋताव्ŕ̥धो  
+अ꣡ग्ने प꣡त्नीवतस् कृधि  
+म꣡ध्वः सुजिह्व पायय  

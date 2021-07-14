@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-abhí arṣa sahasríṇaṃ  
-rayíṃ gómantam aśvínam  
-abhí vā́jam utá śrávaḥ  
+अभि꣡ अर्ष सहस्रि꣡णं  
+रयिं꣡ गो꣡मन्तम् अश्वि꣡नम्  
+अभि꣡ वा꣡जम् उत꣡ श्र꣡वः  

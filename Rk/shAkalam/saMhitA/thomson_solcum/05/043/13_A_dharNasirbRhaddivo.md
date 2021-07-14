@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ā́ dharṇasír br̥háddivo rárāṇo  
-víśvebhir gantu ómabhir huvānáḥ  
-gnã́ vásāna óṣadhīr ámr̥dhras  
-tridhā́tuśr̥ṅgo vr̥ṣabhó vayodhā́ḥ  
+आ꣡ धर्णसि꣡र् बृह꣡द्दिवो र꣡राणो  
+वि꣡श्वेभिर् गन्तु ओ꣡मभिर् हुवानः꣡  
+ग्न्ã꣡ व꣡सान ओ꣡षधीर् अ꣡मृध्रस्  
+त्रिधा꣡तुशृङ्गो वृषभो꣡ वयोधाः꣡  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ā́ indra sānasíṃ rayíṃ  
-sajítvānaṃ sadāsáham  
-várṣiṣṭham ūtáye bhara  
+आ꣡ इन्द्र सानसिं꣡ रयिं꣡  
+सजि꣡त्वानं सदास꣡हम्  
+व꣡र्षिष्ठम् ऊत꣡ये भर  

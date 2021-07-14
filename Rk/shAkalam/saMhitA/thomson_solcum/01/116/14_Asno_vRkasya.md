@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-āsnó vŕ̥kasya vártikām abhī́ke  
-yuváṃ narā nāsatiyāmumuktam  
-utó kavím purubhujā yuváṃ ha  
-kŕ̥pamāṇam akr̥ṇutaṃ vicákṣe  
+आस्नो꣡ व्ŕ̥कस्य व꣡र्तिकाम् अभी꣡के  
+युवं꣡ नरा नासतियामुमुक्तम्  
+उतो꣡ कवि꣡म् पुरुभुजा युवं꣡ ह  
+क्ŕ̥पमाणम् अकृणुतं विच꣡क्षे  

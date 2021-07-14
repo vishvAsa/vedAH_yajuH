@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-arā́ ivéd ácaramā áheva  
-prá-pra jāyante ákavā máhobhiḥ  
-pŕ̥śneḥ putrā́ upamā́so rábhiṣṭhāḥ  
-sváyā matyā́ marútaḥ sám mimikṣuḥ  
+अरा꣡ इवे꣡द् अ꣡चरमा अ꣡हेव  
+प्र꣡-प्र जायन्ते अ꣡कवा म꣡होभिः  
+प्ŕ̥श्नेः पुत्रा꣡ उपमा꣡सो र꣡भिष्ठाः  
+स्व꣡या मत्या꣡ मरु꣡तः स꣡म् मिमिक्षुः  

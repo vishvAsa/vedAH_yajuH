@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-áhann índro ádahad agnír indo  
-purā́ dásyūn madhyáṃdinād abhī́ke  
-durgé duroṇé krátuvā ná yātā́m  
-purū́ sahásrā śáruvā ní barhīt  
+अ꣡हन्न् इ꣡न्द्रो अ꣡दहद् अग्नि꣡र् इन्दो  
+पुरा꣡ द꣡स्यून् मध्यं꣡दिनाद् अभी꣡के  
+दुर्गे꣡ दुरोणे꣡ क्र꣡तुवा न꣡ याता꣡म्  
+पुरू꣡ सह꣡स्रा श꣡रुवा नि꣡ बर्हीत्  

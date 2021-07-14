@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-kratuprā́vā jaritā́ śáśvatām áva  
-índra íd bhadrā́ prámatiḥ sutā́vatām  
-pūrṇám ū́dhar diviyáṃ yásya siktáya  
-ā́ sarvátātim áditiṃ vr̥ṇīmahe  
+क्रतुप्रा꣡वा जरिता꣡ श꣡श्वताम् अ꣡व  
+इ꣡न्द्र इ꣡द् भद्रा꣡ प्र꣡मतिः सुता꣡वताम्  
+पूर्ण꣡म् ऊ꣡धर् दिवियं꣡ य꣡स्य सिक्त꣡य  
+आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे  

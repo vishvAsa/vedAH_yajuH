@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sám asmiñ jā́yamāna āsata gnā́  
-utém avardhan nadíyaḥ svágūrtāḥ  
-mahé yát tvā purūravo ráṇāya  
-ávardhayan dasyuhátyāya devā́ḥ  
+स꣡म् अस्मिञ् जा꣡यमान आसत ग्ना꣡  
+उते꣡म् अवर्धन् नदि꣡यः स्व꣡गूर्ताः  
+महे꣡ य꣡त् त्वा पुरूरवो र꣡णाय  
+अ꣡वर्धयन् दस्युह꣡त्याय देवाः꣡  

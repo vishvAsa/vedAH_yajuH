@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-áti trī́ soma rocanā́  
-róhan ná bhrājase dívam  
-iṣṇán sū́ryaṃ ná codayaḥ  
+अ꣡ति त्री꣡ सोम रोचना꣡  
+रो꣡हन् न꣡ भ्राजसे दि꣡वम्  
+इष्ण꣡न् सू꣡र्यं न꣡ चोदयः  

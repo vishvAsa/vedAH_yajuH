@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tuvám etā́ni papriṣe ví nā́ma  
-ī́śāna indra dadhiṣe gábhastau  
-ánu tvā devā́ḥ śávasā madanti  
-upáribudhnān vanínaś cakartha  
+तुव꣡म् एता꣡नि पप्रिषे वि꣡ ना꣡म  
+ई꣡शान इन्द्र दधिषे ग꣡भस्तौ  
+अ꣡नु त्वा देवाः꣡ श꣡वसा मदन्ति  
+उप꣡रिबुध्नान् वनि꣡नश् चकर्थ  

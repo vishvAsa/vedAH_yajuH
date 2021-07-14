@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-pr̥thupā́jā ámartiyo  
-ghr̥tánirṇik súāhutaḥ  
-agnír yajñásya havyavā́ṭ  
+पृथुपा꣡जा अ꣡मर्तियो  
+घृत꣡निर्णिक् सु꣡आहुतः  
+अग्नि꣡र् यज्ञ꣡स्य हव्यवा꣡ट्  

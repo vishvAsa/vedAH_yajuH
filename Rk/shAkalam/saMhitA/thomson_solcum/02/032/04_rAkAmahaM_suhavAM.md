@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-rākā́m aháṃ suhávāṃ suṣṭutī́ huve  
-śr̥ṇótu naḥ subhágā bódhatu tmánā  
-sī́vyatv ápaḥ sūciyā́chidyamānayā  
-dádātu vīráṃ śatádāyam ukthíyam  
+राका꣡म् अहं꣡ सुह꣡वां सुष्टुती꣡ हुवे  
+शृणो꣡तु नः सुभ꣡गा बो꣡धतु त्म꣡ना  
+सी꣡व्यत्व् अ꣡पः सूचिया꣡छिद्यमानया  
+द꣡दातु वीरं꣡ शत꣡दायम् उक्थि꣡यम्  

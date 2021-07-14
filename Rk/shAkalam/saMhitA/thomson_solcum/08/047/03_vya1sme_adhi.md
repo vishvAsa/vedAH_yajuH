@@ -2,9 +2,9 @@
 title = "003"
 
 +++
-ví asmé ádhi śárma tát  
-pakṣā́ váyo ná yantana  
-víśvāni viśvavedaso  
-varūthíyā manāmahe  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+वि꣡ अस्मे꣡ अ꣡धि श꣡र्म त꣡त्  
+पक्षा꣡ व꣡यो न꣡ यन्तन  
+वि꣡श्वानि विश्ववेदसो  
+वरूथि꣡या मनामहे  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

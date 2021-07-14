@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tám ásmerā yuvatáyo yúvānam  
-marmr̥jyámānāḥ pári yanti ā́paḥ  
-sá śukrébhiḥ śíkvabhī revád asmé  
-dīdā́yānidhmó ghr̥tánirṇig apsú  
+त꣡म् अ꣡स्मेरा युवत꣡यो यु꣡वानम्  
+मर्मृज्य꣡मानाः प꣡रि यन्ति आ꣡पः  
+स꣡ शुक्रे꣡भिः शि꣡क्वभी रेव꣡द् अस्मे꣡  
+दीदा꣡यानिध्मो꣡ घृत꣡निर्णिग् अप्सु꣡  

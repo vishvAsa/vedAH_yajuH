@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sá randhayat sadívaḥ sā́rathaye  
-śúṣṇam aśúṣaṃ kúyavaṃ kútsāya  
-dívodāsāya navatíṃ ca náva  
-índraḥ púro ví airac chámbarasya  
+स꣡ रन्धयत् सदि꣡वः सा꣡रथये  
+शु꣡ष्णम् अशु꣡षं कु꣡यवं कु꣡त्साय  
+दि꣡वोदासाय नवतिं꣡ च न꣡व  
+इ꣡न्द्रः पु꣡रो वि꣡ ऐरच् छ꣡म्बरस्य  

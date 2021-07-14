@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-túbhyéd indra marútvate  
-sutā́ḥ sómāso adrivaḥ  
-hr̥dā́ hūyanta ukthínaḥ  
+तु꣡भ्ये꣡द् इन्द्र मरु꣡त्वते  
+सुताः꣡ सो꣡मासो अद्रिवः  
+हृदा꣡ हूयन्त उक्थि꣡नः  

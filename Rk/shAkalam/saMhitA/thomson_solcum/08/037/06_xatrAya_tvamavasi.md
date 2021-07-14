@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-kṣatrā́ya tvam ávasi ná tvam āvitha śacīpata  
-índra víśvābhir ūtíbhiḥ  
-mā́dhyaṃdinasya sávanasya vr̥trahann anediya  
-píbā sómasya vajrivaḥ  
+क्षत्रा꣡य त्वम् अ꣡वसि न꣡ त्वम् आविथ शचीपत  
+इ꣡न्द्र वि꣡श्वाभिर् ऊति꣡भिः  
+मा꣡ध्यंदिनस्य स꣡वनस्य वृत्रहन्न् अनेदिय  
+पि꣡बा सो꣡मस्य वज्रिवः  

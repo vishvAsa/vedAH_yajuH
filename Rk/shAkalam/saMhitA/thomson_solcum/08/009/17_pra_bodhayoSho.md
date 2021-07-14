@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-prá bodhayoṣo aśvínā  
-prá devi sūnr̥te mahi  
-prá yajñahotar ānuṣák  
-prá mádāya śrávo br̥hát  
+प्र꣡ बोधयोषो अश्वि꣡ना  
+प्र꣡ देवि सूनृते महि  
+प्र꣡ यज्ञहोतर् आनुष꣡क्  
+प्र꣡ म꣡दाय श्र꣡वो बृह꣡त्  

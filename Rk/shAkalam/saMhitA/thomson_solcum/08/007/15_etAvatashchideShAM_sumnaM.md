@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-etā́vataś cid eṣãṃ  
-sumnám bhikṣeta mártiyaḥ  
-ádābhiyasya mánmabhiḥ  
+एता꣡वतश् चिद् एष्ãं  
+सुम्न꣡म् भिक्षेत म꣡र्तियः  
+अ꣡दाभियस्य म꣡न्मभिः  

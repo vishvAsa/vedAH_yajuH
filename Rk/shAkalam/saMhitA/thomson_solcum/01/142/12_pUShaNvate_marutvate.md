@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-pūṣaṇváte marútvate  
-viśvádevāya vāyáve  
-svā́hā gāyatrávepase  
-havyám índrāya kartana  
+पूषण्व꣡ते मरु꣡त्वते  
+विश्व꣡देवाय वाय꣡वे  
+स्वा꣡हा गायत्र꣡वेपसे  
+हव्य꣡म् इ꣡न्द्राय कर्तन  

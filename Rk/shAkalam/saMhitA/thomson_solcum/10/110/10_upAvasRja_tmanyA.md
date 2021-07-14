@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-upā́vasr̥ja tmániyā samañján  
-devā́nām pā́tha r̥tuthā́ havī́ṃṣi  
-vánaspátiḥ śamitā́ devó agníḥ  
-svádantu havyám mádhunā ghr̥téna  
+उपा꣡वसृज त्म꣡निया समञ्ज꣡न्  
+देवा꣡नाम् पा꣡थ ऋतुथा꣡ हवीं꣡षि  
+व꣡नस्प꣡तिः शमिता꣡ देवो꣡ अग्निः꣡  
+स्व꣡दन्तु हव्य꣡म् म꣡धुना घृते꣡न  

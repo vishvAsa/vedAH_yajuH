@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-vasā́ṃ rā́jānaṃ vasatíṃ jánānām  
-árātayo ní dadhur mártiyeṣu  
-bráhmāṇi átrer áva táṃ sr̥jantu  
-ninditā́ro níndiyāso bhavantu  
+वसां꣡ रा꣡जानं वसतिं꣡ ज꣡नानाम्  
+अ꣡रातयो नि꣡ दधुर् म꣡र्तियेषु  
+ब्र꣡ह्माणि अ꣡त्रेर् अ꣡व तं꣡ सृजन्तु  
+निन्दिता꣡रो नि꣡न्दियासो भवन्तु  

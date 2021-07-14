@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kuvíc chákat kuvít kárat  
-kuvín no vásyasas kárat  
-kuvít patidvíṣo yatī́r  
-índreṇa saṃgámāmahai  
+कुवि꣡च् छ꣡कत् कुवि꣡त् क꣡रत्  
+कुवि꣡न् नो व꣡स्यसस् क꣡रत्  
+कुवि꣡त् पतिद्वि꣡षो यती꣡र्  
+इ꣡न्द्रेण संग꣡मामहै  

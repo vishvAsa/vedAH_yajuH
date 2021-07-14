@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yuváṃ ha bhujyúṃ yuvám aśvinā váśaṃ  
-yuváṃ śiñjā́ram uśánām úpārathuḥ  
-yuvó rárāvā† pári sakhyám āsate  
-yuvór ahám ávasā sumnám ā́ cake  
+युवं꣡ ह भुज्युं꣡ युव꣡म् अश्विना व꣡शं  
+युवं꣡ शिञ्जा꣡रम् उश꣡नाम् उ꣡पारथुः  
+युवो꣡ र꣡रावा† प꣡रि सख्य꣡म् आसते  
+युवो꣡र् अह꣡म् अ꣡वसा सुम्न꣡म् आ꣡ चके  

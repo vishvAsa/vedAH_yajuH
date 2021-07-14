@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ní veveti palitó dūtá āsu  
-antár mahā́ṃś carati rocanéna  
-vápūṃṣi bíbhrad abhí no ví caṣṭe  
-mahád devā́nām asuratvám ékam  
+नि꣡ वेवेति पलितो꣡ दूत꣡ आसु  
+अन्त꣡र् महां꣡श् चरति रोचने꣡न  
+व꣡पूंषि बि꣡भ्रद् अभि꣡ नो वि꣡ चष्टे  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

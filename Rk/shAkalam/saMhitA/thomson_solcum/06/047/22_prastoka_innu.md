@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-prastoká ín nú rā́dhasas ta indra  
-dáśa kóśayīr dáśa vājíno 'dāt  
-dívodāsād atithigvásya rā́dhaḥ  
-śāmbaráṃ vásu práti agrabhīṣma  
+प्रस्तोक꣡ इ꣡न् नु꣡ रा꣡धसस् त इन्द्र  
+द꣡श को꣡शयीर् द꣡श वाजि꣡नो ऽदात्  
+दि꣡वोदासाद् अतिथिग्व꣡स्य रा꣡धः  
+शाम्बरं꣡ व꣡सु प्र꣡ति अग्रभीष्म  

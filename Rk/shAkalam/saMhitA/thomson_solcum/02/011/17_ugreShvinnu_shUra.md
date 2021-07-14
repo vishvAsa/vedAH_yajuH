@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-ugréṣu ín nú śūra mandasānás  
-tríkadrukeṣu pāhi sómam indra  
-pradódhuvac chmáśruṣu priṇānó°  
-yāhí háribhyāṃ sutásya pītím  
+उग्रे꣡षु इ꣡न् नु꣡ शूर मन्दसान꣡स्  
+त्रि꣡कद्रुकेषु पाहि सो꣡मम् इन्द्र  
+प्रदो꣡धुवच् छ्म꣡श्रुषु प्रिणानो꣡°  
+याहि꣡ ह꣡रिभ्यां सुत꣡स्य पीति꣡म्  

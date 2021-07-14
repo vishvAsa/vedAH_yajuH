@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-éko bahūnā́m asi manyav īḷitó  
-víśaṃ-viśaṃ yudháye sáṃ śiśādhi  
-ákr̥ttaruk · tuváyā yujā́ vayáṃ  
-dyumántaṃ ghóṣaṃ vijayā́ya kr̥ṇmahe  
+ए꣡को बहूना꣡म् असि मन्यव् ईऌइतो꣡  
+वि꣡शं-विशं युध꣡ये सं꣡ शिशाधि  
+अ꣡कृत्तरुक् · तुव꣡या युजा꣡ वयं꣡  
+द्युम꣡न्तं घो꣡षं विजया꣡य कृण्महे  

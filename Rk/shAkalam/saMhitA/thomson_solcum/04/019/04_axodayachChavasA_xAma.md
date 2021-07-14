@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ákṣodayac chávasā kṣā́ma budhnáṃ  
-vã́r ṇá vā́tas táviṣībhir índraḥ  
-dr̥̄ḷhā́ni+ aubhnād uśámāna ójo  
-ávābhinat kakúbhaḥ párvatānām  
+अ꣡क्षोदयच् छ꣡वसा क्षा꣡म बुध्नं꣡  
+व्ã꣡र् ण꣡ वा꣡तस् त꣡विषीभिर् इ꣡न्द्रः  
+दॄऌहा꣡नि+ औभ्नाद् उश꣡मान ओ꣡जो  
+अ꣡वाभिनत् ककु꣡भः प꣡र्वतानाम्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-utā́ yātaṃ saṃgavé prātár áhno  
-madhyáṃdina úditā sū́riyasya  
-dívā náktam ávasā śáṃtamena  
-nédā́nīm pītír aśvínā́ tatāna  
+उता꣡ यातं संगवे꣡ प्रात꣡र् अ꣡ह्नो  
+मध्यं꣡दिन उ꣡दिता सू꣡रियस्य  
+दि꣡वा न꣡क्तम् अ꣡वसा शं꣡तमेन  
+ने꣡दा꣡नीम् पीति꣡र् अश्वि꣡ना꣡ ततान  

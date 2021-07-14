@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá jā́yamānaḥ paramé víomani  
-vratā́ni agnír vratapā́ arakṣata  
-ví antárikṣam amimīta sukrátur  
-vaiśvānaró mahinā́ nā́kam aspr̥śat  
+स꣡ जा꣡यमानः परमे꣡ वि꣡ओमनि  
+व्रता꣡नि अग्नि꣡र् व्रतपा꣡ अरक्षत  
+वि꣡ अन्त꣡रिक्षम् अमिमीत सुक्र꣡तुर्  
+वैश्वानरो꣡ महिना꣡ ना꣡कम् अस्पृशत्  

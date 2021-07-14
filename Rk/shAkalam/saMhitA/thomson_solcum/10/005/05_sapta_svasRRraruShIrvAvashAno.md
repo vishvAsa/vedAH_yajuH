@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-saptá svásr̥̄r áruṣīr vāvaśānó  
-vidvā́n mádhva új jabhārā dr̥śé kám  
-antár yeme antárikṣe purājā́  
-ichán vavrím avidat pūṣaṇásya  
+सप्त꣡ स्व꣡सॄर् अ꣡रुषीर् वावशानो꣡  
+विद्वा꣡न् म꣡ध्व उ꣡ज् जभारा दृशे꣡ क꣡म्  
+अन्त꣡र् येमे अन्त꣡रिक्षे पुराजा꣡  
+इछ꣡न् वव्रि꣡म् अविदत् पूषण꣡स्य  

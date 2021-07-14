@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ánu yád īm marúto mandasānám  
-ā́rcann índram papivā́ṃsaṃ sutásya  
-ā́datta vájram abhí yád áhiṃ hánn  
-apó yahvī́r asr̥jat sártavā́ u  
+अ꣡नु य꣡द् ईम् मरु꣡तो मन्दसान꣡म्  
+आ꣡र्चन्न् इ꣡न्द्रम् पपिवां꣡सं सुत꣡स्य  
+आ꣡दत्त व꣡ज्रम् अभि꣡ य꣡द् अ꣡हिं ह꣡न्न्  
+अपो꣡ यह्वी꣡र् असृजत् स꣡र्तवा꣡ उ  

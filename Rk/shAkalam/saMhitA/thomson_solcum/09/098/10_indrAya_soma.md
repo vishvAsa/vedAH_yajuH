@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-índrāya soma pā́tave  
-vr̥traghné pári ṣicyase  
-náre ca dákṣiṇāvate  
-devā́ya sadanāsáde  
+इ꣡न्द्राय सोम पा꣡तवे  
+वृत्रघ्ने꣡ प꣡रि षिच्यसे  
+न꣡रे च द꣡क्षिणावते  
+देवा꣡य सदनास꣡दे  

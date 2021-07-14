@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-prá naḥ pūṣā́ caráthaṃ viśvádeviyo  
-apā́ṃ nápād avatu vāyúr iṣṭáye  
-ātmā́naṃ vásyo abhí vā́tam arcata  
-tád aśvinā suhavā yā́mani śrutam  
+प्र꣡ नः पूषा꣡ चर꣡थं विश्व꣡देवियो  
+अपां꣡ न꣡पाद् अवतु वायु꣡र् इष्ट꣡ये  
+आत्मा꣡नं व꣡स्यो अभि꣡ वा꣡तम् अर्चत  
+त꣡द् अश्विना सुहवा या꣡मनि श्रुतम्  

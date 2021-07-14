@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-sánemi kr̥dhí asmád ā́  
-rakṣásaṃ káṃ cid atríṇam  
-ápā́devaṃ dvayúm áṃho yuyodhi naḥ  
+स꣡नेमि कृधि꣡ अस्म꣡द् आ꣡  
+रक्ष꣡सं कं꣡ चिद् अत्रि꣡णम्  
+अ꣡पा꣡देवं द्वयु꣡म् अं꣡हो युयोधि नः  

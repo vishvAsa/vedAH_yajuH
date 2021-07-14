@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-ná yásya te śavasāna  
-sakhyám ānáṃśa mártiyaḥ  
-nákiḥ śávāṃsi te naśat  
+न꣡ य꣡स्य ते शवसान  
+सख्य꣡म् आनं꣡श म꣡र्तियः  
+न꣡किः श꣡वांसि ते नशत्  

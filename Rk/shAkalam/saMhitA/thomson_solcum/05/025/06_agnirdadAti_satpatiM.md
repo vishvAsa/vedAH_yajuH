@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-agnír dadāti sátpatiṃ  
-sāsā́ha yó yudhā́ nŕ̥bhiḥ  
-agnír átyaṃ raghuṣyádaṃ  
-jétāram áparājitam  
+अग्नि꣡र् ददाति स꣡त्पतिं  
+सासा꣡ह यो꣡ युधा꣡ न्ŕ̥भिः  
+अग्नि꣡र् अ꣡त्यं रघुष्य꣡दं  
+जे꣡तारम् अ꣡पराजितम्  

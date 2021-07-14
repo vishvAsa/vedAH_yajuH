@@ -2,7 +2,7 @@
 title = "044"
 
 +++
-vipaścíte pávamānāya gāyata  
-mahī́ ná dhā́rā áti ándho arṣati  
-áhir ná jūrṇā́m áti sarpati tvácam  
-átyo ná krī́ḷann asarad vŕ̥ṣā háriḥ  
+विपश्चि꣡ते प꣡वमानाय गायत  
+मही꣡ न꣡ धा꣡रा अ꣡ति अ꣡न्धो अर्षति  
+अ꣡हिर् न꣡ जूर्णा꣡म् अ꣡ति सर्पति त्व꣡चम्  
+अ꣡त्यो न꣡ क्री꣡ऌअन्न् असरद् व्ŕ̥षा ह꣡रिः  

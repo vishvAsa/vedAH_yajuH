@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-marútvato ápratītasya jiṣṇór  
-ájūryataḥ prá bravāmā kr̥tā́ni  
-ná te pū́rve maghavan nā́parāso  
-ná vīríyaṃ nū́tanaḥ káś canā́pa  
+मरु꣡त्वतो अ꣡प्रतीतस्य जिष्णो꣡र्  
+अ꣡जूर्यतः प्र꣡ ब्रवामा कृता꣡नि  
+न꣡ ते पू꣡र्वे मघवन् ना꣡परासो  
+न꣡ वीरि꣡यं नू꣡तनः क꣡श् चना꣡प  

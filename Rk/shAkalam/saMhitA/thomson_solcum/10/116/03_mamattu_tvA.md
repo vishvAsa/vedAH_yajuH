@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-mamáttu tvā diviyáḥ sóma indra  
-mamáttu yáḥ sūyáte pā́rthiveṣu  
-mamáttu yéna várivaś cakártha  
-mamáttu yéna niriṇā́si śátrūn  
+मम꣡त्तु त्वा दिवियः꣡ सो꣡म इन्द्र  
+मम꣡त्तु यः꣡ सूय꣡ते पा꣡र्थिवेषु  
+मम꣡त्तु ये꣡न व꣡रिवश् चक꣡र्थ  
+मम꣡त्तु ये꣡न निरिणा꣡सि श꣡त्रून्  

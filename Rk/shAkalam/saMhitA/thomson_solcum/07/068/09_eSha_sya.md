@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-eṣá syá kārúr jarate suuktaír  
-ágre budhāná uṣásāṃ sumánmā  
-iṣā́ táṃ vardhad aghniyā́ páyobhir  
-yūyám pāta suastíbhiḥ sádā naḥ  
+एष꣡ स्य꣡ कारु꣡र् जरते सुउक्तइ꣡र्  
+अ꣡ग्रे बुधान꣡ उष꣡सां सुम꣡न्मा  
+इषा꣡ तं꣡ वर्धद् अघ्निया꣡ प꣡योभिर्  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

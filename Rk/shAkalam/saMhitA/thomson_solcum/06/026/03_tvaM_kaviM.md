@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuváṃ kavíṃ codayo arkásātau  
-tuváṃ kútsāya śúṣṇaṃ dāśúṣe vark  
-tuváṃ śíro amarmáṇaḥ párāhann  
-atithigvā́ya śáṃsiyaṃ kariṣyán  
+तुवं꣡ कविं꣡ चोदयो अर्क꣡सातौ  
+तुवं꣡ कु꣡त्साय शु꣡ष्णं दाशु꣡षे वर्क्  
+तुवं꣡ शि꣡रो अमर्म꣡णः प꣡राहन्न्  
+अतिथिग्वा꣡य शं꣡सियं करिष्य꣡न्  

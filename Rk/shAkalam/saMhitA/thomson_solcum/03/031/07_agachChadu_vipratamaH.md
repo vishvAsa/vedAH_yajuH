@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ágachad u vípratamaḥ sakhīyánn  
-ásūdayat sukŕ̥te gárbham ádriḥ  
-sasā́na máryo yúvabhir makhasyánn  
-áthābhavad áṅgirāḥ sadyó árcan  
+अ꣡गछद् उ वि꣡प्रतमः सखीय꣡न्न्  
+अ꣡सूदयत् सुक्ŕ̥ते ग꣡र्भम् अ꣡द्रिः  
+ससा꣡न म꣡र्यो यु꣡वभिर् मखस्य꣡न्न्  
+अ꣡थाभवद् अ꣡ङ्गिराः सद्यो꣡ अ꣡र्चन्  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ayā́ te agne vidhema  
-ū́rjo napād áśvamiṣṭe  
-enā́ sūkténa sujāta  
+अया꣡ ते अग्ने विधेम  
+ऊ꣡र्जो नपाद् अ꣡श्वमिष्टे  
+एना꣡ सूक्ते꣡न सुजात  

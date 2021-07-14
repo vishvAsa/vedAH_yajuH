@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-pitā́ yát svā́ṃ duhitáram adhiṣkán  
-kṣmayā́ rétaḥ saṃjagmānó ní ṣiñcat  
-suādhíyo 'janayan bráhma devā́  
-vā́stoṣ pátiṃ vratapā́ṃ nír atakṣan  
+पिता꣡ य꣡त् स्वां꣡ दुहित꣡रम् अधिष्क꣡न्  
+क्ष्मया꣡ रे꣡तः संजग्मानो꣡ नि꣡ षिञ्चत्  
+सुआधि꣡यो ऽजनयन् ब्र꣡ह्म देवा꣡  
+वा꣡स्तोष् प꣡तिं व्रतपां꣡ नि꣡र् अतक्षन्  

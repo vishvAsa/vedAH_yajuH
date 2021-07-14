@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-samudréṇa síndhavo yā́damānā  
-índrāya sómaṃ súṣutam bhárantaḥ  
-aṃśúṃ duhanti hastíno bharítrair  
-mádhvaḥ punanti dhā́rayā pavítraiḥ  
+समुद्रे꣡ण सि꣡न्धवो या꣡दमाना  
+इ꣡न्द्राय सो꣡मं सु꣡षुतम् भ꣡रन्तः  
+अंशुं꣡ दुहन्ति हस्ति꣡नो भरि꣡त्रैर्  
+म꣡ध्वः पुनन्ति धा꣡रया पवि꣡त्रैः  

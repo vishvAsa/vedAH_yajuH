@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yás tvā hr̥dā́ kīríṇā mányamāno  
-ámartiyam mártiyo jóhavīmi  
-jā́tavedo yáśo asmā́su dhehi  
-prajā́bhir agne amr̥tatvám aśyām  
+य꣡स् त्वा हृदा꣡ कीरि꣡णा म꣡न्यमानो  
+अ꣡मर्तियम् म꣡र्तियो जो꣡हवीमि  
+जा꣡तवेदो य꣡शो अस्मा꣡सु धेहि  
+प्रजा꣡भिर् अग्ने अमृतत्व꣡म् अश्याम्  

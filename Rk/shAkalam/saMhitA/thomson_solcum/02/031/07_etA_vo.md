@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-etā́ vo vaśmi údyatā yajatrā  
-átakṣann āyávo náviyase sám  
-śravasyávo vā́jaṃ cakānā́ḥ  
-sáptir ná ráthyo áha dhītím aśyāḥ  
+एता꣡ वो वश्मि उ꣡द्यता यजत्रा  
+अ꣡तक्षन्न् आय꣡वो न꣡वियसे स꣡म्  
+श्रवस्य꣡वो वा꣡जं चकानाः꣡  
+स꣡प्तिर् न꣡ र꣡थ्यो अ꣡ह धीति꣡म् अश्याः  

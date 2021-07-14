@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-uccā́ diví dákṣiṇāvanto asthur  
-yé aśvadā́ḥ sahá té sū́riyeṇa  
-hiraṇyadā́ amr̥tatvám bhajante  
-vāsodā́ḥ soma prá tiranta ā́yuḥ  
+उच्चा꣡ दिवि꣡ द꣡क्षिणावन्तो अस्थुर्  
+ये꣡ अश्वदाः꣡ सह꣡ ते꣡ सू꣡रियेण  
+हिरण्यदा꣡ अमृतत्व꣡म् भजन्ते  
+वासोदाः꣡ सोम प्र꣡ तिरन्त आ꣡युः  

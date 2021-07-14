@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-tuvā́m íd vr̥trahantama  
-sutā́vanto havāmahe  
-yád indra mr̥̄ḷáyāsi+ naḥ  
+तुवा꣡म् इ꣡द् वृत्रहन्तम  
+सुता꣡वन्तो हवामहे  
+य꣡द् इन्द्र मॄऌअ꣡यासि+ नः  

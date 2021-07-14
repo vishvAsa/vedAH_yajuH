@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-pitā́ yajñā́nām ásuro vipaścítāṃ  
-vimā́nam agnír vayúnaṃ ca vāghátām  
-ā́ viveśa ródasī bhū́rivarpasā  
-purupriyó bhandate dhā́mabhiḥ kavíḥ  
+पिता꣡ यज्ञा꣡नाम् अ꣡सुरो विपश्चि꣡तां  
+विमा꣡नम् अग्नि꣡र् वयु꣡नं च वाघ꣡ताम्  
+आ꣡ विवेश रो꣡दसी भू꣡रिवर्पसा  
+पुरुप्रियो꣡ भन्दते धा꣡मभिः कविः꣡  

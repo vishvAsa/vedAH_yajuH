@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tísro devīr barhír idáṃ várīya  
-ā́ sīdata cakr̥mā́ vaḥ siyonám  
-manuṣvád yajñáṃ súdhitā havī́ṃṣi  
-íḷā devī́ ghr̥tápadī juṣanta  
+ति꣡स्रो देवीर् बर्हि꣡र् इदं꣡ व꣡रीय  
+आ꣡ सीदत चकृमा꣡ वः सियोन꣡म्  
+मनुष्व꣡द् यज्ञं꣡ सु꣡धिता हवीं꣡षि  
+इ꣡ऌआ देवी꣡ घृत꣡पदी जुषन्त  

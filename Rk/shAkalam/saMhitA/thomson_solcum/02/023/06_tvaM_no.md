@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuváṃ no gopā́ḥ pathikŕ̥d vicakṣaṇás  
-táva vratā́ya matíbhir jarāmahe  
-bŕ̥haspate yó no abhí hváro dadhé  
-svā́ tám marmartu duchúnā hárasvatī  
+तुवं꣡ नो गोपाः꣡ पथिक्ŕ̥द् विचक्षण꣡स्  
+त꣡व व्रता꣡य मति꣡भिर् जरामहे  
+ब्ŕ̥हस्पते यो꣡ नो अभि꣡ ह्व꣡रो दधे꣡  
+स्वा꣡ त꣡म् मर्मर्तु दुछु꣡ना ह꣡रस्वती  

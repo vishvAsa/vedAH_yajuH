@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sámiddho agna āhuta  
-devā́n yakṣi suadhvara  
-tuváṃ hí havyavā́ḷ ási  
+स꣡मिद्धो अग्न आहुत  
+देवा꣡न् यक्षि सुअध्वर  
+तुवं꣡ हि꣡ हव्यवा꣡ऌ अ꣡सि  

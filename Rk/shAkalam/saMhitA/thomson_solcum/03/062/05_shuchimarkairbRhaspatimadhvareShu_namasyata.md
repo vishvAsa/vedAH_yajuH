@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-śúcim arkaír bŕ̥haspátim  
-adhvaréṣu namasyata  
-ánāmi ója ā́ cake  
+शु꣡चिम् अर्कइ꣡र् ब्ŕ̥हस्प꣡तिम्  
+अध्वरे꣡षु नमस्यत  
+अ꣡नामि ओ꣡ज आ꣡ चके  

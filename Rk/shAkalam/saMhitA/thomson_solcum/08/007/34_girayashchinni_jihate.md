@@ -2,6 +2,6 @@
 title = "034"
 
 +++
-giráyaś cin ní jihate  
-párśānāso mányamānāḥ  
-párvatāś cin ní yemire  
+गिर꣡यश् चिन् नि꣡ जिहते  
+प꣡र्शानासो म꣡न्यमानाः  
+प꣡र्वताश् चिन् नि꣡ येमिरे  

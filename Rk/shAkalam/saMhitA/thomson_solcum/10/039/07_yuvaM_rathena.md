@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yuváṃ ráthena vimadā́ya śundhyúvaṃ  
-ní ūhathuḥ purumitrásya yóṣaṇām  
-yuváṃ hávaṃ vadhrimatyā́ agachataṃ  
-yuváṃ súṣutiṃ cakrathuḥ púraṃdhaye  
+युवं꣡ र꣡थेन विमदा꣡य शुन्ध्यु꣡वं  
+नि꣡ ऊहथुः पुरुमित्र꣡स्य यो꣡षणाम्  
+युवं꣡ ह꣡वं वध्रिमत्या꣡ अगछतं  
+युवं꣡ सु꣡षुतिं चक्रथुः पु꣡रंधये  

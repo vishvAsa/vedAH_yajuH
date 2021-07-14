@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tveṣám itthā́ samáraṇaṃ śímīvator  
-índrāviṣṇū sutapā́ vām uruṣyati  
-yā́ mártiyāya pratidhīyámānam ít  
-kr̥śā́nor ástur asanā́m uruṣyáthaḥ  
+त्वेष꣡म् इत्था꣡ सम꣡रणं शि꣡मीवतोर्  
+इ꣡न्द्राविष्णू सुतपा꣡ वाम् उरुष्यति  
+या꣡ म꣡र्तियाय प्रतिधीय꣡मानम् इ꣡त्  
+कृशा꣡नोर् अ꣡स्तुर् असना꣡म् उरुष्य꣡थः  

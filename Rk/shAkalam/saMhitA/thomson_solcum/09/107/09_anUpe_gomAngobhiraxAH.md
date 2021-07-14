@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-anūpé gómān góbhir akṣāḥ  
-sómo dugdhā́bhir akṣāḥ  
-samudráṃ ná saṃváraṇāni agman  
-mandī́ mádāya tośate  
+अनूपे꣡ गो꣡मान् गो꣡भिर् अक्षाः  
+सो꣡मो दुग्धा꣡भिर् अक्षाः  
+समुद्रं꣡ न꣡ संव꣡रणानि अग्मन्  
+मन्दी꣡ म꣡दाय तोशते  

@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-ā́ pavasva diśām pata  
-ārjīkā́t soma mīḍhuvaḥ  
-r̥tavākéna satyéna  
-śraddháyā tápasā sutá  
-índrāyendo pári srava  
+आ꣡ पवस्व दिशाम् पत  
+आर्जीका꣡त् सोम मीढुवः  
+ऋतवाके꣡न सत्ये꣡न  
+श्रद्ध꣡या त꣡पसा सुत꣡  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

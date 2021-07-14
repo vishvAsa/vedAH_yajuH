@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yád vo devāś cakr̥má jihváyā gurú  
-mánaso vā práyutī devahéḷanam  
-árāvā yó no abhí duchunāyáte  
-tásmin tád éno vasavo ní dhetana  
+य꣡द् वो देवाश् चकृम꣡ जिह्व꣡या गुरु꣡  
+म꣡नसो वा प्र꣡युती देवहे꣡ऌअनम्  
+अ꣡रावा यो꣡ नो अभि꣡ दुछुनाय꣡ते  
+त꣡स्मिन् त꣡द् ए꣡नो वसवो नि꣡ धेतन  

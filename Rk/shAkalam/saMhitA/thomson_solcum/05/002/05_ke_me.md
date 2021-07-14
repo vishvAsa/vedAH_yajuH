@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ké me maryakáṃ ví yavanta góbhir  
-ná yéṣāṃ gopā́ áraṇaś cid ā́sa  
-yá īṃ jagr̥bhúr áva té sr̥jantu  
-ā́jāti paśvá úpa naś cikitvā́n  
+के꣡ मे मर्यकं꣡ वि꣡ यवन्त गो꣡भिर्  
+न꣡ ये꣡षां गोपा꣡ अ꣡रणश् चिद् आ꣡स  
+य꣡ ईं जगृभु꣡र् अ꣡व ते꣡ सृजन्तु  
+आ꣡जाति पश्व꣡ उ꣡प नश् चिकित्वा꣡न्  

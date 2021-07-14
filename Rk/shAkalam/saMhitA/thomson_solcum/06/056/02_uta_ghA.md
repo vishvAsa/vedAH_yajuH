@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-utá ghā sá rathī́tamaḥ  
-sákhiyā sátpatir yujā́  
-índro vr̥trā́ṇi jighnate  
+उत꣡ घा स꣡ रथी꣡तमः  
+स꣡खिया स꣡त्पतिर् युजा꣡  
+इ꣡न्द्रो वृत्रा꣡णि जिघ्नते  

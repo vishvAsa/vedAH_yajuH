@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ vo ruvaṇyúm auśijó huvádhyai  
-ghóṣeva śáṃsam árjunasya náṃśe  
-prá vaḥ pūṣṇé dāvána ā́m̐  
-áchā voceya vasútātim agnéḥ  
+आ꣡ वो रुवण्यु꣡म् औशिजो꣡ हुव꣡ध्यै  
+घो꣡षेव शं꣡सम् अ꣡र्जुनस्य नं꣡शे  
+प्र꣡ वः पूष्णे꣡ दाव꣡न आँ꣡  
+अ꣡छा वोचेय वसु꣡तातिम् अग्नेः꣡  

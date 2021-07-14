@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sá no harīṇãm pata  
-índo devápsarastamaḥ  
-sákheva sákhye náriyo rucé bhava  
+स꣡ नो हरीण्ãम् पत  
+इ꣡न्दो देव꣡प्सरस्तमः  
+स꣡खेव स꣡ख्ये न꣡रियो रुचे꣡ भव  

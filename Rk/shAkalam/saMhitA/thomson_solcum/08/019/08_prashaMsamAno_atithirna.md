@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-praśáṃsamāno átithir ná mitríyo  
-agnī́ rátho ná védiyaḥ  
-tuvé kṣémāso ápi santi sādhávas  
-tuváṃ rā́jā rayīṇã́m  
+प्रशं꣡समानो अ꣡तिथिर् न꣡ मित्रि꣡यो  
+अग्नी꣡ र꣡थो न꣡ वे꣡दियः  
+तुवे꣡ क्षे꣡मासो अ꣡पि सन्ति साध꣡वस्  
+तुवं꣡ रा꣡जा रयीण्ã꣡म्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mahó devā́n yájasi yákṣi ānuṣák  
-táva krátvotá daṃsánā  
-arvā́caḥ sīṃ kr̥ṇuhi agne ávase  
-rā́sva vā́jotá vaṃsuva  
+महो꣡ देवा꣡न् य꣡जसि य꣡क्षि आनुष꣡क्  
+त꣡व क्र꣡त्वोत꣡ दंस꣡ना  
+अर्वा꣡चः सीं कृणुहि अग्ने अ꣡वसे  
+रा꣡स्व वा꣡जोत꣡ वंसुव  

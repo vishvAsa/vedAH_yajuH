@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-ágne cikiddhí asyá na  
-idáṃ vácaḥ sahasiya  
-táṃ tvā suśipra dampate  
-stómair vardhanti átrayo  
-gīrbhíḥ śumbhanti átrayaḥ  
+अ꣡ग्ने चिकिद्धि꣡ अस्य꣡ न  
+इदं꣡ व꣡चः सहसिय  
+तं꣡ त्वा सुशिप्र दम्पते  
+स्तो꣡मैर् वर्धन्ति अ꣡त्रयो  
+गीर्भिः꣡ शुम्भन्ति अ꣡त्रयः  

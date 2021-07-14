@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-áto devā́ avantu no  
-yáto víṣṇur vicakramé  
-pr̥thivyā́ḥ saptá dhā́mabhiḥ  
+अ꣡तो देवा꣡ अवन्तु नो  
+य꣡तो वि꣡ष्णुर् विचक्रमे꣡  
+पृथिव्याः꣡ सप्त꣡ धा꣡मभिः  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-práti te dasyave vr̥ka  
-rā́dho adarśi áhrayam  
-diyaúr ná prathinā́ śávaḥ  
+प्र꣡ति ते दस्यवे वृक  
+रा꣡धो अदर्शि अ꣡ह्रयम्  
+दियउ꣡र् न꣡ प्रथिना꣡ श꣡वः  

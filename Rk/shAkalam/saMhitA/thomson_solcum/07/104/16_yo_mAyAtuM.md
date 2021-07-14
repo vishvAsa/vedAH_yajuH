@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-yó mā́yātuṃ yā́tudhānéti ā́ha  
-yó vā rakṣā́ḥ śúcir asmī́ti ā́ha  
-índras táṃ hantu mahatā́ vadhéna  
-víśvasya jantór adhamás padīṣṭa  
+यो꣡ मा꣡यातुं या꣡तुधाने꣡ति आ꣡ह  
+यो꣡ वा रक्षाः꣡ शु꣡चिर् अस्मी꣡ति आ꣡ह  
+इ꣡न्द्रस् तं꣡ हन्तु महता꣡ वधे꣡न  
+वि꣡श्वस्य जन्तो꣡र् अधम꣡स् पदीष्ट  

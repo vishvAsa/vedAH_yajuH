@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yā́bhiḥ sómo módate hárṣate ca  
-kalyāṇī́bhir yuvatíbhir ná máryaḥ  
-tā́ adhvaryo apó áchā párehi  
-yád āsiñcā́ óṣadhībhiḥ punītāt  
+या꣡भिः सो꣡मो मो꣡दते ह꣡र्षते च  
+कल्याणी꣡भिर् युवति꣡भिर् न꣡ म꣡र्यः  
+ता꣡ अध्वर्यो अपो꣡ अ꣡छा प꣡रेहि  
+य꣡द् आसिञ्चा꣡ ओ꣡षधीभिः पुनीतात्  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-aruṣó janáyan gíraḥ  
-sómaḥ pavata āyuṣák  
-índraṃ gáchan kavíkratuḥ  
+अरुषो꣡ जन꣡यन् गि꣡रः  
+सो꣡मः पवत आयुष꣡क्  
+इ꣡न्द्रं ग꣡छन् कवि꣡क्रतुः  

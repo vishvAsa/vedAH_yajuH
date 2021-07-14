@@ -2,8 +2,8 @@
 title = "009"
 
 +++
-yátheyám pr̥thivī́ mahī́  
-dādhā́remā́n vánaspátīn  
-evā́ dādhāra te máno  
-jīvā́tave ná mr̥tyáve  
-átho ariṣṭátātaye  
+य꣡थेय꣡म् पृथिवी꣡ मही꣡  
+दाधा꣡रेमा꣡न् व꣡नस्प꣡तीन्  
+एवा꣡ दाधार ते म꣡नो  
+जीवा꣡तवे न꣡ मृत्य꣡वे  
+अ꣡थो अरिष्ट꣡तातये  

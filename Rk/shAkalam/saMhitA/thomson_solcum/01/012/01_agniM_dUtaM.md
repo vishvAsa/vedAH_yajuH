@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-agníṃ dūtáṃ vr̥ṇīmahe  
-hótāraṃ viśvávedasam  
-asyá yajñásya sukrátum  
+अग्निं꣡ दूतं꣡ वृणीमहे  
+हो꣡तारं विश्व꣡वेदसम्  
+अस्य꣡ यज्ञ꣡स्य सुक्र꣡तुम्  

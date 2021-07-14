@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-ebhír nŕ̥bhir indara+ tvāyúbhiṣ ṭvā  
-maghávadbhir maghavan víśva ājaú  
-dyā́vo ná dyumnaír abhí sánto aryáḥ  
-kṣapó madema śarádaś ca pūrvī́ḥ  
+एभि꣡र् न्ŕ̥भिर् इन्दर+ त्वायु꣡भिष् ट्वा  
+मघ꣡वद्भिर् मघवन् वि꣡श्व आजउ꣡  
+द्या꣡वो न꣡ द्युम्नइ꣡र् अभि꣡ स꣡न्तो अर्यः꣡  
+क्षपो꣡ मदेम शर꣡दश् च पूर्वीः꣡  

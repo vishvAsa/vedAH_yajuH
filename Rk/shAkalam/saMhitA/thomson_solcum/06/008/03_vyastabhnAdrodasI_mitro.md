@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ví astabhnād ródasī mitró ádbhuto  
-antarvā́vad akr̥ṇoj jyótiṣā támaḥ  
-ví cármaṇīva dhiṣáṇe avartayad  
-vaiśvānaró víśvam adhatta vŕ̥ṣṇiyam  
+वि꣡ अस्तभ्नाद् रो꣡दसी मित्रो꣡ अ꣡द्भुतो  
+अन्तर्वा꣡वद् अकृणोज् ज्यो꣡तिषा त꣡मः  
+वि꣡ च꣡र्मणीव धिष꣡णे अवर्तयद्  
+वैश्वानरो꣡ वि꣡श्वम् अधत्त व्ŕ̥ष्णियम्  

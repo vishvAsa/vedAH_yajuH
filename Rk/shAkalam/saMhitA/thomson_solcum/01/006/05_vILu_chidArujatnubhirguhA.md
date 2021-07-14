@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-vīḷú cid ārujatnúbhir  
-gúhā cid indra váhnibhiḥ  
-ávinda usríyā ánu  
+वीऌउ꣡ चिद् आरुजत्नु꣡भिर्  
+गु꣡हा चिद् इन्द्र व꣡ह्निभिः  
+अ꣡विन्द उस्रि꣡या अ꣡नु  

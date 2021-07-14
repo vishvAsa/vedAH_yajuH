@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-éto nu índraṃ stávāma  
-śuddháṃ śuddhéna sā́manā  
-śuddhaír ukthaír vāvr̥dhvā́ṃsaṃ  
-śuddhá āśī́rvān mamattu  
+ए꣡तो नु इ꣡न्द्रं स्त꣡वाम  
+शुद्धं꣡ शुद्धे꣡न सा꣡मना  
+शुद्धइ꣡र् उक्थइ꣡र् वावृध्वां꣡सं  
+शुद्ध꣡ आशी꣡र्वान् ममत्तु  

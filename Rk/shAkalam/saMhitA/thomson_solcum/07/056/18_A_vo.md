@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-ā́ vo hótā · johavīti sattáḥ  
-satrā́cīṃ rātím maruto gr̥ṇānáḥ  
-yá ī́vato vr̥ṣaṇo ásti gopā́ḥ  
-só ádvayāvī havate va ukthaíḥ  
+आ꣡ वो हो꣡ता · जोहवीति सत्तः꣡  
+सत्रा꣡चीं राति꣡म् मरुतो गृणानः꣡  
+य꣡ ई꣡वतो वृषणो अ꣡स्ति गोपाः꣡  
+सो꣡ अ꣡द्वयावी हवते व उक्थइः꣡  

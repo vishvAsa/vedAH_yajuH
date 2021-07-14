@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ráthaṃ yé cakrúḥ suvŕ̥taṃ sucétaso  
-ávihvarantam mánasas pári dhyáyā  
-tā́m̐ ū nú asyá sávanasya pītáya  
-ā́ vo vājā r̥bhavo vedayāmasi  
+र꣡थं ये꣡ चक्रुः꣡ सुव्ŕ̥तं सुचे꣡तसो  
+अ꣡विह्वरन्तम् म꣡नसस् प꣡रि ध्य꣡या  
+ताँ꣡ ऊ नु꣡ अस्य꣡ स꣡वनस्य पीत꣡य  
+आ꣡ वो वाजा ऋभवो वेदयामसि  

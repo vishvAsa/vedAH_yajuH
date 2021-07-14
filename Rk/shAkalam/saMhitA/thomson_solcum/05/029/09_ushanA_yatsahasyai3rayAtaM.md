@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-uśánā yát sahasíyair áyātaṃ  
-gr̥hám indra jūjuvānébhir áśvaiḥ  
-vanvānó átra saráthaṃ yayātha  
-kútsena devaír ávanor ha śúṣṇam  
+उश꣡ना य꣡त् सहसि꣡यैर् अ꣡यातं  
+गृह꣡म् इन्द्र जूजुवाने꣡भिर् अ꣡श्वैः  
+वन्वानो꣡ अ꣡त्र सर꣡थं ययाथ  
+कु꣡त्सेन देवइ꣡र् अ꣡वनोर् ह शु꣡ष्णम्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yásmin devā́ mánmani saṃcáranti  
-apīcíye ná vayám asya vidma  
-mitró no átra áditir ánāgān  
-savitā́ devó váruṇāya vocat  
+य꣡स्मिन् देवा꣡ म꣡न्मनि संच꣡रन्ति  
+अपीचि꣡ये न꣡ वय꣡म् अस्य विद्म  
+मित्रो꣡ नो अ꣡त्र अ꣡दितिर् अ꣡नागान्  
+सविता꣡ देवो꣡ व꣡रुणाय वोचत्  

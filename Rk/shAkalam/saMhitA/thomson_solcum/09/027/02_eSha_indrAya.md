@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-eṣá índrāya vāyáve  
-suvarjít pári ṣicyate  
-pavítre dakṣasā́dhanaḥ  
+एष꣡ इ꣡न्द्राय वाय꣡वे  
+सुवर्जि꣡त् प꣡रि षिच्यते  
+पवि꣡त्रे दक्षसा꣡धनः  

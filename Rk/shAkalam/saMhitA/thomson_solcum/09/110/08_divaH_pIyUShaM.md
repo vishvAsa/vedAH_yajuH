@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-diváḥ pīyū́ṣam pūrviyáṃ yád ukthíyam  
-mahó gāhā́d divá ā́ nír adhukṣata  
-índram abhí jā́yamānaṃ sám asvaran  
+दिवः꣡ पीयू꣡षम् पूर्वियं꣡ य꣡द् उक्थि꣡यम्  
+महो꣡ गाहा꣡द् दिव꣡ आ꣡ नि꣡र् अधुक्षत  
+इ꣡न्द्रम् अभि꣡ जा꣡यमानं स꣡म् अस्वरन्  

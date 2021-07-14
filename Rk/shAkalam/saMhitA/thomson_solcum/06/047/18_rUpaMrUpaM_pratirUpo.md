@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-rūpáṃ-rūpam prátirūpo babhūva  
-tád asya rūpám praticákṣaṇāya  
-índro māyā́bhiḥ pururū́pa īyate  
-yuktā́ hí asya hárayaḥ śatā́ dáśa  
+रूपं꣡-रूपम् प्र꣡तिरूपो बभूव  
+त꣡द् अस्य रूप꣡म् प्रतिच꣡क्षणाय  
+इ꣡न्द्रो माया꣡भिः पुरुरू꣡प ईयते  
+युक्ता꣡ हि꣡ अस्य ह꣡रयः शता꣡ द꣡श  

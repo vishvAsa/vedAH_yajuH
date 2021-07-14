@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-iyám eṣām · amŕ̥tānã́ṃ gī́ḥ  
-sarvátātā yé kr̥páṇanta rátnam  
-dhíyaṃ ca yajñáṃ ca sā́dhantas  
-té no dhāntu vasavíyam ásāmi  
+इय꣡म् एषाम् · अम्ŕ̥तान्ãं꣡ गीः꣡  
+सर्व꣡ताता ये꣡ कृप꣡णन्त र꣡त्नम्  
+धि꣡यं च यज्ञं꣡ च सा꣡धन्तस्  
+ते꣡ नो धान्तु वसवि꣡यम् अ꣡सामि  

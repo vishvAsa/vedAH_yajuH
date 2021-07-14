@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá nīvíyābhir jaritā́ram áchā  
-mahó vā́jebhir mahádbhiś ca śúṣmaiḥ  
-puruvī́rābhir vr̥ṣabha kṣitīnā́m  
-ā́ girvaṇaḥ suvitā́ya prá yāhi  
+स꣡ नीवि꣡याभिर् जरिता꣡रम् अ꣡छा  
+महो꣡ वा꣡जेभिर् मह꣡द्भिश् च शु꣡ष्मैः  
+पुरुवी꣡राभिर् वृषभ क्षितीना꣡म्  
+आ꣡ गिर्वणः सुविता꣡य प्र꣡ याहि  

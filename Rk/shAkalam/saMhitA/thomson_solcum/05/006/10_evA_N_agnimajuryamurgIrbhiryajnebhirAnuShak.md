@@ -2,8 +2,8 @@
 title = "010"
 
 +++
-evā́m̐ agním ajuryamur  
-gīrbhír yajñébhir ānuṣák  
-dádhad asmé suvī́riyam  
-utá tyád āśuáśviyam  
-íṣaṃ stotŕ̥bhya ā́ bhara  
+एवाँ꣡ अग्नि꣡म् अजुर्यमुर्  
+गीर्भि꣡र् यज्ञे꣡भिर् आनुष꣡क्  
+द꣡धद् अस्मे꣡ सुवी꣡रियम्  
+उत꣡ त्य꣡द् आशुअ꣡श्वियम्  
+इ꣡षं स्तोत्ŕ̥भ्य आ꣡ भर  

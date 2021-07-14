@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-devā́ś cit te amŕ̥tā jātavedo  
-mahimā́naṃ vādhriaśva prá vocan  
-yát sampŕ̥cham mā́nuṣīr víśa ā́yan  
-tuváṃ nŕ̥bhir ajayas tvā́vr̥dhebhiḥ  
+देवा꣡श् चित् ते अम्ŕ̥ता जातवेदो  
+महिमा꣡नं वाध्रिअश्व प्र꣡ वोचन्  
+य꣡त् सम्प्ŕ̥छम् मा꣡नुषीर् वि꣡श आ꣡यन्  
+तुवं꣡ न्ŕ̥भिर् अजयस् त्वा꣡वृधेभिः  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ná yó várāya marútām iva svanáḥ  
-séneva sr̥ṣṭā́ diviyā́ yáthāśániḥ  
-agnír jámbhais tigitaír atti bhárvati  
-yodhó ná śátrūn sá vánā ní r̥ñjate  
+न꣡ यो꣡ व꣡राय मरु꣡ताम् इव स्वनः꣡  
+से꣡नेव सृष्टा꣡ दिविया꣡ य꣡थाश꣡निः  
+अग्नि꣡र् ज꣡म्भैस् तिगितइ꣡र् अत्ति भ꣡र्वति  
+योधो꣡ न꣡ श꣡त्रून् स꣡ व꣡ना नि꣡ ऋञ्जते  

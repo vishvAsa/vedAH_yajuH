@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-yád arjuna sārameya  
-datáḥ piśaṅga yáchase  
-vī́va bhrājanta r̥ṣṭáya  
-úpa srákveṣu bápsato  
-ní ṣú svapa  
+य꣡द् अर्जुन सारमेय  
+दतः꣡ पिशङ्ग य꣡छसे  
+वी꣡व भ्राजन्त ऋष्ट꣡य  
+उ꣡प स्र꣡क्वेषु ब꣡प्सतो  
+नि꣡ षु꣡ स्वप  

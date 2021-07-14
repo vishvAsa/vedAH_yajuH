@@ -2,10 +2,10 @@
 title = "006"
 
 +++
-víśvo víhāyā aratír vásur dadhe  
-háste dákṣiṇe taráṇir ná śiśrathac  
-chravasyáyā ná śiśrathat  
-víśvasmā íd iṣudhyaté  
-devatrā́ havyám óhiṣe  
-víśvasmā ít sukŕ̥te vā́ram r̥ṇvati  
-agnír dvā́rā ví r̥ṇvati  
+वि꣡श्वो वि꣡हाया अरति꣡र् व꣡सुर् दधे  
+ह꣡स्ते द꣡क्षिणे तर꣡णिर् न꣡ शिश्रथच्  
+छ्रवस्य꣡या न꣡ शिश्रथत्  
+वि꣡श्वस्मा इ꣡द् इषुध्यते꣡  
+देवत्रा꣡ हव्य꣡म् ओ꣡हिषे  
+वि꣡श्वस्मा इ꣡त् सुक्ŕ̥ते वा꣡रम् ऋण्वति  
+अग्नि꣡र् द्वा꣡रा वि꣡ ऋण्वति  

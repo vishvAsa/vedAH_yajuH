@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-prá soma mádhumattamo  
-rāyé arṣa pavítra ā́  
-mádo yó devavī́tamaḥ  
+प्र꣡ सोम म꣡धुमत्तमो  
+राये꣡ अर्ष पवि꣡त्र आ꣡  
+म꣡दो यो꣡ देववी꣡तमः  

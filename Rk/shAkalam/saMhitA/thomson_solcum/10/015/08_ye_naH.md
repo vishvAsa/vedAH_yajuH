@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yé naḥ pū́rve pitáraḥ somiyā́so  
-anūhiré somapītháṃ vásiṣṭhāḥ  
-tébhir yamáḥ saṃrarāṇó havī́ṃṣi  
-uśánn uśádbhiḥ pratikāmám attu  
+ये꣡ नः पू꣡र्वे पित꣡रः सोमिया꣡सो  
+अनूहिरे꣡ सोमपीथं꣡ व꣡सिष्ठाः  
+ते꣡भिर् यमः꣡ संरराणो꣡ हवीं꣡षि  
+उश꣡न्न् उश꣡द्भिः प्रतिकाम꣡म् अत्तु  

@@ -2,9 +2,9 @@
 title = "008"
 
 +++
-yuṣmé devā ápi ṣmasi  
-yúdhyanta iva vármasu  
-yūyám mahó na énaso  
-yūyám árbhād uruṣyata  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+युष्मे꣡ देवा अ꣡पि ष्मसि  
+यु꣡ध्यन्त इव व꣡र्मसु  
+यूय꣡म् महो꣡ न ए꣡नसो  
+यूय꣡म् अ꣡र्भाद् उरुष्यत  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

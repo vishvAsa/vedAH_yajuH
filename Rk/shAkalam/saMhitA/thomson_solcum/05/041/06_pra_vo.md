@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá vo vāyúṃ rathayújaṃ kr̥ṇudhvam  
-prá deváṃ vípram panitā́ram arkaíḥ  
-iṣudhyáva r̥tasā́paḥ púraṃdhīr  
-vásvīr no átra pátnīr ā́ dhiyé dhuḥ  
+प्र꣡ वो वायुं꣡ रथयु꣡जं कृणुध्वम्  
+प्र꣡ देवं꣡ वि꣡प्रम् पनिता꣡रम् अर्कइः꣡  
+इषुध्य꣡व ऋतसा꣡पः पु꣡रंधीर्  
+व꣡स्वीर् नो अ꣡त्र प꣡त्नीर् आ꣡ धिये꣡ धुः  

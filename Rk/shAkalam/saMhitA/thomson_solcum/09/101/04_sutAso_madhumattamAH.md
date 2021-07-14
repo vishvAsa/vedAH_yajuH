@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sutā́so mádhumattamāḥ  
-sómā índrāya mandínaḥ  
-pavítravanto akṣaran  
-devā́n gachantu vo mádāḥ  
+सुता꣡सो म꣡धुमत्तमाः  
+सो꣡मा इ꣡न्द्राय मन्दि꣡नः  
+पवि꣡त्रवन्तो अक्षरन्  
+देवा꣡न् गछन्तु वो म꣡दाः  

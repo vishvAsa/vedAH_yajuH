@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá vīrám ugráṃ víviciṃ dhanaspŕ̥taṃ  
-víbhūtiṃ rā́dhaso maháḥ  
-udrī́va vajrinn avató vasutvanā́  
-sádā pīpetha dāśúṣe  
+प्र꣡ वीर꣡म् उग्रं꣡ वि꣡विचिं धनस्प्ŕ̥तं  
+वि꣡भूतिं रा꣡धसो महः꣡  
+उद्री꣡व वज्रिन्न् अवतो꣡ वसुत्वना꣡  
+स꣡दा पीपेथ दाशु꣡षे  

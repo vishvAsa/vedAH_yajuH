@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ no yātaṃ divás pári  
-ā́ntárikṣād adhapriyā  
-putráḥ káṇvasya vām ihá  
-suṣā́va somiyám mádhu  
+आ꣡ नो यातं दिव꣡स् प꣡रि  
+आ꣡न्त꣡रिक्षाद् अधप्रिया  
+पुत्रः꣡ क꣡ण्वस्य वाम् इह꣡  
+सुषा꣡व सोमिय꣡म् म꣡धु  

@@ -2,8 +2,8 @@
 title = "013"
 
 +++
-vŕ̥ṣākapāyi révati  
-súputra ā́d u súsnuṣe  
-ghásat ta índra ukṣáṇaḥ  
-priyáṃ kācitkaráṃ havír  
-víśvasmād índra úttaraḥ  
+व्ŕ̥षाकपायि रे꣡वति  
+सु꣡पुत्र आ꣡द् उ सु꣡स्नुषे  
+घ꣡सत् त इ꣡न्द्र उक्ष꣡णः  
+प्रियं꣡ काचित्करं꣡ हवि꣡र्  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

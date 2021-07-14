@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá vo marutas taviṣā́ udanyávo  
-vayovŕ̥dho aśvayújaḥ párijrayaḥ  
-sáṃ vidyútā dádhati vā́śati tritáḥ  
-sváranti ā́po avánā párijrayaḥ  
+प्र꣡ वो मरुतस् तविषा꣡ उदन्य꣡वो  
+वयोव्ŕ̥धो अश्वयु꣡जः प꣡रिज्रयः  
+सं꣡ विद्यु꣡ता द꣡धति वा꣡शति त्रितः꣡  
+स्व꣡रन्ति आ꣡पो अव꣡ना प꣡रिज्रयः  

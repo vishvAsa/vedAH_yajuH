@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-bráhmaṇā te brahmayújā yunajmi  
-hárī sákhāyā sadhamā́da āśū́  
-sthiráṃ ráthaṃ sukhám indrādhitíṣṭhan  
-prajānán vidvā́m̐ úpa yāhi sómam  
+ब्र꣡ह्मणा ते ब्रह्मयु꣡जा युनज्मि  
+ह꣡री स꣡खाया सधमा꣡द आशू꣡  
+स्थिरं꣡ र꣡थं सुख꣡म् इन्द्राधिति꣡ष्ठन्  
+प्रजान꣡न् विद्वाँ꣡ उ꣡प याहि सो꣡मम्  

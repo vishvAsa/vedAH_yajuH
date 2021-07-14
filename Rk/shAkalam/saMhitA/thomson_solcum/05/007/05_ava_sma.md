@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áva sma yásya véṣaṇe  
-svédam pathíṣu júhvati  
-abhī́m áha svájeniyam  
-bhū́mā pr̥ṣṭhéva ruruhuḥ  
+अ꣡व स्म य꣡स्य वे꣡षणे  
+स्वे꣡दम् पथि꣡षु जु꣡ह्वति  
+अभी꣡म् अ꣡ह स्व꣡जेनियम्  
+भू꣡मा पृष्ठे꣡व रुरुहुः  

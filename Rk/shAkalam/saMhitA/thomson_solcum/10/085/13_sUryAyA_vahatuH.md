@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-sūryā́yā vahatúḥ prā́gāt  
-savitā́ yám avā́sr̥jat  
-aghā́su hanyante gā́vo  
-árjunyoḥ pári uhyate  
+सूर्या꣡या वहतुः꣡ प्रा꣡गात्  
+सविता꣡ य꣡म् अवा꣡सृजत्  
+अघा꣡सु हन्यन्ते गा꣡वो  
+अ꣡र्जुन्योः प꣡रि उह्यते  

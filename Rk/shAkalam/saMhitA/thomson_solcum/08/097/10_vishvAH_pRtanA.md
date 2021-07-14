@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-víśvāḥ pŕ̥tanā abhibhū́taraṃ náraṃ  
-sajū́s tatakṣur índraṃ jajanúś ca rājáse  
-krátvā váriṣṭhaṃ vára āmúrim utá  
-ugrám ójiṣṭhaṃ tavásaṃ tarasvínam  
+वि꣡श्वाः प्ŕ̥तना अभिभू꣡तरं न꣡रं  
+सजू꣡स् ततक्षुर् इ꣡न्द्रं जजनु꣡श् च राज꣡से  
+क्र꣡त्वा व꣡रिष्ठं व꣡र आमु꣡रिम् उत꣡  
+उग्र꣡म् ओ꣡जिष्ठं तव꣡सं तरस्वि꣡नम्  

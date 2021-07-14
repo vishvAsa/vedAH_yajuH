@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-triṃśácchataṃ varmíṇa indra sākáṃ  
-yavyā́vatyām puruhūta śravasyā́  
-vr̥cī́vantaḥ śárave pátyamānāḥ  
-pā́trā bhindānā́ niarthā́ni āyan  
+त्रिंश꣡च्छतं वर्मि꣡ण इन्द्र साकं꣡  
+यव्या꣡वत्याम् पुरुहूत श्रवस्या꣡  
+वृची꣡वन्तः श꣡रवे प꣡त्यमानाः  
+पा꣡त्रा भिन्दाना꣡ निअर्था꣡नि आयन्  

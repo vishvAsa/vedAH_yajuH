@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ā́ no víśvāni aśvinā  
-dhattáṃ rā́dhāṃsi áhrayā  
-kr̥táṃ na r̥tvíyāvato  
-mā́ no rīradhataṃ nidé  
+आ꣡ नो वि꣡श्वानि अश्विना  
+धत्तं꣡ रा꣡धांसि अ꣡ह्रया  
+कृतं꣡ न ऋत्वि꣡यावतो  
+मा꣡ नो रीरधतं निदे꣡  

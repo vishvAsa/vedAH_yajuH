@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yó naḥ pitā́ janitā́ yó vidhātā́  
-dhā́māni véda bhúvanāni víśvā  
-yó devā́nāṃ nāmadhā́ éka evá  
-táṃ sampraśnám bhúvanā yanti anyā́  
+यो꣡ नः पिता꣡ जनिता꣡ यो꣡ विधाता꣡  
+धा꣡मानि वे꣡द भु꣡वनानि वि꣡श्वा  
+यो꣡ देवा꣡नां नामधा꣡ ए꣡क एव꣡  
+तं꣡ सम्प्रश्न꣡म् भु꣡वना यन्ति अन्या꣡  

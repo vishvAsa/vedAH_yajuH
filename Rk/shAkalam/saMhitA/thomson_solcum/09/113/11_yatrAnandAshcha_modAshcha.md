@@ -2,8 +2,8 @@
 title = "011"
 
 +++
-yátrānandā́ś ca módāś ca  
-múdaḥ pramúda ā́sate  
-kā́masya yátrāptā́ḥ kā́mās  
-tátra mā́m amŕ̥taṃ kr̥dhi  
-índrāyendo pári srava  
+य꣡त्रानन्दा꣡श् च मो꣡दाश् च  
+मु꣡दः प्रमु꣡द आ꣡सते  
+का꣡मस्य य꣡त्राप्ताः꣡ का꣡मास्  
+त꣡त्र मा꣡म् अम्ŕ̥तं कृधि  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

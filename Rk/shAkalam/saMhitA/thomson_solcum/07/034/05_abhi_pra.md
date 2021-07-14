@@ -2,5 +2,5 @@
 title = "005"
 
 +++
-abhí prá sthāta áheva yajñáṃ  
-yā́teva pátman tmánā hinota  
+अभि꣡ प्र꣡ स्थात अ꣡हेव यज्ञं꣡  
+या꣡तेव प꣡त्मन् त्म꣡ना हिनोत  

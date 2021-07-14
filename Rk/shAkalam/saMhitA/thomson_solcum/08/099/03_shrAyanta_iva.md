@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śrā́yanta iva sū́riyaṃ  
-víśvéd índrasya bhakṣata  
-vásūni jāté jánamāna ójasā  
-práti bhāgáṃ ná dīdhima  
+श्रा꣡यन्त इव सू꣡रियं  
+वि꣡श्वे꣡द् इ꣡न्द्रस्य भक्षत  
+व꣡सूनि जाते꣡ ज꣡नमान ओ꣡जसा  
+प्र꣡ति भागं꣡ न꣡ दीधिम  

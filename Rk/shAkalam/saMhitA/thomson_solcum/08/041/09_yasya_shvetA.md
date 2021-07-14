@@ -2,9 +2,9 @@
 title = "009"
 
 +++
-yásya śvetā́ vicakṣaṇā́  
-tisró bhū́mīr adhikṣitáḥ  
-trír úttarāṇi paprátur  
-váruṇasya dhruváṃ sádaḥ  
-sá saptānā́m irajyati  
-nábhantām anyaké same  
+य꣡स्य श्वेता꣡ विचक्षणा꣡  
+तिस्रो꣡ भू꣡मीर् अधिक्षितः꣡  
+त्रि꣡र् उ꣡त्तराणि पप्र꣡तुर्  
+व꣡रुणस्य ध्रुवं꣡ स꣡दः  
+स꣡ सप्ताना꣡म् इरज्यति  
+न꣡भन्ताम् अन्यके꣡ समे  

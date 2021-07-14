@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-táṃ góbhir vŕ̥ṣaṇaṃ rásam  
-mádāya devávītaye  
-sutám bhárāya sáṃ sr̥ja  
+तं꣡ गो꣡भिर् व्ŕ̥षणं र꣡सम्  
+म꣡दाय देव꣡वीतये  
+सुत꣡म् भ꣡राय सं꣡ सृज  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ubhé cid indra ródasī mahitvā́  
-ā́ paprātha táviṣībhis tuviṣmaḥ  
-ní vájram índro hárivān mímikṣan  
-sám ándhasā mádeṣu vā́ uvoca  
+उभे꣡ चिद् इन्द्र रो꣡दसी महित्वा꣡  
+आ꣡ पप्राथ त꣡विषीभिस् तुविष्मः  
+नि꣡ व꣡ज्रम् इ꣡न्द्रो ह꣡रिवान् मि꣡मिक्षन्  
+स꣡म् अ꣡न्धसा म꣡देषु वा꣡ उवोच  

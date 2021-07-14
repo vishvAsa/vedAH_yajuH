@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ví yád várāṃsi párvatasya vr̥ṇvé  
-páyobhir jinvé apã́ṃ jávāṃsi  
-vidád gaurásya gavayásya góhe  
-yádī vā́jāya sudhíyo váhanti  
+वि꣡ य꣡द् व꣡रांसि प꣡र्वतस्य वृण्वे꣡  
+प꣡योभिर् जिन्वे꣡ अप्ãं꣡ ज꣡वांसि  
+विद꣡द् गौर꣡स्य गवय꣡स्य गो꣡हे  
+य꣡दी वा꣡जाय सुधि꣡यो व꣡हन्ति  

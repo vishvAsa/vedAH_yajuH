@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tā́m agne asmé íṣam érayasva  
-vaíśvānara dyumátīṃ jātavedaḥ  
-yáyā rā́dhaḥ pínvasi viśvavāra  
-pr̥thú śrávo dāśúṣe mártiyāya  
+ता꣡म् अग्ने अस्मे꣡ इ꣡षम् ए꣡रयस्व  
+वइ꣡श्वानर द्युम꣡तीं जातवेदः  
+य꣡या रा꣡धः पि꣡न्वसि विश्ववार  
+पृथु꣡ श्र꣡वो दाशु꣡षे म꣡र्तियाय  

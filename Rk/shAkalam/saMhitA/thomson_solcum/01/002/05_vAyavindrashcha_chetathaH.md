@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-vā́yav índraś ca cetathaḥ  
-sutā́nāṃ vājinīvasū  
-tā́v ā́ yātam úpa dravát  
+वा꣡यव् इ꣡न्द्रश् च चेतथः  
+सुता꣡नां वाजिनीवसू  
+ता꣡व् आ꣡ यातम् उ꣡प द्रव꣡त्  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yán nāsatyā parāváti  
-yád vā sthó ádhi turváśe  
-áto ráthena suvŕ̥tā na ā́ gataṃ  
-sākáṃ sū́ryasya raśmíbhiḥ  
+य꣡न् नासत्या पराव꣡ति  
+य꣡द् वा स्थो꣡ अ꣡धि तुर्व꣡शे  
+अ꣡तो र꣡थेन सुव्ŕ̥ता न आ꣡ गतं  
+साकं꣡ सू꣡र्यस्य रश्मि꣡भिः  

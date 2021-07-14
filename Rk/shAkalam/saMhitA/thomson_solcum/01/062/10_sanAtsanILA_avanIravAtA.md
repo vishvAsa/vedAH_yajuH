@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sanā́t sánīḷā avánīr avātā́  
-vratā́ rakṣante amŕ̥tāḥ sáhobhiḥ  
-purū́ sahásrā jánayo ná pátnīr  
-duvasyánti svásāro áhrayāṇam  
+सना꣡त् स꣡नीऌआ अव꣡नीर् अवाता꣡  
+व्रता꣡ रक्षन्ते अम्ŕ̥ताः स꣡होभिः  
+पुरू꣡ सह꣡स्रा ज꣡नयो न꣡ प꣡त्नीर्  
+दुवस्य꣡न्ति स्व꣡सारो अ꣡ह्रयाणम्  

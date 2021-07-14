@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-sutā́ ánu svám ā́ rájo  
-abhí arṣanti babhrávaḥ  
-índraṃ gáchanta índavaḥ  
+सुता꣡ अ꣡नु स्व꣡म् आ꣡ र꣡जो  
+अभि꣡ अर्षन्ति बभ्र꣡वः  
+इ꣡न्द्रं ग꣡छन्त इ꣡न्दवः  

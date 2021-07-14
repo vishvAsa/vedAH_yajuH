@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-viśvā́vasuṃ soma gandharvám ā́po  
-dadr̥śúṣīs tád r̥ténā ví āyan  
-tád anvávaid índro rārahāṇá āsām  
-pári sū́ryasya paridhī́m̐r apaśyat  
+विश्वा꣡वसुं सोम गन्धर्व꣡म् आ꣡पो  
+ददृशु꣡षीस् त꣡द् ऋते꣡ना वि꣡ आयन्  
+त꣡द् अन्व꣡वैद् इ꣡न्द्रो रारहाण꣡ आसाम्  
+प꣡रि सू꣡र्यस्य परिधीँ꣡र् अपश्यत्  

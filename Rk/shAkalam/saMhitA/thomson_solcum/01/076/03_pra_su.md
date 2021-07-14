@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá sú víśvān rakṣáso dhákṣi agne  
-bhávā yajñā́nām abhiśastipā́vā  
-áthā́ vaha sómapatiṃ háribhyām  
-ātithyám asmai cakr̥mā sudā́vne  
+प्र꣡ सु꣡ वि꣡श्वान् रक्ष꣡सो ध꣡क्षि अग्ने  
+भ꣡वा यज्ञा꣡नाम् अभिशस्तिपा꣡वा  
+अ꣡था꣡ वह सो꣡मपतिं ह꣡रिभ्याम्  
+आतिथ्य꣡म् अस्मै चकृमा सुदा꣡व्ने  

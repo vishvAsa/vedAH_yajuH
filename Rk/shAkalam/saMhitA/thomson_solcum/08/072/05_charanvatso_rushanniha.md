@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-cáran vatsó rúśann ihá  
-nidātā́raṃ ná vindate  
-véti stótava ambíyam  
+च꣡रन् वत्सो꣡ रु꣡शन्न् इह꣡  
+निदाता꣡रं न꣡ विन्दते  
+वे꣡ति स्तो꣡तव अम्बि꣡यम्  

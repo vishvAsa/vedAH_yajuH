@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-párā cic chīrṣā́ vavr̥jus tá indra  
-áyajvāno yájvabhi spárdhamānāḥ  
-prá yád divó hariva sthātar ugra  
-nír avratā́m̐ adhamo ródasīyoḥ  
+प꣡रा चिच् छीर्षा꣡ ववृजुस् त꣡ इन्द्र  
+अ꣡यज्वानो य꣡ज्वभि स्प꣡र्धमानाः  
+प्र꣡ य꣡द् दिवो꣡ हरिव स्थातर् उग्र  
+नि꣡र् अव्रताँ꣡ अधमो रो꣡दसीयोः  

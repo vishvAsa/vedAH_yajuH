@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-trír yātudhā́naḥ prásitiṃ ta etu  
-r̥táṃ yó agne ánr̥tena hánti  
-tám arcíṣā sphūrjáyañ jātavedaḥ  
-samakṣám enaṃ gr̥ṇaté ní vr̥ṅdhi  
+त्रि꣡र् यातुधा꣡नः प्र꣡सितिं त एतु  
+ऋतं꣡ यो꣡ अग्ने अ꣡नृतेन ह꣡न्ति  
+त꣡म् अर्चि꣡षा स्फूर्ज꣡यञ् जातवेदः  
+समक्ष꣡म् एनं गृणते꣡ नि꣡ वृङ्धि  

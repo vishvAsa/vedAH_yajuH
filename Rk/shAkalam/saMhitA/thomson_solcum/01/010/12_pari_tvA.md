@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-pári tvā girvaṇo gíra  
-imā́ bhavantu viśvátaḥ  
-vr̥ddhā́yum ánu vŕ̥ddhayo  
-júṣṭā bhavantu júṣṭayaḥ  
+प꣡रि त्वा गिर्वणो गि꣡र  
+इमा꣡ भवन्तु विश्व꣡तः  
+वृद्धा꣡युम् अ꣡नु व्ŕ̥द्धयो  
+जु꣡ष्टा भवन्तु जु꣡ष्टयः  

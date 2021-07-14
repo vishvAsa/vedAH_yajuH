@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-vrajáṃ kr̥ṇudhvaṃ sá hí vo nr̥pā́ṇo  
-várma sīvyadhvam bahulā́ pr̥thū́ni  
-púraḥ kr̥ṇudhvam ā́yasīr ádhr̥ṣṭā  
-mā́ vaḥ susroc camasó dŕ̥ṃhatā tám  
+व्रजं꣡ कृणुध्वं स꣡ हि꣡ वो नृपा꣡णो  
+व꣡र्म सीव्यध्वम् बहुला꣡ पृथू꣡नि  
+पु꣡रः कृणुध्वम् आ꣡यसीर् अ꣡धृष्टा  
+मा꣡ वः सुस्रोच् चमसो꣡ द्ŕ̥ंहता त꣡म्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mr̥tyóḥ padáṃ yopáyanto yád aíta  
-drā́ghīya ā́yuḥ prataráṃ dádhānāḥ  
-āpyā́yamānāḥ prajáyā dhánena  
-śuddhā́ḥ pūtā́ bhavata yajñiyāsaḥ  
+मृत्योः꣡ पदं꣡ योप꣡यन्तो य꣡द् अइ꣡त  
+द्रा꣡घीय आ꣡युः प्रतरं꣡ द꣡धानाः  
+आप्या꣡यमानाः प्रज꣡या ध꣡नेन  
+शुद्धाः꣡ पूता꣡ भवत यज्ञियासः  

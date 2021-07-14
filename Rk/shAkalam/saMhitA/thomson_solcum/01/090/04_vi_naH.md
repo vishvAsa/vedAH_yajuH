@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ví naḥ patháḥ suvitā́ya  
-ciyántu índro marútaḥ  
-pūṣā́ bhágo vándiyāsaḥ  
+वि꣡ नः पथः꣡ सुविता꣡य  
+चिय꣡न्तु इ꣡न्द्रो मरु꣡तः  
+पूषा꣡ भ꣡गो व꣡न्दियासः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-catvā́ra īm bibhrati kṣemayánto  
-dáśa gárbhaṃ caráse dhāpayante  
-tridhā́tavaḥ paramā́ asya gā́vo  
-diváś caranti pári sadyó ántān  
+चत्वा꣡र ईम् बिभ्रति क्षेमय꣡न्तो  
+द꣡श ग꣡र्भं चर꣡से धापयन्ते  
+त्रिधा꣡तवः परमा꣡ अस्य गा꣡वो  
+दिव꣡श् चरन्ति प꣡रि सद्यो꣡ अ꣡न्तान्  

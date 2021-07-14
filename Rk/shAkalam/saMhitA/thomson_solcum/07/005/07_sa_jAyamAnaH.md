@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sá jā́yamānaḥ paramé víoman  
-vāyúr ná pā́thaḥ pári pāsi sadyáḥ  
-tuvám bhúvanā janáyann abhí krann  
-ápatyāya jātavedo daśasyán  
+स꣡ जा꣡यमानः परमे꣡ वि꣡ओमन्  
+वायु꣡र् न꣡ पा꣡थः प꣡रि पासि सद्यः꣡  
+तुव꣡म् भु꣡वना जन꣡यन्न् अभि꣡ क्रन्न्  
+अ꣡पत्याय जातवेदो दशस्य꣡न्  

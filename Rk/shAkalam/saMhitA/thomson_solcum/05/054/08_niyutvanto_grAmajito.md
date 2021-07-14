@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-niyútvanto grāmajíto yáthā náro  
-aryamáṇo ná marútaḥ kabandhínaḥ  
-pínvanti útsaṃ yád inā́so ásvaran  
-ví undanti pr̥thivī́m mádhvo ándhasā  
+नियु꣡त्वन्तो ग्रामजि꣡तो य꣡था न꣡रो  
+अर्यम꣡णो न꣡ मरु꣡तः कबन्धि꣡नः  
+पि꣡न्वन्ति उ꣡त्सं य꣡द् इना꣡सो अ꣡स्वरन्  
+वि꣡ उन्दन्ति पृथिवी꣡म् म꣡ध्वो अ꣡न्धसा  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-puruhūtám puruṣṭutáṃ  
-gāthāníyaṃ sánaśrutam  
-índra íti bravītana  
+पुरुहूत꣡म् पुरुष्टुतं꣡  
+गाथानि꣡यं स꣡नश्रुतम्  
+इ꣡न्द्र इ꣡ति ब्रवीतन  

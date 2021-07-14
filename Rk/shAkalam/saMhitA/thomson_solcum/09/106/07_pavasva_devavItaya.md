@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-pávasva devávītaya  
-índo dhā́rābhir ójasā  
-ā́ kaláśam mádhumān soma naḥ sadaḥ  
+प꣡वस्व देव꣡वीतय  
+इ꣡न्दो धा꣡राभिर् ओ꣡जसा  
+आ꣡ कल꣡शम् म꣡धुमान् सोम नः सदः  

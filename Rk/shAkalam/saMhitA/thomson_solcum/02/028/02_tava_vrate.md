@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-táva vraté subhágāsaḥ siyāma  
-suādhíyo varuṇa tuṣṭuvā́ṃsaḥ  
-upā́yana uṣásāṃ gómatīnām  
-agnáyo ná járamāṇā ánu dyū́n  
+त꣡व व्रते꣡ सुभ꣡गासः सियाम  
+सुआधि꣡यो वरुण तुष्टुवां꣡सः  
+उपा꣡यन उष꣡सां गो꣡मतीनाम्  
+अग्न꣡यो न꣡ ज꣡रमाणा अ꣡नु द्यू꣡न्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áyāmi te námaüktiṃ juṣasva  
-ŕ̥tāvas túbhya° cétate sahasvaḥ  
-vidvā́m̐ ā́ vakṣi vidúṣo ní ṣatsi  
-mádhya ā́ barhír ūtáye yajatra  
+अ꣡यामि ते न꣡मüक्तिं जुषस्व  
+ŕ̥तावस् तु꣡भ्य° चे꣡तते सहस्वः  
+विद्वाँ꣡ आ꣡ वक्षि विदु꣡षो नि꣡ षत्सि  
+म꣡ध्य आ꣡ बर्हि꣡र् ऊत꣡ये यजत्र  

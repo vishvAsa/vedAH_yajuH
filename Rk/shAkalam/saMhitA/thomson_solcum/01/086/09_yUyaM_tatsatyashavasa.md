@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-yūyáṃ tát satyaśavasa  
-āvíṣ karta mahitvanā́  
-vídhyatā vidyútā rákṣaḥ  
+यूयं꣡ त꣡त् सत्यशवस  
+आवि꣡ष् कर्त महित्वना꣡  
+वि꣡ध्यता विद्यु꣡ता र꣡क्षः  

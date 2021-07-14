@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-táṃ sindhavo matsarám indrapā́nam  
-ūrmím prá heta yá ubhé íyarti  
-madacyútam · auśānáṃ nabhojā́m  
-pári tritántuṃ vicárantam útsam  
+तं꣡ सिन्धवो मत्सर꣡म् इन्द्रपा꣡नम्  
+ऊर्मि꣡म् प्र꣡ हेत य꣡ उभे꣡ इ꣡यर्ति  
+मदच्यु꣡तम् · औशानं꣡ नभोजा꣡म्  
+प꣡रि त्रित꣡न्तुं विच꣡रन्तम् उ꣡त्सम्  

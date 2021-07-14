@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yó agníḥ kravyā́t pravivéśa vo gr̥hám  
-imám páśyann ítaraṃ jātávedasam  
-táṃ harāmi pitr̥yajñā́ya deváṃ  
-sá gharmám invāt paramé sadhásthe  
+यो꣡ अग्निः꣡ क्रव्या꣡त् प्रविवे꣡श वो गृह꣡म्  
+इम꣡म् प꣡श्यन्न् इ꣡तरं जात꣡वेदसम्  
+तं꣡ हरामि पितृयज्ञा꣡य देवं꣡  
+स꣡ घर्म꣡म् इन्वात् परमे꣡ सध꣡स्थे  

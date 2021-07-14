@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-pári yád indara+ ródasī ubhé  
-ábubhojīr mahinā́ viśvátaḥ sīm  
-ámanyamānām̐ abhí mányamānair  
-nír brahmábhir adhamo dásyum indra  
+प꣡रि य꣡द् इन्दर+ रो꣡दसी उभे꣡  
+अ꣡बुभोजीर् महिना꣡ विश्व꣡तः सीम्  
+अ꣡मन्यमानाँ अभि꣡ म꣡न्यमानैर्  
+नि꣡र् ब्रह्म꣡भिर् अधमो द꣡स्युम् इन्द्र  

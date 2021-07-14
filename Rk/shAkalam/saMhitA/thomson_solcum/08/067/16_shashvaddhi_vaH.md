@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-śáśvad dhí vaḥ sudānava  
-ā́dityā ūtíbhir vayám  
-purā́ nūnám bubhujmáhe  
+श꣡श्वद् धि꣡ वः सुदानव  
+आ꣡दित्या ऊति꣡भिर् वय꣡म्  
+पुरा꣡ नून꣡म् बुभुज्म꣡हे  

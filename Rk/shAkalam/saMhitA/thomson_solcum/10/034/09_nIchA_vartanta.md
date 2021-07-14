@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-nīcā́ vartanta upári sphuranti  
-ahastā́so hástavantaṃ sahante  
-divyā́ áṅgārā íriṇe níuptāḥ  
-śītā́ḥ sánto hŕ̥dayaṃ nír dahanti  
+नीचा꣡ वर्तन्त उप꣡रि स्फुरन्ति  
+अहस्ता꣡सो ह꣡स्तवन्तं सहन्ते  
+दिव्या꣡ अ꣡ङ्गारा इ꣡रिणे नि꣡उप्ताः  
+शीताः꣡ स꣡न्तो ह्ŕ̥दयं नि꣡र् दहन्ति  

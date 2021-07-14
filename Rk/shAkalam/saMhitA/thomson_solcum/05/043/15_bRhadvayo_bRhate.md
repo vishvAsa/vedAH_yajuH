@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-br̥hád váyo br̥haté túbhyam agne  
-dhiyājúro mithunā́saḥ sacanta  
-devó-devaḥ suhávo bhūtu máhyam  
-mā́ no mātā́ pr̥thivī́ durmataú dhāt  
+बृह꣡द् व꣡यो बृहते꣡ तु꣡भ्यम् अग्ने  
+धियाजु꣡रो मिथुना꣡सः सचन्त  
+देवो꣡-देवः सुह꣡वो भूतु म꣡ह्यम्  
+मा꣡ नो माता꣡ पृथिवी꣡ दुर्मतउ꣡ धात्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yó me rājan yújiyo vā sákhā vā  
-svápne bhayám bhīráve máhyam ā́ha  
-stenó vā yó dípsati no vŕ̥ko vā  
-tuváṃ tásmād varuṇa pāhi asmā́n  
+यो꣡ मे राजन् यु꣡जियो वा स꣡खा वा  
+स्व꣡प्ने भय꣡म् भीर꣡वे म꣡ह्यम् आ꣡ह  
+स्तेनो꣡ वा यो꣡ दि꣡प्सति नो व्ŕ̥को वा  
+तुवं꣡ त꣡स्माद् वरुण पाहि अस्मा꣡न्  

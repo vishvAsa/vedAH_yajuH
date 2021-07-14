@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-índrāya gíro ániśitasargā  
-apáḥ prérayaṃ ságarasya budhnā́t  
-yó ákṣeṇeva cakríyā śácībhir  
-víṣvak tastámbha pr̥thivī́m utá dyā́m  
+इ꣡न्द्राय गि꣡रो अ꣡निशितसर्गा  
+अपः꣡ प्रे꣡रयं स꣡गरस्य बुध्ना꣡त्  
+यो꣡ अ꣡क्षेणेव चक्रि꣡या श꣡चीभिर्  
+वि꣡ष्वक् तस्त꣡म्भ पृथिवी꣡म् उत꣡ द्या꣡म्  

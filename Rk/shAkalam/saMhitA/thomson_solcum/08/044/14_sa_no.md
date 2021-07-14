@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-sá no mitramahas tuvám  
-ágne śukréṇa śocíṣā  
-devaír ā́ satsi barhíṣi  
+स꣡ नो मित्रमहस् तुव꣡म्  
+अ꣡ग्ने शुक्रे꣡ण शोचि꣡षा  
+देवइ꣡र् आ꣡ सत्सि बर्हि꣡षि  

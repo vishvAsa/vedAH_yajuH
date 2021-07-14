@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ví tád yayur aruṇayúgbhir áśvaiś  
-citrám bhānti uṣásaś candrárathāḥ  
-ágraṃ yajñásya br̥ható náyantīr  
-ví tā́ bādhante táma ū́rmiyāyāḥ  
+वि꣡ त꣡द् ययुर् अरुणयु꣡ग्भिर् अ꣡श्वैश्  
+चित्र꣡म् भान्ति उष꣡सश् चन्द्र꣡रथाः  
+अ꣡ग्रं यज्ञ꣡स्य बृहतो꣡ न꣡यन्तीर्  
+वि꣡ ता꣡ बाधन्ते त꣡म ऊ꣡र्मियायाः  

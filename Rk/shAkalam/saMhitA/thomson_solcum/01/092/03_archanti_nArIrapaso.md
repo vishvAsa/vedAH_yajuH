@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-árcanti nā́rīr apáso ná viṣṭíbhiḥ  
-samānéna yójanenā́ parāvátaḥ  
-íṣaṃ váhantīḥ sukŕ̥te sudā́nave  
-víśvéd áha yájamānāya sunvaté  
+अ꣡र्चन्ति ना꣡रीर् अप꣡सो न꣡ विष्टि꣡भिः  
+समाने꣡न यो꣡जनेना꣡ पराव꣡तः  
+इ꣡षं व꣡हन्तीः सुक्ŕ̥ते सुदा꣡नवे  
+वि꣡श्वे꣡द् अ꣡ह य꣡जमानाय सुन्वते꣡  

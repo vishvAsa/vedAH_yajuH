@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tám pr̥chánto ávarāsaḥ párāṇi  
-pratnā́ ta indra śrútiyā́nu yemuḥ  
-árcāmasi · vīra brahmavāho  
-yā́d evá vidmá tā́t tvā mahā́ntam  
+त꣡म् पृछ꣡न्तो अ꣡वरासः प꣡राणि  
+प्रत्ना꣡ त इन्द्र श्रु꣡तिया꣡नु येमुः  
+अ꣡र्चामसि · वीर ब्रह्मवाहो  
+या꣡द् एव꣡ विद्म꣡ ता꣡त् त्वा महा꣡न्तम्  

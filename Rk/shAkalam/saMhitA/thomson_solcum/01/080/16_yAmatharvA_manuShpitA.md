@@ -2,8 +2,8 @@
 title = "016"
 
 +++
-yā́m átharvā mánuṣ pitā́  
-dadhiáṅ dhíyam átnata  
-tásmin bráhmāṇi pūrváthā  
-índra ukthā́ sám agmata  
-árcann ánu svarā́jiyam  
+या꣡म् अ꣡थर्वा म꣡नुष् पिता꣡  
+दधिअ꣡ङ् धि꣡यम् अ꣡त्नत  
+त꣡स्मिन् ब्र꣡ह्माणि पूर्व꣡था  
+इ꣡न्द्र उक्था꣡ स꣡म् अग्मत  
+अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्  

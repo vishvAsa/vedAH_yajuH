@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-agníṃ ná mā mathitáṃ sáṃ didīpaḥ  
-prá cakṣaya kr̥ṇuhí vásyaso naḥ  
-áthā hí te máda ā́ soma mánye  
-revā́m̐ iva prá carā puṣṭím ácha  
+अग्निं꣡ न꣡ मा मथितं꣡ सं꣡ दिदीपः  
+प्र꣡ चक्षय कृणुहि꣡ व꣡स्यसो नः  
+अ꣡था हि꣡ ते म꣡द आ꣡ सोम म꣡न्ये  
+रेवाँ꣡ इव प्र꣡ चरा पुष्टि꣡म् अ꣡छ  

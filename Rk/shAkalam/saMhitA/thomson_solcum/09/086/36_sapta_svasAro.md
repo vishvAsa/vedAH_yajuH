@@ -2,7 +2,7 @@
 title = "036"
 
 +++
-saptá svásāro abhí mātáraḥ śíśuṃ  
-návaṃ jajñānáṃ jéniyaṃ vipaścítam  
-apā́ṃ gandharváṃ diviyáṃ nr̥cákṣasaṃ  
-sómaṃ víśvasya bhúvanasya rājáse  
+सप्त꣡ स्व꣡सारो अभि꣡ मात꣡रः शि꣡शुं  
+न꣡वं जज्ञानं꣡ जे꣡नियं विपश्चि꣡तम्  
+अपां꣡ गन्धर्वं꣡ दिवियं꣡ नृच꣡क्षसं  
+सो꣡मं वि꣡श्वस्य भु꣡वनस्य राज꣡से  

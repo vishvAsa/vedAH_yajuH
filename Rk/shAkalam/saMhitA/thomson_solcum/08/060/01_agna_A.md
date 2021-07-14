@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ágna ā́ yāhi agníbhir  
-hótāraṃ tvā vr̥ṇīmahe  
-ā́ tvā́m anaktu práyatā havíṣmatī  
-yájiṣṭham barhír āsáde  
+अ꣡ग्न आ꣡ याहि अग्नि꣡भिर्  
+हो꣡तारं त्वा वृणीमहे  
+आ꣡ त्वा꣡म् अनक्तु प्र꣡यता हवि꣡ष्मती  
+य꣡जिष्ठम् बर्हि꣡र् आस꣡दे  

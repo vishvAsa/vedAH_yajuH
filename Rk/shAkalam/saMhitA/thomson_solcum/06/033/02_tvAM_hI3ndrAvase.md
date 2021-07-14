@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuvā́ṃ hí indra ávase vívāco  
-hávante carṣaṇáyaḥ śū́rasātau  
-tuváṃ víprebhir ví paṇī́m̐r aśāyas  
-tuvóta ít sánitā vā́jam árvā  
+तुवां꣡ हि꣡ इन्द्र अ꣡वसे वि꣡वाचो  
+ह꣡वन्ते चर्षण꣡यः शू꣡रसातौ  
+तुवं꣡ वि꣡प्रेभिर् वि꣡ पणीँ꣡र् अशायस्  
+तुवो꣡त इ꣡त् स꣡निता वा꣡जम् अ꣡र्वा  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sá no bhágāya vāyáve  
-vípravīraḥ sadā́vr̥dhaḥ  
-sómo devéṣu ā́ yamat  
+स꣡ नो भ꣡गाय वाय꣡वे  
+वि꣡प्रवीरः सदा꣡वृधः  
+सो꣡मो देवे꣡षु आ꣡ यमत्  

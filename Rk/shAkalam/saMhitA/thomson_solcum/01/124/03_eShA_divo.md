@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-eṣā́ divó duhitā́ práty adarśi  
-jyótir vásānā samanā́ purástāt  
-r̥tásya pánthām ánu eti sādhú  
-prajānatī́va ná díśo mināti  
+एषा꣡ दिवो꣡ दुहिता꣡ प्र꣡त्य् अदर्शि  
+ज्यो꣡तिर् व꣡साना समना꣡ पुर꣡स्तात्  
+ऋत꣡स्य प꣡न्थाम् अ꣡नु एति साधु꣡  
+प्रजानती꣡व न꣡ दि꣡शो मिनाति  

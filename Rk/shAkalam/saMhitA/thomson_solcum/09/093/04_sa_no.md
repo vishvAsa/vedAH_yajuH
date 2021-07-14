@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá no devébhiḥ pavamāna rada  
-índo rayím aśvínaṃ vāvaśānáḥ  
-rathirāyátām uśatī́ púraṃdhir  
-asmadríag ā́ dāváne vásūnām  
+स꣡ नो देवे꣡भिः पवमान रद  
+इ꣡न्दो रयि꣡म् अश्वि꣡नं वावशानः꣡  
+रथिराय꣡ताम् उशती꣡ पु꣡रंधिर्  
+अस्मद्रि꣡अग् आ꣡ दाव꣡ने व꣡सूनाम्  

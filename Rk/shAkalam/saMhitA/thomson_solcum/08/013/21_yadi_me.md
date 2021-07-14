@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-yádi me sakhyám āvára  
-imásya pāhi ándhasaḥ  
-yéna víśvā áti dvíṣo átārima  
+य꣡दि मे सख्य꣡म् आव꣡र  
+इम꣡स्य पाहि अ꣡न्धसः  
+ये꣡न वि꣡श्वा अ꣡ति द्वि꣡षो अ꣡तारिम  

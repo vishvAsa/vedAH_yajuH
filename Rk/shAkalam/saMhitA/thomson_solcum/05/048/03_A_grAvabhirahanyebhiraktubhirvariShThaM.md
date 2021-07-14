@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ grā́vabhir ahaníyebhir aktúbhir  
-váriṣṭhaṃ vájram ā́ jigharti māyíni  
-śatáṃ vā yásya pracáran suvé dáme  
-saṃvartáyanto ví ca vartayann áhā  
+आ꣡ ग्रा꣡वभिर् अहनि꣡येभिर् अक्तु꣡भिर्  
+व꣡रिष्ठं व꣡ज्रम् आ꣡ जिघर्ति मायि꣡नि  
+शतं꣡ वा य꣡स्य प्रच꣡रन् सुवे꣡ द꣡मे  
+संवर्त꣡यन्तो वि꣡ च वर्तयन्न् अ꣡हा  

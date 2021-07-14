@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-índrasyā́tra táviṣībhyo virapśína  
-r̥ghāyató araṃhayanta manyáve  
-vr̥tráṃ yád ugró ví ávr̥ścad ójasā  
-apó bíbhrataṃ támasā párīvr̥tam  
+इ꣡न्द्रस्या꣡त्र त꣡विषीभ्यो विरप्शि꣡न  
+ऋघायतो꣡ अरंहयन्त मन्य꣡वे  
+वृत्रं꣡ य꣡द् उग्रो꣡ वि꣡ अ꣡वृश्चद् ओ꣡जसा  
+अपो꣡ बि꣡भ्रतं त꣡मसा प꣡रीवृतम्  

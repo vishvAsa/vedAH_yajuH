@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yát parjanya kánikradat  
-stanáyan háṃsi duṣkŕ̥taḥ  
-prátīdáṃ víśvam modate  
-yát kíṃ ca pr̥thivyā́m ádhi  
+य꣡त् पर्जन्य क꣡निक्रदत्  
+स्तन꣡यन् हं꣡सि दुष्क्ŕ̥तः  
+प्र꣡तीदं꣡ वि꣡श्वम् मोदते  
+य꣡त् किं꣡ च पृथिव्या꣡म् अ꣡धि  

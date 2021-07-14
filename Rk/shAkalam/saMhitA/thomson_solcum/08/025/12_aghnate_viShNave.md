@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-ághnate víṣṇave vayám  
-áriṣyantaḥ sudā́nave  
-śrudhí svayāvan sindho pūrvácittaye  
+अ꣡घ्नते वि꣡ष्णवे वय꣡म्  
+अ꣡रिष्यन्तः सुदा꣡नवे  
+श्रुधि꣡ स्वयावन् सिन्धो पूर्व꣡चित्तये  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-brahmā́ṇam bráhmavāhasaṃ  
-gīrbhíḥ sákhāyam r̥gmíyam  
-gã́ṃ ná doháse huve  
+ब्रह्मा꣡णम् ब्र꣡ह्मवाहसं  
+गीर्भिः꣡ स꣡खायम् ऋग्मि꣡यम्  
+ग्ãं꣡ न꣡ दोह꣡से हुवे  

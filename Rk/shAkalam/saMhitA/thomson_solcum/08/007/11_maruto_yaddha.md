@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-máruto yád dha vo diváḥ  
-sumnāyánto hávāmahe  
-ā́ tū́ na úpa gantana  
+म꣡रुतो य꣡द् ध वो दिवः꣡  
+सुम्नाय꣡न्तो ह꣡वामहे  
+आ꣡ तू꣡ न उ꣡प गन्तन  

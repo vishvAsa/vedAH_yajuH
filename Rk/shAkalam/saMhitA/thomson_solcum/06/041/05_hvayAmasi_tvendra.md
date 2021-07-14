@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-hváyāmasi tvā índra yāhi arvā́ṅ  
-áraṃ te sómas tanúve bhavāti  
-śátakrato mādáyasvā sutéṣu  
-prā́smā́m̐ ava pŕ̥tanāsu prá vikṣú  
+ह्व꣡यामसि त्वा इ꣡न्द्र याहि अर्वा꣡ङ्  
+अ꣡रं ते सो꣡मस् तनु꣡वे भवाति  
+श꣡तक्रतो माद꣡यस्वा सुते꣡षु  
+प्रा꣡स्माँ꣡ अव प्ŕ̥तनासु प्र꣡ विक्षु꣡  

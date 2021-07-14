@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mánye tvā yajñíyaṃ yajñíyānām  
-mánye tvā cyávanam ácyutānām  
-mánye tvā sátvanām indra ketúm  
-mánye tvā vr̥ṣabháṃ carṣaṇīnā́m  
+म꣡न्ये त्वा यज्ञि꣡यं यज्ञि꣡यानाम्  
+म꣡न्ये त्वा च्य꣡वनम् अ꣡च्युतानाम्  
+म꣡न्ये त्वा स꣡त्वनाम् इन्द्र केतु꣡म्  
+म꣡न्ये त्वा वृषभं꣡ चर्षणीना꣡म्  

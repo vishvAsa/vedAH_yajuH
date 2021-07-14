@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-bhujyúm áṃhasaḥ pipr̥tho nír aśvinā  
-śyā́vam putráṃ vadhrimatyā́ ajinvatam  
-kamadyúvaṃ vimadā́yohathur yuváṃ  
-viṣṇāpúvaṃ víśvakāyā́va sr̥jathaḥ  
+भुज्यु꣡म् अं꣡हसः पिपृथो नि꣡र् अश्विना  
+श्या꣡वम् पुत्रं꣡ वध्रिमत्या꣡ अजिन्वतम्  
+कमद्यु꣡वं विमदा꣡योहथुर् युवं꣡  
+विष्णापु꣡वं वि꣡श्वकाया꣡व सृजथः  

@@ -2,9 +2,9 @@
 title = "004"
 
 +++
-sám u prá yanti dhītáyaḥ  
-sárgāso avatā́m̐ iva  
-krátuṃ naḥ soma jīváse  
-ví vo máde  
-dhāráyā camasā́m̐ iva  
-vívakṣase  
+स꣡म् उ प्र꣡ यन्ति धीत꣡यः  
+स꣡र्गासो अवताँ꣡ इव  
+क्र꣡तुं नः सोम जीव꣡से  
+वि꣡ वो म꣡दे  
+धार꣡या चमसाँ꣡ इव  
+वि꣡वक्षसे  

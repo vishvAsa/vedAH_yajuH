@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-trír no aśvinā diviyā́ni bheṣajā́  
-tríḥ pā́rthivāni trír u dattam adbhiyáḥ  
-omā́naṃ śaṃyór mámakāya sūnáve  
-tridhā́tu śárma vahataṃ śubhas patī  
+त्रि꣡र् नो अश्विना दिविया꣡नि भेषजा꣡  
+त्रिः꣡ पा꣡र्थिवानि त्रि꣡र् उ दत्तम् अद्भियः꣡  
+ओमा꣡नं शंयो꣡र् म꣡मकाय सून꣡वे  
+त्रिधा꣡तु श꣡र्म वहतं शुभस् पती  

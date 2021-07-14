@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-tám índraṃ vājayāmasi  
-mahé vr̥trā́ya hántave  
-sá vŕ̥ṣā vr̥ṣabhó bhuvat  
+त꣡म् इ꣡न्द्रं वाजयामसि  
+महे꣡ वृत्रा꣡य ह꣡न्तवे  
+स꣡ व्ŕ̥षा वृषभो꣡ भुवत्  

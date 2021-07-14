@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-índrasya soma pávamāna ūrmíṇā  
-taviṣyámāṇo jaṭháreṣu ā́ viśa  
-prá ṇaḥ pinva vidyúd abhréva ródasī  
-dhiyā́ ná vā́jām̐ úpa māsi śáśvataḥ  
+इ꣡न्द्रस्य सोम प꣡वमान ऊर्मि꣡णा  
+तविष्य꣡माणो जठ꣡रेषु आ꣡ विश  
+प्र꣡ णः पिन्व विद्यु꣡द् अभ्रे꣡व रो꣡दसी  
+धिया꣡ न꣡ वा꣡जाँ उ꣡प मासि श꣡श्वतः  

@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-tám īmahe puruṣṭutáṃ  
-yahvám pratnā́bhir ūtíbhiḥ  
-ní barhíṣi priyé sadad ádha dvitā́  
+त꣡म् ईमहे पुरुष्टुतं꣡  
+यह्व꣡म् प्रत्ना꣡भिर् ऊति꣡भिः  
+नि꣡ बर्हि꣡षि प्रिये꣡ सदद् अ꣡ध द्विता꣡  

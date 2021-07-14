@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-aháṃ saptá sraváto dhārayaṃ vŕ̥ṣā  
-dravitnúvaḥ pr̥thiviyā́ṃ sīrā́ ádhi  
-ahám árṇāṃsi ví tirāmi sukrátur  
-yudhā́ vidam mánave gātúm iṣṭáye  
+अहं꣡ सप्त꣡ स्रव꣡तो धारयं व्ŕ̥षा  
+द्रवित्नु꣡वः पृथिवियां꣡ सीरा꣡ अ꣡धि  
+अह꣡म् अ꣡र्णांसि वि꣡ तिरामि सुक्र꣡तुर्  
+युधा꣡ विदम् म꣡नवे गातु꣡म् इष्ट꣡ये  

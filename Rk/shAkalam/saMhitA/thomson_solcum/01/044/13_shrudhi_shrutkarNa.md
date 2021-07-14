@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-śrudhí śrutkarṇa váhnibhir  
-devaír agne sayā́vabhiḥ  
-ā́ sīdantu barhíṣi mitró aryamā́  
-prātaryā́vāṇo adhvarám  
+श्रुधि꣡ श्रुत्कर्ण व꣡ह्निभिर्  
+देवइ꣡र् अग्ने सया꣡वभिः  
+आ꣡ सीदन्तु बर्हि꣡षि मित्रो꣡ अर्यमा꣡  
+प्रातर्या꣡वाणो अध्वर꣡म्  

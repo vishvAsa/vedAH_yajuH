@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-siṃháṃ nasanta mádhuvo ayā́saṃ  
-hárim aruṣáṃ divó asyá pátim  
-śū́ro yutsú prathamáḥ pr̥chate gā́  
-ásya cákṣasā pári pāti ukṣā́  
+सिंहं꣡ नसन्त म꣡धुवो अया꣡सं  
+ह꣡रिम् अरुषं꣡ दिवो꣡ अस्य꣡ प꣡तिम्  
+शू꣡रो युत्सु꣡ प्रथमः꣡ पृछते गा꣡  
+अ꣡स्य च꣡क्षसा प꣡रि पाति उक्षा꣡  

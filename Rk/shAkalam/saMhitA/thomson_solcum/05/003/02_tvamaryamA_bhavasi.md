@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tvám aryamā́ bhavasi yát kanī́nāṃ  
-nā́ma svadhāvan gúhiyam bibharṣi  
-añjánti mitráṃ súdhitaṃ ná góbhir  
-yád dámpatī sámanasā kr̥ṇóṣi  
+त्व꣡म् अर्यमा꣡ भवसि य꣡त् कनी꣡नां  
+ना꣡म स्वधावन् गु꣡हियम् बिभर्षि  
+अञ्ज꣡न्ति मित्रं꣡ सु꣡धितं न꣡ गो꣡भिर्  
+य꣡द् द꣡म्पती स꣡मनसा कृणो꣡षि  

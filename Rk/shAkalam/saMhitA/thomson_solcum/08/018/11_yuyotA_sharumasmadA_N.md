@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-yuyótā śárum asmád ā́m̐  
-ā́dityāsa utā́matim  
-ŕ̥dhag dvéṣaḥ kr̥ṇuta viśvavedasaḥ  
+युयो꣡ता श꣡रुम् अस्म꣡द् आँ꣡  
+आ꣡दित्यास उता꣡मतिम्  
+ŕ̥धग् द्वे꣡षः कृणुत विश्ववेदसः  

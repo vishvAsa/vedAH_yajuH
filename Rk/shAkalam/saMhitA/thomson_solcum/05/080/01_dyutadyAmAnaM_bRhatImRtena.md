@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-dyutádyāmānam br̥hatī́m r̥téna  
-r̥tā́varīm aruṇápsuṃ vibhātī́m  
-devī́m uṣásaṃ súvar āváhantīm  
-práti víprāso matíbhir jarante  
+द्युत꣡द्यामानम् बृहती꣡म् ऋते꣡न  
+ऋता꣡वरीम् अरुण꣡प्सुं विभाती꣡म्  
+देवी꣡म् उष꣡सं सु꣡वर् आव꣡हन्तीम्  
+प्र꣡ति वि꣡प्रासो मति꣡भिर् जरन्ते  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-té hí dyā́vāpr̥thivī́ viśváśambhuva  
-r̥tā́varī rájaso dhārayátkavī  
-sujánmanī dhiṣáṇe antár īyate  
-devó devī́ dhármaṇā sū́riyaḥ śúciḥ  
+ते꣡ हि꣡ द्या꣡वापृथिवी꣡ विश्व꣡शम्भुव  
+ऋता꣡वरी र꣡जसो धारय꣡त्कवी  
+सुज꣡न्मनी धिष꣡णे अन्त꣡र् ईयते  
+देवो꣡ देवी꣡ ध꣡र्मणा सू꣡रियः शु꣡चिः  

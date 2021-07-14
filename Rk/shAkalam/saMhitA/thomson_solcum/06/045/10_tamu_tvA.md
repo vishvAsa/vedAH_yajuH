@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-tám u tvā satya somapā  
-índra vājānã́m pate  
-áhūmahi śravasyávaḥ  
+त꣡म् उ त्वा सत्य सोमपा  
+इ꣡न्द्र वाजान्ã꣡म् पते  
+अ꣡हूमहि श्रवस्य꣡वः  

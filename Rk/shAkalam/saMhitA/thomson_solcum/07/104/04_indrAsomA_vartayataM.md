@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-índrāsomā vartáyataṃ divó vadháṃ  
-sám pr̥thivyā́ agháśaṃsāya tárhaṇam  
-út takṣataṃ svaríyam párvatebhiyo  
-yéna rákṣo vāvr̥dhānáṃ nijū́rvathaḥ  
+इ꣡न्द्रासोमा वर्त꣡यतं दिवो꣡ वधं꣡  
+स꣡म् पृथिव्या꣡ अघ꣡शंसाय त꣡र्हणम्  
+उ꣡त् तक्षतं स्वरि꣡यम् प꣡र्वतेभियो  
+ये꣡न र꣡क्षो वावृधानं꣡ निजू꣡र्वथः  

@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-sá cakrame maható nír urukramáḥ  
-samānásmāt sádasa evayā́marut  
-yadā́yukta tmánā suvā́d ádhi ṣṇúbhir  
-víṣpardhaso vímahaso  
-jígāti śévr̥dho nŕ̥bhiḥ  
+स꣡ चक्रमे महतो꣡ नि꣡र् उरुक्रमः꣡  
+समान꣡स्मात् स꣡दस एवया꣡मरुत्  
+यदा꣡युक्त त्म꣡ना सुवा꣡द् अ꣡धि ष्णु꣡भिर्  
+वि꣡ष्पर्धसो वि꣡महसो  
+जि꣡गाति शे꣡वृधो न्ŕ̥भिः  

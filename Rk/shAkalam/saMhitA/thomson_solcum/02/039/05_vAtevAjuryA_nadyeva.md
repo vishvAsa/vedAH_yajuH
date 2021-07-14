@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vā́tevājuryā́ nadíyeva rītír  
-akṣī́ iva cákṣuṣā́ yātam arvā́k  
-hástāv iva tanúve śámbhaviṣṭhā  
-pā́deva no nayataṃ vásyo ácha  
+वा꣡तेवाजुर्या꣡ नदि꣡येव रीति꣡र्  
+अक्षी꣡ इव च꣡क्षुषा꣡ यातम् अर्वा꣡क्  
+ह꣡स्ताव् इव तनु꣡वे श꣡म्भविष्ठा  
+पा꣡देव नो नयतं व꣡स्यो अ꣡छ  

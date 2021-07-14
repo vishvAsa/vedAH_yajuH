@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sá mandráyā ca jihváyā  
-váhnir āsā́ vidúṣṭaraḥ  
-ágne rayím maghávadbhyo na ā́ vaha  
-havyádātiṃ ca sūdaya  
+स꣡ मन्द्र꣡या च जिह्व꣡या  
+व꣡ह्निर् आसा꣡ विदु꣡ष्टरः  
+अ꣡ग्ने रयि꣡म् मघ꣡वद्भ्यो न आ꣡ वह  
+हव्य꣡दातिं च सूदय  

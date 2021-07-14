@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sá vīró ápratiṣkuta  
-índreṇa śūśuve nŕ̥bhiḥ  
-yás te gabhīrā́ sávanāni vr̥trahan  
-sunóti ā́ ca dhā́vati  
+स꣡ वीरो꣡ अ꣡प्रतिष्कुत  
+इ꣡न्द्रेण शूशुवे न्ŕ̥भिः  
+य꣡स् ते गभीरा꣡ स꣡वनानि वृत्रहन्  
+सुनो꣡ति आ꣡ च धा꣡वति  

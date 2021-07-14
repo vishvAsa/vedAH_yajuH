@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-áchā vadā tánā girā́  
-jarā́yai bráhmaṇas pátim  
-agním mitráṃ ná darśatám  
+अ꣡छा वदा त꣡ना गिरा꣡  
+जरा꣡यै ब्र꣡ह्मणस् प꣡तिम्  
+अग्नि꣡म् मित्रं꣡ न꣡ दर्शत꣡म्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-mū́ṣo ná śiśnā́ ví adanti mādhíya  
-stotā́raṃ te śatakrato  
-sakŕ̥t sú no maghavann indra mr̥̄ḷaya+  
-ádhā pitéva no bhava  
+मू꣡षो न꣡ शिश्ना꣡ वि꣡ अदन्ति माधि꣡य  
+स्तोता꣡रं ते शतक्रतो  
+सक्ŕ̥त् सु꣡ नो मघवन्न् इन्द्र मॄऌअय+  
+अ꣡धा पिते꣡व नो भव  

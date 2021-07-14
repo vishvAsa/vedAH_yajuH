@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-vánaspátir avasr̥jánn úpa sthād  
-agnír havíḥ sūdayāti prá dhībhíḥ  
-trídhā sámaktaṃ nayatu prajānán  
-devébhyo daívyaḥ śamitópa havyám  
+व꣡नस्प꣡तिर् अवसृज꣡न्न् उ꣡प स्थाद्  
+अग्नि꣡र् हविः꣡ सूदयाति प्र꣡ धीभिः꣡  
+त्रि꣡धा स꣡मक्तं नयतु प्रजान꣡न्  
+देवे꣡भ्यो दइ꣡व्यः शमितो꣡प हव्य꣡म्  

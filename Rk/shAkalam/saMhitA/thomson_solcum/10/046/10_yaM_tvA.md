@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yáṃ tvā devā́ dadhiré havyavā́ham  
-puruspŕ̥ho mā́nuṣāso yájatram  
-sá yā́mann agne stuvaté váyo dhāḥ  
-prá devayán yaśásaḥ sáṃ hí pūrvī́ḥ  
+यं꣡ त्वा देवा꣡ दधिरे꣡ हव्यवा꣡हम्  
+पुरुस्प्ŕ̥हो मा꣡नुषासो य꣡जत्रम्  
+स꣡ या꣡मन्न् अग्ने स्तुवते꣡ व꣡यो धाः  
+प्र꣡ देवय꣡न् यश꣡सः सं꣡ हि꣡ पूर्वीः꣡  

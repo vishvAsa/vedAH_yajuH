@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ví yát tiró dharúṇam ácyutaṃ rájo  
-átiṣṭhipo divá ā́tāsu barháṇā  
-súvarmīḷhe yán máda indra hárṣiyā  
-áhan vr̥tráṃ nír apā́m aubjo arṇavám  
+वि꣡ य꣡त् तिरो꣡ धरु꣡णम् अ꣡च्युतं र꣡जो  
+अ꣡तिष्ठिपो दिव꣡ आ꣡तासु बर्ह꣡णा  
+सु꣡वर्मीऌहे य꣡न् म꣡द इन्द्र ह꣡र्षिया  
+अ꣡हन् वृत्रं꣡ नि꣡र् अपा꣡म् औब्जो अर्णव꣡म्  

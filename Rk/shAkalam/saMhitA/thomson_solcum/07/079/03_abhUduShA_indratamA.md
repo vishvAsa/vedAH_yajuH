@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ábhūd uṣā́ índratamā maghónī  
-ájījanat suvitā́ya śrávāṃsi  
-ví divó devī́ duhitā́ dadhāti  
-áṅgirastamā sukŕ̥te vásūni  
+अ꣡भूद् उषा꣡ इ꣡न्द्रतमा मघो꣡नी  
+अ꣡जीजनत् सुविता꣡य श्र꣡वांसि  
+वि꣡ दिवो꣡ देवी꣡ दुहिता꣡ दधाति  
+अ꣡ङ्गिरस्तमा सुक्ŕ̥ते व꣡सूनि  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tám u ṣṭavāma yáṃ gíra  
-índram ukthā́ni vāvr̥dhúḥ  
-purū́ṇi asya paúṃsiyā  
-síṣāsanto vanāmahe  
+त꣡म् उ ष्टवाम यं꣡ गि꣡र  
+इ꣡न्द्रम् उक्था꣡नि वावृधुः꣡  
+पुरू꣡णि अस्य पउं꣡सिया  
+सि꣡षासन्तो वनामहे  

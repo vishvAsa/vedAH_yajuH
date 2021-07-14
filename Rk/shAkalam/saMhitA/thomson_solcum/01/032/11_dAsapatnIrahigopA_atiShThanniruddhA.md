@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-dāsápatnīr áhigopā atiṣṭhan  
-níruddhā ā́paḥ paṇíneva gā́vaḥ  
-apā́m bílam ápihitaṃ yád ā́sīd  
-vr̥tráṃ jaghanvā́m̐ ápa tád vavāra  
+दास꣡पत्नीर् अ꣡हिगोपा अतिष्ठन्  
+नि꣡रुद्धा आ꣡पः पणि꣡नेव गा꣡वः  
+अपा꣡म् बि꣡लम् अ꣡पिहितं य꣡द् आ꣡सीद्  
+वृत्रं꣡ जघन्वाँ꣡ अ꣡प त꣡द् ववार  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ā́ nāsatyā tribhír ekādaśaír ihá  
-devébhir yātam madhupéyam aśvinā  
-prā́yus tā́riṣṭaṃ nī́ rápāṃsi mr̥kṣataṃ  
-sédhataṃ dvéṣo bhávataṃ sacābhúvā  
+आ꣡ नासत्या त्रिभि꣡र् एकादशइ꣡र् इह꣡  
+देवे꣡भिर् यातम् मधुपे꣡यम् अश्विना  
+प्रा꣡युस् ता꣡रिष्टं नी꣡ र꣡पांसि मृक्षतं  
+से꣡धतं द्वे꣡षो भ꣡वतं सचाभु꣡वा  

@@ -2,10 +2,10 @@
 title = "001"
 
 +++
-ayā́ rucā́ háriṇiyā punānó  
-víśvā dvéṣāṃsi tarati svayúgvabhiḥ  
-sṹro ná svayúgvabhiḥ  
-dhā́rā sutásya rocate  
-punānó aruṣó háriḥ  
-víśvā yád rūpā́ pariyā́ti ŕ̥kvabhiḥ  
-saptáāsyebhir ŕ̥kvabhiḥ  
+अया꣡ रुचा꣡ ह꣡रिणिया पुनानो꣡  
+वि꣡श्वा द्वे꣡षांसि तरति स्वयु꣡ग्वभिः  
+स्ũ꣡रो न꣡ स्वयु꣡ग्वभिः  
+धा꣡रा सुत꣡स्य रोचते  
+पुनानो꣡ अरुषो꣡ ह꣡रिः  
+वि꣡श्वा य꣡द् रूपा꣡ परिया꣡ति ŕ̥क्वभिः  
+सप्त꣡आस्येभिर् ŕ̥क्वभिः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ó cit sákhāyaṃ sakhiyā́ vavr̥tyāṃ  
-tiráḥ purū́ cid arṇaváṃ jaganvā́n  
-pitúr nápātam ā́ dadhīta vedhā́  
-ádhi kṣámi prataráṃ dī́dhiyānaḥ  
+ओ꣡ चित् स꣡खायं सखिया꣡ ववृत्यां  
+तिरः꣡ पुरू꣡ चिद् अर्णवं꣡ जगन्वा꣡न्  
+पितु꣡र् न꣡पातम् आ꣡ दधीत वेधा꣡  
+अ꣡धि क्ष꣡मि प्रतरं꣡ दी꣡धियानः  

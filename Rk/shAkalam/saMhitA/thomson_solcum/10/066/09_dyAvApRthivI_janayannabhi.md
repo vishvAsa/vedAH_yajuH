@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-dyā́vāpr̥thivī́ janayann abhí vratā́  
-ā́pa óṣadhīr vanínāni yajñíyā  
-antárikṣaṃ súvar ā́ paprur ūtáye  
-váśaṃ devā́sas tanúvī ní māmr̥juḥ  
+द्या꣡वापृथिवी꣡ जनयन्न् अभि꣡ व्रता꣡  
+आ꣡प ओ꣡षधीर् वनि꣡नानि यज्ञि꣡या  
+अन्त꣡रिक्षं सु꣡वर् आ꣡ पप्रुर् ऊत꣡ये  
+व꣡शं देवा꣡सस् तनु꣡वी नि꣡ मामृजुः  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-daívyā hótārā prathamā́ vidúṣṭara  
-r̥jú yakṣataḥ sám r̥cā́ vapúṣṭarā  
-devā́n yájantāv r̥tuthā́ sám añjato  
-nā́bhā pr̥thivyā́ ádhi sā́nuṣu triṣú  
+दइ꣡व्या हो꣡तारा प्रथमा꣡ विदु꣡ष्टर  
+ऋजु꣡ यक्षतः स꣡म् ऋचा꣡ वपु꣡ष्टरा  
+देवा꣡न् य꣡जन्ताव् ऋतुथा꣡ स꣡म् अञ्जतो  
+ना꣡भा पृथिव्या꣡ अ꣡धि सा꣡नुषु त्रिषु꣡  

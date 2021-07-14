@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yásmai dhā́yur ádadhā mártiyāya  
-ábhaktaṃ cid bhajate gehíyaṃ sáḥ  
-bhadrā́ ta indra sumatír ghr̥tā́cī  
-sahásradānā puruhūta rātíḥ  
+य꣡स्मै धा꣡युर् अ꣡दधा म꣡र्तियाय  
+अ꣡भक्तं चिद् भजते गेहि꣡यं सः꣡  
+भद्रा꣡ त इन्द्र सुमति꣡र् घृता꣡ची  
+सह꣡स्रदाना पुरुहूत रातिः꣡  

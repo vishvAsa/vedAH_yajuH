@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-éto nu índraṃ stávāma  
-íśānaṃ vásvaḥ svarā́jam  
-ná rā́dhasā mardhiṣan naḥ  
+ए꣡तो नु इ꣡न्द्रं स्त꣡वाम  
+इ꣡शानं व꣡स्वः स्वरा꣡जम्  
+न꣡ रा꣡धसा मर्धिषन् नः  

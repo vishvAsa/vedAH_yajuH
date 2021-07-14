@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-káṇvā índraṃ yád ákrata  
-stómair yajñásya sā́dhanam  
-jāmí bruvata ā́yudham  
+क꣡ण्वा इ꣡न्द्रं य꣡द् अ꣡क्रत  
+स्तो꣡मैर् यज्ञ꣡स्य सा꣡धनम्  
+जामि꣡ ब्रुवत आ꣡युधम्  

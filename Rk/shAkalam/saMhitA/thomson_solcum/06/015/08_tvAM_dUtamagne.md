@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tvā́ṃ dūtám agne amŕ̥taṃ yugé-yuge  
-havyavā́haṃ dadhire pāyúm ī́ḍiyam  
-devā́saś ca mártiāsaś° ca jā́gr̥viṃ  
-vibhúṃ viśpátiṃ námasā ní ṣedire  
+त्वां꣡ दूत꣡म् अग्ने अम्ŕ̥तं युगे꣡-युगे  
+हव्यवा꣡हं दधिरे पायु꣡म् ई꣡डियम्  
+देवा꣡सश् च म꣡र्तिआसश्° च जा꣡गृविं  
+विभुं꣡ विश्प꣡तिं न꣡मसा नि꣡ षेदिरे  

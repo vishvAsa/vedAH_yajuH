@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vā́tasya nú mahimā́naṃ ráthasya  
-rujánn eti stanáyann asya ghóṣaḥ  
-divispŕ̥g yāti aruṇā́ni kr̥ṇvánn  
-utó eti pr̥thivyā́ reṇúm ásyan  
+वा꣡तस्य नु꣡ महिमा꣡नं र꣡थस्य  
+रुज꣡न्न् एति स्तन꣡यन्न् अस्य घो꣡षः  
+दिविस्प्ŕ̥ग् याति अरुणा꣡नि कृण्व꣡न्न्  
+उतो꣡ एति पृथिव्या꣡ रेणु꣡म् अ꣡स्यन्  

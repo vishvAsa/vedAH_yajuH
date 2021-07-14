@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-purutrā́ cid dhí vāṃ narā  
-vihváyante manīṣíṇaḥ  
-vāghádbhir aśvinā́ gatam  
+पुरुत्रा꣡ चिद् धि꣡ वां नरा  
+विह्व꣡यन्ते मनीषि꣡णः  
+वाघ꣡द्भिर् अश्विना꣡ गतम्  

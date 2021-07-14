@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yát tudát sū́ra étaśaṃ  
-vaṅkū́ vā́tasya parṇínā  
-váhat kútsam ārjuneyáṃ śatákratuḥ  
-tsárad gandharvám ástr̥tam  
+य꣡त् तुद꣡त् सू꣡र ए꣡तशं  
+वङ्कू꣡ वा꣡तस्य पर्णि꣡ना  
+व꣡हत् कु꣡त्सम् आर्जुनेयं꣡ शत꣡क्रतुः  
+त्स꣡रद् गन्धर्व꣡म् अ꣡स्तृतम्  

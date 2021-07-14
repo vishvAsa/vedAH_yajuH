@@ -2,6 +2,6 @@
 title = "045"
 
 +++
-úd agne bhārata dyumád  
-ájasreṇa dávidyutat  
-śócā ví bhāhi ajara  
+उ꣡द् अग्ने भारत द्युम꣡द्  
+अ꣡जस्रेण द꣡विद्युतत्  
+शो꣡चा वि꣡ भाहि अजर  

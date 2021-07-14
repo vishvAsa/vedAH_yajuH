@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sutapā́vne sutā́ imé  
-śúcayo yanti vītáye  
-sómāso dádhiāśiraḥ  
+सुतपा꣡व्ने सुता꣡ इमे꣡  
+शु꣡चयो यन्ति वीत꣡ये  
+सो꣡मासो द꣡धिआशिरः  

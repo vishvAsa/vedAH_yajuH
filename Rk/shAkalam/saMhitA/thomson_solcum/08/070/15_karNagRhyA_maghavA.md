@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-karṇagŕ̥hyā maghávā śauradeviyó  
-vatsáṃ nas tribhyá ā́nayat  
-ajā́ṃ sūrír ná dhā́tave  
+कर्णग्ŕ̥ह्या मघ꣡वा शौरदेवियो꣡  
+वत्सं꣡ नस् त्रिभ्य꣡ आ꣡नयत्  
+अजां꣡ सूरि꣡र् न꣡ धा꣡तवे  

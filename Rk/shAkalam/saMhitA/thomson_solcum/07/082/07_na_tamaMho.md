@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ná tám áṃho ná duritā́ni mártiyam  
-índrāvaruṇā ná tápaḥ kútaś caná  
-yásya devā gáchatho vīthó adhvaráṃ  
-ná tám mártasya naśate párihvr̥tiḥ  
+न꣡ त꣡म् अं꣡हो न꣡ दुरिता꣡नि म꣡र्तियम्  
+इ꣡न्द्रावरुणा न꣡ त꣡पः कु꣡तश् चन꣡  
+य꣡स्य देवा ग꣡छथो वीथो꣡ अध्वरं꣡  
+न꣡ त꣡म् म꣡र्तस्य नशते प꣡रिह्वृतिः  

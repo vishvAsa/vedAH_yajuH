@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́ stutā́so maruto víśva ūtī́  
-áchā sūrī́n sarvátātā jigāta  
-yé nas tmánā śatíno vardháyanti  
-yūyám pāta suastíbhiḥ sádā naḥ  
+आ꣡ स्तुता꣡सो मरुतो वि꣡श्व ऊती꣡  
+अ꣡छा सूरी꣡न् सर्व꣡ताता जिगात  
+ये꣡ नस् त्म꣡ना शति꣡नो वर्ध꣡यन्ति  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

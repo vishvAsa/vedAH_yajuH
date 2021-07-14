@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ yó mūrdhā́nam pitarór+ árabdha  
-ní adhvaré dadhire sū́ro árṇaḥ  
-ásya pátmann áruṣīr áśvabudhnā  
-r̥tásya yónau tanúvo juṣanta  
+आ꣡ यो꣡ मूर्धा꣡नम् पितरो꣡र्+ अ꣡रब्ध  
+नि꣡ अध्वरे꣡ दधिरे सू꣡रो अ꣡र्णः  
+अ꣡स्य प꣡त्मन्न् अ꣡रुषीर् अ꣡श्वबुध्ना  
+ऋत꣡स्य यो꣡नौ तनु꣡वो जुषन्त  

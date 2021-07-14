@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-yásya te mahinā́ maháḥ  
-pári jmāyántam īyátuḥ  
-hástā vájraṃ hiraṇyáyam  
+य꣡स्य ते महिना꣡ महः꣡  
+प꣡रि ज्माय꣡न्तम् ईय꣡तुः  
+ह꣡स्ता व꣡ज्रं हिरण्य꣡यम्  

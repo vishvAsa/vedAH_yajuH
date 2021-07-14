@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-vétthā hí nírr̥tīnãṃ  
-vájrahasta parivŕ̥jam  
-áhar-ahaḥ śundhyúḥ paripádām iva  
+वे꣡त्था हि꣡ नि꣡रृतीन्ãं  
+व꣡ज्रहस्त परिव्ŕ̥जम्  
+अ꣡हर्-अहः शुन्ध्युः꣡ परिप꣡दाम् इव  

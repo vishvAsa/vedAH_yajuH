@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuvád agne kā́viyā tván manīṣā́s  
-tuvád ukthā́ jāyante rā́dhiyāni  
-tuvád eti dráviṇaṃ vīrápeśā  
-itthā́dhiye dāśúṣe mártiyāya  
+तुव꣡द् अग्ने का꣡विया त्व꣡न् मनीषा꣡स्  
+तुव꣡द् उक्था꣡ जायन्ते रा꣡धियानि  
+तुव꣡द् एति द्र꣡विणं वीर꣡पेशा  
+इत्था꣡धिये दाशु꣡षे म꣡र्तियाय  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-abhí te mádhunā páyo  
-átharvāṇo aśiśrayuḥ  
-deváṃ devā́ya devayú  
+अभि꣡ ते म꣡धुना प꣡यो  
+अ꣡थर्वाणो अशिश्रयुः  
+देवं꣡ देवा꣡य देवयु꣡  

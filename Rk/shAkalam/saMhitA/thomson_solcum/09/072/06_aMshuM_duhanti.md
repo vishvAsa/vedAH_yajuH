@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-aṃśúṃ duhanti stanáyantam ákṣitaṃ  
-kavíṃ kaváyo apáso manīṣíṇaḥ  
-sám ī gā́vo matáyo yanti saṃyáta  
-r̥tásya yónā sádane punarbhúvaḥ  
+अंशुं꣡ दुहन्ति स्तन꣡यन्तम् अ꣡क्षितं  
+कविं꣡ कव꣡यो अप꣡सो मनीषि꣡णः  
+स꣡म् ई गा꣡वो मत꣡यो यन्ति संय꣡त  
+ऋत꣡स्य यो꣡ना स꣡दने पुनर्भु꣡वः  

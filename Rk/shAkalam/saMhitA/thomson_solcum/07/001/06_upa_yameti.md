@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-úpa yám éti yuvatíḥ sudákṣaṃ  
-doṣā́ vástor havíṣmatī ghr̥tā́cī  
-úpa svaínam arámatir vasūyúḥ  
+उ꣡प य꣡म् ए꣡ति युवतिः꣡ सुद꣡क्षं  
+दोषा꣡ व꣡स्तोर् हवि꣡ष्मती घृता꣡ची  
+उ꣡प स्वइ꣡नम् अर꣡मतिर् वसूयुः꣡  

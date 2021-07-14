@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vŕ̥ṣeva yūthā́ pári kóśam arṣasi  
-apā́m upásthe vr̥ṣabháḥ kánikradat  
-sá índrāya pavase matsaríntamo  
-yáthā jéṣāma samithé tuvótayaḥ  
+व्ŕ̥षेव यूथा꣡ प꣡रि को꣡शम् अर्षसि  
+अपा꣡म् उप꣡स्थे वृषभः꣡ क꣡निक्रदत्  
+स꣡ इ꣡न्द्राय पवसे मत्सरि꣡न्तमो  
+य꣡था जे꣡षाम समिथे꣡ तुवो꣡तयः  

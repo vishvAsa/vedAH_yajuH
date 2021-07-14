@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-úd u tyád darśatáṃ vápur  
-divá eti pratihvaré  
-yád īm āśúr váhati devá étaśo  
-víśvasmai cákṣase áram  
+उ꣡द् उ त्य꣡द् दर्शतं꣡ व꣡पुर्  
+दिव꣡ एति प्रतिह्वरे꣡  
+य꣡द् ईम् आशु꣡र् व꣡हति देव꣡ ए꣡तशो  
+वि꣡श्वस्मै च꣡क्षसे अ꣡रम्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-etác caná tvo ví ciketad eṣāṃ  
-satyó mántraḥ kaviśastá ŕ̥ghāvān  
-triráśriṃ hanti cáturaśrir ugró  
-devanído ha prathamā́ ajūryan  
+एत꣡च् चन꣡ त्वो वि꣡ चिकेतद् एषां  
+सत्यो꣡ म꣡न्त्रः कविशस्त꣡ ŕ̥घावान्  
+त्रिर꣡श्रिं हन्ति च꣡तुरश्रिर् उग्रो꣡  
+देवनि꣡दो ह प्रथमा꣡ अजूर्यन्  

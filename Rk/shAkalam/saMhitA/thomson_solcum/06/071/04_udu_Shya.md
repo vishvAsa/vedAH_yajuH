@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-úd u ṣyá deváḥ savitā́ dámūnā  
-híraṇyapāṇiḥ pratidoṣám asthāt  
-áyohanur yajató mandrájihva  
-ā́ dāśúṣe suvati bhū́ri vāmám  
+उ꣡द् उ ष्य꣡ देवः꣡ सविता꣡ द꣡मूना  
+हि꣡रण्यपाणिः प्रतिदोष꣡म् अस्थात्  
+अ꣡योहनुर् यजतो꣡ मन्द्र꣡जिह्व  
+आ꣡ दाशु꣡षे सुवति भू꣡रि वाम꣡म्  

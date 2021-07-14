@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-mahó árṇaḥ sárasvatī  
-prá cetayati ketúnā  
-dhíyo víśvā ví rājati  
+महो꣡ अ꣡र्णः स꣡रस्वती  
+प्र꣡ चेतयति केतु꣡ना  
+धि꣡यो वि꣡श्वा वि꣡ राजति  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-nr̥cákṣā eṣá divó mádhya āsta  
-āpaprivā́n ródasī antárikṣam  
-sá viśvā́cīr abhí caṣṭe ghr̥tā́cīr  
-antarā́ pū́rvam áparaṃ ca ketúm  
+नृच꣡क्षा एष꣡ दिवो꣡ म꣡ध्य आस्त  
+आपप्रिवा꣡न् रो꣡दसी अन्त꣡रिक्षम्  
+स꣡ विश्वा꣡चीर् अभि꣡ चष्टे घृता꣡चीर्  
+अन्तरा꣡ पू꣡र्वम् अ꣡परं च केतु꣡म्  

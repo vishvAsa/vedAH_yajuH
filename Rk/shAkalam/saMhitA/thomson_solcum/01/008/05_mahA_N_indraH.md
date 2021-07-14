@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-mahā́m̐ índraḥ paráś ca nú  
-mahitvám astu vajríṇe  
-diyaúr ná prathinā́ śávaḥ  
+महाँ꣡ इ꣡न्द्रः पर꣡श् च नु꣡  
+महित्व꣡म् अस्तु वज्रि꣡णे  
+दियउ꣡र् न꣡ प्रथिना꣡ श꣡वः  

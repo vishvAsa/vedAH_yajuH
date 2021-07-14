@@ -2,5 +2,5 @@
 title = "006"
 
 +++
-divó dhartā́si śukráḥ pīyū́ṣaḥ  
-satyé vídharman vājī́ pavasva  
+दिवो꣡ धर्ता꣡सि शुक्रः꣡ पीयू꣡षः  
+सत्ये꣡ वि꣡धर्मन् वाजी꣡ पवस्व  

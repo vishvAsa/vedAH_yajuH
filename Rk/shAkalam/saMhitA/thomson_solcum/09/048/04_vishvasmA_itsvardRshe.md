@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-víśvasmā ít súvar dr̥śé  
-sā́dhāraṇaṃ rajastúram  
-gopā́m r̥tásya vír bharat  
+वि꣡श्वस्मा इ꣡त् सु꣡वर् दृशे꣡  
+सा꣡धारणं रजस्तु꣡रम्  
+गोपा꣡म् ऋत꣡स्य वि꣡र् भरत्  

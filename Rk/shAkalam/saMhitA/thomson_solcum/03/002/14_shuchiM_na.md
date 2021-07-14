@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-śúciṃ ná yā́mann iṣiráṃ suvardŕ̥śaṃ  
-ketúṃ divó rocanasthā́m uṣarbúdham  
-agním mūrdhā́naṃ divó ápratiṣkutaṃ  
-tám īmahe námasā vājínam br̥hát  
+शु꣡चिं न꣡ या꣡मन्न् इषिरं꣡ सुवर्द्ŕ̥शं  
+केतुं꣡ दिवो꣡ रोचनस्था꣡म् उषर्बु꣡धम्  
+अग्नि꣡म् मूर्धा꣡नं दिवो꣡ अ꣡प्रतिष्कुतं  
+त꣡म् ईमहे न꣡मसा वाजि꣡नम् बृह꣡त्  

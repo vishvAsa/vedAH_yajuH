@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-ā́ pavasva híraṇyavad  
-áśvāvat soma vīrávat  
-vā́jaṃ gómantam ā́ bhara  
+आ꣡ पवस्व हि꣡रण्यवद्  
+अ꣡श्वावत् सोम वीर꣡वत्  
+वा꣡जं गो꣡मन्तम् आ꣡ भर  

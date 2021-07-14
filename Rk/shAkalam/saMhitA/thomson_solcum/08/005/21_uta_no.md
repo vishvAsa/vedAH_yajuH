@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-utá no diviyā́ íṣa  
-utá síndhūm̐r aharvidā  
-ápa dvā́reva varṣathaḥ  
+उत꣡ नो दिविया꣡ इ꣡ष  
+उत꣡ सि꣡न्धूँर् अहर्विदा  
+अ꣡प द्वा꣡रेव वर्षथः  

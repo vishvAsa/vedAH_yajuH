@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índrāsomā yuvám aṅgá tárutram  
-apatyasā́caṃ śrútiyaṃ rarāthe  
-yuváṃ śúṣmaṃ náriyaṃ carṣaṇíbhyaḥ  
-sáṃ vivyathuḥ pr̥tanāṣā́ham ugrā  
+इ꣡न्द्रासोमा युव꣡म् अङ्ग꣡ त꣡रुत्रम्  
+अपत्यसा꣡चं श्रु꣡तियं रराथे  
+युवं꣡ शु꣡ष्मं न꣡रियं चर्षणि꣡भ्यः  
+सं꣡ विव्यथुः पृतनाषा꣡हम् उग्रा  

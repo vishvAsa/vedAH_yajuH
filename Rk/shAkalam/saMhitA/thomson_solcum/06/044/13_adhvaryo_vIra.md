@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ádhvaryo vīra prá mahé sutā́nām  
-índrāya bhara sá hí asya rā́jā  
-yáḥ pūrviyā́bhir utá nū́tanābhir  
-gīrbhír vāvr̥dhé gr̥ṇatā́m ŕ̥ṣīṇām  
+अ꣡ध्वर्यो वीर प्र꣡ महे꣡ सुता꣡नाम्  
+इ꣡न्द्राय भर स꣡ हि꣡ अस्य रा꣡जा  
+यः꣡ पूर्विया꣡भिर् उत꣡ नू꣡तनाभिर्  
+गीर्भि꣡र् वावृधे꣡ गृणता꣡म् ŕ̥षीणाम्  

@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-ā́ no mitrāvaruṇā  
-ghr̥taír gávyūtim ukṣatam  
-mádhvā rájāṃsi sukratū  
+आ꣡ नो मित्रावरुणा  
+घृतइ꣡र् ग꣡व्यूतिम् उक्षतम्  
+म꣡ध्वा र꣡जांसि सुक्रतू  

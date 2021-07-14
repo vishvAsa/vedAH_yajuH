@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-hárayo dhūmáketavo  
-vā́tajūtā úpa dyávi  
-yátante vŕ̥thag agnáyaḥ  
+ह꣡रयो धूम꣡केतवो  
+वा꣡तजूता उ꣡प द्य꣡वि  
+य꣡तन्ते व्ŕ̥थग् अग्न꣡यः  

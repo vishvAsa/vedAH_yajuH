@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ráthaṃ yã́ntaṃ kúha kó ha vāṃ narā  
-práti dyumántaṃ suvitā́ya bhūṣati  
-prātaryā́vāṇaṃ vibhúvaṃ viśé-viśe  
-vástor-vastor váhamānaṃ dhiyā́ śámi  
+र꣡थं य्ã꣡न्तं कु꣡ह को꣡ ह वां नरा  
+प्र꣡ति द्युम꣡न्तं सुविता꣡य भूषति  
+प्रातर्या꣡वाणं विभु꣡वं विशे꣡-विशे  
+व꣡स्तोर्-वस्तोर् व꣡हमानं धिया꣡ श꣡मि  

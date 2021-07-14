@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-ā́ tvā ráthe hiraṇyáye  
-hárī mayū́raśepiyā  
-śitipr̥ṣṭhā́ vahatām mádhvo ándhaso  
-vivákṣaṇasya pītáye  
+आ꣡ त्वा र꣡थे हिरण्य꣡ये  
+ह꣡री मयू꣡रशेपिया  
+शितिपृष्ठा꣡ वहताम् म꣡ध्वो अ꣡न्धसो  
+विव꣡क्षणस्य पीत꣡ये  

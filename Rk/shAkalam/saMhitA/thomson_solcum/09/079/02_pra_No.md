@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá ṇo dhanvantu índavo madacyúto  
-dhánā vā yébhir árvato junīmási  
-tiró mártasya kásya cit párihvr̥tiṃ  
-vayáṃ dhánāni viśvádhā bharemahi  
+प्र꣡ णो धन्वन्तु इ꣡न्दवो मदच्यु꣡तो  
+ध꣡ना वा ये꣡भिर् अ꣡र्वतो जुनीम꣡सि  
+तिरो꣡ म꣡र्तस्य क꣡स्य चित् प꣡रिह्वृतिं  
+वयं꣡ ध꣡नानि विश्व꣡धा भरेमहि  

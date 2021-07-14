@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ayáṃ sú túbhyaṃ varuṇa svadhāvo  
-hr̥dí stóma úpaśritaś cid astu  
-śáṃ naḥ kṣéme śám u yóge no astu  
-yūyám pāta suastíbhiḥ sádā naḥ  
+अयं꣡ सु꣡ तु꣡भ्यं वरुण स्वधावो  
+हृदि꣡ स्तो꣡म उ꣡पश्रितश् चिद् अस्तु  
+शं꣡ नः क्षे꣡मे श꣡म् उ यो꣡गे नो अस्तु  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

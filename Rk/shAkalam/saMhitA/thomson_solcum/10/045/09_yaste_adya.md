@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yás te adyá kr̥ṇávad bhadraśoce  
-apūpáṃ deva ghr̥távantam agne  
-prá táṃ naya prataráṃ vásyo ácha  
-abhí sumnáṃ devábhaktaṃ yaviṣṭha  
+य꣡स् ते अद्य꣡ कृण꣡वद् भद्रशोचे  
+अपूपं꣡ देव घृत꣡वन्तम् अग्ने  
+प्र꣡ तं꣡ नय प्रतरं꣡ व꣡स्यो अ꣡छ  
+अभि꣡ सुम्नं꣡ देव꣡भक्तं यविष्ठ  

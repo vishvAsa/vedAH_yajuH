@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-pariprayántaṃ vayíyaṃ suṣaṃsádaṃ  
-sómam manīṣā́ abhy ànūṣata stúbhaḥ  
-yó dhā́rayā mádhumām̐ ūrmíṇā divá  
-íyarti vā́caṃ rayiṣā́ḷ ámartiyaḥ  
+परिप्रय꣡न्तं वयि꣡यं सुषंस꣡दं  
+सो꣡मम् मनीषा꣡ अभ्य् अ᳡नूषत स्तु꣡भः  
+यो꣡ धा꣡रया म꣡धुमाँ ऊर्मि꣡णा दिव꣡  
+इ꣡यर्ति वा꣡चं रयिषा꣡ऌ अ꣡मर्तियः  

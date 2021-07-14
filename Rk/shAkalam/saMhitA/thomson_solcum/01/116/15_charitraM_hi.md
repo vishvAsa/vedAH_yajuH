@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-carítraṃ hí vér ivā́chedi parṇám  
-ājā́ khelásya páritakmiyāyām  
-sadyó jáṅghām ā́yasīṃ viśpálāyai  
-dháne hité sártave práty adhattam  
+चरि꣡त्रं हि꣡ वे꣡र् इवा꣡छेदि पर्ण꣡म्  
+आजा꣡ खेल꣡स्य प꣡रितक्मियायाम्  
+सद्यो꣡ ज꣡ङ्घाम् आ꣡यसीं विश्प꣡लायै  
+ध꣡ने हिते꣡ स꣡र्तवे प्र꣡त्य् अधत्तम्  

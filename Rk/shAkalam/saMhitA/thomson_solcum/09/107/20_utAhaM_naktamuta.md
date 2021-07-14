@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-utā́háṃ náktam utá soma te dívā  
-sakhyā́ya babhra ū́dhani  
-ghr̥ṇā́ tápantam áti sū́riyam paráḥ  
-śakunā́ iva paptima  
+उता꣡हं꣡ न꣡क्तम् उत꣡ सोम ते दि꣡वा  
+सख्या꣡य बभ्र ऊ꣡धनि  
+घृणा꣡ त꣡पन्तम् अ꣡ति सू꣡रियम् परः꣡  
+शकुना꣡ इव पप्तिम  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-pávamāna súvar vido  
-jā́yamāno 'bhavo mahā́n  
-índo víśvām̐ abhī́d asi  
+प꣡वमान सु꣡वर् विदो  
+जा꣡यमानो ऽभवो महा꣡न्  
+इ꣡न्दो वि꣡श्वाँ अभी꣡द् असि  

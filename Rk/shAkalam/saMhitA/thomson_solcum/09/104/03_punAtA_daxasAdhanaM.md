@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-punā́tā dakṣasā́dhanaṃ  
-yáthā śárdhāya vītáye  
-yáthā mitrā́ya váruṇāya śáṃtamaḥ  
+पुना꣡ता दक्षसा꣡धनं  
+य꣡था श꣡र्धाय वीत꣡ये  
+य꣡था मित्रा꣡य व꣡रुणाय शं꣡तमः  

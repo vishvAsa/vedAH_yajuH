@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yuvám etā́ni diví rocanā́ni  
-agníś ca soma sákratū adhattam  
-yuváṃ síndhūm̐r abhíśaster avadyā́d  
-ágnīṣomāv ámuñcataṃ gr̥bhītā́n  
+युव꣡म् एता꣡नि दिवि꣡ रोचना꣡नि  
+अग्नि꣡श् च सोम स꣡क्रतू अधत्तम्  
+युवं꣡ सि꣡न्धूँर् अभि꣡शस्तेर् अवद्या꣡द्  
+अ꣡ग्नीषोमाव् अ꣡मुञ्चतं गृभीता꣡न्  

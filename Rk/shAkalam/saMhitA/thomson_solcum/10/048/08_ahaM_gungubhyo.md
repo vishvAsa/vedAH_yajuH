@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-aháṃ guṅgúbhyo atithigvám íṣkaram  
-íṣaṃ ná vr̥tratúraṃ vikṣú dhārayam  
-yát parṇayaghná utá vā karañjahé  
-prā́hám mahé vr̥trahátye áśuśravi  
+अहं꣡ गुङ्गु꣡भ्यो अतिथिग्व꣡म् इ꣡ष्करम्  
+इ꣡षं न꣡ वृत्रतु꣡रं विक्षु꣡ धारयम्  
+य꣡त् पर्णयघ्न꣡ उत꣡ वा करञ्जहे꣡  
+प्रा꣡ह꣡म् महे꣡ वृत्रह꣡त्ये अ꣡शुश्रवि  

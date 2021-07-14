@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yó na ā́go abhí éno bhárāti  
-ádhī́d aghám agháśaṃse dadhāta  
-jahī́ cikitvo abhíśastim etā́m  
-ágne yó no marcáyati dvayéna  
+यो꣡ न आ꣡गो अभि꣡ ए꣡नो भ꣡राति  
+अ꣡धी꣡द् अघ꣡म् अघ꣡शंसे दधात  
+जही꣡ चिकित्वो अभि꣡शस्तिम् एता꣡म्  
+अ꣡ग्ने यो꣡ नो मर्च꣡यति द्वये꣡न  

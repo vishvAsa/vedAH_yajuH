@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-cákṣur no dhehi cákṣuṣe  
-cákṣur vikhyaí tanū́bhiyaḥ  
-sáṃ cedáṃ ví ca paśyema  
+च꣡क्षुर् नो धेहि च꣡क्षुषे  
+च꣡क्षुर् विख्यइ꣡ तनू꣡भियः  
+सं꣡ चेदं꣡ वि꣡ च पश्येम  

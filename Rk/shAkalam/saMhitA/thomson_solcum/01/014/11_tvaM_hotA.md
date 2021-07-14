@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-tuváṃ hótā mánurhito  
-ágne yajñéṣu sīdasi  
-sémáṃ no adhvaráṃ yaja  
+तुवं꣡ हो꣡ता म꣡नुर्हितो  
+अ꣡ग्ने यज्ञे꣡षु सीदसि  
+से꣡मं꣡ नो अध्वरं꣡ यज  

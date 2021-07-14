@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-tuváṃ soma nr̥mā́danaḥ  
-pávasva carṣaṇīsáhe  
-sásnir yó anumā́diyaḥ  
+तुवं꣡ सोम नृमा꣡दनः  
+प꣡वस्व चर्षणीस꣡हे  
+स꣡स्निर् यो꣡ अनुमा꣡दियः  

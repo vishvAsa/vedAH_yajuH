@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-r̥táṃ ca satyáṃ cābhī́ddhāt  
-tápasó 'dhi ajāyata  
-táto rā́trī ajāyata  
-tátaḥ samudró arṇaváḥ  
+ऋतं꣡ च सत्यं꣡ चाभी꣡द्धात्  
+त꣡पसो꣡ ऽधि अजायत  
+त꣡तो रा꣡त्री अजायत  
+त꣡तः समुद्रो꣡ अर्णवः꣡  

@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-dhenū́r jinvatam utá jinvataṃ víśo  
-hatáṃ rákṣāṃsi sédhatam ámīvāḥ  
-sajóṣasā uṣásā sū́riyeṇa ca  
-sómaṃ sunvató aśvinā  
+धेनू꣡र् जिन्वतम् उत꣡ जिन्वतं वि꣡शो  
+हतं꣡ र꣡क्षांसि से꣡धतम् अ꣡मीवाः  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+सो꣡मं सुन्वतो꣡ अश्विना  

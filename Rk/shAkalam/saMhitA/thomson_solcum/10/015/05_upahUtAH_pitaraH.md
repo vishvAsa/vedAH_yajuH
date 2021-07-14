@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-úpahūtāḥ pitáraḥ somiyā́so  
-barhiṣíyeṣu nidhíṣu priyéṣu  
-tá ā́ gamantu tá ihá śruvantu  
-ádhi bruvantu té avantu asmā́n  
+उ꣡पहूताः पित꣡रः सोमिया꣡सो  
+बर्हिषि꣡येषु निधि꣡षु प्रिये꣡षु  
+त꣡ आ꣡ गमन्तु त꣡ इह꣡ श्रुवन्तु  
+अ꣡धि ब्रुवन्तु ते꣡ अवन्तु अस्मा꣡न्  

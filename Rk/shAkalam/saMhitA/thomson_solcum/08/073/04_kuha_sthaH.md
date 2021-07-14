@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-kúha sthaḥ kúha jagmathuḥ  
-kúha śyenéva petathuḥ  
-ánti ṣad bhūtu vām ávaḥ  
+कु꣡ह स्थः कु꣡ह जग्मथुः  
+कु꣡ह श्येने꣡व पेतथुः  
+अ꣡न्ति षद् भूतु वाम् अ꣡वः  

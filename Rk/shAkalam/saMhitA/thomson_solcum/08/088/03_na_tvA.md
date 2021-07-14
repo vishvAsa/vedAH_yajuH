@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ná tvā br̥hánto ádrayo  
-váranta indra vīḷávaḥ  
-yád dítsasi stuvaté mā́vate vásu  
-nákiṣ ṭád ā́ mināti te  
+न꣡ त्वा बृह꣡न्तो अ꣡द्रयो  
+व꣡रन्त इन्द्र वीऌअ꣡वः  
+य꣡द् दि꣡त्ससि स्तुवते꣡ मा꣡वते व꣡सु  
+न꣡किष् ट꣡द् आ꣡ मिनाति ते  

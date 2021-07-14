@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-prájāpate ná tvád etā́ni anyó  
-víśvā jātā́ni pári tā́ babhūva  
-yátkāmās te juhumás tán no astu  
-vayáṃ siyāma pátayo rayīṇā́m  
+प्र꣡जापते न꣡ त्व꣡द् एता꣡नि अन्यो꣡  
+वि꣡श्वा जाता꣡नि प꣡रि ता꣡ बभूव  
+य꣡त्कामास् ते जुहुम꣡स् त꣡न् नो अस्तु  
+वयं꣡ सियाम प꣡तयो रयीणा꣡म्  

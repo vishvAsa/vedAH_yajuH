@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-utá rtúbhir r̥tupāḥ pāhi sómam  
-índra devébhiḥ sákhibhiḥ sutáṃ naḥ  
-yā́m̐ ā́bhajo marúto yé tuvā́nu  
-áhan vr̥trám ádadhus túbhyam ójaḥ  
+उत꣡ र्तु꣡भिर् ऋतुपाः पाहि सो꣡मम्  
+इ꣡न्द्र देवे꣡भिः स꣡खिभिः सुतं꣡ नः  
+याँ꣡ आ꣡भजो मरु꣡तो ये꣡ तुवा꣡नु  
+अ꣡हन् वृत्र꣡म् अ꣡दधुस् तु꣡भ्यम् ओ꣡जः  

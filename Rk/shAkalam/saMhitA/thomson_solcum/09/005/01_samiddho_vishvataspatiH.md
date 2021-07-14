@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-sámiddho viśvátas pátiḥ  
-pávamāno ví rājati  
-prīṇán vŕ̥ṣā kánikradat  
+स꣡मिद्धो विश्व꣡तस् प꣡तिः  
+प꣡वमानो वि꣡ राजति  
+प्रीण꣡न् व्ŕ̥षा क꣡निक्रदत्  

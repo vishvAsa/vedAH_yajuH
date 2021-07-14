@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ápa tyám paripanthínam  
-muṣīvā́ṇaṃ huraścítam  
-dūrám ádhi srutér aja  
+अ꣡प त्य꣡म् परिपन्थि꣡नम्  
+मुषीवा꣡णं हुरश्चि꣡तम्  
+दूर꣡म् अ꣡धि स्रुते꣡र् अज  

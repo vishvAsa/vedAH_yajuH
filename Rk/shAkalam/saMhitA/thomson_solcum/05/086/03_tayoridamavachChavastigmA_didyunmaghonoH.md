@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-táyor íd ámavac chávas  
-tigmā́ didyún maghṍnoḥ  
-práti drúṇā gábhastiyor  
-gávāṃ vr̥traghná éṣate  
+त꣡योर् इ꣡द् अ꣡मवच् छ꣡वस्  
+तिग्मा꣡ दिद्यु꣡न् मघ्õ꣡नोः  
+प्र꣡ति द्रु꣡णा ग꣡भस्तियोर्  
+ग꣡वां वृत्रघ्न꣡ ए꣡षते  

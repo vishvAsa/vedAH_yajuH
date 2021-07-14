@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ajirā́so hárayo yé ta āśávo  
-vā́tā iva prasakṣíṇaḥ  
-yébhir ápatyam mánuṣaḥ parī́yase  
-yébhir víśvaṃ súvar dr̥śé  
+अजिरा꣡सो ह꣡रयो ये꣡ त आश꣡वो  
+वा꣡ता इव प्रसक्षि꣡णः  
+ये꣡भिर् अ꣡पत्यम् म꣡नुषः परी꣡यसे  
+ये꣡भिर् वि꣡श्वं सु꣡वर् दृशे꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuváṃ dātā́ prathamó rā́dhasām asi  
-ási satyá īśānakŕ̥t  
-tuvidyumnásya yújiyā́ vr̥ṇīmahe  
-putrásya śávaso maháḥ  
+तुवं꣡ दाता꣡ प्रथमो꣡ रा꣡धसाम् असि  
+अ꣡सि सत्य꣡ ईशानक्ŕ̥त्  
+तुविद्युम्न꣡स्य यु꣡जिया꣡ वृणीमहे  
+पुत्र꣡स्य श꣡वसो महः꣡  

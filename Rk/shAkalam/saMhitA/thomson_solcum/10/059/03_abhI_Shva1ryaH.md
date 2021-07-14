@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-abhī́ ṣú aryáḥ paúṃsiyair bhavema  
-diyaúr ná bhū́miṃ giráyo ná ájrān  
-tā́ no víśvāni jaritā́ ciketa  
-parātaráṃ sú nírr̥tir jihītām  
+अभी꣡ षु꣡ अर्यः꣡ पउं꣡सियैर् भवेम  
+दियउ꣡र् न꣡ भू꣡मिं गिर꣡यो न꣡ अ꣡ज्रान्  
+ता꣡ नो वि꣡श्वानि जरिता꣡ चिकेत  
+परातरं꣡ सु꣡ नि꣡रृतिर् जिहीताम्  

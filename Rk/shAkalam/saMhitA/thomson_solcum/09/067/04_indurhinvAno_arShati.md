@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-índur hinvānó arṣati  
-tiró vā́rāṇi avyáyā  
-hárir vā́jam acikradat  
+इ꣡न्दुर् हिन्वानो꣡ अर्षति  
+तिरो꣡ वा꣡राणि अव्य꣡या  
+ह꣡रिर् वा꣡जम् अचिक्रदत्  

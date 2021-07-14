@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-krátve dákṣāya naḥ kave  
-pávasva soma dhā́rayā  
-índrāya pā́tave sutó  
-mitrā́ya váruṇāya ca  
+क्र꣡त्वे द꣡क्षाय नः कवे  
+प꣡वस्व सोम धा꣡रया  
+इ꣡न्द्राय पा꣡तवे सुतो꣡  
+मित्रा꣡य व꣡रुणाय च  

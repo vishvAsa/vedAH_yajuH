@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-índreṇa yātha saráthaṃ suté sácām̐  
-átho váśānām bhavathā sahá śriyā́  
-ná vaḥ pratimaí sukr̥tā́ni vāghataḥ  
-saúdhanvanā r̥bhavo vīríyāṇi ca  
+इ꣡न्द्रेण याथ सर꣡थं सुते꣡ स꣡चाँ  
+अ꣡थो व꣡शानाम् भवथा सह꣡ श्रिया꣡  
+न꣡ वः प्रतिमइ꣡ सुकृता꣡नि वाघतः  
+सउ꣡धन्वना ऋभवो वीरि꣡याणि च  

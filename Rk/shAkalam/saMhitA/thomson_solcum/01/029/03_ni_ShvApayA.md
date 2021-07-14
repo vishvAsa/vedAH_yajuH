@@ -2,8 +2,8 @@
 title = "003"
 
 +++
-ní ṣvāpayā mithūdŕ̥śā  
-sastā́m ábudhyamāne  
-ā́ tū́ na indra śaṃsaya  
-góṣu áśveṣu śubhríṣu  
-sahásreṣu tuvīmagha  
+नि꣡ ष्वापया मिथूद्ŕ̥शा  
+सस्ता꣡म् अ꣡बुध्यमाने  
+आ꣡ तू꣡ न इन्द्र शंसय  
+गो꣡षु अ꣡श्वेषु शुभ्रि꣡षु  
+सह꣡स्रेषु तुवीमघ  

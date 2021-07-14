@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-índréhi mátsi ándhaso  
-víśvebhiḥ somapárvabhiḥ  
-mahā́m̐ abhiṣṭír ójasā  
+इ꣡न्द्रे꣡हि म꣡त्सि अ꣡न्धसो  
+वि꣡श्वेभिः सोमप꣡र्वभिः  
+महाँ꣡ अभिष्टि꣡र् ओ꣡जसा  

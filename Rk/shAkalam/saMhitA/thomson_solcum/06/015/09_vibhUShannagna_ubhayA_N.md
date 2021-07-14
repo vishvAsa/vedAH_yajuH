@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-vibhū́ṣann agna ubháyām̐ ánu vratā́  
-dūtó devā́nāṃ rájasī sám īyase  
-yát te dhītíṃ sumatím āvr̥ṇīmáhe  
-ádha smā nas trivárūthaḥ śivó bhava  
+विभू꣡षन्न् अग्न उभ꣡याँ अ꣡नु व्रता꣡  
+दूतो꣡ देवा꣡नां र꣡जसी स꣡म् ईयसे  
+य꣡त् ते धीतिं꣡ सुमति꣡म् आवृणीम꣡हे  
+अ꣡ध स्मा नस् त्रिव꣡रूथः शिवो꣡ भव  

@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-utā́śiṣṭhā ánu śr̥ṇvanti váhnayaḥ  
-sabhéyo vípro bharate matī́ dhánā  
-vīḷudvéṣā ánu váśa rṇám ādadíḥ  
-sá ha vājī́ samithé bráhmaṇas pátiḥ  
+उता꣡शिष्ठा अ꣡नु शृण्वन्ति व꣡ह्नयः  
+सभे꣡यो वि꣡प्रो भरते मती꣡ ध꣡ना  
+वीऌउद्वे꣡षा अ꣡नु व꣡श र्ण꣡म् आददिः꣡  
+स꣡ ह वाजी꣡ समिथे꣡ ब्र꣡ह्मणस् प꣡तिः  

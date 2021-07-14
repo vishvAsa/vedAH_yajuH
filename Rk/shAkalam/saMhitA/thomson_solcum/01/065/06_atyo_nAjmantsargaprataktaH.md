@@ -2,5 +2,5 @@
 title = "006"
 
 +++
-átyo ná ájman sárgaprataktaḥ  
-síndhur ná kṣódaḥ ká īṃ varāte  
+अ꣡त्यो न꣡ अ꣡ज्मन् स꣡र्गप्रतक्तः  
+सि꣡न्धुर् न꣡ क्षो꣡दः क꣡ ईं वराते  

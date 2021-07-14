@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-yádī ghr̥tébhir ā́huto  
-vā́śīm agnír bhárata úc ca áva ca  
-ásura iva nirṇíjam  
+य꣡दी घृते꣡भिर् आ꣡हुतो  
+वा꣡शीम् अग्नि꣡र् भ꣡रत उ꣡च् च अ꣡व च  
+अ꣡सुर इव निर्णि꣡जम्  

@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-tuváṃ devi sarasvati  
-ávā vā́jeṣu vājini  
-rádā pūṣéva naḥ saním  
+तुवं꣡ देवि सरस्वति  
+अ꣡वा वा꣡जेषु वाजिनि  
+र꣡दा पूषे꣡व नः सनि꣡म्  

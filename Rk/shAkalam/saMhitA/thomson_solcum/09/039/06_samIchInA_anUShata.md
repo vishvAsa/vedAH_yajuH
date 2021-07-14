@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-samīcīnā́ anūṣata  
-háriṃ hinvanti ádribhiḥ  
-yónāv r̥tásya sīdata  
+समीचीना꣡ अनूषत  
+ह꣡रिं हिन्वन्ति अ꣡द्रिभिः  
+यो꣡नाव् ऋत꣡स्य सीदत  

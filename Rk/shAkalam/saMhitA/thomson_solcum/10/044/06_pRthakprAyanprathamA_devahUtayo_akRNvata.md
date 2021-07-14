@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-pŕ̥thak prā́yan prathamā́ deváhūtayo  
-ákr̥ṇvata śravasíyāni duṣṭárā  
-ná yé śekúr yajñíyāṃ nā́vam ārúham  
-īrmaívá té ní aviśanta képayaḥ  
+प्ŕ̥थक् प्रा꣡यन् प्रथमा꣡ देव꣡हूतयो  
+अ꣡कृण्वत श्रवसि꣡यानि दुष्ट꣡रा  
+न꣡ ये꣡ शेकु꣡र् यज्ञि꣡यां ना꣡वम् आरु꣡हम्  
+ईर्मइ꣡व꣡ ते꣡ नि꣡ अविशन्त के꣡पयः  

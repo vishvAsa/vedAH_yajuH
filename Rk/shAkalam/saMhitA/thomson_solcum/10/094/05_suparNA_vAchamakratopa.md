@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-suparṇā́ vā́cam akrata úpa dyávi  
-ākharé kŕ̥ṣṇā iṣirā́ anartiṣuḥ  
-níaṅ ní yanti úparasya niṣkr̥tám  
-purū́ réto dadhire sūriyaśvítaḥ  
+सुपर्णा꣡ वा꣡चम् अक्रत उ꣡प द्य꣡वि  
+आखरे꣡ क्ŕ̥ष्णा इषिरा꣡ अनर्तिषुः  
+नि꣡अङ् नि꣡ यन्ति उ꣡परस्य निष्कृत꣡म्  
+पुरू꣡ रे꣡तो दधिरे सूरियश्वि꣡तः  

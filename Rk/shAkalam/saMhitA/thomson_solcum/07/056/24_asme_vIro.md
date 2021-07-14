@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-asmé vīró marutaḥ śuṣmī́ astu  
-jánānãṃ yó ásuro vidhartā́  
-apó yéna sukṣitáye tárema  
-ádha svám óko abhí vaḥ siyāma  
+अस्मे꣡ वीरो꣡ मरुतः शुष्मी꣡ अस्तु  
+ज꣡नान्ãं यो꣡ अ꣡सुरो विधर्ता꣡  
+अपो꣡ ये꣡न सुक्षित꣡ये त꣡रेम  
+अ꣡ध स्व꣡म् ओ꣡को अभि꣡ वः सियाम  

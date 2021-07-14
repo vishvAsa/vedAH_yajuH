@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-utá mātā́ mahiṣám ánv avenad  
-amī́ tuvā jahati putra devā́ḥ  
-áthābravīd vr̥trám índro haniṣyán  
-sákhe viṣṇo vitaráṃ ví kramasva  
+उत꣡ माता꣡ महिष꣡म् अ꣡न्व् अवेनद्  
+अमी꣡ तुवा जहति पुत्र देवाः꣡  
+अ꣡थाब्रवीद् वृत्र꣡म् इ꣡न्द्रो हनिष्य꣡न्  
+स꣡खे विष्णो वितरं꣡ वि꣡ क्रमस्व  

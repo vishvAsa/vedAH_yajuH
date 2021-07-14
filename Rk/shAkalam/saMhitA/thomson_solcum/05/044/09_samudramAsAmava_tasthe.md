@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-samudrám āsām áva tasthe agrimā́  
-ná riṣyati sávanaṃ yásmin ā́yatā  
-átrā ná hā́rdi kravaṇásya rejate  
-yátrā matír vidyáte pūtabándhanī  
+समुद्र꣡म् आसाम् अ꣡व तस्थे अग्रिमा꣡  
+न꣡ रिष्यति स꣡वनं य꣡स्मिन् आ꣡यता  
+अ꣡त्रा न꣡ हा꣡र्दि क्रवण꣡स्य रेजते  
+य꣡त्रा मति꣡र् विद्य꣡ते पूतब꣡न्धनी  

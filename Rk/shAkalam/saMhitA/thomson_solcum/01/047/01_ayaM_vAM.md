@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ayáṃ vām mádhumattamaḥ  
-sutáḥ sóma r̥tāvr̥dhā  
-tám aśvinā pibataṃ tiróahniyaṃ  
-dhattáṃ rátnāni dāśúṣe  
+अयं꣡ वाम् म꣡धुमत्तमः  
+सुतः꣡ सो꣡म ऋतावृधा  
+त꣡म् अश्विना पिबतं तिरो꣡अह्नियं  
+धत्तं꣡ र꣡त्नानि दाशु꣡षे  

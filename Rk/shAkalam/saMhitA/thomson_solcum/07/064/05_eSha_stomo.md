@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-eṣá stómo varuṇa mitra túbhyaṃ  
-sómaḥ śukró ná vāyáve ayāmi  
-aviṣṭáṃ dhíyo jigr̥tám púraṃdhīr  
-yūyám pāta suastíbhiḥ sádā naḥ  
+एष꣡ स्तो꣡मो वरुण मित्र तु꣡भ्यं  
+सो꣡मः शुक्रो꣡ न꣡ वाय꣡वे अयामि  
+अविष्टं꣡ धि꣡यो जिगृत꣡म् पु꣡रंधीर्  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

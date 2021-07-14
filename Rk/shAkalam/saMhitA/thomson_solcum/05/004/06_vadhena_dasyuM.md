@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-vadhéna dásyum prá hí cātáyasva  
-váyaḥ kr̥ṇvānás tanúve suvā́yai  
-píparṣi yát sahasas putra devā́n  
-só 'gne° pāhi nr̥tama vā́je asmā́n  
+वधे꣡न द꣡स्युम् प्र꣡ हि꣡ चात꣡यस्व  
+व꣡यः कृण्वान꣡स् तनु꣡वे सुवा꣡यै  
+पि꣡पर्षि य꣡त् सहसस् पुत्र देवा꣡न्  
+सो꣡ ऽग्ने° पाहि नृतम वा꣡जे अस्मा꣡न्  

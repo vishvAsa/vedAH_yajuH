@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá rudréṇa yayínā yanti síndhavas  
-tiró mahī́m arámatiṃ dadhanvire  
-yébhiḥ párijmā pariyánn urú jráyo  
-ví róruvaj jaṭháre víśvam ukṣáte  
+प्र꣡ रुद्रे꣡ण ययि꣡ना यन्ति सि꣡न्धवस्  
+तिरो꣡ मही꣡म् अर꣡मतिं दधन्विरे  
+ये꣡भिः प꣡रिज्मा परिय꣡न्न् उरु꣡ ज्र꣡यो  
+वि꣡ रो꣡रुवज् जठ꣡रे वि꣡श्वम् उक्ष꣡ते  

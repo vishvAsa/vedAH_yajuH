@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-ā́ naḥ sutāsa indavaḥ  
-punānā́ dhāvatā rayím  
-vr̥ṣṭídyāvo rītiāpaḥ suvarvídaḥ  
+आ꣡ नः सुतास इन्दवः  
+पुनाना꣡ धावता रयि꣡म्  
+वृष्टि꣡द्यावो रीतिआपः सुवर्वि꣡दः  

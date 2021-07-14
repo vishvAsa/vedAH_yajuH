@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-tā́bhyāṃ víśvasya rājasi  
-yé pavamāna dhā́manī  
-pratīcī́ soma tasthátuḥ  
+ता꣡भ्यां वि꣡श्वस्य राजसि  
+ये꣡ पवमान धा꣡मनी  
+प्रतीची꣡ सोम तस्थ꣡तुः  

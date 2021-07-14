@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-évena sadyáḥ pári eti pā́rthivam  
-muhurgī́ réto vr̥ṣabháḥ kánikradad  
-dádhad rétaḥ kánikradat  
-śatáṃ cákṣāṇo akṣábhir  
-devó váneṣu turváṇiḥ  
-sádo dádhāna úpareṣu sā́nuṣu  
-agníḥ páreṣu sā́nuṣu  
+ए꣡वेन सद्यः꣡ प꣡रि एति पा꣡र्थिवम्  
+मुहुर्गी꣡ रे꣡तो वृषभः꣡ क꣡निक्रदद्  
+द꣡धद् रे꣡तः क꣡निक्रदत्  
+शतं꣡ च꣡क्षाणो अक्ष꣡भिर्  
+देवो꣡ व꣡नेषु तुर्व꣡णिः  
+स꣡दो द꣡धान उ꣡परेषु सा꣡नुषु  
+अग्निः꣡ प꣡रेषु सा꣡नुषु  

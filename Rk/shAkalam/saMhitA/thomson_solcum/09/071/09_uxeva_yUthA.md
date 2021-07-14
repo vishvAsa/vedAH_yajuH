@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ukṣéva yūthā́ pariyánn arāvīd  
-ádhi tvíṣīr adhita sū́riyasya  
-divyáḥ suparṇó áva cakṣata kṣā́ṃ  
-sómaḥ pári krátunā paśyate jā́ḥ  
+उक्षे꣡व यूथा꣡ परिय꣡न्न् अरावीद्  
+अ꣡धि त्वि꣡षीर् अधित सू꣡रियस्य  
+दिव्यः꣡ सुपर्णो꣡ अ꣡व चक्षत क्षां꣡  
+सो꣡मः प꣡रि क्र꣡तुना पश्यते जाः꣡  

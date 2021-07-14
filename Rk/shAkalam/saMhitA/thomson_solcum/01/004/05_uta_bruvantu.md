@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-utá bruvantu no nído  
-nír anyátaś cid ārata  
-dádhānā índra íd dúvaḥ  
+उत꣡ ब्रुवन्तु नो नि꣡दो  
+नि꣡र् अन्य꣡तश् चिद् आरत  
+द꣡धाना इ꣡न्द्र इ꣡द् दु꣡वः  

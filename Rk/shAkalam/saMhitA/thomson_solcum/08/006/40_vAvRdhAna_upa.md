@@ -2,6 +2,6 @@
 title = "040"
 
 +++
-vāvr̥dhāná úpa dyávi  
-vŕ̥ṣā vajrī́ aroravīt  
-vr̥trahā́ somapā́tamaḥ  
+वावृधान꣡ उ꣡प द्य꣡वि  
+व्ŕ̥षा वज्री꣡ अरोरवीत्  
+वृत्रहा꣡ सोमपा꣡तमः  

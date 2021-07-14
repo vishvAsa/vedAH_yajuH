@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-eṣá gavyúr acikradat  
-pávamāno hiraṇyayúḥ  
-índuḥ satrājíd ástr̥taḥ  
+एष꣡ गव्यु꣡र् अचिक्रदत्  
+प꣡वमानो हिरण्ययुः꣡  
+इ꣡न्दुः सत्राजि꣡द् अ꣡स्तृतः  

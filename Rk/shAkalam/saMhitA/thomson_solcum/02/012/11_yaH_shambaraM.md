@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yáḥ śámbaram párvateṣu kṣiyántaṃ  
-catvāriṃśyā́ṃ śarádi anvávindat  
-ojāyámānaṃ yó áhiṃ jaghā́na  
-dā́nuṃ śáyānaṃ sá janāsa índraḥ  
+यः꣡ श꣡म्बरम् प꣡र्वतेषु क्षिय꣡न्तं  
+चत्वारिंश्यां꣡ शर꣡दि अन्व꣡विन्दत्  
+ओजाय꣡मानं यो꣡ अ꣡हिं जघा꣡न  
+दा꣡नुं श꣡यानं स꣡ जनास इ꣡न्द्रः  

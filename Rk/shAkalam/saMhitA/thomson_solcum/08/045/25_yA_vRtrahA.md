@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-yā́ vr̥trahā́ parāváti  
-sánā návā ca cucyuvé  
-tā́ saṃsátsu prá vocata  
+या꣡ वृत्रहा꣡ पराव꣡ति  
+स꣡ना न꣡वा च चुच्युवे꣡  
+ता꣡ संस꣡त्सु प्र꣡ वोचत  

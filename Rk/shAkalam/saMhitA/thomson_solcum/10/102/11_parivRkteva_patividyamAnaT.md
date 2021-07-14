@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-parivr̥ktéva pativídyam ānaṭ  
-pī́piyānā kū́cakreṇeva siñcán  
-eṣaiṣíyā cid rathíyā jayema  
-sumaṅgálaṃ sínavad astu sātám  
+परिवृक्ते꣡व पतिवि꣡द्यम् आनट्  
+पी꣡पियाना कू꣡चक्रेणेव सिञ्च꣡न्  
+एषैषि꣡या चिद् रथि꣡या जयेम  
+सुमङ्ग꣡लं सि꣡नवद् अस्तु सात꣡म्  

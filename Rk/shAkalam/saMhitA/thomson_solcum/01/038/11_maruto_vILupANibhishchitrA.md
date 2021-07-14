@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-máruto vīḷupāṇíbhiś  
-citrā́ ródhasvatīr ánu  
-yātém ákhidrayāmabhiḥ  
+म꣡रुतो वीऌउपाणि꣡भिश्  
+चित्रा꣡ रो꣡धस्वतीर् अ꣡नु  
+याते꣡म् अ꣡खिद्रयामभिः  

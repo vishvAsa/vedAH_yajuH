@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-té jajñire divá r̥ṣvā́sa ukṣáṇo  
-rudrásya máryā ásurā arepásaḥ  
-pavākā́saḥ+ śúcayaḥ sū́riyā iva  
-sátvāno ná drapsíno ghorávarpasaḥ  
+ते꣡ जज्ञिरे दिव꣡ ऋष्वा꣡स उक्ष꣡णो  
+रुद्र꣡स्य म꣡र्या अ꣡सुरा अरेप꣡सः  
+पवाका꣡सः+ शु꣡चयः सू꣡रिया इव  
+स꣡त्वानो न꣡ द्रप्सि꣡नो घोर꣡वर्पसः  

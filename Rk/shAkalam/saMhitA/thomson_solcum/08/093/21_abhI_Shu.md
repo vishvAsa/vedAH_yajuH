@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-abhī́ ṣú ṇas tuváṃ rayím  
-mandasānáḥ sahasríṇam  
-prayantā́ bodhi dāśúṣe  
+अभी꣡ षु꣡ णस् तुवं꣡ रयि꣡म्  
+मन्दसानः꣡ सहस्रि꣡णम्  
+प्रयन्ता꣡ बोधि दाशु꣡षे  

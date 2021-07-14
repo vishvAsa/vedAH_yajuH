@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-tā́ abhí sántam ástr̥tam  
-mahé yúvānam ā́ dadhuḥ  
-índum indra táva vraté  
+ता꣡ अभि꣡ स꣡न्तम् अ꣡स्तृतम्  
+महे꣡ यु꣡वानम् आ꣡ दधुः  
+इ꣡न्दुम् इन्द्र त꣡व व्रते꣡  

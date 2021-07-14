@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ánāgaso áditaye  
-devásya savitúḥ savé  
-víśvā vāmā́ni dhīmahi  
+अ꣡नागसो अ꣡दितये  
+देव꣡स्य सवितुः꣡ सवे꣡  
+वि꣡श्वा वामा꣡नि धीमहि  

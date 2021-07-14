@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-suparṇáṃ víprāḥ kaváyo vácobhir  
-ékaṃ sántam bahudhā́ kalpayanti  
-chándāṃsi ca dádhato adhvaréṣu  
-gráhān sómasya mimate duvā́daśa  
+सुपर्णं꣡ वि꣡प्राः कव꣡यो व꣡चोभिर्  
+ए꣡कं स꣡न्तम् बहुधा꣡ कल्पयन्ति  
+छ꣡न्दांसि च द꣡धतो अध्वरे꣡षु  
+ग्र꣡हान् सो꣡मस्य मिमते दुवा꣡दश  

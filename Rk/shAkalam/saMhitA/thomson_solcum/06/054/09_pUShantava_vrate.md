@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-pū́ṣan táva vraté vayáṃ  
-ná riṣyema kádā caná  
-stotā́ras ta ihá smasi  
+पू꣡षन् त꣡व व्रते꣡ वयं꣡  
+न꣡ रिष्येम क꣡दा चन꣡  
+स्तोता꣡रस् त इह꣡ स्मसि  

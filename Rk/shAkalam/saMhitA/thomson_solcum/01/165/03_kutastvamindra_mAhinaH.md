@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-kútas tuvám indara+ mā́hinaḥ sánn  
-éko yāsi satpate kíṃ ta itthā́  
-sám pr̥chase samarāṇáḥ śubhānaír  
-vocés tán no harivo yát te asmé  
+कु꣡तस् तुव꣡म् इन्दर+ मा꣡हिनः स꣡न्न्  
+ए꣡को यासि सत्पते किं꣡ त इत्था꣡  
+स꣡म् पृछसे समराणः꣡ शुभानइ꣡र्  
+वोचे꣡स् त꣡न् नो हरिवो य꣡त् ते अस्मे꣡  

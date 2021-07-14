@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yán mányase váreṇiyam  
-índra dyukṣáṃ tád ā́ bhara  
-vidyā́ma tásya te vayám  
-ákūpārasya dāváne  
+य꣡न् म꣡न्यसे व꣡रेणियम्  
+इ꣡न्द्र द्युक्षं꣡ त꣡द् आ꣡ भर  
+विद्या꣡म त꣡स्य ते वय꣡म्  
+अ꣡कूपारस्य दाव꣡ने  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kathā́ nūnáṃ vāṃ vímanā úpa stavad  
-yuváṃ dhíyaṃ dadathur vásyaïṣṭaye  
-tā́ vāṃ víśvako havate tanūkr̥thé  
-mā́ no ví yauṣṭaṃ sakhiyā́ mumócatam  
+कथा꣡ नूनं꣡ वां वि꣡मना उ꣡प स्तवद्  
+युवं꣡ धि꣡यं ददथुर् व꣡स्यïष्टये  
+ता꣡ वां वि꣡श्वको हवते तनूकृथे꣡  
+मा꣡ नो वि꣡ यौष्टं सखिया꣡ मुमो꣡चतम्  

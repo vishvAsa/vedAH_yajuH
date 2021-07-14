@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tvā́m īḷate ajiráṃ dūtíyāya  
-havíṣmantaḥ sádam ín mā́nuṣāsaḥ  
-yásya devaír ā́sado barhír agne  
-áhāni asmai sudínā bhavanti  
+त्वा꣡म् ईऌअते अजिरं꣡ दूति꣡याय  
+हवि꣡ष्मन्तः स꣡दम् इ꣡न् मा꣡नुषासः  
+य꣡स्य देवइ꣡र् आ꣡सदो बर्हि꣡र् अग्ने  
+अ꣡हानि अस्मै सुदि꣡ना भवन्ति  

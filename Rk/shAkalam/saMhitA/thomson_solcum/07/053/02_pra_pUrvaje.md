@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá pūrvajé pitárā návyasībhir  
-gīrbhíḥ kr̥ṇudhvaṃ sádane r̥tásya  
-ā́ no dyāvāpr̥thivī daíviyena  
-jánena yātam máhi vāṃ várūtham  
+प्र꣡ पूर्वजे꣡ पित꣡रा न꣡व्यसीभिर्  
+गीर्भिः꣡ कृणुध्वं स꣡दने ऋत꣡स्य  
+आ꣡ नो द्यावापृथिवी दइ꣡वियेन  
+ज꣡नेन यातम् म꣡हि वां व꣡रूथम्  

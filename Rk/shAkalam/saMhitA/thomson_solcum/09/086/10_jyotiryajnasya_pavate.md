@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-jyótir yajñásya pavate mádhu priyám  
-pitā́ devā́nāṃ janitā́ vibhū́vasuḥ  
-dádhāti rátnaṃ svadháyor apīcíyam  
-madíntamo matsará indriyó rásaḥ  
+ज्यो꣡तिर् यज्ञ꣡स्य पवते म꣡धु प्रिय꣡म्  
+पिता꣡ देवा꣡नां जनिता꣡ विभू꣡वसुः  
+द꣡धाति र꣡त्नं स्वध꣡योर् अपीचि꣡यम्  
+मदि꣡न्तमो मत्सर꣡ इन्द्रियो꣡ र꣡सः  

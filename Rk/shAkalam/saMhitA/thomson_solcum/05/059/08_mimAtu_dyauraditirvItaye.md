@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-mímātu dyaúr áditir vītáye naḥ  
-sáṃ dā́nucitrā uṣáso yatantām  
-ā́cucyavur diviyáṃ kóśam etá  
-ŕ̥ṣe rudrásya marúto gr̥ṇānā́ḥ  
+मि꣡मातु द्यउ꣡र् अ꣡दितिर् वीत꣡ये नः  
+सं꣡ दा꣡नुचित्रा उष꣡सो यतन्ताम्  
+आ꣡चुच्यवुर् दिवियं꣡ को꣡शम् एत꣡  
+ŕ̥षे रुद्र꣡स्य मरु꣡तो गृणानाः꣡  

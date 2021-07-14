@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yuvā́ṃ havanta ubháyāsa ājíṣu  
-índraṃ ca vásvo váruṇaṃ ca sātáye  
-yátra rā́jabhir daśábhir níbādhitam  
-prá sudā́sam ā́vataṃ tŕ̥tsubhiḥ sahá  
+युवां꣡ हवन्त उभ꣡यास आजि꣡षु  
+इ꣡न्द्रं च व꣡स्वो व꣡रुणं च सात꣡ये  
+य꣡त्र रा꣡जभिर् दश꣡भिर् नि꣡बाधितम्  
+प्र꣡ सुदा꣡सम् आ꣡वतं त्ŕ̥त्सुभिः सह꣡  

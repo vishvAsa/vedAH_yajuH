@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-ayā́ pavasva devayúr  
-mádhor dhā́rā asr̥kṣata  
-rébhan pavítram pári eṣi viśvátaḥ  
+अया꣡ पवस्व देवयु꣡र्  
+म꣡धोर् धा꣡रा असृक्षत  
+रे꣡भन् पवि꣡त्रम् प꣡रि एषि विश्व꣡तः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vīḷú cid dr̥̄ḷhā́+ pitáro na ukthaír  
-ádriṃ rujann áṅgiraso ráveṇa  
-cakrúr divó br̥ható gātúm asmé  
-áhaḥ súvar vividuḥ ketúm usrā́ḥ  
+वीऌउ꣡ चिद् दॄऌहा꣡+ पित꣡रो न उक्थइ꣡र्  
+अ꣡द्रिं रुजन्न् अ꣡ङ्गिरसो र꣡वेण  
+चक्रु꣡र् दिवो꣡ बृहतो꣡ गातु꣡म् अस्मे꣡  
+अ꣡हः सु꣡वर् विविदुः केतु꣡म् उस्राः꣡  

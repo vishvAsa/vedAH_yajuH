@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-nahí aṅgá nr̥to tuvád  
-anyáṃ vindā́mi rā́dhase  
-rāyé dyumnā́ya śávase ca girvaṇaḥ  
+नहि꣡ अङ्ग꣡ नृतो तुव꣡द्  
+अन्यं꣡ विन्दा꣡मि रा꣡धसे  
+राये꣡ द्युम्ना꣡य श꣡वसे च गिर्वणः  

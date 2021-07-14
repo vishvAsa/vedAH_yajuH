@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-áchā kavíṃ nr̥maṇo gā abhíṣṭau  
-súvarṣātā maghavan nā́dhamānam  
-ūtíbhis tám iṣaṇo dyumnáhūtau  
-ní māyā́vān ábrahmā dásyur arta  
+अ꣡छा कविं꣡ नृमणो गा अभि꣡ष्टौ  
+सु꣡वर्षाता मघवन् ना꣡धमानम्  
+ऊति꣡भिस् त꣡म् इषणो द्युम्न꣡हूतौ  
+नि꣡ माया꣡वान् अ꣡ब्रह्मा द꣡स्युर् अर्त  

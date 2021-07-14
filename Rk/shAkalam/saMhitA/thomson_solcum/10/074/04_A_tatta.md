@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ tát ta indra āyávaḥ pananta  
-abhí yá ūrváṃ gómantaṃ títr̥tsān  
-sakr̥tsúvaṃ yé puruputrā́m mahī́ṃ  
-sahásradhārām br̥hatī́ṃ dúdukṣan  
+आ꣡ त꣡त् त इन्द्र आय꣡वः पनन्त  
+अभि꣡ य꣡ ऊर्वं꣡ गो꣡मन्तं ति꣡तृत्सान्  
+सकृत्सु꣡वं ये꣡ पुरुपुत्रा꣡म् महीं꣡  
+सह꣡स्रधाराम् बृहतीं꣡ दु꣡दुक्षन्  

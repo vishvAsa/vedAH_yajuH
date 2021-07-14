@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tád adyá vācáḥ prathamám masīya  
-yénā́surām̐ abhí devā́ ásāma  
-ū́rjāda utá yajñiyāsaḥ  
-páñca janā máma hotráṃ juṣadhvam  
+त꣡द् अद्य꣡ वाचः꣡ प्रथम꣡म् मसीय  
+ये꣡ना꣡सुराँ अभि꣡ देवा꣡ अ꣡साम  
+ऊ꣡र्जाद उत꣡ यज्ञियासः  
+प꣡ञ्च जना म꣡म होत्रं꣡ जुषध्वम्  

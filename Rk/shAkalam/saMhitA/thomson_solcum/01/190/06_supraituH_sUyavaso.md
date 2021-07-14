@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-supraétuḥ sūyávaso ná pánthā  
-durniyántuḥ páriprīto ná mitráḥ  
-anarvā́ṇo abhí yé cákṣate no  
-ápīvr̥tā aporṇuvánto asthuḥ  
+सुप्रए꣡तुः सूय꣡वसो न꣡ प꣡न्था  
+दुर्निय꣡न्तुः प꣡रिप्रीतो न꣡ मित्रः꣡  
+अनर्वा꣡णो अभि꣡ ये꣡ च꣡क्षते नो  
+अ꣡पीवृता अपोर्णुव꣡न्तो अस्थुः  

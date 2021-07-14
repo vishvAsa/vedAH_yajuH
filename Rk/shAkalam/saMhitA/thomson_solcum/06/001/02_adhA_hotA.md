@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ádhā hótā ní asīdo yájīyān  
-iḷás padá iṣáyann ī́ḍiyaḥ sán  
-táṃ tvā náraḥ prathamáṃ devayánto  
-mahó rāyé citáyanto ánu gman  
+अ꣡धा हो꣡ता नि꣡ असीदो य꣡जीयान्  
+इऌअ꣡स् पद꣡ इष꣡यन्न् ई꣡डियः स꣡न्  
+तं꣡ त्वा न꣡रः प्रथमं꣡ देवय꣡न्तो  
+महो꣡ राये꣡ चित꣡यन्तो अ꣡नु ग्मन्  

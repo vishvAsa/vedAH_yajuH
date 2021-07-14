@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́ ródasī apr̥ṇad ā́ súvar maháj  
-jātáṃ yád enam apáso ádhārayan  
-só adhvarā́ya pári ṇīyate kavír  
-átyo ná vā́jasātaye cánohitaḥ  
+आ꣡ रो꣡दसी अपृणद् आ꣡ सु꣡वर् मह꣡ज्  
+जातं꣡ य꣡द् एनम् अप꣡सो अ꣡धारयन्  
+सो꣡ अध्वरा꣡य प꣡रि णीयते कवि꣡र्  
+अ꣡त्यो न꣡ वा꣡जसातये च꣡नोहितः  

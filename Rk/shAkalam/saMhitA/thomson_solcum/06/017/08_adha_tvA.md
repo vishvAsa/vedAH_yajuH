@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ádha tvā víśve purá indra devā́  
-ékaṃ tavásaṃ dadhire bhárāya  
-ádevo yád abhí aúhiṣṭa devā́n  
-súvarṣātā vr̥ṇata índram átra  
+अ꣡ध त्वा वि꣡श्वे पुर꣡ इन्द्र देवा꣡  
+ए꣡कं तव꣡सं दधिरे भ꣡राय  
+अ꣡देवो य꣡द् अभि꣡ अउ꣡हिष्ट देवा꣡न्  
+सु꣡वर्षाता वृणत इ꣡न्द्रम् अ꣡त्र  

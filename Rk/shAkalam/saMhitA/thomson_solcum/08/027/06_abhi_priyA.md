@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-abhí priyā́ maruto yā́ vo áśviyā  
-havyā́ mitra prayāthána  
-ā́ barhír índro váruṇas turā́ nára  
-ādityā́saḥ sadantu naḥ  
+अभि꣡ प्रिया꣡ मरुतो या꣡ वो अ꣡श्विया  
+हव्या꣡ मित्र प्रयाथ꣡न  
+आ꣡ बर्हि꣡र् इ꣡न्द्रो व꣡रुणस् तुरा꣡ न꣡र  
+आदित्या꣡सः सदन्तु नः  

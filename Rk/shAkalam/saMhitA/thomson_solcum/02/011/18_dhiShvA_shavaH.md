@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-dhiṣvā́ śávaḥ śūra yéna vr̥trám  
-avā́bhinad dā́num aurṇavābhám  
-ápāvr̥ṇor jyótir ā́riyāya  
-ní savyatáḥ sādi dásyur indra  
+धिष्वा꣡ श꣡वः शूर ये꣡न वृत्र꣡म्  
+अवा꣡भिनद् दा꣡नुम् और्णवाभ꣡म्  
+अ꣡पावृणोर् ज्यो꣡तिर् आ꣡रियाय  
+नि꣡ सव्यतः꣡ सादि द꣡स्युर् इन्द्र  

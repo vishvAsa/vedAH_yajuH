@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ā́gne yāhi marútsakhā  
-rudrébhiḥ sómapītaye  
-sóbharyā úpa suṣṭutím  
-mādáyasva súvarṇare  
+आ꣡ग्ने याहि मरु꣡त्सखा  
+रुद्रे꣡भिः सो꣡मपीतये  
+सो꣡भर्या उ꣡प सुष्टुति꣡म्  
+माद꣡यस्व सु꣡वर्णरे  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vocéméd índram maghávānam enam  
-mahó rāyó rā́dhaso yád dádan naḥ  
-yó árcato bráhmakr̥tim áviṣṭho  
-yūyám pāta suastíbhiḥ sádā naḥ  
+वोचे꣡मे꣡द् इ꣡न्द्रम् मघ꣡वानम् एनम्  
+महो꣡ रायो꣡ रा꣡धसो य꣡द् द꣡दन् नः  
+यो꣡ अ꣡र्चतो ब्र꣡ह्मकृतिम् अ꣡विष्ठो  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

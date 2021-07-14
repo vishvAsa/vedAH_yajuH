@@ -2,6 +2,6 @@
 title = "031"
 
 +++
-yád dadhiṣé manasyási  
-mandānáḥ préd íyakṣasi  
-mā́ tát kar indra mr̥̄ḷáya+  
+य꣡द् दधिषे꣡ मनस्य꣡सि  
+मन्दानः꣡ प्रे꣡द् इ꣡यक्षसि  
+मा꣡ त꣡त् कर् इन्द्र मॄऌअ꣡य+  

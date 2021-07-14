@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-br̥hád váyo maghávadbhyo dadhāta  
-jújoṣann ín marútaḥ suṣṭutíṃ naḥ  
-gató ná ádhvā ví tirāti jantúm  
-prá ṇa spārhā́bhir ūtíbhis tireta  
+बृह꣡द् व꣡यो मघ꣡वद्भ्यो दधात  
+जु꣡जोषन्न् इ꣡न् मरु꣡तः सुष्टुतिं꣡ नः  
+गतो꣡ न꣡ अ꣡ध्वा वि꣡ तिराति जन्तु꣡म्  
+प्र꣡ ण स्पार्हा꣡भिर् ऊति꣡भिस् तिरेत  

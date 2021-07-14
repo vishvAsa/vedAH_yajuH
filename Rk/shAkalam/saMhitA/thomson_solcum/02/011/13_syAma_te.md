@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-siyā́ma té ta indra yé ta ūtī́  
-avasyáva ū́rjaṃ vardháyantaḥ  
-śuṣmíntamaṃ yáṃ cākánāma deva  
-asmé rayíṃ rāsi vīrávantam  
+सिया꣡म ते꣡ त इन्द्र ये꣡ त ऊती꣡  
+अवस्य꣡व ऊ꣡र्जं वर्ध꣡यन्तः  
+शुष्मि꣡न्तमं यं꣡ चाक꣡नाम देव  
+अस्मे꣡ रयिं꣡ रासि वीर꣡वन्तम्  

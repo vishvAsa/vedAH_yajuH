@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-vayáṃ te agna ukthaír vidhema  
-vayáṃ havyaíḥ pavāka+ bhadraśoce  
-asmé rayíṃ viśvávāraṃ sám inva  
-asmé víśvāni dráviṇāni dhehi  
+वयं꣡ ते अग्न उक्थइ꣡र् विधेम  
+वयं꣡ हव्यइः꣡ पवाक+ भद्रशोचे  
+अस्मे꣡ रयिं꣡ विश्व꣡वारं स꣡म् इन्व  
+अस्मे꣡ वि꣡श्वानि द्र꣡विणानि धेहि  

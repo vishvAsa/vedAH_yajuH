@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sahásradhāraḥ pavate  
-samudró vācamīṅkhayáḥ  
-sómaḥ pátī rayīṇã́ṃ  
-sákhéndrasya divé-dive  
+सह꣡स्रधारः पवते  
+समुद्रो꣡ वाचमीङ्खयः꣡  
+सो꣡मः प꣡ती रयीण्ãं꣡  
+स꣡खे꣡न्द्रस्य दिवे꣡-दिवे  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-índra sómāḥ sutā́ imé  
-táva prá yanti satpate  
-kṣáyaṃ candrā́sa índavaḥ  
+इ꣡न्द्र सो꣡माः सुता꣡ इमे꣡  
+त꣡व प्र꣡ यन्ति सत्पते  
+क्ष꣡यं चन्द्रा꣡स इ꣡न्दवः  

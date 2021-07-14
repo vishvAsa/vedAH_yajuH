@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yé vāyáva indaramā́danāsa+  
-ā́devāso nitóśanāso aryáḥ  
-ghnánto vr̥trā́ṇi sūríbhiḥ ṣiyāma  
-sāsahvā́ṃso yudhā́ nŕ̥bhir amítrān  
+ये꣡ वाय꣡व इन्दरमा꣡दनास+  
+आ꣡देवासो नितो꣡शनासो अर्यः꣡  
+घ्न꣡न्तो वृत्रा꣡णि सूरि꣡भिः षियाम  
+सासह्वां꣡सो युधा꣡ न्ŕ̥भिर् अमि꣡त्रान्  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ihá prayā́ṇam astu vām  
-índravāyū vimócanam  
-ihá vāṃ sómapītaye  
+इह꣡ प्रया꣡णम् अस्तु वाम्  
+इ꣡न्द्रवायू विमो꣡चनम्  
+इह꣡ वां सो꣡मपीतये  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-yó átya iva mr̥jyáte  
-góbhir mádāya haryatáḥ  
-táṃ gīrbhír vāsayāmasi  
+यो꣡ अ꣡त्य इव मृज्य꣡ते  
+गो꣡भिर् म꣡दाय हर्यतः꣡  
+तं꣡ गीर्भि꣡र् वासयामसि  

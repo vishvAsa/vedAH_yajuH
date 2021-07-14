@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ékapād bhū́yo dvipádo ví cakrame  
-dvipā́t tripā́dam abhí eti paścā́t  
-cátuṣpād eti dvipádām abhisvaré  
-sampáśyan paṅktī́r upatíṣṭhamānaḥ  
+ए꣡कपाद् भू꣡यो द्विप꣡दो वि꣡ चक्रमे  
+द्विपा꣡त् त्रिपा꣡दम् अभि꣡ एति पश्चा꣡त्  
+च꣡तुष्पाद् एति द्विप꣡दाम् अभिस्वरे꣡  
+सम्प꣡श्यन् पङ्क्ती꣡र् उपति꣡ष्ठमानः  

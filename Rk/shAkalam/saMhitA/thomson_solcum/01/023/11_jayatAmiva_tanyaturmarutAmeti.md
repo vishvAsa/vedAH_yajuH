@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-jáyatām iva tanyatúr  
-marútām eti dhr̥ṣṇuyā́  
-yác chúbhaṃ yāthánā naraḥ  
+ज꣡यताम् इव तन्यतु꣡र्  
+मरु꣡ताम् एति धृष्णुया꣡  
+य꣡च् छु꣡भं याथ꣡ना नरः  

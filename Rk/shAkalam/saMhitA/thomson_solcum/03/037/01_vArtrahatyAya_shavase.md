@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-vā́rtrahatyāya śávase  
-pr̥tanāṣā́hiyāya ca  
-índra tvā́ vartayāmasi  
+वा꣡र्त्रहत्याय श꣡वसे  
+पृतनाषा꣡हियाय च  
+इ꣡न्द्र त्वा꣡ वर्तयामसि  

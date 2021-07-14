@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ádhvaryavaḥ páyasódhar yáthā góḥ  
-sómebhir īm pr̥ṇatā bhojám índram  
-védāhám asya níbhr̥tam ma etád  
-dítsantam bhū́yo yajatáś ciketa  
+अ꣡ध्वर्यवः प꣡यसो꣡धर् य꣡था गोः꣡  
+सो꣡मेभिर् ईम् पृणता भोज꣡म् इ꣡न्द्रम्  
+वे꣡दाह꣡म् अस्य नि꣡भृतम् म एत꣡द्  
+दि꣡त्सन्तम् भू꣡यो यजत꣡श् चिकेत  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yá indrāgnī citrátamo rátho vām  
-abhí víśvāni bhúvanāni cáṣṭe  
-ténā́ yātaṃ saráthaṃ tasthivā́ṃsā  
-áthā sómasya pibataṃ sutásya  
+य꣡ इन्द्राग्नी चित्र꣡तमो र꣡थो वाम्  
+अभि꣡ वि꣡श्वानि भु꣡वनानि च꣡ष्टे  
+ते꣡ना꣡ यातं सर꣡थं तस्थिवां꣡सा  
+अ꣡था सो꣡मस्य पिबतं सुत꣡स्य  

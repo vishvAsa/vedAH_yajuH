@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yuvā́ṃ cid dhí ṣmā aśvināv ánu dyū́n  
-vírudrasya prasrávaṇasya sātaú  
-agástiyo narā́ṃ nŕ̥ṣu práśastaḥ  
-kā́rādhunīva citayat sahásraiḥ  
+युवां꣡ चिद् धि꣡ ष्मा अश्विनाव् अ꣡नु द्यू꣡न्  
+वि꣡रुद्रस्य प्रस्र꣡वणस्य सातउ꣡  
+अग꣡स्तियो नरां꣡ न्ŕ̥षु प्र꣡शस्तः  
+का꣡राधुनीव चितयत् सह꣡स्रैः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-vŕ̥ṣā vŕ̥ṣṇe róruvad aṃśúr asmai  
-pávamāno rúśad īrte páyo góḥ  
-sahásram ŕ̥kvā pathíbhir vacovíd  
-adhvasmábhiḥ sū́ro áṇvaṃ ví yāti  
+व्ŕ̥षा व्ŕ̥ष्णे रो꣡रुवद् अंशु꣡र् अस्मै  
+प꣡वमानो रु꣡शद् ईर्ते प꣡यो गोः꣡  
+सह꣡स्रम् ŕ̥क्वा पथि꣡भिर् वचोवि꣡द्  
+अध्वस्म꣡भिः सू꣡रो अ꣡ण्वं वि꣡ याति  

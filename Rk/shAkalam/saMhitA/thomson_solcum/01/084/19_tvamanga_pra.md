@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-tuvám aṅgá prá śaṃsiṣo  
-deváḥ śaviṣṭha mártiyam  
-ná tvád anyó maghavann asti marḍitā́  
-índra brávīmi te vácaḥ  
+तुव꣡म् अङ्ग꣡ प्र꣡ शंसिषो  
+देवः꣡ शविष्ठ म꣡र्तियम्  
+न꣡ त्व꣡द् अन्यो꣡ मघवन्न् अस्ति मर्डिता꣡  
+इ꣡न्द्र ब्र꣡वीमि ते व꣡चः  

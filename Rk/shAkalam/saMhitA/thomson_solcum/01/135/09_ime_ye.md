@@ -2,10 +2,10 @@
 title = "009"
 
 +++
-imé yé te sú vāyo bāhúojaso  
-antár nadī́ te patáyanti ukṣáṇo  
-máhi vrā́dhanta ukṣáṇaḥ  
-dhánvañ cid yé anāśávo  
-jīrā́ś cid ágiraukasaḥ  
-sū́ryasyeva raśmáyo durniyántavo  
-hástayor durniyántavaḥ  
+इमे꣡ ये꣡ ते सु꣡ वायो बाहु꣡ओजसो  
+अन्त꣡र् नदी꣡ ते पत꣡यन्ति उक्ष꣡णो  
+म꣡हि व्रा꣡धन्त उक्ष꣡णः  
+ध꣡न्वञ् चिद् ये꣡ अनाश꣡वो  
+जीरा꣡श् चिद् अ꣡गिरौकसः  
+सू꣡र्यस्येव रश्म꣡यो दुर्निय꣡न्तवो  
+ह꣡स्तयोर् दुर्निय꣡न्तवः  

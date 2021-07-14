@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yád ábravam prathamáṃ vāṃ vr̥ṇānó  
-ayáṃ sómo ásurair no vihávyaḥ  
-tā́ṃ satyā́ṃ śraddhā́m abhí ā́ hí yātám  
-áthā sómasya pibataṃ sutásya  
+य꣡द् अ꣡ब्रवम् प्रथमं꣡ वां वृणानो꣡  
+अयं꣡ सो꣡मो अ꣡सुरैर् नो विह꣡व्यः  
+तां꣡ सत्यां꣡ श्रद्धा꣡म् अभि꣡ आ꣡ हि꣡ यात꣡म्  
+अ꣡था सो꣡मस्य पिबतं सुत꣡स्य  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-diyaúś ca naḥ pr̥thivī́ ca prácetasa  
-r̥tā́varī rakṣatām áṃhaso riṣáḥ  
-mā́ durvidátrā nírr̥tir na īśata  
-tád devā́nām ávo adyā́ vr̥ṇīmahe  
+दियउ꣡श् च नः पृथिवी꣡ च प्र꣡चेतस  
+ऋता꣡वरी रक्षताम् अं꣡हसो रिषः꣡  
+मा꣡ दुर्विद꣡त्रा नि꣡रृतिर् न ईशत  
+त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे  

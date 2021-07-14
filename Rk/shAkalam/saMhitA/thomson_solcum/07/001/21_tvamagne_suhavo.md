@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-tuvám agne suhávo raṇvásaṃdr̥k  
-sudītī́ sūno sahaso didīhi  
-mā́ tvé sácā tánaye nítya ā́ dhaṅ  
-mā́ vīró asmán náriyo ví dāsīt  
+तुव꣡म् अग्ने सुह꣡वो रण्व꣡संदृक्  
+सुदीती꣡ सूनो सहसो दिदीहि  
+मा꣡ त्वे꣡ स꣡चा त꣡नये नि꣡त्य आ꣡ धङ्  
+मा꣡ वीरो꣡ अस्म꣡न् न꣡रियो वि꣡ दासीत्  

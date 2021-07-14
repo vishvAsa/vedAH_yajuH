@@ -2,8 +2,8 @@
 title = "015"
 
 +++
-vr̥ṣabhó ná tigmáśr̥ṅgo  
-antár yūthéṣu róruvat  
-manthás ta indra śáṃ hr̥dé  
-yáṃ te sunóti bhāvayúr  
-víśvasmād índra úttaraḥ  
+वृषभो꣡ न꣡ तिग्म꣡शृङ्गो  
+अन्त꣡र् यूथे꣡षु रो꣡रुवत्  
+मन्थ꣡स् त इन्द्र शं꣡ हृदे꣡  
+यं꣡ ते सुनो꣡ति भावयु꣡र्  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

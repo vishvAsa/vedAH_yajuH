@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yó vām párijmā suvŕ̥d aśvinā rátho  
-doṣā́m uṣā́so háviyo havíṣmatā  
-śaśvattamā́sas tám u vām idáṃ vayám  
-pitúr ná nā́ma suhávaṃ havāmahe  
+यो꣡ वाम् प꣡रिज्मा सुव्ŕ̥द् अश्विना र꣡थो  
+दोषा꣡म् उषा꣡सो ह꣡वियो हवि꣡ष्मता  
+शश्वत्तमा꣡सस् त꣡म् उ वाम् इदं꣡ वय꣡म्  
+पितु꣡र् न꣡ ना꣡म सुह꣡वं हवामहे  

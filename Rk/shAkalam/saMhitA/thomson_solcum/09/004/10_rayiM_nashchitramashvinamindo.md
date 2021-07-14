@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-rayíṃ naś citrám aśvínam  
-índo viśvā́yum ā́ bhara  
-áthā no vásyasas kr̥dhi  
+रयिं꣡ नश् चित्र꣡म् अश्वि꣡नम्  
+इ꣡न्दो विश्वा꣡युम् आ꣡ भर  
+अ꣡था नो व꣡स्यसस् कृधि  

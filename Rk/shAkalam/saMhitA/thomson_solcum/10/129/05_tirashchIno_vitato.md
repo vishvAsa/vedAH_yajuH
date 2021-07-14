@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tiraścī́no vítato raśmír eṣām  
-adháḥ svid āsī́3d upári svid āsī3t  
-retodhā́ āsan mahimā́na āsan  
-svadhā́ avástāt práyatiḥ parástāt  
+तिरश्ची꣡नो वि꣡ततो रश्मि꣡र् एषाम्  
+अधः꣡ स्विद् आसी꣡३द् उप꣡रि स्विद् आसी३त्  
+रेतोधा꣡ आसन् महिमा꣡न आसन्  
+स्वधा꣡ अव꣡स्तात् प्र꣡यतिः पर꣡स्तात्  

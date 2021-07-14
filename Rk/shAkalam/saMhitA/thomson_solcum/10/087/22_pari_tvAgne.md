@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-pári tvāgne púraṃ vayáṃ  
-vípraṃ sahasya dhīmahi  
-dhr̥ṣádvarṇaṃ divé-dive  
-hantā́ram bhaṅgurā́vatām  
+प꣡रि त्वाग्ने पु꣡रं वयं꣡  
+वि꣡प्रं सहस्य धीमहि  
+धृष꣡द्वर्णं दिवे꣡-दिवे  
+हन्ता꣡रम् भङ्गुरा꣡वताम्  

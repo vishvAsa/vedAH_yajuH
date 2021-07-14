@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-r̥bhukṣáṇam índram ā́ huva ūtáya  
-r̥bhū́n vā́jān marútaḥ sómapītaye  
-ubhā́ mitrā́váruṇā nūnám aśvínā  
-té no hinvantu sātáye dhiyé jiṣé  
+ऋभुक्ष꣡णम् इ꣡न्द्रम् आ꣡ हुव ऊत꣡य  
+ऋभू꣡न् वा꣡जान् मरु꣡तः सो꣡मपीतये  
+उभा꣡ मित्रा꣡व꣡रुणा नून꣡म् अश्वि꣡ना  
+ते꣡ नो हिन्वन्तु सात꣡ये धिये꣡ जिषे꣡  

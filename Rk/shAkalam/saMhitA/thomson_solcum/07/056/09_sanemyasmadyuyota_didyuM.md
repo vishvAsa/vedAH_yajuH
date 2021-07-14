@@ -2,5 +2,5 @@
 title = "009"
 
 +++
-sánemi asmád yuyóta didyúm  
-mā́ vo durmatír ihá práṇaṅ naḥ  
+स꣡नेमि अस्म꣡द् युयो꣡त दिद्यु꣡म्  
+मा꣡ वो दुर्मति꣡र् इह꣡ प्र꣡णङ् नः  

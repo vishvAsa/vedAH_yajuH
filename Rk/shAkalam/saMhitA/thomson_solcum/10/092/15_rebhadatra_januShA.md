@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-rébhad átra janúṣā pū́rvo áṅgirā  
-grā́vāṇa ūrdhvā́ abhí cakṣur adhvarám  
-yébhir víhāyā ábhavad vicakṣaṇáḥ  
-pā́thaḥ sumékaṃ svádhitir vánanvati  
+रे꣡भद् अ꣡त्र जनु꣡षा पू꣡र्वो अ꣡ङ्गिरा  
+ग्रा꣡वाण ऊर्ध्वा꣡ अभि꣡ चक्षुर् अध्वर꣡म्  
+ये꣡भिर् वि꣡हाया अ꣡भवद् विचक्षणः꣡  
+पा꣡थः सुमे꣡कं स्व꣡धितिर् व꣡नन्वति  

@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-mánojavasā vr̥ṣaṇā madacyutā  
-makṣuṃgamā́bhir ūtíbhiḥ  
-ārā́ttāc cid bhũtam asmé ávase  
-pūrvī́bhiḥ purubhojasā  
+म꣡नोजवसा वृषणा मदच्युता  
+मक्षुंगमा꣡भिर् ऊति꣡भिः  
+आरा꣡त्ताच् चिद् भ्ũतम् अस्मे꣡ अ꣡वसे  
+पूर्वी꣡भिः पुरुभोजसा  

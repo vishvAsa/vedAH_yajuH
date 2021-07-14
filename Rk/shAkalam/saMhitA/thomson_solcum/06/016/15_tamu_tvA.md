@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-tám u tvā pāthiyó vŕ̥ṣā  
-sám īdhe dasyuhántamam  
-dhanaṃjayáṃ ráṇe-raṇe  
+त꣡म् उ त्वा पाथियो꣡ व्ŕ̥षा  
+स꣡म् ईधे दस्युह꣡न्तमम्  
+धनंजयं꣡ र꣡णे-रणे  

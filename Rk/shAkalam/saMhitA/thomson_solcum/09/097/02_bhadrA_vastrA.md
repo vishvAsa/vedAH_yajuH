@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-bhadrā́ vástrā samaníyā vásāno  
-mahā́n kavír nivácanāni śáṃsan  
-ā́ vacyasva camúvoḥ pūyámāno  
-vicakṣaṇó jā́gr̥vir devávītau  
+भद्रा꣡ व꣡स्त्रा समनि꣡या व꣡सानो  
+महा꣡न् कवि꣡र् निव꣡चनानि शं꣡सन्  
+आ꣡ वच्यस्व चमु꣡वोः पूय꣡मानो  
+विचक्षणो꣡ जा꣡गृविर् देव꣡वीतौ  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-úpo matíḥ pr̥cyáte sicyáte mádhu  
-mandrā́janī codate antár āsáni  
-pávamānaḥ saṃtaníḥ praghnatā́m iva  
-mádhumān drapsáḥ pári vā́ram arṣati  
+उ꣡पो मतिः꣡ पृच्य꣡ते सिच्य꣡ते म꣡धु  
+मन्द्रा꣡जनी चोदते अन्त꣡र् आस꣡नि  
+प꣡वमानः संतनिः꣡ प्रघ्नता꣡म् इव  
+म꣡धुमान् द्रप्सः꣡ प꣡रि वा꣡रम् अर्षति  

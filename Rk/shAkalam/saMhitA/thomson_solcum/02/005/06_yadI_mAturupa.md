@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yádī mātúr úpa svásā  
-ghr̥tám bháranti ásthita  
-tā́sām adhvaryúr ā́gatau  
-yávo vr̥ṣṭī́va modate  
+य꣡दी मातु꣡र् उ꣡प स्व꣡सा  
+घृत꣡म् भ꣡रन्ति अ꣡स्थित  
+ता꣡साम् अध्वर्यु꣡र् आ꣡गतौ  
+य꣡वो वृष्टी꣡व मोदते  

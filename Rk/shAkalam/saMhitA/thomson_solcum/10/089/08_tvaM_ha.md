@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tuváṃ ha tyád r̥ṇayā́ indra dhī́ro  
-asír ná párva vr̥jinā́ śr̥ṇāsi  
-prá yé mitrásya váruṇasya dhā́ma  
-yújaṃ ná jánā minánti mitrám  
+तुवं꣡ ह त्य꣡द् ऋणया꣡ इन्द्र धी꣡रो  
+असि꣡र् न꣡ प꣡र्व वृजिना꣡ शृणासि  
+प्र꣡ ये꣡ मित्र꣡स्य व꣡रुणस्य धा꣡म  
+यु꣡जं न꣡ ज꣡ना मिन꣡न्ति मित्र꣡म्  

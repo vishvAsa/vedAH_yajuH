@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-vayám indra tuvé sácā  
-vayáṃ tuvābhí nonumaḥ  
-asmā́m̐-asmām̐ íd úd ava  
+वय꣡म् इन्द्र तुवे꣡ स꣡चा  
+वयं꣡ तुवाभि꣡ नोनुमः  
+अस्माँ꣡-अस्माँ इ꣡द् उ꣡द् अव  

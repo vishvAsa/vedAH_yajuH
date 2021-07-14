@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yébhyo hótrām prathamā́m āyejé mánuḥ  
-sámiddhāgnir mánasā saptá hótr̥bhiḥ  
-tá ādityā ábhayaṃ śárma yachata  
-sugā́ naḥ karta supáthā suastáye  
+ये꣡भ्यो हो꣡त्राम् प्रथमा꣡म् आयेजे꣡ म꣡नुः  
+स꣡मिद्धाग्निर् म꣡नसा सप्त꣡ हो꣡तृभिः  
+त꣡ आदित्या अ꣡भयं श꣡र्म यछत  
+सुगा꣡ नः कर्त सुप꣡था सुअस्त꣡ये  

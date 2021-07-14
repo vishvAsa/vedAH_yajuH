@@ -2,5 +2,5 @@
 title = "002"
 
 +++
-yajñáṃ ca nas tanúvaṃ ca prajā́ṃ ca  
-ādityaír índraḥ sahá cīkl̥pāti  
+यज्ञं꣡ च नस् तनु꣡वं च प्रजां꣡ च  
+आदित्यइ꣡र् इ꣡न्द्रः सह꣡ चीक्ल्̥पाति  

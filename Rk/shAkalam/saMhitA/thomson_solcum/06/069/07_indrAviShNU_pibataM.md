@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-índrāviṣṇū píbatam mádhvo asyá  
-sómasya dasrā jaṭháram pr̥ṇethām  
-ā́ vām ándhāṃsi madirā́ṇi agmann  
-úpa bráhmāṇi śr̥ṇutaṃ hávam me  
+इ꣡न्द्राविष्णू पि꣡बतम् म꣡ध्वो अस्य꣡  
+सो꣡मस्य दस्रा जठ꣡रम् पृणेथाम्  
+आ꣡ वाम् अ꣡न्धांसि मदिरा꣡णि अग्मन्न्  
+उ꣡प ब्र꣡ह्माणि शृणुतं ह꣡वम् मे  

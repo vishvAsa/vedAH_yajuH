@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-táṃ tvā devébhyo mádhumattamaṃ náraḥ  
-sahásradhāraṃ duhate dáśa kṣípaḥ  
-nŕ̥bhiḥ soma prácyuto grā́vabhiḥ sutó  
-víśvān devā́m̐ ā́ pavasvā sahasrajit  
+तं꣡ त्वा देवे꣡भ्यो म꣡धुमत्तमं न꣡रः  
+सह꣡स्रधारं दुहते द꣡श क्षि꣡पः  
+न्ŕ̥भिः सोम प्र꣡च्युतो ग्रा꣡वभिः सुतो꣡  
+वि꣡श्वान् देवाँ꣡ आ꣡ पवस्वा सहस्रजित्  

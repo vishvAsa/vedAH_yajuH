@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śriyé káṃ vo ádhi tanū́ṣu vā́śīr  
-medhā́ vánā ná kr̥ṇavanta ūrdhvā́  
-yuṣmábhyaṃ · kám marutaḥ sujātās  
-tuvidyumnā́so dhanayante ádrim  
+श्रिये꣡ कं꣡ वो अ꣡धि तनू꣡षु वा꣡शीर्  
+मेधा꣡ व꣡ना न꣡ कृणवन्त ऊर्ध्वा꣡  
+युष्म꣡भ्यं · क꣡म् मरुतः सुजातास्  
+तुविद्युम्ना꣡सो धनयन्ते अ꣡द्रिम्  

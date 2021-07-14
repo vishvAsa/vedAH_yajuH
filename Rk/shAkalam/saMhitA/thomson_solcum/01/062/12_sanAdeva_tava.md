@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-sanā́d evá táva rā́yo gábhastau  
-ná kṣī́yante nópa dasyanti dasma  
-dyumā́m̐ asi krátumām̐ indra dhī́raḥ  
-śíkṣā śacīvas táva naḥ śácībhiḥ  
+सना꣡द् एव꣡ त꣡व रा꣡यो ग꣡भस्तौ  
+न꣡ क्षी꣡यन्ते नो꣡प दस्यन्ति दस्म  
+द्युमाँ꣡ असि क्र꣡तुमाँ इन्द्र धी꣡रः  
+शि꣡क्षा शचीवस् त꣡व नः श꣡चीभिः  

@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-tád íd rudrásya cetati  
-yahvám pratnéṣu dhā́masu  
-máno yátrā ví tád dadhúr vícetasaḥ  
+त꣡द् इ꣡द् रुद्र꣡स्य चेतति  
+यह्व꣡म् प्रत्ने꣡षु धा꣡मसु  
+म꣡नो य꣡त्रा वि꣡ त꣡द् दधु꣡र् वि꣡चेतसः  

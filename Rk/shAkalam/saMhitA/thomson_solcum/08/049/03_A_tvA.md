@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ tvā sutā́sa índavo  
-mádā yá indra girvaṇaḥ  
-ā́po ná vajrinn ánu okíyaṃ sáraḥ  
-pr̥ṇánti śūra rā́dhase  
+आ꣡ त्वा सुता꣡स इ꣡न्दवो  
+म꣡दा य꣡ इन्द्र गिर्वणः  
+आ꣡पो न꣡ वज्रिन्न् अ꣡नु ओकि꣡यं स꣡रः  
+पृण꣡न्ति शूर रा꣡धसे  

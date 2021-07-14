@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prajānánn agne táva yónim r̥tvíyam  
-íḷāyās padé ghr̥távantam ā́sadaḥ  
-ā́ te cikitra uṣásām ivétayo  
-arepásaḥ sū́riyasyeva raśmáyaḥ  
+प्रजान꣡न्न् अग्ने त꣡व यो꣡निम् ऋत्वि꣡यम्  
+इ꣡ऌआयास् पदे꣡ घृत꣡वन्तम् आ꣡सदः  
+आ꣡ ते चिकित्र उष꣡साम् इवे꣡तयो  
+अरेप꣡सः सू꣡रियस्येव रश्म꣡यः  

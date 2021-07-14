@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-eṣá chā́gaḥ puró áśvena vājínā  
-pūṣṇó bhāgó nīyate viśvádeviyaḥ  
-abhipríyaṃ yát puroḷā́śam árvatā  
-tváṣṭéd enaṃ sauśravasā́ya jinvati  
+एष꣡ छा꣡गः पुरो꣡ अ꣡श्वेन वाजि꣡ना  
+पूष्णो꣡ भागो꣡ नीयते विश्व꣡देवियः  
+अभिप्रि꣡यं य꣡त् पुरोऌआ꣡शम् अ꣡र्वता  
+त्व꣡ष्टे꣡द् एनं सौश्रवसा꣡य जिन्वति  

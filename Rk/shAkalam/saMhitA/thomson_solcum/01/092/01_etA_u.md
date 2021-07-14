@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-etā́ u tyā́ uṣásaḥ ketúm akrata  
-pū́rve árdhe rájaso bhānúm añjate  
-niṣkr̥ṇvānā́ ā́yudhānīva dhr̥ṣṇávaḥ  
-práti gā́vo áruṣīr yanti mātáraḥ  
+एता꣡ उ त्या꣡ उष꣡सः केतु꣡म् अक्रत  
+पू꣡र्वे अ꣡र्धे र꣡जसो भानु꣡म् अञ्जते  
+निष्कृण्वाना꣡ आ꣡युधानीव धृष्ण꣡वः  
+प्र꣡ति गा꣡वो अ꣡रुषीर् यन्ति मात꣡रः  

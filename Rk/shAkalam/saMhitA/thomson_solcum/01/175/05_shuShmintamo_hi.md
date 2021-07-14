@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-śuṣmíntamo hí te mádo  
-dyumníntama utá krátuḥ  
-vr̥traghnā́ varivovídā  
-maṃsīṣṭhā́ aśvasā́tamaḥ  
+शुष्मि꣡न्तमो हि꣡ ते म꣡दो  
+द्युम्नि꣡न्तम उत꣡ क्र꣡तुः  
+वृत्रघ्ना꣡ वरिवोवि꣡दा  
+मंसीष्ठा꣡ अश्वसा꣡तमः  

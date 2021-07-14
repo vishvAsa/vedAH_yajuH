@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́paś cit pipyu staríyo ná gā́vo  
-nákṣann r̥táṃ jaritā́ras ta indra  
-yāhí vāyúr ná niyúto no áchā  
-tuváṃ hí dhībhír dáyase ví vā́jān  
+आ꣡पश् चित् पिप्यु स्तरि꣡यो न꣡ गा꣡वो  
+न꣡क्षन्न् ऋतं꣡ जरिता꣡रस् त इन्द्र  
+याहि꣡ वायु꣡र् न꣡ नियु꣡तो नो अ꣡छा  
+तुवं꣡ हि꣡ धीभि꣡र् द꣡यसे वि꣡ वा꣡जान्  

@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-yát sóma ā́ suté nára  
-indraagnī́ ájohavuḥ  
-sáptīvantā saparyávaḥ  
+य꣡त् सो꣡म आ꣡ सुते꣡ न꣡र  
+इन्द्रअग्नी꣡ अ꣡जोहवुः  
+स꣡प्तीवन्ता सपर्य꣡वः  

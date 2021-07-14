@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-punānó devávītaya  
-índrasya yāhi niṣkr̥tám  
-dyutānó vājíbhir yatáḥ  
+पुनानो꣡ देव꣡वीतय  
+इ꣡न्द्रस्य याहि निष्कृत꣡म्  
+द्युतानो꣡ वाजि꣡भिर् यतः꣡  

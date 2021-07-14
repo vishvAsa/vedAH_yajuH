@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-viśvajíte dhanajíte suvarjíte  
-satrājíte nr̥jíta urvarājíte  
-aśvajíte gojíte abjíte bhara  
-índrāya sómaṃ yajatā́ya haryatám  
+विश्वजि꣡ते धनजि꣡ते सुवर्जि꣡ते  
+सत्राजि꣡ते नृजि꣡त उर्वराजि꣡ते  
+अश्वजि꣡ते गोजि꣡ते अब्जि꣡ते भर  
+इ꣡न्द्राय सो꣡मं यजता꣡य हर्यत꣡म्  

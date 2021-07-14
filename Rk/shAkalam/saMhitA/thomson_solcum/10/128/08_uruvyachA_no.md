@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-uruvyácā no mahiṣáḥ śárma yaṃsad  
-asmín háve puruhūtáḥ purukṣúḥ  
-sá naḥ prajā́yai hariaśva mr̥̄ḷaya+  
-índra mā́ no rīriṣo mā́ párā dāḥ  
+उरुव्य꣡चा नो महिषः꣡ श꣡र्म यंसद्  
+अस्मि꣡न् ह꣡वे पुरुहूतः꣡ पुरुक्षुः꣡  
+स꣡ नः प्रजा꣡यै हरिअश्व मॄऌअय+  
+इ꣡न्द्र मा꣡ नो रीरिषो मा꣡ प꣡रा दाः  

@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-vŕ̥ṣā tvā vŕ̥ṣaṇaṃ huve  
-vájriñ citrā́bhir ūtíbhiḥ  
-vŕ̥ṣann indra vŕ̥ṣabhir vr̥trahantama  
+व्ŕ̥षा त्वा व्ŕ̥षणं हुवे  
+व꣡ज्रिञ् चित्रा꣡भिर् ऊति꣡भिः  
+व्ŕ̥षन्न् इन्द्र व्ŕ̥षभिर् वृत्रहन्तम  

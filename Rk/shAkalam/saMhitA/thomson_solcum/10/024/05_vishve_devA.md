@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-víśve devā́ akr̥panta  
-samīcyór niṣpátantiyoḥ  
-nā́satyāv abruvan devā́ḥ  
-púnar ā́ vahatād íti  
+वि꣡श्वे देवा꣡ अकृपन्त  
+समीच्यो꣡र् निष्प꣡तन्तियोः  
+ना꣡सत्याव् अब्रुवन् देवाः꣡  
+पु꣡नर् आ꣡ वहताद् इ꣡ति  

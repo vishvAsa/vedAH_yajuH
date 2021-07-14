@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mitró agnír bhavati yát sámiddho  
-mitró hótā váruṇo jātávedāḥ  
-mitró adhvaryúr iṣiró dámūnā  
-mitráḥ síndhūnām utá párvatānām  
+मित्रो꣡ अग्नि꣡र् भवति य꣡त् स꣡मिद्धो  
+मित्रो꣡ हो꣡ता व꣡रुणो जात꣡वेदाः  
+मित्रो꣡ अध्वर्यु꣡र् इषिरो꣡ द꣡मूना  
+मित्रः꣡ सि꣡न्धूनाम् उत꣡ प꣡र्वतानाम्  

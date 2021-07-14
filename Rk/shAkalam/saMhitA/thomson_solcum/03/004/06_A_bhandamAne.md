@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́ bhándamāne uṣásā úpāke  
-utá smayete tanúvā vírūpe  
-yáthā no mitró váruṇo jújoṣad  
-índro marútvām̐ utá vā máhobhiḥ  
+आ꣡ भ꣡न्दमाने उष꣡सा उ꣡पाके  
+उत꣡ स्मयेते तनु꣡वा वि꣡रूपे  
+य꣡था नो मित्रो꣡ व꣡रुणो जु꣡जोषद्  
+इ꣡न्द्रो मरु꣡त्वाँ उत꣡ वा म꣡होभिः  

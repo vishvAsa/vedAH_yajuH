@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-īrmā́nyád vápuṣe vápuś  
-cakráṃ ráthasya yemathuḥ  
-páry anyā́ nā́huṣā yugā́  
-mahnā́ rájāṃsi dīyathaḥ  
+ईर्मा꣡न्य꣡द् व꣡पुषे व꣡पुश्  
+चक्रं꣡ र꣡थस्य येमथुः  
+प꣡र्य् अन्या꣡ ना꣡हुषा युगा꣡  
+मह्ना꣡ र꣡जांसि दीयथः  

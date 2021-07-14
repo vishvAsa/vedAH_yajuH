@@ -2,5 +2,5 @@
 title = "006"
 
 +++
-pathá ékaḥ pipāya° táskaro yathām̐  
-eṣá veda nidhīnã́m  
+पथ꣡ ए꣡कः पिपाय° त꣡स्करो यथाँ  
+एष꣡ वेद निधीन्ã꣡म्  

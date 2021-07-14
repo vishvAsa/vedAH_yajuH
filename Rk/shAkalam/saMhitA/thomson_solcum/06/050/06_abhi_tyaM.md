@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-abhí tyáṃ vīráṃ gírvaṇasam arca  
-índram bráhmaṇā jaritar návena  
-śrávad íd dhávam úpa ca stávāno  
-rā́sad vā́jām̐ úpa mahó gr̥ṇānáḥ  
+अभि꣡ त्यं꣡ वीरं꣡ गि꣡र्वणसम् अर्च  
+इ꣡न्द्रम् ब्र꣡ह्मणा जरितर् न꣡वेन  
+श्र꣡वद् इ꣡द् ध꣡वम् उ꣡प च स्त꣡वानो  
+रा꣡सद् वा꣡जाँ उ꣡प महो꣡ गृणानः꣡  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-só áṅgirobhir áṅgirastamo bhūd  
-vŕ̥ṣā vŕ̥ṣabhiḥ sákhibhiḥ sákhā sán  
-r̥gmíbhir r̥gmī́ gātúbhir jyáyiṣṭho+  
-marútvān no bhavatu índra ūtī́  
+सो꣡ अ꣡ङ्गिरोभिर् अ꣡ङ्गिरस्तमो भूद्  
+व्ŕ̥षा व्ŕ̥षभिः स꣡खिभिः स꣡खा स꣡न्  
+ऋग्मि꣡भिर् ऋग्मी꣡ गातु꣡भिर् ज्य꣡यिष्ठो+  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

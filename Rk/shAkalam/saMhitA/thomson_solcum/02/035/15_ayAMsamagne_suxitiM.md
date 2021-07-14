@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-áyāṃsam agne sukṣitíṃ jánāya  
-áyāṃsam u maghávadbhyaḥ suvr̥ktím  
-víśvaṃ tád bhadráṃ yád ávanti devā́  
-br̥hád vadema vidáthe suvī́rāḥ  
+अ꣡यांसम् अग्ने सुक्षितिं꣡ ज꣡नाय  
+अ꣡यांसम् उ मघ꣡वद्भ्यः सुवृक्ति꣡म्  
+वि꣡श्वं त꣡द् भद्रं꣡ य꣡द् अ꣡वन्ति देवा꣡  
+बृह꣡द् वदेम विद꣡थे सुवी꣡राः  

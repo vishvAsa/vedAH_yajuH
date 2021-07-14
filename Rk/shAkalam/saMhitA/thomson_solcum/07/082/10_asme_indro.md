@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-asmé índro váruṇo mitró aryamā́  
-dyumnáṃ yachantu máhi śárma sapráthaḥ  
-avadhráṃ jyótir áditer r̥tāvŕ̥dho  
-devásya ślókaṃ savitúr manāmahe  
+अस्मे꣡ इ꣡न्द्रो व꣡रुणो मित्रो꣡ अर्यमा꣡  
+द्युम्नं꣡ यछन्तु म꣡हि श꣡र्म सप्र꣡थः  
+अवध्रं꣡ ज्यो꣡तिर् अ꣡दितेर् ऋताव्ŕ̥धो  
+देव꣡स्य श्लो꣡कं सवितु꣡र् मनामहे  

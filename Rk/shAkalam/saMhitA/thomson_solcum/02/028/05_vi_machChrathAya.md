@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ví mác chrathāya raśanā́m ivā́ga  
-r̥dhyā́ma te varuṇa khā́m r̥tásya  
-mā́ tántuś chedi váyato dhíyam me  
-mā́ mā́trā śāri apásaḥ purá rtóḥ  
+वि꣡ म꣡च् छ्रथाय रशना꣡म् इवा꣡ग  
+ऋध्या꣡म ते वरुण खा꣡म् ऋत꣡स्य  
+मा꣡ त꣡न्तुश् छेदि व꣡यतो धि꣡यम् मे  
+मा꣡ मा꣡त्रा शारि अप꣡सः पुर꣡ र्तोः꣡  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá devám áchā mádhumanta índavo  
-ásiṣyadanta gā́va ā́ ná dhenávaḥ  
-barhiṣádo vacanā́vanta ū́dhabhiḥ  
-parisrútam usríyā nirṇíjaṃ dhire  
+प्र꣡ देव꣡म् अ꣡छा म꣡धुमन्त इ꣡न्दवो  
+अ꣡सिष्यदन्त गा꣡व आ꣡ न꣡ धेन꣡वः  
+बर्हिष꣡दो वचना꣡वन्त ऊ꣡धभिः  
+परिस्रु꣡तम् उस्रि꣡या निर्णि꣡जं धिरे  

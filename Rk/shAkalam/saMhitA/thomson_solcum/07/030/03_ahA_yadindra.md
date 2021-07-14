@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-áhā yád indra sudínā viuchā́n  
-dádho yát ketúm upamáṃ samátsu  
-ní agníḥ sīdad ásuro ná hótā  
-huvānó átra subhágāya devā́n  
+अ꣡हा य꣡द् इन्द्र सुदि꣡ना विउछा꣡न्  
+द꣡धो य꣡त् केतु꣡म् उपमं꣡ सम꣡त्सु  
+नि꣡ अग्निः꣡ सीदद् अ꣡सुरो न꣡ हो꣡ता  
+हुवानो꣡ अ꣡त्र सुभ꣡गाय देवा꣡न्  

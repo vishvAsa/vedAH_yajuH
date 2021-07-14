@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-eté tyé vŕ̥thag agnáya  
-iddhā́saḥ sám adr̥kṣata  
-uṣásām iva ketávaḥ  
+एते꣡ त्ये꣡ व्ŕ̥थग् अग्न꣡य  
+इद्धा꣡सः स꣡म् अदृक्षत  
+उष꣡साम् इव केत꣡वः  

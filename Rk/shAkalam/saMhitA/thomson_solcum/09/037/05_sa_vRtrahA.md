@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sá vr̥trahā́ vŕ̥ṣā sutó  
-varivovíd ádābhiyaḥ  
-sómo vā́jam ivāsarat  
+स꣡ वृत्रहा꣡ व्ŕ̥षा सुतो꣡  
+वरिवोवि꣡द् अ꣡दाभियः  
+सो꣡मो वा꣡जम् इवासरत्  

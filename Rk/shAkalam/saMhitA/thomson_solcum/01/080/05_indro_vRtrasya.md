@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-índro vr̥trásya dódhataḥ  
-sā́nuṃ vájreṇa hīḷitáḥ  
-abhikrámyā́va jighnate  
-apáḥ sármāya codáyann  
-árcann ánu svarā́jiyam  
+इ꣡न्द्रो वृत्र꣡स्य दो꣡धतः  
+सा꣡नुं व꣡ज्रेण हीऌइतः꣡  
+अभिक्र꣡म्या꣡व जिघ्नते  
+अपः꣡ स꣡र्माय चोद꣡यन्न्  
+अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्  

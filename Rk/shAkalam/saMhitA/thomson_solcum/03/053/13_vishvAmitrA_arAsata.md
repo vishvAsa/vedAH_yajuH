@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-viśvā́mitrā arāsata  
-bráhma índrāya vajríṇe  
-kárad ín naḥ surā́dhasaḥ  
+विश्वा꣡मित्रा अरासत  
+ब्र꣡ह्म इ꣡न्द्राय वज्रि꣡णे  
+क꣡रद् इ꣡न् नः सुरा꣡धसः  

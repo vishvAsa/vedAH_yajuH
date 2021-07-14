@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tád ín nú te káraṇaṃ dasma vipra  
-áhiṃ yád ghnánn ójo átrā́mimīthāḥ  
-śúṣṇasya cit pári māyā́ agr̥bhṇāḥ  
-prapitváṃ yánn ápa dásyūm̐r asedhaḥ  
+त꣡द् इ꣡न् नु꣡ ते क꣡रणं दस्म विप्र  
+अ꣡हिं य꣡द् घ्न꣡न्न् ओ꣡जो अ꣡त्रा꣡मिमीथाः  
+शु꣡ष्णस्य चित् प꣡रि माया꣡ अगृभ्णाः  
+प्रपित्वं꣡ य꣡न्न् अ꣡प द꣡स्यूँर् असेधः  

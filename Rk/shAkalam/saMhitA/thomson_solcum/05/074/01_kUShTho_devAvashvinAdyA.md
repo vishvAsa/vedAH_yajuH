@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kṹṣṭho devāv aśvinā  
-adyā́ divó manāvasū  
-tác chravatho vr̥ṣaṇvasū  
-átrir vām ā́ vivāsati  
+क्ũ꣡ष्ठो देवाव् अश्विना  
+अद्या꣡ दिवो꣡ मनावसू  
+त꣡च् छ्रवथो वृषण्वसू  
+अ꣡त्रिर् वाम् आ꣡ विवासति  

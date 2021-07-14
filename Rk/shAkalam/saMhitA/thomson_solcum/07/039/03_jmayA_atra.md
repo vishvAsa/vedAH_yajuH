@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-jmayā́ átra vásavo ranta devā́  
-urā́v antárikṣe marjayanta śubhrā́ḥ  
-arvā́k pathá urujrayaḥ kr̥ṇudhvaṃ  
-śrótā dūtásya jagmúṣo no asyá  
+ज्मया꣡ अ꣡त्र व꣡सवो रन्त देवा꣡  
+उरा꣡व् अन्त꣡रिक्षे मर्जयन्त शुभ्राः꣡  
+अर्वा꣡क् पथ꣡ उरुज्रयः कृणुध्वं  
+श्रो꣡ता दूत꣡स्य जग्मु꣡षो नो अस्य꣡  

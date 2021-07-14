@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-táṃ sadhrī́cīr ūtáyo vŕ̥ṣṇiyāni  
-paúṃsiyāni niyútaḥ saścur índram  
-samudráṃ ná síndhava uktháśuṣmā  
-uruvyácasaṃ gíra ā́ viśanti  
+तं꣡ सध्री꣡चीर् ऊत꣡यो व्ŕ̥ष्णियानि  
+पउं꣡सियानि नियु꣡तः सश्चुर् इ꣡न्द्रम्  
+समुद्रं꣡ न꣡ सि꣡न्धव उक्थ꣡शुष्मा  
+उरुव्य꣡चसं गि꣡र आ꣡ विशन्ति  

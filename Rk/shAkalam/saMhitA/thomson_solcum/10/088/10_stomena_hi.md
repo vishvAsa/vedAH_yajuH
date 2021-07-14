@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-stómena hí diví devā́so agním  
-ájījanañ cháktibhī rodasiprā́m  
-tám ū akr̥ṇvan trẽdhā́ bhuvé káṃ  
-sá óṣadhīḥ pacati viśvárūpāḥ  
+स्तो꣡मेन हि꣡ दिवि꣡ देवा꣡सो अग्नि꣡म्  
+अ꣡जीजनञ् छ꣡क्तिभी रोदसिप्रा꣡म्  
+त꣡म् ऊ अकृण्वन् त्र्ẽधा꣡ भुवे꣡ कं꣡  
+स꣡ ओ꣡षधीः पचति विश्व꣡रूपाः  

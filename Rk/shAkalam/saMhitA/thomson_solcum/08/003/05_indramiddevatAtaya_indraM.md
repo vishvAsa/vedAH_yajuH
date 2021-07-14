@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índram íd devátātaya  
-índram prayatí adhvaré  
-índraṃ samīké vaníno havāmaha  
-índraṃ dhánasya sātáye  
+इ꣡न्द्रम् इ꣡द् देव꣡तातय  
+इ꣡न्द्रम् प्रयति꣡ अध्वरे꣡  
+इ꣡न्द्रं समीके꣡ वनि꣡नो हवामह  
+इ꣡न्द्रं ध꣡नस्य सात꣡ये  

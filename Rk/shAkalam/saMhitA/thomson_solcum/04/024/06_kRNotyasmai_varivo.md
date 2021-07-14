@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-kr̥ṇóti asmai várivo yá itthā́  
-índrāya sómam uśaté sunóti  
-sadhrīcī́nena mánasā́vivenam  
-tám ít sákhāyaṃ kr̥ṇute samátsu  
+कृणो꣡ति अस्मै व꣡रिवो य꣡ इत्था꣡  
+इ꣡न्द्राय सो꣡मम् उशते꣡ सुनो꣡ति  
+सध्रीची꣡नेन म꣡नसा꣡विवेनम्  
+त꣡म् इ꣡त् स꣡खायं कृणुते सम꣡त्सु  

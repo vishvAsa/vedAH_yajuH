@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá sū́ ta indra pravátā háribhyām  
-prá te vájraḥ pramr̥ṇánn etu śátrūn  
-jahí pratīcó anūcáḥ párāco  
-víśvaṃ satyáṃ kr̥ṇuhi viṣṭám astu  
+प्र꣡ सू꣡ त इन्द्र प्रव꣡ता ह꣡रिभ्याम्  
+प्र꣡ ते व꣡ज्रः प्रमृण꣡न्न् एतु श꣡त्रून्  
+जहि꣡ प्रतीचो꣡ अनूचः꣡ प꣡राचो  
+वि꣡श्वं सत्यं꣡ कृणुहि विष्ट꣡म् अस्तु  

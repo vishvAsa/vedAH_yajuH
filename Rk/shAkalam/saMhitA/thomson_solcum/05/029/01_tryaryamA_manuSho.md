@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-trí aryamā́ mánuṣo devátātā  
-trī́ rocanā́ diviyā́ dhārayanta  
-árcanti tvā marútaḥ pūtádakṣās  
-tuvám eṣām ŕ̥ṣir indrāsi dhī́raḥ  
+त्रि꣡ अर्यमा꣡ म꣡नुषो देव꣡ताता  
+त्री꣡ रोचना꣡ दिविया꣡ धारयन्त  
+अ꣡र्चन्ति त्वा मरु꣡तः पूत꣡दक्षास्  
+तुव꣡म् एषाम् ŕ̥षिर् इन्द्रासि धी꣡रः  

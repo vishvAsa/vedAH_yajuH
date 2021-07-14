@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-yajñéna yajñám ayajanta devā́s  
-tā́ni dhármāṇi prathamā́ni āsan  
-té ha nā́kam mahimā́naḥ sacanta  
-yátra pū́rve sādhiyā́ḥ sánti devā́ḥ  
+यज्ञे꣡न यज्ञ꣡म् अयजन्त देवा꣡स्  
+ता꣡नि ध꣡र्माणि प्रथमा꣡नि आसन्  
+ते꣡ ह ना꣡कम् महिमा꣡नः सचन्त  
+य꣡त्र पू꣡र्वे साधियाः꣡ स꣡न्ति देवाः꣡  

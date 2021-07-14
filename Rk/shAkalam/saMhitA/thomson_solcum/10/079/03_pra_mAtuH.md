@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá mātúḥ prataráṃ gúhiyam ichán  
-kumāró ná vīrúdhaḥ sarpad urvī́ḥ  
-sasáṃ ná pakvám avidac chucántaṃ  
-ririhvā́ṃsaṃ ripá upásthe antáḥ  
+प्र꣡ मातुः꣡ प्रतरं꣡ गु꣡हियम् इछ꣡न्  
+कुमारो꣡ न꣡ वीरु꣡धः सर्पद् उर्वीः꣡  
+ससं꣡ न꣡ पक्व꣡म् अविदच् छुच꣡न्तं  
+रिरिह्वां꣡सं रिप꣡ उप꣡स्थे अन्तः꣡  

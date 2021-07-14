@@ -2,10 +2,10 @@
 title = "006"
 
 +++
-vŕ̥ṣann indra vr̥ṣapā́ṇāsa índava  
-imé sutā́ ádriṣutāsa udbhídas  
-túbhyaṃ sutā́sa udbhídaḥ  
-té tvā mandantu dāváne  
-mahé citrā́ya rā́dhase  
-gīrbhír girvāha stávamāna ā́ gahi  
-sumr̥̄ḷīkó+ na ā́ gahi  
+व्ŕ̥षन्न् इन्द्र वृषपा꣡णास इ꣡न्दव  
+इमे꣡ सुता꣡ अ꣡द्रिषुतास उद्भि꣡दस्  
+तु꣡भ्यं सुता꣡स उद्भि꣡दः  
+ते꣡ त्वा मन्दन्तु दाव꣡ने  
+महे꣡ चित्रा꣡य रा꣡धसे  
+गीर्भि꣡र् गिर्वाह स्त꣡वमान आ꣡ गहि  
+सुमॄऌईको꣡+ न आ꣡ गहि  

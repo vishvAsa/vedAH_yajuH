@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-gharmā́ sámantā trivŕ̥taṃ ví āpatus  
-táyor júṣṭim mātaríśvā jagāma  
-divás páyo dídhiṣāṇā aveṣan  
-vidúr devā́ḥ sahásāmānam arkám  
+घर्मा꣡ स꣡मन्ता त्रिव्ŕ̥तं वि꣡ आपतुस्  
+त꣡योर् जु꣡ष्टिम् मातरि꣡श्वा जगाम  
+दिव꣡स् प꣡यो दि꣡धिषाणा अवेषन्  
+विदु꣡र् देवाः꣡ सह꣡सामानम् अर्क꣡म्  

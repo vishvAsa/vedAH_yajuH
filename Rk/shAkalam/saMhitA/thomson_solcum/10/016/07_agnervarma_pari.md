@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-agnér várma pári góbhir vyayasva  
-sám prórṇuṣva pī́vasā médasā ca  
-nét tvā dhr̥ṣṇúr hárasā járhr̥ṣāṇo  
-dadhŕ̥g vidhakṣyán pariaṅkháyāte  
+अग्ने꣡र् व꣡र्म प꣡रि गो꣡भिर् व्ययस्व  
+स꣡म् प्रो꣡र्णुष्व पी꣡वसा मे꣡दसा च  
+ने꣡त् त्वा धृष्णु꣡र् ह꣡रसा ज꣡र्हृषाणो  
+दध्ŕ̥ग् विधक्ष्य꣡न् परिअङ्ख꣡याते  

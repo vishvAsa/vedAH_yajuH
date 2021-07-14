@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ápa svásur uṣáso nág jihīte  
-riṇákti kr̥ṣṇī́r aruṣā́ya pánthām  
-áśvāmaghā gómaghā vāṃ huvema  
-dívā náktaṃ śárum asmád yuyotam  
+अ꣡प स्व꣡सुर् उष꣡सो न꣡ग् जिहीते  
+रिण꣡क्ति कृष्णी꣡र् अरुषा꣡य प꣡न्थाम्  
+अ꣡श्वामघा गो꣡मघा वां हुवेम  
+दि꣡वा न꣡क्तं श꣡रुम् अस्म꣡द् युयोतम्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-gómāyur adād ajámāyur adāt  
-pŕ̥śnir adād dhárito no vásūni  
-gávām maṇḍū́kā dádataḥ śatā́ni  
-sahasrasāvé prá tiranta ā́yuḥ  
+गो꣡मायुर् अदाद् अज꣡मायुर् अदात्  
+प्ŕ̥श्निर् अदाद् ध꣡रितो नो व꣡सूनि  
+ग꣡वाम् मण्डू꣡का द꣡दतः शता꣡नि  
+सहस्रसावे꣡ प्र꣡ तिरन्त आ꣡युः  

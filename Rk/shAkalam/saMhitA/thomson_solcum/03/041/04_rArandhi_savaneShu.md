@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-rārandhí sávaneṣu ṇa  
-eṣú stómeṣu vr̥trahan  
-ukthéṣu indra girvaṇaḥ  
+रारन्धि꣡ स꣡वनेषु ण  
+एषु꣡ स्तो꣡मेषु वृत्रहन्  
+उक्थे꣡षु इन्द्र गिर्वणः  

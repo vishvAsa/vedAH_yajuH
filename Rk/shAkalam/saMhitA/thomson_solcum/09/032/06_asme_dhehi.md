@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-asmé dhehi dyumád yáśo  
-maghávadbhyaś ca máhya° ca  
-saním medhā́m utá śrávaḥ  
+अस्मे꣡ धेहि द्युम꣡द् य꣡शो  
+मघ꣡वद्भ्यश् च म꣡ह्य° च  
+सनि꣡म् मेधा꣡म् उत꣡ श्र꣡वः  

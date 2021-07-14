@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-pávamānaḥ sutó nŕ̥bhiḥ  
-sómo vā́jam ivāsarat  
-camū́ṣu śákmanāsádam  
+प꣡वमानः सुतो꣡ न्ŕ̥भिः  
+सो꣡मो वा꣡जम् इवासरत्  
+चमू꣡षु श꣡क्मनास꣡दम्  

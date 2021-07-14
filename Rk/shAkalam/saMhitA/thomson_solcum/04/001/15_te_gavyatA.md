@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-té gavyatā́ mánasā dr̥dhrám ubdháṃ  
-gã́ yemānám pári ṣántam ádrim  
-dr̥̄ḷháṃ+ náro vácasā daíviyena  
-vrajáṃ gómantam uśíjo ví vavruḥ  
+ते꣡ गव्यता꣡ म꣡नसा दृध्र꣡म् उब्धं꣡  
+ग्ã꣡ येमान꣡म् प꣡रि ष꣡न्तम् अ꣡द्रिम्  
+दॄऌहं꣡+ न꣡रो व꣡चसा दइ꣡वियेन  
+व्रजं꣡ गो꣡मन्तम् उशि꣡जो वि꣡ वव्रुः  

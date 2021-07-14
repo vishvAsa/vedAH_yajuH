@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sá grā́mebhiḥ sánitā sá ráthebhir  
-vidé víśvābhiḥ kr̥ṣṭíbhir nú adyá  
-sá paúṃsiyebhir abhibhū́r áśastīr  
-marútvān no bhavatu índra ūtī́  
+स꣡ ग्रा꣡मेभिः स꣡निता स꣡ र꣡थेभिर्  
+विदे꣡ वि꣡श्वाभिः कृष्टि꣡भिर् नु꣡ अद्य꣡  
+स꣡ पउं꣡सियेभिर् अभिभू꣡र् अ꣡शस्तीर्  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

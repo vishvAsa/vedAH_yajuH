@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-púnar enā ní vartaya  
-púnar enā ní ā́ kuru  
-índra eṇā ní yachatu  
-agnír enā upā́jatu  
+पु꣡नर् एना नि꣡ वर्तय  
+पु꣡नर् एना नि꣡ आ꣡ कुरु  
+इ꣡न्द्र एणा नि꣡ यछतु  
+अग्नि꣡र् एना उपा꣡जतु  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́d ródasī vitaráṃ ví ṣkabhāyat  
-saṃvivyānáś cid bhiyáse mr̥gáṃ kaḥ  
-jígartim índro apajárgurāṇaḥ  
-práti śvasántam áva dānaváṃ han  
+आ꣡द् रो꣡दसी वितरं꣡ वि꣡ ष्कभायत्  
+संविव्यान꣡श् चिद् भिय꣡से मृगं꣡ कः  
+जि꣡गर्तिम् इ꣡न्द्रो अपज꣡र्गुराणः  
+प्र꣡ति श्वस꣡न्तम् अ꣡व दानवं꣡ हन्  

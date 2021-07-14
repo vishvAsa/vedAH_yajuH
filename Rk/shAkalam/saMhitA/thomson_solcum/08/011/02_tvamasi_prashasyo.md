@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-tuvám asi praśásiyo  
-vidátheṣu sahantiya  
-ágne rathī́r adhvarā́ṇām  
+तुव꣡म् असि प्रश꣡सियो  
+विद꣡थेषु सहन्तिय  
+अ꣡ग्ने रथी꣡र् अध्वरा꣡णाम्  

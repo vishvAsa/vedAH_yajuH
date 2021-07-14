@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yénā dáśagvam ádhriguṃ  
-vepáyantaṃ súvarṇaram  
-yénā samudrám ā́vithā tám īmahe  
+ये꣡ना द꣡शग्वम् अ꣡ध्रिगुं  
+वेप꣡यन्तं सु꣡वर्णरम्  
+ये꣡ना समुद्र꣡म् आ꣡विथा त꣡म् ईमहे  

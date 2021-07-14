@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-suṣvāṇā́so ví ádribhiś  
-cítānā gór ádhi tvací  
-íṣam asmábhyam abhítaḥ  
-sám asvaran vasuvídaḥ  
+सुष्वाणा꣡सो वि꣡ अ꣡द्रिभिश्  
+चि꣡ताना गो꣡र् अ꣡धि त्वचि꣡  
+इ꣡षम् अस्म꣡भ्यम् अभि꣡तः  
+स꣡म् अस्वरन् वसुवि꣡दः  

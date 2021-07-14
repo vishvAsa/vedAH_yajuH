@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ayáṃ vāṃ gharmó aśvinā  
-stómena pári ṣicyate  
-ayáṃ sómo mádhumān vājinīvasū  
-yéna vr̥tráṃ cíketathaḥ  
+अयं꣡ वां घर्मो꣡ अश्विना  
+स्तो꣡मेन प꣡रि षिच्यते  
+अयं꣡ सो꣡मो म꣡धुमान् वाजिनीवसू  
+ये꣡न वृत्रं꣡ चि꣡केतथः  

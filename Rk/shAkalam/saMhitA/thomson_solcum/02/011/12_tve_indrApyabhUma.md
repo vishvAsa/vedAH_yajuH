@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-tuvé indra ápi abhūma víprā  
-dhíyaṃ vanema r̥tayā́ sápantaḥ  
-avasyávo dhīmahi práśastiṃ  
-sadyás te rāyó dāváne siyāma  
+तुवे꣡ इन्द्र अ꣡पि अभूम वि꣡प्रा  
+धि꣡यं वनेम ऋतया꣡ स꣡पन्तः  
+अवस्य꣡वो धीमहि प्र꣡शस्तिं  
+सद्य꣡स् ते रायो꣡ दाव꣡ने सियाम  

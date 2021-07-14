@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ā́ vāṃ vípra ihā́vase  
-áhvat stómebhir aśvinā  
-áriprā vŕ̥trahantamā  
-tā́ no bhūtam mayobhúvā  
+आ꣡ वां वि꣡प्र इहा꣡वसे  
+अ꣡ह्वत् स्तो꣡मेभिर् अश्विना  
+अ꣡रिप्रा व्ŕ̥त्रहन्तमा  
+ता꣡ नो भूतम् मयोभु꣡वा  

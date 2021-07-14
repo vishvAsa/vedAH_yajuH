@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-káḥ kumārám ajanayad  
-ráthaṃ kó nír avartayat  
-káḥ svit tád adyá no brūyād  
-anudéyī yáthā́bhavat  
+कः꣡ कुमार꣡म् अजनयद्  
+र꣡थं को꣡ नि꣡र् अवर्तयत्  
+कः꣡ स्वित् त꣡द् अद्य꣡ नो ब्रूयाद्  
+अनुदे꣡यी य꣡था꣡भवत्  

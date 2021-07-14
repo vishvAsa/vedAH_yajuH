@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-vayám indra tuvāyávo  
-abhí prá ṇonumo vr̥ṣan  
-viddhī́ tú asyá no vaso  
+वय꣡म् इन्द्र तुवाय꣡वो  
+अभि꣡ प्र꣡ णोनुमो वृषन्  
+विद्धी꣡ तु꣡ अस्य꣡ नो वसो  

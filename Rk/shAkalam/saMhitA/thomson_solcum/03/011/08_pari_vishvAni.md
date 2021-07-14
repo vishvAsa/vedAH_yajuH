@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-pári víśvāni súdhitā  
-agnér aśyāma mánmabhiḥ  
-víprāso jātávedasaḥ  
+प꣡रि वि꣡श्वानि सु꣡धिता  
+अग्ने꣡र् अश्याम म꣡न्मभिः  
+वि꣡प्रासो जात꣡वेदसः  

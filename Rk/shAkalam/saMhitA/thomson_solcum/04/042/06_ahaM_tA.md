@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-aháṃ tā́ víśvā cakaraṃ nákir mā  
-daívyaṃ sáho varate ápratītam  
-yán mā sómāso mamádan yád ukthā́  
-ubhé bhayete rájasī apāré  
+अहं꣡ ता꣡ वि꣡श्वा चकरं न꣡किर् मा  
+दइ꣡व्यं स꣡हो वरते अ꣡प्रतीतम्  
+य꣡न् मा सो꣡मासो मम꣡दन् य꣡द् उक्था꣡  
+उभे꣡ भयेते र꣡जसी अपारे꣡  

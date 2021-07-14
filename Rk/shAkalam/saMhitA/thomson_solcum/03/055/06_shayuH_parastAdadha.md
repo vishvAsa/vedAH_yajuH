@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-śayúḥ parástād ádha nú dvimātā́  
-abandhanáś carati vatsá ékaḥ  
-mitrásya tā́ váruṇasya vratā́ni  
-mahád devā́nām asuratvám ékam  
+शयुः꣡ पर꣡स्ताद् अ꣡ध नु꣡ द्विमाता꣡  
+अबन्धन꣡श् चरति वत्स꣡ ए꣡कः  
+मित्र꣡स्य ता꣡ व꣡रुणस्य व्रता꣡नि  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

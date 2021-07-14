@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-upasthā́yaṃ carati yát samā́rata  
-sadyó jātás tatsāra yújiyebhiḥ  
-abhí śvāntám mr̥śate nāndíye mudé  
-yád īṃ gáchanti uśatī́r apiṣṭhitám  
+उपस्था꣡यं चरति य꣡त् समा꣡रत  
+सद्यो꣡ जात꣡स् तत्सार यु꣡जियेभिः  
+अभि꣡ श्वान्त꣡म् मृशते नान्दि꣡ये मुदे꣡  
+य꣡द् ईं ग꣡छन्ति उशती꣡र् अपिष्ठित꣡म्  

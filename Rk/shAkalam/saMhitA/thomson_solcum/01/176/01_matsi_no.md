@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mátsi no vásyaïṣṭaya  
-índram indo vŕ̥ṣā́ viśa  
-r̥ghāyámāṇa invasi  
-śátrum ánti ná vindasi  
+म꣡त्सि नो व꣡स्यïष्टय  
+इ꣡न्द्रम् इन्दो व्ŕ̥षा꣡ विश  
+ऋघाय꣡माण इन्वसि  
+श꣡त्रुम् अ꣡न्ति न꣡ विन्दसि  

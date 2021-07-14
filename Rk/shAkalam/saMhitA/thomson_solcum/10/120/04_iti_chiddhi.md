@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-íti cid dhí tvā dhánā jáyantam  
-máde-made anumádanti víprāḥ  
-ójīyo dhr̥ṣṇo sthirám ā́ tanuṣva  
-mā́ tvā dabhan yātudhā́nā durévāḥ  
+इ꣡ति चिद् धि꣡ त्वा ध꣡ना ज꣡यन्तम्  
+म꣡दे-मदे अनुम꣡दन्ति वि꣡प्राः  
+ओ꣡जीयो धृष्णो स्थिर꣡म् आ꣡ तनुष्व  
+मा꣡ त्वा दभन् यातुधा꣡ना दुरे꣡वाः  

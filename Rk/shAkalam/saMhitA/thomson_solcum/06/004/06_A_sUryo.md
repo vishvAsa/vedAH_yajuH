@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́ sū́riyo ná bhānumádbhir arkaír  
-ágne tatántha ródasī ví bhāsā́  
-citró nayat pári támāṃsi aktáḥ  
-śocíṣā pátmann auśijó ná dī́yan  
+आ꣡ सू꣡रियो न꣡ भानुम꣡द्भिर् अर्कइ꣡र्  
+अ꣡ग्ने तत꣡न्थ रो꣡दसी वि꣡ भासा꣡  
+चित्रो꣡ नयत् प꣡रि त꣡मांसि अक्तः꣡  
+शोचि꣡षा प꣡त्मन्न् औशिजो꣡ न꣡ दी꣡यन्  

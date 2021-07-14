@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ tiṣṭhataṃ suvŕ̥taṃ yó rátho vām  
-ánu vratā́ni vártate havíṣmān  
-yéna narā nāsatiyeṣayádhyai  
-vartír yāthás tánayāya tmáne ca  
+आ꣡ तिष्ठतं सुव्ŕ̥तं यो꣡ र꣡थो वाम्  
+अ꣡नु व्रता꣡नि व꣡र्तते हवि꣡ष्मान्  
+ये꣡न नरा नासतियेषय꣡ध्यै  
+वर्ति꣡र् याथ꣡स् त꣡नयाय त्म꣡ने च  

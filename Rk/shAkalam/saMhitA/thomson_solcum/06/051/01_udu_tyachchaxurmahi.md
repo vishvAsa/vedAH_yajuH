@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-úd u tyác cákṣur máhi mitráyor ā́m̐  
-éti priyáṃ váruṇayor ádabdham  
-r̥tásya śúci darśatám ánīkaṃ  
-rukmó ná divá úditā ví adyaut  
+उ꣡द् उ त्य꣡च् च꣡क्षुर् म꣡हि मित्र꣡योर् आँ꣡  
+ए꣡ति प्रियं꣡ व꣡रुणयोर् अ꣡दब्धम्  
+ऋत꣡स्य शु꣡चि दर्शत꣡म् अ꣡नीकं  
+रुक्मो꣡ न꣡ दिव꣡ उ꣡दिता वि꣡ अद्यौत्  

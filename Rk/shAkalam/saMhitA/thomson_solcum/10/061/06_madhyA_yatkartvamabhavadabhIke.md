@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-madhyā́ yát kártvam ábhavad abhī́ke  
-kā́maṃ kr̥ṇvāné pitári yuvatyā́m  
-manānág réto jahatur viyántā  
-sā́nau níṣiktaṃ sukr̥tásya yónau  
+मध्या꣡ य꣡त् क꣡र्त्वम् अ꣡भवद् अभी꣡के  
+का꣡मं कृण्वाने꣡ पित꣡रि युवत्या꣡म्  
+मनान꣡ग् रे꣡तो जहतुर् विय꣡न्ता  
+सा꣡नौ नि꣡षिक्तं सुकृत꣡स्य यो꣡नौ  

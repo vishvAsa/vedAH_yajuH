@@ -2,8 +2,8 @@
 title = "006"
 
 +++
-kád va r̥tásya dharṇasí  
-kád váruṇasya cákṣaṇam  
-kád aryamṇó mahás pathā́  
-áti krāmema dūḍhíyo  
-vittám me asyá rodasī  
+क꣡द् व ऋत꣡स्य धर्णसि꣡  
+क꣡द् व꣡रुणस्य च꣡क्षणम्  
+क꣡द् अर्यम्णो꣡ मह꣡स् पथा꣡  
+अ꣡ति क्रामेम दूढि꣡यो  
+वित्त꣡म् मे अस्य꣡ रोदसी  

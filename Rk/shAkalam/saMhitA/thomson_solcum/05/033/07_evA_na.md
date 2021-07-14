@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-evā́ na indara+ ūtíbhir ava  
-pāhí gr̥ṇatáḥ śūra kārū́n  
-utá tvácaṃ dádato vā́jasātau  
-piprīhí mádhvaḥ súṣutasya cā́roḥ  
+एवा꣡ न इन्दर+ ऊति꣡भिर् अव  
+पाहि꣡ गृणतः꣡ शूर कारू꣡न्  
+उत꣡ त्व꣡चं द꣡दतो वा꣡जसातौ  
+पिप्रीहि꣡ म꣡ध्वः सु꣡षुतस्य चा꣡रोः  

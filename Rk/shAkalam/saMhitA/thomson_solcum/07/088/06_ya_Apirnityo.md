@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yá āpír nítyo varuṇa priyáḥ sán  
-tuvā́m ā́gāṃsi kr̥ṇávat sákhā te  
-mā́ ta énasvanto yakṣin bhujema  
-yandhí ṣmā vípra stuvaté várūtham  
+य꣡ आपि꣡र् नि꣡त्यो वरुण प्रियः꣡ स꣡न्  
+तुवा꣡म् आ꣡गांसि कृण꣡वत् स꣡खा ते  
+मा꣡ त ए꣡नस्वन्तो यक्षिन् भुजेम  
+यन्धि꣡ ष्मा वि꣡प्र स्तुवते꣡ व꣡रूथम्  

@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-tántuṃ tanvānám uttamám  
-ánu praváta āśata  
-utédám uttamā́yiyam  
+त꣡न्तुं तन्वान꣡म् उत्तम꣡म्  
+अ꣡नु प्रव꣡त आशत  
+उते꣡द꣡म् उत्तमा꣡यियम्  

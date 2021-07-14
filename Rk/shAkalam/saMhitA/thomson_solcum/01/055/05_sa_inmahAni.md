@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá ín mahā́ni samithā́ni majmánā  
-kr̥ṇóti yudhmá ójasā jánebhiyaḥ  
-ádhā caná śrád dadhati tvíṣīmata  
-índrāya vájraṃ nighánighnate vadhám  
+स꣡ इ꣡न् महा꣡नि समिथा꣡नि मज्म꣡ना  
+कृणो꣡ति युध्म꣡ ओ꣡जसा ज꣡नेभियः  
+अ꣡धा चन꣡ श्र꣡द् दधति त्वि꣡षीमत  
+इ꣡न्द्राय व꣡ज्रं निघ꣡निघ्नते वध꣡म्  

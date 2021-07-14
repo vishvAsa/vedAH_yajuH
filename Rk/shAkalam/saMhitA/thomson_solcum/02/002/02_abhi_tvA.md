@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-abhí tvā náktīr uṣáso vavāśire  
-ágne vatsáṃ ná svásareṣu dhenávaḥ  
-divá ivéd aratír mā́nuṣā yugā́  
-kṣápo bhãsi puruvāra saṃyátaḥ  
+अभि꣡ त्वा न꣡क्तीर् उष꣡सो ववाशिरे  
+अ꣡ग्ने वत्सं꣡ न꣡ स्व꣡सरेषु धेन꣡वः  
+दिव꣡ इवे꣡द् अरति꣡र् मा꣡नुषा युगा꣡  
+क्ष꣡पो भ्ãसि पुरुवार संय꣡तः  

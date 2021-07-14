@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-abhí dyā́m mahinā́ bhuvam  
-abhī́mā́m pr̥thivī́m mahī́m  
-kuvít sómasyā́pām íti  
+अभि꣡ द्या꣡म् महिना꣡ भुवम्  
+अभी꣡मा꣡म् पृथिवी꣡म् मही꣡म्  
+कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति  

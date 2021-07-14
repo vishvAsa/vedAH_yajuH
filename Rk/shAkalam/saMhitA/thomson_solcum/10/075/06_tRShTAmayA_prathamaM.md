@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tr̥ṣṭā́mayā prathamáṃ yā́tave sajū́ḥ  
-susártuvā rasáyā śvetiyā́ tiyā́  
-tuváṃ sindho kúbhayā gomatī́ṃ krúmum  
-mehatnuvā́ saráthaṃ yā́bhir ī́yase  
+तृष्टा꣡मया प्रथमं꣡ या꣡तवे सजूः꣡  
+सुस꣡र्तुवा रस꣡या श्वेतिया꣡ तिया꣡  
+तुवं꣡ सिन्धो कु꣡भया गोमतीं꣡ क्रु꣡मुम्  
+मेहत्नुवा꣡ सर꣡थं या꣡भिर् ई꣡यसे  

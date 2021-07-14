@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-áyāma dhī́vato dhíyo  
-árvadbhiḥ śakra godare  
-jáyema pr̥tsú vajrivaḥ  
+अ꣡याम धी꣡वतो धि꣡यो  
+अ꣡र्वद्भिः शक्र गोदरे  
+ज꣡येम पृत्सु꣡ वज्रिवः  

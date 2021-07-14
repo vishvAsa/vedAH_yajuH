@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-trídhā hitám paṇíbhir guhyámānaṃ  
-gávi devā́so ghr̥tám ánv avindan  
-índra ékaṃ sū́rya ékaṃ jajāna  
-venā́d ékaṃ svadháyā níṣ ṭatakṣuḥ  
+त्रि꣡धा हित꣡म् पणि꣡भिर् गुह्य꣡मानं  
+ग꣡वि देवा꣡सो घृत꣡म् अ꣡न्व् अविन्दन्  
+इ꣡न्द्र ए꣡कं सू꣡र्य ए꣡कं जजान  
+वेना꣡द् ए꣡कं स्वध꣡या नि꣡ष् टतक्षुः  

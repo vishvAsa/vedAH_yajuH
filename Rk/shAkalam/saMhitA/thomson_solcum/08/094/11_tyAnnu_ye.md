@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-tiyā́n nú yé ví ródasī  
-tastabhúr marúto huve  
-asyá sómasya pītáye  
+तिया꣡न् नु꣡ ये꣡ वि꣡ रो꣡दसी  
+तस्तभु꣡र् मरु꣡तो हुवे  
+अस्य꣡ सो꣡मस्य पीत꣡ये  

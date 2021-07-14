@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-abhí gotrā́ṇi sáhasā gā́hamāno  
-adayó vīráḥ śatámanyur índraḥ  
-duścyavanáḥ pr̥tanāṣā́ḷ ayudhyó  
-asmā́kaṃ sénā avatu prá yutsú  
+अभि꣡ गोत्रा꣡णि स꣡हसा गा꣡हमानो  
+अदयो꣡ वीरः꣡ शत꣡मन्युर् इ꣡न्द्रः  
+दुश्च्यवनः꣡ पृतनाषा꣡ऌ अयुध्यो꣡  
+अस्मा꣡कं से꣡ना अवतु प्र꣡ युत्सु꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-adŕ̥ṣṭān hanti āyatī́  
-átho hanti parāyatī́  
-átho avaghnatī́ hanti  
-átho pinaṣṭi piṃṣatī́  
+अद्ŕ̥ष्टान् हन्ति आयती꣡  
+अ꣡थो हन्ति परायती꣡  
+अ꣡थो अवघ्नती꣡ हन्ति  
+अ꣡थो पिनष्टि पिंषती꣡  

@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-ánu pratnásya ókasaḥ  
-priyámedhāsa eṣãm  
-pū́rvām ánu práyatiṃ vr̥ktábarhiṣo  
-hitáprayasa āśata  
+अ꣡नु प्रत्न꣡स्य ओ꣡कसः  
+प्रिय꣡मेधास एष्ãम्  
+पू꣡र्वाम् अ꣡नु प्र꣡यतिं वृक्त꣡बर्हिषो  
+हित꣡प्रयस आशत  

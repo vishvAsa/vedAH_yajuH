@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-bráhma gā́m áśvaṃ janáyanta óṣadhīr  
-vánaspátīn pr̥thivī́m párvatām̐ apáḥ  
-sū́ryaṃ diví roháyantaḥ sudā́nava  
-ā́ryā vratā́ visr̥jánto ádhi kṣámi  
+ब्र꣡ह्म गा꣡म् अ꣡श्वं जन꣡यन्त ओ꣡षधीर्  
+व꣡नस्प꣡तीन् पृथिवी꣡म् प꣡र्वताँ अपः꣡  
+सू꣡र्यं दिवि꣡ रोह꣡यन्तः सुदा꣡नव  
+आ꣡र्या व्रता꣡ विसृज꣡न्तो अ꣡धि क्ष꣡मि  

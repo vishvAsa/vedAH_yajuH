@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ábhrāji śárdho maruto yád arṇasám  
-móṣathā vr̥kṣáṃ kapanéva vedhasaḥ  
-ádha smā no arámatiṃ sajoṣasaś  
-cákṣur 'va° yántam ánu neṣathā sugám  
+अ꣡भ्राजि श꣡र्धो मरुतो य꣡द् अर्णस꣡म्  
+मो꣡षथा वृक्षं꣡ कपने꣡व वेधसः  
+अ꣡ध स्मा नो अर꣡मतिं सजोषसश्  
+च꣡क्षुर् ऽव° य꣡न्तम् अ꣡नु नेषथा सुग꣡म्  

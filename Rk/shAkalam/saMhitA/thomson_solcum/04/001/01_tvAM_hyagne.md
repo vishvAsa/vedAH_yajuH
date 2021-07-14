@@ -2,9 +2,9 @@
 title = "001"
 
 +++
-tuvā́ṃ hí agne sádam ít samanyávo  
-devā́so devám aratíṃ nierirá  
-íti krátvā nieriré  
-ámartiyaṃ yajata mártiyeṣu ā́  
-devám ā́devaṃ janata prácetasaṃ  
-víśvam ā́devaṃ janata prácetasam  
+तुवां꣡ हि꣡ अग्ने स꣡दम् इ꣡त् समन्य꣡वो  
+देवा꣡सो देव꣡म् अरतिं꣡ निएरिर꣡  
+इ꣡ति क्र꣡त्वा निएरिरे꣡  
+अ꣡मर्तियं यजत म꣡र्तियेषु आ꣡  
+देव꣡म् आ꣡देवं जनत प्र꣡चेतसं  
+वि꣡श्वम् आ꣡देवं जनत प्र꣡चेतसम्  

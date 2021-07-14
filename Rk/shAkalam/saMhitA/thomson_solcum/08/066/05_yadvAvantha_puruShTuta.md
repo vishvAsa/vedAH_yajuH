@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yád vāvántha puruṣṭuta  
-purā́ cic chūra nr̥̄ṇã́m+  
-vayáṃ tát ta indara+ sám bharāmasi  
-yajñám uktháṃ turáṃ vácaḥ  
+य꣡द् वाव꣡न्थ पुरुष्टुत  
+पुरा꣡ चिच् छूर नॄण्ã꣡म्+  
+वयं꣡ त꣡त् त इन्दर+ स꣡म् भरामसि  
+यज्ञ꣡म् उक्थं꣡ तुरं꣡ व꣡चः  

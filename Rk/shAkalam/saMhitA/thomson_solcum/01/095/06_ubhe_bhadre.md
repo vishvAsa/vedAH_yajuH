@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ubhé bhadré joṣayete ná méne  
-gā́vo ná vāśrā́ úpa tasthur évaiḥ  
-sá dákṣāṇāṃ dákṣapatir babhūva  
-añjánti yáṃ dakṣiṇató havírbhiḥ  
+उभे꣡ भद्रे꣡ जोषयेते न꣡ मे꣡ने  
+गा꣡वो न꣡ वाश्रा꣡ उ꣡प तस्थुर् ए꣡वैः  
+स꣡ द꣡क्षाणां द꣡क्षपतिर् बभूव  
+अञ्ज꣡न्ति यं꣡ दक्षिणतो꣡ हवि꣡र्भिः  

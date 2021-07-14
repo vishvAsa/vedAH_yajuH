@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mándantu tvā maghavann indra índavo  
-rādhodéyāya sunvaté  
-āmúṣyā sómam apibaś camū́ sutáṃ  
-jyéṣṭhaṃ tád dadhiṣe sáhaḥ  
+म꣡न्दन्तु त्वा मघवन्न् इन्द्र इ꣡न्दवो  
+राधोदे꣡याय सुन्वते꣡  
+आमु꣡ष्या सो꣡मम् अपिबश् चमू꣡ सुतं꣡  
+ज्ये꣡ष्ठं त꣡द् दधिषे स꣡हः  

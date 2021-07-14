@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-sómo dhenúṃ sómo árvantam āśúṃ  
-sómo vīráṃ karmaṇíyaṃ dadāti  
-sādaníyaṃ vidathíyaṃ sabhéyam  
-pitr̥śrávaṇaṃ yó dádāśad asmai  
+सो꣡मो धेनुं꣡ सो꣡मो अ꣡र्वन्तम् आशुं꣡  
+सो꣡मो वीरं꣡ कर्मणि꣡यं ददाति  
+सादनि꣡यं विदथि꣡यं सभे꣡यम्  
+पितृश्र꣡वणं यो꣡ द꣡दाशद् अस्मै  

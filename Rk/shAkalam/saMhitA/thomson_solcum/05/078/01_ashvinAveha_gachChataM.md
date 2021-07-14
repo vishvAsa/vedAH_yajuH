@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-áśvināv éhá gachataṃ  
-nā́satyā mā́ ví venatam  
-haṃsā́v iva patatam ā́ sutā́m̐ úpa  
+अ꣡श्विनाव् ए꣡ह꣡ गछतं  
+ना꣡सत्या मा꣡ वि꣡ वेनतम्  
+हंसा꣡व् इव पततम् आ꣡ सुताँ꣡ उ꣡प  

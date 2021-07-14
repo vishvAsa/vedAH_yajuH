@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-dāmā́naṃ viśvacarṣaṇe  
-agníṃ viśvamano girā́  
-utá stuṣe víṣpardhaso ráthānãm  
+दामा꣡नं विश्वचर्षणे  
+अग्निं꣡ विश्वमनो गिरा꣡  
+उत꣡ स्तुषे वि꣡ष्पर्धसो र꣡थान्ãम्  

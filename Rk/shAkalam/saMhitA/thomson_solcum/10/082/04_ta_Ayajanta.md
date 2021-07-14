@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tá ā́yajanta dráviṇaṃ sám asmā  
-ŕ̥ṣayaḥ pū́rve jaritā́ro ná bhūnā́  
-asū́rte sū́rte rájasi niṣatté  
-yé bhūtā́ni samákr̥ṇvann imā́ni  
+त꣡ आ꣡यजन्त द्र꣡विणं स꣡म् अस्मा  
+ŕ̥षयः पू꣡र्वे जरिता꣡रो न꣡ भूना꣡  
+असू꣡र्ते सू꣡र्ते र꣡जसि निषत्ते꣡  
+ये꣡ भूता꣡नि सम꣡कृण्वन्न् इमा꣡नि  

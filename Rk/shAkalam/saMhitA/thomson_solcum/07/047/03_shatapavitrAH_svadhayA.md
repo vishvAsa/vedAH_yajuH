@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śatápavitrāḥ svadháyā mádantīr  
-devī́r devā́nām ápi yanti pā́thaḥ  
-tā́ índrasya ná minanti vratā́ni  
-síndhubhyo havyáṃ ghr̥távaj juhota  
+शत꣡पवित्राः स्वध꣡या म꣡दन्तीर्  
+देवी꣡र् देवा꣡नाम् अ꣡पि यन्ति पा꣡थः  
+ता꣡ इ꣡न्द्रस्य न꣡ मिनन्ति व्रता꣡नि  
+सि꣡न्धुभ्यो हव्यं꣡ घृत꣡वज् जुहोत  

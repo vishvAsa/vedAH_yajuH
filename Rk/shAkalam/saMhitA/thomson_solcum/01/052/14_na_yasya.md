@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ná yásya dyā́vāpr̥thivī́ ánu vyáco  
-ná síndhavo rájaso ántam ānaśúḥ  
-nótá svávr̥ṣṭim máde asya yúdhyata  
-éko anyác cakr̥ṣe víśvam ānuṣák  
+न꣡ य꣡स्य द्या꣡वापृथिवी꣡ अ꣡नु व्य꣡चो  
+न꣡ सि꣡न्धवो र꣡जसो अ꣡न्तम् आनशुः꣡  
+नो꣡त꣡ स्व꣡वृष्टिम् म꣡दे अस्य यु꣡ध्यत  
+ए꣡को अन्य꣡च् चकृषे वि꣡श्वम् आनुष꣡क्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-té ācárantī sámaneva yóṣā  
-mātéva putrám bibhr̥tām upásthe  
-ápa śátrūn vidhyatāṃ saṃvidāné  
-ā́rtnī imé viṣphurántī amítrān  
+ते꣡ आच꣡रन्ती स꣡मनेव यो꣡षा  
+माते꣡व पुत्र꣡म् बिभृताम् उप꣡स्थे  
+अ꣡प श꣡त्रून् विध्यतां संविदाने꣡  
+आ꣡र्त्नी इमे꣡ विष्फुर꣡न्ती अमि꣡त्रान्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prayántam ít pári jāráṃ kanī́nām  
-páśyāmasi nópanipádyamānam  
-ánavapr̥gṇā vítatā vásānam  
-priyám mitrásya váruṇasya dhā́ma  
+प्रय꣡न्तम् इ꣡त् प꣡रि जारं꣡ कनी꣡नाम्  
+प꣡श्यामसि नो꣡पनिप꣡द्यमानम्  
+अ꣡नवपृग्णा वि꣡तता व꣡सानम्  
+प्रिय꣡म् मित्र꣡स्य व꣡रुणस्य धा꣡म  

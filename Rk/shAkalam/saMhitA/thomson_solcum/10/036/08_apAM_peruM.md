@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-apā́m péruṃ jīvádhanyam bharāmahe  
-devāvíyaṃ suhávam adhvaraśríyam  
-suraśmíṃ sómam indriyáṃ yamīmahi  
-tád devā́nām ávo adyā́ vr̥ṇīmahe  
+अपा꣡म् पे꣡रुं जीव꣡धन्यम् भरामहे  
+देवावि꣡यं सुह꣡वम् अध्वरश्रि꣡यम्  
+सुरश्मिं꣡ सो꣡मम् इन्द्रियं꣡ यमीमहि  
+त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे  

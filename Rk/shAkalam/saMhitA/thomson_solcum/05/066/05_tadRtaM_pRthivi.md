@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tád r̥tám pr̥thivi br̥hác  
-chravaeṣá ŕ̥ṣīṇãm  
-jrayasānā́v áram pr̥thú  
-áti kṣaranti yā́mabhiḥ  
+त꣡द् ऋत꣡म् पृथिवि बृह꣡च्  
+छ्रवएष꣡ ŕ̥षीण्ãम्  
+ज्रयसाना꣡व् अ꣡रम् पृथु꣡  
+अ꣡ति क्षरन्ति या꣡मभिः  

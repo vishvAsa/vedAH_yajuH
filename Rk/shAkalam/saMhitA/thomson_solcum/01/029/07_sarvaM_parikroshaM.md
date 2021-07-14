@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-sárvam parikrośáṃ jahi  
-jambháyā kr̥kadāśúvam  
-ā́ tū́ na indra śaṃsaya  
-góṣu áśveṣu śubhríṣu  
-sahásreṣu tuvīmagha  
+स꣡र्वम् परिक्रोशं꣡ जहि  
+जम्भ꣡या कृकदाशु꣡वम्  
+आ꣡ तू꣡ न इन्द्र शंसय  
+गो꣡षु अ꣡श्वेषु शुभ्रि꣡षु  
+सह꣡स्रेषु तुवीमघ  

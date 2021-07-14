@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yuváṃ varo suṣā́maṇe  
-mahé táne nāsatiyā  
-ávobhir yātho vr̥ṣaṇā vr̥ṣaṇvasū  
+युवं꣡ वरो सुषा꣡मणे  
+महे꣡ त꣡ने नासतिया  
+अ꣡वोभिर् याथो वृषणा वृषण्वसू  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áva sr̥ja púnar agne pitŕ̥bhyo  
-yás ta ā́hutaś cárati svadhā́bhiḥ  
-ā́yur vásāna úpa vetu śéṣaḥ  
-sáṃ gachatāṃ tanúvā jātavedaḥ  
+अ꣡व सृज पु꣡नर् अग्ने पित्ŕ̥भ्यो  
+य꣡स् त आ꣡हुतश् च꣡रति स्वधा꣡भिः  
+आ꣡युर् व꣡सान उ꣡प वेतु शे꣡षः  
+सं꣡ गछतां तनु꣡वा जातवेदः  

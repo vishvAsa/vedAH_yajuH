@@ -2,7 +2,7 @@
 title = "030"
 
 +++
-yát tvā pr̥chā́d ījānáḥ  
-kuhayā́ kuhayākr̥te  
-eṣó ápaśrito való  
-gomatī́m áva tiṣṭhati  
+य꣡त् त्वा पृछा꣡द् ईजानः꣡  
+कुहया꣡ कुहयाकृते  
+एषो꣡ अ꣡पश्रितो वलो꣡  
+गोमती꣡म् अ꣡व तिष्ठति  

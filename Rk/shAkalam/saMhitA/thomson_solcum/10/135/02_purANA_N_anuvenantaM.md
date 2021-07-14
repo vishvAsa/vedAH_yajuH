@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-purāṇā́m̐ anuvénantaṃ  
-cárantam pāpáyāmuyā́  
-asūyánn abhy àcākaśaṃ  
-tásmā aspr̥hayam púnaḥ  
+पुराणाँ꣡ अनुवे꣡नन्तं  
+च꣡रन्तम् पाप꣡यामुया꣡  
+असूय꣡न्न् अभ्य् अ᳡चाकशं  
+त꣡स्मा अस्पृहयम् पु꣡नः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-pári dyukṣáṃ sáhasaḥ parvatāvŕ̥dham  
-mádhvaḥ siñcanti harmiyásya sakṣáṇim  
-ā́ yásmin gā́vaḥ suhutā́da ū́dhani  
-mūrdháñ chrīṇánti agriyáṃ várīmabhiḥ  
+प꣡रि द्युक्षं꣡ स꣡हसः पर्वताव्ŕ̥धम्  
+म꣡ध्वः सिञ्चन्ति हर्मिय꣡स्य सक्ष꣡णिम्  
+आ꣡ य꣡स्मिन् गा꣡वः सुहुता꣡द ऊ꣡धनि  
+मूर्ध꣡ञ् छ्रीण꣡न्ति अग्रियं꣡ व꣡रीमभिः  

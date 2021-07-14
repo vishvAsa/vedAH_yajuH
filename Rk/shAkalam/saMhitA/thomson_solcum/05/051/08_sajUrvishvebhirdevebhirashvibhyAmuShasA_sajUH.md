@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-sajū́r víśvebhir devébhir  
-aśvíbhyām uṣásā sajū́ḥ  
-ā́ yāhi agne atrivát suté raṇa  
+सजू꣡र् वि꣡श्वेभिर् देवे꣡भिर्  
+अश्वि꣡भ्याम् उष꣡सा सजूः꣡  
+आ꣡ याहि अग्ने अत्रिव꣡त् सुते꣡ रण  

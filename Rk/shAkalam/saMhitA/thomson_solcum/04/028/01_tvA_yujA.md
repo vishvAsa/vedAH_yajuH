@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tuvā́ yujā́ táva tát soma sakhyá  
-índro apó mánave sasrútas kaḥ  
-áhann áhim áriṇāt saptá síndhūn  
-ápāvr̥ṇod ápihiteva khā́ni  
+तुवा꣡ युजा꣡ त꣡व त꣡त् सोम सख्य꣡  
+इ꣡न्द्रो अपो꣡ म꣡नवे सस्रु꣡तस् कः  
+अ꣡हन्न् अ꣡हिम् अ꣡रिणात् सप्त꣡ सि꣡न्धून्  
+अ꣡पावृणोद् अ꣡पिहितेव खा꣡नि  

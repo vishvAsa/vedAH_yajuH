@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-nahí vām ásti dūraké  
-yátrā ráthena gáchathaḥ  
-áśvinā somíno gr̥hám  
+नहि꣡ वाम् अ꣡स्ति दूरके꣡  
+य꣡त्रा र꣡थेन ग꣡छथः  
+अ꣡श्विना सोमि꣡नो गृह꣡म्  

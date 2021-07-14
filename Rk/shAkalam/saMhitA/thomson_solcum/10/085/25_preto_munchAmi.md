@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-prétó muñcā́mi nā́mútaḥ  
-subaddhā́m amútas karam  
-yátheyám indra mīḍhuvaḥ  
-suputrā́ subhágā́sati  
+प्रे꣡तो꣡ मुञ्चा꣡मि ना꣡मु꣡तः  
+सुबद्धा꣡म् अमु꣡तस् करम्  
+य꣡थेय꣡म् इन्द्र मीढुवः  
+सुपुत्रा꣡ सुभ꣡गा꣡सति  

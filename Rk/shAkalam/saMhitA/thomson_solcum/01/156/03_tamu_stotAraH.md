@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tám u stotāraḥ pūrviyáṃ yáthā vidá  
-r̥tásya gárbhaṃ janúṣā pipartana  
-ā́sya jānánto nā́ma cid vivaktana  
-mahás te viṣṇo sumatím bhajāmahe  
+त꣡म् उ स्तोतारः पूर्वियं꣡ य꣡था विद꣡  
+ऋत꣡स्य ग꣡र्भं जनु꣡षा पिपर्तन  
+आ꣡स्य जान꣡न्तो ना꣡म चिद् विवक्तन  
+मह꣡स् ते विष्णो सुमति꣡म् भजामहे  

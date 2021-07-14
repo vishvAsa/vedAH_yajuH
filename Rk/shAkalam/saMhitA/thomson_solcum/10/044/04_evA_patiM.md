@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-evā́ pátiṃ droṇasā́caṃ sácetasam  
-ūrjá skambháṃ dharúṇa ā́ vr̥ṣāyase  
-ójaḥ kr̥ṣva sáṃ gr̥bhāya tuvé ápi  
-áso yáthā kenipā́nām inó vr̥dhé  
+एवा꣡ प꣡तिं द्रोणसा꣡चं स꣡चेतसम्  
+ऊर्ज꣡ स्कम्भं꣡ धरु꣡ण आ꣡ वृषायसे  
+ओ꣡जः कृष्व सं꣡ गृभाय तुवे꣡ अ꣡पि  
+अ꣡सो य꣡था केनिपा꣡नाम् इनो꣡ वृधे꣡  

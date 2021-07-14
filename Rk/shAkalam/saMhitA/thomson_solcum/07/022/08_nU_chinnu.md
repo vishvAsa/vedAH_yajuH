@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-nū́ cin nú te mányamānasya dasma  
-úd aśnuvanti mahimā́nam ugra  
-ná vīríyam indara+ te ná rā́dhaḥ  
+नू꣡ चिन् नु꣡ ते म꣡न्यमानस्य दस्म  
+उ꣡द् अश्नुवन्ति महिमा꣡नम् उग्र  
+न꣡ वीरि꣡यम् इन्दर+ ते न꣡ रा꣡धः  

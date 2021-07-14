@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tuvám agne prathamó áṅgirā ŕ̥ṣir  
-devó devā́nām abhavaḥ śiváḥ sákhā  
-táva vraté kaváyo vidmanā́paso  
-ájāyanta marúto bhrā́jadr̥ṣṭayaḥ  
+तुव꣡म् अग्ने प्रथमो꣡ अ꣡ङ्गिरा ŕ̥षिर्  
+देवो꣡ देवा꣡नाम् अभवः शिवः꣡ स꣡खा  
+त꣡व व्रते꣡ कव꣡यो विद्मना꣡पसो  
+अ꣡जायन्त मरु꣡तो भ्रा꣡जदृष्टयः  

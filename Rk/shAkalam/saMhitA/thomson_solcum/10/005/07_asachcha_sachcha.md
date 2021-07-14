@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ásac ca sác ca paramé víoman  
-dákṣasya jánmann áditer upásthe  
-agnír ha naḥ prathamajā́ r̥tásya  
-pū́rva ā́yuni vr̥ṣabháś ca dhenúḥ  
+अ꣡सच् च स꣡च् च परमे꣡ वि꣡ओमन्  
+द꣡क्षस्य ज꣡न्मन्न् अ꣡दितेर् उप꣡स्थे  
+अग्नि꣡र् ह नः प्रथमजा꣡ ऋत꣡स्य  
+पू꣡र्व आ꣡युनि वृषभ꣡श् च धेनुः꣡  

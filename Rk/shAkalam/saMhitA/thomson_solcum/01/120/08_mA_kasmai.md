@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-mā́ kásmai dhātam abhy àmitríṇe no  
-mā́kútrā no gr̥hébhyo dhenávo guḥ  
-stanābhújo áśiśvīḥ  
+मा꣡ क꣡स्मै धातम् अभ्य् अ᳡मित्रि꣡णे नो  
+मा꣡कु꣡त्रा नो गृहे꣡भ्यो धेन꣡वो गुः  
+स्तनाभु꣡जो अ꣡शिश्वीः  

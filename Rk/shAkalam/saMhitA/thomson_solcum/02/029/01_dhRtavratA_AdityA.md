@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-dhŕ̥tavratā ā́ditiyā íṣirā  
-āré mát karta rahasū́r ivā́gaḥ  
-śr̥ṇvató vo váruṇa mítra dévā  
-bhadrásya vidvā́m̐ ávase huve vaḥ  
+ध्ŕ̥तव्रता आ꣡दितिया इ꣡षिरा  
+आरे꣡ म꣡त् कर्त रहसू꣡र् इवा꣡गः  
+शृण्वतो꣡ वो व꣡रुण मि꣡त्र दे꣡वा  
+भद्र꣡स्य विद्वाँ꣡ अ꣡वसे हुवे वः  

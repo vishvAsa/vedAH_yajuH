@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-yó yájāti yájāta ít  
-sunávac ca pácāti ca  
-brahméd índrasya cākanat  
+यो꣡ य꣡जाति य꣡जात इ꣡त्  
+सुन꣡वच् च प꣡चाति च  
+ब्रह्मे꣡द् इ꣡न्द्रस्य चाकनत्  

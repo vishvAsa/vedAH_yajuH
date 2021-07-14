@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-utá yóṣaṇe diviyé mahī́ na  
-uṣā́sānáktā sudúgheva dhenúḥ  
-barhiṣádā puruhūté maghónī  
-ā́ yajñíye suvitā́ya śrayetām  
+उत꣡ यो꣡षणे दिविये꣡ मही꣡ न  
+उषा꣡सान꣡क्ता सुदु꣡घेव धेनुः꣡  
+बर्हिष꣡दा पुरुहूते꣡ मघो꣡नी  
+आ꣡ यज्ञि꣡ये सुविता꣡य श्रयेताम्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-devā́nām bhadrā́ sumatír r̥jūyatā́ṃ  
-devā́nāṃ rātír abhí no ní vartatām  
-devā́nāṃ sakhyám úpa sedimā vayáṃ  
-devā́ na ā́yuḥ prá tirantu jīváse  
+देवा꣡नाम् भद्रा꣡ सुमति꣡र् ऋजूयतां꣡  
+देवा꣡नां राति꣡र् अभि꣡ नो नि꣡ वर्तताम्  
+देवा꣡नां सख्य꣡म् उ꣡प सेदिमा वयं꣡  
+देवा꣡ न आ꣡युः प्र꣡ तिरन्तु जीव꣡से  

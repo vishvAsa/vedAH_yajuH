@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-divā́ yānti marúto bhū́miyāgnír  
-ayáṃ vā́to antárikṣeṇa yāti  
-adbhír yāti · váruṇaḥ samudraír  
-yuṣmā́m̐ ichántaḥ śavaso napātaḥ  
+दिवा꣡ यान्ति मरु꣡तो भू꣡मियाग्नि꣡र्  
+अयं꣡ वा꣡तो अन्त꣡रिक्षेण याति  
+अद्भि꣡र् याति · व꣡रुणः समुद्रइ꣡र्  
+युष्माँ꣡ इछ꣡न्तः शवसो नपातः  

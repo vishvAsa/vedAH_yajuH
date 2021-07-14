@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ayáṃ venáś codayat pŕ̥śnigarbhā  
-jyótirjarāyū rájaso vimā́ne  
-imám apā́ṃ saṃgamé sū́riyasya  
-śíśuṃ ná víprā matíbhī rihanti  
+अयं꣡ वेन꣡श् चोदयत् प्ŕ̥श्निगर्भा  
+ज्यो꣡तिर्जरायू र꣡जसो विमा꣡ने  
+इम꣡म् अपां꣡ संगमे꣡ सू꣡रियस्य  
+शि꣡शुं न꣡ वि꣡प्रा मति꣡भी रिहन्ति  

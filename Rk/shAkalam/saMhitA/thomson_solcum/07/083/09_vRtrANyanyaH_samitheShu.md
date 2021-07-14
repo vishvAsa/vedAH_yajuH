@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-vr̥trā́ṇi anyáḥ samithéṣu jíghnate  
-vratā́ni anyó abhí rakṣate sádā  
-hávāmahe vāṃ vr̥ṣaṇā suvr̥ktíbhir  
-asmé indrāvaruṇā śárma yachatam  
+वृत्रा꣡णि अन्यः꣡ समिथे꣡षु जि꣡घ्नते  
+व्रता꣡नि अन्यो꣡ अभि꣡ रक्षते स꣡दा  
+ह꣡वामहे वां वृषणा सुवृक्ति꣡भिर्  
+अस्मे꣡ इन्द्रावरुणा श꣡र्म यछतम्  

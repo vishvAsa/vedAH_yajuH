@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ádhvaryavo yáḥ śatáṃ śámbarasya  
-púro bibhéda áśmaneva pūrvī́ḥ  
-yó varcínaḥ śatám índraḥ sahásram  
-apā́vapad bháratā sómam asmai  
+अ꣡ध्वर्यवो यः꣡ शतं꣡ श꣡म्बरस्य  
+पु꣡रो बिभे꣡द अ꣡श्मनेव पूर्वीः꣡  
+यो꣡ वर्चि꣡नः शत꣡म् इ꣡न्द्रः सह꣡स्रम्  
+अपा꣡वपद् भ꣡रता सो꣡मम् अस्मै  

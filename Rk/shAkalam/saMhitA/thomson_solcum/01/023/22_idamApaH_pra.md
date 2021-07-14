@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-idám āpaḥ prá vahata  
-yát kíṃ ca duritám máyi  
-yád vāhám abhidudróha  
-yád vā śepá utā́nr̥tam  
+इद꣡म् आपः प्र꣡ वहत  
+य꣡त् किं꣡ च दुरित꣡म् म꣡यि  
+य꣡द् वाह꣡म् अभिदुद्रो꣡ह  
+य꣡द् वा शेप꣡ उता꣡नृतम्  

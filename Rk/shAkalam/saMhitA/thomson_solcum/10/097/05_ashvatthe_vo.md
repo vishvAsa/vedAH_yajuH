@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-aśvatthé vo niṣádanam  
-parṇé vo vasatíṣ kr̥tā́  
-gobhā́ja ít kílāsatha  
-yát sanávatha pū́ruṣam  
+अश्वत्थे꣡ वो निष꣡दनम्  
+पर्णे꣡ वो वसति꣡ष् कृता꣡  
+गोभा꣡ज इ꣡त् कि꣡लासथ  
+य꣡त् सन꣡वथ पू꣡रुषम्  

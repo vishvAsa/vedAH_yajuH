@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sánā tā́ ta indara+ bhójanāni  
-rātáhavyāya dāśúṣe sudā́se  
-vŕ̥ṣṇe te hárī vŕ̥ṣaṇā yunajmi  
-vyántu bráhmāṇi puruśāka vā́jam  
+स꣡ना ता꣡ त इन्दर+ भो꣡जनानि  
+रात꣡हव्याय दाशु꣡षे सुदा꣡से  
+व्ŕ̥ष्णे ते ह꣡री व्ŕ̥षणा युनज्मि  
+व्य꣡न्तु ब्र꣡ह्माणि पुरुशाक वा꣡जम्  

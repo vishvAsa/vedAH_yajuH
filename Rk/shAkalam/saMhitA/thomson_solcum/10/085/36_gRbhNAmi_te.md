@@ -2,7 +2,7 @@
 title = "036"
 
 +++
-gr̥bhṇā́mi te saubhagatvā́ya hástam  
-máyā pátyā jarádaṣṭir yáthā́saḥ  
-bhágo aryamā́ savitā́ púraṃdhir  
-máhyaṃ tvādur gā́rhapatyāya devā́ḥ  
+गृभ्णा꣡मि ते सौभगत्वा꣡य ह꣡स्तम्  
+म꣡या प꣡त्या जर꣡दष्टिर् य꣡था꣡सः  
+भ꣡गो अर्यमा꣡ सविता꣡ पु꣡रंधिर्  
+म꣡ह्यं त्वादुर् गा꣡र्हपत्याय देवाः꣡  

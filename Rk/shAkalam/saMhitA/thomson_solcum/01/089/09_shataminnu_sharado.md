@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-śatám ín nú śarádo ánti devā  
-yátrā naś cakrā́ jarásaṃ tanū́nām  
-putrā́so yátra pitáro bhávanti  
-mā́ no madhyā́ rīriṣatā́yu° gántoḥ  
+शत꣡म् इ꣡न् नु꣡ शर꣡दो अ꣡न्ति देवा  
+य꣡त्रा नश् चक्रा꣡ जर꣡सं तनू꣡नाम्  
+पुत्रा꣡सो य꣡त्र पित꣡रो भ꣡वन्ति  
+मा꣡ नो मध्या꣡ रीरिषता꣡यु° ग꣡न्तोः  

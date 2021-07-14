@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áditir hí ájaniṣṭa  
-dákṣa yā́ duhitā́ táva  
-tā́ṃ devā́ ánv ajāyanta  
-bhadrā́ amŕ̥tabandhavaḥ  
+अ꣡दितिर् हि꣡ अ꣡जनिष्ट  
+द꣡क्ष या꣡ दुहिता꣡ त꣡व  
+तां꣡ देवा꣡ अ꣡न्व् अजायन्त  
+भद्रा꣡ अम्ŕ̥तबन्धवः  

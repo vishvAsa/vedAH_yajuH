@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-asmā́kam ít sú śr̥ṇuhi tvám indra  
-asmábhyaṃ citrā́m̐ úpa māhi vā́jān  
-asmábhyaṃ víśvā iṣaṇaḥ púraṃdhīr  
-asmā́kaṃ sú maghavan bodhi godā́ḥ  
+अस्मा꣡कम् इ꣡त् सु꣡ शृणुहि त्व꣡म् इन्द्र  
+अस्म꣡भ्यं चित्राँ꣡ उ꣡प माहि वा꣡जान्  
+अस्म꣡भ्यं वि꣡श्वा इषणः पु꣡रंधीर्  
+अस्मा꣡कं सु꣡ मघवन् बोधि गोदाः꣡  

@@ -2,6 +2,6 @@
 title = "032"
 
 +++
-tuváṃ táṃ deva jihváyā  
-pári bādhasva duṣkŕ̥tam  
-márto yó no jíghāṃsati  
+तुवं꣡ तं꣡ देव जिह्व꣡या  
+प꣡रि बाधस्व दुष्क्ŕ̥तम्  
+म꣡र्तो यो꣡ नो जि꣡घांसति  

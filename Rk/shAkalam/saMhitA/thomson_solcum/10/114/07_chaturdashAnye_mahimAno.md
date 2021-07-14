@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-cáturdaśānyé mahimā́no asya  
-táṃ dhī́rā vācā́ prá ṇayanti saptá  
-ā́pnānaṃ tīrtháṃ ká ihá prá vocad  
-yéna pathā́ prapíbante sutásya  
+च꣡तुर्दशान्ये꣡ महिमा꣡नो अस्य  
+तं꣡ धी꣡रा वाचा꣡ प्र꣡ णयन्ति सप्त꣡  
+आ꣡प्नानं तीर्थं꣡ क꣡ इह꣡ प्र꣡ वोचद्  
+ये꣡न पथा꣡ प्रपि꣡बन्ते सुत꣡स्य  

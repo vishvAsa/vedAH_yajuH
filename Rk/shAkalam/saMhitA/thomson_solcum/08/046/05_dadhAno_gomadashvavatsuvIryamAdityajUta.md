@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-dádhāno gómad áśvavat  
-suvī́riyam ādityájūta edhate  
-sádā rāyā́ puruspŕ̥hā  
+द꣡धानो गो꣡मद् अ꣡श्ववत्  
+सुवी꣡रियम् आदित्य꣡जूत एधते  
+स꣡दा राया꣡ पुरुस्प्ŕ̥हा  

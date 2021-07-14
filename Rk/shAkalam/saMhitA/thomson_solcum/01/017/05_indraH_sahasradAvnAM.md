@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-índraḥ sahasradā́vnãṃ  
-váruṇaḥ śáṃsiyānãm  
-krátur bhavati ukthíyaḥ  
+इ꣡न्द्रः सहस्रदा꣡व्न्ãं  
+व꣡रुणः शं꣡सियान्ãम्  
+क्र꣡तुर् भवति उक्थि꣡यः  

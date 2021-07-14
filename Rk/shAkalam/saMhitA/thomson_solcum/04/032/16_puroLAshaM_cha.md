@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-puroḷā́śaṃ ca no gháso  
-joṣáyāse gíraś ca naḥ  
-vadhūyúr iva yóṣaṇām  
+पुरोऌआ꣡शं च नो घ꣡सो  
+जोष꣡यासे गि꣡रश् च नः  
+वधूयु꣡र् इव यो꣡षणाम्  

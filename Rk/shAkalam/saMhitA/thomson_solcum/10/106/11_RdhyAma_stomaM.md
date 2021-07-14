@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-r̥dhyā́ma stómaṃ sanuyā́ma vā́jam  
-ā́ no mántraṃ saráthehópa yātam  
-yáśo ná pakvám mádhu góṣu antár  
-ā́ bhūtā́ṃśo aśvínoḥ kā́mam aprāḥ  
+ऋध्या꣡म स्तो꣡मं सनुया꣡म वा꣡जम्  
+आ꣡ नो म꣡न्त्रं सर꣡थेहो꣡प यातम्  
+य꣡शो न꣡ पक्व꣡म् म꣡धु गो꣡षु अन्त꣡र्  
+आ꣡ भूतां꣡शो अश्वि꣡नोः का꣡मम् अप्राः  

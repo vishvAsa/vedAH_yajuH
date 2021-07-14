@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-púnaḥ-punar jā́yamānā purāṇī́  
-samānáṃ várṇam abhí śúmbhamānā  
-śvaghnī́va kr̥tnúr víja āminānā́  
-mártasya devī́ jaráyanti ā́yuḥ  
+पु꣡नः-पुनर् जा꣡यमाना पुराणी꣡  
+समानं꣡ व꣡र्णम् अभि꣡ शु꣡म्भमाना  
+श्वघ्नी꣡व कृत्नु꣡र् वि꣡ज आमिनाना꣡  
+म꣡र्तस्य देवी꣡ जर꣡यन्ति आ꣡युः  

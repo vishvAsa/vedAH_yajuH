@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ūrdhvó grā́vā vasavo astu sotári  
-víśvā dvéṣāṃsi sanutár yuyota  
-sá no deváḥ savitā́ pāyúr ī́ḍiya  
-ā́ sarvátātim áditiṃ vr̥ṇīmahe  
+ऊर्ध्वो꣡ ग्रा꣡वा वसवो अस्तु सोत꣡रि  
+वि꣡श्वा द्वे꣡षांसि सनुत꣡र् युयोत  
+स꣡ नो देवः꣡ सविता꣡ पायु꣡र् ई꣡डिय  
+आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-etā́ te agna ucáthāni vedho  
-júṣṭāni santu mánase hr̥dé ca  
-śakéma rāyáḥ sudhúro yámaṃ te  
-ádhi śrávo devábhaktaṃ dádhānāḥ  
+एता꣡ ते अग्न उच꣡थानि वेधो  
+जु꣡ष्टानि सन्तु म꣡नसे हृदे꣡ च  
+शके꣡म रायः꣡ सुधु꣡रो य꣡मं ते  
+अ꣡धि श्र꣡वो देव꣡भक्तं द꣡धानाः  

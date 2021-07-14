@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yád imā́ vājáyann ahám  
-óṣadhīr hásta ādadhé  
-ātmā́ yákṣmasya naśyati  
-purā́ jīvagŕ̥bho yathā  
+य꣡द् इमा꣡ वाज꣡यन्न् अह꣡म्  
+ओ꣡षधीर् ह꣡स्त आदधे꣡  
+आत्मा꣡ य꣡क्ष्मस्य नश्यति  
+पुरा꣡ जीवग्ŕ̥भो यथा  

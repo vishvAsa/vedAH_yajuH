@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-víśvā dhā́māni viśvacakṣa ŕ̥bhvasaḥ  
-prabhós te satáḥ pári yanti ketávaḥ  
-viānaśíḥ pavase soma dhármabhiḥ  
-pátir víśvasya bhúvanasya rājasi  
+वि꣡श्वा धा꣡मानि विश्वचक्ष ŕ̥भ्वसः  
+प्रभो꣡स् ते सतः꣡ प꣡रि यन्ति केत꣡वः  
+विआनशिः꣡ पवसे सोम ध꣡र्मभिः  
+प꣡तिर् वि꣡श्वस्य भु꣡वनस्य राजसि  

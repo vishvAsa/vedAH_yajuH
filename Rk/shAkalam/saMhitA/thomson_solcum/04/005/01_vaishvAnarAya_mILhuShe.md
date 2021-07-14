@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vaiśvānarā́ya mīḷhúṣe sajóṣāḥ  
-kathā́ dāśema agnáye br̥hád bhā́ḥ  
-ánūnena br̥hatā́ vakṣáthena  
-úpa stabhāyad upamín ná ródhaḥ  
+वैश्वानरा꣡य मीऌहु꣡षे सजो꣡षाः  
+कथा꣡ दाशेम अग्न꣡ये बृह꣡द् भाः꣡  
+अ꣡नूनेन बृहता꣡ वक्ष꣡थेन  
+उ꣡प स्तभायद् उपमि꣡न् न꣡ रो꣡धः  

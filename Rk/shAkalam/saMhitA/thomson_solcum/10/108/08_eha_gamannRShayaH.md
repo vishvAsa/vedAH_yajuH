@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-éhá gamann ŕ̥ṣayaḥ sómaśitā  
-ayā́siyo áṅgiraso návagvāḥ  
-tá etám ūrváṃ ví bhajanta gónām  
-áthaitád vácaḥ paṇáyo vámann ít  
+ए꣡ह꣡ गमन्न् ŕ̥षयः सो꣡मशिता  
+अया꣡सियो अ꣡ङ्गिरसो न꣡वग्वाः  
+त꣡ एत꣡म् ऊर्वं꣡ वि꣡ भजन्त गो꣡नाम्  
+अ꣡थैत꣡द् व꣡चः पण꣡यो व꣡मन्न् इ꣡त्  

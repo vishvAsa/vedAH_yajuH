@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-rāyáḥ samudrā́ṃś catúro  
-asmábhyaṃ soma viśvátaḥ  
-ā́ pavasva sahasríṇaḥ  
+रायः꣡ समुद्रां꣡श् चतु꣡रो  
+अस्म꣡भ्यं सोम विश्व꣡तः  
+आ꣡ पवस्व सहस्रि꣡णः  

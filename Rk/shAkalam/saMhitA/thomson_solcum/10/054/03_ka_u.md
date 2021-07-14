@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ká u nú te mahimánaḥ samasya  
-asmát pū́rva ŕ̥ṣayo ántam āpuḥ  
-yán mātáraṃ ca pitáraṃ ca sākám  
-ájanayathās tanúvaḥ suā́yāḥ  
+क꣡ उ नु꣡ ते महिम꣡नः समस्य  
+अस्म꣡त् पू꣡र्व ŕ̥षयो अ꣡न्तम् आपुः  
+य꣡न् मात꣡रं च पित꣡रं च साक꣡म्  
+अ꣡जनयथास् तनु꣡वः सुआ꣡याः  

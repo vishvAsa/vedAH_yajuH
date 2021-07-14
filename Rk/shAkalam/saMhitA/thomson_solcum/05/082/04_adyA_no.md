@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-adyā́ no deva savitaḥ  
-prajā́vat sāvīḥ saúbhagam  
-párā duṣvápniyaṃ suva  
+अद्या꣡ नो देव सवितः  
+प्रजा꣡वत् सावीः सउ꣡भगम्  
+प꣡रा दुष्व꣡प्नियं सुव  

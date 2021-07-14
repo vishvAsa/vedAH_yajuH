@@ -2,8 +2,8 @@
 title = "015"
 
 +++
-bráhmā kr̥ṇoti váruṇo  
-gātuvídaṃ tám īmahe  
-ví ūrṇoti hr̥dā́ matíṃ  
-náviyo jāyatām r̥táṃ  
-vittám me asyá rodasī  
+ब्र꣡ह्मा कृणोति व꣡रुणो  
+गातुवि꣡दं त꣡म् ईमहे  
+वि꣡ ऊर्णोति हृदा꣡ मतिं꣡  
+न꣡वियो जायताम् ऋतं꣡  
+वित्त꣡म् मे अस्य꣡ रोदसी  

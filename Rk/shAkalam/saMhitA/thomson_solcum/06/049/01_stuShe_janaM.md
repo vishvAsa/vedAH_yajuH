@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-stuṣé jánaṃ suvratáṃ návyasībhir  
-gīrbhír mitrā́váruṇā sumnayántā  
-tá ā́ gamantu tá ihá śruvantu  
-sukṣatrā́so váruṇo mitró agníḥ  
+स्तुषे꣡ ज꣡नं सुव्रतं꣡ न꣡व्यसीभिर्  
+गीर्भि꣡र् मित्रा꣡व꣡रुणा सुम्नय꣡न्ता  
+त꣡ आ꣡ गमन्तु त꣡ इह꣡ श्रुवन्तु  
+सुक्षत्रा꣡सो व꣡रुणो मित्रो꣡ अग्निः꣡  

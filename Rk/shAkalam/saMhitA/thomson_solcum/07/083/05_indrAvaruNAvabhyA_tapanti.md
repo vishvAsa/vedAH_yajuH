@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índrāvaruṇāv abhí ā́ tapanti mā  
-aghā́ni aryó vanúṣām árātayaḥ  
-yuváṃ hí vásva ubháyasya rā́jatho  
-ádha smā no avatam pā́riye diví  
+इ꣡न्द्रावरुणाव् अभि꣡ आ꣡ तपन्ति मा  
+अघा꣡नि अर्यो꣡ वनु꣡षाम् अ꣡रातयः  
+युवं꣡ हि꣡ व꣡स्व उभ꣡यस्य रा꣡जथो  
+अ꣡ध स्मा नो अवतम् पा꣡रिये दिवि꣡  

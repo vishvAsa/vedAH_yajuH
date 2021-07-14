@@ -2,7 +2,7 @@
 title = "040"
 
 +++
-sómaḥ prathamó vivide  
-gandharvó vivida úttaraḥ  
-tr̥tī́yo agníṣ ṭe pátis  
-turī́yas te manuṣyajā́ḥ  
+सो꣡मः प्रथमो꣡ विविदे  
+गन्धर्वो꣡ विविद उ꣡त्तरः  
+तृती꣡यो अग्नि꣡ष् टे प꣡तिस्  
+तुरी꣡यस् ते मनुष्यजाः꣡  

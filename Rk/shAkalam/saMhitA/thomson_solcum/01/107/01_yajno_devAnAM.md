@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yajñó devā́nām práti eti sumnám  
-ā́dityāso bhávatā mr̥̄ḷayántaḥ+  
-ā́ vo arvā́cī sumatír vavr̥tyād  
-aṃhóś cid yā́ varivovíttarā́sat  
+यज्ञो꣡ देवा꣡नाम् प्र꣡ति एति सुम्न꣡म्  
+आ꣡दित्यासो भ꣡वता मॄऌअय꣡न्तः+  
+आ꣡ वो अर्वा꣡ची सुमति꣡र् ववृत्याद्  
+अंहो꣡श् चिद् या꣡ वरिवोवि꣡त्तरा꣡सत्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ajó bhāgás tápasā táṃ tapasva  
-táṃ te śocís tapatu táṃ te arcíḥ  
-yā́s te śivā́s tanúvo jātavedas  
-tā́bhir vahainaṃ sukŕ̥tām ulokám†  
+अजो꣡ भाग꣡स् त꣡पसा तं꣡ तपस्व  
+तं꣡ ते शोचि꣡स् तपतु तं꣡ ते अर्चिः꣡  
+या꣡स् ते शिवा꣡स् तनु꣡वो जातवेदस्  
+ता꣡भिर् वहैनं सुक्ŕ̥ताम् उलोक꣡म्†  

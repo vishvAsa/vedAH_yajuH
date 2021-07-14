@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-máruto yásya hí kṣáye  
-pāthā́ divó vimahasaḥ  
-sá sugopā́tamo jánaḥ  
+म꣡रुतो य꣡स्य हि꣡ क्ष꣡ये  
+पाथा꣡ दिवो꣡ विमहसः  
+स꣡ सुगोपा꣡तमो ज꣡नः  

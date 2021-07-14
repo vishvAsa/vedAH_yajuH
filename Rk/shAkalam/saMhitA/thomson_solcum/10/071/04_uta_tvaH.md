@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-utá tvaḥ páśyan ná dadarśa vā́cam  
-utá tvaḥ śr̥ṇván ná śr̥ṇoti enām  
-utó tuvasmai tanúvaṃ ví sasre  
-jāyéva pátya uśatī́ suvā́sāḥ  
+उत꣡ त्वः प꣡श्यन् न꣡ ददर्श वा꣡चम्  
+उत꣡ त्वः शृण्व꣡न् न꣡ शृणोति एनाम्  
+उतो꣡ तुवस्मै तनु꣡वं वि꣡ सस्रे  
+जाये꣡व प꣡त्य उशती꣡ सुवा꣡साः  

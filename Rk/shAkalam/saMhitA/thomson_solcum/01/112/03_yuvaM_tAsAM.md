@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yuváṃ tā́sāṃ diviyásya praśā́sane  
-viśā́ṃ kṣayatho amŕ̥tasya majmánā  
-yā́bhir dhenúm asúvam pínvatho narā  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+युवं꣡ ता꣡सां दिविय꣡स्य प्रशा꣡सने  
+विशां꣡ क्षयथो अम्ŕ̥तस्य मज्म꣡ना  
+या꣡भिर् धेनु꣡म् असु꣡वम् पि꣡न्वथो नरा  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-nū́ me gíro nāsatiyā  
-áśvinā prā́vataṃ yuvám  
-mádhvaḥ sómasya pītáye  
+नू꣡ मे गि꣡रो नासतिया  
+अ꣡श्विना प्रा꣡वतं युव꣡म्  
+म꣡ध्वः सो꣡मस्य पीत꣡ये  

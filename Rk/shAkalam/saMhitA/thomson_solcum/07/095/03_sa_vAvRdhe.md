@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá vāvr̥dhe náriyo yóṣaṇāsu  
-vŕ̥ṣā śíśur vr̥ṣabhó yajñíyāsu  
-sá vājínam maghávadbhyo dadhāti  
-ví sātáye tanúvam māmr̥jīta  
+स꣡ वावृधे न꣡रियो यो꣡षणासु  
+व्ŕ̥षा शि꣡शुर् वृषभो꣡ यज्ञि꣡यासु  
+स꣡ वाजि꣡नम् मघ꣡वद्भ्यो दधाति  
+वि꣡ सात꣡ये तनु꣡वम् मामृजीत  

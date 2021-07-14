@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yád īṃ sómā babhrúdhūtā ámandann  
-ároravīd vr̥ṣabháḥ sā́daneṣu  
-puraṃdaráḥ papivā́m̐ índro asya  
-púnar gávām adadād usríyāṇām  
+य꣡द् ईं सो꣡मा बभ्रु꣡धूता अ꣡मन्दन्न्  
+अ꣡रोरवीद् वृषभः꣡ सा꣡दनेषु  
+पुरंदरः꣡ पपिवाँ꣡ इ꣡न्द्रो अस्य  
+पु꣡नर् ग꣡वाम् अददाद् उस्रि꣡याणाम्  

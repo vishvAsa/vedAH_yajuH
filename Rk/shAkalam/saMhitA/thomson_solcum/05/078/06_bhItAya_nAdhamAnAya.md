@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-bhītā́ya nā́dhamānāya  
-ŕ̥ṣaye saptávadhraye  
-māyā́bhir aśvinā yuváṃ  
-vr̥kṣáṃ sáṃ ca ví cācathaḥ  
+भीता꣡य ना꣡धमानाय  
+ŕ̥षये सप्त꣡वध्रये  
+माया꣡भिर् अश्विना युवं꣡  
+वृक्षं꣡ सं꣡ च वि꣡ चाचथः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-śatádhāraṃ vāyúm arkáṃ suvarvídaṃ  
-nr̥cákṣasas té abhí cakṣate havíḥ  
-yé pr̥ṇánti prá ca yáchanti saṃgamé  
-té dákṣiṇāṃ duhate saptámātaram  
+शत꣡धारं वायु꣡म् अर्कं꣡ सुवर्वि꣡दं  
+नृच꣡क्षसस् ते꣡ अभि꣡ चक्षते हविः꣡  
+ये꣡ पृण꣡न्ति प्र꣡ च य꣡छन्ति संगमे꣡  
+ते꣡ द꣡क्षिणां दुहते सप्त꣡मातरम्  

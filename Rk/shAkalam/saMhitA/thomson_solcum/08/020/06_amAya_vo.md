@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ámāya vo maruto yā́tave diyaúr  
-jíhīta úttarā br̥hát  
-yátrā náro dédiśate tanū́ṣu ā́  
-tvákṣāṃsi bāhúojasaḥ  
+अ꣡माय वो मरुतो या꣡तवे दियउ꣡र्  
+जि꣡हीत उ꣡त्तरा बृह꣡त्  
+य꣡त्रा न꣡रो दे꣡दिशते तनू꣡षु आ꣡  
+त्व꣡क्षांसि बाहु꣡ओजसः  

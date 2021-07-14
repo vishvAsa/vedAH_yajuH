@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ójiṣṭhaṃ te madhyató méda údbhr̥tam  
-prá te vayáṃ dadāmahe  
-ścótanti te vaso stokā́ ádhi tvací  
-práti tā́n devaśó vihi  
+ओ꣡जिष्ठं ते मध्यतो꣡ मे꣡द उ꣡द्भृतम्  
+प्र꣡ ते वयं꣡ ददामहे  
+श्चो꣡तन्ति ते वसो स्तोका꣡ अ꣡धि त्वचि꣡  
+प्र꣡ति ता꣡न् देवशो꣡ विहि  

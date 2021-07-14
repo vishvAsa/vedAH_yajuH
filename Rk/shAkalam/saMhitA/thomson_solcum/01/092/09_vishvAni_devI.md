@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-víśvāni devī́ bhúvanābhicákṣyā  
-pratīcī́ cákṣur urviyā́ ví bhāti  
-víśvaṃ jīváṃ caráse bodháyantī  
-víśvasya vā́cam avidan manāyóḥ  
+वि꣡श्वानि देवी꣡ भु꣡वनाभिच꣡क्ष्या  
+प्रतीची꣡ च꣡क्षुर् उर्विया꣡ वि꣡ भाति  
+वि꣡श्वं जीवं꣡ चर꣡से बोध꣡यन्ती  
+वि꣡श्वस्य वा꣡चम् अविदन् मनायोः꣡  

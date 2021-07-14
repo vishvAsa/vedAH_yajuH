@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ayáṃ sá yásya śármann ávobhir  
-agnér édhate jaritā́ abhíṣṭau  
-jyáyiṣṭhebhir+ yó bhānúbhir r̥ṣūṇā́m  
-pariéti párivīto vibhā́vā  
+अयं꣡ स꣡ य꣡स्य श꣡र्मन्न् अ꣡वोभिर्  
+अग्ने꣡र् ए꣡धते जरिता꣡ अभि꣡ष्टौ  
+ज्य꣡यिष्ठेभिर्+ यो꣡ भानु꣡भिर् ऋषूणा꣡म्  
+परिए꣡ति प꣡रिवीतो विभा꣡वा  

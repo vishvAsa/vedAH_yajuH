@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tráyaḥ paváyo madhuvā́hane ráthe  
-sómasya venā́m ánu víśva íd viduḥ  
-tráya skambhā́sa skabhitā́sa ārábhe  
-trír náktaṃ yāthás trír u aśvinā dívā  
+त्र꣡यः पव꣡यो मधुवा꣡हने र꣡थे  
+सो꣡मस्य वेना꣡म् अ꣡नु वि꣡श्व इ꣡द् विदुः  
+त्र꣡य स्कम्भा꣡स स्कभिता꣡स आर꣡भे  
+त्रि꣡र् न꣡क्तं याथ꣡स् त्रि꣡र् उ अश्विना दि꣡वा  

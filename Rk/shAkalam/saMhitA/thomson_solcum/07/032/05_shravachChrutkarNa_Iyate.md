@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-śrávac chrútkarṇa īyate vásūnãṃ  
-nū́ cin no mardhiṣad gíraḥ  
-sadyáś cid yáḥ sahásrāṇi śatā́ dádan  
-nákir dítsantam ā́ minat  
+श्र꣡वच् छ्रु꣡त्कर्ण ईयते व꣡सून्ãं  
+नू꣡ चिन् नो मर्धिषद् गि꣡रः  
+सद्य꣡श् चिद् यः꣡ सह꣡स्राणि शता꣡ द꣡दन्  
+न꣡किर् दि꣡त्सन्तम् आ꣡ मिनत्  

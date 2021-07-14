@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-uṣásāṃ ná ketávo adhvaraśríyaḥ  
-śubhaṃyávo ná añjíbhir ví aśvitan  
-síndhavo ná yayíyo bhrā́jadr̥ṣṭayaḥ  
-parāváto ná yójanāni mamire  
+उष꣡सां न꣡ केत꣡वो अध्वरश्रि꣡यः  
+शुभंय꣡वो न꣡ अञ्जि꣡भिर् वि꣡ अश्वितन्  
+सि꣡न्धवो न꣡ ययि꣡यो भ्रा꣡जदृष्टयः  
+पराव꣡तो न꣡ यो꣡जनानि ममिरे  

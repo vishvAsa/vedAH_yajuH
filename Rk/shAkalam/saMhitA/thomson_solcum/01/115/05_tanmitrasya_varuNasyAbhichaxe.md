@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tán mitrásya váruṇasyābhicákṣe  
-sū́ryo rūpáṃ kr̥ṇute dyór upásthe  
-anantám anyád rúśad asya pā́jaḥ  
-kr̥ṣṇám anyád dharítaḥ sám bharanti  
+त꣡न् मित्र꣡स्य व꣡रुणस्याभिच꣡क्षे  
+सू꣡र्यो रूपं꣡ कृणुते द्यो꣡र् उप꣡स्थे  
+अनन्त꣡म् अन्य꣡द् रु꣡शद् अस्य पा꣡जः  
+कृष्ण꣡म् अन्य꣡द् धरि꣡तः स꣡म् भरन्ति  

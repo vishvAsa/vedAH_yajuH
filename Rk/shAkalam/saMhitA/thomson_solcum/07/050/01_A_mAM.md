@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ mā́m mitrāvaruṇā ihá rakṣataṃ  
-kulāyáyad viśváyan mā́ na ā́ gan  
-ajakāváṃ durdŕ̥śīkaṃ tiró dadhe  
-mā́ mā́m pádyena rápasā vidat tsáruḥ  
+आ꣡ मा꣡म् मित्रावरुणा इह꣡ रक्षतं  
+कुलाय꣡यद् विश्व꣡यन् मा꣡ न आ꣡ गन्  
+अजकावं꣡ दुर्द्ŕ̥शीकं तिरो꣡ दधे  
+मा꣡ मा꣡म् प꣡द्येन र꣡पसा विदत् त्स꣡रुः  

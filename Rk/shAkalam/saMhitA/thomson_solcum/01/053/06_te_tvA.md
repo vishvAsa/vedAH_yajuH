@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-té tvā mádā amadan tā́ni vŕ̥ṣṇiyā  
-té sómāso vr̥trahátyeṣu satpate  
-yát kāráve dáśa vr̥trā́ṇi apratí  
-barhíṣmate ní sahásrāṇi barháyaḥ  
+ते꣡ त्वा म꣡दा अमदन् ता꣡नि व्ŕ̥ष्णिया  
+ते꣡ सो꣡मासो वृत्रह꣡त्येषु सत्पते  
+य꣡त् कार꣡वे द꣡श वृत्रा꣡णि अप्रति꣡  
+बर्हि꣡ष्मते नि꣡ सह꣡स्राणि बर्ह꣡यः  

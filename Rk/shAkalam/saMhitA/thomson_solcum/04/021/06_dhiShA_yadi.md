@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-dhiṣā́ yádi dhiṣaṇyántaḥ saraṇyā́n  
-sádanto ádrim auśijásya góhe  
-ā́ duróṣāḥ · pāstiyásya hótā  
-yó no mahā́n saṃváraṇeṣu váhniḥ  
+धिषा꣡ य꣡दि धिषण्य꣡न्तः सरण्या꣡न्  
+स꣡दन्तो अ꣡द्रिम् औशिज꣡स्य गो꣡हे  
+आ꣡ दुरो꣡षाः · पास्तिय꣡स्य हो꣡ता  
+यो꣡ नो महा꣡न् संव꣡रणेषु व꣡ह्निः  

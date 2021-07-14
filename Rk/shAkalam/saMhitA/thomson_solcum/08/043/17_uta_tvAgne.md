@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-utá tvāgne máma stúto  
-vāśrā́ya pratiháryate  
-goṣṭháṃ gā́va ivāśata  
+उत꣡ त्वाग्ने म꣡म स्तु꣡तो  
+वाश्रा꣡य प्रतिह꣡र्यते  
+गोष्ठं꣡ गा꣡व इवाशत  

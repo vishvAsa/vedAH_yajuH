@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-yád ádhrigāvo ádhrigū  
-idā́ cid áhno aśvínā hávāmahe  
-vayáṃ gīrbhír vipanyávaḥ  
+य꣡द् अ꣡ध्रिगावो अ꣡ध्रिगू  
+इदा꣡ चिद् अ꣡ह्नो अश्वि꣡ना ह꣡वामहे  
+वयं꣡ गीर्भि꣡र् विपन्य꣡वः  

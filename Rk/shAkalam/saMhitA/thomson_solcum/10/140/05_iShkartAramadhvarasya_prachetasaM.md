@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-iṣkartā́ram adhvarásya prácetasaṃ  
-kṣáyantaṃ rā́dhaso maháḥ  
-rātíṃ vāmásya subhágām mahī́m íṣaṃ  
-dádhāsi sānasíṃ rayím  
+इष्कर्ता꣡रम् अध्वर꣡स्य प्र꣡चेतसं  
+क्ष꣡यन्तं रा꣡धसो महः꣡  
+रातिं꣡ वाम꣡स्य सुभ꣡गाम् मही꣡म् इ꣡षं  
+द꣡धासि सानसिं꣡ रयि꣡म्  

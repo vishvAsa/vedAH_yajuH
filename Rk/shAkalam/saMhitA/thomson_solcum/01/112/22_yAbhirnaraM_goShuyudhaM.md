@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-yā́bhir náraṃ goṣuyúdhaṃ nr̥ṣā́hiye  
-kṣétrasya sātā́ tánayasya jínvathaḥ  
-yā́bhī ráthām̐ ávatho yā́bhir árvatas  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिर् न꣡रं गोषुयु꣡धं नृषा꣡हिये  
+क्षे꣡त्रस्य साता꣡ त꣡नयस्य जि꣡न्वथः  
+या꣡भी र꣡थाँ अ꣡वथो या꣡भिर् अ꣡र्वतस्  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

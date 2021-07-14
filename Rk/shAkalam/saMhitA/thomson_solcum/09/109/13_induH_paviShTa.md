@@ -2,5 +2,5 @@
 title = "013"
 
 +++
-índuḥ paviṣṭa cā́rur mádāya  
-apā́m upásthe kavír bhágāya  
+इ꣡न्दुः पविष्ट चा꣡रुर् म꣡दाय  
+अपा꣡म् उप꣡स्थे कवि꣡र् भ꣡गाय  

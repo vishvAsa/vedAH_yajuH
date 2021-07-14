@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́bhi spŕ̥dho mithatī́r áriṣaṇyann  
-amítrasya vyathayā manyúm indra  
-ā́bhir víśvā abhiyújo víṣūcīr  
-ā́ryāya víśo áva tārīr dā́sīḥ  
+आ꣡भि स्प्ŕ̥धो मिथती꣡र् अ꣡रिषण्यन्न्  
+अमि꣡त्रस्य व्यथया मन्यु꣡म् इन्द्र  
+आ꣡भिर् वि꣡श्वा अभियु꣡जो वि꣡षूचीर्  
+आ꣡र्याय वि꣡शो अ꣡व तारीर् दा꣡सीः  

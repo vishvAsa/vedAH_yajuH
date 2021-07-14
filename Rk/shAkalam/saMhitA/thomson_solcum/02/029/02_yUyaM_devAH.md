@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yūyáṃ devāḥ prámatir yūyám ójo  
-yūyáṃ dvéṣāṃsi sanutár yuyota  
-abhikṣattā́ro abhí ca kṣámadhvam  
-adyā́ ca no mr̥̄ḷáyatāparáṃ+ ca  
+यूयं꣡ देवाः प्र꣡मतिर् यूय꣡म् ओ꣡जो  
+यूयं꣡ द्वे꣡षांसि सनुत꣡र् युयोत  
+अभिक्षत्ता꣡रो अभि꣡ च क्ष꣡मध्वम्  
+अद्या꣡ च नो मॄऌअ꣡यतापरं꣡+ च  

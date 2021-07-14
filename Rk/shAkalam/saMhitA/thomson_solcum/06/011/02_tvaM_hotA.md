@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuváṃ hótā mandrátamo no adhrúg  
-antár devó vidáthā mártiyeṣu  
-pavākáyā+ juhúvā váhnir āsā́  
-ágne yájasva tanúvaṃ táva svā́m  
+तुवं꣡ हो꣡ता मन्द्र꣡तमो नो अध्रु꣡ग्  
+अन्त꣡र् देवो꣡ विद꣡था म꣡र्तियेषु  
+पवाक꣡या+ जुहु꣡वा व꣡ह्निर् आसा꣡  
+अ꣡ग्ने य꣡जस्व तनु꣡वं त꣡व स्वा꣡म्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-utá tyé mā mārutā́śvasya śóṇāḥ  
-krátvāmaghāso vidáthasya rātaú  
-sahásrā me cyávatāno dádāna  
-ānūkám aryó vápuṣe ná ārcat  
+उत꣡ त्ये꣡ मा मारुता꣡श्वस्य शो꣡णाः  
+क्र꣡त्वामघासो विद꣡थस्य रातउ꣡  
+सह꣡स्रा मे च्य꣡वतानो द꣡दान  
+आनूक꣡म् अर्यो꣡ व꣡पुषे न꣡ आर्चत्  

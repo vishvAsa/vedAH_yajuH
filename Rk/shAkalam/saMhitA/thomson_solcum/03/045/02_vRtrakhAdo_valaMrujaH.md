@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vr̥trakhādó valaṃrujáḥ  
-purā́ṃ darmó apā́m ajáḥ  
-sthā́tā ráthasya háriyor abhisvará  
-índro dr̥̄ḷhā́+ cid ārujáḥ  
+वृत्रखादो꣡ वलंरुजः꣡  
+पुरां꣡ दर्मो꣡ अपा꣡म् अजः꣡  
+स्था꣡ता र꣡थस्य ह꣡रियोर् अभिस्वर꣡  
+इ꣡न्द्रो दॄऌहा꣡+ चिद् आरुजः꣡  

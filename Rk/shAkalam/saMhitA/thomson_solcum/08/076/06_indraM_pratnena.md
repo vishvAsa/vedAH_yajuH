@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-índram pratnéna mánmanā  
-marútvantaṃ havāmahe  
-asyá sómasya pītáye  
+इ꣡न्द्रम् प्रत्ने꣡न म꣡न्मना  
+मरु꣡त्वन्तं हवामहे  
+अस्य꣡ सो꣡मस्य पीत꣡ये  

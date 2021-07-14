@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-asyá mandānó mádhvo vájrahasto  
-áhim índro arṇovŕ̥taṃ ví vr̥ścat  
-prá yád váyo ná svásarāṇi áchā  
-práyāṃsi ca nadī́nāṃ cákramanta  
+अस्य꣡ मन्दानो꣡ म꣡ध्वो व꣡ज्रहस्तो  
+अ꣡हिम् इ꣡न्द्रो अर्णोव्ŕ̥तं वि꣡ वृश्चत्  
+प्र꣡ य꣡द् व꣡यो न꣡ स्व꣡सराणि अ꣡छा  
+प्र꣡यांसि च नदी꣡नां च꣡क्रमन्त  

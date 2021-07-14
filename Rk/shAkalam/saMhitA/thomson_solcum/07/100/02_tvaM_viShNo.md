@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuváṃ viṣṇo sumatíṃ viśvájanyām  
-áprayutām evayāvo matíṃ dāḥ  
-párco yáthā naḥ suvitásya bhū́rer  
-áśvāvataḥ puruścandrásya rāyáḥ  
+तुवं꣡ विष्णो सुमतिं꣡ विश्व꣡जन्याम्  
+अ꣡प्रयुताम् एवयावो मतिं꣡ दाः  
+प꣡र्चो य꣡था नः सुवित꣡स्य भू꣡रेर्  
+अ꣡श्वावतः पुरुश्चन्द्र꣡स्य रायः꣡  

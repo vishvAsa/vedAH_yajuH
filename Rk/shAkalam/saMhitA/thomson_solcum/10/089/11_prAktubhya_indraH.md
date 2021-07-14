@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-prā́ktúbhya índraḥ prá vr̥dhó áhabhyaḥ  
-prā́ntárikṣāt prá samudrásya dhāséḥ  
-prá vā́tasya práthasaḥ prá jmó ántāt  
-prá síndhubhyo ririce prá kṣitíbhyaḥ  
+प्रा꣡क्तु꣡भ्य इ꣡न्द्रः प्र꣡ वृधो꣡ अ꣡हभ्यः  
+प्रा꣡न्त꣡रिक्षात् प्र꣡ समुद्र꣡स्य धासेः꣡  
+प्र꣡ वा꣡तस्य प्र꣡थसः प्र꣡ ज्मो꣡ अ꣡न्तात्  
+प्र꣡ सि꣡न्धुभ्यो रिरिचे प्र꣡ क्षिति꣡भ्यः  

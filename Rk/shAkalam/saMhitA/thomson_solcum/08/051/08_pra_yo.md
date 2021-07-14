@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-prá yó nanakṣé abhí ójasā kríviṃ  
-vadhaíḥ śúṣṇaṃ nighoṣáyan  
-yadéd ástambhīt pratháyann amū́ṃ dívam  
-ā́d íj janiṣṭa pā́rthivaḥ  
+प्र꣡ यो꣡ ननक्षे꣡ अभि꣡ ओ꣡जसा क्रि꣡विं  
+वधइः꣡ शु꣡ष्णं निघोष꣡यन्  
+यदे꣡द् अ꣡स्तम्भीत् प्रथ꣡यन्न् अमूं꣡ दि꣡वम्  
+आ꣡द् इ꣡ज् जनिष्ट पा꣡र्थिवः  

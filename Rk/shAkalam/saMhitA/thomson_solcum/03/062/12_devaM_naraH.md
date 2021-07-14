@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-deváṃ náraḥ savitā́raṃ  
-víprā yajñaíḥ suvr̥ktíbhiḥ  
-namasyánti dhiyéṣitā́ḥ  
+देवं꣡ न꣡रः सविता꣡रं  
+वि꣡प्रा यज्ञइः꣡ सुवृक्ति꣡भिः  
+नमस्य꣡न्ति धिये꣡षिताः꣡  

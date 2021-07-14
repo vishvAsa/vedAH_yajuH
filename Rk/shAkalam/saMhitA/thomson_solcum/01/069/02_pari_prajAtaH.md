@@ -2,5 +2,5 @@
 title = "002"
 
 +++
-pári prájātaḥ krátvā babhūtha  
-bhúvo devā́nām pitā́ putráḥ sán  
+प꣡रि प्र꣡जातः क्र꣡त्वा बभूथ  
+भु꣡वो देवा꣡नाम् पिता꣡ पुत्रः꣡ स꣡न्  

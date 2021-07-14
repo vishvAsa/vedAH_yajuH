@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-púraḥ sadyá itthā́dhiye  
-dívodāsāya śámbaram  
-ádha tyáṃ turváśaṃ yádum  
+पु꣡रः सद्य꣡ इत्था꣡धिये  
+दि꣡वोदासाय श꣡म्बरम्  
+अ꣡ध त्यं꣡ तुर्व꣡शं य꣡दुम्  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-té naḥ santu yújaḥ sádā  
-váruṇo mitró aryamā́  
-vr̥dhā́saś ca prácetasaḥ  
+ते꣡ नः सन्तु यु꣡जः स꣡दा  
+व꣡रुणो मित्रो꣡ अर्यमा꣡  
+वृधा꣡सश् च प्र꣡चेतसः  

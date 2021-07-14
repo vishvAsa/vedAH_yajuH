@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tásmād yajñā́t sarvahúta  
-ŕ̥caḥ sā́māni jajñire  
-chándāṃsi jajñire tásmād  
-yájus tásmād ajāyata  
+त꣡स्माद् यज्ञा꣡त् सर्वहु꣡त  
+ŕ̥चः सा꣡मानि जज्ञिरे  
+छ꣡न्दांसि जज्ञिरे त꣡स्माद्  
+य꣡जुस् त꣡स्माद् अजायत  

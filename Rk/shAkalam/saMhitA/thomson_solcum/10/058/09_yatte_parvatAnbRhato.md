@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yát te párvatān br̥ható  
-máno jagā́ma dūrakám  
-tát ta ā́ vartayāmasi  
-ihá kṣáyāya jīváse  
+य꣡त् ते प꣡र्वतान् बृहतो꣡  
+म꣡नो जगा꣡म दूरक꣡म्  
+त꣡त् त आ꣡ वर्तयामसि  
+इह꣡ क्ष꣡याय जीव꣡से  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-índro mádhu sámbhr̥tam usríyāyām  
-padvád viveda śaphávan náme góḥ  
-gúhā hitáṃ gúhiyaṃ gūḷhám apsú  
-háste dadhe dákṣiṇe dákṣiṇāvān  
+इ꣡न्द्रो म꣡धु स꣡म्भृतम् उस्रि꣡यायाम्  
+पद्व꣡द् विवेद शफ꣡वन् न꣡मे गोः꣡  
+गु꣡हा हितं꣡ गु꣡हियं गूऌह꣡म् अप्सु꣡  
+ह꣡स्ते दधे द꣡क्षिणे द꣡क्षिणावान्  

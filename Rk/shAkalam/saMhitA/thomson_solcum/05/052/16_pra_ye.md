@@ -2,8 +2,8 @@
 title = "016"
 
 +++
-prá yé me bandhueṣé  
-gã́ṃ vócanta sūráyaḥ  
-pŕ̥śniṃ vocanta mātáram  
-ádhā pitáram iṣmíṇaṃ  
-rudráṃ vocanta śíkvasaḥ  
+प्र꣡ ये꣡ मे बन्धुएषे꣡  
+ग्ãं꣡ वो꣡चन्त सूर꣡यः  
+प्ŕ̥श्निं वोचन्त मात꣡रम्  
+अ꣡धा पित꣡रम् इष्मि꣡णं  
+रुद्रं꣡ वोचन्त शि꣡क्वसः  

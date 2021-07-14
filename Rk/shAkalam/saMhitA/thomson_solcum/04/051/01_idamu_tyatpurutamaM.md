@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-idám u tyát purutámam purástāj  
-jyótis támaso vayúnāvad asthāt  
-nūnáṃ divó duhitáro vibhātī́r  
-gātúṃ kr̥ṇavann uṣáso jánāya  
+इद꣡म् उ त्य꣡त् पुरुत꣡मम् पुर꣡स्ताज्  
+ज्यो꣡तिस् त꣡मसो वयु꣡नावद् अस्थात्  
+नूनं꣡ दिवो꣡ दुहित꣡रो विभाती꣡र्  
+गातुं꣡ कृणवन्न् उष꣡सो ज꣡नाय  

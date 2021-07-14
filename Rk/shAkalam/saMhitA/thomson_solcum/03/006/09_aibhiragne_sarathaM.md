@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-aíbhir agne saráthaṃ yāhi arvā́ṅ  
-nānāratháṃ vā vibhávo hí áśvāḥ  
-pátnīvatas triṃśátaṃ trī́ṃś ca devā́n  
-anuṣvadhám ā́ vaha mādáyasva  
+अइ꣡भिर् अग्ने सर꣡थं याहि अर्वा꣡ङ्  
+नानारथं꣡ वा विभ꣡वो हि꣡ अ꣡श्वाः  
+प꣡त्नीवतस् त्रिंश꣡तं त्रीं꣡श् च देवा꣡न्  
+अनुष्वध꣡म् आ꣡ वह माद꣡यस्व  

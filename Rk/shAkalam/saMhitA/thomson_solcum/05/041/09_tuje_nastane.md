@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tujé nas táne párvatāḥ santu  
-sváetavo yé vásavo ná vīrā́ḥ  
-panitá āptyó yajatáḥ sádā no  
-várdhān naḥ śáṃsaṃ náriyo abhíṣṭau  
+तुजे꣡ नस् त꣡ने प꣡र्वताः सन्तु  
+स्व꣡एतवो ये꣡ व꣡सवो न꣡ वीराः꣡  
+पनित꣡ आप्त्यो꣡ यजतः꣡ स꣡दा नो  
+व꣡र्धान् नः शं꣡सं न꣡रियो अभि꣡ष्टौ  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yáthā cid vr̥ddhám atasám  
-ágne saṃjū́rvasi kṣámi  
-evā́ daha mitramaho yó asmadhrúg  
-durmánmā káś ca vénati  
+य꣡था चिद् वृद्ध꣡म् अतस꣡म्  
+अ꣡ग्ने संजू꣡र्वसि क्ष꣡मि  
+एवा꣡ दह मित्रमहो यो꣡ अस्मध्रु꣡ग्  
+दुर्म꣡न्मा क꣡श् च वे꣡नति  

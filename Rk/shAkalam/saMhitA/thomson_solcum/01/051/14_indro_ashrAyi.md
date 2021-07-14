@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-índro aśrāyi sudhíyo nireké  
-pajréṣu stómo dúriyo ná yū́paḥ  
-aśvayúr gavyū́ rathayúr vasūyúr  
-índra íd rāyáḥ kṣayati prayantā́  
+इ꣡न्द्रो अश्रायि सुधि꣡यो निरेके꣡  
+पज्रे꣡षु स्तो꣡मो दु꣡रियो न꣡ यू꣡पः  
+अश्वयु꣡र् गव्यू꣡ रथयु꣡र् वसूयु꣡र्  
+इ꣡न्द्र इ꣡द् रायः꣡ क्षयति प्रयन्ता꣡  

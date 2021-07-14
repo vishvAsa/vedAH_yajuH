@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-síndhor iva pravaṇé nimná āśávo  
-vŕ̥ṣacyutā mádāso gātúm āśata  
-śáṃ no niveśé dvipáde cátuṣpade  
-asmé vā́jāḥ soma tiṣṭhantu kr̥ṣṭáyaḥ  
+सि꣡न्धोर् इव प्रवणे꣡ निम्न꣡ आश꣡वो  
+व्ŕ̥षच्युता म꣡दासो गातु꣡म् आशत  
+शं꣡ नो निवेशे꣡ द्विप꣡दे च꣡तुष्पदे  
+अस्मे꣡ वा꣡जाः सोम तिष्ठन्तु कृष्ट꣡यः  

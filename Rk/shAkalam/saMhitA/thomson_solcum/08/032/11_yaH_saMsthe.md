@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-yáḥ saṃsthé cic chatákratur  
-ā́d īṃ kr̥ṇóti vr̥trahā́  
-jaritŕ̥bhyaḥ purūvásuḥ  
+यः꣡ संस्थे꣡ चिच् छत꣡क्रतुर्  
+आ꣡द् ईं कृणो꣡ति वृत्रहा꣡  
+जरित्ŕ̥भ्यः पुरूव꣡सुः  

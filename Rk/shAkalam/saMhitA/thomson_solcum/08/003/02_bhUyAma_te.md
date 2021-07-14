@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-bhūyā́ma te sumataú vājíno vayám  
-mā́ na star abhímātaye  
-asmā́ñ citrā́bhir avatād abhíṣṭibhir  
-ā́ naḥ sumnéṣu yāmaya  
+भूया꣡म ते सुमतउ꣡ वाजि꣡नो वय꣡म्  
+मा꣡ न स्तर् अभि꣡मातये  
+अस्मा꣡ञ् चित्रा꣡भिर् अवताद् अभि꣡ष्टिभिर्  
+आ꣡ नः सुम्ने꣡षु यामय  

@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-índro dīrghā́ya cákṣasa  
-ā́ sū́ryaṃ rohayad diví  
-ví góbhir ádrim airayat  
+इ꣡न्द्रो दीर्घा꣡य च꣡क्षस  
+आ꣡ सू꣡र्यं रोहयद् दिवि꣡  
+वि꣡ गो꣡भिर् अ꣡द्रिम् ऐरयत्  

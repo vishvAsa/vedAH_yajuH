@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-idáṃ havír maghavan túbhya° rātám  
-práti samrāḷ áhr̥ṇāno gr̥bhāya  
-túbhyaṃ sutó maghavan túbhya° pakvó  
-addhí indra píba ca prásthitasya  
+इदं꣡ हवि꣡र् मघवन् तु꣡भ्य° रात꣡म्  
+प्र꣡ति सम्राऌ अ꣡हृणानो गृभाय  
+तु꣡भ्यं सुतो꣡ मघवन् तु꣡भ्य° पक्वो꣡  
+अद्धि꣡ इन्द्र पि꣡ब च प्र꣡स्थितस्य  

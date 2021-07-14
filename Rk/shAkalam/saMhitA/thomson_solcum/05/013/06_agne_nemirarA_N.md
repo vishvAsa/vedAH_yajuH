@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ágne nemír arā́m̐ iva  
-devā́ṃs tvám paribhū́r asi  
-ā́ rā́dhaś citrám r̥ñjase  
+अ꣡ग्ने नेमि꣡र् अराँ꣡ इव  
+देवां꣡स् त्व꣡म् परिभू꣡र् असि  
+आ꣡ रा꣡धश् चित्र꣡म् ऋञ्जसे  

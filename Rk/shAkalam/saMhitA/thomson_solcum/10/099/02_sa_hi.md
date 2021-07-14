@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá hí dyutā́ vidyútā véti sā́ma  
-pr̥thúṃ yónim asuratvā́ sasāda  
-sá sánīḷebhiḥ prasahānó asya  
-bhrā́tur ná r̥té saptáthasya māyā́ḥ  
+स꣡ हि꣡ द्युता꣡ विद्यु꣡ता वे꣡ति सा꣡म  
+पृथुं꣡ यो꣡निम् असुरत्वा꣡ ससाद  
+स꣡ स꣡नीऌएभिः प्रसहानो꣡ अस्य  
+भ्रा꣡तुर् न꣡ ऋते꣡ सप्त꣡थस्य मायाः꣡  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sánat sā́ aśviyam paśúm  
-utá gávyaṃ śatā́vayam  
-śyāvā́śuvastutāya yā́  
-dór vīrā́yopabárbr̥hat  
+स꣡नत् सा꣡ अश्वियम् पशु꣡म्  
+उत꣡ ग꣡व्यं शता꣡वयम्  
+श्यावा꣡शुवस्तुताय या꣡  
+दो꣡र् वीरा꣡योपब꣡र्बृहत्  

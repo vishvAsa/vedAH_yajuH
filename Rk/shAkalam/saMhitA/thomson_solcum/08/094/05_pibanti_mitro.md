@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-píbanti mitró aryamā́  
-tánā pūtásya váruṇaḥ  
-triṣadhasthásya jā́vataḥ  
+पि꣡बन्ति मित्रो꣡ अर्यमा꣡  
+त꣡ना पूत꣡स्य व꣡रुणः  
+त्रिषधस्थ꣡स्य जा꣡वतः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-aháṃ gárbham adadhām óṣadhīṣu  
-aháṃ víśveṣu bhúvaneṣu antáḥ  
-ahám prajā́ ajanayam pr̥thivyā́m  
-aháṃ jánibhyo aparī́ṣu putrā́n  
+अहं꣡ ग꣡र्भम् अदधाम् ओ꣡षधीषु  
+अहं꣡ वि꣡श्वेषु भु꣡वनेषु अन्तः꣡  
+अह꣡म् प्रजा꣡ अजनयम् पृथिव्या꣡म्  
+अहं꣡ ज꣡निभ्यो अपरी꣡षु पुत्रा꣡न्  

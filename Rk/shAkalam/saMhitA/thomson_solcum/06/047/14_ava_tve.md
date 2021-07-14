@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-áva tvé indra praváto ná ūrmír  
-gíro bráhmāṇi niyúto dhavante  
-urū́ ná rā́dhaḥ sávanā purū́ṇi  
-apó gā́ vajrin yuvase sám índūn  
+अ꣡व त्वे꣡ इन्द्र प्रव꣡तो न꣡ ऊर्मि꣡र्  
+गि꣡रो ब्र꣡ह्माणि नियु꣡तो धवन्ते  
+उरू꣡ न꣡ रा꣡धः स꣡वना पुरू꣡णि  
+अपो꣡ गा꣡ वज्रिन् युवसे स꣡म् इ꣡न्दून्  

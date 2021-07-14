@@ -2,9 +2,9 @@
 title = "005"
 
 +++
-pári ṇo vr̥ṇajann aghā́  
-durgā́ṇi rathíyo yathā  
-syā́méd índrasya śármaṇi  
-ādityā́nām utā́vasi  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+प꣡रि णो वृणजन्न् अघा꣡  
+दुर्गा꣡णि रथि꣡यो यथा  
+स्या꣡मे꣡द् इ꣡न्द्रस्य श꣡र्मणि  
+आदित्या꣡नाम् उता꣡वसि  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

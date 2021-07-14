@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ā́ rikha kikirā́ kr̥ṇu  
-paṇīnā́ṃ hŕ̥dayā kave  
-áthem asmábhyaṃ randhaya  
+आ꣡ रिख किकिरा꣡ कृणु  
+पणीनां꣡ ह्ŕ̥दया कवे  
+अ꣡थेम् अस्म꣡भ्यं रन्धय  

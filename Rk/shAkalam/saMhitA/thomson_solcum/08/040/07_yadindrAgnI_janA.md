@@ -2,9 +2,9 @@
 title = "007"
 
 +++
-yád indrāgnī́ jánā imé  
-vihváyante tánā girā́  
-asmā́kebhir nŕ̥bhir vayáṃ  
-sāsahyā́ma pr̥tanyató  
-vanuyā́ma vanuṣyató  
-nábhantām anyaké same  
+य꣡द् इन्द्राग्नी꣡ ज꣡ना इमे꣡  
+विह्व꣡यन्ते त꣡ना गिरा꣡  
+अस्मा꣡केभिर् न्ŕ̥भिर् वयं꣡  
+सासह्या꣡म पृतन्यतो꣡  
+वनुया꣡म वनुष्यतो꣡  
+न꣡भन्ताम् अन्यके꣡ समे  

@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-pátir bhava vr̥trahan sūnŕ̥tānāṃ  
-girā́ṃ viśvā́yur vr̥ṣabhó vayodhā́ḥ  
-ā́ no gahi sakhiyébhiḥ śivébhir  
-mahā́n mahī́bhir ūtíbhiḥ saraṇyán  
+प꣡तिर् भव वृत्रहन् सून्ŕ̥तानां  
+गिरां꣡ विश्वा꣡युर् वृषभो꣡ वयोधाः꣡  
+आ꣡ नो गहि सखिये꣡भिः शिवे꣡भिर्  
+महा꣡न् मही꣡भिर् ऊति꣡भिः सरण्य꣡न्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ yātu índro ávasa úpa na  
-ihá stutáḥ sadhamā́d astu śū́raḥ  
-vāvr̥dhānás táviṣīr yásya pūrvī́r  
-diyaúr ná kṣatrám abhíbhūti púṣyāt  
+आ꣡ यातु इ꣡न्द्रो अ꣡वस उ꣡प न  
+इह꣡ स्तुतः꣡ सधमा꣡द् अस्तु शू꣡रः  
+वावृधान꣡स् त꣡विषीर् य꣡स्य पूर्वी꣡र्  
+दियउ꣡र् न꣡ क्षत्र꣡म् अभि꣡भूति पु꣡ष्यात्  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-tośā́sā rathayā́vānā  
-vr̥traháṇā́parājitā  
-índrāgnī tásya bodhatam  
+तोशा꣡सा रथया꣡वाना  
+वृत्रह꣡णा꣡पराजिता  
+इ꣡न्द्राग्नी त꣡स्य बोधतम्  

@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-sám u tvā dhībhír asvaran  
-hinvatī́ḥ saptá jāmáyaḥ  
-vípram ājā́ vivásvataḥ  
+स꣡म् उ त्वा धीभि꣡र् अस्वरन्  
+हिन्वतीः꣡ सप्त꣡ जाम꣡यः  
+वि꣡प्रम् आजा꣡ विव꣡स्वतः  

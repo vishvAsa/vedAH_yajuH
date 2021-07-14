@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-vibhā́vā deváḥ suráṇaḥ pári kṣitī́r  
-agnír babhūva śávasā sumádrathaḥ  
-tásya vratā́ni bhūripoṣíṇo vayám  
-úpa bhūṣema dáma ā́ suvr̥ktíbhiḥ  
+विभा꣡वा देवः꣡ सुर꣡णः प꣡रि क्षिती꣡र्  
+अग्नि꣡र् बभूव श꣡वसा सुम꣡द्रथः  
+त꣡स्य व्रता꣡नि भूरिपोषि꣡णो वय꣡म्  
+उ꣡प भूषेम द꣡म आ꣡ सुवृक्ति꣡भिः  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sá ghā rā́jā sátpatiḥ śūśuvaj jáno  
-rātáhavyaḥ práti yáḥ śā́sam ínvati  
-ukthā́ vā yó abhigr̥ṇā́ti rā́dhasā  
-dā́nur asmā úparā pinvate diváḥ  
+स꣡ घा रा꣡जा स꣡त्पतिः शूशुवज् ज꣡नो  
+रात꣡हव्यः प्र꣡ति यः꣡ शा꣡सम् इ꣡न्वति  
+उक्था꣡ वा यो꣡ अभिगृणा꣡ति रा꣡धसा  
+दा꣡नुर् अस्मा उ꣡परा पिन्वते दिवः꣡  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-agnír devébhir mánuṣaś ca jantúbhis  
-tanvānó yajñám purupéśasaṃ dhiyā́  
-rathī́r antár īyate sā́dhadiṣṭibhir  
-jīró dámūnā abhiśasticā́tanaḥ  
+अग्नि꣡र् देवे꣡भिर् म꣡नुषश् च जन्तु꣡भिस्  
+तन्वानो꣡ यज्ञ꣡म् पुरुपे꣡शसं धिया꣡  
+रथी꣡र् अन्त꣡र् ईयते सा꣡धदिष्टिभिर्  
+जीरो꣡ द꣡मूना अभिशस्तिचा꣡तनः  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tán nú satyám pávamānasya astu  
-yátra víśve kārávaḥ saṃnásanta  
-jyótir yád áhne ákr̥ṇod ulokám†  
-prā́van mánuṃ dásyave kar abhī́kam  
+त꣡न् नु꣡ सत्य꣡म् प꣡वमानस्य अस्तु  
+य꣡त्र वि꣡श्वे कार꣡वः संन꣡सन्त  
+ज्यो꣡तिर् य꣡द् अ꣡ह्ने अ꣡कृणोद् उलोक꣡म्†  
+प्रा꣡वन् म꣡नुं द꣡स्यवे कर् अभी꣡कम्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tá ādityā ā́ gatā sarvátātaye  
-bhūtá devā vr̥tratū́ryeṣu śambhúvaḥ  
-ráthaṃ ná durgā́d vasavaḥ sudānavo  
-víśvasmān no áṃhaso níṣ pipartana  
+त꣡ आदित्या आ꣡ गता सर्व꣡तातये  
+भूत꣡ देवा वृत्रतू꣡र्येषु शम्भु꣡वः  
+र꣡थं न꣡ दुर्गा꣡द् वसवः सुदानवो  
+वि꣡श्वस्मान् नो अं꣡हसो नि꣡ष् पिपर्तन  

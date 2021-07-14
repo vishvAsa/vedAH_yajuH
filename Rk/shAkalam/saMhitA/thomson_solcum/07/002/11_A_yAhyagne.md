@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ā́ yāhi agne samidhānó arvā́ṅ  
-índreṇa devaíḥ saráthaṃ turébhiḥ  
-barhír na āstām áditiḥ suputrā́  
-svā́hā devā́ amŕ̥tā mādayantām  
+आ꣡ याहि अग्ने समिधानो꣡ अर्वा꣡ङ्  
+इ꣡न्द्रेण देवइः꣡ सर꣡थं तुरे꣡भिः  
+बर्हि꣡र् न आस्ताम् अ꣡दितिः सुपुत्रा꣡  
+स्वा꣡हा देवा꣡ अम्ŕ̥ता मादयन्ताम्  

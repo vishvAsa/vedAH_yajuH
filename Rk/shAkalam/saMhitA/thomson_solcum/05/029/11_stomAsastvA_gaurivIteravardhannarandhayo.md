@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-stómāsas tvā gaúrivīter avardhann  
-árandhayo vaidathinā́ya píprum  
-ā́ tvā́m r̥jíśvā sakhiyā́ya cakre  
-pácan paktī́r ápibaḥ sómam asya  
+स्तो꣡मासस् त्वा गउ꣡रिवीतेर् अवर्धन्न्  
+अ꣡रन्धयो वैदथिना꣡य पि꣡प्रुम्  
+आ꣡ त्वा꣡म् ऋजि꣡श्वा सखिया꣡य चक्रे  
+प꣡चन् पक्ती꣡र् अ꣡पिबः सो꣡मम् अस्य  

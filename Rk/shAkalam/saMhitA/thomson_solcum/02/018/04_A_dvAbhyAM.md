@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ duvā́bhyāṃ háribhyām indra yāhi  
-ā́ catúrbhir ā́ ṣaḍbhír hūyámānaḥ  
-ā́ aṣṭābhír daśábhiḥ somapéyam  
-ayáṃ sutáḥ sumakha mā́ mŕ̥dhas kaḥ  
+आ꣡ दुवा꣡भ्यां ह꣡रिभ्याम् इन्द्र याहि  
+आ꣡ चतु꣡र्भिर् आ꣡ षड्भि꣡र् हूय꣡मानः  
+आ꣡ अष्टाभि꣡र् दश꣡भिः सोमपे꣡यम्  
+अयं꣡ सुतः꣡ सुमख मा꣡ म्ŕ̥धस् कः  

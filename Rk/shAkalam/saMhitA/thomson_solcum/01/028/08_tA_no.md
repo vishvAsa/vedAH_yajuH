@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-tā́ no adyá vanaspatī  
-r̥ṣvā́v r̥ṣvébhiḥ sotŕ̥bhiḥ  
-índrāya mádhumat sutam  
+ता꣡ नो अद्य꣡ वनस्पती  
+ऋष्वा꣡व् ऋष्वे꣡भिः सोत्ŕ̥भिः  
+इ꣡न्द्राय म꣡धुमत् सुतम्  

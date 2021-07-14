@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-rāyó budhnáḥ saṃgámano vásūnāṃ  
-yajñásya ketúr manmasā́dhano véḥ  
-amr̥tatváṃ rákṣamāṇāsa enaṃ  
-devā́ agníṃ dhārayan draviṇodā́m  
+रायो꣡ बुध्नः꣡ संग꣡मनो व꣡सूनां  
+यज्ञ꣡स्य केतु꣡र् मन्मसा꣡धनो वेः꣡  
+अमृतत्वं꣡ र꣡क्षमाणास एनं  
+देवा꣡ अग्निं꣡ धारयन् द्रविणोदा꣡म्  

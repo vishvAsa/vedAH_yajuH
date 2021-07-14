@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-āśúṃ dadhikrā́ṃ tám u nú ṣṭavāma  
-divás pr̥thivyā́ utá carkirāma  
-uchántīr mā́m uṣásaḥ sūdayantu  
-áti víśvāni duritā́ni parṣan  
+आशुं꣡ दधिक्रां꣡ त꣡म् उ नु꣡ ष्टवाम  
+दिव꣡स् पृथिव्या꣡ उत꣡ चर्किराम  
+उछ꣡न्तीर् मा꣡म् उष꣡सः सूदयन्तु  
+अ꣡ति वि꣡श्वानि दुरिता꣡नि पर्षन्  

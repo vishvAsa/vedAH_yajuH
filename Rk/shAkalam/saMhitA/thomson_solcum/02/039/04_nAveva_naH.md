@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-nāvéva naḥ pārayataṃ yugéva  
-nábhyeva na upadhī́va pradhī́va  
-śvā́neva no áriṣaṇyā tanū́nāṃ  
-khŕ̥galeva visrásaḥ pātam asmā́n  
+नावे꣡व नः पारयतं युगे꣡व  
+न꣡भ्येव न उपधी꣡व प्रधी꣡व  
+श्वा꣡नेव नो अ꣡रिषण्या तनू꣡नां  
+ख्ŕ̥गलेव विस्र꣡सः पातम् अस्मा꣡न्  

@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-tuváṃ no asyā́ indra durháṇāyāḥ  
-pāhí vajrivo duritā́d abhī́ke  
-prá no vā́jān rathíyo áśvabudhyān  
-iṣé yandhi śrávase sūnŕ̥tāyai  
+तुवं꣡ नो अस्या꣡ इन्द्र दुर्ह꣡णायाः  
+पाहि꣡ वज्रिवो दुरिता꣡द् अभी꣡के  
+प्र꣡ नो वा꣡जान् रथि꣡यो अ꣡श्वबुध्यान्  
+इषे꣡ यन्धि श्र꣡वसे सून्ŕ̥तायै  

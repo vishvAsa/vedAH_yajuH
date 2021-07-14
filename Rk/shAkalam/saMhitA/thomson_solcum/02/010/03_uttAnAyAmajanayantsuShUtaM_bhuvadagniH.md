@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-uttānā́yām ajanayan súṣūtam  
-bhúvad agníḥ purupéśāsu gárbhaḥ  
-śíriṇāyāṃ cid aktúnā máhobhir  
-áparīvr̥to vasati prácetāḥ  
+उत्ताना꣡याम् अजनयन् सु꣡षूतम्  
+भु꣡वद् अग्निः꣡ पुरुपे꣡शासु ग꣡र्भः  
+शि꣡रिणायां चिद् अक्तु꣡ना म꣡होभिर्  
+अ꣡परीवृतो वसति प्र꣡चेताः  

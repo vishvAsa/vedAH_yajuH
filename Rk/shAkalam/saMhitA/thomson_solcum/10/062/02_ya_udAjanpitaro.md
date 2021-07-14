@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yá udā́jan pitáro gomáyaṃ vásu  
-r̥ténā́bhindan parivatsaré valám  
-dīrghāyutvám aṅgiraso vo astu  
-práti gr̥bhṇīta mānaváṃ sumedhasaḥ  
+य꣡ उदा꣡जन् पित꣡रो गोम꣡यं व꣡सु  
+ऋते꣡ना꣡भिन्दन् परिवत्सरे꣡ वल꣡म्  
+दीर्घायुत्व꣡म् अङ्गिरसो वो अस्तु  
+प्र꣡ति गृभ्णीत मानवं꣡ सुमेधसः  

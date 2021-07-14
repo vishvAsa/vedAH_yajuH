@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-pariṣádyaṃ hí áraṇasya rékṇo  
-nítyasya rāyáḥ pátayaḥ siyāma  
-ná śéṣo agne anyájātam asti  
-ácetānasya mā́ pathó ví dukṣaḥ  
+परिष꣡द्यं हि꣡ अ꣡रणस्य रे꣡क्णो  
+नि꣡त्यस्य रायः꣡ प꣡तयः सियाम  
+न꣡ शे꣡षो अग्ने अन्य꣡जातम् अस्ति  
+अ꣡चेतानस्य मा꣡ पथो꣡ वि꣡ दुक्षः  

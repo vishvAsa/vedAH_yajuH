@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ahám etā́ñ chā́śvasato duvā́-duvā  
-índraṃ yé vájraṃ yudháye ákr̥ṇvata  
-āhváyamānām̐ áva hánmanāhanaṃ  
-dr̥̄ḷhā́+ vádann ánamasyur namasvínaḥ  
+अह꣡म् एता꣡ञ् छा꣡श्वसतो दुवा꣡-दुवा  
+इ꣡न्द्रं ये꣡ व꣡ज्रं युध꣡ये अ꣡कृण्वत  
+आह्व꣡यमानाँ अ꣡व ह꣡न्मनाहनं  
+दॄऌहा꣡+ व꣡दन्न् अ꣡नमस्युर् नमस्वि꣡नः  

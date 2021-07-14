@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá ketúnā br̥hatā́ yāti agnír  
-ā́ ródasī vr̥ṣabhó roravīti  
-diváś cid ántām̐ upamā́m̐ úd ānaḷ  
-apā́m upásthe mahiṣó vavardha  
+प्र꣡ केतु꣡ना बृहता꣡ याति अग्नि꣡र्  
+आ꣡ रो꣡दसी वृषभो꣡ रोरवीति  
+दिव꣡श् चिद् अ꣡न्ताँ उपमाँ꣡ उ꣡द् आनऌ  
+अपा꣡म् उप꣡स्थे महिषो꣡ ववर्ध  

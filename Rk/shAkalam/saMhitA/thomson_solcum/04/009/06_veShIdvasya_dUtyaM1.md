@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-véṣī́d u asya dūtíyaṃ  
-havyám mártasya vóḷhave  
-yásya jújoṣo adhvarám  
+वे꣡षी꣡द् उ अस्य दूति꣡यं  
+हव्य꣡म् म꣡र्तस्य वो꣡ऌहवे  
+य꣡स्य जु꣡जोषो अध्वर꣡म्  

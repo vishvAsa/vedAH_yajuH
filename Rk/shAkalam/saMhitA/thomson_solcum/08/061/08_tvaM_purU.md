@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tuvám purū́ sahásrāṇi śatā́ni ca  
-yūthā́ dānā́ya maṃhase  
-ā́ puraṃdaráṃ cakr̥ma vípravacasa  
-índraṃ gā́yanto ávase  
+तुव꣡म् पुरू꣡ सह꣡स्राणि शता꣡नि च  
+यूथा꣡ दाना꣡य मंहसे  
+आ꣡ पुरंदरं꣡ चकृम वि꣡प्रवचस  
+इ꣡न्द्रं गा꣡यन्तो अ꣡वसे  

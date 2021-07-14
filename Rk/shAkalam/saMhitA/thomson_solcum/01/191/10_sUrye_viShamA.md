@@ -2,9 +2,9 @@
 title = "010"
 
 +++
-sū́rye viṣám ā́ sajāmi  
-dŕ̥tiṃ súrāvato gr̥hé  
-só cin nú ná marāti  
-nó vayám marāma  
-āré asya yójanaṃ hariṣṭhā́  
-mádhu tvā madhulā́ cakāra  
+सू꣡र्ये विष꣡म् आ꣡ सजामि  
+द्ŕ̥तिं सु꣡रावतो गृहे꣡  
+सो꣡ चिन् नु꣡ न꣡ मराति  
+नो꣡ वय꣡म् मराम  
+आरे꣡ अस्य यो꣡जनं हरिष्ठा꣡  
+म꣡धु त्वा मधुला꣡ चकार  

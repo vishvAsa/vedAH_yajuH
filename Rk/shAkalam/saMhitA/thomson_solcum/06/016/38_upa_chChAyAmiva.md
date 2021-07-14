@@ -2,6 +2,6 @@
 title = "038"
 
 +++
-úpa chāyā́m iva ghŕ̥ṇer  
-áganma śárma te vayám  
-ágne híraṇyasaṃdr̥śaḥ  
+उ꣡प छाया꣡म् इव घ्ŕ̥णेर्  
+अ꣡गन्म श꣡र्म ते वय꣡म्  
+अ꣡ग्ने हि꣡रण्यसंदृशः  

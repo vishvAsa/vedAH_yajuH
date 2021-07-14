@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yuváṃ surā́mam aśvinā  
-námucāv āsuré sácā  
-vipipānā́ śubhas patī  
-índraṃ kármasu āvatam  
+युवं꣡ सुरा꣡मम् अश्विना  
+न꣡मुचाव् आसुरे꣡ स꣡चा  
+विपिपाना꣡ शुभस् पती  
+इ꣡न्द्रं क꣡र्मसु आवतम्  

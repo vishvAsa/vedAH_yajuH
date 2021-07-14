@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-vr̥tréṇa yád áhinā bíbhrad ā́yudhā  
-samásthithā yudháye śáṃsam āvíde  
-víśve te átra marútaḥ sahá tmánā  
-ávardhann ugra mahimā́nam indriyám  
+वृत्रे꣡ण य꣡द् अ꣡हिना बि꣡भ्रद् आ꣡युधा  
+सम꣡स्थिथा युध꣡ये शं꣡सम् आवि꣡दे  
+वि꣡श्वे ते अ꣡त्र मरु꣡तः सह꣡ त्म꣡ना  
+अ꣡वर्धन्न् उग्र महिमा꣡नम् इन्द्रिय꣡म्  

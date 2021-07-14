@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-yádi me rāráṇaḥ sutá  
-ukthé vā dádhase cánaḥ  
-ārā́d úpa svadhā́ gahi  
+य꣡दि मे रार꣡णः सुत꣡  
+उक्थे꣡ वा द꣡धसे च꣡नः  
+आरा꣡द् उ꣡प स्वधा꣡ गहि  

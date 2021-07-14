@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tváyā vayáṃ śāśadmahe ráṇeṣu  
-prapáśyanto yudhéniyāni bhū́ri  
-codáyāmi ta ā́yudhā vácobhiḥ  
-sáṃ te śiśāmi bráhmaṇā váyāṃsi  
+त्व꣡या वयं꣡ शाशद्महे र꣡णेषु  
+प्रप꣡श्यन्तो युधे꣡नियानि भू꣡रि  
+चोद꣡यामि त आ꣡युधा व꣡चोभिः  
+सं꣡ ते शिशामि ब्र꣡ह्मणा व꣡यांसि  

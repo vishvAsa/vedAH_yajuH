@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-ā́ no gotrā́ dardr̥hi gopate gā́ḥ  
-sám asmábhyaṃ sanáyo yantu vā́jāḥ  
-divákṣā 'si° vr̥ṣabha satyáśuṣmo  
-asmábhyaṃ sú maghavan bodhi godā́ḥ  
+आ꣡ नो गोत्रा꣡ दर्दृहि गोपते गाः꣡  
+स꣡म् अस्म꣡भ्यं सन꣡यो यन्तु वा꣡जाः  
+दिव꣡क्षा ऽसि° वृषभ सत्य꣡शुष्मो  
+अस्म꣡भ्यं सु꣡ मघवन् बोधि गोदाः꣡  

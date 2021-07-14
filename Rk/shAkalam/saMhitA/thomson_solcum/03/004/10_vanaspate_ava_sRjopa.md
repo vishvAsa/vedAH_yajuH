@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-vánaspate áva sr̥jópa devā́n  
-agnír havíḥ śamitā́ sūdayāti  
-séd u hótā satyátaro yajāti  
-yáthā devā́nāṃ jánimāni véda  
+व꣡नस्पते अ꣡व सृजो꣡प देवा꣡न्  
+अग्नि꣡र् हविः꣡ शमिता꣡ सूदयाति  
+से꣡द् उ हो꣡ता सत्य꣡तरो यजाति  
+य꣡था देवा꣡नां ज꣡निमानि वे꣡द  

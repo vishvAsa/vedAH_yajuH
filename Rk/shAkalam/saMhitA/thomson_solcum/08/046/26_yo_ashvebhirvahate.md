@@ -2,7 +2,7 @@
 title = "026"
 
 +++
-yó áśvebhir váhate vásta usrā́s  
-tríḥ saptá saptatīnã́m  
-ebhíḥ sómebhiḥ somasúdbhiḥ somapā  
-dānā́ya śukrapūtapāḥ  
+यो꣡ अ꣡श्वेभिर् व꣡हते व꣡स्त उस्रा꣡स्  
+त्रिः꣡ सप्त꣡ सप्ततीन्ã꣡म्  
+एभिः꣡ सो꣡मेभिः सोमसु꣡द्भिः सोमपा  
+दाना꣡य शुक्रपूतपाः  

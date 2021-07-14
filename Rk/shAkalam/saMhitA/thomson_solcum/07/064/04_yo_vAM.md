@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yó vāṃ gártam mánasā tákṣad etám  
-ūrdhvā́ṃ dhītíṃ kr̥ṇávad dhāráyac ca  
-ukṣéthām mitrāvaruṇā ghr̥téna  
-tā́ rājānā sukṣitī́s tarpayethām  
+यो꣡ वां ग꣡र्तम् म꣡नसा त꣡क्षद् एत꣡म्  
+ऊर्ध्वां꣡ धीतिं꣡ कृण꣡वद् धार꣡यच् च  
+उक्षे꣡थाम् मित्रावरुणा घृते꣡न  
+ता꣡ राजाना सुक्षिती꣡स् तर्पयेथाम्  

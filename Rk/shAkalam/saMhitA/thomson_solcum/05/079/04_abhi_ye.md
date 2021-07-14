@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-abhí yé tvā vibhāvari  
-stómair gr̥ṇánti váhnayaḥ  
-maghaír maghoni suśríyo  
-dā́manvantaḥ surātáyaḥ  
-sújāte áśvasūnr̥te  
+अभि꣡ ये꣡ त्वा विभावरि  
+स्तो꣡मैर् गृण꣡न्ति व꣡ह्नयः  
+मघइ꣡र् मघोनि सुश्रि꣡यो  
+दा꣡मन्वन्तः सुरात꣡यः  
+सु꣡जाते अ꣡श्वसूनृते  

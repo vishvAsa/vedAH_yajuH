@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-samyák sravanti saríto ná dhénā  
-antár hr̥dā́ mánasā pūyámānāḥ  
-eté arṣanti ūrmáyo ghr̥tásya  
-mr̥gā́ iva kṣipaṇór ī́ṣamāṇāḥ  
+सम्य꣡क् स्रवन्ति सरि꣡तो न꣡ धे꣡ना  
+अन्त꣡र् हृदा꣡ म꣡नसा पूय꣡मानाः  
+एते꣡ अर्षन्ति ऊर्म꣡यो घृत꣡स्य  
+मृगा꣡ इव क्षिपणो꣡र् ई꣡षमाणाः  

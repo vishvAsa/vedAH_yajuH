@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yajñā́-yajñā vaḥ samanā́ tuturváṇir  
-dhíyaṃ-dhiyaṃ vo devayā́ u dadhidhve  
-ā́ vo arvā́caḥ suvitā́ya ródasyor  
-mahé vavr̥tyām ávase suvr̥ktíbhiḥ  
+यज्ञा꣡-यज्ञा वः समना꣡ तुतुर्व꣡णिर्  
+धि꣡यं-धियं वो देवया꣡ उ दधिध्वे  
+आ꣡ वो अर्वा꣡चः सुविता꣡य रो꣡दस्योर्  
+महे꣡ ववृत्याम् अ꣡वसे सुवृक्ति꣡भिः  

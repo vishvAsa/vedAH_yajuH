@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prá-prāyám agnír bharatásya śr̥ṇve  
-ví yát sū́ryo ná rócate br̥hád bhā́ḥ  
-abhí yáḥ pūrúm pŕ̥tanāsu tasthaú  
-dyutānó daívyo átithiḥ śuśoca  
+प्र꣡-प्राय꣡म् अग्नि꣡र् भरत꣡स्य शृण्वे  
+वि꣡ य꣡त् सू꣡र्यो न꣡ रो꣡चते बृह꣡द् भाः꣡  
+अभि꣡ यः꣡ पूरु꣡म् प्ŕ̥तनासु तस्थउ꣡  
+द्युतानो꣡ दइ꣡व्यो अ꣡तिथिः शुशोच  

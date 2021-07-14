@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ví pr̥chāmi pākíyā ná devā́n  
-váṣaṭkr̥tasya adbhutásya dasrā  
-pātáṃ ca sáhyaso yuváṃ ca rábhyaso naḥ  
+वि꣡ पृछामि पाकि꣡या न꣡ देवा꣡न्  
+व꣡षट्कृतस्य अद्भुत꣡स्य दस्रा  
+पातं꣡ च स꣡ह्यसो युवं꣡ च र꣡भ्यसो नः  

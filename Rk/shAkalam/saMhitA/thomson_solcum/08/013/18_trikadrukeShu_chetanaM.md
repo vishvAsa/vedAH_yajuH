@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-tríkadrukeṣu cétanaṃ  
-devā́so yajñám atnata  
-tám íd vardhantu no gíraḥ sadā́vr̥dham  
+त्रि꣡कद्रुकेषु चे꣡तनं  
+देवा꣡सो यज्ञ꣡म् अत्नत  
+त꣡म् इ꣡द् वर्धन्तु नो गि꣡रः सदा꣡वृधम्  

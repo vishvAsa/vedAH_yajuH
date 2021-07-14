@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-sám pūṣann ádhvanas tira  
-ví áṃho vimuco napāt  
-sákṣvā deva prá ṇas puráḥ  
+स꣡म् पूषन्न् अ꣡ध्वनस् तिर  
+वि꣡ अं꣡हो विमुचो नपात्  
+स꣡क्ष्वा देव प्र꣡ णस् पुरः꣡  

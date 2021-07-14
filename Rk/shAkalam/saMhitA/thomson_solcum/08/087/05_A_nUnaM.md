@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ nūnáṃ yātam aśvinā  
-áśvebhiḥ pruṣitápsubhiḥ  
-dásrā híraṇyavartanī śubhas patī  
-pātáṃ sómam r̥tāvr̥dhā  
+आ꣡ नूनं꣡ यातम् अश्विना  
+अ꣡श्वेभिः प्रुषित꣡प्सुभिः  
+द꣡स्रा हि꣡रण्यवर्तनी शुभस् पती  
+पातं꣡ सो꣡मम् ऋतावृधा  

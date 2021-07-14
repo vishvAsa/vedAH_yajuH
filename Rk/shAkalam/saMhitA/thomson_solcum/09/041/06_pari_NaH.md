@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-pári ṇaḥ śarmayántiyā  
-dhā́rayā soma viśvátaḥ  
-sárā raséva viṣṭápam  
+प꣡रि णः शर्मय꣡न्तिया  
+धा꣡रया सोम विश्व꣡तः  
+स꣡रा रसे꣡व विष्ट꣡पम्  

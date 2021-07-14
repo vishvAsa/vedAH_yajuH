@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-trī́ rocanā́ diviyā́ dhārayanta  
-hiraṇyáyāḥ śúcayo dhā́rapūtāḥ  
-ásvapnajo animiṣā́ ádabdhā  
-uruśáṃsā r̥jáve mártiyāya  
+त्री꣡ रोचना꣡ दिविया꣡ धारयन्त  
+हिरण्य꣡याः शु꣡चयो धा꣡रपूताः  
+अ꣡स्वप्नजो अनिमिषा꣡ अ꣡दब्धा  
+उरुशं꣡सा ऋज꣡वे म꣡र्तियाय  

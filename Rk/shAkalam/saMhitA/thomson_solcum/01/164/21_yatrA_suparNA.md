@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-yátrā suparṇā́ amŕ̥tasya bhāgám  
-ánimeṣaṃ vidáthābhisváranti  
-inó víśvasya bhúvanasya gopā́ḥ  
-sá mā dhī́raḥ pā́kam átrā́ viveśa  
+य꣡त्रा सुपर्णा꣡ अम्ŕ̥तस्य भाग꣡म्  
+अ꣡निमेषं विद꣡थाभिस्व꣡रन्ति  
+इनो꣡ वि꣡श्वस्य भु꣡वनस्य गोपाः꣡  
+स꣡ मा धी꣡रः पा꣡कम् अ꣡त्रा꣡ विवेश  

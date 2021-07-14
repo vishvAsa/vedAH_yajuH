@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sadyó jātá óṣadhībhir vavakṣe  
-yádī várdhanti prasúvo ghr̥téna  
-ā́pa iva pravátā śúmbhamānā  
-uruṣyád agníḥ pitarór+ upásthe  
+सद्यो꣡ जात꣡ ओ꣡षधीभिर् ववक्षे  
+य꣡दी व꣡र्धन्ति प्रसु꣡वो घृते꣡न  
+आ꣡प इव प्रव꣡ता शु꣡म्भमाना  
+उरुष्य꣡द् अग्निः꣡ पितरो꣡र्+ उप꣡स्थे  

@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-bhúvo 'vitā́ vāmádevasya dhīnā́m  
-bhúvaḥ sákhā avr̥kó vā́jasātau  
-tuvā́m ánu prámatim ā́ jaganma  
-uruśáṃso jaritré viśvádha syāḥ  
+भु꣡वो ऽविता꣡ वाम꣡देवस्य धीना꣡म्  
+भु꣡वः स꣡खा अवृको꣡ वा꣡जसातौ  
+तुवा꣡म् अ꣡नु प्र꣡मतिम् आ꣡ जगन्म  
+उरुशं꣡सो जरित्रे꣡ विश्व꣡ध स्याः  

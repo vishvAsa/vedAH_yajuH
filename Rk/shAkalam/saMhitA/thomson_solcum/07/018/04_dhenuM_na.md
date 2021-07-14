@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-dhenúṃ ná tvā sūyávase dúdukṣann  
-úpa bráhmāṇi sasr̥je vásiṣṭhaḥ  
-tuvā́m ín me gópatiṃ víśva āha  
-ā́ na índraḥ sumatíṃ gantu ácha  
+धेनुं꣡ न꣡ त्वा सूय꣡वसे दु꣡दुक्षन्न्  
+उ꣡प ब्र꣡ह्माणि ससृजे व꣡सिष्ठः  
+तुवा꣡म् इ꣡न् मे गो꣡पतिं वि꣡श्व आह  
+आ꣡ न इ꣡न्द्रः सुमतिं꣡ गन्तु अ꣡छ  

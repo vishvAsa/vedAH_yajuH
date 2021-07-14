@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-r̥tásya pathí vedhā́ apāyi  
-śriyé mánāṃsi devā́so akran  
-dádhāno nā́ma mahó vácobhir  
-vápur dr̥śáye venyó ví āvaḥ  
+ऋत꣡स्य पथि꣡ वेधा꣡ अपायि  
+श्रिये꣡ म꣡नांसि देवा꣡सो अक्रन्  
+द꣡धानो ना꣡म महो꣡ व꣡चोभिर्  
+व꣡पुर् दृश꣡ये वेन्यो꣡ वि꣡ आवः  

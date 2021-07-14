@@ -2,6 +2,6 @@
 title = "036"
 
 +++
-mā́ sákhyuḥ śū́nam ā́ vide  
-mā́ putrásya prabhūvaso  
-āvŕ̥tvad bhūtu te mánaḥ  
+मा꣡ स꣡ख्युः शू꣡नम् आ꣡ विदे  
+मा꣡ पुत्र꣡स्य प्रभूवसो  
+आव्ŕ̥त्वद् भूतु ते म꣡नः  

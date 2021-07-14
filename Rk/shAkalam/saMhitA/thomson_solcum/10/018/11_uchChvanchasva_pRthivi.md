@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-úc chvañcasva pr̥thivi mā́ ní bādhathāḥ  
-sūpāyanā́smai bhava sūpavañcanā́  
-mātā́ putráṃ yáthā sicā́  
-abhy ènam bhūma ūrṇuhi  
+उ꣡च् छ्वञ्चस्व पृथिवि मा꣡ नि꣡ बाधथाः  
+सूपायना꣡स्मै भव सूपवञ्चना꣡  
+माता꣡ पुत्रं꣡ य꣡था सिचा꣡  
+अभ्य् ए᳡नम् भूम ऊर्णुहि  

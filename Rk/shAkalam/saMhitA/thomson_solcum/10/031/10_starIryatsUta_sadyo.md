@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-starī́r yát sū́ta sadyó ajyámānā  
-vyáthir avyathī́ḥ kr̥ṇuta svágopā  
-putró yát pū́rvaḥ pitarór+ jániṣṭa  
-śamiyā́ṃ gaúr jagāra yád dha pr̥chā́n  
+स्तरी꣡र् य꣡त् सू꣡त सद्यो꣡ अज्य꣡माना  
+व्य꣡थिर् अव्यथीः꣡ कृणुत स्व꣡गोपा  
+पुत्रो꣡ य꣡त् पू꣡र्वः पितरो꣡र्+ ज꣡निष्ट  
+शमियां꣡ गउ꣡र् जगार य꣡द् ध पृछा꣡न्  

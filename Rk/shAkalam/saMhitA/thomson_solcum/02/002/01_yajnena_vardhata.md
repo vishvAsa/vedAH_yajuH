@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yajñéna · vardhata jātávedasam  
-agníṃ yajadhvaṃ havíṣā tánā girā́  
-samidhānáṃ suprayásaṃ súvarṇaraṃ  
-dyukṣáṃ hótāraṃ vr̥jáneṣu dhūrṣádam  
+यज्ञे꣡न · वर्धत जात꣡वेदसम्  
+अग्निं꣡ यजध्वं हवि꣡षा त꣡ना गिरा꣡  
+समिधानं꣡ सुप्रय꣡सं सु꣡वर्णरं  
+द्युक्षं꣡ हो꣡तारं वृज꣡नेषु धूर्ष꣡दम्  

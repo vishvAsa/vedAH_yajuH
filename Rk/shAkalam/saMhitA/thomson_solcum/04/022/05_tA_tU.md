@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tā́ tū́ ta indra maható mahā́ni  
-víśveṣu ít sávaneṣu pravā́cyā  
-yác chūra dhr̥ṣṇo dhr̥ṣatā́ dadhr̥ṣvā́n  
-áhiṃ vájreṇa śávasā́viveṣīḥ  
+ता꣡ तू꣡ त इन्द्र महतो꣡ महा꣡नि  
+वि꣡श्वेषु इ꣡त् स꣡वनेषु प्रवा꣡च्या  
+य꣡च् छूर धृष्णो धृषता꣡ दधृष्वा꣡न्  
+अ꣡हिं व꣡ज्रेण श꣡वसा꣡विवेषीः  

@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-avapátantīr avadan  
-divá óṣadhayas pári  
-yáṃ jīvám aśnávāmahai  
-ná sá riṣyāti pū́ruṣaḥ  
+अवप꣡तन्तीर् अवदन्  
+दिव꣡ ओ꣡षधयस् प꣡रि  
+यं꣡ जीव꣡म् अश्न꣡वामहै  
+न꣡ स꣡ रिष्याति पू꣡रुषः  

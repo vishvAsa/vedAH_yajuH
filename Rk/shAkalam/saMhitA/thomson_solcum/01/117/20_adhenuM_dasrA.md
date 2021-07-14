@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-ádhenuṃ dasrā staríyaṃ víṣaktām  
-ápinvataṃ śayáve aśvinā gā́m  
-yuváṃ śácībhir vimadā́ya jāyā́ṃ  
-ní ūhathuḥ purumitrásya yóṣām  
+अ꣡धेनुं दस्रा स्तरि꣡यं वि꣡षक्ताम्  
+अ꣡पिन्वतं शय꣡वे अश्विना गा꣡म्  
+युवं꣡ श꣡चीभिर् विमदा꣡य जायां꣡  
+नि꣡ ऊहथुः पुरुमित्र꣡स्य यो꣡षाम्  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-mā́tre nú te súmite indra pūrvī́  
-dyaúr majmánā pr̥thivī́ kā́viyena  
-várāya te ghr̥távantaḥ sutā́saḥ  
-svā́dman bhavantu pītáye mádhūni  
+मा꣡त्रे नु꣡ ते सु꣡मिते इन्द्र पूर्वी꣡  
+द्यउ꣡र् मज्म꣡ना पृथिवी꣡ का꣡वियेन  
+व꣡राय ते घृत꣡वन्तः सुता꣡सः  
+स्वा꣡द्मन् भवन्तु पीत꣡ये म꣡धूनि  

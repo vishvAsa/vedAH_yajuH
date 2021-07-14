@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-mā́ré asmád ví mumuco  
-háripriya arvā́ṅ yāhi  
-índra svadhāvo mátsvehá  
+मा꣡रे꣡ अस्म꣡द् वि꣡ मुमुचो  
+ह꣡रिप्रिय अर्वा꣡ङ् याहि  
+इ꣡न्द्र स्वधावो म꣡त्स्वेह꣡  

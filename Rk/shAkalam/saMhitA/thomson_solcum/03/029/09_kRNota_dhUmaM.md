@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-kr̥ṇóta dhūmáṃ vŕ̥ṣaṇaṃ sakhāyo  
-ásredhanta itana vā́jam ácha  
-ayám agníḥ pr̥tanāṣā́ṭ suvī́ro  
-yéna devā́so ásahanta dásyūn  
+कृणो꣡त धूमं꣡ व्ŕ̥षणं सखायो  
+अ꣡स्रेधन्त इतन वा꣡जम् अ꣡छ  
+अय꣡म् अग्निः꣡ पृतनाषा꣡ट् सुवी꣡रो  
+ये꣡न देवा꣡सो अ꣡सहन्त द꣡स्यून्  

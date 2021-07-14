@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ghr̥tám mimikṣe ghr̥tám asya yónir  
-ghr̥té śritó ghr̥tám ū asya dhā́ma  
-anuṣvadhám ā́ vaha mādáyasva  
-svā́hākr̥taṃ vr̥ṣabha vakṣi havyám  
+घृत꣡म् मिमिक्षे घृत꣡म् अस्य यो꣡निर्  
+घृते꣡ श्रितो꣡ घृत꣡म् ऊ अस्य धा꣡म  
+अनुष्वध꣡म् आ꣡ वह माद꣡यस्व  
+स्वा꣡हाकृतं वृषभ वक्षि हव्य꣡म्  

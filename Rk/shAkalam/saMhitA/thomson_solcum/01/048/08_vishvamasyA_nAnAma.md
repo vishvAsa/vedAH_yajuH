@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-víśvam asyā nānāma cákṣase jágaj  
-jyótiṣ kr̥ṇoti sūnárī  
-ápa dvéṣo maghónī duhitā́ divá  
-uṣā́ uchad ápa srídhaḥ  
+वि꣡श्वम् अस्या नानाम च꣡क्षसे ज꣡गज्  
+ज्यो꣡तिष् कृणोति सून꣡री  
+अ꣡प द्वे꣡षो मघो꣡नी दुहिता꣡ दिव꣡  
+उषा꣡ उछद् अ꣡प स्रि꣡धः  

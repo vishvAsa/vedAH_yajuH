@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-etā́vatas te vaso  
-vidyā́ma śūra návyasaḥ  
-yáthā prā́va étaśaṃ kŕ̥tviye dháne  
-yáthā váśaṃ dáśavraje  
+एता꣡वतस् ते वसो  
+विद्या꣡म शूर न꣡व्यसः  
+य꣡था प्रा꣡व ए꣡तशं क्ŕ̥त्विये ध꣡ने  
+य꣡था व꣡शं द꣡शव्रजे  

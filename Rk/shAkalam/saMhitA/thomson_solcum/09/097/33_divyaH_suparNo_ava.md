@@ -2,7 +2,7 @@
 title = "033"
 
 +++
-divyáḥ suparṇó áva cakṣi soma  
-pínvan dhā́rāḥ kármaṇā devávītau  
-éndo viśa kaláśaṃ somadhā́naṃ  
-krándann ihi sū́riyasyópa raśmím  
+दिव्यः꣡ सुपर्णो꣡ अ꣡व चक्षि सोम  
+पि꣡न्वन् धा꣡राः क꣡र्मणा देव꣡वीतौ  
+ए꣡न्दो विश कल꣡शं सोमधा꣡नं  
+क्र꣡न्दन्न् इहि सू꣡रियस्यो꣡प रश्मि꣡म्  

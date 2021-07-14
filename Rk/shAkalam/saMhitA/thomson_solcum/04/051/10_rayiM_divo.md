@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-rayíṃ divo duhitaro vibhātī́ḥ  
-prajā́vantaṃ yachatāsmā́su devīḥ  
-siyonā́d ā́ vaḥ pratibúdhyamānāḥ  
-suvī́riyasya pátayaḥ siyāma  
+रयिं꣡ दिवो दुहितरो विभातीः꣡  
+प्रजा꣡वन्तं यछतास्मा꣡सु देवीः  
+सियोना꣡द् आ꣡ वः प्रतिबु꣡ध्यमानाः  
+सुवी꣡रियस्य प꣡तयः सियाम  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-didr̥kṣéṇyaḥ pári kā́ṣṭhāsu jéniya  
-īḷéniyo mahó árbhāya jīváse  
-purutrā́ yád ábhavat sū́r áhaibhiyo  
-gárbhebhiyo maghávā viśvádarśataḥ  
+दिदृक्षे꣡ण्यः प꣡रि का꣡ष्ठासु जे꣡निय  
+ईऌए꣡नियो महो꣡ अ꣡र्भाय जीव꣡से  
+पुरुत्रा꣡ य꣡द् अ꣡भवत् सू꣡र् अ꣡हैभियो  
+ग꣡र्भेभियो मघ꣡वा विश्व꣡दर्शतः  

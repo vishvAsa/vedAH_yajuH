@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-hótādhvaryúr ā́vayā agnimindhó  
-grāvagrābhá utá śáṃstā súvipraḥ  
-téna yajñéna súaraṃkr̥tena  
-súiṣṭena vakṣáṇā ā́ pr̥ṇadhvam  
+हो꣡ताध्वर्यु꣡र् आ꣡वया अग्निमिन्धो꣡  
+ग्रावग्राभ꣡ उत꣡ शं꣡स्ता सु꣡विप्रः  
+ते꣡न यज्ञे꣡न सु꣡अरंकृतेन  
+सु꣡इष्टेन वक्ष꣡णा आ꣡ पृणध्वम्  

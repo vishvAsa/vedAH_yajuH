@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yā́ te dhā́māni paramā́ṇi yā́vamā́  
-yā́ madhyamā́ viśvakarmann utémā́  
-śíkṣā sákhibhyo havíṣi svadhāvaḥ  
-svayáṃ yajasva tanúvaṃ vr̥dhānáḥ  
+या꣡ ते धा꣡मानि परमा꣡णि या꣡वमा꣡  
+या꣡ मध्यमा꣡ विश्वकर्मन्न् उते꣡मा꣡  
+शि꣡क्षा स꣡खिभ्यो हवि꣡षि स्वधावः  
+स्वयं꣡ यजस्व तनु꣡वं वृधानः꣡  

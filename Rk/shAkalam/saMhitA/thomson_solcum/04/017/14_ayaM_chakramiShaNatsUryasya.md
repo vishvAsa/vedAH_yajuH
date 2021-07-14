@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ayáṃ cakrám iṣaṇat sū́riyasya  
-ní étaśaṃ rīramat sasr̥māṇám  
-ā́ kr̥ṣṇá īṃ juhurāṇó jigharti  
-tvacó budhné rájaso asyá yónau  
+अयं꣡ चक्र꣡म् इषणत् सू꣡रियस्य  
+नि꣡ ए꣡तशं रीरमत् ससृमाण꣡म्  
+आ꣡ कृष्ण꣡ ईं जुहुराणो꣡ जिघर्ति  
+त्वचो꣡ बुध्ने꣡ र꣡जसो अस्य꣡ यो꣡नौ  

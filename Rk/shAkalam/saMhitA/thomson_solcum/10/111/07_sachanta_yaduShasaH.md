@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sácanta yád uṣásaḥ sū́riyeṇa  
-citrā́m asya ketávo rā́m avindan  
-ā́ yán nákṣatraṃ dádr̥śe divó ná  
-púnar yató nákir addhā́ nú veda  
+स꣡चन्त य꣡द् उष꣡सः सू꣡रियेण  
+चित्रा꣡म् अस्य केत꣡वो रा꣡म् अविन्दन्  
+आ꣡ य꣡न् न꣡क्षत्रं द꣡दृशे दिवो꣡ न꣡  
+पु꣡नर् यतो꣡ न꣡किर् अद्धा꣡ नु꣡ वेद  

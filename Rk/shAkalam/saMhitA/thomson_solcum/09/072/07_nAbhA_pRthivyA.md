@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-nā́bhā pr̥thivyā́ dharúṇo mahó divó  
-apā́m ūrmaú síndhuṣu antár ukṣitáḥ  
-índrasya vájro vr̥ṣabhó vibhū́vasuḥ  
-sómo hr̥dé pavate cā́ru matsaráḥ  
+ना꣡भा पृथिव्या꣡ धरु꣡णो महो꣡ दिवो꣡  
+अपा꣡म् ऊर्मउ꣡ सि꣡न्धुषु अन्त꣡र् उक्षितः꣡  
+इ꣡न्द्रस्य व꣡ज्रो वृषभो꣡ विभू꣡वसुः  
+सो꣡मो हृदे꣡ पवते चा꣡रु मत्सरः꣡  

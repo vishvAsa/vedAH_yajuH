@@ -2,9 +2,9 @@
 title = "005"
 
 +++
-yó na indrābhidā́sati  
-sánābhir yáś ca níṣṭiyaḥ  
-áva tásya bálaṃ tira  
-mahī́va dyaúr ádha tmánā  
-nábhantām anyakéṣãṃ  
-jiyākā́ ádhi dhánvasu  
+यो꣡ न इन्द्राभिदा꣡सति  
+स꣡नाभिर् य꣡श् च नि꣡ष्टियः  
+अ꣡व त꣡स्य ब꣡लं तिर  
+मही꣡व द्यउ꣡र् अ꣡ध त्म꣡ना  
+न꣡भन्ताम् अन्यके꣡ष्ãं  
+जियाका꣡ अ꣡धि ध꣡न्वसु  

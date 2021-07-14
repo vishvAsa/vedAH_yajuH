@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-prá yát te agne sūráyo  
-jā́yemahi prá te vayám  
-ápa naḥ śóśucad aghám  
+प्र꣡ य꣡त् ते अग्ने सूर꣡यो  
+जा꣡येमहि प्र꣡ ते वय꣡म्  
+अ꣡प नः शो꣡शुचद् अघ꣡म्  

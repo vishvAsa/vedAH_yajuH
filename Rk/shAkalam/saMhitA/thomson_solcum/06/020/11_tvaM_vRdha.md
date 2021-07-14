@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-tuváṃ vr̥dhá indara+ pūrviyó bhūr  
-varivasyánn uśáne kāviyā́ya  
-párā návavāstuvam anudéyam  
-mahé pitré dadātha sváṃ nápātam  
+तुवं꣡ वृध꣡ इन्दर+ पूर्वियो꣡ भूर्  
+वरिवस्य꣡न्न् उश꣡ने काविया꣡य  
+प꣡रा न꣡ववास्तुवम् अनुदे꣡यम्  
+महे꣡ पित्रे꣡ ददाथ स्वं꣡ न꣡पातम्  

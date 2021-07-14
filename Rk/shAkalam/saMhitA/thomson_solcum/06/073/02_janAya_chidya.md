@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-jánāya cid yá ī́vata ulokám†  
-bŕ̥haspátir deváhūtau cakā́ra  
-ghnán vr̥trā́ṇi ví púro dardarīti  
-jáyañ chátrūm̐r amítrān pr̥tsú sā́han  
+ज꣡नाय चिद् य꣡ ई꣡वत उलोक꣡म्†  
+ब्ŕ̥हस्प꣡तिर् देव꣡हूतौ चका꣡र  
+घ्न꣡न् वृत्रा꣡णि वि꣡ पु꣡रो दर्दरीति  
+ज꣡यञ् छ꣡त्रूँर् अमि꣡त्रान् पृत्सु꣡ सा꣡हन्  

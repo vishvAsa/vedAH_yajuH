@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-agnér ápnasaḥ samíd astu bhadrā́  
-agnír mahī́ ródasī ā́ viveśa  
-agnír ékaṃ · codayat samátsu  
-agnír vr̥trā́ṇi dayate purū́ṇi  
+अग्ने꣡र् अ꣡प्नसः समि꣡द् अस्तु भद्रा꣡  
+अग्नि꣡र् मही꣡ रो꣡दसी आ꣡ विवेश  
+अग्नि꣡र् ए꣡कं · चोदयत् सम꣡त्सु  
+अग्नि꣡र् वृत्रा꣡णि दयते पुरू꣡णि  

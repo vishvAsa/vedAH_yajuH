@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-mā́ vo ghnántam mā́ śápantam  
-práti voce devayántam  
-sumnaír íd va ā́ vivāse  
+मा꣡ वो घ्न꣡न्तम् मा꣡ श꣡पन्तम्  
+प्र꣡ति वोचे देवय꣡न्तम्  
+सुम्नइ꣡र् इ꣡द् व आ꣡ विवासे  

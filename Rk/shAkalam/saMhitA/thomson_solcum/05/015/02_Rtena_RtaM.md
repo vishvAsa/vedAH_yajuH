@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-r̥téna rtáṃ dharúṇaṃ dhārayanta  
-yajñásya śāké paramé víoman  
-divó dhárman dharúṇe sedúṣo nr̥̄́ñ  
-jātaír ájātām̐ abhí yé nanakṣúḥ  
+ऋते꣡न र्तं꣡ धरु꣡णं धारयन्त  
+यज्ञ꣡स्य शाके꣡ परमे꣡ वि꣡ओमन्  
+दिवो꣡ ध꣡र्मन् धरु꣡णे सेदु꣡षो नॄ꣡ञ्  
+जातइ꣡र् अ꣡जाताँ अभि꣡ ये꣡ ननक्षुः꣡  

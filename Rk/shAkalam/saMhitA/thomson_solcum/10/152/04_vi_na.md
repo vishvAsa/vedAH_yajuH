@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ví na indra mŕ̥dho jahi  
-nīcā́ yacha pr̥tanyatáḥ  
-yó asmā́m̐ abhidā́sati  
-ádharaṃ gamayā támaḥ  
+वि꣡ न इन्द्र म्ŕ̥धो जहि  
+नीचा꣡ यछ पृतन्यतः꣡  
+यो꣡ अस्माँ꣡ अभिदा꣡सति  
+अ꣡धरं गमया त꣡मः  

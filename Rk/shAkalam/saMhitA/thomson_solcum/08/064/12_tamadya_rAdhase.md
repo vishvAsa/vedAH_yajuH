@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-tám adyá rā́dhase mahé  
-cā́rum mádāya ghŕ̥ṣvaye  
-éhīm indra drávā píba  
+त꣡म् अद्य꣡ रा꣡धसे महे꣡  
+चा꣡रुम् म꣡दाय घ्ŕ̥ष्वये  
+ए꣡हीम् इन्द्र द्र꣡वा पि꣡ब  

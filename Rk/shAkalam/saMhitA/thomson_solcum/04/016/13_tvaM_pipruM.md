@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tuvám píprum mŕ̥gayaṃ śūśuvā́ṃsam  
-r̥jíśvane vaidathinā́ya randhīḥ  
-pañcāśát kr̥ṣṇā́ ní vapaḥ sahásrā  
-átkaṃ ná púro jarimā́ ví dardaḥ  
+तुव꣡म् पि꣡प्रुम् म्ŕ̥गयं शूशुवां꣡सम्  
+ऋजि꣡श्वने वैदथिना꣡य रन्धीः  
+पञ्चाश꣡त् कृष्णा꣡ नि꣡ वपः सह꣡स्रा  
+अ꣡त्कं न꣡ पु꣡रो जरिमा꣡ वि꣡ दर्दः  

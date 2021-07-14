@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-párādyá devā́ vr̥jináṃ śr̥ṇantu  
-pratyág enaṃ śapáthā yantu tr̥ṣṭā́ḥ  
-vācā́stenaṃ śárava rchantu márman  
-víśvasyaitu prásitiṃ yātudhā́naḥ  
+प꣡राद्य꣡ देवा꣡ वृजिनं꣡ शृणन्तु  
+प्रत्य꣡ग् एनं शप꣡था यन्तु तृष्टाः꣡  
+वाचा꣡स्तेनं श꣡रव र्छन्तु म꣡र्मन्  
+वि꣡श्वस्यैतु प्र꣡सितिं यातुधा꣡नः  

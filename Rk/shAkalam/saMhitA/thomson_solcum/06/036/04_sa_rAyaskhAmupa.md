@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá rāyás khā́m úpa sr̥jā gr̥ṇānáḥ  
-puruścandrásya tuvám indra vásvaḥ  
-pátir babhūtha ásamo jánānām  
-éko víśvasya bhúvanasya rā́jā  
+स꣡ राय꣡स् खा꣡म् उ꣡प सृजा गृणानः꣡  
+पुरुश्चन्द्र꣡स्य तुव꣡म् इन्द्र व꣡स्वः  
+प꣡तिर् बभूथ अ꣡समो ज꣡नानाम्  
+ए꣡को वि꣡श्वस्य भु꣡वनस्य रा꣡जा  

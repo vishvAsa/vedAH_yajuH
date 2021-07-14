@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yā́bhiḥ síndhum mádhumantam ásaścataṃ  
-vásiṣṭhaṃ yā́bhir ajarāv ájinvatam  
-yā́bhiḥ kútsaṃ śrutáryaṃ náryam ā́vataṃ  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिः सि꣡न्धुम् म꣡धुमन्तम् अ꣡सश्चतं  
+व꣡सिष्ठं या꣡भिर् अजराव् अ꣡जिन्वतम्  
+या꣡भिः कु꣡त्सं श्रुत꣡र्यं न꣡र्यम् आ꣡वतं  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

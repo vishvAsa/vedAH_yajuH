@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-asmábhyam indav indrayúr  
-mádhvaḥ pavasva dhā́rayā  
-parjányo vr̥ṣṭimā́m̐ iva  
+अस्म꣡भ्यम् इन्दव् इन्द्रयु꣡र्  
+म꣡ध्वः पवस्व धा꣡रया  
+पर्ज꣡न्यो वृष्टिमाँ꣡ इव  

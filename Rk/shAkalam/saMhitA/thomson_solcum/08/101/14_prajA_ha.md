@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-prajā́ ha tisró atiā́yam īyur  
-ní anyā́ arkám abhíto viviśre  
-br̥hád dha tasthau bhúvaneṣu antáḥ  
-pávamāno haríta ā́ viveśa  
+प्रजा꣡ ह तिस्रो꣡ अतिआ꣡यम् ईयुर्  
+नि꣡ अन्या꣡ अर्क꣡म् अभि꣡तो विविश्रे  
+बृह꣡द् ध तस्थौ भु꣡वनेषु अन्तः꣡  
+प꣡वमानो हरि꣡त आ꣡ विवेश  

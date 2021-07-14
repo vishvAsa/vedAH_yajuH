@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-yajñám pr̥chāmi avamáṃ  
-sá tád dūtó ví vocati  
-kúva rtám pūrviyáṃ gatáṃ  
-kás tád bibharti nū́tano  
-vittám me asyá rodasī  
+यज्ञ꣡म् पृछामि अवमं꣡  
+स꣡ त꣡द् दूतो꣡ वि꣡ वोचति  
+कु꣡व र्त꣡म् पूर्वियं꣡ गतं꣡  
+क꣡स् त꣡द् बिभर्ति नू꣡तनो  
+वित्त꣡म् मे अस्य꣡ रोदसी  

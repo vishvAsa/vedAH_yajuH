@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-hárī nú kaṃ rátha índrasya yojam  
-āyaí sūkténa vácasā návena  
-mó ṣú tvā́m átra bahávo hí víprā  
-ní rīraman yájamānāso anyé  
+ह꣡री नु꣡ कं र꣡थ इ꣡न्द्रस्य योजम्  
+आयइ꣡ सूक्ते꣡न व꣡चसा न꣡वेन  
+मो꣡ षु꣡ त्वा꣡म् अ꣡त्र बह꣡वो हि꣡ वि꣡प्रा  
+नि꣡ रीरमन् य꣡जमानासो अन्ये꣡  

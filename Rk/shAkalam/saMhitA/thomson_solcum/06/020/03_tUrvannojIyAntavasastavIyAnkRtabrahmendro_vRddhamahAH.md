@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tū́rvann ójīyān tavásas távīyān  
-kr̥tábrahmā índaro+ vr̥ddhámahāḥ  
-rā́jābhavan mádhunaḥ somiyásya  
-víśvāsāṃ yát purã́ṃ dartnúm ā́vat  
+तू꣡र्वन्न् ओ꣡जीयान् तव꣡सस् त꣡वीयान्  
+कृत꣡ब्रह्मा इ꣡न्दरो+ वृद्ध꣡महाः  
+रा꣡जाभवन् म꣡धुनः सोमिय꣡स्य  
+वि꣡श्वासां य꣡त् पुर्ãं꣡ दर्त्नु꣡म् आ꣡वत्  

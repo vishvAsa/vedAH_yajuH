@@ -2,8 +2,8 @@
 title = "016"
 
 +++
-ná séśe yásya rámbate  
-antarā́ sakthíyā kápr̥t  
-séd īśe yásya romaśáṃ  
-niṣedúṣo vijŕ̥mbhate  
-víśvasmād índra úttaraḥ  
+न꣡ से꣡शे य꣡स्य र꣡म्बते  
+अन्तरा꣡ सक्थि꣡या क꣡पृत्  
+से꣡द् ईशे य꣡स्य रोमशं꣡  
+निषेदु꣡षो विज्ŕ̥म्भते  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

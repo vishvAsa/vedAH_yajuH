@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-svā́diṣṭhayā mádiṣṭhayā  
-pávasva soma dhā́rayā  
-índrāya pā́tave sutáḥ  
+स्वा꣡दिष्ठया म꣡दिष्ठया  
+प꣡वस्व सोम धा꣡रया  
+इ꣡न्द्राय पा꣡तवे सुतः꣡  

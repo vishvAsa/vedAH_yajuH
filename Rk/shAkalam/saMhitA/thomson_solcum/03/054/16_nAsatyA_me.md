@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-nā́satyā me pitárā bandhupŕ̥chā  
-sajātíyam aśvínoś cā́ru nā́ma  
-yuváṃ hí sthó rayidaú no rayīṇā́ṃ  
-dātráṃ rakṣethe ákavair ádabdhā  
+ना꣡सत्या मे पित꣡रा बन्धुप्ŕ̥छा  
+सजाति꣡यम् अश्वि꣡नोश् चा꣡रु ना꣡म  
+युवं꣡ हि꣡ स्थो꣡ रयिदउ꣡ नो रयीणां꣡  
+दात्रं꣡ रक्षेथे अ꣡कवैर् अ꣡दब्धा  

@@ -2,9 +2,9 @@
 title = "002"
 
 +++
-tuvā́ṃ yajñébhir ukthaír  
-úpa havyébhir īmahe  
-śácīpate śacīnãṃ  
-ví vo máde  
-śréṣṭhaṃ no dhehi vā́riyaṃ  
-vívakṣase  
+तुवां꣡ यज्ञे꣡भिर् उक्थइ꣡र्  
+उ꣡प हव्ये꣡भिर् ईमहे  
+श꣡चीपते शचीन्ãं  
+वि꣡ वो म꣡दे  
+श्रे꣡ष्ठं नो धेहि वा꣡रियं  
+वि꣡वक्षसे  

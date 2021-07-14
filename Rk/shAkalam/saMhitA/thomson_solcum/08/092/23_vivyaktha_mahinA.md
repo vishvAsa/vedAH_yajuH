@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-vivyáktha mahinā́ vr̥ṣan  
-bhakṣáṃ sómasya jāgr̥ve  
-yá indra jaṭháreṣu te  
+विव्य꣡क्थ महिना꣡ वृषन्  
+भक्षं꣡ सो꣡मस्य जागृवे  
+य꣡ इन्द्र जठ꣡रेषु ते  

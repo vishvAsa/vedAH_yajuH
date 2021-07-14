@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ayám agnír vadhriaśvásya vr̥trahā́  
-sanakā́t préddho námasopavākíyaḥ  
-sá no ájāmīm̐r utá vā víjāmīn  
-abhí tiṣṭha śárdhato vādhriaśva  
+अय꣡म् अग्नि꣡र् वध्रिअश्व꣡स्य वृत्रहा꣡  
+सनका꣡त् प्रे꣡द्धो न꣡मसोपवाकि꣡यः  
+स꣡ नो अ꣡जामीँर् उत꣡ वा वि꣡जामीन्  
+अभि꣡ तिष्ठ श꣡र्धतो वाध्रिअश्व  

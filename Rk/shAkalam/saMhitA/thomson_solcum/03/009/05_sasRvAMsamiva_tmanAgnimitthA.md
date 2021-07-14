@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sasr̥vā́ṃsam iva tmánā  
-agním itthā́ tiróhitam  
-aínaṃ nayan mātaríśvā parāváto  
-devébhyo mathitám pári  
+ससृवां꣡सम् इव त्म꣡ना  
+अग्नि꣡म् इत्था꣡ तिरो꣡हितम्  
+अइ꣡नं नयन् मातरि꣡श्वा पराव꣡तो  
+देवे꣡भ्यो मथित꣡म् प꣡रि  

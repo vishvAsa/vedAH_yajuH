@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-himénāgníṃ ghraṃsám avārayethām  
-pitumátīm ū́rjam asmā adhattam  
-r̥bī́se átrim aśvinā́vanītam  
-ún ninyathuḥ sárvagaṇaṃ suastí  
+हिमे꣡नाग्निं꣡ घ्रंस꣡म् अवारयेथाम्  
+पितुम꣡तीम् ऊ꣡र्जम् अस्मा अधत्तम्  
+ऋबी꣡से अ꣡त्रिम् अश्विना꣡वनीतम्  
+उ꣡न् निन्यथुः स꣡र्वगणं सुअस्ति꣡  

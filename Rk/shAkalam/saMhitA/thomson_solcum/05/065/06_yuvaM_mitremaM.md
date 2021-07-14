@@ -2,8 +2,8 @@
 title = "006"
 
 +++
-yuvám mitrā imáṃ jánaṃ  
-yátathaḥ sáṃ ca nayathaḥ  
-mā́ maghónaḥ pári khyatam  
-mó asmā́kam ŕ̥ṣīṇãṃ  
-gopīthé na uruṣyatam  
+युव꣡म् मित्रा इमं꣡ ज꣡नं  
+य꣡तथः सं꣡ च नयथः  
+मा꣡ मघो꣡नः प꣡रि ख्यतम्  
+मो꣡ अस्मा꣡कम् ŕ̥षीण्ãं  
+गोपीथे꣡ न उरुष्यतम्  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-rā́jānāv ánabhidruhā  
-dhruvé sádasi uttamé  
-sahásrasthūṇa āsate°  
+रा꣡जानाव् अ꣡नभिद्रुहा  
+ध्रुवे꣡ स꣡दसि उत्तमे꣡  
+सह꣡स्रस्थूण आसते°  

@@ -2,7 +2,7 @@
 title = "046"
 
 +++
-ásarji skambhó divá údyato mádaḥ  
-pári tridhā́tur bhúvanāni arṣati  
-aṃśúṃ rihanti matáyaḥ pánipnataṃ  
-girā́ yádi nirṇíjam r̥gmíṇo yayúḥ  
+अ꣡सर्जि स्कम्भो꣡ दिव꣡ उ꣡द्यतो म꣡दः  
+प꣡रि त्रिधा꣡तुर् भु꣡वनानि अर्षति  
+अंशुं꣡ रिहन्ति मत꣡यः प꣡निप्नतं  
+गिरा꣡ य꣡दि निर्णि꣡जम् ऋग्मि꣡णो ययुः꣡  

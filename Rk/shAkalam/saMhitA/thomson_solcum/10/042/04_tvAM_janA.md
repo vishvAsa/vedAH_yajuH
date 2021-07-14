@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuvā́ṃ jánā mamasatyéṣu indra  
-saṃtasthānā́ ví hvayante samīké  
-átrā yújaṃ kr̥ṇute yó havíṣmān  
-nā́sunvatā sakhiyáṃ vaṣṭi śū́raḥ  
+तुवां꣡ ज꣡ना ममसत्ये꣡षु इन्द्र  
+संतस्थाना꣡ वि꣡ ह्वयन्ते समीके꣡  
+अ꣡त्रा यु꣡जं कृणुते यो꣡ हवि꣡ष्मान्  
+ना꣡सुन्वता सखियं꣡ वष्टि शू꣡रः  

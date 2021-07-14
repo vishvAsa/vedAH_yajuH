@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-víśve hí tvā sajóṣaso  
-jánāso vr̥ktábarhiṣaḥ  
-hótāraṃ sádmasu priyáṃ  
-viyánti vā́riyā purú  
+वि꣡श्वे हि꣡ त्वा सजो꣡षसो  
+ज꣡नासो वृक्त꣡बर्हिषः  
+हो꣡तारं स꣡द्मसु प्रियं꣡  
+विय꣡न्ति वा꣡रिया पुरु꣡  

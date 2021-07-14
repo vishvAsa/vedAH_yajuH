@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ā́ me hávaṃ nāsatiyā  
-áśvinā gáchataṃ yuvám  
-mádhvaḥ sómasya pītáye  
+आ꣡ मे ह꣡वं नासतिया  
+अ꣡श्विना ग꣡छतं युव꣡म्  
+म꣡ध्वः सो꣡मस्य पीत꣡ये  

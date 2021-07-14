@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-ádha yád imé pavamāna ródasī  
-imā́ ca víśvā bhúvanābhí majmánā  
-yūthé ná niṣṭhā́ vr̥ṣabhó ví tiṣṭhase  
+अ꣡ध य꣡द् इमे꣡ पवमान रो꣡दसी  
+इमा꣡ च वि꣡श्वा भु꣡वनाभि꣡ मज्म꣡ना  
+यूथे꣡ न꣡ निष्ठा꣡ वृषभो꣡ वि꣡ तिष्ठसे  

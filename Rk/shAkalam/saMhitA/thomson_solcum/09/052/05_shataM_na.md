@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-śatáṃ na inda ūtíbhiḥ  
-sahásraṃ vā śúcīnãm  
-pávasva maṃhayádrayiḥ  
+शतं꣡ न इन्द ऊति꣡भिः  
+सह꣡स्रं वा शु꣡चीन्ãम्  
+प꣡वस्व मंहय꣡द्रयिः  

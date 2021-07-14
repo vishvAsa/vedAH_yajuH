@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-samátsu tvā śūra satā́m urāṇám  
-prapathíntamam paritaṃsayádhyai  
-sajóṣasa indaram+ máde kṣoṇī́ḥ  
-sūríṃ cid yé anumádanti vā́jaiḥ  
+सम꣡त्सु त्वा शूर सता꣡म् उराण꣡म्  
+प्रपथि꣡न्तमम् परितंसय꣡ध्यै  
+सजो꣡षस इन्दरम्+ म꣡दे क्षोणीः꣡  
+सूरिं꣡ चिद् ये꣡ अनुम꣡दन्ति वा꣡जैः  

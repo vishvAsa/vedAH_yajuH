@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-samídhā yás ta ā́hutiṃ  
-níśitim mártiyo náśat  
-vayā́vantaṃ sá puṣyati  
-kṣáyam agne śatā́yuṣam  
+समि꣡धा य꣡स् त आ꣡हुतिं  
+नि꣡शितिम् म꣡र्तियो न꣡शत्  
+वया꣡वन्तं स꣡ पुष्यति  
+क्ष꣡यम् अग्ने शता꣡युषम्  

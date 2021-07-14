@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-yátrotá bādhitébhiyaś  
-cakráṃ kútsāya yúdhyate  
-muṣāyá indra sū́riyam  
+य꣡त्रोत꣡ बाधिते꣡भियश्  
+चक्रं꣡ कु꣡त्साय यु꣡ध्यते  
+मुषाय꣡ इन्द्र सू꣡रियम्  

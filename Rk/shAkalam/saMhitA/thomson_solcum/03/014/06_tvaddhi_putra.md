@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvád dhí putra sahaso ví pūrvī́r  
-devásya yánti ūtáyo ví vā́jāḥ  
-tuváṃ dehi sahasríṇaṃ rayíṃ no  
-adroghéṇa vácasā satyám agne  
+तुव꣡द् धि꣡ पुत्र सहसो वि꣡ पूर्वी꣡र्  
+देव꣡स्य य꣡न्ति ऊत꣡यो वि꣡ वा꣡जाः  
+तुवं꣡ देहि सहस्रि꣡णं रयिं꣡ नो  
+अद्रोघे꣡ण व꣡चसा सत्य꣡म् अग्ने  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-asyéd índro vāvr̥dhe vŕ̥ṣṇiyaṃ śávo  
-máde sutásya víṣṇavi  
-adyā́ tám asya mahimā́nam āyávo  
-ánu ṣṭuvanti pūrváthā  
+अस्ये꣡द् इ꣡न्द्रो वावृधे व्ŕ̥ष्णियं श꣡वो  
+म꣡दे सुत꣡स्य वि꣡ष्णवि  
+अद्या꣡ त꣡म् अस्य महिमा꣡नम् आय꣡वो  
+अ꣡नु ष्टुवन्ति पूर्व꣡था  

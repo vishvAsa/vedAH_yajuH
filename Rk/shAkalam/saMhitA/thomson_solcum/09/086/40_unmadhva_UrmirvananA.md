@@ -2,7 +2,7 @@
 title = "040"
 
 +++
-ún mádhva ūrmír vanánā atiṣṭhipad  
-apó vásāno mahiṣó ví gāhate  
-rā́jā pavítraratho vā́jam ā́ruhat  
-sahásrabhr̥ṣṭir jayati śrávo br̥hát  
+उ꣡न् म꣡ध्व ऊर्मि꣡र् वन꣡ना अतिष्ठिपद्  
+अपो꣡ व꣡सानो महिषो꣡ वि꣡ गाहते  
+रा꣡जा पवि꣡त्ररथो वा꣡जम् आ꣡रुहत्  
+सह꣡स्रभृष्टिर् जयति श्र꣡वो बृह꣡त्  

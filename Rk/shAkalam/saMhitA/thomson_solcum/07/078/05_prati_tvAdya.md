@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-práti tvādyá sumánaso budhanta  
-asmā́kāso maghávāno vayáṃ ca  
-tilvilāyádhvam uṣaso vibhātī́r  
-yūyám pāta suastíbhiḥ sádā naḥ  
+प्र꣡ति त्वाद्य꣡ सुम꣡नसो बुधन्त  
+अस्मा꣡कासो मघ꣡वानो वयं꣡ च  
+तिल्विलाय꣡ध्वम् उषसो विभाती꣡र्  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

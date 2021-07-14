@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índrāviṣṇū dr̥ṃhitā́ḥ śámbarasya  
-náva púro navatíṃ ca śnathiṣṭam  
-śatáṃ varcínaḥ sahásraṃ ca sākáṃ  
-hathó apratí ásurasya vīrā́n  
+इ꣡न्द्राविष्णू दृंहिताः꣡ श꣡म्बरस्य  
+न꣡व पु꣡रो नवतिं꣡ च श्नथिष्टम्  
+शतं꣡ वर्चि꣡नः सह꣡स्रं च साकं꣡  
+हथो꣡ अप्रति꣡ अ꣡सुरस्य वीरा꣡न्  

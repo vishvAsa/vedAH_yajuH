@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá váhnibhir ŕ̥kvabhir góṣu śáśvan  
-mitájñubhiḥ purukŕ̥tvā jigāya  
-púraḥ purohā́ sákhibhiḥ sakhīyán  
-dr̥̄ḷhā́+ ruroja kavíbhiḥ kavíḥ sán  
+स꣡ व꣡ह्निभिर् ŕ̥क्वभिर् गो꣡षु श꣡श्वन्  
+मित꣡ज्ञुभिः पुरुक्ŕ̥त्वा जिगाय  
+पु꣡रः पुरोहा꣡ स꣡खिभिः सखीय꣡न्  
+दॄऌहा꣡+ रुरोज कवि꣡भिः कविः꣡ स꣡न्  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ā́ tvā káṇvā ahūṣata  
-gr̥ṇánti vipra te dhíyaḥ  
-devébhir agna ā́ gahi  
+आ꣡ त्वा क꣡ण्वा अहूषत  
+गृण꣡न्ति विप्र ते धि꣡यः  
+देवे꣡भिर् अग्न आ꣡ गहि  

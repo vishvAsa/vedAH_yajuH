@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-úpa tmányā vanaspate  
-pā́tho devébhiyaḥ sr̥ja  
-agnír havyā́ni siṣvadat  
+उ꣡प त्म꣡न्या वनस्पते  
+पा꣡थो देवे꣡भियः सृज  
+अग्नि꣡र् हव्या꣡नि सिष्वदत्  

@@ -2,8 +2,8 @@
 title = "003"
 
 +++
-susaṃdŕ̥śaṃ tuvā vayám  
-mághavan vandiṣīmáhi  
-prá nūnám pūrṇávandhura  
-stutó yāhi váśām̐ ánu  
-yójā nú indra te hárī  
+सुसंद्ŕ̥शं तुवा वय꣡म्  
+म꣡घवन् वन्दिषीम꣡हि  
+प्र꣡ नून꣡म् पूर्ण꣡वन्धुर  
+स्तुतो꣡ याहि व꣡शाँ अ꣡नु  
+यो꣡जा नु꣡ इन्द्र ते ह꣡री  

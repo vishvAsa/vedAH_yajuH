@@ -2,8 +2,8 @@
 title = "017"
 
 +++
-saptá me saptá śākína  
-ékam-ekā śatā́ daduḥ  
-yamúnāyām ádhi śrutám  
-úd rā́dho gáviyam mr̥je  
-ní rā́dho áśviyam mr̥je  
+सप्त꣡ मे सप्त꣡ शाकि꣡न  
+ए꣡कम्-एका शता꣡ ददुः  
+यमु꣡नायाम् अ꣡धि श्रुत꣡म्  
+उ꣡द् रा꣡धो ग꣡वियम् मृजे  
+नि꣡ रा꣡धो अ꣡श्वियम् मृजे  

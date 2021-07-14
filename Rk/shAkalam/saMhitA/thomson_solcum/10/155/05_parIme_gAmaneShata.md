@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-párīmé gā́m aneṣata  
-pári agním ahr̥ṣata  
-devéṣu akrata śrávaḥ  
-ká imā́m̐ ā́ dadharṣati  
+प꣡रीमे꣡ गा꣡म् अनेषत  
+प꣡रि अग्नि꣡म् अहृषत  
+देवे꣡षु अक्रत श्र꣡वः  
+क꣡ इमाँ꣡ आ꣡ दधर्षति  

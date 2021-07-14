@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ayā́ ha tyám māyáyā vāvr̥dhānám  
-manojúvā svatavaḥ párvatena  
-ácyutā cid · vīḷitā́ suojo  
-rujó ví dr̥̄ḷhā́+ dhr̥ṣatā́ virapśin  
+अया꣡ ह त्य꣡म् माय꣡या वावृधान꣡म्  
+मनोजु꣡वा स्वतवः प꣡र्वतेन  
+अ꣡च्युता चिद् · वीऌइता꣡ सुओजो  
+रुजो꣡ वि꣡ दॄऌहा꣡+ धृषता꣡ विरप्शिन्  

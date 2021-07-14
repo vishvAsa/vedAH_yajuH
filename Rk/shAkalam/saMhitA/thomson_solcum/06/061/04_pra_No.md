@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-prá ṇo devī́ sárasvatī  
-vā́jebhir vājínīvatī  
-dhīnā́m avitrí avatu  
+प्र꣡ णो देवी꣡ स꣡रस्वती  
+वा꣡जेभिर् वाजि꣡नीवती  
+धीना꣡म् अवित्रि꣡ अवतु  

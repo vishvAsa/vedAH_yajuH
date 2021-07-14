@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-indraagnī́ vr̥trahátyeṣu sátpatī  
-mithó hinvānā́ tanúvā sámokasā  
-antárikṣam máhi ā́ paprur ójasā  
-sómo ghr̥taśrī́r mahimā́nam īráyan  
+इन्द्रअग्नी꣡ वृत्रह꣡त्येषु स꣡त्पती  
+मिथो꣡ हिन्वाना꣡ तनु꣡वा स꣡मोकसा  
+अन्त꣡रिक्षम् म꣡हि आ꣡ पप्रुर् ओ꣡जसा  
+सो꣡मो घृतश्री꣡र् महिमा꣡नम् ईर꣡यन्  

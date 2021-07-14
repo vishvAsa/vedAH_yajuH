@@ -2,5 +2,5 @@
 title = "007"
 
 +++
-trī́ṇi éka urugāyó ví cakrame  
-yátra devā́so mádanti  
+त्री꣡णि ए꣡क उरुगायो꣡ वि꣡ चक्रमे  
+य꣡त्र देवा꣡सो म꣡दन्ति  

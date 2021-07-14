@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-grā́vṇā tunnó abhíṣṭutaḥ  
-pavítraṃ soma gachasi  
-dádhat stotré suvī́riyam  
+ग्रा꣡व्णा तुन्नो꣡ अभि꣡ष्टुतः  
+पवि꣡त्रं सोम गछसि  
+द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्  

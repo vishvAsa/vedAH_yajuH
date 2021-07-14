@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-yád asya manyúr ádhvanīd  
-ví vr̥trám parvaśó ruján  
-apáḥ samudrám aírayat  
+य꣡द् अस्य मन्यु꣡र् अ꣡ध्वनीद्  
+वि꣡ वृत्र꣡म् पर्वशो꣡ रुज꣡न्  
+अपः꣡ समुद्र꣡म् अइ꣡रयत्  

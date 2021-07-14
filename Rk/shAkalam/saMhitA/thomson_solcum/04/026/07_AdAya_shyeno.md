@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ādā́ya śyenó abharat sómaṃ  
-sahásraṃ savā́m̐ ayútaṃ ca sākám  
-átrā púraṃdhir ajahād árātīr  
-máde sómasya mūrā́ ámūraḥ  
+आदा꣡य श्येनो꣡ अभरत् सो꣡मं  
+सह꣡स्रं सवाँ꣡ अयु꣡तं च साक꣡म्  
+अ꣡त्रा पु꣡रंधिर् अजहाद् अ꣡रातीर्  
+म꣡दे सो꣡मस्य मूरा꣡ अ꣡मूरः  

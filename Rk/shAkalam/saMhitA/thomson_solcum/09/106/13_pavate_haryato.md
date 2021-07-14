@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-pávate haryató hárir  
-áti hvárāṃsi ráṃhiyā  
-abhiárṣan stotŕ̥bhyo vīrávad yáśaḥ  
+प꣡वते हर्यतो꣡ ह꣡रिर्  
+अ꣡ति ह्व꣡रांसि रं꣡हिया  
+अभिअ꣡र्षन् स्तोत्ŕ̥भ्यो वीर꣡वद् य꣡शः  

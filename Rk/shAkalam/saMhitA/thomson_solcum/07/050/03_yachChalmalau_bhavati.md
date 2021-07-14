@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yác chalmalaú bhávati yán nadī́ṣu  
-yád óṣadhībhyaḥ pári jā́yate viṣám  
-víśve devā́ nír itás tát suvantu  
-mā́ mā́m pádyena rápasā vidat tsáruḥ  
+य꣡च् छल्मलउ꣡ भ꣡वति य꣡न् नदी꣡षु  
+य꣡द् ओ꣡षधीभ्यः प꣡रि जा꣡यते विष꣡म्  
+वि꣡श्वे देवा꣡ नि꣡र् इत꣡स् त꣡त् सुवन्तु  
+मा꣡ मा꣡म् प꣡द्येन र꣡पसा विदत् त्स꣡रुः  

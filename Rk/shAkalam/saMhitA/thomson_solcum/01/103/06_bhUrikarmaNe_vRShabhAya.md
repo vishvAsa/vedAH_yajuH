@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-bhū́rikarmaṇe vr̥ṣabhā́ya vŕ̥ṣṇe  
-satyáśuṣmāya sunavāma sómam  
-yá ādŕ̥tyā paripanthī́va śū́ro  
-áyajvano vibhájann éti védaḥ  
+भू꣡रिकर्मणे वृषभा꣡य व्ŕ̥ष्णे  
+सत्य꣡शुष्माय सुनवाम सो꣡मम्  
+य꣡ आद्ŕ̥त्या परिपन्थी꣡व शू꣡रो  
+अ꣡यज्वनो विभ꣡जन्न् ए꣡ति वे꣡दः  

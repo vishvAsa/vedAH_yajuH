@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ní párvataḥ sādi áprayuchan  
-sám mātŕ̥bhir vāvaśānó akrān  
-dūré pāré vā́ṇīṃ vardháyanta  
-índreṣitāṃ dhamánim paprathan ní  
+नि꣡ प꣡र्वतः सादि अ꣡प्रयुछन्  
+स꣡म् मात्ŕ̥भिर् वावशानो꣡ अक्रान्  
+दूरे꣡ पारे꣡ वा꣡णीं वर्ध꣡यन्त  
+इ꣡न्द्रेषितां धम꣡निम् पप्रथन् नि꣡  

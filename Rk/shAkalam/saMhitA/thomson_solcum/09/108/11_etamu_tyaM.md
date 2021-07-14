@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-etám u tyám madacyútaṃ  
-sahásradhāraṃ vr̥ṣabháṃ dívo duhuḥ  
-víśvā vásūni bíbhratam  
+एत꣡म् उ त्य꣡म् मदच्यु꣡तं  
+सह꣡स्रधारं वृषभं꣡ दि꣡वो दुहुः  
+वि꣡श्वा व꣡सूनि बि꣡भ्रतम्  

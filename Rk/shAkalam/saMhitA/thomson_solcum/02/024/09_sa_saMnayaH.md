@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sá saṃnayáḥ sá vinayáḥ puróhitaḥ  
-sá súṣṭutaḥ sá yudhí bráhmaṇas pátiḥ  
-cākṣmó yád vā́jam bhárate matī́ dhánā  
-ā́d ít sū́ryas tapati tapyatúr vŕ̥thā  
+स꣡ संनयः꣡ स꣡ विनयः꣡ पुरो꣡हितः  
+स꣡ सु꣡ष्टुतः स꣡ युधि꣡ ब्र꣡ह्मणस् प꣡तिः  
+चाक्ष्मो꣡ य꣡द् वा꣡जम् भ꣡रते मती꣡ ध꣡ना  
+आ꣡द् इ꣡त् सू꣡र्यस् तपति तप्यतु꣡र् व्ŕ̥था  

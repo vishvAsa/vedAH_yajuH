@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-imáṃ stómaṃ rodasī prá bravīmi  
-r̥dūdárāḥ śr̥ṇavann agnijihvā́ḥ  
-mitráḥ samrā́jo váruṇo yúvāna  
-ādityā́saḥ kaváyaḥ paprathānā́ḥ  
+इमं꣡ स्तो꣡मं रोदसी प्र꣡ ब्रवीमि  
+ऋदूद꣡राः शृणवन्न् अग्निजिह्वाः꣡  
+मित्रः꣡ सम्रा꣡जो व꣡रुणो यु꣡वान  
+आदित्या꣡सः कव꣡यः पप्रथानाः꣡  

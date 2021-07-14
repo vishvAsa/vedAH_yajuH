@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-pratnáṃ rayīṇã́ṃ yújaṃ  
-sákhāyaṃ kīricódanam  
-bráhmavāhastamaṃ huve  
+प्रत्नं꣡ रयीण्ãं꣡ यु꣡जं  
+स꣡खायं कीरिचो꣡दनम्  
+ब्र꣡ह्मवाहस्तमं हुवे  

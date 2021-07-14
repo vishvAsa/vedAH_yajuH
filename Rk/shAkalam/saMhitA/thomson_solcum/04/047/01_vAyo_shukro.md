@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vā́yo śukró ayāmi te  
-mádhvo ágraṃ díviṣṭiṣu  
-ā́ yāhi sómapītaye  
-spārhó deva niyútvatā  
+वा꣡यो शुक्रो꣡ अयामि ते  
+म꣡ध्वो अ꣡ग्रं दि꣡विष्टिषु  
+आ꣡ याहि सो꣡मपीतये  
+स्पार्हो꣡ देव नियु꣡त्वता  

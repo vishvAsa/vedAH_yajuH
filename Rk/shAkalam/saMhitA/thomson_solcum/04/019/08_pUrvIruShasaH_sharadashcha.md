@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-pūrvī́r uṣásaḥ śarádaś ca gūrtā́  
-vr̥tráṃ jaghanvā́m̐ asr̥jad ví síndhūn  
-páriṣṭhitā atr̥ṇad badbadhānā́ḥ  
-sīrā́ índraḥ srávitave pr̥thivyā́  
+पूर्वी꣡र् उष꣡सः शर꣡दश् च गूर्ता꣡  
+वृत्रं꣡ जघन्वाँ꣡ असृजद् वि꣡ सि꣡न्धून्  
+प꣡रिष्ठिता अतृणद् बद्बधानाः꣡  
+सीरा꣡ इ꣡न्द्रः स्र꣡वितवे पृथिव्या꣡  

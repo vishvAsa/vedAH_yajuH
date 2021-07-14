@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-kás te mātáraṃ vidhávām acakrac  
-chayúṃ kás tvā́m ajighāṃsac cárantam  
-kás te devó ádhi mārḍīká āsīd  
-yát prā́kṣiṇāḥ pitáram pādagŕ̥hya  
+क꣡स् ते मात꣡रं विध꣡वाम् अचक्रच्  
+छयुं꣡ क꣡स् त्वा꣡म् अजिघांसच् च꣡रन्तम्  
+क꣡स् ते देवो꣡ अ꣡धि मार्डीक꣡ आसीद्  
+य꣡त् प्रा꣡क्षिणाः पित꣡रम् पादग्ŕ̥ह्य  

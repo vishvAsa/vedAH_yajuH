@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-vayáṃ ta ebhíḥ puruhūta sakhyaíḥ  
-śátroḥ-śatror úttara ít siyāma  
-ghnánto vr̥trā́ṇi ubháyāni śūra  
-rāyā́ madema br̥hatā́ tuvótāḥ  
+वयं꣡ त एभिः꣡ पुरुहूत सख्यइः꣡  
+श꣡त्रोः-शत्रोर् उ꣡त्तर इ꣡त् सियाम  
+घ्न꣡न्तो वृत्रा꣡णि उभ꣡यानि शूर  
+राया꣡ मदेम बृहता꣡ तुवो꣡ताः  

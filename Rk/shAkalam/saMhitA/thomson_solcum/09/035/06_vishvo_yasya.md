@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-víśvo yásya vraté jáno  
-dādhā́ra dhármaṇas páteḥ  
-punānásya prabhū́vasoḥ  
+वि꣡श्वो य꣡स्य व्रते꣡ ज꣡नो  
+दाधा꣡र ध꣡र्मणस् प꣡तेः  
+पुनान꣡स्य प्रभू꣡वसोः  

@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ā́ na indo śatagvínaṃ  
-rayíṃ gómantam aśvínam  
-bhárā soma sahasríṇam  
+आ꣡ न इन्दो शतग्वि꣡नं  
+रयिं꣡ गो꣡मन्तम् अश्वि꣡नम्  
+भ꣡रा सोम सहस्रि꣡णम्  

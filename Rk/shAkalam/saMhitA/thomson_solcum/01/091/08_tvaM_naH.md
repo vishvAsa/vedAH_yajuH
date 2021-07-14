@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-tuváṃ naḥ soma viśváto  
-rákṣā rājann aghāyatáḥ  
-ná riṣyet tvā́vataḥ sákhā  
+तुवं꣡ नः सोम विश्व꣡तो  
+र꣡क्षा राजन्न् अघायतः꣡  
+न꣡ रिष्येत् त्वा꣡वतः स꣡खा  

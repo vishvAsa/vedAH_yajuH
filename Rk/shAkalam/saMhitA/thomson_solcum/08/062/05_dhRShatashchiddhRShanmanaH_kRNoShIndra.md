@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-dhr̥ṣatáś cid dhr̥ṣán mánaḥ  
-kr̥ṇóṣi indra yát tuvám  
-tīvraíḥ sómaiḥ saparyató  
-námobhiḥ pratibhū́ṣato  
-bhadrā́ índrasya rātáyaḥ  
+धृषत꣡श् चिद् धृष꣡न् म꣡नः  
+कृणो꣡षि इन्द्र य꣡त् तुव꣡म्  
+तीव्रइः꣡ सो꣡मैः सपर्यतो꣡  
+न꣡मोभिः प्रतिभू꣡षतो  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  

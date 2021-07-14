@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuváṃ tū́ na indara+ táṃ rayíṃ dā  
-ójiṣṭhayā dákṣiṇayeva rātím  
-stútaś ca yā́s te cakánanta vāyó  
-stánaṃ ná mádhvaḥ pīpayanta vā́jaiḥ  
+तुवं꣡ तू꣡ न इन्दर+ तं꣡ रयिं꣡ दा  
+ओ꣡जिष्ठया द꣡क्षिणयेव राति꣡म्  
+स्तु꣡तश् च या꣡स् ते चक꣡नन्त वायो꣡  
+स्त꣡नं न꣡ म꣡ध्वः पीपयन्त वा꣡जैः  

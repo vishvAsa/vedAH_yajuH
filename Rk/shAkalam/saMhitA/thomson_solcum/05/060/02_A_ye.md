@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ yé tasthúḥ pŕ̥ṣatīṣu śrutā́su  
-sukhéṣu rudrā́ marúto rátheṣu  
-vánā cid ugrā jihate ní vo bhiyā́  
-pr̥thivī́ cid rejate párvataś cit  
+आ꣡ ये꣡ तस्थुः꣡ प्ŕ̥षतीषु श्रुता꣡सु  
+सुखे꣡षु रुद्रा꣡ मरु꣡तो र꣡थेषु  
+व꣡ना चिद् उग्रा जिहते नि꣡ वो भिया꣡  
+पृथिवी꣡ चिद् रेजते प꣡र्वतश् चित्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sādhuaryā́ atithínīr iṣirā́  
-spārhā́ḥ suvárṇā anavadyárūpāḥ  
-bŕ̥haspátiḥ párvatebhyo vitū́ryā  
-nír gā́ ūpe yávam iva sthivíbhyaḥ  
+साधुअर्या꣡ अतिथि꣡नीर् इषिरा꣡  
+स्पार्हाः꣡ सुव꣡र्णा अनवद्य꣡रूपाः  
+ब्ŕ̥हस्प꣡तिः प꣡र्वतेभ्यो वितू꣡र्या  
+नि꣡र् गा꣡ ऊपे य꣡वम् इव स्थिवि꣡भ्यः  

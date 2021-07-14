@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-śnáthad vr̥trám utá sanoti vā́jam  
-índrā yó agnī́ sáhurī saparyā́t  
-irajyántā vasavíyasya bhū́reḥ  
-sáhastamā sáhasā vājayántā  
+श्न꣡थद् वृत्र꣡म् उत꣡ सनोति वा꣡जम्  
+इ꣡न्द्रा यो꣡ अग्नी꣡ स꣡हुरी सपर्या꣡त्  
+इरज्य꣡न्ता वसवि꣡यस्य भू꣡रेः  
+स꣡हस्तमा स꣡हसा वाजय꣡न्ता  

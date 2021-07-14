@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-paprā́tha kṣā́m máhi dáṃso ví urvī́m  
-úpa dyā́m r̥ṣvó br̥hád indra stabhāyaḥ  
-ádhārayo ródasī deváputre  
-pratné mātárā yahvī́ r̥tásya  
+पप्रा꣡थ क्षा꣡म् म꣡हि दं꣡सो वि꣡ उर्वी꣡म्  
+उ꣡प द्या꣡म् ऋष्वो꣡ बृह꣡द् इन्द्र स्तभायः  
+अ꣡धारयो रो꣡दसी देव꣡पुत्रे  
+प्रत्ने꣡ मात꣡रा यह्वी꣡ ऋत꣡स्य  

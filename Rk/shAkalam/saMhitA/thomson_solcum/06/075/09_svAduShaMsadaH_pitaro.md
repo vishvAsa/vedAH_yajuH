@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-svāduṣaṃsádaḥ pitáro vayodhā́ḥ  
-kr̥chreśrítaḥ śáktīvanto gabhīrā́ḥ  
-citrásenā íṣubalā ámr̥dhrāḥ  
-satóvīrā urávo vrātasāhā́ḥ  
+स्वादुषंस꣡दः पित꣡रो वयोधाः꣡  
+कृछ्रेश्रि꣡तः श꣡क्तीवन्तो गभीराः꣡  
+चित्र꣡सेना इ꣡षुबला अ꣡मृध्राः  
+सतो꣡वीरा उर꣡वो व्रातसाहाः꣡  

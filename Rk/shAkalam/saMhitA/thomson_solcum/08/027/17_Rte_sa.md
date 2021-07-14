@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-r̥té sá vindate yudháḥ  
-sugébhir yāti ádhvanaḥ  
-aryamā́ mitró váruṇaḥ sárātayo  
-yáṃ trā́yante sajóṣasaḥ  
+ऋते꣡ स꣡ विन्दते युधः꣡  
+सुगे꣡भिर् याति अ꣡ध्वनः  
+अर्यमा꣡ मित्रो꣡ व꣡रुणः स꣡रातयो  
+यं꣡ त्रा꣡यन्ते सजो꣡षसः  

@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-arbhakó ná kumārakó  
-ádhi tiṣṭhan návaṃ rátham  
-sá pakṣan mahiṣám mr̥gám  
-pitré mātré vibhukrátum  
+अर्भको꣡ न꣡ कुमारको꣡  
+अ꣡धि तिष्ठन् न꣡वं र꣡थम्  
+स꣡ पक्षन् महिष꣡म् मृग꣡म्  
+पित्रे꣡ मात्रे꣡ विभुक्र꣡तुम्  

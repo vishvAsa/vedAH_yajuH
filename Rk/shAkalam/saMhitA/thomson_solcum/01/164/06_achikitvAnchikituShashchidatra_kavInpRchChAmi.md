@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ácikitvāñ cikitúṣaś cid átra  
-kavī́n pr̥chāmi vidmáne ná vidvā́n  
-ví yás tastámbha ṣáḷ imā́ rájāṃsi  
-ajásya rūpé kím ápi svid ékam  
+अ꣡चिकित्वाञ् चिकितु꣡षश् चिद् अ꣡त्र  
+कवी꣡न् पृछामि विद्म꣡ने न꣡ विद्वा꣡न्  
+वि꣡ य꣡स् तस्त꣡म्भ ष꣡ऌ इमा꣡ र꣡जांसि  
+अज꣡स्य रूपे꣡ कि꣡म् अ꣡पि स्विद् ए꣡कम्  

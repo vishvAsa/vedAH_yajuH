@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-sá īṃ vŕ̥ṣājanayat tā́su gárbhaṃ  
-sá īṃ śíśur dhayati táṃ rihanti  
-só 'pā́ṃ° nápād ánabhimlātavarṇo  
-anyásyevehá tanúvā viveṣa  
+स꣡ ईं व्ŕ̥षाजनयत् ता꣡सु ग꣡र्भं  
+स꣡ ईं शि꣡शुर् धयति तं꣡ रिहन्ति  
+सो꣡ ऽपां꣡° न꣡पाद् अ꣡नभिम्लातवर्णो  
+अन्य꣡स्येवेह꣡ तनु꣡वा विवेष  

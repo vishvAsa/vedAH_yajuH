@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-suāyudháḥ sotŕ̥bhiḥ pūyámāno  
-abhí arṣa gúhiyaṃ cā́ru nā́ma  
-abhí vā́jaṃ sáptir iva śravasyā́  
-abhí vāyúm abhí gā́ deva soma  
+सुआयुधः꣡ सोत्ŕ̥भिः पूय꣡मानो  
+अभि꣡ अर्ष गु꣡हियं चा꣡रु ना꣡म  
+अभि꣡ वा꣡जं स꣡प्तिर् इव श्रवस्या꣡  
+अभि꣡ वायु꣡म् अभि꣡ गा꣡ देव सोम  

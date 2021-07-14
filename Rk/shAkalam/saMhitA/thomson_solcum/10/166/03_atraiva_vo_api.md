@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-átraivá vó 'pi nahyāmi  
-ubhé ā́rtnī iva jyáyā  
-vā́cas pate ní ṣedhemā́n  
-yáthā mád ádharaṃ vádān  
+अ꣡त्रैव꣡ वो꣡ ऽपि नह्यामि  
+उभे꣡ आ꣡र्त्नी इव ज्य꣡या  
+वा꣡चस् पते नि꣡ षेधेमा꣡न्  
+य꣡था म꣡द् अ꣡धरं व꣡दान्  

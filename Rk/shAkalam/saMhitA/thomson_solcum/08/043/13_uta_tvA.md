@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-utá tvā bhr̥guvác chuce  
-manuṣvád agna āhuta  
-aṅgirasvád dhavāmahe  
+उत꣡ त्वा भृगुव꣡च् छुचे  
+मनुष्व꣡द् अग्न आहुत  
+अङ्गिरस्व꣡द् धवामहे  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-dáśa rā́jānaḥ sámitā áyajyavaḥ  
-sudā́sam indrāvaruṇā ná yuyudhuḥ  
-satyā́ nr̥̄ṇā́m+ admasádām úpastutir  
-devā́ eṣām abhavan deváhūtiṣu  
+द꣡श रा꣡जानः स꣡मिता अ꣡यज्यवः  
+सुदा꣡सम् इन्द्रावरुणा न꣡ युयुधुः  
+सत्या꣡ नॄणा꣡म्+ अद्मस꣡दाम् उ꣡पस्तुतिर्  
+देवा꣡ एषाम् अभवन् देव꣡हूतिषु  

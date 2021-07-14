@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-hótāraṃ tvā vr̥ṇīmahe  
-ágne dákṣasya sā́dhanam  
-yajñéṣu pūrviyáṃ girā́  
-práyasvanto havāmahe  
+हो꣡तारं त्वा वृणीमहे  
+अ꣡ग्ने द꣡क्षस्य सा꣡धनम्  
+यज्ञे꣡षु पूर्वियं꣡ गिरा꣡  
+प्र꣡यस्वन्तो हवामहे  

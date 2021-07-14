@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-parjányaḥ pitā́ mahiṣásya parṇíno  
-nā́bhā pr̥thivyā́ giríṣu kṣáyaṃ dadhe  
-svásāra ā́po abhí gā́ utā́saran  
-sáṃ grā́vabhir nasate vīté adhvaré  
+पर्ज꣡न्यः पिता꣡ महिष꣡स्य पर्णि꣡नो  
+ना꣡भा पृथिव्या꣡ गिरि꣡षु क्ष꣡यं दधे  
+स्व꣡सार आ꣡पो अभि꣡ गा꣡ उता꣡सरन्  
+सं꣡ ग्रा꣡वभिर् नसते वीते꣡ अध्वरे꣡  

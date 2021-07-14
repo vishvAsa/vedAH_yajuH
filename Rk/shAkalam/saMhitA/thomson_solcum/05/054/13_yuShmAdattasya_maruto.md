@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yuṣmā́dattasya maruto vicetaso  
-rāyáḥ siyāma rathíyo váyasvataḥ  
-ná yó yúchati tiṣíyo yáthā divó  
-asmé rāranta marutaḥ sahasríṇam  
+युष्मा꣡दत्तस्य मरुतो विचेतसो  
+रायः꣡ सियाम रथि꣡यो व꣡यस्वतः  
+न꣡ यो꣡ यु꣡छति तिषि꣡यो य꣡था दिवो꣡  
+अस्मे꣡ रारन्त मरुतः सहस्रि꣡णम्  

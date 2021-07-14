@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tád asmai návyam aṅgirasvád arcata  
-śúṣmā yád asya pratnáthā udī́rate  
-víśvā yád gotrā́ sáhasā párīvr̥tā  
-máde sómasya dr̥ṃhitā́ni aírayat  
+त꣡द् अस्मै न꣡व्यम् अङ्गिरस्व꣡द् अर्चत  
+शु꣡ष्मा य꣡द् अस्य प्रत्न꣡था उदी꣡रते  
+वि꣡श्वा य꣡द् गोत्रा꣡ स꣡हसा प꣡रीवृता  
+म꣡दे सो꣡मस्य दृंहिता꣡नि अइ꣡रयत्  

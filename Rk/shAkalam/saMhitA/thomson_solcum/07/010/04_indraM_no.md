@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-índraṃ no agne vásubhiḥ sajóṣā  
-rudráṃ rudrébhir ā́ vahā br̥hántam  
-ādityébhir áditiṃ viśvájanyām  
-bŕ̥haspátim ŕ̥kvabhir viśvávāram  
+इ꣡न्द्रं नो अग्ने व꣡सुभिः सजो꣡षा  
+रुद्रं꣡ रुद्रे꣡भिर् आ꣡ वहा बृह꣡न्तम्  
+आदित्ये꣡भिर् अ꣡दितिं विश्व꣡जन्याम्  
+ब्ŕ̥हस्प꣡तिम् ŕ̥क्वभिर् विश्व꣡वारम्  

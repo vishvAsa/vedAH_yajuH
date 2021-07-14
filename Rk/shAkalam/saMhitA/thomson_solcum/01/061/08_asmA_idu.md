@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-asmā́ íd u · gnā́ś cid devápatnīr  
-índrāya arkám ahihátya ūvuḥ  
-pári dyā́vāpr̥thivī́ jabhra urvī́  
-ná asya té mahimā́nam pári ṣṭaḥ  
+अस्मा꣡ इ꣡द् उ · ग्ना꣡श् चिद् देव꣡पत्नीर्  
+इ꣡न्द्राय अर्क꣡म् अहिह꣡त्य ऊवुः  
+प꣡रि द्या꣡वापृथिवी꣡ जभ्र उर्वी꣡  
+न꣡ अस्य ते꣡ महिमा꣡नम् प꣡रि ष्टः  

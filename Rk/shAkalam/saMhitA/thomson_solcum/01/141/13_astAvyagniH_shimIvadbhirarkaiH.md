@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ástāvi agníḥ śímīvadbhir arkaíḥ  
-sā́mrājiyāya prataráṃ dádhānaḥ  
-amī́ ca yé maghávāno vayáṃ ca  
-míhaṃ ná sū́ro áti níṣ ṭatanyuḥ  
+अ꣡स्तावि अग्निः꣡ शि꣡मीवद्भिर् अर्कइः꣡  
+सा꣡म्राजियाय प्रतरं꣡ द꣡धानः  
+अमी꣡ च ये꣡ मघ꣡वानो वयं꣡ च  
+मि꣡हं न꣡ सू꣡रो अ꣡ति नि꣡ष् टतन्युः  

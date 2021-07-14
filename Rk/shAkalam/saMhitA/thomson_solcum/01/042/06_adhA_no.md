@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ádhā no viśvasaubhaga  
-híraṇyavāśīmattama  
-dhánāni suṣáṇā kr̥dhi  
+अ꣡धा नो विश्वसौभग  
+हि꣡रण्यवाशीमत्तम  
+ध꣡नानि सुष꣡णा कृधि  

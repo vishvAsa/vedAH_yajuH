@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ákāri ta indara+ gótamebhir  
-bráhmāṇi óktā námasā háribhyām  
-supéśasaṃ · vā́jam ā́ bharā naḥ  
-prātár makṣū́ dhiyā́vasur jagamyāt  
+अ꣡कारि त इन्दर+ गो꣡तमेभिर्  
+ब्र꣡ह्माणि ओ꣡क्ता न꣡मसा ह꣡रिभ्याम्  
+सुपे꣡शसं · वा꣡जम् आ꣡ भरा नः  
+प्रात꣡र् मक्षू꣡ धिया꣡वसुर् जगम्यात्  

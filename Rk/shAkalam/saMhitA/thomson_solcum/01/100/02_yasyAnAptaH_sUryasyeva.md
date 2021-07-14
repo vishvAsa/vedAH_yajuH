@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yásyā́nāptaḥ sū́riyasyeva yā́mo  
-bháre-bhare vr̥trahā́ śúṣmo ásti  
-vŕ̥ṣantamaḥ sákhibhiḥ svébhir évair  
-marútvān no bhavatu índra ūtī́  
+य꣡स्या꣡नाप्तः सू꣡रियस्येव या꣡मो  
+भ꣡रे-भरे वृत्रहा꣡ शु꣡ष्मो अ꣡स्ति  
+व्ŕ̥षन्तमः स꣡खिभिः स्वे꣡भिर् ए꣡वैर्  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

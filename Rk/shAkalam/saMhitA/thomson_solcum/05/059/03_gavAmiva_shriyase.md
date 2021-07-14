@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-gávām iva śriyáse śŕ̥ṅgam uttamáṃ  
-sū́ryo ná cákṣū rájaso visárjane  
-átyā iva subhúvaś cā́rava sthana  
-máryā iva śriyáse cetathā naraḥ  
+ग꣡वाम् इव श्रिय꣡से श्ŕ̥ङ्गम् उत्तमं꣡  
+सू꣡र्यो न꣡ च꣡क्षू र꣡जसो विस꣡र्जने  
+अ꣡त्या इव सुभु꣡वश् चा꣡रव स्थन  
+म꣡र्या इव श्रिय꣡से चेतथा नरः  

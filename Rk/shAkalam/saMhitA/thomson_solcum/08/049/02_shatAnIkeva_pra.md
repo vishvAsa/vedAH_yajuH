@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-śatā́nīkeva prá jigāti dhr̥ṣṇuyā́  
-hánti vr̥trā́ṇi dāśúṣe  
-girér iva prá rásā asya pinvire  
-dátrāṇi purubhójasaḥ  
+शता꣡नीकेव प्र꣡ जिगाति धृष्णुया꣡  
+ह꣡न्ति वृत्रा꣡णि दाशु꣡षे  
+गिरे꣡र् इव प्र꣡ र꣡सा अस्य पिन्विरे  
+द꣡त्राणि पुरुभो꣡जसः  

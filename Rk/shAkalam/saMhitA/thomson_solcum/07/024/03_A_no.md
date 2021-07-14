@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ no divá ā́ pr̥thivyā́ r̥jīṣinn  
-idám barhíḥ somapéyāya yāhi  
-váhantu tvā hárayo madríañcam  
-āṅgūṣám áchā tavásam mádāya  
+आ꣡ नो दिव꣡ आ꣡ पृथिव्या꣡ ऋजीषिन्न्  
+इद꣡म् बर्हिः꣡ सोमपे꣡याय याहि  
+व꣡हन्तु त्वा ह꣡रयो मद्रि꣡अञ्चम्  
+आङ्गूष꣡म् अ꣡छा तव꣡सम् म꣡दाय  

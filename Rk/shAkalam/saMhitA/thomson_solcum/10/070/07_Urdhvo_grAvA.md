@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ūrdhvó grā́vā br̥hád agníḥ sámiddhaḥ  
-priyā́ dhā́māni áditer upásthe  
-puróhitāv r̥tvijā yajñé asmín  
-vidúṣṭarā dráviṇam ā́ yajethām  
+ऊर्ध्वो꣡ ग्रा꣡वा बृह꣡द् अग्निः꣡ स꣡मिद्धः  
+प्रिया꣡ धा꣡मानि अ꣡दितेर् उप꣡स्थे  
+पुरो꣡हिताव् ऋत्विजा यज्ञे꣡ अस्मि꣡न्  
+विदु꣡ष्टरा द्र꣡विणम् आ꣡ यजेथाम्  

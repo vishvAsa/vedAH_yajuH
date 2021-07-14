@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-sī́rā yuñjanti kaváyo  
-yugā́ ví tanvate pŕ̥thak  
-dhī́rā devéṣu sumnayā́  
+सी꣡रा युञ्जन्ति कव꣡यो  
+युगा꣡ वि꣡ तन्वते प्ŕ̥थक्  
+धी꣡रा देवे꣡षु सुम्नया꣡  

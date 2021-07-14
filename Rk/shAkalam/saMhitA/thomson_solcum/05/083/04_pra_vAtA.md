@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prá vā́tā vā́nti patáyanti vidyúta  
-úd óṣadhīr jíhate pínvate súvaḥ  
-írā víśvasmai bhúvanāya jāyate  
-yát parjányaḥ pr̥thivī́ṃ rétasā́vati  
+प्र꣡ वा꣡ता वा꣡न्ति पत꣡यन्ति विद्यु꣡त  
+उ꣡द् ओ꣡षधीर् जि꣡हते पि꣡न्वते सु꣡वः  
+इ꣡रा वि꣡श्वस्मै भु꣡वनाय जायते  
+य꣡त् पर्ज꣡न्यः पृथिवीं꣡ रे꣡तसा꣡वति  

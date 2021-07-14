@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-prá dānudó diviyó dānupinvá  
-r̥tám r̥tā́ya pavate sumedhā́ḥ  
-dharmā́ bhuvad vr̥janíyasya rā́jā  
-prá raśmíbhir daśábhir bhāri bhū́ma  
+प्र꣡ दानुदो꣡ दिवियो꣡ दानुपिन्व꣡  
+ऋत꣡म् ऋता꣡य पवते सुमेधाः꣡  
+धर्मा꣡ भुवद् वृजनि꣡यस्य रा꣡जा  
+प्र꣡ रश्मि꣡भिर् दश꣡भिर् भारि भू꣡म  

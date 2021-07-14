@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-távéd indra práṇītiṣu  
-utá práśastir adrivaḥ  
-yajñó vitantasā́yiyaḥ  
+त꣡वे꣡द् इन्द्र प्र꣡णीतिषु  
+उत꣡ प्र꣡शस्तिर् अद्रिवः  
+यज्ञो꣡ वितन्तसा꣡यियः  

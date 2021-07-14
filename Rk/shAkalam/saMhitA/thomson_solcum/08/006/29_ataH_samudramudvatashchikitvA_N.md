@@ -2,6 +2,6 @@
 title = "029"
 
 +++
-átaḥ samudrám udvátaś  
-cikitvā́m̐ áva paśyati  
-yáto vipāná éjati  
+अ꣡तः समुद्र꣡म् उद्व꣡तश्  
+चिकित्वाँ꣡ अ꣡व पश्यति  
+य꣡तो विपान꣡ ए꣡जति  

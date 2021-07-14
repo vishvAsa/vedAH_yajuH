@@ -2,9 +2,9 @@
 title = "002"
 
 +++
-tuvā́m u té suābhúvaḥ  
-śumbhánti áśvarādhasaḥ  
-véti tvā́m upasécanī  
-ví vo máda  
-ŕ̥jītir agna ā́hutir  
-vívakṣase  
+तुवा꣡म् उ ते꣡ सुआभु꣡वः  
+शुम्भ꣡न्ति अ꣡श्वराधसः  
+वे꣡ति त्वा꣡म् उपसे꣡चनी  
+वि꣡ वो म꣡द  
+ŕ̥जीतिर् अग्न आ꣡हुतिर्  
+वि꣡वक्षसे  

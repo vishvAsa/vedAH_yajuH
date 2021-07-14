@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ā́ tvā madacyútā hárī  
-śyenám pakṣéva vakṣataḥ  
-divó amúṣya śā́sato  
-dívaṃ yayá divāvaso  
+आ꣡ त्वा मदच्यु꣡ता ह꣡री  
+श्येन꣡म् पक्षे꣡व वक्षतः  
+दिवो꣡ अमु꣡ष्य शा꣡सतो  
+दि꣡वं यय꣡ दिवावसो  

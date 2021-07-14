@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sámiddho adyá mánuṣo duroṇé  
-devó devā́n yajasi jātavedaḥ  
-ā́ ca váha mitramahaś cikitvā́n  
-tuváṃ dūtáḥ kavír asi prácetāḥ  
+स꣡मिद्धो अद्य꣡ म꣡नुषो दुरोणे꣡  
+देवो꣡ देवा꣡न् यजसि जातवेदः  
+आ꣡ च व꣡ह मित्रमहश् चिकित्वा꣡न्  
+तुवं꣡ दूतः꣡ कवि꣡र् असि प्र꣡चेताः  

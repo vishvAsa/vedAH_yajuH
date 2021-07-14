@@ -2,9 +2,9 @@
 title = "005"
 
 +++
-agnír jātó átharvaṇā  
-vidád víśvāni kā́viyā  
-bhúvad dūtó vivásvato  
-ví vo máde  
-priyó yamásya kā́miyo  
-vívakṣase  
+अग्नि꣡र् जातो꣡ अ꣡थर्वणा  
+विद꣡द् वि꣡श्वानि का꣡विया  
+भु꣡वद् दूतो꣡ विव꣡स्वतो  
+वि꣡ वो म꣡दे  
+प्रियो꣡ यम꣡स्य का꣡मियो  
+वि꣡वक्षसे  

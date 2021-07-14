@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-úpedám upapárcanam  
-āsú góṣū́pa pr̥cyatām  
-úpa rṣabhásya rétasi  
-úpendra táva vīríye  
+उ꣡पेद꣡म् उपप꣡र्चनम्  
+आसु꣡ गो꣡षू꣡प पृच्यताम्  
+उ꣡प र्षभ꣡स्य रे꣡तसि  
+उ꣡पेन्द्र त꣡व वीरि꣡ये  

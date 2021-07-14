@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-avasyaté stuvaté kr̥ṣṇiyā́ya  
-r̥jūyaté nāsatiyā śácībhiḥ  
-paśúṃ ná naṣṭám iva dárśanāya  
-viṣṇāpúvaṃ dadathur víśvakāya  
+अवस्यते꣡ स्तुवते꣡ कृष्णिया꣡य  
+ऋजूयते꣡ नासतिया श꣡चीभिः  
+पशुं꣡ न꣡ नष्ट꣡म् इव द꣡र्शनाय  
+विष्णापु꣡वं ददथुर् वि꣡श्वकाय  

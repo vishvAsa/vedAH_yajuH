@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ayám asmi jaritaḥ páśya mehá  
-víśvā jātā́ni abhí asmi mahnā́  
-r̥tásya mā pradíśo vardhayanti  
-ādardiró bhúvanā dardarīmi  
+अय꣡म् अस्मि जरितः प꣡श्य मेह꣡  
+वि꣡श्वा जाता꣡नि अभि꣡ अस्मि मह्ना꣡  
+ऋत꣡स्य मा प्रदि꣡शो वर्धयन्ति  
+आदर्दिरो꣡ भु꣡वना दर्दरीमि  

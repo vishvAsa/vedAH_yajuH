@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-yukṣvā́ hí vr̥trahantama  
-hárī indra parāvátaḥ  
-arvācīnó maghavan sómapītaya  
-ugrá r̥ṣvébhir ā́ gahi  
+युक्ष्वा꣡ हि꣡ वृत्रहन्तम  
+ह꣡री इन्द्र पराव꣡तः  
+अर्वाचीनो꣡ मघवन् सो꣡मपीतय  
+उग्र꣡ ऋष्वे꣡भिर् आ꣡ गहि  

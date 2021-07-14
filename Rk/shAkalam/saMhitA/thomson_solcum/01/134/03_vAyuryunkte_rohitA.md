@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-vāyúr yuṅkte róhitā vāyúr aruṇā́  
-vāyū́ ráthe ajirā́ dhurí vóḷhave  
-váhiṣṭhā dhurí vóḷhave  
-prá bodhayā púraṃdhiṃ  
-jārá ā́ sasatī́m iva  
-prá cakṣaya ródasī vāsayoṣásaḥ  
-śrávase vāsayoṣásaḥ  
+वायु꣡र् युङ्क्ते रो꣡हिता वायु꣡र् अरुणा꣡  
+वायू꣡ र꣡थे अजिरा꣡ धुरि꣡ वो꣡ऌहवे  
+व꣡हिष्ठा धुरि꣡ वो꣡ऌहवे  
+प्र꣡ बोधया पु꣡रंधिं  
+जार꣡ आ꣡ ससती꣡म् इव  
+प्र꣡ चक्षय रो꣡दसी वासयोष꣡सः  
+श्र꣡वसे वासयोष꣡सः  

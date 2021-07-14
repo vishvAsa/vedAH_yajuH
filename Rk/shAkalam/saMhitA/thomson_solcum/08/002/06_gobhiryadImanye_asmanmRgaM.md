@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-góbhir yád īm anyé asmán  
-mr̥gáṃ ná vrā́ mr̥gáyante  
-abhitsáranti dhenúbhiḥ  
+गो꣡भिर् य꣡द् ईम् अन्ये꣡ अस्म꣡न्  
+मृगं꣡ न꣡ व्रा꣡ मृग꣡यन्ते  
+अभित्स꣡रन्ति धेनु꣡भिः  

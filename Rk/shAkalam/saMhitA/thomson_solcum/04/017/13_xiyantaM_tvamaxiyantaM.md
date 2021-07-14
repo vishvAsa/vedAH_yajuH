@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-kṣiyántaṃ tvam ákṣiyantaṃ kr̥ṇoti  
-íyarti reṇúm maghávā samóham  
-vibhañjanúr aśánimām̐ iva dyaúr  
-utá stotā́ram maghávā vásau dhāt  
+क्षिय꣡न्तं त्वम् अ꣡क्षियन्तं कृणोति  
+इ꣡यर्ति रेणु꣡म् मघ꣡वा समो꣡हम्  
+विभञ्जनु꣡र् अश꣡निमाँ इव द्यउ꣡र्  
+उत꣡ स्तोता꣡रम् मघ꣡वा व꣡सौ धात्  

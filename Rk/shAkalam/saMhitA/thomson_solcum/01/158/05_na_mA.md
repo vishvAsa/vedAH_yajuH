@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ná mā garan nadíyo mātŕ̥tamā  
-dāsā́ yád īṃ súsamubdham avā́dhuḥ  
-śíro yád asya traitanó vitákṣat  
-svayáṃ dāsá úro áṃsāv ápi gdha  
+न꣡ मा गरन् नदि꣡यो मात्ŕ̥तमा  
+दासा꣡ य꣡द् ईं सु꣡समुब्धम् अवा꣡धुः  
+शि꣡रो य꣡द् अस्य त्रैतनो꣡ वित꣡क्षत्  
+स्वयं꣡ दास꣡ उ꣡रो अं꣡साव् अ꣡पि ग्ध  

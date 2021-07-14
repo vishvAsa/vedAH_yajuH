@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yájante asya sakhiyáṃ váyaś ca  
-namasvínaḥ suvá r̥tásya dhā́man  
-ví pŕ̥kṣo bābadhe nŕ̥bhi stávāna  
-idáṃ námo rudarā́ya+ práyiṣṭham+  
+य꣡जन्ते अस्य सखियं꣡ व꣡यश् च  
+नमस्वि꣡नः सुव꣡ ऋत꣡स्य धा꣡मन्  
+वि꣡ प्ŕ̥क्षो बाबधे न्ŕ̥भि स्त꣡वान  
+इदं꣡ न꣡मो रुदरा꣡य+ प्र꣡यिष्ठम्+  

@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-áva sr̥jā vanaspate  
-déva devébhiyo havíḥ  
-prá dātúr astu cétanam  
+अ꣡व सृजा वनस्पते  
+दे꣡व देवे꣡भियो हविः꣡  
+प्र꣡ दातु꣡र् अस्तु चे꣡तनम्  

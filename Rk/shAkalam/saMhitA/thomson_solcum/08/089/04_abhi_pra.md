@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-abhí prá bhara dhr̥ṣatā́ dhr̥ṣanmanaḥ  
-śrávaś cit te asad br̥hát  
-árṣantu ā́po jávasā ví mātáro  
-háno vr̥tráṃ jáyā súvaḥ  
+अभि꣡ प्र꣡ भर धृषता꣡ धृषन्मनः  
+श्र꣡वश् चित् ते असद् बृह꣡त्  
+अ꣡र्षन्तु आ꣡पो ज꣡वसा वि꣡ मात꣡रो  
+ह꣡नो वृत्रं꣡ ज꣡या सु꣡वः  

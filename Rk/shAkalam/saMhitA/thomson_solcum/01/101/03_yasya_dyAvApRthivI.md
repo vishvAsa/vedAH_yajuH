@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yásya dyā́vāpr̥thivī́ paúṃsiyam mahád  
-yásya vraté váruṇo yásya sū́riyaḥ  
-yásyéndrasya síndhavaḥ sáścati vratám  
-marútvantaṃ sakhiyā́ya havāmahe  
+य꣡स्य द्या꣡वापृथिवी꣡ पउं꣡सियम् मह꣡द्  
+य꣡स्य व्रते꣡ व꣡रुणो य꣡स्य सू꣡रियः  
+य꣡स्ये꣡न्द्रस्य सि꣡न्धवः स꣡श्चति व्रत꣡म्  
+मरु꣡त्वन्तं सखिया꣡य हवामहे  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índrāsomā vartáyataṃ divás pári  
-agnitaptébhir yuvám áśmahanmabhiḥ  
-tápurvadhebhir ajárebhir atríṇo  
-ní párśāne vidhyataṃ yántu nisvarám  
+इ꣡न्द्रासोमा वर्त꣡यतं दिव꣡स् प꣡रि  
+अग्नितप्ते꣡भिर् युव꣡म् अ꣡श्महन्मभिः  
+त꣡पुर्वधेभिर् अज꣡रेभिर् अत्रि꣡णो  
+नि꣡ प꣡र्शाने विध्यतं य꣡न्तु निस्वर꣡म्  

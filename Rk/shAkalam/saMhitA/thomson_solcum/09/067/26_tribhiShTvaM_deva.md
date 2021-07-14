@@ -2,6 +2,6 @@
 title = "026"
 
 +++
-tribhíṣ ṭváṃ deva savitar  
-várṣiṣṭhaiḥ soma dhā́mabhiḥ  
-ágne dákṣaiḥ punīhi naḥ  
+त्रिभि꣡ष् ट्वं꣡ देव सवितर्  
+व꣡र्षिष्ठैः सोम धा꣡मभिः  
+अ꣡ग्ने द꣡क्षैः पुनीहि नः  

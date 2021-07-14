@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-bhárgo ha nā́ma utá yásya devā́ḥ  
-súvar ṇá yé triṣadhasthé niṣedúḥ  
-agnír ha nā́ma utá jātávedāḥ  
-śrudhī́ no hotar r̥tásya hótādhrúk  
+भ꣡र्गो ह ना꣡म उत꣡ य꣡स्य देवाः꣡  
+सु꣡वर् ण꣡ ये꣡ त्रिषधस्थे꣡ निषेदुः꣡  
+अग्नि꣡र् ह ना꣡म उत꣡ जात꣡वेदाः  
+श्रुधी꣡ नो होतर् ऋत꣡स्य हो꣡ताध्रु꣡क्  

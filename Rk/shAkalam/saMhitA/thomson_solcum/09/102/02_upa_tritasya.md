@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-úpa tritásya pāṣíyor  
-ábhakta yád gúhā padám  
-yajñásya saptá dhā́mabhir ádha priyám  
+उ꣡प त्रित꣡स्य पाषि꣡योर्  
+अ꣡भक्त य꣡द् गु꣡हा पद꣡म्  
+यज्ञ꣡स्य सप्त꣡ धा꣡मभिर् अ꣡ध प्रिय꣡म्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-dāśarājñé páriyattāya viśvátaḥ  
-sudā́sa indrāvaruṇāv aśikṣatam  
-śvityáñco yátra námasā kapardíno  
-dhiyā́ dhī́vanto ásapanta tŕ̥tsavaḥ  
+दाशराज्ञे꣡ प꣡रियत्ताय विश्व꣡तः  
+सुदा꣡स इन्द्रावरुणाव् अशिक्षतम्  
+श्वित्य꣡ञ्चो य꣡त्र न꣡मसा कपर्दि꣡नो  
+धिया꣡ धी꣡वन्तो अ꣡सपन्त त्ŕ̥त्सवः  

@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-etát tiyát ta indra vŕ̥ṣṇa uktháṃ  
-vārṣāgirā́ abhí gr̥ṇanti rā́dhaḥ  
-r̥jrā́śuvaḥ práṣṭibhir ambarī́ṣaḥ  
-sahádevo bháyamānaḥ surā́dhāḥ  
+एत꣡त् तिय꣡त् त इन्द्र व्ŕ̥ष्ण उक्थं꣡  
+वार्षागिरा꣡ अभि꣡ गृणन्ति रा꣡धः  
+ऋज्रा꣡शुवः प्र꣡ष्टिभिर् अम्बरी꣡षः  
+सह꣡देवो भ꣡यमानः सुरा꣡धाः  

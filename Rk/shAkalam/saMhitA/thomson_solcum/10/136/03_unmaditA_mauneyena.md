@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-únmaditā maúneyena  
-vā́tām̐ ā́ tasthimā vayám  
-śárīréd asmā́kaṃ yūyám  
-mártāso abhí paśyatha  
+उ꣡न्मदिता मउ꣡नेयेन  
+वा꣡ताँ आ꣡ तस्थिमा वय꣡म्  
+श꣡रीरे꣡द् अस्मा꣡कं यूय꣡म्  
+म꣡र्तासो अभि꣡ पश्यथ  

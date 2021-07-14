@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-pathás-pathaḥ páripatiṃ vacasyā́  
-kā́mena kr̥tó abhí ānaḷ arkám  
-sá no rāsac churúdhaś candráagrā  
-dhíyaṃ-dhiyaṃ sīṣadhāti prá pūṣā́  
+पथ꣡स्-पथः प꣡रिपतिं वचस्या꣡  
+का꣡मेन कृतो꣡ अभि꣡ आनऌ अर्क꣡म्  
+स꣡ नो रासच् छुरु꣡धश् चन्द्र꣡अग्रा  
+धि꣡यं-धियं सीषधाति प्र꣡ पूषा꣡  

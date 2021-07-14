@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ṍ ṣú ghr̥ṣvirādhaso  
-yātánā́ndhāṃsi pītáye  
-imā́ vo havyā́ maruto raré hí kam  
-mó ṣú anyátra gantana  
+õ꣡ षु꣡ घृष्विराधसो  
+यात꣡ना꣡न्धांसि पीत꣡ये  
+इमा꣡ वो हव्या꣡ मरुतो ररे꣡ हि꣡ कम्  
+मो꣡ षु꣡ अन्य꣡त्र गन्तन  

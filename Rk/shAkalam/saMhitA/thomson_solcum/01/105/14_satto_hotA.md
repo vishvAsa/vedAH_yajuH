@@ -2,8 +2,8 @@
 title = "014"
 
 +++
-sattó hótā manuṣvád ā́  
-devā́m̐ áchā vidúṣṭaraḥ  
-agnír havyā́ suṣūdati  
-devó devéṣu médhiro  
-vittám me asyá rodasī  
+सत्तो꣡ हो꣡ता मनुष्व꣡द् आ꣡  
+देवाँ꣡ अ꣡छा विदु꣡ष्टरः  
+अग्नि꣡र् हव्या꣡ सुषूदति  
+देवो꣡ देवे꣡षु मे꣡धिरो  
+वित्त꣡म् मे अस्य꣡ रोदसी  

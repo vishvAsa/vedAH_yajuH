@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ubháyaṃ te ná kṣīyate vasavyàṃ  
-divé-dive jā́yamānasya dasma  
-kr̥dhí kṣumántaṃ jaritā́ram agne  
-kr̥dhí pátiṃ suapatyásya rāyáḥ  
+उभ꣡यं ते न꣡ क्षीयते वसव्यं᳡  
+दिवे꣡-दिवे जा꣡यमानस्य दस्म  
+कृधि꣡ क्षुम꣡न्तं जरिता꣡रम् अग्ने  
+कृधि꣡ प꣡तिं सुअपत्य꣡स्य रायः꣡  

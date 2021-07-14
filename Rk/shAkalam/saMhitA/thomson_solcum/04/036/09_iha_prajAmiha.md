@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ihá prajā́m ihá rayíṃ rárāṇā  
-ihá śrávo vīrávat takṣatā naḥ  
-yéna vayáṃ citáyemā́ti anyā́n  
-táṃ vā́jaṃ citrám r̥bhavo dadā naḥ  
+इह꣡ प्रजा꣡म् इह꣡ रयिं꣡ र꣡राणा  
+इह꣡ श्र꣡वो वीर꣡वत् तक्षता नः  
+ये꣡न वयं꣡ चित꣡येमा꣡ति अन्या꣡न्  
+तं꣡ वा꣡जं चित्र꣡म् ऋभवो ददा नः  

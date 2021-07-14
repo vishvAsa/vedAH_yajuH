@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-mā́ no agne durbhr̥táye sácaiṣú  
-deváiddheṣu agníṣu prá vocaḥ  
-mā́ te asmā́n durmatáyo bhr̥mā́c cid  
-devásya sūno sahaso naśanta  
+मा꣡ नो अग्ने दुर्भृत꣡ये स꣡चैषु꣡  
+देव꣡इद्धेषु अग्नि꣡षु प्र꣡ वोचः  
+मा꣡ ते अस्मा꣡न् दुर्मत꣡यो भृमा꣡च् चिद्  
+देव꣡स्य सूनो सहसो नशन्त  

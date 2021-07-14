@@ -2,8 +2,8 @@
 title = "011"
 
 +++
-śatáṃ vā yád asuriya práti tvā  
-sumitrá itthā́ astaud  
-durmitrá itthā́ astaut  
-ā́vo yád dasyuhátye kutsaputrám  
-prā́vo yád dasyuhátye kutsavatsám  
+शतं꣡ वा य꣡द् असुरिय प्र꣡ति त्वा  
+सुमित्र꣡ इत्था꣡ अस्तौद्  
+दुर्मित्र꣡ इत्था꣡ अस्तौत्  
+आ꣡वो य꣡द् दस्युह꣡त्ये कुत्सपुत्र꣡म्  
+प्रा꣡वो य꣡द् दस्युह꣡त्ये कुत्सवत्स꣡म्  

@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-utó nú asya yát padáṃ  
-haryatásya nidhāníyam  
-pári dyā́ṃ jihváyātanat  
+उतो꣡ नु꣡ अस्य य꣡त् पदं꣡  
+हर्यत꣡स्य निधानि꣡यम्  
+प꣡रि द्यां꣡ जिह्व꣡यातनत्  

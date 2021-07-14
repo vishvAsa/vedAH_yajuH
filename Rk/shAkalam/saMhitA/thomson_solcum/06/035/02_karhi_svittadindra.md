@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kárhi svit tád indara+ yán nŕ̥bhir nr̥̄́n  
-vīraír vīrā́n nīḷáyāse jáyājī́n  
-tridhā́tu gā́ ádhi jayāsi góṣu  
-índra dyumnáṃ súvarvad dhehi asmé  
+क꣡र्हि स्वित् त꣡द् इन्दर+ य꣡न् न्ŕ̥भिर् नॄ꣡न्  
+वीरइ꣡र् वीरा꣡न् नीऌअ꣡यासे ज꣡याजी꣡न्  
+त्रिधा꣡तु गा꣡ अ꣡धि जयासि गो꣡षु  
+इ꣡न्द्र द्युम्नं꣡ सु꣡वर्वद् धेहि अस्मे꣡  

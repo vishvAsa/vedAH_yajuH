@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-bŕ̥haspate práti me devátām ihi  
-mitró vā yád váruṇo vā́si pūṣā́  
-ādityaír vā yád vásubhir marútvān  
-sá parjányaṃ śáṃtanave vr̥ṣāya  
+ब्ŕ̥हस्पते प्र꣡ति मे देव꣡ताम् इहि  
+मित्रो꣡ वा य꣡द् व꣡रुणो वा꣡सि पूषा꣡  
+आदित्यइ꣡र् वा य꣡द् व꣡सुभिर् मरु꣡त्वान्  
+स꣡ पर्ज꣡न्यं शं꣡तनवे वृषाय  

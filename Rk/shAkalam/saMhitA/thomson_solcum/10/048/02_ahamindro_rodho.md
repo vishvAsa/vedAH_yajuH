@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ahám índro ródho vákṣo átharvaṇas  
-tritā́ya gā́ ajanayam áher ádhi  
-aháṃ dásyubhyaḥ pári nr̥mṇám ā́ dade  
-gotrā́ śíkṣan dadhīcé mātaríśvane  
+अह꣡म् इ꣡न्द्रो रो꣡धो व꣡क्षो अ꣡थर्वणस्  
+त्रिता꣡य गा꣡ अजनयम् अ꣡हेर् अ꣡धि  
+अहं꣡ द꣡स्युभ्यः प꣡रि नृम्ण꣡म् आ꣡ ददे  
+गोत्रा꣡ शि꣡क्षन् दधीचे꣡ मातरि꣡श्वने  

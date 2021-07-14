@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-táṃ tvā mádāya ghŕ̥ṣvaya  
-ulokakr̥tnúm† īmahe  
-táva práśastayo mahī́ḥ  
+तं꣡ त्वा म꣡दाय घ्ŕ̥ष्वय  
+उलोककृत्नु꣡म्† ईमहे  
+त꣡व प्र꣡शस्तयो महीः꣡  

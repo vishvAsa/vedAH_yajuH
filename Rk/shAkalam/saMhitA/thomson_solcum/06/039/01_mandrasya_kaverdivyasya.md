@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mandrásya kavér diviyásya váhner  
-vípramanmano vacanásya mádhvaḥ  
-ápā nas tásya sacanásya deva  
-íṣo yuvasva gr̥ṇaté góagrāḥ  
+मन्द्र꣡स्य कवे꣡र् दिविय꣡स्य व꣡ह्नेर्  
+वि꣡प्रमन्मनो वचन꣡स्य म꣡ध्वः  
+अ꣡पा नस् त꣡स्य सचन꣡स्य देव  
+इ꣡षो युवस्व गृणते꣡ गो꣡अग्राः  

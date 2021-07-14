@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yā́s te pūṣan nā́vo antáḥ samudré  
-hiraṇyáyīr antárikṣe cáranti  
-tā́bhir yāsi dūtiyā́ṃ sū́riyasya  
-kā́mena kr̥ta śráva ichámānaḥ  
+या꣡स् ते पूषन् ना꣡वो अन्तः꣡ समुद्रे꣡  
+हिरण्य꣡यीर् अन्त꣡रिक्षे च꣡रन्ति  
+ता꣡भिर् यासि दूतियां꣡ सू꣡रियस्य  
+का꣡मेन कृत श्र꣡व इछ꣡मानः  

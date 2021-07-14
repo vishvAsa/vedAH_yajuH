@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sá vāvaśāná ihá pāhi sómam  
-marúdbhir indra sákhibhiḥ sutáṃ naḥ  
-jātáṃ yát tvā pári devā́ ábhūṣan  
-mahé bhárāya puruhūta víśve  
+स꣡ वावशान꣡ इह꣡ पाहि सो꣡मम्  
+मरु꣡द्भिर् इन्द्र स꣡खिभिः सुतं꣡ नः  
+जातं꣡ य꣡त् त्वा प꣡रि देवा꣡ अ꣡भूषन्  
+महे꣡ भ꣡राय पुरुहूत वि꣡श्वे  

@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-ā́ tū́ gahi prá tú drava  
-mátsvā sutásya gómataḥ  
-tántuṃ tanuṣva pūrviyáṃ yáthā vidé  
+आ꣡ तू꣡ गहि प्र꣡ तु꣡ द्रव  
+म꣡त्स्वा सुत꣡स्य गो꣡मतः  
+त꣡न्तुं तनुष्व पूर्वियं꣡ य꣡था विदे꣡  

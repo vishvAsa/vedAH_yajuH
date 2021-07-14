@@ -2,7 +2,7 @@
 title = "026"
 
 +++
-úpa hvaye sudúghāṃ dhenúm etā́ṃ  
-suhásto godhúg utá dohad enām  
-śréṣṭhaṃ saváṃ savitā́ sāviṣan no  
-abhī́ddho gharmás tád u ṣú prá vocam  
+उ꣡प ह्वये सुदु꣡घां धेनु꣡म् एतां꣡  
+सुह꣡स्तो गोधु꣡ग् उत꣡ दोहद् एनाम्  
+श्रे꣡ष्ठं सवं꣡ सविता꣡ साविषन् नो  
+अभी꣡द्धो घर्म꣡स् त꣡द् उ षु꣡ प्र꣡ वोचम्  

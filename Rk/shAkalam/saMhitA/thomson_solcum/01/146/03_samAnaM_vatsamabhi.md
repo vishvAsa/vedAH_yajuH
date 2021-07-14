@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-samānáṃ vatsám abhí saṃcárantī  
-víṣvag dhenū́ ví carataḥ suméke  
-anapavr̥jyā́m̐ ádhvano mímāne  
-víśvān kétām̐ ádhi mahó dádhāne  
+समानं꣡ वत्स꣡म् अभि꣡ संच꣡रन्ती  
+वि꣡ष्वग् धेनू꣡ वि꣡ चरतः सुमे꣡के  
+अनपवृज्याँ꣡ अ꣡ध्वनो मि꣡माने  
+वि꣡श्वान् के꣡ताँ अ꣡धि महो꣡ द꣡धाने  

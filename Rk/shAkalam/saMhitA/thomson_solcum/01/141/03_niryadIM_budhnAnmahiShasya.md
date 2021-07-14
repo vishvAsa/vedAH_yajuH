@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-nír yád īm budhnā́n mahiṣásya várpasa  
-īśānā́saḥ śávasā kránta sūráyaḥ  
-yád īm ánu pradívo mádhva ādhavé  
-gúhā sántam mātaríśvā mathāyáti  
+नि꣡र् य꣡द् ईम् बुध्ना꣡न् महिष꣡स्य व꣡र्पस  
+ईशाना꣡सः श꣡वसा क्र꣡न्त सूर꣡यः  
+य꣡द् ईम् अ꣡नु प्रदि꣡वो म꣡ध्व आधवे꣡  
+गु꣡हा स꣡न्तम् मातरि꣡श्वा मथाय꣡ति  

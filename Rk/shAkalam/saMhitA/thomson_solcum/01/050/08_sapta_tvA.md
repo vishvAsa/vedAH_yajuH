@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-saptá tvā haríto ráthe  
-váhanti deva sūriya  
-śocíṣkeśaṃ vicakṣaṇa  
+सप्त꣡ त्वा हरि꣡तो र꣡थे  
+व꣡हन्ति देव सूरिय  
+शोचि꣡ष्केशं विचक्षण  

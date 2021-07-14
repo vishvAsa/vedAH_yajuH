@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yád īṃ gaṇásya raśanā́m ájīgaḥ  
-śúcir aṅkte śúcibhir góbhir agníḥ  
-ā́d dákṣinā yujyate vājayánti  
-uttānā́m ūrdhvó adhayaj juhū́bhiḥ  
+य꣡द् ईं गण꣡स्य रशना꣡म् अ꣡जीगः  
+शु꣡चिर् अङ्क्ते शु꣡चिभिर् गो꣡भिर् अग्निः꣡  
+आ꣡द् द꣡क्षिना युज्यते वाजय꣡न्ति  
+उत्ताना꣡म् ऊर्ध्वो꣡ अधयज् जुहू꣡भिः  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-hánāmainām̐ íti tváṣṭā yád ábravīc  
-camasáṃ yé devapā́nam ánindiṣuḥ  
-anyā́ nā́māni kr̥ṇvate suté sácām̐  
-anyaír enān kaníyā nā́mabhi sparat  
+ह꣡नामैनाँ इ꣡ति त्व꣡ष्टा य꣡द् अ꣡ब्रवीच्  
+चमसं꣡ ये꣡ देवपा꣡नम् अ꣡निन्दिषुः  
+अन्या꣡ ना꣡मानि कृण्वते सुते꣡ स꣡चाँ  
+अन्यइ꣡र् एनान् कनि꣡या ना꣡मभि स्परत्  

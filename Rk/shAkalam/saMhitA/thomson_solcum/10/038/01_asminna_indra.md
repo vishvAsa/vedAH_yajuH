@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-asmín na indra pr̥tsutaú yáśasvati  
-śímīvati krándasi prā́va sātáye  
-yátra góṣātā dhr̥ṣitéṣu khādíṣu  
-víṣvak pátanti didyávo nr̥ṣā́hiye  
+अस्मि꣡न् न इन्द्र पृत्सुतउ꣡ य꣡शस्वति  
+शि꣡मीवति क्र꣡न्दसि प्रा꣡व सात꣡ये  
+य꣡त्र गो꣡षाता धृषिते꣡षु खादि꣡षु  
+वि꣡ष्वक् प꣡तन्ति दिद्य꣡वो नृषा꣡हिये  

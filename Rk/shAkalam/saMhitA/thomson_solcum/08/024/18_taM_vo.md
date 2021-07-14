@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-táṃ vo vā́jānãm pátim  
-áhūmahi śravasyávaḥ  
-áprāyubhir yajñébhir vāvr̥dhéniyam  
+तं꣡ वो वा꣡जान्ãम् प꣡तिम्  
+अ꣡हूमहि श्रवस्य꣡वः  
+अ꣡प्रायुभिर् यज्ञे꣡भिर् वावृधे꣡नियम्  

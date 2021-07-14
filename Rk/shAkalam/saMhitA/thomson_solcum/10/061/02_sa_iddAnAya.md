@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá íd dānā́ya dábhiyāya vanváñ  
-cyávānaḥ sū́dair amimīta védim  
-tū́rvayāṇo gūrtávacastamaḥ  
-kṣódo ná réta itáūti siñcat  
+स꣡ इ꣡द् दाना꣡य द꣡भियाय वन्व꣡ञ्  
+च्य꣡वानः सू꣡दैर् अमिमीत वे꣡दिम्  
+तू꣡र्वयाणो गूर्त꣡वचस्तमः  
+क्षो꣡दो न꣡ रे꣡त इत꣡ऊति सिञ्चत्  

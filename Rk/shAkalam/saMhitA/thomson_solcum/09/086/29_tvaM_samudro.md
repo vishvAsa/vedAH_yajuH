@@ -2,7 +2,7 @@
 title = "029"
 
 +++
-tuváṃ samudró asi viśvavít kave  
-távemā́ḥ páñca pradíśo vídharmaṇi  
-tuváṃ dyā́ṃ ca pr̥thivī́ṃ cā́ti jabhriṣe  
-táva jyótīṃṣi pavamāna sū́riyaḥ  
+तुवं꣡ समुद्रो꣡ असि विश्ववि꣡त् कवे  
+त꣡वेमाः꣡ प꣡ञ्च प्रदि꣡शो वि꣡धर्मणि  
+तुवं꣡ द्यां꣡ च पृथिवीं꣡ चा꣡ति जभ्रिषे  
+त꣡व ज्यो꣡तींषि पवमान सू꣡रियः  

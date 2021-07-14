@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́bhūtiyā sahajā́ vajra sāyaka  
-sáho bibharṣi abhibhūta úttaram  
-krátvā no manyo sahá medī́ edhi  
-mahādhanásya puruhūta saṃsŕ̥ji  
+आ꣡भूतिया सहजा꣡ वज्र सायक  
+स꣡हो बिभर्षि अभिभूत उ꣡त्तरम्  
+क्र꣡त्वा नो मन्यो सह꣡ मेदी꣡ एधि  
+महाधन꣡स्य पुरुहूत संस्ŕ̥जि  

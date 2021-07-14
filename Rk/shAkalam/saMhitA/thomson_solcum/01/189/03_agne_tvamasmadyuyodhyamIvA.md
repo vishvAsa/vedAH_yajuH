@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ágne tvám asmád yuyodhi ámīvā  
-ánagnitrā abhí ámanta kr̥ṣṭī́ḥ  
-púnar asmábhyaṃ suvitā́ya deva  
-kṣā́ṃ víśvebhir amŕ̥tebhir yajatra  
+अ꣡ग्ने त्व꣡म् अस्म꣡द् युयोधि अ꣡मीवा  
+अ꣡नग्नित्रा अभि꣡ अ꣡मन्त कृष्टीः꣡  
+पु꣡नर् अस्म꣡भ्यं सुविता꣡य देव  
+क्षां꣡ वि꣡श्वेभिर् अम्ŕ̥तेभिर् यजत्र  

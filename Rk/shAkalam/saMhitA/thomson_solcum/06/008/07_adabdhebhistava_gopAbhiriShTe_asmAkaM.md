@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ádabdhebhis táva gopā́bhir iṣṭe  
-asmā́kam pāhi triṣadhastha sūrī́n  
-rákṣā ca no dadúṣāṃ śárdho agne  
-vaíśvānara prá ca tārī stávānaḥ  
+अ꣡दब्धेभिस् त꣡व गोपा꣡भिर् इष्टे  
+अस्मा꣡कम् पाहि त्रिषधस्थ सूरी꣡न्  
+र꣡क्षा च नो ददु꣡षां श꣡र्धो अग्ने  
+वइ꣡श्वानर प्र꣡ च तारी स्त꣡वानः  

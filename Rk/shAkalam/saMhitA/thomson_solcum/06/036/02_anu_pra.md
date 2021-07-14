@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ánu prá yeje jána ójo asya  
-satrā́ dadhire ánu vīríyāya  
-syūmagŕ̥bhe dúdhaye árvate ca  
-krátuṃ vr̥ñjanti ápi vr̥trahátye  
+अ꣡नु प्र꣡ येजे ज꣡न ओ꣡जो अस्य  
+सत्रा꣡ दधिरे अ꣡नु वीरि꣡याय  
+स्यूमग्ŕ̥भे दु꣡धये अ꣡र्वते च  
+क्र꣡तुं वृञ्जन्ति अ꣡पि वृत्रह꣡त्ये  

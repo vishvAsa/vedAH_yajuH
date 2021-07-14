@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-aháṃ randhayam mŕ̥gayaṃ śrutárvaṇe  
-yán mā́jihīta vayúnā canā́nuṣák  
-aháṃ veśáṃ · namrám āyáve 'karam  
-aháṃ sávyāya páḍgr̥bhim arandhayam  
+अहं꣡ रन्धयम् म्ŕ̥गयं श्रुत꣡र्वणे  
+य꣡न् मा꣡जिहीत वयु꣡ना चना꣡नुष꣡क्  
+अहं꣡ वेशं꣡ · नम्र꣡म् आय꣡वे ऽकरम्  
+अहं꣡ स꣡व्याय प꣡ड्गृभिम् अरन्धयम्  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sáṃ vatsá iva mātŕ̥bhir  
-índur hinvānó ajyate  
-devāvī́r mádo matíbhiḥ páriṣkr̥taḥ  
+सं꣡ वत्स꣡ इव मात्ŕ̥भिर्  
+इ꣡न्दुर् हिन्वानो꣡ अज्यते  
+देवावी꣡र् म꣡दो मति꣡भिः प꣡रिष्कृतः  

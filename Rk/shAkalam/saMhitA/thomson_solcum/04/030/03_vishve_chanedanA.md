@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-víśve canéd anā́ tuvā  
-devā́sa indra yuyudhuḥ  
-yád áhā náktam ā́tiraḥ  
+वि꣡श्वे चने꣡द् अना꣡ तुवा  
+देवा꣡स इन्द्र युयुधुः  
+य꣡द् अ꣡हा न꣡क्तम् आ꣡तिरः  

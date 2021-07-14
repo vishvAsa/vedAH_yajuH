@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-prá dhanvā soma jā́gr̥vir  
-índrāyendo pári srava  
-dyumántaṃ śúṣmam ā́ bharā suvarvídam  
+प्र꣡ धन्वा सोम जा꣡गृविर्  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  
+द्युम꣡न्तं शु꣡ष्मम् आ꣡ भरा सुवर्वि꣡दम्  

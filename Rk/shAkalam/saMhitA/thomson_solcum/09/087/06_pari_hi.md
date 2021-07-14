@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-pári hí ṣmā puruhūtó jánānāṃ  
-víśvā́sarad bhójanā pūyámānaḥ  
-áthā́ bhara śyenabhr̥ta práyāṃsi  
-rayíṃ túñjāno abhí vā́jam arṣa  
+प꣡रि हि꣡ ष्मा पुरुहूतो꣡ ज꣡नानां  
+वि꣡श्वा꣡सरद् भो꣡जना पूय꣡मानः  
+अ꣡था꣡ भर श्येनभृत प्र꣡यांसि  
+रयिं꣡ तु꣡ञ्जानो अभि꣡ वा꣡जम् अर्ष  

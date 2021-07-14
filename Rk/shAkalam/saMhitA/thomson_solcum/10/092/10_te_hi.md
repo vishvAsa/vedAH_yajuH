@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-té hí prajā́yā ábharanta ví śrávo  
-bŕ̥haspátir vr̥ṣabháḥ sómajāmayaḥ  
-yajñaír átharvā prathamó ví dhārayad  
-devā́ dákṣair bhŕ̥gavaḥ sáṃ cikitrire  
+ते꣡ हि꣡ प्रजा꣡या अ꣡भरन्त वि꣡ श्र꣡वो  
+ब्ŕ̥हस्प꣡तिर् वृषभः꣡ सो꣡मजामयः  
+यज्ञइ꣡र् अ꣡थर्वा प्रथमो꣡ वि꣡ धारयद्  
+देवा꣡ द꣡क्षैर् भ्ŕ̥गवः सं꣡ चिकित्रिरे  

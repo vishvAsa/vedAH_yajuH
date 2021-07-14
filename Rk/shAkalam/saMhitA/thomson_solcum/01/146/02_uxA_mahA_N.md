@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ukṣā́ mahā́m̐ abhí vavakṣa ene  
-ajáras tasthāv itáūtir r̥ṣváḥ  
-urviyā́ḥ padó ní dadhāti sā́nau  
-rihánti ū́dho aruṣā́so asya  
+उक्षा꣡ महाँ꣡ अभि꣡ ववक्ष एने  
+अज꣡रस् तस्थाव् इत꣡ऊतिर् ऋष्वः꣡  
+उर्वियाः꣡ पदो꣡ नि꣡ दधाति सा꣡नौ  
+रिह꣡न्ति ऊ꣡धो अरुषा꣡सो अस्य  

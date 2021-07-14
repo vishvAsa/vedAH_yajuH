@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yáthā́pavathā mánave vayodhā́  
-amitrahā́ varivovíd dhavíṣmān  
-evā́ pavasva dráviṇaṃ dádhāna  
-índre sáṃ tiṣṭha janáyā́yudhāni  
+य꣡था꣡पवथा म꣡नवे वयोधा꣡  
+अमित्रहा꣡ वरिवोवि꣡द् धवि꣡ष्मान्  
+एवा꣡ पवस्व द्र꣡विणं द꣡धान  
+इ꣡न्द्रे सं꣡ तिष्ठ जन꣡या꣡युधानि  

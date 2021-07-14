@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-abhí prá dadrur jánayo ná gárbhaṃ  
-ráthā iva prá yayuḥ sākám ádrayaḥ  
-átarpayo visŕ̥ta ubjá ūrmī́n  
-tuváṃ vr̥tā́m̐ ariṇā indra síndhūn  
+अभि꣡ प्र꣡ दद्रुर् ज꣡नयो न꣡ ग꣡र्भं  
+र꣡था इव प्र꣡ ययुः साक꣡म् अ꣡द्रयः  
+अ꣡तर्पयो विस्ŕ̥त उब्ज꣡ ऊर्मी꣡न्  
+तुवं꣡ वृताँ꣡ अरिणा इन्द्र सि꣡न्धून्  

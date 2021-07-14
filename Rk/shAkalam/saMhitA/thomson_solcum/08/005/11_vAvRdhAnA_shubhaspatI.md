@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-vāvr̥dhānā́ śubhas patī  
-dasrā híraṇyavartanī  
-píbataṃ somiyám mádhu  
+वावृधाना꣡ शुभस् पती  
+दस्रा हि꣡रण्यवर्तनी  
+पि꣡बतं सोमिय꣡म् म꣡धु  

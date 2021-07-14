@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuvā́ṃ hí mandrátamam arkaśokaír  
-vavr̥máhe máhi naḥ śróṣi agne  
-índraṃ ná tvā · śávasā devátā  
-vāyúm pr̥ṇanti rā́dhasā nŕ̥tamāḥ  
+तुवां꣡ हि꣡ मन्द्र꣡तमम् अर्कशोकइ꣡र्  
+ववृम꣡हे म꣡हि नः श्रो꣡षि अग्ने  
+इ꣡न्द्रं न꣡ त्वा · श꣡वसा देव꣡ता  
+वायु꣡म् पृणन्ति रा꣡धसा न्ŕ̥तमाः  

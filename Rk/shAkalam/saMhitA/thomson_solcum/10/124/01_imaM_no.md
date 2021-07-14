@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imáṃ no agna úpa yajñám éhi  
-páñcayāmaṃ trivŕ̥taṃ saptátantum  
-áso havyavā́ḷ utá naḥ purogā́  
-jyóg evá dīrgháṃ táma ā́śayiṣṭhāḥ  
+इमं꣡ नो अग्न उ꣡प यज्ञ꣡म् ए꣡हि  
+प꣡ञ्चयामं त्रिव्ŕ̥तं सप्त꣡तन्तुम्  
+अ꣡सो हव्यवा꣡ऌ उत꣡ नः पुरोगा꣡  
+ज्यो꣡ग् एव꣡ दीर्घं꣡ त꣡म आ꣡शयिष्ठाः  

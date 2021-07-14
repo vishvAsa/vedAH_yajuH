@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-viṣéṇa bhaṅgurā́vataḥ  
-práti ṣma rakṣáso daha  
-ágne tigména śocíṣā  
-tápuragrābhir r̥ṣṭíbhiḥ  
+विषे꣡ण भङ्गुरा꣡वतः  
+प्र꣡ति ष्म रक्ष꣡सो दह  
+अ꣡ग्ने तिग्मे꣡न शोचि꣡षा  
+त꣡पुरग्राभिर् ऋष्टि꣡भिः  

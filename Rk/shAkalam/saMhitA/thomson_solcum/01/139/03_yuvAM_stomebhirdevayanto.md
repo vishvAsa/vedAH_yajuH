@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-yuvā́ṃ stómebhir devayánto aśvinā  
-āśrāváyanta iva ślókam āyávo  
-yuvā́ṃ havyā́bhí āyávaḥ  
-yuvór víśvā ádhi śríyaḥ  
-pŕ̥kṣaś ca viśvavedasā  
-pruṣāyánte vām paváyo hiraṇyáye  
-ráthe dasrā hiraṇyáye  
+युवां꣡ स्तो꣡मेभिर् देवय꣡न्तो अश्विना  
+आश्राव꣡यन्त इव श्लो꣡कम् आय꣡वो  
+युवां꣡ हव्या꣡भि꣡ आय꣡वः  
+युवो꣡र् वि꣡श्वा अ꣡धि श्रि꣡यः  
+प्ŕ̥क्षश् च विश्ववेदसा  
+प्रुषाय꣡न्ते वाम् पव꣡यो हिरण्य꣡ये  
+र꣡थे दस्रा हिरण्य꣡ये  

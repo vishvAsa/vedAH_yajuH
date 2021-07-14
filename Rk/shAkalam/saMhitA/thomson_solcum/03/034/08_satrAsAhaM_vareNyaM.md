@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-satrāsā́haṃ váreṇiyaṃ sahodā́ṃ  
-sasavā́ṃsaṃ súvar apáś ca devī́ḥ  
-sasā́na yáḥ pr̥thivī́ṃ dyā́m utémā́m  
-índram madanti ánu dhī́raṇāsaḥ  
+सत्रासा꣡हं व꣡रेणियं सहोदां꣡  
+ससवां꣡सं सु꣡वर् अप꣡श् च देवीः꣡  
+ससा꣡न यः꣡ पृथिवीं꣡ द्या꣡म् उते꣡मा꣡म्  
+इ꣡न्द्रम् मदन्ति अ꣡नु धी꣡रणासः  

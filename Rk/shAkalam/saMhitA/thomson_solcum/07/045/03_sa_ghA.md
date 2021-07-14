@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá ghā no deváḥ savitā́ sahā́vā  
-ā́ sāviṣad vásupatir vásūni  
-viśráyamāṇo amátim urūcī́m  
-martabhójanam ádha rāsate naḥ  
+स꣡ घा नो देवः꣡ सविता꣡ सहा꣡वा  
+आ꣡ साविषद् व꣡सुपतिर् व꣡सूनि  
+विश्र꣡यमाणो अम꣡तिम् उरूची꣡म्  
+मर्तभो꣡जनम् अ꣡ध रासते नः  

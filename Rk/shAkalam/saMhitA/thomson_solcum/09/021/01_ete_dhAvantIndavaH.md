@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-eté dhāvanti índavaḥ  
-sómā índrāya ghŕ̥ṣvayaḥ  
-matsarā́saḥ suvarvídaḥ  
+एते꣡ धावन्ति इ꣡न्दवः  
+सो꣡मा इ꣡न्द्राय घ्ŕ̥ष्वयः  
+मत्सरा꣡सः सुवर्वि꣡दः  

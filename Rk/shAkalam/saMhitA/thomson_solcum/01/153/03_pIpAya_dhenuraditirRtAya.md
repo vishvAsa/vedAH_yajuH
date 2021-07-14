@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-pīpā́ya dhenúr áditir r̥tā́ya  
-jánāya mitrāvaruṇā havirdé  
-hinóti yád vāṃ vidáthe saparyán  
-sá rātáhavyo mā́nuṣo ná hótā  
+पीपा꣡य धेनु꣡र् अ꣡दितिर् ऋता꣡य  
+ज꣡नाय मित्रावरुणा हविर्दे꣡  
+हिनो꣡ति य꣡द् वां विद꣡थे सपर्य꣡न्  
+स꣡ रात꣡हव्यो मा꣡नुषो न꣡ हो꣡ता  

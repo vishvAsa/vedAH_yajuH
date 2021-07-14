@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-sá naḥ pavāka+ dīdivo  
-ágne devā́m̐ ihā́ vaha  
-úpa yajñáṃ havíś ca naḥ  
+स꣡ नः पवाक+ दीदिवो  
+अ꣡ग्ने देवाँ꣡ इहा꣡ वह  
+उ꣡प यज्ञं꣡ हवि꣡श् च नः  

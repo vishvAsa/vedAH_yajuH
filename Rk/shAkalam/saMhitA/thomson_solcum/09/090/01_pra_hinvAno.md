@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá hinvānó janitā́ ródasīyo  
-rátho ná vā́jaṃ saniṣyánn ayāsīt  
-índraṃ gáchann ā́yudhā saṃśíśāno  
-víśvā vásu hástayor ādádhānaḥ  
+प्र꣡ हिन्वानो꣡ जनिता꣡ रो꣡दसीयो  
+र꣡थो न꣡ वा꣡जं सनिष्य꣡न्न् अयासीत्  
+इ꣡न्द्रं ग꣡छन्न् आ꣡युधा संशि꣡शानो  
+वि꣡श्वा व꣡सु ह꣡स्तयोर् आद꣡धानः  

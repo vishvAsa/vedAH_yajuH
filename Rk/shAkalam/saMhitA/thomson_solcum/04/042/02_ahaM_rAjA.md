@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-aháṃ rā́jā váruṇo máhya° tā́ni  
-asuryā̀ṇi prathamā́ dhārayanta  
-krátuṃ sacante váruṇasya devā́  
-rā́jāmi kr̥ṣṭér upamásya vavréḥ  
+अहं꣡ रा꣡जा व꣡रुणो म꣡ह्य° ता꣡नि  
+असुर्या᳡णि प्रथमा꣡ धारयन्त  
+क्र꣡तुं सचन्ते व꣡रुणस्य देवा꣡  
+रा꣡जामि कृष्टे꣡र् उपम꣡स्य वव्रेः꣡  

@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-sukiṃśukáṃ śalmalíṃ viśvárūpaṃ  
-híraṇyavarṇaṃ suvŕ̥taṃ sucakrám  
-ā́ roha sūrye amŕ̥tasya lokáṃ  
-siyonám pátye vahatúṃ kr̥ṇuṣva  
+सुकिंशुकं꣡ शल्मलिं꣡ विश्व꣡रूपं  
+हि꣡रण्यवर्णं सुव्ŕ̥तं सुचक्र꣡म्  
+आ꣡ रोह सूर्ये अम्ŕ̥तस्य लोकं꣡  
+सियोन꣡म् प꣡त्ये वहतुं꣡ कृणुष्व  

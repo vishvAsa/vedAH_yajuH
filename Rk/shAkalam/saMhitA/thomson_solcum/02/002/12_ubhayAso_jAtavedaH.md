@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ubháyāso jātavedaḥ siyāma te  
-stotā́ro agne sūráyaś ca śármaṇi  
-vásvo rāyáḥ puruścandrásya bhū́yasaḥ  
-prajā́vataḥ suapatyásya śagdhi naḥ  
+उभ꣡यासो जातवेदः सियाम ते  
+स्तोता꣡रो अग्ने सूर꣡यश् च श꣡र्मणि  
+व꣡स्वो रायः꣡ पुरुश्चन्द्र꣡स्य भू꣡यसः  
+प्रजा꣡वतः सुअपत्य꣡स्य शग्धि नः  

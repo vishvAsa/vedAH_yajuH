@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tám u naḥ pū́rve pitáro návagvāḥ  
-saptá víprāso abhí vājáyantaḥ  
-nakṣaddābháṃ táturim parvateṣṭhā́m  
-ádroghavācam matíbhiḥ śáviṣṭham  
+त꣡म् उ नः पू꣡र्वे पित꣡रो न꣡वग्वाः  
+सप्त꣡ वि꣡प्रासो अभि꣡ वाज꣡यन्तः  
+नक्षद्दाभं꣡ त꣡तुरिम् पर्वतेष्ठा꣡म्  
+अ꣡द्रोघवाचम् मति꣡भिः श꣡विष्ठम्  

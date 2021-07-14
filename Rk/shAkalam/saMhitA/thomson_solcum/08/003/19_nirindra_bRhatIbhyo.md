@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-nír indra br̥hatī́bhiyo  
-vr̥tráṃ dhánubhyo asphuraḥ  
-nír árbudasya mŕ̥gayasya māyíno  
-níḥ párvatasya gā́ ājaḥ  
+नि꣡र् इन्द्र बृहती꣡भियो  
+वृत्रं꣡ ध꣡नुभ्यो अस्फुरः  
+नि꣡र् अ꣡र्बुदस्य म्ŕ̥गयस्य मायि꣡नो  
+निः꣡ प꣡र्वतस्य गा꣡ आजः  

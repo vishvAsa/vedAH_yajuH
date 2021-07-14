@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mitró aṃhóś cid ā́d urú  
-kṣáyāya gātúṃ vanate  
-mitrásya hí pratū́rvataḥ  
-sumatír ásti vidhatáḥ  
+मित्रो꣡ अंहो꣡श् चिद् आ꣡द् उरु꣡  
+क्ष꣡याय गातुं꣡ वनते  
+मित्र꣡स्य हि꣡ प्रतू꣡र्वतः  
+सुमति꣡र् अ꣡स्ति विधतः꣡  

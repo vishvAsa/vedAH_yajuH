@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-vásyām̐ indrāsi me pitúr  
-utá bhrā́tur ábhuñjataḥ  
-mātā́ ca me chadayathaḥ samā́ vaso  
-vasutvanā́ya rā́dhase  
+व꣡स्याँ इन्द्रासि मे पितु꣡र्  
+उत꣡ भ्रा꣡तुर् अ꣡भुञ्जतः  
+माता꣡ च मे छदयथः समा꣡ वसो  
+वसुत्वना꣡य रा꣡धसे  

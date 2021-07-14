@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-hinvánti sū́ram úsrayaḥ  
-svásāro jāmáyas pátim  
-mahā́m índum mahīyúvaḥ  
+हिन्व꣡न्ति सू꣡रम् उ꣡स्रयः  
+स्व꣡सारो जाम꣡यस् प꣡तिम्  
+महा꣡म् इ꣡न्दुम् महीयु꣡वः  

@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-índrasya hā́rdi somadhā́nam ā́ viśa  
-samudrám iva síndhavaḥ  
-júṣṭo mitrā́ya váruṇāya vāyáve  
-divó viṣṭambhá uttamáḥ  
+इ꣡न्द्रस्य हा꣡र्दि सोमधा꣡नम् आ꣡ विश  
+समुद्र꣡म् इव सि꣡न्धवः  
+जु꣡ष्टो मित्रा꣡य व꣡रुणाय वाय꣡वे  
+दिवो꣡ विष्टम्भ꣡ उत्तमः꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ yāhi agne pathíyā ánu svā́  
-mandró devā́nāṃ sakhiyáṃ juṣāṇáḥ  
-ā́ sā́nu śúṣmair nadáyan pr̥thivyā́  
-jámbhebhir víśvam uśádhag vánāni  
+आ꣡ याहि अग्ने पथि꣡या अ꣡नु स्वा꣡  
+मन्द्रो꣡ देवा꣡नां सखियं꣡ जुषाणः꣡  
+आ꣡ सा꣡नु शु꣡ष्मैर् नद꣡यन् पृथिव्या꣡  
+ज꣡म्भेभिर् वि꣡श्वम् उश꣡धग् व꣡नानि  

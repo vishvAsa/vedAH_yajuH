@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ukthá-ukthe sóma índram mamāda  
-nīthé-nīthe maghávānaṃ sutā́saḥ  
-yád īṃ sabā́dhaḥ pitáraṃ ná putrā́ḥ  
-samānádakṣā ávase hávante  
+उक्थ꣡-उक्थे सो꣡म इ꣡न्द्रम् ममाद  
+नीथे꣡-नीथे मघ꣡वानं सुता꣡सः  
+य꣡द् ईं सबा꣡धः पित꣡रं न꣡ पुत्राः꣡  
+समान꣡दक्षा अ꣡वसे ह꣡वन्ते  

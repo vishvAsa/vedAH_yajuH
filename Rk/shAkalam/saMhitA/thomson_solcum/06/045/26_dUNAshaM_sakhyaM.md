@@ -2,6 +2,6 @@
 title = "026"
 
 +++
-dūṇā́śaṃ sakhiyáṃ táva  
-gaúr asi vīra gavyaté  
-áśvo aśvāyaté bhava  
+दूणा꣡शं सखियं꣡ त꣡व  
+गउ꣡र् असि वीर गव्यते꣡  
+अ꣡श्वो अश्वायते꣡ भव  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-dhunétayaḥ supraketám mádanto  
-bŕ̥haspate abhí yé nas tatasré  
-pŕ̥ṣantaṃ sr̥prám ádabdham ūrvám  
-bŕ̥haspate rákṣatād asya yónim  
+धुने꣡तयः सुप्रकेत꣡म् म꣡दन्तो  
+ब्ŕ̥हस्पते अभि꣡ ये꣡ नस् ततस्रे꣡  
+प्ŕ̥षन्तं सृप्र꣡म् अ꣡दब्धम् ऊर्व꣡म्  
+ब्ŕ̥हस्पते र꣡क्षताद् अस्य यो꣡निम्  

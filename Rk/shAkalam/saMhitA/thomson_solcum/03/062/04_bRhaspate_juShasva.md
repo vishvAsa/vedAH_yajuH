@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-bŕ̥haspate juṣásva no  
-havyā́ni viśvadeviya  
-rā́sva rátnāni dāśúṣe  
+ब्ŕ̥हस्पते जुष꣡स्व नो  
+हव्या꣡नि विश्वदेविय  
+रा꣡स्व र꣡त्नानि दाशु꣡षे  

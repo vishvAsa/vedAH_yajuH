@@ -2,6 +2,6 @@
 title = "032"
 
 +++
-dvitā́ yó vr̥trahántamo  
-vidá índraḥ śatákratuḥ  
-úpa no háribhiḥ sutám  
+द्विता꣡ यो꣡ वृत्रह꣡न्तमो  
+विद꣡ इ꣡न्द्रः शत꣡क्रतुः  
+उ꣡प नो ह꣡रिभिः सुत꣡म्  

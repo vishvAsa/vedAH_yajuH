@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-prá me námī sāpyá iṣé bhujé bhũd  
-gávām éṣe sakhiyā́ kr̥ṇuta dvitā́  
-didyúṃ yád asya samithéṣu maṃháyam  
-ā́d íd enaṃ śáṃsiyam ukthíyaṃ karam  
+प्र꣡ मे न꣡मी साप्य꣡ इषे꣡ भुजे꣡ भ्ũद्  
+ग꣡वाम् ए꣡षे सखिया꣡ कृणुत द्विता꣡  
+दिद्युं꣡ य꣡द् अस्य समिथे꣡षु मंह꣡यम्  
+आ꣡द् इ꣡द् एनं शं꣡सियम् उक्थि꣡यं करम्  

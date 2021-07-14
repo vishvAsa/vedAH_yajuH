@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-prá nūnáṃ jāyatām ayám  
-mánus tókmeva rohatu  
-yáḥ sahásraṃ śatā́śuvaṃ  
-sadyó dānā́ya máṃhate  
+प्र꣡ नूनं꣡ जायताम् अय꣡म्  
+म꣡नुस् तो꣡क्मेव रोहतु  
+यः꣡ सह꣡स्रं शता꣡शुवं  
+सद्यो꣡ दाना꣡य मं꣡हते  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yé yajñéna dákṣiṇayā sámaktā  
-índrasya sakhyám amr̥tatvám ānaśá  
-tébhyo bhadrám aṅgiraso vo astu  
-práti gr̥bhṇīta mānaváṃ sumedhasaḥ  
+ये꣡ यज्ञे꣡न द꣡क्षिणया स꣡मक्ता  
+इ꣡न्द्रस्य सख्य꣡म् अमृतत्व꣡म् आनश꣡  
+ते꣡भ्यो भद्र꣡म् अङ्गिरसो वो अस्तु  
+प्र꣡ति गृभ्णीत मानवं꣡ सुमेधसः  

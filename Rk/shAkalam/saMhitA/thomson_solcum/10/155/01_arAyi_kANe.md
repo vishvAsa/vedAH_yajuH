@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-árāyi kā́ṇe víkaṭe  
-giríṃ gacha sadānuve  
-śirímbiṭhasya sátvabhis  
-tébhiṣ ṭvā cātayāmasi  
+अ꣡रायि का꣡णे वि꣡कटे  
+गिरिं꣡ गछ सदानुवे  
+शिरि꣡म्बिठस्य स꣡त्वभिस्  
+ते꣡भिष् ट्वा चातयामसि  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-nāvā́ ná kṣódaḥ pradíśaḥ pr̥thivyā́ḥ  
-suastíbhir áti durgā́ṇi víśvā  
-suvā́m prajā́m br̥háduktho mahitvā́  
-ā́vareṣu adadhād ā́ páreṣu  
+नावा꣡ न꣡ क्षो꣡दः प्रदि꣡शः पृथिव्याः꣡  
+सुअस्ति꣡भिर् अ꣡ति दुर्गा꣡णि वि꣡श्वा  
+सुवा꣡म् प्रजा꣡म् बृह꣡दुक्थो महित्वा꣡  
+आ꣡वरेषु अदधाद् आ꣡ प꣡रेषु  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ayáṃ te astu haryatáḥ  
-sóma ā́ háribhiḥ sutáḥ  
-juṣāṇá indra háribhir na ā́ gahi  
-ā́ tiṣṭha háritaṃ rátham  
+अयं꣡ ते अस्तु हर्यतः꣡  
+सो꣡म आ꣡ ह꣡रिभिः सुतः꣡  
+जुषाण꣡ इन्द्र ह꣡रिभिर् न आ꣡ गहि  
+आ꣡ तिष्ठ ह꣡रितं र꣡थम्  

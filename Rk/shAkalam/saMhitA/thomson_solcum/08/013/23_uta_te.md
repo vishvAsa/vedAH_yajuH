@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-utá te súṣṭutā hárī  
-vŕ̥ṣaṇā vahato rátham  
-ajuryásya madíntamaṃ yám ī́mahe  
+उत꣡ ते सु꣡ष्टुता ह꣡री  
+व्ŕ̥षणा वहतो र꣡थम्  
+अजुर्य꣡स्य मदि꣡न्तमं य꣡म् ई꣡महे  

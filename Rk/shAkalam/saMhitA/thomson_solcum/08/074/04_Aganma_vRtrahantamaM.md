@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ganma vr̥trahántamaṃ  
-jyáyiṣṭham+ agním ā́navam  
-yásya śrutárvā br̥hánn  
-ārkṣó ánīka édhate  
+आ꣡गन्म वृत्रह꣡न्तमं  
+ज्य꣡यिष्ठम्+ अग्नि꣡म् आ꣡नवम्  
+य꣡स्य श्रुत꣡र्वा बृह꣡न्न्  
+आर्क्षो꣡ अ꣡नीक ए꣡धते  

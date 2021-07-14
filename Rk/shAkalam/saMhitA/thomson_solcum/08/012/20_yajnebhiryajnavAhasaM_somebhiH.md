@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-yajñébhir yajñávāhasaṃ  
-sómebhiḥ somapā́tamam  
-hótrābhir índraṃ vāvr̥dhur ví ānaśuḥ  
+यज्ञे꣡भिर् यज्ञ꣡वाहसं  
+सो꣡मेभिः सोमपा꣡तमम्  
+हो꣡त्राभिर् इ꣡न्द्रं वावृधुर् वि꣡ आनशुः  

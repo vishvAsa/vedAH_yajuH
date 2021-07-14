@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yád aṅgá taviṣīyavo  
-yā́maṃ śubhrā ácidhuvam  
-ní párvatā ahāsata  
+य꣡द् अङ्ग꣡ तविषीयवो  
+या꣡मं शुभ्रा अ꣡चिधुवम्  
+नि꣡ प꣡र्वता अहासत  

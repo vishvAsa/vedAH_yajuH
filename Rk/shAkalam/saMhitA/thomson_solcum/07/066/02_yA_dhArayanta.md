@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yā́ dhāráyanta devā́ḥ  
-sudákṣā dákṣapitarā  
-asuryā̀ya prámahasā  
+या꣡ धार꣡यन्त देवाः꣡  
+सुद꣡क्षा द꣡क्षपितरा  
+असुर्या᳡य प्र꣡महसा  

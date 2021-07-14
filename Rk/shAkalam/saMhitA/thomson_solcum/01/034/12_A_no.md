@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ā́ no aśvinā trivŕ̥tā ráthena  
-arvā́ñcaṃ rayíṃ vahataṃ suvī́ram  
-śr̥ṇvántā vām ávase johavīmi  
-vr̥dhé ca no bhavataṃ vā́jasātau  
+आ꣡ नो अश्विना त्रिव्ŕ̥ता र꣡थेन  
+अर्वा꣡ञ्चं रयिं꣡ वहतं सुवी꣡रम्  
+शृण्व꣡न्ता वाम् अ꣡वसे जोहवीमि  
+वृधे꣡ च नो भवतं वा꣡जसातौ  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ámūraḥ kavír áditir vivásvān  
-susaṃsán mitró átithiḥ śivó naḥ  
-citrábhānur uṣásām bhāti ágre  
-apā́ṃ gárbhaḥ prasúva ā́ viveśa  
+अ꣡मूरः कवि꣡र् अ꣡दितिर् विव꣡स्वान्  
+सुसंस꣡न् मित्रो꣡ अ꣡तिथिः शिवो꣡ नः  
+चित्र꣡भानुर् उष꣡साम् भाति अ꣡ग्रे  
+अपां꣡ ग꣡र्भः प्रसु꣡व आ꣡ विवेश  

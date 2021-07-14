@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mitrás tán no váruṇo māmahanta  
-śárma tokā́ya tánayāya gopā́ḥ  
-mā́ vo bhujema anyájātam éno  
-mā́ tát karma vasavo yác cáyadhve  
+मित्र꣡स् त꣡न् नो व꣡रुणो मामहन्त  
+श꣡र्म तोका꣡य त꣡नयाय गोपाः꣡  
+मा꣡ वो भुजेम अन्य꣡जातम् ए꣡नो  
+मा꣡ त꣡त् कर्म वसवो य꣡च् च꣡यध्वे  

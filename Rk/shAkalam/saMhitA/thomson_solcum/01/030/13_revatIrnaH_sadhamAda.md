@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-revátīr naḥ sadhamā́da  
-índre santu tuvívājāḥ  
-kṣumánto yā́bhir mádema  
+रेव꣡तीर् नः सधमा꣡द  
+इ꣡न्द्रे सन्तु तुवि꣡वाजाः  
+क्षुम꣡न्तो या꣡भिर् म꣡देम  

@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-mahī́ dyaúḥ pr̥thivī́ ca na  
-imáṃ yajñám mimikṣatām  
-pipr̥tā́ṃ no bhárīmabhiḥ  
+मही꣡ द्यउः꣡ पृथिवी꣡ च न  
+इमं꣡ यज्ञ꣡म् मिमिक्षताम्  
+पिपृतां꣡ नो भ꣡रीमभिः  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-imé mā pītā́ yaśása uruṣyávo  
-ráthaṃ ná gā́vaḥ sám anāha párvasu  
-té mā rakṣantu visrásaś carítrãd  
-utá mā srā́mād yavayantu índavaḥ  
+इमे꣡ मा पीता꣡ यश꣡स उरुष्य꣡वो  
+र꣡थं न꣡ गा꣡वः स꣡म् अनाह प꣡र्वसु  
+ते꣡ मा रक्षन्तु विस्र꣡सश् चरि꣡त्र्ãद्  
+उत꣡ मा स्रा꣡माद् यवयन्तु इ꣡न्दवः  

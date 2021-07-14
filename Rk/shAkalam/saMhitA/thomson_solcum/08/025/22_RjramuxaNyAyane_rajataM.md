@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-r̥jrám ukṣaṇiyā́yane  
-rajatáṃ hárayāṇe  
-ráthaṃ yuktám asanāma suṣā́maṇi  
+ऋज्र꣡म् उक्षणिया꣡यने  
+रजतं꣡ ह꣡रयाणे  
+र꣡थं युक्त꣡म् असनाम सुषा꣡मणि  

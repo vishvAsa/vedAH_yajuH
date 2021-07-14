@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́ bharataṃ śíkṣataṃ vajrabāhū  
-asmā́m̐ indrāgnī avataṃ śácībhiḥ  
-imé nú té raśmáyaḥ sū́riyasya  
-yébhiḥ sapitvám pitáro na ā́san  
+आ꣡ भरतं शि꣡क्षतं वज्रबाहू  
+अस्माँ꣡ इन्द्राग्नी अवतं श꣡चीभिः  
+इमे꣡ नु꣡ ते꣡ रश्म꣡यः सू꣡रियस्य  
+ये꣡भिः सपित्व꣡म् पित꣡रो न आ꣡सन्  

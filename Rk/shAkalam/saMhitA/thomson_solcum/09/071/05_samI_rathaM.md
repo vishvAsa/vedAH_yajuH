@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sám ī ráthaṃ ná bhuríjor aheṣata  
-dáśa svásāro áditer upástha ā́  
-jígād úpa jrayati gór apīcíyam  
-padáṃ yád asya matúthā ájījanan  
+स꣡म् ई र꣡थं न꣡ भुरि꣡जोर् अहेषत  
+द꣡श स्व꣡सारो अ꣡दितेर् उप꣡स्थ आ꣡  
+जि꣡गाद् उ꣡प ज्रयति गो꣡र् अपीचि꣡यम्  
+पदं꣡ य꣡द् अस्य मतु꣡था अ꣡जीजनन्  

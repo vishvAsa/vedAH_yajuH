@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vīrébhir vīrā́n vanavad vanuṣyató  
-góbhī rayím paprathad bódhati tmánā  
-tokáṃ ca tásya tánayaṃ ca vardhate  
-yáṃ-yaṃ yújaṃ kr̥ṇuté bráhmaṇas pátiḥ  
+वीरे꣡भिर् वीरा꣡न् वनवद् वनुष्यतो꣡  
+गो꣡भी रयि꣡म् पप्रथद् बो꣡धति त्म꣡ना  
+तोकं꣡ च त꣡स्य त꣡नयं च वर्धते  
+यं꣡-यं यु꣡जं कृणुते꣡ ब्र꣡ह्मणस् प꣡तिः  

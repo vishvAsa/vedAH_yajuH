@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-mádhor dhā́rām ánu kṣara  
-tīvráḥ sadhástham ā́sadaḥ  
-cā́rur r̥tā́ya pītáye  
+म꣡धोर् धा꣡राम् अ꣡नु क्षर  
+तीव्रः꣡ सध꣡स्थम् आ꣡सदः  
+चा꣡रुर् ऋता꣡य पीत꣡ये  

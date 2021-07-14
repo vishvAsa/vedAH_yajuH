@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-nṹ ṣṭhirám maruto vīrávantam  
-r̥tīṣā́haṃ rayím asmā́su dhatta  
-sahasríṇaṃ śatínaṃ śūśuvā́ṃsam  
-prātár makṣū́ dhiyā́vasur jagamyāt  
+न्ũ꣡ ष्ठिर꣡म् मरुतो वीर꣡वन्तम्  
+ऋतीषा꣡हं रयि꣡म् अस्मा꣡सु धत्त  
+सहस्रि꣡णं शति꣡नं शूशुवां꣡सम्  
+प्रात꣡र् मक्षू꣡ धिया꣡वसुर् जगम्यात्  

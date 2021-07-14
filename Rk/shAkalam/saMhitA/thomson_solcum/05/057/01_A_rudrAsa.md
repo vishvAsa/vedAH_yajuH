@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ rudrāsa índravantaḥ sajóṣaso  
-híraṇyarathāḥ suvitā́ya gantana  
-iyáṃ vo asmát práti haryate matís  
-tr̥ṣṇáje ná divá útsā udanyáve  
+आ꣡ रुद्रास इ꣡न्द्रवन्तः सजो꣡षसो  
+हि꣡रण्यरथाः सुविता꣡य गन्तन  
+इयं꣡ वो अस्म꣡त् प्र꣡ति हर्यते मति꣡स्  
+तृष्ण꣡जे न꣡ दिव꣡ उ꣡त्सा उदन्य꣡वे  

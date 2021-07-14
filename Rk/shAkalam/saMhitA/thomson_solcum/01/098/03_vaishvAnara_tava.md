@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-vaíśvānara táva tát satyám astu  
-asmā́n rā́yo maghávānaḥ sacantām  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+वइ꣡श्वानर त꣡व त꣡त् सत्य꣡म् अस्तु  
+अस्मा꣡न् रा꣡यो मघ꣡वानः सचन्ताम्  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

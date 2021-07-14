@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-idáṃ dyāvāpr̥thivī satyám astu  
-pítar mā́tar yád ihópabruvé vām  
-bhūtáṃ devā́nām avamé ávobhir  
-vidyā́meṣáṃ vr̥jánaṃ jīrádānum  
+इदं꣡ द्यावापृथिवी सत्य꣡म् अस्तु  
+पि꣡तर् मा꣡तर् य꣡द् इहो꣡पब्रुवे꣡ वाम्  
+भूतं꣡ देवा꣡नाम् अवमे꣡ अ꣡वोभिर्  
+विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्  

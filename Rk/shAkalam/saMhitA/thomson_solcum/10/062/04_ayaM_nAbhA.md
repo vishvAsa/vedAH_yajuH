@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ayáṃ nā́bhā vadati valgú vo gr̥hé  
-dévaputrā r̥ṣayas tác chr̥ṇotana  
-subrahmaṇyám aṅgiraso vo astu  
-práti gr̥bhṇīta mānaváṃ sumedhasaḥ  
+अयं꣡ ना꣡भा वदति वल्गु꣡ वो गृहे꣡  
+दे꣡वपुत्रा ऋषयस् त꣡च् छृणोतन  
+सुब्रह्मण्य꣡म् अङ्गिरसो वो अस्तु  
+प्र꣡ति गृभ्णीत मानवं꣡ सुमेधसः  

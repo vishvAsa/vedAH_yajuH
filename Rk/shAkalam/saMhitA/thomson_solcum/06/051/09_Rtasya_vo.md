@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-r̥tásya vo rathíyaḥ pūtádakṣān  
-r̥tásya pastiyasádo ádabdhān  
-tā́m̐ ā́ námobhir urucákṣaso nr̥̄́n  
-víśvān va ā́ name mahó yajatrāḥ  
+ऋत꣡स्य वो रथि꣡यः पूत꣡दक्षान्  
+ऋत꣡स्य पस्तियस꣡दो अ꣡दब्धान्  
+ताँ꣡ आ꣡ न꣡मोभिर् उरुच꣡क्षसो नॄ꣡न्  
+वि꣡श्वान् व आ꣡ नमे महो꣡ यजत्राः  

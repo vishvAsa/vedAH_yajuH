@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-vitvákṣaṇaḥ sámr̥tau cakramāsajó  
-ásunvato víṣuṇaḥ sunvató vr̥dháḥ  
-índro víśvasya damitā́ vibhī́ṣaṇo  
-yathāvaśáṃ nayati dā́sam ā́riyaḥ  
+वित्व꣡क्षणः स꣡मृतौ चक्रमासजो꣡  
+अ꣡सुन्वतो वि꣡षुणः सुन्वतो꣡ वृधः꣡  
+इ꣡न्द्रो वि꣡श्वस्य दमिता꣡ विभी꣡षणो  
+यथावशं꣡ नयति दा꣡सम् आ꣡रियः  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-asmā́kaṃ joṣi adhvarám  
-asmā́kaṃ yajñám aṅgiraḥ  
-asmā́kaṃ śr̥ṇudhī hávam  
+अस्मा꣡कं जोषि अध्वर꣡म्  
+अस्मा꣡कं यज्ञ꣡म् अङ्गिरः  
+अस्मा꣡कं शृणुधी ह꣡वम्  

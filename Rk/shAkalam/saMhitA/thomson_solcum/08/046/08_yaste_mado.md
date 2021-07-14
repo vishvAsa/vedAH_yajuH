@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yás te mádo váreṇiyo  
-yá indra vr̥trahántamaḥ  
-yá ādadíḥ súvar nŕ̥bhir  
-yáḥ pŕ̥tanāsu duṣṭáraḥ  
+य꣡स् ते म꣡दो व꣡रेणियो  
+य꣡ इन्द्र वृत्रह꣡न्तमः  
+य꣡ आददिः꣡ सु꣡वर् न्ŕ̥भिर्  
+यः꣡ प्ŕ̥तनासु दुष्ट꣡रः  

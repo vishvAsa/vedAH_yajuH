@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-r̥júr íc cháṃso vanavad vanuṣyató  
-devayánn íd ádevayantam abhy àsat  
-suprāvī́r íd vanavat pr̥tsú duṣṭáraṃ  
-yájvéd áyajyor ví bhajāti bhójanam  
+ऋजु꣡र् इ꣡च् छं꣡सो वनवद् वनुष्यतो꣡  
+देवय꣡न्न् इ꣡द् अ꣡देवयन्तम् अभ्य् अ᳡सत्  
+सुप्रावी꣡र् इ꣡द् वनवत् पृत्सु꣡ दुष्ट꣡रं  
+य꣡ज्वे꣡द् अ꣡यज्योर् वि꣡ भजाति भो꣡जनम्  

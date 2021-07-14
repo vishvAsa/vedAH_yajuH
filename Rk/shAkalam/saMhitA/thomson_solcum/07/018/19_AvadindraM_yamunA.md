@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-ā́vad índraṃ yamúnā tŕ̥tsavaś ca  
-prā́tra bhedáṃ sarvátātā muṣāyat  
-ajā́saś ca śígravo yákṣavaś ca  
-balíṃ śīrṣā́ṇi jabhrur áśviyāni  
+आ꣡वद् इ꣡न्द्रं यमु꣡ना त्ŕ̥त्सवश् च  
+प्रा꣡त्र भेदं꣡ सर्व꣡ताता मुषायत्  
+अजा꣡सश् च शि꣡ग्रवो य꣡क्षवश् च  
+बलिं꣡ शीर्षा꣡णि जभ्रुर् अ꣡श्वियानि  

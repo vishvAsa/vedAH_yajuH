@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-eṣā́ jánaṃ darśatā́ bodháyantī  
-sugā́n patháḥ kr̥ṇvatī́ yāti ágre  
-br̥hadrathā́ br̥hatī́ viśvaminvā́  
-uṣā́ jyótir yachati ágre áhnām  
+एषा꣡ ज꣡नं दर्शता꣡ बोध꣡यन्ती  
+सुगा꣡न् पथः꣡ कृण्वती꣡ याति अ꣡ग्रे  
+बृहद्रथा꣡ बृहती꣡ विश्वमिन्वा꣡  
+उषा꣡ ज्यो꣡तिर् यछति अ꣡ग्रे अ꣡ह्नाम्  

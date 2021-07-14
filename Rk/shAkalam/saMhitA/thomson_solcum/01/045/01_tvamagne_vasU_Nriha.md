@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tuvám agne vásūm̐r ihá  
-rudrā́m̐ āditiyā́m̐ utá  
-yájā suadhvaráṃ jánam  
-mánujātaṃ ghr̥taprúṣam  
+तुव꣡म् अग्ने व꣡सूँर् इह꣡  
+रुद्राँ꣡ आदितियाँ꣡ उत꣡  
+य꣡जा सुअध्वरं꣡ ज꣡नम्  
+म꣡नुजातं घृतप्रु꣡षम्  

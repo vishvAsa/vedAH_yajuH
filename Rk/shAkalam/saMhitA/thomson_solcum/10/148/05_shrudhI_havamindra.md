@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-śrudhī́ hávam indara+ śūra pŕ̥thyā  
-utá stavase veniyásya arkaíḥ  
-ā́ yás te yóniṃ ghr̥távantam ásvār  
-ūrmír ná nímnaír dravayanta vákvāḥ  
+श्रुधी꣡ ह꣡वम् इन्दर+ शूर प्ŕ̥थ्या  
+उत꣡ स्तवसे वेनिय꣡स्य अर्कइः꣡  
+आ꣡ य꣡स् ते यो꣡निं घृत꣡वन्तम् अ꣡स्वार्  
+ऊर्मि꣡र् न꣡ नि꣡म्नइ꣡र् द्रवयन्त व꣡क्वाः  

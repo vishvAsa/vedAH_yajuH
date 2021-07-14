@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-té no mitró váruṇo aryamā́yúr  
-índra r̥bhukṣā́ marúto juṣanta  
-námobhir vā yé dádhate suvr̥ktíṃ  
-stómaṃ rudrā́ya mīḷhúṣe sajóṣāḥ  
+ते꣡ नो मित्रो꣡ व꣡रुणो अर्यमा꣡यु꣡र्  
+इ꣡न्द्र ऋभुक्षा꣡ मरु꣡तो जुषन्त  
+न꣡मोभिर् वा ये꣡ द꣡धते सुवृक्तिं꣡  
+स्तो꣡मं रुद्रा꣡य मीऌहु꣡षे सजो꣡षाः  

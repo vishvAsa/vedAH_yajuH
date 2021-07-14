@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-iyáṃ te pūṣann āghr̥ṇe  
-suṣṭutír deva návyasī  
-asmā́bhis túbhya° śasyate  
+इयं꣡ ते पूषन्न् आघृणे  
+सुष्टुति꣡र् देव न꣡व्यसी  
+अस्मा꣡भिस् तु꣡भ्य° शस्यते  

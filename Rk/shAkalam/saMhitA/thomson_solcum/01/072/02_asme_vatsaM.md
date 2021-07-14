@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-asmé vatsám pári ṣántaṃ ná vindann  
-ichánto víśve amŕ̥tā ámūrāḥ  
-śramayúvaḥ padavíyo dhiyaṃdhā́s  
-tasthúḥ padé paramé cā́ru agnéḥ  
+अस्मे꣡ वत्स꣡म् प꣡रि ष꣡न्तं न꣡ विन्दन्न्  
+इछ꣡न्तो वि꣡श्वे अम्ŕ̥ता अ꣡मूराः  
+श्रमयु꣡वः पदवि꣡यो धियंधा꣡स्  
+तस्थुः꣡ पदे꣡ परमे꣡ चा꣡रु अग्नेः꣡  

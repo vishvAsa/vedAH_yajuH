@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-vidmā́ hí yás te adrivas  
-tvā́dattaḥ satya somapāḥ  
-víśvāsu dasma kr̥ṣṭíṣu  
+विद्मा꣡ हि꣡ य꣡स् ते अद्रिवस्  
+त्वा꣡दत्तः सत्य सोमपाः  
+वि꣡श्वासु दस्म कृष्टि꣡षु  

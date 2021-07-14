@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ádhi péśāṃsi vapate nr̥tū́r iva  
-áporṇute vákṣa usréva bárjaham  
-jyótir víśvasmai bhúvanāya kr̥ṇvatī́  
-gā́vo ná vrajáṃ ví uṣā́ āvar támaḥ  
+अ꣡धि पे꣡शांसि वपते नृतू꣡र् इव  
+अ꣡पोर्णुते व꣡क्ष उस्रे꣡व ब꣡र्जहम्  
+ज्यो꣡तिर् वि꣡श्वस्मै भु꣡वनाय कृण्वती꣡  
+गा꣡वो न꣡ व्रजं꣡ वि꣡ उषा꣡ आवर् त꣡मः  

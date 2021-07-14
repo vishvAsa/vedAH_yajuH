@@ -2,6 +2,6 @@
 title = "033"
 
 +++
-bharádvājāya sapráthaḥ  
-śárma yacha sahantiya  
-ágne váreṇiyaṃ vásu  
+भर꣡द्वाजाय सप्र꣡थः  
+श꣡र्म यछ सहन्तिय  
+अ꣡ग्ने व꣡रेणियं व꣡सु  

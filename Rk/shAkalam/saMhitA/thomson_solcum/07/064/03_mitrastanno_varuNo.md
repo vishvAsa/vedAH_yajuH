@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-mitrás tán no váruṇo devó aryáḥ  
-prá sā́dhiṣṭhebhiḥ pathíbhir nayantu  
-brávad yáthā na ā́d aríḥ sudā́sa  
-iṣā́ madema sahá devágopāḥ  
+मित्र꣡स् त꣡न् नो व꣡रुणो देवो꣡ अर्यः꣡  
+प्र꣡ सा꣡धिष्ठेभिः पथि꣡भिर् नयन्तु  
+ब्र꣡वद् य꣡था न आ꣡द् अरिः꣡ सुदा꣡स  
+इषा꣡ मदेम सह꣡ देव꣡गोपाः  

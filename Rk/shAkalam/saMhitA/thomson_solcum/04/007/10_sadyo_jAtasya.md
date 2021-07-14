@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sadyó jātásya dádr̥śānam ójo  
-yád asya vā́to anuvā́ti śocíḥ  
-vr̥ṇákti tigmā́m ataséṣu jihvā́ṃ  
-sthirā́ cid ánnā dayate ví jámbhaiḥ  
+सद्यो꣡ जात꣡स्य द꣡दृशानम् ओ꣡जो  
+य꣡द् अस्य वा꣡तो अनुवा꣡ति शोचिः꣡  
+वृण꣡क्ति तिग्मा꣡म् अतसे꣡षु जिह्वां꣡  
+स्थिरा꣡ चिद् अ꣡न्ना दयते वि꣡ ज꣡म्भैः  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ní tád dadhiṣe ávaram páraṃ ca  
-yásminn ā́vitha ávasā duroṇé  
-ā́ mātárā sthāpayase jigatnū́  
-áta inoṣi kárvarā purū́ṇi  
+नि꣡ त꣡द् दधिषे अ꣡वरम् प꣡रं च  
+य꣡स्मिन्न् आ꣡विथ अ꣡वसा दुरोणे꣡  
+आ꣡ मात꣡रा स्थापयसे जिगत्नू꣡  
+अ꣡त इनोषि क꣡र्वरा पुरू꣡णि  

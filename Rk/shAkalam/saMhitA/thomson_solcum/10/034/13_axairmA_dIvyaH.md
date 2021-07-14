@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-akṣaír mā́ dīvyaḥ kr̥ṣím ít kr̥ṣasva  
-vitté ramasva bahú mányamānaḥ  
-tátra gā́vaḥ kitava tátra jāyā́  
-tán me ví caṣṭe savitā́yám aryáḥ  
+अक्षइ꣡र् मा꣡ दीव्यः कृषि꣡म् इ꣡त् कृषस्व  
+वित्ते꣡ रमस्व बहु꣡ म꣡न्यमानः  
+त꣡त्र गा꣡वः कितव त꣡त्र जाया꣡  
+त꣡न् मे वि꣡ चष्टे सविता꣡य꣡म् अर्यः꣡  

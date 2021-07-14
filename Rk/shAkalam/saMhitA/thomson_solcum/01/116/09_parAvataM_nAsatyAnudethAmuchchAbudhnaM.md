@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-párāvatáṃ nāsatiyānudethām  
-uccā́budhnaṃ cakrathur jihmábāram  
-kṣárann ā́po ná pāyánāya rāyé  
-sahásrāya tŕ̥ṣyate gótamasya  
+प꣡रावतं꣡ नासतियानुदेथाम्  
+उच्चा꣡बुध्नं चक्रथुर् जिह्म꣡बारम्  
+क्ष꣡रन्न् आ꣡पो न꣡ पाय꣡नाय राये꣡  
+सह꣡स्राय त्ŕ̥ष्यते गो꣡तमस्य  

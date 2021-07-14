@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ayáṃ yáḥ sŕ̥ñjaye puró  
-daivavāté samidhyáte  
-dyumā́m̐ amitradámbhanaḥ  
+अयं꣡ यः꣡ स्ŕ̥ञ्जये पुरो꣡  
+दैववाते꣡ समिध्य꣡ते  
+द्युमाँ꣡ अमित्रद꣡म्भनः  

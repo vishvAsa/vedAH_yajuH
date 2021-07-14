@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-devó ná yáḥ savitā́ satyámanmā  
-krátvā nipā́ti vr̥jánāni víśvā  
-purupraśastó amátir ná satyá  
-ātméva śévo didhiṣā́yiyo bhūt  
+देवो꣡ न꣡ यः꣡ सविता꣡ सत्य꣡मन्मा  
+क्र꣡त्वा निपा꣡ति वृज꣡नानि वि꣡श्वा  
+पुरुप्रशस्तो꣡ अम꣡तिर् न꣡ सत्य꣡  
+आत्मे꣡व शे꣡वो दिधिषा꣡यियो भूत्  

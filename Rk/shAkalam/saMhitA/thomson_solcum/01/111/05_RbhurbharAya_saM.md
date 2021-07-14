@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-r̥bhúr bhárāya sáṃ śiśātu sātíṃ  
-samaryajíd vā́jo asmā́m̐ aviṣṭu  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+ऋभु꣡र् भ꣡राय सं꣡ शिशातु सातिं꣡  
+समर्यजि꣡द् वा꣡जो अस्माँ꣡ अविष्टु  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

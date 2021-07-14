@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá samrā́je br̥hád arcā gabhīrám  
-bráhma priyáṃ váruṇāya śrutā́ya  
-ví yó jaghā́na śamitéva cárma  
-upastíre pr̥thivī́ṃ sū́riyāya  
+प्र꣡ सम्रा꣡जे बृह꣡द् अर्चा गभीर꣡म्  
+ब्र꣡ह्म प्रियं꣡ व꣡रुणाय श्रुता꣡य  
+वि꣡ यो꣡ जघा꣡न शमिते꣡व च꣡र्म  
+उपस्ति꣡रे पृथिवीं꣡ सू꣡रियाय  

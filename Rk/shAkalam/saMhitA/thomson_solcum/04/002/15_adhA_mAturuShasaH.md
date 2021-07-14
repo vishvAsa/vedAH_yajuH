@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-ádhā mātúr uṣásaḥ saptá víprā  
-jā́yemahi prathamā́ vedháso nr̥̄́n  
-divás putrā́ áṅgiraso bhavema  
-ádriṃ rujema dhanínaṃ śucántaḥ  
+अ꣡धा मातु꣡र् उष꣡सः सप्त꣡ वि꣡प्रा  
+जा꣡येमहि प्रथमा꣡ वेध꣡सो नॄ꣡न्  
+दिव꣡स् पुत्रा꣡ अ꣡ङ्गिरसो भवेम  
+अ꣡द्रिं रुजेम धनि꣡नं शुच꣡न्तः  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-kadā́ caná starī́r asi  
-néndra saścasi dāśúṣe  
-úpopén nú maghavan bhū́ya ín nú te  
-dā́naṃ devásya pr̥cyate  
+कदा꣡ चन꣡ स्तरी꣡र् असि  
+ने꣡न्द्र सश्चसि दाशु꣡षे  
+उ꣡पोपे꣡न् नु꣡ मघवन् भू꣡य इ꣡न् नु꣡ ते  
+दा꣡नं देव꣡स्य पृच्यते  

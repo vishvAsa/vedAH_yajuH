@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuvád vājī́ vājambharó víhāyā  
-abhiṣṭikŕ̥j jāyate satyáśuṣmaḥ  
-tuvád rayír devájūto mayobhús  
-tuvád āśúr jūjuvā́m̐ agne árvā  
+तुव꣡द् वाजी꣡ वाजम्भरो꣡ वि꣡हाया  
+अभिष्टिक्ŕ̥ज् जायते सत्य꣡शुष्मः  
+तुव꣡द् रयि꣡र् देव꣡जूतो मयोभु꣡स्  
+तुव꣡द् आशु꣡र् जूजुवाँ꣡ अग्ने अ꣡र्वा  

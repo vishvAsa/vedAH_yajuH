@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-r̥tā́vāna r̥tájātā r̥tāvŕ̥dho  
-ghorā́so anr̥tadvíṣaḥ  
-téṣāṃ vaḥ sumné suchardíṣṭame naraḥ  
-siyā́ma yé ca sūráyaḥ  
+ऋता꣡वान ऋत꣡जाता ऋताव्ŕ̥धो  
+घोरा꣡सो अनृतद्वि꣡षः  
+ते꣡षां वः सुम्ने꣡ सुछर्दि꣡ष्टमे नरः  
+सिया꣡म ये꣡ च सूर꣡यः  

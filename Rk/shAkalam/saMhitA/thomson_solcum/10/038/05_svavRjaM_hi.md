@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-svavŕ̥jaṃ hí tvā́m ahám indra śuśráva  
-anānudáṃ vr̥ṣabha radhracódanam  
-prá muñcasva pári kútsād ihā́ gahi  
-kím u tvā́vān muṣkáyor baddhá āsate  
+स्वव्ŕ̥जं हि꣡ त्वा꣡म् अह꣡म् इन्द्र शुश्र꣡व  
+अनानुदं꣡ वृषभ रध्रचो꣡दनम्  
+प्र꣡ मुञ्चस्व प꣡रि कु꣡त्साद् इहा꣡ गहि  
+कि꣡म् उ त्वा꣡वान् मुष्क꣡योर् बद्ध꣡ आसते  

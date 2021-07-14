@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yád indrāgnī úditā sū́riyasya  
-mádhye diváḥ svadháyā mādáyethe  
-átaḥ pári vŕ̥ṣaṇāv ā́ hí yātám  
-áthā sómasya pibataṃ sutásya  
+य꣡द् इन्द्राग्नी उ꣡दिता सू꣡रियस्य  
+म꣡ध्ये दिवः꣡ स्वध꣡या माद꣡येथे  
+अ꣡तः प꣡रि व्ŕ̥षणाव् आ꣡ हि꣡ यात꣡म्  
+अ꣡था सो꣡मस्य पिबतं सुत꣡स्य  

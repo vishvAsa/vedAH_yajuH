@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-imá u tvā ví cakṣate  
-sákhāya indra somínaḥ  
-puṣṭā́vanto yáthā paśúm  
+इम꣡ उ त्वा वि꣡ चक्षते  
+स꣡खाय इन्द्र सोमि꣡नः  
+पुष्टा꣡वन्तो य꣡था पशु꣡म्  

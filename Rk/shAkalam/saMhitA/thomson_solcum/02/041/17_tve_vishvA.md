@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-tuvé víśvā sarasvati  
-śritā́ ā́yūṃṣi deviyā́m  
-śunáhotreṣu matsuva  
-prajā́ṃ devi didiḍḍhi naḥ  
+तुवे꣡ वि꣡श्वा सरस्वति  
+श्रिता꣡ आ꣡यूंषि देविया꣡म्  
+शुन꣡होत्रेषु मत्सुव  
+प्रजां꣡ देवि दिदिड्ढि नः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-asmā́n samaryé pavamāna codaya  
-dákṣo devā́nām ási hí priyó mádaḥ  
-jahí śátrūm̐r abhí ā́ bhandanāyatáḥ  
-píbendra sómam áva no mŕ̥dho jahi  
+अस्मा꣡न् समर्ये꣡ पवमान चोदय  
+द꣡क्षो देवा꣡नाम् अ꣡सि हि꣡ प्रियो꣡ म꣡दः  
+जहि꣡ श꣡त्रूँर् अभि꣡ आ꣡ भन्दनायतः꣡  
+पि꣡बेन्द्र सो꣡मम् अ꣡व नो म्ŕ̥धो जहि  

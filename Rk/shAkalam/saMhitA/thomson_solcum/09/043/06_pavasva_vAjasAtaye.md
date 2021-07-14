@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-pávasva vā́jasātaye  
-víprasya gr̥ṇató vr̥dhé  
-sóma rā́sva suvī́riyam  
+प꣡वस्व वा꣡जसातये  
+वि꣡प्रस्य गृणतो꣡ वृधे꣡  
+सो꣡म रा꣡स्व सुवी꣡रियम्  

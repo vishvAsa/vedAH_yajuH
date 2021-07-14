@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-ápā́mīvām ápa srídham  
-ápa sedhata durmatím  
-ā́dityāso yuyótanā no áṃhasaḥ  
+अ꣡पा꣡मीवाम् अ꣡प स्रि꣡धम्  
+अ꣡प सेधत दुर्मति꣡म्  
+आ꣡दित्यासो युयो꣡तना नो अं꣡हसः  

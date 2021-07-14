@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-añjánti tvā́m adhvaré devayánto  
-vánaspate mádhunā daíviyena  
-yád ūrdhvás tíṣṭhā dráviṇehá dhattād  
-yád vā kṣáyo mātúr asyā́ upásthe  
+अञ्ज꣡न्ति त्वा꣡म् अध्वरे꣡ देवय꣡न्तो  
+व꣡नस्पते म꣡धुना दइ꣡वियेन  
+य꣡द् ऊर्ध्व꣡स् ति꣡ष्ठा द्र꣡विणेह꣡ धत्ताद्  
+य꣡द् वा क्ष꣡यो मातु꣡र् अस्या꣡ उप꣡स्थे  

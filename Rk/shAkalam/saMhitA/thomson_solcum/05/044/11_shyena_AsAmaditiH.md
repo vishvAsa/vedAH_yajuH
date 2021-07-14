@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-śyená āsām áditiḥ kakṣíyo mádo  
-viśvávārasya yajatásya māyínaḥ  
-sám anyám-anyam arthayanti étave  
-vidúr viṣā́ṇam paripā́nam ánti té  
+श्येन꣡ आसाम् अ꣡दितिः कक्षि꣡यो म꣡दो  
+विश्व꣡वारस्य यजत꣡स्य मायि꣡नः  
+स꣡म् अन्य꣡म्-अन्यम् अर्थयन्ति ए꣡तवे  
+विदु꣡र् विषा꣡णम् परिपा꣡नम् अ꣡न्ति ते꣡  

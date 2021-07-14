@@ -2,8 +2,8 @@
 title = "016"
 
 +++
-asaú yáḥ pánthā ādityó  
-diví pravā́ciyaṃ kr̥táḥ  
-ná sá devā atikráme  
-tám martāso ná paśyatha  
-vittám me asyá rodasī  
+असउ꣡ यः꣡ प꣡न्था आदित्यो꣡  
+दिवि꣡ प्रवा꣡चियं कृतः꣡  
+न꣡ स꣡ देवा अतिक्र꣡मे  
+त꣡म् मर्तासो न꣡ पश्यथ  
+वित्त꣡म् मे अस्य꣡ रोदसी  

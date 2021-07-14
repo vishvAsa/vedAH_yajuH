@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-sammī́lya yád bhúvanā paryásarpata  
-kúva svit tātyā́ pitárā va āsatuḥ  
-áśapata yáḥ karásnaṃ va ādadé  
-yáḥ prā́bravīt pró tásmā abravītana  
+सम्मी꣡ल्य य꣡द् भु꣡वना पर्य꣡सर्पत  
+कु꣡व स्वित् तात्या꣡ पित꣡रा व आसतुः  
+अ꣡शपत यः꣡ कर꣡स्नं व आददे꣡  
+यः꣡ प्रा꣡ब्रवीत् प्रो꣡ त꣡स्मा अब्रवीतन  

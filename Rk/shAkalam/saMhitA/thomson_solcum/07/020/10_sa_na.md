@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sá na indra tváyatāyā iṣé dhās  
-tmánā ca yé maghávāno junánti  
-vásvī ṣú te jaritré astu śaktír  
-yūyám pāta suastíbhiḥ sádā naḥ  
+स꣡ न इन्द्र त्व꣡यताया इषे꣡ धास्  
+त्म꣡ना च ये꣡ मघ꣡वानो जुन꣡न्ति  
+व꣡स्वी षु꣡ ते जरित्रे꣡ अस्तु शक्ति꣡र्  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

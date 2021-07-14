@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-ágne járitar viśpátis  
-tepānó deva rakṣásaḥ  
-áproṣivān gr̥hápatir mahā́m̐ asi  
-divás pāyúr duroṇayúḥ  
+अ꣡ग्ने ज꣡रितर् विश्प꣡तिस्  
+तेपानो꣡ देव रक्ष꣡सः  
+अ꣡प्रोषिवान् गृह꣡पतिर् महाँ꣡ असि  
+दिव꣡स् पायु꣡र् दुरोणयुः꣡  

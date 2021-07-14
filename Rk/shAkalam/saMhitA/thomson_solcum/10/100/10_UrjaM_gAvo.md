@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ū́rjaṃ gāvo yávase pī́vo attana  
-r̥tásya yā́ḥ sádane kóśe aṅgdhuvé  
-tanū́r evá tanúvo astu bheṣajám  
-ā́ sarvátātim áditiṃ vr̥ṇīmahe  
+ऊ꣡र्जं गावो य꣡वसे पी꣡वो अत्तन  
+ऋत꣡स्य याः꣡ स꣡दने को꣡शे अङ्ग्धुवे꣡  
+तनू꣡र् एव꣡ तनु꣡वो अस्तु भेषज꣡म्  
+आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे  

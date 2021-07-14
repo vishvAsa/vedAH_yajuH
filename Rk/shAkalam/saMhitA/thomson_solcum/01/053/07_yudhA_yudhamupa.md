@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yudhā́ yúdham úpa ghéd eṣi dhr̥ṣṇuyā́  
-purā́ púraṃ sám idáṃ haṃsi ójasā  
-námyā yád indra sákhiyā parāváti  
-nibarháyo námuciṃ nā́ma māyínam  
+युधा꣡ यु꣡धम् उ꣡प घे꣡द् एषि धृष्णुया꣡  
+पुरा꣡ पु꣡रं स꣡म् इदं꣡ हंसि ओ꣡जसा  
+न꣡म्या य꣡द् इन्द्र स꣡खिया पराव꣡ति  
+निबर्ह꣡यो न꣡मुचिं ना꣡म मायि꣡नम्  

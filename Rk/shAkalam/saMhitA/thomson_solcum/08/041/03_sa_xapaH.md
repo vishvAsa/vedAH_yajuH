@@ -2,9 +2,9 @@
 title = "003"
 
 +++
-sá kṣápaḥ pári ṣasvaje  
-ní usró māyáyā dadhe  
-sá víśvam pári darśatáḥ  
-tásya vénīr ánu vratám  
-uṣás tisró avardhayan  
-nábhantām anyaké same  
+स꣡ क्ष꣡पः प꣡रि षस्वजे  
+नि꣡ उस्रो꣡ माय꣡या दधे  
+स꣡ वि꣡श्वम् प꣡रि दर्शतः꣡  
+त꣡स्य वे꣡नीर् अ꣡नु व्रत꣡म्  
+उष꣡स् तिस्रो꣡ अवर्धयन्  
+न꣡भन्ताम् अन्यके꣡ समे  

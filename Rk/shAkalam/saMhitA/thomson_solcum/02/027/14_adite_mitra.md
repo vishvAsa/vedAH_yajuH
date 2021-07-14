@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ádite mítra váruṇotá mr̥̄ḷa+  
-yád vo vayáṃ cakr̥mā́ kác cid ā́gaḥ  
-urú aśyām ábhayaṃ jyótir indra  
-mā́ no dīrghā́ abhí naśan támisrāḥ  
+अ꣡दिते मि꣡त्र व꣡रुणोत꣡ मॄऌअ+  
+य꣡द् वो वयं꣡ चकृमा꣡ क꣡च् चिद् आ꣡गः  
+उरु꣡ अश्याम् अ꣡भयं ज्यो꣡तिर् इन्द्र  
+मा꣡ नो दीर्घा꣡ अभि꣡ नशन् त꣡मिस्राः  

@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-tád agne dyumnám ā́ bhara  
-yát sāsáhat sádane káṃ cid atríṇam  
-manyúṃ jánasya dūḍhíyaḥ  
+त꣡द् अग्ने द्युम्न꣡म् आ꣡ भर  
+य꣡त् सास꣡हत् स꣡दने कं꣡ चिद् अत्रि꣡णम्  
+मन्युं꣡ ज꣡नस्य दूढि꣡यः  

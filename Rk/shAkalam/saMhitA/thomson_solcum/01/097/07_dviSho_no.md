@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-dvíṣo no viśvatomukha  
-áti nāvéva pāraya  
-ápa naḥ śóśucad aghám  
+द्वि꣡षो नो विश्वतोमुख  
+अ꣡ति नावे꣡व पारय  
+अ꣡प नः शो꣡शुचद् अघ꣡म्  

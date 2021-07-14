@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-śávasā hí ási śrutó  
-vr̥trahátyena vr̥trahā́  
-maghaír maghóno áti śūra dāśasi  
+श꣡वसा हि꣡ अ꣡सि श्रुतो꣡  
+वृत्रह꣡त्येन वृत्रहा꣡  
+मघइ꣡र् मघो꣡नो अ꣡ति शूर दाशसि  

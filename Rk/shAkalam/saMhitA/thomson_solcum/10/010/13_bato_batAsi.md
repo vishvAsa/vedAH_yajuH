@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-bató batāsi yama  
-naívá te máno hŕ̥dayaṃ cāvidāma  
-anyā́ kíla tvā́ṃ kakṣíyeva yuktám  
-pári ṣvajāte líbujeva vr̥kṣám  
+बतो꣡ बतासि यम  
+नइ꣡व꣡ ते म꣡नो ह्ŕ̥दयं चाविदाम  
+अन्या꣡ कि꣡ल त्वां꣡ कक्षि꣡येव युक्त꣡म्  
+प꣡रि ष्वजाते लि꣡बुजेव वृक्ष꣡म्  

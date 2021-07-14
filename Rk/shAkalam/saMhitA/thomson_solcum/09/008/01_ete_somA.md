@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-eté sómā abhí priyám  
-índrasya kā́mam akṣaran  
-várdhanto asya vīríyam  
+एते꣡ सो꣡मा अभि꣡ प्रिय꣡म्  
+इ꣡न्द्रस्य का꣡मम् अक्षरन्  
+व꣡र्धन्तो अस्य वीरि꣡यम्  

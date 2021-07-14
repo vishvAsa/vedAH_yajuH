@@ -2,8 +2,8 @@
 title = "016"
 
 +++
-kathā́ dāśema námasā sudā́nūn  
-evayā́ · marúto áchaüktau  
-práśravaso marúto áchaüktau  
-mā́ no áhir · budhníyo riṣé dhād  
-asmā́kam bhūd · upamātivániḥ  
+कथा꣡ दाशेम न꣡मसा सुदा꣡नून्  
+एवया꣡ · मरु꣡तो अ꣡छüक्तौ  
+प्र꣡श्रवसो मरु꣡तो अ꣡छüक्तौ  
+मा꣡ नो अ꣡हिर् · बुध्नि꣡यो रिषे꣡ धाद्  
+अस्मा꣡कम् भूद् · उपमातिव꣡निः  

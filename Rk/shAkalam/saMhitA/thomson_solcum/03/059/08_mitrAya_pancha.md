@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-mitrā́ya páñca yemire  
-jánā abhíṣṭiśavase  
-sá devā́n víśvān bibharti  
+मित्रा꣡य प꣡ञ्च येमिरे  
+ज꣡ना अभि꣡ष्टिशवसे  
+स꣡ देवा꣡न् वि꣡श्वान् बिभर्ति  

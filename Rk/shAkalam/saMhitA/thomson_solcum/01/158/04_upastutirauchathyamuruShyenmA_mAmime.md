@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-úpastutir aucathiyám uruṣyen  
-mā́ mā́m imé patatríṇī ví dugdhām  
-mā́ mā́m édho dáśatayaś citó dhāk  
-prá yád vām baddhás tmáni khā́dati kṣā́m  
+उ꣡पस्तुतिर् औचथिय꣡म् उरुष्येन्  
+मा꣡ मा꣡म् इमे꣡ पतत्रि꣡णी वि꣡ दुग्धाम्  
+मा꣡ मा꣡म् ए꣡धो द꣡शतयश् चितो꣡ धाक्  
+प्र꣡ य꣡द् वाम् बद्ध꣡स् त्म꣡नि खा꣡दति क्षा꣡म्  

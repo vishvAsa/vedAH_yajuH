@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índra dŕ̥hya maghavan tvā́vad íd bhujá  
-ihá stutáḥ sutapā́ bodhi no vr̥dhé  
-devébhir naḥ savitā́ prā́vatu śrutám  
-ā́ sarvátātim áditiṃ vr̥ṇīmahe  
+इ꣡न्द्र द्ŕ̥ह्य मघवन् त्वा꣡वद् इ꣡द् भुज꣡  
+इह꣡ स्तुतः꣡ सुतपा꣡ बोधि नो वृधे꣡  
+देवे꣡भिर् नः सविता꣡ प्रा꣡वतु श्रुत꣡म्  
+आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे  

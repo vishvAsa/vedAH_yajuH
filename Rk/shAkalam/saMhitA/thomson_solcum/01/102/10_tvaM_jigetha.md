@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tuváṃ jigetha ná dhánā rurodhitha  
-árbheṣu ājā́ maghavan mahátsu ca  
-tuvā́m ugrám ávase sáṃ śiśīmasi  
-áthā na indra hávaneṣu codaya  
+तुवं꣡ जिगेथ न꣡ ध꣡ना रुरोधिथ  
+अ꣡र्भेषु आजा꣡ मघवन् मह꣡त्सु च  
+तुवा꣡म् उग्र꣡म् अ꣡वसे सं꣡ शिशीमसि  
+अ꣡था न इन्द्र ह꣡वनेषु चोदय  

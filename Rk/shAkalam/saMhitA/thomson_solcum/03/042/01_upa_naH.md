@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-úpa naḥ sutám ā́ gahi  
-sómam indra gávāśiram  
-háribhyāṃ yás te asmayúḥ  
+उ꣡प नः सुत꣡म् आ꣡ गहि  
+सो꣡मम् इन्द्र ग꣡वाशिरम्  
+ह꣡रिभ्यां य꣡स् ते अस्मयुः꣡  

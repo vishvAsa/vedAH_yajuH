@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tád devā́nāṃ devátamāya kártuvam  
-áśrathnan dr̥̄ḷhā́+ ávradanta vīḷitā́  
-úd gā́ ājad ábhinad bráhmaṇā valám  
-ágūhat támo ví acakṣayat súvaḥ  
+त꣡द् देवा꣡नां देव꣡तमाय क꣡र्तुवम्  
+अ꣡श्रथ्नन् दॄऌहा꣡+ अ꣡व्रदन्त वीऌइता꣡  
+उ꣡द् गा꣡ आजद् अ꣡भिनद् ब्र꣡ह्मणा वल꣡म्  
+अ꣡गूहत् त꣡मो वि꣡ अचक्षयत् सु꣡वः  

@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-áchā kóśam madhuścútam  
-ásr̥graṃ vā́re avyáye  
-ávāvaśanta dhītáyaḥ  
+अ꣡छा को꣡शम् मधुश्चु꣡तम्  
+अ꣡सृग्रं वा꣡रे अव्य꣡ये  
+अ꣡वावशन्त धीत꣡यः  

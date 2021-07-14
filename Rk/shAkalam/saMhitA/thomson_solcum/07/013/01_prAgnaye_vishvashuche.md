@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá agnáye viśvaśúce dhiyaṃdhé  
-asuraghné mánma dhītím bharadhvam  
-bháre havír ná barhíṣi priṇānó+  
-vaiśvānarā́ya yátaye matīnā́m  
+प्र꣡ अग्न꣡ये विश्वशु꣡चे धियंधे꣡  
+असुरघ्ने꣡ म꣡न्म धीति꣡म् भरध्वम्  
+भ꣡रे हवि꣡र् न꣡ बर्हि꣡षि प्रिणानो꣡+  
+वैश्वानरा꣡य य꣡तये मतीना꣡म्  

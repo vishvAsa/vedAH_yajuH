@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-tásmai nūnám abhídyave  
-vācā́ virūpa nítyayā  
-vŕ̥ṣṇe codasva suṣṭutím  
+त꣡स्मै नून꣡म् अभि꣡द्यवे  
+वाचा꣡ विरूप नि꣡त्यया  
+व्ŕ̥ष्णे चोदस्व सुष्टुति꣡म्  

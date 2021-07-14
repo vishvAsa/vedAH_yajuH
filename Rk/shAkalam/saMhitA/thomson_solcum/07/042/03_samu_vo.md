@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sám u vo yajñám mahayan námobhiḥ  
-prá hótā mandró ririca upāké  
-yájasva sú puruaṇīka devā́n  
-ā́ yajñíyām arámatiṃ vavr̥tyāḥ  
+स꣡म् उ वो यज्ञ꣡म् महयन् न꣡मोभिः  
+प्र꣡ हो꣡ता मन्द्रो꣡ रिरिच उपाके꣡  
+य꣡जस्व सु꣡ पुरुअणीक देवा꣡न्  
+आ꣡ यज्ञि꣡याम् अर꣡मतिं ववृत्याः  

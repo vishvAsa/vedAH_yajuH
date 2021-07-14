@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá íd u agnír vāvr̥dhe stómebhir  
-gīrbhí stotr̥̄ṇā́ṃ namasíya ukthaíḥ  
-pūrvī́r r̥tásya saṃdŕ̥śaś cakānáḥ  
-sáṃ dūtó adyaud uṣáso viroké  
+प्र꣡ इ꣡द् उ अग्नि꣡र् वावृधे स्तो꣡मेभिर्  
+गीर्भि꣡ स्तोतॄणां꣡ नमसि꣡य उक्थइः꣡  
+पूर्वी꣡र् ऋत꣡स्य संद्ŕ̥शश् चकानः꣡  
+सं꣡ दूतो꣡ अद्यौद् उष꣡सो विरोके꣡  

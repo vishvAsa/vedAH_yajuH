@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-jóṣad yád īm asuríyā sacádhyai  
-víṣitastukā rodasī́ nr̥máṇāḥ  
-ā́ sūriyéva vidható ráthaṃ gāt  
-tveṣápratīkā nábhaso ná ityā́  
+जो꣡षद् य꣡द् ईम् असुरि꣡या सच꣡ध्यै  
+वि꣡षितस्तुका रोदसी꣡ नृम꣡णाः  
+आ꣡ सूरिये꣡व विधतो꣡ र꣡थं गात्  
+त्वेष꣡प्रतीका न꣡भसो न꣡ इत्या꣡  

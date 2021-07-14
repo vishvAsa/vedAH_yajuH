@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-asyá stómebhir auśijá r̥jíśvā  
-vrajáṃ darayad vr̥ṣabhéṇa píproḥ  
-sútvā yád · yajató dīdáyad gī́ḥ  
-púra iyānó abhí várpasā bhū́t  
+अस्य꣡ स्तो꣡मेभिर् औशिज꣡ ऋजि꣡श्वा  
+व्रजं꣡ दरयद् वृषभे꣡ण पि꣡प्रोः  
+सु꣡त्वा य꣡द् · यजतो꣡ दीद꣡यद् गीः꣡  
+पु꣡र इयानो꣡ अभि꣡ व꣡र्पसा भू꣡त्  

@@ -2,6 +2,6 @@
 title = "042"
 
 +++
-utá sú tyé payovŕ̥dhā  
-mākī́ ráṇasya naptíyā  
-janitvanā́ya māmahe  
+उत꣡ सु꣡ त्ये꣡ पयोव्ŕ̥धा  
+माकी꣡ र꣡णस्य नप्ति꣡या  
+जनित्वना꣡य मामहे  

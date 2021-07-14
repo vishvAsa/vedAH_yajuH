@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ádha sma asya panayanti bhā́so  
-vŕ̥thā yát tákṣad anuyā́ti pr̥thvī́m  
-sadyó yáḥ syandró víṣito dhávīyān  
-r̥ṇó ná tāyúr áti dhánuvā rāṭ  
+अ꣡ध स्म अस्य पनयन्ति भा꣡सो  
+व्ŕ̥था य꣡त् त꣡क्षद् अनुया꣡ति पृथ्वी꣡म्  
+सद्यो꣡ यः꣡ स्यन्द्रो꣡ वि꣡षितो ध꣡वीयान्  
+ऋणो꣡ न꣡ तायु꣡र् अ꣡ति ध꣡नुवा राट्  

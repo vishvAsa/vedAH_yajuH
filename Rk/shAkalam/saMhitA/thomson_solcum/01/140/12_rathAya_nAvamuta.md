@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ráthāya nā́vam utá no gr̥hā́ya  
-nítyāritrām padvátīṃ rāsi agne  
-asmā́kaṃ vīrā́m̐ utá no maghóno  
-jánāṃś ca yā́ pāráyāc chárma yā́ ca  
+र꣡थाय ना꣡वम् उत꣡ नो गृहा꣡य  
+नि꣡त्यारित्राम् पद्व꣡तीं रासि अग्ने  
+अस्मा꣡कं वीराँ꣡ उत꣡ नो मघो꣡नो  
+ज꣡नांश् च या꣡ पार꣡याच् छ꣡र्म या꣡ च  

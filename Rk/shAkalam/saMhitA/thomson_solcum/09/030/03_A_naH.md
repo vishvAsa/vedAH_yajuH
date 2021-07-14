@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ā́ naḥ śúṣmaṃ nr̥ṣā́hiyaṃ  
-vīrávantam puruspŕ̥ham  
-pávasva soma dhā́rayā  
+आ꣡ नः शु꣡ष्मं नृषा꣡हियं  
+वीर꣡वन्तम् पुरुस्प्ŕ̥हम्  
+प꣡वस्व सोम धा꣡रया  

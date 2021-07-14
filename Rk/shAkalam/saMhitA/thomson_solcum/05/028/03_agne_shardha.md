@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ágne śárdha mahaté saúbhagāya  
-táva dyumnā́ni uttamā́ni santu  
-sáṃ jāspatyáṃ suyámam ā́ kr̥ṇuṣva  
-śatrūyatā́m abhí tiṣṭhā máhāṃsi  
+अ꣡ग्ने श꣡र्ध महते꣡ सउ꣡भगाय  
+त꣡व द्युम्ना꣡नि उत्तमा꣡नि सन्तु  
+सं꣡ जास्पत्यं꣡ सुय꣡मम् आ꣡ कृणुष्व  
+शत्रूयता꣡म् अभि꣡ तिष्ठा म꣡हांसि  

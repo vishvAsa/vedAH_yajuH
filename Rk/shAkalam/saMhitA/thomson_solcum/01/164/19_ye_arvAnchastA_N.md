@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-yé arvā́ñcas tā́m̐ u párāca āhur  
-yé párāñcas tā́m̐ u arvā́ca āhuḥ  
-índraś ca yā́ cakráthuḥ soma tā́ni  
-dhurā́ ná yuktā́ rájaso vahanti  
+ये꣡ अर्वा꣡ञ्चस् ताँ꣡ उ प꣡राच आहुर्  
+ये꣡ प꣡राञ्चस् ताँ꣡ उ अर्वा꣡च आहुः  
+इ꣡न्द्रश् च या꣡ चक्र꣡थुः सोम ता꣡नि  
+धुरा꣡ न꣡ युक्ता꣡ र꣡जसो वहन्ति  

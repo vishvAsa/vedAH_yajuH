@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-té tvā mádā indara+ mādayantu  
-śuṣmíṇaṃ tuvirā́dhasaṃ jaritré  
-éko devatrā́ dáyase hí mártān  
-asmíñ chūra sávane mādayasva  
+ते꣡ त्वा म꣡दा इन्दर+ मादयन्तु  
+शुष्मि꣡णं तुविरा꣡धसं जरित्रे꣡  
+ए꣡को देवत्रा꣡ द꣡यसे हि꣡ म꣡र्तान्  
+अस्मि꣡ञ् छूर स꣡वने मादयस्व  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kā́yamāno vanā́ tuváṃ  
-yán mātr̥̄́r ájagann apáḥ  
-ná tát te agne pramŕ̥ṣe nivártanaṃ  
-yád dūré sánn ihā́bhavaḥ  
+का꣡यमानो वना꣡ तुवं꣡  
+य꣡न् मातॄ꣡र् अ꣡जगन्न् अपः꣡  
+न꣡ त꣡त् ते अग्ने प्रम्ŕ̥षे निव꣡र्तनं  
+य꣡द् दूरे꣡ स꣡न्न् इहा꣡भवः  

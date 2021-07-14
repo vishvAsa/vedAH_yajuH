@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tám agne pr̥tanāṣáhaṃ  
-rayíṃ sahasva ā́ bhara  
-tuváṃ hí satyó ádbhuto  
-dātā́ vā́jasya gómataḥ  
+त꣡म् अग्ने पृतनाष꣡हं  
+रयिं꣡ सहस्व आ꣡ भर  
+तुवं꣡ हि꣡ सत्यो꣡ अ꣡द्भुतो  
+दाता꣡ वा꣡जस्य गो꣡मतः  

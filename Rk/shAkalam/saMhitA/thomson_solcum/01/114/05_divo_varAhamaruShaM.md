@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-divó varāhám aruṣáṃ kapardínaṃ  
-tveṣáṃ rūpáṃ námasā ní hvayāmahe  
-háste bíbhrad bheṣajā́ vā́riyāṇi  
-śárma várma chardír asmábhya° yaṃsat  
+दिवो꣡ वराह꣡म् अरुषं꣡ कपर्दि꣡नं  
+त्वेषं꣡ रूपं꣡ न꣡मसा नि꣡ ह्वयामहे  
+ह꣡स्ते बि꣡भ्रद् भेषजा꣡ वा꣡रियाणि  
+श꣡र्म व꣡र्म छर्दि꣡र् अस्म꣡भ्य° यंसत्  

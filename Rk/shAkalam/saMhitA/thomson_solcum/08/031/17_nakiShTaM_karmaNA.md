@@ -2,8 +2,8 @@
 title = "017"
 
 +++
-nákiṣ ṭáṃ kármaṇā naśan  
-ná prá yoṣan ná yoṣati  
-devā́nãṃ yá ín máno  
-yájamāna íyakṣati  
-abhī́d áyajvano bhuvat  
+न꣡किष् टं꣡ क꣡र्मणा नशन्  
+न꣡ प्र꣡ योषन् न꣡ योषति  
+देवा꣡न्ãं य꣡ इ꣡न् म꣡नो  
+य꣡जमान इ꣡यक्षति  
+अभी꣡द् अ꣡यज्वनो भुवत्  

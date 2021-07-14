@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ā́ no barhī́ riśā́daso  
-váruṇo mitró aryamā́  
-sī́dantu mánuṣo yathā  
+आ꣡ नो बर्ही꣡ रिशा꣡दसो  
+व꣡रुणो मित्रो꣡ अर्यमा꣡  
+सी꣡दन्तु म꣡नुषो यथा  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ūrdhváṃ nunudre avatáṃ tá ójasā  
-dādr̥hāṇáṃ cid bibhidur ví párvatam  
-dhámanto vāṇám marútaḥ sudā́navo  
-máde sómasya ráṇiyāni cakrire  
+ऊर्ध्वं꣡ नुनुद्रे अवतं꣡ त꣡ ओ꣡जसा  
+दादृहाणं꣡ चिद् बिभिदुर् वि꣡ प꣡र्वतम्  
+ध꣡मन्तो वाण꣡म् मरु꣡तः सुदा꣡नवो  
+म꣡दे सो꣡मस्य र꣡णियानि चक्रिरे  

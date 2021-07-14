@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mitráś ca túbhyaṃ váruṇaḥ sahasvo  
-ágne víśve marútaḥ sumnám arcan  
-yác chocíṣā sahasas putra tíṣṭhā  
-abhí kṣitī́ḥ pratháyan sū́riyo nr̥̄́n  
+मित्र꣡श् च तु꣡भ्यं व꣡रुणः सहस्वो  
+अ꣡ग्ने वि꣡श्वे मरु꣡तः सुम्न꣡म् अर्चन्  
+य꣡च् छोचि꣡षा सहसस् पुत्र ति꣡ष्ठा  
+अभि꣡ क्षितीः꣡ प्रथ꣡यन् सू꣡रियो नॄ꣡न्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-árṇāṃsi cit paprathānā́ sudā́sa  
-índro gādhā́ni akr̥ṇot supārā́  
-śárdhantaṃ śimyúm ucáthasya návyaḥ  
-śā́paṃ síndhūnām akr̥ṇod áśastīḥ  
+अ꣡र्णांसि चित् पप्रथाना꣡ सुदा꣡स  
+इ꣡न्द्रो गाधा꣡नि अकृणोत् सुपारा꣡  
+श꣡र्धन्तं शिम्यु꣡म् उच꣡थस्य न꣡व्यः  
+शा꣡पं सि꣡न्धूनाम् अकृणोद् अ꣡शस्तीः  

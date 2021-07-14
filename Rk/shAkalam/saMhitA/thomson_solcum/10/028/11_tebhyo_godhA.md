@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-tébhyo godhā́ ayáthaṃ karṣad etád  
-yé brahmáṇaḥ pratipī́yanti ánnaiḥ  
-simá ukṣṇó avasr̥ṣṭā́m̐ adanti  
-svayám bálāni tanúvaḥ śr̥ṇānā́ḥ  
+ते꣡भ्यो गोधा꣡ अय꣡थं कर्षद् एत꣡द्  
+ये꣡ ब्रह्म꣡णः प्रतिपी꣡यन्ति अ꣡न्नैः  
+सिम꣡ उक्ष्णो꣡ अवसृष्टाँ꣡ अदन्ति  
+स्वय꣡म् ब꣡लानि तनु꣡वः शृणानाः꣡  

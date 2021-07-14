@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-índrāgnī śatadā́vani  
-áśvamedhe suvī́riyam  
-kṣatráṃ dhārayatam br̥hád  
-diví sū́ryam ivājáram  
+इ꣡न्द्राग्नी शतदा꣡वनि  
+अ꣡श्वमेधे सुवी꣡रियम्  
+क्षत्रं꣡ धारयतम् बृह꣡द्  
+दिवि꣡ सू꣡र्यम् इवाज꣡रम्  

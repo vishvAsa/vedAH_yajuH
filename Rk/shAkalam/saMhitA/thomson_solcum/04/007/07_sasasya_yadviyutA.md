@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sasásya yád víyutā sásminn ū́dhann  
-r̥tásya dhā́man raṇáyanta devā́ḥ  
-mahā́m̐ agnír námasā rātáhavyo  
-vér adhvarā́ya sádam íd r̥tā́vā  
+सस꣡स्य य꣡द् वि꣡युता स꣡स्मिन्न् ऊ꣡धन्न्  
+ऋत꣡स्य धा꣡मन् रण꣡यन्त देवाः꣡  
+महाँ꣡ अग्नि꣡र् न꣡मसा रात꣡हव्यो  
+वे꣡र् अध्वरा꣡य स꣡दम् इ꣡द् ऋता꣡वा  

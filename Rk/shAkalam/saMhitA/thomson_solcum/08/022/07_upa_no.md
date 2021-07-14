@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-úpa no vājinīvasū  
-yātám r̥tásya pathíbhiḥ  
-yébhis tr̥kṣíṃ vr̥ṣaṇā trāsadasyavám  
-mahé kṣatrā́ya jínvathaḥ  
+उ꣡प नो वाजिनीवसू  
+यात꣡म् ऋत꣡स्य पथि꣡भिः  
+ये꣡भिस् तृक्षिं꣡ वृषणा त्रासदस्यव꣡म्  
+महे꣡ क्षत्रा꣡य जि꣡न्वथः  

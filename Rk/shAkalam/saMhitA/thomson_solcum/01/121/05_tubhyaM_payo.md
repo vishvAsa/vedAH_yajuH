@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-túbhyam páyo yát pitárāv ánītāṃ  
-rā́dhaḥ surétas turáṇe bhuraṇyū́  
-śúci yát te · rékṇa ā́yajanta  
-sabardúghāyāḥ páya usríyāyāḥ  
+तु꣡भ्यम् प꣡यो य꣡त् पित꣡राव् अ꣡नीतां  
+रा꣡धः सुरे꣡तस् तुर꣡णे भुरण्यू꣡  
+शु꣡चि य꣡त् ते · रे꣡क्ण आ꣡यजन्त  
+सबर्दु꣡घायाः प꣡य उस्रि꣡यायाः  

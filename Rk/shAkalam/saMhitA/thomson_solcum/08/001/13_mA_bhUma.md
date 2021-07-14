@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-mā́ bhūma níṣṭiyā iva  
-índra tvád áraṇā iva  
-vánāni ná prajahitā́ni adrivo  
-duróṣāso amanmahi  
+मा꣡ भूम नि꣡ष्टिया इव  
+इ꣡न्द्र त्व꣡द् अ꣡रणा इव  
+व꣡नानि न꣡ प्रजहिता꣡नि अद्रिवो  
+दुरो꣡षासो अमन्महि  

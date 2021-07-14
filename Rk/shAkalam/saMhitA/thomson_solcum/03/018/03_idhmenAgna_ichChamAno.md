@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-idhménāgna ichámāno ghr̥téna  
-juhómi havyáṃ tárase bálāya  
-yā́vad ī́śe bráhmaṇā vándamāna  
-imā́ṃ dhíyaṃ śataséyāya devī́m  
+इध्मे꣡नाग्न इछ꣡मानो घृते꣡न  
+जुहो꣡मि हव्यं꣡ त꣡रसे ब꣡लाय  
+या꣡वद् ई꣡शे ब्र꣡ह्मणा व꣡न्दमान  
+इमां꣡ धि꣡यं शतसे꣡याय देवी꣡म्  

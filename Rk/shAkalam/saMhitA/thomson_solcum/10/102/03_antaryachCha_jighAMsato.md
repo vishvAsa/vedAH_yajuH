@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-antár yacha jíghāṃsato  
-vájram indrābhidā́sataḥ  
-dā́sasya vā maghavann ā́riyasya vā  
-sanutár yavayā vadhám  
+अन्त꣡र् यछ जि꣡घांसतो  
+व꣡ज्रम् इन्द्राभिदा꣡सतः  
+दा꣡सस्य वा मघवन्न् आ꣡रियस्य वा  
+सनुत꣡र् यवया वध꣡म्  

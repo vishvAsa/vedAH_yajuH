@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-té nas trādhvaṃ té avata  
-tá u no ádhi vocata  
-mā́ naḥ patháḥ pítriyān mānavā́d ádhi  
-dūráṃ naiṣṭa parāvátaḥ  
+ते꣡ नस् त्राध्वं ते꣡ अवत  
+त꣡ उ नो अ꣡धि वोचत  
+मा꣡ नः पथः꣡ पि꣡त्रियान् मानवा꣡द् अ꣡धि  
+दूरं꣡ नैष्ट पराव꣡तः  

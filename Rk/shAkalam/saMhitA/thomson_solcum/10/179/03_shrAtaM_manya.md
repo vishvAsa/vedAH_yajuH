@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śrātám manya ū́dhani śrātám agnaú  
-súśrātam manye tád r̥táṃ návīyaḥ  
-mā́dhyaṃdinasya sávanasya dadhnáḥ  
-píbendra vajrin purukr̥j juṣāṇáḥ  
+श्रात꣡म् मन्य ऊ꣡धनि श्रात꣡म् अग्नउ꣡  
+सु꣡श्रातम् मन्ये त꣡द् ऋतं꣡ न꣡वीयः  
+मा꣡ध्यंदिनस्य स꣡वनस्य दध्नः꣡  
+पि꣡बेन्द्र वज्रिन् पुरुकृज् जुषाणः꣡  

@@ -2,8 +2,8 @@
 title = "003"
 
 +++
-yád udī́rata ājáyo  
-dhr̥ṣṇáve dhīyate dhánā  
-yukṣvā́ madacyútā hárī  
-káṃ hánaḥ káṃ vásau dadho  
-asmā́m̐ indra vásau dadhaḥ  
+य꣡द् उदी꣡रत आज꣡यो  
+धृष्ण꣡वे धीयते ध꣡ना  
+युक्ष्वा꣡ मदच्यु꣡ता ह꣡री  
+कं꣡ ह꣡नः कं꣡ व꣡सौ दधो  
+अस्माँ꣡ इन्द्र व꣡सौ दधः  

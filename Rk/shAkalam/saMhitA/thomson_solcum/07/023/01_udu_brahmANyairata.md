@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-úd u bráhmāṇi airata śravasyā́  
-índraṃ samaryé mahayā vasiṣṭha  
-ā́ yó víśvāni śávasā tatā́na  
-upaśrotā́ ma ī́vato vácāṃsi  
+उ꣡द् उ ब्र꣡ह्माणि ऐरत श्रवस्या꣡  
+इ꣡न्द्रं समर्ये꣡ महया वसिष्ठ  
+आ꣡ यो꣡ वि꣡श्वानि श꣡वसा तता꣡न  
+उपश्रोता꣡ म ई꣡वतो व꣡चांसि  

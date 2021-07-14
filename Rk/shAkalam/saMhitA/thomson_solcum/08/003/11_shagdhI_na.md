@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-śagdhī́ na indra yát tuvā  
-rayíṃ yā́mi suvī́riyam  
-śagdhí vā́jāya prathamáṃ síṣāsate  
-śagdhí stómāya pūrviya  
+शग्धी꣡ न इन्द्र य꣡त् तुवा  
+रयिं꣡ या꣡मि सुवी꣡रियम्  
+शग्धि꣡ वा꣡जाय प्रथमं꣡ सि꣡षासते  
+शग्धि꣡ स्तो꣡माय पूर्विय  

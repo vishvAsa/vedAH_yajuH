@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-prá te sotā́ra oṇíyo  
-rásam mádāya ghŕ̥ṣvaye  
-sárgo ná takti étaśaḥ  
+प्र꣡ ते सोता꣡र ओणि꣡यो  
+र꣡सम् म꣡दाय घ्ŕ̥ष्वये  
+स꣡र्गो न꣡ तक्ति ए꣡तशः  

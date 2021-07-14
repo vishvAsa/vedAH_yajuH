@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-pūṣā́ tvetáś cyāvayatu prá vidvā́n  
-ánaṣṭapaśur bhúvanasya gopā́ḥ  
-sá tvaitébhyaḥ pári dadat pitŕ̥bhyo  
-agnír devébhyaḥ suvidatríyebhyaḥ  
+पूषा꣡ त्वेत꣡श् च्यावयतु प्र꣡ विद्वा꣡न्  
+अ꣡नष्टपशुर् भु꣡वनस्य गोपाः꣡  
+स꣡ त्वैते꣡भ्यः प꣡रि ददत् पित्ŕ̥भ्यो  
+अग्नि꣡र् देवे꣡भ्यः सुविदत्रि꣡येभ्यः  

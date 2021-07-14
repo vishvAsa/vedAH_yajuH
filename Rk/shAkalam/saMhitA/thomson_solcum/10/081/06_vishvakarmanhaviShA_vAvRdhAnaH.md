@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-víśvakarman havíṣā vāvr̥dhānáḥ  
-svayáṃ yajasva pr̥thivī́m utá dyā́m  
-múhyantu anyé abhíto jánāsa  
-ihā́smā́kam maghávā sūrír astu  
+वि꣡श्वकर्मन् हवि꣡षा वावृधानः꣡  
+स्वयं꣡ यजस्व पृथिवी꣡म् उत꣡ द्या꣡म्  
+मु꣡ह्यन्तु अन्ये꣡ अभि꣡तो ज꣡नास  
+इहा꣡स्मा꣡कम् मघ꣡वा सूरि꣡र् अस्तु  

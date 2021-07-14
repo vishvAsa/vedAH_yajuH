@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yuvám pratnásya sādhatho mahó yád  
-daívī suastíḥ pári ṇaḥ siyātam  
-gopā́jihvasya tasthúṣo vírūpā  
-víśve paśyanti māyínaḥ kr̥tā́ni  
+युव꣡म् प्रत्न꣡स्य साधथो महो꣡ य꣡द्  
+दइ꣡वी सुअस्तिः꣡ प꣡रि णः सियातम्  
+गोपा꣡जिह्वस्य तस्थु꣡षो वि꣡रूपा  
+वि꣡श्वे पश्यन्ति मायि꣡नः कृता꣡नि  

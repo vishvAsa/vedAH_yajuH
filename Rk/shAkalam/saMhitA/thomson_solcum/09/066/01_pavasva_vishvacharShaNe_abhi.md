@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-pávasva viśvacarṣaṇe  
-abhí víśvāni kā́viyā  
-sákhā sákhibhya ī́ḍiyaḥ  
+प꣡वस्व विश्वचर्षणे  
+अभि꣡ वि꣡श्वानि का꣡विया  
+स꣡खा स꣡खिभ्य ई꣡डियः  

@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yamā́ya ghr̥távad dhavír  
-juhóta prá ca tiṣṭhata  
-sá no devéṣu ā́ yamad  
-dīrghám ā́yuḥ prá jīváse  
+यमा꣡य घृत꣡वद् धवि꣡र्  
+जुहो꣡त प्र꣡ च तिष्ठत  
+स꣡ नो देवे꣡षु आ꣡ यमद्  
+दीर्घ꣡म् आ꣡युः प्र꣡ जीव꣡से  

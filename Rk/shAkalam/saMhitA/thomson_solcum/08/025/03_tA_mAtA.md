@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tā́ mātā́ viśvávedasā  
-asuryā̀ya prámahasā  
-mahī́ jajāna áditir r̥tā́varī  
+ता꣡ माता꣡ विश्व꣡वेदसा  
+असुर्या᳡य प्र꣡महसा  
+मही꣡ जजान अ꣡दितिर् ऋता꣡वरी  

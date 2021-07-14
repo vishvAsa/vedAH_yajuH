@@ -2,10 +2,10 @@
 title = "007"
 
 +++
-bhinát púro navatím indra pūráve  
-dívodāsāya máhi dāśúṣe nr̥to  
-vájreṇa dāśúṣe nr̥to  
-atithigvā́ya śámbaraṃ  
-girér ugró ávābharat  
-mahó dhánāni dáyamāna ójasā  
-víśvā dhánāni ójasā  
+भिन꣡त् पु꣡रो नवति꣡म् इन्द्र पूर꣡वे  
+दि꣡वोदासाय म꣡हि दाशु꣡षे नृतो  
+व꣡ज्रेण दाशु꣡षे नृतो  
+अतिथिग्वा꣡य श꣡म्बरं  
+गिरे꣡र् उग्रो꣡ अ꣡वाभरत्  
+महो꣡ ध꣡नानि द꣡यमान ओ꣡जसा  
+वि꣡श्वा ध꣡नानि ओ꣡जसा  

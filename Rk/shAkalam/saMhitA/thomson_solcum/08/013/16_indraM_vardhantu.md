@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-índraṃ vardhantu no gíra  
-índraṃ sutā́sa índavaḥ  
-índre havíṣmatīr víśo arāṇiṣuḥ  
+इ꣡न्द्रं वर्धन्तु नो गि꣡र  
+इ꣡न्द्रं सुता꣡स इ꣡न्दवः  
+इ꣡न्द्रे हवि꣡ष्मतीर् वि꣡शो अराणिषुः  

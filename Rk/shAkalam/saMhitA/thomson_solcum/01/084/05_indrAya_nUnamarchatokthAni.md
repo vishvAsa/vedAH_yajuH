@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índrāya nūnám arcata  
-ukthā́ni ca bravītana  
-sutā́ amatsur índavo  
-jyéṣṭhaṃ namasyatā sáhaḥ  
+इ꣡न्द्राय नून꣡म् अर्चत  
+उक्था꣡नि च ब्रवीतन  
+सुता꣡ अमत्सुर् इ꣡न्दवो  
+ज्ये꣡ष्ठं नमस्यता स꣡हः  

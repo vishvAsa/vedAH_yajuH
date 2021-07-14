@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áyujran ta indara+ viśvákr̥ṣṭīr  
-vidānā́so niṣṣídho martiyatrā́  
-marútãm pr̥tsutír hā́samānā  
-súvarmīḷhasya pradhánasya sātaú  
+अ꣡युज्रन् त इन्दर+ विश्व꣡कृष्टीर्  
+विदाना꣡सो निष्षि꣡धो मर्तियत्रा꣡  
+मरु꣡त्ãम् पृत्सुति꣡र् हा꣡समाना  
+सु꣡वर्मीऌहस्य प्रध꣡नस्य सातउ꣡  

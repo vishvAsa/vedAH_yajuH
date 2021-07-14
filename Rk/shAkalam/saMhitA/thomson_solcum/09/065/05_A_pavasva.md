@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-ā́ pavasva suvī́riyam  
-mándamānaḥ suāyudha  
-ihó ṣú indav ā́ gahi  
+आ꣡ पवस्व सुवी꣡रियम्  
+म꣡न्दमानः सुआयुध  
+इहो꣡ षु꣡ इन्दव् आ꣡ गहि  

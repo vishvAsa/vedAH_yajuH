@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-padé-pade me jarimā́ ní dhāyi  
-várūtrī vā śakrā́ yā́ pāyúbhiś ca  
-síṣaktu mātā́ mahī́ rasā́ naḥ  
-smát sūríbhir r̥juhásta rjuvániḥ  
+पदे꣡-पदे मे जरिमा꣡ नि꣡ धायि  
+व꣡रूत्री वा शक्रा꣡ या꣡ पायु꣡भिश् च  
+सि꣡षक्तु माता꣡ मही꣡ रसा꣡ नः  
+स्म꣡त् सूरि꣡भिर् ऋजुह꣡स्त र्जुव꣡निः  

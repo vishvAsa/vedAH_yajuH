@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-tuváṃ tásya dvayāvíno  
-agháśaṃsasya kásya cit  
-padā́bhí tiṣṭha tápuṣim  
+तुवं꣡ त꣡स्य द्वयावि꣡नो  
+अघ꣡शंसस्य क꣡स्य चित्  
+पदा꣡भि꣡ तिष्ठ त꣡पुषिम्  

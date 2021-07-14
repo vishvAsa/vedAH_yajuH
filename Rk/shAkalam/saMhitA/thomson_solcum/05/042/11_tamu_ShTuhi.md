@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-tám u ṣṭuhi yáḥ suiṣúḥ sudhánvā  
-yó víśvasya kṣáyati bheṣajásya  
-yákṣvā mahé saumanasā́ya rudráṃ  
-námobhir devám ásuraṃ duvasya  
+त꣡म् उ ष्टुहि यः꣡ सुइषुः꣡ सुध꣡न्वा  
+यो꣡ वि꣡श्वस्य क्ष꣡यति भेषज꣡स्य  
+य꣡क्ष्वा महे꣡ सौमनसा꣡य रुद्रं꣡  
+न꣡मोभिर् देव꣡म् अ꣡सुरं दुवस्य  

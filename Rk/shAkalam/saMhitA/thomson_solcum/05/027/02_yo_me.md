@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yó me śatā́ ca viṃśatíṃ ca gónāṃ  
-hárī ca yuktā́ sudhúrā dádāti  
-vaíśvānara súṣṭuto vāvr̥dhāno  
-ágne yácha tríaruṇāya śárma  
+यो꣡ मे शता꣡ च विंशतिं꣡ च गो꣡नां  
+ह꣡री च युक्ता꣡ सुधु꣡रा द꣡दाति  
+वइ꣡श्वानर सु꣡ष्टुतो वावृधानो  
+अ꣡ग्ने य꣡छ त्रि꣡अरुणाय श꣡र्म  

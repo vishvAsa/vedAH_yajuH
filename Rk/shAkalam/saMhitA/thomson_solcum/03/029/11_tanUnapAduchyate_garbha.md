@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-tánūnápād ucyate gárbha āsuró  
-nárāśáṃso bhavati yád vijā́yate  
-mātaríśvā yád ámimīta mātári  
-vā́tasya sárgo abhavat sárīmaṇi  
+त꣡नून꣡पाद् उच्यते ग꣡र्भ आसुरो꣡  
+न꣡राशं꣡सो भवति य꣡द् विजा꣡यते  
+मातरि꣡श्वा य꣡द् अ꣡मिमीत मात꣡रि  
+वा꣡तस्य स꣡र्गो अभवत् स꣡रीमणि  

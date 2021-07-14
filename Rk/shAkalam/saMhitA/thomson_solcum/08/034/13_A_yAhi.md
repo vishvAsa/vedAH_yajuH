@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ā́ yāhi párvatebhiyaḥ  
-samudrásyā́dhi viṣṭápaḥ  
-divó amúṣya śā́sato  
-dívaṃ yayá divāvaso  
+आ꣡ याहि प꣡र्वतेभियः  
+समुद्र꣡स्या꣡धि विष्ट꣡पः  
+दिवो꣡ अमु꣡ष्य शा꣡सतो  
+दि꣡वं यय꣡ दिवावसो  

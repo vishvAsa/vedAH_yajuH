@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-pári ṇo devávītaye  
-vā́jām̐ arṣasi gómataḥ  
-punāná indav indrayúḥ  
+प꣡रि णो देव꣡वीतये  
+वा꣡जाँ अर्षसि गो꣡मतः  
+पुनान꣡ इन्दव् इन्द्रयुः꣡  

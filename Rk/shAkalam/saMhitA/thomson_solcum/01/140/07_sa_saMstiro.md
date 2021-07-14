@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sá saṃstíro viṣṭíraḥ sáṃ gr̥bhāyati  
-jānánn evá jānatī́r nítya ā́ śaye  
-púnar vardhante ápi yanti devíyam  
-anyád várpaḥ pitaróḥ+ kr̥ṇvate sácā  
+स꣡ संस्ति꣡रो विष्टि꣡रः सं꣡ गृभायति  
+जान꣡न्न् एव꣡ जानती꣡र् नि꣡त्य आ꣡ शये  
+पु꣡नर् वर्धन्ते अ꣡पि यन्ति देवि꣡यम्  
+अन्य꣡द् व꣡र्पः पितरोः꣡+ कृण्वते स꣡चा  

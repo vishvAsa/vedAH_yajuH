@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ vāṃ rátho ródasī badbadhānó  
-hiraṇyáyo vŕ̥ṣabhir yātu áśvaiḥ  
-ghr̥távartaniḥ pavíbhī rucāná  
-iṣā́ṃ voḷhā́ nr̥pátir vājínīvān  
+आ꣡ वां र꣡थो रो꣡दसी बद्बधानो꣡  
+हिरण्य꣡यो व्ŕ̥षभिर् यातु अ꣡श्वैः  
+घृत꣡वर्तनिः पवि꣡भी रुचान꣡  
+इषां꣡ वोऌहा꣡ नृप꣡तिर् वाजि꣡नीवान्  

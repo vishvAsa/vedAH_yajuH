@@ -2,8 +2,8 @@
 title = "013"
 
 +++
-yád vr̥tráṃ táva cāśániṃ  
-vájreṇa samáyodhayaḥ  
-áhim indra jíghāṃsato  
-diví te badbadhe śávo  
-árcann ánu svarā́jiyam  
+य꣡द् वृत्रं꣡ त꣡व चाश꣡निं  
+व꣡ज्रेण सम꣡योधयः  
+अ꣡हिम् इन्द्र जि꣡घांसतो  
+दिवि꣡ ते बद्बधे श꣡वो  
+अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्  

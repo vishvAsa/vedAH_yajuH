@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-máma devā́ vihavé santu sárva  
-índravanto marúto víṣṇur agníḥ  
-mámāntárikṣam urúlokam astu  
-máhyaṃ vā́taḥ pavatāṃ kā́me asmín  
+म꣡म देवा꣡ विहवे꣡ सन्तु स꣡र्व  
+इ꣡न्द्रवन्तो मरु꣡तो वि꣡ष्णुर् अग्निः꣡  
+म꣡मान्त꣡रिक्षम् उरु꣡लोकम् अस्तु  
+म꣡ह्यं वा꣡तः पवतां का꣡मे अस्मि꣡न्  

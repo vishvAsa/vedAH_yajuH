@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yád indra citra mehánā  
-ásti tvā́dātam adrivaḥ  
-rā́dhas tán no vidadvasa  
-ubhayāhasti ā́ bhara  
+य꣡द् इन्द्र चित्र मेह꣡ना  
+अ꣡स्ति त्वा꣡दातम् अद्रिवः  
+रा꣡धस् त꣡न् नो विदद्वस  
+उभयाहस्ति आ꣡ भर  

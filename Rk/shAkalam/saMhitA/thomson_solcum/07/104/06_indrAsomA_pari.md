@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-índrāsomā pári vām bhūtu viśváta  
-iyám matíḥ kakṣiyā́śveva vājínā  
-yā́ṃ vāṃ hótrām parihinómi medháyā  
-imā́ bráhmāṇi nr̥pátīva jinvatam  
+इ꣡न्द्रासोमा प꣡रि वाम् भूतु विश्व꣡त  
+इय꣡म् मतिः꣡ कक्षिया꣡श्वेव वाजि꣡ना  
+यां꣡ वां हो꣡त्राम् परिहिनो꣡मि मेध꣡या  
+इमा꣡ ब्र꣡ह्माणि नृप꣡तीव जिन्वतम्  

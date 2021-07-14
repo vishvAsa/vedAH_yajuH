@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-vāśrā́ arṣanti índavo  
-abhí vatsáṃ ná dhenávaḥ  
-dadhanviré gábhastiyoḥ  
+वाश्रा꣡ अर्षन्ति इ꣡न्दवो  
+अभि꣡ वत्सं꣡ न꣡ धेन꣡वः  
+दधन्विरे꣡ ग꣡भस्तियोः  

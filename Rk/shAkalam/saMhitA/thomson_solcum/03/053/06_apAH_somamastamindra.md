@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ápāḥ sómam ástam indra prá yāhi  
-kalyāṇī́r jāyā́ suráṇaṃ gr̥hé te  
-yátrā ráthasya br̥ható nidhā́naṃ  
-vimócanaṃ vājíno dákṣiṇāvat  
+अ꣡पाः सो꣡मम् अ꣡स्तम् इन्द्र प्र꣡ याहि  
+कल्याणी꣡र् जाया꣡ सुर꣡णं गृहे꣡ ते  
+य꣡त्रा र꣡थस्य बृहतो꣡ निधा꣡नं  
+विमो꣡चनं वाजि꣡नो द꣡क्षिणावत्  

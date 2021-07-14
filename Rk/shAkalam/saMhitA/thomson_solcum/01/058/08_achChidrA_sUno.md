@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-áchidrā sūno sahaso no adyá  
-stotŕ̥bhyo mitramahaḥ śárma yacha  
-ágne gr̥ṇántam áṃhasa uruṣya  
-ū́rjo napāt · pūrbhír ā́yasībhiḥ  
+अ꣡छिद्रा सूनो सहसो नो अद्य꣡  
+स्तोत्ŕ̥भ्यो मित्रमहः श꣡र्म यछ  
+अ꣡ग्ने गृण꣡न्तम् अं꣡हस उरुष्य  
+ऊ꣡र्जो नपात् · पूर्भि꣡र् आ꣡यसीभिः  

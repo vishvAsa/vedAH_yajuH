@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-ī́ḷe ca tvā yájamāno havírbhir  
-ī́ḷe sakhitváṃ sumatíṃ níkāmaḥ  
-devaír ávo mimīhi sáṃ jaritré  
-rákṣā ca no dámiyebhir ánīkaiḥ  
+ई꣡ऌए च त्वा य꣡जमानो हवि꣡र्भिर्  
+ई꣡ऌए सखित्वं꣡ सुमतिं꣡ नि꣡कामः  
+देवइ꣡र् अ꣡वो मिमीहि सं꣡ जरित्रे꣡  
+र꣡क्षा च नो द꣡मियेभिर् अ꣡नीकैः  

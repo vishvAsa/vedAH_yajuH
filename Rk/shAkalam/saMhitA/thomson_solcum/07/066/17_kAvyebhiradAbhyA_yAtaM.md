@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-kā́viyebhir adābhiyā  
-ā́ yātaṃ varuṇa dyumát  
-mitráś ca sómapītaye  
+का꣡वियेभिर् अदाभिया  
+आ꣡ यातं वरुण द्युम꣡त्  
+मित्र꣡श् च सो꣡मपीतये  

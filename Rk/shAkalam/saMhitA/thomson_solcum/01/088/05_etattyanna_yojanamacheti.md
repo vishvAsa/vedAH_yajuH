@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-etát tiyán ná yójanam aceti  
-sasvár ha yán maruto gótamo vaḥ  
-páśyan híraṇyacakrān  
-áyodaṃṣṭrān vidhā́vato varā́hūn  
+एत꣡त् तिय꣡न् न꣡ यो꣡जनम् अचेति  
+सस्व꣡र् ह य꣡न् मरुतो गो꣡तमो वः  
+प꣡श्यन् हि꣡रण्यचक्रान्  
+अ꣡योदंष्ट्रान् विधा꣡वतो वरा꣡हून्  

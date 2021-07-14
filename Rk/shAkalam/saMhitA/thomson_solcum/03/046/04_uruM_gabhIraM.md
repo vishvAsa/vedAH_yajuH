@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-urúṃ gabhīráṃ janúṣābhí ugráṃ  
-viśvávyacasam avatám matīnā́m  
-índraṃ sómāsaḥ pradívi sutā́saḥ  
-samudráṃ ná sraváta ā́ viśanti  
+उरुं꣡ गभीरं꣡ जनु꣡षाभि꣡ उग्रं꣡  
+विश्व꣡व्यचसम् अवत꣡म् मतीना꣡म्  
+इ꣡न्द्रं सो꣡मासः प्रदि꣡वि सुता꣡सः  
+समुद्रं꣡ न꣡ स्रव꣡त आ꣡ विशन्ति  

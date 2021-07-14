@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yád vā rúme rúśame śyā́vake kŕ̥pa  
-índra mādáyase sácā  
-káṇvāsas tvā bráhmabhi stómavāhasa  
-índrā́ yachanti ā́ gahi  
+य꣡द् वा रु꣡मे रु꣡शमे श्या꣡वके क्ŕ̥प  
+इ꣡न्द्र माद꣡यसे स꣡चा  
+क꣡ण्वासस् त्वा ब्र꣡ह्मभि स्तो꣡मवाहस  
+इ꣡न्द्रा꣡ यछन्ति आ꣡ गहि  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yásmin devā́ vidáthe mādáyante  
-vivásvataḥ sádane dhāráyante  
-sū́rye jyótir ádadhur māsí aktū́n  
-pári dyotaníṃ carato ájasrā  
+य꣡स्मिन् देवा꣡ विद꣡थे माद꣡यन्ते  
+विव꣡स्वतः स꣡दने धार꣡यन्ते  
+सू꣡र्ये ज्यो꣡तिर् अ꣡दधुर् मासि꣡ अक्तू꣡न्  
+प꣡रि द्योतनिं꣡ चरतो अ꣡जस्रा  

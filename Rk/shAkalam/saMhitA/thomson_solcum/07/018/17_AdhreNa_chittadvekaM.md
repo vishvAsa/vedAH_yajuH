@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-ādhréṇa cit tád u ékaṃ cakāra  
-siṃhíyaṃ cit pétuvenā jaghāna  
-áva sraktī́r veśíyāvr̥ścad índraḥ  
-prā́yachad víśvā bhójanā sudā́se  
+आध्रे꣡ण चित् त꣡द् उ ए꣡कं चकार  
+सिंहि꣡यं चित् पे꣡तुवेना जघान  
+अ꣡व स्रक्ती꣡र् वेशि꣡यावृश्चद् इ꣡न्द्रः  
+प्रा꣡यछद् वि꣡श्वा भो꣡जना सुदा꣡से  

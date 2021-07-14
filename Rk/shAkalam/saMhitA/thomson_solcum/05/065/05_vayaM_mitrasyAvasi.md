@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vayám mitrásya ávasi  
-siyā́ma sapráthastame  
-anehásas tuvótayaḥ  
-satrā́ váruṇaśeṣasaḥ  
+वय꣡म् मित्र꣡स्य अ꣡वसि  
+सिया꣡म सप्र꣡थस्तमे  
+अनेह꣡सस् तुवो꣡तयः  
+सत्रा꣡ व꣡रुणशेषसः  

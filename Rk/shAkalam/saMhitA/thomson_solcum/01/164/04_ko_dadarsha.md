@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kó dadarśa prathamáṃ jā́yamānam  
-asthanvántaṃ yád anasthā́ bíbharti  
-bhū́myā ásur ásr̥g ātmā́ kúva svit  
-kó vidvā́ṃsam úpa gāt práṣṭum etát  
+को꣡ ददर्श प्रथमं꣡ जा꣡यमानम्  
+अस्थन्व꣡न्तं य꣡द् अनस्था꣡ बि꣡भर्ति  
+भू꣡म्या अ꣡सुर् अ꣡सृग् आत्मा꣡ कु꣡व स्वित्  
+को꣡ विद्वां꣡सम् उ꣡प गात् प्र꣡ष्टुम् एत꣡त्  

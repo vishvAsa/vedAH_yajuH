@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tváyā vayám maghavann indra śátrūn  
-abhí ṣyāma maható mányamānān  
-tuváṃ trātā́ tuvám u no vr̥dhé bhūr  
-vidyā́meṣáṃ vr̥jánaṃ jīrádānum  
+त्व꣡या वय꣡म् मघवन्न् इन्द्र श꣡त्रून्  
+अभि꣡ ष्याम महतो꣡ म꣡न्यमानान्  
+तुवं꣡ त्राता꣡ तुव꣡म् उ नो वृधे꣡ भूर्  
+विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्  

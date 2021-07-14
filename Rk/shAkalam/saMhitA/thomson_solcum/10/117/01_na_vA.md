@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ná vā́ u devā́ḥ kṣúdham íd vadháṃ dadur  
-utā́śitam úpa gachanti mr̥tyávaḥ  
-utó rayíḥ pr̥ṇató nópa dasyati  
-utā́pr̥ṇan marḍitā́raṃ ná vindate  
+न꣡ वा꣡ उ देवाः꣡ क्षु꣡धम् इ꣡द् वधं꣡ ददुर्  
+उता꣡शितम् उ꣡प गछन्ति मृत्य꣡वः  
+उतो꣡ रयिः꣡ पृणतो꣡ नो꣡प दस्यति  
+उता꣡पृणन् मर्डिता꣡रं न꣡ विन्दते  

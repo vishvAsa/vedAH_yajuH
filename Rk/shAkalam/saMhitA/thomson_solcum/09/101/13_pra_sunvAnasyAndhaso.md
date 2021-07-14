@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-prá sunvānásya ándhaso  
-márto ná vr̥ta tád vácaḥ  
-ápa śvā́nam arādhásaṃ  
-hatā́ makháṃ ná bhŕ̥gavaḥ  
+प्र꣡ सुन्वान꣡स्य अ꣡न्धसो  
+म꣡र्तो न꣡ वृत त꣡द् व꣡चः  
+अ꣡प श्वा꣡नम् अराध꣡सं  
+हता꣡ मखं꣡ न꣡ भ्ŕ̥गवः  

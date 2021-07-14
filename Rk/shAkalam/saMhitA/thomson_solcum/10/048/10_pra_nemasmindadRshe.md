@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-prá némasmin dadr̥śe sómo antár  
-gopā́ némam āvír asthā́ kr̥ṇoti  
-sá tigmáśr̥ṅgaṃ vr̥ṣabháṃ yúyutsan  
-druhás tasthau bahulé baddhó antáḥ  
+प्र꣡ ने꣡मस्मिन् ददृशे सो꣡मो अन्त꣡र्  
+गोपा꣡ ने꣡मम् आवि꣡र् अस्था꣡ कृणोति  
+स꣡ तिग्म꣡शृङ्गं वृषभं꣡ यु꣡युत्सन्  
+द्रुह꣡स् तस्थौ बहुले꣡ बद्धो꣡ अन्तः꣡  

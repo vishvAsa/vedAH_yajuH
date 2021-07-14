@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mánīṣiṇaḥ prá bharadhvam manīṣā́ṃ  
-yáthā-yathā matáyaḥ sánti nr̥̄ṇā́m+  
-índraṃ satyaír érayāmā kr̥tébhiḥ  
-sá hí vīró girvaṇasyúr vídānaḥ  
+म꣡नीषिणः प्र꣡ भरध्वम् मनीषां꣡  
+य꣡था-यथा मत꣡यः स꣡न्ति नॄणा꣡म्+  
+इ꣡न्द्रं सत्यइ꣡र् ए꣡रयामा कृते꣡भिः  
+स꣡ हि꣡ वीरो꣡ गिर्वणस्यु꣡र् वि꣡दानः  

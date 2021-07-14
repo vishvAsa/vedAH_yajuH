@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ná vā́ u mā́ṃ vr̥jáne vārayante  
-ná párvatāso yád ahám manasyé  
-máma svanā́t kr̥dhukárṇo bhayāta  
-evéd ánu dyū́n kiráṇaḥ sám ejāt  
+न꣡ वा꣡ उ मां꣡ वृज꣡ने वारयन्ते  
+न꣡ प꣡र्वतासो य꣡द् अह꣡म् मनस्ये꣡  
+म꣡म स्वना꣡त् कृधुक꣡र्णो भयात  
+एवे꣡द् अ꣡नु द्यू꣡न् किर꣡णः स꣡म् एजात्  

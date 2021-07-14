@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-té no rāyó dyumáto vā́javato  
-dātā́ro bhūta nr̥vátaḥ purukṣóḥ  
-daśasyánto diviyā́ḥ pā́rthivāso  
-gójātā ápyā mr̥̄ḷátā+ ca devāḥ  
+ते꣡ नो रायो꣡ द्युम꣡तो वा꣡जवतो  
+दाता꣡रो भूत नृव꣡तः पुरुक्षोः꣡  
+दशस्य꣡न्तो दिवियाः꣡ पा꣡र्थिवासो  
+गो꣡जाता अ꣡प्या मॄऌअ꣡ता+ च देवाः  

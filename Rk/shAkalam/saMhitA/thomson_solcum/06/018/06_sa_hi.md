@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sá hí dhībhír háviyo ásti ugrá  
-īśānakŕ̥n mahatí vr̥tratū́rye  
-sá tokásātā tánaye sá vajrī́  
-vitantasā́yyo abhavat samátsu  
+स꣡ हि꣡ धीभि꣡र् ह꣡वियो अ꣡स्ति उग्र꣡  
+ईशानक्ŕ̥न् महति꣡ वृत्रतू꣡र्ये  
+स꣡ तोक꣡साता त꣡नये स꣡ वज्री꣡  
+वितन्तसा꣡य्यो अभवत् सम꣡त्सु  

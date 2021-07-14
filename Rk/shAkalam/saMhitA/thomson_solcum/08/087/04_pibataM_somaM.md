@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-píbataṃ sómam mádhumantam aśvinā  
-ā́ barhíḥ sīdataṃ sumát  
-tā́ vāvr̥dhānā́ úpa suṣṭutíṃ divó  
-gantáṃ gaurā́v ivériṇam  
+पि꣡बतं सो꣡मम् म꣡धुमन्तम् अश्विना  
+आ꣡ बर्हिः꣡ सीदतं सुम꣡त्  
+ता꣡ वावृधाना꣡ उ꣡प सुष्टुतिं꣡ दिवो꣡  
+गन्तं꣡ गौरा꣡व् इवे꣡रिणम्  

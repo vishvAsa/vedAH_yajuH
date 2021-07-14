@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ávaviddhaṃ taugriyám apsú antár  
-anārambhaṇé támasi práviddham  
-cátasro nā́vo jáṭhalasya júṣṭā  
-úd aśvíbhyām iṣitā́ḥ pārayanti  
+अ꣡वविद्धं तौग्रिय꣡म् अप्सु꣡ अन्त꣡र्  
+अनारम्भणे꣡ त꣡मसि प्र꣡विद्धम्  
+च꣡तस्रो ना꣡वो ज꣡ठलस्य जु꣡ष्टा  
+उ꣡द् अश्वि꣡भ्याम् इषिताः꣡ पारयन्ति  

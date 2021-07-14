@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ no yātaṃ divó áchā pr̥thivyā́  
-hiraṇyáyena suvŕ̥tā ráthena  
-mā́ vām anyé ní yaman devayántaḥ  
-sáṃ yád dadé · nā́bhiḥ pūrviyā́ vām  
+आ꣡ नो यातं दिवो꣡ अ꣡छा पृथिव्या꣡  
+हिरण्य꣡येन सुव्ŕ̥ता र꣡थेन  
+मा꣡ वाम् अन्ये꣡ नि꣡ यमन् देवय꣡न्तः  
+सं꣡ य꣡द् ददे꣡ · ना꣡भिः पूर्विया꣡ वाम्  

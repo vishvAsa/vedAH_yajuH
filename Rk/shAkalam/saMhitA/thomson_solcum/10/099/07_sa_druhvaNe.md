@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sá drúhvaṇe mánuṣa ūrdhvasāná  
-ā́ sāviṣad arśasānā́ya śárum  
-sá nŕ̥tamo náhuṣo 'smát sújātaḥ  
-púro abhinad árhan dasyuhátye  
+स꣡ द्रु꣡ह्वणे म꣡नुष ऊर्ध्वसान꣡  
+आ꣡ साविषद् अर्शसाना꣡य श꣡रुम्  
+स꣡ न्ŕ̥तमो न꣡हुषो ऽस्म꣡त् सु꣡जातः  
+पु꣡रो अभिनद् अ꣡र्हन् दस्युह꣡त्ये  

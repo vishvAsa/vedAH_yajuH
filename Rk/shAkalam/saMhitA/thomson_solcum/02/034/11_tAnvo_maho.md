@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-tā́n vo mahó marúta evayā́vano  
-víṣṇor eṣásya prabhr̥thé havāmahe  
-híraṇyavarṇān kakuhā́n yatásruco  
-brahmaṇyántaḥ śáṃsiyaṃ rā́dha īmahe  
+ता꣡न् वो महो꣡ मरु꣡त एवया꣡वनो  
+वि꣡ष्णोर् एष꣡स्य प्रभृथे꣡ हवामहे  
+हि꣡रण्यवर्णान् ककुहा꣡न् यत꣡स्रुचो  
+ब्रह्मण्य꣡न्तः शं꣡सियं रा꣡ध ईमहे  

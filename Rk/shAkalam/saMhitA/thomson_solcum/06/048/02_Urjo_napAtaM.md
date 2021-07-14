@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ūrjó nápātaṃ sá hinā́yám asmayúr  
-dā́śema havyádātaye  
-bhúvad vā́jeṣu  
-bhúvad vr̥dhá utá trātā́ tanū́nãm  
+ऊर्जो꣡ न꣡पातं स꣡ हिना꣡य꣡म् अस्मयु꣡र्  
+दा꣡शेम हव्य꣡दातये  
+भु꣡वद् वा꣡जेषु  
+भु꣡वद् वृध꣡ उत꣡ त्राता꣡ तनू꣡न्ãम्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índras tújo barháṇā ā́ viveśa  
-nr̥vád dádhāno náriyā purū́ṇi  
-ácetayad dhíya imā́ jaritré  
-prémáṃ várṇam atirac chukrám āsām  
+इ꣡न्द्रस् तु꣡जो बर्ह꣡णा आ꣡ विवेश  
+नृव꣡द् द꣡धानो न꣡रिया पुरू꣡णि  
+अ꣡चेतयद् धि꣡य इमा꣡ जरित्रे꣡  
+प्रे꣡मं꣡ व꣡र्णम् अतिरच् छुक्र꣡म् आसाम्  

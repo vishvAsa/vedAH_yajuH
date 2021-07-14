@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-yád áyātaṃ dívodāsāya vartír  
-bharádvājāya aśvinā háyantā  
-revád uvāha sacanó rátho vāṃ  
-vr̥ṣabháś ca śiṃśumā́raś ca yuktā́  
+य꣡द् अ꣡यातं दि꣡वोदासाय वर्ति꣡र्  
+भर꣡द्वाजाय अश्विना ह꣡यन्ता  
+रेव꣡द् उवाह सचनो꣡ र꣡थो वां  
+वृषभ꣡श् च शिंशुमा꣡रश् च युक्ता꣡  

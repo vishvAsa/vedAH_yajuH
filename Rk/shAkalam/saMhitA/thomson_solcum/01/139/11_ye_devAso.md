@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yé devāso diví ékādaśa sthá  
-pr̥thiviyā́m ádhi ékādaśa sthá  
-apsukṣíto mahinaíkādaśa sthá  
-té devāso yajñám imáṃ juṣadhvam  
+ये꣡ देवासो दिवि꣡ ए꣡कादश स्थ꣡  
+पृथिविया꣡म् अ꣡धि ए꣡कादश स्थ꣡  
+अप्सुक्षि꣡तो महिनइ꣡कादश स्थ꣡  
+ते꣡ देवासो यज्ञ꣡म् इमं꣡ जुषध्वम्  

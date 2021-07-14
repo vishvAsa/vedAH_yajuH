@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá mitrā́ya prá aryamṇé  
-sacathíyam r̥tāvaso  
-varūthíyaṃ váruṇe chándiyaṃ váca  
-stotráṃ rā́jasu gāyata  
+प्र꣡ मित्रा꣡य प्र꣡ अर्यम्णे꣡  
+सचथि꣡यम् ऋतावसो  
+वरूथि꣡यं व꣡रुणे छ꣡न्दियं व꣡च  
+स्तोत्रं꣡ रा꣡जसु गायत  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-trír asmai saptá dhenávo duduhre  
-satyā́m āśíram pūrviyé víomani  
-catvā́ri anyā́ bhúvanāni nirṇíje  
-cā́rūṇi cakre yád r̥taír ávardhata  
+त्रि꣡र् अस्मै सप्त꣡ धेन꣡वो दुदुह्रे  
+सत्या꣡म् आशि꣡रम् पूर्विये꣡ वि꣡ओमनि  
+चत्वा꣡रि अन्या꣡ भु꣡वनानि निर्णि꣡जे  
+चा꣡रूणि चक्रे य꣡द् ऋतइ꣡र् अ꣡वर्धत  

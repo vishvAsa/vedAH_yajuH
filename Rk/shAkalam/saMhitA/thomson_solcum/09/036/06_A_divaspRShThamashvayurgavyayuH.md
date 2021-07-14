@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ā́ divás pr̥ṣṭhám aśvayúr  
-gavyayúḥ soma rohasi  
-vīrayúḥ śavasas pate  
+आ꣡ दिव꣡स् पृष्ठ꣡म् अश्वयु꣡र्  
+गव्ययुः꣡ सोम रोहसि  
+वीरयुः꣡ शवसस् पते  

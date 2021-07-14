@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kád u priyā́ya dhā́mane manāmahe  
-svákṣatrāya sváyaśase mahé vayám  
-āmeniyásya rájaso yád abhrá ā́m̐  
-apó vr̥ṇānā́ vitanóti māyínī  
+क꣡द् उ प्रिया꣡य धा꣡मने मनामहे  
+स्व꣡क्षत्राय स्व꣡यशसे महे꣡ वय꣡म्  
+आमेनिय꣡स्य र꣡जसो य꣡द् अभ्र꣡ आँ꣡  
+अपो꣡ वृणाना꣡ वितनो꣡ति मायि꣡नी  

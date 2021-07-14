@@ -2,7 +2,7 @@
 title = "031"
 
 +++
-prá rebhá eti áti vā́ram avyáyaṃ  
-vŕ̥ṣā váneṣu áva cakradad dháriḥ  
-sáṃ dhītáyo vāvaśānā́ anūṣata  
-śíśuṃ rihanti matáyaḥ pánipnatam  
+प्र꣡ रेभ꣡ एति अ꣡ति वा꣡रम् अव्य꣡यं  
+व्ŕ̥षा व꣡नेषु अ꣡व चक्रदद् ध꣡रिः  
+सं꣡ धीत꣡यो वावशाना꣡ अनूषत  
+शि꣡शुं रिहन्ति मत꣡यः प꣡निप्नतम्  

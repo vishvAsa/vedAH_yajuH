@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-tád agne cákṣuḥ práti dhehi rebhé  
-śaphārújaṃ yéna páśyasi yātudhā́nam  
-atharvaváj jyótiṣā daíviyena  
-satyáṃ dhū́rvantam acítaṃ ní oṣa  
+त꣡द् अग्ने च꣡क्षुः प्र꣡ति धेहि रेभे꣡  
+शफारु꣡जं ये꣡न प꣡श्यसि यातुधा꣡नम्  
+अथर्वव꣡ज् ज्यो꣡तिषा दइ꣡वियेन  
+सत्यं꣡ धू꣡र्वन्तम् अचि꣡तं नि꣡ ओष  

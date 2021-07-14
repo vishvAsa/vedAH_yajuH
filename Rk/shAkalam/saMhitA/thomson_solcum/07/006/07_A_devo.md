@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́ devó dade budhníyā vásūni  
-vaiśvānará úditā sū́riyasya  
-ā́ samudrā́d ávarād ā́ párasmād  
-ā́ agnír dade divá ā́ pr̥thivyā́ḥ  
+आ꣡ देवो꣡ ददे बुध्नि꣡या व꣡सूनि  
+वैश्वानर꣡ उ꣡दिता सू꣡रियस्य  
+आ꣡ समुद्रा꣡द् अ꣡वराद् आ꣡ प꣡रस्माद्  
+आ꣡ अग्नि꣡र् ददे दिव꣡ आ꣡ पृथिव्याः꣡  

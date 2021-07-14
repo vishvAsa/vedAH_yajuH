@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-járatībhir óṣadhībhiḥ  
-parṇébhiḥ śakunā́nãm  
-kārmāró áśmabhir dyúbhir  
-híraṇyavantam ichati  
-índrāyendo pári srava  
+ज꣡रतीभिर् ओ꣡षधीभिः  
+पर्णे꣡भिः शकुना꣡न्ãम्  
+कार्मारो꣡ अ꣡श्मभिर् द्यु꣡भिर्  
+हि꣡रण्यवन्तम् इछति  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́paś cid dhí sváyaśasaḥ sádassu  
-devī́r índraṃ váruṇaṃ devátā dhúḥ  
-kr̥ṣṭī́r anyó dhāráyati práviktā  
-vr̥trā́ṇi anyó apratī́ni hanti  
+आ꣡पश् चिद् धि꣡ स्व꣡यशसः स꣡दस्सु  
+देवी꣡र् इ꣡न्द्रं व꣡रुणं देव꣡ता धुः꣡  
+कृष्टी꣡र् अन्यो꣡ धार꣡यति प्र꣡विक्ता  
+वृत्रा꣡णि अन्यो꣡ अप्रती꣡नि हन्ति  

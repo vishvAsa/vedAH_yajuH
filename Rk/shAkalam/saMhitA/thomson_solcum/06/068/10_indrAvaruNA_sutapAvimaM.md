@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-índrāvaruṇā sutapāv imáṃ sutáṃ  
-sómam pibatam mádiyaṃ dhr̥tavratā  
-yuvó rátho adhvaráṃ devávītaye  
-práti svásaram úpa yāti pītáye  
+इ꣡न्द्रावरुणा सुतपाव् इमं꣡ सुतं꣡  
+सो꣡मम् पिबतम् म꣡दियं धृतव्रता  
+युवो꣡ र꣡थो अध्वरं꣡ देव꣡वीतये  
+प्र꣡ति स्व꣡सरम् उ꣡प याति पीत꣡ये  

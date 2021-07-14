@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-idáṃ vām madirám mádhu  
-ádhukṣann ádribhir náraḥ  
-índrāgnī tásya bodhatam  
+इदं꣡ वाम् मदिर꣡म् म꣡धु  
+अ꣡धुक्षन्न् अ꣡द्रिभिर् न꣡रः  
+इ꣡न्द्राग्नी त꣡स्य बोधतम्  

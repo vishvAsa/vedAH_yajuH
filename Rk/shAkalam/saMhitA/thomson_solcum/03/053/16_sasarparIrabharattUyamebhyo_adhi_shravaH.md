@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-sasarparī́r abharat tū́yam ebhyo  
-ádhi śrávaḥ pā́ñcajanyāsu kr̥ṣṭíṣu  
-sā́ pakṣíyā návyam ā́yur dádhānā  
-yā́m me palastijamadagnáyo dadúḥ  
+ससर्परी꣡र् अभरत् तू꣡यम् एभ्यो  
+अ꣡धि श्र꣡वः पा꣡ञ्चजन्यासु कृष्टि꣡षु  
+सा꣡ पक्षि꣡या न꣡व्यम् आ꣡युर् द꣡धाना  
+या꣡म् मे पलस्तिजमदग्न꣡यो ददुः꣡  

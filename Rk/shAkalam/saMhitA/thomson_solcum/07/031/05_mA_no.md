@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-mā́ no nidé ca váktave  
-aryó randhīr árāvaṇe  
-tuvé ápi krátur máma  
+मा꣡ नो निदे꣡ च व꣡क्तवे  
+अर्यो꣡ रन्धीर् अ꣡रावणे  
+तुवे꣡ अ꣡पि क्र꣡तुर् म꣡म  

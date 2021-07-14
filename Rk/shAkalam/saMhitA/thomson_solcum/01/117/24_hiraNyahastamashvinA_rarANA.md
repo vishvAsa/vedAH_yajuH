@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-híraṇyahastam aśvinā rárāṇā  
-putráṃ narā vadhrimatyā́ adattam  
-trídhā ha śyā́vam aśvinā víkastam  
-új jīvása airayataṃ sudānū  
+हि꣡रण्यहस्तम् अश्विना र꣡राणा  
+पुत्रं꣡ नरा वध्रिमत्या꣡ अदत्तम्  
+त्रि꣡धा ह श्या꣡वम् अश्विना वि꣡कस्तम्  
+उ꣡ज् जीव꣡स ऐरयतं सुदानू  

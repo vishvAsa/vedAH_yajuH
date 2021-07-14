@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-makṣū́ kanā́yāḥ sakhiyáṃ návagvā  
-r̥táṃ vádanta r̥táyuktim agman  
-dvibárhaso yá úpa gopám ā́gur  
-adakṣiṇā́so ácyutā dudukṣan  
+मक्षू꣡ कना꣡याः सखियं꣡ न꣡वग्वा  
+ऋतं꣡ व꣡दन्त ऋत꣡युक्तिम् अग्मन्  
+द्विब꣡र्हसो य꣡ उ꣡प गोप꣡म् आ꣡गुर्  
+अदक्षिणा꣡सो अ꣡च्युता दुदुक्षन्  

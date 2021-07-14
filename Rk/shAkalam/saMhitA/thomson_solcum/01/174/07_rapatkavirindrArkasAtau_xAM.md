@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-rápat kavír indara+ arkásātau  
-kṣã́ṃ dāsā́ya upabárhaṇīṃ kaḥ  
-kárat tisró maghávā dā́nucitrā  
-ní duryoṇé kúyavācam mr̥dhí śret  
+र꣡पत् कवि꣡र् इन्दर+ अर्क꣡सातौ  
+क्ष्ãं꣡ दासा꣡य उपब꣡र्हणीं कः  
+क꣡रत् तिस्रो꣡ मघ꣡वा दा꣡नुचित्रा  
+नि꣡ दुर्योणे꣡ कु꣡यवाचम् मृधि꣡ श्रेत्  

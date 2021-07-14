@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-dvéṣṭi śvaśrū́r ápa jāyā́ ruṇaddhi  
-ná nāthitó vindate marḍitā́ram  
-áśvasyeva járato vásniyasya  
-nā́háṃ vindāmi kitavásya bhógam  
+द्वे꣡ष्टि श्वश्रू꣡र् अ꣡प जाया꣡ रुणद्धि  
+न꣡ नाथितो꣡ विन्दते मर्डिता꣡रम्  
+अ꣡श्वस्येव ज꣡रतो व꣡स्नियस्य  
+ना꣡हं꣡ विन्दामि कितव꣡स्य भो꣡गम्  

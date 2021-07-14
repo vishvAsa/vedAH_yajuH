@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sā́ ā́ vaha yā́ ukṣábhir ávātā  
-úṣo váraṃ váhasi jóṣam ánu  
-tuváṃ divo duhitar yā́ ha devī́  
-pūrváhūtau maṃhánā darśatā́ bhūḥ  
+सा꣡ आ꣡ वह या꣡ उक्ष꣡भिर् अ꣡वाता  
+उ꣡षो व꣡रं व꣡हसि जो꣡षम् अ꣡नु  
+तुवं꣡ दिवो दुहितर् या꣡ ह देवी꣡  
+पूर्व꣡हूतौ मंह꣡ना दर्शता꣡ भूः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mūrā́ amūra ná vayáṃ cikitvo  
-mahitvám agne tuvám aṅgá vitse  
-śáye vavríś cárati jihváyādán  
-rerihyáte yuvatíṃ viśpátiḥ sán  
+मूरा꣡ अमूर न꣡ वयं꣡ चिकित्वो  
+महित्व꣡म् अग्ने तुव꣡म् अङ्ग꣡ वित्से  
+श꣡ये वव्रि꣡श् च꣡रति जिह्व꣡याद꣡न्  
+रेरिह्य꣡ते युवतिं꣡ विश्प꣡तिः स꣡न्  

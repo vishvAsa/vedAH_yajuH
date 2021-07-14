@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-gárbhaṃ dhehi sinīvāli  
-gárbhaṃ dhehi sarasvati  
-gárbhaṃ te aśvínau devā́v  
-ā́ dhattām púṣkarasrajā  
+ग꣡र्भं धेहि सिनीवालि  
+ग꣡र्भं धेहि सरस्वति  
+ग꣡र्भं ते अश्वि꣡नौ देवा꣡व्  
+आ꣡ धत्ताम् पु꣡ष्करस्रजा  

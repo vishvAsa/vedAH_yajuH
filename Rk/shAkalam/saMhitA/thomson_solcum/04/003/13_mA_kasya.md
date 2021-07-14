@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-mā́ kásya yakṣáṃ sádam íd dhuró gā  
-mā́ veśásya praminató mā́ āpéḥ  
-mā́ bhrā́tur agne ánr̥jor r̥ṇáṃ ver  
-mā́ sákhyur dákṣaṃ ripór bhujema  
+मा꣡ क꣡स्य यक्षं꣡ स꣡दम् इ꣡द् धुरो꣡ गा  
+मा꣡ वेश꣡स्य प्रमिनतो꣡ मा꣡ आपेः꣡  
+मा꣡ भ्रा꣡तुर् अग्ने अ꣡नृजोर् ऋणं꣡ वेर्  
+मा꣡ स꣡ख्युर् द꣡क्षं रिपो꣡र् भुजेम  

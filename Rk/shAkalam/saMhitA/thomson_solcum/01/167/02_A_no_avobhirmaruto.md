@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ nó 'vobhir marúto yāntu áchā  
-jyéṣṭhebhir vā br̥háddivaiḥ sumāyā́ḥ  
-ádha yád eṣāṃ niyútaḥ paramā́ḥ  
-samudrásya cid dhanáyanta pāré  
+आ꣡ नो꣡ ऽवोभिर् मरु꣡तो यान्तु अ꣡छा  
+ज्ये꣡ष्ठेभिर् वा बृह꣡द्दिवैः सुमायाः꣡  
+अ꣡ध य꣡द् एषां नियु꣡तः परमाः꣡  
+समुद्र꣡स्य चिद् धन꣡यन्त पारे꣡  

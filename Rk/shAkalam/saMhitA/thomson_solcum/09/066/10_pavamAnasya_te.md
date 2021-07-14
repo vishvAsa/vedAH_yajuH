@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-pávamānasya te kave  
-vā́jin sárgā asr̥kṣata  
-árvanto ná śravasyávaḥ  
+प꣡वमानस्य ते कवे  
+वा꣡जिन् स꣡र्गा असृक्षत  
+अ꣡र्वन्तो न꣡ श्रवस्य꣡वः  

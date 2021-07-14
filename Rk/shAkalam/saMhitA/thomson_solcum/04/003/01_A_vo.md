@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ vo rā́jānam adhvarásya rudráṃ  
-hótāraṃ satyayájaṃ ródasīyoḥ  
-agním purā́ tanayitnór acíttād  
-dhíraṇyarūpam ávase kr̥ṇudhvam  
+आ꣡ वो रा꣡जानम् अध्वर꣡स्य रुद्रं꣡  
+हो꣡तारं सत्यय꣡जं रो꣡दसीयोः  
+अग्नि꣡म् पुरा꣡ तनयित्नो꣡र् अचि꣡त्ताद्  
+धि꣡रण्यरूपम् अ꣡वसे कृणुध्वम्  

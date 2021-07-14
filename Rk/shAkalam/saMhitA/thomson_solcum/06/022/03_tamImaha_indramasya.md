@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tám īmaha índaram+ asya rāyáḥ  
-puruvī́rasya nr̥vátaḥ purukṣóḥ  
-yó áskr̥dhoyur ajáraḥ súvarvān  
-tám ā́ bhara harivo mādayádhyai  
+त꣡म् ईमह इ꣡न्दरम्+ अस्य रायः꣡  
+पुरुवी꣡रस्य नृव꣡तः पुरुक्षोः꣡  
+यो꣡ अ꣡स्कृधोयुर् अज꣡रः सु꣡वर्वान्  
+त꣡म् आ꣡ भर हरिवो मादय꣡ध्यै  

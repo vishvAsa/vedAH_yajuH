@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-dhr̥távratāḥ kṣatríyā yajñaniṣkŕ̥to  
-br̥haddivā́ adhvarā́ṇām abhiśríyaḥ  
-agníhotāra r̥tasā́po adrúho  
-apó asr̥jann ánu vr̥tratū́riye  
+धृत꣡व्रताः क्षत्रि꣡या यज्ञनिष्क्ŕ̥तो  
+बृहद्दिवा꣡ अध्वरा꣡णाम् अभिश्रि꣡यः  
+अग्नि꣡होतार ऋतसा꣡पो अद्रु꣡हो  
+अपो꣡ असृजन्न् अ꣡नु वृत्रतू꣡रिये  

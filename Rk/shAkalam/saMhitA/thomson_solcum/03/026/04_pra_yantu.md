@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prá yantu vā́jās táviṣībhir agnáyaḥ  
-śubhé sámmiślāḥ pŕ̥ṣatīr ayukṣata  
-br̥hadúkṣo marúto viśvávedasaḥ  
-prá vepayanti párvatām̐ ádābhiyāḥ  
+प्र꣡ यन्तु वा꣡जास् त꣡विषीभिर् अग्न꣡यः  
+शुभे꣡ स꣡म्मिश्लाः प्ŕ̥षतीर् अयुक्षत  
+बृहदु꣡क्षो मरु꣡तो विश्व꣡वेदसः  
+प्र꣡ वेपयन्ति प꣡र्वताँ अ꣡दाभियाः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yát te mánur yád ánīkaṃ sumitráḥ  
-samīdhé agne tád idáṃ návīyaḥ  
-sá revác choca sá gíro juṣasva  
-sá vā́jaṃ darṣi sá ihá śrávo dhāḥ  
+य꣡त् ते म꣡नुर् य꣡द् अ꣡नीकं सुमित्रः꣡  
+समीधे꣡ अग्ने त꣡द् इदं꣡ न꣡वीयः  
+स꣡ रेव꣡च् छोच स꣡ गि꣡रो जुषस्व  
+स꣡ वा꣡जं दर्षि स꣡ इह꣡ श्र꣡वो धाः  

@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-táva śriyé ví ajihīta párvato  
-gávāṃ gotrám udásr̥jo yád aṅgiraḥ  
-índreṇa yujā́ támasā párīvr̥tam  
-bŕ̥haspate nír apā́m aubjo arṇavám  
+त꣡व श्रिये꣡ वि꣡ अजिहीत प꣡र्वतो  
+ग꣡वां गोत्र꣡म् उद꣡सृजो य꣡द् अङ्गिरः  
+इ꣡न्द्रेण युजा꣡ त꣡मसा प꣡रीवृतम्  
+ब्ŕ̥हस्पते नि꣡र् अपा꣡म् औब्जो अर्णव꣡म्  

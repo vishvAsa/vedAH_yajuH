@@ -2,7 +2,7 @@
 title = "027"
 
 +++
-asaścátaḥ śatádhārā abhiśríyo  
-háriṃ navante áva tā́ udanyúvaḥ  
-kṣípo mr̥janti pári góbhir ā́vr̥taṃ  
-tr̥tī́ye pr̥ṣṭhé ádhi rocané diváḥ  
+असश्च꣡तः शत꣡धारा अभिश्रि꣡यो  
+ह꣡रिं नवन्ते अ꣡व ता꣡ उदन्यु꣡वः  
+क्षि꣡पो मृजन्ति प꣡रि गो꣡भिर् आ꣡वृतं  
+तृती꣡ये पृष्ठे꣡ अ꣡धि रोचने꣡ दिवः꣡  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́sīnāso aruṇī́nām upásthe  
-rayíṃ dhatta dāśúṣe mártiyāya  
-putrébhiyaḥ pitaras tásya vásvaḥ  
-prá yachata tá ihórjaṃ dadhāta  
+आ꣡सीनासो अरुणी꣡नाम् उप꣡स्थे  
+रयिं꣡ धत्त दाशु꣡षे म꣡र्तियाय  
+पुत्रे꣡भियः पितरस् त꣡स्य व꣡स्वः  
+प्र꣡ यछत त꣡ इहो꣡र्जं दधात  

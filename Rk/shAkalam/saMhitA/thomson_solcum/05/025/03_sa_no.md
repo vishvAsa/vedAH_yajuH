@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá no dhītī́ váriṣṭhayā  
-śráyiṣṭhayā+ ca sumatī́°  
-ágne rāyó didīhi naḥ  
-suvr̥ktíbhir vareṇiya  
+स꣡ नो धीती꣡ व꣡रिष्ठया  
+श्र꣡यिष्ठया+ च सुमती꣡°  
+अ꣡ग्ने रायो꣡ दिदीहि नः  
+सुवृक्ति꣡भिर् वरेणिय  

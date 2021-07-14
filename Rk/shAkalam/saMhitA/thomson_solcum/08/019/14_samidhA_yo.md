@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-samídhā yó níśitī dā́śad áditiṃ  
-dhā́mabhir asya mártiyaḥ  
-víśvét sá dhībhíḥ subhágo jánām̐ áti  
-dyumnaír udná 'va° tāriṣat  
+समि꣡धा यो꣡ नि꣡शिती दा꣡शद् अ꣡दितिं  
+धा꣡मभिर् अस्य म꣡र्तियः  
+वि꣡श्वे꣡त् स꣡ धीभिः꣡ सुभ꣡गो ज꣡नाँ अ꣡ति  
+द्युम्नइ꣡र् उद्न꣡ ऽव° तारिषत्  

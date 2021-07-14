@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ádabdhebhiḥ savitaḥ pāyúbhiṣ ṭuváṃ  
-śivébhir adyá pári pāhi no gáyam  
-híraṇyajihvaḥ suvitā́ya návyase  
-rákṣā mā́kir no agháśaṃsa īśata  
+अ꣡दब्धेभिः सवितः पायु꣡भिष् टुवं꣡  
+शिवे꣡भिर् अद्य꣡ प꣡रि पाहि नो ग꣡यम्  
+हि꣡रण्यजिह्वः सुविता꣡य न꣡व्यसे  
+र꣡क्षा मा꣡किर् नो अघ꣡शंस ईशत  

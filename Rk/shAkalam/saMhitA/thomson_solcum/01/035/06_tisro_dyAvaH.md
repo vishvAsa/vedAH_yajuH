@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tisró dyā́vaḥ savitúr dvā́ upásthām̐  
-ékā yamásya bhúvane virāṣā́ṭ  
-āṇíṃ ná ráthyam amŕ̥tā́dhi tasthur  
-ihá bravītu yá u tác cíketat  
+तिस्रो꣡ द्या꣡वः सवितु꣡र् द्वा꣡ उप꣡स्थाँ  
+ए꣡का यम꣡स्य भु꣡वने विराषा꣡ट्  
+आणिं꣡ न꣡ र꣡थ्यम् अम्ŕ̥ता꣡धि तस्थुर्  
+इह꣡ ब्रवीतु य꣡ उ त꣡च् चि꣡केतत्  

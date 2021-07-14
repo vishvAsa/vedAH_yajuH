@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ábudhram u tyá índravanto agnáyo  
-jyótir bháranta uṣáso víuṣṭiṣu  
-mahī́ dyā́vāpr̥thivī́ cetatām ápo  
-adyā́ devā́nām áva ā́ vr̥ṇīmahe  
+अ꣡बुध्रम् उ त्य꣡ इ꣡न्द्रवन्तो अग्न꣡यो  
+ज्यो꣡तिर् भ꣡रन्त उष꣡सो वि꣡उष्टिषु  
+मही꣡ द्या꣡वापृथिवी꣡ चेतताम् अ꣡पो  
+अद्या꣡ देवा꣡नाम् अ꣡व आ꣡ वृणीमहे  

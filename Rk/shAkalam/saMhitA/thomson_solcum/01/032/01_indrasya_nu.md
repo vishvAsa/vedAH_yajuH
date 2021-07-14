@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índrasya nú vīríyāṇi prá vocaṃ  
-yā́ni cakā́ra prathamā́ni vajrī́  
-áhann áhim ánu apás tatarda  
-prá vakṣáṇā abhinat párvatānām  
+इ꣡न्द्रस्य नु꣡ वीरि꣡याणि प्र꣡ वोचं  
+या꣡नि चका꣡र प्रथमा꣡नि वज्री꣡  
+अ꣡हन्न् अ꣡हिम् अ꣡नु अप꣡स् ततर्द  
+प्र꣡ वक्ष꣡णा अभिनत् प꣡र्वतानाम्  

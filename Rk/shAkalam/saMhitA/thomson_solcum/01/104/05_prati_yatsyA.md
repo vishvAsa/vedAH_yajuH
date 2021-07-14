@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-práti yát syā́ nī́thā ádarśi dásyor  
-óko nā́chā sádanaṃ jānatī́ gāt  
-ádha smā no maghavañ carkr̥tā́d ín  
-mā́ no maghéva niṣṣapī́ párā dāḥ  
+प्र꣡ति य꣡त् स्या꣡ नी꣡था अ꣡दर्शि द꣡स्योर्  
+ओ꣡को ना꣡छा स꣡दनं जानती꣡ गात्  
+अ꣡ध स्मा नो मघवञ् चर्कृता꣡द् इ꣡न्  
+मा꣡ नो मघे꣡व निष्षपी꣡ प꣡रा दाः  

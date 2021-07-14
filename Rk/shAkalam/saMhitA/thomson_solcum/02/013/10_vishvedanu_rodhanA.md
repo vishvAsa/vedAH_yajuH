@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-víśvéd ánu rodhanā́ asya paúṃsiyaṃ  
-dadúr asmai dadhiré kr̥tnáve dhánam  
-ṣáḷ astabhnā viṣṭíraḥ páñca saṃdŕ̥śaḥ  
-pári paró abhavaḥ sā́si ukthíyaḥ  
+वि꣡श्वे꣡द् अ꣡नु रोधना꣡ अस्य पउं꣡सियं  
+ददु꣡र् अस्मै दधिरे꣡ कृत्न꣡वे ध꣡नम्  
+ष꣡ऌ अस्तभ्ना विष्टि꣡रः प꣡ञ्च संद्ŕ̥शः  
+प꣡रि परो꣡ अभवः सा꣡सि उक्थि꣡यः  

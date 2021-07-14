@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sómāpū́ṣaṇā rájaso vimā́naṃ  
-saptácakraṃ rátham áviśvaminvam  
-viṣūvŕ̥tam mánasā yujyámānaṃ  
-táṃ jinvatho vŕ̥ṣaṇā páñcaraśmim  
+सो꣡मापू꣡षणा र꣡जसो विमा꣡नं  
+सप्त꣡चक्रं र꣡थम् अ꣡विश्वमिन्वम्  
+विषूव्ŕ̥तम् म꣡नसा युज्य꣡मानं  
+तं꣡ जिन्वथो व्ŕ̥षणा प꣡ञ्चरश्मिम्  

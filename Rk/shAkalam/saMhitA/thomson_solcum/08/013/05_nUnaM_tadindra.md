@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-nūnáṃ tád indra daddhi no  
-yát tvā sunvánta ī́mahe  
-rayíṃ naś citrám ā́ bharā suvarvídam  
+नूनं꣡ त꣡द् इन्द्र दद्धि नो  
+य꣡त् त्वा सुन्व꣡न्त ई꣡महे  
+रयिं꣡ नश् चित्र꣡म् आ꣡ भरा सुवर्वि꣡दम्  

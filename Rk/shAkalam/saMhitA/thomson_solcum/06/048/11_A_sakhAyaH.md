@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-ā́ sakhāyaḥ sabardúghāṃ  
-dhenúm ajadhvam úpa návyasā vácaḥ  
-sr̥jádhvam ánapasphurām  
+आ꣡ सखायः सबर्दु꣡घां  
+धेनु꣡म् अजध्वम् उ꣡प न꣡व्यसा व꣡चः  
+सृज꣡ध्वम् अ꣡नपस्फुराम्  

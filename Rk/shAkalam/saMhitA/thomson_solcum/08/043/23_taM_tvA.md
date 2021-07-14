@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-táṃ tvā vayáṃ havāmahe  
-śr̥ṇvántaṃ jātávedasam  
-ágne ghnántam ápa dvíṣaḥ  
+तं꣡ त्वा वयं꣡ हवामहे  
+शृण्व꣡न्तं जात꣡वेदसम्  
+अ꣡ग्ने घ्न꣡न्तम् अ꣡प द्वि꣡षः  

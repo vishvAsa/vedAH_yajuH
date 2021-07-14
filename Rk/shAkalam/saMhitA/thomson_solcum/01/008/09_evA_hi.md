@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-evā́ hí te víbhūtaya  
-ūtáya indra mā́vate  
-sadyáś cit sánti dāśúṣe  
+एवा꣡ हि꣡ ते वि꣡भूतय  
+ऊत꣡य इन्द्र मा꣡वते  
+सद्य꣡श् चित् स꣡न्ति दाशु꣡षे  

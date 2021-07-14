@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-óṣṭhāv iva mádhu āsné vádantā  
-stánāv iva pipyataṃ jīváse naḥ  
-nā́seva nas tanúvo rakṣitā́rā  
-kárṇāv iva suśrútā bhūtam asmé  
+ओ꣡ष्ठाव् इव म꣡धु आस्ने꣡ व꣡दन्ता  
+स्त꣡नाव् इव पिप्यतं जीव꣡से नः  
+ना꣡सेव नस् तनु꣡वो रक्षिता꣡रा  
+क꣡र्णाव् इव सुश्रु꣡ता भूतम् अस्मे꣡  

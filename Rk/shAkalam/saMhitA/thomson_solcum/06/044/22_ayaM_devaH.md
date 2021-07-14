@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-ayáṃ deváḥ sáhasā jā́yamāna  
-índreṇa yujā́ paṇím astabhāyat  
-ayáṃ suvásya pitúr ā́yudhāni  
-índur amuṣṇād áśivasya māyā́ḥ  
+अयं꣡ देवः꣡ स꣡हसा जा꣡यमान  
+इ꣡न्द्रेण युजा꣡ पणि꣡म् अस्तभायत्  
+अयं꣡ सुव꣡स्य पितु꣡र् आ꣡युधानि  
+इ꣡न्दुर् अमुष्णाद् अ꣡शिवस्य मायाः꣡  

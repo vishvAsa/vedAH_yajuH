@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-mā́ no vadhā́ya hatnáve  
-jihīḷānásya rīradhaḥ  
-mā́ hr̥ṇānásya manyáve  
+मा꣡ नो वधा꣡य हत्न꣡वे  
+जिहीऌआन꣡स्य रीरधः  
+मा꣡ हृणान꣡स्य मन्य꣡वे  

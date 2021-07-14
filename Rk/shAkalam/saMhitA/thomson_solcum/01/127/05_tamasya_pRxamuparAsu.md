@@ -2,10 +2,10 @@
 title = "005"
 
 +++
-tám asya pr̥kṣám úparāsu dhīmahi  
-náktaṃ yáḥ sudárśataro dívātarād  
-áprāyuṣe dívātarāt  
-ā́d asyā́yur grábhaṇavad  
-vīḷú śárma ná sūnáve  
-bhaktám ábhaktam ávo vyánto ajárā  
-agnáyo vyánto ajárāḥ  
+त꣡म् अस्य पृक्ष꣡म् उ꣡परासु धीमहि  
+न꣡क्तं यः꣡ सुद꣡र्शतरो दि꣡वातराद्  
+अ꣡प्रायुषे दि꣡वातरात्  
+आ꣡द् अस्या꣡युर् ग्र꣡भणवद्  
+वीऌउ꣡ श꣡र्म न꣡ सून꣡वे  
+भक्त꣡म् अ꣡भक्तम् अ꣡वो व्य꣡न्तो अज꣡रा  
+अग्न꣡यो व्य꣡न्तो अज꣡राः  

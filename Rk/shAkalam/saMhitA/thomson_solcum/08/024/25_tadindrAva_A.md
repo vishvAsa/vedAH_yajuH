@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-tád indra áva ā́ bhara  
-yénā daṃsiṣṭha kŕ̥tvane  
-dvitā́ kútsāya śiśnatho ní codaya  
+त꣡द् इन्द्र अ꣡व आ꣡ भर  
+ये꣡ना दंसिष्ठ क्ŕ̥त्वने  
+द्विता꣡ कु꣡त्साय शिश्नथो नि꣡ चोदय  

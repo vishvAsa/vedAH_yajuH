@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sárasvān dhībhír váruṇo dhr̥távrataḥ  
-pūṣā́ víṣṇur mahimā́ vāyúr aśvínā  
-brahmakŕ̥to amŕ̥tā viśvávedasaḥ  
-śárma no yaṃsan trivárūtham áṃhasaḥ  
+स꣡रस्वान् धीभि꣡र् व꣡रुणो धृत꣡व्रतः  
+पूषा꣡ वि꣡ष्णुर् महिमा꣡ वायु꣡र् अश्वि꣡ना  
+ब्रह्मक्ŕ̥तो अम्ŕ̥ता विश्व꣡वेदसः  
+श꣡र्म नो यंसन् त्रिव꣡रूथम् अं꣡हसः  

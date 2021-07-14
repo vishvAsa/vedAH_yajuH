@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-asmé várṣiṣṭhā kr̥ṇuhi jyáyiṣṭhā+  
-nr̥mṇā́ni satrā́ sahure sáhāṃsi  
-asmábhyaṃ vr̥trā́ suhánāni randhi  
-jahí vádhar vanúṣo mártiyasya  
+अस्मे꣡ व꣡र्षिष्ठा कृणुहि ज्य꣡यिष्ठा+  
+नृम्णा꣡नि सत्रा꣡ सहुरे स꣡हांसि  
+अस्म꣡भ्यं वृत्रा꣡ सुह꣡नानि रन्धि  
+जहि꣡ व꣡धर् वनु꣡षो म꣡र्तियस्य  

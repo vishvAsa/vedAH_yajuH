@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-viśvadā́nīṃ sumánasaḥ siyāma  
-páśyema nú sū́riyam uccárantam  
-táthā karad vásupatir vásūnāṃ  
-devā́m̐ óhāno ávasā́gamiṣṭhaḥ  
+विश्वदा꣡नीं सुम꣡नसः सियाम  
+प꣡श्येम नु꣡ सू꣡रियम् उच्च꣡रन्तम्  
+त꣡था करद् व꣡सुपतिर् व꣡सूनां  
+देवाँ꣡ ओ꣡हानो अ꣡वसा꣡गमिष्ठः  

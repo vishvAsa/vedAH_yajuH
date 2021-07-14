@@ -2,5 +2,5 @@
 title = "016"
 
 +++
-pávasva soma mandáyann  
-índrāya mádhumattamaḥ  
+प꣡वस्व सोम मन्द꣡यन्न्  
+इ꣡न्द्राय म꣡धुमत्तमः  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sá patyata ubháyor nr̥mṇám ayór  
-yádī vedhásaḥ samithé hávante  
-vr̥tré vā mahó nr̥váti kṣáye vā  
-vyácasvantā yádi vitantasaíte  
+स꣡ पत्यत उभ꣡योर् नृम्ण꣡म् अयो꣡र्  
+य꣡दी वेध꣡सः समिथे꣡ ह꣡वन्ते  
+वृत्रे꣡ वा महो꣡ नृव꣡ति क्ष꣡ये वा  
+व्य꣡चस्वन्ता य꣡दि वितन्तसइ꣡ते  

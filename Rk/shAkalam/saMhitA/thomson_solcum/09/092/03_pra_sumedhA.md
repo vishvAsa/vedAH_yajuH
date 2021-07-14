@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá sumedhā́ gātuvíd viśvádevaḥ  
-sómaḥ punānáḥ sáda eti nítyam  
-bhúvad víśveṣu kā́viyeṣu rántā  
-ánu jánān yatate páñca dhī́raḥ  
+प्र꣡ सुमेधा꣡ गातुवि꣡द् विश्व꣡देवः  
+सो꣡मः पुनानः꣡ स꣡द एति नि꣡त्यम्  
+भु꣡वद् वि꣡श्वेषु का꣡वियेषु र꣡न्ता  
+अ꣡नु ज꣡नान् यतते प꣡ञ्च धी꣡रः  

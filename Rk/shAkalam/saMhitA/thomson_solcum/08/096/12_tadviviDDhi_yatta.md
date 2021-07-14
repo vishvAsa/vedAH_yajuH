@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-tád viviḍḍhi yát ta índro jújoṣat  
-stuhí suṣṭutíṃ námasā́ vivāsa  
-úpa bhūṣa jaritar mā́ ruvaṇyaḥ  
-śrāváyā vā́caṃ kuvíd aṅgá védat  
+त꣡द् विविड्ढि य꣡त् त इ꣡न्द्रो जु꣡जोषत्  
+स्तुहि꣡ सुष्टुतिं꣡ न꣡मसा꣡ विवास  
+उ꣡प भूष जरितर् मा꣡ रुवण्यः  
+श्राव꣡या वा꣡चं कुवि꣡द् अङ्ग꣡ वे꣡दत्  

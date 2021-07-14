@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-devó bhágaḥ savitā́ rāyó áṃśa  
-índro vr̥trásya saṃjíto dhánānām  
-r̥bhukṣā́ vā́ja utá vā púraṃdhir  
-ávantu no amŕ̥tāsas turā́saḥ  
+देवो꣡ भ꣡गः सविता꣡ रायो꣡ अं꣡श  
+इ꣡न्द्रो वृत्र꣡स्य संजि꣡तो ध꣡नानाम्  
+ऋभुक्षा꣡ वा꣡ज उत꣡ वा पु꣡रंधिर्  
+अ꣡वन्तु नो अम्ŕ̥तासस् तुरा꣡सः  

@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-váco dīrgháprasadmani  
-ī́śe vā́jasya gómataḥ  
-ī́śe hí pitvó aviṣásya dāváne  
+व꣡चो दीर्घ꣡प्रसद्मनि  
+ई꣡शे वा꣡जस्य गो꣡मतः  
+ई꣡शे हि꣡ पित्वो꣡ अविष꣡स्य दाव꣡ने  

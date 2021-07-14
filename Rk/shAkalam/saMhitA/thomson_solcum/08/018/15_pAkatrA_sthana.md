@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-pākatrā́ sthana devā  
-hr̥tsú jānītha mártiyam  
-úpa dvayúṃ ca ádvayuṃ ca vasavaḥ  
+पाकत्रा꣡ स्थन देवा  
+हृत्सु꣡ जानीथ म꣡र्तियम्  
+उ꣡प द्वयुं꣡ च अ꣡द्वयुं च वसवः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-dyā́vo ná stŕ̥bhiś citayanta khādíno  
-ví abhríyā ná dyutayanta vr̥ṣṭáyaḥ  
-rudró yád vo maruto rukmavakṣaso  
-vŕ̥ṣā́jani pŕ̥śṇiyāḥ śukrá ū́dhani  
+द्या꣡वो न꣡ स्त्ŕ̥भिश् चितयन्त खादि꣡नो  
+वि꣡ अभ्रि꣡या न꣡ द्युतयन्त वृष्ट꣡यः  
+रुद्रो꣡ य꣡द् वो मरुतो रुक्मवक्षसो  
+व्ŕ̥षा꣡जनि प्ŕ̥श्णियाः शुक्र꣡ ऊ꣡धनि  

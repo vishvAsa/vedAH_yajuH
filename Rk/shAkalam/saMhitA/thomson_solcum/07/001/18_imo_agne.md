@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-imó agne vītátamāni havyā́  
-ájasro vakṣi devátātim ácha  
-práti na īṃ surabhī́ṇi viyantu  
+इमो꣡ अग्ने वीत꣡तमानि हव्या꣡  
+अ꣡जस्रो वक्षि देव꣡तातिम् अ꣡छ  
+प्र꣡ति न ईं सुरभी꣡णि वियन्तु  

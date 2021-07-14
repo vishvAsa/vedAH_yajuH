@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imā́ṃ khanāmi óṣadhiṃ  
-vīrúdham bálavattamām  
-yáyā sapátnīm bā́dhate  
-yáyā saṃvindáte pátim  
+इमां꣡ खनामि ओ꣡षधिं  
+वीरु꣡धम् ब꣡लवत्तमाम्  
+य꣡या सप꣡त्नीम् बा꣡धते  
+य꣡या संविन्द꣡ते प꣡तिम्  

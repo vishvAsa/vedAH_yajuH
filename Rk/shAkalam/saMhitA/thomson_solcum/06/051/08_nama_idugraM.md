@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-náma íd ugráṃ náma ā́ vivāse  
-námo dādhāra pr̥thivī́m utá dyā́m  
-námo devébhyo náma īśa eṣāṃ  
-kr̥táṃ cid éno námasā́ vivāse  
+न꣡म इ꣡द् उग्रं꣡ न꣡म आ꣡ विवासे  
+न꣡मो दाधार पृथिवी꣡म् उत꣡ द्या꣡म्  
+न꣡मो देवे꣡भ्यो न꣡म ईश एषां  
+कृतं꣡ चिद् ए꣡नो न꣡मसा꣡ विवासे  

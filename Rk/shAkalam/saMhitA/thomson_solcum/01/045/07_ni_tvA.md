@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ní tvā hótāram r̥tvíjaṃ  
-dadhiré vasuvíttamam  
-śrútkarṇaṃ sapráthastamaṃ  
-víprā agne díviṣṭiṣu  
+नि꣡ त्वा हो꣡तारम् ऋत्वि꣡जं  
+दधिरे꣡ वसुवि꣡त्तमम्  
+श्रु꣡त्कर्णं सप्र꣡थस्तमं  
+वि꣡प्रा अग्ने दि꣡विष्टिषु  

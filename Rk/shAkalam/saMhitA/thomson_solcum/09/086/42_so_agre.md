@@ -2,7 +2,7 @@
 title = "042"
 
 +++
-só ágre áhnāṃ hárir haryató mádaḥ  
-prá cétasā cetayate ánu dyúbhiḥ  
-duvā́ jánā yātáyann antár īyate  
-nárā ca śáṃsaṃ daíviyaṃ ca dhartári  
+सो꣡ अ꣡ग्रे अ꣡ह्नां ह꣡रिर् हर्यतो꣡ म꣡दः  
+प्र꣡ चे꣡तसा चेतयते अ꣡नु द्यु꣡भिः  
+दुवा꣡ ज꣡ना यात꣡यन्न् अन्त꣡र् ईयते  
+न꣡रा च शं꣡सं दइ꣡वियं च धर्त꣡रि  

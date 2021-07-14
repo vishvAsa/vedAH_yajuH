@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-eṣá syá pītáye sutó  
-hárir arṣati dharṇasíḥ  
-krándan yónim abhí priyám  
+एष꣡ स्य꣡ पीत꣡ये सुतो꣡  
+ह꣡रिर् अर्षति धर्णसिः꣡  
+क्र꣡न्दन् यो꣡निम् अभि꣡ प्रिय꣡म्  

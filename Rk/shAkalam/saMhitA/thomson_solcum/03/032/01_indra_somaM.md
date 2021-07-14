@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índra sómaṃ somapate píbemám  
-mā́dhyaṃdinaṃ sávanaṃ cā́ru yát te  
-praprúthyā śípre maghavann r̥jīṣin  
-vimúcyā hárī ihá mādayasva  
+इ꣡न्द्र सो꣡मं सोमपते पि꣡बेम꣡म्  
+मा꣡ध्यंदिनं स꣡वनं चा꣡रु य꣡त् ते  
+प्रप्रु꣡थ्या शि꣡प्रे मघवन्न् ऋजीषिन्  
+विमु꣡च्या ह꣡री इह꣡ मादयस्व  

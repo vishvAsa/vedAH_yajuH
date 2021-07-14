@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sómasya rā́jño váruṇasya dhármaṇi  
-bŕ̥haspáter ánumatyā u śármaṇi  
-távāhám adyá maghavann úpastutau  
-dhā́tar vídhātaḥ kaláśām̐ abhakṣayam  
+सो꣡मस्य रा꣡ज्ञो व꣡रुणस्य ध꣡र्मणि  
+ब्ŕ̥हस्प꣡तेर् अ꣡नुमत्या उ श꣡र्मणि  
+त꣡वाह꣡म् अद्य꣡ मघवन्न् उ꣡पस्तुतौ  
+धा꣡तर् वि꣡धातः कल꣡शाँ अभक्षयम्  

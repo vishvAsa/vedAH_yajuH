@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yajñá índram avardhayad  
-yád bhū́miṃ ví ávartayat  
-cakrāṇá opaśáṃ diví  
+यज्ञ꣡ इ꣡न्द्रम् अवर्धयद्  
+य꣡द् भू꣡मिं वि꣡ अ꣡वर्तयत्  
+चक्राण꣡ ओपशं꣡ दिवि꣡  

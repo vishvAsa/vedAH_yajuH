@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tiyám ū ṣú vājínaṃ devájūtaṃ  
-sahā́vānaṃ tarutā́raṃ ráthānām  
-áriṣṭanemim pr̥tanā́jam āśúṃ  
-suastáye tā́rkṣyam ihā́ huvema  
+तिय꣡म् ऊ षु꣡ वाजि꣡नं देव꣡जूतं  
+सहा꣡वानं तरुता꣡रं र꣡थानाम्  
+अ꣡रिष्टनेमिम् पृतना꣡जम् आशुं꣡  
+सुअस्त꣡ये ता꣡र्क्ष्यम् इहा꣡ हुवेम  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ádevād deváḥ pracátā gúhā yán  
-prapáśyamāno amr̥tatvám emi  
-śiváṃ yát sántam áśivo jáhāmi  
-suvā́t sakhyā́d áraṇīṃ nā́bhim emi  
+अ꣡देवाद् देवः꣡ प्रच꣡ता गु꣡हा य꣡न्  
+प्रप꣡श्यमानो अमृतत्व꣡म् एमि  
+शिवं꣡ य꣡त् स꣡न्तम् अ꣡शिवो ज꣡हामि  
+सुवा꣡त् सख्या꣡द् अ꣡रणीं ना꣡भिम् एमि  

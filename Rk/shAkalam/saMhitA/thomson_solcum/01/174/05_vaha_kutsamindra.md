@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-váha kútsam indara+ yásmi° cākán  
-syūmanyū́ r̥jrā́ vã́tasya áśvā  
-prá sū́raś cakráṃ vr̥hatād abhī́ke  
-abhí spŕ̥dho yāsiṣad vájrabāhuḥ  
+व꣡ह कु꣡त्सम् इन्दर+ य꣡स्मि° चाक꣡न्  
+स्यूमन्यू꣡ ऋज्रा꣡ व्ã꣡तस्य अ꣡श्वा  
+प्र꣡ सू꣡रश् चक्रं꣡ वृहताद् अभी꣡के  
+अभि꣡ स्प्ŕ̥धो यासिषद् व꣡ज्रबाहुः  

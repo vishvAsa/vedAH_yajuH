@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-bhīmó viveṣa ā́yudhebhir eṣām  
-ápāṃsi víśvā náriyāṇi vidvā́n  
-índraḥ púro járhr̥ṣāṇo ví dūdhod  
-ví vájrahasto mahinā́ jaghāna  
+भीमो꣡ विवेष आ꣡युधेभिर् एषाम्  
+अ꣡पांसि वि꣡श्वा न꣡रियाणि विद्वा꣡न्  
+इ꣡न्द्रः पु꣡रो ज꣡र्हृषाणो वि꣡ दूधोद्  
+वि꣡ व꣡ज्रहस्तो महिना꣡ जघान  

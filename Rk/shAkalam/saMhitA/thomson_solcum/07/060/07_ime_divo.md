@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-imé divó ánimiṣā pr̥thivyā́ś  
-cikitvā́ṃso acetásaṃ nayanti  
-pravrājé cin nadíyo gādhám asti  
-pāráṃ no asyá viṣpitásya parṣan  
+इमे꣡ दिवो꣡ अ꣡निमिषा पृथिव्या꣡श्  
+चिकित्वां꣡सो अचेत꣡सं नयन्ति  
+प्रव्राजे꣡ चिन् नदि꣡यो गाध꣡म् अस्ति  
+पारं꣡ नो अस्य꣡ विष्पित꣡स्य पर्षन्  

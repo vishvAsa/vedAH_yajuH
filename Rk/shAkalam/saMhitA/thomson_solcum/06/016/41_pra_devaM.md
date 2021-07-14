@@ -2,6 +2,6 @@
 title = "041"
 
 +++
-prá deváṃ devávītaye  
-bháratā vasuvíttamam  
-ā́ své yónau ní ṣīdatu  
+प्र꣡ देवं꣡ देव꣡वीतये  
+भ꣡रता वसुवि꣡त्तमम्  
+आ꣡ स्वे꣡ यो꣡नौ नि꣡ षीदतु  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sóma rājan mr̥̄ḷáyā+ naḥ suastí  
-táva smasi vratíyās tásya viddhi  
-álarti dákṣa utá manyúr indo  
-mā́ no aryó anukāmám párā dāḥ  
+सो꣡म राजन् मॄऌअ꣡या+ नः सुअस्ति꣡  
+त꣡व स्मसि व्रति꣡यास् त꣡स्य विद्धि  
+अ꣡लर्ति द꣡क्ष उत꣡ मन्यु꣡र् इन्दो  
+मा꣡ नो अर्यो꣡ अनुकाम꣡म् प꣡रा दाः  

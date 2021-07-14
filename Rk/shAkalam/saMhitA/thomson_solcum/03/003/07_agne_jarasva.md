@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ágne járasva suapatyá ā́yuni  
-ūrjā́ pinvasva sám íṣo didīhi naḥ  
-váyāṃsi jinva br̥hatáś ca jāgr̥va  
-uśíg devā́nām ási sukrátur vipā́m  
+अ꣡ग्ने ज꣡रस्व सुअपत्य꣡ आ꣡युनि  
+ऊर्जा꣡ पिन्वस्व स꣡म् इ꣡षो दिदीहि नः  
+व꣡यांसि जिन्व बृहत꣡श् च जागृव  
+उशि꣡ग् देवा꣡नाम् अ꣡सि सुक्र꣡तुर् विपा꣡म्  

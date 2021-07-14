@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kíṃ na indra jighāṃsasi  
-bhrā́taro marútas táva  
-tébhiḥ kalpasva sādhuyā́  
-mā́ naḥ samáraṇe vadhīḥ  
+किं꣡ न इन्द्र जिघांससि  
+भ्रा꣡तरो मरु꣡तस् त꣡व  
+ते꣡भिः कल्पस्व साधुया꣡  
+मा꣡ नः सम꣡रणे वधीः  

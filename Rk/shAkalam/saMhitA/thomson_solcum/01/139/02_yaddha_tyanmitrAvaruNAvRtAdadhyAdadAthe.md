@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-yád dha tyán mitrāvaruṇāv r̥tā́d ádhi  
-ādadā́the ánr̥taṃ svéna manyúnā  
-dákṣasya svéna manyúnā  
-yuvór itthā́dhi sádmasu  
-ápaśyāma hiraṇyáyam  
-dhībhíś caná mánasā svébhir akṣábhiḥ  
-sómasya svébhir akṣábhiḥ  
+य꣡द् ध त्य꣡न् मित्रावरुणाव् ऋता꣡द् अ꣡धि  
+आददा꣡थे अ꣡नृतं स्वे꣡न मन्यु꣡ना  
+द꣡क्षस्य स्वे꣡न मन्यु꣡ना  
+युवो꣡र् इत्था꣡धि स꣡द्मसु  
+अ꣡पश्याम हिरण्य꣡यम्  
+धीभि꣡श् चन꣡ म꣡नसा स्वे꣡भिर् अक्ष꣡भिः  
+सो꣡मस्य स्वे꣡भिर् अक्ष꣡भिः  

@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-ná tvā́vām̐ anyó diviyó ná pā́rthivo  
-ná jātó ná janiṣyate  
-aśvāyánto maghavann indra vājíno  
-gavyántas tvā havāmahe  
+न꣡ त्वा꣡वाँ अन्यो꣡ दिवियो꣡ न꣡ पा꣡र्थिवो  
+न꣡ जातो꣡ न꣡ जनिष्यते  
+अश्वाय꣡न्तो मघवन्न् इन्द्र वाजि꣡नो  
+गव्य꣡न्तस् त्वा हवामहे  

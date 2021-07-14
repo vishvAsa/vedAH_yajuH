@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-utá svarā́je áditi  
-stómam índrāya jījanat  
-purupraśastám ūtáya r̥tásya yát  
+उत꣡ स्वरा꣡जे अ꣡दिति  
+स्तो꣡मम् इ꣡न्द्राय जीजनत्  
+पुरुप्रशस्त꣡म् ऊत꣡य ऋत꣡स्य य꣡त्  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-kúha yā́ntā suṣṭutíṃ kāviyásya  
-dívo napātā vr̥ṣaṇā śayutrā́  
-híraṇyasyeva kaláśaṃ níkhātam  
-úd ūpathur daśamé aśvinā́han  
+कु꣡ह या꣡न्ता सुष्टुतिं꣡ काविय꣡स्य  
+दि꣡वो नपाता वृषणा शयुत्रा꣡  
+हि꣡रण्यस्येव कल꣡शं नि꣡खातम्  
+उ꣡द् ऊपथुर् दशमे꣡ अश्विना꣡हन्  

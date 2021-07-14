@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-nr̥vát ta indra nŕ̥tamābhir ūtī́  
-vaṃsīmáhi · vāmáṃ śrómatebhiḥ  
-ī́kṣe hí vásva ubháyasya rājan  
-dhã́ rátnam máhi sthūrám br̥hántam  
+नृव꣡त् त इन्द्र न्ŕ̥तमाभिर् ऊती꣡  
+वंसीम꣡हि · वामं꣡ श्रो꣡मतेभिः  
+ई꣡क्षे हि꣡ व꣡स्व उभ꣡यस्य राजन्  
+ध्ã꣡ र꣡त्नम् म꣡हि स्थूर꣡म् बृह꣡न्तम्  

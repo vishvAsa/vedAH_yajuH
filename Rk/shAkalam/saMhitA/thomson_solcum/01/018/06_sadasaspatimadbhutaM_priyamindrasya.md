@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-sádasas pátim ádbhutam  
-priyám índrasya kā́miyam  
-saním medhā́m ayāsiṣam  
+स꣡दसस् प꣡तिम् अ꣡द्भुतम्  
+प्रिय꣡म् इ꣡न्द्रस्य का꣡मियम्  
+सनि꣡म् मेधा꣡म् अयासिषम्  

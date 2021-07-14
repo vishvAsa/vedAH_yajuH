@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-yá īṅkháyanti párvatān  
-tiráḥ samudrám arṇavám  
-marúdbhir agna ā́ gahi  
+य꣡ ईङ्ख꣡यन्ति प꣡र्वतान्  
+तिरः꣡ समुद्र꣡म् अर्णव꣡म्  
+मरु꣡द्भिर् अग्न आ꣡ गहि  

@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-eṣá syá pári ṣicyate  
-marmr̥jyámāna āyúbhiḥ  
-urugāyáḥ kavíkratuḥ  
+एष꣡ स्य꣡ प꣡रि षिच्यते  
+मर्मृज्य꣡मान आयु꣡भिः  
+उरुगायः꣡ कवि꣡क्रतुः  

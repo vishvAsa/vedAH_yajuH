@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-yuváṃ dákṣaṃ dhr̥tavrata  
-mítrāvaruṇa dūḷábham  
-r̥túnā yajñám āśathe°  
+युवं꣡ द꣡क्षं धृतव्रत  
+मि꣡त्रावरुण दूऌअ꣡भम्  
+ऋतु꣡ना यज्ञ꣡म् आशथे°  

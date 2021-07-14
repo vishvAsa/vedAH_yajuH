@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-iyám adadād rabhasám r̥ṇacyútaṃ  
-dívodāsaṃ vadhriaśvā́ya dāśúṣe  
-yā́ śáśvantam ācakhā́dāvasám paṇíṃ  
-tā́ te dātrā́ṇi taviṣā́ sarasvati  
+इय꣡म् अददाद् रभस꣡म् ऋणच्यु꣡तं  
+दि꣡वोदासं वध्रिअश्वा꣡य दाशु꣡षे  
+या꣡ श꣡श्वन्तम् आचखा꣡दावस꣡म् पणिं꣡  
+ता꣡ ते दात्रा꣡णि तविषा꣡ सरस्वति  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yaú te śuvā́nau yama rakṣitā́rau  
-caturakṣaú pathirákṣī nr̥cákṣasau  
-tā́bhiyām enam pári dehi rājan  
-svastí cāsmā anamīváṃ ca dhehi  
+यउ꣡ ते शुवा꣡नौ यम रक्षिता꣡रौ  
+चतुरक्षउ꣡ पथिर꣡क्षी नृच꣡क्षसौ  
+ता꣡भियाम् एनम् प꣡रि देहि राजन्  
+स्वस्ति꣡ चास्मा अनमीवं꣡ च धेहि  

@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-sá na índraḥ śiváḥ sákhā  
-áśvāvad gómad yávamat  
-urúdhāreva dohate  
+स꣡ न इ꣡न्द्रः शिवः꣡ स꣡खा  
+अ꣡श्वावद् गो꣡मद् य꣡वमत्  
+उरु꣡धारेव दोहते  

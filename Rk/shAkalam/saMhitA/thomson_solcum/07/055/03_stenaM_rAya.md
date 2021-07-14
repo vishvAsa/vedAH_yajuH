@@ -2,8 +2,8 @@
 title = "003"
 
 +++
-stenáṃ rāya sārameya  
-táskaraṃ vā punaḥsara  
-stotr̥̄́n índrasya rāyasi  
-kím asmā́n duchunāyase  
-ní ṣú svapa  
+स्तेनं꣡ राय सारमेय  
+त꣡स्करं वा पुनःसर  
+स्तोतॄ꣡न् इ꣡न्द्रस्य रायसि  
+कि꣡म् अस्मा꣡न् दुछुनायसे  
+नि꣡ षु꣡ स्वप  

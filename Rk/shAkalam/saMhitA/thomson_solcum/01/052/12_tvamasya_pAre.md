@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-tvám asyá pāré rájaso víomanaḥ  
-svábhūtiojā ávase dhr̥ṣanmanaḥ  
-cakr̥ṣé bhū́mim pratimā́nam ójaso  
-apáḥ súvaḥ paribhū́r eṣi ā́ dívam  
+त्व꣡म् अस्य꣡ पारे꣡ र꣡जसो वि꣡ओमनः  
+स्व꣡भूतिओजा अ꣡वसे धृषन्मनः  
+चकृषे꣡ भू꣡मिम् प्रतिमा꣡नम् ओ꣡जसो  
+अपः꣡ सु꣡वः परिभू꣡र् एषि आ꣡ दि꣡वम्  

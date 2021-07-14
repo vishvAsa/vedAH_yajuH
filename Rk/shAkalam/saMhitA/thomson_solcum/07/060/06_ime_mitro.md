@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-imé mitró váruṇo dūḷábhāso  
-acetásaṃ cic citayanti dákṣaiḥ  
-ápi krátuṃ sucétasaṃ vátantas  
-tiráś cid áṃhaḥ supáthā nayanti  
+इमे꣡ मित्रो꣡ व꣡रुणो दूऌअ꣡भासो  
+अचेत꣡सं चिच् चितयन्ति द꣡क्षैः  
+अ꣡पि क्र꣡तुं सुचे꣡तसं व꣡तन्तस्  
+तिर꣡श् चिद् अं꣡हः सुप꣡था नयन्ति  

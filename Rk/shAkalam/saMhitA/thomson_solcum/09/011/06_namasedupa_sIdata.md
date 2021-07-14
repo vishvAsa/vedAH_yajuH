@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-námaséd úpa sīdata  
-dadhnéd abhí śriṇītana°  
-índum índre dadhātana  
+न꣡मसे꣡द् उ꣡प सीदत  
+दध्ने꣡द् अभि꣡ श्रिणीतन°  
+इ꣡न्दुम् इ꣡न्द्रे दधातन  

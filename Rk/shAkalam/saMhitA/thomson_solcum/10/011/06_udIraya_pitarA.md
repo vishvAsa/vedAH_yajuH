@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-úd īraya pitárā jārá ā́ bhágam  
-íyakṣati haryató hr̥ttá iṣyati  
-vívakti váhniḥ suapasyáte makhás  
-taviṣyáte ásuro vépate matī́  
+उ꣡द् ईरय पित꣡रा जार꣡ आ꣡ भ꣡गम्  
+इ꣡यक्षति हर्यतो꣡ हृत्त꣡ इष्यति  
+वि꣡वक्ति व꣡ह्निः सुअपस्य꣡ते मख꣡स्  
+तविष्य꣡ते अ꣡सुरो वे꣡पते मती꣡  

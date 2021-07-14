@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-índrāgnī ápasas pári  
-úpa prá yanti dhītáyaḥ  
-r̥tásya pathíyā ánu  
+इ꣡न्द्राग्नी अ꣡पसस् प꣡रि  
+उ꣡प प्र꣡ यन्ति धीत꣡यः  
+ऋत꣡स्य पथि꣡या अ꣡नु  

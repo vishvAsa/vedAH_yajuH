@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-hárim mr̥janti aruṣó ná yujyate  
-sáṃ dhenúbhiḥ kaláśe sómo ajyate  
-úd vā́cam īráyati hinváte matī́  
-puruṣṭutásya káti cit paripríyaḥ  
+ह꣡रिम् मृजन्ति अरुषो꣡ न꣡ युज्यते  
+सं꣡ धेनु꣡भिः कल꣡शे सो꣡मो अज्यते  
+उ꣡द् वा꣡चम् ईर꣡यति हिन्व꣡ते मती꣡  
+पुरुष्टुत꣡स्य क꣡ति चित् परिप्रि꣡यः  

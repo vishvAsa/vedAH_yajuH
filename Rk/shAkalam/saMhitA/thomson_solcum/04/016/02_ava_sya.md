@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áva sya śūra ádhvano ná ánte  
-asmín no adyá sávane mandádhyai  
-śáṃsāti ukthám uśáneva vedhā́ś  
-cikitúṣe asuríyāya mánma  
+अ꣡व स्य शूर अ꣡ध्वनो न꣡ अ꣡न्ते  
+अस्मि꣡न् नो अद्य꣡ स꣡वने मन्द꣡ध्यै  
+शं꣡साति उक्थ꣡म् उश꣡नेव वेधा꣡श्  
+चिकितु꣡षे असुरि꣡याय म꣡न्म  

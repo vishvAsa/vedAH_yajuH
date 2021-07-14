@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-ártham íd vā́ u arthína  
-ā́ jāyā́ yuvate pátim  
-tuñjā́te vŕ̥ṣṇiyam páyaḥ  
-paridā́ya rásaṃ duhe  
-vittám me asyá rodasī  
+अ꣡र्थम् इ꣡द् वा꣡ उ अर्थि꣡न  
+आ꣡ जाया꣡ युवते प꣡तिम्  
+तुञ्जा꣡ते व्ŕ̥ष्णियम् प꣡यः  
+परिदा꣡य र꣡सं दुहे  
+वित्त꣡म् मे अस्य꣡ रोदसी  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tám íd vocemā vidátheṣu śambhúvam  
-mántraṃ devā anehásam  
-imā́ṃ ca vā́cam pratiháryathā naro  
-víśvéd vāmā́ vo aśnavat  
+त꣡म् इ꣡द् वोचेमा विद꣡थेषु शम्भु꣡वम्  
+म꣡न्त्रं देवा अनेह꣡सम्  
+इमां꣡ च वा꣡चम् प्रतिह꣡र्यथा नरो  
+वि꣡श्वे꣡द् वामा꣡ वो अश्नवत्  

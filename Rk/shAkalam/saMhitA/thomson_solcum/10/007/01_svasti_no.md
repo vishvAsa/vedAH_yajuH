@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-suastí no divó agne pr̥thivyā́  
-viśvā́yur dhehi yajáthāya deva  
-sácemahi táva dasma praketaír  
-uruṣyā́ ṇa urúbhir deva śáṃsaiḥ  
+सुअस्ति꣡ नो दिवो꣡ अग्ने पृथिव्या꣡  
+विश्वा꣡युर् धेहि यज꣡थाय देव  
+स꣡चेमहि त꣡व दस्म प्रकेतइ꣡र्  
+उरुष्या꣡ ण उरु꣡भिर् देव शं꣡सैः  

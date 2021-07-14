@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-índrāya sú madíntamaṃ  
-sómaṃ sotā váreṇiyam  
-śakrá eṇam pīpayad víśvayā dhiyā́  
-hinuvānáṃ ná vājayúm  
+इ꣡न्द्राय सु꣡ मदि꣡न्तमं  
+सो꣡मं सोता व꣡रेणियम्  
+शक्र꣡ एणम् पीपयद् वि꣡श्वया धिया꣡  
+हिनुवानं꣡ न꣡ वाजयु꣡म्  

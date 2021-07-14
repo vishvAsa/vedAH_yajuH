@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ápād itá úd u naś citrátamo  
-mahī́m bharṣad dyumátīm índrahūtim  
-pányasīṃ dhītíṃ daíviyasya yā́mañ  
-jánasya rātíṃ vanate sudā́nuḥ  
+अ꣡पाद् इत꣡ उ꣡द् उ नश् चित्र꣡तमो  
+मही꣡म् भर्षद् द्युम꣡तीम् इ꣡न्द्रहूतिम्  
+प꣡न्यसीं धीतिं꣡ दइ꣡वियस्य या꣡मञ्  
+ज꣡नस्य रातिं꣡ वनते सुदा꣡नुः  

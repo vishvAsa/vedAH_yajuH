@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-grā́vā vádann ápa rákṣāṃsi sedhatu  
-duṣvápniyaṃ nírr̥tiṃ víśvam atríṇam  
-ādityáṃ śárma marútām aśīmahi  
-tád devā́nām ávo adyā́ vr̥ṇīmahe  
+ग्रा꣡वा व꣡दन्न् अ꣡प र꣡क्षांसि सेधतु  
+दुष्व꣡प्नियं नि꣡रृतिं वि꣡श्वम् अत्रि꣡णम्  
+आदित्यं꣡ श꣡र्म मरु꣡ताम् अशीमहि  
+त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे  

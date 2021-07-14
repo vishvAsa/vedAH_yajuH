@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-yā́ rúco jātávedaso  
-devatrā́ havyavā́hanīḥ  
-tā́bhir no yajñám invatu  
+या꣡ रु꣡चो जात꣡वेदसो  
+देवत्रा꣡ हव्यवा꣡हनीः  
+ता꣡भिर् नो यज्ञ꣡म् इन्वतु  

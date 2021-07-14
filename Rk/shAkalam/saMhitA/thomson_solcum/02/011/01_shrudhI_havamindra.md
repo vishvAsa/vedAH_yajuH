@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-śrudhī́ hávam indra mā́ riṣaṇyaḥ  
-siyā́ma te dāváne vásūnām  
-imā́ hí tvā́m ū́rjo vardháyanti  
-vasūyávaḥ síndhavo ná kṣárantaḥ  
+श्रुधी꣡ ह꣡वम् इन्द्र मा꣡ रिषण्यः  
+सिया꣡म ते दाव꣡ने व꣡सूनाम्  
+इमा꣡ हि꣡ त्वा꣡म् ऊ꣡र्जो वर्ध꣡यन्ति  
+वसूय꣡वः सि꣡न्धवो न꣡ क्ष꣡रन्तः  

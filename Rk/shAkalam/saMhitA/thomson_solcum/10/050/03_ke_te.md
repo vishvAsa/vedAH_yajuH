@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ké té nára indara+ yé ta iṣé  
-yé te sumnáṃ sadhaníyam íyakṣān  
-ké te vā́jāya asuryā̀ya hinvire  
-ké apsú svā́su urvárāsu paúṃsiye  
+के꣡ ते꣡ न꣡र इन्दर+ ये꣡ त इषे꣡  
+ये꣡ ते सुम्नं꣡ सधनि꣡यम् इ꣡यक्षान्  
+के꣡ ते वा꣡जाय असुर्या᳡य हिन्विरे  
+के꣡ अप्सु꣡ स्वा꣡सु उर्व꣡रासु पउं꣡सिये  

@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-dŕ̥ter 'va° te avr̥kám astu sakhyám  
-áchidrasya dadhanvátaḥ  
-súpūrṇasya dadhanvátaḥ  
+द्ŕ̥तेर् ऽव° ते अवृक꣡म् अस्तु सख्य꣡म्  
+अ꣡छिद्रस्य दधन्व꣡तः  
+सु꣡पूर्णस्य दधन्व꣡तः  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-asyá vraté sajóṣaso  
-víśve devā́so adrúhaḥ  
-spārhā́ bhavanti rántayo juṣánta yát  
+अस्य꣡ व्रते꣡ सजो꣡षसो  
+वि꣡श्वे देवा꣡सो अद्रु꣡हः  
+स्पार्हा꣡ भवन्ति र꣡न्तयो जुष꣡न्त य꣡त्  

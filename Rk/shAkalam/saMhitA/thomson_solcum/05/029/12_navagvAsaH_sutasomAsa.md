@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-návagvāsaḥ sutásomāsa índraṃ  
-dáśagvāso abhí arcanti arkaíḥ  
-gávyaṃ cid ūrvám apidhā́navantaṃ  
-táṃ cin náraḥ śaśamānā́ ápa vran  
+न꣡वग्वासः सुत꣡सोमास इ꣡न्द्रं  
+द꣡शग्वासो अभि꣡ अर्चन्ति अर्कइः꣡  
+ग꣡व्यं चिद् ऊर्व꣡म् अपिधा꣡नवन्तं  
+तं꣡ चिन् न꣡रः शशमाना꣡ अ꣡प व्रन्  

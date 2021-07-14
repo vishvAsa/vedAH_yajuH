@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ántivāmā dūré amítram ucha  
-urvī́ṃ gávyūtim ábhayaṃ kr̥dhī naḥ  
-yāváya dvéṣa ā́ bharā vásūni  
-codáya rā́dho gr̥ṇaté maghoni  
+अ꣡न्तिवामा दूरे꣡ अमि꣡त्रम् उछ  
+उर्वीं꣡ ग꣡व्यूतिम् अ꣡भयं कृधी नः  
+याव꣡य द्वे꣡ष आ꣡ भरा व꣡सूनि  
+चोद꣡य रा꣡धो गृणते꣡ मघोनि  

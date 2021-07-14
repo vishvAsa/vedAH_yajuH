@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-aśvínor asanaṃ rátham  
-anaśváṃ vājínīvatoḥ  
-ténāhám bhū́ri cākana  
+अश्वि꣡नोर् असनं र꣡थम्  
+अनश्वं꣡ वाजि꣡नीवतोः  
+ते꣡नाह꣡म् भू꣡रि चाकन  

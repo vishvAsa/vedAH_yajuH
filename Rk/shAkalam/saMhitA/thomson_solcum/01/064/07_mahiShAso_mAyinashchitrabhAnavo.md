@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-mahiṣā́so māyínaś citrábhānavo  
-giráyo ná svátavaso raghuṣyádaḥ  
-mr̥gā́ iva hastínaḥ khādathā vánā  
-yád ā́ruṇīṣu táviṣīr áyugdhuvam  
+महिषा꣡सो मायि꣡नश् चित्र꣡भानवो  
+गिर꣡यो न꣡ स्व꣡तवसो रघुष्य꣡दः  
+मृगा꣡ इव हस्ति꣡नः खादथा व꣡ना  
+य꣡द् आ꣡रुणीषु त꣡विषीर् अ꣡युग्धुवम्  

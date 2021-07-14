@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-táyā pavasva dhā́rayā  
-yáyā pītó vicákṣase  
-índo stotré suvī́riyam  
+त꣡या पवस्व धा꣡रया  
+य꣡या पीतो꣡ विच꣡क्षसे  
+इ꣡न्दो स्तोत्रे꣡ सुवी꣡रियम्  

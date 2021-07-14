@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-utá tyā́ me hávam ā́ jagmiyātaṃ  
-nā́satyā dhībhír yuvám aṅgá viprā  
-átriṃ ná mahás támaso 'mumuktaṃ  
-tū́rvataṃ narā duritā́d abhī́ke  
+उत꣡ त्या꣡ मे ह꣡वम् आ꣡ जग्मियातं  
+ना꣡सत्या धीभि꣡र् युव꣡म् अङ्ग꣡ विप्रा  
+अ꣡त्रिं न꣡ मह꣡स् त꣡मसो ऽमुमुक्तं  
+तू꣡र्वतं नरा दुरिता꣡द् अभी꣡के  

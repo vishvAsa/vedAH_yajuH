@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-nā́nā hí tvā hávamānā jánā imé  
-dhánānāṃ dhartar ávasā vipanyávaḥ  
-asmā́kaṃ smā rátham ā́ tiṣṭha sātáye  
-jaítraṃ hí indra níbhr̥tam mánas táva  
+ना꣡ना हि꣡ त्वा ह꣡वमाना ज꣡ना इमे꣡  
+ध꣡नानां धर्तर् अ꣡वसा विपन्य꣡वः  
+अस्मा꣡कं स्मा र꣡थम् आ꣡ तिष्ठ सात꣡ये  
+जइ꣡त्रं हि꣡ इन्द्र नि꣡भृतम् म꣡नस् त꣡व  

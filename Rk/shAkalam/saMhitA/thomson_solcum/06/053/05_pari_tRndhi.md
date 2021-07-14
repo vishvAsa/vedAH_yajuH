@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-pári tr̥ndhi paṇīnã́m  
-ā́rayā hŕ̥dayā kave  
-áthem asmábhya° randhaya  
+प꣡रि तृन्धि पणीन्ã꣡म्  
+आ꣡रया ह्ŕ̥दया कवे  
+अ꣡थेम् अस्म꣡भ्य° रन्धय  

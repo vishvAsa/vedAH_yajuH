@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tuváṃ soma prá cikito manīṣā́  
-tuváṃ rájiṣṭham ánu neṣi pánthām  
-táva práṇītī pitáro na indo  
-devéṣu rátnam abhajanta dhī́rāḥ  
+तुवं꣡ सोम प्र꣡ चिकितो मनीषा꣡  
+तुवं꣡ र꣡जिष्ठम् अ꣡नु नेषि प꣡न्थाम्  
+त꣡व प्र꣡णीती पित꣡रो न इन्दो  
+देवे꣡षु र꣡त्नम् अभजन्त धी꣡राः  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-asmábhyaṃ tád divó adbhyáḥ pr̥thivyā́s  
-tváyā dattáṃ kā́miyaṃ rā́dha ā́ gāt  
-śáṃ yát stotŕ̥bhya āpáye bhávāti  
-uruśáṃsāya savitar jaritré  
+अस्म꣡भ्यं त꣡द् दिवो꣡ अद्भ्यः꣡ पृथिव्या꣡स्  
+त्व꣡या दत्तं꣡ का꣡मियं रा꣡ध आ꣡ गात्  
+शं꣡ य꣡त् स्तोत्ŕ̥भ्य आप꣡ये भ꣡वाति  
+उरुशं꣡साय सवितर् जरित्रे꣡  

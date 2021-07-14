@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-átrir yád vām avaróhann r̥bī́sam  
-ájohavīn nā́dhamāneva yóṣā  
-śyenásya cij jávasā nū́tanena  
-ágachatam aśvinā śáṃtamena  
+अ꣡त्रिर् य꣡द् वाम् अवरो꣡हन्न् ऋबी꣡सम्  
+अ꣡जोहवीन् ना꣡धमानेव यो꣡षा  
+श्येन꣡स्य चिज् ज꣡वसा नू꣡तनेन  
+अ꣡गछतम् अश्विना शं꣡तमेन  

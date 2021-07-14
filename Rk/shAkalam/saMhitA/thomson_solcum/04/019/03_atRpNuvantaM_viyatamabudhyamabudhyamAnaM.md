@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-átr̥pṇuvantaṃ víyatam abudhyám  
-ábudhyamānaṃ suṣupāṇám indra  
-saptá práti praváta āśáyānam  
-áhiṃ vájreṇa ví riṇā aparván  
+अ꣡तृप्णुवन्तं वि꣡यतम् अबुध्य꣡म्  
+अ꣡बुध्यमानं सुषुपाण꣡म् इन्द्र  
+सप्त꣡ प्र꣡ति प्रव꣡त आश꣡यानम्  
+अ꣡हिं व꣡ज्रेण वि꣡ रिणा अपर्व꣡न्  

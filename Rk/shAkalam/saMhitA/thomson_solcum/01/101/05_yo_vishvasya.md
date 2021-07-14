@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yó víśvasya jágataḥ prāṇatás pátir  
-yó brahmáṇe prathamó gã́ ávindat  
-índro yó dásyūm̐r ádharām̐ avā́tiran  
-marútvantaṃ sakhiyā́ya havāmahe  
+यो꣡ वि꣡श्वस्य ज꣡गतः प्राणत꣡स् प꣡तिर्  
+यो꣡ ब्रह्म꣡णे प्रथमो꣡ ग्ã꣡ अ꣡विन्दत्  
+इ꣡न्द्रो यो꣡ द꣡स्यूँर् अ꣡धराँ अवा꣡तिरन्  
+मरु꣡त्वन्तं सखिया꣡य हवामहे  

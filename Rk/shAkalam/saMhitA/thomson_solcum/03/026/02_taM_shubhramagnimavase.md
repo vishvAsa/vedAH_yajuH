@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-táṃ śubhrám agním ávase havāmahe  
-vaiśvānarám mātaríśvānam ukthíyam  
-bŕ̥haspátim mánuṣo devátātaye  
-vípraṃ śrótāram átithiṃ raghuṣyádam  
+तं꣡ शुभ्र꣡म् अग्नि꣡म् अ꣡वसे हवामहे  
+वैश्वानर꣡म् मातरि꣡श्वानम् उक्थि꣡यम्  
+ब्ŕ̥हस्प꣡तिम् म꣡नुषो देव꣡तातये  
+वि꣡प्रं श्रो꣡तारम् अ꣡तिथिं रघुष्य꣡दम्  

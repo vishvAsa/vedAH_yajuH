@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-mā́ jásvane vr̥ṣabha no rarīthā  
-mā́ te revátaḥ sakhiyé riṣāma  
-pūrvī́ṣ ṭa indra niṣṣídho jáneṣu  
-jahí ásuṣvīn prá vr̥hā́pr̥ṇataḥ  
+मा꣡ ज꣡स्वने वृषभ नो ररीथा  
+मा꣡ ते रेव꣡तः सखिये꣡ रिषाम  
+पूर्वी꣡ष् ट इन्द्र निष्षि꣡धो ज꣡नेषु  
+जहि꣡ अ꣡सुष्वीन् प्र꣡ वृहा꣡पृणतः  

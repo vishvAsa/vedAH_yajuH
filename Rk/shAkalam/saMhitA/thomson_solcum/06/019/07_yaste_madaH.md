@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yás te mádaḥ pr̥tanāṣā́ḷ ámr̥dhra  
-índra táṃ na ā́ bhara śūśuvā́ṃsam  
-yéna tokásya tánayasya sātaú  
-maṃsīmáhi jigīvā́ṃsas tuvótāḥ  
+य꣡स् ते म꣡दः पृतनाषा꣡ऌ अ꣡मृध्र  
+इ꣡न्द्र तं꣡ न आ꣡ भर शूशुवां꣡सम्  
+ये꣡न तोक꣡स्य त꣡नयस्य सातउ꣡  
+मंसीम꣡हि जिगीवां꣡सस् तुवो꣡ताः  

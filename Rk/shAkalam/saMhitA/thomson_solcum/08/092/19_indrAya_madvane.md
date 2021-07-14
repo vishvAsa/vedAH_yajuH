@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-índrāya mádvane sutám  
-pári ṣṭobhantu no gíraḥ  
-arkám arcantu kārávaḥ  
+इ꣡न्द्राय म꣡द्वने सुत꣡म्  
+प꣡रि ष्टोभन्तु नो गि꣡रः  
+अर्क꣡म् अर्चन्तु कार꣡वः  

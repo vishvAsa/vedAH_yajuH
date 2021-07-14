@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-imám agne camasám mā́ ví jihvaraḥ  
-priyó devā́nām utá somiyā́nām  
-eṣá yáś camasó devapā́nas  
-tásmin devā́ amŕ̥tā mādayante  
+इम꣡म् अग्ने चमस꣡म् मा꣡ वि꣡ जिह्वरः  
+प्रियो꣡ देवा꣡नाम् उत꣡ सोमिया꣡नाम्  
+एष꣡ य꣡श् चमसो꣡ देवपा꣡नस्  
+त꣡स्मिन् देवा꣡ अम्ŕ̥ता मादयन्ते  

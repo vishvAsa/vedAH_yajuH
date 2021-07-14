@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ātíṣṭhantam pári víśve abhūṣañ  
-chríyo vásānaś carati svárociḥ  
-mahát tád vŕ̥ṣṇo ásurasya nā́ma  
-ā́ viśvárūpo amŕ̥tāni tasthau  
+आति꣡ष्ठन्तम् प꣡रि वि꣡श्वे अभूषञ्  
+छ्रि꣡यो व꣡सानश् चरति स्व꣡रोचिः  
+मह꣡त् त꣡द् व्ŕ̥ष्णो अ꣡सुरस्य ना꣡म  
+आ꣡ विश्व꣡रूपो अम्ŕ̥तानि तस्थौ  

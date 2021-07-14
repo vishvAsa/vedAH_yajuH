@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-nadásya mā rudhatáḥ kā́ma ā́gann  
-itá ā́jāto amútaḥ kútaś cit  
-lópāmudrā vŕ̥ṣaṇaṃ nī́ riṇāti  
-dhī́ram ádhīrā dhayati śvasántam  
+नद꣡स्य मा रुधतः꣡ का꣡म आ꣡गन्न्  
+इत꣡ आ꣡जातो अमु꣡तः कु꣡तश् चित्  
+लो꣡पामुद्रा व्ŕ̥षणं नी꣡ रिणाति  
+धी꣡रम् अ꣡धीरा धयति श्वस꣡न्तम्  

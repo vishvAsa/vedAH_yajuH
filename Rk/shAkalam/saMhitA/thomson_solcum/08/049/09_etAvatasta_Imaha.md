@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-etā́vatas ta īmaha  
-índra sumnásya gómataḥ  
-yáthā prā́vo maghavan médhiyātithiṃ  
-yáthā nī́pātithiṃ dháne  
+एता꣡वतस् त ईमह  
+इ꣡न्द्र सुम्न꣡स्य गो꣡मतः  
+य꣡था प्रा꣡वो मघवन् मे꣡धियातिथिं  
+य꣡था नी꣡पातिथिं ध꣡ने  

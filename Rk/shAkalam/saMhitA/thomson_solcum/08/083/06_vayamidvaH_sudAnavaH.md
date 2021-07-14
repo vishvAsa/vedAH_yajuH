@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-vayám íd vaḥ sudānavaḥ  
-kṣiyánto yā́nto ádhvan ā́  
-dévā vr̥dhā́ya hūmahe  
+वय꣡म् इ꣡द् वः सुदानवः  
+क्षिय꣡न्तो या꣡न्तो अ꣡ध्वन् आ꣡  
+दे꣡वा वृधा꣡य हूमहे  

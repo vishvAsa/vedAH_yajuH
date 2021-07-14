@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-tuvám ékasya vr̥trahann  
-avitā́ duváyor asi  
-utédŕ̥śe yáthā vayám  
+तुव꣡म् ए꣡कस्य वृत्रहन्न्  
+अविता꣡ दुव꣡योर् असि  
+उते꣡द्ŕ̥शे य꣡था वय꣡म्  

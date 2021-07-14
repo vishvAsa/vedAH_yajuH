@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-nír indra bhū́miyā ádhi  
-vr̥tráṃ jaghantha nír diváḥ  
-sr̥jā́ marútvatīr áva  
-jīvádhanyā imā́ apó  
-árcann ánu svarā́jiyam  
+नि꣡र् इन्द्र भू꣡मिया अ꣡धि  
+वृत्रं꣡ जघन्थ नि꣡र् दिवः꣡  
+सृजा꣡ मरु꣡त्वतीर् अ꣡व  
+जीव꣡धन्या इमा꣡ अपो꣡  
+अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्  

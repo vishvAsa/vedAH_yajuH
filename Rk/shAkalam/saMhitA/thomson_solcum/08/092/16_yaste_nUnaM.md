@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-yás te nūnáṃ śatakratav  
-índra dyumnítamo mádaḥ  
-téna nūnám máde madeḥ  
+य꣡स् ते नूनं꣡ शतक्रतव्  
+इ꣡न्द्र द्युम्नि꣡तमो म꣡दः  
+ते꣡न नून꣡म् म꣡दे मदेः  

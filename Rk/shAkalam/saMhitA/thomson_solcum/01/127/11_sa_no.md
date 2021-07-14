@@ -2,10 +2,10 @@
 title = "011"
 
 +++
-sá no nédiṣṭhaṃ dádr̥śāna ā́ bhara  
-ágne devébhiḥ sácanāḥ sucetúnā  
-mahó rāyáḥ sucetúnā  
-máhi śaviṣṭha nas kr̥dhi  
-saṃcákṣe bhujé asyaí  
-máhi stotŕ̥bhyo maghavan suvī́riyam  
-máthīr ugró ná śávasā  
+स꣡ नो ने꣡दिष्ठं द꣡दृशान आ꣡ भर  
+अ꣡ग्ने देवे꣡भिः स꣡चनाः सुचेतु꣡ना  
+महो꣡ रायः꣡ सुचेतु꣡ना  
+म꣡हि शविष्ठ नस् कृधि  
+संच꣡क्षे भुजे꣡ अस्यइ꣡  
+म꣡हि स्तोत्ŕ̥भ्यो मघवन् सुवी꣡रियम्  
+म꣡थीर् उग्रो꣡ न꣡ श꣡वसा  

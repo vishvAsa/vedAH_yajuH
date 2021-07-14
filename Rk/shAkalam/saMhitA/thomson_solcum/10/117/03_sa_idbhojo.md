@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá íd bhojó yó gr̥háve dádāti  
-ánnakāmāya cárate kr̥śā́ya  
-áram asmai bhavati yā́mahūtā  
-utā́parī́ṣu kr̥ṇute sákhāyam  
+स꣡ इ꣡द् भोजो꣡ यो꣡ गृह꣡वे द꣡दाति  
+अ꣡न्नकामाय च꣡रते कृशा꣡य  
+अ꣡रम् अस्मै भवति या꣡महूता  
+उता꣡परी꣡षु कृणुते स꣡खायम्  

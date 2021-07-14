@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-táṃ ghem itthā́ namasvína  
-úpa svarā́jam āsate  
-hótrābhir agním mánuṣaḥ sám indhate  
-titirvā́ṃso áti srídhaḥ  
+तं꣡ घेम् इत्था꣡ नमस्वि꣡न  
+उ꣡प स्वरा꣡जम् आसते  
+हो꣡त्राभिर् अग्नि꣡म् म꣡नुषः स꣡म् इन्धते  
+तितिर्वां꣡सो अ꣡ति स्रि꣡धः  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-āraṅgaréva mádhu érayethe  
-sāraghéva gávi nīcī́nabāre  
-kīnā́reva svédam āsiṣvidānā́  
-kṣā́mevorjā́ sūyavasā́t sacethe  
+आरङ्गरे꣡व म꣡धु ए꣡रयेथे  
+सारघे꣡व ग꣡वि नीची꣡नबारे  
+कीना꣡रेव स्वे꣡दम् आसिष्विदाना꣡  
+क्षा꣡मेवोर्जा꣡ सूयवसा꣡त् सचेथे  

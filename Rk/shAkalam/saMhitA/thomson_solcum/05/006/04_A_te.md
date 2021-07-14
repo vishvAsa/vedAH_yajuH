@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-ā́ te agna idhīmahi  
-dyumántaṃ deva ajáram  
-yád dha syā́ te pánīyasī  
-samíd dīdáyati dyávi  
-íṣaṃ stotŕ̥bhya ā́ bhara  
+आ꣡ ते अग्न इधीमहि  
+द्युम꣡न्तं देव अज꣡रम्  
+य꣡द् ध स्या꣡ ते प꣡नीयसी  
+समि꣡द् दीद꣡यति द्य꣡वि  
+इ꣡षं स्तोत्ŕ̥भ्य आ꣡ भर  

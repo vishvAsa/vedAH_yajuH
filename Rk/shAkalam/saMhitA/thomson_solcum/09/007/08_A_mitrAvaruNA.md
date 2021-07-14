@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-ā́ mitrā́váruṇā bhágam  
-mádhvaḥ pavanta ūrmáyaḥ  
-vidānā́ asya śákmabhiḥ  
+आ꣡ मित्रा꣡व꣡रुणा भ꣡गम्  
+म꣡ध्वः पवन्त ऊर्म꣡यः  
+विदाना꣡ अस्य श꣡क्मभिः  

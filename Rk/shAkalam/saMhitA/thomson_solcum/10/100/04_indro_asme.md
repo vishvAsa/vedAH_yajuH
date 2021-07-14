@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-índro asmé sumánā astu viśváhā  
-rā́jā sómaḥ suvitásyā́dhi etu naḥ  
-yáthā-yathā mitrádhitāni saṃdadhúr  
-ā́ sarvátātim áditiṃ vr̥ṇīmahe  
+इ꣡न्द्रो अस्मे꣡ सुम꣡ना अस्तु विश्व꣡हा  
+रा꣡जा सो꣡मः सुवित꣡स्या꣡धि एतु नः  
+य꣡था-यथा मित्र꣡धितानि संदधु꣡र्  
+आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे  

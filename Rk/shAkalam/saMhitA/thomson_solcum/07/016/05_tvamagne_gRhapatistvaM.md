@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tuvám agne gr̥hápatis  
-tuváṃ hótā no adhvaré  
-tuvám pótā viśvavāra prácetā  
-yákṣi véṣi ca vā́riyam  
+तुव꣡म् अग्ने गृह꣡पतिस्  
+तुवं꣡ हो꣡ता नो अध्वरे꣡  
+तुव꣡म् पो꣡ता विश्ववार प्र꣡चेता  
+य꣡क्षि वे꣡षि च वा꣡रियम्  

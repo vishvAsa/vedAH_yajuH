@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-sá tvāmadad vŕ̥ṣā mádaḥ  
-sómaḥ śyenā́bhr̥taḥ sutáḥ  
-yénā vr̥tráṃ nír adbhiyó  
-jaghántha vajrin ójasā  
-árcann ánu svarā́jiyam  
+स꣡ त्वामदद् व्ŕ̥षा म꣡दः  
+सो꣡मः श्येना꣡भृतः सुतः꣡  
+ये꣡ना वृत्रं꣡ नि꣡र् अद्भियो꣡  
+जघ꣡न्थ वज्रिन् ओ꣡जसा  
+अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्  

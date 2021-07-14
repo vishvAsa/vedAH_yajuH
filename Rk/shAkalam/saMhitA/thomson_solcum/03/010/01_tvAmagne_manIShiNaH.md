@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-tuvā́m agne manīṣíṇaḥ  
-samrā́jaṃ carṣaṇīnã́m  
-devám mártāsa indhate sám adhvaré  
+तुवा꣡म् अग्ने मनीषि꣡णः  
+सम्रा꣡जं चर्षणीन्ã꣡म्  
+देव꣡म् म꣡र्तास इन्धते स꣡म् अध्वरे꣡  

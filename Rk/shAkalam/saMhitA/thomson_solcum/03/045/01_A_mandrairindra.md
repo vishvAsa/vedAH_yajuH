@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ mandraír indra háribhir  
-yāhí mayū́raromabhiḥ  
-mā́ tvā ké cin ní yaman víṃ nā́ pāśíno  
-áti dhánveva tā́m̐ ihi  
+आ꣡ मन्द्रइ꣡र् इन्द्र ह꣡रिभिर्  
+याहि꣡ मयू꣡ररोमभिः  
+मा꣡ त्वा के꣡ चिन् नि꣡ यमन् विं꣡ ना꣡ पाशि꣡नो  
+अ꣡ति ध꣡न्वेव ताँ꣡ इहि  

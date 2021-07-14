@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-eṣá purū́ dhiyāyate  
-br̥haté devátātaye  
-yátrāmŕ̥tāsa ā́sate  
+एष꣡ पुरू꣡ धियायते  
+बृहते꣡ देव꣡तातये  
+य꣡त्राम्ŕ̥तास आ꣡सते  

@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yáḥ sunvántam ávati yáḥ pácantaṃ  
-yáḥ śáṃsantaṃ yáḥ śaśamānám ūtī́  
-yásya bráhma várdhanaṃ yásya sómo  
-yásyedáṃ rā́dhaḥ sá janāsa índraḥ  
+यः꣡ सुन्व꣡न्तम् अ꣡वति यः꣡ प꣡चन्तं  
+यः꣡ शं꣡सन्तं यः꣡ शशमान꣡म् ऊती꣡  
+य꣡स्य ब्र꣡ह्म व꣡र्धनं य꣡स्य सो꣡मो  
+य꣡स्येदं꣡ रा꣡धः स꣡ जनास इ꣡न्द्रः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sahásradhāre áva té sám asvaran  
-divó nā́ke mádhujihvā asaścátaḥ  
-ásya spáśo ná ní miṣanti bhū́rṇayaḥ  
-padé-pade pāśínaḥ santi sétavaḥ  
+सह꣡स्रधारे अ꣡व ते꣡ स꣡म् अस्वरन्  
+दिवो꣡ ना꣡के म꣡धुजिह्वा असश्च꣡तः  
+अ꣡स्य स्प꣡शो न꣡ नि꣡ मिषन्ति भू꣡र्णयः  
+पदे꣡-पदे पाशि꣡नः सन्ति से꣡तवः  

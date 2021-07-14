@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ā́ tvā viśantu āśávaḥ  
-sómāsa indra girvaṇaḥ  
-śáṃ te santu prácetase  
+आ꣡ त्वा विशन्तु आश꣡वः  
+सो꣡मास इन्द्र गिर्वणः  
+शं꣡ ते सन्तु प्र꣡चेतसे  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-kó asya śúṣmaṃ táviṣīṃ varāta  
-éko dhánā bharate ápratītaḥ  
-imé cid asya jráyaso nú devī́  
-índrasyaújaso bhiyásā jihāte  
+को꣡ अस्य शु꣡ष्मं त꣡विषीं वरात  
+ए꣡को ध꣡ना भरते अ꣡प्रतीतः  
+इमे꣡ चिद् अस्य ज्र꣡यसो नु꣡ देवी꣡  
+इ꣡न्द्रस्यउ꣡जसो भिय꣡सा जिहाते  

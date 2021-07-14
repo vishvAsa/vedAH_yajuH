@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-triviṣṭidhā́tu pratimā́nam ójasas  
-tisró bhū́mīr nr̥pate trī́ṇi rocanā́  
-átīdáṃ víśvam bhúvanaṃ vavakṣitha  
-aśatrúr indra janúṣā sanā́d asi  
+त्रिविष्टिधा꣡तु प्रतिमा꣡नम् ओ꣡जसस्  
+तिस्रो꣡ भू꣡मीर् नृपते त्री꣡णि रोचना꣡  
+अ꣡तीदं꣡ वि꣡श्वम् भु꣡वनं ववक्षिथ  
+अशत्रु꣡र् इन्द्र जनु꣡षा सना꣡द् असि  

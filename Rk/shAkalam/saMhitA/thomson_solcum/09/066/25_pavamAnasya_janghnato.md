@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-pávamānasya jáṅghnato  
-háreś candrā́ asr̥kṣata  
-jīrā́ ajiráśociṣaḥ  
+प꣡वमानस्य ज꣡ङ्घ्नतो  
+ह꣡रेश् चन्द्रा꣡ असृक्षत  
+जीरा꣡ अजिर꣡शोचिषः  

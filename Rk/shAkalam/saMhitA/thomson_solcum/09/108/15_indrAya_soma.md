@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-índrāya soma pā́tave  
-nŕ̥bhir yatáḥ suāyudhó madíntamaḥ  
-pávasva mádhumattamaḥ  
+इ꣡न्द्राय सोम पा꣡तवे  
+न्ŕ̥भिर् यतः꣡ सुआयुधो꣡ मदि꣡न्तमः  
+प꣡वस्व म꣡धुमत्तमः  

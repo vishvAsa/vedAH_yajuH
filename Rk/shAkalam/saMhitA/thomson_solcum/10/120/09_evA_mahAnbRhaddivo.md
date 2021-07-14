@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-evā́ mahā́n br̥háddivo átharvā  
-ávocat svā́ṃ tanúvam índram evá  
-svásāro mātaríbhvarīr ariprā́  
-hinvánti ca śávasā vardháyanti ca  
+एवा꣡ महा꣡न् बृह꣡द्दिवो अ꣡थर्वा  
+अ꣡वोचत् स्वां꣡ तनु꣡वम् इ꣡न्द्रम् एव꣡  
+स्व꣡सारो मातरि꣡भ्वरीर् अरिप्रा꣡  
+हिन्व꣡न्ति च श꣡वसा वर्ध꣡यन्ति च  

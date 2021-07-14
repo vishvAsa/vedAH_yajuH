@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-máyo dadhe médhiraḥ pūtádakṣo  
-diváḥ subándhur janúṣā pr̥thivyā́ḥ  
-ávindann u darśatám apsú antár  
-devā́so agním apási svásr̥̄ṇām  
+म꣡यो दधे मे꣡धिरः पूत꣡दक्षो  
+दिवः꣡ सुब꣡न्धुर् जनु꣡षा पृथिव्याः꣡  
+अ꣡विन्दन्न् उ दर्शत꣡म् अप्सु꣡ अन्त꣡र्  
+देवा꣡सो अग्नि꣡म् अप꣡सि स्व꣡सॄणाम्  

@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-vr̥kṣā́ś cin me abhipitvé arāraṇuḥ  
-gã́m bhajanta mehánā  
-áśvam bhajanta mehánā  
+वृक्षा꣡श् चिन् मे अभिपित्वे꣡ अरारणुः  
+ग्ã꣡म् भजन्त मेह꣡ना  
+अ꣡श्वम् भजन्त मेह꣡ना  

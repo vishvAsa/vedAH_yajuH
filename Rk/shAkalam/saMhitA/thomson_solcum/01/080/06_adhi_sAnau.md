@@ -2,8 +2,8 @@
 title = "006"
 
 +++
-ádhi sā́nau ní jighnate  
-vájreṇa śatáparvaṇā  
-mandāná índro ándhasaḥ  
-sákhibhyo gātúm ichati  
-árcann ánu svarā́jiyam  
+अ꣡धि सा꣡नौ नि꣡ जिघ्नते  
+व꣡ज्रेण शत꣡पर्वणा  
+मन्दान꣡ इ꣡न्द्रो अ꣡न्धसः  
+स꣡खिभ्यो गातु꣡म् इछति  
+अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्  

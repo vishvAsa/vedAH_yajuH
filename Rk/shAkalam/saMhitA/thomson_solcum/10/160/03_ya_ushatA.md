@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yá uśatā́ mánasā sómam asmai  
-sarvahr̥dā́ devákāmaḥ sunóti  
-ná gā́ índras tásya párā dadāti  
-praśastám íc cā́rum asmai kr̥ṇoti  
+य꣡ उशता꣡ म꣡नसा सो꣡मम् अस्मै  
+सर्वहृदा꣡ देव꣡कामः सुनो꣡ति  
+न꣡ गा꣡ इ꣡न्द्रस् त꣡स्य प꣡रा ददाति  
+प्रशस्त꣡म् इ꣡च् चा꣡रुम् अस्मै कृणोति  

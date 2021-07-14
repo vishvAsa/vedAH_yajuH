@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-yác cid dhí satya somapā  
-anāśastā́ iva smási  
-ā́ tū́ na indra śaṃsaya  
-góṣu áśveṣu śubhríṣu  
-sahásreṣu tuvīmagha  
+य꣡च् चिद् धि꣡ सत्य सोमपा  
+अनाशस्ता꣡ इव स्म꣡सि  
+आ꣡ तू꣡ न इन्द्र शंसय  
+गो꣡षु अ꣡श्वेषु शुभ्रि꣡षु  
+सह꣡स्रेषु तुवीमघ  

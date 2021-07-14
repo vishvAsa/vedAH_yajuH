@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-stómaṃ ta indra vimadā́ ajījanann  
-ápūrviyam purutámaṃ sudā́nave  
-vidmā́ hí asya bhójanam inásya  
-yád ā́ paśúṃ ná gopã́ḥ karāmahe  
+स्तो꣡मं त इन्द्र विमदा꣡ अजीजनन्न्  
+अ꣡पूर्वियम् पुरुत꣡मं सुदा꣡नवे  
+विद्मा꣡ हि꣡ अस्य भो꣡जनम् इन꣡स्य  
+य꣡द् आ꣡ पशुं꣡ न꣡ गोप्ãः꣡ करामहे  

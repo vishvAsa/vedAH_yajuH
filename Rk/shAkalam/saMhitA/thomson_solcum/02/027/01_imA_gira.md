@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imā́ gíra ādityébhyo ghr̥tásnūḥ  
-sanā́d rā́jabhyo juhúvā juhomi  
-śr̥ṇótu mitró aryamā́ bhágo nas  
-tuvijātó váruṇo dákṣo áṃśaḥ  
+इमा꣡ गि꣡र आदित्ये꣡भ्यो घृत꣡स्नूः  
+सना꣡द् रा꣡जभ्यो जुहु꣡वा जुहोमि  
+शृणो꣡तु मित्रो꣡ अर्यमा꣡ भ꣡गो नस्  
+तुविजातो꣡ व꣡रुणो द꣡क्षो अं꣡शः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-bhadrā́ áśvā harítaḥ sū́riyasya  
-citrā́ étagvā anumā́diyāsaḥ  
-namasyánto divá ā́ pr̥ṣṭhám asthuḥ  
-pári dyā́vāpr̥thivī́ yanti sadyáḥ  
+भद्रा꣡ अ꣡श्वा हरि꣡तः सू꣡रियस्य  
+चित्रा꣡ ए꣡तग्वा अनुमा꣡दियासः  
+नमस्य꣡न्तो दिव꣡ आ꣡ पृष्ठ꣡म् अस्थुः  
+प꣡रि द्या꣡वापृथिवी꣡ यन्ति सद्यः꣡  

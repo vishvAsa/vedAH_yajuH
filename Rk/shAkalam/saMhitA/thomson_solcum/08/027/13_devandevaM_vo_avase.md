@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-deváṃ-devaṃ vo ávase  
-deváṃ-devam abhíṣṭaye  
-deváṃ-devaṃ huvema vā́jasātaye  
-gr̥ṇánto deviyā́ dhiyā́  
+देवं꣡-देवं वो अ꣡वसे  
+देवं꣡-देवम् अभि꣡ष्टये  
+देवं꣡-देवं हुवेम वा꣡जसातये  
+गृण꣡न्तो देविया꣡ धिया꣡  

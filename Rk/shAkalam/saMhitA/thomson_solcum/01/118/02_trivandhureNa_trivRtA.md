@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-trivandhuréṇa trivŕ̥tā ráthena  
-tricakréṇa suvŕ̥tā́ yātam arvā́k  
-pínvataṃ gā́ jínvatam árvato no  
-vardháyatam aśvinā vīrám asmé  
+त्रिवन्धुरे꣡ण त्रिव्ŕ̥ता र꣡थेन  
+त्रिचक्रे꣡ण सुव्ŕ̥ता꣡ यातम् अर्वा꣡क्  
+पि꣡न्वतं गा꣡ जि꣡न्वतम् अ꣡र्वतो नो  
+वर्ध꣡यतम् अश्विना वीर꣡म् अस्मे꣡  

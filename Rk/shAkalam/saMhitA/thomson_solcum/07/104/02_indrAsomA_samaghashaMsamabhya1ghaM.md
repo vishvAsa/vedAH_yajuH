@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-índrāsomā sám agháśaṃsam abhy àgháṃ  
-tápur yayastu carúr agnivā́m̐ iva  
-brahmadvíṣe kravyā́de ghorácakṣase  
-dvéṣo dhattam anavāyáṃ kimīdíne  
+इ꣡न्द्रासोमा स꣡म् अघ꣡शंसम् अभ्य् अ᳡घं꣡  
+त꣡पुर् ययस्तु चरु꣡र् अग्निवाँ꣡ इव  
+ब्रह्मद्वि꣡षे क्रव्या꣡दे घोर꣡चक्षसे  
+द्वे꣡षो धत्तम् अनवायं꣡ किमीदि꣡ने  

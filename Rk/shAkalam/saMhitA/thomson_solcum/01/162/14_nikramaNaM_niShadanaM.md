@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-nikrámaṇaṃ niṣádanaṃ vivártanaṃ  
-yác ca páḍbīśam árvataḥ  
-yác ca papaú yác ca ghāsíṃ jaghā́sa  
-sárvā tā́ te ápi devéṣu astu  
+निक्र꣡मणं निष꣡दनं विव꣡र्तनं  
+य꣡च् च प꣡ड्बीशम् अ꣡र्वतः  
+य꣡च् च पपउ꣡ य꣡च् च घासिं꣡ जघा꣡स  
+स꣡र्वा ता꣡ ते अ꣡पि देवे꣡षु अस्तु  

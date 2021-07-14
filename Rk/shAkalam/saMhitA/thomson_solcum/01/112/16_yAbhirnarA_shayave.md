@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-yā́bhir narā śayáve yā́bhir átraye  
-yā́bhiḥ purā́ mánave gātúm īṣáthuḥ  
-yā́bhiḥ śā́rīr ā́jataṃ syū́maraśmaye  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिर् नरा शय꣡वे या꣡भिर् अ꣡त्रये  
+या꣡भिः पुरा꣡ म꣡नवे गातु꣡म् ईष꣡थुः  
+या꣡भिः शा꣡रीर् आ꣡जतं स्यू꣡मरश्मये  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

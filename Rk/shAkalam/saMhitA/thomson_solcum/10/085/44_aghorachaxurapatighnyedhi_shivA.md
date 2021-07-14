@@ -2,7 +2,7 @@
 title = "044"
 
 +++
-ághoracakṣur ápatighnī edhi  
-śivā́ paśúbhyaḥ sumánāḥ suvárcāḥ  
-vīrasū́r · devákāmā siyonā́  
-śáṃ no bhava dvipáde śáṃ cátuṣpade  
+अ꣡घोरचक्षुर् अ꣡पतिघ्नी एधि  
+शिवा꣡ पशु꣡भ्यः सुम꣡नाः सुव꣡र्चाः  
+वीरसू꣡र् · देव꣡कामा सियोना꣡  
+शं꣡ नो भव द्विप꣡दे शं꣡ च꣡तुष्पदे  

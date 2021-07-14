@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yujānó áśvā vã́tasya dhúnī  
-devó devásya vajrivaḥ  
-syántā pathā́ virúkmatā  
-sr̥jāná stoṣi ádhvanaḥ  
+युजानो꣡ अ꣡श्वा व्ã꣡तस्य धु꣡नी  
+देवो꣡ देव꣡स्य वज्रिवः  
+स्य꣡न्ता पथा꣡ विरु꣡क्मता  
+सृजान꣡ स्तोषि अ꣡ध्वनः  

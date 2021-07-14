@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá te 'radad váruṇo yā́tave patháḥ  
-síndho yád vā́jām̐ abhí ádravas tuvám  
-bhū́myā ádhi pravátā yāsi sā́nunā  
-yád eṣām ágraṃ jágatām irajyási  
+प्र꣡ ते ऽरदद् व꣡रुणो या꣡तवे पथः꣡  
+सि꣡न्धो य꣡द् वा꣡जाँ अभि꣡ अ꣡द्रवस् तुव꣡म्  
+भू꣡म्या अ꣡धि प्रव꣡ता यासि सा꣡नुना  
+य꣡द् एषाम् अ꣡ग्रं ज꣡गताम् इरज्य꣡सि  

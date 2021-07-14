@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-prá gāyatréṇa gāyata  
-pávamānaṃ vícarṣaṇim  
-índuṃ sahásracakṣasam  
+प्र꣡ गायत्रे꣡ण गायत  
+प꣡वमानं वि꣡चर्षणिम्  
+इ꣡न्दुं सह꣡स्रचक्षसम्  

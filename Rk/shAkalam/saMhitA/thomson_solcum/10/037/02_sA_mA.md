@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sā́ mā satyóktiḥ pári pātu viśváto  
-dyā́vā ca yátra tatánann áhāni ca  
-víśvam anyán ní viśate yád éjati  
-viśvā́hā́po viśvā́hód eti sū́riyaḥ  
+सा꣡ मा सत्यो꣡क्तिः प꣡रि पातु विश्व꣡तो  
+द्या꣡वा च य꣡त्र तत꣡नन्न् अ꣡हानि च  
+वि꣡श्वम् अन्य꣡न् नि꣡ विशते य꣡द् ए꣡जति  
+विश्वा꣡हा꣡पो विश्वा꣡हो꣡द् एति सू꣡रियः  

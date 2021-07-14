@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-īḷéniyaḥ pávamāno  
-rayír ví rājati dyumā́n  
-mádhor dhā́rābhir ójasā  
+ईऌए꣡नियः प꣡वमानो  
+रयि꣡र् वि꣡ राजति द्युमा꣡न्  
+म꣡धोर् धा꣡राभिर् ओ꣡जसा  

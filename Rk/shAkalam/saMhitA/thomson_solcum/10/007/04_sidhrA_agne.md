@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sidhrā́ agne dhíyo asmé sánutrīr  
-yáṃ trā́yase dáma ā́ nítyahotā  
-r̥tā́vā sá rohídaśvaḥ purukṣúr  
-dyúbhir asmā áhabhir vāmám astu  
+सिध्रा꣡ अग्ने धि꣡यो अस्मे꣡ स꣡नुत्रीर्  
+यं꣡ त्रा꣡यसे द꣡म आ꣡ नि꣡त्यहोता  
+ऋता꣡वा स꣡ रोहि꣡दश्वः पुरुक्षु꣡र्  
+द्यु꣡भिर् अस्मा अ꣡हभिर् वाम꣡म् अस्तु  

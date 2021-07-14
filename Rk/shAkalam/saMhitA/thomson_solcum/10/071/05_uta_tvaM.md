@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-utá tvaṃ sakhyé sthirápītam āhur  
-naínaṃ hinvanti ápi vā́jineṣu  
-ádhenuvā carati māyáyaiṣá  
-vā́caṃ śuśruvā́m̐ aphalā́m apuṣpā́m  
+उत꣡ त्वं सख्ये꣡ स्थिर꣡पीतम् आहुर्  
+नइ꣡नं हिन्वन्ति अ꣡पि वा꣡जिनेषु  
+अ꣡धेनुवा चरति माय꣡यैष꣡  
+वा꣡चं शुश्रुवाँ꣡ अफला꣡म् अपुष्पा꣡म्  

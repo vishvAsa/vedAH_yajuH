@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-imā́ te vājinn avamā́rjanāni  
-imā́ śaphā́nāṃ sanitúr nidhā́nā  
-átrā te bhadrā́ raśanā́ apaśyam  
-r̥tásya yā́ abhirákṣanti gopā́ḥ  
+इमा꣡ ते वाजिन्न् अवमा꣡र्जनानि  
+इमा꣡ शफा꣡नां सनितु꣡र् निधा꣡ना  
+अ꣡त्रा ते भद्रा꣡ रशना꣡ अपश्यम्  
+ऋत꣡स्य या꣡ अभिर꣡क्षन्ति गोपाः꣡  

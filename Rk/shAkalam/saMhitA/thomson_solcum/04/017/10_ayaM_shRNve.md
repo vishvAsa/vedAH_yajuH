@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ayáṃ śr̥ṇve ádha jáyann utá ghnánn  
-ayám utá prá kr̥ṇute yudhā́ gā́ḥ  
-yadā́ satyáṃ kr̥ṇuté manyúm índro  
-víśvaṃ dr̥̄ḷhám+ bhayata éjad asmāt  
+अयं꣡ शृण्वे अ꣡ध ज꣡यन्न् उत꣡ घ्न꣡न्न्  
+अय꣡म् उत꣡ प्र꣡ कृणुते युधा꣡ गाः꣡  
+यदा꣡ सत्यं꣡ कृणुते꣡ मन्यु꣡म् इ꣡न्द्रो  
+वि꣡श्वं दॄऌह꣡म्+ भयत ए꣡जद् अस्मात्  

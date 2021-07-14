@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-duvā́daśa dyū́n yád ágohiyasya  
-atithyé ráṇann r̥bhávaḥ sasántaḥ  
-sukṣétrākr̥ṇvann ánayanta síndhūn  
-dhánvā́tiṣṭhann óṣadhīr nimnám ā́paḥ  
+दुवा꣡दश द्यू꣡न् य꣡द् अ꣡गोहियस्य  
+अतिथ्ये꣡ र꣡णन्न् ऋभ꣡वः सस꣡न्तः  
+सुक्षे꣡त्राकृण्वन्न् अ꣡नयन्त सि꣡न्धून्  
+ध꣡न्वा꣡तिष्ठन्न् ओ꣡षधीर् निम्न꣡म् आ꣡पः  

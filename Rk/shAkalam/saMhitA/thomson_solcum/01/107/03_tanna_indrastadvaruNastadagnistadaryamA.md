@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tán na índras tád váruṇas tád agnís  
-tád aryamā́ tát savitā́ cáno dhāt  
-tán no mitró váruṇo māmahantām  
-áditiḥ síndhuḥ pr̥thivī́ utá dyaúḥ  
+त꣡न् न इ꣡न्द्रस् त꣡द् व꣡रुणस् त꣡द् अग्नि꣡स्  
+त꣡द् अर्यमा꣡ त꣡त् सविता꣡ च꣡नो धात्  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡  

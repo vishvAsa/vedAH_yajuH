@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-adhvaryúbhiḥ pañcábhiḥ saptá víprāḥ  
-priyáṃ rakṣante níhitam padáṃ véḥ  
-prā́ñco madanti ukṣáṇo ajuryā́  
-devā́ devā́nām ánu hí vratā́ gúḥ  
+अध्वर्यु꣡भिः पञ्च꣡भिः सप्त꣡ वि꣡प्राः  
+प्रियं꣡ रक्षन्ते नि꣡हितम् पदं꣡ वेः꣡  
+प्रा꣡ञ्चो मदन्ति उक्ष꣡णो अजुर्या꣡  
+देवा꣡ देवा꣡नाम् अ꣡नु हि꣡ व्रता꣡ गुः꣡  

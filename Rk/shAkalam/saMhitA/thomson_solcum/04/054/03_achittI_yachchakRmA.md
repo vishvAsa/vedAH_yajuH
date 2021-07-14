@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ácittī yác cakr̥mā́ daíviye jáne  
-dīnaír dákṣaiḥ prábhūtī pūruṣatvátā  
-devéṣu ca savitar mā́nuṣeṣu ca  
-tuváṃ no átra suvatād ánāgasaḥ  
+अ꣡चित्ती य꣡च् चकृमा꣡ दइ꣡विये ज꣡ने  
+दीनइ꣡र् द꣡क्षैः प्र꣡भूती पूरुषत्व꣡ता  
+देवे꣡षु च सवितर् मा꣡नुषेषु च  
+तुवं꣡ नो अ꣡त्र सुवताद् अ꣡नागसः  

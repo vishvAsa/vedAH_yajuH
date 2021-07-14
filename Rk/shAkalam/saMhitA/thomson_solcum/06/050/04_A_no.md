@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ no rudrásya sūnávo namantām  
-adyā́ hūtā́so vásavo ádhr̥ṣṭāḥ  
-yád īm árbhe mahatí vā hitā́so  
-bādhé marúto áhuvāma devā́n  
+आ꣡ नो रुद्र꣡स्य सून꣡वो नमन्ताम्  
+अद्या꣡ हूता꣡सो व꣡सवो अ꣡धृष्टाः  
+य꣡द् ईम् अ꣡र्भे महति꣡ वा हिता꣡सो  
+बाधे꣡ मरु꣡तो अ꣡हुवाम देवा꣡न्  

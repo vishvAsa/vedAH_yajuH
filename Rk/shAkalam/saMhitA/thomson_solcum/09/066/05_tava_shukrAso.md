@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-táva śukrā́so arcáyo  
-divás pr̥ṣṭhé ví tanvate  
-pavítraṃ soma dhā́mabhiḥ  
+त꣡व शुक्रा꣡सो अर्च꣡यो  
+दिव꣡स् पृष्ठे꣡ वि꣡ तन्वते  
+पवि꣡त्रं सोम धा꣡मभिः  

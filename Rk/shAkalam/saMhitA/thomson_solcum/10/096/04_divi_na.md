@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-diví ná ketúr ádhi dhāyi haryató  
-vivyácad vájro hárito ná ráṃhiyā  
-tudád áhiṃ háriśipro yá āyasáḥ  
-sahásraśokā abhavad dharimbharáḥ  
+दिवि꣡ न꣡ केतु꣡र् अ꣡धि धायि हर्यतो꣡  
+विव्य꣡चद् व꣡ज्रो ह꣡रितो न꣡ रं꣡हिया  
+तुद꣡द् अ꣡हिं ह꣡रिशिप्रो य꣡ आयसः꣡  
+सह꣡स्रशोका अभवद् धरिम्भरः꣡  

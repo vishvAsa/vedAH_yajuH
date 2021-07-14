@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-úd ū ṣú ṇo vaso mahé  
-mr̥śásva śūra rā́dhase  
-úd ū ṣú mahyaí maghavan magháttaya  
-úd indra śrávase mahé  
+उ꣡द् ऊ षु꣡ णो वसो महे꣡  
+मृश꣡स्व शूर रा꣡धसे  
+उ꣡द् ऊ षु꣡ मह्यइ꣡ मघवन् मघ꣡त्तय  
+उ꣡द् इन्द्र श्र꣡वसे महे꣡  

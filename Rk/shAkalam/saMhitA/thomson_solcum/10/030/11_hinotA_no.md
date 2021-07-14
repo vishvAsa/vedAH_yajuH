@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-hinótā no adhvaráṃ devayajyā́  
-hinóta bráhma sanáye dhánānām  
-r̥tásya yóge ví ṣiyadhvam ū́dhaḥ  
-śruṣṭīvárīr bhūtanāsmábhyam āpaḥ  
+हिनो꣡ता नो अध्वरं꣡ देवयज्या꣡  
+हिनो꣡त ब्र꣡ह्म सन꣡ये ध꣡नानाम्  
+ऋत꣡स्य यो꣡गे वि꣡ षियध्वम् ऊ꣡धः  
+श्रुष्टीव꣡रीर् भूतनास्म꣡भ्यम् आपः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-rayír ná yáḥ pitr̥vittó vayodhā́ḥ  
-supráṇītiś cikitúṣo ná śā́suḥ  
-siyonaśī́r átithir ná priṇānó°  
-hóteva sádma vidható ví tārīt  
+रयि꣡र् न꣡ यः꣡ पितृवित्तो꣡ वयोधाः꣡  
+सुप्र꣡णीतिश् चिकितु꣡षो न꣡ शा꣡सुः  
+सियोनशी꣡र् अ꣡तिथिर् न꣡ प्रिणानो꣡°  
+हो꣡तेव स꣡द्म विधतो꣡ वि꣡ तारीत्  

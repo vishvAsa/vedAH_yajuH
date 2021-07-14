@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-nīcā́vayā abhavad vr̥tráputrā  
-índro asyā áva vádhar jabhāra  
-úttarā sū́r ádharaḥ putrá āsīd  
-dā́nuḥ śaye sahávatsā ná dhenúḥ  
+नीचा꣡वया अभवद् वृत्र꣡पुत्रा  
+इ꣡न्द्रो अस्या अ꣡व व꣡धर् जभार  
+उ꣡त्तरा सू꣡र् अ꣡धरः पुत्र꣡ आसीद्  
+दा꣡नुः शये सह꣡वत्सा न꣡ धेनुः꣡  

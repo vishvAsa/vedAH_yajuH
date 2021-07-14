@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ā́ indra yāhi pītáye  
-mádhu śaviṣṭha somiyám  
-nā́yám áchā maghávā śr̥ṇávad gíro  
-bráhma ukthā́ ca sukrátuḥ  
+आ꣡ इन्द्र याहि पीत꣡ये  
+म꣡धु शविष्ठ सोमिय꣡म्  
+ना꣡य꣡म् अ꣡छा मघ꣡वा शृण꣡वद् गि꣡रो  
+ब्र꣡ह्म उक्था꣡ च सुक्र꣡तुः  

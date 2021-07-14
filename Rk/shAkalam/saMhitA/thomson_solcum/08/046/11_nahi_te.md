@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-nahí te śūra rā́dhaso  
-ántaṃ vindā́mi satrā́  
-daśasyā́ no maghavan nū́ cid adrivo  
-dhíyo vā́jebhir āvitha  
+नहि꣡ ते शूर रा꣡धसो  
+अ꣡न्तं विन्दा꣡मि सत्रा꣡  
+दशस्या꣡ नो मघवन् नू꣡ चिद् अद्रिवो  
+धि꣡यो वा꣡जेभिर् आविथ  

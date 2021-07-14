@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-nahí te kṣatráṃ ná sáho ná manyúṃ  
-váyaś canā́mī́ patáyanta āpúḥ  
-némā́ ā́po animiṣáṃ cárantīr  
-ná yé vā́tasya praminánti ábhvam  
+नहि꣡ ते क्षत्रं꣡ न꣡ स꣡हो न꣡ मन्युं꣡  
+व꣡यश् चना꣡मी꣡ पत꣡यन्त आपुः꣡  
+ने꣡मा꣡ आ꣡पो अनिमिषं꣡ च꣡रन्तीर्  
+न꣡ ये꣡ वा꣡तस्य प्रमिन꣡न्ति अ꣡भ्वम्  

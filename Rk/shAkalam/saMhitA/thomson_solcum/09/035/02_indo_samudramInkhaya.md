@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-índo samudramīṅkhaya  
-pávasva viśvamejaya  
-rāyó dhartā́ na ójasā  
+इ꣡न्दो समुद्रमीङ्खय  
+प꣡वस्व विश्वमेजय  
+रायो꣡ धर्ता꣡ न ओ꣡जसा  

@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-ā́gnír agāmi bhā́rato  
-vr̥trahā́ purucétanaḥ  
-dívodāsasya sátpatiḥ  
+आ꣡ग्नि꣡र् अगामि भा꣡रतो  
+वृत्रहा꣡ पुरुचे꣡तनः  
+दि꣡वोदासस्य स꣡त्पतिः  

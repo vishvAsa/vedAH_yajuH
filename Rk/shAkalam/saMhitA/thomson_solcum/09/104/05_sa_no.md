@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sá no madānãm pata  
-índo devápsarā asi  
-sákheva sákhye gātuvíttamo bhava  
+स꣡ नो मदान्ãम् पत  
+इ꣡न्दो देव꣡प्सरा असि  
+स꣡खेव स꣡ख्ये गातुवि꣡त्तमो भव  

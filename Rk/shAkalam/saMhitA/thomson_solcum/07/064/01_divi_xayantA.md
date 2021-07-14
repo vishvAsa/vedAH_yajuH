@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-diví kṣáyantā rájasaḥ pr̥thivyā́m  
-prá vāṃ ghr̥tásya nirṇíjo dadīran  
-havyáṃ no mitró aryamā́ sújāto  
-rā́jā sukṣatró váruṇo juṣanta  
+दिवि꣡ क्ष꣡यन्ता र꣡जसः पृथिव्या꣡म्  
+प्र꣡ वां घृत꣡स्य निर्णि꣡जो ददीरन्  
+हव्यं꣡ नो मित्रो꣡ अर्यमा꣡ सु꣡जातो  
+रा꣡जा सुक्षत्रो꣡ व꣡रुणो जुषन्त  

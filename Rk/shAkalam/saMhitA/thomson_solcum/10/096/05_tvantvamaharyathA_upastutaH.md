@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tuváṃ-tuvam aharyathā úpastutaḥ  
-pū́rvebhir indra harikeśa yájvabhiḥ  
-tuváṃ haryasi táva víśvam ukthíyam  
-ásāmi rā́dho harijāta haryatám  
+तुवं꣡-तुवम् अहर्यथा उ꣡पस्तुतः  
+पू꣡र्वेभिर् इन्द्र हरिकेश य꣡ज्वभिः  
+तुवं꣡ हर्यसि त꣡व वि꣡श्वम् उक्थि꣡यम्  
+अ꣡सामि रा꣡धो हरिजात हर्यत꣡म्  

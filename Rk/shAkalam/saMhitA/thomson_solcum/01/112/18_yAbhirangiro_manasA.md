@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-yā́bhir aṅgiro mánasā niraṇyátho  
-ágraṃ gáchatho vivaré góarṇasaḥ  
-yā́bhir mánuṃ śū́ram iṣā́ samā́vataṃ  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिर् अङ्गिरो म꣡नसा निरण्य꣡थो  
+अ꣡ग्रं ग꣡छथो विवरे꣡ गो꣡अर्णसः  
+या꣡भिर् म꣡नुं शू꣡रम् इषा꣡ समा꣡वतं  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ásya piba yásya jajñāná indra  
-mádāya krátve ápibo virapśin  
-tám u te gā́vo nára ā́po ádrir  
-índuṃ sám ahyan pītáye sám asmai  
+अ꣡स्य पिब य꣡स्य जज्ञान꣡ इन्द्र  
+म꣡दाय क्र꣡त्वे अ꣡पिबो विरप्शिन्  
+त꣡म् उ ते गा꣡वो न꣡र आ꣡पो अ꣡द्रिर्  
+इ꣡न्दुं स꣡म् अह्यन् पीत꣡ये स꣡म् अस्मै  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá tváṃ no rāyáḥ śiśīhi  
-mī́ḍhvo agne suvī́ryasya  
-túvidyumna várṣiṣṭhasya prajā́vato  
-anamīvásya śuṣmíṇaḥ  
+स꣡ त्वं꣡ नो रायः꣡ शिशीहि  
+मी꣡ढ्वो अग्ने सुवी꣡र्यस्य  
+तु꣡विद्युम्न व꣡र्षिष्ठस्य प्रजा꣡वतो  
+अनमीव꣡स्य शुष्मि꣡णः  

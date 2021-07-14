@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ te suparṇā́ aminantam̐ évaiḥ  
-kr̥ṣṇó nonāva vr̥ṣabhó yádīdám  
-śivā́bhir ná smáyamānābhir ā́gāt  
-pátanti míha stanáyanti abhrā́  
+आ꣡ ते सुपर्णा꣡ अमिनन्तँ ए꣡वैः  
+कृष्णो꣡ नोनाव वृषभो꣡ य꣡दीद꣡म्  
+शिवा꣡भिर् न꣡ स्म꣡यमानाभिर् आ꣡गात्  
+प꣡तन्ति मि꣡ह स्तन꣡यन्ति अभ्रा꣡  

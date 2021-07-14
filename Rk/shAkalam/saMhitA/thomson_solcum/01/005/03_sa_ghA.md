@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-sá ghā no yóga ā́ bhuvat  
-sá rāyé sá púraṃdhiyām  
-gámad vā́jebhir ā́ sá naḥ  
+स꣡ घा नो यो꣡ग आ꣡ भुवत्  
+स꣡ राये꣡ स꣡ पु꣡रंधियाम्  
+ग꣡मद् वा꣡जेभिर् आ꣡ स꣡ नः  

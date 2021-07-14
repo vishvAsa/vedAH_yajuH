@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-viśvā́narasya vas pátim  
-ánānatasya śávasaḥ  
-évaiś ca carṣaṇīnã́m  
-ūtī́ huve ráthānãm  
+विश्वा꣡नरस्य वस् प꣡तिम्  
+अ꣡नानतस्य श꣡वसः  
+ए꣡वैश् च चर्षणीन्ã꣡म्  
+ऊती꣡ हुवे र꣡थान्ãम्  

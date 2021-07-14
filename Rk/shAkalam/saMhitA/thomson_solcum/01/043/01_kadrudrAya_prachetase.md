@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-kád rudrā́ya prácetase  
-mīḷhúṣṭamāya távyase  
-vocéma śáṃtamaṃ hr̥dé  
+क꣡द् रुद्रा꣡य प्र꣡चेतसे  
+मीऌहु꣡ष्टमाय त꣡व्यसे  
+वोचे꣡म शं꣡तमं हृदे꣡  

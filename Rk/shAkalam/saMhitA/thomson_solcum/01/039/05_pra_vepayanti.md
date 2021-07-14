@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá vepayanti párvatān  
-ví viñcanti vánaspátīn  
-pró ārata maruto durmádā iva  
-dévāsaḥ sárvayā viśā́  
+प्र꣡ वेपयन्ति प꣡र्वतान्  
+वि꣡ विञ्चन्ति व꣡नस्प꣡तीन्  
+प्रो꣡ आरत मरुतो दुर्म꣡दा इव  
+दे꣡वासः स꣡र्वया विशा꣡  

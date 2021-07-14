@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-evéndrāgníbhyām pitr̥ván návīyo  
-mandhātr̥vád aṅgirasvád avāci  
-tridhā́tunā śármaṇā pātam asmā́n  
-vayáṃ siyāma pátayo rayīṇā́m  
+एवे꣡न्द्राग्नि꣡भ्याम् पितृव꣡न् न꣡वीयो  
+मन्धातृव꣡द् अङ्गिरस्व꣡द् अवाचि  
+त्रिधा꣡तुना श꣡र्मणा पातम् अस्मा꣡न्  
+वयं꣡ सियाम प꣡तयो रयीणा꣡म्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá nú vocā sutéṣu vāṃ  
-vīríyā yā́ni cakráthuḥ  
-hatā́so vām pitáro deváśatrava  
-índrāgnī jī́vatho yuvám  
+प्र꣡ नु꣡ वोचा सुते꣡षु वां  
+वीरि꣡या या꣡नि चक्र꣡थुः  
+हता꣡सो वाम् पित꣡रो देव꣡शत्रव  
+इ꣡न्द्राग्नी जी꣡वथो युव꣡म्  

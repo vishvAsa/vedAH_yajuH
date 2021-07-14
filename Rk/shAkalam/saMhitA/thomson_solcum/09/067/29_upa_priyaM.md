@@ -2,6 +2,6 @@
 title = "029"
 
 +++
-úpa priyám pánipnataṃ  
-yúvānam āhutīvŕ̥dham  
-áganma bíbhrato námaḥ  
+उ꣡प प्रिय꣡म् प꣡निप्नतं  
+यु꣡वानम् आहुतीव्ŕ̥धम्  
+अ꣡गन्म बि꣡भ्रतो न꣡मः  

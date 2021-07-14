@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-mā́ vo riṣat khanitā́  
-yásmai cāháṃ khánāmi vaḥ  
-dvipác cátuṣpad asmā́kaṃ  
-sárvam astu anāturám  
+मा꣡ वो रिषत् खनिता꣡  
+य꣡स्मै चाहं꣡ ख꣡नामि वः  
+द्विप꣡च् च꣡तुष्पद् अस्मा꣡कं  
+स꣡र्वम् अस्तु अनातुर꣡म्  

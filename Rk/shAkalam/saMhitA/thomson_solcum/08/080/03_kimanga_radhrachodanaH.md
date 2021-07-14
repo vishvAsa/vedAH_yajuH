@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-kím aṅgá radhracódanaḥ  
-sunvānásyāvitéd asi  
-kuvít sú indra ṇaḥ śákaḥ  
+कि꣡म् अङ्ग꣡ रध्रचो꣡दनः  
+सुन्वान꣡स्याविते꣡द् असि  
+कुवि꣡त् सु꣡ इन्द्र णः श꣡कः  

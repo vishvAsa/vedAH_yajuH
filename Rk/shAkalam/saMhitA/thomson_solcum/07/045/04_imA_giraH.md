@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-imā́ gíraḥ savitā́raṃ sujihvám  
-pūrṇágabhastim īḷate supāṇím  
-citráṃ váyo br̥hád asmé dadhātu  
-yūyám pāta suastíbhiḥ sádā naḥ  
+इमा꣡ गि꣡रः सविता꣡रं सुजिह्व꣡म्  
+पूर्ण꣡गभस्तिम् ईऌअते सुपाणि꣡म्  
+चित्रं꣡ व꣡यो बृह꣡द् अस्मे꣡ दधातु  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

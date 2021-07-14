@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-idáṃ śréṣṭhaṃ jyótiṣāṃ jyótir uttamáṃ  
-viśvajíd · dhanajíd ucyate br̥hát  
-viśvabhrā́ḍ bhrājó máhi sū́riyo dr̥śá  
-urú paprathe sáha ójo ácyutam  
+इदं꣡ श्रे꣡ष्ठं ज्यो꣡तिषां ज्यो꣡तिर् उत्तमं꣡  
+विश्वजि꣡द् · धनजि꣡द् उच्यते बृह꣡त्  
+विश्वभ्रा꣡ड् भ्राजो꣡ म꣡हि सू꣡रियो दृश꣡  
+उरु꣡ पप्रथे स꣡ह ओ꣡जो अ꣡च्युतम्  

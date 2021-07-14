@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imáṃ no yajñám amŕ̥teṣu dhehi  
-imā́ havyā́ jātavedo juṣasva  
-stokā́nām agne médaso ghr̥tásya  
-hótaḥ prā́śāna prathamó niṣádya  
+इमं꣡ नो यज्ञ꣡म् अम्ŕ̥तेषु धेहि  
+इमा꣡ हव्या꣡ जातवेदो जुषस्व  
+स्तोका꣡नाम् अग्ने मे꣡दसो घृत꣡स्य  
+हो꣡तः प्रा꣡शान प्रथमो꣡ निष꣡द्य  

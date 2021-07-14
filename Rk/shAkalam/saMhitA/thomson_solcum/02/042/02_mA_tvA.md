@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mā́ tvā śyená úd vadhīn mā́ suparṇó  
-mā́ tvā vidad íṣumān vīró ástā  
-pítryām ánu pradíśaṃ kánikradat  
-sumaṅgálo bhadravādī́ vadehá  
+मा꣡ त्वा श्येन꣡ उ꣡द् वधीन् मा꣡ सुपर्णो꣡  
+मा꣡ त्वा विदद् इ꣡षुमान् वीरो꣡ अ꣡स्ता  
+पि꣡त्र्याम् अ꣡नु प्रदि꣡शं क꣡निक्रदत्  
+सुमङ्ग꣡लो भद्रवादी꣡ वदेह꣡  

@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-tuvigrī́vo vapódaraḥ  
-subāhúr ándhaso máde  
-índro vr̥trā́ṇi jighnate  
+तुविग्री꣡वो वपो꣡दरः  
+सुबाहु꣡र् अ꣡न्धसो म꣡दे  
+इ꣡न्द्रो वृत्रा꣡णि जिघ्नते  

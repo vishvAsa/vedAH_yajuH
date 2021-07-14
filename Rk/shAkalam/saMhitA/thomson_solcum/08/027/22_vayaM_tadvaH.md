@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-vayáṃ tád vaḥ samrāja ā́ vr̥ṇīmahe  
-putró ná bahupā́yiyam  
-aśyā́ma tád ādityā júhvato havír  
-yéna vásyo 'náśāmahai  
+वयं꣡ त꣡द् वः सम्राज आ꣡ वृणीमहे  
+पुत्रो꣡ न꣡ बहुपा꣡यियम्  
+अश्या꣡म त꣡द् आदित्या जु꣡ह्वतो हवि꣡र्  
+ये꣡न व꣡स्यो ऽन꣡शामहै  

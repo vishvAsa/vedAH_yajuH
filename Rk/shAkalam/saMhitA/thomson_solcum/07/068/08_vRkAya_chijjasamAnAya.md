@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-vŕ̥kāya cij jásamānāya śaktam  
-utá śrutaṃ śayáve hūyámānā  
-yā́v aghniyā́m ápinvatam apó ná  
-staryàṃ cic chaktī́ aśvinā śácībhiḥ  
+व्ŕ̥काय चिज् ज꣡समानाय शक्तम्  
+उत꣡ श्रुतं शय꣡वे हूय꣡माना  
+या꣡व् अघ्निया꣡म् अ꣡पिन्वतम् अपो꣡ न꣡  
+स्तर्यं᳡ चिच् छक्ती꣡ अश्विना श꣡चीभिः  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sá íd rā́jā prátijanyāni víśvā  
-śúṣmeṇa tasthāv abhí vīríyeṇa  
-bŕ̥haspátiṃ yáḥ súbhr̥tam bibhárti  
-valgūyáti vándate pūrvabhā́jam  
+स꣡ इ꣡द् रा꣡जा प्र꣡तिजन्यानि वि꣡श्वा  
+शु꣡ष्मेण तस्थाव् अभि꣡ वीरि꣡येण  
+ब्ŕ̥हस्प꣡तिं यः꣡ सु꣡भृतम् बिभ꣡र्ति  
+वल्गूय꣡ति व꣡न्दते पूर्वभा꣡जम्  

@@ -2,9 +2,9 @@
 title = "010"
 
 +++
-tuáṃ no agna āyúṣu  
-tuáṃ devéṣu pūrvia  
-vásva éka irajyasi  
-tuā́m ā́paḥ parisrútaḥ  
-pári yanti svásetavo  
-nábhantām anyaké same  
+तुअं꣡ नो अग्न आयु꣡षु  
+तुअं꣡ देवे꣡षु पूर्विअ  
+व꣡स्व ए꣡क इरज्यसि  
+तुआ꣡म् आ꣡पः परिस्रु꣡तः  
+प꣡रि यन्ति स्व꣡सेतवो  
+न꣡भन्ताम् अन्यके꣡ समे  

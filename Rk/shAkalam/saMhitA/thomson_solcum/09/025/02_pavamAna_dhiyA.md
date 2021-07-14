@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-pávamāna dhiyā́ hitó  
-abhí yóniṃ kánikradat  
-dhármaṇā vāyúm ā́ viśa  
+प꣡वमान धिया꣡ हितो꣡  
+अभि꣡ यो꣡निं क꣡निक्रदत्  
+ध꣡र्मणा वायु꣡म् आ꣡ विश  

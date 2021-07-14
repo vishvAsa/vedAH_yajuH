@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ mandrásya saniṣyánto váreṇiyaṃ  
-vr̥ṇīmáhe áhrayaṃ vā́jam r̥gmíyam  
-rātím bhŕ̥gūṇām uśíjaṃ kavíkratum  
-agníṃ rā́jantaṃ diviyéna śocíṣā  
+आ꣡ मन्द्र꣡स्य सनिष्य꣡न्तो व꣡रेणियं  
+वृणीम꣡हे अ꣡ह्रयं वा꣡जम् ऋग्मि꣡यम्  
+राति꣡म् भ्ŕ̥गूणाम् उशि꣡जं कवि꣡क्रतुम्  
+अग्निं꣡ रा꣡जन्तं दिविये꣡न शोचि꣡षा  

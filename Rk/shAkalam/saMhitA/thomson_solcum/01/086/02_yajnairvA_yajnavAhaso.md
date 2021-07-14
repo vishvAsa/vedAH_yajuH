@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yajñaír vā yajñavāhaso  
-víprasya vā matīnã́m  
-márutaḥ śr̥ṇutā́ hávam  
+यज्ञइ꣡र् वा यज्ञवाहसो  
+वि꣡प्रस्य वा मतीन्ã꣡म्  
+म꣡रुतः शृणुता꣡ ह꣡वम्  

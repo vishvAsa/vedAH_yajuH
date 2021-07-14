@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-táva krátvā távotíbhir  
-jiyók paśyema sū́riyam  
-áthā no vásyasas kr̥dhi  
+त꣡व क्र꣡त्वा त꣡वोति꣡भिर्  
+जियो꣡क् पश्येम सू꣡रियम्  
+अ꣡था नो व꣡स्यसस् कृधि  

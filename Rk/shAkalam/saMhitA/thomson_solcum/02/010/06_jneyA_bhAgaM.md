@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-jñeyā́ bhāgáṃ sahasānó váreṇa  
-tuvā́dūtāso manuvád vadema  
-ánūnam agníṃ juhúvā vacasyā́  
-madhupŕ̥caṃ dhanasā́ johavīmi  
+ज्ञेया꣡ भागं꣡ सहसानो꣡ व꣡रेण  
+तुवा꣡दूतासो मनुव꣡द् वदेम  
+अ꣡नूनम् अग्निं꣡ जुहु꣡वा वचस्या꣡  
+मधुप्ŕ̥चं धनसा꣡ जोहवीमि  

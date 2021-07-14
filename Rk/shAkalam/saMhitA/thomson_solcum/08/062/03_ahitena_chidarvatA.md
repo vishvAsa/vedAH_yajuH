@@ -2,8 +2,8 @@
 title = "003"
 
 +++
-áhitena cid árvatā  
-jīrádānuḥ siṣāsati  
-pravā́cyam indra tát táva  
-vīríyāṇi kariṣyató  
-bhadrā́ índrasya rātáyaḥ  
+अ꣡हितेन चिद् अ꣡र्वता  
+जीर꣡दानुः सिषासति  
+प्रवा꣡च्यम् इन्द्र त꣡त् त꣡व  
+वीरि꣡याणि करिष्यतो꣡  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  

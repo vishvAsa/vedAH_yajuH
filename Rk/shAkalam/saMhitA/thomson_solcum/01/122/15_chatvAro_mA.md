@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-catvā́ro mā maśarśā́rasya śíśvas  
-tráyo rā́jña ā́yavasasya jiṣṇóḥ  
-rátho vām mitrāvaruṇā dīrghā́psāḥ  
-syū́magabhastiḥ sãro ná adyaut  
+चत्वा꣡रो मा मशर्शा꣡रस्य शि꣡श्वस्  
+त्र꣡यो रा꣡ज्ञ आ꣡यवसस्य जिष्णोः꣡  
+र꣡थो वाम् मित्रावरुणा दीर्घा꣡प्साः  
+स्यू꣡मगभस्तिः स्ãरो न꣡ अद्यौत्  

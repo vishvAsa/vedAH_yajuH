@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-rakṣohā́ viśvácarṣaṇir  
-abhí yónim áyohatam  
-drúṇā sadhástham ā́sadat  
+रक्षोहा꣡ विश्व꣡चर्षणिर्  
+अभि꣡ यो꣡निम् अ꣡योहतम्  
+द्रु꣡णा सध꣡स्थम् आ꣡सदत्  

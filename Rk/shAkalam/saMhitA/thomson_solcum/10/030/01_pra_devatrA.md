@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá devatrā́ bráhmaṇe gātúr etu  
-apó áchā mánaso ná práyukti  
-mahī́m mitrásya váruṇasya dhāsím  
-pr̥thujráyase rīradhā suvr̥ktím  
+प्र꣡ देवत्रा꣡ ब्र꣡ह्मणे गातु꣡र् एतु  
+अपो꣡ अ꣡छा म꣡नसो न꣡ प्र꣡युक्ति  
+मही꣡म् मित्र꣡स्य व꣡रुणस्य धासि꣡म्  
+पृथुज्र꣡यसे रीरधा सुवृक्ति꣡म्  

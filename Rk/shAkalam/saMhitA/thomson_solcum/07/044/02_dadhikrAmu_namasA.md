@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-dadhikrā́m u námasā bodháyanta  
-udī́rāṇā yajñám upaprayántaḥ  
-íḷāṃ devī́m barhíṣi sādáyanto  
-aśvínā víprā suhávā huvema  
+दधिक्रा꣡म् उ न꣡मसा बोध꣡यन्त  
+उदी꣡राणा यज्ञ꣡म् उपप्रय꣡न्तः  
+इ꣡ऌआं देवी꣡म् बर्हि꣡षि साद꣡यन्तो  
+अश्वि꣡ना वि꣡प्रा सुह꣡वा हुवेम  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ā́ viśvádevaṃ sátpatiṃ  
-sūktaír adyā́ vr̥ṇīmahe  
-satyásavaṃ savitā́ram  
+आ꣡ विश्व꣡देवं स꣡त्पतिं  
+सूक्तइ꣡र् अद्या꣡ वृणीमहे  
+सत्य꣡सवं सविता꣡रम्  

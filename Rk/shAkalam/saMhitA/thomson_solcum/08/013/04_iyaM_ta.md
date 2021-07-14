@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-iyáṃ ta indra girvaṇo  
-rātíḥ kṣarati sunvatáḥ  
-mandānó asyá barhíṣo ví rājasi  
+इयं꣡ त इन्द्र गिर्वणो  
+रातिः꣡ क्षरति सुन्वतः꣡  
+मन्दानो꣡ अस्य꣡ बर्हि꣡षो वि꣡ राजसि  

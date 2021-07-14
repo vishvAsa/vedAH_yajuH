@@ -2,6 +2,6 @@
 title = "034"
 
 +++
-yám ādityāso adruhaḥ  
-pāráṃ náyatha mártiyam  
-maghónãṃ víśveṣãṃ sudānavaḥ  
+य꣡म् आदित्यासो अद्रुहः  
+पारं꣡ न꣡यथ म꣡र्तियम्  
+मघो꣡न्ãं वि꣡श्वेष्ãं सुदानवः  

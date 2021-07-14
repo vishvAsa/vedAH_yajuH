@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá etu bráhmaṇas pátiḥ  
-prá devī́ etu sūnŕ̥tā  
-áchā vīráṃ náriyam paṅktírādhasaṃ  
-devā́ yajñáṃ nayantu naḥ  
+प्र꣡ एतु ब्र꣡ह्मणस् प꣡तिः  
+प्र꣡ देवी꣡ एतु सून्ŕ̥ता  
+अ꣡छा वीरं꣡ न꣡रियम् पङ्क्ति꣡राधसं  
+देवा꣡ यज्ञं꣡ नयन्तु नः  

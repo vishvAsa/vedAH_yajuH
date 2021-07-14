@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tuvám māyā́bhir ápa māyíno 'dhamaḥ  
-svadhā́bhir yé ádhi śúptāv ájuhvata  
-tuvám pípror nr̥maṇaḥ prā́rujaḥ púraḥ  
-prá rjíśvānaṃ dasyuhátyeṣu āvitha  
+तुव꣡म् माया꣡भिर् अ꣡प मायि꣡नो ऽधमः  
+स्वधा꣡भिर् ये꣡ अ꣡धि शु꣡प्ताव् अ꣡जुह्वत  
+तुव꣡म् पि꣡प्रोर् नृमणः प्रा꣡रुजः पु꣡रः  
+प्र꣡ र्जि꣡श्वानं दस्युह꣡त्येषु आविथ  

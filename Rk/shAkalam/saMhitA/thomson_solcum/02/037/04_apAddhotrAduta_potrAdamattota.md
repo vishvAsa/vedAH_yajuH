@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ápād dhotrā́d utá potrā́d amatta  
-utá neṣṭrā́d ajuṣata práyo hitám  
-turī́yam pā́tram ámr̥ktam ámartiyaṃ  
-draviṇodā́ḥ pibatu drāviṇodasáḥ  
+अ꣡पाद् धोत्रा꣡द् उत꣡ पोत्रा꣡द् अमत्त  
+उत꣡ नेष्ट्रा꣡द् अजुषत प्र꣡यो हित꣡म्  
+तुरी꣡यम् पा꣡त्रम् अ꣡मृक्तम् अ꣡मर्तियं  
+द्रविणोदाः꣡ पिबतु द्राविणोदसः꣡  

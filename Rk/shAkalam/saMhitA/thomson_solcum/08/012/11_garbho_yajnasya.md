@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-gárbho yajñásya devayúḥ  
-krátum punīta ānuṣák  
-stómair índrasya vāvr̥dhe mímīta ít  
+ग꣡र्भो यज्ञ꣡स्य देवयुः꣡  
+क्र꣡तुम् पुनीत आनुष꣡क्  
+स्तो꣡मैर् इ꣡न्द्रस्य वावृधे मि꣡मीत इ꣡त्  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ástāvi agnír narã́ṃ suśévo  
-vaiśvānará ŕ̥ṣibhiḥ sómagopāḥ  
-adveṣé dyā́vāpr̥thivī́ huvema  
-dévā dhattá rayím asmé suvī́ram  
+अ꣡स्तावि अग्नि꣡र् नर्ãं꣡ सुशे꣡वो  
+वैश्वानर꣡ ŕ̥षिभिः सो꣡मगोपाः  
+अद्वेषे꣡ द्या꣡वापृथिवी꣡ हुवेम  
+दे꣡वा धत्त꣡ रयि꣡म् अस्मे꣡ सुवी꣡रम्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-éndravā́ho nr̥pátiṃ vájrabāhum  
-ugrám ugrā́sas taviṣā́sa enam  
-prátvakṣasaṃ vr̥ṣabháṃ satyáśuṣmam  
-ém asmatrā́ sadhamā́do vahantu  
+ए꣡न्द्रवा꣡हो नृप꣡तिं व꣡ज्रबाहुम्  
+उग्र꣡म् उग्रा꣡सस् तविषा꣡स एनम्  
+प्र꣡त्वक्षसं वृषभं꣡ सत्य꣡शुष्मम्  
+ए꣡म् अस्मत्रा꣡ सधमा꣡दो वहन्तु  

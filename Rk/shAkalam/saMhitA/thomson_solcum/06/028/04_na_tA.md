@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ná tā́ árvā reṇúkakāṭo aśnute  
-ná saṃskr̥tatrám úpa yanti tā́ abhí  
-urugāyám ábhayaṃ tásya tā́ ánu  
-gā́vo mártasya ví caranti yájvanaḥ  
+न꣡ ता꣡ अ꣡र्वा रेणु꣡ककाटो अश्नुते  
+न꣡ संस्कृतत्र꣡म् उ꣡प यन्ति ता꣡ अभि꣡  
+उरुगाय꣡म् अ꣡भयं त꣡स्य ता꣡ अ꣡नु  
+गा꣡वो म꣡र्तस्य वि꣡ चरन्ति य꣡ज्वनः  

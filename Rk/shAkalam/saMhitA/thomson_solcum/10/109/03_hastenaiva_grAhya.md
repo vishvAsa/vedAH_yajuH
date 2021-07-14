@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-hástenaivá grāhíya ādhír asyā  
-brahmajāyéyám íti céd ávocan  
-ná dūtā́ya prahíye tastha eṣā́  
-táthā rāṣṭráṃ gupitáṃ kṣatríyasya  
+ह꣡स्तेनैव꣡ ग्राहि꣡य आधि꣡र् अस्या  
+ब्रह्मजाये꣡य꣡म् इ꣡ति चे꣡द् अ꣡वोचन्  
+न꣡ दूता꣡य प्रहि꣡ये तस्थ एषा꣡  
+त꣡था राष्ट्रं꣡ गुपितं꣡ क्षत्रि꣡यस्य  

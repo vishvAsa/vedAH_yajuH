@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-eṣá prá kóśe mádhumām̐ acikradad  
-índrasya vájro vápuṣo vápuṣṭaraḥ  
-abhī́m r̥tásya sudúghā ghr̥taścúto  
-vāśrā́ arṣanti páyaseva dhenávaḥ  
+एष꣡ प्र꣡ को꣡शे म꣡धुमाँ अचिक्रदद्  
+इ꣡न्द्रस्य व꣡ज्रो व꣡पुषो व꣡पुष्टरः  
+अभी꣡म् ऋत꣡स्य सुदु꣡घा घृतश्चु꣡तो  
+वाश्रा꣡ अर्षन्ति प꣡यसेव धेन꣡वः  

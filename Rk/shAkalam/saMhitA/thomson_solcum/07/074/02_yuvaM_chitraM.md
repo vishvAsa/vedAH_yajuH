@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yuváṃ citráṃ dadathur bhójanaṃ narā  
-códethāṃ sūnŕ̥tāvate  
-arvā́g ráthaṃ sámanasā ní yachatam  
-píbataṃ somiyám mádhu  
+युवं꣡ चित्रं꣡ ददथुर् भो꣡जनं नरा  
+चो꣡देथां सून्ŕ̥तावते  
+अर्वा꣡ग् र꣡थं स꣡मनसा नि꣡ यछतम्  
+पि꣡बतं सोमिय꣡म् म꣡धु  

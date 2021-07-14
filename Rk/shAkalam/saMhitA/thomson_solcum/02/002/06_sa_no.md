@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sá no revát samidhānáḥ suastáye  
-saṃdadasvā́n rayím asmā́su dīdihi  
-ā́ naḥ kr̥ṇuṣva suvitā́ya ródasī  
-ágne havyā́ mánuṣo deva vītáye  
+स꣡ नो रेव꣡त् समिधानः꣡ सुअस्त꣡ये  
+संददस्वा꣡न् रयि꣡म् अस्मा꣡सु दीदिहि  
+आ꣡ नः कृणुष्व सुविता꣡य रो꣡दसी  
+अ꣡ग्ने हव्या꣡ म꣡नुषो देव वीत꣡ये  

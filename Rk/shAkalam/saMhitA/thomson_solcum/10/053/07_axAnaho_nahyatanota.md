@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-akṣānáho nahyatanotá somiyā  
-íṣkr̥ṇudhvaṃ raśanā́ ótá piṃśata  
-aṣṭā́vandhuraṃ vahatābhíto ráthaṃ  
-yéna devā́so ánayann abhí priyám  
+अक्षान꣡हो नह्यतनोत꣡ सोमिया  
+इ꣡ष्कृणुध्वं रशना꣡ ओ꣡त꣡ पिंशत  
+अष्टा꣡वन्धुरं वहताभि꣡तो र꣡थं  
+ये꣡न देवा꣡सो अ꣡नयन्न् अभि꣡ प्रिय꣡म्  

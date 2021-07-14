@@ -2,8 +2,8 @@
 title = "006"
 
 +++
-yátra brahmā́ pavamāna  
-chandasíyāṃ vā́caṃ vádan  
-grā́vṇā sóme mahīyáte  
-sómenānandáṃ janáyann  
-índrāyendo pári srava  
+य꣡त्र ब्रह्मा꣡ पवमान  
+छन्दसि꣡यां वा꣡चं व꣡दन्  
+ग्रा꣡व्णा सो꣡मे महीय꣡ते  
+सो꣡मेनानन्दं꣡ जन꣡यन्न्  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

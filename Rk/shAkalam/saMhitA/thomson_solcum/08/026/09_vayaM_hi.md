@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-vayáṃ hí vāṃ hávāmaha  
-ukṣaṇyánto viaśvavát  
-sumatíbhir úpa viprāv ihā́ gatam  
+वयं꣡ हि꣡ वां ह꣡वामह  
+उक्षण्य꣡न्तो विअश्वव꣡त्  
+सुमति꣡भिर् उ꣡प विप्राव् इहा꣡ गतम्  

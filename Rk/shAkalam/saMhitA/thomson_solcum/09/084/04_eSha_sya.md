@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-eṣá syá sómaḥ pavate sahasrajíd  
-dhinvānó vā́cam iṣirā́m uṣarbúdham  
-índuḥ samudrám úd iyarti vāyúbhir  
-éndrasya hā́rdi kaláśeṣu sīdati  
+एष꣡ स्य꣡ सो꣡मः पवते सहस्रजि꣡द्  
+धिन्वानो꣡ वा꣡चम् इषिरा꣡म् उषर्बु꣡धम्  
+इ꣡न्दुः समुद्र꣡म् उ꣡द् इयर्ति वायु꣡भिर्  
+ए꣡न्द्रस्य हा꣡र्दि कल꣡शेषु सीदति  

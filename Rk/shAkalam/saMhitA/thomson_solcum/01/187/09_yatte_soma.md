@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-yát te soma gávāśiro  
-yávāśiro bhájāmahe  
-vā́tāpe pī́va íd bhava  
+य꣡त् ते सोम ग꣡वाशिरो  
+य꣡वाशिरो भ꣡जामहे  
+वा꣡तापे पी꣡व इ꣡द् भव  

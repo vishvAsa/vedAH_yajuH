@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-udyánn adyá mitramaha  
-āróhann úttarāṃ dívam  
-hr̥drogám máma sūriya  
-harimā́ṇaṃ ca nāśaya  
+उद्य꣡न्न् अद्य꣡ मित्रमह  
+आरो꣡हन्न् उ꣡त्तरां दि꣡वम्  
+हृद्रोग꣡म् म꣡म सूरिय  
+हरिमा꣡णं च नाशय  

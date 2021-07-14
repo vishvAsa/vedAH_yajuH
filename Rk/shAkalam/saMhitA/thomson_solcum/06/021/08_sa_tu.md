@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sá tú śrudhi indara+ nū́tanasya  
-brahmaṇyató · vīra kārudhāyaḥ  
-tuváṃ hí āpíḥ pradívi pitr̥̄ṇā́ṃ  
-śáśvad babhū́tha suháva aíṣṭau  
+स꣡ तु꣡ श्रुधि इन्दर+ नू꣡तनस्य  
+ब्रह्मण्यतो꣡ · वीर कारुधायः  
+तुवं꣡ हि꣡ आपिः꣡ प्रदि꣡वि पितॄणां꣡  
+श꣡श्वद् बभू꣡थ सुह꣡व अइ꣡ष्टौ  

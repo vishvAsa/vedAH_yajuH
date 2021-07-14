@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-abhí-abhi hí śrávasā tatárditha  
-útsaṃ ná káṃ cij janapā́nam ákṣitam  
-śáryābhir ná bháramāṇo gábhastiyoḥ  
+अभि꣡-अभि हि꣡ श्र꣡वसा तत꣡र्दिथ  
+उ꣡त्सं न꣡ कं꣡ चिज् जनपा꣡नम् अ꣡क्षितम्  
+श꣡र्याभिर् न꣡ भ꣡रमाणो ग꣡भस्तियोः  

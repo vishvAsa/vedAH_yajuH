@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-ágnīṣomā sávedasā  
-sáhūtī vanataṃ gíraḥ  
-sáṃ devatrā́ babhūvathuḥ  
+अ꣡ग्नीषोमा स꣡वेदसा  
+स꣡हूती वनतं गि꣡रः  
+सं꣡ देवत्रा꣡ बभूवथुः  

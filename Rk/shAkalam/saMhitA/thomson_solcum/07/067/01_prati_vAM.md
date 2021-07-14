@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-práti vāṃ ráthaṃ nr̥patī jarádhyai  
-havíṣmatā mánasā yajñíyena  
-yó vāṃ dūtó ná dhiṣṇiyāv ájīgar  
-áchā sūnúr ná pitárā vivakmi  
+प्र꣡ति वां र꣡थं नृपती जर꣡ध्यै  
+हवि꣡ष्मता म꣡नसा यज्ञि꣡येन  
+यो꣡ वां दूतो꣡ न꣡ धिष्णियाव् अ꣡जीगर्  
+अ꣡छा सूनु꣡र् न꣡ पित꣡रा विवक्मि  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-pratnaváj janayā gíraḥ  
-śr̥ṇudhī́ jaritúr hávam  
-máde-made vavakṣithā sukŕ̥tvane  
+प्रत्नव꣡ज् जनया गि꣡रः  
+शृणुधी꣡ जरितु꣡र् ह꣡वम्  
+म꣡दे-मदे ववक्षिथा सुक्ŕ̥त्वने  

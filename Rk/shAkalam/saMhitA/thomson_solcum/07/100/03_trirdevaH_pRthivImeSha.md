@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-trír deváḥ · pr̥thivī́m eṣá etā́ṃ  
-ví cakrame śatárcasam mahitvā́  
-prá víṣṇur astu tavásas távīyān  
-tveṣáṃ hí asya sthávirasya nā́ma  
+त्रि꣡र् देवः꣡ · पृथिवी꣡म् एष꣡ एतां꣡  
+वि꣡ चक्रमे शत꣡र्चसम् महित्वा꣡  
+प्र꣡ वि꣡ष्णुर् अस्तु तव꣡सस् त꣡वीयान्  
+त्वेषं꣡ हि꣡ अस्य स्थ꣡विरस्य ना꣡म  

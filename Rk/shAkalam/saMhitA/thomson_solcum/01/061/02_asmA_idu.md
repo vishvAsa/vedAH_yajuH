@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-asmā́ íd u práya iva prá yaṃsi  
-bhárāmi āṅgūṣám bā́dhe suvr̥ktí  
-índrāya hr̥dā́ mánasā manīṣā́  
-pratnā́ya pátye dhíyo marjayanta  
+अस्मा꣡ इ꣡द् उ प्र꣡य इव प्र꣡ यंसि  
+भ꣡रामि आङ्गूष꣡म् बा꣡धे सुवृक्ति꣡  
+इ꣡न्द्राय हृदा꣡ म꣡नसा मनीषा꣡  
+प्रत्ना꣡य प꣡त्ये धि꣡यो मर्जयन्त  

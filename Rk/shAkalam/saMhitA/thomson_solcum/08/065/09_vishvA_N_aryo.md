@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-víśvām̐ aryó vipaścíto  
-áti khyas tū́yam ā́ gahi  
-asmé dhehi śrávo br̥hát  
+वि꣡श्वाँ अर्यो꣡ विपश्चि꣡तो  
+अ꣡ति ख्यस् तू꣡यम् आ꣡ गहि  
+अस्मे꣡ धेहि श्र꣡वो बृह꣡त्  

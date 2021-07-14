@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-uṣā́ uchántī samidhāné agnā́  
-udyán sū́rya urviyā́ jyótir aśret  
-devó no átra savitā́ nú ártham  
-prā́sāvīd dvipát prá cátuṣpad ityaí  
+उषा꣡ उछ꣡न्ती समिधाने꣡ अग्ना꣡  
+उद्य꣡न् सू꣡र्य उर्विया꣡ ज्यो꣡तिर् अश्रेत्  
+देवो꣡ नो अ꣡त्र सविता꣡ नु꣡ अ꣡र्थम्  
+प्रा꣡सावीद् द्विप꣡त् प्र꣡ च꣡तुष्पद् इत्यइ꣡  

@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-yádi pravr̥ddha satpate  
-sahásram mahiṣā́m̐ ághaḥ  
-ā́d ít ta indriyám máhi prá vāvr̥dhe  
+य꣡दि प्रवृद्ध सत्पते  
+सह꣡स्रम् महिषाँ꣡ अ꣡घः  
+आ꣡द् इ꣡त् त इन्द्रिय꣡म् म꣡हि प्र꣡ वावृधे  

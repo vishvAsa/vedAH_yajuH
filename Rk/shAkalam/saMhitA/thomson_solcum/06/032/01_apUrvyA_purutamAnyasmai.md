@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ápūrviyā purutámāni asmai  
-mahé vīrā́ya taváse turā́ya  
-virapśíne vajríṇe śáṃtamāni  
-vácāṃsi āsā́ sthávirāya takṣam  
+अ꣡पूर्विया पुरुत꣡मानि अस्मै  
+महे꣡ वीरा꣡य तव꣡से तुरा꣡य  
+विरप्शि꣡ने वज्रि꣡णे शं꣡तमानि  
+व꣡चांसि आसा꣡ स्थ꣡विराय तक्षम्  

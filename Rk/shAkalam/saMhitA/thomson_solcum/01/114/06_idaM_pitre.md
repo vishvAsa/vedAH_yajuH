@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-idám pitré marútām ucyate vácaḥ  
-svādóḥ svā́dīyo rudarā́ya+ várdhanam  
-rā́svā ca no amr̥ta martabhójanaṃ  
-tmáne tokā́ya tánayāya mr̥̄ḷa+  
+इद꣡म् पित्रे꣡ मरु꣡ताम् उच्यते व꣡चः  
+स्वादोः꣡ स्वा꣡दीयो रुदरा꣡य+ व꣡र्धनम्  
+रा꣡स्वा च नो अमृत मर्तभो꣡जनं  
+त्म꣡ने तोका꣡य त꣡नयाय मॄऌअ+  

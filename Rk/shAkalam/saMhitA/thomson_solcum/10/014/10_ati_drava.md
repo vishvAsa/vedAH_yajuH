@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-áti drava sārameyaú śuvā́nau  
-caturakṣaú śabálau sādhúnā pathā́  
-áthā pitr̥̄́n suvidátrām̐ úpehi  
-yaména yé sadhamā́dam mádanti  
+अ꣡ति द्रव सारमेयउ꣡ शुवा꣡नौ  
+चतुरक्षउ꣡ शब꣡लौ साधु꣡ना पथा꣡  
+अ꣡था पितॄ꣡न् सुविद꣡त्राँ उ꣡पेहि  
+यमे꣡न ये꣡ सधमा꣡दम् म꣡दन्ति  

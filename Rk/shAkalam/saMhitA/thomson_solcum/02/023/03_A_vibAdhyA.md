@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ vibā́dhyā parirā́pas támāṃsi ca  
-jyótiṣmantaṃ rátham r̥tásya tiṣṭhasi  
-bŕ̥haspate bhīmám amitradámbhanaṃ  
-rakṣoháṇaṃ gotrabhídaṃ suvarvídam  
+आ꣡ विबा꣡ध्या परिरा꣡पस् त꣡मांसि च  
+ज्यो꣡तिष्मन्तं र꣡थम् ऋत꣡स्य तिष्ठसि  
+ब्ŕ̥हस्पते भीम꣡म् अमित्रद꣡म्भनं  
+रक्षोह꣡णं गोत्रभि꣡दं सुवर्वि꣡दम्  

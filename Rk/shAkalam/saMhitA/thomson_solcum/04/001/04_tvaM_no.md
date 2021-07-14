@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuváṃ no agne váruṇasya vidvā́n  
-devásya héḷo áva yāsisīṣṭhāḥ  
-yájiṣṭho váhnitamaḥ śóśucāno  
-víśvā dvéṣāṃsi prá mumugdhi asmát  
+तुवं꣡ नो अग्ने व꣡रुणस्य विद्वा꣡न्  
+देव꣡स्य हे꣡ऌओ अ꣡व यासिसीष्ठाः  
+य꣡जिष्ठो व꣡ह्नितमः शो꣡शुचानो  
+वि꣡श्वा द्वे꣡षांसि प्र꣡ मुमुग्धि अस्म꣡त्  

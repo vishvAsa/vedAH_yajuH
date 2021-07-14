@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-brāhmaṇā́saḥ somíno vā́cam akrata  
-bráhma kr̥ṇvántaḥ parivatsarī́ṇam  
-adhvaryávo gharmíṇaḥ siṣvidānā́  
-āvír bhavanti gúhiyā ná ké cit  
+ब्राह्मणा꣡सः सोमि꣡नो वा꣡चम् अक्रत  
+ब्र꣡ह्म कृण्व꣡न्तः परिवत्सरी꣡णम्  
+अध्वर्य꣡वो घर्मि꣡णः सिष्विदाना꣡  
+आवि꣡र् भवन्ति गु꣡हिया न꣡ के꣡ चित्  

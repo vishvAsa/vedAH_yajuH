@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-jyótiṣmatīm áditiṃ dhārayátkṣitiṃ  
-súvarvatīm ā́ sacete divé-dive  
-jāgr̥vā́ṃsā divé-dive  
-jyótiṣmat kṣatrám āśate°  
-ādityā́ dā́nunas pátī  
-mitrás táyor váruṇo yātayájjano  
-aryamā́ yātayájjanaḥ  
+ज्यो꣡तिष्मतीम् अ꣡दितिं धारय꣡त्क्षितिं  
+सु꣡वर्वतीम् आ꣡ सचेते दिवे꣡-दिवे  
+जागृवां꣡सा दिवे꣡-दिवे  
+ज्यो꣡तिष्मत् क्षत्र꣡म् आशते°  
+आदित्या꣡ दा꣡नुनस् प꣡ती  
+मित्र꣡स् त꣡योर् व꣡रुणो यातय꣡ज्जनो  
+अर्यमा꣡ यातय꣡ज्जनः  

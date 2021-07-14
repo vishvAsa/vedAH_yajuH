@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yás tā́ cakā́ra sá kúha svid índraḥ  
-kám ā́ jánaṃ carati kā́su vikṣú  
-kás te yajñó mánase śáṃ várāya  
-kó arká indra katamáḥ sá hótā  
+य꣡स् ता꣡ चका꣡र स꣡ कु꣡ह स्विद् इ꣡न्द्रः  
+क꣡म् आ꣡ ज꣡नं चरति का꣡सु विक्षु꣡  
+क꣡स् ते यज्ञो꣡ म꣡नसे शं꣡ व꣡राय  
+को꣡ अर्क꣡ इन्द्र कतमः꣡ स꣡ हो꣡ता  

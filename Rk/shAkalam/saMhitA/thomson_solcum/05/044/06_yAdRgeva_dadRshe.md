@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yādŕ̥g evá dádr̥śe tādŕ̥g ucyate  
-sáṃ chāyáyā dadhire sidhráyāpsu ā́  
-mahī́m asmábhyam uruṣā́m urú jráyo  
-br̥hát suvī́ram ánapacyutaṃ sáhaḥ  
+याद्ŕ̥ग् एव꣡ द꣡दृशे ताद्ŕ̥ग् उच्यते  
+सं꣡ छाय꣡या दधिरे सिध्र꣡याप्सु आ꣡  
+मही꣡म् अस्म꣡भ्यम् उरुषा꣡म् उरु꣡ ज्र꣡यो  
+बृह꣡त् सुवी꣡रम् अ꣡नपच्युतं स꣡हः  

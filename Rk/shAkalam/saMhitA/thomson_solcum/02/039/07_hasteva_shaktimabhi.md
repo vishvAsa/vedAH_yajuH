@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-hásteva śaktím abhí saṃdadī́ naḥ  
-kṣā́meva naḥ sám ajataṃ rájāṃsi  
-imā́ gíro aśvinā yuṣmayántīḥ  
-kṣṇótreṇeva svádhitiṃ sáṃ śiśītam  
+ह꣡स्तेव शक्ति꣡म् अभि꣡ संददी꣡ नः  
+क्षा꣡मेव नः स꣡म् अजतं र꣡जांसि  
+इमा꣡ गि꣡रो अश्विना युष्मय꣡न्तीः  
+क्ष्णो꣡त्रेणेव स्व꣡धितिं सं꣡ शिशीतम्  

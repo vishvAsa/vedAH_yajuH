@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá gómaghā jaritré áśvaścandrā  
-vā́jaśravaso ádhi dhehi pŕ̥kṣaḥ  
-pīpihī́ṣaḥ sudúghām indra dhenúm  
-bharádvājeṣu surúco rurucyāḥ  
+स꣡ गो꣡मघा जरित्रे꣡ अ꣡श्वश्चन्द्रा  
+वा꣡जश्रवसो अ꣡धि धेहि प्ŕ̥क्षः  
+पीपिही꣡षः सुदु꣡घाम् इन्द्र धेनु꣡म्  
+भर꣡द्वाजेषु सुरु꣡चो रुरुच्याः  

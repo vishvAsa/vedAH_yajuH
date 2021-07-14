@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tásmā íd āsíye havír  
-juhótā mádhumattamam  
-íḷāṃ naḥ saṃyátaṃ karat  
+त꣡स्मा इ꣡द् आसि꣡ये हवि꣡र्  
+जुहो꣡ता म꣡धुमत्तमम्  
+इ꣡ऌआं नः संय꣡तं करत्  

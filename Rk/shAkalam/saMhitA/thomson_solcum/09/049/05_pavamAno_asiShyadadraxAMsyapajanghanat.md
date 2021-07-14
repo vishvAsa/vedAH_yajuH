@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-pávamāno asiṣyadad  
-rákṣāṃsi apajáṅghanat  
-pratnavád rocáyan rúcaḥ  
+प꣡वमानो असिष्यदद्  
+र꣡क्षांसि अपज꣡ङ्घनत्  
+प्रत्नव꣡द् रोच꣡यन् रु꣡चः  

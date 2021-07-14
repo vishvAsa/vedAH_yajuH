@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-júṣṭo dámūnā átithir duroṇá  
-imáṃ no yajñám úpa yāhi vidvā́n  
-víśvā agne abhiyújo vihátyā  
-śatrūyatā́m ā́ bharā bhójanāni  
+जु꣡ष्टो द꣡मूना अ꣡तिथिर् दुरोण꣡  
+इमं꣡ नो यज्ञ꣡म् उ꣡प याहि विद्वा꣡न्  
+वि꣡श्वा अग्ने अभियु꣡जो विह꣡त्या  
+शत्रूयता꣡म् आ꣡ भरा भो꣡जनानि  

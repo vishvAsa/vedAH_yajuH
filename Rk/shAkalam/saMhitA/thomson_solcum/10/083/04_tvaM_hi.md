@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuváṃ hí manyo abhíbhūtiyojāḥ  
-svayambhū́r bhā́mo abhimātiṣāháḥ  
-viśvácarṣaṇiḥ sáhuriḥ sáhāvān  
-asmā́su ójaḥ pŕ̥tanāsu dhehi  
+तुवं꣡ हि꣡ मन्यो अभि꣡भूतियोजाः  
+स्वयम्भू꣡र् भा꣡मो अभिमातिषाहः꣡  
+विश्व꣡चर्षणिः स꣡हुरिः स꣡हावान्  
+अस्मा꣡सु ओ꣡जः प्ŕ̥तनासु धेहि  

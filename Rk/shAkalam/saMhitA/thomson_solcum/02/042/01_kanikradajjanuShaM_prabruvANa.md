@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kánikradaj janúṣam prabruvāṇá  
-íyarti vā́cam aritéva nā́vam  
-sumaṅgálaś ca śakune bhávāsi  
-mā́ tvā kā́ cid abhibhā́ víśvyā vidat  
+क꣡निक्रदज् जनु꣡षम् प्रब्रुवाण꣡  
+इ꣡यर्ति वा꣡चम् अरिते꣡व ना꣡वम्  
+सुमङ्ग꣡लश् च शकुने भ꣡वासि  
+मा꣡ त्वा का꣡ चिद् अभिभा꣡ वि꣡श्व्या विदत्  

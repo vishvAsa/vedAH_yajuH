@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-tuváṃ vípras tuváṃ kavír  
-mádhu prá jātám ándhasaḥ  
-mádeṣu sarvadhā́ asi  
+तुवं꣡ वि꣡प्रस् तुवं꣡ कवि꣡र्  
+म꣡धु प्र꣡ जात꣡म् अ꣡न्धसः  
+म꣡देषु सर्वधा꣡ असि  

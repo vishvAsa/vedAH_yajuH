@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-yó agníṃ havyádātibhir  
-námobhir vā sudákṣam āvívāsati  
-girā́ vājiráśociṣam  
+यो꣡ अग्निं꣡ हव्य꣡दातिभिर्  
+न꣡मोभिर् वा सुद꣡क्षम् आवि꣡वासति  
+गिरा꣡ वाजिर꣡शोचिषम्  

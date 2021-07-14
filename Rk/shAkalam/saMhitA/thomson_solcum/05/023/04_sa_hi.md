@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-sá hí ṣmā viśvácarṣaṇir  
-abhímāti sáho dadhé  
-ágna eṣú kṣáyeṣu ā́  
-reván naḥ śukra dīdihi  
-dyumát pavāka+ dīdihi  
+स꣡ हि꣡ ष्मा विश्व꣡चर्षणिर्  
+अभि꣡माति स꣡हो दधे꣡  
+अ꣡ग्न एषु꣡ क्ष꣡येषु आ꣡  
+रेव꣡न् नः शुक्र दीदिहि  
+द्युम꣡त् पवाक+ दीदिहि  

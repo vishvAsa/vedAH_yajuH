@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ká imáṃ daśábhir máma  
-índraṃ krīṇāti dhenúbhiḥ  
-yadā́ vr̥trā́ṇi jáṅghanad  
-áthainam me púnar dadat  
+क꣡ इमं꣡ दश꣡भिर् म꣡म  
+इ꣡न्द्रं क्रीणाति धेनु꣡भिः  
+यदा꣡ वृत्रा꣡णि ज꣡ङ्घनद्  
+अ꣡थैनम् मे पु꣡नर् ददत्  

@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-táthā tád astu somapāḥ  
-sákhe vajrin táthā kr̥ṇu  
-yáthā ta uśmásīṣṭáye  
+त꣡था त꣡द् अस्तु सोमपाः  
+स꣡खे वज्रिन् त꣡था कृणु  
+य꣡था त उश्म꣡सीष्ट꣡ये  

@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-r̥dhák soma suastáye  
-saṃjagmānó diváḥ kavíḥ  
-pávasva sū́riyo dr̥śé  
+ऋध꣡क् सोम सुअस्त꣡ये  
+संजग्मानो꣡ दिवः꣡ कविः꣡  
+प꣡वस्व सू꣡रियो दृशे꣡  

@@ -2,7 +2,7 @@
 title = "037"
 
 +++
-ná ví jānāmi yád ivedám ásmi  
-niṇyáḥ sáṃnaddho mánasā carāmi  
-yadā́ mā́gan prathamajā́ r̥tásya  
-ā́d íd vācó aśnuve bhāgám asyā́ḥ  
+न꣡ वि꣡ जानामि य꣡द् इवेद꣡म् अ꣡स्मि  
+निण्यः꣡ सं꣡नद्धो म꣡नसा चरामि  
+यदा꣡ मा꣡गन् प्रथमजा꣡ ऋत꣡स्य  
+आ꣡द् इ꣡द् वाचो꣡ अश्नुवे भाग꣡म् अस्याः꣡  

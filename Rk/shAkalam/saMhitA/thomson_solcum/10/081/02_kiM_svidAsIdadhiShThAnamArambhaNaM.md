@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kíṃ svid āsīd adhiṣṭhā́nam  
-ārámbhaṇaṃ katamát svit kathā́sīt  
-yáto bhū́miṃ janáyan viśvákarmā  
-ví dyā́m aúrṇon mahinā́ viśvácakṣāḥ  
+किं꣡ स्विद् आसीद् अधिष्ठा꣡नम्  
+आर꣡म्भणं कतम꣡त् स्वित् कथा꣡सीत्  
+य꣡तो भू꣡मिं जन꣡यन् विश्व꣡कर्मा  
+वि꣡ द्या꣡म् अउ꣡र्णोन् महिना꣡ विश्व꣡चक्षाः  

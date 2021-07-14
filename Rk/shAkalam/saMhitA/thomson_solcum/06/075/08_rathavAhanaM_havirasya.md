@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-rathavā́hanaṃ havír asya nā́ma  
-yátrā́yudhaṃ níhitam asya várma  
-tátrā rátham úpa śagmáṃ sadema  
-viśvā́hā vayáṃ sumanasyámānāḥ  
+रथवा꣡हनं हवि꣡र् अस्य ना꣡म  
+य꣡त्रा꣡युधं नि꣡हितम् अस्य व꣡र्म  
+त꣡त्रा र꣡थम् उ꣡प शग्मं꣡ सदेम  
+विश्वा꣡हा वयं꣡ सुमनस्य꣡मानाः  

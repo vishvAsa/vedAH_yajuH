@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-tám u tvā vr̥trahántamaṃ  
-yó dásyūm̐r avadhūnuṣé  
-dyumnaír abhí prá ṇonumaḥ  
+त꣡म् उ त्वा वृत्रह꣡न्तमं  
+यो꣡ द꣡स्यूँर् अवधूनुषे꣡  
+द्युम्नइ꣡र् अभि꣡ प्र꣡ णोनुमः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-vadmā́ hí sūno ási admasádvā  
-cakré agnír janúṣā ájma ánnam  
-sá tuváṃ na ūrjasana ū́rjaṃ dhā  
-rā́jeva jer avr̥ké kṣeṣi antáḥ  
+वद्मा꣡ हि꣡ सूनो अ꣡सि अद्मस꣡द्वा  
+चक्रे꣡ अग्नि꣡र् जनु꣡षा अ꣡ज्म अ꣡न्नम्  
+स꣡ तुवं꣡ न ऊर्जसन ऊ꣡र्जं धा  
+रा꣡जेव जेर् अवृके꣡ क्षेषि अन्तः꣡  

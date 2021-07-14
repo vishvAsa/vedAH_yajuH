@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-yó vo devā ghr̥tásnunā  
-havyéna pratibhū́ṣati  
-táṃ víśva úpa gachatha  
+यो꣡ वो देवा घृत꣡स्नुना  
+हव्ये꣡न प्रतिभू꣡षति  
+तं꣡ वि꣡श्व उ꣡प गछथ  

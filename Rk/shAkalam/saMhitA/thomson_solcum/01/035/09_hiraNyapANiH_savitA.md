@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-híraṇyapāṇiḥ savitā́ vícarṣaṇir  
-ubhé dyā́vāpr̥thivī́ antár īyate  
-ápā́mīvām bā́dhate véti sū́riyam  
-abhí kr̥ṣṇéna rájasā dyā́m r̥ṇoti  
+हि꣡रण्यपाणिः सविता꣡ वि꣡चर्षणिर्  
+उभे꣡ द्या꣡वापृथिवी꣡ अन्त꣡र् ईयते  
+अ꣡पा꣡मीवाम् बा꣡धते वे꣡ति सू꣡रियम्  
+अभि꣡ कृष्णे꣡न र꣡जसा द्या꣡म् ऋणोति  

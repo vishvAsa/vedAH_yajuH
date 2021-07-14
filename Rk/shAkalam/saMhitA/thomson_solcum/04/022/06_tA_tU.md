@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tā́ tū́ te satyā́ tuvinr̥mṇa víśvā  
-prá dhenávaḥ sisrate vŕ̥ṣṇa ū́dhnaḥ  
-ádhā ha tvád vr̥ṣamaṇo bhiyānā́ḥ  
-prá síndhavo jávasā cakramanta  
+ता꣡ तू꣡ ते सत्या꣡ तुविनृम्ण वि꣡श्वा  
+प्र꣡ धेन꣡वः सिस्रते व्ŕ̥ष्ण ऊ꣡ध्नः  
+अ꣡धा ह त्व꣡द् वृषमणो भियानाः꣡  
+प्र꣡ सि꣡न्धवो ज꣡वसा चक्रमन्त  

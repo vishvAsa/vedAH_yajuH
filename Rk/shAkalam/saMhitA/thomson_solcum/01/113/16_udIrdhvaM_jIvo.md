@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-úd īrdhuvaṃ jīvó ásur na ā́gād  
-ápa prā́gāt táma ā́ jyótir eti  
-ā́raik pánthāṃ yā́tave sū́riyāya  
-áganma yátra pratiránta ā́yuḥ  
+उ꣡द् ईर्धुवं जीवो꣡ अ꣡सुर् न आ꣡गाद्  
+अ꣡प प्रा꣡गात् त꣡म आ꣡ ज्यो꣡तिर् एति  
+आ꣡रैक् प꣡न्थां या꣡तवे सू꣡रियाय  
+अ꣡गन्म य꣡त्र प्रतिर꣡न्त आ꣡युः  

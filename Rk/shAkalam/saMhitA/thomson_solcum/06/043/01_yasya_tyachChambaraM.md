@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-yásya tyác chámbaram máde  
-dívodāsāya randháyaḥ  
-ayáṃ sá sóma indra te sutáḥ píba  
+य꣡स्य त्य꣡च् छ꣡म्बरम् म꣡दे  
+दि꣡वोदासाय रन्ध꣡यः  
+अयं꣡ स꣡ सो꣡म इन्द्र ते सुतः꣡ पि꣡ब  

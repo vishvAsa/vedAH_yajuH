@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-váṣaṭ te viṣṇav āsá ā́ kr̥ṇomi  
-tán me juṣasva śipiviṣṭa havyám  
-várdhantu tvā suṣṭutáyo gíro me  
-yūyám pāta suastíbhiḥ sádā naḥ  
+व꣡षट् ते विष्णव् आस꣡ आ꣡ कृणोमि  
+त꣡न् मे जुषस्व शिपिविष्ट हव्य꣡म्  
+व꣡र्धन्तु त्वा सुष्टुत꣡यो गि꣡रो मे  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

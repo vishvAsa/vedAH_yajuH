@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-agníṃ dhībhír manīṣíṇo  
-médhirāso vipaścítaḥ  
-admasádyāya hinvire  
+अग्निं꣡ धीभि꣡र् मनीषि꣡णो  
+मे꣡धिरासो विपश्चि꣡तः  
+अद्मस꣡द्याय हिन्विरे  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ takṣata sātím asmábhyam r̥bhavaḥ  
-sātíṃ ráthāya sātím árvate naraḥ  
-sātíṃ no jaítrīṃ sám maheta viśváhā  
-jāmím ájāmim pŕ̥tanāsu sakṣáṇim  
+आ꣡ तक्षत साति꣡म् अस्म꣡भ्यम् ऋभवः  
+सातिं꣡ र꣡थाय साति꣡म् अ꣡र्वते नरः  
+सातिं꣡ नो जइ꣡त्रीं स꣡म् महेत विश्व꣡हा  
+जामि꣡म् अ꣡जामिम् प्ŕ̥तनासु सक्ष꣡णिम्  

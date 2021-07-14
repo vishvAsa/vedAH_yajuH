@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-itthā́ hí sóma ín máde  
-brahmā́ cakā́ra várdhanam  
-śáviṣṭha vajrin ójasā  
-pr̥thivyā́ níḥ śaśā áhim  
-árcann ánu svarā́jiyam  
+इत्था꣡ हि꣡ सो꣡म इ꣡न् म꣡दे  
+ब्रह्मा꣡ चका꣡र व꣡र्धनम्  
+श꣡विष्ठ वज्रिन् ओ꣡जसा  
+पृथिव्या꣡ निः꣡ शशा अ꣡हिम्  
+अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्  

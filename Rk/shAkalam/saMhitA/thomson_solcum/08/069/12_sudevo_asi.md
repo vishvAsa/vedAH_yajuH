@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-sudevó asi varuṇa  
-yásya te saptá síndhavaḥ  
-anukṣáranti kākúdaṃ  
-sūrmíyaṃ suṣirā́m iva  
+सुदेवो꣡ असि वरुण  
+य꣡स्य ते सप्त꣡ सि꣡न्धवः  
+अनुक्ष꣡रन्ति काकु꣡दं  
+सूर्मि꣡यं सुषिरा꣡म् इव  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá mandíne pitumád arcatā váco  
-yáḥ kr̥ṣṇágarbhā niráhann r̥jíśvanā  
-avasyávo vŕ̥ṣaṇaṃ vájradakṣiṇam  
-marútvantaṃ sakhiyā́ya havāmahe  
+प्र꣡ मन्दि꣡ने पितुम꣡द् अर्चता व꣡चो  
+यः꣡ कृष्ण꣡गर्भा निर꣡हन्न् ऋजि꣡श्वना  
+अवस्य꣡वो व्ŕ̥षणं व꣡ज्रदक्षिणम्  
+मरु꣡त्वन्तं सखिया꣡य हवामहे  

@@ -2,5 +2,5 @@
 title = "030"
 
 +++
-gā́vo ná yūthám úpa yanti vádhraya  
-úpa mā́ yanti vádhrayaḥ  
+गा꣡वो न꣡ यूथ꣡म् उ꣡प यन्ति व꣡ध्रय  
+उ꣡प मा꣡ यन्ति व꣡ध्रयः  

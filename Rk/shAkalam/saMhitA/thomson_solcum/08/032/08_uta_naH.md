@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-utá naḥ pitúm ā́ bhara  
-saṃrarāṇó ávikṣitam  
-mághavan bhū́ri te vásu  
+उत꣡ नः पितु꣡म् आ꣡ भर  
+संरराणो꣡ अ꣡विक्षितम्  
+म꣡घवन् भू꣡रि ते व꣡सु  

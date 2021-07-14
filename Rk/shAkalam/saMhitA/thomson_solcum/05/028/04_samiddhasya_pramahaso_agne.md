@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sámiddhasya prámahaso  
-ágne vánde táva śríyam  
-vr̥ṣabhó dyumnávām̐ asi  
-sám adhvaréṣu idhyase  
+स꣡मिद्धस्य प्र꣡महसो  
+अ꣡ग्ने व꣡न्दे त꣡व श्रि꣡यम्  
+वृषभो꣡ द्युम्न꣡वाँ असि  
+स꣡म् अध्वरे꣡षु इध्यसे  

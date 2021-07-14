@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-yác cid dhí te víśo yathā  
-prá deva varuṇa vratám  
-minīmási dyávi-dyavi  
+य꣡च् चिद् धि꣡ ते वि꣡शो यथा  
+प्र꣡ देव वरुण व्रत꣡म्  
+मिनीम꣡सि द्य꣡वि-द्यवि  

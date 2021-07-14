@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ná tā́ minanti māyíno ná dhī́rā  
-vratā́ devā́nām prathamā́ dhruvā́ṇi  
-ná ródasī adrúhā vediyā́bhir  
-ná párvatā nináme tasthivā́ṃsaḥ  
+न꣡ ता꣡ मिनन्ति मायि꣡नो न꣡ धी꣡रा  
+व्रता꣡ देवा꣡नाम् प्रथमा꣡ ध्रुवा꣡णि  
+न꣡ रो꣡दसी अद्रु꣡हा वेदिया꣡भिर्  
+न꣡ प꣡र्वता निन꣡मे तस्थिवां꣡सः  

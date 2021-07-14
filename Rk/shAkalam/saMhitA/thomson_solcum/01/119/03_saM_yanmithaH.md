@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sáṃ yán mitháḥ paspr̥dhānā́so ágmata  
-śubhé makhā́ ámitā jāyávo ráṇe  
-yuvór áha pravaṇé cekite rátho  
-yád aśvinā váhathaḥ sūrím ā́ váram  
+सं꣡ य꣡न् मिथः꣡ पस्पृधाना꣡सो अ꣡ग्मत  
+शुभे꣡ मखा꣡ अ꣡मिता जाय꣡वो र꣡णे  
+युवो꣡र् अ꣡ह प्रवणे꣡ चेकिते र꣡थो  
+य꣡द् अश्विना व꣡हथः सूरि꣡म् आ꣡ व꣡रम्  

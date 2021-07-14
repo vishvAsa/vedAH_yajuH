@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ayáṃ divá iyarti víśvam ā́ rájaḥ  
-sómaḥ punānáḥ kaláśeṣu sīdati  
-adbhír góbhir mr̥jyate ádribhiḥ sutáḥ  
-punāná índur várivo vidat priyám  
+अयं꣡ दिव꣡ इयर्ति वि꣡श्वम् आ꣡ र꣡जः  
+सो꣡मः पुनानः꣡ कल꣡शेषु सीदति  
+अद्भि꣡र् गो꣡भिर् मृज्यते अ꣡द्रिभिः सुतः꣡  
+पुनान꣡ इ꣡न्दुर् व꣡रिवो विदत् प्रिय꣡म्  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yó vaḥ senānī́r maható gaṇásya  
-rā́jā vrā́tasya prathamó babhū́va  
-tásmai kr̥ṇomi ná dhánā ruṇadhmi  
-dáśāhám prā́cīs tád r̥táṃ vadāmi  
+यो꣡ वः सेनानी꣡र् महतो꣡ गण꣡स्य  
+रा꣡जा व्रा꣡तस्य प्रथमो꣡ बभू꣡व  
+त꣡स्मै कृणोमि न꣡ ध꣡ना रुणध्मि  
+द꣡शाह꣡म् प्रा꣡चीस् त꣡द् ऋतं꣡ वदामि  

@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-sá naḥ pitéva sūnáve  
-ágne sūpāyanó bhava  
-sácasvā naḥ suastáye  
+स꣡ नः पिते꣡व सून꣡वे  
+अ꣡ग्ने सूपायनो꣡ भव  
+स꣡चस्वा नः सुअस्त꣡ये  

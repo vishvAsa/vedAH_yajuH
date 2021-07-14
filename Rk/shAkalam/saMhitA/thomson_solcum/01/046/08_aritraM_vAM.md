@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-arítraṃ vāṃ divás pr̥thú  
-tīrthé síndhūnãṃ ráthaḥ  
-dhiyā́ yuyujra índavaḥ  
+अरि꣡त्रं वां दिव꣡स् पृथु꣡  
+तीर्थे꣡ सि꣡न्धून्ãं र꣡थः  
+धिया꣡ युयुज्र इ꣡न्दवः  

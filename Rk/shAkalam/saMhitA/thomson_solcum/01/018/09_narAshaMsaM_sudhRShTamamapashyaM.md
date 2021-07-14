@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-nárāśáṃsaṃ sudhŕ̥ṣṭamam  
-ápaśyaṃ sapráthastamam  
-divó ná sádmamakhasam  
+न꣡राशं꣡सं सुध्ŕ̥ष्टमम्  
+अ꣡पश्यं सप्र꣡थस्तमम्  
+दिवो꣡ न꣡ स꣡द्ममखसम्  

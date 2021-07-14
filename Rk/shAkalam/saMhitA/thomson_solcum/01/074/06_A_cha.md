@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ā́ ca váhāsi tā́m̐ ihá  
-devā́m̐ úpa práśastaye  
-havyā́ suścandra vītáye  
+आ꣡ च व꣡हासि ताँ꣡ इह꣡  
+देवाँ꣡ उ꣡प प्र꣡शस्तये  
+हव्या꣡ सुश्चन्द्र वीत꣡ये  

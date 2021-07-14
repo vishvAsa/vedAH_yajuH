@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ágne náya supáthā rāyé asmā́n  
-víśvāni deva vayúnāni vidvā́n  
-yuyodhí asmáj juhurāṇám éno  
-bhū́yiṣṭhāṃ te námaüktiṃ vidhema  
+अ꣡ग्ने न꣡य सुप꣡था राये꣡ अस्मा꣡न्  
+वि꣡श्वानि देव वयु꣡नानि विद्वा꣡न्  
+युयोधि꣡ अस्म꣡ज् जुहुराण꣡म् ए꣡नो  
+भू꣡यिष्ठां ते न꣡मüक्तिं विधेम  

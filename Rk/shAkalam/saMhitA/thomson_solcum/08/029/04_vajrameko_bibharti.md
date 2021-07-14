@@ -2,5 +2,5 @@
 title = "004"
 
 +++
-vájram éko bibharti hásta ā́hitaṃ  
-téna vr̥trā́ṇi jighnate  
+व꣡ज्रम् ए꣡को बिभर्ति ह꣡स्त आ꣡हितं  
+ते꣡न वृत्रा꣡णि जिघ्नते  

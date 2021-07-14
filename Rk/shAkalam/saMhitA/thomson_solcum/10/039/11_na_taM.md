@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ná táṃ rājānāv adite kútaś caná  
-nā́ṃho aśnoti duritáṃ nákir bhayám  
-yám aśvinā suhavā rudravartanī  
-puroratháṃ kr̥ṇutháḥ pátniyā sahá  
+न꣡ तं꣡ राजानाव् अदिते कु꣡तश् चन꣡  
+नां꣡हो अश्नोति दुरितं꣡ न꣡किर् भय꣡म्  
+य꣡म् अश्विना सुहवा रुद्रवर्तनी  
+पुरोरथं꣡ कृणुथः꣡ प꣡त्निया सह꣡  

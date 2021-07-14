@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sánitāsi praváto dāśúṣe cid  
-yā́bhir víveṣo hariaśva dhībhíḥ  
-vavanmā́ nú te yújiyābhir ūtī́  
-kadā́ na indra rāyá ā́ daśasyeḥ  
+स꣡नितासि प्रव꣡तो दाशु꣡षे चिद्  
+या꣡भिर् वि꣡वेषो हरिअश्व धीभिः꣡  
+ववन्मा꣡ नु꣡ ते यु꣡जियाभिर् ऊती꣡  
+कदा꣡ न इन्द्र राय꣡ आ꣡ दशस्येः  

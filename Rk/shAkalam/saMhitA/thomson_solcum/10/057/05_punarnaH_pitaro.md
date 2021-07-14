@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-púnar naḥ pitaro máno  
-dádātu daíviyo jánaḥ  
-jīváṃ vrā́taṃ sacemahi  
+पु꣡नर् नः पितरो म꣡नो  
+द꣡दातु दइ꣡वियो ज꣡नः  
+जीवं꣡ व्रा꣡तं सचेमहि  

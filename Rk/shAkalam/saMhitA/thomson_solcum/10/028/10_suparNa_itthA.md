@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-suparṇá itthā́ nakhám ā́ siṣāya  
-ávaruddhaḥ paripádaṃ ná siṃháḥ  
-niruddháś cin mahiṣás tarṣiyā́vān  
-godhā́ tásmā ayáthaṃ karṣad etát  
+सुपर्ण꣡ इत्था꣡ नख꣡म् आ꣡ सिषाय  
+अ꣡वरुद्धः परिप꣡दं न꣡ सिंहः꣡  
+निरुद्ध꣡श् चिन् महिष꣡स् तर्षिया꣡वान्  
+गोधा꣡ त꣡स्मा अय꣡थं कर्षद् एत꣡त्  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sómo arṣati dharṇasír  
-dádhāna indriyáṃ rásam  
-suvī́ro abhiśastipā́ḥ  
+सो꣡मो अर्षति धर्णसि꣡र्  
+द꣡धान इन्द्रियं꣡ र꣡सम्  
+सुवी꣡रो अभिशस्तिपाः꣡  

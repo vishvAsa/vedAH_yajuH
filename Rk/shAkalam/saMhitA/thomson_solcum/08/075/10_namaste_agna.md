@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-námas te agna ójase  
-gr̥ṇánti deva kr̥ṣṭáyaḥ  
-ámair amítram ardaya  
+न꣡मस् ते अग्न ओ꣡जसे  
+गृण꣡न्ति देव कृष्ट꣡यः  
+अ꣡मैर् अमि꣡त्रम् अर्दय  

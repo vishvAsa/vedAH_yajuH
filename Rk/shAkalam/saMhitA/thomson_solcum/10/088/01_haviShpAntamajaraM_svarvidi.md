@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-havíṣ pã́ntam ajáraṃ suvarvídi  
-divispŕ̥śi ā́hutaṃ júṣṭam agnaú  
-tásya bhármaṇe bhúvanāya devā́  
-dhármaṇe káṃ svadháyā paprathanta  
+हवि꣡ष् प्ã꣡न्तम् अज꣡रं सुवर्वि꣡दि  
+दिविस्प्ŕ̥शि आ꣡हुतं जु꣡ष्टम् अग्नउ꣡  
+त꣡स्य भ꣡र्मणे भु꣡वनाय देवा꣡  
+ध꣡र्मणे कं꣡ स्वध꣡या पप्रथन्त  

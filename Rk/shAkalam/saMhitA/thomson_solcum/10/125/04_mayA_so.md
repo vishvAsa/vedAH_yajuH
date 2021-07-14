@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-máyā só ánnam atti yó vipáśyati  
-yáḥ prā́ṇiti yá īṃ śr̥ṇóti uktám  
-amantávo mā́ṃ tá úpa kṣiyanti  
-śrudhí śruta śraddhiváṃ te vadāmi  
+म꣡या सो꣡ अ꣡न्नम् अत्ति यो꣡ विप꣡श्यति  
+यः꣡ प्रा꣡णिति य꣡ ईं शृणो꣡ति उक्त꣡म्  
+अमन्त꣡वो मां꣡ त꣡ उ꣡प क्षियन्ति  
+श्रुधि꣡ श्रुत श्रद्धिवं꣡ ते वदामि  

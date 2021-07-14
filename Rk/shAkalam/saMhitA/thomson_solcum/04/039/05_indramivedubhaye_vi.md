@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índram ivéd ubháye ví hvayanta  
-udī́rāṇā yajñám upaprayántaḥ  
-dadhikrā́m u sū́danam mártiyāya  
-dadáthur mitrāvaruṇā no áśvam  
+इ꣡न्द्रम् इवे꣡द् उभ꣡ये वि꣡ ह्वयन्त  
+उदी꣡राणा यज्ञ꣡म् उपप्रय꣡न्तः  
+दधिक्रा꣡म् उ सू꣡दनम् म꣡र्तियाय  
+दद꣡थुर् मित्रावरुणा नो अ꣡श्वम्  

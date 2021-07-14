@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-viśā́ṃ gopā́ asya caranti jantávo  
-dvipác ca yád utá cátuṣpad aktúbhiḥ  
-citráḥ praketá uṣáso mahā́m̐ asi  
-ágne sakhyé mā́ riṣāmā vayáṃ táva  
+विशां꣡ गोपा꣡ अस्य चरन्ति जन्त꣡वो  
+द्विप꣡च् च य꣡द् उत꣡ च꣡तुष्पद् अक्तु꣡भिः  
+चित्रः꣡ प्रकेत꣡ उष꣡सो महाँ꣡ असि  
+अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व  

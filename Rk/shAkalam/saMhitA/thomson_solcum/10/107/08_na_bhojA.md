@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ná bhojā́ mamrur ná niarthám īyur  
-ná riṣyanti ná vyathante ha bhojā́ḥ  
-idáṃ yád víśvam bhúvanaṃ súvaś ca  
-etát sárvaṃ dákṣiṇaibhyo dadāti  
+न꣡ भोजा꣡ मम्रुर् न꣡ निअर्थ꣡म् ईयुर्  
+न꣡ रिष्यन्ति न꣡ व्यथन्ते ह भोजाः꣡  
+इदं꣡ य꣡द् वि꣡श्वम् भु꣡वनं सु꣡वश् च  
+एत꣡त् स꣡र्वं द꣡क्षिणैभ्यो ददाति  

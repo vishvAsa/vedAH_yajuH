@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tuváṃ naś citrá ūtiyā́  
-váso rā́dhāṃsi codaya  
-asyá rāyás tuvám agne rathī́r asi  
-vidā́ gādháṃ tucé tú naḥ  
+तुवं꣡ नश् चित्र꣡ ऊतिया꣡  
+व꣡सो रा꣡धांसि चोदय  
+अस्य꣡ राय꣡स् तुव꣡म् अग्ने रथी꣡र् असि  
+विदा꣡ गाधं꣡ तुचे꣡ तु꣡ नः  

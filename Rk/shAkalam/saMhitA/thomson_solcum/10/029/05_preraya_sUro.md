@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá īraya sū́ro árthaṃ ná pāráṃ  
-yé asya kā́maṃ janidhā́ iva gmán  
-gíraś ca yé te tuvijāta pūrvī́r  
-nára indra pratiśíkṣanti ánnaiḥ  
+प्र꣡ ईरय सू꣡रो अ꣡र्थं न꣡ पारं꣡  
+ये꣡ अस्य का꣡मं जनिधा꣡ इव ग्म꣡न्  
+गि꣡रश् च ये꣡ ते तुविजात पूर्वी꣡र्  
+न꣡र इन्द्र प्रतिशि꣡क्षन्ति अ꣡न्नैः  

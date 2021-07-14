@@ -2,6 +2,6 @@
 title = "029"
 
 +++
-ásya te sakhiyé vayáṃ  
-távendo dyumná uttamé  
-sāsahyā́ma pr̥tanyatáḥ  
+अ꣡स्य ते सखिये꣡ वयं꣡  
+त꣡वेन्दो द्युम्न꣡ उत्तमे꣡  
+सासह्या꣡म पृतन्यतः꣡  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sahásradhāraṃ vr̥ṣabhám payovŕ̥dham  
-priyáṃ devā́ya jánmane  
-r̥téna yá r̥tájāto vivāvr̥dhé  
-rā́jā devá r̥tám br̥hát  
+सह꣡स्रधारं वृषभ꣡म् पयोव्ŕ̥धम्  
+प्रियं꣡ देवा꣡य ज꣡न्मने  
+ऋते꣡न य꣡ ऋत꣡जातो विवावृधे꣡  
+रा꣡जा देव꣡ ऋत꣡म् बृह꣡त्  

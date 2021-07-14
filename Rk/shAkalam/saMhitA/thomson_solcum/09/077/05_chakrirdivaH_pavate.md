@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-cákrir diváḥ pavate kŕ̥tviyo ráso  
-mahā́m̐ ádabdho váruṇo hurúg yaté  
-ásāvi mitró vr̥jáneṣu yajñíyo  
-átyo ná yūthé vr̥ṣayúḥ kánikradat  
+च꣡क्रिर् दिवः꣡ पवते क्ŕ̥त्वियो र꣡सो  
+महाँ꣡ अ꣡दब्धो व꣡रुणो हुरु꣡ग् यते꣡  
+अ꣡सावि मित्रो꣡ वृज꣡नेषु यज्ञि꣡यो  
+अ꣡त्यो न꣡ यूथे꣡ वृषयुः꣡ क꣡निक्रदत्  

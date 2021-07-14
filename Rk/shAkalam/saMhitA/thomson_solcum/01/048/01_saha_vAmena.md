@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sahá vāména na uṣo  
-ví uchā duhitar divaḥ  
-sahá dyumnéna br̥hatā́ vibhāvari  
-rāyā́ devi dã́svatī  
+सह꣡ वामे꣡न न उषो  
+वि꣡ उछा दुहितर् दिवः  
+सह꣡ द्युम्ने꣡न बृहता꣡ विभावरि  
+राया꣡ देवि द्ã꣡स्वती  

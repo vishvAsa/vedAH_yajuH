@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áchā hí tvā sahasaḥ sūno aṅgiraḥ  
-srúcaś cáranti adhvaré  
-ūrjó nápātaṃ ghr̥tákeśam īmahe  
-agníṃ yajñéṣu pūrviyám  
+अ꣡छा हि꣡ त्वा सहसः सूनो अङ्गिरः  
+स्रु꣡चश् च꣡रन्ति अध्वरे꣡  
+ऊर्जो꣡ न꣡पातं घृत꣡केशम् ईमहे  
+अग्निं꣡ यज्ञे꣡षु पूर्विय꣡म्  

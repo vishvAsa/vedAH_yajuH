@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tásmā íd víśve dhunayanta síndhavo  
-áchidrā śárma dadhire purū́ṇi  
-devā́nāṃ sumné subhágaḥ sá edhate  
-yáṃ-yaṃ yújaṃ kr̥ṇuté bráhmaṇas pátiḥ  
+त꣡स्मा इ꣡द् वि꣡श्वे धुनयन्त सि꣡न्धवो  
+अ꣡छिद्रा श꣡र्म दधिरे पुरू꣡णि  
+देवा꣡नां सुम्ने꣡ सुभ꣡गः स꣡ एधते  
+यं꣡-यं यु꣡जं कृणुते꣡ ब्र꣡ह्मणस् प꣡तिः  

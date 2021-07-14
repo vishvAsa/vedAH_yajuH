@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-pínvanti apó marútaḥ sudā́navaḥ  
-páyo ghr̥távad vidátheṣu ābhúvaḥ  
-átyaṃ ná mihé ví nayanti vājínam  
-útsaṃ duhanti stanáyantam ákṣitam  
+पि꣡न्वन्ति अपो꣡ मरु꣡तः सुदा꣡नवः  
+प꣡यो घृत꣡वद् विद꣡थेषु आभु꣡वः  
+अ꣡त्यं न꣡ मिहे꣡ वि꣡ नयन्ति वाजि꣡नम्  
+उ꣡त्सं दुहन्ति स्तन꣡यन्तम् अ꣡क्षितम्  

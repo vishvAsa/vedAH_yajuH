@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-r̥bhúr r̥bhúbhir abhí vaḥ siyāma  
-víbhvo vibhúbhiḥ śávasā śávāṃsi  
-vā́jo asmā́m̐ avatu vā́jasātāv  
-índreṇa yujā́ taruṣema vr̥trám  
+ऋभु꣡र् ऋभु꣡भिर् अभि꣡ वः सियाम  
+वि꣡भ्वो विभु꣡भिः श꣡वसा श꣡वांसि  
+वा꣡जो अस्माँ꣡ अवतु वा꣡जसाताव्  
+इ꣡न्द्रेण युजा꣡ तरुषेम वृत्र꣡म्  

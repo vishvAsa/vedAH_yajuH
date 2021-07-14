@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-jáyataṃ ca prá stutaṃ ca prá cāvatam  
-prajā́ṃ ca dhattáṃ dráviṇaṃ ca dhattam  
-sajóṣasā uṣásā sū́riyeṇa ca  
-ū́rjaṃ no dhattam aśvinā  
+ज꣡यतं च प्र꣡ स्तुतं च प्र꣡ चावतम्  
+प्रजां꣡ च धत्तं꣡ द्र꣡विणं च धत्तम्  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+ऊ꣡र्जं नो धत्तम् अश्विना  

@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-ā́pūrṇo asya kaláśaḥ suvā́hā  
-sékteva kóśaṃ sisice píbadhyai  
-sám u priyā́ ā́vavr̥tran mádāya  
-pradakṣiṇíd abhí sómāsa índram  
+आ꣡पूर्णो अस्य कल꣡शः सुवा꣡हा  
+से꣡क्तेव को꣡शं सिसिचे पि꣡बध्यै  
+स꣡म् उ प्रिया꣡ आ꣡ववृत्रन् म꣡दाय  
+प्रदक्षिणि꣡द् अभि꣡ सो꣡मास इ꣡न्द्रम्  

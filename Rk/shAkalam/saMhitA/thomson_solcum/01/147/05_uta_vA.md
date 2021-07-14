@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-utá vā yáḥ sahasiya pravidvā́n  
-márto mártam marcáyati dvayéna  
-átaḥ pāhi stavamāna stuvántam  
-ágne mā́kir no duritā́ya dhāyīḥ  
+उत꣡ वा यः꣡ सहसिय प्रविद्वा꣡न्  
+म꣡र्तो म꣡र्तम् मर्च꣡यति द्वये꣡न  
+अ꣡तः पाहि स्तवमान स्तुव꣡न्तम्  
+अ꣡ग्ने मा꣡किर् नो दुरिता꣡य धायीः  

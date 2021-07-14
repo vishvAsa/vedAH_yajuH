@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-mr̥̄ḷáta+ no maruto mā́ vadhiṣṭana  
-asmábhyaṃ śárma bahuláṃ ví yantana  
-ádhi stotrásya sakhiyásya gātana  
-śúbhaṃ yātā́m ánu ráthā avr̥tsata  
+मॄऌअ꣡त+ नो मरुतो मा꣡ वधिष्टन  
+अस्म꣡भ्यं श꣡र्म बहुलं꣡ वि꣡ यन्तन  
+अ꣡धि स्तोत्र꣡स्य सखिय꣡स्य गातन  
+शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत  

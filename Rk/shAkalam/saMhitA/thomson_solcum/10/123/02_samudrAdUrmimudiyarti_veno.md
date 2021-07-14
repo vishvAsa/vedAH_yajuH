@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-samudrā́d ūrmím úd iyarti venó  
-nabhojā́ḥ pr̥ṣṭháṃ haryatásya darśi  
-r̥tásya sā́nāv ádhi viṣṭápi bhrā́ṭ  
-samānáṃ yónim abhy ànūṣata vrā́ḥ  
+समुद्रा꣡द् ऊर्मि꣡म् उ꣡द् इयर्ति वेनो꣡  
+नभोजाः꣡ पृष्ठं꣡ हर्यत꣡स्य दर्शि  
+ऋत꣡स्य सा꣡नाव् अ꣡धि विष्ट꣡पि भ्रा꣡ट्  
+समानं꣡ यो꣡निम् अभ्य् अ᳡नूषत व्राः꣡  

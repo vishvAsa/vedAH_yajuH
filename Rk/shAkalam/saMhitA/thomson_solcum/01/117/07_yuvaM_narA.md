@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yuváṃ narā stuvaté kr̥ṣṇiyā́ya  
-viṣṇāpúvaṃ dadathur víśvakāya  
-ghóṣāyai cit pitr̥ṣáde duroṇé  
-pátiṃ jū́ryantyā aśvināv adattam  
+युवं꣡ नरा स्तुवते꣡ कृष्णिया꣡य  
+विष्णापु꣡वं ददथुर् वि꣡श्वकाय  
+घो꣡षायै चित् पितृष꣡दे दुरोणे꣡  
+प꣡तिं जू꣡र्यन्त्या अश्विनाव् अदत्तम्  

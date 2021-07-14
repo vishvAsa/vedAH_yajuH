@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ná kṣoṇī́bhyām paribhúve ta indriyáṃ  
-ná samudraíḥ párvatair indra te ráthaḥ  
-ná te vájram ánu aśnoti káś caná  
-yád āśúbhiḥ pátasi yójanā purú  
+न꣡ क्षोणी꣡भ्याम् परिभु꣡वे त इन्द्रियं꣡  
+न꣡ समुद्रइः꣡ प꣡र्वतैर् इन्द्र ते र꣡थः  
+न꣡ ते व꣡ज्रम् अ꣡नु अश्नोति क꣡श् चन꣡  
+य꣡द् आशु꣡भिः प꣡तसि यो꣡जना पुरु꣡  

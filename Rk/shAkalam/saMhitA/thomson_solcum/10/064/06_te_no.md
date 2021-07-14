@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-té no árvanto havanaśrúto hávaṃ  
-víśve śr̥ṇvantu vājíno mitádravaḥ  
-sahasrasā́ medhásātāv iva tmánā  
-mahó yé dhánaṃ samithéṣu jabhriré  
+ते꣡ नो अ꣡र्वन्तो हवनश्रु꣡तो ह꣡वं  
+वि꣡श्वे शृण्वन्तु वाजि꣡नो मित꣡द्रवः  
+सहस्रसा꣡ मेध꣡साताव् इव त्म꣡ना  
+महो꣡ ये꣡ ध꣡नं समिथे꣡षु जभ्रिरे꣡  

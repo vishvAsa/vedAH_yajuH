@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ putrā́so ná mātáraṃ víbhr̥trāḥ  
-sā́nau devā́so barhíṣaḥ sadantu  
-ā́ viśvā́cī vidathíyām anaktu  
-ágne mā́ no devátātā mŕ̥dhas kaḥ  
+आ꣡ पुत्रा꣡सो न꣡ मात꣡रं वि꣡भृत्राः  
+सा꣡नौ देवा꣡सो बर्हि꣡षः सदन्तु  
+आ꣡ विश्वा꣡ची विदथि꣡याम् अनक्तु  
+अ꣡ग्ने मा꣡ नो देव꣡ताता म्ŕ̥धस् कः  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-r̥tásya tántur vítataḥ pavítra ā́  
-jihvā́yā ágre váruṇasya māyáyā  
-dhī́rāś cit tát samínakṣanta āśata  
-átrā kartám áva padāti áprabhuḥ  
+ऋत꣡स्य त꣡न्तुर् वि꣡ततः पवि꣡त्र आ꣡  
+जिह्वा꣡या अ꣡ग्रे व꣡रुणस्य माय꣡या  
+धी꣡राश् चित् त꣡त् समि꣡नक्षन्त आशत  
+अ꣡त्रा कर्त꣡म् अ꣡व पदाति अ꣡प्रभुः  

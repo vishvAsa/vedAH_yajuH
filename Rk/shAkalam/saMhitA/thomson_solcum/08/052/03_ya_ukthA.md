@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yá ukthā́ kévalā dadhé  
-yáḥ sómaṃ dhr̥ṣitā́pibat  
-yásmai víṣṇus trī́ṇi padā́ vicakramá  
-úpa mitrásya dhármabhiḥ  
+य꣡ उक्था꣡ के꣡वला दधे꣡  
+यः꣡ सो꣡मं धृषिता꣡पिबत्  
+य꣡स्मै वि꣡ष्णुस् त्री꣡णि पदा꣡ विचक्रम꣡  
+उ꣡प मित्र꣡स्य ध꣡र्मभिः  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-ná te gíro ápi mr̥ṣye turásya  
-ná suṣṭutím asuríyasya vidvā́n  
-sádā te nā́ma svayaśo vivakmi  
+न꣡ ते गि꣡रो अ꣡पि मृष्ये तुर꣡स्य  
+न꣡ सुष्टुति꣡म् असुरि꣡यस्य विद्वा꣡न्  
+स꣡दा ते ना꣡म स्वयशो विवक्मि  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvám agne vr̥jinávartaniṃ náraṃ  
-sákman piparṣi vidáthe vicarṣaṇe  
-yáḥ śū́rasātā páritakmiye dháne  
-dabhrébhiś cit sámr̥tā háṃsi bhū́yasaḥ  
+तुव꣡म् अग्ने वृजिन꣡वर्तनिं न꣡रं  
+स꣡क्मन् पिपर्षि विद꣡थे विचर्षणे  
+यः꣡ शू꣡रसाता प꣡रितक्मिये ध꣡ने  
+दभ्रे꣡भिश् चित् स꣡मृता हं꣡सि भू꣡यसः  

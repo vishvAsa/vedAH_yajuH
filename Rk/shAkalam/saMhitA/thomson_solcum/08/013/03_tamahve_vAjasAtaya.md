@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tám ahve vā́jasātaya  
-índram bhárāya śuṣmíṇam  
-bhávā naḥ sumné ántamaḥ sákhā vr̥dhé  
+त꣡म् अह्वे वा꣡जसातय  
+इ꣡न्द्रम् भ꣡राय शुष्मि꣡णम्  
+भ꣡वा नः सुम्ने꣡ अ꣡न्तमः स꣡खा वृधे꣡  

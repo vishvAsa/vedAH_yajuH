@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-sóma rārandhí no hr̥dí  
-gā́vo ná yávaseṣu ā́  
-márya iva svá okíye  
+सो꣡म रारन्धि꣡ नो हृदि꣡  
+गा꣡वो न꣡ य꣡वसेषु आ꣡  
+म꣡र्य इव स्व꣡ ओकि꣡ये  

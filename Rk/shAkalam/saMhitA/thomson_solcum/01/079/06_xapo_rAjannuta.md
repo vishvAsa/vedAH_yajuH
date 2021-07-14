@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-kṣapó rājann utá tmánā  
-ágne vástor utóṣásaḥ  
-sá tigmajambha rakṣáso daha práti  
+क्षपो꣡ राजन्न् उत꣡ त्म꣡ना  
+अ꣡ग्ने व꣡स्तोर् उतो꣡ष꣡सः  
+स꣡ तिग्मजम्भ रक्ष꣡सो दह प्र꣡ति  

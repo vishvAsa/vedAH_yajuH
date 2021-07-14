@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-dhiyā́ cakre váreṇiyo  
-bhūtā́nāṃ gárbham ā́ dadhe  
-dákṣasya pitáraṃ tánā  
+धिया꣡ चक्रे व꣡रेणियो  
+भूता꣡नां ग꣡र्भम् आ꣡ दधे  
+द꣡क्षस्य पित꣡रं त꣡ना  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-rathī́ iva káśayā́śvām̐ abhikṣipánn  
-āvír dūtā́n kr̥ṇute varṣíyām̐ áha  
-dūrā́t siṃhásya stanáthā úd īrate  
-yát parjányaḥ kr̥ṇuté varṣíyaṃ nábhaḥ  
+रथी꣡ इव क꣡शया꣡श्वाँ अभिक्षिप꣡न्न्  
+आवि꣡र् दूता꣡न् कृणुते वर्षि꣡याँ अ꣡ह  
+दूरा꣡त् सिंह꣡स्य स्तन꣡था उ꣡द् ईरते  
+य꣡त् पर्ज꣡न्यः कृणुते꣡ वर्षि꣡यं न꣡भः  

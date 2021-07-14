@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-bódhā sú me maghavan vā́cam émā́ṃ  
-yā́ṃ te vásiṣṭho árcati práśastim  
-imā́ bráhma sadhamā́de juṣasva  
+बो꣡धा सु꣡ मे मघवन् वा꣡चम् ए꣡मां꣡  
+यां꣡ ते व꣡सिष्ठो अ꣡र्चति प्र꣡शस्तिम्  
+इमा꣡ ब्र꣡ह्म सधमा꣡दे जुषस्व  

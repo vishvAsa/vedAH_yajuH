@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-carkŕ̥tiyam marutaḥ pr̥tsú duṣṭáraṃ  
-dyumántaṃ śúṣmam maghávatsu dhattana  
-dhanaspŕ̥tam ukthíyaṃ viśvácarṣaṇiṃ  
-tokám puṣyema tánayaṃ śatáṃ hímāḥ  
+चर्क्ŕ̥तियम् मरुतः पृत्सु꣡ दुष्ट꣡रं  
+द्युम꣡न्तं शु꣡ष्मम् मघ꣡वत्सु धत्तन  
+धनस्प्ŕ̥तम् उक्थि꣡यं विश्व꣡चर्षणिं  
+तोक꣡म् पुष्येम त꣡नयं शतं꣡ हि꣡माः  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-mitráṃ huve pūtádakṣaṃ  
-váruṇaṃ ca riśā́dasam  
-dhíyaṃ ghr̥tā́cīṃ sā́dhantā  
+मित्रं꣡ हुवे पूत꣡दक्षं  
+व꣡रुणं च रिशा꣡दसम्  
+धि꣡यं घृता꣡चीं सा꣡धन्ता  

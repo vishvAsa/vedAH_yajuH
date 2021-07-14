@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-ā́ me asyá pratīvíyam  
-índranāsatiyā gatam  
-devā́ devébhir adyá sacánastamā  
+आ꣡ मे अस्य꣡ प्रतीवि꣡यम्  
+इ꣡न्द्रनासतिया गतम्  
+देवा꣡ देवे꣡भिर् अद्य꣡ सच꣡नस्तमा  

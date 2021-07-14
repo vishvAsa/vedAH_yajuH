@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-nā́háṃ táṃ veda yá íti brávīti  
-ádevayūn samáraṇe jaghanvā́n  
-yadā́vā́khyat samáraṇam ŕ̥ghāvad  
-ā́d íd dha me vr̥ṣabhā́ prá bruvanti  
+ना꣡हं꣡ तं꣡ वेद य꣡ इ꣡ति ब्र꣡वीति  
+अ꣡देवयून् सम꣡रणे जघन्वा꣡न्  
+यदा꣡वा꣡ख्यत् सम꣡रणम् ŕ̥घावद्  
+आ꣡द् इ꣡द् ध मे वृषभा꣡ प्र꣡ ब्रुवन्ति  

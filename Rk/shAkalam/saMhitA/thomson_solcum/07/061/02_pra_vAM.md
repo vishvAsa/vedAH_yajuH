@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá vāṃ sá mitrāvaruṇāv r̥tā́vā  
-vípro mánmāni dīrghaśrúd iyarti  
-yásya bráhmāṇi sukratū ávātha  
-ā́ yát krátvā ná śarádaḥ pr̥ṇaíthe  
+प्र꣡ वां स꣡ मित्रावरुणाव् ऋता꣡वा  
+वि꣡प्रो म꣡न्मानि दीर्घश्रु꣡द् इयर्ति  
+य꣡स्य ब्र꣡ह्माणि सुक्रतू अ꣡वाथ  
+आ꣡ य꣡त् क्र꣡त्वा न꣡ शर꣡दः पृणइ꣡थे  

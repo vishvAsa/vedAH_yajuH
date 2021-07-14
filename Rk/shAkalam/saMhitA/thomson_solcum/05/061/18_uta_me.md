@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-utá me vocatād íti  
-sutásome ráthavītau  
-ná kā́mo ápa veti me  
+उत꣡ मे वोचताद् इ꣡ति  
+सुत꣡सोमे र꣡थवीतौ  
+न꣡ का꣡मो अ꣡प वेति मे  

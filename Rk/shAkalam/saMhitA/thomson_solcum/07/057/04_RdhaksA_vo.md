@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ŕ̥dhak sā́ vo maruto didyúd astu  
-yád va ā́gaḥ puruṣátā kárāma  
-mā́ vas tásyām ápi bhūmā yajatrā  
-asmé vo astu sumatíś cániṣṭhā  
+ŕ̥धक् सा꣡ वो मरुतो दिद्यु꣡द् अस्तु  
+य꣡द् व आ꣡गः पुरुष꣡ता क꣡राम  
+मा꣡ वस् त꣡स्याम् अ꣡पि भूमा यजत्रा  
+अस्मे꣡ वो अस्तु सुमति꣡श् च꣡निष्ठा  

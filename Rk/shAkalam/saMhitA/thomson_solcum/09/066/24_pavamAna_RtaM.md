@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-pávamāna r̥tám br̥hác  
-chukráṃ jyótir ajījanat  
-kr̥ṣṇā́ támāṃsi jáṅghanat  
+प꣡वमान ऋत꣡म् बृह꣡च्  
+छुक्रं꣡ ज्यो꣡तिर् अजीजनत्  
+कृष्णा꣡ त꣡मांसि ज꣡ङ्घनत्  

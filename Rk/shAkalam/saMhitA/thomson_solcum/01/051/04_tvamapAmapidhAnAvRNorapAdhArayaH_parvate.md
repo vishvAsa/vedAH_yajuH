@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuvám apā́m apidhā́nāvr̥ṇor ápa  
-ádhārayaḥ párvate dā́numad vásu  
-vr̥tráṃ yád indra śávasā́vadhīr áhim  
-ā́d ít sū́ryaṃ diví ā́rohayo dr̥śé  
+तुव꣡म् अपा꣡म् अपिधा꣡नावृणोर् अ꣡प  
+अ꣡धारयः प꣡र्वते दा꣡नुमद् व꣡सु  
+वृत्रं꣡ य꣡द् इन्द्र श꣡वसा꣡वधीर् अ꣡हिम्  
+आ꣡द् इ꣡त् सू꣡र्यं दिवि꣡ आ꣡रोहयो दृशे꣡  

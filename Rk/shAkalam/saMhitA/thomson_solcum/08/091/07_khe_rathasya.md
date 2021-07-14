@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-khé ráthasya khé ánasaḥ  
-khé yugásya śatakrato  
-apālā́m indra tríṣ pūtvī́  
-ákr̥ṇoḥ sū́riyatvacam  
+खे꣡ र꣡थस्य खे꣡ अ꣡नसः  
+खे꣡ युग꣡स्य शतक्रतो  
+अपाला꣡म् इन्द्र त्रि꣡ष् पूत्वी꣡  
+अ꣡कृणोः सू꣡रियत्वचम्  

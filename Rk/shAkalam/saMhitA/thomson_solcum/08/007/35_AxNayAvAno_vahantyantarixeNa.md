@@ -2,6 +2,6 @@
 title = "035"
 
 +++
-ā́kṣṇayā́vāno vahanti  
-antárikṣeṇa pátataḥ  
-dhā́tāra stuvaté váyaḥ  
+आ꣡क्ष्णया꣡वानो वहन्ति  
+अन्त꣡रिक्षेण प꣡ततः  
+धा꣡तार स्तुवते꣡ व꣡यः  

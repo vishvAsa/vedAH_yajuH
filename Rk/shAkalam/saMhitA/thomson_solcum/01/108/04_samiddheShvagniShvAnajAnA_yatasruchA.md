@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sámiddheṣu agníṣu ānajānā́  
-yatásrucā barhír u tistirāṇā́  
-tīvraíḥ sómaiḥ páriṣiktebhir arvā́g  
-ā́ indrāgnī saumanasā́ya yātam  
+स꣡मिद्धेषु अग्नि꣡षु आनजाना꣡  
+यत꣡स्रुचा बर्हि꣡र् उ तिस्तिराणा꣡  
+तीव्रइः꣡ सो꣡मैः प꣡रिषिक्तेभिर् अर्वा꣡ग्  
+आ꣡ इन्द्राग्नी सौमनसा꣡य यातम्  

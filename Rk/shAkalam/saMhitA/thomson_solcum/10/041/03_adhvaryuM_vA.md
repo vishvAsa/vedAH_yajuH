@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-adhvaryúṃ vā mádhupāṇiṃ suhástiyam  
-agnídhaṃ vā dhr̥tádakṣaṃ dámūnasam  
-víprasya vā yát sávanāni gáchatho  
-áta ā́ yātam madhupéyam aśvinā  
+अध्वर्युं꣡ वा म꣡धुपाणिं सुह꣡स्तियम्  
+अग्नि꣡धं वा धृत꣡दक्षं द꣡मूनसम्  
+वि꣡प्रस्य वा य꣡त् स꣡वनानि ग꣡छथो  
+अ꣡त आ꣡ यातम् मधुपे꣡यम् अश्विना  

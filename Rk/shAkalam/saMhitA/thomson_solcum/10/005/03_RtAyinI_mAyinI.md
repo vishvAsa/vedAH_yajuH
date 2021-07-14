@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-r̥tāyínī māyínī sáṃ dadhāte  
-mitvā́ śíśuṃ jajñatur vardháyantī  
-víśvasya nā́bhiṃ cárato dhruvásya  
-kavéś cit tántum mánasā viyántaḥ  
+ऋतायि꣡नी मायि꣡नी सं꣡ दधाते  
+मित्वा꣡ शि꣡शुं जज्ञतुर् वर्ध꣡यन्ती  
+वि꣡श्वस्य ना꣡भिं च꣡रतो ध्रुव꣡स्य  
+कवे꣡श् चित् त꣡न्तुम् म꣡नसा विय꣡न्तः  

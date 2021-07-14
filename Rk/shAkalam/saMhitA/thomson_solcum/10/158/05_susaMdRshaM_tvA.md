@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-susaṃdŕ̥śaṃ tuvā vayám  
-práti paśyema sūriya  
-ví paśyema nr̥cákṣasaḥ  
+सुसंद्ŕ̥शं तुवा वय꣡म्  
+प्र꣡ति पश्येम सूरिय  
+वि꣡ पश्येम नृच꣡क्षसः  

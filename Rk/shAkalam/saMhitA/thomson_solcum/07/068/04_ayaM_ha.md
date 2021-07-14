@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ayáṃ ha yád vāṃ devayā́ u ádrir  
-ūrdhvó vívakti somasúd yuvábhyām  
-ā́ valgū́ vípro vavr̥tīta havyaíḥ  
+अयं꣡ ह य꣡द् वां देवया꣡ उ अ꣡द्रिर्  
+ऊर्ध्वो꣡ वि꣡वक्ति सोमसु꣡द् युव꣡भ्याम्  
+आ꣡ वल्गू꣡ वि꣡प्रो ववृतीत हव्यइः꣡  

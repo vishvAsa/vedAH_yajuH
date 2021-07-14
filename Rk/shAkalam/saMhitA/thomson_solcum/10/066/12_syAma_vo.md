@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-siyā́ma vo mánavo devávītaye  
-prā́ñcaṃ no yajñám prá ṇayata sādhuyā́  
-ā́dityā rúdrā vásavaḥ súdānava  
-imā́ bráhma śasyámānāni jinvata  
+सिया꣡म वो म꣡नवो देव꣡वीतये  
+प्रा꣡ञ्चं नो यज्ञ꣡म् प्र꣡ णयत साधुया꣡  
+आ꣡दित्या रु꣡द्रा व꣡सवः सु꣡दानव  
+इमा꣡ ब्र꣡ह्म शस्य꣡मानानि जिन्वत  

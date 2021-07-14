@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-íti stutā́so asathā riśādaso  
-yé sthá tráyaś ca triṃśác ca  
-mánor devā yajñiyāsaḥ  
+इ꣡ति स्तुता꣡सो असथा रिशादसो  
+ये꣡ स्थ꣡ त्र꣡यश् च त्रिंश꣡च् च  
+म꣡नोर् देवा यज्ञियासः  

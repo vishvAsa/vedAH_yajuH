@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tuváṃ soma tanūkŕ̥dbhyo  
-dvéṣobhyo anyákr̥tebhyaḥ  
-urú yantā́si várūtham  
+तुवं꣡ सोम तनूक्ŕ̥द्भ्यो  
+द्वे꣡षोभ्यो अन्य꣡कृतेभ्यः  
+उरु꣡ यन्ता꣡सि व꣡रूथम्  

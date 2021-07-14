@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-apaghnán pavate mŕ̥dho  
-ápa sómo árāvaṇaḥ  
-gáchann índrasya niṣkr̥tám  
+अपघ्न꣡न् पवते म्ŕ̥धो  
+अ꣡प सो꣡मो अ꣡रावणः  
+ग꣡छन्न् इ꣡न्द्रस्य निष्कृत꣡म्  

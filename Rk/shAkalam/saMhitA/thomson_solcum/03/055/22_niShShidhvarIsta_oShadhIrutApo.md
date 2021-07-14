@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-niṣṣídhvarīs ta óṣadhīr utā́po  
-rayíṃ ta indra pr̥thivī́ bibharti  
-sákhāyas te vāmabhā́jaḥ siyāma  
-mahád devā́nām asuratvám ékam  
+निष्षि꣡ध्वरीस् त ओ꣡षधीर् उता꣡पो  
+रयिं꣡ त इन्द्र पृथिवी꣡ बिभर्ति  
+स꣡खायस् ते वामभा꣡जः सियाम  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

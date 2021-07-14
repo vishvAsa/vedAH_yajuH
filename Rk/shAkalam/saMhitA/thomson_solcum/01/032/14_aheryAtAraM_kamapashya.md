@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-áher yātā́raṃ kám apaśya indra  
-hr̥dí yát te jaghnúṣo bhī́r ágachat  
-náva ca yán navatíṃ ca srávantīḥ  
-śyenó ná bhītó átaro rájāṃsi  
+अ꣡हेर् याता꣡रं क꣡म् अपश्य इन्द्र  
+हृदि꣡ य꣡त् ते जघ्नु꣡षो भी꣡र् अ꣡गछत्  
+न꣡व च य꣡न् नवतिं꣡ च स्र꣡वन्तीः  
+श्येनो꣡ न꣡ भीतो꣡ अ꣡तरो र꣡जांसि  

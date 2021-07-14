@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-índraḥ sutrā́mā suávām̐ ávobhiḥ  
-sumr̥̄ḷīkó+ bhavatu viśvávedāḥ  
-bā́dhatāṃ dvéṣo ábhayaṃ kr̥ṇotu  
-suvī́riyasya pátayaḥ siyāma  
+इ꣡न्द्रः सुत्रा꣡मा सुअ꣡वाँ अ꣡वोभिः  
+सुमॄऌईको꣡+ भवतु विश्व꣡वेदाः  
+बा꣡धतां द्वे꣡षो अ꣡भयं कृणोतु  
+सुवी꣡रियस्य प꣡तयः सियाम  

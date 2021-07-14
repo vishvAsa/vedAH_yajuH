@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-prá samrā́je br̥haté mánma nú priyám  
-árca devā́ya váruṇāya sapráthaḥ  
-ayáṃ yá urvī́ mahinā́ máhivrataḥ  
-krátvā vibhā́ti ajáro ná śocíṣā  
+प्र꣡ सम्रा꣡जे बृहते꣡ म꣡न्म नु꣡ प्रिय꣡म्  
+अ꣡र्च देवा꣡य व꣡रुणाय सप्र꣡थः  
+अयं꣡ य꣡ उर्वी꣡ महिना꣡ म꣡हिव्रतः  
+क्र꣡त्वा विभा꣡ति अज꣡रो न꣡ शोचि꣡षा  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-suāyudháṃ suávasaṃ sunītháṃ  
-cátuḥsamudraṃ dharúṇaṃ rayīṇā́m  
-carkŕ̥tiyaṃ śáṃsiyam bhū́rivāram  
-asmábhyaṃ citráṃ vŕ̥ṣaṇaṃ rayíṃ dāḥ  
+सुआयुधं꣡ सुअ꣡वसं सुनीथं꣡  
+च꣡तुःसमुद्रं धरु꣡णं रयीणा꣡म्  
+चर्क्ŕ̥तियं शं꣡सियम् भू꣡रिवारम्  
+अस्म꣡भ्यं चित्रं꣡ व्ŕ̥षणं रयिं꣡ दाः  

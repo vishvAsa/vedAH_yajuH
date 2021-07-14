@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-tuváṃ tā́n sáṃ ca práti cāsi majmánā  
-ágne sujāta prá ca deva ricyase  
-pr̥kṣó yád átra mahinā́ ví te bhúvad  
-ánu dyā́vāpr̥thivī́ ródasī ubhé  
+तुवं꣡ ता꣡न् सं꣡ च प्र꣡ति चासि मज्म꣡ना  
+अ꣡ग्ने सुजात प्र꣡ च देव रिच्यसे  
+पृक्षो꣡ य꣡द् अ꣡त्र महिना꣡ वि꣡ ते भु꣡वद्  
+अ꣡नु द्या꣡वापृथिवी꣡ रो꣡दसी उभे꣡  

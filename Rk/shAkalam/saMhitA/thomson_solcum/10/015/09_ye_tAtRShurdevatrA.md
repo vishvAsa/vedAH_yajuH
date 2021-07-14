@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yé tātr̥ṣúr devatrā́ jéhamānā  
-hotrāvída stómataṣṭāso arkaíḥ  
-ā́gne yāhi suvidátrebhir arvā́ṅ  
-satyaíḥ kavyaíḥ pitŕ̥bhir gharmasádbhiḥ  
+ये꣡ तातृषु꣡र् देवत्रा꣡ जे꣡हमाना  
+होत्रावि꣡द स्तो꣡मतष्टासो अर्कइः꣡  
+आ꣡ग्ने याहि सुविद꣡त्रेभिर् अर्वा꣡ङ्  
+सत्यइः꣡ कव्यइः꣡ पित्ŕ̥भिर् घर्मस꣡द्भिः  

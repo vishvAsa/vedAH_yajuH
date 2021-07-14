@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ádha kṣapā́ páriṣkr̥to  
-vā́jām̐ abhí prá gāhate  
-yádī vivásvato dhíyo  
-háriṃ hinvánti yā́tave  
+अ꣡ध क्षपा꣡ प꣡रिष्कृतो  
+वा꣡जाँ अभि꣡ प्र꣡ गाहते  
+य꣡दी विव꣡स्वतो धि꣡यो  
+ह꣡रिं हिन्व꣡न्ति या꣡तवे  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ā́ vām agan sumatír vājinīvasū  
-ní aśvinā hr̥tsú kā́mā ayaṃsata  
-ábhūtaṃ gopā́ mithunā́ śubhas patī  
-priyā́ aryamṇó dúriyām̐ aśīmahi  
+आ꣡ वाम् अगन् सुमति꣡र् वाजिनीवसू  
+नि꣡ अश्विना हृत्सु꣡ का꣡मा अयंसत  
+अ꣡भूतं गोपा꣡ मिथुना꣡ शुभस् पती  
+प्रिया꣡ अर्यम्णो꣡ दु꣡रियाँ अशीमहि  

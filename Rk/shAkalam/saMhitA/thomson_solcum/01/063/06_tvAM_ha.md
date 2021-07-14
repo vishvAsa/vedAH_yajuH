@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvā́ṃ ha tyád indara+ árṇasātau  
-súvarmīḷhe nára ājā́ havante  
-táva svadhāva iyám ā́ samaryá  
-ūtír vā́jeṣu atasā́yiyā bhūt  
+तुवां꣡ ह त्य꣡द् इन्दर+ अ꣡र्णसातौ  
+सु꣡वर्मीऌहे न꣡र आजा꣡ हवन्ते  
+त꣡व स्वधाव इय꣡म् आ꣡ समर्य꣡  
+ऊति꣡र् वा꣡जेषु अतसा꣡यिया भूत्  

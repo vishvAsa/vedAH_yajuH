@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-prá agrúvo nabhanúvo ná vákvā  
-dhvasrā́ apinvad yuvatī́r r̥tajñā́ḥ  
-dhánvāni ájrām̐ apr̥ṇak tr̥ṣāṇā́m̐  
-ádhog índra staríyo dáṃsupatnīḥ  
+प्र꣡ अग्रु꣡वो नभनु꣡वो न꣡ व꣡क्वा  
+ध्वस्रा꣡ अपिन्वद् युवती꣡र् ऋतज्ञाः꣡  
+ध꣡न्वानि अ꣡ज्राँ अपृणक् तृषाणाँ꣡  
+अ꣡धोग् इ꣡न्द्र स्तरि꣡यो दं꣡सुपत्नीः  

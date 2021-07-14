@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-dvitā́ya mr̥ktávāhase  
-svásya dákṣasya maṃhánā  
-índuṃ sá dhatta ānuṣák  
-stotā́ cit te amartiya  
+द्विता꣡य मृक्त꣡वाहसे  
+स्व꣡स्य द꣡क्षस्य मंह꣡ना  
+इ꣡न्दुं स꣡ धत्त आनुष꣡क्  
+स्तोता꣡ चित् ते अमर्तिय  

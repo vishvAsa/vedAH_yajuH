@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sáṃ góbhir āṅgirasó nákṣamāṇo  
-bhága ivéd aryamáṇaṃ nināya  
-jáne mitró ná dámpatī anakti  
-bŕ̥haspate vājáyāśū́m̐r ivājaú  
+सं꣡ गो꣡भिर् आङ्गिरसो꣡ न꣡क्षमाणो  
+भ꣡ग इवे꣡द् अर्यम꣡णं निनाय  
+ज꣡ने मित्रो꣡ न꣡ द꣡म्पती अनक्ति  
+ब्ŕ̥हस्पते वाज꣡याशूँ꣡र् इवाजउ꣡  

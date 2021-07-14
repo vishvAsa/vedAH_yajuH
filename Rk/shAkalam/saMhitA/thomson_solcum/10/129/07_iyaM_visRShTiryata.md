@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-iyáṃ vísr̥ṣṭir yáta ābabhū́va  
-yádi vā dadhé yádi vā ná  
-yó asyā́dhyakṣaḥ paramé víoman  
-só aṅgá veda yádi vā ná véda  
+इयं꣡ वि꣡सृष्टिर् य꣡त आबभू꣡व  
+य꣡दि वा दधे꣡ य꣡दि वा न꣡  
+यो꣡ अस्या꣡ध्यक्षः परमे꣡ वि꣡ओमन्  
+सो꣡ अङ्ग꣡ वेद य꣡दि वा न꣡ वे꣡द  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-pŕ̥ṣadhre médhiye mātaríśvani  
-índra svāné° ámandathāḥ  
-yáthā sómaṃ dáśaśipre dáśoṇiye  
-syū́maraśmāv ŕ̥jūnasi  
+प्ŕ̥षध्रे मे꣡धिये मातरि꣡श्वनि  
+इ꣡न्द्र स्वाने꣡° अ꣡मन्दथाः  
+य꣡था सो꣡मं द꣡शशिप्रे द꣡शोणिये  
+स्यू꣡मरश्माव् ŕ̥जूनसि  

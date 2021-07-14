@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-váhiṣṭhebhir viháran yāsi tántum  
-avavyáyann ásitaṃ deva vásma  
-dávidhvato raśmáyaḥ sū́riyasya  
-cármevā́vādhus támo apsú antáḥ  
+व꣡हिष्ठेभिर् विह꣡रन् यासि त꣡न्तुम्  
+अवव्य꣡यन्न् अ꣡सितं देव व꣡स्म  
+द꣡विध्वतो रश्म꣡यः सू꣡रियस्य  
+च꣡र्मेवा꣡वाधुस् त꣡मो अप्सु꣡ अन्तः꣡  

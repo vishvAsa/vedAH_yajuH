@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-diváś cid ghā duhitáram  
-mahā́n mahīyámānãm  
-uṣā́sam indra sám piṇak  
+दिव꣡श् चिद् घा दुहित꣡रम्  
+महा꣡न् महीय꣡मान्ãम्  
+उषा꣡सम् इन्द्र स꣡म् पिणक्  

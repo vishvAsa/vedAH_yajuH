@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-jajñiṣá itthā́ gõpī́thiyāya hí  
-dadhā́tha tát purūravo ma ójaḥ  
-áśāsaṃ tvā vidúṣī sásmin áhan  
-ná ma ā́śr̥ṇoḥ kím abhúg vadāsi  
+जज्ञिष꣡ इत्था꣡ ग्õपी꣡थियाय हि꣡  
+दधा꣡थ त꣡त् पुरूरवो म ओ꣡जः  
+अ꣡शासं त्वा विदु꣡षी स꣡स्मिन् अ꣡हन्  
+न꣡ म आ꣡शृणोः कि꣡म् अभु꣡ग् वदासि  

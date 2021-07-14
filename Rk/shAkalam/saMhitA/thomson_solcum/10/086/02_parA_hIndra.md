@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-párā hí indra dhā́vasi  
-vr̥ṣā́kaper áti vyáthiḥ  
-ná ū áha prá vindasi  
-anyátra sómapītaye  
-víśvasmād índra úttaraḥ  
+प꣡रा हि꣡ इन्द्र धा꣡वसि  
+वृषा꣡कपेर् अ꣡ति व्य꣡थिः  
+न꣡ ऊ अ꣡ह प्र꣡ विन्दसि  
+अन्य꣡त्र सो꣡मपीतये  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

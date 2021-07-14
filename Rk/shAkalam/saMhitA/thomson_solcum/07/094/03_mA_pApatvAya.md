@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-mā́ pāpatvā́ya no narā  
-índrāgnī mā́bhíśastaye  
-mā́ no rīradhataṃ nidé  
+मा꣡ पापत्वा꣡य नो नरा  
+इ꣡न्द्राग्नी मा꣡भि꣡शस्तये  
+मा꣡ नो रीरधतं निदे꣡  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvā́m agne samidhānó vásiṣṭho  
-járūthaṃ han yákṣi rāyé púraṃdhim  
-puruṇīthā́ jātavedo jarasva  
-yūyám pāta suastíbhiḥ sádā naḥ  
+तुवा꣡म् अग्ने समिधानो꣡ व꣡सिष्ठो  
+ज꣡रूथं हन् य꣡क्षि राये꣡ पु꣡रंधिम्  
+पुरुणीथा꣡ जातवेदो जरस्व  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

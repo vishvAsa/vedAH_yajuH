@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ yán mā venā́ áruhann r̥tásyam̐  
-ékam ā́sīnaṃ haryatásya pr̥ṣṭhé  
-mánaś cin me hr̥dá ā́ práty avocad  
-ácikradañ chíśumantaḥ sákhāyaḥ  
+आ꣡ य꣡न् मा वेना꣡ अ꣡रुहन्न् ऋत꣡स्यँ  
+ए꣡कम् आ꣡सीनं हर्यत꣡स्य पृष्ठे꣡  
+म꣡नश् चिन् मे हृद꣡ आ꣡ प्र꣡त्य् अवोचद्  
+अ꣡चिक्रदञ् छि꣡शुमन्तः स꣡खायः  

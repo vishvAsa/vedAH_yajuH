@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ánavas te rátham áśvāya takṣan  
-tváṣṭā vájram puruhūta dyumántam  
-brahmā́ṇa índram maháyanto arkaír  
-ávardhayann áhaye hántavā́ u  
+अ꣡नवस् ते र꣡थम् अ꣡श्वाय तक्षन्  
+त्व꣡ष्टा व꣡ज्रम् पुरुहूत द्युम꣡न्तम्  
+ब्रह्मा꣡ण इ꣡न्द्रम् मह꣡यन्तो अर्कइ꣡र्  
+अ꣡वर्धयन्न् अ꣡हये ह꣡न्तवा꣡ उ  

@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-uchántiyām me yajatā́  
-devákṣatre rúśadgavi  
-sutáṃ sómaṃ ná hastíbhir  
-ā́ paḍbhír dhāvataṃ narā  
-bíbhratāv arcanā́nasam  
+उछ꣡न्तियाम् मे यजता꣡  
+देव꣡क्षत्रे रु꣡शद्गवि  
+सुतं꣡ सो꣡मं न꣡ हस्ति꣡भिर्  
+आ꣡ पड्भि꣡र् धावतं नरा  
+बि꣡भ्रताव् अर्चना꣡नसम्  

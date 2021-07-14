@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ábhūr éko rayipate rayīṇā́m  
-ā́ hástayor adhithā indra kr̥ṣṭī́ḥ  
-ví toké apsú tánaye ca sū́re  
-ávocanta carṣaṇáyo vívācaḥ  
+अ꣡भूर् ए꣡को रयिपते रयीणा꣡म्  
+आ꣡ ह꣡स्तयोर् अधिथा इन्द्र कृष्टीः꣡  
+वि꣡ तोके꣡ अप्सु꣡ त꣡नये च सू꣡रे  
+अ꣡वोचन्त चर्षण꣡यो वि꣡वाचः  

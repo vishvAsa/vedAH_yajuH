@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-tád vāṃ narā śáṃsiyaṃ rā́dhiyaṃ ca  
-abhiṣṭimán nāsatiyā várūtham  
-yád vidvā́ṃsā nidhím ivā́pagūḷham  
-úd darśatā́d ūpáthur vándanāya  
+त꣡द् वां नरा शं꣡सियं रा꣡धियं च  
+अभिष्टिम꣡न् नासतिया व꣡रूथम्  
+य꣡द् विद्वां꣡सा निधि꣡म् इवा꣡पगूऌहम्  
+उ꣡द् दर्शता꣡द् ऊप꣡थुर् व꣡न्दनाय  

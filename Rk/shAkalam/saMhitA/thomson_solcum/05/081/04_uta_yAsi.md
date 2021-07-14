@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-utá yāsi savitas trī́ṇi rocanā́  
-utá sū́ryasya raśmíbhiḥ sám ucyasi  
-utá rā́trīm ubhayátaḥ párīyasa  
-utá mitró bhavasi deva dhármabhiḥ  
+उत꣡ यासि सवितस् त्री꣡णि रोचना꣡  
+उत꣡ सू꣡र्यस्य रश्मि꣡भिः स꣡म् उच्यसि  
+उत꣡ रा꣡त्रीम् उभय꣡तः प꣡रीयस  
+उत꣡ मित्रो꣡ भवसि देव ध꣡र्मभिः  

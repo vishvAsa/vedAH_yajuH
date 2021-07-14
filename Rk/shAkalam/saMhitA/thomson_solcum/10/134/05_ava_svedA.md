@@ -2,9 +2,9 @@
 title = "005"
 
 +++
-áva svédā ivābhíto  
-víṣvak patantu didyávaḥ  
-dū́rvāyā iva tántavo  
-ví asmád etu durmatír  
-devī́ jánitry ajījanad  
-bhadrā́ jánitry ajījanat  
+अ꣡व स्वे꣡दा इवाभि꣡तो  
+वि꣡ष्वक् पतन्तु दिद्य꣡वः  
+दू꣡र्वाया इव त꣡न्तवो  
+वि꣡ अस्म꣡द् एतु दुर्मति꣡र्  
+देवी꣡ ज꣡नित्र्य् अजीजनद्  
+भद्रा꣡ ज꣡नित्र्य् अजीजनत्  

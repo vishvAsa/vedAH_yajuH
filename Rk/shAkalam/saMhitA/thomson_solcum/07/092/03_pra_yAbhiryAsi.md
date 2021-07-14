@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá yā́bhir yā́si dāśuvā́ṃsam áchā  
-niyúdbhir vāyav iṣṭáye duroṇé  
-ní no rayíṃ subhójasaṃ yuvasva  
-ní vīráṃ gávyam áśviyaṃ ca rā́dhaḥ  
+प्र꣡ या꣡भिर् या꣡सि दाशुवां꣡सम् अ꣡छा  
+नियु꣡द्भिर् वायव् इष्ट꣡ये दुरोणे꣡  
+नि꣡ नो रयिं꣡ सुभो꣡जसं युवस्व  
+नि꣡ वीरं꣡ ग꣡व्यम् अ꣡श्वियं च रा꣡धः  

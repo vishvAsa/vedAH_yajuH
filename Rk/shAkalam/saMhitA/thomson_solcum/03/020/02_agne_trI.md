@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ágne trī́ te vā́jinā trī́ ṣadhásthā  
-tisrás te jihvā́ r̥tajāta pūrvī́ḥ  
-tisrá u te tanúvo devávātās  
-tā́bhir naḥ pāhi gíro áprayuchan  
+अ꣡ग्ने त्री꣡ ते वा꣡जिना त्री꣡ षध꣡स्था  
+तिस्र꣡स् ते जिह्वा꣡ ऋतजात पूर्वीः꣡  
+तिस्र꣡ उ ते तनु꣡वो देव꣡वातास्  
+ता꣡भिर् नः पाहि गि꣡रो अ꣡प्रयुछन्  

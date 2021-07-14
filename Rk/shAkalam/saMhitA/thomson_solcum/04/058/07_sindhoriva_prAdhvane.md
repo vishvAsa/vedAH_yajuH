@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-síndhor iva prādhvané śūghanā́so  
-vā́tapramiyaḥ patayanti yahvā́ḥ  
-ghr̥tásya dhā́rā aruṣó ná vājī́  
-kā́ṣṭhā bhindánn ūrmíbhiḥ pínvamānaḥ  
+सि꣡न्धोर् इव प्राध्वने꣡ शूघना꣡सो  
+वा꣡तप्रमियः पतयन्ति यह्वाः꣡  
+घृत꣡स्य धा꣡रा अरुषो꣡ न꣡ वाजी꣡  
+का꣡ष्ठा भिन्द꣡न्न् ऊर्मि꣡भिः पि꣡न्वमानः  

@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-etā́ víśvā vidúṣe túbhyaṃ vedho  
-nīthā́ni agne niṇiyā́ vácāṃsi  
-nivácanā kaváye kā́viyāni  
-áśaṃsiṣam matíbhir vípra ukthaíḥ  
+एता꣡ वि꣡श्वा विदु꣡षे तु꣡भ्यं वेधो  
+नीथा꣡नि अग्ने निणिया꣡ व꣡चांसि  
+निव꣡चना कव꣡ये का꣡वियानि  
+अ꣡शंसिषम् मति꣡भिर् वि꣡प्र उक्थइः꣡  

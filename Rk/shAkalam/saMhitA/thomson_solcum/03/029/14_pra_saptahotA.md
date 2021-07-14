@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-prá saptáhotā sanakā́d arocata  
-mātúr upásthe yád áśocad ū́dhani  
-ná ní miṣati suráṇo divé-dive  
-yád ásurasya jaṭhárād ájāyata  
+प्र꣡ सप्त꣡होता सनका꣡द् अरोचत  
+मातु꣡र् उप꣡स्थे य꣡द् अ꣡शोचद् ऊ꣡धनि  
+न꣡ नि꣡ मिषति सुर꣡णो दिवे꣡-दिवे  
+य꣡द् अ꣡सुरस्य जठ꣡राद् अ꣡जायत  

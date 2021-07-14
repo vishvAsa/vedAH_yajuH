@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-vr̥jyā́ma te pári dvíṣo  
-áraṃ te śakra dāváne  
-gaméméd indra gómataḥ  
+वृज्या꣡म ते प꣡रि द्वि꣡षो  
+अ꣡रं ते शक्र दाव꣡ने  
+गमे꣡मे꣡द् इन्द्र गो꣡मतः  

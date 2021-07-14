@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tveṣáṃ vayáṃ rudaráṃ+ yajñasā́dhaṃ  
-vaṅkúṃ kavím ávase ní hvayāmahe  
-āré asmád daíviyaṃ héḷo asyatu  
-sumatím íd vayám asyā́ vr̥ṇīmahe  
+त्वेषं꣡ वयं꣡ रुदरं꣡+ यज्ञसा꣡धं  
+वङ्कुं꣡ कवि꣡म् अ꣡वसे नि꣡ ह्वयामहे  
+आरे꣡ अस्म꣡द् दइ꣡वियं हे꣡ऌओ अस्यतु  
+सुमति꣡म् इ꣡द् वय꣡म् अस्या꣡ वृणीमहे  

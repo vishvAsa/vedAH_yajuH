@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-mā́kir na enā́ sakhiyā́ ví yauṣus  
-táva ca indra vimadásya ca ŕ̥ṣeḥ  
-vidmā́ hí te prámatiṃ deva jāmivád  
-asmé te santu sakhiyā́ śivā́ni  
+मा꣡किर् न एना꣡ सखिया꣡ वि꣡ यौषुस्  
+त꣡व च इन्द्र विमद꣡स्य च ŕ̥षेः  
+विद्मा꣡ हि꣡ ते प्र꣡मतिं देव जामिव꣡द्  
+अस्मे꣡ ते सन्तु सखिया꣡ शिवा꣡नि  

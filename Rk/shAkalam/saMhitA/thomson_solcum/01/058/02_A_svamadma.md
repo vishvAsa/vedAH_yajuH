@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ suvám ádma yuvámāno ajáras  
-tr̥ṣú aviṣyánn ataséṣu tiṣṭhati  
-átyo ná pr̥ṣṭhám pruṣitásya rocate  
-divó ná sā́nu stanáyann acikradat  
+आ꣡ सुव꣡म् अ꣡द्म युव꣡मानो अज꣡रस्  
+तृषु꣡ अविष्य꣡न्न् अतसे꣡षु तिष्ठति  
+अ꣡त्यो न꣡ पृष्ठ꣡म् प्रुषित꣡स्य रोचते  
+दिवो꣡ न꣡ सा꣡नु स्तन꣡यन्न् अचिक्रदत्  

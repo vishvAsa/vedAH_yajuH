@@ -2,6 +2,6 @@
 title = "028"
 
 +++
-távāhám agna ūtíbhir  
-nédiṣṭhābhiḥ saceya jóṣam ā́ vaso  
-sádā devásya mártiyaḥ  
+त꣡वाह꣡म् अग्न ऊति꣡भिर्  
+ने꣡दिष्ठाभिः सचेय जो꣡षम् आ꣡ वसो  
+स꣡दा देव꣡स्य म꣡र्तियः  

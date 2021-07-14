@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-sá vā́jaṃ viśvácarṣaṇir  
-árvadbhir astu tárutā  
-víprebhir astu sánitā  
+स꣡ वा꣡जं विश्व꣡चर्षणिर्  
+अ꣡र्वद्भिर् अस्तु त꣡रुता  
+वि꣡प्रेभिर् अस्तु स꣡निता  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ayáṃ svādúr ihá mádiṣṭha āsa  
-yásya índro vr̥trahátye mamā́da  
-purū́ṇi yáś cyautanā́ śámbarasya  
-ví navatíṃ náva ca dehíyo hán  
+अयं꣡ स्वादु꣡र् इह꣡ म꣡दिष्ठ आस  
+य꣡स्य इ꣡न्द्रो वृत्रह꣡त्ये ममा꣡द  
+पुरू꣡णि य꣡श् च्यौतना꣡ श꣡म्बरस्य  
+वि꣡ नवतिं꣡ न꣡व च देहि꣡यो ह꣡न्  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-vidád yádī sarámā rugṇám ádrer  
-máhi pā́thaḥ pūrviyáṃ sadhríak kaḥ  
-ágraṃ nayat supádi ákṣarāṇām  
-áchā rávam prathamā́ jānatī́ gāt  
+विद꣡द् य꣡दी सर꣡मा रुग्ण꣡म् अ꣡द्रेर्  
+म꣡हि पा꣡थः पूर्वियं꣡ सध्रि꣡अक् कः  
+अ꣡ग्रं नयत् सुप꣡दि अ꣡क्षराणाम्  
+अ꣡छा र꣡वम् प्रथमा꣡ जानती꣡ गात्  

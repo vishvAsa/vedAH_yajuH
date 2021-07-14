@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-etā́ni agne navatír náva tvé  
-ā́hutāni ádhirathā sahásrā  
-tébhir vardhasva tanvàḥ śūra pūrvī́r  
-divó no vr̥ṣṭím iṣitó rirīhi  
+एता꣡नि अग्ने नवति꣡र् न꣡व त्वे꣡  
+आ꣡हुतानि अ꣡धिरथा सह꣡स्रा  
+ते꣡भिर् वर्धस्व तन्वः᳡ शूर पूर्वी꣡र्  
+दिवो꣡ नो वृष्टि꣡म् इषितो꣡ रिरीहि  

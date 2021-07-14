@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yuvā́m mr̥géva vāraṇā́ mr̥gaṇyávo  
-doṣā́ vástor havíṣā ní hvayāmahe  
-yuváṃ hótrām r̥tuthā́ júhvate narā  
-íṣaṃ jánāya vahathaḥ śubhas patī  
+युवा꣡म् मृगे꣡व वारणा꣡ मृगण्य꣡वो  
+दोषा꣡ व꣡स्तोर् हवि꣡षा नि꣡ ह्वयामहे  
+युवं꣡ हो꣡त्राम् ऋतुथा꣡ जु꣡ह्वते नरा  
+इ꣡षं ज꣡नाय वहथः शुभस् पती  

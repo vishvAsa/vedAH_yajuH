@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-dyaúr ná yá indra abhí bhū́ma aryás  
-tasthaú rayíḥ śávasā pr̥tsú jánān  
-táṃ naḥ sahásrabharam urvarāsā́ṃ  
-daddhí sūno sahaso vr̥tratúram  
+द्यउ꣡र् न꣡ य꣡ इन्द्र अभि꣡ भू꣡म अर्य꣡स्  
+तस्थउ꣡ रयिः꣡ श꣡वसा पृत्सु꣡ ज꣡नान्  
+तं꣡ नः सह꣡स्रभरम् उर्वरासां꣡  
+दद्धि꣡ सूनो सहसो वृत्रतु꣡रम्  

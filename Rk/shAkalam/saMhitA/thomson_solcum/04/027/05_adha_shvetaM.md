@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-ádha śvetáṃ kaláśaṃ góbhir aktám  
-āpipyānám maghávā śukrám ándhaḥ  
-adhvaryúbhiḥ práyatam mádhvo ágram  
-índro mádāya práti dhat píbadhyai  
-śū́ro mádāya práti dhat píbadhyai  
+अ꣡ध श्वेतं꣡ कल꣡शं गो꣡भिर् अक्त꣡म्  
+आपिप्यान꣡म् मघ꣡वा शुक्र꣡म् अ꣡न्धः  
+अध्वर्यु꣡भिः प्र꣡यतम् म꣡ध्वो अ꣡ग्रम्  
+इ꣡न्द्रो म꣡दाय प्र꣡ति धत् पि꣡बध्यै  
+शू꣡रो म꣡दाय प्र꣡ति धत् पि꣡बध्यै  

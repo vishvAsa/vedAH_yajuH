@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-vŕ̥ṣā śóṇo abhikánikradad gā́  
-nadáyann eti pr̥thivī́m utá dyā́m  
-índrasyeva vagnúr ā́ śr̥ṇva ājaú  
-pracetáyann arṣati vā́cam émā́m  
+व्ŕ̥षा शो꣡णो अभिक꣡निक्रदद् गा꣡  
+नद꣡यन्न् एति पृथिवी꣡म् उत꣡ द्या꣡म्  
+इ꣡न्द्रस्येव वग्नु꣡र् आ꣡ शृण्व आजउ꣡  
+प्रचेत꣡यन्न् अर्षति वा꣡चम् ए꣡मा꣡म्  

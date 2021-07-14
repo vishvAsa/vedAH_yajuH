@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuváṃ vikṣú pradívaḥ sīda āsú  
-krátvā rathī́r abhavo vā́riyāṇām  
-áta inoṣi vidhaté cikitvo  
-ví ānuṣág jātavedo vásūni  
+तुवं꣡ विक्षु꣡ प्रदि꣡वः सीद आसु꣡  
+क्र꣡त्वा रथी꣡र् अभवो वा꣡रियाणाम्  
+अ꣡त इनोषि विधते꣡ चिकित्वो  
+वि꣡ आनुष꣡ग् जातवेदो व꣡सूनि  

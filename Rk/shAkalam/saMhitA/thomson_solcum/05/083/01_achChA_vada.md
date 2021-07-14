@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-áchā vada tavásaṃ gīrbhír ābhíḥ  
-stuhí parjányaṃ námasā́ vivāsa  
-kánikradad vr̥ṣabhó jīrádānū  
-réto dadhāti óṣadhīṣu gárbham  
+अ꣡छा वद तव꣡सं गीर्भि꣡र् आभिः꣡  
+स्तुहि꣡ पर्ज꣡न्यं न꣡मसा꣡ विवास  
+क꣡निक्रदद् वृषभो꣡ जीर꣡दानू  
+रे꣡तो दधाति ओ꣡षधीषु ग꣡र्भम्  

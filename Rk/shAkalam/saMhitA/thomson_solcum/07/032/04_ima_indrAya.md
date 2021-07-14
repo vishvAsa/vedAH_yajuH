@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-imá índrāya sunvire  
-sómāso dádhiāśiraḥ  
-tā́m̐ ā́ mádāya vajrahasta pītáye  
-háribhyāṃ yāhi óka ā́  
+इम꣡ इ꣡न्द्राय सुन्विरे  
+सो꣡मासो द꣡धिआशिरः  
+ताँ꣡ आ꣡ म꣡दाय वज्रहस्त पीत꣡ये  
+ह꣡रिभ्यां याहि ओ꣡क आ꣡  

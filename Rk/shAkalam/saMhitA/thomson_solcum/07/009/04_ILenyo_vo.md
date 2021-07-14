@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-īḷéniyo vo mánuṣo yugéṣu  
-samanagā́ aśucaj jātávedāḥ  
-susaṃdŕ̥śā bhānúnā yó vibhā́ti  
-práti gā́vaḥ samidhānám budhanta  
+ईऌए꣡नियो वो म꣡नुषो युगे꣡षु  
+समनगा꣡ अशुचज् जात꣡वेदाः  
+सुसंद्ŕ̥शा भानु꣡ना यो꣡ विभा꣡ति  
+प्र꣡ति गा꣡वः समिधान꣡म् बुधन्त  

@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-yajñébhir ádbhutakratuṃ  
-yáṃ kr̥pā́ sūdáyanta ít  
-mitráṃ ná jáne súdhitam r̥tā́vani  
+यज्ञे꣡भिर् अ꣡द्भुतक्रतुं  
+यं꣡ कृपा꣡ सूद꣡यन्त इ꣡त्  
+मित्रं꣡ न꣡ ज꣡ने सु꣡धितम् ऋता꣡वनि  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-jyā́yāṃsam asyá yatúnasya ketúna  
-r̥ṣisvaráṃ carati yā́su nā́ma te  
-yādŕ̥śmin dhā́yi tám apasyáyā vidad  
-yá u svayáṃ váhate só áraṃ karat  
+ज्या꣡यांसम् अस्य꣡ यतु꣡नस्य केतु꣡न  
+ऋषिस्वरं꣡ चरति या꣡सु ना꣡म ते  
+याद्ŕ̥श्मिन् धा꣡यि त꣡म् अपस्य꣡या विदद्  
+य꣡ उ स्वयं꣡ व꣡हते सो꣡ अ꣡रं करत्  

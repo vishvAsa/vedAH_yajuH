@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-ní tvā́m agne mánur dadhe  
-jyótir jánāya śáśvate  
-dīdétha káṇva r̥tájāta ukṣitó  
-yáṃ namasyánti kr̥ṣṭáyaḥ  
+नि꣡ त्वा꣡म् अग्ने म꣡नुर् दधे  
+ज्यो꣡तिर् ज꣡नाय श꣡श्वते  
+दीदे꣡थ क꣡ण्व ऋत꣡जात उक्षितो꣡  
+यं꣡ नमस्य꣡न्ति कृष्ट꣡यः  

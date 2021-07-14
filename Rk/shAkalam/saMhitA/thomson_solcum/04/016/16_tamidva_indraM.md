@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-tám íd va índraṃ suhávaṃ huvema  
-yás tā́ cakā́ra náriyā purū́ṇi  
-yó mā́vate jaritré gádhiyaṃ cin  
-makṣū́ vā́jam bhárati spārhárādhāḥ  
+त꣡म् इ꣡द् व इ꣡न्द्रं सुह꣡वं हुवेम  
+य꣡स् ता꣡ चका꣡र न꣡रिया पुरू꣡णि  
+यो꣡ मा꣡वते जरित्रे꣡ ग꣡धियं चिन्  
+मक्षू꣡ वा꣡जम् भ꣡रति स्पार्ह꣡राधाः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-námo mitrásya váruṇasya cákṣase  
-mahó devā́ya tád r̥táṃ saparyata  
-dūredŕ̥śe devájātāya ketáve  
-divás putrā́ya sū́riyāya śaṃsata  
+न꣡मो मित्र꣡स्य व꣡रुणस्य च꣡क्षसे  
+महो꣡ देवा꣡य त꣡द् ऋतं꣡ सपर्यत  
+दूरेद्ŕ̥शे देव꣡जाताय केत꣡वे  
+दिव꣡स् पुत्रा꣡य सू꣡रियाय शंसत  

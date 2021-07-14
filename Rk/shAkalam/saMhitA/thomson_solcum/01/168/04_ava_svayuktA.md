@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-áva sváyuktā divá ā́ vŕ̥thā yayur  
-ámartiyāḥ káśayā codata tmánā  
-areṇávas tuvijātā́ acucyavur  
-dr̥̄ḷhā́ni+ cin marúto bhrā́jadr̥ṣṭayaḥ  
+अ꣡व स्व꣡युक्ता दिव꣡ आ꣡ व्ŕ̥था ययुर्  
+अ꣡मर्तियाः क꣡शया चोदत त्म꣡ना  
+अरेण꣡वस् तुविजाता꣡ अचुच्यवुर्  
+दॄऌहा꣡नि+ चिन् मरु꣡तो भ्रा꣡जदृष्टयः  

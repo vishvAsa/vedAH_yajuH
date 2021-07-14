@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-kathā́ rādhāma sakhāya  
-stómam mitrásya aryamṇáḥ  
-máhi psáro váruṇasya  
+कथा꣡ राधाम सखाय  
+स्तो꣡मम् मित्र꣡स्य अर्यम्णः꣡  
+म꣡हि प्स꣡रो व꣡रुणस्य  

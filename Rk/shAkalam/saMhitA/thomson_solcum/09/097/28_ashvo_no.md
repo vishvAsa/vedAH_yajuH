@@ -2,7 +2,7 @@
 title = "028"
 
 +++
-áśvo ná krado vŕ̥ṣabhir yujānáḥ  
-siṃhó ná bhīmó mánaso jávīyān  
-arvācī́naiḥ pathíbhir yé rájiṣṭhā  
-ā́ pavasva saumanasáṃ na indo  
+अ꣡श्वो न꣡ क्रदो व्ŕ̥षभिर् युजानः꣡  
+सिंहो꣡ न꣡ भीमो꣡ म꣡नसो ज꣡वीयान्  
+अर्वाची꣡नैः पथि꣡भिर् ये꣡ र꣡जिष्ठा  
+आ꣡ पवस्व सौमनसं꣡ न इन्दो  

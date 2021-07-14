@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-yáthā rudrásya sūnávo  
-divó váśanti ásurasya vedhásaḥ  
-yúvānas táthā íd asat  
+य꣡था रुद्र꣡स्य सून꣡वो  
+दिवो꣡ व꣡शन्ति अ꣡सुरस्य वेध꣡सः  
+यु꣡वानस् त꣡था इ꣡द् असत्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-índra píba svadháyā cit sutásya  
-agnér vā pāhi jihváyā yajatra  
-adhvaryór vā práyataṃ śakra hástād  
-dhótur vā yajñáṃ havíṣo juṣasva  
+इ꣡न्द्र पि꣡ब स्वध꣡या चित् सुत꣡स्य  
+अग्ने꣡र् वा पाहि जिह्व꣡या यजत्र  
+अध्वर्यो꣡र् वा प्र꣡यतं शक्र ह꣡स्ताद्  
+धो꣡तुर् वा यज्ञं꣡ हवि꣡षो जुषस्व  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sahasradhā́ pañcadaśā́ni ukthā́  
-yā́vad dyā́vāpr̥thivī́ tā́vad ít tát  
-sahasradhā́ mahimā́naḥ sahásraṃ  
-yā́vad bráhma víṣṭhitaṃ tā́vatī vā́k  
+सहस्रधा꣡ पञ्चदशा꣡नि उक्था꣡  
+या꣡वद् द्या꣡वापृथिवी꣡ ता꣡वद् इ꣡त् त꣡त्  
+सहस्रधा꣡ महिमा꣡नः सह꣡स्रं  
+या꣡वद् ब्र꣡ह्म वि꣡ष्ठितं ता꣡वती वा꣡क्  

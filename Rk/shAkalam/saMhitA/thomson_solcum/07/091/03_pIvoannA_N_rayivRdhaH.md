@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-pī́voannām̐ rayivŕ̥dhaḥ sumedhā́ḥ  
-śvetáḥ siṣakti niyútām abhiśrī́ḥ  
-té vāyáve sámanaso ví tasthur  
-víśvén náraḥ suapatyā́ni cakruḥ  
+पी꣡वोअन्नाँ रयिव्ŕ̥धः सुमेधाः꣡  
+श्वेतः꣡ सिषक्ति नियु꣡ताम् अभिश्रीः꣡  
+ते꣡ वाय꣡वे स꣡मनसो वि꣡ तस्थुर्  
+वि꣡श्वे꣡न् न꣡रः सुअपत्या꣡नि चक्रुः  

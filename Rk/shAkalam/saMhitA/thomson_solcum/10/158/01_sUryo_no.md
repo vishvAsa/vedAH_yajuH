@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-sū́riyo no divás pātu  
-vã́to antárikṣã́t  
-agnír naḥ pā́rthivebhiyaḥ  
+सू꣡रियो नो दिव꣡स् पातु  
+व्ã꣡तो अन्त꣡रिक्ष्ã꣡त्  
+अग्नि꣡र् नः पा꣡र्थिवेभियः  

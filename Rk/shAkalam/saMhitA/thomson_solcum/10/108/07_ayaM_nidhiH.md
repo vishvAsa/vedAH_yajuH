@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ayáṃ nidhíḥ sarame ádribudhno  
-góbhir áśvebhir vásubhir nír̥ṣṭaḥ  
-rákṣanti tám paṇáyo yé sugopā́  
-réku padám álakam ā́ jagantha  
+अयं꣡ निधिः꣡ सरमे अ꣡द्रिबुध्नो  
+गो꣡भिर् अ꣡श्वेभिर् व꣡सुभिर् नि꣡ऋष्टः  
+र꣡क्षन्ति त꣡म् पण꣡यो ये꣡ सुगोपा꣡  
+रे꣡कु पद꣡म् अ꣡लकम् आ꣡ जगन्थ  

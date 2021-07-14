@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-kr̥té cid átra marúto raṇanta  
-anavadyā́saḥ śúcayaḥ pavākā́ḥ+  
-prá ṇo 'vata sumatíbhir yajatrāḥ  
-prá vā́jebhis tirata puṣyáse naḥ  
+कृते꣡ चिद् अ꣡त्र मरु꣡तो रणन्त  
+अनवद्या꣡सः शु꣡चयः पवाकाः꣡+  
+प्र꣡ णो ऽवत सुमति꣡भिर् यजत्राः  
+प्र꣡ वा꣡जेभिस् तिरत पुष्य꣡से नः  

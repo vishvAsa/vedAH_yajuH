@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-dhātā́ dhātr̥̄ṇā́m bhúvanasya yás pátir  
-deváṃ trātā́ram abhimātiṣāhám  
-imáṃ yajñám aśvínobhā́ bŕ̥haspátir  
-devā́ḥ pāntu yájamānaṃ niarthā́t  
+धाता꣡ धातॄणा꣡म् भु꣡वनस्य य꣡स् प꣡तिर्  
+देवं꣡ त्राता꣡रम् अभिमातिषाह꣡म्  
+इमं꣡ यज्ञ꣡म् अश्वि꣡नोभा꣡ ब्ŕ̥हस्प꣡तिर्  
+देवाः꣡ पान्तु य꣡जमानं निअर्था꣡त्  

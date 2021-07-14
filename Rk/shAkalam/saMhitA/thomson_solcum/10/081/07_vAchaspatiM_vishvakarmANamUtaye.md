@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-vācás pátiṃ viśvákarmāṇam ūtáye  
-manojúvaṃ vā́je adyā́ huvema  
-sá no víśvāni hávanāni joṣad  
-viśváśambhūr ávase sādhúkarmā  
+वाच꣡स् प꣡तिं विश्व꣡कर्माणम् ऊत꣡ये  
+मनोजु꣡वं वा꣡जे अद्या꣡ हुवेम  
+स꣡ नो वि꣡श्वानि ह꣡वनानि जोषद्  
+विश्व꣡शम्भूर् अ꣡वसे साधु꣡कर्मा  

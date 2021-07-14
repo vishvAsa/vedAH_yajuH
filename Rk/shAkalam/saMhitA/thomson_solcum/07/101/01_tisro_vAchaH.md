@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tisró vā́caḥ prá vada jyótiragrā  
-yā́ etád duhré madhudoghám ū́dhaḥ  
-sá vatsáṃ kr̥ṇván gárbham óṣadhīnāṃ  
-sadyó jātó vr̥ṣabhó roravīti  
+तिस्रो꣡ वा꣡चः प्र꣡ वद ज्यो꣡तिरग्रा  
+या꣡ एत꣡द् दुह्रे꣡ मधुदोघ꣡म् ऊ꣡धः  
+स꣡ वत्सं꣡ कृण्व꣡न् ग꣡र्भम् ओ꣡षधीनां  
+सद्यो꣡ जातो꣡ वृषभो꣡ रोरवीति  

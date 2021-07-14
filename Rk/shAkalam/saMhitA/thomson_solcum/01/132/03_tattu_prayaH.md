@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-tát tú práyaḥ pratnáthā te śuśukvanáṃ  
-yásmin yajñé vā́ram ákr̥ṇvata kṣáyam  
-r̥tásya vā́r asi kṣáyam  
-ví tád vocer ádha dvitā́  
-antáḥ paśyanti raśmíbhiḥ  
-sá ghā vide ánu índro gavéṣaṇo  
-bandhukṣídbhyo gavéṣaṇaḥ  
+त꣡त् तु꣡ प्र꣡यः प्रत्न꣡था ते शुशुक्वनं꣡  
+य꣡स्मिन् यज्ञे꣡ वा꣡रम् अ꣡कृण्वत क्ष꣡यम्  
+ऋत꣡स्य वा꣡र् असि क्ष꣡यम्  
+वि꣡ त꣡द् वोचेर् अ꣡ध द्विता꣡  
+अन्तः꣡ पश्यन्ति रश्मि꣡भिः  
+स꣡ घा विदे अ꣡नु इ꣡न्द्रो गवे꣡षणो  
+बन्धुक्षि꣡द्भ्यो गवे꣡षणः  

@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-apā́m phénena námuceḥ  
-śíra indród avartayaḥ  
-víśvā yád ájaya spŕ̥dhaḥ  
+अपा꣡म् फे꣡नेन न꣡मुचेः  
+शि꣡र इन्द्रो꣡द् अवर्तयः  
+वि꣡श्वा य꣡द् अ꣡जय स्प्ŕ̥धः  

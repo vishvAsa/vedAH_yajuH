@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-evā́ ta indo subhúvaṃ supéśasaṃ  
-rásaṃ tuñjanti prathamā́ abhiśríyaḥ  
-nídaṃ-nidam pavamāna ní tāriṣa  
-āvís te śúṣmo bhavatu priyó mádaḥ  
+एवा꣡ त इन्दो सुभु꣡वं सुपे꣡शसं  
+र꣡सं तुञ्जन्ति प्रथमा꣡ अभिश्रि꣡यः  
+नि꣡दं-निदम् पवमान नि꣡ तारिष  
+आवि꣡स् ते शु꣡ष्मो भवतु प्रियो꣡ म꣡दः  

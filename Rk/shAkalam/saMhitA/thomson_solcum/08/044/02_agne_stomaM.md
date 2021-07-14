@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ágne stómaṃ juṣasva me  
-várdhasvānéna mánmanā  
-práti sūktā́ni harya naḥ  
+अ꣡ग्ने स्तो꣡मं जुषस्व मे  
+व꣡र्धस्वाने꣡न म꣡न्मना  
+प्र꣡ति सूक्ता꣡नि हर्य नः  

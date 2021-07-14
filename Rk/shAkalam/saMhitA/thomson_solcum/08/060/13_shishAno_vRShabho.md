@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-śíśāno vr̥ṣabhó yathā  
-agníḥ śŕ̥ṅge dávidhuvat  
-tigmā́ asya hánavo ná pratidhŕ̥ṣe  
-sujámbhaḥ sáhaso yahúḥ  
+शि꣡शानो वृषभो꣡ यथा  
+अग्निः꣡ श्ŕ̥ङ्गे द꣡विधुवत्  
+तिग्मा꣡ अस्य ह꣡नवो न꣡ प्रतिध्ŕ̥षे  
+सुज꣡म्भः स꣡हसो यहुः꣡  

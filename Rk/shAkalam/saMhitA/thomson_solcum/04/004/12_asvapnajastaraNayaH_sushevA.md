@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ásvapnajas taráṇayaḥ suśévā  
-átandrāso avr̥kā́ áśramiṣṭhāḥ  
-té pāyávaḥ sadhríañco niṣádya  
-ágne táva naḥ pãntu amūra  
+अ꣡स्वप्नजस् तर꣡णयः सुशे꣡वा  
+अ꣡तन्द्रासो अवृका꣡ अ꣡श्रमिष्ठाः  
+ते꣡ पाय꣡वः सध्रि꣡अञ्चो निष꣡द्य  
+अ꣡ग्ने त꣡व नः प्ãन्तु अमूर  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-víśve devā́so ádha vŕ̥ṣṇiyāni te  
-ávardhayan sómavatyā vacasyáyā  
-raddháṃ vr̥trám áhim índrasya hánmanā  
-agnír ná jámbhais tr̥ṣú ánnam āvayat  
+वि꣡श्वे देवा꣡सो अ꣡ध व्ŕ̥ष्णियानि ते  
+अ꣡वर्धयन् सो꣡मवत्या वचस्य꣡या  
+रद्धं꣡ वृत्र꣡म् अ꣡हिम् इ꣡न्द्रस्य ह꣡न्मना  
+अग्नि꣡र् न꣡ ज꣡म्भैस् तृषु꣡ अ꣡न्नम् आवयत्  

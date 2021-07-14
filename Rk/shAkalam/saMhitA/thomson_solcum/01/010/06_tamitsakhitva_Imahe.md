@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tám ít sakhitvá īmahe  
-táṃ rāyé táṃ suvī́riye  
-sá śakrá utá naḥ śakad  
-índro vásu dáyamānaḥ  
+त꣡म् इ꣡त् सखित्व꣡ ईमहे  
+तं꣡ राये꣡ तं꣡ सुवी꣡रिये  
+स꣡ शक्र꣡ उत꣡ नः शकद्  
+इ꣡न्द्रो व꣡सु द꣡यमानः  

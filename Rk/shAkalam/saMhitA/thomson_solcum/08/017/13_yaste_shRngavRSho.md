@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-yás te śr̥ṅgavr̥ṣo napāt  
-práṇapāt kuṇḍapā́yiyaḥ  
-ní asmin dadhra ā́ mánaḥ  
+य꣡स् ते शृङ्गवृषो नपात्  
+प्र꣡णपात् कुण्डपा꣡यियः  
+नि꣡ अस्मिन् दध्र आ꣡ म꣡नः  

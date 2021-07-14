@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ārṣṭiṣeṇó hotrám ŕ̥ṣir niṣī́dan  
-devā́pir devasumatíṃ cikitvā́n  
-sá úttarasmād ádharaṃ samudrám  
-apó divyā́ asr̥jad varṣíyā abhí  
+आर्ष्टिषेणो꣡ होत्र꣡म् ŕ̥षिर् निषी꣡दन्  
+देवा꣡पिर् देवसुमतिं꣡ चिकित्वा꣡न्  
+स꣡ उ꣡त्तरस्माद् अ꣡धरं समुद्र꣡म्  
+अपो꣡ दिव्या꣡ असृजद् वर्षि꣡या अभि꣡  

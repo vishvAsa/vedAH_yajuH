@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índrāviṣṇū tát panayā́yiyaṃ vāṃ  
-sómasya máda urú cakramāthe  
-ákr̥ṇutam antárikṣaṃ várīyo  
-áprathataṃ jīváse no rájāṃsi  
+इ꣡न्द्राविष्णू त꣡त् पनया꣡यियं वां  
+सो꣡मस्य म꣡द उरु꣡ चक्रमाथे  
+अ꣡कृणुतम् अन्त꣡रिक्षं व꣡रीयो  
+अ꣡प्रथतं जीव꣡से नो र꣡जांसि  

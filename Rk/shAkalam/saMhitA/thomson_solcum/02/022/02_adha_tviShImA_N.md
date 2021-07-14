@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-ádha tvíṣīmām̐ abhí ójasā kríviṃ  
-yudhā́bhavad  
-ā́ ródasī apr̥ṇad asya majmánā  
-prá vāvr̥dhe  
-ádhattānyáṃ jaṭháre prém aricyata  
-saínaṃ saścad devó deváṃ  
-satyám índraṃ satyá índuḥ  
+अ꣡ध त्वि꣡षीमाँ अभि꣡ ओ꣡जसा क्रि꣡विं  
+युधा꣡भवद्  
+आ꣡ रो꣡दसी अपृणद् अस्य मज्म꣡ना  
+प्र꣡ वावृधे  
+अ꣡धत्तान्यं꣡ जठ꣡रे प्रे꣡म् अरिच्यत  
+सइ꣡नं सश्चद् देवो꣡ देवं꣡  
+सत्य꣡म् इ꣡न्द्रं सत्य꣡ इ꣡न्दुः  

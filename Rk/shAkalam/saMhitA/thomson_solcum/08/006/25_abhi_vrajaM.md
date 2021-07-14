@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-abhí vrajáṃ ná tatniṣe  
-sū́ra upākácakṣasam  
-yád indra mr̥̄ḷáyāsi+ naḥ  
+अभि꣡ व्रजं꣡ न꣡ तत्निषे  
+सू꣡र उपाक꣡चक्षसम्  
+य꣡द् इन्द्र मॄऌअ꣡यासि+ नः  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-áprakṣitaṃ vásu bibharṣi hástayor  
-áṣāḷhaṃ sáhas tanúvi śrutó dadhe  
-ā́vr̥tāso avatā́so ná kartŕ̥bhis  
-tanū́ṣu te krátava indra bhū́rayaḥ  
+अ꣡प्रक्षितं व꣡सु बिभर्षि ह꣡स्तयोर्  
+अ꣡षाऌहं स꣡हस् तनु꣡वि श्रुतो꣡ दधे  
+आ꣡वृतासो अवता꣡सो न꣡ कर्त्ŕ̥भिस्  
+तनू꣡षु ते क्र꣡तव इन्द्र भू꣡रयः  

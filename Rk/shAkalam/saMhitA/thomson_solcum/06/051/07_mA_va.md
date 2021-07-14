@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-mā́ va éno anyákr̥tam bhujema  
-mā́ tát karma vasavo yác cáyadhve  
-víśvasya hí kṣáyatha viśvadevāḥ  
-svayáṃ ripús tanúvaṃ rīriṣīṣṭa  
+मा꣡ व ए꣡नो अन्य꣡कृतम् भुजेम  
+मा꣡ त꣡त् कर्म वसवो य꣡च् च꣡यध्वे  
+वि꣡श्वस्य हि꣡ क्ष꣡यथ विश्वदेवाः  
+स्वयं꣡ रिपु꣡स् तनु꣡वं रीरिषीष्ट  

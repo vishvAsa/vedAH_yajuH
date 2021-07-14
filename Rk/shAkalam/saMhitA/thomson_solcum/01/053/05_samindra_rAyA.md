@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sám indra rāyā́ sám iṣā́ rabhemahi  
-sáṃ vā́jebhiḥ puruścandraír abhídyubhiḥ  
-sáṃ deviyā́ prámatī° vīráśuṣmayā  
-góagrayā áśvavatyā° rabhemahi  
+स꣡म् इन्द्र राया꣡ स꣡म् इषा꣡ रभेमहि  
+सं꣡ वा꣡जेभिः पुरुश्चन्द्रइ꣡र् अभि꣡द्युभिः  
+सं꣡ देविया꣡ प्र꣡मती° वीर꣡शुष्मया  
+गो꣡अग्रया अ꣡श्ववत्या° रभेमहि  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kím u śréṣṭhaḥ kíṃ yáviṣṭho na ā́jagan  
-kím īyate dūtíyaṃ kád yád ūcimá  
-ná nindima camasáṃ yó mahākuló  
-ágne bhrātar drúṇa íd bhūtím ūdima  
+कि꣡म् उ श्रे꣡ष्ठः किं꣡ य꣡विष्ठो न आ꣡जगन्  
+कि꣡म् ईयते दूति꣡यं क꣡द् य꣡द् ऊचिम꣡  
+न꣡ निन्दिम चमसं꣡ यो꣡ महाकुलो꣡  
+अ꣡ग्ने भ्रातर् द्रु꣡ण इ꣡द् भूति꣡म् ऊदिम  

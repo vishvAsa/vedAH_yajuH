@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-mā́ tuvāgnír dhvanayīd dhūmágandhir  
-mókhā́ bhrā́janti abhí vikta jághriḥ  
-iṣṭáṃ vītám abhígūrtaṃ váṣaṭkr̥taṃ  
-táṃ devā́saḥ práti gr̥bhṇanti áśvam  
+मा꣡ तुवाग्नि꣡र् ध्वनयीद् धूम꣡गन्धिर्  
+मो꣡खा꣡ भ्रा꣡जन्ति अभि꣡ विक्त ज꣡घ्रिः  
+इष्टं꣡ वीत꣡म् अभि꣡गूर्तं व꣡षट्कृतं  
+तं꣡ देवा꣡सः प्र꣡ति गृभ्णन्ति अ꣡श्वम्  

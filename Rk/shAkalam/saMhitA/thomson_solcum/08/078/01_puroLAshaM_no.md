@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-puroḷā́śaṃ no ándhasa  
-índra sahásram ā́ bhara  
-śatā́ ca śūra gónãm  
+पुरोऌआ꣡शं नो अ꣡न्धस  
+इ꣡न्द्र सह꣡स्रम् आ꣡ भर  
+शता꣡ च शूर गो꣡न्ãम्  

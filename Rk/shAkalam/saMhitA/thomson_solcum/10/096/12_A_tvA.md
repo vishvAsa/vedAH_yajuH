@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ā́ tvā haryántam prayújo jánānāṃ  
-ráthe vahantu háriśipram indra  
-píbā yáthā prátibhr̥tasya mádhvo  
-háryan yajñáṃ sadhamā́de dáśoṇim  
+आ꣡ त्वा हर्य꣡न्तम् प्रयु꣡जो ज꣡नानां  
+र꣡थे वहन्तु ह꣡रिशिप्रम् इन्द्र  
+पि꣡बा य꣡था प्र꣡तिभृतस्य म꣡ध्वो  
+ह꣡र्यन् यज्ञं꣡ सधमा꣡दे द꣡शोणिम्  

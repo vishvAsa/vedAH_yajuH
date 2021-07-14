@@ -2,7 +2,7 @@
 title = "055"
 
 +++
-sáṃ trī́ pavítrā vítatāni eṣi  
-ánu ékaṃ dhāvasi pūyámānaḥ  
-ási bhágo ási dātrásya dātā́  
-ási maghávā maghávadbhya indo  
+सं꣡ त्री꣡ पवि꣡त्रा वि꣡ततानि एषि  
+अ꣡नु ए꣡कं धावसि पूय꣡मानः  
+अ꣡सि भ꣡गो अ꣡सि दात्र꣡स्य दाता꣡  
+अ꣡सि मघ꣡वा मघ꣡वद्भ्य इन्दो  

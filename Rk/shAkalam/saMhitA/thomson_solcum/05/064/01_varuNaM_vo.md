@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-váruṇaṃ vo riśā́dasam  
-r̥cā́ mitráṃ havāmahe  
-pári vrajéva bāhuvór  
-jaganvā́ṃsā súvarṇaram  
+व꣡रुणं वो रिशा꣡दसम्  
+ऋचा꣡ मित्रं꣡ हवामहे  
+प꣡रि व्रजे꣡व बाहुवो꣡र्  
+जगन्वां꣡सा सु꣡वर्णरम्  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-úpa naḥ sávanā́ gahi  
-sómasya somapāḥ piba  
-godā́ íd reváto mádaḥ  
+उ꣡प नः स꣡वना꣡ गहि  
+सो꣡मस्य सोमपाः पिब  
+गोदा꣡ इ꣡द् रेव꣡तो म꣡दः  

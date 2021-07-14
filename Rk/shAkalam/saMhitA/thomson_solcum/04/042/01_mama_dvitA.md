@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-máma dvitā́ rāṣṭaráṃ kṣatríyasya  
-viśvā́yor víśve amŕ̥tā yáthā naḥ  
-krátuṃ sacante váruṇasya devā́  
-rā́jāmi kr̥ṣṭér upamásya vavréḥ  
+म꣡म द्विता꣡ राष्टरं꣡ क्षत्रि꣡यस्य  
+विश्वा꣡योर् वि꣡श्वे अम्ŕ̥ता य꣡था नः  
+क्र꣡तुं सचन्ते व꣡रुणस्य देवा꣡  
+रा꣡जामि कृष्टे꣡र् उपम꣡स्य वव्रेः꣡  

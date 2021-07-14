@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-vrā́taṃ-vrātaṃ gaṇáṃ-gaṇaṃ suśastíbhir  
-agnér bhā́mam marútām ója īmahe  
-pŕ̥ṣadaśvāso anavabhrárādhaso  
-gántāro yajñáṃ vidátheṣu dhī́rāḥ  
+व्रा꣡तं-व्रातं गणं꣡-गणं सुशस्ति꣡भिर्  
+अग्ने꣡र् भा꣡मम् मरु꣡ताम् ओ꣡ज ईमहे  
+प्ŕ̥षदश्वासो अनवभ्र꣡राधसो  
+ग꣡न्तारो यज्ञं꣡ विद꣡थेषु धी꣡राः  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ádhi putropamaśravo  
-nápān mitrātither ihi  
-pitúṣ ṭe asmi vanditā́  
+अ꣡धि पुत्रोपमश्रवो  
+न꣡पान् मित्रातिथेर् इहि  
+पितु꣡ष् टे अस्मि वन्दिता꣡  

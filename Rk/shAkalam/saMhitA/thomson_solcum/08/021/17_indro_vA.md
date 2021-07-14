@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-índro vā ghéd íyan magháṃ  
-sárasvatī vā subhágā dadír vásu  
-tuváṃ vā citra dāśúṣe  
+इ꣡न्द्रो वा घे꣡द् इ꣡यन् मघं꣡  
+स꣡रस्वती वा सुभ꣡गा ददि꣡र् व꣡सु  
+तुवं꣡ वा चित्र दाशु꣡षे  

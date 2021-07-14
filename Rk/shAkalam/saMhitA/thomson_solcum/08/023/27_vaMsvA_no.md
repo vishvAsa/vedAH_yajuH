@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-váṃsvā no vā́riyā purú  
-váṃsva rāyáḥ puruspŕ̥haḥ  
-suvī́ryasya prajā́vato yáśasvataḥ  
+वं꣡स्वा नो वा꣡रिया पुरु꣡  
+वं꣡स्व रायः꣡ पुरुस्प्ŕ̥हः  
+सुवी꣡र्यस्य प्रजा꣡वतो य꣡शस्वतः  

@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-íti tvā devā́ imá āhur aiḷa  
-yáthem etád bhávasi mr̥tyúbandhuḥ  
-prajā́ te devā́n havíṣā yajāti  
-suvargá u tvám ápi mādayāse  
+इ꣡ति त्वा देवा꣡ इम꣡ आहुर् ऐऌअ  
+य꣡थेम् एत꣡द् भ꣡वसि मृत्यु꣡बन्धुः  
+प्रजा꣡ ते देवा꣡न् हवि꣡षा यजाति  
+सुवर्ग꣡ उ त्व꣡म् अ꣡पि मादयासे  

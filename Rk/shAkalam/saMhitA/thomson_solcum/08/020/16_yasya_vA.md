@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-yásya vā yūyám práti vājíno nara  
-ā́ havyā́ vītáye gathá  
-abhí ṣá dyumnaír utá vā́jasātibhiḥ  
-sumnā́ vo dhūtayo naśat  
+य꣡स्य वा यूय꣡म् प्र꣡ति वाजि꣡नो नर  
+आ꣡ हव्या꣡ वीत꣡ये गथ꣡  
+अभि꣡ ष꣡ द्युम्नइ꣡र् उत꣡ वा꣡जसातिभिः  
+सुम्ना꣡ वो धूतयो नशत्  

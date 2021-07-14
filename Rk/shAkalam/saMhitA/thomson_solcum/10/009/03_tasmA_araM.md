@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tásmā áraṃ gamāma vo  
-yásya kṣáyāya jínvatha  
-ā́po janáyathā ca naḥ  
+त꣡स्मा अ꣡रं गमाम वो  
+य꣡स्य क्ष꣡याय जि꣡न्वथ  
+आ꣡पो जन꣡यथा च नः  

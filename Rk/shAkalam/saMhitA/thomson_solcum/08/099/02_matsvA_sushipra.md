@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mátsvā suśipra harivas tád īmahe  
-tvé ā́ bhūṣanti vedhásaḥ  
-táva śrávāṃsi upamā́ni ukthíyā  
-sutéṣu indra girvaṇaḥ  
+म꣡त्स्वा सुशिप्र हरिवस् त꣡द् ईमहे  
+त्वे꣡ आ꣡ भूषन्ति वेध꣡सः  
+त꣡व श्र꣡वांसि उपमा꣡नि उक्थि꣡या  
+सुते꣡षु इन्द्र गिर्वणः  

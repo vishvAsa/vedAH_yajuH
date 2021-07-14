@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-suastí naḥ · pathíyāsu dhánvasu  
-suastí apsú vr̥jáne súvarvati  
-suastí naḥ putrakr̥théṣu yóniṣu  
-suastí rāyé maruto dadhātana  
+सुअस्ति꣡ नः · पथि꣡यासु ध꣡न्वसु  
+सुअस्ति꣡ अप्सु꣡ वृज꣡ने सु꣡वर्वति  
+सुअस्ति꣡ नः पुत्रकृथे꣡षु यो꣡निषु  
+सुअस्ति꣡ राये꣡ मरुतो दधातन  

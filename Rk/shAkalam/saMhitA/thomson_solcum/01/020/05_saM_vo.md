@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sáṃ vo mádāso agmata  
-índreṇa ca marútvatā  
-ādityébhiś ca rā́jabhiḥ  
+सं꣡ वो म꣡दासो अग्मत  
+इ꣡न्द्रेण च मरु꣡त्वता  
+आदित्ये꣡भिश् च रा꣡जभिः  

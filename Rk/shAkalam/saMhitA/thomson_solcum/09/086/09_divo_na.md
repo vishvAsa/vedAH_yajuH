@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-divó ná sā́nu stanáyann acikradad  
-diyaúś ca yásya pr̥thivī́ ca dhármabhiḥ  
-índrasya sakhyám pavate vivévidat  
-sómaḥ punānáḥ kaláśeṣu sīdati  
+दिवो꣡ न꣡ सा꣡नु स्तन꣡यन्न् अचिक्रदद्  
+दियउ꣡श् च य꣡स्य पृथिवी꣡ च ध꣡र्मभिः  
+इ꣡न्द्रस्य सख्य꣡म् पवते विवे꣡विदत्  
+सो꣡मः पुनानः꣡ कल꣡शेषु सीदति  

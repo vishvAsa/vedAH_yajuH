@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-br̥hatī́ iva sūnáve ródasī  
-gíro hótā manuṣíyo ná dákṣaḥ  
-súvarvate satyáśuṣmāya pūrvī́r  
-vaiśvānarā́ya nŕ̥tamāya yahvī́ḥ  
+बृहती꣡ इव सून꣡वे रो꣡दसी  
+गि꣡रो हो꣡ता मनुषि꣡यो न꣡ द꣡क्षः  
+सु꣡वर्वते सत्य꣡शुष्माय पूर्वी꣡र्  
+वैश्वानरा꣡य न्ŕ̥तमाय यह्वीः꣡  

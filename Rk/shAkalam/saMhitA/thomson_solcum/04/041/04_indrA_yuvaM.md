@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-índrā yuváṃ varuṇā didyúm asminn  
-ójiṣṭham ugrā ní vadhiṣṭaṃ vájram  
-yó no durévo vr̥kátir dabhī́tis  
-tásmin mimāthām abhíbhūti ójaḥ  
+इ꣡न्द्रा युवं꣡ वरुणा दिद्यु꣡म् अस्मिन्न्  
+ओ꣡जिष्ठम् उग्रा नि꣡ वधिष्टं व꣡ज्रम्  
+यो꣡ नो दुरे꣡वो वृक꣡तिर् दभी꣡तिस्  
+त꣡स्मिन् मिमाथाम् अभि꣡भूति ओ꣡जः  

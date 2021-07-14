@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-evá agnír mártiaiḥ° sahá sūríbhir  
-vásu ṣṭave sáhasaḥ sūnáro nŕ̥bhiḥ  
-mitrā́so ná yé súdhitā r̥tāyávo  
-dyā́vo ná dyumnaír abhí sánti mā́nuṣān  
+एव꣡ अग्नि꣡र् म꣡र्तिऐः° सह꣡ सूरि꣡भिर्  
+व꣡सु ष्टवे स꣡हसः सून꣡रो न्ŕ̥भिः  
+मित्रा꣡सो न꣡ ये꣡ सु꣡धिता ऋताय꣡वो  
+द्या꣡वो न꣡ द्युम्नइ꣡र् अभि꣡ स꣡न्ति मा꣡नुषान्  

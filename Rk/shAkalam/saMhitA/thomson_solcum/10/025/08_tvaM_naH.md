@@ -2,9 +2,9 @@
 title = "008"
 
 +++
-tuváṃ naḥ soma sukrátur  
-vayodhéyāya jāgr̥hi  
-kṣetravíttaro mánuṣo  
-ví vo máde  
-druhó naḥ pāhi áṃhaso  
-vívakṣase  
+तुवं꣡ नः सोम सुक्र꣡तुर्  
+वयोधे꣡याय जागृहि  
+क्षेत्रवि꣡त्तरो म꣡नुषो  
+वि꣡ वो म꣡दे  
+द्रुहो꣡ नः पाहि अं꣡हसो  
+वि꣡वक्षसे  

@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-vayáṃ soma vraté táva  
-mánas tanū́ṣu bíbhrataḥ  
-prajā́vantaḥ sacemahi  
+वयं꣡ सोम व्रते꣡ त꣡व  
+म꣡नस् तनू꣡षु बि꣡भ्रतः  
+प्रजा꣡वन्तः सचेमहि  

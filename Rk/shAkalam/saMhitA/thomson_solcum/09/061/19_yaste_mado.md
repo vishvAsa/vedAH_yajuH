@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-yás te mádo váreṇiyas  
-ténā pavasva ándhasā  
-devāvī́r aghaśaṃsahā́  
+य꣡स् ते म꣡दो व꣡रेणियस्  
+ते꣡ना पवस्व अ꣡न्धसा  
+देवावी꣡र् अघशंसहा꣡  

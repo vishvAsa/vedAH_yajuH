@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mā́ nindata yá imā́m máhya° rātíṃ  
-devó dadaú mártiyāya svadhā́vān  
-pā́kāya gŕ̥tso amŕ̥to vícetā  
-vaiśvānaró nŕ̥tamo yahvó agníḥ  
+मा꣡ निन्दत य꣡ इमा꣡म् म꣡ह्य° रातिं꣡  
+देवो꣡ ददउ꣡ म꣡र्तियाय स्वधा꣡वान्  
+पा꣡काय ग्ŕ̥त्सो अम्ŕ̥तो वि꣡चेता  
+वैश्वानरो꣡ न्ŕ̥तमो यह्वो꣡ अग्निः꣡  

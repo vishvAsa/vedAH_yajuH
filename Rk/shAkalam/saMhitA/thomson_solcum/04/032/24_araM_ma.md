@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-áram ma usráyāmaṇe  
-áram ánusrayāmaṇe  
-babhrū́ yā́meṣu asrídhā  
+अ꣡रम् म उस्र꣡यामणे  
+अ꣡रम् अ꣡नुस्रयामणे  
+बभ्रू꣡ या꣡मेषु अस्रि꣡धा  

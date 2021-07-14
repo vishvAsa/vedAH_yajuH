@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yásya śármann úpa víśve jánāsa  
-évais tasthúḥ sumatím bhíkṣamāṇāḥ  
-vaiśvānaró váram ā́ ródasīyor  
-ā́gníḥ sasāda pitarór+ upástham  
+य꣡स्य श꣡र्मन्न् उ꣡प वि꣡श्वे ज꣡नास  
+ए꣡वैस् तस्थुः꣡ सुमति꣡म् भि꣡क्षमाणाः  
+वैश्वानरो꣡ व꣡रम् आ꣡ रो꣡दसीयोर्  
+आ꣡ग्निः꣡ ससाद पितरो꣡र्+ उप꣡स्थम्  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-prá śaṃsā góṣu ághniyaṃ  
-krīḷáṃ yác chárdho mā́rutam  
-jámbhe rásasya vāvr̥dhe  
+प्र꣡ शंसा गो꣡षु अ꣡घ्नियं  
+क्रीऌअं꣡ य꣡च् छ꣡र्धो मा꣡रुतम्  
+ज꣡म्भे र꣡सस्य वावृधे  

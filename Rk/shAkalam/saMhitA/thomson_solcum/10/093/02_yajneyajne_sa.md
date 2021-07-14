@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yajñé-yajñe sá mártiyo  
-devā́n saparyati  
-yáḥ sumnaír dīrghaśrúttama  
-āvívāsati enān  
+यज्ञे꣡-यज्ञे स꣡ म꣡र्तियो  
+देवा꣡न् सपर्यति  
+यः꣡ सुम्नइ꣡र् दीर्घश्रु꣡त्तम  
+आवि꣡वासति एनान्  

@@ -2,6 +2,6 @@
 title = "032"
 
 +++
-imā́m ma indra suṣṭutíṃ  
-juṣásva prá sú mā́m ava  
-utá prá vardhayā matím  
+इमा꣡म् म इन्द्र सुष्टुतिं꣡  
+जुष꣡स्व प्र꣡ सु꣡ मा꣡म् अव  
+उत꣡ प्र꣡ वर्धया मति꣡म्  

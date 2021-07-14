@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-havír haviṣmo máhi sádma daíviyaṃ  
-nábho vásānaḥ pári yāsi adhvarám  
-rā́jā pavítraratho vā́jam ā́ruhaḥ  
-sahásrabhr̥ṣṭir jayasi śrávo br̥hát  
+हवि꣡र् हविष्मो म꣡हि स꣡द्म दइ꣡वियं  
+न꣡भो व꣡सानः प꣡रि यासि अध्वर꣡म्  
+रा꣡जा पवि꣡त्ररथो वा꣡जम् आ꣡रुहः  
+सह꣡स्रभृष्टिर् जयसि श्र꣡वो बृह꣡त्  

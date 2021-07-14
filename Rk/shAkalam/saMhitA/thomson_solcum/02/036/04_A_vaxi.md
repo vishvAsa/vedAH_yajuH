@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ vakṣi devā́m̐ ihá vipra yákṣi ca  
-uśán hotar ní ṣadā yóniṣu triṣú  
-práti vīhi prásthitaṃ somiyám mádhu  
-píbā́gnīdhrāt táva bhāgásya tr̥pṇuhi  
+आ꣡ वक्षि देवाँ꣡ इह꣡ विप्र य꣡क्षि च  
+उश꣡न् होतर् नि꣡ षदा यो꣡निषु त्रिषु꣡  
+प्र꣡ति वीहि प्र꣡स्थितं सोमिय꣡म् म꣡धु  
+पि꣡बा꣡ग्नीध्रात् त꣡व भाग꣡स्य तृप्णुहि  

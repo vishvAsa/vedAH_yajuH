@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-agníṃ stómena bodhaya  
-samidhānó ámartiyam  
-havyā́ devéṣu no dadhat  
+अग्निं꣡ स्तो꣡मेन बोधय  
+समिधानो꣡ अ꣡मर्तियम्  
+हव्या꣡ देवे꣡षु नो दधत्  

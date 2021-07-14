@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-kr̥dhí rátnaṃ susanitar dhánānāṃ  
-sá ghéd agne bhavasi yát sámiddhaḥ  
-stotúr duroṇé subhágasya revát  
-sr̥prā́ karásnā dadhiṣe vápūṃṣi  
+कृधि꣡ र꣡त्नं सुसनितर् ध꣡नानां  
+स꣡ घे꣡द् अग्ने भवसि य꣡त् स꣡मिद्धः  
+स्तोतु꣡र् दुरोणे꣡ सुभ꣡गस्य रेव꣡त्  
+सृप्रा꣡ कर꣡स्ना दधिषे व꣡पूंषि  

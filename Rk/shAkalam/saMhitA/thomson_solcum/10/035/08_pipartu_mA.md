@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-pípartu mā tád r̥tásya pravā́canaṃ  
-devā́nāṃ yán manuṣíyā ámanmahi  
-víśvā íd usrā́ spáḷ úd eti sū́riyaḥ  
-suastí agníṃ samidhānám īmahe  
+पि꣡पर्तु मा त꣡द् ऋत꣡स्य प्रवा꣡चनं  
+देवा꣡नां य꣡न् मनुषि꣡या अ꣡मन्महि  
+वि꣡श्वा इ꣡द् उस्रा꣡ स्प꣡ऌ उ꣡द् एति सू꣡रियः  
+सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे  

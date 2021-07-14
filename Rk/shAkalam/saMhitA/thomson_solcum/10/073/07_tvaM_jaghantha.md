@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuváṃ jaghantha námucim makhasyúṃ  
-dā́saṃ kr̥ṇvāná ŕ̥ṣaye vímāyam  
-tuváṃ cakartha mánave siyonā́n  
-pathó devatrā́ áñjaseva yā́nān  
+तुवं꣡ जघन्थ न꣡मुचिम् मखस्युं꣡  
+दा꣡सं कृण्वान꣡ ŕ̥षये वि꣡मायम्  
+तुवं꣡ चकर्थ म꣡नवे सियोना꣡न्  
+पथो꣡ देवत्रा꣡ अ꣡ञ्जसेव या꣡नान्  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-mā́ no vadhaír varuṇa yé ta iṣṭā́v  
-énaḥ kr̥ṇvántam asura bhriṇánti°  
-mā́ jyótiṣaḥ pravasathā́ni ganma  
-ví ṣū́ mŕ̥dhaḥ śiśratho jīváse naḥ  
+मा꣡ नो वधइ꣡र् वरुण ये꣡ त इष्टा꣡व्  
+ए꣡नः कृण्व꣡न्तम् असुर भ्रिण꣡न्ति°  
+मा꣡ ज्यो꣡तिषः प्रवसथा꣡नि गन्म  
+वि꣡ षू꣡ म्ŕ̥धः शिश्रथो जीव꣡से नः  

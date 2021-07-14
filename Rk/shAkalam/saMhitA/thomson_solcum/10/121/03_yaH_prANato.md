@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yáḥ prāṇató nimiṣató mahitvā́  
-éka íd rā́jā jágato babhū́va  
-yá ī́śe asyá dvipádaś cátuṣpadaḥ  
-kásmai devā́ya havíṣā vidhema  
+यः꣡ प्राणतो꣡ निमिषतो꣡ महित्वा꣡  
+ए꣡क इ꣡द् रा꣡जा ज꣡गतो बभू꣡व  
+य꣡ ई꣡शे अस्य꣡ द्विप꣡दश् च꣡तुष्पदः  
+क꣡स्मै देवा꣡य हवि꣡षा विधेम  

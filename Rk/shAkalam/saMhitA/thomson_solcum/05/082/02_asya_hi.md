@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ásya hí sváyaśastaraṃ  
-savitúḥ kác caná priyám  
-ná minánti svarā́jiyam  
+अ꣡स्य हि꣡ स्व꣡यशस्तरं  
+सवितुः꣡ क꣡च् चन꣡ प्रिय꣡म्  
+न꣡ मिन꣡न्ति स्वरा꣡जियम्  

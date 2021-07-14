@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-tám martiā° ámartiyaṃ  
-ghr̥ténāgníṃ saparyata  
-ádābhiyaṃ gr̥hápatim  
+त꣡म् मर्तिआ° अ꣡मर्तियं  
+घृते꣡नाग्निं꣡ सपर्यत  
+अ꣡दाभियं गृह꣡पतिम्  

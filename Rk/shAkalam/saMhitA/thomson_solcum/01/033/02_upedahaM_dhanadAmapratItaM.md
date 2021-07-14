@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-úpéd aháṃ dhanadā́m ápratītaṃ  
-júṣṭāṃ ná śyenó vasatím patāmi  
-índraṃ namasyánn upamébhir arkaír  
-yá stotŕ̥bhyo háviyo ásti yā́man  
+उ꣡पे꣡द् अहं꣡ धनदा꣡म् अ꣡प्रतीतं  
+जु꣡ष्टां न꣡ श्येनो꣡ वसति꣡म् पतामि  
+इ꣡न्द्रं नमस्य꣡न्न् उपमे꣡भिर् अर्कइ꣡र्  
+य꣡ स्तोत्ŕ̥भ्यो ह꣡वियो अ꣡स्ति या꣡मन्  

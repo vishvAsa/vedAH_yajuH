@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yáḥ saptáraśmir vr̥ṣabhás túviṣmān  
-avā́sr̥jat sártave saptá síndhūn  
-yó rauhiṇám ásphurad vájrabāhur  
-dyā́m āróhantaṃ sá janāsa índraḥ  
+यः꣡ सप्त꣡रश्मिर् वृषभ꣡स् तु꣡विष्मान्  
+अवा꣡सृजत् स꣡र्तवे सप्त꣡ सि꣡न्धून्  
+यो꣡ रौहिण꣡म् अ꣡स्फुरद् व꣡ज्रबाहुर्  
+द्या꣡म् आरो꣡हन्तं स꣡ जनास इ꣡न्द्रः  

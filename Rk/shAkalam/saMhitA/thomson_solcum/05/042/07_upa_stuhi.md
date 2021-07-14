@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-úpa stuhi prathamáṃ ratnadhéyam  
-bŕ̥haspátiṃ sanitā́raṃ dhánānām  
-yáḥ śáṃsate stuvaté śámbhaviṣṭhaḥ  
-purūvásur āgámaj jóhuvānam  
+उ꣡प स्तुहि प्रथमं꣡ रत्नधे꣡यम्  
+ब्ŕ̥हस्प꣡तिं सनिता꣡रं ध꣡नानाम्  
+यः꣡ शं꣡सते स्तुवते꣡ श꣡म्भविष्ठः  
+पुरूव꣡सुर् आग꣡मज् जो꣡हुवानम्  

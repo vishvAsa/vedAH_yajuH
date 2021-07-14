@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sá tát kr̥dhi iṣitás tū́yam agne  
-spŕ̥dho bādhasva sáhasā sáhasvān  
-yác chasyáse dyúbhir aktó vácobhis  
-táj juṣasva jaritúr ghóṣi mánma  
+स꣡ त꣡त् कृधि इषित꣡स् तू꣡यम् अग्ने  
+स्प्ŕ̥धो बाधस्व स꣡हसा स꣡हस्वान्  
+य꣡च् छस्य꣡से द्यु꣡भिर् अक्तो꣡ व꣡चोभिस्  
+त꣡ज् जुषस्व जरितु꣡र् घो꣡षि म꣡न्म  

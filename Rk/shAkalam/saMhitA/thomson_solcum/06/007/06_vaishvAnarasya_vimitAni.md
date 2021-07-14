@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-vaiśvānarásya vímitāni cákṣasā  
-sā́nūni divó amŕ̥tasya ketúnā  
-tásyéd u víśvā bhúvanā́dhi mūrdháni  
-vayā́ iva ruruhuḥ saptá visrúhaḥ  
+वैश्वानर꣡स्य वि꣡मितानि च꣡क्षसा  
+सा꣡नूनि दिवो꣡ अम्ŕ̥तस्य केतु꣡ना  
+त꣡स्ये꣡द् उ वि꣡श्वा भु꣡वना꣡धि मूर्ध꣡नि  
+वया꣡ इव रुरुहुः सप्त꣡ विस्रु꣡हः  

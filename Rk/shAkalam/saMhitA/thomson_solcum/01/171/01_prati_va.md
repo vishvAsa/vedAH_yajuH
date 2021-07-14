@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-práti va enā́ námasāhám emi  
-sūkténa bhikṣe sumatíṃ turā́ṇām  
-rarāṇátā maruto vediyā́bhir  
-ní héḷo dhattá ví mucadhvam áśvān  
+प्र꣡ति व एना꣡ न꣡मसाह꣡म् एमि  
+सूक्ते꣡न भिक्षे सुमतिं꣡ तुरा꣡णाम्  
+रराण꣡ता मरुतो वेदिया꣡भिर्  
+नि꣡ हे꣡ऌओ धत्त꣡ वि꣡ मुचध्वम् अ꣡श्वान्  

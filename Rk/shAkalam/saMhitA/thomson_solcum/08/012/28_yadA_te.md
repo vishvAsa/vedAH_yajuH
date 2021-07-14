@@ -2,6 +2,6 @@
 title = "028"
 
 +++
-yadā́ te haryatā́ hárī  
-vāvr̥dhā́te divé-dive  
-ā́d ít te víśvā bhúvanāni yemire  
+यदा꣡ ते हर्यता꣡ ह꣡री  
+वावृधा꣡ते दिवे꣡-दिवे  
+आ꣡द् इ꣡त् ते वि꣡श्वा भु꣡वनानि येमिरे  

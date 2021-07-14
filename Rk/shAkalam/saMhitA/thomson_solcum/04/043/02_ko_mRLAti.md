@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kó mr̥̄ḷāti+ katamá ā́gamiṣṭho  
-devā́nām u katamáḥ śámbhaviṣṭhaḥ  
-ráthaṃ kám āhur dravádaśvam āśúṃ  
-yáṃ sū́riyasya duhitā́vr̥ṇīta  
+को꣡ मॄऌआति+ कतम꣡ आ꣡गमिष्ठो  
+देवा꣡नाम् उ कतमः꣡ श꣡म्भविष्ठः  
+र꣡थं क꣡म् आहुर् द्रव꣡दश्वम् आशुं꣡  
+यं꣡ सू꣡रियस्य दुहिता꣡वृणीत  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-abhí tyám meṣám puruhūtám r̥gmíyam  
-índraṃ gīrbhír madatā vásvo arṇavám  
-yásya dyā́vo ná vicáranti mā́nuṣā  
-bhujé máṃhiṣṭham abhí vípram arcata  
+अभि꣡ त्य꣡म् मेष꣡म् पुरुहूत꣡म् ऋग्मि꣡यम्  
+इ꣡न्द्रं गीर्भि꣡र् मदता व꣡स्वो अर्णव꣡म्  
+य꣡स्य द्या꣡वो न꣡ विच꣡रन्ति मा꣡नुषा  
+भुजे꣡ मं꣡हिष्ठम् अभि꣡ वि꣡प्रम् अर्चत  

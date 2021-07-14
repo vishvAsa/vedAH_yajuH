@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ágne áchā vadehá naḥ  
-pratyáṅ naḥ sumánā bhava  
-prá no yacha viśas pate  
-dhanadā́ asi nas tuvám  
+अ꣡ग्ने अ꣡छा वदेह꣡ नः  
+प्रत्य꣡ङ् नः सुम꣡ना भव  
+प्र꣡ नो यछ विशस् पते  
+धनदा꣡ असि नस् तुव꣡म्  

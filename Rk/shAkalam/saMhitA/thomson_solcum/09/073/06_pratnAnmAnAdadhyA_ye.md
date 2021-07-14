@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-pratnā́n mā́nād ádhi ā́ yé samásvarañ  
-chlókayantrāso rabhasásya mántavaḥ  
-ápānakṣā́so badhirā́ ahāsata  
-r̥tásya pánthāṃ ná taranti duṣkŕ̥taḥ  
+प्रत्ना꣡न् मा꣡नाद् अ꣡धि आ꣡ ये꣡ सम꣡स्वरञ्  
+छ्लो꣡कयन्त्रासो रभस꣡स्य म꣡न्तवः  
+अ꣡पानक्षा꣡सो बधिरा꣡ अहासत  
+ऋत꣡स्य प꣡न्थां न꣡ तरन्ति दुष्क्ŕ̥तः  

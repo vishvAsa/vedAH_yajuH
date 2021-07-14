@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-bhágabhaktasya te vayám  
-úd aśema távā́vasā  
-mūrdhā́naṃ rāyá ārábhe  
+भ꣡गभक्तस्य ते वय꣡म्  
+उ꣡द् अशेम त꣡वा꣡वसा  
+मूर्धा꣡नं राय꣡ आर꣡भे  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá téjīyasā mánasā tuvóta  
-utá śikṣa suapatyásya śikṣóḥ  
-ágne rāyó nŕ̥tamasya prábhūtau  
-bhūyā́ma te suṣṭutáyaś ca vásvaḥ  
+स꣡ ते꣡जीयसा म꣡नसा तुवो꣡त  
+उत꣡ शिक्ष सुअपत्य꣡स्य शिक्षोः꣡  
+अ꣡ग्ने रायो꣡ न्ŕ̥तमस्य प्र꣡भूतौ  
+भूया꣡म ते सुष्टुत꣡यश् च व꣡स्वः  

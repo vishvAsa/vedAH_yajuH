@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-ní tvā dadhe váreṇiyaṃ  
-dákṣasyeḷā́ sahaskr̥ta  
-ágne sudītím uśíjam  
+नि꣡ त्वा दधे व꣡रेणियं  
+द꣡क्षस्येऌआ꣡ सहस्कृत  
+अ꣡ग्ने सुदीति꣡म् उशि꣡जम्  

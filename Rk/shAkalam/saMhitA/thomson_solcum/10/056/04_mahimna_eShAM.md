@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mahimná eṣām pitáraś canéśire  
-devā́ devéṣu adadhur ápi krátum  
-sám avivyacur utá yā́ni átviṣur  
-ā́ eṣāṃ tanū́ṣu ní viviśuḥ púnaḥ  
+महिम्न꣡ एषाम् पित꣡रश् चने꣡शिरे  
+देवा꣡ देवे꣡षु अदधुर् अ꣡पि क्र꣡तुम्  
+स꣡म् अविव्यचुर् उत꣡ या꣡नि अ꣡त्विषुर्  
+आ꣡ एषां तनू꣡षु नि꣡ विविशुः पु꣡नः  

@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-sáṃ ghóṣaḥ śr̥ṇve avamaír amítrair  
-jahī́ ní eṣu aśániṃ tápiṣṭhām  
-vr̥ścém adhástād ví rujā sáhasva  
-jahí rákṣo maghavan randháyasva  
+सं꣡ घो꣡षः शृण्वे अवमइ꣡र् अमि꣡त्रैर्  
+जही꣡ नि꣡ एषु अश꣡निं त꣡पिष्ठाम्  
+वृश्चे꣡म् अध꣡स्ताद् वि꣡ रुजा स꣡हस्व  
+जहि꣡ र꣡क्षो मघवन् रन्ध꣡यस्व  

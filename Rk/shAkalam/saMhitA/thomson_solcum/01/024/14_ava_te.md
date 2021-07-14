@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-áva te héḷo varuṇa námobhir  
-áva yajñébhir īmahe havírbhiḥ  
-kṣáyann asmábhyam asura pracetā  
-rā́jann énāṃsi śiśrathaḥ kr̥tā́ni  
+अ꣡व ते हे꣡ऌओ वरुण न꣡मोभिर्  
+अ꣡व यज्ञे꣡भिर् ईमहे हवि꣡र्भिः  
+क्ष꣡यन्न् अस्म꣡भ्यम् असुर प्रचेता  
+रा꣡जन्न् ए꣡नांसि शिश्रथः कृता꣡नि  

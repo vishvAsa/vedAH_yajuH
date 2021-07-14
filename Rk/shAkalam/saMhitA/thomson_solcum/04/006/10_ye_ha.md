@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yé ha tyé te sáhamānā ayā́sas  
-tveṣā́so agne arcáyaś cáranti  
-śyenā́so ná duvasanā́so árthaṃ  
-tuviṣvaṇáso mā́rutaṃ ná śárdhaḥ  
+ये꣡ ह त्ये꣡ ते स꣡हमाना अया꣡सस्  
+त्वेषा꣡सो अग्ने अर्च꣡यश् च꣡रन्ति  
+श्येना꣡सो न꣡ दुवसना꣡सो अ꣡र्थं  
+तुविष्वण꣡सो मा꣡रुतं न꣡ श꣡र्धः  

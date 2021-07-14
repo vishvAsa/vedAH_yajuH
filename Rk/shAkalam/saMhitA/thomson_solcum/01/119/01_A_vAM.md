@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ vāṃ rátham purumāyám manojúvaṃ  
-jīrā́śuvaṃ yajñíyaṃ jīváse huve  
-sahásraketuṃ vanínaṃ śatádvasuṃ  
-śruṣṭīvā́naṃ varivodhā́m abhí práyaḥ  
+आ꣡ वां र꣡थम् पुरुमाय꣡म् मनोजु꣡वं  
+जीरा꣡शुवं यज्ञि꣡यं जीव꣡से हुवे  
+सह꣡स्रकेतुं वनि꣡नं शत꣡द्वसुं  
+श्रुष्टीवा꣡नं वरिवोधा꣡म् अभि꣡ प्र꣡यः  

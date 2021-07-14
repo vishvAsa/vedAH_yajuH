@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-uróṣ ṭa indra rā́dhaso  
-vibhvī́ rātíḥ śatakrato  
-ádhā no viśvacarṣaṇe  
-dyumnā́ sukṣatra maṃhaya  
+उरो꣡ष् ट इन्द्र रा꣡धसो  
+विभ्वी꣡ रातिः꣡ शतक्रतो  
+अ꣡धा नो विश्वचर्षणे  
+द्युम्ना꣡ सुक्षत्र मंहय  

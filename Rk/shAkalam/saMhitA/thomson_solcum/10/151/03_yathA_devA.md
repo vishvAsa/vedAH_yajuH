@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yáthā devā́ ásureṣu  
-śraddhā́m ugréṣu cakriré  
-evám bhojéṣu yájvasu  
-asmā́kam uditáṃ kr̥dhi  
+य꣡था देवा꣡ अ꣡सुरेषु  
+श्रद्धा꣡म् उग्रे꣡षु चक्रिरे꣡  
+एव꣡म् भोजे꣡षु य꣡ज्वसु  
+अस्मा꣡कम् उदितं꣡ कृधि  

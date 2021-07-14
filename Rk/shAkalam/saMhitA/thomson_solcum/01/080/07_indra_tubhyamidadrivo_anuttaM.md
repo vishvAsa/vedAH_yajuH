@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-índra túbhyam íd adrivo  
-ánuttaṃ vajri° vīríyam  
-yád dha tyám māyínam mr̥gáṃ  
-tám u tvám māyáyāvadhīr  
-árcann ánu svarā́jiyam  
+इ꣡न्द्र तु꣡भ्यम् इ꣡द् अद्रिवो  
+अ꣡नुत्तं वज्रि° वीरि꣡यम्  
+य꣡द् ध त्य꣡म् मायि꣡नम् मृगं꣡  
+त꣡म् उ त्व꣡म् माय꣡यावधीर्  
+अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्  

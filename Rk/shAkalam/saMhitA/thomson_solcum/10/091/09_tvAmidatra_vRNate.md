@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tuvā́m íd átra vr̥ṇate tuvāyávo  
-hótāram agne vidátheṣu vedhásaḥ  
-yád devayánto dádhati práyāṃsi te  
-havíṣmanto mánavo vr̥ktábarhiṣaḥ  
+तुवा꣡म् इ꣡द् अ꣡त्र वृणते तुवाय꣡वो  
+हो꣡तारम् अग्ने विद꣡थेषु वेध꣡सः  
+य꣡द् देवय꣡न्तो द꣡धति प्र꣡यांसि ते  
+हवि꣡ष्मन्तो म꣡नवो वृक्त꣡बर्हिषः  

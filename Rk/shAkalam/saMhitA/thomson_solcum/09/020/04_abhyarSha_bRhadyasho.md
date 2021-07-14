@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-abhí arṣa br̥hád yáśo  
-maghávadbhyo dhruváṃ rayím  
-íṣaṃ stotŕ̥bhya ā́ bhara  
+अभि꣡ अर्ष बृह꣡द् य꣡शो  
+मघ꣡वद्भ्यो ध्रुवं꣡ रयि꣡म्  
+इ꣡षं स्तोत्ŕ̥भ्य आ꣡ भर  

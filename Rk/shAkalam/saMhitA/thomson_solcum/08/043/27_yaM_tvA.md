@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-yáṃ tvā jánāsa indhaté  
-manuṣvád aṅgirastama  
-ágne sá bodhi me vácaḥ  
+यं꣡ त्वा ज꣡नास इन्धते꣡  
+मनुष्व꣡द् अङ्गिरस्तम  
+अ꣡ग्ने स꣡ बोधि मे व꣡चः  

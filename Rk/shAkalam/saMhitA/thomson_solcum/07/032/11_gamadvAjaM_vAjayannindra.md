@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-gámad vā́jaṃ vājáyann indra mártiyo  
-yásya tvám avitā́ bhúvaḥ  
-asmā́kam bodhi avitā́ ráthānãm  
-asmā́kaṃ śūra nr̥̄ṇã́m+  
+ग꣡मद् वा꣡जं वाज꣡यन्न् इन्द्र म꣡र्तियो  
+य꣡स्य त्व꣡म् अविता꣡ भु꣡वः  
+अस्मा꣡कम् बोधि अविता꣡ र꣡थान्ãम्  
+अस्मा꣡कं शूर नॄण्ã꣡म्+  

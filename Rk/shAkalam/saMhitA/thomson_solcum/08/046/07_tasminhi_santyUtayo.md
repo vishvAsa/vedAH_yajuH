@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tásmin hí sánti ūtáyo  
-víśvā ábhīravaḥ sácā  
-tám ā́ vahantu sáptayaḥ purūvásum  
-mádāya hárayaḥ sutám  
+त꣡स्मिन् हि꣡ स꣡न्ति ऊत꣡यो  
+वि꣡श्वा अ꣡भीरवः स꣡चा  
+त꣡म् आ꣡ वहन्तु स꣡प्तयः पुरूव꣡सुम्  
+म꣡दाय ह꣡रयः सुत꣡म्  

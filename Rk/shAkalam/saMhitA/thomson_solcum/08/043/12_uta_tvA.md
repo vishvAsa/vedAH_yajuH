@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-utá tvā námasā vayáṃ  
-hótar váreṇiyakrato  
-ágne samídbhir īmahe  
+उत꣡ त्वा न꣡मसा वयं꣡  
+हो꣡तर् व꣡रेणियक्रतो  
+अ꣡ग्ने समि꣡द्भिर् ईमहे  

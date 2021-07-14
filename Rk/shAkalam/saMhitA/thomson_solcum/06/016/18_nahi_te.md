@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-nahí te pūrtám akṣipád  
-bhúvan nemānãṃ vaso  
-áthā dúvo vanavase  
+नहि꣡ ते पूर्त꣡म् अक्षिप꣡द्  
+भु꣡वन् नेमान्ãं वसो  
+अ꣡था दु꣡वो वनवसे  

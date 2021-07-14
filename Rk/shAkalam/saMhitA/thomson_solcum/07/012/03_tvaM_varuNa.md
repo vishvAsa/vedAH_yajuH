@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuváṃ váruṇa utá mitró agne  
-tuvā́ṃ vardhanti matíbhir vásiṣṭhāḥ  
-tuvé vásu suṣaṇanā́ni santu  
-yūyám pāta suastíbhiḥ sádā naḥ  
+तुवं꣡ व꣡रुण उत꣡ मित्रो꣡ अग्ने  
+तुवां꣡ वर्धन्ति मति꣡भिर् व꣡सिष्ठाः  
+तुवे꣡ व꣡सु सुषणना꣡नि सन्तु  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

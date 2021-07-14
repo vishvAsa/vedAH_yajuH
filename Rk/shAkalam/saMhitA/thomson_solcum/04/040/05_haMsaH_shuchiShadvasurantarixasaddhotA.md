@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-haṃsáḥ śuciṣád vásur antarikṣasád  
-dhótā vediṣád átithir duroṇasát  
-nr̥ṣád varasád r̥tasád víomasád  
-abjā́ gojā́ r̥tajā́ adrijā́ r̥tám  
+हंसः꣡ शुचिष꣡द् व꣡सुर् अन्तरिक्षस꣡द्  
+धो꣡ता वेदिष꣡द् अ꣡तिथिर् दुरोणस꣡त्  
+नृष꣡द् वरस꣡द् ऋतस꣡द् वि꣡ओमस꣡द्  
+अब्जा꣡ गोजा꣡ ऋतजा꣡ अद्रिजा꣡ ऋत꣡म्  

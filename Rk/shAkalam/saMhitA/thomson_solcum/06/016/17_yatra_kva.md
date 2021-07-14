@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-yátra kúva ca te máno  
-dákṣaṃ dadhasa úttaram  
-tátrā sádaḥ kr̥ṇavase  
+य꣡त्र कु꣡व च ते म꣡नो  
+द꣡क्षं दधस उ꣡त्तरम्  
+त꣡त्रा स꣡दः कृणवसे  

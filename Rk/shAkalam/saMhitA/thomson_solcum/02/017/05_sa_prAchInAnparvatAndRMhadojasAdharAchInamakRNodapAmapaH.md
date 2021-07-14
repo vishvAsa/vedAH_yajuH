@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá prācī́nān párvatān dr̥ṃhad ójasā  
-adharācī́nam akr̥ṇod apā́m ápaḥ  
-ádhārayat pr̥thivī́ṃ viśvádhāyasam  
-ástabhnān māyáyā diyā́m avasrásaḥ  
+स꣡ प्राची꣡नान् प꣡र्वतान् दृंहद् ओ꣡जसा  
+अधराची꣡नम् अकृणोद् अपा꣡म् अ꣡पः  
+अ꣡धारयत् पृथिवीं꣡ विश्व꣡धायसम्  
+अ꣡स्तभ्नान् माय꣡या दिया꣡म् अवस्र꣡सः  

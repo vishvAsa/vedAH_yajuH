@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-yát soma citrám ukthíyaṃ  
-diviyám pā́rthivaṃ vásu  
-tán naḥ punāná ā́ bhara  
+य꣡त् सोम चित्र꣡म् उक्थि꣡यं  
+दिविय꣡म् पा꣡र्थिवं व꣡सु  
+त꣡न् नः पुनान꣡ आ꣡ भर  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kavíṃ ketúṃ · dhāsím bhānúm ádrer  
-hinvánti śáṃ rājiyáṃ ródasīyoḥ  
-puraṃdarásya gīrbhír ā́ vivāse  
-agnér vratā́ni pūrviyā́ mahā́ni  
+कविं꣡ केतुं꣡ · धासि꣡म् भानु꣡म् अ꣡द्रेर्  
+हिन्व꣡न्ति शं꣡ राजियं꣡ रो꣡दसीयोः  
+पुरंदर꣡स्य गीर्भि꣡र् आ꣡ विवासे  
+अग्ने꣡र् व्रता꣡नि पूर्विया꣡ महा꣡नि  

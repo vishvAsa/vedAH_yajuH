@@ -2,8 +2,8 @@
 title = "008"
 
 +++
-návā no agna ā́ bhara  
-stotŕ̥bhyaḥ sukṣitī́r íṣaḥ  
-té siyāma yá ānr̥cús  
-tvā́dūtāso dáme-dama  
-íṣaṃ stotŕ̥bhya ā́ bhara  
+न꣡वा नो अग्न आ꣡ भर  
+स्तोत्ŕ̥भ्यः सुक्षिती꣡र् इ꣡षः  
+ते꣡ सियाम य꣡ आनृचु꣡स्  
+त्वा꣡दूतासो द꣡मे-दम  
+इ꣡षं स्तोत्ŕ̥भ्य आ꣡ भर  

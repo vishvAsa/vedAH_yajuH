@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-víśve devā́ no adyā́ suastáye  
-vaiśvānaró vásur agníḥ suastáye  
-devā́ avantu r̥bhávaḥ suastáye  
-suastí no rudaráḥ+ pātu áṃhasaḥ  
+वि꣡श्वे देवा꣡ नो अद्या꣡ सुअस्त꣡ये  
+वैश्वानरो꣡ व꣡सुर् अग्निः꣡ सुअस्त꣡ये  
+देवा꣡ अवन्तु ऋभ꣡वः सुअस्त꣡ये  
+सुअस्ति꣡ नो रुदरः꣡+ पातु अं꣡हसः  

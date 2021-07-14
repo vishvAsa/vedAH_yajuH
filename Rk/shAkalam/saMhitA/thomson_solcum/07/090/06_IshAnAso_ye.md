@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-īśānā́so yé dádhate súvar ṇo  
-góbhir áśvebhir vásubhir híraṇyaiḥ  
-índravāyū sūráyo víśvam ā́yur  
-árvadbhir vīraíḥ pŕ̥tanāsu sahyuḥ  
+ईशाना꣡सो ये꣡ द꣡धते सु꣡वर् णो  
+गो꣡भिर् अ꣡श्वेभिर् व꣡सुभिर् हि꣡रण्यैः  
+इ꣡न्द्रवायू सूर꣡यो वि꣡श्वम् आ꣡युर्  
+अ꣡र्वद्भिर् वीरइः꣡ प्ŕ̥तनासु सह्युः  

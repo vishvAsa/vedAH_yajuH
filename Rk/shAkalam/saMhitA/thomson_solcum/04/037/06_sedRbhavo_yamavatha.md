@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-séd r̥bhavo yám ávatha  
-yūyám índraś ca mártiyam  
-sá dhībhír astu sánitā  
-medhásātā só árvatā  
+से꣡द् ऋभवो य꣡म् अ꣡वथ  
+यूय꣡म् इ꣡न्द्रश् च म꣡र्तियम्  
+स꣡ धीभि꣡र् अस्तु स꣡निता  
+मेध꣡साता सो꣡ अ꣡र्वता  

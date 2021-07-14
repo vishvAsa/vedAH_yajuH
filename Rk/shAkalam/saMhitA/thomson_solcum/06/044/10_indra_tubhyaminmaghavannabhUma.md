@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-índra túbhyam ín maghavann abhūma  
-vayáṃ dātré harivo mā́ ví venaḥ  
-nákir āpír dadr̥śe martiyatrā́  
-kím aṅgá radhracódanaṃ tuvāhuḥ  
+इ꣡न्द्र तु꣡भ्यम् इ꣡न् मघवन्न् अभूम  
+वयं꣡ दात्रे꣡ हरिवो मा꣡ वि꣡ वेनः  
+न꣡किर् आपि꣡र् ददृशे मर्तियत्रा꣡  
+कि꣡म् अङ्ग꣡ रध्रचो꣡दनं तुवाहुः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́yur viśvā́yuḥ pári pāsati tvā  
-pūṣā́ tvā pātu prápathe purástāt  
-yátrā́sate sukŕ̥to yátra té yayús  
-tátra tvā deváḥ savitā́ dadhātu  
+आ꣡युर् विश्वा꣡युः प꣡रि पासति त्वा  
+पूषा꣡ त्वा पातु प्र꣡पथे पुर꣡स्तात्  
+य꣡त्रा꣡सते सुक्ŕ̥तो य꣡त्र ते꣡ ययु꣡स्  
+त꣡त्र त्वा देवः꣡ सविता꣡ दधातु  

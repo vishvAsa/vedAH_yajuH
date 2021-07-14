@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-vayáṃ ghā te ápi ṣmasi  
-stotā́ra indra girvaṇaḥ  
-tuváṃ no jinva somapāḥ  
+वयं꣡ घा ते अ꣡पि ष्मसि  
+स्तोता꣡र इन्द्र गिर्वणः  
+तुवं꣡ नो जिन्व सोमपाः  

@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-pávamāna suvī́riyaṃ  
-rayíṃ soma rirīhi naḥ  
-índav índreṇa no yujā́  
+प꣡वमान सुवी꣡रियं  
+रयिं꣡ सोम रिरीहि नः  
+इ꣡न्दव् इ꣡न्द्रेण नो युजा꣡  

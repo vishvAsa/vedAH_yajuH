@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ā́ prá drava parāváto  
-arvāvátaś ca vr̥trahan  
-mádhvaḥ práti prábharmaṇi  
+आ꣡ प्र꣡ द्रव पराव꣡तो  
+अर्वाव꣡तश् च वृत्रहन्  
+म꣡ध्वः प्र꣡ति प्र꣡भर्मणि  

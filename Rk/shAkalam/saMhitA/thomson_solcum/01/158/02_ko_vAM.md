@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kó vāṃ dāśat sumatáye cid asyaí  
-vásū yád dhéthe námasā padé góḥ  
-jigr̥tám asmé revátīḥ púraṃdhīḥ  
-kāmapréṇeva mánasā cárantā  
+को꣡ वां दाशत् सुमत꣡ये चिद् अस्यइ꣡  
+व꣡सू य꣡द् धे꣡थे न꣡मसा पदे꣡ गोः꣡  
+जिगृत꣡म् अस्मे꣡ रेव꣡तीः पु꣡रंधीः  
+कामप्रे꣡णेव म꣡नसा च꣡रन्ता  

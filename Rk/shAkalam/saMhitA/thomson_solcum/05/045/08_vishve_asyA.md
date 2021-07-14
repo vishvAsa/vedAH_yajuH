@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-víśve asyā́ viúṣi mā́hināyāḥ  
-sáṃ yád góbhir áṅgiraso návanta  
-útsa āsãm paramé sadhástha  
-r̥tásya pathā́ sarámā vidad gā́ḥ  
+वि꣡श्वे अस्या꣡ विउ꣡षि मा꣡हिनायाः  
+सं꣡ य꣡द् गो꣡भिर् अ꣡ङ्गिरसो न꣡वन्त  
+उ꣡त्स आस्ãम् परमे꣡ सध꣡स्थ  
+ऋत꣡स्य पथा꣡ सर꣡मा विदद् गाः꣡  

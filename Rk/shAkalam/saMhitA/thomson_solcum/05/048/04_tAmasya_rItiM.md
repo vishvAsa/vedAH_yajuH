@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tā́m asya rītím paraśór iva práti  
-ánīkam akhyam bhujé asya várpasaḥ  
-sácā yádi pitumántam iva kṣáyaṃ  
-rátnaṃ dádhāti bhárahūtaye viśé  
+ता꣡म् अस्य रीति꣡म् परशो꣡र् इव प्र꣡ति  
+अ꣡नीकम् अख्यम् भुजे꣡ अस्य व꣡र्पसः  
+स꣡चा य꣡दि पितुम꣡न्तम् इव क्ष꣡यं  
+र꣡त्नं द꣡धाति भ꣡रहूतये विशे꣡  

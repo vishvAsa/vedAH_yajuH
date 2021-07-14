@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-tuváṃ hí agne agnínā  
-vípro vípreṇa sán satā́  
-sákhā sákhyā samidhyáse  
+तुवं꣡ हि꣡ अग्ने अग्नि꣡ना  
+वि꣡प्रो वि꣡प्रेण स꣡न् सता꣡  
+स꣡खा स꣡ख्या समिध्य꣡से  

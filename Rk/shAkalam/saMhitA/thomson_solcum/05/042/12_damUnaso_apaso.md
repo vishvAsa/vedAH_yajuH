@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-dámūnaso apáso yé suhástā  
-vŕ̥ṣṇaḥ pátnīr nadíyo vibhvataṣṭā́ḥ  
-sárasvatī br̥haddivótá rākā́  
-daśasyántīr varivasyantu śubhrā́ḥ  
+द꣡मूनसो अप꣡सो ये꣡ सुह꣡स्ता  
+व्ŕ̥ष्णः प꣡त्नीर् नदि꣡यो विभ्वतष्टाः꣡  
+स꣡रस्वती बृहद्दिवो꣡त꣡ राका꣡  
+दशस्य꣡न्तीर् वरिवस्यन्तु शुभ्राः꣡  

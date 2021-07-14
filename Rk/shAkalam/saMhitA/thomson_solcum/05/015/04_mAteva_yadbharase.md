@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mātéva yád bhárase paprathānó  
-jánaṃ-janaṃ dhā́yase cákṣase ca  
-váyo-vayo jarase yád dádhānaḥ  
-pári tmánā víṣurūpo jigāsi  
+माते꣡व य꣡द् भ꣡रसे पप्रथानो꣡  
+ज꣡नं-जनं धा꣡यसे च꣡क्षसे च  
+व꣡यो-वयो जरसे य꣡द् द꣡धानः  
+प꣡रि त्म꣡ना वि꣡षुरूपो जिगासि  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yásmai tuváṃ sukŕ̥te jātaveda  
-ulokám† agne kr̥ṇávaḥ siyonám  
-aśvínaṃ sá putŕ̥ṇaṃ vīrávantaṃ  
-gómantaṃ rayíṃ naśate suastí  
+य꣡स्मै तुवं꣡ सुक्ŕ̥ते जातवेद  
+उलोक꣡म्† अग्ने कृण꣡वः सियोन꣡म्  
+अश्वि꣡नं स꣡ पुत्ŕ̥णं वीर꣡वन्तं  
+गो꣡मन्तं रयिं꣡ नशते सुअस्ति꣡  

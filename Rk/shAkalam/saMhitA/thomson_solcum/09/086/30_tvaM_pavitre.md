@@ -2,7 +2,7 @@
 title = "030"
 
 +++
-tuvám pavítre rájaso vídharmaṇi  
-devébhyaḥ soma pavamāna pūyase  
-tuvā́m uśíjaḥ prathamā́ agr̥bhṇata  
-túbhyemā́ víśvā bhúvanāni yemire  
+तुव꣡म् पवि꣡त्रे र꣡जसो वि꣡धर्मणि  
+देवे꣡भ्यः सोम पवमान पूयसे  
+तुवा꣡म् उशि꣡जः प्रथमा꣡ अगृभ्णत  
+तु꣡भ्येमा꣡ वि꣡श्वा भु꣡वनानि येमिरे  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-pári te jigyúṣo yathā  
-dhā́rā sutásya dhāvati  
-ráṃhamāṇā ví avyáyaṃ  
-vā́raṃ vājī́va sānasíḥ  
+प꣡रि ते जिग्यु꣡षो यथा  
+धा꣡रा सुत꣡स्य धावति  
+रं꣡हमाणा वि꣡ अव्य꣡यं  
+वा꣡रं वाजी꣡व सानसिः꣡  

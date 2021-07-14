@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-índrāgnī ukthavāhasā  
-stómebhir havanaśrutā  
-víśvābhir gīrbhír ā́ gatam  
-asyá sómasya pītáye  
+इ꣡न्द्राग्नी उक्थवाहसा  
+स्तो꣡मेभिर् हवनश्रुता  
+वि꣡श्वाभिर् गीर्भि꣡र् आ꣡ गतम्  
+अस्य꣡ सो꣡मस्य पीत꣡ये  

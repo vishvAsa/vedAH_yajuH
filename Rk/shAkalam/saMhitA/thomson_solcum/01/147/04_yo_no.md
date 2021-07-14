@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yó no agne árarivām̐ aghāyúr  
-arātīvā́ marcáyati dvayéna  
-mántro gurúḥ púnar astu só asmā  
-ánu mr̥kṣīṣṭa tanúvaṃ duruktaíḥ  
+यो꣡ नो अग्ने अ꣡ररिवाँ अघायु꣡र्  
+अरातीवा꣡ मर्च꣡यति द्वये꣡न  
+म꣡न्त्रो गुरुः꣡ पु꣡नर् अस्तु सो꣡ अस्मा  
+अ꣡नु मृक्षीष्ट तनु꣡वं दुरुक्तइः꣡  

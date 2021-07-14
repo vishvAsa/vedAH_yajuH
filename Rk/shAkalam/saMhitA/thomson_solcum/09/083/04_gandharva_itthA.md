@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-gandharvá itthā́ padám asya rakṣati  
-pā́ti devā́nāṃ jánimāni ádbhutaḥ  
-gr̥bhṇā́ti ripúṃ nidháyā nidhā́patiḥ  
-sukŕ̥ttamā mádhuno bhakṣám āśata  
+गन्धर्व꣡ इत्था꣡ पद꣡म् अस्य रक्षति  
+पा꣡ति देवा꣡नां ज꣡निमानि अ꣡द्भुतः  
+गृभ्णा꣡ति रिपुं꣡ निध꣡या निधा꣡पतिः  
+सुक्ŕ̥त्तमा म꣡धुनो भक्ष꣡म् आशत  

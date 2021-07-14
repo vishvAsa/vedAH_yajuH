@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-drapsáḥ samudrám abhí yáj jígāti  
-páśyan gŕ̥dhrasya cákṣasā vídharman  
-bhānúḥ śukréṇa śocíṣā cakānás  
-tr̥tī́ye cakre rájasi priyā́ṇi  
+द्रप्सः꣡ समुद्र꣡म् अभि꣡ य꣡ज् जि꣡गाति  
+प꣡श्यन् ग्ŕ̥ध्रस्य च꣡क्षसा वि꣡धर्मन्  
+भानुः꣡ शुक्रे꣡ण शोचि꣡षा चकान꣡स्  
+तृती꣡ये चक्रे र꣡जसि प्रिया꣡णि  

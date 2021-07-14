@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-utó hí vām pūrviyā́ āvividrá  
-ŕ̥tāvarī rodasī satyavā́caḥ  
-náraś cid vāṃ samithé śū́rasātau  
-vavandiré pr̥thivi vévidānāḥ  
+उतो꣡ हि꣡ वाम् पूर्विया꣡ आविविद्र꣡  
+ŕ̥तावरी रोदसी सत्यवा꣡चः  
+न꣡रश् चिद् वां समिथे꣡ शू꣡रसातौ  
+ववन्दिरे꣡ पृथिवि वे꣡विदानाः  

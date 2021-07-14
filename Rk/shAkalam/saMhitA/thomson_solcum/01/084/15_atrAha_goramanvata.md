@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-átrā́ha gór amanvata  
-nā́ma tváṣṭur apīcíyam  
-itthā́ candrámaso gr̥hé  
+अ꣡त्रा꣡ह गो꣡र् अमन्वत  
+ना꣡म त्व꣡ष्टुर् अपीचि꣡यम्  
+इत्था꣡ चन्द्र꣡मसो गृहे꣡  

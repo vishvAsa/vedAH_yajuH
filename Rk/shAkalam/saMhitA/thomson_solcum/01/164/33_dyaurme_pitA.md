@@ -2,7 +2,7 @@
 title = "033"
 
 +++
-dyaúr me pitā́ janitā́ nā́bhir átra  
-bándhur me mātā́ pr̥thivī́ mahī́yám  
-uttānáyoś camúvor yónir antár  
-átrā pitā́ duhitúr gárbham ā́dhāt  
+द्यउ꣡र् मे पिता꣡ जनिता꣡ ना꣡भिर् अ꣡त्र  
+ब꣡न्धुर् मे माता꣡ पृथिवी꣡ मही꣡य꣡म्  
+उत्तान꣡योश् चमु꣡वोर् यो꣡निर् अन्त꣡र्  
+अ꣡त्रा पिता꣡ दुहितु꣡र् ग꣡र्भम् आ꣡धात्  

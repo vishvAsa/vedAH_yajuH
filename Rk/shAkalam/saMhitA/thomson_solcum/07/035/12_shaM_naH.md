@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-śáṃ naḥ satyásya pátayo bhavantu  
-śáṃ no árvantaḥ śám u santu gā́vaḥ  
-śáṃ na r̥bhávaḥ sukŕ̥taḥ suhástāḥ  
-śáṃ no bhavantu pitáro háveṣu  
+शं꣡ नः सत्य꣡स्य प꣡तयो भवन्तु  
+शं꣡ नो अ꣡र्वन्तः श꣡म् उ सन्तु गा꣡वः  
+शं꣡ न ऋभ꣡वः सुक्ŕ̥तः सुह꣡स्ताः  
+शं꣡ नो भवन्तु पित꣡रो ह꣡वेषु  

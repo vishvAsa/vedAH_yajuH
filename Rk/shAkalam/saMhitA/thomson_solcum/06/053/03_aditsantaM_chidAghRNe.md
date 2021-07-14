@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-áditsantaṃ cid āghr̥ṇe  
-pū́ṣan dā́nāya codaya  
-paṇéś cid ví mradā mánaḥ  
+अ꣡दित्सन्तं चिद् आघृणे  
+पू꣡षन् दा꣡नाय चोदय  
+पणे꣡श् चिद् वि꣡ म्रदा म꣡नः  

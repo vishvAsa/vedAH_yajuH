@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yá āyúṃ kútsam atithigvám árdayo  
-vāvr̥dhānó divé-dive  
-táṃ tvā vayáṃ háriaśvaṃ śatákratuṃ  
-vājayánto havāmahe  
+य꣡ आयुं꣡ कु꣡त्सम् अतिथिग्व꣡म् अ꣡र्दयो  
+वावृधानो꣡ दिवे꣡-दिवे  
+तं꣡ त्वा वयं꣡ ह꣡रिअश्वं शत꣡क्रतुं  
+वाजय꣡न्तो हवामहे  

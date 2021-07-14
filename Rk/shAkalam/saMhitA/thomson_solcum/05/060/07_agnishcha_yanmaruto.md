@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-agníś ca yán maruto viśvavedaso  
-divó váhadhva úttarād ádhi ṣṇúbhiḥ  
-té mandasānā́ dhúnayo riśādaso  
-vāmáṃ dhatta yájamānāya sunvaté  
+अग्नि꣡श् च य꣡न् मरुतो विश्ववेदसो  
+दिवो꣡ व꣡हध्व उ꣡त्तराद् अ꣡धि ष्णु꣡भिः  
+ते꣡ मन्दसाना꣡ धु꣡नयो रिशादसो  
+वामं꣡ धत्त य꣡जमानाय सुन्वते꣡  

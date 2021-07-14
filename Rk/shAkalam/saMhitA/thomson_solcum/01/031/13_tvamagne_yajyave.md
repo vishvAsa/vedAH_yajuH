@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tuvám agne yájyave pāyúr ántaro  
-aniṣaṅgā́ya caturakṣá idhyase  
-yó rātáhavyo avr̥kā́ya dhā́yase  
-kīréś cin mántram mánasā vanóṣi tám  
+तुव꣡म् अग्ने य꣡ज्यवे पायु꣡र् अ꣡न्तरो  
+अनिषङ्गा꣡य चतुरक्ष꣡ इध्यसे  
+यो꣡ रात꣡हव्यो अवृका꣡य धा꣡यसे  
+कीरे꣡श् चिन् म꣡न्त्रम् म꣡नसा वनो꣡षि त꣡म्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ātmā́ devā́nām bhúvanasya gárbho  
-yathāvaśáṃ carati devá eṣáḥ  
-ghóṣā íd asya śr̥ṇvire ná rūpáṃ  
-tásmai vā́tāya havíṣā vidhema  
+आत्मा꣡ देवा꣡नाम् भु꣡वनस्य ग꣡र्भो  
+यथावशं꣡ चरति देव꣡ एषः꣡  
+घो꣡षा इ꣡द् अस्य शृण्विरे न꣡ रूपं꣡  
+त꣡स्मै वा꣡ताय हवि꣡षा विधेम  

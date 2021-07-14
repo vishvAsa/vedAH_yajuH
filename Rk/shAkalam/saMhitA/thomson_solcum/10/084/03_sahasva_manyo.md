@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sáhasva manyo abhímātim asmé  
-ruján mr̥ṇán pramr̥ṇán préhi śátrūn  
-ugráṃ te pā́jo nanú ā́ rurudhre  
-vaśī́ váśaṃ nayasa ekaja tvám  
+स꣡हस्व मन्यो अभि꣡मातिम् अस्मे꣡  
+रुज꣡न् मृण꣡न् प्रमृण꣡न् प्रे꣡हि श꣡त्रून्  
+उग्रं꣡ ते पा꣡जो ननु꣡ आ꣡ रुरुध्रे  
+वशी꣡ व꣡शं नयस एकज त्व꣡म्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-cakráṃ ná vr̥ttám puruhūta vepate  
-máno bhiyā́ me ámater íd adrivaḥ  
-ráthād ádhi tvā jaritā́ sadāvr̥dha  
-kuvín nú stoṣan maghavan purūvásuḥ  
+चक्रं꣡ न꣡ वृत्त꣡म् पुरुहूत वेपते  
+म꣡नो भिया꣡ मे अ꣡मतेर् इ꣡द् अद्रिवः  
+र꣡थाद् अ꣡धि त्वा जरिता꣡ सदावृध  
+कुवि꣡न् नु꣡ स्तोषन् मघवन् पुरूव꣡सुः  

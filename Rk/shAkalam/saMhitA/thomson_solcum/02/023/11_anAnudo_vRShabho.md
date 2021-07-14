@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-anānudó vr̥ṣabhó jágmir āhaváṃ  
-níṣṭaptā śátrum pŕ̥tanāsu sāsahíḥ  
-ási satyá r̥ṇayā́ brahmaṇas pata  
-ugrásya cid damitā́ vīḷuharṣíṇaḥ  
+अनानुदो꣡ वृषभो꣡ ज꣡ग्मिर् आहवं꣡  
+नि꣡ष्टप्ता श꣡त्रुम् प्ŕ̥तनासु सासहिः꣡  
+अ꣡सि सत्य꣡ ऋणया꣡ ब्रह्मणस् पत  
+उग्र꣡स्य चिद् दमिता꣡ वीऌउहर्षि꣡णः  

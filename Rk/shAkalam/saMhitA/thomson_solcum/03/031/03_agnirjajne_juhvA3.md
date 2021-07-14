@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-agnír jajñe juhúvā réjamāno  
-mahás putrā́m̐ aruṣásya prayákṣe  
-mahā́n gárbho máhi ā́ jātám eṣām  
-mahī́ pravŕ̥d dháriaśvasya yajñaíḥ  
+अग्नि꣡र् जज्ञे जुहु꣡वा रे꣡जमानो  
+मह꣡स् पुत्राँ꣡ अरुष꣡स्य प्रय꣡क्षे  
+महा꣡न् ग꣡र्भो म꣡हि आ꣡ जात꣡म् एषाम्  
+मही꣡ प्रव्ŕ̥द् ध꣡रिअश्वस्य यज्ञइः꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ nas te gantu matsaró  
-vŕ̥ṣā mádo váreṇiyaḥ  
-sahā́vām̐ indra sānasíḥ  
-pr̥tanāṣā́ḷ ámartiyaḥ  
+आ꣡ नस् ते गन्तु मत्सरो꣡  
+व्ŕ̥षा म꣡दो व꣡रेणियः  
+सहा꣡वाँ इन्द्र सानसिः꣡  
+पृतनाषा꣡ऌ अ꣡मर्तियः  

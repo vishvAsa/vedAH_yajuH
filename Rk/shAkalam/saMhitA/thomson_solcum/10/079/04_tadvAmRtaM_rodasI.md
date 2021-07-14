@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tád vām r̥táṃ rodasī prá bravīmi  
-jā́yamāno mātárā gárbho atti  
-nā́háṃ devásya mártiyaś ciketa  
-agnír aṅgá vícetāḥ sá prácetāḥ  
+त꣡द् वाम् ऋतं꣡ रोदसी प्र꣡ ब्रवीमि  
+जा꣡यमानो मात꣡रा ग꣡र्भो अत्ति  
+ना꣡हं꣡ देव꣡स्य म꣡र्तियश् चिकेत  
+अग्नि꣡र् अङ्ग꣡ वि꣡चेताः स꣡ प्र꣡चेताः  

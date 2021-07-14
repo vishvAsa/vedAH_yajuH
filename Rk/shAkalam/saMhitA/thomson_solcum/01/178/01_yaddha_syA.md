@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yád dha syā́ ta indara+ śruṣṭír ásti  
-yáyā babhū́tha jaritŕ̥bhya ūtī́  
-mā́ naḥ kā́mam · maháyantam ā́ dhag  
-víśvā te aśyām pári ā́pa āyóḥ  
+य꣡द् ध स्या꣡ त इन्दर+ श्रुष्टि꣡र् अ꣡स्ति  
+य꣡या बभू꣡थ जरित्ŕ̥भ्य ऊती꣡  
+मा꣡ नः का꣡मम् · मह꣡यन्तम् आ꣡ धग्  
+वि꣡श्वा ते अश्याम् प꣡रि आ꣡प आयोः꣡  

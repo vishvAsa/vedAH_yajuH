@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá marmr̥jāná indriyā́ya dhā́yasa  
-óbhé antā́ ródasī harṣate hitáḥ  
-vŕ̥ṣā śúṣmeṇa bādhate ví durmatī́r  
-ādédiśānaḥ śaryahéva śurúdhaḥ  
+स꣡ मर्मृजान꣡ इन्द्रिया꣡य धा꣡यस  
+ओ꣡भे꣡ अन्ता꣡ रो꣡दसी हर्षते हितः꣡  
+व्ŕ̥षा शु꣡ष्मेण बाधते वि꣡ दुर्मती꣡र्  
+आदे꣡दिशानः शर्यहे꣡व शुरु꣡धः  

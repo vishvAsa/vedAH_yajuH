@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-iyám manīṣā́ br̥hatī́ br̥hántā  
-urukramā́ tavásā vardháyantī  
-raré vāṃ stómaṃ vidátheṣu viṣṇo  
-pínvatam íṣo vr̥jáneṣu indra  
+इय꣡म् मनीषा꣡ बृहती꣡ बृह꣡न्ता  
+उरुक्रमा꣡ तव꣡सा वर्ध꣡यन्ती  
+ररे꣡ वां स्तो꣡मं विद꣡थेषु विष्णो  
+पि꣡न्वतम् इ꣡षो वृज꣡नेषु इन्द्र  

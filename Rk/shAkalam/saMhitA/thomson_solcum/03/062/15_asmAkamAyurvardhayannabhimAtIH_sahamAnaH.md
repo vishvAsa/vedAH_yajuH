@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-asmā́kam ā́yu° vardháyann  
-abhímātīḥ sáhamānaḥ  
-sómaḥ sadhástham ā́sadat  
+अस्मा꣡कम् आ꣡यु° वर्ध꣡यन्न्  
+अभि꣡मातीः स꣡हमानः  
+सो꣡मः सध꣡स्थम् आ꣡सदत्  

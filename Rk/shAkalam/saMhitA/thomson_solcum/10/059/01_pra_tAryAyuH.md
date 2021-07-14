@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá tāri ā́yuḥ prataráṃ návīya  
-sthā́tāreva krátumatā ráthasya  
-ádha cyávāna út tavīti ártham  
-parātaráṃ sú nírr̥tir jihītām  
+प्र꣡ तारि आ꣡युः प्रतरं꣡ न꣡वीय  
+स्था꣡तारेव क्र꣡तुमता र꣡थस्य  
+अ꣡ध च्य꣡वान उ꣡त् तवीति अ꣡र्थम्  
+परातरं꣡ सु꣡ नि꣡रृतिर् जिहीताम्  

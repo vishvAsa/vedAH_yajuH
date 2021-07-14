@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-júṣṭo mádāya devátāta indo  
-pári ṣṇúnā dhanuva sā́no ávye  
-sahásradhāraḥ surabhír ádabdhaḥ  
-pári srava vā́jasātau nr̥ṣáhye  
+जु꣡ष्टो म꣡दाय देव꣡तात इन्दो  
+प꣡रि ष्णु꣡ना धनुव सा꣡नो अ꣡व्ये  
+सह꣡स्रधारः सुरभि꣡र् अ꣡दब्धः  
+प꣡रि स्रव वा꣡जसातौ नृष꣡ह्ये  

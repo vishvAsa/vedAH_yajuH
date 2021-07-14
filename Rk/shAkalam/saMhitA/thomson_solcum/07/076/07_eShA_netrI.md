@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-eṣā́ netrī́ rā́dhasaḥ sūnŕ̥tānām  
-uṣā́ uchántī ribhyate vásiṣṭhaiḥ  
-dīrghaśrútaṃ rayím asmé dádhānā  
-yūyám pāta suastíbhiḥ sádā naḥ  
+एषा꣡ नेत्री꣡ रा꣡धसः सून्ŕ̥तानाम्  
+उषा꣡ उछ꣡न्ती रिभ्यते व꣡सिष्ठैः  
+दीर्घश्रु꣡तं रयि꣡म् अस्मे꣡ द꣡धाना  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

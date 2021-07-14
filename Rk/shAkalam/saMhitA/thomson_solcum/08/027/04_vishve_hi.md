@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-víśve hí ṣmā mánave viśvávedaso  
-bhúvan vr̥dhé riśā́dasaḥ  
-áriṣṭebhiḥ pāyúbhir viśvavedaso  
-yántā no avr̥káṃ chardíḥ  
+वि꣡श्वे हि꣡ ष्मा म꣡नवे विश्व꣡वेदसो  
+भु꣡वन् वृधे꣡ रिशा꣡दसः  
+अ꣡रिष्टेभिः पायु꣡भिर् विश्ववेदसो  
+य꣡न्ता नो अवृकं꣡ छर्दिः꣡  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yáṃ smā pr̥chánti kúha séti ghorám  
-utém āhur naíṣó astī́ti enam  
-só aryáḥ puṣṭī́r víja 'vā́° mināti  
-śrád asmai dhatta sá janāsa índraḥ  
+यं꣡ स्मा पृछ꣡न्ति कु꣡ह से꣡ति घोर꣡म्  
+उते꣡म् आहुर् नइ꣡षो꣡ अस्ती꣡ति एनम्  
+सो꣡ अर्यः꣡ पुष्टी꣡र् वि꣡ज ऽवा꣡° मिनाति  
+श्र꣡द् अस्मै धत्त स꣡ जनास इ꣡न्द्रः  

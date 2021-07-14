@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ásti hí vaḥ sajātíyaṃ riśādaso  
-dévāso ásti ā́piyam  
-prá ṇaḥ pū́rvasmai suvitā́ya vocata  
-makṣū́ sumnā́ya návyase  
+अ꣡स्ति हि꣡ वः सजाति꣡यं रिशादसो  
+दे꣡वासो अ꣡स्ति आ꣡पियम्  
+प्र꣡ णः पू꣡र्वस्मै सुविता꣡य वोचत  
+मक्षू꣡ सुम्ना꣡य न꣡व्यसे  

@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-samidhāná u santiya  
-śúkraśoca ihā́ vaha  
-cikitvā́n daíviyaṃ jánam  
+समिधान꣡ उ सन्तिय  
+शु꣡क्रशोच इहा꣡ वह  
+चिकित्वा꣡न् दइ꣡वियं ज꣡नम्  

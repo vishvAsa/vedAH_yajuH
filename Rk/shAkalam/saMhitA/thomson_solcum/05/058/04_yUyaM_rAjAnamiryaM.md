@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yūyáṃ rā́jānam íriyaṃ jánāya  
-vibhvataṣṭáṃ janayathā yajatrāḥ  
-yuṣmád eti muṣṭihā́ bāhújūto  
-yuṣmád sádaśvo marutaḥ suvī́raḥ  
+यूयं꣡ रा꣡जानम् इ꣡रियं ज꣡नाय  
+विभ्वतष्टं꣡ जनयथा यजत्राः  
+युष्म꣡द् एति मुष्टिहा꣡ बाहु꣡जूतो  
+युष्म꣡द् स꣡दश्वो मरुतः सुवी꣡रः  

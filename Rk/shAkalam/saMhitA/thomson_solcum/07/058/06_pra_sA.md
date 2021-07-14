@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá sā́ vāci · suṣṭutír maghónām  
-idáṃ suuktám marúto juṣanta  
-ārā́c cid dvéṣo vr̥ṣaṇo yuyota  
-yūyám pāta suastíbhiḥ sádā naḥ  
+प्र꣡ सा꣡ वाचि · सुष्टुति꣡र् मघो꣡नाम्  
+इदं꣡ सुउक्त꣡म् मरु꣡तो जुषन्त  
+आरा꣡च् चिद् द्वे꣡षो वृषणो युयोत  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

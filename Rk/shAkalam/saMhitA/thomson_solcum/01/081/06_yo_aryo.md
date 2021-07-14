@@ -2,8 +2,8 @@
 title = "006"
 
 +++
-yó aryó martabhójanam  
-parādádāti dāśúṣe  
-índro asmábhya° śikṣatu  
-ví bhajā bhū́ri te vásu  
-bhakṣīyá táva rā́dhasaḥ  
+यो꣡ अर्यो꣡ मर्तभो꣡जनम्  
+पराद꣡दाति दाशु꣡षे  
+इ꣡न्द्रो अस्म꣡भ्य° शिक्षतु  
+वि꣡ भजा भू꣡रि ते व꣡सु  
+भक्षीय꣡ त꣡व रा꣡धसः  

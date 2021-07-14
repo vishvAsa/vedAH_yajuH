@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-ichánn áśvasya yác chíraḥ  
-párvateṣu ápaśritam  
-tád vidac charyaṇā́vati  
+इछ꣡न्न् अ꣡श्वस्य य꣡च् छि꣡रः  
+प꣡र्वतेषु अ꣡पश्रितम्  
+त꣡द् विदच् छर्यणा꣡वति  

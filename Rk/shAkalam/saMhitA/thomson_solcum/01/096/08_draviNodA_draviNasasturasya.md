@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-draviṇodā́ dráviṇasas turásya  
-draviṇodā́ḥ sánarasya prá yaṃsat  
-draviṇodā́ vīrávatīm íṣaṃ no  
-draviṇodā́ rāsate dīrghám ā́yuḥ  
+द्रविणोदा꣡ द्र꣡विणसस् तुर꣡स्य  
+द्रविणोदाः꣡ स꣡नरस्य प्र꣡ यंसत्  
+द्रविणोदा꣡ वीर꣡वतीम् इ꣡षं नो  
+द्रविणोदा꣡ रासते दीर्घ꣡म् आ꣡युः  

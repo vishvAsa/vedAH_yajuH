@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ná yātáva indara+ jūjuvur no  
-ná vándanā śaviṣṭha vediyā́bhiḥ  
-sá śardhad aryó víṣuṇasya jantór  
-mā́ śiśnádevā ápi gur r̥táṃ naḥ  
+न꣡ यात꣡व इन्दर+ जूजुवुर् नो  
+न꣡ व꣡न्दना शविष्ठ वेदिया꣡भिः  
+स꣡ शर्धद् अर्यो꣡ वि꣡षुणस्य जन्तो꣡र्  
+मा꣡ शिश्न꣡देवा अ꣡पि गुर् ऋतं꣡ नः  

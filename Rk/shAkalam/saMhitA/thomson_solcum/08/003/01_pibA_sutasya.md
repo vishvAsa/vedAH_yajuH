@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-píbā sutásya rasíno  
-mátsvā na indra gómataḥ  
-āpír no bodhi sadhamā́diyo vr̥dhé  
-asmā́m̐ avantu te dhíyaḥ  
+पि꣡बा सुत꣡स्य रसि꣡नो  
+म꣡त्स्वा न इन्द्र गो꣡मतः  
+आपि꣡र् नो बोधि सधमा꣡दियो वृधे꣡  
+अस्माँ꣡ अवन्तु ते धि꣡यः  

@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-kán návyo atasī́nãṃ  
-turó gr̥ṇīta mártiyaḥ  
-nahī́ nú asya mahimā́nam indriyáṃ  
-súvar gr̥ṇánta ānaśúḥ  
+क꣡न् न꣡व्यो अतसी꣡न्ãं  
+तुरो꣡ गृणीत म꣡र्तियः  
+नही꣡ नु꣡ अस्य महिमा꣡नम् इन्द्रियं꣡  
+सु꣡वर् गृण꣡न्त आनशुः꣡  

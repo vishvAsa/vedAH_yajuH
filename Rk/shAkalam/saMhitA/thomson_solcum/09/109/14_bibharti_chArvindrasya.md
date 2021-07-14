@@ -2,5 +2,5 @@
 title = "014"
 
 +++
-bíbharti cā́ru índrasya nā́ma  
-yéna víśvāni vr̥trā́ jaghā́na  
+बि꣡भर्ति चा꣡रु इ꣡न्द्रस्य ना꣡म  
+ये꣡न वि꣡श्वानि वृत्रा꣡ जघा꣡न  

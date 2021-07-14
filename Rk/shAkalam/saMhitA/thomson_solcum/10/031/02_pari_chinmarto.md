@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-pári cin márto dráviṇam mamanyād  
-r̥tásya pathā́ námasā́ vivāset  
-utá svéna krátunā sáṃ vadeta  
-śréyāṃsaṃ dákṣam mánasā jagr̥bhyāt  
+प꣡रि चिन् म꣡र्तो द्र꣡विणम् ममन्याद्  
+ऋत꣡स्य पथा꣡ न꣡मसा꣡ विवासेत्  
+उत꣡ स्वे꣡न क्र꣡तुना सं꣡ वदेत  
+श्रे꣡यांसं द꣡क्षम् म꣡नसा जगृभ्यात्  

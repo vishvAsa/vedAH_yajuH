@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sárasvatīṃ devayánto havante  
-sárasvatīm adhvaré tāyámāne  
-sárasvatīṃ sukŕ̥to ahvayanta  
-sárasvatī dāśúṣe vā́riyaṃ dāt  
+स꣡रस्वतीं देवय꣡न्तो हवन्ते  
+स꣡रस्वतीम् अध्वरे꣡ ताय꣡माने  
+स꣡रस्वतीं सुक्ŕ̥तो अह्वयन्त  
+स꣡रस्वती दाशु꣡षे वा꣡रियं दात्  

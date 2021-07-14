@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-ápnasvatīm aśvinā vā́cam asmé  
-kr̥táṃ no dasrā vŕ̥ṣaṇā manīṣā́m  
-adyūtiyé ávase ní hvaye vāṃ  
-vr̥dhé ca no bhavataṃ vā́jasātau  
+अ꣡प्नस्वतीम् अश्विना वा꣡चम् अस्मे꣡  
+कृतं꣡ नो दस्रा व्ŕ̥षणा मनीषा꣡म्  
+अद्यूतिये꣡ अ꣡वसे नि꣡ ह्वये वां  
+वृधे꣡ च नो भवतं वा꣡जसातौ  

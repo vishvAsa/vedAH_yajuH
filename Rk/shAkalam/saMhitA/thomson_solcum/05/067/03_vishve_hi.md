@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-víśve hí viśvávedaso  
-váruṇo mitró aryamā́  
-vratā́ padéva saścire  
-pã́nti mártiyaṃ riṣáḥ  
+वि꣡श्वे हि꣡ विश्व꣡वेदसो  
+व꣡रुणो मित्रो꣡ अर्यमा꣡  
+व्रता꣡ पदे꣡व सश्चिरे  
+प्ã꣡न्ति म꣡र्तियं रिषः꣡  

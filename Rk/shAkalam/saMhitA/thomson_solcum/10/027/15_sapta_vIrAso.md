@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-saptá vīrā́so adharā́d úd āyann  
-aṣṭóttarā́ttāt sám ajagmiran té  
-náva paścā́tāt sthivimánta āyan  
-dáśa prā́k sā́nu ví tiranti áśnaḥ  
+सप्त꣡ वीरा꣡सो अधरा꣡द् उ꣡द् आयन्न्  
+अष्टो꣡त्तरा꣡त्तात् स꣡म् अजग्मिरन् ते꣡  
+न꣡व पश्चा꣡तात् स्थिविम꣡न्त आयन्  
+द꣡श प्रा꣡क् सा꣡नु वि꣡ तिरन्ति अ꣡श्नः  

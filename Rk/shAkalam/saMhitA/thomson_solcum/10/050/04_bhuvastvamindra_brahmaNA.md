@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-bhúvas tuvám indara+ bráhmaṇā mahā́n  
-bhúvo víśveṣu sávaneṣu yajñíyaḥ  
-bhúvo nr̥̃́ṃś cyautanó víśvasmin bháre  
-jyáyiṣṭhaś+ ca · mántro viśvacarṣaṇe  
+भु꣡वस् तुव꣡म् इन्दर+ ब्र꣡ह्मणा महा꣡न्  
+भु꣡वो वि꣡श्वेषु स꣡वनेषु यज्ञि꣡यः  
+भु꣡वो न्र्̥̃ं꣡श् च्यौतनो꣡ वि꣡श्वस्मिन् भ꣡रे  
+ज्य꣡यिष्ठश्+ च · म꣡न्त्रो विश्वचर्षणे  

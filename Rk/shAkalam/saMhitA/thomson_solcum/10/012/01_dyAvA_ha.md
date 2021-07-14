@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-dyā́vā ha kṣā́mā prathamé r̥téna  
-abhiśrāvé bhavataḥ satyavā́cā  
-devó yán mártān yajáthāya kr̥ṇván  
-sī́dad dhótā pratiáṅ svám ásuṃ yán  
+द्या꣡वा ह क्षा꣡मा प्रथमे꣡ ऋते꣡न  
+अभिश्रावे꣡ भवतः सत्यवा꣡चा  
+देवो꣡ य꣡न् म꣡र्तान् यज꣡थाय कृण्व꣡न्  
+सी꣡दद् धो꣡ता प्रतिअ꣡ङ् स्व꣡म् अ꣡सुं य꣡न्  

@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-ná duṣṭutī́ mártiyo vindate vásu  
-ná srédhantaṃ rayír naśat  
-suśáktir ín maghavan túbhyam mā́vate  
-deṣṇáṃ yát pā́riye diví  
+न꣡ दुष्टुती꣡ म꣡र्तियो विन्दते व꣡सु  
+न꣡ स्रे꣡धन्तं रयि꣡र् नशत्  
+सुश꣡क्तिर् इ꣡न् मघवन् तु꣡भ्यम् मा꣡वते  
+देष्णं꣡ य꣡त् पा꣡रिये दिवि꣡  

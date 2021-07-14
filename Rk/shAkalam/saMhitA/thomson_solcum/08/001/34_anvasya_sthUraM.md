@@ -2,7 +2,7 @@
 title = "034"
 
 +++
-ánv asya sthūráṃ dadr̥śe purástād  
-anasthá ūrúr avarámbamāṇaḥ  
-śáśvatī nā́rī abhicákṣiyāha  
-súbhadram arya bhójanam bibharṣi  
+अ꣡न्व् अस्य स्थूरं꣡ ददृशे पुर꣡स्ताद्  
+अनस्थ꣡ ऊरु꣡र् अवर꣡म्बमाणः  
+श꣡श्वती ना꣡री अभिच꣡क्षियाह  
+सु꣡भद्रम् अर्य भो꣡जनम् बिभर्षि  

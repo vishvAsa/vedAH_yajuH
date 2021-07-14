@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-priṇītá° áśvān hitáṃ jayātha  
-suastivā́haṃ rátham ít kr̥ṇudhvam  
-dróṇāhāvam avatám áśmacakram  
-áṃsatrakośaṃ siñcatā nr̥pā́ṇam  
+प्रिणीत꣡° अ꣡श्वान् हितं꣡ जयाथ  
+सुअस्तिवा꣡हं र꣡थम् इ꣡त् कृणुध्वम्  
+द्रो꣡णाहावम् अवत꣡म् अ꣡श्मचक्रम्  
+अं꣡सत्रकोशं सिञ्चता नृपा꣡णम्  

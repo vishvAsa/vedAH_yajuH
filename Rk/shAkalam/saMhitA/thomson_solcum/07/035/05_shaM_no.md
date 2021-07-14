@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-śáṃ no dyā́vāpr̥thivī́ pūrváhūtau  
-śám antárikṣaṃ dr̥śáye no astu  
-śáṃ na óṣadhīr vaníno bhavantu  
-śáṃ no rájasas pátir astu jiṣṇúḥ  
+शं꣡ नो द्या꣡वापृथिवी꣡ पूर्व꣡हूतौ  
+श꣡म् अन्त꣡रिक्षं दृश꣡ये नो अस्तु  
+शं꣡ न ओ꣡षधीर् वनि꣡नो भवन्तु  
+शं꣡ नो र꣡जसस् प꣡तिर् अस्तु जिष्णुः꣡  

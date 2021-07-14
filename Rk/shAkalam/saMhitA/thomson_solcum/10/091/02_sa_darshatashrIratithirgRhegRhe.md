@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá darśataśrī́r átithir gr̥hé-gr̥he  
-váne-vane śiśriye takvavī́r iva  
-jánaṃ-janaṃ jániyo nā́ti manyate  
-víśa ā́ kṣeti viśíyo víśaṃ-viśam  
+स꣡ दर्शतश्री꣡र् अ꣡तिथिर् गृहे꣡-गृहे  
+व꣡ने-वने शिश्रिये तक्ववी꣡र् इव  
+ज꣡नं-जनं ज꣡नियो ना꣡ति मन्यते  
+वि꣡श आ꣡ क्षेति विशि꣡यो वि꣡शं-विशम्  

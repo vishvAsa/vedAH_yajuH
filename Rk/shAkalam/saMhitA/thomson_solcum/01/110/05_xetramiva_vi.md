@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-kṣétram iva ví mamus téjanenam̐  
-ékam pā́tram r̥bhávo jéhamānam  
-úpastutā upamáṃ nā́dhamānā  
-ámartiyeṣu śráva ichámānāḥ  
+क्षे꣡त्रम् इव वि꣡ ममुस् ते꣡जनेनँ  
+ए꣡कम् पा꣡त्रम् ऋभ꣡वो जे꣡हमानम्  
+उ꣡पस्तुता उपमं꣡ ना꣡धमाना  
+अ꣡मर्तियेषु श्र꣡व इछ꣡मानाः  

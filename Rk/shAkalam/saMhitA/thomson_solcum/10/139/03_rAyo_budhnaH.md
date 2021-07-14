@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-rāyó budhnáḥ saṃgámano vásūnāṃ  
-víśvā rūpā́ abhí caṣṭe śácībhiḥ  
-devá iva savitā́ satyádharmā  
-índro ná tasthau samaré dhánānām  
+रायो꣡ बुध्नः꣡ संग꣡मनो व꣡सूनां  
+वि꣡श्वा रूपा꣡ अभि꣡ चष्टे श꣡चीभिः  
+देव꣡ इव सविता꣡ सत्य꣡धर्मा  
+इ꣡न्द्रो न꣡ तस्थौ समरे꣡ ध꣡नानाम्  

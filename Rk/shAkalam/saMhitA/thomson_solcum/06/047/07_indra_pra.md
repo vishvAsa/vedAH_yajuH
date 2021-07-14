@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-índra prá ṇaḥ puraetéva paśya  
-prá no naya prataráṃ vásyo ácha  
-bhávā supāró atipārayó no  
-bhávā súnītir utá vāmánītiḥ  
+इ꣡न्द्र प्र꣡ णः पुरएते꣡व पश्य  
+प्र꣡ नो नय प्रतरं꣡ व꣡स्यो अ꣡छ  
+भ꣡वा सुपारो꣡ अतिपारयो꣡ नो  
+भ꣡वा सु꣡नीतिर् उत꣡ वाम꣡नीतिः  

@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-r̥téna mitrāvaruṇāv  
-r̥tāvr̥dhāv r̥taspr̥śā  
-krátum br̥hántam āśathe°  
+ऋते꣡न मित्रावरुणाव्  
+ऋतावृधाव् ऋतस्पृशा  
+क्र꣡तुम् बृह꣡न्तम् आशथे°  

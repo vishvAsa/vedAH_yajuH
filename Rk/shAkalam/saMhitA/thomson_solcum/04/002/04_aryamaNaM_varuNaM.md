@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-aryamáṇaṃ váruṇam mitrám eṣām  
-índrāvíṣṇū marúto aśvínotá  
-suáśvo agne suráthaḥ surā́dhā  
-éd u vaha suhavíṣe jánāya  
+अर्यम꣡णं व꣡रुणम् मित्र꣡म् एषाम्  
+इ꣡न्द्रावि꣡ष्णू मरु꣡तो अश्वि꣡नोत꣡  
+सुअ꣡श्वो अग्ने सुर꣡थः सुरा꣡धा  
+ए꣡द् उ वह सुहवि꣡षे ज꣡नाय  

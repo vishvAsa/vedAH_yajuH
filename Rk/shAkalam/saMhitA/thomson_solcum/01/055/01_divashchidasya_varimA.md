@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-diváś cid asya varimā́ ví papratha  
-índraṃ ná mahnā́ pr̥thivī́ caná práti  
-bhīmás túviṣmāñ carṣaṇíbhya ātapáḥ  
-śíśīte vájraṃ téjase ná váṃsagaḥ  
+दिव꣡श् चिद् अस्य वरिमा꣡ वि꣡ पप्रथ  
+इ꣡न्द्रं न꣡ मह्ना꣡ पृथिवी꣡ चन꣡ प्र꣡ति  
+भीम꣡स् तु꣡विष्माञ् चर्षणि꣡भ्य आतपः꣡  
+शि꣡शीते व꣡ज्रं ते꣡जसे न꣡ वं꣡सगः  

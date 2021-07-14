@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-addhī́d indra prásthitemā́ havī́ṃṣi  
-cáno dadhiṣva pacatótá sómam  
-práyasvantaḥ práti haryāmasi tvā  
-satyā́ḥ santu yájamānasya kā́māḥ  
+अद्धी꣡द् इन्द्र प्र꣡स्थितेमा꣡ हवीं꣡षि  
+च꣡नो दधिष्व पचतो꣡त꣡ सो꣡मम्  
+प्र꣡यस्वन्तः प्र꣡ति हर्यामसि त्वा  
+सत्याः꣡ सन्तु य꣡जमानस्य का꣡माः  

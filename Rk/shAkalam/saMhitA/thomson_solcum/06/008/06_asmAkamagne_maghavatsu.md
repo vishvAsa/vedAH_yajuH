@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-asmā́kam agne maghávatsu dhāraya  
-ánāmi kṣatrám ajáraṃ suvī́riyam  
-vayáṃ jayema śatínaṃ sahasríṇaṃ  
-vaíśvānara vā́jam agne távotíbhiḥ  
+अस्मा꣡कम् अग्ने मघ꣡वत्सु धारय  
+अ꣡नामि क्षत्र꣡म् अज꣡रं सुवी꣡रियम्  
+वयं꣡ जयेम शति꣡नं सहस्रि꣡णं  
+वइ꣡श्वानर वा꣡जम् अग्ने त꣡वोति꣡भिः  

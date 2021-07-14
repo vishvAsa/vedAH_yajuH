@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imā́ u vāṃ díviṣṭaya  
-usrā́ havante aśvinā  
-ayáṃ vām ahve ávase śacīvasū  
-víśaṃ-viśaṃ hí gáchathaḥ  
+इमा꣡ उ वां दि꣡विष्टय  
+उस्रा꣡ हवन्ते अश्विना  
+अयं꣡ वाम् अह्वे अ꣡वसे शचीवसू  
+वि꣡शं-विशं हि꣡ ग꣡छथः  

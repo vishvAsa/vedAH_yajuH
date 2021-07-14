@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yunákta sī́rā ví yugā́ tanudhvaṃ  
-kr̥té yónau · vapatehá bī́jam  
-girā́ ca śruṣṭíḥ sábharā ásan no  
-nédīya ít sr̥ṇíyaḥ pakvám éyāt  
+युन꣡क्त सी꣡रा वि꣡ युगा꣡ तनुध्वं  
+कृते꣡ यो꣡नौ · वपतेह꣡ बी꣡जम्  
+गिरा꣡ च श्रुष्टिः꣡ स꣡भरा अ꣡सन् नो  
+ने꣡दीय इ꣡त् सृणि꣡यः पक्व꣡म् ए꣡यात्  

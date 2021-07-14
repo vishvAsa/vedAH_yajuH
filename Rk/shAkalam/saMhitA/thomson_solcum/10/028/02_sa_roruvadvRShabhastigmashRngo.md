@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá róruvad vr̥ṣabhás tigmáśr̥ṅgo  
-várṣman tasthau várimann ā́ pr̥thivyā́ḥ  
-víśveṣu enaṃ vr̥jáneṣu pāmi  
-yó me kukṣī́ sutásomaḥ pr̥ṇā́ti  
+स꣡ रो꣡रुवद् वृषभ꣡स् तिग्म꣡शृङ्गो  
+व꣡र्ष्मन् तस्थौ व꣡रिमन्न् आ꣡ पृथिव्याः꣡  
+वि꣡श्वेषु एनं वृज꣡नेषु पामि  
+यो꣡ मे कुक्षी꣡ सुत꣡सोमः पृणा꣡ति  

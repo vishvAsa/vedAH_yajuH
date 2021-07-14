@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá yád itthā́ mahinā́ nŕ̥bhyo ásti  
-áraṃ ródasī kakṣíye ná asmai  
-sáṃ vivya índro vr̥jánaṃ ná bhū́mā  
-bhárti svadhā́vām̐ opaśám iva dyā́m  
+प्र꣡ य꣡द् इत्था꣡ महिना꣡ न्ŕ̥भ्यो अ꣡स्ति  
+अ꣡रं रो꣡दसी कक्षि꣡ये न꣡ अस्मै  
+सं꣡ विव्य इ꣡न्द्रो वृज꣡नं न꣡ भू꣡मा  
+भ꣡र्ति स्वधा꣡वाँ ओपश꣡म् इव द्या꣡म्  

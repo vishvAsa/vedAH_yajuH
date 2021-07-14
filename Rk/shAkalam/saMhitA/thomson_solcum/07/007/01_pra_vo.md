@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá vo deváṃ cit sahasānám agním  
-áśvaṃ ná vājínaṃ hiṣe námobhiḥ  
-bhávā no dūtó adhvarásya vidvā́n  
-tmánā devéṣu vivide mitádruḥ  
+प्र꣡ वो देवं꣡ चित् सहसान꣡म् अग्नि꣡म्  
+अ꣡श्वं न꣡ वाजि꣡नं हिषे न꣡मोभिः  
+भ꣡वा नो दूतो꣡ अध्वर꣡स्य विद्वा꣡न्  
+त्म꣡ना देवे꣡षु विविदे मित꣡द्रुः  

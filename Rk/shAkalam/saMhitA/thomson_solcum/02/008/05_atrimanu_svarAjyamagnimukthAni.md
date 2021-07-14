@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-átrim ánu svarā́jiyam  
-agním ukthā́ni vāvr̥dhuḥ  
-víśvā ádhi śríyo dadhe  
+अ꣡त्रिम् अ꣡नु स्वरा꣡जियम्  
+अग्नि꣡म् उक्था꣡नि वावृधुः  
+वि꣡श्वा अ꣡धि श्रि꣡यो दधे  

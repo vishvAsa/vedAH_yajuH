@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-ātharvaṇā́ya aśvinā dadhīce  
-áśviyaṃ śíraḥ práti airayatam  
-sá vām mádhu · prá vocad r̥tāyán  
-tvāṣṭráṃ yád dasrāv apikakṣíyaṃ vām  
+आथर्वणा꣡य अश्विना दधीचे  
+अ꣡श्वियं शि꣡रः प्र꣡ति ऐरयतम्  
+स꣡ वाम् म꣡धु · प्र꣡ वोचद् ऋताय꣡न्  
+त्वाष्ट्रं꣡ य꣡द् दस्राव् अपिकक्षि꣡यं वाम्  

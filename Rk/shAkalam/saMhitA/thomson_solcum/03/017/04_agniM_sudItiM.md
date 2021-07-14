@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-agníṃ sudītíṃ sudŕ̥śaṃ gr̥ṇánto  
-namasyā́mas tvéḍiyaṃ jātavedaḥ  
-tuvā́ṃ dūtám aratíṃ havyavā́haṃ  
-devā́ akr̥ṇvann amŕ̥tasya nā́bhim  
+अग्निं꣡ सुदीतिं꣡ सुद्ŕ̥शं गृण꣡न्तो  
+नमस्या꣡मस् त्वे꣡डियं जातवेदः  
+तुवां꣡ दूत꣡म् अरतिं꣡ हव्यवा꣡हं  
+देवा꣡ अकृण्वन्न् अम्ŕ̥तस्य ना꣡भिम्  

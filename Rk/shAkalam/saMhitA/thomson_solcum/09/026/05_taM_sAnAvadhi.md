@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-táṃ sā́nāv ádhi jāmáyo  
-háriṃ hinvanti ádribhiḥ  
-haryatám bhū́ricakṣasam  
+तं꣡ सा꣡नाव् अ꣡धि जाम꣡यो  
+ह꣡रिं हिन्वन्ति अ꣡द्रिभिः  
+हर्यत꣡म् भू꣡रिचक्षसम्  

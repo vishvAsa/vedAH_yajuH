@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-sá ghā yás te dádāśati  
-samídhā jātávedase  
-só agne dhatte suvī́ryaṃ sá puṣyati  
+स꣡ घा य꣡स् ते द꣡दाशति  
+समि꣡धा जात꣡वेदसे  
+सो꣡ अग्ने धत्ते सुवी꣡र्यं स꣡ पुष्यति  

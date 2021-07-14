@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tigmám ā́yudham marútām ánīkaṃ  
-kás ta indra práti vájraṃ dadharṣa  
-anāyudhā́so ásurā adevā́ś  
-cakréṇa tā́m̐ ápa vapa r̥jīṣin  
+तिग्म꣡म् आ꣡युधम् मरु꣡ताम् अ꣡नीकं  
+क꣡स् त इन्द्र प्र꣡ति व꣡ज्रं दधर्ष  
+अनायुधा꣡सो अ꣡सुरा अदेवा꣡श्  
+चक्रे꣡ण ताँ꣡ अ꣡प वप ऋजीषिन्  

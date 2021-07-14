@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ yāhi śáśvad uśatā́ yayātha  
-índra mahā́ mánasā somapéyam  
-úpa bráhmāṇi śr̥ṇava imā́ no  
-áthā te yajñás tanúve váyo dhāt  
+आ꣡ याहि श꣡श्वद् उशता꣡ ययाथ  
+इ꣡न्द्र महा꣡ म꣡नसा सोमपे꣡यम्  
+उ꣡प ब्र꣡ह्माणि शृणव इमा꣡ नो  
+अ꣡था ते यज्ञ꣡स् तनु꣡वे व꣡यो धात्  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yáthā no áditiḥ kárat  
-páśve nŕ̥bhyo yáthā gáve  
-yáthā tokā́ya rudríyam  
+य꣡था नो अ꣡दितिः क꣡रत्  
+प꣡श्वे न्ŕ̥भ्यो य꣡था ग꣡वे  
+य꣡था तोका꣡य रुद्रि꣡यम्  

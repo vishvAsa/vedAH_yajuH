@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ná yáḥ sampŕ̥che ná púnar hávītave  
-ná saṃvādā́ya rámate  
-tásmān no adyá sámr̥ter uruṣyatam  
-bāhúbhyāṃ na uruṣyatam  
+न꣡ यः꣡ सम्प्ŕ̥छे न꣡ पु꣡नर् ह꣡वीतवे  
+न꣡ संवादा꣡य र꣡मते  
+त꣡स्मान् नो अद्य꣡ स꣡मृतेर् उरुष्यतम्  
+बाहु꣡भ्यां न उरुष्यतम्  

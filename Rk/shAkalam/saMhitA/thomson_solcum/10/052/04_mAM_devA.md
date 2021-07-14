@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mã́ṃ devā́ dadhire havyavā́ham  
-ápamluktam bahú kr̥chrā́ cárantam  
-agnír vidvā́n yajñáṃ naḥ kalpayāti  
-páñcayāmaṃ trivŕ̥taṃ saptátantum  
+म्ãं꣡ देवा꣡ दधिरे हव्यवा꣡हम्  
+अ꣡पम्लुक्तम् बहु꣡ कृछ्रा꣡ च꣡रन्तम्  
+अग्नि꣡र् विद्वा꣡न् यज्ञं꣡ नः कल्पयाति  
+प꣡ञ्चयामं त्रिव्ŕ̥तं सप्त꣡तन्तुम्  

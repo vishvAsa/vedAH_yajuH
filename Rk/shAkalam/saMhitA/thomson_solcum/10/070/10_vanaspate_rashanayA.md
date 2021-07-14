@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-vánaspate raśanáyā niyū́yā  
-devā́nām pā́tha úpa vakṣi vidvā́n  
-svádāti deváḥ kr̥ṇávad dhavī́ṃṣi  
-ávatāṃ dyā́vāpr̥thivī́ hávam me  
+व꣡नस्पते रशन꣡या नियू꣡या  
+देवा꣡नाम् पा꣡थ उ꣡प वक्षि विद्वा꣡न्  
+स्व꣡दाति देवः꣡ कृण꣡वद् धवीं꣡षि  
+अ꣡वतां द्या꣡वापृथिवी꣡ ह꣡वम् मे  

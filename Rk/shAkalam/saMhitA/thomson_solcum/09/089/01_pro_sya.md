@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá ū syá váhniḥ pathíyābhir asyān  
-divó ná vr̥ṣṭíḥ pávamāno akṣāḥ  
-sahásradhāro asadan ní asmé  
-mātúr upásthe vána ā́ ca sómaḥ  
+प्र꣡ ऊ स्य꣡ व꣡ह्निः पथि꣡याभिर् अस्यान्  
+दिवो꣡ न꣡ वृष्टिः꣡ प꣡वमानो अक्षाः  
+सह꣡स्रधारो असदन् नि꣡ अस्मे꣡  
+मातु꣡र् उप꣡स्थे व꣡न आ꣡ च सो꣡मः  

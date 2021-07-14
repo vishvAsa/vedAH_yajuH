@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuváṃ śraddhā́bhir mandasānáḥ sómair  
-dabhī́taye cúmurim indra siṣvap  
-tuváṃ rajím píṭhīnase daśasyán  
-ṣaṣṭíṃ sahásrā śáciyā sácāhan  
+तुवं꣡ श्रद्धा꣡भिर् मन्दसानः꣡ सो꣡मैर्  
+दभी꣡तये चु꣡मुरिम् इन्द्र सिष्वप्  
+तुवं꣡ रजि꣡म् पि꣡ठीनसे दशस्य꣡न्  
+षष्टिं꣡ सह꣡स्रा श꣡चिया स꣡चाहन्  

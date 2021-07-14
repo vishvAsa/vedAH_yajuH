@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-gávāśiram manthínam indra śukrám  
-píbā sómaṃ rarimā́ te mádāya  
-brahmakŕ̥tā mā́rutenā gaṇéna  
-sajóṣā rudraís tr̥pád ā́ vr̥ṣasva  
+ग꣡वाशिरम् मन्थि꣡नम् इन्द्र शुक्र꣡म्  
+पि꣡बा सो꣡मं ररिमा꣡ ते म꣡दाय  
+ब्रह्मक्ŕ̥ता मा꣡रुतेना गणे꣡न  
+सजो꣡षा रुद्रइ꣡स् तृप꣡द् आ꣡ वृषस्व  

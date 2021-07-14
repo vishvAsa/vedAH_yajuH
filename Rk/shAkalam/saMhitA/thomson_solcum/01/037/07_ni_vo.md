@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ní vo yā́māya mā́nuṣo  
-dadhrá ugrā́ya manyáve  
-jíhīta párvato giríḥ  
+नि꣡ वो या꣡माय मा꣡नुषो  
+दध्र꣡ उग्रा꣡य मन्य꣡वे  
+जि꣡हीत प꣡र्वतो गिरिः꣡  

@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-sá rátnam mártiyo vásu  
-víśvaṃ tokám utá tmánā  
-áchā gachati ástr̥taḥ  
+स꣡ र꣡त्नम् म꣡र्तियो व꣡सु  
+वि꣡श्वं तोक꣡म् उत꣡ त्म꣡ना  
+अ꣡छा गछति अ꣡स्तृतः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-utá vājínam puruniṣṣídhvānaṃ  
-dadhikrā́m u dadathur viśvákr̥ṣṭim  
-r̥jipyáṃ śyenám pruṣitápsum āśúṃ  
-carkŕ̥tyam aryó nr̥pátiṃ ná śū́ram  
+उत꣡ वाजि꣡नम् पुरुनिष्षि꣡ध्वानं  
+दधिक्रा꣡म् उ ददथुर् विश्व꣡कृष्टिम्  
+ऋजिप्यं꣡ श्येन꣡म् प्रुषित꣡प्सुम् आशुं꣡  
+चर्क्ŕ̥त्यम् अर्यो꣡ नृप꣡तिं न꣡ शू꣡रम्  

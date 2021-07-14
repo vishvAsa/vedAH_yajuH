@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-cakr̥vā́ṃsa r̥bhavas tád apr̥chata  
-kuvéd abhūd yáḥ syá dūtó na ā́jagan  
-yadā́vā́khyac camasā́ñ catúraḥ kr̥tā́n  
-ā́d ít tváṣṭā gnā́su antár ní ānaje  
+चकृवां꣡स ऋभवस् त꣡द् अपृछत  
+कुवे꣡द् अभूद् यः꣡ स्य꣡ दूतो꣡ न आ꣡जगन्  
+यदा꣡वा꣡ख्यच् चमसा꣡ञ् चतु꣡रः कृता꣡न्  
+आ꣡द् इ꣡त् त्व꣡ष्टा ग्ना꣡सु अन्त꣡र् नि꣡ आनजे  

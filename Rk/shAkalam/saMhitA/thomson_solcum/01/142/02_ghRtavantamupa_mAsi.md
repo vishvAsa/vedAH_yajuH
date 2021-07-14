@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ghr̥távantam úpa māsi  
-mádhumantaṃ tanūnapāt  
-yajñáṃ víprasya mā́vataḥ  
-śaśamānásya dāśúṣaḥ  
+घृत꣡वन्तम् उ꣡प मासि  
+म꣡धुमन्तं तनूनपात्  
+यज्ञं꣡ वि꣡प्रस्य मा꣡वतः  
+शशमान꣡स्य दाशु꣡षः  

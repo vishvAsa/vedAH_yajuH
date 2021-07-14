@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-utá vaḥ śáṃsam uśíjām iva śmasi  
-áhir budhníyo ajá ékapād utá  
-tritá r̥bhukṣā́ḥ savitā́ cáno dadhe  
-apā́ṃ nápād āśuhémā dhiyā́ śámi  
+उत꣡ वः शं꣡सम् उशि꣡जाम् इव श्मसि  
+अ꣡हिर् बुध्नि꣡यो अज꣡ ए꣡कपाद् उत꣡  
+त्रित꣡ ऋभुक्षाः꣡ सविता꣡ च꣡नो दधे  
+अपां꣡ न꣡पाद् आशुहे꣡मा धिया꣡ श꣡मि  

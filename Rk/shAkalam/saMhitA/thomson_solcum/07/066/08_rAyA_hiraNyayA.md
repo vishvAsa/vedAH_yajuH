@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-rāyā́ hiraṇyayā́ matír  
-iyám avr̥kā́ya śávase  
-iyáṃ víprā medhásātaye  
+राया꣡ हिरण्यया꣡ मति꣡र्  
+इय꣡म् अवृका꣡य श꣡वसे  
+इयं꣡ वि꣡प्रा मेध꣡सातये  

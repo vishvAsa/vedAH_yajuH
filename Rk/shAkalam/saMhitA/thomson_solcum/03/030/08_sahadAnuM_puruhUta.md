@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sahádānum puruhūta kṣiyántam  
-ahastám indra sám piṇak kúṇārum  
-abhí vr̥tráṃ várdhamānam píyārum  
-apā́dam indra tavásā jaghantha  
+सह꣡दानुम् पुरुहूत क्षिय꣡न्तम्  
+अहस्त꣡म् इन्द्र स꣡म् पिणक् कु꣡णारुम्  
+अभि꣡ वृत्रं꣡ व꣡र्धमानम् पि꣡यारुम्  
+अपा꣡दम् इन्द्र तव꣡सा जघन्थ  

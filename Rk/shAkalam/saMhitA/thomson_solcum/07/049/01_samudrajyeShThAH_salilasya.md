@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-samudrájyeṣṭhāḥ salilásya mádhyāt  
-punānā́ yanti ániviśamānāḥ  
-índro yā́ vajrī́ vr̥ṣabhó rarā́da  
-tā́ ā́po devī́r ihá mā́m avantu  
+समुद्र꣡ज्येष्ठाः सलिल꣡स्य म꣡ध्यात्  
+पुनाना꣡ यन्ति अ꣡निविशमानाः  
+इ꣡न्द्रो या꣡ वज्री꣡ वृषभो꣡ ररा꣡द  
+ता꣡ आ꣡पो देवी꣡र् इह꣡ मा꣡म् अवन्तु  

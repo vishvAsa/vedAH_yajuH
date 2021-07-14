@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sámaneva vapuṣyatáḥ  
-kr̥ṇávan mā́nuṣā yugā́  
-vidé tád índraś cétanam ádha śrutó  
-bhadrā́ índrasya rātáyaḥ  
+स꣡मनेव वपुष्यतः꣡  
+कृण꣡वन् मा꣡नुषा युगा꣡  
+विदे꣡ त꣡द् इ꣡न्द्रश् चे꣡तनम् अ꣡ध श्रुतो꣡  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  

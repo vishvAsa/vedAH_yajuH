@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-té siyāma yé agnáye  
-dadāśúr havyádātibhiḥ  
-yá īm púṣyanta indhaté  
+ते꣡ सियाम ये꣡ अग्न꣡ये  
+ददाशु꣡र् हव्य꣡दातिभिः  
+य꣡ ईम् पु꣡ष्यन्त इन्धते꣡  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ayáṃ ta emi tanúvā purástād  
-víśve devā́ abhí mā yanti paścā́t  
-yadā́ máhyaṃ dī́dharo bhāgám indra  
-ā́d ín máyā kr̥ṇavo vīríyāṇi  
+अयं꣡ त एमि तनु꣡वा पुर꣡स्ताद्  
+वि꣡श्वे देवा꣡ अभि꣡ मा यन्ति पश्चा꣡त्  
+यदा꣡ म꣡ह्यं दी꣡धरो भाग꣡म् इन्द्र  
+आ꣡द् इ꣡न् म꣡या कृणवो वीरि꣡याणि  

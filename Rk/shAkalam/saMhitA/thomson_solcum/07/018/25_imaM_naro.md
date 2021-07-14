@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-imáṃ naro marutaḥ saścatā́nu  
-dívodāsaṃ ná pitáraṃ sudā́saḥ  
-aviṣṭánā paijavanásya kétaṃ  
-dūṇā́śaṃ kṣatrám ajáraṃ duvoyú  
+इमं꣡ नरो मरुतः सश्चता꣡नु  
+दि꣡वोदासं न꣡ पित꣡रं सुदा꣡सः  
+अविष्ट꣡ना पैजवन꣡स्य के꣡तं  
+दूणा꣡शं क्षत्र꣡म् अज꣡रं दुवोयु꣡  

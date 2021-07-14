@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sá citra citráṃ citáyantam asmé  
-cítrakṣatra citrátamaṃ vayodhā́m  
-candráṃ rayím puruvī́ram br̥hántaṃ  
-cándra candrā́bhir gr̥ṇaté yuvasva  
+स꣡ चित्र चित्रं꣡ चित꣡यन्तम् अस्मे꣡  
+चि꣡त्रक्षत्र चित्र꣡तमं वयोधा꣡म्  
+चन्द्रं꣡ रयि꣡म् पुरुवी꣡रम् बृह꣡न्तं  
+च꣡न्द्र चन्द्रा꣡भिर् गृणते꣡ युवस्व  

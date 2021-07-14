@@ -2,9 +2,9 @@
 title = "008"
 
 +++
-sá samudró apīcíyas  
-turó dyā́m iva rohati  
-ní yád āsu yájur dadhé  
-sá māyā́ arcínā padā́  
-ástr̥ṇān nā́kam ā́ruhan  
-nábhantām anyaké same  
+स꣡ समुद्रो꣡ अपीचि꣡यस्  
+तुरो꣡ द्या꣡म् इव रोहति  
+नि꣡ य꣡द् आसु य꣡जुर् दधे꣡  
+स꣡ माया꣡ अर्चि꣡ना पदा꣡  
+अ꣡स्तृणान् ना꣡कम् आ꣡रुहन्  
+न꣡भन्ताम् अन्यके꣡ समे  

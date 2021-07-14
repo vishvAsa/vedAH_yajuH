@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prācī́nam barhíḥ pradíśā pr̥thivyā́  
-vástor asyā́ vr̥jyate ágre áhnām  
-ví u prathate vitaráṃ várīyo  
-devébhiyo áditaye siyonám  
+प्राची꣡नम् बर्हिः꣡ प्रदि꣡शा पृथिव्या꣡  
+व꣡स्तोर् अस्या꣡ वृज्यते अ꣡ग्रे अ꣡ह्नाम्  
+वि꣡ उ प्रथते वितरं꣡ व꣡रीयो  
+देवे꣡भियो अ꣡दितये सियोन꣡म्  

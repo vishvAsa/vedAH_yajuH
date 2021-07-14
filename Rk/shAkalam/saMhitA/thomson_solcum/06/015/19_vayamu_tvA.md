@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-vayám u tvā gr̥hapate janānām  
-ágne ákarma samídhā br̥hántam  
-asthūrí no gā́rhapatyāni santu  
-tigména nas téjasā sáṃ śiśādhi  
+वय꣡म् उ त्वा गृहपते जनानाम्  
+अ꣡ग्ने अ꣡कर्म समि꣡धा बृह꣡न्तम्  
+अस्थूरि꣡ नो गा꣡र्हपत्यानि सन्तु  
+तिग्मे꣡न नस् ते꣡जसा सं꣡ शिशाधि  

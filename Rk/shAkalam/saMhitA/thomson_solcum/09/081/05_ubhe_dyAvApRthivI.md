@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ubhé dyā́vāpr̥thivī́ viśvaminvé  
-aryamā́ devó áditir vidhātā́  
-bhágo nŕ̥śáṃsa urú antárikṣaṃ  
-víśve devā́ḥ pávamānaṃ juṣanta  
+उभे꣡ द्या꣡वापृथिवी꣡ विश्वमिन्वे꣡  
+अर्यमा꣡ देवो꣡ अ꣡दितिर् विधाता꣡  
+भ꣡गो न्ŕ̥शं꣡स उरु꣡ अन्त꣡रिक्षं  
+वि꣡श्वे देवाः꣡ प꣡वमानं जुषन्त  

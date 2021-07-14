@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-pávasva vājasā́tamaḥ  
-pavítre dhā́rayā sutáḥ  
-índrāya soma víṣṇave  
-devébhyo mádhumattamaḥ  
+प꣡वस्व वाजसा꣡तमः  
+पवि꣡त्रे धा꣡रया सुतः꣡  
+इ꣡न्द्राय सोम वि꣡ष्णवे  
+देवे꣡भ्यो म꣡धुमत्तमः  

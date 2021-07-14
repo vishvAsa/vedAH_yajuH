@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ayáṃ hí te ámartiya  
-índur átyo ná pátyate  
-dákṣo viśvā́yur vedháse  
+अयं꣡ हि꣡ ते अ꣡मर्तिय  
+इ꣡न्दुर् अ꣡त्यो न꣡ प꣡त्यते  
+द꣡क्षो विश्वा꣡युर् वेध꣡से  

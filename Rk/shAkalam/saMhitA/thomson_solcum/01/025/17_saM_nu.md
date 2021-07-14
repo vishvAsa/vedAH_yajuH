@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-sáṃ nú vocāvahai púnar  
-yáto me mádhu ā́bhr̥tam  
-hóteva kṣádase priyám  
+सं꣡ नु꣡ वोचावहै पु꣡नर्  
+य꣡तो मे म꣡धु आ꣡भृतम्  
+हो꣡तेव क्ष꣡दसे प्रिय꣡म्  

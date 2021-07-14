@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-juṣṭvī́ na indo supáthā sugā́ni  
-uraú pavasva várivāṃsi kr̥ṇván  
-ghanéva víṣvag duritā́ni vighnánn  
-ádhi ṣṇúnā dhanuva sā́no ávye  
+जुष्ट्वी꣡ न इन्दो सुप꣡था सुगा꣡नि  
+उरउ꣡ पवस्व व꣡रिवांसि कृण्व꣡न्  
+घने꣡व वि꣡ष्वग् दुरिता꣡नि विघ्न꣡न्न्  
+अ꣡धि ष्णु꣡ना धनुव सा꣡नो अ꣡व्ये  

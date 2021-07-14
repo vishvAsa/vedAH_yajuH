@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-índrāya soma pavase  
-devébhyaḥ sadhamā́diyaḥ  
-índo vā́jaṃ siṣāsasi  
+इ꣡न्द्राय सोम पवसे  
+देवे꣡भ्यः सधमा꣡दियः  
+इ꣡न्दो वा꣡जं सिषाससि  

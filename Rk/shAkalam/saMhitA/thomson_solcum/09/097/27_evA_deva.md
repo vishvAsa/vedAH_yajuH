@@ -2,7 +2,7 @@
 title = "027"
 
 +++
-evā́ deva devátāte pavasva  
-mahé soma psárase devapā́naḥ  
-maháś cid dhí ṣmási hitā́ḥ samaryé  
-kr̥dhí suṣṭhāné ródasī punānáḥ  
+एवा꣡ देव देव꣡ताते पवस्व  
+महे꣡ सोम प्स꣡रसे देवपा꣡नः  
+मह꣡श् चिद् धि꣡ ष्म꣡सि हिताः꣡ समर्ये꣡  
+कृधि꣡ सुष्ठाने꣡ रो꣡दसी पुनानः꣡  

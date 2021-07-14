@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-citraír añjíbhir vápuṣe ví añjate  
-vákṣassu rukmā́m̐ ádhi yetire śubhé  
-áṃseṣu eṣāṃ ní mimr̥kṣur r̥ṣṭáyaḥ  
-sākáṃ jajñire svadháyā divó náraḥ  
+चित्रइ꣡र् अञ्जि꣡भिर् व꣡पुषे वि꣡ अञ्जते  
+व꣡क्षस्सु रुक्माँ꣡ अ꣡धि येतिरे शुभे꣡  
+अं꣡सेषु एषां नि꣡ मिमृक्षुर् ऋष्ट꣡यः  
+साकं꣡ जज्ञिरे स्वध꣡या दिवो꣡ न꣡रः  

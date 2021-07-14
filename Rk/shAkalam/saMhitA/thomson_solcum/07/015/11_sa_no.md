@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-sá no rā́dhāṃsi ā́ bhara  
-ī́śānaḥ sahaso yaho  
-bhágaś ca dātu vā́riyam  
+स꣡ नो रा꣡धांसि आ꣡ भर  
+ई꣡शानः सहसो यहो  
+भ꣡गश् च दातु वा꣡रियम्  

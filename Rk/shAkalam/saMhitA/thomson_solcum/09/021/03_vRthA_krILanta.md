@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-vŕ̥thā krī́ḷanta índavaḥ  
-sadhástham abhí ékam ít  
-síndhor ūrmā́ ví akṣaran  
+व्ŕ̥था क्री꣡ऌअन्त इ꣡न्दवः  
+सध꣡स्थम् अभि꣡ ए꣡कम् इ꣡त्  
+सि꣡न्धोर् ऊर्मा꣡ वि꣡ अक्षरन्  

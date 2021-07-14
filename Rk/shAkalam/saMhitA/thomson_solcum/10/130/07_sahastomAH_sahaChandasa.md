@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sahástomāḥ saháchandasa āvŕ̥taḥ  
-sahápramā ŕ̥ṣayaḥ saptá daíviyāḥ  
-pū́rveṣām pánthām anudŕ̥śya dhī́rā  
-anvā́lebhire rathíyo ná raśmī́n  
+सह꣡स्तोमाः सह꣡छन्दस आव्ŕ̥तः  
+सह꣡प्रमा ŕ̥षयः सप्त꣡ दइ꣡वियाः  
+पू꣡र्वेषाम् प꣡न्थाम् अनुद्ŕ̥श्य धी꣡रा  
+अन्वा꣡लेभिरे रथि꣡यो न꣡ रश्मी꣡न्  

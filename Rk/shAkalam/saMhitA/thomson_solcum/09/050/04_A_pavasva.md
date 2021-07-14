@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ā́ pavasva madintama  
-pavítraṃ dhā́rayā kave  
-arkásya yónim āsádam  
+आ꣡ पवस्व मदिन्तम  
+पवि꣡त्रं धा꣡रया कवे  
+अर्क꣡स्य यो꣡निम् आस꣡दम्  

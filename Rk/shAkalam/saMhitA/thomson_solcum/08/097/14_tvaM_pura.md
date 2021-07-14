@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-tuvám púra indara+ cikíd enā  
-ví ójasā śaviṣṭha śakra nāśayádhyai  
-tuvád víśvāni bhúvanāni vajrin  
-dyā́vā rejete pr̥thivī́ ca bhīṣā́  
+तुव꣡म् पु꣡र इन्दर+ चिकि꣡द् एना  
+वि꣡ ओ꣡जसा शविष्ठ शक्र नाशय꣡ध्यै  
+तुव꣡द् वि꣡श्वानि भु꣡वनानि वज्रिन्  
+द्या꣡वा रेजेते पृथिवी꣡ च भीषा꣡  

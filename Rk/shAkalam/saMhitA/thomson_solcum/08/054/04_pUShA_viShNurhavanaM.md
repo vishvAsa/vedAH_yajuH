@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-pūṣā́ víṣṇur hávanam me sárasvatī  
-ávantu saptá síndhavaḥ  
-ā́po vā́taḥ párvatāso vánaspátiḥ  
-śr̥ṇótu pr̥thivī́ hávam  
+पूषा꣡ वि꣡ष्णुर् ह꣡वनम् मे स꣡रस्वती  
+अ꣡वन्तु सप्त꣡ सि꣡न्धवः  
+आ꣡पो वा꣡तः प꣡र्वतासो व꣡नस्प꣡तिः  
+शृणो꣡तु पृथिवी꣡ ह꣡वम्  

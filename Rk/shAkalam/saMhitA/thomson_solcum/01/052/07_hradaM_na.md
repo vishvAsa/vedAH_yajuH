@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-hradáṃ ná hí tvā nir̥ṣánti ūrmáyo  
-bráhmāṇi indra táva yā́ni várdhanā  
-tváṣṭā cit te yújiyaṃ vāvr̥dhe śávas  
-tatákṣa vájram abhíbhūtiojasam  
+ह्रदं꣡ न꣡ हि꣡ त्वा निऋष꣡न्ति ऊर्म꣡यो  
+ब्र꣡ह्माणि इन्द्र त꣡व या꣡नि व꣡र्धना  
+त्व꣡ष्टा चित् ते यु꣡जियं वावृधे श꣡वस्  
+तत꣡क्ष व꣡ज्रम् अभि꣡भूतिओजसम्  

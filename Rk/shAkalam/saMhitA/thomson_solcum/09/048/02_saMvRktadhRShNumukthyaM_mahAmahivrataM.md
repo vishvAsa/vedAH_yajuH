@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sáṃvr̥ktadhr̥ṣṇum ukthíyam  
-mahā́mahivratam mádam  
-śatám púro rurukṣáṇim  
+सं꣡वृक्तधृष्णुम् उक्थि꣡यम्  
+महा꣡महिव्रतम् म꣡दम्  
+शत꣡म् पु꣡रो रुरुक्ष꣡णिम्  

@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-dīrghás te astu aṅkuśó  
-yénā vásu prayáchasi  
-yájamānāya sunvaté  
+दीर्घ꣡स् ते अस्तु अङ्कुशो꣡  
+ये꣡ना व꣡सु प्रय꣡छसि  
+य꣡जमानाय सुन्वते꣡  

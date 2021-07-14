@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá paprathānó abhí páñca bhū́mā  
-trivandhuró mánasā́ yātu yuktáḥ  
-víśo yéna gáchatho devayántīḥ  
-kútrā cid yā́mam aśvinā dádhānā  
+स꣡ पप्रथानो꣡ अभि꣡ प꣡ञ्च भू꣡मा  
+त्रिवन्धुरो꣡ म꣡नसा꣡ यातु युक्तः꣡  
+वि꣡शो ये꣡न ग꣡छथो देवय꣡न्तीः  
+कु꣡त्रा चिद् या꣡मम् अश्विना द꣡धाना  

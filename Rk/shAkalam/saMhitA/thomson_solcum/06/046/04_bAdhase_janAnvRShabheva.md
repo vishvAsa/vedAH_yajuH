@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-bā́dhase jánān vr̥ṣabhéva manyúnā  
-ghŕ̥ṣau mīḷhá r̥cīṣama  
-asmā́kam bodhi avitā́ mahādhané  
-tanū́ṣu apsú sū́riye  
+बा꣡धसे ज꣡नान् वृषभे꣡व मन्यु꣡ना  
+घ्ŕ̥षौ मीऌह꣡ ऋचीषम  
+अस्मा꣡कम् बोधि अविता꣡ महाधने꣡  
+तनू꣡षु अप्सु꣡ सू꣡रिये  

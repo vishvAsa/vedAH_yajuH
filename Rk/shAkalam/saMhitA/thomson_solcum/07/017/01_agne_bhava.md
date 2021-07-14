@@ -2,5 +2,5 @@
 title = "001"
 
 +++
-ágne bháva suṣamídhā sámiddha  
-utá barhír urviyā́ ví str̥ṇītām  
+अ꣡ग्ने भ꣡व सुषमि꣡धा स꣡मिद्ध  
+उत꣡ बर्हि꣡र् उर्विया꣡ वि꣡ स्तृणीताम्  

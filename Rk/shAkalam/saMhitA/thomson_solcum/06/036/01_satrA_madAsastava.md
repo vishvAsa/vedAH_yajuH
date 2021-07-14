@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-satrā́ mádāsas táva viśvájanyāḥ  
-satrā́ rā́yo ádha yé pā́rthivāsaḥ  
-satrā́ vā́jānām abhavo vibhaktā́  
-yád devéṣu dhāráyathā asuryàm  
+सत्रा꣡ म꣡दासस् त꣡व विश्व꣡जन्याः  
+सत्रा꣡ रा꣡यो अ꣡ध ये꣡ पा꣡र्थिवासः  
+सत्रा꣡ वा꣡जानाम् अभवो विभक्ता꣡  
+य꣡द् देवे꣡षु धार꣡यथा असुर्य᳡म्  

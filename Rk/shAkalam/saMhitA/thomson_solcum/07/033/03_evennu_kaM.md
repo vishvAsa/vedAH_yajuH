@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-evén nú kaṃ síndhum ebhis tatāra  
-evén nú kam bhedám ebhir jaghāna  
-evén nú kaṃ dāśarājñé sudā́sam  
-prā́vad índro bráhmaṇā vo vasiṣṭhāḥ  
+एवे꣡न् नु꣡ कं सि꣡न्धुम् एभिस् ततार  
+एवे꣡न् नु꣡ कम् भेद꣡म् एभिर् जघान  
+एवे꣡न् नु꣡ कं दाशराज्ञे꣡ सुदा꣡सम्  
+प्रा꣡वद् इ꣡न्द्रो ब्र꣡ह्मणा वो वसिष्ठाः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-juṣásva naḥ samídham agne adyá  
-śócā br̥hád yajatáṃ dhūmám r̥ṇván  
-úpa spr̥śa diviyáṃ sā́nu stū́paiḥ  
-sáṃ raśmíbhis tatanaḥ sū́riasya  
+जुष꣡स्व नः समि꣡धम् अग्ने अद्य꣡  
+शो꣡चा बृह꣡द् यजतं꣡ धूम꣡म् ऋण्व꣡न्  
+उ꣡प स्पृश दिवियं꣡ सा꣡नु स्तू꣡पैः  
+सं꣡ रश्मि꣡भिस् ततनः सू꣡रिअस्य  

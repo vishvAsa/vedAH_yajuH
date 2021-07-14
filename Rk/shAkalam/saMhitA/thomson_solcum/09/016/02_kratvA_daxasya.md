@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-krátvā dákṣasya rathíyam  
-apó vásānam ándhasā  
-goṣā́m áṇveṣu saścima  
+क्र꣡त्वा द꣡क्षस्य रथि꣡यम्  
+अपो꣡ व꣡सानम् अ꣡न्धसा  
+गोषा꣡म् अ꣡ण्वेषु सश्चिम  

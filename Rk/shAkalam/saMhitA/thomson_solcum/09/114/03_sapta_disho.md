@@ -2,8 +2,8 @@
 title = "003"
 
 +++
-saptá díśo nā́nāsūryāḥ  
-saptá hótāra r̥tvíjaḥ  
-devā́ ādityā́ yé saptá  
-tébhiḥ somābhí rakṣa na  
-índrāyendo pári srava  
+सप्त꣡ दि꣡शो ना꣡नासूर्याः  
+सप्त꣡ हो꣡तार ऋत्वि꣡जः  
+देवा꣡ आदित्या꣡ ये꣡ सप्त꣡  
+ते꣡भिः सोमाभि꣡ रक्ष न  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

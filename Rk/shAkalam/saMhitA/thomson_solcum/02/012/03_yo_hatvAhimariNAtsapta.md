@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yó hatvā́him áriṇāt saptá síndhūn  
-yó gā́ udā́jad apadhā́ valásya  
-yó áśmanor antár agníṃ jajā́na  
-saṃvŕ̥k samátsu sá janāsa índraḥ  
+यो꣡ हत्वा꣡हिम् अ꣡रिणात् सप्त꣡ सि꣡न्धून्  
+यो꣡ गा꣡ उदा꣡जद् अपधा꣡ वल꣡स्य  
+यो꣡ अ꣡श्मनोर् अन्त꣡र् अग्निं꣡ जजा꣡न  
+संव्ŕ̥क् सम꣡त्सु स꣡ जनास इ꣡न्द्रः  

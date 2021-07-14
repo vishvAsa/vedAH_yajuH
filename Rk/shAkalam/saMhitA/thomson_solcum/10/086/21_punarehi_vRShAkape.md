@@ -2,8 +2,8 @@
 title = "021"
 
 +++
-púnar éhi vr̥ṣākape  
-suvitā́ kalpayāvahai  
-yá eṣá svapnanáṃśano  
-ástam éṣi pathā́ púnar  
-víśvasmād índra úttaraḥ  
+पु꣡नर् ए꣡हि वृषाकपे  
+सुविता꣡ कल्पयावहै  
+य꣡ एष꣡ स्वप्ननं꣡शनो  
+अ꣡स्तम् ए꣡षि पथा꣡ पु꣡नर्  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

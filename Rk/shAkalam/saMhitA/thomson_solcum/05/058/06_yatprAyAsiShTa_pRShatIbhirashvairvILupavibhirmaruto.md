@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yát prā́yāsiṣṭa pŕ̥ṣatībhir áśvair  
-vīḷupavíbhir maruto ráthebhiḥ  
-kṣódanta ā́po riṇaté vánāni  
-ávosríyo vr̥ṣabháḥ krandatu dyaúḥ  
+य꣡त् प्रा꣡यासिष्ट प्ŕ̥षतीभिर् अ꣡श्वैर्  
+वीऌउपवि꣡भिर् मरुतो र꣡थेभिः  
+क्षो꣡दन्त आ꣡पो रिणते꣡ व꣡नानि  
+अ꣡वोस्रि꣡यो वृषभः꣡ क्रन्दतु द्यउः꣡  

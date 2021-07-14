@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yán na índro jujuṣé yác ca váṣṭi  
-tán no mahā́n karati śuṣmī́ ā́ cit  
-bráhma stómam maghávā sómam ukthā́  
-yó áśmānaṃ śávasā bíbhrad éti  
+य꣡न् न इ꣡न्द्रो जुजुषे꣡ य꣡च् च व꣡ष्टि  
+त꣡न् नो महा꣡न् करति शुष्मी꣡ आ꣡ चित्  
+ब्र꣡ह्म स्तो꣡मम् मघ꣡वा सो꣡मम् उक्था꣡  
+यो꣡ अ꣡श्मानं श꣡वसा बि꣡भ्रद् ए꣡ति  

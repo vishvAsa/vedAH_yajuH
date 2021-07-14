@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ātmanván nábho duhyate ghr̥tám páya  
-r̥tásya nā́bhir amŕ̥taṃ ví jāyate  
-samīcīnā́ḥ sudā́navaḥ priṇanti° táṃ  
-náro hitám áva mehanti péravaḥ  
+आत्मन्व꣡न् न꣡भो दुह्यते घृत꣡म् प꣡य  
+ऋत꣡स्य ना꣡भिर् अम्ŕ̥तं वि꣡ जायते  
+समीचीनाः꣡ सुदा꣡नवः प्रिणन्ति° तं꣡  
+न꣡रो हित꣡म् अ꣡व मेहन्ति पे꣡रवः  

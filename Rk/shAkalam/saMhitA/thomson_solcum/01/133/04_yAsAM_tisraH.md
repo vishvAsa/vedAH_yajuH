@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yā́sāṃ tisráḥ pañcāśáto  
-abhivlaṅgaír apā́vapaḥ  
-tát sú te manāyati  
-takát sú te manāyati  
+या꣡सां तिस्रः꣡ पञ्चाश꣡तो  
+अभिव्लङ्गइ꣡र् अपा꣡वपः  
+त꣡त् सु꣡ ते मनायति  
+तक꣡त् सु꣡ ते मनायति  

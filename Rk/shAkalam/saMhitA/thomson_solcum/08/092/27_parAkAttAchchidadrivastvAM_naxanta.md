@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-parākā́ttāc cid adrivas  
-tuvā́ṃ nakṣanta no gíraḥ  
-áraṃ gamāma te vayám  
+पराका꣡त्ताच् चिद् अद्रिवस्  
+तुवां꣡ नक्षन्त नो गि꣡रः  
+अ꣡रं गमाम ते वय꣡म्  

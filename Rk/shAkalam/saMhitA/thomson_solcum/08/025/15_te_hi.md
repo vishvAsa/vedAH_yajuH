@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-té hí ṣmā vanúṣo náro  
-abhímātiṃ káyasya cit  
-tigmáṃ ná kṣódaḥ pratighnánti bhū́rṇayaḥ  
+ते꣡ हि꣡ ष्मा वनु꣡षो न꣡रो  
+अभि꣡मातिं क꣡यस्य चित्  
+तिग्मं꣡ न꣡ क्षो꣡दः प्रतिघ्न꣡न्ति भू꣡र्णयः  

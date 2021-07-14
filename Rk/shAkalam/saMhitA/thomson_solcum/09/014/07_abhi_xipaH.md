@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-abhí kṣípaḥ sám agmata  
-marjáyantīr iṣás pátim  
-pr̥ṣṭhā́ gr̥bhṇata vājínaḥ  
+अभि꣡ क्षि꣡पः स꣡म् अग्मत  
+मर्ज꣡यन्तीर् इष꣡स् प꣡तिम्  
+पृष्ठा꣡ गृभ्णत वाजि꣡नः  

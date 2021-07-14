@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-marútvantaṃ vr̥ṣabháṃ vāvr̥dhānám  
-ákavāriṃ diviyáṃ śāsám índram  
-viśvāsā́ham ávase nū́tanāya  
-ugráṃ sahodā́m ihá táṃ huvema  
+मरु꣡त्वन्तं वृषभं꣡ वावृधान꣡म्  
+अ꣡कवारिं दिवियं꣡ शास꣡म् इ꣡न्द्रम्  
+विश्वासा꣡हम् अ꣡वसे नू꣡तनाय  
+उग्रं꣡ सहोदा꣡म् इह꣡ तं꣡ हुवेम  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sá tū́ pavasva pári pā́rthivaṃ rája  
-stotré śíkṣann ādhūnvaté ca sukrato  
-mā́ no nír bhāg vásunaḥ sādanaspŕ̥śo  
-rayím piśáṅgam bahuláṃ vasīmahi  
+स꣡ तू꣡ पवस्व प꣡रि पा꣡र्थिवं र꣡ज  
+स्तोत्रे꣡ शि꣡क्षन्न् आधून्वते꣡ च सुक्रतो  
+मा꣡ नो नि꣡र् भाग् व꣡सुनः सादनस्प्ŕ̥शो  
+रयि꣡म् पिश꣡ङ्गम् बहुलं꣡ वसीमहि  

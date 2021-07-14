@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-táṃ va índraṃ ná sukrátuṃ  
-váruṇam iva māyínam  
-aryamáṇaṃ ná mandráṃ sr̥prábhojasaṃ  
-víṣṇuṃ ná stuṣa ādíśe  
+तं꣡ व इ꣡न्द्रं न꣡ सुक्र꣡तुं  
+व꣡रुणम् इव मायि꣡नम्  
+अर्यम꣡णं न꣡ मन्द्रं꣡ सृप्र꣡भोजसं  
+वि꣡ष्णुं न꣡ स्तुष आदि꣡शे  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ádhvaryavo yó apó vavrivā́ṃsaṃ  
-vr̥tráṃ jaghā́na aśányeva vr̥kṣám  
-tásmā etám bharata tadvaśā́yam̐  
-eṣá índro arhati pītím asya  
+अ꣡ध्वर्यवो यो꣡ अपो꣡ वव्रिवां꣡सं  
+वृत्रं꣡ जघा꣡न अश꣡न्येव वृक्ष꣡म्  
+त꣡स्मा एत꣡म् भरत तद्वशा꣡यँ  
+एष꣡ इ꣡न्द्रो अर्हति पीति꣡म् अस्य  

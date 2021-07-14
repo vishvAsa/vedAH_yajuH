@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ajā́ anyásya váhnayo  
-hárī anyásya sámbhr̥tā  
-tā́bhyāṃ vr̥trā́ṇi jighnate  
+अजा꣡ अन्य꣡स्य व꣡ह्नयो  
+ह꣡री अन्य꣡स्य स꣡म्भृता  
+ता꣡भ्यां वृत्रा꣡णि जिघ्नते  

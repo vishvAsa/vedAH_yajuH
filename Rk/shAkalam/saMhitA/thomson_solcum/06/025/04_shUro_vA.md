@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-śū́ro vā śū́raṃ vanate śárīrais  
-tanūrúcā táruṣi yát kr̥ṇvaíte  
-toké vā góṣu tánaye yád apsú  
-ví krándasī urvárāsu brávaite  
+शू꣡रो वा शू꣡रं वनते श꣡रीरैस्  
+तनूरु꣡चा त꣡रुषि य꣡त् कृण्वइ꣡ते  
+तोके꣡ वा गो꣡षु त꣡नये य꣡द् अप्सु꣡  
+वि꣡ क्र꣡न्दसी उर्व꣡रासु ब्र꣡वैते  

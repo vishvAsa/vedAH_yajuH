@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-prá te nā́vaṃ ná sámane vacasyúvam  
-bráhmaṇā yāmi sávaneṣu dā́dhr̥ṣiḥ  
-kuvín no asyá vácaso nibódhiṣad  
-índram útsaṃ ná vásunaḥ sicāmahe  
+प्र꣡ ते ना꣡वं न꣡ स꣡मने वचस्यु꣡वम्  
+ब्र꣡ह्मणा यामि स꣡वनेषु दा꣡धृषिः  
+कुवि꣡न् नो अस्य꣡ व꣡चसो निबो꣡धिषद्  
+इ꣡न्द्रम् उ꣡त्सं न꣡ व꣡सुनः सिचामहे  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-déva barhir várdhamānaṃ suvī́raṃ  
-stīrṇáṃ rāyé subháraṃ védi asyā́m  
-ghr̥ténāktáṃ vasavaḥ sīdatedáṃ  
-víśve devā ādityā yajñíyāsaḥ  
+दे꣡व बर्हिर् व꣡र्धमानं सुवी꣡रं  
+स्तीर्णं꣡ राये꣡ सुभ꣡रं वे꣡दि अस्या꣡म्  
+घृते꣡नाक्तं꣡ वसवः सीदतेदं꣡  
+वि꣡श्वे देवा आदित्या यज्ञि꣡यासः  

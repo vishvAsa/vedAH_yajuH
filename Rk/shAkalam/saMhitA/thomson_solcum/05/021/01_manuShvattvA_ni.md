@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-manuṣvát tvā ní dhīmahi  
-manuṣvát sám idhīmahi  
-ágne manuṣvád aṅgiro  
-devā́n devayaté yaja  
+मनुष्व꣡त् त्वा नि꣡ धीमहि  
+मनुष्व꣡त् स꣡म् इधीमहि  
+अ꣡ग्ने मनुष्व꣡द् अङ्गिरो  
+देवा꣡न् देवयते꣡ यज  

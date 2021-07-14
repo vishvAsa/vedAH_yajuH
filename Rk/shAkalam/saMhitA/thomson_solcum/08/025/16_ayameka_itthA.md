@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-ayám éka itthā́ purú  
-urú caṣṭe ví viśpátiḥ  
-tásya vratā́ni ánu vaś carāmasi  
+अय꣡म् ए꣡क इत्था꣡ पुरु꣡  
+उरु꣡ चष्टे वि꣡ विश्प꣡तिः  
+त꣡स्य व्रता꣡नि अ꣡नु वश् चरामसि  

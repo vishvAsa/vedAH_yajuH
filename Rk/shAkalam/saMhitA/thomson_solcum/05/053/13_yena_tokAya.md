@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yéna tokā́ya tánayāya dhāníyam  
-bī́jaṃ váhadhve ákṣitam  
-asmábhyaṃ tád dhattana yád va ī́mahe  
-rā́dho viśvā́yu saúbhagam  
+ये꣡न तोका꣡य त꣡नयाय धानि꣡यम्  
+बी꣡जं व꣡हध्वे अ꣡क्षितम्  
+अस्म꣡भ्यं त꣡द् धत्तन य꣡द् व ई꣡महे  
+रा꣡धो विश्वा꣡यु सउ꣡भगम्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sadyó ha jātó vr̥ṣabháḥ kanī́naḥ  
-prábhartum āvad ándhasaḥ sutásya  
-sādhóḥ piba pratikāmáṃ yáthā te  
-rásāśiraḥ prathamáṃ somiyásya  
+सद्यो꣡ ह जातो꣡ वृषभः꣡ कनी꣡नः  
+प्र꣡भर्तुम् आवद् अ꣡न्धसः सुत꣡स्य  
+साधोः꣡ पिब प्रतिकामं꣡ य꣡था ते  
+र꣡साशिरः प्रथमं꣡ सोमिय꣡स्य  

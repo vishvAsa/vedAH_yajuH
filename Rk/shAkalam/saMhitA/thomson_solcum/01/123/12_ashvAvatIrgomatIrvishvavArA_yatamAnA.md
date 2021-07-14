@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-áśvāvatīr gómatīr viśvávārā  
-yátamānā raśmíbhiḥ sū́riyasya  
-párā ca yánti púnar ā́ ca yanti  
-bhadrā́ nā́ma váhamānā uṣā́saḥ  
+अ꣡श्वावतीर् गो꣡मतीर् विश्व꣡वारा  
+य꣡तमाना रश्मि꣡भिः सू꣡रियस्य  
+प꣡रा च य꣡न्ति पु꣡नर् आ꣡ च यन्ति  
+भद्रा꣡ ना꣡म व꣡हमाना उषा꣡सः  

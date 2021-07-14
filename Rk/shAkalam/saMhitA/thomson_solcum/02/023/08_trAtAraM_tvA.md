@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-trātā́raṃ tvā tanū́nãṃ havāmahe  
-ávaspartar adhivaktā́ram asmayúm  
-bŕ̥haspate devanído ní barhaya  
-mā́ durévā úttaraṃ sumnám ún naśan  
+त्राता꣡रं त्वा तनू꣡न्ãं हवामहे  
+अ꣡वस्पर्तर् अधिवक्ता꣡रम् अस्मयु꣡म्  
+ब्ŕ̥हस्पते देवनि꣡दो नि꣡ बर्हय  
+मा꣡ दुरे꣡वा उ꣡त्तरं सुम्न꣡म् उ꣡न् नशन्  

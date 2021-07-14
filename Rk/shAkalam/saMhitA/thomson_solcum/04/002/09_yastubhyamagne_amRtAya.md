@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yás túbhyam agne amŕ̥tāya dā́śad  
-dúvas tuvé kr̥ṇávate yatásruk  
-ná sá rāyā́ śaśamānó ví yoṣan  
-naínam áṃhaḥ pári varad aghāyóḥ  
+य꣡स् तु꣡भ्यम् अग्ने अम्ŕ̥ताय दा꣡शद्  
+दु꣡वस् तुवे꣡ कृण꣡वते यत꣡स्रुक्  
+न꣡ स꣡ राया꣡ शशमानो꣡ वि꣡ योषन्  
+नइ꣡नम् अं꣡हः प꣡रि वरद् अघायोः꣡  

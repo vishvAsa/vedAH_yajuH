@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-samít-samit sumánā bodhi asmé  
-śucā́-śucā sumatíṃ rāsi vásvaḥ  
-ā́ deva devā́n yajáthāya vakṣi  
-sákhā sákhīn sumánā yakṣi agne  
+समि꣡त्-समित् सुम꣡ना बोधि अस्मे꣡  
+शुचा꣡-शुचा सुमतिं꣡ रासि व꣡स्वः  
+आ꣡ देव देवा꣡न् यज꣡थाय वक्षि  
+स꣡खा स꣡खीन् सुम꣡ना यक्षि अग्ने  

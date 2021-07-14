@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-urúṃ yajñā́ya cakrathur ulokáṃ†  
-janáyantā sū́ryam uṣā́sam agním  
-dā́sasya cid vr̥ṣaśiprásya māyā́  
-jaghnáthur narā pr̥tanā́jiyeṣu  
+उरुं꣡ यज्ञा꣡य चक्रथुर् उलोकं꣡†  
+जन꣡यन्ता सू꣡र्यम् उषा꣡सम् अग्नि꣡म्  
+दा꣡सस्य चिद् वृषशिप्र꣡स्य माया꣡  
+जघ्न꣡थुर् नरा पृतना꣡जियेषु  

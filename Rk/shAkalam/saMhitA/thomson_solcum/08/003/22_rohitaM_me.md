@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-róhitam me pā́kasthāmā  
-sudhúraṃ kakṣiyaprã́m  
-ádād rāyó vibódhanam  
+रो꣡हितम् मे पा꣡कस्थामा  
+सुधु꣡रं कक्षियप्र्ã꣡म्  
+अ꣡दाद् रायो꣡ विबो꣡धनम्  

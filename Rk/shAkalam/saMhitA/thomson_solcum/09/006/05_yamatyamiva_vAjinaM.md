@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yám átyam iva vājínam  
-mr̥jánti yóṣaṇo dáśa  
-váne krī́ḷantam átyavim  
+य꣡म् अ꣡त्यम् इव वाजि꣡नम्  
+मृज꣡न्ति यो꣡षणो द꣡श  
+व꣡ने क्री꣡ऌअन्तम् अ꣡त्यविम्  

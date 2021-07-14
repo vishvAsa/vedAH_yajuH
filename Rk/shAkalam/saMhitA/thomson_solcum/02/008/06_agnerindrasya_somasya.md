@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-agnér índrasya sómasya  
-devā́nām ūtíbhir vayám  
-áriṣyantaḥ sacemahi  
-abhí ṣyāma pr̥tanyatáḥ  
+अग्ने꣡र् इ꣡न्द्रस्य सो꣡मस्य  
+देवा꣡नाम् ऊति꣡भिर् वय꣡म्  
+अ꣡रिष्यन्तः सचेमहि  
+अभि꣡ ष्याम पृतन्यतः꣡  

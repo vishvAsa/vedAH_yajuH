@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yásmin víśvāni bhúvanāni tasthús  
-tisró dyā́vas trẽdhā́ sasrúr ā́paḥ  
-tráyaḥ kóśāsa upasécanāso  
-mádhva ścotanti abhíto virapśám  
+य꣡स्मिन् वि꣡श्वानि भु꣡वनानि तस्थु꣡स्  
+तिस्रो꣡ द्या꣡वस् त्र्ẽधा꣡ सस्रु꣡र् आ꣡पः  
+त्र꣡यः को꣡शास उपसे꣡चनासो  
+म꣡ध्व श्चोतन्ति अभि꣡तो विरप्श꣡म्  

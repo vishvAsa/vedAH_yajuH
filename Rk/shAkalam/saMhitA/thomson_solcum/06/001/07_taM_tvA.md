@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-táṃ tvā vayáṃ sudhíyo návyam agne  
-sumnāyáva īmahe devayántaḥ  
-tuváṃ víśo anayo dī́diyāno  
-divó agne br̥hatā́ rocanéna  
+तं꣡ त्वा वयं꣡ सुधि꣡यो न꣡व्यम् अग्ने  
+सुम्नाय꣡व ईमहे देवय꣡न्तः  
+तुवं꣡ वि꣡शो अनयो दी꣡दियानो  
+दिवो꣡ अग्ने बृहता꣡ रोचने꣡न  

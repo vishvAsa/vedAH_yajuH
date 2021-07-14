@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-agnínāgníḥ sám idhyate  
-kavír gr̥hápatir yúvā  
-havyavā́ḍ juhúvāsiyaḥ  
+अग्नि꣡नाग्निः꣡ स꣡म् इध्यते  
+कवि꣡र् गृह꣡पतिर् यु꣡वा  
+हव्यवा꣡ड् जुहु꣡वासियः  

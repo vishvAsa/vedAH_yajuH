@@ -2,5 +2,5 @@
 title = "006"
 
 +++
-tuvā́m u té dadhire havyavā́haṃ  
-devā́so agna ūrjá ā́ nápātam  
+तुवा꣡म् उ ते꣡ दधिरे हव्यवा꣡हं  
+देवा꣡सो अग्न ऊर्ज꣡ आ꣡ न꣡पातम्  

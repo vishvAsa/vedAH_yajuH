@@ -2,9 +2,9 @@
 title = "017"
 
 +++
-yáthā kalā́ṃ yáthā śapháṃ  
-yátha rṇáṃ saṃnáyāmasi  
-evā́ duṣvápniyaṃ sárvam  
-āptiyé sáṃ nayāmasi  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+य꣡था कलां꣡ य꣡था शफं꣡  
+य꣡थ र्णं꣡ संन꣡यामसि  
+एवा꣡ दुष्व꣡प्नियं स꣡र्वम्  
+आप्तिये꣡ सं꣡ नयामसि  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

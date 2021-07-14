@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-kád u stuvánta r̥tayanta deváta  
-ŕ̥ṣiḥ kó vípra ohate  
-kadā́ hávam maghavann indra sunvatáḥ  
-kád u stuvatá ā́ gamaḥ  
+क꣡द् उ स्तुव꣡न्त ऋतयन्त देव꣡त  
+ŕ̥षिः को꣡ वि꣡प्र ओहते  
+कदा꣡ ह꣡वम् मघवन्न् इन्द्र सुन्वतः꣡  
+क꣡द् उ स्तुवत꣡ आ꣡ गमः  

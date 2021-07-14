@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-káṃ naś citrám iṣaṇyasi cikitvā́n  
-pr̥thugmā́naṃ · vāśráṃ vāvr̥dhádhyai  
-kát tásya dā́tu śávaso víuṣṭau  
-tákṣad vájraṃ vr̥tratúram ápinvat  
+कं꣡ नश् चित्र꣡म् इषण्यसि चिकित्वा꣡न्  
+पृथुग्मा꣡नं · वाश्रं꣡ वावृध꣡ध्यै  
+क꣡त् त꣡स्य दा꣡तु श꣡वसो वि꣡उष्टौ  
+त꣡क्षद् व꣡ज्रं वृत्रतु꣡रम् अ꣡पिन्वत्  

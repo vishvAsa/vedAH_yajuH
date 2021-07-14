@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-apsú me sómo abravīd  
-antár víśvāni bheṣajā́  
-agníṃ ca viśváśambhuvam  
-ā́paś ca viśvábheṣajīḥ  
+अप्सु꣡ मे सो꣡मो अब्रवीद्  
+अन्त꣡र् वि꣡श्वानि भेषजा꣡  
+अग्निं꣡ च विश्व꣡शम्भुवम्  
+आ꣡पश् च विश्व꣡भेषजीः  

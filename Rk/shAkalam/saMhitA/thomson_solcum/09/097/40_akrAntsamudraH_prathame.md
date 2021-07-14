@@ -2,7 +2,7 @@
 title = "040"
 
 +++
-ákrān samudráḥ prathamé vídharmañ  
-janáyan prajā́ bhúvanasya rā́jā  
-vŕ̥ṣā pavítre ádhi sā́no ávye  
-br̥hát sómo vāvr̥dhe svāná° índuḥ  
+अ꣡क्रान् समुद्रः꣡ प्रथमे꣡ वि꣡धर्मञ्  
+जन꣡यन् प्रजा꣡ भु꣡वनस्य रा꣡जा  
+व्ŕ̥षा पवि꣡त्रे अ꣡धि सा꣡नो अ꣡व्ये  
+बृह꣡त् सो꣡मो वावृधे स्वान꣡° इ꣡न्दुः  

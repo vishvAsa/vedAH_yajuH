@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-vā́cam aṣṭā́padīm aháṃ  
-návasraktim r̥taspŕ̥śam  
-índrāt pári tanvàm mame  
+वा꣡चम् अष्टा꣡पदीम् अहं꣡  
+न꣡वस्रक्तिम् ऋतस्प्ŕ̥शम्  
+इ꣡न्द्रात् प꣡रि तन्व᳡म् ममे  

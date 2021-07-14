@@ -2,5 +2,5 @@
 title = "018"
 
 +++
-prá soma yāhi índrasya kukṣā́  
-nŕ̥bhir yemānó ádribhiḥ sutáḥ  
+प्र꣡ सोम याहि इ꣡न्द्रस्य कुक्षा꣡  
+न्ŕ̥भिर् येमानो꣡ अ꣡द्रिभिः सुतः꣡  

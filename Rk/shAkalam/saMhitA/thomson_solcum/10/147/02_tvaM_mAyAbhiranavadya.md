@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuvám māyā́bhir anavadya māyínaṃ  
-śravasyatā́ mánasā vr̥trám ardayaḥ  
-tuvā́m ín náro vr̥ṇate gáviṣṭiṣu  
-tuvā́ṃ víśvāsu háviyāsu íṣṭiṣu  
+तुव꣡म् माया꣡भिर् अनवद्य मायि꣡नं  
+श्रवस्यता꣡ म꣡नसा वृत्र꣡म् अर्दयः  
+तुवा꣡म् इ꣡न् न꣡रो वृणते ग꣡विष्टिषु  
+तुवां꣡ वि꣡श्वासु ह꣡वियासु इ꣡ष्टिषु  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-imā́ nā́rīr avidhavā́ḥ supátnīr  
-ā́ñjanena sarpíṣā sáṃ viśantu  
-anaśrávo anamīvā́ḥ surátnā  
-ā́ rohantu jánayo yónim ágre  
+इमा꣡ ना꣡रीर् अविधवाः꣡ सुप꣡त्नीर्  
+आ꣡ञ्जनेन सर्पि꣡षा सं꣡ विशन्तु  
+अनश्र꣡वो अनमीवाः꣡ सुर꣡त्ना  
+आ꣡ रोहन्तु ज꣡नयो यो꣡निम् अ꣡ग्रे  

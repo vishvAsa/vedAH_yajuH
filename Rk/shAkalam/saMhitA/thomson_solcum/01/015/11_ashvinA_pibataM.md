@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-áśvinā píbatam mádhu  
-dī́diagnī śucivratā  
-r̥túnā yajñavāhasā  
+अ꣡श्विना पि꣡बतम् म꣡धु  
+दी꣡दिअग्नी शुचिव्रता  
+ऋतु꣡ना यज्ञवाहसा  

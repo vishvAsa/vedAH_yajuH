@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́ te kāro śr̥ṇavāmā vácāṃsi  
-yayā́tha dūrā́d ánasā ráthena  
-ní te naṃsai pīpiyānéva yóṣā  
-máryāyeva kaníyā śaśvacaí te  
+आ꣡ ते कारो शृणवामा व꣡चांसि  
+यया꣡थ दूरा꣡द् अ꣡नसा र꣡थेन  
+नि꣡ ते नंसै पीपियाने꣡व यो꣡षा  
+म꣡र्यायेव कनि꣡या शश्वचइ꣡ ते  

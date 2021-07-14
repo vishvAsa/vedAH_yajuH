@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-ghanéva víṣvag ví jahi árāvaṇas  
-tápurjambha yó asmadhrúk  
-yó mártiyaḥ śíśīte áti aktúbhir  
-mā́ naḥ sá ripúr īśata  
+घने꣡व वि꣡ष्वग् वि꣡ जहि अ꣡रावणस्  
+त꣡पुर्जम्भ यो꣡ अस्मध्रु꣡क्  
+यो꣡ म꣡र्तियः शि꣡शीते अ꣡ति अक्तु꣡भिर्  
+मा꣡ नः स꣡ रिपु꣡र् ईशत  

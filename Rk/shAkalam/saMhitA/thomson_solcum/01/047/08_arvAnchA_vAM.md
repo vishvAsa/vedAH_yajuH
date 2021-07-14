@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-arvā́ñcā vāṃ sáptayo adhvaraśríyo  
-váhantu sávanéd úpa  
-íṣam pr̥ñcántā sukŕ̥te sudā́nava  
-ā́ barhíḥ sīdataṃ narā  
+अर्वा꣡ञ्चा वां स꣡प्तयो अध्वरश्रि꣡यो  
+व꣡हन्तु स꣡वने꣡द् उ꣡प  
+इ꣡षम् पृञ्च꣡न्ता सुक्ŕ̥ते सुदा꣡नव  
+आ꣡ बर्हिः꣡ सीदतं नरा  

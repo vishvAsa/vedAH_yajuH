@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-abhibhúve abhibhaṅgā́ya vanvate  
-áṣāḷhāya sáhamānāya vedháse  
-tuvigráye váhnaye duṣṭárītave  
-satrāsā́he náma índrāya vocata  
+अभिभु꣡वे अभिभङ्गा꣡य वन्वते  
+अ꣡षाऌहाय स꣡हमानाय वेध꣡से  
+तुविग्र꣡ये व꣡ह्नये दुष्ट꣡रीतवे  
+सत्रासा꣡हे न꣡म इ꣡न्द्राय वोचत  

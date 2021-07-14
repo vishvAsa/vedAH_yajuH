@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yajñaíḥ sámmiślāḥ pŕ̥ṣatībhir r̥ṣṭíbhir  
-yā́mañ chubhrā́so añjíṣu priyā́ utá  
-āsádyā barhír bharatasya sūnavaḥ  
-potrā́d ā́ sómam pibatā divo naraḥ  
+यज्ञइः꣡ स꣡म्मिश्लाः प्ŕ̥षतीभिर् ऋष्टि꣡भिर्  
+या꣡मञ् छुभ्रा꣡सो अञ्जि꣡षु प्रिया꣡ उत꣡  
+आस꣡द्या बर्हि꣡र् भरतस्य सूनवः  
+पोत्रा꣡द् आ꣡ सो꣡मम् पिबता दिवो नरः  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-túbhyaṃ dakṣa kavikrato yā́nīmā́  
-déva mártāso adhvaré ákarma  
-tuváṃ víśvasya suráthasya bodhi  
-sárvaṃ tád agne amr̥ta svadehá  
+तु꣡भ्यं दक्ष कविक्रतो या꣡नीमा꣡  
+दे꣡व म꣡र्तासो अध्वरे꣡ अ꣡कर्म  
+तुवं꣡ वि꣡श्वस्य सुर꣡थस्य बोधि  
+स꣡र्वं त꣡द् अग्ने अमृत स्वदेह꣡  

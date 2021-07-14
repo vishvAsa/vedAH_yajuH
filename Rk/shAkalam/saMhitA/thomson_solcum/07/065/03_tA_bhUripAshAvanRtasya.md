@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tā́ bhū́ripāśāv ánr̥tasya sétū  
-duratyétū ripáve mártiyāya  
-r̥tásya mitrāvaruṇā pathā́ vām  
-apó ná nāvā́ duritā́ tarema  
+ता꣡ भू꣡रिपाशाव् अ꣡नृतस्य से꣡तू  
+दुरत्ये꣡तू रिप꣡वे म꣡र्तियाय  
+ऋत꣡स्य मित्रावरुणा पथा꣡ वाम्  
+अपो꣡ न꣡ नावा꣡ दुरिता꣡ तरेम  

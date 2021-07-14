@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-pārṣadvāṇáḥ práskaṇvaṃ sám asādayac  
-cháyānaṃ jívrim úddhitam  
-sahásrāṇi asiṣāsad gávām ŕ̥ṣis  
-tuvóto dásyave vŕ̥kaḥ  
+पार्षद्वाणः꣡ प्र꣡स्कण्वं स꣡म् असादयच्  
+छ꣡यानं जि꣡व्रिम् उ꣡द्धितम्  
+सह꣡स्राणि असिषासद् ग꣡वाम् ŕ̥षिस्  
+तुवो꣡तो द꣡स्यवे व्ŕ̥कः  

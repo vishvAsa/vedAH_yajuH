@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ní āvidhyad ilībíśasya dr̥̄ḷhā́+  
-ví śr̥ṅgíṇam abhinac chúṣṇam índraḥ  
-yā́vat táro maghavan yā́vad ójo  
-vájreṇa śátrum avadhīḥ pr̥tanyúm  
+नि꣡ आविध्यद् इलीबि꣡शस्य दॄऌहा꣡+  
+वि꣡ शृङ्गि꣡णम् अभिनच् छु꣡ष्णम् इ꣡न्द्रः  
+या꣡वत् त꣡रो मघवन् या꣡वद् ओ꣡जो  
+व꣡ज्रेण श꣡त्रुम् अवधीः पृतन्यु꣡म्  

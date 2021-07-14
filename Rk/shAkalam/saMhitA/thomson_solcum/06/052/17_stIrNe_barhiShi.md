@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-stīrṇé barhíṣi samidhāné agnaú  
-sūkténa mahā́ námasā́ vivāse  
-asmín no adyá vidáthe yajatrā  
-víśve devā havíṣi mādayadhvam  
+स्तीर्णे꣡ बर्हि꣡षि समिधाने꣡ अग्नउ꣡  
+सूक्ते꣡न महा꣡ न꣡मसा꣡ विवासे  
+अस्मि꣡न् नो अद्य꣡ विद꣡थे यजत्रा  
+वि꣡श्वे देवा हवि꣡षि मादयध्वम्  

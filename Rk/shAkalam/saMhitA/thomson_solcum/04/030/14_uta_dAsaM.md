@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-utá dāsáṃ kaulitarám  
-br̥hatáḥ párvatād ádhi  
-ávāhann indra śámbaram  
+उत꣡ दासं꣡ कौलितर꣡म्  
+बृहतः꣡ प꣡र्वताद् अ꣡धि  
+अ꣡वाहन्न् इन्द्र श꣡म्बरम्  

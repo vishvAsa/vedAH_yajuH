@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ráthaṃ yé cakrúḥ suvŕ̥taṃ nareṣṭhā́ṃ  
-yé dhenúṃ viśvajúvaṃ viśvárūpām  
-tá ā́ takṣantu r̥bhávo rayíṃ naḥ  
-suávasaḥ suápasaḥ suhástāḥ  
+र꣡थं ये꣡ चक्रुः꣡ सुव्ŕ̥तं नरेष्ठां꣡  
+ये꣡ धेनुं꣡ विश्वजु꣡वं विश्व꣡रूपाम्  
+त꣡ आ꣡ तक्षन्तु ऋभ꣡वो रयिं꣡ नः  
+सुअ꣡वसः सुअ꣡पसः सुह꣡स्ताः  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tuvám etā́ñ janarā́jño duvír dáśa  
-abandhúnā suśrávasopajagmúṣaḥ  
-ṣaṣṭíṃ sahásrā navatíṃ náva śrutó  
-ní cakréṇa ráthiyā duṣpádāvr̥ṇak  
+तुव꣡म् एता꣡ञ् जनरा꣡ज्ञो दुवि꣡र् द꣡श  
+अबन्धु꣡ना सुश्र꣡वसोपजग्मु꣡षः  
+षष्टिं꣡ सह꣡स्रा नवतिं꣡ न꣡व श्रुतो꣡  
+नि꣡ चक्रे꣡ण र꣡थिया दुष्प꣡दावृणक्  

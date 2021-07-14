@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́po ha yád br̥hatī́r víśvam ā́yan  
-gárbhaṃ dádhānā janáyantīr agním  
-táto devā́nāṃ sám avartatā́sur ékaḥ  
-kásmai devā́ya havíṣā vidhema  
+आ꣡पो ह य꣡द् बृहती꣡र् वि꣡श्वम् आ꣡यन्  
+ग꣡र्भं द꣡धाना जन꣡यन्तीर् अग्नि꣡म्  
+त꣡तो देवा꣡नां स꣡म् अवर्तता꣡सुर् ए꣡कः  
+क꣡स्मै देवा꣡य हवि꣡षा विधेम  

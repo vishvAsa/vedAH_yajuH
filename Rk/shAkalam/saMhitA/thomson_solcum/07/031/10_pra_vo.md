@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-prá vo mahé mahivŕ̥dhe bharadhvam  
-prácetase prá sumatíṃ kr̥ṇudhvam  
-víśaḥ pūrvī́ḥ prá carā carṣaṇiprā́ḥ  
+प्र꣡ वो महे꣡ महिव्ŕ̥धे भरध्वम्  
+प्र꣡चेतसे प्र꣡ सुमतिं꣡ कृणुध्वम्  
+वि꣡शः पूर्वीः꣡ प्र꣡ चरा चर्षणिप्राः꣡  

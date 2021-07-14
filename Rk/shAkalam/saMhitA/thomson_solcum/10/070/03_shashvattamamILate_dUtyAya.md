@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śaśvattamám īḷate dūtíyāya  
-havíṣmanto manuṣíyāso agním  
-váhiṣṭhair áśvaiḥ suvŕ̥tā ráthena  
-ā́ devā́n vakṣi ní ṣadehá hótā  
+शश्वत्तम꣡म् ईऌअते दूति꣡याय  
+हवि꣡ष्मन्तो मनुषि꣡यासो अग्नि꣡म्  
+व꣡हिष्ठैर् अ꣡श्वैः सुव्ŕ̥ता र꣡थेन  
+आ꣡ देवा꣡न् वक्षि नि꣡ षदेह꣡ हो꣡ता  

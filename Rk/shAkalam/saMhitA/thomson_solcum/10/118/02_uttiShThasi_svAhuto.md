@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-út tiṣṭhasi súāhuto  
-ghr̥tā́ni práti modase  
-yát tvā srúcaḥ samásthiran  
+उ꣡त् तिष्ठसि सु꣡आहुतो  
+घृता꣡नि प्र꣡ति मोदसे  
+य꣡त् त्वा स्रु꣡चः सम꣡स्थिरन्  

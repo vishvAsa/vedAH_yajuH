@@ -2,6 +2,6 @@
 title = "032"
 
 +++
-tváyéd indra yujā́ vayám  
-práti bruvīmahi spŕ̥dhaḥ  
-tvám asmā́kaṃ táva smasi  
+त्व꣡ये꣡द् इन्द्र युजा꣡ वय꣡म्  
+प्र꣡ति ब्रुवीमहि स्प्ŕ̥धः  
+त्व꣡म् अस्मा꣡कं त꣡व स्मसि  

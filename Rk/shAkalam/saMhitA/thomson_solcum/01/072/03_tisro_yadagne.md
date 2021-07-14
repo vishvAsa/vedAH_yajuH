@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tisró yád agne śarádas tuvā́m íc  
-chúciṃ ghr̥téna śúcayaḥ saparyā́n  
-nā́māni cid dadhire yajñíyāni  
-ásūdayanta tanúvaḥ sújātāḥ  
+तिस्रो꣡ य꣡द् अग्ने शर꣡दस् तुवा꣡म् इ꣡च्  
+छु꣡चिं घृते꣡न शु꣡चयः सपर्या꣡न्  
+ना꣡मानि चिद् दधिरे यज्ञि꣡यानि  
+अ꣡सूदयन्त तनु꣡वः सु꣡जाताः  

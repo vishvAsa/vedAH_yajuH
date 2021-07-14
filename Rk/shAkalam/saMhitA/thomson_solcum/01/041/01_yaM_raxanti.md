@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-yáṃ rákṣanti prácetaso  
-váruṇo mitró aryamā́  
-nū́ cit sá dabhyate jánaḥ  
+यं꣡ र꣡क्षन्ति प्र꣡चेतसो  
+व꣡रुणो मित्रो꣡ अर्यमा꣡  
+नू꣡ चित् स꣡ दभ्यते ज꣡नः  

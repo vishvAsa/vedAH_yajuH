@@ -2,8 +2,8 @@
 title = "012"
 
 +++
-nā́hám indrāṇi rāraṇa  
-sákhyur vr̥ṣā́kaper r̥té  
-yásyedám ápiyaṃ havíḥ  
-priyáṃ devéṣu gáchati  
-víśvasmād índra úttaraḥ  
+ना꣡ह꣡म् इन्द्राणि रारण  
+स꣡ख्युर् वृषा꣡कपेर् ऋते꣡  
+य꣡स्येद꣡म् अ꣡पियं हविः꣡  
+प्रियं꣡ देवे꣡षु ग꣡छति  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

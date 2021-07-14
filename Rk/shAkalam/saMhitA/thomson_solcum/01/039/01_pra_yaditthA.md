@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá yád itthā́ parāvátaḥ  
-śocír ná mā́nam ásyatha  
-kásya krátvā marutaḥ kásya várpasā  
-káṃ yātha káṃ ha dhūtayaḥ  
+प्र꣡ य꣡द् इत्था꣡ पराव꣡तः  
+शोचि꣡र् न꣡ मा꣡नम् अ꣡स्यथ  
+क꣡स्य क्र꣡त्वा मरुतः क꣡स्य व꣡र्पसा  
+कं꣡ याथ कं꣡ ह धूतयः  

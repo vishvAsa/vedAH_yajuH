@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ā́ vāṃ sahásraṃ háraya  
-índravāyū abhí práyaḥ  
-váhantu sómapītaye  
+आ꣡ वां सह꣡स्रं ह꣡रय  
+इ꣡न्द्रवायू अभि꣡ प्र꣡यः  
+व꣡हन्तु सो꣡मपीतये  

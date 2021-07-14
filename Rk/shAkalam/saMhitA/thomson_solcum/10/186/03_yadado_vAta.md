@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-yád adó vāta te gr̥hé  
-amŕ̥tasya nidhír hitáḥ  
-táto no dehi jīváse  
+य꣡द् अदो꣡ वात ते गृहे꣡  
+अम्ŕ̥तस्य निधि꣡र् हितः꣡  
+त꣡तो नो देहि जीव꣡से  

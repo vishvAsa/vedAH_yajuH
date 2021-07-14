@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-matáyaḥ somapā́m urúṃ  
-rihánti śávasas pátim  
-índraṃ vatsáṃ ná mātáraḥ  
+मत꣡यः सोमपा꣡म् उरुं꣡  
+रिह꣡न्ति श꣡वसस् प꣡तिम्  
+इ꣡न्द्रं वत्सं꣡ न꣡ मात꣡रः  

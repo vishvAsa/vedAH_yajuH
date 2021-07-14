@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-suarjítam máhi mandānám ándhaso  
-hávāmahe pári śakráṃ sutā́m̐ úpa  
-imáṃ no yajñám ihá bodhi ā́ gahi  
-spŕ̥dho jáyantam maghávānam īmahe  
+सुअर्जि꣡तम् म꣡हि मन्दान꣡म् अ꣡न्धसो  
+ह꣡वामहे प꣡रि शक्रं꣡ सुताँ꣡ उ꣡प  
+इमं꣡ नो यज्ञ꣡म् इह꣡ बोधि आ꣡ गहि  
+स्प्ŕ̥धो ज꣡यन्तम् मघ꣡वानम् ईमहे  

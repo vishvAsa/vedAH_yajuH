@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuvé víśvā táviṣī sadhríag ghitā́  
-táva rā́dhaḥ somapīthā́ya harṣate  
-táva vájraś cikite bāhuvór hitó  
-vr̥ścā́ śátror áva víśvāni vŕ̥ṣṇiyā  
+तुवे꣡ वि꣡श्वा त꣡विषी सध्रि꣡अग् घिता꣡  
+त꣡व रा꣡धः सोमपीथा꣡य हर्षते  
+त꣡व व꣡ज्रश् चिकिते बाहुवो꣡र् हितो꣡  
+वृश्चा꣡ श꣡त्रोर् अ꣡व वि꣡श्वानि व्ŕ̥ष्णिया  

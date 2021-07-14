@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yád indra te cátasro  
-yác chūra sánti tisráḥ  
-yád vā páñca kṣitīnã́m  
-ávas tát sú na ā́ bhara  
+य꣡द् इन्द्र ते च꣡तस्रो  
+य꣡च् छूर स꣡न्ति तिस्रः꣡  
+य꣡द् वा प꣡ञ्च क्षितीन्ã꣡म्  
+अ꣡वस् त꣡त् सु꣡ न आ꣡ भर  

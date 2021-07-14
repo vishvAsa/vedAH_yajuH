@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-tán ma r̥tám indra śūra citra pātu  
-apó ná vajrin duritā́ti parṣi bhū́ri  
-kadā́ na indra rāyá ā́ daśasyer  
-viśvápsnyasya spr̥hayā́yiyasya rājan  
+त꣡न् म ऋत꣡म् इन्द्र शूर चित्र पातु  
+अपो꣡ न꣡ वज्रिन् दुरिता꣡ति पर्षि भू꣡रि  
+कदा꣡ न इन्द्र राय꣡ आ꣡ दशस्येर्  
+विश्व꣡प्स्न्यस्य स्पृहया꣡यियस्य राजन्  

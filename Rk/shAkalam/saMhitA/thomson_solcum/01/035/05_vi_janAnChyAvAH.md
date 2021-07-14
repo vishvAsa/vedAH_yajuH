@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ví jánāñ chyāvā́ḥ śitipā́do akhyan  
-ráthaṃ híraṇyapraügaṃ váhantaḥ  
-śáśvad víśaḥ savitúr daíviyasya  
-upásthe víśvā bhúvanāni tasthuḥ  
+वि꣡ ज꣡नाञ् छ्यावाः꣡ शितिपा꣡दो अख्यन्  
+र꣡थं हि꣡रण्यप्रüगं व꣡हन्तः  
+श꣡श्वद् वि꣡शः सवितु꣡र् दइ꣡वियस्य  
+उप꣡स्थे वि꣡श्वा भु꣡वनानि तस्थुः  

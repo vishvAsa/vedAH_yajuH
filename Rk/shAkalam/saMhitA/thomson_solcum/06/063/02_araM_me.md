@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áram me gantaṃ hávanāya asmaí  
-gr̥ṇānā́ yáthā píbātho ándhaḥ  
-pári ha tyád · vartír yātho riṣó  
-ná yát páro ná ántaras tuturyā́t  
+अ꣡रम् मे गन्तं ह꣡वनाय अस्मइ꣡  
+गृणाना꣡ य꣡था पि꣡बाथो अ꣡न्धः  
+प꣡रि ह त्य꣡द् · वर्ति꣡र् याथो रिषो꣡  
+न꣡ य꣡त् प꣡रो न꣡ अ꣡न्तरस् तुतुर्या꣡त्  

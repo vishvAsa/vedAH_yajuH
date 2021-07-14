@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-yāvayáddveṣasaṃ tuvā  
-cikitvít sūnr̥tāvari  
-práti stómair abhutsmahi  
+यावय꣡द्द्वेषसं तुवा  
+चिकित्वि꣡त् सूनृतावरि  
+प्र꣡ति स्तो꣡मैर् अभुत्स्महि  

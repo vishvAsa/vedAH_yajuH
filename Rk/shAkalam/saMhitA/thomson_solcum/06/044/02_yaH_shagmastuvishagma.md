@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yáḥ śagmás tuviśagma te  
-rāyó dāmā́ matīnã́m  
-sómaḥ sutáḥ sá indra te  
-ásti svadhāpate mádaḥ  
+यः꣡ शग्म꣡स् तुविशग्म ते  
+रायो꣡ दामा꣡ मतीन्ã꣡म्  
+सो꣡मः सुतः꣡ स꣡ इन्द्र ते  
+अ꣡स्ति स्वधापते म꣡दः  

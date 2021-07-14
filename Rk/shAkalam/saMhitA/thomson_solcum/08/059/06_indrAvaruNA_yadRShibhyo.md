@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-índrāvaruṇā yád r̥ṣíbhyo manīṣā́ṃ  
-vācó matíṃ śrutám adattam ágre  
-yā́ni sthā́nāni asr̥janta dhī́rā  
-yajñáṃ tanvānā́s tápasābhy àpaśyam  
+इ꣡न्द्रावरुणा य꣡द् ऋषि꣡भ्यो मनीषां꣡  
+वाचो꣡ मतिं꣡ श्रुत꣡म् अदत्तम् अ꣡ग्रे  
+या꣡नि स्था꣡नानि असृजन्त धी꣡रा  
+यज्ञं꣡ तन्वाना꣡स् त꣡पसाभ्य् अ᳡पश्यम्  

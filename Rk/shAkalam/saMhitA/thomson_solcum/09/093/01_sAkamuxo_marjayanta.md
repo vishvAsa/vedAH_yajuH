@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sākamúkṣo marjayanta svásāro  
-dáśa dhī́rasya dhītáyo dhánutrīḥ  
-háriḥ páry adravaj jā́ḥ sū́riyasya  
-dróṇaṃ nanakṣe átiyo ná vājī́  
+साकमु꣡क्षो मर्जयन्त स्व꣡सारो  
+द꣡श धी꣡रस्य धीत꣡यो ध꣡नुत्रीः  
+ह꣡रिः प꣡र्य् अद्रवज् जाः꣡ सू꣡रियस्य  
+द्रो꣡णं ननक्षे अ꣡तियो न꣡ वाजी꣡  

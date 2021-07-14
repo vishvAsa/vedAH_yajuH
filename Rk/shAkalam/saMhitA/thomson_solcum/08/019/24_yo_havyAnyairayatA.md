@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-yó havyā́ni aírayatā mánurhito  
-devá āsā́ sugandhínā  
-vívāsate vā́riyāṇi suadhvaró  
-hótā devó ámartiyaḥ  
+यो꣡ हव्या꣡नि अइ꣡रयता म꣡नुर्हितो  
+देव꣡ आसा꣡ सुगन्धि꣡ना  
+वि꣡वासते वा꣡रियाणि सुअध्वरो꣡  
+हो꣡ता देवो꣡ अ꣡मर्तियः  

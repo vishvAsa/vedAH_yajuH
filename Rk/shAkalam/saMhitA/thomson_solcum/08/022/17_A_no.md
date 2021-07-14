@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-ā́ no áśvāvad aśvinā  
-vartír yāsiṣṭam madhupātamā narā  
-gómad dasrā híraṇyavat  
+आ꣡ नो अ꣡श्वावद् अश्विना  
+वर्ति꣡र् यासिष्टम् मधुपातमा नरा  
+गो꣡मद् दस्रा हि꣡रण्यवत्  

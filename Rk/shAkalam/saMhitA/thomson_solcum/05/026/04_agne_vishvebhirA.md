@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ágne víśvebhir ā́ gahi  
-devébhir havyádātaye  
-hótāraṃ tvā vr̥ṇīmahe  
+अ꣡ग्ने वि꣡श्वेभिर् आ꣡ गहि  
+देवे꣡भिर् हव्य꣡दातये  
+हो꣡तारं त्वा वृणीमहे  

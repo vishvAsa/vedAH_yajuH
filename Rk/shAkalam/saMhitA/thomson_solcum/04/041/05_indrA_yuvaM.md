@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índrā yuváṃ varuṇā bhūtám asyā́  
-dhiyáḥ pretā́rā vr̥ṣabhéva dhenóḥ  
-sā́ no duhīyad yávaseva gatvī́  
-sahásradhārā páyasā mahī́ gaúḥ  
+इ꣡न्द्रा युवं꣡ वरुणा भूत꣡म् अस्या꣡  
+धियः꣡ प्रेता꣡रा वृषभे꣡व धेनोः꣡  
+सा꣡ नो दुहीयद् य꣡वसेव गत्वी꣡  
+सह꣡स्रधारा प꣡यसा मही꣡ गउः꣡  

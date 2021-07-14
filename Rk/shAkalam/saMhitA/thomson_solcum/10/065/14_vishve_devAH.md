@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-víśve devā́ḥ sahá dhībhíḥ púraṃdhiyā  
-mánor yájatrā amŕ̥tā r̥tajñã́ḥ  
-rātiṣā́co abhiṣā́caḥ suvarvídaḥ  
-súvar gíro bráhma sūktáṃ juṣerata  
+वि꣡श्वे देवाः꣡ सह꣡ धीभिः꣡ पु꣡रंधिया  
+म꣡नोर् य꣡जत्रा अम्ŕ̥ता ऋतज्ञ्ãः꣡  
+रातिषा꣡चो अभिषा꣡चः सुवर्वि꣡दः  
+सु꣡वर् गि꣡रो ब्र꣡ह्म सूक्तं꣡ जुषेरत  

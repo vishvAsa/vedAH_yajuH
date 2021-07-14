@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-agnínéndreṇa váruṇena víṣṇunā  
-ādityaí rudraír vásubhiḥ sacābhúvā  
-sajóṣasā uṣásā sū́riyeṇa ca  
-sómam pibatam aśvinā  
+अग्नि꣡ने꣡न्द्रेण व꣡रुणेन वि꣡ष्णुना  
+आदित्यइ꣡ रुद्रइ꣡र् व꣡सुभिः सचाभु꣡वा  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+सो꣡मम् पिबतम् अश्विना  

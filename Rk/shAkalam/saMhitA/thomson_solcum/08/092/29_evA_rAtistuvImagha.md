@@ -2,6 +2,6 @@
 title = "029"
 
 +++
-evā́ rātís tuvīmagha  
-víśvebhir dhāyi dhātŕ̥bhiḥ  
-ádhā cid indra me sácā  
+एवा꣡ राति꣡स् तुवीमघ  
+वि꣡श्वेभिर् धायि धात्ŕ̥भिः  
+अ꣡धा चिद् इन्द्र मे स꣡चा  

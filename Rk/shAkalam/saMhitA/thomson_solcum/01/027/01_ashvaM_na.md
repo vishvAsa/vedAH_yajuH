@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-áśvaṃ ná tvā vā́ravantaṃ  
-vandádhyā agníṃ námobhiḥ  
-samrā́jantam adhvarā́ṇām  
+अ꣡श्वं न꣡ त्वा वा꣡रवन्तं  
+वन्द꣡ध्या अग्निं꣡ न꣡मोभिः  
+सम्रा꣡जन्तम् अध्वरा꣡णाम्  

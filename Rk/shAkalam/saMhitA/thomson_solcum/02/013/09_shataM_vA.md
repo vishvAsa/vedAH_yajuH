@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-śatáṃ vā yásya dáśa sākám ā́diya  
-ékasya śruṣṭaú yád dha codám ā́vitha  
-arajjaú dásyūn sám unab dabhī́taye  
-suprāvíyo abhavaḥ sā́si ukthíyaḥ  
+शतं꣡ वा य꣡स्य द꣡श साक꣡म् आ꣡दिय  
+ए꣡कस्य श्रुष्टउ꣡ य꣡द् ध चोद꣡म् आ꣡विथ  
+अरज्जउ꣡ द꣡स्यून् स꣡म् उनब् दभी꣡तये  
+सुप्रावि꣡यो अभवः सा꣡सि उक्थि꣡यः  

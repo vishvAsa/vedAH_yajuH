@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tám ī́śānaṃ jágatas tasthúṣas pátiṃ  
-dhiyaṃjinvám ávase hūmahe vayám  
-pūṣā́ no yáthā védasām ásad vr̥dhé  
-rakṣitā́ pāyúr ádabdhaḥ suastáye  
+त꣡म् ई꣡शानं ज꣡गतस् तस्थु꣡षस् प꣡तिं  
+धियंजिन्व꣡म् अ꣡वसे हूमहे वय꣡म्  
+पूषा꣡ नो य꣡था वे꣡दसाम् अ꣡सद् वृधे꣡  
+रक्षिता꣡ पायु꣡र् अ꣡दब्धः सुअस्त꣡ये  

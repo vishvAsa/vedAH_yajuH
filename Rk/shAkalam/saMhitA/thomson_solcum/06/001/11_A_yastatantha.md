@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ā́ yás tatántha ródasī ví bhāsā́  
-śrávobhiś ca śravasíyas tárutraḥ  
-br̥hádbhir vā́jai sthávirebhir asmé  
-revádbhir agne vitaráṃ ví bhāhi  
+आ꣡ य꣡स् तत꣡न्थ रो꣡दसी वि꣡ भासा꣡  
+श्र꣡वोभिश् च श्रवसि꣡यस् त꣡रुत्रः  
+बृह꣡द्भिर् वा꣡जै स्थ꣡विरेभिर् अस्मे꣡  
+रेव꣡द्भिर् अग्ने वितरं꣡ वि꣡ भाहि  

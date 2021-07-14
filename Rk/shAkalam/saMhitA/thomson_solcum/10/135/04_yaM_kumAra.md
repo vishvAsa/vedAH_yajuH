@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yáṃ kumāra prā́vartayo  
-ráthaṃ víprebhiyas pári  
-táṃ sā́mā́nu prā́vartata  
-sám itó nāví ā́hitam  
+यं꣡ कुमार प्रा꣡वर्तयो  
+र꣡थं वि꣡प्रेभियस् प꣡रि  
+तं꣡ सा꣡मा꣡नु प्रा꣡वर्तत  
+स꣡म् इतो꣡ नावि꣡ आ꣡हितम्  

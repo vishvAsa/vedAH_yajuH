@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-tám ít suhavyám aṅgiraḥ  
-sudeváṃ sahaso yaho  
-jánā āhuḥ subarhíṣam  
+त꣡म् इ꣡त् सुहव्य꣡म् अङ्गिरः  
+सुदेवं꣡ सहसो यहो  
+ज꣡ना आहुः सुबर्हि꣡षम्  

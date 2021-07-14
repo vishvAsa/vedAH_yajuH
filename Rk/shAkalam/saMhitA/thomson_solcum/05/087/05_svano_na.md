@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-svanó ná vo ámavān rejayad vŕ̥ṣā  
-tveṣó yayís taviṣá evayā́marut  
-yénā sáhanta r̥ñjáta svárociṣa  
-sthā́raśmāno hiraṇyáyāḥ  
-suāyudhā́sa iṣmíṇaḥ  
+स्वनो꣡ न꣡ वो अ꣡मवान् रेजयद् व्ŕ̥षा  
+त्वेषो꣡ ययि꣡स् तविष꣡ एवया꣡मरुत्  
+ये꣡ना स꣡हन्त ऋञ्ज꣡त स्व꣡रोचिष  
+स्था꣡रश्मानो हिरण्य꣡याः  
+सुआयुधा꣡स इष्मि꣡णः  

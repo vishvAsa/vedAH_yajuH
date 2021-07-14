@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ánu tvā mahī́ pā́jasī acakré  
-dyā́vākṣā́mā madatām indra kárman  
-tuváṃ vr̥trám āśáyānaṃ sirā́su  
-mahó vájreṇa siṣvapo varā́hum  
+अ꣡नु त्वा मही꣡ पा꣡जसी अचक्रे꣡  
+द्या꣡वाक्षा꣡मा मदताम् इन्द्र क꣡र्मन्  
+तुवं꣡ वृत्र꣡म् आश꣡यानं सिरा꣡सु  
+महो꣡ व꣡ज्रेण सिष्वपो वरा꣡हुम्  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-abhí tvā gótamā girā́  
-jā́tavedo vícarṣaṇe  
-dyumnaír abhí prá ṇonumaḥ  
+अभि꣡ त्वा गो꣡तमा गिरा꣡  
+जा꣡तवेदो वि꣡चर्षणे  
+द्युम्नइ꣡र् अभि꣡ प्र꣡ णोनुमः  

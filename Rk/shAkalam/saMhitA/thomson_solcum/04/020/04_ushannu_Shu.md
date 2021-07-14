@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-uśánn u ṣú ṇaḥ sumánā upāké  
-sómasya nú súṣutasya svadhāvaḥ  
-pã́ indra prátibhr̥tasya mádhvaḥ  
-sám ándhasā mamadaḥ pr̥ṣṭhíyena  
+उश꣡न्न् उ षु꣡ णः सुम꣡ना उपाके꣡  
+सो꣡मस्य नु꣡ सु꣡षुतस्य स्वधावः  
+प्ã꣡ इन्द्र प्र꣡तिभृतस्य म꣡ध्वः  
+स꣡म् अ꣡न्धसा ममदः पृष्ठि꣡येन  

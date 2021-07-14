@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-śuṣmíntamaṃ na ūtáye  
-dyumnínam pāhi jā́gr̥vim  
-índra sómaṃ śatakrato  
+शुष्मि꣡न्तमं न ऊत꣡ये  
+द्युम्नि꣡नम् पाहि जा꣡गृविम्  
+इ꣡न्द्र सो꣡मं शतक्रतो  

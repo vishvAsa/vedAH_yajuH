@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-táṃ devā́ budhné rájasaḥ sudáṃsasaṃ  
-diváspr̥thivyór aratíṃ ní erire  
-rátham iva védiyaṃ śukráśociṣam  
-agním mitráṃ ná kṣitíṣu praśáṃsiyam  
+तं꣡ देवा꣡ बुध्ने꣡ र꣡जसः सुदं꣡ससं  
+दिव꣡स्पृथिव्यो꣡र् अरतिं꣡ नि꣡ एरिरे  
+र꣡थम् इव वे꣡दियं शुक्र꣡शोचिषम्  
+अग्नि꣡म् मित्रं꣡ न꣡ क्षिति꣡षु प्रशं꣡सियम्  

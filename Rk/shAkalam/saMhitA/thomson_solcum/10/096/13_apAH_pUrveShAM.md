@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ápāḥ pū́rveṣāṃ harivaḥ sutā́nām  
-átho idáṃ sávanaṃ kévalaṃ te  
-mamaddhí sómam mádhumantam indra  
-satrā́ vr̥ṣañ jaṭhára ā́ vr̥ṣasva  
+अ꣡पाः पू꣡र्वेषां हरिवः सुता꣡नाम्  
+अ꣡थो इदं꣡ स꣡वनं के꣡वलं ते  
+ममद्धि꣡ सो꣡मम् म꣡धुमन्तम् इन्द्र  
+सत्रा꣡ वृषञ् जठ꣡र आ꣡ वृषस्व  

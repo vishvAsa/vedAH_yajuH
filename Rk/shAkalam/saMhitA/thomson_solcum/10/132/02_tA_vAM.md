@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tā́ vām mitrāvaruṇā dhārayátkṣitī  
-suṣumnā́ iṣitatvátā yajāmasi  
-yuvóḥ krāṇā́ya sakhiyaír  
-abhí ṣiyāma rakṣásaḥ  
+ता꣡ वाम् मित्रावरुणा धारय꣡त्क्षिती  
+सुषुम्ना꣡ इषितत्व꣡ता यजामसि  
+युवोः꣡ क्राणा꣡य सखियइ꣡र्  
+अभि꣡ षियाम रक्ष꣡सः  

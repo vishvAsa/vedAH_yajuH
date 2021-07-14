@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-párā me yanti dhītáyo  
-gā́vo ná gávyūtīr ánu  
-ichántīr urucákṣasam  
+प꣡रा मे यन्ति धीत꣡यो  
+गा꣡वो न꣡ ग꣡व्यूतीर् अ꣡नु  
+इछ꣡न्तीर् उरुच꣡क्षसम्  

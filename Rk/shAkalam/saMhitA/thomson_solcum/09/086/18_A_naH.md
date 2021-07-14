@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-ā́ naḥ soma saṃyátam pipyúṣīm íṣam  
-índo pávasva pávamāno asrídham  
-yā́ no dóhate trír áhann ásaścuṣī  
-kṣumád vā́javan mádhumad suvī́riyam  
+आ꣡ नः सोम संय꣡तम् पिप्यु꣡षीम् इ꣡षम्  
+इ꣡न्दो प꣡वस्व प꣡वमानो अस्रि꣡धम्  
+या꣡ नो दो꣡हते त्रि꣡र् अ꣡हन्न् अ꣡सश्चुषी  
+क्षुम꣡द् वा꣡जवन् म꣡धुमद् सुवी꣡रियम्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mā́ no gúhyā rípa āyór áhan dabhan  
-mā́ na ābhyó rīradho duchúnābhiyaḥ  
-mā́ no ví yauḥ sakhiyā́ viddhí tásya naḥ  
-sumnāyatā́ mánasā tát tuvemahe  
+मा꣡ नो गु꣡ह्या रि꣡प आयो꣡र् अ꣡हन् दभन्  
+मा꣡ न आभ्यो꣡ रीरधो दुछु꣡नाभियः  
+मा꣡ नो वि꣡ यौः सखिया꣡ विद्धि꣡ त꣡स्य नः  
+सुम्नायता꣡ म꣡नसा त꣡त् तुवेमहे  

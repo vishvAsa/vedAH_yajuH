@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ví akr̥ṇota camasáṃ caturdhā́  
-sákhe ví śikṣa íti abravīta  
-áthaita vājā amŕ̥tasya pánthāṃ  
-gaṇáṃ devā́nām r̥bhavaḥ suhastāḥ  
+वि꣡ अकृणोत चमसं꣡ चतुर्धा꣡  
+स꣡खे वि꣡ शिक्ष इ꣡ति अब्रवीत  
+अ꣡थैत वाजा अम्ŕ̥तस्य प꣡न्थां  
+गणं꣡ देवा꣡नाम् ऋभवः सुहस्ताः  

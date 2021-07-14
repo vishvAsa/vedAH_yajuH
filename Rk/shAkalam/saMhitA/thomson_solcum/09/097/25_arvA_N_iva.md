@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-árvām̐ iva śrávase sātím ácha  
-índrasya vāyór abhí vītím arṣa  
-sá naḥ sahásrā br̥hatī́r íṣo dā  
-bhávā soma draviṇovít punānáḥ  
+अ꣡र्वाँ इव श्र꣡वसे साति꣡म् अ꣡छ  
+इ꣡न्द्रस्य वायो꣡र् अभि꣡ वीति꣡म् अर्ष  
+स꣡ नः सह꣡स्रा बृहती꣡र् इ꣡षो दा  
+भ꣡वा सोम द्रविणोवि꣡त् पुनानः꣡  

@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-mándantu tvā mandíno vāyav índavo  
-asmát krāṇā́saḥ súkr̥tā abhídyavo  
-góbhiḥ krāṇā́ abhídyavaḥ  
-yád dha krāṇā́ irádhiyai  
-dákṣaṃ sácanta ūtáyaḥ  
-sadhrīcīnā́ niyúto dāváne dhíya  
-úpa bruvata īṃ dhíyaḥ  
+म꣡न्दन्तु त्वा मन्दि꣡नो वायव् इ꣡न्दवो  
+अस्म꣡त् क्राणा꣡सः सु꣡कृता अभि꣡द्यवो  
+गो꣡भिः क्राणा꣡ अभि꣡द्यवः  
+य꣡द् ध क्राणा꣡ इर꣡धियै  
+द꣡क्षं स꣡चन्त ऊत꣡यः  
+सध्रीचीना꣡ नियु꣡तो दाव꣡ने धि꣡य  
+उ꣡प ब्रुवत ईं धि꣡यः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-agníṃ vo devám agníbhiḥ sajóṣā  
-yájiṣṭhaṃ dūtám adhvaré kr̥ṇudhvam  
-yó mártiyeṣu nídhruvir r̥tā́vā  
-tápurmūrdhā ghr̥tã́nnaḥ pavākáḥ+  
+अग्निं꣡ वो देव꣡म् अग्नि꣡भिः सजो꣡षा  
+य꣡जिष्ठं दूत꣡म् अध्वरे꣡ कृणुध्वम्  
+यो꣡ म꣡र्तियेषु नि꣡ध्रुविर् ऋता꣡वा  
+त꣡पुर्मूर्धा घृत्ã꣡न्नः पवाकः꣡+  

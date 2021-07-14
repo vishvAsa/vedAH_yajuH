@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-práyiṣṭhaṃ+ vo átithiṃ  
-stuṣé mitrám iva priyám  
-agníṃ ráthaṃ ná védiyam  
+प्र꣡यिष्ठं+ वो अ꣡तिथिं  
+स्तुषे꣡ मित्र꣡म् इव प्रिय꣡म्  
+अग्निं꣡ र꣡थं न꣡ वे꣡दियम्  

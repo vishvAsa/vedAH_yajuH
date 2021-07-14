@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-mártaś cid vo nr̥tavo rukmavakṣasa  
-úpa bhrātr̥tvám ā́yati  
-ádhi no gāta marutaḥ sádā hí va  
-āpitvám ásti nídhruvi  
+म꣡र्तश् चिद् वो नृतवो रुक्मवक्षस  
+उ꣡प भ्रातृत्व꣡म् आ꣡यति  
+अ꣡धि नो गात मरुतः स꣡दा हि꣡ व  
+आपित्व꣡म् अ꣡स्ति नि꣡ध्रुवि  

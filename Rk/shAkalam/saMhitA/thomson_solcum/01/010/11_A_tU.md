@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ā́ tū́ na indra kauśika  
-mandasānáḥ sutám piba  
-návyam ā́yuḥ prá sū́ tira  
-kr̥dhī́ sahasrasā́m ŕ̥ṣim  
+आ꣡ तू꣡ न इन्द्र कौशिक  
+मन्दसानः꣡ सुत꣡म् पिब  
+न꣡व्यम् आ꣡युः प्र꣡ सू꣡ तिर  
+कृधी꣡ सहस्रसा꣡म् ŕ̥षिम्  

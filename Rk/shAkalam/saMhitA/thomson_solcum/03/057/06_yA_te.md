@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yā́ te agne párvatasyeva dhā́rā  
-ásaścantī pīpáyad deva citrā́  
-tā́m asmábhyam prámatiṃ jātavedo  
-váso rā́sva sumatíṃ viśvájanyām  
+या꣡ ते अग्ने प꣡र्वतस्येव धा꣡रा  
+अ꣡सश्चन्ती पीप꣡यद् देव चित्रा꣡  
+ता꣡म् अस्म꣡भ्यम् प्र꣡मतिं जातवेदो  
+व꣡सो रा꣡स्व सुमतिं꣡ विश्व꣡जन्याम्  

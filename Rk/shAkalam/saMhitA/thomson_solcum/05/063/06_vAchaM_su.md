@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-vā́caṃ sú mitrāvaruṇāv írāvatīm  
-parjányaś citrā́ṃ vadati tvíṣīmatīm  
-abhrā́ vasata marútaḥ sú māyáyā  
-dyā́ṃ varṣayatam aruṇā́m arepásam  
+वा꣡चं सु꣡ मित्रावरुणाव् इ꣡रावतीम्  
+पर्ज꣡न्यश् चित्रां꣡ वदति त्वि꣡षीमतीम्  
+अभ्रा꣡ वसत मरु꣡तः सु꣡ माय꣡या  
+द्यां꣡ वर्षयतम् अरुणा꣡म् अरेप꣡सम्  

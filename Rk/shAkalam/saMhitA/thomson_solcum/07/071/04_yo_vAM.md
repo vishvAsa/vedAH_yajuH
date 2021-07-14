@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yó vāṃ rátho nr̥patī ásti voḷhā́  
-trivandhuró vásumām̐ usráyāmā  
-ā́ na enā́ nāsatiyópa yātam  
-abhí yád vāṃ viśvápsnio jígāti  
+यो꣡ वां र꣡थो नृपती अ꣡स्ति वोऌहा꣡  
+त्रिवन्धुरो꣡ व꣡सुमाँ उस्र꣡यामा  
+आ꣡ न एना꣡ नासतियो꣡प यातम्  
+अभि꣡ य꣡द् वां विश्व꣡प्स्निओ जि꣡गाति  

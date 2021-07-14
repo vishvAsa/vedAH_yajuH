@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sácā sómeṣu puruhūta vajrivo  
-mádāya dyukṣa somapāḥ  
-tvám íd dhí brahmakŕ̥te kā́miyaṃ vásu  
-dáyiṣṭhaḥ+ sunvaté bhúvaḥ  
+स꣡चा सो꣡मेषु पुरुहूत वज्रिवो  
+म꣡दाय द्युक्ष सोमपाः  
+त्व꣡म् इ꣡द् धि꣡ ब्रह्मक्ŕ̥ते का꣡मियं व꣡सु  
+द꣡यिष्ठः+ सुन्वते꣡ भु꣡वः  

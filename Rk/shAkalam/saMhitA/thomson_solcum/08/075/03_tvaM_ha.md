@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tuváṃ ha yád yaviṣṭhiya  
-sáhasaḥ sūnav āhuta  
-r̥tā́vā yajñíyo bhúvaḥ  
+तुवं꣡ ह य꣡द् यविष्ठिय  
+स꣡हसः सूनव् आहुत  
+ऋता꣡वा यज्ञि꣡यो भु꣡वः  

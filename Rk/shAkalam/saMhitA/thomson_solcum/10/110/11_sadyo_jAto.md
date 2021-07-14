@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-sadyó jātó ví amimīta yajñám  
-agnír devā́nām abhavat purogā́ḥ  
-asyá hótuḥ pradíśy r̥tásya vācí  
-svā́hākr̥taṃ havír adantu devā́ḥ  
+सद्यो꣡ जातो꣡ वि꣡ अमिमीत यज्ञ꣡म्  
+अग्नि꣡र् देवा꣡नाम् अभवत् पुरोगाः꣡  
+अस्य꣡ हो꣡तुः प्रदि꣡श्य् ऋत꣡स्य वाचि꣡  
+स्वा꣡हाकृतं हवि꣡र् अदन्तु देवाः꣡  

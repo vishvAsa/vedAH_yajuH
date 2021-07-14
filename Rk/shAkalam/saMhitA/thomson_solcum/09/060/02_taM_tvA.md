@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-táṃ tvā sahásracakṣasam  
-átho sahásrabharṇasam  
-áti vā́ram apāviṣuḥ  
+तं꣡ त्वा सह꣡स्रचक्षसम्  
+अ꣡थो सह꣡स्रभर्णसम्  
+अ꣡ति वा꣡रम् अपाविषुः  

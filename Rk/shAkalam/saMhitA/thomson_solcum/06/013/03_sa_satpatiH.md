@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá sátpatiḥ śávasā hanti vr̥trám  
-ágne vípro ví paṇér bharti vā́jam  
-yáṃ tvám praceta r̥tajāta rāyā́  
-sajóṣā náptrā apã́ṃ hinóṣi  
+स꣡ स꣡त्पतिः श꣡वसा हन्ति वृत्र꣡म्  
+अ꣡ग्ने वि꣡प्रो वि꣡ पणे꣡र् भर्ति वा꣡जम्  
+यं꣡ त्व꣡म् प्रचेत ऋतजात राया꣡  
+सजो꣡षा न꣡प्त्रा अप्ãं꣡ हिनो꣡षि  

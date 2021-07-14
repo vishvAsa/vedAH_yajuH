@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-kakuháṃ cit tuvā kave  
-mándantu dhr̥ṣṇav índavaḥ  
-ā́ tvā paṇíṃ yád ī́mahe  
+ककुहं꣡ चित् तुवा कवे  
+म꣡न्दन्तु धृष्णव् इ꣡न्दवः  
+आ꣡ त्वा पणिं꣡ य꣡द् ई꣡महे  

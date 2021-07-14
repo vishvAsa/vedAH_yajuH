@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ví aktū́n rudrā ví áhāni śikvaso  
-ví antárikṣaṃ ví rájāṃsi dhūtayaḥ  
-ví yád ájrām̐ ájatha nā́va īṃ yathā  
-ví durgā́ṇi maruto nā́ha riṣyatha  
+वि꣡ अक्तू꣡न् रुद्रा वि꣡ अ꣡हानि शिक्वसो  
+वि꣡ अन्त꣡रिक्षं वि꣡ र꣡जांसि धूतयः  
+वि꣡ य꣡द् अ꣡ज्राँ अ꣡जथ ना꣡व ईं यथा  
+वि꣡ दुर्गा꣡णि मरुतो ना꣡ह रिष्यथ  

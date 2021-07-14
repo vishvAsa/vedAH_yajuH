@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-indriyā́ṇi śatakrato  
-yā́ te jáneṣu pañcásu  
-índra tā́ni ta ā́ vr̥ṇe  
+इन्द्रिया꣡णि शतक्रतो  
+या꣡ ते ज꣡नेषु पञ्च꣡सु  
+इ꣡न्द्र ता꣡नि त आ꣡ वृणे  

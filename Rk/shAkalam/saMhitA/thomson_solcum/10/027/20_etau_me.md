@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-etaú me gā́vau pramarásya yuktaú  
-mó ṣú prá sedhīr múhur ín mamandhi  
-ā́paś cid asya ví naśanti árthaṃ  
-sū́raś ca marká úparo babhūvā́n  
+एतउ꣡ मे गा꣡वौ प्रमर꣡स्य युक्तउ꣡  
+मो꣡ षु꣡ प्र꣡ सेधीर् मु꣡हुर् इ꣡न् ममन्धि  
+आ꣡पश् चिद् अस्य वि꣡ नशन्ति अ꣡र्थं  
+सू꣡रश् च मर्क꣡ उ꣡परो बभूवा꣡न्  

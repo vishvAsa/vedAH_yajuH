@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ā́ saváṃ savitúr yathā  
-bhágasyeva bhujíṃ huve  
-agníṃ samudrávāsasam  
+आ꣡ सवं꣡ सवितु꣡र् यथा  
+भ꣡गस्येव भुजिं꣡ हुवे  
+अग्निं꣡ समुद्र꣡वाससम्  

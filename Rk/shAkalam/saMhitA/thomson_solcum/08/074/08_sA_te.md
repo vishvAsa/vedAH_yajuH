@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-sā́ te agne śáṃtamā  
-cániṣṭhā bhavatu priyā́  
-táyā vardhasva súṣṭutaḥ  
+सा꣡ ते अग्ने शं꣡तमा  
+च꣡निष्ठा भवतु प्रिया꣡  
+त꣡या वर्धस्व सु꣡ष्टुतः  

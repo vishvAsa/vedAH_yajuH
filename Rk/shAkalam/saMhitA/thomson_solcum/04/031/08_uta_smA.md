@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-utá smā sadyá ít pári  
-śaśamānā́ya sunvaté  
-purū́ cin maṃhase vásu  
+उत꣡ स्मा सद्य꣡ इ꣡त् प꣡रि  
+शशमाना꣡य सुन्वते꣡  
+पुरू꣡ चिन् मंहसे व꣡सु  

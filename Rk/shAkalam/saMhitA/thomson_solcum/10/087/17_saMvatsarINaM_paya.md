@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-saṃvatsarī́ṇam páya usríyāyās  
-tásya mā́śīd yātudhā́no nr̥cakṣaḥ  
-pīyū́ṣam agne yatamás títr̥psāt  
-tám pratyáñcam arcíṣā vidhya márman  
+संवत्सरी꣡णम् प꣡य उस्रि꣡यायास्  
+त꣡स्य मा꣡शीद् यातुधा꣡नो नृचक्षः  
+पीयू꣡षम् अग्ने यतम꣡स् ति꣡तृप्सात्  
+त꣡म् प्रत्य꣡ञ्चम् अर्चि꣡षा विध्य म꣡र्मन्  

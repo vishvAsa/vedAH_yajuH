@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ te mahá indara+ ūtī́ ugra  
-sámanyavo yát samáranta sénāḥ  
-pátāti didyún náriyasya bāhvór  
-mā́ te máno viṣvadríag ví cārīt  
+आ꣡ ते मह꣡ इन्दर+ ऊती꣡ उग्र  
+स꣡मन्यवो य꣡त् सम꣡रन्त से꣡नाः  
+प꣡ताति दिद्यु꣡न् न꣡रियस्य बाह्वो꣡र्  
+मा꣡ ते म꣡नो विष्वद्रि꣡अग् वि꣡ चारीत्  

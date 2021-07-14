@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-sá jinvate jaṭháreṣu prajajñivā́n  
-vŕ̥ṣā citréṣu nā́nadan ná siṃháḥ  
-vaiśvānaráḥ pr̥thupā́jā ámartiyo  
-vásu rátnā dáyamāno ví dāśúṣe  
+स꣡ जिन्वते जठ꣡रेषु प्रजज्ञिवा꣡न्  
+व्ŕ̥षा चित्रे꣡षु ना꣡नदन् न꣡ सिंहः꣡  
+वैश्वानरः꣡ पृथुपा꣡जा अ꣡मर्तियो  
+व꣡सु र꣡त्ना द꣡यमानो वि꣡ दाशु꣡षे  

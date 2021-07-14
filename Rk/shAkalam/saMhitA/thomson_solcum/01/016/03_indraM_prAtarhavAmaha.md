@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-índram prātár havāmaha  
-índram prayatí adhvaré  
-índraṃ sómasya pītáye  
+इ꣡न्द्रम् प्रात꣡र् हवामह  
+इ꣡न्द्रम् प्रयति꣡ अध्वरे꣡  
+इ꣡न्द्रं सो꣡मस्य पीत꣡ये  

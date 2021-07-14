@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-áyuyutsann anavadyásya sénām  
-áyātayanta kṣitáyo návagvāḥ  
-vr̥ṣāyúdho ná vádhrayo níraṣṭāḥ  
-pravádbhir índrāc citáyanta āyan  
+अ꣡युयुत्सन्न् अनवद्य꣡स्य से꣡नाम्  
+अ꣡यातयन्त क्षित꣡यो न꣡वग्वाः  
+वृषायु꣡धो न꣡ व꣡ध्रयो नि꣡रष्टाः  
+प्रव꣡द्भिर् इ꣡न्द्राच् चित꣡यन्त आयन्  

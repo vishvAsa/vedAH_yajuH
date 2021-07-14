@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yúvāno rudrā́ ajárā abhoggháno  
-vavakṣúr ádhrigāvaḥ párvatā iva  
-dr̥̄ḷhā́+ cid víśvā bhúvanāni pā́rthivā  
-prá cyāvayanti diviyā́ni majmánā  
+यु꣡वानो रुद्रा꣡ अज꣡रा अभोग्घ꣡नो  
+ववक्षु꣡र् अ꣡ध्रिगावः प꣡र्वता इव  
+दॄऌहा꣡+ चिद् वि꣡श्वा भु꣡वनानि पा꣡र्थिवा  
+प्र꣡ च्यावयन्ति दिविया꣡नि मज्म꣡ना  

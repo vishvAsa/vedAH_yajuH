@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-víprasya vā stuvatáḥ sahaso yaho  
-makṣū́tamasya rātíṣu  
-avódevam upárimartiyaṃ kr̥dhi  
-váso vividúṣo vácaḥ  
+वि꣡प्रस्य वा स्तुवतः꣡ सहसो यहो  
+मक्षू꣡तमस्य राति꣡षु  
+अवो꣡देवम् उप꣡रिमर्तियं कृधि  
+व꣡सो विविदु꣡षो व꣡चः  

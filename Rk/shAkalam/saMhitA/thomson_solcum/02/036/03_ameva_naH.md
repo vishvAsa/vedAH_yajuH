@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-améva naḥ suhavā ā́ hí gántana  
-ní barhíṣi sadatanā ráṇiṣṭana  
-áthā mandasva jujuṣāṇó ándhasas  
-tváṣṭar devébhir jánibhiḥ sumádgaṇaḥ  
+अमे꣡व नः सुहवा आ꣡ हि꣡ ग꣡न्तन  
+नि꣡ बर्हि꣡षि सदतना र꣡णिष्टन  
+अ꣡था मन्दस्व जुजुषाणो꣡ अ꣡न्धसस्  
+त्व꣡ष्टर् देवे꣡भिर् ज꣡निभिः सुम꣡द्गणः  

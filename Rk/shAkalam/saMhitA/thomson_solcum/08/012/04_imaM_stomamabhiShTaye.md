@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-imáṃ stómam abhíṣṭaye  
-ghr̥táṃ ná pūtám adrivaḥ  
-yénā nú sadyá ójasā vavákṣitha  
+इमं꣡ स्तो꣡मम् अभि꣡ष्टये  
+घृतं꣡ न꣡ पूत꣡म् अद्रिवः  
+ये꣡ना नु꣡ सद्य꣡ ओ꣡जसा वव꣡क्षिथ  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tám usrā́m índraṃ ná réjamānam  
-agníṃ gīrbhír námobhir ā́ kr̥ṇudhvam  
-ā́ yáṃ víprāso matíbhir gr̥ṇánti  
-jātávedasaṃ juhúvaṃ sahā́nām  
+त꣡म् उस्रा꣡म् इ꣡न्द्रं न꣡ रे꣡जमानम्  
+अग्निं꣡ गीर्भि꣡र् न꣡मोभिर् आ꣡ कृणुध्वम्  
+आ꣡ यं꣡ वि꣡प्रासो मति꣡भिर् गृण꣡न्ति  
+जात꣡वेदसं जुहु꣡वं सहा꣡नाम्  

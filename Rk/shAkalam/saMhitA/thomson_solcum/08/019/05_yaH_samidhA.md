@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yáḥ samídhā yá ā́hutī  
-yó védena dadā́śa márto agnáye  
-yó námasā suadhvaráḥ  
+यः꣡ समि꣡धा य꣡ आ꣡हुती  
+यो꣡ वे꣡देन ददा꣡श म꣡र्तो अग्न꣡ये  
+यो꣡ न꣡मसा सुअध्वरः꣡  

@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-tuváṃ soma sū́ra éṣas  
-tokásya sātā́ tanū́nām  
-vr̥ṇīmáhe sakhiyā́ya  
-vr̥ṇīmáhe yújiyāya  
+तुवं꣡ सोम सू꣡र ए꣡षस्  
+तोक꣡स्य साता꣡ तनू꣡नाम्  
+वृणीम꣡हे सखिया꣡य  
+वृणीम꣡हे यु꣡जियाय  

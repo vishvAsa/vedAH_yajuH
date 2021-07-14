@@ -2,9 +2,9 @@
 title = "010"
 
 +++
-yád devāḥ śárma śaraṇáṃ  
-yád bhadráṃ yád anāturám  
-tridhā́tu yád varūthíyaṃ  
-tád asmā́su ví yantana  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+य꣡द् देवाः श꣡र्म शरणं꣡  
+य꣡द् भद्रं꣡ य꣡द् अनातुर꣡म्  
+त्रिधा꣡तु य꣡द् वरूथि꣡यं  
+त꣡द् अस्मा꣡सु वि꣡ यन्तन  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

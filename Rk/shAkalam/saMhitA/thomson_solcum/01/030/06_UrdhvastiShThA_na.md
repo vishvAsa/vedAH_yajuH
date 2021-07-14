@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ūrdhvás tiṣṭhā na ūtáye  
-asmín vā́je śatakrato  
-sám anyéṣu bravāvahai  
+ऊर्ध्व꣡स् तिष्ठा न ऊत꣡ये  
+अस्मि꣡न् वा꣡जे शतक्रतो  
+स꣡म् अन्ये꣡षु ब्रवावहै  

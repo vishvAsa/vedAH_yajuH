@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-kṣéti kṣémebhiḥ sādhúbhir  
-nákir yáṃ ghnánti hánti yáḥ  
-ágne suvī́ra edhate  
+क्षे꣡ति क्षे꣡मेभिः साधु꣡भिर्  
+न꣡किर् यं꣡ घ्न꣡न्ति ह꣡न्ति यः꣡  
+अ꣡ग्ने सुवी꣡र एधते  

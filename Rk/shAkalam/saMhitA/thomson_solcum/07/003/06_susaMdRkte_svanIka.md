@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-susaṃdŕ̥k te suanīka prátīkaṃ  
-ví yád rukmó ná rócasa upāké  
-divó ná te tanyatúr eti śúṣmaś  
-citró ná sū́raḥ práti cakṣi bhānúm  
+सुसंद्ŕ̥क् ते सुअनीक प्र꣡तीकं  
+वि꣡ य꣡द् रुक्मो꣡ न꣡ रो꣡चस उपाके꣡  
+दिवो꣡ न꣡ ते तन्यतु꣡र् एति शु꣡ष्मश्  
+चित्रो꣡ न꣡ सू꣡रः प्र꣡ति चक्षि भानु꣡म्  

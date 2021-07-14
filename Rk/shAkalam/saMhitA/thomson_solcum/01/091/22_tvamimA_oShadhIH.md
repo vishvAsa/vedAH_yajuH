@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-tuvám imā́ óṣadhīḥ soma víśvās  
-tuvám apó ajanayas tuváṃ gā́ḥ  
-tvám ā́ tatantha urú antárikṣaṃ  
-tuváṃ jyótiṣā ví támo vavartha  
+तुव꣡म् इमा꣡ ओ꣡षधीः सोम वि꣡श्वास्  
+तुव꣡म् अपो꣡ अजनयस् तुवं꣡ गाः꣡  
+त्व꣡म् आ꣡ ततन्थ उरु꣡ अन्त꣡रिक्षं  
+तुवं꣡ ज्यो꣡तिषा वि꣡ त꣡मो ववर्थ  

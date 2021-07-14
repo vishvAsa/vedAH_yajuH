@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sóma ékebhyaḥ pavate  
-ghr̥tám éka úpāsate  
-yébhyo mádhu pradhā́vati  
-tā́ṃś cid evā́pi gachatāt  
+सो꣡म ए꣡केभ्यः पवते  
+घृत꣡म् ए꣡क उ꣡पासते  
+ये꣡भ्यो म꣡धु प्रधा꣡वति  
+तां꣡श् चिद् एवा꣡पि गछतात्  

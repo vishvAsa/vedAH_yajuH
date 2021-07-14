@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-prá śóśucatyā uṣáso ná ketúr  
-asinvā́ te vartatām indra hetíḥ  
-áśmeva vidhya divá ā́ sr̥jānás  
-tápiṣṭhena héṣasā dróghamitrān  
+प्र꣡ शो꣡शुचत्या उष꣡सो न꣡ केतु꣡र्  
+असिन्वा꣡ ते वर्तताम् इन्द्र हेतिः꣡  
+अ꣡श्मेव विध्य दिव꣡ आ꣡ सृजान꣡स्  
+त꣡पिष्ठेन हे꣡षसा द्रो꣡घमित्रान्  

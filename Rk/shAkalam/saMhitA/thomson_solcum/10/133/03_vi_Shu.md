@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-ví ṣú víśvā árātayo  
-aryó naśanta no dhíyaḥ  
-ástāsi śátrave vadháṃ  
-yó na indra jíghāṃsati  
-yā́ te rātír dadír vásu  
-nábhantām anyakéṣãṃ  
-jiyākā́ ádhi dhánvasu  
+वि꣡ षु꣡ वि꣡श्वा अ꣡रातयो  
+अर्यो꣡ नशन्त नो धि꣡यः  
+अ꣡स्तासि श꣡त्रवे वधं꣡  
+यो꣡ न इन्द्र जि꣡घांसति  
+या꣡ ते राति꣡र् ददि꣡र् व꣡सु  
+न꣡भन्ताम् अन्यके꣡ष्ãं  
+जियाका꣡ अ꣡धि ध꣡न्वसु  

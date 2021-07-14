@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́ nūnám aśvínor ŕ̥ṣi  
-stómaṃ ciketa vāmáyā  
-ā́ sómam mádhumattamaṃ  
-gharmáṃ siñcād átharvaṇi  
+आ꣡ नून꣡म् अश्वि꣡नोर् ŕ̥षि  
+स्तो꣡मं चिकेत वाम꣡या  
+आ꣡ सो꣡मम् म꣡धुमत्तमं  
+घर्मं꣡ सिञ्चाद् अ꣡थर्वणि  

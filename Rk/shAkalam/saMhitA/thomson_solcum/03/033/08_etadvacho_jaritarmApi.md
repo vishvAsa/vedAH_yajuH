@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-etád váco jaritar mā́pi mr̥ṣṭhā  
-ā́ yát te ghóṣān úttarā yugā́ni  
-ukthéṣu kāro práti no juṣasva  
-mā́ no ní kaḥ puruṣatrā́ námas te  
+एत꣡द् व꣡चो जरितर् मा꣡पि मृष्ठा  
+आ꣡ य꣡त् ते घो꣡षान् उ꣡त्तरा युगा꣡नि  
+उक्थे꣡षु कारो प्र꣡ति नो जुषस्व  
+मा꣡ नो नि꣡ कः पुरुषत्रा꣡ न꣡मस् ते  

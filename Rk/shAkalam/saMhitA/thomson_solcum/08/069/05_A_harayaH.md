@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-ā́ hárayaḥ sasr̥jrire  
-áruṣīr ádhi barhíṣi  
-yátrābhí saṃnávāmahe  
+आ꣡ ह꣡रयः ससृज्रिरे  
+अ꣡रुषीर् अ꣡धि बर्हि꣡षि  
+य꣡त्राभि꣡ संन꣡वामहे  

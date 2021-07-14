@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-saptá yuñjanti rátham ékacakram  
-éko áśvo vahati saptánāmā  
-trinā́bhi cakrám ajáram anarváṃ  
-yátremā́ víśvā bhúvanā́dhi tasthúḥ  
+सप्त꣡ युञ्जन्ति र꣡थम् ए꣡कचक्रम्  
+ए꣡को अ꣡श्वो वहति सप्त꣡नामा  
+त्रिना꣡भि चक्र꣡म् अज꣡रम् अनर्वं꣡  
+य꣡त्रेमा꣡ वि꣡श्वा भु꣡वना꣡धि तस्थुः꣡  

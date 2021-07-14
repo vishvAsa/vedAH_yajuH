@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-víśvasya hí prā́ṇanaṃ jī́vanaṃ tuvé  
-ví yád uchási sūnari  
-sā́ no ráthena br̥hatā́ vibhāvari  
-śrudhí citrāmaghe hávam  
+वि꣡श्वस्य हि꣡ प्रा꣡णनं जी꣡वनं तुवे꣡  
+वि꣡ य꣡द् उछ꣡सि सूनरि  
+सा꣡ नो र꣡थेन बृहता꣡ विभावरि  
+श्रुधि꣡ चित्रामघे ह꣡वम्  

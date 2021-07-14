@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-imám indra sutám piba  
-jyéṣṭham ámartiyam mádam  
-śukrásya tvābhí akṣaran  
-dhā́rā r̥tásya sā́dane  
+इम꣡म् इन्द्र सुत꣡म् पिब  
+ज्ये꣡ष्ठम् अ꣡मर्तियम् म꣡दम्  
+शुक्र꣡स्य त्वाभि꣡ अक्षरन्  
+धा꣡रा ऋत꣡स्य सा꣡दने  

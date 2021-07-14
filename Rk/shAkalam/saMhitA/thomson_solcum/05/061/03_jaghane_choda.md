@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-jagháne códa eṣãṃ  
-ví sakthā́ni náro yamuḥ  
-putrakr̥thé ná jánayaḥ  
+जघ꣡ने चो꣡द एष्ãं  
+वि꣡ सक्था꣡नि न꣡रो यमुः  
+पुत्रकृथे꣡ न꣡ ज꣡नयः  

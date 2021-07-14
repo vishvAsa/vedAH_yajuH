@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá sá mitra márto astu práyasvān  
-yás ta āditya śíkṣati vraténa  
-ná hanyate ná jīyate tuvóto  
-naínam áṃho aśnoty ántito ná dūrā́t  
+प्र꣡ स꣡ मित्र म꣡र्तो अस्तु प्र꣡यस्वान्  
+य꣡स् त आदित्य शि꣡क्षति व्रते꣡न  
+न꣡ हन्यते न꣡ जीयते तुवो꣡तो  
+नइ꣡नम् अं꣡हो अश्नोत्य् अ꣡न्तितो न꣡ दूरा꣡त्  

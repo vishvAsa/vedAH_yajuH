@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yā́ vaḥ śárma śaśamānā́ya sánti  
-tridhā́tūni dāśúṣe yachatā́dhi  
-asmábhyaṃ tā́ni maruto ví yanta  
-rayíṃ no dhatta vr̥ṣaṇaḥ suvī́ram  
+या꣡ वः श꣡र्म शशमाना꣡य स꣡न्ति  
+त्रिधा꣡तूनि दाशु꣡षे यछता꣡धि  
+अस्म꣡भ्यं ता꣡नि मरुतो वि꣡ यन्त  
+रयिं꣡ नो धत्त वृषणः सुवी꣡रम्  

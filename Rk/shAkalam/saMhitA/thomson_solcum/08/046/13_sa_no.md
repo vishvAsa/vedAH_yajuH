@@ -2,5 +2,5 @@
 title = "013"
 
 +++
-sá no vā́jeṣu avitā́ purūvásuḥ  
-purasthātā́ maghávā vr̥trahā́ bhuvat  
+स꣡ नो वा꣡जेषु अविता꣡ पुरूव꣡सुः  
+पुरस्थाता꣡ मघ꣡वा वृत्रहा꣡ भुवत्  

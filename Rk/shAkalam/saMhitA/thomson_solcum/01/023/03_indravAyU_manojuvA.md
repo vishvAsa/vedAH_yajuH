@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-indravāyū́ manojúvā  
-víprā havanta ūtáye  
-sahasrākṣā́ dhiyás pátī  
+इन्द्रवायू꣡ मनोजु꣡वा  
+वि꣡प्रा हवन्त ऊत꣡ये  
+सहस्राक्षा꣡ धिय꣡स् प꣡ती  

@@ -2,6 +2,6 @@
 title = "035"
 
 +++
-bibháyā hí tuvā́vata  
-ugrā́d abhiprabhaṅgíṇaḥ  
-dasmā́d ahám r̥tīṣáhaḥ  
+बिभ꣡या हि꣡ तुवा꣡वत  
+उग्रा꣡द् अभिप्रभङ्गि꣡णः  
+दस्मा꣡द् अह꣡म् ऋतीष꣡हः  

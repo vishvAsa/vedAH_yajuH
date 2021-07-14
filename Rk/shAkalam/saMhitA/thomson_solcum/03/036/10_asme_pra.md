@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-asmé prá yandhi maghavann r̥jīṣinn  
-índra rāyó viśvávārasya bhū́reḥ  
-asmé śatáṃ śarádo jīváse dhā  
-asmé vīrā́ñ cháśvata indra śiprin  
+अस्मे꣡ प्र꣡ यन्धि मघवन्न् ऋजीषिन्न्  
+इ꣡न्द्र रायो꣡ विश्व꣡वारस्य भू꣡रेः  
+अस्मे꣡ शतं꣡ शर꣡दो जीव꣡से धा  
+अस्मे꣡ वीरा꣡ञ् छ꣡श्वत इन्द्र शिप्रिन्  

@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-mimīhí ślókam āsíye  
-parjánya iva tatanaḥ  
-gā́ya gāyatrám ukthíyam  
+मिमीहि꣡ श्लो꣡कम् आसि꣡ये  
+पर्ज꣡न्य इव ततनः  
+गा꣡य गायत्र꣡म् उक्थि꣡यम्  

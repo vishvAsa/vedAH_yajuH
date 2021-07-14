@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-anenó vo maruto yā́mo astu  
-anaśváś cid yám ájati árathīḥ  
-anavasó anabhīśū́ rajastū́r  
-ví ródasī pathíyā yāti sā́dhan  
+अनेनो꣡ वो मरुतो या꣡मो अस्तु  
+अनश्व꣡श् चिद् य꣡म् अ꣡जति अ꣡रथीः  
+अनवसो꣡ अनभीशू꣡ रजस्तू꣡र्  
+वि꣡ रो꣡दसी पथि꣡या याति सा꣡धन्  

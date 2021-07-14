@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-eṣá pratnéna mánmanā  
-devó devébhiyas pári  
-dhā́rayā pavate sutáḥ  
+एष꣡ प्रत्ने꣡न म꣡न्मना  
+देवो꣡ देवे꣡भियस् प꣡रि  
+धा꣡रया पवते सुतः꣡  

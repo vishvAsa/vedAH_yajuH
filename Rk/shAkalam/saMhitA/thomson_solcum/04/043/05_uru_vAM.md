@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-urú vāṃ ráthaḥ pári nakṣati dyā́m  
-ā́ yát samudrā́d abhí vártate vām  
-mádhvā mādhuvī mádhu vām pruṣāyan  
-yát sīṃ vām pŕ̥kṣo bhurájanta pakvā́ḥ  
+उरु꣡ वां र꣡थः प꣡रि नक्षति द्या꣡म्  
+आ꣡ य꣡त् समुद्रा꣡द् अभि꣡ व꣡र्तते वाम्  
+म꣡ध्वा माधुवी म꣡धु वाम् प्रुषायन्  
+य꣡त् सीं वाम् प्ŕ̥क्षो भुर꣡जन्त पक्वाः꣡  

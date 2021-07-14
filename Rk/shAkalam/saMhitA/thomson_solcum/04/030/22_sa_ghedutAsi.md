@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-sá ghéd utā́si vr̥trahan  
-samāná indra gópatiḥ  
-yás tā́ víśvāni cicyuṣé  
+स꣡ घे꣡द् उता꣡सि वृत्रहन्  
+समान꣡ इन्द्र गो꣡पतिः  
+य꣡स् ता꣡ वि꣡श्वानि चिच्युषे꣡  

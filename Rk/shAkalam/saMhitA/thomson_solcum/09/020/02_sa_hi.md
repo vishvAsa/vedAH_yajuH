@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sá hí ṣmā jaritŕ̥bhya ā́  
-vā́jaṃ gómantam ínvati  
-pávamānaḥ sahasríṇam  
+स꣡ हि꣡ ष्मा जरित्ŕ̥भ्य आ꣡  
+वा꣡जं गो꣡मन्तम् इ꣡न्वति  
+प꣡वमानः सहस्रि꣡णम्  

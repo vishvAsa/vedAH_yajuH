@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yád dadhiṣé pradívi cā́ru ánnaṃ  
-divé-dive pītím íd asya vakṣi  
-utá hr̥dótá mánasā juṣāṇá  
-uśánn indra prásthitān pāhi sómān  
+य꣡द् दधिषे꣡ प्रदि꣡वि चा꣡रु अ꣡न्नं  
+दिवे꣡-दिवे पीति꣡म् इ꣡द् अस्य वक्षि  
+उत꣡ हृदो꣡त꣡ म꣡नसा जुषाण꣡  
+उश꣡न्न् इन्द्र प्र꣡स्थितान् पाहि सो꣡मान्  

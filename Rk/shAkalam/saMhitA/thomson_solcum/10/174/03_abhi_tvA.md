@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-abhí tvā deváḥ savitā́  
-abhí sómo avīvr̥tat  
-abhí tvā víśvā bhūtā́ni  
-abhīvartó yáthā́sasi  
+अभि꣡ त्वा देवः꣡ सविता꣡  
+अभि꣡ सो꣡मो अवीवृतत्  
+अभि꣡ त्वा वि꣡श्वा भूता꣡नि  
+अभीवर्तो꣡ य꣡था꣡ससि  

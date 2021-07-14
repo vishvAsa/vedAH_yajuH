@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá śvitānás tanyatū́ rocanasthā́  
-ajárebhir nā́nadadbhir yáviṣṭhaḥ  
-yáḥ pavākáḥ+ purutámaḥ purū́ṇi  
-pr̥thū́ni agnír anuyā́ti bhárvan  
+स꣡ श्वितान꣡स् तन्यतू꣡ रोचनस्था꣡  
+अज꣡रेभिर् ना꣡नदद्भिर् य꣡विष्ठः  
+यः꣡ पवाकः꣡+ पुरुत꣡मः पुरू꣡णि  
+पृथू꣡नि अग्नि꣡र् अनुया꣡ति भ꣡र्वन्  

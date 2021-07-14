@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ūrdhvó hí ásthād ádhi antárikṣe  
-ádhā vr̥trā́ya prá vadháṃ jabhāra  
-míhaṃ vásāna úpa hī́m ádudrot  
-tigmā́yudho ajayac chátrum índraḥ  
+ऊर्ध्वो꣡ हि꣡ अ꣡स्थाद् अ꣡धि अन्त꣡रिक्षे  
+अ꣡धा वृत्रा꣡य प्र꣡ वधं꣡ जभार  
+मि꣡हं व꣡सान उ꣡प ही꣡म् अ꣡दुद्रोत्  
+तिग्मा꣡युधो अजयच् छ꣡त्रुम् इ꣡न्द्रः  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ no adyá sámanaso  
-gántā víśve sajóṣasaḥ  
-r̥cā́ girā́ máruto dévi ádite  
-sádane pástiye mahi  
+आ꣡ नो अद्य꣡ स꣡मनसो  
+ग꣡न्ता वि꣡श्वे सजो꣡षसः  
+ऋचा꣡ गिरा꣡ म꣡रुतो दे꣡वि अ꣡दिते  
+स꣡दने प꣡स्तिये महि  

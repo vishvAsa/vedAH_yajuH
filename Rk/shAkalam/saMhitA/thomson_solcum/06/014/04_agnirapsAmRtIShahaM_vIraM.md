@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-agnír apsā́m r̥tīṣáhaṃ  
-vīráṃ dadāti sátpatim  
-yásya trásanti śávasaḥ  
-saṃcákṣi śátravo bhiyā́  
+अग्नि꣡र् अप्सा꣡म् ऋतीष꣡हं  
+वीरं꣡ ददाति स꣡त्पतिम्  
+य꣡स्य त्र꣡सन्ति श꣡वसः  
+संच꣡क्षि श꣡त्रवो भिया꣡  

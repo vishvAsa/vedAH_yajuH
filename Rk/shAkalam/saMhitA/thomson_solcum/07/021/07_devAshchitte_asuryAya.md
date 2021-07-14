@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-devā́ś cit te asuríyāya pū́rve  
-ánu kṣatrā́ya mamire sáhāṃsi  
-índro maghā́ni dayate viṣáhya  
-índraṃ vā́jasya johuvanta sātaú  
+देवा꣡श् चित् ते असुरि꣡याय पू꣡र्वे  
+अ꣡नु क्षत्रा꣡य ममिरे स꣡हांसि  
+इ꣡न्द्रो मघा꣡नि दयते विष꣡ह्य  
+इ꣡न्द्रं वा꣡जस्य जोहुवन्त सातउ꣡  

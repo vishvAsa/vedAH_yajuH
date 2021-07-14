@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-sárasvati abhí no neṣi vásyo  
-mā́pa spharīḥ páyasā mā́ na ā́ dhak  
-juṣásva naḥ sakhiyā́ veśíyā ca  
-mā́ tvát kṣétrāṇi áraṇāni ganma  
+स꣡रस्वति अभि꣡ नो नेषि व꣡स्यो  
+मा꣡प स्फरीः प꣡यसा मा꣡ न आ꣡ धक्  
+जुष꣡स्व नः सखिया꣡ वेशि꣡या च  
+मा꣡ त्व꣡त् क्षे꣡त्राणि अ꣡रणानि गन्म  

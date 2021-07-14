@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá dhārayat pr̥thivī́m papráthac ca  
-vájreṇa hatvā́ nír apáḥ sasarja  
-áhann áhim ábhinad rauhiṇáṃ ví  
-áhan víaṃsam maghávā śácībhiḥ  
+स꣡ धारयत् पृथिवी꣡म् पप्र꣡थच् च  
+व꣡ज्रेण हत्वा꣡ नि꣡र् अपः꣡ ससर्ज  
+अ꣡हन्न् अ꣡हिम् अ꣡भिनद् रौहिणं꣡ वि꣡  
+अ꣡हन् वि꣡अंसम् मघ꣡वा श꣡चीभिः  

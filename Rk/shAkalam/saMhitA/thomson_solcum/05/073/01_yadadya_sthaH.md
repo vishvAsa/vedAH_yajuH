@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yád adyá stháḥ parāváti  
-yád arvāváti aśvinā  
-yád vā purū́ purubhujā  
-yád antárikṣa ā́ gatam  
+य꣡द् अद्य꣡ स्थः꣡ पराव꣡ति  
+य꣡द् अर्वाव꣡ति अश्विना  
+य꣡द् वा पुरू꣡ पुरुभुजा  
+य꣡द् अन्त꣡रिक्ष आ꣡ गतम्  

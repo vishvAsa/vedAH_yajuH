@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-yád adyá kác ca vr̥trahann  
-udágā abhí sūriya  
-sárvaṃ tád indra te váśe  
+य꣡द् अद्य꣡ क꣡च् च वृत्रहन्न्  
+उद꣡गा अभि꣡ सूरिय  
+स꣡र्वं त꣡द् इन्द्र ते व꣡शे  

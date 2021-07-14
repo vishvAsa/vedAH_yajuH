@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yuvóḥ śríyam pári yóṣāvr̥ṇīta  
-sū́ro duhitā́ páritakmiyāyām  
-yád devayántam ávathaḥ śácībhiḥ  
-pári ghraṃsám ománā vāṃ váyo gāt  
+युवोः꣡ श्रि꣡यम् प꣡रि यो꣡षावृणीत  
+सू꣡रो दुहिता꣡ प꣡रितक्मियायाम्  
+य꣡द् देवय꣡न्तम् अ꣡वथः श꣡चीभिः  
+प꣡रि घ्रंस꣡म् ओम꣡ना वां व꣡यो गात्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prātā́ rátnam prātarítvā dadhāti  
-táṃ cikitvā́n pratigŕ̥hyā ní dhatte  
-téna prajā́ṃ vardháyamāna ā́yū  
-rāyás póṣeṇa sacate suvī́raḥ  
+प्राता꣡ र꣡त्नम् प्रातरि꣡त्वा दधाति  
+तं꣡ चिकित्वा꣡न् प्रतिग्ŕ̥ह्या नि꣡ धत्ते  
+ते꣡न प्रजां꣡ वर्ध꣡यमान आ꣡यू  
+राय꣡स् पो꣡षेण सचते सुवी꣡रः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tuvā́m agne vásupatiṃ vásūnām  
-abhí prá mande adhvaréṣu rājan  
-tváyā vā́jaṃ vājayánto jayema  
-abhí ṣyāma pr̥tsutī́r mártiyānām  
+तुवा꣡म् अग्ने व꣡सुपतिं व꣡सूनाम्  
+अभि꣡ प्र꣡ मन्दे अध्वरे꣡षु राजन्  
+त्व꣡या वा꣡जं वाजय꣡न्तो जयेम  
+अभि꣡ ष्याम पृत्सुती꣡र् म꣡र्तियानाम्  

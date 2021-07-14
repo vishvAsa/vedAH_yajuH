@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-nū́ no rayím mahā́m indo  
-asmábhyaṃ soma viśvátaḥ  
-ā́ pavasva sahasríṇam  
+नू꣡ नो रयि꣡म् महा꣡म् इन्दो  
+अस्म꣡भ्यं सोम विश्व꣡तः  
+आ꣡ पवस्व सहस्रि꣡णम्  

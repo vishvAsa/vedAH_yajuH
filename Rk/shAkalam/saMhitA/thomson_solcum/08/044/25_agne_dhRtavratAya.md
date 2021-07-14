@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-ágne dhr̥távratāya te  
-samudrā́yeva síndhavaḥ  
-gíro vāśrā́sa īrate  
+अ꣡ग्ने धृत꣡व्रताय ते  
+समुद्रा꣡येव सि꣡न्धवः  
+गि꣡रो वाश्रा꣡स ईरते  

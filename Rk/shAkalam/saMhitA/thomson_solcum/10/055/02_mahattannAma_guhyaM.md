@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mahát tán nā́ma gúhiyam puruspŕ̥g  
-yéna bhūtáṃ janáyo yéna bhávyam  
-pratnáṃ jātáṃ jyótir yád asya  
-priyám priyā́ḥ sám aviśanta páñca  
+मह꣡त् त꣡न् ना꣡म गु꣡हियम् पुरुस्प्ŕ̥ग्  
+ये꣡न भूतं꣡ जन꣡यो ये꣡न भ꣡व्यम्  
+प्रत्नं꣡ जातं꣡ ज्यो꣡तिर् य꣡द् अस्य  
+प्रिय꣡म् प्रियाः꣡ स꣡म् अविशन्त प꣡ञ्च  

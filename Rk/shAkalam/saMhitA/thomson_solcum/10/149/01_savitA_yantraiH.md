@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-savitā́ yantraíḥ pr̥thivī́m aramṇād  
-askambhané savitā́ dyā́m adr̥ṃhat  
-áśvam 'vādhukṣad° dhúnim antárikṣam  
-atū́rte baddháṃ savitā́ samudrám  
+सविता꣡ यन्त्रइः꣡ पृथिवी꣡म् अरम्णाद्  
+अस्कम्भने꣡ सविता꣡ द्या꣡म् अदृंहत्  
+अ꣡श्वम् ऽवाधुक्षद्° धु꣡निम् अन्त꣡रिक्षम्  
+अतू꣡र्ते बद्धं꣡ सविता꣡ समुद्र꣡म्  

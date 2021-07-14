@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-sá váhnir apsú duṣṭáro  
-mr̥jyámāno gábhastiyoḥ  
-sómaś camū́ṣu sīdati  
+स꣡ व꣡ह्निर् अप्सु꣡ दुष्ट꣡रो  
+मृज्य꣡मानो ग꣡भस्तियोः  
+सो꣡मश् चमू꣡षु सीदति  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-śū́rasyeva yúdhyato antamásya  
-pratīcī́naṃ dadr̥śe víśvam āyát  
-antár matíś carati niṣṣídhaṃ gór  
-mahád devā́nām asuratvám ékam  
+शू꣡रस्येव यु꣡ध्यतो अन्तम꣡स्य  
+प्रतीची꣡नं ददृशे वि꣡श्वम् आय꣡त्  
+अन्त꣡र् मति꣡श् चरति निष्षि꣡धं गो꣡र्  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

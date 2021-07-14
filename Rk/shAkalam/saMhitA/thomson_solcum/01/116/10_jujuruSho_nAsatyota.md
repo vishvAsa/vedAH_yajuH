@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-jujurúṣo nāsatiyotá vavrím  
-prā́muñcataṃ drāpím iva cyávānāt  
-prā́tirataṃ jahitásyā́yu° dasrā  
-ā́d ít pátim akr̥ṇutaṃ kanī́nām  
+जुजुरु꣡षो नासतियोत꣡ वव्रि꣡म्  
+प्रा꣡मुञ्चतं द्रापि꣡म् इव च्य꣡वानात्  
+प्रा꣡तिरतं जहित꣡स्या꣡यु° दस्रा  
+आ꣡द् इ꣡त् प꣡तिम् अकृणुतं कनी꣡नाम्  

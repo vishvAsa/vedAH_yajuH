@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sunvánti sómaṃ rathirā́so ádrayo  
-nír asya rásaṃ gavíṣo duhanti té  
-duhánti ū́dhar upasécanāya káṃ  
-náro havyā́ ná marjayanta āsábhiḥ  
+सुन्व꣡न्ति सो꣡मं रथिरा꣡सो अ꣡द्रयो  
+नि꣡र् अस्य र꣡सं गवि꣡षो दुहन्ति ते꣡  
+दुह꣡न्ति ऊ꣡धर् उपसे꣡चनाय कं꣡  
+न꣡रो हव्या꣡ न꣡ मर्जयन्त आस꣡भिः  

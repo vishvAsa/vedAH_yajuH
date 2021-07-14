@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-úṣaḥ pratīcī́ bhúvanāni víśvā  
-ūrdhvā́ tiṣṭhasi amŕ̥tasya ketúḥ  
-samānám árthaṃ caraṇīyámānā  
-cakrám iva navyasi ā́ vavr̥tsva  
+उ꣡षः प्रतीची꣡ भु꣡वनानि वि꣡श्वा  
+ऊर्ध्वा꣡ तिष्ठसि अम्ŕ̥तस्य केतुः꣡  
+समान꣡म् अ꣡र्थं चरणीय꣡माना  
+चक्र꣡म् इव नव्यसि आ꣡ ववृत्स्व  

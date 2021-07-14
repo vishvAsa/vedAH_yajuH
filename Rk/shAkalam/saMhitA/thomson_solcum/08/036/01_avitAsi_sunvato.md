@@ -2,9 +2,9 @@
 title = "001"
 
 +++
-avitā́si sunvató vr̥ktábarhiṣaḥ  
-píbā sómam mádāya káṃ śatakrato  
-yáṃ te bhāgám ádhārayan  
-víśvāḥ sehānáḥ pŕ̥tanā  
-urú jráyaḥ sám apsujín  
-marútvām̐ indra satpate  
+अविता꣡सि सुन्वतो꣡ वृक्त꣡बर्हिषः  
+पि꣡बा सो꣡मम् म꣡दाय कं꣡ शतक्रतो  
+यं꣡ ते भाग꣡म् अ꣡धारयन्  
+वि꣡श्वाः सेहानः꣡ प्ŕ̥तना  
+उरु꣡ ज्र꣡यः स꣡म् अप्सुजि꣡न्  
+मरु꣡त्वाँ इन्द्र सत्पते  

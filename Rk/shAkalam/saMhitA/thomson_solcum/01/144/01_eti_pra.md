@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-éti prá hótā vratám asya māyáyā  
-ūrdhvā́ṃ dádhānaḥ śúcipeśasaṃ dhíyam  
-abhí srúcaḥ kramate dakṣiṇāvŕ̥to  
-yā́ asya dhā́ma prathamáṃ ha níṃsate  
+ए꣡ति प्र꣡ हो꣡ता व्रत꣡म् अस्य माय꣡या  
+ऊर्ध्वां꣡ द꣡धानः शु꣡चिपेशसं धि꣡यम्  
+अभि꣡ स्रु꣡चः क्रमते दक्षिणाव्ŕ̥तो  
+या꣡ अस्य धा꣡म प्रथमं꣡ ह निं꣡सते  

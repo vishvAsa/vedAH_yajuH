@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śrāváyéd asya kárṇā vājayádhyai  
-júṣṭām ánu prá díśam mandayádhyai  
-udvāvr̥ṣāṇó rā́dhase túviṣmān  
-káran na índraḥ sutīrthā́bhayaṃ ca  
+श्राव꣡ये꣡द् अस्य क꣡र्णा वाजय꣡ध्यै  
+जु꣡ष्टाम् अ꣡नु प्र꣡ दि꣡शम् मन्दय꣡ध्यै  
+उद्वावृषाणो꣡ रा꣡धसे तु꣡विष्मान्  
+क꣡रन् न इ꣡न्द्रः सुतीर्था꣡भयं च  

@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-eté sómāsa índavaḥ  
-práyasvantaḥ camū́ sutā́ḥ  
-índraṃ vardhanti kármabhiḥ  
+एते꣡ सो꣡मास इ꣡न्दवः  
+प्र꣡यस्वन्तः चमू꣡ सुताः꣡  
+इ꣡न्द्रं वर्धन्ति क꣡र्मभिः  

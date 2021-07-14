@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ayáṃ devā́ya jánmane  
-stómo víprebhir āsayā́  
-ákāri ratnadhā́tamaḥ  
+अयं꣡ देवा꣡य ज꣡न्मने  
+स्तो꣡मो वि꣡प्रेभिर् आसया꣡  
+अ꣡कारि रत्नधा꣡तमः  

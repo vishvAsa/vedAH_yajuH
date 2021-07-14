@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-bhojā́ jigyuḥ surabhíṃ yónim ágre  
-bhojā́ jigyur vadhúvaṃ yā́ suvā́sāḥ  
-bhojā́ jigyur antaḥpéyaṃ súrāyā  
-bhojā́ jigyur yé áhūtāḥ prayánti  
+भोजा꣡ जिग्युः सुरभिं꣡ यो꣡निम् अ꣡ग्रे  
+भोजा꣡ जिग्युर् वधु꣡वं या꣡ सुवा꣡साः  
+भोजा꣡ जिग्युर् अन्तःपे꣡यं सु꣡राया  
+भोजा꣡ जिग्युर् ये꣡ अ꣡हूताः प्रय꣡न्ति  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ádriṇā te mandína indra tū́yān  
-sunvánti sómān píbasi tvám eṣām  
-pácanti te vr̥ṣabhā́m̐ átsi téṣām  
-pr̥kṣéṇa yán maghavan hūyámānaḥ  
+अ꣡द्रिणा ते मन्दि꣡न इन्द्र तू꣡यान्  
+सुन्व꣡न्ति सो꣡मान् पि꣡बसि त्व꣡म् एषाम्  
+प꣡चन्ति ते वृषभाँ꣡ अ꣡त्सि ते꣡षाम्  
+पृक्षे꣡ण य꣡न् मघवन् हूय꣡मानः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ví naḥ sahásraṃ śurúdho radantu  
-r̥tā́vāno váruṇo mitró agníḥ  
-yáchantu candrā́ upamáṃ no arkám  
-ā́ naḥ kā́mam pūpurantu stávānāḥ  
+वि꣡ नः सह꣡स्रं शुरु꣡धो रदन्तु  
+ऋता꣡वानो व꣡रुणो मित्रो꣡ अग्निः꣡  
+य꣡छन्तु चन्द्रा꣡ उपमं꣡ नो अर्क꣡म्  
+आ꣡ नः का꣡मम् पूपुरन्तु स्त꣡वानाः  

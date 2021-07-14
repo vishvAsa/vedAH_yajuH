@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-híraṇyakarṇam maṇigrīvam árṇas  
-tán no víśve varivasyantu devā́ḥ  
-aryó gíraḥ sadyá ā́ jagmúṣīr ā́  
-usrā́ś cākantu ubháyeṣu asmé  
+हि꣡रण्यकर्णम् मणिग्रीवम् अ꣡र्णस्  
+त꣡न् नो वि꣡श्वे वरिवस्यन्तु देवाः꣡  
+अर्यो꣡ गि꣡रः सद्य꣡ आ꣡ जग्मु꣡षीर् आ꣡  
+उस्रा꣡श् चाकन्तु उभ꣡येषु अस्मे꣡  

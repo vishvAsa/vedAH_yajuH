@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-evā́ ca tváṃ sarama ājagántha  
-prábādhitā sáhasā daíviyena  
-svásāraṃ tvā kr̥ṇavai mā́ púnar gā  
-ápa te gávāṃ subhage bhajāma  
+एवा꣡ च त्वं꣡ सरम आजग꣡न्थ  
+प्र꣡बाधिता स꣡हसा दइ꣡वियेन  
+स्व꣡सारं त्वा कृणवै मा꣡ पु꣡नर् गा  
+अ꣡प ते ग꣡वां सुभगे भजाम  

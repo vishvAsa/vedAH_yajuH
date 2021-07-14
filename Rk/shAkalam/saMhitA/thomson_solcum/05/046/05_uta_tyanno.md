@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-utá tyán no mā́rutaṃ śárdha ā́ gamad  
-divikṣayáṃ yajatám barhír āsáde  
-bŕ̥haspátiḥ śárma pūṣótá no yamad  
-varūthíyaṃ váruṇo mitró aryamā́  
+उत꣡ त्य꣡न् नो मा꣡रुतं श꣡र्ध आ꣡ गमद्  
+दिविक्षयं꣡ यजत꣡म् बर्हि꣡र् आस꣡दे  
+ब्ŕ̥हस्प꣡तिः श꣡र्म पूषो꣡त꣡ नो यमद्  
+वरूथि꣡यं व꣡रुणो मित्रो꣡ अर्यमा꣡  

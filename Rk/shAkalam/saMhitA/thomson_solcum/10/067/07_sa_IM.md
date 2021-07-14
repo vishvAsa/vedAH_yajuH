@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sá īṃ satyébhiḥ sákhibhiḥ śucádbhir  
-gódhāyasaṃ ví dhanasaír adardaḥ  
-bráhmaṇas pátir vŕ̥ṣabhir varā́hair  
-gharmásvedebhir dráviṇaṃ ví ānaṭ  
+स꣡ ईं सत्ये꣡भिः स꣡खिभिः शुच꣡द्भिर्  
+गो꣡धायसं वि꣡ धनसइ꣡र् अदर्दः  
+ब्र꣡ह्मणस् प꣡तिर् व्ŕ̥षभिर् वरा꣡हैर्  
+घर्म꣡स्वेदेभिर् द्र꣡विणं वि꣡ आनट्  

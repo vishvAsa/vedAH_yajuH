@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-sanír mitrásya papratha  
-índraḥ sómasya pītáye  
-prā́cī vā́śīva sunvaté mímīta ít  
+सनि꣡र् मित्र꣡स्य पप्रथ  
+इ꣡न्द्रः सो꣡मस्य पीत꣡ये  
+प्रा꣡ची वा꣡शीव सुन्वते꣡ मि꣡मीत इ꣡त्  

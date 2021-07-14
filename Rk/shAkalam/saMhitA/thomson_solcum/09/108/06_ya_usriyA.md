@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yá usríyā ápiyā antár áśmano  
-nír gā́ ákr̥ntad ójasā  
-abhí vrajáṃ tatniṣe gávyam áśviyaṃ  
-varmī́va dhr̥ṣṇav ā́ ruja  
+य꣡ उस्रि꣡या अ꣡पिया अन्त꣡र् अ꣡श्मनो  
+नि꣡र् गा꣡ अ꣡कृन्तद् ओ꣡जसा  
+अभि꣡ व्रजं꣡ तत्निषे ग꣡व्यम् अ꣡श्वियं  
+वर्मी꣡व धृष्णव् आ꣡ रुज  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vidyā́m ādityā ávaso vo asyá  
-yád aryaman bhayá ā́ cin mayobhú  
-yuṣmā́kam mitrāvaruṇā práṇītau  
-pári śvábhreva duritā́ni vŕ̥jyām  
+विद्या꣡म् आदित्या अ꣡वसो वो अस्य꣡  
+य꣡द् अर्यमन् भय꣡ आ꣡ चिन् मयोभु꣡  
+युष्मा꣡कम् मित्रावरुणा प्र꣡णीतौ  
+प꣡रि श्व꣡भ्रेव दुरिता꣡नि व्ŕ̥ज्याम्  

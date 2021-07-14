@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-kīríś cid dhí tvā́m ávase juhā́va  
-ī́śānam indra saúbhagasya bhū́reḥ  
-ávo babhūtha śatamūte asmé  
-abhikṣattús tuvā́vato varūtā́  
+कीरि꣡श् चिद् धि꣡ त्वा꣡म् अ꣡वसे जुहा꣡व  
+ई꣡शानम् इन्द्र सउ꣡भगस्य भू꣡रेः  
+अ꣡वो बभूथ शतमूते अस्मे꣡  
+अभिक्षत्तु꣡स् तुवा꣡वतो वरूता꣡  

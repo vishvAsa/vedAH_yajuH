@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-índrāsomā pakvám āmā́su antár  
-ní gávām íd dadhathur vakṣáṇāsu  
-jagr̥bháthur ánapinaddham āsu  
-rúśac citrā́su jágatīṣu antáḥ  
+इ꣡न्द्रासोमा पक्व꣡म् आमा꣡सु अन्त꣡र्  
+नि꣡ ग꣡वाम् इ꣡द् दधथुर् वक्ष꣡णासु  
+जगृभ꣡थुर् अ꣡नपिनद्धम् आसु  
+रु꣡शच् चित्रा꣡सु ज꣡गतीषु अन्तः꣡  

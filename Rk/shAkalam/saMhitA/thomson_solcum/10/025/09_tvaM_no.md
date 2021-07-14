@@ -2,9 +2,9 @@
 title = "009"
 
 +++
-tuváṃ no vr̥trahantama  
-índrasyendo śiváḥ sákhā  
-yát sīṃ hávante samithé  
-ví vo máde  
-yúdhyamānās tokásātau  
-vívakṣase  
+तुवं꣡ नो वृत्रहन्तम  
+इ꣡न्द्रस्येन्दो शिवः꣡ स꣡खा  
+य꣡त् सीं ह꣡वन्ते समिथे꣡  
+वि꣡ वो म꣡दे  
+यु꣡ध्यमानास् तोक꣡सातौ  
+वि꣡वक्षसे  

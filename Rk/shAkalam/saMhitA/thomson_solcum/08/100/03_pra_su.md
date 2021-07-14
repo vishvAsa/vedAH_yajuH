@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá sú stómam bharata vājayánta  
-índrāya satyáṃ yádi satyám ásti  
-néndro astī́ti néma u tva āha  
-ká īṃ dadarśa kám abhí ṣṭavāma  
+प्र꣡ सु꣡ स्तो꣡मम् भरत वाजय꣡न्त  
+इ꣡न्द्राय सत्यं꣡ य꣡दि सत्य꣡म् अ꣡स्ति  
+ने꣡न्द्रो अस्ती꣡ति ने꣡म उ त्व आह  
+क꣡ ईं ददर्श क꣡म् अभि꣡ ष्टवाम  

@@ -2,9 +2,9 @@
 title = "007"
 
 +++
-ná táṃ tigmáṃ caná tyájo  
-ná drāsad abhí táṃ gurú  
-yásmā u śárma saprátha  
-ā́dityāso árādhuvam  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+न꣡ तं꣡ तिग्मं꣡ चन꣡ त्य꣡जो  
+न꣡ द्रासद् अभि꣡ तं꣡ गुरु꣡  
+य꣡स्मा उ श꣡र्म सप्र꣡थ  
+आ꣡दित्यासो अ꣡राधुवम्  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

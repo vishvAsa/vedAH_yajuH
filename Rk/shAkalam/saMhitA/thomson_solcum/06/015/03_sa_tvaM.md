@@ -2,8 +2,8 @@
 title = "003"
 
 +++
-sá tváṃ dákṣasya avr̥kó vr̥dhó bhũr  
-aryáḥ párasya ántarasya táruṣaḥ  
-rāyáḥ sūno sahaso mártiyeṣu ā́  
-chardír yacha vītáhavyāya saprátho  
-bharádvājāya sapráthaḥ  
+स꣡ त्वं꣡ द꣡क्षस्य अवृको꣡ वृधो꣡ भ्ũर्  
+अर्यः꣡ प꣡रस्य अ꣡न्तरस्य त꣡रुषः  
+रायः꣡ सूनो सहसो म꣡र्तियेषु आ꣡  
+छर्दि꣡र् यछ वीत꣡हव्याय सप्र꣡थो  
+भर꣡द्वाजाय सप्र꣡थः  

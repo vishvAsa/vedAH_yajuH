@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-tuváṃ no agne táva deva pāyúbhir  
-maghóno rakṣa tanúvaś ca vandiya  
-trātā́ tokásya tánaye gávām asi  
-ánimeṣaṃ rákṣamāṇas táva vraté  
+तुवं꣡ नो अग्ने त꣡व देव पायु꣡भिर्  
+मघो꣡नो रक्ष तनु꣡वश् च वन्दिय  
+त्राता꣡ तोक꣡स्य त꣡नये ग꣡वाम् असि  
+अ꣡निमेषं र꣡क्षमाणस् त꣡व व्रते꣡  

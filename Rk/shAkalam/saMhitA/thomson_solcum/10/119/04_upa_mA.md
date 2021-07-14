@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-úpa mā matír asthita  
-vāśrā́ putrám iva priyám  
-kuvít sómasyā́pām íti  
+उ꣡प मा मति꣡र् अस्थित  
+वाश्रा꣡ पुत्र꣡म् इव प्रिय꣡म्  
+कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति  

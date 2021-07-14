@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-vayáṃ ghā te ápūrviya  
-índra bráhmāṇi vr̥trahan  
-purūtámāsaḥ puruhūta vajrivo  
-bhr̥tíṃ ná prá bharāmasi  
+वयं꣡ घा ते अ꣡पूर्विय  
+इ꣡न्द्र ब्र꣡ह्माणि वृत्रहन्  
+पुरूत꣡मासः पुरुहूत वज्रिवो  
+भृतिं꣡ न꣡ प्र꣡ भरामसि  

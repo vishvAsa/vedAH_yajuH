@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yádī sutébhir índubhiḥ  
-sómebhiḥ pratibhū́ṣatha  
-védā víśvasya médhiro  
-dhr̥ṣát táṃ-tam íd éṣate  
+य꣡दी सुते꣡भिर् इ꣡न्दुभिः  
+सो꣡मेभिः प्रतिभू꣡षथ  
+वे꣡दा वि꣡श्वस्य मे꣡धिरो  
+धृष꣡त् तं꣡-तम् इ꣡द् ए꣡षते  

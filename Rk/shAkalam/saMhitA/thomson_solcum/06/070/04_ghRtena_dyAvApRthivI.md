@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ghr̥téna dyā́vāpr̥thivī́ abhī́vr̥te  
-ghr̥taśríyā ghr̥tapŕ̥cā ghr̥tāvŕ̥dhā  
-urvī́ pr̥thvī́ hotr̥vū́rye puróhite  
-té íd víprā īḷate sumnám iṣṭáye  
+घृते꣡न द्या꣡वापृथिवी꣡ अभी꣡वृते  
+घृतश्रि꣡या घृतप्ŕ̥चा घृताव्ŕ̥धा  
+उर्वी꣡ पृथ्वी꣡ होतृवू꣡र्ये पुरो꣡हिते  
+ते꣡ इ꣡द् वि꣡प्रा ईऌअते सुम्न꣡म् इष्ट꣡ये  

@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-ā́ tvā sahásram ā́ śatáṃ  
-yuktā́ ráthe hiraṇyáye  
-brahmayújo háraya indra keśíno  
-váhantu sómapītaye  
+आ꣡ त्वा सह꣡स्रम् आ꣡ शतं꣡  
+युक्ता꣡ र꣡थे हिरण्य꣡ये  
+ब्रह्मयु꣡जो ह꣡रय इन्द्र केशि꣡नो  
+व꣡हन्तु सो꣡मपीतये  

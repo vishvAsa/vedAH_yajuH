@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-aíṣu cākandhi puruhūta sūríṣu  
-vr̥dhā́so yé maghavann ānaśúr maghám  
-árcanti toké tánaye páriṣṭiṣu  
-medhásātā vājínam áhraye dháne  
+अइ꣡षु चाकन्धि पुरुहूत सूरि꣡षु  
+वृधा꣡सो ये꣡ मघवन्न् आनशु꣡र् मघ꣡म्  
+अ꣡र्चन्ति तोके꣡ त꣡नये प꣡रिष्टिषु  
+मेध꣡साता वाजि꣡नम् अ꣡ह्रये ध꣡ने  

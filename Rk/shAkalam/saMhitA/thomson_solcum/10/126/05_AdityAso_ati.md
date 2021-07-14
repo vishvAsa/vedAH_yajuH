@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ādityā́so áti srídho  
-váruṇo mitró aryamā́  
-ugrám marúdbhī rudráṃ huvema  
-índram agníṃ suastáye áti dvíṣaḥ  
+आदित्या꣡सो अ꣡ति स्रि꣡धो  
+व꣡रुणो मित्रो꣡ अर्यमा꣡  
+उग्र꣡म् मरु꣡द्भी रुद्रं꣡ हुवेम  
+इ꣡न्द्रम् अग्निं꣡ सुअस्त꣡ये अ꣡ति द्वि꣡षः  

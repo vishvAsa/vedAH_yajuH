@@ -2,7 +2,7 @@
 title = "026"
 
 +++
-sá gr̥ṇānó adbhír devávān  
-íti subándhur námasā suuktaíḥ  
-várdhad ukthaír vácobhir ā́ hí nūnáṃ  
-ví ádhvaiti páyasa usríyāyāḥ  
+स꣡ गृणानो꣡ अद्भि꣡र् देव꣡वान्  
+इ꣡ति सुब꣡न्धुर् न꣡मसा सुउक्तइः꣡  
+व꣡र्धद् उक्थइ꣡र् व꣡चोभिर् आ꣡ हि꣡ नूनं꣡  
+वि꣡ अ꣡ध्वैति प꣡यस उस्रि꣡यायाः  

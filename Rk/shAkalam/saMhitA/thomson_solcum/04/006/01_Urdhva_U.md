@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ūrdhvá ū ṣú ṇo adhvarasya hotar  
-ágne tíṣṭha devátātā yájīyān  
-tuváṃ hí víśvam abhí ási mánma  
-prá vedhásaś cit tirasi manīṣā́m  
+ऊर्ध्व꣡ ऊ षु꣡ णो अध्वरस्य होतर्  
+अ꣡ग्ने ति꣡ष्ठ देव꣡ताता य꣡जीयान्  
+तुवं꣡ हि꣡ वि꣡श्वम् अभि꣡ अ꣡सि म꣡न्म  
+प्र꣡ वेध꣡सश् चित् तिरसि मनीषा꣡म्  

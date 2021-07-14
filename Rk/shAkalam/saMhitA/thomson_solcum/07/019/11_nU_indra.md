@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-nū́ indra śūra stávamāna ūtī́  
-bráhmajūtas tanúvā vāvr̥dhasva  
-úpa no vā́jān mimīhi úpa stī́n  
-yūyám pāta suastíbhiḥ sádā naḥ  
+नू꣡ इन्द्र शूर स्त꣡वमान ऊती꣡  
+ब्र꣡ह्मजूतस् तनु꣡वा वावृधस्व  
+उ꣡प नो वा꣡जान् मिमीहि उ꣡प स्ती꣡न्  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

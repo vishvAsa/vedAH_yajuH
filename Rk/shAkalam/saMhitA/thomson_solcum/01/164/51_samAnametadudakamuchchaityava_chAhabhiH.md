@@ -2,7 +2,7 @@
 title = "051"
 
 +++
-samānám etád udakám  
-úc caíti áva cā́habhiḥ  
-bhū́mim parjányā jínvanti  
-dívaṃ jinvanti agnáyaḥ  
+समान꣡म् एत꣡द् उदक꣡म्  
+उ꣡च् चइ꣡ति अ꣡व चा꣡हभिः  
+भू꣡मिम् पर्ज꣡न्या जि꣡न्वन्ति  
+दि꣡वं जिन्वन्ति अग्न꣡यः  

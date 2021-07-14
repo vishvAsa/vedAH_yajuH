@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-huvé vā́tasvanaṃ kavím  
-parjányakrandiyaṃ sáhaḥ  
-agníṃ samudrávāsasam  
+हुवे꣡ वा꣡तस्वनं कवि꣡म्  
+पर्ज꣡न्यक्रन्दियं स꣡हः  
+अग्निं꣡ समुद्र꣡वाससम्  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-pávasva janáyann íṣo  
-abhí víśvāni vā́riyā  
-sákhā sákhibhya ūtáye  
+प꣡वस्व जन꣡यन्न् इ꣡षो  
+अभि꣡ वि꣡श्वानि वा꣡रिया  
+स꣡खा स꣡खिभ्य ऊत꣡ये  

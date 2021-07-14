@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-írāvatīr varuṇa dhenávo vām  
-mádhumad vāṃ síndhavo mitra duhre  
-tráyas tasthur vr̥ṣabhā́sas tisr̥̄ṇā́ṃ  
-dhiṣáṇānāṃ retodhā́ ví dyumántaḥ  
+इ꣡रावतीर् वरुण धेन꣡वो वाम्  
+म꣡धुमद् वां सि꣡न्धवो मित्र दुह्रे  
+त्र꣡यस् तस्थुर् वृषभा꣡सस् तिसॄणां꣡  
+धिष꣡णानां रेतोधा꣡ वि꣡ द्युम꣡न्तः  

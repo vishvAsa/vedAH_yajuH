@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tán naḥ pratnáṃ sakhiyám astu yuṣmé  
-itthā́ vádadbhir valám áṅgirobhiḥ  
-hánn acyutacyud dasma iṣáyantam  
-r̥ṇóḥ púro ví dúro asya víśvāḥ  
+त꣡न् नः प्रत्नं꣡ सखिय꣡म् अस्तु युष्मे꣡  
+इत्था꣡ व꣡दद्भिर् वल꣡म् अ꣡ङ्गिरोभिः  
+ह꣡न्न् अच्युतच्युद् दस्म इष꣡यन्तम्  
+ऋणोः꣡ पु꣡रो वि꣡ दु꣡रो अस्य वि꣡श्वाः  

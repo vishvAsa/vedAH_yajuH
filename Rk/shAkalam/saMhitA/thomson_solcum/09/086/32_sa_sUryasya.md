@@ -2,7 +2,7 @@
 title = "032"
 
 +++
-sá sū́riyasya raśmíbhiḥ pári vyata  
-tántuṃ tanvānás trivŕ̥taṃ yáthā vidé  
-náyann r̥tásya praśíṣo návīyasīḥ  
-pátir jánīnām úpa yāti niṣkr̥tám  
+स꣡ सू꣡रियस्य रश्मि꣡भिः प꣡रि व्यत  
+त꣡न्तुं तन्वान꣡स् त्रिव्ŕ̥तं य꣡था विदे꣡  
+न꣡यन्न् ऋत꣡स्य प्रशि꣡षो न꣡वीयसीः  
+प꣡तिर् ज꣡नीनाम् उ꣡प याति निष्कृत꣡म्  

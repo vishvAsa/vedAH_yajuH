@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tát tvā yāmi suvī́riyaṃ  
-tád bráhma pūrvácittaye  
-yénā yátibhyo bhŕ̥gave dháne hité  
-yéna práskaṇvam ā́vitha  
+त꣡त् त्वा यामि सुवी꣡रियं  
+त꣡द् ब्र꣡ह्म पूर्व꣡चित्तये  
+ये꣡ना य꣡तिभ्यो भ्ŕ̥गवे ध꣡ने हिते꣡  
+ये꣡न प्र꣡स्कण्वम् आ꣡विथ  

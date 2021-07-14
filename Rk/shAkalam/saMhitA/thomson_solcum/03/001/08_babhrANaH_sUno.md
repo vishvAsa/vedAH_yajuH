@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-babhrāṇáḥ sūno sahaso ví adyaud  
-dádhānaḥ śukrā́ rabhasā́ vápūṃṣi  
-ścótanti dhā́rā mádhuno ghr̥tásya  
-vŕ̥ṣā yátra vāvr̥dhé kā́viyena  
+बभ्राणः꣡ सूनो सहसो वि꣡ अद्यौद्  
+द꣡धानः शुक्रा꣡ रभसा꣡ व꣡पूंषि  
+श्चो꣡तन्ति धा꣡रा म꣡धुनो घृत꣡स्य  
+व्ŕ̥षा य꣡त्र वावृधे꣡ का꣡वियेन  

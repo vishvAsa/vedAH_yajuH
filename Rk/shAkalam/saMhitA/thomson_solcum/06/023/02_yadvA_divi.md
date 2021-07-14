@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yád vā diví pā́riye súṣvim indra  
-vr̥trahátye ávasi śū́rasātau  
-yád vā dákṣasya bibhyúṣo ábibhyad  
-árandhayaḥ śárdhata indra dásyūn  
+य꣡द् वा दिवि꣡ पा꣡रिये सु꣡ष्विम् इन्द्र  
+वृत्रह꣡त्ये अ꣡वसि शू꣡रसातौ  
+य꣡द् वा द꣡क्षस्य बिभ्यु꣡षो अ꣡बिभ्यद्  
+अ꣡रन्धयः श꣡र्धत इन्द्र द꣡स्यून्  

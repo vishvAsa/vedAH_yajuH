@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́hārṣaṃ tvā́vidaṃ tuvā  
-púnar ā́gāḥ punarnava  
-sárvāṅga sárvaṃ te cákṣuḥ  
-sárvam ā́yuś ca te 'vidam  
+आ꣡हार्षं त्वा꣡विदं तुवा  
+पु꣡नर् आ꣡गाः पुनर्नव  
+स꣡र्वाङ्ग स꣡र्वं ते च꣡क्षुः  
+स꣡र्वम् आ꣡युश् च ते ऽविदम्  

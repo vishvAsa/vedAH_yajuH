@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-etám me stómam ūrmiye  
-dārbhiyā́ya párā vaha  
-gíro devi rathī́r iva  
+एत꣡म् मे स्तो꣡मम् ऊर्मिये  
+दार्भिया꣡य प꣡रा वह  
+गि꣡रो देवि रथी꣡र् इव  

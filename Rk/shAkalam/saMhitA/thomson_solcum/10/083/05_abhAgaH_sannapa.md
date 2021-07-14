@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-abhāgáḥ sánn ápa páreto asmi  
-táva krátvā taviṣásya pracetaḥ  
-táṃ tvā manyo akratúr jihīḷāháṃ  
-suvā́ tanū́r baladéyāya méhi  
+अभागः꣡ स꣡न्न् अ꣡प प꣡रेतो अस्मि  
+त꣡व क्र꣡त्वा तविष꣡स्य प्रचेतः  
+तं꣡ त्वा मन्यो अक्रतु꣡र् जिहीऌआहं꣡  
+सुवा꣡ तनू꣡र् बलदे꣡याय मे꣡हि  

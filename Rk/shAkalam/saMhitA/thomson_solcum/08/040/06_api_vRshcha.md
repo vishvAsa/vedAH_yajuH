@@ -2,9 +2,9 @@
 title = "006"
 
 +++
-ápi vr̥śca purāṇavád  
-vratáter iva guṣpitám  
-ójo dāsásya dambhaya  
-vayáṃ tád asya sámbhr̥taṃ  
-vásu índreṇa ví bhajemahi  
-nábhantām anyaké same  
+अ꣡पि वृश्च पुराणव꣡द्  
+व्रत꣡तेर् इव गुष्पित꣡म्  
+ओ꣡जो दास꣡स्य दम्भय  
+वयं꣡ त꣡द् अस्य स꣡म्भृतं  
+व꣡सु इ꣡न्द्रेण वि꣡ भजेमहि  
+न꣡भन्ताम् अन्यके꣡ समे  

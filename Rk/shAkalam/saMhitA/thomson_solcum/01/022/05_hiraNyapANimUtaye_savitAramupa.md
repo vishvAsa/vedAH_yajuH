@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-híraṇyapāṇim ūtáye  
-savitā́ram úpa hvaye  
-sá céttā devátā padám  
+हि꣡रण्यपाणिम् ऊत꣡ये  
+सविता꣡रम् उ꣡प ह्वये  
+स꣡ चे꣡त्ता देव꣡ता पद꣡म्  

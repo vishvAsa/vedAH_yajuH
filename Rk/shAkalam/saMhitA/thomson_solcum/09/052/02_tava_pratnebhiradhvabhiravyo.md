@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-táva pratnébhir ádhvabhir  
-ávyo vā́re pári priyáḥ  
-sahásradhāro yāt tánā  
+त꣡व प्रत्ने꣡भिर् अ꣡ध्वभिर्  
+अ꣡व्यो वा꣡रे प꣡रि प्रियः꣡  
+सह꣡स्रधारो यात् त꣡ना  

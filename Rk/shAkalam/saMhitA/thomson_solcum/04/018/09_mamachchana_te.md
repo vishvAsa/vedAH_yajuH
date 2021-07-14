@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-mámac caná te maghavan víaṃso  
-nivividhvā́m̐ ápa hánū jaghā́na  
-ádhā níviddha úttaro babhūvā́ñ  
-chíro dāsásya sám piṇak vadhéna  
+म꣡मच् चन꣡ ते मघवन् वि꣡अंसो  
+निविविध्वाँ꣡ अ꣡प ह꣡नू जघा꣡न  
+अ꣡धा नि꣡विद्ध उ꣡त्तरो बभूवा꣡ञ्  
+छि꣡रो दास꣡स्य स꣡म् पिणक् वधे꣡न  

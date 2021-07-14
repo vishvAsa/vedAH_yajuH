@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-ā́gmann ā́pa uśatī́r barhír édáṃ  
-ní adhvaré asadan devayántīḥ  
-ádhvaryavaḥ sunuténdrāya sómam  
-ábhūd u vaḥ suśákā devayajyā́  
+आ꣡ग्मन्न् आ꣡प उशती꣡र् बर्हि꣡र् ए꣡दं꣡  
+नि꣡ अध्वरे꣡ असदन् देवय꣡न्तीः  
+अ꣡ध्वर्यवः सुनुते꣡न्द्राय सो꣡मम्  
+अ꣡भूद् उ वः सुश꣡का देवयज्या꣡  

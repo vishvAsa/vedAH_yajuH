@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-nír agnáyo rurucur nír u sū́riyo  
-níḥ sóma indriyó rásaḥ  
-nír antárikṣād adhamo mahā́m áhiṃ  
-kr̥ṣé tád indra paúṃsiyam  
+नि꣡र् अग्न꣡यो रुरुचुर् नि꣡र् उ सू꣡रियो  
+निः꣡ सो꣡म इन्द्रियो꣡ र꣡सः  
+नि꣡र् अन्त꣡रिक्षाद् अधमो महा꣡म् अ꣡हिं  
+कृषे꣡ त꣡द् इन्द्र पउं꣡सियम्  

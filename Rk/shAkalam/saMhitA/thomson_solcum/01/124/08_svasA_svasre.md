@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-svásā svásre jyā́yasyai yónim āraig  
-ápaiti asyāḥ praticákṣiyeva  
-viuchántī raśmíbhiḥ sū́riyasya  
-añjí aṅkte samanagā́ iva vrā́ḥ  
+स्व꣡सा स्व꣡स्रे ज्या꣡यस्यै यो꣡निम् आरैग्  
+अ꣡पैति अस्याः प्रतिच꣡क्षियेव  
+विउछ꣡न्ती रश्मि꣡भिः सू꣡रियस्य  
+अञ्जि꣡ अङ्क्ते समनगा꣡ इव व्राः꣡  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-váriṣṭho asya dákṣiṇām iyarti  
-índro maghónāṃ tuvikūrmítamaḥ  
-yáyā vajrivaḥ pariyā́si áṃho  
-maghā́ ca dhr̥ṣṇo dáyase ví sūrī́n  
+व꣡रिष्ठो अस्य द꣡क्षिणाम् इयर्ति  
+इ꣡न्द्रो मघो꣡नां तुविकूर्मि꣡तमः  
+य꣡या वज्रिवः परिया꣡सि अं꣡हो  
+मघा꣡ च धृष्णो द꣡यसे वि꣡ सूरी꣡न्  

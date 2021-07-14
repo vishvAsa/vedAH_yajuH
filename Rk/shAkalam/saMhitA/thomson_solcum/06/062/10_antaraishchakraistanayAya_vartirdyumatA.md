@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ántaraiś cakraís tánayāya vartír  
-dyumátā́ yātaṃ nr̥vátā ráthena  
-sánutyena tyájasā mártiyasya  
-vanuṣyatā́m ápi śīrṣā́ vavr̥ktam  
+अ꣡न्तरैश् चक्रइ꣡स् त꣡नयाय वर्ति꣡र्  
+द्युम꣡ता꣡ यातं नृव꣡ता र꣡थेन  
+स꣡नुत्येन त्य꣡जसा म꣡र्तियस्य  
+वनुष्यता꣡म् अ꣡पि शीर्षा꣡ ववृक्तम्  

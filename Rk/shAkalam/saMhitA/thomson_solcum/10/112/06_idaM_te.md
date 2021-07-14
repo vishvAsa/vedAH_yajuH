@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-idáṃ te pā́traṃ sánavittam indra  
-píbā sómam enā́ śatakrato  
-pūrṇá āhāvó madirásya mádhvo  
-yáṃ víśva íd abhiháryanti devā́ḥ  
+इदं꣡ ते पा꣡त्रं स꣡नवित्तम् इन्द्र  
+पि꣡बा सो꣡मम् एना꣡ शतक्रतो  
+पूर्ण꣡ आहावो꣡ मदिर꣡स्य म꣡ध्वो  
+यं꣡ वि꣡श्व इ꣡द् अभिह꣡र्यन्ति देवाः꣡  

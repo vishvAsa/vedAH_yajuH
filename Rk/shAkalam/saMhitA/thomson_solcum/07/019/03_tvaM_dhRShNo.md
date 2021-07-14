@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuváṃ dhr̥ṣṇo dhr̥ṣatā́ vītáhavyam  
-prā́vo víśvābhir ūtíbhiḥ sudā́sam  
-prá paúrukutsiṃ trasádasyum āvaḥ  
-kṣétrasātā vr̥trahátyeṣu pūrúm  
+तुवं꣡ धृष्णो धृषता꣡ वीत꣡हव्यम्  
+प्रा꣡वो वि꣡श्वाभिर् ऊति꣡भिः सुदा꣡सम्  
+प्र꣡ पउ꣡रुकुत्सिं त्रस꣡दस्युम् आवः  
+क्षे꣡त्रसाता वृत्रह꣡त्येषु पूरु꣡म्  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-śréṣṭhaṃ yaviṣṭha bhārata  
-ágne dyumántam ā́ bhara  
-váso puruspŕ̥haṃ rayím  
+श्रे꣡ष्ठं यविष्ठ भारत  
+अ꣡ग्ने द्युम꣡न्तम् आ꣡ भर  
+व꣡सो पुरुस्प्ŕ̥हं रयि꣡म्  

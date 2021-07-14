@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-práti asmai pípīṣate  
-víśvāni vidúṣe bhara  
-araṃgamā́ya jágmaye  
-ápaścāddaghvane náre  
+प्र꣡ति अस्मै पि꣡पीषते  
+वि꣡श्वानि विदु꣡षे भर  
+अरंगमा꣡य ज꣡ग्मये  
+अ꣡पश्चाद्दघ्वने न꣡रे  

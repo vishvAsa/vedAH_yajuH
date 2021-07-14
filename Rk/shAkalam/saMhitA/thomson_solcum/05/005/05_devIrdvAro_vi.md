@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-dévīr dvāro ví śrayadhvaṃ  
-suprāyaṇā́ na ūtáye  
-prá-pra yajñám pr̥ṇītana  
+दे꣡वीर् द्वारो वि꣡ श्रयध्वं  
+सुप्रायणा꣡ न ऊत꣡ये  
+प्र꣡-प्र यज्ञ꣡म् पृणीतन  

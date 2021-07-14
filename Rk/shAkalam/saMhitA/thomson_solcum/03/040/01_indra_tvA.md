@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-índra tvā vr̥ṣabháṃ vayáṃ  
-suté sóme havāmahe  
-sá pāhi mádhvo ándhasaḥ  
+इ꣡न्द्र त्वा वृषभं꣡ वयं꣡  
+सुते꣡ सो꣡मे हवामहे  
+स꣡ पाहि म꣡ध्वो अ꣡न्धसः  

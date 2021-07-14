@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yáthā vām átrir aśvinā  
-gīrbhír vípro ájohavīt  
-nā́satyā sómapītaye  
-nábhantām anyaké same  
+य꣡था वाम् अ꣡त्रिर् अश्विना  
+गीर्भि꣡र् वि꣡प्रो अ꣡जोहवीत्  
+ना꣡सत्या सो꣡मपीतये  
+न꣡भन्ताम् अन्यके꣡ समे  

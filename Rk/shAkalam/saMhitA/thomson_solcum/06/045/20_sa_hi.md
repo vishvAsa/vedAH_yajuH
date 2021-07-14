@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-sá hí víśvāni pā́rthivām̐  
-éko vásūni pátyate  
-gírvaṇastamo ádhriguḥ  
+स꣡ हि꣡ वि꣡श्वानि पा꣡र्थिवाँ  
+ए꣡को व꣡सूनि प꣡त्यते  
+गि꣡र्वणस्तमो अ꣡ध्रिगुः  

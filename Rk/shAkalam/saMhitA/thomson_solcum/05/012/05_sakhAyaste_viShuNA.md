@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sákhāyas te víṣuṇā agna eté  
-śivā́saḥ sánto áśivā abhūvan  
-ádhūrṣata svayám eté vácobhir  
-r̥jūyaté vr̥jinā́ni bruvántaḥ  
+स꣡खायस् ते वि꣡षुणा अग्न एते꣡  
+शिवा꣡सः स꣡न्तो अ꣡शिवा अभूवन्  
+अ꣡धूर्षत स्वय꣡म् एते꣡ व꣡चोभिर्  
+ऋजूयते꣡ वृजिना꣡नि ब्रुव꣡न्तः  

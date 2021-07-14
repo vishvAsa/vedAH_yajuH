@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-kím aṅgá tvā bráhmaṇaḥ soma gopā́ṃ  
-kím aṅgá tvāhur abhiśastipā́ṃ naḥ  
-kím aṅgá naḥ paśyasi nidyámānān  
-brahmadvíṣe tápuṣiṃ hetím asya  
+कि꣡म् अङ्ग꣡ त्वा ब्र꣡ह्मणः सोम गोपां꣡  
+कि꣡म् अङ्ग꣡ त्वाहुर् अभिशस्तिपां꣡ नः  
+कि꣡म् अङ्ग꣡ नः पश्यसि निद्य꣡मानान्  
+ब्रह्मद्वि꣡षे त꣡पुषिं हेति꣡म् अस्य  

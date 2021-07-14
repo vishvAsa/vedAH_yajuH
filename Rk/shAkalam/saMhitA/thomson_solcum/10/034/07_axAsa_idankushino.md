@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-akṣā́sa íd aṅkuśíno nitodíno  
-nikŕ̥tvānas tápanās tāpayiṣṇávaḥ  
-kumārádeṣṇā jáyataḥ punarháṇo  
-mádhvā sámpr̥ktāḥ kitavásya barháṇā  
+अक्षा꣡स इ꣡द् अङ्कुशि꣡नो नितोदि꣡नो  
+निक्ŕ̥त्वानस् त꣡पनास् तापयिष्ण꣡वः  
+कुमार꣡देष्णा ज꣡यतः पुनर्ह꣡णो  
+म꣡ध्वा स꣡म्पृक्ताः कितव꣡स्य बर्ह꣡णा  

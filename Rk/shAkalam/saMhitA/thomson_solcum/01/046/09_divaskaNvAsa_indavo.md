@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-divás kaṇvāsa índavo  
-vásu síndhūnãm padé  
-sváṃ vavríṃ kúha dhitsathaḥ  
+दिव꣡स् कण्वास इ꣡न्दवो  
+व꣡सु सि꣡न्धून्ãम् पदे꣡  
+स्वं꣡ वव्रिं꣡ कु꣡ह धित्सथः  

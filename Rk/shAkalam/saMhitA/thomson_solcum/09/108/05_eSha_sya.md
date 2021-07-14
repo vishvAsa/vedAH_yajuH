@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-eṣá syá dhā́rayā sutó  
-ávyo vā́rebhiḥ pavate madíntamaḥ  
-krī́ḷann ūrmír apā́m iva  
+एष꣡ स्य꣡ धा꣡रया सुतो꣡  
+अ꣡व्यो वा꣡रेभिः पवते मदि꣡न्तमः  
+क्री꣡ऌअन्न् ऊर्मि꣡र् अपा꣡म् इव  

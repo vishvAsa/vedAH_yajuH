@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-sthiraú gā́vau bhavatāṃ vīḷúr ákṣo  
-méṣā́ ví varhi mā́ yugáṃ ví śāri  
-índraḥ pātalyè dadatāṃ śárītor  
-áriṣṭaneme abhí naḥ sacasva  
+स्थिरउ꣡ गा꣡वौ भवतां वीऌउ꣡र् अ꣡क्षो  
+मे꣡षा꣡ वि꣡ वर्हि मा꣡ युगं꣡ वि꣡ शारि  
+इ꣡न्द्रः पातल्ये᳡ ददतां श꣡रीतोर्  
+अ꣡रिष्टनेमे अभि꣡ नः सचस्व  

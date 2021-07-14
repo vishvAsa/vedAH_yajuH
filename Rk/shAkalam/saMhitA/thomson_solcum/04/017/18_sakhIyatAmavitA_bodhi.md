@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-sakhīyatā́m avitā́ bodhi sákhā  
-gr̥ṇāná indra stuvaté váyo dhāḥ  
-vayáṃ hí ā́ te cakr̥mā́ sabā́dha  
-ābhíḥ śámībhir maháyanta indra  
+सखीयता꣡म् अविता꣡ बोधि स꣡खा  
+गृणान꣡ इन्द्र स्तुवते꣡ व꣡यो धाः  
+वयं꣡ हि꣡ आ꣡ ते चकृमा꣡ सबा꣡ध  
+आभिः꣡ श꣡मीभिर् मह꣡यन्त इन्द्र  

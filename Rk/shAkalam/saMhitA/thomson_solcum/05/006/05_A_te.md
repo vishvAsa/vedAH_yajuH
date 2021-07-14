@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-ā́ te agna r̥cā́ havíḥ  
-śúkrasya śociṣas pate  
-súścandra dásma víśpate  
-hávyavāṭ túbhyaṃ hūyata  
-íṣaṃ stotŕ̥bhya ā́ bhara  
+आ꣡ ते अग्न ऋचा꣡ हविः꣡  
+शु꣡क्रस्य शोचिषस् पते  
+सु꣡श्चन्द्र द꣡स्म वि꣡श्पते  
+ह꣡व्यवाट् तु꣡भ्यं हूयत  
+इ꣡षं स्तोत्ŕ̥भ्य आ꣡ भर  

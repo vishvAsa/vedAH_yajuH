@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imā́ṃ te dhíyam prá bhare mahó mahī́m  
-asyá stotré dhiṣáṇā yát ta ānajé  
-tám utsavé ca prasavé ca sāsahím  
-índraṃ devā́saḥ śávasāmadann ánu  
+इमां꣡ ते धि꣡यम् प्र꣡ भरे महो꣡ मही꣡म्  
+अस्य꣡ स्तोत्रे꣡ धिष꣡णा य꣡त् त आनजे꣡  
+त꣡म् उत्सवे꣡ च प्रसवे꣡ च सासहि꣡म्  
+इ꣡न्द्रं देवा꣡सः श꣡वसामदन्न् अ꣡नु  

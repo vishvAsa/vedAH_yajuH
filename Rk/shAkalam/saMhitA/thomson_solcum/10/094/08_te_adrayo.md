@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-té ádrayo dáśayantrāsa āśávas  
-téṣām ādhā́nam pári eti haryatám  
-tá ū sutásya somiyásya ándhaso  
-aṃśóḥ pīyū́ṣam prathamásya bhejire  
+ते꣡ अ꣡द्रयो द꣡शयन्त्रास आश꣡वस्  
+ते꣡षाम् आधा꣡नम् प꣡रि एति हर्यत꣡म्  
+त꣡ ऊ सुत꣡स्य सोमिय꣡स्य अ꣡न्धसो  
+अंशोः꣡ पीयू꣡षम् प्रथम꣡स्य भेजिरे  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-té pratnā́so víuṣṭiṣu  
-sómāḥ pavítre akṣaran  
-apapróthantaḥ sanutár huraścítaḥ  
-prātás tā́m̐ ápracetasaḥ  
+ते꣡ प्रत्ना꣡सो वि꣡उष्टिषु  
+सो꣡माः पवि꣡त्रे अक्षरन्  
+अपप्रो꣡थन्तः सनुत꣡र् हुरश्चि꣡तः  
+प्रात꣡स् ताँ꣡ अ꣡प्रचेतसः  

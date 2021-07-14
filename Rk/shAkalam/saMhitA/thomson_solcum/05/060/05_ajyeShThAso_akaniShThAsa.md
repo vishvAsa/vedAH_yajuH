@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ajyeṣṭhā́so ákaniṣṭhāsa eté  
-sám bhrā́taro vāvr̥dhuḥ saúbhagāya  
-yúvā pitā́ suápā rudrá eṣāṃ  
-sudúghā pŕ̥śniḥ sudínā marúdbhyaḥ  
+अज्येष्ठा꣡सो अ꣡कनिष्ठास एते꣡  
+स꣡म् भ्रा꣡तरो वावृधुः सउ꣡भगाय  
+यु꣡वा पिता꣡ सुअ꣡पा रुद्र꣡ एषां  
+सुदु꣡घा प्ŕ̥श्निः सुदि꣡ना मरु꣡द्भ्यः  

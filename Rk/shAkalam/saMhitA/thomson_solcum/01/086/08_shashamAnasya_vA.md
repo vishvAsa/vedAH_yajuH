@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-śaśamānásya vā naraḥ  
-svédasya satyaśavasaḥ  
-vidā́ kā́masya vénataḥ  
+शशमान꣡स्य वा नरः  
+स्वे꣡दस्य सत्यशवसः  
+विदा꣡ का꣡मस्य वे꣡नतः  

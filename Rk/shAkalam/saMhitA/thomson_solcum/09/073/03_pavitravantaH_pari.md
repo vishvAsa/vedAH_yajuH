@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-pavítravantaḥ pári vā́cam āsate  
-pitaíṣām pratnó abhí rakṣati vratám  
-maháḥ samudráṃ váruṇas tiró dadhe  
-dhī́rā íc chekur dharúṇeṣu ārábham  
+पवि꣡त्रवन्तः प꣡रि वा꣡चम् आसते  
+पितइ꣡षाम् प्रत्नो꣡ अभि꣡ रक्षति व्रत꣡म्  
+महः꣡ समुद्रं꣡ व꣡रुणस् तिरो꣡ दधे  
+धी꣡रा इ꣡च् छेकुर् धरु꣡णेषु आर꣡भम्  

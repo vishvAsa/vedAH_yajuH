@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-jihvā́bhir áha nánnamad  
-arcíṣā jañjaṇābhávan  
-agnír váneṣu rocate  
+जिह्वा꣡भिर् अ꣡ह न꣡न्नमद्  
+अर्चि꣡षा जञ्जणाभ꣡वन्  
+अग्नि꣡र् व꣡नेषु रोचते  

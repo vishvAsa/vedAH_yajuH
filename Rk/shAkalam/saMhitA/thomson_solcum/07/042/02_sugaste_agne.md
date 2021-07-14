@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sugás te agne sánavitto ádhvā  
-yukṣvā́ suté haríto rohítaś ca  
-yé vā sádmann aruṣā́ vīravā́ho  
-huvé devā́nāṃ jánimāni sattáḥ  
+सुग꣡स् ते अग्ने स꣡नवित्तो अ꣡ध्वा  
+युक्ष्वा꣡ सुते꣡ हरि꣡तो रोहि꣡तश् च  
+ये꣡ वा स꣡द्मन्न् अरुषा꣡ वीरवा꣡हो  
+हुवे꣡ देवा꣡नां ज꣡निमानि सत्तः꣡  

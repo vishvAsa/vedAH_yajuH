@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-átāriṣma támasas pārám asyá  
-práti vāṃ stómo aśvināv adhāyi  
-éhá yātam pathíbhir devayā́nair  
-vidyā́meṣáṃ vr̥jánaṃ jīrádānum  
+अ꣡तारिष्म त꣡मसस् पार꣡म् अस्य꣡  
+प्र꣡ति वां स्तो꣡मो अश्विनाव् अधायि  
+ए꣡ह꣡ यातम् पथि꣡भिर् देवया꣡नैर्  
+विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्  

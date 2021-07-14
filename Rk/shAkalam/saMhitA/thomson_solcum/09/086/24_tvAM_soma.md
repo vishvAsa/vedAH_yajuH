@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-tuvā́ṃ soma pávamānaṃ suādhíyo  
-ánu víprāso amadann avasyávaḥ  
-tuvā́ṃ suparṇá ā́bharad divás pári  
-índo víśvābhir matíbhiḥ páriṣkr̥tam  
+तुवां꣡ सोम प꣡वमानं सुआधि꣡यो  
+अ꣡नु वि꣡प्रासो अमदन्न् अवस्य꣡वः  
+तुवां꣡ सुपर्ण꣡ आ꣡भरद् दिव꣡स् प꣡रि  
+इ꣡न्दो वि꣡श्वाभिर् मति꣡भिः प꣡रिष्कृतम्  

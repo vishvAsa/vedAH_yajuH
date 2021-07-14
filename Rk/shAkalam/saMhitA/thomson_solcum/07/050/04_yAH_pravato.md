@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-yā́ḥ praváto niváta udváta  
-udanvátīr anudakā́ś ca yā́ḥ  
-tā́ asmábhyam páyasā pínvamānāḥ  
-śivā́ devī́r aśipadā́ bhavantu  
-sárvā nadyò aśimidā́ bhavantu  
+याः꣡ प्रव꣡तो निव꣡त उद्व꣡त  
+उदन्व꣡तीर् अनुदका꣡श् च याः꣡  
+ता꣡ अस्म꣡भ्यम् प꣡यसा पि꣡न्वमानाः  
+शिवा꣡ देवी꣡र् अशिपदा꣡ भवन्तु  
+स꣡र्वा नद्यो᳡ अशिमिदा꣡ भवन्तु  

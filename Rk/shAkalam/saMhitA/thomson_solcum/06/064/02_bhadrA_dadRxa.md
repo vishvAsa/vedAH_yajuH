@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-bhadrā́ dadr̥kṣa urviyā́ ví bhāsi  
-út te śocír bhānávo dyā́m apaptan  
-āvír vákṣaḥ kr̥ṇuṣe śumbhámānā  
-úṣo devi rócamānā máhobhiḥ  
+भद्रा꣡ ददृक्ष उर्विया꣡ वि꣡ भासि  
+उ꣡त् ते शोचि꣡र् भान꣡वो द्या꣡म् अपप्तन्  
+आवि꣡र् व꣡क्षः कृणुषे शुम्भ꣡माना  
+उ꣡षो देवि रो꣡चमाना म꣡होभिः  

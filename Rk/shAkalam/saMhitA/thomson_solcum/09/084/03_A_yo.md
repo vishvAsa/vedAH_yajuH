@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ yó góbhiḥ sr̥jyáta óṣadhīṣu ā́  
-devā́nāṃ sumná iṣáyann úpāvasuḥ  
-ā́ vidyútā pavate dhā́rayā sutá  
-índraṃ sómo mādáyan daíviyaṃ jánam  
+आ꣡ यो꣡ गो꣡भिः सृज्य꣡त ओ꣡षधीषु आ꣡  
+देवा꣡नां सुम्न꣡ इष꣡यन्न् उ꣡पावसुः  
+आ꣡ विद्यु꣡ता पवते धा꣡रया सुत꣡  
+इ꣡न्द्रं सो꣡मो माद꣡यन् दइ꣡वियं ज꣡नम्  

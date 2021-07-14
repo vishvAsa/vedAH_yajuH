@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-gárbhe yóṣām ádadhur vatsám āsáni  
-apīcíyena mánasotá jihváyā  
-sá viśvā́hā sumánā yogiyā́ abhí  
-siṣāsánir vanate kārá íj jítim  
+ग꣡र्भे यो꣡षाम् अ꣡दधुर् वत्स꣡म् आस꣡नि  
+अपीचि꣡येन म꣡नसोत꣡ जिह्व꣡या  
+स꣡ विश्वा꣡हा सुम꣡ना योगिया꣡ अभि꣡  
+सिषास꣡निर् वनते कार꣡ इ꣡ज् जि꣡तिम्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-arvā́ñcam adyá yayíyaṃ nr̥vā́haṇaṃ  
-ráthaṃ yuñjāthām ihá vāṃ vimócanam  
-pr̥ṅktáṃ havī́ṃṣi mádhunā́ hí kaṃ gatám  
-áthā sómam pibataṃ vājinīvasū  
+अर्वा꣡ञ्चम् अद्य꣡ ययि꣡यं नृवा꣡हणं  
+र꣡थं युञ्जाथाम् इह꣡ वां विमो꣡चनम्  
+पृङ्क्तं꣡ हवीं꣡षि म꣡धुना꣡ हि꣡ कं गत꣡म्  
+अ꣡था सो꣡मम् पिबतं वाजिनीवसू  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ nas tújaṃ rayím bhara  
-áṃśaṃ ná pratijānaté  
-vr̥kṣám pakvám phálam aṅkī́va dhūnuhi  
-índra sampā́raṇaṃ vásu  
+आ꣡ नस् तु꣡जं रयि꣡म् भर  
+अं꣡शं न꣡ प्रतिजानते꣡  
+वृक्ष꣡म् पक्व꣡म् फ꣡लम् अङ्की꣡व धूनुहि  
+इ꣡न्द्र सम्पा꣡रणं व꣡सु  

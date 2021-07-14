@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yó jātá evá prathamó mánasvān  
-devó devā́n krátunā paryábhūṣat  
-yásya śúṣmād ródasī ábhyasetāṃ  
-nr̥mṇásya mahnā́ sá janāsa índraḥ  
+यो꣡ जात꣡ एव꣡ प्रथमो꣡ म꣡नस्वान्  
+देवो꣡ देवा꣡न् क्र꣡तुना पर्य꣡भूषत्  
+य꣡स्य शु꣡ष्माद् रो꣡दसी अ꣡भ्यसेतां  
+नृम्ण꣡स्य मह्ना꣡ स꣡ जनास इ꣡न्द्रः  

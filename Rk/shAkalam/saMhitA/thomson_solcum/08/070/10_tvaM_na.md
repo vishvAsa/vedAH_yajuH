@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tuváṃ na indra r̥tayús  
-tuvānído ní tr̥mpasi  
-mádhye vasiṣva tuvinr̥mṇa ūruvór  
-ní dāsáṃ śiśnatho háthaiḥ  
+तुवं꣡ न इन्द्र ऋतयु꣡स्  
+तुवानि꣡दो नि꣡ तृम्पसि  
+म꣡ध्ये वसिष्व तुविनृम्ण ऊरुवो꣡र्  
+नि꣡ दासं꣡ शिश्नथो ह꣡थैः  

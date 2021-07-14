@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-sá bodhi sūrír maghávā  
-vásupate vásudāvan  
-yuyodhí asmád dvéṣāṃsi  
+स꣡ बोधि सूरि꣡र् मघ꣡वा  
+व꣡सुपते व꣡सुदावन्  
+युयोधि꣡ अस्म꣡द् द्वे꣡षांसि  

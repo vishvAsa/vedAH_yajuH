@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tuvā́m idā́ hiyó náro  
-ápīpyan vajrin bhū́rṇayaḥ  
-sá indra stómavāhasām ihá śrudhi  
-úpa svásaram ā́ gahi  
+तुवा꣡म् इदा꣡ हियो꣡ न꣡रो  
+अ꣡पीप्यन् वज्रिन् भू꣡र्णयः  
+स꣡ इन्द्र स्तो꣡मवाहसाम् इह꣡ श्रुधि  
+उ꣡प स्व꣡सरम् आ꣡ गहि  

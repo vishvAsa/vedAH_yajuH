@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-dáno víśa indara+ mr̥dhrávācaḥ  
-saptá yát púraḥ śárma śā́radīr dárt  
-r̥ṇór apó · anavadya árṇā  
-yū́ne vr̥trám purukútsāya randhīḥ  
+द꣡नो वि꣡श इन्दर+ मृध्र꣡वाचः  
+सप्त꣡ य꣡त् पु꣡रः श꣡र्म शा꣡रदीर् द꣡र्त्  
+ऋणो꣡र् अपो꣡ · अनवद्य अ꣡र्णा  
+यू꣡ने वृत्र꣡म् पुरुकु꣡त्साय रन्धीः  

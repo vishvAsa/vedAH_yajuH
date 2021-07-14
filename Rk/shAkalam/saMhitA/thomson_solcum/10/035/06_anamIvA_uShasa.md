@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-anamīvā́ uṣása ā́ carantu na  
-úd agnáyo jihatāṃ jyótiṣā br̥hát  
-ā́yukṣātām aśvínā tū́tujiṃ ráthaṃ  
-suastí agníṃ samidhānám īmahe  
+अनमीवा꣡ उष꣡स आ꣡ चरन्तु न  
+उ꣡द् अग्न꣡यो जिहतां ज्यो꣡तिषा बृह꣡त्  
+आ꣡युक्षाताम् अश्वि꣡ना तू꣡तुजिं र꣡थं  
+सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे  

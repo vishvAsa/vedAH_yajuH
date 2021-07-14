@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índram mitráṃ váruṇam agním ūtáye  
-mā́rutaṃ śárdho áditiṃ havāmahe  
-ráthaṃ ná durgā́d vasavaḥ sudānavo  
-víśvasmān no áṃhaso níṣ pipartana  
+इ꣡न्द्रम् मित्रं꣡ व꣡रुणम् अग्नि꣡म् ऊत꣡ये  
+मा꣡रुतं श꣡र्धो अ꣡दितिं हवामहे  
+र꣡थं न꣡ दुर्गा꣡द् वसवः सुदानवो  
+वि꣡श्वस्मान् नो अं꣡हसो नि꣡ष् पिपर्तन  

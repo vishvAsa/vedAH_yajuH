@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-varā́ ivéd raivatā́so híraṇyair  
-abhí svadhā́bhis tanúvaḥ pipiśre  
-śriyé śréyāṃsas taváso rátheṣu  
-satrā́ máhāṃsi cakrire tanū́ṣu  
+वरा꣡ इवे꣡द् रैवता꣡सो हि꣡रण्यैर्  
+अभि꣡ स्वधा꣡भिस् तनु꣡वः पिपिश्रे  
+श्रिये꣡ श्रे꣡यांसस् तव꣡सो र꣡थेषु  
+सत्रा꣡ म꣡हांसि चक्रिरे तनू꣡षु  

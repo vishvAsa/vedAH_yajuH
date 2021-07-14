@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sá no arṣābhí dūtíyaṃ  
-tuvám índrāya tośase  
-devā́n sákhibhya ā́ váram  
+स꣡ नो अर्षाभि꣡ दूति꣡यं  
+तुव꣡म् इ꣡न्द्राय तोशसे  
+देवा꣡न् स꣡खिभ्य आ꣡ व꣡रम्  

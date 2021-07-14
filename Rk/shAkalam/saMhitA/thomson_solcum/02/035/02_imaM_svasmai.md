@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-imáṃ sú asmai hr̥dá ā́ sútaṣṭam  
-mántraṃ vocema kuvíd asya védat  
-apā́ṃ nápād asuríyasya mahnā́  
-víśvāni aryó bhúvanā jajāna  
+इमं꣡ सु꣡ अस्मै हृद꣡ आ꣡ सु꣡तष्टम्  
+म꣡न्त्रं वोचेम कुवि꣡द् अस्य वे꣡दत्  
+अपां꣡ न꣡पाद् असुरि꣡यस्य मह्ना꣡  
+वि꣡श्वानि अर्यो꣡ भु꣡वना जजान  

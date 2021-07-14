@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-yuñjánti hárī iṣirásya gā́thayā  
-uraú rátha urúyuge  
-indravā́hā vacoyújā  
+युञ्ज꣡न्ति ह꣡री इषिर꣡स्य गा꣡थया  
+उरउ꣡ र꣡थ उरु꣡युगे  
+इन्द्रवा꣡हा वचोयु꣡जा  

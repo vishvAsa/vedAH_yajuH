@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-r̥tásya budhná uṣásām iṣaṇyán  
-vŕ̥ṣā mahī́ ródasī ā́ viveśa  
-mahī́ mitrásya váruṇasya māyā́  
-candréva bhānúṃ ví dadhe purutrā́  
+ऋत꣡स्य बुध्न꣡ उष꣡साम् इषण्य꣡न्  
+व्ŕ̥षा मही꣡ रो꣡दसी आ꣡ विवेश  
+मही꣡ मित्र꣡स्य व꣡रुणस्य माया꣡  
+चन्द्रे꣡व भानुं꣡ वि꣡ दधे पुरुत्रा꣡  

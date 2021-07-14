@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-vayám u tvā tadídarthā  
-índra tvāyántaḥ sákhāyaḥ  
-káṇvā ukthébhir jarante  
+वय꣡म् उ त्वा तदि꣡दर्था  
+इ꣡न्द्र त्वाय꣡न्तः स꣡खायः  
+क꣡ण्वा उक्थे꣡भिर् जरन्ते  

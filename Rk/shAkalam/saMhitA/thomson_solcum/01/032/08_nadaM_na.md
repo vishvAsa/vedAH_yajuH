@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-nadáṃ ná bhinnám amuyā́ śáyānam  
-máno rúhāṇā áti yanti ā́paḥ  
-yā́ś cid vr̥tró mahinā́ paryátiṣṭhat  
-tā́sām áhiḥ patsutaḥśī́r babhūva  
+नदं꣡ न꣡ भिन्न꣡म् अमुया꣡ श꣡यानम्  
+म꣡नो रु꣡हाणा अ꣡ति यन्ति आ꣡पः  
+या꣡श् चिद् वृत्रो꣡ महिना꣡ पर्य꣡तिष्ठत्  
+ता꣡साम् अ꣡हिः पत्सुतःशी꣡र् बभूव  

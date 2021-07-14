@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sá mātárā ná dádr̥śāna usríyo  
-nā́nadad eti marútām iva svanáḥ  
-jānánn r̥tám prathamáṃ yát súvarṇaram  
-práśastaye kám avr̥ṇīta sukrátuḥ  
+स꣡ मात꣡रा न꣡ द꣡दृशान उस्रि꣡यो  
+ना꣡नदद् एति मरु꣡ताम् इव स्वनः꣡  
+जान꣡न्न् ऋत꣡म् प्रथमं꣡ य꣡त् सु꣡वर्णरम्  
+प्र꣡शस्तये क꣡म् अवृणीत सुक्र꣡तुः  

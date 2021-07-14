@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-parikṣítā pitárā pūrvajā́varī  
-r̥tásya yónā kṣayataḥ sámokasā  
-dyā́vāpr̥thivī́ váruṇāya sávrate  
-ghr̥távat páyo mahiṣā́ya pinvataḥ  
+परिक्षि꣡ता पित꣡रा पूर्वजा꣡वरी  
+ऋत꣡स्य यो꣡ना क्षयतः स꣡मोकसा  
+द्या꣡वापृथिवी꣡ व꣡रुणाय स꣡व्रते  
+घृत꣡वत् प꣡यो महिषा꣡य पिन्वतः  

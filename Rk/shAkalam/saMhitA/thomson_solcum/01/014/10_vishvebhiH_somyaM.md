@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-víśvebhiḥ somiyám mádhu  
-ágna índreṇa vāyúnā  
-píbā mitrásya dhā́mabhiḥ  
+वि꣡श्वेभिः सोमिय꣡म् म꣡धु  
+अ꣡ग्न इ꣡न्द्रेण वायु꣡ना  
+पि꣡बा मित्र꣡स्य धा꣡मभिः  

@@ -2,6 +2,6 @@
 title = "029"
 
 +++
-suṣóme śaryaṇā́vati  
-ārjīké pastíyāvati  
-yayúr nícakrayā náraḥ  
+सुषो꣡मे शर्यणा꣡वति  
+आर्जीके꣡ पस्ति꣡यावति  
+ययु꣡र् नि꣡चक्रया न꣡रः  

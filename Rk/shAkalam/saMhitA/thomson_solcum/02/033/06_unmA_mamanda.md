@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ún mā mamanda vr̥ṣabhó marútvān  
-tvákṣīyasā váyasā nā́dhamānam  
-ghŕ̥ṇīva chāyā́m arapā́ aśīya  
-ā́ vivāseyaṃ rudarásya+ sumnám  
+उ꣡न् मा ममन्द वृषभो꣡ मरु꣡त्वान्  
+त्व꣡क्षीयसा व꣡यसा ना꣡धमानम्  
+घ्ŕ̥णीव छाया꣡म् अरपा꣡ अशीय  
+आ꣡ विवासेयं रुदर꣡स्य+ सुम्न꣡म्  

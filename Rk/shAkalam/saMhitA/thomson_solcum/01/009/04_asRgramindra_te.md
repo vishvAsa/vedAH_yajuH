@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ásr̥gram indra te gíraḥ  
-práti tvā́m úd ahāsata  
-ájoṣā vr̥ṣabhám pátim  
+अ꣡सृग्रम् इन्द्र ते गि꣡रः  
+प्र꣡ति त्वा꣡म् उ꣡द् अहासत  
+अ꣡जोषा वृषभ꣡म् प꣡तिम्  

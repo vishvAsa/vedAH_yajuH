@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-ayáṃ samaha mā tanu  
-ūhyā́te jánām̐ ánu  
-somapéyaṃ sukhó ráthaḥ  
+अयं꣡ समह मा तनु  
+ऊह्या꣡ते ज꣡नाँ अ꣡नु  
+सोमपे꣡यं सुखो꣡ र꣡थः  

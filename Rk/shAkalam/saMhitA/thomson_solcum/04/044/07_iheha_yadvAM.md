@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ihéha yád vāṃ samanā́ papr̥kṣé  
-séyám asmé sumatír vājaratnā  
-uruṣyátaṃ jaritā́raṃ yuváṃ ha  
-śritáḥ kā́mo nāsatiyā yuvadrík  
+इहे꣡ह य꣡द् वां समना꣡ पपृक्षे꣡  
+से꣡य꣡म् अस्मे꣡ सुमति꣡र् वाजरत्ना  
+उरुष्य꣡तं जरिता꣡रं युवं꣡ ह  
+श्रितः꣡ का꣡मो नासतिया युवद्रि꣡क्  

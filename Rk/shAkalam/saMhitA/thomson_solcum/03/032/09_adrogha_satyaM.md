@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ádrogha satyáṃ táva tán mahitváṃ  
-sadyó yáj jātó ápibo ha sómam  
-ná dyā́va indra tavásas ta ójo  
-nā́hā ná mā́sāḥ śarádo varanta  
+अ꣡द्रोघ सत्यं꣡ त꣡व त꣡न् महित्वं꣡  
+सद्यो꣡ य꣡ज् जातो꣡ अ꣡पिबो ह सो꣡मम्  
+न꣡ द्या꣡व इन्द्र तव꣡सस् त ओ꣡जो  
+ना꣡हा न꣡ मा꣡साः शर꣡दो वरन्त  

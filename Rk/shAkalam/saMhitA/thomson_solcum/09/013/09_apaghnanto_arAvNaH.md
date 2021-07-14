@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-apaghnánto árāvaṇaḥ  
-pávamānāḥ suvardŕ̥śaḥ  
-yónāv r̥tásya sīdata  
+अपघ्न꣡न्तो अ꣡रावणः  
+प꣡वमानाः सुवर्द्ŕ̥शः  
+यो꣡नाव् ऋत꣡स्य सीदत  

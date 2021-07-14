@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kathā́ devā́nāṃ katamásya yā́mani  
-sumántu nā́ma śr̥ṇvatā́m manāmahe  
-kó mr̥̄ḷāti+ katamó no máyas karat  
-katamá ūtī́ abhí ā́ vavartati  
+कथा꣡ देवा꣡नां कतम꣡स्य या꣡मनि  
+सुम꣡न्तु ना꣡म शृण्वता꣡म् मनामहे  
+को꣡ मॄऌआति+ कतमो꣡ नो म꣡यस् करत्  
+कतम꣡ ऊती꣡ अभि꣡ आ꣡ ववर्तति  

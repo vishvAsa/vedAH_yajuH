@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tváṣṭāraṃ vāyúm r̥bhavo yá óhate  
-daívyā hótārā uṣásaṃ suastáye  
-bŕ̥haspátiṃ vr̥trakhādáṃ sumedhásam  
-indriyáṃ sómaṃ dhanasā́ u īmahe  
+त्व꣡ष्टारं वायु꣡म् ऋभवो य꣡ ओ꣡हते  
+दइ꣡व्या हो꣡तारा उष꣡सं सुअस्त꣡ये  
+ब्ŕ̥हस्प꣡तिं वृत्रखादं꣡ सुमेध꣡सम्  
+इन्द्रियं꣡ सो꣡मं धनसा꣡ उ ईमहे  

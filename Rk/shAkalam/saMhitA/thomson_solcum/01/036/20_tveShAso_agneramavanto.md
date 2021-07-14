@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-tveṣā́so agnér ámavanto arcáyo  
-bhīmā́so ná prátītaye  
-rakṣasvínaḥ sádam íd yātumā́vato  
-víśvaṃ sám atríṇaṃ daha  
+त्वेषा꣡सो अग्ने꣡र् अ꣡मवन्तो अर्च꣡यो  
+भीमा꣡सो न꣡ प्र꣡तीतये  
+रक्षस्वि꣡नः स꣡दम् इ꣡द् यातुमा꣡वतो  
+वि꣡श्वं स꣡म् अत्रि꣡णं दह  

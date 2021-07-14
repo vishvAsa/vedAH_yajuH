@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-káti agnáyaḥ káti sū́riyāsaḥ  
-káti uṣā́saḥ káti u svid ā́paḥ  
-nópaspíjaṃ vaḥ pitaro vadāmi  
-pr̥chā́mi vaḥ kavayo vidmáne kám  
+क꣡ति अग्न꣡यः क꣡ति सू꣡रियासः  
+क꣡ति उषा꣡सः क꣡ति उ स्विद् आ꣡पः  
+नो꣡पस्पि꣡जं वः पितरो वदामि  
+पृछा꣡मि वः कवयो विद्म꣡ने क꣡म्  

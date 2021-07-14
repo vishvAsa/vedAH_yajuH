@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sárasvati yā́ saráthaṃ yayā́tha  
-svadhā́bhir devi pitŕ̥bhir mádantī  
-āsádyāsmín barhíṣi mādayasva  
-anamīvā́ íṣa ā́ dhehi asmé  
+स꣡रस्वति या꣡ सर꣡थं यया꣡थ  
+स्वधा꣡भिर् देवि पित्ŕ̥भिर् म꣡दन्ती  
+आस꣡द्यास्मि꣡न् बर्हि꣡षि मादयस्व  
+अनमीवा꣡ इ꣡ष आ꣡ धेहि अस्मे꣡  

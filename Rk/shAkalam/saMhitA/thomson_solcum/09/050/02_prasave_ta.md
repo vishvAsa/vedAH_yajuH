@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-prasavé ta úd īrate  
-tisró vā́co makhasyúvaḥ  
-yád ávya éṣi sā́navi  
+प्रसवे꣡ त उ꣡द् ईरते  
+तिस्रो꣡ वा꣡चो मखस्यु꣡वः  
+य꣡द् अ꣡व्य ए꣡षि सा꣡नवि  

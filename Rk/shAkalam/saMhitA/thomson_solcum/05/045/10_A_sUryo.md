@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́ sū́riyo aruhac chukrám árṇo  
-áyukta yád dharíto vītápr̥ṣṭhāḥ  
-udnā́ ná nā́vam anayanta dhī́rā  
-āśr̥ṇvatī́r ā́po arvā́g atiṣṭhan  
+आ꣡ सू꣡रियो अरुहच् छुक्र꣡म् अ꣡र्णो  
+अ꣡युक्त य꣡द् धरि꣡तो वीत꣡पृष्ठाः  
+उद्ना꣡ न꣡ ना꣡वम् अनयन्त धी꣡रा  
+आशृण्वती꣡र् आ꣡पो अर्वा꣡ग् अतिष्ठन्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prajā́patir máhyam etā́ rárāṇo  
-víśvair devaíḥ pitŕ̥bhiḥ saṃvidānáḥ  
-śivā́ḥ satī́r úpa no goṣṭhám ā́kas  
-tā́sāṃ vayám prajáyā sáṃ sadema  
+प्रजा꣡पतिर् म꣡ह्यम् एता꣡ र꣡राणो  
+वि꣡श्वैर् देवइः꣡ पित्ŕ̥भिः संविदानः꣡  
+शिवाः꣡ सती꣡र् उ꣡प नो गोष्ठ꣡म् आ꣡कस्  
+ता꣡सां वय꣡म् प्रज꣡या सं꣡ सदेम  

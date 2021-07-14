@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá mātaríśvā puruvā́rapuṣṭir  
-vidád gātúṃ tánayāya suvarvít  
-viśā́ṃ gopā́ janitā́ ródasīyor  
-devā́ agníṃ dhārayan draviṇodā́m  
+स꣡ मातरि꣡श्वा पुरुवा꣡रपुष्टिर्  
+विद꣡द् गातुं꣡ त꣡नयाय सुवर्वि꣡त्  
+विशां꣡ गोपा꣡ जनिता꣡ रो꣡दसीयोर्  
+देवा꣡ अग्निं꣡ धारयन् द्रविणोदा꣡म्  

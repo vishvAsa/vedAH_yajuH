@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yáṃ te śyenáś cā́rum avr̥kám padā́bharad  
-aruṇám mānám ándhasaḥ  
-enā́ váyo ví tāri ā́yu° jīvása  
-enā́ jāgāra bandhútā  
+यं꣡ ते श्येन꣡श् चा꣡रुम् अवृक꣡म् पदा꣡भरद्  
+अरुण꣡म् मान꣡म् अ꣡न्धसः  
+एना꣡ व꣡यो वि꣡ तारि आ꣡यु° जीव꣡स  
+एना꣡ जागार बन्धु꣡ता  

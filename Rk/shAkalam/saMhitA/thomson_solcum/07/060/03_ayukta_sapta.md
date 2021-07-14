@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-áyukta saptá harítaḥ sadhásthād  
-yā́ īṃ váhanti sū́riyaṃ ghr̥tā́cīḥ  
-dhā́māni mitrāvaruṇā yuvā́kuḥ  
-sáṃ yó yūthéva jánimāni cáṣṭe  
+अ꣡युक्त सप्त꣡ हरि꣡तः सध꣡स्थाद्  
+या꣡ ईं व꣡हन्ति सू꣡रियं घृता꣡चीः  
+धा꣡मानि मित्रावरुणा युवा꣡कुः  
+सं꣡ यो꣡ यूथे꣡व ज꣡निमानि च꣡ष्टे  

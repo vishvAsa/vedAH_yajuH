@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-hayé jā́ye mánasā tíṣṭha ghore  
-vácāṃsi miśrā́ kr̥ṇavāvahai nú  
-ná nau mántrā ánuditāsa eté  
-máyas karan páratare canā́han  
+हये꣡ जा꣡ये म꣡नसा ति꣡ष्ठ घोरे  
+व꣡चांसि मिश्रा꣡ कृणवावहै नु꣡  
+न꣡ नौ म꣡न्त्रा अ꣡नुदितास एते꣡  
+म꣡यस् करन् प꣡रतरे चना꣡हन्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-svápnenābhyúpyā cúmuriṃ dhúniṃ ca  
-jaghántha dásyum prá dabhī́tim āvaḥ  
-rambhī́ cid átra vivide híraṇyaṃ  
-sómasya tā́ máda índraś cakāra  
+स्व꣡प्नेनाभ्यु꣡प्या चु꣡मुरिं धु꣡निं च  
+जघ꣡न्थ द꣡स्युम् प्र꣡ दभी꣡तिम् आवः  
+रम्भी꣡ चिद् अ꣡त्र विविदे हि꣡रण्यं  
+सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार  

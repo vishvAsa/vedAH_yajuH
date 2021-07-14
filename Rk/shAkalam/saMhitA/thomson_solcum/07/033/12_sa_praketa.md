@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-sá praketá ubháyasya pravidvā́n  
-sahásradāna utá vā sádānaḥ  
-yaména tatám paridhíṃ vayiṣyánn  
-apsarásaḥ pári jajñe vásiṣṭhaḥ  
+स꣡ प्रकेत꣡ उभ꣡यस्य प्रविद्वा꣡न्  
+सह꣡स्रदान उत꣡ वा स꣡दानः  
+यमे꣡न तत꣡म् परिधिं꣡ वयिष्य꣡न्न्  
+अप्सर꣡सः प꣡रि जज्ञे व꣡सिष्ठः  

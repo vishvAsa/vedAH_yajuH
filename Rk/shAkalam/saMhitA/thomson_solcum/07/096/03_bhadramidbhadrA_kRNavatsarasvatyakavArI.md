@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-bhadrám íd bhadrā́ kr̥ṇavat sárasvatī  
-ákavārī cetati vājínīvatī  
-gr̥ṇānā́ jamadagnivát  
-stuvānā́ ca vasiṣṭhavát  
+भद्र꣡म् इ꣡द् भद्रा꣡ कृणवत् स꣡रस्वती  
+अ꣡कवारी चेतति वाजि꣡नीवती  
+गृणाना꣡ जमदग्निव꣡त्  
+स्तुवाना꣡ च वसिष्ठव꣡त्  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-prā́smai hinota mádhumantam ūrmíṃ  
-gárbho yó vaḥ sindhavo mádhva útsaḥ  
-ghr̥tápr̥ṣṭham ī́ḍiyam adhvaréṣu  
-ā́po revatīḥ śr̥ṇutā́ hávam me  
+प्रा꣡स्मै हिनोत म꣡धुमन्तम् ऊर्मिं꣡  
+ग꣡र्भो यो꣡ वः सिन्धवो म꣡ध्व उ꣡त्सः  
+घृत꣡पृष्ठम् ई꣡डियम् अध्वरे꣡षु  
+आ꣡पो रेवतीः शृणुता꣡ ह꣡वम् मे  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-stríyo hí dāsá ā́yudhāni cakré  
-kím mā karann abalā́ asya sénāḥ  
-antár hí ákhyad ubhé asya dhéne  
-áthópa praíd yudháye dásyum índraḥ  
+स्त्रि꣡यो हि꣡ दास꣡ आ꣡युधानि चक्रे꣡  
+कि꣡म् मा करन्न् अबला꣡ अस्य से꣡नाः  
+अन्त꣡र् हि꣡ अ꣡ख्यद् उभे꣡ अस्य धे꣡ने  
+अ꣡थो꣡प प्रइ꣡द् युध꣡ये द꣡स्युम् इ꣡न्द्रः  

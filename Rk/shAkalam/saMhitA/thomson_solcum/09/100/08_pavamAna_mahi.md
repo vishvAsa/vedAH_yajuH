@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-pávamāna máhi śrávaś  
-citrébhir yāsi raśmíbhiḥ  
-śárdhan támāṃsi jighnase  
-víśvāni dāśúṣo gr̥hé  
+प꣡वमान म꣡हि श्र꣡वश्  
+चित्रे꣡भिर् यासि रश्मि꣡भिः  
+श꣡र्धन् त꣡मांसि जिघ्नसे  
+वि꣡श्वानि दाशु꣡षो गृहे꣡  

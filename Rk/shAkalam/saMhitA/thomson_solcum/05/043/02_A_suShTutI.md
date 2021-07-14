@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ suṣṭutī́ námasā vartayádhyai  
-dyā́vā vā́jāya pr̥thivī́ ámr̥dhre  
-pitā́ mātā́ mádhuvacāḥ suhástā  
-bháre-bhare no yaśásāv aviṣṭām  
+आ꣡ सुष्टुती꣡ न꣡मसा वर्तय꣡ध्यै  
+द्या꣡वा वा꣡जाय पृथिवी꣡ अ꣡मृध्रे  
+पिता꣡ माता꣡ म꣡धुवचाः सुह꣡स्ता  
+भ꣡रे-भरे नो यश꣡साव् अविष्टाम्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ihópa yāta śavaso napātaḥ  
-saúdhanvanā r̥bhavo mā́pa bhūta  
-asmín hí vaḥ sávane ratnadhéyaṃ  
-gámantu índram ánu vo mádāsaḥ  
+इहो꣡प यात शवसो नपातः  
+सउ꣡धन्वना ऋभवो मा꣡प भूत  
+अस्मि꣡न् हि꣡ वः स꣡वने रत्नधे꣡यं  
+ग꣡मन्तु इ꣡न्द्रम् अ꣡नु वो म꣡दासः  

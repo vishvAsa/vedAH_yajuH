@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sū́ryo devī́m uṣásaṃ rócamānām  
-máryo ná yóṣām abhí eti paścā́t  
-yátrā náro devayánto yugā́ni  
-vitanvaté práti bhadrā́ya bhadrám  
+सू꣡र्यो देवी꣡म् उष꣡सं रो꣡चमानाम्  
+म꣡र्यो न꣡ यो꣡षाम् अभि꣡ एति पश्चा꣡त्  
+य꣡त्रा न꣡रो देवय꣡न्तो युगा꣡नि  
+वितन्वते꣡ प्र꣡ति भद्रा꣡य भद्र꣡म्  

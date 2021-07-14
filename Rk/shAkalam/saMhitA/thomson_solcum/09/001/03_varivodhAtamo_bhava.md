@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-varivodhā́tamo bhava  
-máṃhiṣṭho vr̥trahántamaḥ  
-párṣi rā́dho maghónãm  
+वरिवोधा꣡तमो भव  
+मं꣡हिष्ठो वृत्रह꣡न्तमः  
+प꣡र्षि रा꣡धो मघो꣡न्ãम्  

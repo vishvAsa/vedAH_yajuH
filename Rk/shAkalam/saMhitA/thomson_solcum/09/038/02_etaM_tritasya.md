@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-etáṃ tritásya yóṣaṇo  
-háriṃ hinvanti ádribhiḥ  
-índum índrāya pītáye  
+एतं꣡ त्रित꣡स्य यो꣡षणो  
+ह꣡रिं हिन्वन्ति अ꣡द्रिभिः  
+इ꣡न्दुम् इ꣡न्द्राय पीत꣡ये  

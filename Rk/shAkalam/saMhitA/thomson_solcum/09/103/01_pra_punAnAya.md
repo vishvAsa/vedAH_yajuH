@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-prá punānā́ya vedháse  
-sómāya váca údyatam  
-bhr̥tíṃ ná bharā matíbhir jújoṣate  
+प्र꣡ पुनाना꣡य वेध꣡से  
+सो꣡माय व꣡च उ꣡द्यतम्  
+भृतिं꣡ न꣡ भरा मति꣡भिर् जु꣡जोषते  

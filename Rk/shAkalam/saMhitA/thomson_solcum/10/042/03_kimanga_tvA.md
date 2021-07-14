@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-kím aṅgá tvā maghavan bhojám āhuḥ  
-śiśīhí mā śiśayáṃ tvā śr̥ṇomi  
-ápnasvatī máma dhī́r astu śakra  
-vasuvídam bhágam indrā́ bharā naḥ  
+कि꣡म् अङ्ग꣡ त्वा मघवन् भोज꣡म् आहुः  
+शिशीहि꣡ मा शिशयं꣡ त्वा शृणोमि  
+अ꣡प्नस्वती म꣡म धी꣡र् अस्तु शक्र  
+वसुवि꣡दम् भ꣡गम् इन्द्रा꣡ भरा नः  

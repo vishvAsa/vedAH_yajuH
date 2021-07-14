@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-táṃ yuñjāthām mánaso yó jávīyān  
-trivandhuró vr̥ṣaṇā yás tricakráḥ  
-yénopayātháḥ sukŕ̥to duroṇáṃ  
-tridhā́tunā patatho vír ná parṇaíḥ  
+तं꣡ युञ्जाथाम् म꣡नसो यो꣡ ज꣡वीयान्  
+त्रिवन्धुरो꣡ वृषणा य꣡स् त्रिचक्रः꣡  
+ये꣡नोपयाथः꣡ सुक्ŕ̥तो दुरोणं꣡  
+त्रिधा꣡तुना पतथो वि꣡र् न꣡ पर्णइः꣡  

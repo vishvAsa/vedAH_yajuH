@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-táva víśve sajóṣaso  
-devā́saḥ pītím āśata  
-mádeṣu sarvadhā́ asi  
+त꣡व वि꣡श्वे सजो꣡षसो  
+देवा꣡सः पीति꣡म् आशत  
+म꣡देषु सर्वधा꣡ असि  

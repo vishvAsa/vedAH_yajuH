@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tá íd devā́nāṃ sadhamā́da āsann  
-r̥tā́vānaḥ kaváyaḥ pūrviyā́saḥ  
-gūḷháṃ jyótiḥ pitáro ánv avindan  
-satyámantrā ajanayann uṣā́sam  
+त꣡ इ꣡द् देवा꣡नां सधमा꣡द आसन्न्  
+ऋता꣡वानः कव꣡यः पूर्विया꣡सः  
+गूऌहं꣡ ज्यो꣡तिः पित꣡रो अ꣡न्व् अविन्दन्  
+सत्य꣡मन्त्रा अजनयन्न् उषा꣡सम्  

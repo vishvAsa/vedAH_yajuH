@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-ácyutā cid vo ájman ā́  
-nā́nadati párvatāso vánaspátiḥ  
-bhū́mir yā́meṣu rejate  
+अ꣡च्युता चिद् वो अ꣡ज्मन् आ꣡  
+ना꣡नदति प꣡र्वतासो व꣡नस्प꣡तिः  
+भू꣡मिर् या꣡मेषु रेजते  

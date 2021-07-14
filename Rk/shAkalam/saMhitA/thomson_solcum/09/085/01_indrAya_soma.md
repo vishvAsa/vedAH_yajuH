@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índrāya soma súṣutaḥ pári srava  
-ápā́mīvā bhavatu rákṣasā sahá  
-mā́ te rásasya matsata dvayāvíno  
-dráviṇasvanta ihá santu índavaḥ  
+इ꣡न्द्राय सोम सु꣡षुतः प꣡रि स्रव  
+अ꣡पा꣡मीवा भवतु र꣡क्षसा सह꣡  
+मा꣡ ते र꣡सस्य मत्सत द्वयावि꣡नो  
+द्र꣡विणस्वन्त इह꣡ सन्तु इ꣡न्दवः  

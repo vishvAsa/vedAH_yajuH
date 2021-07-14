@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-nákir asya sahantiya  
-parietā́ káyasya cit  
-vā́jo asti śravā́yiyaḥ  
+न꣡किर् अस्य सहन्तिय  
+परिएता꣡ क꣡यस्य चित्  
+वा꣡जो अस्ति श्रवा꣡यियः  

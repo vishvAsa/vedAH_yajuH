@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-práti priyátamaṃ ráthaṃ  
-vŕ̥ṣaṇaṃ vasuvā́hanam  
-stotā́ vām aśvināv ŕ̥ṣiḥ  
-stómena práti bhūṣati  
-mā́dhvī máma śrutaṃ hávam  
+प्र꣡ति प्रिय꣡तमं र꣡थं  
+व्ŕ̥षणं वसुवा꣡हनम्  
+स्तोता꣡ वाम् अश्विनाव् ŕ̥षिः  
+स्तो꣡मेन प्र꣡ति भूषति  
+मा꣡ध्वी म꣡म श्रुतं ह꣡वम्  

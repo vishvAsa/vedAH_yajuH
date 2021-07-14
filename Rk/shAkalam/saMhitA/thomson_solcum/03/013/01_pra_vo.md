@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá vo devā́ya agnáye  
-bárhiṣṭham arca asmai  
-gámad devébhir ā́ sá no  
-yájiṣṭho barhír ā́ sadat  
+प्र꣡ वो देवा꣡य अग्न꣡ये  
+ब꣡र्हिष्ठम् अर्च अस्मै  
+ग꣡मद् देवे꣡भिर् आ꣡ स꣡ नो  
+य꣡जिष्ठो बर्हि꣡र् आ꣡ सदत्  

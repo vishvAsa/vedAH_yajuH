@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-paścā́t purástād adharā́d údaktāt  
-kavíḥ kā́vyena pári pāhi rājan  
-sákhe sákhāyam ajáro jarimṇé  
-ágne mártām̐ ámartiyas tuváṃ naḥ  
+पश्चा꣡त् पुर꣡स्ताद् अधरा꣡द् उ꣡दक्तात्  
+कविः꣡ का꣡व्येन प꣡रि पाहि राजन्  
+स꣡खे स꣡खायम् अज꣡रो जरिम्णे꣡  
+अ꣡ग्ने म꣡र्ताँ अ꣡मर्तियस् तुवं꣡ नः  

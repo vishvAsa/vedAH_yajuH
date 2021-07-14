@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ágne kadā́ ta ānuṣág  
-bhúvad devásya cétanam  
-ádhā hí tvā jagr̥bhriré  
-mártāso vikṣú ī́ḍiyam  
+अ꣡ग्ने कदा꣡ त आनुष꣡ग्  
+भु꣡वद् देव꣡स्य चे꣡तनम्  
+अ꣡धा हि꣡ त्वा जगृभ्रिरे꣡  
+म꣡र्तासो विक्षु꣡ ई꣡डियम्  

@@ -2,10 +2,10 @@
 title = "007"
 
 +++
-vanéma tád dhótarayā citántiyā  
-vanéma rayíṃ rayivaḥ suvī́riyaṃ  
-raṇváṃ sántaṃ suvī́riyam  
-durmánmānaṃ sumántubhir  
-ā́ īm iṣā́ pr̥cīmahi  
-ā́ satyā́bhir índaraṃ+ dyumnáhūtibhir  
-yájatraṃ dyumnáhūtibhiḥ  
+वने꣡म त꣡द् धो꣡तरया चित꣡न्तिया  
+वने꣡म रयिं꣡ रयिवः सुवी꣡रियं  
+रण्वं꣡ स꣡न्तं सुवी꣡रियम्  
+दुर्म꣡न्मानं सुम꣡न्तुभिर्  
+आ꣡ ईम् इषा꣡ पृचीमहि  
+आ꣡ सत्या꣡भिर् इ꣡न्दरं+ द्युम्न꣡हूतिभिर्  
+य꣡जत्रं द्युम्न꣡हूतिभिः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tváyā manyo sarátham ārujánto  
-hárṣamāṇāso dhr̥ṣitā́ marutvaḥ  
-tigméṣava ā́yudhā saṃśíśānā  
-abhí prá yantu náro agnírūpāḥ  
+त्व꣡या मन्यो सर꣡थम् आरुज꣡न्तो  
+ह꣡र्षमाणासो धृषिता꣡ मरुत्वः  
+तिग्मे꣡षव आ꣡युधा संशि꣡शाना  
+अभि꣡ प्र꣡ यन्तु न꣡रो अग्नि꣡रूपाः  

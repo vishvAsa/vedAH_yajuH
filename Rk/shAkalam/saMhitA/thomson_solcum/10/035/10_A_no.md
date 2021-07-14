@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́ no barhíḥ sadhamā́de br̥hád diví  
-devā́m̐ īḷe sādáyā saptá hótr̥̄n  
-índram mitráṃ váruṇaṃ sātáye bhágaṃ  
-suastí agníṃ samidhānám īmahe  
+आ꣡ नो बर्हिः꣡ सधमा꣡दे बृह꣡द् दिवि꣡  
+देवाँ꣡ ईऌए साद꣡या सप्त꣡ हो꣡तॄन्  
+इ꣡न्द्रम् मित्रं꣡ व꣡रुणं सात꣡ये भ꣡गं  
+सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे  

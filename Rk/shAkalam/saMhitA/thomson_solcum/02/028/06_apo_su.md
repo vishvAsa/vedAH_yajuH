@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ápo sú myakṣa varuṇa bhiyásam  
-mát sámrāḷ ŕ̥tāvó 'nu mā gr̥bhāya  
-dā́meva vatsā́d ví mumugdhi áṃho  
-nahí tvád āré nimíṣaś canéśe  
+अ꣡पो सु꣡ म्यक्ष वरुण भिय꣡सम्  
+म꣡त् स꣡म्राऌ ŕ̥तावो꣡ ऽनु मा गृभाय  
+दा꣡मेव वत्सा꣡द् वि꣡ मुमुग्धि अं꣡हो  
+नहि꣡ त्व꣡द् आरे꣡ निमि꣡षश् चने꣡शे  

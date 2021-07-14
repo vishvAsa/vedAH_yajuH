@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-utá na īm marúto vr̥ddhásenāḥ  
-smád ródasī sámanasaḥ sadantu  
-pŕ̥ṣadaśvāso 'vánayo ná ráthā  
-riśā́daso mitrayújo ná devā́ḥ  
+उत꣡ न ईम् मरु꣡तो वृद्ध꣡सेनाः  
+स्म꣡द् रो꣡दसी स꣡मनसः सदन्तु  
+प्ŕ̥षदश्वासो ऽव꣡नयो न꣡ र꣡था  
+रिशा꣡दसो मित्रयु꣡जो न꣡ देवाः꣡  

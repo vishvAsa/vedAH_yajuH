@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ákṣo ná · cakríyoḥ śūra br̥hán  
-prá te mahnā́ ririce ródasīyoḥ  
-vr̥kṣásya nú te puruhūta vayā́  
-ví ūtáyo ruruhur indra pūrvī́ḥ  
+अ꣡क्षो न꣡ · चक्रि꣡योः शूर बृह꣡न्  
+प्र꣡ ते मह्ना꣡ रिरिचे रो꣡दसीयोः  
+वृक्ष꣡स्य नु꣡ ते पुरुहूत वया꣡  
+वि꣡ ऊत꣡यो रुरुहुर् इन्द्र पूर्वीः꣡  

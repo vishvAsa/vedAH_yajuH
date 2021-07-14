@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-índrāsomā vāsáyatha uṣā́sam  
-út sū́riyaṃ nayatho jyótiṣā sahá  
-úpa dyã́ṃ skambháthu skámbhanena  
-áprathatam pr̥thivī́m mātáraṃ ví  
+इ꣡न्द्रासोमा वास꣡यथ उषा꣡सम्  
+उ꣡त् सू꣡रियं नयथो ज्यो꣡तिषा सह꣡  
+उ꣡प द्य्ãं꣡ स्कम्भ꣡थु स्क꣡म्भनेन  
+अ꣡प्रथतम् पृथिवी꣡म् मात꣡रं वि꣡  

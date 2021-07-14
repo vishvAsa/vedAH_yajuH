@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-sahásrā te śatā́ vayáṃ  
-gávām ā́ cyāvayāmasi  
-asmatrā́ rā́dha etu te  
+सह꣡स्रा ते शता꣡ वयं꣡  
+ग꣡वाम् आ꣡ च्यावयामसि  
+अस्मत्रा꣡ रा꣡ध एतु ते  

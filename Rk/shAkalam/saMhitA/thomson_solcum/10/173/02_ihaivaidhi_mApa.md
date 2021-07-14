@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ihaívaídhi mā́pa cyoṣṭhāḥ  
-párvata 'vā́vicācaliḥ°  
-índra 'vehá° dhruvás tiṣṭha  
-ihá rāṣṭrám u dhāraya  
+इहइ꣡वइ꣡धि मा꣡प च्योष्ठाः  
+प꣡र्वत ऽवा꣡विचाचलिः°  
+इ꣡न्द्र ऽवेह꣡° ध्रुव꣡स् तिष्ठ  
+इह꣡ राष्ट्र꣡म् उ धारय  

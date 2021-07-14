@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-vidmā́ sakhitvám utá śūra bhojíyam  
-ā́ te tā́ vajrin īmahe  
-utó samasmin ā́ śiśīhi no vaso  
-vā́je suśipra gómati  
+विद्मा꣡ सखित्व꣡म् उत꣡ शूर भोजि꣡यम्  
+आ꣡ ते ता꣡ वज्रिन् ईमहे  
+उतो꣡ समस्मिन् आ꣡ शिशीहि नो वसो  
+वा꣡जे सुशिप्र गो꣡मति  

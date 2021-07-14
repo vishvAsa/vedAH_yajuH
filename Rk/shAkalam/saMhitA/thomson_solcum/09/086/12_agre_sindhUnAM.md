@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ágre síndhūnām pávamāno arṣati  
-ágre vācó agriyó góṣu gachati  
-ágre vā́jasya bhajate mahādhanáṃ  
-suāyudháḥ sotŕ̥bhiḥ pūyate vŕ̥ṣā  
+अ꣡ग्रे सि꣡न्धूनाम् प꣡वमानो अर्षति  
+अ꣡ग्रे वाचो꣡ अग्रियो꣡ गो꣡षु गछति  
+अ꣡ग्रे वा꣡जस्य भजते महाधनं꣡  
+सुआयुधः꣡ सोत्ŕ̥भिः पूयते व्ŕ̥षा  

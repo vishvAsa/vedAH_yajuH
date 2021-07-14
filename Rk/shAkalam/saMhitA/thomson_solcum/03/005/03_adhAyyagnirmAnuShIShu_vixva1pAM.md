@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ádhāyi agnír mā́nuṣīṣu vikṣú  
-apā́ṃ gárbho mitrá r̥téna sā́dhan  
-ā́ haryató yajatáḥ sā́nu asthād  
-ábhūd u vípro háviyo matīnā́m  
+अ꣡धायि अग्नि꣡र् मा꣡नुषीषु विक्षु꣡  
+अपां꣡ ग꣡र्भो मित्र꣡ ऋते꣡न सा꣡धन्  
+आ꣡ हर्यतो꣡ यजतः꣡ सा꣡नु अस्थाद्  
+अ꣡भूद् उ वि꣡प्रो ह꣡वियो मतीना꣡म्  

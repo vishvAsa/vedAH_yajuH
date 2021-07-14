@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ā́yáṃ janā abhicákṣe jagāma  
-índraḥ sákhāyaṃ sutásomam ichán  
-vádan grā́vā áva védim bhriyāte  
-yásya jīrám adhvaryávaś cáranti  
+आ꣡यं꣡ जना अभिच꣡क्षे जगाम  
+इ꣡न्द्रः स꣡खायं सुत꣡सोमम् इछ꣡न्  
+व꣡दन् ग्रा꣡वा अ꣡व वे꣡दिम् भ्रियाते  
+य꣡स्य जीर꣡म् अध्वर्य꣡वश् च꣡रन्ति  

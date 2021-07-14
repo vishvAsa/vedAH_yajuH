@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-pávākaśoce táva hí kṣáyam pári  
-hótar yajñéṣu vr̥ktábarhiṣo náraḥ  
-ágne dúva ichámānāsa ā́piyam  
-úpāsate dráviṇaṃ dhehi tébhiyaḥ  
+प꣡वाकशोचे त꣡व हि꣡ क्ष꣡यम् प꣡रि  
+हो꣡तर् यज्ञे꣡षु वृक्त꣡बर्हिषो न꣡रः  
+अ꣡ग्ने दु꣡व इछ꣡मानास आ꣡पियम्  
+उ꣡पासते द्र꣡विणं धेहि ते꣡भियः  

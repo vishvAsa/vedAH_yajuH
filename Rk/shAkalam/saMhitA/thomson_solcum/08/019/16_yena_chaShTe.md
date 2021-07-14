@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-yéna cáṣṭe váruṇo mitró aryamā́  
-yéna nā́satiyā bhágaḥ  
-vayáṃ tát te śávasā gātuvíttamā  
-índratvotā vidhemahi  
+ये꣡न च꣡ष्टे व꣡रुणो मित्रो꣡ अर्यमा꣡  
+ये꣡न ना꣡सतिया भ꣡गः  
+वयं꣡ त꣡त् ते श꣡वसा गातुवि꣡त्तमा  
+इ꣡न्द्रत्वोता विधेमहि  

@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-nahí vāṃ vavráyāmahé  
-athéndram íd yajāmahe  
-śáviṣṭhaṃ nr̥̄ṇã́ṃ+ náram  
-sá naḥ kadā́ cid árvatā  
-gámad ā́ vā́jasātaye  
-gámad ā́ medhásātaye  
-nábhantām anyaké same  
+नहि꣡ वां वव्र꣡यामहे꣡  
+अथे꣡न्द्रम् इ꣡द् यजामहे  
+श꣡विष्ठं नॄण्ãं꣡+ न꣡रम्  
+स꣡ नः कदा꣡ चिद् अ꣡र्वता  
+ग꣡मद् आ꣡ वा꣡जसातये  
+ग꣡मद् आ꣡ मेध꣡सातये  
+न꣡भन्ताम् अन्यके꣡ समे  

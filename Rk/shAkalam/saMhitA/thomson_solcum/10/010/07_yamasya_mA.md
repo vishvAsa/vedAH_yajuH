@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yamásya mā yamíyaṃ kā́ma ā́gan  
-samāné yónau sahaśéyiyāya  
-jāyéva pátye tanúvaṃ riricyāṃ  
-ví cid vr̥heva ráthiyeva cakrā́  
+यम꣡स्य मा यमि꣡यं का꣡म आ꣡गन्  
+समाने꣡ यो꣡नौ सहशे꣡यियाय  
+जाये꣡व प꣡त्ये तनु꣡वं रिरिच्यां  
+वि꣡ चिद् वृहेव र꣡थियेव चक्रा꣡  

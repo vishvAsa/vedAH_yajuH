@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ī́ḷiṣvā hí pratīvíyaṃ  
-yájasva jātávedasam  
-cariṣṇúdhūmam ágr̥bhītaśociṣam  
+ई꣡ऌइष्वा हि꣡ प्रतीवि꣡यं  
+य꣡जस्व जात꣡वेदसम्  
+चरिष्णु꣡धूमम् अ꣡गृभीतशोचिषम्  

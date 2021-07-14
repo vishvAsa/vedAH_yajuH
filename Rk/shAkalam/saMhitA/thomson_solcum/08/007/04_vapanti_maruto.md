@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-vápanti marúto míham  
-prá vepayanti párvatān  
-yád yā́maṃ yā́nti vāyúbhiḥ  
+व꣡पन्ति मरु꣡तो मि꣡हम्  
+प्र꣡ वेपयन्ति प꣡र्वतान्  
+य꣡द् या꣡मं या꣡न्ति वायु꣡भिः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kám etáṃ tuváṃ yuvate kumārám  
-péṣī bibharṣi máhiṣī jajāna  
-pūrvī́r hí gárbhaḥ śarádo vavárdha  
-ápaśyaṃ jātáṃ yád ásūta mātā́  
+क꣡म् एतं꣡ तुवं꣡ युवते कुमार꣡म्  
+पे꣡षी बिभर्षि म꣡हिषी जजान  
+पूर्वी꣡र् हि꣡ ग꣡र्भः शर꣡दो वव꣡र्ध  
+अ꣡पश्यं जातं꣡ य꣡द् अ꣡सूत माता꣡  

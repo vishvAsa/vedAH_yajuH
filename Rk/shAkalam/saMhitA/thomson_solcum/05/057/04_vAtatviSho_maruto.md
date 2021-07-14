@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-vā́tatviṣo marúto varṣánirṇijo  
-yamā́ iva súsadr̥śaḥ supéśasaḥ  
-piśáṅgāśvā aruṇā́śvā arepásaḥ  
-prátvakṣaso mahinā́ dyaúr ivorávaḥ  
+वा꣡तत्विषो मरु꣡तो वर्ष꣡निर्णिजो  
+यमा꣡ इव सु꣡सदृशः सुपे꣡शसः  
+पिश꣡ङ्गाश्वा अरुणा꣡श्वा अरेप꣡सः  
+प्र꣡त्वक्षसो महिना꣡ द्यउ꣡र् इवोर꣡वः  

@@ -2,8 +2,8 @@
 title = "003"
 
 +++
-ā́ no rátnāni bíbhratāv  
-áśvinā gáchataṃ yuvám  
-rúdrā híraṇyavartanī  
-juṣāṇā́ vājinīvasū  
-mā́dhvī máma śrutaṃ hávam  
+आ꣡ नो र꣡त्नानि बि꣡भ्रताव्  
+अ꣡श्विना ग꣡छतं युव꣡म्  
+रु꣡द्रा हि꣡रण्यवर्तनी  
+जुषाणा꣡ वाजिनीवसू  
+मा꣡ध्वी म꣡म श्रुतं ह꣡वम्  

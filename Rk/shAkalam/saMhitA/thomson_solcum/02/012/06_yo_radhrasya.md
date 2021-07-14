@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yó radhrásya coditā́ yáḥ kr̥śásya  
-yó brahmáṇo nā́dhamānasya kīréḥ  
-yuktágrāvṇo yó avitā́ suśipráḥ  
-sutásomasya sá janāsa índraḥ  
+यो꣡ रध्र꣡स्य चोदिता꣡ यः꣡ कृश꣡स्य  
+यो꣡ ब्रह्म꣡णो ना꣡धमानस्य कीरेः꣡  
+युक्त꣡ग्राव्णो यो꣡ अविता꣡ सुशिप्रः꣡  
+सुत꣡सोमस्य स꣡ जनास इ꣡न्द्रः  

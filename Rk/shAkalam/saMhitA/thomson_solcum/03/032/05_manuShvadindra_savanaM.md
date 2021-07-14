@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-manuṣvád indra sávanaṃ juṣāṇáḥ  
-píbā sómaṃ śáśvate vīríyāya  
-sá ā́ vavr̥tsva háriaśva yajñaíḥ  
-saraṇyúbhir apó árṇā sisarṣi  
+मनुष्व꣡द् इन्द्र स꣡वनं जुषाणः꣡  
+पि꣡बा सो꣡मं श꣡श्वते वीरि꣡याय  
+स꣡ आ꣡ ववृत्स्व ह꣡रिअश्व यज्ञइः꣡  
+सरण्यु꣡भिर् अपो꣡ अ꣡र्णा सिसर्षि  

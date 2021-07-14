@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yuvā́m indrāgnī vásuno vibhāgé  
-tavástamā śuśrava vr̥trahátye  
-tā́v āsádyā barhíṣi yajñé asmín  
-prá carṣaṇī mādayethāṃ sutásya  
+युवा꣡म् इन्द्राग्नी व꣡सुनो विभागे꣡  
+तव꣡स्तमा शुश्रव वृत्रह꣡त्ये  
+ता꣡व् आस꣡द्या बर्हि꣡षि यज्ञे꣡ अस्मि꣡न्  
+प्र꣡ चर्षणी मादयेथां सुत꣡स्य  

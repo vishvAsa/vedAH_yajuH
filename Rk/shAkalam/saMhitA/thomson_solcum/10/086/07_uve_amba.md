@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-uvé amba sulābhike  
-yáthevāṅgá bhaviṣyáti  
-bhasán me amba sákthi me  
-śíro me vī́va hr̥ṣyati  
-víśvasmād índra úttaraḥ  
+उवे꣡ अम्ब सुलाभिके  
+य꣡थेवाङ्ग꣡ भविष्य꣡ति  
+भस꣡न् मे अम्ब स꣡क्थि मे  
+शि꣡रो मे वी꣡व हृष्यति  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

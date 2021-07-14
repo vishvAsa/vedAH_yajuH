@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ yás tasthaú bhúvanāni ámartiyo  
-víśvāni sómaḥ pári tā́ni arṣati  
-kr̥ṇván saṃcŕ̥taṃ vicŕ̥tam abhíṣṭaya  
-índuḥ siṣakti uṣásaṃ ná sū́riyaḥ  
+आ꣡ य꣡स् तस्थउ꣡ भु꣡वनानि अ꣡मर्तियो  
+वि꣡श्वानि सो꣡मः प꣡रि ता꣡नि अर्षति  
+कृण्व꣡न् संच्ŕ̥तं विच्ŕ̥तम् अभि꣡ष्टय  
+इ꣡न्दुः सिषक्ति उष꣡सं न꣡ सू꣡रियः  

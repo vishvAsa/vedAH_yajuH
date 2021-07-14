@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-asmā́m̐ ihā́ vr̥ṇīṣuva  
-sakhiyā́ya suastáye  
-mahó rāyé divítmate  
+अस्माँ꣡ इहा꣡ वृणीषुव  
+सखिया꣡य सुअस्त꣡ये  
+महो꣡ राये꣡ दिवि꣡त्मते  

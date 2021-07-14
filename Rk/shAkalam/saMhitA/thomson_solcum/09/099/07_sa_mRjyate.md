@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sá mr̥jyate sukármabhir  
-devó devébhiyaḥ sutáḥ  
-vidé yád āsu saṃdadír  
-mahī́r apó ví gāhate  
+स꣡ मृज्यते सुक꣡र्मभिर्  
+देवो꣡ देवे꣡भियः सुतः꣡  
+विदे꣡ य꣡द् आसु संददि꣡र्  
+मही꣡र् अपो꣡ वि꣡ गाहते  

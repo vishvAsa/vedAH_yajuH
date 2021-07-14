@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-víśve hí tvā sajóṣaso  
-devā́so dūtám ákrata  
-śruṣṭī́ deva prathamó yajñíyo bhuvaḥ  
+वि꣡श्वे हि꣡ त्वा सजो꣡षसो  
+देवा꣡सो दूत꣡म् अ꣡क्रत  
+श्रुष्टी꣡ देव प्रथमो꣡ यज्ञि꣡यो भुवः  

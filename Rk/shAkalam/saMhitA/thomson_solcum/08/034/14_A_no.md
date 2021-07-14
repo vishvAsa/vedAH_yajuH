@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ā́ no gávyāni áśviyā  
-sahásrā śūra dardr̥hi  
-divó amúṣya śā́sato  
-dívaṃ yayá divāvaso  
+आ꣡ नो ग꣡व्यानि अ꣡श्विया  
+सह꣡स्रा शूर दर्दृहि  
+दिवो꣡ अमु꣡ष्य शा꣡सतो  
+दि꣡वं यय꣡ दिवावसो  

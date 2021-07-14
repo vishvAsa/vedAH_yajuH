@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-utá no devā́v aśvínā śubhás pátī  
-dhā́mabhir mitrā́váruṇā uruṣyatām  
-maháḥ sá rāyá éṣate  
-áti dhánveva duritā́  
+उत꣡ नो देवा꣡व् अश्वि꣡ना शुभ꣡स् प꣡ती  
+धा꣡मभिर् मित्रा꣡व꣡रुणा उरुष्यताम्  
+महः꣡ स꣡ राय꣡ ए꣡षते  
+अ꣡ति ध꣡न्वेव दुरिता꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vidmā́ te agne trẽdhā́ trayā́ṇi  
-vidmā́ te dhā́ma víbhr̥tā purutrā́  
-vidmā́ te nā́ma paramáṃ gúhā yád  
-vidmā́ tám útsaṃ yáta ājagántha  
+विद्मा꣡ ते अग्ने त्र्ẽधा꣡ त्रया꣡णि  
+विद्मा꣡ ते धा꣡म वि꣡भृता पुरुत्रा꣡  
+विद्मा꣡ ते ना꣡म परमं꣡ गु꣡हा य꣡द्  
+विद्मा꣡ त꣡म् उ꣡त्सं य꣡त आजग꣡न्थ  

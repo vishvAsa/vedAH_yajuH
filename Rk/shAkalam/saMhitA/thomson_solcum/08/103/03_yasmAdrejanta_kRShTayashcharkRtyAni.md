@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yásmād réjanta kr̥ṣṭáyaś  
-carkŕ̥tiyāni kr̥ṇvatáḥ  
-sahasrasā́m medhásātāv iva tmánā  
-agníṃ dhībhíḥ saparyata  
+य꣡स्माद् रे꣡जन्त कृष्ट꣡यश्  
+चर्क्ŕ̥तियानि कृण्वतः꣡  
+सहस्रसा꣡म् मेध꣡साताव् इव त्म꣡ना  
+अग्निं꣡ धीभिः꣡ सपर्यत  

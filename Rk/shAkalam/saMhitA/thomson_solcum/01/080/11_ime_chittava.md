@@ -2,8 +2,8 @@
 title = "011"
 
 +++
-imé cit táva manyáve  
-vépete bhiyásā mahī́  
-yád indra vajrin ójasā  
-vr̥trám marútvām̐ ávadhīr  
-árcann ánu svarā́jiyam  
+इमे꣡ चित् त꣡व मन्य꣡वे  
+वे꣡पेते भिय꣡सा मही꣡  
+य꣡द् इन्द्र वज्रिन् ओ꣡जसा  
+वृत्र꣡म् मरु꣡त्वाँ अ꣡वधीर्  
+अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्  

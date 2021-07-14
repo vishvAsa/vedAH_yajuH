@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-vŕ̥kaś cid asya vāraṇá urāmáthir  
-ā́ vayúneṣu bhūṣati  
-sémáṃ na stómaṃ jujuṣāṇá ā́ gahi  
-índra prá citráyā dhiyā́  
+व्ŕ̥कश् चिद् अस्य वारण꣡ उराम꣡थिर्  
+आ꣡ वयु꣡नेषु भूषति  
+से꣡मं꣡ न स्तो꣡मं जुजुषाण꣡ आ꣡ गहि  
+इ꣡न्द्र प्र꣡ चित्र꣡या धिया꣡  

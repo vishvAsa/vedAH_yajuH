@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yé cit pū́rva r̥tasā́pa  
-r̥tā́vāna r̥tāvŕ̥dhaḥ  
-pitr̥̄́n tápasvato yama  
-tā́ṃś cid evā́pi gachatāt  
+ये꣡ चित् पू꣡र्व ऋतसा꣡प  
+ऋता꣡वान ऋताव्ŕ̥धः  
+पितॄ꣡न् त꣡पस्वतो यम  
+तां꣡श् चिद् एवा꣡पि गछतात्  

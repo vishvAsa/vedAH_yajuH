@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yáḥ śū́rebhir háviyo yáś ca bhīrúbhir  
-yó dhā́vadbhir hūyáte yáś ca jigyúbhiḥ  
-índraṃ yáṃ víśvā bhúvanābhí saṃdadhúr  
-marútvantaṃ sakhiyā́ya havāmahe  
+यः꣡ शू꣡रेभिर् ह꣡वियो य꣡श् च भीरु꣡भिर्  
+यो꣡ धा꣡वद्भिर् हूय꣡ते य꣡श् च जिग्यु꣡भिः  
+इ꣡न्द्रं यं꣡ वि꣡श्वा भु꣡वनाभि꣡ संदधु꣡र्  
+मरु꣡त्वन्तं सखिया꣡य हवामहे  

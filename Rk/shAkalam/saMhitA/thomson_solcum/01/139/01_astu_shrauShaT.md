@@ -2,10 +2,10 @@
 title = "001"
 
 +++
-ástu śraúṣaṭ puró agníṃ dhiyā́ dadha  
-ā́ nú tác chárdho diviyáṃ vr̥ṇīmaha  
-indravāyū́ vr̥ṇīmahe  
-yád dha krāṇā́ vivásvati  
-nā́bhā saṃdā́yi návyasī  
-ádha prá sū́ na úpa yantu dhītáyo  
-devā́m̐ áchā ná dhītáyaḥ  
+अ꣡स्तु श्रउ꣡षट् पुरो꣡ अग्निं꣡ धिया꣡ दध  
+आ꣡ नु꣡ त꣡च् छ꣡र्धो दिवियं꣡ वृणीमह  
+इन्द्रवायू꣡ वृणीमहे  
+य꣡द् ध क्राणा꣡ विव꣡स्वति  
+ना꣡भा संदा꣡यि न꣡व्यसी  
+अ꣡ध प्र꣡ सू꣡ न उ꣡प यन्तु धीत꣡यो  
+देवाँ꣡ अ꣡छा न꣡ धीत꣡यः  

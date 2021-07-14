@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-diví anyáḥ sádanaṃ cakrá uccā́  
-pr̥thivyā́m anyó ádhi antárikṣe  
-tā́v asmábhyam puruvā́ram purukṣúṃ  
-rāyás póṣaṃ ví ṣyatāṃ nā́bhim asmé  
+दिवि꣡ अन्यः꣡ स꣡दनं चक्र꣡ उच्चा꣡  
+पृथिव्या꣡म् अन्यो꣡ अ꣡धि अन्त꣡रिक्षे  
+ता꣡व् अस्म꣡भ्यम् पुरुवा꣡रम् पुरुक्षुं꣡  
+राय꣡स् पो꣡षं वि꣡ ष्यतां ना꣡भिम् अस्मे꣡  

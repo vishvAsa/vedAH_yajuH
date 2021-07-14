@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ánu svadhā́m akṣarann ā́po asya  
-ávardhata mádhya ā́ nāvíyānām  
-sadhrīcī́nena mánasā tám índra  
-ójiṣṭhena hánmanāhann abhí dyū́n  
+अ꣡नु स्वधा꣡म् अक्षरन्न् आ꣡पो अस्य  
+अ꣡वर्धत म꣡ध्य आ꣡ नावि꣡यानाम्  
+सध्रीची꣡नेन म꣡नसा त꣡म् इ꣡न्द्र  
+ओ꣡जिष्ठेन ह꣡न्मनाहन्न् अभि꣡ द्यू꣡न्  

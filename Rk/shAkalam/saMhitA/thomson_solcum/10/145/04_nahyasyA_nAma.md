@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-nahy àsyā nā́ma gr̥bhṇā́mi  
-nó asmín ramate jáne  
-párām evá parāvátaṃ  
-sapátnīṃ gamayāmasi  
+नह्य् अ᳡स्या ना꣡म गृभ्णा꣡मि  
+नो꣡ अस्मि꣡न् रमते ज꣡ने  
+प꣡राम् एव꣡ पराव꣡तं  
+सप꣡त्नीं गमयामसि  

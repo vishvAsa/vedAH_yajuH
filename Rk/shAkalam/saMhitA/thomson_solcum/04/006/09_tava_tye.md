@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-táva tyé agne haríto ghr̥tasnā́  
-róhitāsa r̥juáñcaḥ suáñcaḥ  
-aruṣā́so vŕ̥ṣaṇa r̥jumuṣkā́  
-ā́ devátātim ahuvanta dasmā́ḥ  
+त꣡व त्ये꣡ अग्ने हरि꣡तो घृतस्ना꣡  
+रो꣡हितास ऋजुअ꣡ञ्चः सुअ꣡ञ्चः  
+अरुषा꣡सो व्ŕ̥षण ऋजुमुष्का꣡  
+आ꣡ देव꣡तातिम् अहुवन्त दस्माः꣡  

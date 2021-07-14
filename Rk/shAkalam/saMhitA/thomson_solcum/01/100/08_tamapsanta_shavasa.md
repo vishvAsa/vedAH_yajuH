@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tám apsanta śávasa utsavéṣu  
-náro náram ávase táṃ dhánāya  
-só andhé cit támasi jyótir vidan  
-marútvān no bhavatu índra ūtī́  
+त꣡म् अप्सन्त श꣡वस उत्सवे꣡षु  
+न꣡रो न꣡रम् अ꣡वसे तं꣡ ध꣡नाय  
+सो꣡ अन्धे꣡ चित् त꣡मसि ज्यो꣡तिर् विदन्  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

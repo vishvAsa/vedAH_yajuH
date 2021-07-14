@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yó víśvā dáyate vásu  
-hótā mandró jánānãm  
-mádhor ná pā́trā prathamā́ni asmai  
-prá stómā yanti agnáye  
+यो꣡ वि꣡श्वा द꣡यते व꣡सु  
+हो꣡ता मन्द्रो꣡ ज꣡नान्ãम्  
+म꣡धोर् न꣡ पा꣡त्रा प्रथमा꣡नि अस्मै  
+प्र꣡ स्तो꣡मा यन्ति अग्न꣡ये  

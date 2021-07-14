@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tántuṃ tanván rájaso bhānúm ánv ihi  
-jyótiṣmataḥ pathó rakṣa dhiyā́ kr̥tā́n  
-anulbaṇáṃ vayata jóguvām ápo  
-mánur bhava janáyā daíviyaṃ jánam  
+त꣡न्तुं तन्व꣡न् र꣡जसो भानु꣡म् अ꣡न्व् इहि  
+ज्यो꣡तिष्मतः पथो꣡ रक्ष धिया꣡ कृता꣡न्  
+अनुल्बणं꣡ वयत जो꣡गुवाम् अ꣡पो  
+म꣡नुर् भव जन꣡या दइ꣡वियं ज꣡नम्  

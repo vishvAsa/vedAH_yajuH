@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-utó nú asya yán mahád  
-áśvāvad yójanam br̥hád  
-dāmā́ ráthasya dádr̥śe  
+उतो꣡ नु꣡ अस्य य꣡न् मह꣡द्  
+अ꣡श्वावद् यो꣡जनम् बृह꣡द्  
+दामा꣡ र꣡थस्य द꣡दृशे  

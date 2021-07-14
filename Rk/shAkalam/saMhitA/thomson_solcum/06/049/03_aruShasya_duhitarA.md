@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-aruṣásya duhitárā vírūpe  
-stŕ̥bhir anyā́ pipiśé sū́ro anyā́  
-mithastúrā vicárantī pavāké+  
-mánma śrutáṃ nakṣata r̥cyámāne  
+अरुष꣡स्य दुहित꣡रा वि꣡रूपे  
+स्त्ŕ̥भिर् अन्या꣡ पिपिशे꣡ सू꣡रो अन्या꣡  
+मिथस्तु꣡रा विच꣡रन्ती पवाके꣡+  
+म꣡न्म श्रुतं꣡ नक्षत ऋच्य꣡माने  

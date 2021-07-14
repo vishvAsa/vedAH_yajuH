@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kó adyá · náriyo devákāma  
-uśánn índrasya sakhiyáṃ jujoṣa  
-kó vā mahé ávase pā́riyāya  
-sámiddhe agnaú sutásoma īṭṭe  
+को꣡ अद्य꣡ · न꣡रियो देव꣡काम  
+उश꣡न्न् इ꣡न्द्रस्य सखियं꣡ जुजोष  
+को꣡ वा महे꣡ अ꣡वसे पा꣡रियाय  
+स꣡मिद्धे अग्नउ꣡ सुत꣡सोम ईट्टे  

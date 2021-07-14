@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-prá sómo áti dhā́rayā  
-pávamāno asiṣyadat  
-abhí dróṇāni āsádam  
+प्र꣡ सो꣡मो अ꣡ति धा꣡रया  
+प꣡वमानो असिष्यदत्  
+अभि꣡ द्रो꣡णानि आस꣡दम्  

@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-eṣá kṣeti ráthavītir  
-maghávā gómatīr ánu  
-párvateṣu ápaśritaḥ  
+एष꣡ क्षेति र꣡थवीतिर्  
+मघ꣡वा गो꣡मतीर् अ꣡नु  
+प꣡र्वतेषु अ꣡पश्रितः  

@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-asmábhyaṃ tád vaso dānā́ya rā́dhaḥ  
-sám arthayasva bahú te vasavyàm  
-índra yác citráṃ śravasyā́ ánu dyū́n  
-br̥hád vadema vidáthe suvī́rāḥ  
+अस्म꣡भ्यं त꣡द् वसो दाना꣡य रा꣡धः  
+स꣡म् अर्थयस्व बहु꣡ ते वसव्य᳡म्  
+इ꣡न्द्र य꣡च् चित्रं꣡ श्रवस्या꣡ अ꣡नु द्यू꣡न्  
+बृह꣡द् वदेम विद꣡थे सुवी꣡राः  

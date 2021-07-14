@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-nákiḥ páriṣṭir maghavan maghásya te  
-yád dāśúṣe daśasyási  
-asmā́kam bodhi ucáthasya coditā́  
-máṃhiṣṭho vā́jasātaye  
+न꣡किः प꣡रिष्टिर् मघवन् मघ꣡स्य ते  
+य꣡द् दाशु꣡षे दशस्य꣡सि  
+अस्मा꣡कम् बोधि उच꣡थस्य चोदिता꣡  
+मं꣡हिष्ठो वा꣡जसातये  

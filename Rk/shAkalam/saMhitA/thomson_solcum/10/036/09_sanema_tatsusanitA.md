@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sanéma tát susanítā sanítvabhir  
-vayáṃ jīvā́ jīváputrā ánāgasaḥ  
-brahmadvíṣo víṣvag éno bharerata  
-tád devā́nām ávo adyā́ vr̥ṇīmahe  
+सने꣡म त꣡त् सुसनि꣡ता सनि꣡त्वभिर्  
+वयं꣡ जीवा꣡ जीव꣡पुत्रा अ꣡नागसः  
+ब्रह्मद्वि꣡षो वि꣡ष्वग् ए꣡नो भरेरत  
+त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे  

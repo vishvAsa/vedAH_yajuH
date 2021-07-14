@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-ójas tád asya titviṣa  
-ubhé yád samávartayat  
-índraś cármeva ródasī  
+ओ꣡जस् त꣡द् अस्य तित्विष  
+उभे꣡ य꣡द् सम꣡वर्तयत्  
+इ꣡न्द्रश् च꣡र्मेव रो꣡दसी  

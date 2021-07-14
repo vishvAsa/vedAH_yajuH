@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-mā́ kásya no áraruṣo  
-dhūrtíḥ práṇaṅ mártiyasya  
-índrāgnī śárma yachatam  
+मा꣡ क꣡स्य नो अ꣡ररुषो  
+धूर्तिः꣡ प्र꣡णङ् म꣡र्तियस्य  
+इ꣡न्द्राग्नी श꣡र्म यछतम्  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-kó va stómaṃ rādhati yáṃ jújoṣatha  
-víśve devāso manuṣo yáti ṣṭhána  
-kó vo 'dhvaráṃ tuvijātā áraṃ karad  
-yó naḥ párṣad áti áṃhaḥ suastáye  
+को꣡ व स्तो꣡मं राधति यं꣡ जु꣡जोषथ  
+वि꣡श्वे देवासो मनुषो य꣡ति ष्ठ꣡न  
+को꣡ वो ऽध्वरं꣡ तुविजाता अ꣡रं करद्  
+यो꣡ नः प꣡र्षद् अ꣡ति अं꣡हः सुअस्त꣡ये  

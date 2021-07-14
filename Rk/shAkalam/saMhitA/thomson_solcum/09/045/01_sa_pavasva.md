@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-sá pavasva mádāya káṃ  
-nr̥cákṣā devávītaye  
-índav índrāya pītáye  
+स꣡ पवस्व म꣡दाय कं꣡  
+नृच꣡क्षा देव꣡वीतये  
+इ꣡न्दव् इ꣡न्द्राय पीत꣡ये  

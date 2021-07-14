@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-anehó dātrám áditer anarváṃ  
-huvé súvarvad avadháṃ námasvat  
-tád rodasī janayataṃ jaritré  
-dyā́vā rákṣatam pr̥thivī no ábhvāt  
+अनेहो꣡ दात्र꣡म् अ꣡दितेर् अनर्वं꣡  
+हुवे꣡ सु꣡वर्वद् अवधं꣡ न꣡मस्वत्  
+त꣡द् रोदसी जनयतं जरित्रे꣡  
+द्या꣡वा र꣡क्षतम् पृथिवी नो अ꣡भ्वात्  

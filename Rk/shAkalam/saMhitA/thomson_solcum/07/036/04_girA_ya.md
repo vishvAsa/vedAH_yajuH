@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-girā́ yá etā́ yunájad dhárī ta  
-índra priyā́ suráthā śūra dhāyū́  
-prá yó manyúṃ rírikṣato minā́ti  
-ā́ sukrátum aryamáṇaṃ vavr̥tyām  
+गिरा꣡ य꣡ एता꣡ युन꣡जद् ध꣡री त  
+इ꣡न्द्र प्रिया꣡ सुर꣡था शूर धायू꣡  
+प्र꣡ यो꣡ मन्युं꣡ रि꣡रिक्षतो मिना꣡ति  
+आ꣡ सुक्र꣡तुम् अर्यम꣡णं ववृत्याम्  

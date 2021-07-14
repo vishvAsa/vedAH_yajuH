@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-śám agnír agníbhiḥ karac  
-cháṃ nas tapatu sū́riyaḥ  
-śáṃ vā́to vātu arapā́ ápa srídhaḥ  
+श꣡म् अग्नि꣡र् अग्नि꣡भिः करच्  
+छं꣡ नस् तपतु सू꣡रियः  
+शं꣡ वा꣡तो वातु अरपा꣡ अ꣡प स्रि꣡धः  

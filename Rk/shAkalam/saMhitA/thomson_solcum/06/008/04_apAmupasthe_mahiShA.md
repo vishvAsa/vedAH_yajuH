@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-apā́m upásthe mahiṣā́ agr̥bhṇata  
-víśo rā́jānam úpa tasthur r̥gmíyam  
-ā́ dūtó agním abharad vivásvato  
-vaiśvānarám mātaríśvā parāvátaḥ  
+अपा꣡म् उप꣡स्थे महिषा꣡ अगृभ्णत  
+वि꣡शो रा꣡जानम् उ꣡प तस्थुर् ऋग्मि꣡यम्  
+आ꣡ दूतो꣡ अग्नि꣡म् अभरद् विव꣡स्वतो  
+वैश्वानर꣡म् मातरि꣡श्वा पराव꣡तः  

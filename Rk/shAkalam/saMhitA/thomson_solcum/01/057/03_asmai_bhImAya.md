@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-asmaí bhīmā́ya námasā sám adhvará  
-úṣo ná śubhra ā́ bharā pánīyase  
-yásya dhā́ma śrávase nā́ma indriyáṃ  
-jyótir ákāri haríto ná áyase  
+अस्मइ꣡ भीमा꣡य न꣡मसा स꣡म् अध्वर꣡  
+उ꣡षो न꣡ शुभ्र आ꣡ भरा प꣡नीयसे  
+य꣡स्य धा꣡म श्र꣡वसे ना꣡म इन्द्रियं꣡  
+ज्यो꣡तिर् अ꣡कारि हरि꣡तो न꣡ अ꣡यसे  

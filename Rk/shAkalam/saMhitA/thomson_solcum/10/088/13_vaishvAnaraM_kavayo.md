@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-vaiśvānaráṃ kaváyo yajñíyāso  
-agníṃ devā́ ajanayann ajuryám  
-nákṣatram pratnám áminac cariṣṇú  
-yakṣásyā́dhyakṣaṃ taviṣám br̥hántam  
+वैश्वानरं꣡ कव꣡यो यज्ञि꣡यासो  
+अग्निं꣡ देवा꣡ अजनयन्न् अजुर्य꣡म्  
+न꣡क्षत्रम् प्रत्न꣡म् अ꣡मिनच् चरिष्णु꣡  
+यक्ष꣡स्या꣡ध्यक्षं तविष꣡म् बृह꣡न्तम्  

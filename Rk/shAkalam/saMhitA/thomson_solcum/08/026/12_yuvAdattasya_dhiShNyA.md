@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-yuvā́dattasya dhiṣṇiyā  
-yuvā́nītasya sūríbhiḥ  
-áhar-ahar vr̥ṣaṇa máhya° śikṣatam  
+युवा꣡दत्तस्य धिष्णिया  
+युवा꣡नीतस्य सूरि꣡भिः  
+अ꣡हर्-अहर् वृषण म꣡ह्य° शिक्षतम्  

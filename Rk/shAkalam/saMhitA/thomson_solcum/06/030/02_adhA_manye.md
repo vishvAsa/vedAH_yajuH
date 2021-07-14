@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ádhā manye br̥hád asuryàm asya  
-yā́ni dādhā́ra nákir ā́ mināti  
-divé-dive sū́riyo darśató bhūd  
-ví sádmāni urviyā́ sukrátur dhāt  
+अ꣡धा मन्ये बृह꣡द् असुर्य᳡म् अस्य  
+या꣡नि दाधा꣡र न꣡किर् आ꣡ मिनाति  
+दिवे꣡-दिवे सू꣡रियो दर्शतो꣡ भूद्  
+वि꣡ स꣡द्मानि उर्विया꣡ सुक्र꣡तुर् धात्  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-aśyā́ma táṃ kā́mam agne távotī́  
-aśyā́ma rayíṃ rayivaḥ suvī́ram  
-aśyā́ma vā́jam abhí vājáyanto  
-aśyā́ma dyumnám ajarājáraṃ te  
+अश्या꣡म तं꣡ का꣡मम् अग्ने त꣡वोती꣡  
+अश्या꣡म रयिं꣡ रयिवः सुवी꣡रम्  
+अश्या꣡म वा꣡जम् अभि꣡ वाज꣡यन्तो  
+अश्या꣡म द्युम्न꣡म् अजराज꣡रं ते  

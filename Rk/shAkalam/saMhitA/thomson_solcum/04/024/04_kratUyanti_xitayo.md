@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kratūyánti kṣitáyo yóga ugra  
-āśuṣāṇā́so mithó árṇasātau  
-sáṃ yád víśo ávavr̥tranta yudhmā́  
-ā́d ín néma indrayante abhī́ke  
+क्रतूय꣡न्ति क्षित꣡यो यो꣡ग उग्र  
+आशुषाणा꣡सो मिथो꣡ अ꣡र्णसातौ  
+सं꣡ य꣡द् वि꣡शो अ꣡ववृत्रन्त युध्मा꣡  
+आ꣡द् इ꣡न् ने꣡म इन्द्रयन्ते अभी꣡के  

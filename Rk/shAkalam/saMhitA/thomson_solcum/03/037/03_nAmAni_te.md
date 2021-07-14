@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-nā́māni te śatakrato  
-víśvābhir gīrbhír īmahe  
-índrābhimātiṣā́hiye  
+ना꣡मानि ते शतक्रतो  
+वि꣡श्वाभिर् गीर्भि꣡र् ईमहे  
+इ꣡न्द्राभिमातिषा꣡हिये  

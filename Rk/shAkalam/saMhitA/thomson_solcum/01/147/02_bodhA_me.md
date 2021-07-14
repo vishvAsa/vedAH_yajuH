@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-bódhā me asyá vácaso yaviṣṭha  
-máṃhiṣṭhasya prábhr̥tasya svadhāvaḥ  
-pī́yati tvo ánu tuvo gr̥ṇāti  
-vandā́rus te tanúvaṃ vande agne  
+बो꣡धा मे अस्य꣡ व꣡चसो यविष्ठ  
+मं꣡हिष्ठस्य प्र꣡भृतस्य स्वधावः  
+पी꣡यति त्वो अ꣡नु तुवो गृणाति  
+वन्दा꣡रुस् ते तनु꣡वं वन्दे अग्ने  

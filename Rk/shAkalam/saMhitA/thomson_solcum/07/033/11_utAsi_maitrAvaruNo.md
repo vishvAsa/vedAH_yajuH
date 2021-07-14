@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-utā́si maitrāvaruṇó vasiṣṭha  
-urváśyā brahman mánasó 'dhi jātáḥ  
-drapsáṃ skannám bráhmaṇā daíviyena  
-víśve devā́ḥ púṣkare tvādadanta  
+उता꣡सि मैत्रावरुणो꣡ वसिष्ठ  
+उर्व꣡श्या ब्रह्मन् म꣡नसो꣡ ऽधि जातः꣡  
+द्रप्सं꣡ स्कन्न꣡म् ब्र꣡ह्मणा दइ꣡वियेन  
+वि꣡श्वे देवाः꣡ पु꣡ष्करे त्वाददन्त  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ayám pūṣā́ rayír bhágaḥ  
-sómaḥ punānó arṣati  
-pátir víśvasya bhū́mano  
-ví akhyad ródasī ubhé  
+अय꣡म् पूषा꣡ रयि꣡र् भ꣡गः  
+सो꣡मः पुनानो꣡ अर्षति  
+प꣡तिर् वि꣡श्वस्य भू꣡मनो  
+वि꣡ अख्यद् रो꣡दसी उभे꣡  

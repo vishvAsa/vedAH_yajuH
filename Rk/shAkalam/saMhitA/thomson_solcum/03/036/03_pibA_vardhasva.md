@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-píbā várdhasva táva ghā sutā́sa  
-índra sómāsaḥ prathamā́ utémé  
-yáthā́pibaḥ pūrviyā́m̐ indra sómām̐  
-evā́ pāhi pányo adyā́ návīyān  
+पि꣡बा व꣡र्धस्व त꣡व घा सुता꣡स  
+इ꣡न्द्र सो꣡मासः प्रथमा꣡ उते꣡मे꣡  
+य꣡था꣡पिबः पूर्वियाँ꣡ इन्द्र सो꣡माँ  
+एवा꣡ पाहि प꣡न्यो अद्या꣡ न꣡वीयान्  

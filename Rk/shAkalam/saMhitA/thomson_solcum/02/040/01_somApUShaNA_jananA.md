@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sómāpūṣaṇā jánanā rayīṇā́ṃ  
-jánanā divó jánanā pr̥thivyā́ḥ  
-jātaú víśvasya bhúvanasya gopaú  
-devā́ akr̥ṇvann amŕ̥tasya nā́bhim  
+सो꣡मापूषणा ज꣡नना रयीणां꣡  
+ज꣡नना दिवो꣡ ज꣡नना पृथिव्याः꣡  
+जातउ꣡ वि꣡श्वस्य भु꣡वनस्य गोपउ꣡  
+देवा꣡ अकृण्वन्न् अम्ŕ̥तस्य ना꣡भिम्  

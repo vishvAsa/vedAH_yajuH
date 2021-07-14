@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-víṣṇor nú kaṃ vīríyāṇi prá vocaṃ  
-yáḥ pā́rthivāni vimamé rájāṃsi  
-yó áskabhāyad úttaraṃ sadhásthaṃ  
-vicakramāṇás trẽdhórugāyáḥ  
+वि꣡ष्णोर् नु꣡ कं वीरि꣡याणि प्र꣡ वोचं  
+यः꣡ पा꣡र्थिवानि विममे꣡ र꣡जांसि  
+यो꣡ अ꣡स्कभायद् उ꣡त्तरं सध꣡स्थं  
+विचक्रमाण꣡स् त्र्ẽधो꣡रुगायः꣡  

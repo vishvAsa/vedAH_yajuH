@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-vr̥trásya tvā śvasáthād ī́ṣamāṇā  
-víśve devā́ ajahur yé sákhāyaḥ  
-marúdbhir indra sakhiyáṃ te astu  
-áthemā́ víśvāḥ pŕ̥tanā jayāsi  
+वृत्र꣡स्य त्वा श्वस꣡थाद् ई꣡षमाणा  
+वि꣡श्वे देवा꣡ अजहुर् ये꣡ स꣡खायः  
+मरु꣡द्भिर् इन्द्र सखियं꣡ ते अस्तु  
+अ꣡थेमा꣡ वि꣡श्वाः प्ŕ̥तना जयासि  

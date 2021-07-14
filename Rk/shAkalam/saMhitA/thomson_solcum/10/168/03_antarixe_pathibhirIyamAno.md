@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-antárikṣe pathíbhir ī́yamāno  
-ná ní viśate katamác canā́haḥ  
-apā́ṃ sákhā prathamajā́ r̥tā́vā  
-kúva svij jātáḥ kúta ā́ babhūva  
+अन्त꣡रिक्षे पथि꣡भिर् ई꣡यमानो  
+न꣡ नि꣡ विशते कतम꣡च् चना꣡हः  
+अपां꣡ स꣡खा प्रथमजा꣡ ऋता꣡वा  
+कु꣡व स्विज् जातः꣡ कु꣡त आ꣡ बभूव  

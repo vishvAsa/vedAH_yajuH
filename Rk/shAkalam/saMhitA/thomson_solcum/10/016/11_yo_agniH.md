@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yó agníḥ kravyavā́hanaḥ  
-pitr̥̄́n yákṣad r̥tāvŕ̥dhaḥ  
-préd u havyā́ni vocati  
-devébhyaś ca pitŕ̥bhya ā́  
+यो꣡ अग्निः꣡ क्रव्यवा꣡हनः  
+पितॄ꣡न् य꣡क्षद् ऋताव्ŕ̥धः  
+प्रे꣡द् उ हव्या꣡नि वोचति  
+देवे꣡भ्यश् च पित्ŕ̥भ्य आ꣡  

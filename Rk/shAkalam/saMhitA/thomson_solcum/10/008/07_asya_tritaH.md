@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-asyá tritáḥ krátunā vavré antár  
-ichán dhītím pitúr évaiḥ párasya  
-sacasyámānaḥ pitarór+ upásthe  
-jāmí bruvāṇá ā́yudhāni veti  
+अस्य꣡ त्रितः꣡ क्र꣡तुना वव्रे꣡ अन्त꣡र्  
+इछ꣡न् धीति꣡म् पितु꣡र् ए꣡वैः प꣡रस्य  
+सचस्य꣡मानः पितरो꣡र्+ उप꣡स्थे  
+जामि꣡ ब्रुवाण꣡ आ꣡युधानि वेति  

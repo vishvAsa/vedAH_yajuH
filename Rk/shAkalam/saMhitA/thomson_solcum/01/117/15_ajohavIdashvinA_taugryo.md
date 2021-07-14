@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-ájohavīd aśvinā taugriyó vām  
-próḷhaḥ samudrám avyathír jaganvā́n  
-níṣ ṭám ūhathuḥ suyújā ráthena  
-mánojavasā vr̥ṣaṇā suastí  
+अ꣡जोहवीद् अश्विना तौग्रियो꣡ वाम्  
+प्रो꣡ऌहः समुद्र꣡म् अव्यथि꣡र् जगन्वा꣡न्  
+नि꣡ष् ट꣡म् ऊहथुः सुयु꣡जा र꣡थेन  
+म꣡नोजवसा वृषणा सुअस्ति꣡  

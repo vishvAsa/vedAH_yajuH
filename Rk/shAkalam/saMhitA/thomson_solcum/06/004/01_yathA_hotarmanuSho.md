@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yáthā hotar mánuṣo devátātā  
-yajñébhiḥ sūno sahaso yájāsi  
-evā́ no adyá samanā́ samānā́n  
-uśánn agna uśató yakṣi devā́n  
+य꣡था होतर् म꣡नुषो देव꣡ताता  
+यज्ञे꣡भिः सूनो सहसो य꣡जासि  
+एवा꣡ नो अद्य꣡ समना꣡ समाना꣡न्  
+उश꣡न्न् अग्न उशतो꣡ यक्षि देवा꣡न्  

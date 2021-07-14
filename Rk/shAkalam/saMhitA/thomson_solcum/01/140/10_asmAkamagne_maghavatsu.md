@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-asmā́kam agne maghávatsu dīdihi  
-ádha śvásīvān vr̥ṣabhó dámūnāḥ  
-avā́siā śíśumatīr adīder  
-vármeva yutsú parijárbhurāṇaḥ  
+अस्मा꣡कम् अग्ने मघ꣡वत्सु दीदिहि  
+अ꣡ध श्व꣡सीवान् वृषभो꣡ द꣡मूनाः  
+अवा꣡सिआ शि꣡शुमतीर् अदीदेर्  
+व꣡र्मेव युत्सु꣡ परिज꣡र्भुराणः  

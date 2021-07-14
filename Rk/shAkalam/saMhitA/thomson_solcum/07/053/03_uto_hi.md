@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-utó hí vāṃ ratnadhéyāni sánti  
-purū́ṇi dyāvāpr̥thivī sudā́se  
-asmé dhattaṃ yád ásad áskr̥dhoyu  
-yūyám pāta suastíbhiḥ sádā naḥ  
+उतो꣡ हि꣡ वां रत्नधे꣡यानि स꣡न्ति  
+पुरू꣡णि द्यावापृथिवी सुदा꣡से  
+अस्मे꣡ धत्तं य꣡द् अ꣡सद् अ꣡स्कृधोयु  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

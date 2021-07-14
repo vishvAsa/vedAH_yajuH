@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prá ta ā́śvinīḥ pavamāna dhījúvo  
-divyā́ asr̥gran páyasā dhárīmaṇi  
-prā́ntár ŕ̥ṣaya sthā́virīr asr̥kṣata  
-yé tvā mr̥jánti r̥ṣiṣāṇa vedhásaḥ  
+प्र꣡ त आ꣡श्विनीः पवमान धीजु꣡वो  
+दिव्या꣡ असृग्रन् प꣡यसा ध꣡रीमणि  
+प्रा꣡न्त꣡र् ŕ̥षय स्था꣡विरीर् असृक्षत  
+ये꣡ त्वा मृज꣡न्ति ऋषिषाण वेध꣡सः  

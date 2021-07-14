@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá víṣṇave · śūṣám etu mánma  
-girikṣíta urugāyā́ya vŕ̥ṣṇe  
-yá idáṃ dīrghám práyataṃ sadhástham  
-éko vimamé tribhír ít padébhiḥ  
+प्र꣡ वि꣡ष्णवे · शूष꣡म् एतु म꣡न्म  
+गिरिक्षि꣡त उरुगाया꣡य व्ŕ̥ष्णे  
+य꣡ इदं꣡ दीर्घ꣡म् प्र꣡यतं सध꣡स्थम्  
+ए꣡को विममे꣡ त्रिभि꣡र् इ꣡त् पदे꣡भिः  

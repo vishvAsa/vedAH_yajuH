@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-índro aṅgá mahád bhayám  
-abhī́ ṣád ápa cucyavat  
-sá hí sthiró vícarṣaṇiḥ  
+इ꣡न्द्रो अङ्ग꣡ मह꣡द् भय꣡म्  
+अभी꣡ ष꣡द् अ꣡प चुच्यवत्  
+स꣡ हि꣡ स्थिरो꣡ वि꣡चर्षणिः  

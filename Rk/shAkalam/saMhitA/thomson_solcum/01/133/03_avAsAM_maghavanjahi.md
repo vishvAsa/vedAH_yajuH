@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ávāsām maghavañ jahi  
-śárdho yātumátīnãm  
-vailasthānaké armaké  
-mahā́vailasthe armaké  
+अ꣡वासाम् मघवञ् जहि  
+श꣡र्धो यातुम꣡तीन्ãम्  
+वैलस्थानके꣡ अर्मके꣡  
+महा꣡वैलस्थे अर्मके꣡  

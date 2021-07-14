@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-vásvī te agne sáṃdr̥ṣṭir  
-iṣayaté mártiyāya  
-ū́rjo napād amŕ̥tasya  
+व꣡स्वी ते अग्ने सं꣡दृष्टिर्  
+इषयते꣡ म꣡र्तियाय  
+ऊ꣡र्जो नपाद् अम्ŕ̥तस्य  

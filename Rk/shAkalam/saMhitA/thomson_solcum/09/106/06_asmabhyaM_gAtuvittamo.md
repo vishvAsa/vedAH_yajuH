@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-asmábhyaṃ gātuvíttamo  
-devébhyo mádhumattamaḥ  
-sahásraṃ yāhi pathíbhiḥ kánikradat  
+अस्म꣡भ्यं गातुवि꣡त्तमो  
+देवे꣡भ्यो म꣡धुमत्तमः  
+सह꣡स्रं याहि पथि꣡भिः क꣡निक्रदत्  

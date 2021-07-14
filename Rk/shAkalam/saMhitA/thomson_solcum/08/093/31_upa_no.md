@@ -2,6 +2,6 @@
 title = "031"
 
 +++
-úpa no háribhiḥ sutáṃ  
-yāhí madānãm pate  
-úpa no háribhiḥ sutám  
+उ꣡प नो ह꣡रिभिः सुतं꣡  
+याहि꣡ मदान्ãम् पते  
+उ꣡प नो ह꣡रिभिः सुत꣡म्  

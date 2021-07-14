@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yán nāsatyā parāváti  
-yád vā sthó ádhi ámbare  
-átaḥ sahásranirṇijā  
-ráthenā́ yātam aśvinā  
+य꣡न् नासत्या पराव꣡ति  
+य꣡द् वा स्थो꣡ अ꣡धि अ꣡म्बरे  
+अ꣡तः सह꣡स्रनिर्णिजा  
+र꣡थेना꣡ यातम् अश्विना  

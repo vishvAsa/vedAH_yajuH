@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-urúṃ hí rā́jā váruṇaś cakā́ra  
-sū́ryāya pánthām ánuetavā́ u  
-apáde pā́dā prátidhātave 'kar  
-utā́pavaktā́ hr̥dayāvídhaś cit  
+उरुं꣡ हि꣡ रा꣡जा व꣡रुणश् चका꣡र  
+सू꣡र्याय प꣡न्थाम् अ꣡नुएतवा꣡ उ  
+अप꣡दे पा꣡दा प्र꣡तिधातवे ऽकर्  
+उता꣡पवक्ता꣡ हृदयावि꣡धश् चित्  

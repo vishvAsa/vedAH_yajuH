@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-siñcánti námasāvatám  
-uccā́cakram párijmānam  
-nīcī́nabāram ákṣitam  
+सिञ्च꣡न्ति न꣡मसावत꣡म्  
+उच्चा꣡चक्रम् प꣡रिज्मानम्  
+नीची꣡नबारम् अ꣡क्षितम्  

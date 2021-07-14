@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ní tvā dadhe · vára ā́ pr̥thivyā́  
-íḷāyās padé sudinatvé áhnām  
-dr̥ṣádvatyām mā́nuṣa āpayā́yāṃ  
-sárasvatyāṃ revád agne didīhi  
+नि꣡ त्वा दधे · व꣡र आ꣡ पृथिव्या꣡  
+इ꣡ऌआयास् पदे꣡ सुदिनत्वे꣡ अ꣡ह्नाम्  
+दृष꣡द्वत्याम् मा꣡नुष आपया꣡यां  
+स꣡रस्वत्यां रेव꣡द् अग्ने दिदीहि  

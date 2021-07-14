@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sthirám mánaś cakr̥ṣe jātá indra  
-véṣī́d éko yudháye bhū́yasaś cit  
-áśmānaṃ cic chávasā didyuto ví  
-vidó gávām ūruvám usríyāṇām  
+स्थिर꣡म् म꣡नश् चकृषे जात꣡ इन्द्र  
+वे꣡षी꣡द् ए꣡को युध꣡ये भू꣡यसश् चित्  
+अ꣡श्मानं चिच् छ꣡वसा दिद्युतो वि꣡  
+विदो꣡ ग꣡वाम् ऊरुव꣡म् उस्रि꣡याणाम्  

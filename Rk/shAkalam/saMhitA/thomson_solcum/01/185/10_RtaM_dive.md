@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-r̥táṃ divé tád avocam pr̥thivyā́  
-abhiśrāvā́ya prathamáṃ sumedhā́ḥ  
-pātā́m avadyā́d duritā́d abhī́ke  
-pitā́ mātā́ ca rakṣatām ávobhiḥ  
+ऋतं꣡ दिवे꣡ त꣡द् अवोचम् पृथिव्या꣡  
+अभिश्रावा꣡य प्रथमं꣡ सुमेधाः꣡  
+पाता꣡म् अवद्या꣡द् दुरिता꣡द् अभी꣡के  
+पिता꣡ माता꣡ च रक्षताम् अ꣡वोभिः  

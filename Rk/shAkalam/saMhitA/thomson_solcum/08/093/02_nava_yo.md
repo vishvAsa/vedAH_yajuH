@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-náva yó navatím púro  
-bibhéda bāhúojasā  
-áhiṃ ca vr̥trahā́vadhīt  
+न꣡व यो꣡ नवति꣡म् पु꣡रो  
+बिभे꣡द बाहु꣡ओजसा  
+अ꣡हिं च वृत्रहा꣡वधीत्  

@@ -2,7 +2,7 @@
 title = "056"
 
 +++
-eṣá viśvavít pavate manīṣī́  
-sómo víśvasya bhúvanasya rā́jā  
-drapsā́m̐ īráyan vidátheṣu índur  
-ví vā́ram ávyaṃ samáyā́ti yāti  
+एष꣡ विश्ववि꣡त् पवते मनीषी꣡  
+सो꣡मो वि꣡श्वस्य भु꣡वनस्य रा꣡जा  
+द्रप्साँ꣡ ईर꣡यन् विद꣡थेषु इ꣡न्दुर्  
+वि꣡ वा꣡रम् अ꣡व्यं सम꣡या꣡ति याति  

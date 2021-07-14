@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sáṃ yád váyaṃ yavasā́do jánānām  
-aháṃ yavā́da uruájre antáḥ  
-átrā yuktó avasātā́ram ichād  
-átho áyuktaṃ yunajad vavanvā́n  
+सं꣡ य꣡द् व꣡यं यवसा꣡दो ज꣡नानाम्  
+अहं꣡ यवा꣡द उरुअ꣡ज्रे अन्तः꣡  
+अ꣡त्रा युक्तो꣡ अवसाता꣡रम् इछाद्  
+अ꣡थो अ꣡युक्तं युनजद् ववन्वा꣡न्  

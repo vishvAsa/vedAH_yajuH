@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-gāthápatim medhápatiṃ  
-rudráṃ jálāṣabheṣajam  
-tác chaṃyóḥ sumnám īmahe  
+गाथ꣡पतिम् मेध꣡पतिं  
+रुद्रं꣡ ज꣡लाषभेषजम्  
+त꣡च् छंयोः꣡ सुम्न꣡म् ईमहे  

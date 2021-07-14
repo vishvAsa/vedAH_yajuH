@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-abhí gávyāni vītáye  
-nr̥mṇā́ punānó arṣasi  
-sanádvājaḥ pári srava  
+अभि꣡ ग꣡व्यानि वीत꣡ये  
+नृम्णा꣡ पुनानो꣡ अर्षसि  
+सन꣡द्वाजः प꣡रि स्रव  

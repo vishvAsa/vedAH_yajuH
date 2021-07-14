@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ā́ naḥ pavasva vásumad dhíraṇyavad  
-áśvāvad gómad yávamat suvī́riyam  
-yūyáṃ hí soma pitáro máma sthána  
-divó mūrdhā́naḥ prásthitā vayaskŕ̥taḥ  
+आ꣡ नः पवस्व व꣡सुमद् धि꣡रण्यवद्  
+अ꣡श्वावद् गो꣡मद् य꣡वमत् सुवी꣡रियम्  
+यूयं꣡ हि꣡ सोम पित꣡रो म꣡म स्थ꣡न  
+दिवो꣡ मूर्धा꣡नः प्र꣡स्थिता वयस्क्ŕ̥तः  

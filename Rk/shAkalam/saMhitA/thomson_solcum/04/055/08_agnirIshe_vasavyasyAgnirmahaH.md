@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-agnír īśe vasavyàsya  
-agnír maháḥ saúbhagasya  
-tā́ni asmábhyaṃ rāsate  
+अग्नि꣡र् ईशे वसव्य᳡स्य  
+अग्नि꣡र् महः꣡ सउ꣡भगस्य  
+ता꣡नि अस्म꣡भ्यं रासते  

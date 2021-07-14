@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-divó vā sā́nu spr̥śátā várīyaḥ  
-pr̥thivyā́ vā mā́trayā ví śrayadhvam  
-uśatī́r dvāro mahinā́ mahádbhir  
-deváṃ ráthaṃ rathayúr dhārayadhvam  
+दिवो꣡ वा सा꣡नु स्पृश꣡ता व꣡रीयः  
+पृथिव्या꣡ वा मा꣡त्रया वि꣡ श्रयध्वम्  
+उशती꣡र् द्वारो महिना꣡ मह꣡द्भिर्  
+देवं꣡ र꣡थं रथयु꣡र् धारयध्वम्  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sáptim mr̥janti vedháso  
-gr̥ṇántaḥ kārávo girā́  
-jyótir jajñānám ukthíyam  
+स꣡प्तिम् मृजन्ति वेध꣡सो  
+गृण꣡न्तः कार꣡वो गिरा꣡  
+ज्यो꣡तिर् जज्ञान꣡म् उक्थि꣡यम्  

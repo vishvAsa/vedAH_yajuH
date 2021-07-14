@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-amitrahā́ vícarṣaṇiḥ  
-pávasva soma śáṃ gáve  
-devébhyo anukāmakŕ̥t  
+अमित्रहा꣡ वि꣡चर्षणिः  
+प꣡वस्व सोम शं꣡ ग꣡वे  
+देवे꣡भ्यो अनुकामक्ŕ̥त्  

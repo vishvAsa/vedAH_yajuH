@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá pratnaván návyase viśvavāra  
-suuktā́ya patháḥ kr̥ṇuhi prā́caḥ  
-yé duḥṣáhāso vanúṣā br̥hántas  
-tā́ṃs te aśyāma purukr̥t purukṣo  
+स꣡ प्रत्नव꣡न् न꣡व्यसे विश्ववार  
+सुउक्ता꣡य पथः꣡ कृणुहि प्रा꣡चः  
+ये꣡ दुःष꣡हासो वनु꣡षा बृह꣡न्तस्  
+तां꣡स् ते अश्याम पुरुकृत् पुरुक्षो  

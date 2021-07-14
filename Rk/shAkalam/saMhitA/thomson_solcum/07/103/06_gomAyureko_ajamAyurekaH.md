@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-gómāyur éko ajámāyur ékaḥ  
-pŕ̥śnir éko hárita éka eṣām  
-samānáṃ nā́ma bíbhrato vírūpāḥ  
-purutrā́ vā́cam pipiśur vádantaḥ  
+गो꣡मायुर् ए꣡को अज꣡मायुर् ए꣡कः  
+प्ŕ̥श्निर् ए꣡को ह꣡रित ए꣡क एषाम्  
+समानं꣡ ना꣡म बि꣡भ्रतो वि꣡रूपाः  
+पुरुत्रा꣡ वा꣡चम् पिपिशुर् व꣡दन्तः  

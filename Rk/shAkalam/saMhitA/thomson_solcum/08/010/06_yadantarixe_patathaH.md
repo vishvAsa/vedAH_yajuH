@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yád antárikṣe pátathaḥ purubhujā  
-yád vemé ródasī ánu  
-yád vā svadhā́bhir adhitíṣṭhatho rátham  
-áta ā́ yātam aśvinā  
+य꣡द् अन्त꣡रिक्षे प꣡तथः पुरुभुजा  
+य꣡द् वेमे꣡ रो꣡दसी अ꣡नु  
+य꣡द् वा स्वधा꣡भिर् अधिति꣡ष्ठथो र꣡थम्  
+अ꣡त आ꣡ यातम् अश्विना  

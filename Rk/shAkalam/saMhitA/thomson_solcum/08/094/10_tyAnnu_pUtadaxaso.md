@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-tiyā́n nú pūtádakṣaso  
-divó vo maruto huve  
-asyá sómasya pītáye  
+तिया꣡न् नु꣡ पूत꣡दक्षसो  
+दिवो꣡ वो मरुतो हुवे  
+अस्य꣡ सो꣡मस्य पीत꣡ये  

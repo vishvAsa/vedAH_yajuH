@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-tuváṃ tyám indra sū́riyam  
-paścā́ sántam purás kr̥dhi  
-devā́nāṃ cit tiró váśam  
+तुवं꣡ त्य꣡म् इन्द्र सू꣡रियम्  
+पश्चा꣡ स꣡न्तम् पुर꣡स् कृधि  
+देवा꣡नां चित् तिरो꣡ व꣡शम्  

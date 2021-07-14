@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-asmā́ ukthā́ya párvatasya gárbho  
-mahī́nãṃ janúṣe pūrviyā́ya  
-ví párvato jíhīta sā́dhata dyaúr  
-āvívāsanto dasayanta bhū́ma  
+अस्मा꣡ उक्था꣡य प꣡र्वतस्य ग꣡र्भो  
+मही꣡न्ãं जनु꣡षे पूर्विया꣡य  
+वि꣡ प꣡र्वतो जि꣡हीत सा꣡धत द्यउ꣡र्  
+आवि꣡वासन्तो दसयन्त भू꣡म  

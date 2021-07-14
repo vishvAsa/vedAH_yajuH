@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-srákve drapsásya dhámataḥ sám asvarann  
-r̥tásya yónā sám aranta nā́bhayaḥ  
-trī́n sá mūrdhnó ásuraś cakra ārábhe  
-satyásya nā́vaḥ sukŕ̥tam apīparan  
+स्र꣡क्वे द्रप्स꣡स्य ध꣡मतः स꣡म् अस्वरन्न्  
+ऋत꣡स्य यो꣡ना स꣡म् अरन्त ना꣡भयः  
+त्री꣡न् स꣡ मूर्ध्नो꣡ अ꣡सुरश् चक्र आर꣡भे  
+सत्य꣡स्य ना꣡वः सुक्ŕ̥तम् अपीपरन्  

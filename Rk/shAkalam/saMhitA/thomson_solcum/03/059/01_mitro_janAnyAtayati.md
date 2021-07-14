@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mitró jánān yātayati bruvāṇó  
-mitró dādhāra pr̥thivī́m utá dyā́m  
-mitráḥ kr̥ṣṭī́r ánimiṣābhí caṣṭe  
-mitrā́ya havyáṃ ghr̥távaj juhota  
+मित्रो꣡ ज꣡नान् यातयति ब्रुवाणो꣡  
+मित्रो꣡ दाधार पृथिवी꣡म् उत꣡ द्या꣡म्  
+मित्रः꣡ कृष्टी꣡र् अ꣡निमिषाभि꣡ चष्टे  
+मित्रा꣡य हव्यं꣡ घृत꣡वज् जुहोत  

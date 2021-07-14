@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-tám u abhí prá gāyata  
-puruhūtám puruṣṭutám  
-índraṃ gīrbhís taviṣám ā́ vivāsata  
+त꣡म् उ अभि꣡ प्र꣡ गायत  
+पुरुहूत꣡म् पुरुष्टुत꣡म्  
+इ꣡न्द्रं गीर्भि꣡स् तविष꣡म् आ꣡ विवासत  

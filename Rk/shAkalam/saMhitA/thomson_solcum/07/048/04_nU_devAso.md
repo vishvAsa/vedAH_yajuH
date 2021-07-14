@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-nū́ devāso várivaḥ kartanā no  
-bhūtá no víśve ávase sajóṣāḥ  
-sám asmé íṣaṃ vásavo dadīran  
-yūyám pāta suastíbhiḥ sádā naḥ  
+नू꣡ देवासो व꣡रिवः कर्तना नो  
+भूत꣡ नो वि꣡श्वे अ꣡वसे सजो꣡षाः  
+स꣡म् अस्मे꣡ इ꣡षं व꣡सवो ददीरन्  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

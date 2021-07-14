@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-pū́rviya hotar asyá no  
-mándasva sakhiyásya ca  
-imā́ u ṣú śrudhī gíraḥ  
+पू꣡र्विय होतर् अस्य꣡ नो  
+म꣡न्दस्व सखिय꣡स्य च  
+इमा꣡ उ षु꣡ श्रुधी गि꣡रः  

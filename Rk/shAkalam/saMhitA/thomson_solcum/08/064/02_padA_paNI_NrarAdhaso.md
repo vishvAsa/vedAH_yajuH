@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-padā́ paṇī́m̐r arādháso  
-ní bādhasva mahā́m̐ asi  
-nahí tvā káś caná práti  
+पदा꣡ पणीँ꣡र् अराध꣡सो  
+नि꣡ बाधस्व महाँ꣡ असि  
+नहि꣡ त्वा क꣡श् चन꣡ प्र꣡ति  

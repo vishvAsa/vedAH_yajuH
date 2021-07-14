@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-víśvā hí vo namasíyāni vándiyā  
-nā́māni devā utá yajñíyāni vaḥ  
-yé sthá jātā́ áditer adbhiyás pári  
-yé pr̥thivyā́s té ma ihá śrutā hávam  
+वि꣡श्वा हि꣡ वो नमसि꣡यानि व꣡न्दिया  
+ना꣡मानि देवा उत꣡ यज्ञि꣡यानि वः  
+ये꣡ स्थ꣡ जाता꣡ अ꣡दितेर् अद्भिय꣡स् प꣡रि  
+ये꣡ पृथिव्या꣡स् ते꣡ म इह꣡ श्रुता ह꣡वम्  

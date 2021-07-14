@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mahā́m̐ asi mahiṣa vŕ̥ṣṇiyebhir  
-dhanaspŕ̥d ugra sáhamāno anyā́n  
-éko víśvasya bhúvanasya rā́jā  
-sá yodháyā ca kṣayáyā ca jánān  
+महाँ꣡ असि महिष व्ŕ̥ष्णियेभिर्  
+धनस्प्ŕ̥द् उग्र स꣡हमानो अन्या꣡न्  
+ए꣡को वि꣡श्वस्य भु꣡वनस्य रा꣡जा  
+स꣡ योध꣡या च क्षय꣡या च ज꣡नान्  

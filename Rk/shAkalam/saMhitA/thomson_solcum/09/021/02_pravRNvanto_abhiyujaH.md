@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-pravr̥ṇvánto abhiyújaḥ  
-súṣvaye varivovídaḥ  
-svayáṃ stotré vayaskŕ̥taḥ  
+प्रवृण्व꣡न्तो अभियु꣡जः  
+सु꣡ष्वये वरिवोवि꣡दः  
+स्वयं꣡ स्तोत्रे꣡ वयस्क्ŕ̥तः  

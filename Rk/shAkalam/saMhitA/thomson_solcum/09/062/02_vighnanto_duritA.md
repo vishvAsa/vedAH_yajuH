@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-vighnánto duritā́ purú  
-sugā́ tokā́ya vājínaḥ  
-tánā kr̥ṇvánto árvate  
+विघ्न꣡न्तो दुरिता꣡ पुरु꣡  
+सुगा꣡ तोका꣡य वाजि꣡नः  
+त꣡ना कृण्व꣡न्तो अ꣡र्वते  

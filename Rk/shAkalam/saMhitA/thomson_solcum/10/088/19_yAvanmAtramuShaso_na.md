@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-yāvanmātrám uṣáso ná prátīkaṃ  
-suparṇíyo vásate mātariśvaḥ  
-tā́vad dadhāti úpa yajñám āyán  
-brāhmaṇó hótur ávaro niṣī́dan  
+यावन्मात्र꣡म् उष꣡सो न꣡ प्र꣡तीकं  
+सुपर्णि꣡यो व꣡सते मातरिश्वः  
+ता꣡वद् दधाति उ꣡प यज्ञ꣡म् आय꣡न्  
+ब्राह्मणो꣡ हो꣡तुर् अ꣡वरो निषी꣡दन्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mahé no adyá suvitā́ya bodhi  
-úṣo mahé saúbhagāya prá yandhi  
-citráṃ rayíṃ yaśásaṃ dhehi asmé  
-dévi márteṣu mānuṣi śravasyúm  
+महे꣡ नो अद्य꣡ सुविता꣡य बोधि  
+उ꣡षो महे꣡ सउ꣡भगाय प्र꣡ यन्धि  
+चित्रं꣡ रयिं꣡ यश꣡सं धेहि अस्मे꣡  
+दे꣡वि म꣡र्तेषु मानुषि श्रवस्यु꣡म्  

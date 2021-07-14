@@ -2,8 +2,8 @@
 title = "010"
 
 +++
-sáṃ vāṃ śatā́ nāsatiyā sahásrā  
-áśvānãm purupánthā giré dāt  
-bharádvājāya vīra nū́ giré dād  
-dhatā́ rákṣāṃsi purudaṃsasā syuḥ  
+सं꣡ वां शता꣡ नासतिया सह꣡स्रा  
+अ꣡श्वान्ãम् पुरुप꣡न्था गिरे꣡ दात्  
+भर꣡द्वाजाय वीर नू꣡ गिरे꣡ दाद्  
+धता꣡ र꣡क्षांसि पुरुदंससा स्युः  
 

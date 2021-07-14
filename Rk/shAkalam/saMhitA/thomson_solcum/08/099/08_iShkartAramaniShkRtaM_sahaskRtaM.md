@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-iṣkartā́ram ániṣkr̥taṃ sáhaskr̥taṃ  
-śatámūtiṃ śatákratum  
-samānám índram ávase havāmahe  
-vásavānaṃ vasūjúvam  
+इष्कर्ता꣡रम् अ꣡निष्कृतं स꣡हस्कृतं  
+शत꣡मूतिं शत꣡क्रतुम्  
+समान꣡म् इ꣡न्द्रम् अ꣡वसे हवामहे  
+व꣡सवानं वसूजु꣡वम्  

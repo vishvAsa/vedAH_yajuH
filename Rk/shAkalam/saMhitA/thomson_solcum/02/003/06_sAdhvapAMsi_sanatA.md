@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sādhú ápāṃsi sanátā na ukṣité  
-uṣā́sānáktā vayíyeva raṇvité  
-tántuṃ tatáṃ saṃváyantī samīcī́  
-yajñásya péśaḥ sudúghe páyasvatī  
+साधु꣡ अ꣡पांसि सन꣡ता न उक्षिते꣡  
+उषा꣡सान꣡क्ता वयि꣡येव रण्विते꣡  
+त꣡न्तुं ततं꣡ संव꣡यन्ती समीची꣡  
+यज्ञ꣡स्य पे꣡शः सुदु꣡घे प꣡यस्वती  

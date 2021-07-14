@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-índra tvótāsa ā́ vayáṃ  
-vájraṃ ghanā́ dadīmahi  
-jáyema sáṃ yudhí spŕ̥dhaḥ  
+इ꣡न्द्र त्वो꣡तास आ꣡ वयं꣡  
+व꣡ज्रं घना꣡ ददीमहि  
+ज꣡येम सं꣡ युधि꣡ स्प्ŕ̥धः  

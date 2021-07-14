@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ukṣánte áśvām̐ átiyām̐ ivājíṣu  
-nadásya kárṇais turayanta āśúbhiḥ  
-híraṇyaśiprā maruto dávidhvataḥ  
-pr̥kṣáṃ yātha pŕ̥ṣatībhiḥ samanyavaḥ  
+उक्ष꣡न्ते अ꣡श्वाँ अ꣡तियाँ इवाजि꣡षु  
+नद꣡स्य क꣡र्णैस् तुरयन्त आशु꣡भिः  
+हि꣡रण्यशिप्रा मरुतो द꣡विध्वतः  
+पृक्षं꣡ याथ प्ŕ̥षतीभिः समन्यवः  

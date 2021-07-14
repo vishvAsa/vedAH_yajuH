@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-pitúr mātúr ádhi ā́ yé samásvarann  
-r̥cā́ śócantaḥ saṃdáhanto avratā́n  
-índradviṣṭām ápa dhamanti māyáyā  
-tvácam ásiknīm bhū́mano divás pári  
+पितु꣡र् मातु꣡र् अ꣡धि आ꣡ ये꣡ सम꣡स्वरन्न्  
+ऋचा꣡ शो꣡चन्तः संद꣡हन्तो अव्रता꣡न्  
+इ꣡न्द्रद्विष्टाम् अ꣡प धमन्ति माय꣡या  
+त्व꣡चम् अ꣡सिक्नीम् भू꣡मनो दिव꣡स् प꣡रि  

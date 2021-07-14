@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-tuváṃ vármāsi sapráthaḥ  
-puroyodháś ca vr̥trahan  
-tváyā práti bruve yujā́  
+तुवं꣡ व꣡र्मासि सप्र꣡थः  
+पुरोयोध꣡श् च वृत्रहन्  
+त्व꣡या प्र꣡ति ब्रुवे युजा꣡  

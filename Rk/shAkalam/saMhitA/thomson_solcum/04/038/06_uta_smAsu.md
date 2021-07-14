@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-utá sma āsu prathamáḥ sariṣyán  
-ní veveti śráyaṇibhī+ ráthānām  
-srájaṃ kr̥ṇvānó jániyo ná śúbhvā  
-reṇúṃ rérihat kiráṇaṃ dadaśvā́n  
+उत꣡ स्म आसु प्रथमः꣡ सरिष्य꣡न्  
+नि꣡ वेवेति श्र꣡यणिभी+ र꣡थानाम्  
+स्र꣡जं कृण्वानो꣡ ज꣡नियो न꣡ शु꣡भ्वा  
+रेणुं꣡ रे꣡रिहत् किर꣡णं ददश्वा꣡न्  

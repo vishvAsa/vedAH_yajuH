@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-stotā́ yát te vícarṣaṇir  
-atipraśardháyad gíraḥ  
-vayā́ ivā́nu rohate juṣánta yát  
+स्तोता꣡ य꣡त् ते वि꣡चर्षणिर्  
+अतिप्रशर्ध꣡यद् गि꣡रः  
+वया꣡ इवा꣡नु रोहते जुष꣡न्त य꣡त्  

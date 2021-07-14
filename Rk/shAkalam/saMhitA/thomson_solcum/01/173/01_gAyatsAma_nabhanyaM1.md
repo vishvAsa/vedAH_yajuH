@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-gā́yat sā́ma nabhaníyaṃ yáthā vér  
-árcāma tád vāvr̥dhānáṃ súvarvat  
-gā́vo dhenávo barhíṣi ádabdhā  
-ā́ yát sadmā́naṃ diviyáṃ vívāsān  
+गा꣡यत् सा꣡म नभनि꣡यं य꣡था वे꣡र्  
+अ꣡र्चाम त꣡द् वावृधानं꣡ सु꣡वर्वत्  
+गा꣡वो धेन꣡वो बर्हि꣡षि अ꣡दब्धा  
+आ꣡ य꣡त् सद्मा꣡नं दिवियं꣡ वि꣡वासान्  

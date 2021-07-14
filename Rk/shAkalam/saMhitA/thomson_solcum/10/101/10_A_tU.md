@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́ tū́ ṣiñca hárim īṃ drór upásthe  
-vā́śībhis takṣata aśmanmáyībhiḥ  
-pári ṣvajadhvaṃ dáśa kakṣíyābhir  
-ubhé dhúrau práti váhniṃ yunakta  
+आ꣡ तू꣡ षिञ्च ह꣡रिम् ईं द्रो꣡र् उप꣡स्थे  
+वा꣡शीभिस् तक्षत अश्मन्म꣡यीभिः  
+प꣡रि ष्वजध्वं द꣡श कक्षि꣡याभिर्  
+उभे꣡ धु꣡रौ प्र꣡ति व꣡ह्निं युनक्त  

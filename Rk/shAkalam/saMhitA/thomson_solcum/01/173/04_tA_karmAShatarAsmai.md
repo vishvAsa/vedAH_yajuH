@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tā́ karmā́ṣatarā asmai  
-prá cyautnā́ni devayánto bharante  
-jújoṣad · índaro+ dasmávarcā  
-nā́satiyeva súgmiyo ratheṣṭhā́ḥ  
+ता꣡ कर्मा꣡षतरा अस्मै  
+प्र꣡ च्यौत्ना꣡नि देवय꣡न्तो भरन्ते  
+जु꣡जोषद् · इ꣡न्दरो+ दस्म꣡वर्चा  
+ना꣡सतियेव सु꣡ग्मियो रथेष्ठाः꣡  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-nā́ke suparṇám úpa yát pátantaṃ  
-hr̥dā́ vénanto abhy ácakṣata tvā  
-híraṇyapakṣaṃ váruṇasya dūtáṃ  
-yamásya yónau śakunám bhuraṇyúm  
+ना꣡के सुपर्ण꣡म् उ꣡प य꣡त् प꣡तन्तं  
+हृदा꣡ वे꣡नन्तो अभ्य् अ꣡चक्षत त्वा  
+हि꣡रण्यपक्षं व꣡रुणस्य दूतं꣡  
+यम꣡स्य यो꣡नौ शकुन꣡म् भुरण्यु꣡म्  

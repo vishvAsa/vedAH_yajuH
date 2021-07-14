@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tán nas turī́pam ádha poṣayitnú  
-déva tvaṣṭar ví rarāṇáḥ siyasva  
-yáto vīráḥ karmaṇíyaḥ sudákṣo  
-yuktágrāvā jā́yate devákāmaḥ  
+त꣡न् नस् तुरी꣡पम् अ꣡ध पोषयित्नु꣡  
+दे꣡व त्वष्टर् वि꣡ रराणः꣡ सियस्व  
+य꣡तो वीरः꣡ कर्मणि꣡यः सुद꣡क्षो  
+युक्त꣡ग्रावा जा꣡यते देव꣡कामः  

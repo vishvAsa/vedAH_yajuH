@@ -2,10 +2,10 @@
 title = "004"
 
 +++
-ā́ vāṃ rátho niyútvān vakṣad ávase  
-abhí práyāṃsi súdhitāni vītáye  
-vā́yo havyā́ni vītáye  
-píbatam mádhvo ándhasaḥ  
-pūrvapéyaṃ hí vāṃ hitám  
-vā́yav ā́ candréṇa rā́dhasā ā́ gatam  
-índraś ca rā́dhasā́ gatam  
+आ꣡ वां र꣡थो नियु꣡त्वान् वक्षद् अ꣡वसे  
+अभि꣡ प्र꣡यांसि सु꣡धितानि वीत꣡ये  
+वा꣡यो हव्या꣡नि वीत꣡ये  
+पि꣡बतम् म꣡ध्वो अ꣡न्धसः  
+पूर्वपे꣡यं हि꣡ वां हित꣡म्  
+वा꣡यव् आ꣡ चन्द्रे꣡ण रा꣡धसा आ꣡ गतम्  
+इ꣡न्द्रश् च रा꣡धसा꣡ गतम्  

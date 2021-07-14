@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-úṣo bhadrébhir ā́ gahi  
-diváś cid rocanā́d ádhi  
-váhantu aruṇápsava  
-úpa tvā somíno gr̥hám  
+उ꣡षो भद्रे꣡भिर् आ꣡ गहि  
+दिव꣡श् चिद् रोचना꣡द् अ꣡धि  
+व꣡हन्तु अरुण꣡प्सव  
+उ꣡प त्वा सोमि꣡नो गृह꣡म्  

@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-mó ṣú brahméva tandrayúr  
-bhúvo vājānãm pate  
-mátsvā sutásya gómataḥ  
+मो꣡ षु꣡ ब्रह्मे꣡व तन्द्रयु꣡र्  
+भु꣡वो वाजान्ãम् पते  
+म꣡त्स्वा सुत꣡स्य गो꣡मतः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ayáṃ kavír ákaviṣu prácetā  
-márteṣu agnír amŕ̥to ní dhāyi  
-sá mā́ no átra juhuraḥ sahasvaḥ  
-sádā tuvé sumánasaḥ siyāma  
+अयं꣡ कवि꣡र् अ꣡कविषु प्र꣡चेता  
+म꣡र्तेषु अग्नि꣡र् अम्ŕ̥तो नि꣡ धायि  
+स꣡ मा꣡ नो अ꣡त्र जुहुरः सहस्वः  
+स꣡दा तुवे꣡ सुम꣡नसः सियाम  

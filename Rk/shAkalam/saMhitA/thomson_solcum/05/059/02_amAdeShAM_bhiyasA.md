@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ámād eṣām bhiyásā bhū́mir ejati  
-nā́ür ná pūrṇā́ kṣarati vyáthir yatī́  
-dūredŕ̥śo yé citáyanta émabhir  
-antár mahé vidáthe yetire náraḥ  
+अ꣡माद् एषाम् भिय꣡सा भू꣡मिर् एजति  
+ना꣡üर् न꣡ पूर्णा꣡ क्षरति व्य꣡थिर् यती꣡  
+दूरेद्ŕ̥शो ये꣡ चित꣡यन्त ए꣡मभिर्  
+अन्त꣡र् महे꣡ विद꣡थे येतिरे न꣡रः  

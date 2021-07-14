@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-imé ta indra té vayám puruṣṭuta  
-yé tvārábhya cárāmasi prabhūvaso  
-nahí tvád anyó girvaṇo gíraḥ sághat  
-kṣoṇī́r iva práti no harya tád vácaḥ  
+इमे꣡ त इन्द्र ते꣡ वय꣡म् पुरुष्टुत  
+ये꣡ त्वार꣡भ्य च꣡रामसि प्रभूवसो  
+नहि꣡ त्व꣡द् अन्यो꣡ गिर्वणो गि꣡रः स꣡घत्  
+क्षोणी꣡र् इव प्र꣡ति नो हर्य त꣡द् व꣡चः  

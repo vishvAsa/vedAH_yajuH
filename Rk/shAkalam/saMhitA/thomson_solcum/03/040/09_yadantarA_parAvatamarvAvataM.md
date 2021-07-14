@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-yád antarā́ parāvátam  
-arvāvátaṃ ca hūyáse  
-índrehá táta ā́ gahi  
+य꣡द् अन्तरा꣡ पराव꣡तम्  
+अर्वाव꣡तं च हूय꣡से  
+इ꣡न्द्रेह꣡ त꣡त आ꣡ गहि  

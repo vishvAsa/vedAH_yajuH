@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-agníṃ yantúram aptúram  
-r̥tásya yóge vanúṣaḥ  
-víprā vā́jaiḥ sám indhate  
+अग्निं꣡ यन्तु꣡रम् अप्तु꣡रम्  
+ऋत꣡स्य यो꣡गे वनु꣡षः  
+वि꣡प्रा वा꣡जैः स꣡म् इन्धते  

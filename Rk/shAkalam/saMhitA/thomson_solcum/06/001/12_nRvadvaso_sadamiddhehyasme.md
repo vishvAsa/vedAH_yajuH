@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-nr̥vád vaso sádam íd dhehi asmé  
-bhū́ri tokā́ya tánayāya paśváḥ  
-pūrvī́r íṣo br̥hatī́r āréaghā  
-asmé bhadrā́ sauśravasā́ni santu  
+नृव꣡द् वसो स꣡दम् इ꣡द् धेहि अस्मे꣡  
+भू꣡रि तोका꣡य त꣡नयाय पश्वः꣡  
+पूर्वी꣡र् इ꣡षो बृहती꣡र् आरे꣡अघा  
+अस्मे꣡ भद्रा꣡ सौश्रवसा꣡नि सन्तु  

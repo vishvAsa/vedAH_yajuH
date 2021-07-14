@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvā́m agne áṅgiraso gúhā hitám  
-ánv avindañ chiśriyāṇáṃ váne-vane  
-sá jāyase mathyámānaḥ sáho mahát  
-tuvā́m āhuḥ sáhasas putrám aṅgiraḥ  
+तुवा꣡म् अग्ने अ꣡ङ्गिरसो गु꣡हा हित꣡म्  
+अ꣡न्व् अविन्दञ् छिश्रियाणं꣡ व꣡ने-वने  
+स꣡ जायसे मथ्य꣡मानः स꣡हो मह꣡त्  
+तुवा꣡म् आहुः स꣡हसस् पुत्र꣡म् अङ्गिरः  

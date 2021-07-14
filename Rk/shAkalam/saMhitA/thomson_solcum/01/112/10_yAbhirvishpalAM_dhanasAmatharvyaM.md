@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yā́bhir viśpálāṃ dhanasā́m atharvíyaṃ  
-sahásramīḷha · ājā́v ájinvatam  
-yā́bhir váśam aśviyám preṇím ā́vataṃ  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिर् विश्प꣡लां धनसा꣡म् अथर्वि꣡यं  
+सह꣡स्रमीऌह · आजा꣡व् अ꣡जिन्वतम्  
+या꣡भिर् व꣡शम् अश्विय꣡म् प्रेणि꣡म् आ꣡वतं  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

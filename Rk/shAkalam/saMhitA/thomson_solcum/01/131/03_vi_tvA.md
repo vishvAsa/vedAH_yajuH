@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-ví tvā tatasre mithunā́ avasyávo  
-vrajásya sātā́ gáviyasya niḥsŕ̥jaḥ  
-sákṣanta indra niḥsŕ̥jaḥ  
-yád gavyántā duvā́ jánā  
-súvar yántā samū́hasi  
-āvíṣ kárikrad vŕ̥ṣaṇaṃ sacābhúvaṃ  
-vájram indra sacābhúvam  
+वि꣡ त्वा ततस्रे मिथुना꣡ अवस्य꣡वो  
+व्रज꣡स्य साता꣡ ग꣡वियस्य निःस्ŕ̥जः  
+स꣡क्षन्त इन्द्र निःस्ŕ̥जः  
+य꣡द् गव्य꣡न्ता दुवा꣡ ज꣡ना  
+सु꣡वर् य꣡न्ता समू꣡हसि  
+आवि꣡ष् क꣡रिक्रद् व्ŕ̥षणं सचाभु꣡वं  
+व꣡ज्रम् इन्द्र सचाभु꣡वम्  

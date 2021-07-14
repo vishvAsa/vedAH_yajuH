@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-viśvávedaso rayíbhiḥ sámokasaḥ  
-sámmiślāsas táviṣībhir virapśínaḥ  
-ástāra íṣuṃ dadhire gábhastiyor  
-anantáśuṣmā vŕ̥ṣakhādayo náraḥ  
+विश्व꣡वेदसो रयि꣡भिः स꣡मोकसः  
+स꣡म्मिश्लासस् त꣡विषीभिर् विरप्शि꣡नः  
+अ꣡स्तार इ꣡षुं दधिरे ग꣡भस्तियोर्  
+अनन्त꣡शुष्मा व्ŕ̥षखादयो न꣡रः  

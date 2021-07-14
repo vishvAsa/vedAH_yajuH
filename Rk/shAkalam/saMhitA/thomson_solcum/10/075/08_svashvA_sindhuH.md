@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-suáśvā síndhuḥ suráthā suvā́sā  
-hiraṇyáyī súkr̥tā vājínīvatī  
-ū́rṇāvatī yuvatíḥ sīlámāvatī  
-utā́dhi vaste subhágā madhuvŕ̥dham  
+सुअ꣡श्वा सि꣡न्धुः सुर꣡था सुवा꣡सा  
+हिरण्य꣡यी सु꣡कृता वाजि꣡नीवती  
+ऊ꣡र्णावती युवतिः꣡ सील꣡मावती  
+उता꣡धि वस्ते सुभ꣡गा मधुव्ŕ̥धम्  

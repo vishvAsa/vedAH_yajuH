@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-utá no bráhmann aviṣa  
-ukthéṣu devahū́tamaḥ  
-śáṃ naḥ śocā marúdvr̥dho  
-ágne sahasrasā́tamaḥ  
+उत꣡ नो ब्र꣡ह्मन्न् अविष  
+उक्थे꣡षु देवहू꣡तमः  
+शं꣡ नः शोचा मरु꣡द्वृधो  
+अ꣡ग्ने सहस्रसा꣡तमः  

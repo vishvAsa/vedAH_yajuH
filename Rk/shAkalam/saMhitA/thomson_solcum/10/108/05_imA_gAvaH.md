@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-imā́ gā́vaḥ sarame yā́ aĩ́chaḥ  
-pári divó 'ntān° subhage pátantī  
-kás ta enā áva sr̥jād áyudhvī  
-utā́smā́kam ā́yudhā santi tigmā́  
+इमा꣡ गा꣡वः सरमे या꣡ अĩ꣡छः  
+प꣡रि दिवो꣡ ऽन्तान्° सुभगे प꣡तन्ती  
+क꣡स् त एना अ꣡व सृजाद् अ꣡युध्वी  
+उता꣡स्मा꣡कम् आ꣡युधा सन्ति तिग्मा꣡  

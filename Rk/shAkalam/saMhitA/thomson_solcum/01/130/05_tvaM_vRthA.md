@@ -2,10 +2,10 @@
 title = "005"
 
 +++
-tuváṃ vŕ̥thā nadíya indra sártave  
-áchā samudrám asr̥jo ráthām̐ iva  
-vājayató ráthām̐ iva  
-itá ūtī́r ayuñjata  
-samānám ártham ákṣitam  
-dhenū́r iva mánave viśvádohaso  
-jánāya viśvádohasaḥ  
+तुवं꣡ व्ŕ̥था नदि꣡य इन्द्र स꣡र्तवे  
+अ꣡छा समुद्र꣡म् असृजो र꣡थाँ इव  
+वाजयतो꣡ र꣡थाँ इव  
+इत꣡ ऊती꣡र् अयुञ्जत  
+समान꣡म् अ꣡र्थम् अ꣡क्षितम्  
+धेनू꣡र् इव म꣡नवे विश्व꣡दोहसो  
+ज꣡नाय विश्व꣡दोहसः  

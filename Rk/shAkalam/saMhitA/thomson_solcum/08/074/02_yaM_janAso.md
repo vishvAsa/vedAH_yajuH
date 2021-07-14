@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yáṃ jánāso havíṣmanto  
-mitráṃ ná sarpírāsutim  
-praśáṃsanti práśastibhiḥ  
+यं꣡ ज꣡नासो हवि꣡ष्मन्तो  
+मित्रं꣡ न꣡ सर्पि꣡रासुतिम्  
+प्रशं꣡सन्ति प्र꣡शस्तिभिः  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ā́śrutkarṇa śrudhī́ hávaṃ  
-nū́ cid dadhiṣva me gíraḥ  
-índra stómam imám máma  
-kr̥ṣvā́ yujáś cid ántaram  
+आ꣡श्रुत्कर्ण श्रुधी꣡ ह꣡वं  
+नू꣡ चिद् दधिष्व मे गि꣡रः  
+इ꣡न्द्र स्तो꣡मम् इम꣡म् म꣡म  
+कृष्वा꣡ युज꣡श् चिद् अ꣡न्तरम्  

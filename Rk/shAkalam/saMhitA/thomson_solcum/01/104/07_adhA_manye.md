@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ádhā manye śrát te asmā adhāyi  
-vŕ̥ṣā codasva mahaté dhánāya  
-mā́ no ákr̥te puruhūta yónāv  
-índra kṣúdhyadbhyo váya āsutíṃ dāḥ  
+अ꣡धा मन्ये श्र꣡त् ते अस्मा अधायि  
+व्ŕ̥षा चोदस्व महते꣡ ध꣡नाय  
+मा꣡ नो अ꣡कृते पुरुहूत यो꣡नाव्  
+इ꣡न्द्र क्षु꣡ध्यद्भ्यो व꣡य आसुतिं꣡ दाः  

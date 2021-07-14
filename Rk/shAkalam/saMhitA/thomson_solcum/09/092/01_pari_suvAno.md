@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-pári svānó° hárir aṃśúḥ pavítre  
-rátho ná sarji sanáye hiyānáḥ  
-ā́pac chlókam indriyám pūyámānaḥ  
-práti devā́m̐ ajuṣata práyobhiḥ  
+प꣡रि स्वानो꣡° ह꣡रिर् अंशुः꣡ पवि꣡त्रे  
+र꣡थो न꣡ सर्जि सन꣡ये हियानः꣡  
+आ꣡पच् छ्लो꣡कम् इन्द्रिय꣡म् पूय꣡मानः  
+प्र꣡ति देवाँ꣡ अजुषत प्र꣡योभिः  

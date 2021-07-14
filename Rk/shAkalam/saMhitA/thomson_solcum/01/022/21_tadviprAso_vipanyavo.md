@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-tád víprāso vipanyávo  
-jāgr̥vā́ṃsaḥ sám indhate  
-víṣṇor yát paramám padám  
+त꣡द् वि꣡प्रासो विपन्य꣡वो  
+जागृवां꣡सः स꣡म् इन्धते  
+वि꣡ष्णोर् य꣡त् परम꣡म् पद꣡म्  

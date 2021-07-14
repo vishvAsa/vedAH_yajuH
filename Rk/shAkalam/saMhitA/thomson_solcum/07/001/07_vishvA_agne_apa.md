@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-víśvā agne ápa daha árātīr  
-yébhis tápobhir ádaho járūtham  
-prá nisvaráṃ cātayasva ámīvām  
+वि꣡श्वा अग्ने अ꣡प दह अ꣡रातीर्  
+ये꣡भिस् त꣡पोभिर् अ꣡दहो ज꣡रूथम्  
+प्र꣡ निस्वरं꣡ चातयस्व अ꣡मीवाम्  

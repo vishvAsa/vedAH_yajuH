@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tuváṃ no agne pitarór+ upástha ā́  
-devó devéṣu anavadya jā́gr̥viḥ  
-tanūkŕ̥d bodhi prámatiś ca kāráve  
-tuváṃ kalyāṇa vásu víśvam ópiṣe  
+तुवं꣡ नो अग्ने पितरो꣡र्+ उप꣡स्थ आ꣡  
+देवो꣡ देवे꣡षु अनवद्य जा꣡गृविः  
+तनूक्ŕ̥द् बोधि प्र꣡मतिश् च कार꣡वे  
+तुवं꣡ कल्याण व꣡सु वि꣡श्वम् ओ꣡पिषे  

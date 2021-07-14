@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-yám aśvī́ nítyam upayā́ti yajñám  
-prajā́vantaṃ suapatyáṃ kṣáyaṃ naḥ  
-svájanmanā śéṣasā vāvr̥dhānám  
+य꣡म् अश्वी꣡ नि꣡त्यम् उपया꣡ति यज्ञ꣡म्  
+प्रजा꣡वन्तं सुअपत्यं꣡ क्ष꣡यं नः  
+स्व꣡जन्मना शे꣡षसा वावृधान꣡म्  

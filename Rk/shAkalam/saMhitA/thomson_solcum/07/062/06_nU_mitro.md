@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-nṹ mitró váruṇo aryamā́ nas  
-tmáne tokā́ya várivo dadhantu  
-sugā́ no víśvā supáthāni santu  
-yūyám pāta suastíbhiḥ sádā naḥ  
+न्ũ꣡ मित्रो꣡ व꣡रुणो अर्यमा꣡ नस्  
+त्म꣡ने तोका꣡य व꣡रिवो दधन्तु  
+सुगा꣡ नो वि꣡श्वा सुप꣡थानि सन्तु  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

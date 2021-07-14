@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ágne juṣásva práti harya tád váco  
-mándra svádhāva ŕ̥tajāta súkrato  
-yó viśvátaḥ pratiáṅṅ ási darśató  
-raṇváḥ sáṃdr̥ṣṭau pitumā́m̐ iva kṣáyaḥ  
+अ꣡ग्ने जुष꣡स्व प्र꣡ति हर्य त꣡द् व꣡चो  
+म꣡न्द्र स्व꣡धाव ŕ̥तजात सु꣡क्रतो  
+यो꣡ विश्व꣡तः प्रतिअ꣡ङ्ङ् अ꣡सि दर्शतो꣡  
+रण्वः꣡ सं꣡दृष्टौ पितुमाँ꣡ इव क्ष꣡यः  

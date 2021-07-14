@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-áśvinā mádhumattamam  
-pātáṃ sómam r̥tāvr̥dhā  
-áthādyá dasrā vásu bíbhratā ráthe  
-dāśvā́ṃsam úpa gachatam  
+अ꣡श्विना म꣡धुमत्तमम्  
+पातं꣡ सो꣡मम् ऋतावृधा  
+अ꣡थाद्य꣡ दस्रा व꣡सु बि꣡भ्रता र꣡थे  
+दाश्वां꣡सम् उ꣡प गछतम्  

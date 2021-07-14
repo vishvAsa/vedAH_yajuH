@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-yác chakrā́si parāváti  
-yád arvāváti vr̥trahan  
-yád vā samudré ándhaso 'vitéd asi  
+य꣡च् छक्रा꣡सि पराव꣡ति  
+य꣡द् अर्वाव꣡ति वृत्रहन्  
+य꣡द् वा समुद्रे꣡ अ꣡न्धसो ऽविते꣡द् असि  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yá ī́śire bhúvanasya prácetaso  
-víśvasya sthātúr jágataś ca mántavaḥ  
-té naḥ kr̥tā́d ákr̥tād énasas pári  
-adyā́ devāsaḥ pipr̥tā suastáye  
+य꣡ ई꣡शिरे भु꣡वनस्य प्र꣡चेतसो  
+वि꣡श्वस्य स्थातु꣡र् ज꣡गतश् च म꣡न्तवः  
+ते꣡ नः कृता꣡द् अ꣡कृताद् ए꣡नसस् प꣡रि  
+अद्या꣡ देवासः पिपृता सुअस्त꣡ये  

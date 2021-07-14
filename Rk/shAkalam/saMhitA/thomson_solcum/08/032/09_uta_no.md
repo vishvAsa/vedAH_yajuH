@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-utá no gómatas kr̥dhi  
-híraṇyavato aśvínaḥ  
-íḷābhiḥ sáṃ rabhemahi  
+उत꣡ नो गो꣡मतस् कृधि  
+हि꣡रण्यवतो अश्वि꣡नः  
+इ꣡ऌआभिः सं꣡ रभेमहि  

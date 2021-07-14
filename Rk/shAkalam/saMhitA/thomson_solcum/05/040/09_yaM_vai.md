@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yáṃ vaí sū́ryaṃ súvarbhānus  
-támasā́vidhyad āsuráḥ  
-átrayas tám ánv avindan  
-nahí anyé áśaknuvan  
+यं꣡ वइ꣡ सू꣡र्यं सु꣡वर्भानुस्  
+त꣡मसा꣡विध्यद् आसुरः꣡  
+अ꣡त्रयस् त꣡म् अ꣡न्व् अविन्दन्  
+नहि꣡ अन्ये꣡ अ꣡शक्नुवन्  

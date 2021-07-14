@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-etā́ni soma pávamāno asmayúḥ  
-satyā́ni kr̥ṇván dráviṇāni arṣasi  
-jahí śátrum antiké dūraké ca yá  
-urvī́ṃ gávyūtim ábhayaṃ ca nas kr̥dhi  
+एता꣡नि सोम प꣡वमानो अस्मयुः꣡  
+सत्या꣡नि कृण्व꣡न् द्र꣡विणानि अर्षसि  
+जहि꣡ श꣡त्रुम् अन्तिके꣡ दूरके꣡ च य꣡  
+उर्वीं꣡ ग꣡व्यूतिम् अ꣡भयं च नस् कृधि  

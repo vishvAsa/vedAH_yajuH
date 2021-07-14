@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-hinvānó vā́cam iṣyasi  
-pávamāna vídharmaṇi  
-ákrān devó ná sū́riyaḥ  
+हिन्वानो꣡ वा꣡चम् इष्यसि  
+प꣡वमान वि꣡धर्मणि  
+अ꣡क्रान् देवो꣡ न꣡ सू꣡रियः  

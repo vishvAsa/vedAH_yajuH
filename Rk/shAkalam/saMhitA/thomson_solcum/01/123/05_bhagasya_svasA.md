@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-bhágasya svásā váruṇasya jāmír  
-úṣaḥ sūnr̥te prathamā́ jarasva  
-paścā́ sá daghyā yó aghásya dhātā́  
-jáyema táṃ dákṣiṇayā ráthena  
+भ꣡गस्य स्व꣡सा व꣡रुणस्य जामि꣡र्  
+उ꣡षः सूनृते प्रथमा꣡ जरस्व  
+पश्चा꣡ स꣡ दघ्या यो꣡ अघ꣡स्य धाता꣡  
+ज꣡येम तं꣡ द꣡क्षिणया र꣡थेन  

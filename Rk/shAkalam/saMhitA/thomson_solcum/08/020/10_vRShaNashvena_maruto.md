@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-vr̥ṣaṇaśvéna maruto vŕ̥ṣapsunā  
-ráthena vŕ̥ṣanābhinā  
-ā́ śyenā́so ná pakṣíṇo vŕ̥thā naro  
-havyā́ no vītáye gata  
+वृषणश्वे꣡न मरुतो व्ŕ̥षप्सुना  
+र꣡थेन व्ŕ̥षनाभिना  
+आ꣡ श्येना꣡सो न꣡ पक्षि꣡णो व्ŕ̥था नरो  
+हव्या꣡ नो वीत꣡ये गत  

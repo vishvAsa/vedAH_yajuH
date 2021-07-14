@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-távedáṃ víśvam abhítaḥ paśavyàṃ  
-yát páśyasi cákṣasā sū́riyasya  
-gávām asi gópatir éka indra  
-bhakṣīmáhi te práyatasya vásvaḥ  
+त꣡वेदं꣡ वि꣡श्वम् अभि꣡तः पशव्यं᳡  
+य꣡त् प꣡श्यसि च꣡क्षसा सू꣡रियस्य  
+ग꣡वाम् असि गो꣡पतिर् ए꣡क इन्द्र  
+भक्षीम꣡हि ते प्र꣡यतस्य व꣡स्वः  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yá ugráḥ sánn ániṣṭr̥ta  
-sthiró ráṇāya sáṃskr̥taḥ  
-yádi stotúr maghávā śr̥ṇávad dhávaṃ  
-néndro yoṣati ā́ gamat  
+य꣡ उग्रः꣡ स꣡न्न् अ꣡निष्टृत  
+स्थिरो꣡ र꣡णाय सं꣡स्कृतः  
+य꣡दि स्तोतु꣡र् मघ꣡वा शृण꣡वद् ध꣡वं  
+ने꣡न्द्रो योषति आ꣡ गमत्  

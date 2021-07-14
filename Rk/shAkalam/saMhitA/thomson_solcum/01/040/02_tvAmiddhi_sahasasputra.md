@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuvā́m íd dhí sahasas putra mártiya  
-upabrūté dháne hité  
-suvī́riyam maruta ā́ suáśviyaṃ  
-dádhīta yó va ācaké  
+तुवा꣡म् इ꣡द् धि꣡ सहसस् पुत्र म꣡र्तिय  
+उपब्रूते꣡ ध꣡ने हिते꣡  
+सुवी꣡रियम् मरुत आ꣡ सुअ꣡श्वियं  
+द꣡धीत यो꣡ व आचके꣡  

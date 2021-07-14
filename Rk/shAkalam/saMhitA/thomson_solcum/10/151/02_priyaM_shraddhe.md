@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-priyáṃ śraddhe dádataḥ  
-priyáṃ śraddhe dídāsataḥ  
-priyám bhojéṣu yájvasu  
-idám ma uditáṃ kr̥dhi  
+प्रियं꣡ श्रद्धे द꣡दतः  
+प्रियं꣡ श्रद्धे दि꣡दासतः  
+प्रिय꣡म् भोजे꣡षु य꣡ज्वसु  
+इद꣡म् म उदितं꣡ कृधि  

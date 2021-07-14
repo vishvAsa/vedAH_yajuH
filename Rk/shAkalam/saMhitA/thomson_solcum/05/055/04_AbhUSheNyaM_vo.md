@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ābhūṣéṇyaṃ vo maruto mahitvanáṃ  
-didr̥kṣéṇyaṃ sū́riyasyeva cákṣaṇam  
-utó asmā́m̐ amr̥tatvé dadhātana  
-śúbhaṃ yātā́m ánu ráthā avr̥tsata  
+आभूषे꣡ण्यं वो मरुतो महित्वनं꣡  
+दिदृक्षे꣡ण्यं सू꣡रियस्येव च꣡क्षणम्  
+उतो꣡ अस्माँ꣡ अमृतत्वे꣡ दधातन  
+शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत  

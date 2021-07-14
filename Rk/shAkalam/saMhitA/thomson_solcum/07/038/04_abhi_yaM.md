@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-abhí yáṃ devī́ áditir gr̥ṇā́ti  
-saváṃ devásya savitúr juṣāṇā́  
-abhí samrā́jo váruṇo gr̥ṇanti  
-abhí mitrā́so aryamā́ sajóṣāḥ  
+अभि꣡ यं꣡ देवी꣡ अ꣡दितिर् गृणा꣡ति  
+सवं꣡ देव꣡स्य सवितु꣡र् जुषाणा꣡  
+अभि꣡ सम्रा꣡जो व꣡रुणो गृणन्ति  
+अभि꣡ मित्रा꣡सो अर्यमा꣡ सजो꣡षाः  

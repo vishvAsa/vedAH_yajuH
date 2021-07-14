@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-tuváṃ víśvasya dhanadā́ asi śrutó  
-yá īm bhávanti ājáyaḥ  
-távāyáṃ víśvaḥ puruhūta pā́rthivo  
-avasyúr nā́ma bhikṣate  
+तुवं꣡ वि꣡श्वस्य धनदा꣡ असि श्रुतो꣡  
+य꣡ ईम् भ꣡वन्ति आज꣡यः  
+त꣡वायं꣡ वि꣡श्वः पुरुहूत पा꣡र्थिवो  
+अवस्यु꣡र् ना꣡म भिक्षते  

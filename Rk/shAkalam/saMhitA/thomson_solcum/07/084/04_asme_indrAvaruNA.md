@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-asmé indrāvaruṇā viśvávāraṃ  
-rayíṃ dhattaṃ vásumantam purukṣúm  
-prá yá ādityó ánr̥tā minā́ti  
-ámitā śū́ro dayate vásūni  
+अस्मे꣡ इन्द्रावरुणा विश्व꣡वारं  
+रयिं꣡ धत्तं व꣡सुमन्तम् पुरुक्षु꣡म्  
+प्र꣡ य꣡ आदित्यो꣡ अ꣡नृता मिना꣡ति  
+अ꣡मिता शू꣡रो दयते व꣡सूनि  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ní sárvasena iṣudhī́m̐r asakta  
-sám aryó gā́ ajati yásya váṣṭi  
-coṣkūyámāṇa indra bhū́ri vāmám  
-mā́ paṇír bhūr asmád ádhi pravr̥ddha  
+नि꣡ स꣡र्वसेन इषुधीँ꣡र् असक्त  
+स꣡म् अर्यो꣡ गा꣡ अजति य꣡स्य व꣡ष्टि  
+चोष्कूय꣡माण इन्द्र भू꣡रि वाम꣡म्  
+मा꣡ पणि꣡र् भूर् अस्म꣡द् अ꣡धि प्रवृद्ध  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-nū́ ca purā́ ca sádanaṃ rayīṇā́ṃ  
-jātásya ca jā́yamānasya ca kṣā́m  
-satáś ca gopā́m bhávataś ca bhū́rer  
-devā́ agníṃ dhārayan draviṇodā́m  
+नू꣡ च पुरा꣡ च स꣡दनं रयीणां꣡  
+जात꣡स्य च जा꣡यमानस्य च क्षा꣡म्  
+सत꣡श् च गोपा꣡म् भ꣡वतश् च भू꣡रेर्  
+देवा꣡ अग्निं꣡ धारयन् द्रविणोदा꣡म्  

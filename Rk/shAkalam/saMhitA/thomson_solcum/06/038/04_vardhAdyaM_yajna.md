@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-várdhād yáṃ yajñá utá sóma índraṃ  
-várdhād bráhma gíra ukthā́ ca mánma  
-várdhā́hainam uṣáso yā́man aktór  
-várdhān mā́sāḥ śarádo dyā́va índram  
+व꣡र्धाद् यं꣡ यज्ञ꣡ उत꣡ सो꣡म इ꣡न्द्रं  
+व꣡र्धाद् ब्र꣡ह्म गि꣡र उक्था꣡ च म꣡न्म  
+व꣡र्धा꣡हैनम् उष꣡सो या꣡मन् अक्तो꣡र्  
+व꣡र्धान् मा꣡साः शर꣡दो द्या꣡व इ꣡न्द्रम्  

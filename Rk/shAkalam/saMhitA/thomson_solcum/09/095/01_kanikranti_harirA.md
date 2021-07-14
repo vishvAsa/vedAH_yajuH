@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kánikranti hárir ā́ sr̥jyámānaḥ  
-sī́dan vánasya jaṭháre punānáḥ  
-nŕ̥bhir yatáḥ kr̥ṇute nirṇíjaṃ gā́  
-áto matī́r janayata svadhā́bhiḥ  
+क꣡निक्रन्ति ह꣡रिर् आ꣡ सृज्य꣡मानः  
+सी꣡दन् व꣡नस्य जठ꣡रे पुनानः꣡  
+न्ŕ̥भिर् यतः꣡ कृणुते निर्णि꣡जं गा꣡  
+अ꣡तो मती꣡र् जनयत स्वधा꣡भिः  

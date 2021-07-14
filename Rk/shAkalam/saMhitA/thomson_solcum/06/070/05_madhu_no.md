@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mádhu no dyā́vāpr̥thivī́ mimikṣatām  
-madhuścútā madhudúghe mádhuvrate  
-dádhāne yajñáṃ dráviṇaṃ ca devátā  
-máhi śrávo vā́jam asmé suvī́riyam  
+म꣡धु नो द्या꣡वापृथिवी꣡ मिमिक्षताम्  
+मधुश्चु꣡ता मधुदु꣡घे म꣡धुव्रते  
+द꣡धाने यज्ञं꣡ द्र꣡विणं च देव꣡ता  
+म꣡हि श्र꣡वो वा꣡जम् अस्मे꣡ सुवी꣡रियम्  

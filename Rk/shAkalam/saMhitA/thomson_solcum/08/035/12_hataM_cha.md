@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-hatáṃ ca śátrūn yátataṃ ca mitríṇaḥ  
-prajā́ṃ ca dhattáṃ dráviṇaṃ ca dhattam  
-sajóṣasā uṣásā sū́riyeṇa ca  
-ū́rjaṃ no dhattam aśvinā  
+हतं꣡ च श꣡त्रून् य꣡ततं च मित्रि꣡णः  
+प्रजां꣡ च धत्तं꣡ द्र꣡विणं च धत्तम्  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+ऊ꣡र्जं नो धत्तम् अश्विना  

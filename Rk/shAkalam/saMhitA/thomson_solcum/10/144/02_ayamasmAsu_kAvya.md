@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ayám asmā́su kā́viya  
-r̥bhúr vájro dã́svate  
-ayám bibharti ūrdhvákr̥śanam mádam  
-r̥bhúr ná kŕ̥tviyam mádam  
+अय꣡म् अस्मा꣡सु का꣡विय  
+ऋभु꣡र् व꣡ज्रो द्ã꣡स्वते  
+अय꣡म् बिभर्ति ऊर्ध्व꣡कृशनम् म꣡दम्  
+ऋभु꣡र् न꣡ क्ŕ̥त्वियम् म꣡दम्  

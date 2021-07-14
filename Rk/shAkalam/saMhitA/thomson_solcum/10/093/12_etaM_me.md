@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-etám me stómaṃ tanā́ ná sū́rye  
-dyutádyāmānaṃ vāvr̥dhanta nr̥̄ṇã́m+  
-saṃvánanaṃ ná áśviyaṃ  
-táṣṭeva ánapacyutam  
+एत꣡म् मे स्तो꣡मं तना꣡ न꣡ सू꣡र्ये  
+द्युत꣡द्यामानं वावृधन्त नॄण्ã꣡म्+  
+संव꣡ननं न꣡ अ꣡श्वियं  
+त꣡ष्टेव अ꣡नपच्युतम्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-eṣá prá pūrvī́r áva tásya camríṣo  
-átyo ná yóṣām úd ayaṃsta bhurváṇiḥ  
-dákṣam mahé pāyayate hiraṇyáyaṃ  
-rátham āvŕ̥tyā háriyogam ŕ̥bhvasam  
+एष꣡ प्र꣡ पूर्वी꣡र् अ꣡व त꣡स्य चम्रि꣡षो  
+अ꣡त्यो न꣡ यो꣡षाम् उ꣡द् अयंस्त भुर्व꣡णिः  
+द꣡क्षम् महे꣡ पाययते हिरण्य꣡यं  
+र꣡थम् आव्ŕ̥त्या ह꣡रियोगम् ŕ̥भ्वसम्  

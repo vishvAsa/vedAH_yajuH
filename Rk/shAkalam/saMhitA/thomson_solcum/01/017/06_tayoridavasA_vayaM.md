@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-táyor íd ávasā vayáṃ  
-sanéma ní ca dhīmahi  
-siyā́d utá prarécanam  
+त꣡योर् इ꣡द् अ꣡वसा वयं꣡  
+सने꣡म नि꣡ च धीमहि  
+सिया꣡द् उत꣡ प्ररे꣡चनम्  

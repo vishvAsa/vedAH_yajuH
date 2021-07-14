@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-váhanti sīm aruṇā́so rúśanto  
-gā́vaḥ subhágām urviyā́ prathānā́m  
-ápejate śū́ro ásteva śátrūn  
-bā́dhate támo ajiró ná vóḷhā  
+व꣡हन्ति सीम् अरुणा꣡सो रु꣡शन्तो  
+गा꣡वः सुभ꣡गाम् उर्विया꣡ प्रथाना꣡म्  
+अ꣡पेजते शू꣡रो अ꣡स्तेव श꣡त्रून्  
+बा꣡धते त꣡मो अजिरो꣡ न꣡ वो꣡ऌहा  

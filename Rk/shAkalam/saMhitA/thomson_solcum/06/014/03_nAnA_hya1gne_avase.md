@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-nā́nā hí agne ávase  
-spárdhante rā́yo ariyáḥ  
-tū́rvanto dásyum āyávo  
-vrataíḥ sī́kṣanto avratám  
+ना꣡ना हि꣡ अग्ने अ꣡वसे  
+स्प꣡र्धन्ते रा꣡यो अरियः꣡  
+तू꣡र्वन्तो द꣡स्युम् आय꣡वो  
+व्रतइः꣡ सी꣡क्षन्तो अव्रत꣡म्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yá éka íc cyāváyati prá bhū́mā  
-rā́jā kr̥ṣṭīnā́m puruhūtá índraḥ  
-satyám enam ánu víśve madanti  
-rātíṃ devásya gr̥ṇató maghónaḥ  
+य꣡ ए꣡क इ꣡च् च्याव꣡यति प्र꣡ भू꣡मा  
+रा꣡जा कृष्टीना꣡म् पुरुहूत꣡ इ꣡न्द्रः  
+सत्य꣡म् एनम् अ꣡नु वि꣡श्वे मदन्ति  
+रातिं꣡ देव꣡स्य गृणतो꣡ मघो꣡नः  

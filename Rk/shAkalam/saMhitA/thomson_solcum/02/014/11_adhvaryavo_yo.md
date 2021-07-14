@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ádhvaryavo yó diviyásya vásvo  
-yáḥ pā́rthivasya kṣámiyasya rā́jā  
-tám ū́rdaraṃ ná pr̥ṇatā yávena  
-índraṃ sómebhis tád ápo vo astu  
+अ꣡ध्वर्यवो यो꣡ दिविय꣡स्य व꣡स्वो  
+यः꣡ पा꣡र्थिवस्य क्ष꣡मियस्य रा꣡जा  
+त꣡म् ऊ꣡र्दरं न꣡ पृणता य꣡वेन  
+इ꣡न्द्रं सो꣡मेभिस् त꣡द् अ꣡पो वो अस्तु  

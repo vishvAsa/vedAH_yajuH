@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-jánāso agníṃ dadhire sahovŕ̥dhaṃ  
-havíṣmanto vidhema te  
-sá tváṃ no adyá sumánā ihā́vitā́  
-bhávā vā́jeṣu santiya  
+ज꣡नासो अग्निं꣡ दधिरे सहोव्ŕ̥धं  
+हवि꣡ष्मन्तो विधेम ते  
+स꣡ त्वं꣡ नो अद्य꣡ सुम꣡ना इहा꣡विता꣡  
+भ꣡वा वा꣡जेषु सन्तिय  

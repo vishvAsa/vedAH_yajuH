@@ -2,8 +2,8 @@
 title = "006"
 
 +++
-pró tyé agnáyo agníṣu  
-víśvam puṣyanti vā́riyam  
-té hinvire tá invire  
-tá iṣaṇyanti ānuṣág  
-íṣaṃ stotŕ̥bhya ā́ bhara  
+प्रो꣡ त्ये꣡ अग्न꣡यो अग्नि꣡षु  
+वि꣡श्वम् पुष्यन्ति वा꣡रियम्  
+ते꣡ हिन्विरे त꣡ इन्विरे  
+त꣡ इषण्यन्ति आनुष꣡ग्  
+इ꣡षं स्तोत्ŕ̥भ्य आ꣡ भर  

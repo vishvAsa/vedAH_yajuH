@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śrávo vā́jam íṣam ū́rjaṃ váhantīr  
-ní dāśúṣa uṣaso mártiyāya  
-maghṍnīr vīrávat pátyamānā  
-ávo dhāta vidhaté rátnam adyá  
+श्र꣡वो वा꣡जम् इ꣡षम् ऊ꣡र्जं व꣡हन्तीर्  
+नि꣡ दाशु꣡ष उषसो म꣡र्तियाय  
+मघ्õ꣡नीर् वीर꣡वत् प꣡त्यमाना  
+अ꣡वो धात विधते꣡ र꣡त्नम् अद्य꣡  

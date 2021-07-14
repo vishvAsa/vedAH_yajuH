@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yuváṃ devā krátunā pūrviyéṇa  
-yuktā́ ráthena taviṣáṃ yajatrā  
-ā́gachataṃ nāsatiyā śácībhir  
-idáṃ tr̥tī́yaṃ sávanam pibāthaḥ  
+युवं꣡ देवा क्र꣡तुना पूर्विये꣡ण  
+युक्ता꣡ र꣡थेन तविषं꣡ यजत्रा  
+आ꣡गछतं नासतिया श꣡चीभिर्  
+इदं꣡ तृती꣡यं स꣡वनम् पिबाथः  

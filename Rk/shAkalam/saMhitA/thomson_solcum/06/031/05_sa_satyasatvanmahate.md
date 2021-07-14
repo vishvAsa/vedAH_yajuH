@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá satyasatvan mahaté ráṇāya  
-rátham ā́ tiṣṭha tuvinr̥mṇa bhīmám  
-yāhí prapathinn ávasópa madrík  
-prá ca śruta śrāvaya carṣaṇíbhyaḥ  
+स꣡ सत्यसत्वन् महते꣡ र꣡णाय  
+र꣡थम् आ꣡ तिष्ठ तुविनृम्ण भीम꣡म्  
+याहि꣡ प्रपथिन्न् अ꣡वसो꣡प मद्रि꣡क्  
+प्र꣡ च श्रुत श्रावय चर्षणि꣡भ्यः  

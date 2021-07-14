@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-bhū́ri cakra marutaḥ pítriyāṇi  
-ukthā́ni yā́ vaḥ śasyánte purā́ cit  
-marúdbhir ugráḥ pŕ̥tanāsu sā́ḷhā  
-marúdbhir ít sánitā vā́jam árvā  
+भू꣡रि चक्र मरुतः पि꣡त्रियाणि  
+उक्था꣡नि या꣡ वः शस्य꣡न्ते पुरा꣡ चित्  
+मरु꣡द्भिर् उग्रः꣡ प्ŕ̥तनासु सा꣡ऌहा  
+मरु꣡द्भिर् इ꣡त् स꣡निता वा꣡जम् अ꣡र्वा  

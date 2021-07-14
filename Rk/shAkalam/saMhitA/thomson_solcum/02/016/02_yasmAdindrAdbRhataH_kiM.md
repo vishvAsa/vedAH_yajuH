@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yásmād índrād br̥hatáḥ kíṃ caném r̥té  
-víśvāni asmin sámbhr̥tā́dhi vīríyā  
-jaṭháre sómaṃ tanúvī sáho máho  
-háste vájram bhárati śīrṣáṇi krátum  
+य꣡स्माद् इ꣡न्द्राद् बृहतः꣡ किं꣡ चने꣡म् ऋते꣡  
+वि꣡श्वानि अस्मिन् स꣡म्भृता꣡धि वीरि꣡या  
+जठ꣡रे सो꣡मं तनु꣡वी स꣡हो म꣡हो  
+ह꣡स्ते व꣡ज्रम् भ꣡रति शीर्ष꣡णि क्र꣡तुम्  

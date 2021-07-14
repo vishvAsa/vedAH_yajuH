@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-suastáye vāyúm úpa bravāmahai  
-sómaṃ suastí bhúvanasya yás pátiḥ  
-bŕ̥haspátiṃ sárvagaṇaṃ suastáye  
-suastáya ādityā́so bhavantu naḥ  
+सुअस्त꣡ये वायु꣡म् उ꣡प ब्रवामहै  
+सो꣡मं सुअस्ति꣡ भु꣡वनस्य य꣡स् प꣡तिः  
+ब्ŕ̥हस्प꣡तिं स꣡र्वगणं सुअस्त꣡ये  
+सुअस्त꣡य आदित्या꣡सो भवन्तु नः  

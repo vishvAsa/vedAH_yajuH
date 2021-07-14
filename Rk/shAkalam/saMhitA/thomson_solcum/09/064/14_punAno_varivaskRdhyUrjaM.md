@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-punānó várivas kr̥dhi  
-ū́rjaṃ jánāya girvaṇaḥ  
-háre sr̥jāná āśíram  
+पुनानो꣡ व꣡रिवस् कृधि  
+ऊ꣡र्जं ज꣡नाय गिर्वणः  
+ह꣡रे सृजान꣡ आशि꣡रम्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-dadhikrā́vṇa iṣá ūrjó mahó yád  
-ámanmahi marútāṃ nā́ma bhadrám  
-suastáye váruṇam mitrám agníṃ  
-hávāmaha índaraṃ+ vájrabāhum  
+दधिक्रा꣡व्ण इष꣡ ऊर्जो꣡ महो꣡ य꣡द्  
+अ꣡मन्महि मरु꣡तां ना꣡म भद्र꣡म्  
+सुअस्त꣡ये व꣡रुणम् मित्र꣡म् अग्निं꣡  
+ह꣡वामह इ꣡न्दरं+ व꣡ज्रबाहुम्  

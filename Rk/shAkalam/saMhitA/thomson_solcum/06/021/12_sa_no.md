@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-sá no bodhi puraetā́ sugéṣu  
-utá durgéṣu pathikŕ̥d vídānaḥ  
-yé áśramāsa urávo váhiṣṭhās  
-tébhir na indra abhí vakṣi vā́jam  
+स꣡ नो बोधि पुरएता꣡ सुगे꣡षु  
+उत꣡ दुर्गे꣡षु पथिक्ŕ̥द् वि꣡दानः  
+ये꣡ अ꣡श्रमास उर꣡वो व꣡हिष्ठास्  
+ते꣡भिर् न इन्द्र अभि꣡ वक्षि वा꣡जम्  

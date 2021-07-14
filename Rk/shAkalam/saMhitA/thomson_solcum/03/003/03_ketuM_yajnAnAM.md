@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ketúṃ yajñā́nāṃ vidáthasya sā́dhanaṃ  
-víprāso agním mahayanta cíttibhiḥ  
-ápāṃsi yásminn ádhi saṃdadhúr gíras  
-tásmin sumnā́ni yájamāna ā́ cake  
+केतुं꣡ यज्ञा꣡नां विद꣡थस्य सा꣡धनं  
+वि꣡प्रासो अग्नि꣡म् महयन्त चि꣡त्तिभिः  
+अ꣡पांसि य꣡स्मिन्न् अ꣡धि संदधु꣡र् गि꣡रस्  
+त꣡स्मिन् सुम्ना꣡नि य꣡जमान आ꣡ चके  

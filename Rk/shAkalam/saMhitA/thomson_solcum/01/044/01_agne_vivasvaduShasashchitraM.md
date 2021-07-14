@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ágne vívasvad uṣásaś  
-citráṃ rā́dho amartiya  
-ā́ dāśúṣe jātavedo vahā tuvám  
-adyā́ devā́m̐ uṣarbúdhaḥ  
+अ꣡ग्ने वि꣡वस्वद् उष꣡सश्  
+चित्रं꣡ रा꣡धो अमर्तिय  
+आ꣡ दाशु꣡षे जातवेदो वहा तुव꣡म्  
+अद्या꣡ देवाँ꣡ उषर्बु꣡धः  

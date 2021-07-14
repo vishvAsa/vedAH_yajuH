@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kó nānāma vácasā somiyā́ya  
-manāyúr vā bhavati vásta usrā́ḥ  
-ká índrasya yújiyaṃ káḥ sakhitváṃ  
-kó bhrātráṃ vaṣṭi kaváye ká ūtī́  
+को꣡ नानाम व꣡चसा सोमिया꣡य  
+मनायु꣡र् वा भवति व꣡स्त उस्राः꣡  
+क꣡ इ꣡न्द्रस्य यु꣡जियं कः꣡ सखित्वं꣡  
+को꣡ भ्रात्रं꣡ वष्टि कव꣡ये क꣡ ऊती꣡  

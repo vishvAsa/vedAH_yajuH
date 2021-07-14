@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-índram páre ávare madhyamā́sa  
-índraṃ yā́nto ávasitāsa índram  
-índraṃ kṣiyánta utá yúdhyamānā  
-índraṃ náro vājayánto havante  
+इ꣡न्द्रम् प꣡रे अ꣡वरे मध्यमा꣡स  
+इ꣡न्द्रं या꣡न्तो अ꣡वसितास इ꣡न्द्रम्  
+इ꣡न्द्रं क्षिय꣡न्त उत꣡ यु꣡ध्यमाना  
+इ꣡न्द्रं न꣡रो वाजय꣡न्तो हवन्ते  

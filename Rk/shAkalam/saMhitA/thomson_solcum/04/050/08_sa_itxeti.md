@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sá ít kṣeti súdhita ókasi své  
-tásmā íḷā pinvate viśvadā́nīm  
-tásmai víśaḥ svayám evā́ namante  
-yásmin brahmā́ rā́jani pū́rva éti  
+स꣡ इ꣡त् क्षेति सु꣡धित ओ꣡कसि स्वे꣡  
+त꣡स्मा इ꣡ऌआ पिन्वते विश्वदा꣡नीम्  
+त꣡स्मै वि꣡शः स्वय꣡म् एवा꣡ नमन्ते  
+य꣡स्मिन् ब्रह्मा꣡ रा꣡जनि पू꣡र्व ए꣡ति  

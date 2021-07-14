@@ -2,10 +2,10 @@
 title = "007"
 
 +++
-tuváṃ tám indra vāvr̥dhānó asmayúr  
-amitrayántaṃ tuvijāta mártiyaṃ  
-vájreṇa śūra mártiyam  
-jahí yó no aghāyáti  
-śr̥ṇuṣvá suśrávastamaḥ  
-riṣṭáṃ ná yā́mann ápa bhūtu durmatír  
-víśvā́pa bhūtu durmatíḥ  
+तुवं꣡ त꣡म् इन्द्र वावृधानो꣡ अस्मयु꣡र्  
+अमित्रय꣡न्तं तुविजात म꣡र्तियं  
+व꣡ज्रेण शूर म꣡र्तियम्  
+जहि꣡ यो꣡ नो अघाय꣡ति  
+शृणुष्व꣡ सुश्र꣡वस्तमः  
+रिष्टं꣡ न꣡ या꣡मन्न् अ꣡प भूतु दुर्मति꣡र्  
+वि꣡श्वा꣡प भूतु दुर्मतिः꣡  

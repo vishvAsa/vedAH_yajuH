@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-vidúṣ te víśvā bhúvanāni tásya  
-tā́ prá bravīṣi váruṇāya vedhaḥ  
-tuváṃ vr̥trā́ṇi śr̥ṇviṣe jaghanvā́n  
-tuváṃ vr̥tā́m̐ ariṇā indra síndhūn  
+विदु꣡ष् ते वि꣡श्वा भु꣡वनानि त꣡स्य  
+ता꣡ प्र꣡ ब्रवीषि व꣡रुणाय वेधः  
+तुवं꣡ वृत्रा꣡णि शृण्विषे जघन्वा꣡न्  
+तुवं꣡ वृताँ꣡ अरिणा इन्द्र सि꣡न्धून्  

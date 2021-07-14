@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-agnír vavne suvī́riyam  
-agníḥ káṇvāya saúbhagam  
-agníḥ prā́van mitrótá médhiyātithim  
-agníḥ sātā́ upastutám  
+अग्नि꣡र् वव्ने सुवी꣡रियम्  
+अग्निः꣡ क꣡ण्वाय सउ꣡भगम्  
+अग्निः꣡ प्रा꣡वन् मित्रो꣡त꣡ मे꣡धियातिथिम्  
+अग्निः꣡ साता꣡ उपस्तुत꣡म्  

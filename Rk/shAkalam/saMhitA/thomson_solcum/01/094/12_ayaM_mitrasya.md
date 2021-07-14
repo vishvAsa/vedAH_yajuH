@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ayám mitrásya váruṇasya dhā́yase  
-avayātā́m marútāṃ héḷo ádbhutaḥ  
-mr̥̄ḷā́+ sú no bhū́tu eṣām mánaḥ púnar  
-ágne sakhyé mā́ riṣāmā vayáṃ táva  
+अय꣡म् मित्र꣡स्य व꣡रुणस्य धा꣡यसे  
+अवयाता꣡म् मरु꣡तां हे꣡ऌओ अ꣡द्भुतः  
+मॄऌआ꣡+ सु꣡ नो भू꣡तु एषाम् म꣡नः पु꣡नर्  
+अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व  

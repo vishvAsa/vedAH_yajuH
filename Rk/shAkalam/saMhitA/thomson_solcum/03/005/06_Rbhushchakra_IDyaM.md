@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-r̥bhúś cakra ī́ḍiyaṃ cā́ru nā́ma  
-víśvāni devó vayúnāni vidvā́n  
-sasásya cárma ghr̥távat padáṃ vés  
-tád íd agnī́ rakṣati áprayuchan  
+ऋभु꣡श् चक्र ई꣡डियं चा꣡रु ना꣡म  
+वि꣡श्वानि देवो꣡ वयु꣡नानि विद्वा꣡न्  
+सस꣡स्य च꣡र्म घृत꣡वत् पदं꣡ वे꣡स्  
+त꣡द् इ꣡द् अग्नी꣡ रक्षति अ꣡प्रयुछन्  

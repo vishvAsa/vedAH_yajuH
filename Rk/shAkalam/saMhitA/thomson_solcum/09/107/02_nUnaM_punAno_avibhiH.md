@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-nūnám punānó ávibhiḥ pári srava  
-ádabdhaḥ surabhíntaraḥ  
-suté cit tvā apsú madāmo ándhasā  
-śrīṇánto góbhir úttaram  
+नून꣡म् पुनानो꣡ अ꣡विभिः प꣡रि स्रव  
+अ꣡दब्धः सुरभि꣡न्तरः  
+सुते꣡ चित् त्वा अप्सु꣡ मदामो अ꣡न्धसा  
+श्रीण꣡न्तो गो꣡भिर् उ꣡त्तरम्  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-nū́ rodasī áhinā budhníyena  
-stuvītá devī ápiyebhir iṣṭaíḥ  
-samudráṃ ná saṃcáraṇe saniṣyávo  
-gharmásvaraso nadíyo ápa vran  
+नू꣡ रोदसी अ꣡हिना बुध्नि꣡येन  
+स्तुवीत꣡ देवी अ꣡पियेभिर् इष्टइः꣡  
+समुद्रं꣡ न꣡ संच꣡रणे सनिष्य꣡वो  
+घर्म꣡स्वरसो नदि꣡यो अ꣡प व्रन्  

@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-vāmī́ vāmásya dhūtayaḥ  
-práṇītir astu sūnŕ̥tā  
-devásya vā maruto mártiyasya vā  
-ījānásya prayajyavaḥ  
+वामी꣡ वाम꣡स्य धूतयः  
+प्र꣡णीतिर् अस्तु सून्ŕ̥ता  
+देव꣡स्य वा मरुतो म꣡र्तियस्य वा  
+ईजान꣡स्य प्रयज्यवः  

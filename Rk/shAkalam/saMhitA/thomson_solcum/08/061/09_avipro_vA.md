@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-avipró vā yád ávidhad  
-vípro vā indra te vácaḥ  
-sá prá mamandat tuvāyā́ śatakrato  
-prā́cāmanyo áhaṃsana  
+अविप्रो꣡ वा य꣡द् अ꣡विधद्  
+वि꣡प्रो वा इन्द्र ते व꣡चः  
+स꣡ प्र꣡ ममन्दत् तुवाया꣡ शतक्रतो  
+प्रा꣡चामन्यो अ꣡हंसन  

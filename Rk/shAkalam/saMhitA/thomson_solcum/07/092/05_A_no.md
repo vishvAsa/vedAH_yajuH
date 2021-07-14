@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ no niyúdbhiḥ śatínībhir adhvaráṃ  
-sahasríṇībhir úpa yāhi yajñám  
-vā́yo asmín sávane mādayasva  
-yūyám pāta suastíbhiḥ sádā naḥ  
+आ꣡ नो नियु꣡द्भिः शति꣡नीभिर् अध्वरं꣡  
+सहस्रि꣡णीभिर् उ꣡प याहि यज्ञ꣡म्  
+वा꣡यो अस्मि꣡न् स꣡वने मादयस्व  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

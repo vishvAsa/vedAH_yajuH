@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-áśvinā madhuṣúttamo yuvā́kuḥ  
-sómas tám pātam ā́ gataṃ duroṇé  
-rátho ha vām bhū́ri várpaḥ kárikrat  
-sutā́vato niṣkr̥tám ā́gamiṣṭhaḥ  
+अ꣡श्विना मधुषु꣡त्तमो युवा꣡कुः  
+सो꣡मस् त꣡म् पातम् आ꣡ गतं दुरोणे꣡  
+र꣡थो ह वाम् भू꣡रि व꣡र्पः क꣡रिक्रत्  
+सुता꣡वतो निष्कृत꣡म् आ꣡गमिष्ठः  

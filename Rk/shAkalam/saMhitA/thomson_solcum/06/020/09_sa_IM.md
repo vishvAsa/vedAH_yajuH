@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sá īṃ spŕ̥dho vanate ápratīto  
-bíbhrad vájraṃ vr̥traháṇaṃ gábhastau  
-tíṣṭhad dhárī ádhi ásteva gárte  
-vacoyújā vahata índram r̥ṣvám  
+स꣡ ईं स्प्ŕ̥धो वनते अ꣡प्रतीतो  
+बि꣡भ्रद् व꣡ज्रं वृत्रह꣡णं ग꣡भस्तौ  
+ति꣡ष्ठद् ध꣡री अ꣡धि अ꣡स्तेव ग꣡र्ते  
+वचोयु꣡जा वहत इ꣡न्द्रम् ऋष्व꣡म्  

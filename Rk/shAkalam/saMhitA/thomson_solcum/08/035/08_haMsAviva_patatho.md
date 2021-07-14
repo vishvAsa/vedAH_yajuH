@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-haṃsā́v iva patatho adhvagā́v iva  
-sómaṃ sutám mahiṣévā́va gachathaḥ  
-sajóṣasā uṣásā sū́riyeṇa ca  
-trír vartír yātam aśvinā  
+हंसा꣡व् इव पतथो अध्वगा꣡व् इव  
+सो꣡मं सुत꣡म् महिषे꣡वा꣡व गछथः  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+त्रि꣡र् वर्ति꣡र् यातम् अश्विना  

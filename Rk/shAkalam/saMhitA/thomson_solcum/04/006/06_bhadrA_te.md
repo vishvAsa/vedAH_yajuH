@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-bhadrā́ te agne suanīka saṃdŕ̥g  
-ghorásya sató víṣuṇasya cā́ruḥ  
-ná yát te śocís támasā váranta  
-ná dhvasmā́nas tanúvī répa ā́ dhuḥ  
+भद्रा꣡ ते अग्ने सुअनीक संद्ŕ̥ग्  
+घोर꣡स्य सतो꣡ वि꣡षुणस्य चा꣡रुः  
+न꣡ य꣡त् ते शोचि꣡स् त꣡मसा व꣡रन्त  
+न꣡ ध्वस्मा꣡नस् तनु꣡वी रे꣡प आ꣡ धुः  

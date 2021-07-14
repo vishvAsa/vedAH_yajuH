@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-sá revā́m̐ iva viśpátir  
-daívyaḥ ketúḥ śr̥ṇotu naḥ  
-ukthaír agnír br̥hádbhānuḥ  
+स꣡ रेवाँ꣡ इव विश्प꣡तिर्  
+दइ꣡व्यः केतुः꣡ शृणोतु नः  
+उक्थइ꣡र् अग्नि꣡र् बृह꣡द्भानुः  

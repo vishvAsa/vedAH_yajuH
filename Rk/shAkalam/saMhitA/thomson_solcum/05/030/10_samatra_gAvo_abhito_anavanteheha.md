@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sám átra gā́vo abhíto 'navanta  
-ihéha vatsaír víyutā yád ā́san  
-sáṃ tā́ índro asr̥jad asya śākaír  
-yád īṃ sómāsaḥ súṣutā ámandan  
+स꣡म् अ꣡त्र गा꣡वो अभि꣡तो ऽनवन्त  
+इहे꣡ह वत्सइ꣡र् वि꣡युता य꣡द् आ꣡सन्  
+सं꣡ ता꣡ इ꣡न्द्रो असृजद् अस्य शाकइ꣡र्  
+य꣡द् ईं सो꣡मासः सु꣡षुता अ꣡मन्दन्  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-satyám ūcur nára evā́ hí cakrúr  
-ánu svadhā́m r̥bhávo jagmur etā́m  
-vibhrā́jamānāṃś camasā́m̐ áheva  
-ávenat tváṣṭā catúro dadr̥śvā́n  
+सत्य꣡म् ऊचुर् न꣡र एवा꣡ हि꣡ चक्रु꣡र्  
+अ꣡नु स्वधा꣡म् ऋभ꣡वो जग्मुर् एता꣡म्  
+विभ्रा꣡जमानांश् चमसाँ꣡ अ꣡हेव  
+अ꣡वेनत् त्व꣡ष्टा चतु꣡रो ददृश्वा꣡न्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-pr̥kṣé tā́ víśvā bhúvanā vavakṣire  
-mitrā́ya vā sádam ā́ jīrádānavaḥ  
-pŕ̥ṣadaśvāso anavabhrárādhasa  
-r̥jipyā́so ná vayúneṣu dhūrṣádaḥ  
+पृक्षे꣡ ता꣡ वि꣡श्वा भु꣡वना ववक्षिरे  
+मित्रा꣡य वा स꣡दम् आ꣡ जीर꣡दानवः  
+प्ŕ̥षदश्वासो अनवभ्र꣡राधस  
+ऋजिप्या꣡सो न꣡ वयु꣡नेषु धूर्ष꣡दः  

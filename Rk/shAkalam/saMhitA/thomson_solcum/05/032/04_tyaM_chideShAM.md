@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tiyáṃ cid eṣāṃ svadháyā mádantam  
-mihó nápātaṃ suvŕ̥dhaṃ tamogā́m  
-vŕ̥ṣaprabharmā dānavásya bhā́maṃ  
-vájreṇa vajrī́ ní jaghāna śúṣṇam  
+तियं꣡ चिद् एषां स्वध꣡या म꣡दन्तम्  
+मिहो꣡ न꣡पातं सुव्ŕ̥धं तमोगा꣡म्  
+व्ŕ̥षप्रभर्मा दानव꣡स्य भा꣡मं  
+व꣡ज्रेण वज्री꣡ नि꣡ जघान शु꣡ष्णम्  

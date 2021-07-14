@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mā́dhyaṃdine sávane jātavedaḥ  
-puroḷā́śam ihá kave juṣasva  
-ágne yahvásya táva bhāgadhéyaṃ  
-ná prá minanti vidátheṣu dhī́rāḥ  
+मा꣡ध्यंदिने स꣡वने जातवेदः  
+पुरोऌआ꣡शम् इह꣡ कवे जुषस्व  
+अ꣡ग्ने यह्व꣡स्य त꣡व भागधे꣡यं  
+न꣡ प्र꣡ मिनन्ति विद꣡थेषु धी꣡राः  

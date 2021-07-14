@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-úd īrṣva nāri abhí jīvalokáṃ  
-gatā́sum etám úpa śeṣa éhi  
-hastagrābhásya didhiṣós távedám  
-pátyur janitvám abhí sám babhūtha  
+उ꣡द् ईर्ष्व नारि अभि꣡ जीवलोकं꣡  
+गता꣡सुम् एत꣡म् उ꣡प शेष ए꣡हि  
+हस्तग्राभ꣡स्य दिधिषो꣡स् त꣡वेद꣡म्  
+प꣡त्युर् जनित्व꣡म् अभि꣡ स꣡म् बभूथ  

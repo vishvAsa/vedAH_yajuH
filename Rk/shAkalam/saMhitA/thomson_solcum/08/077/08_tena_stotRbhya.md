@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-téna stotŕ̥bhya ā́ bhara  
-nŕ̥bhyo nā́ribhyo áttave  
-sadyó jātá r̥bhuṣṭhira  
+ते꣡न स्तोत्ŕ̥भ्य आ꣡ भर  
+न्ŕ̥भ्यो ना꣡रिभ्यो अ꣡त्तवे  
+सद्यो꣡ जात꣡ ऋभुष्ठिर  

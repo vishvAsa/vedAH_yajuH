@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-vŕ̥ṣā ví jajñe janáyann ámartiyaḥ  
-pratápañ jyótiṣā támaḥ  
-sá súṣṭutaḥ kavíbhir nirṇíjaṃ dadhe  
-tridhā́tu asya dáṃsasā  
+व्ŕ̥षा वि꣡ जज्ञे जन꣡यन्न् अ꣡मर्तियः  
+प्रत꣡पञ् ज्यो꣡तिषा त꣡मः  
+स꣡ सु꣡ष्टुतः कवि꣡भिर् निर्णि꣡जं दधे  
+त्रिधा꣡तु अस्य दं꣡ससा  

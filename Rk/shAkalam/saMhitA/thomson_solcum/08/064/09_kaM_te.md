@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-káṃ te dānā́ asakṣata  
-vŕ̥trahan káṃ suvī́riyā  
-ukthé ká u svid ántamaḥ  
+कं꣡ ते दाना꣡ असक्षत  
+व्ŕ̥त्रहन् कं꣡ सुवी꣡रिया  
+उक्थे꣡ क꣡ उ स्विद् अ꣡न्तमः  

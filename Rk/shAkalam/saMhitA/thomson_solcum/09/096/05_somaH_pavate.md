@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sómaḥ pavate janitā́ matīnā́ṃ  
-janitā́ divó janitā́ pr̥thivyā́ḥ  
-janitā́gnér janitā́ sū́riyasya  
-janiténdrasya janitótá víṣṇoḥ  
+सो꣡मः पवते जनिता꣡ मतीनां꣡  
+जनिता꣡ दिवो꣡ जनिता꣡ पृथिव्याः꣡  
+जनिता꣡ग्ने꣡र् जनिता꣡ सू꣡रियस्य  
+जनिते꣡न्द्रस्य जनितो꣡त꣡ वि꣡ष्णोः  

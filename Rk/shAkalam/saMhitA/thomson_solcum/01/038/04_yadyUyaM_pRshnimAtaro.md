@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-yád yūyám pr̥śnimātaro  
-mártiāsaḥ° siyā́tana  
-stotā́ vo amŕ̥taḥ siyāt  
+य꣡द् यूय꣡म् पृश्निमातरो  
+म꣡र्तिआसः° सिया꣡तन  
+स्तोता꣡ वो अम्ŕ̥तः सियात्  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yadéd enam ádadhur yajñíyāso  
-diví devā́ḥ sū́riyam āditeyám  
-yadā́ cariṣṇū́ mithunā́v ábhūtām  
-ā́d ít prā́paśyan bhúvanāni víśvā  
+यदे꣡द् एनम् अ꣡दधुर् यज्ञि꣡यासो  
+दिवि꣡ देवाः꣡ सू꣡रियम् आदितेय꣡म्  
+यदा꣡ चरिष्णू꣡ मिथुना꣡व् अ꣡भूताम्  
+आ꣡द् इ꣡त् प्रा꣡पश्यन् भु꣡वनानि वि꣡श्वा  

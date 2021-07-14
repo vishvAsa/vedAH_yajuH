@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-ádarśi gātúr uráve várīyasī  
-pánthā r̥tásya sám ayaṃsta raśmíbhiś  
-cákṣur bhágasya raśmíbhiḥ  
-dyukṣám mitrásya sā́danam  
-aryamṇó váruṇasya ca  
-áthā dadhāte br̥hád ukthíyaṃ váya  
-upastútyam br̥hád váyaḥ  
+अ꣡दर्शि गातु꣡र् उर꣡वे व꣡रीयसी  
+प꣡न्था ऋत꣡स्य स꣡म् अयंस्त रश्मि꣡भिश्  
+च꣡क्षुर् भ꣡गस्य रश्मि꣡भिः  
+द्युक्ष꣡म् मित्र꣡स्य सा꣡दनम्  
+अर्यम्णो꣡ व꣡रुणस्य च  
+अ꣡था दधाते बृह꣡द् उक्थि꣡यं व꣡य  
+उपस्तु꣡त्यम् बृह꣡द् व꣡यः  

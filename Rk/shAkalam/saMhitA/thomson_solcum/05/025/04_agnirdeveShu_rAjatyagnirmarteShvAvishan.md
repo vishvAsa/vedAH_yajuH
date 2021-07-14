@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-agnír devéṣu rājati  
-agnír márteṣu āviśán  
-agnír no havyavā́hano  
-agníṃ dhībhíḥ saparyata  
+अग्नि꣡र् देवे꣡षु राजति  
+अग्नि꣡र् म꣡र्तेषु आविश꣡न्  
+अग्नि꣡र् नो हव्यवा꣡हनो  
+अग्निं꣡ धीभिः꣡ सपर्यत  

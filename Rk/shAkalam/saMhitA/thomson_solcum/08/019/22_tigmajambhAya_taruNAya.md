@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-tigmájambhāya táruṇāya rā́jate  
-práyo gāyasi agnáye  
-yáḥ piṃśáte sūnŕ̥tābhiḥ suvī́riyam  
-agnír ghr̥tébhir ā́hutaḥ  
+तिग्म꣡जम्भाय त꣡रुणाय रा꣡जते  
+प्र꣡यो गायसि अग्न꣡ये  
+यः꣡ पिंश꣡ते सून्ŕ̥ताभिः सुवी꣡रियम्  
+अग्नि꣡र् घृते꣡भिर् आ꣡हुतः  

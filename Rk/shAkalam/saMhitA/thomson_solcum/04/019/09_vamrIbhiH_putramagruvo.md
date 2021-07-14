@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-vamrī́bhiḥ putrám agrúvo adānáṃ  
-nivéśanād dhariva ā́ jabhartha  
-ví andhó akhyad áhim ādadānó  
-nír bhūd ukhachít sám aranta párva  
+वम्री꣡भिः पुत्र꣡म् अग्रु꣡वो अदानं꣡  
+निवे꣡शनाद् धरिव आ꣡ जभर्थ  
+वि꣡ अन्धो꣡ अख्यद् अ꣡हिम् आददानो꣡  
+नि꣡र् भूद् उखछि꣡त् स꣡म् अरन्त प꣡र्व  

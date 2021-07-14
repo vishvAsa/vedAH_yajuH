@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kṣétrād apaśyaṃ sanutáś cárantaṃ  
-sumád yūtháṃ ná purú śóbhamānam  
-ná tā́ agr̥bhrann ájaniṣṭa hí ṣáḥ  
-páliknīr íd yuvatáyo bhavanti  
+क्षे꣡त्राद् अपश्यं सनुत꣡श् च꣡रन्तं  
+सुम꣡द् यूथं꣡ न꣡ पुरु꣡ शो꣡भमानम्  
+न꣡ ता꣡ अगृभ्रन्न् अ꣡जनिष्ट हि꣡ षः꣡  
+प꣡लिक्नीर् इ꣡द् युवत꣡यो भवन्ति  

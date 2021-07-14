@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-vayáṃ ta indra stómebhir vidhema  
-tvám asmā́kaṃ śatakrato  
-máhi sthūráṃ śaśayáṃ rā́dho áhrayam  
-práskaṇvāya ní tośaya  
+वयं꣡ त इन्द्र स्तो꣡मेभिर् विधेम  
+त्व꣡म् अस्मा꣡कं शतक्रतो  
+म꣡हि स्थूरं꣡ शशयं꣡ रा꣡धो अ꣡ह्रयम्  
+प्र꣡स्कण्वाय नि꣡ तोशय  

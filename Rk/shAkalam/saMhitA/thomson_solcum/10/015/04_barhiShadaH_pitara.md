@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-bárhiṣadaḥ pitara ūtī́ arvā́g  
-imā́ vo havyā́ cakr̥mā juṣádhvam  
-tá ā́ gata ávasā śáṃtamena  
-áthā naḥ śáṃ yór arapó dadhāta  
+ब꣡र्हिषदः पितर ऊती꣡ अर्वा꣡ग्  
+इमा꣡ वो हव्या꣡ चकृमा जुष꣡ध्वम्  
+त꣡ आ꣡ गत अ꣡वसा शं꣡तमेन  
+अ꣡था नः शं꣡ यो꣡र् अरपो꣡ दधात  

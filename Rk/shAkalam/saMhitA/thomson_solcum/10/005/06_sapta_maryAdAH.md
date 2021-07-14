@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-saptá maryā́dāḥ kaváyas tatakṣus  
-tā́sām ékām íd abhí aṃhuró gāt  
-āyór ha skambhá upamásya nīḷé  
-pathā́ṃ visargé dharúṇeṣu tasthau  
+सप्त꣡ मर्या꣡दाः कव꣡यस् ततक्षुस्  
+ता꣡साम् ए꣡काम् इ꣡द् अभि꣡ अंहुरो꣡ गात्  
+आयो꣡र् ह स्कम्भ꣡ उपम꣡स्य नीऌए꣡  
+पथां꣡ विसर्गे꣡ धरु꣡णेषु तस्थौ  

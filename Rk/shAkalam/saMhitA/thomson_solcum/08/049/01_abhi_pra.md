@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-abhí prá vaḥ surā́dhasam  
-índram arca yáthā vidé  
-yó jaritŕ̥bhyo maghávā purūvásuḥ  
-sahásreṇeva śíkṣati  
+अभि꣡ प्र꣡ वः सुरा꣡धसम्  
+इ꣡न्द्रम् अर्च य꣡था विदे꣡  
+यो꣡ जरित्ŕ̥भ्यो मघ꣡वा पुरूव꣡सुः  
+सह꣡स्रेणेव शि꣡क्षति  

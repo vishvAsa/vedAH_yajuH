@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-acodáso no dhanuvantu índavaḥ  
-prá svānā́so° br̥háddiveṣu hárayaḥ  
-ví ca náśan na iṣó árātayo  
-aryó naśanta sániṣanta no dhíyaḥ  
+अचोद꣡सो नो धनुवन्तु इ꣡न्दवः  
+प्र꣡ स्वाना꣡सो° बृह꣡द्दिवेषु ह꣡रयः  
+वि꣡ च न꣡शन् न इषो꣡ अ꣡रातयो  
+अर्यो꣡ नशन्त स꣡निषन्त नो धि꣡यः  

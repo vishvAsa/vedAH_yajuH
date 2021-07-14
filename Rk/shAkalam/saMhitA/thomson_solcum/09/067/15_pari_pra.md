@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-pári prá soma te ráso  
-ásarji kaláśe sutáḥ  
-śyenó ná taktó arṣati  
+प꣡रि प्र꣡ सोम ते र꣡सो  
+अ꣡सर्जि कल꣡शे सुतः꣡  
+श्येनो꣡ न꣡ तक्तो꣡ अर्षति  

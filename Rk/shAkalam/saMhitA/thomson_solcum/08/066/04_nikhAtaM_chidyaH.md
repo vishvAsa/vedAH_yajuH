@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-níkhātaṃ cid yáḥ purusambhr̥táṃ vásu  
-úd íd vápati dāśúṣe  
-vajrī́ suśipró háriaśva ít karad  
-índraḥ krátvā yáthā váśat  
+नि꣡खातं चिद् यः꣡ पुरुसम्भृतं꣡ व꣡सु  
+उ꣡द् इ꣡द् व꣡पति दाशु꣡षे  
+वज्री꣡ सुशिप्रो꣡ ह꣡रिअश्व इ꣡त् करद्  
+इ꣡न्द्रः क्र꣡त्वा य꣡था व꣡शत्  

@@ -2,6 +2,6 @@
 title = "028"
 
 +++
-ayám agne tuvé ápi  
-jaritā́ bhūtu santiya  
-tásmai pavāka+ mr̥̄ḷaya+  
+अय꣡म् अग्ने तुवे꣡ अ꣡पि  
+जरिता꣡ भूतु सन्तिय  
+त꣡स्मै पवाक+ मॄऌअय+  

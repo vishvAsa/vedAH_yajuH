@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yád dha nūnáṃ yád vā yajñé  
-yád vā pr̥thiviyā́m ádhi  
-áto no yajñám āśúbhir mahemata  
-ugrá ugrébhir ā́ gahi  
+य꣡द् ध नूनं꣡ य꣡द् वा यज्ञे꣡  
+य꣡द् वा पृथिविया꣡म् अ꣡धि  
+अ꣡तो नो यज्ञ꣡म् आशु꣡भिर् महेमत  
+उग्र꣡ उग्रे꣡भिर् आ꣡ गहि  

@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-mádhu vā́tā r̥tāyaté  
-mádhu kṣaranti síndhavaḥ  
-mā́dhvīr naḥ santu óṣadhīḥ  
+म꣡धु वा꣡ता ऋतायते꣡  
+म꣡धु क्षरन्ति सि꣡न्धवः  
+मा꣡ध्वीर् नः सन्तु ओ꣡षधीः  

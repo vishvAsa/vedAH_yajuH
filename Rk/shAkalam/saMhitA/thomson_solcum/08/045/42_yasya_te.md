@@ -2,6 +2,6 @@
 title = "042"
 
 +++
-yásya te viśvámānuṣo  
-bhū́rer dattásya védati  
-vásu spārháṃ tád ā́ bhara  
+य꣡स्य ते विश्व꣡मानुषो  
+भू꣡रेर् दत्त꣡स्य वे꣡दति  
+व꣡सु स्पार्हं꣡ त꣡द् आ꣡ भर  

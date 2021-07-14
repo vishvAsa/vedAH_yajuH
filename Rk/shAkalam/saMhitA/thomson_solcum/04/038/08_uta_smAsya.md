@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-utá sma asya tanyatór iva dyór  
-r̥ghāyató abhiyújo bhayante  
-yadā́ sahásram abhí ṣīm áyodhīd  
-durvártuḥ smā bhavati bhīmá r̥ñján  
+उत꣡ स्म अस्य तन्यतो꣡र् इव द्यो꣡र्  
+ऋघायतो꣡ अभियु꣡जो भयन्ते  
+यदा꣡ सह꣡स्रम् अभि꣡ षीम् अ꣡योधीद्  
+दुर्व꣡र्तुः स्मा भवति भीम꣡ ऋञ्ज꣡न्  

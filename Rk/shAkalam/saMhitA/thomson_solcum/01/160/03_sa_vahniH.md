@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá váhniḥ putráḥ pitaróḥ+ pavítravān  
-punā́ti dhī́ro bhúvanāni māyáyā  
-dhenúṃ ca pŕ̥śniṃ vr̥ṣabháṃ surétasaṃ  
-viśvā́hā śukrám páyo asya dukṣata  
+स꣡ व꣡ह्निः पुत्रः꣡ पितरोः꣡+ पवि꣡त्रवान्  
+पुना꣡ति धी꣡रो भु꣡वनानि माय꣡या  
+धेनुं꣡ च प्ŕ̥श्निं वृषभं꣡ सुरे꣡तसं  
+विश्वा꣡हा शुक्र꣡म् प꣡यो अस्य दुक्षत  

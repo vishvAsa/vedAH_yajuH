@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-eṣá devó ámartiyaḥ  
-parṇavī́r iva dīyati  
-abhí dróṇāni āsádam  
+एष꣡ देवो꣡ अ꣡मर्तियः  
+पर्णवी꣡र् इव दीयति  
+अभि꣡ द्रो꣡णानि आस꣡दम्  

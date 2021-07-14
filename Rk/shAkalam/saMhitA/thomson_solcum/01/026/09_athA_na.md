@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-áthā na ubháyeṣãm  
-ámr̥ta mártiyānãm  
-mitháḥ santu práśastayaḥ  
+अ꣡था न उभ꣡येष्ãम्  
+अ꣡मृत म꣡र्तियान्ãम्  
+मिथः꣡ सन्तु प्र꣡शस्तयः  

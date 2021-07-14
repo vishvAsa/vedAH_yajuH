@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuvád bhiyéndra pā́rthivāni víśvā  
-ácyutā cic cyāvayante rájāṃsi  
-dyā́vākṣā́mā párvatāso vánāni  
-víśvaṃ dr̥̄ḷhám+ bhayate ájman ā́ te  
+तुव꣡द् भिये꣡न्द्र पा꣡र्थिवानि वि꣡श्वा  
+अ꣡च्युता चिच् च्यावयन्ते र꣡जांसि  
+द्या꣡वाक्षा꣡मा प꣡र्वतासो व꣡नानि  
+वि꣡श्वं दॄऌह꣡म्+ भयते अ꣡ज्मन् आ꣡ ते  

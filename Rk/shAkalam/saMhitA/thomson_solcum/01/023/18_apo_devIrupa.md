@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-apó devī́r úpa hvaye  
-yátra gā́vaḥ píbanti naḥ  
-síndhubhyaḥ kártuvaṃ havíḥ  
+अपो꣡ देवी꣡र् उ꣡प ह्वये  
+य꣡त्र गा꣡वः पि꣡बन्ति नः  
+सि꣡न्धुभ्यः क꣡र्तुवं हविः꣡  

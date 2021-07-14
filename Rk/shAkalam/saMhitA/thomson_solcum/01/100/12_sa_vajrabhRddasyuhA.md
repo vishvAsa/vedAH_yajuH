@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-sá vajrabhŕ̥d dasyuhā́ bhīmá ugráḥ  
-sahásracetāḥ śatánītha ŕ̥bhvā  
-camrīṣó ná śávasā pā́ñcajanyo  
-marútvān no bhavatu índra ūtī́  
+स꣡ वज्रभ्ŕ̥द् दस्युहा꣡ भीम꣡ उग्रः꣡  
+सह꣡स्रचेताः शत꣡नीथ ŕ̥भ्वा  
+चम्रीषो꣡ न꣡ श꣡वसा पा꣡ञ्चजन्यो  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-nū́ sadmā́naṃ diviyáṃ náṃśi devā  
-bhā́radvājaḥ sumatíṃ yāti hótā  
-āsānébhir yájamāno miyédhair  
-devā́nāṃ jánma vasūyúr vavanda  
+नू꣡ सद्मा꣡नं दिवियं꣡ नं꣡शि देवा  
+भा꣡रद्वाजः सुमतिं꣡ याति हो꣡ता  
+आसाने꣡भिर् य꣡जमानो मिये꣡धैर्  
+देवा꣡नां ज꣡न्म वसूयु꣡र् ववन्द  

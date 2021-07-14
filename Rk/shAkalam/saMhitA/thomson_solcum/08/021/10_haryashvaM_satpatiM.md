@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-háriaśvaṃ sátpatiṃ carṣaṇīsáhaṃ  
-sá hí ṣmā yó ámandata  
-ā́ tú naḥ sá vayati gávyam áśviyaṃ  
-stotŕ̥bhyo maghávā śatám  
+ह꣡रिअश्वं स꣡त्पतिं चर्षणीस꣡हं  
+स꣡ हि꣡ ष्मा यो꣡ अ꣡मन्दत  
+आ꣡ तु꣡ नः स꣡ वयति ग꣡व्यम् अ꣡श्वियं  
+स्तोत्ŕ̥भ्यो मघ꣡वा शत꣡म्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-táṃ smā rátham maghavan prā́va sātáye  
-jaítraṃ yáṃ te anumádāma saṃgamé  
-ājā́ na indra mánasā puruṣṭuta  
-tvāyádbhiyo maghavañ chárma yacha naḥ  
+तं꣡ स्मा र꣡थम् मघवन् प्रा꣡व सात꣡ये  
+जइ꣡त्रं यं꣡ ते अनुम꣡दाम संगमे꣡  
+आजा꣡ न इन्द्र म꣡नसा पुरुष्टुत  
+त्वाय꣡द्भियो मघवञ् छ꣡र्म यछ नः  

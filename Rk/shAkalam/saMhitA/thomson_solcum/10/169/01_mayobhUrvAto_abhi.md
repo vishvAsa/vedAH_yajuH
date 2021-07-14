@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mayobhū́r vā́to abhí vātu usrā́  
-ū́rjasvatīr óṣadhīr ā́ riśantām  
-pī́vasvatīr jīvádhanyāḥ pibantu  
-avasā́ya padváte rudra mr̥̄ḷa+  
+मयोभू꣡र् वा꣡तो अभि꣡ वातु उस्रा꣡  
+ऊ꣡र्जस्वतीर् ओ꣡षधीर् आ꣡ रिशन्ताम्  
+पी꣡वस्वतीर् जीव꣡धन्याः पिबन्तु  
+अवसा꣡य पद्व꣡ते रुद्र मॄऌअ+  

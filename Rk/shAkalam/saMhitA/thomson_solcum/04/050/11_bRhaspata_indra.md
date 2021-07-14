@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-bŕ̥haspata indara+ várdhataṃ naḥ  
-sácā sā́ vāṃ sumatír bhūtu asmé  
-aviṣṭáṃ dhíyo jigr̥tám púraṃdhīr  
-jajastám aryó vanúṣām árātīḥ  
+ब्ŕ̥हस्पत इन्दर+ व꣡र्धतं नः  
+स꣡चा सा꣡ वां सुमति꣡र् भूतु अस्मे꣡  
+अविष्टं꣡ धि꣡यो जिगृत꣡म् पु꣡रंधीर्  
+जजस्त꣡म् अर्यो꣡ वनु꣡षाम् अ꣡रातीः  

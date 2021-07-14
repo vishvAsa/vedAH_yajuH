@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-evéd índraḥ suté astāvi sóme  
-bharádvājeṣu kṣáyad ín maghónaḥ  
-ásad yáthā jaritrá utá sūrír  
-índro rāyó viśvávārasya dātā́  
+एवे꣡द् इ꣡न्द्रः सुते꣡ अस्तावि सो꣡मे  
+भर꣡द्वाजेषु क्ष꣡यद् इ꣡न् मघो꣡नः  
+अ꣡सद् य꣡था जरित्र꣡ उत꣡ सूरि꣡र्  
+इ꣡न्द्रो रायो꣡ विश्व꣡वारस्य दाता꣡  

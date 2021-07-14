@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yásyā́vadhīt pitáraṃ yásya mātáraṃ  
-yásya śakró bhrā́taraṃ nā́ta īṣate  
-vétī́d ū asya práyatā yataṃkaró  
-ná kílbiṣād īṣate vásva ākaráḥ  
+य꣡स्या꣡वधीत् पित꣡रं य꣡स्य मात꣡रं  
+य꣡स्य शक्रो꣡ भ्रा꣡तरं ना꣡त ईषते  
+वे꣡ती꣡द् ऊ अस्य प्र꣡यता यतंकरो꣡  
+न꣡ कि꣡ल्बिषाद् ईषते व꣡स्व आकरः꣡  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-índo yáthā táva stávo  
-yáthā te jātám ándhasaḥ  
-ní barhíṣi priyé sadaḥ  
+इ꣡न्दो य꣡था त꣡व स्त꣡वो  
+य꣡था ते जात꣡म् अ꣡न्धसः  
+नि꣡ बर्हि꣡षि प्रिये꣡ सदः  

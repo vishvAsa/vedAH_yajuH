@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-ná ghem anyád ā́ papana  
-vájrinn apáso náviṣṭau  
-távéd u stómaṃ ciketa  
+न꣡ घेम् अन्य꣡द् आ꣡ पपन  
+व꣡ज्रिन्न् अप꣡सो न꣡विष्टौ  
+त꣡वे꣡द् उ स्तो꣡मं चिकेत  

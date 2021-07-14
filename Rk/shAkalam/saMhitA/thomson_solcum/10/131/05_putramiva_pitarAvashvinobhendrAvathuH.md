@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-putrám iva pitárāv aśvínobhā  
-índrāváthuḥ kā́viyair daṃsánābhiḥ  
-yát surā́maṃ ví ápibaḥ śácībhiḥ  
-sárasvatī tvā maghavann abhiṣṇak  
+पुत्र꣡म् इव पित꣡राव् अश्वि꣡नोभा  
+इ꣡न्द्राव꣡थुः का꣡वियैर् दंस꣡नाभिः  
+य꣡त् सुरा꣡मं वि꣡ अ꣡पिबः श꣡चीभिः  
+स꣡रस्वती त्वा मघवन्न् अभिष्णक्  

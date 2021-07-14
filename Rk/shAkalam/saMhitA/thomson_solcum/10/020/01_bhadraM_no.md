@@ -2,4 +2,4 @@
 title = "001"
 
 +++
-bhadráṃ no ápi vātaya mánaḥ  
+भद्रं꣡ नो अ꣡पि वातय म꣡नः  

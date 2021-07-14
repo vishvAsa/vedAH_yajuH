@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-eṣá devó ratharyati  
-pávamāno daśasyati  
-āvíṣ kr̥ṇoti vagvanúm  
+एष꣡ देवो꣡ रथर्यति  
+प꣡वमानो दशस्यति  
+आवि꣡ष् कृणोति वग्वनु꣡म्  

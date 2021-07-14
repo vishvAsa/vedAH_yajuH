@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ágne dyumnéna jāgr̥ve  
-sáhasaḥ sūnav āhuta  
-édám barhíḥ sado máma  
+अ꣡ग्ने द्युम्ने꣡न जागृवे  
+स꣡हसः सूनव् आहुत  
+ए꣡द꣡म् बर्हिः꣡ सदो म꣡म  

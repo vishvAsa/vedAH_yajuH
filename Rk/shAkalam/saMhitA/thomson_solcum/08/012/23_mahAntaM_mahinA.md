@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-mahā́ntam mahinā́ vayáṃ  
-stómebhir havanaśrútam  
-arkaír abhí prá ṇonumaḥ sám ójase  
+महा꣡न्तम् महिना꣡ वयं꣡  
+स्तो꣡मेभिर् हवनश्रु꣡तम्  
+अर्कइ꣡र् अभि꣡ प्र꣡ णोनुमः स꣡म् ओ꣡जसे  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yuváṃ śvetám pedáve aśvinā́śuvaṃ  
-navábhir vā́jair navatī́ ca vājínam  
-carkŕ̥tiyaṃ dadathur drāvayátsakham  
-bhágaṃ ná nŕ̥bhyo háviyam mayobhúvam  
+युवं꣡ श्वेत꣡म् पेद꣡वे अश्विना꣡शुवं  
+नव꣡भिर् वा꣡जैर् नवती꣡ च वाजि꣡नम्  
+चर्क्ŕ̥तियं ददथुर् द्रावय꣡त्सखम्  
+भ꣡गं न꣡ न्ŕ̥भ्यो ह꣡वियम् मयोभु꣡वम्  

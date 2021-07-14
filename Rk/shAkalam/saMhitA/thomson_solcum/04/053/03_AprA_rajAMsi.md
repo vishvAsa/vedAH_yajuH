@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́prā rájāṃsi diviyā́ni pā́rthivā  
-ślókaṃ deváḥ kr̥ṇute svā́ya dhármaṇe  
-prá bāhū́ asrāk savitā́ sávīmani  
-niveśáyan prasuvánn aktúbhir jágat  
+आ꣡प्रा र꣡जांसि दिविया꣡नि पा꣡र्थिवा  
+श्लो꣡कं देवः꣡ कृणुते स्वा꣡य ध꣡र्मणे  
+प्र꣡ बाहू꣡ अस्राक् सविता꣡ स꣡वीमनि  
+निवेश꣡यन् प्रसुव꣡न्न् अक्तु꣡भिर् ज꣡गत्  

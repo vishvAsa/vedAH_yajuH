@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ugrábāhur mrakṣakŕ̥tvā puraṃdaró  
-yádi me śr̥ṇávad dhávam  
-vasūyávo vásupatiṃ śatákratuṃ  
-stómair índraṃ havāmahe  
+उग्र꣡बाहुर् म्रक्षक्ŕ̥त्वा पुरंदरो꣡  
+य꣡दि मे शृण꣡वद् ध꣡वम्  
+वसूय꣡वो व꣡सुपतिं शत꣡क्रतुं  
+स्तो꣡मैर् इ꣡न्द्रं हवामहे  

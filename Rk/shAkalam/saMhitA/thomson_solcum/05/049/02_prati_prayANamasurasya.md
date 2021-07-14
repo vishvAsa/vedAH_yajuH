@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-práti prayā́ṇam ásurasya vidvā́n  
-sūktaír deváṃ savitā́raṃ duvasya  
-úpa bruvīta námasā vijānáñ  
-jyéṣṭhaṃ ca rátnaṃ vibhájantam āyóḥ  
+प्र꣡ति प्रया꣡णम् अ꣡सुरस्य विद्वा꣡न्  
+सूक्तइ꣡र् देवं꣡ सविता꣡रं दुवस्य  
+उ꣡प ब्रुवीत न꣡मसा विजान꣡ञ्  
+ज्ये꣡ष्ठं च र꣡त्नं विभ꣡जन्तम् आयोः꣡  

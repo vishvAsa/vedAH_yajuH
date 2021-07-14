@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-samrā́jā ugrā́ vr̥ṣabhā́ divás pátī  
-pr̥thivyā́ mitrā́váruṇā vícarṣanī  
-citrébhir abhraír úpa tiṣṭhatho rávaṃ  
-dyā́ṃ varṣayatho ásurasya māyáyā  
+सम्रा꣡जा उग्रा꣡ वृषभा꣡ दिव꣡स् प꣡ती  
+पृथिव्या꣡ मित्रा꣡व꣡रुणा वि꣡चर्षनी  
+चित्रे꣡भिर् अभ्रइ꣡र् उ꣡प तिष्ठथो र꣡वं  
+द्यां꣡ वर्षयथो अ꣡सुरस्य माय꣡या  

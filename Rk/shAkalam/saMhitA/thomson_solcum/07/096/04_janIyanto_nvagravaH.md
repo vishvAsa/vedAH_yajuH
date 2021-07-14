@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-janīyánto nú ágravaḥ  
-putrīyántaḥ sudā́navaḥ  
-sárasvantaṃ havāmahe  
+जनीय꣡न्तो नु꣡ अ꣡ग्रवः  
+पुत्रीय꣡न्तः सुदा꣡नवः  
+स꣡रस्वन्तं हवामहे  

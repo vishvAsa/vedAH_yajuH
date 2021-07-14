@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-apó yád ádrim puruhūta dárdar  
-āvír bhuvat sarámā pūrviyáṃ te  
-sá no netā́ vā́jam ā́ darṣi bhū́riṃ  
-gotrā́ rujánn áṅgirobhir gr̥ṇānáḥ  
+अपो꣡ य꣡द् अ꣡द्रिम् पुरुहूत द꣡र्दर्  
+आवि꣡र् भुवत् सर꣡मा पूर्वियं꣡ ते  
+स꣡ नो नेता꣡ वा꣡जम् आ꣡ दर्षि भू꣡रिं  
+गोत्रा꣡ रुज꣡न्न् अ꣡ङ्गिरोभिर् गृणानः꣡  

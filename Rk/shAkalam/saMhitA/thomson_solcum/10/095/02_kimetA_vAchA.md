@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kím etā́ vācā́ kr̥ṇavā távāhám  
-prā́kramiṣam uṣásām agriyéva  
-púrūravaḥ púnar ástam párehi  
-durāpanā́ vā́ta ivāhám asmi  
+कि꣡म् एता꣡ वाचा꣡ कृणवा त꣡वाह꣡म्  
+प्रा꣡क्रमिषम् उष꣡साम् अग्रिये꣡व  
+पु꣡रूरवः पु꣡नर् अ꣡स्तम् प꣡रेहि  
+दुरापना꣡ वा꣡त इवाह꣡म् अस्मि  

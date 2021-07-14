@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuváṃ tám indra párvatam mahā́m urúṃ  
-vájreṇa vajrin parvaśáś cakartitha  
-ávāsr̥jo nívr̥tāḥ sártavā́ apáḥ  
-satrā́ víśvaṃ dadhiṣe kévalaṃ sáhaḥ  
+तुवं꣡ त꣡म् इन्द्र प꣡र्वतम् महा꣡म् उरुं꣡  
+व꣡ज्रेण वज्रिन् पर्वश꣡श् चकर्तिथ  
+अ꣡वासृजो नि꣡वृताः स꣡र्तवा꣡ अपः꣡  
+सत्रा꣡ वि꣡श्वं दधिषे के꣡वलं स꣡हः  

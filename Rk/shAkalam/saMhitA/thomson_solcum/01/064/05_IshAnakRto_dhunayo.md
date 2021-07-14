@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-īśānakŕ̥to dhúnayo riśā́daso  
-vā́tān vidyútas táviṣībhir akrata  
-duhánti ū́dhar diviyā́ni dhū́tayo  
-bhū́mim pinvanti páyasā párijrayaḥ  
+ईशानक्ŕ̥तो धु꣡नयो रिशा꣡दसो  
+वा꣡तान् विद्यु꣡तस् त꣡विषीभिर् अक्रत  
+दुह꣡न्ति ऊ꣡धर् दिविया꣡नि धू꣡तयो  
+भू꣡मिम् पिन्वन्ति प꣡यसा प꣡रिज्रयः  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ém enaṃ sr̥jatā suté  
-mandím índrāya mandíne  
-cákriṃ víśvāni cákraye  
+ए꣡म् एनं सृजता सुते꣡  
+मन्दि꣡म् इ꣡न्द्राय मन्दि꣡ने  
+च꣡क्रिं वि꣡श्वानि च꣡क्रये  

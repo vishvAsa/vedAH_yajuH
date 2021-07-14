@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-arvā́ñco adyā́ bhavatā yajatrā  
-ā́ vo hā́rdi bháyamāno vyayeyam  
-trā́dhvaṃ no devā nijúro vŕ̥kasya  
-trā́dhvaṃ kartā́d avapádo yajatrāḥ  
+अर्वा꣡ञ्चो अद्या꣡ भवता यजत्रा  
+आ꣡ वो हा꣡र्दि भ꣡यमानो व्ययेयम्  
+त्रा꣡ध्वं नो देवा निजु꣡रो व्ŕ̥कस्य  
+त्रा꣡ध्वं कर्ता꣡द् अवप꣡दो यजत्राः  

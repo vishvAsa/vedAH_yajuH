@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-tárat samudrám pávamāna ūrmíṇā  
-rā́jā devá r̥tám br̥hát  
-árṣan mitrásya váruṇasya dhármaṇā  
-prá hinvāná r̥tám br̥hát  
+त꣡रत् समुद्र꣡म् प꣡वमान ऊर्मि꣡णा  
+रा꣡जा देव꣡ ऋत꣡म् बृह꣡त्  
+अ꣡र्षन् मित्र꣡स्य व꣡रुणस्य ध꣡र्मणा  
+प्र꣡ हिन्वान꣡ ऋत꣡म् बृह꣡त्  

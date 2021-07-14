@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-jajñānó hárito vŕ̥ṣā  
-víśvam ā́ bhāti rocanám  
-háriaśvo háritaṃ dhatta ā́yudham  
-ā́ vájram bāhuvór hárim  
+जज्ञानो꣡ ह꣡रितो व्ŕ̥षा  
+वि꣡श्वम् आ꣡ भाति रोचन꣡म्  
+ह꣡रिअश्वो ह꣡रितं धत्त आ꣡युधम्  
+आ꣡ व꣡ज्रम् बाहुवो꣡र् ह꣡रिम्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yó no dātā́ vásūnãm  
-índraṃ táṃ hūmahe vayám  
-vidmā́ hí asya sumatíṃ návīyasīṃ  
-gaméma gómati vrajé  
+यो꣡ नो दाता꣡ व꣡सून्ãम्  
+इ꣡न्द्रं तं꣡ हूमहे वय꣡म्  
+विद्मा꣡ हि꣡ अस्य सुमतिं꣡ न꣡वीयसीं  
+गमे꣡म गो꣡मति व्रजे꣡  

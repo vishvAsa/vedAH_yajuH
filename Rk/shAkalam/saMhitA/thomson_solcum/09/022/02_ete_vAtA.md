@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-eté vā́tā ivorávaḥ  
-parjányasyeva vr̥ṣṭáyaḥ  
-agnér iva bhramā́ vŕ̥thā  
+एते꣡ वा꣡ता इवोर꣡वः  
+पर्ज꣡न्यस्येव वृष्ट꣡यः  
+अग्ने꣡र् इव भ्रमा꣡ व्ŕ̥था  

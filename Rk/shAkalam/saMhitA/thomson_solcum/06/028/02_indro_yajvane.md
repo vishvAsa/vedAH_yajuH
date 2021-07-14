@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-índro yájvane pr̥ṇaté ca śikṣati  
-úpéd dadāti ná suvám muṣāyati  
-bhū́yo-bhūyo rayím íd asya vardháyann  
-ábhinne khilyé ní dadhāti devayúm  
+इ꣡न्द्रो य꣡ज्वने पृणते꣡ च शिक्षति  
+उ꣡पे꣡द् ददाति न꣡ सुव꣡म् मुषायति  
+भू꣡यो-भूयो रयि꣡म् इ꣡द् अस्य वर्ध꣡यन्न्  
+अ꣡भिन्ने खिल्ये꣡ नि꣡ दधाति देवयु꣡म्  

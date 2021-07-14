@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sárasvatī sādháyantī dhíyaṃ na  
-íḷā devī́ bhā́ratī viśvátūrtiḥ  
-tisró devī́ḥ svadháyā barhír édám  
-áchidram pāntu śaraṇáṃ niṣádya  
+स꣡रस्वती साध꣡यन्ती धि꣡यं न  
+इ꣡ऌआ देवी꣡ भा꣡रती विश्व꣡तूर्तिः  
+तिस्रो꣡ देवीः꣡ स्वध꣡या बर्हि꣡र् ए꣡द꣡म्  
+अ꣡छिद्रम् पान्तु शरणं꣡ निष꣡द्य  

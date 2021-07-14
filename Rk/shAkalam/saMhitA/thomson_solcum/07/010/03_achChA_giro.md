@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-áchā gíro matáyo devayántīr  
-agníṃ yanti dráviṇam bhíkṣamāṇāḥ  
-susaṃdŕ̥śaṃ suprátīkaṃ suáñcaṃ  
-havyavā́ham aratím mā́nuṣāṇām  
+अ꣡छा गि꣡रो मत꣡यो देवय꣡न्तीर्  
+अग्निं꣡ यन्ति द्र꣡विणम् भि꣡क्षमाणाः  
+सुसंद्ŕ̥शं सुप्र꣡तीकं सुअ꣡ञ्चं  
+हव्यवा꣡हम् अरति꣡म् मा꣡नुषाणाम्  

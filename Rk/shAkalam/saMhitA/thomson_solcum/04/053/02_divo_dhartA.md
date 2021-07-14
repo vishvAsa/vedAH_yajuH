@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-divó dhartā́ bhúvanasya prajā́patiḥ  
-piśáṅgaṃ drāpím práti muñcate kavíḥ  
-vicakṣaṇáḥ pratháyann āpr̥ṇánn urú  
-ájījanat savitā́ sumnám ukthíyam  
+दिवो꣡ धर्ता꣡ भु꣡वनस्य प्रजा꣡पतिः  
+पिश꣡ङ्गं द्रापि꣡म् प्र꣡ति मुञ्चते कविः꣡  
+विचक्षणः꣡ प्रथ꣡यन्न् आपृण꣡न्न् उरु꣡  
+अ꣡जीजनत् सविता꣡ सुम्न꣡म् उक्थि꣡यम्  

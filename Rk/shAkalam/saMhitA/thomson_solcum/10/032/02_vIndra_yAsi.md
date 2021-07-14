@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ví indra yāsi diviyā́ni rocanā́  
-ví pā́rthivāni rájasā puruṣṭuta  
-yé tvā váhanti múhur adhvarā́m̐ úpa  
-té sú vanvantu vagvanā́m̐ arādhásaḥ  
+वि꣡ इन्द्र यासि दिविया꣡नि रोचना꣡  
+वि꣡ पा꣡र्थिवानि र꣡जसा पुरुष्टुत  
+ये꣡ त्वा व꣡हन्ति मु꣡हुर् अध्वराँ꣡ उ꣡प  
+ते꣡ सु꣡ वन्वन्तु वग्वनाँ꣡ अराध꣡सः  

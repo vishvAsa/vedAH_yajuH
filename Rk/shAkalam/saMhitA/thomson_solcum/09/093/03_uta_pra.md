@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-utá prá pipya ū́dhar ághniyāyā  
-índur dhā́rābhiḥ sacate sumedhā́ḥ  
-mūrdhā́naṃ gā́vaḥ páyasā camū́ṣu  
-abhí śrīṇanti vásubhir ná niktaíḥ  
+उत꣡ प्र꣡ पिप्य ऊ꣡धर् अ꣡घ्नियाया  
+इ꣡न्दुर् धा꣡राभिः सचते सुमेधाः꣡  
+मूर्धा꣡नं गा꣡वः प꣡यसा चमू꣡षु  
+अभि꣡ श्रीणन्ति व꣡सुभिर् न꣡ निक्तइः꣡  

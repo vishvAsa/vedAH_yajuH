@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-āśúr arṣa br̥hanmate  
-pári priyéṇa dhā́manā  
-yátra devā́ íti brávan  
+आशु꣡र् अर्ष बृहन्मते  
+प꣡रि प्रिये꣡ण धा꣡मना  
+य꣡त्र देवा꣡ इ꣡ति ब्र꣡वन्  

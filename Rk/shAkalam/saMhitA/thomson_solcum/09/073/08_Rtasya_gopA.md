@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-r̥tásya gopā́ ná dábhāya sukrátus  
-trī́ ṣá pavítrā hr̥dí antár ā́ dadhe  
-vidvā́n sá víśvā bhúvanābhí paśyati  
-ávā́juṣṭān vidhyati karté avratā́n  
+ऋत꣡स्य गोपा꣡ न꣡ द꣡भाय सुक्र꣡तुस्  
+त्री꣡ ष꣡ पवि꣡त्रा हृदि꣡ अन्त꣡र् आ꣡ दधे  
+विद्वा꣡न् स꣡ वि꣡श्वा भु꣡वनाभि꣡ पश्यति  
+अ꣡वा꣡जुष्टान् विध्यति कर्ते꣡ अव्रता꣡न्  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ā́ tvā vahantu hárayo  
-vŕ̥ṣaṇaṃ sómapītaye  
-índra tvā sū́racakṣasaḥ  
+आ꣡ त्वा वहन्तु ह꣡रयो  
+व्ŕ̥षणं सो꣡मपीतये  
+इ꣡न्द्र त्वा सू꣡रचक्षसः  

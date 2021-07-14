@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-vāvasānā́ vivásvati  
-sómasya pītiyā́ girā́  
-manuṣvác chambhū ā́ gatam  
+वावसाना꣡ विव꣡स्वति  
+सो꣡मस्य पीतिया꣡ गिरा꣡  
+मनुष्व꣡च् छम्भू आ꣡ गतम्  

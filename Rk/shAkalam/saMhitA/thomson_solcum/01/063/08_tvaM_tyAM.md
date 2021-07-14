@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tuváṃ tyā́ṃ na indara+ deva citrā́m  
-íṣam ā́po ná pīpayaḥ párijman  
-yáyā śūra práti asmábhya° yáṃsi  
-tmánam ū́rjaṃ ná viśvádha kṣáradhyai  
+तुवं꣡ त्यां꣡ न इन्दर+ देव चित्रा꣡म्  
+इ꣡षम् आ꣡पो न꣡ पीपयः प꣡रिज्मन्  
+य꣡या शूर प्र꣡ति अस्म꣡भ्य° यं꣡सि  
+त्म꣡नम् ऊ꣡र्जं न꣡ विश्व꣡ध क्ष꣡रध्यै  

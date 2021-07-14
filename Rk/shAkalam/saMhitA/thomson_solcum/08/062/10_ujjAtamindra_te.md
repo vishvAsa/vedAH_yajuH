@@ -2,8 +2,8 @@
 title = "010"
 
 +++
-új jātám indra te śáva  
-út tuvā́m út táva krátum  
-bhū́rigo bhū́ri vāvr̥dhur  
-mághavan táva śármaṇi  
-bhadrā́ índrasya rātáyaḥ  
+उ꣡ज् जात꣡म् इन्द्र ते श꣡व  
+उ꣡त् तुवा꣡म् उ꣡त् त꣡व क्र꣡तुम्  
+भू꣡रिगो भू꣡रि वावृधुर्  
+म꣡घवन् त꣡व श꣡र्मणि  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  

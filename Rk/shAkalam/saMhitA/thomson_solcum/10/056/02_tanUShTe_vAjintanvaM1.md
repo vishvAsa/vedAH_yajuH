@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tanū́ṣ ṭe vājin tanúvaṃ náyantī  
-vāmám asmábhya° dhā́tu śárma túbhyam  
-áhruto mahó dharúṇāya devā́n  
-divī́va jyótiḥ suvám ā́ mimīyāḥ  
+तनू꣡ष् टे वाजिन् तनु꣡वं न꣡यन्ती  
+वाम꣡म् अस्म꣡भ्य° धा꣡तु श꣡र्म तु꣡भ्यम्  
+अ꣡ह्रुतो महो꣡ धरु꣡णाय देवा꣡न्  
+दिवी꣡व ज्यो꣡तिः सुव꣡म् आ꣡ मिमीयाः  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuváṃ divó dharúṇaṃ dhiṣa ójasā  
-pr̥thivyā́ indra sádaneṣu mā́hinaḥ  
-tuváṃ sutásya máde ariṇā apó  
-ví vr̥trásya samáyā pāṣíyārujaḥ  
+तुवं꣡ दिवो꣡ धरु꣡णं धिष ओ꣡जसा  
+पृथिव्या꣡ इन्द्र स꣡दनेषु मा꣡हिनः  
+तुवं꣡ सुत꣡स्य म꣡दे अरिणा अपो꣡  
+वि꣡ वृत्र꣡स्य सम꣡या पाषि꣡यारुजः  

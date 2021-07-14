@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-haryánn uṣásam arcayaḥ  
-sū́ryaṃ haryánn arocayaḥ  
-vidvā́ṃś cikitvā́n háriaśva vardhasa  
-índra víśvā abhí śríyaḥ  
+हर्य꣡न्न् उष꣡सम् अर्चयः  
+सू꣡र्यं हर्य꣡न्न् अरोचयः  
+विद्वां꣡श् चिकित्वा꣡न् ह꣡रिअश्व वर्धस  
+इ꣡न्द्र वि꣡श्वा अभि꣡ श्रि꣡यः  

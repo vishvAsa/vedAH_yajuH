@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yáthā́bhavad anudéyī  
-táto ágram ajāyata  
-purástād budhná ā́tataḥ  
-paścā́n niráyaṇaṃ kr̥tám  
+य꣡था꣡भवद् अनुदे꣡यी  
+त꣡तो अ꣡ग्रम् अजायत  
+पुर꣡स्ताद् बुध्न꣡ आ꣡ततः  
+पश्चा꣡न् निर꣡यणं कृत꣡म्  

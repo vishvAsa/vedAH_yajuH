@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-dyā́m índro háridhāyasam  
-pr̥thivī́ṃ hárivarpasam  
-ádhārayad dharítor bhū́ri bhójanaṃ  
-yáyor antár háriś cárat  
+द्या꣡म् इ꣡न्द्रो ह꣡रिधायसम्  
+पृथिवीं꣡ ह꣡रिवर्पसम्  
+अ꣡धारयद् धरि꣡तोर् भू꣡रि भो꣡जनं  
+य꣡योर् अन्त꣡र् ह꣡रिश् च꣡रत्  

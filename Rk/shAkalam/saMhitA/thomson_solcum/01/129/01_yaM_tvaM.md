@@ -2,10 +2,10 @@
 title = "001"
 
 +++
-yáṃ tváṃ rátham indara+ medhásātaye  
-apākā́ sántam iṣira praṇáyasi  
-prá anavadya náyasi  
-sadyáś cit tám abhíṣṭaye  
-káro váśaś ca vājínam  
-sá asmā́kam anavadya tūtujāna vedhásām  
-imā́ṃ vā́caṃ ná vedhásām  
+यं꣡ त्वं꣡ र꣡थम् इन्दर+ मेध꣡सातये  
+अपाका꣡ स꣡न्तम् इषिर प्रण꣡यसि  
+प्र꣡ अनवद्य न꣡यसि  
+सद्य꣡श् चित् त꣡म् अभि꣡ष्टये  
+क꣡रो व꣡शश् च वाजि꣡नम्  
+स꣡ अस्मा꣡कम् अनवद्य तूतुजान वेध꣡साम्  
+इमां꣡ वा꣡चं न꣡ वेध꣡साम्  

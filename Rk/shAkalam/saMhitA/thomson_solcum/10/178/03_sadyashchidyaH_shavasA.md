@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sadyáś cid yáḥ śávasā páñca kr̥ṣṭī́ḥ  
-sū́rya iva jyótiṣāpás tatā́na  
-sahasrasā́ḥ śatasā́ asya ráṃhir  
-ná smā varante yuvatíṃ ná śáryām  
+सद्य꣡श् चिद् यः꣡ श꣡वसा प꣡ञ्च कृष्टीः꣡  
+सू꣡र्य इव ज्यो꣡तिषाप꣡स् तता꣡न  
+सहस्रसाः꣡ शतसा꣡ अस्य रं꣡हिर्  
+न꣡ स्मा वरन्ते युवतिं꣡ न꣡ श꣡र्याम्  

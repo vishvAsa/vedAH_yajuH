@@ -2,6 +2,6 @@
 title = "026"
 
 +++
-tuváṃ samudríyā apó  
-agriyó vā́ca īráyan  
-pávasva viśvamejaya  
+तुवं꣡ समुद्रि꣡या अपो꣡  
+अग्रियो꣡ वा꣡च ईर꣡यन्  
+प꣡वस्व विश्वमेजय  

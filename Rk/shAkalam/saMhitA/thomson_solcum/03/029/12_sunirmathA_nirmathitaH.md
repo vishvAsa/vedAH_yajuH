@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-sunirmáthā nírmathitaḥ  
-sunidhā́ níhitaḥ kavíḥ  
-ágne suadhvarā́ kr̥ṇu  
-devā́n devayaté yaja  
+सुनिर्म꣡था नि꣡र्मथितः  
+सुनिधा꣡ नि꣡हितः कविः꣡  
+अ꣡ग्ने सुअध्वरा꣡ कृणु  
+देवा꣡न् देवयते꣡ यज  

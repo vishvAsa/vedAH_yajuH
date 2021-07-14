@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-nákī revántaṃ sakhiyā́ya vindase  
-pī́yanti te surāśúvaḥ  
-yadā́ kr̥ṇóṣi nadanúṃ sám ūhasi  
-ā́d ít pitéva hūyase  
+न꣡की रेव꣡न्तं सखिया꣡य विन्दसे  
+पी꣡यन्ति ते सुराशु꣡वः  
+यदा꣡ कृणो꣡षि नदनुं꣡ स꣡म् ऊहसि  
+आ꣡द् इ꣡त् पिते꣡व हूयसे  

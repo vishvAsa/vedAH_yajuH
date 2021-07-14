@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-utédā́nīm bhágavantaḥ siyāma  
-utá prapitvá utá mádhye áhnām  
-utóditā maghavan sū́riyasya  
-vayáṃ devā́nāṃ sumataú siyāma  
+उते꣡दा꣡नीम् भ꣡गवन्तः सियाम  
+उत꣡ प्रपित्व꣡ उत꣡ म꣡ध्ये अ꣡ह्नाम्  
+उतो꣡दिता मघवन् सू꣡रियस्य  
+वयं꣡ देवा꣡नां सुमतउ꣡ सियाम  

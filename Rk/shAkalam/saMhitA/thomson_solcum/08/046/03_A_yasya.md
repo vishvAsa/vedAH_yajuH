@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ā́ yásya te mahimā́naṃ  
-śátamūte śátakrato  
-gīrbhír gr̥ṇánti kārávaḥ  
+आ꣡ य꣡स्य ते महिमा꣡नं  
+श꣡तमूते श꣡तक्रतो  
+गीर्भि꣡र् गृण꣡न्ति कार꣡वः  

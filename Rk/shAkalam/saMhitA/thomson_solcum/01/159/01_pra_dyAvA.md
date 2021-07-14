@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá dyā́vā yajñaíḥ pr̥thivī́ r̥tāvŕ̥dhā  
-mahī́ stuṣe vidátheṣu prácetasā  
-devébhir yé deváputre sudáṃsasā  
-itthā́ dhiyā́ vā́riyāṇi prabhū́ṣataḥ  
+प्र꣡ द्या꣡वा यज्ञइः꣡ पृथिवी꣡ ऋताव्ŕ̥धा  
+मही꣡ स्तुषे विद꣡थेषु प्र꣡चेतसा  
+देवे꣡भिर् ये꣡ देव꣡पुत्रे सुदं꣡ससा  
+इत्था꣡ धिया꣡ वा꣡रियाणि प्रभू꣡षतः  

@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-ví ṣā́ hótrā víśvam aśnoti vā́riyam  
-bŕ̥haspátir arámatiḥ pánīyasī  
-grā́vā yátra madhuṣúd ucyáte br̥hád  
-ávīvaśanta matíbhir manīṣíṇaḥ  
+वि꣡ षा꣡ हो꣡त्रा वि꣡श्वम् अश्नोति वा꣡रियम्  
+ब्ŕ̥हस्प꣡तिर् अर꣡मतिः प꣡नीयसी  
+ग्रा꣡वा य꣡त्र मधुषु꣡द् उच्य꣡ते बृह꣡द्  
+अ꣡वीवशन्त मति꣡भिर् मनीषि꣡णः  

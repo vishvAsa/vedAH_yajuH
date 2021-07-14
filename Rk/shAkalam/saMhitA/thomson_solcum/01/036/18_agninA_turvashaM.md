@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-agnínā turváśaṃ yádum parāváta  
-ugrā́devaṃ havāmahe  
-agnír nayan návavāstvam br̥hádrathaṃ  
-turvī́tiṃ dásyave sáhaḥ  
+अग्नि꣡ना तुर्व꣡शं य꣡दुम् पराव꣡त  
+उग्रा꣡देवं हवामहे  
+अग्नि꣡र् नयन् न꣡ववास्त्वम् बृह꣡द्रथं  
+तुर्वी꣡तिं द꣡स्यवे स꣡हः  

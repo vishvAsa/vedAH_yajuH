@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ná párvatā ná nadíyo varanta vo  
-yátrā́cidhvam maruto gáchathéd u tát  
-utá dyā́vāpr̥thivī́ yāthanā pári  
-śúbhaṃ yātā́m ánu ráthā avr̥tsata  
+न꣡ प꣡र्वता न꣡ नदि꣡यो वरन्त वो  
+य꣡त्रा꣡चिध्वम् मरुतो ग꣡छथे꣡द् उ त꣡त्  
+उत꣡ द्या꣡वापृथिवी꣡ याथना प꣡रि  
+शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-antáś carati rocanā́  
-asyá prāṇā́d apānatī́  
-ví akhyan mahiṣó dívam  
+अन्त꣡श् चरति रोचना꣡  
+अस्य꣡ प्राणा꣡द् अपानती꣡  
+वि꣡ अख्यन् महिषो꣡ दि꣡वम्  

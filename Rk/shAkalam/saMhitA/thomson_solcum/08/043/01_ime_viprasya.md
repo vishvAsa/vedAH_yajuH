@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-imé víprasya vedháso  
-agnér ástr̥tayajvanaḥ  
-gíra stómāsa īrate  
+इमे꣡ वि꣡प्रस्य वेध꣡सो  
+अग्ने꣡र् अ꣡स्तृतयज्वनः  
+गि꣡र स्तो꣡मास ईरते  

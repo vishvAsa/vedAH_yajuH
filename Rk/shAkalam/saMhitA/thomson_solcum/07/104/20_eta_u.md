@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-etá u tyé patayanti śváyātava  
-índraṃ dipsanti dipsávo ádābhiyam  
-śíśīte śakráḥ píśunebhiyo vadháṃ  
-nūnáṃ sr̥jad aśániṃ yātumádbhiyaḥ  
+एत꣡ उ त्ये꣡ पतयन्ति श्व꣡यातव  
+इ꣡न्द्रं दिप्सन्ति दिप्स꣡वो अ꣡दाभियम्  
+शि꣡शीते शक्रः꣡ पि꣡शुनेभियो वधं꣡  
+नूनं꣡ सृजद् अश꣡निं यातुम꣡द्भियः  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sá no mandrā́bhir adhvaré  
-jihuvā́bhir yajā maháḥ  
-ā́ devā́n vakṣi yákṣi ca  
+स꣡ नो मन्द्रा꣡भिर् अध्वरे꣡  
+जिहुवा꣡भिर् यजा महः꣡  
+आ꣡ देवा꣡न् वक्षि य꣡क्षि च  

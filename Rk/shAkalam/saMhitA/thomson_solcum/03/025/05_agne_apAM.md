@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-ágne apā́ṃ sám idhyase duroṇé  
-nítyaḥ sūno sahaso jātavedaḥ  
-sadhásthāni maháyamāna ūtī́  
+अ꣡ग्ने अपां꣡ स꣡म् इध्यसे दुरोणे꣡  
+नि꣡त्यः सूनो सहसो जातवेदः  
+सध꣡स्थानि मह꣡यमान ऊती꣡  

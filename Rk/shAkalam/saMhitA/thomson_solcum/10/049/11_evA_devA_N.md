@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-evā́ devā́m̐ índaro+ viviye nr̥̄́n  
-prá cyautnéna maghávā satyárādhāḥ  
-víśvā ít tā́ te harivaḥ śacīvo  
-abhí turā́saḥ svayaśo gr̥ṇanti  
+एवा꣡ देवाँ꣡ इ꣡न्दरो+ विविये नॄ꣡न्  
+प्र꣡ च्यौत्ने꣡न मघ꣡वा सत्य꣡राधाः  
+वि꣡श्वा इ꣡त् ता꣡ ते हरिवः शचीवो  
+अभि꣡ तुरा꣡सः स्वयशो गृणन्ति  

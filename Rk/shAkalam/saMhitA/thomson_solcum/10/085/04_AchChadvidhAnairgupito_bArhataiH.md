@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-āchádvidhānair gupitó  
-bā́rhataiḥ soma rakṣitáḥ  
-grā́vṇām íc chr̥ṇván tiṣṭhasi  
-ná te aśnāti pā́rthivaḥ  
+आछ꣡द्विधानैर् गुपितो꣡  
+बा꣡र्हतैः सोम रक्षितः꣡  
+ग्रा꣡व्णाम् इ꣡च् छृण्व꣡न् तिष्ठसि  
+न꣡ ते अश्नाति पा꣡र्थिवः  

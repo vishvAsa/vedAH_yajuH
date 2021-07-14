@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-utá svarā́jo áditir  
-ádabdhasya vratásya yé  
-mahó rā́jāna īśate  
+उत꣡ स्वरा꣡जो अ꣡दितिर्  
+अ꣡दब्धस्य व्रत꣡स्य ये꣡  
+महो꣡ रा꣡जान ईशते  

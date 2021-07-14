@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-bharádvājāya áva dhukṣata dvitā́  
-dhenúṃ ca viśvádohasam  
-íṣaṃ ca viśvábhojasam  
+भर꣡द्वाजाय अ꣡व धुक्षत द्विता꣡  
+धेनुं꣡ च विश्व꣡दोहसम्  
+इ꣡षं च विश्व꣡भोजसम्  

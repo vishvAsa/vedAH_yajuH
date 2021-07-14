@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-anehásaṃ vo hávamānam ūtáye  
-mádhvaḥ kṣaranti dhītáyaḥ  
-ā́ tvā vaso hávamānāsa índava  
-úpa stotréṣu dadhire  
+अनेह꣡सं वो ह꣡वमानम् ऊत꣡ये  
+म꣡ध्वः क्षरन्ति धीत꣡यः  
+आ꣡ त्वा वसो ह꣡वमानास इ꣡न्दव  
+उ꣡प स्तोत्रे꣡षु दधिरे  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ásthur u citrā́ uṣásaḥ purástān  
-mitā́ iva sváravo adhvaréṣu  
-ví ū vrajásya támaso duvā́rā  
-uchántīr avrañ chúcayaḥ pavākā́ḥ+  
+अ꣡स्थुर् उ चित्रा꣡ उष꣡सः पुर꣡स्तान्  
+मिता꣡ इव स्व꣡रवो अध्वरे꣡षु  
+वि꣡ ऊ व्रज꣡स्य त꣡मसो दुवा꣡रा  
+उछ꣡न्तीर् अव्रञ् छु꣡चयः पवाकाः꣡+  

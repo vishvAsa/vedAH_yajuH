@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuvā́m u jātávedasaṃ  
-viśvávāraṃ gr̥ṇe dhiyā́  
-ágne devā́m̐ ā́ vaha naḥ priyávratān  
-mr̥̄ḷīkā́ya+ priyávratān  
+तुवा꣡म् उ जात꣡वेदसं  
+विश्व꣡वारं गृणे धिया꣡  
+अ꣡ग्ने देवाँ꣡ आ꣡ वह नः प्रिय꣡व्रतान्  
+मॄऌईका꣡य+ प्रिय꣡व्रतान्  

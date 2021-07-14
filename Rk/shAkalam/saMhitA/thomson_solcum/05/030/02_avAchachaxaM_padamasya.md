@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ávācacakṣam padám asya sasvár  
-ugráṃ nidhātúr ánu āyam ichán  
-ápr̥cham anyā́m̐ utá té ma āhur  
-índraṃ náro bubudhānā́ aśema  
+अ꣡वाचचक्षम् पद꣡म् अस्य सस्व꣡र्  
+उग्रं꣡ निधातु꣡र् अ꣡नु आयम् इछ꣡न्  
+अ꣡पृछम् अन्याँ꣡ उत꣡ ते꣡ म आहुर्  
+इ꣡न्द्रं न꣡रो बुबुधाना꣡ अशेम  

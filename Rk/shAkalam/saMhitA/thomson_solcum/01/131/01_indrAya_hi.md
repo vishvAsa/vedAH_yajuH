@@ -2,10 +2,10 @@
 title = "001"
 
 +++
-índrāya hí dyaúr ásuro ánamnata  
-índrāya mahī́ pr̥thivī́ várīmabhir  
-dyumnásātā várīmabhiḥ  
-índraṃ víśve sajóṣaso  
-devā́so dadhire puráḥ  
-índrāya víśvā sávanāni mā́nuṣā  
-rātā́ni santu mā́nuṣā  
+इ꣡न्द्राय हि꣡ द्यउ꣡र् अ꣡सुरो अ꣡नम्नत  
+इ꣡न्द्राय मही꣡ पृथिवी꣡ व꣡रीमभिर्  
+द्युम्न꣡साता व꣡रीमभिः  
+इ꣡न्द्रं वि꣡श्वे सजो꣡षसो  
+देवा꣡सो दधिरे पुरः꣡  
+इ꣡न्द्राय वि꣡श्वा स꣡वनानि मा꣡नुषा  
+राता꣡नि सन्तु मा꣡नुषा  

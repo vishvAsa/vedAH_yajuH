@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yád adyá aśvināv ápāg  
-yát prā́k sthó vājinīvasū  
-yád druhyávi ánavi turváśe yádau  
-huvé vām átha mā́ gatam  
+य꣡द् अद्य꣡ अश्विनाव् अ꣡पाग्  
+य꣡त् प्रा꣡क् स्थो꣡ वाजिनीवसू  
+य꣡द् द्रुह्य꣡वि अ꣡नवि तुर्व꣡शे य꣡दौ  
+हुवे꣡ वाम् अ꣡थ मा꣡ गतम्  

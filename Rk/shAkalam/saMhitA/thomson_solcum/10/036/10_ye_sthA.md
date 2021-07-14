@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yé sthā́ mánor yajñíyās té śr̥ṇotana  
-yád vo devā ī́mahe tád dadātana  
-jaítraṃ krátuṃ rayimád vīrávad yáśas  
-tád devā́nām ávo adyā́ vr̥ṇīmahe  
+ये꣡ स्था꣡ म꣡नोर् यज्ञि꣡यास् ते꣡ शृणोतन  
+य꣡द् वो देवा ई꣡महे त꣡द् ददातन  
+जइ꣡त्रं क्र꣡तुं रयिम꣡द् वीर꣡वद् य꣡शस्  
+त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे  

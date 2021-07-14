@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sákhāyas ta indra viśváha syāma  
-namovr̥dhā́so mahinā́ tarutra  
-vanvántu smā te ávasā samīké  
-abhī́tim aryó vanúṣāṃ śávāṃsi  
+स꣡खायस् त इन्द्र विश्व꣡ह स्याम  
+नमोवृधा꣡सो महिना꣡ तरुत्र  
+वन्व꣡न्तु स्मा ते अ꣡वसा समीके꣡  
+अभी꣡तिम् अर्यो꣡ वनु꣡षां श꣡वांसि  

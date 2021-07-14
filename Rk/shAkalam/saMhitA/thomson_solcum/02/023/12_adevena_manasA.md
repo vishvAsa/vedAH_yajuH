@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ádevena mánasā yó riṣaṇyáti  
-śāsā́m ugró mányamāno jíghāṃsati  
-bŕ̥haspate mā́ práṇak tásya no vadhó  
-ní karma manyúṃ durévasya śárdhataḥ  
+अ꣡देवेन म꣡नसा यो꣡ रिषण्य꣡ति  
+शासा꣡म् उग्रो꣡ म꣡न्यमानो जि꣡घांसति  
+ब्ŕ̥हस्पते मा꣡ प्र꣡णक् त꣡स्य नो वधो꣡  
+नि꣡ कर्म मन्युं꣡ दुरे꣡वस्य श꣡र्धतः  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tápurjambho vána ā́ vā́tacodito  
-yūthé ná sāhvā́m̐ áva vāti váṃsagaḥ  
-abhivrájann ákṣitam pā́jasā rája  
-sthātúś carátham bhayate patatríṇaḥ  
+त꣡पुर्जम्भो व꣡न आ꣡ वा꣡तचोदितो  
+यूथे꣡ न꣡ साह्वाँ꣡ अ꣡व वाति वं꣡सगः  
+अभिव्र꣡जन्न् अ꣡क्षितम् पा꣡जसा र꣡ज  
+स्थातु꣡श् चर꣡थम् भयते पतत्रि꣡णः  

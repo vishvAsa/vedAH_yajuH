@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-návo-navo bhavati jā́yamāno  
-áhnāṃ ketúr uṣásām eti ágram  
-bhāgáṃ devébhyo ví dadhāti āyán  
-prá candrámās tirate dīrghám ā́yuḥ  
+न꣡वो-नवो भवति जा꣡यमानो  
+अ꣡ह्नां केतु꣡र् उष꣡साम् एति अ꣡ग्रम्  
+भागं꣡ देवे꣡भ्यो वि꣡ दधाति आय꣡न्  
+प्र꣡ चन्द्र꣡मास् तिरते दीर्घ꣡म् आ꣡युः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá kāravo mananā́ vacyámānā  
-devadrī́cīṃ nayata devayántaḥ  
-dakṣiṇāvā́ḍ vājínī prā́ci eti  
-havír bháranti agnáye ghr̥tā́cī  
+प्र꣡ कारवो मनना꣡ वच्य꣡माना  
+देवद्री꣡चीं नयत देवय꣡न्तः  
+दक्षिणावा꣡ड् वाजि꣡नी प्रा꣡चि एति  
+हवि꣡र् भ꣡रन्ति अग्न꣡ये घृता꣡ची  

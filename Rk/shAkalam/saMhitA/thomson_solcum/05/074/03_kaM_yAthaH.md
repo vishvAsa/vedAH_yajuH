@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-káṃ yāthaḥ káṃ ha gachathaḥ  
-kám áchā yuñjathe° rátham  
-kásya bráhmāṇi raṇyatho  
-vayáṃ vām uśmasīṣṭáye  
+कं꣡ याथः कं꣡ ह गछथः  
+क꣡म् अ꣡छा युञ्जथे° र꣡थम्  
+क꣡स्य ब्र꣡ह्माणि रण्यथो  
+वयं꣡ वाम् उश्मसीष्ट꣡ये  

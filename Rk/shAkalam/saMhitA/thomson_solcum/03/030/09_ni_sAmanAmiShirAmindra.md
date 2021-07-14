@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ní sāmanā́m iṣirā́m indra bhū́mim  
-mahī́m apārā́ṃ sádane sasattha  
-ástabhnād dyā́ṃ vr̥ṣabhó antárikṣam  
-árṣantu ā́pas tváyehá prásūtāḥ  
+नि꣡ सामना꣡म् इषिरा꣡म् इन्द्र भू꣡मिम्  
+मही꣡म् अपारां꣡ स꣡दने ससत्थ  
+अ꣡स्तभ्नाद् द्यां꣡ वृषभो꣡ अन्त꣡रिक्षम्  
+अ꣡र्षन्तु आ꣡पस् त्व꣡येह꣡ प्र꣡सूताः  

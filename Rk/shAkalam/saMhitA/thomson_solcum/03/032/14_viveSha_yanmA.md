@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-vivéṣa yán mā dhiṣáṇā jajā́na  
-stávai purā́ pā́riyād índram áhnaḥ  
-áṃhaso yátra pīpárad yáthā no  
-nāvéva yā́ntam ubháye havante  
+विवे꣡ष य꣡न् मा धिष꣡णा जजा꣡न  
+स्त꣡वै पुरा꣡ पा꣡रियाद् इ꣡न्द्रम् अ꣡ह्नः  
+अं꣡हसो य꣡त्र पीप꣡रद् य꣡था नो  
+नावे꣡व या꣡न्तम् उभ꣡ये हवन्ते  

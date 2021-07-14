@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-ahám íd dhí pitúṣ pári  
-medhā́m r̥tásya jagrábha  
-aháṃ sū́rya ivājani  
+अह꣡म् इ꣡द् धि꣡ पितु꣡ष् प꣡रि  
+मेधा꣡म् ऋत꣡स्य जग्र꣡भ  
+अहं꣡ सू꣡र्य इवाजनि  

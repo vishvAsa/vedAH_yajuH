@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-tuváṃ ha tyád apratimānám ójo  
-vájreṇa vajrin dhr̥ṣitó jaghantha  
-tváṃ śúṣṇasya ávātiro vádhatrais  
-tuváṃ gā́ indra śáciyéd avindaḥ  
+तुवं꣡ ह त्य꣡द् अप्रतिमान꣡म् ओ꣡जो  
+व꣡ज्रेण वज्रिन् धृषितो꣡ जघन्थ  
+त्वं꣡ शु꣡ष्णस्य अ꣡वातिरो व꣡धत्रैस्  
+तुवं꣡ गा꣡ इन्द्र श꣡चिये꣡द् अविन्दः  

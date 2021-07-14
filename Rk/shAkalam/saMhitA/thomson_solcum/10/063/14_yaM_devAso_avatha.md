@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yáṃ devāso ávatha vā́jasātau  
-yáṃ śū́rasātā maruto hité dháne  
-prātaryā́vāṇaṃ rátham indra sānasím  
-áriṣyantam ā́ ruhemā suastáye  
+यं꣡ देवासो अ꣡वथ वा꣡जसातौ  
+यं꣡ शू꣡रसाता मरुतो हिते꣡ ध꣡ने  
+प्रातर्या꣡वाणं र꣡थम् इन्द्र सानसि꣡म्  
+अ꣡रिष्यन्तम् आ꣡ रुहेमा सुअस्त꣡ये  

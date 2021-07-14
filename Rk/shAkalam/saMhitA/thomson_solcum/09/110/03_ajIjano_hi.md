@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ájījano hí pavamāna sū́riyaṃ  
-vidhā́re śákmanā páyaḥ  
-gójīrayā ráṃhamāṇaḥ púraṃdhiyā  
+अ꣡जीजनो हि꣡ पवमान सू꣡रियं  
+विधा꣡रे श꣡क्मना प꣡यः  
+गो꣡जीरया रं꣡हमाणः पु꣡रंधिया  

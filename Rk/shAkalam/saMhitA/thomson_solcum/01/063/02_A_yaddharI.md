@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ yád dhárī indara+ vívratā vér  
-ā́ te vájraṃ jaritā́ bāhuvór dhāt  
-yénāviharyatakrato amítrān  
-púra iṣṇā́si puruhūta pūrvī́ḥ  
+आ꣡ य꣡द् ध꣡री इन्दर+ वि꣡व्रता वे꣡र्  
+आ꣡ ते व꣡ज्रं जरिता꣡ बाहुवो꣡र् धात्  
+ये꣡नाविहर्यतक्रतो अमि꣡त्रान्  
+पु꣡र इष्णा꣡सि पुरुहूत पूर्वीः꣡  

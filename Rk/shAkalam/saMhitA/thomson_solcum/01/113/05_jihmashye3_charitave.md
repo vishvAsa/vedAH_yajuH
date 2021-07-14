@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-jihmaśíye cáritave maghónī  
-ābhogáya iṣṭáye rāyá u tvam  
-dabhrám páśyadbhya urviyā́ vicákṣa  
-uṣā́ ajīgar bhúvanāni víśvā  
+जिह्मशि꣡ये च꣡रितवे मघो꣡नी  
+आभोग꣡य इष्ट꣡ये राय꣡ उ त्वम्  
+दभ्र꣡म् प꣡श्यद्भ्य उर्विया꣡ विच꣡क्ष  
+उषा꣡ अजीगर् भु꣡वनानि वि꣡श्वा  

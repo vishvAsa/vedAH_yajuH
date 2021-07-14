@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-jātávedase sunavāma sómam  
-arātīyató ní dahāti védaḥ  
-sá naḥ parṣad áti durgā́ṇi víśvā  
-nāvéva síndhuṃ duritā́ti agníḥ  
+जात꣡वेदसे सुनवाम सो꣡मम्  
+अरातीयतो꣡ नि꣡ दहाति वे꣡दः  
+स꣡ नः पर्षद् अ꣡ति दुर्गा꣡णि वि꣡श्वा  
+नावे꣡व सि꣡न्धुं दुरिता꣡ति अग्निः꣡  

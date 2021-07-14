@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-táva tyé pito dádatas  
-táva svādiṣṭha té pito  
-prá svādmā́no rásānãṃ  
-tuvigrī́vā iverate  
+त꣡व त्ये꣡ पितो द꣡दतस्  
+त꣡व स्वादिष्ठ ते꣡ पितो  
+प्र꣡ स्वाद्मा꣡नो र꣡सान्ãं  
+तुविग्री꣡वा इवेरते  

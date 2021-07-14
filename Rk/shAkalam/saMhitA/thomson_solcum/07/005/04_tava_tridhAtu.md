@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-táva tridhā́tu pr̥thivī́ utá dyaúr  
-vaíśvānara vratám agne sacanta  
-tuvám bhāsā́ ródasī ā́ tatantha  
-ájasreṇa śocíṣā śóśucānaḥ  
+त꣡व त्रिधा꣡तु पृथिवी꣡ उत꣡ द्यउ꣡र्  
+वइ꣡श्वानर व्रत꣡म् अग्ने सचन्त  
+तुव꣡म् भासा꣡ रो꣡दसी आ꣡ ततन्थ  
+अ꣡जस्रेण शोचि꣡षा शो꣡शुचानः  

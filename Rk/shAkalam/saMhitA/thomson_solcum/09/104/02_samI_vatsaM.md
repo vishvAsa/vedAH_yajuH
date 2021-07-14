@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sám ī vatsáṃ ná mātŕ̥bhiḥ  
-sr̥játā gayasā́dhanam  
-devāvíyam mádam abhí dvíśavasam  
+स꣡म् ई वत्सं꣡ न꣡ मात्ŕ̥भिः  
+सृज꣡ता गयसा꣡धनम्  
+देवावि꣡यम् म꣡दम् अभि꣡ द्वि꣡शवसम्  

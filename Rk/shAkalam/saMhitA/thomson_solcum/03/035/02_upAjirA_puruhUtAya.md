@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-úpājirā́ puruhūtā́ya sáptī  
-hárī ráthasya dhūrṣú ā́ yunajmi  
-dravád yáthā sámbhr̥taṃ viśvátaś cid  
-úpemáṃ yajñám ā́ vahāta índram  
+उ꣡पाजिरा꣡ पुरुहूता꣡य स꣡प्ती  
+ह꣡री र꣡थस्य धूर्षु꣡ आ꣡ युनज्मि  
+द्रव꣡द् य꣡था स꣡म्भृतं विश्व꣡तश् चिद्  
+उ꣡पेमं꣡ यज्ञ꣡म् आ꣡ वहात इ꣡न्द्रम्  

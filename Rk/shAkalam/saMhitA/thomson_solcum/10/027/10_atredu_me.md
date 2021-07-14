@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-átréd u me maṃsase satyám uktáṃ  
-dvipā́c ca yác cátuṣpāt saṃsr̥jā́ni  
-strībhír yó átra vŕ̥ṣaṇam pr̥tanyā́d  
-áyuddho asya ví bhajāni védaḥ  
+अ꣡त्रे꣡द् उ मे मंससे सत्य꣡म् उक्तं꣡  
+द्विपा꣡च् च य꣡च् च꣡तुष्पात् संसृजा꣡नि  
+स्त्रीभि꣡र् यो꣡ अ꣡त्र व्ŕ̥षणम् पृतन्या꣡द्  
+अ꣡युद्धो अस्य वि꣡ भजानि वे꣡दः  

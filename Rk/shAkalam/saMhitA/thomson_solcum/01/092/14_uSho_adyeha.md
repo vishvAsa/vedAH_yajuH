@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-úṣo adyéhá gomati  
-áśvāvati vibhāvari  
-revád asmé ví ucha sūnr̥tāvati  
+उ꣡षो अद्ये꣡ह꣡ गोमति  
+अ꣡श्वावति विभावरि  
+रेव꣡द् अस्मे꣡ वि꣡ उछ सूनृतावति  

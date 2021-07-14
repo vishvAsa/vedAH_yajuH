@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ayám ihá prathamó dhāyi dhātŕ̥bhir  
-hótā yájiṣṭho adhvaréṣu ī́ḍiyaḥ  
-yám ápnavāno bhŕ̥gavo virurucúr  
-váneṣu citráṃ vibhúvaṃ viśé-viśe  
+अय꣡म् इह꣡ प्रथमो꣡ धायि धात्ŕ̥भिर्  
+हो꣡ता य꣡जिष्ठो अध्वरे꣡षु ई꣡डियः  
+य꣡म् अ꣡प्नवानो भ्ŕ̥गवो विरुरुचु꣡र्  
+व꣡नेषु चित्रं꣡ विभु꣡वं विशे꣡-विशे  

@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-úd agne śúcayas táva  
-śukrā́ bhrā́janta īrate  
-táva jyótīṃṣi arcáyaḥ  
+उ꣡द् अग्ने शु꣡चयस् त꣡व  
+शुक्रा꣡ भ्रा꣡जन्त ईरते  
+त꣡व ज्यो꣡तींषि अर्च꣡यः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yénéndro havíṣā kr̥tvī́  
-ábhavad dyumnī́ uttamáḥ  
-idáṃ tád akri devā  
-asapatnáḥ kílābhuvam  
+ये꣡ने꣡न्द्रो हवि꣡षा कृत्वी꣡  
+अ꣡भवद् द्युम्नी꣡ उत्तमः꣡  
+इदं꣡ त꣡द् अक्रि देवा  
+असपत्नः꣡ कि꣡लाभुवम्  

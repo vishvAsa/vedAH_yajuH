@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-dyā́vābhūmī adite trā́sīthāṃ no  
-yé vāṃ jajñúḥ sujánimāna r̥ṣve  
-mā́ héḷe bhūma váruṇasya vāyór  
-mā́ mitrásya priyátamasya nr̥̄ṇā́m+  
+द्या꣡वाभूमी अदिते त्रा꣡सीथां नो  
+ये꣡ वां जज्ञुः꣡ सुज꣡निमान ऋष्वे  
+मा꣡ हे꣡ऌए भूम व꣡रुणस्य वायो꣡र्  
+मा꣡ मित्र꣡स्य प्रिय꣡तमस्य नॄणा꣡म्+  

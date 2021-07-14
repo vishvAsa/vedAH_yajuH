@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-táva śárīram patayiṣṇú arvan  
-táva cittáṃ vā́ta iva dhrájīmān  
-táva śŕ̥ṅgāṇi víṣṭhitā purutrā́  
-áraṇyeṣu járbhurāṇā caranti  
+त꣡व श꣡रीरम् पतयिष्णु꣡ अर्वन्  
+त꣡व चित्तं꣡ वा꣡त इव ध्र꣡जीमान्  
+त꣡व श्ŕ̥ङ्गाणि वि꣡ष्ठिता पुरुत्रा꣡  
+अ꣡रण्येषु ज꣡र्भुराणा चरन्ति  

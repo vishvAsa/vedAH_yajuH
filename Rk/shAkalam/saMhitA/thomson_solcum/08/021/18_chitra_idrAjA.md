@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-cítra íd rā́jā rājakā́ íd anyaké  
-yaké sárasvatīm ánu  
-parjánya iva tatánad dhí vr̥ṣṭiyā́  
-sahásram ayútā dádat  
+चि꣡त्र इ꣡द् रा꣡जा राजका꣡ इ꣡द् अन्यके꣡  
+यके꣡ स꣡रस्वतीम् अ꣡नु  
+पर्ज꣡न्य इव तत꣡नद् धि꣡ वृष्टिया꣡  
+सह꣡स्रम् अयु꣡ता द꣡दत्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ākaré vásor jaritā́ panasyate  
-anehása stúbha índro duvasyati  
-vivásvataḥ sádana ā́ hí pipriyé  
-satrāsā́ham abhimātihánaṃ stuhi  
+आकरे꣡ व꣡सोर् जरिता꣡ पनस्यते  
+अनेह꣡स स्तु꣡भ इ꣡न्द्रो दुवस्यति  
+विव꣡स्वतः स꣡दन आ꣡ हि꣡ पिप्रिये꣡  
+सत्रासा꣡हम् अभिमातिह꣡नं स्तुहि  

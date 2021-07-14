@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-dyā́vā no adyá pr̥thivī́ ánāgaso  
-mahī́ trāyetāṃ suvitā́ya mātárā  
-uṣā́ uchánti ápa bādhatām agháṃ  
-suastí agníṃ samidhānám īmahe  
+द्या꣡वा नो अद्य꣡ पृथिवी꣡ अ꣡नागसो  
+मही꣡ त्रायेतां सुविता꣡य मात꣡रा  
+उषा꣡ उछ꣡न्ति अ꣡प बाधताम् अघं꣡  
+सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे  

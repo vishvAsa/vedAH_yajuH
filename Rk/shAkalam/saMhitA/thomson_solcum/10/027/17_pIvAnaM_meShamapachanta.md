@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-pī́vānam meṣám apacanta vīrā́  
-níuptā akṣā́ ánu dīvá āsan  
-duvā́ dhánum br̥hatī́m apsú antáḥ  
-pavítravantā carataḥ punántā  
+पी꣡वानम् मेष꣡म् अपचन्त वीरा꣡  
+नि꣡उप्ता अक्षा꣡ अ꣡नु दीव꣡ आसन्  
+दुवा꣡ ध꣡नुम् बृहती꣡म् अप्सु꣡ अन्तः꣡  
+पवि꣡त्रवन्ता चरतः पुन꣡न्ता  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-dhr̥ṣát piba kaláśe sómam indra  
-vr̥trahā́ śūra samaré vásūnām  
-mā́dhyaṃdine sávana ā́ vr̥ṣasva  
-rayisthā́no rayím asmā́su dhehi  
+धृष꣡त् पिब कल꣡शे सो꣡मम् इन्द्र  
+वृत्रहा꣡ शूर समरे꣡ व꣡सूनाम्  
+मा꣡ध्यंदिने स꣡वन आ꣡ वृषस्व  
+रयिस्था꣡नो रयि꣡म् अस्मा꣡सु धेहि  

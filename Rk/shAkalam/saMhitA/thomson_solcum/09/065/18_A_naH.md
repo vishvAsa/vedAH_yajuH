@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-ā́ naḥ soma sáho júvo  
-rūpáṃ ná várcase bhara  
-suṣvāṇó devávītaye  
+आ꣡ नः सोम स꣡हो जु꣡वो  
+रूपं꣡ न꣡ व꣡र्चसे भर  
+सुष्वाणो꣡ देव꣡वीतये  

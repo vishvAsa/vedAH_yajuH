@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-tuváṃ śatā́ni áva śámbarasya  
-púro jaghantha apratī́ni dásyoḥ  
-áśikṣo yátra śáciyā śacīvo  
-dívodāsāya sunvaté sutakre  
-bharádvājāya gr̥ṇaté vásūni  
+तुवं꣡ शता꣡नि अ꣡व श꣡म्बरस्य  
+पु꣡रो जघन्थ अप्रती꣡नि द꣡स्योः  
+अ꣡शिक्षो य꣡त्र श꣡चिया शचीवो  
+दि꣡वोदासाय सुन्वते꣡ सुतक्रे  
+भर꣡द्वाजाय गृणते꣡ व꣡सूनि  

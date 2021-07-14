@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tán no vā́to mayobhú vātu bheṣajáṃ  
-tán mātā́ pr̥thivī́ tát pitā́ diyaúḥ  
-tád grā́vāṇaḥ somasúto mayobhúvas  
-tád aśvinā śr̥ṇutaṃ dhiṣṇiyā yuvám  
+त꣡न् नो वा꣡तो मयोभु꣡ वातु भेषजं꣡  
+त꣡न् माता꣡ पृथिवी꣡ त꣡त् पिता꣡ दियउः꣡  
+त꣡द् ग्रा꣡वाणः सोमसु꣡तो मयोभु꣡वस्  
+त꣡द् अश्विना शृणुतं धिष्णिया युव꣡म्  

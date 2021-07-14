@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-pā́vīravī kaníyā citráāyuḥ  
-sárasvatī vīrápatnī dhíyaṃ dhāt  
-gnā́bhir áchidraṃ śaraṇáṃ sajóṣā  
-durādhárṣaṃ gr̥ṇaté śárma yaṃsat  
+पा꣡वीरवी कनि꣡या चित्र꣡आयुः  
+स꣡रस्वती वीर꣡पत्नी धि꣡यं धात्  
+ग्ना꣡भिर् अ꣡छिद्रं शरणं꣡ सजो꣡षा  
+दुराध꣡र्षं गृणते꣡ श꣡र्म यंसत्  

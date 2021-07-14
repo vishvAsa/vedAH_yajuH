@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-ṣáḷ áśvām̐ ātithigvá  
-indraūté vadhū́mataḥ  
-sácā pūtákratau sanam  
+ष꣡ऌ अ꣡श्वाँ आतिथिग्व꣡  
+इन्द्रऊते꣡ वधू꣡मतः  
+स꣡चा पूत꣡क्रतौ सनम्  

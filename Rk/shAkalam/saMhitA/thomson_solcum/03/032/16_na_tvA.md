@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-ná tvā gabhīráḥ puruhūta síndhur  
-ná ádrayaḥ pári ṣánto varanta  
-itthā́ sákhibhya iṣitó yád indra  
-ā́ dr̥̄ḷháṃ+ cid árujo gávyam ūrvám  
+न꣡ त्वा गभीरः꣡ पुरुहूत सि꣡न्धुर्  
+न꣡ अ꣡द्रयः प꣡रि ष꣡न्तो वरन्त  
+इत्था꣡ स꣡खिभ्य इषितो꣡ य꣡द् इन्द्र  
+आ꣡ दॄऌहं꣡+ चिद् अ꣡रुजो ग꣡व्यम् ऊर्व꣡म्  

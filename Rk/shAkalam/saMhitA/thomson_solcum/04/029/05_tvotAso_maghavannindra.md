@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tuvótāso maghavann indra víprā  
-vayáṃ te syāma sūráyo gr̥ṇántaḥ  
-bhejānā́so br̥háddivasya rāyá  
-ākāyíyasya dāváne purukṣóḥ  
+तुवो꣡तासो मघवन्न् इन्द्र वि꣡प्रा  
+वयं꣡ ते स्याम सूर꣡यो गृण꣡न्तः  
+भेजाना꣡सो बृह꣡द्दिवस्य राय꣡  
+आकायि꣡यस्य दाव꣡ने पुरुक्षोः꣡  

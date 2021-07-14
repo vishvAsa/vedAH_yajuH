@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-óṣadhīḥ práti modadhvam  
-púṣpavatīḥ prasū́varīḥ  
-áśvā iva sajítvarīr  
-vīrúdhaḥ pārayiṣṇúvaḥ  
+ओ꣡षधीः प्र꣡ति मोदध्वम्  
+पु꣡ष्पवतीः प्रसू꣡वरीः  
+अ꣡श्वा इव सजि꣡त्वरीर्  
+वीरु꣡धः पारयिष्णु꣡वः  

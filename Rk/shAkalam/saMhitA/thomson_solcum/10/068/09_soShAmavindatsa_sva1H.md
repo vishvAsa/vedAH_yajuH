@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sóṣā́m avindat sá súvaḥ só agníṃ  
-só arkéṇa ví babādhe támāṃsi  
-bŕ̥haspátir góvapuṣo valásya  
-nír majjā́naṃ ná párvaṇo jabhāra  
+सो꣡षा꣡म् अविन्दत् स꣡ सु꣡वः सो꣡ अग्निं꣡  
+सो꣡ अर्के꣡ण वि꣡ बबाधे त꣡मांसि  
+ब्ŕ̥हस्प꣡तिर् गो꣡वपुषो वल꣡स्य  
+नि꣡र् मज्जा꣡नं न꣡ प꣡र्वणो जभार  

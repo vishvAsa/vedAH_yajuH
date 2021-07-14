@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-nahí vaś caramáṃ caná  
-vásiṣṭhaḥ parimáṃsate  
-asmā́kam adyá marutaḥ suté sácā  
-víśve pibata kāmínaḥ  
+नहि꣡ वश् चरमं꣡ चन꣡  
+व꣡सिष्ठः परिमं꣡सते  
+अस्मा꣡कम् अद्य꣡ मरुतः सुते꣡ स꣡चा  
+वि꣡श्वे पिबत कामि꣡नः  

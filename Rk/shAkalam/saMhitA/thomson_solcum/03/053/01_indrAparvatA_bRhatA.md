@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índrāparvatā br̥hatā́ ráthena  
-vāmī́r íṣa ā́ vahataṃ suvī́rāḥ  
-vītáṃ havyā́ni adhvaréṣu devā  
-várdhethāṃ gīrbhír íḷayā mádantā  
+इ꣡न्द्रापर्वता बृहता꣡ र꣡थेन  
+वामी꣡र् इ꣡ष आ꣡ वहतं सुवी꣡राः  
+वीतं꣡ हव्या꣡नि अध्वरे꣡षु देवा  
+व꣡र्धेथां गीर्भि꣡र् इ꣡ऌअया म꣡दन्ता  

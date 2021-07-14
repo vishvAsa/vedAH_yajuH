@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-práti vo vr̥ṣadañjayo  
-vŕ̥ṣṇe śárdhāya mā́rutāya bharadhvam  
-havyā́ vŕ̥ṣaprayāvaṇe  
+प्र꣡ति वो वृषदञ्जयो  
+व्ŕ̥ष्णे श꣡र्धाय मा꣡रुताय भरध्वम्  
+हव्या꣡ व्ŕ̥षप्रयावणे  

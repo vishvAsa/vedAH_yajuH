@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-amājúraś cid bhavatho yuvám bhágo  
-anāśóś cid avitā́rāpamásya cit  
-andhásya cin nāsatiyā kr̥śásya cid  
-yuvā́m íd āhur bhiṣájā rutásya cit  
+अमाजु꣡रश् चिद् भवथो युव꣡म् भ꣡गो  
+अनाशो꣡श् चिद् अविता꣡रापम꣡स्य चित्  
+अन्ध꣡स्य चिन् नासतिया कृश꣡स्य चिद्  
+युवा꣡म् इ꣡द् आहुर् भिष꣡जा रुत꣡स्य चित्  

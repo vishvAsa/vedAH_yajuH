@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-satré ha jātā́v iṣitā́ námobhiḥ  
-kumbhé rétaḥ siṣicatuḥ samānám  
-táto ha mā́na úd iyāya mádhyāt  
-táto jātám ŕ̥ṣim āhur vásiṣṭham  
+सत्रे꣡ ह जाता꣡व् इषिता꣡ न꣡मोभिः  
+कुम्भे꣡ रे꣡तः सिषिचतुः समान꣡म्  
+त꣡तो ह मा꣡न उ꣡द् इयाय म꣡ध्यात्  
+त꣡तो जात꣡म् ŕ̥षिम् आहुर् व꣡सिष्ठम्  

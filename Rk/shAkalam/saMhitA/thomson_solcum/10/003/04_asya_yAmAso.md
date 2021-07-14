@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-asyá yā́māso br̥ható ná vagnū́n  
-índhānā agnéḥ sákhiyuḥ śivásya  
-ī́ḍyasya vŕ̥ṣṇo br̥hatáḥ suā́so  
-bhā́māso yā́man aktávaś cikitre  
+अस्य꣡ या꣡मासो बृहतो꣡ न꣡ वग्नू꣡न्  
+इ꣡न्धाना अग्नेः꣡ स꣡खियुः शिव꣡स्य  
+ई꣡ड्यस्य व्ŕ̥ष्णो बृहतः꣡ सुआ꣡सो  
+भा꣡मासो या꣡मन् अक्त꣡वश् चिकित्रे  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ná sá rā́jā vyathate yásmin índras  
-tīvráṃ sómam píbati gósakhāyam  
-ā́ satvanaír ájati hánti vr̥tráṃ  
-kṣéti kṣitī́ḥ subhágo nā́ma púṣyan  
+न꣡ स꣡ रा꣡जा व्यथते य꣡स्मिन् इ꣡न्द्रस्  
+तीव्रं꣡ सो꣡मम् पि꣡बति गो꣡सखायम्  
+आ꣡ सत्वनइ꣡र् अ꣡जति ह꣡न्ति वृत्रं꣡  
+क्षे꣡ति क्षितीः꣡ सुभ꣡गो ना꣡म पु꣡ष्यन्  

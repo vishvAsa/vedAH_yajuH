@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-śatákratum arṇaváṃ śākínaṃ náraṃ  
-gíro ma índram úpa yanti viśvátaḥ  
-vājasánim pūrbhídaṃ tū́rṇim aptúraṃ  
-dhāmasā́cam abhiṣā́caṃ suvarvídam  
+शत꣡क्रतुम् अर्णवं꣡ शाकि꣡नं न꣡रं  
+गि꣡रो म इ꣡न्द्रम् उ꣡प यन्ति विश्व꣡तः  
+वाजस꣡निम् पूर्भि꣡दं तू꣡र्णिम् अप्तु꣡रं  
+धामसा꣡चम् अभिषा꣡चं सुवर्वि꣡दम्  

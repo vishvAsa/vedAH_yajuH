@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-agnér vayám prathamásyāmŕ̥tānām  
-mánāmahe cā́ru devásya nā́ma  
-sá no mahyā́ áditaye púnar dāt  
-pitáraṃ ca dr̥śéyam mātáraṃ ca  
+अग्ने꣡र् वय꣡म् प्रथम꣡स्याम्ŕ̥तानाम्  
+म꣡नामहे चा꣡रु देव꣡स्य ना꣡म  
+स꣡ नो मह्या꣡ अ꣡दितये पु꣡नर् दात्  
+पित꣡रं च दृशे꣡यम् मात꣡रं च  

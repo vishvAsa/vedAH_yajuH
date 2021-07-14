@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-pávamāna vidā́ rayím  
-asmábhyaṃ soma suśríyam  
-índo sahásravarcasam  
+प꣡वमान विदा꣡ रयि꣡म्  
+अस्म꣡भ्यं सोम सुश्रि꣡यम्  
+इ꣡न्दो सह꣡स्रवर्चसम्  

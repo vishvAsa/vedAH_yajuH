@@ -2,7 +2,7 @@
 title = "043"
 
 +++
-añjáte · ví añjate sám añjate  
-krátuṃ rihanti mádhunābhí añjate  
-síndhor ucchvāsé patáyantam ukṣáṇaṃ  
-hiraṇyapāvā́ḥ paśúm āsu gr̥bhṇate  
+अञ्ज꣡ते · वि꣡ अञ्जते स꣡म् अञ्जते  
+क्र꣡तुं रिहन्ति म꣡धुनाभि꣡ अञ्जते  
+सि꣡न्धोर् उच्छ्वासे꣡ पत꣡यन्तम् उक्ष꣡णं  
+हिरण्यपावाः꣡ पशु꣡म् आसु गृभ्णते  

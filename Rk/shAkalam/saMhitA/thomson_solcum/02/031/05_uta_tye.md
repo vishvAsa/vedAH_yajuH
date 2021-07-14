@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-utá tyé devī́ subháge mithūdŕ̥śā  
-uṣā́sānáktā jágatām apījúvā  
-stuṣé yád vām pr̥thivi návyasā váca  
-sthātúś ca váyas trívayā upastíre  
+उत꣡ त्ये꣡ देवी꣡ सुभ꣡गे मिथूद्ŕ̥शा  
+उषा꣡सान꣡क्ता ज꣡गताम् अपीजु꣡वा  
+स्तुषे꣡ य꣡द् वाम् पृथिवि न꣡व्यसा व꣡च  
+स्थातु꣡श् च व꣡यस् त्रि꣡वया उपस्ति꣡रे  

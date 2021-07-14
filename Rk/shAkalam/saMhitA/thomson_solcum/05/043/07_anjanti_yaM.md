@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-añjánti yám pratháyanto ná víprā  
-vapā́vantaṃ ná agnínā tápantaḥ  
-pitúr ná putrá upási práyiṣṭha+  
-ā́ gharmó agním r̥táyann asādi  
+अञ्ज꣡न्ति य꣡म् प्रथ꣡यन्तो न꣡ वि꣡प्रा  
+वपा꣡वन्तं न꣡ अग्नि꣡ना त꣡पन्तः  
+पितु꣡र् न꣡ पुत्र꣡ उप꣡सि प्र꣡यिष्ठ+  
+आ꣡ घर्मो꣡ अग्नि꣡म् ऋत꣡यन्न् असादि  

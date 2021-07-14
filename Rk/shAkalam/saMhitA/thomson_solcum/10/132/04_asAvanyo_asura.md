@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-asā́v anyó asura sūyata dyaús  
-tuváṃ víśveṣāṃ varuṇāsi rā́jā  
-mūrdhā́ ráthasya cākan  
-naítā́vatā énasā antakadhrúk  
+असा꣡व् अन्यो꣡ असुर सूयत द्यउ꣡स्  
+तुवं꣡ वि꣡श्वेषां वरुणासि रा꣡जा  
+मूर्धा꣡ र꣡थस्य चाकन्  
+नइ꣡ता꣡वता ए꣡नसा अन्तकध्रु꣡क्  

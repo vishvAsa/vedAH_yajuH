@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tá ādityā́sa urávo gabhīrā́  
-ádabdhāso dípsanto bhūriakṣā́ḥ  
-antáḥ paśyanti vr̥jinótá sādhú  
-sárvaṃ rā́jabhyaḥ paramā́ cid ánti  
+त꣡ आदित्या꣡स उर꣡वो गभीरा꣡  
+अ꣡दब्धासो दि꣡प्सन्तो भूरिअक्षाः꣡  
+अन्तः꣡ पश्यन्ति वृजिनो꣡त꣡ साधु꣡  
+स꣡र्वं रा꣡जभ्यः परमा꣡ चिद् अ꣡न्ति  

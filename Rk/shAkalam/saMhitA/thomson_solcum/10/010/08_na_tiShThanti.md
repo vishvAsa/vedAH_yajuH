@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ná tiṣṭhanti ná ní miṣanti eté  
-devā́nāṃ spáśa ihá yé cáranti  
-anyéna mád āhano yāhi tū́yaṃ  
-téna ví vr̥ha ráthiyeva cakrā́  
+न꣡ तिष्ठन्ति न꣡ नि꣡ मिषन्ति एते꣡  
+देवा꣡नां स्प꣡श इह꣡ ये꣡ च꣡रन्ति  
+अन्ये꣡न म꣡द् आहनो याहि तू꣡यं  
+ते꣡न वि꣡ वृह र꣡थियेव चक्रा꣡  

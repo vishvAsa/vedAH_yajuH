@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-úd budhyadhvaṃ sámanasaḥ sakhāyaḥ  
-sám agním indhvam bahávaḥ sánīḷāḥ  
-dadhikrā́m agním uṣásaṃ ca devī́m  
-índrāvato ávase ní hvaye vaḥ  
+उ꣡द् बुध्यध्वं स꣡मनसः सखायः  
+स꣡म् अग्नि꣡म् इन्ध्वम् बह꣡वः स꣡नीऌआः  
+दधिक्रा꣡म् अग्नि꣡म् उष꣡सं च देवी꣡म्  
+इ꣡न्द्रावतो अ꣡वसे नि꣡ ह्वये वः  

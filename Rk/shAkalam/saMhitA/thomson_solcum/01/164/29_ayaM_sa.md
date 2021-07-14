@@ -2,7 +2,7 @@
 title = "029"
 
 +++
-ayáṃ sá śiṅkte yéna gaúr abhī́vr̥tā  
-mímāti māyúṃ dhvasánāv ádhi śritā́  
-sā́ cittíbhir ní hí cakā́ra mártiyaṃ  
-vidyúd bhávantī práti vavrím auhata  
+अयं꣡ स꣡ शिङ्क्ते ये꣡न गउ꣡र् अभी꣡वृता  
+मि꣡माति मायुं꣡ ध्वस꣡नाव् अ꣡धि श्रिता꣡  
+सा꣡ चित्ति꣡भिर् नि꣡ हि꣡ चका꣡र म꣡र्तियं  
+विद्यु꣡द् भ꣡वन्ती प्र꣡ति वव्रि꣡म् औहत  

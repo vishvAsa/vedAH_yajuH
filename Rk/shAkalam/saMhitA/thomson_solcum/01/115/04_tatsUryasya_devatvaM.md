@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tát sū́ryasya devatváṃ tán mahitvám  
-madhyā́ kártor vítataṃ sáṃ jabhāra  
-yadéd áyukta harítaḥ sadhásthād  
-ā́d rā́trī vā́sas tanute simásmai  
+त꣡त् सू꣡र्यस्य देवत्वं꣡ त꣡न् महित्व꣡म्  
+मध्या꣡ क꣡र्तोर् वि꣡ततं सं꣡ जभार  
+यदे꣡द् अ꣡युक्त हरि꣡तः सध꣡स्थाद्  
+आ꣡द् रा꣡त्री वा꣡सस् तनुते सिम꣡स्मै  

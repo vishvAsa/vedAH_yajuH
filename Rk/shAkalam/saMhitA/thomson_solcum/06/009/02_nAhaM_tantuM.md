@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-nā́háṃ tántuṃ ná ví jānāmi ótuṃ  
-ná yáṃ váyanti samaré 'tamānāḥ  
-kásya svit putrá ihá váktuvāni  
-paró vadāti ávareṇa pitrā́  
+ना꣡हं꣡ त꣡न्तुं न꣡ वि꣡ जानामि ओ꣡तुं  
+न꣡ यं꣡ व꣡यन्ति समरे꣡ ऽतमानाः  
+क꣡स्य स्वित् पुत्र꣡ इह꣡ व꣡क्तुवानि  
+परो꣡ वदाति अ꣡वरेण पित्रा꣡  

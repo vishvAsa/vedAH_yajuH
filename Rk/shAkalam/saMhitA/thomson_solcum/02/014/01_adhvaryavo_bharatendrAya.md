@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ádhvaryavo bháraténdrāya sómam  
-ā́matrebhiḥ siñcatā mádyam ándhaḥ  
-kāmī́ hí vīráḥ sádam asya pītíṃ  
-juhóta vŕ̥ṣṇe tád íd eśá vaṣṭi  
+अ꣡ध्वर्यवो भ꣡रते꣡न्द्राय सो꣡मम्  
+आ꣡मत्रेभिः सिञ्चता म꣡द्यम् अ꣡न्धः  
+कामी꣡ हि꣡ वीरः꣡ स꣡दम् अस्य पीतिं꣡  
+जुहो꣡त व्ŕ̥ष्णे त꣡द् इ꣡द् एश꣡ वष्टि  

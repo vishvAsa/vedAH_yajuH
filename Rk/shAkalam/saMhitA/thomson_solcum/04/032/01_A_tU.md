@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ā́ tū́ na indra vr̥trahann  
-asmā́kam ardhám ā́ gahi  
-mahā́n mahī́bhir ūtíbhiḥ  
+आ꣡ तू꣡ न इन्द्र वृत्रहन्न्  
+अस्मा꣡कम् अर्ध꣡म् आ꣡ गहि  
+महा꣡न् मही꣡भिर् ऊति꣡भिः  

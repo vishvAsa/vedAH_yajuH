@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-prá skambhádeṣṇā anavabhrárādhaso  
-alātr̥ṇā́so vidátheṣu súṣṭutāḥ  
-árcanti arkám madirásya pītáye  
-vidúr vīrásya prathamā́ni paúṃsiyā  
+प्र꣡ स्कम्भ꣡देष्णा अनवभ्र꣡राधसो  
+अलातृणा꣡सो विद꣡थेषु सु꣡ष्टुताः  
+अ꣡र्चन्ति अर्क꣡म् मदिर꣡स्य पीत꣡ये  
+विदु꣡र् वीर꣡स्य प्रथमा꣡नि पउं꣡सिया  

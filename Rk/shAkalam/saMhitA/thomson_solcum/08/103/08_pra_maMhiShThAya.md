@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-prá máṃhiṣṭhāya gāyata  
-r̥tā́vane br̥haté śukráśociṣe  
-úpastutāso agnáye  
+प्र꣡ मं꣡हिष्ठाय गायत  
+ऋता꣡वने बृहते꣡ शुक्र꣡शोचिषे  
+उ꣡पस्तुतासो अग्न꣡ये  

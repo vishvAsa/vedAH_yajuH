@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-yó asmai havyádātibhir  
-ā́hutim márto ávidhat  
-bhū́ri póṣaṃ sá dhatte vīrávad yáśaḥ  
+यो꣡ अस्मै हव्य꣡दातिभिर्  
+आ꣡हुतिम् म꣡र्तो अ꣡विधत्  
+भू꣡रि पो꣡षं स꣡ धत्ते वीर꣡वद् य꣡शः  

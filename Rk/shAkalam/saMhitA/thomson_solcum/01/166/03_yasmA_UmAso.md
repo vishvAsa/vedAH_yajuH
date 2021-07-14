@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yásmā ū́māso amŕ̥tā árāsata  
-rāyás póṣaṃ ca havíṣā dadāśúṣe  
-ukṣánti asmai marúto hitā́ iva  
-purū́ rájāṃsi páyasā mayobhúvaḥ  
+य꣡स्मा ऊ꣡मासो अम्ŕ̥ता अ꣡रासत  
+राय꣡स् पो꣡षं च हवि꣡षा ददाशु꣡षे  
+उक्ष꣡न्ति अस्मै मरु꣡तो हिता꣡ इव  
+पुरू꣡ र꣡जांसि प꣡यसा मयोभु꣡वः  

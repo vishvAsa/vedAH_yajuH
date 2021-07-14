@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tuvā́m pū́rva ŕ̥ṣayo gīrbhír āyan  
-tvā́m adhvaréṣu puruhūta víśve  
-sahásrāṇi ádhirathāni asmé  
-ā́ no yajñáṃ rohidaśvópa yāhi  
+तुवा꣡म् पू꣡र्व ŕ̥षयो गीर्भि꣡र् आयन्  
+त्वा꣡म् अध्वरे꣡षु पुरुहूत वि꣡श्वे  
+सह꣡स्राणि अ꣡धिरथानि अस्मे꣡  
+आ꣡ नो यज्ञं꣡ रोहिदश्वो꣡प याहि  

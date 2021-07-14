@@ -2,9 +2,9 @@
 title = "007"
 
 +++
-tuváṃ naḥ soma viśváto  
-gopā́ ádābhiyo bhava  
-sédha rājann ápa srídho  
-ví vo máde  
-mā́ no duḥśáṃsa īśatā  
-vívakṣase  
+तुवं꣡ नः सोम विश्व꣡तो  
+गोपा꣡ अ꣡दाभियो भव  
+से꣡ध राजन्न् अ꣡प स्रि꣡धो  
+वि꣡ वो म꣡दे  
+मा꣡ नो दुःशं꣡स ईशता  
+वि꣡वक्षसे  

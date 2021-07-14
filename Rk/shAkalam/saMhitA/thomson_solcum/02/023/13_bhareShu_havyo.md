@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-bháreṣu hávyo námasopasádyo  
-gántā vā́jeṣu sánitā dhánaṃ-dhanam  
-víśvā íd aryó abhidipsúvo mŕ̥dho  
-bŕ̥haspátir ví vavarhā ráthām̐ iva  
+भ꣡रेषु ह꣡व्यो न꣡मसोपस꣡द्यो  
+ग꣡न्ता वा꣡जेषु स꣡निता ध꣡नं-धनम्  
+वि꣡श्वा इ꣡द् अर्यो꣡ अभिदिप्सु꣡वो म्ŕ̥धो  
+ब्ŕ̥हस्प꣡तिर् वि꣡ ववर्हा र꣡थाँ इव  

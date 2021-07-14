@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-mā́ tvā tapat priyá ātmā́piyántam  
-mā́ svádhitis tanvà ā́ tiṣṭhipat te  
-mā́ te gr̥dhnúr aviśastā́tihā́ya  
-chidrā́ gā́trāṇi asínā míthū kaḥ  
+मा꣡ त्वा तपत् प्रिय꣡ आत्मा꣡पिय꣡न्तम्  
+मा꣡ स्व꣡धितिस् तन्व᳡ आ꣡ तिष्ठिपत् ते  
+मा꣡ ते गृध्नु꣡र् अविशस्ता꣡तिहा꣡य  
+छिद्रा꣡ गा꣡त्राणि असि꣡ना मि꣡थू कः  

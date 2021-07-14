@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ebhír dyúbhiḥ sumánā ebhír índubhir  
-nirundhānó ámatiṃ góbhir aśvínā  
-índreṇa dásyuṃ daráyanta índubhir  
-yutádveṣasaḥ sám iṣā́ rabhemahi  
+एभि꣡र् द्यु꣡भिः सुम꣡ना एभि꣡र् इ꣡न्दुभिर्  
+निरुन्धानो꣡ अ꣡मतिं गो꣡भिर् अश्वि꣡ना  
+इ꣡न्द्रेण द꣡स्युं दर꣡यन्त इ꣡न्दुभिर्  
+युत꣡द्वेषसः स꣡म् इषा꣡ रभेमहि  

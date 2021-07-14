@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-áśvinā hariṇā́v iva  
-gaurā́v ivā́nu yávasam  
-haṃsā́v iva patatam ā́ sutā́m̐ úpa  
+अ꣡श्विना हरिणा꣡व् इव  
+गौरा꣡व् इवा꣡नु य꣡वसम्  
+हंसा꣡व् इव पततम् आ꣡ सुताँ꣡ उ꣡प  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-śrudhī́ hávaṃ tiraściyā́  
-índra yás tvā saparyáti  
-suvī́riyasya gómato  
-rāyás pūrdhi mahā́m̐ asi  
+श्रुधी꣡ ह꣡वं तिरश्चिया꣡  
+इ꣡न्द्र य꣡स् त्वा सपर्य꣡ति  
+सुवी꣡रियस्य गो꣡मतो  
+राय꣡स् पूर्धि महाँ꣡ असि  

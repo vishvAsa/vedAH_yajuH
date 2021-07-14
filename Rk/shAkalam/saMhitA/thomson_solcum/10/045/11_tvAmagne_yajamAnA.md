@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-tuvā́m agne yájamānā ánu dyū́n  
-víśvā vásu dadhire vā́riyāṇi  
-tváyā sahá dráviṇam ichámānā  
-vrajáṃ gómantam uśíjo ví vavruḥ  
+तुवा꣡म् अग्ने य꣡जमाना अ꣡नु द्यू꣡न्  
+वि꣡श्वा व꣡सु दधिरे वा꣡रियाणि  
+त्व꣡या सह꣡ द्र꣡विणम् इछ꣡माना  
+व्रजं꣡ गो꣡मन्तम् उशि꣡जो वि꣡ वव्रुः  

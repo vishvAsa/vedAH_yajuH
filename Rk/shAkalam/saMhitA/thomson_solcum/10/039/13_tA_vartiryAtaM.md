@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tā́ vartír yātaṃ jayúṣā ví párvatam  
-ápinvataṃ śayáve dhenúm aśvinā  
-vŕ̥kasya cid vártikām antár āsíyād  
-yuváṃ śácībhir grasitā́m amuñcatam  
+ता꣡ वर्ति꣡र् यातं जयु꣡षा वि꣡ प꣡र्वतम्  
+अ꣡पिन्वतं शय꣡वे धेनु꣡म् अश्विना  
+व्ŕ̥कस्य चिद् व꣡र्तिकाम् अन्त꣡र् आसि꣡याद्  
+युवं꣡ श꣡चीभिर् ग्रसिता꣡म् अमुञ्चतम्  

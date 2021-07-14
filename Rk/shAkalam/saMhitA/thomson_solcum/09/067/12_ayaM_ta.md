@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-ayáṃ ta āghr̥ṇe sutó  
-ghr̥táṃ ná pavate śúci  
-ā́ bhakṣat kaníyāsu naḥ  
+अयं꣡ त आघृणे सुतो꣡  
+घृतं꣡ न꣡ पवते शु꣡चि  
+आ꣡ भक्षत् कनि꣡यासु नः  

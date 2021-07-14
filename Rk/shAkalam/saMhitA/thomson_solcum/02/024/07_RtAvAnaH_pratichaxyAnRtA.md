@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-r̥tā́vānaḥ praticákṣyā́nr̥tā púnar  
-ā́ta ā́ tasthuḥ kaváyo mahás patháḥ  
-té bāhúbhyāṃ dhamitám agním áśmani  
-nákiḥ ṣó asti áraṇo jahúr hí tám  
+ऋता꣡वानः प्रतिच꣡क्ष्या꣡नृता पु꣡नर्  
+आ꣡त आ꣡ तस्थुः कव꣡यो मह꣡स् पथः꣡  
+ते꣡ बाहु꣡भ्यां धमित꣡म् अग्नि꣡म् अ꣡श्मनि  
+न꣡किः षो꣡ अस्ति अ꣡रणो जहु꣡र् हि꣡ त꣡म्  

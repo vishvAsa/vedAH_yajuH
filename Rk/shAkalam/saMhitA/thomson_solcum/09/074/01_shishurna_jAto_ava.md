@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-śíśur ná jātó áva cakradad váne  
-súvar yád vājī́ aruṣáḥ síṣāsati  
-divó rétasā sacate payovŕ̥dhā  
-tám īmahe sumatī́ śárma sapráthaḥ  
+शि꣡शुर् न꣡ जातो꣡ अ꣡व चक्रदद् व꣡ने  
+सु꣡वर् य꣡द् वाजी꣡ अरुषः꣡ सि꣡षासति  
+दिवो꣡ रे꣡तसा सचते पयोव्ŕ̥धा  
+त꣡म् ईमहे सुमती꣡ श꣡र्म सप्र꣡थः  

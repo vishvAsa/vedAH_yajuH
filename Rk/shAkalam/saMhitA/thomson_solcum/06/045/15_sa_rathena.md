@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-sá ráthena rathī́tamo  
-asmā́kenābhiyúgvanā  
-jéṣi jiṣṇo hitáṃ dhánam  
+स꣡ र꣡थेन रथी꣡तमो  
+अस्मा꣡केनाभियु꣡ग्वना  
+जे꣡षि जिष्णो हितं꣡ ध꣡नम्  

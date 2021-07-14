@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-ichánti devā́ḥ sunvántaṃ  
-ná svápnāya spr̥hayanti  
-yánti pramā́dam átandrāḥ  
+इछ꣡न्ति देवाः꣡ सुन्व꣡न्तं  
+न꣡ स्व꣡प्नाय स्पृहयन्ति  
+य꣡न्ति प्रमा꣡दम् अ꣡तन्द्राः  

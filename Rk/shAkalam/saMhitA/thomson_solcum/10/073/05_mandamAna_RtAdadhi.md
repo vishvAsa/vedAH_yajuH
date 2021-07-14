@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mándamāna r̥tā́d ádhi prajā́yai  
-sákhibhir índra iṣirébhir ártham  
-ā́bhir hí māyā́ úpa dásyum ā́gān  
-míhaḥ prá tamrā́ avapat támāṃsi  
+म꣡न्दमान ऋता꣡द् अ꣡धि प्रजा꣡यै  
+स꣡खिभिर् इ꣡न्द्र इषिरे꣡भिर् अ꣡र्थम्  
+आ꣡भिर् हि꣡ माया꣡ उ꣡प द꣡स्युम् आ꣡गान्  
+मि꣡हः प्र꣡ तम्रा꣡ अवपत् त꣡मांसि  

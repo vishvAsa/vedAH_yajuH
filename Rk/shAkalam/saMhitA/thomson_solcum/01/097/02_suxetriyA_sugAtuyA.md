@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sukṣetriyā́ sugātuyā́  
-vasūyā́ ca yajāmahe  
-ápa naḥ śóśucad aghám  
+सुक्षेत्रिया꣡ सुगातुया꣡  
+वसूया꣡ च यजामहे  
+अ꣡प नः शो꣡शुचद् अघ꣡म्  

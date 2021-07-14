@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tád ín nú asya vr̥ṣabhásya dhenór  
-ā́ nā́mabhir mamire sákmiyaṃ góḥ  
-anyád-anyad asuríyaṃ vásānā  
-ní māyíno mamire rūpám asmin  
+त꣡द् इ꣡न् नु꣡ अस्य वृषभ꣡स्य धेनो꣡र्  
+आ꣡ ना꣡मभिर् ममिरे स꣡क्मियं गोः꣡  
+अन्य꣡द्-अन्यद् असुरि꣡यं व꣡साना  
+नि꣡ मायि꣡नो ममिरे रूप꣡म् अस्मिन्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yó asmā ánnaṃ tr̥ṣú ādádhāti  
-ā́jiyair ghr̥taír juhóti púṣyati  
-tásmai sahásram akṣábhir ví cakṣe  
-ágne viśvátaḥ pratiáṅṅ asi tvám  
+यो꣡ अस्मा अ꣡न्नं तृषु꣡ आद꣡धाति  
+आ꣡जियैर् घृतइ꣡र् जुहो꣡ति पु꣡ष्यति  
+त꣡स्मै सह꣡स्रम् अक्ष꣡भिर् वि꣡ चक्षे  
+अ꣡ग्ने विश्व꣡तः प्रतिअ꣡ङ्ङ् असि त्व꣡म्  

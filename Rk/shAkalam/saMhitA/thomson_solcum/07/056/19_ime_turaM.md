@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-imé turám marúto rāmayanti  
-imé sáhaḥ sáhasa ā́ namanti  
-imé śáṃsaṃ vanuṣyató ní pānti  
-gurú dvéṣo áraruṣe dadhanti  
+इमे꣡ तुर꣡म् मरु꣡तो रामयन्ति  
+इमे꣡ स꣡हः स꣡हस आ꣡ नमन्ति  
+इमे꣡ शं꣡सं वनुष्यतो꣡ नि꣡ पान्ति  
+गुरु꣡ द्वे꣡षो अ꣡ररुषे दधन्ति  

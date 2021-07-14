@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ te ávo váreṇiyaṃ  
-vŕ̥ṣantamasya hūmahe  
-vŕ̥ṣajūtir hí jajñiṣá  
-ābhū́bhir indra turváṇiḥ  
+आ꣡ ते अ꣡वो व꣡रेणियं  
+व्ŕ̥षन्तमस्य हूमहे  
+व्ŕ̥षजूतिर् हि꣡ जज्ञिष꣡  
+आभू꣡भिर् इन्द्र तुर्व꣡णिः  

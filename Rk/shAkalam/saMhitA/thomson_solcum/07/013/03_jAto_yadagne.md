@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-jātó yád agne bhúvanā ví ákhyaḥ  
-paśū́n ná gopā́ íriyaḥ párijmā  
-vaíśvānara bráhmaṇe vinda gātúṃ  
-yūyám pāta suastíbhiḥ sádā naḥ  
+जातो꣡ य꣡द् अग्ने भु꣡वना वि꣡ अ꣡ख्यः  
+पशू꣡न् न꣡ गोपा꣡ इ꣡रियः प꣡रिज्मा  
+वइ꣡श्वानर ब्र꣡ह्मणे विन्द गातुं꣡  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

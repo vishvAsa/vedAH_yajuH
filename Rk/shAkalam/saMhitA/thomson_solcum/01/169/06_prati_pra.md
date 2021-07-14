@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-práti prá yāhīndra mīḷhúṣo nr̥̄́n  
-maháḥ pā́rthive sádane yatasva  
-ádha yád eṣām pr̥thubudhnā́sa étās  
-tīrthé ná aryáḥ paúṃsiyāni tasthúḥ  
+प्र꣡ति प्र꣡ याहीन्द्र मीऌहु꣡षो नॄ꣡न्  
+महः꣡ पा꣡र्थिवे स꣡दने यतस्व  
+अ꣡ध य꣡द् एषाम् पृथुबुध्ना꣡स ए꣡तास्  
+तीर्थे꣡ न꣡ अर्यः꣡ पउं꣡सियानि तस्थुः꣡  

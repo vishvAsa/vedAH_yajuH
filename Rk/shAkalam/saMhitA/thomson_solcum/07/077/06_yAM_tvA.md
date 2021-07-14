@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yā́ṃ tvā divo duhitar vardháyanti  
-úṣaḥ sujāte matíbhir vásiṣṭhāḥ  
-sā́smā́su dhā rayím r̥ṣvám br̥hántaṃ  
-yūyám pāta suastíbhiḥ sádā naḥ  
+यां꣡ त्वा दिवो दुहितर् वर्ध꣡यन्ति  
+उ꣡षः सुजाते मति꣡भिर् व꣡सिष्ठाः  
+सा꣡स्मा꣡सु धा रयि꣡म् ऋष्व꣡म् बृह꣡न्तं  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

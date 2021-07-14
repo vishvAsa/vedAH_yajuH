@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-dáśa te kaláśānãṃ  
-híraṇyānām adhīmahi  
-bhūridā́ asi vr̥trahan  
+द꣡श ते कल꣡शान्ãं  
+हि꣡रण्यानाम् अधीमहि  
+भूरिदा꣡ असि वृत्रहन्  

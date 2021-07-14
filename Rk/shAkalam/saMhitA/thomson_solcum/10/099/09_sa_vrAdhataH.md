@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sá vrā́dhataḥ śavasānébhir asya  
-kútsāya śúṣṇaṃ kr̥páṇe párādāt  
-ayáṃ kavím anayac chasyámānam  
-átkaṃ yó asya sánitotá nr̥̄ṇā́m+  
+स꣡ व्रा꣡धतः शवसाने꣡भिर् अस्य  
+कु꣡त्साय शु꣡ष्णं कृप꣡णे प꣡रादात्  
+अयं꣡ कवि꣡म् अनयच् छस्य꣡मानम्  
+अ꣡त्कं यो꣡ अस्य स꣡नितोत꣡ नॄणा꣡म्+  

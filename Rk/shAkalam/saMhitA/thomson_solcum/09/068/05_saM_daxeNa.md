@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sáṃ dákṣeṇa mánasā jāyate kavír  
-r̥tásya gárbho níhito yamā́ paráḥ  
-yū́nā ha sántā prathamáṃ ví jajñatur  
-gúhā hitáṃ jánima némam údyatam  
+सं꣡ द꣡क्षेण म꣡नसा जायते कवि꣡र्  
+ऋत꣡स्य ग꣡र्भो नि꣡हितो यमा꣡ परः꣡  
+यू꣡ना ह स꣡न्ता प्रथमं꣡ वि꣡ जज्ञतुर्  
+गु꣡हा हितं꣡ ज꣡निम ने꣡मम् उ꣡द्यतम्  

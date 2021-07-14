@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-sutá índrāya víṣṇave  
-sómaḥ kaláśe akṣarat  
-mádhumām̐ astu vāyáve  
+सुत꣡ इ꣡न्द्राय वि꣡ष्णवे  
+सो꣡मः कल꣡शे अक्षरत्  
+म꣡धुमाँ अस्तु वाय꣡वे  

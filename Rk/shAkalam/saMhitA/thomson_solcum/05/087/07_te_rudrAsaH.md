@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-té rudrā́saḥ súmakhā agnáyo yathā  
-tuvidyumnā́ avantu evayā́marut  
-dīrghám pr̥thú paprathe sádma pā́rthivaṃ  
-yéṣām ájmeṣu ā́ maháḥ  
-śárdhāṃsi ádbhutainasām  
+ते꣡ रुद्रा꣡सः सु꣡मखा अग्न꣡यो यथा  
+तुविद्युम्ना꣡ अवन्तु एवया꣡मरुत्  
+दीर्घ꣡म् पृथु꣡ पप्रथे स꣡द्म पा꣡र्थिवं  
+ये꣡षाम् अ꣡ज्मेषु आ꣡ महः꣡  
+श꣡र्धांसि अ꣡द्भुतैनसाम्  

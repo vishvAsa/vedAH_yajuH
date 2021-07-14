@@ -2,9 +2,9 @@
 title = "008"
 
 +++
-ágne śukréṇa śocíṣā  
-urú prathayase br̥hát  
-abhikrándan vr̥ṣāyase  
-ví vo máde  
-gárbhaṃ dadhāsi jāmíṣu  
-vívakṣase  
+अ꣡ग्ने शुक्रे꣡ण शोचि꣡षा  
+उरु꣡ प्रथयसे बृह꣡त्  
+अभिक्र꣡न्दन् वृषायसे  
+वि꣡ वो म꣡दे  
+ग꣡र्भं दधासि जामि꣡षु  
+वि꣡वक्षसे  

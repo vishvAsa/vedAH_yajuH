@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-dadhikrā́m agním uṣásaṃ ca devī́m  
-bŕ̥haspátiṃ savitā́raṃ ca devám  
-aśvínā mitrā́váruṇā bhágaṃ ca  
-vásūn rudrā́m̐ ādityā́m̐ ihá huve  
+दधिक्रा꣡म् अग्नि꣡म् उष꣡सं च देवी꣡म्  
+ब्ŕ̥हस्प꣡तिं सविता꣡रं च देव꣡म्  
+अश्वि꣡ना मित्रा꣡व꣡रुणा भ꣡गं च  
+व꣡सून् रुद्राँ꣡ आदित्याँ꣡ इह꣡ हुवे  

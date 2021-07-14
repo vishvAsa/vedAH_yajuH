@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mahā́n sadhásthe dhruvá ā́ níṣatto  
-antár dyā́vā mā́hine háryamāṇaḥ  
-ā́skre sapátnī ajáre ámr̥kte  
-sabardúghe urugāyásya dhenū́  
+महा꣡न् सध꣡स्थे ध्रुव꣡ आ꣡ नि꣡षत्तो  
+अन्त꣡र् द्या꣡वा मा꣡हिने ह꣡र्यमाणः  
+आ꣡स्क्रे सप꣡त्नी अज꣡रे अ꣡मृक्ते  
+सबर्दु꣡घे उरुगाय꣡स्य धेनू꣡  

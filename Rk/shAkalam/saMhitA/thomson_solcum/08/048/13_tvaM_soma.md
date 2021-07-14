@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tuváṃ soma pitŕ̥bhiḥ saṃvidānó  
-ánu dyā́vāpr̥thivī́ ā́ tatantha  
-tásmai ta indo havíṣā vidhema  
-vayáṃ siyāma pátayo rayīṇā́m  
+तुवं꣡ सोम पित्ŕ̥भिः संविदानो꣡  
+अ꣡नु द्या꣡वापृथिवी꣡ आ꣡ ततन्थ  
+त꣡स्मै त इन्दो हवि꣡षा विधेम  
+वयं꣡ सियाम प꣡तयो रयीणा꣡म्  

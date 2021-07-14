@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ naḥ soma pávamānaḥ kirā vásu  
-índo bháva maghávā rā́dhaso maháḥ  
-śíkṣā vayodho vásave sú cetúnā  
-mā́ no gáyam āré asmát párā sicaḥ  
+आ꣡ नः सोम प꣡वमानः किरा व꣡सु  
+इ꣡न्दो भ꣡व मघ꣡वा रा꣡धसो महः꣡  
+शि꣡क्षा वयोधो व꣡सवे सु꣡ चेतु꣡ना  
+मा꣡ नो ग꣡यम् आरे꣡ अस्म꣡त् प꣡रा सिचः  

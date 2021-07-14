@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-utó no asyá kásya cid  
-dákṣasya táva vr̥trahan  
-asmábhyaṃ nr̥mṇám ā́ bhara  
-asmábhyaṃ nr̥maṇasyase  
+उतो꣡ नो अस्य꣡ क꣡स्य चिद्  
+द꣡क्षस्य त꣡व वृत्रहन्  
+अस्म꣡भ्यं नृम्ण꣡म् आ꣡ भर  
+अस्म꣡भ्यं नृमणस्यसे  

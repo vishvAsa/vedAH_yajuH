@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ní durgá indra śnathihi amítrān  
-abhí yé no mártiāso° amánti  
-āré táṃ śáṃsaṃ kr̥ṇuhi ninitsór  
-ā́ no bhara sambháraṇaṃ vásūnām  
+नि꣡ दुर्ग꣡ इन्द्र श्नथिहि अमि꣡त्रान्  
+अभि꣡ ये꣡ नो म꣡र्तिआसो° अम꣡न्ति  
+आरे꣡ तं꣡ शं꣡सं कृणुहि निनित्सो꣡र्  
+आ꣡ नो भर सम्भ꣡रणं व꣡सूनाम्  

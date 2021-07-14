@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuvā́m íd asyā́ uṣáso víuṣṭiṣu  
-dūtáṃ kr̥ṇvānā́ ayajanta mā́nuṣāḥ  
-tvā́ṃ devā́ mahayā́yiyāya vāvr̥dhur  
-ā́jiyam agne nimr̥jánto adhvaré  
+तुवा꣡म् इ꣡द् अस्या꣡ उष꣡सो वि꣡उष्टिषु  
+दूतं꣡ कृण्वाना꣡ अयजन्त मा꣡नुषाः  
+त्वां꣡ देवा꣡ महया꣡यियाय वावृधुर्  
+आ꣡जियम् अग्ने निमृज꣡न्तो अध्वरे꣡  

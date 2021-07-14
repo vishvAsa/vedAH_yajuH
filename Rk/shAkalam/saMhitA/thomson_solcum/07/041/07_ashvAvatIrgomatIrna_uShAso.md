@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-áśvāvatīr gómatīr na uṣā́so  
-vīrávatīḥ sádam uchantu bhadrā́ḥ  
-ghr̥táṃ dúhānā viśvátaḥ prápītā  
-yūyám pāta suastíbhiḥ sádā naḥ  
+अ꣡श्वावतीर् गो꣡मतीर् न उषा꣡सो  
+वीर꣡वतीः स꣡दम् उछन्तु भद्राः꣡  
+घृतं꣡ दु꣡हाना विश्व꣡तः प्र꣡पीता  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-tám u abhí prá arcata  
-índraṃ sómasya pītáye  
-tád íd dhí asya várdhanam  
+त꣡म् उ अभि꣡ प्र꣡ अर्चत  
+इ꣡न्द्रं सो꣡मस्य पीत꣡ये  
+त꣡द् इ꣡द् धि꣡ अस्य व꣡र्धनम्  

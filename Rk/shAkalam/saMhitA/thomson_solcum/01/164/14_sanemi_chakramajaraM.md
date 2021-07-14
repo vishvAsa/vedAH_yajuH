@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-sánemi cakrám ajáraṃ ví vāvr̥ta  
-uttānā́yāṃ dáśa yuktā́ vahanti  
-sū́ryasya cákṣū rájasaiti ā́vr̥taṃ  
-tásminn ā́rpitā bhúvanāni víśvā  
+स꣡नेमि चक्र꣡म् अज꣡रं वि꣡ वावृत  
+उत्ताना꣡यां द꣡श युक्ता꣡ वहन्ति  
+सू꣡र्यस्य च꣡क्षू र꣡जसैति आ꣡वृतं  
+त꣡स्मिन्न् आ꣡र्पिता भु꣡वनानि वि꣡श्वा  

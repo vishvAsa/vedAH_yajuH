@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-pūrvī́ś cid dhí tvé tuvikūrmin āśáso  
-hávanta indra ūtáyaḥ  
-tiráś cid aryáḥ sávanā́ vaso gahi  
-śáviṣṭha śrudhí me hávam  
+पूर्वी꣡श् चिद् धि꣡ त्वे꣡ तुविकूर्मिन् आश꣡सो  
+ह꣡वन्त इन्द्र ऊत꣡यः  
+तिर꣡श् चिद् अर्यः꣡ स꣡वना꣡ वसो गहि  
+श꣡विष्ठ श्रुधि꣡ मे ह꣡वम्  

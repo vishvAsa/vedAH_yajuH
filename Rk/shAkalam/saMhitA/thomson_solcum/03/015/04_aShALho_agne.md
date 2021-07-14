@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-áṣāḷho agne vr̥ṣabhó didīhi  
-púro víśvāḥ saúbhagā saṃjigīvā́n  
-yajñásya netā́ prathamásya pāyór  
-jā́tavedo br̥hatáḥ supraṇīte  
+अ꣡षाऌहो अग्ने वृषभो꣡ दिदीहि  
+पु꣡रो वि꣡श्वाः सउ꣡भगा संजिगीवा꣡न्  
+यज्ञ꣡स्य नेता꣡ प्रथम꣡स्य पायो꣡र्  
+जा꣡तवेदो बृहतः꣡ सुप्रणीते  

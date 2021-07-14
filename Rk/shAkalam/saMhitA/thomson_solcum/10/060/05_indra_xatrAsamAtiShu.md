@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-índra kṣatrā́samātiṣu  
-ráthaproṣṭheṣu dhāraya  
-divī́va sū́riyaṃ dr̥śé  
+इ꣡न्द्र क्षत्रा꣡समातिषु  
+र꣡थप्रोष्ठेषु धारय  
+दिवी꣡व सू꣡रियं दृशे꣡  

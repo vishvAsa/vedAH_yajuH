@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-bhadrā́ te hástā súkr̥totá pāṇī́  
-prayantā́rā stuvaté rā́dha indra  
-kā́ te níṣattiḥ kím u nó mamatsi  
-kíṃ nód-ud u harṣase dā́tavā́ u  
+भद्रा꣡ ते ह꣡स्ता सु꣡कृतोत꣡ पाणी꣡  
+प्रयन्ता꣡रा स्तुवते꣡ रा꣡ध इन्द्र  
+का꣡ ते नि꣡षत्तिः कि꣡म् उ नो꣡ ममत्सि  
+किं꣡ नो꣡द्-उद् उ हर्षसे दा꣡तवा꣡ उ  

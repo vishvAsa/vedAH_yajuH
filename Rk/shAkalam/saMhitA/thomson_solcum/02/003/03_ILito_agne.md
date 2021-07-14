@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-īḷitó agne mánasā no árhan  
-devā́n yakṣi mā́nuṣāt pū́rvo adyá  
-sá ā́ vaha marútāṃ śárdho ácyutam  
-índraṃ naro barhiṣádaṃ yajadhvam  
+ईऌइतो꣡ अग्ने म꣡नसा नो अ꣡र्हन्  
+देवा꣡न् यक्षि मा꣡नुषात् पू꣡र्वो अद्य꣡  
+स꣡ आ꣡ वह मरु꣡तां श꣡र्धो अ꣡च्युतम्  
+इ꣡न्द्रं नरो बर्हिष꣡दं यजध्वम्  

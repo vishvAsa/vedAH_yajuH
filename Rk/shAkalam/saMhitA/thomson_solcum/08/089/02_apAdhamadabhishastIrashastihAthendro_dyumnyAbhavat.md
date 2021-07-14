@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ápādhamad abhíśastīr aśastihā́  
-áthéndro dyumnī́ ā́bhavat  
-devā́s ta indra sakhiyā́ya yemire  
-bŕ̥hadbhāno márudgaṇa  
+अ꣡पाधमद् अभि꣡शस्तीर् अशस्तिहा꣡  
+अ꣡थे꣡न्द्रो द्युम्नी꣡ आ꣡भवत्  
+देवा꣡स् त इन्द्र सखिया꣡य येमिरे  
+ब्ŕ̥हद्भानो म꣡रुद्गण  

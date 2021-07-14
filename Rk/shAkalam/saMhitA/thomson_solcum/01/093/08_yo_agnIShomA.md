@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yó agnī́ṣómā havíṣā saparyā́d  
-devadrī́cā mánasā yó ghr̥téna  
-tásya vratáṃ rakṣatam pātám áṃhaso  
-viśé jánāya máhi śárma yachatam  
+यो꣡ अग्नी꣡षो꣡मा हवि꣡षा सपर्या꣡द्  
+देवद्री꣡चा म꣡नसा यो꣡ घृते꣡न  
+त꣡स्य व्रतं꣡ रक्षतम् पात꣡म् अं꣡हसो  
+विशे꣡ ज꣡नाय म꣡हि श꣡र्म यछतम्  

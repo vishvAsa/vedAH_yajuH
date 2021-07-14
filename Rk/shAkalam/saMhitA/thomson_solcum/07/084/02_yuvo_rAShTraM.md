@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yuvó rāṣṭarám br̥hád invati dyaúr  
-yaú setŕ̥bhir arajjúbhiḥ sinītháḥ  
-pári no héḷo váruṇasya vr̥jyā  
-urúṃ na índraḥ kr̥ṇavad ulokám†  
+युवो꣡ राष्टर꣡म् बृह꣡द् इन्वति द्यउ꣡र्  
+यउ꣡ सेत्ŕ̥भिर् अरज्जु꣡भिः सिनीथः꣡  
+प꣡रि नो हे꣡ऌओ व꣡रुणस्य वृज्या  
+उरुं꣡ न इ꣡न्द्रः कृणवद् उलोक꣡म्†  

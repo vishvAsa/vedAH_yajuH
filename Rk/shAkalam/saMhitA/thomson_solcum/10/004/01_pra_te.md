@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá te yakṣi prá ta iyarmi mánma  
-bhúvo yáthā vándiyo no háveṣu  
-dhánvann iva prapā́ asi tvám agna  
-iyakṣáve pūráve pratna rājan  
+प्र꣡ ते यक्षि प्र꣡ त इयर्मि म꣡न्म  
+भु꣡वो य꣡था व꣡न्दियो नो ह꣡वेषु  
+ध꣡न्वन्न् इव प्रपा꣡ असि त्व꣡म् अग्न  
+इयक्ष꣡वे पूर꣡वे प्रत्न राजन्  

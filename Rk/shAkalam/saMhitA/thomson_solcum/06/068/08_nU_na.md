@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-nṹ na indrāvaruṇā gr̥ṇānā́  
-pr̥ṅktáṃ rayíṃ sauśravasā́ya devā  
-itthā́ gr̥ṇánto mahínasya śárdho  
-apó ná nāvā́ duritā́ tarema  
+न्ũ꣡ न इन्द्रावरुणा गृणाना꣡  
+पृङ्क्तं꣡ रयिं꣡ सौश्रवसा꣡य देवा  
+इत्था꣡ गृण꣡न्तो महि꣡नस्य श꣡र्धो  
+अपो꣡ न꣡ नावा꣡ दुरिता꣡ तरेम  

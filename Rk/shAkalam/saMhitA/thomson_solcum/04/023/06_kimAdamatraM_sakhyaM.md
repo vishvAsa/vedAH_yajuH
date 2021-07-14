@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-kím ā́d ámatraṃ sakhiyáṃ sákhibhyaḥ  
-kadā́ nú te bhrātarám prá bravāma  
-śriyé sudŕ̥śo vápur asya sárgāḥ  
-súvar ṇá citrátamam iṣa ā́ góḥ  
+कि꣡म् आ꣡द् अ꣡मत्रं सखियं꣡ स꣡खिभ्यः  
+कदा꣡ नु꣡ ते भ्रातर꣡म् प्र꣡ ब्रवाम  
+श्रिये꣡ सुद्ŕ̥शो व꣡पुर् अस्य स꣡र्गाः  
+सु꣡वर् ण꣡ चित्र꣡तमम् इष आ꣡ गोः꣡  

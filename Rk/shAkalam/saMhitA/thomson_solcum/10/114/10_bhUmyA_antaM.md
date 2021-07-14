@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-bhū́myā ántam pári éke caranti  
-ráthasya dhūrṣú yuktā́so asthuḥ  
-śrámasya dāyáṃ ví bhajanti ebhiyo  
-yadā́ yamó bhávati harmiyé hitáḥ  
+भू꣡म्या अ꣡न्तम् प꣡रि ए꣡के चरन्ति  
+र꣡थस्य धूर्षु꣡ युक्ता꣡सो अस्थुः  
+श्र꣡मस्य दायं꣡ वि꣡ भजन्ति एभियो  
+यदा꣡ यमो꣡ भ꣡वति हर्मिये꣡ हितः꣡  

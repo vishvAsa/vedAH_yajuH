@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prayuñjatī́ divá eti bruvāṇā́  
-mahī́ mātā́ duhitúr bodháyantī  
-āvívāsantī yuvatír manīṣā́  
-pitŕ̥bhya ā́ sádane jóhuvānā  
+प्रयुञ्जती꣡ दिव꣡ एति ब्रुवाणा꣡  
+मही꣡ माता꣡ दुहितु꣡र् बोध꣡यन्ती  
+आवि꣡वासन्ती युवति꣡र् मनीषा꣡  
+पित्ŕ̥भ्य आ꣡ स꣡दने जो꣡हुवाना  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-bhurántu no yaśásaḥ sótu ándhaso  
-grā́vāṇo vācā́ divítā divítmatā  
-náro yátra duhaté kā́miyam mádhu  
-āghoṣáyanto abhíto mithastúraḥ  
+भुर꣡न्तु नो यश꣡सः सो꣡तु अ꣡न्धसो  
+ग्रा꣡वाणो वाचा꣡ दिवि꣡ता दिवि꣡त्मता  
+न꣡रो य꣡त्र दुहते꣡ का꣡मियम् म꣡धु  
+आघोष꣡यन्तो अभि꣡तो मिथस्तु꣡रः  

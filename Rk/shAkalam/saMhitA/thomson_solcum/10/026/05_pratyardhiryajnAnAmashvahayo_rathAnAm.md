@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prátiardhir yajñā́nãm  
-aśvahayó ráthānãm  
-ŕ̥ṣiḥ sá yó mánurhito  
-víprasya yāvayatsakháḥ  
+प्र꣡तिअर्धिर् यज्ञा꣡न्ãम्  
+अश्वहयो꣡ र꣡थान्ãम्  
+ŕ̥षिः स꣡ यो꣡ म꣡नुर्हितो  
+वि꣡प्रस्य यावयत्सखः꣡  

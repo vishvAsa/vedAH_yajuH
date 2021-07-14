@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sá hótā yásya ródasī cid urvī́  
-yajñáṃ-yajñam abhí vr̥dhé gr̥ṇītáḥ  
-prā́cī adhvaréva tasthatuḥ suméke  
-r̥tā́varī r̥tájātasya satyé  
+स꣡ हो꣡ता य꣡स्य रो꣡दसी चिद् उर्वी꣡  
+यज्ञं꣡-यज्ञम् अभि꣡ वृधे꣡ गृणीतः꣡  
+प्रा꣡ची अध्वरे꣡व तस्थतुः सुमे꣡के  
+ऋता꣡वरी ऋत꣡जातस्य सत्ये꣡  

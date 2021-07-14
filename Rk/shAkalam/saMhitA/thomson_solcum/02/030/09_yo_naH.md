@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yó naḥ sánutya utá vā jighatnúr  
-abhikhyā́ya táṃ tigiténa vidhya  
-bŕ̥haspata ā́yudhair jeṣi śátrūn  
-druhé rī́ṣantam pári dhehi rājan  
+यो꣡ नः स꣡नुत्य उत꣡ वा जिघत्नु꣡र्  
+अभिख्या꣡य तं꣡ तिगिते꣡न विध्य  
+ब्ŕ̥हस्पत आ꣡युधैर् जेषि श꣡त्रून्  
+द्रुहे꣡ री꣡षन्तम् प꣡रि धेहि राजन्  

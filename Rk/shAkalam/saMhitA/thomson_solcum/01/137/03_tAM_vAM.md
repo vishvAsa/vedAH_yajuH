@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-tā́ṃ vāṃ dhenúṃ ná vāsarī́m  
-aṃśúṃ duhanti ádribhiḥ  
-sómaṃ duhanti ádribhiḥ  
-asmatrā́ gantam úpa no  
-arvā́ñcā sómapītaye  
-ayáṃ vām mitrāvaruṇā nŕ̥bhiḥ sutáḥ  
-sóma ā́ pītáye sutáḥ  
+तां꣡ वां धेनुं꣡ न꣡ वासरी꣡म्  
+अंशुं꣡ दुहन्ति अ꣡द्रिभिः  
+सो꣡मं दुहन्ति अ꣡द्रिभिः  
+अस्मत्रा꣡ गन्तम् उ꣡प नो  
+अर्वा꣡ञ्चा सो꣡मपीतये  
+अयं꣡ वाम् मित्रावरुणा न्ŕ̥भिः सुतः꣡  
+सो꣡म आ꣡ पीत꣡ये सुतः꣡  

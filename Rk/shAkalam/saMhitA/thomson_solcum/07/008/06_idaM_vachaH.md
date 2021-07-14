@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-idáṃ vácaḥ śatasā́ḥ sáṃsahasram  
-úd agnáye janiṣīṣṭa dvibárhāḥ  
-śáṃ yát stotŕ̥bhya āpáye bhávāti  
-dyumád amīvacā́tanaṃ rakṣohā́  
+इदं꣡ व꣡चः शतसाः꣡ सं꣡सहस्रम्  
+उ꣡द् अग्न꣡ये जनिषीष्ट द्विब꣡र्हाः  
+शं꣡ य꣡त् स्तोत्ŕ̥भ्य आप꣡ये भ꣡वाति  
+द्युम꣡द् अमीवचा꣡तनं रक्षोहा꣡  

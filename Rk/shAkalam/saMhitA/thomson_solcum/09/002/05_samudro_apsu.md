@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-samudró apsú māmr̥je  
-viṣṭambhó dharúṇo diváḥ  
-sómaḥ pavítre asmayúḥ  
+समुद्रो꣡ अप्सु꣡ मामृजे  
+विष्टम्भो꣡ धरु꣡णो दिवः꣡  
+सो꣡मः पवि꣡त्रे अस्मयुः꣡  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-arvācī́naṃ sú te mána  
-utá cákṣuḥ śatakrato  
-índra kr̥ṇvántu vāghátaḥ  
+अर्वाची꣡नं सु꣡ ते म꣡न  
+उत꣡ च꣡क्षुः शतक्रतो  
+इ꣡न्द्र कृण्व꣡न्तु वाघ꣡तः  

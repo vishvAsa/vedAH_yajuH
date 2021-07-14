@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yásya tvám · indra stómeṣu cākáno  
-vā́je vājiñ chatakrato  
-táṃ tvā vayáṃ sudúghām iva godúho  
-juhūmási śravasyávaḥ  
+य꣡स्य त्व꣡म् · इन्द्र स्तो꣡मेषु चाक꣡नो  
+वा꣡जे वाजिञ् छतक्रतो  
+तं꣡ त्वा वयं꣡ सुदु꣡घाम् इव गोदु꣡हो  
+जुहूम꣡सि श्रवस्य꣡वः  

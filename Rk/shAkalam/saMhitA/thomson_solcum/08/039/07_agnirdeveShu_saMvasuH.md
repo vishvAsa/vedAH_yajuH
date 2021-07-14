@@ -2,9 +2,9 @@
 title = "007"
 
 +++
-agnír devéṣu sáṃvasuḥ  
-sá vikṣú yajñíyāsu ā́  
-sá mudā́ kā́viyā purú  
-víśvam bhū́meva puṣyati  
-devó devéṣu yajñíyo  
-nábhantām anyaké same  
+अग्नि꣡र् देवे꣡षु सं꣡वसुः  
+स꣡ विक्षु꣡ यज्ञि꣡यासु आ꣡  
+स꣡ मुदा꣡ का꣡विया पुरु꣡  
+वि꣡श्वम् भू꣡मेव पुष्यति  
+देवो꣡ देवे꣡षु यज्ञि꣡यो  
+न꣡भन्ताम् अन्यके꣡ समे  

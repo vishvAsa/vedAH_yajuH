@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ no devébhir úpa yātam arvā́k  
-sajóṣasā nāsatiyā ráthena  
-yuvór hí naḥ sakhiyā́ pítriyāṇi  
-samānó bándhur utá tásya vittam  
+आ꣡ नो देवे꣡भिर् उ꣡प यातम् अर्वा꣡क्  
+सजो꣡षसा नासतिया र꣡थेन  
+युवो꣡र् हि꣡ नः सखिया꣡ पि꣡त्रियाणि  
+समानो꣡ ब꣡न्धुर् उत꣡ त꣡स्य वित्तम्  

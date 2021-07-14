@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-úd yaṃyamīti savitéva bāhū́  
-ubhé sícau yatate bhīmá r̥ñján  
-úc chukrám átkam ajate simásmān  
-návā māṭŕ̥bhyo vásanā jahāti  
+उ꣡द् यंयमीति सविते꣡व बाहू꣡  
+उभे꣡ सि꣡चौ यतते भीम꣡ ऋञ्ज꣡न्  
+उ꣡च् छुक्र꣡म् अ꣡त्कम् अजते सिम꣡स्मान्  
+न꣡वा माट्ŕ̥भ्यो व꣡सना जहाति  

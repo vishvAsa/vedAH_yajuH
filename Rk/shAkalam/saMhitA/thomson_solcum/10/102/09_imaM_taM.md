@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-imáṃ tám paśya vr̥ṣabhásya yúñjaṃ  
-kā́ṣṭhāyā mádhye drughaṇáṃ śáyānam  
-yéna jigā́ya śatávat sahásraṃ  
-gávām múdgalaḥ pr̥tanā́jiyeṣu  
+इमं꣡ त꣡म् पश्य वृषभ꣡स्य यु꣡ञ्जं  
+का꣡ष्ठाया म꣡ध्ये द्रुघणं꣡ श꣡यानम्  
+ये꣡न जिगा꣡य शत꣡वत् सह꣡स्रं  
+ग꣡वाम् मु꣡द्गलः पृतना꣡जियेषु  

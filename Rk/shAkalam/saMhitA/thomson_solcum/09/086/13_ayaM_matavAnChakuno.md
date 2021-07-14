@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ayám matávāñ chakunó yáthā hitó  
-ávye sasāra pávamāna ūrmíṇā  
-táva krátvā ródasī antarā́ kave  
-śúcir dhiyā́ pavate sóma indra te  
+अय꣡म् मत꣡वाञ् छकुनो꣡ य꣡था हितो꣡  
+अ꣡व्ये ससार प꣡वमान ऊर्मि꣡णा  
+त꣡व क्र꣡त्वा रो꣡दसी अन्तरा꣡ कवे  
+शु꣡चिर् धिया꣡ पवते सो꣡म इन्द्र ते  

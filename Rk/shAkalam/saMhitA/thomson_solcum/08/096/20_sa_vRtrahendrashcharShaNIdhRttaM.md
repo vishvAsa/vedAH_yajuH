@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-sá vr̥trahā́ índaraś+ carṣaṇīdhŕ̥t  
-táṃ suṣṭutiyā́ háviyaṃ huvema  
-sá prāvitā́ maghávā no 'dhivaktā́  
-sá vā́jasya śravasíyasya dātā́  
+स꣡ वृत्रहा꣡ इ꣡न्दरश्+ चर्षणीध्ŕ̥त्  
+तं꣡ सुष्टुतिया꣡ ह꣡वियं हुवेम  
+स꣡ प्राविता꣡ मघ꣡वा नो ऽधिवक्ता꣡  
+स꣡ वा꣡जस्य श्रवसि꣡यस्य दाता꣡  

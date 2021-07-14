@@ -2,5 +2,5 @@
 title = "002"
 
 +++
-yónim éka ā́ sasāda diyótano  
-antár devéṣu médhiraḥ  
+यो꣡निम् ए꣡क आ꣡ ससाद दियो꣡तनो  
+अन्त꣡र् देवे꣡षु मे꣡धिरः  

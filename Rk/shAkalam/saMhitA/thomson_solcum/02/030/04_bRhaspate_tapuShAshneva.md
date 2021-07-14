@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-bŕ̥haspate tápuṣā́śneva vidhya  
-vŕ̥kadvaraso ásurasya vīrā́n  
-yáthā jaghántha dhr̥ṣatā́ purā́ cid  
-evā́ jahi śátrum asmā́kam indra  
+ब्ŕ̥हस्पते त꣡पुषा꣡श्नेव विध्य  
+व्ŕ̥कद्वरसो अ꣡सुरस्य वीरा꣡न्  
+य꣡था जघ꣡न्थ धृषता꣡ पुरा꣡ चिद्  
+एवा꣡ जहि श꣡त्रुम् अस्मा꣡कम् इन्द्र  

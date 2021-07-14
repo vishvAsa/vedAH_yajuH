@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-tuvám agna īḷitó jātavedo  
-ávāḍ ḍhavyā́ni surabhī́ṇi kr̥tvī́  
-prā́dāḥ pitŕ̥bhyaḥ svadháyā té akṣann  
-addhí tváṃ deva práyatā havī́ṃṣi  
+तुव꣡म् अग्न ईऌइतो꣡ जातवेदो  
+अ꣡वाड् ढव्या꣡नि सुरभी꣡णि कृत्वी꣡  
+प्रा꣡दाः पित्ŕ̥भ्यः स्वध꣡या ते꣡ अक्षन्न्  
+अद्धि꣡ त्वं꣡ देव प्र꣡यता हवीं꣡षि  

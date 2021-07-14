@@ -2,9 +2,9 @@
 title = "013"
 
 +++
-yád āvír yád apīcíyaṃ  
-dévāso ásti duṣkr̥tám  
-trité tád víśvam āptiyá  
-āré asmád dadhātana  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+य꣡द् आवि꣡र् य꣡द् अपीचि꣡यं  
+दे꣡वासो अ꣡स्ति दुष्कृत꣡म्  
+त्रिते꣡ त꣡द् वि꣡श्वम् आप्तिय꣡  
+आरे꣡ अस्म꣡द् दधातन  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

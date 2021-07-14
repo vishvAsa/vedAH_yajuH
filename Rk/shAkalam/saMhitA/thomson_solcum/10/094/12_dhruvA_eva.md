@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-dhruvā́ evá vaḥ pitáro yugé-yuge  
-kṣémakāmāsaḥ sádaso ná yuñjate  
-ajuryā́so hariṣā́co harídrava  
-ā́ dyā́ṃ ráveṇa pr̥thivī́m aśuśravuḥ  
+ध्रुवा꣡ एव꣡ वः पित꣡रो युगे꣡-युगे  
+क्षे꣡मकामासः स꣡दसो न꣡ युञ्जते  
+अजुर्या꣡सो हरिषा꣡चो हरि꣡द्रव  
+आ꣡ द्यां꣡ र꣡वेण पृथिवी꣡म् अशुश्रवुः  

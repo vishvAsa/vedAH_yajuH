@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yé te vipra brahmakŕ̥taḥ suté sácā  
-vásūnãṃ ca vásunaś ca dāváne  
-prá té sumnásya mánasā pathā́ bhuvan  
-máde sutásya somiyásya ándhasaḥ  
+ये꣡ ते विप्र ब्रह्मक्ŕ̥तः सुते꣡ स꣡चा  
+व꣡सून्ãं च व꣡सुनश् च दाव꣡ने  
+प्र꣡ ते꣡ सुम्न꣡स्य म꣡नसा पथा꣡ भुवन्  
+म꣡दे सुत꣡स्य सोमिय꣡स्य अ꣡न्धसः  

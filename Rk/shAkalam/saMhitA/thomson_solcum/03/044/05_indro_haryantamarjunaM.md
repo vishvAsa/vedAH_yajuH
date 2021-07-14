@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índro haryántam árjunaṃ  
-vájraṃ śukraír abhī́vr̥tam  
-ápāvr̥ṇod dháribhir ádribhiḥ sutám  
-úd gā́ háribhir ājata  
+इ꣡न्द्रो हर्य꣡न्तम् अ꣡र्जुनं  
+व꣡ज्रं शुक्रइ꣡र् अभी꣡वृतम्  
+अ꣡पावृणोद् ध꣡रिभिर् अ꣡द्रिभिः सुत꣡म्  
+उ꣡द् गा꣡ ह꣡रिभिर् आजत  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-paró yát tvám paramá ājániṣṭhāḥ  
-parāváti śrútiyaṃ nā́ma bíbhrat  
-átaś cid índrād abhayanta devā́  
-víśvā apó ajayad dāsápatnīḥ  
+परो꣡ य꣡त् त्व꣡म् परम꣡ आज꣡निष्ठाः  
+पराव꣡ति श्रु꣡तियं ना꣡म बि꣡भ्रत्  
+अ꣡तश् चिद् इ꣡न्द्राद् अभयन्त देवा꣡  
+वि꣡श्वा अपो꣡ अजयद् दास꣡पत्नीः  

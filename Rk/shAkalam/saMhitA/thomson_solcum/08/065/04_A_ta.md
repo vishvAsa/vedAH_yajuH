@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ā́ ta indra mahimā́naṃ  
-hárayo deva te máhaḥ  
-ráthe vahantu bíbhrataḥ  
+आ꣡ त इन्द्र महिमा꣡नं  
+ह꣡रयो देव ते म꣡हः  
+र꣡थे वहन्तु बि꣡भ्रतः  

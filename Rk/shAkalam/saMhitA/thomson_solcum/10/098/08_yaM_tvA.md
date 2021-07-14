@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yáṃ tvā devā́piḥ śuśucānó agna  
-ārṣṭiṣeṇó manuṣíyaḥ samīdhé  
-víśvebhir devaír anumadyámānaḥ  
-prá parjányam īrayā vr̥ṣṭimántam  
+यं꣡ त्वा देवा꣡पिः शुशुचानो꣡ अग्न  
+आर्ष्टिषेणो꣡ मनुषि꣡यः समीधे꣡  
+वि꣡श्वेभिर् देवइ꣡र् अनुमद्य꣡मानः  
+प्र꣡ पर्ज꣡न्यम् ईरया वृष्टिम꣡न्तम्  

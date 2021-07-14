@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ā́ no br̥hantā br̥hatī́bhir ūtī́  
-índra yātáṃ varuṇa vā́jasātau  
-yád didyávaḥ pŕ̥tanāsu prakrī́ḷān  
-tásya vāṃ syāma sanitā́ra ājéḥ  
+आ꣡ नो बृहन्ता बृहती꣡भिर् ऊती꣡  
+इ꣡न्द्र यातं꣡ वरुण वा꣡जसातौ  
+य꣡द् दिद्य꣡वः प्ŕ̥तनासु प्रक्री꣡ऌआन्  
+त꣡स्य वां स्याम सनिता꣡र आजेः꣡  

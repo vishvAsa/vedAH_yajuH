@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-bŕ̥haspate sádam ín naḥ sugáṃ kr̥dhi  
-śáṃ yór yát te mánurhitaṃ tád īmahe  
-ráthaṃ ná durgā́d vasavaḥ sudānavo  
-víśvasmān no áṃhaso níṣ pipartana  
+ब्ŕ̥हस्पते स꣡दम् इ꣡न् नः सुगं꣡ कृधि  
+शं꣡ यो꣡र् य꣡त् ते म꣡नुर्हितं त꣡द् ईमहे  
+र꣡थं न꣡ दुर्गा꣡द् वसवः सुदानवो  
+वि꣡श्वस्मान् नो अं꣡हसो नि꣡ष् पिपर्तन  

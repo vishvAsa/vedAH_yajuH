@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-agníṃ sumnā́ya dadhire puró jánā  
-vā́jaśravasam ihá vr̥ktábarhiṣaḥ  
-yatásrucaḥ surúcaṃ viśvádeviyaṃ  
-rudráṃ yajñā́nāṃ sā́dhadiṣṭim apásām  
+अग्निं꣡ सुम्ना꣡य दधिरे पुरो꣡ ज꣡ना  
+वा꣡जश्रवसम् इह꣡ वृक्त꣡बर्हिषः  
+यत꣡स्रुचः सुरु꣡चं विश्व꣡देवियं  
+रुद्रं꣡ यज्ञा꣡नां सा꣡धदिष्टिम् अप꣡साम्  

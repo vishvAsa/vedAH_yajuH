@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-índreṇa yujā́ níḥ sr̥janta vāgháto  
-vrajáṃ gómantam aśvínam  
-sahásram me dádato aṣṭakarṇíyaḥ  
-śrávo devéṣu akrata  
+इ꣡न्द्रेण युजा꣡ निः꣡ सृजन्त वाघ꣡तो  
+व्रजं꣡ गो꣡मन्तम् अश्वि꣡नम्  
+सह꣡स्रम् मे द꣡दतो अष्टकर्णि꣡यः  
+श्र꣡वो देवे꣡षु अक्रत  

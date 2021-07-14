@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ádābhiyo bhúvanāni pracā́kaśad  
-vratā́ni deváḥ savitā́bhí rakṣate  
-prā́srāg bāhū́ bhúvanasya prajā́bhiyo  
-dhr̥távrato mahó ájmasya rājati  
+अ꣡दाभियो भु꣡वनानि प्रचा꣡कशद्  
+व्रता꣡नि देवः꣡ सविता꣡भि꣡ रक्षते  
+प्रा꣡स्राग् बाहू꣡ भु꣡वनस्य प्रजा꣡भियो  
+धृत꣡व्रतो महो꣡ अ꣡ज्मस्य राजति  

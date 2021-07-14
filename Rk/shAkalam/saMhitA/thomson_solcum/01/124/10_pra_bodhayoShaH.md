@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-prá bodhayoṣaḥ pr̥ṇató maghoni  
-ábudhyamānāḥ paṇáyaḥ sasantu  
-revád ucha maghávadbhyo maghoni  
-revát stotré sūnr̥te jāráyantī  
+प्र꣡ बोधयोषः पृणतो꣡ मघोनि  
+अ꣡बुध्यमानाः पण꣡यः ससन्तु  
+रेव꣡द् उछ मघ꣡वद्भ्यो मघोनि  
+रेव꣡त् स्तोत्रे꣡ सूनृते जार꣡यन्ती  

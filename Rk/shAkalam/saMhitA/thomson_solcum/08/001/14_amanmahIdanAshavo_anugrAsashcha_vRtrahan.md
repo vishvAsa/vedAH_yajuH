@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ámanmahī́d anāśávo  
-anugrā́saś ca vr̥trahan  
-sakŕ̥t sú te mahatā́ śūra rā́dhasā  
-ánu stómam mudīmahi  
+अ꣡मन्मही꣡द् अनाश꣡वो  
+अनुग्रा꣡सश् च वृत्रहन्  
+सक्ŕ̥त् सु꣡ ते महता꣡ शूर रा꣡धसा  
+अ꣡नु स्तो꣡मम् मुदीमहि  

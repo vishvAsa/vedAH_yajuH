@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-tvā́m agne vājasā́tamaṃ  
-víprā vardhanti súṣṭutam  
-sá no rāsva suvī́riyam  
+त्वा꣡म् अग्ने वाजसा꣡तमं  
+वि꣡प्रा वर्धन्ति सु꣡ष्टुतम्  
+स꣡ नो रास्व सुवी꣡रियम्  

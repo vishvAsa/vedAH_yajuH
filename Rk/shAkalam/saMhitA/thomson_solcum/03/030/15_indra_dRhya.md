@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-índra dŕ̥hya yāmakośā́ abhūvan  
-yajñā́ya śikṣa gr̥ṇaté sákhibhyaḥ  
-durmāyávo durévā mártiyāso  
-niṣaṅgíṇo ripávo hántuvāsaḥ  
+इ꣡न्द्र द्ŕ̥ह्य यामकोशा꣡ अभूवन्  
+यज्ञा꣡य शिक्ष गृणते꣡ स꣡खिभ्यः  
+दुर्माय꣡वो दुरे꣡वा म꣡र्तियासो  
+निषङ्गि꣡णो रिप꣡वो ह꣡न्तुवासः  

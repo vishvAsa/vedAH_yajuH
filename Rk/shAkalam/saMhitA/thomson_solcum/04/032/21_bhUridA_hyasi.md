@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-bhūridā́ hí ási śrutáḥ  
-purutrā́ śūra vr̥trahan  
-ā́ no bhajasva rā́dhasi  
+भूरिदा꣡ हि꣡ अ꣡सि श्रुतः꣡  
+पुरुत्रा꣡ शूर वृत्रहन्  
+आ꣡ नो भजस्व रा꣡धसि  

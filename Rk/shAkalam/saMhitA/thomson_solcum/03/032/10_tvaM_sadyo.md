@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tuváṃ sadyó apibo jātá indra  
-mádāya sómam paramé víoman  
-yád dha dyā́vāpr̥thivī́ ā́viveśīr  
-áthābhavaḥ pūrviyáḥ kārúdhāyāḥ  
+तुवं꣡ सद्यो꣡ अपिबो जात꣡ इन्द्र  
+म꣡दाय सो꣡मम् परमे꣡ वि꣡ओमन्  
+य꣡द् ध द्या꣡वापृथिवी꣡ आ꣡विवेशीर्  
+अ꣡थाभवः पूर्वियः꣡ कारु꣡धायाः  

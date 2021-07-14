@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-té asmábhyaṃ śárma yaṃsann  
-amŕ̥tā mártiyebhiyaḥ  
-bā́dhamānā ápa dvíṣaḥ  
+ते꣡ अस्म꣡भ्यं श꣡र्म यंसन्न्  
+अम्ŕ̥ता म꣡र्तियेभियः  
+बा꣡धमाना अ꣡प द्वि꣡षः  

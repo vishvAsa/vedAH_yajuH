@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ádha tváṣṭā te mahá ugra vájraṃ  
-sahásrabhr̥ṣṭiṃ vavr̥tac chatā́śrim  
-níkāmam arámaṇasaṃ yéna  
-návantam áhiṃ sám piṇag r̥jīṣin  
+अ꣡ध त्व꣡ष्टा ते मह꣡ उग्र व꣡ज्रं  
+सह꣡स्रभृष्टिं ववृतच् छता꣡श्रिम्  
+नि꣡कामम् अर꣡मणसं ये꣡न  
+न꣡वन्तम् अ꣡हिं स꣡म् पिणग् ऋजीषिन्  

@@ -2,6 +2,6 @@
 title = "029"
 
 +++
-imā́ asya prátūrtayaḥ  
-padáṃ juṣanta yád diví  
-nā́bhā yajñásya sáṃ dadhur yáthā vidé  
+इमा꣡ अस्य प्र꣡तूर्तयः  
+पदं꣡ जुषन्त य꣡द् दिवि꣡  
+ना꣡भा यज्ञ꣡स्य सं꣡ दधुर् य꣡था विदे꣡  

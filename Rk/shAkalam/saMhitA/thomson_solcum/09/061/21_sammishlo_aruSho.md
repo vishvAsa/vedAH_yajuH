@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-sámmiślo aruṣó bhava  
-sūpasthā́bhir ná dhenúbhiḥ  
-sī́dañ chyenó ná yónim ā́  
+स꣡म्मिश्लो अरुषो꣡ भव  
+सूपस्था꣡भिर् न꣡ धेनु꣡भिः  
+सी꣡दञ् छ्येनो꣡ न꣡ यो꣡निम् आ꣡  

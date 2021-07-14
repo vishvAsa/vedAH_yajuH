@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-véda vā́tasya vartaním  
-urór r̥ṣvásya br̥hatáḥ  
-védā yé adhiā́sate  
+वे꣡द वा꣡तस्य वर्तनि꣡म्  
+उरो꣡र् ऋष्व꣡स्य बृहतः꣡  
+वे꣡दा ये꣡ अधिआ꣡सते  

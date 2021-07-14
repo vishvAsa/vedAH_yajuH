@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-yád áyātaṃ śubhas patī  
-vareyáṃ sūriyā́m úpa  
-kuvaíkaṃ cakráṃ vām āsīt  
-kúva deṣṭrā́ya tasthathuḥ  
+य꣡द् अ꣡यातं शुभस् पती  
+वरेयं꣡ सूरिया꣡म् उ꣡प  
+कुवइ꣡कं चक्रं꣡ वाम् आसीत्  
+कु꣡व देष्ट्रा꣡य तस्थथुः  

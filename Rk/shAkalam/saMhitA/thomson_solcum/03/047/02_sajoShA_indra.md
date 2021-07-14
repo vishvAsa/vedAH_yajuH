@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sajóṣā indra ságaṇo marúdbhiḥ  
-sómam piba vr̥trahā́ śūra vidvā́n  
-jahí śátrūm̐r ápa mŕ̥dho nudasva  
-áthā́bhayaṃ kr̥ṇuhi viśváto naḥ  
+सजो꣡षा इन्द्र स꣡गणो मरु꣡द्भिः  
+सो꣡मम् पिब वृत्रहा꣡ शूर विद्वा꣡न्  
+जहि꣡ श꣡त्रूँर् अ꣡प म्ŕ̥धो नुदस्व  
+अ꣡था꣡भयं कृणुहि विश्व꣡तो नः  

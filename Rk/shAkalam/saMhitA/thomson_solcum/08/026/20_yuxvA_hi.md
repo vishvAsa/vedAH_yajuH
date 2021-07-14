@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-yukṣvā́ hí tváṃ rathāsáhā  
-yuvásva póṣiyā vaso  
-ā́n no vāyo mádhu piba  
-asmā́kaṃ sávanā́ gahi  
+युक्ष्वा꣡ हि꣡ त्वं꣡ रथास꣡हा  
+युव꣡स्व पो꣡षिया वसो  
+आ꣡न् नो वायो म꣡धु पिब  
+अस्मा꣡कं स꣡वना꣡ गहि  

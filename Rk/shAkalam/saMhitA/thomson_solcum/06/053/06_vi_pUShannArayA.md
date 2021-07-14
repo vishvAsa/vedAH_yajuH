@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ví pūṣann ā́rayā tuda  
-paṇér icha hr̥dí priyám  
-áthem asmábhya° randhaya  
+वि꣡ पूषन्न् आ꣡रया तुद  
+पणे꣡र् इछ हृदि꣡ प्रिय꣡म्  
+अ꣡थेम् अस्म꣡भ्य° रन्धय  

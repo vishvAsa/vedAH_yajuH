@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ní pastíyāsu tritá stabhūyán  
-párivīto yónau sīdad antáḥ  
-átaḥ saṃgŕ̥bhyā viśā́ṃ dámūnā  
-vídharmaṇā ayantraír īyate nr̥̄́n  
+नि꣡ पस्ति꣡यासु त्रित꣡ स्तभूय꣡न्  
+प꣡रिवीतो यो꣡नौ सीदद् अन्तः꣡  
+अ꣡तः संग्ŕ̥भ्या विशां꣡ द꣡मूना  
+वि꣡धर्मणा अयन्त्रइ꣡र् ईयते नॄ꣡न्  

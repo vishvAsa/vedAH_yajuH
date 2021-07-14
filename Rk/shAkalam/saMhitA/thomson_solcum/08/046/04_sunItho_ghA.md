@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-sunīthó ghā sá mártiyo  
-yám marúto yám aryamā́  
-mitráḥ pã́nti adrúhaḥ  
+सुनीथो꣡ घा स꣡ म꣡र्तियो  
+य꣡म् मरु꣡तो य꣡म् अर्यमा꣡  
+मित्रः꣡ प्ã꣡न्ति अद्रु꣡हः  

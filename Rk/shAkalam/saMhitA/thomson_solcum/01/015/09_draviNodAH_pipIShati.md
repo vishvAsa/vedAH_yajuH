@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-draviṇodā́ḥ pipīṣati  
-juhóta prá ca tiṣṭhata  
-neṣṭrā́d r̥túbhir iṣyata  
+द्रविणोदाः꣡ पिपीषति  
+जुहो꣡त प्र꣡ च तिष्ठत  
+नेष्ट्रा꣡द् ऋतु꣡भिर् इष्यत  

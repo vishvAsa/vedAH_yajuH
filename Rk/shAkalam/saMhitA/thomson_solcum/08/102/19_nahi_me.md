@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-nahí me ásti ághniyā  
-ná svádhitir vánanvati  
-áthaitādŕ̥g bharāmi te  
+नहि꣡ मे अ꣡स्ति अ꣡घ्निया  
+न꣡ स्व꣡धितिर् व꣡नन्वति  
+अ꣡थैताद्ŕ̥ग् भरामि ते  

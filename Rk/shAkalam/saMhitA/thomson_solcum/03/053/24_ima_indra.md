@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-imá indara+ bharatásya putrā́  
-apapitváṃ cikitur ná prapitvám  
-hinvánti áśvam áraṇaṃ ná nítyaṃ  
-jíyāvājam pári ṇayanti ājaú  
+इम꣡ इन्दर+ भरत꣡स्य पुत्रा꣡  
+अपपित्वं꣡ चिकितुर् न꣡ प्रपित्व꣡म्  
+हिन्व꣡न्ति अ꣡श्वम् अ꣡रणं न꣡ नि꣡त्यं  
+जि꣡यावाजम् प꣡रि णयन्ति आजउ꣡  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-devā́ etásyām avadanta pū́rve  
-saptarṣáyas tápase yé niṣedúḥ  
-bhīmā́ jāyā́ brāhmaṇásyópanītā  
-durdhā́ṃ dadhāti paramé víoman  
+देवा꣡ एत꣡स्याम् अवदन्त पू꣡र्वे  
+सप्तर्ष꣡यस् त꣡पसे ये꣡ निषेदुः꣡  
+भीमा꣡ जाया꣡ ब्राह्मण꣡स्यो꣡पनीता  
+दुर्धां꣡ दधाति परमे꣡ वि꣡ओमन्  

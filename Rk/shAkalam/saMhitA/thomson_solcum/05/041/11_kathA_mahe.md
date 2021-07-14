@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-kathā́ mahé rudríyāya bravāma  
-kád rãyé cikitúṣe bhágāya  
-ā́pa óṣadhīr utá no avantu  
-diyaúr vánā giráyo vr̥kṣákeśāḥ  
+कथा꣡ महे꣡ रुद्रि꣡याय ब्रवाम  
+क꣡द् र्ãये꣡ चिकितु꣡षे भ꣡गाय  
+आ꣡प ओ꣡षधीर् उत꣡ नो अवन्तु  
+दियउ꣡र् व꣡ना गिर꣡यो वृक्ष꣡केशाः  

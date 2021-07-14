@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índrāvaruṇā yuvám adhvarā́ya no  
-viśé jánāya máhi śárma yachatam  
-dīrgháprayajyum áti yó vanuṣyáti  
-vayáṃ jayema pŕ̥tanāsu dūḍhíyaḥ  
+इ꣡न्द्रावरुणा युव꣡म् अध्वरा꣡य नो  
+विशे꣡ ज꣡नाय म꣡हि श꣡र्म यछतम्  
+दीर्घ꣡प्रयज्युम् अ꣡ति यो꣡ वनुष्य꣡ति  
+वयं꣡ जयेम प्ŕ̥तनासु दूढि꣡यः  

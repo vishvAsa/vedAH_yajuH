@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ayā́ sómaḥ sukr̥tyáyā  
-maháś cid abhy àvardhata  
-mandāná úd vr̥ṣāyate  
+अया꣡ सो꣡मः सुकृत्य꣡या  
+मह꣡श् चिद् अभ्य् अ᳡वर्धत  
+मन्दान꣡ उ꣡द् वृषायते  

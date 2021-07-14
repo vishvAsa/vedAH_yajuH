@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ná sá sákhā yó ná dádāti sákhye  
-sacābhúve sácamānāya pitváḥ  
-ápāsmāt préyān ná tád óko asti  
-pr̥ṇántam anyám áraṇaṃ cid ichet  
+न꣡ स꣡ स꣡खा यो꣡ न꣡ द꣡दाति स꣡ख्ये  
+सचाभु꣡वे स꣡चमानाय पित्वः꣡  
+अ꣡पास्मात् प्रे꣡यान् न꣡ त꣡द् ओ꣡को अस्ति  
+पृण꣡न्तम् अन्य꣡म् अ꣡रणं चिद् इछेत्  

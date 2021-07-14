@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ cikitāna sukrátū  
-devaú marta riśā́dasā  
-váruṇāya rtápeśase  
-dadhītá práyase mahé  
+आ꣡ चिकितान सुक्र꣡तू  
+देवउ꣡ मर्त रिशा꣡दसा  
+व꣡रुणाय र्त꣡पेशसे  
+दधीत꣡ प्र꣡यसे महे꣡  

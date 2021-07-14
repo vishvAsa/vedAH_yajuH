@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-idáṃ ta ékam pará ū ta ékaṃ  
-tr̥tī́yena jyótiṣā sáṃ viśasva  
-saṃvéśane tanúvaś cā́rur edhi  
-priyó devā́nām paramé janítre  
+इदं꣡ त ए꣡कम् पर꣡ ऊ त ए꣡कं  
+तृती꣡येन ज्यो꣡तिषा सं꣡ विशस्व  
+संवे꣡शने तनु꣡वश् चा꣡रुर् एधि  
+प्रियो꣡ देवा꣡नाम् परमे꣡ जनि꣡त्रे  

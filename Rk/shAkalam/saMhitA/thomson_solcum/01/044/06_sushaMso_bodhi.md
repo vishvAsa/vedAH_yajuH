@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-suśáṃso bodhi gr̥ṇaté yaviṣṭhiya  
-mádhujihvaḥ súāhutaḥ  
-práskaṇvasya pratiránn ā́yu° jīváse  
-namasyā́ daíviyaṃ jánam  
+सुशं꣡सो बोधि गृणते꣡ यविष्ठिय  
+म꣡धुजिह्वः सु꣡आहुतः  
+प्र꣡स्कण्वस्य प्रतिर꣡न्न् आ꣡यु° जीव꣡से  
+नमस्या꣡ दइ꣡वियं ज꣡नम्  

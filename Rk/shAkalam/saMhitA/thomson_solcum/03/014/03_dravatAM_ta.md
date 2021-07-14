@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-drávatāṃ ta uṣásā vājáyantī  
-ágne vā́tasya pathíyābhir ácha  
-yát sīm añjánti pūrviyáṃ havírbhir  
-ā́ vandhúreva tasthatur duroṇé  
+द्र꣡वतां त उष꣡सा वाज꣡यन्ती  
+अ꣡ग्ने वा꣡तस्य पथि꣡याभिर् अ꣡छ  
+य꣡त् सीम् अञ्ज꣡न्ति पूर्वियं꣡ हवि꣡र्भिर्  
+आ꣡ वन्धु꣡रेव तस्थतुर् दुरोणे꣡  

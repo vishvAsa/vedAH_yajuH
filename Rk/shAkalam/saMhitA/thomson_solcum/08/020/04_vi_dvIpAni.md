@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ví dvīpā́ni pā́patan tíṣṭhad duchúnā  
-ubhé yujanta ródasī  
-prá dhánvāni airata śubhrakhādayo  
-yád éjatha svabhānavaḥ  
+वि꣡ द्वीपा꣡नि पा꣡पतन् ति꣡ष्ठद् दुछु꣡ना  
+उभे꣡ युजन्त रो꣡दसी  
+प्र꣡ ध꣡न्वानि ऐरत शुभ्रखादयो  
+य꣡द् ए꣡जथ स्वभानवः  

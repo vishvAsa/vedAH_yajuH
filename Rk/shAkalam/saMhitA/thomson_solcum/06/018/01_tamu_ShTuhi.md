@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tám u ṣṭuhi yó abhíbhūtiojā  
-vanvánn ávātaḥ puruhūtá índraḥ  
-áṣāḷham ugráṃ sáhamānam ābhír  
-gīrbhír vardha vr̥ṣabháṃ carṣaṇīnā́m  
+त꣡म् उ ष्टुहि यो꣡ अभि꣡भूतिओजा  
+वन्व꣡न्न् अ꣡वातः पुरुहूत꣡ इ꣡न्द्रः  
+अ꣡षाऌहम् उग्रं꣡ स꣡हमानम् आभि꣡र्  
+गीर्भि꣡र् वर्ध वृषभं꣡ चर्षणीना꣡म्  

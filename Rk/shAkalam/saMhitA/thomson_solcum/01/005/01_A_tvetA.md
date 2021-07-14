@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ā́ tu étā ní ṣīdata  
-índram abhí prá gāyata  
-sákhāya stómavāhasaḥ  
+आ꣡ तु ए꣡ता नि꣡ षीदत  
+इ꣡न्द्रम् अभि꣡ प्र꣡ गायत  
+स꣡खाय स्तो꣡मवाहसः  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sū́ryasyeva vakṣátho jyótir eṣāṃ  
-samudrásyeva mahimā́ gabhīráḥ  
-vā́tasyeva prajavó nā́niyéna  
-stómo vasiṣṭhā ánuetave vaḥ  
+सू꣡र्यस्येव वक्ष꣡थो ज्यो꣡तिर् एषां  
+समुद्र꣡स्येव महिमा꣡ गभीरः꣡  
+वा꣡तस्येव प्रजवो꣡ ना꣡निये꣡न  
+स्तो꣡मो वसिष्ठा अ꣡नुएतवे वः  

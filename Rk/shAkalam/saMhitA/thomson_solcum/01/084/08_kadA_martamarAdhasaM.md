@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-kadā́ mártam arādhásam  
-padā́ kṣúmpam iva sphurat  
-kadā́ naḥ śuśravad gíra índro aṅgá  
+कदा꣡ म꣡र्तम् अराध꣡सम्  
+पदा꣡ क्षु꣡म्पम् इव स्फुरत्  
+कदा꣡ नः शुश्रवद् गि꣡र इ꣡न्द्रो अङ्ग꣡  

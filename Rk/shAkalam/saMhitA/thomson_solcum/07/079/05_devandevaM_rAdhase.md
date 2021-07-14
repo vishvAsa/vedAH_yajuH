@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-deváṃ-devaṃ rā́dhase codáyanti  
-asmadríak sūnŕ̥tā īráyantī  
-viuchántī naḥ sanáye dhíyo dhā  
-yūyám pāta suastíbhiḥ sádā naḥ  
+देवं꣡-देवं रा꣡धसे चोद꣡यन्ति  
+अस्मद्रि꣡अक् सून्ŕ̥ता ईर꣡यन्ती  
+विउछ꣡न्ती नः सन꣡ये धि꣡यो धा  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

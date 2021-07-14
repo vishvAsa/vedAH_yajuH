@@ -2,8 +2,8 @@
 title = "017"
 
 +++
-ná séśe yásya romaśáṃ  
-niṣedúṣo vijŕ̥mbhate  
-séd īśe yásya rámbate  
-antarā́ sakthíyā kápr̥d  
-víśvasmād índra úttaraḥ  
+न꣡ से꣡शे य꣡स्य रोमशं꣡  
+निषेदु꣡षो विज्ŕ̥म्भते  
+से꣡द् ईशे य꣡स्य र꣡म्बते  
+अन्तरा꣡ सक्थि꣡या क꣡पृद्  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

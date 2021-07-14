@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá ghā nú asya maható mahā́ni  
-satyā́ satyásya káraṇāni vocam  
-tríkadrukeṣu apibat sutásya  
-asyá máde áhim índro jaghāna  
+प्र꣡ घा नु꣡ अस्य महतो꣡ महा꣡नि  
+सत्या꣡ सत्य꣡स्य क꣡रणानि वोचम्  
+त्रि꣡कद्रुकेषु अपिबत् सुत꣡स्य  
+अस्य꣡ म꣡दे अ꣡हिम् इ꣡न्द्रो जघान  

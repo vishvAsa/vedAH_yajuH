@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yó nārmaráṃ sahávasuṃ níhantave  
-pr̥kṣā́ya ca dāsáveśāya cā́vahaḥ  
-ūrjáyantyā ápariviṣṭam āsíyam  
-utaívā́dyá purukr̥t sā́si ukthíyaḥ  
+यो꣡ नार्मरं꣡ सह꣡वसुं नि꣡हन्तवे  
+पृक्षा꣡य च दास꣡वेशाय चा꣡वहः  
+ऊर्ज꣡यन्त्या अ꣡परिविष्टम् आसि꣡यम्  
+उतइ꣡वा꣡द्य꣡ पुरुकृत् सा꣡सि उक्थि꣡यः  

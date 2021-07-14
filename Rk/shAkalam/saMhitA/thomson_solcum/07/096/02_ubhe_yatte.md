@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ubhé yát te mahinā́ śubhre ándhasī  
-adhikṣiyánti pūrávaḥ  
-sā́ no bodhi avitrī́ marútsakhā  
-códa rā́dho maghónãm  
+उभे꣡ य꣡त् ते महिना꣡ शुभ्रे अ꣡न्धसी  
+अधिक्षिय꣡न्ति पूर꣡वः  
+सा꣡ नो बोधि अवित्री꣡ मरु꣡त्सखा  
+चो꣡द रा꣡धो मघो꣡न्ãम्  

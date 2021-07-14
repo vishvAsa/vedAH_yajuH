@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ní agníṃ jātávedasaṃ  
-hotravā́haṃ yáviṣṭhiyam  
-dádhātā devám r̥tvíjam  
+नि꣡ अग्निं꣡ जात꣡वेदसं  
+होत्रवा꣡हं य꣡विष्ठियम्  
+द꣡धाता देव꣡म् ऋत्वि꣡जम्  

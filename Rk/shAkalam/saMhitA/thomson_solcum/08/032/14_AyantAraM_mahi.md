@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-āyantā́ram máhi sthirám  
-pŕ̥tanāsu śravojítam  
-bhū́rer ī́śānam ójasā  
+आयन्ता꣡रम् म꣡हि स्थिर꣡म्  
+प्ŕ̥तनासु श्रवोजि꣡तम्  
+भू꣡रेर् ई꣡शानम् ओ꣡जसा  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-sámiddho adyá rājasi  
-devó devaíḥ sahasrajit  
-dūtó havyā́ kavír vaha  
+स꣡मिद्धो अद्य꣡ राजसि  
+देवो꣡ देवइः꣡ सहस्रजित्  
+दूतो꣡ हव्या꣡ कवि꣡र् वह  

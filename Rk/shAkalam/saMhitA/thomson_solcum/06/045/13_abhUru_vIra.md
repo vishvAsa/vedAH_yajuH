@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-ábhūr u vīra girvaṇo  
-mahā́m̐ indra dháne hité  
-bháre vitantasā́yiyaḥ  
+अ꣡भूर् उ वीर गिर्वणो  
+महाँ꣡ इन्द्र ध꣡ने हिते꣡  
+भ꣡रे वितन्तसा꣡यियः  

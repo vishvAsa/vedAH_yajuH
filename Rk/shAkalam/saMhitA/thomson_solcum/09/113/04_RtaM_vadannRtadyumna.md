@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-r̥táṃ vádann r̥tadyumna  
-satyáṃ vádan satyakarman  
-śraddhā́ṃ vádan soma rājan  
-dhātrā́ soma páriṣkr̥ta  
-índrāyendo pári srava  
+ऋतं꣡ व꣡दन्न् ऋतद्युम्न  
+सत्यं꣡ व꣡दन् सत्यकर्मन्  
+श्रद्धां꣡ व꣡दन् सोम राजन्  
+धात्रा꣡ सोम प꣡रिष्कृत  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

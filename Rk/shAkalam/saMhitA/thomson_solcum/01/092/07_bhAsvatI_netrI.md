@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-bhã́svatī nayitrī́+ sūnŕ̥tānāṃ  
-divá stave duhitā́ gótamebhiḥ  
-prajā́vato nr̥váto áśvabudhyān  
-úṣo góagrām̐ úpa māsi vā́jān  
+भ्ã꣡स्वती नयित्री꣡+ सून्ŕ̥तानां  
+दिव꣡ स्तवे दुहिता꣡ गो꣡तमेभिः  
+प्रजा꣡वतो नृव꣡तो अ꣡श्वबुध्यान्  
+उ꣡षो गो꣡अग्राँ उ꣡प मासि वा꣡जान्  

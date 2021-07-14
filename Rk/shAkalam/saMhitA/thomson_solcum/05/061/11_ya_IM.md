@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-yá īṃ váhanta āśúbhiḥ  
-píbanto madirám mádhu  
-átra śrávāṃsi dadhire  
+य꣡ ईं व꣡हन्त आशु꣡भिः  
+पि꣡बन्तो मदिर꣡म् म꣡धु  
+अ꣡त्र श्र꣡वांसि दधिरे  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śatáṃ te śiprin ūtáyaḥ sudā́se  
-sahásraṃ śáṃsā utá rātír astu  
-jahí vádhar vanúṣo mártiyasya  
-asmé dyumnám ádhi rátnaṃ ca dhehi  
+शतं꣡ ते शिप्रिन् ऊत꣡यः सुदा꣡से  
+सह꣡स्रं शं꣡सा उत꣡ राति꣡र् अस्तु  
+जहि꣡ व꣡धर् वनु꣡षो म꣡र्तियस्य  
+अस्मे꣡ द्युम्न꣡म् अ꣡धि र꣡त्नं च धेहि  

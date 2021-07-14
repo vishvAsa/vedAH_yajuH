@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-bŕ̥haspate áti yád aryó árhād  
-dyumád vibhā́ti krátumaj jáneṣu  
-yád dīdáyac chávasa rtaprajāta  
-tád asmā́su dráviṇaṃ dhehi citrám  
+ब्ŕ̥हस्पते अ꣡ति य꣡द् अर्यो꣡ अ꣡र्हाद्  
+द्युम꣡द् विभा꣡ति क्र꣡तुमज् ज꣡नेषु  
+य꣡द् दीद꣡यच् छ꣡वस र्तप्रजात  
+त꣡द् अस्मा꣡सु द्र꣡विणं धेहि चित्र꣡म्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kútrā cid yásya sámr̥tau  
-raṇvā́ náro nr̥ṣádane  
-árhantaś cid yám indhaté  
-saṃjanáyanti jantávaḥ  
+कु꣡त्रा चिद् य꣡स्य स꣡मृतौ  
+रण्वा꣡ न꣡रो नृष꣡दने  
+अ꣡र्हन्तश् चिद् य꣡म् इन्धते꣡  
+संजन꣡यन्ति जन्त꣡वः  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áśvāvantaṃ rathínaṃ vīrávantaṃ  
-sahasríṇaṃ śatínaṃ vā́jam indra  
-bhadrávrātaṃ vípravīraṃ suarṣā́m  
-asmábhyaṃ citráṃ vŕ̥ṣaṇaṃ rayíṃ dāḥ  
+अ꣡श्वावन्तं रथि꣡नं वीर꣡वन्तं  
+सहस्रि꣡णं शति꣡नं वा꣡जम् इन्द्र  
+भद्र꣡व्रातं वि꣡प्रवीरं सुअर्षा꣡म्  
+अस्म꣡भ्यं चित्रं꣡ व्ŕ̥षणं रयिं꣡ दाः  

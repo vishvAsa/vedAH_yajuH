@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-prá yám antár vr̥ṣasavā́so ágman  
-tīvrā́ḥ sómā bahulā́ntāsa índram  
-nā́ha dāmā́nam maghávā ní yaṃsan  
-ní sunvaté vahati bhū́ri vāmám  
+प्र꣡ य꣡म् अन्त꣡र् वृषसवा꣡सो अ꣡ग्मन्  
+तीव्राः꣡ सो꣡मा बहुला꣡न्तास इ꣡न्द्रम्  
+ना꣡ह दामा꣡नम् मघ꣡वा नि꣡ यंसन्  
+नि꣡ सुन्वते꣡ वहति भू꣡रि वाम꣡म्  

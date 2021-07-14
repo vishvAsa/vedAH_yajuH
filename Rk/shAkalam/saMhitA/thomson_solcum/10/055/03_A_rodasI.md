@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ ródasī apr̥ṇād ótá mádhyam  
-páñca devā́m̐ r̥tuśáḥ saptá-sapta  
-cátustriṃśatā purudhā́ ví caṣṭe  
-sárūpeṇa jyótiṣā vívratena  
+आ꣡ रो꣡दसी अपृणाद् ओ꣡त꣡ म꣡ध्यम्  
+प꣡ञ्च देवाँ꣡ ऋतुशः꣡ सप्त꣡-सप्त  
+च꣡तुस्त्रिंशता पुरुधा꣡ वि꣡ चष्टे  
+स꣡रूपेण ज्यो꣡तिषा वि꣡व्रतेन  

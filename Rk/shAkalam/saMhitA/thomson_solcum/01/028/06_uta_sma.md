@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-utá sma te vanaspate  
-vā́to ví vāti ágram ít  
-átho índrāya pā́tave  
-sunú sómam ulūkhala  
+उत꣡ स्म ते वनस्पते  
+वा꣡तो वि꣡ वाति अ꣡ग्रम् इ꣡त्  
+अ꣡थो इ꣡न्द्राय पा꣡तवे  
+सुनु꣡ सो꣡मम् उलूखल  

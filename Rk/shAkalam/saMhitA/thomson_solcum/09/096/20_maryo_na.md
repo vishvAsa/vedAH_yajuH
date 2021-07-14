@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-máryo ná śubhrás tanúvam mr̥jānó  
-átyo ná sŕ̥tvā sanáye dhánānām  
-vŕ̥ṣeva yūthā́ pári kóśam árṣan  
-kánikradac camúvor ā́ viveśa  
+म꣡र्यो न꣡ शुभ्र꣡स् तनु꣡वम् मृजानो꣡  
+अ꣡त्यो न꣡ स्ŕ̥त्वा सन꣡ये ध꣡नानाम्  
+व्ŕ̥षेव यूथा꣡ प꣡रि को꣡शम् अ꣡र्षन्  
+क꣡निक्रदच् चमु꣡वोर् आ꣡ विवेश  

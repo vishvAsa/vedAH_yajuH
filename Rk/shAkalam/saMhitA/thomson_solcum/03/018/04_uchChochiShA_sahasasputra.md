@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-úc chocíṣā sahasas putra stutó  
-br̥hád váyaḥ śaśamānéṣu dhehi  
-revád agne viśvā́mitreṣu śáṃ yór  
-marmr̥jmā́ te tanúvam bhū́ri kŕ̥tvaḥ  
+उ꣡च् छोचि꣡षा सहसस् पुत्र स्तुतो꣡  
+बृह꣡द् व꣡यः शशमाने꣡षु धेहि  
+रेव꣡द् अग्ने विश्वा꣡मित्रेषु शं꣡ यो꣡र्  
+मर्मृज्मा꣡ ते तनु꣡वम् भू꣡रि क्ŕ̥त्वः  

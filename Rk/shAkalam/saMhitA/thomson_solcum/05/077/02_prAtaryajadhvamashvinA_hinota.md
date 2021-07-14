@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prātár yajadhvam aśvínā hinota  
-ná sāyám asti devayā́ ájuṣṭam  
-utā́nyó asmád yajate ví cā́vaḥ  
-pū́rvaḥ-pūrvo yájamāno vánīyān  
+प्रात꣡र् यजध्वम् अश्वि꣡ना हिनोत  
+न꣡ साय꣡म् अस्ति देवया꣡ अ꣡जुष्टम्  
+उता꣡न्यो꣡ अस्म꣡द् यजते वि꣡ चा꣡वः  
+पू꣡र्वः-पूर्वो य꣡जमानो व꣡नीयान्  

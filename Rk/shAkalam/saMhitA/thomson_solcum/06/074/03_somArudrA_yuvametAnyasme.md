@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sómārudrā yuvám etā́ni asmé  
-víśvā tanū́ṣu bheṣajā́ni dhattam  
-áva syatam muñcátaṃ yán no ásti  
-tanū́ṣu baddháṃ kr̥tám éno asmát  
+सो꣡मारुद्रा युव꣡म् एता꣡नि अस्मे꣡  
+वि꣡श्वा तनू꣡षु भेषजा꣡नि धत्तम्  
+अ꣡व स्यतम् मुञ्च꣡तं य꣡न् नो अ꣡स्ति  
+तनू꣡षु बद्धं꣡ कृत꣡म् ए꣡नो अस्म꣡त्  

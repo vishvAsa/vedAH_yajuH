@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ásunīte púnar asmā́su cákṣuḥ  
-púnaḥ prāṇám ihá no dhehi bhógam  
-jiyók paśyema sū́ryam uccárantam  
-ánumate mr̥̄ḷáyā+ naḥ suastí  
+अ꣡सुनीते पु꣡नर् अस्मा꣡सु च꣡क्षुः  
+पु꣡नः प्राण꣡म् इह꣡ नो धेहि भो꣡गम्  
+जियो꣡क् पश्येम सू꣡र्यम् उच्च꣡रन्तम्  
+अ꣡नुमते मॄऌअ꣡या+ नः सुअस्ति꣡  

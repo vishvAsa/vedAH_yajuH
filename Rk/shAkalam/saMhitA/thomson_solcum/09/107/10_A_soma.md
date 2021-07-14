@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́ soma svānó° ádribhis  
-tiró vā́rāṇi avyáyā  
-jáno ná purí camúvor viśad dháriḥ  
-sádo váneṣu dadhiṣe  
+आ꣡ सोम स्वानो꣡° अ꣡द्रिभिस्  
+तिरो꣡ वा꣡राणि अव्य꣡या  
+ज꣡नो न꣡ पुरि꣡ चमु꣡वोर् विशद् ध꣡रिः  
+स꣡दो व꣡नेषु दधिषे  

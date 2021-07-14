@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-úd īraya kavítamaṃ kavīnā́m  
-unáttainam abhí mádhvā ghr̥téna  
-sá no vásūni práyatā hitā́ni  
-candrā́ṇi deváḥ savitā́ suvāti  
+उ꣡द् ईरय कवि꣡तमं कवीना꣡म्  
+उन꣡त्तैनम् अभि꣡ म꣡ध्वा घृते꣡न  
+स꣡ नो व꣡सूनि प्र꣡यता हिता꣡नि  
+चन्द्रा꣡णि देवः꣡ सविता꣡ सुवाति  

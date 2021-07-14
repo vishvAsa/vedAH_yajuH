@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-ánu tvā ródasī ubhé  
-krákṣamāṇam akr̥petām  
-índra yád dasyuhā́bhavaḥ  
+अ꣡नु त्वा रो꣡दसी उभे꣡  
+क्र꣡क्षमाणम् अकृपेताम्  
+इ꣡न्द्र य꣡द् दस्युहा꣡भवः  

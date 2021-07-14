@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índra píba pratikāmáṃ sutásya  
-prātaḥsāvás táva hí pūrvápītiḥ  
-hárṣasva · hántave śūra śátrūn  
-ukthébhiṣ ṭe vīríyā prá bravāma  
+इ꣡न्द्र पि꣡ब प्रतिकामं꣡ सुत꣡स्य  
+प्रातःसाव꣡स् त꣡व हि꣡ पूर्व꣡पीतिः  
+ह꣡र्षस्व · ह꣡न्तवे शूर श꣡त्रून्  
+उक्थे꣡भिष् टे वीरि꣡या प्र꣡ ब्रवाम  

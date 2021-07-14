@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-táṃ vāṃ ráthaṃ vayám adyā́ huvema  
-stómair aśvinā suvitā́ya návyam  
-áriṣṭanemim pári dyā́m iyānáṃ  
-vidyā́meṣáṃ vr̥jánaṃ jīrádānum  
+तं꣡ वां र꣡थं वय꣡म् अद्या꣡ हुवेम  
+स्तो꣡मैर् अश्विना सुविता꣡य न꣡व्यम्  
+अ꣡रिष्टनेमिम् प꣡रि द्या꣡म् इयानं꣡  
+विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्  

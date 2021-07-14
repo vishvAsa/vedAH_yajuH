@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-śréṣṭhaṃ vaḥ péśo ádhi dhāyi darśatáṃ  
-stómo vājā r̥bhavas táṃ jujuṣṭana  
-dhī́rāso hí ṣṭhā́ kaváyo vipaścítas  
-tā́n va enā́ bráhmaṇā́ vedayāmasi  
+श्रे꣡ष्ठं वः पे꣡शो अ꣡धि धायि दर्शतं꣡  
+स्तो꣡मो वाजा ऋभवस् तं꣡ जुजुष्टन  
+धी꣡रासो हि꣡ ष्ठा꣡ कव꣡यो विपश्चि꣡तस्  
+ता꣡न् व एना꣡ ब्र꣡ह्मणा꣡ वेदयामसि  

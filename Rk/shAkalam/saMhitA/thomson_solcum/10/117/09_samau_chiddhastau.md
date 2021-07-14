@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-samaú cid dhástau ná samáṃ viviṣṭaḥ  
-sammātárā cin ná samáṃ duhāte  
-yamáyoś cin ná samā́ vīríyāṇi  
-jñātī́ cit sántau ná samám pr̥ṇītaḥ  
+समउ꣡ चिद् ध꣡स्तौ न꣡ समं꣡ विविष्टः  
+सम्मात꣡रा चिन् न꣡ समं꣡ दुहाते  
+यम꣡योश् चिन् न꣡ समा꣡ वीरि꣡याणि  
+ज्ञाती꣡ चित् स꣡न्तौ न꣡ सम꣡म् पृणीतः  

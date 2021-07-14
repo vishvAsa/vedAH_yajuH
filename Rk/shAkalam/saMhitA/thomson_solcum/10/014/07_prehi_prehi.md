@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-préhi préhi pathíbhiḥ pūrviyébhir  
-yátrā naḥ pū́rve pitáraḥ pareyúḥ  
-ubhā́ rā́jānā svadháyā mádantā  
-yamám paśyāsi váruṇaṃ ca devám  
+प्रे꣡हि प्रे꣡हि पथि꣡भिः पूर्विये꣡भिर्  
+य꣡त्रा नः पू꣡र्वे पित꣡रः परेयुः꣡  
+उभा꣡ रा꣡जाना स्वध꣡या म꣡दन्ता  
+यम꣡म् पश्यासि व꣡रुणं च देव꣡म्  

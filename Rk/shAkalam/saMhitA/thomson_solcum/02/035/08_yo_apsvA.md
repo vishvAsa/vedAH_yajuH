@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yó apsú ā́ śúcinā daíviyena  
-r̥tā́vā́jasra urviyā́ vibhā́ti  
-vayā́ íd anyā́ bhúvanāni asya  
-prá jāyante vīrúdhaś ca prajā́bhiḥ  
+यो꣡ अप्सु꣡ आ꣡ शु꣡चिना दइ꣡वियेन  
+ऋता꣡वा꣡जस्र उर्विया꣡ विभा꣡ति  
+वया꣡ इ꣡द् अन्या꣡ भु꣡वनानि अस्य  
+प्र꣡ जायन्ते वीरु꣡धश् च प्रजा꣡भिः  

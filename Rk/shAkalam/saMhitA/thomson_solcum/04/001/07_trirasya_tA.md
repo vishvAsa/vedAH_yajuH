@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-trír asya tā́ paramā́ santi satyā́  
-spārhā́ devásya jánimāni agnéḥ  
-ananté antáḥ párivīta ā́gāc  
-chúciḥ śukró ariyó rórucānaḥ  
+त्रि꣡र् अस्य ता꣡ परमा꣡ सन्ति सत्या꣡  
+स्पार्हा꣡ देव꣡स्य ज꣡निमानि अग्नेः꣡  
+अनन्ते꣡ अन्तः꣡ प꣡रिवीत आ꣡गाच्  
+छु꣡चिः शुक्रो꣡ अरियो꣡ रो꣡रुचानः  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-mā́ no vadhīr indara+ mā́ párā dā  
-mā́ naḥ priyā́ bhójanāni prá moṣīḥ  
-āṇḍā́ mā́ no maghavañ chakra nír bhen  
-mā́ naḥ pā́trā bhet sahájānuṣāṇi  
+मा꣡ नो वधीर् इन्दर+ मा꣡ प꣡रा दा  
+मा꣡ नः प्रिया꣡ भो꣡जनानि प्र꣡ मोषीः  
+आण्डा꣡ मा꣡ नो मघवञ् छक्र नि꣡र् भेन्  
+मा꣡ नः पा꣡त्रा भेत् सह꣡जानुषाणि  

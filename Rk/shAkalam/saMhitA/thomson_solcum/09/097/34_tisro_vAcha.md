@@ -2,7 +2,7 @@
 title = "034"
 
 +++
-tisró vā́ca īrayati prá váhnir  
-r̥tásya dhītím bráhmaṇo manīṣā́m  
-gā́vo yanti gópatim pr̥chámānāḥ  
-sómaṃ yanti matáyo vāvaśānā́ḥ  
+तिस्रो꣡ वा꣡च ईरयति प्र꣡ व꣡ह्निर्  
+ऋत꣡स्य धीति꣡म् ब्र꣡ह्मणो मनीषा꣡म्  
+गा꣡वो यन्ति गो꣡पतिम् पृछ꣡मानाः  
+सो꣡मं यन्ति मत꣡यो वावशानाः꣡  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ tvā káṇvā ihā́vase  
-hávante vā́jasātaye  
-divó amúṣya śā́sato  
-dívaṃ yayá divāvaso  
+आ꣡ त्वा क꣡ण्वा इहा꣡वसे  
+ह꣡वन्ते वा꣡जसातये  
+दिवो꣡ अमु꣡ष्य शा꣡सतो  
+दि꣡वं यय꣡ दिवावसो  

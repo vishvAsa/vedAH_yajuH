@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yó vāṃ yajñó nāsatiyā havíṣmān  
-kr̥tábrahmā samaríyo bhávāti  
-úpa prá yātaṃ váram ā́ vásiṣṭham  
-imā́ bráhmāṇi r̥cyante yuvábhyām  
+यो꣡ वां यज्ञो꣡ नासतिया हवि꣡ष्मान्  
+कृत꣡ब्रह्मा समरि꣡यो भ꣡वाति  
+उ꣡प प्र꣡ यातं व꣡रम् आ꣡ व꣡सिष्ठम्  
+इमा꣡ ब्र꣡ह्माणि ऋच्यन्ते युव꣡भ्याम्  

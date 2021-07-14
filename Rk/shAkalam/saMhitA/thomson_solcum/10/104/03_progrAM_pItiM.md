@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prógrā́m pītíṃ vŕ̥ṣṇa iyarmi satyā́m  
-prayaí sutásya hariaśva túbhyam  
-índra dhénābhir ihá mādayasva  
-dhībhír víśvābhiḥ śáciyā gr̥ṇānáḥ  
+प्रो꣡ग्रा꣡म् पीतिं꣡ व्ŕ̥ष्ण इयर्मि सत्या꣡म्  
+प्रयइ꣡ सुत꣡स्य हरिअश्व तु꣡भ्यम्  
+इ꣡न्द्र धे꣡नाभिर् इह꣡ मादयस्व  
+धीभि꣡र् वि꣡श्वाभिः श꣡चिया गृणानः꣡  

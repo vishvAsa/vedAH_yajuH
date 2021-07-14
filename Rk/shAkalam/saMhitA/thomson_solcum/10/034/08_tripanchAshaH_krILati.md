@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tripañcāśáḥ krīḷati vrā́ta eṣāṃ  
-devá iva savitā́ satyádharmā  
-ugrásya cin manyáve nā́ namante  
-rā́jā cid ebhyo náma ít kr̥ṇoti  
+त्रिपञ्चाशः꣡ क्रीऌअति व्रा꣡त एषां  
+देव꣡ इव सविता꣡ सत्य꣡धर्मा  
+उग्र꣡स्य चिन् मन्य꣡वे ना꣡ नमन्ते  
+रा꣡जा चिद् एभ्यो न꣡म इ꣡त् कृणोति  

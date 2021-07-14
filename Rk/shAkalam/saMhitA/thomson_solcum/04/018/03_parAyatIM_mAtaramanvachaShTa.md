@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-parāyatī́m mātáram ánv acaṣṭa  
-ná nā́nu gāni ánu nū́ gamāni  
-tváṣṭur gr̥hé apibat sómam índraḥ  
-śatadhaníyaṃ camúvoḥ sutásya  
+परायती꣡म् मात꣡रम् अ꣡न्व् अचष्ट  
+न꣡ ना꣡नु गानि अ꣡नु नू꣡ गमानि  
+त्व꣡ष्टुर् गृहे꣡ अपिबत् सो꣡मम् इ꣡न्द्रः  
+शतधनि꣡यं चमु꣡वोः सुत꣡स्य  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ājitúraṃ sátpatiṃ viśvácarṣaṇiṃ  
-kr̥dhí prajā́su ā́bhagam  
-prá sū́ tirā śácībhir yé ta ukthínaḥ  
-krátum punatá ānuṣák  
+आजितु꣡रं स꣡त्पतिं विश्व꣡चर्षणिं  
+कृधि꣡ प्रजा꣡सु आ꣡भगम्  
+प्र꣡ सू꣡ तिरा श꣡चीभिर् ये꣡ त उक्थि꣡नः  
+क्र꣡तुम् पुनत꣡ आनुष꣡क्  

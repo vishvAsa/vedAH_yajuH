@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá jātū́bharmā śraddádhāna ójaḥ  
-púro vibhindánn acarad ví dā́sīḥ  
-vidvā́n vajrin dásyave hetím asya  
-ā́ryaṃ sáho vardhayā dyumnám indra  
+स꣡ जातू꣡भर्मा श्रद्द꣡धान ओ꣡जः  
+पु꣡रो विभिन्द꣡न्न् अचरद् वि꣡ दा꣡सीः  
+विद्वा꣡न् वज्रिन् द꣡स्यवे हेति꣡म् अस्य  
+आ꣡र्यं स꣡हो वर्धया द्युम्न꣡म् इन्द्र  

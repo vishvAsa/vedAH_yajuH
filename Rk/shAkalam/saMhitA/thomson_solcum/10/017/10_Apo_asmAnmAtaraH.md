@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-ā́po asmā́n mātáraḥ śundhayantu  
-ghr̥téna no ghr̥tapúvaḥ punantu  
-víśvaṃ hí riprám praváhanti devī́r  
-úd íd ābhyaḥ śúcir ā́ pūtá emi  
+आ꣡पो अस्मा꣡न् मात꣡रः शुन्धयन्तु  
+घृते꣡न नो घृतपु꣡वः पुनन्तु  
+वि꣡श्वं हि꣡ रिप्र꣡म् प्रव꣡हन्ति देवी꣡र्  
+उ꣡द् इ꣡द् आभ्यः शु꣡चिर् आ꣡ पूत꣡ एमि  

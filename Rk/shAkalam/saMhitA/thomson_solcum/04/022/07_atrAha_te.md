@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-átrā́ha te harivas tā́ u devī́r  
-ávobhir indra stavanta svásāraḥ  
-yát sīm ánu prá mucó badbadhānā́  
-dīrghā́m ánu prásitiṃ syandayádhyai  
+अ꣡त्रा꣡ह ते हरिवस् ता꣡ उ देवी꣡र्  
+अ꣡वोभिर् इन्द्र स्तवन्त स्व꣡सारः  
+य꣡त् सीम् अ꣡नु प्र꣡ मुचो꣡ बद्बधाना꣡  
+दीर्घा꣡म् अ꣡नु प्र꣡सितिं स्यन्दय꣡ध्यै  

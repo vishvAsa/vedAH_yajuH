@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tuvā́ṃ devéṣu prathamáṃ havāmahe  
-tuvám babhūtha pŕ̥tanāsu sāsahíḥ  
-sémáṃ naḥ kārúm upamanyúm udbhídam  
-índraḥ kr̥ṇotu prasavé rátham puráḥ  
+तुवां꣡ देवे꣡षु प्रथमं꣡ हवामहे  
+तुव꣡म् बभूथ प्ŕ̥तनासु सासहिः꣡  
+से꣡मं꣡ नः कारु꣡म् उपमन्यु꣡म् उद्भि꣡दम्  
+इ꣡न्द्रः कृणोतु प्रसवे꣡ र꣡थम् पुरः꣡  

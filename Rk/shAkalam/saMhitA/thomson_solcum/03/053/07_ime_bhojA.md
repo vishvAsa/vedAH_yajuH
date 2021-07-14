@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-imé bhojā́ áṅgiraso vírūpā  
-divás putrā́so ásurasya vīrā́ḥ  
-viśvā́mitrāya dádato maghā́ni  
-sahasrasāvé prá tiranta ā́yuḥ  
+इमे꣡ भोजा꣡ अ꣡ङ्गिरसो वि꣡रूपा  
+दिव꣡स् पुत्रा꣡सो अ꣡सुरस्य वीराः꣡  
+विश्वा꣡मित्राय द꣡दतो मघा꣡नि  
+सहस्रसावे꣡ प्र꣡ तिरन्त आ꣡युः  

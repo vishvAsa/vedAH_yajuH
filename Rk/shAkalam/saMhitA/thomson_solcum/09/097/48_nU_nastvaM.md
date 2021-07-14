@@ -2,7 +2,7 @@
 title = "048"
 
 +++
-nū́ nas tuváṃ rathiró deva soma  
-pári srava camúvoḥ pūyámānaḥ  
-apsú svā́diṣṭho mádhumām̐ r̥tā́vā  
-devó ná yáḥ savitā́ satyámanmā  
+नू꣡ नस् तुवं꣡ रथिरो꣡ देव सोम  
+प꣡रि स्रव चमु꣡वोः पूय꣡मानः  
+अप्सु꣡ स्वा꣡दिष्ठो म꣡धुमाँ ऋता꣡वा  
+देवो꣡ न꣡ यः꣡ सविता꣡ सत्य꣡मन्मा  

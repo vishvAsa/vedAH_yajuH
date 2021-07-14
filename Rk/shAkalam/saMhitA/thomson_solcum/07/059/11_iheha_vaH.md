@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-ihéha vaḥ svatavasaḥ  
-kávayaḥ sū́riyatvacaḥ  
-yajñám maruta ā́ vr̥ṇe  
+इहे꣡ह वः स्वतवसः  
+क꣡वयः सू꣡रियत्वचः  
+यज्ञ꣡म् मरुत आ꣡ वृणे  

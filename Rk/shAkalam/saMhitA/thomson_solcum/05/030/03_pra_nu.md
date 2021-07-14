@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá nú vayáṃ suté yā́ te kr̥tā́ni  
-índra brávāma yā́ni no jújoṣaḥ  
-védad ávidvāñ chr̥ṇávac ca vidvā́n  
-váhate 'yám maghávā sárvasenaḥ  
+प्र꣡ नु꣡ वयं꣡ सुते꣡ या꣡ ते कृता꣡नि  
+इ꣡न्द्र ब्र꣡वाम या꣡नि नो जु꣡जोषः  
+वे꣡दद् अ꣡विद्वाञ् छृण꣡वच् च विद्वा꣡न्  
+व꣡हते ऽय꣡म् मघ꣡वा स꣡र्वसेनः  

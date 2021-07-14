@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-só agna īje śaśamé ca márto  
-yás ta ā́naṭ samídhā havyádātim  
-yá ā́hutim pári védā námobhir  
-víśvét sá vāmā́ dadhate tuvótaḥ  
+सो꣡ अग्न ईजे शशमे꣡ च म꣡र्तो  
+य꣡स् त आ꣡नट् समि꣡धा हव्य꣡दातिम्  
+य꣡ आ꣡हुतिम् प꣡रि वे꣡दा न꣡मोभिर्  
+वि꣡श्वे꣡त् स꣡ वामा꣡ दधते तुवो꣡तः  

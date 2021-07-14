@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-praíṣām ájmeṣu vithuréva rejate  
-bhū́mir yā́meṣu yád dha yuñjáte śubhé  
-té krīḷáyo dhúnayo bhrā́jadr̥ṣṭayaḥ  
-svayám mahitvám panayanta dhū́tayaḥ  
+प्रइ꣡षाम् अ꣡ज्मेषु विथुरे꣡व रेजते  
+भू꣡मिर् या꣡मेषु य꣡द् ध युञ्ज꣡ते शुभे꣡  
+ते꣡ क्रीऌअ꣡यो धु꣡नयो भ्रा꣡जदृष्टयः  
+स्वय꣡म् महित्व꣡म् पनयन्त धू꣡तयः  

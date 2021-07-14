@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-śáviṣṭhaṃ na ā́ bhara śūra śáva  
-ójiṣṭham ójo abhibhūta ugrám  
-víśvā dyumnā́ vŕ̥ṣṇiyā mā́nuṣāṇām  
-asmábhyaṃ dā harivo mādayádhyai  
+श꣡विष्ठं न आ꣡ भर शूर श꣡व  
+ओ꣡जिष्ठम् ओ꣡जो अभिभूत उग्र꣡म्  
+वि꣡श्वा द्युम्ना꣡ व्ŕ̥ष्णिया मा꣡नुषाणाम्  
+अस्म꣡भ्यं दा हरिवो मादय꣡ध्यै  

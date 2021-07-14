@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuváṃ no agna eṣãṃ  
-gáyam puṣṭíṃ ca vardhaya  
-yé stómebhiḥ prá sūráyo  
-náro maghā́ni ānaśúḥ  
+तुवं꣡ नो अग्न एष्ãं  
+ग꣡यम् पुष्टिं꣡ च वर्धय  
+ये꣡ स्तो꣡मेभिः प्र꣡ सूर꣡यो  
+न꣡रो मघा꣡नि आनशुः꣡  

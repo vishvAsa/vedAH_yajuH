@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yā́m me dhíyam máruta índra dévā  
-ádadāta varuṇa mitra yūyám  
-tā́m pīpayata páyaseva dhenúṃ  
-kuvíd gíro ádhi ráthe váhātha  
+या꣡म् मे धि꣡यम् म꣡रुत इ꣡न्द्र दे꣡वा  
+अ꣡ददात वरुण मित्र यूय꣡म्  
+ता꣡म् पीपयत प꣡यसेव धेनुं꣡  
+कुवि꣡द् गि꣡रो अ꣡धि र꣡थे व꣡हाथ  

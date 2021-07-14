@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vavakṣá índro ámitam r̥jīṣī́  
-ubhé ā́ paprau ródasī mahitvā́  
-átaś cid asya mahimā́ ví reci  
-abhí yó víśvā bhúvanā babhū́va  
+ववक्ष꣡ इ꣡न्द्रो अ꣡मितम् ऋजीषी꣡  
+उभे꣡ आ꣡ पप्रौ रो꣡दसी महित्वा꣡  
+अ꣡तश् चिद् अस्य महिमा꣡ वि꣡ रेचि  
+अभि꣡ यो꣡ वि꣡श्वा भु꣡वना बभू꣡व  

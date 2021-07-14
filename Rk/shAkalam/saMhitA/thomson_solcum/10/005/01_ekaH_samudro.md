@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ékaḥ samudró dharúṇo rayīṇā́m  
-asmád dhr̥dó bhū́rijanmā ví caṣṭe  
-síṣakti ū́dhar niṇiyór upástha  
-útsasya mádhye níhitam padáṃ véḥ  
+ए꣡कः समुद्रो꣡ धरु꣡णो रयीणा꣡म्  
+अस्म꣡द् धृदो꣡ भू꣡रिजन्मा वि꣡ चष्टे  
+सि꣡षक्ति ऊ꣡धर् निणियो꣡र् उप꣡स्थ  
+उ꣡त्सस्य म꣡ध्ये नि꣡हितम् पदं꣡ वेः꣡  

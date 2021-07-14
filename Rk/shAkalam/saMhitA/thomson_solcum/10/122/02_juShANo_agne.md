@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-juṣāṇó agne práti harya me váco  
-víśvāni vidvā́n vayúnāni sukrato  
-ghŕ̥tanirṇig bráhmaṇe gātúm éraya  
-táva devā́ ajanayann ánu vratám  
+जुषाणो꣡ अग्ने प्र꣡ति हर्य मे व꣡चो  
+वि꣡श्वानि विद्वा꣡न् वयु꣡नानि सुक्रतो  
+घ्ŕ̥तनिर्णिग् ब्र꣡ह्मणे गातु꣡म् ए꣡रय  
+त꣡व देवा꣡ अजनयन्न् अ꣡नु व्रत꣡म्  

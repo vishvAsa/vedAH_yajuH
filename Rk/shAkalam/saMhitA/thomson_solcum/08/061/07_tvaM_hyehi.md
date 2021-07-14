@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tuváṃ hí éhi cérave  
-vidā́ bhágaṃ vásuttaye  
-úd vāvr̥ṣasva maghavan gáviṣṭaya  
-úd indra áśvamiṣṭaye  
+तुवं꣡ हि꣡ ए꣡हि चे꣡रवे  
+विदा꣡ भ꣡गं व꣡सुत्तये  
+उ꣡द् वावृषस्व मघवन् ग꣡विष्टय  
+उ꣡द् इन्द्र अ꣡श्वमिष्टये  

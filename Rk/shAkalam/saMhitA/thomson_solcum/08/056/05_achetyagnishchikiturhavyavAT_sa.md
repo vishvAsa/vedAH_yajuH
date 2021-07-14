@@ -2,8 +2,8 @@
 title = "005"
 
 +++
-áceti agníś cikitúr  
-havyavā́ṭ sá sumádrathaḥ  
-agníḥ śukréṇa śocíṣā  
-br̥hát sū́ro arocata  
-diví sū́ryo arocata  
+अ꣡चेति अग्नि꣡श् चिकितु꣡र्  
+हव्यवा꣡ट् स꣡ सुम꣡द्रथः  
+अग्निः꣡ शुक्रे꣡ण शोचि꣡षा  
+बृह꣡त् सू꣡रो अरोचत  
+दिवि꣡ सू꣡र्यो अरोचत  

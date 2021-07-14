@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-iyám mád vām prá str̥ṇīte manīṣā́  
-úpa priyā́ námasā barhír ácha  
-yantáṃ no mitrāvaruṇāv ádhr̥ṣṭaṃ  
-chardír yád vāṃ varūthíyaṃ sudānū  
+इय꣡म् म꣡द् वाम् प्र꣡ स्तृणीते मनीषा꣡  
+उ꣡प प्रिया꣡ न꣡मसा बर्हि꣡र् अ꣡छ  
+यन्तं꣡ नो मित्रावरुणाव् अ꣡धृष्टं  
+छर्दि꣡र् य꣡द् वां वरूथि꣡यं सुदानू  

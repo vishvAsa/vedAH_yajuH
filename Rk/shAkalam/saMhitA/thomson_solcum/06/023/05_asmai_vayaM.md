@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ásmai vayáṃ yád vāvā́na tád viviṣma  
-índrāya yó naḥ pradívo ápas káḥ  
-suté sóme stumási śáṃsad ukthā́  
-índrāya bráhma várdhanaṃ yáthā́sat  
+अ꣡स्मै वयं꣡ य꣡द् वावा꣡न त꣡द् विविष्म  
+इ꣡न्द्राय यो꣡ नः प्रदि꣡वो अ꣡पस् कः꣡  
+सुते꣡ सो꣡मे स्तुम꣡सि शं꣡सद् उक्था꣡  
+इ꣡न्द्राय ब्र꣡ह्म व꣡र्धनं य꣡था꣡सत्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-índrāvaruṇā vadhánābhir apratí  
-bhedáṃ vanvántā prá sudā́sam āvatam  
-bráhmāṇi eṣāṃ śr̥ṇutaṃ hávīmani  
-satyā́ tŕ̥tsūnām abhavat puróhitiḥ  
+इ꣡न्द्रावरुणा वध꣡नाभिर् अप्रति꣡  
+भेदं꣡ वन्व꣡न्ता प्र꣡ सुदा꣡सम् आवतम्  
+ब्र꣡ह्माणि एषां शृणुतं ह꣡वीमनि  
+सत्या꣡ त्ŕ̥त्सूनाम् अभवत् पुरो꣡हितिः  

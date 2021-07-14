@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yáṃ tvā vājinn aghniyā́ abhy ánūṣata  
-áyohataṃ yónim ā́ rohasi dyumā́n  
-maghónām ā́yuḥ pratirán máhi śráva  
-índrāya soma pavase vŕ̥ṣā mádaḥ  
+यं꣡ त्वा वाजिन्न् अघ्निया꣡ अभ्य् अ꣡नूषत  
+अ꣡योहतं यो꣡निम् आ꣡ रोहसि द्युमा꣡न्  
+मघो꣡नाम् आ꣡युः प्रतिर꣡न् म꣡हि श्र꣡व  
+इ꣡न्द्राय सोम पवसे व्ŕ̥षा म꣡दः  

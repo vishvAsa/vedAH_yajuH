@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-índraś ca mr̥̄ḷáyāti+ no  
-ná naḥ paścā́d agháṃ naśat  
-bhadrám bhavāti naḥ puráḥ  
+इ꣡न्द्रश् च मॄऌअ꣡याति+ नो  
+न꣡ नः पश्चा꣡द् अघं꣡ नशत्  
+भद्र꣡म् भवाति नः पुरः꣡  

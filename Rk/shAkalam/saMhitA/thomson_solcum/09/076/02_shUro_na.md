@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-śū́ro ná dhatta ā́yudhā gábhastiyoḥ  
-súvaḥ síṣāsan rathiró gáviṣṭiṣu  
-índrasya śúṣmam īráyann apasyúbhir  
-índur hinvānó ajyate manīṣíbhiḥ  
+शू꣡रो न꣡ धत्त आ꣡युधा ग꣡भस्तियोः  
+सु꣡वः सि꣡षासन् रथिरो꣡ ग꣡विष्टिषु  
+इ꣡न्द्रस्य शु꣡ष्मम् ईर꣡यन्न् अपस्यु꣡भिर्  
+इ꣡न्दुर् हिन्वानो꣡ अज्यते मनीषि꣡भिः  

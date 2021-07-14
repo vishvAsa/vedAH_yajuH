@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vaiśvānarásya sumataú siyāma  
-rā́jā hí kam bhúvanānām abhiśrī́ḥ  
-itó jātó víśvam idáṃ ví caṣṭe  
-vaiśvānaró yatate sū́riyeṇa  
+वैश्वानर꣡स्य सुमतउ꣡ सियाम  
+रा꣡जा हि꣡ कम् भु꣡वनानाम् अभिश्रीः꣡  
+इतो꣡ जातो꣡ वि꣡श्वम् इदं꣡ वि꣡ चष्टे  
+वैश्वानरो꣡ यतते सू꣡रियेण  

@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-abhí dyumnám br̥hád yáśa  
-íṣas pate didīhí deva devayúḥ  
-ví kóśam madhyamáṃ yuva  
+अभि꣡ द्युम्न꣡म् बृह꣡द् य꣡श  
+इ꣡षस् पते दिदीहि꣡ देव देवयुः꣡  
+वि꣡ को꣡शम् मध्यमं꣡ युव  

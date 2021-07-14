@@ -2,7 +2,7 @@
 title = "036"
 
 +++
-saptā́rdhagarbhā́ bhúvanasya réto  
-víṣṇos tiṣṭhanti pradíśā vídharmaṇi  
-té dhītíbhir mánasā té vipaścítaḥ  
-paribhúvaḥ pári bhavanti viśvátaḥ  
+सप्ता꣡र्धगर्भा꣡ भु꣡वनस्य रे꣡तो  
+वि꣡ष्णोस् तिष्ठन्ति प्रदि꣡शा वि꣡धर्मणि  
+ते꣡ धीति꣡भिर् म꣡नसा ते꣡ विपश्चि꣡तः  
+परिभु꣡वः प꣡रि भवन्ति विश्व꣡तः  

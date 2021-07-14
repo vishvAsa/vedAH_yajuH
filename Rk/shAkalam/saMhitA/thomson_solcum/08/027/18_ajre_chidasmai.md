@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-ájre cid asmai kr̥ṇuthā niáñcanaṃ  
-durgé cid ā́ susaraṇám  
-eṣā́ cid asmād aśániḥ paró nú sā́  
-ásredhantī ví naśyatu  
+अ꣡ज्रे चिद् अस्मै कृणुथा निअ꣡ञ्चनं  
+दुर्गे꣡ चिद् आ꣡ सुसरण꣡म्  
+एषा꣡ चिद् अस्माद् अश꣡निः परो꣡ नु꣡ सा꣡  
+अ꣡स्रेधन्ती वि꣡ नश्यतु  

@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-úpa str̥ṇītam átraye  
-hiména gharmám aśvinā  
-ánti ṣad bhūtu vām ávaḥ  
+उ꣡प स्तृणीतम् अ꣡त्रये  
+हिमे꣡न घर्म꣡म् अश्विना  
+अ꣡न्ति षद् भूतु वाम् अ꣡वः  

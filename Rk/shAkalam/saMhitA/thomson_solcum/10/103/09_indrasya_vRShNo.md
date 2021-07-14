@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-índrasya vŕ̥ṣṇo váruṇasya rā́jña  
-ādityā́nām marútāṃ śárdha ugrám  
-mahā́manasām bhuvanacyavā́nāṃ  
-ghóṣo devā́nāṃ jáyatām úd asthāt  
+इ꣡न्द्रस्य व्ŕ̥ष्णो व꣡रुणस्य रा꣡ज्ञ  
+आदित्या꣡नाम् मरु꣡तां श꣡र्ध उग्र꣡म्  
+महा꣡मनसाम् भुवनच्यवा꣡नां  
+घो꣡षो देवा꣡नां ज꣡यताम् उ꣡द् अस्थात्  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yátra śū́rāsas tanúvo vitanvaté  
-priyā́ śárma pitr̥̄ṇã́m  
-ádha smā yacha tanvè táne ca chardír  
-acíttaṃ yāváya dvéṣaḥ  
+य꣡त्र शू꣡रासस् तनु꣡वो वितन्वते꣡  
+प्रिया꣡ श꣡र्म पितॄण्ã꣡म्  
+अ꣡ध स्मा यछ तन्वे᳡ त꣡ने च छर्दि꣡र्  
+अचि꣡त्तं याव꣡य द्वे꣡षः  

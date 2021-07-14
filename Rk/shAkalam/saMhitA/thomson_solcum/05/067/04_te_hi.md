@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-té hí satyā́ r̥taspŕ̥śa  
-r̥tā́vāno jáne-jane  
-sunīthā́saḥ sudā́navo  
-aṃhóś cid urucákrayaḥ  
+ते꣡ हि꣡ सत्या꣡ ऋतस्प्ŕ̥श  
+ऋता꣡वानो ज꣡ने-जने  
+सुनीथा꣡सः सुदा꣡नवो  
+अंहो꣡श् चिद् उरुच꣡क्रयः  

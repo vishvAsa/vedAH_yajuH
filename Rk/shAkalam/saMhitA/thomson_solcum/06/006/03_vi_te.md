@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ví te víṣvag vā́tajūtāso agne  
-bhā́māsaḥ śuce śúcayaś caranti  
-tuvimrakṣā́so diviyā́ návagvā  
-vánā vananti dhr̥ṣatā́ rujántaḥ  
+वि꣡ ते वि꣡ष्वग् वा꣡तजूतासो अग्ने  
+भा꣡मासः शुचे शु꣡चयश् चरन्ति  
+तुविम्रक्षा꣡सो दिविया꣡ न꣡वग्वा  
+व꣡ना वनन्ति धृषता꣡ रुज꣡न्तः  

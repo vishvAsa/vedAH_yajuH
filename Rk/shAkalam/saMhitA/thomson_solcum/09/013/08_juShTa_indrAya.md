@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-júṣṭa índrāya matsaráḥ  
-pávamāna kánikradat  
-víśvā ápa dvíṣo jahi  
+जु꣡ष्ट इ꣡न्द्राय मत्सरः꣡  
+प꣡वमान क꣡निक्रदत्  
+वि꣡श्वा अ꣡प द्वि꣡षो जहि  

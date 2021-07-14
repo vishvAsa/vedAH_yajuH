@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvám mahī́m avániṃ viśvádhenāṃ  
-turvī́taye vayíyāya kṣárantīm  
-áramayo námasā éjad árṇaḥ  
-sutaraṇā́m̐ akr̥ṇor indra síndhūn  
+तुव꣡म् मही꣡म् अव꣡निं विश्व꣡धेनां  
+तुर्वी꣡तये वयि꣡याय क्ष꣡रन्तीम्  
+अ꣡रमयो न꣡मसा ए꣡जद् अ꣡र्णः  
+सुतरणाँ꣡ अकृणोर् इन्द्र सि꣡न्धून्  

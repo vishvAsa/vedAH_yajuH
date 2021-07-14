@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-yáyā gā́ ākárāmahe  
-sénayāgne távotiyā́  
-tā́ṃ no hinva magháttaye  
+य꣡या गा꣡ आक꣡रामहे  
+से꣡नयाग्ने त꣡वोतिया꣡  
+तां꣡ नो हिन्व मघ꣡त्तये  

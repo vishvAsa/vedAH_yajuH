@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-médyantu te váhnayo yébhir ī́yase  
-áriṣaṇyan vīḷayasvā vanaspate  
-āyū́yā dhŕ̥ṣṇo abhigū́riyā tuváṃ  
-neṣṭrā́t sómaṃ draviṇodaḥ píba rtúbhiḥ  
+मे꣡द्यन्तु ते व꣡ह्नयो ये꣡भिर् ई꣡यसे  
+अ꣡रिषण्यन् वीऌअयस्वा वनस्पते  
+आयू꣡या ध्ŕ̥ष्णो अभिगू꣡रिया तुवं꣡  
+नेष्ट्रा꣡त् सो꣡मं द्रविणोदः पि꣡ब र्तु꣡भिः  

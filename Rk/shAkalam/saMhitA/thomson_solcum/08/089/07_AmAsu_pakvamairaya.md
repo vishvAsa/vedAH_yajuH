@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-āmā́su pakvám aíraya  
-ā́ sū́ryaṃ rohayo diví  
-gharmáṃ ná sā́man tapatā suvr̥ktíbhir  
-júṣṭaṃ gírvaṇase br̥hát  
+आमा꣡सु पक्व꣡म् अइ꣡रय  
+आ꣡ सू꣡र्यं रोहयो दिवि꣡  
+घर्मं꣡ न꣡ सा꣡मन् तपता सुवृक्ति꣡भिर्  
+जु꣡ष्टं गि꣡र्वणसे बृह꣡त्  

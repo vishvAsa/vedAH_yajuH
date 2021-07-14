@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-úd abhrā́ṇīva stanáyann iyarti  
-índro rā́dhāṃsi áśviyāni gávyā  
-tuvám asi pradívaḥ kārúdhāyā  
-mā́ tvādāmā́na ā́ dabhan maghónaḥ  
+उ꣡द् अभ्रा꣡णीव स्तन꣡यन्न् इयर्ति  
+इ꣡न्द्रो रा꣡धांसि अ꣡श्वियानि ग꣡व्या  
+तुव꣡म् असि प्रदि꣡वः कारु꣡धाया  
+मा꣡ त्वादामा꣡न आ꣡ दभन् मघो꣡नः  

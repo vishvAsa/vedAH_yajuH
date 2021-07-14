@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-stuṣé sā́ vāṃ varuṇa mitra rātír  
-gávāṃ śatā́ pr̥kṣáyāmeṣu pajré  
-śrutárathe priyárathe dádhānāḥ  
-sadyáḥ puṣṭíṃ nirundhānā́so agman  
+स्तुषे꣡ सा꣡ वां वरुण मित्र राति꣡र्  
+ग꣡वां शता꣡ पृक्ष꣡यामेषु पज्रे꣡  
+श्रुत꣡रथे प्रिय꣡रथे द꣡धानाः  
+सद्यः꣡ पुष्टिं꣡ निरुन्धाना꣡सो अग्मन्  

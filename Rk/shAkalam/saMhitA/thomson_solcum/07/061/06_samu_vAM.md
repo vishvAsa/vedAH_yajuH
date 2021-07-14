@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sám u vāṃ yajñám mahayaṃ námobhir  
-huvé vām mitrāvaruṇā sabā́dhaḥ  
-prá vām mánmāni r̥cáse návāni  
-kr̥tā́ni bráhma jujuṣann imā́ni  
+स꣡म् उ वां यज्ञ꣡म् महयं न꣡मोभिर्  
+हुवे꣡ वाम् मित्रावरुणा सबा꣡धः  
+प्र꣡ वाम् म꣡न्मानि ऋच꣡से न꣡वानि  
+कृता꣡नि ब्र꣡ह्म जुजुषन्न् इमा꣡नि  

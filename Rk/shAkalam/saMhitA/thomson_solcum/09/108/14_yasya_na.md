@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yásya na índraḥ píbād yásya marúto  
-yásya vāryamáṇā bhágaḥ  
-ā́ yéna mitrā́váruṇā kárāmaha  
-ā́ índram ávase mahé  
+य꣡स्य न इ꣡न्द्रः पि꣡बाद् य꣡स्य मरु꣡तो  
+य꣡स्य वार्यम꣡णा भ꣡गः  
+आ꣡ ये꣡न मित्रा꣡व꣡रुणा क꣡रामह  
+आ꣡ इ꣡न्द्रम् अ꣡वसे महे꣡  

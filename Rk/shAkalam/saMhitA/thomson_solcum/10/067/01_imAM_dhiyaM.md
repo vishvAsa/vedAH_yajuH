@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imā́ṃ dhíyaṃ saptáśīrṣṇīm pitā́ na  
-r̥táprajātām br̥hatī́m avindat  
-turī́yaṃ svij janayad viśvájanyo  
-ayā́siya ukthám índrāya śáṃsan  
+इमां꣡ धि꣡यं सप्त꣡शीर्ष्णीम् पिता꣡ न  
+ऋत꣡प्रजाताम् बृहती꣡म् अविन्दत्  
+तुरी꣡यं स्विज् जनयद् विश्व꣡जन्यो  
+अया꣡सिय उक्थ꣡म् इ꣡न्द्राय शं꣡सन्  

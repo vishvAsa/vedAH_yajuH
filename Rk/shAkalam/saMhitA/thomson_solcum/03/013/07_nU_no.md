@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-nū́ no rāsva sahásravat  
-tokávat puṣṭimád vásu  
-dyumád agne suvī́riyaṃ  
-várṣiṣṭham ánupakṣitam  
+नू꣡ नो रास्व सह꣡स्रवत्  
+तोक꣡वत् पुष्टिम꣡द् व꣡सु  
+द्युम꣡द् अग्ने सुवी꣡रियं  
+व꣡र्षिष्ठम् अ꣡नुपक्षितम्  

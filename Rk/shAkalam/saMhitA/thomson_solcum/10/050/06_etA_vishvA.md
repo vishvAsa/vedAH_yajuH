@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-etā́ víśvā sávanā tūtumā́ kr̥ṣe  
-svayáṃ sūno sahaso yā́ni dadhiṣé  
-várāya te pā́taraṃ+ dhármaṇe tánā  
-yajñó mántro · bráhma údyataṃ vácaḥ  
+एता꣡ वि꣡श्वा स꣡वना तूतुमा꣡ कृषे  
+स्वयं꣡ सूनो सहसो या꣡नि दधिषे꣡  
+व꣡राय ते पा꣡तरं+ ध꣡र्मणे त꣡ना  
+यज्ञो꣡ म꣡न्त्रो · ब्र꣡ह्म उ꣡द्यतं व꣡चः  

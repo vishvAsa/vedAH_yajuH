@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-evā́ mahás tuvijātás túviṣmān  
-bŕ̥haspátir vr̥ṣabhó dhāyi deváḥ  
-sá na stutó vīrávad dhātu gómad  
-vidyā́meṣáṃ vr̥jánaṃ jīrádānum  
+एवा꣡ मह꣡स् तुविजात꣡स् तु꣡विष्मान्  
+ब्ŕ̥हस्प꣡तिर् वृषभो꣡ धायि देवः꣡  
+स꣡ न स्तुतो꣡ वीर꣡वद् धातु गो꣡मद्  
+विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्  

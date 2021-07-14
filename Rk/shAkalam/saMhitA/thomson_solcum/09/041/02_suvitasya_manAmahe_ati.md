@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-suvitásya manāmahe  
-áti sétuṃ durāvíyam  
-sāhvā́ṃso dásyum avratám  
+सुवित꣡स्य मनामहे  
+अ꣡ति से꣡तुं दुरावि꣡यम्  
+साह्वां꣡सो द꣡स्युम् अव्रत꣡म्  

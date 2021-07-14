@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ávye vadhūyúḥ pavate pári tvací  
-śrathnīté naptī́r áditer r̥táṃ yaté  
-hárir akrān yajatáḥ saṃyató mádo  
-nr̥mṇā́ śíśāno mahiṣó ná śobhate  
+अ꣡व्ये वधूयुः꣡ पवते प꣡रि त्वचि꣡  
+श्रथ्नीते꣡ नप्ती꣡र् अ꣡दितेर् ऋतं꣡ यते꣡  
+ह꣡रिर् अक्रान् यजतः꣡ संयतो꣡ म꣡दो  
+नृम्णा꣡ शि꣡शानो महिषो꣡ न꣡ शोभते  

@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-yā́bhir narā trasádasyum  
-ā́vataṃ kŕ̥tviye dháne  
-tā́bhiḥ ṣú asmā́m̐ aśvinā  
-prā́vataṃ vā́jasātaye  
+या꣡भिर् नरा त्रस꣡दस्युम्  
+आ꣡वतं क्ŕ̥त्विये ध꣡ने  
+ता꣡भिः षु꣡ अस्माँ꣡ अश्विना  
+प्रा꣡वतं वा꣡जसातये  

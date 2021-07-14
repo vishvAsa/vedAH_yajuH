@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-kíṃ no bhrātar agastiya  
-sákhā sánn áti manyase  
-vidmā́ hí te yáthā máno  
-asmábhyam ín ná ditsasi  
+किं꣡ नो भ्रातर् अगस्तिय  
+स꣡खा स꣡न्न् अ꣡ति मन्यसे  
+विद्मा꣡ हि꣡ ते य꣡था म꣡नो  
+अस्म꣡भ्यम् इ꣡न् न꣡ दित्ससि  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-agním īḷe puróhitaṃ  
-yajñásya devám r̥tvíjam  
-hótāraṃ ratnadhā́tamam  
+अग्नि꣡म् ईऌए पुरो꣡हितं  
+यज्ञ꣡स्य देव꣡म् ऋत्वि꣡जम्  
+हो꣡तारं रत्नधा꣡तमम्  

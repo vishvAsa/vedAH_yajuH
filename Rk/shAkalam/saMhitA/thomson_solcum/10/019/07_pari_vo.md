@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-pári vo viśváto dadha  
-ūrjā́ ghr̥téna páyasā  
-yé devā́ḥ ké ca yajñíyās  
-té rayyā́ sáṃ sr̥jantu naḥ  
+प꣡रि वो विश्व꣡तो दध  
+ऊर्जा꣡ घृते꣡न प꣡यसा  
+ये꣡ देवाः꣡ के꣡ च यज्ञि꣡यास्  
+ते꣡ रय्या꣡ सं꣡ सृजन्तु नः  

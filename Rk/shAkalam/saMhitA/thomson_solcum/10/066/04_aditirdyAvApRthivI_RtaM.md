@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-áditir dyā́vāpr̥thivī́ r̥tám mahád  
-índrāvíṣṇū · marútaḥ súvar br̥hát  
-devā́m̐ ādityā́m̐ ávase havāmahe  
-vásūn rudrā́n savitā́raṃ sudáṃsasam  
+अ꣡दितिर् द्या꣡वापृथिवी꣡ ऋत꣡म् मह꣡द्  
+इ꣡न्द्रावि꣡ष्णू · मरु꣡तः सु꣡वर् बृह꣡त्  
+देवाँ꣡ आदित्याँ꣡ अ꣡वसे हवामहे  
+व꣡सून् रुद्रा꣡न् सविता꣡रं सुदं꣡ससम्  

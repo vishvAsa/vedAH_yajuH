@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-aseniyā́ vaḥ paṇayo vácāṃsi  
-aniṣavyā́s tanúvaḥ santu pāpī́ḥ  
-ádhr̥ṣṭo va étavā́ astu pánthā  
-bŕ̥haspátir va ubhayā́ ná mr̥̄ḷāt+  
+असेनिया꣡ वः पणयो व꣡चांसि  
+अनिषव्या꣡स् तनु꣡वः सन्तु पापीः꣡  
+अ꣡धृष्टो व ए꣡तवा꣡ अस्तु प꣡न्था  
+ब्ŕ̥हस्प꣡तिर् व उभया꣡ न꣡ मॄऌआत्+  

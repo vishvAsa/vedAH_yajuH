@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mó ṣú tvā vāghátaś caná  
-āré asmán ní rīraman  
-ārā́ttāc cit sadhamā́daṃ na ā́ gahi  
-ihá vā sánn úpa śrudhi  
+मो꣡ षु꣡ त्वा वाघ꣡तश् चन꣡  
+आरे꣡ अस्म꣡न् नि꣡ रीरमन्  
+आरा꣡त्ताच् चित् सधमा꣡दं न आ꣡ गहि  
+इह꣡ वा स꣡न्न् उ꣡प श्रुधि  

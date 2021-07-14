@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-kím idáṃ vām purāṇaváj  
-járator iva śasyate  
-ánti ṣad bhūtu vām ávaḥ  
+कि꣡म् इदं꣡ वाम् पुराणव꣡ज्  
+ज꣡रतोर् इव शस्यते  
+अ꣡न्ति षद् भूतु वाम् अ꣡वः  

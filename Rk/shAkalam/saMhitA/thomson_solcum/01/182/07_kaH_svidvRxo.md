@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-káḥ svid vr̥kṣó níṣṭhito mádhye árṇaso  
-yáṃ taugriyó nādhitáḥ paryáṣasvajat  
-parṇā́ mr̥gásya patáror ivārábha  
-úd aśvinā ūhathuḥ śrómatāya kám  
+कः꣡ स्विद् वृक्षो꣡ नि꣡ष्ठितो म꣡ध्ये अ꣡र्णसो  
+यं꣡ तौग्रियो꣡ नाधितः꣡ पर्य꣡षस्वजत्  
+पर्णा꣡ मृग꣡स्य पत꣡रोर् इवार꣡भ  
+उ꣡द् अश्विना ऊहथुः श्रो꣡मताय क꣡म्  

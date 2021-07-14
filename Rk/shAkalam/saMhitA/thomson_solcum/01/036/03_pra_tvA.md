@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-prá tvā dūtáṃ vr̥ṇīmahe  
-hótāraṃ viśvávedasam  
-mahás te sató ví caranti arcáyo  
-diví spr̥śanti bhānávaḥ  
+प्र꣡ त्वा दूतं꣡ वृणीमहे  
+हो꣡तारं विश्व꣡वेदसम्  
+मह꣡स् ते सतो꣡ वि꣡ चरन्ति अर्च꣡यो  
+दिवि꣡ स्पृशन्ति भान꣡वः  

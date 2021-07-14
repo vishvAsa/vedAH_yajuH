@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ádhā hí indra girvaṇa  
-úpa tvā kā́mān maháḥ sasr̥jmáhe  
-udéva yánta udábhiḥ  
+अ꣡धा हि꣡ इन्द्र गिर्वण  
+उ꣡प त्वा का꣡मान् महः꣡ ससृज्म꣡हे  
+उदे꣡व य꣡न्त उद꣡भिः  

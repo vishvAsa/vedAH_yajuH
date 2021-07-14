@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tuváṃ na indra vājayús  
-tuváṃ gavyúḥ śatakrato  
-tuváṃ hiraṇyayúr vaso  
+तुवं꣡ न इन्द्र वाजयु꣡स्  
+तुवं꣡ गव्युः꣡ शतक्रतो  
+तुवं꣡ हिरण्ययु꣡र् वसो  

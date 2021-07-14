@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-mahā́m̐ ŕ̥ṣir devajā́ devájūto  
-ástabhnāt síndhum arṇaváṃ nr̥cákṣāḥ  
-viśvā́mitro yád ávahat sudā́sam  
-ápriyāyata kuśikébhir índraḥ  
+महाँ꣡ ŕ̥षिर् देवजा꣡ देव꣡जूतो  
+अ꣡स्तभ्नात् सि꣡न्धुम् अर्णवं꣡ नृच꣡क्षाः  
+विश्वा꣡मित्रो य꣡द् अ꣡वहत् सुदा꣡सम्  
+अ꣡प्रियायत कुशिके꣡भिर् इ꣡न्द्रः  

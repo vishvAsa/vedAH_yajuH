@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-anyád adyá kárvaram anyád u śvó  
-ásac ca sán múhur ācakrír índraḥ  
-mitró no átra váruṇaś ca pūṣā́  
-aryó váśasya parietā́ asti  
+अन्य꣡द् अद्य꣡ क꣡र्वरम् अन्य꣡द् उ श्वो꣡  
+अ꣡सच् च स꣡न् मु꣡हुर् आचक्रि꣡र् इ꣡न्द्रः  
+मित्रो꣡ नो अ꣡त्र व꣡रुणश् च पूषा꣡  
+अर्यो꣡ व꣡शस्य परिएता꣡ अस्ति  

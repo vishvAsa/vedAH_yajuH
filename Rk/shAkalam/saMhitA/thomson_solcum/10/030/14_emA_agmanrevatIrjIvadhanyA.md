@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-émā́ agman revátīr jīvádhanyā  
-ádhvaryavaḥ sādáyatā sakhāyaḥ  
-ní barhíṣi dhattana somiyāso  
-apā́ṃ náptrā saṃvidānā́sa enāḥ  
+ए꣡मा꣡ अग्मन् रेव꣡तीर् जीव꣡धन्या  
+अ꣡ध्वर्यवः साद꣡यता सखायः  
+नि꣡ बर्हि꣡षि धत्तन सोमियासो  
+अपां꣡ न꣡प्त्रा संविदाना꣡स एनाः  

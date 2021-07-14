@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yuvór aśvinā vápuṣe yuvāyújaṃ  
-ráthaṃ vā́ṇī yematur asya śárdhiyam  
-ā́ vām patitváṃ sakhiyā́ya jagmúṣī  
-yóṣāvr̥ṇīta jéniyā yuvā́m pátī  
+युवो꣡र् अश्विना व꣡पुषे युवायु꣡जं  
+र꣡थं वा꣡णी येमतुर् अस्य श꣡र्धियम्  
+आ꣡ वाम् पतित्वं꣡ सखिया꣡य जग्मु꣡षी  
+यो꣡षावृणीत जे꣡निया युवा꣡म् प꣡ती  

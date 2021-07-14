@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-ā́ yád duvasyā́d duváse ná kārúr  
-asmā́ñ cakré · māniyásya medhā́  
-ó ṣú vartta maruto vípram ácha  
-imā́ bráhmāṇi jaritā́ vo arcat  
+आ꣡ य꣡द् दुवस्या꣡द् दुव꣡से न꣡ कारु꣡र्  
+अस्मा꣡ञ् चक्रे꣡ · मानिय꣡स्य मेधा꣡  
+ओ꣡ षु꣡ वर्त्त मरुतो वि꣡प्रम् अ꣡छ  
+इमा꣡ ब्र꣡ह्माणि जरिता꣡ वो अर्चत्  

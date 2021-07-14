@@ -2,9 +2,9 @@
 title = "001"
 
 +++
-asmā́ ū ṣú prábhūtaye  
-váruṇāya marúdbhiyo  
-árcā vidúṣṭarebhiyaḥ  
-yó dhītā́ mā́nuṣāṇãm  
-paśvó gā́ iva rákṣati  
-nábhantām anyaké same  
+अस्मा꣡ ऊ षु꣡ प्र꣡भूतये  
+व꣡रुणाय मरु꣡द्भियो  
+अ꣡र्चा विदु꣡ष्टरेभियः  
+यो꣡ धीता꣡ मा꣡नुषाण्ãम्  
+पश्वो꣡ गा꣡ इव र꣡क्षति  
+न꣡भन्ताम् अन्यके꣡ समे  

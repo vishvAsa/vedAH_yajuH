@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ichánti tvā somiyā́saḥ sákhāyaḥ  
-sunvánti sómaṃ dádhati práyāṃsi  
-títikṣante abhíśastiṃ jánānām  
-índra tvád ā́ káś caná hí praketáḥ  
+इछ꣡न्ति त्वा सोमिया꣡सः स꣡खायः  
+सुन्व꣡न्ति सो꣡मं द꣡धति प्र꣡यांसि  
+ति꣡तिक्षन्ते अभि꣡शस्तिं ज꣡नानाम्  
+इ꣡न्द्र त्व꣡द् आ꣡ क꣡श् चन꣡ हि꣡ प्रकेतः꣡  

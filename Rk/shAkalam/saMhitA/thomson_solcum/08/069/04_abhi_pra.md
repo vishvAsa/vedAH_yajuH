@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-abhí prá gópatiṃ girā́  
-índram arca yáthā vidé  
-sūnúṃ satyásya sátpatim  
+अभि꣡ प्र꣡ गो꣡पतिं गिरा꣡  
+इ꣡न्द्रम् अर्च य꣡था विदे꣡  
+सूनुं꣡ सत्य꣡स्य स꣡त्पतिम्  

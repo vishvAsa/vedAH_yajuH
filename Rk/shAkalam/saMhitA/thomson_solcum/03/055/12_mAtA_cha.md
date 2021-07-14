@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-mātā́ ca yátra duhitā́ ca dhenū́  
-sabardúghe dhāpáyete samīcī́  
-r̥tásya té sádasi īḷe antár  
-mahád devā́nām asuratvám ékam  
+माता꣡ च य꣡त्र दुहिता꣡ च धेनू꣡  
+सबर्दु꣡घे धाप꣡येते समीची꣡  
+ऋत꣡स्य ते꣡ स꣡दसि ईऌए अन्त꣡र्  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

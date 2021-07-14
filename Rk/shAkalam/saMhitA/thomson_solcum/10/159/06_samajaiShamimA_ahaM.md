@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sám ajaiṣam imā́ aháṃ  
-sapátnīr abhibhū́varī  
-yáthāhám asyá vīrásya  
-virā́jāni jánasya ca  
+स꣡म् अजैषम् इमा꣡ अहं꣡  
+सप꣡त्नीर् अभिभू꣡वरी  
+य꣡थाह꣡म् अस्य꣡ वीर꣡स्य  
+विरा꣡जानि ज꣡नस्य च  

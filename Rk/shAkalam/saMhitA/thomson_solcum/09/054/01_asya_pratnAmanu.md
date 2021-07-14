@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-asyá pratnā́m ánu dyútaṃ  
-śukráṃ duduhre áhrayaḥ  
-páyaḥ sahasrasā́m ŕ̥ṣim  
+अस्य꣡ प्रत्ना꣡म् अ꣡नु द्यु꣡तं  
+शुक्रं꣡ दुदुह्रे अ꣡ह्रयः  
+प꣡यः सहस्रसा꣡म् ŕ̥षिम्  

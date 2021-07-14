@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yám r̥tvíjo bahudhā́ kalpáyantaḥ  
-sácetaso yajñám imáṃ váhanti  
-yó 'nūcānó° brāhmaṇó yuktá āsīt  
-kā́ svit tátra yájamānasya saṃvít  
+य꣡म् ऋत्वि꣡जो बहुधा꣡ कल्प꣡यन्तः  
+स꣡चेतसो यज्ञ꣡म् इमं꣡ व꣡हन्ति  
+यो꣡ ऽनूचानो꣡° ब्राह्मणो꣡ युक्त꣡ आसीत्  
+का꣡ स्वित् त꣡त्र य꣡जमानस्य संवि꣡त्  

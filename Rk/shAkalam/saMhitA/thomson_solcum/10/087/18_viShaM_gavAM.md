@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-viṣáṃ gávāṃ yātudhā́nāḥ pibantu  
-ā́ vr̥ścyantām áditaye durévāḥ  
-párainān deváḥ savitā́ dadātu  
-párā bhāgám óṣadhīnāṃ jayantām  
+विषं꣡ ग꣡वां यातुधा꣡नाः पिबन्तु  
+आ꣡ वृश्च्यन्ताम् अ꣡दितये दुरे꣡वाः  
+प꣡रैनान् देवः꣡ सविता꣡ ददातु  
+प꣡रा भाग꣡म् ओ꣡षधीनां जयन्ताम्  

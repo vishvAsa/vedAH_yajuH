@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-utá syā́ naḥ sárasvatī juṣāṇā́  
-úpa śravat subhágā yajṇé asmín  
-mitájñubhir namasíyair iyānā́  
-rāyā́ yujā́ cid úttarā sákhibhyaḥ  
+उत꣡ स्या꣡ नः स꣡रस्वती जुषाणा꣡  
+उ꣡प श्रवत् सुभ꣡गा यज्णे꣡ अस्मि꣡न्  
+मित꣡ज्ञुभिर् नमसि꣡यैर् इयाना꣡  
+राया꣡ युजा꣡ चिद् उ꣡त्तरा स꣡खिभ्यः  

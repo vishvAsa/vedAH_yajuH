@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuváṃ ha nú tyád adamāyo dásyūm̐r  
-ékaḥ kr̥ṣṭī́r avanor ā́riyāya  
-ásti svin nú vīríyaṃ tát ta indra  
-ná svid asti tád r̥tuthā́ ví vocaḥ  
+तुवं꣡ ह नु꣡ त्य꣡द् अदमायो द꣡स्यूँर्  
+ए꣡कः कृष्टी꣡र् अवनोर् आ꣡रियाय  
+अ꣡स्ति स्विन् नु꣡ वीरि꣡यं त꣡त् त इन्द्र  
+न꣡ स्विद् अस्ति त꣡द् ऋतुथा꣡ वि꣡ वोचः  

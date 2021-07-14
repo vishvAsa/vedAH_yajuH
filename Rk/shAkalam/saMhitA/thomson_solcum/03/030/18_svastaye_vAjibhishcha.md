@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-suastáye vājíbhiś ca praṇetaḥ  
-sáṃ yán mahī́r íṣa āsátsi pūrvī́ḥ  
-rāyó vantā́ro br̥hatáḥ siyāma  
-asmé astu bhága indra prajā́vān  
+सुअस्त꣡ये वाजि꣡भिश् च प्रणेतः  
+सं꣡ य꣡न् मही꣡र् इ꣡ष आस꣡त्सि पूर्वीः꣡  
+रायो꣡ वन्ता꣡रो बृहतः꣡ सियाम  
+अस्मे꣡ अस्तु भ꣡ग इन्द्र प्रजा꣡वान्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ná te dūré paramā́ cid rájāṃsi  
-ā́ tú prá yāhi harivo háribhyām  
-sthirā́ya vŕ̥ṣṇe sávanā kr̥témā́  
-yuktā́ grā́vāṇaḥ samidhāné agnaú  
+न꣡ ते दूरे꣡ परमा꣡ चिद् र꣡जांसि  
+आ꣡ तु꣡ प्र꣡ याहि हरिवो ह꣡रिभ्याम्  
+स्थिरा꣡य व्ŕ̥ष्णे स꣡वना कृते꣡मा꣡  
+युक्ता꣡ ग्रा꣡वाणः समिधाने꣡ अग्नउ꣡  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ánuvratāya randháyann ápavratān  
-ābhū́bhir índraḥ śnatháyann ánābhuvaḥ  
-vr̥ddhásya cid várdhato dyā́m ínakṣata  
-stávāno vamró ví jaghāna saṃdíhaḥ  
+अ꣡नुव्रताय रन्ध꣡यन्न् अ꣡पव्रतान्  
+आभू꣡भिर् इ꣡न्द्रः श्नथ꣡यन्न् अ꣡नाभुवः  
+वृद्ध꣡स्य चिद् व꣡र्धतो द्या꣡म् इ꣡नक्षत  
+स्त꣡वानो वम्रो꣡ वि꣡ जघान संदि꣡हः  

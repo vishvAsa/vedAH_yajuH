@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sá ā́ vakṣi máhi na ā́ ca satsi  
-diváspr̥thivyór aratír yuvatyóḥ  
-agníḥ sutúkaḥ sutúkebhir áśvai  
-rábhasvadbhī rábhasvām̐ éhá gamyāḥ  
+स꣡ आ꣡ वक्षि म꣡हि न आ꣡ च सत्सि  
+दिव꣡स्पृथिव्यो꣡र् अरति꣡र् युवत्योः꣡  
+अग्निः꣡ सुतु꣡कः सुतु꣡केभिर् अ꣡श्वै  
+र꣡भस्वद्भी र꣡भस्वाँ ए꣡ह꣡ गम्याः  

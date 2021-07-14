@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-áhir 'va° bhogaíḥ pári eti bāhúṃ  
-jiyā́yā hetím paribā́dhamānaḥ  
-hastaghnó víśvā vayúnāni vidvā́n  
-púmān púmāṃsam pári pātu viśvátaḥ  
+अ꣡हिर् ऽव° भोगइः꣡ प꣡रि एति बाहुं꣡  
+जिया꣡या हेति꣡म् परिबा꣡धमानः  
+हस्तघ्नो꣡ वि꣡श्वा वयु꣡नानि विद्वा꣡न्  
+पु꣡मान् पु꣡मांसम् प꣡रि पातु विश्व꣡तः  

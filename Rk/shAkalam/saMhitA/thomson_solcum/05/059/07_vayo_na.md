@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-váyo ná yé śráyaṇīḥ+ paptúr ójasā  
-ántān divó br̥hatáḥ sā́nunas pári  
-áśvāsa eṣām ubháye yáthā vidúḥ  
-prá párvatasya nabhanū́m̐r acucyavuḥ  
+व꣡यो न꣡ ये꣡ श्र꣡यणीः+ पप्तु꣡र् ओ꣡जसा  
+अ꣡न्तान् दिवो꣡ बृहतः꣡ सा꣡नुनस् प꣡रि  
+अ꣡श्वास एषाम् उभ꣡ये य꣡था विदुः꣡  
+प्र꣡ प꣡र्वतस्य नभनूँ꣡र् अचुच्यवुः  

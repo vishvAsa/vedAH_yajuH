@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ádhvaryavo yán naraḥ kāmáyādhve  
-śruṣṭī́ váhanto naśathā tád índre  
-gábhastipūtam bharata śrutā́ya  
-índrāya sómaṃ yajyavo juhota  
+अ꣡ध्वर्यवो य꣡न् नरः काम꣡याध्वे  
+श्रुष्टी꣡ व꣡हन्तो नशथा त꣡द् इ꣡न्द्रे  
+ग꣡भस्तिपूतम् भरत श्रुता꣡य  
+इ꣡न्द्राय सो꣡मं यज्यवो जुहोत  

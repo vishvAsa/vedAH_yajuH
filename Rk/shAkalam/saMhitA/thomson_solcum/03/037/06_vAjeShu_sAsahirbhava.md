@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-vā́jeṣu sāsahír bhava  
-tvā́m īmahe śatakrato  
-índra vr̥trā́ya hántave  
+वा꣡जेषु सासहि꣡र् भव  
+त्वा꣡म् ईमहे शतक्रतो  
+इ꣡न्द्र वृत्रा꣡य ह꣡न्तवे  

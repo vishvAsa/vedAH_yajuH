@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ayáṃ vidac citradŕ̥śīkam árṇaḥ  
-śukrásadmanām uṣásām ánīke  
-ayám mahā́n mahatā́ skámbhanenód  
-diyā́m astabhnād vr̥ṣabhó marútvān  
+अयं꣡ विदच् चित्रद्ŕ̥शीकम् अ꣡र्णः  
+शुक्र꣡सद्मनाम् उष꣡साम् अ꣡नीके  
+अय꣡म् महा꣡न् महता꣡ स्क꣡म्भनेनो꣡द्  
+दिया꣡म् अस्तभ्नाद् वृषभो꣡ मरु꣡त्वान्  

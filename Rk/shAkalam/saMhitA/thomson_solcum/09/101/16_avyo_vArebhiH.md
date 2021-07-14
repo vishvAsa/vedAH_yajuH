@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-ávyo vā́rebhiḥ pavate  
-sómo gávye ádhi tvací  
-kánikradad vŕ̥ṣā hárir  
-índrasyābhy èti niṣkr̥tám  
+अ꣡व्यो वा꣡रेभिः पवते  
+सो꣡मो ग꣡व्ये अ꣡धि त्वचि꣡  
+क꣡निक्रदद् व्ŕ̥षा ह꣡रिर्  
+इ꣡न्द्रस्याभ्य् ए᳡ति निष्कृत꣡म्  

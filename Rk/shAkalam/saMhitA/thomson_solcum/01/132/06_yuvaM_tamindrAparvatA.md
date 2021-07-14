@@ -2,10 +2,10 @@
 title = "006"
 
 +++
-yuváṃ tám indrāparvatā puroyúdhā  
-yó naḥ pr̥tanyā́d ápa táṃ-tam íd dhataṃ  
-vájreṇa táṃ-tam íd dhatam  
-dūré cattā́ya chantsad  
-gáhanaṃ yád ínakṣat  
-asmā́kaṃ śátrūn pári śūra viśváto  
-darmā́ darṣīṣṭa viśvátaḥ  
+युवं꣡ त꣡म् इन्द्रापर्वता पुरोयु꣡धा  
+यो꣡ नः पृतन्या꣡द् अ꣡प तं꣡-तम् इ꣡द् धतं  
+व꣡ज्रेण तं꣡-तम् इ꣡द् धतम्  
+दूरे꣡ चत्ता꣡य छन्त्सद्  
+ग꣡हनं य꣡द् इ꣡नक्षत्  
+अस्मा꣡कं श꣡त्रून् प꣡रि शूर विश्व꣡तो  
+दर्मा꣡ दर्षीष्ट विश्व꣡तः  

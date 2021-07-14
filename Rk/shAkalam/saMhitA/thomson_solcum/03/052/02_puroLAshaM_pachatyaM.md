@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-puroḷā́śam pacatíyaṃ  
-juṣásvendrā́ gurasva ca  
-túbhyaṃ havyā́ni sisrate  
+पुरोऌआ꣡शम् पचति꣡यं  
+जुष꣡स्वेन्द्रा꣡ गुरस्व च  
+तु꣡भ्यं हव्या꣡नि सिस्रते  

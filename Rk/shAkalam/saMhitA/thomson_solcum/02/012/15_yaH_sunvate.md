@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-yáḥ sunvaté pácate dudhrá ā́ cid  
-vā́jaṃ dárdarṣi sá kílāsi satyáḥ  
-vayáṃ ta indra viśváha priyā́saḥ  
-suvī́rāso vidátham ā́ vadema  
+यः꣡ सुन्वते꣡ प꣡चते दुध्र꣡ आ꣡ चिद्  
+वा꣡जं द꣡र्दर्षि स꣡ कि꣡लासि सत्यः꣡  
+वयं꣡ त इन्द्र विश्व꣡ह प्रिया꣡सः  
+सुवी꣡रासो विद꣡थम् आ꣡ वदेम  

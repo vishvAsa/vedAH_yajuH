@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-vándasva mā́rutaṃ gaṇáṃ  
-tveṣám panasyúm arkíṇam  
-asmé vr̥ddhā́ asann ihá  
+व꣡न्दस्व मा꣡रुतं गणं꣡  
+त्वेष꣡म् पनस्यु꣡म् अर्कि꣡णम्  
+अस्मे꣡ वृद्धा꣡ असन्न् इह꣡  

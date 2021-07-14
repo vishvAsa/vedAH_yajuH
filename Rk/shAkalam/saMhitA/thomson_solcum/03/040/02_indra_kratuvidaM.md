@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-índra kratuvídaṃ sutáṃ  
-sómaṃ harya puruṣṭuta  
-píbā́ vr̥ṣasva tā́tr̥pim  
+इ꣡न्द्र क्रतुवि꣡दं सुतं꣡  
+सो꣡मं हर्य पुरुष्टुत  
+पि꣡बा꣡ वृषस्व ता꣡तृपिम्  

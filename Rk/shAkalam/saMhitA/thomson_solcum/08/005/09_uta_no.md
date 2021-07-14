@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-utá no gómatīr íṣa  
-utá sātī́r aharvidā  
-ví patháḥ sātáye sitam  
+उत꣡ नो गो꣡मतीर् इ꣡ष  
+उत꣡ साती꣡र् अहर्विदा  
+वि꣡ पथः꣡ सात꣡ये सितम्  

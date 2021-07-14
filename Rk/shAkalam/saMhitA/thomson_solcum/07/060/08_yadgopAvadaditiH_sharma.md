@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yád gopā́vad áditiḥ śárma bhadrám  
-mitró yáchanti váruṇaḥ sudā́se  
-tásminn ā́ tokáṃ tánayaṃ dádhānā  
-mā́ karma devahéḷanaṃ turāsaḥ  
+य꣡द् गोपा꣡वद् अ꣡दितिः श꣡र्म भद्र꣡म्  
+मित्रो꣡ य꣡छन्ति व꣡रुणः सुदा꣡से  
+त꣡स्मिन्न् आ꣡ तोकं꣡ त꣡नयं द꣡धाना  
+मा꣡ कर्म देवहे꣡ऌअनं तुरासः  

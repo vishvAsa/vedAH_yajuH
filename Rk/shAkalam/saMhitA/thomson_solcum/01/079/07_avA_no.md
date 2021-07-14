@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ávā no agna ūtíbhir  
-gāyatrásya prábharmaṇi  
-víśvāsu dhīṣú vandiya  
+अ꣡वा नो अग्न ऊति꣡भिर्  
+गायत्र꣡स्य प्र꣡भर्मणि  
+वि꣡श्वासु धीषु꣡ वन्दिय  

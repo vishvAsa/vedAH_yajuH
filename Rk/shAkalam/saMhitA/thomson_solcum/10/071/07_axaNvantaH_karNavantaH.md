@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-akṣaṇvántaḥ kárṇavantaḥ sákhāyo  
-manojavéṣu ásamā babhūvuḥ  
-ādaghnā́sa upakakṣā́sa u tve  
-hradā́ iva snā́tvā u tve dadr̥śre  
+अक्षण्व꣡न्तः क꣡र्णवन्तः स꣡खायो  
+मनोजवे꣡षु अ꣡समा बभूवुः  
+आदघ्ना꣡स उपकक्षा꣡स उ त्वे  
+ह्रदा꣡ इव स्ना꣡त्वा उ त्वे ददृश्रे  

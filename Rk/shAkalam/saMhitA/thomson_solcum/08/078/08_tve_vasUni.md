@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-tuvé vásūni sáṃgatā  
-víśvā ca soma saúbhagā  
-sudā́tu áparihvr̥tā  
+तुवे꣡ व꣡सूनि सं꣡गता  
+वि꣡श्वा च सोम सउ꣡भगा  
+सुदा꣡तु अ꣡परिह्वृता  

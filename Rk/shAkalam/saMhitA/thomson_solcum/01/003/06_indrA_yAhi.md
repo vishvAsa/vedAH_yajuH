@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-índrā́ yāhi tū́tujāna  
-úpa bráhmāṇi harivaḥ  
-suté dadhiṣva naś cánaḥ  
+इ꣡न्द्रा꣡ याहि तू꣡तुजान  
+उ꣡प ब्र꣡ह्माणि हरिवः  
+सुते꣡ दधिष्व नश् च꣡नः  

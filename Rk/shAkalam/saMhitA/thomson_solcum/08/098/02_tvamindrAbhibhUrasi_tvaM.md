@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-tuvám indrābhibhū́r asi  
-tuváṃ sū́ryam arocayaḥ  
-viśvákarmā viśvádevo mahā́m̐ asi  
+तुव꣡म् इन्द्राभिभू꣡र् असि  
+तुवं꣡ सू꣡र्यम् अरोचयः  
+विश्व꣡कर्मा विश्व꣡देवो महाँ꣡ असि  

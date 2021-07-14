@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-áśvo ná krándañ jánibhiḥ sám idhyate  
-vaiśvānaráḥ kuśikébhir yugé-yuge  
-sá no agníḥ suvī́riyaṃ suáśviyaṃ  
-dádhātu rátnam amŕ̥teṣu jā́gr̥viḥ  
+अ꣡श्वो न꣡ क्र꣡न्दञ् ज꣡निभिः स꣡म् इध्यते  
+वैश्वानरः꣡ कुशिके꣡भिर् युगे꣡-युगे  
+स꣡ नो अग्निः꣡ सुवी꣡रियं सुअ꣡श्वियं  
+द꣡धातु र꣡त्नम् अम्ŕ̥तेषु जा꣡गृविः  

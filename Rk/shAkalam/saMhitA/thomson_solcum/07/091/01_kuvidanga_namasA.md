@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kuvíd aṅgá námasā yé vr̥dhā́saḥ  
-purā́ devā́ anavadyā́sa ā́san  
-té vāyáve mánave bādhitā́ya  
-ávāsayann uṣásaṃ sū́riyeṇa  
+कुवि꣡द् अङ्ग꣡ न꣡मसा ये꣡ वृधा꣡सः  
+पुरा꣡ देवा꣡ अनवद्या꣡स आ꣡सन्  
+ते꣡ वाय꣡वे म꣡नवे बाधिता꣡य  
+अ꣡वासयन्न् उष꣡सं सू꣡रियेण  

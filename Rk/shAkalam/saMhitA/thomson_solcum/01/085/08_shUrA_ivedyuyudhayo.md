@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-śū́rā ivéd yúyudhayo ná jágmayaḥ  
-śravasyávo ná pŕ̥tanāsu yetire  
-bháyante víśvā bhúvanā marúdbhiyo  
-rā́jāna iva tveṣásaṃdr̥śo náraḥ  
+शू꣡रा इवे꣡द् यु꣡युधयो न꣡ ज꣡ग्मयः  
+श्रवस्य꣡वो न꣡ प्ŕ̥तनासु येतिरे  
+भ꣡यन्ते वि꣡श्वा भु꣡वना मरु꣡द्भियो  
+रा꣡जान इव त्वेष꣡संदृशो न꣡रः  

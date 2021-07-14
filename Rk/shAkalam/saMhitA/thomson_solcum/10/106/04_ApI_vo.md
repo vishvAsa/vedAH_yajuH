@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-āpī́ vo asmé pitáreva putrā́  
-ugréva rucā́ nr̥pátīva turyaí  
-íryeva puṣṭyaí kiráṇeva bhujyaí  
-śruṣṭīvā́neva hávam ā́ gamiṣṭam  
+आपी꣡ वो अस्मे꣡ पित꣡रेव पुत्रा꣡  
+उग्रे꣡व रुचा꣡ नृप꣡तीव तुर्यइ꣡  
+इ꣡र्येव पुष्ट्यइ꣡ किर꣡णेव भुज्यइ꣡  
+श्रुष्टीवा꣡नेव ह꣡वम् आ꣡ गमिष्टम्  

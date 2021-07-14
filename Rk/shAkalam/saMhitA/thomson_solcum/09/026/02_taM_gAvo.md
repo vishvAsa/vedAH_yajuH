@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-táṃ gā́vo abhy ànūṣata  
-sahásradhāram ákṣitam  
-índuṃ dhartā́ram ā́ diváḥ  
+तं꣡ गा꣡वो अभ्य् अ᳡नूषत  
+सह꣡स्रधारम् अ꣡क्षितम्  
+इ꣡न्दुं धर्ता꣡रम् आ꣡ दिवः꣡  

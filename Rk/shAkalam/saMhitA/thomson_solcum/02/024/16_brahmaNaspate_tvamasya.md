@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-bráhmaṇas pate tuvám asyá yantā́  
-sūktásya bodhi tánayaṃ ca jinva  
-víśvaṃ tád bhadráṃ yád ávanti devā́  
-br̥hád vadema vidáthe suvī́rāḥ  
+ब्र꣡ह्मणस् पते तुव꣡म् अस्य꣡ यन्ता꣡  
+सूक्त꣡स्य बोधि त꣡नयं च जिन्व  
+वि꣡श्वं त꣡द् भद्रं꣡ य꣡द् अ꣡वन्ति देवा꣡  
+बृह꣡द् वदेम विद꣡थे सुवी꣡राः  

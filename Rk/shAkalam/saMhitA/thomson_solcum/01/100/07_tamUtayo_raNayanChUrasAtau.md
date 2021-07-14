@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tám ūtáyo raṇayañ chū́rasātau  
-táṃ kṣémasya kṣitáyaḥ kr̥ṇvata trā́m  
-sá víśvasya karúṇasyeśa éko  
-marútvān no bhavatu índra ūtī́  
+त꣡म् ऊत꣡यो रणयञ् छू꣡रसातौ  
+तं꣡ क्षे꣡मस्य क्षित꣡यः कृण्वत त्रा꣡म्  
+स꣡ वि꣡श्वस्य करु꣡णस्येश ए꣡को  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

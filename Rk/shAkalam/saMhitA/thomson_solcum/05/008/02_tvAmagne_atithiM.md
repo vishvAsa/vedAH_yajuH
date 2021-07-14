@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuvā́m agne átithim pūrviyáṃ víśaḥ  
-śocíṣkeśaṃ gr̥hápatiṃ ní ṣedire  
-br̥hátketum pururū́paṃ dhanaspŕ̥taṃ  
-suśármāṇaṃ suávasaṃ jaradvíṣam  
+तुवा꣡म् अग्ने अ꣡तिथिम् पूर्वियं꣡ वि꣡शः  
+शोचि꣡ष्केशं गृह꣡पतिं नि꣡ षेदिरे  
+बृह꣡त्केतुम् पुरुरू꣡पं धनस्प्ŕ̥तं  
+सुश꣡र्माणं सुअ꣡वसं जरद्वि꣡षम्  

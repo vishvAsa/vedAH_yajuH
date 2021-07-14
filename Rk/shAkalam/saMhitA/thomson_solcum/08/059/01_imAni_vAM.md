@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imā́ni vām bhāgadhéyāni sisrata  
-índrāvaruṇā prá mahé sutéṣu vām  
-yajñé-yajñe ha sávanā bhuraṇyátho  
-yát sunvaté yájamānāya śíkṣathaḥ  
+इमा꣡नि वाम् भागधे꣡यानि सिस्रत  
+इ꣡न्द्रावरुणा प्र꣡ महे꣡ सुते꣡षु वाम्  
+यज्ञे꣡-यज्ञे ह स꣡वना भुरण्य꣡थो  
+य꣡त् सुन्वते꣡ य꣡जमानाय शि꣡क्षथः  

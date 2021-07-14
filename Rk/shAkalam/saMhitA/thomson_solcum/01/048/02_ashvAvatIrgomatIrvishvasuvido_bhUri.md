@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áśvāvatīr gómatīr viśvasuvído  
-bhū́ri cyavanta vástave  
-úd īraya práti mā sūnŕ̥tā uṣaś  
-códa rā́dho maghónãm  
+अ꣡श्वावतीर् गो꣡मतीर् विश्वसुवि꣡दो  
+भू꣡रि च्यवन्त व꣡स्तवे  
+उ꣡द् ईरय प्र꣡ति मा सून्ŕ̥ता उषश्  
+चो꣡द रा꣡धो मघो꣡न्ãम्  

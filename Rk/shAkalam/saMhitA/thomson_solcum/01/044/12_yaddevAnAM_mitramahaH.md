@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yád devā́nām mitramahaḥ puróhito  
-ántaro yā́si dūtíyam  
-síndhor iva prásvanitāsa ūrmáyo  
-agnér bhrājante arcáyaḥ  
+य꣡द् देवा꣡नाम् मित्रमहः पुरो꣡हितो  
+अ꣡न्तरो या꣡सि दूति꣡यम्  
+सि꣡न्धोर् इव प्र꣡स्वनितास ऊर्म꣡यो  
+अग्ने꣡र् भ्राजन्ते अर्च꣡यः  

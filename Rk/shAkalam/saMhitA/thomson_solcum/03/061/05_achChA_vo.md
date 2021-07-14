@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áchā vo devī́m uṣásaṃ vibhātī́m  
-prá vo bharadhvaṃ námasā suvr̥ktím  
-ūrdhvám madhudhā́ diví pā́jo aśret  
-prá rocanā́ ruruce raṇvásaṃdr̥k  
+अ꣡छा वो देवी꣡म् उष꣡सं विभाती꣡म्  
+प्र꣡ वो भरध्वं न꣡मसा सुवृक्ति꣡म्  
+ऊर्ध्व꣡म् मधुधा꣡ दिवि꣡ पा꣡जो अश्रेत्  
+प्र꣡ रोचना꣡ रुरुचे रण्व꣡संदृक्  

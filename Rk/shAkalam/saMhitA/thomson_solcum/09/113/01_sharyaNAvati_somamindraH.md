@@ -2,8 +2,8 @@
 title = "001"
 
 +++
-śaryaṇā́vati sómam  
-índraḥ pibatu vr̥trahā́  
-bálaṃ dádhāna ātmáni  
-kariṣyán vīríyam mahád  
-índrāyendo pári srava  
+शर्यणा꣡वति सो꣡मम्  
+इ꣡न्द्रः पिबतु वृत्रहा꣡  
+ब꣡लं द꣡धान आत्म꣡नि  
+करिष्य꣡न् वीरि꣡यम् मह꣡द्  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

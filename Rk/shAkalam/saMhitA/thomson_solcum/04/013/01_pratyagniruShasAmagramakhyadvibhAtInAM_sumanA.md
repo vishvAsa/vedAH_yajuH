@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-práti agnír uṣásām ágram akhyad  
-vibhātīnā́ṃ sumánā ratnadhéyam  
-yātám aśvinā sukŕ̥to duroṇám  
-út sū́riyo jyótiṣā devá eti  
+प्र꣡ति अग्नि꣡र् उष꣡साम् अ꣡ग्रम् अख्यद्  
+विभातीनां꣡ सुम꣡ना रत्नधे꣡यम्  
+यात꣡म् अश्विना सुक्ŕ̥तो दुरोण꣡म्  
+उ꣡त् सू꣡रियो ज्यो꣡तिषा देव꣡ एति  

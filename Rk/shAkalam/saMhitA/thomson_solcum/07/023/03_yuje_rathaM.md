@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yujé ráthaṃ gavéṣaṇaṃ háribhyām  
-úpa bráhmāṇi jujuṣāṇám asthuḥ  
-ví bādhiṣṭa syá ródasī mahitvā́  
-índro vr̥trā́ṇi apratī́ jaghanvā́n  
+युजे꣡ र꣡थं गवे꣡षणं ह꣡रिभ्याम्  
+उ꣡प ब्र꣡ह्माणि जुजुषाण꣡म् अस्थुः  
+वि꣡ बाधिष्ट स्य꣡ रो꣡दसी महित्वा꣡  
+इ꣡न्द्रो वृत्रा꣡णि अप्रती꣡ जघन्वा꣡न्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tuvám āyasám práti vartayo gór  
-divó áśmānam úpanītam ŕ̥bhvā  
-kútsāya yátra puruhūta vanváñ  
-chúṣṇam anantaíḥ pariyā́si vadhaíḥ  
+तुव꣡म् आयस꣡म् प्र꣡ति वर्तयो गो꣡र्  
+दिवो꣡ अ꣡श्मानम् उ꣡पनीतम् ŕ̥भ्वा  
+कु꣡त्साय य꣡त्र पुरुहूत वन्व꣡ञ्  
+छु꣡ष्णम् अनन्तइः꣡ परिया꣡सि वधइः꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-devī́ devébhir yajaté yájatrair  
-áminatī tasthatur ukṣámāṇe  
-r̥tā́varī adrúhā deváputre  
-yajñásya netrī́ śucáyadbhir arkaíḥ  
+देवी꣡ देवे꣡भिर् यजते꣡ य꣡जत्रैर्  
+अ꣡मिनती तस्थतुर् उक्ष꣡माणे  
+ऋता꣡वरी अद्रु꣡हा देव꣡पुत्रे  
+यज्ञ꣡स्य नेत्री꣡ शुच꣡यद्भिर् अर्कइः꣡  

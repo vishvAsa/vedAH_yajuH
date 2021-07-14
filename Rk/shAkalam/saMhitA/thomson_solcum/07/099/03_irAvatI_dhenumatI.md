@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-írāvatī dhenumátī hí bhūtáṃ  
-sūyavasínī mánuṣe daśasyā́  
-ví astabhnā ródasī viṣṇav eté  
-dādhártha pr̥thivī́m abhíto mayū́khaiḥ  
+इ꣡रावती धेनुम꣡ती हि꣡ भूतं꣡  
+सूयवसि꣡नी म꣡नुषे दशस्या꣡  
+वि꣡ अस्तभ्ना रो꣡दसी विष्णव् एते꣡  
+दाध꣡र्थ पृथिवी꣡म् अभि꣡तो मयू꣡खैः  

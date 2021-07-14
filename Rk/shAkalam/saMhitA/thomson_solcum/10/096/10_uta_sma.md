@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-utá sma sádma haryatásya pastíyor  
-átyo ná vā́jaṃ hárivām̐ acikradat  
-mahī́ cid dhí dhiṣáṇā́haryad ójasā  
-br̥hád váyo dadhiṣe haryatáś cid ā́  
+उत꣡ स्म स꣡द्म हर्यत꣡स्य पस्ति꣡योर्  
+अ꣡त्यो न꣡ वा꣡जं ह꣡रिवाँ अचिक्रदत्  
+मही꣡ चिद् धि꣡ धिष꣡णा꣡हर्यद् ओ꣡जसा  
+बृह꣡द् व꣡यो दधिषे हर्यत꣡श् चिद् आ꣡  

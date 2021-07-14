@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yát tvā deva prapíbanti  
-táta ā́ pyāyase púnaḥ  
-vāyúḥ sómasya rakṣitā́  
-sámānām mā́sa ā́kr̥tiḥ  
+य꣡त् त्वा देव प्रपि꣡बन्ति  
+त꣡त आ꣡ प्यायसे पु꣡नः  
+वायुः꣡ सो꣡मस्य रक्षिता꣡  
+स꣡मानाम् मा꣡स आ꣡कृतिः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sémā́m aviḍḍhi prábhr̥tiṃ yá ī́śiṣe  
-ayā́ vidhema návayā mahā́ girā́  
-yáthā no mīḍhvā́n stávate sákhā táva  
-bŕ̥haspate sī́ṣadhaḥ sótá no matím  
+से꣡मा꣡म् अविड्ढि प्र꣡भृतिं य꣡ ई꣡शिषे  
+अया꣡ विधेम न꣡वया महा꣡ गिरा꣡  
+य꣡था नो मीढ्वा꣡न् स्त꣡वते स꣡खा त꣡व  
+ब्ŕ̥हस्पते सी꣡षधः सो꣡त꣡ नो मति꣡म्  

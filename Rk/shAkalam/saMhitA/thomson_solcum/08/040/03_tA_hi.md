@@ -2,9 +2,9 @@
 title = "003"
 
 +++
-tā́ hí mádhyam bhárāṇãm  
-indraagnī́ adhikṣitáḥ  
-tā́ u kavitvanā́ kavī́  
-pr̥chyámānā sakhīyaté  
-sáṃ dhītám aśnutaṃ narā  
-nábhantām anyaké same  
+ता꣡ हि꣡ म꣡ध्यम् भ꣡राण्ãम्  
+इन्द्रअग्नी꣡ अधिक्षितः꣡  
+ता꣡ उ कवित्वना꣡ कवी꣡  
+पृछ्य꣡माना सखीयते꣡  
+सं꣡ धीत꣡म् अश्नुतं नरा  
+न꣡भन्ताम् अन्यके꣡ समे  

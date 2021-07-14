@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-utá sma asya drávatas turaṇyatáḥ  
-parṇáṃ ná vér ánu vāti pragardhínaḥ  
-śyenásyeva dhrájato aṅkasám pári  
-dadhikrā́vṇaḥ sahá ūrjā́ táritrataḥ  
+उत꣡ स्म अस्य द्र꣡वतस् तुरण्यतः꣡  
+पर्णं꣡ न꣡ वे꣡र् अ꣡नु वाति प्रगर्धि꣡नः  
+श्येन꣡स्येव ध्र꣡जतो अङ्कस꣡म् प꣡रि  
+दधिक्रा꣡व्णः सह꣡ ऊर्जा꣡ त꣡रित्रतः  

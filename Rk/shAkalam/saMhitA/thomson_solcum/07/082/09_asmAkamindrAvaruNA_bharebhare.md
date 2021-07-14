@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-asmā́kam indrāvaruṇā bháre-bhare  
-puroyodhā́ bhavataṃ kr̥ṣṭiojasā  
-yád vāṃ hávanta ubháye ádha spr̥dhí  
-náras tokásya tánayasya sātíṣu  
+अस्मा꣡कम् इन्द्रावरुणा भ꣡रे-भरे  
+पुरोयोधा꣡ भवतं कृष्टिओजसा  
+य꣡द् वां ह꣡वन्त उभ꣡ये अ꣡ध स्पृधि꣡  
+न꣡रस् तोक꣡स्य त꣡नयस्य साति꣡षु  

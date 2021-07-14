@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yé ca ihá pitáro yé ca néhá  
-yā́ṃś ca vidmá yā́m̐ u ca ná pravidmá  
-tuváṃ vettha yáti té jātavedaḥ  
-svadhā́bhir yajñáṃ súkr̥taṃ juṣasva  
+ये꣡ च इह꣡ पित꣡रो ये꣡ च ने꣡ह꣡  
+यां꣡श् च विद्म꣡ याँ꣡ उ च न꣡ प्रविद्म꣡  
+तुवं꣡ वेत्थ य꣡ति ते꣡ जातवेदः  
+स्वधा꣡भिर् यज्ञं꣡ सु꣡कृतं जुषस्व  

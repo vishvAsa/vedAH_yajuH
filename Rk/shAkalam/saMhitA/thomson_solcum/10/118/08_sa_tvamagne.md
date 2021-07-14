@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-sá tvám agne prátīkena  
-práty oṣa yātudhāníyaḥ  
-urukṣáyeṣu dī́diyat  
+स꣡ त्व꣡म् अग्ने प्र꣡तीकेन  
+प्र꣡त्य् ओष यातुधानि꣡यः  
+उरुक्ष꣡येषु दी꣡दियत्  

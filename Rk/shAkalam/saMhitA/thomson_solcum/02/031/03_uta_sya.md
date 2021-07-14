@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-utá syá na índaro+ viśvácarṣaṇir  
-diváḥ śárdhena mā́rutena sukrátuḥ  
-ánu nú sthāti avr̥kā́bhir ūtíbhī  
-rátham mahé sanáye vā́jasātaye  
+उत꣡ स्य꣡ न इ꣡न्दरो+ विश्व꣡चर्षणिर्  
+दिवः꣡ श꣡र्धेन मा꣡रुतेन सुक्र꣡तुः  
+अ꣡नु नु꣡ स्थाति अवृका꣡भिर् ऊति꣡भी  
+र꣡थम् महे꣡ सन꣡ये वा꣡जसातये  

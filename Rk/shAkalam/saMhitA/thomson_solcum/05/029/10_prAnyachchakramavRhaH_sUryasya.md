@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-prā́nyác cakrám avr̥haḥ sū́riyasya  
-kútsāyānyád várivo yā́tave 'kaḥ  
-anā́so dásyūm̐r amr̥ṇo vadhéna  
-ní duryoṇá āvr̥ṇaṅ mr̥dhrávācaḥ  
+प्रा꣡न्य꣡च् चक्र꣡म् अवृहः सू꣡रियस्य  
+कु꣡त्सायान्य꣡द् व꣡रिवो या꣡तवे ऽकः  
+अना꣡सो द꣡स्यूँर् अमृणो वधे꣡न  
+नि꣡ दुर्योण꣡ आवृणङ् मृध्र꣡वाचः  

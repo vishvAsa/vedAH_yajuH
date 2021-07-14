@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá agnáye · taváse bharadhvaṃ  
-gíraṃ divó aratáye pr̥thivyā́ḥ  
-yó víśveṣām amŕ̥tānām upásthe  
-vaiśvānaró vāvr̥dhé jāgr̥vádbhiḥ  
+प्र꣡ अग्न꣡ये · तव꣡से भरध्वं  
+गि꣡रं दिवो꣡ अरत꣡ये पृथिव्याः꣡  
+यो꣡ वि꣡श्वेषाम् अम्ŕ̥तानाम् उप꣡स्थे  
+वैश्वानरो꣡ वावृधे꣡ जागृव꣡द्भिः  

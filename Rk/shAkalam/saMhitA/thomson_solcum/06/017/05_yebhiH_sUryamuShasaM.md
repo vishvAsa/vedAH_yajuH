@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yébhiḥ sū́ryam uṣásam mandasānó  
-ávāsayo ápa dr̥̄ḷhā́ni+ dárdrat  
-mahā́m ádrim pári gā́ indra sántaṃ  
-nutthā́ ácyutaṃ sádasas pári svā́t  
+ये꣡भिः सू꣡र्यम् उष꣡सम् मन्दसानो꣡  
+अ꣡वासयो अ꣡प दॄऌहा꣡नि+ द꣡र्द्रत्  
+महा꣡म् अ꣡द्रिम् प꣡रि गा꣡ इन्द्र स꣡न्तं  
+नुत्था꣡ अ꣡च्युतं स꣡दसस् प꣡रि स्वा꣡त्  

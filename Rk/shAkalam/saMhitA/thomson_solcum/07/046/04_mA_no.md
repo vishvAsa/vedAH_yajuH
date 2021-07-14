@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-mā́ no vadhī rudara+ mā́ párā dā  
-mā́ te bhūma prásitau hīḷitásya  
-ā́ no bhaja barhíṣi jīvaśaṃsé  
-yūyám pāta suastíbhiḥ sádā naḥ  
+मा꣡ नो वधी रुदर+ मा꣡ प꣡रा दा  
+मा꣡ ते भूम प्र꣡सितौ हीऌइत꣡स्य  
+आ꣡ नो भज बर्हि꣡षि जीवशंसे꣡  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

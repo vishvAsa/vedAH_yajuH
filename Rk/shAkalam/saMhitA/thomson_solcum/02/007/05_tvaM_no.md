@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-tuváṃ no asi bhārata  
-ágne vaśā́bhir ukṣábhiḥ  
-aṣṭā́padībhir ā́hutaḥ  
+तुवं꣡ नो असि भारत  
+अ꣡ग्ने वशा꣡भिर् उक्ष꣡भिः  
+अष्टा꣡पदीभिर् आ꣡हुतः  

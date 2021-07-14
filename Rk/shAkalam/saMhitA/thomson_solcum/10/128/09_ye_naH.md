@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yé naḥ sapátnā ápa té bhavantu  
-indrāgníbhyām áva bādhāmahe tā́n  
-vásavo rudrā́ ādityā́ uparispŕ̥śam mā  
-ugráṃ céttāram adhirājám akran  
+ये꣡ नः सप꣡त्ना अ꣡प ते꣡ भवन्तु  
+इन्द्राग्नि꣡भ्याम् अ꣡व बाधामहे ता꣡न्  
+व꣡सवो रुद्रा꣡ आदित्या꣡ उपरिस्प्ŕ̥शम् मा  
+उग्रं꣡ चे꣡त्तारम् अधिराज꣡म् अक्रन्  

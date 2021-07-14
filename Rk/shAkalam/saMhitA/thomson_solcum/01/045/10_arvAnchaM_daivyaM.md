@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-arvā́ñcaṃ daíviyaṃ jánam  
-ágne yákṣva sáhūtibhiḥ  
-ayáṃ sómaḥ sudānavas  
-tám pāta tiróahniyam  
+अर्वा꣡ञ्चं दइ꣡वियं ज꣡नम्  
+अ꣡ग्ने य꣡क्ष्व स꣡हूतिभिः  
+अयं꣡ सो꣡मः सुदानवस्  
+त꣡म् पात तिरो꣡अह्नियम्  

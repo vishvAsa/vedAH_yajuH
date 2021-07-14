@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yó vr̥trā́ya sínam átrā́bhariṣyat  
-prá táṃ jánitrī vidúṣa uvāca  
-pathó rádantīr ánu jóṣam asmai  
-divé-dive dhúnayo yanti ártham  
+यो꣡ वृत्रा꣡य सि꣡नम् अ꣡त्रा꣡भरिष्यत्  
+प्र꣡ तं꣡ ज꣡नित्री विदु꣡ष उवाच  
+पथो꣡ र꣡दन्तीर् अ꣡नु जो꣡षम् अस्मै  
+दिवे꣡-दिवे धु꣡नयो यन्ति अ꣡र्थम्  

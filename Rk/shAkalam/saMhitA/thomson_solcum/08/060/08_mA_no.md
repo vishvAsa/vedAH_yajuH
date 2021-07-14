@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-mā́ no mártāya ripáve rakṣasvíne  
-mā́gháśaṃsāya rīradhaḥ  
-ásredhadbhis taráṇibhir yaviṣṭhiya  
-śivébhiḥ pāhi pāyúbhiḥ  
+मा꣡ नो म꣡र्ताय रिप꣡वे रक्षस्वि꣡ने  
+मा꣡घ꣡शंसाय रीरधः  
+अ꣡स्रेधद्भिस् तर꣡णिभिर् यविष्ठिय  
+शिवे꣡भिः पाहि पायु꣡भिः  

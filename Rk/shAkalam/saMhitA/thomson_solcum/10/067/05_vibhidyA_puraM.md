@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vibhídyā púraṃ śayáthem ápācīṃ  
-nís trī́ṇi sākám udadhér akr̥ntat  
-bŕ̥haspátir uṣásaṃ sū́riyaṃ gā́m  
-arkáṃ viveda stanáyann iva dyaúḥ  
+विभि꣡द्या पु꣡रं शय꣡थेम् अ꣡पाचीं  
+नि꣡स् त्री꣡णि साक꣡म् उदधे꣡र् अकृन्तत्  
+ब्ŕ̥हस्प꣡तिर् उष꣡सं सू꣡रियं गा꣡म्  
+अर्कं꣡ विवेद स्तन꣡यन्न् इव द्यउः꣡  

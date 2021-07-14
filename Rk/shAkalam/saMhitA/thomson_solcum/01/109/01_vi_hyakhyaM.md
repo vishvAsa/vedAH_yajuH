@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ví hí ákhyam mánasā vásya ichánn  
-índrāgnī jñāsá utá vā sajātā́n  
-nā́nyā́ yuvát prámatir asti máhyaṃ  
-sá vāṃ dhíyaṃ vājayántīm atakṣam  
+वि꣡ हि꣡ अ꣡ख्यम् म꣡नसा व꣡स्य इछ꣡न्न्  
+इ꣡न्द्राग्नी ज्ञास꣡ उत꣡ वा सजाता꣡न्  
+ना꣡न्या꣡ युव꣡त् प्र꣡मतिर् अस्ति म꣡ह्यं  
+स꣡ वां धि꣡यं वाजय꣡न्तीम् अतक्षम्  

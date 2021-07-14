@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-haṃsā́ iva kr̥ṇutha ślókam ádribhir  
-mádanto gīrbhír adhvaré suté sácā  
-devébhir viprā r̥ṣayo nr̥cakṣaso  
-ví pibadhvaṃ kuśikāḥ somiyám mádhu  
+हंसा꣡ इव कृणुथ श्लो꣡कम् अ꣡द्रिभिर्  
+म꣡दन्तो गीर्भि꣡र् अध्वरे꣡ सुते꣡ स꣡चा  
+देवे꣡भिर् विप्रा ऋषयो नृचक्षसो  
+वि꣡ पिबध्वं कुशिकाः सोमिय꣡म् म꣡धु  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ásāvi te jujuṣāṇā́ya sómaḥ  
-krátve dákṣāya br̥haté mádāya  
-hárī ráthe sudhúrā yóge arvā́g  
-índra priyā́ kr̥ṇuhi hūyámānaḥ  
+अ꣡सावि ते जुजुषाणा꣡य सो꣡मः  
+क्र꣡त्वे द꣡क्षाय बृहते꣡ म꣡दाय  
+ह꣡री र꣡थे सुधु꣡रा यो꣡गे अर्वा꣡ग्  
+इ꣡न्द्र प्रिया꣡ कृणुहि हूय꣡मानः  

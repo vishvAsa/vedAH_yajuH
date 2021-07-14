@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-deváhitiṃ jugupur dvādaśásya  
-r̥túṃ náro ná prá minanti eté  
-saṃvatsaré prāvŕ̥ṣi ā́gatāyāṃ  
-taptā́ gharmā́ aśnuvate visargám  
+देव꣡हितिं जुगुपुर् द्वादश꣡स्य  
+ऋतुं꣡ न꣡रो न꣡ प्र꣡ मिनन्ति एते꣡  
+संवत्सरे꣡ प्राव्ŕ̥षि आ꣡गतायां  
+तप्ता꣡ घर्मा꣡ अश्नुवते विसर्ग꣡म्  

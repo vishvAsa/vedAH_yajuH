@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-yá indra yátayas tuvā  
-bhŕ̥gavo yé ca tuṣṭuvúḥ  
-máméd ugra śrudhī hávam  
+य꣡ इन्द्र य꣡तयस् तुवा  
+भ्ŕ̥गवो ये꣡ च तुष्टुवुः꣡  
+म꣡मे꣡द् उग्र श्रुधी ह꣡वम्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-abhí no vājasā́tamaṃ  
-rayím arṣa puruspŕ̥ham  
-índo sahásrabharṇasaṃ  
-tuvidyumnáṃ vibhvāsáham  
+अभि꣡ नो वाजसा꣡तमं  
+रयि꣡म् अर्ष पुरुस्प्ŕ̥हम्  
+इ꣡न्दो सह꣡स्रभर्णसं  
+तुविद्युम्नं꣡ विभ्वास꣡हम्  

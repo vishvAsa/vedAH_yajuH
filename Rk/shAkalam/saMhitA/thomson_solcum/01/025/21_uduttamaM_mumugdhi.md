@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-úd uttamám mumugdhi no  
-ví pā́śam madhyamáṃ cr̥ta  
-ávādhamā́ni jīváse  
+उ꣡द् उत्तम꣡म् मुमुग्धि नो  
+वि꣡ पा꣡शम् मध्यमं꣡ चृत  
+अ꣡वाधमा꣡नि जीव꣡से  

@@ -2,10 +2,10 @@
 title = "004"
 
 +++
-dādr̥hāṇó vájram índro gábhastiyoḥ  
-kṣádmeva tigmám ásanāya sáṃ śiyad  
-ahihátyāya sáṃ śiyat  
-saṃviviyāná ójasā  
-śávobhir indra majmánā  
-táṣṭeva vr̥kṣáṃ vaníno ní vr̥ścasi  
-paraśvéva ní vr̥ścasi  
+दादृहाणो꣡ व꣡ज्रम् इ꣡न्द्रो ग꣡भस्तियोः  
+क्ष꣡द्मेव तिग्म꣡म् अ꣡सनाय सं꣡ शियद्  
+अहिह꣡त्याय सं꣡ शियत्  
+संविवियान꣡ ओ꣡जसा  
+श꣡वोभिर् इन्द्र मज्म꣡ना  
+त꣡ष्टेव वृक्षं꣡ वनि꣡नो नि꣡ वृश्चसि  
+परश्वे꣡व नि꣡ वृश्चसि  

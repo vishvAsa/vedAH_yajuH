@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-mādáyasva háribhir yé ta indra  
-ví ṣyasva śípre ví sr̥jasva dhéne  
-ā́ tvā suśipra hárayo vahantu  
-uśán havyā́ni práti no juṣasva  
+माद꣡यस्व ह꣡रिभिर् ये꣡ त इन्द्र  
+वि꣡ ष्यस्व शि꣡प्रे वि꣡ सृजस्व धे꣡ने  
+आ꣡ त्वा सुशिप्र ह꣡रयो वहन्तु  
+उश꣡न् हव्या꣡नि प्र꣡ति नो जुषस्व  

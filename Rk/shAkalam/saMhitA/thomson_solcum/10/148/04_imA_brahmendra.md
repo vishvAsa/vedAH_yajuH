@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-imā́ bráhma indara+ túbhya° śaṃsi  
-dã́ nŕ̥bhyo nr̥̄ṇã́ṃ+ śūra śávaḥ  
-tébhir bhava sákratur yéṣu cākánn  
-utá trāyasva gr̥ṇatá utá stī́n  
+इमा꣡ ब्र꣡ह्म इन्दर+ तु꣡भ्य° शंसि  
+द्ã꣡ न्ŕ̥भ्यो नॄण्ãं꣡+ शूर श꣡वः  
+ते꣡भिर् भव स꣡क्रतुर् ये꣡षु चाक꣡न्न्  
+उत꣡ त्रायस्व गृणत꣡ उत꣡ स्ती꣡न्  

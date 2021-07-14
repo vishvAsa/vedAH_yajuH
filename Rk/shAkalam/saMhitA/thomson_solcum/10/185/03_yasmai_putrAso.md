@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-yásmai putrā́so áditeḥ  
-prá jīváse mártiyāya  
-jyótir yáchanti ájasram  
+य꣡स्मै पुत्रा꣡सो अ꣡दितेः  
+प्र꣡ जीव꣡से म꣡र्तियाय  
+ज्यो꣡तिर् य꣡छन्ति अ꣡जस्रम्  

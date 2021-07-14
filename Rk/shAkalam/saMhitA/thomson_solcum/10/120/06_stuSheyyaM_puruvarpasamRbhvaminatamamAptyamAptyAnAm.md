@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-stuṣéyiyam puruvárpasam ŕ̥bhvam  
-inátamam āptiyám āptiyā́nām  
-ā́ darṣate śávasā saptá dā́nūn  
-prá sākṣate pratimā́nāni bhū́ri  
+स्तुषे꣡यियम् पुरुव꣡र्पसम् ŕ̥भ्वम्  
+इन꣡तमम् आप्तिय꣡म् आप्तिया꣡नाम्  
+आ꣡ दर्षते श꣡वसा सप्त꣡ दा꣡नून्  
+प्र꣡ साक्षते प्रतिमा꣡नानि भू꣡रि  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sád asya máde sád u asya pītā́v  
-índraḥ sád asya sakhiyé cakāra  
-ráṇā vā yé niṣádi sát té asya  
-purā́ vividre sád u nū́tanāsaḥ  
+स꣡द् अस्य म꣡दे स꣡द् उ अस्य पीता꣡व्  
+इ꣡न्द्रः स꣡द् अस्य सखिये꣡ चकार  
+र꣡णा वा ये꣡ निष꣡दि स꣡त् ते꣡ अस्य  
+पुरा꣡ विविद्रे स꣡द् उ नू꣡तनासः  

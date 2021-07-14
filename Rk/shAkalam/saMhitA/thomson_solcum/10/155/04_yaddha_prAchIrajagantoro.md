@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yád dha prā́cīr ájaganta  
-úro maṇḍūradhāṇikīḥ  
-hatā́ índrasya śátravaḥ  
-sárve budbudáyāśavaḥ  
+य꣡द् ध प्रा꣡चीर् अ꣡जगन्त  
+उ꣡रो मण्डूरधाणिकीः  
+हता꣡ इ꣡न्द्रस्य श꣡त्रवः  
+स꣡र्वे बुद्बुद꣡याशवः  

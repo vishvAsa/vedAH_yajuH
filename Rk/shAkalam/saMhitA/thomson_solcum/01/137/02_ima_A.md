@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-imá ā́ yātam índavaḥ  
-sómāso dádhiāśiraḥ  
-sutā́so dádhiāśiraḥ  
-utá vām uṣáso budhí  
-sākáṃ sū́ryasya raśmíbhiḥ  
-sutó mitrā́ya váruṇāya pītáye  
-cā́rur r̥tā́ya pītáye  
+इम꣡ आ꣡ यातम् इ꣡न्दवः  
+सो꣡मासो द꣡धिआशिरः  
+सुता꣡सो द꣡धिआशिरः  
+उत꣡ वाम् उष꣡सो बुधि꣡  
+साकं꣡ सू꣡र्यस्य रश्मि꣡भिः  
+सुतो꣡ मित्रा꣡य व꣡रुणाय पीत꣡ये  
+चा꣡रुर् ऋता꣡य पीत꣡ये  

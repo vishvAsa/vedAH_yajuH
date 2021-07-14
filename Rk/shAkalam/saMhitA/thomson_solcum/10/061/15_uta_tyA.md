@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-utá tyā́ me raúdarāv arcimántā  
-nā́satyāv indra gūrtáye yájadhyai  
-manuṣvád vr̥ktábarhiṣe rárāṇā  
-mandū́ hitáprayasā vikṣú yájyū  
+उत꣡ त्या꣡ मे रउ꣡दराव् अर्चिम꣡न्ता  
+ना꣡सत्याव् इन्द्र गूर्त꣡ये य꣡जध्यै  
+मनुष्व꣡द् वृक्त꣡बर्हिषे र꣡राणा  
+मन्दू꣡ हित꣡प्रयसा विक्षु꣡ य꣡ज्यू  

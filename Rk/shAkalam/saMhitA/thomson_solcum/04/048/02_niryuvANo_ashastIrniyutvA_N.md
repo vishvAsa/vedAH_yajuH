@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-niryuvāṇó áśastīr  
-niyútvām̐ índrasārathiḥ  
-vā́yav ā́ candréṇa ráthena  
-yāhí sutásya pītáye  
+निर्युवाणो꣡ अ꣡शस्तीर्  
+नियु꣡त्वाँ इ꣡न्द्रसारथिः  
+वा꣡यव् आ꣡ चन्द्रे꣡ण र꣡थेन  
+याहि꣡ सुत꣡स्य पीत꣡ये  

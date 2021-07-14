@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-iyáṃ deva puróhitir yuvábhyāṃ  
-yajñéṣu mitrāvaruṇāv akāri  
-víśvāni durgā́ pipr̥taṃ tiró no  
-yūyám pāta suastíbhiḥ sádā naḥ  
+इयं꣡ देव पुरो꣡हितिर् युव꣡भ्यां  
+यज्ञे꣡षु मित्रावरुणाव् अकारि  
+वि꣡श्वानि दुर्गा꣡ पिपृतं तिरो꣡ नो  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-índro asmā́m̐ aradad vájrabāhur  
-ápāhan vr̥trám paridhíṃ nadī́nām  
-devó anayat savitā́ supāṇís  
-tásya vayám prasavé yāma urvī́ḥ  
+इ꣡न्द्रो अस्माँ꣡ अरदद् व꣡ज्रबाहुर्  
+अ꣡पाहन् वृत्र꣡म् परिधिं꣡ नदी꣡नाम्  
+देवो꣡ अनयत् सविता꣡ सुपाणि꣡स्  
+त꣡स्य वय꣡म् प्रसवे꣡ याम उर्वीः꣡  

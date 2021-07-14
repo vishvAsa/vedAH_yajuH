@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-aráṇiyor níhito jātávedā  
-gárbha iva súdhito garbhíṇīṣu  
-divé-diva ī́ḍiyo jāgr̥vádbhir  
-havíṣmadbhir manuṣíyebhir agníḥ  
+अर꣡णियोर् नि꣡हितो जात꣡वेदा  
+ग꣡र्भ इव सु꣡धितो गर्भि꣡णीषु  
+दिवे꣡-दिव ई꣡डियो जागृव꣡द्भिर्  
+हवि꣡ष्मद्भिर् मनुषि꣡येभिर् अग्निः꣡  

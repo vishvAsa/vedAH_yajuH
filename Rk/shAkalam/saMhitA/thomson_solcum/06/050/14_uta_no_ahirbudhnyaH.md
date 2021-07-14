@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-utá no áhir budhníyaḥ śr̥ṇotu  
-ajá ékapāt pr̥thivī́ samudráḥ  
-víśve devā́ r̥tāvŕ̥dho huvānā́  
-stutā́ mántrāḥ kaviśastā́ avantu  
+उत꣡ नो अ꣡हिर् बुध्नि꣡यः शृणोतु  
+अज꣡ ए꣡कपात् पृथिवी꣡ समुद्रः꣡  
+वि꣡श्वे देवा꣡ ऋताव्ŕ̥धो हुवाना꣡  
+स्तुता꣡ म꣡न्त्राः कविशस्ता꣡ अवन्तु  

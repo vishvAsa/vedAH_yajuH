@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-kavím iva prácetasaṃ  
-yáṃ devā́so ádha dvitā́  
-ní mártiyeṣu ādadhúḥ  
+कवि꣡म् इव प्र꣡चेतसं  
+यं꣡ देवा꣡सो अ꣡ध द्विता꣡  
+नि꣡ म꣡र्तियेषु आदधुः꣡  

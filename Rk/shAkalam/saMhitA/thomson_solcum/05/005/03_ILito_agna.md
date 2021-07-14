@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-īḷitó agna ā́ vaha  
-índraṃ citrám ihá priyám  
-sukhaí ráthebhir ūtáye  
+ईऌइतो꣡ अग्न आ꣡ वह  
+इ꣡न्द्रं चित्र꣡म् इह꣡ प्रिय꣡म्  
+सुखइ꣡ र꣡थेभिर् ऊत꣡ये  

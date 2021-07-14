@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-divó dhā́mabhir varuṇa  
-mitráś cā́ yātam adrúhā  
-píbataṃ sómam ātujī́  
+दिवो꣡ धा꣡मभिर् वरुण  
+मित्र꣡श् चा꣡ यातम् अद्रु꣡हा  
+पि꣡बतं सो꣡मम् आतुजी꣡  

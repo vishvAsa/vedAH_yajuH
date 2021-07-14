@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-vayáṃ cid dhí vāṃ jaritā́raḥ satyā́  
-vipanyā́mahe ví paṇír hitā́vān  
-ádhā cid dhí ṣma aśvināv anindyā  
-pāthó hí ṣmā vr̥ṣaṇāv ántidevam  
+वयं꣡ चिद् धि꣡ वां जरिता꣡रः सत्या꣡  
+विपन्या꣡महे वि꣡ पणि꣡र् हिता꣡वान्  
+अ꣡धा चिद् धि꣡ ष्म अश्विनाव् अनिन्द्या  
+पाथो꣡ हि꣡ ष्मा वृषणाव् अ꣡न्तिदेवम्  

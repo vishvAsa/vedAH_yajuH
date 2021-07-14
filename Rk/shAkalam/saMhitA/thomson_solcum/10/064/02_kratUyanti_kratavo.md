@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kratūyánti krátavo hr̥tsú dhītáyo  
-vénanti venā́ḥ patáyanti ā́ díśaḥ  
-ná marḍitā́ vidyate anyá ebhiyo  
-devéṣu me ádhi kā́mā ayaṃsata  
+क्रतूय꣡न्ति क्र꣡तवो हृत्सु꣡ धीत꣡यो  
+वे꣡नन्ति वेनाः꣡ पत꣡यन्ति आ꣡ दि꣡शः  
+न꣡ मर्डिता꣡ विद्यते अन्य꣡ एभियो  
+देवे꣡षु मे अ꣡धि का꣡मा अयंसत  

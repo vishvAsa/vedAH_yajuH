@@ -2,6 +2,6 @@
 title = "028"
 
 +++
-imā́ u tvā suté-sute  
-nákṣante girvaṇo gíraḥ  
-vatsáṃ gā́vo ná dhenávaḥ  
+इमा꣡ उ त्वा सुते꣡-सुते  
+न꣡क्षन्ते गिर्वणो गि꣡रः  
+वत्सं꣡ गा꣡वो न꣡ धेन꣡वः  

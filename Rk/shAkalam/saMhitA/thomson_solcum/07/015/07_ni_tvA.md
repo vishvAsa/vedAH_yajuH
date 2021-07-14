@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ní tvā nakṣiya viśpate  
-dyumántaṃ deva dhīmahi  
-suvī́ram agna āhuta  
+नि꣡ त्वा नक्षिय विश्पते  
+द्युम꣡न्तं देव धीमहि  
+सुवी꣡रम् अग्न आहुत  

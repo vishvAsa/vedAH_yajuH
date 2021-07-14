@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sám īm paṇér ajati bhójanam muṣé  
-ví dāśúṣe bhajati sūnáraṃ vásu  
-durgé caná dhriyate víśva ā́ purú  
-jáno yó asya táviṣīm ácukrudhat  
+स꣡म् ईम् पणे꣡र् अजति भो꣡जनम् मुषे꣡  
+वि꣡ दाशु꣡षे भजति सून꣡रं व꣡सु  
+दुर्गे꣡ चन꣡ ध्रियते वि꣡श्व आ꣡ पुरु꣡  
+ज꣡नो यो꣡ अस्य त꣡विषीम् अ꣡चुक्रुधत्  

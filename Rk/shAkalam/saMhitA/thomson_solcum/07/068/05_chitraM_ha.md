@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-citráṃ ha yád vām bhójanaṃ nu ásti  
-ní átraye máhiṣvantaṃ yuyotam  
-yó vām omā́naṃ dádhate priyáḥ sán  
+चित्रं꣡ ह य꣡द् वाम् भो꣡जनं नु अ꣡स्ति  
+नि꣡ अ꣡त्रये म꣡हिष्वन्तं युयोतम्  
+यो꣡ वाम् ओमा꣡नं द꣡धते प्रियः꣡ स꣡न्  

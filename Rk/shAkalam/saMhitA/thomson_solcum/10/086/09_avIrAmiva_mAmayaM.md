@@ -2,8 +2,8 @@
 title = "009"
 
 +++
-avī́rām iva mā́m ayáṃ  
-śarā́rur abhí manyate  
-utā́hám asmi vīríṇī  
-índrapatnī marútsakhā  
-víśvasmād índra úttaraḥ  
+अवी꣡राम् इव मा꣡म् अयं꣡  
+शरा꣡रुर् अभि꣡ मन्यते  
+उता꣡ह꣡म् अस्मि वीरि꣡णी  
+इ꣡न्द्रपत्नी मरु꣡त्सखा  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

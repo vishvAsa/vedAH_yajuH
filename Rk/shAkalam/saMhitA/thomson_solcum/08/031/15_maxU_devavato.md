@@ -2,8 +2,8 @@
 title = "015"
 
 +++
-makṣū́ devávato ráthaḥ  
-śū́ro vā pr̥tsú kā́su cit  
-devā́nãṃ yá ín máno  
-yájamāna íyakṣati  
-abhī́d áyajvano bhuvat  
+मक्षू꣡ देव꣡वतो र꣡थः  
+शू꣡रो वा पृत्सु꣡ का꣡सु चित्  
+देवा꣡न्ãं य꣡ इ꣡न् म꣡नो  
+य꣡जमान इ꣡यक्षति  
+अभी꣡द् अ꣡यज्वनो भुवत्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yás te sūno sahaso gīrbhír ukthaír  
-yajñaír márto níśitiṃ vediyā́naṭ  
-víśvaṃ sá deva práti vā́ram agne  
-dhatté dhāníyam pátyate vasavyaìḥ  
+य꣡स् ते सूनो सहसो गीर्भि꣡र् उक्थइ꣡र्  
+यज्ञइ꣡र् म꣡र्तो नि꣡शितिं वेदिया꣡नट्  
+वि꣡श्वं स꣡ देव प्र꣡ति वा꣡रम् अग्ने  
+धत्ते꣡ धानि꣡यम् प꣡त्यते वसव्यइः᳡  

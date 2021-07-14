@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yác cid dhí tvā jánā imé  
-nā́nā hávanta ūtáye  
-asmā́kam bráhma idám indra bhūtu te  
-áhā víśvā ca várdhanam  
+य꣡च् चिद् धि꣡ त्वा ज꣡ना इमे꣡  
+ना꣡ना ह꣡वन्त ऊत꣡ये  
+अस्मा꣡कम् ब्र꣡ह्म इद꣡म् इन्द्र भूतु ते  
+अ꣡हा वि꣡श्वा च व꣡र्धनम्  

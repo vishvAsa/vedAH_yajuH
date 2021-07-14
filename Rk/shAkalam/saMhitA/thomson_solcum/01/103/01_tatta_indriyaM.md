@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tát ta indriyám paramám parācaír  
-ádhārayanta kaváyaḥ purédám  
-kṣamédám anyád diví anyád asya  
-sám ī pr̥cyate samanéva ketúḥ  
+त꣡त् त इन्द्रिय꣡म् परम꣡म् पराचइ꣡र्  
+अ꣡धारयन्त कव꣡यः पुरे꣡द꣡म्  
+क्षमे꣡द꣡म् अन्य꣡द् दिवि꣡ अन्य꣡द् अस्य  
+स꣡म् ई पृच्यते समने꣡व केतुः꣡  

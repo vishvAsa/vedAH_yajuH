@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-nahí va ūtíḥ pŕ̥tanāsu márdhati  
-yásmā árādhuvaṃ naraḥ  
-abhí va ā́vart sumatír návīyasī  
-tū́yaṃ yāta pipīṣavaḥ  
+नहि꣡ व ऊतिः꣡ प्ŕ̥तनासु म꣡र्धति  
+य꣡स्मा अ꣡राधुवं नरः  
+अभि꣡ व आ꣡वर्त् सुमति꣡र् न꣡वीयसी  
+तू꣡यं यात पिपीषवः  

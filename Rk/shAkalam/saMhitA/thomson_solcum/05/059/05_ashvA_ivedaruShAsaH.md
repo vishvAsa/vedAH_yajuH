@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áśvā ivéd aruṣā́saḥ sábandhavaḥ  
-śū́rā iva prayúdhaḥ prótá yuyudhuḥ  
-máryā iva suvŕ̥dho vāvr̥dhur náraḥ  
-sū́ryasya cákṣuḥ prá minanti vr̥ṣṭíbhiḥ  
+अ꣡श्वा इवे꣡द् अरुषा꣡सः स꣡बन्धवः  
+शू꣡रा इव प्रयु꣡धः प्रो꣡त꣡ युयुधुः  
+म꣡र्या इव सुव्ŕ̥धो वावृधुर् न꣡रः  
+सू꣡र्यस्य च꣡क्षुः प्र꣡ मिनन्ति वृष्टि꣡भिः  

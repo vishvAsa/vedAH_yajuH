@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-vraténa stho dhruvákṣemā  
-dhármaṇā yātayájjanā  
-ní barhíṣi sadataṃ sómapītaye  
+व्रते꣡न स्थो ध्रुव꣡क्षेमा  
+ध꣡र्मणा यातय꣡ज्जना  
+नि꣡ बर्हि꣡षि सदतं सो꣡मपीतये  

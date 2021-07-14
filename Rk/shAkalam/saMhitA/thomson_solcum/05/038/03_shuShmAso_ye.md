@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śúṣmāso yé te adrivo  
-mehánā ketasā́paḥ  
-ubhā́ devā́v abhíṣṭaye  
-diváś ca gmáś ca rājathaḥ  
+शु꣡ष्मासो ये꣡ ते अद्रिवो  
+मेह꣡ना केतसा꣡पः  
+उभा꣡ देवा꣡व् अभि꣡ष्टये  
+दिव꣡श् च ग्म꣡श् च राजथः  

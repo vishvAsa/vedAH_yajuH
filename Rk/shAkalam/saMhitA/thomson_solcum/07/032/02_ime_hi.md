@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-imé hí te brahmakŕ̥taḥ suté sácā  
-mádhau ná mákṣa ā́sate  
-índre kā́maṃ jaritā́ro vasūyávo  
-ráthe ná pā́dam ā́ dadhuḥ  
+इमे꣡ हि꣡ ते ब्रह्मक्ŕ̥तः सुते꣡ स꣡चा  
+म꣡धौ न꣡ म꣡क्ष आ꣡सते  
+इ꣡न्द्रे का꣡मं जरिता꣡रो वसूय꣡वो  
+र꣡थे न꣡ पा꣡दम् आ꣡ दधुः  

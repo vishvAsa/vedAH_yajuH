@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-té naḥ pū́rvāsa úparāsa índavo  
-mahé vā́jāya dhanuvantu gómate  
-īkṣeṇíyāso ahíyo ná cā́ravo  
-bráhma-brahma yé jujuṣúr havír-haviḥ  
+ते꣡ नः पू꣡र्वास उ꣡परास इ꣡न्दवो  
+महे꣡ वा꣡जाय धनुवन्तु गो꣡मते  
+ईक्षेणि꣡यासो अहि꣡यो न꣡ चा꣡रवो  
+ब्र꣡ह्म-ब्रह्म ये꣡ जुजुषु꣡र् हवि꣡र्-हविः  

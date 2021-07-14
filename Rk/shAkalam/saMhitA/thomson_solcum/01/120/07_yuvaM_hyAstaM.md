@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yuváṃ hí ā́stam mahó rán  
-yuváṃ vā yán nirátataṃsatam  
-tā́ no vasū sugopā́ siyātam  
-pātáṃ no vŕ̥kād aghāyóḥ  
+युवं꣡ हि꣡ आ꣡स्तम् महो꣡ र꣡न्  
+युवं꣡ वा य꣡न् निर꣡ततंसतम्  
+ता꣡ नो वसू सुगोपा꣡ सियातम्  
+पातं꣡ नो व्ŕ̥काद् अघायोः꣡  

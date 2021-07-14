@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-r̥tásya vā keśínā yogiyā́bhir  
-ghr̥tasnúvā róhitā dhurí dhiṣva  
-átha ā́ vaha devā́n deva víśvān  
-suadhvarā́ kr̥ṇuhi jātavedaḥ  
+ऋत꣡स्य वा केशि꣡ना योगिया꣡भिर्  
+घृतस्नु꣡वा रो꣡हिता धुरि꣡ धिष्व  
+अ꣡थ आ꣡ वह देवा꣡न् देव वि꣡श्वान्  
+सुअध्वरा꣡ कृणुहि जातवेदः  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-balavijñāyá stháviraḥ právīraḥ  
-sáhasvān vājī́ sáhamāna ugráḥ  
-abhívīro abhísatvā sahojā́  
-jaítram indra rátham ā́ tiṣṭha govít  
+बलविज्ञाय꣡ स्थ꣡विरः प्र꣡वीरः  
+स꣡हस्वान् वाजी꣡ स꣡हमान उग्रः꣡  
+अभि꣡वीरो अभि꣡सत्वा सहोजा꣡  
+जइ꣡त्रम् इन्द्र र꣡थम् आ꣡ तिष्ठ गोवि꣡त्  

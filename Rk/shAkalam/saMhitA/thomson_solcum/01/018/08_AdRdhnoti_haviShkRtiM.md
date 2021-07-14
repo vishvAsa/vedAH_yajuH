@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-ā́d r̥dhnoti havíṣkr̥tim  
-prā́ñcaṃ kr̥ṇoti adhvarám  
-hótrā devéṣu gachati  
+आ꣡द् ऋध्नोति हवि꣡ष्कृतिम्  
+प्रा꣡ञ्चं कृणोति अध्वर꣡म्  
+हो꣡त्रा देवे꣡षु गछति  

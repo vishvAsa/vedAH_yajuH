@@ -2,7 +2,7 @@
 title = "043"
 
 +++
-śakamáyaṃ dhūmám ārā́d apaśyaṃ  
-viṣūvátā pará enā́vareṇa  
-ukṣā́ṇam pŕ̥śnim apacanta vīrā́s  
-tā́ni dhármāṇi prathamā́ni āsan  
+शकम꣡यं धूम꣡म् आरा꣡द् अपश्यं  
+विषूव꣡ता पर꣡ एना꣡वरेण  
+उक्षा꣡णम् प्ŕ̥श्निम् अपचन्त वीरा꣡स्  
+ता꣡नि ध꣡र्माणि प्रथमा꣡नि आसन्  

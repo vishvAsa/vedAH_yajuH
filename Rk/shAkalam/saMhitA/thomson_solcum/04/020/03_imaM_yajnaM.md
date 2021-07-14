@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-imáṃ yajñáṃ tuvám asmā́kam indra  
-puró dádhat saniṣyasi krátuṃ naḥ  
-śvaghnī́va vajrin sanáye dhánānāṃ  
-tváyā vayám aryá ājíṃ jayema  
+इमं꣡ यज्ञं꣡ तुव꣡म् अस्मा꣡कम् इन्द्र  
+पुरो꣡ द꣡धत् सनिष्यसि क्र꣡तुं नः  
+श्वघ्नी꣡व वज्रिन् सन꣡ये ध꣡नानां  
+त्व꣡या वय꣡म् अर्य꣡ आजिं꣡ जयेम  

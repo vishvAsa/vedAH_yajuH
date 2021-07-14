@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-tuvótāsas távā́vasā  
-syā́ma vanvánta āmúraḥ  
-sóma vratéṣu jāgr̥hi  
+तुवो꣡तासस् त꣡वा꣡वसा  
+स्या꣡म वन्व꣡न्त आमु꣡रः  
+सो꣡म व्रते꣡षु जागृहि  

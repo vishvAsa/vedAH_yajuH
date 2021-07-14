@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-viśvā́hā tvā sumánasaḥ sucákṣasaḥ  
-prajā́vanto anamīvā́ ánāgasaḥ  
-udyántaṃ tvā mitramaho divé-dive  
-jiyóg jīvā́ḥ práti paśyema sūriya  
+विश्वा꣡हा त्वा सुम꣡नसः सुच꣡क्षसः  
+प्रजा꣡वन्तो अनमीवा꣡ अ꣡नागसः  
+उद्य꣡न्तं त्वा मित्रमहो दिवे꣡-दिवे  
+जियो꣡ग् जीवाः꣡ प्र꣡ति पश्येम सूरिय  

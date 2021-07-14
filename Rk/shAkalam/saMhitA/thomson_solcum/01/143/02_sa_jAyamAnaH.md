@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá jā́yamānaḥ paramé víomani  
-āvír agnír abhavan mātaríśvane  
-asyá krátvā samidhānásya majmánā  
-prá dyā́vā śocíḥ pr̥thivī́ arocayat  
+स꣡ जा꣡यमानः परमे꣡ वि꣡ओमनि  
+आवि꣡र् अग्नि꣡र् अभवन् मातरि꣡श्वने  
+अस्य꣡ क्र꣡त्वा समिधान꣡स्य मज्म꣡ना  
+प्र꣡ द्या꣡वा शोचिः꣡ पृथिवी꣡ अरोचयत्  

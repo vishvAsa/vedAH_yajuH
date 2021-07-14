@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá vāṃ nicerúḥ kakuhó váśām̐ ánu  
-piśáṅgarūpaḥ sádanāni gamyāḥ  
-hárī anyásya pīpáyanta vā́jair  
-mathrā́ rájāṃsi aśvinā ví ghóṣaiḥ  
+प्र꣡ वां निचेरुः꣡ ककुहो꣡ व꣡शाँ अ꣡नु  
+पिश꣡ङ्गरूपः स꣡दनानि गम्याः  
+ह꣡री अन्य꣡स्य पीप꣡यन्त वा꣡जैर्  
+मथ्रा꣡ र꣡जांसि अश्विना वि꣡ घो꣡षैः  

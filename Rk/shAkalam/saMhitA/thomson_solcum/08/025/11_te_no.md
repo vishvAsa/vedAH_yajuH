@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-té no nāvám uruṣyata  
-dívā náktaṃ sudānavaḥ  
-áriṣyanto ní pāyúbhiḥ sacemahi  
+ते꣡ नो नाव꣡म् उरुष्यत  
+दि꣡वा न꣡क्तं सुदानवः  
+अ꣡रिष्यन्तो नि꣡ पायु꣡भिः सचेमहि  

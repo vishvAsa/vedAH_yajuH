@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-abhí arṣa vicakṣaṇa  
-pavítraṃ dhā́rayā sutáḥ  
-abhí vā́jam utá śrávaḥ  
+अभि꣡ अर्ष विचक्षण  
+पवि꣡त्रं धा꣡रया सुतः꣡  
+अभि꣡ वा꣡जम् उत꣡ श्र꣡वः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yáṃ tvā jánāso abhí saṃcáranti  
-gā́va uṣṇám iva vrajáṃ yaviṣṭha  
-dūtó devā́nām asi mártiyānām  
-antár mahā́ṃś carasi rocanéna  
+यं꣡ त्वा ज꣡नासो अभि꣡ संच꣡रन्ति  
+गा꣡व उष्ण꣡म् इव व्रजं꣡ यविष्ठ  
+दूतो꣡ देवा꣡नाम् असि म꣡र्तियानाम्  
+अन्त꣡र् महां꣡श् चरसि रोचने꣡न  

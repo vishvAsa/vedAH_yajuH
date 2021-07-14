@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ahám evá vā́ta iva prá vāmi  
-ārábhamāṇā bhúvanāni víśvā  
-paró divā́ pará enā́ pr̥thivyā́  
-etā́vatī mahinā́ sám babhūva  
+अह꣡म् एव꣡ वा꣡त इव प्र꣡ वामि  
+आर꣡भमाणा भु꣡वनानि वि꣡श्वा  
+परो꣡ दिवा꣡ पर꣡ एना꣡ पृथिव्या꣡  
+एता꣡वती महिना꣡ स꣡म् बभूव  

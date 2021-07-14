@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-utá me 'rapad yuvatír mamandúṣī  
-práti śyāvā́ya vartaním  
-ví róhitā purumīḷhā́ya yematur  
-víprāya dīrgháyaśase  
+उत꣡ मे ऽरपद् युवति꣡र् ममन्दु꣡षी  
+प्र꣡ति श्यावा꣡य वर्तनि꣡म्  
+वि꣡ रो꣡हिता पुरुमीऌहा꣡य येमतुर्  
+वि꣡प्राय दीर्घ꣡यशसे  

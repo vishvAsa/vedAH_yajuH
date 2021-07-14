@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-yéna váṃsāma pŕ̥tanāsu śárdhatas  
-táranto aryá ādíśaḥ  
-sá tváṃ no vardha práyasā śacīvaso  
-jínvā dhíyo vasuvídaḥ  
+ये꣡न वं꣡साम प्ŕ̥तनासु श꣡र्धतस्  
+त꣡रन्तो अर्य꣡ आदि꣡शः  
+स꣡ त्वं꣡ नो वर्ध प्र꣡यसा शचीवसो  
+जि꣡न्वा धि꣡यो वसुवि꣡दः  

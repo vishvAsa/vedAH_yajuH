@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-úd uttamáṃ varuṇa pā́śam asmád  
-ávādhamáṃ ví madhyamáṃ śrathāya  
-áthā vayám āditiya vraté táva  
-ánāgaso áditaye siyāma  
+उ꣡द् उत्तमं꣡ वरुण पा꣡शम् अस्म꣡द्  
+अ꣡वाधमं꣡ वि꣡ मध्यमं꣡ श्रथाय  
+अ꣡था वय꣡म् आदितिय व्रते꣡ त꣡व  
+अ꣡नागसो अ꣡दितये सियाम  

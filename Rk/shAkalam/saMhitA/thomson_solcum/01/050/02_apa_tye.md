@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ápa tyé tāyávo yathā  
-nákṣatrā yanti aktúbhiḥ  
-sū́rāya viśvácakṣase  
+अ꣡प त्ये꣡ ताय꣡वो यथा  
+न꣡क्षत्रा यन्ति अक्तु꣡भिः  
+सू꣡राय विश्व꣡चक्षसे  

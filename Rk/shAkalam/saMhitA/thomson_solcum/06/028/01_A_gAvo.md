@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ gā́vo agmann utá bhadrám akran  
-sī́dantu goṣṭhé raṇáyantu asmé  
-prajā́vatīḥ pururū́pā ihá syur  
-índrāya pūrvī́r uṣáso dúhānāḥ  
+आ꣡ गा꣡वो अग्मन्न् उत꣡ भद्र꣡म् अक्रन्  
+सी꣡दन्तु गोष्ठे꣡ रण꣡यन्तु अस्मे꣡  
+प्रजा꣡वतीः पुरुरू꣡पा इह꣡ स्युर्  
+इ꣡न्द्राय पूर्वी꣡र् उष꣡सो दु꣡हानाः  

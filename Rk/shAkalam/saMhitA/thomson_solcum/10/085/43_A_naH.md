@@ -2,7 +2,7 @@
 title = "043"
 
 +++
-ā́ naḥ prajā́ṃ janayatu prajā́patir  
-ājarasā́ya sám anaktu aryamā́  
-ádurmaṅgalīḥ patilokám ā́ viśa  
-śáṃ no bhava dvipáde śáṃ cátuṣpade  
+आ꣡ नः प्रजां꣡ जनयतु प्रजा꣡पतिर्  
+आजरसा꣡य स꣡म् अनक्तु अर्यमा꣡  
+अ꣡दुर्मङ्गलीः पतिलोक꣡म् आ꣡ विश  
+शं꣡ नो भव द्विप꣡दे शं꣡ च꣡तुष्पदे  

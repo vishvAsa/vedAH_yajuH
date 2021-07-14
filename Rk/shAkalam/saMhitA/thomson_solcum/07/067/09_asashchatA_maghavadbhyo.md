@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-asaścátā maghávadbhyo hí bhūtáṃ  
-yé rāyiyā́ maghadéyaṃ junánti  
-prá yé bándhuṃ sūnŕ̥tābhis tiránte  
-gávyā pr̥ñcánto áśviyā maghā́ni  
+असश्च꣡ता मघ꣡वद्भ्यो हि꣡ भूतं꣡  
+ये꣡ रायिया꣡ मघदे꣡यं जुन꣡न्ति  
+प्र꣡ ये꣡ ब꣡न्धुं सून्ŕ̥ताभिस् तिर꣡न्ते  
+ग꣡व्या पृञ्च꣡न्तो अ꣡श्विया मघा꣡नि  

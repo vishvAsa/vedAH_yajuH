@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mahát tád úlbaṃ stháviraṃ tád āsīd  
-yénā́viṣṭitaḥ pravivéśithāpáḥ  
-víśvā apaśyad bahudhā́ te agne  
-jā́tavedas tanúvo devá ékaḥ  
+मह꣡त् त꣡द् उ꣡ल्बं स्थ꣡विरं त꣡द् आसीद्  
+ये꣡ना꣡विष्टितः प्रविवे꣡शिथापः꣡  
+वि꣡श्वा अपश्यद् बहुधा꣡ ते अग्ने  
+जा꣡तवेदस् तनु꣡वो देव꣡ ए꣡कः  

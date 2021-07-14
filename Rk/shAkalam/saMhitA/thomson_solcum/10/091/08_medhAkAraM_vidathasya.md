@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-medhākāráṃ vidáthasya prasā́dhanam  
-agníṃ hótāram paribhū́tamam matím  
-tám íd árbhe havíṣi ā́ samānám ít  
-tám ín mahé vr̥ṇate nā́niyáṃ tuvát  
+मेधाकारं꣡ विद꣡थस्य प्रसा꣡धनम्  
+अग्निं꣡ हो꣡तारम् परिभू꣡तमम् मति꣡म्  
+त꣡म् इ꣡द् अ꣡र्भे हवि꣡षि आ꣡ समान꣡म् इ꣡त्  
+त꣡म् इ꣡न् महे꣡ वृणते ना꣡नियं꣡ तुव꣡त्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-áśvād iyāya íti yád vádanti  
-ójaso jātám utá manya enam  
-manyór iyāya harmiyéṣu tasthau  
-yátaḥ prajajñá índro asya veda  
+अ꣡श्वाद् इयाय इ꣡ति य꣡द् व꣡दन्ति  
+ओ꣡जसो जात꣡म् उत꣡ मन्य एनम्  
+मन्यो꣡र् इयाय हर्मिये꣡षु तस्थौ  
+य꣡तः प्रजज्ञ꣡ इ꣡न्द्रो अस्य वेद  

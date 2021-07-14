@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ā́ yáṃ náraḥ sudā́navo dadāśúṣe  
-diváḥ kóśam ácucyavuḥ  
-ví parjányaṃ sr̥janti ródasī ánu  
-dhánvanā yanti vr̥ṣṭáyaḥ  
+आ꣡ यं꣡ न꣡रः सुदा꣡नवो ददाशु꣡षे  
+दिवः꣡ को꣡शम् अ꣡चुच्यवुः  
+वि꣡ पर्ज꣡न्यं सृजन्ति रो꣡दसी अ꣡नु  
+ध꣡न्वना यन्ति वृष्ट꣡यः  

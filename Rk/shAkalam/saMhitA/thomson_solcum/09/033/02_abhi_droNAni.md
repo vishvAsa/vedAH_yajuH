@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-abhí dróṇāni babhrávaḥ  
-śukrā́ r̥tásya dhā́rayā  
-vā́jaṃ gómantam akṣaran  
+अभि꣡ द्रो꣡णानि बभ्र꣡वः  
+शुक्रा꣡ ऋत꣡स्य धा꣡रया  
+वा꣡जं गो꣡मन्तम् अक्षरन्  

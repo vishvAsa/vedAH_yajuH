@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-pr̥kṣó vápuḥ pitumā́n nítya ā́ śaye  
-dvitī́yam ā́ saptáśivāsu mātŕ̥ṣu  
-tr̥tī́yam asya vr̥ṣabhásya doháse  
-dáśapramatiṃ janayanta yóṣaṇaḥ  
+पृक्षो꣡ व꣡पुः पितुमा꣡न् नि꣡त्य आ꣡ शये  
+द्विती꣡यम् आ꣡ सप्त꣡शिवासु मात्ŕ̥षु  
+तृती꣡यम् अस्य वृषभ꣡स्य दोह꣡से  
+द꣡शप्रमतिं जनयन्त यो꣡षणः  

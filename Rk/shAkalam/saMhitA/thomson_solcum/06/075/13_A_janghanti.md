@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ā́ jaṅghanti sā́nu eṣāṃ  
-jaghánām̐ úpa jighnate  
-áśvājani prácetaso  
-áśvān samátsu codaya  
+आ꣡ जङ्घन्ति सा꣡नु एषां  
+जघ꣡नाँ उ꣡प जिघ्नते  
+अ꣡श्वाजनि प्र꣡चेतसो  
+अ꣡श्वान् सम꣡त्सु चोदय  

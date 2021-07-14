@@ -2,7 +2,7 @@
 title = "029"
 
 +++
-úpa śvāsaya pr̥thivī́m utá dyā́m  
-purutrā́ te manutāṃ víṣṭhitaṃ jágat  
-sá dundubhe sajū́r índreṇa devaír  
-dūrā́d dávīyo ápa sedha śátrūn  
+उ꣡प श्वासय पृथिवी꣡म् उत꣡ द्या꣡म्  
+पुरुत्रा꣡ ते मनुतां वि꣡ष्ठितं ज꣡गत्  
+स꣡ दुन्दुभे सजू꣡र् इ꣡न्द्रेण देवइ꣡र्  
+दूरा꣡द् द꣡वीयो अ꣡प सेध श꣡त्रून्  

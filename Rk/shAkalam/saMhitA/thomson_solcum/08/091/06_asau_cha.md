@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-asaú ca yā́ na urvárā  
-ā́d imā́ṃ tanúvam máma  
-átho tatásya yác chíraḥ  
-sárvā tā́ romaśā́ kr̥dhi  
+असउ꣡ च या꣡ न उर्व꣡रा  
+आ꣡द् इमां꣡ तनु꣡वम् म꣡म  
+अ꣡थो तत꣡स्य य꣡च् छि꣡रः  
+स꣡र्वा ता꣡ रोमशा꣡ कृधि  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tríḥ saptá yád gúhiyāni tuvé ít  
-padā́vidan níhitā yajñíyāsaḥ  
-tébhī rakṣante amŕ̥taṃ sajóṣāḥ  
-paśū́ñ ca sthātr̥̄́ñ caráthaṃ ca pāhi  
+त्रिः꣡ सप्त꣡ य꣡द् गु꣡हियानि तुवे꣡ इ꣡त्  
+पदा꣡विदन् नि꣡हिता यज्ञि꣡यासः  
+ते꣡भी रक्षन्ते अम्ŕ̥तं सजो꣡षाः  
+पशू꣡ञ् च स्थातॄ꣡ञ् चर꣡थं च पाहि  

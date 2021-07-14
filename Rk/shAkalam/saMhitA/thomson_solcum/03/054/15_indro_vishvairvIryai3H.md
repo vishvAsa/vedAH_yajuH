@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-índro víśvair vīríyaiḥ pátyamāna  
-ubhé ā́ paprau ródasī mahitvā́  
-puraṃdaró vr̥trahā́ dhr̥ṣṇúṣeṇaḥ  
-saṃgŕ̥bhyā na ā́ bharā bhū́ri paśváḥ  
+इ꣡न्द्रो वि꣡श्वैर् वीरि꣡यैः प꣡त्यमान  
+उभे꣡ आ꣡ पप्रौ रो꣡दसी महित्वा꣡  
+पुरंदरो꣡ वृत्रहा꣡ धृष्णु꣡षेणः  
+संग्ŕ̥भ्या न आ꣡ भरा भू꣡रि पश्वः꣡  

@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-apsú me sómo abravīd  
-antár víśvāni bheṣajā́  
-agníṃ ca viśváśambhuvam  
+अप्सु꣡ मे सो꣡मो अब्रवीद्  
+अन्त꣡र् वि꣡श्वानि भेषजा꣡  
+अग्निं꣡ च विश्व꣡शम्भुवम्  

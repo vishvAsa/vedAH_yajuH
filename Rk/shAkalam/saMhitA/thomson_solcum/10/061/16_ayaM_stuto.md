@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-ayáṃ stutó · rā́jā vandi vedhā́  
-apáś ca vípras tarati svásetuḥ  
-sá kakṣī́vantaṃ rejayat só agníṃ  
-nemíṃ ná cakrám árvato raghudrú  
+अयं꣡ स्तुतो꣡ · रा꣡जा वन्दि वेधा꣡  
+अप꣡श् च वि꣡प्रस् तरति स्व꣡सेतुः  
+स꣡ कक्षी꣡वन्तं रेजयत् सो꣡ अग्निं꣡  
+नेमिं꣡ न꣡ चक्र꣡म् अ꣡र्वतो रघुद्रु꣡  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ávocāma kaváye médhiyāya  
-váco vandā́ru vr̥ṣabhā́ya vŕ̥ṣṇe  
-gáviṣṭhiro námasā stómam agnaú  
-divī́va rukmám uruvyáñcam aśret  
+अ꣡वोचाम कव꣡ये मे꣡धियाय  
+व꣡चो वन्दा꣡रु वृषभा꣡य व्ŕ̥ष्णे  
+ग꣡विष्ठिरो न꣡मसा स्तो꣡मम् अग्नउ꣡  
+दिवी꣡व रुक्म꣡म् उरुव्य꣡ञ्चम् अश्रेत्  

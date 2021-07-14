@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-stotrám índrāya gāyata  
-purunr̥mṇā́ya sátvane  
-nákir yáṃ vr̥ṇvaté yudhí  
+स्तोत्र꣡म् इ꣡न्द्राय गायत  
+पुरुनृम्णा꣡य स꣡त्वने  
+न꣡किर् यं꣡ वृण्वते꣡ युधि꣡  

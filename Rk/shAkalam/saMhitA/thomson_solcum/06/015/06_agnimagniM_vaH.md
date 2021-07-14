@@ -2,8 +2,8 @@
 title = "006"
 
 +++
-agním-agniṃ vaḥ samídhā duvasyata  
-priyám-priyaṃ vo átithiṃ gr̥ṇīṣáṇi  
-úpa vo gīrbhír amŕ̥taṃ vivāsata  
-devó devéṣu vánate hí vā́riyaṃ  
-devó devéṣu vánate hí no dúvaḥ  
+अग्नि꣡म्-अग्निं वः समि꣡धा दुवस्यत  
+प्रिय꣡म्-प्रियं वो अ꣡तिथिं गृणीष꣡णि  
+उ꣡प वो गीर्भि꣡र् अम्ŕ̥तं विवासत  
+देवो꣡ देवे꣡षु व꣡नते हि꣡ वा꣡रियं  
+देवो꣡ देवे꣡षु व꣡नते हि꣡ नो दु꣡वः  

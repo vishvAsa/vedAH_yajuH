@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuváṃ tā́m̐ indra ubháyām̐ amítrān  
-dā́sā vr̥trā́ṇi ā́riyā ca śūra  
-vádhīr váneva súdhitebhir átkair  
-ā́ pr̥tsú darṣi nr̥̄ṇã́ṃ+ nr̥tama  
+तुवं꣡ ताँ꣡ इन्द्र उभ꣡याँ अमि꣡त्रान्  
+दा꣡सा वृत्रा꣡णि आ꣡रिया च शूर  
+व꣡धीर् व꣡नेव सु꣡धितेभिर् अ꣡त्कैर्  
+आ꣡ पृत्सु꣡ दर्षि नॄण्ãं꣡+ नृतम  

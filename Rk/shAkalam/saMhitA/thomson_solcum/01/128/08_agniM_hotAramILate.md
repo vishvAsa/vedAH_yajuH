@@ -2,10 +2,10 @@
 title = "008"
 
 +++
-agníṃ hótāram īḷate vásudhitim  
-priyáṃ cétiṣṭham aratíṃ ní erire  
-havyavā́haṃ ní erire  
-viśvā́yuṃ viśvávedasaṃ  
-hótāraṃ yajatáṃ kavím  
-devā́so raṇvám ávase vasūyávo  
-gīrbhī́ raṇváṃ vasūyávaḥ  
+अग्निं꣡ हो꣡तारम् ईऌअते व꣡सुधितिम्  
+प्रियं꣡ चे꣡तिष्ठम् अरतिं꣡ नि꣡ एरिरे  
+हव्यवा꣡हं नि꣡ एरिरे  
+विश्वा꣡युं विश्व꣡वेदसं  
+हो꣡तारं यजतं꣡ कवि꣡म्  
+देवा꣡सो रण्व꣡म् अ꣡वसे वसूय꣡वो  
+गीर्भी꣡ रण्वं꣡ वसूय꣡वः  

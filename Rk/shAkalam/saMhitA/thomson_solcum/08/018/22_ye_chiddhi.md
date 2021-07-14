@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-yé cid dhí mr̥tyúbandhava  
-ā́dityā mánavaḥ smási  
-prá sū́ na ā́yu° jīváse tiretana  
+ये꣡ चिद् धि꣡ मृत्यु꣡बन्धव  
+आ꣡दित्या म꣡नवः स्म꣡सि  
+प्र꣡ सू꣡ न आ꣡यु° जीव꣡से तिरेतन  

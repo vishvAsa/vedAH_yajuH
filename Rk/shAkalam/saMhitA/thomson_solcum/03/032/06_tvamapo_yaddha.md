@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tuvám apó yád dha vr̥tráṃ jaghanvā́m̐  
-átyām̐ iva prā́sr̥jaḥ sártavā́jaú  
-śáyānam indra cáratā vadhéna  
-vavrivā́ṃsam pári devī́r ádevam  
+तुव꣡म् अपो꣡ य꣡द् ध वृत्रं꣡ जघन्वाँ꣡  
+अ꣡त्याँ इव प्रा꣡सृजः स꣡र्तवा꣡जउ꣡  
+श꣡यानम् इन्द्र च꣡रता वधे꣡न  
+वव्रिवां꣡सम् प꣡रि देवी꣡र् अ꣡देवम्  

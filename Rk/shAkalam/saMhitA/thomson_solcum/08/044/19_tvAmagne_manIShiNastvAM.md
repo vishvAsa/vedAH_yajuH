@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-tuvā́m agne manīṣíṇas  
-tuvā́ṃ hinvanti cíttibhiḥ  
-tuvā́ṃ vardhantu no gíraḥ  
+तुवा꣡म् अग्ने मनीषि꣡णस्  
+तुवां꣡ हिन्वन्ति चि꣡त्तिभिः  
+तुवां꣡ वर्धन्तु नो गि꣡रः  

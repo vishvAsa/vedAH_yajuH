@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vayáṃ te váya indra viddhí ṣú ṇaḥ  
-prá bharāmahe vājayúr ná rátham  
-vipanyávo dī́dhiyato manīṣā́  
-sumnám íyakṣantas tuvā́vato nr̥̄́n  
+वयं꣡ ते व꣡य इन्द्र विद्धि꣡ षु꣡ णः  
+प्र꣡ भरामहे वाजयु꣡र् न꣡ र꣡थम्  
+विपन्य꣡वो दी꣡धियतो मनीषा꣡  
+सुम्न꣡म् इ꣡यक्षन्तस् तुवा꣡वतो नॄ꣡न्  

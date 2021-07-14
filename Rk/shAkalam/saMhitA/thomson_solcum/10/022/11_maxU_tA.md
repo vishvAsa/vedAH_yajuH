@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-makṣū́ tā́ ta indara+ dānā́pnasa  
-ākṣāṇé śūra vajrivaḥ  
-yád dha śúṣṇasya dambháyo  
-jātáṃ víśvaṃ sayā́vabhiḥ  
+मक्षू꣡ ता꣡ त इन्दर+ दाना꣡प्नस  
+आक्षाणे꣡ शूर वज्रिवः  
+य꣡द् ध शु꣡ष्णस्य दम्भ꣡यो  
+जातं꣡ वि꣡श्वं सया꣡वभिः  

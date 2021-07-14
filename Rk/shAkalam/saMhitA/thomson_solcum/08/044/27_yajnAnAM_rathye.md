@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-yajñā́nāṃ rathíye vayáṃ  
-tigmájambhāya vīḷáve  
-stómair iṣema agnáye  
+यज्ञा꣡नां रथि꣡ये वयं꣡  
+तिग्म꣡जम्भाय वीऌअ꣡वे  
+स्तो꣡मैर् इषेम अग्न꣡ये  

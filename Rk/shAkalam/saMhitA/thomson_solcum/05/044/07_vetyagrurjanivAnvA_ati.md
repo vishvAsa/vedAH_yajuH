@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-véti ágrur jánivān vā́ áti spŕ̥dhaḥ  
-samaryatā́ mánasā sū́riyaḥ kavíḥ  
-ghraṃsáṃ rákṣantam pári viśváto gáyam  
-asmā́kaṃ śárma vanavat suā́vasuḥ  
+वे꣡ति अ꣡ग्रुर् ज꣡निवान् वा꣡ अ꣡ति स्प्ŕ̥धः  
+समर्यता꣡ म꣡नसा सू꣡रियः कविः꣡  
+घ्रंसं꣡ र꣡क्षन्तम् प꣡रि विश्व꣡तो ग꣡यम्  
+अस्मा꣡कं श꣡र्म वनवत् सुआ꣡वसुः  

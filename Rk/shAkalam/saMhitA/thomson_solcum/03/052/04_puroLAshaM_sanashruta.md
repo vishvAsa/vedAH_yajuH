@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-puroḷā́śaṃ sanaśruta  
-prātaḥsāvé juṣasva naḥ  
-índra krátur hí te br̥hán  
+पुरोऌआ꣡शं सनश्रुत  
+प्रातःसावे꣡ जुषस्व नः  
+इ꣡न्द्र क्र꣡तुर् हि꣡ ते बृह꣡न्  

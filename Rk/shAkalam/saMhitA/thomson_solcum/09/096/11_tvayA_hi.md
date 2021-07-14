@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-tváyā hí naḥ pitáraḥ soma pū́rve  
-kármāṇi cakrúḥ pavamāna dhī́rāḥ  
-vanvánn ávātaḥ paridhī́m̐r áporṇu  
-vīrébhir áśvair maghávā bhavā naḥ  
+त्व꣡या हि꣡ नः पित꣡रः सोम पू꣡र्वे  
+क꣡र्माणि चक्रुः꣡ पवमान धी꣡राः  
+वन्व꣡न्न् अ꣡वातः परिधीँ꣡र् अ꣡पोर्णु  
+वीरे꣡भिर् अ꣡श्वैर् मघ꣡वा भवा नः  

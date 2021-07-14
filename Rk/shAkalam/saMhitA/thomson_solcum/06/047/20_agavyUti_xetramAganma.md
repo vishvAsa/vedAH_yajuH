@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-agavyūtí kṣétram ā́ganma devā  
-urvī́ satī́ bhū́mir aṃhūraṇā́bhūt  
-bŕ̥haspate prá cikitsā gáviṣṭāv  
-itthā́ saté jaritrá indra pánthām  
+अगव्यूति꣡ क्षे꣡त्रम् आ꣡गन्म देवा  
+उर्वी꣡ सती꣡ भू꣡मिर् अंहूरणा꣡भूत्  
+ब्ŕ̥हस्पते प्र꣡ चिकित्सा ग꣡विष्टाव्  
+इत्था꣡ सते꣡ जरित्र꣡ इन्द्र प꣡न्थाम्  

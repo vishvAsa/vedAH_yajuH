@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-agnáye bráhma r̥bhávas tatakṣur  
-agním mahā́m avocāmā suvr̥ktím  
-ágne prā́va jaritā́raṃ yaviṣṭha  
-ágne máhi dráviṇam ā́ yajasva  
+अग्न꣡ये ब्र꣡ह्म ऋभ꣡वस् ततक्षुर्  
+अग्नि꣡म् महा꣡म् अवोचामा सुवृक्ति꣡म्  
+अ꣡ग्ने प्रा꣡व जरिता꣡रं यविष्ठ  
+अ꣡ग्ने म꣡हि द्र꣡विणम् आ꣡ यजस्व  

@@ -2,7 +2,7 @@
 title = "044"
 
 +++
-tráyaḥ keśína r̥tuthā́ ví cakṣate  
-saṃvatsaré vapata éka eṣām  
-víśvam éko abhí caṣṭe śácībhir  
-dhrā́jir ékasya dadr̥śe ná rūpám  
+त्र꣡यः केशि꣡न ऋतुथा꣡ वि꣡ चक्षते  
+संवत्सरे꣡ वपत ए꣡क एषाम्  
+वि꣡श्वम् ए꣡को अभि꣡ चष्टे श꣡चीभिर्  
+ध्रा꣡जिर् ए꣡कस्य ददृशे न꣡ रूप꣡म्  

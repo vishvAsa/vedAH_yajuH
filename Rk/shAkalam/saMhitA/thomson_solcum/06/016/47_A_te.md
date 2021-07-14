@@ -2,7 +2,7 @@
 title = "047"
 
 +++
-ā́ te agna r̥cā́ havír  
-hr̥dā́ taṣṭám bharāmasi  
-té te bhavantu ukṣáṇa  
-r̥ṣabhā́so vaśā́ utá  
+आ꣡ ते अग्न ऋचा꣡ हवि꣡र्  
+हृदा꣡ तष्ट꣡म् भरामसि  
+ते꣡ ते भवन्तु उक्ष꣡ण  
+ऋषभा꣡सो वशा꣡ उत꣡  

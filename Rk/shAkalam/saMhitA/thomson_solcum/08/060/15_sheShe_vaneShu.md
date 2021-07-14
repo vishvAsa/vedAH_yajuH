@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-śéṣe váneṣu mātaróḥ  
-sáṃ tvā mártāsa indhate  
-átandro havyā́ vahasi haviṣkŕ̥ta  
-ā́d íd devéṣu rājasi  
+शे꣡षे व꣡नेषु मातरोः꣡  
+सं꣡ त्वा म꣡र्तास इन्धते  
+अ꣡तन्द्रो हव्या꣡ वहसि हविष्क्ŕ̥त  
+आ꣡द् इ꣡द् देवे꣡षु राजसि  

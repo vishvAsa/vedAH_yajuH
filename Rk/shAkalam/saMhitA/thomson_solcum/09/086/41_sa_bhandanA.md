@@ -2,7 +2,7 @@
 title = "041"
 
 +++
-sá bhandánā úd iyarti prajā́vatīr  
-viśvā́yur víśvāḥ subhárā áhardivi  
-bráhma prajā́vad rayím áśvapastiyam  
-pītá indav índram asmábhya° yācatāt  
+स꣡ भन्द꣡ना उ꣡द् इयर्ति प्रजा꣡वतीर्  
+विश्वा꣡युर् वि꣡श्वाः सुभ꣡रा अ꣡हर्दिवि  
+ब्र꣡ह्म प्रजा꣡वद् रयि꣡म् अ꣡श्वपस्तियम्  
+पीत꣡ इन्दव् इ꣡न्द्रम् अस्म꣡भ्य° याचतात्  

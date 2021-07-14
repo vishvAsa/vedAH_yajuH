@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ádha śrutáṃ kaváṣaṃ vr̥ddhám apsú  
-ánu druhyúṃ ní vr̥ṇag vájrabāhuḥ  
-vr̥ṇānā́ átra sakhiyā́ya sakhyáṃ  
-tuvāyánto yé ámadann ánu tvā  
+अ꣡ध श्रुतं꣡ कव꣡षं वृद्ध꣡म् अप्सु꣡  
+अ꣡नु द्रुह्युं꣡ नि꣡ वृणग् व꣡ज्रबाहुः  
+वृणाना꣡ अ꣡त्र सखिया꣡य सख्यं꣡  
+तुवाय꣡न्तो ये꣡ अ꣡मदन्न् अ꣡नु त्वा  

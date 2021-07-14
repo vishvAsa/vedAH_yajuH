@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ásunvantaṃ samaṃ jahi  
-dūṇā́śaṃ yó ná te máyaḥ  
-asmábhyam asya védanaṃ  
-daddhí sūríś cid ohate  
+अ꣡सुन्वन्तं समं जहि  
+दूणा꣡शं यो꣡ न꣡ ते म꣡यः  
+अस्म꣡भ्यम् अस्य वे꣡दनं  
+दद्धि꣡ सूरि꣡श् चिद् ओहते  

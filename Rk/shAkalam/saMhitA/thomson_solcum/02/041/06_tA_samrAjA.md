@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-tā́ samrā́jā ghr̥tā́sutī  
-ādityā́ dā́nunas pátī  
-sácete ánavahvaram  
+ता꣡ सम्रा꣡जा घृता꣡सुती  
+आदित्या꣡ दा꣡नुनस् प꣡ती  
+स꣡चेते अ꣡नवह्वरम्  

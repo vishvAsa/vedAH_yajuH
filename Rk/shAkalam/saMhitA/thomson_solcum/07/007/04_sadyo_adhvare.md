@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sadyó adhvaré rathiráṃ jananta  
-mā́nuṣāso vícetaso yá eṣām  
-viśā́m adhāyi viśpátir duroṇé  
-agnír mandró mádhuvacā r̥tā́vā  
+सद्यो꣡ अध्वरे꣡ रथिरं꣡ जनन्त  
+मा꣡नुषासो वि꣡चेतसो य꣡ एषाम्  
+विशा꣡म् अधायि विश्प꣡तिर् दुरोणे꣡  
+अग्नि꣡र् मन्द्रो꣡ म꣡धुवचा ऋता꣡वा  

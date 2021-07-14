@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá pravoḷhr̥̄́n parigátyā dabhī́ter  
-víśvam adhāg ā́yudham iddhé agnaú  
-sáṃ góbhir áśvair asr̥jad ráthebhiḥ  
-sómasya tā́ máda índraś cakāra  
+स꣡ प्रवोऌहॄ꣡न् परिग꣡त्या दभी꣡तेर्  
+वि꣡श्वम् अधाग् आ꣡युधम् इद्धे꣡ अग्नउ꣡  
+सं꣡ गो꣡भिर् अ꣡श्वैर् असृजद् र꣡थेभिः  
+सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार  

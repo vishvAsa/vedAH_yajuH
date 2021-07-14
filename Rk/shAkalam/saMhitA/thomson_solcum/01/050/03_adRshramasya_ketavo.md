@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ádr̥śram asya ketávo  
-ví raśmáyo jánām̐ ánu  
-bhrā́janto agnáyo yathā  
+अ꣡दृश्रम् अस्य केत꣡वो  
+वि꣡ रश्म꣡यो ज꣡नाँ अ꣡नु  
+भ्रा꣡जन्तो अग्न꣡यो यथा  

@@ -2,5 +2,5 @@
 title = "004"
 
 +++
-etā́ni dhī́ro niṇyā́ ciketa  
-pŕ̥śnir yád ū́dho mahī́ jabhā́ra  
+एता꣡नि धी꣡रो निण्या꣡ चिकेत  
+प्ŕ̥श्निर् य꣡द् ऊ꣡धो मही꣡ जभा꣡र  

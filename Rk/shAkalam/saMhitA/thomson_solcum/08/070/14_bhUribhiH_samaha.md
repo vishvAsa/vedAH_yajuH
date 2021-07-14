@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-bhū́ribhiḥ samaha ŕ̥ṣibhir  
-barhíṣmadbhi staviṣyase  
-yád itthám ékam-ekam íc  
-chára vatsā́n parādádaḥ  
+भू꣡रिभिः समह ŕ̥षिभिर्  
+बर्हि꣡ष्मद्भि स्तविष्यसे  
+य꣡द् इत्थ꣡म् ए꣡कम्-एकम् इ꣡च्  
+छ꣡र वत्सा꣡न् पराद꣡दः  

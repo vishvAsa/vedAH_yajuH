@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-pūrvī́r índrasya rātáyo  
-ná ví dasyanti ūtáyaḥ  
-yádī vā́jasya gómata  
-stotŕ̥bhyo máṃhate maghám  
+पूर्वी꣡र् इ꣡न्द्रस्य रात꣡यो  
+न꣡ वि꣡ दस्यन्ति ऊत꣡यः  
+य꣡दी वा꣡जस्य गो꣡मत  
+स्तोत्ŕ̥भ्यो मं꣡हते मघ꣡म्  

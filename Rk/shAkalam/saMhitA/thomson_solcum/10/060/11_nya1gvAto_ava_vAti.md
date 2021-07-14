@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-níag vā́to áva vāti  
-níak tapati sū́riyaḥ  
-nīcī́nam aghniyā́ duhe  
-níag bhavatu te rápaḥ  
+नि꣡अग् वा꣡तो अ꣡व वाति  
+नि꣡अक् तपति सू꣡रियः  
+नीची꣡नम् अघ्निया꣡ दुहे  
+नि꣡अग् भवतु ते र꣡पः  

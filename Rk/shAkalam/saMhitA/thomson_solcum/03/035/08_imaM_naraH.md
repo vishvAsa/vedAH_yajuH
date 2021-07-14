@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-imáṃ náraḥ párvatās túbhyam ā́paḥ  
-sám indra góbhir mádhumantam akran  
-tásyāgátyā sumánā r̥ṣva pāhi  
-prajānán vidvā́n pathíyā ánu svā́ḥ  
+इमं꣡ न꣡रः प꣡र्वतास् तु꣡भ्यम् आ꣡पः  
+स꣡म् इन्द्र गो꣡भिर् म꣡धुमन्तम् अक्रन्  
+त꣡स्याग꣡त्या सुम꣡ना ऋष्व पाहि  
+प्रजान꣡न् विद्वा꣡न् पथि꣡या अ꣡नु स्वाः꣡  

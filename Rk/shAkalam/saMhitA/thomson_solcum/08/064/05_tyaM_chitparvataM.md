@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-tiyáṃ cit párvataṃ giríṃ  
-śatávantaṃ sahasríṇam  
-ví stotŕ̥bhyo rurojitha  
+तियं꣡ चित् प꣡र्वतं गिरिं꣡  
+शत꣡वन्तं सहस्रि꣡णम्  
+वि꣡ स्तोत्ŕ̥भ्यो रुरोजिथ  

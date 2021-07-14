@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yajñé divó nr̥ṣádane pr̥thivyā́  
-náro yátra devayávo mádanti  
-índrāya yátra sávanāni sunvé  
-gáman mádāya prathamáṃ váyaś ca  
+यज्ञे꣡ दिवो꣡ नृष꣡दने पृथिव्या꣡  
+न꣡रो य꣡त्र देवय꣡वो म꣡दन्ति  
+इ꣡न्द्राय य꣡त्र स꣡वनानि सुन्वे꣡  
+ग꣡मन् म꣡दाय प्रथमं꣡ व꣡यश् च  

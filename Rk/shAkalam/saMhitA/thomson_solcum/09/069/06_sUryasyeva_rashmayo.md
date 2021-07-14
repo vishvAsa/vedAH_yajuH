@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sū́ryasyeva raśmáyo drāvayitnávo  
-matsarā́saḥ prasúpaḥ sākám īrate  
-tántuṃ tatám pári sárgāsa āśávo  
-néndrād r̥té pavate dhā́ma kíṃ caná  
+सू꣡र्यस्येव रश्म꣡यो द्रावयित्न꣡वो  
+मत्सरा꣡सः प्रसु꣡पः साक꣡म् ईरते  
+त꣡न्तुं तत꣡म् प꣡रि स꣡र्गास आश꣡वो  
+ने꣡न्द्राद् ऋते꣡ पवते धा꣡म किं꣡ चन꣡  

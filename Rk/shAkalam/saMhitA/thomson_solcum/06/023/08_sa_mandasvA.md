@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sá mandasvā hí ánu jóṣam ugra  
-prá tvā yajñā́sa imé aśnuvantu  
-prémé hávāsaḥ puruhūtám asmé  
-ā́ tveyáṃ dhī́r ávasa indra yamyāḥ  
+स꣡ मन्दस्वा हि꣡ अ꣡नु जो꣡षम् उग्र  
+प्र꣡ त्वा यज्ञा꣡स इमे꣡ अश्नुवन्तु  
+प्रे꣡मे꣡ ह꣡वासः पुरुहूत꣡म् अस्मे꣡  
+आ꣡ त्वेयं꣡ धी꣡र् अ꣡वस इन्द्र यम्याः  

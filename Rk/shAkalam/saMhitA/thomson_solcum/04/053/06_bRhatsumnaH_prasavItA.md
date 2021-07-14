@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-br̥hátsumnaḥ prasavītā́ nivéśano  
-jágata sthātúr ubháyasya yó vaśī́  
-sá no deváḥ savitā́ śárma yachatu  
-asmé kṣáyāya trivárūtham áṃhasaḥ  
+बृह꣡त्सुम्नः प्रसवीता꣡ निवे꣡शनो  
+ज꣡गत स्थातु꣡र् उभ꣡यस्य यो꣡ वशी꣡  
+स꣡ नो देवः꣡ सविता꣡ श꣡र्म यछतु  
+अस्मे꣡ क्ष꣡याय त्रिव꣡रूथम् अं꣡हसः  

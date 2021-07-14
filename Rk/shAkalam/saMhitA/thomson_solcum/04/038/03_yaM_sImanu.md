@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yáṃ sīm ánu praváteva drávantaṃ  
-víśvaḥ pūrúr mádati hárṣamāṇaḥ  
-paḍbhír gŕ̥dhyantam medhayúṃ ná śū́raṃ  
-rathatúraṃ vā́tam iva dhrájantam  
+यं꣡ सीम् अ꣡नु प्रव꣡तेव द्र꣡वन्तं  
+वि꣡श्वः पूरु꣡र् म꣡दति ह꣡र्षमाणः  
+पड्भि꣡र् ग्ŕ̥ध्यन्तम् मेधयुं꣡ न꣡ शू꣡रं  
+रथतु꣡रं वा꣡तम् इव ध्र꣡जन्तम्  

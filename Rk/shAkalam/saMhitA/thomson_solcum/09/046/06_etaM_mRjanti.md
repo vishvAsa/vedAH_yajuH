@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-etám mr̥janti márjiyam  
-pávamānaṃ dáśa kṣípaḥ  
-índrāya matsarám mádam  
+एत꣡म् मृजन्ति म꣡र्जियम्  
+प꣡वमानं द꣡श क्षि꣡पः  
+इ꣡न्द्राय मत्सर꣡म् म꣡दम्  

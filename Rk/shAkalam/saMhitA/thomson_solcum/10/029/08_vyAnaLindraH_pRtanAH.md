@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ví ānaḷ índraḥ pŕ̥tanāḥ suójā  
-ā́smai yatante sakhiyā́ya pūrvī́ḥ  
-ā́ smā ráthaṃ ná pŕ̥tanāsu tiṣṭha  
-yám bhadráyā sumatī́° codáyāse  
+वि꣡ आनऌ इ꣡न्द्रः प्ŕ̥तनाः सुओ꣡जा  
+आ꣡स्मै यतन्ते सखिया꣡य पूर्वीः꣡  
+आ꣡ स्मा र꣡थं न꣡ प्ŕ̥तनासु तिष्ठ  
+य꣡म् भद्र꣡या सुमती꣡° चोद꣡यासे  

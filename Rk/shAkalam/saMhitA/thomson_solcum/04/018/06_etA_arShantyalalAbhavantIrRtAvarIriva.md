@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-etā́ arṣanti alalābhávantīr  
-r̥tā́varīr iva saṃkróśamānāḥ  
-etā́ ví pr̥cha kím idám bhananti  
-kám ā́po ádrim paridhíṃ rujanti  
+एता꣡ अर्षन्ति अललाभ꣡वन्तीर्  
+ऋता꣡वरीर् इव संक्रो꣡शमानाः  
+एता꣡ वि꣡ पृछ कि꣡म् इद꣡म् भनन्ति  
+क꣡म् आ꣡पो अ꣡द्रिम् परिधिं꣡ रुजन्ति  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-purukútsānī hí vãm ádāśad  
-dhavyébhir indrāvaruṇā námobhiḥ  
-áthā rā́jānaṃ trasádasyum asyā  
-vr̥traháṇaṃ dadathur ardhadevám  
+पुरुकु꣡त्सानी हि꣡ व्ãम् अ꣡दाशद्  
+धव्ये꣡भिर् इन्द्रावरुणा न꣡मोभिः  
+अ꣡था रा꣡जानं त्रस꣡दस्युम् अस्या  
+वृत्रह꣡णं ददथुर् अर्धदेव꣡म्  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-utá gnā́ agnír adhvará  
-utó gr̥hápatir dáme  
-utá brahmā́ ní ṣīdati  
+उत꣡ ग्ना꣡ अग्नि꣡र् अध्वर꣡  
+उतो꣡ गृह꣡पतिर् द꣡मे  
+उत꣡ ब्रह्मा꣡ नि꣡ षीदति  

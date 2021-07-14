@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-sómā asr̥gram índavaḥ  
-sutā́ r̥tásya sā́dane  
-índrāya mádhumattamāḥ  
+सो꣡मा असृग्रम् इ꣡न्दवः  
+सुता꣡ ऋत꣡स्य सा꣡दने  
+इ꣡न्द्राय म꣡धुमत्तमाः  

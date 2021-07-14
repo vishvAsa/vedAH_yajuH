@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-prá vo grāvāṇaḥ savitā́  
-deváḥ suvatu dhármaṇā  
-dhūrṣú yujyadhvaṃ sunutá  
+प्र꣡ वो ग्रावाणः सविता꣡  
+देवः꣡ सुवतु ध꣡र्मणा  
+धूर्षु꣡ युज्यध्वं सुनुत꣡  

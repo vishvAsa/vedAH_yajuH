@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-prá vāṃ dáṃsāṃsi aśvināv avocam  
-asyá pátiḥ syāṃ sugávaḥ suvī́raḥ  
-utá páśyann aśnuván dīrghám ā́yur  
-ástam ivéj jarimā́ṇaṃ jagamyām  
+प्र꣡ वां दं꣡सांसि अश्विनाव् अवोचम्  
+अस्य꣡ प꣡तिः स्यां सुग꣡वः सुवी꣡रः  
+उत꣡ प꣡श्यन्न् अश्नुव꣡न् दीर्घ꣡म् आ꣡युर्  
+अ꣡स्तम् इवे꣡ज् जरिमा꣡णं जगम्याम्  

@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-dadī́ rékaṇas tanúve dadír vásu  
-dadír vā́jeṣu puruhūta vājínam  
-nūnám átha  
+ददी꣡ रे꣡कणस् तनु꣡वे ददि꣡र् व꣡सु  
+ददि꣡र् वा꣡जेषु पुरुहूत वाजि꣡नम्  
+नून꣡म् अ꣡थ  

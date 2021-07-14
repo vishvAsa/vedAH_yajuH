@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ánu tán no jã́spátir maṃsīṣṭa  
-rátnaṃ devásya savitúr iyānáḥ  
-bhágam ugró ávase jóhavīti  
-bhágam ánugro ádha yāti rátnam  
+अ꣡नु त꣡न् नो ज्ã꣡स्प꣡तिर् मंसीष्ट  
+र꣡त्नं देव꣡स्य सवितु꣡र् इयानः꣡  
+भ꣡गम् उग्रो꣡ अ꣡वसे जो꣡हवीति  
+भ꣡गम् अ꣡नुग्रो अ꣡ध याति र꣡त्नम्  

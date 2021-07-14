@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-té ghéd agne suādhíyo  
-yé tvā vipra nidadhiré nr̥cákṣasam  
-víprāso deva sukrátum  
+ते꣡ घे꣡द् अग्ने सुआधि꣡यो  
+ये꣡ त्वा विप्र निदधिरे꣡ नृच꣡क्षसम्  
+वि꣡प्रासो देव सुक्र꣡तुम्  

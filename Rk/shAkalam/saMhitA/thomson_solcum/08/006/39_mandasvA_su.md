@@ -2,6 +2,6 @@
 title = "039"
 
 +++
-mándasvā sú súvarṇara  
-uténdra śaryaṇā́vati  
-mátsvā vívasvato matī́  
+म꣡न्दस्वा सु꣡ सु꣡वर्णर  
+उते꣡न्द्र शर्यणा꣡वति  
+म꣡त्स्वा वि꣡वस्वतो मती꣡  

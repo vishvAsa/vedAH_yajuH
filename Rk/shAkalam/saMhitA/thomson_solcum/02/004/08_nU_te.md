@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-nū́ te pū́rvasya ávaso ádhītau  
-tr̥tī́ye · vidáthe mánma śaṃsi  
-asmé agne saṃyádvīram br̥hántaṃ  
-kṣumántaṃ vā́jaṃ suapatyáṃ rayíṃ dāḥ  
+नू꣡ ते पू꣡र्वस्य अ꣡वसो अ꣡धीतौ  
+तृती꣡ये · विद꣡थे म꣡न्म शंसि  
+अस्मे꣡ अग्ने संय꣡द्वीरम् बृह꣡न्तं  
+क्षुम꣡न्तं वा꣡जं सुअपत्यं꣡ रयिं꣡ दाः  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-nā́pābhūta ná vo atītr̥ṣāma  
-ániḥśastā r̥bhavo yajñé asmín  
-sám índreṇa mádatha sám marúdbhiḥ  
-sáṃ rā́jabhī ratnadhéyāya devāḥ  
+ना꣡पाभूत न꣡ वो अतीतृषाम  
+अ꣡निःशस्ता ऋभवो यज्ञे꣡ अस्मि꣡न्  
+स꣡म् इ꣡न्द्रेण म꣡दथ स꣡म् मरु꣡द्भिः  
+सं꣡ रा꣡जभी रत्नधे꣡याय देवाः  

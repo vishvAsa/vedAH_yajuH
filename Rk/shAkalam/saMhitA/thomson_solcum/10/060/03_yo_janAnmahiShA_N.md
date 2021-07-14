@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-yó jánān mahiṣā́m̐ iva  
-atitasthaú pávīravān  
-utā́pavīravān yudhā́  
+यो꣡ ज꣡नान् महिषाँ꣡ इव  
+अतितस्थउ꣡ प꣡वीरवान्  
+उता꣡पवीरवान् युधा꣡  

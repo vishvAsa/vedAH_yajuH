@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-juṣéthāṃ yajñám bódhataṃ hávasya me  
-víśvehá devau sávanā́va gachatam  
-sajóṣasā uṣásā sū́riyeṇa ca  
-íṣaṃ no voḷham aśvinā  
+जुषे꣡थां यज्ञ꣡म् बो꣡धतं ह꣡वस्य मे  
+वि꣡श्वेह꣡ देवौ स꣡वना꣡व गछतम्  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+इ꣡षं नो वोऌहम् अश्विना  

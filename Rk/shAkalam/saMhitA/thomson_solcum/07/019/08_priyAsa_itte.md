@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-priyā́sa ít te maghavann abhíṣṭau  
-náro madema śaraṇé sákhāyaḥ  
-ní turváśaṃ ní yā́duvaṃ śiśīhi  
-atithigvā́ya śáṃsiyaṃ kariṣyán  
+प्रिया꣡स इ꣡त् ते मघवन्न् अभि꣡ष्टौ  
+न꣡रो मदेम शरणे꣡ स꣡खायः  
+नि꣡ तुर्व꣡शं नि꣡ या꣡दुवं शिशीहि  
+अतिथिग्वा꣡य शं꣡सियं करिष्य꣡न्  

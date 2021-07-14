@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-práti tvā śavasī́ vadad  
-girā́v ápso ná yodhiṣat  
-yás te śatrutvám ācaké  
+प्र꣡ति त्वा शवसी꣡ वदद्  
+गिरा꣡व् अ꣡प्सो न꣡ योधिषत्  
+य꣡स् ते शत्रुत्व꣡म् आचके꣡  

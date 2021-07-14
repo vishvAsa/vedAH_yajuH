@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-yájiṣṭhaṃ tvā vavr̥mahe  
-deváṃ devatrā́ hótāram ámartiyam  
-asyá yajñásya sukrátum  
+य꣡जिष्ठं त्वा ववृमहे  
+देवं꣡ देवत्रा꣡ हो꣡तारम् अ꣡मर्तियम्  
+अस्य꣡ यज्ञ꣡स्य सुक्र꣡तुम्  

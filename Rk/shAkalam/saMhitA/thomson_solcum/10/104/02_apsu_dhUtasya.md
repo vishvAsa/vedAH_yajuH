@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-apsú dhūtásya harivaḥ píbehá  
-nŕ̥bhiḥ sutásya jaṭháram pr̥ṇasva  
-mimikṣúr yám ádraya indra túbhyaṃ  
-tébhir vardhasva mádam ukthavāhaḥ  
+अप्सु꣡ धूत꣡स्य हरिवः पि꣡बेह꣡  
+न्ŕ̥भिः सुत꣡स्य जठ꣡रम् पृणस्व  
+मिमिक्षु꣡र् य꣡म् अ꣡द्रय इन्द्र तु꣡भ्यं  
+ते꣡भिर् वर्धस्व म꣡दम् उक्थवाहः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-úpa kṣaranti síndhavo mayobhúva  
-ījānáṃ ca yakṣyámāṇaṃ ca dhenávaḥ  
-pr̥ṇántaṃ ca pápuriṃ ca śravasyávo  
-ghr̥tásya dhā́rā úpa yanti viśvátaḥ  
+उ꣡प क्षरन्ति सि꣡न्धवो मयोभु꣡व  
+ईजानं꣡ च यक्ष्य꣡माणं च धेन꣡वः  
+पृण꣡न्तं च प꣡पुरिं च श्रवस्य꣡वो  
+घृत꣡स्य धा꣡रा उ꣡प यन्ति विश्व꣡तः  

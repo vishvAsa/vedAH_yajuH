@@ -2,8 +2,8 @@
 title = "012"
 
 +++
-satyám íd vā́ u táṃ vayám  
-índraṃ stavāma nā́nr̥tam  
-mahā́m̐ ásunvato vadhó  
-bhū́ri jyótīṃṣi sunvató  
-bhadrā́ índrasya rātáyaḥ  
+सत्य꣡म् इ꣡द् वा꣡ उ तं꣡ वय꣡म्  
+इ꣡न्द्रं स्तवाम ना꣡नृतम्  
+महाँ꣡ अ꣡सुन्वतो वधो꣡  
+भू꣡रि ज्यो꣡तींषि सुन्वतो꣡  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  

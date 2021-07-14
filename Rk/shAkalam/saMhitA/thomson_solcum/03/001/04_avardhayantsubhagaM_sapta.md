@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ávardhayan subhágaṃ saptá yahvī́ḥ  
-śvetáṃ jajñānám aruṣám mahitvā́  
-śíśuṃ ná jātám abhí ārur áśvā  
-devā́so agníṃ jániman vapuṣyan  
+अ꣡वर्धयन् सुभ꣡गं सप्त꣡ यह्वीः꣡  
+श्वेतं꣡ जज्ञान꣡म् अरुष꣡म् महित्वा꣡  
+शि꣡शुं न꣡ जात꣡म् अभि꣡ आरुर् अ꣡श्वा  
+देवा꣡सो अग्निं꣡ ज꣡निमन् वपुष्यन्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ na stómam úpa dravád  
-dhyānó° áśvo ná sótr̥bhiḥ  
-yáṃ te svadhāvan svadáyanti dhenáva  
-índra káṇveṣu rātáyaḥ  
+आ꣡ न स्तो꣡मम् उ꣡प द्रव꣡द्  
+ध्यानो꣡° अ꣡श्वो न꣡ सो꣡तृभिः  
+यं꣡ ते स्वधावन् स्वद꣡यन्ति धेन꣡व  
+इ꣡न्द्र क꣡ण्वेषु रात꣡यः  

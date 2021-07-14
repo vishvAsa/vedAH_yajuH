@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-mámac caná tvā yuvatíḥ parā́sa  
-mámac caná tvā kuṣávā jagā́ra  
-mámac cid ā́paḥ śíśave mamr̥ḍyur  
-mámac cid índraḥ sáhasód atiṣṭhat  
+म꣡मच् चन꣡ त्वा युवतिः꣡ परा꣡स  
+म꣡मच् चन꣡ त्वा कुष꣡वा जगा꣡र  
+म꣡मच् चिद् आ꣡पः शि꣡शवे ममृड्युर्  
+म꣡मच् चिद् इ꣡न्द्रः स꣡हसो꣡द् अतिष्ठत्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́d asya té dhvasáyanto vŕ̥therate  
-kr̥ṣṇám ábhvam máhi várpaḥ kárikrataḥ  
-yát sīm mahī́m avánim prā́bhí mármr̥śad  
-abhiśvasán stanáyann éti nā́nadat  
+आ꣡द् अस्य ते꣡ ध्वस꣡यन्तो व्ŕ̥थेरते  
+कृष्ण꣡म् अ꣡भ्वम् म꣡हि व꣡र्पः क꣡रिक्रतः  
+य꣡त् सीम् मही꣡म् अव꣡निम् प्रा꣡भि꣡ म꣡र्मृशद्  
+अभिश्वस꣡न् स्तन꣡यन्न् ए꣡ति ना꣡नदत्  

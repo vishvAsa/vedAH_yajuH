@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tváṣṭā yád vájraṃ súkr̥taṃ hiraṇyáyaṃ  
-sahásrabhr̥ṣṭiṃ suápā ávartayat  
-dhattá índro nári ápāṃsi kártave  
-áhan vr̥tráṃ nír apā́m aubjad arṇavám  
+त्व꣡ष्टा य꣡द् व꣡ज्रं सु꣡कृतं हिरण्य꣡यं  
+सह꣡स्रभृष्टिं सुअ꣡पा अ꣡वर्तयत्  
+धत्त꣡ इ꣡न्द्रो न꣡रि अ꣡पांसि क꣡र्तवे  
+अ꣡हन् वृत्रं꣡ नि꣡र् अपा꣡म् औब्जद् अर्णव꣡म्  

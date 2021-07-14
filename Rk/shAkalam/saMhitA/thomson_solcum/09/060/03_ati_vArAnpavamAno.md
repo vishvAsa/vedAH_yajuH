@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-áti vā́rān pávamāno asiṣyadat  
-kaláśām̐ abhí dhāvati  
-índrasya hā́rdi āviśán  
+अ꣡ति वा꣡रान् प꣡वमानो असिष्यदत्  
+कल꣡शाँ अभि꣡ धावति  
+इ꣡न्द्रस्य हा꣡र्दि आविश꣡न्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kadā́ bhuvan ráthakṣayāṇi bráhma  
-kadā́ stotré sahasrapoṣíyaṃ dāḥ  
-kadā́ stómaṃ vāsayo asya rāyā́  
-kadā́ dhíyaḥ karasi vā́jaratnāḥ  
+कदा꣡ भुवन् र꣡थक्षयाणि ब्र꣡ह्म  
+कदा꣡ स्तोत्रे꣡ सहस्रपोषि꣡यं दाः  
+कदा꣡ स्तो꣡मं वासयो अस्य राया꣡  
+कदा꣡ धि꣡यः करसि वा꣡जरत्नाः  

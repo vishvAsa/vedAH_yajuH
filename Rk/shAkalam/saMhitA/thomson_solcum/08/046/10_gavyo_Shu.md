@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-gavyó ṣú ṇo yáthā purā́  
-aśvayā́ utá rathayā́  
-varivasyá mahāmaha  
+गव्यो꣡ षु꣡ णो य꣡था पुरा꣡  
+अश्वया꣡ उत꣡ रथया꣡  
+वरिवस्य꣡ महामह  

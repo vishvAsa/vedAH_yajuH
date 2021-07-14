@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-krátvaḥ samaha dīnátā  
-pratīpáṃ jagamā śuce  
-mr̥̄ḷā́+ sukṣatra mr̥̄ḷáya  
+क्र꣡त्वः समह दीन꣡ता  
+प्रतीपं꣡ जगमा शुचे  
+मॄऌआ꣡+ सुक्षत्र मॄऌअ꣡य  

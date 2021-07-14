@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tā́ mandasānā́ mánuṣo duroṇá ā́  
-dhattáṃ rayíṃ sahávīraṃ vacasyáve  
-kr̥táṃ tīrtháṃ suprapāṇáṃ śubhas patī  
-sthāṇúm patheṣṭhā́m ápa durmatíṃ hatam  
+ता꣡ मन्दसाना꣡ म꣡नुषो दुरोण꣡ आ꣡  
+धत्तं꣡ रयिं꣡ सह꣡वीरं वचस्य꣡वे  
+कृतं꣡ तीर्थं꣡ सुप्रपाणं꣡ शुभस् पती  
+स्थाणु꣡म् पथेष्ठा꣡म् अ꣡प दुर्मतिं꣡ हतम्  

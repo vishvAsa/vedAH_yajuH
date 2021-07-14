@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-subhāgā́n no devāḥ kr̥ṇutā surátnān  
-asmā́n stotr̥̄́n maruto vāvr̥dhānā́ḥ  
-ádhi stotrásya sakhiyásya gāta  
-sanā́d dhí vo ratnadhéyāni sánti  
+सुभागा꣡न् नो देवाः कृणुता सुर꣡त्नान्  
+अस्मा꣡न् स्तोतॄ꣡न् मरुतो वावृधानाः꣡  
+अ꣡धि स्तोत्र꣡स्य सखिय꣡स्य गात  
+सना꣡द् धि꣡ वो रत्नधे꣡यानि स꣡न्ति  

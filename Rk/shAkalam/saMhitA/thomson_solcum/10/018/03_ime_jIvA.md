@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-imé jīvā́ ví mr̥taír ā́vavr̥trann  
-ábhūd bhadrā́ deváhūtir no adyá  
-prā́ñco agāma nr̥táye hásāya  
-drā́ghīya ā́yuḥ prataráṃ dádhānāḥ  
+इमे꣡ जीवा꣡ वि꣡ मृतइ꣡र् आ꣡ववृत्रन्न्  
+अ꣡भूद् भद्रा꣡ देव꣡हूतिर् नो अद्य꣡  
+प्रा꣡ञ्चो अगाम नृत꣡ये ह꣡साय  
+द्रा꣡घीय आ꣡युः प्रतरं꣡ द꣡धानाः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yuváṃ hí ṣmā purubhujemám edhatúṃ  
-viṣṇāpúve dadáthur vásyaïṣṭaye  
-tā́ vāṃ víśvako havate tanūkr̥thé  
-mā́ no ví yauṣṭaṃ sakhiyā́ mumócatam  
+युवं꣡ हि꣡ ष्मा पुरुभुजेम꣡म् एधतुं꣡  
+विष्णापु꣡वे दद꣡थुर् व꣡स्यïष्टये  
+ता꣡ वां वि꣡श्वको हवते तनूकृथे꣡  
+मा꣡ नो वि꣡ यौष्टं सखिया꣡ मुमो꣡चतम्  

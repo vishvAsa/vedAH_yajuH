@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-akarmā́ dásyur abhí no amantúr  
-anyávrato ámānuṣaḥ  
-tuváṃ tásya amitrahan  
-vádhar dāsásya dambhaya  
+अकर्मा꣡ द꣡स्युर् अभि꣡ नो अमन्तु꣡र्  
+अन्य꣡व्रतो अ꣡मानुषः  
+तुवं꣡ त꣡स्य अमित्रहन्  
+व꣡धर् दास꣡स्य दम्भय  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-imáṃ jīvébhyaḥ paridhíṃ dadhāmi  
-maíṣāṃ nú gād áparo ártham etám  
-śatáṃ jīvantu śarádaḥ purūcī́r  
-antár mr̥tyúṃ dadhatām párvatena  
+इमं꣡ जीवे꣡भ्यः परिधिं꣡ दधामि  
+मइ꣡षां नु꣡ गाद् अ꣡परो अ꣡र्थम् एत꣡म्  
+शतं꣡ जीवन्तु शर꣡दः पुरूची꣡र्  
+अन्त꣡र् मृत्युं꣡ दधताम् प꣡र्वतेन  

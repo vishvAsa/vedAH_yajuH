@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-práty agne hárasā háraḥ  
-śr̥ṇīhí viśvátaḥ práti  
-yātudhā́nasya rakṣáso  
-bálaṃ ví ruja vīríyam  
+प्र꣡त्य् अग्ने ह꣡रसा ह꣡रः  
+शृणीहि꣡ विश्व꣡तः प्र꣡ति  
+यातुधा꣡नस्य रक्ष꣡सो  
+ब꣡लं वि꣡ रुज वीरि꣡यम्  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-mahā́m̐ índro yá ójasā  
-parjányo vr̥ṣṭimā́m̐ iva  
-stómair vatsásya vāvr̥dhe  
+महाँ꣡ इ꣡न्द्रो य꣡ ओ꣡जसा  
+पर्ज꣡न्यो वृष्टिमाँ꣡ इव  
+स्तो꣡मैर् वत्स꣡स्य वावृधे  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-táṃ nemím r̥bhávo yathā  
-ā́ namasva sáhūtibhiḥ  
-nédīyo yajñám aṅgiraḥ  
+तं꣡ नेमि꣡म् ऋभ꣡वो यथा  
+आ꣡ नमस्व स꣡हूतिभिः  
+ने꣡दीयो यज्ञ꣡म् अङ्गिरः  

@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-sá tváṃ na ūrjãm pate  
-rayíṃ rāsva suvī́riyam  
-prā́va nas toké tánaye samátsu ā́  
+स꣡ त्वं꣡ न ऊर्ज्ãम् पते  
+रयिं꣡ रास्व सुवी꣡रियम्  
+प्रा꣡व नस् तोके꣡ त꣡नये सम꣡त्सु आ꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tā́ yodhiṣṭam abhí gā́ indra nūnám  
-apáḥ súvar uṣáso agna ūḷhā́ḥ  
-díśaḥ súvar uṣása indra citrā́  
-apó gā́ agne yuvase niyútvān  
+ता꣡ योधिष्टम् अभि꣡ गा꣡ इन्द्र नून꣡म्  
+अपः꣡ सु꣡वर् उष꣡सो अग्न ऊऌहाः꣡  
+दि꣡शः सु꣡वर् उष꣡स इन्द्र चित्रा꣡  
+अपो꣡ गा꣡ अग्ने युवसे नियु꣡त्वान्  

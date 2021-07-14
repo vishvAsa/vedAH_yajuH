@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-mā́ cid anyád ví śaṃsata  
-sákhāyo mā́ riṣaṇyata  
-índram ít stotā vŕ̥ṣaṇaṃ sácā suté  
-múhur ukthā́ ca śaṃsata  
+मा꣡ चिद् अन्य꣡द् वि꣡ शंसत  
+स꣡खायो मा꣡ रिषण्यत  
+इ꣡न्द्रम् इ꣡त् स्तोता व्ŕ̥षणं स꣡चा सुते꣡  
+मु꣡हुर् उक्था꣡ च शंसत  

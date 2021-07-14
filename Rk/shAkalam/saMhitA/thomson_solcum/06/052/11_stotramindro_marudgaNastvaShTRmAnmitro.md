@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-stotrám índro marúdgaṇas  
-tváṣṭr̥mān mitró aryamā́  
-imā́ havyā́ juṣanta naḥ  
+स्तोत्र꣡म् इ꣡न्द्रो मरु꣡द्गणस्  
+त्व꣡ष्टृमान् मित्रो꣡ अर्यमा꣡  
+इमा꣡ हव्या꣡ जुषन्त नः  

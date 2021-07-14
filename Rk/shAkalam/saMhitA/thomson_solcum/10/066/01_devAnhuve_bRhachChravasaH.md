@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-devā́n huve br̥hácchravasaḥ suastáye  
-jyotiṣkŕ̥to adhvarásya prácetasaḥ  
-yé vāvr̥dhúḥ prataráṃ viśvávedasa  
-índrajyeṣṭhāso amŕ̥tā r̥tāvŕ̥dhaḥ  
+देवा꣡न् हुवे बृह꣡च्छ्रवसः सुअस्त꣡ये  
+ज्योतिष्क्ŕ̥तो अध्वर꣡स्य प्र꣡चेतसः  
+ये꣡ वावृधुः꣡ प्रतरं꣡ विश्व꣡वेदस  
+इ꣡न्द्रज्येष्ठासो अम्ŕ̥ता ऋताव्ŕ̥धः  

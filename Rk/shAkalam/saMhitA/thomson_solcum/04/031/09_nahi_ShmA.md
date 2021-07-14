@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-nahí ṣmā te śatáṃ caná  
-rā́dho váranta āmúraḥ  
-ná cyautnā́ni kariṣyatáḥ  
+नहि꣡ ष्मा ते शतं꣡ चन꣡  
+रा꣡धो व꣡रन्त आमु꣡रः  
+न꣡ च्यौत्ना꣡नि करिष्यतः꣡  

@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-taráṇir ít siṣāsati  
-vā́jam púraṃdhiyā yujā́  
-ā́ va índram puruhūtáṃ name girā́  
-nemíṃ táṣṭeva sudrúvam  
+तर꣡णिर् इ꣡त् सिषासति  
+वा꣡जम् पु꣡रंधिया युजा꣡  
+आ꣡ व इ꣡न्द्रम् पुरुहूतं꣡ नमे गिरा꣡  
+नेमिं꣡ त꣡ष्टेव सुद्रु꣡वम्  

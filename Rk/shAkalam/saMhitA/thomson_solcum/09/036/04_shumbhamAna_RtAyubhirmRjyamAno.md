@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-śumbhámāna r̥tāyúbhir  
-mr̥jyámāno gábhastiyoḥ  
-pávate vā́re avyáye  
+शुम्भ꣡मान ऋतायु꣡भिर्  
+मृज्य꣡मानो ग꣡भस्तियोः  
+प꣡वते वा꣡रे अव्य꣡ये  

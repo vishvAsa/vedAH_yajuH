@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ní no hótā váreṇiyaḥ  
-sádā yaviṣṭha mánmabhiḥ  
-ágne divítmatā vácaḥ  
+नि꣡ नो हो꣡ता व꣡रेणियः  
+स꣡दा यविष्ठ म꣡न्मभिः  
+अ꣡ग्ने दिवि꣡त्मता व꣡चः  

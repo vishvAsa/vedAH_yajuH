@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-té kṣoṇī́bhir aruṇébhir ná añjíbhī  
-rudrā́ r̥tásya sádaneṣu vāvr̥dhuḥ  
-niméghamānā átiyena pā́jasā  
-suścandráṃ várṇaṃ dadhire supéśasam  
+ते꣡ क्षोणी꣡भिर् अरुणे꣡भिर् न꣡ अञ्जि꣡भी  
+रुद्रा꣡ ऋत꣡स्य स꣡दनेषु वावृधुः  
+निमे꣡घमाना अ꣡तियेन पा꣡जसा  
+सुश्चन्द्रं꣡ व꣡र्णं दधिरे सुपे꣡शसम्  

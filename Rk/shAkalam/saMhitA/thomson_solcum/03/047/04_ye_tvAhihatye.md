@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yé tvāhihátye maghavann ávardhan  
-yé śāmbaré harivo yé gáviṣṭau  
-yé tvā nūnám anumádanti víprāḥ  
-píbendra sómaṃ ságaṇo marúdbhiḥ  
+ये꣡ त्वाहिह꣡त्ये मघवन्न् अ꣡वर्धन्  
+ये꣡ शाम्बरे꣡ हरिवो ये꣡ ग꣡विष्टौ  
+ये꣡ त्वा नून꣡म् अनुम꣡दन्ति वि꣡प्राः  
+पि꣡बेन्द्र सो꣡मं स꣡गणो मरु꣡द्भिः  

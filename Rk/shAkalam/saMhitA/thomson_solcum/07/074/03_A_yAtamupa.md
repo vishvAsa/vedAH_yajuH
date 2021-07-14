@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ yātam úpa bhūṣatam  
-mádhvaḥ pibatam aśvinā  
-dugdhám páyo vr̥ṣaṇā jeniyāvasū  
-mā́ no mardhiṣṭam ā́ gatam  
+आ꣡ यातम् उ꣡प भूषतम्  
+म꣡ध्वः पिबतम् अश्विना  
+दुग्ध꣡म् प꣡यो वृषणा जेनियावसू  
+मा꣡ नो मर्धिष्टम् आ꣡ गतम्  

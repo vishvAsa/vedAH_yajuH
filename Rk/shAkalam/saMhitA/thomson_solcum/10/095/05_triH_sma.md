@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tríḥ sma mā́hnaḥ śnathayo vaitaséna  
-utá sma me áviyatyai pr̥ṇāsi  
-púrūravo ánu te kétam āyaṃ  
-rā́jā me vīra tanúvas tád āsīḥ  
+त्रिः꣡ स्म मा꣡ह्नः श्नथयो वैतसे꣡न  
+उत꣡ स्म मे अ꣡वियत्यै पृणासि  
+पु꣡रूरवो अ꣡नु ते के꣡तम् आयं  
+रा꣡जा मे वीर तनु꣡वस् त꣡द् आसीः  

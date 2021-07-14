@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ásat sú me jaritaḥ sā́bhivegó  
-yát sunvaté yájamānāya śíkṣam  
-ánāśīrdām ahám asmi prahantā́  
-satyadhvŕ̥taṃ vr̥jināyántam ābhúm  
+अ꣡सत् सु꣡ मे जरितः सा꣡भिवेगो꣡  
+य꣡त् सुन्वते꣡ य꣡जमानाय शि꣡क्षम्  
+अ꣡नाशीर्दाम् अह꣡म् अस्मि प्रहन्ता꣡  
+सत्यध्व्ŕ̥तं वृजिनाय꣡न्तम् आभु꣡म्  

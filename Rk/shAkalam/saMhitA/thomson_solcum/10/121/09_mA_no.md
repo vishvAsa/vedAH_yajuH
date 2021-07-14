@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-mā́ no hiṃsīj janitā́ yáḥ pr̥thivyā́  
-yó vā dívaṃ satyádharmā jajā́na  
-yáś cāpáś candrā́ br̥hatī́r jajā́na  
-kásmai devā́ya havíṣā vidhema  
+मा꣡ नो हिंसीज् जनिता꣡ यः꣡ पृथिव्या꣡  
+यो꣡ वा दि꣡वं सत्य꣡धर्मा जजा꣡न  
+य꣡श् चाप꣡श् चन्द्रा꣡ बृहती꣡र् जजा꣡न  
+क꣡स्मै देवा꣡य हवि꣡षा विधेम  

@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-suṣupvā́ṃsa r̥bhavas tád apr̥chata  
-ágohiya ká idáṃ no abūbudhat  
-śvā́nam bastó bodhayitā́ram abravīt  
-saṃvatsará idám adyā́ ví akhyata  
+सुषुप्वां꣡स ऋभवस् त꣡द् अपृछत  
+अ꣡गोहिय क꣡ इदं꣡ नो अबूबुधत्  
+श्वा꣡नम् बस्तो꣡ बोधयिता꣡रम् अब्रवीत्  
+संवत्सर꣡ इद꣡म् अद्या꣡ वि꣡ अख्यत  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-asmā́ u te máhi mahé vidhema  
-námobhir agne samídhotá havyaíḥ  
-védī sūno sahaso gīrbhír ukthaír  
-ā́ te bhadrā́yāṃ sumataú yatema  
+अस्मा꣡ उ ते म꣡हि महे꣡ विधेम  
+न꣡मोभिर् अग्ने समि꣡धोत꣡ हव्यइः꣡  
+वे꣡दी सूनो सहसो गीर्भि꣡र् उक्थइ꣡र्  
+आ꣡ ते भद्रा꣡यां सुमतउ꣡ यतेम  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ásāvi sómo aruṣó vŕ̥ṣā hárī  
-rā́jeva dasmó abhí gā́ acikradat  
-punānó vā́ram pári eti avyáyaṃ  
-śyenó ná yóniṃ ghr̥távantam āsádam  
+अ꣡सावि सो꣡मो अरुषो꣡ व्ŕ̥षा ह꣡री  
+रा꣡जेव दस्मो꣡ अभि꣡ गा꣡ अचिक्रदत्  
+पुनानो꣡ वा꣡रम् प꣡रि एति अव्य꣡यं  
+श्येनो꣡ न꣡ यो꣡निं घृत꣡वन्तम् आस꣡दम्  

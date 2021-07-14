@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-agnír devó devā́nām abhavat puróhito  
-agním manuṣyā̀ ŕ̥ṣayaḥ sám īdhire  
-agním mahó dhánasātāv aháṃ huve  
-mr̥̄ḷīkáṃ+ dhánasātaye  
+अग्नि꣡र् देवो꣡ देवा꣡नाम् अभवत् पुरो꣡हितो  
+अग्नि꣡म् मनुष्या᳡ ŕ̥षयः स꣡म् ईधिरे  
+अग्नि꣡म् महो꣡ ध꣡नसाताव् अहं꣡ हुवे  
+मॄऌईकं꣡+ ध꣡नसातये  

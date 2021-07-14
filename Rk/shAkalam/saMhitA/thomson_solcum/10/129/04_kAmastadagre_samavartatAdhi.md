@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kā́mas tád ágre sám avartatā́dhi  
-mánaso rétaḥ prathamáṃ yád ā́sīt  
-sató bándhum ásati nír avindan  
-hr̥dí pratī́ṣyā kaváyo manīṣā́  
+का꣡मस् त꣡द् अ꣡ग्रे स꣡म् अवर्तता꣡धि  
+म꣡नसो रे꣡तः प्रथमं꣡ य꣡द् आ꣡सीत्  
+सतो꣡ ब꣡न्धुम् अ꣡सति नि꣡र् अविन्दन्  
+हृदि꣡ प्रती꣡ष्या कव꣡यो मनीषा꣡  

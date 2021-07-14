@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ā́ sahásram pathíbhir indra rāyā́  
-túvidyumna tuvivā́jebhir arvā́k  
-yāhí sūno sahaso yásya nū́ cid  
-ádeva ī́śe puruhūta yótoḥ  
+आ꣡ सह꣡स्रम् पथि꣡भिर् इन्द्र राया꣡  
+तु꣡विद्युम्न तुविवा꣡जेभिर् अर्वा꣡क्  
+याहि꣡ सूनो सहसो य꣡स्य नू꣡ चिद्  
+अ꣡देव ई꣡शे पुरुहूत यो꣡तोः  

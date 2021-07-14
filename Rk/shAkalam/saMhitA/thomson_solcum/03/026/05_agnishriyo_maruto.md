@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-agniśríyo marúto viśvákr̥ṣṭaya  
-ā́ tveṣám ugrám áva īmahe vayám  
-té svāníno rudríyā varṣánirṇijaḥ  
-siṃhā́ ná heṣákratavaḥ sudā́navaḥ  
+अग्निश्रि꣡यो मरु꣡तो विश्व꣡कृष्टय  
+आ꣡ त्वेष꣡म् उग्र꣡म् अ꣡व ईमहे वय꣡म्  
+ते꣡ स्वानि꣡नो रुद्रि꣡या वर्ष꣡निर्णिजः  
+सिंहा꣡ न꣡ हेष꣡क्रतवः सुदा꣡नवः  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-úṣa ā́ bhāhi bhānúnā  
-candréṇa duhitar divaḥ  
-āváhantī bhū́ri asmábhyaṃ saúbhagaṃ  
-viuchántī díviṣṭiṣu  
+उ꣡ष आ꣡ भाहि भानु꣡ना  
+चन्द्रे꣡ण दुहितर् दिवः  
+आव꣡हन्ती भू꣡रि अस्म꣡भ्यं सउ꣡भगं  
+विउछ꣡न्ती दि꣡विष्टिषु  

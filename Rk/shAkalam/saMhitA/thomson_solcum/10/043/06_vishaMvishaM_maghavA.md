@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-víśaṃ-viśam maghávā páry aśāyata  
-jánānāṃ dhénā avacā́kaśad vŕ̥ṣā  
-yásyā́ha śakráḥ sávaneṣu ráṇyati  
-sá tīvraíḥ sómaiḥ sahate pr̥tanyatáḥ  
+वि꣡शं-विशम् मघ꣡वा प꣡र्य् अशायत  
+ज꣡नानां धे꣡ना अवचा꣡कशद् व्ŕ̥षा  
+य꣡स्या꣡ह शक्रः꣡ स꣡वनेषु र꣡ण्यति  
+स꣡ तीव्रइः꣡ सो꣡मैः सहते पृतन्यतः꣡  

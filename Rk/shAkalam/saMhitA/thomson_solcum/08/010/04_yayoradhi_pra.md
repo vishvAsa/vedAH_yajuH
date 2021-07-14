@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yáyor ádhi prá yajñā́  
-asūré sánti sūráyaḥ  
-tā́ yajñásya adhvarásya prácetasā  
-svadhā́bhir yā́ píbataḥ somiyám mádhu  
+य꣡योर् अ꣡धि प्र꣡ यज्ञा꣡  
+असूरे꣡ स꣡न्ति सूर꣡यः  
+ता꣡ यज्ञ꣡स्य अध्वर꣡स्य प्र꣡चेतसा  
+स्वधा꣡भिर् या꣡ पि꣡बतः सोमिय꣡म् म꣡धु  

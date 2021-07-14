@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-utá pradhím úd ahann asya vidvā́n  
-úpāyunag váṃsagam átra śíkṣan  
-índra úd āvat pátim ághniyānām  
-áraṃhata pádiyābhiḥ kakúdmān  
+उत꣡ प्रधि꣡म् उ꣡द् अहन्न् अस्य विद्वा꣡न्  
+उ꣡पायुनग् वं꣡सगम् अ꣡त्र शि꣡क्षन्  
+इ꣡न्द्र उ꣡द् आवत् प꣡तिम् अ꣡घ्नियानाम्  
+अ꣡रंहत प꣡दियाभिः ककु꣡द्मान्  

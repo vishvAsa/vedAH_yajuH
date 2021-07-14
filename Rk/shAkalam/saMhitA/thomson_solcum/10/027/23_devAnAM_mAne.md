@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-devā́nām mā́ne prathamā́ atiṣṭhan  
-kr̥ntátrād eṣām úparā úd āyan  
-tráyas tapanti pr̥thivī́m anūpā́  
-duvā́ bŕ̥būkaṃ vahataḥ púrīṣam  
+देवा꣡नाम् मा꣡ने प्रथमा꣡ अतिष्ठन्  
+कृन्त꣡त्राद् एषाम् उ꣡परा उ꣡द् आयन्  
+त्र꣡यस् तपन्ति पृथिवी꣡म् अनूपा꣡  
+दुवा꣡ ब्ŕ̥बूकं वहतः पु꣡रीषम्  

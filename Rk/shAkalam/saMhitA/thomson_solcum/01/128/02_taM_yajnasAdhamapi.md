@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-táṃ yajñasā́dham ápi vātayāmasi  
-r̥tásya pathā́ námasā havíṣmatā  
-devátātā havíṣmatā  
-sá na ūrjā́m upā́bhr̥ti  
-ayā́ kr̥pā́ ná jūryati  
-yám mātaríśvā mánave parāváto  
-devám bhã́ḥ parāvátaḥ  
+तं꣡ यज्ञसा꣡धम् अ꣡पि वातयामसि  
+ऋत꣡स्य पथा꣡ न꣡मसा हवि꣡ष्मता  
+देव꣡ताता हवि꣡ष्मता  
+स꣡ न ऊर्जा꣡म् उपा꣡भृति  
+अया꣡ कृपा꣡ न꣡ जूर्यति  
+य꣡म् मातरि꣡श्वा म꣡नवे पराव꣡तो  
+देव꣡म् भ्ãः꣡ पराव꣡तः  

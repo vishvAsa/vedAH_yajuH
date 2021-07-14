@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-utá sváyā tanúvā sáṃ vade tát  
-kadā́ nú antár váruṇe bhuvāni  
-kím me havyám áhr̥ṇāno juṣeta  
-kadā́ mr̥̄ḷīkáṃ+ sumánā abhí khyam  
+उत꣡ स्व꣡या तनु꣡वा सं꣡ वदे त꣡त्  
+कदा꣡ नु꣡ अन्त꣡र् व꣡रुणे भुवानि  
+कि꣡म् मे हव्य꣡म् अ꣡हृणानो जुषेत  
+कदा꣡ मॄऌईकं꣡+ सुम꣡ना अभि꣡ ख्यम्  

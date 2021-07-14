@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ná revátā paṇínā sakhyám índro  
-ásunvatā sutapā́ḥ sáṃ gr̥ṇīte  
-ā́sya védaḥ khidáti hánti nagnáṃ  
-ví súṣvaye paktáye kévalo bhūt  
+न꣡ रेव꣡ता पणि꣡ना सख्य꣡म् इ꣡न्द्रो  
+अ꣡सुन्वता सुतपाः꣡ सं꣡ गृणीते  
+आ꣡स्य वे꣡दः खिद꣡ति ह꣡न्ति नग्नं꣡  
+वि꣡ सु꣡ष्वये पक्त꣡ये के꣡वलो भूत्  

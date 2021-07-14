@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-dhruvā́su tvāsú kṣitíṣu kṣiyánto  
-ví asmát pā́śaṃ váruṇo mumocat  
-ávo vanvānā́ áditer upásthād  
-yūyám pāta suastíbhiḥ sádā naḥ  
+ध्रुवा꣡सु त्वासु꣡ क्षिति꣡षु क्षिय꣡न्तो  
+वि꣡ अस्म꣡त् पा꣡शं व꣡रुणो मुमोचत्  
+अ꣡वो वन्वाना꣡ अ꣡दितेर् उप꣡स्थाद्  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

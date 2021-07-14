@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-dyā́vo ná yásya panáyanti ábhvam  
-bhā́sāṃsi vaste sū́riyo ná śukráḥ  
-ví yá inóti ajáraḥ pavākó+  
-áśnasya cic chiśnathat pūrviyā́ṇi  
+द्या꣡वो न꣡ य꣡स्य पन꣡यन्ति अ꣡भ्वम्  
+भा꣡सांसि वस्ते सू꣡रियो न꣡ शुक्रः꣡  
+वि꣡ य꣡ इनो꣡ति अज꣡रः पवाको꣡+  
+अ꣡श्नस्य चिच् छिश्नथत् पूर्विया꣡णि  

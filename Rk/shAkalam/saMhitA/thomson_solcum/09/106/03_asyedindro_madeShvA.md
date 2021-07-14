@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-asyéd índro mádeṣu ā́  
-grābháṃ gr̥bhṇīta sānasím  
-vájraṃ ca vŕ̥ṣaṇam bharat sám apsujít  
+अस्ये꣡द् इ꣡न्द्रो म꣡देषु आ꣡  
+ग्राभं꣡ गृभ्णीत सानसि꣡म्  
+व꣡ज्रं च व्ŕ̥षणम् भरत् स꣡म् अप्सुजि꣡त्  

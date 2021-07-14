@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-bhárāya sú bharata bhāgám r̥tvíyam  
-prá vāyáve śucipé krandádiṣṭaye  
-gaurásya yáḥ páyasaḥ pītím ānaśá  
-ā́ sarvátātim áditiṃ vr̥ṇīmahe  
+भ꣡राय सु꣡ भरत भाग꣡म् ऋत्वि꣡यम्  
+प्र꣡ वाय꣡वे शुचिपे꣡ क्रन्द꣡दिष्टये  
+गौर꣡स्य यः꣡ प꣡यसः पीति꣡म् आनश꣡  
+आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे  

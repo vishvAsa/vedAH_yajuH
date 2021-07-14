@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-savitā́ram uṣásam aśvínā bhágam  
-agníṃ víuṣṭiṣu kṣápaḥ  
-káṇvāsas tvā sutásomāsa indhate  
-havyavā́haṃ suadhvara  
+सविता꣡रम् उष꣡सम् अश्वि꣡ना भ꣡गम्  
+अग्निं꣡ वि꣡उष्टिषु क्ष꣡पः  
+क꣡ण्वासस् त्वा सुत꣡सोमास इन्धते  
+हव्यवा꣡हं सुअध्वर  

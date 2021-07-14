@@ -2,7 +2,7 @@
 title = "034"
 
 +++
-pávamāna máhi árṇo ví dhāvasi  
-sū́ro ná citró ávyayāni pávyayā  
-gábhastipūto nŕ̥bhir ádribhiḥ sutó  
-mahé vā́jāya dhániyāya dhanvasi  
+प꣡वमान म꣡हि अ꣡र्णो वि꣡ धावसि  
+सू꣡रो न꣡ चित्रो꣡ अ꣡व्ययानि प꣡व्यया  
+ग꣡भस्तिपूतो न्ŕ̥भिर् अ꣡द्रिभिः सुतो꣡  
+महे꣡ वा꣡जाय ध꣡नियाय धन्वसि  

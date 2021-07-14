@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-yuváṃ túgrāya pūrviyébhir évaiḥ  
-punarmanyā́v abhavataṃ yuvānā  
-yuvám bhujyúm árṇaso níḥ samudrā́d  
-víbhir ūhathur r̥jarébhir áśvaiḥ  
+युवं꣡ तु꣡ग्राय पूर्विये꣡भिर् ए꣡वैः  
+पुनर्मन्या꣡व् अभवतं युवाना  
+युव꣡म् भुज्यु꣡म् अ꣡र्णसो निः꣡ समुद्रा꣡द्  
+वि꣡भिर् ऊहथुर् ऋजरे꣡भिर् अ꣡श्वैः  

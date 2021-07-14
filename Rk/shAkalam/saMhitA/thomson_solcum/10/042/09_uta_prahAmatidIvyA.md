@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-utá prahā́m atidī́vyā jayāti  
-kr̥táṃ yác chvaghnī́ vicinóti kālé  
-yó devákāmo ná dhánā ruṇaddhi  
-sám ít táṃ rāyā́ sr̥jati svadhā́vān  
+उत꣡ प्रहा꣡म् अतिदी꣡व्या जयाति  
+कृतं꣡ य꣡च् छ्वघ्नी꣡ विचिनो꣡ति काले꣡  
+यो꣡ देव꣡कामो न꣡ ध꣡ना रुणद्धि  
+स꣡म् इ꣡त् तं꣡ राया꣡ सृजति स्वधा꣡वान्  

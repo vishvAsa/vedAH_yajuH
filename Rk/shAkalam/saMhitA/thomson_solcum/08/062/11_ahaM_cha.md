@@ -2,8 +2,8 @@
 title = "011"
 
 +++
-aháṃ ca tváṃ ca vr̥trahan  
-sáṃ yujyāva saníbhya ā́  
-arātīvā́ cid adrivo  
-ánu nau śūra maṃsate  
-bhadrā́ índrasya rātáyaḥ  
+अहं꣡ च त्वं꣡ च वृत्रहन्  
+सं꣡ युज्याव सनि꣡भ्य आ꣡  
+अरातीवा꣡ चिद् अद्रिवो  
+अ꣡नु नौ शूर मंसते  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  

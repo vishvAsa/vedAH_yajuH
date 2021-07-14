@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá yajñá etu hétuvo ná sáptir  
-úd yachadhvaṃ sámanaso ghr̥tā́cīḥ  
-str̥ṇītá barhír adhvarā́ya sādhú  
-ūrdhvā́ śocī́ṃṣi devayū́ni asthuḥ  
+प्र꣡ यज्ञ꣡ एतु हे꣡तुवो न꣡ स꣡प्तिर्  
+उ꣡द् यछध्वं स꣡मनसो घृता꣡चीः  
+स्तृणीत꣡ बर्हि꣡र् अध्वरा꣡य साधु꣡  
+ऊर्ध्वा꣡ शोचीं꣡षि देवयू꣡नि अस्थुः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yó devó devátamo jā́yamāno  
-mahó vā́jebhir mahádbhiś ca śúṣmaiḥ  
-dádhāno vájram bāhuvór uśántaṃ  
-diyā́m ámena rejayat prá bhū́ma  
+यो꣡ देवो꣡ देव꣡तमो जा꣡यमानो  
+महो꣡ वा꣡जेभिर् मह꣡द्भिश् च शु꣡ष्मैः  
+द꣡धानो व꣡ज्रम् बाहुवो꣡र् उश꣡न्तं  
+दिया꣡म् अ꣡मेन रेजयत् प्र꣡ भू꣡म  

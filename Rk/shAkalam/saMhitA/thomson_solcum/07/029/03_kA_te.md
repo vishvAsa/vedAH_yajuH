@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-kā́ te asti áraṃkr̥tiḥ suuktaíḥ  
-kadā́ nūnáṃ te maghavan dāśema  
-víśvā matī́r ā́ tatane tuvāyā́  
-ádhā ma indra śr̥ṇavo hávemā́  
+का꣡ ते अस्ति अ꣡रंकृतिः सुउक्तइः꣡  
+कदा꣡ नूनं꣡ ते मघवन् दाशेम  
+वि꣡श्वा मती꣡र् आ꣡ ततने तुवाया꣡  
+अ꣡धा म इन्द्र शृणवो ह꣡वेमा꣡  

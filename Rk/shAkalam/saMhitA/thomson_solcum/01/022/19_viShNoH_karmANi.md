@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-víṣṇoḥ kármāṇi paśyata  
-yáto vratā́ni paspaśé  
-índrasya yújiyaḥ sákhā  
+वि꣡ष्णोः क꣡र्माणि पश्यत  
+य꣡तो व्रता꣡नि पस्पशे꣡  
+इ꣡न्द्रस्य यु꣡जियः स꣡खा  

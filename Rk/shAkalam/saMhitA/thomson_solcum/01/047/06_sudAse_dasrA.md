@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sudā́se dasrā vásu bíbhratā ráthe  
-pŕ̥kṣo vahatam aśvinā  
-rayíṃ samudrā́d utá vā divás pári  
-asmé dhattam puruspŕ̥ham  
+सुदा꣡से दस्रा व꣡सु बि꣡भ्रता र꣡थे  
+प्ŕ̥क्षो वहतम् अश्विना  
+रयिं꣡ समुद्रा꣡द् उत꣡ वा दिव꣡स् प꣡रि  
+अस्मे꣡ धत्तम् पुरुस्प्ŕ̥हम्  

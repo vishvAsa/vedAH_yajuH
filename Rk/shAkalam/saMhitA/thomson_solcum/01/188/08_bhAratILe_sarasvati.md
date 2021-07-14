@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-bhā́ratī́ḷe sárasvati  
-yā́ vaḥ sárvā upabruvé  
-tā́ naś codayata śriyé  
+भा꣡रती꣡ऌए स꣡रस्वति  
+या꣡ वः स꣡र्वा उपब्रुवे꣡  
+ता꣡ नश् चोदयत श्रिये꣡  

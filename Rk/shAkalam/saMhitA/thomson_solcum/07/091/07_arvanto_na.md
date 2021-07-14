@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-árvanto ná śrávaso bhíkṣamāṇā  
-indravāyū́ suṣṭutíbhir vásiṣṭhāḥ  
-vājayántaḥ sú ávase huvema  
-yūyám pāta suastíbhiḥ sádā naḥ  
+अ꣡र्वन्तो न꣡ श्र꣡वसो भि꣡क्षमाणा  
+इन्द्रवायू꣡ सुष्टुति꣡भिर् व꣡सिष्ठाः  
+वाजय꣡न्तः सु꣡ अ꣡वसे हुवेम  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

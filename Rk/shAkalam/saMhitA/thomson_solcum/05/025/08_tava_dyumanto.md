@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-táva dyumánto arcáyo  
-grā́veva ucyate br̥hát  
-utó te tanyatúr yathā  
-svānó arta tmánā diváḥ  
+त꣡व द्युम꣡न्तो अर्च꣡यो  
+ग्रा꣡वेव उच्यते बृह꣡त्  
+उतो꣡ ते तन्यतु꣡र् यथा  
+स्वानो꣡ अर्त त्म꣡ना दिवः꣡  

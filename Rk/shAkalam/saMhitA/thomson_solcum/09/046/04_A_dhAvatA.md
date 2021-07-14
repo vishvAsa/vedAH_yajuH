@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ā́ dhāvatā suhastiyaḥ  
-śukrā́ gr̥bhṇīta manthínā  
-góbhiḥ śrīṇīta matsarám  
+आ꣡ धावता सुहस्तियः  
+शुक्रा꣡ गृभ्णीत मन्थि꣡ना  
+गो꣡भिः श्रीणीत मत्सर꣡म्  

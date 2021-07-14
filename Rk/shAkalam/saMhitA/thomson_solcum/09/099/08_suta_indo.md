@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sutá indo pavítra ā́  
-nŕ̥bhir yató ví nīyase  
-índrāya matsaríntamaś  
-camū́ṣu ā́ ní ṣīdasi  
+सुत꣡ इन्दो पवि꣡त्र आ꣡  
+न्ŕ̥भिर् यतो꣡ वि꣡ नीयसे  
+इ꣡न्द्राय मत्सरि꣡न्तमश्  
+चमू꣡षु आ꣡ नि꣡ षीदसि  

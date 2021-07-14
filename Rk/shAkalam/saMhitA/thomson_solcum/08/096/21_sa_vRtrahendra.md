@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-sá vr̥trahā́ índara+ r̥bhukṣā́ḥ  
-sadyó jajñānó háviyo babhūva  
-kr̥ṇvánn ápāṃsi náriyā purū́ṇi  
-sómo ná pītó háviyaḥ sákhibhyaḥ  
+स꣡ वृत्रहा꣡ इ꣡न्दर+ ऋभुक्षाः꣡  
+सद्यो꣡ जज्ञानो꣡ ह꣡वियो बभूव  
+कृण्व꣡न्न् अ꣡पांसि न꣡रिया पुरू꣡णि  
+सो꣡मो न꣡ पीतो꣡ ह꣡वियः स꣡खिभ्यः  

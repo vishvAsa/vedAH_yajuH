@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-abhy àvasthā́ḥ prá jāyante  
-prá vavrér vavríś ciketa  
-upásthe mātúr ví caṣṭe  
+अभ्य् अ᳡वस्थाः꣡ प्र꣡ जायन्ते  
+प्र꣡ वव्रे꣡र् वव्रि꣡श् चिकेत  
+उप꣡स्थे मातु꣡र् वि꣡ चष्टे  

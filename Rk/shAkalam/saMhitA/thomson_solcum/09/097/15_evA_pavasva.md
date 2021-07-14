@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-evā́ pavasva madiró mádāya  
-udagrābhásya namáyan vadhasnaíḥ  
-pári várṇam bháramāṇo rúśantaṃ  
-gavyúr no arṣa pári soma siktáḥ  
+एवा꣡ पवस्व मदिरो꣡ म꣡दाय  
+उदग्राभ꣡स्य नम꣡यन् वधस्नइः꣡  
+प꣡रि व꣡र्णम् भ꣡रमाणो रु꣡शन्तं  
+गव्यु꣡र् नो अर्ष प꣡रि सोम सिक्तः꣡  

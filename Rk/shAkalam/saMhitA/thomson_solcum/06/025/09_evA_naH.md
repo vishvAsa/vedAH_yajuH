@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-evā́ na spŕ̥dhaḥ sám ajā samátsu  
-índra rārandhí mithatī́r ádevīḥ  
-vidyā́ma vástor ávasā gr̥ṇánto  
-bharádvājā utá ta indra nūnám  
+एवा꣡ न स्प्ŕ̥धः स꣡म् अजा सम꣡त्सु  
+इ꣡न्द्र रारन्धि꣡ मिथती꣡र् अ꣡देवीः  
+विद्या꣡म व꣡स्तोर् अ꣡वसा गृण꣡न्तो  
+भर꣡द्वाजा उत꣡ त इन्द्र नून꣡म्  

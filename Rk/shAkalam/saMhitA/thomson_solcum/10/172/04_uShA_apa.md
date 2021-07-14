@@ -2,5 +2,5 @@
 title = "004"
 
 +++
-uṣā́ ápa svásus támaḥ  
-sáṃ vartayati vartaníṃ sujātátā  
+उषा꣡ अ꣡प स्व꣡सुस् त꣡मः  
+सं꣡ वर्तयति वर्तनिं꣡ सुजात꣡ता  

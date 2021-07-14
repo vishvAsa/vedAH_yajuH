@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-śr̥táṃ yadā́ kárasi jātavedo  
-áthem enam pári dattāt pitŕ̥bhyaḥ  
-yadā́ gáchāti ásunītim etā́m  
-áthā devā́nāṃ vaśanī́r bhavāti  
+शृतं꣡ यदा꣡ क꣡रसि जातवेदो  
+अ꣡थेम् एनम् प꣡रि दत्तात् पित्ŕ̥भ्यः  
+यदा꣡ ग꣡छाति अ꣡सुनीतिम् एता꣡म्  
+अ꣡था देवा꣡नां वशनी꣡र् भवाति  

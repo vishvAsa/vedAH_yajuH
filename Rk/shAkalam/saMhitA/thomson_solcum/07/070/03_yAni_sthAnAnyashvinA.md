@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yā́ni sthā́nāni aśvinā dadhā́the  
-divó yahvī́ṣu óṣadhīṣu vikṣú  
-ní párvatasya mūrdháni sádantā  
-íṣaṃ jánāya dāśúṣe váhantā  
+या꣡नि स्था꣡नानि अश्विना दधा꣡थे  
+दिवो꣡ यह्वी꣡षु ओ꣡षधीषु विक्षु꣡  
+नि꣡ प꣡र्वतस्य मूर्ध꣡नि स꣡दन्ता  
+इ꣡षं ज꣡नाय दाशु꣡षे व꣡हन्ता  

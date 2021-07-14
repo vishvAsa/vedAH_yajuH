@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ukthám índrāya śáṃsiyaṃ  
-várdhanam puruniṣṣídhe  
-śakró yáthā sutéṣu ṇo  
-rāráṇat sakhiyéṣu ca  
+उक्थ꣡म् इ꣡न्द्राय शं꣡सियं  
+व꣡र्धनम् पुरुनिष्षि꣡धे  
+शक्रो꣡ य꣡था सुते꣡षु णो  
+रार꣡णत् सखिये꣡षु च  

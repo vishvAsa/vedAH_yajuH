@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-té tvā mádā br̥hád indra svadhāva  
-imé pītā́ ukṣayanta dyumántam  
-mahā́m ánūnaṃ tavásaṃ víbhūtim  
-matsarā́so jarhr̥ṣanta prasā́ham  
+ते꣡ त्वा म꣡दा बृह꣡द् इन्द्र स्वधाव  
+इमे꣡ पीता꣡ उक्षयन्त द्युम꣡न्तम्  
+महा꣡म् अ꣡नूनं तव꣡सं वि꣡भूतिम्  
+मत्सरा꣡सो जर्हृषन्त प्रसा꣡हम्  

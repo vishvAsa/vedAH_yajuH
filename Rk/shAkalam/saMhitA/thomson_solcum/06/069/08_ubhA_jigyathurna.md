@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ubhā́ jigyathur ná párā jayethe  
-ná párā jigye kataráś canaínoḥ  
-índraś ca viṣṇo yád ápaspr̥dhethāṃ  
-tredhā́ sahásraṃ ví tád airayethām  
+उभा꣡ जिग्यथुर् न꣡ प꣡रा जयेथे  
+न꣡ प꣡रा जिग्ये कतर꣡श् चनइ꣡नोः  
+इ꣡न्द्रश् च विष्णो य꣡द् अ꣡पस्पृधेथां  
+त्रेधा꣡ सह꣡स्रं वि꣡ त꣡द् ऐरयेथाम्  

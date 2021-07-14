@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-áchā vivakmi ródasī suméke  
-grā́vṇo yujānó adhvaré manīṣā́  
-imā́ u te mánave bhū́rivārā  
-ūrdhvā́ bhavanti darśatā́ yájatrāḥ  
+अ꣡छा विवक्मि रो꣡दसी सुमे꣡के  
+ग्रा꣡व्णो युजानो꣡ अध्वरे꣡ मनीषा꣡  
+इमा꣡ उ ते म꣡नवे भू꣡रिवारा  
+ऊर्ध्वा꣡ भवन्ति दर्शता꣡ य꣡जत्राः  

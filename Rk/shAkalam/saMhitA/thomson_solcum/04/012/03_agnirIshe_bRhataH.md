@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-agnír īśe br̥hatáḥ kṣatríyasya  
-agnír vā́jasya paramásya rāyáḥ  
-dádhāti rátnaṃ vidhaté yáviṣṭho  
-ví ānuṣáṅ mártiyāya svadhā́vān  
+अग्नि꣡र् ईशे बृहतः꣡ क्षत्रि꣡यस्य  
+अग्नि꣡र् वा꣡जस्य परम꣡स्य रायः꣡  
+द꣡धाति र꣡त्नं विधते꣡ य꣡विष्ठो  
+वि꣡ आनुष꣡ङ् म꣡र्तियाय स्वधा꣡वान्  

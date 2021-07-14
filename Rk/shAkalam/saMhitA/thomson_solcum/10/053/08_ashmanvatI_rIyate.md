@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-áśmanvatī rīyate sáṃ rabhadhvam  
-út tiṣṭhata prá taratā sakhāyaḥ  
-átrā jahāma yé ásann áśevāḥ  
-śivā́n vayám út taremābhí vā́jān  
+अ꣡श्मन्वती रीयते सं꣡ रभध्वम्  
+उ꣡त् तिष्ठत प्र꣡ तरता सखायः  
+अ꣡त्रा जहाम ये꣡ अ꣡सन्न् अ꣡शेवाः  
+शिवा꣡न् वय꣡म् उ꣡त् तरेमाभि꣡ वा꣡जान्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ no mitrāvaruṇā havyájuṣṭiṃ  
-ghr̥taír gávyūtim ukṣatam íḷābhiḥ  
-práti vām átra váram ā́ jánāya  
-pr̥ṇītám udnó diviyásya cā́roḥ  
+आ꣡ नो मित्रावरुणा हव्य꣡जुष्टिं  
+घृतइ꣡र् ग꣡व्यूतिम् उक्षतम् इ꣡ऌआभिः  
+प्र꣡ति वाम् अ꣡त्र व꣡रम् आ꣡ ज꣡नाय  
+पृणीत꣡म् उद्नो꣡ दिविय꣡स्य चा꣡रोः  

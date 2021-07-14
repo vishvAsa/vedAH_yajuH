@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-máhi tvāṣṭrám ūrjáyantīr ajuryáṃ  
-stabhūyámānaṃ vaháto vahanti  
-ví áṅgebhir didyutānáḥ sadhástha  
-ékām iva ródasī ā́ viveśa  
+म꣡हि त्वाष्ट्र꣡म् ऊर्ज꣡यन्तीर् अजुर्यं꣡  
+स्तभूय꣡मानं वह꣡तो वहन्ति  
+वि꣡ अ꣡ङ्गेभिर् दिद्युतानः꣡ सध꣡स्थ  
+ए꣡काम् इव रो꣡दसी आ꣡ विवेश  

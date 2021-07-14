@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-tám amr̥kṣanta vājínam  
-upásthe áditer ádhi  
-víprāso áṇviyā dhiyā́  
+त꣡म् अमृक्षन्त वाजि꣡नम्  
+उप꣡स्थे अ꣡दितेर् अ꣡धि  
+वि꣡प्रासो अ꣡ण्विया धिया꣡  

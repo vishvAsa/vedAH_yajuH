@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-imā́ṃ ca naḥ pr̥thivī́ṃ viśvádhāyā  
-úpa kṣeti hitámitro ná rā́jā  
-puraḥsádaḥ śarmasádo ná vīrā́  
-mahád devā́nām asuratvám ékam  
+इमां꣡ च नः पृथिवीं꣡ विश्व꣡धाया  
+उ꣡प क्षेति हित꣡मित्रो न꣡ रा꣡जा  
+पुरःस꣡दः शर्मस꣡दो न꣡ वीरा꣡  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

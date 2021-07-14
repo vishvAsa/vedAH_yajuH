@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tuváṃ na · indara+ śūra śū́rair  
-utá tvótāso barháṇā  
-purutrā́ te ví pūrtáyo  
-návanta kṣoṇáyo yathā  
+तुवं꣡ न · इन्दर+ शूर शू꣡रैर्  
+उत꣡ त्वो꣡तासो बर्ह꣡णा  
+पुरुत्रा꣡ ते वि꣡ पूर्त꣡यो  
+न꣡वन्त क्षोण꣡यो यथा  

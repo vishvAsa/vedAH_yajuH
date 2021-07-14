@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-kám u ṣvid asya sénayā  
-agnér ápākacakṣasaḥ  
-paṇíṃ góṣu starāmahe  
+क꣡म् उ ष्विद् अस्य से꣡नया  
+अग्ने꣡र् अ꣡पाकचक्षसः  
+पणिं꣡ गो꣡षु स्तरामहे  

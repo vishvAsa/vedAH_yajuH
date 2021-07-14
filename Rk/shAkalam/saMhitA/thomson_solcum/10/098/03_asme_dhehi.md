@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-asmé dhehi dyumátīṃ vā́cam āsán  
-bŕ̥haspate anamīvā́m iṣirā́m  
-yáyā vr̥ṣṭíṃ śáṃtanave vánāva  
-divó drapsó mádhumām̐ ā́ viveśa  
+अस्मे꣡ धेहि द्युम꣡तीं वा꣡चम् आस꣡न्  
+ब्ŕ̥हस्पते अनमीवा꣡म् इषिरा꣡म्  
+य꣡या वृष्टिं꣡ शं꣡तनवे व꣡नाव  
+दिवो꣡ द्रप्सो꣡ म꣡धुमाँ आ꣡ विवेश  

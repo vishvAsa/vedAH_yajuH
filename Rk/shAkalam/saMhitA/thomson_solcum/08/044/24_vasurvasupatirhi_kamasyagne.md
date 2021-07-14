@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-vásur vásupatir hí kam  
-ási agne vibhā́vasuḥ  
-syā́ma te sumatā́v ápi  
+व꣡सुर् व꣡सुपतिर् हि꣡ कम्  
+अ꣡सि अग्ने विभा꣡वसुः  
+स्या꣡म ते सुमता꣡व् अ꣡पि  

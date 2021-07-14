@@ -2,8 +2,8 @@
 title = "017"
 
 +++
-tritáḥ kū́pe ávahito  
-devā́n havata ūtáye  
-tác chuśrāva bŕ̥haspátiḥ  
-kr̥ṇvánn aṃhūraṇā́d urú  
-vittám me asyá rodasī  
+त्रितः꣡ कू꣡पे अ꣡वहितो  
+देवा꣡न् हवत ऊत꣡ये  
+त꣡च् छुश्राव ब्ŕ̥हस्प꣡तिः  
+कृण्व꣡न्न् अंहूरणा꣡द् उरु꣡  
+वित्त꣡म् मे अस्य꣡ रोदसी  

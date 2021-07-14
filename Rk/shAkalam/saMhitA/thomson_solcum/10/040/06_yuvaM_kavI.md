@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yuváṃ kavī́ ṣṭhaḥ pári aśvinā ráthaṃ  
-víśo ná kútso jaritúr naśāyathaḥ  
-yuvór ha mákṣā pári aśvinā mádhu  
-āsā́ bharata niṣkr̥táṃ ná yóṣaṇā  
+युवं꣡ कवी꣡ ष्ठः प꣡रि अश्विना र꣡थं  
+वि꣡शो न꣡ कु꣡त्सो जरितु꣡र् नशायथः  
+युवो꣡र् ह म꣡क्षा प꣡रि अश्विना म꣡धु  
+आसा꣡ भरत निष्कृतं꣡ न꣡ यो꣡षणा  

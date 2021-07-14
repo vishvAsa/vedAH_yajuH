@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-dadhúṣ ṭuvā bhŕ̥gavo mā́nuṣeṣv ā́  
-rayíṃ ná cā́ruṃ suhávaṃ jánebhyaḥ  
-hótāram agne átithiṃ váreṇyam  
-mitráṃ ná śévaṃ diviyā́ya jánmane  
+दधु꣡ष् टुवा भ्ŕ̥गवो मा꣡नुषेष्व् आ꣡  
+रयिं꣡ न꣡ चा꣡रुं सुह꣡वं ज꣡नेभ्यः  
+हो꣡तारम् अग्ने अ꣡तिथिं व꣡रेण्यम्  
+मित्रं꣡ न꣡ शे꣡वं दिविया꣡य ज꣡न्मने  

@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-yó védiṣṭho avyathíṣu  
-áśvāvantaṃ jaritŕ̥bhyaḥ  
-vā́jaṃ stotŕ̥bhyo gómantam  
+यो꣡ वे꣡दिष्ठो अव्यथि꣡षु  
+अ꣡श्वावन्तं जरित्ŕ̥भ्यः  
+वा꣡जं स्तोत्ŕ̥भ्यो गो꣡मन्तम्  

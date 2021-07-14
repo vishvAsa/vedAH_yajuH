@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-eté pūtā́ vipaścítaḥ  
-sómāso dádhiāśiraḥ  
-sū́ryāso ná darśatā́so  
-jigatnávo dhruvā́ ghr̥té  
+एते꣡ पूता꣡ विपश्चि꣡तः  
+सो꣡मासो द꣡धिआशिरः  
+सू꣡र्यासो न꣡ दर्शता꣡सो  
+जिगत्न꣡वो ध्रुवा꣡ घृते꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá tváṃ naś citra vajrahasta dhr̥ṣṇuyā́  
-mahá stavānó adrivaḥ  
-gã́m áśvaṃ rathíyam indra sáṃ kira  
-satrā́ vā́jaṃ ná jigyúṣe  
+स꣡ त्वं꣡ नश् चित्र वज्रहस्त धृष्णुया꣡  
+मह꣡ स्तवानो꣡ अद्रिवः  
+ग्ã꣡म् अ꣡श्वं रथि꣡यम् इन्द्र सं꣡ किर  
+सत्रा꣡ वा꣡जं न꣡ जिग्यु꣡षे  

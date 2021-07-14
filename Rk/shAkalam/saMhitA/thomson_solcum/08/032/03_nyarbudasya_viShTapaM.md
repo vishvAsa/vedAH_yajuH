@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ní árbudasya viṣṭápaṃ  
-varṣmā́ṇam br̥hatás tira  
-kr̥ṣé tád indra paúṃsiyam  
+नि꣡ अ꣡र्बुदस्य विष्ट꣡पं  
+वर्ष्मा꣡णम् बृहत꣡स् तिर  
+कृषे꣡ त꣡द् इन्द्र पउं꣡सियम्  

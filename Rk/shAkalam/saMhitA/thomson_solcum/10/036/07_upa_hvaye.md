@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-úpa hvaye suhávam mā́rutaṃ gaṇám  
-pavākám+ r̥ṣváṃ sakhiyā́ya śambhúvam  
-rāyás póṣaṃ sauśravasā́ya dhīmahi  
-tád devā́nām ávo adyā́ vr̥ṇīmahe  
+उ꣡प ह्वये सुह꣡वम् मा꣡रुतं गण꣡म्  
+पवाक꣡म्+ ऋष्वं꣡ सखिया꣡य शम्भु꣡वम्  
+राय꣡स् पो꣡षं सौश्रवसा꣡य धीमहि  
+त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे  

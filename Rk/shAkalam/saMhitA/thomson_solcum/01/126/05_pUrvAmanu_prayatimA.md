@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-pū́rvām ánu práyatim ā́ dade vas  
-trī́n yuktā́m̐ aṣṭā́v arídhāyaso gā́ḥ  
-subándhavo yé viśíyā iva vrā́  
-ánasvantaḥ śráva aíṣanta pajrā́ḥ  
+पू꣡र्वाम् अ꣡नु प्र꣡यतिम् आ꣡ ददे वस्  
+त्री꣡न् युक्ताँ꣡ अष्टा꣡व् अरि꣡धायसो गाः꣡  
+सुब꣡न्धवो ये꣡ विशि꣡या इव व्रा꣡  
+अ꣡नस्वन्तः श्र꣡व अइ꣡षन्त पज्राः꣡  

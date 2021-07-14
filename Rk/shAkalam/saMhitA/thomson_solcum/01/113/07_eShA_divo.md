@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-eṣā́ divó duhitā́ práty adarśi  
-viuchántī yuvatíḥ śukrávāsāḥ  
-víśvasyéśānā pā́rthivasya vásva  
-úṣo adyéhá subhage ví ucha  
+एषा꣡ दिवो꣡ दुहिता꣡ प्र꣡त्य् अदर्शि  
+विउछ꣡न्ती युवतिः꣡ शुक्र꣡वासाः  
+वि꣡श्वस्ये꣡शाना पा꣡र्थिवस्य व꣡स्व  
+उ꣡षो अद्ये꣡ह꣡ सुभगे वि꣡ उछ  

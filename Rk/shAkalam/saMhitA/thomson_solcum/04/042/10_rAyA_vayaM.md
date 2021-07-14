@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-rāyā́ vayáṃ sasavā́ṃso madema  
-havyéna devā́ yávasena gā́vaḥ  
-tā́ṃ dhenúm indrāvaruṇā yuváṃ no  
-viśvā́hā dhattam ánapasphurantīm  
+राया꣡ वयं꣡ ससवां꣡सो मदेम  
+हव्ये꣡न देवा꣡ य꣡वसेन गा꣡वः  
+तां꣡ धेनु꣡म् इन्द्रावरुणा युवं꣡ नो  
+विश्वा꣡हा धत्तम् अ꣡नपस्फुरन्तीम्  

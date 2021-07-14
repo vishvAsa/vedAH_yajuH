@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-mā́ no gávyebhir áśviyaiḥ  
-sahásrebhir áti khyatam  
-ánti ṣad bhūtu vām ávaḥ  
+मा꣡ नो ग꣡व्येभिर् अ꣡श्वियैः  
+सह꣡स्रेभिर् अ꣡ति ख्यतम्  
+अ꣡न्ति षद् भूतु वाम् अ꣡वः  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-divákṣaso agnijihvā́ r̥tāvŕ̥dha  
-r̥tásya yóniṃ vimr̥śánta āsate  
-dyā́ṃ skabhitvī́ apá ā́ cakrur ójasā  
-yajñáṃ janitvī́ tanúvī ní māmr̥juḥ  
+दिव꣡क्षसो अग्निजिह्वा꣡ ऋताव्ŕ̥ध  
+ऋत꣡स्य यो꣡निं विमृश꣡न्त आसते  
+द्यां꣡ स्कभित्वी꣡ अप꣡ आ꣡ चक्रुर् ओ꣡जसा  
+यज्ञं꣡ जनित्वी꣡ तनु꣡वी नि꣡ मामृजुः  

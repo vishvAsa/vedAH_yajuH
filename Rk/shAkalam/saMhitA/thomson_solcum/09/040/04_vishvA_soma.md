@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-víśvā soma pavamāna  
-dyumnā́ni indav ā́ bhara  
-vidā́ḥ sahasríṇīr íṣaḥ  
+वि꣡श्वा सोम पवमान  
+द्युम्ना꣡नि इन्दव् आ꣡ भर  
+विदाः꣡ सहस्रि꣡णीर् इ꣡षः  

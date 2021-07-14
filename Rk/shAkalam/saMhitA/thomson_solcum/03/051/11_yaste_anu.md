@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-yás te ánu svadhā́m ásat  
-suté ní yacha tanúvam  
-sá tvā mamattu somiyám  
+य꣡स् ते अ꣡नु स्वधा꣡म् अ꣡सत्  
+सुते꣡ नि꣡ यछ तनु꣡वम्  
+स꣡ त्वा ममत्तु सोमिय꣡म्  

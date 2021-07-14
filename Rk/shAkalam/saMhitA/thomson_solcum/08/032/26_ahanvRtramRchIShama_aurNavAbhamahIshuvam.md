@@ -2,6 +2,6 @@
 title = "026"
 
 +++
-áhan vr̥trám ŕ̥cīṣama  
-aurṇavābhám ahīśúvam  
-himénāvidhyad árbudam  
+अ꣡हन् वृत्र꣡म् ŕ̥चीषम  
+और्णवाभ꣡म् अहीशु꣡वम्  
+हिमे꣡नाविध्यद् अ꣡र्बुदम्  

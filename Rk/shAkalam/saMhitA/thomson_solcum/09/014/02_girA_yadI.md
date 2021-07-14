@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-girā́ yádī sábandhavaḥ  
-páñca vrā́tā apasyávaḥ  
-pariṣkr̥ṇvánti dharṇasím  
+गिरा꣡ य꣡दी स꣡बन्धवः  
+प꣡ञ्च व्रा꣡ता अपस्य꣡वः  
+परिष्कृण्व꣡न्ति धर्णसि꣡म्  

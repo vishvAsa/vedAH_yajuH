@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-pári spáśo váruṇasya smádiṣṭā  
-ubhé paśyanti ródasī suméke  
-r̥tā́vānaḥ kaváyo yajñádhīrāḥ  
-prácetaso yá iṣáyanta mánma  
+प꣡रि स्प꣡शो व꣡रुणस्य स्म꣡दिष्टा  
+उभे꣡ पश्यन्ति रो꣡दसी सुमे꣡के  
+ऋता꣡वानः कव꣡यो यज्ञ꣡धीराः  
+प्र꣡चेतसो य꣡ इष꣡यन्त म꣡न्म  

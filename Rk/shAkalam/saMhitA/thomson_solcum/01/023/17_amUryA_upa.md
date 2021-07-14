@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-amū́r yā́ úpa sū́riye  
-yā́bhir vā sū́riyaḥ sahá  
-tā́ no hinvantu adhvarám  
+अमू꣡र् या꣡ उ꣡प सू꣡रिये  
+या꣡भिर् वा सू꣡रियः सह꣡  
+ता꣡ नो हिन्वन्तु अध्वर꣡म्  

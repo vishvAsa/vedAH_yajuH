@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-pári vā́japatiḥ kavír  
-agnír havyā́ni akramīt  
-dádhad rátnāni dāśúṣe  
+प꣡रि वा꣡जपतिः कवि꣡र्  
+अग्नि꣡र् हव्या꣡नि अक्रमीत्  
+द꣡धद् र꣡त्नानि दाशु꣡षे  

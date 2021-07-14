@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-śíśuṃ ná tvā jéniyaṃ vardháyantī  
-mātā́ bibharti sacanasyámānā  
-dhánor ádhi pravátā yāsi háryañ  
-jígīṣase paśúr ivā́vasr̥ṣṭaḥ  
+शि꣡शुं न꣡ त्वा जे꣡नियं वर्ध꣡यन्ती  
+माता꣡ बिभर्ति सचनस्य꣡माना  
+ध꣡नोर् अ꣡धि प्रव꣡ता यासि ह꣡र्यञ्  
+जि꣡गीषसे पशु꣡र् इवा꣡वसृष्टः  

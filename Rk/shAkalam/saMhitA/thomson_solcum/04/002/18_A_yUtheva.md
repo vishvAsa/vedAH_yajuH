@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-ā́ yūthéva kṣumáti paśvó akhyad  
-devā́nāṃ yáj jánima ánti ugra  
-mártānãṃ cid urváśīr akr̥pran  
-vr̥dhé cid aryá úparasya āyóḥ  
+आ꣡ यूथे꣡व क्षुम꣡ति पश्वो꣡ अख्यद्  
+देवा꣡नां य꣡ज् ज꣡निम अ꣡न्ति उग्र  
+म꣡र्तान्ãं चिद् उर्व꣡शीर् अकृप्रन्  
+वृधे꣡ चिद् अर्य꣡ उ꣡परस्य आयोः꣡  

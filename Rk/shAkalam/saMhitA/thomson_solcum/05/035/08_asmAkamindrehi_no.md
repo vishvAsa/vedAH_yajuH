@@ -2,8 +2,8 @@
 title = "008"
 
 +++
-asmā́kam indra éhi no  
-rátham avā púraṃdhiyā  
-vayáṃ śaviṣṭha vā́riyaṃ  
-diví śrávo dadhīmahi  
-diví stómam manāmahe  
+अस्मा꣡कम् इन्द्र ए꣡हि नो  
+र꣡थम् अवा पु꣡रंधिया  
+वयं꣡ शविष्ठ वा꣡रियं  
+दिवि꣡ श्र꣡वो दधीमहि  
+दिवि꣡ स्तो꣡मम् मनामहे  

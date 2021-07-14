@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yā́ sujūrṇíḥ śráyaṇiḥ+ sumnáāpir  
-hradécakṣur ná granthínī caraṇyúḥ  
-tā́ añjáyo aruṇáyo ná sasruḥ  
-śriyé gā́vo ná dhenávo 'navanta  
+या꣡ सुजूर्णिः꣡ श्र꣡यणिः+ सुम्न꣡आपिर्  
+ह्रदे꣡चक्षुर् न꣡ ग्रन्थि꣡नी चरण्युः꣡  
+ता꣡ अञ्ज꣡यो अरुण꣡यो न꣡ सस्रुः  
+श्रिये꣡ गा꣡वो न꣡ धेन꣡वो ऽनवन्त  

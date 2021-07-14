@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ráthaṃ yuñjate marútaḥ śubhé sukháṃ  
-śū́ro ná mitrāvaruṇā gáviṣṭiṣu  
-rájāṃsi citrā́ ví caranti tanyávo  
-diváḥ samrājā páyasā na ukṣatam  
+र꣡थं युञ्जते मरु꣡तः शुभे꣡ सुखं꣡  
+शू꣡रो न꣡ मित्रावरुणा ग꣡विष्टिषु  
+र꣡जांसि चित्रा꣡ वि꣡ चरन्ति तन्य꣡वो  
+दिवः꣡ सम्राजा प꣡यसा न उक्षतम्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá ū dróṇe hárayaḥ kárma agman  
-punānā́sa ŕ̥jiyanto abhūvan  
-índro no asyá pūrviyáḥ papīyād  
-dyukṣó mádasya somiyásya rā́jā  
+प्र꣡ ऊ द्रो꣡णे ह꣡रयः क꣡र्म अग्मन्  
+पुनाना꣡स ŕ̥जियन्तो अभूवन्  
+इ꣡न्द्रो नो अस्य꣡ पूर्वियः꣡ पपीयाद्  
+द्युक्षो꣡ म꣡दस्य सोमिय꣡स्य रा꣡जा  

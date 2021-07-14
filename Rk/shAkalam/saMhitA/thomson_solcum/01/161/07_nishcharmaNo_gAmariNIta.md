@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-níś cármaṇo gā́m ariṇīta dhītíbhir  
-yā́ járantā yuvaśā́ tā́kr̥ṇotana  
-saúdhanvanā áśvād áśvam atakṣata  
-yuktvā́ rátham úpa devā́m̐ ayātana  
+नि꣡श् च꣡र्मणो गा꣡म् अरिणीत धीति꣡भिर्  
+या꣡ ज꣡रन्ता युवशा꣡ ता꣡कृणोतन  
+सउ꣡धन्वना अ꣡श्वाद् अ꣡श्वम् अतक्षत  
+युक्त्वा꣡ र꣡थम् उ꣡प देवाँ꣡ अयातन  

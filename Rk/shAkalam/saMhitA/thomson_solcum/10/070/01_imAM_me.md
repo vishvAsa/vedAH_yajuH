@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-imā́m me agne samídhaṃ juṣasva  
-iḷás padé práti haryā ghr̥tā́cīm  
-várṣman pr̥thivyā́ḥ sudinatvé áhnām  
-ūrdhvó bhava sukrato devayajyā́  
+इमा꣡म् मे अग्ने समि꣡धं जुषस्व  
+इऌअ꣡स् पदे꣡ प्र꣡ति हर्या घृता꣡चीम्  
+व꣡र्ष्मन् पृथिव्याः꣡ सुदिनत्वे꣡ अ꣡ह्नाम्  
+ऊर्ध्वो꣡ भव सुक्रतो देवयज्या꣡  

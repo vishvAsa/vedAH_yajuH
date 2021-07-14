@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá tú drava pári kóśaṃ ní ṣīda  
-nŕ̥bhiḥ punānó abhí vā́jam arṣa  
-áśvaṃ ná tvā vājínam marjáyanto  
-áchā barhī́ raśanā́bhir nayanti  
+प्र꣡ तु꣡ द्रव प꣡रि को꣡शं नि꣡ षीद  
+न्ŕ̥भिः पुनानो꣡ अभि꣡ वा꣡जम् अर्ष  
+अ꣡श्वं न꣡ त्वा वाजि꣡नम् मर्ज꣡यन्तो  
+अ꣡छा बर्ही꣡ रशना꣡भिर् नयन्ति  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ádhvaryavaś cakr̥vā́ṃso mádhūni  
-prá vāyáve bharata cā́ru śukrám  
-hóteva naḥ prathamáḥ pāhi asyá  
-déva mádhvo rarimā́ te mádāya  
+अ꣡ध्वर्यवश् चकृवां꣡सो म꣡धूनि  
+प्र꣡ वाय꣡वे भरत चा꣡रु शुक्र꣡म्  
+हो꣡तेव नः प्रथमः꣡ पाहि अस्य꣡  
+दे꣡व म꣡ध्वो ररिमा꣡ ते म꣡दाय  

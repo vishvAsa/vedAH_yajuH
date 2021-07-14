@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yá óhate rakṣáso devávītāv  
-acakrébhis tám maruto ní yāta  
-yó vaḥ śámīṃ śaśamānásya níndāt  
-tuchyā́n kā́mān karate siṣvidānáḥ  
+य꣡ ओ꣡हते रक्ष꣡सो देव꣡वीताव्  
+अचक्रे꣡भिस् त꣡म् मरुतो नि꣡ यात  
+यो꣡ वः श꣡मीं शशमान꣡स्य नि꣡न्दात्  
+तुछ्या꣡न् का꣡मान् करते सिष्विदानः꣡  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sá naś citrā́bhir adrivo  
-anavadyā́bhir ūtíbhiḥ  
-ánādhr̥ṣṭābhir ā́ gahi  
+स꣡ नश् चित्रा꣡भिर् अद्रिवो  
+अनवद्या꣡भिर् ऊति꣡भिः  
+अ꣡नाधृष्टाभिर् आ꣡ गहि  

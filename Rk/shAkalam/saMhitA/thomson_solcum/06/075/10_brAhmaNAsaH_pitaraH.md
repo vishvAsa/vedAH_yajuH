@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-brā́hmaṇāsaḥ pítaraḥ sómiyāsaḥ  
-śivé no dyā́vāpr̥thivī́ anehásā  
-pūṣā́ naḥ pātu duritā́d r̥tāvr̥dho  
-rákṣā mā́kir no agháśaṃsa īśata  
+ब्रा꣡ह्मणासः पि꣡तरः सो꣡मियासः  
+शिवे꣡ नो द्या꣡वापृथिवी꣡ अनेह꣡सा  
+पूषा꣡ नः पातु दुरिता꣡द् ऋतावृधो  
+र꣡क्षा मा꣡किर् नो अघ꣡शंस ईशत  

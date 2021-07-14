@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-táva drapsā́ udaprúta  
-índram mádāya vāvr̥dhuḥ  
-tuvā́ṃ devā́so amŕ̥tāya kám papuḥ  
+त꣡व द्रप्सा꣡ उदप्रु꣡त  
+इ꣡न्द्रम् म꣡दाय वावृधुः  
+तुवां꣡ देवा꣡सो अम्ŕ̥ताय क꣡म् पपुः  

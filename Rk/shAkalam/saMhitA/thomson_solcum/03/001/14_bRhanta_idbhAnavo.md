@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-br̥hánta íd bhānávo bhā́r̥jīkam  
-agníṃ sacanta vidyúto ná śukrā́ḥ  
-gúheva vr̥ddháṃ sádasi své antár  
-apārá ūrvé amŕ̥taṃ dúhānāḥ  
+बृह꣡न्त इ꣡द् भान꣡वो भा꣡ऋजीकम्  
+अग्निं꣡ सचन्त विद्यु꣡तो न꣡ शुक्राः꣡  
+गु꣡हेव वृद्धं꣡ स꣡दसि स्वे꣡ अन्त꣡र्  
+अपार꣡ ऊर्वे꣡ अम्ŕ̥तं दु꣡हानाः  

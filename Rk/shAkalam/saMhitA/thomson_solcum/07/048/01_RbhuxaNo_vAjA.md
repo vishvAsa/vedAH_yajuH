@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ŕ̥bhukṣaṇo · vājā mādáyadhvam  
-asmé naro maghavānaḥ sutásya  
-ā́ vo arvā́caḥ krátavo ná yātā́ṃ  
-víbhvo ráthaṃ náriyaṃ vartayantu  
+ŕ̥भुक्षणो · वाजा माद꣡यध्वम्  
+अस्मे꣡ नरो मघवानः सुत꣡स्य  
+आ꣡ वो अर्वा꣡चः क्र꣡तवो न꣡ यातां꣡  
+वि꣡भ्वो र꣡थं न꣡रियं वर्तयन्तु  

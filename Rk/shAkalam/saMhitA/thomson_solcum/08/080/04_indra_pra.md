@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-índra prá ṇo rátham ava  
-paścā́c cit sántam adrivaḥ  
-purástād enam me kr̥dhi  
+इ꣡न्द्र प्र꣡ णो र꣡थम् अव  
+पश्चा꣡च् चित् स꣡न्तम् अद्रिवः  
+पुर꣡स्ताद् एनम् मे कृधि  

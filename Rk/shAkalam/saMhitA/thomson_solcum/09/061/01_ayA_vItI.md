@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ayā́ vītī́ pári srava  
-yás ta indo mádeṣu ā́  
-avā́han navatī́r náva  
+अया꣡ वीती꣡ प꣡रि स्रव  
+य꣡स् त इन्दो म꣡देषु आ꣡  
+अवा꣡हन् नवती꣡र् न꣡व  

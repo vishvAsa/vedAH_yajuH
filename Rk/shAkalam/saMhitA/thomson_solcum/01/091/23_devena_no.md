@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-devéna no mánasā deva soma  
-rāyó bhāgáṃ sahasāvann abhí yudhya  
-mā́ tvā́ tanad ī́śiṣe vīríyasya  
-ubháyebhyaḥ prá cikitsā gáviṣṭau  
+देवे꣡न नो म꣡नसा देव सोम  
+रायो꣡ भागं꣡ सहसावन्न् अभि꣡ युध्य  
+मा꣡ त्वा꣡ तनद् ई꣡शिषे वीरि꣡यस्य  
+उभ꣡येभ्यः प्र꣡ चिकित्सा ग꣡विष्टौ  

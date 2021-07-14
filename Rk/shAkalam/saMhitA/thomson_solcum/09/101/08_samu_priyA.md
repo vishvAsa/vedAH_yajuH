@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-sám u priyā́ anūṣata  
-gā́vo mádāya ghŕ̥ṣvayaḥ  
-sómāsaḥ kr̥ṇvate patháḥ  
-pávamānāsa índavaḥ  
+स꣡म् उ प्रिया꣡ अनूषत  
+गा꣡वो म꣡दाय घ्ŕ̥ष्वयः  
+सो꣡मासः कृण्वते पथः꣡  
+प꣡वमानास इ꣡न्दवः  

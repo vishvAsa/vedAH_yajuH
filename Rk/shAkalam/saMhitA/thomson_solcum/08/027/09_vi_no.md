@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ví no devāso adruho  
-áchidraṃ śárma yachata  
-ná yád dūrā́d vasavo nū́ cid ántito  
-várūtham ādadhárṣati  
+वि꣡ नो देवासो अद्रुहो  
+अ꣡छिद्रं श꣡र्म यछत  
+न꣡ य꣡द् दूरा꣡द् वसवो नू꣡ चिद् अ꣡न्तितो  
+व꣡रूथम् आदध꣡र्षति  

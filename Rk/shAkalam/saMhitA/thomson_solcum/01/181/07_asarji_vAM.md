@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ásarji vāṃ sthávirā vedhasā gī́r  
-bāḷhé aśvinā trẽdhā́ kṣárantī  
-úpastutāv avataṃ nā́dhamānaṃ  
-yā́mann áyāmañ chr̥ṇutaṃ hávam me  
+अ꣡सर्जि वां स्थ꣡विरा वेधसा गी꣡र्  
+बाऌहे꣡ अश्विना त्र्ẽधा꣡ क्ष꣡रन्ती  
+उ꣡पस्तुताव् अवतं ना꣡धमानं  
+या꣡मन्न् अ꣡यामञ् छृणुतं ह꣡वम् मे  

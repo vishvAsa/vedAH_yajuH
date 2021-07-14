@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kásya bráhmāṇi jujuṣur yúvānaḥ  
-kó adhvaré marúta ā́ vavarta  
-śyenā́m̐ iva dhrájato antárikṣe  
-kéna mahā́ mánasā rīramāma  
+क꣡स्य ब्र꣡ह्माणि जुजुषुर् यु꣡वानः  
+को꣡ अध्वरे꣡ मरु꣡त आ꣡ ववर्त  
+श्येनाँ꣡ इव ध्र꣡जतो अन्त꣡रिक्षे  
+के꣡न महा꣡ म꣡नसा रीरमाम  

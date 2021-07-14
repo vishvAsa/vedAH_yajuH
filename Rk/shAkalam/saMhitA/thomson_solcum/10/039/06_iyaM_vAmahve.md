@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-iyáṃ vām ahve śr̥ṇutám me aśvinā  
-putrā́yeva pitárā máhya° śikṣatam  
-ánāpir ájñā asajātiyā́matiḥ  
-purā́ tásyā abhíśaster áva spr̥tam  
+इयं꣡ वाम् अह्वे शृणुत꣡म् मे अश्विना  
+पुत्रा꣡येव पित꣡रा म꣡ह्य° शिक्षतम्  
+अ꣡नापिर् अ꣡ज्ञा असजातिया꣡मतिः  
+पुरा꣡ त꣡स्या अभि꣡शस्तेर् अ꣡व स्पृतम्  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-víśvasya hí pracetasā  
-váruṇa mítra rā́jathaḥ  
-īśānā́ pipyataṃ dhíyaḥ  
+वि꣡श्वस्य हि꣡ प्रचेतसा  
+व꣡रुण मि꣡त्र रा꣡जथः  
+ईशाना꣡ पिप्यतं धि꣡यः  

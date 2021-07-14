@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-eṣá devó vipanyúbhiḥ  
-pávamāna r̥tāyúbhiḥ  
-hárir vā́jāya mr̥jyate  
+एष꣡ देवो꣡ विपन्यु꣡भिः  
+प꣡वमान ऋतायु꣡भिः  
+ह꣡रिर् वा꣡जाय मृज्यते  

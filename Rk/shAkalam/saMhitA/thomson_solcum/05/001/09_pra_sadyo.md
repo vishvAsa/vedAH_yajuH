@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-prá sadyó agne áti eṣi anyā́n  
-āvír yásmai cā́rutamo babhū́tha  
-īḷéniyo vapuṣíyo vibhā́vā  
-priyó viśā́m átithir mā́nuṣīṇām  
+प्र꣡ सद्यो꣡ अग्ने अ꣡ति एषि अन्या꣡न्  
+आवि꣡र् य꣡स्मै चा꣡रुतमो बभू꣡थ  
+ईऌए꣡नियो वपुषि꣡यो विभा꣡वा  
+प्रियो꣡ विशा꣡म् अ꣡तिथिर् मा꣡नुषीणाम्  

@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-utā́dáḥ paruṣé gávi  
-sū́raś cakráṃ hiraṇyáyam  
-ní airayad rathī́tamaḥ  
+उता꣡दः꣡ परुषे꣡ ग꣡वि  
+सू꣡रश् चक्रं꣡ हिरण्य꣡यम्  
+नि꣡ ऐरयद् रथी꣡तमः  

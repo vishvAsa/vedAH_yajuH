@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-sutambharó yájamānasya sátpatir  
-víśvāsām ū́dhaḥ sá dhiyā́m udáñcanaḥ  
-bhárad dhenū́ rásavac chiśriye páyo  
-anubruvāṇó ádhi eti ná svapán  
+सुतम्भरो꣡ य꣡जमानस्य स꣡त्पतिर्  
+वि꣡श्वासाम् ऊ꣡धः स꣡ धिया꣡म् उद꣡ञ्चनः  
+भ꣡रद् धेनू꣡ र꣡सवच् छिश्रिये प꣡यो  
+अनुब्रुवाणो꣡ अ꣡धि एति न꣡ स्वप꣡न्  

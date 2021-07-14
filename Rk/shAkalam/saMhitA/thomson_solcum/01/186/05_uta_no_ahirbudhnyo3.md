@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-utá no áhir budhníyo máyas kaḥ  
-śíśuṃ ná pipyúṣīva veti síndhuḥ  
-yéna nápātam apã́ṃ junā́ma  
-manojúvo vŕ̥ṣaṇo yáṃ váhanti  
+उत꣡ नो अ꣡हिर् बुध्नि꣡यो म꣡यस् कः  
+शि꣡शुं न꣡ पिप्यु꣡षीव वेति सि꣡न्धुः  
+ये꣡न न꣡पातम् अप्ãं꣡ जुना꣡म  
+मनोजु꣡वो व्ŕ̥षणो यं꣡ व꣡हन्ति  

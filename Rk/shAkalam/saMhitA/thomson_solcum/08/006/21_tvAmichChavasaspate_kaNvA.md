@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-tuvā́m íc chavasas pate  
-káṇvā ukthéna vāvr̥dhuḥ  
-tuvā́ṃ sutā́sa índavaḥ  
+तुवा꣡म् इ꣡च् छवसस् पते  
+क꣡ण्वा उक्थे꣡न वावृधुः  
+तुवां꣡ सुता꣡स इ꣡न्दवः  

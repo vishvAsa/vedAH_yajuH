@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ápehi manasas pate  
-ápa krāma paráś cara  
-paró nírr̥tyā ā́ cakṣva  
-bahudhā́ jī́vato mánaḥ  
+अ꣡पेहि मनसस् पते  
+अ꣡प क्राम पर꣡श् चर  
+परो꣡ नि꣡रृत्या आ꣡ चक्ष्व  
+बहुधा꣡ जी꣡वतो म꣡नः  

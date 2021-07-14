@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ásūta pŕ̥śnir mahaté ráṇāya  
-tveṣám ayā́sām marútām ánīkam  
-té sapsarā́so 'janayanta ábhvam  
-ā́d ít svadhā́m iṣirā́m páry apaśyan  
+अ꣡सूत प्ŕ̥श्निर् महते꣡ र꣡णाय  
+त्वेष꣡म् अया꣡साम् मरु꣡ताम् अ꣡नीकम्  
+ते꣡ सप्सरा꣡सो ऽजनयन्त अ꣡भ्वम्  
+आ꣡द् इ꣡त् स्वधा꣡म् इषिरा꣡म् प꣡र्य् अपश्यन्  

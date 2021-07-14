@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-devaír no devī́ áditir ní pātu  
-devás trātā́ trāyatām áprayuchan  
-nahí mitrásya váruṇasya dhāsím  
-árhāmasi pramíyaṃ sā́nu agnéḥ  
+देवइ꣡र् नो देवी꣡ अ꣡दितिर् नि꣡ पातु  
+देव꣡स् त्राता꣡ त्रायताम् अ꣡प्रयुछन्  
+नहि꣡ मित्र꣡स्य व꣡रुणस्य धासि꣡म्  
+अ꣡र्हामसि प्रमि꣡यं सा꣡नु अग्नेः꣡  

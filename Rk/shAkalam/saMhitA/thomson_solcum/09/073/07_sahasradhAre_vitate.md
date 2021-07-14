@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sahásradhāre vítate pavítra ā́  
-vā́cam punanti kaváyo manīṣíṇaḥ  
-rudrā́sa eṣām iṣirā́so adrúha  
-spáśaḥ suáñcaḥ sudŕ̥śo nr̥cákṣasaḥ  
+सह꣡स्रधारे वि꣡तते पवि꣡त्र आ꣡  
+वा꣡चम् पुनन्ति कव꣡यो मनीषि꣡णः  
+रुद्रा꣡स एषाम् इषिरा꣡सो अद्रु꣡ह  
+स्प꣡शः सुअ꣡ञ्चः सुद्ŕ̥शो नृच꣡क्षसः  

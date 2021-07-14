@@ -2,9 +2,9 @@
 title = "011"
 
 +++
-táṃ śiśītā suadhvaráṃ  
-satyáṃ sátvānam r̥tvíyam  
-utó nú cid yá óhata  
-āṇḍā́ śúṣṇasya bhédati  
-ájaiḥ súvarvatīr apó  
-nábhantām anyaké same  
+तं꣡ शिशीता सुअध्वरं꣡  
+सत्यं꣡ स꣡त्वानम् ऋत्वि꣡यम्  
+उतो꣡ नु꣡ चिद् य꣡ ओ꣡हत  
+आण्डा꣡ शु꣡ष्णस्य भे꣡दति  
+अ꣡जैः सु꣡वर्वतीर् अपो꣡  
+न꣡भन्ताम् अन्यके꣡ समे  

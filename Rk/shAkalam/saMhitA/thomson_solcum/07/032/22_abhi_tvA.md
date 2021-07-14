@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-abhí tvā śūra nonumo  
-ádugdhā iva dhenávaḥ  
-ī́śānam asyá jágataḥ suvardŕ̥śam  
-ī́śānam indra tasthúṣaḥ  
+अभि꣡ त्वा शूर नोनुमो  
+अ꣡दुग्धा इव धेन꣡वः  
+ई꣡शानम् अस्य꣡ ज꣡गतः सुवर्द्ŕ̥शम्  
+ई꣡शानम् इन्द्र तस्थु꣡षः  

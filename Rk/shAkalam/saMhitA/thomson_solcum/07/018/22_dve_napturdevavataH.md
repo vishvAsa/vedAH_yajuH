@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-duvé náptur devávataḥ śaté gór  
-duvā́ ráthā vadhū́mantā sudā́saḥ  
-árhann agne paijavanásya dā́naṃ  
-hóteva sádma pári emi rébhan  
+दुवे꣡ न꣡प्तुर् देव꣡वतः शते꣡ गो꣡र्  
+दुवा꣡ र꣡था वधू꣡मन्ता सुदा꣡सः  
+अ꣡र्हन्न् अग्ने पैजवन꣡स्य दा꣡नं  
+हो꣡तेव स꣡द्म प꣡रि एमि रे꣡भन्  

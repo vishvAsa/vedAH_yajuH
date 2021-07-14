@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-āpaprúṣī pā́rthivāni  
-urú rájo antárikṣam  
-sárasvatī nidás pātu  
+आपप्रु꣡षी पा꣡र्थिवानि  
+उरु꣡ र꣡जो अन्त꣡रिक्षम्  
+स꣡रस्वती निद꣡स् पातु  

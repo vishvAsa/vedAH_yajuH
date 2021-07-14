@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-ā́ no bhara bhágam indra dyumántaṃ  
-ní te deṣṇásya dhīmahi prareké  
-ūrvá iva paprathe kā́mo asmé  
-tám ā́ pr̥ṇa vasupate vásūnām  
+आ꣡ नो भर भ꣡गम् इन्द्र द्युम꣡न्तं  
+नि꣡ ते देष्ण꣡स्य धीमहि प्ररेके꣡  
+ऊर्व꣡ इव पप्रथे का꣡मो अस्मे꣡  
+त꣡म् आ꣡ पृण वसुपते व꣡सूनाम्  

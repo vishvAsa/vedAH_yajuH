@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yád vā́hiṣṭhaṃ tád agnáye  
-br̥hád arca vibhāvaso  
-máhiṣīva tuvád rayís  
-tuvád vā́jā úd īrate  
+य꣡द् वा꣡हिष्ठं त꣡द् अग्न꣡ये  
+बृह꣡द् अर्च विभावसो  
+म꣡हिषीव तुव꣡द् रयि꣡स्  
+तुव꣡द् वा꣡जा उ꣡द् ईरते  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-agníṃ vo vr̥dhántam  
-adhvarā́ṇām purūtámam  
-áchā náptre sáhasvate  
+अग्निं꣡ वो वृध꣡न्तम्  
+अध्वरा꣡णाम् पुरूत꣡मम्  
+अ꣡छा न꣡प्त्रे स꣡हस्वते  

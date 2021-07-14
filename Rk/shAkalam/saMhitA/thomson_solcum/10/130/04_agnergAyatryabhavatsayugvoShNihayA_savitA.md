@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-agnér gāyatrī́ abhavat sayúgvā  
-uṣṇíhayā savitā́ sám babhūva  
-anuṣṭúbhā sóma ukthaír máhasvān  
-bŕ̥haspáter br̥hatī́ vā́cam āvat  
+अग्ने꣡र् गायत्री꣡ अभवत् सयु꣡ग्वा  
+उष्णि꣡हया सविता꣡ स꣡म् बभूव  
+अनुष्टु꣡भा सो꣡म उक्थइ꣡र् म꣡हस्वान्  
+ब्ŕ̥हस्प꣡तेर् बृहती꣡ वा꣡चम् आवत्  

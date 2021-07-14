@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-váyaś cit te patatríṇo  
-dvipác cátuṣpad arjuni  
-úṣaḥ prā́rann r̥tū́m̐r ánu  
-divó ántebhiyas pári  
+व꣡यश् चित् ते पतत्रि꣡णो  
+द्विप꣡च् च꣡तुष्पद् अर्जुनि  
+उ꣡षः प्रा꣡रन्न् ऋतूँ꣡र् अ꣡नु  
+दिवो꣡ अ꣡न्तेभियस् प꣡रि  

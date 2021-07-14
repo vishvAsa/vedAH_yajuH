@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tvám agne tváṣṭā vidhaté suvī́riyaṃ  
-táva gnā́vo mitramahaḥ sajātíyam  
-tvám āśuhémā rariṣe suáśviyaṃ  
-tuváṃ narā́ṃ śárdho asi purūvásuḥ  
+त्व꣡म् अग्ने त्व꣡ष्टा विधते꣡ सुवी꣡रियं  
+त꣡व ग्ना꣡वो मित्रमहः सजाति꣡यम्  
+त्व꣡म् आशुहे꣡मा ररिषे सुअ꣡श्वियं  
+तुवं꣡ नरां꣡ श꣡र्धो असि पुरूव꣡सुः  

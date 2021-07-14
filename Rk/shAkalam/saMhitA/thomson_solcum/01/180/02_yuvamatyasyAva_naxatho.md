@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yuvám átyasya áva nakṣatho yád  
-vípatmano náriyasya práyajyoḥ  
-svásā yád vāṃ viśvagūrtī bhárāti  
-vā́jāya ī́ṭṭe madhupāv iṣé ca  
+युव꣡म् अ꣡त्यस्य अ꣡व नक्षथो य꣡द्  
+वि꣡पत्मनो न꣡रियस्य प्र꣡यज्योः  
+स्व꣡सा य꣡द् वां विश्वगूर्ती भ꣡राति  
+वा꣡जाय ई꣡ट्टे मधुपाव् इषे꣡ च  

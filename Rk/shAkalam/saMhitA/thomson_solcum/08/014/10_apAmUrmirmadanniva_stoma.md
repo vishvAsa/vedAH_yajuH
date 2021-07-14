@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-apā́m ūrmír mádann iva  
-stóma indrājirāyate  
-ví te mádā arājiṣuḥ  
+अपा꣡म् ऊर्मि꣡र् म꣡दन्न् इव  
+स्तो꣡म इन्द्राजिरायते  
+वि꣡ ते म꣡दा अराजिषुः  

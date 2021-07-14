@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yújaṃ hí mā́m ákr̥thā ā́d íd indra  
-śíro dāsásya námucer mathāyán  
-áśmānaṃ cit svaríyaṃ vártamānam  
-prá cakríyeva ródasī marúdbhyaḥ  
+यु꣡जं हि꣡ मा꣡म् अ꣡कृथा आ꣡द् इ꣡द् इन्द्र  
+शि꣡रो दास꣡स्य न꣡मुचेर् मथाय꣡न्  
+अ꣡श्मानं चित् स्वरि꣡यं व꣡र्तमानम्  
+प्र꣡ चक्रि꣡येव रो꣡दसी मरु꣡द्भ्यः  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-saptábhiḥ putraír áditir  
-úpa praít pūrviyáṃ yugám  
-prajā́yai mr̥tyáve tuvat  
-púnar mārtāṇḍám ā́bharat  
+सप्त꣡भिः पुत्रइ꣡र् अ꣡दितिर्  
+उ꣡प प्रइ꣡त् पूर्वियं꣡ युग꣡म्  
+प्रजा꣡यै मृत्य꣡वे तुवत्  
+पु꣡नर् मार्ताण्ड꣡म् आ꣡भरत्  

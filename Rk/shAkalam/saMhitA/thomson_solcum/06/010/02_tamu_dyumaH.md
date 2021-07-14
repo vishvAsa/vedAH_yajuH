@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tám u dyumaḥ puruaṇīka hotar  
-ágne agníbhir mánuṣa idhānáḥ  
-stómaṃ yám asmai mamáteva śūṣáṃ  
-ghr̥táṃ ná śúci matáyaḥ pavante  
+त꣡म् उ द्युमः पुरुअणीक होतर्  
+अ꣡ग्ने अग्नि꣡भिर् म꣡नुष इधानः꣡  
+स्तो꣡मं य꣡म् अस्मै मम꣡तेव शूषं꣡  
+घृतं꣡ न꣡ शु꣡चि मत꣡यः पवन्ते  

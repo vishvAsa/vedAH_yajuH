@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-suvī́rāso vayáṃ dhánā  
-jáyema soma mīḍhuvaḥ  
-punānó vardha no gíraḥ  
+सुवी꣡रासो वयं꣡ ध꣡ना  
+ज꣡येम सोम मीढुवः  
+पुनानो꣡ वर्ध नो गि꣡रः  

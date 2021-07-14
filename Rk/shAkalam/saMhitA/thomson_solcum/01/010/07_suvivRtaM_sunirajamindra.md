@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-suvivŕ̥taṃ sunirájam  
-índra tvā́dātam íd yáśaḥ  
-gávām ápa vrajáṃ vr̥dhi  
-kr̥ṇuṣvá rā́dho adrivaḥ  
+सुविव्ŕ̥तं सुनिर꣡जम्  
+इ꣡न्द्र त्वा꣡दातम् इ꣡द् य꣡शः  
+ग꣡वाम् अ꣡प व्रजं꣡ वृधि  
+कृणुष्व꣡ रा꣡धो अद्रिवः  

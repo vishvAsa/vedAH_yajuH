@@ -2,5 +2,5 @@
 title = "025"
 
 +++
-máhi rā́dho viśvájanyaṃ dádhānān  
-bharádvājān sārñjayó abhy àyaṣṭa  
+म꣡हि रा꣡धो विश्व꣡जन्यं द꣡धानान्  
+भर꣡द्वाजान् सार्ञ्जयो꣡ अभ्य् अ᳡यष्ट  

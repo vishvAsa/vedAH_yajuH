@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-prá nū́ sá mártaḥ śávasā jánām̐ áti  
-tasthaú va ūtī́ maruto yám ā́vata  
-árvadbhir vā́jam bharate dhánā nŕ̥bhir  
-āpŕ̥chiyaṃ krátum ā́ kṣeti púṣyati  
+प्र꣡ नू꣡ स꣡ म꣡र्तः श꣡वसा ज꣡नाँ अ꣡ति  
+तस्थउ꣡ व ऊती꣡ मरुतो य꣡म् आ꣡वत  
+अ꣡र्वद्भिर् वा꣡जम् भरते ध꣡ना न्ŕ̥भिर्  
+आप्ŕ̥छियं क्र꣡तुम् आ꣡ क्षेति पु꣡ष्यति  

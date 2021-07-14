@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-prayājā́n me anuyājā́ṃś ca kévalān  
-ū́rjasvantaṃ havíṣo datta bhāgám  
-ghr̥táṃ cāpā́m púruṣaṃ caúṣadhīnām  
-agnéś ca dīrghám ā́yur astu devāḥ  
+प्रयाजा꣡न् मे अनुयाजां꣡श् च के꣡वलान्  
+ऊ꣡र्जस्वन्तं हवि꣡षो दत्त भाग꣡म्  
+घृतं꣡ चापा꣡म् पु꣡रुषं चउ꣡षधीनाम्  
+अग्ने꣡श् च दीर्घ꣡म् आ꣡युर् अस्तु देवाः  

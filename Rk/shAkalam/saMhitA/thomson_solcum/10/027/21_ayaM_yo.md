@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-ayáṃ yó vájraḥ purudhā́ vívr̥tto  
-aváḥ sū́ryasya br̥hatáḥ púrīṣāt  
-śráva íd enā́ paró anyád asti  
-tád avyathī́ jarimā́ṇas taranti  
+अयं꣡ यो꣡ व꣡ज्रः पुरुधा꣡ वि꣡वृत्तो  
+अवः꣡ सू꣡र्यस्य बृहतः꣡ पु꣡रीषात्  
+श्र꣡व इ꣡द् एना꣡ परो꣡ अन्य꣡द् अस्ति  
+त꣡द् अव्यथी꣡ जरिमा꣡णस् तरन्ति  

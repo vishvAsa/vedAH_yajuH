@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-bhárad yádi vír áto vévijānaḥ  
-pathórúṇā mánojavā asarji  
-tū́yaṃ yayau mádhunā somiyéna  
-utá śrávo vivide śyenó átra  
+भ꣡रद् य꣡दि वि꣡र् अ꣡तो वे꣡विजानः  
+पथो꣡रु꣡णा म꣡नोजवा असर्जि  
+तू꣡यं ययौ म꣡धुना सोमिये꣡न  
+उत꣡ श्र꣡वो विविदे श्येनो꣡ अ꣡त्र  

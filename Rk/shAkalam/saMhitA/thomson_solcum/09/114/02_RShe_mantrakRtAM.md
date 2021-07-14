@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-ŕ̥ṣe mantrakŕ̥tāṃ stómaiḥ  
-káśyapodvardháyan gíraḥ  
-sómaṃ namasya rā́jānaṃ  
-yó jajñé vīrúdhām pátir  
-índrāyendo pári srava  
+ŕ̥षे मन्त्रक्ŕ̥तां स्तो꣡मैः  
+क꣡श्यपोद्वर्ध꣡यन् गि꣡रः  
+सो꣡मं नमस्य रा꣡जानं  
+यो꣡ जज्ञे꣡ वीरु꣡धाम् प꣡तिर्  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

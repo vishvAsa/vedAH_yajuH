@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-dáśa kṣípo yuñjate bāhū́ ádriṃ  
-sómasya yā́ śamitā́rā suhástā  
-mádhvo rásaṃ sugábhastir giriṣṭhā́ṃ  
-cániścadad duduhe śukrám aṃśúḥ  
+द꣡श क्षि꣡पो युञ्जते बाहू꣡ अ꣡द्रिं  
+सो꣡मस्य या꣡ शमिता꣡रा सुह꣡स्ता  
+म꣡ध्वो र꣡सं सुग꣡भस्तिर् गिरिष्ठां꣡  
+च꣡निश्चदद् दुदुहे शुक्र꣡म् अंशुः꣡  

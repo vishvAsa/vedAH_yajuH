@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-kás te máda indara+ rántiyo bhūd  
-dúro gíro abhí ugró ví dhāva  
-kád vā́ho arvā́g úpa mā manīṣā́  
-ā́ tvā śakyām upamáṃ rā́dho ánnaiḥ  
+क꣡स् ते म꣡द इन्दर+ र꣡न्तियो भूद्  
+दु꣡रो गि꣡रो अभि꣡ उग्रो꣡ वि꣡ धाव  
+क꣡द् वा꣡हो अर्वा꣡ग् उ꣡प मा मनीषा꣡  
+आ꣡ त्वा शक्याम् उपमं꣡ रा꣡धो अ꣡न्नैः  

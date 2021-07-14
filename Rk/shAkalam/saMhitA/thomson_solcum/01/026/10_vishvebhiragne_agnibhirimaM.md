@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-víśvebhir agne agníbhir  
-imáṃ yajñám idáṃ vácaḥ  
-cáno dhāḥ sahaso yaho  
+वि꣡श्वेभिर् अग्ने अग्नि꣡भिर्  
+इमं꣡ यज्ञ꣡म् इदं꣡ व꣡चः  
+च꣡नो धाः सहसो यहो  

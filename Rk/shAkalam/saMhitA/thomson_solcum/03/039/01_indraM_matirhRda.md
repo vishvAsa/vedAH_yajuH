@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índram matír hr̥dá ā́ vacyámānā  
-áchā pátiṃ stómataṣṭā jigāti  
-yā́ jā́gr̥vir vidáthe śasyámānā  
-índra yát te jā́yate viddhí tásya  
+इ꣡न्द्रम् मति꣡र् हृद꣡ आ꣡ वच्य꣡माना  
+अ꣡छा प꣡तिं स्तो꣡मतष्टा जिगाति  
+या꣡ जा꣡गृविर् विद꣡थे शस्य꣡माना  
+इ꣡न्द्र य꣡त् ते जा꣡यते विद्धि꣡ त꣡स्य  

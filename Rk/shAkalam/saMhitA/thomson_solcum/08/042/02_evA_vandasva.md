@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-evā́ vandasva váruṇam br̥hántaṃ  
-namasyā́ dhī́ram amŕ̥tasya gopā́m  
-sá naḥ śárma trivárūthaṃ ví yaṃsat  
-pātáṃ no dyāvāpr̥thivī upásthe  
+एवा꣡ वन्दस्व व꣡रुणम् बृह꣡न्तं  
+नमस्या꣡ धी꣡रम् अम्ŕ̥तस्य गोपा꣡म्  
+स꣡ नः श꣡र्म त्रिव꣡रूथं वि꣡ यंसत्  
+पातं꣡ नो द्यावापृथिवी उप꣡स्थे  

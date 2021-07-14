@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yūyám asmábhyaṃ dhiṣáṇābhiyas pári  
-vidvā́ṃso víśvā náriyāṇi bhójanā  
-dyumántaṃ vā́jaṃ vŕ̥ṣaśuṣmam uttamám  
-ā́ no rayím r̥bhavas takṣatā́ váyaḥ  
+यूय꣡म् अस्म꣡भ्यं धिष꣡णाभियस् प꣡रि  
+विद्वां꣡सो वि꣡श्वा न꣡रियाणि भो꣡जना  
+द्युम꣡न्तं वा꣡जं व्ŕ̥षशुष्मम् उत्तम꣡म्  
+आ꣡ नो रयि꣡म् ऋभवस् तक्षता꣡ व꣡यः  

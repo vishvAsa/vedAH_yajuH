@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yé te pavítram ūrmáyo  
-abhikṣáranti dhā́rayā  
-tébhir naḥ soma mr̥̄ḷaya+  
+ये꣡ ते पवि꣡त्रम् ऊर्म꣡यो  
+अभिक्ष꣡रन्ति धा꣡रया  
+ते꣡भिर् नः सोम मॄऌअय+  

@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-abhiā́ram íd ádrayo  
-níṣiktam púṣkare mádhu  
-avatásya visárjane  
+अभिआ꣡रम् इ꣡द् अ꣡द्रयो  
+नि꣡षिक्तम् पु꣡ष्करे म꣡धु  
+अवत꣡स्य विस꣡र्जने  

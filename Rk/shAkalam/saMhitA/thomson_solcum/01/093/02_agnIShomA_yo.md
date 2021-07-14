@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ágnīṣomā yó adyá vām  
-idáṃ vácaḥ saparyáti  
-tásmai dhattaṃ suvī́riyaṃ  
-gávām póṣaṃ suáśviyam  
+अ꣡ग्नीषोमा यो꣡ अद्य꣡ वाम्  
+इदं꣡ व꣡चः सपर्य꣡ति  
+त꣡स्मै धत्तं सुवी꣡रियं  
+ग꣡वाम् पो꣡षं सुअ꣡श्वियम्  

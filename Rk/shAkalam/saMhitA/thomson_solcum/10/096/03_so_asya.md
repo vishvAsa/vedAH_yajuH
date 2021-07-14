@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-só asya vájro hárito yá āyasó  
-hárir níkāmo hárir ā́ gábhastiyoḥ  
-dyumnī́ suśipró hárimanyusāyaka  
-índre ní rūpā́ háritā mimikṣire  
+सो꣡ अस्य व꣡ज्रो ह꣡रितो य꣡ आयसो꣡  
+ह꣡रिर् नि꣡कामो ह꣡रिर् आ꣡ ग꣡भस्तियोः  
+द्युम्नी꣡ सुशिप्रो꣡ ह꣡रिमन्युसायक  
+इ꣡न्द्रे नि꣡ रूपा꣡ ह꣡रिता मिमिक्षिरे  

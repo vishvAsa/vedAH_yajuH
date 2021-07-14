@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-yá imé ródasī mahī́  
-samīcī́ samájagrabhīt  
-támobhir indra táṃ guhaḥ  
+य꣡ इमे꣡ रो꣡दसी मही꣡  
+समीची꣡ सम꣡जग्रभीत्  
+त꣡मोभिर् इन्द्र तं꣡ गुहः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yó bhānúbhir vibhā́vā vibhā́ti  
-agnír devébhir r̥tā́vā ájasraḥ  
-ā́ yó vivā́ya sakhiyā́ sákhibhyo  
-áparihvr̥to átiyo ná sáptiḥ  
+यो꣡ भानु꣡भिर् विभा꣡वा विभा꣡ति  
+अग्नि꣡र् देवे꣡भिर् ऋता꣡वा अ꣡जस्रः  
+आ꣡ यो꣡ विवा꣡य सखिया꣡ स꣡खिभ्यो  
+अ꣡परिह्वृतो अ꣡तियो न꣡ स꣡प्तिः  

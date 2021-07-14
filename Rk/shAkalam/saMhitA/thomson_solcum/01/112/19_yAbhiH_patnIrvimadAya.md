@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-yā́bhiḥ pátnīr vimadā́ya niūháthur  
-ā́ gha vā yā́bhir aruṇī́r áśikṣatam  
-yā́bhiḥ sudā́sa ūháthuḥ sudevíyaṃ  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिः प꣡त्नीर् विमदा꣡य निऊह꣡थुर्  
+आ꣡ घ वा या꣡भिर् अरुणी꣡र् अ꣡शिक्षतम्  
+या꣡भिः सुदा꣡स ऊह꣡थुः सुदेवि꣡यं  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

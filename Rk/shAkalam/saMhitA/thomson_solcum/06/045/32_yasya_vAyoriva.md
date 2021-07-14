@@ -2,6 +2,6 @@
 title = "032"
 
 +++
-yásya vāyór iva dravád  
-bhadrā́ rātíḥ sahasríṇī  
-sadyó dānā́ya máṃhate  
+य꣡स्य वायो꣡र् इव द्रव꣡द्  
+भद्रा꣡ रातिः꣡ सहस्रि꣡णी  
+सद्यो꣡ दाना꣡य मं꣡हते  

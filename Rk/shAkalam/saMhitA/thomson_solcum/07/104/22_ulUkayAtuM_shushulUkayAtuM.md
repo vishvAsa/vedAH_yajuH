@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-úlūkayātuṃ śuśulū́kayātuṃ  
-jahí śváyātum utá kókayātum  
-suparṇáyātum utá gŕ̥dhrayātuṃ  
-dr̥ṣádeva prá mr̥ṇa rákṣa indra  
+उ꣡लूकयातुं शुशुलू꣡कयातुं  
+जहि꣡ श्व꣡यातुम् उत꣡ को꣡कयातुम्  
+सुपर्ण꣡यातुम् उत꣡ ग्ŕ̥ध्रयातुं  
+दृष꣡देव प्र꣡ मृण र꣡क्ष इन्द्र  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-svayáṃ yajasva diví deva devā́n  
-kíṃ te pā́kaḥ kr̥ṇavad ápracetāḥ  
-yáthā́yaja r̥túbhir deva devā́n  
-evā́ yajasva tanúvaṃ sujāta  
+स्वयं꣡ यजस्व दिवि꣡ देव देवा꣡न्  
+किं꣡ ते पा꣡कः कृणवद् अ꣡प्रचेताः  
+य꣡था꣡यज ऋतु꣡भिर् देव देवा꣡न्  
+एवा꣡ यजस्व तनु꣡वं सुजात  

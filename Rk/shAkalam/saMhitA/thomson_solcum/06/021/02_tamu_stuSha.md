@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tám u stuṣa índaraṃ+ yó vídāno  
-gírvāhasaṃ · gīrbhír yajñávr̥ddham  
-yásya dívam áti mahnā́ pr̥thivyā́ḥ  
-purumāyásya riricé mahitvám  
+त꣡म् उ स्तुष इ꣡न्दरं+ यो꣡ वि꣡दानो  
+गि꣡र्वाहसं · गीर्भि꣡र् यज्ञ꣡वृद्धम्  
+य꣡स्य दि꣡वम् अ꣡ति मह्ना꣡ पृथिव्याः꣡  
+पुरुमाय꣡स्य रिरिचे꣡ महित्व꣡म्  

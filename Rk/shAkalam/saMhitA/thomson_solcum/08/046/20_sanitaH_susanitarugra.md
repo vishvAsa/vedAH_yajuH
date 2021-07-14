@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-sánitaḥ súsanitar úgra  
-cítra cétiṣṭha sū́nr̥ta  
-prāsáhā samrāṭ sáhuriṃ sáhantam  
-bhujyúṃ vā́jeṣu pū́rviyam  
+स꣡नितः सु꣡सनितर् उ꣡ग्र  
+चि꣡त्र चे꣡तिष्ठ सू꣡नृत  
+प्रास꣡हा सम्राट् स꣡हुरिं स꣡हन्तम्  
+भुज्युं꣡ वा꣡जेषु पू꣡र्वियम्  

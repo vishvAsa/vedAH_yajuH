@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-śatádhāram útsam ákṣīyamāṇaṃ  
-vipaścítam pitáraṃ váktuvānām  
-meḷím mádantam pitarór+ upásthe  
-táṃ rodasī pipr̥taṃ satyavā́cam  
+शत꣡धारम् उ꣡त्सम् अ꣡क्षीयमाणं  
+विपश्चि꣡तम् पित꣡रं व꣡क्तुवानाम्  
+मेऌइ꣡म् म꣡दन्तम् पितरो꣡र्+ उप꣡स्थे  
+तं꣡ रोदसी पिपृतं सत्यवा꣡चम्  

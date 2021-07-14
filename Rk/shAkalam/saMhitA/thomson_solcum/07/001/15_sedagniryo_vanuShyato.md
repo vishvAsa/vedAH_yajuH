@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-séd agnír yó vanuṣyató nipā́ti  
-sameddhā́ram · áṃhasa uruṣyā́t  
-sujātā́saḥ pári caranti vīrā́ḥ  
+से꣡द् अग्नि꣡र् यो꣡ वनुष्यतो꣡ निपा꣡ति  
+समेद्धा꣡रम् · अं꣡हस उरुष्या꣡त्  
+सुजाता꣡सः प꣡रि चरन्ति वीराः꣡  

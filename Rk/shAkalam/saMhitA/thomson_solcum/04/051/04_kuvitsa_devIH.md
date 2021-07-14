@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kuvít sá devīḥ sanáyo návo vā  
-yā́mo babhūyā́d uṣaso vo adyá  
-yénā návagve áṅgire dáśagve  
-saptā́siye revatī revád ūṣá  
+कुवि꣡त् स꣡ देवीः सन꣡यो न꣡वो वा  
+या꣡मो बभूया꣡द् उषसो वो अद्य꣡  
+ये꣡ना न꣡वग्वे अ꣡ङ्गिरे द꣡शग्वे  
+सप्ता꣡सिये रेवती रेव꣡द् ऊष꣡  

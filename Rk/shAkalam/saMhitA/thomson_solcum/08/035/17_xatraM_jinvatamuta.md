@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-kṣatráṃ jinvatam utá jinvataṃ nr̥̄́n  
-hatáṃ rákṣāṃsi sédhatam ámīvāḥ  
-sajóṣasā uṣásā sū́riyeṇa ca  
-sómaṃ sunvató aśvinā  
+क्षत्रं꣡ जिन्वतम् उत꣡ जिन्वतं नॄ꣡न्  
+हतं꣡ र꣡क्षांसि से꣡धतम् अ꣡मीवाः  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+सो꣡मं सुन्वतो꣡ अश्विना  

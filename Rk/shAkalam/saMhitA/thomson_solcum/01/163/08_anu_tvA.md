@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ánu tvā rátho ánu máryo arvann  
-ánu gā́vo ánu bhágaḥ kanī́nām  
-ánu vrā́tāsas táva sakhyám īyur  
-ánu devā́ mamire vīríyaṃ te  
+अ꣡नु त्वा र꣡थो अ꣡नु म꣡र्यो अर्वन्न्  
+अ꣡नु गा꣡वो अ꣡नु भ꣡गः कनी꣡नाम्  
+अ꣡नु व्रा꣡तासस् त꣡व सख्य꣡म् ईयुर्  
+अ꣡नु देवा꣡ ममिरे वीरि꣡यं ते  

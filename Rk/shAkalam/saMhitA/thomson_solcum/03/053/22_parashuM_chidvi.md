@@ -2,7 +2,7 @@
 title = "022"
 
 +++
-paraśúṃ cid ví tapati  
-śimbaláṃ cid ví vr̥ścati  
-ukhā́ cid indra yéṣantī  
-práyastā phénam asyati  
+परशुं꣡ चिद् वि꣡ तपति  
+शिम्बलं꣡ चिद् वि꣡ वृश्चति  
+उखा꣡ चिद् इन्द्र ये꣡षन्ती  
+प्र꣡यस्ता फे꣡नम् अस्यति  

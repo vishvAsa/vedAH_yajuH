@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ví tanvate dhíyo asmā ápāṃsi  
-vástrā putrā́ya mātáro vayanti  
-upaprakṣé vŕ̥ṣaṇo módamānā  
-divás pathā́ vadhúvo yanti ácha  
+वि꣡ तन्वते धि꣡यो अस्मा अ꣡पांसि  
+व꣡स्त्रा पुत्रा꣡य मात꣡रो वयन्ति  
+उपप्रक्षे꣡ व्ŕ̥षणो मो꣡दमाना  
+दिव꣡स् पथा꣡ वधु꣡वो यन्ति अ꣡छ  

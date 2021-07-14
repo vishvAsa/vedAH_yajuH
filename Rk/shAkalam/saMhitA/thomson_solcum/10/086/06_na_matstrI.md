@@ -2,8 +2,8 @@
 title = "006"
 
 +++
-ná mát strī́ subhasáttarā  
-ná suyā́śutarā bhuvat  
-ná mát práticyavīyasī  
-ná sákthi údyamīyasī  
-víśvasmād índra úttaraḥ  
+न꣡ म꣡त् स्त्री꣡ सुभस꣡त्तरा  
+न꣡ सुया꣡शुतरा भुवत्  
+न꣡ म꣡त् प्र꣡तिच्यवीयसी  
+न꣡ स꣡क्थि उ꣡द्यमीयसी  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

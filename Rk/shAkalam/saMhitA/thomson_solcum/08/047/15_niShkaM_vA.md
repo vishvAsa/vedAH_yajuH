@@ -2,9 +2,9 @@
 title = "015"
 
 +++
-niṣkáṃ vā ghā kr̥ṇávate  
-srájaṃ vā duhitar divaḥ  
-trité duṣvápniyaṃ sárvam  
-āptiyé pári dadmasi  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+निष्कं꣡ वा घा कृण꣡वते  
+स्र꣡जं वा दुहितर् दिवः  
+त्रिते꣡ दुष्व꣡प्नियं स꣡र्वम्  
+आप्तिये꣡ प꣡रि दद्मसि  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

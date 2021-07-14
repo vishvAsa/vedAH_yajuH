@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-yád adyá sū́rya udyatí  
-príyakṣatrā r̥táṃ dadhá  
-yán nimrúci prabúdhi viśvavedaso  
-yád vā madhyáṃdine diváḥ  
+य꣡द् अद्य꣡ सू꣡र्य उद्यति꣡  
+प्रि꣡यक्षत्रा ऋतं꣡ दध꣡  
+य꣡न् निम्रु꣡चि प्रबु꣡धि विश्ववेदसो  
+य꣡द् वा मध्यं꣡दिने दिवः꣡  

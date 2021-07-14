@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sá pavasva dhanaṃjaya  
-prayantā́ rā́dhaso maháḥ  
-asmábhyaṃ soma gātuvít  
+स꣡ पवस्व धनंजय  
+प्रयन्ता꣡ रा꣡धसो महः꣡  
+अस्म꣡भ्यं सोम गातुवि꣡त्  

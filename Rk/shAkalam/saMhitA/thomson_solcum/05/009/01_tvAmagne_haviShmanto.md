@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tuvā́m agne havíṣmanto  
-devám mártāsa īḷate  
-mánye tvā jātávedasaṃ  
-sá havyā́ vakṣi ānuṣák  
+तुवा꣡म् अग्ने हवि꣡ष्मन्तो  
+देव꣡म् म꣡र्तास ईऌअते  
+म꣡न्ये त्वा जात꣡वेदसं  
+स꣡ हव्या꣡ वक्षि आनुष꣡क्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-hitó ná sáptir abhí vā́jam arṣa  
-índrasyendo jaṭháram ā́ pavasva  
-nāvā́ ná síndhum áti parṣi vidvā́ñ  
-chū́ro ná yúdhyann áva no nidá spaḥ  
+हितो꣡ न꣡ स꣡प्तिर् अभि꣡ वा꣡जम् अर्ष  
+इ꣡न्द्रस्येन्दो जठ꣡रम् आ꣡ पवस्व  
+नावा꣡ न꣡ सि꣡न्धुम् अ꣡ति पर्षि विद्वा꣡ञ्  
+छू꣡रो न꣡ यु꣡ध्यन्न् अ꣡व नो निद꣡ स्पः  

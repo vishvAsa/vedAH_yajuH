@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ahám bhuvaṃ vásunaḥ pūrviyás pátir  
-aháṃ dhánāni sáṃ jayāmi śáśvataḥ  
-mã́ṃ havante pitáraṃ ná jantávo  
-aháṃ dāśúṣe ví bhajāmi bhójanam  
+अह꣡म् भुवं व꣡सुनः पूर्विय꣡स् प꣡तिर्  
+अहं꣡ ध꣡नानि सं꣡ जयामि श꣡श्वतः  
+म्ãं꣡ हवन्ते पित꣡रं न꣡ जन्त꣡वो  
+अहं꣡ दाशु꣡षे वि꣡ भजामि भो꣡जनम्  

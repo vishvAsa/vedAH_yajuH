@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́gne vaha havirádyāya devā́n  
-índrajyeṣṭhāsa ihá mādayantām  
-imáṃ yajñáṃ diví devéṣu dhehi  
-yūyám pāta suastíbhiḥ sádā naḥ  
+आ꣡ग्ने वह हविर꣡द्याय देवा꣡न्  
+इ꣡न्द्रज्येष्ठास इह꣡ मादयन्ताम्  
+इमं꣡ यज्ञं꣡ दिवि꣡ देवे꣡षु धेहि  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

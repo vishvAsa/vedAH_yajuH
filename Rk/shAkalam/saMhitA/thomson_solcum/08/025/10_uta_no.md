@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-utá no devī́ áditir  
-uruṣyátāṃ nā́satiyā  
-uruṣyántu marúto vr̥ddháśavasaḥ  
+उत꣡ नो देवी꣡ अ꣡दितिर्  
+उरुष्य꣡तां ना꣡सतिया  
+उरुष्य꣡न्तु मरु꣡तो वृद्ध꣡शवसः  

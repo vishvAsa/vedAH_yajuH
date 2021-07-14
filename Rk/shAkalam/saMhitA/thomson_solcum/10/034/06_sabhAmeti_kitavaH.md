@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sabhā́m eti kitaváḥ pr̥chámāno  
-jeṣyā́mī́ti tanúvā śū́śujānaḥ  
-akṣā́so asya ví tiranti kā́mam  
-pratidī́vne dádhata ā́ kr̥tā́ni  
+सभा꣡म् एति कितवः꣡ पृछ꣡मानो  
+जेष्या꣡मी꣡ति तनु꣡वा शू꣡शुजानः  
+अक्षा꣡सो अस्य वि꣡ तिरन्ति का꣡मम्  
+प्रतिदी꣡व्ने द꣡धत आ꣡ कृता꣡नि  

@@ -2,7 +2,7 @@
 title = "017"
 
 +++
-daśasyánto no marúto mr̥ḷantu  
-varivasyánto ródasī suméke  
-āré gohā́ nr̥hā́ vadhó vo astu  
-sumnébhir asmé vasavo namadhvam  
+दशस्य꣡न्तो नो मरु꣡तो मृऌअन्तु  
+वरिवस्य꣡न्तो रो꣡दसी सुमे꣡के  
+आरे꣡ गोहा꣡ नृहा꣡ वधो꣡ वो अस्तु  
+सुम्ने꣡भिर् अस्मे꣡ वसवो नमध्वम्  

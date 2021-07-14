@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-tríḥ saptá mayūríyaḥ  
-saptá svásāro agrúvaḥ  
-tā́s te viṣáṃ ví jabhrira  
-udakáṃ kumbhínīr iva  
+त्रिः꣡ सप्त꣡ मयूरि꣡यः  
+सप्त꣡ स्व꣡सारो अग्रु꣡वः  
+ता꣡स् ते विषं꣡ वि꣡ जभ्रिर  
+उदकं꣡ कुम्भि꣡नीर् इव  

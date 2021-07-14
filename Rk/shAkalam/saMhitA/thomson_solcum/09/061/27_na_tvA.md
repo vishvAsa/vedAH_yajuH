@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-ná tvā śatáṃ caná hrúto  
-rā́dho dítsantam ā́ minan  
-yát punānó makhasyáse  
+न꣡ त्वा शतं꣡ चन꣡ ह्रु꣡तो  
+रा꣡धो दि꣡त्सन्तम् आ꣡ मिनन्  
+य꣡त् पुनानो꣡ मखस्य꣡से  

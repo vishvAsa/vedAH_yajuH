@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tát savitúr vr̥ṇīmahe  
-vayáṃ devásya bhójanam  
-śráyiṣṭhaṃ+ sarvadhā́tamaṃ  
-túram bhágasya dhīmahi  
+त꣡त् सवितु꣡र् वृणीमहे  
+वयं꣡ देव꣡स्य भो꣡जनम्  
+श्र꣡यिष्ठं+ सर्वधा꣡तमं  
+तु꣡रम् भ꣡गस्य धीमहि  

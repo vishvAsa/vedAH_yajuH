@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mahā́m̐ ādityó námasopasádyo  
-yātayájjano gr̥ṇaté suśévaḥ  
-tásmā etát pányatamāya júṣṭam  
-agnaú mitrā́ya havír ā́ juhota  
+महाँ꣡ आदित्यो꣡ न꣡मसोपस꣡द्यो  
+यातय꣡ज्जनो गृणते꣡ सुशे꣡वः  
+त꣡स्मा एत꣡त् प꣡न्यतमाय जु꣡ष्टम्  
+अग्नउ꣡ मित्रा꣡य हवि꣡र् आ꣡ जुहोत  

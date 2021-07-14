@@ -2,10 +2,10 @@
 title = "010"
 
 +++
-hótā yakṣad vaníno vanta vā́riyam  
-bŕ̥haspátir yajati vená ukṣábhiḥ  
-puruvā́rebhir ukṣábhiḥ  
-jagr̥bhmā́ dūráādiśaṃ  
-ślókam ádrer ádha tmánā  
-ádhārayad araríndāni sukrátuḥ  
-purū́ sádmāni sukrátuḥ  
+हो꣡ता यक्षद् वनि꣡नो वन्त वा꣡रियम्  
+ब्ŕ̥हस्प꣡तिर् यजति वेन꣡ उक्ष꣡भिः  
+पुरुवा꣡रेभिर् उक्ष꣡भिः  
+जगृभ्मा꣡ दूर꣡आदिशं  
+श्लो꣡कम् अ꣡द्रेर् अ꣡ध त्म꣡ना  
+अ꣡धारयद् अररि꣡न्दानि सुक्र꣡तुः  
+पुरू꣡ स꣡द्मानि सुक्र꣡तुः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-práti agnír uṣáso jātávedā  
-ákhyad devó rócamānā máhobhiḥ  
-ā́ nāsatyā urugāyā́ ráthena  
-imáṃ yajñám úpa no yātam ácha  
+प्र꣡ति अग्नि꣡र् उष꣡सो जात꣡वेदा  
+अ꣡ख्यद् देवो꣡ रो꣡चमाना म꣡होभिः  
+आ꣡ नासत्या उरुगाया꣡ र꣡थेन  
+इमं꣡ यज्ञ꣡म् उ꣡प नो यातम् अ꣡छ  

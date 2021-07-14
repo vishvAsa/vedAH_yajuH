@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-utá na īm matáyo áśvayogāḥ  
-śíśuṃ ná gā́vas táruṇaṃ rihanti  
-tám īṃ gíro · jánayo ná pátnīḥ  
-surabhíṣṭamaṃ narã́ṃ nasanta  
+उत꣡ न ईम् मत꣡यो अ꣡श्वयोगाः  
+शि꣡शुं न꣡ गा꣡वस् त꣡रुणं रिहन्ति  
+त꣡म् ईं गि꣡रो · ज꣡नयो न꣡ प꣡त्नीः  
+सुरभि꣡ष्टमं नर्ãं꣡ नसन्त  

@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-índraṃ vā́ṇīr ánuttamanyum evá  
-satrā́ rā́jānaṃ dadhire sáhadhyai  
-háriaśvāya barhayā sám āpī́n  
+इ꣡न्द्रं वा꣡णीर् अ꣡नुत्तमन्युम् एव꣡  
+सत्रा꣡ रा꣡जानं दधिरे स꣡हध्यै  
+ह꣡रिअश्वाय बर्हया स꣡म् आपी꣡न्  

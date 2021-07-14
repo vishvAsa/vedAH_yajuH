@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-imáṃ no agne adhvaráṃ juṣasva  
-marútsu índre yaśásaṃ kr̥dhī naḥ  
-ā́ náktā barhíḥ sadatām uṣā́sā  
-uśántā mitrā́váruṇā yajehá  
+इमं꣡ नो अग्ने अध्वरं꣡ जुषस्व  
+मरु꣡त्सु इ꣡न्द्रे यश꣡सं कृधी नः  
+आ꣡ न꣡क्ता बर्हिः꣡ सदताम् उषा꣡सा  
+उश꣡न्ता मित्रा꣡व꣡रुणा यजेह꣡  

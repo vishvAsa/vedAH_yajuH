@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sajóṣā indra váruṇena sómaṃ  
-sajóṣāḥ pāhi girvaṇo marúdbhiḥ  
-agrepā́bhir r̥tupā́bhiḥ sajóṣā  
-gnā́spátnībhī ratnadhā́bhiḥ sajóṣāḥ  
+सजो꣡षा इन्द्र व꣡रुणेन सो꣡मं  
+सजो꣡षाः पाहि गिर्वणो मरु꣡द्भिः  
+अग्रेपा꣡भिर् ऋतुपा꣡भिः सजो꣡षा  
+ग्ना꣡स्प꣡त्नीभी रत्नधा꣡भिः सजो꣡षाः  

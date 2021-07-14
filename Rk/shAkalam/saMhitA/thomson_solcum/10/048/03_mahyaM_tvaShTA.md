@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-máhyaṃ tváṣṭā vájram atakṣad āyasám  
-máyi devā́so avr̥jann ápi krátum  
-mámā́nīkaṃ sū́riyasyeva duṣṭáram  
-mā́m ā́ryanti kr̥téna kártuvena ca  
+म꣡ह्यं त्व꣡ष्टा व꣡ज्रम् अतक्षद् आयस꣡म्  
+म꣡यि देवा꣡सो अवृजन्न् अ꣡पि क्र꣡तुम्  
+म꣡मा꣡नीकं सू꣡रियस्येव दुष्ट꣡रम्  
+मा꣡म् आ꣡र्यन्ति कृते꣡न क꣡र्तुवेन च  

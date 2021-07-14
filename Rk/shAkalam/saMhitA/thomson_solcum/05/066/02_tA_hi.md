@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tā́ hí kṣatrám ávihrutaṃ  
-samyág asuryàm ā́śate°  
-ádha vratéva mā́nuṣaṃ  
-súvar ṇá dhāyi darśatám  
+ता꣡ हि꣡ क्षत्र꣡म् अ꣡विह्रुतं  
+सम्य꣡ग् असुर्य᳡म् आ꣡शते°  
+अ꣡ध व्रते꣡व मा꣡नुषं  
+सु꣡वर् ण꣡ धायि दर्शत꣡म्  

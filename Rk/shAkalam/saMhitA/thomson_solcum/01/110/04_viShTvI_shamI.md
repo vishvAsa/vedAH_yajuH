@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-viṣṭvī́ śámī taraṇitvéna vāgháto  
-mártāsaḥ sánto amr̥tatvám ānaśuḥ  
-saudhanvanā́ r̥bhávaḥ sū́racakṣasaḥ  
-saṃvatsaré sám apr̥cyanta dhītíbhiḥ  
+विष्ट्वी꣡ श꣡मी तरणित्वे꣡न वाघ꣡तो  
+म꣡र्तासः स꣡न्तो अमृतत्व꣡म् आनशुः  
+सौधन्वना꣡ ऋभ꣡वः सू꣡रचक्षसः  
+संवत्सरे꣡ स꣡म् अपृच्यन्त धीति꣡भिः  

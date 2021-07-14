@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ná sīm ádeva āpad  
-íṣaṃ dīrghāyo mártiyaḥ  
-étagvā cid yá étaśā yuyójate  
-hárī índro yuyójate  
+न꣡ सीम् अ꣡देव आपद्  
+इ꣡षं दीर्घायो म꣡र्तियः  
+ए꣡तग्वा चिद् य꣡ ए꣡तशा युयो꣡जते  
+ह꣡री इ꣡न्द्रो युयो꣡जते  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-aryamáṇam bŕ̥haspátim  
-índraṃ dā́nāya codaya  
-vā́taṃ víṣṇuṃ sárasvatīṃ  
-savitā́raṃ ca vājínam  
+अर्यम꣡णम् ब्ŕ̥हस्प꣡तिम्  
+इ꣡न्द्रं दा꣡नाय चोदय  
+वा꣡तं वि꣡ष्णुं स꣡रस्वतीं  
+सविता꣡रं च वाजि꣡नम्  

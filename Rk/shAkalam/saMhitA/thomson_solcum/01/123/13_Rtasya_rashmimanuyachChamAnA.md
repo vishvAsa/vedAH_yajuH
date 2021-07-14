@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-r̥tásya raśmím anuyáchamānā  
-bhadrám-bhadraṃ krátum asmā́su dhehi  
-úṣo no adyá suhávā ví ucha  
-asmā́su rā́yo maghávatsu ca syuḥ  
+ऋत꣡स्य रश्मि꣡म् अनुय꣡छमाना  
+भद्र꣡म्-भद्रं क्र꣡तुम् अस्मा꣡सु धेहि  
+उ꣡षो नो अद्य꣡ सुह꣡वा वि꣡ उछ  
+अस्मा꣡सु रा꣡यो मघ꣡वत्सु च स्युः  

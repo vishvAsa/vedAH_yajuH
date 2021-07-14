@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-cákṣuṣaḥ pitā́ mánasā hí dhī́ro  
-ghr̥tám ene ajanan nánnamāne  
-yadéd ántā ádadr̥hanta pū́rva  
-ā́d íd dyā́vāpr̥thivī́ aprathetām  
+च꣡क्षुषः पिता꣡ म꣡नसा हि꣡ धी꣡रो  
+घृत꣡म् एने अजनन् न꣡न्नमाने  
+यदे꣡द् अ꣡न्ता अ꣡ददृहन्त पू꣡र्व  
+आ꣡द् इ꣡द् द्या꣡वापृथिवी꣡ अप्रथेताम्  

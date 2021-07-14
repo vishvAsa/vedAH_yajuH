@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-bhū́ri ta indra vīríyaṃ táva smasi  
-asyá stotúr maghavan kā́mam ā́ pr̥ṇa  
-ánu te dyaúr br̥hatī́ vīríyam mama  
-iyáṃ ca te pr̥thivī́ nema ójase  
+भू꣡रि त इन्द्र वीरि꣡यं त꣡व स्मसि  
+अस्य꣡ स्तोतु꣡र् मघवन् का꣡मम् आ꣡ पृण  
+अ꣡नु ते द्यउ꣡र् बृहती꣡ वीरि꣡यम् मम  
+इयं꣡ च ते पृथिवी꣡ नेम ओ꣡जसे  

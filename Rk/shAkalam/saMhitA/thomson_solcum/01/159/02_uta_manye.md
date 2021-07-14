@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-utá manye · pitúr adrúho máno  
-mātúr máhi svátavas tád dhávīmabhiḥ  
-surétasā pitárā bhū́ma cakratur  
-urú prajā́yā amŕ̥taṃ várīmabhiḥ  
+उत꣡ मन्ये · पितु꣡र् अद्रु꣡हो म꣡नो  
+मातु꣡र् म꣡हि स्व꣡तवस् त꣡द् ध꣡वीमभिः  
+सुरे꣡तसा पित꣡रा भू꣡म चक्रतुर्  
+उरु꣡ प्रजा꣡या अम्ŕ̥तं व꣡रीमभिः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ásammr̥ṣṭo jāyase mātaróḥ śúcir  
-mandráḥ kavír úd atiṣṭho vivásvataḥ  
-ghr̥téna tvāvardhayann agna āhuta  
-dhūmás te ketúr abhavad diví śritáḥ  
+अ꣡सम्मृष्टो जायसे मातरोः꣡ शु꣡चिर्  
+मन्द्रः꣡ कवि꣡र् उ꣡द् अतिष्ठो विव꣡स्वतः  
+घृते꣡न त्वावर्धयन्न् अग्न आहुत  
+धूम꣡स् ते केतु꣡र् अभवद् दिवि꣡ श्रितः꣡  

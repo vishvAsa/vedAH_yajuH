@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-vītíhotraṃ tuvā kave  
-dyumántaṃ sám idhīmahi  
-ágne br̥hántam adhvaré  
+वीति꣡होत्रं तुवा कवे  
+द्युम꣡न्तं स꣡म् इधीमहि  
+अ꣡ग्ने बृह꣡न्तम् अध्वरे꣡  

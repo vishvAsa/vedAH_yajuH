@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-yá iddhá āvívāsati  
-sumnám índrasya mártiyaḥ  
-dyumnā́ya sutárā apáḥ  
+य꣡ इद्ध꣡ आवि꣡वासति  
+सुम्न꣡म् इ꣡न्द्रस्य म꣡र्तियः  
+द्युम्ना꣡य सुत꣡रा अपः꣡  

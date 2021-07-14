@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-aúchat sā́ rā́trī páritakmiyā yā́m̐  
-r̥ṇaṃcayé rā́jani ruśámānām  
-átyo ná vājī́ raghúr ajyámāno  
-babhrúś catvā́ri asanat sahásrā  
+अउ꣡छत् सा꣡ रा꣡त्री प꣡रितक्मिया याँ꣡  
+ऋणंचये꣡ रा꣡जनि रुश꣡मानाम्  
+अ꣡त्यो न꣡ वाजी꣡ रघु꣡र् अज्य꣡मानो  
+बभ्रु꣡श् चत्वा꣡रि असनत् सह꣡स्रा  

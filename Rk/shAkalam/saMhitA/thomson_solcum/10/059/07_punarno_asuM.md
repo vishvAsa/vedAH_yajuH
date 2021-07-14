@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-púnar no ásum pr̥thivī́ dadātu  
-púnar dyaúr devī́ púnar antárikṣam  
-púnar naḥ sómas tanúvaṃ dadātu  
-púnaḥ pūṣā́ pathíyāṃ yā́ suastíḥ  
+पु꣡नर् नो अ꣡सुम् पृथिवी꣡ ददातु  
+पु꣡नर् द्यउ꣡र् देवी꣡ पु꣡नर् अन्त꣡रिक्षम्  
+पु꣡नर् नः सो꣡मस् तनु꣡वं ददातु  
+पु꣡नः पूषा꣡ पथि꣡यां या꣡ सुअस्तिः꣡  

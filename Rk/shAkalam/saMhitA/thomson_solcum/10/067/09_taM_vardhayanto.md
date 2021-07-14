@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-táṃ vardháyanto matíbhiḥ śivā́bhiḥ  
-siṃhám iva nā́nadataṃ sadhásthe  
-bŕ̥haspátiṃ vŕ̥ṣaṇaṃ śū́rasātau  
-bháre-bhare ánu madema jiṣṇúm  
+तं꣡ वर्ध꣡यन्तो मति꣡भिः शिवा꣡भिः  
+सिंह꣡म् इव ना꣡नदतं सध꣡स्थे  
+ब्ŕ̥हस्प꣡तिं व्ŕ̥षणं शू꣡रसातौ  
+भ꣡रे-भरे अ꣡नु मदेम जिष्णु꣡म्  

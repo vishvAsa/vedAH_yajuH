@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-índrasya vájra āyasó nímiśla  
-índrasya bāhuvór bhū́yiṣṭham ójaḥ  
-śīrṣánn índrasya krátavo nireká  
-āsánn éṣanta śrútiyā upāké  
+इ꣡न्द्रस्य व꣡ज्र आयसो꣡ नि꣡मिश्ल  
+इ꣡न्द्रस्य बाहुवो꣡र् भू꣡यिष्ठम् ओ꣡जः  
+शीर्ष꣡न्न् इ꣡न्द्रस्य क्र꣡तवो निरेक꣡  
+आस꣡न्न् ए꣡षन्त श्रु꣡तिया उपाके꣡  

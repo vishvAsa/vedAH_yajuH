@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá-pra vas triṣṭúbham íṣam  
-mandádvīrāya índave  
-dhiyā́ vo medhásātaye  
-púraṃdhiyā́ vivāsati  
+प्र꣡-प्र वस् त्रिष्टु꣡भम् इ꣡षम्  
+मन्द꣡द्वीराय इ꣡न्दवे  
+धिया꣡ वो मेध꣡सातये  
+पु꣡रंधिया꣡ विवासति  

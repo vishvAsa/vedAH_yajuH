@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-śrātáṃ havír ó ṣú indra prá yāhi  
-jagā́ma sū́ro ádhvano vímadhyam  
-pári tvāsate nidhíbhiḥ sákhāyaḥ  
-kulapā́ ná vrājápatiṃ cárantam  
+श्रातं꣡ हवि꣡र् ओ꣡ षु꣡ इन्द्र प्र꣡ याहि  
+जगा꣡म सू꣡रो अ꣡ध्वनो वि꣡मध्यम्  
+प꣡रि त्वासते निधि꣡भिः स꣡खायः  
+कुलपा꣡ न꣡ व्राज꣡पतिं च꣡रन्तम्  

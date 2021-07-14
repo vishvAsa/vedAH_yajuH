@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ghr̥táṃ ná pūtáṃ  
-tanū́r arepā́ḥ  
-śúci híraṇyam  
-tát te rukmó ná rocata svadhāvaḥ  
+घृतं꣡ न꣡ पूतं꣡  
+तनू꣡र् अरेपाः꣡  
+शु꣡चि हि꣡रण्यम्  
+त꣡त् ते रुक्मो꣡ न꣡ रोचत स्वधावः  

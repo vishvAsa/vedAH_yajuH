@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-té avadan prathamā́ brahmakilbiṣé  
-ákūpāraḥ saliló mātaríśvā  
-vīḷúharās tápa ugró mayobhū́r  
-ā́po devī́ḥ prathamajā́ r̥téna  
+ते꣡ अवदन् प्रथमा꣡ ब्रह्मकिल्बिषे꣡  
+अ꣡कूपारः सलिलो꣡ मातरि꣡श्वा  
+वीऌउ꣡हरास् त꣡प उग्रो꣡ मयोभू꣡र्  
+आ꣡पो देवीः꣡ प्रथमजा꣡ ऋते꣡न  

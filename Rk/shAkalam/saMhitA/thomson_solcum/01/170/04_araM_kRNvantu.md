@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-áraṃ kr̥ṇvantu védiṃ  
-sám agním indhatām puráḥ  
-tátrāmŕ̥tasya cétanaṃ  
-yajñáṃ te tanavāvahai  
+अ꣡रं कृण्वन्तु वे꣡दिं  
+स꣡म् अग्नि꣡म् इन्धताम् पुरः꣡  
+त꣡त्राम्ŕ̥तस्य चे꣡तनं  
+यज्ञं꣡ ते तनवावहै  

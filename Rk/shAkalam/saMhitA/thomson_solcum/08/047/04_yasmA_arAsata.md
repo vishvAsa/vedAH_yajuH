@@ -2,9 +2,9 @@
 title = "004"
 
 +++
-yásmā árāsata kṣáyaṃ  
-jīvā́tuṃ ca prácetasaḥ  
-mánor víśvasya ghéd imá  
-ādityā́ rāyá īśate  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+य꣡स्मा अ꣡रासत क्ष꣡यं  
+जीवा꣡तुं च प्र꣡चेतसः  
+म꣡नोर् वि꣡श्वस्य घे꣡द् इम꣡  
+आदित्या꣡ राय꣡ ईशते  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

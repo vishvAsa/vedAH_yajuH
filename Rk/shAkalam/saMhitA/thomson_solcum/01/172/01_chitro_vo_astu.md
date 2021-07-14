@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-citró vo astu yā́maś  
-citrá ūtī́ sudānavaḥ  
-máruto áhibhānavaḥ  
+चित्रो꣡ वो अस्तु या꣡मश्  
+चित्र꣡ ऊती꣡ सुदानवः  
+म꣡रुतो अ꣡हिभानवः  

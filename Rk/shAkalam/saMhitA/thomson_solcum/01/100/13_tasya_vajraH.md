@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tásya vájraḥ krandati smát suvarṣā́  
-divó ná tveṣó raváthaḥ śímīvān  
-táṃ sacante sanáyas táṃ dhánāni  
-marútvān no bhavatu índra ūtī́  
+त꣡स्य व꣡ज्रः क्रन्दति स्म꣡त् सुवर्षा꣡  
+दिवो꣡ न꣡ त्वेषो꣡ रव꣡थः शि꣡मीवान्  
+तं꣡ सचन्ते सन꣡यस् तं꣡ ध꣡नानि  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ádhvaryo ádribhiḥ sutáṃ  
-sómam pavítra ā́ sr̥ja  
-punīhī́ndrāya pā́tave  
+अ꣡ध्वर्यो अ꣡द्रिभिः सुतं꣡  
+सो꣡मम् पवि꣡त्र आ꣡ सृज  
+पुनीही꣡न्द्राय पा꣡तवे  

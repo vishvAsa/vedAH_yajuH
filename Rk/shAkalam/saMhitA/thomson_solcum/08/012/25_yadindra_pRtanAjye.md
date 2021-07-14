@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-yád indra pr̥tanā́jiye  
-devā́s tvā dadhiré puráḥ  
-ā́d ít te haryatā́ hárī vavakṣatuḥ  
+य꣡द् इन्द्र पृतना꣡जिये  
+देवा꣡स् त्वा दधिरे꣡ पुरः꣡  
+आ꣡द् इ꣡त् ते हर्यता꣡ ह꣡री ववक्षतुः  

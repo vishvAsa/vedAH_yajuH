@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ nūnáṃ yātam aśvinā  
-ráthena sū́riyatvacā  
-bhújī híraṇyapeśasā  
-kávī gámbhīracetasā  
+आ꣡ नूनं꣡ यातम् अश्विना  
+र꣡थेन सू꣡रियत्वचा  
+भु꣡जी हि꣡रण्यपेशसा  
+क꣡वी ग꣡म्भीरचेतसा  

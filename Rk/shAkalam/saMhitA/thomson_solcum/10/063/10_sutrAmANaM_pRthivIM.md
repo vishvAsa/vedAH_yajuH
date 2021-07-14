@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sutrā́māṇam pr̥thivī́ṃ dyā́m anehásaṃ  
-suśármāṇam áditiṃ supráṇītim  
-daívīṃ nā́vaṃ suaritrā́m ánāgasam  
-ásravantīm ā́ ruhemā suastáye  
+सुत्रा꣡माणम् पृथिवीं꣡ द्या꣡म् अनेह꣡सं  
+सुश꣡र्माणम् अ꣡दितिं सुप्र꣡णीतिम्  
+दइ꣡वीं ना꣡वं सुअरित्रा꣡म् अ꣡नागसम्  
+अ꣡स्रवन्तीम् आ꣡ रुहेमा सुअस्त꣡ये  

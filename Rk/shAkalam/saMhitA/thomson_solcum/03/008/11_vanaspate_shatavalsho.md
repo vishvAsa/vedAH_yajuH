@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-vánaspate śatávalśo ví roha  
-sahásravalśā ví vayáṃ ruhema  
-yáṃ tvā́m ayáṃ svádhitis téjamānaḥ  
-praṇinā́ya mahaté saúbhagāya  
+व꣡नस्पते शत꣡वल्शो वि꣡ रोह  
+सह꣡स्रवल्शा वि꣡ वयं꣡ रुहेम  
+यं꣡ त्वा꣡म् अयं꣡ स्व꣡धितिस् ते꣡जमानः  
+प्रणिना꣡य महते꣡ सउ꣡भगाय  

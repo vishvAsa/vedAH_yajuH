@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ádhā yó víśvā bhúvanābhí majmánā  
-īśānakŕ̥t právayā abhy ávardhata  
-ā́d ródasī jyótiṣā váhnir ā́tanot  
-sī́vyan támāṃsi dúdhitā sám avyayat  
+अ꣡धा यो꣡ वि꣡श्वा भु꣡वनाभि꣡ मज्म꣡ना  
+ईशानक्ŕ̥त् प्र꣡वया अभ्य् अ꣡वर्धत  
+आ꣡द् रो꣡दसी ज्यो꣡तिषा व꣡ह्निर् आ꣡तनोत्  
+सी꣡व्यन् त꣡मांसि दु꣡धिता स꣡म् अव्ययत्  

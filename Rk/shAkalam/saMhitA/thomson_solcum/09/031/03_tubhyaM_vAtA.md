@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-túbhyaṃ vā́tā abhipríyas  
-túbhyam arṣanti síndhavaḥ  
-sóma várdhanti te máhaḥ  
+तु꣡भ्यं वा꣡ता अभिप्रि꣡यस्  
+तु꣡भ्यम् अर्षन्ति सि꣡न्धवः  
+सो꣡म व꣡र्धन्ति ते म꣡हः  

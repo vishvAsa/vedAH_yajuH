@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-stómaṃ juṣethāṃ yuvaśéva kanyánāṃ  
-víśvehá devau sávanā́va gachatam  
-sajóṣasā uṣásā sū́riyeṇa ca  
-íṣaṃ no voḷham aśvinā  
+स्तो꣡मं जुषेथां युवशे꣡व कन्य꣡नां  
+वि꣡श्वेह꣡ देवौ स꣡वना꣡व गछतम्  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+इ꣡षं नो वोऌहम् अश्विना  

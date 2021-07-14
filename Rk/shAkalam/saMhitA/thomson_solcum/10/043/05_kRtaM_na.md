@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-kr̥táṃ ná śvaghnī́ ví cinoti dévane  
-saṃvárgaṃ yán maghávā sū́riyaṃ jáyat  
-ná tát te anyó ánu vīríyaṃ śakan  
-ná purāṇó maghavan nótá nū́tanaḥ  
+कृतं꣡ न꣡ श्वघ्नी꣡ वि꣡ चिनोति दे꣡वने  
+संव꣡र्गं य꣡न् मघ꣡वा सू꣡रियं ज꣡यत्  
+न꣡ त꣡त् ते अन्यो꣡ अ꣡नु वीरि꣡यं शकन्  
+न꣡ पुराणो꣡ मघवन् नो꣡त꣡ नू꣡तनः  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-imā́m u ṣú sómasutim úpa na  
-ā́ indrāgnī saumanasā́ya yātam  
-nṹ cid dhí parimamnā́the asmā́n  
-ā́ vāṃ śáśvadbhir vavr̥tīya vā́jaiḥ  
+इमा꣡म् उ षु꣡ सो꣡मसुतिम् उ꣡प न  
+आ꣡ इन्द्राग्नी सौमनसा꣡य यातम्  
+न्ũ꣡ चिद् धि꣡ परिमम्ना꣡थे अस्मा꣡न्  
+आ꣡ वां श꣡श्वद्भिर् ववृतीय वा꣡जैः  

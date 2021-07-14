@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-sutā́ índrāya vajríṇe  
-sómāso dádhiāśiraḥ  
-pavítram áti akṣaran  
+सुता꣡ इ꣡न्द्राय वज्रि꣡णे  
+सो꣡मासो द꣡धिआशिरः  
+पवि꣡त्रम् अ꣡ति अक्षरन्  

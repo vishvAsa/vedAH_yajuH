@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-evā́ rā́jeva krátumām̐ ámena  
-víśvā ghánighnad duritā́ pavasva  
-índo sūktā́ya vácase váyo dhā  
-yūyám pāta suastíbhiḥ sádā naḥ  
+एवा꣡ रा꣡जेव क्र꣡तुमाँ अ꣡मेन  
+वि꣡श्वा घ꣡निघ्नद् दुरिता꣡ पवस्व  
+इ꣡न्दो सूक्ता꣡य व꣡चसे व꣡यो धा  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

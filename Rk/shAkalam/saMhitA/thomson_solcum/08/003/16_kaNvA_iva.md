@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-káṇvā iva bhŕ̥gavaḥ sū́riyā iva  
-víśvam íd dhītám ānaśuḥ  
-índraṃ stómebhir maháyanta āyávaḥ  
-priyámedhāso asvaran  
+क꣡ण्वा इव भ्ŕ̥गवः सू꣡रिया इव  
+वि꣡श्वम् इ꣡द् धीत꣡म् आनशुः  
+इ꣡न्द्रं स्तो꣡मेभिर् मह꣡यन्त आय꣡वः  
+प्रिय꣡मेधासो अस्वरन्  

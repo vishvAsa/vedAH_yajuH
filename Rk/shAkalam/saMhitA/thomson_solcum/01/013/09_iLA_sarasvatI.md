@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-íḷā sárasvatī mahī́  
-tisró devī́r mayobhúvaḥ  
-barhíḥ sīdantu asrídhaḥ  
+इ꣡ऌआ स꣡रस्वती मही꣡  
+तिस्रो꣡ देवी꣡र् मयोभु꣡वः  
+बर्हिः꣡ सीदन्तु अस्रि꣡धः  

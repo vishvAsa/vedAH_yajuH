@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yuvám bhujyúm ávaviddhaṃ samudrá  
-úd ūhathur árṇaso ásridhānaiḥ  
-patatríbhir aśramaír avyathíbhir  
-daṃsánābhir aśvinā pāráyantā  
+युव꣡म् भुज्यु꣡म् अ꣡वविद्धं समुद्र꣡  
+उ꣡द् ऊहथुर् अ꣡र्णसो अ꣡स्रिधानैः  
+पतत्रि꣡भिर् अश्रमइ꣡र् अव्यथि꣡भिर्  
+दंस꣡नाभिर् अश्विना पार꣡यन्ता  

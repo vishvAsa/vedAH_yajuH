@@ -2,5 +2,5 @@
 title = "002"
 
 +++
-ā́ daíviyāni vratā́ cikitvā́n  
-ā́ mā́nuṣasya jánasya jánma  
+आ꣡ दइ꣡वियानि व्रता꣡ चिकित्वा꣡न्  
+आ꣡ मा꣡नुषस्य ज꣡नस्य ज꣡न्म  

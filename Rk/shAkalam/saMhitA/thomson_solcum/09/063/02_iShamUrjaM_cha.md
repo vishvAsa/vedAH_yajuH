@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-íṣam ū́rjaṃ ca pinvasa  
-índrāya matsaríntamaḥ  
-camū́ṣu ā́ ní ṣīdasi  
+इ꣡षम् ऊ꣡र्जं च पिन्वस  
+इ꣡न्द्राय मत्सरि꣡न्तमः  
+चमू꣡षु आ꣡ नि꣡ षीदसि  

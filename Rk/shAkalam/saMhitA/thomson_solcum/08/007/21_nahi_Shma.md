@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-nahí ṣma yád dha vaḥ purā́  
-stómebhir vr̥ktabarhiṣaḥ  
-śárdhām̐ r̥tásya jínvatha  
+नहि꣡ ष्म य꣡द् ध वः पुरा꣡  
+स्तो꣡मेभिर् वृक्तबर्हिषः  
+श꣡र्धाँ ऋत꣡स्य जि꣡न्वथ  

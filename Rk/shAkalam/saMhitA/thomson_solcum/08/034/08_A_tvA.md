@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ā́ tvā hótā mánurhito  
-devatrā́ vakṣad ī́ḍiyaḥ  
-divó amúṣya śā́sato  
-dívaṃ yayá divāvaso  
+आ꣡ त्वा हो꣡ता म꣡नुर्हितो  
+देवत्रा꣡ वक्षद् ई꣡डियः  
+दिवो꣡ अमु꣡ष्य शा꣡सतो  
+दि꣡वं यय꣡ दिवावसो  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-bhávā no agne sumánā úpetau  
-sákheva sákhye pitáreva sādhúḥ  
-purudrúho hí kṣitáyo jánānām  
-práti pratīcī́r dahatād árātīḥ  
+भ꣡वा नो अग्ने सुम꣡ना उ꣡पेतौ  
+स꣡खेव स꣡ख्ये पित꣡रेव साधुः꣡  
+पुरुद्रु꣡हो हि꣡ क्षित꣡यो ज꣡नानाम्  
+प्र꣡ति प्रतीची꣡र् दहताद् अ꣡रातीः  

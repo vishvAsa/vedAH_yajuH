@@ -2,7 +2,7 @@
 title = "032"
 
 +++
-yá r̥jrā́ máhya° māmahé  
-sahá tvacā́ hiraṇyáyā  
-eṣá víśvāni abhí astu saúbhagā  
-āsaṅgásya svanádrathaḥ  
+य꣡ ऋज्रा꣡ म꣡ह्य° मामहे꣡  
+सह꣡ त्वचा꣡ हिरण्य꣡या  
+एष꣡ वि꣡श्वानि अभि꣡ अस्तु सउ꣡भगा  
+आसङ्ग꣡स्य स्वन꣡द्रथः  

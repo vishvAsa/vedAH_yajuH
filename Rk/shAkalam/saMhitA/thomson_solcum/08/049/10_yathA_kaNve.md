@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yáthā káṇve maghavan trasádasyavi  
-yáthā pakthé dáśavraje  
-yáthā góśarye ásanor r̥jíśvani  
-índra gómad dhíraṇyavat  
+य꣡था क꣡ण्वे मघवन् त्रस꣡दस्यवि  
+य꣡था पक्थे꣡ द꣡शव्रजे  
+य꣡था गो꣡शर्ये अ꣡सनोर् ऋजि꣡श्वनि  
+इ꣡न्द्र गो꣡मद् धि꣡रण्यवत्  

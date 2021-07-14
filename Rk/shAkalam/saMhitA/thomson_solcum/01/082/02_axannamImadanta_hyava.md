@@ -2,8 +2,8 @@
 title = "002"
 
 +++
-ákṣann ámīmadanta hí  
-áva priyā́ adhūṣata  
-ástoṣata svábhānavo  
-víprā náviṣṭhayā matī́  
-yójā nú indra te hárī  
+अ꣡क्षन्न् अ꣡मीमदन्त हि꣡  
+अ꣡व प्रिया꣡ अधूषत  
+अ꣡स्तोषत स्व꣡भानवो  
+वि꣡प्रा न꣡विष्ठया मती꣡  
+यो꣡जा नु꣡ इन्द्र ते ह꣡री  

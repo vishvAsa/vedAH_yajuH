@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-sáṃsr̥ṣṭaṃ dhánam ubháyaṃ samā́kr̥tam  
-asmábhyaṃ dattāṃ váruṇaś ca manyúḥ  
-bhíyaṃ dádhānā hŕ̥dayeṣu śátravaḥ  
-párājitāso ápa ní layantām  
+सं꣡सृष्टं ध꣡नम् उभ꣡यं समा꣡कृतम्  
+अस्म꣡भ्यं दत्तां व꣡रुणश् च मन्युः꣡  
+भि꣡यं द꣡धाना ह्ŕ̥दयेषु श꣡त्रवः  
+प꣡राजितासो अ꣡प नि꣡ लयन्ताम्  

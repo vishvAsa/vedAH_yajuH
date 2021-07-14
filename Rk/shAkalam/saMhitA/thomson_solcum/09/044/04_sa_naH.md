@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-sá naḥ pavasva vājayúś  
-cakrāṇáś cā́rum adhvarám  
-barhíṣmām̐ ā́ vivāsati  
+स꣡ नः पवस्व वाजयु꣡श्  
+चक्राण꣡श् चा꣡रुम् अध्वर꣡म्  
+बर्हि꣡ष्माँ आ꣡ विवासति  

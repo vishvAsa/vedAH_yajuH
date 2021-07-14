@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ vo vā́hiṣṭho vahatu stavádhyai  
-rátho vājā r̥bhukṣaṇo ámr̥ktaḥ  
-abhí tripr̥ṣṭhaíḥ sávaneṣu sómair  
-máde suśiprā mahábhiḥ pr̥ṇadhvam  
+आ꣡ वो वा꣡हिष्ठो वहतु स्तव꣡ध्यै  
+र꣡थो वाजा ऋभुक्षणो अ꣡मृक्तः  
+अभि꣡ त्रिपृष्ठइः꣡ स꣡वनेषु सो꣡मैर्  
+म꣡दे सुशिप्रा मह꣡भिः पृणध्वम्  

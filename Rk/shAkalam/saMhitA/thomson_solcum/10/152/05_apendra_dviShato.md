@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ápendra dviṣató máno  
-ápa jíjyāsato vadhám  
-ví manyóḥ śárma yacha  
-várīyo yavayā vadhám  
+अ꣡पेन्द्र द्विषतो꣡ म꣡नो  
+अ꣡प जि꣡ज्यासतो वध꣡म्  
+वि꣡ मन्योः꣡ श꣡र्म यछ  
+व꣡रीयो यवया वध꣡म्  

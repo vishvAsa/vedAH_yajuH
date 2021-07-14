@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ví añjate divó ánteṣu aktū́n  
-víśo ná yuktā́ uṣáso yatante  
-sáṃ te gā́vas táma ā́ vartayanti  
-jyótir yachanti savitéva bāhū́  
+वि꣡ अञ्जते दिवो꣡ अ꣡न्तेषु अक्तू꣡न्  
+वि꣡शो न꣡ युक्ता꣡ उष꣡सो यतन्ते  
+सं꣡ ते गा꣡वस् त꣡म आ꣡ वर्तयन्ति  
+ज्यो꣡तिर् यछन्ति सविते꣡व बाहू꣡  

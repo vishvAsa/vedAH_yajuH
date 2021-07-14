@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-sáṃ gómad indra vā́javad  
-asmé pr̥thú śrávo br̥hát  
-viśvā́yur dhehi ákṣitam  
+सं꣡ गो꣡मद् इन्द्र वा꣡जवद्  
+अस्मे꣡ पृथु꣡ श्र꣡वो बृह꣡त्  
+विश्वा꣡युर् धेहि अ꣡क्षितम्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-árvadbhir agne árvato nŕ̥bhir nr̥̄́n  
-vīraír vīrā́n vanuyāmā tuvótāḥ  
-īśānā́saḥ pitr̥vittásya rāyó  
-ví sūráyaḥ śatáhimā no aśyuḥ  
+अ꣡र्वद्भिर् अग्ने अ꣡र्वतो न्ŕ̥भिर् नॄ꣡न्  
+वीरइ꣡र् वीरा꣡न् वनुयामा तुवो꣡ताः  
+ईशाना꣡सः पितृवित्त꣡स्य रायो꣡  
+वि꣡ सूर꣡यः शत꣡हिमा नो अश्युः  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ātmā́ te vā́to rája ā́ navīnot  
-paśúr ná bhū́rṇir yávase sasavā́n  
-antár mahī́ br̥hatī́ ródasīmé  
-víśvā te dhā́ma varuṇa priyā́ṇi  
+आत्मा꣡ ते वा꣡तो र꣡ज आ꣡ नवीनोत्  
+पशु꣡र् न꣡ भू꣡र्णिर् य꣡वसे ससवा꣡न्  
+अन्त꣡र् मही꣡ बृहती꣡ रो꣡दसीमे꣡  
+वि꣡श्वा ते धा꣡म वरुण प्रिया꣡णि  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-sá no víśvā divó vásu  
-utó pr̥thiviyā́ ádhi  
-punāná indav ā́ bhara  
+स꣡ नो वि꣡श्वा दिवो꣡ व꣡सु  
+उतो꣡ पृथिविया꣡ अ꣡धि  
+पुनान꣡ इन्दव् आ꣡ भर  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ágne juṣásva no havíḥ  
-puroḷā́śaṃ jātavedaḥ  
-prātaḥsāvé dhiyāvaso  
+अ꣡ग्ने जुष꣡स्व नो हविः꣡  
+पुरोऌआ꣡शं जातवेदः  
+प्रातःसावे꣡ धियावसो  

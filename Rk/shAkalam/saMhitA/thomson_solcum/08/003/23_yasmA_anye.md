@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-yásmā anyé dáśa práti  
-dhúraṃ váhanti váhnayaḥ  
-ástaṃ váyo ná túgriyam  
+य꣡स्मा अन्ये꣡ द꣡श प्र꣡ति  
+धु꣡रं व꣡हन्ति व꣡ह्नयः  
+अ꣡स्तं व꣡यो न꣡ तु꣡ग्रियम्  

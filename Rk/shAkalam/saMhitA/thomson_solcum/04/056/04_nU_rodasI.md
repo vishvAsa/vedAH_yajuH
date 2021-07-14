@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-nū́ rodasī br̥hádbhir no várūthaiḥ  
-pátnīvadbhir iṣáyantī sajóṣāḥ  
-urūcī́ víśve yajaté ní pātaṃ  
-dhiyā́ siyāma rathíyaḥ sadāsā́ḥ  
+नू꣡ रोदसी बृह꣡द्भिर् नो व꣡रूथैः  
+प꣡त्नीवद्भिर् इष꣡यन्ती सजो꣡षाः  
+उरूची꣡ वि꣡श्वे यजते꣡ नि꣡ पातं  
+धिया꣡ सियाम रथि꣡यः सदासाः꣡  

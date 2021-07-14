@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-imā́ bráhma br̥háddivo vivakti  
-índrāya śūṣám agriyáḥ suarṣā́ḥ  
-mahó gotrásya kṣayati svarā́jo  
-dúraś ca víśvā avr̥ṇod ápa svā́ḥ  
+इमा꣡ ब्र꣡ह्म बृह꣡द्दिवो विवक्ति  
+इ꣡न्द्राय शूष꣡म् अग्रियः꣡ सुअर्षाः꣡  
+महो꣡ गोत्र꣡स्य क्षयति स्वरा꣡जो  
+दु꣡रश् च वि꣡श्वा अवृणोद् अ꣡प स्वाः꣡  

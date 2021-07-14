@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-idáṃ vaso sutám ándhaḥ  
-píbā súpūrṇam udáram  
-ánābhayin rarimā́ te  
+इदं꣡ वसो सुत꣡म् अ꣡न्धः  
+पि꣡बा सु꣡पूर्णम् उद꣡रम्  
+अ꣡नाभयिन् ररिमा꣡ ते  

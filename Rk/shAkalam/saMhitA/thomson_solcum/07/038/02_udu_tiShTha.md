@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-úd u tiṣṭha savitaḥ śrudhí asyá  
-híraṇyapāṇe prábhr̥tāv r̥tásya  
-ví urvī́m pr̥thvī́m amátiṃ sr̥jāná  
-ā́ nŕ̥bhyo martabhójanaṃ suvānáḥ  
+उ꣡द् उ तिष्ठ सवितः श्रुधि꣡ अस्य꣡  
+हि꣡रण्यपाणे प्र꣡भृताव् ऋत꣡स्य  
+वि꣡ उर्वी꣡म् पृथ्वी꣡म् अम꣡तिं सृजान꣡  
+आ꣡ न्ŕ̥भ्यो मर्तभो꣡जनं सुवानः꣡  

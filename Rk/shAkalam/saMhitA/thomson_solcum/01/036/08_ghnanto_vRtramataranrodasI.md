@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ghnánto vr̥trám ataran ródasī apá  
-urú kṣáyāya cakrire  
-bhúvat káṇve vŕ̥ṣā diyumnī́ ā́hutaḥ  
-krándad áśvo gáviṣṭiṣu  
+घ्न꣡न्तो वृत्र꣡म् अतरन् रो꣡दसी अप꣡  
+उरु꣡ क्ष꣡याय चक्रिरे  
+भु꣡वत् क꣡ण्वे व्ŕ̥षा दियुम्नी꣡ आ꣡हुतः  
+क्र꣡न्दद् अ꣡श्वो ग꣡विष्टिषु  

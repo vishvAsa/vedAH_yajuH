@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-prajā́m r̥tásya píprataḥ  
-prá yád bháranta váhnayaḥ  
-víprā r̥tásya vā́hasā  
+प्रजा꣡म् ऋत꣡स्य पि꣡प्रतः  
+प्र꣡ य꣡द् भ꣡रन्त व꣡ह्नयः  
+वि꣡प्रा ऋत꣡स्य वा꣡हसा  

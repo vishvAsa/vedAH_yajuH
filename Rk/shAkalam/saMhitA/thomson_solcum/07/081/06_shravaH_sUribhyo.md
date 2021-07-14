@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-śrávaḥ sūríbhyo amŕ̥taṃ vasutvanáṃ  
-vā́jām̐ asmábhyaṃ gómataḥ  
-codayitrī́ maghónaḥ sūnŕ̥tāvatī  
-uṣā́ uchad ápa srídhaḥ  
+श्र꣡वः सूरि꣡भ्यो अम्ŕ̥तं वसुत्वनं꣡  
+वा꣡जाँ अस्म꣡भ्यं गो꣡मतः  
+चोदयित्री꣡ मघो꣡नः सून्ŕ̥तावती  
+उषा꣡ उछद् अ꣡प स्रि꣡धः  

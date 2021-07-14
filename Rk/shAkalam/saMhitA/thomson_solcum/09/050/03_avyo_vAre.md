@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ávyo vā́re pári priyáṃ  
-háriṃ hinvanti ádribhiḥ  
-pávamānam madhuścútam  
+अ꣡व्यो वा꣡रे प꣡रि प्रियं꣡  
+ह꣡रिं हिन्वन्ति अ꣡द्रिभिः  
+प꣡वमानम् मधुश्चु꣡तम्  

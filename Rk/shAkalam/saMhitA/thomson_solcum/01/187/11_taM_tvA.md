@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-táṃ tvā vayám pito  
-vácobhir gā́vo ná havyā́ suṣūdima  
-devébhyas tvā sadhamā́dam  
-asmábhyaṃ tvā sadhamā́dam  
+तं꣡ त्वा वय꣡म् पितो  
+व꣡चोभिर् गा꣡वो न꣡ हव्या꣡ सुषूदिम  
+देवे꣡भ्यस् त्वा सधमा꣡दम्  
+अस्म꣡भ्यं त्वा सधमा꣡दम्  

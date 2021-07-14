@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-prá te pū́rvāṇi káraṇāni vocam  
-prá nū́tanā maghavan yā́ cakártha  
-śáktīvo yád vibhárā ródasī ubhé  
-jáyann apó mánave dā́nucitrāḥ  
+प्र꣡ ते पू꣡र्वाणि क꣡रणानि वोचम्  
+प्र꣡ नू꣡तना मघवन् या꣡ चक꣡र्थ  
+श꣡क्तीवो य꣡द् विभ꣡रा रो꣡दसी उभे꣡  
+ज꣡यन्न् अपो꣡ म꣡नवे दा꣡नुचित्राः  

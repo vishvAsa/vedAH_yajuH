@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-úpa śikṣāpatasthúṣo  
-bhiyásam ā́ dhehi śátruṣu  
-pávamāna vidā́ rayím  
+उ꣡प शिक्षापतस्थु꣡षो  
+भिय꣡सम् आ꣡ धेहि श꣡त्रुषु  
+प꣡वमान विदा꣡ रयि꣡म्  

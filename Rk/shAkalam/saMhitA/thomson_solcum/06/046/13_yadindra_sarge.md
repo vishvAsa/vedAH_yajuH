@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yád indra sárge árvataś  
-codáyāse mahādhané  
-asamané ádhvani vr̥jiné pathí  
-śyenā́m̐ iva śravasyatáḥ  
+य꣡द् इन्द्र स꣡र्गे अ꣡र्वतश्  
+चोद꣡यासे महाधने꣡  
+असमने꣡ अ꣡ध्वनि वृजिने꣡ पथि꣡  
+श्येनाँ꣡ इव श्रवस्यतः꣡  

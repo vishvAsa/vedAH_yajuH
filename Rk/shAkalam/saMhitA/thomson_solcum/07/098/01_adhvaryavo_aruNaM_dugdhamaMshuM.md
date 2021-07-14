@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ádhvaryavo aruṇáṃ dugdhám aṃśúṃ  
-juhótana vr̥ṣabhā́ya kṣitīnā́m  
-gaurā́d védīyām̐ avapā́nam índro  
-viśvā́héd yāti sutásomam ichán  
+अ꣡ध्वर्यवो अरुणं꣡ दुग्ध꣡म् अंशुं꣡  
+जुहो꣡तन वृषभा꣡य क्षितीना꣡म्  
+गौरा꣡द् वे꣡दीयाँ अवपा꣡नम् इ꣡न्द्रो  
+विश्वा꣡हे꣡द् याति सुत꣡सोमम् इछ꣡न्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-áprāmisatya maghavan táthéd asad  
-índra krátvā yáthā váśaḥ  
-sanéma vā́jaṃ táva śiprin ávasā  
-makṣū́ cid yánto adrivaḥ  
+अ꣡प्रामिसत्य मघवन् त꣡थे꣡द् असद्  
+इ꣡न्द्र क्र꣡त्वा य꣡था व꣡शः  
+सने꣡म वा꣡जं त꣡व शिप्रिन् अ꣡वसा  
+मक्षू꣡ चिद् य꣡न्तो अद्रिवः  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-abhí tvā pūrvápītaya  
-índra stómebhir āyávaḥ  
-samīcīnā́sa r̥bhávaḥ sám asvaran  
-rudrā́ gr̥ṇanta pū́rviyam  
+अभि꣡ त्वा पूर्व꣡पीतय  
+इ꣡न्द्र स्तो꣡मेभिर् आय꣡वः  
+समीचीना꣡स ऋभ꣡वः स꣡म् अस्वरन्  
+रुद्रा꣡ गृणन्त पू꣡र्वियम्  

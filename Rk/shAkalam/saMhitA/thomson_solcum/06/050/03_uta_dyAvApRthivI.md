@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-utá dyāvāpr̥thivī kṣatrám urú  
-br̥hád rodasī śaraṇáṃ suṣumne  
-mahás karatho várivo yáthā no  
-asmé kṣáyāya dhiṣaṇe aneháḥ  
+उत꣡ द्यावापृथिवी क्षत्र꣡म् उरु꣡  
+बृह꣡द् रोदसी शरणं꣡ सुषुम्ने  
+मह꣡स् करथो व꣡रिवो य꣡था नो  
+अस्मे꣡ क्ष꣡याय धिषणे अनेहः꣡  

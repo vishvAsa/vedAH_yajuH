@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-pányāṃsaṃ jātávedasaṃ  
-yó devátāti údyatā  
-havyā́ni aírayat diví  
+प꣡न्यांसं जात꣡वेदसं  
+यो꣡ देव꣡ताति उ꣡द्यता  
+हव्या꣡नि अइ꣡रयत् दिवि꣡  

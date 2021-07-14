@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-asmā́ íd u tváṣṭā takṣad vájraṃ  
-suápastamaṃ svaríyaṃ ráṇāya  
-vr̥trásya cid · vidád yéna márma  
-tujánn ī́śānas tujatā́ kiyedhā́ḥ  
+अस्मा꣡ इ꣡द् उ त्व꣡ष्टा तक्षद् व꣡ज्रं  
+सुअ꣡पस्तमं स्वरि꣡यं र꣡णाय  
+वृत्र꣡स्य चिद् · विद꣡द् ये꣡न म꣡र्म  
+तुज꣡न्न् ई꣡शानस् तुजता꣡ कियेधाः꣡  

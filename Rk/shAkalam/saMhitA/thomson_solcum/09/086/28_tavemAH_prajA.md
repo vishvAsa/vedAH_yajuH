@@ -2,7 +2,7 @@
 title = "028"
 
 +++
-távemā́ḥ prajā́ diviyásya rétasas  
-tuváṃ víśvasya bhúvanasya rājasi  
-áthedáṃ víśvam pavamāna te váśe  
-tuvám indo prathamó dhāmadhā́ asi  
+त꣡वेमाः꣡ प्रजा꣡ दिविय꣡स्य रे꣡तसस्  
+तुवं꣡ वि꣡श्वस्य भु꣡वनस्य राजसि  
+अ꣡थेदं꣡ वि꣡श्वम् पवमान ते व꣡शे  
+तुव꣡म् इन्दो प्रथमो꣡ धामधा꣡ असि  

@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-tvám agne vīrávad yáśo  
-deváś ca savitā́ bhágaḥ  
-dítiś ca dāti vā́riyam  
+त्व꣡म् अग्ने वीर꣡वद् य꣡शो  
+देव꣡श् च सविता꣡ भ꣡गः  
+दि꣡तिश् च दाति वा꣡रियम्  

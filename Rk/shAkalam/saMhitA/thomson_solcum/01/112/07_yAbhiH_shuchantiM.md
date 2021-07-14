@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yā́bhiḥ śucantíṃ dhanasā́ṃ suṣaṃsádaṃ  
-taptáṃ gharmám omiyā́vantam átraye  
-yā́bhiḥ pŕ̥śnigum purukútsam ā́vataṃ  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिः शुचन्तिं꣡ धनसां꣡ सुषंस꣡दं  
+तप्तं꣡ घर्म꣡म् ओमिया꣡वन्तम् अ꣡त्रये  
+या꣡भिः प्ŕ̥श्निगुम् पुरुकु꣡त्सम् आ꣡वतं  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

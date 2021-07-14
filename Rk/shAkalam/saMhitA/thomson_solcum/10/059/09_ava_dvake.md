@@ -2,9 +2,9 @@
 title = "009"
 
 +++
-áva dvaké áva trikā́  
-diváś caranti bheṣajā́  
-kṣamā́ cariṣṇú ekakám  
-bháratām ápa yád rápo  
-dyaúḥ pr̥thivi kṣamā́ rápo  
-mó ṣú te kíṃ canā́mamat  
+अ꣡व द्वके꣡ अ꣡व त्रिका꣡  
+दिव꣡श् चरन्ति भेषजा꣡  
+क्षमा꣡ चरिष्णु꣡ एकक꣡म्  
+भ꣡रताम् अ꣡प य꣡द् र꣡पो  
+द्यउः꣡ पृथिवि क्षमा꣡ र꣡पो  
+मो꣡ षु꣡ ते किं꣡ चना꣡ममत्  

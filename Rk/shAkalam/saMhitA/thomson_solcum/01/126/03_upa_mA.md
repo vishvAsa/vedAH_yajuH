@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-úpa mā śyāvā́ḥ svanáyena dattā́  
-vadhū́manto dáśa ráthāso asthuḥ  
-ṣaṣṭíḥ sahásram ánu gávyam ā́gāt  
-sánat kakṣī́vām̐ abhipitvé áhnām  
+उ꣡प मा श्यावाः꣡ स्वन꣡येन दत्ता꣡  
+वधू꣡मन्तो द꣡श र꣡थासो अस्थुः  
+षष्टिः꣡ सह꣡स्रम् अ꣡नु ग꣡व्यम् आ꣡गात्  
+स꣡नत् कक्षी꣡वाँ अभिपित्वे꣡ अ꣡ह्नाम्  

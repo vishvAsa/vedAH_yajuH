@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuvám agne mánave dyā́m avāśayaḥ  
-purūrávase sukŕ̥te sukŕ̥ttaraḥ  
-śvātréṇa yát pitarór+ múcyase pári  
-ā́ tvā pū́rvam anayann ā́param púnaḥ  
+तुव꣡म् अग्ने म꣡नवे द्या꣡म् अवाशयः  
+पुरूर꣡वसे सुक्ŕ̥ते सुक्ŕ̥त्तरः  
+श्वात्रे꣡ण य꣡त् पितरो꣡र्+ मु꣡च्यसे प꣡रि  
+आ꣡ त्वा पू꣡र्वम् अनयन्न् आ꣡परम् पु꣡नः  

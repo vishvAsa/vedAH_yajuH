@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-śatā́nīkā hetáyo asya duṣṭárā  
-índrasya samíṣo mahī́ḥ  
-girír ná bhujmā́ maghávatsu pinvate  
-yád īṃ sutā́ ámandiṣuḥ  
+शता꣡नीका हेत꣡यो अस्य दुष्ट꣡रा  
+इ꣡न्द्रस्य समि꣡षो महीः꣡  
+गिरि꣡र् न꣡ भुज्मा꣡ मघ꣡वत्सु पिन्वते  
+य꣡द् ईं सुता꣡ अ꣡मन्दिषुः  

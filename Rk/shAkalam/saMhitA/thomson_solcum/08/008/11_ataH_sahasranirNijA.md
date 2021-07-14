@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-átaḥ sahásranirṇijā  
-ráthenā́ yātam aśvinā  
-vatsó vām mádhumad váco  
-áśaṃsīt kāviyáḥ kavíḥ  
+अ꣡तः सह꣡स्रनिर्णिजा  
+र꣡थेना꣡ यातम् अश्विना  
+वत्सो꣡ वाम् म꣡धुमद् व꣡चो  
+अ꣡शंसीत् कावियः꣡ कविः꣡  

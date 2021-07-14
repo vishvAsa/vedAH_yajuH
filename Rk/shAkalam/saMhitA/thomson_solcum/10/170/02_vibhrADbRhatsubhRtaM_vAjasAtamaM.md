@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vibhrā́ḍ br̥hát súbhr̥taṃ vājasā́tamaṃ  
-dhárman divó dharúṇe satyám árpitam  
-amitrahā́ vr̥trahā́ dasyuhántamaṃ  
-jyótir jajñe asurahā́ sapatnahā́  
+विभ्रा꣡ड् बृह꣡त् सु꣡भृतं वाजसा꣡तमं  
+ध꣡र्मन् दिवो꣡ धरु꣡णे सत्य꣡म् अ꣡र्पितम्  
+अमित्रहा꣡ वृत्रहा꣡ दस्युह꣡न्तमं  
+ज्यो꣡तिर् जज्ञे असुरहा꣡ सपत्नहा꣡  

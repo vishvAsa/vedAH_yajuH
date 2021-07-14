@@ -2,6 +2,6 @@
 title = "029"
 
 +++
-stútaś ca yā́s tvā várdhanti  
-mahé rā́dhase nr̥mṇā́ya  
-índra kāríṇaṃ vr̥dhántaḥ  
+स्तु꣡तश् च या꣡स् त्वा व꣡र्धन्ति  
+महे꣡ रा꣡धसे नृम्णा꣡य  
+इ꣡न्द्र कारि꣡णं वृध꣡न्तः  

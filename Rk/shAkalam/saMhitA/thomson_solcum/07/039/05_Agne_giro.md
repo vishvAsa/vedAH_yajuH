@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ agne gíro divá ā́ pr̥thivyā́  
-mitráṃ vaha váruṇam índram agním  
-ā́ryamáṇam áditiṃ víṣṇum eṣāṃ  
-sárasvatī marúto mādayantām  
+आ꣡ अग्ने गि꣡रो दिव꣡ आ꣡ पृथिव्या꣡  
+मित्रं꣡ वह व꣡रुणम् इ꣡न्द्रम् अग्नि꣡म्  
+आ꣡र्यम꣡णम् अ꣡दितिं वि꣡ष्णुम् एषां  
+स꣡रस्वती मरु꣡तो मादयन्ताम्  

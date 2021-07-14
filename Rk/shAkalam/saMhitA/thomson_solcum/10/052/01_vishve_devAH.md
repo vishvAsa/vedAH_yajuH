@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-víśve devāḥ śāstána mā yáthehá  
-hótā vr̥tó manávai yán niṣádya  
-prá me brūta bhāgadhéyaṃ yáthā vo  
-yéna pathā́ havyám ā́ vo váhāni  
+वि꣡श्वे देवाः शास्त꣡न मा य꣡थेह꣡  
+हो꣡ता वृतो꣡ मन꣡वै य꣡न् निष꣡द्य  
+प्र꣡ मे ब्रूत भागधे꣡यं य꣡था वो  
+ये꣡न पथा꣡ हव्य꣡म् आ꣡ वो व꣡हानि  

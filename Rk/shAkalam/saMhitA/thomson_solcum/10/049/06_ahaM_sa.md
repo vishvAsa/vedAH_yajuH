@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-aháṃ sá yó návavāstvam br̥hádrathaṃ  
-sáṃ vr̥tréva · dā́saṃ vr̥trahā́rujam  
-yád vardháyantam pratháyantam ānuṣág  
-dūré pāré rájaso rocanā́karam  
+अहं꣡ स꣡ यो꣡ न꣡ववास्त्वम् बृह꣡द्रथं  
+सं꣡ वृत्रे꣡व · दा꣡सं वृत्रहा꣡रुजम्  
+य꣡द् वर्ध꣡यन्तम् प्रथ꣡यन्तम् आनुष꣡ग्  
+दूरे꣡ पारे꣡ र꣡जसो रोचना꣡करम्  

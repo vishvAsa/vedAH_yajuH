@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yád indra rā́dho ásti te  
-mā́ghonam maghavattama  
-téna no bodhi sadhamā́diyo vr̥dhé  
-bhágo dānā́ya vr̥trahan  
+य꣡द् इन्द्र रा꣡धो अ꣡स्ति ते  
+मा꣡घोनम् मघवत्तम  
+ते꣡न नो बोधि सधमा꣡दियो वृधे꣡  
+भ꣡गो दाना꣡य वृत्रहन्  

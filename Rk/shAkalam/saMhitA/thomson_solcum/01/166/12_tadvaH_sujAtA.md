@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-tád vaḥ sujātā maruto mahitvanáṃ  
-dīrgháṃ vo dātrám áditer iva vratám  
-índraś caná tyájasā ví hruṇāti táj  
-jánāya yásmai sukŕ̥te árādhuvam  
+त꣡द् वः सुजाता मरुतो महित्वनं꣡  
+दीर्घं꣡ वो दात्र꣡म् अ꣡दितेर् इव व्रत꣡म्  
+इ꣡न्द्रश् चन꣡ त्य꣡जसा वि꣡ ह्रुणाति त꣡ज्  
+ज꣡नाय य꣡स्मै सुक्ŕ̥ते अ꣡राधुवम्  

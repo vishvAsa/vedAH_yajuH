@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-ábhūd u bhā́ u aṃśáve  
-híraṇyam práti sū́riyaḥ  
-ví akhyaj jihváyā́sitaḥ  
+अ꣡भूद् उ भा꣡ उ अंश꣡वे  
+हि꣡रण्यम् प्र꣡ति सू꣡रियः  
+वि꣡ अख्यज् जिह्व꣡या꣡सितः  

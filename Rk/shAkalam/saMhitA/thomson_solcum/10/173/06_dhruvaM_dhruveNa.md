@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-dhruváṃ dhruvéṇa havíṣā  
-abhí sómam mr̥śāmasi  
-átho ta índraḥ kévalīr  
-víśo balihŕ̥tas karat  
+ध्रुवं꣡ ध्रुवे꣡ण हवि꣡षा  
+अभि꣡ सो꣡मम् मृशामसि  
+अ꣡थो त इ꣡न्द्रः के꣡वलीर्  
+वि꣡शो बलिह्ŕ̥तस् करत्  

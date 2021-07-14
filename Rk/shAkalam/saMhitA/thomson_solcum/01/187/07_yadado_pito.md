@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yád adó pito ájagan  
-vivásva párvatānãm  
-átrā cin no madho pito  
-áram bhakṣā́ya gamiyāḥ  
+य꣡द् अदो꣡ पितो अ꣡जगन्  
+विव꣡स्व प꣡र्वतान्ãम्  
+अ꣡त्रा चिन् नो मधो पितो  
+अ꣡रम् भक्षा꣡य गमियाः  

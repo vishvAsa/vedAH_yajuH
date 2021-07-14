@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ yāhi arvā́ṅ úpa vandhureṣṭhā́s  
-távéd ánu pradívaḥ somapéyam  
-priyā́ sákhāyā ví mucópa barhís  
-tuvā́m imé havyavā́ho havante  
+आ꣡ याहि अर्वा꣡ङ् उ꣡प वन्धुरेष्ठा꣡स्  
+त꣡वे꣡द् अ꣡नु प्रदि꣡वः सोमपे꣡यम्  
+प्रिया꣡ स꣡खाया वि꣡ मुचो꣡प बर्हि꣡स्  
+तुवा꣡म् इमे꣡ हव्यवा꣡हो हवन्ते  

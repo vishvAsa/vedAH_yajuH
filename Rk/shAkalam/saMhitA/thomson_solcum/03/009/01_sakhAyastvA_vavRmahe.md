@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sákhāyas tvā vavr̥mahe  
-devám mártāsa ūtáye  
-apā́ṃ nápātaṃ subhágaṃ sudī́ditiṃ  
-suprátūrtim anehásam  
+स꣡खायस् त्वा ववृमहे  
+देव꣡म् म꣡र्तास ऊत꣡ये  
+अपां꣡ न꣡पातं सुभ꣡गं सुदी꣡दितिं  
+सुप्र꣡तूर्तिम् अनेह꣡सम्  

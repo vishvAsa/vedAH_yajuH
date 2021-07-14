@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-mahád adyá mahatā́m ā́ vr̥ṇīmahe  
-ávo devā́nām br̥hatā́m anarváṇām  
-yáthā vásu vīrájātaṃ náśāmahai  
-tád devā́nām ávo adyā́ vr̥ṇīmahe  
+मह꣡द् अद्य꣡ महता꣡म् आ꣡ वृणीमहे  
+अ꣡वो देवा꣡नाम् बृहता꣡म् अनर्व꣡णाम्  
+य꣡था व꣡सु वीर꣡जातं न꣡शामहै  
+त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे  

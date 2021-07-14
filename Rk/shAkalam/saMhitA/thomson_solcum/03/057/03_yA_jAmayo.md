@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yā́ jāmáyo vŕ̥ṣṇa ichánti śaktíṃ  
-namasyántīr jānate gárbham asmin  
-áchā putráṃ dhenávo vāvaśānā́  
-maháś caranti bíbhrataṃ vápūṃṣi  
+या꣡ जाम꣡यो व्ŕ̥ष्ण इछ꣡न्ति शक्तिं꣡  
+नमस्य꣡न्तीर् जानते ग꣡र्भम् अस्मिन्  
+अ꣡छा पुत्रं꣡ धेन꣡वो वावशाना꣡  
+मह꣡श् चरन्ति बि꣡भ्रतं व꣡पूंषि  

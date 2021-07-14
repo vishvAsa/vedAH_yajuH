@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-maháś carkarmi árvataḥ kratuprā́  
-dadhikrā́vṇaḥ puruvā́rasya vŕ̥ṣṇaḥ  
-yám pūrúbhyo dīdivā́ṃsaṃ ná agníṃ  
-dadáthur mitrāvaruṇā táturim  
+मह꣡श् चर्कर्मि अ꣡र्वतः क्रतुप्रा꣡  
+दधिक्रा꣡व्णः पुरुवा꣡रस्य व्ŕ̥ष्णः  
+य꣡म् पूरु꣡भ्यो दीदिवां꣡सं न꣡ अग्निं꣡  
+दद꣡थुर् मित्रावरुणा त꣡तुरिम्  

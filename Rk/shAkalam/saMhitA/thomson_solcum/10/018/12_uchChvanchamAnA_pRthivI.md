@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ucchváñcamānā pr̥thivī́ sú tiṣṭhatu  
-sahásram míta úpa hí śráyantām  
-té gr̥hā́so ghr̥taścúto bhavantu  
-viśvā́hāsmai śaraṇā́ḥ santu átra  
+उच्छ्व꣡ञ्चमाना पृथिवी꣡ सु꣡ तिष्ठतु  
+सह꣡स्रम् मि꣡त उ꣡प हि꣡ श्र꣡यन्ताम्  
+ते꣡ गृहा꣡सो घृतश्चु꣡तो भवन्तु  
+विश्वा꣡हास्मै शरणाः꣡ सन्तु अ꣡त्र  

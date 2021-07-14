@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-śr̥ṇvántu stómam marútaḥ sudā́navo  
-agnijihvā́ r̥tāvŕ̥dhaḥ  
-píbatu sómaṃ váruṇo dhr̥távrato  
-aśvíbhyām uṣásā sajū́ḥ  
+शृण्व꣡न्तु स्तो꣡मम् मरु꣡तः सुदा꣡नवो  
+अग्निजिह्वा꣡ ऋताव्ŕ̥धः  
+पि꣡बतु सो꣡मं व꣡रुणो धृत꣡व्रतो  
+अश्वि꣡भ्याम् उष꣡सा सजूः꣡  

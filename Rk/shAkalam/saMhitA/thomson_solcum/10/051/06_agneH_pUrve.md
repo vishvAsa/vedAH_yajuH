@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-agnéḥ pū́rve bhrā́taro ártham etáṃ  
-rathī́vā́dhvānam ánu ā́varīvuḥ  
-tásmād bhiyā́ varuṇa dūrám āyaṃ  
-gauró ná kṣepnór avije jiyā́yāḥ  
+अग्नेः꣡ पू꣡र्वे भ्रा꣡तरो अ꣡र्थम् एतं꣡  
+रथी꣡वा꣡ध्वानम् अ꣡नु आ꣡वरीवुः  
+त꣡स्माद् भिया꣡ वरुण दूर꣡म् आयं  
+गौरो꣡ न꣡ क्षेप्नो꣡र् अविजे जिया꣡याः  

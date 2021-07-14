@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-téjiṣṭhā yásya aratír vanerā́ṭ  
-todó ádhvan ná vr̥dhasānó adyaut  
-adroghó ná dravitā́ cetati tmánn  
-ámartiyo avartrá óṣadhīṣu  
+ते꣡जिष्ठा य꣡स्य अरति꣡र् वनेरा꣡ट्  
+तोदो꣡ अ꣡ध्वन् न꣡ वृधसानो꣡ अद्यौत्  
+अद्रोघो꣡ न꣡ द्रविता꣡ चेतति त्म꣡न्न्  
+अ꣡मर्तियो अवर्त्र꣡ ओ꣡षधीषु  

@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-yéna síndhum mahī́r apó  
-ráthām̐ iva pracodáyaḥ  
-pánthām r̥tásya yā́tave tám īmahe  
+ये꣡न सि꣡न्धुम् मही꣡र् अपो꣡  
+र꣡थाँ इव प्रचोद꣡यः  
+प꣡न्थाम् ऋत꣡स्य या꣡तवे त꣡म् ईमहे  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-sukháṃ ráthaṃ yuyuje síndhur aśvínaṃ  
-téna vā́jaṃ saniṣad asmín ājaú  
-mahā́n hí asya mahimā́ panasyáte  
-ádabdhasya sváyaśaso virapśínaḥ  
+सुखं꣡ र꣡थं युयुजे सि꣡न्धुर् अश्वि꣡नं  
+ते꣡न वा꣡जं सनिषद् अस्मि꣡न् आजउ꣡  
+महा꣡न् हि꣡ अस्य महिमा꣡ पनस्य꣡ते  
+अ꣡दब्धस्य स्व꣡यशसो विरप्शि꣡नः  

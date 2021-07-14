@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-mántram ákharvaṃ súdhitaṃ supéśasaṃ  
-dádhāta yajñíyeṣu ā́  
-pūrvī́ś caná prásitayas taranti táṃ  
-yá índre kármaṇā bhúvat  
+म꣡न्त्रम् अ꣡खर्वं सु꣡धितं सुपे꣡शसं  
+द꣡धात यज्ञि꣡येषु आ꣡  
+पूर्वी꣡श् चन꣡ प्र꣡सितयस् तरन्ति तं꣡  
+य꣡ इ꣡न्द्रे क꣡र्मणा भु꣡वत्  

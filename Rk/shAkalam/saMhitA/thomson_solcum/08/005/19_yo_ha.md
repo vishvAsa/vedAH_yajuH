@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-yó ha vām mádhuno dŕ̥tir  
-ā́hito rathacárṣaṇe  
-tátaḥ pibatam aśvinā  
+यो꣡ ह वाम् म꣡धुनो द्ŕ̥तिर्  
+आ꣡हितो रथच꣡र्षणे  
+त꣡तः पिबतम् अश्विना  

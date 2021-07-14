@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prāvepā́ mā br̥ható mādayanti  
-pravātejā́ íriṇe várvr̥tānāḥ  
-sómasyeva maujavatásya bhakṣó  
-vibhī́dako jā́gr̥vir máhyam achān  
+प्रावेपा꣡ मा बृहतो꣡ मादयन्ति  
+प्रवातेजा꣡ इ꣡रिणे व꣡र्वृतानाः  
+सो꣡मस्येव मौजवत꣡स्य भक्षो꣡  
+विभी꣡दको जा꣡गृविर् म꣡ह्यम् अछान्  

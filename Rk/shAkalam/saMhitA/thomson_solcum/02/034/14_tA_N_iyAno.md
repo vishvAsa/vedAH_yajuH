@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-tā́m̐ iyānó máhi várūtham ūtáya  
-úpa ghéd enā́ námasā gr̥ṇīmasi  
-tritó ná yā́n páñca hótr̥̄n abhíṣṭaya  
-āvavártad ávarāñ cakríyā́vase  
+ताँ꣡ इयानो꣡ म꣡हि व꣡रूथम् ऊत꣡य  
+उ꣡प घे꣡द् एना꣡ न꣡मसा गृणीमसि  
+त्रितो꣡ न꣡ या꣡न् प꣡ञ्च हो꣡तॄन् अभि꣡ष्टय  
+आवव꣡र्तद् अ꣡वराञ् चक्रि꣡या꣡वसे  

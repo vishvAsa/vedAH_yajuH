@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índrāsomā máhi tád vām mahitváṃ  
-yuvám mahā́ni prathamā́ni cakrathuḥ  
-yuváṃ sū́ryaṃ vividáthur yuváṃ súvar  
-víśvā támāṃsi ahataṃ nidáś ca  
+इ꣡न्द्रासोमा म꣡हि त꣡द् वाम् महित्वं꣡  
+युव꣡म् महा꣡नि प्रथमा꣡नि चक्रथुः  
+युवं꣡ सू꣡र्यं विविद꣡थुर् युवं꣡ सु꣡वर्  
+वि꣡श्वा त꣡मांसि अहतं निद꣡श् च  

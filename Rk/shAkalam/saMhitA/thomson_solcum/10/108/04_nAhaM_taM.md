@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-nā́háṃ táṃ veda dábhiyaṃ dábhat sá  
-yásyedáṃ dūtī́r ásaram parākā́t  
-ná táṃ gūhanti sraváto gabhīrā́  
-hatā́ índreṇa paṇayaḥ śayadhve  
+ना꣡हं꣡ तं꣡ वेद द꣡भियं द꣡भत् स꣡  
+य꣡स्येदं꣡ दूती꣡र् अ꣡सरम् पराका꣡त्  
+न꣡ तं꣡ गूहन्ति स्रव꣡तो गभीरा꣡  
+हता꣡ इ꣡न्द्रेण पणयः शयध्वे  

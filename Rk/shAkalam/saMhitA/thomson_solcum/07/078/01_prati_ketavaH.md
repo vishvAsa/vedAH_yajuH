@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-práti ketávaḥ prathamā́ adr̥śrann  
-ūrdhvā́ asyā añjáyo ví śrayante  
-úṣo arvā́cā br̥hatā́ ráthena  
-jyótiṣmatā vāmám asmábhya° vakṣi  
+प्र꣡ति केत꣡वः प्रथमा꣡ अदृश्रन्न्  
+ऊर्ध्वा꣡ अस्या अञ्ज꣡यो वि꣡ श्रयन्ते  
+उ꣡षो अर्वा꣡चा बृहता꣡ र꣡थेन  
+ज्यो꣡तिष्मता वाम꣡म् अस्म꣡भ्य° वक्षि  

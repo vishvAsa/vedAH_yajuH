@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-práyajyavo marúto bhrā́jadr̥ṣṭayo  
-br̥hád váyo dadhire rukmávakṣasaḥ  
-ī́yante áśvaiḥ suyámebhir āśúbhiḥ  
-śúbhaṃ yātā́m ánu ráthā avr̥tsata  
+प्र꣡यज्यवो मरु꣡तो भ्रा꣡जदृष्टयो  
+बृह꣡द् व꣡यो दधिरे रुक्म꣡वक्षसः  
+ई꣡यन्ते अ꣡श्वैः सुय꣡मेभिर् आशु꣡भिः  
+शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत  

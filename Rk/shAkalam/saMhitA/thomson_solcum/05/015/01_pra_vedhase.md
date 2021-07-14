@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá vedháse kaváye védiyāya  
-gíram bhare yaśáse pūrviyā́ya  
-ghr̥táprasatto ásuraḥ suśévo  
-rāyó dhartā́ dharúṇo vásvo agníḥ  
+प्र꣡ वेध꣡से कव꣡ये वे꣡दियाय  
+गि꣡रम् भरे यश꣡से पूर्विया꣡य  
+घृत꣡प्रसत्तो अ꣡सुरः सुशे꣡वो  
+रायो꣡ धर्ता꣡ धरु꣡णो व꣡स्वो अग्निः꣡  

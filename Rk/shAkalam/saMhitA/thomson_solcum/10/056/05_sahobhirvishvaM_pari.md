@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sáhobhir víśvam pári cakramū rájaḥ  
-pū́rvā dhā́māni ámitā mímānāḥ  
-tanū́ṣu víśvā bhúvanā ní yemire  
-prā́sārayanta purudhá prajā́ ánu  
+स꣡होभिर् वि꣡श्वम् प꣡रि चक्रमू र꣡जः  
+पू꣡र्वा धा꣡मानि अ꣡मिता मि꣡मानाः  
+तनू꣡षु वि꣡श्वा भु꣡वना नि꣡ येमिरे  
+प्रा꣡सारयन्त पुरुध꣡ प्रजा꣡ अ꣡नु  

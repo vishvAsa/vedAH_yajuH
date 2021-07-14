@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-r̥tájyena kṣipréṇa bráhmaṇas pátir  
-yátra váṣṭi prá tád aśnoti dhánvanā  
-tásya sādhvī́r íṣavo yā́bhir ásyati  
-nr̥cákṣaso dŕ̥śáye kárṇayonayaḥ  
+ऋत꣡ज्येन क्षिप्रे꣡ण ब्र꣡ह्मणस् प꣡तिर्  
+य꣡त्र व꣡ष्टि प्र꣡ त꣡द् अश्नोति ध꣡न्वना  
+त꣡स्य साध्वी꣡र् इ꣡षवो या꣡भिर् अ꣡स्यति  
+नृच꣡क्षसो द्ŕ̥श꣡ये क꣡र्णयोनयः  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-pávamāno abhí arṣā suvī́riyam  
-urvī́ṃ gávyūtim máhi śárma sapráthaḥ  
-mā́kir no asyá páriṣūtir īśata  
-índo jáyema tuváyā dhánaṃ-dhanam  
+प꣡वमानो अभि꣡ अर्षा सुवी꣡रियम्  
+उर्वीं꣡ ग꣡व्यूतिम् म꣡हि श꣡र्म सप्र꣡थः  
+मा꣡किर् नो अस्य꣡ प꣡रिषूतिर् ईशत  
+इ꣡न्दो ज꣡येम तुव꣡या ध꣡नं-धनम्  

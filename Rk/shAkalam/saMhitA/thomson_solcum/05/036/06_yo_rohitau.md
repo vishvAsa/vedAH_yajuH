@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yó róhitau vājínau vājínīvān  
-tribhíḥ śataíḥ sácamānāv ádiṣṭa  
-yū́ne sám asmai kṣitáyo namantāṃ  
-śrutárathāya maruto duvoyā́  
+यो꣡ रो꣡हितौ वाजि꣡नौ वाजि꣡नीवान्  
+त्रिभिः꣡ शतइः꣡ स꣡चमानाव् अ꣡दिष्ट  
+यू꣡ने स꣡म् अस्मै क्षित꣡यो नमन्तां  
+श्रुत꣡रथाय मरुतो दुवोया꣡  

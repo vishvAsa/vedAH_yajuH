@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-asyá piba kṣumátaḥ prásthitasya  
-índra sómasya váram ā́ sutásya  
-suastidā́ mánasā mādayasva  
-arvācīnó reváte saúbhagāya  
+अस्य꣡ पिब क्षुम꣡तः प्र꣡स्थितस्य  
+इ꣡न्द्र सो꣡मस्य व꣡रम् आ꣡ सुत꣡स्य  
+सुअस्तिदा꣡ म꣡नसा मादयस्व  
+अर्वाचीनो꣡ रेव꣡ते सउ꣡भगाय  

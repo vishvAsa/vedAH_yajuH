@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-tā́ mitrásya práśastaya  
-indrāgnī́ tā́ havāmahe  
-somapā́ sómapītaye  
+ता꣡ मित्र꣡स्य प्र꣡शस्तय  
+इन्द्राग्नी꣡ ता꣡ हवामहे  
+सोमपा꣡ सो꣡मपीतये  

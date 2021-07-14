@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-divé-dive sadŕ̥śīr anyám árdhaṃ  
-kr̥ṣṇā́ asedhad ápa sádmano jā́ḥ  
-áhan dāsā́ vr̥ṣabhó vasnayánta  
-udávraje varcínaṃ śámbaraṃ ca  
+दिवे꣡-दिवे सद्ŕ̥शीर् अन्य꣡म् अ꣡र्धं  
+कृष्णा꣡ असेधद् अ꣡प स꣡द्मनो जाः꣡  
+अ꣡हन् दासा꣡ वृषभो꣡ वस्नय꣡न्त  
+उद꣡व्रजे वर्चि꣡नं श꣡म्बरं च  

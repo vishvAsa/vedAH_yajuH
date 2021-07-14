@@ -2,7 +2,7 @@
 title = "040"
 
 +++
-sūyavasā́d bhágavatī hí bhūyā́  
-átho vayám bhágavantaḥ siyāma  
-addhí tŕ̥ṇam aghniye viśvadā́nīm  
-píba śuddhám udakám ācárantī  
+सूयवसा꣡द् भ꣡गवती हि꣡ भूया꣡  
+अ꣡थो वय꣡म् भ꣡गवन्तः सियाम  
+अद्धि꣡ त्ŕ̥णम् अघ्निये विश्वदा꣡नीम्  
+पि꣡ब शुद्ध꣡म् उदक꣡म् आच꣡रन्ती  

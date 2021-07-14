@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-bhū́ri hí te sávanā mā́nuṣeṣu  
-bhū́ri manīṣī́ havate tuvā́m ít  
-mā́ aré asmán maghavañ jiyók kaḥ  
+भू꣡रि हि꣡ ते स꣡वना मा꣡नुषेषु  
+भू꣡रि मनीषी꣡ हवते तुवा꣡म् इ꣡त्  
+मा꣡ अरे꣡ अस्म꣡न् मघवञ् जियो꣡क् कः  

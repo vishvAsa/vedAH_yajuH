@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yuváṃ cyávānaṃ sanáyaṃ yáthā rátham  
-púnar yúvānaṃ caráthāya takṣathuḥ  
-níṣ ṭaugriyám ūhathur adbhiyás pári  
-víśvét tā́ vāṃ sávaneṣu pravā́ciyā  
+युवं꣡ च्य꣡वानं सन꣡यं य꣡था र꣡थम्  
+पु꣡नर् यु꣡वानं चर꣡थाय तक्षथुः  
+नि꣡ष् टौग्रिय꣡म् ऊहथुर् अद्भिय꣡स् प꣡रि  
+वि꣡श्वे꣡त् ता꣡ वां स꣡वनेषु प्रवा꣡चिया  

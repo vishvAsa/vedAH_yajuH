@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-áṅgirasvantā utá víṣṇuvantā  
-marútvantā jaritúr gachatho hávam  
-sajóṣasā uṣásā sū́riyeṇa ca  
-ādityaír yātam aśvinā  
+अ꣡ङ्गिरस्वन्ता उत꣡ वि꣡ष्णुवन्ता  
+मरु꣡त्वन्ता जरितु꣡र् गछथो ह꣡वम्  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+आदित्यइ꣡र् यातम् अश्विना  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-svayáṃ cit sá manyate dā́śurir jáno  
-yátrā sómasya tr̥mpási  
-idáṃ te ánnaṃ yújiyaṃ sámukṣitaṃ  
-tásyéhi prá dravā píba  
+स्वयं꣡ चित् स꣡ मन्यते दा꣡शुरिर् ज꣡नो  
+य꣡त्रा सो꣡मस्य तृम्प꣡सि  
+इदं꣡ ते अ꣡न्नं यु꣡जियं स꣡मुक्षितं  
+त꣡स्ये꣡हि प्र꣡ द्रवा पि꣡ब  

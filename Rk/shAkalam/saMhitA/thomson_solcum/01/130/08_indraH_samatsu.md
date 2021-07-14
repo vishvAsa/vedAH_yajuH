@@ -2,10 +2,10 @@
 title = "008"
 
 +++
-índraḥ samátsu yájamānam ā́riyam  
-prā́vad víśveṣu śatámūtir ājíṣu  
-súvarmīḷheṣu ājíṣu  
-mánave śā́sad avratā́n  
-tvácaṃ kr̥ṣṇā́m arandhayat  
-dákṣan ná víśvaṃ tatr̥ṣāṇám oṣati  
-ní arśasānám oṣati  
+इ꣡न्द्रः सम꣡त्सु य꣡जमानम् आ꣡रियम्  
+प्रा꣡वद् वि꣡श्वेषु शत꣡मूतिर् आजि꣡षु  
+सु꣡वर्मीऌहेषु आजि꣡षु  
+म꣡नवे शा꣡सद् अव्रता꣡न्  
+त्व꣡चं कृष्णा꣡म् अरन्धयत्  
+द꣡क्षन् न꣡ वि꣡श्वं ततृषाण꣡म् ओषति  
+नि꣡ अर्शसान꣡म् ओषति  

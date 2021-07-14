@@ -2,8 +2,8 @@
 title = "010"
 
 +++
-etā́vad véd uṣas tuvám  
-bhū́yo vā dā́tum arhasi  
-yā́ stotŕ̥bhyo vibhāvari  
-uchántī ná pramī́yase  
-sújāte áśvasūnr̥te  
+एता꣡वद् वे꣡द् उषस् तुव꣡म्  
+भू꣡यो वा दा꣡तुम् अर्हसि  
+या꣡ स्तोत्ŕ̥भ्यो विभावरि  
+उछ꣡न्ती न꣡ प्रमी꣡यसे  
+सु꣡जाते अ꣡श्वसूनृते  

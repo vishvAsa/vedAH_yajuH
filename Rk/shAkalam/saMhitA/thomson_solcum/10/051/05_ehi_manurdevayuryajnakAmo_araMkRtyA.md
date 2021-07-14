@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-éhi mánur devayúr yajñákāmo  
-araṃkŕ̥tyā támasi kṣeṣi agne  
-sugā́n patháḥ kr̥ṇuhi devayā́nān  
-váha havyā́ni sumanasyámānaḥ  
+ए꣡हि म꣡नुर् देवयु꣡र् यज्ञ꣡कामो  
+अरंक्ŕ̥त्या त꣡मसि क्षेषि अग्ने  
+सुगा꣡न् पथः꣡ कृणुहि देवया꣡नान्  
+व꣡ह हव्या꣡नि सुमनस्य꣡मानः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-āvádaṃs tváṃ śakune bhadrám ā́ vada  
-tūṣṇī́m ā́sīnaḥ sumatíṃ cikiddhi naḥ  
-yád utpátan vádasi karkarír yathā  
-br̥hád vadema vidáthe suvī́rāḥ  
+आव꣡दंस् त्वं꣡ शकुने भद्र꣡म् आ꣡ वद  
+तूष्णी꣡म् आ꣡सीनः सुमतिं꣡ चिकिद्धि नः  
+य꣡द् उत्प꣡तन् व꣡दसि कर्करि꣡र् यथा  
+बृह꣡द् वदेम विद꣡थे सुवी꣡राः  

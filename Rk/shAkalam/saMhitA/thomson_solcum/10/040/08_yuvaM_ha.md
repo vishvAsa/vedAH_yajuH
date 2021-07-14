@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yuváṃ ha kr̥śáṃ yuvám aśvinā śayúṃ  
-yuváṃ vidhántaṃ vidhávām uruṣyathaḥ  
-yuváṃ saníbhya stanáyantam aśvinā  
-ápa vrajám ūrṇuthaḥ saptáāsiyam  
+युवं꣡ ह कृशं꣡ युव꣡म् अश्विना शयुं꣡  
+युवं꣡ विध꣡न्तं विध꣡वाम् उरुष्यथः  
+युवं꣡ सनि꣡भ्य स्तन꣡यन्तम् अश्विना  
+अ꣡प व्रज꣡म् ऊर्णुथः सप्त꣡आसियम्  

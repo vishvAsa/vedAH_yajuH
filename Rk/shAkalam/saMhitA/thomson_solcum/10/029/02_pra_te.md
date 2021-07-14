@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá te asyā́ uṣásaḥ prā́parasyā  
-nr̥taú siyāma nŕ̥tamasya nr̥̄ṇā́m+  
-ánu triśókaḥ śatám ā́vahan nr̥̄́n  
-kútsena rátho yó ásat sasavā́n  
+प्र꣡ ते अस्या꣡ उष꣡सः प्रा꣡परस्या  
+नृतउ꣡ सियाम न्ŕ̥तमस्य नॄणा꣡म्+  
+अ꣡नु त्रिशो꣡कः शत꣡म् आ꣡वहन् नॄ꣡न्  
+कु꣡त्सेन र꣡थो यो꣡ अ꣡सत् ससवा꣡न्  

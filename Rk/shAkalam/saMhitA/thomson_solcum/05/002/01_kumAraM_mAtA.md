@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kumārám mātā́ yuvatíḥ sámubdhaṃ  
-gúhā bibharti ná dadāti pitré  
-ánīkam asya ná mináj jánāsaḥ  
-puráḥ paśyanti níhitam arataú  
+कुमार꣡म् माता꣡ युवतिः꣡ स꣡मुब्धं  
+गु꣡हा बिभर्ति न꣡ ददाति पित्रे꣡  
+अ꣡नीकम् अस्य न꣡ मिन꣡ज् ज꣡नासः  
+पुरः꣡ पश्यन्ति नि꣡हितम् अरतउ꣡  

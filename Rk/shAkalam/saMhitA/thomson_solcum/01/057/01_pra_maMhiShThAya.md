@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá máṃhiṣṭhāya br̥haté br̥hádraye  
-satyáśuṣmāya taváse matím bhare  
-apā́m iva pravaṇé yásya durdháraṃ  
-rā́dho viśvā́yu śávase ápāvr̥tam  
+प्र꣡ मं꣡हिष्ठाय बृहते꣡ बृह꣡द्रये  
+सत्य꣡शुष्माय तव꣡से मति꣡म् भरे  
+अपा꣡म् इव प्रवणे꣡ य꣡स्य दुर्ध꣡रं  
+रा꣡धो विश्वा꣡यु श꣡वसे अ꣡पावृतम्  

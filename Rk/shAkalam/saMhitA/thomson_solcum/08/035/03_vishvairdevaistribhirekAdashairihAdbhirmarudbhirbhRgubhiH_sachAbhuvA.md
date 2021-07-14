@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-víśvair devaís tribhír ekādaśaír ihá  
-adbhír marúdbhir bhŕ̥gubhiḥ sacābhúvā  
-sajóṣasā uṣásā sū́riyeṇa ca  
-sómam pibatam aśvinā  
+वि꣡श्वैर् देवइ꣡स् त्रिभि꣡र् एकादशइ꣡र् इह꣡  
+अद्भि꣡र् मरु꣡द्भिर् भ्ŕ̥गुभिः सचाभु꣡वा  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+सो꣡मम् पिबतम् अश्विना  

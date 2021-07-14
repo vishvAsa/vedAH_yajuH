@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ayáṃ dyotayad adyúto ví aktū́n  
-doṣā́ vástoḥ śaráda índur indra  
-imáṃ ketúm adadhur nū́ cid áhnāṃ  
-śúcijanmana uṣásaś cakāra  
+अयं꣡ द्योतयद् अद्यु꣡तो वि꣡ अक्तू꣡न्  
+दोषा꣡ व꣡स्तोः शर꣡द इ꣡न्दुर् इन्द्र  
+इमं꣡ केतु꣡म् अदधुर् नू꣡ चिद् अ꣡ह्नां  
+शु꣡चिजन्मन उष꣡सश् चकार  

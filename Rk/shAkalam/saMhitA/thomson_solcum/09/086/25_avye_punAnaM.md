@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-ávye punānám pári vā́ra ūrmíṇā  
-háriṃ navante abhí saptá dhenávaḥ  
-apā́m upásthe ádhi āyávaḥ kavím  
-r̥tásya yónā mahiṣā́ aheṣata  
+अ꣡व्ये पुनान꣡म् प꣡रि वा꣡र ऊर्मि꣡णा  
+ह꣡रिं नवन्ते अभि꣡ सप्त꣡ धेन꣡वः  
+अपा꣡म् उप꣡स्थे अ꣡धि आय꣡वः कवि꣡म्  
+ऋत꣡स्य यो꣡ना महिषा꣡ अहेषत  

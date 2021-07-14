@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-sá no vr̥ṣann amúṃ carúṃ  
-sátrādāvann ápā vr̥dhi  
-asmábhyam ápratiṣkutaḥ  
+स꣡ नो वृषन्न् अमुं꣡ चरुं꣡  
+स꣡त्रादावन्न् अ꣡पा वृधि  
+अस्म꣡भ्यम् अ꣡प्रतिष्कुतः  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-prathamabhā́jaṃ yaśásaṃ vayodhā́ṃ  
-supāṇíṃ deváṃ sugábhastim ŕ̥bhvam  
-hótā yakṣad yajatám pastíyānām  
-agnís tváṣṭāraṃ suhávaṃ vibhā́vā  
+प्रथमभा꣡जं यश꣡सं वयोधां꣡  
+सुपाणिं꣡ देवं꣡ सुग꣡भस्तिम् ŕ̥भ्वम्  
+हो꣡ता यक्षद् यजत꣡म् पस्ति꣡यानाम्  
+अग्नि꣡स् त्व꣡ष्टारं सुह꣡वं विभा꣡वा  

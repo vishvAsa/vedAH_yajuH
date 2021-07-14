@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ayáṃ vo yajñá r̥bhavo akāri  
-yám ā́ manuṣvát pradívo dadhidhvé  
-prá vo áchā jujuṣāṇā́so asthur  
-ábhūta víśve agriyótá vājāḥ  
+अयं꣡ वो यज्ञ꣡ ऋभवो अकारि  
+य꣡म् आ꣡ मनुष्व꣡त् प्रदि꣡वो दधिध्वे꣡  
+प्र꣡ वो अ꣡छा जुजुषाणा꣡सो अस्थुर्  
+अ꣡भूत वि꣡श्वे अग्रियो꣡त꣡ वाजाः  

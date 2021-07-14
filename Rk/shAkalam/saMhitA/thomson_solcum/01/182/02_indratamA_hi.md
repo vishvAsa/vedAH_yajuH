@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-índratamā hí dhíṣṇiyā marúttamā  
-dasrā́ dáṃsiṣṭhā rathíyā rathī́tamā  
-pūrṇáṃ ráthaṃ vahethe mádhva ā́citaṃ  
-téna dāśvā́ṃsam úpa yātho aśvinā  
+इ꣡न्द्रतमा हि꣡ धि꣡ष्णिया मरु꣡त्तमा  
+दस्रा꣡ दं꣡सिष्ठा रथि꣡या रथी꣡तमा  
+पूर्णं꣡ र꣡थं वहेथे म꣡ध्व आ꣡चितं  
+ते꣡न दाश्वां꣡सम् उ꣡प याथो अश्विना  

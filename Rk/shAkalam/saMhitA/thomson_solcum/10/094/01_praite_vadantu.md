@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-praíté vadantu prá vayáṃ vadāma  
-grā́vabhyo vā́caṃ vadatā vádadbhyaḥ  
-yád adrayaḥ parvatāḥ sākám āśávaḥ  
-ślókaṃ ghóṣam bhárathéndrāya somínaḥ  
+प्रइ꣡ते꣡ वदन्तु प्र꣡ वयं꣡ वदाम  
+ग्रा꣡वभ्यो वा꣡चं वदता व꣡दद्भ्यः  
+य꣡द् अद्रयः पर्वताः साक꣡म् आश꣡वः  
+श्लो꣡कं घो꣡षम् भ꣡रथे꣡न्द्राय सोमि꣡नः  

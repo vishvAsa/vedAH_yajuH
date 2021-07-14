@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sám ī sákhāyo asvaran  
-váne krī́ḷantam átyavim  
-índuṃ nāvā́ anūṣata  
+स꣡म् ई स꣡खायो अस्वरन्  
+व꣡ने क्री꣡ऌअन्तम् अ꣡त्यविम्  
+इ꣡न्दुं नावा꣡ अनूषत  

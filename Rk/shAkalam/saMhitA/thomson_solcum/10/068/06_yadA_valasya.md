@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yadā́ valásya pī́yato jásum bhéd  
-bŕ̥haspátir agnitápobhir arkaíḥ  
-dadbhír ná jihvā́ páriviṣṭam ā́dad  
-āvír nidhī́m̐r akr̥ṇod usríyāṇām  
+यदा꣡ वल꣡स्य पी꣡यतो ज꣡सुम् भे꣡द्  
+ब्ŕ̥हस्प꣡तिर् अग्नित꣡पोभिर् अर्कइः꣡  
+दद्भि꣡र् न꣡ जिह्वा꣡ प꣡रिविष्टम् आ꣡दद्  
+आवि꣡र् निधीँ꣡र् अकृणोद् उस्रि꣡याणाम्  

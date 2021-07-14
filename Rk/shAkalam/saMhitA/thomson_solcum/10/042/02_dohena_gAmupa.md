@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-dóhena gā́m úpa śikṣā sákhāyam  
-prá bodhaya jaritar jārám índram  
-kóśaṃ ná pūrṇáṃ vásunā nír̥ṣṭam  
-ā́ cyāvaya maghadéyāya śū́ram  
+दो꣡हेन गा꣡म् उ꣡प शिक्षा स꣡खायम्  
+प्र꣡ बोधय जरितर् जार꣡म् इ꣡न्द्रम्  
+को꣡शं न꣡ पूर्णं꣡ व꣡सुना नि꣡ऋष्टम्  
+आ꣡ च्यावय मघदे꣡याय शू꣡रम्  

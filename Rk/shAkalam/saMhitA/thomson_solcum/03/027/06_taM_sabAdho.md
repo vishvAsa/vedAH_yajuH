@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-táṃ sabā́dho yatásruca  
-itthā́ dhiyā́ yajñávantaḥ  
-ā́ cakrur agním ūtáye  
+तं꣡ सबा꣡धो यत꣡स्रुच  
+इत्था꣡ धिया꣡ यज्ञ꣡वन्तः  
+आ꣡ चक्रुर् अग्नि꣡म् ऊत꣡ये  

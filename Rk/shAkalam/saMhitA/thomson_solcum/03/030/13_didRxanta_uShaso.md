@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-dídr̥kṣanta uṣáso yā́man aktór  
-vivásvatyā máhi citrám ánīkam  
-víśve jānanti mahinā́ yád ā́gād  
-índrasya kárma súkr̥tā purū́ṇi  
+दि꣡दृक्षन्त उष꣡सो या꣡मन् अक्तो꣡र्  
+विव꣡स्वत्या म꣡हि चित्र꣡म् अ꣡नीकम्  
+वि꣡श्वे जानन्ति महिना꣡ य꣡द् आ꣡गाद्  
+इ꣡न्द्रस्य क꣡र्म सु꣡कृता पुरू꣡णि  

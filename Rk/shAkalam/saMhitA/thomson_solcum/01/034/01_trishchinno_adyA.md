@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tríś cin no adyā́ bhavataṃ navedasā  
-vibhúr vāṃ yā́ma utá rātír aśvinā  
-yuvór hí yantráṃ himiyéva vā́saso  
-abhyāyaṃsényā bhavatam manīṣíbhiḥ  
+त्रि꣡श् चिन् नो अद्या꣡ भवतं नवेदसा  
+विभु꣡र् वां या꣡म उत꣡ राति꣡र् अश्विना  
+युवो꣡र् हि꣡ यन्त्रं꣡ हिमिये꣡व वा꣡ससो  
+अभ्यायंसे꣡न्या भवतम् मनीषि꣡भिः  

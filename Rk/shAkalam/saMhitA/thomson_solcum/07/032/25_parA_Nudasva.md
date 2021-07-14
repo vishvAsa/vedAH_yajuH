@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-párā ṇudasva maghavann amítrān  
-suvédā no vásū kr̥dhi  
-asmā́kam bodhi avitā́ mahādhané  
-bhávā vr̥dháḥ sákhīnãm  
+प꣡रा णुदस्व मघवन्न् अमि꣡त्रान्  
+सुवे꣡दा नो व꣡सू कृधि  
+अस्मा꣡कम् बोधि अविता꣡ महाधने꣡  
+भ꣡वा वृधः꣡ स꣡खीन्ãम्  

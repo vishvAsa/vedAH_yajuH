@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-tám marjayanta sukrátum  
-puroyā́vānam ājíṣu  
-svéṣu kṣáyeṣu vājínam  
+त꣡म् मर्जयन्त सुक्र꣡तुम्  
+पुरोया꣡वानम् आजि꣡षु  
+स्वे꣡षु क्ष꣡येषु वाजि꣡नम्  

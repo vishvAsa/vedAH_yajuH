@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-evā́ tā́ víśvā cakr̥vā́ṃsam índram  
-mahā́m ugrám ajuriyáṃ sahodā́m  
-suvī́raṃ tvā suāyudháṃ suvájram  
-ā́ bráhma návyam ávase vavr̥tyāt  
+एवा꣡ ता꣡ वि꣡श्वा चकृवां꣡सम् इ꣡न्द्रम्  
+महा꣡म् उग्र꣡म् अजुरियं꣡ सहोदा꣡म्  
+सुवी꣡रं त्वा सुआयुधं꣡ सुव꣡ज्रम्  
+आ꣡ ब्र꣡ह्म न꣡व्यम् अ꣡वसे ववृत्यात्  

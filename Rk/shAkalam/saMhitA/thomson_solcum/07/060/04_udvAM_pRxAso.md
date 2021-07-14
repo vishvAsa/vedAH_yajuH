@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-úd vām pr̥kṣā́so mádhumanto asthur  
-ā́ sū́riyo aruhac chukrám árṇaḥ  
-yásmā ādityā́ ádhvano rádanti  
-mitró aryamā́ váruṇaḥ sajóṣāḥ  
+उ꣡द् वाम् पृक्षा꣡सो म꣡धुमन्तो अस्थुर्  
+आ꣡ सू꣡रियो अरुहच् छुक्र꣡म् अ꣡र्णः  
+य꣡स्मा आदित्या꣡ अ꣡ध्वनो र꣡दन्ति  
+मित्रो꣡ अर्यमा꣡ व꣡रुणः सजो꣡षाः  

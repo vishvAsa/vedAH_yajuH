@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-ná dyā́va índram ójasā  
-nā́ntárikṣāṇi vajríṇam  
-ná vivyacanta bhū́mayaḥ  
+न꣡ द्या꣡व इ꣡न्द्रम् ओ꣡जसा  
+ना꣡न्त꣡रिक्षाणि वज्रि꣡णम्  
+न꣡ विव्यचन्त भू꣡मयः  

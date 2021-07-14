@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-asmā́kaṃ sú rátham purá  
-índraḥ kr̥ṇotu sātáye  
-ná yáṃ dhū́rvanti dhūrtáyaḥ  
+अस्मा꣡कं सु꣡ र꣡थम् पुर꣡  
+इ꣡न्द्रः कृणोतु सात꣡ये  
+न꣡ यं꣡ धू꣡र्वन्ति धूर्त꣡यः  

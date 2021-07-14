@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ satyó yātu maghávām̐ r̥jīṣī́  
-drávantu asya háraya úpa naḥ  
-tásmā íd ándhaḥ suṣumā sudákṣam  
-ihā́bhipitváṃ karate gr̥ṇānáḥ  
+आ꣡ सत्यो꣡ यातु मघ꣡वाँ ऋजीषी꣡  
+द्र꣡वन्तु अस्य ह꣡रय उ꣡प नः  
+त꣡स्मा इ꣡द् अ꣡न्धः सुषुमा सुद꣡क्षम्  
+इहा꣡भिपित्वं꣡ करते गृणानः꣡  

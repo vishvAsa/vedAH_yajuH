@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sthirā́ vaḥ santu ā́yudhā parāṇúde  
-vīḷū́ utá pratiṣkábhe  
-yuṣmā́kam astu táviṣī pánīyasī  
-mā́ mártiyasya māyínaḥ  
+स्थिरा꣡ वः सन्तु आ꣡युधा पराणु꣡दे  
+वीऌऊ꣡ उत꣡ प्रतिष्क꣡भे  
+युष्मा꣡कम् अस्तु त꣡विषी प꣡नीयसी  
+मा꣡ म꣡र्तियस्य मायि꣡नः  

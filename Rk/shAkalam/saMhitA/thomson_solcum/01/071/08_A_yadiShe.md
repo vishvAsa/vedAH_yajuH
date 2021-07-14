@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ā́ yád iṣé nr̥pátiṃ téja ā́naṭ  
-chúci réto níṣiktaṃ dyaúr abhī́ke  
-agníḥ śárdham anavadyáṃ yúvānaṃ  
-suādhíyaṃ janayat sūdáyac ca  
+आ꣡ य꣡द् इषे꣡ नृप꣡तिं ते꣡ज आ꣡नट्  
+छु꣡चि रे꣡तो नि꣡षिक्तं द्यउ꣡र् अभी꣡के  
+अग्निः꣡ श꣡र्धम् अनवद्यं꣡ यु꣡वानं  
+सुआधि꣡यं जनयत् सूद꣡यच् च  

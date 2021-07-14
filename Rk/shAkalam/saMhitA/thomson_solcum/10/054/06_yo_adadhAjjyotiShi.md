@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yó ádadhāj jyótiṣi jyótir antár  
-yó ásr̥jan mádhunā sám mádhūni  
-ádha priyáṃ śūṣám índrāya mánma  
-brahmakŕ̥to br̥hádukthād avāci  
+यो꣡ अ꣡दधाज् ज्यो꣡तिषि ज्यो꣡तिर् अन्त꣡र्  
+यो꣡ अ꣡सृजन् म꣡धुना स꣡म् म꣡धूनि  
+अ꣡ध प्रियं꣡ शूष꣡म् इ꣡न्द्राय म꣡न्म  
+ब्रह्मक्ŕ̥तो बृह꣡दुक्थाद् अवाचि  

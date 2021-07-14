@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-máhi mahé divé arcā pr̥thivyaí  
-kā́mo ma icháñ carati prajānán  
-yáyor ha stóme vidátheṣu devā́ḥ  
-saparyávo mādáyante sácāyóḥ  
+म꣡हि महे꣡ दिवे꣡ अर्चा पृथिव्यइ꣡  
+का꣡मो म इछ꣡ञ् चरति प्रजान꣡न्  
+य꣡योर् ह स्तो꣡मे विद꣡थेषु देवाः꣡  
+सपर्य꣡वो माद꣡यन्ते स꣡चायोः꣡  

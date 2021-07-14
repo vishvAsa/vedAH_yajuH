@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ naḥ pūṣā́ pávamānaḥ surātáyo  
-mitró gachantu váruṇaḥ sajóṣasaḥ  
-bŕ̥haspátir marúto vāyúr aśvínā  
-tváṣṭā savitā́ suyámā sárasvatī  
+आ꣡ नः पूषा꣡ प꣡वमानः सुरात꣡यो  
+मित्रो꣡ गछन्तु व꣡रुणः सजो꣡षसः  
+ब्ŕ̥हस्प꣡तिर् मरु꣡तो वायु꣡र् अश्वि꣡ना  
+त्व꣡ष्टा सविता꣡ सुय꣡मा स꣡रस्वती  

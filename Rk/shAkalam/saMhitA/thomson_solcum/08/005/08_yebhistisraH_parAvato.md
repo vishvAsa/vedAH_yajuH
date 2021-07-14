@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-yébhis tisráḥ parāváto  
-divó víśvāni rocanā́  
-trī́m̐r aktū́n paridī́yathaḥ  
+ये꣡भिस् तिस्रः꣡ पराव꣡तो  
+दिवो꣡ वि꣡श्वानि रोचना꣡  
+त्रीँ꣡र् अक्तू꣡न् परिदी꣡यथः  

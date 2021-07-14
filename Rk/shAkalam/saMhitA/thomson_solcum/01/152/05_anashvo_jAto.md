@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-anaśvó jātó anabhīśúr árvā  
-kánikradat patayad ūrdhvásānuḥ  
-acíttam bráhma jujuṣur yúvānaḥ  
-prá mitré dhā́ma váruṇe gr̥ṇántaḥ  
+अनश्वो꣡ जातो꣡ अनभीशु꣡र् अ꣡र्वा  
+क꣡निक्रदत् पतयद् ऊर्ध्व꣡सानुः  
+अचि꣡त्तम् ब्र꣡ह्म जुजुषुर् यु꣡वानः  
+प्र꣡ मित्रे꣡ धा꣡म व꣡रुणे गृण꣡न्तः  

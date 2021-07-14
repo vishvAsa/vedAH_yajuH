@@ -2,8 +2,8 @@
 title = "010"
 
 +++
-saṃhotráṃ sma purā́ nā́rī  
-sámanaṃ vā́va gachati  
-vedhā́ r̥tásya vīríṇī  
-índrapatnī mahīyate  
-víśvasmād índra úttaraḥ  
+संहोत्रं꣡ स्म पुरा꣡ ना꣡री  
+स꣡मनं वा꣡व गछति  
+वेधा꣡ ऋत꣡स्य वीरि꣡णी  
+इ꣡न्द्रपत्नी महीयते  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

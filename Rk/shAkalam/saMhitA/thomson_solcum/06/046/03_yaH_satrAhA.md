@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yáḥ satrāhā́ vícarṣaṇir  
-índraṃ táṃ hūmahe vayám  
-sáhasramuṣka túvinr̥mṇa sátpate  
-bhávā samátsu no vr̥dhé  
+यः꣡ सत्राहा꣡ वि꣡चर्षणिर्  
+इ꣡न्द्रं तं꣡ हूमहे वय꣡म्  
+स꣡हस्रमुष्क तु꣡विनृम्ण स꣡त्पते  
+भ꣡वा सम꣡त्सु नो वृधे꣡  

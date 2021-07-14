@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yájāmaha índaraṃ+ vájradakṣiṇaṃ  
-hárīṇãṃ rathíyaṃ vívratānãm  
-prá śmáśaru dódhuvad ūrdhváthā bhũd  
-ví sénābhir dáyamāno ví rā́dhasā  
+य꣡जामह इ꣡न्दरं+ व꣡ज्रदक्षिणं  
+ह꣡रीण्ãं रथि꣡यं वि꣡व्रतान्ãम्  
+प्र꣡ श्म꣡शरु दो꣡धुवद् ऊर्ध्व꣡था भ्ũद्  
+वि꣡ से꣡नाभिर् द꣡यमानो वि꣡ रा꣡धसा  

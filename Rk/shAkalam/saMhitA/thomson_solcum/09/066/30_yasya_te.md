@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-yásya te dyumnávat páyaḥ  
-pávamānā́bhr̥taṃ diváḥ  
-téna no mr̥̄ḷa+ jīváse  
+य꣡स्य ते द्युम्न꣡वत् प꣡यः  
+प꣡वमाना꣡भृतं दिवः꣡  
+ते꣡न नो मॄऌअ+ जीव꣡से  

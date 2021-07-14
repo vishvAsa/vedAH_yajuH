@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ádhā hí agne mahnā́ niṣádyā  
-sadyó jajñānó háviyo babhū́tha  
-táṃ te devā́so ánu kétam āyann  
-ádhāvardhanta prathamā́sa ū́māḥ  
+अ꣡धा हि꣡ अग्ने मह्ना꣡ निष꣡द्या  
+सद्यो꣡ जज्ञानो꣡ ह꣡वियो बभू꣡थ  
+तं꣡ ते देवा꣡सो अ꣡नु के꣡तम् आयन्न्  
+अ꣡धावर्धन्त प्रथमा꣡स ऊ꣡माः  

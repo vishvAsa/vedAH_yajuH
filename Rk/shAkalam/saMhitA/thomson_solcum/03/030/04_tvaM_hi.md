@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuváṃ hí ṣmā cyāváyann ácyutāni  
-éko vr̥trā́ cárasi jíghnamānaḥ  
-táva dyā́vāpr̥thivī́ párvatāso  
-ánu vratā́ya nímiteva tasthuḥ  
+तुवं꣡ हि꣡ ष्मा च्याव꣡यन्न् अ꣡च्युतानि  
+ए꣡को वृत्रा꣡ च꣡रसि जि꣡घ्नमानः  
+त꣡व द्या꣡वापृथिवी꣡ प꣡र्वतासो  
+अ꣡नु व्रता꣡य नि꣡मितेव तस्थुः  

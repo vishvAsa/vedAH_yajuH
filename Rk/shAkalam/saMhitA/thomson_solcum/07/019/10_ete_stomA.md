@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-eté stómā narā́ṃ nr̥tama túbhyam  
-asmadríañco dádato maghā́ni  
-téṣām indra vr̥trahátye śivó bhūḥ  
-sákhā ca śū́ro avitā́ ca nr̥̄ṇā́m+  
+एते꣡ स्तो꣡मा नरां꣡ नृतम तु꣡भ्यम्  
+अस्मद्रि꣡अञ्चो द꣡दतो मघा꣡नि  
+ते꣡षाम् इन्द्र वृत्रह꣡त्ये शिवो꣡ भूः  
+स꣡खा च शू꣡रो अविता꣡ च नॄणा꣡म्+  

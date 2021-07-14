@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-áti no viṣpitā́ purú  
-naubhír apó ná parṣatha  
-yūyám r̥tásya rathiyaḥ  
+अ꣡ति नो विष्पिता꣡ पुरु꣡  
+नौभि꣡र् अपो꣡ न꣡ पर्षथ  
+यूय꣡म् ऋत꣡स्य रथियः  

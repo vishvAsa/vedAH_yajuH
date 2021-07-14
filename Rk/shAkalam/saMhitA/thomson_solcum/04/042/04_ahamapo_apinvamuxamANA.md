@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ahám apó apinvam ukṣámāṇā  
-dhāráyaṃ dívaṃ sádana r̥tásya  
-r̥téna putró áditer r̥tā́vā  
-utá tridhā́tu prathayad ví bhū́ma  
+अह꣡म् अपो꣡ अपिन्वम् उक्ष꣡माणा  
+धार꣡यं दि꣡वं स꣡दन ऋत꣡स्य  
+ऋते꣡न पुत्रो꣡ अ꣡दितेर् ऋता꣡वा  
+उत꣡ त्रिधा꣡तु प्रथयद् वि꣡ भू꣡म  

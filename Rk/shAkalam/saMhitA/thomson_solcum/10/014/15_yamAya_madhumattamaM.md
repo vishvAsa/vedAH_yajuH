@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-yamā́ya mádhumattamaṃ  
-rā́jñe havyáṃ juhotana  
-idáṃ náma ŕ̥ṣibhyaḥ pūrvajébhiyaḥ  
-pū́rvebhyaḥ pathikŕ̥dbhiyaḥ  
+यमा꣡य म꣡धुमत्तमं  
+रा꣡ज्ञे हव्यं꣡ जुहोतन  
+इदं꣡ न꣡म ŕ̥षिभ्यः पूर्वजे꣡भियः  
+पू꣡र्वेभ्यः पथिक्ŕ̥द्भियः  

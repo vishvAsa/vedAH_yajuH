@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-agnír dhiyā́ sá cetati  
-ketúr yajñásya pūrviyáḥ  
-árthaṃ hí asya taráṇi  
+अग्नि꣡र् धिया꣡ स꣡ चेतति  
+केतु꣡र् यज्ञ꣡स्य पूर्वियः꣡  
+अ꣡र्थं हि꣡ अस्य तर꣡णि  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-prá jihváyā bharate vépo agníḥ  
-prá vayúnāni cétasā pr̥thivyā́ḥ  
-tám āyávaḥ śucáyantam pavākám+  
-mandráṃ hótāraṃ dadhire yájiṣṭham  
+प्र꣡ जिह्व꣡या भरते वे꣡पो अग्निः꣡  
+प्र꣡ वयु꣡नानि चे꣡तसा पृथिव्याः꣡  
+त꣡म् आय꣡वः शुच꣡यन्तम् पवाक꣡म्+  
+मन्द्रं꣡ हो꣡तारं दधिरे य꣡जिष्ठम्  

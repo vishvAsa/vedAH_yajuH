@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yó vo vr̥tā́bhyo ákr̥ṇod ulokáṃ†  
-yó vo mahyā́ abhíśaster ámuñcat  
-tásmā índrāya mádhumantam ūrmíṃ  
-devamā́danam prá hiṇotanāpaḥ  
+यो꣡ वो वृता꣡भ्यो अ꣡कृणोद् उलोकं꣡†  
+यो꣡ वो मह्या꣡ अभि꣡शस्तेर् अ꣡मुञ्चत्  
+त꣡स्मा इ꣡न्द्राय म꣡धुमन्तम् ऊर्मिं꣡  
+देवमा꣡दनम् प्र꣡ हिणोतनापः  

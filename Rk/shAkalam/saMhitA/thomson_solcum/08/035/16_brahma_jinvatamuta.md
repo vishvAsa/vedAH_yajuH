@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-bráhma jinvatam utá jinvataṃ dhíyo  
-hatáṃ rákṣāṃsi sédhatam ámīvāḥ  
-sajóṣasā uṣásā sū́riyeṇa ca  
-sómaṃ sunvató aśvinā  
+ब्र꣡ह्म जिन्वतम् उत꣡ जिन्वतं धि꣡यो  
+हतं꣡ र꣡क्षांसि से꣡धतम् अ꣡मीवाः  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+सो꣡मं सुन्वतो꣡ अश्विना  

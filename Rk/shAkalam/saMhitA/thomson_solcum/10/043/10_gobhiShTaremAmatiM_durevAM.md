@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-góbhiṣ ṭarema ámatiṃ durévāṃ  
-yávena kṣúdham puruhūta víśvām  
-vayáṃ rā́jabhiḥ prathamā́ dhánāni  
-asmā́kena vr̥jánenā jayema  
+गो꣡भिष् टरेम अ꣡मतिं दुरे꣡वां  
+य꣡वेन क्षु꣡धम् पुरुहूत वि꣡श्वाम्  
+वयं꣡ रा꣡जभिः प्रथमा꣡ ध꣡नानि  
+अस्मा꣡केन वृज꣡नेना जयेम  

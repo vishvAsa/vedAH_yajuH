@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-iyám índraṃ váruṇam aṣṭa me gī́ḥ  
-prā́vat toké tánaye tū́tujānā  
-surátnāso devávītiṃ gamema  
-yūyám pāta suastíbhiḥ sádā naḥ  
+इय꣡म् इ꣡न्द्रं व꣡रुणम् अष्ट मे गीः꣡  
+प्रा꣡वत् तोके꣡ त꣡नये तू꣡तुजाना  
+सुर꣡त्नासो देव꣡वीतिं गमेम  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

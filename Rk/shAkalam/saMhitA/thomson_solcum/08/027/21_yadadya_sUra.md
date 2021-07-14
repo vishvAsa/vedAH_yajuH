@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-yád adyá sū́ra údite  
-yán madhyáṃdina ātúci  
-vāmáṃ dhatthá mánave viśvavedaso  
-júhvānāya prácetase  
+य꣡द् अद्य꣡ सू꣡र उ꣡दिते  
+य꣡न् मध्यं꣡दिन आतु꣡चि  
+वामं꣡ धत्थ꣡ म꣡नवे विश्ववेदसो  
+जु꣡ह्वानाय प्र꣡चेतसे  

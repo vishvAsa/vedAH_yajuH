@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ví cid vr̥trásya dódhato  
-vájreṇa śatáparvaṇā  
-śíro bibheda vr̥ṣṇínā  
+वि꣡ चिद् वृत्र꣡स्य दो꣡धतो  
+व꣡ज्रेण शत꣡पर्वणा  
+शि꣡रो बिभेद वृष्णि꣡ना  

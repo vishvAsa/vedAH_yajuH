@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yád áśvān dhūrṣú pŕ̥ṣatīr áyugdhuvaṃ  
-hiraṇyáyān práti átkām̐ ámugdhuvam  
-víśvā ít spŕ̥dho maruto ví asyatha  
-śúbhaṃ yātā́m ánu ráthā avr̥tsata  
+य꣡द् अ꣡श्वान् धूर्षु꣡ प्ŕ̥षतीर् अ꣡युग्धुवं  
+हिरण्य꣡यान् प्र꣡ति अ꣡त्काँ अ꣡मुग्धुवम्  
+वि꣡श्वा इ꣡त् स्प्ŕ̥धो मरुतो वि꣡ अस्यथ  
+शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत  

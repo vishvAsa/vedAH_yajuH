@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-saparyávo bháramāṇā abhijñú  
-prá vr̥ñjate námasā barhír agnaú  
-ājúhvānā ghr̥tápr̥ṣṭham pŕ̥ṣadvad  
-ádhvaryavo havíṣā marjayadhvam  
+सपर्य꣡वो भ꣡रमाणा अभिज्ञु꣡  
+प्र꣡ वृञ्जते न꣡मसा बर्हि꣡र् अग्नउ꣡  
+आजु꣡ह्वाना घृत꣡पृष्ठम् प्ŕ̥षद्वद्  
+अ꣡ध्वर्यवो हवि꣡षा मर्जयध्वम्  

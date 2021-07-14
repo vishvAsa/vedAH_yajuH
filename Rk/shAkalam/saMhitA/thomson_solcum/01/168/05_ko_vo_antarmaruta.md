@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-kó vo antár maruta r̥ṣṭividyuto  
-réjati tmánā hánuveva jihváyā  
-dhanuacyúta iṣã́ṃ ná yā́mani  
-purupraíṣā ahaníyo ná étaśaḥ  
+को꣡ वो अन्त꣡र् मरुत ऋष्टिविद्युतो  
+रे꣡जति त्म꣡ना ह꣡नुवेव जिह्व꣡या  
+धनुअच्यु꣡त इष्ãं꣡ न꣡ या꣡मनि  
+पुरुप्रइ꣡षा अहनि꣡यो न꣡ ए꣡तशः  

@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-rā́si kṣáyaṃ rā́si mitrám asmé  
-rā́si śárdha indra mā́rutaṃ naḥ  
-sajóṣaso yé ca mandasānā́ḥ  
-prá vāyávaḥ pānti ágraṇītim  
+रा꣡सि क्ष꣡यं रा꣡सि मित्र꣡म् अस्मे꣡  
+रा꣡सि श꣡र्ध इन्द्र मा꣡रुतं नः  
+सजो꣡षसो ये꣡ च मन्दसानाः꣡  
+प्र꣡ वाय꣡वः पान्ति अ꣡ग्रणीतिम्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tuváṃ dyā́ṃ ca mahivrata  
-pr̥thivī́ṃ cā́ti jabhriṣe  
-práti drāpím amuñcathāḥ  
-pávamāna mahitvanā́  
+तुवं꣡ द्यां꣡ च महिव्रत  
+पृथिवीं꣡ चा꣡ति जभ्रिषे  
+प्र꣡ति द्रापि꣡म् अमुञ्चथाः  
+प꣡वमान महित्वना꣡  

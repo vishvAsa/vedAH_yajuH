@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-pípartu no áditī rā́japutrā  
-áti dvéṣāṃsi aryamā́ sugébhiḥ  
-br̥hán mitrásya váruṇasya śárma  
-úpa syāma puruvī́rā áriṣṭāḥ  
+पि꣡पर्तु नो अ꣡दिती रा꣡जपुत्रा  
+अ꣡ति द्वे꣡षांसि अर्यमा꣡ सुगे꣡भिः  
+बृह꣡न् मित्र꣡स्य व꣡रुणस्य श꣡र्म  
+उ꣡प स्याम पुरुवी꣡रा अ꣡रिष्टाः  

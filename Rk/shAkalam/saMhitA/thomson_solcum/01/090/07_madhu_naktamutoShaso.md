@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-mádhu náktam utóṣáso  
-mádhumat pā́rthivaṃ rájaḥ  
-mádhu dyaúr astu naḥ pitā́  
+म꣡धु न꣡क्तम् उतो꣡ष꣡सो  
+म꣡धुमत् पा꣡र्थिवं र꣡जः  
+म꣡धु द्यउ꣡र् अस्तु नः पिता꣡  

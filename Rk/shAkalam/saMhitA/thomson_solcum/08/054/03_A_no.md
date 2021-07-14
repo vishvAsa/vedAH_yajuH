@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ no víśve sajóṣaso  
-dévāso gántanópa naḥ  
-vásavo rudrā́ ávase na ā́ gamañ  
-chr̥ṇvántu marúto hávam  
+आ꣡ नो वि꣡श्वे सजो꣡षसो  
+दे꣡वासो ग꣡न्तनो꣡प नः  
+व꣡सवो रुद्रा꣡ अ꣡वसे न आ꣡ गमञ्  
+छृण्व꣡न्तु मरु꣡तो ह꣡वम्  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-śrudhī́ no agne sádane sadhásthe  
-yukṣvā́ rátham amŕ̥tasya dravitnúm  
-ā́ no vaha ródasī deváputre  
-mā́kir devā́nām ápa bhūr ihá syāḥ  
+श्रुधी꣡ नो अग्ने स꣡दने सध꣡स्थे  
+युक्ष्वा꣡ र꣡थम् अम्ŕ̥तस्य द्रवित्नु꣡म्  
+आ꣡ नो वह रो꣡दसी देव꣡पुत्रे  
+मा꣡किर् देवा꣡नाम् अ꣡प भूर् इह꣡ स्याः  

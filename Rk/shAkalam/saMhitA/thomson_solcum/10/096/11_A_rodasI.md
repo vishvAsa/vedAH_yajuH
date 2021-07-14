@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ā́ ródasī háryamāṇo mahitvā́  
-návyaṃ-navyaṃ haryasi mánma nú priyám  
-prá pastíyam asura haryatáṃ gór  
-āvíṣ kr̥dhi háraye sū́riyāya  
+आ꣡ रो꣡दसी ह꣡र्यमाणो महित्वा꣡  
+न꣡व्यं-नव्यं हर्यसि म꣡न्म नु꣡ प्रिय꣡म्  
+प्र꣡ पस्ति꣡यम् असुर हर्यतं꣡ गो꣡र्  
+आवि꣡ष् कृधि ह꣡रये सू꣡रियाय  

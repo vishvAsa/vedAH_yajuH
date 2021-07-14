@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-pratnó hí kam ī́ḍiyo adhvaréṣu  
-sanā́c ca hótā náviyaś ca sátsi  
-suvā́ṃ cāgne tanúvam pipráyasva  
-asmábhyaṃ ca saúbhagam ā́ yajasva  
+प्रत्नो꣡ हि꣡ कम् ई꣡डियो अध्वरे꣡षु  
+सना꣡च् च हो꣡ता न꣡वियश् च स꣡त्सि  
+सुवां꣡ चाग्ने तनु꣡वम् पिप्र꣡यस्व  
+अस्म꣡भ्यं च सउ꣡भगम् आ꣡ यजस्व  

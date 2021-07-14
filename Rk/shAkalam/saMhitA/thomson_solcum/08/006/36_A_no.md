@@ -2,6 +2,6 @@
 title = "036"
 
 +++
-ā́ no yāhi parāváto  
-háribhyāṃ haryatā́bhiyām  
-imám indra sutám piba  
+आ꣡ नो याहि पराव꣡तो  
+ह꣡रिभ्यां हर्यता꣡भियाम्  
+इम꣡म् इन्द्र सुत꣡म् पिब  

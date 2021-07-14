@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-súsamiddho na ā́ vaha  
-devā́m̐ agne havíṣmate  
-hótaḥ pavāka+ yákṣi ca  
+सु꣡समिद्धो न आ꣡ वह  
+देवाँ꣡ अग्ने हवि꣡ष्मते  
+हो꣡तः पवाक+ य꣡क्षि च  

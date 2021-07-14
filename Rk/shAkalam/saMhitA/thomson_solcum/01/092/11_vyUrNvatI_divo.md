@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-viūrṇvatī́ divó ántām̐ abodhi  
-ápa svásāraṃ sanutár yuyoti  
-praminatī́ manuṣíyā yugā́ni  
-yóṣā jārásya cákṣasā ví bhāti  
+विऊर्ण्वती꣡ दिवो꣡ अ꣡न्ताँ अबोधि  
+अ꣡प स्व꣡सारं सनुत꣡र् युयोति  
+प्रमिनती꣡ मनुषि꣡या युगा꣡नि  
+यो꣡षा जार꣡स्य च꣡क्षसा वि꣡ भाति  

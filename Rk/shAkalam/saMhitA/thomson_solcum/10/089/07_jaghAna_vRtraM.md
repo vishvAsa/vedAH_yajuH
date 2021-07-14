@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-jaghā́na vr̥tráṃ svádhitir váneva  
-rurója púro áradan ná síndhūn  
-bibhéda giríṃ návam ín ná kumbhám  
-ā́ gā́ índro akr̥ṇuta svayúgbhiḥ  
+जघा꣡न वृत्रं꣡ स्व꣡धितिर् व꣡नेव  
+रुरो꣡ज पु꣡रो अ꣡रदन् न꣡ सि꣡न्धून्  
+बिभे꣡द गिरिं꣡ न꣡वम् इ꣡न् न꣡ कुम्भ꣡म्  
+आ꣡ गा꣡ इ꣡न्द्रो अकृणुत स्वयु꣡ग्भिः  

@@ -2,6 +2,6 @@
 title = "026"
 
 +++
-ápibat kadrúvaḥ sutám  
-índraḥ sahásrabāhuve  
-átrādediṣṭa paúṃsiyam  
+अ꣡पिबत् कद्रु꣡वः सुत꣡म्  
+इ꣡न्द्रः सह꣡स्रबाहुवे  
+अ꣡त्रादेदिष्ट पउं꣡सियम्  

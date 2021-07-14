@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-kó vām adyā́ karate rātáhavya  
-ūtáye vā sutapéyāya vārkaíḥ  
-r̥tásya vā vanúṣe pūrviyā́ya  
-námo yemānó aśvinā́ vavartat  
+को꣡ वाम् अद्या꣡ करते रात꣡हव्य  
+ऊत꣡ये वा सुतपे꣡याय वार्कइः꣡  
+ऋत꣡स्य वा वनु꣡षे पूर्विया꣡य  
+न꣡मो येमानो꣡ अश्विना꣡ ववर्तत्  

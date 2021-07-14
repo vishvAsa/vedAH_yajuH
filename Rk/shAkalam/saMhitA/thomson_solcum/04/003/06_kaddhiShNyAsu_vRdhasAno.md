@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-kád dhíṣṇiyāsu vr̥dhasānó agne  
-kád vā́tāya prátavase śubhaṃyé  
-párijmane nā́satiyāya kṣé  
-brávaḥ kád agne rudarā́ya+ nr̥ghné  
+क꣡द् धि꣡ष्णियासु वृधसानो꣡ अग्ने  
+क꣡द् वा꣡ताय प्र꣡तवसे शुभंये꣡  
+प꣡रिज्मने ना꣡सतियाय क्षे꣡  
+ब्र꣡वः क꣡द् अग्ने रुदरा꣡य+ नृघ्ने꣡  

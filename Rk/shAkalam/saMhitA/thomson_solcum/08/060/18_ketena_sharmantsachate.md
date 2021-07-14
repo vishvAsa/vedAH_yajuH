@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-kétena śárman sacate suṣāmáṇi  
-ágne túbhyaṃ cikitvánā  
-iṣaṇyáyā naḥ pururū́pam ā́ bhara  
-vā́jaṃ nédiṣṭham ūtáye  
+के꣡तेन श꣡र्मन् सचते सुषाम꣡णि  
+अ꣡ग्ने तु꣡भ्यं चिकित्व꣡ना  
+इषण्य꣡या नः पुरुरू꣡पम् आ꣡ भर  
+वा꣡जं ने꣡दिष्ठम् ऊत꣡ये  

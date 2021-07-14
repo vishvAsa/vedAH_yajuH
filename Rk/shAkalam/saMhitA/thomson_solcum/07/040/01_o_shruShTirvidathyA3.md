@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ṍ śruṣṭír vidathíyā sám etu  
-práti stómaṃ dadhīmahi turā́ṇām  
-yád adyá deváḥ savitā́ suvā́ti  
-siyā́ma asya ratníno vibhāgé  
+õ꣡ श्रुष्टि꣡र् विदथि꣡या स꣡म् एतु  
+प्र꣡ति स्तो꣡मं दधीमहि तुरा꣡णाम्  
+य꣡द् अद्य꣡ देवः꣡ सविता꣡ सुवा꣡ति  
+सिया꣡म अस्य रत्नि꣡नो विभागे꣡  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-cátasra īṃ ghr̥tadúhaḥ sacante  
-samāné antár dharúṇe níṣattāḥ  
-tā́ īm arṣanti námasā punānā́s  
-tā́ īṃ viśvátaḥ pári ṣanti pūrvī́ḥ  
+च꣡तस्र ईं घृतदु꣡हः सचन्ते  
+समाने꣡ अन्त꣡र् धरु꣡णे नि꣡षत्ताः  
+ता꣡ ईम् अर्षन्ति न꣡मसा पुनाना꣡स्  
+ता꣡ ईं विश्व꣡तः प꣡रि षन्ति पूर्वीः꣡  

@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ubhé dhúrau váhnir āpíbdamāno  
-antár yóneva carati dvijā́niḥ  
-vánaspátiṃ vána ā́sthāpayadhvaṃ  
-ní ṣū́ dadhidhvam ákhananta útsam  
+उभे꣡ धु꣡रौ व꣡ह्निर् आपि꣡ब्दमानो  
+अन्त꣡र् यो꣡नेव चरति द्विजा꣡निः  
+व꣡नस्प꣡तिं व꣡न आ꣡स्थापयध्वं  
+नि꣡ षू꣡ दधिध्वम् अ꣡खनन्त उ꣡त्सम्  

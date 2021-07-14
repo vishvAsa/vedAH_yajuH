@@ -2,6 +2,6 @@
 title = "021"
 
 +++
-sá no niyúdbhir ā́ pr̥ṇa  
-kā́maṃ vā́jebhir aśvíbhiḥ  
-gómadbhir gopate dhr̥ṣát  
+स꣡ नो नियु꣡द्भिर् आ꣡ पृण  
+का꣡मं वा꣡जेभिर् अश्वि꣡भिः  
+गो꣡मद्भिर् गोपते धृष꣡त्  

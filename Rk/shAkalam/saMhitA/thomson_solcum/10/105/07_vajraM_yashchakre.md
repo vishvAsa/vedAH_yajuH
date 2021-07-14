@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-vájraṃ yáś cakré suhánāya dásyave  
-hirīmaśó hírīmān  
-árutahanur ádbhutaṃ ná rájaḥ  
+व꣡ज्रं य꣡श् चक्रे꣡ सुह꣡नाय द꣡स्यवे  
+हिरीमशो꣡ हि꣡रीमान्  
+अ꣡रुतहनुर् अ꣡द्भुतं न꣡ र꣡जः  

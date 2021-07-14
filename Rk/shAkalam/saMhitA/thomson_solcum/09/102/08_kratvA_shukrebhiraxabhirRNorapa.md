@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-krátvā śukrébhir akṣábhir  
-r̥ṇór ápa vrajáṃ diváḥ  
-hinvánn r̥tásya dī́dhitim prá adhvaré  
+क्र꣡त्वा शुक्रे꣡भिर् अक्ष꣡भिर्  
+ऋणो꣡र् अ꣡प व्रजं꣡ दिवः꣡  
+हिन्व꣡न्न् ऋत꣡स्य दी꣡धितिम् प्र꣡ अध्वरे꣡  

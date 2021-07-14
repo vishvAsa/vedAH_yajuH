@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-rā́jā medhā́bhir īyate  
-pávamāno manā́v ádhi  
-antárikṣeṇa yā́tave  
+रा꣡जा मेधा꣡भिर् ईयते  
+प꣡वमानो मना꣡व् अ꣡धि  
+अन्त꣡रिक्षेण या꣡तवे  

@@ -2,7 +2,7 @@
 title = "038"
 
 +++
-yó me híraṇyasaṃdr̥śo  
-dáśa rā́jño ámaṃhata  
-adhaspadā́ íc caidiyásya kr̥ṣṭáyaś  
-carmamnā́ abhíto jánāḥ  
+यो꣡ मे हि꣡रण्यसंदृशो  
+द꣡श रा꣡ज्ञो अ꣡मंहत  
+अधस्पदा꣡ इ꣡च् चैदिय꣡स्य कृष्ट꣡यश्  
+चर्मम्ना꣡ अभि꣡तो ज꣡नाः  

@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-pádyā vaste pururū́pā vápūṃṣi  
-ūrdhvā́ tasthau triáviṃ rérihāṇā  
-r̥tásya sádma ví carāmi vidvā́n  
-mahád devā́nām asuratvám ékam  
+प꣡द्या वस्ते पुरुरू꣡पा व꣡पूंषि  
+ऊर्ध्वा꣡ तस्थौ त्रिअ꣡विं रे꣡रिहाणा  
+ऋत꣡स्य स꣡द्म वि꣡ चरामि विद्वा꣡न्  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

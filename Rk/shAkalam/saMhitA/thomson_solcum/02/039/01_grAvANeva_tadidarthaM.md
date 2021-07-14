@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-grā́vāṇeva tád íd árthaṃ jarethe  
-gŕ̥dhreva vr̥kṣáṃ nidhimántam ácha  
-brahmā́ṇeva vidátha ukthaśā́sā  
-dūtéva hávyā jániyā purutrā́  
+ग्रा꣡वाणेव त꣡द् इ꣡द् अ꣡र्थं जरेथे  
+ग्ŕ̥ध्रेव वृक्षं꣡ निधिम꣡न्तम् अ꣡छ  
+ब्रह्मा꣡णेव विद꣡थ उक्थशा꣡सा  
+दूते꣡व ह꣡व्या ज꣡निया पुरुत्रा꣡  

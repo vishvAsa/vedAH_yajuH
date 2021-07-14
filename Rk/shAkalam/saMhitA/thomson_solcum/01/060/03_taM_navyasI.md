@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-táṃ návyasī hr̥dá ā́ jā́yamānam  
-asmát sukīrtír mádhujihvam aśyāḥ  
-yám r̥tvíjo vr̥jáne mā́nuṣāsaḥ  
-práyasvanta āyávo jī́jananta  
+तं꣡ न꣡व्यसी हृद꣡ आ꣡ जा꣡यमानम्  
+अस्म꣡त् सुकीर्ति꣡र् म꣡धुजिह्वम् अश्याः  
+य꣡म् ऋत्वि꣡जो वृज꣡ने मा꣡नुषासः  
+प्र꣡यस्वन्त आय꣡वो जी꣡जनन्त  

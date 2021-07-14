@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ devó yātu savitā́ surátno  
-antarikṣaprā́ váhamāno áśvaiḥ  
-háste dádhāno náriyā purū́ṇi  
-niveśáyañ ca prasuváñ ca bhū́ma  
+आ꣡ देवो꣡ यातु सविता꣡ सुर꣡त्नो  
+अन्तरिक्षप्रा꣡ व꣡हमानो अ꣡श्वैः  
+ह꣡स्ते द꣡धानो न꣡रिया पुरू꣡णि  
+निवेश꣡यञ् च प्रसुव꣡ञ् च भू꣡म  

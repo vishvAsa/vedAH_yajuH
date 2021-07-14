@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-táṃ vo dasmám r̥tīṣáhaṃ  
-vásor mandānám ándhasaḥ  
-abhí vatsáṃ ná svásareṣu dhenáva  
-índraṃ gīrbhír navāmahe  
+तं꣡ वो दस्म꣡म् ऋतीष꣡हं  
+व꣡सोर् मन्दान꣡म् अ꣡न्धसः  
+अभि꣡ वत्सं꣡ न꣡ स्व꣡सरेषु धेन꣡व  
+इ꣡न्द्रं गीर्भि꣡र् नवामहे  

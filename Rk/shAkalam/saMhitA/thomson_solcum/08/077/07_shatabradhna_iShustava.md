@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-śatábradhna íṣus táva  
-sahásraparṇa éka ít  
-yám indra cakr̥ṣé yújam  
+शत꣡ब्रध्न इ꣡षुस् त꣡व  
+सह꣡स्रपर्ण ए꣡क इ꣡त्  
+य꣡म् इन्द्र चकृषे꣡ यु꣡जम्  

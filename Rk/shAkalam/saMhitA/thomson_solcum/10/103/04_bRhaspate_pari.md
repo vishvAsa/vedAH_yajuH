@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-bŕ̥haspate pári dīyā ráthena  
-rakṣohā́mítrām̐ apabā́dhamānaḥ  
-prabhañján sénāḥ pramr̥ṇó yudhā́ jáyann  
-asmā́kam edhi avitā́ ráthānām  
+ब्ŕ̥हस्पते प꣡रि दीया र꣡थेन  
+रक्षोहा꣡मि꣡त्राँ अपबा꣡धमानः  
+प्रभञ्ज꣡न् से꣡नाः प्रमृणो꣡ युधा꣡ ज꣡यन्न्  
+अस्मा꣡कम् एधि अविता꣡ र꣡थानाम्  

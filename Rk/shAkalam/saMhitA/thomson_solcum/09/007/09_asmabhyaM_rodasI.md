@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-asmábhyaṃ rodasī rayím  
-mádhvo vā́jasya sātáye  
-śrávo vásūni sáṃ jitam  
+अस्म꣡भ्यं रोदसी रयि꣡म्  
+म꣡ध्वो वा꣡जस्य सात꣡ये  
+श्र꣡वो व꣡सूनि सं꣡ जितम्  

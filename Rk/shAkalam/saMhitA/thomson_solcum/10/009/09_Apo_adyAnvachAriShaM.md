@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ā́po adyā́nv acāriṣaṃ  
-rásena sám agasmahi  
-páyasvān agna ā́ gahi  
-tám mā sáṃ sr̥ja várcasā  
+आ꣡पो अद्या꣡न्व् अचारिषं  
+र꣡सेन स꣡म् अगस्महि  
+प꣡यस्वान् अग्न आ꣡ गहि  
+त꣡म् मा सं꣡ सृज व꣡र्चसा  

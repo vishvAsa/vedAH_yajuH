@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-agnír ha nā́ma dhāyi dánn apástamaḥ  
-sáṃ yó vánā yuváte bhásmanā datā́  
-abhipramúrā juhúvā suadhvará  
-inó ná próthamāno yávase vŕ̥ṣā  
+अग्नि꣡र् ह ना꣡म धायि द꣡न्न् अप꣡स्तमः  
+सं꣡ यो꣡ व꣡ना युव꣡ते भ꣡स्मना दता꣡  
+अभिप्रमु꣡रा जुहु꣡वा सुअध्वर꣡  
+इनो꣡ न꣡ प्रो꣡थमानो य꣡वसे व्ŕ̥षा  

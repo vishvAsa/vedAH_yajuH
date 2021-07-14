@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-vŕ̥ṣā vo aṃśúr ná kílā riṣāthana  
-íḷāvantaḥ sádam ít sthana ā́śitāḥ  
-raivatyéva máhasā cā́rava sthana  
-yásya grāvāṇo ájuṣadhvam adhvarám  
+व्ŕ̥षा वो अंशु꣡र् न꣡ कि꣡ला रिषाथन  
+इ꣡ऌआवन्तः स꣡दम् इ꣡त् स्थन आ꣡शिताः  
+रैवत्ये꣡व म꣡हसा चा꣡रव स्थन  
+य꣡स्य ग्रावाणो अ꣡जुषध्वम् अध्वर꣡म्  

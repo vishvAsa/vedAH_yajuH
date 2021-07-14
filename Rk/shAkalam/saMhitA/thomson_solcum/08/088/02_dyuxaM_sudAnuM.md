@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-dyukṣáṃ sudā́nuṃ táviṣībhir ā́vr̥taṃ  
-giríṃ ná purubhójasam  
-kṣumántaṃ vā́jaṃ śatínaṃ sahasríṇam  
-makṣū́ gómantam īmahe  
+द्युक्षं꣡ सुदा꣡नुं त꣡विषीभिर् आ꣡वृतं  
+गिरिं꣡ न꣡ पुरुभो꣡जसम्  
+क्षुम꣡न्तं वा꣡जं शति꣡नं सहस्रि꣡णम्  
+मक्षू꣡ गो꣡मन्तम् ईमहे  

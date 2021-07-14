@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sakhyé ta indra vājíno  
-mā́ bhema śavasas pate  
-tuvā́m abhí prá ṇonumo  
-jétāram áparājitam  
+सख्ये꣡ त इन्द्र वाजि꣡नो  
+मा꣡ भेम शवसस् पते  
+तुवा꣡म् अभि꣡ प्र꣡ णोनुमो  
+जे꣡तारम् अ꣡पराजितम्  

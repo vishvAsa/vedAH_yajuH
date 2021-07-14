@@ -2,10 +2,10 @@
 title = "005"
 
 +++
-túbhyaṃ śukrā́saḥ śúcayas turaṇyávo  
-mádeṣu ugrā́ iṣaṇanta bhurváṇi  
-apā́m iṣanta bhurváṇi  
-tuvā́ṃ tsārī́ dásamāno  
-bhágam īṭṭe takvavī́ye  
-tváṃ víśvasmād bhúvanāt pāsi dhármaṇā  
-asuryā̀t pāsi dhármaṇā  
+तु꣡भ्यं शुक्रा꣡सः शु꣡चयस् तुरण्य꣡वो  
+म꣡देषु उग्रा꣡ इषणन्त भुर्व꣡णि  
+अपा꣡म् इषन्त भुर्व꣡णि  
+तुवां꣡ त्सारी꣡ द꣡समानो  
+भ꣡गम् ईट्टे तक्ववी꣡ये  
+त्वं꣡ वि꣡श्वस्माद् भु꣡वनात् पासि ध꣡र्मणा  
+असुर्या᳡त् पासि ध꣡र्मणा  

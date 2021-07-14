@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-prá vīrā́ya prá taváse turā́ya  
-ájā yūthéva paśurákṣir ástam  
-sá pispr̥śati tanúvi śrutásya  
-stŕ̥bhir ná nā́kaṃ vacanásya vípaḥ  
+प्र꣡ वीरा꣡य प्र꣡ तव꣡से तुरा꣡य  
+अ꣡जा यूथे꣡व पशुर꣡क्षिर् अ꣡स्तम्  
+स꣡ पिस्पृशति तनु꣡वि श्रुत꣡स्य  
+स्त्ŕ̥भिर् न꣡ ना꣡कं वचन꣡स्य वि꣡पः  

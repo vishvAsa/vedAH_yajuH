@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-asmé tád indrāvaruṇā vásu ṣyād  
-asmé rayír marutaḥ sárvavīraḥ  
-asmā́n várūtrīḥ śaraṇaír avantu  
-asmā́n hótrā bhā́ratī dákṣiṇābhiḥ  
+अस्मे꣡ त꣡द् इन्द्रावरुणा व꣡सु ष्याद्  
+अस्मे꣡ रयि꣡र् मरुतः स꣡र्ववीरः  
+अस्मा꣡न् व꣡रूत्रीः शरणइ꣡र् अवन्तु  
+अस्मा꣡न् हो꣡त्रा भा꣡रती द꣡क्षिणाभिः  

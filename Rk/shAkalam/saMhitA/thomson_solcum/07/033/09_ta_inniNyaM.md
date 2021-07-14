@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tá ín niṇyáṃ hŕ̥dayasya praketaíḥ  
-sahásravalśam abhí sáṃ caranti  
-yaména tatám paridhíṃ váyanto  
-apsarása úpa sedur vásiṣṭhāḥ  
+त꣡ इ꣡न् निण्यं꣡ ह्ŕ̥दयस्य प्रकेतइः꣡  
+सह꣡स्रवल्शम् अभि꣡ सं꣡ चरन्ति  
+यमे꣡न तत꣡म् परिधिं꣡ व꣡यन्तो  
+अप्सर꣡स उ꣡प सेदुर् व꣡सिष्ठाः  

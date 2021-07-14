@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-svastí pánthām ánu carema  
-sūryācandramásāv iva  
-púnar dádatā ághnatā  
-jānatā́ sáṃ gamemahi  
+स्वस्ति꣡ प꣡न्थाम् अ꣡नु चरेम  
+सूर्याचन्द्रम꣡साव् इव  
+पु꣡नर् द꣡दता अ꣡घ्नता  
+जानता꣡ सं꣡ गमेमहि  

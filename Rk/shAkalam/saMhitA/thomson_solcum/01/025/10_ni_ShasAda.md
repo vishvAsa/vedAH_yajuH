@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-ní ṣasāda dhr̥távrato  
-váruṇaḥ pastíyāsu ā́  
-sā́mrājiyāya sukrátuḥ  
+नि꣡ षसाद धृत꣡व्रतो  
+व꣡रुणः पस्ति꣡यासु आ꣡  
+सा꣡म्राजियाय सुक्र꣡तुः  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ayám índro marútsakhā  
-ví vr̥trásyābhinac chíraḥ  
-vájreṇa śatáparvaṇā  
+अय꣡म् इ꣡न्द्रो मरु꣡त्सखा  
+वि꣡ वृत्र꣡स्याभिनच् छि꣡रः  
+व꣡ज्रेण शत꣡पर्वणा  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-tuváṃ sutó nr̥mā́dano  
-dadhanvā́n matsaríntamaḥ  
-índrāya sūrír ándhasā  
+तुवं꣡ सुतो꣡ नृमा꣡दनो  
+दधन्वा꣡न् मत्सरि꣡न्तमः  
+इ꣡न्द्राय सूरि꣡र् अ꣡न्धसा  

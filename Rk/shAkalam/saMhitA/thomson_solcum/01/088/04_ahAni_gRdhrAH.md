@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-áhāni gŕ̥dhrāḥ pári ā́ va ā́gur  
-imā́ṃ dhíyaṃ vārkāriyā́ṃ ca devī́m  
-bráhma kr̥ṇvánto gótamāso arkaír  
-ūrdhváṃ nunudra utsadhím píbadhyai  
+अ꣡हानि ग्ŕ̥ध्राः प꣡रि आ꣡ व आ꣡गुर्  
+इमां꣡ धि꣡यं वार्कारियां꣡ च देवी꣡म्  
+ब्र꣡ह्म कृण्व꣡न्तो गो꣡तमासो अर्कइ꣡र्  
+ऊर्ध्वं꣡ नुनुद्र उत्सधि꣡म् पि꣡बध्यै  

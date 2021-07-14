@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-rathī́tamaṃ kapardínam  
-ī́śānaṃ rā́dhaso maháḥ  
-rāyáḥ sákhāyam īmahe  
+रथी꣡तमं कपर्दि꣡नम्  
+ई꣡शानं रा꣡धसो महः꣡  
+रायः꣡ स꣡खायम् ईमहे  

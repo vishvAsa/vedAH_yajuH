@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-sárve nandanti yaśásā́gatena  
-sabhāsāhéna sákhiyā sákhāyaḥ  
-kilbiṣaspŕ̥t pituṣáṇir hí eṣām  
-áraṃ hitó bhávati vā́jināya  
+स꣡र्वे नन्दन्ति यश꣡सा꣡गतेन  
+सभासाहे꣡न स꣡खिया स꣡खायः  
+किल्बिषस्प्ŕ̥त् पितुष꣡णिर् हि꣡ एषाम्  
+अ꣡रं हितो꣡ भ꣡वति वा꣡जिनाय  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-evá agníṃ sahasíyaṃ vásiṣṭho  
-rāyáskāmo viśvápsniyasya staut  
-íṣaṃ rayím paprathad vā́jam asmé  
-yūyám pāta suastíbhiḥ sádā naḥ  
+एव꣡ अग्निं꣡ सहसि꣡यं व꣡सिष्ठो  
+राय꣡स्कामो विश्व꣡प्स्नियस्य स्तौत्  
+इ꣡षं रयि꣡म् पप्रथद् वा꣡जम् अस्मे꣡  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

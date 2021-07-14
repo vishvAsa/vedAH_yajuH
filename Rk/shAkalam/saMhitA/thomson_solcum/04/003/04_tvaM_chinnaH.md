@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tuváṃ cin naḥ śámiyā agne asyā́  
-r̥tásya bodhi r̥tacit suādhī́ḥ  
-kadā́ ta ukthā́ sadhamā́diyāni  
-kadā́ bhavanti sakhiyā́ gr̥hé te  
+तुवं꣡ चिन् नः श꣡मिया अग्ने अस्या꣡  
+ऋत꣡स्य बोधि ऋतचित् सुआधीः꣡  
+कदा꣡ त उक्था꣡ सधमा꣡दियानि  
+कदा꣡ भवन्ति सखिया꣡ गृहे꣡ ते  

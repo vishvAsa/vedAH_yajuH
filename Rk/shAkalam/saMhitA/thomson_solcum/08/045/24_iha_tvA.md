@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-ihá tvā góparīṇasā  
-mahé mandantu rā́dhase  
-sáro gauró yáthā piba  
+इह꣡ त्वा गो꣡परीणसा  
+महे꣡ मन्दन्तु रा꣡धसे  
+स꣡रो गौरो꣡ य꣡था पिब  

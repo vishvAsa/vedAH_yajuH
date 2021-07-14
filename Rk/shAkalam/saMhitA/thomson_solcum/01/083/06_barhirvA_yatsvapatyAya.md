@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-barhír vā yát suapatyā́ya vr̥jyáte  
-arkó vā · ślókam āghóṣate diví  
-grā́vā yátra vádati kārúr ukthíyas  
-tásyéd índro abhipitvéṣu raṇyati  
+बर्हि꣡र् वा य꣡त् सुअपत्या꣡य वृज्य꣡ते  
+अर्को꣡ वा · श्लो꣡कम् आघो꣡षते दिवि꣡  
+ग्रा꣡वा य꣡त्र व꣡दति कारु꣡र् उक्थि꣡यस्  
+त꣡स्ये꣡द् इ꣡न्द्रो अभिपित्वे꣡षु रण्यति  

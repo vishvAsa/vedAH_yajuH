@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-pauró áśvasya purukŕ̥d gávām asi  
-útso deva hiraṇyáyaḥ  
-nákir hí dā́nam parimárdhiṣat tuvé  
-yád-yad yā́mi tád ā́ bhara  
+पौरो꣡ अ꣡श्वस्य पुरुक्ŕ̥द् ग꣡वाम् असि  
+उ꣡त्सो देव हिरण्य꣡यः  
+न꣡किर् हि꣡ दा꣡नम् परिम꣡र्धिषत् तुवे꣡  
+य꣡द्-यद् या꣡मि त꣡द् आ꣡ भर  

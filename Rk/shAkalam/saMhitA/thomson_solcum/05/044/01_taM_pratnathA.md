@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-tám pratnáthā pūrváthā viśváthemáthā  
-jyeṣṭhátātim barhiṣádaṃ suvarvídam  
-pratīcīnáṃ vr̥jánaṃ dohase girā́  
-āśúṃ jáyantam ánu yā́su várdhase  
+त꣡म् प्रत्न꣡था पूर्व꣡था विश्व꣡थेम꣡था  
+ज्येष्ठ꣡तातिम् बर्हिष꣡दं सुवर्वि꣡दम्  
+प्रतीचीनं꣡ वृज꣡नं दोहसे गिरा꣡  
+आशुं꣡ ज꣡यन्तम् अ꣡नु या꣡सु व꣡र्धसे  

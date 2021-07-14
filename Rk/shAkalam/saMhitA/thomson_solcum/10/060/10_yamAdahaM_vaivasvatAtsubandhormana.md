@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yamā́d aháṃ vaivasvatā́t  
-subándhor mána ā́bharam  
-jīvā́tave ná mr̥tyáve  
-átho ariṣṭátātaye  
+यमा꣡द् अहं꣡ वैवस्वता꣡त्  
+सुब꣡न्धोर् म꣡न आ꣡भरम्  
+जीवा꣡तवे न꣡ मृत्य꣡वे  
+अ꣡थो अरिष्ट꣡तातये  

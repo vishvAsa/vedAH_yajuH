@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-ī́ḷānāya avasyáve  
-yáviṣṭha dūta no girā́  
-yájiṣṭha hotar ā́ gahi  
+ई꣡ऌआनाय अवस्य꣡वे  
+य꣡विष्ठ दूत नो गिरा꣡  
+य꣡जिष्ठ होतर् आ꣡ गहि  

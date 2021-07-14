@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-urvī́ sádmanī br̥hatī́ r̥téna  
-huvé devā́nām ávasā jánitrī  
-dadhā́te yé amŕ̥taṃ suprátīke  
-dyā́vā rákṣatam pr̥thivī no ábhvāt  
+उर्वी꣡ स꣡द्मनी बृहती꣡ ऋते꣡न  
+हुवे꣡ देवा꣡नाम् अ꣡वसा ज꣡नित्री  
+दधा꣡ते ये꣡ अम्ŕ̥तं सुप्र꣡तीके  
+द्या꣡वा र꣡क्षतम् पृथिवी नो अ꣡भ्वात्  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-áśvā ná yā́ vājínā pūtábandhū  
-r̥tā́ yád gárbham áditir bháradhyai  
-prá yā́ máhi mahā́ntā jā́yamānā  
-ghorā́ mártāya ripáve ní dīdhaḥ  
+अ꣡श्वा न꣡ या꣡ वाजि꣡ना पूत꣡बन्धू  
+ऋता꣡ य꣡द् ग꣡र्भम् अ꣡दितिर् भ꣡रध्यै  
+प्र꣡ या꣡ म꣡हि महा꣡न्ता जा꣡यमाना  
+घोरा꣡ म꣡र्ताय रिप꣡वे नि꣡ दीधः  

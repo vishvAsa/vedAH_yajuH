@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-tárat sá mandī́ dhāvati  
-dhā́rā sutásya ándhasaḥ  
-tárat sá mandī́ dhāvati  
+त꣡रत् स꣡ मन्दी꣡ धावति  
+धा꣡रा सुत꣡स्य अ꣡न्धसः  
+त꣡रत् स꣡ मन्दी꣡ धावति  

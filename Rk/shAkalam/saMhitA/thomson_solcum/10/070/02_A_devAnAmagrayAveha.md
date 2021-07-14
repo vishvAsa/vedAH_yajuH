@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ devā́nām agrayā́vehá yātu  
-nárāśáṃso viśvárūpebhir áśvaiḥ  
-r̥tásya pathā́ námasā miyédho  
-devébhiyo devátamaḥ suṣūdat  
+आ꣡ देवा꣡नाम् अग्रया꣡वेह꣡ यातु  
+न꣡राशं꣡सो विश्व꣡रूपेभिर् अ꣡श्वैः  
+ऋत꣡स्य पथा꣡ न꣡मसा मिये꣡धो  
+देवे꣡भियो देव꣡तमः सुषूदत्  

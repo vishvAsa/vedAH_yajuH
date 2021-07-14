@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-vayáṃ te asyá vr̥trahan  
-vidyā́ma śūra návyasaḥ  
-váso spārhásya puruhūta rā́dhasaḥ  
+वयं꣡ ते अस्य꣡ वृत्रहन्  
+विद्या꣡म शूर न꣡व्यसः  
+व꣡सो स्पार्ह꣡स्य पुरुहूत रा꣡धसः  

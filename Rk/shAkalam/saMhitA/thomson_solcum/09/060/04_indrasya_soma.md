@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-índrasya soma rā́dhase  
-śám pavasva vicarṣaṇe  
-prajā́vad réta ā́ bhara  
+इ꣡न्द्रस्य सोम रा꣡धसे  
+श꣡म् पवस्व विचर्षणे  
+प्रजा꣡वद् रे꣡त आ꣡ भर  

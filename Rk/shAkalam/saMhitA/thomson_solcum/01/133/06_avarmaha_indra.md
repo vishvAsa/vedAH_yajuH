@@ -2,10 +2,10 @@
 title = "006"
 
 +++
-avár mahá indra dādr̥hí śrudhī́ naḥ  
-śuśóca hí dyaúḥ kṣā́ ná bhīṣā́m̐ adrivo  
-ghr̥ṇā́n ná bhīṣā́m̐ adrivaḥ  
-śuṣmíntamo hí śuṣmíbhir  
-vadhaír ugrébhir ī́yase  
-ápūruṣaghno apratīta śūra sátvabhis  
-trisaptaíḥ śūra sátvabhiḥ  
+अव꣡र् मह꣡ इन्द्र दादृहि꣡ श्रुधी꣡ नः  
+शुशो꣡च हि꣡ द्यउः꣡ क्षा꣡ न꣡ भीषाँ꣡ अद्रिवो  
+घृणा꣡न् न꣡ भीषाँ꣡ अद्रिवः  
+शुष्मि꣡न्तमो हि꣡ शुष्मि꣡भिर्  
+वधइ꣡र् उग्रे꣡भिर् ई꣡यसे  
+अ꣡पूरुषघ्नो अप्रतीत शूर स꣡त्वभिस्  
+त्रिसप्तइः꣡ शूर स꣡त्वभिः  

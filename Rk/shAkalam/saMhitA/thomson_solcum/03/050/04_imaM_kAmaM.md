@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-imáṃ kā́mam mandayā góbhir áśvaiś  
-candrávatā rā́dhasā papráthaś ca  
-suvaryávo matíbhis túbhya° víprā  
-índrāya vā́haḥ kuśikā́so akran  
+इमं꣡ का꣡मम् मन्दया गो꣡भिर् अ꣡श्वैश्  
+चन्द्र꣡वता रा꣡धसा पप्र꣡थश् च  
+सुवर्य꣡वो मति꣡भिस् तु꣡भ्य° वि꣡प्रा  
+इ꣡न्द्राय वा꣡हः कुशिका꣡सो अक्रन्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-abhy àrṣata suṣṭutíṃ gávyam ājím  
-asmā́su bhadrā́ dráviṇāni dhatta  
-imáṃ yajñáṃ nayata devátā no  
-ghr̥tásya dhā́rā mádhumat pavante  
+अभ्य् अ᳡र्षत सुष्टुतिं꣡ ग꣡व्यम् आजि꣡म्  
+अस्मा꣡सु भद्रा꣡ द्र꣡विणानि धत्त  
+इमं꣡ यज्ञं꣡ नयत देव꣡ता नो  
+घृत꣡स्य धा꣡रा म꣡धुमत् पवन्ते  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-úpa tvāgne divé-dive  
-dóṣāvastar dhiyā́ vayám  
-námo bháranta émasi  
+उ꣡प त्वाग्ने दिवे꣡-दिवे  
+दो꣡षावस्तर् धिया꣡ वय꣡म्  
+न꣡मो भ꣡रन्त ए꣡मसि  

@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-mitrásya carṣaṇīdhŕ̥to  
-ávo devásya sānasí  
-dyumnáṃ citráśravastamam  
+मित्र꣡स्य चर्षणीध्ŕ̥तो  
+अ꣡वो देव꣡स्य सानसि꣡  
+द्युम्नं꣡ चित्र꣡श्रवस्तमम्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-jīváṃ rudanti ví mayante adhvaré  
-dīrghā́m ánu prásitiṃ dīdhiyur náraḥ  
-vāmám pitŕ̥bhyo yá idáṃ sameriré  
-máyaḥ pátibhyo jánayaḥ pariṣváje  
+जीवं꣡ रुदन्ति वि꣡ मयन्ते अध्वरे꣡  
+दीर्घा꣡म् अ꣡नु प्र꣡सितिं दीधियुर् न꣡रः  
+वाम꣡म् पित्ŕ̥भ्यो य꣡ इदं꣡ समेरिरे꣡  
+म꣡यः प꣡तिभ्यो ज꣡नयः परिष्व꣡जे  

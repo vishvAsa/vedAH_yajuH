@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-átī́d u śakrá ohata  
-índro víśvā áti dvíṣaḥ  
-bhinát kanī́na odanám  
-pacyámānam paró girā́  
+अ꣡ती꣡द् उ शक्र꣡ ओहत  
+इ꣡न्द्रो वि꣡श्वा अ꣡ति द्वि꣡षः  
+भिन꣡त् कनी꣡न ओदन꣡म्  
+पच्य꣡मानम् परो꣡ गिरा꣡  

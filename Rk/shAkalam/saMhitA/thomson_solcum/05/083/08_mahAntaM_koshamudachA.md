@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-mahā́ntaṃ kóśam úd acā ní ṣiñca  
-syándantāṃ kulyā́ víṣitāḥ purástāt  
-ghr̥téna dyā́vāpr̥thivī́ ví undhi  
-suprapāṇám bhavatu aghniyā́bhyaḥ  
+महा꣡न्तं को꣡शम् उ꣡द् अचा नि꣡ षिञ्च  
+स्य꣡न्दन्तां कुल्या꣡ वि꣡षिताः पुर꣡स्तात्  
+घृते꣡न द्या꣡वापृथिवी꣡ वि꣡ उन्धि  
+सुप्रपाण꣡म् भवतु अघ्निया꣡भ्यः  

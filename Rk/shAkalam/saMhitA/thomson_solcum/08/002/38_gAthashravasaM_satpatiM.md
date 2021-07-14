@@ -2,6 +2,6 @@
 title = "038"
 
 +++
-gātháśravasaṃ sátpatiṃ  
-śrávaskāmam purutmā́nam  
-káṇvāso gātá vājínam  
+गाथ꣡श्रवसं स꣡त्पतिं  
+श्र꣡वस्कामम् पुरुत्मा꣡नम्  
+क꣡ण्वासो गात꣡ वाजि꣡नम्  

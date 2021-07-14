@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-eté naraḥ suápaso abhūtana  
-yá índrāya sunuthá sómam adrayaḥ  
-vāmáṃ-vāmaṃ vo diviyā́ya dhā́mane  
-vásu-vasu vaḥ pā́rthivāya sunvaté  
+एते꣡ नरः सुअ꣡पसो अभूतन  
+य꣡ इ꣡न्द्राय सुनुथ꣡ सो꣡मम् अद्रयः  
+वामं꣡-वामं वो दिविया꣡य धा꣡मने  
+व꣡सु-वसु वः पा꣡र्थिवाय सुन्वते꣡  

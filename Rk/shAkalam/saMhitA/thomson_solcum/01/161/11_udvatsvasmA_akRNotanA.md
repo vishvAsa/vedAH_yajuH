@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-udvátsu asmā akr̥ṇotanā tŕ̥ṇaṃ  
-nivátsu apáḥ suapasyáyā naraḥ  
-ágohiyasya yád ásastanā gr̥hé  
-tád adyédám r̥bhavo nā́nu gachatha  
+उद्व꣡त्सु अस्मा अकृणोतना त्ŕ̥णं  
+निव꣡त्सु अपः꣡ सुअपस्य꣡या नरः  
+अ꣡गोहियस्य य꣡द् अ꣡सस्तना गृहे꣡  
+त꣡द् अद्ये꣡द꣡म् ऋभवो ना꣡नु गछथ  

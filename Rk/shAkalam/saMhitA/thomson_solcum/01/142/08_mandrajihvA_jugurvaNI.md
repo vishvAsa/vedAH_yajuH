@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-mandrájihvā jugurváṇī  
-hótārā daíviyā kavī́  
-yajñáṃ no yakṣatām imáṃ  
-sidhrám adyá divispŕ̥śam  
+मन्द्र꣡जिह्वा जुगुर्व꣡णी  
+हो꣡तारा दइ꣡विया कवी꣡  
+यज्ञं꣡ नो यक्षताम् इमं꣡  
+सिध्र꣡म् अद्य꣡ दिविस्प्ŕ̥शम्  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-kurmás ta ā́yur ajáraṃ yád agne  
-yáthā yuktó jātavedo ná ríṣyāḥ  
-áthā vahāsi sumanasyámāno  
-bhāgáṃ devébhyo havíṣaḥ sujāta  
+कुर्म꣡स् त आ꣡युर् अज꣡रं य꣡द् अग्ने  
+य꣡था युक्तो꣡ जातवेदो न꣡ रि꣡ष्याः  
+अ꣡था वहासि सुमनस्य꣡मानो  
+भागं꣡ देवे꣡भ्यो हवि꣡षः सुजात  

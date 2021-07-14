@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ubhā́ hí dasrā́ bhiṣájā mayobhúvā  
-ubhā́ dákṣasya vácaso babhūváthuḥ  
-tā́ vāṃ víśvako havate tanūkr̥thé  
-mā́ no ví yauṣṭaṃ sakhiyā́ mumócatam  
+उभा꣡ हि꣡ दस्रा꣡ भिष꣡जा मयोभु꣡वा  
+उभा꣡ द꣡क्षस्य व꣡चसो बभूव꣡थुः  
+ता꣡ वां वि꣡श्वको हवते तनूकृथे꣡  
+मा꣡ नो वि꣡ यौष्टं सखिया꣡ मुमो꣡चतम्  

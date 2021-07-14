@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-diváś cid ā́ vo ámavattarebhiyo  
-vibhvánā cid āśúapastarebhiyaḥ  
-vāyóś cid ā́ sómarabhastarebhiyo  
-agnéś cid arca pitukŕ̥ttarebhiyaḥ  
+दिव꣡श् चिद् आ꣡ वो अ꣡मवत्तरेभियो  
+विभ्व꣡ना चिद् आशु꣡अपस्तरेभियः  
+वायो꣡श् चिद् आ꣡ सो꣡मरभस्तरेभियो  
+अग्ने꣡श् चिद् अर्च पितुक्ŕ̥त्तरेभियः  

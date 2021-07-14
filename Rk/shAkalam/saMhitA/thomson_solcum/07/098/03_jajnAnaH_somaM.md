@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-jajñānáḥ sómaṃ sáhase papātha  
-prá te mātā́ mahimā́nam uvāca  
-éndra paprātha urú antárikṣaṃ  
-yudhā́ devébhyo várivaś cakartha  
+जज्ञानः꣡ सो꣡मं स꣡हसे पपाथ  
+प्र꣡ ते माता꣡ महिमा꣡नम् उवाच  
+ए꣡न्द्र पप्राथ उरु꣡ अन्त꣡रिक्षं  
+युधा꣡ देवे꣡भ्यो व꣡रिवश् चकर्थ  

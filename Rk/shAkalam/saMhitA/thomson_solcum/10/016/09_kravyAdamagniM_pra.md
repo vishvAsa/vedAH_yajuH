@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-kravyā́dam agním prá hiṇomi dūráṃ  
-yamárājño gachatu ripravāháḥ  
-ihaívā́yám ítaro jātávedā  
-devébhyo havyáṃ vahatu prajānán  
+क्रव्या꣡दम् अग्नि꣡म् प्र꣡ हिणोमि दूरं꣡  
+यम꣡राज्ञो गछतु रिप्रवाहः꣡  
+इहइ꣡वा꣡य꣡म् इ꣡तरो जात꣡वेदा  
+देवे꣡भ्यो हव्यं꣡ वहतु प्रजान꣡न्  

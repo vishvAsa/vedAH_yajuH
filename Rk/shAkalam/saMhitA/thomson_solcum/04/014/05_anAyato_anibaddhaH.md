@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ánāyato ánibaddhaḥ kathā́yáṃ  
-níaṅṅ uttānó áva padyate ná  
-káyā yāti svadháyā kó dadarśa  
-divá skambháḥ sámr̥taḥ pāti nā́kam  
+अ꣡नायतो अ꣡निबद्धः कथा꣡यं꣡  
+नि꣡अङ्ङ् उत्तानो꣡ अ꣡व पद्यते न꣡  
+क꣡या याति स्वध꣡या को꣡ ददर्श  
+दिव꣡ स्कम्भः꣡ स꣡मृतः पाति ना꣡कम्  

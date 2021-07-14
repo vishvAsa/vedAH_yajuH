@@ -2,6 +2,6 @@
 title = "039"
 
 +++
-yá ugrá iva śaryahā́  
-tigmáśr̥ṅgo ná váṃsagaḥ  
-ágne púro rurójitha  
+य꣡ उग्र꣡ इव शर्यहा꣡  
+तिग्म꣡शृङ्गो न꣡ वं꣡सगः  
+अ꣡ग्ने पु꣡रो रुरो꣡जिथ  

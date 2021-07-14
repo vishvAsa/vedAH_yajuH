@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sám bhū́myā ántā dhvasirā́ adr̥kṣata  
-índrāvaruṇā diví ghóṣa ā́ruhat  
-ásthur jánānām úpa mā́m árātayo  
-arvā́g ávasā havanaśrutā́ gatam  
+स꣡म् भू꣡म्या अ꣡न्ता ध्वसिरा꣡ अदृक्षत  
+इ꣡न्द्रावरुणा दिवि꣡ घो꣡ष आ꣡रुहत्  
+अ꣡स्थुर् ज꣡नानाम् उ꣡प मा꣡म् अ꣡रातयो  
+अर्वा꣡ग् अ꣡वसा हवनश्रुता꣡ गतम्  

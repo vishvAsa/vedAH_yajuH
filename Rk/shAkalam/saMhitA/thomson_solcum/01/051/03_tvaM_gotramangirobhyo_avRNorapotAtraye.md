@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuváṃ gotrám áṅgirobhyo 'vr̥ṇor ápa  
-utā́traye śatádureṣu gātuvít  
-saséna cid vimadā́yāvaho vásu  
-ājā́v ádriṃ vāvasānásya nartáyan  
+तुवं꣡ गोत्र꣡म् अ꣡ङ्गिरोभ्यो ऽवृणोर् अ꣡प  
+उता꣡त्रये शत꣡दुरेषु गातुवि꣡त्  
+ससे꣡न चिद् विमदा꣡यावहो व꣡सु  
+आजा꣡व् अ꣡द्रिं वावसान꣡स्य नर्त꣡यन्  

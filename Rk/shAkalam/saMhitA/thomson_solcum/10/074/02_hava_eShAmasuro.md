@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-háva eṣām ásuro nakṣata dyā́ṃ  
-śravasyatā́ mánasā niṃsata kṣā́m  
-cákṣāṇā yátra suvitā́ya devā́  
-dyaúr ná vā́rebhiḥ kr̥ṇávanta suvaíḥ  
+ह꣡व एषाम् अ꣡सुरो नक्षत द्यां꣡  
+श्रवस्यता꣡ म꣡नसा निंसत क्षा꣡म्  
+च꣡क्षाणा य꣡त्र सुविता꣡य देवा꣡  
+द्यउ꣡र् न꣡ वा꣡रेभिः कृण꣡वन्त सुवइः꣡  

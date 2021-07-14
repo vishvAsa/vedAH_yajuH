@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-úṣas tám aśyāṃ yaśásaṃ suvī́raṃ  
-dāsápravargaṃ rayím áśvabudhyam  
-sudáṃsasā śrávasā yā́ vibhā́si  
-vā́japrasūtā subhage br̥hántam  
+उ꣡षस् त꣡म् अश्यां यश꣡सं सुवी꣡रं  
+दास꣡प्रवर्गं रयि꣡म् अ꣡श्वबुध्यम्  
+सुदं꣡ससा श्र꣡वसा या꣡ विभा꣡सि  
+वा꣡जप्रसूता सुभगे बृह꣡न्तम्  

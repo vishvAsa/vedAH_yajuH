@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ákrandad agní stanáyann iva dyaúḥ  
-kṣā́mā rérihad vīrúdhaḥ samañján  
-sadyó jajñānó ví hī́m iddhó ákhyad  
-ā́ ródasī bhānúnā bhāti antáḥ  
+अ꣡क्रन्दद् अग्नि꣡ स्तन꣡यन्न् इव द्यउः꣡  
+क्षा꣡मा रे꣡रिहद् वीरु꣡धः समञ्ज꣡न्  
+सद्यो꣡ जज्ञानो꣡ वि꣡ ही꣡म् इद्धो꣡ अ꣡ख्यद्  
+आ꣡ रो꣡दसी भानु꣡ना भाति अन्तः꣡  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ná devā́nām ápi hnutaḥ  
-sumatíṃ ná jugukṣataḥ  
-śrávo br̥hád vivāsataḥ  
+न꣡ देवा꣡नाम् अ꣡पि ह्नुतः  
+सुमतिं꣡ न꣡ जुगुक्षतः  
+श्र꣡वो बृह꣡द् विवासतः  

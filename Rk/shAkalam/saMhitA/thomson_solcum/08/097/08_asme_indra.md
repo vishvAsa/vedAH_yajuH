@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-asmé indra sácā suté  
-ní ṣadā pītáye mádhu  
-kr̥dhī́ jaritré maghavann ávo mahád  
-asmé indra sácā suté  
+अस्मे꣡ इन्द्र स꣡चा सुते꣡  
+नि꣡ षदा पीत꣡ये म꣡धु  
+कृधी꣡ जरित्रे꣡ मघवन्न् अ꣡वो मह꣡द्  
+अस्मे꣡ इन्द्र स꣡चा सुते꣡  

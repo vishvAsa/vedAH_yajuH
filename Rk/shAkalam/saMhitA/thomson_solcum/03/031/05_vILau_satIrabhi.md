@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vīḷaú satī́r abhí dhī́rā atr̥ndan  
-prācā́hinvan mánasā saptá víprāḥ  
-víśvām avindan pathíyām r̥tásya  
-prajānánn ít tā́ námasā́ viveśa  
+वीऌअउ꣡ सती꣡र् अभि꣡ धी꣡रा अतृन्दन्  
+प्राचा꣡हिन्वन् म꣡नसा सप्त꣡ वि꣡प्राः  
+वि꣡श्वाम् अविन्दन् पथि꣡याम् ऋत꣡स्य  
+प्रजान꣡न्न् इ꣡त् ता꣡ न꣡मसा꣡ विवेश  

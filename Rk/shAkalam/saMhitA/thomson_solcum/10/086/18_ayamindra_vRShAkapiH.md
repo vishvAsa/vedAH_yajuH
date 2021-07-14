@@ -2,8 +2,8 @@
 title = "018"
 
 +++
-ayám indra vr̥ṣā́kapiḥ  
-párasvantaṃ hatáṃ vidat  
-asíṃ sūnā́ṃ návaṃ carúm  
-ā́d édhasyā́na ā́citaṃ  
-víśvasmād índra úttaraḥ  
+अय꣡म् इन्द्र वृषा꣡कपिः  
+प꣡रस्वन्तं हतं꣡ विदत्  
+असिं꣡ सूनां꣡ न꣡वं चरु꣡म्  
+आ꣡द् ए꣡धस्या꣡न आ꣡चितं  
+वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः  

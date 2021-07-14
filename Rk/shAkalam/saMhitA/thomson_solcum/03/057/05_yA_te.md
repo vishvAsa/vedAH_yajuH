@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yā́ te jihvā́ mádhumatī sumedhā́  
-ágne devéṣu ucyáta urūcī́  
-táyehá víśvām̐ ávase yájatrān  
-ā́ sādaya pāyáyā cā mádhūni  
+या꣡ ते जिह्वा꣡ म꣡धुमती सुमेधा꣡  
+अ꣡ग्ने देवे꣡षु उच्य꣡त उरूची꣡  
+त꣡येह꣡ वि꣡श्वाँ अ꣡वसे य꣡जत्रान्  
+आ꣡ सादय पाय꣡या चा म꣡धूनि  

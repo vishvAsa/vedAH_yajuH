@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-pávamānasya te ráso  
-mádo rājann aduchunáḥ  
-ví vā́ram ávyam arṣati  
+प꣡वमानस्य ते र꣡सो  
+म꣡दो राजन्न् अदुछुनः꣡  
+वि꣡ वा꣡रम् अ꣡व्यम् अर्षति  

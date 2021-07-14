@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-índrasyeva rātím ājóhuvānāḥ  
-suastáye nā́vam ivā́ ruhema  
-úrvī ná pŕ̥thvī báhule gábhīre  
-mā́ vām étau mā́ páretau riṣāma  
+इ꣡न्द्रस्येव राति꣡म् आजो꣡हुवानाः  
+सुअस्त꣡ये ना꣡वम् इवा꣡ रुहेम  
+उ꣡र्वी न꣡ प्ŕ̥थ्वी ब꣡हुले ग꣡भीरे  
+मा꣡ वाम् ए꣡तौ मा꣡ प꣡रेतौ रिषाम  

@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-túbhyaṃ gā́vo ghr̥tám páyo  
-bábhro duduhré ákṣitam  
-várṣiṣṭhe ádhi sā́navi  
+तु꣡भ्यं गा꣡वो घृत꣡म् प꣡यो  
+ब꣡भ्रो दुदुह्रे꣡ अ꣡क्षितम्  
+व꣡र्षिष्ठे अ꣡धि सा꣡नवि  

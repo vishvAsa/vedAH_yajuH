@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-imā́ u tvā paspr̥dhānā́so átra  
-mandrā́ gíro devayántīr úpa sthuḥ  
-arvā́cī te pathíyā rāyá etu  
-siyā́ma te sumatā́v indra śárman  
+इमा꣡ उ त्वा पस्पृधाना꣡सो अ꣡त्र  
+मन्द्रा꣡ गि꣡रो देवय꣡न्तीर् उ꣡प स्थुः  
+अर्वा꣡ची ते पथि꣡या राय꣡ एतु  
+सिया꣡म ते सुमता꣡व् इन्द्र श꣡र्मन्  

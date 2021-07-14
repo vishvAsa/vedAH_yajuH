@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-prathamáṃ jātávedasam  
-agníṃ yajñéṣu pūrviyám  
-práti srúg eti námasā havíṣmatī  
+प्रथमं꣡ जात꣡वेदसम्  
+अग्निं꣡ यज्ञे꣡षु पूर्विय꣡म्  
+प्र꣡ति स्रु꣡ग् एति न꣡मसा हवि꣡ष्मती  

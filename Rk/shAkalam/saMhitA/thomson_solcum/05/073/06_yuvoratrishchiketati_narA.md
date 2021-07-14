@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yuvór átriś ciketati  
-nárā sumnéna cétasā  
-gharmáṃ yád vām arepásaṃ  
-nā́satyāsnā́ bhuraṇyáti  
+युवो꣡र् अ꣡त्रिश् चिकेतति  
+न꣡रा सुम्ने꣡न चे꣡तसा  
+घर्मं꣡ य꣡द् वाम् अरेप꣡सं  
+ना꣡सत्यास्ना꣡ भुरण्य꣡ति  

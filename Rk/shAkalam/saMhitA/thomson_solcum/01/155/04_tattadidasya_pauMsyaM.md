@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-tát-tad íd asya paúṃsiyaṃ gr̥ṇīmasi  
-inásya trātúr avr̥kásya mīḷhúṣaḥ  
-yáḥ pā́rthivāni tribhír íd vígāmabhir  
-urú krámiṣṭa urugāyā́ya jīváse  
+त꣡त्-तद् इ꣡द् अस्य पउं꣡सियं गृणीमसि  
+इन꣡स्य त्रातु꣡र् अवृक꣡स्य मीऌहु꣡षः  
+यः꣡ पा꣡र्थिवानि त्रिभि꣡र् इ꣡द् वि꣡गामभिर्  
+उरु꣡ क्र꣡मिष्ट उरुगाया꣡य जीव꣡से  

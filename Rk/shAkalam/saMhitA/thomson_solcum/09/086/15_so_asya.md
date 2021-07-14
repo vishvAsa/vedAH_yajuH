@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-só asya viśé máhi śárma yachati  
-yó asya dhā́ma prathamáṃ viānaśé  
-padáṃ yád asya paramé víomani  
-áto víśvā abhí sáṃ yāti saṃyátaḥ  
+सो꣡ अस्य विशे꣡ म꣡हि श꣡र्म यछति  
+यो꣡ अस्य धा꣡म प्रथमं꣡ विआनशे꣡  
+पदं꣡ य꣡द् अस्य परमे꣡ वि꣡ओमनि  
+अ꣡तो वि꣡श्वा अभि꣡ सं꣡ याति संय꣡तः  

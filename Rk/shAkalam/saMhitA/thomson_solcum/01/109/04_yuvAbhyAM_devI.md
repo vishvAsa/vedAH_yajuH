@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yuvā́bhyāṃ devī́ dhiṣáṇā mádāya  
-índrāgnī sómam uśatī́ sunoti  
-tā́v aśvinā bhadrahastā supāṇī  
-ā́ dhāvatam mádhunā pr̥ṅktám apsú  
+युवा꣡भ्यां देवी꣡ धिष꣡णा म꣡दाय  
+इ꣡न्द्राग्नी सो꣡मम् उशती꣡ सुनोति  
+ता꣡व् अश्विना भद्रहस्ता सुपाणी  
+आ꣡ धावतम् म꣡धुना पृङ्क्त꣡म् अप्सु꣡  

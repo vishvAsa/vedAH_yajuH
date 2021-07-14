@@ -2,6 +2,6 @@
 title = "028"
 
 +++
-yáthā varo suṣā́maṇe  
-saníbhya ā́vaho rayím  
-víaśvebhyaḥ subhage vājinīvati  
+य꣡था वरो सुषा꣡मणे  
+सनि꣡भ्य आ꣡वहो रयि꣡म्  
+वि꣡अश्वेभ्यः सुभगे वाजिनीवति  

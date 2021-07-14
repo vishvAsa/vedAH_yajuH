@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-tuváṃ síndhūm̐r ávāsr̥jo  
-adharā́co áhann áhim  
-aśatrúr indra jajñiṣe  
-víśvam puṣyasi vā́riyaṃ  
-táṃ tvā pári ṣvajāmahe  
-nábhantām anyakéṣãṃ  
-jiyākā́ ádhi dhánvasu  
+तुवं꣡ सि꣡न्धूँर् अ꣡वासृजो  
+अधरा꣡चो अ꣡हन्न् अ꣡हिम्  
+अशत्रु꣡र् इन्द्र जज्ञिषे  
+वि꣡श्वम् पुष्यसि वा꣡रियं  
+तं꣡ त्वा प꣡रि ष्वजामहे  
+न꣡भन्ताम् अन्यके꣡ष्ãं  
+जियाका꣡ अ꣡धि ध꣡न्वसु  

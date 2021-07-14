@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-índrāya soma pári ṣicyase nŕ̥bhir  
-nr̥cákṣā ūrmíḥ kavír ajyase váne  
-pūrvī́r hí te srutáyaḥ sánti yā́tave  
-sahásram áśvā hárayaś camūṣádaḥ  
+इ꣡न्द्राय सोम प꣡रि षिच्यसे न्ŕ̥भिर्  
+नृच꣡क्षा ऊर्मिः꣡ कवि꣡र् अज्यसे व꣡ने  
+पूर्वी꣡र् हि꣡ ते स्रुत꣡यः स꣡न्ति या꣡तवे  
+सह꣡स्रम् अ꣡श्वा ह꣡रयश् चमूष꣡दः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sū́ryaraśmir hárikeśaḥ purástāt  
-savitā́ jyótir úd ayām̐ ájasram  
-tásya pūṣā́ prasavé yāti vidvā́n  
-sampáśyan víśvā bhúvanāni gopā́ḥ  
+सू꣡र्यरश्मिर् ह꣡रिकेशः पुर꣡स्तात्  
+सविता꣡ ज्यो꣡तिर् उ꣡द् अयाँ अ꣡जस्रम्  
+त꣡स्य पूषा꣡ प्रसवे꣡ याति विद्वा꣡न्  
+सम्प꣡श्यन् वि꣡श्वा भु꣡वनानि गोपाः꣡  

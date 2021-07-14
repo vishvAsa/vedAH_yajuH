@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ásūta pū́rvo vr̥ṣabhó jiyā́yān  
-imā́ asya śurúdhaḥ santi pūrvī́ḥ  
-dívo napātā vidáthasya dhībhíḥ  
-kṣatráṃ rājānā pradívo dadhāthe  
+अ꣡सूत पू꣡र्वो वृषभो꣡ जिया꣡यान्  
+इमा꣡ अस्य शुरु꣡धः सन्ति पूर्वीः꣡  
+दि꣡वो नपाता विद꣡थस्य धीभिः꣡  
+क्षत्रं꣡ राजाना प्रदि꣡वो दधाथे  

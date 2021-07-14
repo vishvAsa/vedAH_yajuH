@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ábodhi agníḥ samídhā jánānām  
-práti dhenúm ivāyatī́m uṣā́sam  
-yahvā́ iva prá vayā́m ujjíhānāḥ  
-prá bhānávaḥ sisrate nā́kam ácha  
+अ꣡बोधि अग्निः꣡ समि꣡धा ज꣡नानाम्  
+प्र꣡ति धेनु꣡म् इवायती꣡म् उषा꣡सम्  
+यह्वा꣡ इव प्र꣡ वया꣡म् उज्जि꣡हानाः  
+प्र꣡ भान꣡वः सिस्रते ना꣡कम् अ꣡छ  

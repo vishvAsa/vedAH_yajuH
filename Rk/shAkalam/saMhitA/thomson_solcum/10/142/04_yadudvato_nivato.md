@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yád udváto niváto yā́si bápsat  
-pŕ̥thag eṣi pragardhínīva sénā  
-yadā́ te vā́to anuvā́ti śocír  
-vápteva śmáśru vapasi prá bhū́ma  
+य꣡द् उद्व꣡तो निव꣡तो या꣡सि ब꣡प्सत्  
+प्ŕ̥थग् एषि प्रगर्धि꣡नीव से꣡ना  
+यदा꣡ ते वा꣡तो अनुवा꣡ति शोचि꣡र्  
+व꣡प्तेव श्म꣡श्रु वपसि प्र꣡ भू꣡म  

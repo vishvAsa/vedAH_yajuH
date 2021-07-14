@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-savitā́ paścā́tāt savitā́ purástāt  
-savitóttarā́ttāt savitā́dharā́ttāt  
-savitā́ naḥ suvatu sarvátātiṃ  
-savitā́ no rāsatāṃ dīrghám ā́yuḥ  
+सविता꣡ पश्चा꣡तात् सविता꣡ पुर꣡स्तात्  
+सवितो꣡त्तरा꣡त्तात् सविता꣡धरा꣡त्तात्  
+सविता꣡ नः सुवतु सर्व꣡तातिं  
+सविता꣡ नो रासतां दीर्घ꣡म् आ꣡युः  

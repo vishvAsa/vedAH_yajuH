@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-kúha svid doṣā́ kúha vástor aśvínā  
-kúhābhipitváṃ karataḥ kúhoṣatuḥ  
-kó vāṃ śayutrā́ vidháveva deváram  
-máryaṃ ná yóṣā kr̥ṇute sadhástha ā́  
+कु꣡ह स्विद् दोषा꣡ कु꣡ह व꣡स्तोर् अश्वि꣡ना  
+कु꣡हाभिपित्वं꣡ करतः कु꣡होषतुः  
+को꣡ वां शयुत्रा꣡ विध꣡वेव देव꣡रम्  
+म꣡र्यं न꣡ यो꣡षा कृणुते सध꣡स्थ आ꣡  

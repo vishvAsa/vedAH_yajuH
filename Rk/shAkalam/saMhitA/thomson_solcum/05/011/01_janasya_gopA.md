@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-jánasya gopā́ ajaniṣṭa jā́gr̥vir  
-agníḥ sudákṣaḥ suvitā́ya návyase  
-ghr̥tápratīko br̥hatā́ divispŕ̥śā  
-dyumád ví bhāti bharatébhiyaḥ śúciḥ  
+ज꣡नस्य गोपा꣡ अजनिष्ट जा꣡गृविर्  
+अग्निः꣡ सुद꣡क्षः सुविता꣡य न꣡व्यसे  
+घृत꣡प्रतीको बृहता꣡ दिविस्प्ŕ̥शा  
+द्युम꣡द् वि꣡ भाति भरते꣡भियः शु꣡चिः  

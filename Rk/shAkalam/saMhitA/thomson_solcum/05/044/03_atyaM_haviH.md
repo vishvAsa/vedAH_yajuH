@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-átyaṃ havíḥ sacate sác ca dhā́tu ca  
-áriṣṭagātuḥ sá hótā sahobháriḥ  
-prasársrāṇo ánu barhír vŕ̥ṣā śíśur  
-mádhye yúvā ajáro visrúhā hitáḥ  
+अ꣡त्यं हविः꣡ सचते स꣡च् च धा꣡तु च  
+अ꣡रिष्टगातुः स꣡ हो꣡ता सहोभ꣡रिः  
+प्रस꣡र्स्राणो अ꣡नु बर्हि꣡र् व्ŕ̥षा शि꣡शुर्  
+म꣡ध्ये यु꣡वा अज꣡रो विस्रु꣡हा हितः꣡  

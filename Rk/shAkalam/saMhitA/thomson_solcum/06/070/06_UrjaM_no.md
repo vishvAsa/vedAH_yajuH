@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ū́rjaṃ no dyaúś ca pr̥thivī́ ca pinvatām  
-pitā́ mātā́ viśvavídā sudáṃsasā  
-saṃrarāṇé ródasī viśváśambhuvā  
-saníṃ vā́jaṃ rayím asmé sám invatām  
+ऊ꣡र्जं नो द्यउ꣡श् च पृथिवी꣡ च पिन्वताम्  
+पिता꣡ माता꣡ विश्ववि꣡दा सुदं꣡ससा  
+संरराणे꣡ रो꣡दसी विश्व꣡शम्भुवा  
+सनिं꣡ वा꣡जं रयि꣡म् अस्मे꣡ स꣡म् इन्वताम्  

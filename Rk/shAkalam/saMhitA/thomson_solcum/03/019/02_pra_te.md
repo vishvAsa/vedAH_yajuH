@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prá te agne havíṣmatīm iyarmi  
-áchā sudyumnā́ṃ rātínīṃ ghr̥tā́cīm  
-pradakṣiṇíd devátātim urāṇáḥ  
-sáṃ rātíbhir vásubhir yajñám aśret  
+प्र꣡ ते अग्ने हवि꣡ष्मतीम् इयर्मि  
+अ꣡छा सुद्युम्नां꣡ राति꣡नीं घृता꣡चीम्  
+प्रदक्षिणि꣡द् देव꣡तातिम् उराणः꣡  
+सं꣡ राति꣡भिर् व꣡सुभिर् यज्ञ꣡म् अश्रेत्  

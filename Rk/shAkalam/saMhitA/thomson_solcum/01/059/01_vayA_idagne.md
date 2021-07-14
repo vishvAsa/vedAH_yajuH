@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vayā́ íd agne agnáyas te anyé  
-tuvé víśve amŕ̥tā mādayante  
-vaíśvānara nā́bhir asi kṣitīnā́ṃ  
-sthū́ṇeva jánām̐ upamíd yayantha  
+वया꣡ इ꣡द् अग्ने अग्न꣡यस् ते अन्ये꣡  
+तुवे꣡ वि꣡श्वे अम्ŕ̥ता मादयन्ते  
+वइ꣡श्वानर ना꣡भिर् असि क्षितीनां꣡  
+स्थू꣡णेव ज꣡नाँ उपमि꣡द् ययन्थ  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-té ajyeṣṭhā́ ákaniṣṭhāsa udbhído  
-ámadhyamāso máhasā ví vāvr̥dhuḥ  
-sujātā́so janúṣā pŕ̥śnimātaro  
-divó máryā ā́ no áchā jigātana  
+ते꣡ अज्येष्ठा꣡ अ꣡कनिष्ठास उद्भि꣡दो  
+अ꣡मध्यमासो म꣡हसा वि꣡ वावृधुः  
+सुजाता꣡सो जनु꣡षा प्ŕ̥श्निमातरो  
+दिवो꣡ म꣡र्या आ꣡ नो अ꣡छा जिगातन  

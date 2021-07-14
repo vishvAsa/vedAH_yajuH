@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-vayáṃ nā́ma prá bravāmā ghr̥tásya  
-asmín yajñé dhārayāmā námobhiḥ  
-úpa brahmā́ śr̥ṇavac chasyámānaṃ  
-cátuḥśr̥ṅgo avamīd gaurá etát  
+वयं꣡ ना꣡म प्र꣡ ब्रवामा घृत꣡स्य  
+अस्मि꣡न् यज्ञे꣡ धारयामा न꣡मोभिः  
+उ꣡प ब्रह्मा꣡ शृणवच् छस्य꣡मानं  
+च꣡तुःशृङ्गो अवमीद् गौर꣡ एत꣡त्  

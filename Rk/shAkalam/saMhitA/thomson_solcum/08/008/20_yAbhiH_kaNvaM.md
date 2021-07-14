@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-yā́bhiḥ káṇvam médhātithiṃ  
-yā́bhir váśaṃ dáśavrajam  
-yā́bhir góśaryam ā́vataṃ  
-tā́bhir no avataṃ narā  
+या꣡भिः क꣡ण्वम् मे꣡धातिथिं  
+या꣡भिर् व꣡शं द꣡शव्रजम्  
+या꣡भिर् गो꣡शर्यम् आ꣡वतं  
+ता꣡भिर् नो अवतं नरा  

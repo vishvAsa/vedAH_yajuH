@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-visarmā́ṇaṃ kr̥ṇuhi vittám eṣāṃ  
-yé bhuñjáte ápr̥ṇanto na ukthaíḥ  
-ápavratān prasavé vāvr̥dhānā́n  
-brahmadvíṣaḥ sū́riyād yāvayasva  
+विसर्मा꣡णं कृणुहि वित्त꣡म् एषां  
+ये꣡ भुञ्ज꣡ते अ꣡पृणन्तो न उक्थइः꣡  
+अ꣡पव्रतान् प्रसवे꣡ वावृधाना꣡न्  
+ब्रह्मद्वि꣡षः सू꣡रियाद् यावयस्व  

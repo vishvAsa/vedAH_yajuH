@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ádha smā te carṣaṇáyo yád éjān  
-índra trātā́ utá bhavā varūtā́  
-asmā́kāso yé nŕ̥tamāso aryá  
-índra sūráyo dadhiré puró naḥ  
+अ꣡ध स्मा ते चर्षण꣡यो य꣡द् ए꣡जान्  
+इ꣡न्द्र त्राता꣡ उत꣡ भवा वरूता꣡  
+अस्मा꣡कासो ये꣡ न्ŕ̥तमासो अर्य꣡  
+इ꣡न्द्र सूर꣡यो दधिरे꣡ पुरो꣡ नः  

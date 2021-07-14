@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-pūrvaāyúṣaṃ suhávam puruspŕ̥ham  
-bhujyúṃ vā́jeṣu pū́rviyam  
-sacanā́vantaṃ sumatíbhiḥ sobhare  
-vídveṣasam anehásam  
+पूर्वआयु꣡षं सुह꣡वम् पुरुस्प्ŕ̥हम्  
+भुज्युं꣡ वा꣡जेषु पू꣡र्वियम्  
+सचना꣡वन्तं सुमति꣡भिः सोभरे  
+वि꣡द्वेषसम् अनेह꣡सम्  

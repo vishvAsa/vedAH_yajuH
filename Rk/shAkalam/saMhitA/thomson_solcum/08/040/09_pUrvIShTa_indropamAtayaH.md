@@ -2,9 +2,9 @@
 title = "009"
 
 +++
-pūrvī́ṣ ṭa indrópamātayaḥ  
-pūrvī́r utá práśastayaḥ  
-sū́no hinvásya harivaḥ  
-vásvo vīrásya apŕ̥co  
-yā́ nú sā́dhanta no dhíyo  
-nábhantām anyaké same  
+पूर्वी꣡ष् ट इन्द्रो꣡पमातयः  
+पूर्वी꣡र् उत꣡ प्र꣡शस्तयः  
+सू꣡नो हिन्व꣡स्य हरिवः  
+व꣡स्वो वीर꣡स्य अप्ŕ̥चो  
+या꣡ नु꣡ सा꣡धन्त नो धि꣡यो  
+न꣡भन्ताम् अन्यके꣡ समे  

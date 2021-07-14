@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-táṃ tvā mártā agr̥bhṇata  
-devébhyo havyavāhana  
-víśvān yád yajñā́m̐ abhipā́si mānuṣa  
-táva krátvā yaviṣṭhiya  
+तं꣡ त्वा म꣡र्ता अगृभ्णत  
+देवे꣡भ्यो हव्यवाहन  
+वि꣡श्वान् य꣡द् यज्ञाँ꣡ अभिपा꣡सि मानुष  
+त꣡व क्र꣡त्वा यविष्ठिय  

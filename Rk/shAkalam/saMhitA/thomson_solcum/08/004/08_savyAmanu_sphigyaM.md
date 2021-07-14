@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-savyā́m ánu sphigíyaṃ vāvase vŕ̥ṣā  
-ná dānó asya roṣati  
-mádhvā sámpr̥ktāḥ sāraghéṇa dhenávas  
-tū́yam éhi drávā píba  
+सव्या꣡म् अ꣡नु स्फिगि꣡यं वावसे व्ŕ̥षा  
+न꣡ दानो꣡ अस्य रोषति  
+म꣡ध्वा स꣡म्पृक्ताः सारघे꣡ण धेन꣡वस्  
+तू꣡यम् ए꣡हि द्र꣡वा पि꣡ब  

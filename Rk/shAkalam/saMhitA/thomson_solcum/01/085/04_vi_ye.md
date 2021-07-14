@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ví yé bhrā́jante súmakhāsa r̥ṣṭíbhiḥ  
-pracyāváyanto ácyutā cid ójasā  
-manojúvo yán maruto rátheṣu ā́  
-vŕ̥ṣavrātāsaḥ pŕ̥ṣatīr áyugdhuvam  
+वि꣡ ये꣡ भ्रा꣡जन्ते सु꣡मखास ऋष्टि꣡भिः  
+प्रच्याव꣡यन्तो अ꣡च्युता चिद् ओ꣡जसा  
+मनोजु꣡वो य꣡न् मरुतो र꣡थेषु आ꣡  
+व्ŕ̥षव्रातासः प्ŕ̥षतीर् अ꣡युग्धुवम्  

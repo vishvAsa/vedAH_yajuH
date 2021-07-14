@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-índrasya sakhyám r̥bhávaḥ sám ānaśur  
-mánor nápāto apáso dadhanvire  
-saudhanvanā́so amr̥tatvám érire  
-viṣṭvī́ śámībhiḥ sukŕ̥taḥ sukr̥tyáyā  
+इ꣡न्द्रस्य सख्य꣡म् ऋभ꣡वः स꣡म् आनशुर्  
+म꣡नोर् न꣡पातो अप꣡सो दधन्विरे  
+सौधन्वना꣡सो अमृतत्व꣡म् ए꣡रिरे  
+विष्ट्वी꣡ श꣡मीभिः सुक्ŕ̥तः सुकृत्य꣡या  

@@ -2,7 +2,7 @@
 title = "028"
 
 +++
-índrasya vájro marútām ánīkam  
-mitrásya gárbho váruṇasya nā́bhiḥ  
-sá imā́ṃ no havyádātiṃ juṣāṇó  
-déva ratha práti havyā́ gr̥bhāya  
+इ꣡न्द्रस्य व꣡ज्रो मरु꣡ताम् अ꣡नीकम्  
+मित्र꣡स्य ग꣡र्भो व꣡रुणस्य ना꣡भिः  
+स꣡ इमां꣡ नो हव्य꣡दातिं जुषाणो꣡  
+दे꣡व रथ प्र꣡ति हव्या꣡ गृभाय  

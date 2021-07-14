@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́ vāṃ rátho avánir ná pravátvān  
-sr̥právandhuraḥ suvitā́ya gamyāḥ  
-vŕ̥ṣṇa sthātārā mánaso jávīyān  
-ahampūrvó yajató dhiṣṇiyā yáḥ  
+आ꣡ वां र꣡थो अव꣡निर् न꣡ प्रव꣡त्वान्  
+सृप्र꣡वन्धुरः सुविता꣡य गम्याः  
+व्ŕ̥ष्ण स्थातारा म꣡नसो ज꣡वीयान्  
+अहम्पूर्वो꣡ यजतो꣡ धिष्णिया यः꣡  

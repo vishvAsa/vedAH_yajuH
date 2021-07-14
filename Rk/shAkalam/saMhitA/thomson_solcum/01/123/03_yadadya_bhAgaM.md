@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yád adyá bhāgáṃ vibhájāsi nŕ̥bhya  
-úṣo devi martiyatrā́ sujāte  
-devó no átra savitā́ dámūnā  
-ánāgaso vocati sū́riyāya  
+य꣡द् अद्य꣡ भागं꣡ विभ꣡जासि न्ŕ̥भ्य  
+उ꣡षो देवि मर्तियत्रा꣡ सुजाते  
+देवो꣡ नो अ꣡त्र सविता꣡ द꣡मूना  
+अ꣡नागसो वोचति सू꣡रियाय  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-satyénóttabhitā bhū́miḥ  
-sū́ryeṇa úttabhitā dyaúḥ  
-r̥ténādityā́s tiṣṭhanti  
-diví sómo ádhi śritáḥ  
+सत्ये꣡नो꣡त्तभिता भू꣡मिः  
+सू꣡र्येण उ꣡त्तभिता द्यउः꣡  
+ऋते꣡नादित्या꣡स् तिष्ठन्ति  
+दिवि꣡ सो꣡मो अ꣡धि श्रितः꣡  

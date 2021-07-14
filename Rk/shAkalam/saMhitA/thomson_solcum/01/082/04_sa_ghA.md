@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-sá ghā táṃ vŕ̥ṣaṇaṃ rátham  
-ádhi tiṣṭhāti govídam  
-yáḥ pā́traṃ hāriyojanám  
-pūrṇám indra cíketati  
-yójā nú indra te hárī  
+स꣡ घा तं꣡ व्ŕ̥षणं र꣡थम्  
+अ꣡धि तिष्ठाति गोवि꣡दम्  
+यः꣡ पा꣡त्रं हारियोजन꣡म्  
+पूर्ण꣡म् इन्द्र चि꣡केतति  
+यो꣡जा नु꣡ इन्द्र ते ह꣡री  

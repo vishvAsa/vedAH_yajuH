@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-duhánti saptá ékām  
-úpa dvā́ páñca sr̥jataḥ  
-tīrthé síndhor ádhi svaré  
+दुह꣡न्ति सप्त꣡ ए꣡काम्  
+उ꣡प द्वा꣡ प꣡ञ्च सृजतः  
+तीर्थे꣡ सि꣡न्धोर् अ꣡धि स्वरे꣡  

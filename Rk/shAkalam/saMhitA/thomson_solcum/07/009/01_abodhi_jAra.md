@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ábodhi jārá uṣásām upásthād  
-dhótā mandráḥ kavítamaḥ pavākáḥ+  
-dádhāti ketúm ubháyasya jantór  
-havyā́ devéṣu dráviṇaṃ sukŕ̥tsu  
+अ꣡बोधि जार꣡ उष꣡साम् उप꣡स्थाद्  
+धो꣡ता मन्द्रः꣡ कवि꣡तमः पवाकः꣡+  
+द꣡धाति केतु꣡म् उभ꣡यस्य जन्तो꣡र्  
+हव्या꣡ देवे꣡षु द्र꣡विणं सुक्ŕ̥त्सु  

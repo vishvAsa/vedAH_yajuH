@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-yátra jyótir ájasraṃ  
-yásmim̐ loké súvar hitám  
-tásmin mā́ṃ dhehi pavamāna  
-amŕ̥te loké ákṣita  
-índrāyendo pári srava  
+य꣡त्र ज्यो꣡तिर् अ꣡जस्रं  
+य꣡स्मिँ लोके꣡ सु꣡वर् हित꣡म्  
+त꣡स्मिन् मां꣡ धेहि पवमान  
+अम्ŕ̥ते लोके꣡ अ꣡क्षित  
+इ꣡न्द्रायेन्दो प꣡रि स्रव  

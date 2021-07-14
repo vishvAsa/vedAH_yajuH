@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-té marmr̥jata dadr̥vā́ṃso ádriṃ  
-tád eṣām anyé abhíto ví vocan  
-paśváyantrāso abhí kārám arcan  
-vidánta jyótiś cakr̥pánta dhībhíḥ  
+ते꣡ मर्मृजत ददृवां꣡सो अ꣡द्रिं  
+त꣡द् एषाम् अन्ये꣡ अभि꣡तो वि꣡ वोचन्  
+पश्व꣡यन्त्रासो अभि꣡ कार꣡म् अर्चन्  
+विद꣡न्त ज्यो꣡तिश् चकृप꣡न्त धीभिः꣡  

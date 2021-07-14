@@ -2,8 +2,8 @@
 title = "006"
 
 +++
-áva caṣṭa ŕ̥cīṣamo  
-avatā́m̐ iva mā́nuṣaḥ  
-juṣṭvī́ dákṣasya somínaḥ  
-sákhāyaṃ kr̥ṇute yújam  
-bhadrā́ índrasya rātáyaḥ  
+अ꣡व चष्ट ŕ̥चीषमो  
+अवताँ꣡ इव मा꣡नुषः  
+जुष्ट्वी꣡ द꣡क्षस्य सोमि꣡नः  
+स꣡खायं कृणुते यु꣡जम्  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः  

@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-tuváṃ kárañjam utá parṇáyaṃ vadhīs  
-téjiṣṭhayā atithigvásya vartanī́  
-tuváṃ śatā́ váṅgr̥dasyābhinat púro  
-anānudáḥ páriṣūtā r̥jíśvanā  
+तुवं꣡ क꣡रञ्जम् उत꣡ पर्ण꣡यं वधीस्  
+ते꣡जिष्ठया अतिथिग्व꣡स्य वर्तनी꣡  
+तुवं꣡ शता꣡ व꣡ङ्गृदस्याभिनत् पु꣡रो  
+अनानुदः꣡ प꣡रिषूता ऋजि꣡श्वना  

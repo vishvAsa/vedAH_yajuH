@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ā́ va r̥ñjasa ūrjã́ṃ víuṣṭiṣu  
-índram marúto ródasī anaktana  
-ubhé yáthā no áhanī sacābhúvā  
-sádaḥ-sado varivasyā́ta udbhídā  
+आ꣡ व ऋञ्जस ऊर्ज्ãं꣡ वि꣡उष्टिषु  
+इ꣡न्द्रम् मरु꣡तो रो꣡दसी अनक्तन  
+उभे꣡ य꣡था नो अ꣡हनी सचाभु꣡वा  
+स꣡दः-सदो वरिवस्या꣡त उद्भि꣡दा  

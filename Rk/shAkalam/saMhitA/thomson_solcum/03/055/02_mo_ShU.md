@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mó ṣū́ ṇo átra juhuranta devā́  
-mā́ pū́rve agne pitáraḥ padajñā́ḥ  
-purāṇiyóḥ sádmanoḥ ketúr antár  
-mahád devā́nām asuratvám ékam  
+मो꣡ षू꣡ णो अ꣡त्र जुहुरन्त देवा꣡  
+मा꣡ पू꣡र्वे अग्ने पित꣡रः पदज्ञाः꣡  
+पुराणियोः꣡ स꣡द्मनोः केतु꣡र् अन्त꣡र्  
+मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-abhí sómāsa āyávaḥ  
-pávante mádiyam mádam  
-abhí kóśam madhuścútam  
+अभि꣡ सो꣡मास आय꣡वः  
+प꣡वन्ते म꣡दियम् म꣡दम्  
+अभि꣡ को꣡शम् मधुश्चु꣡तम्  

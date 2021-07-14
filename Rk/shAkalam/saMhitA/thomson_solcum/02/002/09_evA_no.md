@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-evā́ no agne amŕ̥teṣu pūrviya  
-dhī́ṣ pīpāya br̥háddiveṣu mā́nuṣā  
-dúhānā dhenúr vr̥jáneṣu kāráve  
-tmánā śatínam pururū́pam iṣáṇi  
+एवा꣡ नो अग्ने अम्ŕ̥तेषु पूर्विय  
+धी꣡ष् पीपाय बृह꣡द्दिवेषु मा꣡नुषा  
+दु꣡हाना धेनु꣡र् वृज꣡नेषु कार꣡वे  
+त्म꣡ना शति꣡नम् पुरुरू꣡पम् इष꣡णि  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yá ójiṣṭhas tám ā́ bhara  
-pávamāna śravā́yiyam  
-yáḥ páñca carṣaṇī́r abhí  
-rayíṃ yéna vánāmahai  
+य꣡ ओ꣡जिष्ठस् त꣡म् आ꣡ भर  
+प꣡वमान श्रवा꣡यियम्  
+यः꣡ प꣡ञ्च चर्षणी꣡र् अभि꣡  
+रयिं꣡ ये꣡न व꣡नामहै  

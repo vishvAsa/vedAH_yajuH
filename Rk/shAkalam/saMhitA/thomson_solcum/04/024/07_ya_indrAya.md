@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yá índrāya sunávat sómam adyá  
-pácāt paktī́r utá bhr̥jjā́ti dhānā́ḥ  
-práti manāyór ucáthāni háryan  
-tásmin dadhad vŕ̥ṣaṇaṃ śúṣmam índraḥ  
+य꣡ इ꣡न्द्राय सुन꣡वत् सो꣡मम् अद्य꣡  
+प꣡चात् पक्ती꣡र् उत꣡ भृज्जा꣡ति धानाः꣡  
+प्र꣡ति मनायो꣡र् उच꣡थानि ह꣡र्यन्  
+त꣡स्मिन् दधद् व्ŕ̥षणं शु꣡ष्मम् इ꣡न्द्रः  

@@ -2,5 +2,5 @@
 title = "005"
 
 +++
-tigmám éko bibharti hásta ā́yudhaṃ  
-śúcir ugró jálāṣabheṣajaḥ  
+तिग्म꣡म् ए꣡को बिभर्ति ह꣡स्त आ꣡युधं  
+शु꣡चिर् उग्रो꣡ ज꣡लाषभेषजः  

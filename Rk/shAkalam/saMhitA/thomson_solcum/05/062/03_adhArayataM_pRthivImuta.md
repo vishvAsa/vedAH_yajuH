@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ádhārayatam pr̥thivī́m utá dyā́m  
-mítrarājānā varuṇā máhobhiḥ  
-vardháyatam óṣadhīḥ pínvataṃ gā́  
-áva vr̥ṣṭíṃ sr̥jataṃ jīradānū  
+अ꣡धारयतम् पृथिवी꣡म् उत꣡ द्या꣡म्  
+मि꣡त्रराजाना वरुणा म꣡होभिः  
+वर्ध꣡यतम् ओ꣡षधीः पि꣡न्वतं गा꣡  
+अ꣡व वृष्टिं꣡ सृजतं जीरदानू  

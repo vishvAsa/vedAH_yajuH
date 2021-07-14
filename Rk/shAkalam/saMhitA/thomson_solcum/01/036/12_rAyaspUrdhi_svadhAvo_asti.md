@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-rāyás pūrdhi svadhāvó ásti hí té  
-ágne devéṣu ā́piyam  
-tuváṃ vā́jasya śrútiyasya rājasi  
-sá no mr̥̄ḷa+ mahā́m̐ asi  
+राय꣡स् पूर्धि स्वधावो꣡ अ꣡स्ति हि꣡ ते꣡  
+अ꣡ग्ने देवे꣡षु आ꣡पियम्  
+तुवं꣡ वा꣡जस्य श्रु꣡तियस्य राजसि  
+स꣡ नो मॄऌअ+ महाँ꣡ असि  

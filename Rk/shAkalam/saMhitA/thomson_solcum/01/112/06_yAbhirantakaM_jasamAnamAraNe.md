@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yā́bhir ántakaṃ jásamānam ā́raṇe  
-bhujyúṃ yā́bhir avyathíbhir jijinváthuḥ  
-yā́bhiḥ karkándhuṃ vayíyaṃ ca jínvathas  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिर् अ꣡न्तकं ज꣡समानम् आ꣡रणे  
+भुज्युं꣡ या꣡भिर् अव्यथि꣡भिर् जिजिन्व꣡थुः  
+या꣡भिः कर्क꣡न्धुं वयि꣡यं च जि꣡न्वथस्  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-ā́ sotā pári ṣiñcata  
-áśvaṃ ná stómam aptúraṃ rajastúram  
-vanakrakṣám udaprútam  
+आ꣡ सोता प꣡रि षिञ्चत  
+अ꣡श्वं न꣡ स्तो꣡मम् अप्तु꣡रं रजस्तु꣡रम्  
+वनक्रक्ष꣡म् उदप्रु꣡तम्  

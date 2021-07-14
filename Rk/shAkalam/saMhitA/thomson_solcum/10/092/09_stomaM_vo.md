@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-stómaṃ vo adyá rudarā́ya+ śíkvase  
-kṣayádvīrāya námasā didiṣṭana  
-yébhiḥ śiváḥ suávām̐ evayā́vabhir  
-diváḥ síṣakti sváyaśā níkāmabhiḥ  
+स्तो꣡मं वो अद्य꣡ रुदरा꣡य+ शि꣡क्वसे  
+क्षय꣡द्वीराय न꣡मसा दिदिष्टन  
+ये꣡भिः शिवः꣡ सुअ꣡वाँ एवया꣡वभिर्  
+दिवः꣡ सि꣡षक्ति स्व꣡यशा नि꣡कामभिः  

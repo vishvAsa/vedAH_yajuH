@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-mā́ sā́ te asmát sumatír ví dasad  
-vā́japramahaḥ sám íṣo varanta  
-ā́ no bhaja maghavan góṣu aryó  
-máṃhiṣṭhās te sadhamā́daḥ siyāma  
+मा꣡ सा꣡ ते अस्म꣡त् सुमति꣡र् वि꣡ दसद्  
+वा꣡जप्रमहः स꣡म् इ꣡षो वरन्त  
+आ꣡ नो भज मघवन् गो꣡षु अर्यो꣡  
+मं꣡हिष्ठास् ते सधमा꣡दः सियाम  

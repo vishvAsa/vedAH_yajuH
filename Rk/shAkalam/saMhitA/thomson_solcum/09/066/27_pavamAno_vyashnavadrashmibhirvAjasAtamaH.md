@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-pávamāno ví aśnavad  
-raśmíbhir vājasā́tamaḥ  
-dádhat stotré suvī́riyam  
+प꣡वमानो वि꣡ अश्नवद्  
+रश्मि꣡भिर् वाजसा꣡तमः  
+द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्  

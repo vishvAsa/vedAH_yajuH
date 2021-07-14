@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-eṣá grā́veva jaritā́ ta indra  
-íyarti vā́cam br̥hád āśuṣāṇáḥ  
-prá savyéna maghavan yáṃsi rāyáḥ  
-prá dakṣiṇíd dharivo mā́ ví venaḥ  
+एष꣡ ग्रा꣡वेव जरिता꣡ त इन्द्र  
+इ꣡यर्ति वा꣡चम् बृह꣡द् आशुषाणः꣡  
+प्र꣡ सव्ये꣡न मघवन् यं꣡सि रायः꣡  
+प्र꣡ दक्षिणि꣡द् धरिवो मा꣡ वि꣡ वेनः  

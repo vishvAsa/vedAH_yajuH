@@ -2,5 +2,5 @@
 title = "003"
 
 +++
-abhí svapū́bhir mithó vapanta  
-vā́tasvanasaḥ śyenā́ aspr̥dhran  
+अभि꣡ स्वपू꣡भिर् मिथो꣡ वपन्त  
+वा꣡तस्वनसः श्येना꣡ अस्पृध्रन्  

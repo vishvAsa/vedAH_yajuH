@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yajñásya ketúm prathamám puróhitam  
-agníṃ náras triṣadhasthé sám īdhire  
-índreṇa devaíḥ saráthaṃ sá barhíṣi  
-sī́dan ní hótā yajáthāya sukrátuḥ  
+यज्ञ꣡स्य केतु꣡म् प्रथम꣡म् पुरो꣡हितम्  
+अग्निं꣡ न꣡रस् त्रिषधस्थे꣡ स꣡म् ईधिरे  
+इ꣡न्द्रेण देवइः꣡ सर꣡थं स꣡ बर्हि꣡षि  
+सी꣡दन् नि꣡ हो꣡ता यज꣡थाय सुक्र꣡तुः  

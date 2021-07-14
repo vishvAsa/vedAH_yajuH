@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ádhvaryavo yá úraṇaṃ jaghā́na  
-náva cakhvā́ṃsaṃ navatíṃ ca bāhū́n  
-yó árbudam áva nīcā́ babādhé  
-tám índraṃ sómasya bhr̥thé hinota  
+अ꣡ध्वर्यवो य꣡ उ꣡रणं जघा꣡न  
+न꣡व चख्वां꣡सं नवतिं꣡ च बाहू꣡न्  
+यो꣡ अ꣡र्बुदम् अ꣡व नीचा꣡ बबाधे꣡  
+त꣡म् इ꣡न्द्रं सो꣡मस्य भृथे꣡ हिनोत  

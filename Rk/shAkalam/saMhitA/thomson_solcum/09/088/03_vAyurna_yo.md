@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-vāyúr ná yó niyútvām̐ iṣṭáyāmā  
-nā́satyeva háva ā́ śámbhaviṣṭhaḥ  
-viśvávāro draviṇodā́ iva tmán  
-pūṣā́ iva dhījávano 'si soma  
+वायु꣡र् न꣡ यो꣡ नियु꣡त्वाँ इष्ट꣡यामा  
+ना꣡सत्येव ह꣡व आ꣡ श꣡म्भविष्ठः  
+विश्व꣡वारो द्रविणोदा꣡ इव त्म꣡न्  
+पूषा꣡ इव धीज꣡वनो ऽसि सोम  

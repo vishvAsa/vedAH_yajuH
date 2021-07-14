@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-távāháṃ soma rāraṇa  
-sakhyá indo divé-dive  
-purū́ṇi babhro ní caranti mā́m áva  
-paridhī́m̐r áti tā́m̐ ihi  
+त꣡वाहं꣡ सोम रारण  
+सख्य꣡ इन्दो दिवे꣡-दिवे  
+पुरू꣡णि बभ्रो नि꣡ चरन्ति मा꣡म् अ꣡व  
+परिधीँ꣡र् अ꣡ति ताँ꣡ इहि  

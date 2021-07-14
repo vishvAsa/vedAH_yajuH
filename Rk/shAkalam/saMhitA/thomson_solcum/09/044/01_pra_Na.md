@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-prá ṇa indo mahé tána  
-ūrmíṃ ná bíbhrad arṣasi  
-abhí devā́m̐ ayā́siyaḥ  
+प्र꣡ ण इन्दो महे꣡ त꣡न  
+ऊर्मिं꣡ न꣡ बि꣡भ्रद् अर्षसि  
+अभि꣡ देवाँ꣡ अया꣡सियः  

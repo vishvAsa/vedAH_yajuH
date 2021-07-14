@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-yás ta indra mahī́r apá  
-stabhūyámāna ā́śayat  
-ní tám pádyāsu śiśnathaḥ  
+य꣡स् त इन्द्र मही꣡र् अप꣡  
+स्तभूय꣡मान आ꣡शयत्  
+नि꣡ त꣡म् प꣡द्यासु शिश्नथः  

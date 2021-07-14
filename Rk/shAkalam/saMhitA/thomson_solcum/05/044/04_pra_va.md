@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prá va eté suyújo yā́man iṣṭáye  
-nī́cīr amúṣmai yamíya r̥tāvŕ̥dhaḥ  
-suyántubhiḥ sarvaśāsaír abhī́śubhiḥ  
-krívir nā́māni pravaṇé muṣāyati  
+प्र꣡ व एते꣡ सुयु꣡जो या꣡मन् इष्ट꣡ये  
+नी꣡चीर् अमु꣡ष्मै यमि꣡य ऋताव्ŕ̥धः  
+सुय꣡न्तुभिः सर्वशासइ꣡र् अभी꣡शुभिः  
+क्रि꣡विर् ना꣡मानि प्रवणे꣡ मुषायति  

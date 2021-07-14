@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ádhvaryavo yáḥ śatám ā́ sahásram  
-bhū́myā upásthe ávapaj jaghanvā́n  
-kútsasyāyór atithigvásya vīrā́n  
-ní ā́vr̥ṇag bháratā sómam asmai  
+अ꣡ध्वर्यवो यः꣡ शत꣡म् आ꣡ सह꣡स्रम्  
+भू꣡म्या उप꣡स्थे अ꣡वपज् जघन्वा꣡न्  
+कु꣡त्सस्यायो꣡र् अतिथिग्व꣡स्य वीरा꣡न्  
+नि꣡ आ꣡वृणग् भ꣡रता सो꣡मम् अस्मै  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sūktébhir vo vácobhir devájuṣṭair  
-índrā nú agnī́ ávase huvádhyai  
-ukthébhir hí ṣmā kaváyaḥ suyajñā́  
-āvívāsanto marúto yájanti  
+सूक्ते꣡भिर् वो व꣡चोभिर् देव꣡जुष्टैर्  
+इ꣡न्द्रा नु꣡ अग्नी꣡ अ꣡वसे हुव꣡ध्यै  
+उक्थे꣡भिर् हि꣡ ष्मा कव꣡यः सुयज्ञा꣡  
+आवि꣡वासन्तो मरु꣡तो य꣡जन्ति  

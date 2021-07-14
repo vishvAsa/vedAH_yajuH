@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ádha smā na úd avatā sajoṣaso  
-ráthaṃ devāso abhí vikṣú vājayúm  
-yád āśávaḥ pádyābhis títrato rájaḥ  
-pr̥thivyā́ḥ sā́nau jáṅghananta pāṇíbhiḥ  
+अ꣡ध स्मा न उ꣡द् अवता सजोषसो  
+र꣡थं देवासो अभि꣡ विक्षु꣡ वाजयु꣡म्  
+य꣡द् आश꣡वः प꣡द्याभिस् ति꣡त्रतो र꣡जः  
+पृथिव्याः꣡ सा꣡नौ ज꣡ङ्घनन्त पाणि꣡भिः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-prá sīm ādityó asr̥jad vidhartā́m̐  
-r̥táṃ síndhavo váruṇasya yanti  
-ná śrāmyanti ná ví mucanti eté  
-váyo ná paptū raghuyā́ párijman  
+प्र꣡ सीम् आदित्यो꣡ असृजद् विधर्ताँ꣡  
+ऋतं꣡ सि꣡न्धवो व꣡रुणस्य यन्ति  
+न꣡ श्राम्यन्ति न꣡ वि꣡ मुचन्ति एते꣡  
+व꣡यो न꣡ पप्तू रघुया꣡ प꣡रिज्मन्  

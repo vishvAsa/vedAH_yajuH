@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yā́ dhartā́rā rájaso rocanásya  
-utā́dityā́ diviyā́ pā́rthivasya  
-ná vāṃ devā́ amŕ̥tā ā́ minanti  
-vratā́ni mitrāvaruṇā dhruvā́ṇi  
+या꣡ धर्ता꣡रा र꣡जसो रोचन꣡स्य  
+उता꣡दित्या꣡ दिविया꣡ पा꣡र्थिवस्य  
+न꣡ वां देवा꣡ अम्ŕ̥ता आ꣡ मिनन्ति  
+व्रता꣡नि मित्रावरुणा ध्रुवा꣡णि  

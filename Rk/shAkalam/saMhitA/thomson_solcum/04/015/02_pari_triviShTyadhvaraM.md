@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-pári triviṣṭí adhvaráṃ  
-yā́ti agnī́ rathī́r iva  
-ā́ devéṣu práyo dádhat  
+प꣡रि त्रिविष्टि꣡ अध्वरं꣡  
+या꣡ति अग्नी꣡ रथी꣡र् इव  
+आ꣡ देवे꣡षु प्र꣡यो द꣡धत्  

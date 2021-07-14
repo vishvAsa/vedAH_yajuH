@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-ví yé te agne bhejiré ánīkam  
-mártā náraḥ pítriyāsaḥ purutrā́  
-utó na ebhíḥ sumánā ihá syāḥ  
+वि꣡ ये꣡ ते अग्ने भेजिरे꣡ अ꣡नीकम्  
+म꣡र्ता न꣡रः पि꣡त्रियासः पुरुत्रा꣡  
+उतो꣡ न एभिः꣡ सुम꣡ना इह꣡ स्याः  

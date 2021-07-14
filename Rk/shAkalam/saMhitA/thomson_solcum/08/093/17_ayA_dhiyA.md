@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-ayā́ dhiyā́ ca gavyayā́  
-púruṇāman púruṣṭuta  
-yát sóme-soma ā́bhavaḥ  
+अया꣡ धिया꣡ च गव्यया꣡  
+पु꣡रुणामन् पु꣡रुष्टुत  
+य꣡त् सो꣡मे-सोम आ꣡भवः  

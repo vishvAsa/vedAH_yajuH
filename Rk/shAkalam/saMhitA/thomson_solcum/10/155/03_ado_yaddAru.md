@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-adó yád dā́ru plávate  
-síndhoḥ pāré apūruṣám  
-tád ā́ rabhasva durhaṇo  
-téna gacha parastarám  
+अदो꣡ य꣡द् दा꣡रु प्ल꣡वते  
+सि꣡न्धोः पारे꣡ अपूरुष꣡म्  
+त꣡द् आ꣡ रभस्व दुर्हणो  
+ते꣡न गछ परस्तर꣡म्  

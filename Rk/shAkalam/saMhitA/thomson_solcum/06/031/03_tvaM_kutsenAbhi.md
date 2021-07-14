@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tuváṃ kútsena abhí śúṣṇam indra  
-aśúṣaṃ yudhya kúyavaṃ gáviṣṭau  
-dáśa prapitvé ádha sū́riyasya  
-muṣāyáś cakrám ávive rápāṃsi†  
+तुवं꣡ कु꣡त्सेन अभि꣡ शु꣡ष्णम् इन्द्र  
+अशु꣡षं युध्य कु꣡यवं ग꣡विष्टौ  
+द꣡श प्रपित्वे꣡ अ꣡ध सू꣡रियस्य  
+मुषाय꣡श् चक्र꣡म् अ꣡विवे र꣡पांसि†  

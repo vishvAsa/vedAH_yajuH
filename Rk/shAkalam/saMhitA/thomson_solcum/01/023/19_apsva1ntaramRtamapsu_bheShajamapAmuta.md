@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-apsú antár amŕ̥tam apsú bheṣajám  
-apā́m utá práśastaye  
-dévā bhávata vājínaḥ  
+अप्सु꣡ अन्त꣡र् अम्ŕ̥तम् अप्सु꣡ भेषज꣡म्  
+अपा꣡म् उत꣡ प्र꣡शस्तये  
+दे꣡वा भ꣡वत वाजि꣡नः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kā́ ta úpetir mánaso várāya  
-bhúvad agne śáṃtamā kā́ manīṣā́  
-kó vā yajñaíḥ pári dákṣaṃ ta āpa  
-kéna vā te mánasā dãśema  
+का꣡ त उ꣡पेतिर् म꣡नसो व꣡राय  
+भु꣡वद् अग्ने शं꣡तमा का꣡ मनीषा꣡  
+को꣡ वा यज्ञइः꣡ प꣡रि द꣡क्षं त आप  
+के꣡न वा ते म꣡नसा द्ãशेम  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-prā́ñcaṃ yajñáṃ cakr̥ma várdhatāṃ gī́ḥ  
-samídbhir agníṃ námasā duvasyan  
-diváḥ śaśāsur vidáthā kavīnā́ṃ  
-gŕ̥tsāya cit taváse gātúm īṣuḥ  
+प्रा꣡ञ्चं यज्ञं꣡ चकृम व꣡र्धतां गीः꣡  
+समि꣡द्भिर् अग्निं꣡ न꣡मसा दुवस्यन्  
+दिवः꣡ शशासुर् विद꣡था कवीनां꣡  
+ग्ŕ̥त्साय चित् तव꣡से गातु꣡म् ईषुः  

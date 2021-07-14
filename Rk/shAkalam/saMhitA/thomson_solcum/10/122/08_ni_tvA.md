@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ní tvā vásiṣṭhā ahuvanta vājínaṃ  
-gr̥ṇánto agne vidátheṣu vedhásaḥ  
-rāyás póṣaṃ yájamāneṣu dhāraya  
-yūyám pāta suastíbhiḥ sádā naḥ  
+नि꣡ त्वा व꣡सिष्ठा अहुवन्त वाजि꣡नं  
+गृण꣡न्तो अग्ने विद꣡थेषु वेध꣡सः  
+राय꣡स् पो꣡षं य꣡जमानेषु धारय  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

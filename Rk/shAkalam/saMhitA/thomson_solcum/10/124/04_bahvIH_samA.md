@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-bahvī́ḥ sámā akaram antár asminn  
-índraṃ vr̥ṇānáḥ pitáraṃ jahāmi  
-agníḥ sómo váruṇas té cyavante  
-paryā́vard rāṣṭráṃ tád avāmi āyán  
+बह्वीः꣡ स꣡मा अकरम् अन्त꣡र् अस्मिन्न्  
+इ꣡न्द्रं वृणानः꣡ पित꣡रं जहामि  
+अग्निः꣡ सो꣡मो व꣡रुणस् ते꣡ च्यवन्ते  
+पर्या꣡वर्द् राष्ट्रं꣡ त꣡द् अवामि आय꣡न्  

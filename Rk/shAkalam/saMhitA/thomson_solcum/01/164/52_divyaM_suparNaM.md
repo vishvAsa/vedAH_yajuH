@@ -2,7 +2,7 @@
 title = "052"
 
 +++
-divyáṃ suparṇáṃ vāyasám br̥hántam  
-apā́ṃ gárbhaṃ darśatám óṣadhīnām  
-abhīpató vr̥ṣṭíbhis tarpáyantaṃ  
-sárasvantam ávase johavīmi  
+दिव्यं꣡ सुपर्णं꣡ वायस꣡म् बृह꣡न्तम्  
+अपां꣡ ग꣡र्भं दर्शत꣡म् ओ꣡षधीनाम्  
+अभीपतो꣡ वृष्टि꣡भिस् तर्प꣡यन्तं  
+स꣡रस्वन्तम् अ꣡वसे जोहवीमि  

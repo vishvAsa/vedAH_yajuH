@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-vŕ̥ṣā ná kruddháḥ patayad rájassu ā́  
-yó aryápatnīr ákr̥ṇod imā́ apáḥ  
-sá sunvaté maghávā jīrádānave  
-ávindaj jyótir mánave havíṣmate  
+व्ŕ̥षा न꣡ क्रुद्धः꣡ पतयद् र꣡जस्सु आ꣡  
+यो꣡ अर्य꣡पत्नीर् अ꣡कृणोद् इमा꣡ अपः꣡  
+स꣡ सुन्वते꣡ मघ꣡वा जीर꣡दानवे  
+अ꣡विन्दज् ज्यो꣡तिर् म꣡नवे हवि꣡ष्मते  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ná ghā tuvadríg ápa veti me mánas  
-tuvé ít kā́mam puruhūta śiśraya  
-rā́jeva dasma ní ṣadó 'dhi barhíṣi  
-asmín sú sóme avapā́nam astu te  
+न꣡ घा तुवद्रि꣡ग् अ꣡प वेति मे म꣡नस्  
+तुवे꣡ इ꣡त् का꣡मम् पुरुहूत शिश्रय  
+रा꣡जेव दस्म नि꣡ षदो꣡ ऽधि बर्हि꣡षि  
+अस्मि꣡न् सु꣡ सो꣡मे अवपा꣡नम् अस्तु ते  

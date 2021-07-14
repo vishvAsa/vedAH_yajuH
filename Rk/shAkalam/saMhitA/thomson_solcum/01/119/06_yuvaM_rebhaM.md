@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yuváṃ rebhám páriṣūter uruṣyatho  
-hiména gharmám páritaptam átraye  
-yuváṃ śayór avasám pipyathur gávi  
-prá dīrghéṇa vándanas tāri ā́yuṣā  
+युवं꣡ रेभ꣡म् प꣡रिषूतेर् उरुष्यथो  
+हिमे꣡न घर्म꣡म् प꣡रितप्तम् अ꣡त्रये  
+युवं꣡ शयो꣡र् अवस꣡म् पिप्यथुर् ग꣡वि  
+प्र꣡ दीर्घे꣡ण व꣡न्दनस् तारि आ꣡युषा  

@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-ā́ no gávyebhir áśviyaiḥ  
-sahásrair úpa gachatam  
-ánti ṣad bhūtu vām ávaḥ  
+आ꣡ नो ग꣡व्येभिर् अ꣡श्वियैः  
+सह꣡स्रैर् उ꣡प गछतम्  
+अ꣡न्ति षद् भूतु वाम् अ꣡वः  

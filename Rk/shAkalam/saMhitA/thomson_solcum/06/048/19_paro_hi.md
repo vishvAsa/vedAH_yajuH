@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-paró hí mártiyair ási  
-samó devaír utá śriyā́  
-abhí khyaḥ pūṣan pŕ̥tanāsu nas tuvám  
-ávā nūnáṃ yáthā purā́  
+परो꣡ हि꣡ म꣡र्तियैर् अ꣡सि  
+समो꣡ देवइ꣡र् उत꣡ श्रिया꣡  
+अभि꣡ ख्यः पूषन् प्ŕ̥तनासु नस् तुव꣡म्  
+अ꣡वा नूनं꣡ य꣡था पुरा꣡  

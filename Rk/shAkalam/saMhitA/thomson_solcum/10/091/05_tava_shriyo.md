@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-táva śríyo varṣíyasyeva vidyútaś  
-citrā́ś cikitra uṣásāṃ ná ketávaḥ  
-yád óṣadhīr abhísr̥ṣṭo vánāni ca  
-pári svayáṃ cinuṣé ánnam āsíye  
+त꣡व श्रि꣡यो वर्षि꣡यस्येव विद्यु꣡तश्  
+चित्रा꣡श् चिकित्र उष꣡सां न꣡ केत꣡वः  
+य꣡द् ओ꣡षधीर् अभि꣡सृष्टो व꣡नानि च  
+प꣡रि स्वयं꣡ चिनुषे꣡ अ꣡न्नम् आसि꣡ये  

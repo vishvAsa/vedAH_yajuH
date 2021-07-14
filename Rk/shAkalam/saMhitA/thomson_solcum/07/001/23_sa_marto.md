@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-sá márto agne suanīka revā́n  
-ámartiye yá ājuhóti havyám  
-sá devátā vasuvániṃ dadhāti  
-yáṃ sūrír arthī́ pr̥chámāna éti  
+स꣡ म꣡र्तो अग्ने सुअनीक रेवा꣡न्  
+अ꣡मर्तिये य꣡ आजुहो꣡ति हव्य꣡म्  
+स꣡ देव꣡ता वसुव꣡निं दधाति  
+यं꣡ सूरि꣡र् अर्थी꣡ पृछ꣡मान ए꣡ति  

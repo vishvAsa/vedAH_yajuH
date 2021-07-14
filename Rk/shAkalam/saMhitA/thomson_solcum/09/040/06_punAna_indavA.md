@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-punāná indav ā́ bhara  
-sóma dvibárhasaṃ rayím  
-vŕ̥ṣann indo na ukthíyam  
+पुनान꣡ इन्दव् आ꣡ भर  
+सो꣡म द्विब꣡र्हसं रयि꣡म्  
+व्ŕ̥षन्न् इन्दो न उक्थि꣡यम्  

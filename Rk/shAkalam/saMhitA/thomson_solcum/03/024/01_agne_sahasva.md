@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ágne sáhasva pŕ̥tanā  
-abhímātīr ápāsiya  
-duṣṭáras tárann árātīr  
-várco dhā yajñávāhase  
+अ꣡ग्ने स꣡हस्व प्ŕ̥तना  
+अभि꣡मातीर् अ꣡पासिय  
+दुष्ट꣡रस् त꣡रन्न् अ꣡रातीर्  
+व꣡र्चो धा यज्ञ꣡वाहसे  

@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ayám me hásto bhágavān  
-ayám me bhágavattaraḥ  
-ayám me viśvábheṣajo  
-ayáṃ śivā́bhimarśanaḥ  
+अय꣡म् मे ह꣡स्तो भ꣡गवान्  
+अय꣡म् मे भ꣡गवत्तरः  
+अय꣡म् मे विश्व꣡भेषजो  
+अयं꣡ शिवा꣡भिमर्शनः  

@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-abhī́ ṣatás tád ā́ bhara  
-índra jyā́yaḥ kánīyasaḥ  
-purūvásur hí maghavan sanā́d ási  
-bháre-bhare ca háviyaḥ  
+अभी꣡ षत꣡स् त꣡द् आ꣡ भर  
+इ꣡न्द्र ज्या꣡यः क꣡नीयसः  
+पुरूव꣡सुर् हि꣡ मघवन् सना꣡द् अ꣡सि  
+भ꣡रे-भरे च ह꣡वियः  

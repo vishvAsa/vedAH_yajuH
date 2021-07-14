@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tád u śráyiṣṭhaṃ+ sávanaṃ sunotana  
-átyo ná hástayato ádriḥ sotári  
-vidád dhí aryó abhíbhūti paúṃsiyam  
-mahó rāyé cit tarute yád árvataḥ  
+त꣡द् उ श्र꣡यिष्ठं+ स꣡वनं सुनोतन  
+अ꣡त्यो न꣡ ह꣡स्तयतो अ꣡द्रिः सोत꣡रि  
+विद꣡द् धि꣡ अर्यो꣡ अभि꣡भूति पउं꣡सियम्  
+महो꣡ राये꣡ चित् तरुते य꣡द् अ꣡र्वतः  

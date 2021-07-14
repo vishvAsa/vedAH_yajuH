@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ā́ tū́ na indra madríag  
-ghuvānáḥ sómapītaye  
-háribhyāṃ yāhi adrivaḥ  
+आ꣡ तू꣡ न इन्द्र मद्रि꣡अग्  
+घुवानः꣡ सो꣡मपीतये  
+ह꣡रिभ्यां याहि अद्रिवः  

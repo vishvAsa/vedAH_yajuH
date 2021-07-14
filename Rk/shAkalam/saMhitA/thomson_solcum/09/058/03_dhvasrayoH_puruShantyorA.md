@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-dhvasráyoḥ puruṣántiyor  
-ā́ sahásrāṇi dadmahe  
-tárat sá mandī́ dhāvati  
+ध्वस्र꣡योः पुरुष꣡न्तियोर्  
+आ꣡ सह꣡स्राणि दद्महे  
+त꣡रत् स꣡ मन्दी꣡ धावति  

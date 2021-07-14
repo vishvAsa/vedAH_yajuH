@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ká imáṃ vo niṇiyám ā́ ciketa  
-vatsó mātr̥̄́r janayata svadhā́bhiḥ  
-bahvīnā́ṃ gárbho apásām upásthān  
-mahā́n kavír níś carati svadhā́vān  
+क꣡ इमं꣡ वो निणिय꣡म् आ꣡ चिकेत  
+वत्सो꣡ मातॄ꣡र् जनयत स्वधा꣡भिः  
+बह्वीनां꣡ ग꣡र्भो अप꣡साम् उप꣡स्थान्  
+महा꣡न् कवि꣡र् नि꣡श् चरति स्वधा꣡वान्  

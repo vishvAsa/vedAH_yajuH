@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-pareyivā́ṃsam praváto mahī́r ánu  
-bahúbhyaḥ pánthām anupaspaśānám  
-vaivasvatáṃ saṃgámanaṃ jánānāṃ  
-yamáṃ rā́jānaṃ havíṣā duvasya  
+परेयिवां꣡सम् प्रव꣡तो मही꣡र् अ꣡नु  
+बहु꣡भ्यः प꣡न्थाम् अनुपस्पशान꣡म्  
+वैवस्वतं꣡ संग꣡मनं ज꣡नानां  
+यमं꣡ रा꣡जानं हवि꣡षा दुवस्य  

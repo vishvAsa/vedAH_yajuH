@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-indravāyū́ bŕ̥haspátiṃ  
-suhávehá havāmahe  
-yáthā naḥ sárva íj jánaḥ  
-sáṃgatyāṃ sumánā ásat  
+इन्द्रवायू꣡ ब्ŕ̥हस्प꣡तिं  
+सुह꣡वेह꣡ हवामहे  
+य꣡था नः स꣡र्व इ꣡ज् ज꣡नः  
+सं꣡गत्यां सुम꣡ना अ꣡सत्  

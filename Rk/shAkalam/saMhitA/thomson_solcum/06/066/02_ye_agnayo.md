@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yé agnáyo ná śóśucann idhānā́  
-duvír yát trír marúto vāvr̥dhánta  
-areṇávo hiraṇyáyāsa eṣāṃ  
-sākáṃ nr̥mṇaíḥ paúṃsiyebhiś ca bhūvan  
+ये꣡ अग्न꣡यो न꣡ शो꣡शुचन्न् इधाना꣡  
+दुवि꣡र् य꣡त् त्रि꣡र् मरु꣡तो वावृध꣡न्त  
+अरेण꣡वो हिरण्य꣡यास एषां  
+साकं꣡ नृम्णइः꣡ पउं꣡सियेभिश् च भूवन्  

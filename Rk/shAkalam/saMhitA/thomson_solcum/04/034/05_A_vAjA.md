@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ā́ vājā yāta úpa na r̥bhukṣā  
-mahó naro dráviṇaso gr̥ṇānā́ḥ  
-ā́ vaḥ pītáyo abhipitvé áhnām  
-imā́ ástaṃ navasúva iva gman  
+आ꣡ वाजा यात उ꣡प न ऋभुक्षा  
+महो꣡ नरो द्र꣡विणसो गृणानाः꣡  
+आ꣡ वः पीत꣡यो अभिपित्वे꣡ अ꣡ह्नाम्  
+इमा꣡ अ꣡स्तं नवसु꣡व इव ग्मन्  

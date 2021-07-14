@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-uṣá-uṣo hí vaso ágram éṣi  
-tuváṃ yamáyor abhavo vibhā́vā  
-r̥tā́ya saptá dadhiṣe padā́ni  
-janáyan mitráṃ tanúve suā́yai  
+उष꣡-उषो हि꣡ वसो अ꣡ग्रम् ए꣡षि  
+तुवं꣡ यम꣡योर् अभवो विभा꣡वा  
+ऋता꣡य सप्त꣡ दधिषे पदा꣡नि  
+जन꣡यन् मित्रं꣡ तनु꣡वे सुआ꣡यै  

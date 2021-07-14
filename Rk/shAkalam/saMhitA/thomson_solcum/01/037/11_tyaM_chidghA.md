@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-tiyáṃ cid ghā dīrghám pr̥thúm  
-mihó nápātam ámr̥dhram  
-prá cyāvayanti yā́mabhiḥ  
+तियं꣡ चिद् घा दीर्घ꣡म् पृथु꣡म्  
+मिहो꣡ न꣡पातम् अ꣡मृध्रम्  
+प्र꣡ च्यावयन्ति या꣡मभिः  

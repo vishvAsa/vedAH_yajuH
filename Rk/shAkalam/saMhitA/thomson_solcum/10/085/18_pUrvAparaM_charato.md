@@ -2,7 +2,7 @@
 title = "018"
 
 +++
-pūrvāparáṃ carato māyáyaitaú  
-śíśū krī́ḷantau pári yāto adhvarám  
-víśvāni anyó bhúvanābhicáṣṭa  
-r̥tū́m̐r anyó vidádhaj jāyate púnaḥ  
+पूर्वापरं꣡ चरतो माय꣡यैतउ꣡  
+शि꣡शू क्री꣡ऌअन्तौ प꣡रि यातो अध्वर꣡म्  
+वि꣡श्वानि अन्यो꣡ भु꣡वनाभिच꣡ष्ट  
+ऋतूँ꣡र् अन्यो꣡ विद꣡धज् जायते पु꣡नः  

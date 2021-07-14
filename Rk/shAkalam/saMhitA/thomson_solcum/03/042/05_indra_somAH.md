@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-índra sómāḥ sutā́ imé  
-tā́n dadhiṣva śatakrato  
-jaṭháre vājinīvaso  
+इ꣡न्द्र सो꣡माः सुता꣡ इमे꣡  
+ता꣡न् दधिष्व शतक्रतो  
+जठ꣡रे वाजिनीवसो  

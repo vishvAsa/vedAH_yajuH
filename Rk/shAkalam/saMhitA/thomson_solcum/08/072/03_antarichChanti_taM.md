@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-antár ichanti táṃ jáne  
-rudrám paró manīṣáyā  
-gr̥bhṇánti jihváyā sasám  
+अन्त꣡र् इछन्ति तं꣡ ज꣡ने  
+रुद्र꣡म् परो꣡ मनीष꣡या  
+गृभ्ण꣡न्ति जिह्व꣡या सस꣡म्  

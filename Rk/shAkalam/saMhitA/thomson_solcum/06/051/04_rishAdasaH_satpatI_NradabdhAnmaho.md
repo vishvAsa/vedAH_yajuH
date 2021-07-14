@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-riśā́dasaḥ · sátpatīm̐r ádabdhān  
-mahó rā́jñaḥ suvasanásya dātr̥̄́n  
-yū́naḥ sukṣatrā́n kṣáyato divó nr̥̄́n  
-ādityā́n yāmi áditiṃ duvoyú  
+रिशा꣡दसः · स꣡त्पतीँर् अ꣡दब्धान्  
+महो꣡ रा꣡ज्ञः सुवसन꣡स्य दातॄ꣡न्  
+यू꣡नः सुक्षत्रा꣡न् क्ष꣡यतो दिवो꣡ नॄ꣡न्  
+आदित्या꣡न् यामि अ꣡दितिं दुवोयु꣡  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-utá syá vājī́ kṣipaṇíṃ turaṇyati  
-grīvā́yām baddhó apikakṣá āsáni  
-krátuṃ dadhikrā́ ánu saṃtávītuvat  
-pathā́m áṅkāṃsi ánu āpánīphaṇat  
+उत꣡ स्य꣡ वाजी꣡ क्षिपणिं꣡ तुरण्यति  
+ग्रीवा꣡याम् बद्धो꣡ अपिकक्ष꣡ आस꣡नि  
+क्र꣡तुं दधिक्रा꣡ अ꣡नु संत꣡वीतुवत्  
+पथा꣡म् अ꣡ङ्कांसि अ꣡नु आप꣡नीफणत्  

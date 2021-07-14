@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ágne bhū́rīṇi táva jātavedo  
-déva svadhāvo amŕ̥tasya nā́ma  
-yā́ś ca māyā́ māyínāṃ viśvaminva  
-tuvé pūrvī́ḥ saṃdadhúḥ pr̥ṣṭabandho  
+अ꣡ग्ने भू꣡रीणि त꣡व जातवेदो  
+दे꣡व स्वधावो अम्ŕ̥तस्य ना꣡म  
+या꣡श् च माया꣡ मायि꣡नां विश्वमिन्व  
+तुवे꣡ पूर्वीः꣡ संदधुः꣡ पृष्टबन्धो  

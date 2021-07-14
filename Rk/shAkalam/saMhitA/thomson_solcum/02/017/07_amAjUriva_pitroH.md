@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-amājū́r iva pitaróḥ+ sácā satī́  
-samānā́d ā́ sádasas tvā́m iye bhágam  
-kr̥dhí praketám úpa māsi ā́ bhara  
-daddhí bhāgáṃ tanúvo yéna māmáhaḥ  
+अमाजू꣡र् इव पितरोः꣡+ स꣡चा सती꣡  
+समाना꣡द् आ꣡ स꣡दसस् त्वा꣡म् इये भ꣡गम्  
+कृधि꣡ प्रकेत꣡म् उ꣡प मासि आ꣡ भर  
+दद्धि꣡ भागं꣡ तनु꣡वो ये꣡न माम꣡हः  

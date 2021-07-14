@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yás te rátho · mánaso jávīyān  
-éndra téna somapéyāya yāhi  
-tū́yam ā́ te hárayaḥ prá dravantu  
-yébhir yā́si vŕ̥ṣabhir mándamānaḥ  
+य꣡स् ते र꣡थो · म꣡नसो ज꣡वीयान्  
+ए꣡न्द्र ते꣡न सोमपे꣡याय याहि  
+तू꣡यम् आ꣡ ते ह꣡रयः प्र꣡ द्रवन्तु  
+ये꣡भिर् या꣡सि व्ŕ̥षभिर् म꣡न्दमानः  

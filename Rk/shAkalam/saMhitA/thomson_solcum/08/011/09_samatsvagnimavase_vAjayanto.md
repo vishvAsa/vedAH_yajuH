@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-samátsu agním ávase  
-vājayánto havāmahe  
-vā́jeṣu citrárādhasam  
+सम꣡त्सु अग्नि꣡म् अ꣡वसे  
+वाजय꣡न्तो हवामहे  
+वा꣡जेषु चित्र꣡राधसम्  

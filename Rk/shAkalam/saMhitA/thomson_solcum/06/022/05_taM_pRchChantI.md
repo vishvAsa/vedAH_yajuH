@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tám pr̥chántī vájrahastaṃ ratheṣṭhā́m  
-índraṃ vépī vákvarī yásya nū́ gī́ḥ  
-tuvigrābháṃ tuvikūrmíṃ rabhodā́m  
-gātúm iṣe nákṣate túmram ácha  
+त꣡म् पृछ꣡न्ती व꣡ज्रहस्तं रथेष्ठा꣡म्  
+इ꣡न्द्रं वे꣡पी व꣡क्वरी य꣡स्य नू꣡ गीः꣡  
+तुविग्राभं꣡ तुविकूर्मिं꣡ रभोदा꣡म्  
+गातु꣡म् इषे न꣡क्षते तु꣡म्रम् अ꣡छ  

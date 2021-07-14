@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ví aninásya dhanínaḥ  
-prahoṣé cid áraruṣaḥ  
-kadā́ caná prajígato ádevayoḥ  
+वि꣡ अनिन꣡स्य धनि꣡नः  
+प्रहोषे꣡ चिद् अ꣡ररुषः  
+कदा꣡ चन꣡ प्रजि꣡गतो अ꣡देवयोः  

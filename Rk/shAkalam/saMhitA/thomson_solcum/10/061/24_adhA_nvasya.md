@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-ádhā nú asya jéniyasya puṣṭaú  
-vŕ̥thā rébhanta īmahe tád ū nú  
-saraṇyúr asya sūnúr áśvo  
-vípraś ca asi śrávasaś ca sātaú  
+अ꣡धा नु꣡ अस्य जे꣡नियस्य पुष्टउ꣡  
+व्ŕ̥था रे꣡भन्त ईमहे त꣡द् ऊ नु꣡  
+सरण्यु꣡र् अस्य सूनु꣡र् अ꣡श्वो  
+वि꣡प्रश् च असि श्र꣡वसश् च सातउ꣡  

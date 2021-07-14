@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-kimmáyaḥ svic camasá eṣá āsa  
-yáṃ kā́viyena catúro vicakrá  
-áthā sunudhvaṃ sávanam mádāya  
-pātá rbhavo mádhunaḥ somiyásya  
+किम्म꣡यः स्विच् चमस꣡ एष꣡ आस  
+यं꣡ का꣡वियेन चतु꣡रो विचक्र꣡  
+अ꣡था सुनुध्वं स꣡वनम् म꣡दाय  
+पात꣡ र्भवो म꣡धुनः सोमिय꣡स्य  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-parāváto yé dídhiṣanta ā́piyam  
-mánuprītāso jánimā vivásvataḥ  
-yayā́ter yé nahuṣíyasya barhíṣi  
-devā́ ā́sate té ádhi bruvantu naḥ  
+पराव꣡तो ये꣡ दि꣡धिषन्त आ꣡पियम्  
+म꣡नुप्रीतासो ज꣡निमा विव꣡स्वतः  
+यया꣡तेर् ये꣡ नहुषि꣡यस्य बर्हि꣡षि  
+देवा꣡ आ꣡सते ते꣡ अ꣡धि ब्रुवन्तु नः  

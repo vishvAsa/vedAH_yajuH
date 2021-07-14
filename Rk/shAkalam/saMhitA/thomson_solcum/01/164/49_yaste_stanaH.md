@@ -2,7 +2,7 @@
 title = "049"
 
 +++
-yás te stánaḥ śaśayó yó mayobhū́r  
-yéna víśvā púṣyasi vā́riyāṇi  
-yó ratnadhā́ vasuvíd yáḥ sudátraḥ  
-sárasvati tám ihá dhā́tave kaḥ  
+य꣡स् ते स्त꣡नः शशयो꣡ यो꣡ मयोभू꣡र्  
+ये꣡न वि꣡श्वा पु꣡ष्यसि वा꣡रियाणि  
+यो꣡ रत्नधा꣡ वसुवि꣡द् यः꣡ सुद꣡त्रः  
+स꣡रस्वति त꣡म् इह꣡ धा꣡तवे कः  

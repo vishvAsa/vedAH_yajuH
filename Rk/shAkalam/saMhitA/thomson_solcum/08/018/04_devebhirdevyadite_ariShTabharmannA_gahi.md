@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-devébhir devi adite  
-áriṣṭabharman ā́ gahi  
-smát sūríbhiḥ purupriye suśármabhiḥ  
+देवे꣡भिर् देवि अदिते  
+अ꣡रिष्टभर्मन् आ꣡ गहि  
+स्म꣡त् सूरि꣡भिः पुरुप्रिये सुश꣡र्मभिः  

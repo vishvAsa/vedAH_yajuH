@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-abhí yó mahinā́ dívam  
-mitró babhū́va sapráthāḥ  
-abhí śrávobhiḥ pr̥thivī́m  
+अभि꣡ यो꣡ महिना꣡ दि꣡वम्  
+मित्रो꣡ बभू꣡व सप्र꣡थाः  
+अभि꣡ श्र꣡वोभिः पृथिवी꣡म्  

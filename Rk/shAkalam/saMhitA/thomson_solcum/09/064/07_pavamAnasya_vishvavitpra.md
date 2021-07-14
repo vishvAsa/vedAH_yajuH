@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-pávamānasya viśvavit  
-prá te sárgā asr̥kṣata  
-sū́ryasyeva ná raśmáyaḥ  
+प꣡वमानस्य विश्ववित्  
+प्र꣡ ते स꣡र्गा असृक्षत  
+सू꣡र्यस्येव न꣡ रश्म꣡यः  

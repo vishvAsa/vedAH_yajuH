@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sūryācandramásau dhātā́  
-yathāpūrvám akalpayat  
-dívaṃ ca pr̥thivī́ṃ ca  
-antárikṣam átho súvaḥ  
+सूर्याचन्द्रम꣡सौ धाता꣡  
+यथापूर्व꣡म् अकल्पयत्  
+दि꣡वं च पृथिवीं꣡ च  
+अन्त꣡रिक्षम् अ꣡थो सु꣡वः  

@@ -2,6 +2,6 @@
 title = "017"
 
 +++
-uśánā kāviyás tuvā  
-ní hótāram asādayat  
-āyajíṃ tvā mánave jātávedasam  
+उश꣡ना काविय꣡स् तुवा  
+नि꣡ हो꣡तारम् असादयत्  
+आयजिं꣡ त्वा म꣡नवे जात꣡वेदसम्  

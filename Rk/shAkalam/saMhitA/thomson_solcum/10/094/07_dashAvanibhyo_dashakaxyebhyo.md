@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-dáśāvanibhyo dáśakakṣiyebhiyo  
-dáśayoktrebhyo dáśayojanebhiyaḥ  
-dáśābhīśubhyo arcatājárebhiyo  
-dáśa dhúro dáśa yuktā́ váhadbhiyaḥ  
+द꣡शावनिभ्यो द꣡शकक्षियेभियो  
+द꣡शयोक्त्रेभ्यो द꣡शयोजनेभियः  
+द꣡शाभीशुभ्यो अर्चताज꣡रेभियो  
+द꣡श धु꣡रो द꣡श युक्ता꣡ व꣡हद्भियः  

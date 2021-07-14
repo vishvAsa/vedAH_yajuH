@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-daśānā́m ékaṃ kapiláṃ samānáṃ  
-táṃ hinvanti krátave pā́riyāya  
-gárbham mātā́ súdhitaṃ vakṣáṇāsu  
-ávenantaṃ tuṣáyantī bibharti  
+दशाना꣡म् ए꣡कं कपिलं꣡ समानं꣡  
+तं꣡ हिन्वन्ति क्र꣡तवे पा꣡रियाय  
+ग꣡र्भम् माता꣡ सु꣡धितं वक्ष꣡णासु  
+अ꣡वेनन्तं तुष꣡यन्ती बिभर्ति  

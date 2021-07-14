@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yám u pū́rvam áhuve tám idáṃ huve  
-séd u hávyo dadír yó nā́ma pátyate  
-adhvaryúbhiḥ prásthitaṃ somiyám mádhu  
-potrā́t sómaṃ draviṇodaḥ píba rtúbhiḥ  
+य꣡म् उ पू꣡र्वम् अ꣡हुवे त꣡म् इदं꣡ हुवे  
+से꣡द् उ ह꣡व्यो ददि꣡र् यो꣡ ना꣡म प꣡त्यते  
+अध्वर्यु꣡भिः प्र꣡स्थितं सोमिय꣡म् म꣡धु  
+पोत्रा꣡त् सो꣡मं द्रविणोदः पि꣡ब र्तु꣡भिः  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-táṃ tvā vayám pátim agne rayīṇā́m  
-prá śaṃsāmo matíbhir gótamāsaḥ  
-āśúṃ ná vājambharám marjáyantaḥ  
-prātár makṣū́ dhiyā́vasur jagamyāt  
+तं꣡ त्वा वय꣡म् प꣡तिम् अग्ने रयीणा꣡म्  
+प्र꣡ शंसामो मति꣡भिर् गो꣡तमासः  
+आशुं꣡ न꣡ वाजम्भर꣡म् मर्ज꣡यन्तः  
+प्रात꣡र् मक्षू꣡ धिया꣡वसुर् जगम्यात्  

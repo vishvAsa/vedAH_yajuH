@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tám óṣadhīr dadhire gárbham r̥tvíyaṃ  
-tám ā́po agníṃ janayanta mātáraḥ  
-tám ít samānáṃ vanínaś ca vīrúdho  
-antárvatīś ca súvate ca viśváhā  
+त꣡म् ओ꣡षधीर् दधिरे ग꣡र्भम् ऋत्वि꣡यं  
+त꣡म् आ꣡पो अग्निं꣡ जनयन्त मात꣡रः  
+त꣡म् इ꣡त् समानं꣡ वनि꣡नश् च वीरु꣡धो  
+अन्त꣡र्वतीश् च सु꣡वते च विश्व꣡हा  

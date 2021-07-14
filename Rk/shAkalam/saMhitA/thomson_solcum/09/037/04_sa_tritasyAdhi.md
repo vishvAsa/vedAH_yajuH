@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-sá tritásyā́dhi sā́navi  
-pávamāno arocayat  
-jāmíbhiḥ sū́riyaṃ sahá  
+स꣡ त्रित꣡स्या꣡धि सा꣡नवि  
+प꣡वमानो अरोचयत्  
+जामि꣡भिः सू꣡रियं सह꣡  

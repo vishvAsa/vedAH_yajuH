@@ -2,10 +2,10 @@
 title = "005"
 
 +++
-ā́d ít te asyá vīríyasya carkiran  
-mádeṣu vr̥ṣann uśíjo yád ā́vitha  
-sakhīyató yád ā́vitha  
-cakártha kārám ebhiyaḥ  
-pŕ̥tanāsu právantave  
-té anyā́m-anyāṃ nadíyaṃ saniṣṇata  
-śravasyántaḥ saniṣṇata  
+आ꣡द् इ꣡त् ते अस्य꣡ वीरि꣡यस्य चर्किरन्  
+म꣡देषु वृषन्न् उशि꣡जो य꣡द् आ꣡विथ  
+सखीयतो꣡ य꣡द् आ꣡विथ  
+चक꣡र्थ कार꣡म् एभियः  
+प्ŕ̥तनासु प्र꣡वन्तवे  
+ते꣡ अन्या꣡म्-अन्यां नदि꣡यं सनिष्णत  
+श्रवस्य꣡न्तः सनिष्णत  

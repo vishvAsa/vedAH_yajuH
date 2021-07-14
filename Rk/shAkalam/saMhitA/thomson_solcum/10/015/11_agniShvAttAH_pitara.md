@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ágniṣvāttāḥ pitara éhá gachata  
-sádaḥ-sadaḥ sadata supraṇītayaḥ  
-attā́ havī́ṃṣi práyatāni barhíṣi  
-áthā rayíṃ sárvavīraṃ dadhātana  
+अ꣡ग्निष्वात्ताः पितर ए꣡ह꣡ गछत  
+स꣡दः-सदः सदत सुप्रणीतयः  
+अत्ता꣡ हवीं꣡षि प्र꣡यतानि बर्हि꣡षि  
+अ꣡था रयिं꣡ स꣡र्ववीरं दधातन  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-abhī́ navante adrúhaḥ  
-priyám índrasya kā́miyam  
-vatsáṃ ná pū́rva ā́yuni  
-jātáṃ rihanti mātáraḥ  
+अभी꣡ नवन्ते अद्रु꣡हः  
+प्रिय꣡म् इ꣡न्द्रस्य का꣡मियम्  
+वत्सं꣡ न꣡ पू꣡र्व आ꣡युनि  
+जातं꣡ रिहन्ति मात꣡रः  

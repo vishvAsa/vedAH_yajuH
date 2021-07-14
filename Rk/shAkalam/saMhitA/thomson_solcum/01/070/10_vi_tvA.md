@@ -2,5 +2,5 @@
 title = "010"
 
 +++
-ví tvā náraḥ purutrā́ saparyan  
-pitúr ná jívrer ví védo bharanta  
+वि꣡ त्वा न꣡रः पुरुत्रा꣡ सपर्यन्  
+पितु꣡र् न꣡ जि꣡व्रेर् वि꣡ वे꣡दो भरन्त  

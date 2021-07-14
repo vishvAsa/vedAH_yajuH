@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-prá yā́ḥ sísrate sū́riyasya raśmíbhir  
-jyótir bhárantīr uṣáso víuṣṭiṣu  
-bhadrā́ no adyá śrávase ví uchata  
-suastí agníṃ samidhānám īmahe  
+प्र꣡ याः꣡ सि꣡स्रते सू꣡रियस्य रश्मि꣡भिर्  
+ज्यो꣡तिर् भ꣡रन्तीर् उष꣡सो वि꣡उष्टिषु  
+भद्रा꣡ नो अद्य꣡ श्र꣡वसे वि꣡ उछत  
+सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे  

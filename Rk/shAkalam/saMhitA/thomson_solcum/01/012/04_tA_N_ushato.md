@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-tā́m̐ uśató ví bodhaya  
-yád agne yā́si dūtíyam  
-devaír ā́ satsi barhíṣi  
+ताँ꣡ उशतो꣡ वि꣡ बोधय  
+य꣡द् अग्ने या꣡सि दूति꣡यम्  
+देवइ꣡र् आ꣡ सत्सि बर्हि꣡षि  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-viśó-viśo vo átithiṃ  
-vājayántaḥ purupriyám  
-agníṃ vo dúriyaṃ váca  
-stuṣé śūṣásya mánmabhiḥ  
+विशो꣡-विशो वो अ꣡तिथिं  
+वाजय꣡न्तः पुरुप्रिय꣡म्  
+अग्निं꣡ वो दु꣡रियं व꣡च  
+स्तुषे꣡ शूष꣡स्य म꣡न्मभिः  

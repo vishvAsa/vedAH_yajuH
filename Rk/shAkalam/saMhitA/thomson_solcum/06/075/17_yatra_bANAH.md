@@ -2,8 +2,8 @@
 title = "017"
 
 +++
-yátra bāṇā́ḥ sampátanti  
-kumārā́ viśikhā́ iva  
-tátrā no bráhmaṇas pátir  
-áditiḥ śárma yachatu  
-viśvā́hā śárma yachatu  
+य꣡त्र बाणाः꣡ सम्प꣡तन्ति  
+कुमारा꣡ विशिखा꣡ इव  
+त꣡त्रा नो ब्र꣡ह्मणस् प꣡तिर्  
+अ꣡दितिः श꣡र्म यछतु  
+विश्वा꣡हा श꣡र्म यछतु  

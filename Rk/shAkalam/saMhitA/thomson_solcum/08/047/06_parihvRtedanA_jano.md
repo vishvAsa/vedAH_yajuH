@@ -2,9 +2,9 @@
 title = "006"
 
 +++
-parihvr̥téd anā́ jáno  
-yuṣmā́dattasya vāyati  
-dévā ádabhram āśa vo  
-yám ādityā áhetana  
-aneháso va ūtáyaḥ  
-suūtáyo va ūtáyaḥ  
+परिह्वृते꣡द् अना꣡ ज꣡नो  
+युष्मा꣡दत्तस्य वायति  
+दे꣡वा अ꣡दभ्रम् आश वो  
+य꣡म् आदित्या अ꣡हेतन  
+अनेह꣡सो व ऊत꣡यः  
+सुऊत꣡यो व ऊत꣡यः  

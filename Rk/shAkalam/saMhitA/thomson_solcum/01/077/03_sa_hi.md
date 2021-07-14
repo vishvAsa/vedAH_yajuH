@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-sá hí krátuḥ sá máriyaḥ sá sādhúr  
-mitró ná bhūd · ádbhutasya rathī́ḥ  
-tám médheṣu prathamáṃ devayántīr  
-víśa úpa bruvate dasmám ā́rīḥ  
+स꣡ हि꣡ क्र꣡तुः स꣡ म꣡रियः स꣡ साधु꣡र्  
+मित्रो꣡ न꣡ भूद् · अ꣡द्भुतस्य रथीः꣡  
+त꣡म् मे꣡धेषु प्रथमं꣡ देवय꣡न्तीर्  
+वि꣡श उ꣡प ब्रुवते दस्म꣡म् आ꣡रीः  

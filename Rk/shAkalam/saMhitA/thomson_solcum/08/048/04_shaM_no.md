@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-śáṃ no bhava hr̥dá ā́ pītá indo  
-pitéva soma sūnáve suśévaḥ  
-sákheva sákhya uruśaṃsa dhī́raḥ  
-prá ṇa ā́yur jīváse soma tārīḥ  
+शं꣡ नो भव हृद꣡ आ꣡ पीत꣡ इन्दो  
+पिते꣡व सोम सून꣡वे सुशे꣡वः  
+स꣡खेव स꣡ख्य उरुशंस धी꣡रः  
+प्र꣡ ण आ꣡युर् जीव꣡से सोम तारीः  

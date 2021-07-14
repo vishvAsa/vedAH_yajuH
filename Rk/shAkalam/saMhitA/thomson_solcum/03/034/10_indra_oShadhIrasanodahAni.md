@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-índra óṣadhīr asanod áhāni  
-vánaspátīm̐r asanod antárikṣam  
-bibhéda valáṃ nunudé vívāco  
-áthābhavad damitā́bhíkratūnām  
+इ꣡न्द्र ओ꣡षधीर् असनोद् अ꣡हानि  
+व꣡नस्प꣡तीँर् असनोद् अन्त꣡रिक्षम्  
+बिभे꣡द वलं꣡ नुनुदे꣡ वि꣡वाचो  
+अ꣡थाभवद् दमिता꣡भि꣡क्रतूनाम्  

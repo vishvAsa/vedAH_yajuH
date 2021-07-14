@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-mā́ no agne avī́rate párā dā  
-durvā́sasé 'mataye mā́ no asyaí  
-mā́ naḥ kṣudhé mā́ rakṣása r̥tāvo  
-mā́ no dáme mā́ vána ā́ juhūrthāḥ  
+मा꣡ नो अग्ने अवी꣡रते प꣡रा दा  
+दुर्वा꣡ससे꣡ ऽमतये मा꣡ नो अस्यइ꣡  
+मा꣡ नः क्षुधे꣡ मा꣡ रक्ष꣡स ऋतावो  
+मा꣡ नो द꣡मे मा꣡ व꣡न आ꣡ जुहूर्थाः  

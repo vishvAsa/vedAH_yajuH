@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-pū́rvā víśvasmād bhúvanād abodhi  
-jáyantī vā́jam br̥hatī́ sánutrī  
-uccā́ ví akhyad yuvatíḥ punarbhū́r  
-óṣā́ agan prathamā́ pūrváhūtau  
+पू꣡र्वा वि꣡श्वस्माद् भु꣡वनाद् अबोधि  
+ज꣡यन्ती वा꣡जम् बृहती꣡ स꣡नुत्री  
+उच्चा꣡ वि꣡ अख्यद् युवतिः꣡ पुनर्भू꣡र्  
+ओ꣡षा꣡ अगन् प्रथमा꣡ पूर्व꣡हूतौ  

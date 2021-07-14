@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-índra marutva ihá pāhi sómaṃ  
-yáthā śāryāté ápibaḥ sutásya  
-táva práṇītī táva śūra śármann  
-ā́ vivāsanti kaváyaḥ suyajñā́ḥ  
+इ꣡न्द्र मरुत्व इह꣡ पाहि सो꣡मं  
+य꣡था शार्याते꣡ अ꣡पिबः सुत꣡स्य  
+त꣡व प्र꣡णीती त꣡व शूर श꣡र्मन्न्  
+आ꣡ विवासन्ति कव꣡यः सुयज्ञाः꣡  

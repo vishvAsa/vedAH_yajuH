@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-té te deva nayitar+  
-yé ca imā́m̐ anuśáse  
-té rāyā́ té hí āpŕ̥ce  
-sácemahi sacathíyaiḥ  
+ते꣡ ते देव नयितर्+  
+ये꣡ च इमाँ꣡ अनुश꣡से  
+ते꣡ राया꣡ ते꣡ हि꣡ आप्ŕ̥चे  
+स꣡चेमहि सचथि꣡यैः  

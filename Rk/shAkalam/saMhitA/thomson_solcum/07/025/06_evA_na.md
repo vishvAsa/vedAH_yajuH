@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-evā́ na indra vā́riyasya pūrdhi  
-prá te mahī́ṃ sumatíṃ vevidāma  
-íṣam pinva maghávadbhyaḥ suvī́rāṃ  
-yūyám pāta suastíbhiḥ sádā naḥ  
+एवा꣡ न इन्द्र वा꣡रियस्य पूर्धि  
+प्र꣡ ते महीं꣡ सुमतिं꣡ वेविदाम  
+इ꣡षम् पिन्व मघ꣡वद्भ्यः सुवी꣡रां  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

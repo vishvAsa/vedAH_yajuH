@@ -2,6 +2,6 @@
 title = "023"
 
 +++
-sū́ryo raśmíṃ yáthā sr̥ja  
-ā́ tvā yachantu me gíraḥ  
-nimnám ā́po ná sadhríak  
+सू꣡र्यो रश्मिं꣡ य꣡था सृज  
+आ꣡ त्वा यछन्तु मे गि꣡रः  
+निम्न꣡म् आ꣡पो न꣡ सध्रि꣡अक्  

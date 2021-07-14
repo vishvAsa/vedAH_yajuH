@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-vádhīṃ vr̥trám maruta indriyéṇa  
-svéna bhā́mena taviṣó babhūvā́n  
-ahám etā́ mánave viśváścandrāḥ  
-sugā́ apáś cakara vájrabāhuḥ  
+व꣡धीं वृत्र꣡म् मरुत इन्द्रिये꣡ण  
+स्वे꣡न भा꣡मेन तविषो꣡ बभूवा꣡न्  
+अह꣡म् एता꣡ म꣡नवे विश्व꣡श्चन्द्राः  
+सुगा꣡ अप꣡श् चकर व꣡ज्रबाहुः  

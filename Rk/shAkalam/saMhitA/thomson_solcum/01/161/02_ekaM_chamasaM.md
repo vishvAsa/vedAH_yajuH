@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ékaṃ camasáṃ catúraḥ kr̥ṇotana  
-tád vo devā́ abruvan tád va ā́gamam  
-saúdhanvanā yádi evā́ kariṣyátha  
-sākáṃ devaír yajñíyāso bhaviṣyatha  
+ए꣡कं चमसं꣡ चतु꣡रः कृणोतन  
+त꣡द् वो देवा꣡ अब्रुवन् त꣡द् व आ꣡गमम्  
+सउ꣡धन्वना य꣡दि एवा꣡ करिष्य꣡थ  
+साकं꣡ देवइ꣡र् यज्ञि꣡यासो भविष्यथ  

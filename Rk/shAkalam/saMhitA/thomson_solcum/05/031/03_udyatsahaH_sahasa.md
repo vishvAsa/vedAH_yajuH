@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-úd yát sáhaḥ sáhasa ā́janiṣṭa  
-dédiṣṭa índra indriyā́ṇi víśvā  
-prā́codayat sudúghā vavré antár  
-ví jyótiṣā saṃvavr̥tvát támo 'vaḥ  
+उ꣡द् य꣡त् स꣡हः स꣡हस आ꣡जनिष्ट  
+दे꣡दिष्ट इ꣡न्द्र इन्द्रिया꣡णि वि꣡श्वा  
+प्रा꣡चोदयत् सुदु꣡घा वव्रे꣡ अन्त꣡र्  
+वि꣡ ज्यो꣡तिषा संववृत्व꣡त् त꣡मो ऽवः  

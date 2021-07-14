@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-té no vásūni kā́miyā  
-puruścandrā́ riśādasaḥ  
-ā́ yajñiyāso vavr̥ttana  
+ते꣡ नो व꣡सूनि का꣡मिया  
+पुरुश्चन्द्रा꣡ रिशादसः  
+आ꣡ यज्ञियासो ववृत्तन  

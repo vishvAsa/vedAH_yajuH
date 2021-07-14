@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-yás túbhyam agne amŕ̥tāya mártiyaḥ  
-samídhā dā́śad utá vā havíṣkr̥ti  
-tásya hótā bhavasi yā́si dūtíyam  
-úpa brūṣe yájasi adhvarīyási  
+य꣡स् तु꣡भ्यम् अग्ने अम्ŕ̥ताय म꣡र्तियः  
+समि꣡धा दा꣡शद् उत꣡ वा हवि꣡ष्कृति  
+त꣡स्य हो꣡ता भवसि या꣡सि दूति꣡यम्  
+उ꣡प ब्रूषे य꣡जसि अध्वरीय꣡सि  

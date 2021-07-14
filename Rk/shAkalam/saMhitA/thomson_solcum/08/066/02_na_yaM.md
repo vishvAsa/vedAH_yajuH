@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ná yáṃ dudhrā́ várante ná sthirā́ múro  
-máde suśiprám ándhasaḥ  
-yá ādŕ̥tyā śaśamānā́ya sunvaté  
-dā́tā jaritrá ukthíyam  
+न꣡ यं꣡ दुध्रा꣡ व꣡रन्ते न꣡ स्थिरा꣡ मु꣡रो  
+म꣡दे सुशिप्र꣡म् अ꣡न्धसः  
+य꣡ आद्ŕ̥त्या शशमाना꣡य सुन्वते꣡  
+दा꣡ता जरित्र꣡ उक्थि꣡यम्  

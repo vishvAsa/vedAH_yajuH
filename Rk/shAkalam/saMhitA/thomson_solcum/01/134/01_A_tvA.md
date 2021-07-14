@@ -2,10 +2,10 @@
 title = "001"
 
 +++
-ā́ tvā júvo rārahāṇā́ abhí práyo  
-vā́yo váhantu ihá pūrvápītaye  
-sómasya pūrvápītaye  
-ūrdhvā́ te ánu sūnŕ̥tā  
-mánas tiṣṭhatu jānatī́  
-niyútvatā ráthenā́ yāhi dāváne  
-vā́yo makhásya dāváne  
+आ꣡ त्वा जु꣡वो रारहाणा꣡ अभि꣡ प्र꣡यो  
+वा꣡यो व꣡हन्तु इह꣡ पूर्व꣡पीतये  
+सो꣡मस्य पूर्व꣡पीतये  
+ऊर्ध्वा꣡ ते अ꣡नु सून्ŕ̥ता  
+म꣡नस् तिष्ठतु जानती꣡  
+नियु꣡त्वता र꣡थेना꣡ याहि दाव꣡ने  
+वा꣡यो मख꣡स्य दाव꣡ने  

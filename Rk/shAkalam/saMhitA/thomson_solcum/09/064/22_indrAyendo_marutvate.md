@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-índrāyendo marútvate  
-pávasva mádhumattamaḥ  
-r̥tásya yónim āsádam  
+इ꣡न्द्रायेन्दो मरु꣡त्वते  
+प꣡वस्व म꣡धुमत्तमः  
+ऋत꣡स्य यो꣡निम् आस꣡दम्  

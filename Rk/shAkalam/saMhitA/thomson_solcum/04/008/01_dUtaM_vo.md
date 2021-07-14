@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-dūtáṃ vo viśvávedasaṃ  
-havyavā́ham ámartiyam  
-yájiṣṭham r̥ñjase girā́  
+दूतं꣡ वो विश्व꣡वेदसं  
+हव्यवा꣡हम् अ꣡मर्तियम्  
+य꣡जिष्ठम् ऋञ्जसे गिरा꣡  

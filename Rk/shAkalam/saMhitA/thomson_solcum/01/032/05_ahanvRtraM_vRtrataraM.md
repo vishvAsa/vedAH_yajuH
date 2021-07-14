@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-áhan vr̥tráṃ vr̥tratáraṃ víaṃsam  
-índro vájreṇa mahatā́ vadhéna  
-skándhāṃsīva kúliśenā vívr̥kṇā  
-áhiḥ śayata upapŕ̥k pr̥thivyā́ḥ  
+अ꣡हन् वृत्रं꣡ वृत्रत꣡रं वि꣡अंसम्  
+इ꣡न्द्रो व꣡ज्रेण महता꣡ वधे꣡न  
+स्क꣡न्धांसीव कु꣡लिशेना वि꣡वृक्णा  
+अ꣡हिः शयत उपप्ŕ̥क् पृथिव्याः꣡  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-agástiyaḥ khánamānaḥ khanítraiḥ  
-prajā́m ápatyam bálam ichámānaḥ  
-ubhaú várṇāv ŕ̥ṣir ugráḥ pupoṣa  
-satyā́ devéṣu āśíṣo jagāma  
+अग꣡स्तियः ख꣡नमानः खनि꣡त्रैः  
+प्रजा꣡म् अ꣡पत्यम् ब꣡लम् इछ꣡मानः  
+उभउ꣡ व꣡र्णाव् ŕ̥षिर् उग्रः꣡ पुपोष  
+सत्या꣡ देवे꣡षु आशि꣡षो जगाम  

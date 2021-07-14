@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-sá me vápuś chadayad aśvínor yó  
-rátho virúkmān mánasā yujānáḥ  
-yéna narā nāsatiyeṣayádhyai  
-vartír yāthás tánayāya tmáne ca  
+स꣡ मे व꣡पुश् छदयद् अश्वि꣡नोर् यो꣡  
+र꣡थो विरु꣡क्मान् म꣡नसा युजानः꣡  
+ये꣡न नरा नासतियेषय꣡ध्यै  
+वर्ति꣡र् याथ꣡स् त꣡नयाय त्म꣡ने च  

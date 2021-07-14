@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-ní aghniyásya mūrdháni  
-cakráṃ ráthasya yemathuḥ  
-pári dyā́m anyád īyate  
+नि꣡ अघ्निय꣡स्य मूर्ध꣡नि  
+चक्रं꣡ र꣡थस्य येमथुः  
+प꣡रि द्या꣡म् अन्य꣡द् ईयते  

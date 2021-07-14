@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ákravihastā sukŕ̥te paraspā́  
-yáṃ trā́sāthe varuṇéḷāsu antáḥ  
-rā́jānā kṣatrám áhr̥ṇīyamānā  
-sahásrasthūṇam bibhr̥thaḥ sahá dvaú  
+अ꣡क्रविहस्ता सुक्ŕ̥ते परस्पा꣡  
+यं꣡ त्रा꣡साथे वरुणे꣡ऌआसु अन्तः꣡  
+रा꣡जाना क्षत्र꣡म् अ꣡हृणीयमाना  
+सह꣡स्रस्थूणम् बिभृथः सह꣡ द्वउ꣡  

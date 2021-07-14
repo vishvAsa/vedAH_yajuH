@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-mádhva ū ṣú madhūyuvā  
-rúdrā síṣakti pipyúṣī  
-yát samudrā́ti párṣathaḥ  
-pakvā́ḥ pŕ̥kṣo bharanta vām  
+म꣡ध्व ऊ षु꣡ मधूयुवा  
+रु꣡द्रा सि꣡षक्ति पिप्यु꣡षी  
+य꣡त् समुद्रा꣡ति प꣡र्षथः  
+पक्वाः꣡ प्ŕ̥क्षो भरन्त वाम्  

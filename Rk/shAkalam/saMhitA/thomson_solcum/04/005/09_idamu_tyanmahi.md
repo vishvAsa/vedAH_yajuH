@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-idám u tyán máhi mahā́m ánīkaṃ  
-yád usríyā sácata pūrviyáṃ gaúḥ  
-r̥tásya padé ádhi dī́diyānaṃ  
-gúhā raghuṣyád raghuyád viveda  
+इद꣡म् उ त्य꣡न् म꣡हि महा꣡म् अ꣡नीकं  
+य꣡द् उस्रि꣡या स꣡चत पूर्वियं꣡ गउः꣡  
+ऋत꣡स्य पदे꣡ अ꣡धि दी꣡दियानं  
+गु꣡हा रघुष्य꣡द् रघुय꣡द् विवेद  

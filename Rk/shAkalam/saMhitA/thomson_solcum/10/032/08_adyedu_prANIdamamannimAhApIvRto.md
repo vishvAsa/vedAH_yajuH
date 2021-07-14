@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-adyéd u prā́ṇīd ámamann imā́hā  
-ápīvr̥to adhayan mātúr ū́dhaḥ  
-ém enam āpa jarimā́ yúvānam  
-áheḷan vásuḥ sumánā babhūva  
+अद्ये꣡द् उ प्रा꣡णीद् अ꣡ममन्न् इमा꣡हा  
+अ꣡पीवृतो अधयन् मातु꣡र् ऊ꣡धः  
+ए꣡म् एनम् आप जरिमा꣡ यु꣡वानम्  
+अ꣡हेऌअन् व꣡सुः सुम꣡ना बभूव  

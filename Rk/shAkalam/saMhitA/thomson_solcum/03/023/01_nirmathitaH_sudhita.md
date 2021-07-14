@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-nírmathitaḥ súdhita ā́ sadhásthe  
-yúvā kavír adhvarásya praṇetā́  
-jū́ryatsu agnír ajáro váneṣu  
-átrā dadhe amŕ̥taṃ jātávedāḥ  
+नि꣡र्मथितः सु꣡धित आ꣡ सध꣡स्थे  
+यु꣡वा कवि꣡र् अध्वर꣡स्य प्रणेता꣡  
+जू꣡र्यत्सु अग्नि꣡र् अज꣡रो व꣡नेषु  
+अ꣡त्रा दधे अम्ŕ̥तं जात꣡वेदाः  

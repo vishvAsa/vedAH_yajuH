@@ -2,7 +2,7 @@
 title = "027"
 
 +++
-ihá priyám prajáyā te sám r̥dhyatām  
-asmín gr̥hé gā́rhapatyāya jāgr̥hi  
-enā́ pátyā tanúvaṃ sáṃ sr̥jasva  
-ádhā jívrī vidátham ā́ vadāthaḥ  
+इह꣡ प्रिय꣡म् प्रज꣡या ते स꣡म् ऋध्यताम्  
+अस्मि꣡न् गृहे꣡ गा꣡र्हपत्याय जागृहि  
+एना꣡ प꣡त्या तनु꣡वं सं꣡ सृजस्व  
+अ꣡धा जि꣡व्री विद꣡थम् आ꣡ वदाथः  

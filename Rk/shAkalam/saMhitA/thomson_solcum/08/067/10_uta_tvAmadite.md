@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-utá tvā́m adite mahi  
-aháṃ devi úpa bruve  
-sumr̥̄ḷīkā́m+ abhíṣṭaye  
+उत꣡ त्वा꣡म् अदिते महि  
+अहं꣡ देवि उ꣡प ब्रुवे  
+सुमॄऌईका꣡म्+ अभि꣡ष्टये  

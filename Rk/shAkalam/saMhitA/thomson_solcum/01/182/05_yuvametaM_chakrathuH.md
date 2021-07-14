@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yuvám etáṃ cakrathuḥ síndhuṣu plavám  
-ātmanvántam pakṣíṇaṃ taugriyā́ya kám  
-yéna devatrā́ mánasā nirūháthuḥ  
-supaptanī́ petathuḥ kṣódaso maháḥ  
+युव꣡म् एतं꣡ चक्रथुः सि꣡न्धुषु प्लव꣡म्  
+आत्मन्व꣡न्तम् पक्षि꣡णं तौग्रिया꣡य क꣡म्  
+ये꣡न देवत्रा꣡ म꣡नसा निरूह꣡थुः  
+सुपप्तनी꣡ पेतथुः क्षो꣡दसो महः꣡  

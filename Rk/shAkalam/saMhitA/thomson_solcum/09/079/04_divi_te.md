@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-diví te nā́bhā paramó yá ādadé  
-pr̥thivyā́s te ruruhuḥ sā́navi kṣípaḥ  
-ádrayas tvā bapsati gór ádhi tvací  
-apsú tvā hástair duduhur manīṣíṇaḥ  
+दिवि꣡ ते ना꣡भा परमो꣡ य꣡ आददे꣡  
+पृथिव्या꣡स् ते रुरुहुः सा꣡नवि क्षि꣡पः  
+अ꣡द्रयस् त्वा बप्सति गो꣡र् अ꣡धि त्वचि꣡  
+अप्सु꣡ त्वा ह꣡स्तैर् दुदुहुर् मनीषि꣡णः  

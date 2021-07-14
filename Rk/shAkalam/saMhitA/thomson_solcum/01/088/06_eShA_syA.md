@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-eṣā́ syā́ vo maruto anubhartrī́  
-práti ṣṭobhati vāgháto ná vā́ṇī  
-ástobhayad vŕ̥thā āsām  
-ánu svadhā́ṃ gábhastiyoḥ  
+एषा꣡ स्या꣡ वो मरुतो अनुभर्त्री꣡  
+प्र꣡ति ष्टोभति वाघ꣡तो न꣡ वा꣡णी  
+अ꣡स्तोभयद् व्ŕ̥था आसाम्  
+अ꣡नु स्वधां꣡ ग꣡भस्तियोः  

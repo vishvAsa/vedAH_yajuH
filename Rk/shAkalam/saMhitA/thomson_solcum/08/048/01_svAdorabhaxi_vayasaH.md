@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-svādór abhakṣi váyasaḥ sumedhā́ḥ  
-suādhíyo varivovíttarasya  
-víśve yáṃ devā́ utá mártiyāso  
-mádhu bruvánto abhí saṃcáranti  
+स्वादो꣡र् अभक्षि व꣡यसः सुमेधाः꣡  
+सुआधि꣡यो वरिवोवि꣡त्तरस्य  
+वि꣡श्वे यं꣡ देवा꣡ उत꣡ म꣡र्तियासो  
+म꣡धु ब्रुव꣡न्तो अभि꣡ संच꣡रन्ति  

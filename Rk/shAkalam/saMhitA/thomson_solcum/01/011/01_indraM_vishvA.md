@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-índraṃ víśvā avīvr̥dhan  
-samudrávyacasaṃ gíraḥ  
-rathī́tamaṃ rathī́nãṃ  
-vā́jānāṃ sátpatim pátim  
+इ꣡न्द्रं वि꣡श्वा अवीवृधन्  
+समुद्र꣡व्यचसं गि꣡रः  
+रथी꣡तमं रथी꣡न्ãं  
+वा꣡जानां स꣡त्पतिम् प꣡तिम्  

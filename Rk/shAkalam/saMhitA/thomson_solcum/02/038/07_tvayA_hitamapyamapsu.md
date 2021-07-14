@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tváyā hitám ápiyam apsú bhāgáṃ  
-dhánvā́nu ā́ mr̥gayáso ví tasthuḥ  
-vánāni víbhyo nákir asya tā́ni  
-vratā́ devásya savitúr minanti  
+त्व꣡या हित꣡म् अ꣡पियम् अप्सु꣡ भागं꣡  
+ध꣡न्वा꣡नु आ꣡ मृगय꣡सो वि꣡ तस्थुः  
+व꣡नानि वि꣡भ्यो न꣡किर् अस्य ता꣡नि  
+व्रता꣡ देव꣡स्य सवितु꣡र् मिनन्ति  

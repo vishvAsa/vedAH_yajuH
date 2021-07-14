@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-samānám asmā ánapāvr̥d arca  
-kṣmayā́ divó ásamam bráhma návyam  
-ví yáḥ pr̥ṣṭhéva jánimāni aryá  
-índraś cikā́ya ná sákhāyam īṣé  
+समान꣡म् अस्मा अ꣡नपावृद् अर्च  
+क्ष्मया꣡ दिवो꣡ अ꣡समम् ब्र꣡ह्म न꣡व्यम्  
+वि꣡ यः꣡ पृष्ठे꣡व ज꣡निमानि अर्य꣡  
+इ꣡न्द्रश् चिका꣡य न꣡ स꣡खायम् ईषे꣡  

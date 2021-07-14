@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ná tám áṃho ná duritáṃ kútaś caná  
-nā́rātayas titirur ná dvayāvínaḥ  
-víśvā íd asmād dhvaráso ví bādhase  
-yáṃ sugopā́ rákṣasi brahmaṇas pate  
+न꣡ त꣡म् अं꣡हो न꣡ दुरितं꣡ कु꣡तश् चन꣡  
+ना꣡रातयस् तितिरुर् न꣡ द्वयावि꣡नः  
+वि꣡श्वा इ꣡द् अस्माद् ध्वर꣡सो वि꣡ बाधसे  
+यं꣡ सुगोपा꣡ र꣡क्षसि ब्रह्मणस् पते  

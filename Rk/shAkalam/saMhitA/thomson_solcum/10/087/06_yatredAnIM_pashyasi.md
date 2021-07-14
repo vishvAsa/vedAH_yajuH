@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yátredā́nīm páśyasi jātavedas  
-tíṣṭhantam agna utá vā cárantam  
-yád vāntárikṣe pathíbhiḥ pátantaṃ  
-tám ástā vidhya śáruvā śíśānaḥ  
+य꣡त्रेदा꣡नीम् प꣡श्यसि जातवेदस्  
+ति꣡ष्ठन्तम् अग्न उत꣡ वा च꣡रन्तम्  
+य꣡द् वान्त꣡रिक्षे पथि꣡भिः प꣡तन्तं  
+त꣡म् अ꣡स्ता विध्य श꣡रुवा शि꣡शानः  

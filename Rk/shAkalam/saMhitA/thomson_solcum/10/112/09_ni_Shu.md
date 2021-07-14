@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ní ṣú sīda gaṇapate gaṇéṣu  
-tuvā́m āhur vípratamaṃ kavīnā́m  
-ná r̥té tvát kriyate kíṃ canā́ré  
-mahā́m arkám maghavañ citrám arca  
+नि꣡ षु꣡ सीद गणपते गणे꣡षु  
+तुवा꣡म् आहुर् वि꣡प्रतमं कवीना꣡म्  
+न꣡ ऋते꣡ त्व꣡त् क्रियते किं꣡ चना꣡रे꣡  
+महा꣡म् अर्क꣡म् मघवञ् चित्र꣡म् अर्च  

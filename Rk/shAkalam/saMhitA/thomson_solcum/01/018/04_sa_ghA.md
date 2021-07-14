@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-sá ghā vīró ná riṣyati  
-yám índro bráhmaṇas pátiḥ  
-sómo hinóti mártiyam  
+स꣡ घा वीरो꣡ न꣡ रिष्यति  
+य꣡म् इ꣡न्द्रो ब्र꣡ह्मणस् प꣡तिः  
+सो꣡मो हिनो꣡ति म꣡र्तियम्  

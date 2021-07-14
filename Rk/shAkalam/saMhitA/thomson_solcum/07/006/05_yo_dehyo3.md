@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yó dehíyo ánamayad vadhasnaír  
-yó aryápatnīr uṣásaś cakā́ra  
-sá nirúdhyā náhuṣo yahvó agnír  
-víśaś cakre balihŕ̥taḥ sáhobhiḥ  
+यो꣡ देहि꣡यो अ꣡नमयद् वधस्नइ꣡र्  
+यो꣡ अर्य꣡पत्नीर् उष꣡सश् चका꣡र  
+स꣡ निरु꣡ध्या न꣡हुषो यह्वो꣡ अग्नि꣡र्  
+वि꣡शश् चक्रे बलिह्ŕ̥तः स꣡होभिः  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ayám agne jaritā́ tvé abhūd ápi  
-sáhasaḥ sūno nahí anyád ásti ā́piyam  
-bhadráṃ hí śárma trivárūtham ásti ta  
-āré híṃsānām ápa didyúm ā́ kr̥dhi  
+अय꣡म् अग्ने जरिता꣡ त्वे꣡ अभूद् अ꣡पि  
+स꣡हसः सूनो नहि꣡ अन्य꣡द् अ꣡स्ति आ꣡पियम्  
+भद्रं꣡ हि꣡ श꣡र्म त्रिव꣡रूथम् अ꣡स्ति त  
+आरे꣡ हिं꣡सानाम् अ꣡प दिद्यु꣡म् आ꣡ कृधि  

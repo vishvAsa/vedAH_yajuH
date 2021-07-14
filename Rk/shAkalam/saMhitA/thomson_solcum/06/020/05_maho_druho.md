@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mahó druhó ápa viśvā́yu dhāyi  
-vájrasya yát pátane pā́di śúṣṇaḥ  
-urú ṣá saráthaṃ sā́rathaye kar  
-índraḥ kútsāya sū́riyasya sātaú  
+महो꣡ द्रुहो꣡ अ꣡प विश्वा꣡यु धायि  
+व꣡ज्रस्य य꣡त् प꣡तने पा꣡दि शु꣡ष्णः  
+उरु꣡ ष꣡ सर꣡थं सा꣡रथये कर्  
+इ꣡न्द्रः कु꣡त्साय सू꣡रियस्य सातउ꣡  

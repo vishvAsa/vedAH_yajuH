@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yás te yajñéna samídhā yá ukthaír  
-arkébhiḥ sūno sahaso dádāśat  
-sá mártiyeṣu amr̥ta prácetā  
-rāyā́ dyumnéna śrávasā ví bhāti  
+य꣡स् ते यज्ञे꣡न समि꣡धा य꣡ उक्थइ꣡र्  
+अर्के꣡भिः सूनो सहसो द꣡दाशत्  
+स꣡ म꣡र्तियेषु अमृत प्र꣡चेता  
+राया꣡ द्युम्ने꣡न श्र꣡वसा वि꣡ भाति  

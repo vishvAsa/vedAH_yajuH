@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ásr̥gran devávītaye  
-átyāsaḥ kŕ̥tviyā iva  
-kṣárantaḥ parvatāvŕ̥dhaḥ  
+अ꣡सृग्रन् देव꣡वीतये  
+अ꣡त्यासः क्ŕ̥त्विया इव  
+क्ष꣡रन्तः पर्वताव्ŕ̥धः  

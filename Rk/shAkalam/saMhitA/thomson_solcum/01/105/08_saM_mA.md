@@ -2,8 +2,8 @@
 title = "008"
 
 +++
-sám mā tapanti abhítaḥ  
-sapátnīr iva párśavaḥ  
-mū́ṣo ná śiśnā́ ví adanti mādhíya  
-stotā́raṃ te śatakrato  
-vittám me asyá rodasī  
+स꣡म् मा तपन्ति अभि꣡तः  
+सप꣡त्नीर् इव प꣡र्शवः  
+मू꣡षो न꣡ शिश्ना꣡ वि꣡ अदन्ति माधि꣡य  
+स्तोता꣡रं ते शतक्रतो  
+वित्त꣡म् मे अस्य꣡ रोदसी  

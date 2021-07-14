@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yáthā vā́taḥ puṣkaríṇīṃ  
-samiṅgáyati sarvátaḥ  
-evā́ te gárbha ejatu  
-niraítu dáśamāsiyaḥ  
+य꣡था वा꣡तः पुष्करि꣡णीं  
+समिङ्ग꣡यति सर्व꣡तः  
+एवा꣡ ते ग꣡र्भ एजतु  
+निरइ꣡तु द꣡शमासियः  

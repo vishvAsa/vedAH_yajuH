@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-etā́ te agne jánimā sánāni  
-prá pūrviyā́ya nū́tanāni vocam  
-mahā́nti vŕ̥ṣṇe sávanā kr̥témā́  
-jánmañ-janman níhito jātávedāḥ  
+एता꣡ ते अग्ने ज꣡निमा स꣡नानि  
+प्र꣡ पूर्विया꣡य नू꣡तनानि वोचम्  
+महा꣡न्ति व्ŕ̥ष्णे स꣡वना कृते꣡मा꣡  
+ज꣡न्मञ्-जन्मन् नि꣡हितो जात꣡वेदाः  

@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-kúva syá vr̥ṣabhó yúvā  
-tuvigrī́vo ánānataḥ  
-brahmā́ kás táṃ saparyati  
+कु꣡व स्य꣡ वृषभो꣡ यु꣡वा  
+तुविग्री꣡वो अ꣡नानतः  
+ब्रह्मा꣡ क꣡स् तं꣡ सपर्यति  

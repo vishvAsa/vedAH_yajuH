@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tád íd vadanti ádrayo vimócane  
-yā́mann añjaspā́ iva ghéd upabdíbhiḥ  
-vápanto bī́jam iva dhāniyākŕ̥taḥ  
-pr̥ñcánti sómaṃ ná minanti bápsataḥ  
+त꣡द् इ꣡द् वदन्ति अ꣡द्रयो विमो꣡चने  
+या꣡मन्न् अञ्जस्पा꣡ इव घे꣡द् उपब्दि꣡भिः  
+व꣡पन्तो बी꣡जम् इव धानियाक्ŕ̥तः  
+पृञ्च꣡न्ति सो꣡मं न꣡ मिनन्ति ब꣡प्सतः  

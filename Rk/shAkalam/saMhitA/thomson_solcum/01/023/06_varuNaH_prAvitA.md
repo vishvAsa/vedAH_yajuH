@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-váruṇaḥ prāvitā́ bhuvan  
-mitró víśvābhir ūtíbhiḥ  
-káratāṃ naḥ surā́dhasaḥ  
+व꣡रुणः प्राविता꣡ भुवन्  
+मित्रो꣡ वि꣡श्वाभिर् ऊति꣡भिः  
+क꣡रतां नः सुरा꣡धसः  

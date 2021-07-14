@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ví yó mamé yamíyā saṃyatī́ mádaḥ  
-sākaṃvŕ̥dhā páyasā pinvad ákṣitā  
-mahī́ apāré rájasī vivévidad  
-abhivrájann ákṣitam pā́ja ā́ dade  
+वि꣡ यो꣡ ममे꣡ यमि꣡या संयती꣡ म꣡दः  
+साकंव्ŕ̥धा प꣡यसा पिन्वद् अ꣡क्षिता  
+मही꣡ अपारे꣡ र꣡जसी विवे꣡विदद्  
+अभिव्र꣡जन्न् अ꣡क्षितम् पा꣡ज आ꣡ ददे  

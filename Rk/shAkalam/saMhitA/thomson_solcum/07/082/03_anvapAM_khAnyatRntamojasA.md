@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ánu apā́ṃ khā́ni atr̥ntam ójasā  
-ā́ sū́riyam airayataṃ diví prabhúm  
-índrāvaruṇā máde asya māyíno  
-ápinvatam apítaḥ pínvataṃ dhíyaḥ  
+अ꣡नु अपां꣡ खा꣡नि अतृन्तम् ओ꣡जसा  
+आ꣡ सू꣡रियम् ऐरयतं दिवि꣡ प्रभु꣡म्  
+इ꣡न्द्रावरुणा म꣡दे अस्य मायि꣡नो  
+अ꣡पिन्वतम् अपि꣡तः पि꣡न्वतं धि꣡यः  

@@ -2,6 +2,6 @@
 title = "013"
 
 +++
-yó vāṃ yajñébhir ā́vr̥to  
-ádhivastrā vadhū́r iva  
-saparyántā śubhé cakrāte aśvínā  
+यो꣡ वां यज्ञे꣡भिर् आ꣡वृतो  
+अ꣡धिवस्त्रा वधू꣡र् इव  
+सपर्य꣡न्ता शुभे꣡ चक्राते अश्वि꣡ना  

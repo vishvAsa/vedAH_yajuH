@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-abhí priyā́ divás padā́  
-sómo hinvānó arṣati  
-víprasya dhā́rayā kavíḥ  
+अभि꣡ प्रिया꣡ दिव꣡स् पदा꣡  
+सो꣡मो हिन्वानो꣡ अर्षति  
+वि꣡प्रस्य धा꣡रया कविः꣡  

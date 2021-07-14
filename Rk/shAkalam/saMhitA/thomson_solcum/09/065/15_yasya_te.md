@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-yásya te mádiyaṃ rásaṃ  
-tīvráṃ duhánti ádribhiḥ  
-sá pavasvābhimātihā́  
+य꣡स्य ते म꣡दियं र꣡सं  
+तीव्रं꣡ दुह꣡न्ति अ꣡द्रिभिः  
+स꣡ पवस्वाभिमातिहा꣡  

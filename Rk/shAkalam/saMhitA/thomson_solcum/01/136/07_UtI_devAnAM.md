@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ūtī́ devā́nāṃ vayám índravanto  
-maṃsīmáhi sváyaśaso marúdbhiḥ  
-agnír mitró váruṇaḥ śárma yaṃsan  
-tád aśyāma maghávāno vayáṃ ca  
+ऊती꣡ देवा꣡नां वय꣡म् इ꣡न्द्रवन्तो  
+मंसीम꣡हि स्व꣡यशसो मरु꣡द्भिः  
+अग्नि꣡र् मित्रो꣡ व꣡रुणः श꣡र्म यंसन्  
+त꣡द् अश्याम मघ꣡वानो वयं꣡ च  

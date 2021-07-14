@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-índra rbhúbhir vājíbhir vājáyann ihá  
-stómaṃ jaritúr úpa yāhi yajñíyam  
-śatáṃ kétebhir iṣirébhir āyáve  
-sahásraṇītho adhvarásya hómani  
+इ꣡न्द्र र्भु꣡भिर् वाजि꣡भिर् वाज꣡यन्न् इह꣡  
+स्तो꣡मं जरितु꣡र् उ꣡प याहि यज्ञि꣡यम्  
+शतं꣡ के꣡तेभिर् इषिरे꣡भिर् आय꣡वे  
+सह꣡स्रणीथो अध्वर꣡स्य हो꣡मनि  

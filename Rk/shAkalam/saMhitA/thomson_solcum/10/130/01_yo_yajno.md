@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yó yajñó · viśvátas tántubhis tatá  
-ékaśataṃ devakarmébhir ā́yataḥ  
-imé vayanti pitáro yá āyayúḥ  
-prá vayā́pa vayéti āsate taté  
+यो꣡ यज्ञो꣡ · विश्व꣡तस् त꣡न्तुभिस् तत꣡  
+ए꣡कशतं देवकर्मे꣡भिर् आ꣡यतः  
+इमे꣡ वयन्ति पित꣡रो य꣡ आययुः꣡  
+प्र꣡ वया꣡प वये꣡ति आसते तते꣡  

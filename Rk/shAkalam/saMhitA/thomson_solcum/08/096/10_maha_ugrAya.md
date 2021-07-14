@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-mahá ugrā́ya taváse suvr̥ktím  
-prá īraya śivátamāya paśváḥ  
-gírvāhase gíra índrāya pūrvī́r  
-dhehí tanúve kuvíd aṅgá védat  
+मह꣡ उग्रा꣡य तव꣡से सुवृक्ति꣡म्  
+प्र꣡ ईरय शिव꣡तमाय पश्वः꣡  
+गि꣡र्वाहसे गि꣡र इ꣡न्द्राय पूर्वी꣡र्  
+धेहि꣡ तनु꣡वे कुवि꣡द् अङ्ग꣡ वे꣡दत्  

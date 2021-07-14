@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tám ín nú evá samanā́ samānám  
-abhí krátvā punatī́ dhītír aśyāḥ  
-sasásya cármann ádhi cā́ru pŕ̥śner  
-ágre rupá ā́rupitaṃ jábāru  
+त꣡म् इ꣡न् नु꣡ एव꣡ समना꣡ समान꣡म्  
+अभि꣡ क्र꣡त्वा पुनती꣡ धीति꣡र् अश्याः  
+सस꣡स्य च꣡र्मन्न् अ꣡धि चा꣡रु प्ŕ̥श्नेर्  
+अ꣡ग्रे रुप꣡ आ꣡रुपितं ज꣡बारु  

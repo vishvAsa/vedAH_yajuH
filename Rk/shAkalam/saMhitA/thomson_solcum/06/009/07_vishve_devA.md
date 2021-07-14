@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-víśve devā́ anamasyan bhiyānā́s  
-tuvā́m agne támasi tasthivā́ṃsam  
-vaiśvānaré avatu ūtáye no  
-ámartiyo avatu ūtáye naḥ  
+वि꣡श्वे देवा꣡ अनमस्यन् भियाना꣡स्  
+तुवा꣡म् अग्ने त꣡मसि तस्थिवां꣡सम्  
+वैश्वानरे꣡ अवतु ऊत꣡ये नो  
+अ꣡मर्तियो अवतु ऊत꣡ये नः  

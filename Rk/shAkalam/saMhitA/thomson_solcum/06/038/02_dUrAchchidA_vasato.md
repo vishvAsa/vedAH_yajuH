@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-dūrā́c cid ā́ vasato asya kárṇā  
-ghóṣād índrasya tanyati bruvāṇáḥ  
-éyám enaṃ deváhūtir vavr̥tyān  
-madríag índram iyám r̥cyámānā  
+दूरा꣡च् चिद् आ꣡ वसतो अस्य क꣡र्णा  
+घो꣡षाद् इ꣡न्द्रस्य तन्यति ब्रुवाणः꣡  
+ए꣡य꣡म् एनं देव꣡हूतिर् ववृत्यान्  
+मद्रि꣡अग् इ꣡न्द्रम् इय꣡म् ऋच्य꣡माना  

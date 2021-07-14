@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-ā́ smā ráthaṃ vr̥ṣapā́ṇeṣu tiṣṭhasi  
-śāryātásya prábhr̥tā yéṣu mándase  
-índra yáthā sutásomeṣu cākáno  
-anarvā́ṇaṃ ślókam ā́ rohase diví  
+आ꣡ स्मा र꣡थं वृषपा꣡णेषु तिष्ठसि  
+शार्यात꣡स्य प्र꣡भृता ये꣡षु म꣡न्दसे  
+इ꣡न्द्र य꣡था सुत꣡सोमेषु चाक꣡नो  
+अनर्वा꣡णं श्लो꣡कम् आ꣡ रोहसे दिवि꣡  

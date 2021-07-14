@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-jániṣṭa yóṣā patáyat kanīnakó  
-ví cā́ruhan vīrúdho daṃsánā ánu  
-ā́smai rīyante nivanéva síndhavo  
-asmā́ áhne bhavati tát patitvanám  
+ज꣡निष्ट यो꣡षा पत꣡यत् कनीनको꣡  
+वि꣡ चा꣡रुहन् वीरु꣡धो दंस꣡ना अ꣡नु  
+आ꣡स्मै रीयन्ते निवने꣡व सि꣡न्धवो  
+अस्मा꣡ अ꣡ह्ने भवति त꣡त् पतित्वन꣡म्  

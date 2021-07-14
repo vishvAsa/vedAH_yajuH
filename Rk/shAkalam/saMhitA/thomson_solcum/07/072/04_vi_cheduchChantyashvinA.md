@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ví céd uchánti aśvinā uṣā́saḥ  
-prá vām bráhmāṇi kārávo bharante  
-ūrdhvám bhānúṃ savitā́ devó aśred  
-br̥hád agnáyaḥ samídhā jarante  
+वि꣡ चे꣡द् उछ꣡न्ति अश्विना उषा꣡सः  
+प्र꣡ वाम् ब्र꣡ह्माणि कार꣡वो भरन्ते  
+ऊर्ध्व꣡म् भानुं꣡ सविता꣡ देवो꣡ अश्रेद्  
+बृह꣡द् अग्न꣡यः समि꣡धा जरन्ते  

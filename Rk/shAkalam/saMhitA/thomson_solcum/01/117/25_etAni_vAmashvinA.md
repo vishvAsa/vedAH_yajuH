@@ -2,7 +2,7 @@
 title = "025"
 
 +++
-etā́ni vām aśvinā vīríyāṇi  
-prá pūrviyā́ṇi āyávo avocan  
-bráhma kr̥ṇvánto vr̥ṣaṇā yuvábhyāṃ  
-suvī́rāso vidátham ā́ vadema  
+एता꣡नि वाम् अश्विना वीरि꣡याणि  
+प्र꣡ पूर्विया꣡णि आय꣡वो अवोचन्  
+ब्र꣡ह्म कृण्व꣡न्तो वृषणा युव꣡भ्यां  
+सुवी꣡रासो विद꣡थम् आ꣡ वदेम  

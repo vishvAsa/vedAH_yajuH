@@ -2,6 +2,6 @@
 title = "022"
 
 +++
-utá tvā dhītáyo máma  
-gíro vardhantu viśváhā  
-ágne sakhyásya bodhi naḥ  
+उत꣡ त्वा धीत꣡यो म꣡म  
+गि꣡रो वर्धन्तु विश्व꣡हा  
+अ꣡ग्ने सख्य꣡स्य बोधि नः  

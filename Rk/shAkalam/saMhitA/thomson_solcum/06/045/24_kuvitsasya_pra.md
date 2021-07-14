@@ -2,6 +2,6 @@
 title = "024"
 
 +++
-kuvítsasya prá hí vrajáṃ  
-gómantaṃ dasyuhā́ gámat  
-śácībhir ápa no varat  
+कुवि꣡त्सस्य प्र꣡ हि꣡ व्रजं꣡  
+गो꣡मन्तं दस्युहा꣡ ग꣡मत्  
+श꣡चीभिर् अ꣡प नो वरत्  

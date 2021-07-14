@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-aśvī́ rathī́ surūpá íd  
-gómām̐ íd indra te sákhā  
-śvātrabhā́jā váyasā sacate sádā  
-candró yāti sabhā́m úpa  
+अश्वी꣡ रथी꣡ सुरूप꣡ इ꣡द्  
+गो꣡माँ इ꣡द् इन्द्र ते स꣡खा  
+श्वात्रभा꣡जा व꣡यसा सचते स꣡दा  
+चन्द्रो꣡ याति सभा꣡म् उ꣡प  

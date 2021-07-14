@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-evā́ te gr̥tsamadā́ḥ śūra mánma  
-avasyávo ná vayúnāni takṣuḥ  
-brahmaṇyánta indara+ te návīya  
-íṣam ū́rjaṃ sukṣitíṃ sumnám aśyuḥ  
+एवा꣡ ते गृत्समदाः꣡ शूर म꣡न्म  
+अवस्य꣡वो न꣡ वयु꣡नानि तक्षुः  
+ब्रह्मण्य꣡न्त इन्दर+ ते न꣡वीय  
+इ꣡षम् ऊ꣡र्जं सुक्षितिं꣡ सुम्न꣡म् अश्युः  

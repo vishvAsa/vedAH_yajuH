@@ -2,6 +2,6 @@
 title = "030"
 
 +++
-asmā́kam indra bhūtu te  
-stómo vā́hiṣṭho ántamaḥ  
-asmā́n rāyé mahé hinu  
+अस्मा꣡कम् इन्द्र भूतु ते  
+स्तो꣡मो वा꣡हिष्ठो अ꣡न्तमः  
+अस्मा꣡न् राये꣡ महे꣡ हिनु  

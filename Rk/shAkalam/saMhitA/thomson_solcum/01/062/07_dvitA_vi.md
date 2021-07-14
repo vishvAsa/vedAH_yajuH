@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-dvitā́ ví vavre sanájā sánīḷe  
-ayā́siya stávamānebhir arkaíḥ  
-bhágo ná méne paramé víomann  
-ádhārayad · ródasī sudáṃsāḥ  
+द्विता꣡ वि꣡ वव्रे सन꣡जा स꣡नीऌए  
+अया꣡सिय स्त꣡वमानेभिर् अर्कइः꣡  
+भ꣡गो न꣡ मे꣡ने परमे꣡ वि꣡ओमन्न्  
+अ꣡धारयद् · रो꣡दसी सुदं꣡साः  

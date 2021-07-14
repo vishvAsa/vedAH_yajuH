@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ te hánū harivaḥ śūra śípre  
-rúhat sómo ná párvatasya pr̥ṣṭhé  
-ánu tvā rājan árvato ná hinván  
-gīrbhír madema puruhūta víśve  
+आ꣡ ते ह꣡नू हरिवः शूर शि꣡प्रे  
+रु꣡हत् सो꣡मो न꣡ प꣡र्वतस्य पृष्ठे꣡  
+अ꣡नु त्वा राजन् अ꣡र्वतो न꣡ हिन्व꣡न्  
+गीर्भि꣡र् मदेम पुरुहूत वि꣡श्वे  

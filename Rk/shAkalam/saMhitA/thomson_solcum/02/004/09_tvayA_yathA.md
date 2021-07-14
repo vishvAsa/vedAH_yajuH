@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tváyā yáthā gr̥tsamadā́so agne  
-gúhā vanvánta úparām̐ abhí ṣyúḥ  
-suvī́rāso · abhimātiṣā́haḥ  
-smát sūríbhyo gr̥ṇaté tád váyo dhāḥ  
+त्व꣡या य꣡था गृत्समदा꣡सो अग्ने  
+गु꣡हा वन्व꣡न्त उ꣡पराँ अभि꣡ ष्युः꣡  
+सुवी꣡रासो · अभिमातिषा꣡हः  
+स्म꣡त् सूरि꣡भ्यो गृणते꣡ त꣡द् व꣡यो धाः  

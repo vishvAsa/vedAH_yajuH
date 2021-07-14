@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-yā́bhir vamráṃ vipipānám upastutáṃ  
-kalíṃ yā́bhir vittájāniṃ duvasyáthaḥ  
-yā́bhir víaśvam utá pŕ̥thim ā́vataṃ  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिर् वम्रं꣡ विपिपान꣡म् उपस्तुतं꣡  
+कलिं꣡ या꣡भिर् वित्त꣡जानिं दुवस्य꣡थः  
+या꣡भिर् वि꣡अश्वम् उत꣡ प्ŕ̥थिम् आ꣡वतं  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-táṃ vo dhiyā́ paramáyā purājā́m  
-ajáram índram abhy ànūṣi arkaíḥ  
-bráhmā ca gíro dadhiré sám asmin  
-mahā́ṃś ca stómo ádhi vardhad índre  
+तं꣡ वो धिया꣡ परम꣡या पुराजा꣡म्  
+अज꣡रम् इ꣡न्द्रम् अभ्य् अ᳡नूषि अर्कइः꣡  
+ब्र꣡ह्मा च गि꣡रो दधिरे꣡ स꣡म् अस्मिन्  
+महां꣡श् च स्तो꣡मो अ꣡धि वर्धद् इ꣡न्द्रे  

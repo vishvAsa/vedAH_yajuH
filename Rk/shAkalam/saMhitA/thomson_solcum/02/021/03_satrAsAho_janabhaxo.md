@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-satrāsāhó janabhakṣó janaṃsaháś  
-cyávano yudhmó ánu jóṣam ukṣitáḥ  
-vr̥taṃcayáḥ sáhurir vikṣú āritá  
-índrasya vocam prá kr̥tā́ni vīríyā  
+सत्रासाहो꣡ जनभक्षो꣡ जनंसह꣡श्  
+च्य꣡वनो युध्मो꣡ अ꣡नु जो꣡षम् उक्षितः꣡  
+वृतंचयः꣡ स꣡हुरिर् विक्षु꣡ आरित꣡  
+इ꣡न्द्रस्य वोचम् प्र꣡ कृता꣡नि वीरि꣡या  

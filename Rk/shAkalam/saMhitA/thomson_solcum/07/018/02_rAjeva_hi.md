@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-rā́jeva hí jánibhiḥ kṣéṣi evá  
-áva dyúbhir abhí vidúṣ kavíḥ sán  
-piśā́ gíro maghavan góbhir áśvais  
-tuvāyatáḥ śiśīhi rāyé asmā́n  
+रा꣡जेव हि꣡ ज꣡निभिः क्षे꣡षि एव꣡  
+अ꣡व द्यु꣡भिर् अभि꣡ विदु꣡ष् कविः꣡ स꣡न्  
+पिशा꣡ गि꣡रो मघवन् गो꣡भिर् अ꣡श्वैस्  
+तुवायतः꣡ शिशीहि राये꣡ अस्मा꣡न्  

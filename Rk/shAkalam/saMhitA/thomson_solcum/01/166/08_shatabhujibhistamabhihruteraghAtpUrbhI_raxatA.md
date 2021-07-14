@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-śatábhujibhis tám abhíhruter aghā́t  
-pūrbhī́ rakṣatā maruto yám ā́vata  
-jánaṃ yám ugrās tavaso virapśinaḥ  
-pāthánā śáṃsāt tánayasya puṣṭíṣu  
+शत꣡भुजिभिस् त꣡म् अभि꣡ह्रुतेर् अघा꣡त्  
+पूर्भी꣡ रक्षता मरुतो य꣡म् आ꣡वत  
+ज꣡नं य꣡म् उग्रास् तवसो विरप्शिनः  
+पाथ꣡ना शं꣡सात् त꣡नयस्य पुष्टि꣡षु  

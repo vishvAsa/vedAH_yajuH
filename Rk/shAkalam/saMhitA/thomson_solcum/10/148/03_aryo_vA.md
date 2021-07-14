@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-aryó vā gíro abhí arca vidvā́n  
-ŕ̥ṣīṇāṃ vípraḥ sumatíṃ cakānáḥ  
-té siyāma yé raṇáyanta sómair  
-enā́ utá túbhya° rathoḷha bhakṣaíḥ  
+अर्यो꣡ वा गि꣡रो अभि꣡ अर्च विद्वा꣡न्  
+ŕ̥षीणां वि꣡प्रः सुमतिं꣡ चकानः꣡  
+ते꣡ सियाम ये꣡ रण꣡यन्त सो꣡मैर्  
+एना꣡ उत꣡ तु꣡भ्य° रथोऌह भक्षइः꣡  

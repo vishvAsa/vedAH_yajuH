@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ádha tyáṃ drapsáṃ vibhúvaṃ vicakṣaṇáṃ  
-vír ā́bharad iṣitáḥ śyenó adhvaré  
-yádī víśo vr̥ṇáte dasmám ā́riyā  
-agníṃ hótāram ádha dhī́r ajāyata  
+अ꣡ध त्यं꣡ द्रप्सं꣡ विभु꣡वं विचक्षणं꣡  
+वि꣡र् आ꣡भरद् इषितः꣡ श्येनो꣡ अध्वरे꣡  
+य꣡दी वि꣡शो वृण꣡ते दस्म꣡म् आ꣡रिया  
+अग्निं꣡ हो꣡तारम् अ꣡ध धी꣡र् अजायत  

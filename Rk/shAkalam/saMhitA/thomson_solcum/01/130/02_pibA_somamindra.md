@@ -2,10 +2,10 @@
 title = "002"
 
 +++
-píbā sómam indra suvānám ádribhiḥ  
-kóśena siktám avatáṃ ná váṃsagas  
-tātr̥ṣāṇó ná váṃsagaḥ  
-mádāya haryatā́ya te  
-tuvíṣṭamāya dhā́yase  
-ā́ tvā yachantu haríto ná sū́riyam  
-áhā víśveva sū́riyam  
+पि꣡बा सो꣡मम् इन्द्र सुवान꣡म् अ꣡द्रिभिः  
+को꣡शेन सिक्त꣡म् अवतं꣡ न꣡ वं꣡सगस्  
+तातृषाणो꣡ न꣡ वं꣡सगः  
+म꣡दाय हर्यता꣡य ते  
+तुवि꣡ष्टमाय धा꣡यसे  
+आ꣡ त्वा यछन्तु हरि꣡तो न꣡ सू꣡रियम्  
+अ꣡हा वि꣡श्वेव सू꣡रियम्  

@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-prá vāṃ rátho mánojavā iyarti  
-tiró rájāṃsi aśvinā śatótiḥ  
-asmábhyaṃ sūriyāvasū iyānáḥ  
+प्र꣡ वां र꣡थो म꣡नोजवा इयर्ति  
+तिरो꣡ र꣡जांसि अश्विना शतो꣡तिः  
+अस्म꣡भ्यं सूरियावसू इयानः꣡  

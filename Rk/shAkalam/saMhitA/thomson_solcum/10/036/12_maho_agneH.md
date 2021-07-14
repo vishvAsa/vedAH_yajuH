@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-mahó agnéḥ samidhānásya śármaṇi  
-ánāgā mitré váruṇe suastáye  
-śréṣṭhe siyāma savitúḥ sávīmani  
-tád devā́nām ávo adyā́ vr̥ṇīmahe  
+महो꣡ अग्नेः꣡ समिधान꣡स्य श꣡र्मणि  
+अ꣡नागा मित्रे꣡ व꣡रुणे सुअस्त꣡ये  
+श्रे꣡ष्ठे सियाम सवितुः꣡ स꣡वीमनि  
+त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे  

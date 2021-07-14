@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-váhniṃ yaśásaṃ vidáthasya ketúṃ  
-suprāvíyaṃ · dūtáṃ sadyóartham  
-dvijánmānaṃ rayím iva praśastáṃ  
-rātím bharad bhŕ̥gave mātaríśvā  
+व꣡ह्निं यश꣡सं विद꣡थस्य केतुं꣡  
+सुप्रावि꣡यं · दूतं꣡ सद्यो꣡अर्थम्  
+द्विज꣡न्मानं रयि꣡म् इव प्रशस्तं꣡  
+राति꣡म् भरद् भ्ŕ̥गवे मातरि꣡श्वा  

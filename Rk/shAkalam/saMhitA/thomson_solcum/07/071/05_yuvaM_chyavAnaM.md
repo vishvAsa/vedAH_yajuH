@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yuváṃ cyávānaṃ jaráso 'mumuktaṃ  
-ní pedáva ūhathur āśúm áśvam  
-nír áṃhasas támasa spartam átriṃ  
-ní jāhuṣáṃ śithiré dhātam antáḥ  
+युवं꣡ च्य꣡वानं जर꣡सो ऽमुमुक्तं  
+नि꣡ पेद꣡व ऊहथुर् आशु꣡म् अ꣡श्वम्  
+नि꣡र् अं꣡हसस् त꣡मस स्पर्तम् अ꣡त्रिं  
+नि꣡ जाहुषं꣡ शिथिरे꣡ धातम् अन्तः꣡  

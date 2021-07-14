@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ahám pitéva vetasū́m̐r abhíṣṭaye  
-túgraṃ kútsāya smádibhaṃ ca randhayam  
-ahám bhuvaṃ yájamānasya rājáni  
-prá yád bháre tújaye ná priyā́dhŕ̥ṣe  
+अह꣡म् पिते꣡व वेतसूँ꣡र् अभि꣡ष्टये  
+तु꣡ग्रं कु꣡त्साय स्म꣡दिभं च रन्धयम्  
+अह꣡म् भुवं य꣡जमानस्य राज꣡नि  
+प्र꣡ य꣡द् भ꣡रे तु꣡जये न꣡ प्रिया꣡ध्ŕ̥षे  

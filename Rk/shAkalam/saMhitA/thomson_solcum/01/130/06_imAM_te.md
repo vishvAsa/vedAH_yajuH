@@ -2,10 +2,10 @@
 title = "006"
 
 +++
-imā́ṃ te vā́caṃ vasūyánta āyávo  
-ráthaṃ ná dhī́raḥ suápā atakṣiṣuḥ  
-sumnā́ya tvā́m atakṣiṣuḥ  
-śumbhánto jéniyaṃ yathā  
-vā́jeṣu vipra vājínam  
-átyam iva śávase sātáye dhánā  
-víśvā dhánāni sātáye  
+इमां꣡ ते वा꣡चं वसूय꣡न्त आय꣡वो  
+र꣡थं न꣡ धी꣡रः सुअ꣡पा अतक्षिषुः  
+सुम्ना꣡य त्वा꣡म् अतक्षिषुः  
+शुम्भ꣡न्तो जे꣡नियं यथा  
+वा꣡जेषु विप्र वाजि꣡नम्  
+अ꣡त्यम् इव श꣡वसे सात꣡ये ध꣡ना  
+वि꣡श्वा ध꣡नानि सात꣡ये  

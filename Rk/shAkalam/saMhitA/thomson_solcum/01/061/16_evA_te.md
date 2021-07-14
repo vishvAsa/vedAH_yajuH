@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-evā́ te hāriyojanā suvr̥ktí  
-índra bráhmāṇi gótamāso akran  
-ā́ eṣu viśvápeśasaṃ dhíyaṃ dhāḥ  
-prātár makṣū́ dhiyā́vasur jagamyāt  
+एवा꣡ ते हारियोजना सुवृक्ति꣡  
+इ꣡न्द्र ब्र꣡ह्माणि गो꣡तमासो अक्रन्  
+आ꣡ एषु विश्व꣡पेशसं धि꣡यं धाः  
+प्रात꣡र् मक्षू꣡ धिया꣡वसुर् जगम्यात्  

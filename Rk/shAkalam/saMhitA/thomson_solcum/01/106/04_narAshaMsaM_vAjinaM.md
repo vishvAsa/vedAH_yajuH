@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-nárāśáṃsaṃ vājínaṃ vājáyann ihá  
-kṣayádvīram pūṣáṇaṃ sumnaír īmahe  
-ráthaṃ ná durgā́d vasavaḥ sudānavo  
-víśvasmān no áṃhaso níṣ pipartana  
+न꣡राशं꣡सं वाजि꣡नं वाज꣡यन्न् इह꣡  
+क्षय꣡द्वीरम् पूष꣡णं सुम्नइ꣡र् ईमहे  
+र꣡थं न꣡ दुर्गा꣡द् वसवः सुदानवो  
+वि꣡श्वस्मान् नो अं꣡हसो नि꣡ष् पिपर्तन  

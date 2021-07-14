@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-tuváṃ hí viśvatomukha  
-viśvátaḥ paribhū́r ási  
-ápa naḥ śóśucad aghám  
+तुवं꣡ हि꣡ विश्वतोमुख  
+विश्व꣡तः परिभू꣡र् अ꣡सि  
+अ꣡प नः शो꣡शुचद् अघ꣡म्  

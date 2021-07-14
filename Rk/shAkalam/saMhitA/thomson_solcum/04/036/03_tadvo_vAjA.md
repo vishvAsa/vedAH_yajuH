@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-tád vo vājā r̥bhavaḥ supravācanáṃ  
-devéṣu vibhvo abhavan mahitvanám  
-jívrī yát sántā pitárā sanājúrā  
-púnar yúvānā caráthāya tákṣatha  
+त꣡द् वो वाजा ऋभवः सुप्रवाचनं꣡  
+देवे꣡षु विभ्वो अभवन् महित्वन꣡म्  
+जि꣡व्री य꣡त् स꣡न्ता पित꣡रा सनाजु꣡रा  
+पु꣡नर् यु꣡वाना चर꣡थाय त꣡क्षथ  

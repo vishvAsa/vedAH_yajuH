@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-tuváṃ ca soma no váśo  
-jīvā́tuṃ ná marāmahe  
-priyástotro vánaspátiḥ  
+तुवं꣡ च सोम नो व꣡शो  
+जीवा꣡तुं न꣡ मरामहे  
+प्रिय꣡स्तोत्रो व꣡नस्प꣡तिः  

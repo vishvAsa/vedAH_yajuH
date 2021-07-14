@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ápāma sómam amŕ̥tā abhūma  
-áganma jyótir ávidāma devā́n  
-kíṃ nūnám asmā́n kr̥ṇavad árātiḥ  
-kím u dhūrtír amr̥ta mártiyasya  
+अ꣡पाम सो꣡मम् अम्ŕ̥ता अभूम  
+अ꣡गन्म ज्यो꣡तिर् अ꣡विदाम देवा꣡न्  
+किं꣡ नून꣡म् अस्मा꣡न् कृणवद् अ꣡रातिः  
+कि꣡म् उ धूर्ति꣡र् अमृत म꣡र्तियस्य  

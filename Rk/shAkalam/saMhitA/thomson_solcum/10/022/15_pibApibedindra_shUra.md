@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-píbā-pibéd indara+ śūra sómam  
-mā́ riṣaṇyo vasavāna vásuḥ sán  
-utá trāyasva gr̥ṇató maghóno  
-maháś ca rāyó revátas kr̥dhī naḥ  
+पि꣡बा-पिबे꣡द् इन्दर+ शूर सो꣡मम्  
+मा꣡ रिषण्यो वसवान व꣡सुः स꣡न्  
+उत꣡ त्रायस्व गृणतो꣡ मघो꣡नो  
+मह꣡श् च रायो꣡ रेव꣡तस् कृधी नः  

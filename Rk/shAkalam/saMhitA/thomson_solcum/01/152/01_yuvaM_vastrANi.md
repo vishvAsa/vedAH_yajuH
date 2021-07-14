@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yuváṃ vástrāṇi pīvasā́ vasāthe  
-yuvór áchidrā mántavo ha sárgāḥ  
-ávātiratam ánr̥tāni víśva  
-r̥téna mitrāvaruṇā sacethe  
+युवं꣡ व꣡स्त्राणि पीवसा꣡ वसाथे  
+युवो꣡र् अ꣡छिद्रा म꣡न्तवो ह स꣡र्गाः  
+अ꣡वातिरतम् अ꣡नृतानि वि꣡श्व  
+ऋते꣡न मित्रावरुणा सचेथे  

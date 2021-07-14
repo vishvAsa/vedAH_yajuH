@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yā́bhiḥ śácībhiś camasā́m̐ ápiṃśata  
-yáyā dhiyā́ gā́m áriṇīta cármaṇaḥ  
-yéna hárī mánasā nirátakṣata  
-téna devatvám r̥bhavaḥ sám ānaśa  
+या꣡भिः श꣡चीभिश् चमसाँ꣡ अ꣡पिंशत  
+य꣡या धिया꣡ गा꣡म् अ꣡रिणीत च꣡र्मणः  
+ये꣡न ह꣡री म꣡नसा निर꣡तक्षत  
+ते꣡न देवत्व꣡म् ऋभवः स꣡म् आनश  

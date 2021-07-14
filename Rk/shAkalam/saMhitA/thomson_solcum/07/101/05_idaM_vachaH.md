@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-idáṃ vácaḥ parjányāya svarā́je  
-hr̥dó astu ántaraṃ táj jujoṣat  
-mayobhúvo vr̥ṣṭáyaḥ santu asmé  
-supippalā́ óṣadhīr devágopāḥ  
+इदं꣡ व꣡चः पर्ज꣡न्याय स्वरा꣡जे  
+हृदो꣡ अस्तु अ꣡न्तरं त꣡ज् जुजोषत्  
+मयोभु꣡वो वृष्ट꣡यः सन्तु अस्मे꣡  
+सुपिप्पला꣡ ओ꣡षधीर् देव꣡गोपाः  

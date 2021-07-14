@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-kathó nú te pári carāṇi vidvā́n  
-vīríyā · maghavan yā́ cakártha  
-yā́ co nú návyā kr̥ṇávaḥ śaviṣṭha  
-préd u tā́ te vidátheṣu bravāma  
+कथो꣡ नु꣡ ते प꣡रि चराणि विद्वा꣡न्  
+वीरि꣡या · मघवन् या꣡ चक꣡र्थ  
+या꣡ चो नु꣡ न꣡व्या कृण꣡वः शविष्ठ  
+प्रे꣡द् उ ता꣡ ते विद꣡थेषु ब्रवाम  

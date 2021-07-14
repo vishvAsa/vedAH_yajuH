@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-tuvā́ṃ yajñaír avīvr̥dhan  
-pávamāna vídharmaṇi  
-áthā no vásyasas kr̥dhi  
+तुवां꣡ यज्ञइ꣡र् अवीवृधन्  
+प꣡वमान वि꣡धर्मणि  
+अ꣡था नो व꣡स्यसस् कृधि  

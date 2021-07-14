@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yé pākaśaṃsáṃ viháranta évair  
-yé vā bhadráṃ dūṣáyanti svadhā́bhiḥ  
-áhaye vā tā́n pradádātu sóma  
-ā́ vā dadhātu nírr̥ter upásthe  
+ये꣡ पाकशंसं꣡ विह꣡रन्त ए꣡वैर्  
+ये꣡ वा भद्रं꣡ दूष꣡यन्ति स्वधा꣡भिः  
+अ꣡हये वा ता꣡न् प्रद꣡दातु सो꣡म  
+आ꣡ वा दधातु नि꣡रृतेर् उप꣡स्थे  

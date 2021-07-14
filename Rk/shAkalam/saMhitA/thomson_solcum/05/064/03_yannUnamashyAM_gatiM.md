@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yán nūnám aśiyā́ṃ gátim  
-mitrásya yãyām pathā́  
-ásya priyásya śármaṇi  
-áhiṃsānasya saścire  
+य꣡न् नून꣡म् अशियां꣡ ग꣡तिम्  
+मित्र꣡स्य य्ãयाम् पथा꣡  
+अ꣡स्य प्रिय꣡स्य श꣡र्मणि  
+अ꣡हिंसानस्य सश्चिरे  

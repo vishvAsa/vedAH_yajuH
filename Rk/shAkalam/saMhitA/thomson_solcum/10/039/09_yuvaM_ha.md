@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yuváṃ ha rebháṃ vr̥ṣaṇā gúhā hitám  
-úd airayatam mamr̥vā́ṃsam aśvinā  
-yuvám r̥bī́sam utá taptám átraya  
-ómanvantaṃ cakrathuḥ saptávadhraye  
+युवं꣡ ह रेभं꣡ वृषणा गु꣡हा हित꣡म्  
+उ꣡द् ऐरयतम् ममृवां꣡सम् अश्विना  
+युव꣡म् ऋबी꣡सम् उत꣡ तप्त꣡म् अ꣡त्रय  
+ओ꣡मन्वन्तं चक्रथुः सप्त꣡वध्रये  

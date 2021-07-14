@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tisró mātr̥̄́s trī́n pitr̥̄́n bíbhrad éka  
-ūrdhvás tasthau ném áva glāpayanti  
-mantráyante divó amúṣya pr̥ṣṭhé  
-viśvavídaṃ vā́cam áviśvaminvām  
+तिस्रो꣡ मातॄ꣡स् त्री꣡न् पितॄ꣡न् बि꣡भ्रद् ए꣡क  
+ऊर्ध्व꣡स् तस्थौ ने꣡म् अ꣡व ग्लापयन्ति  
+मन्त्र꣡यन्ते दिवो꣡ अमु꣡ष्य पृष्ठे꣡  
+विश्ववि꣡दं वा꣡चम् अ꣡विश्वमिन्वाम्  

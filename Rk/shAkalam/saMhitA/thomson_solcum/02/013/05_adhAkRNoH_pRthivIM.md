@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ádhākr̥ṇoḥ pr̥thivī́ṃ saṃdŕ̥śe divé  
-yó dhautīnā́m ahihann ā́riṇak patháḥ  
-táṃ tvā stómebhir udábhir ná vājínaṃ  
-deváṃ devā́ ajanan sā́si ukthíyaḥ  
+अ꣡धाकृणोः पृथिवीं꣡ संद्ŕ̥शे दिवे꣡  
+यो꣡ धौतीना꣡म् अहिहन्न् आ꣡रिणक् पथः꣡  
+तं꣡ त्वा स्तो꣡मेभिर् उद꣡भिर् न꣡ वाजि꣡नं  
+देवं꣡ देवा꣡ अजनन् सा꣡सि उक्थि꣡यः  

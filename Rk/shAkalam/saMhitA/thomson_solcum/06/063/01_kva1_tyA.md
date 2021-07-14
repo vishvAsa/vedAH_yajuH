@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kúva tyā́ valgū́ puruhūtā́ adyá  
-dūtó ná stómo avidan námasvān  
-ā́ yó arvā́ṅ nā́satiyā vavárta  
-práyiṣṭhā+ hí ásatho asya mánman  
+कु꣡व त्या꣡ वल्गू꣡ पुरुहूता꣡ अद्य꣡  
+दूतो꣡ न꣡ स्तो꣡मो अविदन् न꣡मस्वान्  
+आ꣡ यो꣡ अर्वा꣡ङ् ना꣡सतिया वव꣡र्त  
+प्र꣡यिष्ठा+ हि꣡ अ꣡सथो अस्य म꣡न्मन्  

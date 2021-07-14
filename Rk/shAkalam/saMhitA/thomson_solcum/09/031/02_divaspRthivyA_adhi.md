@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-divás pr̥thiviyā́ ádhi  
-bhávendo dyumnavárdhanaḥ  
-bhávā vā́jānãm pátiḥ  
+दिव꣡स् पृथिविया꣡ अ꣡धि  
+भ꣡वेन्दो द्युम्नव꣡र्धनः  
+भ꣡वा वा꣡जान्ãम् प꣡तिः  

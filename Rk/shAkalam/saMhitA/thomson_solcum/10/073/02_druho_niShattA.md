@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-druhó níṣattā pr̥śanī́ cid évaiḥ  
-purū́ śáṃsena vāvr̥dhuṣ ṭá índram  
-abhī́vr̥teva tā́ mahāpadéna  
-dhvāntā́t prapitvā́d úd aranta gárbhāḥ  
+द्रुहो꣡ नि꣡षत्ता पृशनी꣡ चिद् ए꣡वैः  
+पुरू꣡ शं꣡सेन वावृधुष् ट꣡ इ꣡न्द्रम्  
+अभी꣡वृतेव ता꣡ महापदे꣡न  
+ध्वान्ता꣡त् प्रपित्वा꣡द् उ꣡द् अरन्त ग꣡र्भाः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-máhyaṃ yajantu máma yā́ni havyā́  
-ā́kūtiḥ satyā́ mánaso me astu  
-éno mā́ ní gāṃ katamác canā́háṃ  
-víśve devāso ádhi vocatā naḥ  
+म꣡ह्यं यजन्तु म꣡म या꣡नि हव्या꣡  
+आ꣡कूतिः सत्या꣡ म꣡नसो मे अस्तु  
+ए꣡नो मा꣡ नि꣡ गां कतम꣡च् चना꣡हं꣡  
+वि꣡श्वे देवासो अ꣡धि वोचता नः  

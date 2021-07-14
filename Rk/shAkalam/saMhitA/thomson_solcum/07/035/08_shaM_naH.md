@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-śáṃ naḥ sū́rya urucákṣā úd etu  
-śáṃ naś cátasraḥ pradíśo bhavantu  
-śáṃ naḥ párvatā dhruváyo bhavantu  
-śáṃ naḥ síndhavaḥ śám u santu ā́paḥ  
+शं꣡ नः सू꣡र्य उरुच꣡क्षा उ꣡द् एतु  
+शं꣡ नश् च꣡तस्रः प्रदि꣡शो भवन्तु  
+शं꣡ नः प꣡र्वता ध्रुव꣡यो भवन्तु  
+शं꣡ नः सि꣡न्धवः श꣡म् उ सन्तु आ꣡पः  

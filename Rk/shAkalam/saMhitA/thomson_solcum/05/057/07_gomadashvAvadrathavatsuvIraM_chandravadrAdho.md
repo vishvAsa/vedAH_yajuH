@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-gómad áśvāvad ráthavat suvī́raṃ  
-candrávad rā́dho maruto dadā naḥ  
-práśastiṃ naḥ kr̥ṇuta rudriyāso  
-bhakṣīyá vo ávaso daíviyasya  
+गो꣡मद् अ꣡श्वावद् र꣡थवत् सुवी꣡रं  
+चन्द्र꣡वद् रा꣡धो मरुतो ददा नः  
+प्र꣡शस्तिं नः कृणुत रुद्रियासो  
+भक्षीय꣡ वो अ꣡वसो दइ꣡वियस्य  

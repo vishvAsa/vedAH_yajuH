@@ -2,6 +2,6 @@
 title = "009"
 
 +++
-catúraś cid dádamānād  
-bibhīyā́d ā́ nídhātoḥ  
-ná duruktā́ya spr̥hayet  
+चतु꣡रश् चिद् द꣡दमानाद्  
+बिभीया꣡द् आ꣡ नि꣡धातोः  
+न꣡ दुरुक्ता꣡य स्पृहयेत्  

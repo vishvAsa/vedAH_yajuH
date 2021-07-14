@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-māyā́bhir utsísr̥psata  
-índra dyā́m ārúrukṣataḥ  
-áva dásyūm̐r adhūnuthāḥ  
+माया꣡भिर् उत्सि꣡सृप्सत  
+इ꣡न्द्र द्या꣡म् आरु꣡रुक्षतः  
+अ꣡व द꣡स्यूँर् अधूनुथाः  

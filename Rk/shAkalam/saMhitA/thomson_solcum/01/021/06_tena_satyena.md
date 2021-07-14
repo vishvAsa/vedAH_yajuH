@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-téna satyéna jāgr̥tam  
-ádhi pracetúne padé  
-índrāgnī śárma yachatam  
+ते꣡न सत्ये꣡न जागृतम्  
+अ꣡धि प्रचेतु꣡ने पदे꣡  
+इ꣡न्द्राग्नी श꣡र्म यछतम्  

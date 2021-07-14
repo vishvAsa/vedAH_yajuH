@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-úṣo vā́jena vājini prácetā  
-stómaṃ juṣasva gr̥ṇató maghoni  
-purāṇī́ devi yuvatíḥ púraṃdhir  
-ánu vratáṃ carasi viśvavāre  
+उ꣡षो वा꣡जेन वाजिनि प्र꣡चेता  
+स्तो꣡मं जुषस्व गृणतो꣡ मघोनि  
+पुराणी꣡ देवि युवतिः꣡ पु꣡रंधिर्  
+अ꣡नु व्रतं꣡ चरसि विश्ववारे  

@@ -2,7 +2,7 @@
 title = "036"
 
 +++
-evā́ naḥ soma pariṣicyámāna  
-ā́ pavasva pūyámānaḥ suastí  
-índram ā́ viśa br̥hatā́ ráveṇa  
-vardháyā vā́caṃ janáyā púraṃdhim  
+एवा꣡ नः सोम परिषिच्य꣡मान  
+आ꣡ पवस्व पूय꣡मानः सुअस्ति꣡  
+इ꣡न्द्रम् आ꣡ विश बृहता꣡ र꣡वेण  
+वर्ध꣡या वा꣡चं जन꣡या पु꣡रंधिम्  

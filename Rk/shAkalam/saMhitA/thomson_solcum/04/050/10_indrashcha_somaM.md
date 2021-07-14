@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-índraś ca sómam pibatam br̥haspate  
-asmín yajñé mandasānā́ vr̥ṣaṇvasū  
-ā́ vāṃ viśantu índavaḥ suābhúvo  
-asmé rayíṃ sárvavīraṃ ní yachatam  
+इ꣡न्द्रश् च सो꣡मम् पिबतम् बृहस्पते  
+अस्मि꣡न् यज्ञे꣡ मन्दसाना꣡ वृषण्वसू  
+आ꣡ वां विशन्तु इ꣡न्दवः सुआभु꣡वो  
+अस्मे꣡ रयिं꣡ स꣡र्ववीरं नि꣡ यछतम्  

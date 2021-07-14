@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-sám u pūṣṇā́ gamemahi  
-yó gr̥hā́m̐ abhiśā́sati  
-imá evéti ca brávat  
+स꣡म् उ पूष्णा꣡ गमेमहि  
+यो꣡ गृहाँ꣡ अभिशा꣡सति  
+इम꣡ एवे꣡ति च ब्र꣡वत्  

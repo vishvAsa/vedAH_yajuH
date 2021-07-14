@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ánuttam ā́ te maghavan nákir nú  
-ná tvā́vām̐ asti devátā vídānaḥ  
-ná jā́yamāno náśate ná jātó  
-yā́ni kariṣyā́ kr̥ṇuhí pravr̥ddha  
+अ꣡नुत्तम् आ꣡ ते मघवन् न꣡किर् नु꣡  
+न꣡ त्वा꣡वाँ अस्ति देव꣡ता वि꣡दानः  
+न꣡ जा꣡यमानो न꣡शते न꣡ जातो꣡  
+या꣡नि करिष्या꣡ कृणुहि꣡ प्रवृद्ध  

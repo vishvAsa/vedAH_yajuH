@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-dhánur hástād ādádāno mr̥tásya  
-asmé kṣatrā́ya várcase bálāya  
-átraivá tvám ihá vayáṃ suvī́rā  
-víśvā spŕ̥dho abhímātīr jayema  
+ध꣡नुर् ह꣡स्ताद् आद꣡दानो मृत꣡स्य  
+अस्मे꣡ क्षत्रा꣡य व꣡र्चसे ब꣡लाय  
+अ꣡त्रैव꣡ त्व꣡म् इह꣡ वयं꣡ सुवी꣡रा  
+वि꣡श्वा स्प्ŕ̥धो अभि꣡मातीर् जयेम  

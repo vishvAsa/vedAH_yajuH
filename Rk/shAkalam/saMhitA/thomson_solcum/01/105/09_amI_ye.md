@@ -2,8 +2,8 @@
 title = "009"
 
 +++
-amī́ yé saptá raśmáyas  
-tátrā me nā́bhir ā́tatā  
-tritás tád veda āptiyáḥ  
-sá jāmitvā́ya rebhati  
-vittám me asyá rodasī  
+अमी꣡ ये꣡ सप्त꣡ रश्म꣡यस्  
+त꣡त्रा मे ना꣡भिर् आ꣡तता  
+त्रित꣡स् त꣡द् वेद आप्तियः꣡  
+स꣡ जामित्वा꣡य रेभति  
+वित्त꣡म् मे अस्य꣡ रोदसी  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-nákiḥ sudã́so rátham  
-pári āsa ná rīramat  
-índro yásya avitā́ yásya marúto  
-gámat sá gómati vrajé  
+न꣡किः सुद्ã꣡सो र꣡थम्  
+प꣡रि आस न꣡ रीरमत्  
+इ꣡न्द्रो य꣡स्य अविता꣡ य꣡स्य मरु꣡तो  
+ग꣡मत् स꣡ गो꣡मति व्रजे꣡  

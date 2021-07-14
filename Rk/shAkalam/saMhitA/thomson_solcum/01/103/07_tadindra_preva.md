@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-tád indra préva vīríyaṃ cakartha  
-yát sasántaṃ vájreṇā́bodhayó 'him  
-ánu tvā pátnīr hr̥ṣitáṃ váyaś ca  
-víśve devā́so amadann ánu tvā  
+त꣡द् इन्द्र प्रे꣡व वीरि꣡यं चकर्थ  
+य꣡त् सस꣡न्तं व꣡ज्रेणा꣡बोधयो꣡ ऽहिम्  
+अ꣡नु त्वा प꣡त्नीर् हृषितं꣡ व꣡यश् च  
+वि꣡श्वे देवा꣡सो अमदन्न् अ꣡नु त्वा  

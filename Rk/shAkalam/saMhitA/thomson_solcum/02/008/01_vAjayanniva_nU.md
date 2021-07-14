@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-vājayánn iva nū́ ráthān  
-yógām̐ agnér úpa stuhi  
-yaśástamasya mīḷhúṣaḥ  
+वाजय꣡न्न् इव नू꣡ र꣡थान्  
+यो꣡गाँ अग्ने꣡र् उ꣡प स्तुहि  
+यश꣡स्तमस्य मीऌहु꣡षः  

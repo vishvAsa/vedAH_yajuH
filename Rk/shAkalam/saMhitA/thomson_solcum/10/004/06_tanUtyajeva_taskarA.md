@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tanūtyájeva táskarā vanargū́  
-raśanā́bhir daśábhir abhy àdhītām  
-iyáṃ te agne návyasī manīṣā́  
-yukṣvā́ ráthaṃ ná śucáyadbhir áṅgaiḥ  
+तनूत्य꣡जेव त꣡स्करा वनर्गू꣡  
+रशना꣡भिर् दश꣡भिर् अभ्य् अ᳡धीताम्  
+इयं꣡ ते अग्ने न꣡व्यसी मनीषा꣡  
+युक्ष्वा꣡ र꣡थं न꣡ शुच꣡यद्भिर् अ꣡ङ्गैः  

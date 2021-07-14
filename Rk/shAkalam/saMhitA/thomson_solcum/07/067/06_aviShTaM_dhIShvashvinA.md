@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-aviṣṭáṃ dhīṣú aśvinā na āsú  
-prajā́vad réto áhrayaṃ no astu  
-ā́ vāṃ toké tánaye tū́tujānāḥ  
-surátnāso devávītiṃ gamema  
+अविष्टं꣡ धीषु꣡ अश्विना न आसु꣡  
+प्रजा꣡वद् रे꣡तो अ꣡ह्रयं नो अस्तु  
+आ꣡ वां तोके꣡ त꣡नये तू꣡तुजानाः  
+सुर꣡त्नासो देव꣡वीतिं गमेम  

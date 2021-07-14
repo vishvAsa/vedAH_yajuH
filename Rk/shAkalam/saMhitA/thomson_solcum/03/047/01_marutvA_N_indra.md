@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-marútvām̐ indra vr̥ṣabhó ráṇāya  
-píbā sómam anuṣvadhám mádāya  
-ā́ siñcasva jaṭháre mádhva ūrmíṃ  
-tuváṃ rā́jāsi pradívaḥ sutā́nām  
+मरु꣡त्वाँ इन्द्र वृषभो꣡ र꣡णाय  
+पि꣡बा सो꣡मम् अनुष्वध꣡म् म꣡दाय  
+आ꣡ सिञ्चस्व जठ꣡रे म꣡ध्व ऊर्मिं꣡  
+तुवं꣡ रा꣡जासि प्रदि꣡वः सुता꣡नाम्  

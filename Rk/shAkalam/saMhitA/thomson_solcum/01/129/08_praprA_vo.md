@@ -2,10 +2,10 @@
 title = "008"
 
 +++
-prá-prā vo asmé sváyaśobhir ūtī́  
-parivargá índaro+ durmatīnã́ṃ  
-dárīman durmatīnã́m  
-svayáṃ sā́ riṣayádhyai  
-yā́ na upeṣé atraíḥ  
-hatém asan ná vakṣati  
-kṣiptā́ jūrṇír ná vakṣati  
+प्र꣡-प्रा वो अस्मे꣡ स्व꣡यशोभिर् ऊती꣡  
+परिवर्ग꣡ इ꣡न्दरो+ दुर्मतीन्ãं꣡  
+द꣡रीमन् दुर्मतीन्ã꣡म्  
+स्वयं꣡ सा꣡ रिषय꣡ध्यै  
+या꣡ न उपेषे꣡ अत्रइः꣡  
+हते꣡म् असन् न꣡ वक्षति  
+क्षिप्ता꣡ जूर्णि꣡र् न꣡ वक्षति  

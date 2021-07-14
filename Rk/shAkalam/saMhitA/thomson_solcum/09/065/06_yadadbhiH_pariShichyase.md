@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-yád adbhíḥ pariṣicyáse  
-mr̥jyámāno gábhastiyoḥ  
-drúṇā sadhástham aśnuṣe  
+य꣡द् अद्भिः꣡ परिषिच्य꣡से  
+मृज्य꣡मानो ग꣡भस्तियोः  
+द्रु꣡णा सध꣡स्थम् अश्नुषे  

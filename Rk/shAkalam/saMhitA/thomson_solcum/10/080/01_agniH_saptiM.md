@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-agníḥ sáptiṃ vājambharáṃ dadāti  
-agnír vīráṃ śrútiyaṃ karmaniṣṭhā́m  
-agnī́ ródasī ví carat samañjánn  
-agnír nā́rīṃ vīrákukṣim púraṃdhim  
+अग्निः꣡ स꣡प्तिं वाजम्भरं꣡ ददाति  
+अग्नि꣡र् वीरं꣡ श्रु꣡तियं कर्मनिष्ठा꣡म्  
+अग्नी꣡ रो꣡दसी वि꣡ चरत् समञ्ज꣡न्न्  
+अग्नि꣡र् ना꣡रीं वीर꣡कुक्षिम् पु꣡रंधिम्  

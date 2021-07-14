@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-toké hité tánaya urvárāsu  
-sū́ro dŕ̥śīke vŕ̥ṣaṇaś ca paúṃsye  
-índrā no átra váruṇā siyātām  
-ávobhir dasmā́ páritakmiyāyām  
+तोके꣡ हिते꣡ त꣡नय उर्व꣡रासु  
+सू꣡रो द्ŕ̥शीके व्ŕ̥षणश् च पउं꣡स्ये  
+इ꣡न्द्रा नो अ꣡त्र व꣡रुणा सियाताम्  
+अ꣡वोभिर् दस्मा꣡ प꣡रितक्मियायाम्  

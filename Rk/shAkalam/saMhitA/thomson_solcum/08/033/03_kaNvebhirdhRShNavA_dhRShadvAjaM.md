@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-káṇvebhir dhr̥ṣṇav ā́ dhr̥ṣád  
-vā́jaṃ darṣi sahasríṇam  
-piśáṅgarūpam maghavan vicarṣaṇe  
-makṣū́ gómantam īmahe  
+क꣡ण्वेभिर् धृष्णव् आ꣡ धृष꣡द्  
+वा꣡जं दर्षि सहस्रि꣡णम्  
+पिश꣡ङ्गरूपम् मघवन् विचर्षणे  
+मक्षू꣡ गो꣡मन्तम् ईमहे  

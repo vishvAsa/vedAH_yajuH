@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-ádhārayanta váhnayo  
-ábhajanta sukr̥tyáyā  
-bhāgáṃ devéṣu yajñíyam  
+अ꣡धारयन्त व꣡ह्नयो  
+अ꣡भजन्त सुकृत्य꣡या  
+भागं꣡ देवे꣡षु यज्ञि꣡यम्  

@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-ākenipā́so áhabhir dávidhvataḥ  
-súvar ṇá śukráṃ tanuvánta ā́ rájaḥ  
-sū́raś cid áśvān yuyujāná īyate  
-víśvām̐ ánu svadháyā cetathas patháḥ  
+आकेनिपा꣡सो अ꣡हभिर् द꣡विध्वतः  
+सु꣡वर् ण꣡ शुक्रं꣡ तनुव꣡न्त आ꣡ र꣡जः  
+सू꣡रश् चिद् अ꣡श्वान् युयुजान꣡ ईयते  
+वि꣡श्वाँ अ꣡नु स्वध꣡या चेतथस् पथः꣡  

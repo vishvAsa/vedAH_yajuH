@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-vidmā́ hí tvā vŕ̥ṣantamaṃ  
-vā́jeṣu havanaśrútam  
-vŕ̥ṣantamasya hūmaha  
-ūtíṃ sahasrasā́tamām  
+विद्मा꣡ हि꣡ त्वा व्ŕ̥षन्तमं  
+वा꣡जेषु हवनश्रु꣡तम्  
+व्ŕ̥षन्तमस्य हूमह  
+ऊतिं꣡ सहस्रसा꣡तमाम्  

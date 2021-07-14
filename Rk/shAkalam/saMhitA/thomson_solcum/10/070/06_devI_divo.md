@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-devī́ divó duhitárā suśilpé  
-uṣā́sānáktā sadatāṃ ní yónau  
-ā́ vāṃ devā́sa uśatī uśánta  
-uraú sīdantu subhage upásthe  
+देवी꣡ दिवो꣡ दुहित꣡रा सुशिल्पे꣡  
+उषा꣡सान꣡क्ता सदतां नि꣡ यो꣡नौ  
+आ꣡ वां देवा꣡स उशती उश꣡न्त  
+उरउ꣡ सीदन्तु सुभगे उप꣡स्थे  

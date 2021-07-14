@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-táṃ śagmā́so · aruṣā́so áśvā  
-bŕ̥haspátiṃ sahavā́ho vahanti  
-sáhaś cid yásya nī́lavat sadhásthaṃ  
-nábho ná rūpám aruṣáṃ vásānāḥ  
+तं꣡ शग्मा꣡सो · अरुषा꣡सो अ꣡श्वा  
+ब्ŕ̥हस्प꣡तिं सहवा꣡हो वहन्ति  
+स꣡हश् चिद् य꣡स्य नी꣡लवत् सध꣡स्थं  
+न꣡भो न꣡ रूप꣡म् अरुषं꣡ व꣡सानाः  

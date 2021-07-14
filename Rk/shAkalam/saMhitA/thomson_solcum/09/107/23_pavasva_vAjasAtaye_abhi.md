@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-pávasva vā́jasātaye  
-abhí víśvāni kā́viyā  
-tuváṃ samudrám prathamó ví dhārayo  
-devébhyaḥ soma matsaráḥ  
+प꣡वस्व वा꣡जसातये  
+अभि꣡ वि꣡श्वानि का꣡विया  
+तुवं꣡ समुद्र꣡म् प्रथमो꣡ वि꣡ धारयो  
+देवे꣡भ्यः सोम मत्सरः꣡  

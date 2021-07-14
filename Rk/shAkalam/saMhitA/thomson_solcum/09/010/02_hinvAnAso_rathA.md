@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-hinvānā́so ráthā iva  
-dadhanviré gábhastiyoḥ  
-bhárāsaḥ kāríṇām iva  
+हिन्वाना꣡सो र꣡था इव  
+दधन्विरे꣡ ग꣡भस्तियोः  
+भ꣡रासः कारि꣡णाम् इव  

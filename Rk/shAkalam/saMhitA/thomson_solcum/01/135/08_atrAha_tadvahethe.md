@@ -2,9 +2,9 @@
 title = "008"
 
 +++
-átrā́ha tád vahethe mádhva ā́hutiṃ  
-yám aśvatthám upatíṣṭhanta jāyávo  
-asmé té santu jāyávaḥ  
-sākáṃ gā́vaḥ súvate pácyate yávo  
-ná te vāya úpa dasyanti dhenávo  
-nā́pa dasyanti dhenávaḥ  
+अ꣡त्रा꣡ह त꣡द् वहेथे म꣡ध्व आ꣡हुतिं  
+य꣡म् अश्वत्थ꣡म् उपति꣡ष्ठन्त जाय꣡वो  
+अस्मे꣡ ते꣡ सन्तु जाय꣡वः  
+साकं꣡ गा꣡वः सु꣡वते प꣡च्यते य꣡वो  
+न꣡ ते वाय उ꣡प दस्यन्ति धेन꣡वो  
+ना꣡प दस्यन्ति धेन꣡वः  

@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-subráhmāṇaṃ devávantam br̥hántam  
-urúṃ gabhīrám pr̥thúbudhnam indra  
-śrutárṣim° ugrám abhimātiṣā́ham  
-asmábhyaṃ citráṃ vŕ̥ṣaṇaṃ rayíṃ dāḥ  
+सुब्र꣡ह्माणं देव꣡वन्तम् बृह꣡न्तम्  
+उरुं꣡ गभीर꣡म् पृथु꣡बुध्नम् इन्द्र  
+श्रुत꣡र्षिम्° उग्र꣡म् अभिमातिषा꣡हम्  
+अस्म꣡भ्यं चित्रं꣡ व्ŕ̥षणं रयिं꣡ दाः  

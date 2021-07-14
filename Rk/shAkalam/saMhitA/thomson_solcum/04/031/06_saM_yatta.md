@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-sáṃ yát ta indra manyávaḥ  
-sáṃ cakrā́ṇi dadhanviré  
-ádha tvé ádha sū́riye  
+सं꣡ य꣡त् त इन्द्र मन्य꣡वः  
+सं꣡ चक्रा꣡णि दधन्विरे꣡  
+अ꣡ध त्वे꣡ अ꣡ध सू꣡रिये  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-asyá preṣā́ hemánā pūyámāno  
-devó devébhiḥ sám apr̥kta rásam  
-sutáḥ pavítram pári eti rébhan  
-mitéva sádma paśumā́nti hótā  
+अस्य꣡ प्रेषा꣡ हेम꣡ना पूय꣡मानो  
+देवो꣡ देवे꣡भिः स꣡म् अपृक्त र꣡सम्  
+सुतः꣡ पवि꣡त्रम् प꣡रि एति रे꣡भन्  
+मिते꣡व स꣡द्म पशुमा꣡न्ति हो꣡ता  

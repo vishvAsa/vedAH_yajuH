@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-út te váyaś cid vasatér apaptan  
-náraś ca yé pitubhā́jo víuṣṭau  
-amā́ saté vahasi bhū́ri vāmám  
-úṣo devi dāśúṣe mártiyāya  
+उ꣡त् ते व꣡यश् चिद् वसते꣡र् अपप्तन्  
+न꣡रश् च ये꣡ पितुभा꣡जो वि꣡उष्टौ  
+अमा꣡ सते꣡ वहसि भू꣡रि वाम꣡म्  
+उ꣡षो देवि दाशु꣡षे म꣡र्तियाय  

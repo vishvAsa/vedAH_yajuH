@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-mahā́nto mahnā́ vibhúvo víbhūtayo  
-dūredŕ̥śo yé diviyā́ iva stŕ̥bhiḥ  
-mandrā́ḥ sujihvā́ḥ sváritāra āsábhiḥ  
-sámmiślā índre marútaḥ pariṣṭúbhaḥ  
+महा꣡न्तो मह्ना꣡ विभु꣡वो वि꣡भूतयो  
+दूरेद्ŕ̥शो ये꣡ दिविया꣡ इव स्त्ŕ̥भिः  
+मन्द्राः꣡ सुजिह्वाः꣡ स्व꣡रितार आस꣡भिः  
+स꣡म्मिश्ला इ꣡न्द्रे मरु꣡तः परिष्टु꣡भः  

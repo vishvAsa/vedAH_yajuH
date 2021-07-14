@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-yád áśvasya kravíṣo mákṣikā́śa  
-yád vā svárau svádhitau riptám ásti  
-yád dhástayoḥ śamitúr yán nakhéṣu  
-sárvā tā́ te ápi devéṣu astu  
+य꣡द् अ꣡श्वस्य क्रवि꣡षो म꣡क्षिका꣡श  
+य꣡द् वा स्व꣡रौ स्व꣡धितौ रिप्त꣡म् अ꣡स्ति  
+य꣡द् ध꣡स्तयोः शमितु꣡र् य꣡न् नखे꣡षु  
+स꣡र्वा ता꣡ ते अ꣡पि देवे꣡षु अस्तु  

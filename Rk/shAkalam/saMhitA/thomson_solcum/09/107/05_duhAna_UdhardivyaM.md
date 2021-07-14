@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-duhāná ū́dhar diviyám mádhu priyám  
-pratnáṃ sadhástham ā́sadat  
-āpŕ̥chiyaṃ dharúṇaṃ vājī́ arṣati  
-nŕ̥bhir dhūtó vicakṣaṇáḥ  
+दुहान꣡ ऊ꣡धर् दिविय꣡म् म꣡धु प्रिय꣡म्  
+प्रत्नं꣡ सध꣡स्थम् आ꣡सदत्  
+आप्ŕ̥छियं धरु꣡णं वाजी꣡ अर्षति  
+न्ŕ̥भिर् धूतो꣡ विचक्षणः꣡  

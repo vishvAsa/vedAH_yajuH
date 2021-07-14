@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yó ha syá vāṃ rathirā vásta usrā́  
-rátho yujānáḥ pariyā́ti vartíḥ  
-téna naḥ śáṃ yór uṣáso víuṣṭau  
-ní aśvinā vahataṃ yajñé asmín  
+यो꣡ ह स्य꣡ वां रथिरा व꣡स्त उस्रा꣡  
+र꣡थो युजानः꣡ परिया꣡ति वर्तिः꣡  
+ते꣡न नः शं꣡ यो꣡र् उष꣡सो वि꣡उष्टौ  
+नि꣡ अश्विना वहतं यज्ञे꣡ अस्मि꣡न्  

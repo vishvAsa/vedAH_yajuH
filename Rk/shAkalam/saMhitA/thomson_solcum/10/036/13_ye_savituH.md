@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yé savitúḥ satyásavasya víśve  
-mitrásya vraté váruṇasya devā́ḥ  
-té saúbhagaṃ vīrávad gómad ápno  
-dádhātana dráviṇaṃ citrám asmé  
+ये꣡ सवितुः꣡ सत्य꣡सवस्य वि꣡श्वे  
+मित्र꣡स्य व्रते꣡ व꣡रुणस्य देवाः꣡  
+ते꣡ सउ꣡भगं वीर꣡वद् गो꣡मद् अ꣡प्नो  
+द꣡धातन द्र꣡विणं चित्र꣡म् अस्मे꣡  

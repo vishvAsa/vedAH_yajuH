@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yásya mā haríto ráthe  
-tisró váhanti sādhuyā́  
-stávai sahásradakṣiṇe  
+य꣡स्य मा हरि꣡तो र꣡थे  
+तिस्रो꣡ व꣡हन्ति साधुया꣡  
+स्त꣡वै सह꣡स्रदक्षिणे  

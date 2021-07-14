@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índra yás te návīyasīṃ  
-gíram mandrā́m ájījanat  
-cikitvínmanasaṃ dhíyam  
-pratnā́m r̥tásya pipyúṣīm  
+इ꣡न्द्र य꣡स् ते न꣡वीयसीं  
+गि꣡रम् मन्द्रा꣡म् अ꣡जीजनत्  
+चिकित्वि꣡न्मनसं धि꣡यम्  
+प्रत्ना꣡म् ऋत꣡स्य पिप्यु꣡षीम्  

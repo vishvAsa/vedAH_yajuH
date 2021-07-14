@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-áti vā yó maruto mányate no  
-bráhma vā yáḥ kriyámāṇaṃ nínitsāt  
-tápūṃṣi tásmai vr̥jinā́ni santu  
-brahmadvíṣam abhí táṃ śocatu dyaúḥ  
+अ꣡ति वा यो꣡ मरुतो म꣡न्यते नो  
+ब्र꣡ह्म वा यः꣡ क्रिय꣡माणं नि꣡नित्सात्  
+त꣡पूंषि त꣡स्मै वृजिना꣡नि सन्तु  
+ब्रह्मद्वि꣡षम् अभि꣡ तं꣡ शोचतु द्यउः꣡  

@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-matī́ juṣṭó dhiyā́ hitáḥ  
-sómo hinve parāváti  
-víprasya dhā́rayā kavíḥ  
+मती꣡ जुष्टो꣡ धिया꣡ हितः꣡  
+सो꣡मो हिन्वे पराव꣡ति  
+वि꣡प्रस्य धा꣡रया कविः꣡  

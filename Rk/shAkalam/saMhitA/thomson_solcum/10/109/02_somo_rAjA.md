@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sómo rā́jā prathamó brahmajāyā́m  
-púnaḥ prā́yachad áhr̥ṇīyamānaḥ  
-anvartitā́ váruṇo mitrá āsīd  
-agnír hótā hastagŕ̥hyā́ nināya  
+सो꣡मो रा꣡जा प्रथमो꣡ ब्रह्मजाया꣡म्  
+पु꣡नः प्रा꣡यछद् अ꣡हृणीयमानः  
+अन्वर्तिता꣡ व꣡रुणो मित्र꣡ आसीद्  
+अग्नि꣡र् हो꣡ता हस्तग्ŕ̥ह्या꣡ निनाय  

@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-índra śaviṣṭha satpate  
-rayíṃ gr̥ṇátsu dhāraya  
-śrávaḥ sūríbhyo amŕ̥taṃ vasutvanám  
+इ꣡न्द्र शविष्ठ सत्पते  
+रयिं꣡ गृण꣡त्सु धारय  
+श्र꣡वः सूरि꣡भ्यो अम्ŕ̥तं वसुत्वन꣡म्  

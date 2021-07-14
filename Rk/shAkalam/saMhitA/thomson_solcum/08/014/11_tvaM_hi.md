@@ -2,6 +2,6 @@
 title = "011"
 
 +++
-tuváṃ hí stomavárdhana  
-índrā́si ukthavárdhanaḥ  
-stotr̥̄ṇā́m utá bhadrakŕ̥t  
+तुवं꣡ हि꣡ स्तोमव꣡र्धन  
+इ꣡न्द्रा꣡सि उक्थव꣡र्धनः  
+स्तोतॄणा꣡म् उत꣡ भद्रक्ŕ̥त्  

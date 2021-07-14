@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-víprebhir vipra santiya  
-prātaryā́vabhir ā́ gahi  
-devébhiḥ sómapītaye  
+वि꣡प्रेभिर् विप्र सन्तिय  
+प्रातर्या꣡वभिर् आ꣡ गहि  
+देवे꣡भिः सो꣡मपीतये  

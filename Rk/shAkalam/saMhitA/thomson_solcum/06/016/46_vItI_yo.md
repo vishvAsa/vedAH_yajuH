@@ -2,7 +2,7 @@
 title = "046"
 
 +++
-vītī́ yó devám márto duvasyéd  
-agním īḷīta adhvaré havíṣmān  
-hótāraṃ satyayájaṃ ródasīyor  
-uttānáhasto námasā́ vivāset  
+वीती꣡ यो꣡ देव꣡म् म꣡र्तो दुवस्ये꣡द्  
+अग्नि꣡म् ईऌईत अध्वरे꣡ हवि꣡ष्मान्  
+हो꣡तारं सत्यय꣡जं रो꣡दसीयोर्  
+उत्तान꣡हस्तो न꣡मसा꣡ विवासेत्  

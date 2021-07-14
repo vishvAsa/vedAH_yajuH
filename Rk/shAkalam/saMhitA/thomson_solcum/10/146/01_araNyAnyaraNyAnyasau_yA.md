@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-áraṇyāni áraṇyāni  
-asaú yā́ préva náśyasi  
-kathā́ grā́maṃ ná pr̥chasi  
-ná tvā bhī́r 'va° vindatī3m̐  
+अ꣡रण्यानि अ꣡रण्यानि  
+असउ꣡ या꣡ प्रे꣡व न꣡श्यसि  
+कथा꣡ ग्रा꣡मं न꣡ पृछसि  
+न꣡ त्वा भी꣡र् ऽव° विन्दती३ँ  

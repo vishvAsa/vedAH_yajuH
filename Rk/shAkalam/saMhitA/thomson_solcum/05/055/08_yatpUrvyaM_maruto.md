@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yát pūrviyám maruto yác ca nū́tanaṃ  
-yád udyáte vasavo yác ca śasyáte  
-víśvasya tásya bhavathā návedasaḥ  
-śúbhaṃ yātā́m ánu ráthā avr̥tsata  
+य꣡त् पूर्विय꣡म् मरुतो य꣡च् च नू꣡तनं  
+य꣡द् उद्य꣡ते वसवो य꣡च् च शस्य꣡ते  
+वि꣡श्वस्य त꣡स्य भवथा न꣡वेदसः  
+शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत  

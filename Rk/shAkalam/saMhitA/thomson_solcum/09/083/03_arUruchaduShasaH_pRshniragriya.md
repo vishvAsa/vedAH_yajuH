@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-árūrucad uṣásaḥ pŕ̥śnir agriyá  
-ukṣā́ bibharti bhúvanāni vājayúḥ  
-māyāvíno mamire asya māyáyā  
-nr̥cákṣasaḥ pitáro gárbham ā́ dadhuḥ  
+अ꣡रूरुचद् उष꣡सः प्ŕ̥श्निर् अग्रिय꣡  
+उक्षा꣡ बिभर्ति भु꣡वनानि वाजयुः꣡  
+मायावि꣡नो ममिरे अस्य माय꣡या  
+नृच꣡क्षसः पित꣡रो ग꣡र्भम् आ꣡ दधुः  

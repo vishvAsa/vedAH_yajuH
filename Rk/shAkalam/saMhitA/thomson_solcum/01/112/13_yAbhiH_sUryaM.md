@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-yā́bhiḥ sū́ryam pariyātháḥ parāváti  
-mandhātā́raṃ kṣaítrapatyeṣu ā́vatam  
-yā́bhir vípram prá bharádvājam ā́vataṃ  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+या꣡भिः सू꣡र्यम् परियाथः꣡ पराव꣡ति  
+मन्धाता꣡रं क्षइ꣡त्रपत्येषु आ꣡वतम्  
+या꣡भिर् वि꣡प्रम् प्र꣡ भर꣡द्वाजम् आ꣡वतं  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

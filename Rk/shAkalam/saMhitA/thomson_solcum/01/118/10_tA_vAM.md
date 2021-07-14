@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-tā́ vāṃ narā sú ávase sujātā́  
-hávāmahe aśvinā nā́dhamānāḥ  
-ā́ na úpa vásumatā ráthena  
-gíro juṣāṇā́ suvitā́ya yātam  
+ता꣡ वां नरा सु꣡ अ꣡वसे सुजाता꣡  
+ह꣡वामहे अश्विना ना꣡धमानाः  
+आ꣡ न उ꣡प व꣡सुमता र꣡थेन  
+गि꣡रो जुषाणा꣡ सुविता꣡य यातम्  

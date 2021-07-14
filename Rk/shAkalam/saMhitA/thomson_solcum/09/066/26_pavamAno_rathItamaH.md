@@ -2,6 +2,6 @@
 title = "026"
 
 +++
-pávamāno rathī́tamaḥ  
-śubhrébhiḥ śubhráśastamaḥ  
-háriścandro marúdgaṇaḥ  
+प꣡वमानो रथी꣡तमः  
+शुभ्रे꣡भिः शुभ्र꣡शस्तमः  
+ह꣡रिश्चन्द्रो मरु꣡द्गणः  

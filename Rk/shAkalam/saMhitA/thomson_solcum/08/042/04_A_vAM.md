@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ā́ vāṃ grā́vāṇo aśvinā  
-dhībhír víprā acucyavuḥ  
-nā́satyā sómapītaye  
-nábhantām anyaké same  
+आ꣡ वां ग्रा꣡वाणो अश्विना  
+धीभि꣡र् वि꣡प्रा अचुच्यवुः  
+ना꣡सत्या सो꣡मपीतये  
+न꣡भन्ताम् अन्यके꣡ समे  

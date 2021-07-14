@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-utá syā́ vām mádhuman mákṣikārapan  
-máde sómasya auśijó huvanyati  
-yuváṃ dadhīcó mána ā́ vivāsatho  
-áthā śíraḥ práti vām áśviyaṃ vadat  
+उत꣡ स्या꣡ वाम् म꣡धुमन् म꣡क्षिकारपन्  
+म꣡दे सो꣡मस्य औशिजो꣡ हुवन्यति  
+युवं꣡ दधीचो꣡ म꣡न आ꣡ विवासथो  
+अ꣡था शि꣡रः प्र꣡ति वाम् अ꣡श्वियं वदत्  

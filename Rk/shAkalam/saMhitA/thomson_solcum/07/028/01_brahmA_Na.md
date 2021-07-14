@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-bráhmā ṇa indra úpa yāhi vidvā́n  
-arvā́ñcas te hárayaḥ santu yuktā́ḥ  
-víśve cid dhí tvā vihávanta mártā  
-asmā́kam íc chr̥ṇuhi viśvaminva  
+ब्र꣡ह्मा ण इन्द्र उ꣡प याहि विद्वा꣡न्  
+अर्वा꣡ञ्चस् ते ह꣡रयः सन्तु युक्ताः꣡  
+वि꣡श्वे चिद् धि꣡ त्वा विह꣡वन्त म꣡र्ता  
+अस्मा꣡कम् इ꣡च् छृणुहि विश्वमिन्व  

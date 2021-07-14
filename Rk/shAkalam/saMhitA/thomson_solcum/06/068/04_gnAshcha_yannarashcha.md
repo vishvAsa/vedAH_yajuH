@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-gnã́ś ca yán náraś ca vāvr̥dhánta  
-víśve devā́so narã́ṃ svágūrtāḥ  
-prá ebhya indrāvaruṇā mahitvā́  
-diyaúś ca · pr̥thivi bhūtam urvī́  
+ग्न्ã꣡श् च य꣡न् न꣡रश् च वावृध꣡न्त  
+वि꣡श्वे देवा꣡सो नर्ãं꣡ स्व꣡गूर्ताः  
+प्र꣡ एभ्य इन्द्रावरुणा महित्वा꣡  
+दियउ꣡श् च · पृथिवि भूतम् उर्वी꣡  

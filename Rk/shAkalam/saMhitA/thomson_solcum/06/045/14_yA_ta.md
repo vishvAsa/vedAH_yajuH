@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-yā́ ta ūtír amitrahan  
-makṣū́javastamā́sati  
-táyā no hinuhī rátham  
+या꣡ त ऊति꣡र् अमित्रहन्  
+मक्षू꣡जवस्तमा꣡सति  
+त꣡या नो हिनुही र꣡थम्  

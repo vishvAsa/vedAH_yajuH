@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-sá ín nú rāyáḥ súbhr̥tasya cākanan  
-mádaṃ yó asya ráṃhiyaṃ cíketati  
-tuvā́vr̥dho maghavan dāśúadhvaro  
-makṣū́ sá vā́jam bharate dhánā nŕ̥bhiḥ  
+स꣡ इ꣡न् नु꣡ रायः꣡ सु꣡भृतस्य चाकनन्  
+म꣡दं यो꣡ अस्य रं꣡हियं चि꣡केतति  
+तुवा꣡वृधो मघवन् दाशु꣡अध्वरो  
+मक्षू꣡ स꣡ वा꣡जम् भरते ध꣡ना न्ŕ̥भिः  

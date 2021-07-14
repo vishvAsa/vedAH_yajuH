@@ -2,8 +2,8 @@
 title = "004"
 
 +++
-krátvā mahā́m̐ anuṣvadhám  
-bhīmá ā́ vāvr̥dhe śávaḥ  
-śriyá r̥ṣvá upākáyor  
-ní śiprī́ hárivān dadhe  
-hástayor vájram āyasám  
+क्र꣡त्वा महाँ꣡ अनुष्वध꣡म्  
+भीम꣡ आ꣡ वावृधे श꣡वः  
+श्रिय꣡ ऋष्व꣡ उपाक꣡योर्  
+नि꣡ शिप्री꣡ ह꣡रिवान् दधे  
+ह꣡स्तयोर् व꣡ज्रम् आयस꣡म्  

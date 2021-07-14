@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-trír vartír yātaṃ trír ánuvrate jané  
-tríḥ suprāvíye trẽdhéva śikṣatam  
-trír nāndíyaṃ vahatam aśvinā yuváṃ  
-tríḥ pŕ̥kṣo asmé akṣáreva pinvatam  
+त्रि꣡र् वर्ति꣡र् यातं त्रि꣡र् अ꣡नुव्रते जने꣡  
+त्रिः꣡ सुप्रावि꣡ये त्र्ẽधे꣡व शिक्षतम्  
+त्रि꣡र् नान्दि꣡यं वहतम् अश्विना युवं꣡  
+त्रिः꣡ प्ŕ̥क्षो अस्मे꣡ अक्ष꣡रेव पिन्वतम्  

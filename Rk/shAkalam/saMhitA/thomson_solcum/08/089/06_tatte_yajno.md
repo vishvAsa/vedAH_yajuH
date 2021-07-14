@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-tát te yajñó ajāyata  
-tád arká utá háskr̥tiḥ  
-tád víśvam abhibhū́r asi  
-yáj jātáṃ yác ca jántuvam  
+त꣡त् ते यज्ञो꣡ अजायत  
+त꣡द् अर्क꣡ उत꣡ ह꣡स्कृतिः  
+त꣡द् वि꣡श्वम् अभिभू꣡र् असि  
+य꣡ज् जातं꣡ य꣡च् च ज꣡न्तुवम्  

@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-samānáyojano hí vāṃ  
-rátho dasrāv ámartiyaḥ  
-samudré aśvinéyate  
+समान꣡योजनो हि꣡ वां  
+र꣡थो दस्राव् अ꣡मर्तियः  
+समुद्रे꣡ अश्विने꣡यते  

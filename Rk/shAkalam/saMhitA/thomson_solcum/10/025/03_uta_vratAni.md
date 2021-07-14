@@ -2,9 +2,9 @@
 title = "003"
 
 +++
-utá vratā́ni soma te  
-prā́hám mināmi pākíyā  
-ádhā pitéva sūnáve  
-ví vo máde  
-mr̥̄ḷā́+ no abhí cid vadhā́d  
-vívakṣase  
+उत꣡ व्रता꣡नि सोम ते  
+प्रा꣡ह꣡म् मिनामि पाकि꣡या  
+अ꣡धा पिते꣡व सून꣡वे  
+वि꣡ वो म꣡दे  
+मॄऌआ꣡+ नो अभि꣡ चिद् वधा꣡द्  
+वि꣡वक्षसे  

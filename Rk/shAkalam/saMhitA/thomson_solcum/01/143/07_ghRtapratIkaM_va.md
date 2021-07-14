@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ghr̥tápratīkaṃ va r̥tásya dhūrṣádam  
-agním mitráṃ ná samidhāná r̥ñjate  
-índhāno akró vidátheṣu dī́diyac  
-chukrávarṇām úd u no yaṃsate dhíyam  
+घृत꣡प्रतीकं व ऋत꣡स्य धूर्ष꣡दम्  
+अग्नि꣡म् मित्रं꣡ न꣡ समिधान꣡ ऋञ्जते  
+इ꣡न्धानो अक्रो꣡ विद꣡थेषु दी꣡दियच्  
+छुक्र꣡वर्णाम् उ꣡द् उ नो यंसते धि꣡यम्  

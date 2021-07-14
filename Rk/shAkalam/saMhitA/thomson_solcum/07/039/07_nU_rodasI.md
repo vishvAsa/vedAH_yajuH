@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-nū́ ródasī abhíṣṭute vásiṣṭhair  
-r̥tā́vāno váruṇo mitró agníḥ  
-yáchantu candrā́ upamáṃ no arkáṃ  
-yūyám pāta suastíbhiḥ sádā naḥ  
+नू꣡ रो꣡दसी अभि꣡ष्टुते व꣡सिष्ठैर्  
+ऋता꣡वानो व꣡रुणो मित्रो꣡ अग्निः꣡  
+य꣡छन्तु चन्द्रा꣡ उपमं꣡ नो अर्कं꣡  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

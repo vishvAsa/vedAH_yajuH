@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-candrám agníṃ candrárathaṃ hárivrataṃ  
-vaiśvānarám apsuṣádaṃ suvarvídam  
-vigāháṃ tū́rṇiṃ táviṣībhir ā́vr̥tam  
-bhū́rṇiṃ devā́sa ihá suśríyaṃ dadhuḥ  
+चन्द्र꣡म् अग्निं꣡ चन्द्र꣡रथं ह꣡रिव्रतं  
+वैश्वानर꣡म् अप्सुष꣡दं सुवर्वि꣡दम्  
+विगाहं꣡ तू꣡र्णिं त꣡विषीभिर् आ꣡वृतम्  
+भू꣡र्णिं देवा꣡स इह꣡ सुश्रि꣡यं दधुः  

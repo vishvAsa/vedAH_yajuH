@@ -2,6 +2,6 @@
 title = "008"
 
 +++
-nū́ návyase návīyase  
-sūktā́ya sādhayā patháḥ  
-pratnavád rocayā rúcaḥ  
+नू꣡ न꣡व्यसे न꣡वीयसे  
+सूक्ता꣡य साधया पथः꣡  
+प्रत्नव꣡द् रोचया रु꣡चः  

@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-ádadā árbhām mahaté vacasyáve  
-kakṣī́vate vr̥cayā́m indra sunvaté  
-ménābhavo vr̥ṣaṇaśvásya sukrato  
-víśvét tā́ te sávaneṣu pravā́ciyā  
+अ꣡ददा अ꣡र्भाम् महते꣡ वचस्य꣡वे  
+कक्षी꣡वते वृचया꣡म् इन्द्र सुन्वते꣡  
+मे꣡नाभवो वृषणश्व꣡स्य सुक्रतो  
+वि꣡श्वे꣡त् ता꣡ ते स꣡वनेषु प्रवा꣡चिया  

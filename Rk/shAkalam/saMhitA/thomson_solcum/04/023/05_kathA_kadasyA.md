@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-kathā́ kád asyā́ uṣáso víuṣṭau  
-devó mártasya sakhiyáṃ jujoṣa  
-kathā́ kád asya sakhiyáṃ sákhibhyo  
-yé asmin kā́maṃ suyújaṃ tatasré  
+कथा꣡ क꣡द् अस्या꣡ उष꣡सो वि꣡उष्टौ  
+देवो꣡ म꣡र्तस्य सखियं꣡ जुजोष  
+कथा꣡ क꣡द् अस्य सखियं꣡ स꣡खिभ्यो  
+ये꣡ अस्मिन् का꣡मं सुयु꣡जं ततस्रे꣡  

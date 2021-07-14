@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-práiddho agne dīdihi puró no  
-ájasrayā suūrmíyā yaviṣṭha  
-tuvā́ṃ śáśvanta úpa yanti vā́jāḥ  
+प्र꣡इद्धो अग्ने दीदिहि पुरो꣡ नो  
+अ꣡जस्रया सुऊर्मि꣡या यविष्ठ  
+तुवां꣡ श꣡श्वन्त उ꣡प यन्ति वा꣡जाः  

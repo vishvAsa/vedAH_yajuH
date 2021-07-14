@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-sá pū́rvayā nivídā kavyátāyór  
-imā́ḥ prajā́ ajanayan mánūnām  
-vivásvatā cákṣasā dyā́m apáś ca  
-devā́ agníṃ dhārayan draviṇodā́m  
+स꣡ पू꣡र्वया निवि꣡दा कव्य꣡तायो꣡र्  
+इमाः꣡ प्रजा꣡ अजनयन् म꣡नूनाम्  
+विव꣡स्वता च꣡क्षसा द्या꣡म् अप꣡श् च  
+देवा꣡ अग्निं꣡ धारयन् द्रविणोदा꣡म्  

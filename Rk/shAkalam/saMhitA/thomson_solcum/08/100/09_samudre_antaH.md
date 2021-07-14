@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-samudré antáḥ śayata  
-udnā́ vájro abhī́vr̥taḥ  
-bháranti asmai saṃyátaḥ  
-puráḥprasravaṇā balím  
+समुद्रे꣡ अन्तः꣡ शयत  
+उद्ना꣡ व꣡ज्रो अभी꣡वृतः  
+भ꣡रन्ति अस्मै संय꣡तः  
+पुरः꣡प्रस्रवणा बलि꣡म्  

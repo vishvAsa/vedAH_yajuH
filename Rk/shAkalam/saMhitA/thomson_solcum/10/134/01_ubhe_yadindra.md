@@ -2,9 +2,9 @@
 title = "001"
 
 +++
-ubhé yád indra ródasī  
-āpaprā́tha uṣā́ iva  
-mahā́ntaṃ tvā mahī́nãṃ  
-samrā́jaṃ carṣaṇīnã́ṃ  
-devī́ jánitry ajījanad  
-bhadrā́ jánitry ajījanat  
+उभे꣡ य꣡द् इन्द्र रो꣡दसी  
+आपप्रा꣡थ उषा꣡ इव  
+महा꣡न्तं त्वा मही꣡न्ãं  
+सम्रा꣡जं चर्षणीन्ãं꣡  
+देवी꣡ ज꣡नित्र्य् अजीजनद्  
+भद्रा꣡ ज꣡नित्र्य् अजीजनत्  

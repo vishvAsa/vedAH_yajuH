@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-asyá vīrásya barhíṣi  
-sutáḥ sómo díviṣṭiṣu  
-ukthám mádaś ca śasyate  
+अस्य꣡ वीर꣡स्य बर्हि꣡षि  
+सुतः꣡ सो꣡मो दि꣡विष्टिषु  
+उक्थ꣡म् म꣡दश् च शस्यते  

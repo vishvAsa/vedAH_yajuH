@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yás tvád dhótā pū́rvo agne yájīyān  
-dvitā́ ca sáttā svadháyā ca śambhúḥ  
-tásyā́nu dhárma prá yajā cikitvo  
-átha no dhā adhvaráṃ devávītau  
+य꣡स् त्व꣡द् धो꣡ता पू꣡र्वो अग्ने य꣡जीयान्  
+द्विता꣡ च स꣡त्ता स्वध꣡या च शम्भुः꣡  
+त꣡स्या꣡नु ध꣡र्म प्र꣡ यजा चिकित्वो  
+अ꣡थ नो धा अध्वरं꣡ देव꣡वीतौ  

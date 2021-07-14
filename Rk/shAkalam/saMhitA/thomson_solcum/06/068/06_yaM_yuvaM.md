@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yáṃ yuváṃ dāśúadhvarāya devā  
-rayíṃ dhatthó vásumantam purukṣúm  
-asmé sá indrāvaruṇāv ápi ṣyāt  
-prá yó bhanákti vanúṣām áśastīḥ  
+यं꣡ युवं꣡ दाशु꣡अध्वराय देवा  
+रयिं꣡ धत्थो꣡ व꣡सुमन्तम् पुरुक्षु꣡म्  
+अस्मे꣡ स꣡ इन्द्रावरुणाव् अ꣡पि ष्यात्  
+प्र꣡ यो꣡ भन꣡क्ति वनु꣡षाम् अ꣡शस्तीः  

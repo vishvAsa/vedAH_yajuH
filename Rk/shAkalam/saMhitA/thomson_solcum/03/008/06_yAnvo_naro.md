@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-yā́n vo náro devayánto nimimyúr  
-vánaspate svádhitir vā tatákṣa  
-té devā́saḥ sváravas tasthivā́ṃsaḥ  
-prajā́vad asmé didhiṣantu rátnam  
+या꣡न् वो न꣡रो देवय꣡न्तो निमिम्यु꣡र्  
+व꣡नस्पते स्व꣡धितिर् वा तत꣡क्ष  
+ते꣡ देवा꣡सः स्व꣡रवस् तस्थिवां꣡सः  
+प्रजा꣡वद् अस्मे꣡ दिधिषन्तु र꣡त्नम्  

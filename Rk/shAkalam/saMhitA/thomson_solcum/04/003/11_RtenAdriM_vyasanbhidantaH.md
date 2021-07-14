@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-r̥téna ádriṃ ví asan bhidántaḥ  
-sám áṅgiraso navanta góbhiḥ  
-śunáṃ náraḥ pári ṣadann uṣā́sam  
-āvíḥ súvar abhavaj jāté agnaú  
+ऋते꣡न अ꣡द्रिं वि꣡ असन् भिद꣡न्तः  
+स꣡म् अ꣡ङ्गिरसो नवन्त गो꣡भिः  
+शुनं꣡ न꣡रः प꣡रि षदन्न् उषा꣡सम्  
+आविः꣡ सु꣡वर् अभवज् जाते꣡ अग्नउ꣡  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yád indrāgnī mádathaḥ své duroṇé  
-yád brahmáṇi rā́jani vā yajatrā  
-átaḥ pári vr̥ṣaṇāv ā́ hí yātám  
-áthā sómasya pibataṃ sutásya  
+य꣡द् इन्द्राग्नी म꣡दथः स्वे꣡ दुरोणे꣡  
+य꣡द् ब्रह्म꣡णि रा꣡जनि वा यजत्रा  
+अ꣡तः प꣡रि वृषणाव् आ꣡ हि꣡ यात꣡म्  
+अ꣡था सो꣡मस्य पिबतं सुत꣡स्य  

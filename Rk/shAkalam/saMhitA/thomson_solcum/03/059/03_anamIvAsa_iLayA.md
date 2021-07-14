@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-anamīvā́sa íḷayā mádanto  
-mitájñavo várimann ā́ pr̥thivyā́ḥ  
-ādityásya vratám upakṣiyánto  
-vayám mitrásya sumataú siyāma  
+अनमीवा꣡स इ꣡ऌअया म꣡दन्तो  
+मित꣡ज्ञवो व꣡रिमन्न् आ꣡ पृथिव्याः꣡  
+आदित्य꣡स्य व्रत꣡म् उपक्षिय꣡न्तो  
+वय꣡म् मित्र꣡स्य सुमतउ꣡ सियाम  

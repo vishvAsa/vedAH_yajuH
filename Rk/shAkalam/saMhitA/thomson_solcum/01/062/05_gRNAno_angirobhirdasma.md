@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-gr̥ṇānó áṅgirobhir dasma ví var  
-uṣásā sū́riyeṇa góbhir ándhaḥ  
-ví bhū́myā aprathaya indra sā́nu  
-divó rája úparam astabhāyaḥ  
+गृणानो꣡ अ꣡ङ्गिरोभिर् दस्म वि꣡ वर्  
+उष꣡सा सू꣡रियेण गो꣡भिर् अ꣡न्धः  
+वि꣡ भू꣡म्या अप्रथय इन्द्र सा꣡नु  
+दिवो꣡ र꣡ज उ꣡परम् अस्तभायः  

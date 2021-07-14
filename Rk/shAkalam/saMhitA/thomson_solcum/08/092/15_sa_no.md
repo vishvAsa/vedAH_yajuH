@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-sá no vr̥ṣan sániṣṭhayā  
-sáṃ ghoráyā dravitnuvā́  
-dhiyā́viḍḍhi púraṃdhiyā  
+स꣡ नो वृषन् स꣡निष्ठया  
+सं꣡ घोर꣡या द्रवित्नुवा꣡  
+धिया꣡विड्ढि पु꣡रंधिया  

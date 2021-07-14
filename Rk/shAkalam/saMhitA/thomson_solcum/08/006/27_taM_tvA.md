@@ -2,6 +2,6 @@
 title = "027"
 
 +++
-táṃ tvā havíṣmatīr víśa  
-úpa bruvata ūtáye  
-urujráyasam índubhiḥ  
+तं꣡ त्वा हवि꣡ष्मतीर् वि꣡श  
+उ꣡प ब्रुवत ऊत꣡ये  
+उरुज्र꣡यसम् इ꣡न्दुभिः  

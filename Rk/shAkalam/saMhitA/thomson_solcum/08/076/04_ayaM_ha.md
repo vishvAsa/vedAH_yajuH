@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-ayáṃ ha yéna vā́ idáṃ  
-súvar marútvatā jitám  
-índreṇa sómapītaye  
+अयं꣡ ह ये꣡न वा꣡ इदं꣡  
+सु꣡वर् मरु꣡त्वता जित꣡म्  
+इ꣡न्द्रेण सो꣡मपीतये  

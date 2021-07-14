@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-ágne śakéma te vayáṃ  
-yámaṃ devásya vājínaḥ  
-áti dvéṣāṃsi tarema  
+अ꣡ग्ने शके꣡म ते वयं꣡  
+य꣡मं देव꣡स्य वाजि꣡नः  
+अ꣡ति द्वे꣡षांसि तरेम  

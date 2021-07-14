@@ -2,6 +2,6 @@
 title = "025"
 
 +++
-pányam-panyam ít sotāra  
-ā́ dhāvata mádiyāya  
-sómaṃ vīrā́ya śū́rāya  
+प꣡न्यम्-पन्यम् इ꣡त् सोतार  
+आ꣡ धावत म꣡दियाय  
+सो꣡मं वीरा꣡य शू꣡राय  

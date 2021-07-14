@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-víśvasya rā́jā pavate suvardŕ̥śa  
-r̥tásya dhītím r̥ṣiṣā́ḷ avīvaśat  
-yáḥ sū́riyasya ásireṇa mr̥jyáte  
-pitā́ matīnā́m ásamaṣṭakāviyaḥ  
+वि꣡श्वस्य रा꣡जा पवते सुवर्द्ŕ̥श  
+ऋत꣡स्य धीति꣡म् ऋषिषा꣡ऌ अवीवशत्  
+यः꣡ सू꣡रियस्य अ꣡सिरेण मृज्य꣡ते  
+पिता꣡ मतीना꣡म् अ꣡समष्टकावियः  

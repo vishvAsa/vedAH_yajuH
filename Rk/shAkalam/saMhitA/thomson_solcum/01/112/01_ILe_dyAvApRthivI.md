@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ī́ḷe dyā́vāpr̥thivī́ pūrvácittaye  
-agníṃ gharmáṃ surúcaṃ yā́man iṣṭáye  
-yā́bhir bháre kārám áṃśāya jínvathas  
-tā́bhir ū ṣú ūtíbhir aśvinā́ gatam  
+ई꣡ऌए द्या꣡वापृथिवी꣡ पूर्व꣡चित्तये  
+अग्निं꣡ घर्मं꣡ सुरु꣡चं या꣡मन् इष्ट꣡ये  
+या꣡भिर् भ꣡रे कार꣡म् अं꣡शाय जि꣡न्वथस्  
+ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्  

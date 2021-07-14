@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-ádhī́n nú átra saptatíṃ ca saptá ca  
-sadyó didiṣṭa tā́nuvaḥ  
-sadyó didiṣṭa pārthiyáḥ  
-sadyó didiṣṭa māyaváḥ  
+अ꣡धी꣡न् नु꣡ अ꣡त्र सप्ततिं꣡ च सप्त꣡ च  
+सद्यो꣡ दिदिष्ट ता꣡नुवः  
+सद्यो꣡ दिदिष्ट पार्थियः꣡  
+सद्यो꣡ दिदिष्ट मायवः꣡  

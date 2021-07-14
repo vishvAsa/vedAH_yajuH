@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-nūnáṃ na indra aparā́ya ca syā  
-bhávā mr̥̄ḷīká+ utá no abhíṣṭau  
-itthā́ gr̥ṇánto mahínasya śárman  
-diví ṣyāma pā́riye goṣátamāḥ  
+नूनं꣡ न इन्द्र अपरा꣡य च स्या  
+भ꣡वा मॄऌईक꣡+ उत꣡ नो अभि꣡ष्टौ  
+इत्था꣡ गृण꣡न्तो महि꣡नस्य श꣡र्मन्  
+दिवि꣡ ष्याम पा꣡रिये गोष꣡तमाः  

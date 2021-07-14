@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ā́yam adyá sukŕ̥tam prātár ichánn  
-iṣṭéḥ putráṃ vásumatā ráthena  
-aṃśóḥ sutám pāyaya matsarásya  
-kṣayádvīraṃ vardhaya sūnŕ̥tābhiḥ  
+आ꣡यम् अद्य꣡ सुक्ŕ̥तम् प्रात꣡र् इछ꣡न्न्  
+इष्टेः꣡ पुत्रं꣡ व꣡सुमता र꣡थेन  
+अंशोः꣡ सुत꣡म् पायय मत्सर꣡स्य  
+क्षय꣡द्वीरं वर्धय सून्ŕ̥ताभिः  

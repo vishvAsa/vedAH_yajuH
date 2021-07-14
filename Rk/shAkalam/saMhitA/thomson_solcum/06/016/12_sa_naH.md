@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-sá naḥ pr̥thú śravā́yiyam  
-áchā deva vivāsasi  
-br̥hád agne suvī́riyam  
+स꣡ नः पृथु꣡ श्रवा꣡यियम्  
+अ꣡छा देव विवाससि  
+बृह꣡द् अग्ने सुवी꣡रियम्  

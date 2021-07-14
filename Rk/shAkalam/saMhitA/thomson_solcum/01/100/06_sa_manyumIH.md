@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sá manyumī́ḥ samádanasya kartā́  
-asmā́kebhir nŕ̥bhiḥ sū́riyaṃ sanat  
-asmínn áhan sátpatiḥ puruhūtó  
-marútvān no bhavatu índra ūtī́  
+स꣡ मन्युमीः꣡ सम꣡दनस्य कर्ता꣡  
+अस्मा꣡केभिर् न्ŕ̥भिः सू꣡रियं सनत्  
+अस्मि꣡न्न् अ꣡हन् स꣡त्पतिः पुरुहूतो꣡  
+मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡  

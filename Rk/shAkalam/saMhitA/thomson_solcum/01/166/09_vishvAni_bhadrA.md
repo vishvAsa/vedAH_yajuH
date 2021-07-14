@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-víśvāni bhadrā́ maruto rátheṣu vo  
-mithaspŕ̥dhyeva taviṣā́ṇi ā́hitā  
-áṃseṣu ā́ vaḥ prápatheṣu khādáyo  
-ákṣo vaś cakrā́ samáyā ví vāvr̥te  
+वि꣡श्वानि भद्रा꣡ मरुतो र꣡थेषु वो  
+मिथस्प्ŕ̥ध्येव तविषा꣡णि आ꣡हिता  
+अं꣡सेषु आ꣡ वः प्र꣡पथेषु खाद꣡यो  
+अ꣡क्षो वश् चक्रा꣡ सम꣡या वि꣡ वावृते  

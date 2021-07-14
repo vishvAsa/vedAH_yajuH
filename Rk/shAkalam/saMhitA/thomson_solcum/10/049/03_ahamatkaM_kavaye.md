@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ahám átkaṃ kaváye śiśnathaṃ háthair  
-aháṃ kútsam · āvam ābhír ūtíbhiḥ  
-aháṃ śúṣṇasya śnáthitā vádhar yamaṃ  
-ná yó rará ā́riyaṃ nā́ma dásyave  
+अह꣡म् अ꣡त्कं कव꣡ये शिश्नथं ह꣡थैर्  
+अहं꣡ कु꣡त्सम् · आवम् आभि꣡र् ऊति꣡भिः  
+अहं꣡ शु꣡ष्णस्य श्न꣡थिता व꣡धर् यमं  
+न꣡ यो꣡ रर꣡ आ꣡रियं ना꣡म द꣡स्यवे  

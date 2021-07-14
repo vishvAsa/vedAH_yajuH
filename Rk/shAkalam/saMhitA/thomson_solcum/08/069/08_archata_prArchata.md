@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-árcata prá arcata  
-príyamedhāso árcata  
-árcantu putrakā́ utá  
-púraṃ ná dhr̥ṣṇú arcata  
+अ꣡र्चत प्र꣡ अर्चत  
+प्रि꣡यमेधासो अ꣡र्चत  
+अ꣡र्चन्तु पुत्रका꣡ उत꣡  
+पु꣡रं न꣡ धृष्णु꣡ अर्चत  

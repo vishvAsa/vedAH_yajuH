@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-abhí váhnaya ūtáye  
-ánūṣata práśastaye  
-ná deva vívratā hárī r̥tásya yát  
+अभि꣡ व꣡ह्नय ऊत꣡ये  
+अ꣡नूषत प्र꣡शस्तये  
+न꣡ देव वि꣡व्रता ह꣡री ऋत꣡स्य य꣡त्  

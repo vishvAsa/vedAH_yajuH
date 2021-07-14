@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-śr̥ṇvántu no vŕ̥ṣaṇaḥ párvatāso  
-dhruvákṣemāsa íḷayā mádantaḥ  
-āditiyaír no áditiḥ śr̥ṇotu  
-yáchantu no marútaḥ śárma bhadrám  
+शृण्व꣡न्तु नो व्ŕ̥षणः प꣡र्वतासो  
+ध्रुव꣡क्षेमास इ꣡ऌअया म꣡दन्तः  
+आदितियइ꣡र् नो अ꣡दितिः शृणोतु  
+य꣡छन्तु नो मरु꣡तः श꣡र्म भद्र꣡म्  

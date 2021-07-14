@@ -2,6 +2,6 @@
 title = "018"
 
 +++
-sáptī cid ghā madacyútā  
-mithunā́ vahato rátham  
-evéd dhū́r vŕ̥ṣṇa úttarā  
+स꣡प्ती चिद् घा मदच्यु꣡ता  
+मिथुना꣡ वहतो र꣡थम्  
+एवे꣡द् धू꣡र् व्ŕ̥ष्ण उ꣡त्तरा  

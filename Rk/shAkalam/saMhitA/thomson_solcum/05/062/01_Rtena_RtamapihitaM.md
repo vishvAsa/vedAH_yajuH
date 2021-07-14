@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-r̥téna rtám ápihitaṃ dhruváṃ vāṃ  
-sū́ryasya yátra vimucánti áśvān  
-dáśa śatā́ sahá tasthus tád ékaṃ  
-devā́nāṃ śréṣṭhaṃ vápuṣām apaśyam  
+ऋते꣡न र्त꣡म् अ꣡पिहितं ध्रुवं꣡ वां  
+सू꣡र्यस्य य꣡त्र विमुच꣡न्ति अ꣡श्वान्  
+द꣡श शता꣡ सह꣡ तस्थुस् त꣡द् ए꣡कं  
+देवा꣡नां श्रे꣡ष्ठं व꣡पुषाम् अपश्यम्  

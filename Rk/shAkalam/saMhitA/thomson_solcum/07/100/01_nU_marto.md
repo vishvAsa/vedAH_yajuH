@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-nṹ mártio° dayate saniṣyán  
-yó víṣṇava urugāyā́ya dā́śat  
-prá yáḥ satrā́cā mánasā yájāta  
-etā́vantaṃ náriyam āvívāsāt  
+न्ũ꣡ म꣡र्तिओ° दयते सनिष्य꣡न्  
+यो꣡ वि꣡ष्णव उरुगाया꣡य दा꣡शत्  
+प्र꣡ यः꣡ सत्रा꣡चा म꣡नसा य꣡जात  
+एता꣡वन्तं न꣡रियम् आवि꣡वासात्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-úd vayáṃ támasas pári  
-jyótiṣ páśyanta úttaram  
-deváṃ devatrā́ sū́riyam  
-áganma jyótir uttamám  
+उ꣡द् वयं꣡ त꣡मसस् प꣡रि  
+ज्यो꣡तिष् प꣡श्यन्त उ꣡त्तरम्  
+देवं꣡ देवत्रा꣡ सू꣡रियम्  
+अ꣡गन्म ज्यो꣡तिर् उत्तम꣡म्  

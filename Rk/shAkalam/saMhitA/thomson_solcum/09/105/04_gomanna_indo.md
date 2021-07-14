@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-góman na indo áśvavat  
-sutáḥ sudakṣa dhanuva  
-śúciṃ te várṇam ádhi góṣu dīdharam  
+गो꣡मन् न इन्दो अ꣡श्ववत्  
+सुतः꣡ सुदक्ष धनुव  
+शु꣡चिं ते व꣡र्णम् अ꣡धि गो꣡षु दीधरम्  

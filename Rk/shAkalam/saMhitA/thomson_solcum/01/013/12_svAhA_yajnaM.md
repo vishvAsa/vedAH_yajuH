@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-svā́hā yajñáṃ kr̥ṇotana  
-índrāya yájvano gr̥hé  
-tátra devā́m̐ úpa hvaye  
+स्वा꣡हा यज्ञं꣡ कृणोतन  
+इ꣡न्द्राय य꣡ज्वनो गृहे꣡  
+त꣡त्र देवाँ꣡ उ꣡प ह्वये  

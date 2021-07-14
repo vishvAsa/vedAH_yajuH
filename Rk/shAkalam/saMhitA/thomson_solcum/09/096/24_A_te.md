@@ -2,7 +2,7 @@
 title = "024"
 
 +++
-ā́ te rúcaḥ pávamānasya soma  
-yóṣeva yanti sudúghāḥ sudhārā́ḥ  
-hárir ā́nītaḥ puruvā́ro apsú  
-ácikradat kaláśe devayūnā́m  
+आ꣡ ते रु꣡चः प꣡वमानस्य सोम  
+यो꣡षेव यन्ति सुदु꣡घाः सुधाराः꣡  
+ह꣡रिर् आ꣡नीतः पुरुवा꣡रो अप्सु꣡  
+अ꣡चिक्रदत् कल꣡शे देवयूना꣡म्  

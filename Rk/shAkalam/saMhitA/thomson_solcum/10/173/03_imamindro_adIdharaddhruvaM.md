@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-imám índro adīdharad  
-dhruváṃ dhruvéṇa havíṣā  
-tásmai sómo ádhi bravat  
-tásmā u bráhmaṇas pátiḥ  
+इम꣡म् इ꣡न्द्रो अदीधरद्  
+ध्रुवं꣡ ध्रुवे꣡ण हवि꣡षा  
+त꣡स्मै सो꣡मो अ꣡धि ब्रवत्  
+त꣡स्मा उ ब्र꣡ह्मणस् प꣡तिः  

@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-yát saṃvátsam r̥bhávo gā́m árakṣan  
-yát saṃvátsam r̥bhávo mā́ ápiṃśan  
-yát saṃvátsam ábharan bhā́so asyās  
-tā́bhiḥ śámībhir amr̥tatvám āśuḥ  
+य꣡त् संव꣡त्सम् ऋभ꣡वो गा꣡म् अ꣡रक्षन्  
+य꣡त् संव꣡त्सम् ऋभ꣡वो मा꣡ अ꣡पिंशन्  
+य꣡त् संव꣡त्सम् अ꣡भरन् भा꣡सो अस्यास्  
+ता꣡भिः श꣡मीभिर् अमृतत्व꣡म् आशुः  

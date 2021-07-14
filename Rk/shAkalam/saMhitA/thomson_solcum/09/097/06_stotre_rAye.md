@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-stotré rāyé hárir arṣā punāná  
-índram mádo gachatu te bhárāya  
-devaír yāhi saráthaṃ rā́dho áchā  
-yūyám pāta suastíbhiḥ sádā naḥ  
+स्तोत्रे꣡ राये꣡ ह꣡रिर् अर्षा पुनान꣡  
+इ꣡न्द्रम् म꣡दो गछतु ते भ꣡राय  
+देवइ꣡र् याहि सर꣡थं रा꣡धो अ꣡छा  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः  

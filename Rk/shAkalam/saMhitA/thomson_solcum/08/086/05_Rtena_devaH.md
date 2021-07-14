@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-r̥téna deváḥ savitā́ śamāyata  
-r̥tásya śŕ̥ṅgam urviyā́ ví paprathe  
-r̥táṃ sāsāha máhi cit pr̥tanyató  
-mā́ no ví yauṣṭaṃ sakhiyā́ mumócatam  
+ऋते꣡न देवः꣡ सविता꣡ शमायत  
+ऋत꣡स्य श्ŕ̥ङ्गम् उर्विया꣡ वि꣡ पप्रथे  
+ऋतं꣡ सासाह म꣡हि चित् पृतन्यतो꣡  
+मा꣡ नो वि꣡ यौष्टं सखिया꣡ मुमो꣡चतम्  

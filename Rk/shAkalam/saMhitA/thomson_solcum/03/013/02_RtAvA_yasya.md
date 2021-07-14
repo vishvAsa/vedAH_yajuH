@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-r̥tā́vā yásya ródasī  
-dákṣaṃ sácanta ūtáyaḥ  
-havíṣmantas tám īḷate  
-táṃ saniṣyánto ávase  
+ऋता꣡वा य꣡स्य रो꣡दसी  
+द꣡क्षं स꣡चन्त ऊत꣡यः  
+हवि꣡ष्मन्तस् त꣡म् ईऌअते  
+तं꣡ सनिष्य꣡न्तो अ꣡वसे  

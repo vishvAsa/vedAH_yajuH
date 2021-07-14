@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-ádribhiḥ sutáḥ pavase pavítra ā́m̐  
-índav índrasya jaṭháreṣu āviśán  
-tuváṃ nr̥cákṣā abhavo vicakṣaṇa  
-sóma gotrám áṅgirobhyo 'vr̥ṇor ápa  
+अ꣡द्रिभिः सुतः꣡ पवसे पवि꣡त्र आँ꣡  
+इ꣡न्दव् इ꣡न्द्रस्य जठ꣡रेषु आविश꣡न्  
+तुवं꣡ नृच꣡क्षा अभवो विचक्षण  
+सो꣡म गोत्र꣡म् अ꣡ङ्गिरोभ्यो ऽवृणोर् अ꣡प  

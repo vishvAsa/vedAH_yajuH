@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-raśmī́m̐r iva yachatam adhvarā́m̐ úpa  
-śyāvā́śuvasya sunvató madacyutā  
-sajóṣasā uṣásā sū́riyeṇa ca  
-áśvinā tiróahniyam  
+रश्मीँ꣡र् इव यछतम् अध्वराँ꣡ उ꣡प  
+श्यावा꣡शुवस्य सुन्वतो꣡ मदच्युता  
+सजो꣡षसा उष꣡सा सू꣡रियेण च  
+अ꣡श्विना तिरो꣡अह्नियम्  

@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yó viśvátaḥ suprátīkaḥ sadŕ̥ṅṅ ási  
-dūré cit sán taḷíd ivā́ti rocase  
-rā́tryāś cid ándho áti deva paśyasi  
-ágne sakhyé mā́ riṣāmā vayáṃ táva  
+यो꣡ विश्व꣡तः सुप्र꣡तीकः सद्ŕ̥ङ्ङ् अ꣡सि  
+दूरे꣡ चित् स꣡न् तऌइ꣡द् इवा꣡ति रोचसे  
+रा꣡त्र्याश् चिद् अ꣡न्धो अ꣡ति देव पश्यसि  
+अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व  

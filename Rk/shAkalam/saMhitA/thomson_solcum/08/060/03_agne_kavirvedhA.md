@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ágne kavír vedhā́ asi  
-hótā pavāka+ yákṣiyaḥ  
-mandró yájiṣṭho adhvaréṣu ī́ḍiyo  
-víprebhiḥ śukra mánmabhiḥ  
+अ꣡ग्ने कवि꣡र् वेधा꣡ असि  
+हो꣡ता पवाक+ य꣡क्षियः  
+मन्द्रो꣡ य꣡जिष्ठो अध्वरे꣡षु ई꣡डियो  
+वि꣡प्रेभिः शुक्र म꣡न्मभिः  

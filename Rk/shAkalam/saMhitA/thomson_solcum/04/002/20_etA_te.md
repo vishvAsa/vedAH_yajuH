@@ -2,7 +2,7 @@
 title = "020"
 
 +++
-etā́ te agna ucáthāni vedho  
-ávocāma kaváye tā́ juṣasva  
-úc chocasva kr̥ṇuhí vásyaso no  
-mahó rāyáḥ puruvāra prá yandhi  
+एता꣡ ते अग्न उच꣡थानि वेधो  
+अ꣡वोचाम कव꣡ये ता꣡ जुषस्व  
+उ꣡च् छोचस्व कृणुहि꣡ व꣡स्यसो नो  
+महो꣡ रायः꣡ पुरुवार प्र꣡ यन्धि  

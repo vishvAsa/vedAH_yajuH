@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-gā́vo yávam práyutā aryó akṣan  
-tā́ apaśyaṃ sahágopāś cárantīḥ  
-hávā íd aryó abhítaḥ sám āyan  
-kíyad āsu svápatiś chandayāte  
+गा꣡वो य꣡वम् प्र꣡युता अर्यो꣡ अक्षन्  
+ता꣡ अपश्यं सह꣡गोपाश् च꣡रन्तीः  
+ह꣡वा इ꣡द् अर्यो꣡ अभि꣡तः स꣡म् आयन्  
+कि꣡यद् आसु स्व꣡पतिश् छन्दयाते  

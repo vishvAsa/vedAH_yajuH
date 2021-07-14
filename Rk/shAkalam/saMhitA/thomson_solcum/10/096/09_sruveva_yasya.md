@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-srúveva yásya háriṇī vipetátuḥ  
-śípre vā́jāya háriṇī dávidhvataḥ  
-prá yát kr̥té camasé mármr̥jad dhárī  
-pītvā́ mádasya haryatásya ándhasaḥ  
+स्रु꣡वेव य꣡स्य ह꣡रिणी विपेत꣡तुः  
+शि꣡प्रे वा꣡जाय ह꣡रिणी द꣡विध्वतः  
+प्र꣡ य꣡त् कृते꣡ चमसे꣡ म꣡र्मृजद् ध꣡री  
+पीत्वा꣡ म꣡दस्य हर्यत꣡स्य अ꣡न्धसः  

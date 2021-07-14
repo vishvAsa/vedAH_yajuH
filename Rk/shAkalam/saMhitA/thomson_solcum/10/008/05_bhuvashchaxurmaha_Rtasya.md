@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-bhúvaś cákṣur mahá r̥tásya gopā́  
-bhúvo váruṇo yád r̥tā́ya véṣi  
-bhúvo apã́ṃ nápāj jātavedo  
-bhúvo dūtó yásya havyáṃ jújoṣaḥ  
+भु꣡वश् च꣡क्षुर् मह꣡ ऋत꣡स्य गोपा꣡  
+भु꣡वो व꣡रुणो य꣡द् ऋता꣡य वे꣡षि  
+भु꣡वो अप्ãं꣡ न꣡पाज् जातवेदो  
+भु꣡वो दूतो꣡ य꣡स्य हव्यं꣡ जु꣡जोषः  

@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-ā́ pavasva sahasríṇaṃ  
-rayíṃ soma suvī́riyam  
-asmé śrávāṃsi dhāraya  
+आ꣡ पवस्व सहस्रि꣡णं  
+रयिं꣡ सोम सुवी꣡रियम्  
+अस्मे꣡ श्र꣡वांसि धारय  

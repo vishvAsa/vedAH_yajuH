@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-uvā́ca me váruṇo médhirāya  
-tríḥ saptá nā́ma ághniyā bibharti  
-vidvā́n padásya gúhiyā ná vocad  
-yugā́ya vípra úparāya śíkṣan  
+उवा꣡च मे व꣡रुणो मे꣡धिराय  
+त्रिः꣡ सप्त꣡ ना꣡म अ꣡घ्निया बिभर्ति  
+विद्वा꣡न् पद꣡स्य गु꣡हिया न꣡ वोचद्  
+युगा꣡य वि꣡प्र उ꣡पराय शि꣡क्षन्  

@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-muñcā́mi tvā havíṣā jī́vanāya kám  
-ajñātayakṣmā́d utá rājayakṣmā́t  
-grā́hir jagrā́ha yádi vaitád enaṃ  
-tásyā indrāgnī prá mumuktam enam  
+मुञ्चा꣡मि त्वा हवि꣡षा जी꣡वनाय क꣡म्  
+अज्ञातयक्ष्मा꣡द् उत꣡ राजयक्ष्मा꣡त्  
+ग्रा꣡हिर् जग्रा꣡ह य꣡दि वैत꣡द् एनं  
+त꣡स्या इन्द्राग्नी प्र꣡ मुमुक्तम् एनम्  

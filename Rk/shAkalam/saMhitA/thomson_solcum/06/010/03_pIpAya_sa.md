@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-pīpā́ya sá śrávasā mártiyeṣu  
-yó agnáye dadā́śa vípra ukthaíḥ  
-citrā́bhis tám ūtíbhiś citráśocir  
-vrajásya sātā́ gómato dadhāti  
+पीपा꣡य स꣡ श्र꣡वसा म꣡र्तियेषु  
+यो꣡ अग्न꣡ये ददा꣡श वि꣡प्र उक्थइः꣡  
+चित्रा꣡भिस् त꣡म् ऊति꣡भिश् चित्र꣡शोचिर्  
+व्रज꣡स्य साता꣡ गो꣡मतो दधाति  

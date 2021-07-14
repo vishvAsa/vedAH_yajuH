@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-tā́ nŕ̥bhya ā́ sauśravasā́ suvī́rā  
-ágne sūno sahasaḥ puṣyáse dhāḥ  
-kr̥ṇóṣi yác chávasā bhū́ri paśvó  
-váyo vŕ̥kāya aráye jásuraye  
+ता꣡ न्ŕ̥भ्य आ꣡ सौश्रवसा꣡ सुवी꣡रा  
+अ꣡ग्ने सूनो सहसः पुष्य꣡से धाः  
+कृणो꣡षि य꣡च् छ꣡वसा भू꣡रि पश्वो꣡  
+व꣡यो व्ŕ̥काय अर꣡ये ज꣡सुरये  

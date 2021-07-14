@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ugrás turāṣā́ḷ abhíbhūtiojā  
-yathāvaśáṃ tanúvaṃ cakra eṣáḥ  
-tváṣṭāram índro janúṣābhibhū́ya  
-āmúṣyā sómam apibac camū́ṣu  
+उग्र꣡स् तुराषा꣡ऌ अभि꣡भूतिओजा  
+यथावशं꣡ तनु꣡वं चक्र एषः꣡  
+त्व꣡ष्टारम् इ꣡न्द्रो जनु꣡षाभिभू꣡य  
+आमु꣡ष्या सो꣡मम् अपिबच् चमू꣡षु  

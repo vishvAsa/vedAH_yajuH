@@ -2,9 +2,9 @@
 title = "002"
 
 +++
-hr̥dispŕ̥śas ta āsate  
-víśveṣu soma dhā́masu  
-ádhā kā́mā imé máma  
-ví vo máde  
-ví tiṣṭhante vasūyávo  
-vívakṣase  
+हृदिस्प्ŕ̥शस् त आसते  
+वि꣡श्वेषु सोम धा꣡मसु  
+अ꣡धा का꣡मा इमे꣡ म꣡म  
+वि꣡ वो म꣡दे  
+वि꣡ तिष्ठन्ते वसूय꣡वो  
+वि꣡वक्षसे  

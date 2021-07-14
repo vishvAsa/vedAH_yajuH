@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ní vartadhvam mā́nu gāta  
-asmā́n siṣakta revatīḥ  
-ágnīṣomā punarvasū  
-asmé dhārayataṃ rayím  
+नि꣡ वर्तध्वम् मा꣡नु गात  
+अस्मा꣡न् सिषक्त रेवतीः  
+अ꣡ग्नीषोमा पुनर्वसू  
+अस्मे꣡ धारयतं रयि꣡म्  

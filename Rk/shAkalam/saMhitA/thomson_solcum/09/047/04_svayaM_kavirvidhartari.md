@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-svayáṃ kavír vidhartári  
-víprāya rátnam ichati  
-yádī marmr̥jyáte dhíyaḥ  
+स्वयं꣡ कवि꣡र् विधर्त꣡रि  
+वि꣡प्राय र꣡त्नम् इछति  
+य꣡दी मर्मृज्य꣡ते धि꣡यः  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-tváyā hí agne váruṇo dhr̥távrato  
-mitráḥ śāśadré aryamā́ sudā́navaḥ  
-yát sīm ánu krátunā viśváthā vibhúr  
-arā́n ná nemíḥ paribhū́r ájāyathāḥ  
+त्व꣡या हि꣡ अग्ने व꣡रुणो धृत꣡व्रतो  
+मित्रः꣡ शाशद्रे꣡ अर्यमा꣡ सुदा꣡नवः  
+य꣡त् सीम् अ꣡नु क्र꣡तुना विश्व꣡था विभु꣡र्  
+अरा꣡न् न꣡ नेमिः꣡ परिभू꣡र् अ꣡जायथाः  

@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-pāhí no agna ékayā  
-pāhí utá dvitī́yayā  
-pāhí gīrbhís tisŕ̥bhir ūrjãm pate  
-pāhí catasŕ̥bhir vaso  
+पाहि꣡ नो अग्न ए꣡कया  
+पाहि꣡ उत꣡ द्विती꣡यया  
+पाहि꣡ गीर्भि꣡स् तिस्ŕ̥भिर् ऊर्ज्ãम् पते  
+पाहि꣡ चतस्ŕ̥भिर् वसो  

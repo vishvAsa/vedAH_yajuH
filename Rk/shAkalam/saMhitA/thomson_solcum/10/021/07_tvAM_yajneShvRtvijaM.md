@@ -2,9 +2,9 @@
 title = "007"
 
 +++
-tuvā́ṃ yajñéṣu r̥tvíjaṃ  
-cā́rum agne ní ṣedire  
-ghr̥tápratīkam mánuṣo  
-ví vo máde  
-śukráṃ cétiṣṭham akṣábhir  
-vívakṣase  
+तुवां꣡ यज्ञे꣡षु ऋत्वि꣡जं  
+चा꣡रुम् अग्ने नि꣡ षेदिरे  
+घृत꣡प्रतीकम् म꣡नुषो  
+वि꣡ वो म꣡दे  
+शुक्रं꣡ चे꣡तिष्ठम् अक्ष꣡भिर्  
+वि꣡वक्षसे  

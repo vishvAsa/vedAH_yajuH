@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-yásya saṃsthé ná vr̥ṇváte  
-hárī samátsu śátravaḥ  
-tásmā índrāya gāyata  
+य꣡स्य संस्थे꣡ न꣡ वृण्व꣡ते  
+ह꣡री सम꣡त्सु श꣡त्रवः  
+त꣡स्मा इ꣡न्द्राय गायत  

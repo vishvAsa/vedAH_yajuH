@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mahī́ átra mahinā́ vā́ram r̥ṇvatho  
-areṇávas túja ā́ sádman dhenávaḥ  
-sváranti tā́ uparátāti sū́riyam  
-ā́ nimrúca uṣásas takvavī́r iva  
+मही꣡ अ꣡त्र महिना꣡ वा꣡रम् ऋण्वथो  
+अरेण꣡वस् तु꣡ज आ꣡ स꣡द्मन् धेन꣡वः  
+स्व꣡रन्ति ता꣡ उपर꣡ताति सू꣡रियम्  
+आ꣡ निम्रु꣡च उष꣡सस् तक्ववी꣡र् इव  

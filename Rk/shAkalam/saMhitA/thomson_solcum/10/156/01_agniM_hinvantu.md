@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-agníṃ hinvantu no dhíyaḥ  
-sáptim āśúm ivājíṣu  
-téna jeṣma dhánaṃ-dhanam  
+अग्निं꣡ हिन्वन्तु नो धि꣡यः  
+स꣡प्तिम् आशु꣡म् इवाजि꣡षु  
+ते꣡न जेष्म ध꣡नं-धनम्  

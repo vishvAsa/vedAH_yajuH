@@ -2,7 +2,7 @@
 title = "016"
 
 +++
-ágnīparjanyāv ávataṃ dhíyam me  
-asmín háve suhavā suṣṭutíṃ naḥ  
-íḷām anyó janáyad gárbham anyáḥ  
-prajā́vatīr íṣa ā́ dhattam asmé  
+अ꣡ग्नीपर्जन्याव् अ꣡वतं धि꣡यम् मे  
+अस्मि꣡न् ह꣡वे सुहवा सुष्टुतिं꣡ नः  
+इ꣡ऌआम् अन्यो꣡ जन꣡यद् ग꣡र्भम् अन्यः꣡  
+प्रजा꣡वतीर् इ꣡ष आ꣡ धत्तम् अस्मे꣡  

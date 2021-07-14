@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-ghŕ̥tāhavana dīdivaḥ  
-práti ṣma ríṣato daha  
-ágne tuváṃ rakṣasvínaḥ  
+घ्ŕ̥ताहवन दीदिवः  
+प्र꣡ति ष्म रि꣡षतो दह  
+अ꣡ग्ने तुवं꣡ रक्षस्वि꣡नः  

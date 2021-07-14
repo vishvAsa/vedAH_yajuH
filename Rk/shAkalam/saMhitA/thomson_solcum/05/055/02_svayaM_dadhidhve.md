@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-svayáṃ dadhidhve táviṣīṃ yáthā vidá  
-br̥hán mahānta urviyā́ ví rājatha  
-utā́ntárikṣam mamire ví ójasā  
-śúbhaṃ yātā́m ánu ráthā avr̥tsata  
+स्वयं꣡ दधिध्वे त꣡विषीं य꣡था विद꣡  
+बृह꣡न् महान्त उर्विया꣡ वि꣡ राजथ  
+उता꣡न्त꣡रिक्षम् ममिरे वि꣡ ओ꣡जसा  
+शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत  

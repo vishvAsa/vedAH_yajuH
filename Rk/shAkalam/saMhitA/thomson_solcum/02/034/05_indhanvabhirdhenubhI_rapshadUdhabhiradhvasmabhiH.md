@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índhanvabhir dhenúbhī rapśádūdhabhir  
-adhvasmábhiḥ pathíbhir bhrājadr̥ṣṭayaḥ  
-ā́ haṃsā́so ná svásarāṇi gantana  
-mádhor mádāya marutaḥ samanyavaḥ  
+इ꣡न्धन्वभिर् धेनु꣡भी रप्श꣡दूधभिर्  
+अध्वस्म꣡भिः पथि꣡भिर् भ्राजदृष्टयः  
+आ꣡ हंसा꣡सो न꣡ स्व꣡सराणि गन्तन  
+म꣡धोर् म꣡दाय मरुतः समन्यवः  

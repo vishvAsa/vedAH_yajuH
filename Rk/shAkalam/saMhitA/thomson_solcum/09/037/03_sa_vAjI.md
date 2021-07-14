@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-sá vājī́ rocanā́ diváḥ  
-pávamāno ví dhāvati  
-rakṣohā́ vā́ram avyáyam  
+स꣡ वाजी꣡ रोचना꣡ दिवः꣡  
+प꣡वमानो वि꣡ धावति  
+रक्षोहा꣡ वा꣡रम् अव्य꣡यम्  

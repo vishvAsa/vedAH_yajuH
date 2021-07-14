@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-tuvám aṅgá jaritā́raṃ yaviṣṭha  
-víśvāni agne duritā́ti parṣi  
-stenā́ adr̥śran ripávo jánāso  
-ájñātaketā vr̥jinā́ abhūvan  
+तुव꣡म् अङ्ग꣡ जरिता꣡रं यविष्ठ  
+वि꣡श्वानि अग्ने दुरिता꣡ति पर्षि  
+स्तेना꣡ अदृश्रन् रिप꣡वो ज꣡नासो  
+अ꣡ज्ञातकेता वृजिना꣡ अभूवन्  

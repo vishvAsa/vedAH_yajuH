@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-kád itthā́ nr̥̄́m̐ḥ pā́taraṃ+ devayatā́ṃ  
-śrávad gíro áṅgirasāṃ turaṇyán  
-prá yád ā́naḍ víśa ā́ harmiyásya  
-urú kraṃsate adhvaré yájatraḥ  
+क꣡द् इत्था꣡ नॄँ꣡ः पा꣡तरं+ देवयतां꣡  
+श्र꣡वद् गि꣡रो अ꣡ङ्गिरसां तुरण्य꣡न्  
+प्र꣡ य꣡द् आ꣡नड् वि꣡श आ꣡ हर्मिय꣡स्य  
+उरु꣡ क्रंसते अध्वरे꣡ य꣡जत्रः  

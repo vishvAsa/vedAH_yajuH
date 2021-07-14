@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-apsarā́ jārám upasiṣmiyāṇā́  
-yóṣā bibharti paramé víoman  
-cárat priyásya yóniṣu priyáḥ sán  
-sī́dat pakṣé hiraṇyáye sá venáḥ  
+अप्सरा꣡ जार꣡म् उपसिष्मियाणा꣡  
+यो꣡षा बिभर्ति परमे꣡ वि꣡ओमन्  
+च꣡रत् प्रिय꣡स्य यो꣡निषु प्रियः꣡ स꣡न्  
+सी꣡दत् पक्षे꣡ हिरण्य꣡ये स꣡ वेनः꣡  

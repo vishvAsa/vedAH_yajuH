@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ví yásya te jrayasānásya ajara  
-dhákṣor ná vā́tāḥ pári sánti ácyutāḥ  
-ā́ raṇvā́so yúyudhayo ná satvanáṃ  
-tritáṃ naśanta prá śiṣánta iṣṭáye  
+वि꣡ य꣡स्य ते ज्रयसान꣡स्य अजर  
+ध꣡क्षोर् न꣡ वा꣡ताः प꣡रि स꣡न्ति अ꣡च्युताः  
+आ꣡ रण्वा꣡सो यु꣡युधयो न꣡ सत्वनं꣡  
+त्रितं꣡ नशन्त प्र꣡ शिष꣡न्त इष्ट꣡ये  

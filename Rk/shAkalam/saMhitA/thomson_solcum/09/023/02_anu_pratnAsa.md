@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-ánu pratnā́sa āyávaḥ  
-padáṃ návīyo akramuḥ  
-rucé jananta sū́riyam  
+अ꣡नु प्रत्ना꣡स आय꣡वः  
+पदं꣡ न꣡वीयो अक्रमुः  
+रुचे꣡ जनन्त सू꣡रियम्  

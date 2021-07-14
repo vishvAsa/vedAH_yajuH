@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-yuvó rájāṃsi suyámāso áśvā  
-rátho yád vām pári árṇāṃsi dī́yat  
-hiraṇyáyā vām paváyaḥ pruṣāyan  
-mádhvaḥ píbantā uṣásaḥ sacethe  
+युवो꣡ र꣡जांसि सुय꣡मासो अ꣡श्वा  
+र꣡थो य꣡द् वाम् प꣡रि अ꣡र्णांसि दी꣡यत्  
+हिरण्य꣡या वाम् पव꣡यः प्रुषायन्  
+म꣡ध्वः पि꣡बन्ता उष꣡सः सचेथे  

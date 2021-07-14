@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-tríyambakaṃ yajāmahe  
-sugándhim puṣṭivárdhanam  
-urvārukám 'va° bándhanān  
-mr̥tyór mukṣīya mā́mŕ̥tāt  
+त्रि꣡यम्बकं यजामहे  
+सुग꣡न्धिम् पुष्टिव꣡र्धनम्  
+उर्वारुक꣡म् ऽव° ब꣡न्धनान्  
+मृत्यो꣡र् मुक्षीय मा꣡म्ŕ̥तात्  

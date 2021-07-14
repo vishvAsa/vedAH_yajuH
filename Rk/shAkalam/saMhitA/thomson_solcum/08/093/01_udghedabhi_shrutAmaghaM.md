@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-úd ghéd abhí śrutā́maghaṃ  
-vr̥ṣabháṃ náriyāpasam  
-ástāram eṣi sūriya  
+उ꣡द् घे꣡द् अभि꣡ श्रुता꣡मघं  
+वृषभं꣡ न꣡रियापसम्  
+अ꣡स्तारम् एषि सूरिय  

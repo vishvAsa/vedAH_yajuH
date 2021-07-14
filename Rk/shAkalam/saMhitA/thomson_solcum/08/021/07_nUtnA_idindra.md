@@ -2,6 +2,6 @@
 title = "007"
 
 +++
-nū́tnā íd indra te vayám  
-ūtī́ abhūma nahí nū́ te adrivaḥ  
-vidmā́ purā́ párīṇasaḥ  
+नू꣡त्ना इ꣡द् इन्द्र ते वय꣡म्  
+ऊती꣡ अभूम नहि꣡ नू꣡ ते अद्रिवः  
+विद्मा꣡ पुरा꣡ प꣡रीणसः  

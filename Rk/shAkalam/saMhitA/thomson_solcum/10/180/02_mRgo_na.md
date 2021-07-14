@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-mr̥gó ná bhīmáḥ kucaró giriṣṭhā́ḥ  
-parāváta ā́ jaganthā párasyāḥ  
-sr̥káṃ saṃśā́ya pavím indra tigmáṃ  
-ví śátrūn tāḷhi ví mŕ̥dho nudasva  
+मृगो꣡ न꣡ भीमः꣡ कुचरो꣡ गिरिष्ठाः꣡  
+पराव꣡त आ꣡ जगन्था प꣡रस्याः  
+सृकं꣡ संशा꣡य पवि꣡म् इन्द्र तिग्मं꣡  
+वि꣡ श꣡त्रून् ताऌहि वि꣡ म्ŕ̥धो नुदस्व  

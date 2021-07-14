@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-úd īrayathā marutaḥ samudrató  
-yūyáṃ vr̥ṣṭíṃ varṣayathā purīṣiṇaḥ  
-ná vo dasrā úpa dasyanti dhenávaḥ  
-śúbhaṃ yātā́m ánu ráthā avr̥tsata  
+उ꣡द् ईरयथा मरुतः समुद्रतो꣡  
+यूयं꣡ वृष्टिं꣡ वर्षयथा पुरीषिणः  
+न꣡ वो दस्रा उ꣡प दस्यन्ति धेन꣡वः  
+शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत  

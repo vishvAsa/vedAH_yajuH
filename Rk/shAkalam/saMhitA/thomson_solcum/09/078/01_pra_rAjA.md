@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-prá rā́jā vā́caṃ janáyann asiṣyadad  
-apó vásāno abhí gā́ iyakṣati  
-gr̥bhṇā́ti riprám ávir asya tā́nuvā  
-śuddhó devā́nām úpa yāti niṣkr̥tám  
+प्र꣡ रा꣡जा वा꣡चं जन꣡यन्न् असिष्यदद्  
+अपो꣡ व꣡सानो अभि꣡ गा꣡ इयक्षति  
+गृभ्णा꣡ति रिप्र꣡म् अ꣡विर् अस्य ता꣡नुवा  
+शुद्धो꣡ देवा꣡नाम् उ꣡प याति निष्कृत꣡म्  

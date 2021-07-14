@@ -2,9 +2,9 @@
 title = "017"
 
 +++
-maháḥ sú vo áram iṣe  
-stávāmahe  
-mīḷhúṣe araṃgamā́ya jágmaye  
-yajñébhir gīrbhír  
-viśvámanuṣām marútām iyakṣasi  
-gā́ye tvā námasā girā́  
+महः꣡ सु꣡ वो अ꣡रम् इषे  
+स्त꣡वामहे  
+मीऌहु꣡षे अरंगमा꣡य ज꣡ग्मये  
+यज्ञे꣡भिर् गीर्भि꣡र्  
+विश्व꣡मनुषाम् मरु꣡ताम् इयक्षसि  
+गा꣡ये त्वा न꣡मसा गिरा꣡  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-ā́ tvā grā́vā vádann ihá  
-somī́ ghóṣeṇa yachatu  
-divó amúṣya śā́sato  
-dívaṃ yayá divāvaso  
+आ꣡ त्वा ग्रा꣡वा व꣡दन्न् इह꣡  
+सोमी꣡ घो꣡षेण यछतु  
+दिवो꣡ अमु꣡ष्य शा꣡सतो  
+दि꣡वं यय꣡ दिवावसो  

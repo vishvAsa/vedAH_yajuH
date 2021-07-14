@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-kíyat svid índro ádhi eti mātúḥ  
-kíyat pitúr janitúr yó jajā́na  
-yó asya śúṣmam muhukaír íyarti  
-vā́to ná jūtá stanáyadbhir abhraíḥ  
+कि꣡यत् स्विद् इ꣡न्द्रो अ꣡धि एति मातुः꣡  
+कि꣡यत् पितु꣡र् जनितु꣡र् यो꣡ जजा꣡न  
+यो꣡ अस्य शु꣡ष्मम् मुहुकइ꣡र् इ꣡यर्ति  
+वा꣡तो न꣡ जूत꣡ स्तन꣡यद्भिर् अभ्रइः꣡  

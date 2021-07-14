@@ -2,7 +2,7 @@
 title = "033"
 
 +++
-sumaṅgalī́r iyáṃ vadhū́r  
-imā́ṃ saméta páśyata  
-saúbhāgyam asyai dattvā́ya  
-áthā́staṃ ví páretana  
+सुमङ्गली꣡र् इयं꣡ वधू꣡र्  
+इमां꣡ समे꣡त प꣡श्यत  
+सउ꣡भाग्यम् अस्यै दत्त्वा꣡य  
+अ꣡था꣡स्तं वि꣡ प꣡रेतन  

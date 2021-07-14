@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-catvāriṃśád dáśarathasya śóṇāḥ  
-sahásrasyā́gre śráyaṇiṃ+ nayanti  
-madacyútaḥ kr̥śanā́vato átyān  
-kakṣī́vanta úd amr̥kṣanta pajrā́ḥ  
+चत्वारिंश꣡द् द꣡शरथस्य शो꣡णाः  
+सह꣡स्रस्या꣡ग्रे श्र꣡यणिं+ नयन्ति  
+मदच्यु꣡तः कृशना꣡वतो अ꣡त्यान्  
+कक्षी꣡वन्त उ꣡द् अमृक्षन्त पज्राः꣡  

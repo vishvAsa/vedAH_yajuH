@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-yájāma ín námasā vr̥ddhám índram  
-br̥hántam r̥ṣvám ajáraṃ yúvānam  
-yásya priyé mamátur yajñíyasya  
-ná ródasī mahimā́nam mamā́te  
+य꣡जाम इ꣡न् न꣡मसा वृद्ध꣡म् इ꣡न्द्रम्  
+बृह꣡न्तम् ऋष्व꣡म् अज꣡रं यु꣡वानम्  
+य꣡स्य प्रिये꣡ मम꣡तुर् यज्ञि꣡यस्य  
+न꣡ रो꣡दसी महिमा꣡नम् ममा꣡ते  

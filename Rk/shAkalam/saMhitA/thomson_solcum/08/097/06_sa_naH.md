@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-sá naḥ sómeṣu somapāḥ  
-sutéṣu śavasas pate  
-mādáyasva rā́dhasā sūnŕ̥tāvata  
-índra rāyā́ párīṇasā  
+स꣡ नः सो꣡मेषु सोमपाः  
+सुते꣡षु शवसस् पते  
+माद꣡यस्व रा꣡धसा सून्ŕ̥तावत  
+इ꣡न्द्र राया꣡ प꣡रीणसा  

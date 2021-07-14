@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-sajū́r ādityaír vásubhiḥ  
-sajū́r índreṇa vāyúnā  
-ā́ yāhi agne atrivát suté raṇa  
+सजू꣡र् आदित्यइ꣡र् व꣡सुभिः  
+सजू꣡र् इ꣡न्द्रेण वायु꣡ना  
+आ꣡ याहि अग्ने अत्रिव꣡त् सुते꣡ रण  

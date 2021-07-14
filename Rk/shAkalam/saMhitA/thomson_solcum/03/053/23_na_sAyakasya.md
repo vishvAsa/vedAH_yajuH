@@ -2,7 +2,7 @@
 title = "023"
 
 +++
-ná sā́yakasya cikite janāso  
-lodháṃ nayanti páśu mányamānāḥ  
-nā́vājinaṃ vājínā hāsayanti  
-ná gardabhám puró áśvān nayanti  
+न꣡ सा꣡यकस्य चिकिते जनासो  
+लोधं꣡ नयन्ति प꣡शु म꣡न्यमानाः  
+ना꣡वाजिनं वाजि꣡ना हासयन्ति  
+न꣡ गर्दभ꣡म् पुरो꣡ अ꣡श्वान् नयन्ति  

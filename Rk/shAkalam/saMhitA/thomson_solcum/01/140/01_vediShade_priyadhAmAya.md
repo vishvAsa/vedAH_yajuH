@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-vediṣáde priyádhāmāya sudyúte  
-dhāsím iva prá bharā yónim agnáye  
-vástreṇeva vāsayā mánmanā śúciṃ  
-jyotī́rathaṃ śukrávarṇaṃ tamohánam  
+वेदिष꣡दे प्रिय꣡धामाय सुद्यु꣡ते  
+धासि꣡म् इव प्र꣡ भरा यो꣡निम् अग्न꣡ये  
+व꣡स्त्रेणेव वासया म꣡न्मना शु꣡चिं  
+ज्योती꣡रथं शुक्र꣡वर्णं तमोह꣡नम्  

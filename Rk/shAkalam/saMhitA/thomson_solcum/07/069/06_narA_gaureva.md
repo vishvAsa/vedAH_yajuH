@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-nárā gauréva vidyútaṃ tr̥ṣāṇā́  
-asmā́kam adyá sávanópa yātam  
-purutrā́ hí vām matíbhir hávante  
-mā́ vām anyé ní yaman devayántaḥ  
+न꣡रा गौरे꣡व विद्यु꣡तं तृषाणा꣡  
+अस्मा꣡कम् अद्य꣡ स꣡वनो꣡प यातम्  
+पुरुत्रा꣡ हि꣡ वाम् मति꣡भिर् ह꣡वन्ते  
+मा꣡ वाम् अन्ये꣡ नि꣡ यमन् देवय꣡न्तः  

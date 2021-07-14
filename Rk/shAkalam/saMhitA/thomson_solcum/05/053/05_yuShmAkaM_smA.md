@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-yuṣmā́kaṃ smā ráthām̐ ánu  
-mudé dadhe maruto jīradānavaḥ  
-vr̥ṣṭī́ dyā́vo yatī́r iva  
+युष्मा꣡कं स्मा र꣡थाँ अ꣡नु  
+मुदे꣡ दधे मरुतो जीरदानवः  
+वृष्टी꣡ द्या꣡वो यती꣡र् इव  

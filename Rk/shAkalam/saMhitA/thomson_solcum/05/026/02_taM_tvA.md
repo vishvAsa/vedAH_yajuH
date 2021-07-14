@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-táṃ tvā ghr̥tasnav īmahe  
-cítrabhāno suvardŕ̥śam  
-devā́m̐ ā́ vītáye vaha  
+तं꣡ त्वा घृतस्नव् ईमहे  
+चि꣡त्रभानो सुवर्द्ŕ̥शम्  
+देवाँ꣡ आ꣡ वीत꣡ये वह  

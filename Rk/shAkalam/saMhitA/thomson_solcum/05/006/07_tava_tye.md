@@ -2,8 +2,8 @@
 title = "007"
 
 +++
-táva tyé agne arcáyo  
-máhi vrādhanta vājínaḥ  
-yé pátvabhiḥ śaphā́nãṃ  
-vrajā́ bhuránta gónãm  
-íṣaṃ stotŕ̥bhya ā́ bhara  
+त꣡व त्ये꣡ अग्ने अर्च꣡यो  
+म꣡हि व्राधन्त वाजि꣡नः  
+ये꣡ प꣡त्वभिः शफा꣡न्ãं  
+व्रजा꣡ भुर꣡न्त गो꣡न्ãम्  
+इ꣡षं स्तोत्ŕ̥भ्य आ꣡ भर  

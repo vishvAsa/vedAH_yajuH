@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-imé náro vr̥trahátyeṣu śū́rā  
-víśvā ádevīr abhí santu māyā́ḥ  
-yé me dhíyam panáyanta praśastā́m  
+इमे꣡ न꣡रो वृत्रह꣡त्येषु शू꣡रा  
+वि꣡श्वा अ꣡देवीर् अभि꣡ सन्तु मायाः꣡  
+ये꣡ मे धि꣡यम् पन꣡यन्त प्रशस्ता꣡म्  

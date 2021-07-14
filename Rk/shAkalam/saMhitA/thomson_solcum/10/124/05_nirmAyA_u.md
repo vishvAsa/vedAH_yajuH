@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-nírmāyā u tyé ásurā abhūvan  
-tuváṃ ca mā varuṇa kāmáyāse  
-r̥téna rājann ánr̥taṃ viviñcán  
-máma rāṣṭrásya ádhipatyam éhi  
+नि꣡र्माया उ त्ये꣡ अ꣡सुरा अभूवन्  
+तुवं꣡ च मा वरुण काम꣡यासे  
+ऋते꣡न राजन्न् अ꣡नृतं विविञ्च꣡न्  
+म꣡म राष्ट्र꣡स्य अ꣡धिपत्यम् ए꣡हि  

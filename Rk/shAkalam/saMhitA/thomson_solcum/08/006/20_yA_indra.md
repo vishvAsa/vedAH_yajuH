@@ -2,6 +2,6 @@
 title = "020"
 
 +++
-yā́ indra prasúvas tuvā  
-āsā́ gárbham ácakriran  
-pári dhármeva sū́riyam  
+या꣡ इन्द्र प्रसु꣡वस् तुवा  
+आसा꣡ ग꣡र्भम् अ꣡चक्रिरन्  
+प꣡रि ध꣡र्मेव सू꣡रियम्  

@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-durgé cin naḥ sugáṃ kr̥dhi  
-gr̥ṇāná indra girvaṇaḥ  
-tuváṃ ca maghavan váśaḥ  
+दुर्गे꣡ चिन् नः सुगं꣡ कृधि  
+गृणान꣡ इन्द्र गिर्वणः  
+तुवं꣡ च मघवन् व꣡शः  

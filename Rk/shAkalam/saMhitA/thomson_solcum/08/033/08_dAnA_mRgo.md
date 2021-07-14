@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-dānā́ mr̥gó ná vāraṇáḥ  
-purutrā́ caráthaṃ dadhe  
-nákiṣ ṭuvā ní yamad ā́ suté gamo  
-mahā́ṃś carasi ójasā  
+दाना꣡ मृगो꣡ न꣡ वारणः꣡  
+पुरुत्रा꣡ चर꣡थं दधे  
+न꣡किष् टुवा नि꣡ यमद् आ꣡ सुते꣡ गमो  
+महां꣡श् चरसि ओ꣡जसा  

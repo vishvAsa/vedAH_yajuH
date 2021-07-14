@@ -2,6 +2,6 @@
 title = "033"
 
 +++
-suvī́riyaṃ suaśviyaṃ  
-sugávyam indra daddhi naḥ  
-hóteva pūrvácittaye prá adhvaré  
+सुवी꣡रियं सुअश्वियं  
+सुग꣡व्यम् इन्द्र दद्धि नः  
+हो꣡तेव पूर्व꣡चित्तये प्र꣡ अध्वरे꣡  

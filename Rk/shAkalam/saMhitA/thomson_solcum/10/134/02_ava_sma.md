@@ -2,9 +2,9 @@
 title = "002"
 
 +++
-áva sma durhaṇāyató  
-mártasya tanuhi sthirám  
-adhaspadáṃ tám īṃ kr̥dhi  
-yó asmā́m̐ ādídeśati  
-devī́ jánitry ajījanad  
-bhadrā́ jánitry ajījanat  
+अ꣡व स्म दुर्हणायतो꣡  
+म꣡र्तस्य तनुहि स्थिर꣡म्  
+अधस्पदं꣡ त꣡म् ईं कृधि  
+यो꣡ अस्माँ꣡ आदि꣡देशति  
+देवी꣡ ज꣡नित्र्य् अजीजनद्  
+भद्रा꣡ ज꣡नित्र्य् अजीजनत्  

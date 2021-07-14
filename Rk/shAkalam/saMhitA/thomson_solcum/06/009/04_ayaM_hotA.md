@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-ayáṃ hótā prathamáḥ páśyatemám  
-idáṃ jyótir amŕ̥tam mártiyeṣu  
-ayáṃ sá jajñe dhruvá ā́ níṣatto  
-ámartiyas tanúvā várdhamānaḥ  
+अयं꣡ हो꣡ता प्रथमः꣡ प꣡श्यतेम꣡म्  
+इदं꣡ ज्यो꣡तिर् अम्ŕ̥तम् म꣡र्तियेषु  
+अयं꣡ स꣡ जज्ञे ध्रुव꣡ आ꣡ नि꣡षत्तो  
+अ꣡मर्तियस् तनु꣡वा व꣡र्धमानः  

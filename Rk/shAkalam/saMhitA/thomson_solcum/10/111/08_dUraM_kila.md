@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-dūráṃ kíla prathamā́ jagmur āsām  
-índrasya yā́ḥ prasavé sasrúr ā́paḥ  
-kúva svid ágraṃ kúva budhná āsām  
-ā́po mádhyaṃ kúva vo nūnám ántaḥ  
+दूरं꣡ कि꣡ल प्रथमा꣡ जग्मुर् आसाम्  
+इ꣡न्द्रस्य याः꣡ प्रसवे꣡ सस्रु꣡र् आ꣡पः  
+कु꣡व स्विद् अ꣡ग्रं कु꣡व बुध्न꣡ आसाम्  
+आ꣡पो म꣡ध्यं कु꣡व वो नून꣡म् अ꣡न्तः  

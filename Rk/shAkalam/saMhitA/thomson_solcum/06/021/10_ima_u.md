@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-imá u tvā puruśāka prayajyo  
-jaritā́ro abhí arcanti arkaíḥ  
-śrudhī́ hávam ā́ huvató huvānó  
-ná tvā́vām̐ anyó amr̥ta tvád asti  
+इम꣡ उ त्वा पुरुशाक प्रयज्यो  
+जरिता꣡रो अभि꣡ अर्चन्ति अर्कइः꣡  
+श्रुधी꣡ ह꣡वम् आ꣡ हुवतो꣡ हुवानो꣡  
+न꣡ त्वा꣡वाँ अन्यो꣡ अमृत त्व꣡द् अस्ति  

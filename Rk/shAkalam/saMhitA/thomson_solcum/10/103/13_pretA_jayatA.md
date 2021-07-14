@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-prá itā jáyatā nara  
-índro vaḥ śárma yachatu  
-ugrā́ vaḥ santu bāhávo  
-anādhr̥ṣyā́ yáthā́satha  
+प्र꣡ इता ज꣡यता नर  
+इ꣡न्द्रो वः श꣡र्म यछतु  
+उग्रा꣡ वः सन्तु बाह꣡वो  
+अनाधृष्या꣡ य꣡था꣡सथ  

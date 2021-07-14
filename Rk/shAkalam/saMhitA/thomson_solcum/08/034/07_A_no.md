@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-ā́ no yāhi mahemate  
-sáhasrote śátāmagha  
-divó amúṣya śā́sato  
-dívaṃ yayá divāvaso  
+आ꣡ नो याहि महेमते  
+स꣡हस्रोते श꣡तामघ  
+दिवो꣡ अमु꣡ष्य शा꣡सतो  
+दि꣡वं यय꣡ दिवावसो  

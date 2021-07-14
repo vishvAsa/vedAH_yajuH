@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-smátpuraṃdhir na ā́ gahi  
-viśvátodhīr na ūtáye  
-divó amúṣya śā́sato  
-dívaṃ yayá divāvaso  
+स्म꣡त्पुरंधिर् न आ꣡ गहि  
+विश्व꣡तोधीर् न ऊत꣡ये  
+दिवो꣡ अमु꣡ष्य शा꣡सतो  
+दि꣡वं यय꣡ दिवावसो  

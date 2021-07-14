@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-devā́ś cit te asuriya prácetaso  
-bŕ̥haspate yajñíyam bhāgám ānaśuḥ  
-usrā́ iva sū́riyo jyótiṣā mahó  
-víśveṣām íj janitā́ bráhmaṇām asi  
+देवा꣡श् चित् ते असुरिय प्र꣡चेतसो  
+ब्ŕ̥हस्पते यज्ञि꣡यम् भाग꣡म् आनशुः  
+उस्रा꣡ इव सू꣡रियो ज्यो꣡तिषा महो꣡  
+वि꣡श्वेषाम् इ꣡ज् जनिता꣡ ब्र꣡ह्मणाम् असि  

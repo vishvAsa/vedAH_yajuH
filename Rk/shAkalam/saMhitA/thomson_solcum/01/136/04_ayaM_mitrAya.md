@@ -2,10 +2,10 @@
 title = "004"
 
 +++
-ayám mitrā́ya váruṇāya śáṃtamaḥ  
-sómo bhūtu avapā́neṣu ā́bhago  
-devó devéṣu ā́bhagaḥ  
-táṃ devā́so juṣerata  
-víśve adyá sajóṣasaḥ  
-táthā rājānā karatho yád ī́maha  
-ŕ̥tāvānā yád ī́mahe  
+अय꣡म् मित्रा꣡य व꣡रुणाय शं꣡तमः  
+सो꣡मो भूतु अवपा꣡नेषु आ꣡भगो  
+देवो꣡ देवे꣡षु आ꣡भगः  
+तं꣡ देवा꣡सो जुषेरत  
+वि꣡श्वे अद्य꣡ सजो꣡षसः  
+त꣡था राजाना करथो य꣡द् ई꣡मह  
+ŕ̥तावाना य꣡द् ई꣡महे  

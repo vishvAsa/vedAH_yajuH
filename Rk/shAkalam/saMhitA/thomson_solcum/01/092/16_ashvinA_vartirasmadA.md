@@ -2,6 +2,6 @@
 title = "016"
 
 +++
-áśvinā vartír asmád ā́  
-gómad dasrā híraṇyavat  
-arvā́g ráthaṃ sámanasā ní yachatam  
+अ꣡श्विना वर्ति꣡र् अस्म꣡द् आ꣡  
+गो꣡मद् दस्रा हि꣡रण्यवत्  
+अर्वा꣡ग् र꣡थं स꣡मनसा नि꣡ यछतम्  

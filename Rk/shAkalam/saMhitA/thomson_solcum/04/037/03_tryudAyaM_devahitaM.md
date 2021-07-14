@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-triudāyáṃ deváhitaṃ yáthā va  
-stómo vājā r̥bhukṣaṇo dadé vaḥ  
-juhvé manuṣvád úparāsu vikṣú  
-yuṣmé sácā br̥háddiveṣu sómam  
+त्रिउदायं꣡ देव꣡हितं य꣡था व  
+स्तो꣡मो वाजा ऋभुक्षणो ददे꣡ वः  
+जुह्वे꣡ मनुष्व꣡द् उ꣡परासु विक्षु꣡  
+युष्मे꣡ स꣡चा बृह꣡द्दिवेषु सो꣡मम्  

@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-mā́ no agne sakhiyā́ pítriyāṇi  
-prá marṣiṣṭhā abhí vidúṣ kavíḥ sán  
-nábho ná rūpáṃ jarimā́ mināti  
-purā́ tásyā abhíśaster ádhīhi  
+मा꣡ नो अग्ने सखिया꣡ पि꣡त्रियाणि  
+प्र꣡ मर्षिष्ठा अभि꣡ विदु꣡ष् कविः꣡ स꣡न्  
+न꣡भो न꣡ रूपं꣡ जरिमा꣡ मिनाति  
+पुरा꣡ त꣡स्या अभि꣡शस्तेर् अ꣡धीहि  

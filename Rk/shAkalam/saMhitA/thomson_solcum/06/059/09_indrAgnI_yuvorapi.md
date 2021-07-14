@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-índraagnī yuvór ápi  
-vásu divyā́ni pā́rthivā  
-ā́ na ihá prá yachataṃ  
-rayíṃ viśvā́yupoṣasam  
+इ꣡न्द्रअग्नी युवो꣡र् अ꣡पि  
+व꣡सु दिव्या꣡नि पा꣡र्थिवा  
+आ꣡ न इह꣡ प्र꣡ यछतं  
+रयिं꣡ विश्वा꣡युपोषसम्  

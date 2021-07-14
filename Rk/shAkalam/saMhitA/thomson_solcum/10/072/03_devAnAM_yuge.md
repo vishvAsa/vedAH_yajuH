@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-devā́nāṃ yugé prathamé  
-ásataḥ sád ajāyata  
-tád ā́śā ánv ajāyanta  
-tád uttānápadas pári  
+देवा꣡नां युगे꣡ प्रथमे꣡  
+अ꣡सतः स꣡द् अजायत  
+त꣡द् आ꣡शा अ꣡न्व् अजायन्त  
+त꣡द् उत्तान꣡पदस् प꣡रि  

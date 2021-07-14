@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-yó nántuvāni ánaman ní ójasā  
-utā́dardar manyúnā śámbarāṇi ví  
-prā́cyāvayad ácyutā bráhmaṇas pátir  
-ā́ cā́viśad vásumantaṃ ví párvatam  
+यो꣡ न꣡न्तुवानि अ꣡नमन् नि꣡ ओ꣡जसा  
+उता꣡दर्दर् मन्यु꣡ना श꣡म्बराणि वि꣡  
+प्रा꣡च्यावयद् अ꣡च्युता ब्र꣡ह्मणस् प꣡तिर्  
+आ꣡ चा꣡विशद् व꣡सुमन्तं वि꣡ प꣡र्वतम्  

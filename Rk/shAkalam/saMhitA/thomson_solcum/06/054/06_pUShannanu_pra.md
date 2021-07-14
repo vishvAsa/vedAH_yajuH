@@ -2,6 +2,6 @@
 title = "006"
 
 +++
-pū́ṣann ánu prá gā́ ihi  
-yájamānasya sunvatáḥ  
-asmā́kaṃ stuvatā́m utá  
+पू꣡षन्न् अ꣡नु प्र꣡ गा꣡ इहि  
+य꣡जमानस्य सुन्वतः꣡  
+अस्मा꣡कं स्तुवता꣡म् उत꣡  

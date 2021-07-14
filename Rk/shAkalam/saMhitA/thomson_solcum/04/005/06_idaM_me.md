@@ -2,7 +2,7 @@
 title = "006"
 
 +++
-idám me agne kíyate pavāka+  
-áminate gurúm bhāráṃ ná mánma  
-br̥hád dadhātha dhr̥ṣatā́ gabhīráṃ  
-yahvám pr̥ṣṭhám práyasā saptádhātu  
+इद꣡म् मे अग्ने कि꣡यते पवाक+  
+अ꣡मिनते गुरु꣡म् भारं꣡ न꣡ म꣡न्म  
+बृह꣡द् दधाथ धृषता꣡ गभीरं꣡  
+यह्व꣡म् पृष्ठ꣡म् प्र꣡यसा सप्त꣡धातु  

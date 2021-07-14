@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-pitúś ca gárbhaṃ janitúś ca babhre  
-pūrvī́r éko adhayat pī́piyānāḥ  
-vŕ̥ṣṇe sapátnī śúcaye sábandhū  
-ubhé asmai manuṣíye ní pāhi  
+पितु꣡श् च ग꣡र्भं जनितु꣡श् च बभ्रे  
+पूर्वी꣡र् ए꣡को अधयत् पी꣡पियानाः  
+व्ŕ̥ष्णे सप꣡त्नी शु꣡चये स꣡बन्धू  
+उभे꣡ अस्मै मनुषि꣡ये नि꣡ पाहि  

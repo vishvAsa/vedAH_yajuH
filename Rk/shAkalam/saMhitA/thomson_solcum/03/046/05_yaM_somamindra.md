@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yáṃ sómam indra pr̥thivī́diyā́vā  
-gárbhaṃ ná mātā́ bibhr̥tás tuvāyā́  
-táṃ te hinvanti tám u te mr̥janti  
-adhvaryávo vr̥ṣabha pā́tavā́ u  
+यं꣡ सो꣡मम् इन्द्र पृथिवी꣡दिया꣡वा  
+ग꣡र्भं न꣡ माता꣡ बिभृत꣡स् तुवाया꣡  
+तं꣡ ते हिन्वन्ति त꣡म् उ ते मृजन्ति  
+अध्वर्य꣡वो वृषभ पा꣡तवा꣡ उ  

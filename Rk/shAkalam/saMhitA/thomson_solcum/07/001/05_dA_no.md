@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-dā́ no agne dhiyā́ rayíṃ suvī́raṃ  
-suapatyáṃ sahasiya praśastám  
-ná yáṃ yā́vā tárati yātumā́vān  
+दा꣡ नो अग्ने धिया꣡ रयिं꣡ सुवी꣡रं  
+सुअपत्यं꣡ सहसिय प्रशस्त꣡म्  
+न꣡ यं꣡ या꣡वा त꣡रति यातुमा꣡वान्  

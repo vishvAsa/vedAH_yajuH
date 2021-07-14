@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-tisró vā́ca úd īrate  
-gā́vo mimanti dhenávaḥ  
-hárir eti kánikradat  
+तिस्रो꣡ वा꣡च उ꣡द् ईरते  
+गा꣡वो मिमन्ति धेन꣡वः  
+ह꣡रिर् एति क꣡निक्रदत्  

@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yáṃ vardháyanti íd gíraḥ  
-pátiṃ turásya rā́dhasaḥ  
-tám ín nú asya ródasī  
-devī́ śúṣmaṃ saparyataḥ  
+यं꣡ वर्ध꣡यन्ति इ꣡द् गि꣡रः  
+प꣡तिं तुर꣡स्य रा꣡धसः  
+त꣡म् इ꣡न् नु꣡ अस्य रो꣡दसी  
+देवी꣡ शु꣡ष्मं सपर्यतः  

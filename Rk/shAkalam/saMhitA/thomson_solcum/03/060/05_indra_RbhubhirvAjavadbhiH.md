@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-índra rbhúbhir vā́javadbhiḥ sámukṣitaṃ  
-sutáṃ sómam ā́ vr̥ṣasvā gábhastiyoḥ  
-dhiyéṣitó maghavan dāśúṣo gr̥hé  
-saudhanvanébhiḥ sahá matsuvā nŕ̥bhiḥ  
+इ꣡न्द्र र्भु꣡भिर् वा꣡जवद्भिः स꣡मुक्षितं  
+सुतं꣡ सो꣡मम् आ꣡ वृषस्वा ग꣡भस्तियोः  
+धिये꣡षितो꣡ मघवन् दाशु꣡षो गृहे꣡  
+सौधन्वने꣡भिः सह꣡ मत्सुवा न्ŕ̥भिः  

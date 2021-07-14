@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-yuváṃ víprasya jaraṇā́m upeyúṣaḥ  
-púnaḥ kalér akr̥ṇutaṃ yúvad váyaḥ  
-yuváṃ vándanam r̥śyadā́d úd ūpathur  
-yuváṃ sadyó viśpálām étave kr̥thaḥ  
+युवं꣡ वि꣡प्रस्य जरणा꣡म् उपेयु꣡षः  
+पु꣡नः कले꣡र् अकृणुतं यु꣡वद् व꣡यः  
+युवं꣡ व꣡न्दनम् ऋश्यदा꣡द् उ꣡द् ऊपथुर्  
+युवं꣡ सद्यो꣡ विश्प꣡लाम् ए꣡तवे कृथः  

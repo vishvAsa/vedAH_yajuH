@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-revád váyo dadhathe° revád āśathe°  
-nárā māyā́bhir itáūti mā́hinam  
-ná vāṃ dyā́vo áhabhir nótá síndhavo  
-ná devatvám paṇáyo nā́naśur maghám  
+रेव꣡द् व꣡यो दधथे° रेव꣡द् आशथे°  
+न꣡रा माया꣡भिर् इत꣡ऊति मा꣡हिनम्  
+न꣡ वां द्या꣡वो अ꣡हभिर् नो꣡त꣡ सि꣡न्धवो  
+न꣡ देवत्व꣡म् पण꣡यो ना꣡नशुर् मघ꣡म्  

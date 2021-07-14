@@ -2,7 +2,7 @@
 title = "029"
 
 +++
-táva krátvā saneyaṃ táva rātíbhir  
-ágne táva práśastibhiḥ  
-tuvā́m íd āhuḥ prámatiṃ vaso máma  
-ágne hárṣasva dā́tave  
+त꣡व क्र꣡त्वा सनेयं त꣡व राति꣡भिर्  
+अ꣡ग्ने त꣡व प्र꣡शस्तिभिः  
+तुवा꣡म् इ꣡द् आहुः प्र꣡मतिं वसो म꣡म  
+अ꣡ग्ने ह꣡र्षस्व दा꣡तवे  

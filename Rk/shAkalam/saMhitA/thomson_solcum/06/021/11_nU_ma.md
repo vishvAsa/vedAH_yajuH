@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-nū́ ma ā́ vā́cam úpa yāhi vidvā́n  
-víśvebhiḥ sūno sahaso yájatraiḥ  
-yé agnijihvā́ r̥tasā́pa āsúr  
-yé mánuṃ cakrúr úparaṃ dásāya  
+नू꣡ म आ꣡ वा꣡चम् उ꣡प याहि विद्वा꣡न्  
+वि꣡श्वेभिः सूनो सहसो य꣡जत्रैः  
+ये꣡ अग्निजिह्वा꣡ ऋतसा꣡प आसु꣡र्  
+ये꣡ म꣡नुं चक्रु꣡र् उ꣡परं द꣡साय  

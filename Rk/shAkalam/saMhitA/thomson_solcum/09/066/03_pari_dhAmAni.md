@@ -2,6 +2,6 @@
 title = "003"
 
 +++
-pári dhā́māni yā́ni te  
-tuváṃ somāsi viśvátaḥ  
-pávamāna rtúbhiḥ kave  
+प꣡रि धा꣡मानि या꣡नि ते  
+तुवं꣡ सोमासि विश्व꣡तः  
+प꣡वमान र्तु꣡भिः कवे  

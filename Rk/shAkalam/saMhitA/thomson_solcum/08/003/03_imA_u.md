@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-imā́ u tvā purūvaso  
-gíro vardhantu yā́ máma  
-pavākávarṇāḥ+ śúcayo vipaścíto  
-abhí stómair anūṣata  
+इमा꣡ उ त्वा पुरूवसो  
+गि꣡रो वर्धन्तु या꣡ म꣡म  
+पवाक꣡वर्णाः+ शु꣡चयो विपश्चि꣡तो  
+अभि꣡ स्तो꣡मैर् अनूषत  

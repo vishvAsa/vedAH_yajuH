@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuvā́ṃ vājī́ havate vājineyó  
-mahó vā́jasya gádhiyasya sātaú  
-tvā́ṃ vr̥tréṣv indra sátpatiṃ tárutraṃ  
-tuvā́ṃ caṣṭe muṣṭihā́ góṣu yúdhyan  
+तुवां꣡ वाजी꣡ हवते वाजिनेयो꣡  
+महो꣡ वा꣡जस्य ग꣡धियस्य सातउ꣡  
+त्वां꣡ वृत्रे꣡ष्व् इन्द्र स꣡त्पतिं त꣡रुत्रं  
+तुवां꣡ चष्टे मुष्टिहा꣡ गो꣡षु यु꣡ध्यन्  

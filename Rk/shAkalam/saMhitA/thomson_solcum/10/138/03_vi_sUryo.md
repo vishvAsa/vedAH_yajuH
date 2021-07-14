@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-ví sū́ryo mádhye amucad ráthaṃ divó  
-vidád dāsā́ya pratimā́nam ā́riyaḥ  
-dr̥̄ḷhā́ni+ pípror ásurasya māyína  
-índro ví āsyac cakr̥vā́m̐ r̥jíśvanā  
+वि꣡ सू꣡र्यो म꣡ध्ये अमुचद् र꣡थं दिवो꣡  
+विद꣡द् दासा꣡य प्रतिमा꣡नम् आ꣡रियः  
+दॄऌहा꣡नि+ पि꣡प्रोर् अ꣡सुरस्य मायि꣡न  
+इ꣡न्द्रो वि꣡ आस्यच् चकृवाँ꣡ ऋजि꣡श्वना  

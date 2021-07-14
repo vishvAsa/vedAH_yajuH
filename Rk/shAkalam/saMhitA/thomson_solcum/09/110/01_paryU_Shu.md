@@ -2,6 +2,6 @@
 title = "001"
 
 +++
-pári ū ṣú prá dhanva vā́jasātaye  
-pári vr̥trā́ṇi sakṣáṇiḥ  
-dviṣás tarádhyā r̥ṇayā́ na īyase  
+प꣡रि ऊ षु꣡ प्र꣡ धन्व वा꣡जसातये  
+प꣡रि वृत्रा꣡णि सक्ष꣡णिः  
+द्विष꣡स् तर꣡ध्या ऋणया꣡ न ईयसे  

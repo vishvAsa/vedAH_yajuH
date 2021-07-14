@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-yé tvā deva usrikám mányamānāḥ  
-pāpā́ bhadrám upajī́vanti pajrā́ḥ  
-ná dūḍhíye ánu dadāsi vāmám  
-bŕ̥haspate cáyasa ít píyārum  
+ये꣡ त्वा देव उस्रिक꣡म् म꣡न्यमानाः  
+पापा꣡ भद्र꣡म् उपजी꣡वन्ति पज्राः꣡  
+न꣡ दूढि꣡ये अ꣡नु ददासि वाम꣡म्  
+ब्ŕ̥हस्पते च꣡यस इ꣡त् पि꣡यारुम्  

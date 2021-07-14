@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-índraprasūtā váruṇapraśiṣṭā  
-yé sū́ryasya jyótiṣo bhāgám ānaśúḥ  
-marúdgaṇe vr̥jáne mánma dhīmahi  
-mā́ghone yajñáṃ janayanta sūráyaḥ  
+इ꣡न्द्रप्रसूता व꣡रुणप्रशिष्टा  
+ये꣡ सू꣡र्यस्य ज्यो꣡तिषो भाग꣡म् आनशुः꣡  
+मरु꣡द्गणे वृज꣡ने म꣡न्म धीमहि  
+मा꣡घोने यज्ञं꣡ जनयन्त सूर꣡यः  

@@ -2,10 +2,10 @@
 title = "005"
 
 +++
-sáṃ yáj jánān krátubhiḥ śū́ra īkṣáyad  
-dháne hité taruṣanta śravasyávaḥ  
-prá yakṣanta śravasyávaḥ  
-tásmā ā́yuḥ prajā́vad íd  
-bā́dhe arcanti ójasā  
-índra okíyaṃ didhiṣanta dhītáyo  
-devā́m̐ áchā ná dhītáyaḥ  
+सं꣡ य꣡ज् ज꣡नान् क्र꣡तुभिः शू꣡र ईक्ष꣡यद्  
+ध꣡ने हिते꣡ तरुषन्त श्रवस्य꣡वः  
+प्र꣡ यक्षन्त श्रवस्य꣡वः  
+त꣡स्मा आ꣡युः प्रजा꣡वद् इ꣡द्  
+बा꣡धे अर्चन्ति ओ꣡जसा  
+इ꣡न्द्र ओकि꣡यं दिधिषन्त धीत꣡यो  
+देवाँ꣡ अ꣡छा न꣡ धीत꣡यः  

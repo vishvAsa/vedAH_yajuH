@@ -2,7 +2,7 @@
 title = "019"
 
 +++
-prabhaṅgáṃ durmatīnã́m  
-índra śaviṣṭha ā́ bhara  
-rayím asmábhyaṃ yújyaṃ codayanmate  
-jyáyiṣṭhaṃ+ codayanmate  
+प्रभङ्गं꣡ दुर्मतीन्ã꣡म्  
+इ꣡न्द्र शविष्ठ आ꣡ भर  
+रयि꣡म् अस्म꣡भ्यं यु꣡ज्यं चोदयन्मते  
+ज्य꣡यिष्ठं+ चोदयन्मते  

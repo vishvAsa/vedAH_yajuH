@@ -2,7 +2,7 @@
 title = "007"
 
 +++
-pravā́ciyaṃ śaśvadhā́ vīríyaṃ tád  
-índrasya kárma yád áhiṃ vivr̥ścát  
-ví vájreṇa pariṣádo jaghāna  
-ā́yann ā́po áyanam ichámānāḥ  
+प्रवा꣡चियं शश्वधा꣡ वीरि꣡यं त꣡द्  
+इ꣡न्द्रस्य क꣡र्म य꣡द् अ꣡हिं विवृश्च꣡त्  
+वि꣡ व꣡ज्रेण परिष꣡दो जघान  
+आ꣡यन्न् आ꣡पो अ꣡यनम् इछ꣡मानाः  

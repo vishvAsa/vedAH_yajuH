@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-ásāvi deváṃ gór̥jīkam ándho  
-ní asminn índro janúṣem uvoca  
-bódhāmasi tvā hariaśva yajñaír  
-bódhā na stómam ándhaso mádeṣu  
+अ꣡सावि देवं꣡ गो꣡ऋजीकम् अ꣡न्धो  
+नि꣡ अस्मिन्न् इ꣡न्द्रो जनु꣡षेम् उवोच  
+बो꣡धामसि त्वा हरिअश्व यज्ञइ꣡र्  
+बो꣡धा न स्तो꣡मम् अ꣡न्धसो म꣡देषु  

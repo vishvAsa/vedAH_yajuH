@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-br̥bádukthaṃ havāmahe  
-sr̥prákarasnam ūtáye  
-sā́dhu kr̥ṇvántam ávase  
+बृब꣡दुक्थं हवामहे  
+सृप्र꣡करस्नम् ऊत꣡ये  
+सा꣡धु कृण्व꣡न्तम् अ꣡वसे  

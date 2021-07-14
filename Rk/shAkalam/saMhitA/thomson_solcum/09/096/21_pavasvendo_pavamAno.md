@@ -2,7 +2,7 @@
 title = "021"
 
 +++
-pávasvendo pávamāno máhobhiḥ  
-kánikradat pári vā́rāṇi arṣa  
-krī́ḷañ camvòr ā́ viśa pūyámāna  
-índraṃ te ráso madiró mamattu  
+प꣡वस्वेन्दो प꣡वमानो म꣡होभिः  
+क꣡निक्रदत् प꣡रि वा꣡राणि अर्ष  
+क्री꣡ऌअञ् चम्वो᳡र् आ꣡ विश पूय꣡मान  
+इ꣡न्द्रं ते र꣡सो मदिरो꣡ ममत्तु  

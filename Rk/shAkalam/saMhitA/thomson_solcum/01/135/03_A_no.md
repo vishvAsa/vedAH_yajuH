@@ -2,10 +2,10 @@
 title = "003"
 
 +++
-ā́ no niyúdbhiḥ śatínībhir adhvaráṃ  
-sahasríṇībhir úpa yāhi vītáye  
-vā́yo havyā́ni vītáye  
-távāyám bhāgá r̥tvíyaḥ  
-sáraśmiḥ sū́riye sácā  
-adhvaryúbhir bháramāṇā ayaṃsata  
-vā́yo śukrā́ ayaṃsata  
+आ꣡ नो नियु꣡द्भिः शति꣡नीभिर् अध्वरं꣡  
+सहस्रि꣡णीभिर् उ꣡प याहि वीत꣡ये  
+वा꣡यो हव्या꣡नि वीत꣡ये  
+त꣡वाय꣡म् भाग꣡ ऋत्वि꣡यः  
+स꣡रश्मिः सू꣡रिये स꣡चा  
+अध्वर्यु꣡भिर् भ꣡रमाणा अयंसत  
+वा꣡यो शुक्रा꣡ अयंसत  

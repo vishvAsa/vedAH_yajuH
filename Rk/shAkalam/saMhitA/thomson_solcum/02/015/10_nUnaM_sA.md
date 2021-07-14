@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-nūnáṃ sā́ te práti váraṃ jaritré  
-duhīyád indra dákṣiṇā maghónī  
-śíkṣā stotŕ̥bhyo mā́ti dhag bhágo no  
-br̥hád vadema vidáthe suvī́rāḥ  
+नूनं꣡ सा꣡ ते प्र꣡ति व꣡रं जरित्रे꣡  
+दुहीय꣡द् इन्द्र द꣡क्षिणा मघो꣡नी  
+शि꣡क्षा स्तोत्ŕ̥भ्यो मा꣡ति धग् भ꣡गो नो  
+बृह꣡द् वदेम विद꣡थे सुवी꣡राः  

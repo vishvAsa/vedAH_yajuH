@@ -2,6 +2,6 @@
 title = "012"
 
 +++
-ā́ pavasva sahasríṇaṃ  
-rayíṃ gómantam aśvínam  
-puruścandrám puruspŕ̥ham  
+आ꣡ पवस्व सहस्रि꣡णं  
+रयिं꣡ गो꣡मन्तम् अश्वि꣡नम्  
+पुरुश्चन्द्र꣡म् पुरुस्प्ŕ̥हम्  

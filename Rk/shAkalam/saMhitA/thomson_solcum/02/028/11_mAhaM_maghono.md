@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-mā́hám maghóno varuṇa priyásya  
-bhūridā́vna ā́ vidaṃ śū́nam āpéḥ  
-mā́ rāyó rājan suyámād áva sthām  
-br̥hád vadema vidáthe suvī́rāḥ  
+मा꣡ह꣡म् मघो꣡नो वरुण प्रिय꣡स्य  
+भूरिदा꣡व्न आ꣡ विदं शू꣡नम् आपेः꣡  
+मा꣡ रायो꣡ राजन् सुय꣡माद् अ꣡व स्थाम्  
+बृह꣡द् वदेम विद꣡थे सुवी꣡राः  

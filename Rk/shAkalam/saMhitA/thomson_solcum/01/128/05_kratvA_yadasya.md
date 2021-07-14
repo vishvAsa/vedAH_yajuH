@@ -2,10 +2,10 @@
 title = "005"
 
 +++
-krátvā yád asya táviṣīṣu pr̥ñcáte  
-agnér áveṇa marútāṃ ná bhojíye  
-aśirā́ya ná bhojíyā  
-sá hí ṣmā dā́nam ínvati  
-vásūnãṃ ca majmánā  
-sá nas trāsate duritā́d abhihrútaḥ  
-śáṃsād aghā́d abhihrútaḥ  
+क्र꣡त्वा य꣡द् अस्य त꣡विषीषु पृञ्च꣡ते  
+अग्ने꣡र् अ꣡वेण मरु꣡तां न꣡ भोजि꣡ये  
+अशिरा꣡य न꣡ भोजि꣡या  
+स꣡ हि꣡ ष्मा दा꣡नम् इ꣡न्वति  
+व꣡सून्ãं च मज्म꣡ना  
+स꣡ नस् त्रासते दुरिता꣡द् अभिह्रु꣡तः  
+शं꣡साद् अघा꣡द् अभिह्रु꣡तः  

@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-utá dāsásya varcínaḥ  
-sahásrāṇi śatā́vadhīḥ  
-ádhi páñca pradhī́m̐r iva  
+उत꣡ दास꣡स्य वर्चि꣡नः  
+सह꣡स्राणि शता꣡वधीः  
+अ꣡धि प꣡ञ्च प्रधीँ꣡र् इव  

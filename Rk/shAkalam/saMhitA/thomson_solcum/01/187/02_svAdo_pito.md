@@ -2,6 +2,6 @@
 title = "002"
 
 +++
-svā́do pito mádho pito  
-vayáṃ tuvā vavr̥mahe  
-asmā́kam avitā́ bhava  
+स्वा꣡दो पितो म꣡धो पितो  
+वयं꣡ तुवा ववृमहे  
+अस्मा꣡कम् अविता꣡ भव  

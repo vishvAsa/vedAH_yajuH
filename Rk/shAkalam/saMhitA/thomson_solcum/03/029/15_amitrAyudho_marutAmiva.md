@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-amitrāyúdho marútām iva prayā́ḥ  
-prathamajā́ bráhmaṇo víśvam íd viduḥ  
-dyumnávad bráhma kuśikā́sa érira  
-éka-eko dáme agníṃ sám īdhire  
+अमित्रायु꣡धो मरु꣡ताम् इव प्रयाः꣡  
+प्रथमजा꣡ ब्र꣡ह्मणो वि꣡श्वम् इ꣡द् विदुः  
+द्युम्न꣡वद् ब्र꣡ह्म कुशिका꣡स ए꣡रिर  
+ए꣡क-एको द꣡मे अग्निं꣡ स꣡म् ईधिरे  

@@ -2,6 +2,6 @@
 title = "019"
 
 +++
-ná yuṣmé vājabandhavo  
-ninitsúś caná mártiyaḥ  
-avadyám ádhi dīdharat  
+न꣡ युष्मे꣡ वाजबन्धवो  
+निनित्सु꣡श् चन꣡ म꣡र्तियः  
+अवद्य꣡म् अ꣡धि दीधरत्  

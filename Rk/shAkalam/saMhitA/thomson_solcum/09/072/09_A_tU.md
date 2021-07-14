@@ -2,7 +2,7 @@
 title = "009"
 
 +++
-ā́ tū́ na indo śatádātu áśviyaṃ  
-sahásradātu paśumád dhíraṇyavat  
-úpa māsva br̥hatī́ revátīr íṣo  
-ádhi stotrásya pavamāna no gahi  
+आ꣡ तू꣡ न इन्दो शत꣡दातु अ꣡श्वियं  
+सह꣡स्रदातु पशुम꣡द् धि꣡रण्यवत्  
+उ꣡प मास्व बृहती꣡ रेव꣡तीर् इ꣡षो  
+अ꣡धि स्तोत्र꣡स्य पवमान नो गहि  

@@ -2,6 +2,6 @@
 title = "004"
 
 +++
-śúciḥ pavāka+ vándiyaḥ  
-ágne br̥hád ví rocase  
-tuváṃ ghr̥tébhir ā́hutaḥ  
+शु꣡चिः पवाक+ व꣡न्दियः  
+अ꣡ग्ने बृह꣡द् वि꣡ रोचसे  
+तुवं꣡ घृते꣡भिर् आ꣡हुतः  

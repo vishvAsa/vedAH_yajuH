@@ -2,7 +2,7 @@
 title = "010"
 
 +++
-yūyám asmā́n nayata vásyo áchā  
-nír aṃhatíbhyo maruto gr̥ṇānā́ḥ  
-juṣádhvaṃ no havyádātiṃ yajatrā  
-vayáṃ siyāma pátayo rayīṇā́m  
+यूय꣡म् अस्मा꣡न् नयत व꣡स्यो अ꣡छा  
+नि꣡र् अंहति꣡भ्यो मरुतो गृणानाः꣡  
+जुष꣡ध्वं नो हव्य꣡दातिं यजत्रा  
+वयं꣡ सियाम प꣡तयो रयीणा꣡म्  

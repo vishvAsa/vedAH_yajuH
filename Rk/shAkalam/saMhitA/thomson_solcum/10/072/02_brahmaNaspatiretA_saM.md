@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-bráhmaṇas pátir etā́  
-sáṃ karmā́ra ivādhamat  
-devā́nām pūrviyé yugé  
-ásataḥ sád ajāyata  
+ब्र꣡ह्मणस् प꣡तिर् एता꣡  
+सं꣡ कर्मा꣡र इवाधमत्  
+देवा꣡नाम् पूर्विये꣡ युगे꣡  
+अ꣡सतः स꣡द् अजायत  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tíṣṭhā sú kam maghavan mā́ párā gāḥ  
-sómasya nú tvā súṣutasya yakṣi  
-pitúr ná putráḥ sícam ā́ rabhe ta  
-índra svā́diṣṭhayā girā́ śacīvaḥ  
+ति꣡ष्ठा सु꣡ कम् मघवन् मा꣡ प꣡रा गाः  
+सो꣡मस्य नु꣡ त्वा सु꣡षुतस्य यक्षि  
+पितु꣡र् न꣡ पुत्रः꣡ सि꣡चम् आ꣡ रभे त  
+इ꣡न्द्र स्वा꣡दिष्ठया गिरा꣡ शचीवः  

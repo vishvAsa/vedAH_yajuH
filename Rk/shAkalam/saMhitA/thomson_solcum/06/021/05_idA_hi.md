@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-idā́ hí te véviṣataḥ purājā́ḥ  
-pratnā́sa āsúḥ purukr̥t sákhāyaḥ  
-yé madhyamā́sa utá nū́tanāsa  
-utā́vamásya puruhūta bodhi  
+इदा꣡ हि꣡ ते वे꣡विषतः पुराजाः꣡  
+प्रत्ना꣡स आसुः꣡ पुरुकृत् स꣡खायः  
+ये꣡ मध्यमा꣡स उत꣡ नू꣡तनास  
+उता꣡वम꣡स्य पुरुहूत बोधि  

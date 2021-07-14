@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-índrasya · áṅgirasāṃ ca iṣṭaú  
-vidát sarámā tánayāya dhāsím  
-bŕ̥haspátir bhinád ádriṃ vidád gā́ḥ  
-sám usríyābhir vāvaśanta náraḥ  
+इ꣡न्द्रस्य · अ꣡ङ्गिरसां च इष्टउ꣡  
+विद꣡त् सर꣡मा त꣡नयाय धासि꣡म्  
+ब्ŕ̥हस्प꣡तिर् भिन꣡द् अ꣡द्रिं विद꣡द् गाः꣡  
+स꣡म् उस्रि꣡याभिर् वावशन्त न꣡रः  

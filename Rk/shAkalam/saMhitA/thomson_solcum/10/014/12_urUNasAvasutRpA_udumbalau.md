@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-urūṇasā́v asutŕ̥pā udumbalaú  
-yamásya dūtaú carato jánām̐ ánu  
-tā́v asmábhyaṃ dr̥śáye sū́riyāya  
-púnar dātām ásum adyéhá bhadrám  
+उरूणसा꣡व् असुत्ŕ̥पा उदुम्बलउ꣡  
+यम꣡स्य दूतउ꣡ चरतो ज꣡नाँ अ꣡नु  
+ता꣡व् अस्म꣡भ्यं दृश꣡ये सू꣡रियाय  
+पु꣡नर् दाताम् अ꣡सुम् अद्ये꣡ह꣡ भद्र꣡म्  

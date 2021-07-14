@@ -2,6 +2,6 @@
 title = "010"
 
 +++
-yátra véttha vanaspate  
-devā́nāṃ gúhyā nā́māni  
-tátra havyā́ni gāmaya  
+य꣡त्र वे꣡त्थ वनस्पते  
+देवा꣡नां गु꣡ह्या ना꣡मानि  
+त꣡त्र हव्या꣡नि गामय  

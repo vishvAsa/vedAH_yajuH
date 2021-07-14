@@ -2,6 +2,6 @@
 title = "014"
 
 +++
-ádhīva yád girīṇã́ṃ  
-yā́maṃ śubhrā ácidhuvam  
-svānaír° mandadhva índubhiḥ  
+अ꣡धीव य꣡द् गिरीण्ãं꣡  
+या꣡मं शुभ्रा अ꣡चिधुवम्  
+स्वानइ꣡र्° मन्दध्व इ꣡न्दुभिः  

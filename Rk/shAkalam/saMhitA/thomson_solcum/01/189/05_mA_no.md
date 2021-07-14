@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-mā́ no agne áva sr̥jo aghā́ya  
-aviṣyáve ripáve duchúnāyai  
-mā́ datváte dáśate mā́dáte no  
-mā́ rī́ṣate sahasāvan párā dāḥ  
+मा꣡ नो अग्ने अ꣡व सृजो अघा꣡य  
+अविष्य꣡वे रिप꣡वे दुछु꣡नायै  
+मा꣡ दत्व꣡ते द꣡शते मा꣡द꣡ते नो  
+मा꣡ री꣡षते सहसावन् प꣡रा दाः  

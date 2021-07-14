@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-pári tmánā mitádrur eti hótā  
-agnír mandró mádhuvacā r̥tā́vā  
-drávanti asya vājíno ná śókā  
-bháyante víśvā bhúvanā yád ábhrāṭ  
+प꣡रि त्म꣡ना मित꣡द्रुर् एति हो꣡ता  
+अग्नि꣡र् मन्द्रो꣡ म꣡धुवचा ऋता꣡वा  
+द्र꣡वन्ति अस्य वाजि꣡नो न꣡ शो꣡का  
+भ꣡यन्ते वि꣡श्वा भु꣡वना य꣡द् अ꣡भ्राट्  

@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-só arṇavó ná nadíyaḥ samudríyaḥ  
-práti gr̥bhṇāti víśritā várīmabhiḥ  
-índraḥ sómasya pītáye vr̥ṣāyate  
-sanā́t sá yudhmá ójasā panasyate  
+सो꣡ अर्णवो꣡ न꣡ नदि꣡यः समुद्रि꣡यः  
+प्र꣡ति गृभ्णाति वि꣡श्रिता व꣡रीमभिः  
+इ꣡न्द्रः सो꣡मस्य पीत꣡ये वृषायते  
+सना꣡त् स꣡ युध्म꣡ ओ꣡जसा पनस्यते  

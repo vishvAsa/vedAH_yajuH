@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-pr̥ché tád éno varuṇa didŕ̥kṣu  
-úpo emi cikitúṣo vipŕ̥cham  
-samānám ín me kaváyaś cid āhur  
-ayáṃ ha túbhyaṃ váruṇo hr̥ṇīte  
+पृछे꣡ त꣡द् ए꣡नो वरुण दिद्ŕ̥क्षु  
+उ꣡पो एमि चिकितु꣡षो विप्ŕ̥छम्  
+समान꣡म् इ꣡न् मे कव꣡यश् चिद् आहुर्  
+अयं꣡ ह तु꣡भ्यं व꣡रुणो हृणीते  

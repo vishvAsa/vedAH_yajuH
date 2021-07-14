@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-nr̥cákṣaso ánimiṣanto arháṇā  
-br̥hád devā́so amr̥tatvám ānaśuḥ  
-jyotī́rathā áhimāyā ánāgaso  
-divó varṣmā́ṇaṃ vasate suastáye  
+नृच꣡क्षसो अ꣡निमिषन्तो अर्ह꣡णा  
+बृह꣡द् देवा꣡सो अमृतत्व꣡म् आनशुः  
+ज्योती꣡रथा अ꣡हिमाया अ꣡नागसो  
+दिवो꣡ वर्ष्मा꣡णं वसते सुअस्त꣡ये  

@@ -2,7 +2,7 @@
 title = "013"
 
 +++
-tád ín nv àsya pariṣádvāno agman  
-purū́ sádanto nārṣadám bibhitsan  
-ví śúṣṇasya sáṃgrathitam anarvā́  
-vidát puruprajātásya gúhā yát  
+त꣡द् इ꣡न् न्व् अ᳡स्य परिष꣡द्वानो अग्मन्  
+पुरू꣡ स꣡दन्तो नार्षद꣡म् बिभित्सन्  
+वि꣡ शु꣡ष्णस्य सं꣡ग्रथितम् अनर्वा꣡  
+विद꣡त् पुरुप्रजात꣡स्य गु꣡हा य꣡त्  

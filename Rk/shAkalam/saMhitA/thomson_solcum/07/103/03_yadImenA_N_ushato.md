@@ -2,7 +2,7 @@
 title = "003"
 
 +++
-yád īm enām̐ uśató abhy ávarṣīt  
-tr̥ṣyā́vataḥ prāvŕ̥ṣi ā́gatāyām  
-akhkhalīkŕ̥tyā pitáraṃ ná putró  
-anyó anyám úpa vádantam eti  
+य꣡द् ईम् एनाँ उशतो꣡ अभ्य् अ꣡वर्षीत्  
+तृष्या꣡वतः प्राव्ŕ̥षि आ꣡गतायाम्  
+अख्खलीक्ŕ̥त्या पित꣡रं न꣡ पुत्रो꣡  
+अन्यो꣡ अन्य꣡म् उ꣡प व꣡दन्तम् एति  

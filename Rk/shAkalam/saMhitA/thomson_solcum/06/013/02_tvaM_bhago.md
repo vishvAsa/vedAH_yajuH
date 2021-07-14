@@ -2,7 +2,7 @@
 title = "002"
 
 +++
-tuvám bhágo na ā́ hí rátnam iṣé  
-párijmeva kṣayasi dasmávarcāḥ  
-ágne mitró ná br̥hatá r̥tásya  
-ási kṣattā́ vāmásya deva bhū́reḥ  
+तुव꣡म् भ꣡गो न आ꣡ हि꣡ र꣡त्नम् इषे꣡  
+प꣡रिज्मेव क्षयसि दस्म꣡वर्चाः  
+अ꣡ग्ने मित्रो꣡ न꣡ बृहत꣡ ऋत꣡स्य  
+अ꣡सि क्षत्ता꣡ वाम꣡स्य देव भू꣡रेः  

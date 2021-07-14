@@ -2,6 +2,6 @@
 title = "005"
 
 +++
-sī́dantas te váyo yathā  
-góśrīte mádhau madiré vivákṣaṇe  
-abhí tvā́m indra nonumaḥ  
+सी꣡दन्तस् ते व꣡यो यथा  
+गो꣡श्रीते म꣡धौ मदिरे꣡ विव꣡क्षणे  
+अभि꣡ त्वा꣡म् इन्द्र नोनुमः  

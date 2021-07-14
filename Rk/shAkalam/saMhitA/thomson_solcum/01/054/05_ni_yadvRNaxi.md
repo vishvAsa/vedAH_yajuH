@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ní yád vr̥ṇákṣi śvasanásya mūrdháni  
-śúṣṇasya cid vrandíno róruvad vánā  
-prācī́nena mánasā barháṇāvatā  
-yád adyā́ cit kr̥ṇávaḥ kás tuvā pári  
+नि꣡ य꣡द् वृण꣡क्षि श्वसन꣡स्य मूर्ध꣡नि  
+शु꣡ष्णस्य चिद् व्रन्दि꣡नो रो꣡रुवद् व꣡ना  
+प्राची꣡नेन म꣡नसा बर्ह꣡णावता  
+य꣡द् अद्या꣡ चित् कृण꣡वः क꣡स् तुवा प꣡रि  

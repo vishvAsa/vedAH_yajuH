@@ -2,7 +2,7 @@
 title = "004"
 
 +++
-táva tyé soma pavamāna niṇyé  
-víśve devā́s tráya ekādaśā́saḥ  
-dáśa svadhā́bhir ádhi sā́no ávye  
-mr̥jánti tvā nadíyaḥ saptá yahvī́ḥ  
+त꣡व त्ये꣡ सोम पवमान निण्ये꣡  
+वि꣡श्वे देवा꣡स् त्र꣡य एकादशा꣡सः  
+द꣡श स्वधा꣡भिर् अ꣡धि सा꣡नो अ꣡व्ये  
+मृज꣡न्ति त्वा नदि꣡यः सप्त꣡ यह्वीः꣡  

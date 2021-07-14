@@ -2,6 +2,6 @@
 title = "015"
 
 +++
-ubhā́ pibatam aśvinā  
-ubhā́ naḥ śárma yachatam  
-avidriyā́bhir ūtíbhiḥ  
+उभा꣡ पिबतम् अश्विना  
+उभा꣡ नः श꣡र्म यछतम्  
+अविद्रिया꣡भिर् ऊति꣡भिः  

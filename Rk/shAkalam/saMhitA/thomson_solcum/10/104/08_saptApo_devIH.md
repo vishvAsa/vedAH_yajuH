@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-saptā́po devī́ḥ suráṇā ámr̥ktā  
-yā́bhiḥ síndhum átara indra pūrbhít  
-navatíṃ srotyā́ náva ca srávantīr  
-devébhyo gātúm mánuṣe ca vindaḥ  
+सप्ता꣡पो देवीः꣡ सुर꣡णा अ꣡मृक्ता  
+या꣡भिः सि꣡न्धुम् अ꣡तर इन्द्र पूर्भि꣡त्  
+नवतिं꣡ स्रोत्या꣡ न꣡व च स्र꣡वन्तीर्  
+देवे꣡भ्यो गातु꣡म् म꣡नुषे च विन्दः  

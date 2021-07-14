@@ -2,7 +2,7 @@
 title = "014"
 
 +++
-asyá máde purú várpāṃsi vidvā́n  
-índro vr̥trā́ṇi apratī́ jaghāna  
-tám u prá hoṣi mádhumantam asmai  
-sómaṃ vīrā́ya śipríṇe píbadhyai  
+अस्य꣡ म꣡दे पुरु꣡ व꣡र्पांसि विद्वा꣡न्  
+इ꣡न्द्रो वृत्रा꣡णि अप्रती꣡ जघान  
+त꣡म् उ प्र꣡ होषि म꣡धुमन्तम् अस्मै  
+सो꣡मं वीरा꣡य शिप्रि꣡णे पि꣡बध्यै  

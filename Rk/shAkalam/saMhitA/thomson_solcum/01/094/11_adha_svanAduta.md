@@ -2,7 +2,7 @@
 title = "011"
 
 +++
-ádha svanā́d utá bibhyuḥ patatríṇo  
-drapsā́ yát te yavasā́do ví ásthiran  
-sugáṃ tát te tāvakébhyo ráthebhiyo  
-ágne sakhyé mā́ riṣāmā vayáṃ táva  
+अ꣡ध स्वना꣡द् उत꣡ बिभ्युः पतत्रि꣡णो  
+द्रप्सा꣡ य꣡त् ते यवसा꣡दो वि꣡ अ꣡स्थिरन्  
+सुगं꣡ त꣡त् ते तावके꣡भ्यो र꣡थेभियो  
+अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व  

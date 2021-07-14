@@ -2,7 +2,7 @@
 title = "001"
 
 +++
-sutá ít tváṃ nímiśla indra sóme  
-stóme bráhmaṇi śasyámāna ukthé  
-yád vā yuktā́bhyām maghavan háribhyām  
-bíbhrad vájram bāhuvór indra yā́si  
+सुत꣡ इ꣡त् त्वं꣡ नि꣡मिश्ल इन्द्र सो꣡मे  
+स्तो꣡मे ब्र꣡ह्मणि शस्य꣡मान उक्थे꣡  
+य꣡द् वा युक्ता꣡भ्याम् मघवन् ह꣡रिभ्याम्  
+बि꣡भ्रद् व꣡ज्रम् बाहुवो꣡र् इन्द्र या꣡सि  

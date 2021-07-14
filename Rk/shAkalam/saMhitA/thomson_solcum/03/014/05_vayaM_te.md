@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-vayáṃ te adyá rarimā́ hí kā́mam  
-uttānáhastā námasopasádya  
-yájiṣṭhena mánasā yakṣi devā́n  
-ásredhatā mánmanā vípro agne  
+वयं꣡ ते अद्य꣡ ररिमा꣡ हि꣡ का꣡मम्  
+उत्तान꣡हस्ता न꣡मसोपस꣡द्य  
+य꣡जिष्ठेन म꣡नसा यक्षि देवा꣡न्  
+अ꣡स्रेधता म꣡न्मना वि꣡प्रो अग्ने  

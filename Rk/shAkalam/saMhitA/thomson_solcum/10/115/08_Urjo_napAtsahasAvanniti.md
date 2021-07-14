@@ -2,7 +2,7 @@
 title = "008"
 
 +++
-ū́rjo napāt sahasāvann íti tvā  
-upastutásya vandate vŕ̥ṣā vā́k  
-tuvā́ṃ stoṣāma tuváyā suvī́rā  
-drā́ghīya ā́yuḥ prataráṃ dádhānāḥ  
+ऊ꣡र्जो नपात् सहसावन्न् इ꣡ति त्वा  
+उपस्तुत꣡स्य वन्दते व्ŕ̥षा वा꣡क्  
+तुवां꣡ स्तोषाम तुव꣡या सुवी꣡रा  
+द्रा꣡घीय आ꣡युः प्रतरं꣡ द꣡धानाः  

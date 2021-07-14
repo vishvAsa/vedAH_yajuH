@@ -2,7 +2,7 @@
 title = "005"
 
 +++
-ná yáṃ ripávo ná riṣaṇyávo  
-gárbhe sántaṃ reṣaṇā́ reṣáyanti  
-andhā́ apaśyā́ ná dabhann abhikhyā́  
-nítyāsa īm prayitā́ro+ arakṣan  
+न꣡ यं꣡ रिप꣡वो न꣡ रिषण्य꣡वो  
+ग꣡र्भे स꣡न्तं रेषणा꣡ रेष꣡यन्ति  
+अन्धा꣡ अपश्या꣡ न꣡ दभन्न् अभिख्या꣡  
+नि꣡त्यास ईम् प्रयिता꣡रो+ अरक्षन्  

@@ -2,7 +2,7 @@
 title = "015"
 
 +++
-índra spáḷ utá vr̥trahā́  
-paraspā́ no váreṇiyaḥ  
-sá no rakṣiṣac caramáṃ sá madhyamáṃ  
-sá paścā́t pātu naḥ puráḥ  
+इ꣡न्द्र स्प꣡ऌ उत꣡ वृत्रहा꣡  
+परस्पा꣡ नो व꣡रेणियः  
+स꣡ नो रक्षिषच् चरमं꣡ स꣡ मध्यमं꣡  
+स꣡ पश्चा꣡त् पातु नः पुरः꣡  

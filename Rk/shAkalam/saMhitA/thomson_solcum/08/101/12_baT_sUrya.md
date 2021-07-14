@@ -2,7 +2,7 @@
 title = "012"
 
 +++
-báṭ sūriya · śrávasā mahā́m̐ asi  
-satrā́ deva mahā́m̐ asi  
-mahnā́ devā́nām asuryàḥ puróhito  
-vibhú jyótir ádābhiyam  
+ब꣡ट् सूरिय · श्र꣡वसा महाँ꣡ असि  
+सत्रा꣡ देव महाँ꣡ असि  
+मह्ना꣡ देवा꣡नाम् असुर्यः᳡ पुरो꣡हितो  
+विभु꣡ ज्यो꣡तिर् अ꣡दाभियम्  
