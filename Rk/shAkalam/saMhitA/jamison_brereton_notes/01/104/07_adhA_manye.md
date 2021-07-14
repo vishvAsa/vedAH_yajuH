@@ -1,0 +1,12 @@
++++
+title = "07"
+
++++
+The śrád √dhā lexeme is repeated here from the immediately preceding pāda (6d; cf. also I.103.3, 5). Curiously the announced “trust” seems to be undercut by manye “I think.” The phrase te asmai expressing the recipient of the trust requires some comment. Ge seems to take te as a dative, parallel to mahatá indriyā́ya in 6d, and asmai adverbially (“dafür”). But 6d also contains a te, which must be the genitive limiting the dat. phrase, and such an interpretation fits better here, with te dependent on asmai. What is the referent of asmai, whose referent should already be present in the discourse because of the lack of accent on asmai? The easiest interpretation is that it simply picks up indriyā́ya of 6d (so Re), but again, as in 3ab, this would seem an unartful duplication. Although my interpr. requires taking into account a longer stretch of discourse, it avoids the repetitive scenario. In I.103.1 Indra is credited with indriyá- in two locations, heaven and earth, and I think the dual nature of this indriyá- is what is at issue here: the heavenly one in 6d, the one right here (hence the near-deictic asmai) in 7a. So although asmai picks up the indriyā́ya of 6d, it also refers to a different aspect of this referent.
+
+Hoffmann (1967: 53, followed by WG) tentatively suggests taking cd as a single clause. This avoids the need to supply a verb in a, but the “unprepared womb” (Hoffmann’s “an unbereiteter Stätte”) of c does not seem to have much to do semantically with d.
+
+The object phrase váya āsutím in d, in conjunction with the dat. part.
+
+kṣúdhyadbhyaḥ ‘hungering’, invites an interpretation of the pair as “food and drink” (Ge “stärkende Speise und Trank”; Hoffmann just “Speise und Trank”; WG “Nahrung und Trank”). But the abstract nature of váyas- should be respected, and I also doubt that āsutí- is just any drink, rather than referring to the soma pressing. As for what it all means -- I would suggest that cd be interpreted in the context of the rest of the hymn, particularly the outer framework depicting Indra’s aid to the Ārya in conflict. They are here asking him not to drop them into battle without proper means (“into an unprepared womb”); the d pāda then expresses what they need: vital energy, that is, the physical and mental vigor required for combat, and the soma pressing, that is, the ritual means to attract Indra and secure his aid. Vs. 9 then issues the invitation to the soma drinking.
+

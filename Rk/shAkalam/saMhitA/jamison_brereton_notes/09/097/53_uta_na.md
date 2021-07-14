@@ -1,0 +1,25 @@
++++
+title = "53"
+
++++
+The mystery deepens in this vs. The first pāda is superficially just a variant of 52a, but it poses several problems. On the one hand pavayā́looks like an instr. sg. to a fem. pavā́-, whose more archaic instr. pavā́is found in 52a. But the accentuation is wrong: it should be
+
+*paváyā. AiG III.117 seems to dismiss the accent problem (sim. AiG II.2.247) and
+simply accept it as an instr., but Old considers other possibilities, incl. adverbial accent or analogy to ayā́in 52a. He rejects Lanman’s sugg. that it represents *pavā́yā́ (from *pavā́+ ayā́) on metrical grounds (bad break). I have a similar, but different suggestion that avoids the metrical problem: it represents *paváyā́, namely instr.
+
+*paváyā (with the correct accent) + ā́, the preverb we were seeking also in 52a,
+which again would put the preverb directly before the verb. The need for ā́is less acute here because there’s no apparent expressed obj. in the pāda, but vásūni can be assumed on the basis of 52a and the 2nd hemistich of this vs. 53c. Moreover, as in 52a I suggest that enā́may be neut. pl. and therefore there is an expressed obj.
+
+The other problem is enā́, which also appeared in 52a in a different position.
+
+Here, directly before pavayā́, it appears to be an instr., filling the role of ayā́in 52a.
+
+But enā́should be m./n., not fem. Though Ge (n. 53a) convinces himself it is fem.
+
+(and AiG III.524 recognizes at least one possible case of a fem. enā́), I think this is unlikely and, as in 52a, suggest that it is a neut. pl. This means that pavayā́ (/*paváyā) lacks an instr. demonstr. parallel to ayā́in 52a, but this is hardly a problem. Putting all this together, I would thus emend the tr. to “By purifying yourself with purification bring these (goods) here for us.” The next pāda is syntactically unimpeachable: it consists of a loc. phrase governed by ádhi with a gen. dependent on the loc. Moreover, all the words are known and their meanings uncontroversial. The problem is what they refer to when assembled into a phrase. They specify the place (or time) that the self-purification in pāda a is to happen: “at the famous ford GEN.” Given the ritual context, it seems unlikely that a real river ford is meant; instead it must be a metaphorical place or moment in the sacrifice. Most comparable - but unhelpful - is the phrase ā́pnānaṃ tīrtháṃ, which I interpr. as “opulent ford,” found at X.114.7, in a mystical hymn about the sacrifice. I suggest that in our passage it refers to the place/time of the distribution of goods. I further suggest that this refers to the transfer of goods from gods to humans, hence the metaphorical “ford” for crossing the god/mortal divide. In the next hemistich I suggest that it is Indra who is distributing vast numbers of goods. The gen. śravā́yyasya supports this view, since this adj. generally modifies vā́ja- ‘prize’ or rayí- ‘wealth’ (cf., e.g., IX.63.23 rayím … śravā́yyam), as Ge also points out (n. 53b). Ge and Re simply take śravā́yyasya as a PN, again simply to dodge the interpretational problem. Though the publ. tr. suggests it might be the place for the distribution of dakṣinās, I no longer believe that the passage concerns the dakṣiṇā, since I think this is a reference to Indra’s distribution of goods.
+
+The 2nd hemistich is entirely clear, except for the nom. sg. subject, the hapax naigutáḥ. This vṛddhi deriv. must be interpr. with ref. to its base, nigút-, which occurs in the acc. pl. in the next vs., as the designation of overpowered, indeed annihilated, foes; it is also found in X.128.6 (as nom. pl.), where it refers to enemies of some sort who are repulsed and defeated by Agni. Both Ge and Re tr. as a PN in our two vss. (though Ge ‘Schwätzer(?)’ in X.128.6). EWA (s.v.) suggests an appealing interpr., as a rt noun cmpd to √gu (his GAV) ‘call upon’; with the preverb ní ‘*nieder-rufend, schmähend’ in a verbal contest. This interpr. seems to be tacitly accepted by KH (KlSch 447), who tr. it in 54c as “Schmäher’; it is also presented by Scar (112-13), though hesitantly - and like Ge and Re he tr. it as a PN. By contrast, I find the suggestion quite plausible; I suggest the sense ‘challenger’ for nigút-. In contrast to nigút-, its vṛddhi deriv. in our vs. designates a successful and positively viewed figure, opposed to the nigút-s in the next vs. - hence my tr. ‘challengers’ challenger’ (Scar’s ‘Bezwinger der Niguts’, an interpr. that goes back to Sāy. and Ludwig [see Ge’s n. 53c]). As in 52d, I take the unnamed referent here to be Indra, though Ge (n. 53c) suggests Soma. The extravagance of the gifts and the apparent militant nature of naigutá- seems better suited to Indra, though a militant Soma is not out of the question.
+
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -1,0 +1,7 @@
++++
+title = "03"
+
++++
+The neg. scope problem potentially posed by víśve … ná -- “all did not” vs. “not all did” -- can be easily solved. See my 1997 “Vedic anyá- 'another, the other': syntactic disambiguation,” where I establish that the independent negative ná coocurs with víśva- only with the corporate entity víśve devā́ḥ, enforcing a meaning “all did not.” Reading *yūyudhuḥ would provide a better cadence. Old tentatively endorses this.
+
+The sense of pāda c is not entirely clear, but there are several factors that allow us to close in on the meaning. First, it seems to provide the reason why the gods did not fight Indra. Further, ā́tiraḥ recurs in vs. 7, and it seems unlikely that the two identical verbs would have substantially different meanings. Finally, as far as I can tell, all occurrences of náktam are temporal (‘by night’); when poets want to refer to night as an entity or entities they use rā́trī-, aktú-, or kṣáp-. (On uṣā́sā náktam in VIII.27.2, see comm. ad loc.) Therefore tr. like Ge (/WG) that take áhā náktam as parallel objects (e.g., Ge “als du Tage und Nacht abgrenztest”) cannot be correct. As indicated in the publ. intro., I think that this pāda concerns Indra’s destabilization of time when he steals the Sun’s wheel -- a myth that will be glancingly related in the next tṛca. What exactly is going on I don’t know -- it sounds as if Indra fast-forwards or skips over days during the night, perhaps because the Sun can’t make his normal daily circuit and therefore daytime is significantly abbreviated and no longer lasts as long as night?

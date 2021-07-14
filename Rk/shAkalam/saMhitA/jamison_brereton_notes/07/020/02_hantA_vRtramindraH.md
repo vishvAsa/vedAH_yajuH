@@ -1,0 +1,10 @@
++++
+title = "02"
+
++++
+Continuing the focus on nominal forms with verbal rection, the poet picks up the pāda-initial agent noun trātā́of 1d and deploys three more pāda-initial nominative tar-stems in 2a, c, d: hántā, kártā, and dā́tā, each with an acc. object (vṛtrám, ulokám, and vásu respectively). Although pāda b lacks a subject tar-stem, it does have one as object: jaritā́ram. The stem that began it all, trātā́in 1d, contrasts with those in vs. 2 by being suffix-accented, and it should therefore, according to general practice, have a genitive complement. I suggest that it’s not an accident that its object is the enclitic naḥ, which could be accusative (and thus parallel with the objects in vs. 2) or genitive (and thus conform to the usual rule). Recall this poet’s tricky case syntax with the tar-stem prayantā́in VII.19.1.
+
+The occurrence of parallel datives sudā́se (c) and dāśúṣe (d) recall their collocation in VII.19.6; see comments there.
+
+The phrase áha vaí (áha vā́in sandhi) interrupting the VP is very peculiar. It is easier to account for the vaí than the áha: the particle vaí, rather rare in the RV though very common in Vedic prose, is often found directly before the particle u. In this hymn it occurs twice (also 4d), in both cases before u, though not the particle u. Here before ulokám, which by most accounts is a haplology of *urú [*ulú] lokám, and in 4d before the perfect uvoca. I have no explanation for áha, whose function is also opaque to me in general. Although áha often takes Wackernagel (or modified Wackernagel) position, it is more flexibly positioned than most RVic particles, so showing up in the middle of the pāda as here is not as anomalous as it might be. My exclamatory tr. is meant to signal the interruptive quality of the phrase, but makes no claims as to its semantic accuracy. I suspect that the poet is indulging in phonological play (one faint possibility: áha vā́u mimics the opening of the next pāda, dā́tā vásu) or morphological or lexical manipulation, but it’s too deep for me.
+

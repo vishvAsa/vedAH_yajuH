@@ -1,0 +1,18 @@
++++
+title = "03"
+
++++
+The publ. tr. takes instr. ójasā as belonging to the gods, whereas the standard interpr. assign this ójas- to Savitar. Although there is no way to tell from the Skt., I think “with/through his power” is the better choice, esp. given the parallel instr.
+
+mahitvanā́in d, which is definitely Savitar’s. I would so emend the tr.
+
+The second hemistich at first appears quite straightforward syntactically, but the syntax clashes with what we expect the sense to be -- and on further inspection the syntax turns out to be skewed, too. I’m afraid that in the publ. tr. this has produced regrettable incoherence. Looking at the syntax first, we seem to find a textbook case of a relative / correlative construction: yáḥ … sá …, with an accented verb in the rel. cl. vimamé, hence “who measured out the earthly (ones), he …” But there is a problem, because the direct object of the rel. cl., pā́rthivāni, should be completed by rájāṃsi, which is technically in the main clause beginning with sá.
+
+This does not bother Ge or Re, who tr. the two acc. pls. together in the rel. cl. (e.g., Ge “der die irdischen Räume durchmessen hat …”). WG by contrast do notice the problem and tr. pā́rthivāni in the rel. cl. and rájāṃsi in the main cl. and supply all the missing parts in each cl.: “(er), der die irdischen (Räume) durchmessen hat, er ist Etaśa, der … die (irdischen) Räume (durchmessen hat) …,” which is similar to my publ. tr. -- though a bit more coherent -- but also a bit clumsier. The publ. tr. assumes that the 2nd set of spaces are ‘heavenly’; cf. IV.53.3 ā́prā rájāmsi divyā́ni pā́rthivā “(Savitar) has filled the heavenly and earthly spaces.” The semantic problem is posed by the phrase sá étaśaḥ smack in the middle and apparently starting the main clause, coreferential with the yáḥ in the rel. cl., which we all had good reason to think was referring to Savitar. One solution has been to take étaśa- as an adj., ‘dappled’ vel sim (so Sāy.: etavarṇaḥ śubhraḥ śobhamānaḥ) or ‘hastening’ (so Gr, though not for this passage). But most take it as the PN Etaśa, the famous, if often enigmatic, horse of the sun. Following that tactic, as far as I can see we must take it as an identification or a simile, with Savitar equivalent to Etaśa -- not as a complete change of subject.
+
+There are two ways I can see to do this -- 1) take sá étaśaḥ as a parenthetical interjection within the relative clause, which otherwise occupies all of cd: “Who measured out the earthly spaces -- he is Etaśa! -- with his greatness -- god Savitar …” or 2) to keep the rel./corr. structure but fold étaśaḥ in as unmarked identification / simile: “Who measured out the earthly (spaces), he, (like/as) Etaśa, measured out the (heavenly) spaces with his greatness: god Savitar.” I prefer the latter, because it allows us to supply ‘heavenly’ in the main clause, and surely the point of contact between Savitar and Etaśa in this context is that Etaśa crosses the heaven daily, “measuring it out,” as he pulls the sun’s chariot. Etaśa as a measurer of earthly spaces makes little sense. I would therefore emend the publ. tr. to the 2nd alternative.
+
+That Savitar is identified with Etaśa in one of his aspects may be supported by the explicit identifications with other figures in the next two vss.: mitró bhavasi (4d), pūṣā́bhavasi (5b).
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

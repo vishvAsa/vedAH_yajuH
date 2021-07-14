@@ -1,0 +1,6 @@
++++
+title = "02"
+
++++
+Pāda b índav índra íti kṣara “o drop, flow as ‘Indra’” is the strongest piece of evidence for the identification of Indra and Soma in the previous hymn (IX.5.7, 9) and is so cited by Ge (n. 7c to IX.5). As noted ad locc., I do not believe that those vss. equate the two gods; I do, however, believe that there is a (partial) equation here, on the basis of the mystical phonological near-identity of the two stems ‘drop’ (índu-) and ‘Indra’ (índra-), a similarity that is frequently exploited in this maṇḍala, as we have already noted. The identification of the two here also depends on the ambiguity of the goal of kṣara ‘flow’, namely mádam in pāda a. The stem máda- often refers to the ‘exhilarating drink’, namely soma itself, as well as to the abstract state of exhilaration. With Soma flowing to mádam, the former, concrete meaning is more or less excluded: S/soma can’t flow to itself. But the concrete goal is certainly available to the god Indra; cf. III.42.2 tám indra mádam ā́gahi, barhiṣṭhā́ṃ grā́vabhiḥ sutám “Come, Indra, to the exhilarating drink, stationed on the ritual grass, pressed by stones,” where the second pāda makes it clear that the concrete substance, not the abstract state, is meant. So if “Indra” substitutes for the drop here, mádam as concrete goal is possible. See also 9b and comm. thereon.
+

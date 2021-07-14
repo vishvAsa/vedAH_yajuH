@@ -1,0 +1,5 @@
++++
+title = "06"
+
++++
+pāṣyā̀has neither an etymology nor a secure meaning; it occurs only once elsewhere (pāṣyòḥ IX.102.2). Although the stem is given by Gr as (pāṣýa), pāṣía, it is better taken to a vṛkī-type -ī́-stem pāṣī́- (see Old ad loc.; AiG I. Nachtr. p. 126; tentatively also EWA s.v. pāṣāna-). By this analysis both forms can be du., and both contexts support an interpr. as a twinned body part. In this passage it is used of something belonging to Vṛtra that gets broken apart, so “jaws” is a contextually attractive translation. Savya’s I.52.6 vṛtrásya … nijaghántha hánvor indra tanyatúm “when you, Indra, struck your thunder down upon the two jaws of Vr̥tra” is similar to our ví vṛtrásya … pāṣyā̀rujaḥ “you broke apart the two pāṣī́of V.” In IX.102.2 the ref. seems to be to the two jaws of the soma-press. Despite the similarity of their aberrant phonology, it is hard to connect our pāṣī́- with later pāṣāna- ‘stone’, widely distributed also in Middle and New IA. See EWA s.v. pāṣāna- and, for the rejection of the connection, Old.

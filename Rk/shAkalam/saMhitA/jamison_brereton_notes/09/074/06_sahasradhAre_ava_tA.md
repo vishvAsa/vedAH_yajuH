@@ -1,0 +1,13 @@
++++
+title = "06"
+
++++
+The first pāda, sahásradhāré ‘va tā́ḥ asaścatáḥ is an abbreviated version of IX.73.4ab sahásradhāré ‘va té sám asvaran, … aśaścatáḥ. As in that vs. the earthly soma streams in the filter (a) are contrasted with (b) those in heaven (“the third realm” tṛtī́ye … rájasi, comparable to 73.4b divó nā́ke), though the latter are also probably rain.
+
+The interpr. of the 2nd hemistich is complicated by the unclear hapax nā́bhaḥ in c. Numerous suggestions have been made about its meaning: clouds (von Schröder, etc.; see Schindler), openings (Old, fld. by Maurer), teats (Ge), spurts (Re), springs (Lü 285, Doniger); for disc. see Schindler, Rt Nouns, s.v. nábh- and EWA s.v. NABH. Before focusing on the sense, it’s useful to observe that nā̆bh is a favorite phonological configuration for this poet: see nearly matching 4a nábho, in the same metrical position as our nā́bho, as well as 4b nā́bhir likewise in that position. We can also, at least in my view, eliminate the supposed root noun nábh- in I.174.8 from consideration and potential connection, since I take nábhaḥ there as a verb form. See comm. ad loc. With many (e.g., tentatively EWA), I connect nā́bhaḥ here with the root √nabh ‘burst’, and suggest that it has the adjectival sense ‘bursting’; the underlying noun subject is surely ‘streams’ again, referring to both the heavenly soma and the rain. The union of those two with the earthly soma is described in d.
+
+Why “four” is not entirely clear. Our passage might be illuminated by IX.89.5 cátasra īṃ ghrtad ̥ úhaḥ sacante “four, yielding ghee as their milk, accompany him” if there is any illumination to be gotten from that passage. Cf. also I.62.6, VIII.100.10, both with fem. ‘four’ and varieties of liquid nourishment. The most likely explanation for the “four” is suggested by Ge’s tr of nā́bhaḥ as “Zitzen(?)” (see also his n. 6c). Although I do not think that nā́bh- means ‘teat’ directly, I think the number four suggests that the streams here are likened to them: cows generally have four teats.
+
+Another similarity between this passage and IX.89.5 leads me to alter the publ. tr. here. The four in our passage are níhitāḥ (ní √dhā), which, with Re, I tr.
+
+“hidden.” But this ppl. is paralleled in IX.89.5 by the fuller phrase samāné antár dharúṇe níṣattāḥ “set down within the same support,” with an almost synonymous ppl. cmpd ní-ṣatta-: ní √sad), also characterizing the four. There I take níṣatta- in its literal sense and suggest that the “same support” might be the udder itself. I now wonder if níhitāḥ should also be taken literally here and mean “the four, deposited (in the udder), bursting …”

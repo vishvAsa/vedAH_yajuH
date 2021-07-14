@@ -1,0 +1,12 @@
++++
+title = "08"
+
++++
+Injunctive 1st sg. vádhīm belongs to the root aor. stem of this seṭ root, whose well-attested 2nd and 3rd sg. are (á)vadhīs, (á)vadhīt. The 1st sg. should be *vadham, which is nowhere attested. The -ī- has simply been imported from the 2nd/3rd sg.; vádhīm is attested once elsewhere in the RV, in the late hymn X.28.7.
+
+The juxtaposition of maruta indriyéṇa recalls the immediately preceding (7d) índra … marutaḥ.
+
+Pāda-final viśváścandrāḥ produces an irregular cadence of four heavy syllables; three of the remaining four occurrences of the stem occur in the same position (though once in dimeter vs.) and have the same effect. As is often remarked, the cmpd. would be metrically regular if the 2nd member were the related -candra, hence *viśvácandrāḥ with the light 2nd syllable appropriate to a Triṣṭubh cadence.
+
+The same problem afflicts the other cmpds of -ścandra- (áśva-, svá-, hári- and puru-, su-), which either show up in metrically indifferent positions or positions in which a light 2nd syllable would be favored (besides Triṣṭubh cadence, also right after an opening of 4, where a break ̆- - is distinctly bad). There are no forms where the meter is improved by reading -ścandra-. Although the obvious solution is simply to read *-candra-, I am puzzled as to how the -ścandra- forms won out. The duplicate pair ścandrá- / candrá- are for the most part in complementary distribution, with candrá- an independent adj. and 1st cmpd member and ścandrá- 2nd cmpd member (after vowel); ścandrá- appears 3x uncompounded, but in these cases it is in a sequence that functions like a quasi-cmpd (purú ścandrám III.31.15, pṛthú ścandrám IV.2.13, and possibly ádhi ścandrám VIII.65.11). So viśvá-ścandra- has the expected alternant, though in almost all cases a metrically unfavorable one. Must we reckon with a replacement of the originally correct -ścandra- by *-candra-, yielding a metrically usable form, and then redactional restoration of the -ścandra-? This hypothesis seems over-complex, but I don’t have a better one. In any case the poet seems to be toying with the form: the next pāda (8d) contains the offending sequence śc, though split across a word boundary (apáś cakara), and in 12c a candrá- compd., candrá-varṇā(ḥ) occupies the same pāda-final slot. Its initial also participates in the śc sequence: marutaś candrá-, so that the first member is effectively *ścandrá-.
+

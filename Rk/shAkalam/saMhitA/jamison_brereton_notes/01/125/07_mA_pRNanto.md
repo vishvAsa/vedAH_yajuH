@@ -1,0 +1,5 @@
++++
+title = "07"
+
++++
+I do not entirely understand pāda c, which must contrast with d. I assume the referents of téṣām are the generous patrons of ab, who are distinguished from the ápṛṇantam ‘non-granter’ of d. This non-granter is to be entirely engulfed (abhí sám √i) by śókāḥ. The stem śóka- and the various forms of the root to which it belongs (√śuc) otherwise refers to blazing flames in the RV, but in later Skt. it has come to mean ‘pain, affliction’. I think that both senses are present here, hence my portmanteau tr. “flames of pain.” The flames in this pāda may help in interpreting the previous one. One of the uses of paridhí- ‘enclosure’ is for the “enclosing sticks” placed around the Āhavanīya fire (already X.90.15 and common in ritual lit.). If the non-giver is being surrounded by flames in d, the givers in c deserve a different and benign enclosure (anyáḥ … paridhíḥ … káś cid), not the paridhí- that ordinarily surrounds the fire. Its nature remains unspecified: both the initial position of anyáand the final káś cid mark the referent as indefinite.

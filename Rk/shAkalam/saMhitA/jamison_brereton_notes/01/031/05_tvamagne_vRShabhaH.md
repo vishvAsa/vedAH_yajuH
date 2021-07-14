@@ -1,0 +1,16 @@
++++
+title = "05"
+
++++
+údyataśruce … śravā́yyaḥ: Ge’s (/WG’s) “ruhmbringend” is not possible for śravā́yya-, because this is a (pseudo-)gerundive and hence passive. The dat. údyataśruce can serve as agent, because RVic gerundives can take dat. agents (see Jamison 1979 [Die Sprache 25] 137-38 n. 14), as also in other IE languages.
+
+The publ. tr. renders bhavasi śravā́yyaḥ as “should be celebrated,” because a more lit. “become one to be celebrated.” However, despite its awkwardness, the more literal tr. should probably be prefered. The use of √bhū + GRDV may well indicate that Agni/the ritual fire only deserves celebration after he/it has been kindled and placed to the west. The ā́huti- in the next pāda may be an indirect ref. to the thusplaced fire as receiver of oblations, what will, by the time of the AV, be called the Āhavanīya.
+
+The rel. pronoun yáḥ in c has double reference: in c it refers to the priest in the 3rd ps. and is the subject of accented védā; in d it refers to Agni in the 2nd ps. and is the subject of the accented āvívāsasi. Both referents are present in the main cl.: the priest as údyataśruce in b and Agni of course as tvám agne in a. This grammatical play cannot be easily rendered in English.
+
+ékāyu- is a hapax and also probably a pun. On the one hand it is formed like viśvā́yu- ‘having a complete lifetime’, dīrghā́yu- ‘having a long lifetime’, hence ‘having a single lifetime’; on the other, it can contain the proper name of Āyu, who is found in vss. 2 and 11 of the hymn, hence Ge’s tr. “im Alleinbesitz des Āyu,” WG “den Āyu (als) einzigen (Opferer) hatte.” Although Ge (/WG) do not recognize the “lifetime” possibility, the parallel formations make such a reading hard to avoid. In the lifetime meaning, the compound presumably refers to the ritual fire’s duration through a single sacrifice or, perhaps more likely, through the lifetime of the sacrificer. In the personal-name reading, it would mean that Agni and our ritual fire have the ur-Aryan sacrificer and clanlord (see 11b) Āyu on their side (‘having Āyu as [yours] alone’?). In vs. 11 Agni is identified with Āyu the clanlord, and so here, in that identity, he brings together the víśaḥ ‘clans’. The publ. tr. does not register the personal-name reading, which should be remedied: I would add as an alternative tr.
+
+“having Āyu as yours alone.” ágre: Although in absolute usage this word can refer to the beginning of time, as it were, that sense seems unlikely here because of the present tense verb. I therefore consider it to reflect a phrase like ágre yajñásya (VII.15.5), at least in the primary reading. Secondarily, with the second meaning of ékāyu- (‘having Āyu as yours alone’), it may allude to the primal sacrifice.
+
+I added the parenthetical “divine” qualifying “clans” because gods (or their qualities) are the usual object of āvívāsa-, and I still think that is the more likely interpretation. However, ET points out to me that, in light of vs. 11b tvā́m … devā́ akṛṇvan náhuṣasya viśpátim “You … did the gods create as the clan-lord of Nahuṣa,” it might instead refer to human clans. Proferes (2007) argues at length, though not mentioning this hymn, that a royal fire can unite several clans.
+

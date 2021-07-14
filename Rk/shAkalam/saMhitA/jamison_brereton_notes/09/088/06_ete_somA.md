@@ -1,0 +1,8 @@
++++
+title = "06"
+
++++
+The simile in b is somewhat odd. It is in the nom. pl., and its comparandum should therefore be the soma juices (eté sómāḥ) in pāda a. But the sense of the simile, “like heavenly buckets” (divyā́ná kóśāsaḥ), doesn’t fit the soma juices, but rather the containers that hold the soma liquid. When the word kóśa- is used in ritual context, it refers to a bucket or cask, towards which the soma is generally moving. I therefore think that the comparison here is between the heavenly kóśa- and the sheep’s fleece filters in pāda a, from which the soma drips as if from a cloud. The third word of the simile, abhrá-varṣāḥ “possessing/holding the rain from clouds,” is the clue: soma is regularly compared to rain (see, e.g., Ober II.40-42) esp. as it comes off the filter, but here the comparison is to containers that are the source of rain. If this analysis is correct, a syntactic problem arises: the simile should be acc. pl. matching vā́rāṇy ávyā. I suggest that pāda b is parenthetical, that it does refer to the fleece filters, and that the fact that the latter is neut. facilitated the switch to the nominative parenthesis.
+
+The simile in c also has a slight twist, but is hardly as problematical as b. The simile particle here is positioned late, assuming that the simile consists of samudráṃ síndhavo ná nī́cīḥ “like rivers downward to the sea,” with samudrám corresponding to kaláśān in d. However, because samudrá- is regularly used in soma hymns as a (perhaps faded) metaphor for the waters that the soma enters, it may be that samudrám is not felt to be part of the simile here. Cf. the parallel passage IX.64.17 vṛ́thā samudrám índavaḥ / ágman “The drops have come at will to the sea,” without overt simile marking.
+

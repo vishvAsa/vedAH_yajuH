@@ -1,0 +1,11 @@
++++
+title = "06"
+
++++
+The lexeme ápa √sthā is quite rare in the RV with a fairly late distribution: besides this passage I have found only VIII.48.11 (a “popular” hymn acdg. to Arnold), X.106.2, and X.124.8. It means ‘stay/keep away’; in this context, where those who ápa √sthā are to be courted by Soma, in contrast to the śátru-, in whom he is urged to strike fear, it seems to refer to potential allies or members of our group who are currently staying neutral, sitting on the fence, as it were.
+
+Re identifies this vs. as displaying the three functions -- an interpr. that utterly escapes me.
+
+I take vidā́as 2nd sg. impv., with lengthened ending, contra the standard interpr. (Pp, Gr, Old, Lub) as 2nd sg. subj. vidā́s. (Ge and Re tr. as an impv. and do not comment, but it’s quite possible that they are so tr. what they consider a subjunctive.) The form is parallel to 2 impvs. in the same vs., úpa śikṣa (a), ā́dhehi (b), which support an impv. reading; the pāda is repeated twice (IX.43.4, 63.11), but those vss. lack other verb forms that would support one reading or the other. Other occurrences of vidā́are generally better taken as impv.
+
+(I.36.14, VI.48.9, VIII.61.7) or are syntactically and semantically indifferent (I.71.7). (I take the form in V.45.1 as the instr. of a root noun.) The only clear ex. of a subj. is in IX.40.4, where sandhi preserves the final cons.: vidā́ḥ sahasríṇīr … I assume the almost universal embrace of the Pp subjunctive readings results from the fact that there are no unambiguous imperative forms to this them. aor. stem -- that is, forms where the sandhi does not allow a - ā́s reading -- whereas there are several other subjunctives (e.g., vidā́si IX.35.1). But I do not see why an impv. would be excluded on principle; Macd (VedGr §512) gives several exx. of a- aorist imperatives, though he states that the mood is “of rare occurrence” -- a statement he also makes (§509) about the subjunctive to the same formation, however. It’s also worth noting that KH (Injunk. 263) takes vidó ṣú … in X.113.10 as impv. vidá + u, a reading supported by the sandhi of ṣú. On imperatival use of injunc. vidaḥ see comm. ad IX.20.3.

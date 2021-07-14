@@ -1,0 +1,7 @@
++++
+title = "06"
+
++++
+As noted above, ad VI.10.2, the phrase agníbhir idhānáḥ is found both there and in the next hymn, VI.12.6. It therefore seems unlikely that devébhiḥ should be construed in this collocation, despite its apparent parallelism, and, with Ge and Re, I take it as an instr. of accomp. with daśasyā́.
+
+My interpr. of the simile in the 2nd hemistich differs from the standard. Ge and Re assume that the comparandum for vṛjánaṃ ná is áṃhaḥ. Given the adjacency of the two expressions, this is reasonable. Ge’s version, however, relies on a somewhat unlikely interpr. (insofar as we understand this root) of áti √sras as ‘abstreifen’ (strip off): “… möchten wir die Not wie einen Gürtel abstreifen,” and the notion of “stripping off” áṃhas- seems odd. Re’s “puissions nous … glisser hors du défile-étroit comme (hors de) l’encerclement (ennemi)” does better with the verb, but requires vṛjána- to have a particular negative sense not elsewhere met with (pace his citation of X.27.5). In the publ. tr. I take the simile with rāyáḥ .. vāvasānā́ḥ “clothing ourselves in riches,” comparing the wealth we wear with a girthband. For a very similar expression, cf. I.173.6 sáṃ vivya índro vrjána ̥ ṃ ná bhū́ mā “Indra has enwrapped himself in earth, like a circlet,” with the same simile. Although the distance between rāyáḥ and the simile might speak against this interpr., it does work better semantically, and the parallel passage provides strong support. It does give me pause, however, that MLW is not convinced and thinks vṛjánaṃ ná must be construed with áṃhaḥ.

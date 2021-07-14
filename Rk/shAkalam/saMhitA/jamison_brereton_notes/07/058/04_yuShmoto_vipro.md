@@ -1,0 +1,20 @@
++++
+title = "04"
+
++++
+As noted just above, this vs. is structured by three (abc) pāda-init. yuṣṃótaḥ ‘aided by you’. The three separate clauses containing this opening build on each other in an interesting way, and the first two are also linked by a morphophonological relationship.
+
+To begin with the latter, both a and b end with a predicated -ín-stem qualifying the successful poet and the successful steed respectively with semantically parallel descriptors: … śatasvī́, … sahasrī́“possessing hundreds … possessing thousands.” The two words are also phonologically similar; to put it schematically, SaCasRī́, where the -s-Resonant-ī́final is esp. salient. The second one is correctly formed (to sahásra-) and well attested. The first is a hapax and aberrantly formed: the expected -ín-stem to śatá- is śatín-, which is in fact reasonably well attested.
+
+śatasvín- is obviously modeled on sahasrín- (already implied by AiG II.2.917 and Re ad loc.), aided by the fact that -vín- is regularly added to -as-stems (AiG II.2.917). So with śatá- temporarily re-configured as an -as-stem, the suffix -vín- can be affixed, allowing the stem to parallel sahasrín- in metrical and phonological shape. In b sahasrī́is immediately preceded by sáhuriḥ, which reinforces the phonological pattern: sahVri(ḥ).
+
+Now as to the relations among the three yuṣmótaḥ clauses. I suggest that they can be seen as an instance of Behagel’s Law (the law of “increasing members”) involving syntactic blocks, not merely NPs. Pāda a contains a noun and a predicated 93 adj. (vípraḥ … śatasvī́); pāda b a noun and two predicated adjectives (árvā sáhuriḥ sahasrī́). And pāda c has two clauses, a nominal one consisting of a noun (samrā́ṭ) predicated of an unexpressed subject (=Indra), and a full clause, with finite verb and object (hanti vṛtrám). My view of the increasing complication of syntactic structure in these three clauses produces interpr. of two of the clauses that differ from the standard. In b both Ge and Re (also Klein, DGRV I.436) take sáhuriḥ as an attributive adj. and only sahasrī́as predicated (e.g., “… does the winning steed become a possessor of thousand(-fold) booty”). This is of course possible, but both the structural argument already adduced and the pragmatic fact that the horse has to become victorious before he wins prizes speak for my interpr.
+
+In c the difference between interpr. is greater. I take samrā́ṭ as one clause, with the noun predicated of unmentioned Indra : “(Indra) is sovereign king.” This clause is linked to the next (hanti vṛtrám) by utá: “and (he) smites Vṛtra.” Ge, Re, and Klein all take samrā́ṭ simply as the subj. of hanti (e.g., “and with your aid does the great king smash the obstacle”). But this interpr. must ignore or explain away the position of utá. Klein is the only one who is explicit about the function of utá. He groups it with passages that contain “a repeated term within one of a set of parallel clauses,” conjoined by utá. But in the other exx. he gives (pp. 436-37) the utá is adjacent to the repeated element and in Wackernagel’s position. In our passage this should yield *yuṣmóta utá samrā́ṭ. Klein does not comment on utá’s position here.
+
+Although one could argue (though Klein does not) that utá was displaced to the right to avoid the clash …-óta utá, in fact that is the kind of clash that RVic poets like! (Indeed the presence of utá in this pāda may be partly to call attention to the compositionally suppressed -ūtá-.) My interpr. takes the utá as properly positioned to conjoin two clauses, and no special pleading (much less ignoring of the problem) is required.
+
+Although Indra’s name is not mentioned, hanti vṛtrám is of course a definitional predicate for Indra, who is also regularly identified as a samrā́j-. The Maruts’ role in helping Indra in the Vṛtra conflict is of course one of the contended issues in the RV (see the Agastya hymn I.165 for example).
+
+Re takes abc as expressing the three functions, which I find hard to see. Does he assume pāda b is the third function and c the second? Surely he doesn't see the smashing of Vṛtra in c as third function!
+

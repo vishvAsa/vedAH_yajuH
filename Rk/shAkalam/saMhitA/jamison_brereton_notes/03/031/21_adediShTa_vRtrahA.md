@@ -1,0 +1,11 @@
++++
+title = "21"
+
++++
+I follow Schaeffer (Intens., 133-34) in taking the medial intens. dédiṣṭe in the meaning ‘display (one’s own X)’ -- hence my different tr. of ádediṣṭa (a) ‘has put on display’ and diśámānaḥ ‘allotting’.
+
+I interpr. b as having a more complex construction than the standard interpr.
+
+The trouble is the antár phrase: when antár governs the acc., it is only used with dual (or plurals conceived as duals -- jātā́n ubháyān [IV.2.2], e.g.), but kṛṣṇā́n has no overt partner here. I suggest that it is an elliptical plural-for-dual: “black (nights) and (bright days)”; cf. VIII.41.10 śvetā́n ... kr̥ṣṇā́n used for days and nights. The elliptical kṛṣṇé used of Night and Dawn in 17a would support this, and in 20a the clearing of the mists at daybreak (if I’m right) might provide the other half of this elliptical duality. If this is correct, Indra comes between (antáḥ … gāt) the nights and days with the entities appearing in the instr. (aruṣaíḥ dhā́mabhiḥ). aruṣá- ‘ruddy’ can of course be used of Dawn and her various associates, esp. her “cows”; dhā́man- is a frustratingly multivalent word, but here I think it means ‘manifestation’ vel sim, and the phrase refers to the dawns, who of course come temporally between night and full day.
+
+The positioning of ca in d is somewhat disturbing, but I see no other way to explain it than Klein’s (DGRV I.225, II.102 n. 28): it conjoins the first and second half-verses, but takes Wackernagel’s position in the 2nd pāda of the 2nd half-verse “following an intervening participial phrase.” svā́ḥ ‘his own’ is in a very prominent position, as the last word in the last real vs. of the hymn (before the refrain, vs. 22). Why it should be emphasized that the doors that Indra opens are his own I do not know, beyond the fact that anything belonging to Indra is highly noteworthy. But I would point out that svā́ḥ may be a pun on s ú vaś (s ú vaḥ in pause) ‘sun’ initial in 19d (though unfortunately svā́ḥ is not distracted here as it so often is).

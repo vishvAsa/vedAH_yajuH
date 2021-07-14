@@ -1,0 +1,8 @@
++++
+title = "14"
+
++++
+The first hemistich of this vs. is quite problematic; see Old’s long disc. The problems lie in the verbs (or apparent verbs). The pf. cakré in b only makes sense in this context if it is construed with the preverb ā́in pāda a: ā́√kṛ ‘make (to come) here, bring here’. By contrast, the verbal stem duvasyá- is never otherwise construed with ā́, even though it appears to be here. Moreover, the recipient of the friendship offered by the verb duvasyá- is always in the accusative, not the apparent dat. duváse here. (Note also that the suffix-accented duvás- appears only here and in nearby I.168.3. It seems to show the regular possessive sense of s-stem adjectives built to sstem neuters by accent shift: hence dúvas- ‘friendship’ à duvás- ‘possessing friendship, friend’.) The best solution seems to me Roth’s suggested emendation of duvasyā́d to *duvasyā́, instr. of an abstract in -yā́, an emendation endorsed by Old.
+
+Hence I would alter the publ. tr. to “When/Since the wisdom of the son of Māna has brought us here with friendship, like a bard to a friend” vel sim. The emendation only requires de-gemination of the -d d- and has no effect on the meter; the addition of a -d might have been encouraged by the repetitive phonological pattern in a (which I will represent with false word division): yádduvas yā́(d)duvás(e). Note also the dental geminate in vartta in c, where the double -tt- may have been restored etymologically (since Rtt and Rt generally fall together). Although there is no nominal stem *duvasyā́-, there is the variant duvoyā́-, showing external sandhi (see AiG I.343), also appearing as in instr. (V.36.6, perhaps not coincidentally in an Indra hymn in a vs. addressed to the Maruts).
+

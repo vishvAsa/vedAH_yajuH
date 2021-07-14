@@ -1,0 +1,17 @@
++++
+title = "09"
+
++++
+For women as weapons see not only I.104.3 mentioned in the publ. intro. but also X.27.10 and disc. ad loc. For my interpretation of the sense of this vs., see publ. intro. I am tolerably certain about my reading of the first hemistich, but pāda c is more challenging and has given rise to some curious interpretations. Ge tr. “denn er hatte darunter seine zwei Frauenbrüste entdeckt,” commenting (perplexingly, at least to me) “Die beiden Milchbrüste für seine beiden Frauen” (n. 9c). (One would assume there would be four in all, at any rate.) Old thinks the two dhéne refer to the two liquids in the Namuci myth and ultimately (see his ref. to his own NGGW 1893 art. [=KlSch.
+
+635ff.]) to the Sautrāmaṇī ritual and its two separate oblations, milk and surā.
+
+Schmidt (Ged. Nyberg), more or less flg. Bloomfield, suggests that Indra recognizes two streams within himself, songs and libations, but this linkage of the literal and metaphorical through an elliptical dual seems quite unlikely. WG’s “Darunter aber hat er dessen beide Ströme erblickt” is literally close to mine, but they provide no guidance on what they mean by “his two streams.” My own tr. (“distinguished both his [=Dāsa’s?] streams”) is also not as informative as it might be. One problem is the meaning of the lexeme antár √khyā.
+
+To √khyā ‘see’ antár should add the sense of either ‘look within’ or ‘distinguish between’. The similarly formed antár √paś seems to have both these meanings: ‘look within’ in I.132.3 and ‘distinguish between’ in II.27.3. (In the latter passage JPB tr.
+
+‘look within’, but I consider that the less likely sense in context.) In the only other occurrence of antár √khyā, I.81.9, I tr. ‘detect’ (flg. Ge’s ‘endecken’ for this passage, V.30.9), a sense that can be somewhat tenuously derived from ‘look within a mass of stuff — and visually locate’. It’s also possible in that passage, which concerns the possessions of the impious, which Indra is supposed to bring to us, that he is distinguishing between those possessions and the ones that belong to deserving people and should stay put. In our passage here we might in the first instance think that ‘distinguish between’ would be a promising candidate, given the dual object. But I don’t think Indra is supposed to be seeing a difference between the two streams, but rather perceiving that they are just streams and therefore not formidable weapons -- thus encouraging his advance to fighting in pāda d. I am tempted to emend the publ.
+
+tr. to “detected/recognized both of his (weapons) as (just) streams.” Though the weapons (ā́yudhāni) were plural in pāda a, I think that is a general statement about turning women into weapons, whereas pāda c concerns the particular situation Indra confronts, the two barrier rivers -- the same situation as in I.104.3, which also contains two troublesome rivers.
+
+V.30.12, 14: The Anukr. takes ṛṇaṃcayá- as the PN of the king, and the standard interpr. follow this, incl. the publ. tr. I now wonder if it is at least a speaking name - and perhaps not a name at all but a descriptor: “requiting debts.” The royal patron who distributes largesse to poets and priests at a sacrifice is, from the point of view of the ritual economy, requiting his debts to them, who attracted the gods to the sacrifice and entertained them, leading them to grant tangible and intangible rewards to the patron.

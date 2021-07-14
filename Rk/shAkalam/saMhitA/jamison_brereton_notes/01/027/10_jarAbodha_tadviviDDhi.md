@@ -1,0 +1,9 @@
++++
+title = "10"
+
++++
+The supposed voc. járābodha in a is problematic on several grounds. It is generally taken to mean something like “attentive to the early call,” but 1) the first member, jarā́-, is only attested in the meaning ‘old age’ (hence Old’s suggested “im (bis zum) Greisenalter wachend”), and 2) the second member, the thematic nominal bodhá-, is not otherwise found in the RV (though it does occur in the AV). I therefore prefer to interpret it as a pair of linked imperatives, járā bodha. The latter is found 5x in the RV, as impv. to the thematized aor. to √budh ‘awake’; the former would belong to the thematic pres. jára- of √gṛ/jṛ ‘sing’. Although this present is ordinarily only middle (vs. járati ‘make old’), attraction in voice would not be surprising in a construction like this. The long -ā of járā simply reflects the common lengthening of the 2nd sg. impv. Although we might expect bodha to be accented, it may have lost the accent when the construction ceased to be understood, or it may never have received it in this close semantic nexus. Under this analysis the order of imperatives is actually “sing (and) awake!” which I have reordered for clarity.
+
+Alternatively, we might take járā to √gṛ/jṛ ‘awake’, which likewise builds a Class I middle pres., and translate “awake (and) take heed.” See Gotō 1987: 150-56 for discrimination of the various Class I jára- presents.
+
+Since dṛ́śīka- is otherwise a neut. substantive, I have rendered it as appositional to stómam rather than as an adjective (e.g., Ge “ein schönes Lied”). So also Re (“un corps-de-louange, chose belle à voir”). Note also the synesthesia, with the praise-song something to be seen, not heard. This usage somewhat anticipates the later Vedic notion that ṛṣis “see” divinely bestowed sāmans.

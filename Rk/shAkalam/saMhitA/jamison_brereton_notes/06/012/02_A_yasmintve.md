@@ -1,0 +1,15 @@
++++
+title = "02"
+
++++
+On svápāka- ‘very clever’, also VI.11.4, see comm. ad IV.3.2. As noted there the Pp. analyses this sequence as sú ápāka-, though Ge and Re take it as a cmpd ‘having a lovely backside’. Kü (214), however, follows the Pp. analysis (also fld. by Gr), and tr. “von Ferne kommend” (as Gr does). I do not see how a derivation from ápā(ñ)c- ‘facing/turned backward’ could yield such a sense, esp. in a non-ablatival formation, and, furthermore, Agni, the most present of gods, should not be “coming from afar.” Keydana’s “der du entfernt bist” lacks the ablatival element but still runs afoul of the other problems just noted.
+
+‘Heaven’ (dyaúḥ) is the performer of the sacrifice in Agni; the qualification sarvátātā-iva “as if in its entirety, in its entirety as it were” is explained, reasonably, by Ge as meaning the gods collectively, with dyaúḥ ‘heaven’ equivalent to “die Götterwelt.” Re follows this interpr., suggesting that sarvátātā is a variant of devátātā. For all the gods performing such sacrifice, see, e.g., X.88.7 adduced by Ge.
+
+In tr. yajatra as ‘the means of sacrifice’ I am taking the -tra- instrument suffix seriously: Agni as the receptacle and recipient of the oblations is indeed the means to sacrifice.
+
+In the publ. tr. the phrase introduced by the em-dash “— you the very clever …” contains only vocatives, though for ease of English they do not read as vocc.
+
+jáṃhas- is found independently only here, but also appears in the bahuvrīhis kṛṣṇá-jaṃhas- (I.141.7) and raghupátma-jaṃhas- (in nearby VI.3.5). Though jáṃhas- has no direct cognates and at best a root connection to IE *ǵhengh ‘go’ (EWA s.v.), the cmpds occur in contexts that limit the semantic realm to birds (to which Agni is compared in both cases, as also here) and that point to a bird body part, pace Gr’s ‘Weg, Gang, Bahn’ -- wings, wing-feathers, or plumage. The question is what the point of comparison between the bird’s jáṃhas- and three-seated (triṣadhástha-) Agni is, if in fact the simile is meant to further characterize that descriptor. Ge suggests that a bird alighting from flight appears to settle on his two wings and his tail-feathers (though MLW points out to me that, observationally, a bird appears to settle not on its two wings, but its two legs). MLW then suggests that “maybe jáṃhas- means originally ‘stride’ and then the ‘striding parts/ locomoting parts’ and finally ‘the bottom parts'” which in a bird may be three. Re, by contrast, takes the simile separate from triṣadhástha- and also interprets jáṃhas- as ‘enjambée’ (stride), though, as he explicitly admits, this involves “renouncing” the meaning ‘plumage’ that he ascribes to the same word in nearby VI.3.5, because “on obtient un sens plus facile” (a very dangerous principle to apply to RVic lexicography!).
+
+With most, I take yájadhyai again as a predicated inf. “(you are) to sacrifice,” as in vs. 1. Kü (214) curiously interprets it as passive (“… sind die Opfergaben … zu opfern”), though, as Keydana (174 n. 171) points out, the nom. triṣadhásthaḥ is then left hanging.

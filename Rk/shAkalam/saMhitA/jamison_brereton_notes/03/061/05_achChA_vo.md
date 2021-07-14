@@ -1,0 +1,6 @@
++++
+title = "05"
+
++++
+The standard tr. supply a form of √vac (Ge specifically vivakmi, invoking áchā vivakmi in nearby III.57.4a) in pāda a, which is then taken as a separate clause: “I (call) to Dawn for you …” Although I resisted this in the publ. tr., I now see its merits, in accounting for the preverb áchā, the double vaḥ (pādas a and b), and the acc. case of Dawn. I would therefore emend the tr. to “(I invite) for you the goddess Dawn, radiating widely; proffer your well-twisted (hymn) (to her) with reverence.” The standard tr. (also Lü 73, Kü 430) take rocanā́as a fem. nom. sg., in order, as Ge says (n. 5d), to allow prá … ruruce to have its expected intrans. sense. But well-attested rocaná- is otherwise only neut. (X.189.3 adduced by Ge, etc., as another ex. of a fem. should be otherwise explained), and in the pl. it regularly refers to the luminous realms. I would prefer not to create a separate stem to apply to a single example, esp. because the default interpr. of the form would be neut. pl. There is a simple solution that allows the neut. pl. analysis to be preserved without imperiling the intransitivity of ruruce -- to interpr. the neut. pl. as an acc. of extent, as often. The publ. tr. reflects this.
+

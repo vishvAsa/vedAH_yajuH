@@ -1,0 +1,16 @@
++++
+title = "02"
+
++++
+The first three pādas of this verse are in the standard high Rigvedic register and present the unsurprising themes of prosperity and reciprocity, but the fourth pāda violently wrenches the verse in an unexpected direction. The placidly happy relationship between host and guest depicted in vss. 1 and 2abc takes a sinister and coercive turn, but what precisely that turn consists of is partly obscured by the fact that pāda d contains two hapaxes (mukṣī́jā- and pádi-) and a very rare lexeme (úd √sā/si, otherwise only AV VI.112.2-3). What is clear is that the host derives great benefit from the visit of the early-coming one if he forces him to stay -- “ties him up” in fact.
+
+A simile adds precision to this picture, or it would if we understood it: mukṣī́jayeva pádim “(binds you up) like a pádi with a mukṣī́jā-.” Ge tr. “wie den Vogel in der Schlinge,” which certainly yields sense though it is essentially contextually inspired guesswork. (In content it is reminiscent of the clearer III.45.1 “Let no one hold you down, as men using snares do a bird.”) I have tried pushing it further, though with no confidence in the correctness of my speculations.
+
+I treated mukṣī́jā- elsewhere (Ged. Cowgill, 1987, pp. 89-91). I suggested there that the word is a deformation of muṣká- ‘testicle’ and that Kakṣīvant is making a play on his own name (which may itself mean ‘having a crotch’), esp. the -kṣī, with this deformation -- as he does elsewhere in his oeuvre. Taking this further, the -jāmay be the root noun to √jani , a root noun very common as a 2nd compound member (see the numerous exx. in Scar. 132-53). Those compounds are invariably accented on the -jā́-; I would attribute the accent here to the poet’s play on his name kakṣī́vant-.
+
+But what would this baroque confection mukṣī́jā- mean? If it literally means ‘originating from/at the testicles’, it could refer to a loin cloth, a strip of cloth that covers the genitals -- a thong -- and as a long strip of material it could be used to bind or tie up an animal.
+
+My interpr. of pádi- rests on even less evidence. I suggest, very tentatively, that it comes from a MIA form *pṛdi-, related to the Iranian forms borrowed into Greek as πάρδαλις, etc., as well as to Skt. pṛdāku-. In earlier lit. this word was said to mean ‘leopard, panther, tiger’ only in lexical texts, while its earlier occurrences mean ‘spotted snake’; see EWA, KEWA s.v. Mayrhofer attributes the later lexical meaning to borrowing from Iranian. But it clearly refers to a large wild feline in AVP II.18.1, since it is parallel to siṃha-‘lion’ and vyāghra- ‘tiger’; see Zehnder, Atharvaveda-Paippalāda, Buch 2, p. 59. In keeping with the racy tone in these two hymns, it could also be a pun on √pr̥d 'fart' (though this root is not attested in Vedic [see EWA s.v. pard], its representation in the younger language and in Iranian, incl.
+
+Avestan, suggests that it was known to Vedic speakers), and the desire to make the pun would have led K. to use an otherwise obscure word for wild animal here. Given the discrepancy in morphology (no forms of the shape *pṛdi- are attested in any relevant language) and the chronological gap, this gossamer hypothesis probably should be discarded -- but there is nothing stronger to take its place (and it gave me the opportunity to use the English word ‘pard’).
+

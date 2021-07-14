@@ -1,0 +1,18 @@
++++
+title = "08"
+
++++
+As discussed in the publ. intro., this verse is quite opaque and breaks the pattern of Agni-describing similes that has prevailed up to now in this hymn (and the last one). It has, not surprisingly, stimulated much discussion and some fanciful interpretations, all the details of which I will not rehearse here. The first question that must be addressed is what the first word (and the fourth), yamáḥ, represents here. Is it the PN Yama, naming the first man and the king of the dead? or the common noun ‘twin’? or even the common noun ‘controller’ (though we might then expect the accent yáma-)? What one decides about this question determines the direction of interpretation of the rest of the verse. Ge (/WG) take it as Yama, here identified with Agni; Re and Old (and I) as ‘twin’, with the two twins displaying different characteristics. The rhetorical structure of the verse favors this interpretation; not only do the first two pādas both begin yamáḥ, a repetition that invites (but does not require) a “the one … the other …” reading, but the contrastive characterizations found in cd also support it.
+
+The next problem is the gender discrepancy between jātáḥ (m.) and jánitvam (n.) in what appear to be parallel equational clauses. To solve this Ge (/WG) simply supply a verb with the second, to which jánitvam serves as object: “als Yama (erzeugt er) das künftiges Geschlecht.” But this would disturb the balanced structure of the verse, and it seems best to allow jánitvam to be predicated of yamáḥ, as Old and Re (and I) do. Where I differ from these latter is in my interpretation of the two equations. Old and Re take both twins to be identified with Agni, with each “twin” representing one aspect of Agni’s nature. I think that each twin is identified first with another entity, which is then secondarily identified with Agni. Although this might seem complex, it allows the other parts of the verse to bear more meaning than the exclusive “Agni = one twin, Agni = other twin” interpretation admits. As indicated in the publ. intro., I take the verse as reflecting the circumstances of the early morning ritual, when the fire is kindled at sunrise and the soma is pressed for the first offering.
+
+Under that interpretation the twin that has (already) been born (jātáḥ) would be the sun, at whose appearance the ceremony gets started. The twin that is the substance to be born (jánitvam) would be the soma. The two are not only twins of each other, but each is the twin of Agni. Soma and the sun are not infrequently identified (see, e.g., IX.66.18 tváṃ soma sū́ra éṣaḥ “you, Soma, are the sun”); the identification of Agni and the sun is a commonplace; and Agni can also be identified with Soma (see, e.g., the tṛca IX.66.19-21), and they frequently share epithets (like śúci-, discussed above 2d, though in another context).
+
+I then take the two pādas cd as referring to the sun and the soma respectively.
+
+The sun is “the lover of girls” because he appears with the Dawns. For the same phrase, in the acc., referring (most probably) to the sun, see I.152.4. Whereas in IX.86.32 our same phrase pátir jánīnām is applied to Soma, where the “women/wives” are the milk-drinks with which he is mixed. As for the secondary reference to Agni, of these characterizations, either group of females (or both) might refer to the offering ladles (fem. juhū́-) that approach the ritual fire with their oblations or the streams (fem. dhā́rā-) of melted butter being offered. See the fem. pl.
+
+nī́cīḥ in 10b.
+
+Despite the complications of this interpretation, it provides a rich reading of the enigmatic verse, which fits well with the two ritually centered verses that end the hymn.
+

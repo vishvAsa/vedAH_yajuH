@@ -1,0 +1,8 @@
++++
+title = "03"
+
++++
+This vs. contains the famous hapax akhkhalīkṛ́tya with the otherwise nonoccurring (in Skt.) cluster -khkh-. The word was brilliantly explained by Thieme (KZ [1951] 109 = KlSch 138). He sees it as the first attested cvi formation in Sanskrit.
+
+The base noun is akṣára- ‘syllable’, and the sense would be ‘making syllables’ -- a reference to the Indian pedagogical technique, still in use today in traditional instruction, of students repeating the text after the teacher, syllable by syllable, word by word. Here the teacher would be the father, as was most likely the original situation -- hence pitáraṃ ná putráḥ “like a son to his father.” Since even in RVic times the language used in instructing young boys would surely have been an early form of Middle Indo-Aryan, it would not be surprising that this technical pedagogical term should appear in MIA garb: akṣára should yield *akkhara- in early MIA -- and in fact does; cf. Pāli akkhara-. This has simply been transformed into the more “froggy” sounding *akhkhara- à akhkharī- in the cvi formation. This onomatopoetic rendering of a frog call is worthy to take its place beside the better known imitation in Aristophanes’s brekekekex koax koax. In fact, because the word does double duty in this passage -- imitating frog vocalizations directly, while implicitly comparing the frog chorus to the call-and-response style of childhood instruction -- our word seems even more ingenious and well chosen than the Greek. And it is quite striking that both the Greek and the Sanskrit immediately convince as froggy, though they are phonologically very distant from each other.
+

@@ -1,0 +1,5 @@
++++
+title = "04"
+
++++
+Pūṣan’s “good lineage (subándhuḥ) from Heaven and from Earth” directly recalls X.71.6 cited above ad vs. 1 prápathe pathā́ m ajaniṣṭa pūṣā́, prápathe diváḥ prápathe prthivy ̥ ā́ ḥ “On the forward path of paths was Pūṣan born, on the forward path of heaven, on the forward path of earth.” On the Sūryā story, see, inter alia, my 2001 “The Rigvedic svayaṃvara? Formulaic evidence” (Fs. Asko Parpola) and 2003 “Vedic vrā́: Evidence for the svayaṃvara in the Rig Veda?” (Fs. H.-P. Schmidt). It is very telling that Puṣan is given to Sūryā here (yáṃ devā́so ádadhuḥ sūryā́yai) rather than the reverse: the ordinary description of marriage, at least later, is kanyā-dāna- ‘the gift of a maiden’, but here she receives rather than being given, presumably a nod to her active role in the Svayaṃvara. Note the much more conventional depiction of Sūryā’s wedding (to a different bridegroom) in the wedding hymn, X.85.9 sūryā́ṃ yát pátye … savitā́dadāt “when Savitar gave Sūryā to her husband.”

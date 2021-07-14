@@ -1,0 +1,9 @@
++++
+title = "13"
+
++++
+Dabhīti is the beneficiary of Indra’s putting Cumuri to sleep in VI.26.6.
+
+Cumuri’s companion Dhuni is found with him in VI.18.8, and in our passage he immediately follows vs. 12, which contains two adj. usages of dhúni- ‘tumultuous, boisterous’.
+
+The second hemistich portrays Dabhīti assembling or preparing four different requisites of the sacrifice in four different morphosyntactic expressions: 1) a full participial phrase sómebhiḥ sunván “pressing with the soma juices,” 2) a bahuvrīhi idhmábhṛtiḥ lit. ‘having the bringing of the firewood’, 3) an -ín-stem possessive pakthī́‘having cooked food’ (based on an unattested *pakthá- ‘cooked food’), and 4) an instr. of accompaniment arkaíḥ “along with the chants.” The identity of the third has been called into question by Old (ZDMG 55.330, Noten). Though the sandhi form pakthy is analyzed by the Pp. as pakthī́with the long vowel appropriate to the nom. sg. of an -ín-stem, in fact in the cadence it would better be read short (though keep in mind the metrical disturbances throughout the hymn). Old toys with the idea that it has been influenced by the PN pakthá- and that it is underlyingly an instr. to the -ti-stem paktí- ‘cooked food’, hence *paktī́with shortening before the following vowel. This seems unnecessarily complex, and the PN pakthá- is neither well attested nor found nearby this passage. Since shortening of -ī́in hiatus was available for the instr., I see no reason why it shouldn’t have been analogically extended to the nom. of an -ín-stem in this case. Moreover, I think the morphosyntactic variety just described was deliberate, and replacing 3) with an instr. like that of 4) would disturb the sequence.

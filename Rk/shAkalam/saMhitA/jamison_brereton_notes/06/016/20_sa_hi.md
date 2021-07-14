@@ -1,0 +1,6 @@
++++
+title = "20"
+
++++
+The root √dāś ‘piously serve’ almost never takes an acc. object of the service or offering (but see vs. 31 below); moreover, it almost exclusively has a mortal subject and a god as recipient of the piety. Here, however, we have the opposite situation: it is impossible to avoid taking Agni as subject and a very concrete rayím as acc. object, with the implied recipients being us mortals. The clue here may be the preverb, as áti √dāś in its other occurrence seems to mean something like ‘out-pious the pious’: maghaír maghóno áti śūra dāśasi “With your bounties you outdo the bounteous ones in piety, o champion [=Indra].” Although the case frame is not exactly the same, the nuance is similar: human patrons are bounteous, but Indra is super-bounteous. In our passage Agni provides wealth “beyond all earthly (goods).” I previously thought that “earthly goods” were simply those material things that have their origins on/in the earth rather than heaven, but it may well be more pointed than that here: “goods that are given by those who stem from/dwell on earth, that is, humans.” So Agni outdoes human givers by providing wealth in excess of all the goods they can supply. On ‘goods’ as the appropriate noun to supply with víśvā … pā́rthivā, cf. VI.45.20ab sá hí víśvāni pā́ rthivām̐, éko vásūni pátyate as well as VI.59.9, IX.100.3, X.111.10.
+

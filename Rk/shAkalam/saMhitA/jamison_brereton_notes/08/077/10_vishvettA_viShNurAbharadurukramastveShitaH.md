@@ -1,0 +1,9 @@
++++
+title = "10"
+
++++
+Old and Ge (see his n. 10d) read loc. índre contra the Pp. nom. índraḥ and interpret the verse as meaning that Viṣṇu brought Emuṣa to Indra, along with the food named in pāda c. But this seems unlikely: the central fact of the myth is that Indra pierced the boar. Cf. I.61.7d vídhyad varāháṃ tiró ádrim ástā “He pierced the boar through the stone, (Indra) the archer.” This last pāda contains both Indra and the boar and ends with the boar’s name as if as the solution of a riddle (remember that this is the only occurrence of the name in the RV), and it would seem rhetorically anticlimactic for the image merely to be one of Viṣṇu lugging the corpse of the boar, along with some food, to Indra. Instead it seems the encapsulation of the myth, and I would further argue that it finally closes the incomplete syntactic circle begun in verse 6. In 6a we find nír āvidhyad giríbhya ā́“(he) pierced from/to/through the mountains,” with the signature verb and the signature locale (see ádrim in I.61.7 just quoted), but neither subject nor object. But in 10d we have both subject (reading nom. índraḥ with the Pp.) and object, but no verb. This seems a clever variant on ring composition, where a structure begun at the beginning of a section is completed at the end. Even if, as I suggest in the intro., vs. 10 is a tacked-on addition to the original Viṣṇu-less version of the myth found in the rest of this hymn (and other mentions in VIII), the poet has cleverly made use of the underdefined treatment in 6a to attach vs. 10 more closely to vss. 6-9 by supplying the missing pieces in 10d.
+
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/10-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -1,0 +1,10 @@
++++
+title = "12"
+
++++
+The grammar of ab is so straightforward that it is easy to overlook how odd the statement is. It is not surprising that the sun does not confound the quarters or directions (díśaḥ); after all, the layout of the cosmos is not likely to be altered by the sun as it passes through. But what does it mean that these same díśaḥ are prasūtā́ḥ every day by Indra? The ppl. can only belong either to √sū ‘propel’ or √sū ‘give birth’, far more likely the former (pace WG, who seem to take it to the latter): only the former is found with prá and in fact 9d contains an exactly parallel expression, tváyā … prásūtāḥ “propelled by you.” Ge tr. “vom Falbenlenker bestimmten,” but ‘determined, fixed, set’ seems the exactly opposite of what prá √sū ordinarily means, including in nearby 9d. Such a meaning makes more sense of this vs. but at the expense of arbitrarily assigning a unique meaning to this rather common lexeme. If we take the idiom seriously, the hemistich seems to be saying that while the sun respects the placement of the parts of the cosmos, Indra pushes them around in some fashion, remaking or reconfiguring the cosmos daily. I simply do not understand this; I must be missing something. Perhaps Indra arranges the díśaḥ every day in a slightly new way for the sun’s road? The sun is presumably the subj. of ā́naṭ; so the standard tr.
+
+The cmpd háryaśvaprasūta- technically has three members -- that is a 2nd member ppl. (prásūta-) whose 1st member is itself a cmpd. This would be somewhat unusual for the RV, where cmpd size is quite limited. But the bv. háry-aśva- is so frozen as an epithet of Indra that it was probably not fully perceived as a cmpd. Cf. the exactly equivalent índra-prasūta- (1x). Ge (/WG) seems to interpr. ádhvanaḥ as acc. pl. (“Wenn sie ihre Wege vollendet hat”). Because I am not at all certain that √naś can be used that way with an acc., I take ádhvanaḥ as gen. sg., with a supplied ‘end’; cf. V.54.10 ádhvanaḥ pārám aśnutha with the same root. So apparently also Re.
+
+áśvaiḥ is an instr. of separation with vimócanam.
+

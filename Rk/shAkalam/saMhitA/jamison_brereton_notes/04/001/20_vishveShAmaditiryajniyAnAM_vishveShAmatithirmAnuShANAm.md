@@ -1,0 +1,5 @@
++++
+title = "20"
+
++++
+Within the balanced phrases of the first hemistich -- víśveṣām áditir yajñíyānām, víśveṣām átithir mā́nuṣāṇām -- the nearly identical nominatives áditir and átithir make rhetorical sense. But why Agni is called, or identified as, Aditi (or boundlessness or innocence, if it is used as a common noun) is unclear. Since Aditi is the archetypal divine mother, perhaps Agni is being credited with a maternal relation to the gods, as a deliberate paradoxical foil to vs. 1, where the gods install Agni and are his de facto parents, and to the other accounts of his birth in this hymn. It is also the case that Agni is closely associated with Varuṇa, a son of Aditi, early in the hymn (vss. 2, 3, 4, 5, also 18), though in vs. 2 it is explicitly stated that Agni is Varuṇa’s younger brother, certainly not his mother. For a different wordplay involving áditisee IV.2.11 in the next hymn.

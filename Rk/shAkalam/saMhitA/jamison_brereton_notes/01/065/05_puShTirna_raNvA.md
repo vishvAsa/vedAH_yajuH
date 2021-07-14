@@ -1,0 +1,5 @@
++++
+title = "05"
+
++++
+It is tempting to take the adjectives raṇvā́, pṛthvī́, and śambhú as referring to Agni and specifying the term of comparison with the item in the simile (“broad like a place of peaceful dwelling,” etc.), and in fact Ge (mostly) and Re (entirely) give in to this temptation. However, all three adjectives agree in gender with the noun in the simile (fem. in the first two, neut. in the last), and although it would be possible to explain this agreement as “attraction” (so Re), a simpler solution is to assume that the adjective belongs with the comparandum. (So also WG.) The phrase girír ná bhújma poses a different problem, in that girí- is masc., and therefore if bhujmá is an adjective, it does not modify giríḥ — unlike the otherwise entirely parallel expression in VIII.50.2 (Vālakh.) girír ná bhujmā́. We should either emend the text (à bhujmā́, so Gr) to agree with that passage (“like a beneficial mountain”) or take it as a nominalized neut. “source of benefit,” the solution adopted in the publ. tr. On this characteristic of mountains, see, e.g., I.55.3.

@@ -1,0 +1,13 @@
++++
+title = "09"
+
++++
+The impv. didīhí in b is accented because it follows the pāda-init. complex voc. phrase íṣas pate. On the impv. and its twin dīdihí with switched quantity, see Old ad loc. The well-attested redupl. formation(s) to √dī, a perfect transitioning to a redupl. pres. (see, e.g., my “The Vedic Perfect Imperative” [Fs. Lubotsky, 2018]: 58- 59), show a long ī in the root syllable only in the impv. didīhí (1x accented, 11x unacc.); the weak forms otherwise show only dīdi-, incl. the competing impv. dīdihí (1x accented, 17x unacc.). They are mostly distributed metrically: dīdihi is found almost exclusively in final position in a Jagatī or iambic dimeter line; didīhi regularly takes final position in a Triṣṭubh line. But a few examples of both forms are found in metrically unfavorable places. E.g., in VIII.60.6 dīdihi occurs after a 5-syl. opening; although HEAVY LIGHT is an attested break, LIGHT LIGHT (*didihi, to an unattested stem form) would be better. Likewise, our form, found after a 4-syl. opening, presents an unusual L H L break, though neither *dīdihi nor *didihi would give the most favored break. (Old states that we would expect *dīdihi here, but does not suggest emending because there are several other exx. of L H L breaks in this hymn.) It is also worth noting that didīhi is found several times in the curious phrase … sám íṣo didīhi (naḥ)# “illuminate our refreshments entirely” (III.3.7, 54.22, V.4.2), and our passage contains the voc. íṣas pate “o lord of refreshment,” so that the presence of íṣaḥ may have triggered the didīhi variant here. As for the source of the variation, it’s possible that transposing the Jagatī/iambic-final dīdihi into a Triṣṭubh cadence may have led to an almost mechanical balancing of quantities (on the model of alternations like vavardh- / vāvṛdh-), and then both forms were sometimes used outside of their original places (including didīhi in Jagatī/iambic cadences, with the addition of final naḥ [III.3.7, V.25.2]), though this seems too convenient an explanation.
+
+The notion that “the middle bucket” (kóśa- madhyamá-) is the rain cloud goes back to Sāy. and makes good sense, esp. given the explicit rain in the next vs. (10c).
+
+It is possible that the impv. didīhí ‘illuminate’ in the first hemistich is meant to evoke lightning in this context, although it is not otherwise found in this usage, as far as I can tell.
+
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

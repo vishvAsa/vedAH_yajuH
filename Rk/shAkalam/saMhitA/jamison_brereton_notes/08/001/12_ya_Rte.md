@@ -1,0 +1,8 @@
++++
+title = "12"
+
++++
+As indicated in the publ. intro., this verse poses serious problems of interpretation. It is also found in the AV in a marriage hymn (AVŚ XIV.2.47), used as an expiation when something is broken during the sacrifice, or anything on the bridal car needs mending, or when a student’s staff is broken (see Whitney AV ad loc.). The verse is extensively and illuminatingly discussed by Old, who summarizes the first two pādas as indicating that (a) Indra heals without using any adhesive material to bring together the damaged parts, and b) he does so before the weapon (unmentioned but presumed by Old to be the cause of the damage) drills through to the collarbones, or rather the rib cartilage. This scenario seems plausible, although it rests on several assumptions not explicit in the text, and it is essentially followed by Ge, Tichy (1995: 327, 338), and Scar. I would only mildly dispute taking the root noun abhiśríṣ- in pāda a as a concrete noun, a sort of band-aid (ṛté cid abhiśríṣaḥ “auch ohne Verband” Ge, Tichy, Scar; see also EWA II.670), a piece of equipment that seems uncharacteristic of Indra. This ablative seems to me parallel to the ablative in b, purā́... ātṛ́daḥ “before drilling through,” and this parallelism invites an abstract verbal interpretation of ṛté … abhiśríṣaḥ “without clasping/taking hold.” The point would be that Indra can heal from afar, without even touching the afflicted, and can intervene before the damage is done. The root √śreṣ is primarily an Atharvan word and is found elsewhere in the RV only in the horse sacrifice hymn, I.162.11.
+
+Most similar to our passage is AVŚ III.9.2 aśreṣmā́ṇo adhārayan "Without claspers they held fast."
+

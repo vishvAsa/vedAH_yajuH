@@ -1,0 +1,7 @@
++++
+title = "19"
+
++++
+Ge and Re take hīḷáḥ as a gen., construed with ántaraḥ interpreted as ‘between’; hence “the sacrifice comes between (us and) your anger.” But this poses several difficulties: antarā́and sometimes antár mean ‘between’, but ántaraordinarily means ‘nearer, dearer’; moreover, the other party to the ‘between’ reading, namely ‘us’, is not in the text. Old’s solution, which I follow, avoids both difficulties.
+
+He takes hīḷáḥ as an ablative (also accepted by Schindler, Rt Nouns), construed with the comparative ántaraḥ. The idea must be that, given the choice between holding on to their anger and accepting a sacrifice, they will opt for the latter. This sentiment might be more straightforwardly expressed in English by “Sacrifice is closer to you than your anger,” rather than the publ. tr. “There is a sacrifice …” However, I am disturbed by ásti: a copular sentence like the one suggested does not need, and should not have, a surface copula. I therefore take it as an existential “there exists a sacrifice that is closer …” As for the accent, ásti may be accented because it follows a pādainitial voc. or because it is immediately followed by another verb and shows contrastive accent.

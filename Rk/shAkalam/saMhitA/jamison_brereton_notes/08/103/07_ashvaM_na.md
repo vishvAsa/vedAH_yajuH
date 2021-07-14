@@ -1,0 +1,9 @@
++++
+title = "07"
+
++++
+Ge/Re take rathyàm as an adjective with áśvam in the simile (e.g., Ge “Wie ein Wagenross …”). This is possible, if it is derived from the thematic stem rathyà-, rather than rathī́-, where Gr classifies it. However, the interposition of gīrbhíḥ distances it from the simile, and I prefer to take it as the acc. of rathī́- ‘charioteer’. Agni is often called the charioteer of the sacrifice (etc.), e.g., I.44.2 ágne rathī́r adhvarā́ṇām, and his description as “controller of chariots” (ráthānāṃ yámam) a few vss. later (10c) seems like a paraphrase of such a formula. In that case the poetic figures are more complex than the standard interpr.: there is a metaphor (Agni as charioteer), and this metaphorical identification is then compared explicitly in a simile to a horse, which is closely connected conceptually with the charioteer -- a kind of figurative chaining.
+
+The words toká- and tánaya- regularly appear together; cf., with the same verb as here, the acc. sg. pairing VI.48.10 párṣi tokáṃ tánayam. When ending with -e they are typically locatives, as shown by other parallel locatives; cf., e.g., VI.25.4 toké vā góṣu tánaye yád apsú (also I.114.8, VI.31.1, 66.8, X.147.3). Here, however, I think they are dual accusatives, as if elliptical duals from a dual dvandva. (That is, toké tánaye doesn’t mean “two progenies and two prosperities.”) The presence of ubhé ‘both’ serves to mark them as duals (see also I.147.1), since, given the passages just cited, the usual expectation for toké tánaye is locative. So also Old and Re, while Ge takes toké as du and tánaye as loc.: “(Erhalte) beiderlei Samen in der Nachkommenschaft,” a splitting of the usually conjoined phrase that seems very unlikely.
+
+Taking párṣi as the verb governing both ubhé toké tánaye (as VI.48.10 strongly encourages us to do) and rā́dhaḥ in d requires slightly different interpretations of the verb. Re, almost predictably, calls it a zeugma.
