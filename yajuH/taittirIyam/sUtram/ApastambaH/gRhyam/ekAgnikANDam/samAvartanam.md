@@ -27,15 +27,10 @@ ____________
 <div class="js_include" url="/devaH/hindukaH/jalam/Rk/hiraNyavarNAsh_shuchayaH/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ## दन्तधावनम्  
-+++(दन्ताः!)+++ अ॒न्नाद्या॑य॒ व्यू॑हध्वं+++(=पृथग्भवत)+++  
-दीर्घा॒युर् अ॒हम् अ॑न्ना॒दो भू॑यासम् ।  
-सोमो॒ राजा॒ऽयम् आग॑म॒त्,  
-स मे॒ मुखं॒ प्रवे॑क्ष्यति॒ भगे॑न स॒ह वर्च॑सा ।+++(र५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/19_annAdyAya_vyUhaddhvam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## वासः परिधत्ते
-सोम॑स्य त॒नूर् अ॑सि। +++(सौम्यँ वै वासः इति श्रुतेः।)+++  
-त॒नुवं॑ मे पाहि॒।  
-स्वामा॑ त॒नूर् आवि॑श +++(सोमस्य यथा)+++।+++(र५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/20_somasya_tanUrasi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ##  चन्दनलेपः
 +++(देवताभ्यः चन्दनप्रदानम् - एताश्च अलङ्कारसमये पुरुषमुपसर्पन्ति)+++  
