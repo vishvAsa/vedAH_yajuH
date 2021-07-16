@@ -3,4 +3,6 @@ title = "०४-११ उष्णेन वायवुदकेनेत्�
 
 +++
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/digvapanam.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/digvapanam/"  newLevelForH1="2" includeTitle="false"> </div>
