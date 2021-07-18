@@ -2,10 +2,5 @@
 title = "०२ आमागन्नित्येषा"
 
 +++
-## मन्त्रः
 
-आमा॑ग॒न्नित्ये॒षा ।  
-
-## टीका
-आमा गन्निति ॥ गतम् ॥
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_09/16_AmA-gan_yashasA.md"  newLevelForH1="2" includeTitle="false"> </div>
