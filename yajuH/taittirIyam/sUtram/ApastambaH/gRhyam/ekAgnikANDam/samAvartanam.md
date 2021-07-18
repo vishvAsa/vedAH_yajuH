@@ -54,7 +54,6 @@ __________________
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/26_apAsho-syuro_me.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## dvitIya-vAsaH-paridhAnam
-<div class="js_include" url="../upanayanam/vAsas-saMskAraH/"  newLevelForH1="3" includeTitle="false"> </div>
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/27_-32_revatIstvA_vyaxNannityetAH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
