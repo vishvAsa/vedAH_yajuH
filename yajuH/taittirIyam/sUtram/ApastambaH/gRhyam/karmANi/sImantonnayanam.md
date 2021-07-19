@@ -21,7 +21,9 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/06_yasmai_tvam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/devaH/hindukaH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/07_tve_su.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/08_ukthaukthe_soma.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
@@ -32,17 +34,11 @@ unicode_script: devanagari
 ऽपरेणाग्निं प्राचीम् उपवेश्य  
 त्रेण्या +++(= त्रिषु प्रदेशेषु एनी श्वेती)+++ शलल्या+++(=porcupine quill)+++ त्रिभिर्-दर्भ-पुञ्जीलैश् शलालु+++(=अपक्वोदुम्बर)+++-ग्लप्सेन+++(=गुच्छेन)+++ +इत्य् ऊर्ध्वं सीमन्तम् उन्नयति व्याहृतीभिर् उत्तराभ्यां च ॥  
 
-भूर् भुव॒स् सुवः॑
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/09_bhUrbhuvassuvaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-रा॒काम् अ॒हँ सु॒हवाँ॑+++(=स्वाह्वानाम्)+++ सुष्टु॒ती+++(त्या)+++ हु॑वे+++(=आह्वयामि)+++  
-शृ॒णोतु॑ नस् सु॒भगा॒ बोध॑तु॒ त्मना॑ ।  
-सीव्य॒त्व् अप॑स्+++(=कर्म / गर्भापः)+++ सू॒च्या ऽच्छि॑द्यमानया॒  
-ददा॑तु वी॒रँ श॒त-दा॑यम्+++(=दातारम्)+++ उ॒क्थ्य॑म्+++(=प्रशंसनीयम्)+++ । +++(र४)+++
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/10_rAkAmaha.N_suhavA.N.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-यास् ते॑ राके सुम॒तय॑स् सु॒पेश॑सो॒  
-याभि॒र् ददा॑सि दा॒शुषे॒ वसू॑नि ।  
-ताभि॑र् नो अ॒द्य सु॒मना॑ उ॒पाग॑हि  
-सहस्र-पो॒षँ सु॑भगे॒ ररा॑णा ।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/11_yAste_rAke.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ### वीणागानम्
