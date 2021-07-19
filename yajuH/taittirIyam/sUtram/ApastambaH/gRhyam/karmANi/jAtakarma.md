@@ -7,33 +7,53 @@ unicode_script: devanagari
 
 ### अभिमर्शनम्
 जातं +++(=जातमात्रम्, "प्राङ्नाभिवर्धनात्पुंसो जातकर्म विधीयते")+++ वात्सप्रेण +++(=दिवसस्परीत्येषः)+++ +अभिमृश्य,  
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/045_divaspari/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/21_divas_pari.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/22_vidmA_te.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/23_samudre_tvA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/24_akrandadagnisstanayanniva_dyauH.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/25_ushikpAvako_aratissumedhA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/26_vishvasya_keturbhuvanasya.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/27_shrINAmudAro_dharuNo.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/28_yaste_adya.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/29_tambhaja_saushravaseShvagna.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/30_tvAmagne_yajamAnA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/31_dRshAno_rukma.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ### उपस्थ आधानम्  
 उत्तरेण यजुषोपस्थ आधाय +++(="अस्मिन्नह"मित्यनेन)+++,  
 
-अ॒स्मिन्न॒हँस॒हस्रं॑ पुष्या॒म्येध॑मान॒स् स्वे वशे॑ ।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/32_asminnahaM_sahasram.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ###  अभिमन्त्रणम्  
 उत्तराभ्याम् +++("अङ्गादङ्गाद्" इति)+++ अभिमन्त्रणं ,  
 
-अङ्गा॑दङ्गा॒त्संभ॑वसि॒ हृद॑या॒दधि॑ जायसे ।  
-आ॒त्मा वै पुत्र॒नामा॑ऽसि॒ स जी॑व श॒रद॑श्श॒तम् ।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/33_angAdangAtsambhavasi_hRdayAdadhi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ### मूर्धन्यवघ्राणम्  
 +++("अश्मा भवे"ति)+++  मूर्धन्यवघ्राणं,  
 
-अश्मा॑ भव पर॒शुर्भ॑व॒ हिर॑ण्य॒मस्तृ॑तं भव ।  
-प॒शू॒नान्त्वा॑ हिङ्का॒रेणा॒भि  जि॑घ्राम्य् असौ+++(→नामनिर्देशः)+++।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ###  दक्षिणकर्णे-जपः  
 +++("मेधां त" इति)+++ दक्षिणे कर्णे जापः १  
 
-मे॒धान्ते॑ दे॒वस्स॑वि॒ता मे॒धान्दे॒वी सर॑स्वती ।  
-मे॒धान्ते॑ अ॒श्विनौ॑ दे॒वावाध॑त्तां॒ पुष्क॑रस्रजा ।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/02_medhAnte_devassavitA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
@@ -42,38 +62,24 @@ unicode_script: devanagari
 ###  मधु-घृत-प्राशनम्  
 मधु घृतमिति संसृज्य तस्मिन् दर्भेण हिरण्यं निष्टर्क्य +++(= शिखाबन्धनवत्सरन्ध्रेण ग्रन्थिना)+++, बध्वा ऽवदाय +उत्तरैर् मन्त्रैः +++("त्वयि मेधाम्" इति)+++ कुमारं प्राशयित्वा,  
 
-त्वयि॑ मे॒धां त्वयि॑ प्र॒जां त्वय्य॒ग्निस्तेजो॑ दधातु ।  
-त्वयि॑ मे॒धां त्वयि॑ प्र॒जां त्वयीन्द्र॑ इन्द्रि॒यं द॑धातु ।  
-त्वयि॑ मे॒धां त्वयि॑ प्र॒जां त्वयि॒ सूर्यो॒ भ्राजो॑ दधातु ।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/03-05_tvayi_medhAm.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ### स्नापनम्  
 ## प्रतिज्ञा  
 उत्तराभिः पञ्चभिस् +++(="ऽक्षेत्रियै त्वे"त्यादिभिः)+++ स्नापयित्वा,  
 
-क्षे॒त्रि॒यै +++(=अचिकित्स्यव्याधेः)+++ त्वा॒ निर्ऋ॑त्यै त्वा..  
-द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त् ।  
-अ॒ना॒गसं॒ ब्रह्म॑णे त्वा करोमि  
-शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे ।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/06_xetriyai_tvA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## शान्तिवचनम्  
 
-शन् ते॑ अ॒ग्निस् स॒हाद्भिर् अ॑स्तु॒  
-शं द्यावा॑पृथि॒वी स॒हौष॑धीभिः ।  
-शम् अ॒न्तरि॑क्षꣳ स॒ह वाते॑न ते॒  
-शन् ते॒ चत॑स्रः प्र॒दिशो॑ भवन्तु।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/07_shante_agnissahAdbhirastu.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-या दैवी॒श् चत॑स्रः प्र॒दिशो॒ वात॑-पत्नीर्,  
-अ॒भि सूर्यो॑ विच॒ष्टे +++(=विपश्यति)+++ ।  
-तासा॑न् त्वा ऽऽज॒रस॒ आ द॑धामि॒।  
-प्र यक्ष्म॑ एतु॒ निर्ऋ॑तिं परा॒चैः +++(=प्राङ्मुखः)+++ ।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/08_yA_daivIshchatasraH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## अवर्तिनिवारणम्  
 
-अमो॑चि॒ यक्ष्मा॑द् दुरि॒ताद् अव॑र्त्यै +++(=आपत्तः)+++।  
-द्रु॒हः पाशा॒न् निर्ऋ॑त्यै॒ च+उद॑मोचि ।  
-अहा॒ +++(=अहासीत्)+++ अव॑र्ति॒म् +++(=दारिद्र्यम्)+++, अवि॑दत् स्यो॒नम् +++(=सुस्वम्)+++।  
-अप्य॑भूद् भ॒द्रे सु॑कृ॒तस्य॑ लो॒के ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/09_amochi_yaxmAdduritAdavartyai.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## सूर्यग्रहणमोक्षनिदर्शनम्  
 {{< figure src="/devaH/lokAntaram/images/solar_eclipse_receeding.jpg" class="thumbnail">}}
@@ -86,12 +92,7 @@ unicode_script: devanagari
 द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त् ।
 _eclipse_receeding.jpg" class="thumbnail">}}
 
-सूर्य॑म् ऋ॒तन् +++(=प्राप्तम्)+++ तम॑सो॒ ग्राह्या॒  
-यद् दे॒वा अमु॑ञ्च॒न्नसृ॑ज॒न् व्ये॑नसः +++(=व्यसृजन् एनसः)+++ ।  
-
-प्रतिज्ञापूर्तिः
-ए॒वम् अ॒हम् इ॒मं क्षे॑त्रि॒याज् +++(=आनुवंशिकाद् [रोगात्])+++ जा॑मिशँ॒साद् +++(=बन्धूक्ताद्)+++  
-द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त् ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/10_sUryamRtantamaso_grAhyA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
@@ -99,7 +100,7 @@ _eclipse_receeding.jpg" class="thumbnail">}}
 ### दधि-घृत-प्राशनम्  
 दधि घृतमिति संसृज्य कांस्येन पृषदाज्यं व्याहृतीभिरोङ्कारचतुर्थाभिः +++("भूः स्वाहेत्यादिभिः प्रतिमन्त्रम्")+++ कुमारं प्राशयित्वा, अद्भिश् शेषं संसृज्य गोष्ठे निनयेत् ४  
 
-भूस्स्वाहा॒ भुव॒स्स्वाहा॒ सुव॒स्स्वाहा। ॐ स्वाहा॑ ॥  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/11_bhUssvAhA_bhuvassvAhA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ### मातुर् उपस्थ आधानम्  
