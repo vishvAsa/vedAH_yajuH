@@ -47,15 +47,11 @@ unicode_script: devanagari
 न सर्वेषां ब्राह्मणानाम् अपि तु साल्वानाम्+++(=साल्व-देश-निवासिनाम्)+++ ॥
 
 +++(यमुनातीरवासिनाम्)+++  
-यौग॑न्धरिर् ए॒व नो॒ राजेति॒ साल्वी॑र् अवादिषुः ।  
-विवृ॑त्तचक्रा॒ आसी॑ना॒स् तीरे॑ण यमुने॒ तव॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/12_yaugandharireva_no.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 +++(सर्वासां ब्राह्मणीनां प्रजानाम्)+++  
 +++(अन्येषाम् - "सोम एव नो राजा" इत्येषा।)+++ नदी-निर्देशश्च यस्यां वसन्ति ॥  
-सोम॑ ए॒व नो॒ राजेत्य्  
-आ॑हुर्ब्राह्म॒णीः प्र॒जाः ।  
-विवृ॑त्त-चक्रा॒ आसी॑ना॒स्  
-तीरे॑णासौ॒+++(→उपजीव्यनदीनाम)+++ तव॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/13_soma_eva.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 यवान् विरूढान् आबध्य  
 वाचं यच्छत्य् आनक्षत्रेभ्यः ॥  
