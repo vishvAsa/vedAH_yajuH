@@ -2,10 +2,5 @@
 title = "०४ अश्मा भवेत्येषा"
 
 +++
-## मन्त्रः
 
-अश्मा॑ भ॒वेत्ये॒षा ।  
-
-## टीका
-मूर्धन्यवघ्राणम् - अश्मा भवेति ॥ गतम् ॥
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md"  newLevelForH1="2" includeTitle="false"> </div>
