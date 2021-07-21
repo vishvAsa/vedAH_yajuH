@@ -2,11 +2,5 @@
 title = "१५ उष्णेन वायवुदकेनेत्येषः"
 
 +++
-## मन्त्रः
 
-उ॒ष्णेन॑ वायवुद॒केनेत्ये॒षः ॥ (१४)
-
-## टीका
-उष्णेन वायविति ॥ एषोऽनुवाको गतः ॥
-
-इति श्रीहरदत्तविरचिते एकाग्निकाण्डव्याख्याने द्वितीयप्रश्ने चतुर्दशः खण्डः
+- <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/01_uShNena_vAyavudakenehyaditiH.md"  newLevelForH1="2" includeTitle="false"> </div>
