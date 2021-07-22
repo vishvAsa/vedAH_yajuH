@@ -74,21 +74,15 @@ practice_weight: 0
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/15_-19_ojasvinI_nAmAsi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
-<div class="js_include" url="/devaH/hindukaH/lokAntaram/yajuH/dik/hetayo_nAma/"  newLevelForH1="4" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/20_-25_hetayo_nAmastha.md"  newLevelForH1="4" includeTitle="false"> </div>  
 
 ### प्रत्येत्य गृहपरिषेचनमन्त्रौ
 उत्तरैर् उपस्थायापः परिषिच्याप्रतीक्षस् +++(→ पृष्ठतो ऽप्रतीक्षमाणस्)+++ तूष्णीम् एत्य  
 "अपश्वेत पदेत्याभ्याम्" उद-कुम्भेन त्रिः प्रदक्षिणम् अन्तरतोऽगारं निवेशनं वा परिषिच्य  
 
-अप॑ श्वेत +++(सर्पाधिपते)+++ प॒दा+++(वि३)+++ ज॑हि॒+++(→हन)+++  
-पूर्वे॑ण॒ चाप॑रेण च ।  
-स॒प्त च॒ मानु॑षीर् इ॒मास् +++(सर्पजातीः- ब्राह्मणानां तिस्रः वैश्यानां द्वे, शूद्राणां च द्वे)+++  
-ति॒स्रश्च॑ रा॒जब॑न्धवीः ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/26_apashvetapadA_jahi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-न वै श्वे॒तस्या॑ऽध्याचा॒रे+++(=आधिपत्ये)+++  
-ऽहि॑र् ज॒घान॒ कञ्च॒न ।  
-श्वे॒ताय॑ वैद॒र्वाय॒+++(=विदर्बपुत्राय)+++ नमो॒  
-नमः॑ श्वे॒ताय॑ वैद॒र्वाय॑ ॥ (17)
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/27_na_vai.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 +++(युग्मान्)+++ ब्राह्मणान् भोजयेत् +++(स्थालीपाक-शेषादिभिः सर्पिष्मद्भिः। उपनयनवद् भुक्तवद्भिर् आशीर्-वचनम्।)+++ १२  
 धानाः कुमारान् प्राशयन्ति १  
