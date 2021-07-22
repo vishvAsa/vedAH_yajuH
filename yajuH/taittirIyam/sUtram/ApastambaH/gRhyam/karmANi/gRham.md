@@ -37,19 +37,13 @@ __________________
 यथाखातम् इतरा +++(वंशस्तम्भान्)+++ अन्ववधाय  
 वँशम् आधीयमानम् उत्तरेण यजुषा +++(="ऋतेन स्थूणौ")+++ ऽभिमन्त्रयते ५
 
-ऋ॒तेन॒ स्थूणा॑व्+++(=स्तम्भम्)+++ अ॒धिरो॑ह व॒ꣳ॒शो  
-ऽग्रो वि॒राज॒न्न् अप॑सेध शत्रून्॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/05_Rtena_sthUNAvadhiroha.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ### सिद्धागाराभिमन्त्रणम्
 +++(अगारम्)+++ सम्मितम्+++(=संकॢप्तं)+++ उत्तरैर्+++(="ब्रह्म च ते क्षत्रम्")+++ यथालिङ्गम् +++(अभिमन्त्रयते)+++६
 
-ब्रह्म॑ च ते क्ष॒त्रञ् च॒ पूर्वे॒ स्थूणे॑ अ॒भिर॑क्षतु ।  
-य॒ज्ञश् च॒ दक्षि॑णाश् च॒ दक्षि॑णे [स्थूणे॑ अ॒भिर॑क्षतु]।  
-इ॒षश् चो॒र्जश् +++(शारदौ मासौ)+++ चाप॑रे [स्थूणे॑ अ॒भिर॑क्षतु]।  
-मि॒त्रश् च॒ वरु॑ण॒श् चोत्त॑रे [स्थूणे॑ अ॒भिर॑क्षतु]।  
-ध॒र्मस् ते॒ स्थूणा॑राजः॒  
-श्रीस् ते॒ स्तूपः॑+++(=पृष्ठवंशः)+++ ।+++(५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/06-11_brahma_cha.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## प्रवेशविधिः
@@ -58,30 +52,20 @@ __________________
 #### उद्दीपनम्
 पालाशं शमीमयं वेध्मम् +++(पाकाग्वाव्)+++ आदीप्योत्तरयर्चा +++("उद्ध्रियमाण"इत्येतया पञ्चपादया)+++ ऽग्निम् उद्धृत्य  
 
-उ॒द्ध्रि॒यमा॑ण॒ उद्ध॑र पा॒प्मनो॑ मा॒  
-यद् अवि॑द्वा॒न् यच् च॑ वि॒द्वाꣳश् च॒कार॑ ।  
-+++(रात्रौ प्रवेशे)+++ अह्ना॒ यद् एनः॑ कृ॒तम् अ॑स्ति पा॒पꣳ  
-+++(अहनि प्रवेशे)+++ रात्र्या॒ यद् एनः॑ कृ॒तम् अ॑स्ति पा॒पꣳ  
-सर्व॑स्मा॒न् मोद्धृ॒तो +++(त्वम्)+++ मु॑ञ्च॒ तस्मा॑त् ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/12_uddhriyamANa_uddhara.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 __________________
 #### अगारप्रतिपादनम्
 उत्तरेण यजुषा +++("इन्द्र स्य गृहा वसुमन्तो वरूथिनः")+++ ऽगारं प्रपाद्य  
 
-इन्द्र॑स्य +++(मम)+++ गृ॒हा वसु॑मन्तो वरू॒थिन॒स्+++(=गृह[+अवयवा])+++ -  
-तान् अ॒हꣳ सु॒मन॑सः॒ प्रप॑द्ये ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/13_indrasya_gRhA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 __________________
 #### प्रतिष्ठापनम्
 उत्तरपूर्वदेशे ऽगारस्योत्तरया +++("अमृताहुति"मित्यनया)+++ ऽग्निं प्रतिष्ठापयति ७
 
-अ॒मृ॒ता॒हु॒तिम् अ॒मृता॑याञ् जुहोम्य्+++(→स्थापयामि)+++  
-अ॒ग्निं पृ॑थि॒व्याम् अ॒मृत॑स्य॒ जित्यै॑ ।  
-तया॑ ऽन॒न्तं काम॑म् अ॒हञ् ज॑यानि  
-प्र॒जाप॑ति॒र् यं प्र॑थ॒मो जि॒गाय॑  
-+अ॒ग्निम् अ॑ग्नौ॒+++(→पृथिव्यां)+++ स्वाहा॑ ।  
-+++(इयं वा अग्निर्वैश्वानरः इति श्रुतेः।)+++
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/14_amRtAhutimamRtAyAnjuhomyagnim_pRthivyAmamRtasya.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ### उदधानायतनम्
@@ -89,36 +73,34 @@ __________________
 तस्माद् दक्षिणम् उदधानायतनं भवति ८  
 तस्मिन् विषूचीन् आग्रान्+++(=सर्वतो-दिक्कान्)+++ दर्भान् संस्तीर्य तेषूत्तरया +++("अन्नपत"इत्येतया)+++ व्रीहियवान् न्युप्य तत्रोदधानं प्रतिष्ठापयति ९  
 
-अन्न॑प॒ते ऽन्न॑स्य नो देहि।  
-अ॒न॒मी॒वस्य॑+++(=आरोग्यकरस्य)+++ शु॒ष्मिणः॑+++(=बलिनः)+++ ।  
-प्रप्र॑ दा॒तार॑न् तारिषः।  
-ऊर्ज॑न्+++(=अन्नं बलं वा)+++ नो धेहि द्वि॒पदे॒ चतु॑ष्पदे ।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/15_annapate-nnasya_no.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 #### उदकुम्भानयनम्
 तस्मिन्न् उत्तरेण यजुषा+++("अरिष्टा अस्माक"मित्यनेन)+++ चतुर उद-कुम्भान् आनयति १०  
 
-अरि॑ष्टा अ॒स्माकं॑ वी॒रास् स॑न्तु॒  
-मा परा॑ सेचि मे॒ धन॑म् ।+++(र४)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/16_ariShTA_asmAkam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 +++(यदि उदधानं दीर्णम्,)+++ दीर्णम् उत्तरया +++("भूमिर्भूमिम् अगात्"इत्येतया)+++ ऽनुमन्त्रयते ११  
 
-भूमि॒र् भूमि॑म् अगान्  
-मा॒ता मा॒तर॒म् अप्य् अ॑गात् ।  
-भू॒यास्म॑ पु॒त्रैः प॒शुभि॒र्  
-यो नो॒ द्वेष्टि॒ स भि॑द्यताम् ।+++(र५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/17_bhUmirbhUmimagAnmAtA_mAtaramapyagAt.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## होमः
 अग्नेर् उपसमाधानाद्य्-आज्यभागान्ते उत्तरा आहुतीर् +++("वास्तोष्पते प्रतिजानीहि, वास्तोष्पते शग्मया, वास्तोष्पते प्रतरणो न एधि, अमीवहा वास्तोष्पत")+++ हुत्वा जयादि प्रतिपद्यते १२  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/07/055_vAstoShpate_pratijAnIhi/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/18_vAstoShpate_prati.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/07/056_01_amIvahA_vAstoShpate/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/19_vAstoShpate_shagmayA.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/20_vAstoShpate_prataraNo.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/21_amIvahA_vAstoShpate.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ### उदकुम्भेन परिषेचनम्
 परिषेचनान्तं कृत्वोत्तरेण +++("शिवं शिव"मित्यनेन)+++ यजुषोदकुम्भेन +++(न हस्तेन)+++ त्रिः प्रदक्षिणम् अन्तरतो+++(=न बहिः)+++ ऽगारं निवेशनं+++(=शयनदेशः)+++ वा परिषिच्य
 
-शि॒व॒ꣳ॒ शि॒वम् ॥
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/22_shivaM_shivam.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## अग्न्यन्तरानयनम्
 +++(ततो ऽग्न्यन्तराण्य् अप्य् औपासनादीन्य् आनयति।)+++
