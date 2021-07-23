@@ -2,11 +2,5 @@
 title = "०८ स्योना पृथिवि"
 
 +++
-## मन्त्रः
 
-स्यो॒ना पृ॑थिवि॒ भवा॑नृक्ष॒रा नि॒वेश॑नी ।  
-यच्छा॑ न॒श्शर्म॑ स॒प्रथाः॑ ।  
-
-## टीका
-उत्तराभ्यां पृथिवीमभिमृशति - स्योना पृथिवीति ॥ गता ॥
-
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md"  newLevelForH1="2" includeTitle="false"> </div>
