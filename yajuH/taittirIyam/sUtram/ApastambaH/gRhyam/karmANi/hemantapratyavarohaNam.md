@@ -8,30 +8,21 @@ practice_weight: 0
 हेमन्तप्रत्यवरोहणम् +++(खट्वायाः)+++८  
 उत्तरेण यजुषा +++("प्रत्यवरूढो नो हेमन्तः"इत्यनेन)+++ प्रत्यवरुह्य  
 
-प्र॒त्यव॑रूढो नो हेम॒न्तः ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/02_pratyavarUDho_no.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## संवेशनमन्त्राः  
 उत्तरैर् +++("प्रतिक्षत्र"इत्यादिभिः पञ्चभिः)+++ दक्षिणैः पार्श्वैः नवस्वस्तरे+++(=तृणशय्यायाम्)+++ संविशन्ति ९  
 
 +++(नवस्वस्तरे संविशन् )+++  
-प्रति॑ क्ष॒त्रे, प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
-प्रत्य् अश्वे॑षु॒, प्रति॑तिष्ठामि॒ गोषु॑ ।  
-प्रति॑ प्र॒जायां॒, प्रति॑तिष्ठामि॒ भव्ये॑+++(=मङ्गले)+++ ।  
-इ॒ह +++(स्वस्तरे)+++ धृति॑र्, इ॒ह विधृ॑तिः ।  
-इ॒ह रन्ति॑र्, इ॒ह रम॑तिः ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03-07_pratixatre_pratitiShThAmi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 दक्षिणतः पितोत्तरा मातैवम् अवशिष्टानां ज्येष्ठो ज्येष्ठो ऽनन्तरः १०  
 +++(किञ्चित्सुप्त्वा)+++ सं-हाय  
 उत्तराभ्यां +++("स्योना पृथिवि" "बडित्थे"त्येताभ्यां)+++ पृथिवीमभिमृशन्ति ११  
-<div class="js_include" url="/devaH/hindukaH/lokAntaram/Rk/syonA_pRthivI/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/08_syonA_pRthivi.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-
-बड् इ॒त्था+++(त्थं)+++ पर्व॑तानाङ्+++(→मेघानाम्)+++  
-खि॒द्रम्+++(=छिद्रं →छेदनम्)+++ बि॑भर्षि पृथिवि ।  
-प्र या भू॑मि प्रवत्वति+++(=प्रवणवति)+++  
-म॒ह्ना+++(=महिम्ना)+++ +++(देवादीन्)+++ जि॒नोषि॑+++(=तर्पयसि)+++ म॒हि॒नि॒+++(=महति)+++ ।+++(र४)+++  
-+++(अत्र देवप्रीत्या वृष्टिरिति चक्रम् उच्यते।)+++
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 एवं संवेशनादि त्रिः १२  
