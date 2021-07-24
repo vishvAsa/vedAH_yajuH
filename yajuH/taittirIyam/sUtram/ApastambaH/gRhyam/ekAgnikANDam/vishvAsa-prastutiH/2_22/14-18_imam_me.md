@@ -2,14 +2,16 @@
 title = "१४-१८ इमम् मे"
 
 +++
-## मन्त्रः
 
-इ॒मं मे॑ वरुण॒  
-तत्त्वा॑ यामि॒  
-त्वन्नो॑ अग्ने॒  
-स त्वन्नो॑ अग्ने॒  
-त्वम॑ग्ने अ॒यासि॒  
 
-## टीका
-अगारस्थूणाविरोहणादिषु होममन्त्राः - इमं मे वरुणे - त्यादयः पञ्च गताः ॥
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md"  newLevelForH1="2" includeTitle="false"> </div>
 
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/16_tvamagne_ayA-syayA.md"  newLevelForH1="2" includeTitle="false"> </div>
