@@ -3,8 +3,4 @@ title: आवर्तन वर्तय
 unicode_script: devanagari
 ---
 
-आ व॑र्तन वर्तय॒ नि  
-नि॑वर्तन वर्त॒येन्द्र॑ नर्द+++(=शब्द)+++बुद+++(=शर)+++।  
-+++("आबुन्दं वृत्रहाऽऽददे इन्द्रो बुन्दम् तुविक्षन्ते सुकृतं सुमयं धनुस्-साधुर् बुन्दो हिरण्मयः" इति दर्शनात्)+++  
-भूम्या॒श् चत॑स्रᳶ प्र॒दिश॒स्  
-ताभि॒रा व॑र्तया॒ पुनः॑ ।+++(५)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/07-08_Avartana_vartayetyeShA.md"  newLevelForH1="2" includeTitle="false"> </div>
