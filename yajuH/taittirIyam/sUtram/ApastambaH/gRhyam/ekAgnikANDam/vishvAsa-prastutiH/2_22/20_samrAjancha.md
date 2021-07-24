@@ -2,10 +2,5 @@
 title = "२० सम्राजञ्च …"
 
 +++
-## मन्त्रः
 
-स॒म्राज॑ञ्च॒ …  
-
-## टीका
-सम्राजं चेति । गतम् ॥
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_08/08_samrAjancha_virAjanchAbhishrIryA.md"  newLevelForH1="2" includeTitle="false"> </div>
