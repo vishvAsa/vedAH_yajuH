@@ -17,10 +17,10 @@ unicode_script = "devanagari"
 
 ## त्रेधा रूपाणि  
 {{< figure src="/devaH/hindukaH/agniH/images/lightning.jpg" class="thumbnail">}}  
-+++(प्रतिज्ञा+ऋक्। अग्रिमायाम् उत्तरम्।)+++  
+
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/02_vidmA_te.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-+++(प्राक्तनाया विस्तारः!)+++  
+ 
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/03_samudre_tvA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## लोके क्व दृश्यते?

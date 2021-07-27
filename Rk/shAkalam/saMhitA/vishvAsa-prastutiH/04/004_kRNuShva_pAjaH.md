@@ -37,7 +37,7 @@ unicode_script = "devanagari"
 ### किरणकीर्तिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-+++(उतथ्यभार्या ममता। तस्याम् बृहस्पतिर् रेतः स्थापयितुम् अयतत। तत्र वर्तमानं रेतोऽन्तरम् आक्षिपत्। बृहस्पतिर् अशपत् तम् दीर्घतमा भवेति। सोऽ अग्नेर् अलभत चक्षुः।)+++  
+
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## प्रतिज्ञानुवर्तनम्
