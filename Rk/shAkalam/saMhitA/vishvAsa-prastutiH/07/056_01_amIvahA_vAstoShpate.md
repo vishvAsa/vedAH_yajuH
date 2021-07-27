@@ -3,6 +3,4 @@ title = "०५६ ०१ अमीवहा वास्तोष्पते"
 unicode_script = "devanagari"
 +++
 
-अ॒मी॒व॒हा+++(=व्याधिहा)+++ वास्तो॑ष्पते॒  
-विश्वा॑ रू॒पाण्य् आ॑ वि॒शन्न् ।  
-सखा॑ सु॒शेव॑+++(फ)+++ एधि नः ।  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md"  newLevelForH1="2" includeTitle="false"> </div>

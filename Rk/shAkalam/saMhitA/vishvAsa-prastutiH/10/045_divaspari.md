@@ -17,67 +17,36 @@ unicode_script = "devanagari"
 
 ## त्रेधा रूपाणि  
 {{< figure src="/devaH/hindukaH/agniH/images/lightning.jpg" class="thumbnail">}}  
-+++(प्रतिज्ञा+ऋक्। अग्रिमायाम् उत्तरम्।)+++  
-वि॒द्मा ते॑ अग्ने त्रे॒धा +++{रूपाणि अग्नि-विद्युत्-सूर्यास्}+++ त्र॒याणि॑  
-वि॒द्मा ते॒ सद्म॒ +++{नानाकुण्डेषु}+++ विभृ॑तम् पुरु॒त्रा +++(=बहुधा)+++।  
-वि॒द्मा ते॒ नाम॑ पर॒मं गुहा॒ यद्  
-वि॒द्मा तम् उत्सं॒ +++(=fount)+++ यत॑ आज॒गन्थ॑ ।
 
-+++(प्राक्तनाया विस्तारः!)+++  
-स॒मु॒द्रे त्वा॑ नृ॒मणा॑ अ॒प्स्व् अ॑न्तर्  
-नृ॒चक्षा॑ +++(=नृद्रष्टा)+++ ईधे +++(=दीपयते)+++ दि॒वो अ॑ग्न॒ ऊधन्न्॑ +++(=उधस्स्थानीये मेघे)+++ ।  
-तृ॒तीये॑ त्वा रज॑सि +++(=लोके)+++ तस्थि॒वाँस॑म्  
-ऋ॒तस्य॒ योनौ॑ महि॒षा अ॑हिन्वन्न् +++(=बुद्धवन्तः)+++ ।  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/02_vidmA_te.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+ 
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/03_samudre_tvA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## लोके क्व दृश्यते?
 ### दवानलः  
 {{< figure src="/devaH/hindukaH/agniH/images/forest-fire.jpg" class="thumbnail">}}  
-अक्र॑न्दद् अ॒ग्निः स्त॒नय॑न्निव॒ द्यौः  
-क्षामा॒ +++(=पृथिवीं)+++ रेरि॑हद् +++(=आस्वादयन्)+++ वी॒रुधः॑ +++(={वृक्ष}गुल्मान्)+++ सम॒ञ्जन्न् ।  
-स॒द्यो ज॑ज्ञा॒नो +++{दावानलः}+++ वि हीम् इ॒द्धो  
-अख्य॒दा रोद॑सी भा॒नुना॑ भात्य् अ॒न्तः ।  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ### कुण्डस्थः
 {{< figure src="/devaH/hindukaH/agniH/images/agni-with-pillar-of-smoke-above.jpg" class="thumbnail">}}  
-उ॒शिक् +++(=कामयिता)+++ पा॑व॒को अ॑र॒तिः +++(=गन्ता)+++ सु॑मे॒धा  
-मर्ते॑ष्व् अ॒ग्निर् अ॒मृतो॒ निधा॑यि ।  
-इय॑र्ति +++(=गमयति)+++ धू॒मम् अ॑रु॒षम् +++(=महत्)+++ भरि॑भ्र॒द्  
-उच् छु॒क्रेण॑ शो॒चिषा॒ द्याम् इन॑क्षत् +++(=दीपयत्)+++।  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/07_ushikpAvako_aratiH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ### ज्वालामुखी  
 {{< figure src="/devaH/hindukaH/agniH/images/mud-volcano.jpg" title="Mud volcanoes" class="thumbnail">}}[!](https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan)  
-विश्व॑स्य के॒तुर् भुव॑नस्य॒ गर्भ॒  
-आ रोद॑सी अपृणा॒ज् +++(=अपूरयत्)+++ जाय॑मानः ।  
-वी॒डुं +++(=दृढं)+++ चि॒द् अद्रि॑म् अभिनत् परा॒यञ् +++(=परागच्छन्)+++  
-जना॒ यद् अ॒ग्निम् अय॑जन्त॒ पञ्च॑ ।
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/06_vishvasya_keturbhuvanasya.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## पूज्यता, फलानि
-श्री॒णाम् उ॑दा॒रो ध॒रुणो॑ रयी॒णाम्  
-म॑नी॒षाणा॒म् प्रार्प॑णः॒ सोम॑गोपाः ।  
-वसोः॑ सू॒नुः सह॑सो अ॒प्सु राजा॒ +++(=दीप्यमानः)+++  
-वि भा॒त्य् अग्र॑ उ॒षसा॑म् इधा॒नः ।
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/05_shrINAmudAro_dharuNo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-यस् ते॑ अ॒द्य कृ॒णव॑द् भद्रशोचे  
-ऽपू॒पं दे॑व घृ॒तव॑न्तम् अग्ने।  
-प्र तं न॑य प्रत॒रां +++(=नितरां)+++ वस्यो॒ +++(=वसीयः)+++  
-अच्छा॒भि द्यु॒म्नं +++(=धनं)+++ दे॒वभ॑क्तं यविष्ठ ।
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/09_yaste_adya.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-आ तम् भ॑ज सौश्रव॒सेष्व् +++(स्वन्नेषु [यागेषु])+++ अ॑ग्न  
-उ॒क्थउ॑क्थ॒ आ भ॑ज श॒स्यमा॑ने ।  
-प्रि॒यः सूर्ये॑ प्रि॒यो अ॒ग्ना भ॑वा॒त्य्  
-उज् जा॒तेन॑ +++{पुत्रादिना}+++ भि॒नद॒द् +++(=उद्भिद्य प्रकाशताम्)+++ उज्जनि॑त्वैः +++(=जनिष्यमाणैः)+++।  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/10_A_taM.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-त्वाम् अ॑ग्ने॒ यज॑माना॒ अनु॒ द्यून्  
-विश्वा॒ वसू॑नि दधिरे॒ वार्या॑णि +++(=वरणीयानि)+++ ।  
-त्वया॑ स॒ह द्रवि॑णम् इ॒च्छमा॑ना  
-व्र॒जं गोम॑न्तम् उ॒शिजो॒ +++(=मेधाविनो)+++ वि व॑व्रुः ।
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/11_tvAmagne_yajamAnA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## तेजोविभूतिर् जन्म च  
 
 {{< figure src="/devaH/hindukaH/agniH/images/lightning.jpg" class="thumbnail">}}  
-दृ॒शा॒नो रु॒क्म +++(=रोचमानः)+++ उ॒र्व्या +++(=महत्या)+++ व्य॑द्यौद्,  
-दु॒र्मर्ष॒म् आयुः॑ श्रि॒ये रु॑चा॒नः ।  
-अ॒ग्निर् अ॒मृतो॑ अभव॒द् वयो॑भि॒र्  
-यद् ए॑नं॒ द्यौर् अज॑नयत् सु॒रेताः॑ ॥  
-
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md"  newLevelForH1="2" includeTitle="false"> </div>

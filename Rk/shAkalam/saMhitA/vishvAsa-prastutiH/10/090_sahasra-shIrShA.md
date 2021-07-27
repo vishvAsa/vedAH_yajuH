@@ -18,19 +18,14 @@ unicode_script = "devanagari"
 हरिः ॐ ।  
 
 ### पुरुषस्वरूपम्
-स॒हस्र॑+++(~अनन्त)+++शीर्षा॒ पुरु॑षः+++(वक्ष्यमाणस् त्रिपात्)+++ । स॒ह॒स्रा॒क्षः स॒हस्र॑पात् ।  
-स भूमिं॑ वि॒श्वतो॑ वृ॒त्वा । अत्य॑तिष्ठद् दशाङ्गु॒लम् । १
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/01_sahasrashIrShA_puruShaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-+++(अस्य त्रिपादो विवरणम्)+++  
-+++(परिपूर्ण)+++पुरु॑ष ए॒वेदꣳ सर्व॑म् । यद्भू॒तं यच् च॒ भव्य॑म्।  
-उ॒तामृ॑त॒त्वस्येशा॑नः । यद् अन्ने॑नाति॒रोह॑ति । २
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/02_puruSha_evedaM.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-ए॒तावा॑न् अस्य महि॒मा । अतो॒ ज्यायाꣳ॑श् च॒ पूरु॑षः ।  
-पादो॑ऽस्य॒ विश्वा॑ भू॒तानि॑ । +++(अवशिष्टस्)+++ त्रि॒पाद् +++(अंशः)+++ अ॑स्या॒मृतं॑ +++(=अविनाशी)+++ दि॒वि । ३
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/03_etAvAnasya_mahimAto.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### सृष्टिः
-+++(सो ऽयं)+++ त्रि॒पाद् ऊ॒र्ध्व उदै॒त् पुरु॑षः । +++(पूर्वोक्त)+++पादो॑ ऽस्ये॒हा ऽऽभ॑वा॒त् +++(आगच्छति)+++ पुनः॑ +++(पुनःपुनः)+++ ।  
-ततो॒ +++((परिपूर्णः))+++ विष्व॒ङ्+++(=सर्वतो)+++ व्य॑क्रामत् +++(ऋतरूपेण)+++। सा॒श॒ना॒न॒श॒ने+++(=जीवाजीवे [वस्तू])+++ अ॒भि+++(लक्ष्य)+++ । ४
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/04_tripAdUrdhva_udaitpuruShaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 तस्मा॑द् वि॒राड् +++(ब्रह्माण्डरूपेण)+++ अ॑जायत । वि॒राजो॒ अधि॒ +++(तद्देहाभिमानी)+++ पूरु॑षः +++(पूर्वोक्तत्रिपादेवासौ)+++ ।  
 स +++(=उभयोरपि प्रत्येकः)+++ जा॒तो अत्य॑रिच्यत +++(Big bang!)+++ । प॒श्चाद् भूमि॒म् अथो॑ +++(जीवानाम्)+++ पु॒रः +++(ससर्ज)+++। ५
