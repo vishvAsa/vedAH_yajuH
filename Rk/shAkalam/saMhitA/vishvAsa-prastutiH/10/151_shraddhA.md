@@ -6,20 +6,15 @@ unicode_script: devanagari
 
 +++(तैत्तिरीयब्राह्मणे पादशो विभागः। ऋग्वेदे त्व् अर्धशो यथासाधारणम्।)+++
 
-श्र॒द्धया॒ ऽग्निस् समि॑ध्यते । श्र॒द्धया॑ विन्दते ह॒विः ।  
-श्र॒द्धां भग॑स्य मू॒र्धनि॑ । वच॒साऽऽवे॑दयामसि । 
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/mUlam/10/151/01_shraddhayAgniH_samidhyate.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-प्रि॒य२ꣳ श्र॑द्धे॒ दद॑तः । प्रि॒य२ꣳ श्र॑द्धे॒ दिदा॑सतः ।  
-प्रि॒यं भो॒जेषु॒ यज्व॑सु। इ॒दं म॑ उदि॒तङ् कृ॑धि ।  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/mUlam/10/151/02_priyaM_shraddhe.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-यथा॑ दे॒वा असु॑रेषु । श्र॒द्धाम् उ॒ग्रेषु॑ चक्रि॒रे ।  
-ए॒वं भो॒जेषु॒ यज्व॑सु । अ॒स्माक॑म् उदि॒तङ् कृ॑धि ।  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/mUlam/10/151/03_yathA_devA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-श्र॒द्धान् दे॑वा॒ यज॑मानाः । वा॒युगो॑पा॒ उपा॑सते ।  
-श्र॒द्धाꣳ हृ॑द॒य्य॑या ऽऽकू॑त्या । श्र॒द्धया॑ हूयते ह॒विः ।  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/mUlam/10/151/04_shraddhAM_devA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-श्र॒द्धां प्रा॒तर् ह॑वामहे । श्र॒द्धां म॒ध्यन्दि॑नं॒ परि॑ ।  
-श्र॒द्धाꣳ सूर्य॑स्य नि॒म्रुचि॑ । श्रद्धे॒ श्रद्धा॑पये॒ह मा॑ । 
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/mUlam/10/151/05_shraddhAM_prAtarhavAmahe.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 श्र॒द्धा दे॒वानधि॑ वस्ते । श्र॒द्धा विश्व॑म् इ॒दञ् जग॑त् ।  
 श्र॒द्धाङ् काम॑स्य मा॒तर॑म् । ह॒विषा॑ वर्धयामसि ।  
