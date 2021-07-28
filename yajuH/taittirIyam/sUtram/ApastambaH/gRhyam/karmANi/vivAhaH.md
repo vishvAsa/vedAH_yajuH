@@ -431,6 +431,9 @@ __________________
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/07_saptaRShayaH_prathamAm.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
+## होमविशेषाः
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/homa-visheShAH/"  newLevelForH1="2" includeTitle="false"> </div>
+
 
 ## स्थालीपाकः
 अथैनाम् आग्नेयेन स्थालीपाकेन +++(वर ऋत्विग् इव)+++ याजयति +++(अथेति वचनादेतस्यामव रात्र्यां स्थालीपाको भवति ।)+++॥  
