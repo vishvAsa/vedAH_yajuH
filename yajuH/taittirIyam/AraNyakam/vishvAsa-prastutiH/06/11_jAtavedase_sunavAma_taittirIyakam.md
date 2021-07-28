@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 
 टीका [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n361/mode/2up)।
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/01/099_jAtavedase"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099_jAtavedase"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ताम् अ॒ग्निव॑र्णां॒ तप॑सा ज्वल॒न्तीं  
 वै॑रोच॒नीं क॑र्मफ॒लेषु॒ जुष्टा॑॑म्।  
