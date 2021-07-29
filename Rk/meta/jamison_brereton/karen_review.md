@@ -1,4 +1,6 @@
-+++ title = "Karen Review" +++
++++
+title = "Karen Review"
++++
 
 Speak for itself  
 How the long history of guesswork and commentary on a unique corpus of poetry has rendered it incomprehensible  
