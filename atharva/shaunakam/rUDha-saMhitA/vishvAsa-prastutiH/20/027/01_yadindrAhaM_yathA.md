@@ -2,4 +2,5 @@
 title = "०१ यदिन्द्राहं यथा"
 
 +++
-यदि॑न्द्रा॒हं यथा॒ त्वमीशी॑य॒ वस्व॒ एक॒ इत्। स्तो॒ता मे॒ गोष॑खा स्यात्॥१॥  
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/014/01_yadindrAhaM_yathA.md"  newLevelForH1="2" includeTitle="false"> </div>
