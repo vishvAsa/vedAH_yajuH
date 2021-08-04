@@ -6,6 +6,8 @@ unicode_script: devanagari
 
 ## ऋक्
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/05_somaH_pavate.md"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/06_brahmA_devAnAM.md"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/07_prAvIvipadvAcha_UrmiM.md"  newLevelForH1="3" includeTitle="false"> </div> 
 
 ## साम
 
