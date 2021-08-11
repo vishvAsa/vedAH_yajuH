@@ -34,4 +34,4 @@ unicode_script = "devanagari"
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/13_samidhamAdhAyAgne_sarvavrato.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-एवमन्यस्मिन्न् अपि +++(अग्नौ)+++ सदा ऽरण्याद् +++(न ग्राम्यात् फलवतः)+++ एधान् आहृत्य २२
+एवम् अन्य् अस्मिन्न् अपि +++(अग्नौ)+++ सदा ऽरण्याद् +++(न ग्राम्यात् फलवतः)+++ एधान् आहृत्य २२
