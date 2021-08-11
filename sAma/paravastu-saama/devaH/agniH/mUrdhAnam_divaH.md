@@ -1,11 +1,11 @@
 ---
-title: मूर्धानं दिवः 
+title: मूर्धानं दिवः
 unicode_script: devanagari  
 
 ---
 
 ## ऋक्
-<div class="js_include" url="/devaH/hindukaH/agniH/Rk/mUrdhAnam_divaH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/007/01_mUrdhAnaM_divo.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 
