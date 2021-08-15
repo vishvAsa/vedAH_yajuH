@@ -2,14 +2,13 @@
 title = "०७५ अघ्न्याः"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/075_aghnyAH/01_prajAvatIH_sUyavase.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/075_aghnyAH/01_prajAvatIH_sUyavase.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/075_aghnyAH/01_prajAvatIH_sUyavase.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-अघ्न्याः।  
-१-२ उपरिबभ्रबः। अघ्न्याः। १ त्रिष्टुप्, २ त्र्यवसाना पञ्चपदा भुरिक् पथ्यापङ्क्तिः।  
 
-## पाठः
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/075_aghnyAH/02_padajnA_stha.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/075_aghnyAH/02_padajnA_stha.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/075_aghnyAH/02_padajnA_stha.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/075/01_prajAvatIH_sUyavase.md"  newLevelForH1="2" includeTitle="false"> </div> 
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/075/02_padajnA_stha.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

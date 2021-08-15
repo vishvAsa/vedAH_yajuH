@@ -2,20 +2,28 @@
 title = "०३४ शत्रुनाशनम्"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-शत्रुनाशनम्।  
-१-५ चातनः। अग्निः। गायत्री।  
 
-## पाठः
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/02_yo_raxAMsi.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/02_yo_raxAMsi.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/034_shatrunAshanam/02_yo_raxAMsi.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/034/01_prAgnaye_vAchamIraya.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/034/02_yo_raxAMsi.md"  newLevelForH1="2" includeTitle="false"> </div> 
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/03_yaH_parasyAH.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/03_yaH_parasyAH.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/034_shatrunAshanam/03_yaH_parasyAH.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/034/03_yaH_parasyAH.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/034/04_yo_vishvAbhi.md"  newLevelForH1="2" includeTitle="false"> </div> 
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/04_yo_vishvAbhi.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/04_yo_vishvAbhi.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/034_shatrunAshanam/04_yo_vishvAbhi.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/034/05_yo_asya.md"  newLevelForH1="2" includeTitle="false"> </div> 
+
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/05_yo_asya.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/05_yo_asya.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/034_shatrunAshanam/05_yo_asya.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
+
 

@@ -2,12 +2,8 @@
 title = "०८५ अरिष्टनेमिः"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/085_ariShTanemiH/01_tyamU_Shu.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/085_ariShTanemiH/01_tyamU_Shu.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/085_ariShTanemiH/01_tyamU_Shu.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-अरिष्टनेमिः।  
-१ अथर्वा (स्वस्त्ययनकामः)। तार्क्ष्यः। त्रिष्टुप्।  
-
-## पाठः
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/085/01_tyamU_Shu.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

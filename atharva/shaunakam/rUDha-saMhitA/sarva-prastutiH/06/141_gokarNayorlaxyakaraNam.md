@@ -2,16 +2,18 @@
 title = "१४१ गोकर्णयोर्लक्ष्यकरणम्"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarat.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarat.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarat.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-गोकर्णयोर्लक्ष्यकरणम्।  
-१-३ विश्वामित्रः। अश्विनौ। अनुष्टुप्।  
 
-## पाठः
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/141/01_vAyurenAH_samAkarat.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/141/02_lohitena_svadhitinA.md"  newLevelForH1="2" includeTitle="false"> </div> 
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/141/03_yathA_chakrurdevAsurA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

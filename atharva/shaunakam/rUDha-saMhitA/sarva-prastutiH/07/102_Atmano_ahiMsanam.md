@@ -2,12 +2,8 @@
 title = "१०२ आत्मनोऽहिंसनम्"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-आत्मनोऽहिंसनम्।  
-१ प्रजापतिः। द्यावापृथिवी, अन्तरिक्षम्, मृत्युः। विराट् पुरस्ताद् बृहती।  
-
-## पाठः
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/102/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

@@ -2,16 +2,18 @@
 title = "०५८ यशः प्राप्तिः"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/01_yashasaM_mendro.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/01_yashasaM_mendro.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/058_yashaH_prAptiH/01_yashasaM_mendro.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-यशः प्राप्तिः।  
-१-३ अथर्वा (यशस्कामः)। बृहस्पतिः, १-२ इन्द्रः, द्यावापृथिवि, सविता, ३ अग्निः, इन्द्रः, सोमः। १ जगती, २ प्रस्तारपङ्क्तिः, ३ अनुष्टुप्।  
 
-## पाठः
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAn.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAn.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAn.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/058/01_yashasaM_mendro.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/058/02_yathendro_dyAvApRthivyoryashasvAn.md"  newLevelForH1="2" includeTitle="false"> </div> 
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/03_yashA_indro.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/03_yashA_indro.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/058_yashaH_prAptiH/03_yashA_indro.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/058/03_yashA_indro.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

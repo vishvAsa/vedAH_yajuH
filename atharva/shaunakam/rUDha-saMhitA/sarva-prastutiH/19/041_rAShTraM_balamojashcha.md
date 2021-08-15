@@ -2,12 +2,8 @@
 title = "०४१ राष्ट्रं बलमोजश्च"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-राष्ट्रं बलमोजश्च।  
-१ ब्रह्मा। तपः। त्रिष्टुप्।  
-
-## पाठः
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/041/01_bhadramichChanta_RShayaH.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

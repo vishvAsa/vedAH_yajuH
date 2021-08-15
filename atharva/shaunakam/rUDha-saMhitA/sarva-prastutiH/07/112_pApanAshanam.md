@@ -2,14 +2,13 @@
 title = "११२ पापनाशनम्"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/112_pApanAshanam/01_shumbhanI_dyAvApRthivI.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/112_pApanAshanam/01_shumbhanI_dyAvApRthivI.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/112_pApanAshanam/01_shumbhanI_dyAvApRthivI.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-पापनाशनम्।  
-१-२ वरुणः। आपः, वरुणश्च। अनुष्टुप्, १ भुरिक्।  
 
-## पाठः
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/112_pApanAshanam/02_munchantu_mA.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/112_pApanAshanam/02_munchantu_mA.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/112_pApanAshanam/02_munchantu_mA.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/112/01_shumbhanI_dyAvApRthivI.md"  newLevelForH1="2" includeTitle="false"> </div> 
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/112/02_munchantu_mA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

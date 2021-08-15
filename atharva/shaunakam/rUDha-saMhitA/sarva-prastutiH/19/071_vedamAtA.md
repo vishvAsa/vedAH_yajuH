@@ -2,12 +2,8 @@
 title = "०७१ वेदमाता"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/071_vedamAtA/01_stutA_mayA.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/071_vedamAtA/01_stutA_mayA.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/071_vedamAtA/01_stutA_mayA.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-वेदमाता।  
-१ ब्रह्मा। गायत्री। त्र्यवसाना पञ्चपदाऽतिजगती।  
-
-## पाठः
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/071/01_stutA_mayA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

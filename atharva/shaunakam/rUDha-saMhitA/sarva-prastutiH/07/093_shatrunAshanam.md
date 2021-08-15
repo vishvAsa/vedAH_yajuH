@@ -2,12 +2,8 @@
 title = "०९३ शत्रुनाशनम्"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/093_shatrunAshanam/01_indreNa_manyunA.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/093_shatrunAshanam/01_indreNa_manyunA.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/093_shatrunAshanam/01_indreNa_manyunA.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-शत्रुनाशनम्।  
-१ भृग्वङ्गिराः। इन्द्रः। गायत्री।  
-
-## पाठः
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/093/01_indreNa_manyunA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

@@ -2,16 +2,18 @@
 title = "०४५ दुःष्वप्ननाशनम्"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/01_paro_apehi_manaspApa.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/01_paro_apehi_manaspApa.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/045_duHShvapnanAshanam/01_paro_apehi_manaspApa.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-दुःष्वप्ननाशनम्।  
-१-३ अङ्गिराः प्रचेता, यमश्च। दुःष्वप्ननाशनम्। १ पथ्यापङ्क्तिः, २ भुरिक् त्रिष्टुप्, ३ अनुष्टुप्।  
 
-## पाठः
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/045/01_paro_apehi_manaspApa.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/045/02_avashasA_niHshasA.md"  newLevelForH1="2" includeTitle="false"> </div> 
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate_api.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate_api.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate_api.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/06/045/03_yadindra_brahmaNaspate_api.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

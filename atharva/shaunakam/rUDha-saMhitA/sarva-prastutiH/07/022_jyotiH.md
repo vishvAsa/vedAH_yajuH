@@ -2,14 +2,13 @@
 title = "०२२ ज्योतिः"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/022_jyotiH/01_ayaM_sahasramA.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/022_jyotiH/01_ayaM_sahasramA.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/022_jyotiH/01_ayaM_sahasramA.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-ज्योतिः।  
-१-२ ब्रह्मा। ब्रध्नः। १ द्विपदा एकावसाना विराड्-गायत्री. २ त्रिपदा अनुष्टुप्।  
 
-## पाठः
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/022_jyotiH/02_bradhnaH_samIchIruShasaH.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/022_jyotiH/02_bradhnaH_samIchIruShasaH.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/022_jyotiH/02_bradhnaH_samIchIruShasaH.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/022/01_ayaM_sahasramA.md"  newLevelForH1="2" includeTitle="false"> </div> 
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/022/02_bradhnaH_samIchIruShasaH.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

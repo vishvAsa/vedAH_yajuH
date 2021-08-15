@@ -2,14 +2,13 @@
 title = "०४५ ईर्ष्यानिवारणम्"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/045_IrShyAnivAraNam/01_janAd_vishvajanInAt.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/045_IrShyAnivAraNam/01_janAd_vishvajanInAt.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/045_IrShyAnivAraNam/01_janAd_vishvajanInAt.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-ईर्ष्यानिवारणम्।  
-१-२ प्रस्कण्वः, २ अथर्वा। ईर्ष्यापनयनं, भेषजम्। अनुष्टुप्।  
 
-## पाठः
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/045_IrShyAnivAraNam/02_agnerivAsya_dahato.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/045_IrShyAnivAraNam/02_agnerivAsya_dahato.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/045_IrShyAnivAraNam/02_agnerivAsya_dahato.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/045/01_janAd_vishvajanInAt.md"  newLevelForH1="2" includeTitle="false"> </div> 
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/045/02_agnerivAsya_dahato.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

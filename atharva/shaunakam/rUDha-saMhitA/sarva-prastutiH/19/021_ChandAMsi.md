@@ -2,12 +2,8 @@
 title = "०२१ छन्दांसि"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/021_ChandAMsi/01_gAyatryu1ShNiganuShTub_bRhatI.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/021_ChandAMsi/01_gAyatryu1ShNiganuShTub_bRhatI.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/021_ChandAMsi/01_gAyatryu1ShNiganuShTub_bRhatI.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-छन्दांसि।  
-१ ब्रह्मा। छन्दांसि। एकावसाना द्विपदा साम्नी बृहती।  
-
-## पाठः
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/021/01_gAyatryu1ShNiganuShTub_bRhatI.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

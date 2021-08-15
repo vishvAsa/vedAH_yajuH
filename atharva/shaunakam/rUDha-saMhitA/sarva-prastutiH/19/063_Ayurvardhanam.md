@@ -2,12 +2,8 @@
 title = "०६३ आयुर्वर्धनम्"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/063_Ayurvardhanam/01_ut_tiShTha.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/063_Ayurvardhanam/01_ut_tiShTha.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/063_Ayurvardhanam/01_ut_tiShTha.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-आयुर्वर्धनम्।  
-१ ब्रह्मा। ब्रह्मणस्पतिः। विराडुपरिष्टाद्बृहती।  
-
-## पाठः
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/19/063/01_ut_tiShTha.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

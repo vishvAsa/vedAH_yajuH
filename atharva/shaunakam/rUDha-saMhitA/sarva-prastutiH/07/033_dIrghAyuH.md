@@ -2,12 +2,8 @@
 title = "०३३ दीर्घायुः"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/033_dIrghAyuH/01_saM_mA.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/033_dIrghAyuH/01_saM_mA.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/033_dIrghAyuH/01_saM_mA.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-दीर्घायुः।  
-१ ब्रह्मा। मरुतः, पूषा, बृहसपतिः, अग्निः। पथ्यापङ्क्तिः।  
-
-## पाठः
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/033/01_saM_mA.md"  newLevelForH1="2" includeTitle="false"> </div> 
 

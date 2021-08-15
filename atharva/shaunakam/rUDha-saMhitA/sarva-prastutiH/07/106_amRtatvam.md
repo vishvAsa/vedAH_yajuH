@@ -2,12 +2,8 @@
 title = "१०६ अमृतत्वम्"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/106_amRtatvam/01_yadasmRti_chakRma.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/106_amRtatvam/01_yadasmRti_chakRma.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/106_amRtatvam/01_yadasmRti_chakRma.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 
-## परिचयः
-अमृतत्वम्।  
-१ अथर्वा। जातवेदा वरुणश्च। बृहतीगर्भा त्रिष्टुप्।  
-
-## पाठः
-
-  <div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sAyaNa-bhAShyam/07/106/01_yadasmRti_chakRma.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
