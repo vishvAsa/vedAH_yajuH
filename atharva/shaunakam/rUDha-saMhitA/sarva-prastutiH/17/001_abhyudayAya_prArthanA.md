@@ -2,6 +2,8 @@
 title = "००१ अभ्युदयाय प्रार्थना"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/17/001_abhyudayAya_prArthanA.md"  newLevelForH1="2" title="अनुक्रमणी (VH)" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/17/001_abhyudayAya_prArthanA/_index.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 <div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/01_viShAsahiM_sahamAnaM.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
 <div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/01_viShAsahiM_sahamAnaM.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
 <div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/17/001_abhyudayAya_prArthanA/01_viShAsahiM_sahamAnaM.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>

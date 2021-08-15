@@ -2,6 +2,8 @@
 title = "००५ राष्ट्रस्य राजा राजकृतश्च"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/005_rAShTrasya_rAjA_rAjakRtashcha.md"  newLevelForH1="2" title="अनुक्रमणी (VH)" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/005_rAShTrasya_rAjA_rAjakRtashcha/_index.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 <div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/01_Ayamagan_parNamaNirbalI.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
 <div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/01_Ayamagan_parNamaNirbalI.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
 <div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/005_rAShTrasya_rAjA_rAjakRtashcha/01_Ayamagan_parNamaNirbalI.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>

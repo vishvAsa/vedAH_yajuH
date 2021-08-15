@@ -2,6 +2,8 @@
 title = "०४६ अस्तृतमणिः"
 
 +++
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/046_astRtamaNiH.md"  newLevelForH1="2" title="अनुक्रमणी (VH)" newLevelForH1="3" > </div>
+<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/046_astRtamaNiH/_index.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
 <div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/01_prajApatiShTvA_badhnAt.md"  newLevelForH1="2" title="विश्वास-प्रस्तुतिः" newLevelForH1="3" > </div>
 <div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/01_prajApatiShTvA_badhnAt.md"  newLevelForH1="3" title="मूलम्" newLevelForH1="3" > </div>
 <div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/046_astRtamaNiH/01_prajApatiShTvA_badhnAt.md"  newLevelForH1="2" title="Griffith" newLevelForH1="3" > </div>
