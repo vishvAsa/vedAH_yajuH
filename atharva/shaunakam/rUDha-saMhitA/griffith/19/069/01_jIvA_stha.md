@@ -2,4 +2,4 @@
 title = "०१ जीवा स्थ"
 
 +++
-जी॒वा स्थ॑ जी॒व्यासं॒ सर्व॒मायु॑र्जीव्यासम्॥१॥  
+Ye are alive. I fain would live. I fain would live my complete term of life.

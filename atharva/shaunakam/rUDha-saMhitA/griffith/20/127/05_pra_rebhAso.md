@@ -2,5 +2,4 @@
 title = "०५ प्र रेभासो"
 
 +++
-प्र रे॒भासो॑ मनी॒षा वृषा॒ गाव॑ इवेरते ।  
-अ॒मो॒त॒पुत्र॑का ए॒षाम॒मोत॑ गा॒ इवा॑सते ॥५॥  
+Quickly and willingly like kine forth come the singers and their hymns: Their little maidens are at home, at home they wait upon the cows.

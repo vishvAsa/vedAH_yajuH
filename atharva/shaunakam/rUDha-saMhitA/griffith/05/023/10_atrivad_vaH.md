@@ -2,5 +2,4 @@
 title = "१० अत्रिवद् वः"
 
 +++
-अ॒त्रि॒वद् वः॑ क्रिमयो हन्मि कण्व॒वज्ज॑मदग्नि॒वत्।  
-अ॒गस्त्य॑स्य॒ ब्रह्म॑णा॒ सं पि॑नष्म्य॒हं क्रिमी॑न्॥१०॥  
+The King of worms hath been destroyed, he who was lord of these is slain. Slain is the worm whose mother, whose brother and sister have been slain.

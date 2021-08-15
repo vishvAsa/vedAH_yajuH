@@ -2,5 +2,4 @@
 title = "१० यत्र लोकांश्च"
 
 +++
-यत्र॑ लो॒कांश्च॒ कोशां॒श्चापो॒ ब्रह्म॒ जना॑ वि॒दुः ।  
-अस॑च्च॒ यत्र॒ सच्चा॒न्त स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥१०॥  
+Who out of many, tell me, is that Skambha in whom men recognize the Waters, Brahma, In whom they know the worlds and their enclosures, in whom are non-existence and existence?

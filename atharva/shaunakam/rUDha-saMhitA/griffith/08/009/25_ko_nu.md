@@ -2,5 +2,4 @@
 title = "२५ को नु"
 
 +++
-को नु गौः क ए॑कऋ॒षिः किमु॒ धाम॒ का आ॒शिषः॑ ।  
-य॒क्षं पृ॑थि॒व्यामे॑क॒वृदे॑क॒र्तुः क॑त॒मो नु सः ॥२५॥  
+Who is the Cow? Who is the Single Rishi? What is the law, what are the benedictions? What on the earth is the one only Spirit? Which of the number is the Single Season?

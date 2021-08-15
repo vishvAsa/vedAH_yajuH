@@ -2,5 +2,4 @@
 title = "०५ यद् वः"
 
 +++
-यद् वः॒ सहः॑ सहमाना वी॒र्यं॑१यच्च॑ वो॒ बल॑म्।  
-तेने॒मम॒स्माद् यक्ष्मा॒त् पुरु॑षं मुञ्चतौषधी॒रथो॑ कृणोमि भेष॒जम्॥५॥  
+The conquering strength, the power and might which ye, victo- rious Plants, possess, Therewith deliver this man here from this Consumption, O ye Plants: so I prepare the remedy.

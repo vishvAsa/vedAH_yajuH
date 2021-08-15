@@ -2,5 +2,4 @@
 title = "१६ मुमुचाना ओषधयोऽग्नेर्वैश्वानरादधि"
 
 +++
-मु॒मु॒चा॒ना ओष॑धयो॒ऽग्नेर्वै॑श्वान॒रादधि॑ ।  
-भूमिं॑ संतन्व॒तीरि॑त॒ यासां॒ राजा॒ वन॒स्पतिः॑ ॥१६॥  
+Emancipated from the sway of Agni, of Vaisvanara, go, covering the earth, ye Plants whose ruler is Vanaspati.

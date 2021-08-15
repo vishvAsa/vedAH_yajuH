@@ -2,4 +2,4 @@
 title = "१६ इन्द्रो मेऽहिमरन्धयन्मित्रश्च"
 
 +++
-इन्द्रो॒ मेऽहि॑मरन्धयन्मि॒त्रश्च॒ वरु॑णश्च । वा॒ता॒प॒र्ज॒न्यो॒३भा॥१६॥  
+Indra, Mitra and Varuna, and Vata and Parjanya both have given the serpent up to me.

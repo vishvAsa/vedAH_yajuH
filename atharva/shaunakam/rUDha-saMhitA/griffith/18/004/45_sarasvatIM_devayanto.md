@@ -2,5 +2,4 @@
 title = "४५ सरस्वतीं देवयन्तो"
 
 +++
-सर॑स्वतीं देव॒यन्तो॑ हवन्ते॒ सर॑स्वतीमध्व॒रे ता॒यमा॑ने ।  
-सर॑स्वतीं सु॒कृतो॑ हवन्ते॒ सर॑स्वती दा॒शुषे॑ वार्यं॑ दात्॥४५॥  
+The pious call Sarasvati: they worship Sarasvati while sacrifice proceedeth. The righteous doers of good deeds invoke her: Sarasvati send bliss to him who giveth!

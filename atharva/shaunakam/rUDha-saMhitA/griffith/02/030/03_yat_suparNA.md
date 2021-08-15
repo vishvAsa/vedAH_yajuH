@@ -2,5 +2,4 @@
 title = "०३ यत् सुपर्णा"
 
 +++
-यत् सु॑प॒र्णा वि॑व॒क्षवो॑ अनमी॒वा वि॑व॒क्षवः॑ ।  
-तत्र॑ मे गछता॒द्धवं॑ श॒ल्य इ॑व॒ कुल्म॑लं॒ यथा॑ ॥३॥  
+When eagles, calling out aloud, are screaming in the joy of health, Then to my calling let her come, as to the arrow's neck the shaft.

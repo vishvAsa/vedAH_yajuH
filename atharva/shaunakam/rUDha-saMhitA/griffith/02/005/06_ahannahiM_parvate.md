@@ -2,5 +2,4 @@
 title = "०६ अहन्नहिं पर्वते"
 
 +++
-अह॒न्नहिं॒ पर्व॑ते शिश्रिया॒णं त्वष्टा॑स्मै॒ वज्रं॑ स्व॒र्यं ऽ ततक्ष ।  
-वा॒श्रा इ॑व धे॒नवः॒ स्यन्द॑माना॒ अञ्जः॑ समु॒द्रमव॑ जग्मु॒रापः॑ ॥६॥  
+He slew the Dragon lying on the mountain: his heavenly bolt of thunder Tvashtar fashioned. Like lowing kine in rapid flow descending the waters glided downward to the ocean.

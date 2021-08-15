@@ -2,4 +2,4 @@
 title = "६८ लोमान्यस्य सं"
 
 +++
-लोमा॑न्यस्य॒ सं छि॑न्धि॒ त्वच॑मस्य॒ वि वे॑ष्टय ॥६८॥  
+Snatch thou the hair from off his head, and from his body strip the skin:

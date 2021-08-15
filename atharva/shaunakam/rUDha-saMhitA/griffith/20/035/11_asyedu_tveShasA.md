@@ -2,5 +2,4 @@
 title = "११ अस्येदु त्वेषसा"
 
 +++
-अ॒स्येदु॑ त्वे॒षसा॑ रन्त॒ सिन्ध॑वः॒ परि॒ यद् वज्रे॑ण सी॒मय॑च्छत्।  
-ई॒शा॒न॒कृद् दा॒शुषे॑ दश॒स्यन् तु॒र्वीत॑ये गा॒धं तु॒र्वणिः॑ कः ॥११॥  
+Through his resplendent power still stood the rivers when with his bolt on every side he stayed them. With lordly might favouring him who worshipped, he made a ford, victorious, for Turviti.

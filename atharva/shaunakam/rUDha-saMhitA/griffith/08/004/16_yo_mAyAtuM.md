@@ -2,5 +2,4 @@
 title = "१६ यो मायातुं"
 
 +++
-यो माया॑तुं॒ यातु॑धा॒नेत्याह॒ यो वा॑ र॒क्षाः शुचि॑र॒स्मीत्याह॑ ।  
-इन्द्र॒स्तं ह॑न्तु मह॒ता व॒धेन॒ विश्व॑स्य ज॒न्तोर॑ध॒मस्प॑दीष्ट ॥१६॥  
+May Indra slay him with a mighty weapon, and let the vilest of all creatures perish, The fiend who says that he is pure, who calls me a demon though devoid of demon nature.

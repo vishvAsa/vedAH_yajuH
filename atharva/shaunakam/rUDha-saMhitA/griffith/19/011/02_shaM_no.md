@@ -2,5 +2,4 @@
 title = "०२ शं नो"
 
 +++
-शं नो॑ दे॒वा वि॒श्वदे॑वा भवन्तु॒ शं सर॑स्वती स॒ह धी॒भिर॑स्तु ।  
-शम॑भि॒षाचः॒ शमु॑ राति॒षाचः॒ शं नो॑ दि॒व्याः पार्थि॑वाः॒ शं नो॒ अप्याः॑ ॥२॥  
+Kind to us be the Gods and Visve Devas, Sarasvati with Holy Thoughts be gracious. Friendly be they, the Liberal Ones, who seek us, yea, those who dwell in-heaven, on earth, in waters.

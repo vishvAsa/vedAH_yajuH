@@ -2,5 +2,4 @@
 title = "१४ यत् समुद्रमनु"
 
 +++
-यत् स॑मु॒द्रमनु॑ श्रि॒तं तत् सि॑षासति॒ सूर्यः॑ ।  
-अध्वा॑स्य॒ वित॑तो म॒हान् पूर्व॒श्चाप॑रश्च॒ यः ॥१४॥  
+Surya is eager to obtain all wealth that lies along the sea, Great is the course spread out for him, his eastward and his westward path.

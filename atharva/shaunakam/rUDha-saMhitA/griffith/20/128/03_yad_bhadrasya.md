@@ -2,5 +2,4 @@
 title = "०३ यद् भद्रस्य"
 
 +++
-यद् भ॒द्रस्य॒ पुरु॑षस्य पु॒त्रो भ॑वति दाधृ॒षिः ।  
-तद् वि॒प्रो अब्र॑वीदु॒ तद् ग॑न्ध॒र्वः काम्यं॒ वचः॑ ॥३॥  
+Whenever any good man's son becometh bold and spirited, Then hath the wise Gandharva said this pleasant upward-point- ing word.

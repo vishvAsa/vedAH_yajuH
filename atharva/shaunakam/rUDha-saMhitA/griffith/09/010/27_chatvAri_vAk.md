@@ -2,5 +2,4 @@
 title = "२७ चत्वारि वाक्"
 
 +++
-च॒त्वारि॒ वाक् परि॑मिता प॒दानि॒ तानि॑ विदुर्ब्राह्म॒णा ये म॑नी॒षिणः॑ ।  
-गुहा॒ त्रीणि॒ निहि॑ता॒ नेङ्ग॑यन्ति तु॒रीयं॑ वा॒चो म॑नु॒ष्याऽवदन्ति ॥२७॥  
+Speech hath been measured out in four divisions: the Brahmans who have wisdom comprehend them. Three, kept in close concealment, cause no motion. Of Speech men speak the fourth division only.

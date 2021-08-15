@@ -2,5 +2,4 @@
 title = "०८ सिलाची नाम"
 
 +++
-सि॒ला॒ची नाम॑ कानी॒नोऽज॑बभ्रु पि॒ता तव॑ ।  
-अश्वो॑ य॒मस्य॒ यः श्या॒वस्तस्य॑ हा॒स्नास्यु॑क्षि॒ता॥८॥  
+Silachi is thy name: thy sire, O goat-brown! is a damsel's son. Thou hast been sprinkled by the mouth of Yama's tawny- coloured horse.

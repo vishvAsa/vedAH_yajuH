@@ -2,5 +2,4 @@
 title = "४९ ये न"
 
 +++
-ये न॑ पि॒तुः पि॒तरो॑ ये पि॑ताम॒हा य आ॑विवि॒शुरु॒र्व॑१न्तरि॑क्षम्।  
-य आ॑क्षि॒यन्ति॑ पृथि॒वीमु॒त द्यां तेभ्यः॑ पि॒तृभ्यो॒ नम॑सा विधेम ॥४९॥  
+The Fathers of our Father, his Grandfathers, those who have entered into air's wide region, Those who inhabit earth or dwell in heaven, these Fathers will we worship with oblation.

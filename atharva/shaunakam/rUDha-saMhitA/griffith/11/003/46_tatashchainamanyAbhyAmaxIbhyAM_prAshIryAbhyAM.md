@@ -2,4 +2,4 @@
 title = "४६ ततश्चैनमन्याभ्यामक्षीभ्यां प्राशीर्याभ्यां"
 
 +++
-तत॑श्चैनम॒न्याभ्या॑म॒क्षीभ्यां॒ प्राशी॒र्याभ्यां॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न् ॥१॥  
+And thence, etc. . . . with other feet . . . Thou wilt become a wanderer . . . With the feet of the Asvins. 

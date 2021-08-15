@@ -2,5 +2,4 @@
 title = "०४ इममादित्या वसुना"
 
 +++
-इ॒ममा॑दित्या॒ वसु॑ना॒ समु॑क्षते॒मम॑ग्ने वर्धय ववृधा॒नः ।  
-इ॒ममि॑न्द्र॒ सं सृ॑ज वी॒र्येऽणा॒स्मिन् त्रि॒वृच्छ्र॑यतां पोषयि॒ष्णु॥४॥  
+Enrich this charm, Adityas, with your treasure; magnify this, when magnified, O Agni. Endow it with heroic strength, O Indra: therein be lodged a triple power of increase.

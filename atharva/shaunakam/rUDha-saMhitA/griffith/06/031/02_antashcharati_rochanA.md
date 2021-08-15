@@ -2,5 +2,4 @@
 title = "०२ अन्तश्चरति रोचना"
 
 +++
-अ॒न्तश्च॑रति रोच॒ना अ॒स्य प्रा॒णाद॑पान॒तः ।  
-व्यऽख्यन्महि॒षः स्वः ॥२॥  
+As expiration from his breath his radiance penetrates within. The Bull shines out through all the sky.

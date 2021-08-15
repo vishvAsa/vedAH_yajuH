@@ -2,4 +2,4 @@
 title = "०२ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य ।योऽस्य द्वि॒तीयो॑ऽपा॒नः साष्ट॑का ॥२॥  
+His second downward breath is the eighth day after Full Moon.

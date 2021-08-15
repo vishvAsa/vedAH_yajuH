@@ -2,6 +2,4 @@
 title = "०१ सवनोति हि"
 
 +++
-सव॒नोति॒ हि सु॒न्वन् क्षयं॒ परी॑णसः सुन्वा॒नो हि ष्मा॒ यज॒त्यव॒ द्विषो॑ दे॒वाना॒मव॒ द्विषः॑ ।  
-सु॒न्वा॒न इत् सि॑षासति स॒हस्रा॑ वा॒ज्यवृ॑तः ।  
-सु॒न्वा॒नायेन्द्रो॑ ददात्या॒भुवं॑ र॒यिं द॑दात्या॒भुव॑म्॥१॥  
+The pourer of oblations gains the home of wealth pouring his gift conciliates hostilities, yea, the hostilities of Gods. Pouring he strives, unchecked and strong, to win him riches thousandfold. Indra gives lasting wealth to him who pours forth gifts; yea, wealth he gives that long shall last.

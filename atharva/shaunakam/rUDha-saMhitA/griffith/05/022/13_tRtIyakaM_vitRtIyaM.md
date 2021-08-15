@@ -2,5 +2,4 @@
 title = "१३ तृतीयकं वितृतीयं"
 
 +++
-तृती॑यकं वितृती॒यं स॑द॒न्दिमु॒त शा॑र॒दम्।  
-त॒क्मानं॑ शी॒तं रू॒रं ग्रैष्मं॑ नाशय॒ वार्षि॑कम्॥१३॥  
+Chase Fever whether cold or hot, brought by the summer or the rains, Tertian, intermittent, or autumnal, or continual.

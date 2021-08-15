@@ -2,5 +2,4 @@
 title = "०४ अनुस्पष्टो भवत्येषो"
 
 +++
-अनु॑स्पष्टो भवत्ये॒षो अ॑स्य॒ यो अ॑स्मै रे॒वान् न सु॒नोति॒ सोम॑म्।  
-निर॑र॒त्नौ म॒घवा॒ तं द॑धाति ब्रह्म॒द्विषो॑ ह॒न्त्यना॑नुदिष्टः ॥४॥  
+He looks with loving favour on the mortal who, like a rich man, pours for him the Soma. Maghavan in his bended arm supports him: he slays, unasked, the men who hate devotion.

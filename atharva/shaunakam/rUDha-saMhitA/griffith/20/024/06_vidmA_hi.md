@@ -2,4 +2,4 @@
 title = "०६ विद्मा हि"
 
 +++
-वि॒द्मा हि त्वा॑ धनंज॒यं वाजे॑षु दधृ॒षं क॑वे । अधा॑ ते सु॒म्नमी॑महे ॥६॥  
+We know thee winner of the spoil and resolute in battles, Sage! Therefore thy blessing we implore.

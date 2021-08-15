@@ -2,5 +2,4 @@
 title = "४३ कति नु"
 
 +++
-कति॒ नु व॒शा ना॑रद॒ यास्त्वं वेत्थ मनुष्य॒जाः ।  
-तास्त्वा॑ पृच्छामि वि॒द्वांसं॒ कस्या॒ नाश्नी॑या॒दब्रा॑ह्मणः ॥४३॥  
+How many cows, O Narada, knowest thou, born among man- kind I ask thee who dost know, of which must none who is no Brahman eat?

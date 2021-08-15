@@ -2,5 +2,4 @@
 title = "०२ सुक्षेत्रिया सुगातुया"
 
 +++
-सु॒क्षे॒त्रि॒या सु॑गातु॒या व॑सू॒या च॑ यजामहे ।  
-अप॑ नः॒ शोशु॑चद॒घम्॥२॥  
+For goodly fields, for pleasant homes, for wealth we sacrifice to thee. His lustre flash our pain away!

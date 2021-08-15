@@ -2,5 +2,4 @@
 title = "०१ धीती वा"
 
 +++
-धी॒ती वा॒ ये अन॑यन् वा॒चो अग्रं॒ मन॑सा वा॒ येऽव॑दन्नृ॒ तानि॑ ।  
-तृ॒तीये॑न॒ ब्रह्म॑णा वावृ॒धा॒नास्तु॒रीये॑णामन्वत॒ नाम॑ धे॒नोः ॥१॥  
+They who by thought have guided all that Speech hath best, or they who with their heart have uttered words of truth, Made stronger by the strength which the third prayer bestows, have by the fourth prayer learned the nature of the Cow.

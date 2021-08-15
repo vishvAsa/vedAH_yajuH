@@ -2,5 +2,4 @@
 title = "११ आ गृह्णीतं"
 
 +++
-आ गृ॑ह्णीतं॒ सं बृ॑हतं प्रानापानान् न्य॑र्बुदे ।  
-नि॒वा॒शा घोषाः॒ सं य॑न्त्व॒मित्रे॑षु समी॒क्षयन् रदि॒ते अ॑र्बुदे॒ तव॑ ॥११॥  
+Attack them, both of you; bear off their vital breath O Nyar- budi. Let mingled shouts and echoing cries of woe amid our foemen show where thou, O Arbudi, hast pierced

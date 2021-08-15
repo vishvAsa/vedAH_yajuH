@@ -2,5 +2,4 @@
 title = "०३ यथा सोम"
 
 +++
-यथा॒ सोम॒ ओष॑धीनामुत्त॒मो ह॒विषां॑ कृ॒तः ।  
-त॒लाशा॑ वृ॒क्षाणा॑मिवा॒हं भू॑यासमुत्त॒मः ॥३॥
+As Soma hath been made the best of all oblations 'mid the plants, So, as Talasa is the queen of trees, may I be chief of all.

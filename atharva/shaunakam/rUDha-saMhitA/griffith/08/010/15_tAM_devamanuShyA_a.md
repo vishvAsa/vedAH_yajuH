@@ -2,4 +2,4 @@
 title = "१५ तां देवमनुष्याऽ"
 
 +++
-तां दे॑वमनु॒ष्याऽ अब्रुवन्नि॒यमे॒व तद् वे॑द॒ यदु॒भय॑ उप॒जीवे॑मे॒मामुप॑ ह्वयामहा॒ इति॑ ॥२॥(९)  
+They drew the Waters forth with Vamadevya, with Yajnayaj- niya they milked out worship.

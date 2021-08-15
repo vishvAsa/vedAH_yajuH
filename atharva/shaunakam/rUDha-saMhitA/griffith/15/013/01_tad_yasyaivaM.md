@@ -2,4 +2,4 @@
 title = "०१ तद् यस्यैवं"
 
 +++
-तद् यस्यै॒वं वि॒द्वान् व्रात्य॒ एकां॒ रात्रि॒मति॑थिर्गृ॒हे वस॑ति ॥१॥  
+He in whose house the Vratya who possesses this knowledge abides one night secures for himself thereby the holy realms that are on earth.

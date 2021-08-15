@@ -2,5 +2,4 @@
 title = "०४ अश्विना त्वाग्रे"
 
 +++
-अ॒श्विना॒ त्वाग्रे॑ मि॒त्रावरु॑णो॒भा विश्वे॑ दे॒वा म॒रुत॑स्त्वा ह्वयन्तु ।  
-अधा॒ मनो॑ वसु॒देया॑य कृणुष्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥४॥  
+First shall the Asvins, Varuna and Mitra, the Universal Gods, and Maruts call thee. Then turn thy mind to giving gifts of treasures, thence, mighty one, distribute wealth among us.

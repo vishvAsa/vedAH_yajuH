@@ -2,5 +2,4 @@
 title = "०७ बृहस्पतिरमत हि"
 
 +++
-बृह॒स्पति॒रम॑त॒ हि त्यदा॑सां॒ नाम॑ स्व॒रीणां॒ सद॑ने॒ गुहा॒ यत्।  
-आ॒ण्डेव॑ भि॒त्वा श॑कु॒नस्य॒ गर्भ॒मुदु॒स्रियाः॒ पर्व॑तस्य॒ त्मना॑जत्॥७॥  
+That secret name borne by the lowing cattle within the cave Brihaspati discovered, And draye, himself, the bright kine from the mountain, like a bird's young after the eggs' disclosure.

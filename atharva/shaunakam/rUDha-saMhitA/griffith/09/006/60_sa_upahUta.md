@@ -2,4 +2,4 @@
 title = "६० स उपहूत"
 
 +++
-स उप॑हूत॒ उप॑हूतः ।१२। ६०॥  
+He, having been invited hath been invited.

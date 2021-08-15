@@ -2,5 +2,4 @@
 title = "०३ वातात् ते"
 
 +++
-वाता॑त् ते प्रा॒णम॑विदं॒ सूर्या॒च्चक्षु॑र॒हं तव॑ ।  
-यत् ते॒ मन॒स्त्वयि॒ तद् धा॑रयामि॒ सं वि॒त्स्वाङ्गै॒र्वद॑ जि॒ह्वयाल॑पन्॥३॥  
+Thy breath have I recovered from the Wind, thy vision from the Sun. Thy mind I stablish and secure within thee: feel in thy members,. use thy tongue, conversing.

@@ -2,5 +2,4 @@
 title = "२६ तेषां सर्वेषामीशाना"
 
 +++
-तेषां॒ सर्वे॑षा॒मीशा॑ना॒ उत् ति॑ष्ठत॒ सं न॑ह्यध्वं॒ मित्रा॒ देव॑जना यू॒यम्।  
-इ॒मं सं॑ग्रा॒मं सं॒जित्य॑ यथालो॒कं वि ति॑ष्ठध्वम्॥२६॥
+With full dominion over these, rise, stand ye up, prepare your- selves, Ye are our friends, celestial hosts. When ye have won this battle, go, each to his several sphere, apart. HYMN X

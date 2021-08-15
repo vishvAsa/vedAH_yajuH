@@ -2,5 +2,4 @@
 title = "०४ अन्वग्निरुषसामग्रमख्यदन्वहानि प्रथमो"
 
 +++
-अन्व॒ग्निरु॒षसा॒मग्र॑मख्य॒दन्वहा॑नि प्रथ॒मो जा॒तवे॑दाः ।  
-अनु॒ सूर्य॑ उ॒षसो॒ अनु॑ र॒श्मीननु॒ द्यावा॑पृथि॒वी आ वि॑वेश ॥४॥  
+Agni hath looked upon the spring of Morning, looked on the days, the earliest Jatavedas. So, following the gleams of Morning, Surya hath entered heaven and earth as his possession.

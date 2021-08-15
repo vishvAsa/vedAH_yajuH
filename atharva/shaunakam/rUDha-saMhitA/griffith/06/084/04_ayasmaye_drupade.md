@@ -2,5 +2,4 @@
 title = "०४ अयस्मये द्रुपदे"
 
 +++
-अ॒य॒स्मये॑ द्रुप॒दे बे॑धिष इ॒हाभिहि॑तो मृ॒त्युभि॒र्ये स॒हस्र॑म्।  
-य॒मेन॒ त्वं पि॒तृभिः॑ संविदा॒न उ॑त्त॒मं नाक॒मधि॑ रोहये॒मम्॥४॥
+Thou hast been fastened to an iron pillar, here compassed with a thousand deaths around thee. In full accord with Yama and the Fathers, send this man up- ward to the loftiest heaven.

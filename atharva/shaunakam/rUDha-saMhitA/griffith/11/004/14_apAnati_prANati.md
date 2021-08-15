@@ -2,5 +2,4 @@
 title = "१४ अपानति प्राणति"
 
 +++
-अपा॑नति॒ प्राण॑ति॒ पुरु॑षो॒ गर्भे॑ अन्त॒रा।  
-य॒दा त्वं प्रा॑ण॒ जिन्व॒स्यथ॒ स जा॑यते॒ पुनः॑ ॥१४॥  
+The human infant in the womb draws vital breath and sends it Lout: When thou, O Prana, quickenest the babe it springs anew to life.

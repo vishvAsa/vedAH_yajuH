@@ -2,5 +2,4 @@
 title = "०२ अंशो भगो"
 
 +++
-अंशो॒ भगो॒ वरु॑णो मि॒त्रो अ॑र्य॒मादि॑तिः॒ पान्तु॑ म॒रुतः॑ ।  
-अप॒ तस्य॒ द्वेषो॑ गमेदभि॒ह्रुतो॑ यावय॒च्छत्रु॒मन्ति॑तम्॥२॥  
+May Ansa, Bhaga, Varuna, and Mitra, Aryaman, Aditi, and Maruts guard us. May we be freed from that oppressor's hatred. May he keep off that foeman who is near us.

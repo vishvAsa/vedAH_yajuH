@@ -2,5 +2,4 @@
 title = "०१ अयं नो"
 
 +++
-अ॒यं नो॒ नभ॑स॒स्पतिः॑ सं॒स्फानो॑ अ॒भि र॑क्षतु ।  
-अस॑मातिं गृहेषु॑ नः ॥१॥  
+May this our Lord of Cloudy Sky, bedewed with liquid drops preserve unequalled riches in our homes.

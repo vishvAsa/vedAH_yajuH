@@ -2,5 +2,4 @@
 title = "०३ यावङ्गिरसमवथो यावगस्तिं"
 
 +++
-यावङ्गि॑रस॒मव॑थो॒ याव॒गस्तिं॒ मित्रा॑वरुणा ज॒मद॑ग्नि॒मत्रिम्।  
-यौ क॒श्यप॒मव॑थो॒ यौ वसि॑ष्ठं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥३॥  
+Mitra and Varuna who help Agasti, Atri, and Angiras, and Jamadagni, Ye who help Kasyapa, who help Vasishtha, deliver us, ye twain, from grief and trouble.

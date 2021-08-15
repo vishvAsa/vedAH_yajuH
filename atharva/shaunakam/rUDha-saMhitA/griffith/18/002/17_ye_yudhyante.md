@@ -2,5 +2,4 @@
 title = "१७ ये युध्यन्ते"
 
 +++
-ये युध्य॑न्ते प्र॒धने॑षु॒ शूरा॑सो॒ ये त॑नू॒त्यजः॑ ।  
-ये वा॑ स॒हस्र॑दक्षिणा॒स्तांश्चिदे॒वापि॑ गच्छतात्॥१७॥  
+The heroes who contend in war and boldly cast their lives away. Or who give guerdon thousandfold,--even to those let him depart.

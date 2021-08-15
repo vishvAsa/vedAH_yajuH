@@ -2,5 +2,4 @@
 title = "०३ सत्यमहं गभीरः"
 
 +++
-स॒त्यम॒हं ग॑भी॒रः काव्ये॑न स॒त्यं जा॒तेना॑स्मि जा॒तवे॑दाः ।  
-न मे॑ दा॒सो नार्यो॑ महि॒त्वा व्र॒तं मी॑माय॒ यद॒हं ध॑रि॒ष्ये॥३॥  
+Truly I am profound in wisdom, truly I know by nature all existing creatures. No Dasa by his greatness, not an Arya, may violate the law that I will stablish.

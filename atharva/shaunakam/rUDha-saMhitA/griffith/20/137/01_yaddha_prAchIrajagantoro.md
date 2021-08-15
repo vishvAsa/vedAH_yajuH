@@ -2,5 +2,4 @@
 title = "०१ यद्ध प्राचीरजगन्तोरो"
 
 +++
-यद्ध॒ प्राची॒रज॑ग॒न्तोरो॑ मण्डूरधाणिकीः ।  
-ह॒ता इन्द्र॑स्य॒ शत्र॑वः॒ सर्वे॑ बुद्बु॒दया॑शवः ॥१॥  
+When, foul with secret spot and stain, ye hastened onward to the breast. All Indra's enemies were slain and passed away like froth and foam.

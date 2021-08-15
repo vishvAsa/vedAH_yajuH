@@ -2,5 +2,4 @@
 title = "३९ यद्यज्जाया पचति"
 
 +++
-यद्य॑ज्जा॒या पच॑ति॒ त्वत् प॒रःप॑रः॒ पति॑र्वा जाये॒ त्वत् ति॒रः ।  
-सं तत् सृ॑जेथां स॒ह वां॒ तद॑स्तु संपा॒दय॑न्तौ स॒ह लो॒मेक॑म्॥३९॥  
+Whate'er thy wife, away from thee, makes ready, or what, O wife, apart from thee, thy husband, Combine it all: let it be yours in common while ye produce one world with joint endeavour.

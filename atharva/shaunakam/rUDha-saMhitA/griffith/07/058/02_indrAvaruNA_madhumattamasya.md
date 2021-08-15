@@ -2,5 +2,4 @@
 title = "०२ इन्द्रावरुणा मधुमत्तमस्य"
 
 +++
-इन्द्रा॑वरुणा॒ मधु॑मत्तमस्य॒ वृष्णः॒ सोम॑स्य वृष॒णा वृ॑षेथाम्।  
-इ॒दं वा॒मन्धः॒ परि॑षिक्तमा॒सद्या॒स्मिन् ब॒र्हिषि॑ मादयेथाम्॥२॥
+O Indra Varuna, drink your fill, ye heroes, of this effectual and sweetest Soma. This juice was shed by us that ye might quaff it. On this trimmed grass be seated and rejoice you.

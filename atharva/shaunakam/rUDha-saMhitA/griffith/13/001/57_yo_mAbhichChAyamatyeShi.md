@@ -2,5 +2,4 @@
 title = "५७ यो माभिच्छायमत्येषि"
 
 +++
-यो मा॑भिच्छा॒यम॒त्येषि॒ मां चा॒ग्निं चा॑न्त॒रा।  
-तस्य॑ वृश्चामि ते॒ मूलं॒ न च्छा॒यां क॑र॒वोऽप॑रम्॥५७॥  
+Thou who, between the fire and me, passest across the line of shade. Thy root I sever: nevermore mayst thou cast shadow on the ground.

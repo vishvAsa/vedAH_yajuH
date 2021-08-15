@@ -2,4 +2,4 @@
 title = "०८ त्वमिन्द्राभिभूरसि विश्वा"
 
 +++
-त्वमि॑न्द्राभि॒भूर॑सि॒ विश्वा॑ जा॒तान्योज॑सा । स विश्वा॒ भुव॒ आभ॑वः ॥८॥  
+Thou, Indra, art pre-eminent over all creatures in thy strength: Thou hast pervaded every place.

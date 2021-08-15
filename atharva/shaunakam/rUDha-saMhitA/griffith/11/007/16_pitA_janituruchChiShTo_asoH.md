@@ -2,5 +2,4 @@
 title = "१६ पिता जनितुरुच्छिष्टोऽसोः"
 
 +++
-पि॒ता ज॑नि॒तुरुच्छि॒ष्टोऽसोः॒ पौत्रः॑ पिताम॒हः ।  
-स क्षि॑यति॒ विश्व॒स्येशा॑नो॒ वृषा॒ भूम्या॑मति॒घ्न्यः ॥१६॥  
+The Father's sire, the Residue, grandson of Spirit, primal Sire, Lord of the universe, the Bull, dwells on the earth victorious.

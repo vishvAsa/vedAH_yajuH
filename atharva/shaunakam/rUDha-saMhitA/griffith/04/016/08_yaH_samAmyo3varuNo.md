@@ -2,5 +2,4 @@
 title = "०८ यः समाम्यो३वरुणो"
 
 +++
-यः स॑मा॒म्यो॒३वरु॑णो॒ यो व्या॒म्यो॒३यः सं॑दे॒श्यो॒३वरु॑णो॒ यो वि॑दे॒श्यः ।  
-यो दै॒वो वरु॑णो॒ यश्च॒ मानु॑षः ॥८॥  
+Varuna sends, and drives away, diseases: Varuna is both native and a stranger, Varuna is celestial and is human.

@@ -2,5 +2,4 @@
 title = "०२ प्र तद्"
 
 +++
-प्र तद् विष्णु॑ स्तवते वी॒र्याऽणि मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः ।  
-प॒रा॒वत॒ आ ज॑गम्या॒त् पर॑स्याः ॥२॥  
+Loud boast doth Vishnu make of this achievement, like some wild beast, dread, prowling, mountain-roaming. May he approach us from the farthest distance.

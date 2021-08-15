@@ -2,5 +2,4 @@
 title = "१५ सं माग्ने"
 
 +++
-सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा ।  
-वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ विद्यात् स॒ह ऋषि॑भिः ॥१५॥  
+Grant me, O Agni, splendid strength, and progeny, and length- ened life. May the Gods know me as I am, may Indra with the Rishis know.

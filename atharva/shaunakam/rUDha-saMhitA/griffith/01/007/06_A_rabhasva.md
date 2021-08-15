@@ -2,5 +2,4 @@
 title = "०६ आ रभस्व"
 
 +++
-आ र॑भस्व जातवेदो॒ऽस्माकार्था॑य जज्ञिषे ।  
-दू॒तो नो॑ अग्ने भू॒त्वा या॑तु॒धाना॒न् वि ला॑पय ॥६॥  
+O Jatavedas, seize, on them: for our advantage art thou born: Agni, be thou our messenger and make the Yatudhanas wail.

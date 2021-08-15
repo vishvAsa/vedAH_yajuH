@@ -2,5 +2,4 @@
 title = "०५ दिव्याऽदित्याय समनमन्त्स"
 
 +++
-दि॒व्याऽदि॒त्याय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
-यथा॑ दि॒व्याऽदि॒त्याय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥५॥  
+The Sun in heaven hath had my homage. May he bless me. As I have bowed me down unto the Sun in heaven, so let the Favouring Graces bow them down to me.

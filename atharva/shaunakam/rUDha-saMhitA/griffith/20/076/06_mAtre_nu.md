@@ -2,5 +2,4 @@
 title = "०६ मात्रे नु"
 
 +++
-मात्रे॒ नु ते॒ सुमि॑ते इन्द्र पू॒र्वी द्यौर्म॒ज्मना॑ पृथि॒वी काव्ये॑न ।  
-वरा॑य ते घृ॒तव॑न्तः सु॒तासः॒ स्वाद्न॑न् भवन्तु पी॒तये॒ मधू॑नि ॥६॥  
+Thine are two measures, Indra, wide, well-meted, heaven for thy majesty, earth for thy wisdom. Here for thy choice are Somas mixed with butter: may the sweet meath be pleasant for thy drinking.

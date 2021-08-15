@@ -2,5 +2,4 @@
 title = "०१ अस्थाद् द्यौरस्थात्"
 
 +++
-अस्था॒द् द्यौरस्था॑त् पृथि॒व्यस्था॒द् विश्व॑मि॒दं जग॑त्।  
-अस्थु॑र्वृ॒क्षा ऊ॒र्ध्वस्व॑प्ना॒स्तिष्ठा॒द् रोगो॑ अ॒यं तव॑ ॥१॥  
+Firm stood the heaven, firm stood the earth, firm stood this universal world. Firm stood the trees that sleep erect: let this thy malady be still.

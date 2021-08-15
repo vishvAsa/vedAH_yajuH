@@ -2,5 +2,4 @@
 title = "०५ त्वमसि सहमानोऽहमस्मि"
 
 +++
-त्वम॑सि॒ सह॑मानो॒ऽहम॑स्मि॒ सह॑स्वान्।  
-उ॒भौ सह॑स्वन्तौ भू॒त्वा स॒पत्ना॑न्सहिषीवहि ॥५॥  
+Thou art victorious in thy might I am endowed with conquering strength: Possessed of overpowering force we two will quell our enemies.

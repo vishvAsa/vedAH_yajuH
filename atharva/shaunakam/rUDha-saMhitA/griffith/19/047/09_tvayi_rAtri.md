@@ -2,5 +2,4 @@
 title = "०९ त्वयि रात्रि"
 
 +++
-त्वयि॑ रात्रि वसामसि स्वपि॒ष्याम॑सि जागृ॒हि।  
-गोभ्यो॑ नः॒ शर्म॑ य॒च्छाश्वे॑भ्यः॒ पुरु॑षेभ्यः ॥९॥
+Crush the wolf's jaws in pieces, strike the robber dead against a post. In thee, O Night, do we abide: we here will sleep. Be watchful thou.

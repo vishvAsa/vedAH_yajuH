@@ -2,5 +2,4 @@
 title = "१४ अग्नीषोमावदधुर्या तुरीयासीद्"
 
 +++
-अ॒ग्नीषोमा॑वदधु॒र्या तु॒रीयासी॑द् य॒ज्ञस्य॑ प॒क्षावृष॑यः क॒ल्पय॑न्तः ।  
-गा॒य॒त्रीं त्रि॒ष्टुभं॒ जग॑तीमनु॒ष्टुभं॑ बृहद॒र्कीं यज॑मानाय॒ स्वऽरा॒भर॑न्तीम्॥१४॥  
+She who was fourth was made by Agni, Soma, and Rishis as. they formed both halves of worship, Gayatri, Trishtup, Jagati, Anushtup, Brihadarki lightening the sacrificer.

@@ -2,4 +2,4 @@
 title = "०४ यं द्विष्मो"
 
 +++
-यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तस्मा॑ एनद् गमयामः ॥४॥  
+To him whom we abhor, to him who hates us do we send it hence.

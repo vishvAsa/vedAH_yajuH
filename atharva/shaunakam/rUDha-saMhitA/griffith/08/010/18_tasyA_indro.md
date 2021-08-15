@@ -2,4 +2,4 @@
 title = "१८ तस्या इन्द्रो"
 
 +++
-तस्या॒ इन्द्रो॑ व॒त्स आसी॑द् गाय॒त्र्यऽभि॒धान्य॒भ्रमूधः॑ ॥५॥(१२)  
+She rose, she came unto the tress: they killed her. A year went by and she again existed. Hence in a year the wounds of trees heal over. He who knows this sees his loathed rival wounded.

@@ -2,6 +2,4 @@
 title = "०७ अन्तरिक्षेण सह"
 
 +++
-अ॒न्तरि॑क्षेण स॒ह वा॑जिनीवन् क॒र्कीं व॒त्सामि॒ह र॑क्ष वाजिन्।  
-अ॒यं घा॒सो अ॒यं व्र॒ज इ॒ह व॒त्सां नि ब॑ध्नीमः ।  
-य॒था॒ना॒म व॑ ईश्महे॒ स्वाहा॑ ॥७॥
+Together with the Air, O rich in treasure, keep the white calf in safety here, O mighty! Here is the grass, here is the stall, here do we bind the calf. We are your masters, name by name. All Hail!

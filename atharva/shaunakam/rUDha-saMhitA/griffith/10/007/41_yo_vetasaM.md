@@ -2,4 +2,4 @@
 title = "४१ यो वेतसं"
 
 +++
-यो वे॑त॒सं हि॑र॒ण्ययं॒ तिष्ठ॑न्तं सलि॒ले वेद॑ । स वै गुह्यः॑ प्र॒जाप॑तिः ॥४१॥  
+He verily who knows the Reed of Gold that stands amid the flood, is the mysterious Lord of Life.

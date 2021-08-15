@@ -2,4 +2,4 @@
 title = "०१ नाभिरहं रयीणां"
 
 +++
-नाभि॑र॒हं र॑यी॒णां नाभिः॑ समा॒नानां॑ भूयासम्॥१॥  
+I am the:centre of riches. Fain would I be the centre of mine equals.

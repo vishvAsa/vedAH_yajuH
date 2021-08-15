@@ -2,5 +2,4 @@
 title = "०२ अयमग्निरमूमुहद् यानि"
 
 +++
-अ॒यम॒ग्निर॑मूमुह॒द् यानि॑ चि॒त्तानि॑ वो हृ॒दि।  
-वि वो॑ धम॒त्वोक॑सः॒ प्र वो॑ धमतु स॒र्वतः॑ ॥२॥  
+This Agni hath bewildered all the senses that were in your hearts: Now let him blast you from your home, blast you away from every side.

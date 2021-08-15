@@ -2,5 +2,4 @@
 title = "०७ तद् विष्णोः"
 
 +++
-तद् विष्णोः॑ पर॒मं प॒दं सदा॑ पश्यन्ति सू॒रयः॑ ।  
-दि॒वीऽव॒ चक्षु॒रात॑तम्॥७॥  
+The princes evermore behold that loftiest place where Vishnu is, Like an extended eye in heaven,

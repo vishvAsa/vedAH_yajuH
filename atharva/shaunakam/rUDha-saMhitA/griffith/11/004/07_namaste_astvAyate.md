@@ -2,5 +2,4 @@
 title = "०७ नमस्ते अस्त्वायते"
 
 +++
-नम॑स्ते अस्त्वाय॒ते नमो॑ अस्तु पराय॒ते।  
-नम॑स्ते प्राण॒ तिष्ठ॑त॒ आसी॑नायो॒त ते॒ नमः॑ ॥७॥  
+Homage to thee when coming nigh, homage to thee departing hence! Homage, O Prana, be to thee when standing and when sitting still.

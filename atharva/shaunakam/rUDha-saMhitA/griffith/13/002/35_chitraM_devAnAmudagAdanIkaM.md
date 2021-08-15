@@ -2,5 +2,4 @@
 title = "३५ चित्रं देवानामुदगादनीकं"
 
 +++
-चि॒त्रं दे॒वाना॒मुद॑गा॒दनी॑कं॒ चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ।  
-आप्रा॒द् द्यावा॑पृथि॒वी अ॒न्तरि॑क्षं॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुष॑श्च ॥३५॥  
+He hath gone up on high, the Gods' bright presence, the eye of Mitra, Varuna and Agni. The soul of all that moveth not or moveth, Surya hath filled the earth and air and heaven,

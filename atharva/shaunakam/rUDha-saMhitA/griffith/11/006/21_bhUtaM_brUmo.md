@@ -2,5 +2,4 @@
 title = "२१ भूतं ब्रूमो"
 
 +++
-भू॒तं ब्रू॑मो भूत॒पतिं॑ भू॒ताना॑मु॒त यो व॒शी।  
-भू॒तानि॒ सर्वा॑ सं॒गत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥२१॥  
+The spirit, yea, the spirits' Lord, ruler of spirits, we address. Together let all spirits meet: may these deliver us from woe.

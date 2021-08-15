@@ -2,5 +2,4 @@
 title = "०४ उपहूतो वाचस्पतिरुपास्मान्"
 
 +++
-उ॑पहूतो वा॒चस्पति॒रुपा॒स्मान् वा॒चस्प॑तिर्ह्वयताम्।  
-सं श्रु॒तेन॑ गमेमहि॒ मा श्रु॒तेन॒ वि रा॑धिषि ॥४॥
+Vachaspati hath been invoked: may he invite us in reply. May we adhere to Sacred Lore. Never may I be reft thereof.

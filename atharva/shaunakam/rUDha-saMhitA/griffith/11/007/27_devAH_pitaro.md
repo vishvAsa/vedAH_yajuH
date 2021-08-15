@@ -2,5 +2,4 @@
 title = "२७ देवाः पितरो"
 
 +++
-दे॒वाः पि॒तरो॑ मनु॒ष्याऽ गन्धर्वाप्स॒रस॑श्च॒ ये।  
-उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥२७॥
+The Deities, the Fathers, men, Gandharvas, and Apsarases. All the celestial Gods whose home is heaven sprang from the Residue.

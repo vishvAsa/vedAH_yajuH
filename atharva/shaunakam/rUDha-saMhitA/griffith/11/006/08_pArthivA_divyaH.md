@@ -2,5 +2,4 @@
 title = "०८ पार्थिवा दिव्यः"
 
 +++
-पार्थि॑वा दि॒व्यः प॒शव॑ आर॒ण्या उ॒त ये मृ॒गाः ।  
-श॒कुन्ता॑न् प॒क्षिणो॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥८॥  
+All creatures both of heaven and earth, wild beasts and sylvan animals, And winged birds of air we call: may they deliver us from woe.

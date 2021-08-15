@@ -2,4 +2,4 @@
 title = "०६ इन्द्राय गाव"
 
 +++
-इन्द्रा॑य॒ गाव॑ आ॒शिरं॑ दुदु॒ह्रे व॒ज्रिणे॒ मधु॑ । यत् सी॑मुपह्व॒रे वि॒दत्॥६॥
+For Indra, Thunder-armed, the kine have yielded mingled milk and meath, What time he found them in the vault.

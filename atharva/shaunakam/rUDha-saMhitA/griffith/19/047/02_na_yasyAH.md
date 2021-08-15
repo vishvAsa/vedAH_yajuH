@@ -2,5 +2,4 @@
 title = "०२ न यस्याः"
 
 +++
-न यस्याः॑ पा॒रं ददृ॑शे॒ न योयु॑व॒द् विश्व॑म॒स्यां नि वि॑शते॒ यदेज॑ति ।  
-अरि॑ष्टासस्त उर्वि तमस्वति॒ रात्रि॑ पा॒रम॑शीमहि॒ भद्रे॑ पा॒रम॑शीमहि ॥२॥  
+Each moving thing finds rest in her whose yonder boundary is not seen, nor that which keeps her separate. O spacious, darksome Night, may we uninjured reach the end of thee, reach, O thou blessed One, thine end.

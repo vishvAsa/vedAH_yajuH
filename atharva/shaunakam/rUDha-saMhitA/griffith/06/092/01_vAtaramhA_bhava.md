@@ -2,5 +2,4 @@
 title = "०१ वातरम्हा भव"
 
 +++
-वात॑रम्हा भव वाजिन् यु॒ज्यमा॑न॒ इन्द्र॑स्य याहि प्रस॒वे मनो॑जवाः ।  
-यु॒ञ्जन्तु॑ त्वा म॒रुतो॑ वि॒श्ववे॑दस॒ आ ते॒ त्वष्टा॑ प॒त्सु ज॒वं द॑धातु ॥१॥  
+Be fleet as wind, Strong Steed, when thou art harnessed; go forth as swift as thought at lndra's sending. Let the possessors of all wealth, the Maruts, yoke thee, and Tvashtar in thy feet lay swiftness.

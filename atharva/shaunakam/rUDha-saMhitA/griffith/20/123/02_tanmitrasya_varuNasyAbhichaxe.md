@@ -2,5 +2,4 @@
 title = "०२ तन्मित्रस्य वरुणस्याभिचक्षे"
 
 +++
-तन्मि॒त्रस्य॒ वरु॑णस्याभि॒चक्षे॒ सूर्यो॑ रू॒पं कृ॑णुते॒ द्योरु॒पस्थे॑ ।  
-अ॒न॒न्तम॒न्यद् रुश॑दस्य॒ पाजः॑ कृ॒ष्णम॒न्यद्ध॒रितः॒ सं भ॑रन्ति ॥२॥
+In the sky's lap the Sun this form assumeth for Mitra and for Varuna to look on. His bay steeds well maintain his power eternal, at one time bright and darksome at another.

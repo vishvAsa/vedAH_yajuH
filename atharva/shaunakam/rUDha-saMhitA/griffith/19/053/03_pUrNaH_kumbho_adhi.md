@@ -2,5 +2,4 @@
 title = "०३ पूर्णः कुम्भोऽधि"
 
 +++
-पू॒र्णः कु॒म्भोऽधि॑ का॒ल आहि॑त॒स्तं वै पश्या॑मो बहु॒धा नु स॒न्तः।  
-स इ॒मा विश्वा॒ भुव॑ना॒नि प्र॒त्यङ्कालं तमा॑हुः पर॒मे व्योमन्॥३॥  
+On Time is laid an overflowing beaker: this we behold in many a place appearing. He carries from us all these worlds of creatures. They call him Kala in the loftiest heaven.

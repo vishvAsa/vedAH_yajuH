@@ -2,5 +2,4 @@
 title = "१७ यत् क्षुरेण"
 
 +++
-यत् क्षु॒रेण॑ म॒र्चय॑ता सुते॒जसा॒ वप्ता॒ वप॑सि केशश्म॒श्रु।  
-शुभं॒ मुखं॒ मा न॒ आयुः॒ प्र मो॑षीः ॥१७॥  
+When, with a very keen and cleasing razor, our hair and beards thou shavest as a barber, Smoothing our face steal not our vital forces.

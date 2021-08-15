@@ -2,5 +2,4 @@
 title = "०१ त्वमिन्द्र प्रतूर्तिष्वभि"
 
 +++
-त्वमि॑न्द्र॒ प्रतू॑र्तिष्व॒भि विश्वा॑ असि॒ स्पृधः॑ ।  
-अ॒शस्ति॒हा ज॑नि॒ता वि॑श्व॒तूर॑सि॒ त्वं तू॑र्य तरुष्य॒तः ॥१॥  
+Thou in the battles, Indra, art subduer of all hostile bands. Father art thou, all-conquering, cancelling the curse, thou victor of the vanquisher.

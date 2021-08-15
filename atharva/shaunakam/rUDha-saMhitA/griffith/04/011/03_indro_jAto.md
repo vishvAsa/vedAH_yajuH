@@ -2,5 +2,4 @@
 title = "०३ इन्द्रो जातो"
 
 +++
-इन्द्रो॑ जा॒तो म॑नु॒ष्येऽष्व॒न्तर्घ॒र्मस्त॒प्तश्च॑रति॒ शोशु॑चानः ।  
-सु॒प्र॒जाः सन्त्स उ॑दा॒रे न स॑र्ष॒द्यो नाश्नी॒यादन॒डुहो॑ विजा॒नन्॥३॥  
+Being produced among mankind as Indra, the Caldron works heated and brightly glowing. Let him not, with good sons, pass off in vapour who hath not eaten of the Ox with knowledge.

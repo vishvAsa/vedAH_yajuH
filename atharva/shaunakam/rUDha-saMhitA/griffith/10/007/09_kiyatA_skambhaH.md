@@ -2,5 +2,4 @@
 title = "०९ कियता स्कम्भः"
 
 +++
-किय॑ता स्क॒म्भः प्र वि॑वेश भू॒तं कियद् भवि॒ष्यद॒न्वाश॑येऽस्य ।  
-एकं॒ यदङ्ग॒मकृ॑णोत् सहस्र॒धा किय॑ता स्क॒म्भः प्र वि॑वेश॒ तत्र॑ ॥९॥  
+How far within the past hath Skambha entered? How much of him hath reached into the future? That one part which he set in thousand places,--how far did Skambha penetrate within it?

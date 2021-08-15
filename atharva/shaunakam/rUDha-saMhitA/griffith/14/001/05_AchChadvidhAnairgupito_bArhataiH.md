@@ -2,5 +2,4 @@
 title = "०५ आच्छद्विधानैर्गुपितो बार्हतैः"
 
 +++
-आ॒च्छद्वि॑धानैर्गुपि॒तो बार्ह॑तैः सोम रक्षि॒तः ।  
-ग्राव्णा॒मिच्छृ॒ण्वन् ति॑ष्ठसि॒ न ते॑ अश्नाति॒ पार्थि॑वः ॥५॥  
+Soma, preserved by covering rules, guarded by hymns in Brihati, Thou standest listening to the stones; none tastes of thee who dwells on earth.

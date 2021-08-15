@@ -2,5 +2,4 @@
 title = "०८ सप्त सूर्यो"
 
 +++
-स॒प्त सूर्यो॑ ह॒रितो॑ यात॑वे॒ रथे॒ हिर॑ण्यत्वचसो बृह॒तीर॑युक्त ।  
-अमो॑चि शु॒क्रो रज॑सः प॒रस्ता॑द् वि॒धूय॑ दे॒वस्तमो॒ दिव॒मारु॑हत्॥८॥  
+Surya hath harnessed to his car to draw him seven stately bay steeds gay with wolden housings. The Bright One started from the distant region: dispelling gloom the God hath climbed the heavens.

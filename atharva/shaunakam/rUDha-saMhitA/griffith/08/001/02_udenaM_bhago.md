@@ -2,5 +2,4 @@
 title = "०२ उदेनं भगो"
 
 +++
-उदे॑नं॒ भगो॑ अग्रभी॒दुदे॑नं॒ सोमो॑ अंशु॒मान्।  
-उदे॑नं म॒रुतो॑ दे॒वा उदि॑न्द्रा॒ग्नी स्व॒स्तये॑ ॥२॥  
+Bhaga hath lifted up this man, and Soma with his filaments, Indra and Agni, and the Gods the Maruts, raised him up to health.

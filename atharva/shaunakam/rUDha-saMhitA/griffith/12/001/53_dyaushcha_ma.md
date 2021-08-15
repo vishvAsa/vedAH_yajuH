@@ -2,5 +2,4 @@
 title = "५३ द्यौश्च म"
 
 +++
-द्यौश्च॑ म इ॒दं पृ॑थि॒वी चा॒न्तरि॑क्षं च मे॒ व्यचः॑ ।  
-अ॒ग्निः सूर्य॒ आपो॑ मे॒धां विश्वे॑ दे॒वाश्च॒ सं द॑दुः ॥५३॥  
+Heaven, Earth, the realm of Middle Air have granted me this ample room, Agni, Sun, Waters, all the Gods have joined to give me mental power.

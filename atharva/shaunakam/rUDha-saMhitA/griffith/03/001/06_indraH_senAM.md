@@ -2,5 +2,4 @@
 title = "०६ इन्द्रः सेनां"
 
 +++
-इन्द्रः॒ सेनां॑ मोहयतु म॒रुतो॑ घ्न॒न्त्वोज॑सा ।  
-चक्षूं॑स्य॒ग्निरा द॑त्तां॒ पुन॑रेतु॒ परा॑जिता ॥६॥
+Let Indra daze their army. Let the Maruts slay it with their might. Let Agni take their eyes away, and let the conquered host retreat.

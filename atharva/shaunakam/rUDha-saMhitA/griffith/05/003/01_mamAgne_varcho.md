@@ -2,5 +2,4 @@
 title = "०१ ममाग्ने वर्चो"
 
 +++
-ममा॑ग्ने॒ वर्चो॑ विह॒वेष्व॑स्तु व॒यं त्वेन्धा॑नास्त॒न्वंऽपुषेम ।  
-मह्यं॑ नमन्तां प्र॒दिश॒श्चत॑स्रस्त्वयाध्य॑क्षेण॒ पृत॑ना जयेम ॥१॥  
+Let strength be mine while I invoke thee, Agni! enkindling thee may we support our bodies. May the four regions bend and bow before me: with thee for guardian may we win the combat.

@@ -2,5 +2,4 @@
 title = "३५ पुरोडाशवत्सा सुदुघा"
 
 +++
-पु॒रो॒डाश॑वत्सा सु॒दुघा॑ लो॒के॑ऽस्मा॒ उप॑ तिष्ठति ।  
-सास्मै॒ सर्वा॒न् कामा॑न् व॒शा प्र॑द॒दुषे॑ दुहे ॥३५॥  
+Good milker, with rice-cake as calf, she in the world comes nigh to him, To him who gave her as a gift the Cow grants every hope and. wish.

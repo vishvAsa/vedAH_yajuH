@@ -2,5 +2,4 @@
 title = "०५ यत् पुरुषं"
 
 +++
-यत् पुरु॑षं॒ व्यद॑धुः कति॒धा व्यऽकल्पयन्।  
-मुखं॒ किम॑स्य॒ किं बा॒हू किमू॒रू पादा॑ उच्येते ॥५॥  
+When they divided Purusha how many portions did they make? What was his mouth? what were his arms? what are the names of thighs and feet?

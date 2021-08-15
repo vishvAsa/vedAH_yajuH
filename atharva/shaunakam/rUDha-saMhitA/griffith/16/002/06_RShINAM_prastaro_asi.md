@@ -2,4 +2,4 @@
 title = "०६ ऋषीणां प्रस्तरोऽसि"
 
 +++
-ऋषी॑णां प्रस्त॒रोऽसि॒ नमो॑ऽस्तु दैवा॑य प्रस्त॒राय॑ ॥६॥
+Thou art the couch of the Rishis. Let worship be paid to the divine couch.

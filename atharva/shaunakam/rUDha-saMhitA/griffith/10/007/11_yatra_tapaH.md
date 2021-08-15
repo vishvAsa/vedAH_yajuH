@@ -2,5 +2,4 @@
 title = "११ यत्र तपः"
 
 +++
-यत्र॒ तपः॑ परा॒क्रम्य॑ व्र॒तं धा॒रय॒त्युत्त॑रम्।  
-ऋ॒तं च॒ यत्र॑ श्र॒द्धा चापो॒ ब्रह्म॑ स॒माहि॑ताः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑देव सः ॥११॥  
+Declare that. Skambha, who is he of many, In whom, exerting every power, Fervour maintains her loftiest vow; In whom are comprehended Law, Waters, Devotion and Belief

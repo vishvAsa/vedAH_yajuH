@@ -2,5 +2,4 @@
 title = "०१ अनु सूर्यमुदयतां"
 
 +++
-अनु॒ सूर्य॒मुद॑यतां हृद्दयो॒तो ह॑रि॒मा च॑ ते ।  
-गो रोहि॑तस्य॒ वर्णे॑न॒ तेन॑ त्वा॒ परि॑ दध्मसि ॥१॥  
+As the Sun rises, let thy sore disease and yellowness depart. We compass and surround thee with the colour of a ruddy ox.

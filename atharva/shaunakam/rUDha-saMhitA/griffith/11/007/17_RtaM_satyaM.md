@@ -2,5 +2,4 @@
 title = "१७ ऋतं सत्यं"
 
 +++
-ऋ॒तं स॒त्यं तपो॑ रा॒स्ट्रं श्रमो॒ धर्म॑श्च॒ कर्म॑ च ।  
-भू॒तं भ॑वि॒ष्यदुच्छि॑ष्टे वी॒र्यं ल॒क्ष्मीर्बलं॒ बले॑ ॥१७॥  
+Right, truth, dominion, fervent zeal, toil, duty, action, future, past, Valour; prosperity, and strength dwell in the Residue in strength.

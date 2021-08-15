@@ -2,5 +2,4 @@
 title = "०१ संज्ञानं नः"
 
 +++
-सं॒ज्ञानं॑ नः॒ स्वेभिः॑ सं॒ज्ञान॒मर॑णेभिः ।  
-सं॒ज्ञान॑मश्विना यु॒वमि॒हास्मासु॒ नि य॑च्छतम्॥१॥  
+Give us agreement with our own, with strangers give us unity: Do ye, O Asvins, in this place join us in sympathy and love.

@@ -2,5 +2,4 @@
 title = "५७ एतत् त्वा"
 
 +++
-ए॒तत् त्वा॒ वासः॑ प्रथ॒मं न्वाग॒न्नपै॒तदू॑ह यदि॒हाबि॑भः पु॒रा।  
-इ॒ष्टा॒पू॒र्तम॑नु॒संक्रा॑म वि॒द्वान् यत्र॑ ते द॒त्तं ब॑हु॒धा विब॑न्धुषु ॥५७॥  
+This is the robe that first was wrapped about thee: cast off the robe thou worest here among us. Go, knowing, to the meed of virtuous action, thy many gifts. bestowed upon the friendless.

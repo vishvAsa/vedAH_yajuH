@@ -2,5 +2,4 @@
 title = "०१ वि ते"
 
 +++
-वि ते॑ मुञ्चामि रश॒नां वि योक्त्रं॒ वि नि॒योज॑नम्।  
-इ॒हैव त्वमज॑स्र एध्यग्ने ॥१॥  
+I free thee from the cord, I loose the bond, I loose the fastening. Even here, perpetual, Agni, wax thou strong.

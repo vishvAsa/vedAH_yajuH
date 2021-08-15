@@ -2,5 +2,4 @@
 title = "१९ यथा प्राण"
 
 +++
-यथा॑ प्राण बलि॒हृत॒स्तुभ्यं॒ सर्वाः॑ प्र॒जा इ॒माः ।  
-ए॒वा तस्मै॑ ब॒लिं ह॑रा॒न् यस्त्वा॑ शृ॒णव॑त् सुश्रवः ॥१९॥  
+As all these living creatures are thy tributaries, Prana, so Shall they bring tribute unto him who hears thee with attentive ears.

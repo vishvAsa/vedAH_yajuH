@@ -2,5 +2,4 @@
 title = "०१ आगच्छत आगतस्य"
 
 +++
-आ॒गच्छ॑त॒ आग॑तस्य॒ नाम॑ गृह्णाम्याय॒तः ।  
-इन्द्र॑स्य वृत्र॒घ्नो व॑न्वे वास॒वस्य॑ श॒तक्र॑तोः ॥१॥  
+I call the name of him who comes, hath come, and still draws- nigh to us. Foe-slaying Indra's name I love, the Vasus' friend with hundred powers.

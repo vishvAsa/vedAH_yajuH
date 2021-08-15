@@ -2,5 +2,4 @@
 title = "३१ यास्ते प्राचीः"
 
 +++
-यास्ते॒ प्राचीः॑ प्र॒दिशो॒ या उदी॑ची॒र्यास्ते॑ भूमे अध॒राद् याश्च॑ प॒श्चात्।  
-स्यो॒नास्ता मह्यं॒ चर॑ते भवन्तु॒ मा नि प॑प्तं॒ भुव॑ने शिश्रिया॒णः ॥३१॥  
+Earth, be thine eastern and thy northern regions, those lying southward and those lying westward. Propitious unto me in all my movements. Long as I tread the ground let me not stumble.

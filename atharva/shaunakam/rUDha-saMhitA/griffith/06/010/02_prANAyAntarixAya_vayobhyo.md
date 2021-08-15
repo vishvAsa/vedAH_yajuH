@@ -2,4 +2,4 @@
 title = "०२ प्राणायान्तरिक्षाय वयोभ्यो"
 
 +++
-प्रा॒णाया॒न्तरि॑क्षाय॒ वयो॑भ्यो वा॒यवेऽधि॑पतये॒ स्वाहा॑ ॥२॥  
+All hail for breath to Air, for power to life to Vayu, sovran Lord!

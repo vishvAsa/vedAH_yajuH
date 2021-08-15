@@ -2,5 +2,4 @@
 title = "०३ उभाभ्यां देव"
 
 +++
-उ॒भाभ्यां॑ देव सवितः प॒वित्रे॑ण स॒वेन॑ च ।  
-अ॒स्मान् पु॑नीहि॒ चक्ष॑से ॥३॥
+God Savitar, byboth of these, filter and pressing out this juice, purify us that we may see.

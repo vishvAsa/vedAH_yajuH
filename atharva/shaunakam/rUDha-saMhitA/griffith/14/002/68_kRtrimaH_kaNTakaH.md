@@ -2,5 +2,4 @@
 title = "६८ कृत्रिमः कण्टकः"
 
 +++
-कृ॒त्रिमः॒ कण्ट॑कः श॒तद॒न् य ए॒षः ।  
-अपा॒स्याः केश्यं॒ मल॒मप॑ शीर्ष॒ण्यं लिखात्॥६८॥  
+Now let this artificial comb, wrought with a hundred teeth, remove Aught of impurity that dims the hair upon this woman's head.

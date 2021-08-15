@@ -2,5 +2,4 @@
 title = "१२ बृहस्पते युवमिन्द्रश्च"
 
 +++
-बृह॑स्पते यु॒वमिन्द्र॑श्च॒ वस्वो॑ दि॒व्यस्ये॑शाथे उ॒त पार्थि॑वस्य ।  
-ध॒त्तं र॒यिं स्तु॑व॒ते की॒रये॑ चिद् यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥१२॥
+Ye twain are Lords of wealth in earth and heaven, thou, O Brihaspati, and thou, O Indra. Mean though he be, give wealth to him who lauds you. Preserve us evermore, ye Gods, with blessings.

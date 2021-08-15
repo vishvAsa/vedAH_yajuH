@@ -2,5 +2,4 @@
 title = "६० यदीयं दुहिता"
 
 +++
-यदी॒यं दु॑हि॒ता तव॑ विके॒श्यरु॑दद् गृ॒हे रोदे॑न कृण्व॒त्य॑१घम्।  
-अ॒ग्निष्ट्वा॒ तस्मा॒देन॑सः सवि॒ता च॒ प्र मु॑ञ्चताम्॥६०॥  
+If in thy house thy daughter here have wept, with wild dishevel- led locks, committing sin with her lament. May Agni, etc.

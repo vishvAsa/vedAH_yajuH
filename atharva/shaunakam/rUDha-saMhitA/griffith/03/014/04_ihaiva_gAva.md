@@ -2,5 +2,4 @@
 title = "०४ इहैव गाव"
 
 +++
-इ॒हैव गा॑व॒ एत॑ने॒हो शके॑व पुष्यत ।  
-इ॒हैवोत प्र जा॑यध्वं॒ मयि॑ सं॒ज्ञान॑मस्तु वः ॥४॥  
+Come hither, to this place, O Cows: here thrive as though ye were manured. Even here increase and multiply; let us be friendly, you and me.

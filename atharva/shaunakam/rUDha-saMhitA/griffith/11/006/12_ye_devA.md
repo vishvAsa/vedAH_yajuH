@@ -2,5 +2,4 @@
 title = "१२ ये देवा"
 
 +++
-ये दे॒वा दि॑वि॒षदो॑ अन्तरिक्ष॒सद॑श्च॒ ये।  
-पृ॒थि॒व्यां श॒क्रा ये श्रि॒तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१२॥  
+Gods whose abode is in the heaven and those who dwell in middle air, And Mighty ones who rest on earth: may they deliver us from. woe.

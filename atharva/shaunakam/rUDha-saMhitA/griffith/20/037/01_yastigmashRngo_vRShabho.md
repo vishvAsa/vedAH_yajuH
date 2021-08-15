@@ -2,5 +2,4 @@
 title = "०१ यस्तिग्मशृङ्गो वृषभो"
 
 +++
-यस्ति॒ग्मशृ॑ङ्गो वृष॒भो न भी॒मः एकः॑ कृ॒ष्टीश्च्य॒वय॑ति॒ प्र विश्वाः॑ ।  
-यः शश्व॑तो॒ अदा॑शुषो॒ गय॑स्य प्रय॒न्तासि॒ सुष्वि॑तराय॒ वेदः॑ ॥१॥  
+He, like a bull with sharpened horns, terrific, singly excites and agitates all the people. Then givest him who largely pours libation his wealth who pours not, for his own possession.

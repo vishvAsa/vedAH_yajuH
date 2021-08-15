@@ -2,5 +2,4 @@
 title = "०५ अमीषां चित्तानि"
 
 +++
-अ॒मीषां॑ चि॒त्तानि॑ प्रतिमो॒हय॑न्ती गृहा॒णाङ्गा॑न्यप्वे॒ परे॑हि ।  
-अ॒भि प्रेहि॒ निर्द॑ह हृ॒त्सु शोकै॒र्ग्राह्या॒मित्रां॒स्तम॑सा विध्य॒ शत्रू॑न्॥५॥  
+Bewildering the senses of our foemen, seize on their bodies and depart, O Apva! Go meet them, flame within their hearts and burn them. Smite thou the foes with darkness and amazement.

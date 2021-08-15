@@ -2,5 +2,4 @@
 title = "०१ तीव्रस्याभिवयसो अस्य"
 
 +++
-ती॒व्रस्या॒भिव॑यसो अ॒स्य पा॑हि सर्वर॒था वि हरी॑ इ॒ह मु॑ञ्च ।  
-इन्द्र॒ मा त्वा॒ यज॑मानासो अ॒न्ये नि री॑रम॒न् तुभ्य॑मि॒मे सु॒तासः॑ ॥१॥  
+Taste this strong draught that gives thee vital vigour: with all thy chariot here unyoke thy coursers. Let not those other sacrificers stay thee, Indra: these juices shed for thee are ready.

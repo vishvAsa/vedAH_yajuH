@@ -2,5 +2,4 @@
 title = "०१ यददः संप्रयतीरहावनदता"
 
 +++
-यद॒दः सं॑प्रय॒तीरहा॒वन॑दता हते॑।  
-तस्मा॒दा न॒द्यो॒३ नाम॑ स्थ॒ ता वो॒ नामा॑नि सिन्धवः ॥१॥  
+As ye, when Ahi had been slain, flowed forth together with a roar, So are ye called the Roaring Ones: this, O ye Rivers, is your name.

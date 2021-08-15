@@ -2,4 +2,4 @@
 title = "०८ यदुपस्तृणन्ति बर्हिरेव"
 
 +++
-यदु॑पस्तृ॒णन्ति॑ ब॒र्हिरे॒व तत्॥८॥  
+What they spread upon the floor is just Sacrificial Grass.

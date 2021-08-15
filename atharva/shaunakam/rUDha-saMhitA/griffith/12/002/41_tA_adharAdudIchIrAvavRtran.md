@@ -2,5 +2,4 @@
 title = "४१ ता अधरादुदीचीराववृत्रन्"
 
 +++
-ता अ॑ध॒रादुदी॑ची॒राव॑वृत्रन् प्रजान॒तीः प॒थिभि॑र्देव॒यानैः॑ ।  
-पर्व॑तस्य वृष॒भस्याधि॑ पृ॒ष्ठे नवा॑श्चरन्ति स॒रितः॑ पुरा॒णीः ॥४१॥  
+By pathways travelled by the Gods these waters, well-knowing, from below have mounted upward. High on the summit of the raining mountain the ancient rivers fresh and new are flowing.

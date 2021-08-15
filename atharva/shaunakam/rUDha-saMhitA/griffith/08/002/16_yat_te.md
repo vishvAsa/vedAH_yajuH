@@ -2,5 +2,4 @@
 title = "१६ यत् ते"
 
 +++
-यत् ते॒ वासः॑ परि॒धानं॒ यां नी॒विं कृ॑णु॒षे त्वम्।  
-शि॒वं ते॑ त॒न्वे॒३तत् कृ॑ण्मः संस्प॒र्शेऽद्रू॑क्ष्णमस्तु ते ॥१६॥  
+Whatever robe to cover thee or zone thou makest for thyself, We make it pleasant to thy frame: may it be soft and smooth to touch.

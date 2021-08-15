@@ -2,5 +2,4 @@
 title = "०२ यस्ते मदो"
 
 +++
-यस्ते॒ मदो॒ युज्य॒श्चारु॒रस्ति॒ येन॑ वृ॒त्राणि॑ हर्यश्व॒ हंसि॑ ।  
-स त्वामि॑न्द्र प्रभूवसो ममत्तु ॥२॥  
+So let the draught of joy, thy dear companion, by which, O Lord of Bays, thou slayest foemen, Delight thee, Indra, Lord of princely treasures.

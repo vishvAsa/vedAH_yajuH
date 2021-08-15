@@ -2,5 +2,4 @@
 title = "३० रोचसे दिवि"
 
 +++
-रोच॑से दि॒वि रोच॑से अ॒न्तरि॑क्षे॒ पत॑ङ्ग पृथि॒व्यां रोच॑से॒ रोच॑से अ॒प्स्व॑१न्तः ।  
-उ॒भा स॑मु॒द्रौ रुच्या॒ व्याऽपिथ दे॒वो दे॑वासि महि॒षः स्व॒र्जित्॥३०॥  
+In heaven, O Bird, and in mid-air thou shinest: thou shinest on the earth and in the waters. Thou hast pervaded both the seas with splendour: a God art thou, O God, light-winner, mighty.

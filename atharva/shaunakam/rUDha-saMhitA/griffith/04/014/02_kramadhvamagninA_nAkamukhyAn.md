@@ -2,5 +2,4 @@
 title = "०२ क्रमध्वमग्निना नाकमुख्यान्"
 
 +++
-क्रम॑ध्वम॒ग्निना॒ नाक॒मुख्या॒न् हस्ते॑षु॒ बिभ्र॑तः ।  
-दि॒वस्पृ॒ष्ठं स्वऽर्ग॒त्वा मि॒श्रा दे॒वेभि॑राध्वम्॥२॥  
+Bearing in hands seethed viands, go with Agni to the cope of heaven. Reaching the sky that touches heaven, mix with the company of Gods.

@@ -2,5 +2,4 @@
 title = "१८ सप्त होमाः"
 
 +++
-स॒प्त होमाः॑ स॒मिधो॑ ह स॒प्त मधू॑नि स॒प्तर्तवो॑ ह स॒प्त।  
-स॒प्ताज्या॑नि॒ परि॑ भू॒तमा॑य॒न् ताः स॑प्तगृ॒ध्रा इति॑ शुश्रुमा व॒यम्॥१८॥  
+Seven are the Homas, seven the logs for burning, seven are the streams of mead, and seven the seasons. Into the world have come seven streams of butter; those we have heard of as the Seven Vultures.

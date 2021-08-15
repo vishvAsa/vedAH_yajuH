@@ -2,5 +2,4 @@
 title = "०३ सं ते"
 
 +++
-सं ते॑ हन्मि द॒ता द॒तः समु॑ ते॒ हन्वा॒ हनू॑ ।  
-सं ते॑ जि॒ह्वया॑ जि॒ह्वां सम्वा॒स्नाह॑ आ॒स्यऽम्॥३॥
+I close together fangs with fang, I close together jaws with jaw. I close together tongue with tongue, I close together mouth with mouth.

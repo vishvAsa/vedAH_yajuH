@@ -2,5 +2,4 @@
 title = "०५ यां त्वा"
 
 +++
-यां त्वा॒ पूर्वे॑ भूत॒कृत॒ ऋष॑यः परिबेधि॒रे।  
-सा त्वं परि॑ ष्वजस्व॒ मां दी॑र्घायु॒त्वाय॑ मेखले ॥५॥
+Thou whom primeval Rishis girt about them, they who made the world, As such do thou encircle me, O Girdle, for long days of life.

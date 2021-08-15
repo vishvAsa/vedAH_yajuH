@@ -2,5 +2,4 @@
 title = "१३ अस्येदु प्र"
 
 +++
-अ॒स्येदु॒ प्र ब्रू॑हि पू॒र्व्याणि॑ तु॒रस्य॒ कर्मा॑णि॒ नव्य॑ उ॒क्थैः ।  
-यु॒धे यदि॑ष्णा॒न आयु॑धान्यृघा॒यमा॑णो निरि॒णाति॒ शत्रू॑न्॥१३॥  
+Sing with new lauds his exploits wrought aforetime, the deeds of him, yea, him who moveth swiftly, When, hurling forth his weapons in the battle, he with impetuous wrath lays low the foemen.

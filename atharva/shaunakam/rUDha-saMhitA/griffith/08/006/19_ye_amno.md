@@ -2,5 +2,4 @@
 title = "१९ ये अम्नो"
 
 +++
-ये अ॒म्नो जा॒तान् मा॒रय॑न्ति॒ सूति॑का अनु॒शेर॑ते ।  
-स्त्रीभा॑गान् पि॒ङ्गो ग॑न्ध॒र्वान् वातो॑ अ॒भ्रमि॑वाजतु ॥१९॥  
+Those who kill infants unawares, and near the new-made mothers lie, Let Pinga chase the amorous Gandharvas as wind chases cloud.

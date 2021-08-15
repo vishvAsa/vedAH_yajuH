@@ -2,5 +2,4 @@
 title = "०५ कृणोमि ते"
 
 +++
-कृ॒णोमि॑ ते प्राजाप॒त्यमा योनिं॒ गर्भ॑ एतु ते ।  
-वि॒न्दस्व॒ त्वं पु॒त्रं ना॑रि॒ यस्तुभ्यं॒ शमस॒च्छमु॒ तस्मै॒ त्वं भव॑ ॥५॥  
+I give thee power to bear a child: within, thee pass the germ of life! Obtain a son, O woman, who shall be a blessing unto thee. Be thou a blessing unto him.

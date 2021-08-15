@@ -2,5 +2,4 @@
 title = "३१ अर्वाङ् परस्तात्"
 
 +++
-अ॒र्वाङ् प॒रस्ता॒त् प्रय॑तो व्य॒ध्व आ॒शुर्वि॑प॒श्चित् प॒तय॑न् पत॒ङ्गः ।  
-विष्णु॒र्विचि॑त्तः॒ शव॑साधि॒तिष्ठ॒न् प्र के॒तुना॑ सहते॒ विश्व॒मेज॑त्॥३१॥  
+Soaring in mid-course hither from the distance, fleet and ins- pired, the Bird that flies above us, With might advancing Vishnu manifested, he conquers all that moves with radiant banner:

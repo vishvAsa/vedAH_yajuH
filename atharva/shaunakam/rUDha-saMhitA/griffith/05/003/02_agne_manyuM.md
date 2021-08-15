@@ -2,5 +2,4 @@
 title = "०२ अग्ने मन्युं"
 
 +++
-अग्ने॑ म॒न्युं प्र॑तिनु॒दन् परे॑षां॒ त्वं नो॑ गो॒पाः परि॑ पाहि वि॒श्वतः॑ ।  
-अपा॑ञ्चो यन्तु नि॒वता॑ दुर॒स्यवो॒ऽमैषां॑ चि॒त्तं प्र॒बुधां॒ वि ने॑शत्॥२॥  
+Baffling the range of our opponents, Agni! guard us as our protector round about us. Down the steep slope go they who hate us, backward, and let their thought who watch at home be ruined.

@@ -2,4 +2,4 @@
 title = "२३ स य"
 
 +++
-स य ओ॑द॒नस्य॑ महि॒मानं॑ वि॒द्यात् ॥२३॥  
+He who may know the magnitude of the Odana. 

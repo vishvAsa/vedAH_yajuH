@@ -2,5 +2,4 @@
 title = "०७ द्विषो नो"
 
 +++
-द्विषो॑ नो विश्वतोमु॒खाति॑ ना॒वेव॑ पारय ।  
-अप॑ नः॒ शोशु॑चद॒घम्॥७॥  
+O thou whose face looks every way, bear off our foes as in a ship. His lustre flash our pain away!

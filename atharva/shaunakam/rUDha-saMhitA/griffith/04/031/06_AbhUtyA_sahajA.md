@@ -2,5 +2,4 @@
 title = "०६ आभूत्या सहजा"
 
 +++
-आभू॑त्या सह॒जा व॑ज्र सायक॒ सहो॑ बिभर्षि सहभूत॒ उत्त॑रम्।  
-क्रत्वा॑ नो मन्यो स॒ह मे॒द्येऽधि महाध॒नस्य पुरुहूत सं॒सृजि॑ ॥६॥  
+Twin-borne with power, destructive bolt of thunder the highest conquering might is thine, subduer! Be friendly to us in thy spirit, Manyu! O much-invoked, in shock of mighty battle!

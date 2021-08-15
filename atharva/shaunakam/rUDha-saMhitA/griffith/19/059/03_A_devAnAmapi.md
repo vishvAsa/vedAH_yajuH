@@ -2,5 +2,4 @@
 title = "०३ आ देवानामपि"
 
 +++
-आ दे॒वाना॒मपि॒ पन्था॑मगन्म॒ यच्छ॒क्नवा॑म॒ तद॑नु॒प्रवो॑ढुम्।  
-अ॒ग्निर्वि॒द्वान्त्स य॑जा॒त् स इद्धोता॒ सोऽध्व॒रान्त्स ऋ॒तून् क॑ल्पयाति ॥३॥
+To the Gods' pathway have we come desiring to execute what work we may accomplish. Let Agni--for he knows--complete the worship. He is the Priest: let him fix rites and seasons.

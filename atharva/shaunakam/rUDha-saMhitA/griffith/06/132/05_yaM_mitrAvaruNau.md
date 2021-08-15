@@ -2,5 +2,4 @@
 title = "०५ यं मित्रावरुणौ"
 
 +++
-यं मि॒त्रावरु॑णौ स्म॒रमसि॑ञ्चताम॒प्स्व॑१न्तः शोशु॑चानं स॒हाध्या।  
-तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥५॥
+The charm aglow with longing which Mitra and Varuna have poured within the bosom of the floods, That spell for thee I heat by Varuna's decree.

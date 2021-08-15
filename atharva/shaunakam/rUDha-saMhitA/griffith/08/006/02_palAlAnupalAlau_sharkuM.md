@@ -2,5 +2,4 @@
 title = "०२ पलालानुपलालौ शर्कुं"
 
 +++
-प॒ला॒ला॒नु॒प॒ला॒लौ शर्कुं॒ कोकं॑ मलिम्लु॒चं प॒लीज॑कम्।  
-आ॒श्रेषं॑ व॒व्रिवा॑सस॒मृक्ष॑ग्रीवं प्रमी॒लिन॑म्॥२॥  
+Palala, Anupalala, Sarku, Koka, Malimlucha, Palijaka Vavri- vasas and Asresha, Rikshagriva and Pramilin.

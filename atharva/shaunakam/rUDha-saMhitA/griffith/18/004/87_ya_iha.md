@@ -2,5 +2,4 @@
 title = "८७ य इह"
 
 +++
-य इ॒ह पि॒तरो॑ जी॒वा इ॒ह व॒यं स्मः॑ ।  
-अ॒स्मांस्तेऽनु॑ व॒यं तेषां॒ श्रेष्ठा॑ भूयास्म ॥८७॥  
+All living fathers who are here are we here: let them follow us. May we be the most excellent of these.

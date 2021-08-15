@@ -2,5 +2,4 @@
 title = "२२ इत्थं श्रेयो"
 
 +++
-इ॒त्थं श्रेयो॒ मन्य॑माने॒दमाग॑मं यु॒ष्माकं॑ स॒ख्ये अ॒हम॑स्मि॒ शेवा॑ ।  
-स॒मा॒नज॑न्मा॒ क्रतु॑रस्ति वः शि॒वः स वः॒ सर्वाः॒ सं च॑रति प्रजा॒नन्॥२२॥  
+So planning bliss for you have I come hither to win your friendship: kind am I, and gracious. Born from one source, propitious is your wisdom: knowing full well to all of you it cometh.

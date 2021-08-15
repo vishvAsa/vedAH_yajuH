@@ -2,4 +2,4 @@
 title = "१२ तमिदं निगतं"
 
 +++
-तमि॒दं निग॑तं॒ सहः॒ स ए॒ष एक॑ एक॒वृदेक॑ ए॒व॥१२॥  
+This conquering might hath entered him, He is the sole the simple One, the One alone.

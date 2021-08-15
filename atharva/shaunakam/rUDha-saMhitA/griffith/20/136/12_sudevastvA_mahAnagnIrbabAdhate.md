@@ -2,5 +2,4 @@
 title = "१२ सुदेवस्त्वा महानग्नीर्बबाधते"
 
 +++
-सुदे॑वस्त्वा म॒हान॑ग्नी॒र्बबा॑धते मह॒तः सा॑धु खो॒दन॑म्।  
-कु॒सं पीव॒रो न॑वत्॥१२॥  
+Fortunatus, Arnica, te opprimit. Bona est magni viri fututio, Macrum pinguis. femina obtineat. Futue me, etc.

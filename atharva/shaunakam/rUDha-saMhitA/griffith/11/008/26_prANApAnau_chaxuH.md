@@ -2,5 +2,4 @@
 title = "२६ प्राणापानौ चक्षुः"
 
 +++
-प्रा॒णा॒पा॒नौ चक्षुः॒ श्रोत्र॒मक्षि॑तिश्च॒ क्षिति॑श्च॒ या।  
-व्या॒नो॒दा॒नौ वाङ् मनः॒ शरी॑रेण॒ त ई॑यन्ते ॥२६॥  
+Inbreath and outbreath, ear and eye, decay and freedom from decay. Breath upward and diffused, voice, mind, these quickly with the body move,

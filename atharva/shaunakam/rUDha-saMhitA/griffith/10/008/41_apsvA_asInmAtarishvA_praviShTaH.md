@@ -2,4 +2,4 @@
 title = "४१ अप्स्वाऽसीन्मातरिश्वा प्रविष्टः"
 
 +++
-अ॒प्स्वाऽसीन्मात॒रिश्वा॒ प्रवि॑ष्टः॒ प्रवि॑ष्टा दे॒वाः स॑लि॒लान्या॑सन्॥  
+Over the Gayatri, above the immortal world he strode away. Those who by Song discovered Song--where did the Unborn see that thing?

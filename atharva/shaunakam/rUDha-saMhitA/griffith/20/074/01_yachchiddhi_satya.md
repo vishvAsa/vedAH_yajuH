@@ -2,5 +2,4 @@
 title = "०१ यच्चिद्धि सत्य"
 
 +++
-यच्चि॒द्धि स॑त्य सोमपा अनाश॒स्ता इ॑व॒ स्मसि॑ ।  
-आ तू न॑ इन्द्र शंसय॒ गोष्वश्वे॑षु शु॒भ्रिषु॑ स॒हस्रे॑षु तुवीमघ ॥१॥  
+O Soma-drinker, ever true, utterly hopeless though we be, Do thou, O Indra, give us hope of beauteous horses and of kine, In thousands, O most wealthy One.

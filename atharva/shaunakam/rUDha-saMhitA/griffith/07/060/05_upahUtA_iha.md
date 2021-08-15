@@ -2,5 +2,4 @@
 title = "०५ उपहूता इह"
 
 +++
-उप॑हूता इ॒ह गाव॒ उप॑हूता अजा॒वयः॑ ।  
-अथो॒ अन्न॑स्य की॒लाल॒ उप॑हूतो गृ॒हेषु॑ नः ॥५॥  
+Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of the food within our homes, kind greeting to the plea- sant drink!

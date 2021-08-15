@@ -2,5 +2,4 @@
 title = "१९ कामो जज्ञे"
 
 +++
-कामो॑ जज्ञे प्रथ॒मो नैनं॑ दे॒वा आ॑पुः पि॒तरो॒ न मर्त्याः॑ ।  
-तत॒स्त्वम॑सि॒ ज्याया॑न् वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत् कृ॑णोमि ॥१९॥  
+First before all sprang Kama into being. Gods, Fathers, mortal men have never matched him. Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.

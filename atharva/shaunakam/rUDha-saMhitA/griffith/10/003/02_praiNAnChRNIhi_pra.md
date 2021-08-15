@@ -2,5 +2,4 @@
 title = "०२ प्रैणान्छृणीहि प्र"
 
 +++
-प्रैणा॑न्छृणीहि॒ प्र मृ॒णा र॑भस्व म॒णिस्ते॑ अस्तु पुरए॒ता पु॒रस्ता॑त्।  
-अवा॑रयन्त वर॒णेन॑ दे॒वा अ॑भ्याचा॒रमसु॑राणां॒ श्वःश्वः॑ ॥२॥  
+Break them in pieces; grasp them and destroy them. This Amu- let shall go before and lead thee. With Varana the Gods, from morn to morning, have warded off the Asuras' enchantment.

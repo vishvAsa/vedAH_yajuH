@@ -2,5 +2,4 @@
 title = "०९ अप्राणैति प्राणेन"
 
 +++
-अ॒प्रा॒णैति॑ प्रा॒णेन॑ प्राण॒तीनां॑ वि॒राट् स्व॒राज॑म॒भ्येऽति प॒श्चात्।  
-विश्वं॑ मृ॒शन्ती॑म॒भिरू॑पां वि॒राजं॒ पश्य॑न्ति॒ त्वे न त्वे प॑श्यन्त्येनाम्॥९॥  
+Breathless, she moves by breath of living creatures, Svaraj pre- cedes, Viraj comes closely after. Some men behold her not, and some behold her, Viraj meet- shaped, who thinks of all existence.

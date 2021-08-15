@@ -2,5 +2,4 @@
 title = "०३ बृहद्गावासुरेभ्योऽधि देवानुपावर्तत"
 
 +++
-बृ॒ह॒द्गावासु॑रे॒भ्योऽधि॑ दे॒वानुपा॑वर्तत महि॒मान॑मि॒च्छन्।  
-तस्मै॒ स्वप्ना॑य दधु॒राधि॑पत्यं त्रयस्त्रिं॒शासः॒ स्वरानशा॒नाः ॥३॥  
+Come from the Asuras in lofty, glory, he hath approached the Gods in search of greatness. Winners of heavenly light, the Three-and-Thirty endowed this Sleep with his supreme dominion.

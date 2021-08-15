@@ -2,5 +2,4 @@
 title = "१७ वात इव"
 
 +++
-वात॑ इव वृ॒क्षान् नि मृ॑णीहि पा॒दय॒ मा गामश्वं॒ पुरु॑ष॒मुच्छि॑ष एषाम्।  
-क॒र्तॄन् नि॒वृत्ये॒तः कृ॑त्योऽप्रजा॒स्त्वाय॑ बोधय ॥१७॥  
+As wind the trees, so smite and overthrow them: leave not cow, horse, or man of them surviving Return, O Kritya, unto those who made thee. Wake them from sleep to find that they are childless.

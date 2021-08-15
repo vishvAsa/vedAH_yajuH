@@ -2,4 +2,4 @@
 title = "२१ ओषधीनामहं वृण"
 
 +++
-ओष॑धीनाम॒हं वृ॑ण उ॒र्वरी॑रिव साधु॒या। नया॒म्यर्व॑तीरि॒वाहे॑ नि॒रैतु॑ ते वि॒षम्॥२१॥  
+As from the salutary plants I deftly pick the fibres out, And guide them skilfully like mares, so let thy venom, Snake! depart,

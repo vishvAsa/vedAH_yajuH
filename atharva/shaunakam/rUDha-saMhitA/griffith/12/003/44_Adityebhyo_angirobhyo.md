@@ -2,5 +2,4 @@
 title = "४४ आदित्येभ्यो अङ्गिरोभ्यो"
 
 +++
-आ॒दि॒त्येभ्यो॒ अङ्गि॑रोभ्यो॒ मध्वि॒दं घृ॒तेन॑ मि॒श्रं प्रति॑ वेदयामि ।  
-शु॒द्धह॑स्तौ ब्राह्म॒णस्यानि॑हत्यै॒तं स्व॒र्गं सु॑कृता॒वपी॑तम्॥४४॥  
+This meath do I announce, mingled with butter, to the Angi- rases and the Adityas. With pure hands ne'er laid roughly on a Brahman go, pious. couple, to the world of Svarga.

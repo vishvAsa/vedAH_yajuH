@@ -2,5 +2,4 @@
 title = "४५ अमासि मात्रां"
 
 +++
-अमा॑सि॒ मात्रां॒ स्वऽरगा॒मायु॑ष्मान् भूयासम्।  
-यथाप॑रं॒ न मासा॑तै श॒ते श॒रत्सु॒ नो पु॒रा॥४५॥  
+The period I have measured--come to heaven. I would my life were long Not to be measured out again; a hundred autumns, not before.

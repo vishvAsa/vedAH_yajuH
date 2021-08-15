@@ -2,4 +2,4 @@
 title = "०१ पृथिव्यै श्रोत्राय"
 
 +++
-पृ॒थि॒व्यै श्रोत्रा॑य॒ वन॒स्पति॑भ्यो॒ऽग्नयेऽधि॑पतये॒ स्वाहा॑ ॥१॥  
+All hail for hearing to the Earth, to Trees, to Agni, sovran Lord!

@@ -2,4 +2,4 @@
 title = "०९ ब्रह्म च"
 
 +++
-ब्रह्म॑ च क्ष॒त्रं च॒ श्रोणी॒ बल॑मू॒रू॥९॥  
+Priestly rank and princely power are the hips, and strength is. the thigh.

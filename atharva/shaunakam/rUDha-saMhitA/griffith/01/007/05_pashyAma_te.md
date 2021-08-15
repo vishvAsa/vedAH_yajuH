@@ -2,5 +2,4 @@
 title = "०५ पश्याम ते"
 
 +++
-पश्या॑म ते वी॒र्यं॒ जातवेदः॒ प्र णो॑ ब्रूहि यातु॒धाना॑न् नृचक्षः ।  
-त्वया॒ सर्वे॒ परि॑तप्ताः पु॒रस्तात्त आ य॑न्तु प्रब्रुवा॒णा उपे॒दम्॥५॥  
+Let us behold thy strength, O Jatavedas. Viewer of men, tell us the Yatudhanas. Burnt by thy heat and making declaration let all approach this sacrifice before thee.

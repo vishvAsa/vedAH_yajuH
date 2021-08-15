@@ -2,5 +2,4 @@
 title = "०३ कालो ह"
 
 +++
-का॒लो ह॑ भू॒तं भव्यं॑ च पु॒त्रो अ॑जनयत् पु॒रा।  
-का॒लादृचः॒ सम॑भव॒न् यजुः॑ का॒लाद॑जायत ॥३॥  
+In Kala erst the text produced what is and what is yet to be. From Kala sprang the Richas, and from Kala was the Yajus born.

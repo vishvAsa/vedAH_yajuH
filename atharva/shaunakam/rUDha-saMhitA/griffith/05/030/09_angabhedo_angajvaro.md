@@ -2,5 +2,4 @@
 title = "०९ अङ्गभेदो अङ्गज्वरो"
 
 +++
-अ॒ङ्ग॒भे॒दो अ॑ङ्गज्व॒रो यश्च॑ ते हृदयाम॒यः ।  
-यक्ष्मः॑ श्ये॒न इ॑व॒ प्राप॑प्तद् वा॒चा सा॒ढः प॑रस्त॒राम्॥९॥  
+Gone is the pain that racked thee, gone thy fever, gone thy heart's disease. Consumption, conquered by my voice, hath, like a hawk, fled far away.

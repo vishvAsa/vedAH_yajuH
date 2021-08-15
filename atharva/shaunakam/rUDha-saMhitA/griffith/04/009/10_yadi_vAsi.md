@@ -2,5 +2,4 @@
 title = "१० यदि वासि"
 
 +++
-यदि॒ वासि॑ त्रैककु॒दं यदि॑ यामु॒नमु॒च्यसे॑ ।  
-उ॒भे ते॑ भ॒द्रे॑ नाम्नी॒ ताभ्यां॒ नः पाह्याञ्जन ॥१०॥
+If thou art from the Three-peaked hill or hast thy name from Yamuna, These names are both auspicious: by these two protect thou us, O Salve!

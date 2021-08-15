@@ -2,4 +2,4 @@
 title = "०२ यो वः"
 
 +++
-यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ । उ॒श॒तीरि॑व मा॒तरः॑ ॥२॥  
+Here grant to us a share of dew, that most auspicious dew of yours, Like mothers in their longing love.

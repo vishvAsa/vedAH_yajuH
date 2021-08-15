@@ -2,4 +2,4 @@
 title = "०५ बृहस्पतिर्म आत्मा"
 
 +++
-बृह॒स्पति॑र्म आ॒त्मा नृ॒मणा॒ नाम॒ हृद्यः॑ ॥५॥  
+Brihaspati is my soul, he who is called the Friend of man, dear to my heart.

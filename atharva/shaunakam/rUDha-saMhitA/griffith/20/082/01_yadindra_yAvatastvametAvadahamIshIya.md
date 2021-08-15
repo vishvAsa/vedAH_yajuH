@@ -2,5 +2,4 @@
 title = "०१ यदिन्द्र यावतस्त्वमेतावदहमीशीय"
 
 +++
-यदि॑न्द्र॒ याव॑त॒स्त्वमे॒ताव॑द॒हमीशी॑य ।  
-स्तो॒तार॒मिद् दि॑धिषेय रदावसो॒ न पा॑प॒त्वाय॑ रासीय ॥१॥  
+If I, O Indra, were the lord of riches ample as thine own, I should support the singer, God who scatterest wealth! and! not abandon him to woe.

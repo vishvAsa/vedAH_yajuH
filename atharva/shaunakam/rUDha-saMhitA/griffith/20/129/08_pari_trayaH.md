@@ -2,4 +2,4 @@
 title = "०८ परि त्रयः"
 
 +++
-परि॑ त्रयः ॥८॥  
+There where around those distant trees, three Sisus that are standing there, (with previous verse)

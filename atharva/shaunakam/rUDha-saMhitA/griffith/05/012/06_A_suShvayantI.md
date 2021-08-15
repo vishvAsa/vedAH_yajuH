@@ -2,5 +2,4 @@
 title = "०६ आ सुष्वयन्ती"
 
 +++
-आ सुष्वय॑न्ती यज॒ते उ॒पाके॑ उ॒षासा॒नक्ता॑ सदतां॒ नि योनौ॑ ।  
-दि॒व्ये योष॑णे बृह॒ती सु॑रु॒क्मे अधि॒ श्रियं॑ शुक्र॒पिशं॒ दधा॑ने ॥६॥  
+Pouring sweet dews let holy Night and Morning, each close to each, be seated at their station,-- Lofty, celestial Dames with gold to deck them, assuming all their fair and radiant beauty.

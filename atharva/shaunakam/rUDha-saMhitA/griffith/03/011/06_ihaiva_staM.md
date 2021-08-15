@@ -2,5 +2,4 @@
 title = "०६ इहैव स्तं"
 
 +++
-इ॒हैव स्तं॑ प्राणापानौ॒ माप॑ गातमि॒तो यु॒वम्।  
-शरी॑रम॒स्याङ्गा॑नि ज॒रसे॑ वहतं॒ पुनः॑ ॥६॥  
+Breath, Respiration, stay ye here. Go ye not hence away from him, Bring, so that he may reach old age, body and members back again.

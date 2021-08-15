@@ -2,6 +2,4 @@
 title = "१९ असति सत्"
 
 +++
-अस॑ति॒ सत् प्रति॑ष्ठितं स॒ति भू॒तं प्रति॑ष्ठितम्।  
-भू॒तं ह॒ भव्य॒ आहि॑तं॒ भव्यं॑ भू॒ते प्रति॑ष्ठितं॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१९॥  
+What is based on what is not: the present lies on that which is.. Present on future is imposed and future on the present based. Manifold are thy great deeds, thine, O Vishnu. Sate us with cattle of all varied colour. Set me in happiness, in loftiest heaven.

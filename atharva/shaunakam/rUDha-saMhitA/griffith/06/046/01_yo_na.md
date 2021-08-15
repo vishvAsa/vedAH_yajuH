@@ -2,5 +2,4 @@
 title = "०१ यो न"
 
 +++
-यो न जी॒वोऽसि॒ न मृ॒तो दे॒वाना॑ममृतग॒र्भोऽसि स्वप्न ।  
-व॒रु॒णा॒नी ते॑ मा॒ता य॒मः पि॒तार॑रु॒र्नामा॑सि ॥१॥  
+Thou, neither quick nor dead, O Sleep, art fraught with Amrit of the Gods. Thy name is Araru: thy sire is Yama; Varunani bare thee.

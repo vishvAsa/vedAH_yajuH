@@ -2,5 +2,4 @@
 title = "०३ सन्नुच्छिष्टे असंश्चोभौ"
 
 +++
-सन्नुच्छि॑ष्टे॒ असं॑श्चो॒भौ मृ॒त्युर्वाजः॑ प्र॒जाप॑तिः ।  
-लै॒क्या उच्छि॑ष्ट॒ आय॑त्ता॒ व्रश्च॒ द्रश्चापि॒ श्रीर्मयि॑ ॥३॥  
+Real, non-real, both are there, Prajapati, and Death, and strength: Thereon depend the worldly ones: in me are glory Dra and Vra.

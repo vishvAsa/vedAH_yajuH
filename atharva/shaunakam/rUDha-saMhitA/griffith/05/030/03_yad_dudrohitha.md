@@ -2,5 +2,4 @@
 title = "०३ यद् दुद्रोहिथ"
 
 +++
-यद् दु॒द्रोहि॑थ शेपि॒षे स्त्रि॒यै पुं॒से अचि॑त्त्या ।  
-उ॒न्मो॒च॒न॒प्र॒मो॒च॒ने उ॒भे वा॒चा व॑दामि ते ॥३॥  
+If in thy folly thou hast lied or cursed a woman or a man, I with my voice declare to thee thy freedom and release there- from.

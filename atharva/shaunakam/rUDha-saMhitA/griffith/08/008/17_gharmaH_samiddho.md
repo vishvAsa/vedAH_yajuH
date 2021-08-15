@@ -2,5 +2,4 @@
 title = "१७ घर्मः समिद्धो"
 
 +++
-घ॒र्मः समि॑द्धो अ॒ग्निना॒यं होमः॑ सहस्र॒हः ।  
-भ॒वश्च॒ पृश्नि॑बाहुश्च॒ शर्व॒ सेना॑म॒मूं ह॑तम्॥१७॥  
+The Gharma hath been warmed with fire: this Homa slays a thousand men. Let Bhava, Prisnibahu, and Sarva destroy that armament.

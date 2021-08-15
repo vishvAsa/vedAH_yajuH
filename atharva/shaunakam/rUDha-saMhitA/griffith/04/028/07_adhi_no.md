@@ -2,5 +2,4 @@
 title = "०७ अधि नो"
 
 +++
-अधि॑ नो ब्रूतं॒ पृत॑नासूग्रौ॒ सं वज्रे॑ण सृजतं॒ यः कि॑मी॒दी।  
-स्तौमि॑ भवाश॒र्वौ ना॑थि॒तो॑ जो॑हवीमि॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥७॥
+Comfort and aid us, ye strong Gods, in battles, at each Kimidin send your bolt of thunder. I, suppliant, praise and ever call on Bhav and Sarva. Set us free from grief and trouble.

@@ -2,5 +2,4 @@
 title = "०६ नू नो"
 
 +++
-नू नो॑ र॒यिं पु॑रु॒वीरं॑ बृ॒हन्तं॒ दस्रा॒ मिमा॑थामु॒भये॑ष्व॒स्मे।  
-नरो॒ यद्वा॑मश्विना॒ स्तोम॒माव॑न्त्स॒धस्तु॑तिमाजमी॒ल्हासो॑ अग्मन्॥६॥  
+Now for us both, mete out, O Wonder-Workers, riches exceeding great with store of heroes, Because the men have sent you praise, O Asvins, and Ajamilhas come to the laudation.

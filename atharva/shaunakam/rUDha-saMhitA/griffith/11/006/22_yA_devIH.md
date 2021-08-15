@@ -2,5 +2,4 @@
 title = "२२ या देवीः"
 
 +++
-या दे॒वीः पञ्च॑ प्र॒दिशो॒ ये दे॒वा द्वाद॑श॒र्तवः॑ ।  
-सं॒व॒त्स॒रस्य॒ ये दंष्ट्रा॒स्ते नः॑ सन्तु॒ सदा॑ शि॒वाः ॥२२॥  
+The five Sky regions, Goddesses, and the twelve Seasons which are Gods. The teeth of the completed year, may these deliver us from woe.

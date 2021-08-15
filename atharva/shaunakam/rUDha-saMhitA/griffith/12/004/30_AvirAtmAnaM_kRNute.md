@@ -2,5 +2,4 @@
 title = "३० आविरात्मानं कृणुते"
 
 +++
-आ॒विरा॒त्मानं॑ कृणुते य॒दा स्थाम॒ जिघांसति ।  
-अथो॑ ह ब्र॒ह्मभ्यो॑ व॒शा या॒ञ्च्याय॑ कृणुते॒ मनः॑ ॥३०॥  
+Her shape and form she manifests when she would seek her dwelling-place; Then verily the Cow attends to Brahman priests and their request.

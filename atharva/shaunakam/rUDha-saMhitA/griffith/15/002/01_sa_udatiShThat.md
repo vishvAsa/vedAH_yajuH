@@ -2,4 +2,4 @@
 title = "०१ स उदतिष्ठत्"
 
 +++
-स उद॑तिष्ठ॒त् स प्राचीं॒ दिश॒मनु॒ व्यऽचलत्॥१॥  
+He arose and went his way to the eastern region. The Brihat, the Rathantara, the Adityas and all the Gods followed him. That man is alienated from the Brihat, the Rathantara, the Adityas, and all Gods who reviles the Vratya who possesses this knowledge. He who hath this knowledge becomes the beloved home of the Brihat, the Rathantara the Adityas, and all the Gods. In the eastern region Faith is his leman, the hymn his panegyrist, knowledge his vesture, day his turban, night his hair, Indra's two Bays his circular ornaments, the splendour of the stars his jewel. Present and Future are his running footmen, mind is his war-chariot, Matarisvan and Pavamana are they who draw it, Vita is his charioteer, Storm his goad, Fame and Glory are his harbingers. Fame and Glory come to him who hath this knowledge.

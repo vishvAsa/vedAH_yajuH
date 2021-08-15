@@ -2,5 +2,4 @@
 title = "११ मा विदन्"
 
 +++
-मा वि॑दन् परिप॒न्थिनो॒ य आ॒सीद॑न्ति॒ दंपती ।  
-सु॒गेन॑ दु॒र्गमती॑ता॒मप॑ द्रा॒न्त्वरा॑तयः ॥११॥  
+Let not the highway thieves who lie in ambush find the wedded pair. Let wicked men's malignities go elsewhere by an easy path.

@@ -2,5 +2,4 @@
 title = "२१ अयं पिपान"
 
 +++
-अ॒यं पिपा॑न॒ इन्द्र॒ इद् र॒यिं द॑धातु चेत॒नीम्।  
-अ॒यं धे॒नुं सु॒दुघां॒ नित्य॑वत्सां॒ वशं॑ दुहां विप॒श्चितं॑ प॒रो दि॒वः ॥२१॥  
+Indra here verily hath rejoiced: let him bestow conspicuous wealth. May he draw forth at will from yonder side of heaven a deft cow, good to milk, whose calf is never wanting.

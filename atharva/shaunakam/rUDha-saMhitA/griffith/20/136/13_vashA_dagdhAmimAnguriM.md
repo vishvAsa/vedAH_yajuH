@@ -2,5 +2,4 @@
 title = "१३ वशा दग्धामिमाङ्गुरिं"
 
 +++
-व॒शा द॒ग्धामि॑माङ्गु॒रिं प्रसृ॑जतो॒ग्रतं॑ परे ।  
-म॒हान्वै भ॒द्रो यभ॒ माम॑द्ध्यौद॒नम्॥१३॥  
+Sine digito mulcta vacca vanankaram producit, Magna et bona est Aegle Marmelos. Futue me, etc.

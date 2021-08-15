@@ -2,5 +2,4 @@
 title = "२५ ऊर्ध्वः सुप्तेषु"
 
 +++
-ऊ॒र्ध्वः सु॒प्तेषु॑ जागार न॒नु ति॒र्यङ् नि प॑द्यते ।  
-न सु॒प्तम॑स्य सु॒प्तेष्वनु॑ शुश्राव॒ कश्च॒न॥२५॥  
+Erect among the sleepers he wakes, and is never laid at length, No one hath ever heard that he hath been asleep while others slept.

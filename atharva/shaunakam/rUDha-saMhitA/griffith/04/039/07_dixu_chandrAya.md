@@ -2,5 +2,4 @@
 title = "०७ दिक्षु चन्द्राय"
 
 +++
-दि॒क्षु च॒न्द्राय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
-यथा॑ दि॒क्षु च॒न्द्राय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥७॥  
+To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in the quarters I have bent, so let the Favour- ing Graces bow them down to me.

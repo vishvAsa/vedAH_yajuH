@@ -2,5 +2,4 @@
 title = "०३ एषा ते"
 
 +++
-ए॒षा ते॑ कुल॒पा रा॑ज॒न् तामु॑ ते॒ परि॑ दद्मसि ।  
-ज्योक् पि॒तृष्वा॑साता॒ आ शी॒र्ष्णः स॒मोप्या॑त्॥३॥  
+Queen of thy race is she, O King: to thee do we deliver her. Long with her kinsfolk may she sit, until her hair be white with age.

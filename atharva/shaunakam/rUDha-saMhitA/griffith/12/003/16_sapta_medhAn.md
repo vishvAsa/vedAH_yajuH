@@ -2,5 +2,4 @@
 title = "१६ सप्त मेधान्"
 
 +++
-स॒प्त मेधा॑न् प॒शवः॑ पर्य॑गृह्ण॒न् य ए॑षां॒ ज्योति॑ष्मां उ॒त यश्च॒कर्श॑ ।  
-त्रय॑स्त्रिंशद् दे॒वता॒स्तान्त्स॑चन्ते॒ स नः॑ स्व॒र्गम॒भि ने॑ष लो॒कम्॥१६॥  
+Seven victims held the sacrificial essence, the bright one and the one that hath grown feeble. The three-and-thirty Deities attend them. As such, conduct us io the world of Svarga.

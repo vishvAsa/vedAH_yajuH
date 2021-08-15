@@ -2,4 +2,4 @@
 title = "३२ अघं पच्यमाना"
 
 +++
-अ॒घं प॒च्यमा॑ना दु॒ष्वप्न्यं॑ प॒क्वा॥३२॥  
+Sin while she is cooking, evil dream when she is cooked;

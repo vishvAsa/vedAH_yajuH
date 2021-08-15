@@ -2,5 +2,4 @@
 title = "०६ त्रिकद्रुकेभिः पवते"
 
 +++
-त्रिक॑द्रुकेभिः पवते॒ षडु॒र्वीरेक॒मिद् बृ॒हत्।  
-त्रि॒ष्टुब् गा॑य॒त्री छन्दां॑सि॒ सर्वा॒ ता य॒म आर्पि॑ता ॥६॥  
+With the three jars Brihat alone makes pure the six wide-spread- ing realms. The Gayatri, the Trishtup, all metres in Yama are contained.

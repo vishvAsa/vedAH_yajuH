@@ -2,5 +2,4 @@
 title = "०३ शं नो"
 
 +++
-शं नो॑ अ॒ज एक॑पाद् दे॒वो अ॑स्तु॒ शमहि॑र्बु॒ध्न्यः॑१ शं स॑मु॒द्रः ।  
-शं नो॑ अ॒पां नपा॑त् पे॒रुर॑स्तु॒ शं नः॒ पृश्नि॑र्भवतु दे॒वगो॑पा ॥३॥  
+May Aja-Ekapad the God be gracious, gracious the Dragon of the Deep, and Ocean. Gracious be he, the swelling Child of Waters, gracious be Prisni who hath Gods to guard her.

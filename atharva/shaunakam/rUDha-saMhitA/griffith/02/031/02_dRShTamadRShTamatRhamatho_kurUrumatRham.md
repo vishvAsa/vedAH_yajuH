@@ -2,5 +2,4 @@
 title = "०२ दृष्टमदृष्टमतृहमथो कुरूरुमतृहम्"
 
 +++
-दृ॒ष्टम॒दृष्ट॑मतृह॒मथो॑ कु॒रूरु॑मतृहम्।  
-अ॒ल्गण्डू॒न्त्सर्वा॑न् छ॒लुना॒न् क्रिमी॒न् वच॑सा जम्भयामसि ॥२॥  
+The Seen and the Invisible, and the Kururu have I crushed: Alandus, and all Chhalunas, we bruise to pieces with our spell.

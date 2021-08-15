@@ -2,5 +2,4 @@
 title = "०४ मैनमग्ने वि"
 
 +++
-मैन॑मग्ने॒ वि द॑हो॒ माभि शू॑शुचो॒ मास्य॒ त्वचं॑ चिक्षिपो॒ मा शरी॑रम्।  
-शृ॒तं य॒दा कर॑सि जातवे॒दोऽथे॑मेनं॒ प्र हि॑णुतात् पि॒तॄँरुप॑ ॥४॥  
+Burn him not up, nor quite consume him, Agni. Let not his body or his skin be scattered. O Jatavedas, when thou hast matured him, then send him on his way unto the Fathers.

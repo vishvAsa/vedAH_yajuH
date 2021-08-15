@@ -2,6 +2,4 @@
 title = "१५ श्वऽन्वतीरप्सरसो रूपका"
 
 +++
-श्वऽन्वतीरप्स॒रसो॒ रूप॑का उ॒तार्बु॑दे ।  
-अ॒न्तः॒पा॒त्रे रेरि॑हतीं रि॒शां दु॑र्णिहितै॒षिणी॑म्।  
-सर्वा॒स्ता अ॑र्बुदे॒ त्वम॒मित्रे॑भ्यो दृ॒शे कु॑रूदा॒रांश्च॒ प्र द॑र्शय ॥१५॥  
+Apsarases with dog-like mates, and Rupakas, O Arbudi, And her who licks the cup inside, and seeks to wound in ill- kept place, All these, O Arbudi, do thou make visible to our enemies and let them look on mists and fog.

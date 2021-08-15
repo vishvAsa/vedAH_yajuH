@@ -2,5 +2,4 @@
 title = "१२ स इद्"
 
 +++
-स इद् व्या॒घ्रो भ॑व॒त्यथो॑ सिं॒हो अथो॒ वृषा॑ ।  
-अथो॑ सपत्न॒कर्श॑नो॒ यो बिभ॑र्ती॒मं म॒णिम्॥१२॥  
+A tiger verily is he, he is a lion, and a bull, Subduer of his foes is he, the man who wears this Amulet.

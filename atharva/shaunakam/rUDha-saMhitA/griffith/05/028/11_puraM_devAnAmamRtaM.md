@@ -2,5 +2,4 @@
 title = "११ पुरं देवानाममृतं"
 
 +++
-पुरं॑ दे॒वाना॑म॒मृतं॒ हिर॑ण्यं॒ य आ॑बे॒धे प्र॑थ॒मो दे॒वो अग्रे॑ ।  
-तस्मै॒ नमो॒ दश॒ प्राचीः॑ कृणो॒म्यनु॑ मन्यतां त्रि॒वृदा॒बधे॑ मे ॥११॥  
+The God who first bound on in the beginning the deities' im- mortal golden castle,-- Him I salute with ten extended fingers. Blest be the three- stringed charm I bind upon thee.

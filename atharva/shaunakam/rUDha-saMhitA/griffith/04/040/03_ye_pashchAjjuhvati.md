@@ -2,5 +2,4 @@
 title = "०३ ये पश्चाज्जुह्वति"
 
 +++
-ये प॒श्चाज्जुह्व॑ति जातवेदः प्र॒तीच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-वरु॑णमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥३॥  
+O Jatavedas, westward sacrificers as foes assail us from the western quarter. For harming Varuna be they turned and troubled! I smite them backward with mine incantation.

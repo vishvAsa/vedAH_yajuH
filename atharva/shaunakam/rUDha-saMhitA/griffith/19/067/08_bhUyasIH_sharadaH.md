@@ -2,4 +2,4 @@
 title = "०८ भूयसीः शरदः"
 
 +++
-भूय॑सीः श॒रदः॑ श॒तात्॥८॥
+A hundred, yea, and even more.

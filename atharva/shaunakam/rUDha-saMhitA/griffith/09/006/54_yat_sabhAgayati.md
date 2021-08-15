@@ -2,4 +2,4 @@
 title = "५४ यत् सभागयति"
 
 +++
-यत् स॑भा॒गय॑ति॒ दक्षि॑णाः सभागयति॒ यद॑नु॒तिष्ठ॑त उ॒दव॑स्यत्ये॒व तत् ।६। ५४॥  
+When he distributes food he distributes priestly fees; what he performs he asks as favour.

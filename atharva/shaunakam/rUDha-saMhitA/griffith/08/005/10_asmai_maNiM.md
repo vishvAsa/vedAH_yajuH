@@ -2,5 +2,4 @@
 title = "१० अस्मै मणिं"
 
 +++
-अ॒स्मै म॒णिं वर्म॑ बध्नन्तु दे॒वा इन्द्रो॒ विष्णुः॑ सवि॒ता रु॒द्रो अ॒ग्निः ।  
-प्र॒जाप॑तिः परमे॒ष्ठी वि॒राड् वै॑श्वान॒र ऋष॑यश्च॒ सर्वे॑ ॥१०॥  
+May the Gods bind the Charm on him for armour, Indra, and Vishnu, Savitar Rudra, Agni, Prajapati, sublimest Parameshlhin, Viraj, Vaisvanara, and all the Rishis.

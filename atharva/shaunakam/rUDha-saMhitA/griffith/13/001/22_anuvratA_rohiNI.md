@@ -2,5 +2,4 @@
 title = "२२ अनुव्रता रोहिणी"
 
 +++
-अनु॑व्रता॒ रोहि॑णी॒ रोहि॑तस्य सू॒रिः सु॒वर्णा॑ बृह॒ती सु॒वर्चाः॑ ।  
-तया॒ वाजा॑न् वि॒श्वरू॑पां जयेम॒ तया॒ विश्वाः॒ पृत॑ना अ॒भि ष्या॑म ॥२२॥  
+Golden, refulgent, lofty is the Lady, Rohini, Rohita's devoted Consort. Through her may we win various spoil and booty, through her be conquerors in every battle.

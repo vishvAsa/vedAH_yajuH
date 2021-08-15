@@ -2,5 +2,4 @@
 title = "०३ यस्य हेतोः"
 
 +++
-यस्य॑ हे॒तोः प्र॒च्यव॑ते॒ यक्ष्मः॑ कर्ण॒त आ॑स्य॒तः ।  
-सर्वं॑ शीर्ष॒ण्यंऽ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥३॥  
+So that Consumption may depart forth from thine ears and from. thy mouth, All malady that wrings thy brow we charm away with this our spell.

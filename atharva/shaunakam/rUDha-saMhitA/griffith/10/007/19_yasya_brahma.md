@@ -2,5 +2,4 @@
 title = "१९ यस्य ब्रह्म"
 
 +++
-यस्य॒ ब्रह्म॒ मुख॑मा॒हुर्जि॒ह्वां म॑धुक॒शामु॒त।  
-वि॒राज॒मूधो॒ यस्या॒हुः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥१९॥  
+Who out of many, tell me, is that Skambha Whose mouth they say is Holy Lore, his tongue the Honey- sweetened Whip, his udder is Viraj, they say?

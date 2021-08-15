@@ -2,5 +2,4 @@
 title = "१२ तक्मन् भ्रात्रा"
 
 +++
-तक्म॒न् भ्रात्रा॑ ब॒लासे॑न॒ स्वस्रा॒ कासि॑कया स॒ह।  
-पा॒प्मा भ्रातृ॑व्येण स॒ह गछा॒मुमर॑णं॒ जन॑म्॥१२॥  
+Go, Fever, with Consumption, thy brother, and with thy sister, Cough. And with thy nephew Herpes, go away unto that alien folk.

@@ -2,5 +2,4 @@
 title = "०१ तां सवितः"
 
 +++
-तां स॑वितः स॒त्यस॑वां सुचि॒त्रामाहं वृ॑णे सुम॒तिं वि॒श्ववा॑राम्।  
-याम॑स्य॒ कण्वो॒ अदु॑ह॒न् प्रपी॑नां स॒हस्र॑धारां महि॒षो भगा॑य ॥१॥
+I choose, O Savitar, that glorious favour, with fruitful energy and every blessing, Even this one's teeming cow, erst milked by Kanva, thousand- streamed, milked for happiness by the mighty.

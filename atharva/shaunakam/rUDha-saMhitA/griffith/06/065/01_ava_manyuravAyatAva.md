@@ -2,5 +2,4 @@
 title = "०१ अव मन्युरवायताव"
 
 +++
-अव॑ म॒न्युरवाय॒ताव॑ बा॒हू म॑नो॒युजा॑ ।  
-परा॑शर॒ त्वं तेषां॒ परा॑ञ्चं॒ शुष्म॑मर्द॒याधा॑ नो र॒यिमा कृधि ॥१॥  
+The angry spirit hath relaxed: loose are the arms that act with mind. Do thou, destroyer, overcome and drive these foemen's might away, and then bring opulence to us.

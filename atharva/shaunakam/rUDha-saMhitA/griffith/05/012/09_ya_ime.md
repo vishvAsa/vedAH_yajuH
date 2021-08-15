@@ -2,5 +2,4 @@
 title = "०९ य इमे"
 
 +++
-य इ॒मे द्यावा॑पृथि॒वी जनि॑त्री रू॒पैरपिं॑श॒द् भुव॑नानि॒ विश्वा॑ ।  
-तम॒द्य हो॑तरिषि॒तो यजी॑यान् दे॒वं त्वष्टा॑रमि॒हय॑क्षि वि॒द्वान्॥९॥  
+Hotar more skilled in sacrifice, bring hither with speed to-day God Tvashar, thou who knowest, Even him who formed these two, the Earth and Heaven, the Parents, with their forms, and every creature.

@@ -2,5 +2,4 @@
 title = "०६ रोहितो द्यावापृथिवी"
 
 +++
-रोहि॑तो॒ द्यावा॑पृथि॒वी ज॑जान॒ तत्र॒ तन्तुं॑ परमे॒ष्ठी त॑तान ।  
-तत्र॑ शिश्रिये॒ऽज एक॑पा॒दोऽदृं॑ह॒द् द्यावा॑पृथि॒वी बले॑न ॥६॥  
+Rohita gave the Earth and Heavens their being. There Para- meshthin held the cord extended. Thereon reposeth Aja Ekapada. He with his might hath stab- lished Earth and Heaven.

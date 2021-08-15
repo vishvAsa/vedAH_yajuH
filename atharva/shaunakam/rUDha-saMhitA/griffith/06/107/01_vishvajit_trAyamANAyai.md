@@ -2,5 +2,4 @@
 title = "०१ विश्वजित् त्रायमाणायै"
 
 +++
-विश्व॑जित् त्रायमा॒णायै॑ मा॒ परि॑ देहि ।  
-त्राय॑माणे द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द् यच्च॑ नः॒ स्वम्॥१॥  
+Entrust me, Visvajit, to Trayamana. Guard, Trayamana, all our men, guard all our wealth of quadrupeds.

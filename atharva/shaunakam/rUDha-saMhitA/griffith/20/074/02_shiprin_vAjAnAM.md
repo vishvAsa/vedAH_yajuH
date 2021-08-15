@@ -2,5 +2,4 @@
 title = "०२ शिप्रिन् वाजानां"
 
 +++
-शिप्रि॑न् वाजानां पते॒ शची॑व॒स्तव॑ दं॒सना॑ ।  
-आ तू न॑ इन्द्र शंसय॒ गोष्वश्वे॑षु शु॒भ्रिषु॑ स॒हस्रे॑षु तुवीमघ ॥२॥  
+O Lord of strength, whose jaws are strong, great deeds are thine, the powerful: Do thou, O Indra, give us hope of beauteous horses and of kine, In thousands, O most wealthy One.

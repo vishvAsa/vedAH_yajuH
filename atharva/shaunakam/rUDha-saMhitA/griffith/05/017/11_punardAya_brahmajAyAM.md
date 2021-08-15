@@ -2,5 +2,4 @@
 title = "११ पुनर्दाय ब्रह्मजायां"
 
 +++
-पु॒न॒र्दाय॑ ब्रह्मजा॒यां कृ॒त्वा दे॒वैर्नि॑किल्बि॒षम्।  
-ऊर्जं॑ पृथि॒व्या भ॒क्त्वोरु॑गा॒यमुपा॑सते ॥११॥  
+Having restored the Brahman's wife, and freed them, with Gods' aid, from sin, They shared the fulness of the earth and worn themselves ex- tended sway.

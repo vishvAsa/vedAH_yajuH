@@ -2,5 +2,4 @@
 title = "२० यो वै"
 
 +++
-यो वै ते वि॒द्याद॒रणी॒ याभ्यां॑ निर्म॒थ्यते॒ वसु॑ ।  
-स वि॒द्वान् ज्ये॒ष्ठं म॑न्येत॒ स वि॑द्या॒द् ब्राह्म॑णं म॒हत्॥२०॥  
+The sage who knows the kindling-sticks whence by attrition wealth is drawn, Will comprehend what is most high, will know the mighty Brahmana.

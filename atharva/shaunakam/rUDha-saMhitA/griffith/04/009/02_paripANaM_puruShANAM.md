@@ -2,5 +2,4 @@
 title = "०२ परिपाणं पुरुषाणां"
 
 +++
-प॒रि॒पाणं॒ पुरु॑षाणां परि॒पाणं॒ गवा॑मसि ।  
-अश्वा॑ना॒मर्व॑तां परि॒पाणा॑य तस्थिषे ॥२॥  
+Thou art the safeguard of the men, thou art the safeguard of the kine, Thou standest ready to protect the horses that are fleet of foot.

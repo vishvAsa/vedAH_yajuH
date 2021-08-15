@@ -2,5 +2,4 @@
 title = "०४ शिवेन मा"
 
 +++
-शि॒वेन॑ मा॒ चक्षु॑षा पश्यतापः शि॒वया॑ त॒न्वोप॑ स्पृशत॒ त्वचं॑ मे ।  
-घृत॒श्चुतः॒ शुच॑यो॒ याः पा॑व॒कास्ता न॒ आपः॒ शं स्यो॒ना भवन्तु ॥४॥
+Ye Waters, with auspicious eye behold me: touch ye my skin with your auspicious body. May they, the bright and pure, distilling fatness, those Waters, bring felicity and bless us.

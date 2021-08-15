@@ -2,5 +2,4 @@
 title = "०४ यद्देवासो ललामगुं"
 
 +++
-यद्दे॒वासो॑ ललामगुं॒ प्रवि॑ष्टी॒मिन॑माविषुः ।  
-स॒कु॒ला दे॑दिश्यते॒ नारी॑ स॒त्यस्या॑क्षि॒भुवो॑ यथा ॥४॥  
+Si Dii mentulae intumescenti faverunt, cum femoribus suis se: ostentat femina tanquam vero testi.

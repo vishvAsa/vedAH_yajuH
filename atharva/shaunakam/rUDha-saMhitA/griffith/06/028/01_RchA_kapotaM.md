@@ -2,5 +2,4 @@
 title = "०१ ऋचा कपोतं"
 
 +++
-ऋ॒चा क॒पोतं॑ नुदत प्र॒णोद॒मिषं॒ मद॑न्तः॒ परि॒ गां न॑यामः ।  
-सं॒लो॒भय॑न्तो दुरि॒ता प॒दानि॑ हि॒त्वा न॒ ऊर्जं॒ प्र प॑दा॒त् पथि॑ष्ठः ॥१॥  
+Drive forth the Dove, chase it with holy verses: rejoicing bring we hither food and cattle, Obliterating traces of misfortune. Most fleet may it fly forth and leave us vigour.

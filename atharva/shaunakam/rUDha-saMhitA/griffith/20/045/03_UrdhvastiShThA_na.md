@@ -2,4 +2,4 @@
 title = "०३ ऊर्ध्वस्तिष्ठा न"
 
 +++
-ऊ॒र्ध्वस्ति॑ष्ठा न ऊ॒तये॒ऽस्मिन् वाजे॑ शतक्रतो । सम॒न्येषु॑ ब्रवावहै ॥३॥
+Lord of a Hundred Powers, stand up to lend us succour in this fight: In others too let us agree.

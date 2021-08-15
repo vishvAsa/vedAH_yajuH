@@ -2,5 +2,4 @@
 title = "०३ त्वाष्ट्रेणाहं वचसा"
 
 +++
-त्वा॒ष्ट्रेणा॒हं वच॑सा॒ वि त॑ ई॒र्ष्याम॑मीमदम्।  
-अथो॒ यो म॒न्युष्टे॑ पते॒ तमु॑ ते शमयामसि ॥३॥  
+With spell that Tvashtar sent to us I have dispelled thy jealousy. We mitigate and pacify the anger that thou feltest, Lord!

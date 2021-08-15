@@ -2,4 +2,4 @@
 title = "०६ तं वो"
 
 +++
-तं वो॒ वाजा॑नां॒ पति॒महू॑महि श्रव॒स्यवः॑ । अप्रा॑युभिर्य॒ज्ञेभि॑र्वावृ॒धेन्य॑म्॥६॥
+We seeking glory, have invoked this Master of all power and' might. Who must be glorified by constant sacrifice.

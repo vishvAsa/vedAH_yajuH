@@ -2,5 +2,4 @@
 title = "०७ प्रानेनाग्निं सं"
 
 +++
-प्रा॒नेना॒ग्निं सं सृ॑जति॒ वातः॑ प्रा॒णेन॑ संहि॑तः ।  
-प्रा॒णेन॑ वि॒श्वतो॑मुखं॒ सुर्यं॑ दे॒वा अ॑जनयन्॥७॥  
+Fire they endow with vital breath, Wind is compact, with vital breath: With vital breath the Gods produced the Sun whose face turn every way.

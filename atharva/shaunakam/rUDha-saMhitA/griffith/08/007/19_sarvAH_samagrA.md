@@ -2,5 +2,4 @@
 title = "१९ सर्वाः समग्रा"
 
 +++
-सर्वाः॑ सम॒ग्रा ओष॑धी॒र्बोध॑न्तु॒ वच॑सो॒ मम॑ ।  
-यथे॒मं पा॒रया॑मसि॒ पुरु॑षं दुरि॒तादधि॑ ॥१९॥  
+Let all the congregated Plants attend and mark mine utterance, That we may rescue this man here and save him from severe distress.

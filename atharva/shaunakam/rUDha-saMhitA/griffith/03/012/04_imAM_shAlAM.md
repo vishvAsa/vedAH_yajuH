@@ -2,5 +2,4 @@
 title = "०४ इमां शालां"
 
 +++
-इ॒मां शालां॑ सवि॒ता वा॒युरिन्द्रो॒ बृह॒स्पति॒र्नि मि॑नोतु प्रजा॒नन्।  
-उ॒क्षन्तू॒द्ना म॒रुतो॑ घृ॒तेन॒ भगो॑ नो॒ राजा॒ नि कृ॒षिं त॑नोतु ॥४॥  
+This House may Savitar and Vayu stablish, Brihaspati who knows the way, and Indra. May the moist Maruts sprinkle it with fatness, and may King Bhaga make our corn-land fruitful.

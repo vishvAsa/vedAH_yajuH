@@ -2,5 +2,4 @@
 title = "०५ वरणो वारयाता"
 
 +++
-व॒र॒णो वा॑रयाता अ॒यं दे॒वो वन॒स्पतिः॑ ।  
-यक्ष्मो॒ यो अ॒स्मिन्नावि॑ष्ट॒स्तमु॑ दे॒वा अ॑वीवरन्॥५॥  
+Guard against ill of varied kind is Varana this heavenly Plant. The Gods have stayed and driven off Consumption which had seized this man.

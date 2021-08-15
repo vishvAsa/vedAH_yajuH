@@ -2,5 +2,4 @@
 title = "०२ शान्तानि पूर्वरूपाणि"
 
 +++
-शा॒न्तानि॑ पूर्वरू॒पाणि॑ शा॒न्तं नो॑ अस्तु कृताकृ॒तम्।  
-शा॒न्तं भू॒तं च॒ भव्यं॑ च॒ सर्व॑मे॒व शम॑स्तु नः ॥२॥  
+Gentle be signs of coming change, and that which is and is not. done! Gentle be past and future, yea, let all be gracious unto us.

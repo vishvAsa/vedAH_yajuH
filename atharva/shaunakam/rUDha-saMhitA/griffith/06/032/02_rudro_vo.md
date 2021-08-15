@@ -2,5 +2,4 @@
 title = "०२ रुद्रो वो"
 
 +++
-रु॒द्रो वो॑ ग्री॒वा अश॑रैत् पिशाचाः पृ॒ष्टीर्वोऽपि॑ शृणातु यातुधानाः ।  
-वी॒रुद् वो॑ वि॒श्वतो॑वीर्या य॒मेन॒ सम॑जीगमत्॥२॥  
+Let Rudra break your necks, O ye Pisachas, and split your ribs asunder, Yatudhanas! Your herb of universal power with Yama hath allied itself.

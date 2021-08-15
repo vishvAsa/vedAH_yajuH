@@ -2,5 +2,4 @@
 title = "२१ ब्रह्मज्येष्ठा संभृता"
 
 +++
-ब्रह्म॑ज्येष्ठा॒ संभृ॑ता वि॒र्याऽणि॒ ब्रह्माग्रे॒ ज्येष्ठं॒ दिव॒मा त॑तान ।  
-भूतानां॑ ब्र॒ह्मा प्र॑थ॒मोत॑ जज्ञे॒ तेना॑र्हति॒ ब्रह्म॑णा॒ स्पर्धि॑तुं॒ कः ॥२१॥
+Collected manly powers are topped by Brahma. Brahma at first spread out the loftiest heaven. Brahma was born first of all things existing. Who then is meet to be that Brahma's rival?

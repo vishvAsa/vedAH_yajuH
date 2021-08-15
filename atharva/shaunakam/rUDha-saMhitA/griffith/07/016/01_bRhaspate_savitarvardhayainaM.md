@@ -2,5 +2,4 @@
 title = "०१ बृहस्पते सवितर्वर्धयैनं"
 
 +++
-बृह॑स्पते॒ सवि॑तर्व॒र्धयै॑नं ज्यो॒तयै॑नं मह॒ते सौभ॑गाय ।  
-संशि॑तं चित् संत॒रं सं शि॑शाधि॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥१॥
+Increase this man Brihaspati! Illume him, O Savitar, for high and happy fortune. Sharpen him thoroughly though already sharpened: with glad acclaim let all the Gods receive him.

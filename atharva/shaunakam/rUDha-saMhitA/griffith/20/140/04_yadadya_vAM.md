@@ -2,5 +2,4 @@
 title = "०४ यदद्य वां"
 
 +++
-यद॒द्य वां॑ नासत्यो॒क्थैरा॑चुच्युवी॒महि॑ ।  
-यद्वा॒ वाणी॑भिरश्विने॒वेत्क॒ण्वस्य॑ बोधतम्॥४॥  
+When, O Nasatyas, we this day make you speed hither N ith our hymns, Or, Asvins, with our songs of praise, remember Kanva specially.

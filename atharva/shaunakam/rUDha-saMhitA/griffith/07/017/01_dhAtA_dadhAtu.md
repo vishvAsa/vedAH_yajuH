@@ -2,5 +2,4 @@
 title = "०१ धाता दधातु"
 
 +++
-धा॒ता द॑धातु नो र॒यिमीशा॑नो॒ जग॑त॒स्पतिः॑ ।  
-स नः॑ पू॒र्णेन॑ यच्छतु ॥१॥  
+May the Ordainer give us wealth, Lord, ruler of the world of life: with full hand may he give to us.

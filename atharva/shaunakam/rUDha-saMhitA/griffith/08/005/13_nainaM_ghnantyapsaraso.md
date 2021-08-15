@@ -2,5 +2,4 @@
 title = "१३ नैनं घ्नन्त्यप्सरसो"
 
 +++
-नैनं॑ घ्नन्त्यप्स॒रसो॒ न ग॑न्ध॒र्वा न मर्त्याः॑ ।  
-सर्वा॒ दिशो॒ वि रा॑जति॒ यो बिभ॑र्ती॒मं म॒णिम्॥१३॥  
+No mortal beings slay him, no Gandharvas, no Apsarases; O'er all the regions he is king, the man who wears this Amulet.

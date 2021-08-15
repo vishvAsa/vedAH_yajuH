@@ -2,4 +2,4 @@
 title = "०३ म्रोको मनोहा"
 
 +++
-म्रो॒को म॑नो॒हा ख॒नो नि॑र्दा॒ह आ॑त्म॒दूषि॑स्तनू॒दूषिः॑ ॥३॥  
+Mroka, mind-destroying, rooting up, consuming, ruiner of the soul, ruiner of the body.

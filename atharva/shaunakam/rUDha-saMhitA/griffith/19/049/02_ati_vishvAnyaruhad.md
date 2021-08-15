@@ -2,5 +2,4 @@
 title = "०२ अति विश्वान्यरुहद्"
 
 +++
-अति॒ विश्वा॑न्यरुहद् गम्भी॒रो वर्षि॑ष्ठमरुहन्त॒ श्रवि॑ष्ठाः ।  
-उ॒श॒ती रात्र्यनु॒ सा भ॒द्राभि ति॑ष्ठते मि॒त्र इ॑व स्व॒धाभिः॑ ॥२॥  
+Over all depths hath she gone up, and mounted, most mighty One, the sky's exalted summit. Over me now the loving Night is spreading with her auspicious. Godlike ways like Mitra.

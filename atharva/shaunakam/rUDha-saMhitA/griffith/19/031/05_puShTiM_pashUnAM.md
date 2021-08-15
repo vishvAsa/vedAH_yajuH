@@ -2,5 +2,4 @@
 title = "०५ पुष्टिं पशूनां"
 
 +++
-पु॒ष्टिं प॑शू॒नां परि॑ जग्रभा॒हं चतु॑ष्पदां द्वि॒पदां॒ यच्च॑ धा॒न्यम्।  
-पयः॑ पशू॒नां रस॒मोष॑धीनां॒ बृह॒स्पतिः॑ सवि॒ता मे॒ नि य॑च्छात्॥५॥  
+I have obtained abundant wealth of cattle, bipeds and quad- rupeds, and corn in plenty. Savitar and Brihaspati vouchsafe me the milk of kine and herbs' refreshing juices!

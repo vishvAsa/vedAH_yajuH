@@ -2,5 +2,4 @@
 title = "०२ अङ्गे अङ्गे"
 
 +++
-अङ्गे॑ अङ्गे शो॒चिषा॑ शिश्रिया॒णं न॑म॒स्यन्त॑स्त्वा ह॒विषा॑ विधेम ।  
-अ॒ङ्कान्त्स॑म॒ङ्कान् ह॒विषा॑ विधेम॒ यो अग्र॑भी॒त् पर्वा॑स्या॒ ग्रभी॑ता ॥२॥  
+Bending to thee who clingest to each limb with heat, fain would we worship thee with offered sacrifice, Worship with sacrifice the bends and curves of thee who with a vigorous grasp hast seized on this one's limbs.

@@ -2,5 +2,4 @@
 title = "०२ यत् ते"
 
 +++
-यत् ते॒ अपो॑दकं वि॒षं तत् त॑ ए॒तास्व॑ग्रभम्।  
-गृ॒ह्णामि॑ ते मध्य॒ममु॑त्त॒मं रस॑मु॒ताव॒मं भि॒यसा॑ नेश॒दादु॑ ते ॥२॥  
+All the non-fluid portion of thy venom, I receive in these. I take thy middlemost, thy highest, lowest juice: may it be spent and lest by reason of thy fear.

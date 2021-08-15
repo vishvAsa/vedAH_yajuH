@@ -2,5 +2,4 @@
 title = "०४ सुतासो मधुमत्तमाः"
 
 +++
-सु॒तासो॒ मधु॑मत्तमाः॒ सोमा॒ इन्द्रा॑य म॒न्दिनः॑ ।  
-प॒वित्र॑वन्तो अक्षरन्दे॒वान्ग॑च्छ॑न्तु वो॒ मदाः॑ ॥४॥  
+The Somas very rich in sweets, for which the sieve is destined, flow, Effused, the source of Indra's joy. May your strong juices reach the Gods.

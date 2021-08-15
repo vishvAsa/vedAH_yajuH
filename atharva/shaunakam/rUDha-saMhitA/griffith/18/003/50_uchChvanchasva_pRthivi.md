@@ -2,5 +2,4 @@
 title = "५० उच्छ्वञ्चस्व पृथिवि"
 
 +++
-उच्छ्व॑ञ्चस्व पृथिवि॒ मा नि बा॑धथाः सूपाय॒नास्मै॑ भव सूपसर्प॒णा।  
-मा॒ता पु॒त्रं यथा॑ सि॒चाभ्येऽनं भूम ऊर्णुहि ॥५०॥  
+Heave thyself, Earth, nor press him downward heavily: afford him easy access pleasant to approach, Cover him as a mother wraps her skirt about her child, O Earth!

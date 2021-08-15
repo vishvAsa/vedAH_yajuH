@@ -2,5 +2,4 @@
 title = "०४ क्व१ प्रेप्सन्"
 
 +++
-क्व॑१ प्रेप्स॑न् दीप्यत ऊ॒र्ध्वो अ॒ग्निः क्व॑१प्रेप्स॑न् पवते मात॒रिश्वा॑ ।  
-यत्र॒ प्रेप्स॑न्तीरभि॒यन्त्या॒वृतः॑ स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥४॥  
+Whitherward yearning blazeth Agni upward? Whitherward yearning bloweth Matarisvan? Who out of many, tell me, is that Skambha to whom with long- ing go the turning pathways?

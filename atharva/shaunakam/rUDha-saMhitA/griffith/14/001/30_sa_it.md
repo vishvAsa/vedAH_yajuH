@@ -2,5 +2,4 @@
 title = "३० स इत्"
 
 +++
-स इत् तत् स्यो॒नं ह॑रति ब्र॒ह्मा वासः॑ सुम॒ङ्गल॑म्।  
-प्राय॑श्चित्तिं॒ यो अ॒ध्येति॒ येन॑ जा॒या न रिष्य॑ति ॥३०॥  
+The Brahman takes away the robe as a fair thing that brings good luck. He knows the expiating rite whereby the wife is kept unharmed.

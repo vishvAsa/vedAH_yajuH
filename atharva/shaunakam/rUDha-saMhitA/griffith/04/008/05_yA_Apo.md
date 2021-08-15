@@ -2,5 +2,4 @@
 title = "०५ या आपो"
 
 +++
-या आपो॑ दि॒व्याः पय॑सा॒ मद॑न्त्य॒न्तरि॑क्ष उ॒त वा॑ पृथि॒व्याम्।  
-तासां॑ त्वा॒ सर्वा॑साम॒पाम॒भि॑ षि॑ञ्चामि॒ वर्च॑सा ॥५॥  
+Heaven's waters joyous in their milk, the waters of middle air, and those that earth containeth- I with the gathered power and might of all these waters sprinkle thee,

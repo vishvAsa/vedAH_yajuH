@@ -2,4 +2,4 @@
 title = "१३ उदु त्यं"
 
 +++
-उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ । दृ॒शे विश्वा॑य॒ सूर्य॑म्॥१३॥  
+His bright rays bear him up aloft, the God who knoweth all that= is, Surya, that every one may see.

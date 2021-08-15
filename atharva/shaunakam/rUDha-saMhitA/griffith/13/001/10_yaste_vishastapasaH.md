@@ -2,5 +2,4 @@
 title = "१० यस्ते विशस्तपसः"
 
 +++
-यस्ते॒ विश॒स्तप॑सः संबभू॒वुर्व॒त्सं गा॑य॒त्रीमनु॒ ता इ॒हागुः॑ ।  
-तास्त्वा वि॑शन्तु॒ मन॑सा शि॒वेन॒ संमा॑ता व॒त्सो अ॒भ्येऽतु॒ रोहि॑तः ॥१०॥  
+The tribes thy heat produced have followed hither the Calf and Gayatri, the strain that lauds him. With friendly heart let them approach to serve thee, and the Calf Rohita come with his mother.

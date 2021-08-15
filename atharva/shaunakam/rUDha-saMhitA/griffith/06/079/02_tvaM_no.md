@@ -2,5 +2,4 @@
 title = "०२ त्वं नो"
 
 +++
-त्वं नो॑ नभसस्पत ऊर्जं॑ गृ॒हेषु॑ धारय ।  
-आ पु॒ष्टमेत्वा वसु॑ ॥२॥  
+Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and treasure come to us.

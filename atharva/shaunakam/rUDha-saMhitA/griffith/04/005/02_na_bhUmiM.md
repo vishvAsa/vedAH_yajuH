@@ -2,5 +2,4 @@
 title = "०२ न भूमिं"
 
 +++
-न भूमिं॒ वातो॒ अति॑ वाति॒ नाति॑ पश्यति॒ कश्च॒न।  
-स्त्रिय॑श्च॒ सर्वाः॑ स्वा॒पय॒ शुन॒श्चेन्द्र॑सखा॒ चर॑न्॥२॥  
+Over the surface of the earth there breathes no wind, there looks. no eye. Lull all the women, lull the dogs to sleep, with Indra as thy friend!

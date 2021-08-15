@@ -2,5 +2,4 @@
 title = "११ यथा सोमः"
 
 +++
-यथा॒ सोमः॑ प्रातःसव॒ने अ॒श्विनो॒र्भव॑ति प्रि॒यः ।  
-ए॒वा मे॑ अश्विना॒ वर्च॑ आ॒त्मनि॑ ध्रियताम्॥११॥  
+As at the morning sacrifice the Asvins twain love Soma well, Even so may both the Asvins lay splendour and strength within my soul.

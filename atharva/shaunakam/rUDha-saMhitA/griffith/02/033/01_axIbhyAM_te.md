@@ -2,5 +2,4 @@
 title = "०१ अक्षीभ्यां ते"
 
 +++
-अ॒क्षीभ्यां॑ ते॒ नासि॑काभ्यां॒ कर्णा॑भ्यां छुबु॑का॒दधि॑ ।  
-यक्ष्मं॑ शीर्ष॒ण्यं ऽ म॒स्तिष्का॑ज्जि॒ह्वाया॒ वि वृ॑हामि ते ॥१॥  
+From both thy nostrils, from both eyes, from both thine ears, and from thy chin, Forth from thy brain and tongue I root Consumption seated in thy head.

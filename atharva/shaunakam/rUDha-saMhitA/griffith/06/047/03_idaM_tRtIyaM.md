@@ -2,5 +2,4 @@
 title = "०३ इदं तृतीयं"
 
 +++
-इ॒दं तृ॒तीयं॒ सव॑नं कवी॒नामृ॒तेन॒ ये च॑म॒समैर॑यन्त ।  
-ते सौ॑धन्व॒नाः स्वऽरानशा॒नाः स्विऽष्टिं नो अ॒भि वस्यो॑ नयन्तु ॥३॥
+We pour this third libation of the Sages who fashioned forth the cup in proper order. Winners of heaven, may they, Sudhanvan's children, lead our fair sacrifice to happy fortune.

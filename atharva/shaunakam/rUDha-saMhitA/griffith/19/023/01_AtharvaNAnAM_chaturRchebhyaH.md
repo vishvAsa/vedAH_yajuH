@@ -2,4 +2,4 @@
 title = "०१ आथर्वणानां चतुरृचेभ्यः"
 
 +++
-आ॒थ॒र्व॒णानां चतुरृ॒चेभ्यः॒ स्वाहा॑ ॥१॥  
+Hail to the four-verse strophes of the Atharvanas!

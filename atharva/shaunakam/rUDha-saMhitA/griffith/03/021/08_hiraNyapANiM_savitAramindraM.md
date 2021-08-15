@@ -2,5 +2,4 @@
 title = "०८ हिरण्यपाणिं सवितारमिन्द्रं"
 
 +++
-हिर॑ण्यपाणिं सवि॒तार॒मिन्द्रं॒ बृह॒स्पतिं॒ वरु॑णं मि॒त्रम॒ग्निम्।  
-विश्वा॑न् दे॒वानङ्गि॑रसो हवामह इ॒मं क्रव्यादं॑ शमयन्त्व॒ग्निम्॥८॥  
+The golden-handed Savitar and Indra, Brihaspati, Varuna, Mitra, and Agni, The Angirases we call, the Visve Devas: let them appease this Agni, Flesh-devourer.

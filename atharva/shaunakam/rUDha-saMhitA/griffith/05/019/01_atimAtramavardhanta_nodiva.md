@@ -2,5 +2,4 @@
 title = "०१ अतिमात्रमवर्धन्त नोदिव"
 
 +++
-अ॒ति॒मा॒त्रम॑वर्धन्त॒ नोदि॑व॒ दिव॑मस्पृशन्।  
-भृगुं॑ हिंसि॒त्वा सृञ्ज॑या वैतह॒व्याः परा॑भवन्॥१॥  
+The sons of Vitahavya, the Srinjayas, waxed exceeding strong. They well-nigh touched the heavens, but they wronged Bhrigu and were overthrown.

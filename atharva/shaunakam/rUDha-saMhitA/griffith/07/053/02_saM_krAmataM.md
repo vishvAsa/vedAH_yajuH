@@ -2,5 +2,4 @@
 title = "०२ सं क्रामतं"
 
 +++
-सं क्रा॑मतं॒ मा ज॑हीतं॒ शरी॑रं प्राणापा॒नौ ते॑ स॒युजा॑वि॒ह स्ता॑म्।  
-श॒तं जी॑व श॒रदो॒ वर्ध॑मानो॒ऽग्निष्टे॑ गो॒पा अ॑धि॒पा वसि॑ष्ठः ॥२॥  
+Move both together; do not leave the body. Let both the breathings stay for thee united. Waxing in strength live thou a hundred autumns. Thy noblest guardian and thy lord is Agni.

@@ -2,5 +2,4 @@
 title = "०३ धरुण्यऽसि शाले"
 
 +++
-ध॒रु॒ण्य॒ऽसि शाले बृ॒हच्छ॑न्दाः॒ पूति॑धान्या ।  
-आ त्वा॑ व॒त्सो ग॑मे॒दा कु॑मा॒र आ धे॒नवः॑ सा॒यमा॒स्पन्द॑मानाः ॥३॥  
+A spacious store, O House, art thou, full of clean corn and lofty-roofed. Let the young calf and little boy approach thee, and milch-kine streaming homeward in the evening.

@@ -2,5 +2,4 @@
 title = "०२ वृकश्चिदस्य वारण"
 
 +++
-वृक॑श्चिदस्य वार॒ण उ॑रा॒मथि॒रा व॒युने॑षु भूषति ।  
-सेमं नः॒ स्तोमं॑ जुजुषा॒ण आ ग॒हीन्द्र॒ प्र चि॒त्रया॑ धि॒या॥२॥  
+As such, O Wonderful whose hand holds thunder, praised as mighty, Caster of the Stone. Pour on us boldly, Indra, kie and chariot-steeds, ever to be the conqueror's strength.

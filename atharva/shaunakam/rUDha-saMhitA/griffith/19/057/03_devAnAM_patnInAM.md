@@ -2,6 +2,4 @@
 title = "०३ देवानां पत्नीनां"
 
 +++
-देवा॑नां पत्नीनां गर्भ॒ यम॑स्य कर॒ यो भ॒द्रः स्व॑प्न ।  
-स मम॒ यः पा॒पस्तद् द्वि॑ष॒ते प्र हि॑ण्मः ।  
-मा तृ॒ष्टाना॑मसि कृष्णशकु॒नेर्मुख॑म्॥३॥  
+Child of Gods' Consorts, minister of Yama is the good Dream: that which is my trouble we drive away to the enemy.

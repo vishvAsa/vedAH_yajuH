@@ -2,5 +2,4 @@
 title = "०६ ते त्वा"
 
 +++
-ते त्वा॒ मदा॑ अमद॒न् तानि॒ वृष्ण्या॒ ते सोमा॑सो वृत्र॒हत्ये॑षु सत्पते ।  
-यत् का॒रवे॒ दश॑ वृ॒त्राण्य॑प्र॒ति ब॒र्हिष्म॑ते॒ नि स॒हस्रा॑णि ब॒र्हयः॑ ॥६॥  
+These our libations, strength inspiring Soma draughts, gladdened thee in the fight with Vritra, Hero-Lord, What time thou slewest for the singer with trimmed grass ten thousand Vritras, thou resistless in thy might.

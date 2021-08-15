@@ -2,5 +2,4 @@
 title = "१२ एता देवसेनाः"
 
 +++
-ए॒ता दे॑वसे॒नाः सूर्य॑केतवः॒ सचे॑तसः ।  
-अ॒मित्रा॑न् नो जयन्तु॒ स्वाहा॑ ॥१२॥
+May these embattled Gods, brilliant as Surya--All hail!--one- minded conquer those who hate us.

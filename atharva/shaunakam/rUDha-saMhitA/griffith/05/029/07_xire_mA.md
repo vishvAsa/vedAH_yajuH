@@ -2,5 +2,4 @@
 title = "०७ क्षिरे मा"
 
 +++
-क्षि॒रे मा॑ म॒न्थे य॑त॒मो द॒दम्भा॑कृष्टप॒च्ये अश॑ने धा॒न्ये॒३यः ।  
-तदा॒त्मना॑ प्र॒जया॑ पिशा॒चा वि या॑तयन्तामग॒दो॒३यम॑स्तु ॥७॥  
+If one hath cheated me in milk or porridge, in food from grain or plants that need no culture. Let the Pisachas, etc.

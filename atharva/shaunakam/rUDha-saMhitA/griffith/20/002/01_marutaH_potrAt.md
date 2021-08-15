@@ -2,4 +2,4 @@
 title = "०१ मरुतः पोत्रात्"
 
 +++
-म॒रुतः॑ पो॒त्रात् सु॒ष्टुभः॑ स्व॒र्कादृ॒तुना॒ सोमं॑ पिबन्तु ॥१॥  
+Let the Maruts drink Trishtups from the Potar's cup, according to the season Soma from heaven.

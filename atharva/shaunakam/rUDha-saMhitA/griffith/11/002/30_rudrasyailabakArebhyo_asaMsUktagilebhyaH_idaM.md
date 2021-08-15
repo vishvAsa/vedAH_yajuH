@@ -2,5 +2,4 @@
 title = "३० रुद्रस्यैलबकारेभ्योऽसंसूक्तगिलेभ्यः इदं"
 
 +++
-रु॒द्रस्यै॑लबका॒रेभ्यो॑ऽसंसूक्तगि॒लेभ्यः॑ ।  
-इ॒दं म॒हास्ये॑भ्यः॒ श्वभ्यो॑ अकरं॒ नमः॑ ॥३०॥  
+This lowly reverence have I paid to Rudra's dogs with mighty mouths, Hounds terrible with bark and howl, who gorge unmasticated food.

@@ -2,5 +2,7 @@
 title = "१३ प्रजापतिश्चरति गर्भे"
 
 +++
-प्र॒जाप॑तिश्चरति॒ गर्भे॑ अ॒न्तरदृ॑श्यमानो बहु॒धा वि जा॑यते ।  
-अ॒र्धेन॒ विश्वं॒ भुव॑नं ज॒जान॒ यद॑स्या॒र्धं क॑त॒मः स के॒तुः ॥१३॥  
+id
+10.8.13    In front of these the five-horsed car moves on...
+10.8.13    Within the womb Prajapati is moving: he, thoug...
+Name: Comment, dtype: object

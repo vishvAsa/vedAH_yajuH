@@ -2,5 +2,4 @@
 title = "०९ त्वं न"
 
 +++
-त्वं न॑ इन्द्र मह॒ते सौभ॑गा॒याद॑ब्धेभिः॒ परि॑ पाह्य॒क्तुभि॒स्तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽनि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥९॥  
+Do thou, O Indra, for our great good fortune, with thine in- violable rays protect us. Manifold are thy great deeds, thine, O Vishnu.

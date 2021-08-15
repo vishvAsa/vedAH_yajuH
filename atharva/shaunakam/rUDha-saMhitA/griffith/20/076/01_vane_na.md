@@ -2,5 +2,4 @@
 title = "०१ वने न"
 
 +++
-वने॒ न वा॒ यो न्य॑धायि चा॒क्रं छुचि॑र्वां॒ स्तोमो॑ भुरणावजीगः ।  
-यस्येदिन्द्रः॑ पुरु॒दिने॑षु॒ होता॑ नृ॒णां नर्यो॒ नृत॑मः क्ष॒पावा॑न्॥१॥  
+As sits the young bird on the tree rejoicing, ye, swift pair, have been roused by clear laudation, Whose Hoter-priest through many days is Indra, earth's guardian, friend of men, the best of heroes.

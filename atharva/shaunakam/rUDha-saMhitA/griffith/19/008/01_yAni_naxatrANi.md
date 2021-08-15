@@ -2,5 +2,4 @@
 title = "०१ यानि नक्षत्राणि"
 
 +++
-यानि॒ नक्ष॑त्राणि दि॒व्य॑१न्तरि॑क्षे अ॒प्सु भूमौ॒ यानि॒ नगे॑षु दि॒क्षु।  
-प्रक॑ल्पयंश्च॒न्द्रमा॒ यान्येति॒ सर्वा॑णि॒ ममै॒तानि॑ शि॒वानि॑ सन्तु ॥१॥  
+Benign to me be all those Lunar Mansions to which the Moon as he moves on doth honour. All that are in the sky, the air, the waters, on earth, on moun- tains, in the heavenly regions.

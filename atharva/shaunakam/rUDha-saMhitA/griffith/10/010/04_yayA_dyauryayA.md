@@ -2,5 +2,4 @@
 title = "०४ यया द्यौर्यया"
 
 +++
-यया॒ द्यौर्यया॑ पृथि॒वी ययापो॑ गुपि॒ता इ॒माः।  
-व॒शां स॒हस्र॑धारां॒ ब्रह्म॑णा॒च्छाव॑दामसि ॥४॥  
+Hitherward we invite with prayer the Cow who pours a thou- sand streams, By whom the heaven, by whom the earth, by whom these waters are preserved.

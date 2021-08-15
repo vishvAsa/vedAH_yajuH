@@ -2,5 +2,4 @@
 title = "०२ अनु त्वा"
 
 +++
-अनु॑ त्वा हरि॒णो वृषा॑ प॒द्भिश्च॒तुर्भि॑रक्रमीत्।  
-विषा॑णे॒ वि ष्य॑ गुष्पि॒तं यद॑स्य क्षेत्रि॒यं हृ॒दि॥२॥  
+With his four feet the vigorous Buck hath bounded in pursuit of thee. Unbind the chronic sickness, Horn! deeply inwoven in the heart.

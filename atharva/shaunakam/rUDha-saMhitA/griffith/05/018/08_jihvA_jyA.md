@@ -2,5 +2,4 @@
 title = "०८ जिह्वा ज्या"
 
 +++
-जिह्वा॒ ज्या भव॑ति॒ कुल्म॑लं॒ वाङ्ना॑डी॒का दन्ता॒स्तप॑सा॒भिदि॑ग्धाः ।  
-ते भि॑र्ब्रह्मा वि॑ध्यति देवपी॒यून् हृ॑द्ब॒लैर्धनु॑र्भिर्दे॒वजू॑तैः ॥८॥  
+His voice an arrow's neck, his tongue a bowstring, his windpipes fire-enveloped heads of arrows, With these the Brahman pierces through blasphemers, with God-sped bows that quell the hearts within them.

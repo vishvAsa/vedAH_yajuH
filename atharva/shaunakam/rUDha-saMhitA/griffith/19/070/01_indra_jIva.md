@@ -2,5 +2,4 @@
 title = "०१ इन्द्र जीव"
 
 +++
-इन्द्र॒ जीव॒ सूर्य॒ जीव॒ देवा॒ जीवा॑ जी॒व्यास॑म॒हम्।  
-सर्व॒मायु॑र्जीव्यासम्॥१॥
+Live, Indra. Live Surya. Live, ye Gods. I fain would live. Fain would I live my complete term of life.

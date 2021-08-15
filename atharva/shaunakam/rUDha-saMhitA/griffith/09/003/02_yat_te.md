@@ -2,5 +2,4 @@
 title = "०२ यत् ते"
 
 +++
-यत् ते॑ न॒द्धं वि॑श्ववारे॒ पाशो॑ ग्र॒न्थिश्च॒ यः कृ॒तः ।  
-बृह॒स्पति॑रिवा॒हं ब॒लं वा॒चा वि स्रं॑सयामि॒ तत्॥२॥  
+All-wealthy House! each knot and band, each cord that is attached to thee I with my spell untie, as erst Brihaspati disclosed the cave.

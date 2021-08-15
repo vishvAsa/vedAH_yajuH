@@ -2,5 +2,4 @@
 title = "०१ ओते मे"
 
 +++
-ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती ।  
-ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒ क्रिमिं॑ जम्भयता॒मिति॑ ॥१॥  
+I have called Heaven and Earth to aid, have called divine Sarasvati, Indra and Agni have I called: Let these destroy the worm, I prayed.

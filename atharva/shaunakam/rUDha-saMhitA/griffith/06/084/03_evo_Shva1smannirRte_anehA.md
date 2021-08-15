@@ -2,5 +2,4 @@
 title = "०३ एवो ष्व१स्मन्निरृतेऽनेहा"
 
 +++
-ए॒वो ष्व॑१स्मन्नि॑रृतेऽने॒हा त्वम॑य॒स्मया॒न् वि चृ॑ता बन्धपा॒शान्।  
-य॒मो मह्यं॒ पुन॒रित् त्वां द॑दाति॒ तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥३॥  
+Do thou, Destruction, thus, without a rival, release us from the iron bonds that hind us. To me doth Yama verily restore thee. To him, to Yama, yea, to Death be worship!

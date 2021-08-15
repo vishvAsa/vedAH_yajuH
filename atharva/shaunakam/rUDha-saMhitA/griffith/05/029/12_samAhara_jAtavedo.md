@@ -2,5 +2,4 @@
 title = "१२ समाहर जातवेदो"
 
 +++
-स॒माह॑र जातवेदो॒ यद्धृ॒तं यत् परा॑भृतम्।  
-गात्रा॑ण्यस्य वर्धन्तामं॒शुरि॒वा प्या॑यताम॒यम्॥१२॥  
+Collect, O Jatavedas, what hath been removed and borne away. Let this man's members grow, let him swell like the tendril of a plant.

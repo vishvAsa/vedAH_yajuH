@@ -2,4 +2,4 @@
 title = "०२ अनु त्वा"
 
 +++
-अनु॑ त्वा॒ रोद॑सी उ॒भे क्रक्ष॑माणमकृपेताम्। इन्द्र॒ यद् द॑स्यु॒हाभ॑वः ॥२॥  
+Indra, both worlds complained to thee when uttering thy fearful roar, What time thou smotest Dasyus dead.

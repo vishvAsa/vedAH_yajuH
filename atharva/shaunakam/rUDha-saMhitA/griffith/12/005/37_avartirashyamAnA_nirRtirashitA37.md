@@ -2,4 +2,4 @@
 title = "३७ अवर्तिरश्यमाना निरृतिरशिता३७"
 
 +++
-अव॑र्तिर॒श्यमा॑ना॒ निरृ॑तिरशि॒ता॥३७॥  
+Poverty while she is being eaten. Destruction when eaten.

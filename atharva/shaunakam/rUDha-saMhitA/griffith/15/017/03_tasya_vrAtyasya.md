@@ -2,4 +2,4 @@
 title = "०३ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य । योऽस्य तृ॒तीयो॑ व्या॒नः सा द्यौः ॥३॥  
+His third diffused breath is that Heaven.

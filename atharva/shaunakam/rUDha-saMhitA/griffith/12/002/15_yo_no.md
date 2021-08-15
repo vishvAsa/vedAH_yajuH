@@ -2,5 +2,4 @@
 title = "१५ यो नो"
 
 +++
-यो नो॒ अश्वे॑षु वी॒रेषु॒ यो नो॒ गोष्व॑जा॒विषु॑ ।  
-क्र॒व्यादं॒ निर्णु॑दामसि॒ यो अ॒ग्निर्ज॑न॒योप॑नः ॥१५॥  
+Corpse-eating Agni we expel, the Agni who bewilders men, Him who is in our horses, in our heroes, cows, and goats, and sheep:

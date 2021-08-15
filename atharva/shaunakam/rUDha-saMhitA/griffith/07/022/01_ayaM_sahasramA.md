@@ -2,4 +2,4 @@
 title = "०१ अयं सहस्रमा"
 
 +++
-अ॒यं स॒हस्र॒मा नो॑ दृ॒शे क॑वी॒नां म॒तिर्ज्योति॒र्विध॑र्मणि ॥१॥  
+Unto a thousand sages he hath given sight: thought, light is he in ranging all.

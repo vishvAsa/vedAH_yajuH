@@ -2,5 +2,4 @@
 title = "०८ आ जनाय"
 
 +++
-आ जना॑य॒ द्रुह्व॑णे॒ पार्थि॑वानि दि॒व्यानि॑ दीपयो॒ऽन्तरि॑क्षा ।  
-तपा॑ वृषन् वि॒श्वतः॑ शो॒चिषा॒ तान् ब्र॑ह्म॒द्विषे॑ शोचय॒ क्षाम॒पश्च॑ ॥८॥  
+Thou for the people who oppress hast kindled the earthly firma- ment and that of heaven. With heat, O Bull, on every side consume them heat earth and flood for him who hates devotion:

@@ -2,5 +2,4 @@
 title = "०५ त्वं ह्य१ङ्ग"
 
 +++
-त्वं ह्य॑१ङ्ग व॑रुण स्वधाव॒न् विश्वा॒ वेत्थ॒ जनि॑म सुप्रणीते ।  
-किं रज॑स ए॒ना प॒रो अ॒न्यद॑स्त्ये॒ना किं परे॒णाव॑रममुर ॥५॥  
+O self-dependent Varuna, wise director, thou knowest verily all generations. What is, unerring one! beyond this region? What more remote than that which is most distant?

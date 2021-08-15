@@ -2,5 +2,4 @@
 title = "०५ अहमस्मि सहमानाथो"
 
 +++
-अ॒हम॑स्मि॒ सह॑मा॒नाथो॒ त्वम॑सि सास॒हिः ।  
-उ॒भे सह॑स्वती भू॒त्वा स॒पत्नीं॑ मे सहावहै ॥५॥  
+I am the conqueror, and thou, thou also art victorious: As victory attends us both we will subdue my fellowwife.

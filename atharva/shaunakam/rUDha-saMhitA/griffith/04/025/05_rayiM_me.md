@@ -2,5 +2,4 @@
 title = "०५ रयिं मे"
 
 +++
-र॒यिं मे॒ पोषं॑ सवि॒तोत वा॒युस्त॒नू दक्ष॒मा सु॑वतां सु॒शेव॑म्।  
-अ॒य॒क्ष्मता॑तिं॒ मह॑ इ॒ह ध॑त्तं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥५॥  
+Of their own selves let Savitar and Vayu send favourable strength and wealth and plenty. Here give us perfect freedom from consumption. Deliver us, ye twain, from grief and trouble.

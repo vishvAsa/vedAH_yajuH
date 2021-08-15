@@ -2,5 +2,4 @@
 title = "०१ इन्द्रो मन्थतु"
 
 +++
-इन्द्रो॑ मन्थतु॒ मन्थि॑ता श॒क्रः शूरः॑ पुरंद॒रः ।  
-यथा॒ हना॑म॒ सेना॑ अ॒मित्रा॑णां सहस्र॒शः ॥१॥  
+Indra the Shaker shake them up, brave, hero, fortdemolisher, That into thousand fragments we may strike the armies of our foes!

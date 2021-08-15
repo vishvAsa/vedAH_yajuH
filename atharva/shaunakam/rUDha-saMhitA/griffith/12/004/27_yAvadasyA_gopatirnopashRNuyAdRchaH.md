@@ -2,5 +2,4 @@
 title = "२७ यावदस्या गोपतिर्नोपशृणुयादृचः"
 
 +++
-याव॑दस्या॒ गोप॑ति॒र्नोप॑शृणु॒यादृचः॑ स्व॒यम्।  
-चरे॑दस्य॒ ताव॒द् गोषु॒ नास्य॑ श्रु॒त्वा गृ॒हे व॑सेत्॥२७॥  
+Long as her owner hath not heard, himself, the verses, let her move Among his kine: when he hath heard, let her not make her home with him;

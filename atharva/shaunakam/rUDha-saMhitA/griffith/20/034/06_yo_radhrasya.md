@@ -2,5 +2,4 @@
 title = "०६ यो रध्रस्य"
 
 +++
-यो र॒ध्रस्य॑ चोदि॒ता यः कृ॒शस्य॒ यो ब्र॒ह्मणो॒ नाध॑मानस्य की॒रेः ।  
-यु॒क्तग्रा॑व्णो॒ योऽवि॒ता सु॑शि॒प्रः सु॒तसो॑मस्य॒ स ज॑नास॒ इन्द्रः॑ ॥६॥  
+Stirrer to action of the poor and lowly, of priest, of suppliant who sings his praises Who, fair-faced, favours him who presseth Soma with stones adjusted, He, O men, is Indra.

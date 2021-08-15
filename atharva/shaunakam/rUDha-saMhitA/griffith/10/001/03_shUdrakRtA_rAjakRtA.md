@@ -2,5 +2,4 @@
 title = "०३ शूद्रकृता राजकृता"
 
 +++
-शू॒द्रकृ॑ता॒ राज॑कृता॒ स्त्रीकृ॑ता ब्र॒ह्मभिः॑ कृ॒ता।  
-जा॒या पत्या॑ नु॒त्तेव॑ क॒र्तारं॒ बन्ध्वृ॑च्छतु ॥३॥  
+Made by a Sidra or a Prince, by priests or women let her go. Back to her maker as her kin, like a dame banished by her lord.

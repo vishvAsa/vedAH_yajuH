@@ -2,4 +2,4 @@
 title = "०२ प्रतीपं प्राति"
 
 +++
-प्र॒ती॒पं प्राति॑ सु॒त्वन॑म्॥२॥  
+These mares come springing forward to Pratipa Pratisutvana. (with previous verse)

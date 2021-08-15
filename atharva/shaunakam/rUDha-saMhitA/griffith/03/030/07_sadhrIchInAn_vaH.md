@@ -2,5 +2,4 @@
 title = "०७ सध्रीचीनान् वः"
 
 +++
-स॒ध्री॒चीना॑न् वः संम॑नसस्कृणो॒म्ये॑क॑श्नुष्टीन्त्सं॒वन॑नेन॒ सर्वा॑न्।  
-दे॒वा इ॑वा॒मृतं॒ रक्ष॑माणाः सा॒यंप्रा॑तः सौमन॒सो वो॑ अस्तु ॥७॥
+With binding charm I make you all united, obeying one sole leader and one-minded. Even as the Gods who watch and guard the Amrit, at morn and eve may ye be kindly-hearted.

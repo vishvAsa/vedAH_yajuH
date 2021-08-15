@@ -2,4 +2,4 @@
 title = "०८ इन्द्र इद्धर्योः"
 
 +++
-इन्द्र॒ इद्धर्योः॒ सचा॒ संमि॑श्ल॒ आ व॑चो॒युजा॑ । इन्द्रो॑ व॒ज्री हि॑र॒ण्ययः॑ ॥८॥  
+Indra hath ever close to him his two bay steeds and word-yoked car, Indra the golden, Thunder-armed.

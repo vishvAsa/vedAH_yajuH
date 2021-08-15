@@ -2,5 +2,4 @@
 title = "०९ अस्ये देव"
 
 +++
-अ॒स्ये दे॒व प्र रि॑रिचे महि॒त्वं दि॒वस्पृ॑थि॒व्याः पर्य॒न्तरि॑क्षात्।  
-स्व॒रालिन्द्रो॒ दम॒ आ वि॒श्वगू॑र्तः स्व॒रिरम॑त्रो ववक्षे॒ रणा॑य ॥९॥  
+Yea, of a truth, his magnitude surpasseth the magnitude of earth, mid-air and heaven. Indra whom all men praise, the Sovran Ruler, waxed in his home loud-voiced and strong for battle.

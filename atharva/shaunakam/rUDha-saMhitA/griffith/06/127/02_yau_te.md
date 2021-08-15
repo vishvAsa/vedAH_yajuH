@@ -2,5 +2,4 @@
 title = "०२ यौ ते"
 
 +++
-यौ ते॑ बलास॒ तिष्ठ॑तः॒ कक्षे॑ मु॒ष्कावप॑श्रितौ ।  
-वेदा॒हं तस्य॑ भेष॒जं ची॒पुद्रु॑रभि॒चक्ष॑णम्॥२॥  
+Those nerves of thine, Consumption! which stand closely hidden in thy groin I know the balm for that disease: the magic cure is Sipudru.

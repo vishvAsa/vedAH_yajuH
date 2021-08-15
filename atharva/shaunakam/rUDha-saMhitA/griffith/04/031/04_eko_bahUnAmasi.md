@@ -2,5 +2,4 @@
 title = "०४ एको बहूनामसि"
 
 +++
-एको॑ बहू॒नाम॑सि मन्य ईडि॒ता विशं॑विशं यु॒द्धाय॒ सं शि॑शाधि ।  
-अकृ॑त्तरु॒क् त्वया॑ यु॒जा व॒यं द्यु॒मन्तं॒ घोषं॑ विज॒याय॑ कृण्मसि ॥४॥  
+Alone of many thou art worshipped, Manyu: sharpen the spirit of each clan for combat. With thee to aid, O thou of perfect splendour, we raise the glorious battle-shout for conquest.

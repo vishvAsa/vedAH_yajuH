@@ -2,5 +2,4 @@
 title = "०५ यदस्य हृतं"
 
 +++
-यद॑स्य हृ॒तं विहृ॑तं॒ यत् परा॑भृतमा॒त्मनो॑ ज॒ग्धं य॑तम॒त् पि॑शा॒चैः ।  
-तद॑ग्ने वि॒द्वान् पुन॒रा भ॑र॒ त्वं शरी॑रे मां॒समसु॒मेर॑यामः ॥५॥  
+Whatever of his body hath been taken, plundered, borne off, or eaten by Pisachas, This, Agni, knowing it, again bring hither! We give back flesh and spirit to his body.

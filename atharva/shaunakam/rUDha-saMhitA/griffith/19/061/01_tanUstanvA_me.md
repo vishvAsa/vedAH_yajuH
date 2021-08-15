@@ -2,5 +2,4 @@
 title = "०१ तनूस्तन्वा मे"
 
 +++
-त॒नूस्त॒न्वा मे सहे द॒तः सर्व॒मायु॑रशीय ।  
-स्यो॒नं मे॑ सीद पु॒रुः पृ॑णस्व॒ पव॑मानः स्व॒र्गे॥१॥
+May my self remain in my body: may I enjoy the full time of life, Rest thee pleasantly: pour forth abundance, purifying thyself in Svarga.

@@ -2,5 +2,4 @@
 title = "०२ इन्द्रेमं प्रतरं"
 
 +++
-इन्द्रे॒मं प्र॑त॒रं कृ॑धि सजा॒ताना॑मसद् व॒शी।  
-रा॒यस्पोषे॑ण॒ सं सृ॑ज जी॒वात॑वे ज॒रसे॑ नय ॥२॥  
+Advance him, Indra! Let him be ruler of all akin to him. Grant him sufficiency of wealth: guide him to life and length of days.

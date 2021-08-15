@@ -2,5 +2,4 @@
 title = "०३ अनेनेन्द्रो मणिना"
 
 +++
-अ॒नेनेन्द्रो॑ म॒णिना॑ वृ॒त्रम॑हन्न॒नेनासु॑रा॒न् परा॑भावयन्मनी॒षी।  
-अ॒नेना॑जय॒द् द्यावा॑पृथि॒वी उ॒भे इ॒मे अ॒नेना॑जयत् प्र॒दिश॒श्चत॑स्रः ॥३॥  
+With this same Amulet wise Indra routed the Asuras, with this he slaughtered Vritra, With this he won this pair, both Earth and Heaven, and made the sky's four regions his possession.

@@ -2,5 +2,4 @@
 title = "३९ स्तेगो न"
 
 +++
-स्ते॒गो न क्षामत्ये॑षि पृथि॒वीं म॒ही नो॒ वाता॑ इ॒ह वा॑न्तु॒ भूमौ॑ ।
-मि॒त्रो नो॒ अत्र॒ वरु॑णो यु॒जमा॑नो अ॒ग्निर्वने॒ न व्यसृ॑ष्ट॒ शोक॑म्॥३९॥
+O'er the broad land thou goest like a Stega: here on vast earth let breezes blow upon us, Here hath our dear Friend Varuna, united, like Agni in the wood, shot forth his splendour.

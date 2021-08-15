@@ -2,5 +2,4 @@
 title = "०१ इन्द्र ज्येष्ठं"
 
 +++
-इन्द्र॒ ज्येष्ठं॑ न आ भ॑रं॒ ओजि॑ष्ठं॒ पपु॑रि॒ श्रवः॑ ।  
-येने॒मे चि॑त्र वज्रहस्त॒ रोद॑सी॒ ओभे सु॑शिप्र॒ प्राः ॥१॥  
+Bring us, O Indra, name and fame, enriching, mightiest, excellent, Wherewith, O wondrous God, fair-cheeked and thunder-armed, thou hast filled full this earth and heaven.

@@ -2,5 +2,4 @@
 title = "०१ पर्वताद् दिवो"
 
 +++
-पर्व॑ताद् दि॒वो योने॒रङ्गा॑दङ्गात् स॒माभृ॑तम्।  
-शेपो॒ गर्भ॑स्य रेतो॒धाः सरौ॑ प॒र्णमि॒वा द॑धत्॥१॥  
+Let the man, sower of the germ, lay, as a feather on a shaft. Limb drawn from limb, whate'er is culled from cloud and from the womb of heaven.

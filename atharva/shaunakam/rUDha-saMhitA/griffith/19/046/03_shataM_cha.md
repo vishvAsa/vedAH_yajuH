@@ -2,5 +2,4 @@
 title = "०३ शतं च"
 
 +++
-श॒तं च॒ न प्र॒हर॑न्तो नि॒घ्नन्तो॒ न त॑स्ति॒रे।  
-तस्मि॒न्निन्द्रः॒ पर्य॑दत्त॒ चक्षुः॑ प्रा॒णमथो॒ बल॒मस्तृ॑तस्त्वा॒भि र॑क्षतु ॥३॥  
+Indra hath lent the power of sight, and vital breath and strength to this. Whom even a hundred combatants, striking, have failed to over- come. Invincible, let it guard thee well.

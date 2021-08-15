@@ -2,5 +2,4 @@
 title = "०३ अयं मणिर्वरणो"
 
 +++
-अ॒यं म॒णिर्व॑र॒णो वि॒श्वभे॑षजः सहस्रा॒क्षो हरि॑तो हिर॒ण्ययः॑ ।  
-स ते॒ शत्रू॒नध॑रान् पादयाति॒ पूर्व॒स्तान् द॑भ्नुहि॒ ये त्वा॑ द्वि॒षन्ति॑ ॥३॥  
+This charm, this Varana healeth all diseases, bright with a thou- sand eyes and golden glister. This charm shall conquer and cast down thy foemen. Be thou the first to slay the men who hate thee.

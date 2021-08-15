@@ -2,5 +2,4 @@
 title = "०२ वर्च आ"
 
 +++
-वर्च॒ आ धे॑हि मे त॒न्वां॒३ सह॒ ओजो॒ वयो॒ बल॑म्।  
-इ॒न्द्रि॒याय॑ त्वा॒ कर्म॑णे वी॒र्याय॒ प्रति॑ गृह्णामि श॒तशा॑रदाय ॥२॥  
+For mighty strength, for action, I receive thee, for manly power, to last a hundred autumns.

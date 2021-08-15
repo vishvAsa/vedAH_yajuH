@@ -2,5 +2,4 @@
 title = "०५ इदं सवितर्वि"
 
 +++
-इ॒दं स॑वित॒र्वि जा॑नीहि॒ षड् य॒मा एक॑ एक॒जः ।  
-तस्मि॑न् हापि॒त्वमि॑छन्ते॒ य ए॑षा॒मेक॑ एक॒जः ॥५॥  
+Discern thou this, O Savitar. Six are the twins, one singly born. They claim relationship in that among them which is born alone.

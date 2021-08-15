@@ -2,5 +2,4 @@
 title = "०४ स हि"
 
 +++
-स हि दि॒वः स पृ॑थि॒व्या ऋ॑त॒स्था म॒ही क्षेमं॒ रोद॑सी अस्कभायत्।  
-म॒हान् म॒ही अस्क॑भाय॒द् वि जा॒तो द्यां सद्म॒ पार्थि॑वं च॒ रज॑ ॥४॥  
+For he, true to the law of Earth and Heaven, established both the mighty worlds securely. Mighty when born, he propped apart the mighty, the sky, our earthly home, and air's mid-region.

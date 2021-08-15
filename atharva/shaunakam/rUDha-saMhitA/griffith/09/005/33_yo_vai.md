@@ -2,7 +2,4 @@
 title = "३३ यो वै"
 
 +++
-यो वै सं॒यन्तं॒ नाम॒र्तुं वेद॑ । सं॒य॒तींसं॑यतीमे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रिय॒मा द॑त्ते ।  
-ए॒ष वै सं॒यन्नाम॒र्तुर्यद॒जः पञ्चौ॑दनः ।  
-निरे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रियं॑ दहति॒ भव॑त्या॒त्मना॑।  
-यो॒३जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥३३॥  
+The man who knows the season called the Meeting takes to him- self the gathering fame, his hated rival's gathering fame. The Goat Panchaudana is this Meeting season.

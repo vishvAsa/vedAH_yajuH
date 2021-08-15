@@ -2,5 +2,4 @@
 title = "३१ इमा नारीरविधवाः"
 
 +++
-इ॒मा नारी॑रविध॒वाः सु॒पत्नी॒राञ्ज॑नेन स॒र्पिषा॒ सं स्पृ॑शन्ताम्।  
-अ॒न॒श्रवो॑ अनमी॒वाः सु॒रत्ना॒ आ रो॑हन्तु॒ जन॑यो॒ योनि॒मग्रे॑ ॥३१॥  
+Let these unwidowed dames with goodly husbands adorn them- selves with fragrant balm and unguent, Decked with fair jewels, tearless, sound and healthy, first let the dames go up to where he lieth.

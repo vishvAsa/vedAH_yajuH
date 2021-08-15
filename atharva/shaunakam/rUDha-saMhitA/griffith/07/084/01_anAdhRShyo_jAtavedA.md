@@ -2,5 +2,4 @@
 title = "०१ अनाधृष्यो जातवेदा"
 
 +++
-अ॒ना॒धृ॒ष्यो जा॒तवे॑दा॒ अम॑र्त्यो वि॒राड॑ग्ने क्षत्र॒भृद् दी॑दिही॒ह।  
-विश्वा॒ अमी॑वाः प्रमु॒ञ्चन् मानु॑षीभिः शि॒वाभि॑र॒द्य परि॑ पाहि नो॒ गय॑म्॥१॥  
+Holder of sway, shine here refulgent, Agni! invincible immortal Jatavedas. With succours friendly to mankind, auspicious, driving away all maladies, guard our dwelling.

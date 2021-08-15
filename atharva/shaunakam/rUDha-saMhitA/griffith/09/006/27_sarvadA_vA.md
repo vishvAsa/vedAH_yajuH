@@ -2,4 +2,4 @@
 title = "२७ सर्वदा वा"
 
 +++
-स॒र्व॒दा वा ए॒ष यु॒क्तग्रा॑वा॒र्द्रप॑वित्रो॒ वित॑ताध्वर॒ आहृ॑तयज्ञक्रतु॒र्य उ॑पहर॑ति ।१०। २७॥  
+The man who supplies food hath always pressing stones adjusted, a wet Soma filter, well prepared religious rites, and mental power to complete the arranged sacrifice.

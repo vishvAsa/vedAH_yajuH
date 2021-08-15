@@ -2,4 +2,4 @@
 title = "३१ ओदन एवौदनं"
 
 +++
-ओ॒द॒न ए॒वौद॒नं प्राशी॑त् ॥३१॥  
+The Odana has just eaten the Odana. 2

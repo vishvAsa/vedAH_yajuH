@@ -2,5 +2,4 @@
 title = "०५ अपपापं परिक्षवं"
 
 +++
-अ॒प॒पा॒पं प॑रिक्ष॒वं पुण्यं॑ भक्षी॒महि॒ क्षव॑म्।  
-शि॒वा ते॑ पाप॒ नासि॑कां॒ पुण्य॑गश्चा॒भि मे॑हताम्॥५॥  
+May we escape an evil sneeze, enjoy the sneeze of happy luck, And may our nostrils smelling what is pleasant pour forth fragrant scent.

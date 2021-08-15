@@ -2,5 +2,4 @@
 title = "१२ अभिक्रन्दन् स्तनयन्नरुणः"
 
 +++
-अ॒भि॒क्रन्द॑न् स्त॒नय॑न्नरु॒णः शि॑ति॒ङ्गो बृ॒हच्छेपोऽनु॒ भूमौ॑ जभार ।  
-ब्र॒ह्म॒चा॒री सि॑ञ्चति॒ सानौ॒ रेतः॑ पृथि॒व्यां तेन॑ जीवन्ति प्र॒दिश॒श्चत॑स्रः ॥१२॥  
+Thundering, shouting, ruddy-hued, and pallid, he bears along the earth great manly vigour. Down on the ridge of earth the Brahmachari pours seed, and this gives life to heaven's four regions.

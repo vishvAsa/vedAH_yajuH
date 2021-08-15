@@ -2,5 +2,4 @@
 title = "१० हिमेव पर्णा"
 
 +++
-हि॒मेव॑ प॒र्णा मु॑षि॒ता वना॑नि॒ बृह॒स्पति॑नाकृपयद् व॒लो गाः ।  
-अ॒ना॒नु॒कृ॒त्यम॑पु॒नश्च॑कार॒ यात् सूर्या॒मासा॑ मि॒थ उ॒च्चरा॑तः ॥१०॥  
+As trees for foliage robbed by winter, Vala mourned for the cows Brihaspati had taken. He did a deed ne'er done, ne'er to be equalled, whereby the sun and moon ascend alternate.

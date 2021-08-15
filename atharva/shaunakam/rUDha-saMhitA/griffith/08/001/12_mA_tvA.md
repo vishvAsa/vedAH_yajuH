@@ -2,6 +2,4 @@
 title = "१२ मा त्वा"
 
 +++
-मा त्वा॑ क्र॒व्याद॒भि मं॑स्ता॒रात् संक॑सुकाच्चर।  
-रक्ष॑तु त्वा॒ द्यौ रक्ष॑तु पृथि॒वी सूर्य॑श्च त्वा॒ रक्ष॑तां च॒न्द्रमा॑श्च ।  
-अ॒न्तरि॑क्षं रक्षतु देवहे॒त्याः ॥१२॥  
+Let not the Flesh-Consumer plot against thee: depart thou far away from the Destroyer. Be Heaven and Earth and Sun and Moon thy keepers, and from the dart of Gods may Air protect thee.

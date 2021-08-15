@@ -2,5 +2,4 @@
 title = "१५ सिंहस्येव स्तनथोः"
 
 +++
-सिं॒हस्ये॑व स्त॒नथोः॒ सं वि॑जन्ते॒ऽग्नेरि॑व विजन्त॒ आभृ॑ताभ्यः ।  
-गवां॒ यक्ष्मः॒ पुरु॑षाणां वी॒रुद्भि॒रति॑नुत्तो ना॒व्याऽएतु स्रो॒त्याः ॥१५॥  
+Before the gathered Plants they fly and scatter, as though a lion's roar or fire dismayed them. Expelled by Plants, let men's and kine's Consumption pass from us to the navigable rivers.

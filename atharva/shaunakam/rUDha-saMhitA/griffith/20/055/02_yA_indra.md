@@ -2,5 +2,4 @@
 title = "०२ या इन्द्र"
 
 +++
-या इ॑न्द्र॒ भुज॒ आभ॑रः॒ स्वर्वां॒ असु॑रेभ्यः ।  
-स्तो॒तार॒मिन्म॑घवन्नस्य वर्धय॒ ये च॒ त्वे वृ॒क्तब॑र्हिषः ॥२॥  
+Indra, what joys as Lord of Light thou broughtest from the Asuras, Prosper therewith, O Maghavan, him who lauds that deed, and those whose grass is trimmed for thee.

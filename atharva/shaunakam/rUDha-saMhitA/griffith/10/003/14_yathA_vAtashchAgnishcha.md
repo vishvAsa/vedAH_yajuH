@@ -2,5 +2,4 @@
 title = "१४ यथा वातश्चाग्निश्च"
 
 +++
-यथा॒ वात॑श्चा॒ग्निश्च॑ वृ॒क्षान् प्सा॒तो वन॒स्पती॑न्।  
-ए॒वा स॒पत्ना॑न् मे प्साहि॒ पूर्वान् जा॒तां उ॒ताप॑रान् वर॒णस्त्वा॒भि र॑क्षतु ॥१४॥  
+As Agni and the wind devour the trees, the sovrans of the wood, Even so devour my rivals, born before me and born after. Let the Varana protect thee well.

@@ -2,5 +2,4 @@
 title = "०१ इन्द्रः सुत्रामा"
 
 +++
-इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒ अवो॑भिः सुमृडी॒को भ॑वतु वि॒श्ववे॑दाः ।  
-बाध॑तां॒ द्वेषो॒ अभ॑यं नः कृणोतु सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥१॥
+May Indra with his help, Lord of all treasures, be unto us a careful protector. Drive off our foes and give us peace and safety. May we be lords of goodly store of heroes.

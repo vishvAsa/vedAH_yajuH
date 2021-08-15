@@ -2,5 +2,4 @@
 title = "०९ एतौ ग्रावाणौ"
 
 +++
-ए॒तौ ग्रावा॑णौ स॒युजा॑ युङ्ग्धि॒ चर्म॑णि॒ निर्भि॑न्ध्यं॒शून् यज॑मानाय सा॒धु।  
-अ॒व॒घ्न॒ती नि ज॑हि॒ य इ॒मां पृ॑त॒न्यव॑ ऊ॒र्ध्वं प्र॒जामु॒द्भर॒न्त्युदू॑ह ॥९॥  
+Fix on the skin these two joined press-stones, duly rending the fibres for the sacrificer. Strike down and slay those who assail this woman, and elevating raise on high her offspring.

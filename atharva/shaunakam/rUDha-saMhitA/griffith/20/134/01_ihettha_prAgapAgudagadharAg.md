@@ -2,4 +2,4 @@
 title = "०१ इहेत्थ प्रागपागुदगधराग्"
 
 +++
-इ॒हेत्थ प्रागपा॒गुद॑ग॒धरा॒ग् – अरा॑ला॒गुद॑भर्त्सथ ॥१॥  
+Here are we sitting east and west and north and south, with waters. Bottle-gourd vessels.

@@ -2,5 +2,4 @@
 title = "०२ शतानीकेव प्र"
 
 +++
-श॒तानी॑केव॒ प्र जि॑गाति धृष्णु॒या हन्ति॑ वृ॒त्राणि॑ दा॒शुषे॑ ।  
-गि॒रेरि॑व॒ प्र रसा॑ अस्य पिन्विरे॒ दत्रा॑णि पुरु॒भोज॑सः ॥२॥  
+As with a hundred hosts he rushes boldly on, and for the offerer slays his foes. As from a mountain flow the water-brooks, thus flow his gifts who feedeth many a one.

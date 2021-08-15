@@ -2,5 +2,4 @@
 title = "०४ मधोरस्मि मधुतरो"
 
 +++
-मधो॑रस्मि॒ मधु॑तरो म॒दुघा॒न्मधु॑मत्तरः ।  
-मामित् किल॒ त्वं वनाः॒ शाखां॒ मधु॑मतीमिव ॥४॥  
+Sweeter am I than honey, yet more full of sweets than licorice: So mayst thou love me as a branch full of all sweets, and only me.

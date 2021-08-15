@@ -2,5 +2,4 @@
 title = "३१ प्र यच्छ"
 
 +++
-प्र य॑च्छ॒ पर्शुं॑ त्व॒रया ह॑रौ॒समहिं॑सन्त॒ ओष॑धीर्दान्तु॒ पर्व॑न्।  
-यासां॒ सोमः॒ परि॑ रा॒ज्यं ब॒भूवाम॑न्युता नो वी॒रुधो॑ भवन्तु ॥३१॥  
+Present the sickle: quickly bring it hither. Let them out plants and joints with hands that harm not. So may the plants be free from wrath against us, they o'er whose realm Soma hath won dominion.

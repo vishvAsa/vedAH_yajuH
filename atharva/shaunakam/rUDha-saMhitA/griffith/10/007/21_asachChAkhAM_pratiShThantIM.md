@@ -2,5 +2,4 @@
 title = "२१ असच्छाखां प्रतिष्ठन्तीं"
 
 +++
-अ॒स॒च्छा॒खां प्र॒तिष्ठ॑न्तीं पर॒ममि॑व॒ जना॑ विदुः ।  
-उ॒तो सन्म॑न्य॒न्तेऽव॑रे॒ ये ते॒ शाखा॑मु॒पास॑ते ॥२१॥  
+Men count as 'twere a thing supreme nonentity's conspicuous branch; And lower man who serve thy branch regard it as an entity.

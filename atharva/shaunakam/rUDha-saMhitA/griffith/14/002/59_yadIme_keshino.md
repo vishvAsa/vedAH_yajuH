@@ -2,5 +2,4 @@
 title = "५९ यदीमे केशिनो"
 
 +++
-यदी॒मे के॒शिनो॒ जना॑ गृ॒हे ते॑ स॒मन॑र्तिषू॒ रोदे॑न कृण्व॒न्तो॒३घम्।  
-अ॒ग्निष्ट्वा॒ तस्मा॒देन॑सः सवि॒ता च॒ प्र मु॑ञ्चताम्॥५९॥  
+If, wearing long loose hair, these men have danced together in thy house, committing sin with shout and cry, May Agni free thee from that guilt, may Savitar deliver thee,

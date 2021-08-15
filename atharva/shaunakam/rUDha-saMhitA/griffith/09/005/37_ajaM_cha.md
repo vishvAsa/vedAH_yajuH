@@ -2,5 +2,4 @@
 title = "३७ अजं च"
 
 +++
-अ॒जं च॒ पच॑त॒ पञ्च॑ चौद॒नान्।  
-सर्वा॒ दिशः॒ संम॑नसः स॒ध्रीचीः॒ सान्त॑र्देशाः॒ प्रति॑ गृह्णन्तु त ए॒तम्॥३७॥  
+He cooks the Goat and the five boiled rice messes. May the uni- ted Quarters, all accordant, and intermediate points, accept him from thee.

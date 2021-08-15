@@ -2,5 +2,4 @@
 title = "०४ अवो द्वाभ्यां"
 
 +++
-अ॒वो द्वाभ्यां॑ प॒र एक॑या॒ गा गुहा॒ तिष्ठ॑न्ती॒रनृ॑तस्य॒ सेतौ॑ ।  
-बृह॒स्पति॒स्तम॑सि॒ ज्योति॑रि॒च्छन्नुदु॒स्रा आक॒र्वि हि ति॒स्र आवः॑ ॥४॥  
+Apart from one, away from two above him, he draye the kine that stood in bonds of falsehood. Brihaspati, seeking light amid the darkness, draye forth the bright cows: three he made apparent.

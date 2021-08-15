@@ -2,6 +2,4 @@
 title = "०९ इदं सु"
 
 +++
-इ॒दं सु मे॑ नरः शृणुत॒ यया॒शिषा॒ दंप॑ती वा॒मम॑श्नु॒तः ।  
-ये ग॑न्ध॒र्वा अ॑प्स॒रस॑श्च दे॒वीरे॒षु वा॑नस्प॒त्येषु॒ येऽधि॑ त॒स्थुः ।  
-स्यो॒नास्ते॑ अ॒स्यै व॒ध्वै भ॑वन्तु॒ मा हिं॑सिषुर्वह॒तुमु॒ह्यमा॑नम्॥९॥  
+Here these my words, ye men, the benediction through which the wedded pair have found high fortune. May the divine Apsarases, Gandharvas, all they who are these fruitful trees' protectors, Regard this bride with their auspicious, favour, nor harm the nuptial pomp as it advances.

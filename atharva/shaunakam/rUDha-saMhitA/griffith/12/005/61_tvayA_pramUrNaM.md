@@ -2,4 +2,4 @@
 title = "६१ त्वया प्रमूर्णं"
 
 +++
-त्वया॒ प्रमू॑र्णं मृदि॒तम॒ग्निर्द॑हतु दु॒श्चित॑म्॥६१॥  
+Let Agni burn the spiteful wretch when crushed to death and slain by thee.

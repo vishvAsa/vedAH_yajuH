@@ -2,5 +2,4 @@
 title = "०१ यत् स्वप्ने"
 
 +++
-यत् स्वप्ने॒ अन्न॑म॒श्नामि॒ न प्रा॒तर॑धिग॒म्यते॑ ।  
-सर्वं॒ तद॑स्तु मे शि॒वं न॒हि तद् दृ॒ष्यते॒ दिवा॑ ॥१॥
+The food that in a dream I eat is not perceived at early morn. May all that food be blest to me because it is not seen by day.

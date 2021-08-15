@@ -2,4 +2,4 @@
 title = "०९ तामासन्दीं व्रात्य"
 
 +++
-तामा॑स॒न्दीं व्रात्य॒ आरो॑हत्॥९॥  
+The Vratya ascended that couch.

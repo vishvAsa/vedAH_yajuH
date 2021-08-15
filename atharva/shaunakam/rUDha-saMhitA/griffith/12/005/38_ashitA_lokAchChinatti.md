@@ -2,4 +2,4 @@
 title = "३८ अशिता लोकाच्छिनत्ति"
 
 +++
-अ॒शि॒ता लो॒काच्छि॑नत्ति ब्रह्मग॒वी ब्र॑ह्म॒ज्यम॒स्माच्चा॒मुष्मा॑च्च ॥३८॥  
+The Brahman's cow when eaten cuts off the injurer of Brahmans both from this world and from the world yonder.

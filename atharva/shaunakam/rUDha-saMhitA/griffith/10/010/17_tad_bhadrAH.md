@@ -2,5 +2,4 @@
 title = "१७ तद् भद्राः"
 
 +++
-तद् भ॒द्राः सम॑गच्छन्त व॒शा देष्ट्र्यथो॑ स्व॒धा।  
-अथ॑र्वा॒ यत्र॑ दीक्षि॒तो ब॒र्हिष्यास्त॑ हिर॒ण्यये॑ ॥१७॥  
+Then came and met the Blessed Ones, Deshtri, the Cow, and Svadha, where Atharvan, consecrated. sate upon the Sacred Grass of gold.

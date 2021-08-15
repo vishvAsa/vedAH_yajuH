@@ -2,5 +2,4 @@
 title = "०५ यस्य नेशे"
 
 +++
-यस्य॒ नेशे॑ य॒ज्ञप॑ति॒र्न य॒ज्ञो नास्य॑ दा॒तेशे॒ न प्र॑तिग्रही॒ता।  
-यो वि॑श्व॒जिद् वि॑श्व॒भृद् वि॒श्क॑र्मा घ॒र्मं नो॑ ब्रूत यत॒मश्चतु॑ष्पात्॥५॥  
+That which not sacrifice nor sacrificer, not giver nor receiver rules and governs, All-winning, all-supporting, all-effecting,--which of all quadru- peds, tell us! is the Caldron?

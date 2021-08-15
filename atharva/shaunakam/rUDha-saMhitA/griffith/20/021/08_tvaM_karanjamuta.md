@@ -2,5 +2,4 @@
 title = "०८ त्वं करञ्जमुत"
 
 +++
-त्वं कर॑ञ्जमु॒त प॒र्णयं॑ वधी॒स्तेजि॑ष्ठयातिथि॒ग्वस्य॑ वर्त॒नी।  
-त्वं श॒ता वङ्गृ॑दस्याभिन॒त् पुरो॑ऽनानु॒दः परि॑षूता ऋ॒जिश्व॑ना ॥८॥  
+Thou hast stuck down in death Karanja, Parnaya, in Atithigva's very glorious going forth: Unyielding, when Rijisvan compassed them with siege, thou hast destroyed the hundred towns of Vangrida.

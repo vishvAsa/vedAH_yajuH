@@ -2,5 +2,4 @@
 title = "०६ ये कीलालेन"
 
 +++
-ये की॒लाले॑न त॒र्पय॑थो॒ ये घृ॒तेन॒ याभ्या॑मृ॒ते न किं च॒न श॑क्नु॒वन्ति ।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥६॥  
+Ye who delight in nectar and in fatness, ye without whom men have no strength or power, To me, O Heaven and Earth, be ye auspicious. Deliver us, ye twain, from grief and trouble.

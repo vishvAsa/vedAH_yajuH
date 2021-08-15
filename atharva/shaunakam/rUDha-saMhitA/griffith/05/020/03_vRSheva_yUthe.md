@@ -2,5 +2,4 @@
 title = "०३ वृषेव यूथे"
 
 +++
-वृषे॑व यू॒थे सह॑सा विदा॒नो ग॒व्यन्न॒भि रु॑व संधनाजित्।  
-शु॒चा वि॑ध्य॒ हृद॑यं॒ परे॑षां हि॒त्वा ग्रामा॒न् प्रच्यु॑ता यन्तु॒ शत्र॑वः ॥३॥  
+Like a bull marked by strength among the cattle, roar seeking kine and gathering up the booty. Pierce through our adversaries' heart with sorrow, and let our routed foes desert their hamlets.

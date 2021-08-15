@@ -2,5 +2,4 @@
 title = "१० ये त"
 
 +++
-ये त आस॒न् दश॑ जा॒ता दे॒वा दे॒वेभ्यः॑ पु॒रा।  
-पु॒त्रेभ्यो॑ लो॒कं द॒त्त्वा कस्मिं॒स्ते लो॒क आ॑सते ॥१०॥  
+Those Gods who were of old, the Ten begotten earlier than the Gods, What world do they inhabit since they gave the world unto their sons?

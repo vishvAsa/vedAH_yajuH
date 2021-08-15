@@ -2,5 +2,4 @@
 title = "०२ पुनः प्राणः"
 
 +++
-पुनः॑ प्रा॒णः पुन॑रा॒त्मा न॒ ऐतु॒ पुन॒श्चक्षुः॒ पुन॒रसु॑र्न॒ ऐतु॑ ।  
-वै॒श्वा॒न॒रो नो॒ अद॑ब्धस्तनू॒पा अ॒न्तस्ति॑ष्ठाति दुरि॒तानि॒ विश्वा॑ ॥२॥  
+Again return to us our breath and spirit, again come back to us our life and vision! Vaisvanara, unscathed, our bodies' guardian, stand between us and every woe and danger!

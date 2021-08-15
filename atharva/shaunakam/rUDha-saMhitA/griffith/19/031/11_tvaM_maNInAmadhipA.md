@@ -2,5 +2,4 @@
 title = "११ त्वं मणीनामधिपा"
 
 +++
-त्वं म॑णी॒नाम॑धि॒पा वृषा॑सि॒ त्वयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्जजान ।  
-त्वयी॒मे वाजा॒ द्रवि॑णानि॒ सर्वौदु॑म्बरः॒ स त्वम॒स्मत् स॑हस्वा॒रादरा॑ति॒मम॑तिं॒ क्षुधं॑ च॥११॥  
+The Lord of amulets art thou, most mighty: in thee wealth's ruler hath engendered riches, These gains are lodged in thee, and all great treasures. Amulet, conquer thou: far from us banish malignity and indigence, and hunger.

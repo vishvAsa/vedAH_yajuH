@@ -2,5 +2,4 @@
 title = "०२ अमन्महीदनाशवोऽनुग्रासश्च वृत्रहन्"
 
 +++
-अम॑न्म॒हीद॑ना॒शवो॑ऽनु॒ग्रास॑श्च वृत्रहन्।  
-सु॒कृत्सु ते॑ मह॒ता शू॑र॒ राध॒सानु॒ स्तोमं॑ मुदीमहि ॥२॥
+O Vritra slayer, we were thought slow and unready for the fray: Yet once in thy great bounty may we have delight, O Hero, after praising thee.

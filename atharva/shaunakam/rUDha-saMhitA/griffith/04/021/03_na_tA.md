@@ -2,5 +2,4 @@
 title = "०३ न ता"
 
 +++
-न ता न॑शन्ति॒ न द॑भाति॒ तस्क॑रो॒ नासा॑मामि॒त्रो व्य॒थिरा द॑धर्षति ।  
-दे॒वांश्च याभि॒र्यज॑ते॒ ददा॑ति च॒ ज्योगित् ताभिः॑ सचते॒ गोप॑तिः स॒ह॥३॥  
+These are ne'er lost, no robber ever injures them: no evil-minded foe attempts to harass them. The master of the kine lives a long life with these, the Cows whereby he pours his gifts and serves the Gods.

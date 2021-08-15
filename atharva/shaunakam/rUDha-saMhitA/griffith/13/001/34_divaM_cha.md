@@ -2,5 +2,4 @@
 title = "३४ दिवं च"
 
 +++
-दिवं॑ च॒ रो॑ह पृथि॒वीं च॑ रोह रा॒ष्ट्रं च॒ रोह॒ द्रवि॑णं च रोह ।  
-प्र॒जां च॒ रोहा॒मृतं॑ च रोह॒ रोहि॑तेन त॒न्वं॑१ सं स्पृ॑शस्व ॥३४॥  
+Rise up to earth, rise up to heaven above it; rise up to opulence, rise up to kingship. Rise up to offspring, rise to life immortal; rise, and with Rohita unite thy body.

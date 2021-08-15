@@ -2,5 +2,4 @@
 title = "०१ शमीमश्वत्थ आरूढस्तत्र"
 
 +++
-श॒मीम॑श्व॒त्थ आरू॑ढ॒स्तत्र॑ पुं॒सु॑व॑नं कृ॒तम्।  
-तद् वै पु॒त्रस्य॒ वेद॑नं॒ तत् स्त्री॒ष्वा भ॑रामसि ॥१॥  
+Asvattha on the Sami-tree. There a male birth is certified. There is the finding of a son: this bring we to the women-folk.

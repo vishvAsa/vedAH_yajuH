@@ -2,5 +2,4 @@
 title = "१५ सूर्यो देवीमुषसं"
 
 +++
-सूर्यो॑ दे॒वीमु॒षसं॒ रोच॑मानां॒ मर्यो॒ न योषा॑म॒भ्येति प॒श्चात्।  
-यत्रा॒ नरो॑ देव॒यन्तो॑ यु॒गानि॑ वितन्व॒ते प्रति॑ भ॒द्राय॑ भ॒द्रम्॥१५॥
+Even as a lover followeth a maiden, so doth the Sun the Dawn, refulgent Goddess: Where pious men extend their generations before the Gracious One for happy fortune.

@@ -2,4 +2,4 @@
 title = "११ ऐनं निकामो"
 
 +++
-ऐनं॑ निका॒मो ग॑च्छति निका॒मे नि॑का॒मस्य॑ भवति॒ य ए॒वं वेद॑ ॥११॥
+His desire comes to him who possesses this knowledge and he gains the complete satisfaction of his wish.

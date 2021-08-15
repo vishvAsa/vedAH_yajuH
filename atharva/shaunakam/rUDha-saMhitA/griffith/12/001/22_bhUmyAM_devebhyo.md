@@ -2,6 +2,4 @@
 title = "२२ भूम्यां देवेभ्यो"
 
 +++
-भूम्यां॑ दे॒वेभ्यो॑ ददति य॒ज्ञं ह॒व्यमरं॑कृतम्।  
-भूम्यां॑ मनु॒ष्याऽ जीवन्ति स्व॒धयान्ने॑न॒ मर्त्याः॑ ।  
-सा नो॒ भूमिः॑ प्रा॒णमायु॑र्दधातु ज॒रद॑ष्टिं मा पृथि॒वी कृ॑णोतु ॥२२॥  
+On earth they offer sacrifice and dressed oblation to the Gods. Men, mortals, live upon the earth by food in their accustomed way. May that Earth grant us breath and vital power. Prithivi give me life of long duration!

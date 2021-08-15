@@ -2,4 +2,4 @@
 title = "०३ सन इन्द्रः"
 
 +++
-सन॒ इन्द्रः॑ शि॒वः सखाश्वा॑व॒द् गोम॒द् यव॑मत्। उ॒रुधा॑रेव दोहते ॥३॥  
+This Indra is our gracious Friend. He sends us in a full broad stream Riches in horses, kine, and corn.

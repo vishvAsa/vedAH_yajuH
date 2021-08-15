@@ -2,5 +2,4 @@
 title = "०३ यदिन्द्र ब्रह्मणस्पतेऽपि"
 
 +++
-यदि॑न्द्र ब्रह्मणस्प॒तेऽपि॒ मृषा॒ चरा॑मसि ।  
-प्रचे॑ता न आङ्गिर॒सो दु॑रि॒तात् पा॒त्वंह॑सः ॥३॥
+Indra and Brahmanaspati! whatever foolish deed we plan, May provident Angirasa preserve us from the sin and woe.

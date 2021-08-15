@@ -2,5 +2,4 @@
 title = "०१ अयं प्रतिसरो"
 
 +++
-अ॒यं प्र॑तिस॒रो म॒णिर्वी॒रो वी॒राय॑ बध्यते ।  
-वी॒र्यऽवान्त्सपत्न॒हा शूर॑वीरः परि॒पाणः॑ सुम॒ङ्गलः॑ ॥१॥  
+Upon the strong is bound the strong, this magic cord, this Amu- let, Potent, foe-slayer, served by valiant heroes, happy and fortu- nate defence.

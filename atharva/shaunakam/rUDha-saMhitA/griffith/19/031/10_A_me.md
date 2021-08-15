@@ -2,5 +2,4 @@
 title = "१० आ मे"
 
 +++
-आ मे॒ धनं॒ सर॑स्वती॒ पय॑स्फातिं च धा॒न्यऽम्।  
-सि॒नी॒वा॒ल्युपा॑ वहाद॒यं चौदु॑म्बरो म॒णिः ॥१०॥  
+Sarasvati vouchsafe me wealth, household prosperity, and corn! Let Sinivali bring them, and this Amulet of Udumbara.

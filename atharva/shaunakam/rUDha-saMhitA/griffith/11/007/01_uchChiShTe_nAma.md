@@ -2,5 +2,4 @@
 title = "०१ उच्छिष्टे नाम"
 
 +++
-उच्छि॑ष्टे॒ नाम॑ रू॒पं चोच्छि॑ष्टे लो॒क आहि॑तः ।  
-उच्छि॑ष्ट॒ इन्द्र॑श्चा॒ग्निश्च॒ विश्व॑म॒न्तः स॒माहि॑तम्॥१॥  
+The Residue of Sacrifice containeth name, and from, and world: Indra and Agni and the whole universe are comprised therein.

@@ -2,5 +2,4 @@
 title = "०२ उदुषा उदु"
 
 +++
-उदु॒षा उदु॒ सूर्य॒ उदि॒दं मा॑म॒कं वचः॑ ।  
-उदे॑जतु प्र॒जाप॑ति॒र्वृषा॒ शुष्मे॑ण वा॒जिना॑ ॥२॥  
+Let Ushas and let Surya rise, let this the speech I utter rise. Let the strong male Prajapati arise with manly energy.

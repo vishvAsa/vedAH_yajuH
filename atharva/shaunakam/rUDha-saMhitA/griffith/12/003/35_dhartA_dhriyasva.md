@@ -2,5 +2,4 @@
 title = "३५ धर्ता ध्रियस्व"
 
 +++
-ध॒र्ता ध्रि॑यस्व ध॒रुणे॑ पृथि॒व्या अच्यु॑तं त्वा दे॒वता॑श्च्यावयन्तु ।  
-तं त्वा॒ दंप॑ती॒ जीव॑न्तौ जी॒वपु॑त्रा॒वुद् वा॑सयातः॒ पर्य॑ग्नि॒धाना॑त्॥३५॥  
+On the earth's breast stand firmly as supporter: may Deities stir thee who ne'er hast shaken. So living man and wife with living children remove thee from the hearth of circling Agni.

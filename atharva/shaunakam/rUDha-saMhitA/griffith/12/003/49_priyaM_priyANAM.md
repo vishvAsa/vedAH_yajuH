@@ -2,5 +2,4 @@
 title = "४९ प्रियं प्रियाणां"
 
 +++
-प्रि॒यं प्रि॒याणां॑ कृणवाम॒ तम॒स्ते य॑न्तु यत॒मे द्वि॒षन्ति॑ ।  
-धे॒नुर॑न॒ड्वान् वयो॑वय आ॒यदे॒व पौरु॑षेय॒मप॑ मृ॒त्युं नु॑दन्तु ॥४९॥  
+To those we love may we do acts that please them. Away to darkness go all those who hate us! Cow, ox, and strength of every kind approach us! Thus let them banish death of human beings.

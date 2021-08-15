@@ -2,4 +2,4 @@
 title = "०२ सत्तो होता"
 
 +++
-स॒त्तो होता॑ न ऋ॒त्विय॑स्तिस्ति॒रे ब॒र्हिरा॑नु॒षक्। अयु॑ज्रन् प्रा॒तरद्र॑यः ॥२॥  
+Our priest is seated true to time; the grass is regularly strewn; The pressing-stones were set at morn.

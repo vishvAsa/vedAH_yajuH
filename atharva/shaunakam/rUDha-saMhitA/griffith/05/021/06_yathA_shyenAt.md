@@ -2,5 +2,4 @@
 title = "०६ यथा श्येनात्"
 
 +++
-यथा॑ श्ये॒नात् प॑त॒त्रिणः॑ संवि॒जन्ते॒ अह॑र्दिवि सिं॒हस्य॑ स्त॒नथो॒र्यथा॑ ।  
-ए॒वा त्वं दु॑न्दुभे॒ऽमित्रा॑न॒भि क्र॑न्द॒ प्र त्रा॑स॒याथो॑ चि॒त्तानि॑ मोहय ॥६॥  
+As birds of air, day after day, fly in wild terror from the hawk, as from a roaring lion's voice, Even so do thou, O Drum, roar out against our foes to frighten them, and then bewilder thou their thoughts.

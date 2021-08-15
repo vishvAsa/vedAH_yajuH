@@ -2,4 +2,4 @@
 title = "०४ रारन्धि सवनेषु"
 
 +++
-रा॒र॒न्धि सव॑नेषु ण ए॒षु स्तोमे॑षु वृत्रहन्। उ॒क्थेष्वि॑न्द्र गिर्वणः ॥४॥  
+O Vritra-slayer, be thou pleased with these libations, with these hymns, Song-loving Indra, with our lauds.

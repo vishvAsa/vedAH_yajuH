@@ -2,5 +2,4 @@
 title = "२७ अपो देवी"
 
 +++
-अ॒पो दे॒वी र्मधु॑मतीर्घृत॒श्चुतो॑ ब्र॒ह्मणां॒ हस्ते॑षु प्रपृ॒थक् सा॑दयामि ।  
-यत् का॑म इ॒दम॑भिषि॒ञ्चामि॑ वो॒ऽहं तन्मे॒ सर्वं॒ सं प॑द्यतां व॒यं स्या॑म॒ पत॑यो रयी॒णाम्॥२७॥
+In the priest's hands I lay, in separate order, the sweet celestial Waters, dropping fatness. As here I sprinkle them may all my wishes be granted unto me in perfect fulness. May we have ample wealth in our posses- sion.

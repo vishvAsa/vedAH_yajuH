@@ -2,5 +2,4 @@
 title = "०१ यातं छर्दिष्पा"
 
 +++
-या॒तं छ॑र्दि॒ष्पा उ॒त नः॑ पर॒स्पा भू॒तं ज॑ग॒त्पा उ॒त न॑स्तनू॒पा।  
-व॒र्तिस्तो॒काय॒ तन॑याय यातम्॥१॥  
+Come as home-guardians, saving us from foemen, guarding our living creatures and our bodies, Come to the house to give us seed and offspring:

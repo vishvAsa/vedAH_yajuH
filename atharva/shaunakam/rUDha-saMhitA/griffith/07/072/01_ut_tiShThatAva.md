@@ -2,5 +2,4 @@
 title = "०१ उत् तिष्ठताव"
 
 +++
-उत् ति॑ष्ठ॒ताव॑ पश्य॒तेन्द्र॑स्य भा॒गमृ॒त्विय॑म्।  
-यदि॑ श्रा॒तं॑ जु॒होत॑न॒ यद्यश्रा॑तं म॒मत्त॑न ॥१॥  
+Rise up and look upon the share of Indra fixt by ritual use. Whether ye poured libation dressed or took delight in it un- cooked.

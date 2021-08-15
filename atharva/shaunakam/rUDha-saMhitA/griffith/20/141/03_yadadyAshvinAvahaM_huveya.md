@@ -2,4 +2,4 @@
 title = "०३ यदद्याश्विनावहं हुवेय"
 
 +++
-यद॒द्याश्विना॑व॒हं हु॒वेय॒ वाज॑सातये । यत्पृ॒त्सु तु॒र्वणे॒ सन॒स्तच्छ्रेष्ठ॑म॒श्विनो॒रवः॑ ॥३॥  
+When 1, O Asvins, call on you to-day that I may gather strength, Or as all-conquering might in war, be that the Asvins' noblest grace.

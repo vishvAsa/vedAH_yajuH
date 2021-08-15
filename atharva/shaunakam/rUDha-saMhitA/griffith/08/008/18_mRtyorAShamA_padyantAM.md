@@ -2,5 +2,4 @@
 title = "१८ मृत्योराषमा पद्यन्तां"
 
 +++
-मृ॒त्योराष॒मा प॑द्यन्तां॒ क्षुधं॑ से॒दिं व॒धं भ॒यम्।  
-इन्द्र॑श्चाक्षुजा॒लाभ्यां॒ शर्व॒ सेना॑म॒मूं ह॑तम्॥१८॥  
+Their portion be the fire of Death, hunger, exhaustion, slaughter, fear. With your entangling snares and nets, Sarva and Indra! slay that host.

@@ -2,4 +2,4 @@
 title = "०१ आङ्गिरसानामाद्यैः पञ्चानुवाकैः"
 
 +++
-आ॒ङ्गि॒र॒साना॑मा॒द्यैः पञ्चा॑नुवा॒कैः स्वाहा॑ ॥१॥  
+With the first five chapters of the Angirases, Hail!

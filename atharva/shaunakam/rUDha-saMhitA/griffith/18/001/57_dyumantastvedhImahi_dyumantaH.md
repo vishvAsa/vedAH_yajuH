@@ -2,5 +2,4 @@
 title = "५७ द्युमन्तस्त्वेधीमहि द्युमन्तः"
 
 +++
-द्यु॒मन्त॑स्त्वेधीमहि द्यु॒मन्तः॒ समि॑धीमहि ।
-द्यु॒मान् द्यु॑म॒त आ व॑ह पि॒तॄन् ह॒विषे॒ अत्त॑वे ॥५७॥
+We, splendid men, deposit thee, we, splendid men, enkindle thee. Splendid, bring splendid Fathers nigh to eat the sacrificial food.

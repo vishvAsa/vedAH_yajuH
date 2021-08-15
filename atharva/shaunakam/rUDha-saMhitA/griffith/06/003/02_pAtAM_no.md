@@ -2,5 +2,4 @@
 title = "०२ पातां नो"
 
 +++
-पा॒तां नो॒ द्यावा॑पृथि॒वी अ॒भिष्ट॑ये॒ पातु॒ ग्रावा॒ पातु॒ सोमो॑ नो॒ अंह॑सः ।  
-पातु॑ नो दे॒वी सु॒भगा॒ सर॑स्वती॒ पात्व॒ग्निः शि॒वा ये अ॑स्य पा॒यवः॑ ॥२॥  
+May Heaven and Earth take care of us for victory, may Pressing- Stone and Soma save us from distress. Sarasvati, auspicious Goddess, guard us well: preserve us Agni and his kind protecting powers.

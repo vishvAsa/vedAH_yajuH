@@ -2,4 +2,4 @@
 title = "०१ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य । योऽस्य प्रथ॒मो व्या॒नः सेयं भूमिः॑ ॥१॥  
+His first diffused breath is this Earth.

@@ -2,5 +2,4 @@
 title = "१८ वशा माता"
 
 +++
-व॒शा मा॒ता रा॑ज॒न्यऽस्य व॒शा मा॒ता स्व॑धे॒ तव॑ ।  
-व॒शाया॑ य॒ज्ञ आयु॑धं॒ तत॑श्चि॒त्तम॑जायत ॥१८॥  
+The Kshatriya's mother is the Cow, thy mother, Svadha! is the Cow. Sacrifice is the weapon of the Cow: the thought arose from, her.

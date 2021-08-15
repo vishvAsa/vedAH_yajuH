@@ -2,5 +2,4 @@
 title = "०५ ओको अस्य"
 
 +++
-ओको॑ अस्य॒ मूज॑वन्त॒ ओको॑ अस्य महावृ॒षाः ।  
-याव॑ज्जा॒तस्त॑क्मं॒स्तावा॑नसि॒ बल्हि॑केषु न्योच॒रः ॥५॥  
+His mansions are the Mujavans, and the Mahavrishas his home, Thou, Fever, ever since thy birth hast lived among the Bahlikas.

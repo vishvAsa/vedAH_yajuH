@@ -2,5 +2,7 @@
 title = "०३ अक्ष्यौऽच ते"
 
 +++
-अ॒क्ष्यौऽच ते॒ मुखं॑ च ते व्याघ्र जम्भयामसि ।  
-आत् सर्वा॑न् विंश॒तिं न॒खान्॥३॥  
+id
+4.3.3    We crush and rend to pieces both thine eyes, O...
+4.3.3    We crush and rend to pieces both thine eyes, O...
+Name: Comment, dtype: object

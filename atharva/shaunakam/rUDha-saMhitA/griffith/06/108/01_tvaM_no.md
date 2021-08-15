@@ -2,5 +2,4 @@
 title = "०१ त्वं नो"
 
 +++
-त्वं नो॑ मेधे प्रथ॒मा गोभि॒रश्वे॑भि॒रा ग॑हि ।  
-त्वं सूर्य॑स्य र॒श्मिभि॒स्त्वं नो॑ असि य॒ज्ञिया॑ ॥१॥  
+Intelligence, come first to us with store of horses and of kine! Thou with the rays of Surya art our worshipful and holy one.

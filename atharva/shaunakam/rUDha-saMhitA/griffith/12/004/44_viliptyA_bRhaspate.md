@@ -2,5 +2,4 @@
 title = "४४ विलिप्त्या बृहस्पते"
 
 +++
-वि॒लि॒प्त्या बृ॑हस्पते॒ या च॑ सू॒तव॑शा व॒शा।  
-तस्या॒ नाश्नी॑या॒दब्रा॑ह्मणो॒ या आ॒शंसे॑त॒ भूत्या॑म्॥४४॥  
+Vilipti, cow, and she who drops no second calf, Brihaspati! Of these none not a Brahmana should eat if he hope for emi- nence.

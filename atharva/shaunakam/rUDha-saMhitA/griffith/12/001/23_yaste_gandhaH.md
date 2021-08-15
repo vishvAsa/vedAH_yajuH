@@ -2,5 +2,4 @@
 title = "२३ यस्ते गन्धः"
 
 +++
-यस्ते॑ ग॒न्धः पृ॑थिवि संब॒भूव॒ यं बिभ्र॒त्योष॑धयो॒ यमापः॑ ।  
-यं ग॑न्ध॒र्वा अ॑प्स॒रस॑श्च भेजि॒रे तेन॑ मा सुर॒भिं कृ॑णु॒ मा नो॑ द्विक्षत॒ कश्च॒न॥२३॥  
+Scent that hath risen from thee, O Earth, the fragrance which. growing herbs and plants and waters carry, Shared by Apsarases, shared by Gandharvas therewith make thou me sweet: let no man hate me.

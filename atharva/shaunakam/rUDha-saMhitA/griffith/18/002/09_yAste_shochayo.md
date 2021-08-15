@@ -2,5 +2,4 @@
 title = "०९ यास्ते शोचयो"
 
 +++
-यास्ते॑ शो॒चयो॒ रंह॑यो जातवेदो॒ याभि॑रापृ॒णासि॒ दिव॑म॒न्तरि॑क्षम्।  
-अ॒जं यन्त॒मनु॒ ताः समृ॑ण्वता॒मथेत॑राभिः शि॒वत॑माभिः शृ॒तं कृ॑धि ॥९॥  
+Let all thy rapid flames, O Jatavedas, wherewith thou fillest heaven and earth's mid-region, Follow the goat as he goes on, united: then with the others, most auspicious, aid us.

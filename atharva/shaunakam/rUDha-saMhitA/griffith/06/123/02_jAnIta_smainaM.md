@@ -2,5 +2,4 @@
 title = "०२ जानीत स्मैनं"
 
 +++
-जा॒नी॒त स्मै॑नं पर॒मे व्योऽम॒न् देवाः॒ सध॑स्था वि॒द लो॒कमत्र॑ ।  
-अ॒न्वा॒ग॒न्ता यज॑मानः स्व॒स्तीऽष्टापू॒र्तं स्म॑ कृणुता॒विर॑स्मै ॥२॥  
+Do ye acknowledge him in highest heaven: ye know the world here present in assembly. In peace will he who sacrifices follow: show him the joy which comes from pious actions.

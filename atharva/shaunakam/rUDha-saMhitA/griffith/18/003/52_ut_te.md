@@ -2,5 +2,4 @@
 title = "५२ उत् ते"
 
 +++
-उत् ते॑ स्तभ्नामि पृथि॒वीं त्वत् परी॒मं लो॒गं नि॒दध॒न्मो अ॒हं रि॑षम्।  
-ए॒तां स्थूणां॑ पि॒तरो॑ धारयन्ति ते॒ तत्र॑ य॒मः साद॑ना ते कृणोतु ॥५२॥  
+I stay the earth from thee, while over thee I place this piece of earth. May I be free from injury. The Fathers firmly fix this pillar here for thee; and there let Yama make thee an abiding-place.

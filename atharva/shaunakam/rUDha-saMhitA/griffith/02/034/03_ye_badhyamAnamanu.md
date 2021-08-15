@@ -2,5 +2,4 @@
 title = "०३ ये बध्यमानमनु"
 
 +++
-ये ब॒ध्यमा॑न॒मनु॒ दीध्या॑ना अ॒न्वैक्ष॑न्त॒ मन॑सा॒ चक्षु॑षा च ।  
-अ॒ग्निष्टानग्रे॒ प्र मु॑मोक्तु दे॒वो वि॒श्वक॑र्मा प्र॒जया॑ संररा॒णः ॥३॥  
+Those who are looking, deep in meditation, on the bound ani- mal with eye and spirit To them, the first, may Agni, God, give freedom, rejoicing in his creatures, Visvakarman.

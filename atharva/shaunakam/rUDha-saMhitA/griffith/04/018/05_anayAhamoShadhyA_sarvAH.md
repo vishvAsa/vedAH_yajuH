@@ -2,5 +2,4 @@
 title = "०५ अनयाहमोषध्या सर्वाः"
 
 +++
-अ॒नया॒हमोष॑ध्या सर्वाः॑ कृ॒त्या अ॑दूदुषम्।  
-यां क्षेत्रे॑ च॒क्रुर्यां गोषु॒ यां वा॑ ते॒ पुरु॑षेषु ॥५॥  
+I with this Plant have ruined all malignant powers of witchery. The spell which they have laid upon thy field, thy cattle, or thy men.

@@ -2,4 +2,4 @@
 title = "०३ इहेत्थ प्रागपागुदगधराग्"
 
 +++
-इ॒हेत्थ प्रागपा॒गुद॑ग॒धराग् – स्थाली॑पाको॒ वि ली॑यते ॥३॥  
+Here east and west and north and south the offering of rice clings on. The leaf of the Asvattha tree.

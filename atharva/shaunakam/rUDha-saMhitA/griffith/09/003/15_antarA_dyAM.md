@@ -2,6 +2,4 @@
 title = "१५ अन्तरा द्यां"
 
 +++
-अ॒न्त॒रा द्यां च॑ पृथि॒वीं च॒ यद् व्यच॒स्तेन॒ शालां॒ प्रति॑ गृह्णामि त इ॒माम्।  
-यद॒न्तरि॑क्षं॒ रज॑सो वि॒मानं॒ तत् कृ॑ण्वे॒ऽहमु॒दरं॑ शेव॒धिभ्यः॑ ।  
-तेन॒ शालां॒ प्रति॑ गृह्णामि॒ तस्मै॑ ॥१५॥  
+All space that lies between the earth and heaven, therewith I take this house for thy possession, And all that measures out the air's mid-region I make a hollow to contain thy treasures. Therewith I take the house for his possession.

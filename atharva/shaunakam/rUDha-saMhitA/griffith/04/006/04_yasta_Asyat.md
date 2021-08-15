@@ -2,5 +2,4 @@
 title = "०४ यस्त आस्यत्"
 
 +++
-यस्त॒ आस्य॒त् पञ्चा॑ङ्गुरिर्व॒क्राच्चि॒दधि॒ धन्व॑नः ।  
-अ॒प॒स्क॒म्भस्य॑ श॒ल्यान्निर॑वोचम॒हं वि॒षम्॥४॥  
+Whoever with five fingers hath discharged thee from the crooked bow, I from the shaft have charmed away the poison of the fastening band.

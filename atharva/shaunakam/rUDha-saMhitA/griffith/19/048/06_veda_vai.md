@@ -2,5 +2,4 @@
 title = "०६ वेद वै"
 
 +++
-वेद॒ वै रा॑त्रि ते॒ नाम॑ घृ॒ताची॒ नाम॒ वा अ॑सि ।  
-तां त्वां भ॒रद्वा॑जो वेद॒ सा नो॑ वि॒त्तेऽधि॑ जाग्रति ॥६॥
+Verily, Night, I know thy name, Dropper of Fatness art thou called. Thee Bharadvaja knew as such: as such be watchful o'er our wealth.

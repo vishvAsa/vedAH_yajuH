@@ -2,5 +2,4 @@
 title = "०१ ध्रुवा द्यौर्ध्रुवा"
 
 +++
-ध्रु॒वा द्यौर्ध्रु॒वा पृ॑थि॒वी ध्रु॒वं विश्व॑मि॒दं जग॑त्।  
-ध्रु॒वासः॒ पर्व॑ता इ॒मे ध्रु॒वो राजा॑ वि॒शाम॒यम्॥१॥  
+Firm is the sky, firm is the earth, and firm is all this living world; Firm are these mountains on their base, and stedfast is this King of men.

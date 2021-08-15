@@ -2,5 +2,4 @@
 title = "४९ यदग्ने अद्य"
 
 +++
-यद॑ग्ने अ॒द्य मि॑थु॒ना शपा॑तो॒ यद् वा॒चस्तृ॒ष्टं ज॒नय॑न्त रे॒भाः ।  
-म॒न्योर्मन॑सः शर॒व्या॒३ जाय॑ते॒ या तया॑ विध्य॒ हृद॑ये यातु॒धाना॑न्॥४८॥  
+Destroy the Yatudhanas with thy fervour, consume the demons with thy wrath, O Agni. Destroy the fool's gods with thy fiery splendour, destroy the blazing ones, the insatiable.

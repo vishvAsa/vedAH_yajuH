@@ -2,5 +2,4 @@
 title = "०५ समुद्राज्जातो मणिर्वृत्राज्जातो"
 
 +++
-स॒मु॒द्राज्जा॒तो म॒णिर्वृ॒त्राज्जा॒तो दि॑वाक॒रः ।  
-सो अ॒स्मान्त्स॒र्वतः॑ पातु हे॒त्या दे॑वासु॒रेभ्यः॑ ॥५॥  
+From ocean sprang the Amulet, from Vritra sprang the Lord of Day: May this protect us round about from shaft of God and Asura.

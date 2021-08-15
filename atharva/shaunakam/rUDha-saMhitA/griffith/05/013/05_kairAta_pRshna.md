@@ -2,5 +2,4 @@
 title = "०५ कैरात पृश्न"
 
 +++
-कैरा॑त पृश्न॒ उप॑तृण्य॒ बभ्र॒ आ मे॑ शृणु॒तासि॑ता॒ अली॑काः ।  
-मा मे॒ सख्युः॑ स्ता॒मान॒मपि॑ ष्ठाताश्रा॒वय॑न्तो॒ नि वि॒षे र॑मध्वम्॥५॥  
+Listen to me, Black Snakes and hateful creatures, Lurker-in- Grass, Karait, and Brown, and Spotty, Approach not near the house my friend inhabits: give warning, and rest quiet with your poison.

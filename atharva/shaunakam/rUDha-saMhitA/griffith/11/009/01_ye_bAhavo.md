@@ -2,6 +2,4 @@
 title = "०१ ये बाहवो"
 
 +++
-ये बा॒हवो॒ या इष॑वो॒ धन्व॑नां वी॒र्याऽणि च ।  
-अ॒सीन् प॑र॒शूनायु॑धं चित्ताकू॒तं च॒ यद्धृ॒दि ।  
-सर्वं॒ तद॑र्बुदे॒ त्वम॒मित्रे॑भ्यो दृ॒शे कु॑रूदा॒रांश्च॒ प्र द॑र्शय ॥१॥  
+All arms and every arrow, all the power and might that bows possess, The warlike weapon, axes, swords, the plan and purpose in the heart, All this, O Arbudi, make thou visible to our enemies, and let them look on mist and fog.

@@ -2,4 +2,4 @@
 title = "०५ तमृतं च"
 
 +++
-तमृ॒तं च॑ स॒त्यं च॒ सूर्य॑श्च च॒न्द्रश्च॒ नक्ष॑त्राणि चानु॒व्यचलन्॥५॥  
+He went away to the supreme region. The Ehavaniya, Garha- patya, and Southern Fires, and Sacrifice, and Sacrificer, and sacrificial victims followed him. He who, etc.

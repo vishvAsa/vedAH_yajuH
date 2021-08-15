@@ -2,5 +2,4 @@
 title = "११ मा स्मैतान्त्सखीन्"
 
 +++
-मा स्मै॒तान्त्सखी॑न् कुरुथा ब॒लासं॑ का॒समु॑द्यु॒गम्।  
-मास्मातो॒ऽर्वाङैः पुन॒स्तत् त्वा॑ तक्म॒न्नुप॑ ब्रुवे ॥११॥  
+Take none of these to be thy friends, Cough, or Consumption or Decline: Never come thence again to us! O Fever, thus I counsel thee.

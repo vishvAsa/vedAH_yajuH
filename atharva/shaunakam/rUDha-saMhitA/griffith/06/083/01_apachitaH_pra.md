@@ -2,5 +2,4 @@
 title = "०१ अपचितः प्र"
 
 +++
-अप॑चितः॒ प्र प॑तत सुप॒र्णो व॑स॒तेरि॑व ।  
-सूर्यः॑ कृ॒णोतु॑ भेष॒जं च॒न्द्रमा॒ वोऽपो॑च्छतु ॥१॥  
+Hence, Sores and Pustules, fly away even as the eagle from his home. Let Surya bring a remedy, the Moon shine forth and banish you.

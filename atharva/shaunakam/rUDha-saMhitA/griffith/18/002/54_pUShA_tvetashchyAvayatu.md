@@ -2,5 +2,4 @@
 title = "५४ पूषा त्वेतश्च्यावयतु"
 
 +++
-पू॒षा त्वे॒तश्च्या॑वयतु॒ प्र वि॒द्वानन॑ष्टपशु॒र्भुव॑नस्य गो॒पाः ।  
-स त्वै॒तेभ्यः॒ परि॑ ददत् पि॒तृभ्यो॒ऽग्निर्दे॒वेभ्यः॑ सुविद॒त्रिये॑भ्यः ॥५४॥  
+Guard of the world, whose cattle ne'er are injured, may Pushan bear thee hence, for he hath knowledge. May he consign thee to these Fathers' keeping, and to the gracious Gods let Agni give hee.

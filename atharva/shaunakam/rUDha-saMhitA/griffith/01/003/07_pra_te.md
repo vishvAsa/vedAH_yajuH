@@ -2,5 +2,4 @@
 title = "०७ प्र ते"
 
 +++
-प्र ते॑ भिनद्मि॒ मेह॑नं॒ वर्त्रं॑ वेश॒न्त्या इ॑व ।  
-ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्॥७॥  
+I lay the passage open as one cleaves the dam that bars the lake: Thus let, etc.

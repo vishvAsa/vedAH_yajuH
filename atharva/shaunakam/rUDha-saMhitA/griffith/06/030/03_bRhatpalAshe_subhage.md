@@ -2,5 +2,4 @@
 title = "०३ बृहत्पलाशे सुभगे"
 
 +++
-बृह॑त्पलाशे॒ सुभ॑गे॒ वर्ष॑वृद्ध॒ ऋता॑वरि ।  
-मा॒तेव॑ पु॒त्रेभ्यो॑ मृड॒ केशे॑भ्यः शमि ॥३॥
+Auspicious, bearing mighty leaves, holy one, nurtured by the rain, Even as a mother to her sons, be gracious, Sami to our hair.

@@ -2,5 +2,4 @@
 title = "०१ यथा कलां"
 
 +++
-यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति ।  
-ए॒वा दु॒ष्वप्न्यं॒ सर्व॒मप्रि॑ये॒ सं न॑यामसि ॥१॥  
+As men discharge the utmost debt, collect the eighth and sixteenth part, So to the foeman we transfer together all the evil dream.

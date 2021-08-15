@@ -2,5 +2,4 @@
 title = "३० यदि स्थ"
 
 +++
-यदि॒ स्थ तम॒सावृ॑ता॒ जाले॑ना॒भिहि॑ता इव ।  
-सर्वाः॑ सं॒लुप्ये॒तः कृ॒त्याः पुनः॑ क॒र्त्रे प्र हि॑ण्मसि ॥३०॥  
+If ye be girt about with clouds of darkness, bound as with a net. We rend and tear all witcheries hence and to their maker send them back.

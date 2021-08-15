@@ -2,5 +2,4 @@
 title = "०३ अभ्यञ्जनं सुरभि"
 
 +++
-अ॒भ्यञ्ज॑नं सुर॒भि सा समृ॑द्धि॒र्हिर॑ण्यं॒ वर्च॒स्तदु॑ पू॒त्रिम॑मे॒व।  
-सर्वा॑ प॒वित्रा॒ वित॒ताध्य॒स्मत् तन्मा ता॑री॒न्निरृ॑ति॒र्मो अरा॑तिः ॥३॥
+It is a fragrant ointment, happy fortune, sheen all of gold, yea, purified from blemish. Spread over us are all purifications. Death and Malignity shall not subdue us.

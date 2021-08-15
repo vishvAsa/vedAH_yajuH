@@ -2,5 +2,4 @@
 title = "३७ सं पितरावृत्विये"
 
 +++
-सं पि॑तरा॒वृत्वि॑ये सृजेथां मा॒ता पि॒ता च॒ रेत॑सो भवाथः ।  
-मर्य॑ इव॒ योषा॒मधि॑रोहयैनां प्र॒जां कृ॑ण्वाथामि॒ह पु॑ष्यतं र॒यिम्॥३७॥  
+In your due season, Parents! come together. Mother and sire be ye of future children. Embrace this woman like a happy lover. Raise ye up offspring here: increase your riches.

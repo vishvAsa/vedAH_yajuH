@@ -2,4 +2,4 @@
 title = "०१ प्रजापतिश्च परमेष्ठी"
 
 +++
-प्र॒जाप॑तिश्च परमे॒ष्ठी च॒ शृङ्गे॒ इन्द्रः॒ शिरो॑ अ॒ग्निर्ल॒लाटं॑ य॒मः कृका॑टम्॥१॥  
+Prajapati and Parameshthin are the two horns, Indra is the head, Agni the forehead, Yama the joint of the neck.

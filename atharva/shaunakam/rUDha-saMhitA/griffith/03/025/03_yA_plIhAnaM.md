@@ -2,5 +2,4 @@
 title = "०३ या प्लीहानं"
 
 +++
-या प्ली॒हानं॑ शो॒षय॑ति॒ काम॒स्येषुः॒ सुसं॑नता ।  
-प्रा॒चीन॑पक्षा॒ व्योऽषा॒ तया॑ विध्यामि त्वा हृ॒दि॥३॥  
+The shaft of Kama, pointed well, that withers and consumes the spleen. With hasty feathers, all aglow, therewith I pierce thee to the heart.

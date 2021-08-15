@@ -2,4 +2,4 @@
 title = "०१ अहमिद्धि पितुष्परि"
 
 +++
-अ॒हमिद्धि पि॒तुष्परि॑ मे॒धामृ॒तस्य॑ ज॒ग्रभ॑ । अ॒हं सूर्य॑ इवाजनि ॥१॥  
+I from my Father have received deep knowledge of the holy Law: I was born like unto the Sun.

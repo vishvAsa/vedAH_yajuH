@@ -2,4 +2,4 @@
 title = "१९ अत्यर्धर्च परस्वतः"
 
 +++
-अत्य॑र्ध॒र्च प॑र॒स्वतः॑ ॥१९॥  
+Then not defective be our steeds! A splinter so diminutive!

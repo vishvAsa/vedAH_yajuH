@@ -2,5 +2,4 @@
 title = "०९ अलिक्लवा जाष्कमदा"
 
 +++
-अ॒लिक्ल॑वा जाष्कम॒दा गृध्राः॑ श्ये॒नाः प॑त॒त्रिणः॑ ।  
-ध्वाङ्क्षाः॑ श॒कुन॑यस्तृप्यन्त्व॒मित्रे॑षु समी॒क्षय॑न् रदि॒ते अ॑र्बुदे॒ तव॑ ॥९॥  
+Let vultures, ravens, kites, and crows, and every carrion-eating bird. Feast on our foes, and show where one, Arbudi! hath been pierced by thee.

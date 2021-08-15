@@ -2,5 +2,4 @@
 title = "१५ याः पार्श्वे"
 
 +++
-याः पा॒र्श्वे उ॑प॒र्षन्त्य॑नु॒निक्ष॑न्ति पृ॒ष्टीः ।  
-अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म्॥१५॥  
+The stabs that penetrate the sides and pierce their way along the ribs, Let them depart and pass away, free from disease and harming not.

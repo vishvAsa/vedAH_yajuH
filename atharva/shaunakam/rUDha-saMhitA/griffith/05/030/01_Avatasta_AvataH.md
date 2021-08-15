@@ -2,5 +2,4 @@
 title = "०१ आवतस्त आवतः"
 
 +++
-आ॒वत॑स्त आ॒वतः॑ परा॒वत॑स्त आ॒वतः॑ ।  
-इ॒हैव भ॑व॒ मा नु गा॒ मा पूर्वा॒ननु॑ गाः पि॒तॄनसुं॑ बध्नामि ते दृ॒ढम्॥१॥  
+From thy vicinity I call, from near, from far, from night at hand. Stay here: depart not: follow not the Fathers of the olden time. I bind thy vital spirit fast.

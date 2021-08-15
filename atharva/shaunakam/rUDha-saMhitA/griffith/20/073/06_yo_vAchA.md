@@ -2,5 +2,4 @@
 title = "०६ यो वाचा"
 
 +++
-यो वा॒चा विवा॑चो मृ॒ध्रवा॑चः पु॒रू स॒हस्राशि॑वा ज॒घान॑ ।  
-तत्त॒दिद॑स्य॒ पौंस्यं॑ गृणीमसि पि॒तेव॒ यस्तवि॑षीं वावृ॒धे शवः॑ ॥६॥
+We laud and praise his several deeds of valour who, fatherlike,. with power hath made us stronger; Who with his voice slew many thousand wicked ones who spake in varied manner with contemptuous cries.

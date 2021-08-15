@@ -2,5 +2,4 @@
 title = "०३ अयस्मये द्रुपदे"
 
 +++
-अ॒य॒स्मये॑ द्रुप॒दे बे॑धिषे इ॒हाभिहि॑तो मृ॒त्युभि॒र्ये स॒हस्र॑म्।  
-य॒मेन॒ त्वं पि॒तृभिः॑ संविदा॒न उ॑त्त॒मं नाक॒मधि॑ रोहये॒मम्॥३॥  
+Compassed by death which comes in thousand manners, here art thou fastened to the iron pillar. Unanimous with Yama and the Fathers, make this man rise and reach the loftiest heaven.

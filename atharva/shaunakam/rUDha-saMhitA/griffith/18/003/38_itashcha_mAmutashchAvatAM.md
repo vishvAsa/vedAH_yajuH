@@ -2,5 +2,4 @@
 title = "३८ इतश्च मामुतश्चावतां"
 
 +++
-इ॒तश्च॑ मा॒मुत॑श्चावतां य॒मे इ॑व॒ यत॑माने॒ यदै॒तम्।  
-प्र वां॑ भर॒न् मानु॑षा देव॒यन्तो॒ आ सी॑दतां॒ स्वमु॑ लो॒कं विदा॑ने ॥३८॥  
+From this side and from that let both assist me. As, speeding, ye have come like two twin sisters, Religious-hearted votaries brought you forward. Knowing your several places be ye seated.

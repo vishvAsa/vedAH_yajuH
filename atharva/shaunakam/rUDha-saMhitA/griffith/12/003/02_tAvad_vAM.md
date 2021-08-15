@@ -2,5 +2,4 @@
 title = "०२ तावद् वां"
 
 +++
-ताव॑द् वां॒ चक्षु॒स्तति॑ वी॒र्याऽणि॒ ताव॒त् तेज॑स्तति॒धा वाजि॑नानि ।  
-अ॒ग्निः शरी॑रं सचते य॒दैधोऽधा॑ प॒क्वान्मि॑थुना॒ सं भ॑वाथः ॥२॥  
+So strong your sight, so many be your powers, so great your force, your energies so many, When fire attends the body as its fuel, then may, ye gain full chargers, O ye couple.

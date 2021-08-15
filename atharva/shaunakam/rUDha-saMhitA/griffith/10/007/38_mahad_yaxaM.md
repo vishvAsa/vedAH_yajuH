@@ -2,5 +2,4 @@
 title = "३८ महद् यक्षं"
 
 +++
-म॒हद् य॒क्षं भुव॑नस्य॒ मध्ये॒ तप॑सि क्रा॒न्तं स॑लि॒लस्य॑ पृ॒ष्ठे।  
-तस्मि॑न्छ्रयन्ते॒ य उ॒ के च॑ दे॒वा वृ॒क्षस्य॒ स्कन्धः॑ प॒रित॑ इव॒ शाखाः॑ ॥३८॥  
+Absorbed in Fervour, is the mighty Being, in the world's centre, on the waters' surface. To him the Deities, one and all betake them. So stand the tree- trunk with the branches round it.

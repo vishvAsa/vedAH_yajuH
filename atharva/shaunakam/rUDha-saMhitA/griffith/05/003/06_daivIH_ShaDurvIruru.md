@@ -2,5 +2,4 @@
 title = "०६ दैवीः षडुर्वीरुरु"
 
 +++
-दैवीः॑ षडुर्वीरु॒रु नः॑ कृणोत॒ विश्वे॑ देवास इ॒ह मा॑दयध्वम्।  
-मा नो॑ विददभि॒भा मो अश॑स्ति॒र्मा नो विदद् वृजि॒ना द्वेष्या॒ या॥६॥  
+Ye six divine Expanses, give us freedom. Here, all ye Gods, acquit yourselves like heroes. Let not calamity or curse o'ertake us, nor deeds of wickedness that merit hatred.

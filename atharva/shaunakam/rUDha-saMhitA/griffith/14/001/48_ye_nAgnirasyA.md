@@ -2,5 +2,4 @@
 title = "४८ ये नाग्निरस्या"
 
 +++
-ये ना॒ग्निर॒स्या भूम्या॒ हस्तं॑ ज॒ग्राह॒ दक्षि॑णम्।  
-तेन॑ गृह्णामि ते॒ हस्तं॒ मा व्य॑थिष्ठा॒ मया॑ स॒ह प्र॒जया॑ च॒ धने॑न च ॥४८॥  
+As Agni in the olden time took the right hand of this our Earth. Even so I take and hold thy hand: be not disquieted, with me, with children and with store of wealth.

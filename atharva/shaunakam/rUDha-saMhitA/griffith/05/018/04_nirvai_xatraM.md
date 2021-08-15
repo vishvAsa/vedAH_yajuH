@@ -2,5 +2,4 @@
 title = "०४ निर्वै क्षत्रं"
 
 +++
-निर्वै क्ष॒त्रं नय॑ति॒ हन्ति॒ वर्चो॒ऽग्निरि॒वार॑ब्धो॒ वि दु॑नोति॒ सर्व॑म्।  
-यो ब्रा॑ह्म॒णं मन्य॑ते॒ अन्न॑मे॒व स वि॒षस्य॑ पिबति तैमा॒तस्य॑ ॥४॥  
+She takes away his strength, she mars his splendour, she ruins everything like fire enkindled. That man drinks poison of the deadly serpent who counts the Brahman as mere food to feed him.

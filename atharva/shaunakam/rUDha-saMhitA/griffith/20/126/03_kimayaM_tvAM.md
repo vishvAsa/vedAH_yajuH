@@ -2,5 +2,4 @@
 title = "०३ किमयं त्वां"
 
 +++
-किम॒यं त्वां वृ॒षाक॑पिश्च॒कार॒ हरि॑तो मृ॒गः ।  
-यस्मा॑ इर॒स्यसीदु॒ न्व॑१र्यो वा॑ पुष्टि॒मद् वसु॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥३॥  
+What hath he done to injure thee, this tawny beast Vrishakapi, With whom thou art so angry now? What is the votary's food- ful store? Supreme is Indra over all.

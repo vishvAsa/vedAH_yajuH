@@ -2,5 +2,4 @@
 title = "०६ कस्तं प्र"
 
 +++
-कस्तं प्र वे॑द॒ क उ॒ तं चि॑केत॒ यो अ॑स्या हृ॒दः क॒लशः॑ सोम॒धानो॒ अक्षि॑तः ।  
-ब्र॒ह्मा सु॑मे॒धाः सो अ॑स्मिन् मदेत ॥६॥  
+Who understandeth well, who hath perceived it, her heart's un- injured Soma-holding beaker? Let the wise Brahman priest therein be joyful.

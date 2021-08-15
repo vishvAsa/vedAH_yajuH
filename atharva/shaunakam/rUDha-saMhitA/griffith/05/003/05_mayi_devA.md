@@ -2,5 +2,4 @@
 title = "०५ मयि देवा"
 
 +++
-मयि॑ दे॒वा द्रवि॑ण॒मा य॑जन्तां॒ मय्या॒शीर॑स्तु॒ मयि॑ दे॒वहू॑तिः ।  
-दै॒वाः होता॑रः सनिषन्न ए॒तदरि॑ष्टाः स्याम त॒न्वाऽसु॒वीराः॑ ॥५॥  
+May the Gods grant me riches, may the blessing and invocation of the Gods assist me. This boon shall the celestial Hotars win us: may we, unwound- ed, have brave heroes round us.

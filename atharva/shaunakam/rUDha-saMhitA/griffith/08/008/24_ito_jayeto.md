@@ -2,6 +2,4 @@
 title = "२४ इतो जयेतो"
 
 +++
-इ॒तो ज॑ये॒तो वि ज॑य॒ सं ज॑य॒ जय॒ स्वाहा॑ ।  
-इ॒मे ज॑यन्तु॒ परा॒मी ज॑यन्तां॒ स्वाहै॒भ्यो दु॒राहा॒मीभ्यः॑ ।  
-नी॒ल॒लो॒हि॒तेना॒मून॒भ्यव॑तनोमि ॥२४॥
+Hence conquer, conquer, Hail! be thou the victor! Let these be conquerors and those be conquered. Good luck to these, ill luck to those men yonder! With the dark-blue-and-red our foes I cover.

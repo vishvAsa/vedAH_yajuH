@@ -2,5 +2,4 @@
 title = "०८ एमं पन्थामरुक्षाम"
 
 +++
-एमं पन्था॑मरुक्षाम सु॒गं स्व॑स्ति॒वाह॑नम्।  
-यस्मि॑न् वी॒रो न रिष्य॑त्य॒न्येषां॑ वि॒न्दते॒ वसु॑ ॥८॥  
+Our feet are on this pleasant path, easy to travel, bringing bliss, Whereon no hero suffers harm, which wins the wealth of other men.

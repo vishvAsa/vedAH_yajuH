@@ -2,5 +2,4 @@
 title = "१९ अग्निर्भूम्यामोषधीष्वग्निमापो बिभ्रत्यग्निरश्मसु"
 
 +++
-अ॒ग्निर्भूम्या॒मोष॑धीष्व॒ग्निमापो॑ बिभ्रत्य॒ग्निरश्म॑सु ।  
-अ॒ग्निर॒न्तः पुरु॑षेषु॒ गोष्वश्वे॑ष्व॒ग्नयः॑ ॥१९॥  
+Agni is in the earth, in plants; the waters hold Agni in them, in the stones is Agni. Agni abideth deep in men: Agnis abide in cows and steeds.

@@ -2,5 +2,4 @@
 title = "०२ सखायाविव सचावहा"
 
 +++
-सखा॑याविव सचावहा॒ अव॑ म॒न्युं त॑नोमि ते ।  
-अ॒धस्ते॑ अश्म॑नो म॒न्युमुपा॑स्यामसि॒ यो गु॒रुः ॥२॥  
+Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy stone we cast thy wrath away and bury it.

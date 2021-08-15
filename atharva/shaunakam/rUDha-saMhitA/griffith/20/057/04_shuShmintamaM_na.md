@@ -2,4 +2,4 @@
 title = "०४ शुष्मिन्तमं न"
 
 +++
-शु॒ष्मिन्त॑मं न ऊ॒तये॑ द्यु॒म्निनं॑ पाहि॒ जागृ॑विम्। इन्द्र॒ सोमं॑ शतक्रतो ॥४॥  
+Drink for our help the Soma bright, vigilant, and exceeding strong, O Indra, Lord of Hundred Powers.

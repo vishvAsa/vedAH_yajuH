@@ -2,5 +2,4 @@
 title = "०५ युनज्मि त"
 
 +++
-यु॒नज्मि॑ त उत्त॒राव॑न्त॒मिन्द्रं॒ येन॒ जय॑न्ति॒ न प॑रा॒जय॑न्ते ।  
-यस्त्वा॒ कर॑देकवृ॒षं जना॑नामु॒त राज्ञा॑मुत्तमं मा॑न॒वाना॑म्॥५॥  
+I join in league with thee victorious Indra, with whom men conquer and are ne'er defeated. He shall make thee the folk's sole lord and leader, shall make thee highest of all human rulers.

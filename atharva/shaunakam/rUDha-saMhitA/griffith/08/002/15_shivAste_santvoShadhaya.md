@@ -2,5 +2,4 @@
 title = "१५ शिवास्ते सन्त्वोषधय"
 
 +++
-शि॒वास्ते॑ स॒न्त्वोष॑धय॒ उत् त्वा॑हार्ष॒मध॑रस्या॒ उत्त॑रां पृथि॒वीम॒भि।  
-तत्र॑ त्वादि॒त्यौ र॑क्षतां सूर्याचन्द्र॒मसा॑वु॒भा॥१५॥  
+Auspicious be the Plants to thee! I have upraised thee, borne thee from the lower to the upper earth: Let the two Sons of Aditi, the Sun and Moon, protect thee there.

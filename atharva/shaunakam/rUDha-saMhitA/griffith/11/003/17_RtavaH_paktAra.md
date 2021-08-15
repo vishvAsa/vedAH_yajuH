@@ -2,4 +2,4 @@
 title = "१७ ऋतवः पक्तार"
 
 +++
-ऋ॒तवः॑ प॒क्तार॑ आर्त॒वाः समि॑न्धते ॥१७॥  
+The Seasons are the dressers, the Groups of Seasons kindle the fire. 

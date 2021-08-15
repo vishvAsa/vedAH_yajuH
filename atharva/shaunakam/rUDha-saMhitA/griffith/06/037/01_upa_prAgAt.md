@@ -2,5 +2,4 @@
 title = "०१ उप प्रागात्"
 
 +++
-उप॒ प्रागा॑त् सहस्रा॒क्षो यु॒क्त्वा श॒पथो॒ रथ॑म्।  
-श॒प्तार॑मन्वि॒छन् मम॒ वृक॑ इ॒वावि॑मतो गृ॒हम्॥१॥  
+Hitherward, having yoked his steeds, came Imprecation, thousand-eyed, Seeking my curser, as a wolf the home of one who owneth sheep.

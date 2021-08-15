@@ -2,4 +2,4 @@
 title = "०७ यत्रामूस्तिस्रः शिंशपाः"
 
 +++
-यत्रा॒मूस्तिस्रः॑ शिंश॒पाः ॥७॥  
+There where around those distant trees, three Sisus that are standing there, (with next verse)

@@ -2,5 +2,4 @@
 title = "०१ आ सत्यो"
 
 +++
-आ स॒त्यो या॑तु म॒घवां॑ ऋजी॒षी द्रव॑न्त्वस्य॒ हर॑य॒ उप॑ नः ।  
-तस्मा॒ इदन्धः॑ सुषुमा सु॒दक्ष॑मि॒हाभि॑पि॒त्वं क॑रते गृणा॒नः ॥१॥  
+Impetuous, true, let Maghavan come hither, and let his tawny coursers speed to reach us. For him have we pressed juice exceeding potent: here, praised with song, let him effect his visit.

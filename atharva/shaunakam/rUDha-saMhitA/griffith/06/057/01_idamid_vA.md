@@ -2,5 +2,4 @@
 title = "०१ इदमिद् वा"
 
 +++
-इ॒दमिद् वा उ॑ भेष॒जमि॒दं रु॒द्रस्य॑ भेष॒जम्।  
-येनेषु॒मेक॑तेजनां श॒तश॑ल्यामप॒ब्रव॑त्॥१॥  
+This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the arrow off one-shafted, with a hundred tips.

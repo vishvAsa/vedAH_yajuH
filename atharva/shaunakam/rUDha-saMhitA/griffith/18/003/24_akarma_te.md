@@ -2,5 +2,4 @@
 title = "२४ अकर्म ते"
 
 +++
-अक॑र्म ते॒ स्वप॑सो अभूम ऋ॒तम॑वस्रन्नु॒षसो॑ विभा॒तीः ।  
-विश्वं॒ तद् भ॒द्रं यदव॑न्ति दे॒वा बृ॒हद् व॑देम वि॒दथे॑ सु॒वीराः॑ ॥२४॥  
+We have worked for thee, we have toiled and laboured: bright Dawns have shed their light upon our worship. All that the Gods regard with love is blessed. Loud may we speak, with heroes, in assembly.

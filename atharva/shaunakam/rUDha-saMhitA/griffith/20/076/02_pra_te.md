@@ -2,5 +2,4 @@
 title = "०२ प्र ते"
 
 +++
-प्र ते॑ अ॒स्या उ॒षसः॒ प्राप॑रस्या नृ॒तौ स्या॑म॒ नृत॑मस्य नृ॒णाम्।  
-अनु॑ त्रि॒शोकः॑ श॒तमाव॑ह॒न्नॄन् कुत्से॑न॒ रथो॒ यो अस॑त् सस॒वान्॥२॥  
+May we, when this Dawn and the next dance hither, be thy best servants, most heroic Hero! Let the victorious car with triple splendour bring hitherward the hundred chiefs with Kutsa.

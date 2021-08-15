@@ -2,5 +2,4 @@
 title = "३३ अन्ति सन्तं"
 
 +++
-अन्ति॒ सन्तं॒ न ज॑हा॒त्यन्ति॒ सन्तं॒ न प॑श्यति ।  
-दे॒वस्य॑ पश्य॒ काव्यं॒ न म॑मार॒ न जी॑र्यति ॥३२॥  
+Voices that never were before emitted speak as fitteth them. Whither they go and speak, they say there is the mighty Brah- mana.

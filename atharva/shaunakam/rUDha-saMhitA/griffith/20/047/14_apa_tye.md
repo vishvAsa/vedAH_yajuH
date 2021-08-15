@@ -2,4 +2,4 @@
 title = "१४ अप त्ये"
 
 +++
-अप॒ त्ये ता॒यवो॑ यथा॒ नक्ष॑त्रा यन्त्य॒क्तुभिः॑ । सूरा॑य वि॒श्वच॑क्षसे ॥१४॥  
+The constellations pass away, like thieves, together with their- beams, Before the all-beholding Sun.

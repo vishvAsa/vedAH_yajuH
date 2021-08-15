@@ -2,4 +2,4 @@
 title = "०२ रुजन् परिरुजन्"
 
 +++
-रु॒जन् प॑रिरु॒जन् मृ॒णन् प्र॑मृ॒णन्॥२॥  
+Breaking, breaking down, crushing, crushing to pieces,

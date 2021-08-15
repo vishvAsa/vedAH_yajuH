@@ -2,5 +2,4 @@
 title = "०४ यस्य वशास"
 
 +++
-यस्य॑ व॒शास॑ ऋष॒भास॑ उ॒क्षणो॒ यस्मै॑ मी॒यन्ते॒ स्व॒र॑वः स्व॒र्विदे॑ ।  
-यस्मै॑ शु॒क्रः पव॑ते॒ ब्रह्म॑शुम्भितः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥४॥  
+The lord of barren cows and bulls and oxen, finder of light for whom the posts are planted, For whom the bright juice flows cleansed by devotion. May he deliver us from grief and trouble.

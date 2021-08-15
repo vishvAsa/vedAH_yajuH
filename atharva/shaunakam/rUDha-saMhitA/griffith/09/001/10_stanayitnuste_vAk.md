@@ -2,5 +2,4 @@
 title = "१० स्तनयित्नुस्ते वाक्"
 
 +++
-स्त॒न॒यि॒त्नुस्ते॒ वाक् प्र॑जापते॒ वृषा॒ शुष्मं॑ क्षिपसि॒ भूम्या॒मधि॑ ।  
-अ॒ग्नेर्वाता॑न्मधुक॒शा हि ज॒ज्ञे म॒रुतामु॒ग्रा न॒प्तिः ॥१०॥  
+The thunder is thy voice, O Lord of Creatures: a Bull, thou castest on the earth thy vigour. The Honey-whip, the Manus' first-born daughter, derives her origin from Wind and Agni.

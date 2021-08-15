@@ -2,5 +2,4 @@
 title = "०९ यस्मान्न ऋते"
 
 +++
-यस्मा॒न्न ऋ॒ते वि॒जय॑न्ते॒ जना॑सो॒ यं युध्य॑माना॒ अव॑से॒ हव॑न्ते ।  
-यो विश्व॑स्य प्रति॒मानं॑ ब॒भूव॒ यो अ॑च्युत॒च्युत् स ज॑नास॒ इन्द्रः॑ ॥९॥  
+He, without whom men conquer not in battle, whom, warring, they invoke for help and succour; He, all this universe's type and image, who shakes what never shook, He, men, is Indra.

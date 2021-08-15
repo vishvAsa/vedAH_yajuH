@@ -2,5 +2,4 @@
 title = "०२ न घ्रंस्तताप"
 
 +++
-न घ्रंस्त॑ताप॒ न हि॒मो ज॑घान॒ प्र न॑भतां पृथि॒वी जी॒रदा॑नुः ।  
-आप॑श्चिदस्मै घृ॒तमित् क्ष॑रन्ति॒ यत्र॒ सोमः॒ सद॒मित् तत्र॑ भ॒द्रम्॥२॥
+Let not the Sun's heat burn, nor cold destroy her. Let Earth with all her quickening drops burst open. Even for her the waters flow, and fatness: where Soma is even there is bliss for ever.

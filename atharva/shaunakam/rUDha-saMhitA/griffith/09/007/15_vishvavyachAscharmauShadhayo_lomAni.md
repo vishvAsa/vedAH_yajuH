@@ -2,4 +2,4 @@
 title = "१५ विश्वव्यचास्चर्मौषधयो लोमानि"
 
 +++
-वि॒श्वव्य॑चा॒स्चर्मौष॑धयो॒ लोमा॑नि॒ नक्ष॑त्राणि रू॒पम्॥१५॥  
+The All-embracing (Aditi) is the hide, the herbs are her hair,. and the Lunar Mansions her form.

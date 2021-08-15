@@ -2,5 +2,4 @@
 title = "२० गावः सन्तु"
 
 +++
-गावः॑ सन्तु प्र॒जाः स॒न्त्वथो॑ अस्तु तनूब॒लम्।  
-तत् सर्व॒मनु॑ मन्यन्तां दे॒वा ऋ॑षभदा॒यिने॑ ॥२०॥  
+Let there be cattle, let there be bodily strength and progeny: All this may the Gods kindly grant to him who gives away the Bull.

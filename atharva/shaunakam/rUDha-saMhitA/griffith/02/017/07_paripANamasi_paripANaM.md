@@ -2,4 +2,4 @@
 title = "०७ परिपाणमसि परिपाणं"
 
 +++
-प॒रि॒पाण॑मसि परि॒पाणं॑ मे दाः॒ स्वाहा॑ ॥७॥
+Shield art thou, shield me well. All hail

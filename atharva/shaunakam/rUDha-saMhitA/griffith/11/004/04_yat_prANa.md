@@ -2,5 +2,4 @@
 title = "०४ यत् प्राण"
 
 +++
-यत् प्रा॒ण ऋ॒तावाग॑तेऽभि॒क्रन्द॒त्योष॑धीः ।  
-सर्वं॑ त॒दा प्र मो॑दते॒ यत् किं च॒ भूम्या॒मधि॑ ॥४॥  
+When the due season hath arrived and Prana shouteth to herbs, Then all is joyful, yea, each thing upon the surface of the earth.

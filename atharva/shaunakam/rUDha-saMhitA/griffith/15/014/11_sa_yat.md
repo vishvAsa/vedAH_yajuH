@@ -2,4 +2,4 @@
 title = "११ स यत्"
 
 +++
-स यत् प॒शूननु॒ व्यच॑लद् रु॒द्रो भू॒त्वानु॒व्यऽचल॒दोष॑धीरन्ना॒दीः कृ॒त्वा॥११॥  
+He, when he went away to creatures, went away having become Prajapati and having made vital breath an eater of food. He who hath this knowledge eats food with vital breath as foodeater.

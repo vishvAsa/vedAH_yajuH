@@ -2,5 +2,4 @@
 title = "३६ समाचिनुष्वानुसम्प्रयाह्यग्ने पथः"
 
 +++
-स॒माचि॑नुष्वानुस॒म्प्रया॑ह्यग्ने प॒थः क॑ल्पय देव॒याना॑न्।  
-ए॒तैः सु॑कृ॒तैरनु॑ गच्छेम य॒ज्ञं नाके॒ तिष्ठ॑न्त॒मधि॑ स॒प्तर॑श्मौ ॥३६॥  
+Level the ways: go thitherward, O Agni. Make ready thou the Godward-leading pathways. By these our pious actions may we follow sacrifice dwelling in the seven-rayed heaven.

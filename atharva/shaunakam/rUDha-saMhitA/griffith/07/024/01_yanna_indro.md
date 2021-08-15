@@ -2,5 +2,4 @@
 title = "०१ यन्न इन्द्रो"
 
 +++
-यन्न॒ इन्द्रो॒ अख॑न॒द् यद॒ग्निर्विश्वे॑ दे॒वा म॒रुतो॒ यत् स्व॒र्काः ।  
-तद॒स्मभ्यं॑ सवि॒ता स॒त्यध॑र्मा प्र॒जाप॑ति॒रनु॑मति॒र्नि य॑च्छात्॥१॥
+What treasure hath been dug for us by Indra, by Agni, Visve- devas, tuneful Maruts, On us may Savitar whose laws are faithful, Prajapati, and Heavenly Grace bestow it.

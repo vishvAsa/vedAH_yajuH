@@ -2,4 +2,4 @@
 title = "०१ विद्म ते"
 
 +++
-वि॒द्म ते॑ स्वप्न ज॒नित्रं॒ ग्राह्याः॑ पु॒त्रोऽसि य॒मस्य॒ कर॑णः ॥१॥  
+We know thine origin, O Sleep. Thou art the son of Grahi, the minister of Yama. Thou art the Ender, thou art Death. As such, O Sleep, we know thee well. As such preserve us from the evil dream.

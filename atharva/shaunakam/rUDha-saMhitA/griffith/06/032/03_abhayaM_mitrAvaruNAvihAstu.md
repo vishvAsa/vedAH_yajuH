@@ -2,5 +2,4 @@
 title = "०३ अभयं मित्रावरुणाविहास्तु"
 
 +++
-अभ॑यं मित्रावरुणावि॒हास्तु॑ नो॒ऽर्चिषा॒त्त्रिणो॑ नुदतं प्र॒तीचः॑ ।  
-मा ज्ञा॒तारं॒ मा प्र॑ति॒ष्ठां वि॑दन्त मि॒थो वि॑घ्ना॒ना उप॑ यन्तु मृ॒त्युम्॥३॥  
+Here, Mitra-Varuna! may we dwell safely: with splendour drive the greedy demons backward, Let them not find a surety or a refuge, but torn away go down to Death together.

@@ -2,5 +2,4 @@
 title = "२२ कृष्णं नियानं"
 
 +++
-कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत्प॑तन्ति ।  
-तं आव॑वृत्र॒न्त्सद॑नादृ॒तस्यादिद् घृ॒तेन॑ पृथि॒वीं व्यूऽदुः ॥२२॥  
+Dark the descent: the birds are golden-coloured. Robed in the floods they fly aloft to heaven. Again from Order's seat have they descended, and inundated all the earth with fatness.

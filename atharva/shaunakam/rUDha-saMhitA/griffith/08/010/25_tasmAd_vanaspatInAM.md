@@ -2,4 +2,4 @@
 title = "२५ तस्माद् वनस्पतीनां"
 
 +++
-तस्मा॒द् वन॒स्पती॑नां संवत्स॒रे वृ॒क्णमपि॑ रोहति वृ॒श्चते॒ऽस्याप्रि॑यो॒ भ्रातृ॑व्यो॒ य ए॒वं वेद॑ ॥२॥ (१८)  
+She rose, she came unto the Seven Rishis. They called her,. Come, Rich in Devotion! hither. King Soma was her calf. the Moon her milk-pail. Brihaspati. Angirasa, her milker, Drew from her udder Prayer and Holy Fervour. Fervour and Prayer maintain the Seven Rishis. He who knows this becomes a meet supporter, a priest illustri- ous for his sacred knowledge.

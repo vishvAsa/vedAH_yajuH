@@ -2,5 +2,4 @@
 title = "१९ मा नोऽभि"
 
 +++
-मा नो॒ऽभि स्रा॑ म॒त्यं देवहे॒तिं मा नः॑ क्रुधः पशुपते॒ नम॑स्ते ।  
-अ॒न्यत्रा॒स्मद् दि॒व्यां शाखां॒ वि धू॑नु ॥१९॥  
+Cast not thy club at us, thy heavenly weapon. Lord of Beasts, be not wroth with us. Let reverence be paid to thee. Shake thy celestial branch above some others elsewhere, not o'er us.

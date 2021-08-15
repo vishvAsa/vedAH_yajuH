@@ -2,5 +2,4 @@
 title = "०३ तौविलिकेऽवेलयावायमैलब ऐलयीत्"
 
 +++
-तौवि॑लि॒केऽवे॑ल॒यावा॒यमै॑ल॒ब ऐ॑लयीत्।  
-ब॒भ्रुश्च॑ ब॒भ्रुक॑र्ण॒श्चापे॑हि॒ निरा॑ल ॥३॥  
+Go thou to rest, Tauvilika! This noisy cry hath sunk to rest. Go hence, depart, Nirala, thou! the tawny and the tawny- eared.

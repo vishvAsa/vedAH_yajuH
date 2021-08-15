@@ -2,5 +2,4 @@
 title = "०२ सुपर्णसुवने गिरौ"
 
 +++
-सु॒प॒र्ण॒सुव॑ने गि॒रौ जा॒तं हि॒मव॑त॒स्परि॑ ।  
-धनै॑र॒भि श्रु॒त्वा य॑न्ति वि॒दुर्हि त॑क्म॒नाश॑नम्॥२॥  
+Brought from the Snowy Mountain, born on the high hill where eagles breed, Men seek to buy thee when they hear: for Fever's Banisher they know.

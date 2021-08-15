@@ -2,5 +2,4 @@
 title = "१९ स्वप्नो वै"
 
 +++
-स्वप्नो॒ वै त॒न्द्रीर्निरृ॑तिः पा॒प्मानो॒ नाम॑ दे॒वताः॑ ।  
-ज॒रा खाल॑त्यं॒ पालि॑त्यं॒ शरी॑र॒मनु॒ प्रावि॑शन्॥१९॥  
+Sleep, specially, Sloth, Nirriti, and deities whose name is Sin, Baldness, old age, and hoary hairs within the body found their way.

@@ -2,5 +2,4 @@
 title = "०१ उप श्वासय"
 
 +++
-उप॑ श्वासय पृथि॒वीमु॒त द्यां पु॑रु॒त्रा ते॑ वन्वतां॒ विष्ठि॑तं जग॑त्।  
-स दु॑न्दुभे स॒जूरिन्द्रे॑ण दे॒वैर्दू॒राद् दवी॑यो॒ अप॑ सेध॒ शत्रू॑न्॥१॥  
+Send forth thy voice aloud through earth and heaven, and let the world in all its breadth regard thee. O Drum, accordant with the Gods and Indra, drive thou afar, yea, very far, our foemen.

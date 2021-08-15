@@ -2,5 +2,4 @@
 title = "६८ अपूपापिहितान् कुम्भान्"
 
 +++
-अ॒पू॒पापि॑हितान् कु॒म्भान् यांस्ते॑ दे॒वा अधा॑रयन्।  
-ते ते॑ सन्तु स्व॒धाव॑न्तो॒ मधु॑मन्तो घृत॒श्चुतः॑॥६८॥  
+Let these which Gods have held for thee, the beakers covered o'er with cake, Be full of sacred food for thee, distilling fatness, rich in mead.

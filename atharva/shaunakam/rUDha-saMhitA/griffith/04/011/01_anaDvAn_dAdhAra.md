@@ -2,5 +2,4 @@
 title = "०१ अनड्वान् दाधार"
 
 +++
-अ॒न॒ड्वान् दा॑धार पृथि॒वीमु॒त द्याम॑न॒ड्वान् दा॑धारो॒र्व१न्तरि॑क्षम्।  
-अ॒न॒ड्वान् दा॑धार प्र॒दिशः॒ षडु॒र्वीर॑न॒ड्वान् विश्वं॒ भुव॑न॒मा वि॑वेश ॥१॥  
+The Bull supports the wide-spread earth and heaven, the Bull supports the spacious air between them. The Bull supports the sky's six spacious regions: the universal world hath he pervaded.

@@ -2,6 +2,4 @@
 title = "३१ यो वै"
 
 +++
-यो वै नैदा॑घं॒ नाम॒र्तुं वेद॑ । ए॒ष वै नैदा॑घो॒ नाम॒र्तुर्यद॒जः पञ्चौ॑दनः ।  
-निरे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रियं॑ दहति॒ भव॑त्या॒त्मना॑ ।  
-यो॒३जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥३१॥  
+The man who knows the season named the Scorching--the Goat Pafichaudana is this scorching season He lives himself, he verily burns up his hated rival's fame, Who gives the Goat Panchaudana illumined with the priestly fee.

@@ -2,5 +2,4 @@
 title = "५४ अहमस्मि सहमान"
 
 +++
-अ॒हम॑स्मि॒ सह॑मान॒ उत्त॑रो॒ नाम॒ भूम्या॑म्।  
-अ॒भी॒षाड॑स्मि विश्वा॒षाडाशा॑माशां विषास॒हिः ॥५४॥  
+I am victorious, I am called the lord superior on earth, Triumphant, all-o'erpowering the conqueror on every side

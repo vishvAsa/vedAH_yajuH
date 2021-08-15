@@ -2,5 +2,4 @@
 title = "०६ अन्तरिक्षेन सह"
 
 +++
-अ॒न्तरि॑क्षेन स॒ह वा॑जिनीवन् क॒र्कीं व॒त्सामि॒ह र॑क्ष वाजिन्।  
-इ॒मे ते॑ स्तो॒का ब॑हु॒ला एह्य॒र्वाङि॒यं ते॑ क॒र्कीह ते॒ मनो॑ऽस्तु ॥६॥  
+Together with the Air, O rich in treasure, guard here the white cow and the calf, O mighty! Here are abundant drops for thee, come hither! Here is thy white calf, let thy mind be with us.

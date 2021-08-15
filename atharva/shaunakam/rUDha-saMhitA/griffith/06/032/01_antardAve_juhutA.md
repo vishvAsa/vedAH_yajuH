@@ -2,5 +2,4 @@
 title = "०१ अन्तर्दावे जुहुता"
 
 +++
-अ॒न्त॒र्दा॒वे जु॑हुता॒ स्वे॒३तद् या॑तुधान॒क्षय॑णं घृ॒तेन॑ ।  
-आ॒राद् रक्षां॑सि॒ प्रति॑ दह॒ त्वम॑ग्ने॒ न नो॑ गृ॒हाणा॒मुप॑ तीतपासि ॥१॥  
+With butter, in his hall v4here fire is burning, perform that sacri- fice which quells the goblins. Burn from afar against the demons Agni! Afflict not in thy fury us who praise thee.

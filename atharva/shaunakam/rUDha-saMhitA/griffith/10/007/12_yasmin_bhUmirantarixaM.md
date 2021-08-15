@@ -2,5 +2,4 @@
 title = "१२ यस्मिन् भूमिरन्तरिक्षं"
 
 +++
-यस्मि॒न् भूमि॑र॒न्तरि॑क्षं॒ द्यौर्यस्मि॒न्नध्याहि॑ता ।  
-यत्रा॒ग्निश्च॒न्द्रमाः॒ सूर्यो॒ वात॒स्तिष्ठ॒न्त्यार्पि॑ताः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥१२॥  
+Who out of many, tell me, is that Skambha On whom as their foundation earth and firmament and sky are set; In whom as their appointed place rest Fire and Moon and Sun and Wind?

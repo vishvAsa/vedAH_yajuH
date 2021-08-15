@@ -2,5 +2,4 @@
 title = "०२ ये३स्यां स्थ"
 
 +++
-ये॒३स्यां स्थ दक्षि॑णायां दि॒श्यऽ वि॒ष्यवो॒ नाम॑ दे॒वास्तेषां॑ वः॒ काम॒ इष॑वः ।  
-ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥२॥  
+Ye Gods who dwell within this southward region, entitled Eager, Kama forms your arrows. Be kind, etc.

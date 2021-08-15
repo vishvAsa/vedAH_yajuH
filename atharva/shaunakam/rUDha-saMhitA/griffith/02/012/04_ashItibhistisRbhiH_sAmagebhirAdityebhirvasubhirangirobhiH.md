@@ -2,5 +2,4 @@
 title = "०४ अशीतिभिस्तिसृभिः सामगेभिरादित्येभिर्वसुभिरङ्गिरोभिः"
 
 +++
-अ॒शी॒तिभि॑स्ति॒सृभिः॑ साम॒गेभि॑रादि॒त्येभि॒र्वसु॑भि॒रङ्गि॑रोभिः ।  
-इ॒ष्टा॒पू॒र्तम॑वतु नः पितॄ॒णामामुं द॑दे॒ हर॑सा॒ दैव्ये॑न ॥४॥  
+Together with thrice-eighty Sama-singers, Angirases, and Vasus, and Adityas, May the felicity of the Fathers guard us. I seize that man with fire that Gods have kindled.

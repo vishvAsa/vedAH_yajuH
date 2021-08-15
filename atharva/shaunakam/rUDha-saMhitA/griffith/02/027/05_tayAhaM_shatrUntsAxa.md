@@ -2,5 +2,4 @@
 title = "०५ तयाहं शत्रून्त्साक्ष"
 
 +++
-तया॒हं शत्रू॑न्त्साक्ष॒ इन्द्रः॑ सालावृ॒काँ इ॑व ।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे ॥५॥  
+With this I overcome my foes as Indra overcame the wolves. Refute mine adversary's speech! Render them dull and flat, O Plant.

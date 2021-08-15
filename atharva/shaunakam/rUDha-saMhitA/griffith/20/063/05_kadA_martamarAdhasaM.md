@@ -2,4 +2,4 @@
 title = "०५ कदा मर्तमराधसं"
 
 +++
-क॒दा मर्त॑मरा॒धसं॑ प॒दा क्षुम्प॑मिव स्फुरत्। क॒दा नः॑ शुश्रव॒द् गिर॒ इन्द्रो॑ अ॒ङ्ग॥५॥  
+When will he trample like a weed the man who hath no gift for him? When verily will Indra hear our songs of praise?

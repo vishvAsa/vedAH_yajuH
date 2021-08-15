@@ -2,5 +2,4 @@
 title = "१० प्राणः प्रजा"
 
 +++
-प्रा॒णः प्र॒जा अनु॑ वस्ते पि॒ता पु॒त्रमि॑व प्रि॒यम्।  
-प्रा॒णो ह॒ सर्व॑स्येश्व॒रो यच्च॑ प्रा॒णति॒ यच्च॒ न॥१०॥  
+Prana robes living creatures as a father his beloved son. Prana is sovran Lord of all, of all that breathes not, all that breathes

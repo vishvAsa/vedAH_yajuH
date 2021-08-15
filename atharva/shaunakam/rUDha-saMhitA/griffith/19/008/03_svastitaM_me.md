@@ -2,5 +2,4 @@
 title = "०३ स्वस्तितं मे"
 
 +++
-स्वस्ति॑तं मे सुप्रा॒तः सु॑सा॒यं सु॑दि॒वं सु॑मृ॒गं सु॑श॒कुनं॑ मे अस्तु ।  
-सु॒हव॑मग्ने स्व॒स्त्य॑१मर्त्यं॑ ग॒त्वा पुन॒राया॑भि॒नन्द॑न्॥३॥  
+Fair be my sunset, fair my morn and evening and day with. lucky chase and happy omens; With blessing and success, immortal Agni, go to the mortal and. return rejoicing.

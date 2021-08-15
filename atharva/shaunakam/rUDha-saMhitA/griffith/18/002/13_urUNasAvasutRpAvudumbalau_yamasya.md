@@ -2,5 +2,4 @@
 title = "१३ उरूणसावसुतृपावुदुम्बलौ यमस्य"
 
 +++
-उ॒रू॒ण॒साव॑सु॒तृपा॑वुदुम्ब॒लौ य॒मस्य॑ दू॒तौ च॑रतो॒ जनां॒ अनु॑ ।  
-ताव॒स्मभ्यं॑ दृ॒शये॒ सूर्या॑य॒ पुन॑र्दाता॒मसु॑म॒द्येह भ॒द्रम्॥१३॥  
+Dark-hued, insatiate, with distended nostrils, Yama's two envoys roam among the people. May they restore to us a fair existence here and to-day that we may see the sunlight.

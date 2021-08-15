@@ -2,5 +2,4 @@
 title = "०१ अजो ह्य१ग्नेरजनिष्ट"
 
 +++
-अ॒जो ह्य॑१ग्नेरज॑निष्ट॒ शोका॒त् सो अ॑पश्यज्जनि॒तार॒मग्रे॑ ।  
-तेन॑ दे॒वा दे॒वता॒मग्रा॑ आय॒न् तेन॒ रोहा॑न् रुरुहु॒र्मेध्या॑सः ॥१॥  
+The Goat was verily produced from Agni. Through sorrow he beheld, at first, his father. Through him at first the Gods attained to godhead, and, meet for sacrifices, were exalted.

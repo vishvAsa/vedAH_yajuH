@@ -2,4 +2,4 @@
 title = "१० पयश्च रसश्चान्नं"
 
 +++
-पय॑श्च॒ रस॒श्चान्नं॑ चा॒न्नाद्यं॑ च॒र्तं च॑ स॒त्यं चे॒ष्टं च॑ पू॒र्तं च॑ प्र॒जा च॑ प॒शव॑श्च ॥१०॥  
+Milk and flavour, and food and nourishment, and right and truth, and action and fulfilment, and children and cattle;

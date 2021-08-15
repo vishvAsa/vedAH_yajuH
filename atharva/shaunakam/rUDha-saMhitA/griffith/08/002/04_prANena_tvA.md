@@ -2,5 +2,4 @@
 title = "०४ प्राणेन त्वा"
 
 +++
-प्रा॒णेन॑ त्वा द्वि॒पदां॒ चतु॑ष्पदाम॒ग्निमि॑व जा॒तम॒भि सं ध॑मामि ।  
-नम॑स्ते मृत्यो॒ चक्षु॑षे॒ नमः॑ प्रा॒णाय॑ तेऽकरम्॥४॥  
+I blow upon thee with the breath of bipeds and quadrupeds, as on a fire new-kindled. To thee, O Death, and to thy sight and breath have I paid reverence.

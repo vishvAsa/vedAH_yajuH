@@ -2,5 +2,4 @@
 title = "०७ तक्मन् मूजवतो"
 
 +++
-तक्म॒न् मूज॑वतो गच्छ॒ बल्हि॑कान् वा परस्त॒राम्।  
-शू॒द्रामि॑च्छ प्रफ॒र्व्यं॑१ तां त॑क्म॒न् वीऽव धूनुहि ॥७॥  
+Go, Fever, to the Mujavans, or, farther, to the Bahlikas. Seek a lascivious Sara girl and seem to shake her through and through.

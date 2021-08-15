@@ -2,5 +2,4 @@
 title = "०५ शल्याद्विषं निरवोचं"
 
 +++
-श॒ल्याद्वि॒षं निर॑वोचं प्राञ्ज॑नादु॒त प॒र्ण॒धेः ।  
-अ॒पा॒ष्ठाच्छृङ्गा॒त्कुल्म॑ला॒न्निर॑वोचमहं वि॒ष॑म्॥५॥  
+The poison have I charmed away from shaft, cement, and feather- ed end; Yea, from the barb, the neck, the horn, the poison have I charmed away.

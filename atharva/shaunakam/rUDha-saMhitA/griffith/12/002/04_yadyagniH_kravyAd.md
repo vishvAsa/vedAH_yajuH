@@ -2,5 +2,4 @@
 title = "०४ यद्यग्निः क्रव्याद्"
 
 +++
-यद्य॒ग्निः क्र॒व्याद् यदि॑ वा व्या॒घ्र इ॒मं गो॒ष्ठं प्र॑वि॒वेशान्यो॑काः ।  
-तं माषा॑ज्यं कृ॒त्वा प्र हि॑णोमि दू॒रं स ग॑च्छत्वप्सु॒षदोऽप्य॒ग्नीन्॥४॥  
+If the corpse-eating Agni, or a tiger leaving his lair, hath entered this our homestead, With beans prepared in butter I expel him: far let him go to fires that lie in waters.

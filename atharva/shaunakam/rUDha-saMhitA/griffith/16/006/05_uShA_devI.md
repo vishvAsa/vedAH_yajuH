@@ -2,4 +2,4 @@
 title = "०५ उषा देवी"
 
 +++
-उ॒षा दे॒वी वा॒चा सं॑विदा॒ना वाग् दे॒व्यु॑१षसा॑ संविदा॒ना॥५॥  
+May the Goddess Dawn in accord with Speech, and the Goddess Speech in accord with Dawn,

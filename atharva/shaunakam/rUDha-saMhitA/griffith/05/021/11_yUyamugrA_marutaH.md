@@ -2,5 +2,4 @@
 title = "११ यूयमुग्रा मरुतः"
 
 +++
-यू॒यमु॒ग्रा म॑रुतः पृश्निमातर॒ इन्द्रे॑ण यु॒जा प्र मृ॑णीत॒ शत्रू॑न्।  
-सोमो॒ राजा॒ वरु॑णो॒ राजा॑ महादे॒व उ॒त मृ॒त्युरिन्द्रः॑ ॥११॥  
+Do ye, O mighty Maruts, sons of Prisni, crush down, with Indra for ally, our foemen. King Soma. Varuna, great God and sovran, Indra too, aye, Death,--

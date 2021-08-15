@@ -2,5 +2,4 @@
 title = "०२ दूरे चित्"
 
 +++
-दू॒रे चि॒त् सन्त॑मरु॒षास॒ इन्द्र॒मा च्या॑वयन्तु स॒ख्याय॒ विप्र॑म्।  
-यद् गा॑य॒त्रीं बृ॑ह॒तीम॒र्कम॑स्मै सौत्राम॒ण्या दधृ॑षन्त दे॒वाः ॥२॥  
+Though he be far away, let the red horses bring Indra, bring the sage to us and friendship, Since with Sautramani Gods for him o'erpower Gayatri, Brihati, and hymn of praises.

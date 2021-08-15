@@ -2,5 +2,4 @@
 title = "०४ प्रस्तृणती स्तम्बिनीरेकशुङ्गाः"
 
 +++
-प्र॒स्तृ॒ण॒ती स्त॒म्बिनी॒रेक॑शुङ्गाः प्रतन्व॒तीरोष॑धी॒रा व॑दामि ।  
-अं॒शु॒मतीः॑ का॒ण्डिनी॒र्या विशा॑खा॒ ह्वया॑मि ते वी॒रुधो॑ वैश्वदे॒वीरु॒ग्राः पु॑रुष॒जीव॑नीः ॥४  
+I speak to Healing Herbs spreading, and bushy, to creepers, and to those whose sheath is single, I call for thee the fibrous and the reed-like, and branching. Plants, dear to the Visve Devas, powerful, giving life to men.

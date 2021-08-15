@@ -2,5 +2,4 @@
 title = "०८ त्वया वयं"
 
 +++
-त्वया॑ व॒यं शा॑शद्महे॒ रणे॑षु प्र॒पश्य॑न्तो यु॒धेन्या॑नि॒ भूरि॑ ।  
-चो॒दया॑मि त॒ आयु॑धा॒ वचो॑भिः॒ सं ते॑ शिशामि॒ ब्रह्म॑णा॒ वयां॑सि ॥८॥  
+Proudly we put our trust in thee in battles, when we behold great wealth the prize of combat. I with my words impel thy weapons onward, and sharpen with my prayer thy vital vigour.

@@ -2,5 +2,7 @@
 title = "०२ वि न"
 
 +++
-वि न॑ इन्द्र॒ मृधो॑ जहि नीचा॒ य॑च्छ पृतन्य॒तः ।  
-अ॒ध॒मं ग॑मया॒ तमो॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥२॥  
+id
+1.21.2    Indra, subdue our enemies, lay low the men who...
+1.21.2    With ruddy hues we compass thee that thou mays...
+Name: Comment, dtype: object

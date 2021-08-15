@@ -2,6 +2,4 @@
 title = "१७ ये पुरुषे"
 
 +++
-ये पुरु॑षे॒ ब्रह्म॑ वि॒दुस्ते वि॑दुः परमे॒ष्ठिन॑म्।  
-यो वेद॑ परमे॒ष्ठिनं॒ यश्च॒ वेद॑ प्र॒जाप॑तिम्।  
-ज्ये॒ष्ठं ये ब्राह्म॑णं वि॒दुस्ते स्क॒म्भम॑नु॒संवि॑दुः ॥१७॥  
+They who in Purusha understand Brahma know Him who is. Supreme. He who knows Him who is Supreme, and he who knows the Lord of Life, These know the loftiest Power Divine, and thence know Skam- bha thoroughly.

@@ -2,5 +2,4 @@
 title = "०३ परीदं वासो"
 
 +++
-परी॒दं वासो॑ अधिथाः स्व॒स्तयेऽभू॑र्गृष्टी॒नाम॑भिशस्ति॒पा उ॑ ।  
-श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒ची रा॒यश्च॒ पोष॑मुप॒संव्य॑यस्व ॥३॥  
+Thou for our w eal hast clothed thee in the mantle: thou hast become our heifers' guard from witchcraft. Live thou a hundred full and plenteous autumns, and wrap thee in prosperity of riches.

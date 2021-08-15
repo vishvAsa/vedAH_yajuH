@@ -2,4 +2,4 @@
 title = "०२ रश्मिभिर्नभ आभृतं"
 
 +++
-र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥२॥  
+To misty cloud filled with his rays Mahendra goes encompassed round.

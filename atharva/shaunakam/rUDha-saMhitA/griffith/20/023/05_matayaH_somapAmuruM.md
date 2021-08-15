@@ -2,4 +2,4 @@
 title = "०५ मतयः सोमपामुरुं"
 
 +++
-म॒तयः॑ सोम॒पामु॒रुं रि॒हन्ति॒ शव॑स॒स्पति॑म्। इन्द्रं॑ व॒त्सं न मा॒तरः॑ ॥५॥  
+Our hymns caress the Lord of Strength, vast, drinker of the Soma's juice, Indra, as mother-cows their calf.

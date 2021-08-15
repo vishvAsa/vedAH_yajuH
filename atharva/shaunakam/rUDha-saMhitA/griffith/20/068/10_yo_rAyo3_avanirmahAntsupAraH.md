@@ -2,4 +2,4 @@
 title = "१० यो रायो३ऽवनिर्महान्त्सुपारः"
 
 +++
-यो रा॒यो॒३ऽवनि॑र्म॒हान्त्सु॑पा॒रः सु॑न्व॒तः सखा॑ । तस्मा॒ इन्द्रा॑य गायत ॥१०॥  
+To him the mighty stream of wealth, prompt Friend of him who pours the juice, Yea, to this Indra sing your song.

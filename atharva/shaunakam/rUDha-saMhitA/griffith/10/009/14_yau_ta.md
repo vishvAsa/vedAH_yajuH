@@ -2,5 +2,4 @@
 title = "१४ यौ त"
 
 +++
-यौ त॒ ओष्ठौ॒ ये नासि॑के॒ ये शृङ्गे॒ ये च॒ तेऽक्षि॑णी ।  
-आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥१४॥  
+Let both thy lips, thy nostrils, both thy horns, and these two eyes of thine. Pour for the given, etc.

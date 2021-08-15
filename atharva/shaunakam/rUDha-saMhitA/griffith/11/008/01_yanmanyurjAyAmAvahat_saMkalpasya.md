@@ -2,5 +2,4 @@
 title = "०१ यन्मन्युर्जायामावहत् संकल्पस्य"
 
 +++
-यन्म॒न्युर्जा॒यामाव॑हत् संक॒ल्पस्य॑ गृ॒हादधि॑ ।  
-क आ॑सं॒ जन्याः॒ के व॒राः क उ॑ ज्येष्ठव॒रोऽभवत्॥१॥  
+When Manyu brought his consort home forth from Sankalpa's dwelling-place, Who were the wooers of the bride, who was the chief who courted her?

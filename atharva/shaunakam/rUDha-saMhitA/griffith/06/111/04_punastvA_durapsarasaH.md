@@ -2,5 +2,4 @@
 title = "०४ पुनस्त्वा दुरप्सरसः"
 
 +++
-पुन॑स्त्वा दुरप्स॒रसः॒ पुन॒रिन्द्रः॒ पुन॒र्भगः॑ ।  
-पुन॑स्त्वा दु॒र्विश्वे॑ दे॒वा यथानु॑न्मदि॒तोऽस॑सि ॥४॥
+May the Apsarases release, Indra and Bhaga let thee go. May all the Gods deliver thee that thou no longer mayst be mad.

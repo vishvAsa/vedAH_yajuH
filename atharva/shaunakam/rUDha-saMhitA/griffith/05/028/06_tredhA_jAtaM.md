@@ -2,5 +2,4 @@
 title = "०६ त्रेधा जातं"
 
 +++
-त्रे॒धा जा॒तं जन्म॑ने॒दं हिर॑ण्यम॒ग्नेरेकं॑ प्रि॒यत॑मं बभूव॒ सोम॒स्यैकं॑ हिंसि॒तस्य॒ परा॑पतत्।  
-अ॒पामेकं॑ वे॒धसां॒ रेत॑ आहु॒स्तत् ते हिर॑ण्यं त्रि॒वृद॒स्त्वायु॑षे ॥६॥  
+This gold, born threefold at its first production, grew the one thing that Agni loved most dearly: it fell away, one part of injured Soma. One part they call seed of the sapient Waters. This gold bring thee long life when triply threaded!

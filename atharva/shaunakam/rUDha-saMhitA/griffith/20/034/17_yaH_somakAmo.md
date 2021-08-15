@@ -2,5 +2,4 @@
 title = "१७ यः सोमकामो"
 
 +++
-यः सोम॑कामो॒ हर्य॑श्वः सू॒रिर्यस्मा॒द् रेज॑न्ते॒ भुव॑नानि॒ विश्वा॑ ।  
-यो ज॒घान॒ शम्ब॑रं॒ यश्च॒ शुष्णं॒ य ए॑कवी॒रः स ज॑नास॒ इन्द्रः॑ ॥१७॥  
+Lord of Bay steeds, who loves the flowing Soma, He before whom all living creatures tremble. He who smote Sambara and slaughtered Sushna, He the Sole Hero, He, O men, is Indra.

@@ -2,5 +2,4 @@
 title = "१० आशरीकं विशरीकं"
 
 +++
-आश॑रीकं॒ विश॑रीकं ब॒लासं॑ पृष्ट्याम॒यम्।  
-त॒क्मानं॑ वि॒श्वशा॑रदमर॒सां ज॑ङ्गि॒डस्क॑रत्॥१०॥
+Lumbago and rheumatic pain, consumptive cough, and pleurisy, And fever which each Autumn brings, may Jangida make- powerless.

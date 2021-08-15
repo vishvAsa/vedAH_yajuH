@@ -2,5 +2,4 @@
 title = "०४ तं त्वा"
 
 +++
-तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स त्वं स्व॒प्नाश्व॑ इव का॒यमश्व॑ इव नीना॒हम्।  
-अ॒ना॒स्मा॒कं दे॑वपी॒युं पिया॑रुं वप॒ यद॒स्मासु॑ दु॒ष्वप्न्यं॒ यद् गोषु॒ यच्च॑ नो गृ॒हे॥४॥  
+Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, Dream, as such we know thee well. Like a horse art thou, O Dream. As they bind girth and surcingle on a horse, so bind the alien mischief-maker, the scorner of the Gods.

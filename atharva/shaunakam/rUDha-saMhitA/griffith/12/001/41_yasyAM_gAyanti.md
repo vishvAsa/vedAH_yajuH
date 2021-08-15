@@ -2,6 +2,4 @@
 title = "४१ यस्यां गायन्ति"
 
 +++
-यस्यां॒ गाय॑न्ति॒ नृत्य॑न्ति॒ भूम्यां॒ मर्त्या॒ व्यैऽलबाः ।  
-यु॒ध्यन्ते॒ यस्या॑माक्र॒न्दो यस्यां॒ वद॑ति दुन्दु॒भिः ।  
-सा नो॒ भूमिः॒ प्र णु॑दतां स॒पत्ना॑नसप॒त्नं मा॑ पृथि॒वी कृ॑णोतु ॥४१॥  
+May she, the Earth, whereon men sing and dance with varied shout and noise, Whereon men meet in battle, and the war-cry and the drum resound, May she drive off our foemen, may Prithivi rid me of my foes.

@@ -2,4 +2,4 @@
 title = "०३ मा मां"
 
 +++
-मा मां प्रा॒णो हा॑सी॒न्मो अ॑पा॒नोऽव॒हाय॒ परा॑ गात्॥३॥  
+Let not inward breath desert me; let not outward breath depart and leave me.

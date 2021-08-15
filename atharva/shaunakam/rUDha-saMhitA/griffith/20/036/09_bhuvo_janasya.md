@@ -2,5 +2,4 @@
 title = "०९ भुवो जनस्य"
 
 +++
-भुवो॒ जन॑स्य दि॒व्यस्य॒ राजा॒ पार्थि॑वस्य॒ जग॑तस्त्वेषसंदृक्।  
-धि॒ष्व वज्रं॒ दक्षि॑ण इन्द्र॒ हस्ते॒ विश्वा॑ अजुर्य दयसे॒ वि मा॒याः ॥९॥  
+Of all the heavenly folk, of earthly creatures, thou art the King, O God of splendid aspect. In thy right hand, O Indra, grasp the thunder: Eternal! thou destroyest all enchantments.

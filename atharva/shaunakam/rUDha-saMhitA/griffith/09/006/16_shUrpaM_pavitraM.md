@@ -2,4 +2,4 @@
 title = "१६ शूर्पं पवित्रं"
 
 +++
-शूर्पं॑ प॒वित्रं॒ तुषा॑ ऋजी॒षाभि॒षव॑णी॒रापः॑ ॥१६॥  
+The winnowing-basket is the filter, the chaff the Soma dregs, the water, the pressing-gear.

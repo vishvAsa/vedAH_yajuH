@@ -2,5 +2,4 @@
 title = "४४ समिमां मात्रां"
 
 +++
-समि॒मां मात्रां॑ मिमीमहे॒ यथाप॑रं॒ न मासा॑तै ।  
-श॒ते श॒रत्सु॒ नो पु॒रा॥४४॥  
+This date we mete and measure out, that it may ne'er be fixt. again. A hundred autumns: not before.

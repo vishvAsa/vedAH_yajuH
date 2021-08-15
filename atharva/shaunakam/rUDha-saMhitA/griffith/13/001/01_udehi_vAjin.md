@@ -2,5 +2,4 @@
 title = "०१ उदेहि वाजिन्"
 
 +++
-उ॒देहि॑ वाजि॒न् यो अ॒प्स्व॑१न्तरि॒दं रा॒ष्ट्रं प्र वि॑श सू॒नृता॑वत्।  
-यो रोहि॑तो॒ विश्व॑मि॒दं ज॒जान॒ स त्वा॑ रा॒ष्ट्राय॒ सुभृ॑तं बिभर्तु ॥१॥  
+Rise, Mighty One, who liest in the waters, and enter this thy fair and glorious kingdom. Let Rohita who made this All uphold thee carefully nurtured for supreme dominion.

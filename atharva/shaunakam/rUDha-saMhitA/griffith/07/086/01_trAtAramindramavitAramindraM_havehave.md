@@ -2,5 +2,4 @@
 title = "०१ त्रातारमिन्द्रमवितारमिन्द्रं हवेहवे"
 
 +++
-त्रा॒तार॒मिन्द्र॑मवि॒तार॒मिन्द्रं॒ हवे॑हवे सु॒हवं॒ शूर॒मिन्द्र॑म्।  
-हु॒वे नु श॒क्रं पु॑रुहू॒तमिन्द्रं॑ स्व॒स्ति न॒ इन्द्रो॑ म॒घवा॑न् कृणोतु ॥१॥
+Indra the rescuer, Indra the helper, Indra the brave who hears each invocation, Sakra I call, Indra invoked of many. May Indra Maghavan pros- per and bless us.

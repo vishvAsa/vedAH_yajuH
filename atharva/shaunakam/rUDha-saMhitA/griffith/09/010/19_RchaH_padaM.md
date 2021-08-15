@@ -2,5 +2,4 @@
 title = "१९ ऋचः पदं"
 
 +++
-ऋ॒चः प॒दं मात्र॑या क॒ल्पय॑न्तोऽर्ध॒र्चेन॑ चाक्लृपु॒र्विश्व॒मेज॑त्।  
-त्रि॒पाद् ब्रह्म॑ पुरु॒रूपं॒ वि त॑ष्ठे॒ तेन॑ जीवन्ति प्र॒दिश॒श्चत॑स्रः ॥१९॥  
+They, ordering the verse's foot by measure, with the half-verse arranged each thing that moveth. Prayer was diffused in many forms three-footed thereby the world's four regions have their being

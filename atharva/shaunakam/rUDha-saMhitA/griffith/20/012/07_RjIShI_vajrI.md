@@ -2,5 +2,4 @@
 title = "०७ ऋजीषी वज्री"
 
 +++
-ऋ॒जी॒षी व॒ज्री वृ॑ष॒भस्तु॑रा॒षाट्छु॒ष्मी राजा॑ वृत्र॒हा सो॑म॒पावा॑ ।  
-यु॒क्त्वा हरि॑भ्या॒मुप॑ यासद॒र्वाङ् माध्यं॑दिने॒ सव॑ने मत्स॒दिन्द्रः॑ ॥७॥
+Impetuous, Thunderer, strong, quelling the mighty, King, potent, Vritra-slayer, Soma-drinker, May he come hither with his yoked bay horses. May Indra glad- den him at noon libation.

@@ -2,5 +2,4 @@
 title = "०३ संवत्सरस्य प्रतिमां"
 
 +++
-सं॒व॒त्स॒रस्य॑ प्रति॒मां यां त्वा॑ रात्र्यु॒पास्म॑हे ।  
-सा न॒ आयु॑ष्मतीं प्र॒जां रा॒यस्पोषे॑ण॒ सं सृ॑ज ॥३॥  
+Thou whom with reverence we approach, O Night, as model of the Year, Vouchsafe. us children long to live; bless us with increase of our wealth.

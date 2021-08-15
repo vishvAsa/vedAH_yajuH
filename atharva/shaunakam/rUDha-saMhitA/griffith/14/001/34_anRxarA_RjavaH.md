@@ -2,5 +2,4 @@
 title = "३४ अनृक्षरा ऋजवः"
 
 +++
-अ॒नृ॒क्ष॒रा ऋ॒जवः॑ सन्तु॒ पन्थ॑नो॒ येभिः॒ सखा॑यो॒ यन्ति॑ नो वरे॒यम्।  
-सं भगे॑न॒ सम॑र्य॒म्णा सं धा॒ता सृ॑जतु॒ वर्च॑सा ॥३४॥  
+Straight in direction be the paths, and thornless, whereby our fellows travel to the wooing. With Bhaga and with Aryaman Dhatar endue the pair with strength!

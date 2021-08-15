@@ -2,4 +2,4 @@
 title = "४८ क्षिप्रं वै"
 
 +++
-क्षि॒प्रं वै तस्या॒दह॑नं॒ परि॑ नृत्यन्ति के॒शनी॑राघ्ना॒नाः पा॒णिनोर॑सि कुर्वा॒णाः पा॒पमै॑ल॒बम्॥४८॥  
+Quickly around his funeral fire dance women with dishevelled locks, Striking the hand upon the breast and uttering their evil shriek.

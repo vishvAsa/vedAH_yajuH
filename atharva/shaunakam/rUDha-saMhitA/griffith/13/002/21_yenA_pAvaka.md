@@ -2,5 +2,4 @@
 title = "२१ येना पावक"
 
 +++
-येना॑ पावक॒ चक्ष॑सा भुर॒ण्यन्तं॒ जनाँ॒ अनु॑ ।  
-त्वं व॑रुण॒ पश्य॑सि ॥२१॥  
+With that same eye of thine wherewith thou seest, brilliant Varuna. The active one among mankind,

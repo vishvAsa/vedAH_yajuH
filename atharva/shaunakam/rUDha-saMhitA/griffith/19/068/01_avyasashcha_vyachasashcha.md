@@ -2,5 +2,4 @@
 title = "०१ अव्यसश्च व्यचसश्च"
 
 +++
-अव्य॑सश्च॒ व्यच॑सश्च॒ बिलं॒ वि ष्या॑मि मा॒यया॑ ।  
-ताभ्या॑मु॒द्धृत्य॒ वेद॒मथ॒ कर्मा॑णि कृण्महे ॥१॥
+Both of broad and narrow I with magic power unclose the mouth. With these when we have raised the bunch of grass we pay the holy rites.

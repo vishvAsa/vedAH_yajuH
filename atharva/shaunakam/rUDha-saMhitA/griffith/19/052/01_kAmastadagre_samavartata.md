@@ -2,5 +2,4 @@
 title = "०१ कामस्तदग्रे समवर्तत"
 
 +++
-काम॒स्तदग्रे॒ सम॑वर्तत॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त्।  
-स का॑म॒ कामे॑न बृह॒ता सयो॑नी रा॒यस्पोषं॒ यज॑मानाय धेहि ॥१॥  
+Thereafter rose Desire in the beginning, Desire the primal seed and germ of Spirit. O Kama dwelling with the lofty Kama, give growth of riches to the sacrificer.

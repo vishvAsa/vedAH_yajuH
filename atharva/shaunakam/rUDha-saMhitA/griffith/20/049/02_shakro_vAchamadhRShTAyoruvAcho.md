@@ -2,4 +2,4 @@
 title = "०२ शक्रो वाचमधृष्टायोरुवाचो"
 
 +++
-श॒क्रो वाच॒मधृ॑ष्टा॒योरु॑वाचो॒ अधृ॑ष्णुहि । मं॑हिष्ठ॒ आ म॑द॒र्दिवि॑ ॥२॥  
+Praise with the voice the Mighty, praise the awful with the voice: in heaven He, the most bounteous, hath been glad.

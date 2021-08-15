@@ -2,5 +2,4 @@
 title = "०१ अपेन्द्र प्राचो"
 
 +++
-अपे॑न्द्र॒ प्रा॑चो मघवन्न॒मित्रा॒नपापा॑चो अभिभूते नुदस्व ।  
-अपोदी॑चो॒ अप॑ शूराध॒राच॑ उ॒रौ यथा॒ तव॒ शर्म॒न् मदे॑म ॥१॥  
+Drive all our enemies away, O Indra, the western, mighty Con- queror, and the eastern, Hero, drive off our northern foes and southern, that we in thy wide shelter may be joyful.

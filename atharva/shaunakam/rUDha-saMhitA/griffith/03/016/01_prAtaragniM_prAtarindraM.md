@@ -2,5 +2,4 @@
 title = "०१ प्रातरग्निं प्रातरिन्द्रं"
 
 +++
-प्रा॒तर॒ग्निं प्रा॒तरिन्द्रं॑ हवामहे प्रा॒तर्मि॒त्रावरु॑णा प्रा॒तर॒श्विना॑ ।  
-प्रा॒तर्भगं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पतिं॑ प्रा॒तः सोम॑मु॒त रु॒द्रं ह॑वामहे ॥१॥  
+Agni at dawn, and Indra we invoke at dawn, and Varuna and Mitra, and the Asvins twain: Bhaga at dawn, Pushan and Brahmanaspati, Soma at dawn, and Rudra we invoke at dawn.

@@ -2,5 +2,4 @@
 title = "०३ सिन्धुपत्नीः सिन्धुराज्ञीः"
 
 +++
-सिन्धु॑पत्नीः॒ सिन्धु॑राज्ञीः॒ सर्वा॒ या न॒द्य॑१स्थन॑ ।  
-द॒त्त न॒स्तस्य॑ भेष॒जं तेना॑ वो भुनजामहै ॥३॥
+All Rivers who have Sindhu for your Lady, Sindhu for your Queen, Give us the balm that heals this ill: this boon let us enjoy from you.

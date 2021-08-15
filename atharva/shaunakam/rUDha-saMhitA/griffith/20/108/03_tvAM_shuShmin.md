@@ -2,4 +2,4 @@
 title = "०३ त्वां शुष्मिन्"
 
 +++
-त्वां शु॑ष्मिन् पुरुहूत वाज॒यन्त॒मुप॑ ब्रुवे शतक्रतो । स नो॑ रास्व सु॒वीर्य॑म्॥३॥
+To thee, Strong, Much-invoked who showest forth thy strength, O Satakratu, do I speak: So grant thou us heroic might.

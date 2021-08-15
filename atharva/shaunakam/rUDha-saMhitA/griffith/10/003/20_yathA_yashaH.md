@@ -2,6 +2,4 @@
 title = "२० यथा यशः"
 
 +++
-यथा॒ यशः॑ क॒न्याऽयां॒ यथा॒स्मिन्त्संभृ॑ते॒ रथे॑ ।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु॒  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥२०॥  
+As glory dwelleth in a maid, and in this well-constructed car, So may the Charm, etc.

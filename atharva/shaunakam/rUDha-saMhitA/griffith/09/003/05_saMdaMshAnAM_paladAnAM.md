@@ -2,5 +2,4 @@
 title = "०५ संदंशानां पलदानां"
 
 +++
-सं॒दं॒शानां॑ पल॒दानां॒ परि॑ष्वञ्जल्यस्य च ।  
-इ॒दं मान॑स्य॒ पत्न्या॑ न॒द्धानि॒ वि चृ॑तामसि ॥५॥  
+We loosen here the ties and bands of straw in bundles, and of clamps, Of all that compasses and binds the Lady Genius of the Home.

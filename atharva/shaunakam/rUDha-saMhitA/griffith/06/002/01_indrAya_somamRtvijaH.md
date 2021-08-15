@@ -2,5 +2,4 @@
 title = "०१ इन्द्राय सोममृत्विजः"
 
 +++
-इन्द्रा॑य॒ सोम॑मृत्विजः सु॒नोता च॑ धावत ।  
-स्तो॒तुर्यो वचः॑ शृ॒णव॒द्धवं॑ च मे ॥१॥  
+For Indra, ministering priests! run ye and press the Soma juice, That he may hear his praiser's word, and this my call.

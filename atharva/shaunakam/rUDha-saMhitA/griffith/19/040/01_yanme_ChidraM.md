@@ -2,5 +2,4 @@
 title = "०१ यन्मे छिद्रं"
 
 +++
-यन्मे॑ छि॒द्रं मन॑सो॒ यच्च॑ वा॒चः सर॑स्वती मन्यु॒मन्तं॑ ज॒गाम॑ ।  
-विश्वै॒स्तद् दे॒वैः स॒ह सं॑विदा॒नः सं द॑धातु॒ बृह॒स्पतिः॑ ॥१॥  
+For each defect of mine in voice and spirit I have approached One vehement and ardent. With all the Deities, fully approving, Brihaspati supply the want!

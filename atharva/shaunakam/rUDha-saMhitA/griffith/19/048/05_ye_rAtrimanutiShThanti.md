@@ -2,5 +2,4 @@
 title = "०५ ये रात्रिमनुतिष्ठन्ति"
 
 +++
-ये रात्रि॑मनु॒तिष्ठ॑न्ति॒ ये च॑ भू॒तेषु॒ जाग्र॑ति ।  
-प॒शून् ये सर्वा॒न् रक्ष॑न्ति॒ ते न॑ आ॒त्मसु॑ जाग्रति॒ ते नः॑ प॒शुषु॑ जाग्रति ॥५॥  
+They who are followers of Night, and they who watch o'er living things. They who protect all cattle, they keep watch and ward over our lives, over our herds keep watch and ward.

@@ -2,4 +2,4 @@
 title = "१२ स नो"
 
 +++
-स नो॑ वृषन्न॒मुं च॒रुं सत्रा॑दाव॒न्नपा॑ वृधि । अ॒स्मभ्य॒मप्र॑तिष्कुतः ॥१२॥  
+Unclose, our manly Hero, thou for ever bounteous, yonder cloud, For us, thou irresistible.

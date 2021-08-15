@@ -2,5 +2,4 @@
 title = "०३ बृहस्पते या"
 
 +++
-बृह॑स्पते॒ या प॑र॒मा प॑रा॒वदत॒ आ त॑ ऋत॒स्पृशो॒ नि षे॑दुः ।  
-तुभ्यं॑ खा॒ता अ॑व॒ता अद्रि॑दुग्धा॒ मध्व॑ श्चोतन्त्य॒भितो॑ विर॒प्शम्॥३॥  
+Brihaspati, from thy remotest distance have they sat down who love the law eternal. For thee were dug wells springing from the mountain, which murmuring round about pour streams of sweetness.

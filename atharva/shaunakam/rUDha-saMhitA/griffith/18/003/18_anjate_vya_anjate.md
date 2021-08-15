@@ -2,5 +2,4 @@
 title = "१८ अञ्जते व्यऽञ्जते"
 
 +++
-अ॒ञ्जते॒ व्यऽञ्जते॒ सम॑ञ्जते॒ क्रतुं॑ रिहन्ति॒ मधु॑ना॒भ्यऽञ्जते ।  
-सिन्धो॑रुच्छ्वा॒से प॒तय॑न्तमु॒क्षणं॑ हिरण्यपा॒वाः प॒शुमा॑सु गृह्णते ॥१८॥  
+They balm him, balm him over, balm him thoroughly, caress the mighty power and balm it with the mead, They seize the flying steer at the stream's breathing-place: cleansing with gold they grasp the animal herein.

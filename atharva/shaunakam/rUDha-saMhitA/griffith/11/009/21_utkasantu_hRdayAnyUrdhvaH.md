@@ -2,5 +2,4 @@
 title = "२१ उत्कसन्तु हृदयान्यूर्ध्वः"
 
 +++
-उत्क॑सन्तु॒ हृद॑यान्यू॒र्ध्वः प्रा॒ण उदी॑षतु ।  
-शौ॒ष्का॒स्यमनु॑ वर्तताम॒मित्रा॒न्मोत मि॒त्रिणः॑ ॥२१॥  
+Let their hearts burst asunder, let their breath fly up and pass away. Let dryness of the mouth o'ertake our foemen, not the friendly ones.

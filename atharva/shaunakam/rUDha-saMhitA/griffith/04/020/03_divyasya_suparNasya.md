@@ -2,5 +2,4 @@
 title = "०३ दिव्यस्य सुपर्णस्य"
 
 +++
-दि॒व्यस्य॑ सुप॒र्णस्य॒ तस्य॑ हासि क॒नीनि॑का ।  
-सा भूमि॒मा रु॑रोहिथ व॒ह्यं श्रा॒न्ता व॒धूरि॑व ॥३॥  
+The pupil, verily, art thou of that celestial Engle's eye. On earth hast thou alighted as a weary woman seeks her couch.

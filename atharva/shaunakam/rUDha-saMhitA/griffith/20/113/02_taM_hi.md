@@ -2,5 +2,4 @@
 title = "०२ तं हि"
 
 +++
-तं हि स्व॒राजं॑ वृष॒भं तमोज॑से धि॒षणे॑ निष्टत॒क्षतुः॑ ।  
-उ॒तोप॒मानां॑ प्रथ॒मो नि षी॑दसि॒ सोम॑कामं॒ हि ते॒ मनः॑ ॥२॥
+For him, strong independent Ruler, Heaven and Earth have fashioned forth for power and might. Thou seatest thee as first among thy peers in place, for thy soul longs for Soma juice.

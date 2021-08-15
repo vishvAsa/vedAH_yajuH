@@ -2,4 +2,4 @@
 title = "१९ स पराभूत्याः"
 
 +++
-स परा॑भूत्याः॒ पाशा॒न्मा मो॑चि॥३॥  
+Whatever, etc. Let him not be freed from the noose of the Months, etc.

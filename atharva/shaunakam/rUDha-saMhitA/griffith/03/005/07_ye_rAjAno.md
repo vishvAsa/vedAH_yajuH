@@ -2,5 +2,4 @@
 title = "०७ ये राजानो"
 
 +++
-ये राजा॑नो राज॒कृतः॑ सू॒ता ग्रा॑म॒ण्यऽश्च॒ ये।  
-उ॒प॒स्तीन् प॑र्ण॒ मह्यं॒ त्वं सर्वा॑न् कृण्व॒भितो॒ जनान्॥७॥  
+The kings and makers of the kings, troop-leaders, masters of the horse, Make all the men on every side, Parna, obedient to my will.

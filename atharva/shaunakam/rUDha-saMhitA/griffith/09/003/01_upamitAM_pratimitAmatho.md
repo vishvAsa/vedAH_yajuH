@@ -2,5 +2,4 @@
 title = "०१ उपमितां प्रतिमितामथो"
 
 +++
-उ॒प॒मितां॑ प्रति॒मिता॒मथो॑ परि॒मिता॑मु॒त।  
-शाला॑या वि॒श्ववा॑राया न॒द्धानि॒ वि चृ॑तामसि ॥१॥  
+We loose the ties and fastenings of the house that holds all precious things, The bands of pillars and of stays, the ties of beams that form the roof.

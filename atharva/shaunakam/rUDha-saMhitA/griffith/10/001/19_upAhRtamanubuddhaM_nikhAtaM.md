@@ -2,5 +2,4 @@
 title = "१९ उपाहृतमनुबुद्धं निखातं"
 
 +++
-उ॒पाहृ॑त॒मनु॑बुद्धं॒ निखा॑तं॒ वैरं॑ त्सा॒र्यन्व॑विदाम॒ कर्त्र॑म्।  
-तदे॑तु॒ यत॒ आभृ॑तं॒ तत्राश्व॑ इव॒ वि व॑र्ततां॒ हन्तु॑ कृत्या॒कृतः॑ प्र॒जाम्॥१९॥  
+That tool of hatred, understood, made ready, stealthy and buried deep, have we discovered, Let that go back to whence it came, turn thither like a horse and kill the children of the sorcerer.

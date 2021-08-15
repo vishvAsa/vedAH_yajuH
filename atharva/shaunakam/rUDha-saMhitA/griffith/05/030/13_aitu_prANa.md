@@ -2,5 +2,4 @@
 title = "१३ ऐतु प्राण"
 
 +++
-ऐतु॑ प्रा॒ण ऐतु॑ मन॒ ऐतु॒ चक्षु॒रथो॒ बल॑म्।  
-शरी॑रमस्य॒ सं वि॑दां॒ तत् प॒द्भ्यां प्रति॑ तिष्ठतु ॥१३॥  
+Let breath and mind return to him, let sight and vigour come again Let all his body be restored and firmly stand upon its feet.

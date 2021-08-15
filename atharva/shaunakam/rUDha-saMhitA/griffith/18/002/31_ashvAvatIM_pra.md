@@ -2,5 +2,4 @@
 title = "३१ अश्वावतीं प्र"
 
 +++
-अश्वा॑वतीं॒ प्र त॑र॒ या सु॒शेवा॒र्क्षाकं॑ वा प्रत॒रं नवी॑यः ।  
-यस्त्वा॑ ज॒घान॒ वध्यः॒ सो अ॑स्तु॒ मा सो अ॒न्यद् वि॑दत भाग॒धेय॑म्॥३१॥  
+Prolong the pleasant Dawn enriched with horses-or bearing us. anew beyond the darkness. Adjudged to die be he, the man who slew thee: this portion let him find, and not another.

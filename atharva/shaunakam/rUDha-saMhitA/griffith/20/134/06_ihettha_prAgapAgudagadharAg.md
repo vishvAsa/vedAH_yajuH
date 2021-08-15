@@ -2,4 +2,4 @@
 title = "०६ इहेत्थ प्रागपागुदगधराग्"
 
 +++
-इ॒हेत्थ प्रागपा॒गुद॑ग॒धराग् – अक्ष्लि॑ली॒ पुच्छिली॑यते ॥६॥
+Here east and west and north and south fain would it clasp what would not clasp. Emmet hole.

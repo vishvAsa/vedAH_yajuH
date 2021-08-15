@@ -2,5 +2,4 @@
 title = "०६ असितस्य तैमातस्य"
 
 +++
-अ॒सि॒तस्य॑ तैमा॒तस्य॑ ब॒भ्रोरपो॑दकस्य च ।  
-सा॒त्रा॒सा॒हस्या॒हं म॒न्योरव॒ ज्यामि॑व॒ धन्व॑नो॒ वि मु॑ञ्चामि॒ रथाँ॑ इव ॥६॥  
+Even as the cord that strings the bow, I slacken, as it were, the cars. Of the All-conquering serpent's wrath, of the fierce rage of Black, and Brown, Taimata, and Apodaka.

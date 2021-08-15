@@ -2,5 +2,4 @@
 title = "०२ ऋतं शंसन्त"
 
 +++
-ऋ॒तं शंस॑न्त ऋ॒जु दीध्या॑ना दि॒वस्पु॒त्रासो॒ असु॑रस्य वी॒राः ।  
-विप्रं॑ प॒दमङ्गि॑रसो॒ दधा॑ना य॒ज्ञस्य॒ धाम॑ प्रथ॒मं म॑नन्त ॥२॥  
+Thinking aright, praising eternal Order, the sons of Dyaus the Asura, those heroes, Angirases, holding the rank of sages, first honoured sacrifice's holy statute.

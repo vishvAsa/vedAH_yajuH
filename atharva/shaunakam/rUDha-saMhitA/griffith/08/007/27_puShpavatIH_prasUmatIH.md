@@ -2,5 +2,4 @@
 title = "२७ पुष्पवतीः प्रसूमतीः"
 
 +++
-पुष्प॑वतीः प्र॒सूम॑तीः फ॒लिनी॑रफ॒ला उ॒त।  
-सं॒मा॒तर॑ इव दुह्राम॒स्मा अ॑रि॒ष्टता॑तये ॥२७॥  
+Let Plants with flower and Plants with bud, the fruitful and the fruitless, all, Like children of one mother, yield their stores for this man's perfeet health.

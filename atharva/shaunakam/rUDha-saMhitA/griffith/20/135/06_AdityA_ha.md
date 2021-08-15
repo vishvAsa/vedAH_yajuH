@@ -2,5 +2,4 @@
 title = "०६ आदित्या ह"
 
 +++
-आदि॑त्या ह जरितरङ्गि॑रोभ्यो॒ दक्षि॑णाम॒नय॑न्।  
-तां ह॑ जरितः॒ प्रत्या॑यं॒स्तामु ह॑ जरितः॒ प्रत्या॑यन्॥६॥  
+O singer, the Adityas brought rich guerdon to the Angirases. Singer, they went not near to it. Singer, they did not take the gift.

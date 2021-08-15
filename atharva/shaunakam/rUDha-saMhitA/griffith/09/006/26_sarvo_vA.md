@@ -2,4 +2,4 @@
 title = "२६ सर्वो वा"
 
 +++
-सर्वो॒ वा ए॒षोऽज॑ग्धपाप्मा॒ यस्यान्नं॒ नाश्नन्ति॑ ।९। २६॥  
+All that man's sin whose food they do not eat remains unblot- ted out.

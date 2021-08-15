@@ -2,5 +2,4 @@
 title = "०७ विभ्राजं ज्योतिषा"
 
 +++
-  
-वि॒भ्राजं॒ ज्योति॑षा॒ स्व॑१रग॑च्छो रोच॒नं दि॒वः । दे॒वास्त॑ इन्द्र स॒ख्याय॑ येमिरे ॥७॥  
+Radiant with light thou wentest to the sky, the luminous realms: of heaven. The Gods, O Indra, strove to win thee for their friend.

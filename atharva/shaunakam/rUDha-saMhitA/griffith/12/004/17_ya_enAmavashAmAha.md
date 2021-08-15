@@ -2,5 +2,4 @@
 title = "१७ य एनामवशामाह"
 
 +++
-य ए॑ना॒मव॑शा॒माह॑ दे॒वानां॒ निहि॑तं नि॒धिम्।  
-उ॒भौ तस्मै॑ भवाश॒र्वौ प॑रि॒क्रम्येषु॑मस्यतः ॥१७॥  
+Whoso calls her a worthless Cow, the stored-up treasure of the Gods, Bhava and Sarva, both of them, move round and shoot a shaft at him.

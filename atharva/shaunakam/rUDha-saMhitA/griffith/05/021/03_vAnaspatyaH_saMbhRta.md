@@ -2,5 +2,4 @@
 title = "०३ वानस्पत्यः संभृत"
 
 +++
-वा॒न॒स्प॒त्यः संभृ॑त उ॒स्रिया॑भिर्वि॒श्वगो॑त्र्यः ।  
-प्र॒त्रा॒सम॒मित्रे॑भ्यो व॒दाज्ये॑ना॒भिघा॑रितः ॥३॥  
+Wrought out of wood, compact with straps of leather, dear to all the clan, Bedewed with sacrificial oil, speak terror to our enemies.

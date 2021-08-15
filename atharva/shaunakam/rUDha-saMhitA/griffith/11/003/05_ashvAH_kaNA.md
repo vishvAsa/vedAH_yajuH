@@ -2,4 +2,4 @@
 title = "०५ अश्वाः कणा"
 
 +++
-अश्वाः॒ कणा॒ गाव॑स्तण्डु॒ला म॒शका॒स्तुषाः॑ ॥५॥  
+Horses are the grains, oxen the winnowed ricegrains, gnats the husks.

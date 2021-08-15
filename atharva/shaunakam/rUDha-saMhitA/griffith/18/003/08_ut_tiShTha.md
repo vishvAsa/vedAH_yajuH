@@ -2,5 +2,4 @@
 title = "०८ उत् तिष्ठ"
 
 +++
-उत् ति॑ष्ठ॒ प्रेहि॒ प्र द्र॒वौकः॑ कृणुष्व सलि॒ले स॒धस्थे॑ ।  
-तत्र॒ त्वं पि॒तृभिः॑ संविदा॒नः सं सोमे॑न॒ मद॑स्व॒ सं स्व॒धाभिः॑ ॥८॥  
+Rise up, advance, run forward: make thy dwelling in water that shall be thy place to rest in There dwelling in accordance with the Fathers delight thyself with Soma and libations.

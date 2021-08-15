@@ -2,5 +2,4 @@
 title = "०३ येभिः पाशैः"
 
 +++
-येभिः॒ पाशैः॒ परि॑वित्तो॒ विब॒द्धोऽङ्गे॑अङ्ग॒ आर्पि॑त॒ उत्सि॑तश्च ।  
-वि ते मु॑च्यन्तं वि॒मुचो॒ हि सन्ति॑ भ्रूण॒घ्नि पू॑षन् दुरि॒तानि॑ मृक्ष्व ॥३॥
+The elder brother's bonds, still left unwedded, fettered in every limb and bound securely, Loose these, for they are bonds for loosing: Pushan, turn woes away upon the babe-destroyer.

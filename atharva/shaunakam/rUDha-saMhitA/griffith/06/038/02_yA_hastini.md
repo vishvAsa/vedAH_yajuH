@@ -2,5 +2,4 @@
 title = "०२ या हस्तिनि"
 
 +++
-या ह॒स्तिनि॑ द्वी॒पिनि॒ या हिर॑ण्ये॒ त्विषि॑र॒प्सु गोषु॒ या पुरु॑षेषु ।  
-इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना॥२॥  
+All energy of elephant and panther, all energy of gold, men, kine, and waters, And the blest Goddess who gave birth to Indra come unto us conjoined with strength and vigour.

@@ -2,4 +2,4 @@
 title = "०१ सीरा युञ्जन्ति"
 
 +++
-सीरा॑ युञ्जन्ति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क्। धीरा॑ दे॒वेषु॑ सुम्न॒यौ॥१॥  
+Wise and devoted to the Gods the skilful men bind plough-ropes fast, And lay the yokes on either side.

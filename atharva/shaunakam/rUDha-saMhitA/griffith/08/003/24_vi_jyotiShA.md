@@ -2,5 +2,4 @@
 title = "२४ वि ज्योतिषा"
 
 +++
-वि ज्योति॑षा बृह॒ता भा॑त्य॒ग्निरा॒विर्विश्वा॑नि कृणुते महि॒त्वा।  
-प्रादे॑वीर्मा॒याः स॑हते दु॒रेवाः॒ शिशी॑ते॒ शृङ्गे॒ रक्षो॑भ्यो वि॒निक्ष्वे॑ ॥२४॥  
+Agni shines far and wide with lofty splendour, and by his great- ness makes all things apparent. He conquers godless and malign enchantments, and sharpens both his horns to gore the ogres.

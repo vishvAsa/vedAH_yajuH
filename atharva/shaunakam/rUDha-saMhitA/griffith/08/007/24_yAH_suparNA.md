@@ -2,6 +2,4 @@
 title = "२४ याः सुपर्णा"
 
 +++
-याः सु॑प॒र्णा आ॑ङ्गिर॒सीर्दि॒व्या या र॒घतो॑ वि॒दुः ।  
-वयां॑सि हं॒सा या वि॒दुर्याश्च॒ सर्वे॑ पत॒त्रिणः॑ ।  
-मृ॒गा या वि॒दुरोष॑धी॒स्ता अ॒स्मा अव॑से हुवे ॥२४॥  
+Plants of Angirases which hawks, celestial Plants which eagles. know; Plants known to swans and lesser fowl, Plants known to all the birds that fly. Plants that are known to sylvan beasts,--I call them all to aid this man.

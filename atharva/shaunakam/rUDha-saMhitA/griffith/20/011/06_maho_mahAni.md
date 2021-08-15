@@ -2,5 +2,4 @@
 title = "०६ महो महानि"
 
 +++
-म॒हो म॒हानि॑ पनयन्त्य॒स्येन्द्र॑स्य॒ कर्म॒ सुकृ॑ता पु॒रूणि॑ ।  
-वृ॒जने॑न वृजि॒नान्त्सं पि॑पेष मा॒याभि॒र्दस्यूंर॒भिभू॑त्योजाः ॥६॥  
+They laud the mighty acts of him the mighty, the many glorious deeds performed by Indra. He in his strength, with all-surpassing prowess, through wond- rous arts crushed the malignant Dasyus.

@@ -2,5 +2,4 @@
 title = "०३ यस्ते शोकाय"
 
 +++
-यस्ते॒ शोका॑य त॒न्वंऽ रि॒रेच॒ क्षर॒द्धिर॑ण्यं॒ शुच॒योऽनु॒ स्वाः ।  
-अत्रा॑ दधेते अ॒मता॑नि॒ नामा॒स्मे वस्त्रा॑णि॒ विश॒ एर॑यन्ताम्॥३॥  
+He who--the fluid gold, with radiant kinsmen--to fervent glow delivered up thy body, On him both set names, that shall live for ever: to him the regions shall send robes to clothe him,

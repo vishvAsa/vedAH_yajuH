@@ -2,5 +2,4 @@
 title = "५३ त्वष्टा दुहित्रे"
 
 +++
-त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं कृ॑णोति॒ तेने॒दं विश्वं॒ भुव॑नं॒ समे॑ति ।
-य॒मस्य॑ मा॒ता प॑र्यु॒ह्यमा॑ना म॒हो जा॒या विव॑स्वतो ननाश ॥५३॥
+Tvashtar prepares the bridal for his daughter: therefore the whole of this our world assembles. But Yama's mother, spouse of great Vivasvan, vanished as she was carried to her dwelling.

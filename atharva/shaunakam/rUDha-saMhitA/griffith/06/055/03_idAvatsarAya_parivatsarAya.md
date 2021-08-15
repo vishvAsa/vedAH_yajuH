@@ -2,5 +2,4 @@
 title = "०३ इदावत्सराय परिवत्सराय"
 
 +++
-इ॒दा॒व॒त्स॒राय॑ परिवत्स॒राय॑ संवत्स॒राय॑ कृणुता बृ॒हन्नमः॑ ।  
-तेषां॑ व॒यं सु॑म॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥३॥
+Pay to the Year your lofty adoration, to the first Year, the second, and the present. Many we abide in the auspicious favour and gracious love of these who claim our worship.

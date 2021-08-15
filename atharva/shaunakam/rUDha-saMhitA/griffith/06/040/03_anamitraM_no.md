@@ -2,5 +2,4 @@
 title = "०३ अनमित्रं नो"
 
 +++
-अ॒न॒मि॒त्रं नो॑ अध॒राद॑नमि॒त्रं न॑ उत्त॒रात्।  
-इन्द्रा॑नमि॒त्रं नः॑ प॒श्चाद॑नमि॒त्रं पु॒रस्कृ॑धि ॥३॥
+Make thou us free from enemies both from below and from above. O Indra, give us perfect peace, peace from behind and from be- fore.

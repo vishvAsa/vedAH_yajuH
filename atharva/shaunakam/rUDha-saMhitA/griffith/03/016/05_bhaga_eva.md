@@ -2,5 +2,4 @@
 title = "०५ भग एव"
 
 +++
-भग॑ ए॒व भग॑वाँ अस्तु दे॒वस्तेना॑ व॒यं भग॑वन्तः स्याम ।  
-तं त्वा॑ भग॒ सर्व॒ इज्जो॑हवीमि॒ स नो॑ भग पुरए॒ता भ॑वे॒ह॥५॥  
+May Bhaga verily be bliss-bestower, and through him, Gods! may happiness attend us. As such with all my might I call and call thee: as such be thou our leader here, O Bhaga.

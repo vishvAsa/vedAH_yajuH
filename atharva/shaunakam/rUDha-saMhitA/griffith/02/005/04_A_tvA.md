@@ -2,5 +2,4 @@
 title = "०४ आ त्वा"
 
 +++
-आ त्वा॑ विशन्तु सु॒तास॑ इन्द्र पृ॒णस्व॑ कु॒क्षी वि॒ड्ढि श॑क्र धि॒येह्या नः॑ ।  
-श्रु॒धी हवं॒ गिरो॑ मे जुष॒स्वेन्द्र॑ स्व॒युग्भि॒र्मत्स्वे॒ह म॒हे रणा॑य ॥४॥  
+O Indra, let the juices enter thee. Fill full thy belly, sate thee, mighty one! Let the hymn bring thee. Hear thou my call, accept the song I sing, here, Indra, with thy friends enjoy thyself, to height of rapture.

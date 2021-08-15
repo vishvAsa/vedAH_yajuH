@@ -2,5 +2,4 @@
 title = "१६ महान्तं कोशमुदचाभि"
 
 +++
-म॒हान्तं॒ कोश॒मुद॑चा॒भि षि॑ञ्च सविद्यु॒तं भ॑वतु॒ वातु॒ वातः॑ ।  
-त॒न्वतां॑ य॒ज्ञं ब॑हु॒धा विसृ॑ष्टा आन॒न्दिनी॒रोष॑धयो भवन्तु ॥१६॥
+Lift up the mighty cask and pour down water; let the wind blow, and lightnings flash around us. Let sacrifice be paid, and, widely scattered, let herbs and plants be full of joy and gladness.

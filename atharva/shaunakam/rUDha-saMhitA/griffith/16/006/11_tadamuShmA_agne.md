@@ -2,4 +2,4 @@
 title = "११ तदमुष्मा अग्ने"
 
 +++
-तद॒मुष्मा॑ अग्ने दे॒वाः परा॑ वहन्तु॒ वघ्रि॒र्यथास॒द् विथु॑रो॒ न सा॒धुः ॥११॥
+This, O Agni, let the Gods bear off to Such-an-one that he may be a fragile good-for-nothing eunuch.

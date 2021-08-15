@@ -2,5 +2,4 @@
 title = "३७ ददाम्यस्मा अवसानमेतद्"
 
 +++
-ददा॑म्यस्मा अव॒सान॑मे॒तद् य ए॒ष आग॒न् मम॒ चेदभू॑दि॒ह।  
-य॒मश्चि॑कि॒त्वान् प्रत्ये॒तदा॑ह॒ ममै॒ष रा॒य उप॑ तिष्ठतामि॒ह॥३७॥  
+I give this place to him who hath come hither and now is mine, to be a home to rest in: This was the thought of Yama when he answered: This man is. mine. Let him come here to riches.

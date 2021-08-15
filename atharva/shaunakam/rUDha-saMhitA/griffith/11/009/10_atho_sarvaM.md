@@ -2,5 +2,4 @@
 title = "१० अथो सर्वं"
 
 +++
-अथो॒ सर्वं॒ श्वाप॑दं॒ मक्षि॑का तृप्यतु॒ क्रिमिः॑ ।  
-पौरु॑षे॒येऽधि॒ कुण॑पे रदि॒ते अ॑र्बुदे॒ तव॑ ॥१०॥  
+Then let each greedy beast of prey, and fly and worm regale itself Upon the human corpse where one, Arbudi, hath been pierced by thee.

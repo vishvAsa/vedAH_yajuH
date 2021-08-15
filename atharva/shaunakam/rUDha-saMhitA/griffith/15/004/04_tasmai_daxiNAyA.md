@@ -2,4 +2,4 @@
 title = "०४ तस्मै दक्षिणाया"
 
 +++
-तस्मै॒ दक्षि॑णाया दि॒शः ॥४॥  
+They made the two Autumn months his protectors from the northern region, and Syaita and Naudhasa superintendents. The two Autumn months. etc. as above.

@@ -2,5 +2,4 @@
 title = "०१ ऋणादृणमिव संनयन्"
 
 +++
-ऋ॒णादृ॒णमि॑व सं॒नय॑न् कृ॒त्यां कृ॑त्या॒कृतो॑ गृ॒हम्।  
-चक्षु॑र्मन्त्रस्य दु॒र्हार्दः॑ पृ॒ष्टीरपि॑ शृणाञ्जन ॥१॥  
+As debt from debt repay and send sorcery to the sorcerer's house. Split, Salve! the cruel villain's ribs whose evil eye bewitches us.

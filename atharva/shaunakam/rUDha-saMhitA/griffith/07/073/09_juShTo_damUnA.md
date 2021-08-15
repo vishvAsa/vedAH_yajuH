@@ -2,5 +2,4 @@
 title = "०९ जुष्टो दमूना"
 
 +++
-जुष्टो॒ दमू॑ना॒ अति॑थिर्दुरो॒ण इ॒मं नो॑ य॒ज्ञमुप॑ याहि वि॒द्वान्।  
-विश्वा॑ अग्ने अभि॒युजो॑ वि॒हत्य॑ शत्रूय॒तामा भ॑रा॒ भोज॑नानि ॥९॥  
+As dear house-friend, guest welcome in the dwelling, to this our sacrifice come thou who knowest. And, Agni, having scattered all assailants, bring to us the posses- sions of our foemen.

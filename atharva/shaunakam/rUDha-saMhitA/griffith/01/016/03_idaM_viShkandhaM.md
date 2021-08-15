@@ -2,5 +2,4 @@
 title = "०३ इदं विष्कन्धं"
 
 +++
-इ॒दं विष्क॑न्धं सहत इ॒दं बा॑धते अ॒त्त्रिणः॑ ।  
-अ॒नेन॒ विश्वा॑ ससहे॒ या जा॒तानि॑ पिशा॒च्याः ॥३॥  
+This overcomes Vishkandha, -this drives the voracious fiends away: By means of this have I, o'erthrown all the Pisachi's demon brood.

@@ -2,5 +2,4 @@
 title = "०४ यद् दण्डेन"
 
 +++
-यद् द॒ण्डेन॒ यदिष्वा॒ यद् वारु॒र्हर॑सा कृ॒तम्।  
-तस्य॒ त्वम॑सि॒ निष्कृ॑तिः॒ सेमं निष्कृ॑धि॒ पूरु॑षम्॥४॥  
+Whatever wound the arrow, or the staff, or violence inflicts, Thereof thou art the remedy: as such restore this man to health.

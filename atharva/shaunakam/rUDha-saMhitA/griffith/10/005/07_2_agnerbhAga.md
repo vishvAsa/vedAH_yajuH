@@ -2,6 +2,4 @@
 title = "०७ (२) अग्नेर्भाग"
 
 +++
-(२)  
-अ॒ग्नेर्भा॒ग स्थ॑ । अ॒पां शु॒क्रमा॑पो देवी॒र्वर्चो॑ अ॒स्मासु॑ धत्त ।  
-प्र॒जाप॑तेर्वो॒ धाम्ना॒स्मै लो॒काय॑ सादये ॥७॥  
+Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant energy. By statute of Prajapati I set you down for this our world.

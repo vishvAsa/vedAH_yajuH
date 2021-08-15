@@ -2,5 +2,4 @@
 title = "२० यदा गार्हपत्यमसपर्यैत्"
 
 +++
-य॒दा गार्ह॑पत्य॒मस॑पर्यै॒त् पूर्व॑म॒ग्निं व॒धूरि॒यम्।  
-अधा॒ सर॑स्वत्यै नारि पि॒तृभ्य॑श्च॒ नम॑स्कुरु ॥२०॥  
+As first of all this woman hath adored the sacred household fire. So do thou, Dame, pay homage to the Fathers and Sarasvati.

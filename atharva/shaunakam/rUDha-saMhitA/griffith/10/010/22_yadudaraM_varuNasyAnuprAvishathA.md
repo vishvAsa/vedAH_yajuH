@@ -2,5 +2,4 @@
 title = "२२ यदुदरं वरुणस्यानुप्राविशथा"
 
 +++
-यदु॒दरं॒ वरु॑णस्यानु॒प्रावि॑शथा वशे ।  
-तत॑स्त्वा ब्र॒ह्मोद॑ह्वय॒त् स हि ने॒त्रमवे॒त् तव॑ ॥२२॥  
+When into Varuna's belly thou hadst found a passage for thy- self, The Brahman called thee thence, for he knew how to guide and lead thee forth.

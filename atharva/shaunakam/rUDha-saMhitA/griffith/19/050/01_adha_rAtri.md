@@ -2,5 +2,4 @@
 title = "०१ अध रात्रि"
 
 +++
-अध॑ रात्रि तृ॒ष्टधू॑ममशी॒र्षाण॒महिं॑ कृणु ।  
-अ॒क्षौ वृक॑स्य॒ निर्ज॑ह्या॒स्तेन॒ तं द्रु॑प॒दे ज॑हि ॥१॥  
+Blind him and make him headless, Night! the serpent with the pungent breath. Strike from his head the wolf's two eyes, and dash the thief against a post.

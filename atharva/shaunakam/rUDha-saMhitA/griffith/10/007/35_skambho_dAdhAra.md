@@ -2,5 +2,4 @@
 title = "३५ स्कम्भो दाधार"
 
 +++
-स्क॒म्भो दा॑धार॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे स्क॒म्भो दा॑धारो॒र्व॑१न्तरि॑क्षम्।  
-स्क॒म्भो दा॑धार प्र॒दिशः॒ षडु॒र्वीः स्क॒म्भ इ॒दं विश्वं॒ भुव॑न॒मा वि॑वेश ॥३५॥  
+Skambha set fast these two, the earth and heaven, Skambha maintained the ample air between them. Skambha established the six spacious regions: this whole world Skambha entered and pervaded.

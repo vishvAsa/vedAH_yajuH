@@ -2,5 +2,4 @@
 title = "११ इयमेव सा"
 
 +++
-इ॒यमे॒व सा या प्र॑थ॒मा व्यौच्छ॑दा॒स्वित॑रासु चरति॒ प्रवि॑ष्टा ।  
-म॒हान्तो॑ अस्यां महि॒मानो॑ अ॒न्तर्वधूर्जि॑गाय नव॒गज्जनि॑त्री ॥११॥  
+She here who first of all sent forth her lustre moves onward resting on these lower creatures. Exalted power and might are stored within her: the woman hath prevailed, the new-come mother.

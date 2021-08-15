@@ -2,5 +2,4 @@
 title = "१८ प्रेतो मुञ्चामि"
 
 +++
-प्रेतो मु॑ञ्चामि॒ नामुतः॑ सुब॒द्धाम॒मुत॑स्करम्।  
-यथे॒यमि॑न्द्र मीढ्वः सुपु॒त्रा सु॒भगास॑ति ॥१८॥  
+Hence and not thence I send her free. I make her softly fettered there. That, bounteous Indra! she may live blest in her fortune and her sons.

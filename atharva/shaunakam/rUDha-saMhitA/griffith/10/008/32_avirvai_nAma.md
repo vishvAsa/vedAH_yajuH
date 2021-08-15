@@ -2,5 +2,4 @@
 title = "३२ अविर्वै नाम"
 
 +++
-अवि॒र्वै नाम॑ दे॒वत॒र्तेना॑स्ते॒ परी॑वृता ।  
-तस्या॑ रू॒पेणे॒मे वृ॒क्षा हरि॑ता॒ हरि॑तस्रजः ॥३१॥  
+When he is near she leaves him not, she sees him not though he is near. Behold the wisdom of the God; he hath not died, he grows not old.

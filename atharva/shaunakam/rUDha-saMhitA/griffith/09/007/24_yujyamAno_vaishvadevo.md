@@ -2,4 +2,4 @@
 title = "२४ युज्यमानो वैश्वदेवो"
 
 +++
-यु॒ज्यमा॑नो वैश्वदे॒वो यु॒क्तः प्र॒जाप॑ति॒र्विमु॑क्तः॒ सर्व॑म्॥२४॥  
+When he is yoking he belongs to the All-Gods, when yoked he is Prajapati, when unyoked he is All.

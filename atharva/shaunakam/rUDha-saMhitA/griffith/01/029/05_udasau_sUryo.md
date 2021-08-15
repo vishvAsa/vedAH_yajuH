@@ -2,5 +2,4 @@
 title = "०५ उदसौ सूर्यो"
 
 +++
-उद॒सौ सूर्यो॑ अगा॒दुदि॒दं मा॑म॒कं वचः॑ ।  
-यथा॒हं श॑त्रु॒होऽसा॑न्यसपत्नः सपत्नहा॑॥५॥  
+Yon Sun hath mounted up on high, and this my word hath mounted up That I may smite my foes and be slayer of rivals, rivalless.

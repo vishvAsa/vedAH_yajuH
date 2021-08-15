@@ -2,5 +2,4 @@
 title = "०५ अपि नह्यामि"
 
 +++
-अपि॑ नह्यामि ते बा॒हू अपि॑ नह्याम्या॒स्यऽम्।  
-अ॒ग्नेर्घो॒रस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥५॥
+Behind thy back I tie thine arms, I bind a bandage on thy mouth: With the terrific Agni's wrath have I destroyed thy sacrifice.

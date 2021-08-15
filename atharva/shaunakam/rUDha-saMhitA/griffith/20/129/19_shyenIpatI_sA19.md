@@ -2,4 +2,4 @@
 title = "१९ श्येनीपती सा१९"
 
 +++
-श्येनी॒पती॑ सा॥१९॥  
+Winged with a falcon's pinion is that harmless swelling of thy tongue. (with next verse)

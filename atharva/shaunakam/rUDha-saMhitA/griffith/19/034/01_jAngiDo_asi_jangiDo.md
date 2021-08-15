@@ -2,5 +2,4 @@
 title = "०१ जाङ्गिडोऽसि जङ्गिडो"
 
 +++
-जा॒ङ्गि॒डोऽसि जङ्गि॒डो रक्षि॑तासि जङ्गि॒डः ।  
-द्वि॒पाच्चतु॑ष्पाद॒स्माकं॒ सर्वं॑ रक्षतु जङ्गि॒डः ॥१॥  
+Jangida, thou art Angiras: thou art a guardian, Jangida. Let Jangida, keep safely all our bipeds and our quadrupeds.

@@ -2,5 +2,4 @@
 title = "०४ मज्जा मज्ज्ञा"
 
 +++
-म॒ज्जा म॒ज्ज्ञा सं धी॑यतां॒ चर्म॑णा॒ चर्म॑ रोहतु ।  
-असृ॑क् ते॒ अस्थि॑ रोहतु मां॒सं मां॒सेन॑ रोहतु ॥४॥  
+Let marrow close with marrow, let skin grow united with the skin. Let blood and bone grow strong in thee, flesh grow together with the flesh.

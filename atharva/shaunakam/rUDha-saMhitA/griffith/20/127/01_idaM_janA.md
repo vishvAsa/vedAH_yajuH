@@ -2,5 +2,4 @@
 title = "०१ इदं जना"
 
 +++
-इ॒दं जना॒ उप॑ श्रुत॒ नरा॒शंस॒ स्तवि॑ष्यते ।  
-ष॒ष्टिं स॒हस्रा॑ नव॒तिं च॑ कौरम॒ आ रु॒शमे॑षु दद्महे ॥१॥  
+Listen to this, ye men, a laud of glorious bounty shall be sung. Thousands sixty, and ninety we, O Kaurama, among the Rusamas have received.

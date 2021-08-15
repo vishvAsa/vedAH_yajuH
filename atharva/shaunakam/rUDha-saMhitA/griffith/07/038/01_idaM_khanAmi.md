@@ -2,5 +2,4 @@
 title = "०१ इदं खनामि"
 
 +++
-इ॒दं ख॑नामि भेष॒जं मां॑प॒श्यम॑भिरोरु॒दम्।  
-प॒रा॒य॒तो नि॒वर्त॑नमाय॒तः प्र॑ति॒नन्द॑नम्॥१॥  
+I dig this Healing Herb that makes my lover look on me and weep; That bids the parting friend return and kindly greets him as he comes.

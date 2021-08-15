@@ -2,5 +2,4 @@
 title = "११ अर्वागन्य इतो"
 
 +++
-अ॒र्वाग॒न्य इ॒तो अ॒न्यः पृ॑थि॒व्या अ॒ग्नी स॒मेतो॒ नभ॑सी अन्त॒रमे।  
-तयोः॑ श्रयन्ते र॒श्मयोऽधि॑ दृ॒ढास्ताना ति॑ष्ठति॒ तप॑सा ब्रह्मचा॒री॥११॥  
+Hitherward one, hence from the earth the other, two Agnis meet between these cloudy regions. Close to these two firm rays of light are clinging. The Brahma- chari enters them through Fervour.

@@ -2,4 +2,4 @@
 title = "४७ अन्धो भविष्यसीत्येनमाह"
 
 +++
-अ॒न्धो भ॑वि॒ष्य॒सीत्ये॑नमाह ॥२॥  
+And thence, etc. . . with other fore-parts of the feet . . . A serpent will kill thee . . . With the fore-parts of Savitar's feet. 

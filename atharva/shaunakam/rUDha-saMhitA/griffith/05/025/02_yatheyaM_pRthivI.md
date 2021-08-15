@@ -2,5 +2,4 @@
 title = "०२ यथेयं पृथिवी"
 
 +++
-यथे॒यं पृ॑थि॒वी म॒ही भू॒तानां॒ गर्भ॑माद॒धे।  
-ए॒वा द॑धामि ते॒ गर्भं॒ तस्मै॒ त्वामव॑से हुवे ॥२॥  
+Even as this broad earth received the germ of all the things that be, Thus within thee I lay the germ. I call thee, Earth, to strengthen it.

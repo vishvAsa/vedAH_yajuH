@@ -2,5 +2,4 @@
 title = "७३ एतदा रोह"
 
 +++
-ए॒तदा रो॑ह॒ वय॑ उन्मृजा॒नः स्वा इ॒ह बृ॒हदु॑ दीदयन्ते ।  
-अ॒भि प्रेहि॑ मध्य॒तो माप॑ हास्थाः पितॄ॒नां लो॒कं प्र॑थ॒मो यो अत्र॑ ॥७३॥
+Mount to this life, removing all defilement: here thine own kindred shine with lofty splendour. Depart thou; be not left behind: go forward, first of those here, unto the world of Fathers.

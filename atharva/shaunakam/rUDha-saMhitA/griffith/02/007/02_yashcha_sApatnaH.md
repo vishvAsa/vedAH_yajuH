@@ -2,5 +2,4 @@
 title = "०२ यश्च सापत्नः"
 
 +++
-यश्च॑ साप॒त्नः श॒पथो॑ जा॒म्याः श॒पथ॑श्च॒ यः ।  
-ब्र॒ह्मा यन्म॑न्यु॒तः शपा॒त् सर्वं॒ तन्नो॑ अधस्प॒दम्॥२॥  
+All curses of a rival, each curse of a female relative, Curse uttered by an augry priest, all these we tread beneath our feet.

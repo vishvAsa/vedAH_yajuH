@@ -2,5 +2,4 @@
 title = "०९ यदापो अघ्न्या"
 
 +++
-यदापो॑ अ॒घ्न्या इति॒ वरु॒णेति॒ यदू॑चि॒म।  
-तस्मा॑त् सहस्रवीर्य मु॒ञ्च नः॒ पर्यंह॑सः ॥९॥  
+If we have cried, O Waters! Cows! if we have cried, O Varuna! For this endowed with thousand powers! deliver us from misery.

@@ -2,4 +2,4 @@
 title = "०२ स विशः"
 
 +++
-स विशः॒ सब॑न्धू॒नन्न॑म॒न्नाद्य॑म॒भ्युद॑तिष्ठत्॥२॥  
+He came to the people, to kinsmen, food and nourishment.

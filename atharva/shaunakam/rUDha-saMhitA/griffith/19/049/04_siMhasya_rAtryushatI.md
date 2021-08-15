@@ -2,5 +2,4 @@
 title = "०४ सिंहस्य रात्र्युशती"
 
 +++
-सिं॒हस्य॒ रात्र्यु॑श॒ती पीं॒षस्य॑ व्या॒घ्रस्य॑ द्वी॒पिनो॒ वर्च॒ आ द॑दे ।  
-अश्व॑स्य ब्र॒ध्नं पुरु॑षस्य मा॒युं पु॒रु रू॒पाणि॑ कृणुषे विभा॒ती॥४॥  
+With eager haste hath Night assumed the vigour of leopard,. tiger, or of tawny lion, The horse's neighing and the wild-man's bellow, Thou takest many a form when thou appearest.

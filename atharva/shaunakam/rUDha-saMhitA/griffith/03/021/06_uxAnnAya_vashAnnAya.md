@@ -2,5 +2,4 @@
 title = "०६ उक्षान्नाय वशान्नाय"
 
 +++
-उ॒क्षान्ना॑य व॒शान्ना॑य॒ सोम॑पृष्ठाय वे॒धसे॑ ।  
-वै॒श्वा॒न॒रज्ये॑ष्ठेभ्य॒स्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत्॥६॥  
+To him who feeds on ox and cow, sage, bearing Soma on his back, To all Vaisvanara's followers--to these be this oblation paid.

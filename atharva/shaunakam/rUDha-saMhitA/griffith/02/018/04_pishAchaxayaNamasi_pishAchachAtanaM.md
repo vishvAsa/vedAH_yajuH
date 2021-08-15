@@ -2,4 +2,4 @@
 title = "०४ पिशाचक्षयणमसि पिशाचचातनं"
 
 +++
-पि॒शा॒च॒क्षय॑णमसि पिशाच॒चात॑नं मे दाः॒ स्वाहा॑ ॥४॥  
+Pisa-chas' ruiner art thou, give me to drive Pisachas off. All hail!

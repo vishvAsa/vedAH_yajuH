@@ -2,5 +2,4 @@
 title = "२२ पृथिवीं त्वा"
 
 +++
-पृ॒थि॒वीं त्वा॑ पृथि॒व्यामा वे॑शयामि त॒नूः स॑मा॒नी विकृ॑ता त ए॒षा।  
-यद्य॑द् द्यु॒त्तं लि॑खि॒तमर्प॑णेन॒ तेन॒ मा सु॑स्रो॒र्ब्रह्म॒णापि॒ तद् व॑पामि ॥२२॥  
+Earth upon earth l set thee. This thy body is con-substantial,. but in form it differs. Whate'er hath been worn off or scratched in fixing, leak not thereat: I spread a charm to mend it.

@@ -2,4 +2,4 @@
 title = "६१ आप्नोतीमं लोकमाप्नोत्यमुम्"
 
 +++
-आ॒प्नोती॒मं लो॒कमा॒प्नोत्य॒मुम् ।१३। ६१॥  
+He gains this world and the world yonder.

@@ -2,5 +2,4 @@
 title = "२२ यं बल्बजं"
 
 +++
-यं बल्ब॑जं॒ न्यस्य॑थ॒ चर्म॑ चोपस्तृणी॒थन॑ ।  
-तदा रो॑हतु सुप्र॒जा या क॒न्या वि॒न्दते॒ पति॑म्॥२२॥  
+Let her who shall be blest with sons, the maid who finds a. husband, step Upon the rough grass that ye spread and on the skin ye lay beneath.

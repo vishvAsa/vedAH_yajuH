@@ -2,5 +2,4 @@
 title = "१२ पञ्चपादं पितरं"
 
 +++
-पञ्च॑पादं पि॒तरं॒ द्वाद॑शाकृतिं दि॒व आ॑हुः परे॒ अर्धे॑ पुरी॒षिण॑म्।  
-अथे॒मे अ॒न्य उप॑रे विचक्ष॒णे स॒प्तच॑क्रे॒ षड॑र आहु॒रर्पि॑तम्॥१२॥  
+They call him in the farther half of heaven the Sire five-footed, of twelve forms, wealthy in watery store. These others, later still, say that he takes his stand upon a seven- wheeled car, six-spoked, whose sight is clear.

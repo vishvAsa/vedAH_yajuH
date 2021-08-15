@@ -2,4 +2,4 @@
 title = "२८ पराञ्चं चैनं"
 
 +++
-परा॑ञ्चं चैनं॒ प्राशीः॑ प्रा॒णास्त्वा॑ हास्य॒न्तीत्ये॑नमाह ॥२८॥  
+Thou hast eaten this averted; thy inward breath will leave thee; so he said to this one. 

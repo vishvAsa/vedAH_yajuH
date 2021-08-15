@@ -2,5 +2,4 @@
 title = "०३ यो दाधार"
 
 +++
-यो दा॒धार॑ पृथि॒वीं वि॒श्वभो॑जसं॒ यो अ॒न्तरि॑क्ष॒मापृ॑णा॒द् रसे॑न ।  
-यो अस्त॑भ्ना॒द् दिव॑मू॒र्ध्वो म॑हि॒म्ना तेनौ॑द॒नेनाति॑ तराणि मृ॒त्युम्॥३॥  
+That which upholds the Earth, the all-sustainer, that which hath filled air's middle realm with moisture, Which, raised on high in grandeur, stablished heaven,--I with this Odana will conquer Mrityu.

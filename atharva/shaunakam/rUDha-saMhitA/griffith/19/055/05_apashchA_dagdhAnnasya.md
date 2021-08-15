@@ -2,6 +2,4 @@
 title = "०५ अपश्चा दग्धान्नस्य"
 
 +++
-अप॑श्चा द॒ग्धान्न॑स्य भूयासम्।  
-अ॒न्ना॒दायान्न॑पतये रु॒द्राय॒ नमो॑ अ॒ग्नये॑ ।  
-स॒भ्यः स॒भां मे॑ पाहि॒ ये च॑ स॒भ्याः स॑भा॒सदः॑ ॥५॥  
+Never may I come short of food to feed me. Glory to Agni, Rudra, the consumer and the Lord of food!

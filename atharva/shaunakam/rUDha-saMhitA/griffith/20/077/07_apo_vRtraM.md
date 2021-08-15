@@ -2,5 +2,4 @@
 title = "०७ अपो वृत्रं"
 
 +++
-अ॒पो वृ॒त्रं व॑व्रि॒वांसं॒ परा॑ह॒न् प्राव॑त् ते॒ वज्रं॑ पृथि॒वी सचे॑ताः ।  
-प्रार्णां॑सि समु॒द्रिया॑ण्यैनोः॒ पति॒र्भवं॒ छव॑सा शूर धृष्णो ॥७॥  
+He smote away the flood's obstructer Vritra: Earth conscious lent her aid to speed thy thunder. Thou sentest forth the waters of the ocean as Lord through power and might, O daring Hero.

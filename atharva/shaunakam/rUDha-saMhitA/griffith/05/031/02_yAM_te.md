@@ -2,5 +2,4 @@
 title = "०२ यां ते"
 
 +++
-यां ते॑ च॒क्रुः कृ॑क॒वाका॑व॒जे वा॒ यां कु॑री॒रिणि॑ ।  
-अव्यां॑ ते कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥२॥  
+The spell that they have cast for thee on jungle-cock, goat, horned ram, The witchcraft wrought upon thy ewe, this I strike back again on them.

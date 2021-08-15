@@ -2,5 +2,4 @@
 title = "०१ रक्षोहणं वाजिनमा"
 
 +++
-र॒क्षो॒हणं॑ वा॒जिन॒मा जि॑घर्मि मि॒त्रं प्रथि॑ष्ठ॒मुप॑ यामि॒ शर्म॑ ।  
-शिशा॑नो अ॒ग्निः क्रतु॑भिः॒ समि॑द्धः॒ स नो॒ दिवा॒ स रि॒षः पा॑तु॒ नक्त॑म्॥१॥  
+I balm with oil the mighty demon-slayer, to the most famous friend I come for shelter. Enkindled, sharpened by our rites, may Agni protect us in the day and night from evil.

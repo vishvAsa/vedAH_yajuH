@@ -2,5 +2,4 @@
 title = "०३ आपूर्णो अस्य"
 
 +++
-आपू॑र्णो अस्य क॒लशः॒ स्वाहा॒ सेक्ते॑व॒ कोशं॑ सिसिचे॒ पिब॑ध्यै ।  
-समु॑ प्रि॒या आव॑वृत्र॒न् मदा॑य प्रदक्षि॒णिद॒भि सोमा॑स॒ इन्द्र॑म्॥३॥
+Full is his chalice. Blessing! Like a pourer I have filled up the vessel for his drinking. Presented on the right, dear Soma juices have brought us Indra,. to rejoice him, hither.

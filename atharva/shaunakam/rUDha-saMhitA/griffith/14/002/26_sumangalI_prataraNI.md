@@ -2,5 +2,4 @@
 title = "२६ सुमङ्गली प्रतरणी"
 
 +++
-सु॒म॒ङ्ग॒ली प्र॒तर॑णी गृ॒हाणां॑ सु॒शेवा॒ पत्ये॒ श्वशु॑राय शं॒भूः ।  
-स्यो॒ना श्व॒श्र्वै प्र गृ॒हान् वि॑शे॒मान्॥२६॥  
+Bliss-bringer, furthering thy household's welfare, dear gladdening thy husband and his father, enter this home, mild to thy hus- band's mother.

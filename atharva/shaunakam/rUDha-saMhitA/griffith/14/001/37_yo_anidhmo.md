@@ -2,5 +2,4 @@
 title = "३७ यो अनिध्मो"
 
 +++
-यो अ॑नि॒ध्मो दी॒दय॑द॒प्स्व॑१न्तर्यं विप्रा॑स॒ ईड॑ते अध्व॒रेषु॑ ।  
-अपां॑ नपा॒न्मधु॑मतीर॒पो दा॒ याभि॒रिन्द्रो॑ वावृ॒धे वी॒र्याऽवान्॥३७॥  
+He who in water shines unfed with fuel, whom sages worship in their sacrifices. May he, the Waters' Child, send us sweet waters those that en- hanced the power of mighty Indra.

@@ -2,5 +2,4 @@
 title = "०२ युनक्त सीरा"
 
 +++
-यु॒नक्त॒ सीरा॒ वि यु॒गा त॑नोत कृ॒ते योनौ॑ वपते॒ह बीज॑म्।  
-वि॒राजः॒ श्नुष्टिः॒ सभ॑रा असन्नो॒ नेदी॑य॒ इत् सृ॒ण्यः प॒क्वमा य॑वन्॥२॥  
+Lay on the yokes and fasten well the traces: formed is the furrow, sow the seed within it. Viraj vouchsafe us hearing fraught with plenty! Let the ripe grain come near and near the sickle.

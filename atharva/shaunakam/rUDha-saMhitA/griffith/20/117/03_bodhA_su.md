@@ -2,5 +2,4 @@
 title = "०३ बोधा सु"
 
 +++
-बोधा॑ सु मे॑ मघव॒न् वाच॒मेमां यां ते॒ वसि॑ष्ठो॒ अर्च॑ति॒ प्रश॑स्तिम्।  
-इ॒मा ब्रह्म॑ सध॒मादे॑ जुषस्व ॥३॥
+Mark closely, Maghavan; the words I utter, this eulogy recited by Vasishtha: Accept the prayers I offer at thy banquet.

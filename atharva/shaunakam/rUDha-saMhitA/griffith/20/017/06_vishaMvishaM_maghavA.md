@@ -2,5 +2,4 @@
 title = "०६ विशंविशं मघवा"
 
 +++
-विशं॑विशं म॒घवा॒ पर्य॑शायत॒ जना॑नां॒ धेना॑ अव॒चाक॑श॒द् वृषा॑ ।  
-यस्याह॑ श॒क्रः सव॑नेषु॒ रण्य॑ति॒ स ती॒व्रैः सोमैः॑ सहते पृतन्य॒तः ॥६॥  
+Maghavan came by turns to all the tribes of men: the Steer took notice of the people's songs of praise. The man in whose libations Sakra hath delight by means of potent Somas vanquisheth his foes.

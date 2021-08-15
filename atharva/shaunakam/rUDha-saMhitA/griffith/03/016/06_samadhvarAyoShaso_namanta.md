@@ -2,5 +2,4 @@
 title = "०६ समध्वरायोषसो नमन्त"
 
 +++
-सम॑ध्व॒रायो॒षसो॑ नमन्त दधि॒क्रावे॑व॒ शुच॑ये प॒दाय॑ ।  
-अ॒र्वा॒ची॒नं व॑सु॒विदं॒ भगं॑ मे॒ रथ॑मि॒वाश्वा॑ वा॒जिन॒ आ व॑हन्तु ॥६॥  
+To this our sacrifice may the Dawns incline them, and come to the pure place like Dadhikravan. As strong steeds draw a chariot may they bring me hitherward Bhaga who discovers treasure.

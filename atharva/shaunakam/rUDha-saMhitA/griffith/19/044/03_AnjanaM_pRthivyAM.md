@@ -2,5 +2,4 @@
 title = "०३ आञ्जनं पृथिव्यां"
 
 +++
-आञ्ज॑नं पृथि॒व्यां जा॒तं भ॒द्रं पु॑रुष॒जीव॑नम्।  
-कृ॒णोत्वप्र॑मायुकं॒ रथ॑जूति॒मना॑गसम्॥३॥  
+Let the Salve born upon the earth, benignant, giving life to man. Make the swift rider on the car sinless, exempt from sudden death.

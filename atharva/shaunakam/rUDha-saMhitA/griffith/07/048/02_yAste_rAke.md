@@ -2,5 +2,4 @@
 title = "०२ यास्ते राके"
 
 +++
-यास्ते॑ राके सुम॒तयः॑ सु॑पेश॑सो॒ याभि॒र्ददा॑सि दा॒शुषे॒ वसू॑नि ।  
-ताभि॑र्नो अ॒द्य सु॒मना॑ उ॒पाग॑हि सहस्रापो॒षं सु॑भगे॒ ररा॑णा ॥२॥
+All thy kind favours, Raka! lovely in their form, wherewith thou grantest treasures to the man who gives, With these come thou to us this day benevolent, O blessed one, bestowing wealth of thousand sorts.

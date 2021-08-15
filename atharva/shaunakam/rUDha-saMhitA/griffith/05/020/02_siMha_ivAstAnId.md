@@ -2,5 +2,4 @@
 title = "०२ सिंह इवास्तानीद्"
 
 +++
-सिं॒ह इ॑वास्तानीद् द्रु॒वयो॒ विब॑द्धोऽभि॒क्रन्द॑न्नृष॒भो वा॑सि॒तामि॑व ।  
-वृषा॒ त्वं वध्र॑यस्ते स॒पत्ना॑ ऐ॒न्द्रस्ते॒ शुष्मो॑ अभिमातिषा॒हः ॥२॥  
+The fastened frame hath roared as 'twere a lion, like a bull bel- lowing to meet the heifer. Thou art a bull, thine enemies are weaklings: thine is the foe- subduing strength of Indra.

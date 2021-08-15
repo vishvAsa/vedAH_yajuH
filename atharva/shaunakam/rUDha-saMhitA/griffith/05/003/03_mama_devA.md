@@ -2,5 +2,4 @@
 title = "०३ मम देवा"
 
 +++
-मम॑ दे॒वा वि॑ह॒वे स॑न्तु॒ सर्व॒ इन्द्र॑वन्तो म॒रुतो॒ विष्णु॑र॒ग्निः ।  
-ममा॒न्तरि॑क्षमु॒रुलो॑कमस्तु॒ मह्यं॒ वातः॑ पवतां॒ कामा॑या॒स्मै॥३॥  
+May all the Gods be on my side in battle, the Maruts led by Indra, Vishnu, Agni. Mine be the middle air's extended region, and may the Wind blow favouring these my wishes.

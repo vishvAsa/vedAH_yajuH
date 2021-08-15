@@ -2,5 +2,4 @@
 title = "०१ यत इन्द्र"
 
 +++
-यत॑ इन्द्र॒ भया॑महे॒ ततो॑ नो॒ अभ॑यं कृधि ।  
-मघ॑वंछ॒ग्धि तव॒ त्वं न॑ ऊ॒तिभि॒र्वि द्विषो॒ वि मृधो॑ जहि ॥१॥  
+Indra, give us security from that whereof we are afraid. Help us, O Maghavan, let thy succour grant us this: drive foes and enemies afar.

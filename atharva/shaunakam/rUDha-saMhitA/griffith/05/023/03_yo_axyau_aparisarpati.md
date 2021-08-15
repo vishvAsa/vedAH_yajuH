@@ -2,5 +2,4 @@
 title = "०३ यो अक्ष्यौऽपरिसर्पति"
 
 +++
-यो अ॒क्ष्यौऽपरि॒सर्प॑ति॒ यो नासे॑ परि॒सर्प॑ति ।  
-द॒तां यो मध्यं॒ गच्छ॑ति॒ तं क्रिमिं॑ जम्भयामसि ॥३॥  
+Two of like colour, two unlike, two coloured black, two coloured red. The tawny and the tawny-eared, Vulture and Wolf, all these are killed.

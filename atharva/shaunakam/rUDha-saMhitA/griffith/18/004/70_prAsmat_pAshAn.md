@@ -2,5 +2,4 @@
 title = "७० प्रास्मत् पाशान्"
 
 +++
-प्रास्मत् पाशा॑न् वरुण मुञ्च॒ सर्वा॒न् यैः स॑मा॒मे ब॒ध्यते॒ यैर्व्या॒मे।  
-अधा॑ जीवेम श॒रदं॑ श॒तानि॒ त्वया॑ राजन् गुपि॒ता रक्ष॑माणाः ॥७०॥  
+From all those bonds, O Varuna, release us, wherewith a man is bound at length and cross-wise. Then may we live a hundred autumn seasons guarded by thee, O King, by thee protected.

@@ -2,6 +2,4 @@
 title = "११ देवो देवाय"
 
 +++
-दे॒वो दे॒वाय॑ गृण॒ते व॑यो॒धा विप्रो॒ विप्रा॑य स्तुव॒ते सु॑मे॒धाः ।  
-अजी॑जनो॒ हि व॑रुण स्वधाव॒न्नथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुम्।  
-तस्मा॑ उ॒ राधः॑ कृणुहि सुप्रश॒स्तं सखा॑ नो असि पर॒मं च॒ बन्धुः॑ ॥११॥
+God, giving life unto the god who lauds me, Sage strengthener of the sage who sings my praises. Thou, self-dependent Varuna! hast begotten the kinsman of the Gods, our sire Atharvan. On him bestow most highly-lauded riches. Thou art our friend, high over all, our kinsman.

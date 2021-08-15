@@ -2,5 +2,4 @@
 title = "२५ रोहितो दिवमारुहत्"
 
 +++
-रोहि॑तो॒ दिव॒मारु॑ह॒त् तप॑सा तप॒स्वी।  
-स योनि॒मैति॒ स उ॑ जायते॒ पुनः॒ स दे॒वाना॒मधि॑पतिर्बभूव ॥२५॥  
+Devout, aflame with fervent heat, Rohita hath gone up to heaven. He is re-born, returning to his birthplace, and hath become the Gods' imperial ruler.

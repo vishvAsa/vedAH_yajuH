@@ -2,4 +2,4 @@
 title = "११ सं चोदय"
 
 +++
-सं चो॑दय चि॒त्रम॒र्वाग् राध॑ इन्द्र॒ वरे॑ण्यम्। अस॒दित् ते॑ वि॒भु प्र॒भु॥११॥  
+Send to us bounty manifold, O Indra, worthy of our wish, For power supreme is only thine.

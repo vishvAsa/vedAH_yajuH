@@ -2,5 +2,4 @@
 title = "६० भगस्ततक्ष चतुरः"
 
 +++
-भग॑स्ततक्ष च॒तुरः॒ पादा॒न् भग॑स्ततक्ष च॒त्वार्युष्प॑लानि ।  
-त्वष्टा॑ पिपेश मध्य॒तोऽनु॒ वर्ध्रा॒न्त्सा नो॑ अस्तु सुमङ्ग॒ली॥६०॥  
+Bhaga hath formed the four legs of the litter, wrought the four pieces that compose the frame-work. Tvashtar hath decked the straps that go across it, May it be blest, and bring us happy fortune.

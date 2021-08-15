@@ -2,5 +2,4 @@
 title = "०३ इन्द्रासोमा दुष्कृतो"
 
 +++
-इन्द्रा॑सोमा दु॒ष्कृतो॑ व॒व्रे अ॒न्तर॑नारम्भ॒णे तम॑सि॒ प्र वि॑ध्यतम्।  
-यतो॒ नैषां॒ पुन॒रेक॑श्च॒नोदय॒त् तद् वा॑मस्तु॒ सह॑से मन्यु॒मच्छवः॑ ॥३॥  
+Indra and Soma, plunge the wicked in the depth, yea, cast them into darkness that hath no support, So that not one of them may ever thence return: so may your wrathful might prevail and conquer them.

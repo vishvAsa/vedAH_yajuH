@@ -2,4 +2,4 @@
 title = "०५ दधिष्वा जठरे"
 
 +++
-द॒धि॒ष्वा ज॒ठरे॑ सु॒तं सोम॑मिन्द्र॒ वरे॑ण्यम्। तव॑ द्यु॒क्षास॒ इन्द॑वः ॥५॥  
+Within thy belly, Indra take Soma the juice most excellent: The heavenly drops belong to thee.

@@ -2,4 +2,4 @@
 title = "२९ प्रजापतेर्वा एष"
 
 +++
-प्र॒जाप॑ते॒र्वा ए॒ष वि॑क्र॒मान॑नु॒विक्र॑मते॒ य उ॑प॒हर॑ति ।१२। २९॥  
+The man who offers food follows the steps of Prajapati.

@@ -2,5 +2,4 @@
 title = "१८ यां ते"
 
 +++
-यां ते॑ ब॒र्हिषि॒ यां श्म॑शा॒ने क्षेत्रे॑ कृ॒त्यां व॑ल॒गं वा॑ निच॒ख्नुः ।  
-अ॒ग्नौ वा॑ त्वा॒ गार्ह॑पत्येऽभिचे॒रुः पाकं॒ सन्तं॒ धीर॑तरा अना॒गस॑म्॥१८॥  
+The charm or secret power which they have buried for thee in sacred grass, field, cemetery, Or spell in household fire which men more cunning have wrought against thee innocent and simple,--

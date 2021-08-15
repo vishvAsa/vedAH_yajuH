@@ -2,5 +2,4 @@
 title = "०२ यदिन्द्रेण सरथं"
 
 +++
-यदिन्द्रे॑ण स॒रथं॑ या॒थो अ॑श्विना॒ यद्वा॑ वा॒युना॒ भव॑थः॒ समो॑कसा ।  
-यदा॑दि॒त्येभि॑रृ॒भुभिः॑ स॒जोष॑सा॒ यद्वा॒ विष्णो॑र्वि॒क्रम॑णेषु॒ तिष्ठ॑थः ॥२॥  
+Whatever with Indra ye be faring, Asvins, or resting in one dwelling-place with Vayu, In concord with the Ribhus or Adityas, or standing still in Vishnu's striding-places.

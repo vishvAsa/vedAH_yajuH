@@ -2,5 +2,4 @@
 title = "०९ इन्द्र एषां"
 
 +++
-इन्द्र॑ एषां ने॒ता बृह॒स्पति॒र्दक्षि॑णा य॒ज्ञः पु॒र ए॑तु॒ सोमः॑ ।  
-दे॒व॒से॒नाना॑मभिभञ्जती॒नां जय॑न्तीनां म॒रुतो॑ यन्तु॒ मध्ये॑ ॥९॥  
+Indra guide these! Brihaspati, the Guerdon, and Soma, and the Sacrifice precede them! And let the banded Maruts march in forefront of heavenly hosts that conquer and demolish.

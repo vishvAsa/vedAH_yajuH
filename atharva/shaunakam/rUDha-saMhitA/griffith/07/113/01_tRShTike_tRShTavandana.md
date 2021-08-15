@@ -2,5 +2,4 @@
 title = "०१ तृष्टिके तृष्टवन्दन"
 
 +++
-तृष्टि॑के॒ तृष्ट॑वन्दन॒ उद॒मूं छि॑न्धि तृष्टिके ।  
-यथा॑ कृ॒तद्वि॒ष्टासो॒ऽमुष्मै॑ शे॒प्याव॑ते ॥१॥  
+Rough Plant, thou rough rude parasite, cut thou that man, O Rough and Rude, That thou mayst hinder from his act that man in all his manly strength.

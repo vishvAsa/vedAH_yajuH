@@ -2,5 +2,4 @@
 title = "०७ त्वं ह्य१ङ्ग"
 
 +++
-त्वं ह्य१ङ्ग व॑रुण॒ ब्रवी॑षि॒ पुन॑र्मघेष्वव॒द्यानि॒ भूरि॑ ।  
-मो षु प॒णींर॒भ्ये॒३ताव॑तो भू॒न्मा त्वा॑ वोचन्नरा॒धसं॒ जना॑सः ॥७॥  
+Many reproaches, Varuna, dost thou utter against the misers. who revoke their presents. Be not thou added to that crowd of niggards: let not men call thee an illiberal giver.

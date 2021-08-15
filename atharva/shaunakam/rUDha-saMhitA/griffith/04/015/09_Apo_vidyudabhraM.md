@@ -2,5 +2,4 @@
 title = "०९ आपो विद्युदभ्रं"
 
 +++
-आपो॑ वि॒द्युद॒भ्रं व॒र्षं सं वो॑ऽवन्तु सु॒दान॑व॒ उत्सा॑ अजग॒रा उ॒त।  
-म॒रुद्भिः॒ प्रच्यु॑ता मे॒घाः प्राव॑न्तु पृथि॒वीमनु॑ ॥९॥  
+May waters, lightning, cloud, and rain, boon springs and serpents tend you well. Urged by the Maruts let the clouds pour down their rain upon the earth.

@@ -2,5 +2,4 @@
 title = "०१ अश्वत्थो देवसदनस्तृतीयस्यामितो"
 
 +++
-अ॒श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥१॥  
+In the third heaven above us stands the Asvattha tree, the seat of Gods. There the Gods gained the Kushtha plant, embodiment of end- less life.

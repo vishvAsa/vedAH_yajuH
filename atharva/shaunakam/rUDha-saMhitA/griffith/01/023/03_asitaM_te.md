@@ -2,5 +2,4 @@
 title = "०३ असितं ते"
 
 +++
-असि॑तं ते प्र॒लय॑नमा॒स्थान॒मसि॑तं॒ तव॑ ।  
-असि॑क्न्यस्योषधे॒ निरि॒तो ना॑शया॒ पृष॑त्॥३॥  
+Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and dark, O Plant, art thou: remove from him each speck and spot.

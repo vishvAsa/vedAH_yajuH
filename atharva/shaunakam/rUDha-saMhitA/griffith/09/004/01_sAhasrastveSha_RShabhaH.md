@@ -2,5 +2,4 @@
 title = "०१ साहस्रस्त्वेष ऋषभः"
 
 +++
-सा॒ह॒स्रस्त्वे॒ष ऋ॑ष॒भः पय॑स्वा॒न् विश्वा॑ रू॒पाणि॑ व॒क्षणा॑सु॒ बिभ्र॑त्।  
-भ॒द्रं दा॒त्रे यज॑मानाय॒ शीक्ष॑न् बार्हस्प॒त्य उ॒स्रिय॒स्तन्तु॒माता॑न्॥१॥  
+The Bull, fierce, thousandfold, filled full of vigour, bearing within his flanks all forms and natures, Brihaspati's Steer, hath stretched the thread, bestowing bliss on the worshipper, the liberal giver.

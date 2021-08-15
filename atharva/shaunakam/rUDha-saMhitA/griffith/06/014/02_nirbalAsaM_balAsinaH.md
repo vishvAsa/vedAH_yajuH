@@ -2,5 +2,4 @@
 title = "०२ निर्बलासं बलासिनः"
 
 +++
-निर्ब॒लासं॑ बला॒सिनः॑ क्षि॒णोमि॑ मुष्क॒रं य॑था ।  
-छि॒नद्म्य॑स्य॒ बन्ध॑नं॒ मूल॑मुर्वा॒र्वा इ॑व ॥२॥  
+From the consumptive man I pluck Decline as 'twere a severed part. I cut the bond that fetters him, even as a root of cucumber.

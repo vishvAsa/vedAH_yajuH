@@ -2,4 +2,4 @@
 title = "०८ मा नो"
 
 +++
-मा नो॒ मर्ता॑ अ॒भि द्रु॑हन् त॒नूना॑मिन्द्र गिर्वणः । ईशा॑नो यवया व॒धम्॥८॥  
+O Indra, thou who lovest song, let no man hurt our bodies, keep. Slaughter far from us, for thou canst.

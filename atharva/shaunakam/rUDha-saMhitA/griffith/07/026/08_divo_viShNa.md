@@ -2,5 +2,4 @@
 title = "०८ दिवो विष्ण"
 
 +++
-दि॒वो वि॑ष्ण उ॒त वा॑ पृथि॒व्या म॒हो वि॑ष्ण उ॒रोर॒न्तरि॑क्षात्।  
-हस्तौ॑ पृणस्व ब॒हुभि॑र्व॒सव्यै॑रा॒प्रय॑च्छ॒ दक्षि॑णा॒दोत स॒व्यात्॥८॥
+From heaven, O Vishnu, or from earth, O Vishnu, or from the great far-spreading air's mid-region, Fill both thy hands full of abundant treasures, and from the right and left bestow them freely.

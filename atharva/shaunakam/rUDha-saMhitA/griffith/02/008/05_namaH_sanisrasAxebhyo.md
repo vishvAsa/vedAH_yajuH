@@ -2,5 +2,4 @@
 title = "०५ नमः सनिस्रसाक्षेभ्यो"
 
 +++
-नमः॑ सनिस्रसा॒क्षेभ्यो॒ नमः॑ संदे॒श्येऽभ्यः ।  
-नमः॒ क्षेत्र॑स्य॒ पत॑ये वी॒रुत् क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑छतु ॥५॥
+Homage to men with blinking eyes, homage to those who hear and act! To the Field's Lord be homage paid. So let the plague-destroying Plant remove inherited disease.

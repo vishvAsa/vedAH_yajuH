@@ -2,5 +2,4 @@
 title = "०२ स्रक्त्योऽसि प्रतिसरोऽसि"
 
 +++
-स्र॒क्त्योऽसि प्रतिस॒रोऽसि प्रत्यभि॒चर॑णोऽसि ।  
-आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥२॥  
+Sraktya art thou, an Amulet art thou, a counter-charm of spells, Reach thy superior, thou; surpass thine equal.

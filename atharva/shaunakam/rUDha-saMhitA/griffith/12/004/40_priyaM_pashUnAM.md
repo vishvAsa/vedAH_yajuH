@@ -2,5 +2,4 @@
 title = "४० प्रियं पशूनां"
 
 +++
-प्रि॒यं प॑शू॒नां भ॑वति॒ यद् ब्र॒ह्मभ्यः॑ प्रदी॒यते॑ ।  
-अथो॑ व॒शाया॒स्तत् प्रि॒यं यद् दे॑व॒त्रा ह॒विः स्यात्॥४०॥  
+The animal is happy when it is bestowed upon the priests: But happy is the Cow when she is made a sacrifice to Gods.

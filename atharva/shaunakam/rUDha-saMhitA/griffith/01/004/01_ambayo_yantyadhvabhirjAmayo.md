@@ -2,4 +2,4 @@
 title = "०१ अम्बयो यन्त्यध्वभिर्जामयो"
 
 +++
-अ॒म्बयो॑ य॒न्त्यध्व॑भिर्जा॒मयो॑ अध्वरीय॒ताम्। पृ॒ञ्च॒तीर्म॑धु॑ना॒ पयः॑ ॥१॥  
+Along their paths the Mothers go, sisters of priestly ministrants, Blending their water with the mead.

@@ -2,5 +2,4 @@
 title = "०२ अपानाय व्यानाय"
 
 +++
-अ॒पा॒नाय॑ व्या॒नाय॑ प्रा॒णाय॒ भूरि॑धायसे ।  
-सर॑स्वत्या उरु॒व्यचे॑ वि॒धेम॑ ह॒विषा॑ व॒यम्॥२॥  
+For expiration, vital air, and breath that amply nourishes, Let us with sacrifice adore Sarasvati whose reach is wide.

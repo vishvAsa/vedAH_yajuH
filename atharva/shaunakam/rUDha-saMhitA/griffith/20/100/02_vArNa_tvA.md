@@ -2,4 +2,4 @@
 title = "०२ वार्ण त्वा"
 
 +++
-वार्ण त्वा॑ य॒व्याभि॒र्वर्ध॑न्ति शूर॒ ब्रह्मा॑णि । वा॒वृ॒ध्वांसं॑ चिदद्रिवो दि॒वेदि॑वे ॥२॥  
+As rivers swell the ocean, so, Hero, our prayers increase thy might, Though of thyself, O Thunderer, waxing day by day.

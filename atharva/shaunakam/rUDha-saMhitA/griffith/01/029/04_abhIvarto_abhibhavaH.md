@@ -2,5 +2,4 @@
 title = "०४ अभीवर्तो अभिभवः"
 
 +++
-अ॒भी॒व॒र्तो अ॑भिभ॒वः स॑पत्न॒क्षय॑णो म॒णिः ।  
-रा॒ष्ट्राय॒ मह्यं॑ बध्यतां स॒पत्ने॑भ्यः परा॒भुवे॑ ॥४॥  
+Slayer of rivals, vanquisher, may that victorious Amulet Be bound on me for regal sway and conquest of mine enemies.

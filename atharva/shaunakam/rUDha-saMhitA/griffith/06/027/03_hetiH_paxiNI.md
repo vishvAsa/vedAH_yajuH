@@ -2,5 +2,4 @@
 title = "०३ हेतिः पक्षिणी"
 
 +++
-हे॒तिः प॒क्षिणी॒ न द॑भात्य॒स्माना॒ष्ट्री प॒दं कृ॑णुते अग्नि॒धाने॑ ।  
-शि॒वो गोभ्य॑ उ॒त पुरु॑षेभ्यो नो अस्तु॒ मा नो॑ देवा इ॒ह हिं॑सीत् क॒पोतः॑ ॥३॥
+Let not the arrow that hath wings distract us. Beside the fire- place, on the hearth it settles. May it bring welfare to our men and cattle: here let the Dove, ye Gods, forbear to harm us.

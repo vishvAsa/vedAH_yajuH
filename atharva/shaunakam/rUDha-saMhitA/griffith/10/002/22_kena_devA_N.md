@@ -2,5 +2,4 @@
 title = "२२ केन देवाँ"
 
 +++
-केन॑ दे॒वाँ अनु॑ क्षियति॒ केन॒ दैव॑जनी॒र्विशः॑ ।  
-केने॒दम॒न्यन्नक्ष॑त्रं॒ केन॒ सत्क् क्ष॒त्रमु॑च्यते ॥२२॥  
+Through whom doth he abide with Gods? Through whom with the Celestial Tribes? Why is this other called a star? Why is this called the Real Power?

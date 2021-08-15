@@ -2,4 +2,4 @@
 title = "०१ स घा"
 
 +++
-स घा॑ नो॒ योग॒ आ भु॑व॒त् स रा॒ये स पुरं॑ध्याम्। गम॒द् वाजे॑भि॒रा स नः॑ ॥१॥  
+May he stand by us in our need and in abundance for our wealth: With riches may he come to us;

@@ -2,5 +2,4 @@
 title = "०४ असितस्य ते"
 
 +++
-असि॑तस्य ते॒ ब्रह्म॑णा क॒श्यप॑स्य॒ गय॑स्य च ।  
-अ॒न्तः॒को॒शमि॑व जा॒मयोऽपि॑ नह्यामि ते॒ भग॑म्॥४॥
+With Asita's and Kasyapa's and Gaya's incantation, thus As sisters pack within a chest, I bind and tie thy fortune up.

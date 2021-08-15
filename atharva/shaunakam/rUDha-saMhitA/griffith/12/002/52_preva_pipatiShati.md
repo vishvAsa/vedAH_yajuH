@@ -2,5 +2,4 @@
 title = "५२ प्रेव पिपतिषति"
 
 +++
-प्रेव॑ पिपतिषति॒ मन॑सा॒ मुहु॒रा व॑र्तते॒ पुनः॑ ।  
-क्र॒व्याद् यान॒ग्निर॑न्ति॒काद॑नुवि॒द्वान् वि॒ताव॑ति ॥५२॥  
+Forward in spirit would he fly, and often turns he back again, Whomso Carnivorous Agni from anear discovers and torments.

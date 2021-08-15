@@ -2,5 +2,4 @@
 title = "०७ देवानामस्थि कृशनं"
 
 +++
-दे॒वाना॒मस्थि॒ कृश॑नं बभूव॒ तदा॑त्म॒न्वच्च॑रत्य॒प्स्व॑१न्तः ।  
-तत् ते॑ बध्ना॒म्यायु॑षे॒ वर्च॑से॒ बला॑य दीर्घायु॒त्वाय॑ श॒तशा॑रदाय कार्श॒नस्त्वा॒भि र॑क्षतु ॥७॥
+Bone of the Good became the pearl's shell-mother endowed with soul it moveth in the waters. I bind this on thee for life, strength, and vigour, for long life lasting through a hundred autumns. May the pearl's mother keep and guard thee safely!

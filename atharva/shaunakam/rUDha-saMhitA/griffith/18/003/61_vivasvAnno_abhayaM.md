@@ -2,5 +2,4 @@
 title = "६१ विवस्वान्नो अभयं"
 
 +++
-वि॒वस्वा॑न्नो॒ अभ॑यं कृणोतु॒ यः सु॒त्रामा॑ जी॒रदा॑नुः सु॒दानुः॑ ।  
-इ॒हेमे वी॒रा ब॒हवो॑ भवन्तु॒ गोम॒दश्व॑व॒न्मय्य॑स्तु पु॒ष्टम्॥६१॥  
+Vivasvan make us free from fear and peril, good rescuer, quick- pouring, bounteous giver! Many in number be these present heroes! Increase of wealth be mine in kine and horses!

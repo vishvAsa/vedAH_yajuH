@@ -2,4 +2,4 @@
 title = "२७ त्वमोदनं प्राशी३स्त्वामोदना३"
 
 +++
-त्वमो॑द॒नं प्राशी३स्त्वामो॑द॒ना३ इति॑ ॥२७॥  
+Thou hast eaten the Odana and the Odana will eat thee. 

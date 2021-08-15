@@ -2,5 +2,4 @@
 title = "०७ यथा त्वमुत्तरोऽसो"
 
 +++
-यथा॒ त्वमु॑त्त॒रोऽसो॑ असप॒त्नः स॑पत्न॒हा।  
-स॒जा॒ताना॑मसद् व॒शी तथा॑ त्वा सवि॒ता क॑र॒दस्तृ॑तस्त्वा॒भि र॑क्षतु ॥७॥
+That thou mayst be pre-eminent, slayer of rivals, rivalless, May Savitar cause thee to be chief and controller of thy kin. Invincible, let it guard thee well.

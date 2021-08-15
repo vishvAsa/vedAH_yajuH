@@ -2,4 +2,4 @@
 title = "१३ सघाघते गोमीद्या"
 
 +++
-सघा॑घते॒ गोमी॒द्या गोग॑ती॒रिति ॥१३॥  
+As by their dung the course of kine. What wouldst thou in the home of men? (with next verse)

@@ -2,5 +2,4 @@
 title = "०२ न्य१ग्वातो वाति"
 
 +++
-न्य॑१ग्वातो॑ वाति॒ न्यऽक् तपति॑ सूर्यः॑ ।  
-नी॒चीन॑म॒घ्न्या दु॑हे॒ न्यऽग् भवतु ते॒ रपः॑ ॥२॥  
+Vita breathes downward from above, and downward Surya sends his heat: Downward is drawn the milch-cow's milk: so downward go thy malady!

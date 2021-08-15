@@ -2,4 +2,4 @@
 title = "१६ इन्द्रं वो"
 
 +++
-इन्द्रं॑ वो वि॒श्वत॒स्परि॒ हवा॑महे॒ जने॑भ्यः । अ॒स्माक॑मस्तु॒ केव॑लः ॥१६॥  
+For your sake from each side we call Indra away from other men: Ours, and none others', may he be.

@@ -2,5 +2,4 @@
 title = "०७ ययो रथः"
 
 +++
-ययो॒ रथः॑ स॒त्यव॑र्त्म॒र्जुर॑श्मिर्मिथु॒या चर॑न्तमभि॒याति॑ दू॒षय॑न्।  
-स्तौमि॑ मि॒त्रावरु॑णौ नाथि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥७॥
+Whose straight-reined car that keeps the track of goodness assails and ruins him who walks perversely I, suppliant, praise with constant invocation Mitra and Varuna. Save us from affliction.

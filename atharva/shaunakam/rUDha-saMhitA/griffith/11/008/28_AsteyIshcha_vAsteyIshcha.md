@@ -2,5 +2,4 @@
 title = "२८ आस्तेयीश्च वास्तेयीश्च"
 
 +++
-आस्ते॑यीश्च॒ वास्ते॑यीश्च त्वर॒णाः कृ॑प॒णाश्च॒ याः ।  
-गुह्याः॑ शु॒क्रा स्थू॒ला अ॒पस्ता बी॑भ॒त्साव॑सादयन्॥२८॥  
+They laid in the abhorrent frame those waters hidden, bright, and thick, Which in the bowels spring from blood, from mourning or from hasty toil.

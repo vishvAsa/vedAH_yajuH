@@ -2,4 +2,4 @@
 title = "२४ तस्येदं वर्चस्तेजः"
 
 +++
-तस्ये॒दं वर्च॒स्तेजः॑ प्रा॒णमायु॒र्नि वे॑ष्टयामी॒दमे॑नमध॒राञ्चं॑ पादयामि॥४॥ ९। ६  
+Whatever, etc. Let him not be freed from the noose of Indra- Agni, etc.

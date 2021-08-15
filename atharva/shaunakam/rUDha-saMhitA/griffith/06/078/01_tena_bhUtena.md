@@ -2,5 +2,4 @@
 title = "०१ तेन भूतेन"
 
 +++
-तेन॑ भू॒तेन॑ ह॒विषा॒यमा प्या॑यतां॑ पुनः॑ ।  
-जा॒यां याम॑स्मा॒ आवा॑क्षु॒स्तां रसे॑ना॒भि व॑र्धताम्॥१॥  
+Let this man be again bedewed with this presented sacrifice. And comfort with the sap of life the bride whom they have brought to him.

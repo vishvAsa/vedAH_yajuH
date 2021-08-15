@@ -2,5 +2,4 @@
 title = "०४ ये ते"
 
 +++
-ये ते॑ ना॒ड्यौऽदे॒वकृ॑ते॒ ययो॒स्तिष्ठ॑ति॒ वृष्ण्य॑म्।  
-ते ते॑ भिनद्मि॒ शम्य॑या॒मुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥४॥  
+Duas tuas venas, a Diis factas, in quibus stat vigor virilis, paxillo ligneo in testiculis ob istam mulierem tibi findo.

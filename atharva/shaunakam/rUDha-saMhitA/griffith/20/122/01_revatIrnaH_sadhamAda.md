@@ -2,4 +2,4 @@
 title = "०१ रेवतीर्नः सधमाद"
 
 +++
-रे॒वती॑र्नः सध॒माद॒ इन्द्रे॑ सन्तु तु॒विवा॑जाः । क्षु॒मन्तो॒ याभि॒र्मदे॑म ॥१॥  
+With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy in food, we may rejoice.

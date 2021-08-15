@@ -2,5 +2,4 @@
 title = "५२ उशतीः कन्यला"
 
 +++
-उ॒श॒तीः क॒न्यला॑ इ॒माः पि॑तृलो॒कात् पतिं॑ य॒तीः ।  
-अव॑ दी॒क्षाम॑सृक्षत॒ स्वाहा॑ ॥५२॥  
+These maids who from their father's house have come with long- ing to their lord have let the preparation pass. All hail!

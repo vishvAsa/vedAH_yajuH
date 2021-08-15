@@ -2,5 +2,4 @@
 title = "०२ ऋभुरसि जगच्छन्दा"
 
 +++
-ऋ॒भुर॑सि॒ जग॑च्छन्दा॒ अनु॒ त्वा र॑भे ।  
-स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥२॥  
+Thou art the Ribhu, lord of Jagati: I hold thee fast. Happily bear me to the goal of this my sacrifice. Al I hail!

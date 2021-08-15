@@ -2,5 +2,4 @@
 title = "०४ यामाहुस्तारकैषा विकेशीति"
 
 +++
-यामा॒हुस्तार॑कै॒षा वि॑के॒शीति॑ दु॒च्छुनां॒ ग्राम॑मव॒पद्य॑मानाम्।  
-सा ब्र॑ह्मजा॒या वि दु॑नोति रा॒ष्ट्रं यत्र॒ प्रापा॑दि श॒श उ॑ल्कु॒षीमा॑न्॥४॥  
+She whom they call the star with loosened tresses, descending as. misfortune on the village, The Brahman's consort, she disturbs the kingdom where hath appeared the hare with fiery flashing.

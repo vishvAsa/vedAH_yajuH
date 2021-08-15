@@ -2,5 +2,4 @@
 title = "१३ पुष्टिरसि पुष्ट्या"
 
 +++
-पु॒ष्टिर॑सि पु॒ष्ट्या मा॒ सम॑ङ्ग्धि गृहमे॒धी गृ॒हप॑तिं मा कृणु ।  
-औदु॑म्बरः॒ स त्वम॒स्मासु॑ धेहि र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छ रा॒यस्पोषा॑य॒ प्रति॑ मुञ्चे अ॒हं त्वाम्॥१३॥  
+Amulet of Udumbara, enrich us: vouchsafe us wealth with all good men about us. I bind thee on for increase of possessions.

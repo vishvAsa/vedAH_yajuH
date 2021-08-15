@@ -2,5 +2,4 @@
 title = "०४ एजदेजदजग्रभं चक्षुः"
 
 +++
-एज॑देजदजग्रभं॒ चक्षुः॑ प्रा॒णम॑जग्रभम्।  
-अङ्गा॑न्यजग्रभं॒ सर्वा॑ रात्री॑णामतिशर्व॒रे॥४॥  
+Each moving thing have I secured, have held and held the eye and breath. Each limb and member have I seized in the deep darkness of the night.

@@ -2,5 +2,4 @@
 title = "०४ सुजातं जातवेदसमग्निं"
 
 +++
-सुजा॑तं जा॒तवे॑दसम॒ग्निं वै॑श्वान॒रं वि॒भुम्।  
-ह॒व्य॒वाहं॑ हवामहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥४॥  
+We invoke the oblation-bearer, well-born Agni Jatavedas, Him, Vaisvanara, almighty. May he set us free from trouble.

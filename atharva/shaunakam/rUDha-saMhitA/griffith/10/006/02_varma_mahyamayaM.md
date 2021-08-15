@@ -2,5 +2,4 @@
 title = "०२ वर्म मह्यमयं"
 
 +++
-वर्म॒ मह्य॑म॒यं म॒णिः फाला॑ज्जा॒तः क॑रिष्यति ।  
-पू॒र्णो म॒न्थेन॒ माग॑म॒द् रसे॑न स॒ह वर्च॑सा ॥२॥  
+This Amulet of citron-wood shall make for me a trusty shield Filled with the mingled beverage, with sap and vigour hath it come.

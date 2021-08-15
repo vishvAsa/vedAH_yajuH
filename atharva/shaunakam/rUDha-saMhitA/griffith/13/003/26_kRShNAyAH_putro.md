@@ -2,5 +2,4 @@
 title = "२६ कृष्णायाः पुत्रो"
 
 +++
-कृ॒ष्णायाः॑ पु॒त्रो अर्जु॑नो॒ रात्र्या॑ व॒त्सोऽजायत ।  
-स ह॒ द्यामधि॑ रोहति॒ रुहो॑ रुरोह॒ रोहि॑तः ॥२६॥
+Born is the darksome Mother's Son, the whitely shining Calf of Night. He, Rohita, ascendeth up to heaven, hath mounted to the heights.

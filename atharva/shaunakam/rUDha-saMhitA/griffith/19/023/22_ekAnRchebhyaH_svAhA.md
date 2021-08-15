@@ -2,4 +2,4 @@
 title = "२२ एकानृचेभ्यः स्वाहा"
 
 +++
-ए॒का॒नृ॒चेभ्यः॒ स्वाहा॑ ॥२२॥  
+Hail to the single non-Rich-versed ones!

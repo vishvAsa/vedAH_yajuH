@@ -2,4 +2,4 @@
 title = "०६ केतुं कृण्वन्नकेतवे"
 
 +++
-के॒तुं कृ॒ण्वन्न॑के॒तवे॒ पेशो॑ मर्या अपे॒शसे॑ । समु॒षद्भि॑रजायथाः ॥६॥
+Thou, making light where no light was, and form, O Men! where form was not, Wast born together with the Dawns.

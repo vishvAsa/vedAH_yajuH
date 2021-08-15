@@ -2,5 +2,4 @@
 title = "०३ पुमानन्तर्वान्त्स्थविरः पयस्वान्"
 
 +++
-पुमा॑न॒न्तर्वा॒न्त्स्थवि॑रः॒ पय॑स्वा॒न् वसोः॒ कब॑न्धमृष॒भो बि॑भर्ति ।  
-तमिन्द्रा॑य प॒थिभि॑र्देव॒यानै॑र्हु॒तम॒ग्निर्व॑हतु जा॒तवे॑दाः ॥३॥  
+Masculine, pregnant, stedfast. full of vigour, the Bull sustains a trunk of goodly treasure. May Agni Jatavedas bear him offered, on pathways traversed by the Gods, to Indra.

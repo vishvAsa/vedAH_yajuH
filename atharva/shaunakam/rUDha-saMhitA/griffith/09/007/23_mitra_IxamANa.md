@@ -2,4 +2,4 @@
 title = "२३ मित्र ईक्षमाण"
 
 +++
-मि॒त्र ईक्ष॑माण॒ आवृ॑त्त आन॒न्दः ॥२३॥  
+He is Mitra when he looks about him, and when he hath turned round he is joy.

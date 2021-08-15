@@ -2,5 +2,4 @@
 title = "४८ उप हरति"
 
 +++
-उप॑ हरति॒ प्रति॑ हर॒त्युच्छि॑ष्टं नि॒धन॑म्।९।  
-नि॒धनं॒ भूत्याः॑ प्र॒जायाः॑ पशू॒नां भ॑वति॒ य ए॒वं वेद॑ ।१०। ४८॥  
+He looks at the guests, he utters a gentle sound; he speaks, he signs the prelude; he calls for water, he chants the psalm; he offers the residue of the sacrifice, he takes up the conclusion.

@@ -2,4 +2,4 @@
 title = "०२ ओजस्तदस्य तित्विष"
 
 +++
-ओज॒स्तद॑स्य तित्विष उ॒भे यत् स॒मव॑र्तयत्। इन्द्र॒श्चर्मे॑व॒ रोद॑सी ॥२॥  
+This power of his shone brightly forth when Indra brought to- gether like A skin the worlds of earth and heaven.

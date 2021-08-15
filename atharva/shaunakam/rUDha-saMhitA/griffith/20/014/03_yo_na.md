@@ -2,5 +2,4 @@
 title = "०३ यो न"
 
 +++
-यो न॑ इ॒दमि॑दं पु॒रा प्र वस्य॑ आनि॒नाय॒ तमु॑ व स्तुषे ।  
-सखा॑य॒ इन्द्र॑मू॒तये॑ ॥३॥  
+Him who of old hath brought to us this and that blessing, him I magnify for you, Even Indra, O my friends, for help:

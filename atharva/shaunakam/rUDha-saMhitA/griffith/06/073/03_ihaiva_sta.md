@@ -2,5 +2,4 @@
 title = "०३ इहैव स्त"
 
 +++
-इ॒हैव स्त॒ माप॑ या॒ताध्य॒स्मत् पू॒षा प॒रस्ता॒दप॑थं वः कृणोतु ।  
-वास्तो॒ष्पति॒रनु॑ वो जोहवीतु॒ मयि॑ सजाता र॒मति॑र्वो अस्तु ॥३॥
+Stand even here; forsake me not. Before us may Pushan make your path unfit to travel. Vastoshpati incessantly recall you! In me be your sweet resting- place, O kinsmen!

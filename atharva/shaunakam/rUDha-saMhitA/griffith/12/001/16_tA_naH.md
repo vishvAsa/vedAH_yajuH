@@ -2,4 +2,4 @@
 title = "१६ ता नः"
 
 +++
-ता नः॑ प्र॒जाः सं दु॑ह्रतां सम॒ग्रा वा॒चो मधु॑ पृथिवि धेहि॒ मह्य॑म्॥१६॥  
+In concert may these creatures yield us blessings. With honey of discourse, O Earth, endow me.

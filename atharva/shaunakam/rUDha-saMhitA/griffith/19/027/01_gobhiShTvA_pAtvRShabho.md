@@ -2,5 +2,4 @@
 title = "०१ गोभिष्ट्वा पात्वृषभो"
 
 +++
-गोभि॑ष्ट्वा पात्वृष॒भो वृषा॑ त्वा पातु वा॒जिभिः॑ ।  
-वा॒युष्त्वा॒ ब्रह्म॑णा पा॒त्विन्द्र॑स्त्वा पात्विन्द्रि॒यैः ॥१॥  
+Let the Bull guard thee with the kine, the Stallien with the fleet- foot steeds. Let Vayu keep thee safe with prayer, and Indra with his mighty power.

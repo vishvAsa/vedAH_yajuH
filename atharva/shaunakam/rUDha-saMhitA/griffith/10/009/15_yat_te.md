@@ -2,5 +2,4 @@
 title = "१५ यत् ते"
 
 +++
-यत् ते क्लो॒मा यद्धृद॑यं पुरी॒तत् स॒हक॑ण्ठिका ।  
-आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥१५॥  
+Let heart and pericardium, let thy lungs with all the bronchial tubes, etc.

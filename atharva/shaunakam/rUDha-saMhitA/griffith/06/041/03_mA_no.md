@@ -2,5 +2,4 @@
 title = "०३ मा नो"
 
 +++
-मा नो॑ हासिषु॒र्ऋष॑यो॒ दैव्या॒ ये त॑नू॒पा ये न॑स्त॒न्वऽस्तनू॒जाः ।  
-अम॑र्त्या॒ मर्त्यां॑ अ॒भि नः॑ सचध्व॒मायु॑र्धत्त प्रत॒रं जी॒वसे॑ नः ॥३॥
+Let not the Rishis, the divine, forsake us, our own, our very selves, our lives' protectors. Do ye, immortal, still attend us mortals, and give us vital power to live the longer.

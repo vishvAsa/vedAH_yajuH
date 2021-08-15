@@ -2,5 +2,4 @@
 title = "०१ समिद्धो अग्निर्वृषणा"
 
 +++
-समि॑द्धो अ॒ग्निर्वृ॑षणा र॒थी दि॒वस्त॒प्तो घ॒र्मो दु॑ह्यते वामि॒षे मधु॑ ।  
-व॒यं हि वां॑ पुरु॒दमा॑सो अश्विना॒ हवा॑महे सध॒मादे॑षु का॒रवः॑ ॥१॥  
+Inflamed is Agni, Heroes! charioteer of heaven. The caldron boils: the meath is drained to be your food. For we, O Asvins, singers sprung from many a house, invite you to be present at our banquetings.

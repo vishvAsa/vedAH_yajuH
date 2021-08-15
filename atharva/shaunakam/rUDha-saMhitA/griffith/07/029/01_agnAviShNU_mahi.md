@@ -2,5 +2,4 @@
 title = "०१ अग्नाविष्णू महि"
 
 +++
-अग्ना॑विष्णू॒ महि॒ तद् वां॑ महि॒त्व पा॒थो घृ॒तस्य॒ गुह्य॑स्य॒ नाम॑ ।  
-दमे॑दमे स॒प्त रत्ना॒ दधा॑नौ॒ प्रति॑ वां जि॒ह्वा घृ॒तमा च॑रण्यात्॥१॥  
+This is your glorious might, Agni and Vishnu! Ye drink the essence of the mystic butter. Placing in every home seven costly treasures. Let your tongue stretch to take the offered fatness.

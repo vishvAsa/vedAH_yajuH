@@ -2,4 +2,4 @@
 title = "०४ एवानेवाव सा"
 
 +++
-ए॒वाने॒वाव॒ सा ग॑रत्॥४॥  
+Thus or otherwise let her swallow him up.

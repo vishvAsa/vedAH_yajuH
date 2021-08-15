@@ -2,5 +2,4 @@
 title = "२८ समिद्धो अग्निः"
 
 +++
-समि॑द्धो अ॒ग्निः स॑मिधा॒नो घृ॒तवृ॑द्धो घृ॒ताहु॑तः ।  
-अ॒भी॒षाड् वि॑श्वा॒षाड॒ग्निः स॒पत्ना॑न् हन्तु॒ ये मम॑ ॥२८॥  
+Both kindling and inflamed, adored with butter and enhanced thereby. May conquering Agni, conqueror of all, destroy mine enemies.

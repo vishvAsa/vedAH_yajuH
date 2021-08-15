@@ -2,5 +2,4 @@
 title = "०४ सहे पिशाचान्त्सहसैषां"
 
 +++
-सहे॑ पिशा॒चान्त्सह॑सैषां॒ द्रवि॑णं ददे ।  
-सर्वा॑न् दुरस्य॒तो ह॑न्मि॒ सं म॒ आकू॑तिरृद्यताम्॥४॥  
+I conquer the Pisachas with my power, and take their wealth away. All who would injure us I slay. Let mine intention have success.

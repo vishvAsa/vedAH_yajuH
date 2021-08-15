@@ -2,6 +2,4 @@
 title = "०८ यार्णवेऽधि सलिलमग्र"
 
 +++
-यार्ण॒वेऽधि॑ सलि॒लमग्र॒ आसी॒द् यां मा॒याभि॑र॒न्वच॑रन् मनी॒षिणः॑ ।  
-यस्या॒ हृद॑यं पर॒मे व्योऽमन्त्स॒त्येनावृ॑तम॒मतं॑ पृथि॒व्याः।  
-सा नो॒ भूमि॒स्त्विषिं॒ बलं॑ रा॒ष्ट्रे द॑धातूत्त॒मे॥८॥  
+She who at first was water in the ocean, whom with their wond- rous powers the sages followed, May she whose heart is in the highest heaven, compassed about wit h truth, and everlasting, May she, this Earth, bestow upon us lustre, and grant us power in loftiest dominion.

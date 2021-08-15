@@ -2,5 +2,4 @@
 title = "०५ ये कीलालेन"
 
 +++
-ये की॒लाले॑न त॒र्पय॑न्ति ये घृ॒तेन॒ ये वा॒ वयो॒ मेद॑सा संसृ॒जन्ति॑ ।  
-ये अ॒द्भिरीशा॑ना म॒रुतो॑ व॒र्षय॑न्ति॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥५॥  
+They who delight in nectar and in fatness, they who bestow upon us health and vigour. The Maruts who rain mighty with their waters, may they deliver us from grief and trouble.

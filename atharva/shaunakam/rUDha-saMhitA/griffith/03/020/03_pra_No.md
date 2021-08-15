@@ -2,5 +2,4 @@
 title = "०३ प्र णो"
 
 +++
-प्र णो॑ यच्छत्वर्य॒मा प्र भगः॒ प्र बृह॒स्पतिः॑ ।  
-प्र दे॒वीः प्रोत सू॒नृता॑ र॒यिं दे॒वी द॑धातु मे ॥३॥  
+Let Aryaman vouchsafe us, wealth, and Bhaga, and Brihaspati, The Goddesses grant wealth to us, Sunrita, Goddess, give me wealth!

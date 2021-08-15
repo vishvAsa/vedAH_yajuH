@@ -2,5 +2,4 @@
 title = "०८ आचार्यऽ स्ततक्ष"
 
 +++
-आ॒चा॒र्यऽ स्ततक्ष॒ नभ॑सी उ॒भे इ॒मे उ॒र्वी ग॑म्भी॒रे पृ॑थि॒वीं दिवं॑ च ।  
-ते र॑क्षति॒ तप॑सा ब्रह्मचा॒री तस्मि॑न् देवाः संम॑नसो भवन्ति ॥८॥  
+The Master fashioned both these cloudy regions, profound and spacious pair, the earth and heaven. The Brahmachari guards them with his Fervour. In him the deities are all one-minded.

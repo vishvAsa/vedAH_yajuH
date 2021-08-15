@@ -2,5 +2,4 @@
 title = "०६ तपनो अस्मि"
 
 +++
-तप॑नो अस्मि पिशा॒चानां॑ व्या॒घ्रो गोम॑तामिव ।  
-श्वानः॑ सिं॒हमि॑व दृ॒ष्ट्वा ते न वि॑न्दन्ते॒ न्यञ्च॑नम्॥६॥  
+I trouble the Pisachas as the tiger plagues men rich in kine. They, even as dogs when they have seen a lion, find no hiding- place.

@@ -2,5 +2,4 @@
 title = "०४ संवननी समुष्पला"
 
 +++
-सं॒वन॑नी समुष्प॒ला बभ्रु॒ कल्या॑णि॒ सं नु॑द ।  
-अमूं च॒ मां च॒ सं नु॑द समा॒नं हृद॑यं कृधि ॥३॥  
+Even as his mouth is parched who finds no water for his burn- ing thirst, So parch and burn with longing, go with lips that love of me hath dried.

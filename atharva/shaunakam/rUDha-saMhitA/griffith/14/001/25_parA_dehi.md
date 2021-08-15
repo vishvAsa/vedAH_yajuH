@@ -2,5 +2,4 @@
 title = "२५ परा देहि"
 
 +++
-परा॑ देहि शामु॒ल्यं ब्र॒ह्मभ्यो॒ वि भ॑जा॒ वसु॑ ।  
-कृ॒त्यैषा प॒द्वती॑ भू॒त्वा जा॒या वि॑शते॒ पति॑म्॥२५॥  
+Give thou the wollen robe away: deal treasure to the Brahman- priests. This Witchery hath got her feet: the wife attendeth on her lord.

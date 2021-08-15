@@ -2,6 +2,4 @@
 title = "०९ अत्रैनानिन्द्र वृत्रहन्नुग्रो"
 
 +++
-अत्रै॑नानिन्द्र वृत्रहन्नु॒ग्रो मर्म॑णि विध्य ।  
-अत्रै॒वैना॑न॒भि ति॒ष्ठेन्द्र मे॒द्य॑१हं तव॑ ।  
-अनु॑ त्वे॒न्द्रा र॑भामहे॒ स्याम॑ सुम॒तौ तव॑ ॥९॥
+Here, Indra Vritra-slayer, in thy strength pierce thou their vital. parts. Here, even here, attack them, O Indra. Thine own dear friend am I. Indra, we closely cling to thee. May we be in thy favouring grace.

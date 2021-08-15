@@ -2,5 +2,4 @@
 title = "०६ यज्ञपदीराक्षीरा स्वधाप्राणा"
 
 +++
-य॒ज्ञ॒प॒दीरा॑क्षीरा स्व॒धाप्रा॑णा म॒हीलु॑का ।  
-व॒शा प॒र्जन्य॑पत्नी दे॒वाँ अप्ये॑ति॒ ब्रह्म॑णा ॥६॥  
+Her foot is sacrifice, her milk libation, Svadha her breath, Mahi- luka the mighty: To the God goes with prayer the Cow who hath Parjanya for her lord.

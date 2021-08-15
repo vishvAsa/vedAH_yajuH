@@ -2,4 +2,4 @@
 title = "०५ पैद्वो हन्ति"
 
 +++
-पै॒द्वो ह॑न्ति कस॒र्णीलं॑ पै॒द्वः श्वि॒त्रमु॒तासि॒तम्। पै॒द्वो र॑थ॒र्व्याः शिरः॒ सं बि॑भेद पृदा॒क्वाः॥५॥  
+Paidva kills Kasarnila, kills both the white Serpent and the black, Paidva hath struck and cleft in twain Ratharvi's and the Viper's head.

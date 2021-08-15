@@ -2,4 +2,4 @@
 title = "१० अनागमिष्यतो वरानवित्तेः"
 
 +++
-अना॑गमिष्यतो॒ वरा॒नवि॑त्तेः संक॒ल्पानमु॒च्या द्रु॒हः पाशा॑न्॥१०॥  
+Wishes for boons that will not come, thoughts of poverty, the snares of the Druh who never releases.

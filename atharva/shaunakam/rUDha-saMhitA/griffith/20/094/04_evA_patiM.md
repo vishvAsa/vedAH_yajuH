@@ -2,5 +2,4 @@
 title = "०४ एवा पतिं"
 
 +++
-ए॒वा पतिं॑ द्रोण॒साचं॒ सचे॑तसमू॒र्ज स्क॒म्भं ध॒रुण॒ आ वृ॑षायसे ।  
-ओजः॑ कृष्व॒ सं गृ॑भाय॒ त्वे अप्यसो॒ यथा॑ केनि॒पाना॑मि॒नो वृ॒धे॥४॥  
+So like a bull thou rushest to the Lord who loves the trough, the Sage, the prop of vigour, in the vat. Prepare thine energies, collect them in thyself: be for our profit as the Master of the wise.

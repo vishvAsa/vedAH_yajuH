@@ -2,5 +2,4 @@
 title = "०२ तमु नः"
 
 +++
-तमु॑ नः॒ पूर्वे॑ पि॒तरो॒ नव॑ग्वाः स॒प्त विप्रा॑सो अ॒भि वा॒जय॑न्तः ।  
-न॒क्ष॒द्दा॒भं ततु॑रिं पर्वते॒ष्ठामद्रो॑घवाचं म॒तिभिः॒ शवि॑ष्ठम्॥२॥  
+Our ancient sires, Navagvas, sages seven, while urging him to show his might, extolled him, Dweller on heights, swift smiting down opponents, guileless in word, and in his thoughts most mighty.

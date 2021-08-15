@@ -2,5 +2,4 @@
 title = "०६ स्वस्ति ते"
 
 +++
-स्व॒स्ति ते॑ सूर्य च॒रसे॒ रथा॑य॒ येनो॒भावन्तौ॑ परि॒यासि॑ स॒द्यः ।  
-यं ते॒ वह॑न्ति ह॒रितो॒ वहि॑ष्ठाः श॒तमश्वा॒ यदि॑ वा स॒प्त ब॒ह्वीः ॥६॥  
+Hail to thy rapid car whereon, O Surya, thou circlest in a moment both the limits, Whirled by thy bay steeds, best of all at drawing, thy hundred horses or seven goodly coursers!

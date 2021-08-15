@@ -2,5 +2,4 @@
 title = "०४ यथा मृगाः"
 
 +++
-यथा॑ मृ॒गाः सं॑वि॒जन्त॑ आर॒ण्याः पुरु॑षा॒दधि॑ ।  
-ए॒वा त्वं दु॑न्दुभे॒ऽमित्रा॑न॒भि क्र॑न्द॒ प्र त्रा॑स॒याथो॑ चि॒त्तानि॑ मोहय ॥४॥  
+As the wild creatures of the wood flee in their terror from a man, Even so do thou, O Drum, roar out against our foes to frighten them, and then bewilder thou their thoughts.

@@ -2,5 +2,4 @@
 title = "२१ ईर्माभ्यामयनं जातं"
 
 +++
-ई॒र्माभ्या॒मय॑नं जा॒तं सक्थि॑भ्यां च वशे॒ तव॑ ।  
-आ॒न्त्रेभ्यो॑ जज्ञिरे अ॒त्रा उ॒दरा॒दधि॑ वी॒रुधः॑ ॥२१॥  
+From thy fore-quarters and thy thighs motion was generated, Cow! Food from thine entrails was produced, and from thy belly came the plants.

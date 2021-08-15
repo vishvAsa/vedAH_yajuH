@@ -2,5 +2,4 @@
 title = "१० यदा वाजमसनद्"
 
 +++
-य॒दा वाज॒मस॑नद् वि॒श्वरू॑प॒मा द्यामरु॑क्ष॒दुत्त॑राणि॒ सद्म॑ ।  
-बृह॒स्पतिं॒ वृष॑णं व॒र्धय॑न्तो॒ नाना॒ सन्तो॒ बिभ्र॑तो॒ ज्योति॑रा॒सा॥१०॥  
+When he had won him strength of every nature and gone to heaven and its most lofty mansions, Men praised Brihaspati the mighty, bringing the light within their mouths from sundry places.

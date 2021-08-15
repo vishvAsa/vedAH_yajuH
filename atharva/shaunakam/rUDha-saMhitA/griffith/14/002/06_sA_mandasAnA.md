@@ -2,5 +2,4 @@
 title = "०६ सा मन्दसाना"
 
 +++
-सा म॑न्दसा॒ना मन॑सा शि॒वेन॑ र॒यिं धे॑हि॒ सर्व॑वीरं वच॒स्यऽम्।  
-सु॒गं ती॒र्थं सु॑प्रपा॒णं शु॑भस्पती स्था॒णुं पथि॑ष्ठा॒मप॑ दुर्म॒तिं ह॑तम्॥६॥  
+Thou, Dame, rejoicing, take with kindly spirit wealth worthy to be famed, with all thy heroes. Give, Lords of Light a fair ford, good to drink at: remove the spiteful stump that blocks the pathway.

@@ -2,5 +2,4 @@
 title = "२५ पञ्च रुक्मा"
 
 +++
-पञ्च॑ रु॒क्मा पञ्च॒ नवा॑नि॒ वस्त्रा॒ पञ्चा॑स्मै धे॒नवः॑ काम॒दुघा॑ भवन्ति ।  
-यो॒३जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥२५॥  
+The five gold pieces, and the five new garments, and the five milch-kine yield him all his wishes. Who gives the Goat Panchaudana illumined with a priestly fee.

@@ -2,5 +2,4 @@
 title = "०३ किमङ्ग त्वा"
 
 +++
-किम॒ङ्ग त्वा॑ मघवन् भो॒जमा॑हुः शिशी॒हि मा॑ शिश॒यं त्वा॑ शृणोमि ।  
-अप्न॑स्वती॒ मम॒ धीर॑स्तु शक्र वसु॒विदं॒ भग॑मि॒न्द्रा भ॑रा नः ॥३॥  
+Why, Maghavan, do they call thee bounteous Giver? Quicken me: thou, I hear, art he who quickens. Sakra, let my intelligence be active, and bring us luck that finds great wealth, O Indra.

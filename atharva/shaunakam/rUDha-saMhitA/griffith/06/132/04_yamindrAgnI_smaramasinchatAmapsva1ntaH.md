@@ -2,5 +2,4 @@
 title = "०४ यमिन्द्राग्नी स्मरमसिञ्चतामप्स्व१न्तः"
 
 +++
-यमि॑न्द्रा॒ग्नी स्म॒रमसि॑ञ्चताम॒प्स्व॑१न्तः शोशु॑चानं स॒हाध्या।  
-तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥४॥  
+The charm, aglow with longing, which Indra and Agni have effused within the bosom of the floods, That spell for thee I heat by Varuna's decree.

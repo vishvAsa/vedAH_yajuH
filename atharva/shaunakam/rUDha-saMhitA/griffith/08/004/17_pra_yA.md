@@ -2,5 +2,4 @@
 title = "१७ प्र या"
 
 +++
-प्र या जिगा॑ति ख॒र्गले॑व॒ नक्त॒मप॑ द्रु॒हुस्त॒न्वं॑१गूह॑माना ।  
-व॒व्रम॑न॒न्तमव॒ सा प॑दीष्ट॒ ग्रावा॑णो घ्नन्तु र॒क्षस॑ उप॒ब्दैः ॥१७॥  
+She too who wanders like an owl at night-time, hiding her body in her guile and malice, May she fall downward into endless caverns. May press-stones with loud ring destroy the demons.

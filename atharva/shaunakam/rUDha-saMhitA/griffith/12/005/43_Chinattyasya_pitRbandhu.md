@@ -2,4 +2,4 @@
 title = "४३ छिनत्त्यस्य पितृबन्धु"
 
 +++
-छि॒नत्त्य॑स्य पितृब॒न्धु परा॑ भावयति मातृब॒न्धु॥४३॥  
+She cuts off relationship on the father's side and destroys mater- nal kinship.

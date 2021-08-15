@@ -2,4 +2,4 @@
 title = "०६ इयं वा"
 
 +++
-इ॒यं वा उ॑ पृथि॒वी बृह॒स्पति॒र्द्यौरे॒वेन्द्रः॑ ॥६॥  
+Now this Earth is Brihaspati, and Heaven is Indra.

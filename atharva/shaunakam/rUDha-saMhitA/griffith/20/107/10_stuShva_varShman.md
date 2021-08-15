@@ -2,5 +2,4 @@
 title = "१० स्तुष्व वर्ष्मन्"
 
 +++
-स्तु॒ष्व व॑र्ष्मन् पुरु॒वर्त्मा॑नं॒ समृभ्वा॑णमि॒नत॑ममा॒प्तमा॒प्त्याना॑म्।  
-आ द॑र्शति॒ शव॑सा॒ भूर्यो॑जाः॒ प्र स॑क्षति प्रति॒मानं॑ पृथि॒व्याः ॥१०॥  
+Thou in that house which thy protection guardedh bestowest- wealth, the higher and the lower. Thou stablishest the two much-wandering Mothers, and bringest many deeds to their completion.

@@ -2,4 +2,4 @@
 title = "२८ सोदक्रामत् सा"
 
 +++
-सोद॑क्राम॒त् सा दे॒वानाग॑च्छ॒त् तां दे॒वा अ॑घ्नत॒ सार्ध॑मा॒से सम॑भवत्॥५॥  
+She mounted up, she came to Other People. They called her, crying, Come, Concealment! hither. Her dear calf was Vaisravana Kubera, a vessel never tempered was her milk-pail. Rajatanabhi, offspring of Kubera, milked her, and from her udder drew concealment. By that concealment live the Other People. He who knows this becomes a meet supporter, and makes all evil disappear and vanish.

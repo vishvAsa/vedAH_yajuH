@@ -2,5 +2,4 @@
 title = "०१ पुरस्ताद् युक्तो"
 
 +++
-पु॒रस्ता॑द् यु॒क्तो व॑ह जातवे॒दोऽग्ने॑ वि॒द्धि क्रि॒यमा॑णं॒ यथे॒दम्।  
-त्वं भि॒षग् भे॑ष॒जस्या॑सि क॒र्ता त्वया॒ गामश्वं॒ पुरु॑षं सनेम ॥१॥  
+Made ready in the east drive forth, take notice of what is hap- pening here, omniscient Agni! Thou bringest medicine and healest sickness: through thee may we win horses, kine, and people.

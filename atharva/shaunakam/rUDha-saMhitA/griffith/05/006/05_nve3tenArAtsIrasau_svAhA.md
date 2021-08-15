@@ -2,5 +2,4 @@
 title = "०५ न्वे३तेनारात्सीरसौ स्वाहा"
 
 +++
-न्वे॒३तेना॑रात्सीरसौ॑ स्वाहा॑ ।  
-ति॒ग्मायु॑धौ ति॒ग्महे॑ती सु॒शेवौ॒ सोमा॑रुद्रावि॒ह सु मृ॑डतं नः ॥५॥  
+Through this now hast thou sent thy gifts. All hail! With sharpened arms and missiles, kind and friendly, be gracious unto us, Soma and Rudra!

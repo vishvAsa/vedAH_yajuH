@@ -2,5 +2,4 @@
 title = "२६ अग्नी रक्षांसि"
 
 +++
-अ॒ग्नी रक्षां॑सि सेधति शु॒क्रशो॑चि॒रम॑र्त्यः ।  
-शुचिः॑ पाव॒क ईड्यः॑ ॥२६॥
+Bright, radiant, meet to be adored, immortal with refulgent glow, Agni drives Rakshasas away.

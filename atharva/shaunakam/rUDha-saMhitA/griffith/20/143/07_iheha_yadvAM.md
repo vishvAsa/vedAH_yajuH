@@ -2,5 +2,4 @@
 title = "०७ इहेह यद्वां"
 
 +++
-इ॒हेह॒ यद्वां॑ सम॒ना प॑पृ॒क्षे सेयम॒स्मे सु॑म॒तिर्वा॑जरत्ना ।  
-उ॒रु॒ष्यतं॑ जरि॒तारं॑ यु॒वं ह॑ श्रि॒तः कामो॑ नासत्या युव॒द्रिक्॥७॥  
+Whene'er I gratified you here together, your grace was given us, O ye rich in booty. Protect, ye twain, the singer of your praises: to you, Nasatyas, is my wish directed.

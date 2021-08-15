@@ -2,5 +2,4 @@
 title = "११ अपक्रीताः सहीयसीर्वीरुधो"
 
 +++
-अ॒प॒क्री॒ताः सही॑यसीर्वी॒रुधो॒ या अ॒भिष्टु॑ताः ।  
-त्राय॑न्ताम॒स्मिन् ग्रामे॒ गामश्वं॒ पुरु॑षं प॒शुम्॥११॥  
+Let purchased Plants of mightier power, Plants that are praised for excellence. Here in this village safely keep cattle and horses, man and beast.

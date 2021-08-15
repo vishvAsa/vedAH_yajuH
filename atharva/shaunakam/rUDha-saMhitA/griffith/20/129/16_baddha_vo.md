@@ -2,4 +2,4 @@
 title = "१६ बद्ध वो"
 
 +++
-बद्ध॑ वो॒ अघा॒ इति॑ ॥१६॥  
+Barley and ripened rice I seek. On rice and barley hast thou fed, (with previous verse)

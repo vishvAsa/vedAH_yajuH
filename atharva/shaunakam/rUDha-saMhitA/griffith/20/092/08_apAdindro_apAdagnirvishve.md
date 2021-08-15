@@ -2,5 +2,4 @@
 title = "०८ अपादिन्द्रो अपादग्निर्विश्वे"
 
 +++
-अपा॒दिन्द्रो॒ अपा॑द॒ग्निर्विश्वे॑ दे॒वा अ॑मत्सत ।  
-वरु॑ण॒ इदि॒ह क्ष॑य॒त् तमापो॑ अ॒भ्यऽनूषत व॒त्सं सं॒शिश्व॑रीरिव ॥८॥  
+Indra hath drunk; Agni hath drunk all Deities have drunk their fill. Here Varuna shall have his home, to whom the floods have sung aloud as mother-kine unto their calves.

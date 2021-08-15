@@ -2,5 +2,4 @@
 title = "१२ इह गावः"
 
 +++
-इ॒ह गावः॒ प्रजा॑यध्वमि॒हाश्वा इ॒ह पूरु॑षाः ।  
-इ॒हो स॒हस्र॑दक्षि॒णोऽपि॑ पू॒षा नि षी॑दति ॥१२॥  
+Here, cows! increase and multiply, here ye, O horses, here, O men. Here, with a thousand rich rewards, doth Pushan also seat him- self.

@@ -2,5 +2,4 @@
 title = "०३ यथेयं पृथिवी"
 
 +++
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ पर्व॑तान् गि॒रीन्।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥३॥  
+Even as this mighty Earth hath borne and bears the mountains and the hills, So may the germ of life be borne in thee that thou mayst bear a son.

@@ -2,5 +2,4 @@
 title = "०८ मा मा"
 
 +++
-मा मा॑ वोचन्नरा॒धसं॒ जना॑सः॒ पुन॑स्ते॒ पृश्निं॑ जरितर्ददामि ।  
-स्तो॒त्रं मे॒ विश्व॒मा या॑हि॒ शची॑भिर॒न्तर्विश्वा॑सु॒ मानु॑षीषु दि॒क्षु॥८॥  
+Let not men call me an illiberal giver. I give thee back the brindled cow, O singer. Attend in every place where men inhabit, with all thy powers, the hymn that tells my praises.

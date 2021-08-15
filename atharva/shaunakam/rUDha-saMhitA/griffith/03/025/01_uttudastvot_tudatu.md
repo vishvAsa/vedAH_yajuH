@@ -2,5 +2,4 @@
 title = "०१ उत्तुदस्त्वोत् तुदतु"
 
 +++
-उ॒त्तु॒दस्त्वोत् तु॑दतु॒ मा धृ॑थाः॒ शय॑ने॒ स्वे।  
-इषुः॒ काम॑स्य॒ या भी॒मा तया॑ विध्यामि त्वा हृ॒दि॥१॥  
+Let the Impeller goad thee on. Rest not in peace upon thy bed. Terrible is the shaft of Love: therewith I pierce thee to the heart.

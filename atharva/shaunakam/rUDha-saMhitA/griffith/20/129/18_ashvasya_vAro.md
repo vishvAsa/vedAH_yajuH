@@ -2,4 +2,4 @@
 title = "१८ अश्वस्य वारो"
 
 +++
-अश्व॑स्य॒ वारो॑ गोशपद्य॒के॥१८॥  
+As the big serpent feeds on sheep. Cow's hoof and horse's tail hast thou, (with previous verse)

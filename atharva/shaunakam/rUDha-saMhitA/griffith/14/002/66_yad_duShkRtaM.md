@@ -2,5 +2,4 @@
 title = "६६ यद् दुष्कृतं"
 
 +++
-यद् दु॑ष्कृ॒तं यच्छम॑लं विवा॒हे व॑ह॒तौ च॒ यत्।  
-तत् सं॑भ॒लस्य॑ कम्ब॒ले मृ॒ज्महे॑ दुरि॒तं व॒यम्॥६६॥  
+Whatever fault or error was in marriage or in bridal pomp. This woe we wipe away upon the cloak the interceder wears.

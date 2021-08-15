@@ -2,5 +2,4 @@
 title = "२२ उत् त्वा"
 
 +++
-उत् त्वा॑ वहन्तु म॒रुत॑ उदवा॒हा उ॑द॒प्रुतः॑ ।  
-अ॒जेन॑ कृ॒ण्वन्तः॑ शी॒तं व॒र्षेणो॑क्षन्तु॒ बालिति॑ ॥२२॥  
+Floating in water, bringing streams, let Maruts carry thee aloft, And causing coolness by their rush sprinkle thee with their fall- ing rain.

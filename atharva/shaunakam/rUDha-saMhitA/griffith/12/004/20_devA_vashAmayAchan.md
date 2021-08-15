@@ -2,5 +2,4 @@
 title = "२० देवा वशामयाचन्"
 
 +++
-दे॒वा व॒शाम॑याच॒न् मुखं॑ कृ॒त्वा ब्राह्म॑णम्।  
-तेषां॒ सर्वे॑षा॒मद॑द॒द्धेडं॒ न्येऽति॒ मानु॑षः ॥२०॥  
+The Deities have begged the Cow, using the Brahman as their mouth: The man who gives her not incurs the enmity of all the Gods.

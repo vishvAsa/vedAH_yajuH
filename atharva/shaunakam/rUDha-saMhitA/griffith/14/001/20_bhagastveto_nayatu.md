@@ -2,5 +2,4 @@
 title = "२० भगस्त्वेतो नयतु"
 
 +++
-भग॑स्त्वे॒तो न॑यतु हस्त॒गृह्या॒श्विना॑ त्वा॒ प्र व॑हतां॒ रथे॑न ।  
-गृ॒हान् ग॑च्छ गृ॒हप॑त्नी॒ यथासो॑ व॒शिनी॒ त्वं वि॒दथ॒मा व॑दासि ॥२०॥  
+Let Bhaga take thy hand and hence conduct thee: let the two Asvins on their car transport thee. Go to the house to be the household's mistress, and speak as lady to thy gathered people.

@@ -2,5 +2,4 @@
 title = "०३ को वामद्या"
 
 +++
-को वा॑म॒द्या क॑रते रा॒तह॑व्य ऊ॒तये॑ वा सुत॒पेया॑य वा॒र्कैः ।  
-ऋ॒तस्य॑ वा व॒नुषे॑ पू॒र्व्याय॒ नमो॑ येमा॒नो अ॑श्वि॒ना व॑वर्तत्॥३॥  
+Who bringeth you to-day for help with offered oblations, or with hymns to drink the juices? Who, for the sacrifice's ancient lover, turneth you hither, Asvins, offering homage?

@@ -2,5 +2,4 @@
 title = "०७ प्रोग्रां पीतिं"
 
 +++
-प्रोग्रां पी॒तिं वृष्ण॑ इयर्मि स॒त्यां प्र॒यै सु॒तस्य॑ हर्यश्व॒ तुभ्य॑म्।  
-इन्द्र॒ धेना॑भिरि॒ह मा॑दयस्व धी॒भिर्विश्वा॑भिः॒ शच्या॑ गृणा॒नः ॥७॥
+To make thee start, a strong true draught I offer to thee the Bull, O thou whom bay steeds carry. Here take delight. O Indra, in our voices while thou art hymned with power and all our spirit.

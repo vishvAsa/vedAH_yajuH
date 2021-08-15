@@ -2,5 +2,4 @@
 title = "०३ ऋतस्य पन्थामनु"
 
 +++
-ऋ॒तस्य॒ पन्था॒मनु॑ पश्य सा॒ध्वङ्गि॑रसः सु॒कृतो॑ येन॒ यन्ति॑ ।  
-तेभि॑र्याहि प॒थिभिः॑ स्व॒र्गं यत्रा॑दि॒त्या मधु॑ भ॒क्षय॑न्ति तृ॒तीये॒ नाके॒ अधि॒ वि श्र॑यस्व ॥३॥  
+Carefully look on Sacrifice's pathway whereon the Angirases, the righteous, travel. By those same pathways go thou up to Svarga where the Adityas take their fill of sweetness, There make thy home in the third vault of heaven,

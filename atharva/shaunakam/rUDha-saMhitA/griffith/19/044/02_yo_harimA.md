@@ -2,5 +2,4 @@
 title = "०२ यो हरिमा"
 
 +++
-यो ह॑रि॒मा जा॒यान्यो॑ऽङ्गभे॒दो वि॒सल्प॑कः ।  
-सर्वं॑ ते॒ यक्ष्म॒मङ्गे॑भ्यो ब॒हिर्नि॑र्ह॒न्त्वाञ्ज॑नम्॥२॥  
+The yellow hue, the feverish heat, the shooting pain that rends II the limbs, All the consumptive malady let the Ointment drive from out thy frame.

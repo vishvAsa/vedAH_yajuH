@@ -2,4 +2,4 @@
 title = "०४ आयुरस्यायुर्मे दाः"
 
 +++
-आयु॑र॒स्यायु॑र्मे दाः॒ स्वाहा॑ ॥४॥  
+Life art thou, give me life. All hail!

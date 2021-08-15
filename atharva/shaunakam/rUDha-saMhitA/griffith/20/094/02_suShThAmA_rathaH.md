@@ -2,5 +2,4 @@
 title = "०२ सुष्ठामा रथः"
 
 +++
-सु॒ष्ठामा॒ रथः॑ सु॒यमा॒ हरी॑ ते मि॒म्यक्ष॒ वज्रो॑ नृप॑ते॒ गभ॑स्तौ ।  
-शीभं॑ राजन् सु॒पथा या॑ह्य॒र्वाङ् वर्धा॑म ते प॒पुषो॒ वृष्ण्या॑नि ॥२॥  
+Firm-seated is thy car, thy steeds are docile: thy hand, O King, holds, firmly grasped, the thunder. On thy fair path, O Lord of men, come quickly: we will increase thy power when thou hast drunken.

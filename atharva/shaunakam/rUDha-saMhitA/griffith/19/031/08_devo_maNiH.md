@@ -2,5 +2,4 @@
 title = "०८ देवो मणिः"
 
 +++
-दे॒वो म॒णिः स॑पत्न॒हा ध॑न॒सा धन॑सातये ।  
-प॒शोरन्न॑स्य भू॒मानं॒ गवां॑ स्फा॒तिं नि य॑च्छतु ॥८॥  
+Divine, foe-quelling Amulet, wealth-winner for the gain of wealth-- May it give store of beasts and food and cause our kine to multiply.

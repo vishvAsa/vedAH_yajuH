@@ -2,5 +2,4 @@
 title = "०३ इमं स्तोममर्हते"
 
 +++
-इ॒मं स्तोम॒मर्ह॑ते जा॒तवे॑दसे॒ रथ॑मिव॒ सं म॑हेमा मनी॒षया॑ ।  
-भ॒द्रा हि नः॒ प्रम॑तिरस्य सं॒सद्यग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥३॥  
+For Jatavedas, worthy of our praise, will we frame with our mind this eulogy as 'twere a car. For good in his assembly is this care of ours. Let us not in thy friendship, Agni, suffer harm.

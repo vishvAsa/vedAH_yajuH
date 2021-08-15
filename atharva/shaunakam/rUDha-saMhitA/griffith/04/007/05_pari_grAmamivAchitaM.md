@@ -2,5 +2,4 @@
 title = "०५ परि ग्राममिवाचितं"
 
 +++
-परि॒ ग्राम॑मि॒वाचि॑तं॒ वच॑सा स्थापयामसि ।  
-तिष्ठा॑ वृ॒क्ष इ॑व॒ स्थाम्न्यभ्रि॑खाते॒ न रू॑रुपः ॥५॥  
+We set around thee with the spell as 'twere a gathered arma- ment. Stay quiet like a rooted tree. Dug up with mattocks, gripe not thou.

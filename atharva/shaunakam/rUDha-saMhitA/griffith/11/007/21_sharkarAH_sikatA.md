@@ -2,5 +2,4 @@
 title = "२१ शर्कराः सिकता"
 
 +++
-शर्क॑राः॒ सिक॑ता॒ अश्मा॑न॒ ओष॑धयो वी॒रुध॒स्तृणा॑ ।  
-अ॒भ्राणि॑ वि॒द्युतो॑ व॒र्षमुच्छि॑ष्टे॒ संश्रि॑ता श्रि॒ता॥२१॥  
+Pebbles, sand, stones, and herbs, and plants, and grass are in the Residue, Closely embraced and laid therein are lightnings and the clouds and rain.

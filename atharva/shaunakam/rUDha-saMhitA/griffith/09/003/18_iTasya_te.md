@@ -2,5 +2,4 @@
 title = "१८ इटस्य ते"
 
 +++
-इट॑स्य ते॒ वि चृ॑ता॒म्यपि॑नद्धमपोर्णु॒वन्।  
-वरु॑णेन॒ समु॑ब्जितां मि॒त्रः प्रा॒तर्व्युऽब्जतु ॥१८॥  
+I loosen and remove from thee thy covering formed by mats of reed. What Varuna hath firmly closed Mitra shall ope at early morn.

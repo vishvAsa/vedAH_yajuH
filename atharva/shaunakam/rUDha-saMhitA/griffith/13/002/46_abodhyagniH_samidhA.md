@@ -2,5 +2,4 @@
 title = "४६ अबोध्यग्निः समिधा"
 
 +++
-अबो॑ध्य॒ग्निः स॒मिधा॒ जना॑नां॒ प्रति॑ धे॒नुमि॑वाय॒तीमु॒षास॑म्।  
-य॒ह्वा इ॑व॒ प्र व॒यामु॒ज्जिहा॑नाः॒ प्र भा॒नवः॑ सिस्रते॒ नाक॒मच्छ॑ ॥४६॥
+Agni is weakened by the people's fuel to meet the Dawn who cometh like a milch-cow, Like young trees shooting up on high their branches, his flames are mounting to the vault of heaven.

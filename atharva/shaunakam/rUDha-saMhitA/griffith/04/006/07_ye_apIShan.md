@@ -2,5 +2,4 @@
 title = "०७ ये अपीषन्"
 
 +++
-ये अपी॑ष॒न् ये अदि॑ह॒न् य आस्य॒न् ये अ॒वासृ॑जन्।  
-सर्वे॒ ते वध्र॑यः कृ॒ता वध्रि॑र्विषगि॒रिः कृतः ॥७॥  
+The men who brayed it, smeared it on, they who discharged it, sent it forth, All these are made emasculate, emasculate the poison-hill.

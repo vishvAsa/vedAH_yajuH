@@ -2,5 +2,4 @@
 title = "०४ अक्ष्यौ३नि विध्य"
 
 +++
-अ॒क्ष्यौ॒३नि वि॑ध्य॒ हृद॑यं॒ नि वि॑ध्य जि॒ह्वां नि तृ॑न्द्धि॒ प्र द॒तो मृ॑णीहि ।  
-पि॒शा॒चो अ॒स्य य॑त॒मो ज॒घासाग्ने यविष्ठ॒ प्रति॒ तं शृ॑णीहि ॥४॥  
+Pierce both his eyes, pierce thou the heart within him, crush thou his teeth and cleave his tongue asunder. Rend thou, most youthful Agni, that Pisacha whoso amid them all of this hath eaten.

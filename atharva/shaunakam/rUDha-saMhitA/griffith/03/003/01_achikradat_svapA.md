@@ -2,5 +2,4 @@
 title = "०१ अचिक्रदत् स्वपा"
 
 +++
-अ॑चिक्रदत् स्व॒पा इ॒ह भु॑व॒दग्ने॒ व्यऽचस्व॒ रोद॑सी उरू॒ची।  
-यु॒ञ्जन्तु॑ त्वा म॒रुतो॑ वि॒श्ववे॑दस॒ आमुं न॑य॒ नम॑सा रा॒तह॑व्यम्॥१॥  
+Loudly he roared. Here let him labour deftly. Spread, Agni, over spacious earth and heaven. Let Maruts who possesses all treasures yoke thee. Bring him who reverently paid oblations.

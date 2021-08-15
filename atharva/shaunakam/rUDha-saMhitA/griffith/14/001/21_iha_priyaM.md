@@ -2,5 +2,4 @@
 title = "२१ इह प्रियं"
 
 +++
-इ॒ह प्रि॒यं प्र॒जायै॑ ते॒ समृ॑ध्यताम॒स्मिन् गृ॒हे गार्ह॑पत्याय जागृहि ।  
-ए॒ना पत्या॑ त॒न्वं॑१ सं स्पृ॑श॒स्वाथ॒ जिर्वि॑र्वि॒दथ॒मा व॑दासि ॥२१॥  
+Happy be thou and prosper with thy children here: be vigilant to rule the household in this home. Closely unite thy body with this man thy lord. So shalt thou, full of years, address thy company.

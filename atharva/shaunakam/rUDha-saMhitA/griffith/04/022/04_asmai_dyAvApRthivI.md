@@ -2,5 +2,4 @@
 title = "०४ अस्मै द्यावापृथिवी"
 
 +++
-अ॒स्मै द्यावा॑पृथिवी॒ भूरि॑ वा॒मं दु॑हाथां घर्म॒दुघे॑ इव धे॒नू।  
-अ॒यं राजा॒ प्रि॒य इन्द्र॑स्य भूयात् प्रि॒यो गवा॒मोष॑धीनां पशू॒नाम्॥४॥  
+Like milch-kine yielding milk for warm libations, pour, Heaven and Earth! on him full many a blessing. May he as King be Indra's well-beloved, the darling of the kine, the plants, the cattle.

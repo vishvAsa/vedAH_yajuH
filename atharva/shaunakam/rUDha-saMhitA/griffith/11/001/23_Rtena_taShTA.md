@@ -2,5 +2,4 @@
 title = "२३ ऋतेन तष्टा"
 
 +++
-ऋ॒तेन॑ त॒ष्टा मन॑सा हि॒तैषा ब्र॑ह्मौद॒नस्य॒ विहि॑ता॒ वेदि॒रग्रे॑ ।  
-अं॒स॒द्रीं शु॒द्धामुप॑ धेहि नारि॒ तत्रौ॑द॒नं सा॑दय दै॒वाना॑म्॥२३॥  
+Fashioned at first by Right, set by the spirit, this altar of Brahmau- dana was appointed. Place the pure boiler on it, woman! set thou therein the rice mess of Celestial Beings.

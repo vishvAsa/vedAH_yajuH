@@ -2,4 +2,4 @@
 title = "२८ मङ्गलिकेभ्यः स्वाहा"
 
 +++
-म॒ङ्ग॒लि॒केभ्यः॒ स्वाहा॑ ॥२८॥  
+Hail to the hymns for happiness!

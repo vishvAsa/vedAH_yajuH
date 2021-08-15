@@ -2,5 +2,4 @@
 title = "१० उन्मुञ्चन्तीर्विवरुणा उग्रा"
 
 +++
-उ॒न्मु॒ञ्चन्ती॑र्विवरु॒णा उ॒ग्रा या वि॑ष॒दूष॑णीः ।  
-अथो॑ बलास॒नाश॑नीः कृत्या॒दूष॑णीश्च॒ यास्ता इ॒हा य॒न्त्वोष॑धीः ॥१०॥  
+Strong, antidotes of poison, those releasers, free from Varuna, And those that drive away Catarrh, and those that frustrate magic arts, let all those Plants come hitherward.

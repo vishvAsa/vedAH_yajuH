@@ -2,5 +2,4 @@
 title = "१० यत् ते"
 
 +++
-यत् ते॑ नि॒यानं॑ रज॒सं मृत्यो॑ अनवध॒र्ष्यऽम्।  
-प॒थ इ॒मं तस्मा॒द् रक्ष॑न्तो॒ ब्रह्मा॑स्मै॒ वर्म॑ कृण्मसि ॥१०॥  
+Saving him from that misty path of thine which cannot be defined. From that descent of thine, O Death, we make for him a shield of prayer.

@@ -2,5 +2,4 @@
 title = "०२ सोमजुष्टं ब्रह्मजुष्टमर्यम्णा"
 
 +++
-सोम॑जुष्टं॒ ब्रह्म॑जुष्टमर्य॒म्णा संभृ॑तं॒ भग॑म्।  
-धा॒तुर्दे॒वस्य॑ स॒त्येन॑ कृ॒णोमि॑ पति॒वेद॑नम्॥२॥  
+As bliss beloved by Soma, dear to Prayer, and stored by Arya- man, With the God Dhatar's truthfulness I work the bridal oracle.

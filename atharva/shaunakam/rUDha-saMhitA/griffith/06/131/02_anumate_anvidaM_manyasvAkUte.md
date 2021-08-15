@@ -2,5 +2,4 @@
 title = "०२ अनुमतेऽन्विदं मन्यस्वाकूते"
 
 +++
-अनु॑म॒तेऽन्वि॒दं म॑न्य॒स्वाकू॑ते॒ समि॒दं नमः॑ ।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥२॥  
+Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth the charm, ye Deities! Let him consume with love of me.

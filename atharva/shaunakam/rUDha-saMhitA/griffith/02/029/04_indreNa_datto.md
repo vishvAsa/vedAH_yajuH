@@ -2,5 +2,4 @@
 title = "०४ इन्द्रेण दत्तो"
 
 +++
-इन्द्रे॑ण द॒त्तो वरु॑णेन शि॒ष्टो म॒रुद्भि॑रु॒ग्रः प्रहि॑तो न॒ आग॑न्।  
-ए॒ष वां॑ द्यावापृथिवी उ॒पस्थे॒ मा क्षु॑ध॒न्मा तृ॑षत्॥४॥  
+As Indra's gift, by Varuna instructed the fierce one came to us sent by the Maruts. Let him, O Heaven and Earth, rest in your bosom. Let him not hunger, let him not be thirsty.

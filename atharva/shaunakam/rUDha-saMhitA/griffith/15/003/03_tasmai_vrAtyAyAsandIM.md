@@ -2,4 +2,4 @@
 title = "०३ तस्मै व्रात्यायासन्दीं"
 
 +++
-तस्मै॒ व्रात्या॑यास॒न्दीं सम॑भरन्॥३॥  
+They brought the couch for that Vratya.

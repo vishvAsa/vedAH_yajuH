@@ -2,4 +2,4 @@
 title = "०२ द्यावापृथिवी श्रोत्रे"
 
 +++
-द्यावा॑पृथि॒वी श्रोत्रे॑ सूर्याचन्द्र॒मसा॒वक्षि॑णी सप्तऋ॒षयः॑ प्राणापा॒नाः ॥२॥  
+Heaven and Earth are the ears, the Sun and Moon are the eyes, the seven Rishis are the vital airs inhaled and exhaled.

@@ -2,5 +2,4 @@
 title = "११ एतद् वो"
 
 +++
-ए॒तद् वो॒ ज्योतिः॑ पितरस्तृ॒तीयं॒ पञ्चौ॑दनं ब्र॒ह्मणे॒ऽजं द॑दाति ।  
-अ॒जस्तमां॒स्यप॑ हन्ति दू॒रम॒स्मिंल्लो॒के श्र॒द्दधा॑नेन द॒त्तः ॥११॥  
+That is the third light that is yours, ye Fathers. He gives the Goat Panchaudana to the Brahman. Given in this world by the devout believer, the Goat dispels and drives afar the darkness.

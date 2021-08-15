@@ -2,5 +2,4 @@
 title = "०१ ऊर्ध्वा अस्य"
 
 +++
-ऊ॒र्ध्वा अ॑स्य स॒मिधो॑ भवन्त्यू॒र्ध्वा शु॒क्रा शो॒चीष्य॒ग्नेः ।  
-द्यु॒मत्त॑मा सु॒प्रती॑कः॒ ससू॑नु॒स्तनू॒नपा॒दसु॑रो॒ भूरि॑पाणिः ॥१॥  
+Uplifted be this sacrificer's fuel: lofty and brilliant be the flames of Agni! Splendidly bright, fair-faced, with all his offspring, Tanunapat the Asura, many-handed.

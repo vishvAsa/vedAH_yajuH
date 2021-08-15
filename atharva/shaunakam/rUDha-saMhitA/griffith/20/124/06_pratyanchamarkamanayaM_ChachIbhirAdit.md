@@ -2,5 +2,4 @@
 title = "०६ प्रत्यञ्चमर्कमनयं छचीभिरादित्"
 
 +++
-प्र॒त्यञ्च॑म॒र्कम॑नयं॒ छची॑भि॒रादित् स्व॒धामि॑षि॒रां पर्य॑पश्यन्।  
-अ॒या वाजं॑ दे॒वहि॑तं सनेम॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥६॥
+Brought the Sun hitherward with mighty powers, and looked about them on their vigorous Godhead. With this may we obtain strength God-appointed, and joy with brave sons through a hundred winters.

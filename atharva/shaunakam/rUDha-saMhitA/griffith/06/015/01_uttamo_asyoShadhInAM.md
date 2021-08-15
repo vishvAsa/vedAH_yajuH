@@ -2,5 +2,4 @@
 title = "०१ उत्तमो अस्योषधीनां"
 
 +++
-उ॒त्त॒मो अ॒स्योष॑धीनां॒ तव॑ वृ॒क्षा उ॑प॒स्तयः॑ ।  
-उ॒प॒स्तिर॑स्तु सो॒३स्माकं॒ यो अ॒स्मां अ॑भि॒दास॑ति ॥१॥  
+Most excellent of all the plants art thou: thy vassals are the trees. Let him be subject to our power, the man who seeks to injure us.

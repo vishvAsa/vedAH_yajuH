@@ -2,4 +2,4 @@
 title = "०२ दृंह प्रत्नान्"
 
 +++
-दृंह॑ प्र॒त्नान् ज॒नयाजा॑तान् जा॒तानु॒ वर्षी॑यसस्कृधि ॥२॥  
+Make the old firm, make new hair spring, lengthen what has already grown.

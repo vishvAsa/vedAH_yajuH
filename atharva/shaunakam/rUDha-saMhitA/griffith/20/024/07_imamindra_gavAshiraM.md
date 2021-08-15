@@ -2,4 +2,4 @@
 title = "०७ इममिन्द्र गवाशिरं"
 
 +++
-इ॒ममि॑न्द्र॒ गवा॑शिरं॒ यवा॑शिरं च नः पिब । आ॒गत्या॒ वृष॑भिः सु॒तम्॥७॥  
+Borne hither by thy stallions, drink, Indra, this juice which we have pressed, Mingled with barley and with milk.

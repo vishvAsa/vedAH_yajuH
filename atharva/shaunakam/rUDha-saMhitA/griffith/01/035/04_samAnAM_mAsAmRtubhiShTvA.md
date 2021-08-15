@@ -2,5 +2,4 @@
 title = "०४ समानां मासामृतुभिष्ट्वा"
 
 +++
-समा॑नां मा॒सामृ॒तुभि॑ष्ट्वा व॒यं सं॑वत्स॒रस्य॒ पय॑सा पिपर्मि ।  
-इ॒न्द्रा॒ग्नी विश्वे॑ दे॒वास्तेऽनु॑ मन्यन्ता॒महृ॑णीयमानाः ॥४॥
+With monthly and six-monthly times and seasons, with the full year's sweet essence do we fill thee, May Indra, Agni, and all Gods together, showing no anger, grant thee what thou wishest.

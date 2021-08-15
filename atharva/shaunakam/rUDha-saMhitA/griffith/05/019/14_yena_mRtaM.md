@@ -2,5 +2,4 @@
 title = "१४ येन मृतं"
 
 +++
-येन॑ मृ॒तं स्न॒पय॑न्ति॒ श्मश्रू॑णि॒ येनोन्दते॑ ।  
-तं वै ब्र॑ह्मज्य ते दे॒वा अ॒पां भा॒गम॑धारयन्॥१४॥  
+The share of water which the Gods have destined to be thine, is that, Oppressor of the priest! wherewith men lave the corpse and wet the beard.

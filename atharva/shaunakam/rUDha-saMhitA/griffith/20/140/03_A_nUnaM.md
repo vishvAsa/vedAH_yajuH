@@ -2,5 +2,4 @@
 title = "०३ आ नूनं"
 
 +++
-आ नू॒नं र॒घुव॑र्तनिं॒ रथं॑ तिष्ठाथो अश्विना ।  
-आ वां॒ स्तोमा॑ इ॒मे मम॒ नभो॒ न चु॑च्यवीरत ॥३॥  
+Ye Asvins, now ascend your car that lightly rolls upon its way. May these my praises make you speed hitherward like a cloud of heaven.

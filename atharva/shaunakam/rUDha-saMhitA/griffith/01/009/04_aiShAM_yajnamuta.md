@@ -2,5 +2,4 @@
 title = "०४ ऐषां यज्ञमुत"
 
 +++
-ऐषां॑ य॒ज्ञमु॒त वर्चो॑ ददे॒ऽहं रा॒यस्पोष॑मु॒त चि॒त्तान्य॑ग्ने ।  
-स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम्॥४॥
+I have assumed their sacrifice, O Agni, their hopes, their glory,. and their riches' fulness. Prostrate beneath our feet his foes and rivals. Uplift him to the- loftiest cope of heaven.

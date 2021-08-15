@@ -2,5 +2,4 @@
 title = "०४ स्रुवेव यस्य"
 
 +++
-स्रुवे॑व॒ यस्य॒ हरि॑णी विपे॒ततुः॒ शिप्रे॒ वाजा॑य॒ हरि॑णी॒ दवि॑ध्वतः ।  
-प्र यत् कृ॒ते च॑म॒से मर्मृ॑ज॒द्धरी॑ पी॒त्वा मद॑स्य हर्य॒तस्यान्ध॑सः ॥४॥  
+His yellow-coloured jaws, like ladles, move apart, what time,. for strength, he makes the yellow-tinted stir, When. while the bowl stands there, he grooms his tawny steeds, when he hath drunk strong drink, the sweet juice that he: loves.

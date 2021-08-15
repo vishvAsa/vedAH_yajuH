@@ -2,5 +2,4 @@
 title = "०२ श्रेष्ठमसि भेषजानां"
 
 +++
-श्रेष्ठ॑मसि भेष॒जानां॒ वसि॑ष्ठं॒ वीरु॑धानाम्।  
-सोमो॒ भग॑ इव॒ यामे॑षु॒ दे॒वेषु॒ वरु॑णो॒ यथा॑ ॥२॥  
+Thou art the best of medicines, most excellent of Plants art thou, As Soma 'mid the wandering stars, as Varuna among the Gods.

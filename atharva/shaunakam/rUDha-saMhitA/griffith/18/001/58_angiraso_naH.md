@@ -2,5 +2,4 @@
 title = "५८ अङ्गिरसो नः"
 
 +++
-अङ्गि॑रसो नः पि॒तरो॒ नव॑ग्वा॒ अथ॑र्वाणो॒ भृग॑वः सो॒म्यासः॑ ।
-तेषां॑ व॒यं सु॑म॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥५८॥
+Our Fathers are Angirases, Navagvas, Atharvans, Bhrigus, who deserve the Soma. May these, the holy, look on us with favour; may we enjoy their gracious loving-kindness.

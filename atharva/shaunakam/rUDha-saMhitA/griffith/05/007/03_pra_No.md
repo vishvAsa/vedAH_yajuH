@@ -2,5 +2,4 @@
 title = "०३ प्र णो"
 
 +++
-प्र णो॑ व॒निर्दे॒वकृ॑ता॒ दिवा॒ नक्तं॑ च कल्पताम्।  
-अरा॑तिमनु॒प्रेमो॑ व॒यं नमो॑ अ॒स्त्वरा॑तये ॥३॥  
+May our desire which Gods have roused fulfil itself by day and night. We seek to win Arati: to Arati be our homage paid.

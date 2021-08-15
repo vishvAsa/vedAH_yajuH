@@ -2,5 +2,7 @@
 title = "०१ उदितस्त्रयो अक्रमन्"
 
 +++
-उदि॒तस्त्रयो॑ अक्रमन् व्या॒घ्रः पुरु॑षो॒ वृकः॑ ।  
-हिरु॒ग्घि यन्ति॒ सिन्ध॑वो॒ हिरु॑ग् दे॒वो वन॒स्पति॒र्हिरु॑ङ्नमन्तु॒ शत्र॑वः ॥१॥  
+id
+4.3.1    Three have gone hence and passed away, the man...
+4.3.1    Three have gone hence and passed away, the man...
+Name: Comment, dtype: object

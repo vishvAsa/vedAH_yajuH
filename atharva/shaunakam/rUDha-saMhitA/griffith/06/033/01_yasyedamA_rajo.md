@@ -2,5 +2,4 @@
 title = "०१ यस्येदमा रजो"
 
 +++
-यस्ये॒दमा रजो॒ युज॑स्तु॒जे जना॒ वनं॒ स्वः ।  
-इन्द्र॑स्य॒ रन्त्यं॑ बृ॒हत्॥१॥  
+He who controls this air and men who aid his strength, and wood, and heaven, the lofty seat which Indra loves.

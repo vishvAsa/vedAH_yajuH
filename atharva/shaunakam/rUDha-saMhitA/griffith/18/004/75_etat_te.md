@@ -2,4 +2,4 @@
 title = "७५ एतत् ते"
 
 +++
-ए॒तत् ते॑ प्रततामह स्व॒धा ये च॒ त्वामनु॑ ॥७५॥  
+To thee, O Great-grandfather, and those with thee be this cry of Hail

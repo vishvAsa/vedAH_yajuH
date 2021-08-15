@@ -2,6 +2,7 @@
 title = "०३ प्रतीची दिग्"
 
 +++
-प्र॒तीची॒ दिग् वरु॒णोऽधि॑पतिः॒ पृदा॑कू रक्षि॒तान्न॒मिष॑वः ।  
-तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु ।  
-यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥३॥  
+id
+3.27.3    Of the West region Varuna is ruler, Pridaku wa...
+3.27.3    Be thou auspicious to our folk, bring luck to ...
+Name: Comment, dtype: object

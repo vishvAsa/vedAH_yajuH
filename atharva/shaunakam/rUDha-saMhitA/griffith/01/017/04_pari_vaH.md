@@ -2,4 +2,4 @@
 title = "०४ परि वः"
 
 +++
-परि॑ वः॒ सिक॑तावती ध॒नूर्बृ॑ह॒त्यऽक्रमीत्।तिष्ठ॑ते॒लय॑ता॒ सु क॑म्॥४॥
+A mighty rampart built of sand hath circled and encompassed you: Be still, and quietly take rest.

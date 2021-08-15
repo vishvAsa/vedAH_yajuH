@@ -2,5 +2,4 @@
 title = "०१ आ रात्रि"
 
 +++
-आ रा॑त्रि॒ पार्थि॑वं॒ रजः॑ पि॒तुर॑प्रायि॒ धाम॑भिः ।  
-दि॒वः सदां॑सि बृह॒ती वि ति॑ष्ठस॒ आ त्वे॒षं व॑र्तते॒ तमः॑ ॥१॥  
+Night! the terrestrial realm hath been filled with the Father's power and might. Thou spreadest forth on high unto the seats of Heaven: dark- ness that strikes with awe comes near.

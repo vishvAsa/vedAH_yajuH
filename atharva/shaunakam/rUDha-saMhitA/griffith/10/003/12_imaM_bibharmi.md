@@ -2,5 +2,4 @@
 title = "१२ इमं बिभर्मि"
 
 +++
-इ॒मं बि॑भर्मि वर॒णमायु॑ष्मान्छ॒तशा॑रदः ।  
-स मे॑ रा॒ष्ट्रं च॑ क्ष॒त्रं च॑ प॒शूनोज॑श्च मे दधत्॥१२॥  
+Through hundred autumn seasons, long to live, I wear this Varana. May it bestow on me great strength, cattle, and royalty and power.

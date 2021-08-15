@@ -2,4 +2,4 @@
 title = "०८ त्रपु भस्म"
 
 +++
-त्रपु॒ भस्म॒ हरि॑तं॒ वर्णः॒ पुष्क॑रमस्य ग॒न्धः ॥८॥  
+Tin is its ashes, gold its colour, the blue lotus flower its scent. 

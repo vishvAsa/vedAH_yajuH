@@ -2,7 +2,4 @@
 title = "१३ स वरुणः"
 
 +++
-स वरु॑णः सा॒यम॒ग्निर्भ॑वति॒ स मि॒त्रो भ॑वति प्रा॒तरु॒द्यन्।  
-स स॑वि॒ता भू॒त्वान्तरि॑क्षेण याति॒ स इन्द्रो॑ भू॒त्वा त॑पति मध्य॒तो दिवं॒ तस्य॑ दे॒वस्य॑।  
-क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑ ।  
-उद् वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न्॥१३॥  
+At evening he is Varuna and Agni, ascending in the morning he is Mitra. As Savitar, he moves through air's mid region, as Indra warms- the heavens from the centre. This God, etc.

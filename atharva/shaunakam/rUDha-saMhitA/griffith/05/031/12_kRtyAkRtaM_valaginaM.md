@@ -2,5 +2,4 @@
 title = "१२ कृत्याकृतं वलगिनं"
 
 +++
-कृ॒त्या॒कृतं॑ वल॒गिनं॑ मू॒लिनं॑ शपथे॒य्यऽम्।  
-इन्द्र॒स्तं ह॑न्तु मह॒ता व॒धेना॒ग्निर्वि॑ध्यत्व॒स्तया॑ ॥१२॥
+May Indra slay with mighty bolt, may Agni with his missible pierce. The sorcerer who brings the curse, who deals with roots and secret spells.

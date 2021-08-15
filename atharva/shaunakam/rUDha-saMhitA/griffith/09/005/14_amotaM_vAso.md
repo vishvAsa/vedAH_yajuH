@@ -2,5 +2,4 @@
 title = "१४ अमोतं वासो"
 
 +++
-अ॒मो॒तं वासो॑ दद्या॒द्धिर॑ण्य॒मपि॒ दक्षि॑णाम्।  
-तथा॑ लो॒कान्त्समा॑प्नोति॒ ये दि॒व्या ये च॒ पार्थि॑वाः ॥१४॥  
+Home-woven raiment let him give, and gold as guerdon to the priests. So he obtains completely all celestial and terrestrial worlds.

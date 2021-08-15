@@ -2,5 +2,4 @@
 title = "०३ इन्द्रो ह"
 
 +++
-इन्द्रो॑ ह चक्रे त्वा बा॒हावसु॑रेभ्य॒ स्तरी॑तवे ।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे ॥३॥  
+Yea, Indra laid thee on his arm, to cast the Asuras to the ground. Refute mine adversary's speech. Render them dull and flat, O Plant.

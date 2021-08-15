@@ -2,5 +2,4 @@
 title = "०८ वध्रयस्ते खनितारो"
 
 +++
-वध्र॑यस्ते खनि॒तारो॒ वध्रि॒स्त्वम॑स्योषधे ।  
-वध्रिः॒ स पर्व॑तो गि॒रिर्यतो॑ जा॒तमि॒दं वि॒षम्॥८॥
+Thy diggers are emasculate, emasculate, O, Plant art thou. The rugged mountain that produced this poison is emasculate.

@@ -2,4 +2,4 @@
 title = "०१ अग्निं दूतं"
 
 +++
-अ॒ग्निं दू॒तं वृ॑णीमहे॒ होता॑रं वि॒श्ववे॑दसम्। अ॒स्य य॒ज्ञस्य॑ सु॒क्रतु॑म्॥१॥  
+Agni we choose, the messenger, the herald, master of all wealth,. Well skilled in this our sacrifice.

@@ -2,5 +2,4 @@
 title = "४४ वैश्वानरस्य दंष्ट्राभ्यां"
 
 +++
-वै॒श्वा॒न॒रस्य॒ दंष्ट्रा॑भ्यां हे॒तिस्तं सम॑धाद॒भि।  
-इ॒यं तं प्सा॒त्वाहु॑तिः स॒मिद् दे॒वी सही॑यसी ॥४३॥  
+Thou art the bound of Varuna the King. Bind, such an one, the son of such a woman, in vital breath and in the food that feeds him.

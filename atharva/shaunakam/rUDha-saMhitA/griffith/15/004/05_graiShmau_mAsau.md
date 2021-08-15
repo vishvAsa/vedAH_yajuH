@@ -2,4 +2,4 @@
 title = "०५ ग्रैष्मौ मासौ"
 
 +++
-ग्रैष्मौ॒ मासौ॑ गो॒प्तारा॒वकु॑र्वन् यज्ञाय॒ज्ञियं॑ च वामदेव्यं चा॑नुष्ठा॒तारौ॑ ॥५॥  
+They made the two Winter months his protectors from the region of the nadir, and earth and Agni superintendents. The two Winter months, etc.

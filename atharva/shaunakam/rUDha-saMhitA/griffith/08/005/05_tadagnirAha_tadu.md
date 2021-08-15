@@ -2,5 +2,4 @@
 title = "०५ तदग्निराह तदु"
 
 +++
-तद॒ग्निरा॑ह॒ तदु॒ सोम॑ आह॒ बृह॒स्पतिः॑ सवि॒ता तदिन्द्रः॑ ।  
-ते मे॑ दे॒वाः पु॒रोहि॑ताः प्र॒तीचीः॑ कृ॒त्याः प्र॑तिस॒रैर॑जन्तु ॥५॥  
+This Agni hath declared, Soma declared it, Brihaspati, and Savitar, and Indra. So may these Gods whom I have set before me oppose with saving charms and banish witchcraft.

@@ -2,5 +2,4 @@
 title = "०९ अवीरामिव मामयं"
 
 +++
-अ॒वीरा॑मिव॒ माम॒यं श॒रारु॑र॒भि म॑न्यते ।  
-उ॒ताहम॑स्मि वी॒रिणीन्द्र॑पत्नी म॒रुत्स॑खा॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥९॥  
+This noxious creature looks on me as one bereft of hero's love. Yet heroes for my sons have I, the Maruts' friend and Indra's Queen Supreme is Indra over all.

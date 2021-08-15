@@ -2,5 +2,4 @@
 title = "११ ब्रह्मणाग्निः सम्विदानो"
 
 +++
-ब्रह्म॑णा॒ग्निः स॑म्विदा॒नो र॑क्षो॒हा बा॑धतामि॒तः ।  
-अमी॑वा॒ यस्ते॒ गर्भं॑ दु॒र्णामा॒ योनि॑मा॒शये॑ ॥११॥  
+May Agni yielding to our prayer, the Rakshas-killer, drive away. The malady of evil name that hath beset thy labouring womb.

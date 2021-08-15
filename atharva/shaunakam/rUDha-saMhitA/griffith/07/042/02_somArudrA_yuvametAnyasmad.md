@@ -2,5 +2,4 @@
 title = "०२ सोमारुद्रा युवमेतान्यस्मद्"
 
 +++
-सोमा॑रुद्रा यु॒वमे॒तान्य॒स्मद् विश्वा॑ त॒नूषु॑ भेष॒जानि॑ धत्तम्।  
-अव॑ स्यतं मु॒ञ्चतं॒ यन्नो॒ अस॑त् त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑ अ॒स्मत्॥२॥
+Lay on our bodies, O ye twain, O Soma and Rudra, all those balms that heal diseases. Set free and draw away the sin committed, which we have still inherent in our persons.

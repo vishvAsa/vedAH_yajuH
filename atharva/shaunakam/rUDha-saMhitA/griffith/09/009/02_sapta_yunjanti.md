@@ -2,5 +2,4 @@
 title = "०२ सप्त युञ्जन्ति"
 
 +++
-स॒प्त यु॑ञ्जन्ति॒ रथ॒मेक॑चक्र॒मेको॒ अश्वो॑ वहति स॒प्तना॑मा ।  
-त्रि॒नाभि॑ च॒क्रम॒जर॑मन॒र्वं यत्रे॒मा विश्वा॒ भुव॒नाधि॑ त॒स्थुः ॥२॥  
+The seven make the one-wheeled chariot ready: bearing seven names the single Courser draws it. The wheel, three-naved, is sound and undecaying: thereon these worlds of life are all dependent.

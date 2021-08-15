@@ -2,5 +2,4 @@
 title = "०१ यद्यन्तरिक्षे यदि"
 
 +++
-यद्य॒न्तरि॑क्षे॒ यदि॒ वात॒ आस॒ यदि॑ वृ॒क्षेषु॒ यदि॒ वोल॑पेषु ।  
-यदश्र॑वन् प॒शव॑ उ॒द्यमा॑नं॒ तद् ब्राह्म॑णं॒ पुन॑र॒स्मानु॒पैतु॑ ॥१॥
+If it was in the wind or air's mid-region, if it was in the trees or in the bushes, To meet whose utterance forth streamed the cattle, may that. Celestial Power again approach us.

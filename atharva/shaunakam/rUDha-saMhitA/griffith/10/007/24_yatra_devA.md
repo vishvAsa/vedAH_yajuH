@@ -2,5 +2,4 @@
 title = "२४ यत्र देवा"
 
 +++
-यत्र॑ दे॒वा ब्र॑ह्म॒विदो॒ ब्रह्म॑ ज्ये॒ष्ठमु॒पास॑ते ।  
-यो वै तान् वि॒द्यात् प्र॒त्यक्षं॒ स ब्र॒ह्मा वेदि॑ता स्यात्॥२४॥  
+Where the Gods, versed in Sacred Lore, worship the loftiest Power Divine The priest who knows them face to face may be a sage who knows the truth.

@@ -2,5 +2,4 @@
 title = "०९ अवकोल्बा उदकात्मान"
 
 +++
-अ॒वको॑ल्बा उ॒दका॑त्मान॒ ओष॑धयः ।  
-व्यृऽषन्तु दुरि॒तं ती॑क्ष्णशृ॒ङ्ग्यः ॥९॥  
+Let Plants whose soul is water, girt with Avakas, piercing with their sharp horns expel the malady.

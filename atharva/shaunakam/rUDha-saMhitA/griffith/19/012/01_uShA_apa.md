@@ -2,5 +2,4 @@
 title = "०१ उषा अप"
 
 +++
-उ॒षा अप॒ स्वसु॒स्तमः॒ सं व॑र्तयति वर्त॒निं सु॑जा॒तता॑ ।  
-अ॒या वाजं॑ दे॒वहि॑तं सनेम॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥१॥
+Dawn drives away her sister's gloom, and through her excellence makes her retrace her path. Through her may we gain God-appointed treasure, and with brave sons be glad through hundred winters.

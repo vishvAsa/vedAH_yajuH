@@ -2,5 +2,4 @@
 title = "२३ उपेहोपपर्चनास्मिन् गोष्ठ"
 
 +++
-उपे॒होप॑पर्चना॒स्मिन् गो॒ष्ठ उप॑ पृञ्च नः ।  
-उप॑ ऋष॒भस्य॒ यद् रेत॒ उपे॑न्द्र॒ तव॑ वी॒र्यऽम्॥२३॥  
+Here we restore this Bull, your youthful leader: sporting with him, go, wander at your pleasure. Ne'er, wealthy ones! may he be reft of offspring; and do ye favour us with growth of riches.

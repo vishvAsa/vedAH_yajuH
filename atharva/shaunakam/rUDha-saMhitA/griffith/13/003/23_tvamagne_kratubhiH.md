@@ -2,7 +2,4 @@
 title = "२३ त्वमग्ने क्रतुभिः"
 
 +++
-त्वम॑ग्ने॒ क्रतु॑भिः के॒तुभि॑र्हि॒तो॒३र्कः समि॑द्ध॒ उद॑रोचथा दि॒वि।  
-किम॒भ्याऽर्चन् म॒रुतः॒ पृश्नि॑मातरो॒ यद् रोहि॑त॒मज॑नयन्त दे॒वास्तस्य॑ दे॒वस्य॑।  
-क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑ ।  
-उद् वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न्॥२३॥  
+Thou, Agni, kind with lights and mental powers, hast up in heaven shone as the Sun, enkindled. The Maruts, sons of Prisni, sang his praises what time the Gods gave Rohita his being. This God, etc.

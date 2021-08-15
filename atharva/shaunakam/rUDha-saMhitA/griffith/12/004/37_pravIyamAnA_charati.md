@@ -2,5 +2,4 @@
 title = "३७ प्रवीयमाना चरति"
 
 +++
-प्र॒वी॒यमा॑ना चरति क्रु॒द्धा गोप॑तये व॒शा।  
-वे॒हतं मा॒ मन्य॑मानो मृ॒त्योः पाशे॑षु बध्यताम्॥३७॥  
+Enraged against her owner roams the Cow when she hath been impregned. He deemed me fruitless is her thought; let him be bound in, snares of Death!

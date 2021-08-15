@@ -2,4 +2,4 @@
 title = "०९ तद् यस्यैवं"
 
 +++
-तद् यस्यै॒वं वि॒द्वान् व्रात्योऽप॑रिमिता॒ रात्री॒रति॑थिर्गृ॒हे वस॑ति ॥९॥  
+To that Deity the sacrifice of him who has this knowledge is acceptable.

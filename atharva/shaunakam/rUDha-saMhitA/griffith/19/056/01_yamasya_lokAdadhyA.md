@@ -2,5 +2,4 @@
 title = "०१ यमस्य लोकादध्या"
 
 +++
-य॒मस्य॑ लो॒कादध्या ब॑भूविथ॒ प्रम॑दा॒ मर्त्या॒न् प्र यु॑नक्षि॒ धीरः॑ ।  
-ए॒का॒किना॑ स॒रथं॑ यासि वि॒द्वान्त्स्वप्नं॒ मिमा॑नो॒ असु॑रस्य॒ योनौ॑ ॥१॥  
+Thou art come hither from the world of Yama: thou, resolute, affectest men with rapture. Thou, Sleep, created in the Asura's dwelling, goest, well-know- ing, with the solitary.

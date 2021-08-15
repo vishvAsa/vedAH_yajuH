@@ -2,5 +2,4 @@
 title = "०५ मेधां सायं"
 
 +++
-मे॒धां सा॒यं मे॒धां प्रा॒तर्मे॒धां म॒ध्यन्दि॑नं॒ परि॑ ।  
-मे॒धां सूर्य॑स्य र॒श्मिभि॒र्वच॒सा वे॑शयामहे ॥५॥
+Intelligence at eve, at morn, Intelligence at noon of day, With the Sun's beams, and by our speech we plant in us Intelligence.

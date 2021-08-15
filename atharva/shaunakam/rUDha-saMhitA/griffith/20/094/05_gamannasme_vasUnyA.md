@@ -2,5 +2,4 @@
 title = "०५ गमन्नस्मे वसून्या"
 
 +++
-गम॑न्न॒स्मे वसू॒न्या हि शंसि॑षं स्वा॒शिषं॒ भर॒मा या॑हि सो॒मिनः॑ ।  
-त्वमी॑शिषे॒ सास्मिन्ना स॑त्सि ब॒र्हिष्य॑नाधृ॒ष्या तव॒ पात्रा॑णि॒ धर्म॑णा ॥५॥  
+May precious treasures come to us,-- so will I pray. Come to the votary's gift offered with beauteous laud. Thou art the Lord, as such sit on this holy grass: thy vessels are inviolate as Law commands.

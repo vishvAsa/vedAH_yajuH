@@ -2,5 +2,7 @@
 title = "४६ प्राणो अपानो"
 
 +++
-प्रा॒णो अ॑पा॒नो व्या॒न आयु॒श्चक्षु॑र्दृ॒शये॒ सूर्या॑य ।  
-अप॑रिपरेण प॒था य॒मरा॑ज्ञः पि॒तॄन् ग॑च्छ ॥४६॥  
+id
+18.2.46    Invincible through Fervour, they who by their ...
+18.2.46    Inbreath and outbreath, breath diffused, life,...
+Name: Comment, dtype: object

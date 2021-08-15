@@ -2,5 +2,4 @@
 title = "२१ मूढा अमित्रा"
 
 +++
-मू॒ढा अ॒मित्रा॑ न्यर्बुदे ज॒ह्येऽषां॒ वरं॑वरम्।  
-अ॒नया॑ जहि॒ सेन॑या ॥२१॥  
+Mazed are the foemen, Nyarbudi! Slay thou each bravest man of them: with this our army slaughter them.

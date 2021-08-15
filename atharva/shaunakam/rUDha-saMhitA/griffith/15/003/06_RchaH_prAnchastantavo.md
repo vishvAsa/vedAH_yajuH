@@ -2,4 +2,4 @@
 title = "०६ ऋचः प्राञ्चस्तन्तवो"
 
 +++
-ऋचः॒ प्राञ्च॒स्तन्त॑वो॒ यजूं॑षि ति॒र्यञ्चः॑ ॥६॥  
+Holy verses were the strings lengthwise, and Yajus formulas the cross-tapes.

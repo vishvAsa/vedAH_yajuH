@@ -2,4 +2,4 @@
 title = "११ ते वृक्षाः"
 
 +++
-ते वृ॒क्षाः स॒ह ति॑ष्ठति ॥११॥  
+Dapple, Harinika, and Bay ran forward to the liberal gifts.

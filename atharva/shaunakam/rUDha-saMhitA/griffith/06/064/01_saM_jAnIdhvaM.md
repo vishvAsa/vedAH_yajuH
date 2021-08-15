@@ -2,5 +2,4 @@
 title = "०१ सं जानीध्वं"
 
 +++
-सं जा॑नीध्वं॒ सं पृ॑च्यध्वं॒ सं वो॒ मनां॑सि जानताम्।  
-दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते ॥१॥  
+Agree and be united: let your minds be all of one accord, Even as the Gods of ancient days, unanimous, await their share.

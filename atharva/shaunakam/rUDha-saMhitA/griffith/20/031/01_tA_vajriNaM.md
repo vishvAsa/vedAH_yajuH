@@ -2,5 +2,4 @@
 title = "०१ ता वज्रिणं"
 
 +++
-ता व॒ज्रिणं॑ म॒न्दिनं॒ स्तोम्यं॒ मद॒ इन्द्रं॒ रथे॑ वहतो हर्य॒ता हरी॑ ।  
-पु॒रूण्य॑स्मै॒ सव॑नानि॒ हर्य॑त॒ इन्द्रा॑य॒ सोमा॒ हर॑यो दधन्विरे ॥१॥  
+These two dear Bays bring hither Indra on his car, thunder- armed, joyous, meet for laud, to drink his fill. Many libations flow for him who loveth them: to Indra have: the gold-hued Soma juices run.

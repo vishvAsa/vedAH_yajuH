@@ -2,4 +2,4 @@
 title = "०३ इन्द्रमित्था गिरो"
 
 +++
-इन्द्रमि॒त्था गिरो॒ ममाच्छा॑गुरिषि॒ता इ॒तः । आ॒वृते॒ सोम॑पीतये ॥३॥  
+To Indra have my songs of praise gone forth, thus rapidly sent hence, To turn him to the Soma-draught.

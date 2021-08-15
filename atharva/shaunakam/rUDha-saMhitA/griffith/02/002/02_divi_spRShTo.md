@@ -2,5 +2,4 @@
 title = "०२ दिवि स्पृष्टो"
 
 +++
-दि॒वि स्पृ॒ष्टो य॑ज॒तः सूर्य॑त्वगवया॒ता हर॑सो॒ दैव्य॑स्य ।  
-मृ॒डाद् ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्यः सु॒शेवाः॑ ॥२॥  
+Sky-reaching, like the Sun in brightness, holy, he who averts from us the Gods' displeasure. Lord of the World, may the Gandharva bless us, the friendly God who only must be worshipped.

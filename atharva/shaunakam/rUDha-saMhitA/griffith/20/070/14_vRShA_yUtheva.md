@@ -2,4 +2,4 @@
 title = "१४ वृषा यूथेव"
 
 +++
-वृषा॑ यू॒थेव॒ वंस॑गः कृ॒ष्टीरि॑य॒र्त्योज॑सा । ईशा॑नो॒ अप्र॑तिष्कुतः ॥१४॥  
+Even as the bull drives on the herds, he drives the people with his might, The ruler irresistible:

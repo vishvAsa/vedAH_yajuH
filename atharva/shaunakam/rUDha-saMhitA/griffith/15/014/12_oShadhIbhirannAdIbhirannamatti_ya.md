@@ -2,4 +2,4 @@
 title = "१२ ओषधीभिरन्नादीभिरन्नमत्ति य"
 
 +++
-ओष॑धीभिरन्ना॒दीभि॒रन्न॑मत्ति॒ य ए॒वं वेद॑ ॥१२॥  
+He, when he went away to all the intermediate spaces, went away having become Parameshthin and having made Devotion an eater of food. He who hath this knowledge eats food with Devotion as food-eater.

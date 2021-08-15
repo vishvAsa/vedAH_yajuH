@@ -2,5 +2,4 @@
 title = "१० दिवं ब्रूमो"
 
 +++
-दिवं॑ ब्रूमो॒ नक्ष॑त्राणि॒ भूमिं॑ य॒क्षाणि॒ पर्व॑तान्।  
-स॒मु॒द्रा न॒द्योऽ वेश॒न्तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१०॥  
+We speak to Constellations, Heaven, to Earth, to Genii, and to Hills, To Seas, to Rivers, and to Lakes: may they deliver us from woe.

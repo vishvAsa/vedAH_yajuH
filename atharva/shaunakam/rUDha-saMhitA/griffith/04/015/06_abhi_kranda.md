@@ -2,5 +2,4 @@
 title = "०६ अभि क्रन्द"
 
 +++
-अ॒भि क्र॑न्द स्त॒नया॒र्दयो॑द॒धिं भूमिं॑ पर्जन्य॒ पय॑सा॒ सम॑ङ्धि ।  
-त्वया॑ सृ॒ष्टं ब॑हु॒लमैतु॑ व॒र्षमा॑शारै॒षी कृ॒शगु॑रे॒त्वस्त॑म्॥६॥  
+Roar, thunder, set the sea in agitation, bedew the ground with thy sweet rain, Parjanya! Send plenteous showers on him who seeketh shelter, and let the owner of lean kine go homeward.

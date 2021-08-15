@@ -2,5 +2,4 @@
 title = "५९ ये नः"
 
 +++
-ये नः॑ पि॒तुः पि॒तरो॒ ये पि॑ताम॒हा य आ॑विवि॒शुरु॒र्व॑१न्तरि॑क्षम्।  
-तेभ्यः॑ स्व॒राडसु॑नीतिर्नो अ॒द्य व॑थाव॒शं त॒न्वः कल्पयाति ॥५९॥  
+Our Father's Fathers and their sires before them, they who have entered into air's wide region, For them shall self-resplendent Asuniti form bodies now accord- ing to her pleasure.

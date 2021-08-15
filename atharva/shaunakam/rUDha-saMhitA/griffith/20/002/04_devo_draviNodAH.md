@@ -2,4 +2,4 @@
 title = "०४ देवो द्रविणोदाः"
 
 +++
-दे॒वो द्र॑विणो॒दाः पो॒त्रात् सु॒ष्टुभः॑ स्व॒र्कादृ॒तुना॒ सोमं॑ पिबतु ॥४॥
+Let the God, Granter of Wealth, from the Potar's cup drink Trishtups, according to the season Soma from heaven.

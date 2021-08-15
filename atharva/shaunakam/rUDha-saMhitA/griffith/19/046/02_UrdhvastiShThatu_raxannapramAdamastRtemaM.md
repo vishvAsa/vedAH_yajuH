@@ -2,5 +2,4 @@
 title = "०२ ऊर्ध्वस्तिष्ठतु रक्षन्नप्रमादमस्तृतेमं"
 
 +++
-ऊ॒र्ध्वस्ति॑ष्ठतु॒ रक्ष॒न्नप्र॑माद॒मस्तृ॑ते॒मं मा त्वा॑ दभन् प॒णयो॑ यातु॒धानाः॑ ।  
-इन्द्र॑ इव॒ दस्यू॒नव॑ धूनुष्व पृतन्य॒तः सर्वां॒छत्रू॒न् वि ष॑ह॒स्वास्तृ॑तस्त्वा॒भि र॑क्षतु ॥२॥  
+Erect, invincible, be this man's watchful keeper: let not the Panis or the sorcerers harm thee. Shake off thy foes as Indra scattered Dasyus: quell all enemies. Invincible, let it guard thee well.

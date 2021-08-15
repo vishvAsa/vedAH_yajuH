@@ -2,5 +2,4 @@
 title = "०८ सीते वन्दामहे"
 
 +++
-सीते॒ वन्दा॑महे त्वा॒र्वाची॑ सुभगे भव ।  
-यथा॑ नः सु॒मना॒ असो॒ यथा॑ नः सुफ॒ला भुवः॑ ॥८॥  
+Auspicious Sita, come thou near: we venerate and worship thee. That thou mayst bless and prosper us and bring us fruits abundantly.

@@ -2,4 +2,4 @@
 title = "७२ अग्निरेनं क्रव्यात्"
 
 +++
-अ॒ग्निरे॑नं क्र॒व्यात् पृ॑थि॒व्या नु॑दता॒मुदो॑षतु वा॒युर॒न्तरि॑क्षान्मह॒तो व॑रि॒म्णः ॥७२॥  
+From earth let the Carnivorous Agni drive him, let Vayu burn. him from mid-air's broad region.

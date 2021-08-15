@@ -2,5 +2,4 @@
 title = "३३ आर्षेयेषु नि"
 
 +++
-आ॒र्षे॒येषु॒ नि द॑ध ओदन त्वा॒ नाना॑र्षेयाणा॒मप्य॒स्त्यत्र॑ ।  
-अ॒ग्निर्मे॑ गो॒प्ता म॒रुत॑श्च॒ सर्वे॒ विश्वे॑ दे॒वा अ॒भि र॑क्षन्तु प॒क्वम्॥३३॥॥  
+I set thee, Odana, with Rishis' children: naught here belongs to men not sprung from Rishis. Let Agni my protector, all the Maruts, the Visve Devas guard the cooked oblation.

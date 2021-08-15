@@ -2,5 +2,4 @@
 title = "०५ यदा प्राणो"
 
 +++
-य॒दा प्रा॒णो अ॒भ्यव॑र्षीद् व॒र्षेण॑ पृथि॒वीं म॒हीम्।  
-प॒शव॒स्तत् प्र मो॑दन्ते॒ महो॒ वै नो॑ भविष्यति ॥५॥  
+When Prana hath poured down his flood of rain upon the mighty land. Cattle and beasts rejoice thereat: Now great will he our strength, they cry.

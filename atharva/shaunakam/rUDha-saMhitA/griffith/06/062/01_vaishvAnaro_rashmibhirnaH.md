@@ -2,5 +2,4 @@
 title = "०१ वैश्वानरो रश्मिभिर्नः"
 
 +++
-वै॒श्वा॒न॒रो र॒श्मिभि॑र्नः पुनातु॒ वातः॑ प्रा॒णेने॑षि॒रो नभो॑भिः ।  
-द्यावा॑पृथि॒वी पय॑सा॒ पय॑स्वती ऋ॒ताव॑री य॒ज्ञिये॑ न पुनीताम्॥१॥  
+Cleanse us Vaisvanara with rays of splendour! With breath and clouds let quickening Vayu cleanse us. And, rich in milky rain, let Earth and Heaven, worshipful, holy, cleanse us with their water.

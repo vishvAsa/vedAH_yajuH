@@ -2,5 +2,4 @@
 title = "३८ तां पूषंछिवतमामेरयस्व"
 
 +++
-तां पूषं॑छि॒वत॑मा॒मेर॑यस्व॒ यस्यां॒ बीजं॑ मनु॒ष्या॒३वप॑न्ति ।  
-या न॑ ऊ॒रू उ॑श॒ती वि॒श्रया॑ति॒ यस्या॑मु॒शन्तः॑ प्र॒हरे॑म॒ शेपः॑ ॥३८॥  
+Send her most rich in every charm, O Pushan, her who shall be the sharer of my pleasures; Her who shall twine her eager arms about me, and welcome all my love and soft embraces.

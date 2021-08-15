@@ -2,5 +2,4 @@
 title = "०५ परि विश्वा"
 
 +++
-परि॒ विश्वा॒ भुव॑नान्यायमृ॒तस्य॒ तन्तुं॒ वित॑तं दृ॒शे कम्।  
-यत्र॑ दे॒वा अ॒मृत॑मानशा॒नाः स॑मा॒ने योना॒वध्यैर॑यन्त ॥५॥
+I round the circumjacent worlds have travelled to see the far- extended thread of Order. Wherein the Gods, obtaining life eternal, have risen upward to one common birthplace.

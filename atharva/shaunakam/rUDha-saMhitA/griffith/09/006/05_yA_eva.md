@@ -2,4 +2,4 @@
 title = "०५ या एव"
 
 +++
-या ए॒व य॒ज्ञ आपः॑ प्रणी॒यन्ते॒ ता ए॒व ताः ॥५॥  
+The water that is solemnly brought at a sacrifice is this same water.

@@ -2,5 +2,4 @@
 title = "०३ नहि स्थूर्यृतुथा"
 
 +++
-न॒हि स्थूर्यृ॑तु॒था या॒तमस्ति॒ नोत श्रवो॑ विविदे संग॒मेषु॑ ।  
-ग॒व्यन्त॒ इन्द्रं॑ स॒ख्याय॒ विप्रा॑ अश्वा॒यन्तो॒ वृष॑णं वा॒जय॑न्तः ॥३॥  
+Men come not with one horse at sacred seasons; thus they obtain no honour in assemblies. Sages desiring herds of kine and horses strengthen the mighty Indra for his friendship.

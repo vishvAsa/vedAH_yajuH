@@ -2,5 +2,4 @@
 title = "०४ यामृषयो भूतकृतो"
 
 +++
-यामृष॑यो भूत॒कृतो॑ मे॒धां मे॑धा॒विनो॑ वि॒दुः ।  
-तया॒ माम॒द्य मे॒धयाग्ने॑ मेधा॒विनं॑ कृणु ॥४॥  
+Do thou, O Agni, make me wise this day with that Intelligence. Which the creative ishis, which the men endowed with wisdom knew.

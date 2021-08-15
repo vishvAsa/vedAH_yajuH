@@ -2,6 +2,4 @@
 title = "०४ इमामग्ने शरणिं"
 
 +++
-इ॒माम॑ग्ने श॒रणिं॑ मीमृषो नो॒ यमध्वा॑न॒मगा॑म दू॒रम्।  
-शु॒नं नो॑ अस्तु प्रप॒णो वि॑क्र॒यश्च॑ प्रतिप॒णः फ॒लिनं॑ मा कृणोतु ।  
-इ॒दं ह॒व्यं सं॑विदा॒नौ जु॑षेथां शु॒नं नो॑ अस्तु चरि॒तमुत्थि॑तं च ॥४॥  
+Pardon this stubbornness of ours. O Agni, the distant pathway which our feet have trodden. Propitious unto us be sale and barter, may interchange of mer- chandise enrich me. Accept, ye twain, accordant, this libation! Prosperous be our ventures and incomings.

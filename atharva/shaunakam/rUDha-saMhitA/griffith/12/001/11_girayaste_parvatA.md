@@ -2,6 +2,4 @@
 title = "११ गिरयस्ते पर्वता"
 
 +++
-गि॒रय॑स्ते॒ पर्व॑ता हि॒मव॒न्तोऽर॑ण्यं ते पृथिवि स्यो॒नम॑स्तु ।  
-ब॒भ्रुं कृ॒ष्णां रोहि॑णीं वि॒श्वरू॑पां ध्रु॒वां भूमिं॑ पृथि॒वीमिन्द्र॑गुप्ताम्।  
-अजी॒तोऽह॑तो॒ अक्ष॒तोऽध्य॑ष्ठां पृथि॒वीम॒हम्॥११॥  
+O Prithivi, auspicious be thy woodlands, auspicious be thy hills and snow-clad mountains. Unslain, unwounded, unsubdued, I have set foot upon the Earth, On earth brown, black, ruddy and every-coloured, on the firm earth that Indra guards from danger.

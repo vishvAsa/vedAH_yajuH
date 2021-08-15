@@ -2,4 +2,4 @@
 title = "७० अस्थीन्यस्य पीडय"
 
 +++
-अस्थी॑न्यस्य पीडय म॒ज्जान॑मस्य॒ निर्ज॑हि ॥७०॥  
+Crush thou his bones together, strike and beat the marrow out of him.

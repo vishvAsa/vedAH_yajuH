@@ -2,5 +2,4 @@
 title = "२४ यस्ते गन्धः"
 
 +++
-यस्ते॑ ग॒न्धः पुष्क॑रमावि॒वेश॒ यं सं॑ज॒भ्रुः सू॒र्याया॑ विवा॒हे।  
-अम॑र्त्याः पृथिवि ग॒न्धमग्रे॒ तेन॑ मा सुर॒भिं कृ॑णु॒ मा नो॑ द्विक्षत॒ कश्च॒न॥२४॥  
+Thy scent which entered and possessed the lotus, the scent which they prepared at Surya's bridal, Scent which Immortals Earth! of old collected, therewith make thou me sweet: let no man hate me.

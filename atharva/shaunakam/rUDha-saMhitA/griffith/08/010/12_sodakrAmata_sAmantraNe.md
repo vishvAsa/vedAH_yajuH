@@ -2,4 +2,4 @@
 title = "१२ सोदक्रामत सामन्त्रणे"
 
 +++
-सोद॑क्राम॒त सामन्त्र॑णे॒ न्यऽक्रामत्॥१२॥(६)  
+Her calf, her well-beloved calf, was Indra: Gayatri was her rope, the cloud her udder.

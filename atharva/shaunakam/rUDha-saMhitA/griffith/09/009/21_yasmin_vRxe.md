@@ -2,5 +2,4 @@
 title = "२१ यस्मिन् वृक्षे"
 
 +++
-यस्मि॑न् वृ॒क्षे म॒ध्वदः॑ सुप॒र्णा नि॑वि॒शन्ते॒ सुव॑ते॒ चाधि॒ विश्वे॑ ।  
-तस्य॒ यदा॒हुः पिप्प॑लं स्वा॒द्वग्रे॒ तन्नोन्न॑श॒द् यः पि॒तरं॒ न वेद॑ ॥२१॥  
+The tree whereon the fine Birds eat the sweetness, where they all rest and procreate their offspring Upon the top, they say the fruit is luscious: none gaineth it who knoweth not the Father.

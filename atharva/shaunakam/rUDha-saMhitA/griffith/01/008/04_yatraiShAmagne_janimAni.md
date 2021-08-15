@@ -2,5 +2,4 @@
 title = "०४ यत्रैषामग्ने जनिमानि"
 
 +++
-यत्रै॑षामग्ने॒ जनि॑मानि॒ वेत्थ॒ गुहा॑ स॒ताम॒त्त्रिणां॑ जातवेदः ।  
-तांस्त्वं ब्रह्म॑णा वावृधा॒नो ज॒ह्येऽषां शत॒तर्ह॑मग्ने ॥४॥
+As thou, O Agni Jatavedas, knowest the races of these secret greedy beings, So strengthened by the power of prayer, O Agni, crushing them down a hundred times destroy them.

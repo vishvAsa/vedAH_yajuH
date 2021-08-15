@@ -2,5 +2,4 @@
 title = "०१ सं बर्हिरक्तं"
 
 +++
-सं ब॒र्हिर॒क्तं ह॒विषा॑ घृ॒तेन॒ समिन्द्रे॑ण॒ वसु॑ना॒ सं म॒रुद्भिः॑ ।  
-सं दे॒वैर्वि॒श्वदे॑वेभिर॒क्तमिन्द्रं॑ गच्छतु ह॒विः स्वाहा॑ ॥१॥
+Balmed is the Grass with butter and libation, with Indra. gracious Lord, and with the Maruts. Hail! let the sacrifice go forth anointed to Indra with the Gods and Visve Devas.

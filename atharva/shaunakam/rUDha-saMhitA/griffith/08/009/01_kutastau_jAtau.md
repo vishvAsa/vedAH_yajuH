@@ -2,5 +2,4 @@
 title = "०१ कुतस्तौ जातौ"
 
 +++
-कुत॒स्तौ जा॒तौ क॑त॒मः सो अर्धः॒ कस्मा॑ल्लो॒कात् क॑त॒मस्याः॑ पृथि॒व्याः ।  
-व॒त्सौ वि॒राजः॑ सलि॒लादुदै॑तां॒ तौ त्वा॑ पृछामि कत॒रेण॑ दु॒ग्धा॥१॥  
+Whence were these two produced? which was that region?' From what world, from which earth had they their being? Calves of Viraj, these two arose from water. I ask thee of these twain, who was their milker.

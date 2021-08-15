@@ -2,5 +2,4 @@
 title = "०१ इन्द्रावरुणा सुतपाविमं"
 
 +++
-इन्द्रा॑वरुणा सुतपावि॒मं सु॒तं सोमं॑ पिबतं॒ मद्यं॑ धृतव्रतौ ।  
-यु॒वो रथो॑ अध्व॒रो दे॒ववी॑तये॒ प्रति॒ स्वस॑र॒मुप॑ यातु पी॒तये॑ ॥१॥  
+True to laws, Indra Varuna, drinkers of the juice, quaff this pressed Soma which shall give you rapturous joy! Let sacrifice, your car, to entertain the Gods, approach its rest- ing-place that they may drink thereof.

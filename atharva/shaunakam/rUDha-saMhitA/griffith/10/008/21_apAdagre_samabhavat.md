@@ -2,5 +2,4 @@
 title = "२१ अपादग्रे समभवत्"
 
 +++
-अ॒पादग्रे॒ सम॑भव॒त् सो अग्रे॒ स्व॑१राभ॑रत्।  
-चतु॑ष्पाद् भू॒त्वा भोग्यः॒ सर्व॒माद॑त्त॒ भोज॑नम्॥२१॥  
+Footless at first was he produced, footless he brought celestial light. Four-footed grown, and meet for use, he seized each thing enjoyable.

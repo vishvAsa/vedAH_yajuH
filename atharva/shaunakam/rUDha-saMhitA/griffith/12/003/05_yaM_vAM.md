@@ -2,5 +2,4 @@
 title = "०५ यं वां"
 
 +++
-यं वां॑ पि॒ता पच॑ति॒ यं च॑ मा॒ता रि॒प्रान्निर्मु॑क्त्यै॒ शम॑लाच्च वा॒चः ।  
-स ओ॑द॒नः श॒तधा॑रः स्व॒र्ग उ॒भे व्याऽप नभ॑सी महि॒त्वा॥५॥  
+That which your mother and your sire, to banish sin and un- cleanness from their lips, are cooking. That Odana with hundred streams, sky-reaching, hath in its might prevaded earth and heaven.

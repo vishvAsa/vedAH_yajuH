@@ -2,5 +2,4 @@
 title = "०९ जहि दर्भ"
 
 +++
-ज॒हि द॑र्भ स॒पत्ना॑न् मे ज॒हि मे॑ पृतनाय॒तः ।  
-ज॒हि मे॒ सर्वा॑न् दु॒र्हार्दो॑ ज॒हि मे॑ द्विष॒तो म॑णे ॥९॥
+Slay thou my rivals. Darbha, slay the men who fain would fight with me. Slay all who wish me evil, slay the men who hate me, Amulet.

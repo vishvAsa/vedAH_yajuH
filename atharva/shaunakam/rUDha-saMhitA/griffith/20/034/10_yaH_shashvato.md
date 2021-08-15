@@ -2,5 +2,4 @@
 title = "१० यः शश्वतो"
 
 +++
-यः शश्व॑तो॒ मह्येनो॒ दधा॑ना॒नम॑न्यमानां॒छर्वा॑ ज॒घान॑ ।  
-यः शर्ध॑ते॒ नानु॒ददा॑ति शृ॒ध्यां यो दस्यो॑र्ह॒न्ता स ज॑नास॒ इन्द्रः॑ ॥१०॥  
+He who hath smitten, ere they know their danger, with his hurl- ed weapon many grievous sinners: Who pardons not his boldness who provokes him, who slays the Dasyu, He, O men, is Indra.

@@ -2,5 +2,4 @@
 title = "५९ उद्यच्छध्वमप रक्षो"
 
 +++
-उद्य॑च्छध्व॒मप॒ रक्षो॑ हनाथे॒मं नारीं॑ सुकृ॒ते द॑धात ।  
-धा॒ता वि॑प॒श्चित् पति॑म॒स्यै वि॑वेद॒ भगो॒ राजा॑ पु॒र ए॑तु प्रजा॒नन्॥५९॥  
+Lift up your weapons. Drive away the demons. Transport this woman to the world of virtue. Dilator, most wise, hath found for her a husband. Let him who knows, King Bhaga, go before her.

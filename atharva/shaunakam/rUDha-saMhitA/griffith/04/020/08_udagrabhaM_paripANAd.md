@@ -2,5 +2,4 @@
 title = "०८ उदग्रभं परिपाणाद्"
 
 +++
-उद॑ग्रभं परि॒पाणा॑द् यातु॒धानं॑ किमी॒दिन॑म्।  
-तेना॒हं सर्वं॑ पश्याम्यु॒त शू॒द्रमु॒तार्य॑म्॥८॥  
+Kimidin, Yatudhana from their hiding-places have I dragged. I look on every one with this, Sudra and Aryan man alike.

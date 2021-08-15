@@ -2,5 +2,4 @@
 title = "०१ त्वष्टा मे"
 
 +++
-त्वष्टा॑ मे॒ दैव्यं॒ वचः॑ प॒र्जन्यो॒ ब्रह्म॑ण॒स्पतिः॑ ।  
-पु॒त्रैर्भ्रातृ॑भि॒रदि॑ति॒र्नु पा॑तु नो दु॒ष्टरं॒ त्राय॑माणं॒ सहः॑ ॥१॥  
+May Tvashtar, Brahmanaspati, Parjanya hear my holy prayer. May Aditi with all her sons, the brothers, guard us, invincible, protecting power.

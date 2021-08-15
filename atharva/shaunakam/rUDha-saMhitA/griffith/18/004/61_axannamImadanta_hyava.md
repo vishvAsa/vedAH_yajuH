@@ -2,5 +2,4 @@
 title = "६१ अक्षन्नमीमदन्त ह्यव"
 
 +++
-अक्ष॒न्नमी॑मदन्त॒ ह्यव॑ प्रि॒यां अ॑धूषत ।  
-अस्तो॑षत॒ स्वभा॑नवो॒ विप्रा॒ यवि॑ष्ठा ईमहे ॥६१॥  
+Well have they eaten and rejoiced: their dear ones have they shaken off. Sages, self-luminous, have praised: we who are youngest supplicate.

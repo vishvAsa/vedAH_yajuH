@@ -2,5 +2,4 @@
 title = "०९ यः कृणोति"
 
 +++
-यः कृ॒णोति॑ मृ॒तव॑त्सा॒मव॑तोकामि॒मां स्त्रिय॑म्।  
-तमो॑षधे॒ त्वं ना॑शया॒स्याः क॒मल॑मञ्जि॒वम्॥९॥  
+Whoever causeth her to lose her child or bear untimely fruit,-- Destroy him, O thou Plant, destroy the slippery fiend who lusts for her.

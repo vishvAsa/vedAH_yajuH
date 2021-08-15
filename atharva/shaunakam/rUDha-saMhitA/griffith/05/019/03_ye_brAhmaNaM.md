@@ -2,5 +2,4 @@
 title = "०३ ये ब्राह्मणं"
 
 +++
-ये ब्रा॑ह्म॒णं प्र॒त्यष्ठी॑व॒न् ये वा॑स्मिञ्छु॒ल्कमी॑षि॒रे।  
-अ॒स्नस्ते मध्ये॑ कु॒ल्यायाः॒ केशा॒न् खाद॑न्त आसते ॥३॥  
+If men have spat upon, or shot their rheum upon a Brahman, they. Sit in the middle of a stream running with blood, devouring hair.

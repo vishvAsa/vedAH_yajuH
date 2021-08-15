@@ -2,5 +2,4 @@
 title = "०९ वरणेन प्रव्यथिता"
 
 +++
-व॒र॒णेन॒ प्रव्य॑थिता॒ भ्रातृ॑व्या मे॒ सब॑न्धवः ।  
-अ॒सूर्तं॒ रजो॒ अप्य॑गु॒स्ते य॑न्त्वध॒मं तमः॑ ॥९॥  
+Affrighted by the Varana let my rivals near akin to me Pass to the region void of light: to deepest darkness let them go.

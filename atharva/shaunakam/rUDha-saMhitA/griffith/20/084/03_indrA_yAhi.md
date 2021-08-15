@@ -2,4 +2,4 @@
 title = "०३ इन्द्रा याहि"
 
 +++
-इन्द्रा या॑हि॒ तूतु॑जान॒ उप॒ ब्रह्मा॑णि हरिवः । सु॒ते द॑धिष्व न॒श्चनः॑ ॥३॥
+Approach, O Indra, hasting thee, Lord of Bay Horses, to the prayers: Take pleasure in the juice we pour.

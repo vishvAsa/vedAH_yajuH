@@ -2,5 +2,4 @@
 title = "०४ तीक्ष्णीयांसः परशोरग्नेस्तीक्ष्णतरा"
 
 +++
-तीक्ष्णी॑यांसः पर॒शोर॒ग्नेस्तीक्ष्ण॑तरा उत॑।  
-इन्द्र॑स्य॒ वज्रा॒त् तीक्ष्णी॑यांसो॒ येषा॒मस्मि॑ पु॒रोहि॑तः ॥४॥  
+Keener than is the axe's edge, keener than Agni's self are they, Keener than Indra's bolt are they whose Priest and President am I.

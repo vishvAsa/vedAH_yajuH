@@ -2,5 +2,4 @@
 title = "०३ व्याघ्रेऽह्न्यजनिष्ट वीरो"
 
 +++
-व्या॒घ्रेऽह्न्य॑जनिष्ट वी॒रो न॑क्षत्र॒जा जाय॑मानः सु॒वीरः॑ ।  
-स मा व॑धीत् पि॒तरं॒ वर्ध॑मानो॒ मा मा॒तरं॒ प्र मि॑नी॒ज्जनि॑त्रीम्॥३॥
+Born on the Tiger's day was he, a hero, the Constellations' child, born brave and manly. Let him not wound, when grown in strength, his father, nor disregard his mother, her who bare him.

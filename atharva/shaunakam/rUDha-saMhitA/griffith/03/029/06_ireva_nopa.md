@@ -2,5 +2,4 @@
 title = "०६ इरेव नोप"
 
 +++
-इ॑रेव नो॑प दस्यति समुद्र॑इव प॑यो मह॑त्।  
-देवउ॑सवासि॑नाविव शितिपा॑न्नो॑प दस्यति ॥६॥  
+Like a refreshing draught, like sea, the mighty flood, he faileth not. Like the two Gods whose home is one, the ram white-footed, faileth not.

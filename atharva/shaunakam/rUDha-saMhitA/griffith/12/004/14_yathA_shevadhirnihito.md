@@ -2,5 +2,4 @@
 title = "१४ यथा शेवधिर्निहितो"
 
 +++
-यथा॑ शेव॒धिर्निहि॑तो ब्राह्म॒णानां॒ तथा॑ व॒शा।  
-तामे॒तद॒च्छाय॑न्ति यस्मि॒न् कस्मिंश्च॒ जाय॑ते ॥१४॥  
+Like a rich treasure stored away in safety is the Brahmans' Cow. Therefore men come to visit her, with whomsoever she is born.

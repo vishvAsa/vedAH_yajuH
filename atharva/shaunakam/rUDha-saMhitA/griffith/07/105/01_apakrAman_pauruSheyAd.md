@@ -2,5 +2,4 @@
 title = "०१ अपक्रामन् पौरुषेयाद्"
 
 +++
-अ॒प॒क्राम॒न् पौरु॑षेयाद् वृणा॒नो दैव्यं॒ वचः॑ ।  
-प्रणी॑तीर॒भ्याव॑र्तस्व॒ विश्वे॑भिः॒ सखि॑भिः स॒ह॥१॥
+Leaving humanity behind, making the heavenly word thy choice, With all thy friends address thyself to furthering and guiding men.

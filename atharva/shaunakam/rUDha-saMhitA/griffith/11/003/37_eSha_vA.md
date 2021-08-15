@@ -2,4 +2,4 @@
 title = "३७ एष वा"
 
 +++
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः ॥६॥  
+And thence, etc. . . With other teeth . . . Thy teeth will fall out . . . With the Seasons as teeth. 

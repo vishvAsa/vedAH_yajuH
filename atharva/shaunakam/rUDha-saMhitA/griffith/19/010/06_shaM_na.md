@@ -2,5 +2,4 @@
 title = "०६ शं न"
 
 +++
-शं न॒ इन्द्रो॒ वसु॑भिर्दे॒वो अ॑स्तु॒ शमा॑दि॒त्येभि॒र्वरु॑णः सु॒शंसः॑ ।  
-शं नो॑ रु॒द्रो रु॒द्रेभि॒र्जला॑षः॒ शं न॒स्त्वष्टा॒ ग्नाभि॑रि॒ह शृ॑णोतु ॥६॥  
+Be the God Indra with the Vasus friendly, and with Adityas Varuna who blesseth. Kind with the Rudras be the healer Rudra, and with the Dames here Tvashtar kindly hear us.

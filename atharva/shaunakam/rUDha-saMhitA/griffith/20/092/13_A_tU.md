@@ -2,5 +2,4 @@
 title = "१३ आ तू"
 
 +++
-आ तू सु॑शिप्र दंपते॒ रथं॑ तिष्ठा हिर॒ण्यय॑म्।  
-अध॑ द्यु॒क्षं स॑चेवहि स॒हस्र॑पादमरु॒षं स्व॑स्ति॒गाम॑ने॒हस॑म्॥१३॥  
+Lord of the Home, with beauteous cheeks, ascend thy chariot wrought of gold. We will attend the heavenly One; the thousand-footed, red of hue, matchless, who blesses where he goes.

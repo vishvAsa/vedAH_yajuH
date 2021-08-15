@@ -2,5 +2,4 @@
 title = "१६ कण्वेभिर्धृष्णवा धृषद्"
 
 +++
-कण्वे॑भिर्धृष्ण॒वा धृ॒षद् वाजं॑ दर्षि सह॒स्रिण॑म्।  
-पि॒शङ्ग॑रूपं मघवन् विचर्षणे म॒क्षू गोम॑न्तमीमहे ॥१६॥
+Boldly, bold Hero, bring us spoil in thousands for the Kanvas' sake. O active Maghavan, with eager prayer we crave the yellow-hued with store of kine.

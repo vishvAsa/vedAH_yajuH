@@ -2,4 +2,4 @@
 title = "०२ स नः"
 
 +++
-स नः॒ पप्रिः॑ पारयाति स्व॒स्ति ना॒वा पु॑रुहू॒तः । इन्द्रो॒ विश्वा॒ अति॒ द्विषः॑ ॥२॥  
+May he, the saviour much-invoked, may Indra bear us in a ship Safely beyond all enemies.

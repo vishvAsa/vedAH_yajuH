@@ -2,5 +2,4 @@
 title = "०१ मह्यमापो मधुमदेरयन्तां"
 
 +++
-मह्य॒मापो॒ मधु॑म॒देर॑यन्तां॒ मह्यं॒ सूरो॑ अभर॒ज्ज्योति॑षे॒ कम्।  
-मह्यं॑ दे॒वा उ॒त विश्वे॑ तपो॒जा मह्यं॑ दे॒वः स॑वि॒ता व्यचो॑ धात्॥१॥  
+The Waters send me what is sweet and pleasant, Sura bring all I need for light and vision! The deities, and all of pious nature, and Savitar the God afford me freedom!

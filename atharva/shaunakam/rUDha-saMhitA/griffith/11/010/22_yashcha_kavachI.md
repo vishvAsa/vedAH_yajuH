@@ -2,5 +2,4 @@
 title = "२२ यश्च कवची"
 
 +++
-यश्च॑ कव॒ची यश्चा॑कव॒चो॒३मित्रो॒ यश्चाज्म॑नि ।  
-ज्या॒पा॒शैः क॑वचपा॒शैरज्म॑ना॒भिह॑तः शयाम्॥२२॥  
+Low lie the warrior, mailed, unmailed, each foeman in the rush of war. Down-smitten with the strings of bows, the fastenings of mail, the charge!

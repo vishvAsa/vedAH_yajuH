@@ -2,6 +2,4 @@
 title = "०२ प्रो ष्वस्मै"
 
 +++
-प्रो ष्व॑स्मै पुरोर॒थमिन्द्रा॑य शू॒षम॑र्चत ।  
-अ॒भीके॑ चिदु लोक॒कृत् सं॒गे स॒मत्सु॑ वृत्र॒हास्माकं॑ बोधि चोदि॒ता  
-नभ॑न्तामन्य॒केषां॑ ज्या॒का अधि॒ धन्व॑सु ॥२॥  
+Sing strength to Indra that shall set his chariot in the foremost place. Giver of room in closest fight, slayer of foes in shock of war, be thou our great encourager. Let the weak bowstrings break upon the bows of feeble enemies.

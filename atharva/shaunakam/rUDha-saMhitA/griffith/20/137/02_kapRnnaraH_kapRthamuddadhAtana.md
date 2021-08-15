@@ -2,5 +2,4 @@
 title = "०२ कपृन्नरः कपृथमुद्दधातन"
 
 +++
-कपृ॑न्नरः कपृ॒थमुद्द॑धातन चो॒दय॑त खु॒दत॒ वाज॑सातये ।  
-नि॒ष्टि॒ग्र्यः पु॒त्रमा च्या॑वयो॒तय॒ इन्द्रं॑ स॒बाध॑ इ॒ह सोम॑पीतये ॥२॥  
+Indra is he, O men, who gives us happiness: sport, urge the giver of delight to win the spoil. Bring quickly down, O priests, hither to give us aid, to drink the Soma, Indra son of Nishtigri.

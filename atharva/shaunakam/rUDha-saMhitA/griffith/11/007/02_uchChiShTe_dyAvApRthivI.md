@@ -2,5 +2,4 @@
 title = "०२ उच्छिष्टे द्यावापृथिवी"
 
 +++
-उच्छि॑ष्टे॒ द्यावा॑पृथि॒वी विश्वं॑ भू॒तं स॒माहि॑तम्।  
-आपः॑ समु॒द्र उच्छि॑ष्टे च॒न्द्रमा॒ वात॒ आहि॑तः ॥  
+The Residue of Sacrifice holdeth Earth, Heaven, and all that is: The Residue of Sacrifice holdeth sea, waters, Moon, and Wind.

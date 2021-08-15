@@ -2,5 +2,4 @@
 title = "०२ सप्त च"
 
 +++
-स॒प्त च॒ याः स॑प्त॒तिश्च॑ सं॒यन्ति॒ ग्रैव्या॑ अ॒भि।  
-इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥२॥  
+Those seventy-and-seven which meet round the upper vertebrae, Let them all vanish hence away like plaguing insects' buzz and hum!

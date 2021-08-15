@@ -2,5 +2,4 @@
 title = "०६ मया गावो"
 
 +++
-मया॑ गावो॒ गोप॑तिना सचध्वम॒यं वो॑ गो॒ष्ठ इ॒ह पो॑षयि॒ष्णुः ।  
-रा॒यस्पोषे॑ण बहु॒ला भव॑न्तीर्जी॒वा जीव॑न्ती॒रुप॑ वः सदेम ॥६॥
+Follow me, Cows, as master of the cattle. Here may this Cow- pen make you grow and prosper, Still while we live may we approach you living, ever increasing with the growth of riches.

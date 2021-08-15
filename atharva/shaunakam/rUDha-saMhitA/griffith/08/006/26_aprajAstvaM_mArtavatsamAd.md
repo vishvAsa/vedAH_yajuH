@@ -2,5 +2,4 @@
 title = "२६ अप्रजास्त्वं मार्तवत्समाद्"
 
 +++
-अ॒प्र॒जा॒स्त्वं मार्त॑वत्स॒माद् रोद॑म॒घमा॑व॒यम्।  
-वृ॒क्षादि॑व॒ स्रजं॑ कृ॒त्वाप्रि॑ये॒ प्रति॑ मुञ्च॒ तत्॥२६॥
+Sterility, and infants' death, and weeping that announceth woe, Dear! lay them on the fiend as thou wouldst pluck a garland from a tree.

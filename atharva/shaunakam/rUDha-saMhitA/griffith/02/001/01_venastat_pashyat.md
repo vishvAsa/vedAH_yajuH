@@ -2,5 +2,4 @@
 title = "०१ वेनस्तत् पश्यत्"
 
 +++
-वे॒नस्तत् प॑श्यत् पर॒मं गुहा॒ यद् यत्र॒ विश्वं॒ भव॒त्येक॑रूपम्।  
-इ॒दं पृश्नि॑रदुह॒ज्जाय॑मानाः स्व॒र्विदो॑ अ॒भ्यऽनूषत॒ व्राः ॥१॥  
+Vena beholds That Highest which lies hidden, wherein this All resumes one form and fashion. Thence Prisni milked all life that had existence: the hosts that know the light with songs extolled her.

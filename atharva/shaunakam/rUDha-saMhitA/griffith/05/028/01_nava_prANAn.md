@@ -2,5 +2,4 @@
 title = "०१ नव प्राणान्"
 
 +++
-नव॑ प्रा॒णान् न॒वभिः॒ सं मि॑मीते दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ।  
-हरि॑ते॒ त्रीणि॑ रज॒ते त्रीण्यय॑सि॒ त्रीणि॒ तप॒सावि॑ष्ठितानि ॥१॥  
+For lengthened life, to last through hundred autumns, they equalize with nine the nine aspirations. Three in gold, three in silver, three in iron by heat are stablished in their several places.

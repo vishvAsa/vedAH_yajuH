@@ -2,5 +2,4 @@
 title = "०३ वर्ये वन्दे"
 
 +++
-वर्ये॒ वन्दे॒ सुभ॑गे॒ सुजा॑त॒ आज॑ग॒न् रात्रि॑ सु॒मना॑ इ॒ह स्या॑म्।  
-अ॒स्मांस्त्रा॑यस्व॒ नर्या॑णि जा॒ता अथो॒ यानि॒ गव्या॑नि पु॒ष्ठ्या॥३॥  
+Excellent, high-born, blissful, meet for worship, Night, thou hast come: stay here with friendly spirit. Guard us, the food for men that we have gotten, and all pro- sperity that comes of cattle.

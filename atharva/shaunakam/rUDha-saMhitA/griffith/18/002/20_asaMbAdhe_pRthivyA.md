@@ -2,5 +2,4 @@
 title = "२० असंबाधे पृथिव्या"
 
 +++
-अ॒सं॒बा॒धे पृ॑थि॒व्या उ॒रौ लो॒के नि धी॑यस्व ।  
-स्व॒धा याश्च॑कृ॒षे जीव॒न् तास्ते॑ सन्तु मधु॒श्चुतः॑ ॥२०॥  
+In the free amplitude of earth take roomy space to lodge thee in. Let all oblations which in life thou paidest drop thee honey now.

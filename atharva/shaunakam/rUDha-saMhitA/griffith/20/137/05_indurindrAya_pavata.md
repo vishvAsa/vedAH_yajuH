@@ -2,5 +2,4 @@
 title = "०५ इन्दुरिन्द्राय पवत"
 
 +++
-इन्दु॒रिन्द्रा॑य पवत॒ इति॑ दे॒वासो॑ अब्रुवन्।  
-वा॒चस्पति॑र्मखस्यते॒ विश्व॒स्येशा॑न॒ ओज॑सा ॥५॥  
+Indu flows on for Indra's sake--thus have the deities declared. The Lord of Speech exerts himself, ruler of all, because of might.

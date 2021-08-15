@@ -2,6 +2,4 @@
 title = "१२ अदब्धो दिवि"
 
 +++
-अद॑ब्धो दि॒वि पृ॑थि॒व्यामु॒तासि॒ न त॑ आपुर्महि॒मान॑म॒न्तरि॑क्षे ।  
-अद॑ब्धेन॒ ब्रह्म॑णा वावृधा॒नः स त्वं न॑ इन्द्र दि॒वि संछर्म॑ यच्छ॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१२॥  
+In heaven and on the earth thou art uninjured, none reach thy greatness in the air's mid region. Increasing by inviolate devotion as such in heaven grant us pro- tection, Indra. Manifold are thy great deeds, thine, O Vishnu.

@@ -2,5 +2,4 @@
 title = "०५ एमं यज्ञमनुमतिर्जगाम"
 
 +++
-एमं य॒ज्ञमनु॑मतिर्जगाम सुक्षे॒त्रता॑यै सुवी॒रता॑यै सुजा॑तम्।  
-भ॒द्रा ह्यऽस्याः॒ प्रम॑तिर्ब॒भूव॒ सेमं य॒ज्ञम॑वतु दे॒वगो॑पा ॥५॥  
+Anumati hath come to this our worship well-formed to give good lands and valiant heroes: For her kind care hath blessed us. God-protected, may she assist the sacrifice we offer.

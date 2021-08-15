@@ -2,5 +2,4 @@
 title = "०३ यथादित्या वसुभिः"
 
 +++
-यथा॑दि॒त्या वसु॑भिः संबभू॒वुर्म॒रुद्भि॑रु॒ग्रा अहृ॑णीयमानाः ।  
-एवा त्रि॑णाम॒न्नहृ॑णीयमान इ॒मान् जना॒न्त्संम॑नसस्कृधी॒ह॥३॥
+As, free from jealousy, the strong Adityas have been the Vasus' and the Rudras' fellows. So free from jealousy, Lord of Three Titles! cause thou these people here to be one-minded.

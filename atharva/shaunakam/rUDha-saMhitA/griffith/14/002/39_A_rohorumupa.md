@@ -2,5 +2,4 @@
 title = "३९ आ रोहोरुमुप"
 
 +++
-आ रो॑हो॒रुमुप॑ धत्स्व॒ हस्तं॒ परि॑ ष्वजस्व जा॒यां सु॑मन॒स्यमा॑नः ।  
-प्र॒जां कृ॑ण्वाथामि॒ह मोद॑मानौ दी॒र्घं वा॒मायुः॑ सवि॒ता कृ॑णोतु ॥३९॥  
+Up, happy bridegroom! with a joyous spirit caress thy wife and throw thine arm around her. Here take your pleasure, procreate your offspring. May Savitar bestow long life upon you.

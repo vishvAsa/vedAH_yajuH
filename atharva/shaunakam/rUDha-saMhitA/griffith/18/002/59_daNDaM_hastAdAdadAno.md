@@ -2,5 +2,4 @@
 title = "५९ दण्डं हस्तादाददानो"
 
 +++
-द॒ण्डं हस्ता॑दा॒ददा॑नो ग॒तासोः॑ स॒ह श्रोत्रे॑ण॒ वर्च॑सा॒ बले॑न ।  
-अत्रै॒व त्वमि॒ह व॒यं सु॒वीरा॒ विश्वा॒ मृधो॑ अ॒भिमा॑तीर्जयेम ॥५९॥  
+From his dead hand I take the staff he carried, together with his lore and strength and splendour. There art thou, there; and here with good men round us may we o'ercome all enemies and foemen.

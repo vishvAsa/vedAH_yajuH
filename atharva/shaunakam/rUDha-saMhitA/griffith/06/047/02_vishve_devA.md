@@ -2,5 +2,4 @@
 title = "०२ विश्वे देवा"
 
 +++
-विश्वे॑ दे॒वा म॒रुत॒ इन्द्रो॑ अ॒स्मान॒स्मिन् द्वि॒तीये॒ सव॑ने॒ न ज॑ह्युः ।  
-आयु॑ष्मन्तः प्रि॒यमे॑षां॒ वद॑न्तो व॒यं दे॒वानां॑ सुम॒तौ स्या॑म ॥२॥  
+At this our second offering may Indra, Maruts, and Visve Devas never fail us. Still may the favour of the Gods be with us, blest with long life and speaking words that please them.

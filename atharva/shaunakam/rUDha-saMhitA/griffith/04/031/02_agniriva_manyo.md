@@ -2,5 +2,4 @@
 title = "०२ अग्निरिव मन्यो"
 
 +++
-अ॒ग्निरि॑व मन्यो त्विषि॒तः स॑हस्व सेना॒नीर्नः॑ सहुरे हू॒त ए॑धि ।  
-ह॒त्वाय॒ शत्रू॒न् वि भ॑जस्व॒ वेद॒ ओजो॒ मिमा॑नो॒ वि मृधो॑ नुदस्व ॥२॥  
+Flashing like fire, be thou, O conquering Manyu, invoked, O victor, as our army's leader. Slay thou our foes, distribute their possession: show forth thy vigour, scatter those who hate us.

@@ -2,4 +2,4 @@
 title = "०२ अग्ने यत्"
 
 +++
-अग्ने॒ यत् ते॒ हर॒स्तेन॒ तं प्रति॑ हर॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥२॥  
+Flame thou, O Agni, with that flame of thine against the man who hates us, whom we hate.

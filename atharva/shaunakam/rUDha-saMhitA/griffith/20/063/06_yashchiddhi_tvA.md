@@ -2,4 +2,4 @@
 title = "०६ यश्चिद्धि त्वा"
 
 +++
-यश्चि॒द्धि त्वा॑ ब॒हुभ्य॒ आ सु॒तावां॑ आ॒विवा॑सति । उ॒ग्रं तत् प॑त्यते॒ शव॒ इन्द्रो॑ अ॒ङ्ग॥६॥  
+He who with Soma juice prepared among the many harbours. thee, Verily Indra gains thereby tremendous might.

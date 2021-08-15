@@ -2,5 +2,4 @@
 title = "०१ यन्तासि यच्छसे"
 
 +++
-य॒न्तासि॒ यच्छ॑से॒ हस्ता॒वप॒ रक्षां॑सि सेधसि ।  
-प्र॒जां धनं॑ च गृह्णा॒नः प॑रिह॒स्तो अ॑भूद॒यम्॥१॥  
+Thou art a grasper, holding fast both hands: drivest fiends away. A holder both of progeny and riches hath this Ring become.

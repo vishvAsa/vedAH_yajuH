@@ -2,5 +2,4 @@
 title = "१४ नव भूमीः"
 
 +++
-नव॒ भूमीः॑ समु॒द्रा उच्छि॒ष्टेऽअधि॑ श्रि॒ता दिवः॑ ।  
-आ सूर्यो॑ भा॒त्युच्छि॑ष्टेऽहोरा॒त्रे अपि॒ तन्मयि॑ ॥१४॥  
+Nine several oceans, earths, and skies are set within, the Residue, Bright shines the Sun therein, in me, the Residue, are Day and Night.

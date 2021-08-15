@@ -2,5 +2,4 @@
 title = "१४ अयमौदुम्बरो मणिर्वीरो"
 
 +++
-अ॒यमौदु॑म्बरो म॒णिर्वी॒रो वी॒राय॑ बध्यते ।  
-स नः॑ स॒निं मधु॑मतीं कृणोतु र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छात्॥१४॥
+For hero is this hero bound, Amulet of Udumbara. So may he make our offering sweetly-savoured, and grant us wealth with all good men about us.

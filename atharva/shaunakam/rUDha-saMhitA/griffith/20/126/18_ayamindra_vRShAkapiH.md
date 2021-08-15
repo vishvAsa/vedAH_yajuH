@@ -2,5 +2,4 @@
 title = "१८ अयमिन्द्र वृषाकपिः"
 
 +++
-अ॒यमि॑न्द्र वृ॒षाक॑पिः॒ पर॑स्वन्तं ह॒तं वि॑दत्।  
-अ॒सिं सू॒नां नवं॑ च॒रुमादेध॒स्यान॒ आचि॑तं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥१८॥  
+O Indra, this Vrishakapi hath found a slain wild animal, Dresser, and new-made pan, and knife, and wagon with a load of wood. Supreme is Indra over all.

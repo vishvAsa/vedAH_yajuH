@@ -2,5 +2,4 @@
 title = "०५ आजामि त्वाजन्या"
 
 +++
-आजा॑मि॒ त्वाज॑न्या॒ परि॑ मा॒तुरथो॑ पि॒तुः ।  
-यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥५॥  
+Away Lfrom mother and from sire I drive thee hither with a whip, That thou mayst be at my command and yield to every wish of mine.

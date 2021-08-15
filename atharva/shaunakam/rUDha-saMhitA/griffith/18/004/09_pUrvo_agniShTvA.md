@@ -2,5 +2,4 @@
 title = "०९ पूर्वो अग्निष्ट्वा"
 
 +++
-पूर्वो॑ अ॒ग्निष्ट्वा॑ तपतु॒ शं पु॒रस्ता॒च्छं प॒श्चात् त॑पतु॒ गार्ह॑पत्यः ।  
-द॒क्षि॒णा॒ग्निष्टे॑ तपतु॒ शर्म॒ वर्मो॑त्तर॒तो म॑ध्य॒तो अ॒न्तरि॑क्षाद् दि॒शोदि॑शो अग्ने॒ परि॑ पाहि घो॒रात्॥९॥  
+Eastward let east fire happily consume thee, and westward happily the Garhapatya. Burn southern fire, thine armour and protection: from air's- mid-region from the north and centre, on all sides, Agni, guard thou him from horror.

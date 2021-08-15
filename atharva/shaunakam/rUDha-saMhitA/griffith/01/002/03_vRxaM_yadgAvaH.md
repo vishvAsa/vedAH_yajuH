@@ -2,5 +2,4 @@
 title = "०३ वृक्षं यद्गावः"
 
 +++
-वृ॒क्षं यद्गावः॑ परिषस्वजा॒ना अ॑नुस्फु॒रं श॒रमर्च॑न्त्यृ॒भुम्।  
-शरु॑म॒स्मद्या॑वय दि॒द्युमि॑न्द्र ॥३॥  
+When, closely clinging round the wood, the bowstring sings triumph to the swift and whizzing arrow, Indra, ward off from us the shaft, the missile.

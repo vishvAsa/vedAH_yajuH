@@ -2,5 +2,4 @@
 title = "१२ इदमकर्म नमो"
 
 +++
-इ॒दम॑कर्म॒ नमो॑ अभ्रि॒याय॒ यः पू॒र्वीरन्वा॒नोन॑वीति ।  
-बृह॒स्पतिः॒ स हि गोभिः॒ सो अश्वैः॒ स वी॒रेभिः॒ स नृभि॑र्नो॒ वयो॑ धात्॥१२॥
+This homage have we offered to the Cloud-God who thunders out to many in succession. May this Brihaspati vouchsafe us fulness of life with kine and horses, men, and heroes.

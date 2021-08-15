@@ -2,4 +2,4 @@
 title = "०२ देवयन्तो यथा"
 
 +++
-दे॒व॒यन्तो॒ यथा॑ म॒तिमच्छा॑ वि॒दद् व॑सुं॒ गिरः॑ । म॒हाम॑नूषत श्रु॒तम्॥२॥  
+Worshipping even as they list, singers laud him who findeth wealth, The far-renowned, the mighty One.

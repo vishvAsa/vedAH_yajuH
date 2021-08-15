@@ -2,5 +2,4 @@
 title = "०६ अद्याग्ने अद्य"
 
 +++
-अ॒द्याग्ने॑ अ॒द्य स॑वितर॒द्य दे॑वि सरस्वति ।  
-अ॑द्यास्य ब्र॑ह्मणस्पते॒ धनु॑रि॒वा ता॑नया॒ पसः॑ ॥६॥  
+Hodie, Agnis! hodie Savitar! hodie dea Sarasvatis! hodie Brahmanaspatis! hujus fascinum velut arcum extende.

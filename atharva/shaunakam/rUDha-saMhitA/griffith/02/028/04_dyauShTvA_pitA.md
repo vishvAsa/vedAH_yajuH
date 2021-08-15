@@ -2,5 +2,4 @@
 title = "०४ द्यौष्ट्वा पिता"
 
 +++
-द्यौष्ट्वा॑ पि॒ता पृ॑थि॒वी मा॒ता ज॒रामृ॑त्युं कृणुतां संविदा॒ने।  
-यथा॒ जीवा॒ अदि॑तेरु॒पस्थे॑ प्राणापा॒नाभ्यां॑ गुपि॒तः श॒तं हिमाः॑ ॥४॥  
+Let Heaven thy father and let Earth thy mother, accordant, give thee death in course of nature, That thou mayst live on Aditi's bosom, guarded, a hundred winters, through thy respirations.

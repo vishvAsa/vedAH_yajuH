@@ -2,5 +2,4 @@
 title = "४६ सत्याय च"
 
 +++
-स॒त्याय॑ च॒ तप॑से दे॒वता॑भ्यो नि॒धिं शे॑व॒धिं परि॑ दद्म ए॒तम्।  
-मा नो॑ द्यू॒तेऽव गा॒न्मा समि॑त्यां॒ मा स्मा॒न्यस्मा॒ उत् सृ॑जता पु॒रा मत्॥४६॥  
+To Deities, to Truth, to holy Fervour this treasure we consign,. this rich deposit, At play, in meeting led it not desert us, never give out to anyone besides me.

@@ -2,5 +2,4 @@
 title = "०६ यश्चकार न"
 
 +++
-यश्च॒कार॒ न श॒शाक॒ कर्तुं॑ श॒श्रे पाद॑म॒ङ्गुरि॑म्।  
-च॒कार॑ भ॒द्रम॒स्मभ्य॑मा॒त्मने॒ तप॑नं॒ तु सः ॥६॥  
+No power had he who wrought the spell: he hurt his foot, he broke his toe. His act hath brought us happiness and pain and sorrow to him- self.

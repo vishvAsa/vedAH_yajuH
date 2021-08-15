@@ -2,5 +2,4 @@
 title = "०२ आकूतिं देवीं"
 
 +++
-आकू॑तिं दे॒वीं सु॒भगां॑ पु॒रो द॑धे चि॒त्तस्य॑ मा॒ता सु॒हवा॑ नो अस्तु ।  
-यामा॒शामे॑मि॒ केव॑ली॒ सा मे॑ अस्तु॒ विदे॑यमेनां॒ मन॑सि॒ प्रवि॑ष्टाम्॥२॥  
+In front I set Intention, blessed Goddess. Mother of thought, may she be prompt to hear us. Mine, and mine only, be the hope I fashion! May I gain this that hath possessed my spirit.

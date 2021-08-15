@@ -2,4 +2,4 @@
 title = "०७ पर्यस्यास्मिंल्लोक आयतनं"
 
 +++
-पर्य॑स्या॒स्मिंल्लो॒क आ॒यत॑नं शिष्यते॒ य ए॒वं वि॒दुषा॒ व्रात्ये॒नाति॑सृष्टो जु॒होति॑ ॥७॥  
+The abode of the man who sacrifices when permitted by the Vratya who possesses this knowledge is long left remaining in this world.

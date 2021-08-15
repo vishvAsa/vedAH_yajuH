@@ -2,5 +2,4 @@
 title = "०७ येत आसीद्"
 
 +++
-येत आसी॒द् भूमिः॒ पूर्वा॒ याम॑द्धा॒तय॒ इद् वि॒दुः ।  
-यो वै तां वि॒द्यान्ना॒मथा॒ स म॑न्येत पुराण॒वित्॥७॥  
+He may account himself well versed in ancient time who knows by name. The earth that was before this earth, which only wisest Sages know.

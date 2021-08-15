@@ -2,5 +2,4 @@
 title = "०२ सं वः"
 
 +++
-सं वः॑ सृजत्वर्य॒मा सं पू॒षा सं बृह॒स्पतिः॑ ।  
-समिन्द्रो॒ यो ध॑नंज॒यो मयि॑ पुष्यत॒ यद् वसु॑ ॥२॥  
+May Aryaman pour gifts on you, and Pushan, land Brihaspati, And Indra, winner of the prize. Make ye my riches grow with me.

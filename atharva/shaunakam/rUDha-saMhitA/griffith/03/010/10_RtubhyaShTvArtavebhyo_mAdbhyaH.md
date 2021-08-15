@@ -2,5 +2,4 @@
 title = "१० ऋतुभ्यष्ट्वार्तवेभ्यो माद्भ्यः"
 
 +++
-ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑ ।  
-धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥१०॥  
+I offer to the Seasons, to their several groups, to Months, to Years. Dhatar, Vidhatar, Fortune, to the lord of all existing things.

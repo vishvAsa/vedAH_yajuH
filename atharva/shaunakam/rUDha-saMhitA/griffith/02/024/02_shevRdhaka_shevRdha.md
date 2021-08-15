@@ -2,5 +2,4 @@
 title = "०२ शेवृधक शेवृध"
 
 +++
-शेवृ॑धक॒ शेवृ॑ध॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः ।  
-यस्य॒ स्थ तम॑त्त॒ यो वः प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥२॥  
+Srvridhaka, O Sevridha, back fall your arts of witchery! Back, Kimidins! let your weapon fall, etc.

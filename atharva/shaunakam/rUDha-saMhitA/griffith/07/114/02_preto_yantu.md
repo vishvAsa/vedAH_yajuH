@@ -2,5 +2,4 @@
 title = "०२ प्रेतो यन्तु"
 
 +++
-प्रेतो य॑न्तु॒ व्याऽध्यः॒ प्रानु॒ध्याः प्रो अश॑स्तयः ।  
-अ॒ग्नी र॑क्ष॒स्विनी॑र्हन्तु॒ सोमो॑ हन्तु दुरस्य॒तीः ॥२॥
+Let pain and suffering pass away, let cares and curses vanish. hence. Let Agni slay the fiendish hags, Soma kill bags who trouble us.

@@ -2,5 +2,4 @@
 title = "०१ मा नो"
 
 +++
-मा नो॑ देवा॒ अहि॑र्वधी॒त् सतो॑कान्त्स॒हपु॑रुषान्।  
-सम्य॑तं॒ न वि ष्प॑रद् व्यात्तं॒ न सं य॑म॒न्नमो॑ देवज॒नेभ्यः॑॥१॥  
+Let not the serpent slay us, O Gods, with our children and our folk. Let it not close the opened mouth nor open that which now is closed.

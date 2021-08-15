@@ -2,5 +2,4 @@
 title = "०४ सर्पानुसर्प पुनर्वो"
 
 +++
-सर्पानु॑सर्प॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः ।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥४॥  
+O Sarpa, Anusarpa, back return your arts of witchery! Back, 'i Kimidins! let your weapon fall, etc.

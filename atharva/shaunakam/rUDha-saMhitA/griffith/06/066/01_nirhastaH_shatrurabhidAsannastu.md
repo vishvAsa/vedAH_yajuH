@@ -2,5 +2,4 @@
 title = "०१ निर्हस्तः शत्रुरभिदासन्नस्तु"
 
 +++
-निर्ह॑स्तः शत्रु॑रभि॒दास॑न्नस्तु॒ ये सेना॑भि॒र्युध॑मा॒यन्त्य॒स्मान्।  
-सम॑र्पयेन्द्र मह॒ता व॒धेन॒ द्रात्वे॑षामघहा॒रो विवि॑द्धः ॥१॥  
+Handless be every foeman who assaileth, they who with missiles come to fight against us! Dash them together with great slaughter, Indra! and let their robber chief run pierced with arrows.

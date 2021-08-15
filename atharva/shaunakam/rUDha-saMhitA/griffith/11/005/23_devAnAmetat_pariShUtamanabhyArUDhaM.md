@@ -2,5 +2,4 @@
 title = "२३ देवानामेतत् परिषूतमनभ्यारूढं"
 
 +++
-दे॒वाना॑मे॒तत् प॑रिषू॒तमन॑भ्यारूढं चरति॒ रोच॑मानम्।  
-तस्मा॑ज्जा॒तं ब्राह्म॑णं॒ ब्रह्म॑ ज्ये॒ष्ठं दे॒वाश्च॒ सर्वे॑ अ॒मते॑न सा॒कम्॥२३॥  
+Piled up on high, but never yet ascended, that power of deities is brightly shining. From that sprang heavenly lore, the loftiest Brahma, and all the Gods with, life that lasts for ever.

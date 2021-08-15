@@ -2,5 +2,4 @@
 title = "०१ हरिणस्य रघुष्यदोऽधि"
 
 +++
-ह॒रि॒णस्य॑ रघु॒ष्यदोऽधि॑ शी॒र्षणि॑ भेष॒जम्।  
-स क्षे॑त्रि॒यं वि॒षाण॑या विषू॒चीन॑मनीनशत्॥१॥  
+The fleet-foot Roebuck wears upon his head a healing remedy. Innate disease he drives away to all directions with his horn.

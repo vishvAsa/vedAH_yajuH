@@ -2,5 +2,4 @@
 title = "०५ कृत्याः सन्तु"
 
 +++
-कृ॒त्याः स॑न्तु कृत्या॒कृते॑ श॒पथः॑ शपथीय॒ते।  
-सु॒खो रथ॑ इव वर्ततां कृ॒त्या कृ॑त्या॒कृतं॒ पुनः॑ ॥५॥  
+Back on the wizard fall his craft, upon the curser light his curse! Let witchcraft, like a well-naved car, roll back upon the sorcerer.

@@ -2,5 +2,4 @@
 title = "३१ अग्ने सपत्नानधरान्"
 
 +++
-अग्ने॑ स॒पत्ना॒नध॑रान् पादया॒स्मद् व्य॒थया॑ सजा॒तमु॒त्पिपा॑नं बृहस्पते ।  
-इन्द्रा॑ग्नी॒ मित्रा॑वरुणा॒वध॑रे पद्यन्ता॒मप्र॑तिमन्यूयमानाः ॥३१॥  
+Cast down our foes beneath our feet, O Agni. Brihaspati, oppress our rebel kinsman. Low let them fall, O Indra-Agni. Mitra-Varuna, powerless to show their anger.

@@ -2,5 +2,4 @@
 title = "१३ यद्यत् कृष्णः"
 
 +++
-यद्य॑त् कृ॒ष्णः श॑कु॒न एह ग॒त्वा त्सर॒न् विष॑क्तं॒ बिल॑ आस॒साद॑ ।  
-यद् वा॑ दा॒स्या॒३र्द्रह॑स्ता सम॒ङ्क्त उ॒लूख॑लं॒ मुस॑लं शुम्भतापः ॥१३॥  
+If the dark bird hath come to us and, stealing the hanging. . morsel, settled in his dwelling, Or if the slave-girl hath, wet-handed, smearing the pestle and the mortar, cleansed the waters,

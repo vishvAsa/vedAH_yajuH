@@ -2,5 +2,4 @@
 title = "०१ य एक"
 
 +++
-य एक॒ इद्धव्य॑श्चर्षणी॒नामिन्द्रं॒ तं गी॒र्भिर॒भ्यर्च आ॒भिः ।  
-यः पत्य॑ते वृष॒भो वृष्ण्या॑वान्त्स॒त्यः सत्वा॑ पुरुमा॒यः सह॑स्वान्॥१॥  
+With these my hymns I glorify that Indra who is alone to be invoked by mortals. The Lord, the Mighty One, of manly vigour, victorious, Hero, true, and full of wisdom.

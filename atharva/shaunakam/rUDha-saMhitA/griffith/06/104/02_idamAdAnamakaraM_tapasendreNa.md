@@ -2,5 +2,4 @@
 title = "०२ इदमादानमकरं तपसेन्द्रेण"
 
 +++
-इ॒दमा॒दान॑मकरं॒ तप॒सेन्द्रे॑ण॒ संशि॑तम्।  
-अ॒मित्रा॒ येऽत्र॑ नः॒ सन्ति॒ तान॑ग्न॒ आ द्या॒ त्वम्॥२॥  
+This bond, made keen by Indra, I have formed with heat of holy zeal. Securely bind our enemies, O Agni, who are standing here.

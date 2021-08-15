@@ -2,4 +2,4 @@
 title = "०३ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य ।योऽस्य तृ॒तीयो॑ऽपा॒नः सामा॑वा॒स्या॥३॥  
+His third downward breath is the night of New Moon.

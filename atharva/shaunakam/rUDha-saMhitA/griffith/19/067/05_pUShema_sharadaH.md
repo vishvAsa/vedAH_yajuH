@@ -2,4 +2,4 @@
 title = "०५ पूषेम शरदः"
 
 +++
-पूषे॑म श॒रदः॑ श॒तम्॥५॥  
+A hundred autumns may we thrive.

@@ -2,5 +2,4 @@
 title = "११ यत् ते"
 
 +++
-यत् ते॑ क्रु॒द्धो धन॑पति॒रा क्षी॒रमह॑रद् वशे ।  
-इ॒दं तद॒द्य नाक॑स्त्रि॒षु पात्रे॑षु रक्षति ॥११॥  
+O Cow, the milk which in his wrath the Lord of Riches took from thee, That same the vault of heaven now preserveth in three reser- voirs.

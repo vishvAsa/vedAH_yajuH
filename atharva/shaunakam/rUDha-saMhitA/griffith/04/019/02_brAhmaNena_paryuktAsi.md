@@ -2,5 +2,4 @@
 title = "०२ ब्राह्मणेन पर्युक्तासि"
 
 +++
-ब्रा॒ह्म॒णेन॒ पर्यु॑क्तासि॒ कण्वे॑न नार्ष॒देन॑ ।  
-सेने॑वैषि॒ त्विषी॑मती॒ न तत्र॑ भ॒यमस्ति॒ यत्र॑ प्रा॒प्नोष्यो॑षधे ॥२॥  
+Thou hast been blessed with blessing by the Brahman, Kanva Narshada. Thou fliest like a flashing dart: there is no fear or danger, Plant! within the limit of thy range.

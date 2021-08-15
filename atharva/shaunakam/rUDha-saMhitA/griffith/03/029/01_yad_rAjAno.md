@@ -2,5 +2,4 @@
 title = "०१ यद् राजानो"
 
 +++
-यद् राजा॑नो वि॒भज॑न्त इष्टापू॒र्तस्य॑ षोड॒शं य॒मस्या॒मी स॑भा॒सदः॑ ।  
-अवि॒स्तस्मा॒त् प्र मु॑ञ्चति द॒त्तः शि॑ति॒पात् स्व॒धा॥१॥  
+When yonder kings who sit beside Yama divide among them- selves the sixteenth part of hopes fulfilled, A ram bestowed as sacrifice, white-footed, frees us from the tax.

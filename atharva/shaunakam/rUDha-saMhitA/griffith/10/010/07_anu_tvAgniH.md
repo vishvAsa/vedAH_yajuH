@@ -2,5 +2,4 @@
 title = "०७ अनु त्वाग्निः"
 
 +++
-अनु॑ त्वा॒ग्निः प्रावि॑श॒दनु॒ सोमो॑ वशे त्वा ।  
-ऊध॑स्ते भद्रे प॒र्जन्यो॑ वि॒द्युत॑स्ते॒ स्तना॑ वशे ॥७॥  
+Agni hath entered into thee; Soma, O Cow, hath entered thee. Thine udder is Parjanya, O blest Cow; the lightnings are thy teats.

@@ -2,5 +2,4 @@
 title = "१२ यथा सोमो"
 
 +++
-यथा॒ सोमो॑ द्वि॒तीये॒ सव॑न इन्द्रा॒ग्न्योर्भव॑ति प्रि॒यः ।  
-ए॒वा म॑ इन्द्राग्नी॒ वर्च॑ आ॒त्मनि॑ ध्रियताम्॥१२॥  
+As at the second sacrifice Indra and Agni love him well, Let the pair, Indra Agni, lay splendour and strength within my soul.

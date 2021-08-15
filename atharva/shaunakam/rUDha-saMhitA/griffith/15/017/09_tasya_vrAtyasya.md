@@ -2,4 +2,4 @@
 title = "०९ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य । यदा॑दि॒त्यम॑भिसंवि॒शन्त्य॑मावा॒स्यां चै॒व तत् पौ॑र्णमा॒सीं च॑ ॥९॥  
+When they surround the Sun on the day of New Moon, and that time of Full Moon.

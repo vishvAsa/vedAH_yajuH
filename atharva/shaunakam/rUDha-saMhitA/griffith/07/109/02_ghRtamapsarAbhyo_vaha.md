@@ -2,5 +2,4 @@
 title = "०२ घृतमप्सराभ्यो वह"
 
 +++
-घृ॒तम॑प्स॒राभ्यो॑ वह॒ त्वम॑ग्ने पां॒सून॒क्षेभ्यः॒ सिक॑ता अ॒पश्च॑ ।  
-य॒था॒भ॒गं ह॒व्यदा॑तिं जुषा॒णा मद॑न्ति दे॒वा उ॒भया॑नि ह॒व्या॥२॥  
+Bear butter to the Apsarases, O Agni, and to the Dice bear dust and sand and water. The Gods delight in both oblations, joying in sacrificial gifts apportioned duly.

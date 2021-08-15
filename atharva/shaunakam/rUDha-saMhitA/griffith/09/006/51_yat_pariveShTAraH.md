@@ -2,4 +2,4 @@
 title = "५१ यत् परिवेष्टारः"
 
 +++
-यत् प॑रिवे॒ष्टारः॒ पात्र॑हस्ताः॒ पूर्वे॒ चाप॑रे च प्र॒पद्य॑न्ते चम॒साध्व॑र्यव ए॒व ते ।३। ५१॥  
+When the attendants with vessels in their hands, foremost and hindmost, come in, they are just the priests who manage the Soma cups.

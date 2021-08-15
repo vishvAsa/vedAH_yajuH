@@ -2,5 +2,4 @@
 title = "२० अग्निर्दिव आ"
 
 +++
-अ॒ग्निर्दि॒व आ त॑पत्य॒ग्नेर्दे॒वस्यो॒र्व॑१न्तरि॑क्षम्।  
-अ॒ग्निं मर्ता॑स इन्धते हव्य॒वाहं॑ घृत॒प्रिय॑म्॥२०॥  
+Agni gives shine and heat in heaven: the spacious air is his, the God's Lover of fatness, bearer of oblation, men enkindle him.

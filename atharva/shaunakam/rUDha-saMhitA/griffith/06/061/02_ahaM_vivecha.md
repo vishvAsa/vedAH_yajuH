@@ -2,5 +2,4 @@
 title = "०२ अहं विवेच"
 
 +++
-अ॒हं वि॑वेच पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सा॒कम्।  
-अ॒हं स॒त्यमनृ॑तं॒ यद् वदा॑म्य॒हं दैवीं॒ परि॒ वाचं॒ विश॑श्च ॥२॥  
+I set the heaven and the earth asunder, I brought all seven sea- sons into being. My word is truth, what I deny is falsehood, above celestial Vak, above the nations.

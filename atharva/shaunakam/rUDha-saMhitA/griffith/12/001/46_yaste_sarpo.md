@@ -2,5 +2,4 @@
 title = "४६ यस्ते सर्पो"
 
 +++
-यस्ते॑ स॒र्पो वृश्चि॑कस्तृ॒ष्टदं॑श्मा हेम॒न्तज॑ब्धो भृम॒लो गुहा॒ शये॑ ।  
-क्रिमि॒र्जिन्वत् पृथिवि॒ यद्य॒देज॑ति प्रा॒वृषि॑ तन्नः॒ सर्प॒न्मोप॑ सृप॒द् यच्छि॒वं तेन॑ नो मृड ॥४६॥  
+Thy snake, thy sharply stinging scorpion, lying concealed, be- wildered, chilled with cold of winter, The worm, O Prithivi, each thing that in the Rains revives and stirs, Creeping, forbear to creep on us! With all things gracious bless thou us.

@@ -2,5 +2,4 @@
 title = "१२ कुतः केशान्"
 
 +++
-कुतः॒ केशा॒न् कुतः॒ स्नाव॒ कुतो॒ अस्थी॒न्याभ॑रत्।  
-अङ्गा॒ पर्वा॑णि म॒ज्जानं को मां॒सं कुत॒ आभ॑रत्॥१२॥  
+Whence, from what region did he bring the hair, the sinews, and the bones, Marrow and limbs, and joints, and flesh? Who was the bringer, and from whence?

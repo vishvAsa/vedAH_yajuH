@@ -2,5 +2,4 @@
 title = "०३ ये३स्यां स्थ"
 
 +++
-ये॒३स्यां स्थ प्र॒तीच्यां॑ दि॒शि वै॑रा॒जा नाम॑ दे॒वास्तेषां॑ व॒ आप॒ इष॑वः ।  
-ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॒ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥३॥  
+Ye Gods who dwell within this westward region, whose name is Radiant, Water forms your arrows. Be kind, etc.

@@ -2,7 +2,4 @@
 title = "१७ येनादित्यान् हरितः"
 
 +++
-येना॑दि॒त्यान् ह॒रितः॑ स॒म्वह॑न्ति॒ येन॑ य॒ज्ञेन॑ ब॒हवो॒ यन्ति॑ प्रजा॒नन्तः॑ ।  
-यदेकं॒ ज्योति॑र्बहु॒धा वि॒भाति॒ तस्य॑ दे॒वस्य॑ ।  
-क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑ ।  
-उद् वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न्॥१७॥  
+He beside whom his bay steeds bear the Adityas, by whom as sacrifice go many knowing. The sole light shining spread through various places. This God, etc.

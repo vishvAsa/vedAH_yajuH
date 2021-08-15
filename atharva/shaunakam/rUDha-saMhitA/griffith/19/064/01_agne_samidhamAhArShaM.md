@@ -2,5 +2,4 @@
 title = "०१ अग्ने समिधमाहार्षं"
 
 +++
-अग्ने॑ स॒मिध॒माहा॑र्षं बृह॒ते जा॒तवे॑दसे ।  
-स मे॑ श्र॒द्धां च॑ मे॒धां च॑ जा॒तवे॑दाः॒ प्र य॑च्छतु ॥१॥  
+For lofty Jatavedas I have brought the fuel hither first. May he who knoweth all bestow faith and intelligence on me.

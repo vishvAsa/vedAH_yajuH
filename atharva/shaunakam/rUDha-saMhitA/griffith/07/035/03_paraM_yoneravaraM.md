@@ -2,5 +2,4 @@
 title = "०३ परं योनेरवरं"
 
 +++
-परं॒ योने॒रव॑रं ते कृणोमि॒ मा त्वा॑ प्र॒जाभि भू॒न्मोत सूनुः॑ ।  
-अ॒स्वं॑१ त्वाप्र॑जसं कृणो॒म्यश्मा॑नं ते अपि॒धानं कृणोमि ॥३॥
+Uteri tui summam partem inferam facio: ne tibi soboles neque filius eveniat. Sterilem et infecundam te facio: lapidem tuum, operimentum facio.

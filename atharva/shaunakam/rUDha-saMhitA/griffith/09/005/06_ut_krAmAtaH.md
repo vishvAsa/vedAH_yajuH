@@ -2,5 +2,4 @@
 title = "०६ उत् क्रामातः"
 
 +++
-उत् क्रा॒मातः॒ परि॒ चेदत॑प्तस्त॒प्ताच्च॒रोरधि॒ नाकं॑ तृ॒तीय॑म्।  
-अ॒ग्नेर॒ग्निरधि॒ सं ब॑भूविथ॒ ज्योति॑ष्मन्तम॒भि लो॒कं ज॑यै॒तम्॥६॥  
+Hence come thou forth, vexed by no pain or torment. Mount to the third heaven from the heated vessel. As fire out of the fire hast thou arisen. Conquer and win this lucid world of splendour.

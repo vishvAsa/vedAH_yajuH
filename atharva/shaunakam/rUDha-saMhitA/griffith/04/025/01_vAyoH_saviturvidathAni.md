@@ -2,5 +2,4 @@
 title = "०१ वायोः सवितुर्विदथानि"
 
 +++
-वा॒योः स॑वि॒तुर्वि॒दथा॑नि मन्महे॒ यावा॑त्म॒न्वद् वि॒शथो॒ यौ च॒ रक्ष॑थः ।  
-यौ विश्व॑स्य परि॒भू ब॑भू॒वथु॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥१॥  
+I think on Vayu's and Savitar's holy rites, ye twain who penetrate and guard the living world: Ye who have come to be this All's pervaders, deliver us, ye two from grief and trouble.

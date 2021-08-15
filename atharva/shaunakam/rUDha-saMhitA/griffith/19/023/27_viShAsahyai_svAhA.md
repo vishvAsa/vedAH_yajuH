@@ -2,4 +2,4 @@
 title = "२७ विषासह्यै स्वाहा"
 
 +++
-वि॒षा॒स॒ह्यै स्वाहा॑ ॥२७॥  
+Hail to the hymn of victory!

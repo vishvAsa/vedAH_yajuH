@@ -2,5 +2,4 @@
 title = "१८ ऋचो अक्षरे"
 
 +++
-ऋ॒चो अ॒क्षरे॑ पर॒मे व्योऽम॒न् यस्मि॑न् दे॒वा अधि॒ विश्वे॑ निषे॒दुः ।  
-यस्तन्न वेद॒ किमृ॒चा क॑रिष्यति॒ य इत् तद् वि॒दुस्ते अ॒मी समा॑सते ॥१८॥  
+Upon what syllable of holy praise-hymn, as 'twere their highest heaven, the Gods repose them Who knows not this, what will he do with praise-hymn? But they who know it well sit here assembled.

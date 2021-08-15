@@ -2,5 +2,4 @@
 title = "०१ शुम्भनी द्यावापृथिवी"
 
 +++
-शुम्भ॑नी॒ द्यावा॑पृथि॒वी अन्ति॑सुम्ने॒ महि॑व्रते ।  
-आपः॑ स॒प्त सु॑स्रुवुर्दे॒वीस्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥१॥  
+Radiant with light are Heaven and Earth, whose grace is nigh, whose sway is vast. Seven Goddesses have flowed to us: may they deliver us from woe;

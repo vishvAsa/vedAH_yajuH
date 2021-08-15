@@ -2,5 +2,4 @@
 title = "०९ सुप्रपाणा च"
 
 +++
-सुप्र॑पा॒णा च॑ वेश॒न्ता रे॒वान्त्सुप्रति॑दिश्ययः ।  
-सुय॑भ्या क॒न्या कल्या॒णी तो॒ता कल्पे॑षु सं॒मिता॑ ॥९॥  
+Pools with good drinking places, and the wealthy man who freely gives, The pretty girl who may be touched, these things are ordered in the rules.

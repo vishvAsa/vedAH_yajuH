@@ -2,5 +2,4 @@
 title = "०५ आ नो"
 
 +++
-आ नो॑ यातं दि॒वो अच्छा॑ पृथि॒व्या हि॑र॒ण्यये॑न सु॒वृता॒ रथे॑न ।  
-मा वा॑म॒न्ये नि य॑मन्देव॒यन्तः॒ सं यद्द॒दे नाभिः॑ पू॒र्व्या वा॑म्॥५॥  
+Come hitherward to us from earth, from heaven, borne on your golden chariot rolling lightly. Suffer not other worshippers to stay you: here are ye bound by earlier bonds of friendship.

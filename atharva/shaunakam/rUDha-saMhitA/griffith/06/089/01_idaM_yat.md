@@ -2,5 +2,4 @@
 title = "०१ इदं यत्"
 
 +++
-इ॒दं यत् प्रे॒ण्यः शिरो॑ द॒त्तं सोमे॑न॒ वृष्ण्य॑म्।  
-ततः॒ परि॒ प्रजा॑तेन॒ हार्दिं॑ ते शोचयामसि ॥१॥  
+This strength that Soma hath bestowed, the head of her who gladdeneth,-- With that which thence hath been produced we make thy spirit sorrowful.

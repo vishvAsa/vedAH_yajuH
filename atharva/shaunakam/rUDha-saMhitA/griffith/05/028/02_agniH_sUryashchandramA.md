@@ -2,5 +2,4 @@
 title = "०२ अग्निः सूर्यश्चन्द्रमा"
 
 +++
-अ॒ग्निः सूर्य॑श्च॒न्द्रमा॒ भूमि॒रापो॒ द्यौर॒न्तरि॑क्षं प्र॒दिशो॑ दिश॑श्च ।  
-आ॒र्त॒वा ऋ॒तुभिः॑ संविदा॒ना अ॒नेन॑ मा त्रि॒वृता॑ पारयन्तु ॥२॥  
+May Agni, Sun, and Moon, and Earth, and Waters, Sky, Air, the Quarters and the Points between them, And Parts of Years accordant with the Seasons by this three- threaded Amulet preserve me.

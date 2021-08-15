@@ -2,5 +2,4 @@
 title = "०९ ससानात्यां उत"
 
 +++
-स॒सानात्यां॑ उ॒त सूर्यं॑ ससा॒नेन्द्रः॑ ससान पुरु॒भोज॑सं॒ गाम्।  
-हि॒र॒ण्यय॑मु॒तभोगं॑ ससान ह॒त्वी दस्यू॒न् प्रार्यं॒ वर्ण॑मावत्॥९॥  
+He gained possession of the Sun and horses; Indra obtained the cow who feedeth many. Treasure of gold he won; he smote the Dasyus and gave protec- tion to the race of Aryas.

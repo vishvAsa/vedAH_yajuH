@@ -2,5 +2,4 @@
 title = "०५ स जङ्गिडस्य"
 
 +++
-स ज॑ङ्गि॒डस्य॑ महि॒मा परि॑ णः पातु वि॒श्वतः॑ ।  
-विष्क॑न्धं॒ येन॑ सा॒सह॒ संस्क॑न्ध॒मोज॒ ओज॑सा ॥५॥  
+Let Jangida's protecting might encompass us on every side. Wherewith he quells Vishkandha and Sanskandha, might by greater might.

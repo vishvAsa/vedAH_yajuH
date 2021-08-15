@@ -2,5 +2,4 @@
 title = "४५ जनं बिभ्रती"
 
 +++
-जनं॒ बिभ्र॑ती बहु॒धा विवा॑चसं॒ नाना॑धर्माणं पृथि॒वी य॑थौक॒सम्।  
-स॒हस्रं॒ धारा॒ द्रवि॑णस्य मे दुहां ध्रु॒वेव॑ धे॒नुरन॑पस्फुरन्ती ॥४५॥  
+Earth, bearing folk of many a varied language with divers rites as suits their dwelling-places, Pour, like a constant cow that never faileth, a thousand streams of treasure to enrich me!

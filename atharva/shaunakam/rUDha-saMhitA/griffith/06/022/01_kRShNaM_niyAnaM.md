@@ -2,5 +2,4 @@
 title = "०१ कृष्णं नियानं"
 
 +++
-कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत् प॑तन्ति ।  
-त आव॑वृत्र॒न्त्सद॑नादृ॒तस्यादिद् घृ॒तेन॑ पृथि॒वीं व्यूऽदुः ॥१॥  
+Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, enrobed in waters. They have come hither from the seat of Order, and inundated earth with streams of fatness.

@@ -2,5 +2,4 @@
 title = "०१ आ ते"
 
 +++
-आ ते॑ ददे व॒क्षणा॑भ्य॒ आ ते॒ऽहं हृद॑याद् ददे ।  
-आ ते॒ मुख॑स्य॒ सङ्का॑शा॒त् सर्वं॑ ते॒ वर्च॒ आ द॑दे ॥१॥  
+I have extracted from thy sides, I have extracted from thy heart, I have extracted from thy face the strength and splendour that were thine.

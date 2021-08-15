@@ -2,5 +2,4 @@
 title = "१९ ब्राह्मणेभ्य ऋषभं"
 
 +++
-ब्रा॒ह्म॒णेभ्य॑ ऋष॒भं द॒त्त्वा वरी॑यः कृणुते॒ मनः॑ ।  
-पुष्टिं॒ सो अ॒घ्न्यानां॒ स्वे गो॒ष्ठेऽव॑ पश्यते ॥१९॥  
+He who hath given away the Bull to Brahmans frees and cheers his soul. In his own cattle-pen he sees the growth and increase of his cows.

@@ -2,5 +2,4 @@
 title = "०१ इयं वीरुन्मधुजाता"
 
 +++
-इ॒यं वी॒रुन्मधु॑जाता॒ मधु॑ना त्वा खनामसि ।  
-मधो॒रधि॒ प्रजा॑तासि॒ सा नो॒ मधु॑मतस्कृधि ॥१॥  
+From honey sprang this Plant to life; with honey now we dig thee up. Make us as sweet as honey, for from honey hast thou been pro- duced.

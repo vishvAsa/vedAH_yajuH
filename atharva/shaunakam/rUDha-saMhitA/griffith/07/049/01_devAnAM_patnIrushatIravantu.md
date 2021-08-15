@@ -2,5 +2,4 @@
 title = "०१ देवानां पत्नीरुशतीरवन्तु"
 
 +++
-दे॒वानां॒ पत्नी॑रुश॒तीर॑वन्तु नः॒ प्राव॑न्तु नस्तु॒जये॒ वाज॑सातये ।  
-याः पार्थि॑वासो॒ या अ॒पामपि॑ व्र॒ते ता नो॑ देवीः सु॒हवाः॒ शर्म॑ यच्छन्तु ॥१॥  
+May the Gods' Consorts aid us of their own free will, help us to offspring and the winning of the spoil. May Goddesses who quickly listen shelter us, both those on earth and they within the waters' realm.

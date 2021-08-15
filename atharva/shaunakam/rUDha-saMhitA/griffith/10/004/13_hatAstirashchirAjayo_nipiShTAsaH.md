@@ -2,4 +2,4 @@
 title = "१३ हतास्तिरश्चिराजयो निपिष्टासः"
 
 +++
-ह॒तास्तिर॑श्चिराजयो॒ निपि॑ष्टासः॒ पृदा॑कवः । दर्विं॒ करि॑क्रतं श्वि॒त्रं द॒र्भेष्व॑सि॒तं ज॑हि ॥१३॥  
+Tiraschirajis have been slain, and vipers crushed and brayed to bits. Slay Darvi in the Darbha-grass, Karikrata, and White and Black.

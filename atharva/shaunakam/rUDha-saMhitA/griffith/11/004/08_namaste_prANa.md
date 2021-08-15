@@ -2,5 +2,4 @@
 title = "०८ नमस्ते प्राण"
 
 +++
-नम॑स्ते प्राण प्राण॒ते नमो॑ अस्त्वपान॒ते।  
-प॒रा॒चीना॑य ते॒ नमः॑ प्रती॒चीना॑य ते॒ नमः॑ सर्व॑स्मै त इ॒दं नमः॑ ॥८॥  
+Homage to thee at every breath thou drawest in and sendest forth! Homage to thee when turned away, homage to thee seen face to face! This reverence be to all of thee!

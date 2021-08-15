@@ -2,5 +2,4 @@
 title = "२३ सप्त त्वा"
 
 +++
-स॒प्त त्वा॑ ह॒रितो॒ रथे॒ वह॑न्ति देव सूर्य ।  
-शो॒चिष्के॑शं विचक्ष॒णम्॥२३॥  
+Seven bay steeds harnessed to thy car bear thee, O thou far- seeing One, God, Surya, with the radiant hair.

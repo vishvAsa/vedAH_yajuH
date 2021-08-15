@@ -2,5 +2,4 @@
 title = "०१ आबयो अनाबयो"
 
 +++
-आब॑यो॒ अना॑बयो॒ रस॑स्त उ॒ग्र आ॑बयो ।  
-आ ते॑ कर॒म्भम॑द्मसि ॥१॥  
+O Abayu, non-Abayu, dire is thy juice, O Abayu; we eat the gruel made of thee.

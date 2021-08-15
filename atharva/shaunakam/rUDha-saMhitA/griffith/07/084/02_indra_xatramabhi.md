@@ -2,5 +2,4 @@
 title = "०२ इन्द्र क्षत्रमभि"
 
 +++
-इन्द्र॑ क्ष॒त्रम॒भि वा॒ममोजोऽजा॑यथा वृषभ चर्षणी॒नाम्।  
-अपा॑नुदो॒ जन॑ममित्रा॒यन्त॑मु॒रुं दे॒वेभ्यो॑ अकृणोरु लो॒कम्॥२॥  
+Thou, Indra, lord and leader of the people, wast born for lovely strength and high dominion. Thou dravest off the folk who were unfriendly, and madest for the Gods wide room and freedom.

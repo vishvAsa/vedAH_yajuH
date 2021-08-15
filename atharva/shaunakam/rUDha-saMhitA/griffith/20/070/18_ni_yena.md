@@ -2,4 +2,4 @@
 title = "१८ नि येन"
 
 +++
-नि येन॑ मुष्टिह॒त्यया॒ नि वृ॒त्रा रु॒णधा॑महै । त्वोता॑सो॒ न्यर्व॑ता ॥१८॥  
+By means of which we may repel our foes in battle hand to hand. By thee assisted with the car.

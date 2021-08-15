@@ -2,5 +2,4 @@
 title = "०३ इदमिन्द्र शृणुहि"
 
 +++
-इ॒दमि॑न्द्र शृणुहि सोमप॒ यत् त्वा॑ हृ॒दा शोच॑ता॒ जोह॑वीमि ।  
-वृ॒श्चामि॒ तं कुलि॑शेनेव वृ॒क्षं यो अ॒स्माकं॒ मन॑ इ॒दं हि॒नस्ति॑ ॥३॥  
+Hear this my call, O Indra, Soma-drinker, as with a burning heart I oft invoke thee. I smite, as 'twere a tree felled with a hatchet, the man who marreth this my plan and purpose.

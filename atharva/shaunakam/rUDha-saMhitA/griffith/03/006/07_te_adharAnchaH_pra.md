@@ -2,5 +2,4 @@
 title = "०७ तेऽधराञ्चः प्र"
 
 +++
-तेऽध॒राञ्चः॒ प्र प्ल॑वन्तां छि॒न्ना नौरि॑व॒ बन्ध॑नात्।  
-न वै॑बा॒धप्र॑णुत्तानां॒ पुन॑रस्ति नि॒वर्त॑नम्॥७॥  
+Let them drift downward like a boat torn from the rope that fastened it. There is no turning back for those whom He who Cleaves hath driven away.

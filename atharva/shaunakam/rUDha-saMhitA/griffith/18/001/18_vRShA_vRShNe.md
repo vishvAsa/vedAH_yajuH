@@ -2,5 +2,4 @@
 title = "१८ वृषा वृष्णे"
 
 +++
-वृषा॒ वृष्णे॑ दुदुहे॒ दोह॑सा दि॒वः पयां॑सि य॒ह्वो अदि॑ते॒रदा॑भ्यः ।
-विश्वं॒ स वे॑द॒ वरु॑णो॒ यथा॑ धि॒या स य॒ज्ञियो॑ यजति य॒ज्ञियां॑ ऋ॒तून्॥१८॥
+The Bull hath yielded for the Bull the milk of heaven: inviolable is the Son of Aditi. According to his wisdom Varuna knoweth all: he halloweth, the holy, times for sacrifice.

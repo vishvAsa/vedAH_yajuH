@@ -2,5 +2,4 @@
 title = "१० अस्येदेव शवसा"
 
 +++
-अ॒स्येदे॒व शव॑सा शु॒षन्तं॒ वि वृ॑श्च॒द् वज्रे॑ण वृ॒त्रमिन्द्रः॑ ।  
-गा न व्रा॒णा अ॒वनी॑रमुञ्चद॒भि श्रवो॑ दा॒वने॒ सचे॑ताः ॥१०॥  
+Through his own strength with bolt of thunder Indra smote piece-meal Vritra, drier up of waters. He let the floods go free, like cows imprisoned, for glory, with a heart inclined to bounty.

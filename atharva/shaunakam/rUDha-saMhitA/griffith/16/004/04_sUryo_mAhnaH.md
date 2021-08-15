@@ -2,4 +2,4 @@
 title = "०४ सूर्यो माह्नः"
 
 +++
-सूर्यो॒ माह्नः॑ पात्व॒ग्निः पृ॑थि॒व्या वा॒युर॒न्तरि॑क्षाद् य॒मो म॑नु॒ष्येऽभ्यः॒ सर॑स्वती॒ पार्थि॑वेभ्यः ॥४॥  
+Let Surya protect me from Day, Agni from Earth, Vayu from Firmament, Yama from men, Sarasvati from dwellers on the earth.

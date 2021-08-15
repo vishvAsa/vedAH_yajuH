@@ -2,4 +2,4 @@
 title = "१५ वसोरिन्द्रं वसुपतिं"
 
 +++
-वसो॒रिन्द्रं॒ वसु॑पतिं गी॒र्भिर्गृ॒णन्त॑ ऋ॒ग्मिय॑म्। होम॒ गन्ता॑रमू॒तये॑ ॥१५॥  
+Praising with songs the praise-worthy who cometh to our aid, we call Indra, the Treasure-Lord of wealth.

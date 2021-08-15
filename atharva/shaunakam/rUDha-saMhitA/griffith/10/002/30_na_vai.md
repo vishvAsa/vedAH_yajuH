@@ -2,5 +2,4 @@
 title = "३० न वै"
 
 +++
-न वै तं चक्षु॑र्जहाति॒ न प्रा॒णो ज॒रसः॑ पु॒रा।  
-पुरं॒ यो ब्रह्म॑णो॒ वेद॒ यस्याः॒ पुरु॑ष उ॒च्यते॑ ॥३०॥  
+Sight leaves him not, breath quits not him before life's natural decay, Who knows the fort of Brahma, yea, the fort whence Purusha is named.

@@ -2,4 +2,4 @@
 title = "०२ प्र बोधयोषो"
 
 +++
-प्र बो॑धयोषो अ॒श्विना॒ प्र दे॑वि सूनृते महि । प्र य॑ज्ञहोतरानु॒षक्प्र मदा॑य॒ श्रवो॑ बृ॒हत्॥२॥  
+Awake the Asvins, Goddess Dawn! Up, mighty Lady of Sweet Strains! Rise straightway, priest of sacrifice! High glory to the glad- dening draught!

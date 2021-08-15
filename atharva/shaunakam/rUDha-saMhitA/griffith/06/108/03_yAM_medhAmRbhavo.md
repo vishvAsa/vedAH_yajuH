@@ -2,5 +2,4 @@
 title = "०३ यां मेधामृभवो"
 
 +++
-यां मे॒धामृ॒भवो॑ वि॒दुर्यां मे॒धामसु॑रा वि॒दुः ।  
-ऋष॑यो भ॒द्रां मे॒धां यां वि॒दुस्तां मय्या वे॑शयामसि ॥३॥  
+That excellent Intelligence which Ribhus know, and Asuras, Intelligence which sages know, we cause to enter into me.

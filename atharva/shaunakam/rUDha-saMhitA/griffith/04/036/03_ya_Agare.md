@@ -2,5 +2,4 @@
 title = "०३ य आगरे"
 
 +++
-य आ॑ग॒रे मृ॒गय॑न्ते प्रतिक्रो॒शेऽमावा॒स्ये।  
-क्र॒व्यादो॑ अ॒न्यान् दिप्स॑तः॒ सर्वां॒स्तान्त्सह॑सा सहे ॥३॥  
+Those who, what time the moon is dark, hunt with loud cry and answering shout, Flesh-eaters, others who would harm,--all these I overcome with might.

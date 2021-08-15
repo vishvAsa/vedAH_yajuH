@@ -2,5 +2,4 @@
 title = "०२ तृष्टासि तृष्टिका"
 
 +++
-तृ॒ष्टासि॑ तृष्टि॒का वि॒षा वि॑षात॒क्यऽसि ।  
-परि॑वृक्ता॒ यथास॑स्यृष॒भस्य॑ व॒शेव॑ ॥२॥
+Thou, rugged Plant, art rude and rough, Visha, Vishataki art thou. That thou mayest be cast off by him, as by a bull a barren cow.

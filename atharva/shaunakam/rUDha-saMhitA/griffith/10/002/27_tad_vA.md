@@ -2,5 +2,4 @@
 title = "२७ तद् वा"
 
 +++
-तद् वा अथ॑र्वणः॒ शिरो॑ देवको॒शः समु॑ब्जितः ।  
-तत् प्रा॒णो अ॒भि र॑क्षति॒ शिरो॒ अन्न॒मथो॒ मनः॑ ॥२७॥  
+That is indeed Atharvan's head, the well-closed casket of the Gods. Spirit and Food and Vital Air protect that head from injury.

@@ -2,4 +2,4 @@
 title = "०६ उषस्पतिर्वाचस्पतिना संविदानो"
 
 +++
-उ॒षस्पति॑र्वा॒चस्पति॑ना संविदा॒नो वा॒चस्पति॑रु॒षस्पति॑ना संविदा॒नः ॥६॥  
+The Lord of Dawn in accord with the Lord of Speech and the Lord of Speech in accord with the Lord of Dawn,

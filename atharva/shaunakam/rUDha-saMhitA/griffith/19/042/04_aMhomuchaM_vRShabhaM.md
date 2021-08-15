@@ -2,5 +2,4 @@
 title = "०४ अंहोमुचं वृषभं"
 
 +++
-अं॒हो॒मुचं॑ वृष॒भं य॒ज्ञिया॑नां वि॒राज॑न्तं प्रथ॒मम॑ध्व॒राणा॑म्।  
-अ॒पां नपा॑तम॒श्विना॑ हुवे॒ धिय॑ इन्द्रि॒येण॑ त इन्द्रि॒यं द॑त्त॒मोजः॑ ॥४॥
+With prayer I call on him who frees from trouble, Prince of Gods, Splendid, chief of sacrifices, I call the Waters' Child and both the Asvins, Vigour is mine, and strength bestowed by Indra.

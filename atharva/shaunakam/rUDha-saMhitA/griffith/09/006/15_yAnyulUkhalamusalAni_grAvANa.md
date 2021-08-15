@@ -2,4 +2,4 @@
 title = "१५ यान्युलूखलमुसलानि ग्रावाण"
 
 +++
-यान्यु॑लूखलमुस॒लानि॒ ग्रावा॑ण ए॒व ते॥१५॥  
+The pestle and mortar are really the stones of the Soma press.

@@ -2,5 +2,4 @@
 title = "०५ इन्द्राय साम"
 
 +++
-  
-इन्द्रा॑य॒ साम॑ गायत॒ विप्रा॑य बृह॒ते बृ॒हत्। ध॒र्म॒कृते॑ विप॒श्चिते॑ पन॒स्यवे॑ ॥५॥  
+To Indra sing a Saman, sing to the high Sage a lofty song, To him who keeps the Law, inspired and fain for praise.

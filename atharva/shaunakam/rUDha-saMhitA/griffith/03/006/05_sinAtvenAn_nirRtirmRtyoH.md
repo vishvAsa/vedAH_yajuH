@@ -2,5 +2,4 @@
 title = "०५ सिनात्वेनान् निरृतिर्मृत्योः"
 
 +++
-सि॒नात्वे॑ना॒न् निरृ॑तिर्मृ॒त्योः पाशै॑रमो॒क्यैः ।  
-अश्व॑त्थ॒ शत्रू॑न् माम॒कान् यान॒हं द्वेष्मि॒ ये च॒ माम्॥५॥  
+Nirriti bind them with the bonds of Death which never may be loosed. Mine enemies, Asvattha! those who hate me and whom I detest.

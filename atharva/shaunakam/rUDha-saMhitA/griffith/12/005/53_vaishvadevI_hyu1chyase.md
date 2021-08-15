@@ -2,4 +2,4 @@
 title = "५३ वैश्वदेवी ह्यु१च्यसे"
 
 +++
-वै॒श्व॒दे॒वी ह्यु॑१च्यसे॑ कृ॒त्या कूल्ब॑ज॒मावृ॑ता ॥५३॥  
+Of evil womb, thou witchcraft hid, for Vaisvadevi is thy name,

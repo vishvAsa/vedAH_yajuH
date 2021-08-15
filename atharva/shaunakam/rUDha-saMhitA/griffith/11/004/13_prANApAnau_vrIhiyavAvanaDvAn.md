@@ -2,5 +2,4 @@
 title = "१३ प्राणापानौ व्रीहियवावनड्वान्"
 
 +++
-प्रा॒णा॒पा॒नौ व्री॑हिय॒वाव॑न॒ड्वान् प्रा॒ण उ॑च्यते ।  
-यवे॑ ह प्रा॒ण आहि॑तोऽपा॒नो व्री॒हिरु॑च्यते ॥१३॥  
+Both breaths are rice and barley, and Prana is called the toiling ox: In barley is the inbreath laid, and rice is named the outward breath.

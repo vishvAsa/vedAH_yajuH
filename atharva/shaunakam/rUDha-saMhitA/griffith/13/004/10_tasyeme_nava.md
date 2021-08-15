@@ -2,4 +2,4 @@
 title = "१० तस्येमे नव"
 
 +++
-तस्ये॒मे नव॒ कोशा॑ विष्ट॒म्भा न॑व॒धा हि॒ताः ॥१०॥  
+His are the nine supports, the casks set in nine several places here.

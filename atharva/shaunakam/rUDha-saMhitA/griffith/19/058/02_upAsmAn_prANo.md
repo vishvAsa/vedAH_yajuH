@@ -2,5 +2,4 @@
 title = "०२ उपास्मान् प्राणो"
 
 +++
-उपा॒स्मान् प्रा॒णो ह्व॑यता॒मुप॑ व॒यं प्रा॒णं ह॑वामहे ।  
-वर्चो॑ जग्राह पृथि॒व्य॑१न्तरि॑क्षं॒ वर्चः॒ सोमो॒ बृह॒स्पति॑र्विध॒त्ता॥२॥  
+Let lively breath invite us: we call vital breath to visit us. Earth and air's middle realm have gathered, Soma, Brihaspati and Dhartar gathered vigour.

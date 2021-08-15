@@ -2,4 +2,4 @@
 title = "३० नैवाहमोदनं न"
 
 +++
-नैवाहमो॑द॒नं न मामो॑द॒नः ॥३०॥  
+I indeed have not eaten the Odana, nor has the Odana eaten me. 

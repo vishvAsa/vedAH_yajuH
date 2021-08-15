@@ -2,5 +2,4 @@
 title = "०८ पञ्चौदनः पञ्चधा"
 
 +++
-पञ्चौ॑दनः पञ्च॒धा वि क्र॑मतामाक्रं॒स्यमा॑न॒स्त्रीणि॒ ज्योतीं॑षि ।  
-ई॒जा॒नानां॑ सु॒कृतां॒ प्रेहि॒ मध्यं॑ तृ॒तीये॒ नाके॒ अधि॒ वि श्र॑यस्व ॥८॥  
+Let the Panchaudana Goat, about to visit the three lights, pass away in five divisions. Go midst the pious who have paid their worship, and parted, dwell on the third cope of heaven.

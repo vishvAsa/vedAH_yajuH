@@ -2,5 +2,4 @@
 title = "०४ अयं ते"
 
 +++
-अ॒यं ते॑ कृ॒त्यां वित॑तां॒ पौरु॑षेयाद॒यं भ॒यात्।  
-अ॒यं त्वा॒ सर्व॑स्मात् पा॒पाद् व॑र॒णो वा॑रयिष्यते ॥४॥  
+This will stay witchcraft wrought for thee, will guard thee from the fear of man: From all distress and misery this Varana will shield thee well.

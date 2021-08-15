@@ -2,5 +2,4 @@
 title = "४५ पर्यस्य महिमा"
 
 +++
-पर्य॑स्य महि॒मा पृ॑थि॒वीं स॑मु॒द्रं ज्योति॑षा वि॒भ्राज॒न् परि॒ द्याम॒न्तरि॑क्षम्।  
-सर्वं॑ सं॒पश्य॑न्त्सुवि॒दत्रो॒ यज॑त्र इ॒दं शृ॑णोतु॒ यद॒हं ब्रवी॑मि ॥४५॥  
+Blazing with light his majesty hath compassed ocean and earth and heaven and air's mid-region. May he, all-seeing, well-disposed and holy, give ear and listen to the word I utter.

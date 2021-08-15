@@ -2,5 +2,4 @@
 title = "०१ नक्तंजातास्योषधे रामे"
 
 +++
-न॒क्तं॒जा॒तास्यो॑षधे॒ रामे॒ कृष्णे॒ असि॑क्नि च ।  
-इ॒दं र॑जनि रजय कि॒लासं॑ पलि॒तं च॒ यत्॥१॥  
+O Plant, thou sprangest up at night, dusky, dark-coloured, black in hue! So, Rajani, re-colour thou these ashy spots, this leprosy.

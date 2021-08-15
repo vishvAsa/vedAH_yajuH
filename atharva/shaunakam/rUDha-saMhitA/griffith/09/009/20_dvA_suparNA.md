@@ -2,5 +2,4 @@
 title = "२० द्वा सुपर्णा"
 
 +++
-द्वा सु॑प॒र्णा स॒युजा॒ सखा॑या समा॒नं वृ॒क्षं परि॑ षस्वजाते ।  
-तयो॑र॒न्यः पिप्प॑लं स्वा॒द्वत्त्यन॑श्नन्न॒न्यो अ॒भि चा॑कशीति ॥२०॥  
+Two Birds with fair wings, knit with bonds of friendship, in the same sheltering tree have found a refuge, One of the twain eats the sweet Fig-tree's berry: the other, eat- ing not, regardeth only.

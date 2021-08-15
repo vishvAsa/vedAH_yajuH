@@ -2,5 +2,4 @@
 title = "०३ यथा वृत्र"
 
 +++
-यथा॑ वृ॒त्र इ॒मा आप॑स्त॒स्तम्भ॑ वि॒श्वधा॑ य॒तीः ।  
-ए॒वा ते॑ अ॒ग्निना॒ यक्ष्मं॑ वैश्वान॒रेण॑ वारये ॥३॥
+Even as Vritra checked and stayed these waters flowing every way, With Agni, God of all mankind. I check and banish thy Decline.

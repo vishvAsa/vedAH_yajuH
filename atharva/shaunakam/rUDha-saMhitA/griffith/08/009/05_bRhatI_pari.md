@@ -2,5 +2,4 @@
 title = "०५ बृहती परि"
 
 +++
-बृ॒ह॒ती परि॑ मात्रा॑या मा॒तुर्मात्राधि॒ निर्मि॑ता ।  
-मा॒या ह॑ जज्ञे मा॒याया॑ मा॒याया॒ मातली॒ परि॑ ॥५॥  
+On measure Brihati is based, and measure on the measurer: From magic might came magic might, from magic might came Matali.

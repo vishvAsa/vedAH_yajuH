@@ -2,5 +2,4 @@
 title = "०१ परोऽपेहि मनस्पाप"
 
 +++
-प॒रोऽपे॑हि मनस्पाप॒ किमश॑स्तानि शंससि ।  
-परे॑हि॒ न त्वा॑ कामये वृ॒क्षां वना॑नि॒ सं च॑र गृ॒हेषु॑ गोषु॑ मे॒ मनः॑ ॥१॥  
+Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence away, I love thee not. Go to the forests and the trees. My heart is in our homes and cows.

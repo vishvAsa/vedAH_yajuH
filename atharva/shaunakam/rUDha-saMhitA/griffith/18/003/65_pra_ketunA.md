@@ -2,5 +2,4 @@
 title = "६५ प्र केतुना"
 
 +++
-प्र के॒तुना॑ बृह॒ता भा॑त्य॒ग्निरा रोद॑सी वृष॒भो रो॑रवीति ।  
-दि॒वश्चि॒दन्ता॑दुप॒मामुदा॑नड॒पामु॒पस्थे॑ महि॒षो व॑वर्ध ॥६५॥  
+Agni is shining forth with lofty banner: the Bull is bellowing to earth and heaven. From the sky's limit even hath he stretched near us: the Steer hath waxen in the waters' bosom.

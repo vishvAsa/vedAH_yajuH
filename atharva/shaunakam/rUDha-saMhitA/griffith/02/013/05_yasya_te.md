@@ -2,5 +2,4 @@
 title = "०५ यस्य ते"
 
 +++
-यस्य॑ ते॒ वासः॑ प्रथमवा॒स्यं॑१ हरा॑म॒स्तं त्वा॒ विश्वे॑ऽवन्तु दे॒वाः ।  
-तं त्वा॒ भ्रात॑रः सु॒वृधा॒ वर्ध॑मान॒मनु॑ जातन्तां ब॒हवः॒ सुजा॑तम्॥५॥
+So may the Universal Gods protect thee, whom we divest of raiment worn aforetime. So after thee, well-formed and growing stronger, be born a multitude of thriving brothers.

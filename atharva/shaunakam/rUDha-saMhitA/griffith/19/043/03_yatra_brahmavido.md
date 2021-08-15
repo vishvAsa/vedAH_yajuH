@@ -2,5 +2,4 @@
 title = "०३ यत्र ब्रह्मविदो"
 
 +++
-यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-सूर्यो॑ मा॒ तत्र॑ नयतु॒ चक्षुः॒ सूर्यो॑ दधातु मे । सूर्या॑य॒ स्वाहा॑ ॥३॥  
+Whither, etc. Thither let Surya lead me, let Surya vouchsafe me power of sight. All hail to Surya

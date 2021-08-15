@@ -2,5 +2,4 @@
 title = "२० सर्वान् देवानिदं"
 
 +++
-सर्वा॑न् दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑ ।  
-सर्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥२०॥  
+We speak to the collected Gods, faithful, maintainers of the Right. Present with their collective Dames: may these deliver us from woe.

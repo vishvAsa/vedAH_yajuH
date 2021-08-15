@@ -2,5 +2,4 @@
 title = "०३ यच्चक्षुषा मनसा"
 
 +++
-यच्चक्षु॑षा॒ मन॑सा॒ यच्च॑ वा॒चोपा॑रि॒म जाग्र॑तो॒ यत् स्व॒पन्तः॑ ।  
-सोम॒स्तानि॑ स्व॒धया॑ नः पुनातु ॥३॥
+From every fault in look, in word, in spirit that we, awake or sleeping, have committed, May Soma, with his godlike nature, cleanse us.

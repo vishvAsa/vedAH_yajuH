@@ -2,5 +2,4 @@
 title = "०१ पुनर्मैत्विन्द्रियं पुनरात्मा"
 
 +++
-पुन॒र्मैत्वि॑न्द्रि॒यं पुन॑रा॒त्मा द्रवि॑णं॒ ब्राह्म॑णं च ।  
-पुन॑र॒ग्नयो॒ धिष्ण्या॑ यथास्था॒म क॑ल्पयन्तामि॒हैव॥१॥
+May sense return to me again, and spirit, return my Sacred Power and my possessions! Again let fires, aflame on lesser altars, each duly stationed, here succeed and prosper.

@@ -2,5 +2,4 @@
 title = "०१ देवा इमं"
 
 +++
-दे॒वा इ॒मं मधु॑ना॒ संयु॑तं॒ यवं॒ सर॑स्वत्या॒मधि॑ म॒णाव॑चर्कृषुः ।  
-इन्द्र॑ आसी॒त् सीर॑पतिः श॒तक्र॑तुः की॒नाशा॑ आसन् म॒रुतः॑ सु॒दान॑वः ॥१॥  
+Over a magic stone, beside Sarasvati, the Gods Ploughed in this barley that was blent with mead. Lord of the plough was Indra, strong with hundred powers: the ploughers were the Maruts they who give rich gifts.

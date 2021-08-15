@@ -2,5 +2,4 @@
 title = "२९ अस्थि कृत्वा"
 
 +++
-अस्थि॑ कृ॒त्वा स॒मिधं॒ तद॒ष्टापो॑ असादयन्।  
-रेतः॑ कृ॒त्वाज्यं॑ दे॒वाः पुरु॑ष॒मावि॑शन्॥२९॥  
+Fuel they turned to bone, and then they set light waters in the frame. The molten butter they made seed: then the Gods entered into man.

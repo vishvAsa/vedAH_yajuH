@@ -2,5 +2,4 @@
 title = "१८ शिवौ ते"
 
 +++
-शि॒वौ ते॑ स्तां व्रीहिय॒वाव॑बला॒साव॑दोम॒धौ।  
-ए॒तौ यक्ष्मं॒ वि बा॑धेते ए॒तौ मु॑ञ्चतो॒ अंहसः ॥१८॥  
+Auspicious unto thee be rice and barley, causing no painful sick- ness or consumption, these deliver from calamity.

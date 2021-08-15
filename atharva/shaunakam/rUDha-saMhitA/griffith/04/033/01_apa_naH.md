@@ -2,5 +2,4 @@
 title = "०१ अप नः"
 
 +++
-अप॑ नः॒ शोशु॑चद॒घमग्ने॑ शुशु॒ग्ध्या र॒यिम्।  
-अप॑ नः॒ शोशु॑चद॒घम्॥१॥  
+Chasing our pain with splendid light, O Agni, shine thou wealth on us. His lustre flash our pain away.

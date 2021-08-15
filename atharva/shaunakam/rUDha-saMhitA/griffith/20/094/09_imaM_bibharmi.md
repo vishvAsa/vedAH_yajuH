@@ -2,5 +2,4 @@
 title = "०९ इमं बिभर्मि"
 
 +++
-इ॒मं बि॑भर्मि॒ सुकृ॑तं ते अङ्कु॒शं येना॑रु॒जासि॑ मघवं छफा॒रुजः॑ ।  
-अ॒स्मिन्त्सु ते॒ सव॑ने अस्त्वो॒क्त्यं सु॒त इ॒ष्टौ म॑घवन् बो॒ध्याभ॑गः ॥९॥  
+I bear this deftly-fashioned goad of thine wherewith thou, Maghavan, shalt break the strikers with the hoof. At the libation mayst thou be well satisfied. Partake the juice, partake the banquet, Bounteous Lord.

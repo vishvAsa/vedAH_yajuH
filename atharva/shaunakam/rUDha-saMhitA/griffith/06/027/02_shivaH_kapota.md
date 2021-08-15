@@ -2,5 +2,4 @@
 title = "०२ शिवः कपोत"
 
 +++
-शि॒वः क॒पोत॒ इषि॒तो नो॑ अस्त्वना॒गा दे॑वाः शकु॒नो गृ॒हं नः॑ ।  
-अ॒ग्निर्हि विप्रो॑ जु॒षतां॑ ह॒विर्नः॒ परि॑ हे॒तिः प॒क्षिणी॑ नो वृणक्तु ॥२॥  
+Auspicious be the Dove that hath been sent us, a harmless bird, O Gods, that seeks our dwelling! May Agni, Sage, be pleased with our oblation, and may the missile borne on wings avoid us.

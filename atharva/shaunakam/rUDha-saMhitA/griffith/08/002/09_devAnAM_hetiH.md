@@ -2,5 +2,4 @@
 title = "०९ देवानां हेतिः"
 
 +++
-दे॒वानां॑ हे॒तिः परि॑ त्वा वृणक्तु पा॒रया॑मि त्वा॒ रज॑स॒ उ॑त् त्वा॑ मृ॒त्योर॑पीपरम्।  
-आ॒राद॒ग्निं क्र॒व्यादं॑ नि॒रूहं॑ जी॒वात॑वे ते परि॒धिं द॑धामि ॥९॥  
+May the Gods' missile pass thee by. I bring thee safe from the mist: from death have I preserved thee. Far have I banished flesh-consuming Agni: I place a rampart for thy life's protection.

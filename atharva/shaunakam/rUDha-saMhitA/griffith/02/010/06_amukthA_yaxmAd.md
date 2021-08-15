@@ -2,6 +2,4 @@
 title = "०६ अमुक्था यक्ष्माद्"
 
 +++
-अमु॑क्था॒ यक्ष्मा॑द् दुरि॒ताद॑व॒द्याद् द्रु॒हः पाशा॒द् ग्राह्या॒श्चोद॑मुक्थाः ।  
-ए॒वाहं त्वां क्षे॑त्रि॒यान्निरृ॑त्या जामिशं॒साद् द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥६॥  
+Thou hast been freed from Phthisis and from trouble, from shame, and from the snare of Druh and Grain. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.

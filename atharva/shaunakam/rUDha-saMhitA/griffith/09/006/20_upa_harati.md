@@ -2,4 +2,4 @@
 title = "२० उप हरति"
 
 +++
-उप॑ हरति ह॒वींष्या सा॑दयति ।३। २०॥  
+He brings oblations: he makes the men sit down.

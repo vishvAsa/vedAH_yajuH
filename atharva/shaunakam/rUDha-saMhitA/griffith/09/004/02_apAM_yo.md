@@ -2,5 +2,4 @@
 title = "०२ अपां यो"
 
 +++
-अ॒पां यो अग्ने॑ प्रति॒मा ब॒भूव॑ प्र॒भूः सर्व॑स्मै पृथि॒वीव॑ दे॒वी।  
-पि॒ता व॒त्सानां॒ पति॑र॒घ्न्यानां॑ साह॒स्रे पोषे॒ अपि॑ नः कृणोतु ॥२॥  
+He who at first became the Waters' model, a match for everyone, like Earth the Goddess; The husband of the cows, the young calves' father, may be secure us thousandfold abundance.

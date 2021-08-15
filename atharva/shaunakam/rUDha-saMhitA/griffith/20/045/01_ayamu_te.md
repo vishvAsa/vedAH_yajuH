@@ -2,4 +2,4 @@
 title = "०१ अयमु ते"
 
 +++
-अ॒यमु॑ ते॒ सम॑तसि क॒पोत॑ इव गर्भ॒धिम्। वच॒स्तच्चि॑न्न ओहसे ॥१॥  
+This is thine own. Thou drawest near, as the dove turneth to his mate. Thou carest too for this our prayer.

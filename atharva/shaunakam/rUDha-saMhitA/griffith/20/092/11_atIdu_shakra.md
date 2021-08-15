@@ -2,5 +2,4 @@
 title = "११ अतीदु शक्र"
 
 +++
-अतीदु॑ श॒क्र ओ॑हत॒ इन्द्रो॒ विश्वा॒ अति॒ द्विषः॑ ।  
-भि॒नत् क॒नीन॑ ओद॒नं प॒च्यमा॑नं प॒रो गि॒रा॥११॥  
+Indra, the very mighty, holds his enemies in utter scorn. He, far away, and yet a child, cleft the cloud smitten by his voice.

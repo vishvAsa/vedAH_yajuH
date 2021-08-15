@@ -2,6 +2,4 @@
 title = "१७ ततस्ततामहास्ते मावन्तु"
 
 +++
-तत॑स्तताम॒हास्ते मा॑वन्तु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑तिष्ठाया॑मस्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥१७॥
+Next may the Fathers of our fathers save me, in this my prayer,. in this mine act, in this my sacerdotal charge, in this perfor- mance, in this thought, in this my plan and wish, in this my calling on the Gods! All hail!

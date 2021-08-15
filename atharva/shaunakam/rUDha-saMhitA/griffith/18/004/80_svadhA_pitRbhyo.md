@@ -2,4 +2,4 @@
 title = "८० स्वधा पितृभ्यो"
 
 +++
-स्व॒धा पि॒तृभ्यो॑ दिवि॒षद्भ्यः॑ ॥८०॥  
+Hail to the Fathers who dwell in heaven!

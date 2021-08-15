@@ -2,5 +2,4 @@
 title = "०३ कदू न्व१स्याकृतमिन्द्रस्यास्ति"
 
 +++
-कदू॒ न्व॑१स्याकृ॑त॒मिन्द्र॑स्यास्ति॒ पौंस्य॑म्।  
-केनो॒ नु कं॒ श्रोम॑तेन॒ न शु॑श्रुवे ज॒नुषः॒ परि॑ वृत्र॒हा॥३॥
+What manly deed of vigour now remains that Indra hath not done? Who hath not heard his glorious title and his fame, the Vritra- slayer from his birth?

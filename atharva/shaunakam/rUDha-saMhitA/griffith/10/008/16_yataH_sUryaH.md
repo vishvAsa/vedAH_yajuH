@@ -2,5 +2,4 @@
 title = "१६ यतः सूर्यः"
 
 +++
-यतः॒ सूर्यः॑ उ॒देत्यस्तं॒ यत्र॑ च॒ गच्छ॑ति ।  
-तदे॒व म॑न्ये॒ऽहं ज्ये॒ष्ठं तदु॒ नात्ये॑ति॒ किं च॒न॥१६॥  
+That, whence the Sun arises, that whither he goes to take his rest, That verily I hold supreme: naught in the world surpasses it.

@@ -2,5 +2,4 @@
 title = "०२ सुहवमग्ने कृत्तिका"
 
 +++
-सु॒हव॑मग्ने॒ कृत्ति॑का॒ रोहि॑णी॒ चास्तु॑ भ॒द्रं मृ॒गशि॑रः॒ शमा॒र्द्रा।  
-पुन॑र्वसू सू॒नृता॒ चारु॒ पुष्यो॑ भा॒नुरा॑श्ले॒षा अय॑नं म॒घा मे ॥२॥  
+Krittikas, Rohini be swift to hear me! Let Mrigasiras bless me, help me Ardra! Punarvasu and Sunrita, fair Pushya, the Sun, Asleshas, Magha lead me onward!

@@ -2,5 +2,4 @@
 title = "०५ क्रूरमस्या आशसनं"
 
 +++
-क्रू॒रम॑स्या आ॒शस॑नं तृ॒ष्टं पि॑शि॒तम॑स्यते ।  
-क्षी॒रं यद॑स्याः पी॒यते॒ तद् वै पि॒तृषु॒ किल्बि॑षम्॥५॥  
+Terrible is her cutting-up: her bitter flesh is cast away, And it is counted sin among the Fathers if her milk is drunk.

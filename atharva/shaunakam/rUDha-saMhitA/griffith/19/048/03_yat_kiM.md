@@ -2,5 +2,4 @@
 title = "०३ यत् किं"
 
 +++
-यत् किं चे॒दं प॒तय॑ति यत् किं चे॒दं स॑रीसृ॒पम्।  
-यत् किं च॒ पर्व॑ताया॒सत्वं॒ तस्मा॒त् त्वं रा॑त्रि पाहि नः ॥३॥  
+Whatever flying thing be here, whatever thing that creeps and. crawls. Whatever fastens on a joint, therefrom do thou protect us, Night.

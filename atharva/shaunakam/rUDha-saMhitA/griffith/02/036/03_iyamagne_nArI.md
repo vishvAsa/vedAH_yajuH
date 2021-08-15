@@ -2,5 +2,4 @@
 title = "०३ इयमग्ने नारी"
 
 +++
-इ॒यम॑ग्ने॒ नारी॒ पतिं॑ विदेष्ट॒ सोमो॒ हि राजा॑ सु॒भगां॑ कृ॒णोति॑ ।  
-सुवा॑ना पु॒त्रान् महि॑षी भवाति ग॒त्वा पतिं॑ सु॒भगा॒ वि रा॑जतु ॥३॥  
+O Agni, may this woman find a husband. Then verily King Soma makes her happy. May she bear sons, chief lady of the household, blessed and bearing rule beside her consort.

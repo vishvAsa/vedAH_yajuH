@@ -2,5 +2,4 @@
 title = "०७ पश्चात् प्राञ्च"
 
 +++
-प॒श्चात् प्राञ्च॒ आ त॑न्वन्ति॒ यदु॒देति॒ वि भा॑सति ।  
-र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥७॥  
+From west to east they bend their way: when he mounts up he shines afar.

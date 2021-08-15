@@ -2,5 +2,4 @@
 title = "०६ को अद्य"
 
 +++
-को अ॒द्य यु॑ङ्क्ते धु॒रि गा ऋ॒तस्य॒ शिमी॑वतो भा॒मिनो॑ दुर्हृणा॒यून्।
-आ॒सन्नि॑षून् हृ॒त्स्वसो॑ मयो॒भून् य ए॑षां भृ॒त्यामृ॒णध॒त् स जी॑वात्॥६॥
+Who yokes to-day unto the pole of Order the strong and passio- nate steers of checkless spirit, With shaft-armed mouths, heart-piercing, joy-bestowing? Long shall he live who duly pays them service.

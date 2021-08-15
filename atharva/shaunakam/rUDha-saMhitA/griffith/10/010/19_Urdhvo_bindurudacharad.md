@@ -2,5 +2,4 @@
 title = "१९ ऊर्ध्वो बिन्दुरुदचरद्"
 
 +++
-ऊ॒र्ध्वो बि॒न्दुरुद॑चर॒द् ब्रह्म॑णः॒ ककु॑दा॒दधि॑ ।  
-तत॒स्त्वं ज॑ज्ञिषे वशे॒ ततो॒ होता॑जायत ॥१९॥  
+From Brahma's summit there went forth a drop that mounted up on high: From that wast thou produced, O Cow, from that the Hotar sprang to life.

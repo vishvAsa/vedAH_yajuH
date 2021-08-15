@@ -2,5 +2,4 @@
 title = "०८ सत्रासाहं वरेण्यं"
 
 +++
-स॒त्रा॒साहं॒ वरे॑ण्यं सहो॒दां स॑स॒वांसं॒ स्वर॒पश्च॑ दे॒वीः ।  
-स॒सान॒ यः पृ॑थि॒वीं द्यामु॒तेमामिन्द्रं॑ मद॒न्त्यनु॒ धीर॑णासः ॥८॥  
+Excellent, conqueror, the victory-giver, the winner of the light and godlike waters, He who hath won this broad earth and this heaven,--in Indra they rejoice who love devotions.

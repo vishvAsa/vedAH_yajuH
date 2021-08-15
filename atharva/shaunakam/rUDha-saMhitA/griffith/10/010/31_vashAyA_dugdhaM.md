@@ -2,5 +2,4 @@
 title = "३१ वशाया दुग्धं"
 
 +++
-व॒शाया॑ दु॒ग्धं पी॒त्वा सा॒ध्या वस॑वश्च॒ ये ।  
-ते वै ब्र॒ध्नस्य॑ वि॒ष्टपि॑ पयो॑ अस्या॒ उपा॑सते ॥३१॥  
+When these, Sadhyas and Vasus, have drunk the out-pourings of the Cow, They in the Bright One's dwelling-place pay adoration to her milk.

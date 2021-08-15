@@ -2,5 +2,4 @@
 title = "०१ इदं जनासो"
 
 +++
-इ॒दं ज॑नासो वि॒दथ॑ म॒हद् ब्रह्म॑ वदिष्यति ।  
-न तत् पृ॑थिव्यां नो दि॒वि येन॑ प्रा॒णन्ति॑ वी॒रुधः॑ ॥१॥  
+Ye people, hear and mark this well: he will pronounce a mighty prayer: That which gives breathing to the Plants is not on earth nor in, the heaven.

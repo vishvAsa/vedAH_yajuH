@@ -2,5 +2,4 @@
 title = "०१ आशानामाशापालेभ्यश्चतुर्भ्यो अमृतेभ्यः"
 
 +++
-आशा॑नामाशापा॒लेभ्य॑श्च॒तुर्भ्यो॑ अ॒मृते॑भ्यः ।  
-इ॒दं भू॒तस्याध्य॑क्षेभ्यो वि॒धेम॑ ह॒विषा॑ व॒यम्॥१॥  
+Here will we serve with sacrifice the great Controllers of the world, The four immortal Warders who protect the regions of the sky.

@@ -2,5 +2,4 @@
 title = "०१ अयमा यात्यर्यमा"
 
 +++
-अ॒यमा या॑त्यर्य॒मा पु॒रस्ता॒द् विषि॑तस्तुपः ।  
-अ॒स्या इ॒चछन्न॒ग्रुवै॒ पति॑मु॒त जा॒याम॒जान॑ये ॥१॥  
+With forelock loosened o'er his brow here comes the wooer of the bride, Seeking a husband for this maid, a wife for this unmarried man.

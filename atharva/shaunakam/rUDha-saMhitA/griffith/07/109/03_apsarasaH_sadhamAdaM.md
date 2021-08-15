@@ -2,5 +2,4 @@
 title = "०३ अप्सरसः सधमादं"
 
 +++
-अ॒प्स॒रसः॑ सध॒मादं॑ मदन्ति हवि॒र्धान॑मन्त॒रा सूर्यं॑ च ।  
-ता मे॒ हस्तौ॒ सं सृ॑जन्तु घृ॒तेन॑ स॒पत्नं॑ मे कित॒वं र॑न्धयन्तु ॥३॥  
+The Apsarases take pleasure in the banquet between the Sun and. the libation-holder. With butter let them fill my hands, and give me, to be my prey, the man who plays against me.

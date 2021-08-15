@@ -2,5 +2,4 @@
 title = "०६ असौ या"
 
 +++
-अ॒सौ या सेना॑ मरुतः॒ परे॑षाम॒स्मा॑नैत्य॒भ्योज॑सा॒ स्पर्ध॑माना ।  
-तां वि॑ध्यत॒ तम॒साप॑व्रतेन॒ यथै॑षाम॒न्यो अ॒न्यं न जा॒नात्॥६॥
+That army of our enemies, O Maruts, that comes against us with' its might, contending-- Meet ye and strike it with unwelcome darkness so that not one. of them may know another.

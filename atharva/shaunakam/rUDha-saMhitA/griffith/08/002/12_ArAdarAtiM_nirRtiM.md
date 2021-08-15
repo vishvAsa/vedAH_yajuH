@@ -2,5 +2,4 @@
 title = "१२ आरादरातिं निरृतिं"
 
 +++
-आ॒रादरा॑तिं॒ निरृ॑तिं प॒रो ग्राहिं॑ क्र॒व्यादः॑ पिशा॒चान्।  
-रक्षो॒ यत् सर्वं॑ दुर्भू॒तं तत् तम॑ इ॒वाप॑ हन्मसि ॥१२॥  
+Far off we drive Malignity, Destruction, Pisachas banqueters on flesh, and Grahi. And all the demon kind, the brood of sin, like darkness, we dispel.

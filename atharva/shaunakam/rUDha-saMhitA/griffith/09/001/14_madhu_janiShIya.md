@@ -2,5 +2,4 @@
 title = "१४ मधु जनिषीय"
 
 +++
-मधु॑ जनिषीय॒ मधु॑ वंसिषीय ।  
-पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥१४॥  
+Fain would I bring forth sweetness, fain would make it mine. Bringing milk, Agni! have I come: splendour and strength bestow on me!

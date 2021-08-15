@@ -2,4 +2,4 @@
 title = "०५ एतं पृच्छ"
 
 +++
-ए॒तं पृ॑च्छ॒ कुहं॑ पृच्छ ॥५॥  
+A hundred golden steeds hath he, a hundred chariots wrought of gold.

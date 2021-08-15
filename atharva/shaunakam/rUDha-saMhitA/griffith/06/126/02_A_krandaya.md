@@ -2,5 +2,4 @@
 title = "०२ आ क्रन्दय"
 
 +++
-आ क्र॑न्दय॒ बल॒मोजो॑ न॒ आ धा॑ अ॒भि ष्ट॑न दुरि॒ता बाध॑मानः ।  
-अप॑ सेध दुन्दुभे दु॒च्छुना॑मि॒त इन्द्र॑स्य मु॒ष्टिर॑सि वी॒डय॑स्व ॥२॥  
+Thunder out strength and fill us full of vigour, yea, thunder forth and drive away misfortunes. Drive hence, O Drum, drive thou away mischances. Thou art the fist of Indra, show thy firmness.

@@ -2,4 +2,4 @@
 title = "०१ महाँ इन्द्रो"
 
 +++
-म॒हाँ इन्द्रो॒ य ओज॑सा प॒र्जन्यो॑ वृष्टि॒माँ इ॑व । स्तोमै॑र्व॒त्सस्य॑ वावृधे ॥१॥  
+Indra, great in his power and might and, like Parjanya, rich in rain, Is magnified by Vatsa's lauds,

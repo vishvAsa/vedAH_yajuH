@@ -2,5 +2,4 @@
 title = "३० देवो देवान्"
 
 +++
-दे॒वो दे॒वान् प॑रि॒भूरृ॒तेन॒ वहा॑ नो ह॒व्यं प्र॑थ॒मश्चि॑कि॒त्वान्।
-धू॒मके॑तुः स॒मिधा॒ भाऋ॑जीको म॒न्द्रो होता॒ नित्यो॑ वा॒चा यजी॑यान्॥३०॥
+As God comprising Gods by Law eternal, bear, as the chief who knoweth, our oblation, Smoke-bannered with the fuel, radiant, joyous, better to praise and worship, Priest for ever.

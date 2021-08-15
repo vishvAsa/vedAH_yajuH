@@ -2,5 +2,4 @@
 title = "०८ संयतं न"
 
 +++
-संय॑तं॒ न वि ष्प॑र॒द् व्यात्तं॒ न सं य॑मत्।  
-अ॒स्मिन् क्षेत्रे॒ द्वावही॒ स्त्री च॒ पुमां॑श्च॒ तावु॒भाव॑र॒सा॥८॥  
+Let him not close the opened mouth, nor open that which now is closed. Two snakes are in this field, and both, female and male, are powerless.

@@ -2,5 +2,4 @@
 title = "१० शं नो"
 
 +++
-शं नो॒ ग्रहा॑श्चान्द्रम॒साः शमा॑दि॒त्यश्च॑ राहु॒णा।  
-शं नो॑ मृ॒त्युर्धू॒मके॑तुः॒ शं रु॒द्रास्ति॒ग्मते॑जसः ॥१०॥  
+Kind be the Powers who seize the Moon, with Rahu be Adityas kind! Favour us Death and Cornet, and Rudras with penetrating. might!

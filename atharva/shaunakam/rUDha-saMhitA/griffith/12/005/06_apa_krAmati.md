@@ -2,4 +2,4 @@
 title = "०६ अप क्रामति"
 
 +++
-अप॑ क्रामति सू॒नृता॑ वी॒र्यं॑१ पुण्या॑ ल॒क्ष्मीः ॥६॥  
+The glory, the heroism, and the favouring fortune depart.

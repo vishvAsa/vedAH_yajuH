@@ -2,5 +2,4 @@
 title = "०७ विश्वकर्मा मा"
 
 +++
-वि॒श्वक॑र्मा मा सप्तऋ॒षिभि॒रुदी॑च्या दि॒शः पा॑तु॒ तस्मि॑न् क्रमे॒ तस्मिं॑छ्रये॒ तां पुरं॒ प्रैमि॑ ।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॑ परि॑ ददे॒ स्वाहा॑ ॥७॥  
+May Visvakarman with the Seven Rishis be my protector from the northern region. To him, etc.

@@ -2,5 +2,4 @@
 title = "१४ नास्य क्षत्ता"
 
 +++
-नास्य॑ क्ष॒त्ता नि॒ष्कग्री॑वः सू॒नाना॑मेत्यग्र॒तः ।  
-यस्मि॑न् रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥१४॥  
+No steward, golden-necklaced, goes before the meat-trays of the man. Within whose kingdom is detained, through want of sense, a Brahman's dame.

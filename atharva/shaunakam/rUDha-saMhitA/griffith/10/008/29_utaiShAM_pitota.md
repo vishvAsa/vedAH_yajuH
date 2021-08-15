@@ -2,5 +2,4 @@
 title = "२९ उतैषां पितोत"
 
 +++
-उ॒तैषां॑ पि॒तोत वा॑ पु॒त्र ए॑षामु॒तैषां॑ ज्ये॒ष्ठ उ॒त वा॑ कनि॒ष्ठः ।  
-एको॑ ह दे॒वो मन॑सि॒ प्रवि॑ष्टः प्रथ॒मो जा॒तः स उ॒ गर्भे॑ अ॒न्तः ॥२८॥  
+Forth from the full he lifts the full, the full he sprinkles with the full. Now also may we know the source from which the stream is sprinkled round.

@@ -2,5 +2,4 @@
 title = "०४ यद् वो"
 
 +++
-यद् वो॒ मनः॒ परा॑गतं॒ यद् ब॒द्धमि॒ह वे॒ह वा॑ ।  
-तद् व॒ आ व॑र्तयामसि॒ मयि॑ वो रमतां॒ मनः॑ ॥४॥
+Whether your thoughts are turned away, or bound and fastened here or there, We draw them hitherward again: let your mind firmly rest on me.

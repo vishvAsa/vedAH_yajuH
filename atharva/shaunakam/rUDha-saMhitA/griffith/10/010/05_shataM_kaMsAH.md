@@ -2,5 +2,4 @@
 title = "०५ शतं कंसाः"
 
 +++
-श॒तं कं॒साः श॒तं दो॒ग्धारः॑ श॒तं गो॒प्तारो॒ अधि॑ पृ॒ष्ठे अ॑स्याः ।  
-ये दे॒वास्तस्यां॑ प्रा॒णन्ति॒ ते व॒शां वि॑दुरेक॒धा॥५॥  
+Upon her back there are a hundred keepers, a hundred metal bowls, a hundred milkers. The Deities who breathe in her all separately know the Cow.

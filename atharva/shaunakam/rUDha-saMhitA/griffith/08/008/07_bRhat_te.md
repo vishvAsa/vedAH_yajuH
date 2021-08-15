@@ -2,5 +2,4 @@
 title = "०७ बृहत् ते"
 
 +++
-बृ॒हत् ते॒ जालं॑ बृह॒त इ॑न्द्र शूर सहस्रा॒र्घस्य॑ श॒तवी॑र्यस्य ।  
-तेन॑ श॒तं स॒हस्र॑म॒युतं॒ न्यऽर्बुदं ज॒घान॑ श॒क्रो दस्यू॑नामभि॒धाय॒ सेन॑या ॥७॥  
+Great is thy net, brave Indra, thine the mighty match for a thousand, Lord of Hundred Powers! Holding them, with his host, therewith hath Indra slaughtered Dasyus a hundred, thousand, myriad, hundred millions.

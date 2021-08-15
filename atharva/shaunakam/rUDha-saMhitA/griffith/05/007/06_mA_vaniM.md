@@ -2,5 +2,4 @@
 title = "०६ मा वनिं"
 
 +++
-मा व॒निं मा वाचं॑ नो॒ वीर्त्सी॑रु॒भावि॑न्द्रा॒ग्नी आ भ॑रतां नो॒ वसू॑नि ।  
-सर्वे॑ नो अ॒द्य दित्स॒न्तोऽरा॑तिं॒ प्रति॑ हर्यत ॥६॥  
+Do not thou make our words or wishes fruitless. Let the twain Indra Agni, bring us treasures. All, fain to-day to give us gifts, welcome Arati with your love.

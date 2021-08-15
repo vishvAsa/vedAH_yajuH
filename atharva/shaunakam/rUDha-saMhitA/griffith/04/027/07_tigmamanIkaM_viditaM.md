@@ -2,5 +2,4 @@
 title = "०७ तिग्ममनीकं विदितं"
 
 +++
-ति॒ग्ममनी॑कं विदि॒तं सह॑स्व॒न्मारु॑तं॒ शर्धः॒ पृत॑नासू॒ग्रम्।  
-स्तौमि॑ म॒रुतो॑ नाथि॒तो जो॑हवीमि॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥७॥
+Potent in battles is the Maruts' army, impetuous train, well- known, exceeding mighty. I, suppliant, praise and oft invoke the Maruts. May they deliver us from grief and trouble.

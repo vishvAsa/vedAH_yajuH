@@ -2,5 +2,4 @@
 title = "०१ अपो दिव्या"
 
 +++
-अ॒पो दि॒व्या अ॑चायिषं॒ रसे॑न॒ सम॑पृक्ष्महि ।  
-पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥१॥  
+The heavenly Waters have I ranged: we have been sated with their dew. Here, Agni, bearing milk, am I. Endow me with the gift of strength.

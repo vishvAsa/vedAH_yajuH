@@ -2,5 +2,4 @@
 title = "०५ यं स्मा"
 
 +++
-यं स्मा॑ पृ॒च्छन्ति॒ कुह॒ सेति॒ घो॒रमु॒तेमा॑हु॒र्नैषो अ॒स्तीत्ये॑नम्।  
-सो अ॒र्यः पु॒ष्टीर्विज॑ इ॒वा मि॑नाति॒ श्रद॑स्मै धत्त॒ स ज॑नास॒ इन्द्रः॑ ॥५॥  
+Of whom, the terrible, they ask, Where is He? or verily they say of him, He is not. He wastes the foeman's wealth like stakes of gamblers. Have faith in him for He, O men, is Indra.

@@ -2,4 +2,4 @@
 title = "०१ तेनैनं विध्याम्यभूत्यैनं"
 
 +++
-तेनै॑नं विध्या॒म्यभू॑त्यैनं विध्यामि॒ निर्भू॑त्यैनं विध्यामि॒ परा॑भूत्यैनं विध्यामि॒ ग्राह्यै॑नं विध्यामि॒ तम॑सैनं विध्यामि ॥१॥  
+Herewith I pierce this man. With poverty I pierce him. With disappearance I pierce him. With defeat I pierce him. With Grahi I pierce him. With darkness I pierce him.

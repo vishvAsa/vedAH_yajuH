@@ -2,4 +2,4 @@
 title = "०२ अभि हि"
 
 +++
-अ॒भि हि स॑त्य सोमपा उ॒भे ब॒भूथ॒ रोद॑सी । इन्द्रासि॑ सुन्व॒तो वृ॒धः पति॑र्दि॒वः ॥२॥  
+O truthful Soma-drinker, thou art mightier than both the worlds. Thou strengthenest him who pours libation, Lord of heaven.

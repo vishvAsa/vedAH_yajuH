@@ -2,5 +2,4 @@
 title = "१५ यस्त्वा भ्राता"
 
 +++
-यस्त्वा॒ भ्राता॒ पति॑र्भू॒त्वा जा॒रो भू॒त्वा नि॒पद्य॑ते ।  
-प्र॒जां यस्ते॒ जिघां॑सति॒ तमि॒तो ना॑शयामसि ॥१५॥  
+What rests by thee in borrowed form of brother, lover, or of lord, And would destroyed the progeny,--even this will we exter- minate.

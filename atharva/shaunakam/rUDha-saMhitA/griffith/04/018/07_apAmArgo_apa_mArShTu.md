@@ -2,5 +2,4 @@
 title = "०७ अपामार्गोऽप मार्ष्टु"
 
 +++
-अ॒पा॒मा॒र्गोऽप॑ मार्ष्टु क्षेत्रि॒यं श॒पथ॑श्च॒ यः ।  
-अपाह॑ यातुधा॒नीरप॒ सर्वा॒ अरा॒य्यः ॥७॥  
+Let Apamarga sweep away chronic disease and every curse, Sweep sorceresses clean away, and all malignant stingy hags.

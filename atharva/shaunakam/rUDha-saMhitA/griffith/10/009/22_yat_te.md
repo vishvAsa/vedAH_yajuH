@@ -2,5 +2,4 @@
 title = "२२ यत् ते"
 
 +++
-यत् ते॒ पुच्छं॒ ये ते॒ बाला॒ यदूधो॒ ये च॑ ते॒ स्तनाः॑ ।  
-आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥२२॥  
+So let thy tail and all the hairs thereof, thine udder, and thy teats, etc.

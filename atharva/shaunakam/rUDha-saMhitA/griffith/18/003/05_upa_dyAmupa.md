@@ -2,5 +2,4 @@
 title = "०५ उप द्यामुप"
 
 +++
-उप॒ द्यामुप॑ वेत॒समव॑त्तरो न॒दीना॑म्।  
-अग्ने॑ पि॒त्तम॒पाम॑सि ॥५॥  
+The speed of rivers craving heaven and cane, thou, Agni, art the waters' gall.

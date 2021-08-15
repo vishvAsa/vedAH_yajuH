@@ -2,5 +2,4 @@
 title = "०२ अस्मै ग्रामाय"
 
 +++
-अ॒स्मै ग्रामा॑य प्र॒दिश॒श्चत॑स्र॒ ऊर्जं॑ सुभू॒तं स्व॒स्ति स॑वि॒ता नः॑ कृणोतु ।  
-अ॒श॒त्र्विन्द्रो॒ अभ॑यं नः कृणोत्व॒न्यत्र॒ राज्ञा॑म॒भि या॑तु म॒न्युः ॥२॥  
+May the Four Quarters give this hamlet power: Savitar favour us and make us happy! May Indra make us free from foes and danger: may wrath of Kings be turned to other places.

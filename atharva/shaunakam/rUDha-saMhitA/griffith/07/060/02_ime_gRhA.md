@@ -2,5 +2,4 @@
 title = "०२ इमे गृहा"
 
 +++
-इ॒मे गृ॒हा म॑यो॒भुव॒ ऊर्ज॑स्वन्तः॒ पय॑स्वन्तः ।  
-पू॒र्णा वा॒मेन॒ तिष्ठ॑न्त॒स्ते नो॑ जानन्त्वाय॒तः ॥२॥  
+Let these delightful Houses that are rich in power and store of milk, Replete with wealth and standing firm, become aware of our approach.

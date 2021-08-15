@@ -2,5 +2,4 @@
 title = "१६ यः कुमारी"
 
 +++
-यः कु॑मा॒री पि॑ङ्गलि॒का वस॑न्तं पीव॒री ल॑भेत्।  
-तैल॑कुण्ड॒मिमा॑ङ्गु॒ष्ठं रोद॑न्तं शुद॒मुद्ध॑रेत्॥१६॥  
+Quem macrum factum puella flava pinguisque capiat sicut pollicem ex olei cado fossorem ilium extrahat.

@@ -2,5 +2,4 @@
 title = "११ ध्रुवेयं विराण्नमो"
 
 +++
-ध्रु॒वेयं वि॒राण्नमो॑ अस्त्व॒स्यै शि॒वा पु॒त्रेभ्य॑ उ॒त मह्य॑मस्तु ।  
-सा नो॑ देव्यदिते विश्ववार॒ इर्य॑ इव गो॒पा अ॒भि र॑क्ष प॒क्वम्॥११॥  
+This stedfast realm is Queen. To her be homage! To me and to my sons may she be gracious. Guard thou, O Goddess Aditi, all-bounteous, our cooked oblation as an active warder.

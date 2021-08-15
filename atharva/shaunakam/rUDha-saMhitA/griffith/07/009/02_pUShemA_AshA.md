@@ -2,5 +2,4 @@
 title = "०२ पूषेमा आशा"
 
 +++
-पू॒षेमा आशा॒ अनु॑ वेद॒ सर्वाः॑ सो अ॒स्माँ अभ॑यतमेन नेषत्।  
-स्व॒स्ति॒दा आघृ॑णिः॒ सर्व॑वी॒रोऽप्र॑युच्छन् पु॒र ए॑तु प्रजा॒नन्॥२॥  
+Pushan knows all these realms: may he conduct us by ways that are most free from fear and danger. Giver of blessings, glowing, all heroic, may he the wise and watchful go before us.

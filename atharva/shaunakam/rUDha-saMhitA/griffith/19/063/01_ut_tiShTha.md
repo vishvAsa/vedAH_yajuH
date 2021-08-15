@@ -2,5 +2,4 @@
 title = "०१ उत् तिष्ठ"
 
 +++
-उत् ति॑ष्ठ ब्रह्मणस्पते दे॒वान् य॒ज्ञेन॑ बोधय ।  
-आयुः॑ प्रा॒णं प्र॒जां प॒शून् की॒र्तिं यज॑मानं च वर्धय ॥१॥
+Rise up, O Brahmanaspati; awake the Gods with sacrifice. Strengthen the Sacrificer: aid life, breath, and off-spring, cattle, fame.

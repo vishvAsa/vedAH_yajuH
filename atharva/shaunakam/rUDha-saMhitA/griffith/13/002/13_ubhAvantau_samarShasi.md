@@ -2,5 +2,4 @@
 title = "१३ उभावन्तौ समर्षसि"
 
 +++
-उ॒भावन्तौ॒ सम॑र्षसि व॒त्सः सं॑मा॒तरा॑विव ।  
-न॒न्वे॒३तदि॒तः पु॒रा ब्रह्म॑ दे॒वा अ॒मी वि॑दुः ॥१३॥  
+As the Calf both his parents so thou joinest both the distant bounds, Surely the Gods up yonder knew this sacred mystery long ago.

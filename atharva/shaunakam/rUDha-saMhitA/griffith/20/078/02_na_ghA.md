@@ -2,4 +2,4 @@
 title = "०२ न घा"
 
 +++
-न घा॒ वसु॒र्नि य॑मते दा॒नं वाज॑स्य॒ गोम॑तः । यत् सी॒मुप॒ श्रव॒द् गिरः॑ ॥२॥  
+He, excellent, withholdeth not his gift of power and wealth in kine, When he hath listened to our songs.

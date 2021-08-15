@@ -2,5 +2,4 @@
 title = "०१ आदानेन संदानेनामित्राना"
 
 +++
-आ॒दाने॑न सं॒दाने॑ना॒मित्रा॒ना द्या॑मसि ।  
-अ॒पा॒ना ये चै॑षां प्रा॒णा असु॒नासू॒न्त्सम॑च्छिदन्॥१॥  
+We bind our foemen with a bond that binds them close and holds them fast. Their breath and respiration I dissever, and their lives from life.

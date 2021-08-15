@@ -2,5 +2,4 @@
 title = "०२ अनड्वानिन्द्रः स"
 
 +++
-अ॒न॒ड्वानिन्द्रः॒ स प॒शुभ्यो॒ वि च॑ष्टे त्र॒यां छ॒क्रो वि मि॑मीते॒ अध्व॑नः ।  
-भू॒तं भ॑वि॒ष्यद् भुव॑ना॒ दुहा॑नः॒ सर्वा॑ दे॒वानां॑ चरति व्र॒तानि॑ ॥२॥  
+The Bull is Indra o'er the beasts he watches. He, Sakra measures out three several pathways. He, milking out the worlds, the past, the future, discharges all the Gods' eternal duties.

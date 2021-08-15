@@ -2,5 +2,4 @@
 title = "३० मृत्योः पदं"
 
 +++
-मृ॒त्योः प॒दं यो॒पय॑न्त॒ एत॒ द्राघी॑य॒ आयुः॑ प्रत॒रं दधा॑नाः ।  
-आसी॑ना मृ॒त्युं नु॑दता स॒धस्थेऽथ॑ जी॒वासो॑ वि॒दथ॒मा व॑देम ॥३०॥  
+Effecting Mrityu's footstep ye came hither, to further times pro- longing your existence, Seated, drive Mrityu to his proper dwelling: then may we, living, speak to the assembly.

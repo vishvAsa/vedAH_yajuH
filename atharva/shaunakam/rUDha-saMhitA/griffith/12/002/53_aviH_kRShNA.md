@@ -2,5 +2,4 @@
 title = "५३ अविः कृष्णा"
 
 +++
-अविः॑ कृ॒ष्णा भा॑ग॒धेयं पशू॒नां सीसं॑ क्रव्या॒दपि॑ च॒न्द्रं त॑ आहुः ।  
-माषाः॑ पि॒ष्टा भा॑ग॒धेयं॑ ते ह॒व्यम॑रण्या॒न्या गह्व॑रं सचस्व ॥५३॥  
+Among tame beasts the black ewe is thy portion, and the bright lead is thine, they say, Flesh-eater! Mashed beans have been assigned thee for oblation go seek the dark wood and the wildernesses.

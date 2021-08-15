@@ -2,5 +2,4 @@
 title = "७२ ये ते"
 
 +++
-ये ते॒ पूर्वे॒ परा॑गता॒ अप॑रे पि॒तर॑श्च॒ ये।  
-तेभ्यो॑ घृ॒तस्य॑ कु॒ल्यैऽतु श॒तधा॑रा व्युन्द॒ती॥७२॥  
+To these, thy Fathers who have passed away at first and after- ward, Let the full brook of butter run, o'erflowing with a hundred streams.

@@ -2,5 +2,4 @@
 title = "०५ मधोः कशामजनयन्त"
 
 +++
-मधोः॒ कशा॑मजनयन्त दे॒वास्तस्या॒ गर्भो॑ अभवद् वि॒श्वरू॑पः ।  
-तं जा॒तं तरु॑णं पिपर्ति मा॒ता स जा॒तो विश्वा॒ भुव॑ना॒ वि च॑ष्टे ॥५॥  
+The deities begat the Whip of Honey: her embryo assumed all forms and fashions. The mother nourishes that tender infant which at its birth looks on all worlds and beings.

@@ -2,4 +2,4 @@
 title = "०६ न देवेष्वा"
 
 +++
-न दे॒वेष्वा वृ॑श्चते हु॒तम॑स्य भवति ॥६॥  
+He does not act in opposition to the Gods. It becomes his sacrifice.

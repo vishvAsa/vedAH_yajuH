@@ -2,5 +2,4 @@
 title = "०६ यां ते"
 
 +++
-यां ते॑ च॒क्रुः स॒भायां॒ यां च॒क्रुर॑धि॒देव॑ने ।  
-अ॒क्षेषु॑ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥६॥  
+The spell that they have cast upon thy public room thy gambl- ing-board, Spell they have cast upon thy dice, this I strike back again on them.

@@ -2,5 +2,4 @@
 title = "०४ शास इत्था"
 
 +++
-शा॒स इ॒त्था म॒हाँ अ॑स्यमित्रसा॒हो अ॑स्तृ॒तः ।  
-न यस्य॑ ह॒न्यते॒ सखा॒ न जी॒यते॑ क॒दा च॒न॥४॥
+A mighty Ruler thus art thou, unconquered, vanquisher of foes, Even thou whose friend is never slain, whose friend is never over- come.

@@ -2,5 +2,4 @@
 title = "०३ तमीमहे इन्द्रमस्य"
 
 +++
-तमी॑महे॒ इन्द्र॑मस्य रा॒यः पु॑रु॒वीर॑स्य नृ॒वतः॑ पुरु॒क्षोः ।  
-यो अस्कृ॑धोयुर॒जरः॒ स्वऽर्वा॒न् तमा भ॑र हरिवो माद॒यध्यै॑ ॥३॥  
+We seek that Indra to obtain his riches that yield much food, and men, and store of heroes. O Lord of Bay Steeds, bring to make us joyful, celestial wealth abundant, undecaying.

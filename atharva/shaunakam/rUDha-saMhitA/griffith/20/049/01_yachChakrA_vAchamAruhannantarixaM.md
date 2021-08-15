@@ -2,4 +2,4 @@
 title = "०१ यच्छक्रा वाचमारुहन्नन्तरिक्षं"
 
 +++
-यच्छ॒क्रा वाच॒मारु॑हन्न॒न्तरि॑क्षं सिषासथः । सं दे॒वा अ॑मद॒न् वृषा॑ ॥१॥  
+When voices, fain to win mid-air, ascended to the Mighty One, The vigorous God was filled with joy.

@@ -2,5 +2,4 @@
 title = "०१ घृतस्य जूतिः"
 
 +++
-घृ॒तस्य॑ जू॒तिः सम॑ना॒ सदे॑वा संवत्स॒रं ह॒विषा॑ व॒र्धय॑न्ती ।  
-श्रोत्रं॒ चक्षुः॑ प्रा॒णोच्छि॑न्नो नो अ॒स्त्वच्छि॑न्ना व॒यमायु॑षो॒ वर्च॑सः ॥१॥  
+Still equal be the flow of butter ever causing the Year to prosper with oblation. Still be our hearing, sight, and breath uninjured: let us lose nothing of our life and vigour.

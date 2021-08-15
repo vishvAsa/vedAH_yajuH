@@ -2,5 +2,4 @@
 title = "०३ एष इषाय"
 
 +++
-ए॒ष इ॒षाय॑ मामहे श॒तं नि॒ष्कान् दश॒ स्रजः॑ ।  
-त्रीणि॑ श॒तान्यर्व॑तां स॒हस्रा॒ दश॒ गोना॑म्॥३॥  
+A hundred chains of gold, ten wreaths, upon thee Rishi he bestowed, And thrice-a-hundred mettled steeds, ten-times-a-thousand cows he gave.

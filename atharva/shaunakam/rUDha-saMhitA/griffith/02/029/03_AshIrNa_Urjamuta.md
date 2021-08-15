@@ -2,5 +2,4 @@
 title = "०३ आशीर्ण ऊर्जमुत"
 
 +++
-आ॒शीर्ण॒ ऊर्ज॑मु॒त सौ॑प्रजा॒स्त्वं दक्षं॑ धत्तं॒ द्रवि॑णं॒ सचे॑तसौ ।  
-जयं॒ क्षेत्रा॑णि॒ सह॑सा॒यमि॑न्द्र कृण्वा॒नो अ॒न्यानध॑रान्त्स॒पत्ना॑न्॥३॥  
+May this our prayer bring strength and goodly offspring. Give, both of you one-minded, strength and riches. Let him with might win fields and victory, Indra! setting beneath his feet the rest, his rivals.

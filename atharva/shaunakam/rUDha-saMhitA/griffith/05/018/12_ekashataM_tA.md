@@ -2,5 +2,4 @@
 title = "१२ एकशतं ता"
 
 +++
-एक॑शतं॒ ता ज॒नता॒ या भूमि॒र्व्यऽधूनुत ।  
-प्र॒जां हिं॑सि॒त्वा ब्राह्म॑णीमसंभ॒व्यं परा॑भवन्॥१२॥  
+One and a hundred were the folk, those whom the earth shook off from her: When they had wronged the Brahman race they perished incon- ceivably.

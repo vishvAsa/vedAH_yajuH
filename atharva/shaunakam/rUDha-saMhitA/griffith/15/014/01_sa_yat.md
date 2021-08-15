@@ -2,4 +2,4 @@
 title = "०१ स यत्"
 
 +++
-स यत् प्राचीं॒ दिश॒मनु॒ व्यच॑ल॒न्मारु॑तं॒ शर्धो॑ भू॒त्वानु॒व्यचल॒न्मनो॑ऽन्ना॒दं कृ॒त्वा॥१॥  
+He when he went away to the eastern region, went away having become the Marut host, and having made Mind an eater of food. He who hath this knowledge eats food with Mind as food-eater.

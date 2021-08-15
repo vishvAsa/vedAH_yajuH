@@ -2,5 +2,4 @@
 title = "११ सप्तर्षीन् वा"
 
 +++
-स॒प्त॒र्षीन् वा इ॒दं ब्रू॑मो॒ऽपो दे॒वीः प्र॒जाप॑तिम्।  
-पि॒तॄन् य॒मश्रे॑ष्ठान् ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥११॥  
+Or the Seven Rishis we address, Waters divine, Prajapati, Fathers with Yama at their head: may they deliver us from woe.

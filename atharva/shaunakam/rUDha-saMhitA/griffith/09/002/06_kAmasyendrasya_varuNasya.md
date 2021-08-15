@@ -2,5 +2,4 @@
 title = "०६ कामस्येन्द्रस्य वरुणस्य"
 
 +++
-काम॒स्येन्द्र॑स्य॒ वरु॑णस्य॒ राज्ञो॒ विष्णो॒र्बले॑न सवि॒तुः स॒वेन॑ ।  
-अ॒ग्नेर्हो॒त्रेण॒ प्र णु॑दे स॒पत्नां॑छ॒म्बीव॒ नाव॑मुद॒केषु॒ धीरः॑ ॥६॥  
+By Kama's might, King Varuna's and Indra's, by Vishnu's strength, and Savitar's instigation, I chase my foes with sacrifice to Agni, as a deft steersman drives his boat through waters.

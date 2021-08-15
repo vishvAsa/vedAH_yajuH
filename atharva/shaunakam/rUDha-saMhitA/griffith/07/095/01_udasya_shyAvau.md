@@ -2,5 +2,4 @@
 title = "०१ उदस्य श्यावौ"
 
 +++
-उद॑स्य श्या॒वौ वि॑थु॒रौ गृध्रौ॒ द्यामि॑व पेततुः ।  
-उ॒च्छो॒च॒न॒प्र॒शो॒च॒नाव॒स्योच्छोच॑नौ हृ॒दः ॥१॥  
+To heaven, as 'twere, have soared this man's two vultures, staggering, dusky hued. The Parcher and the Drier-up, the pair who parch and dry his heart.

@@ -2,5 +2,4 @@
 title = "०७ येवाषासः कष्कषास"
 
 +++
-येवा॑षासः॒ कष्क॑षास एज॒त्काः शि॑पवित्नु॒काः ।  
-दृ॒ष्टांश्च॑ ह॒न्यतां॑ क्रिमि॑रु॒तादृष्ट॑श्च हन्यताम्॥७॥  
+Slain the Yevasha of the worms, slain too is the Nadaniman. I have reduced them all to dust like vetches with the pounding- stone.

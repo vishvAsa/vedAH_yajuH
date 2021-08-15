@@ -2,5 +2,4 @@
 title = "०२ तिष्ठावरे तिष्ठ"
 
 +++
-तिष्ठा॑वरे॒ तिष्ठ॑ पर उ॒त त्वं ति॑ष्ठ मध्यमे ।  
-क॒नि॒ष्ठि॒का च॒ तिष्ठ॑ति॒ तिष्ठा॒दिद्ध॒मनि॑र्म॒ही॥२॥  
+Stay still, thou upper vein, stay still, thou lower, stay, thou midmost one, The smallest one of all stands still: let the great vessel e'en be still.

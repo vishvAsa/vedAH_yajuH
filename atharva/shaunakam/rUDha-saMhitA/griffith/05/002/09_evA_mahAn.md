@@ -2,5 +2,4 @@
 title = "०९ एवा महान्"
 
 +++
-ए॒वा म॒हान् बृ॒हद्दि॑वो॒ अथ॒र्वावो॑च॒त् स्वां त॒न्व॑१मिन्द्र॑मे॒व।  
-स्वसा॑रौ मात॒रिभ्व॑री अरि॒प्रे हि॒न्वन्ति॑ चैने॒ शव॑सा व॒र्ध॑य॑न्ति च ॥९॥
+Thus hath Brihaddiva, the great Atharvan, spoken to Indra as himself in person. Two sisters free from stain, the Matarivans, with power impel him onward and exalt him.

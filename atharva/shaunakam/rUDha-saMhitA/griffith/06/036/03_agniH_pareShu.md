@@ -2,5 +2,4 @@
 title = "०३ अग्निः परेषु"
 
 +++
-अ॒ग्निः परे॑षु॒ धाम॑सु॒ कामो॑ भू॒तस्य॒ भव्य॑स्य ।  
-स॒म्राडेको॒ वि रा॑जति ॥३॥
+Agni Kama in other homes shines forth the sole imperial Lord of all that is and is to be.

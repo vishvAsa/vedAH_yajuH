@@ -2,5 +2,4 @@
 title = "०१ संशितं म"
 
 +++
-संशि॑तं म इ॒दं ब्रह्म॒ संशि॑तं वी॒र्य॑१ बल॑म्।  
-संशि॑तं क्ष॒त्रम॒जर॑मस्तु जि॒ष्णुर्येषा॒मस्मि॑ पु॒रोहि॑तः ॥१॥  
+Quickened is this my priest rank, quickened is manly strength and force, Quickened be changeless power, whereof I am the conquering President!

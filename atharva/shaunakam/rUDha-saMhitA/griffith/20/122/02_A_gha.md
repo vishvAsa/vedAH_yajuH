@@ -2,4 +2,4 @@
 title = "०२ आ घ"
 
 +++
-आ घ त्वावा॒न् त्मना॒प्त स्तो॒तृभ्यो॑ धृष्णविया॒नः । ऋ॒णोरक्षं॒ न च॒क्र्योः ॥२॥  
+Like thee, thyself, the singers' friend, thou movest as it were, besought, Bold One, the axle of the car.

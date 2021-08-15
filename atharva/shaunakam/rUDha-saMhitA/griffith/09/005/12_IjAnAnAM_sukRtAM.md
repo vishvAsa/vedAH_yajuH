@@ -2,5 +2,4 @@
 title = "१२ ईजानानां सुकृतां"
 
 +++
-ई॒जा॒नानां॑ सु॒कृतां॑ लो॒कमीप्स॒न् पञ्चौ॑दनं ब्र॒ह्मणे॒ऽजं द॑दाति ।  
-स व्याऽप्तिम॒भि लो॒कं ज॑यै॒तं शि॒वो॒३ऽस्मभ्यं॒ प्रति॑गृहीतो अस्तु ॥१२॥  
+Seeking the world of good men who have worshipped, he gives the Goat Panchaudana to the Brahman. Win thou this world as thy complete possession. Auspicious unto us be he, accepted!

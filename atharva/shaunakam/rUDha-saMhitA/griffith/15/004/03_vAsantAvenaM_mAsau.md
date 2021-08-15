@@ -2,4 +2,4 @@
 title = "०३ वासन्तावेनं मासौ"
 
 +++
-वा॒स॒न्तावे॑नं॒ मासौ॒ प्राच्या॑ दि॒शो गो॑पायतो बृ॒हच्च॑ रथंत॒रं चानु॑ तिष्ठतो॒ य ए॒वं वेद॑ ॥३॥  
+They made the two Rain months, his protectors from the western region, and Vairupa and Vairaja superintendents. The two Rain months, etc. as above.

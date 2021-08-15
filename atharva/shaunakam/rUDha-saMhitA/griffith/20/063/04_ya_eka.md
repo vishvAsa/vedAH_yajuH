@@ -2,4 +2,4 @@
 title = "०४ य एक"
 
 +++
-य एक॒ इद् वि॒दय॑ते॒ वसु॒ मर्ता॑य दा॒शुषे॑ । ईशा॑नो॒ अप्र॑तिष्कुत॒ इन्द्रो॑ अ॒ङ्ग॥४॥  
+He who alone bestoweth might on mortal man who offereth gifts, The ruler of resistless power, is Indra, sure.

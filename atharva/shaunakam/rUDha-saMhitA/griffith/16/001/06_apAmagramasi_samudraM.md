@@ -2,4 +2,4 @@
 title = "०६ अपामग्रमसि समुद्रं"
 
 +++
-अ॒पामग्र॑मसि समु॒द्रं वो॒ऽभ्यव॑सृजामि॥६॥  
+Thou art in front of the waters. I let loose your sea.

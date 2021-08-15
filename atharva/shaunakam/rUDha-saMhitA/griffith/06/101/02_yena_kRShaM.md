@@ -2,5 +2,4 @@
 title = "०२ येन कृषं"
 
 +++
-येन॑ कृ॒षं वा॒जय॑न्ति॒ येन॑ हि॒न्वन्त्यातु॑रम्।  
-तेना॒स्य ब्र॑ह्मणस्पते॒ धनु॑रि॒वा ता॑नया॒ पसः॑ ॥२॥  
+Quo debilem stimulant, quo aegrum excitant (homines), hoc, O Brahmanaspatis, hujus penem in arcus modum extende.

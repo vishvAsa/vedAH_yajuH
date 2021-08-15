@@ -2,5 +2,4 @@
 title = "२२ पृथक् सर्वे"
 
 +++
-पृथ॒क् सर्वे॑ प्राजाप॒त्याः प्रा॒णाना॒त्मसु॑ बिभ्रति ।  
-तान्त्सर्वा॒न् ब्रह्म॑ रक्षति ब्रह्मचा॒रिण्याभृ॑तम्॥२२॥  
+All children of Prajapati have breath distinctly in themselves. The Brahma that is stored within the Brahmachari guards them all.

@@ -2,5 +2,4 @@
 title = "१२ ये सूर्यं"
 
 +++
-ये सूर्यं॒ न तिति॑क्षन्त आ॒तप॑न्तम॒मुं दि॒वः ।  
-अ॒राया॑न् बस्तवा॒सिनो॑ दु॒र्गन्धीं॒ल्लोहि॑तास्या॒न् मक॑कान् नाशयामसि ॥१२॥  
+All those who cannot bear the Sun who warms us yonder from the sky, Arayas with the smell of goats, malodorous, with bloody mouths, the Makakas we drive afar.

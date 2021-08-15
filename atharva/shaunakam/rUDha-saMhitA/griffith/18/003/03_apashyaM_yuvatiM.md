@@ -2,5 +2,4 @@
 title = "०३ अपश्यं युवतिं"
 
 +++
-अप॑श्यं युव॒तिं नी॒यमा॑नां जी॒वां मृ॒तेभ्यः॑ परिणी॒यमा॑नाम्।  
-अ॒न्धेन॒ यत् तम॑सा॒ प्रावृ॒तासी॑त् प्रा॒क्तो अपा॑चीमनयं॒ तदे॑नाम्॥३॥  
+I looked and saw the youthful dame escorted, the living to the dead: I saw them, bear her. When she with blinding darkness was enveloped, then did I turn her back and lead her homeward.

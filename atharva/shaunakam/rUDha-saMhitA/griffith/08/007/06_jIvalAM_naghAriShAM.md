@@ -2,5 +2,4 @@
 title = "०६ जीवलां नघारिषां"
 
 +++
-जी॒व॒लां न॑घारि॒षां जी॑व॒न्तीमोष॑धीम॒हम्।  
-अ॒रु॒न्ध॒तीमु॒न्नय॑न्तीं पु॒ष्पां मधु॑मतीमि॒ह हु॑वे॒ऽस्मा अ॑रि॒ष्टता॑तये ॥६॥  
+The living Plant that giveth life, that driveth malady away, Arundhatr, the rescuer, strengthening, rich a sweets I call, to free this man from scath and harm.

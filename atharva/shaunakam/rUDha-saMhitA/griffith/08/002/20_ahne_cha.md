@@ -2,5 +2,4 @@
 title = "२० अह्ने च"
 
 +++
-अह्ने॑ च त्वा॒ रात्र॑ये चो॒भाभ्यां॒ परि॑ दद्मसि ।  
-अ॒राये॑भ्यो जिघ॒त्सुभ्य॑ इ॒मं मे॒ परि॑ रक्षत ॥२०॥  
+We give thee over as a charge to Day and Night, in trust to both. Keep him for me from stingy fiends, from those who fain would feed on him.

@@ -2,5 +2,4 @@
 title = "०६ अहं गृभ्णामि"
 
 +++
-अ॒हं गृ॑भ्णामि॒ मन॑सा॒ मनां॑सि॒ मम॑ चि॒त्तमनु॑ चि॒त्तेभि॒रेत॑ ।  
-मम॒ वशे॑षु॒ हृद॑यानि वः कृणोमि॒ मम॑ या॒तमनु॑वर्त्मान॒ एत॑ ॥६॥
+I with my spirit seize and hold your spirits. Follow with thought and wish my thoughts and wishes. I make your hearts the thralls of my dominion; on me attendant come thy way I guide you.

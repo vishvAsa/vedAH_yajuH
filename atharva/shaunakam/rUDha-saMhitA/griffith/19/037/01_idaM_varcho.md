@@ -2,5 +2,4 @@
 title = "०१ इदं वर्चो"
 
 +++
-इ॒दं वर्चो॑ अ॒ग्निना॑ द॒त्तमाग॒न् भर्गो॒ यशः॒ सह॒ ओजो॒ वयो॒ बल॑म्।  
-त्रय॑स्त्रिंश॒द् यानि॑ च वी॒र्याणि॒ तान्य॒ग्निः प्र द॑दातु मे ॥१॥  
+To me hath come this word given by Agni, fame, force and might, and strength, and life, and lustre. May Agni too bestow on me three-times a hundred manly powers.

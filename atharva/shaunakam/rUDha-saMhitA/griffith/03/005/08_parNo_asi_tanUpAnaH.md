@@ -2,5 +2,4 @@
 title = "०८ पर्णोऽसि तनूपानः"
 
 +++
-प॒र्णोऽसि तनू॒पानः॒ सयो॑निर्वी॒रो वी॒रेण॒ मया॑ ।  
-सं॒व॒त्स॒रस्य॒ तेज॑सा॒ तेन॒ बध्नामि त्वा मणे ॥८॥
+Thou, Parna, art my body's guard, man kin my birth to me a man. With splendour of the circling year I bind thee on me, Amulet!

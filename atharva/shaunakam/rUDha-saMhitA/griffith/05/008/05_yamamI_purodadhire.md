@@ -2,5 +2,4 @@
 title = "०५ यममी पुरोदधिरे"
 
 +++
-यम॒मी पु॑रोदधि॒रे ब्र॒ह्माण॒मप॑भूतये ।  
-इन्द्र॒ स ते॑ अधस्प॒दं तं प्रत्य॑स्यामि मृ॒त्यवे॑ ॥५॥  
+The Brahman whom those yonder have appointed priest, for injury, He, Indra! is beneath thy feet. I cast him to the God of Death.

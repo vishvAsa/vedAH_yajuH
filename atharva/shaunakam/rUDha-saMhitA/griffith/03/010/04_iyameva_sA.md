@@ -2,5 +2,4 @@
 title = "०४ इयमेव सा"
 
 +++
-इ॒यमे॒व सा या प्र॑थ॒मा व्यौच्छ॑दा॒स्वित॑रासु चरति॒ प्रवि॑ष्टा ।  
-म॒हान्तो॑ अस्यां महि॒मानो॑ अ॒न्तर्व॒धूर्जि॑गाय नव॒गज्जनि॑त्री ॥४॥  
+This same is she whose light first dawned upon us: she moves established in the midst of others: Great powers and glories are contained within her: a first-born bride, she conquers and bears children.

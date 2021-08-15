@@ -2,5 +2,4 @@
 title = "०८ अस्मा इदु"
 
 +++
-अ॒स्मा इदु॒ ग्नाश्चि॑द् दे॒वप॑त्नी॒रिन्द्रा॑या॒र्कम॑हि॒हत्य॑ ऊवुः ।  
-परि॒ द्यावा॑पृथि॒वी ज॑भ्र उ॒र्वी नास्य॒ ते म॑हि॒मानं॒ परि॑ ष्टः ॥८॥  
+To him, to Indra when he slew the Dragon, the Dames too, Consorts of the Gods, wove praises. The mighty heaven and earth hath he encompassed: thy great- ness heaven and earth, combined, exceed not.

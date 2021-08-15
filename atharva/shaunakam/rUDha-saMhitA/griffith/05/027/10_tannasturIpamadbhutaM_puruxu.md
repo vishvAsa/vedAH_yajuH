@@ -2,5 +2,4 @@
 title = "१० तन्नस्तुरीपमद्भुतं पुरुक्षु"
 
 +++
-तन्न॑स्तु॒रीप॒मद्भु॑तं पुरु॒क्षु।  
-देव॑ त्वष्टा रा॒यस्पोषं॒ वि ष्य॒ नाभि॑म॒स्य ॥१०॥  
+Three Goddesses upon this grass, be seated, Ida, Sarasvati, Mahi, and Bharati adored with praise.

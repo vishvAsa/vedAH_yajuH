@@ -2,5 +2,4 @@
 title = "०३ परीमं सोममायुषे"
 
 +++
-परी॒मं सोम॒मायु॑षे म॒हे श्रोत्रा॑य धत्तन ।  
-यथै॑नं ज॒रसे॒ नयां ज्योक् क्ष॒त्रेऽधि॑ जागरत् ॥३॥  
+Invest this Soma for long life, invest him for great hearing power. That I may lead him on to eld, that he may watch o'er hearing long.

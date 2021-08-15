@@ -2,5 +2,4 @@
 title = "०१ प्र नभस्व"
 
 +++
-प्र न॑भस्व पृथिवि भि॒न्द्धी॒३दं दि॒व्यं नभः॑ ।  
-उ॒द्नो दि॒व्यस्य॑ नो धात॒रीशा॑नो॒ वि ष्या॒ दृति॑म्॥१॥  
+Burst open, Prithvi, and cleave asunder this celestial cloud. Untie, O Dhatar--for thou canst--the bottle of the breast of heaven.

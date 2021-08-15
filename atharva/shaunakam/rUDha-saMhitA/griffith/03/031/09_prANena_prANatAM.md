@@ -2,5 +2,4 @@
 title = "०९ प्राणेन प्राणतां"
 
 +++
-प्रा॒णेन॑ प्राण॒तां प्राणे॒हैव भ॑व॒ मा मृ॑थाः ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥९॥  
+Die not. Stay here. Breathe with the breath of those who draw the vital air. I free, etc.

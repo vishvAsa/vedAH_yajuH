@@ -2,5 +2,4 @@
 title = "१९ चतुर्होतार आप्रियश्चातुर्मास्यानि"
 
 +++
-चतु॑र्होतार आ॒प्रिय॑श्चातुर्मा॒स्यानि॑ नी॒विदः॑ ।  
-उच्छि॑ष्टे य॒ज्ञाः होत्राः॑ पशुब॒न्धास्तदिष्ट॑यः ॥१९॥  
+And the four Hotars, Apri hymns, the Nivids, and Four- monthly rites, Oblations, sacrifices, and animal offerings, and their forms.

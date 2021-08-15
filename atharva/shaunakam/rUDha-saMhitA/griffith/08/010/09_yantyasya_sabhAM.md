@@ -2,4 +2,4 @@
 title = "०९ यन्त्यस्य सभां"
 
 +++
-यन्त्य॑स्य स॒भां सभ्यो॑ भवति॒ य ए॒वं वेद॑ ॥९॥  
+Of her the Gods and men said, This she knoweth. That we may both have life let us invoke her.

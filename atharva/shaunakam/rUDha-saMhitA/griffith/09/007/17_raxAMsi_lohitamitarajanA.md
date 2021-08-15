@@ -2,4 +2,4 @@
 title = "१७ रक्षांसि लोहितमितरजना"
 
 +++
-रक्षां॑सि॒ लोहि॑तमितरज॒ना ऊब॑ध्यम्॥१७॥  
+Rakshasas are the blood, the Other Folk are the contents of the Stomach.

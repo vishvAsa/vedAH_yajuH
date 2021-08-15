@@ -2,6 +2,4 @@
 title = "०८ मा त्वा"
 
 +++
-मा त्वा॑ दभन्त्सलि॒ले अ॒प्स्व॑१न्तर्ये पा॒शिन॑ उप॒तिष्ठ॒न्त्यत्र॑ ।  
-हि॒त्वाश॑स्तिं॒ दिव॒मारु॑क्ष ए॒तां स नो॑ मृड सुम॒तौ ते॑ स्याम॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽनि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥८॥  
+Let not the fowlers who are standing ready injure thee in the flood, within the waters. Ascend this heaven, leaving each curse behind thee, Favour us: let thy gracious love attend us. Manifold are thy great deeds, thine, O Vishnu.

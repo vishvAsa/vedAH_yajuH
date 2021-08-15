@@ -2,5 +2,4 @@
 title = "३३ अपागूहन्नमृतां मर्त्येभ्यः"
 
 +++
-अपा॑गूहन्न॒मृतां॒ मर्त्ये॑भ्यः कृ॒त्वा सव॑र्णामदधु॒र्विव॑स्वते ।  
-उ॒ताश्विना॑वभर॒द् यत् तदासी॒दज॑हादु॒ द्वा मि॑थु॒ना स॑र॒ण्यूः ॥३३॥  
+From mortal men they hid the immortal Lady, made one like her and gave her to Vivasvan. Saranyu brought to him the Asvin brothers, and then deserted both twinned pairs of children.

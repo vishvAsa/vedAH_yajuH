@@ -2,5 +2,4 @@
 title = "१० अर्वागन्यः परो"
 
 +++
-अ॒र्वाग॒न्यः प॒रो अ॒न्यो दि॒वस्पृ॒ष्ठाद् गुहा॑ नि॒धी निहि॑तौ॒ ब्राह्म॑णस्य ।  
-तौ र॑क्षति॒ तप॑सा ब्रह्मचा॒री तत् केव॑लं कृणुते॒ ब्रह्म॑ वि॒द्वान्॥१०॥  
+Both treasuries of sacred lore lie hidden, one hitherward, beyond heaven's ridge the other. The Brahmachari with his Fervour guards them. He makes this all his own as knowing Brahma.

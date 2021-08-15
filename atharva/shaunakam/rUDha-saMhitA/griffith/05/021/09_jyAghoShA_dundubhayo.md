@@ -2,5 +2,4 @@
 title = "०९ ज्याघोषा दुन्दुभयो"
 
 +++
-ज्या॒घो॒षा दु॑न्दु॒भयो॒ भि क्रो॑शन्तु॒ या दिशः॑ ।  
-सेनाः॒ परा॑जिता य॒तीर॒मित्रा॑णामनीक॒शः ॥९॥  
+To all the quarters of the sky let clang of bowstrings and our Drums. Cry out to hosts of foes that go discomfited in serried ranks.

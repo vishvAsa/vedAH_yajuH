@@ -2,4 +2,4 @@
 title = "०७ यस्ते शृङ्गवृषो"
 
 +++
-यस्ते॑ शृङ्गवृषो नपा॒त् प्रण॑पात् कुण्ड॒पाय्यः॑ । न्यस्मिन्दध्र॒ आ मनः॑ ॥७॥
+To Kundapayya, grandson's son, grandson of Sringavrish, to thee, To him have I addressed my thought.

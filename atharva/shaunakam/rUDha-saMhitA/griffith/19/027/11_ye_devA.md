@@ -2,4 +2,4 @@
 title = "११ ये देवा"
 
 +++
-ये दे॑वा दि॒व्येका॑दश॒ स्थ ते दे॑वासो ह॒विरि॒दं जु॑षध्वम्॥११॥  
+O ye eleven Gods who are in heaven, accept this sacrifice.

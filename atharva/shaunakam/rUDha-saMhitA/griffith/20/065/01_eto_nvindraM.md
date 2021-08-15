@@ -2,4 +2,4 @@
 title = "०१ एतो न्विन्द्रं"
 
 +++
-ए॒तो न्विन्द्रं॒ स्तवा॑म॒ सखा॑य॒ स्तोम्यं॒ नर॑म्। कु॒ष्टीर्यो विश्वा॑ अ॒भ्यस्त्येक॒ इत्॥१॥  
+Come, sing we praise to Indra, friends! the Hero who deserves the laud, Him who with none to aid o'ercomes all tribes of men.

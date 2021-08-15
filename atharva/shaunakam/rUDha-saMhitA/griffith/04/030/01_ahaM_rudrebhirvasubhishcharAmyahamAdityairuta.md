@@ -2,5 +2,4 @@
 title = "०१ अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत"
 
 +++
-अ॒हं रु॒द्रेभि॒र्वसु॑भिश्चराम्य॒हमा॑दि॒त्यैरु॒त वि॒श्वदे॑वैः ।  
-अ॒हं मि॒त्रावरु॑णो॒भा बि॑भर्म्य॒हमि॑न्द्रा॒ग्नी अ॒हम॒श्विनो॒भा॥१॥  
+I travel with the Rudras and the Vasus, with the Adityas and All-Gods I wander. I hold aloft both Varuna and Mitra, I hold aloft Indra and both the Asvins.

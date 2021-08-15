@@ -2,5 +2,4 @@
 title = "०८ इन्द्रस्यौजो वरुणस्य"
 
 +++
-इन्द्र॒स्यौजो॒ वरु॑णस्य बा॒हू अ॒श्विनो॒रंसौ॑ म॒रुता॑मि॒यं क॒कुत्।  
-बृह॒स्पतिं॒ संभृ॑तमे॒तमा॑हु॒र्ये धीरा॑सः क॒वयो॒ ये म॑नी॒षिणः॑ ॥८॥  
+Both arms of Varuna, and Indra's vigour, the Maruts' hump is he, the Asvins' shoulders. They who are sages, bards endowed with wisdom, call him Brihaspati compact and heightened.

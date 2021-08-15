@@ -2,5 +2,4 @@
 title = "२३ उदीरय पितरा"
 
 +++
-उदी॑रय पि॒तरा॑ जा॒र आ भग॒मिय॑क्षति हर्य॒तो हृ॒त्त इ॑ष्यति ।
-विव॑क्ति॒ वह्निः॑ स्वप॒स्यते॑ म॒खस्त॑वि॒ष्यते॒ असु॑रो॒ वेप॑ते म॒ती॥२३॥
+Urge thou thy Parents, as a lover, to delight: the lovely One desires and craves it from his heart. As Priest he calls aloud, as Warrior shows his skill, as Asura tries his strength, and with the hymn is stirred.

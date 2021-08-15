@@ -2,5 +2,4 @@
 title = "०१ सस्रुषीस्तदपसो दिवा"
 
 +++
-स॒स्रुषी॒स्तद॒पसो॒ दिवा॒ नक्तं॑ च स॒स्रुषीः॑ ।  
-वरे॑ण्यक्रतुर॒हम॒पो दे॒वीरुप॑ ह्वये ॥१॥  
+Here flow the restless ones, they flow unceasing through the day and night, Most excellently wise I call the Goddess Waters hitherward.

@@ -2,5 +2,4 @@
 title = "०३ मृगो न"
 
 +++
-मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः प॑रा॒वत॒ आ ज॑गम्या॒त् पर॑स्याः ।  
-सृ॒कं सं॒शाय॑ प॒विमि॑न्द्र ति॒ग्मं वि शत्रू॑न् ताढि॒ वि मृघो॑ नुदस्व ॥३॥
+Like a dread wild beast roaming on the mountain, may he. approach us from the farthest distance. Whetting thy bolt and thy sharp blade, O Indra, crush down our foes and scatter those who hate us.

@@ -2,5 +2,4 @@
 title = "२२ राद्धिः प्राप्तिः"
 
 +++
-राद्धिः॒ प्राप्तिः॒ समा॑प्ति॒र्व्याऽप्ति॒र्मह॑ एध॒तुः ।  
-अत्या॑प्ति॒रुच्छि॑ष्टे॒ भूति॒श्चाहि॑ता॒ निहि॑ता हि॒ता॥२२॥  
+Gain, acquisition, and success, fulness, complete prosperity. Great gain and wealth, are laid, concealed and treasured, in the Residue.

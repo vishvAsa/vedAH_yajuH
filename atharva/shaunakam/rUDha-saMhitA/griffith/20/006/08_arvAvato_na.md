@@ -2,4 +2,4 @@
 title = "०८ अर्वावतो न"
 
 +++
-अ॒र्वा॒वतो॑ न॒ आ ग॑हि परा॒वत॑श्च वृत्रहन्। इ॒मा जु॑षस्व नो॒ गिरः॑ ॥८॥  
+From far away, from near at hand, O Vritra-slayer, come to us: Accept the songs we sing to thee.

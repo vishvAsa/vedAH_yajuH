@@ -2,4 +2,4 @@
 title = "०४ पुरुष्टुतस्य धामभिः"
 
 +++
-पु॒रु॒ष्टु॒तस्य॒ धाम॑भिः श॒तेन॑ महयामसि । इन्द्र॑स्य चर्षणी॒धृतः॑ ॥४॥  
+We strive for glory through the powers immense of him whom many praise, Of Indra who supports mankind.

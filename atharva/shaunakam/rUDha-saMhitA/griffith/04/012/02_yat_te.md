@@ -2,5 +2,4 @@
 title = "०२ यत् ते"
 
 +++
-यत् ते॑ रि॒ष्टं य॑त् ते द्यु॒त्तमस्ति॒ पेष्ट्रं॑ त आ॒त्मनि ।  
-धा॒ता तद् भ॒द्रया॒ पुनः॒ सं द॑ध॒त् परु॑षा॒ परुः॑ ॥२॥  
+Whatever bone of thine within thy body hath been wrenched or cracked, May Dhatar set it properly and join together limb by limb.

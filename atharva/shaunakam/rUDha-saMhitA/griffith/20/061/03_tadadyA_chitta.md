@@ -2,4 +2,4 @@
 title = "०३ तदद्या चित्त"
 
 +++
-तद॒द्या चि॑त्त उ॒क्थिनोऽनु॑ ष्टुवन्ति पू॒र्वथा॑ । वृष॑पत्नीर॒पो ज॑या दि॒वेदि॑वे ॥३॥  
+This day to singers of the hymn praise, as of old, this, might of thine. Win thou the waters, day by day, thralls of the strong.

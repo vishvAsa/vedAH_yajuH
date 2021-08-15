@@ -2,5 +2,4 @@
 title = "०१ इहैव ध्रुवां"
 
 +++
-इ॒हैव ध्रु॒वां नि मि॑नोमि॒ शालां॒ क्षेमे॑ तिष्ठाति घृ॒तमु॒क्षमा॑णा ।  
-तां त्वा॑ शाले॒ सर्व॑वीराः सु॒वीरा॒ अरि॑ष्टवीरा॒ उप॒ सं च॑रेम ॥१॥  
+Here, even here I fix my firm-set dwelling; flowing with fatness may it stand in safety. May we approach thee, House! with all our people, uncharmed and goodly men, and dwell within thee,

@@ -2,5 +2,4 @@
 title = "०९ युक्ता मातासिद्धुरि"
 
 +++
-यु॒क्ता मा॒तासि॑द्धु॒रि दक्षि॑णाया॒ अति॑ष्ठ॒द् गर्भो॑ वृज॒नीष्व॒न्तः ।  
-अमी॑मेद् व॒त्सो अनु॒ गाम॑पश्यद् विश्वरू॒प्यंऽ त्रि॒षु योज॑नेषु ॥९॥  
+Yoked was the Mother to the boon Cow's car-pole; in humid folds of cloud the infant rested. Then the Calf lowed and looked upon the Mother, the Cow who wears all shapes in three directions.

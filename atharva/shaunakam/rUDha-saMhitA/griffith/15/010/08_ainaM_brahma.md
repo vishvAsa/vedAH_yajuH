@@ -2,4 +2,4 @@
 title = "०८ ऐनं ब्रह्म"
 
 +++
-ऐनं॒ ब्रह्म॑ गच्छति ब्रह्मवर्च॒सी भ॑वति ॥८॥  
+Priesthood comes to him, and he becomes endowed with priestly lustre.

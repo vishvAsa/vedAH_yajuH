@@ -2,7 +2,4 @@
 title = "१९ अष्टधा युक्तो"
 
 +++
-अ॒ष्ट॒धा यु॒क्तो व॑हति॒ वह्नि॑रु॒ग्रः पि॒ता दे॒वानां॑ जनि॒ता म॑ती॒नाम्।  
-ऋ॒तस्य॒ तन्तुं॒ मन॑सा मि॒मानः॒ सर्वा॒ दिशः॑ पवते मात॒रिश्वा॒ तस्य॑ दे॒वस्य॑ ।  
-क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑ ।  
-उद् वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न्॥१९॥  
+Eight times attached the potent Courser draws it, Sire of the Gods, father of hymns and praises. So Matarisvan, measuring in spirit the thread of Order, purifies all regions. This God, etc.

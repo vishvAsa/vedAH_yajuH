@@ -2,5 +2,4 @@
 title = "३१ एषा सनत्नी"
 
 +++
-ए॒षा स॒नत्नी॒ सन॑मे॒व जा॒तैषा पु॑रा॒णी परि॒ सर्वं॑ बभूव ।  
-म॒ही दे॒व्यु॑१षसो॑ विभा॒ती सैके॑नैकेन मिष॒ता वि च॑ष्टे ॥३०॥  
+Known by the name of Guardian Grace the Deity sits girt by Right. The trees have taken from her hue, green-garlanded, their robe of green.

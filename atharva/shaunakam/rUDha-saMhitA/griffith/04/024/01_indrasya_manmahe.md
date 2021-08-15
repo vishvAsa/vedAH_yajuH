@@ -2,5 +2,4 @@
 title = "०१ इन्द्रस्य मन्महे"
 
 +++
-इन्द्र॑स्य मन्महे॒ शश्व॒दिद॑स्य मन्महे वृत्र॒घ्न स्तोमा॒ उप॑ मे॒म आगुः॑ ।  
-यो दा॒शुषः॑ सु॒कृतो॒ हव॒मेति॒ स नो॑ मुञ्च॒त्वंह॑सः ॥१॥  
+I think of Indra, only him for ever, fiend-slayer, May these lauds of mine come near him. He cometh to the pious offerer's calling. May he deliver us from grief and trouble.

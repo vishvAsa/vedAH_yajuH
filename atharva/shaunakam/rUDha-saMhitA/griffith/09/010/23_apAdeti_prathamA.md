@@ -2,5 +2,4 @@
 title = "२३ अपादेति प्रथमा"
 
 +++
-अ॒पादे॑ति प्रथ॒मा प॒द्वती॑नां॒ कस्तद् वां॑ मित्रावरु॒णा चि॑केत ।  
-गर्भो॑ भा॒रं भ॑र॒त्या चि॑दस्या ऋ॒तं पिप॒र्त्यनृ॑तं नि पा॑ति ॥२३॥  
+The footless Maid precedeth footed creatures. Who marketh, Mitra Varuna! this your doing? The Babe unborn supporteth this world's burthen, supporteth Right and watcheth Wrong and Falsehood.

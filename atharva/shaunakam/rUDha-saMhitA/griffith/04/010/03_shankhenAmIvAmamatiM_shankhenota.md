@@ -2,5 +2,4 @@
 title = "०३ शङ्खेनामीवाममतिं शङ्खेनोत"
 
 +++
-श॒ङ्खेनामी॑वा॒मम॑तिं श॒ङ्खेनो॒त सदान्वाः॑ ।  
-श॒ङ्खो नो॑ वि॒श्वभे॑षजः॒ कृश॑नः पा॒त्वंह॑सः ॥३॥  
+We stay disease and indigence, and chase Sadanvas with the Shell. May the all-healing Shell that bears the pearl preserve us from distress.

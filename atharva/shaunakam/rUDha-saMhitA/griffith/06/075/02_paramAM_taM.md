@@ -2,5 +2,4 @@
 title = "०२ परमां तं"
 
 +++
-प॒र॒मां तं प॑रा॒वत॒मिन्द्रो॑ नुदतु वृत्र॒हा।  
-यतो॒ न पुन॒राय॑ति शश्व॒तीभ्यः॒ समा॑भ्यः ॥२॥  
+Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never more shall be return in all the years that are to come.

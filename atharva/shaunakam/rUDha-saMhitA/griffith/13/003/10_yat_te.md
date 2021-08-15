@@ -2,7 +2,4 @@
 title = "१० यत् ते"
 
 +++
-यत् ते॑ च॒न्द्रं क॑श्यप रोच॒नाव॒द् यत् सं॑हि॒तं पु॑ष्क॒लं चि॒त्रभा॑नु।  
-यस्मि॒न्त्सूर्या॒ आर्पि॑ताः स॒प्त सा॒कं तस्य॑ दे॒वस्य॑ ।  
-क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑ ।  
-उद् वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न्॥१०॥  
+What silver. Kasyapa, thou hast refulgent, what brightly-shining lotus-flower collected, Wherein are gathered seven Suns together, This God, etc.

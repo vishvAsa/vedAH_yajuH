@@ -2,5 +2,4 @@
 title = "०४ इमे त"
 
 +++
-इ॒मे त॑ इन्द्र॒ ते व॒यं पु॑रुष्टुत॒ ये त्वा॒रभ्य॒ चरा॑मसि प्रभूवसो ।  
-न॒हि त्वद॒न्यो गि॑र्वणो॒ गिरः॒ सध॑त् क्षो॒णीरि॑व॒ प्रति॑ नो हर्य॒ तद् वचः॑ ॥४॥  
+Thine, Indra, praised by many excellently rich! are we who trusting in thy help draw near to thee. Lover of praise, none else but thou receives our laud: as Earth loves all her creatures, love thou this our hymn.

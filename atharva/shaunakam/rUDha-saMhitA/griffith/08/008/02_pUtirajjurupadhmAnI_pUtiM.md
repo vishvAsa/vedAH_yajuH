@@ -2,5 +2,4 @@
 title = "०२ पूतिरज्जुरुपध्मानी पूतिं"
 
 +++
-पू॒ति॒रज्जुरु॑प॒ध्मानी॒ पूतिं॒ सेनां॑ कृणोत्व॒मूम्।  
-धू॒मम॒ग्निं प॑रा॒दृश्या॒मित्रा॑ हृ॒त्स्वा द॑धतां भ॒यम्॥२॥  
+Let Putirajju with her breath corrupt and putrefy that host, And terror smite our foemen's heart when fire and smoke are seen afar.

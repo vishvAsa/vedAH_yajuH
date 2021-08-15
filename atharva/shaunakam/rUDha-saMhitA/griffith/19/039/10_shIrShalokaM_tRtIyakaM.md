@@ -2,5 +2,4 @@
 title = "१० शीर्षलोकं तृतीयकं"
 
 +++
-शी॒र्ष॒लो॒कं तृ॒तीय॑कं सद॒न्दिर्यश्च॑ हाय॒नः ।  
-त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुव ॥१०॥
+O thou who hast all-reaching might drive away Fever, drive it down, racking Fever, tertian, continual, lasting for a year.

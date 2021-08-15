@@ -2,4 +2,4 @@
 title = "१० आ देवेषु"
 
 +++
-आ दे॒वेषु॑ वृश्चते अहु॒तम॑स्य भवति ॥१०॥  
+He is at variance with the Gods. He hath offered no accepted. sacrifice.

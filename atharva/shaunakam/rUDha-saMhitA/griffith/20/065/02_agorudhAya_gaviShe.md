@@ -2,4 +2,4 @@
 title = "०२ अगोरुधाय गविषे"
 
 +++
-अगो॑रुधाय ग॒विषे॑ द्यु॒क्षाय॒ दस्म्यं॒ वचः॑ । घृ॒तात् स्वादी॑यो॒ मधु॑नश्च वोचत ॥२॥  
+To him who wins the kine, who keeps no cattle back, celestial God, Speak wondrous speech more sweet than butter and than mead.

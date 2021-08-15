@@ -2,5 +2,4 @@
 title = "०१ शीर्षक्तिं शीर्षामयं"
 
 +++
-शी॒र्ष॒क्तिं शी॑र्षाम॒यं क॑र्णशू॒लं वि॑लोहि॒तम्।  
-सर्वं॑ शीर्ष॒ण्यंऽ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥१॥  
+Each pain and ache that racks the head, earache, and erysipelas,. All malady that wrings thy brow we charm away with this our spell.

@@ -2,5 +2,4 @@
 title = "५६ पयस्वतीरोषधयः पयस्वन्मामकं"
 
 +++
-पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं पयः॑ ।  
-अ॒पां पय॑सो॒ यत् पय॒स्तेन॑ मा स॒ह शु॑म्भतु ॥५६॥  
+The plants of earth are rich in milk, and rich in milk is this my milk. With all the milky essence of the Waters let them make me clean.

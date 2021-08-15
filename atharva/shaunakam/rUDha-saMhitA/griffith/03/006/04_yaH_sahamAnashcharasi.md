@@ -2,5 +2,4 @@
 title = "०४ यः सहमानश्चरसि"
 
 +++
-यः सह॑मान॒श्चर॑सि सासहा॒न इव ऋष॒भः ।  
-तेना॑श्वत्थ॒ त्वया॑ व॒यं स॒पत्ना॑न्त्सहिषीमहि ॥४॥  
+Thou who like some victorious bull displayest thy surpassing might, With thee, with thee, Asvattha! we would overcome our enemies.

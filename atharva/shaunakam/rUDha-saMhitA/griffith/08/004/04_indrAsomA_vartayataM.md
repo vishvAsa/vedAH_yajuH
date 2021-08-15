@@ -2,5 +2,4 @@
 title = "०४ इन्द्रासोमा वर्तयतं"
 
 +++
-इन्द्रा॑सोमा व॒र्तय॑तं दि॒वो व॒धं सं पृ॑थि॒व्या अ॒घशं॑साय॒ तर्ह॑णम्।  
-उत् त॑क्षतं स्व॒र्यं१ पर्व॑तेभ्यो॒ येन॒ रक्षो॑ वावृधा॒नं नि॒जूर्व॑थः ॥४॥  
+Indra and Soma, hurl your deadly crushing bolt down on the wicked fiend from heaven and from the earth. Yea, fashion from the big clouds your celestial dart wherewith ye burn to death the waxing demon race.

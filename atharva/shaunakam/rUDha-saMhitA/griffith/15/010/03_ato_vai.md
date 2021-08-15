@@ -2,4 +2,4 @@
 title = "०३ अतो वै"
 
 +++
-अतो॒ वै ब्रह्म॑ च क्ष॒त्रं चोद॑तिष्ठतां॒ ते अ॑ब्रूतां॒ कं प्र वि॑शा॒वेति॑ ॥३॥  
+From him, verily, sprang Priesthood and Royalty. They said, Into whom shall we enter?

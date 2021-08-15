@@ -2,5 +2,4 @@
 title = "०२ एषा ते"
 
 +++
-ए॒षा ते॑ राजन् क॒न्या व॒धूर्नि धू॑यतां यम ।  
-सा मा॒तुर्ब॑ध्यतां गृ॒हेऽथो॒ भ्रातु॒रथो॑ पि॒तुः ॥२॥  
+King Yama, let this maiden be surrendered as a wife to thee: Bound let her be meanwhile within, her mother's, brother's, father's house.

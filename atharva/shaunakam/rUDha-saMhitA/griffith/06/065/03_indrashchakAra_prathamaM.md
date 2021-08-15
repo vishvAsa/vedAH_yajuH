@@ -2,5 +2,4 @@
 title = "०३ इन्द्रश्चकार प्रथमं"
 
 +++
-इन्द्र॑श्चकार प्रथ॒मं नै॑र्ह॒स्तमसु॑रेभ्यः ।  
-जय॑न्तु सत्वा॑नो॒ मम॑ स्थि॒रेणेन्द्रे॑ण मे॒दिना॑ ॥३॥
+Indra made first for Asuras the shaft designed for handless foes: Victorious shall my heroes be with Indra as their constant friend.

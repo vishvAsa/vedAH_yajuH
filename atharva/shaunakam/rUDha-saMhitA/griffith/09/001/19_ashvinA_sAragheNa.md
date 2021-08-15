@@ -2,5 +2,4 @@
 title = "१९ अश्विना सारघेण"
 
 +++
-अश्वि॑ना सार॒घेण॑ मा॒ मधु॑नाङ्क्तं शुभस्पती ।  
-यथा॒ वर्च॑स्वतीं॒ वाच॑मा॒वदा॑नि॒ जनाँ॒ अनु॑ ॥१९॥  
+May both the Asvins, Lords of Light, balm me with honey of the bees, That I may speak among the folk words full of splendour and of strength.

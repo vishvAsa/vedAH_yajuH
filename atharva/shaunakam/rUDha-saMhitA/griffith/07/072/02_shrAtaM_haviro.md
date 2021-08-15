@@ -2,5 +2,4 @@
 title = "०२ श्रातं हविरो"
 
 +++
-श्रा॒तं ह॒विरो ष्वि॑न्द्र॒ प्र या॑हि ज॒गाम॒ सूरो॒ अध्व॑नो॒ वि मध्य॑म्।  
-परि॑ त्वासते नि॒धिभिः॒ सखा॑यः कुल॒पा न व्रा॑जप॒तिं चर॑न्तम्॥२॥  
+Libation is prepared. Come to us, Indra: the Sun hath travelled over half his journey. Friends with their treasures sit around thee, waiting like heads of houses for their wandering chieftain.

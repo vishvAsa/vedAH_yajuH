@@ -2,4 +2,4 @@
 title = "२३ एते वै"
 
 +++
-ए॒ते वै प्रि॒याश्चाप्रि॑याश्च॒र्त्विजः॑ स्व॒र्गं लो॒कं ग॑मयन्ति॒ यदति॑थयः ।६। २३॥  
+Now these guests, as priests beloved or not beloved, bring one to the world of Svarga.

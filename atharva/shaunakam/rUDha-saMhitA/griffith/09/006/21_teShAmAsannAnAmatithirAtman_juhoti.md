@@ -2,4 +2,4 @@
 title = "२१ तेषामासन्नानामतिथिरात्मन् जुहोति"
 
 +++
-तेषा॒मास॑न्नाना॒मति॑थिरा॒त्मन् जु॑होति ।४। २१॥  
+As the guest of the seated company he himself offers up sacrifice.

@@ -2,5 +2,4 @@
 title = "५४ बृहस्पतिनावसृष्टां विश्वे"
 
 +++
-बृह॒स्पति॒नाव॑सृष्टां॒ विश्वे॑ दे॒वा अ॑धारयन्।  
-तेजो॒ गोषु॒ प्रवि॑ष्टं॒ यत् तेने॒मां सं सृ॑जामसि ॥५४॥  
+Her whom Brihaspati hath loosed the Visve Devas keep secure. With all the vigour that is stored in cows do we enrich this girl.

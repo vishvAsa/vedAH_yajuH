@@ -2,5 +2,4 @@
 title = "०६ यौ मेधातिथिमवथो"
 
 +++
-यौ मेधा॑तिथि॒मव॑थो॒ यौ त्रि॒शोकं॒ मित्रा॑वरुणावु॒शनां॑ का॒व्यं यौ।  
-यौ गोत॑म॒मव॑थः प्रोत मुद्ग॑लं तौ नो॑ मुञ्चत॒मंह॑सः ॥६॥  
+Ye, Mitra, Varuna, who help Trisoka, Medhatithi, and Usana son of Kavi, Ye, Gotama's and Mudgala's protectors, deliver us, ye twain, from grief and trouble.

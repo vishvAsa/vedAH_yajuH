@@ -2,6 +2,4 @@
 title = "०८ अभि त्वा"
 
 +++
-अ॒भि त्वा॑ जरि॒माहि॑त॒ गामु॒क्षण॑मिव॒ रज्ज्वा ।  
-यस्त्वा॑ मृ॒त्युर॒भ्यध॑त्त॒ जाय॑मानं सुपा॒शया॑ ।  
-तं ते॑ स॒त्यस्य॒ हस्ता॑भ्या॒मुद॑मुञ्च॒द् बृह॒स्पतिः॑ ॥८॥
+Old age hath girt thee with its bonds even as they bind a bull with rope. The death held thee at thy birth bound with a firmly-knotted noose, Therefrom, with both the hands of Truth, Brihaspati hath loose- ned thee.

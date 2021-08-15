@@ -2,5 +2,4 @@
 title = "०१ इडैवास्मां अनु"
 
 +++
-इडै॒वास्मां अनु॑ वस्तां व्र॒तेन॒ यस्याः॑ प॒दे पु॒नते॑ देव॒यन्तः॑ ।  
-घृ॒तप॑दी॒ शक्व॑री॒ सोम॑पृ॒ष्ठोप॑ य॑ज्ञम॑स्थित वैश्वदे॒वी॥१॥
+May Ida with her statute dwell beside us, she in whose place the pious purge and cleanse them. She, mighty, Soma-decked, whose foot drops fatness, meet for All-Gods, hath come to aid our worship.

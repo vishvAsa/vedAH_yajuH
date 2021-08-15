@@ -2,5 +2,4 @@
 title = "०६ तपश्चैवास्तां कर्म"
 
 +++
-तप॑श्चै॒वास्तां॒ कर्म॑ चा॒न्तर्म॑ह॒त्यर्ण॒वे।  
-तपो॑ ह जज्ञे॒ कर्म॑ण॒स्तत् ते ज्ये॒ष्ठमुपा॑सत ॥६॥  
+Fervour and Action were the two, in depths of the great billowy sea; Fervour sprang up from Action: this they served and worship- ped as supreme.

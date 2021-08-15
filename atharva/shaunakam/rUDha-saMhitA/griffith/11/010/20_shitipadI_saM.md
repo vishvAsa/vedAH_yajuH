@@ -2,5 +2,4 @@
 title = "२० शितिपदी सं"
 
 +++
-शि॒ति॒प॒दी सं प॑तत्व॒मित्रा॑णाम॒मूः सिचः॑ ।  
-मुह्य॑न्त्व॒द्यामूः सेनाः॑ अ॒मित्रा॑नां न्यर्बुदे ॥२०॥  
+Let White-foot fall upon those wings of our opponents' arma- ment; Mazed and bewildered be those hands of foes this day, O Nyar- budi.

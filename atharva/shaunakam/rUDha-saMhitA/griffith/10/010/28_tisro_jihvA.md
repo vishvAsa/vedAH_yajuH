@@ -2,5 +2,4 @@
 title = "२८ तिस्रो जिह्वा"
 
 +++
-ति॒स्रो जि॒ह्वा वरु॑णस्या॒न्तर्दी॑द्यत्या॒सनि॑ ।  
-तासां॒ या मध्ये॒ राज॑ति॒ सा व॒शा दु॑ष्प्रति॒ग्रहा॑ ॥२८॥  
+Within the mouth of Varuna three tongues are glittering with light. That which shines midmost of them is this Cow most difficult to hold.

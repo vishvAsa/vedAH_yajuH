@@ -2,5 +2,4 @@
 title = "१५ सर्वे देवा"
 
 +++
-सर्वे॑ दे॒वा अ॒त्याय॑न्तु॒ त्रिष॑न्धे॒राहु॑तिः प्रि॒या।  
-सं॒धां म॑ह॒तीं र॑क्षत॒ ययाग्रे॒ असु॑रा जि॒ताः ॥१५॥  
+Over,to us let all Gods come: dear is Trishandhi's offering. Keen the great pledge through which, of old, the Asuras were overthrown.

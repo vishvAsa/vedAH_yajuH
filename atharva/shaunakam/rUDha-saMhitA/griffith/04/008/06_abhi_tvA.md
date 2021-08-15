@@ -2,5 +2,4 @@
 title = "०६ अभि त्वा"
 
 +++
-अ॒भि त्वा॒ वर्च॑सासिच॒न्नापो॑ दि॒व्याः पय॑स्वतीः ।  
-यथासो॑ मित्र॒वर्ध॑न॒स्तथा॑ त्वा सवि॒ता क॑रत्॥६॥  
+The heavenly waters rich in milk have sprinkled thee with power and might. To be the gladdener of thy friends. May Savitar so fashion thee.

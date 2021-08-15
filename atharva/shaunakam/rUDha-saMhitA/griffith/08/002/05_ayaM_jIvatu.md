@@ -2,5 +2,4 @@
 title = "०५ अयं जीवतु"
 
 +++
-अ॒यं जी॑वतु॒ मा मृ॑ते॒मं समी॑रयामसि ।  
-कृ॒णोम्य॑स्मै भेष॒जं मृत्यो॒ मा पुरु॑षं वधीः ॥५॥  
+Let this man live, let him not die: we raise him, we recover him. I make for him a healing balm. O Death, forbear to slay this man.

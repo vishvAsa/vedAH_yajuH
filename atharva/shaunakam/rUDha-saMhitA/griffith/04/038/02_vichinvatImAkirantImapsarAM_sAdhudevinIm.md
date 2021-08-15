@@ -2,5 +2,4 @@
 title = "०२ विचिन्वतीमाकिरन्तीमप्सरां साधुदेविनीम्"
 
 +++
-वि॒चि॒न्व॒तीमा॑कि॒रन्ती॑मप्स॒रां सा॑धुदे॒विनी॑म्।  
-ग्लहे॑ कृ॒तानि॑ गृह्णा॒नाम॑प्स॒रां तामि॒ह हु॑वे ॥२॥  
+Hither I call that Apsaras who scatters and who gathers up. The Apsaras who plays with skill and takes her winnings in the game.

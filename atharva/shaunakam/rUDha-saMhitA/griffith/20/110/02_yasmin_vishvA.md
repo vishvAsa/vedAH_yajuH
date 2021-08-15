@@ -2,4 +2,4 @@
 title = "०२ यस्मिन् विश्वा"
 
 +++
-यस्मि॒न् विश्वा॒ अधि॒ श्रियो॒ रण॑न्ति स॒प्त सं॒सदः॑ । इन्द्रं॑ सु॒ते ह॑वामहे ॥२॥  
+We summon Indra to the draught, in whom all glories rest, in whom The seven communities rejoice.

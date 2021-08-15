@@ -2,5 +2,4 @@
 title = "०१ रथजितां राथजितेयीनामप्सरसामयं"
 
 +++
-र॒थ॒जितां॑ राथजिते॒यीना॑मप्स॒रसा॑म॒यं स्म॒रः ।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥१॥  
+This is the Apsarases' love-spell, the conquering, resistless ones'. Send the spell forth, ye Deities! Let him consume with love of me.

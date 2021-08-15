@@ -2,5 +2,4 @@
 title = "२१ ह्वयामि ते"
 
 +++
-ह्वया॑मि ते॒ मन॑सा॒ मन॑ इ॒हेमान् गृ॒हाँ उप॑ जुजुषा॒ण एहि॑ ।  
-सं ग॑च्छस्व पि॒तृभिः॒ सं य॒मेन॑ स्यो॒नास्त्वा॒ वाता॒ उप॑ वान्तु श॒ग्माः ॥२१॥  
+Hither I call thy spirit with my spirit. Come thou; delighted, to these dwelling-places. Unite thee with the Fathers and with Yama: strong and delicious be the winds that fan thee.

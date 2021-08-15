@@ -2,5 +2,4 @@
 title = "१८ उद् वेपय"
 
 +++
-उद् वे॑पय॒ त्वम॑र्बुदे॒ऽमित्रा॑णाम॒मूः सिचः॑ ।  
-जयां॑श्च जि॒ष्णुश्चा॒मित्रां॒ जय॑ता॒मिन्द्र॑मेदिनौ ॥ १८॥  
+Make thou, O Arbudi, those wings of hostile armies quake with dread. Let Conqueror and Victor, friends of Indra, overcome our foes.

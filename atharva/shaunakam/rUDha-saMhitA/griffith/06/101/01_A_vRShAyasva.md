@@ -2,5 +2,4 @@
 title = "०१ आ वृषायस्व"
 
 +++
-आ वृ॑षायस्व श्वसि॒हि वर्ध॑स्व प्र॒थय॑स्व च ।  
-य॒था॒ङ्गं व॑र्धतां॒ शेप॒स्तेन॑ यो॒षित॒मिज्ज॑हि ॥१॥  
+Taurum age, palpita, incresce et teipsum extende: per totum membrum increscat penis: hoc tu caede feminam.

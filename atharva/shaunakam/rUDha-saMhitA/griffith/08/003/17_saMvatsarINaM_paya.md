@@ -2,5 +2,4 @@
 title = "१७ संवत्सरीणं पय"
 
 +++
-सं॒व॒त्स॒रीणं॒ पय॑ उ॒स्रिया॑या॒स्तस्य॒ माशी॑द् यातु॒धानो॑ नृचक्षः ।  
-पी॒यूष॑मग्ने यत॒मस्तितृ॑प्सा॒त् तं प्र॒त्यञ्च॑म॒र्चिषा॑ विध्य॒ मर्म॑णि ॥१७॥  
+The cow gives milk each year, O Man-Beholder: let not the Yatudhana ever taste it. Agni, if one should glut him with the biestings, pierce with thy flame his vitals as he meets thee.

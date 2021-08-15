@@ -2,5 +2,4 @@
 title = "०४ व्याऽकूतय एषामिताथो"
 
 +++
-व्याऽकूतय एषामि॒ताथो॑ चि॒त्तानि॑ मुह्यत ।  
-अथो॒ यद॒द्यैषां॑ हृदि तदे॑षां॒ परि॒ निर्ज॑हि ॥४॥  
+Vanish, ye hopes and plans of theirs, be ye confounded, all their thoughts! Whatever wish is in their heart, do thou expel it utterly.

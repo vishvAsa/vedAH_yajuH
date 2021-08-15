@@ -2,5 +2,4 @@
 title = "०९ शं नो"
 
 +++
-शं नो॒ अदि॑तिर्भवतु व्र॒तेभिः॒ शं नो॑ भवन्तु म॒रुतः॑ स्व॒र्काः ।  
-शं नो॒ विष्णुः॒ शमु॑ पू॒षा नो॑ अस्तु॒ शं नो॑ भ॒वित्रं॒ शम्व॑स्तु वा॒युः ॥९॥  
+May Aditi through holy works be gracious, and may the Maruts,_ loud in song, be friendly. May Vishnu give felicity, and, Pushan, and Air that cherisheth. our lives, and Vayu.

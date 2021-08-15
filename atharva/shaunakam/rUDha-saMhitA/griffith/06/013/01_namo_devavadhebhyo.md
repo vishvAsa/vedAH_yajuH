@@ -2,5 +2,4 @@
 title = "०१ नमो देववधेभ्यो"
 
 +++
-नमो॑ देवव॒धेभ्यो॒ नमो॑ राजव॒धेभ्यः॑ ।  
-अथो॒ ये विश्या॑नां व॒धास्तेभ्यो॑ मृत्यो॒ नमो॑ऽस्तु ते ॥१॥  
+Worship to weapons of the Gods! worship to weapons of the Kings! Then worship to the people's arms! worship, O Death, be paid to thee!

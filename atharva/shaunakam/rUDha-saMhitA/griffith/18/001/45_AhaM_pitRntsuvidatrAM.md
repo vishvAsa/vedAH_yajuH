@@ -2,5 +2,4 @@
 title = "४५ आहं पितृन्त्सुविदत्रां"
 
 +++
-आहं पि॒तृन्त्सु॑वि॒दत्रां॑ अवित्सि॒ नपा॑तं च वि॒क्रम॑णं च॒ विष्णोः॑ ।
-ब॒र्हि॒षदो॒ ये स्व॒धया॑ सु॒तस्य॒ भज॑न्त पि॒त्वस्त इ॒हाग॑मिष्ठाः ॥४५॥
+I have attained the gracious-minded Fathers, I have gained son and progeny from Vishnu. They who enjoy pressed juices with oblation, seated on sacred grass, come oftenest hither.

@@ -2,4 +2,4 @@
 title = "०६ इतो वा"
 
 +++
-इ॒तो वा॑ सा॒तिमीम॑हे दि॒वो वा॒ पार्थि॑वा॒दधि॑ । इन्द्रं॑ म॒हो वा॒ रज॑सः ॥६॥  
+Or Indra we implore for help from here, from heaven above the earth, Or from the spacious firmament.

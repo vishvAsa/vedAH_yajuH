@@ -2,5 +2,4 @@
 title = "५१ येऽश्रद्धा धनकाम्या"
 
 +++
-येऽश्र॒द्धा ध॑नका॒म्या क्र॒व्यादा॑ स॒मास॑ते ।  
-ते वा अ॒न्येषां॑ कु॒म्भीं प॒र्याद॑धति सर्व॒दा॥५१॥  
+The faithless, who from lust of wealth abide with him who feeds on flesh, For ever set upon the fire an alien caldron, not their own.

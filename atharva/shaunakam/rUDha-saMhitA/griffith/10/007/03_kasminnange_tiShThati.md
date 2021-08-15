@@ -2,5 +2,4 @@
 title = "०३ कस्मिन्नङ्गे तिष्ठति"
 
 +++
-कस्मि॒न्नङ्गे॑ तिष्ठति॒ भूमि॑रस्य॒ कस्मि॒न्नङ्गे॑ तिष्ठत्य॒न्तरि॑क्षम्।  
-कस्मि॒न्नङ्गे॑ तिष्ठ॒त्याहि॑ता॒ द्यौः कस्मि॒न्नङ्गे॑ तिष्ठ॒त्युत्त॑रं दि॒वः ॥३॥  
+Which of his members is the earth's upholder? Which gives the middle air a base to rest on? Where, in which member is the sky established? Where hath the space above the sky its dwelling?

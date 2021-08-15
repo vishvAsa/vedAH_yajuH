@@ -2,5 +2,4 @@
 title = "०४ विपश्चितं तरणिं"
 
 +++
-वि॒प॒श्चितं॑ त॒रणिं॒ भ्राज॑मानं॒ वह॑न्ति॒ यं ह॒रितः॑ स॒प्त ब॒ह्वीः ।  
-स्रु॒ताद् यमत्त्रि॒र्दिव॑मुन्नि॒नाय॒ तं त्वा॑ पश्यन्ति परि॒यान्त॑मा॒जिम्॥४॥  
+Victorious, inspired, and brightly shining, whom seven strong tawny-coloured coursers carry, Whom Atri lifted from the flood to heaven, thus men behold thee as thy course thou runnest.

@@ -2,4 +2,4 @@
 title = "११ देवी हनत्कुहनत्११"
 
 +++
-दे॒वी ह॑न॒त्कुह॑नत्॥११॥  
+Where beating will the Goddess beat again again about the house?

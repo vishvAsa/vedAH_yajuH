@@ -2,5 +2,4 @@
 title = "०७ शं नो"
 
 +++
-शं नो॑ मि॒त्रः शं वरु॑णः॒ शं वि॒वस्वां॒छमन्त॑कः ।  
-उत्पाताः॒ पार्थि॑वा॒न्तरि॑क्षाः॒ शं नो॑ दि॒विच॑रा॒ ग्रहाः॑॥७॥  
+Favour us Mitra, Varuna, Vivasvan, and the Finisher, Portents on earth and in the air, and planets wandering in heaven!

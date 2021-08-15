@@ -2,5 +2,4 @@
 title = "४३ स य"
 
 +++
-स य ए॒वं वि॒द्वान् मां॒समु॑प॒सिच्यो॑प॒हर॑ति ।७।  
-याव॑द् द्वादशा॒हेने॒ष्ट्वा सुस॑मृद्धेनावरु॒न्धे ताव॑देनेनाव॑ रुन्धे ।८। ४३॥  
+He who having this knowledge besprinkles flesh and offers it wins for himself thereby as much as he gains by the perfor- mance of a very successful Twelve-Day sacrifice.

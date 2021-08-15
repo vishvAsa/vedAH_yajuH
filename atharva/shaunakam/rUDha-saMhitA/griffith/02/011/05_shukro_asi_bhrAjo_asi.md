@@ -2,5 +2,4 @@
 title = "०५ शुक्रोऽसि भ्राजोऽसि"
 
 +++
-शु॒क्रोऽसि भ्रा॒जोऽसि॒ स्वऽरसि॒ ज्योति॑रसि ।  
-आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥५॥
+Fulgent art thou, and splendid, thou art heavenly lustre, thou art light. Reach thy superior, thou; surpass thine equal.

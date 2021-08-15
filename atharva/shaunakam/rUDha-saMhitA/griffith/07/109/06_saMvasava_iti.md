@@ -2,5 +2,4 @@
 title = "०६ संवसव इति"
 
 +++
-संव॑सव॒ इति॑ वो नाम॒धेय॑मुग्रंप॒श्या रा॑ष्ट्रभृतो॒ ह्य॑१क्षाः ।  
-तेभ्यो॑ व इन्दवो ह॒विषा॑ विधेम व॒यं स्या॑म॒ पत॑यो॒ रयी॒णाम्॥६॥  
+Fellow-inhabitants, such is your title, for Dice with looks of power support dominion. As such with offerings may we serve you, Indus! May we have riches in our own possession.

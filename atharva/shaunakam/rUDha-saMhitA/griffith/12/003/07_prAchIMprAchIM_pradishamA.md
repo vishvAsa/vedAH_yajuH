@@ -2,5 +2,4 @@
 title = "०७ प्राचींप्राचीं प्रदिशमा"
 
 +++
-प्राचीं॑प्राचीं प्र॒दिश॒मा र॑भेथामे॒तं लो॒कं श्र॒द्दधा॑नाः सचन्ते ।  
-यद् वां॑ प॒क्वं परि॑विष्टम॒ग्नौ तस्य॒ गुप्त॑ये दंपती॒ सं श्र॑येथाम्॥७॥  
+Approach the eastern, yea: the eastern region, this is the sphere to which the faithful turn them, Your cooked oblation that in fire was offered, together, wife and husband, meet to guard it.

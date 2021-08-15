@@ -2,4 +2,4 @@
 title = "०४ अरंघुषो निमज्योन्मज्य"
 
 +++
-अ॒रं॒घु॒षो नि॒मज्यो॒न्मज्य॒ पुन॑रब्रवीत्। उ॒द॒प्लु॒तमि॑व॒ दार्वही॑नामर॒सं वि॒षं वारु॒ग्रम्॥४॥  
+Loud neighing he hath dived below, and rising up again replied, Stayed the dire poison of the Snakes, and made it weak as soaking wood.

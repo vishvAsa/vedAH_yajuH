@@ -2,5 +2,4 @@
 title = "४१ स य"
 
 +++
-स य ए॒वं वि॒द्वान्त्स॒र्पिरु॑प॒सिच्यो॑प॒हर॑ति ।३।  
-याव॑दतिरा॒त्रेणे॒ष्ट्वा सुस॑मृद्धेनावरु॒न्धे ताव॑देने॒नाव॑ रुन्धे ।४। ४१॥  
+The man who having this knowledge pours out clarified butter and offers it wins for himself thereby as much as he gains by the performance of a very successful Atiratra sacrifice.

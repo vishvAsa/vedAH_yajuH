@@ -2,5 +2,4 @@
 title = "०६ यः कृत्याकृन्मूलकृद्"
 
 +++
-यः कृ॑त्या॒कृन्मू॑ल॒कृद् या॑तु॒धानो॒ नि तस्मि॑न् धत्तं॒ वज्र॑मु॒ग्रौ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥६॥  
+Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and deals in magic: Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.

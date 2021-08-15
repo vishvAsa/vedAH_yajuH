@@ -2,5 +2,4 @@
 title = "०३ यदि शोको"
 
 +++
-यदि॑ शो॒को यदि॑ वाभिशो॒को यदि॑ वा॒ राज्ञो॒ वरु॑ण॒स्यासि॑ पु॒त्रः ।  
-ह्रू॒डु॒र्नामा॑सि हरितस्य देव॒ स नः॑ संवि॒द्वान् परि॑ वृङ्ग्धि तक्मन्॥३॥  
+Be thou distress, or agonizing torment, be thou the son King Varuna hath begotten, Rack isthy name, God of the sickly yellow! O Fever, yielding to our prayer avoid us.

@@ -2,4 +2,4 @@
 title = "०५ यो३स्मान् द्वेष्टि"
 
 +++
-यो॒३स्मान् द्वेष्टि॒ तमा॒त्मा द्वे॑ष्टु॒ यं व॒यं द्वि॒ष्मः स आ॒त्मानं॑ द्वेष्टु ॥५॥  
+Him who hates us may his soul hate, and may he whom we hate hate himself.

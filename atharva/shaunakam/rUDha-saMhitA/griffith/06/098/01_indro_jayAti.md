@@ -2,5 +2,4 @@
 title = "०१ इन्द्रो जयाति"
 
 +++
-इन्द्रो॑ जयाति॒ न परा॑ जयाता अधिरा॒जो राज॑सु राजयातै ।  
-च॒र्कृत्य॒ ईड्यो॒ वन्द्य॑श्चोप॒सद्यो॑ नम॒स्योऽभवे॒ह॥१॥  
+Indra be victor, never to be vanquished, to reign among the Kings as sovran ruler! Here be thou meet for praise and supplication, to be revered and waited on and worshipped.

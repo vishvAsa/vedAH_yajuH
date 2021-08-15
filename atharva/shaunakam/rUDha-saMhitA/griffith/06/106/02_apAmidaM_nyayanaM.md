@@ -2,5 +2,4 @@
 title = "०२ अपामिदं न्ययनं"
 
 +++
-अ॒पामि॒दं न्यय॑नं समु॒द्रस्य॑ नि॒वेश॑नम्।  
-मध्ये॑ ह्र॒दस्य॑ नो गृ॒हाः प॑रा॒चीना॒ मुखा॑ कृधि ॥२॥  
+This is the place where waters meet, here is the gathering of the flood. Our home is set amid the lake: turn thou thy jaws away from it.

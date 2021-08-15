@@ -2,6 +2,4 @@
 title = "११ त्वमिन्द्रासि विश्वजित्"
 
 +++
-त्वमि॑न्द्रासि विश्व॒जित् स॑र्व॒वित् पु॑रुहू॒तस्त्वमि॑न्द्र ।  
-त्वमि॑न्द्रे॒मं सु॒हवं॒ स्तोम॒मेर॑यस्व॒ स नो॑ मृड सुम॒तौ ते॑ स्याम॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥११॥  
+Thou art the vanquisher of all, O Indra, omniscient Indra, and invoked of many. Indra, send forth this hymn that fitly lauds thee. Favour us let thy gracious love attend us. Manifold are thy great deeds, thine, O Vishnu.

@@ -2,5 +2,4 @@
 title = "५१ भगस्ते हस्तमग्रहीत्"
 
 +++
-भग॑स्ते॒ हस्त॑मग्रहीत् सवि॒ता हस्त॑मग्रहीत्।  
-पत्नी॒ त्वम॑सि॒ धर्म॑णा॒हं गृ॒हप॑ति॒स्तव॑ ॥५१॥  
+Bhaga and Savitar the God have clasped that hand of thine in theirs, By rule and law thou art my wife: the master of thy house am I.

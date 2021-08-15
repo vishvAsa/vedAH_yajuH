@@ -2,5 +2,4 @@
 title = "०४ पञ्चापूपं शितिपादमविं"
 
 +++
-पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
-प्र॒दा॒तोप॑ जीवति पितॄ॒णां लो॒केऽक्षि॑तम्॥४॥  
+He who bestows a white-hooved ram, adequate to the place he holds. Offered with five cakes, lives on that, unwasting, in the Fathers' world.

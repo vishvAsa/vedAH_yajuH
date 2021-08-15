@@ -2,5 +2,4 @@
 title = "२९ तमिमं देवता"
 
 +++
-तमि॒मं दे॒वता॑ म॒णिं मह्यं॑ ददतु॒ पुष्ट॑ये ।  
-अ॒भि॒भुं क्ष॑त्र॒वर्ध॑नं सपत्न॒दम्भ॑नं म॒णिम्॥२९॥  
+That Amulet may the Deities bestow on me to win success, The conquering, strength-increasing Charm, the damager of enemies.

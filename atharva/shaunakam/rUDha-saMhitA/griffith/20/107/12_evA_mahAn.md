@@ -2,5 +2,4 @@
 title = "१२ एवा महान्"
 
 +++
-ए॒वा म॒हान् बृ॒हद्दि॑वो॒ अथ॒र्वावो॑च॒त् स्वां त॒न्व॑१मिन्द्र॑मे॒व।  
-स्वसा॑रौ मात॒रिभ्व॑री अरि॒प्रे हि॒न्वन्ति॑ चैने॒ शव॑सा व॒र्धय॑न्ति च ॥१२॥  
+Thou hath Brihaddiva the great Atharvan, spoken to Indra as himself in person. The Matarisvaris, the spotless sisters, with power exalt him and impel him onward.

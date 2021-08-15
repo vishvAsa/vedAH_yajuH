@@ -2,5 +2,4 @@
 title = "१५ ये चित्"
 
 +++
-ये चि॒त् पूर्व॑ ऋ॒तसा॑ता ऋ॒तजा॑ता ऋता॒वृधः॑ ।  
-ऋषी॒न् तप॑स्वतो यम तपो॒जां अपि॑ गच्छतात्॥१५॥  
+Let him, O Yama, go to those Rishis austere, of Fervour born, First followers of Law, the sons of Law, upholders of the Law.

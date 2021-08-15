@@ -2,5 +2,4 @@
 title = "०१ कर्शफस्य विशफस्य"
 
 +++
-क॒र्शफ॑स्य विश॒फस्य॒ द्यौः पि॒ता पृ॑थि॒वी मा॒ता।  
-यथा॑भिच॒क्र दे॑वा॒स्तथाप॑ कृणुता॒ पुनः॑ ॥१॥  
+Heaven is the sire, the mother Earth, of Karsapha and Visapha. As ye have brought them hither, Gods! so do ye move therm hence away.

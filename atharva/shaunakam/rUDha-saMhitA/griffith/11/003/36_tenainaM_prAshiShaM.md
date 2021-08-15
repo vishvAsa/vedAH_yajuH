@@ -2,4 +2,4 @@
 title = "३६ तेनैनं प्राशिषं"
 
 +++
-तेनै॑नं॒ प्राशि॑षं॒ तेनै॑नमजीगमम् ॥५॥  
+And thence, etc. . . . with other tongue . . . Thy tongue will die . . . With the tongue of Agni. 

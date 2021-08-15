@@ -2,4 +2,4 @@
 title = "०५ प्र द्युम्नाय"
 
 +++
-प्र द्यु॒म्नाय॒ प्र शव॑से॒ प्र नृ॒षाह्या॑य॒ शर्म॑णे । प्र दक्षा॑य प्रचेतसा ॥५॥  
+Forward for glory and for strength, protection that shall con- quer men, And power and skill, most sapient Ones!

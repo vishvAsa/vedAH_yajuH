@@ -2,5 +2,4 @@
 title = "०५ सर्वं तद्"
 
 +++
-सर्वं॒ तद् राजा॒ वरु॑णो॒ वि च॑ष्टे॒ यद॑न्त॒रा रोद॑सी॒ यत् प॒रस्ता॑त्।  
-संख्या॑ता अस्य नि॒मिषो॒ जना॑नाम॒क्षानि॑व श्व॒घ्नी नि मि॑नोति॒ तानि॑ ॥५॥  
+All this the royal Varuna beholdeth, all between heaven and earth and all beyond them. The twinklings of men's eyelids hath he counted. As one who plays throws dice he settles all things.

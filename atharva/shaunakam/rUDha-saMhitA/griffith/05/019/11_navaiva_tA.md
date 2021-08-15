@@ -2,5 +2,4 @@
 title = "११ नवैव ता"
 
 +++
-नवै॒व ता न॑व॒तयो॒ या भूमि॒र्व्यऽधूनुत ।  
-प्र॒जां हिं॑सि॒त्वा ब्राह्म॑णीमसंभ॒व्यं परा॑भवन्॥११॥  
+Those nine-and-ninety people whom Earth shook and cast away from her, When they had wronged the Brahman race were ruined incon- ceivably.

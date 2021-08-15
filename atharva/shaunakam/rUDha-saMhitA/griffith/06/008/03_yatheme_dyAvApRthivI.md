@@ -2,5 +2,4 @@
 title = "०३ यथेमे द्यावापृथिवी"
 
 +++
-यथे॒मे द्यावा॑पृथि॒वी स॒द्यः प॒र्येति॒ सूर्यः॑ ।  
-ए॒वा पर्ये॑मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥३॥
+As in his rapid course the Sun encompasses the heaven and: earth, So do I compass round thy mind that thou mayst be in love with. me, my darling, never to depart.

@@ -2,4 +2,4 @@
 title = "०१ एता अश्वा"
 
 +++
-ए॒ता अश्वा॒ आ प्ल॑वन्ते ॥१॥  
+These mares come springing forward to Pratipa Pratisutvana. (with next verse)

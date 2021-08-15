@@ -2,5 +2,4 @@
 title = "०१ परि त्वाग्ने"
 
 +++
-परि॑ त्वाग्ने॒ पुरं॑ व॒यं विप्रं॑ सहस्य धीमहि ।  
-धृ॒षद् व॑र्णं दि॒वेदि॑वे ह॒न्तारं॑ भङ्गु॒राव॑तः ॥१॥
+We set thee round us as a fort, victorious Agni! thee a sage, Bold in thy colour day by day, destroyer of the treacherous foe.

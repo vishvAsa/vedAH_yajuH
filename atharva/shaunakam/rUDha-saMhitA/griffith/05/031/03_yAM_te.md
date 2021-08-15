@@ -2,5 +2,4 @@
 title = "०३ यां ते"
 
 +++
-यां ते॑ च॒क्रुरेक॑शफे पशू॒नामु॑भ॒याद॑ति ।  
-ग॒र्द॒भे कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥३॥  
+The spell that they have cast upon thy beast that hath uncloven hooves, The ass with teeth in both his jaws, this I strike back again on them.

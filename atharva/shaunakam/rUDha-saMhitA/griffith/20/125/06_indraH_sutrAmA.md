@@ -2,5 +2,4 @@
 title = "०६ इन्द्रः सुत्रामा"
 
 +++
-इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒ अवो॑भिः सुमृडी॒को भ॑वतु वि॒श्ववे॑दाः ।  
-बाध॑तां॒ द्वेषो॒ अभ॑यं नः कृणोतु सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥६॥  
+Indra is strong to save, rich in assistance: may he, possessing all, be kind and gracious. May he disperse our foes and give us safety, and may we be the lords of hero vigour.

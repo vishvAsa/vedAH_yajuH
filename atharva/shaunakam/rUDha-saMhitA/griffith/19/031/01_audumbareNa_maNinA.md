@@ -2,5 +2,4 @@
 title = "०१ औदुम्बरेण मणिना"
 
 +++
-औदु॑म्बरेण म॒णिना॒ पुष्टि॑कामाय वे॒धसा ।  
-प॒शूणां॒ सर्वे॑षां स्फा॒तिं गो॒ष्ठे मे॑ सवि॒ता क॑रत्॥१॥  
+Savitar make all cattle grow and prosper in my stable with. Amulet of Udumbara, helper of him who longs for wealth!

@@ -2,5 +2,4 @@
 title = "१० आसो बलासो"
 
 +++
-आसो॑ ब॒लासो॒ भव॑तु॒ मूत्रं॑ भवत्वा॒मय॑त्।  
-यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत्॥१०॥  
+Let wasting malady turn to dust, become the water of disease. I have evoked the poison-taint of all Consumptions out of thee.

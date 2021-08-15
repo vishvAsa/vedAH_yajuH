@@ -2,5 +2,4 @@
 title = "०९ सद्यश्चिन्नु ते"
 
 +++
-स॒द्यश्चि॒न्नु ते॑ मघवन्न॒भिष्टौ॒ नरः॑ शंसन्त्युक्थ॒शास॑ उ॒क्था।  
-ये ते॒ हवे॑भि॒र्वि प॒णींरदा॑शन्न॒स्मान् वृ॑णीष्व॒ युज्या॑य॒ तस्मै॑ ॥९॥  
+Swiftly, in truth, O Bounteous Lord, about thee men skilled im hymning sing their songs and praises. Elect us shares of their love and friendship who by their calls on, thee despoiled the niggards.

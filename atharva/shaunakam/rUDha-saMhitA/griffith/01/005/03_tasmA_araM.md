@@ -2,4 +2,4 @@
 title = "०३ तस्मा अरं"
 
 +++
-तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ । आपो॑ ज॒नय॑था च नः ॥३॥  
+For you we fain would go to him to whose abode ye send us forth, And, Waters, give us procreant strength.

@@ -2,4 +2,4 @@
 title = "०६ इन्द्रो दीर्घाय"
 
 +++
-इन्द्रो॑ दी॒र्घाय॒ चक्ष॑स॒ आ सूर्यं॑ रोहयद् दि॒वि। वि गोभि॒रद्रि॑मैरयत्॥६॥
+Indra hath raised the Sun aloft in heaven that he may see afar. He burst the mountain for the kine.

@@ -2,5 +2,4 @@
 title = "०९ यो वेदानडुहो"
 
 +++
-यो वेदा॑न॒डुहो॒ दोहा॑न्त्स॒प्तानु॑पदस्वतः ।  
-प्र॒जां च॑ लो॒कं चा॑प्नोति॒ तथा॑ सप्तऋ॒षयो॑ विदुः ॥९॥  
+He whosoever knows the seven exhaustless pourings of the Ox, Wins himself offspring and the world: the great Seven Rishis know this well.

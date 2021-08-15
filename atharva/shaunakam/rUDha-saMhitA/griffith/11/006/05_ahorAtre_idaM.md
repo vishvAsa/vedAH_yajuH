@@ -2,5 +2,4 @@
 title = "०५ अहोरात्रे इदं"
 
 +++
-अ॒हो॒रा॒त्रे इ॒दं ब्रू॑मः सूर्याचन्द्र॒मसा॑वु॒भा।  
-विश्वा॑नादि॒त्यान् ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥५॥  
+This word of ours to Day and Night, and to the Sun and Moon we speak, All the Adityas we address: may they deliver us from woe.

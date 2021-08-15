@@ -2,5 +2,4 @@
 title = "०७ मा ते"
 
 +++
-मा ते॑ अ॒स्यां स॑हसाव॒न् परि॑ष्टाव॒घाय॑ भूम हरिवः परा॒दौ।  
-त्राय॑स्व नोऽवृ॒केभि॒र्वरू॑थै॒स्तव॑ प्रि॒यासः॑ सू॒रिषु॑ स्याम ॥७॥  
+Give us not up, Lord of Bay Horses, victor, in this our time of- trouble, to the wicked. Deliver us with true and faithful succour: dear may we be to thee among the princes.

@@ -2,5 +2,4 @@
 title = "३५ एतमिध्मं समाहितं"
 
 +++
-ए॒तमि॒ध्मं स॒माहि॑तं जुषा॒णो अग्ने॒ प्रति॑ हर्य॒ होमैः॑ ।  
-तस्मि॑न् विदेम सुम॒तिं स्व॒स्ति प्र॒जां चक्षुः॑ प॒शून्त्समि॑द्धे जा॒तवे॑दसि॒ ब्रह्म॑णा ॥३५॥
+Love thou, O Agni, pleased with burnt oblations, this sacred fuel that is ranged in order. In him may we find grace and loving-kindness, happiness, progeny, and sight and cattle, in Jatavedas kindled with devotion.

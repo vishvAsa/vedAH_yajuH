@@ -2,5 +2,4 @@
 title = "०४ भिन्द्धि दर्भ"
 
 +++
-भि॒न्द्धि द॑र्भ स॒पत्ना॑नां॒ हृद॑यः द्विष॒तां म॑णे ।  
-उ॒द्यन्त्वच॑मिव॒ भूम्याः॒ शिर॑ ए॒षा वि पा॑तय ॥४॥  
+Cleave through. O Darbha, Amulet, my foes', mine adversaries'. heart. Rise thou and batter down their heads like growth that coverethl the earth.

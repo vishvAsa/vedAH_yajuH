@@ -2,5 +2,4 @@
 title = "०१ अति धन्वान्यत्यपस्ततर्द"
 
 +++
-अति॒ धन्वा॒न्यत्य॒पस्त॑तर्द श्ये॒नो नृ॒चक्षा॑ अवसानद॒र्शः ।  
-तर॒न् विश्वा॒न्यव॑रा॒ रजां॒सीन्द्रे॑ण॒ सख्या॑ शि॒व आ ज॑गम्यात्॥१॥  
+Observing men, and viewing home, the Falcon hath cleft his swift way over wastes and waters. May he, with Indra for a friend, auspicious, traversing all air's lower realms, come hither.

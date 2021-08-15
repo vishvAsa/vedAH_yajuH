@@ -2,5 +2,4 @@
 title = "०४ अग्नि पूर्व"
 
 +++
-अ॒ग्नि पूर्व॒ आ र॑भतां॒ प्रेन्द्रो॑ नुदतु बाहु॒मा॑न्।  
-ब्रवी॑तु॒ सर्वो॑ यातु॒मान॒यम॒स्मीत्येत्य॑ ॥४॥  
+May Agni seize upon them first, may strong-armed Indra drive them forth: Let every wicked sorcerer come hither and say, Here am I.

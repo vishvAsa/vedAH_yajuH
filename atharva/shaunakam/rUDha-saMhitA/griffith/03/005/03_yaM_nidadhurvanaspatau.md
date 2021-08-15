@@ -2,5 +2,4 @@
 title = "०३ यं निदधुर्वनस्पतौ"
 
 +++
-यं नि॑द॒धुर्वन॒स्पतौ॒ गुह्यं॑ दे॒वाः प्रि॒यं म॒णिम्।  
-तम॒स्मभ्यं॑ स॒हायु॑षा दे॒वा द॑दतु॒ भर्त॑वे ॥३॥  
+That dear mysterious Amulet which Gods have set within the tree, May the Gods grant to me to wear together with extended life.

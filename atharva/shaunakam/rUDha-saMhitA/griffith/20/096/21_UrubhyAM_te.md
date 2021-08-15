@@ -2,5 +2,4 @@
 title = "२१ ऊरुभ्यां ते"
 
 +++
-ऊ॒रुभ्यां॑ ते अष्ठी॒वद्भ्यां॒ पार्ष्णिभ्यां॒ प्रप॑दाभ्याम्।  
-यक्ष्मं॑ भस॒द्यं॑१ श्रोणि॑भ्यां॒ भास॑दं॒ भंस॑सो॒ वि वृ॑हामि ते ॥२१॥  
+From what is voided from within, and from thy hair, and from thy nails, From all thyself, from top to toe, I drive thy malady away.

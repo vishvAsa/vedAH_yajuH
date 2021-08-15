@@ -2,5 +2,4 @@
 title = "०६ व्यऽस्यै मित्रावरुणौ"
 
 +++
-व्यऽस्यै मित्रावरुणौ हृ॒दश्चि॒त्तान्य॑स्यतम्।  
-अथै॑नामक्र॒तुं कृ॒त्वा ममै॒व कृ॑णुतं॒ वशे॑ ॥६॥
+Mitra and Varuna, expel all thought and purpose from her heart. Deprive her of her own free will and make her subject unto me.

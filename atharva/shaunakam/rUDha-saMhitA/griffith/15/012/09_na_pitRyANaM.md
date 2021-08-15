@@ -2,4 +2,4 @@
 title = "०९ न पितृयाणं"
 
 +++
-न पि॑तृ॒याणं॒ पन्थां॑ जानाति॒ न दे॑व॒यान॑म्॥९॥  
+Knows not the path that leads to the Fathers nor the way that leads to the Gods.

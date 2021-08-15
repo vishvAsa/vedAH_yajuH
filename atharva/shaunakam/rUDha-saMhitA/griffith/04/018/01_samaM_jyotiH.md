@@ -2,5 +2,4 @@
 title = "०१ समं ज्योतिः"
 
 +++
-स॒मं ज्योतिः॒ सूर्ये॒णाह्ना॒ रात्री॑ स॒मावती॑ ।  
-कृ॒णोमि॑ स॒त्यमू॒तये॑ऽर॒साः स॑न्तु॒ कृत्व॑रीः ॥१॥  
+The moonlight equalleth the sun, night is the rival of the day. I make effectual power my help: let magic arts be impotent.

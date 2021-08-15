@@ -2,5 +2,4 @@
 title = "०२ येना निचक्र"
 
 +++
-येना॑ निच॒क्र आ॑सु॒रीन्द्रं॑ दे॒वेभ्य॒स्परि॑ ।  
-तेना॒ नि कु॑र्वे॒ त्वाम॒हं यथा॒ तेऽसा॑नि॒ सुप्रि॑या ॥२॥  
+This Herb wherewith the Asuri drew Indra downward from the Gods, With this same Herb I draw thee close that I may be most dear to thee.

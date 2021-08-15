@@ -2,5 +2,4 @@
 title = "०५ क्वाऽर्धमासाः क्वऽ"
 
 +++
-क्वाऽर्धमा॒साः क्वऽ यन्ति॒ मासाः॑ संवत्स॒रेण॑ स॒ह सं॑विदा॒नाः ।  
-यत्र॒ यन्त्यृ॒तवो॒ यत्रा॑र्त॒वाः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥५॥  
+Whitheward go the half-months, and, accordant with the full year, the months in their procession? Who out of many, tell me, is that Skambha to whom go seasons and the groups of seasons?

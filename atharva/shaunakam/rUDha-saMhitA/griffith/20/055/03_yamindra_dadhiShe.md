@@ -2,5 +2,4 @@
 title = "०३ यमिन्द्र दधिषे"
 
 +++
-यमि॑न्द्र दधि॒षे त्वमश्वं॒ गां भा॒गमव्य॑यम्।  
-यज॑माने सुन्व॒ति दक्षि॑णावति॒ तस्मि॒न् तं धे॑हि॒ मा प॒णौ॥३॥
+The wasteless share of steeds and kine which, Indra, thou hast fast secured. Grant to the worshipper who presses Soma and gives guerdon, not unto the churl.

@@ -2,5 +2,4 @@
 title = "०४ आ नूनं"
 
 +++
-आ नू॒नं या॑तमश्विने॒मा ह॒व्यानि॑ वां हि॒ता।  
-इ॒मे सोमा॑सो॒ अधि॑ तु॒र्वशे॒ यदा॑वि॒मे कण्वे॑षु वा॒मथ॑ ॥४॥  
+Now come, ye Asvins, hitherward: here are oblations set for you; These Soma draughts to aid Yadu and Turvasa, these offered you mid Kanva's sons.

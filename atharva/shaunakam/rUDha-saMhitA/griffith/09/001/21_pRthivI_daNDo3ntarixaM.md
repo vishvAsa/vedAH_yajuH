@@ -2,4 +2,4 @@
 title = "२१ पृथिवी दण्डो३न्तरिक्षं"
 
 +++
-पृ॒थि॒वी द॒ण्डो॒३न्तरि॑क्षं॒ गर्भो॒ द्यौः कशा॑ वि॒द्युत् प्र॑क॒शो हि॑र॒ण्ययो॑ बि॒न्दुः ॥२१॥  
+The Whip itself is Heaven, Earth is the handle, the point of juncture is the Air's mid-region. The lash is lightning, and the tip is golden.

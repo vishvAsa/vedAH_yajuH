@@ -2,5 +2,4 @@
 title = "०६ धृषत् पिब"
 
 +++
-धृ॒षत् पि॑ब क॒लशे॒ सोम॑मिन्द्र वृत्र॒हा शू॑र सम॒रे वसू॑नाम्।  
-माध्य॑न्दिने॒ सव॑न॒ आ वृ॑षस्व रयि॒ष्ठानो॑ र॒यिम॒स्मासु॑ धेहि ॥६॥
+Boldly drink Soma from the beaker, Indra! hero in war for treasure! Vritra-slayer. Fill thyself full at the mid-day libation: thyself possessing riches grant us riches.

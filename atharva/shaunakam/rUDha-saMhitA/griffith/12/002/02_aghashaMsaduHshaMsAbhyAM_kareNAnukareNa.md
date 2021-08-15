@@ -2,5 +2,4 @@
 title = "०२ अघशंसदुःशंसाभ्यां करेणानुकरेण"
 
 +++
-अ॒घ॒शं॒स॒दुः॒शं॒साभ्यां॑ क॒रेणा॑नुक॒रेण॑ च ।  
-यक्ष्मं॑ च॒ सर्वं॒ तेने॒तो मृ॒त्युं च॒ निर॑जामसि ॥२॥  
+With this we chase and banish all consumptive malady and Death, With sinner andamalicious man, with helper and with minister,

@@ -2,5 +2,4 @@
 title = "७१ अमोऽहमस्मि सा"
 
 +++
-अमो॒ऽहम॑स्मि॒ सा त्वं सामा॒हम॒स्म्यृक् त्वं द्यौर॒हं पृ॑थि॒वी त्वम्।  
-तावि॒ह सं भ॑वाव प्र॒जामा ज॑नयावहै ॥७१॥  
+I am this man, that dame art thou I am the psalm and thou the verse. I am the heaven and thou the earth. So will we dwell together here, parents of children yet to be.

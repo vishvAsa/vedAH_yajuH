@@ -2,4 +2,4 @@
 title = "०६ क्वाहतं परास्यः"
 
 +++
-क्वाह॑तं॒ परा॑स्यः ॥६॥  
+The excellent, the golden son: where now hast thou aban- doned him? (with previous verse)

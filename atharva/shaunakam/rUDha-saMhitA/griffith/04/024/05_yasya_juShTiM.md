@@ -2,5 +2,4 @@
 title = "०५ यस्य जुष्टिं"
 
 +++
-यस्य॒ जुष्टिं॑ सो॒मिनः॑ का॒मय॑न्ते॒ यं हव॑न्त॒ इषु॑मन्तं॒ गवि॑ष्टौ ।  
-यस्मि॑न्न॒र्कः शि॑श्रि॒ये यस्मि॒न्नोजः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥५॥  
+Whose favour those desire who offer Soma, whom, arrow-bearer, men invoke in battle, On whom the hymn depends, in whom is power, May he deliver us from grief and trouble.

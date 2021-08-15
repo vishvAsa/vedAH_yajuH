@@ -2,5 +2,4 @@
 title = "०६ आ क्रन्दय"
 
 +++
-आ क्र॑न्दय धनपते व॒रमाम॑नसं कृणु ।  
-सर्वं॑ प्रदक्षि॒णं कृ॑णु॒ यो व॒रः प्र॑तिका॒म्यः ॥६॥  
+Call out to him, O Lord of Wealth! Make thou the lover well- inclined. Set each on thy right hand who is a lover worthy of her choice.

@@ -2,5 +2,4 @@
 title = "०४ रिश्यपदीं वृषदतीं"
 
 +++
-रिश्य॑पदीं॒ वृष॑दतीं गोषे॒धां वि॑ध॒मामु॒त।  
-वि॒ली॒ढ्यं ऽ लला॒म्यं॑१ ता अ॒स्मन्ना॑शयामसि ॥४॥
+Antelope-foot, and Bullock-tooth, Cow-terrifier, Vapour-form, The Licker, and the Spotted Hag, all these we drive away from us.

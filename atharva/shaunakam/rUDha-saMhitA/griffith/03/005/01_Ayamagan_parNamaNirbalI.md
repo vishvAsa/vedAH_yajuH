@@ -2,5 +2,4 @@
 title = "०१ आयमगन् पर्णमणिर्बली"
 
 +++
-आयम॑गन् पर्णम॒णिर्ब॒ली बले॑न प्रमृ॒णन्त्स॒पत्ना॑न्।  
-ओजो॑ दे॒वानां॒ पय॒ ओष॑धीनां॒ वर्च॑सा मा जिन्व॒त्वप्र॑यावन्॥१॥  
+This Parna-Amulet hath come, strong and destroying with its strength my rivals. The power of the Gods, the plants' sweet essence, may it incite me ceaselessly with vigour.

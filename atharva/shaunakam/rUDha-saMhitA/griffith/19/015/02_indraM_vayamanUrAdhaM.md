@@ -2,5 +2,4 @@
 title = "०२ इन्द्रं वयमनूराधं"
 
 +++
-इन्द्रं॑ व॒यम॑नूरा॒धं ह॑वाम॒हेऽनु॑ राध्यास्म द्वि॒पदा॒ चतु॑ष्पदा ।  
-मा नः॒ सेना॒ अर॑रुषी॒रुप॑ गु॒र्विषू॑चीरिन्द्र द्रु॒हो वि ना॑शय ॥२॥  
+We call on Indra, on the liberal giver: we will be prosperous in men and cattle. Let not the hosts of cruel fiends approach us. Drive of the Druhs to every side, O Indra.

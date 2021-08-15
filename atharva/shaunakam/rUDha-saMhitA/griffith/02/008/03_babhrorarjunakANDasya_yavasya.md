@@ -2,5 +2,4 @@
 title = "०३ बभ्रोरर्जुनकाण्डस्य यवस्य"
 
 +++
-ब॒भ्रोरर्जु॑नकाण्डस्य॒ यव॑स्य ते पला॒ल्या तिल॑स्य तिलपि॒ञ्ज्या।  
-वीरुत् क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥३॥  
+With straw of barley tawny-brown in colour with its silvery ears, with stalk and stem of Sesamum- So let the plague-destroying Plant remove inherited disease.

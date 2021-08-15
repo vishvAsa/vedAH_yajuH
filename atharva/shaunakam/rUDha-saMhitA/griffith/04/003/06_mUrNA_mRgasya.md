@@ -2,5 +2,7 @@
 title = "०६ मूर्णा मृगस्य"
 
 +++
-मू॒र्णा मृ॒गस्य॒ दन्ता॒ अपि॑शीर्णा उ पृ॒ष्टयः॑ ।  
-नि॒म्रुक्ते॑ गो॒धा भ॑वतु नी॒चाय॑च्छश॒युर्मृ॒गः ॥६॥  
+id
+4.3.6    Let the beast's teeth be broken off, shivered ...
+4.3.6    Let the beast's teeth be broken off, shivered ...
+Name: Comment, dtype: object

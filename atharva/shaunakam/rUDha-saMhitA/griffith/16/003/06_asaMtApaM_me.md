@@ -2,4 +2,4 @@
 title = "०६ असंतापं मे"
 
 +++
-अ॒सं॒ता॒पं मे॒ हृद॑यमु॒र्वी गव्यू॑तिः समु॒द्रो अ॑स्मि॒ विध॑र्मणा ॥६॥
+My heart is free from sorrow; spacious is my dwelling-place. I am the sea in capacity.

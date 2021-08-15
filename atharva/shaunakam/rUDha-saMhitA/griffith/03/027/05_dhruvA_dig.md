@@ -2,6 +2,7 @@
 title = "०५ ध्रुवा दिग्"
 
 +++
-ध्रु॒वा दिग् विष्णु॒रधि॑पतिः क॒ल्माष॑ग्रीवो रक्षि॒ता वी॒रुध॒ इष॑वः ।  
-तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो नम॒ एभ्यो अस्तु ।  
-यो॒३ऽस्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥५॥  
+id
+3.27.5    Vishnu is ruler of the firm-set region, Kalmas...
+3.27.5    Where, having left all sickness of their bodie...
+Name: Comment, dtype: object

@@ -2,5 +2,4 @@
 title = "०१ ये३स्यां स्थ"
 
 +++
-ये॒३स्यां स्थ प्राच्यां॑ दि॒शि हे॒तयो॒ नाम॑ दे॒वास्तेषां॑ वो अ॒ग्निरिष॑वः ।  
-ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥१॥  
+Ye Gods who dwell within this eastward region, entitled Weapons, Agni forms your arrows. Be kind and gracious unto us and bless us. To you be reverence, to you be welcome!

@@ -2,5 +2,4 @@
 title = "१६ केनापो अन्वतनुत"
 
 +++
-केनापो॒ अन्व॑तनुत॒ केनाह॑रकरोद् रु॒चे।  
-उ॒षसं॒ केनान्वै॑न्द्ध॒ केन॑ सायंभ॒वं द॑दे ॥१६॥  
+Through whom did he spread waters out, through whom did he make Day to shine? Through whom did he enkindle Dawn and give the gift of even- tide?

@@ -2,5 +2,4 @@
 title = "१० अपथेना जभारैणां"
 
 +++
-अप॑थे॒ना ज॑भारैणां॒ तां प॒थेतः प्र हि॑ण्मसि ।  
-अधी॑रो मर्या॒धीरे॑भ्यः॒ सं ज॑भा॒राचि॑त्त्या ॥१०॥  
+He brought this by no proper path, by the right path we drive it back. The fool in folly brought it to those who observe established bounds.

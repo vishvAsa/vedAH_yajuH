@@ -2,5 +2,4 @@
 title = "०३ यानावह उशतो"
 
 +++
-यानाव॑ह उश॒तो दे॑व दे॒वांस्तान् प्रेर॑य॒ स्वे अ॑ग्ने स॒धस्थे॑ ।  
-ज॒क्षि॒वांसः॑ पपि॒वांसो॒ मधू॑न्य॒स्मै ध॑त्त वसवो॒ वसू॑नि ॥३॥  
+The willing Gods whom, God, thou hast brought hither, send thou to their own dwelling-place, O Agni. When ye have eaten and have drunk sweet juices, endow this man with precious wealth, ye Vasus.

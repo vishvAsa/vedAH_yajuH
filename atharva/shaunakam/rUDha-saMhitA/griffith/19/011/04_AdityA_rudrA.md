@@ -2,5 +2,4 @@
 title = "०४ आदित्या रुद्रा"
 
 +++
-आ॒दि॒त्या रु॒द्रा वस॑वो जुषन्तामि॒दं ब्रह्म॑ क्रि॒यमा॑णं॒ नवी॑यः ।  
-शृ॒ण्वन्तु॑ नो दि॒व्याः पार्थि॑वासो॒ गोजा॑ता उ॒त ये य॒ज्ञिया॑सः ॥४॥  
+So may the Rudras, Vasus, and Adityas accept the new hymn we now are making. May all the Holy Ones of earth and heaven, and the Cow's off- spring hear our invocation.

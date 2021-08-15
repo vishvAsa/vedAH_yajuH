@@ -2,5 +2,4 @@
 title = "०७ य आक्ताक्षः"
 
 +++
-य आ॒क्ताक्षः॑ सुभ्य॒क्तः सुम॑णिः॒ सुहि॑र॒ण्यवः॑ ।  
-सुब्र॑ह्मा॒ ब्रह्म॑णः पु॒त्रस्तो॒ता कल्पे॑षु सं॒मिता॑ ॥७॥  
+With well-anointed limbs and eyes, wearing fair gem and golden, ring, Good priest is he, the Brahman's son; these things are ordered in the rules.

@@ -2,5 +2,4 @@
 title = "१३ सं हि"
 
 +++
-सं हि सोमे॒नाग॑त॒ समु॒ सर्वे॑ण प॒द्वता॑ ।  
-व॒शा स॑मु॒द्रमध्य॑ष्ठाद् गन्धर्वैः क॒लिभिः॑ स॒ह॥१३॥  
+Come hither with the Soma, come with every footed thing; the Cow With Kalis and Gandharvas by her side hath stepped upon the sea.

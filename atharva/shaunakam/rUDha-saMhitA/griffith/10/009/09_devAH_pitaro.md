@@ -2,5 +2,4 @@
 title = "०९ देवाः पितरो"
 
 +++
-दे॒वाः पि॒तरो॑ मनु॒ष्याऽ गन्धर्वाप्स॒रस॑श्च॒ ये।  
-ते त्वा॒ सर्वे॑ गोप्स्यन्ति॒ साति॑रा॒त्रमति॑ द्रव ॥९॥  
+The Gods, the Fathers, mortal men, Gandharvas, and Apsara- ses, All these will be the guards: o'ertake and pass the Atiratra, thou!

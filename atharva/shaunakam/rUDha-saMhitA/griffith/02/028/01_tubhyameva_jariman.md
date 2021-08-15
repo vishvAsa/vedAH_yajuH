@@ -2,5 +2,4 @@
 title = "०१ तुभ्यमेव जरिमन्"
 
 +++
-तुभ्य॑मे॒व ज॑रिमन् वर्धताम॒यं मेमम॒न्ये मृ॒त्यवो॑ हिंसिषुः श॒तं ये॑।  
-मा॒तेव॒ पु॒त्रं प्रम॑ना उ॒पस्थे॑ मि॒त्र ए॑नं मि॒त्रिया॑त् पा॒त्वंह॑सः ॥१॥  
+This Child, Old Age! shall grow to meet thee only: none of the hundred other deaths shall harm him. From trouble caused by friends let Mitra guard him, as a kind mother guards the son she nurses.

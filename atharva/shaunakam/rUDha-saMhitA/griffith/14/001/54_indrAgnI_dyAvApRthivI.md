@@ -2,5 +2,4 @@
 title = "५४ इन्द्राग्नी द्यावापृथिवी"
 
 +++
-इ॒न्द्रा॒ग्नी द्यावा॑पृथि॒वी मा॑त॒रिश्वा॑ मि॒त्रावरु॑णा॒ भगो॑ अ॒श्विनो॒भा।  
-बृह॒स्पति॑र्म॒रुतो॒ ब्रह्म॒ सोम॑ इ॒मां नारीं॑ प्र॒जया॑ वर्धयन्तु ॥५४॥  
+May Indra-Agni, Heaven-Earth, Matarisvan, may Mitra-Varuna, Bhaga, both the Asvins, Brihaspati, the host of Maruts, Brahma, and Soma magnify this dame with offspring.

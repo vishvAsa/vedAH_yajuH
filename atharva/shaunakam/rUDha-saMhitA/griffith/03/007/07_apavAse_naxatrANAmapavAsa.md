@@ -2,5 +2,4 @@
 title = "०७ अपवासे नक्षत्राणामपवास"
 
 +++
-अ॒प॒वा॒से नक्ष॑त्राणामपवा॒स उ॒षसा॑मु॒त।  
-अपा॒स्मत् सर्वं॑ दुर्भू॒तमप॑ क्षेत्रि॒यमु॑च्छतु ॥७॥
+What time the starlight disappears, what time the gleams of Dawn depart, May evil fortune pass from us, the chronic sickness disappear.

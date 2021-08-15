@@ -2,4 +2,4 @@
 title = "१३ शिवानग्नीनप्सुषदो हवामहे"
 
 +++
-शि॒वान॒ग्नीन॑प्सु॒षदो॑ हवामहे॒ मयि॑ क्ष॒त्रं वर्च॒ आ ध॑त्त देवीः ॥१३॥
+We call the gracious Fires that dwell in waters. Goddesses, grant me princely power and splendour.

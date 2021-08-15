@@ -2,5 +2,4 @@
 title = "०२ कदु स्तुवन्त"
 
 +++
-कदु॑ स्तु॒वन्त॑ ऋतयन्त दे॒वत॒ ऋषिः॒ को विप्र॑ ओहते ।  
-क॒दा हवं॑ मघवन्निन्द्र सुन्व॒तः कदु॑ स्तुव॒त आ ग॑मः ॥२॥
+When shall they keep the Law and praise thee mid the Gods? Who counts as Rishi and as sage? When wilt thou ever, Indra, Bounteous Lord, come nigh to presser's or to praiser's call?

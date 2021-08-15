@@ -2,5 +2,4 @@
 title = "०२ त्वां विशो"
 
 +++
-त्वां विशो॑ वृणतां रा॒ज्याऽय॒ त्वामि॒माः प्र॒दिशः॒ पञ्च॑ दे॒वीः ।  
-वर्ष्म॑न् रा॒ष्ट्रस्य॑ क॒कुदि॑ श्रयस्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥२॥  
+The tribesmen shall elect thee for the Kingship, these five celestial regions shall elect thee. Rest on the height and top of kingly power: thence as a mighty man award us treasures.

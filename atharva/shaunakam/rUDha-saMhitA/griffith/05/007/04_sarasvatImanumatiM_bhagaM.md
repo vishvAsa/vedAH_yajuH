@@ -2,5 +2,4 @@
 title = "०४ सरस्वतीमनुमतिं भगं"
 
 +++
-सर॑स्वती॒मनु॑मतिं॒ भगं॒ यन्तो॑ हवामहे ।  
-वाचं॑ जु॒ष्टां मधु॑मतीमवादिषं दे॒वानां॑ दे॒वहू॑तिषु ॥४॥  
+We, suppliant, call on Bhaga, on Sarasvati, Anumati, Pleasant words have I spoken, sweet as honey is, at invocations of the Gods.

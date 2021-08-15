@@ -2,5 +2,7 @@
 title = "४३ यस्याः पुरो"
 
 +++
-यस्याः॒ पुरो॑ दे॒वकृ॑ताः॒ क्षेत्रे॒ यस्या॑ विकु॒र्वते॑ ।  
-प्र॒जाप॑तिः पृथि॒वीं वि॒श्वग॑र्भा॒माशा॑माशां॒ रण्यां॑ नः कृणोतु ॥४३॥  
+id
+12.1.43    Earth on whose surface they enclose the altar,...
+12.1.43    Whose castles are the work of Gods, and men wa...
+Name: Comment, dtype: object

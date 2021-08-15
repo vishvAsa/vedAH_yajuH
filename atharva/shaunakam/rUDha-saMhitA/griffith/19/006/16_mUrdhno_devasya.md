@@ -2,5 +2,4 @@
 title = "१६ मूर्ध्नो देवस्य"
 
 +++
-मू॒र्ध्नो दे॒वस्य॑ बृह॒तो अं॒शवः॑ स॒प्त स॑प्त॒तीः ।  
-राज्ञः॒ सोम॑स्याजायन्त जा॒तस्य॒ पुरु॑षा॒दधि॑ ॥१६॥
+Forth from head of the high God seven-and-seventy bright beams. Sprang into being, of the King Soma produced from Purusha.

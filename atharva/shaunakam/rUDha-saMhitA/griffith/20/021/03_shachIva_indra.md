@@ -2,5 +2,4 @@
 title = "०३ शचीव इन्द्र"
 
 +++
-शची॑व इन्द्र पुरुकृद् द्युमत्तम॒ तवेदि॒दम॒भित॑श्चेकिते॒ वसु॑ ।  
-अतः॑ सं॒गृभ्या॑भिभूत॒ आ भ॑र॒ मा त्वा॑य॒तो ज॑रि॒तुः काम॑मूनयीः ॥३॥  
+Indra, most splendid, powerful, rich in mighty deeds, this treasure spread around is known to be thine own. Gather therefrom. O Conqueror, and bring to us: fail not the hope of him who loves and sings to thee.

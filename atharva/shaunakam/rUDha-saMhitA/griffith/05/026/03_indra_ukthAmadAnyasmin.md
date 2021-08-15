@@ -2,4 +2,4 @@
 title = "०३ इन्द्र उक्थामदान्यस्मिन्"
 
 +++
-इन्द्र॑ उक्थाम॒दान्य॒स्मिन् य॒ज्ञे प्र॑वि॒द्वान् यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥३॥  
+In this great rite--All hail!--may sapient Indra use lauds, rejoicings, well-yoked coursers.

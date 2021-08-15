@@ -2,5 +2,4 @@
 title = "२२ दिशश्चतस्रोऽश्वतर्यो देवरथस्य"
 
 +++
-दिश॒श्चत॑स्रोऽश्वत॒र्यो देवर॒थस्य॑ पुरो॒डाशाः॑ श॒फा अन्तरि॑क्षमु॒द्धिः ।  
-द्यावा॑पृथि॒वी पक्ष॑सी ऋ॒तवो॒ऽभीश॑वोऽन्तर्दे॒शाः किं॑क॒रा वाक् परि॑रथ्यम्॥२२॥  
+The mules of the Gods' car are heaven's four quarters; their hooves are sacred cakes, the air its body. Its sides are Heaven and Earth, its reins the Seasons, Voice is its hood, its grooms are sky's mid-regions.

@@ -2,5 +2,4 @@
 title = "१५ जीवेभ्यस्त्वा समुद्रे"
 
 +++
-जी॒वेभ्य॑स्त्वा स॒मुद्रे॑ वा॒युरिन्द्रो॑ धा॒ता द॑धातु सवि॒ता त्राय॑माणः ।  
-मा त्वा॑ प्रा॒णो बलं॑ हासी॒दसुं॒ तेऽनु॑ ह्वयामसि ॥१५॥  
+May saving Savitar, Vayu, Indra, Dhatar restore thee to com- munion with the living. Let not thy vigour or thy breath forsake thee: we recall thy life.

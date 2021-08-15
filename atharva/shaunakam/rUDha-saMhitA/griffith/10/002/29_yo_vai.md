@@ -2,5 +2,4 @@
 title = "२९ यो वै"
 
 +++
-यो वै तां ब्रह्म॑णो॒ वेदा॒मृते॒नावृ॑तां॒ पुर॑म्।  
-तस्मै॒ ब्रह्म॑ च ब्रा॒ह्माश्च॒ चक्षुः॑ प्रा॒णं प्र॒जां द॑दुः ॥२९॥  
+Yea, knows that fort of Brahma girt about with immortality, Brahma and Brahmas have bestowed sight, progeny, and life on him.

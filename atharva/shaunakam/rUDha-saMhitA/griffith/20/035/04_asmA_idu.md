@@ -2,5 +2,4 @@
 title = "०४ अस्मा इदु"
 
 +++
-अ॒स्मा इदु॒ स्तोमं॒ सं हि॑नोमि॒ रथं॒ न तष्टे॑व॒ तत्सि॑नाय ।  
-गिर॑श्च॒ गिर्वा॑हसे सुवृ॒क्तीन्द्रा॑य विश्वमि॒न्वं मेधि॑राय ॥४॥  
+Even for him I frame a laud--so fashions the wright a chariot for the man who needs it Songs for wise Indra hymned with invocation, a song composed with care and all-impelling.

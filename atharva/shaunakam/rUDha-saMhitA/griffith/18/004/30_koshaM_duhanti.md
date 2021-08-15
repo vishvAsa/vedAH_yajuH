@@ -2,5 +2,4 @@
 title = "३० कोशं दुहन्ति"
 
 +++
-कोशं॑ दुहन्ति क॒लशं॒ चतु॑र्बिल॒मिडां॑ धे॒नुं मधु॑मतीं स्व॒स्तये॑ ।  
-ऊर्जं॒ मद॑न्ती॒मदि॑तिं॒ जने॒ष्वग्ने॒ मा हिं॑सीः पर॒मे व्योऽमन्॥३०॥  
+They for their weal drain out the cask, the beaker four-holed,. the milch-cow Ida full of sweetness, Injure not, Agni, in the loftiest heaven Aditi heightening strength among the people.

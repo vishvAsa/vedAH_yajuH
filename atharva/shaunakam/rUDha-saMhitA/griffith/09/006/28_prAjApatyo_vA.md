@@ -2,4 +2,4 @@
 title = "२८ प्राजापत्यो वा"
 
 +++
-प्रा॒जा॒प॒त्यो वा ए॒तस्य॑ य॒ज्ञो वित॑तो॒ य उ॑प॒हर॑ति ।११। २८॥  
+The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.

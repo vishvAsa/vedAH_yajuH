@@ -2,5 +2,4 @@
 title = "१३ अस्मिन् वयं"
 
 +++
-अ॒स्मिन् व॒यं संक॑सुके अ॒ग्नौ रि॒प्राणि॑ मृज्महे ।  
-अभू॑म य॒ज्ञियाः॑ शु॒द्धाः प्र ण॒ आयूं॑षि तारिषत्॥१३॥  
+On Agni here, the Breaker-up, we wipe impurities away. Cleansed, fit for sacrifice have we become: may he prolong our lives.

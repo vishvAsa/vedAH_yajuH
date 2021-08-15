@@ -2,5 +2,4 @@
 title = "०३ स घा"
 
 +++
-स घा॑ नो दे॒वः स॑वि॒ता सा॑विषद॒मृता॑नि॒ भूरि॑ ।  
-उ॒भे सु॑ष्टुती सु॒गात॑वे ॥३॥
+Savitar our God shall send us many everlasting treasures, that both paths may well be travelled.

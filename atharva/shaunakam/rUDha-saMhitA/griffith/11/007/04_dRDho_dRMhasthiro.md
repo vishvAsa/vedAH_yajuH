@@ -2,5 +2,4 @@
 title = "०४ दृढो दृंहस्थिरो"
 
 +++
-दृ॒ढो दृं॑हस्थि॒रो न्यो ब्रह्म॑ विश्व॒सृजो दश॑ ।  
-नाभि॑मिव स॒र्वत॑श्च॒क्रमुच्छि॑ष्टे दे॒वताः॑ श्रि॒ताः ॥४॥  
+The firm, the fast, the strong, the hard, Brahma, the All-creating Ten. Gods, as a wheel about the nave, are fixed all round the Residue.

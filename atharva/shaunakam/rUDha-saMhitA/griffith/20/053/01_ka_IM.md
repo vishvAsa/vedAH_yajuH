@@ -2,5 +2,4 @@
 title = "०१ क ईं"
 
 +++
-क ईं॑ वेद सु॒ते सचा॒ पिब॑न्तं॒ कद् वयो॑ दधे ।  
-अ॒यं यः पुरो॑ विभि॒नत्त्योज॑सा मन्दा॒नः शि॒प्र्यन्ध॑सः ॥१॥  
+Who knows what vital power he wins, drinking beside the flowing juice? This is the fair-cheeked God who, joying in the draught, breaks down the castles in his strength.

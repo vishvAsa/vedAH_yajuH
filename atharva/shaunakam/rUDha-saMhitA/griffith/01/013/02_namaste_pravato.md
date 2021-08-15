@@ -2,5 +2,4 @@
 title = "०२ नमस्ते प्रवतो"
 
 +++
-नम॑स्ते प्रवतो नपा॒द्यत॒स्तपः॑ स॒मूह॑सि ।  
-मृ॒डया॑ नस्त॒नूभ्यो॒ मय॑स्तो॒केभ्य॑स्कृधि ॥२॥  
+Homage to thee, Child of the Flood whence thou collectest fer- vent heat! Be gracious to our bodies, give our children happiness and joy.

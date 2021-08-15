@@ -2,5 +2,4 @@
 title = "०२ उर्ध्वा यस्यामतिर्भा"
 
 +++
-उ॒र्ध्वा यस्या॒मति॒र्भा अदि॑द्युत॒त् सवी॑मनि ।  
-हिर॑ण्यपाणिरमिमीत सु॒क्रतुः॑ कृ॒पात् स्वः ॥२॥  
+Whose splendour is sublime, whose light shone brilliant in crea- tion, who, wise, and golden-handed, in his beauty made the sky.

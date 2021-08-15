@@ -2,5 +2,4 @@
 title = "१३ देवपीयुश्चरति मर्त्येषु"
 
 +++
-दे॒व॒पी॒युश्च॑रति॒ मर्त्ये॑षु गरगी॒र्णो भ॑व॒त्यस्थि॑भूयान्।  
-यो ब्रा॑ह्म॒णं दे॒वब॑न्धुं हि॒नस्ति॒ न स पि॑तृ॒याण॒मप्ये॑ति लो॒कम्॥१३॥  
+Among mankind the Gods' despiser moveth: he hath drunk poison, naught but bone is left him. Who wrongs the kinsman of the Gods, the Brahman, gains not the sphere to which the Fathers travelled.

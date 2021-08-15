@@ -2,5 +2,4 @@
 title = "०८ प्र यमन्तर्वृषसवासो"
 
 +++
-प्र यम॒न्तर्वृ॑षस॒वासो॒ अग्म॑न् ती॒व्राः सोमा॑ बहु॒लान्ता॑स॒ इन्द्र॑म्।  
-नाह॑ दा॒मानं॑ म॒घवा॒ नि यं॑स॒न् नि सु॑न्व॒ते व॑हति॒ भूरि॑ वा॒मम्॥८॥  
+Indra the swallower of strong libations with their thick residue, the potent Somas, He, Maghavan, will not restrict his bounty: he brings much wealth unto the Soma-presser.

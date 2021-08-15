@@ -2,5 +2,4 @@
 title = "०३ अस्मै भीमाय"
 
 +++
-अ॒स्मै भी॒माय॒ नम॑सा॒ सम॑ध्व॒र उषो॒ न शु॑भ्र॒ आ भ॑रा॒ पनी॑यसे ।  
-यस्य॒ धाम॒ श्रव॑से॒ नामे॑न्द्रि॒यं ज्योति॒रका॑रि ह॒रितो॒ नाय॑से ॥३॥  
+To him the terrible, most worthy of high praise, like radiant Dawn, bring gifts with reverence in this rite, Whose being, for renown, yea, Indra-power and light, have been created, like bay steeds, to move with speed.

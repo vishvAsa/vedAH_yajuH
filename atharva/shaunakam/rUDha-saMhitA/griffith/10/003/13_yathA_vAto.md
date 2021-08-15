@@ -2,5 +2,4 @@
 title = "१३ यथा वातो"
 
 +++
-यथा॒ वातो॒ वन॒स्पती॑न् वृ॒क्षान् भ॒नक्त्योज॑सा ।  
-ए॒वा स॒पत्ना॑न् मे भङ्ग्धि॒ पूर्वा॑न् जा॒तां उ॒ताप॑रान् वर॒णस्त्वा॒भि र॑क्षतु ॥१३॥  
+As with its might the wind breaks down the trees, the sovrans of the wood, So break and rend my rivals, born before me and born after. Let the Varana protect thee well.

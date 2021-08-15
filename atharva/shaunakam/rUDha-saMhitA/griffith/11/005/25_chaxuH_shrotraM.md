@@ -2,4 +2,4 @@
 title = "२५ चक्षुः श्रोत्रं"
 
 +++
-चक्षुः॒ श्रोत्रं॒ यशो॑ अ॒स्मासु॑ धे॒ह्यन्नं॒ रेतो॒ लोहि॑तमु॒दर॑म्।२५॥  
+Bestow on us the power of sight and hearing, glory and food and seed and blood and belly.

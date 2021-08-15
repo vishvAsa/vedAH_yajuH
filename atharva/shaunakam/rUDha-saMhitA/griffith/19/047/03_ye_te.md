@@ -2,5 +2,4 @@
 title = "०३ ये ते"
 
 +++
-ये ते॑ रात्रि नृ॒चक्ष॑सो द्र॒ष्टारो॑ नव॒तीर्नव॑ ।  
-अ॒शी॒तिः सन्त्य॒ष्टा उ॒तो ते॑ स॒प्त स॑प्त॒तिः ॥३॥  
+Thy ninety-nine examiners, O Night, who look upon mankind, Eighty-and-eight in number, or seven-and-seventy are they.

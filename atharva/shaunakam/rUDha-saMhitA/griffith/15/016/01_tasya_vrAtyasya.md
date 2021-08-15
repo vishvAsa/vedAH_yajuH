@@ -2,4 +2,4 @@
 title = "०१ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य ।योऽस्य प्रथ॒मोऽपा॒नः सा पौ॑र्णमा॒सी॥१॥  
+His first downward breath is the time of Full Moon.

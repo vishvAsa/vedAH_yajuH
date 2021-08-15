@@ -2,4 +2,4 @@
 title = "०१ त्वं न"
 
 +++
-त्वं न॑ इ॒न्द्रा भ॑रं॒ ओजो॑ नृ॒म्णं श॑तक्रतो विचर्षणे । आ वी॒रं पृ॑तना॒षह॑म्॥१॥  
+O Indra, bring great strength to us, bring valour, Satakratu, thou most active, bring. A hero conquering in war.

@@ -2,5 +2,4 @@
 title = "०४ अमावास्ये न"
 
 +++
-अमा॑वास्ये न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान ।  
-यत् का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयि॒णाम्॥४॥
+Night of New Moon! ne'er hath been born another than thou embracing all these forms and natures, May we have what we longed for when we brought thee obla- tions: may we be the lords of riches.

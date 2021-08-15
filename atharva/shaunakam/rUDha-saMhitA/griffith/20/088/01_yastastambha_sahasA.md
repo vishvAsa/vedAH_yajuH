@@ -2,5 +2,4 @@
 title = "०१ यस्तस्तम्भ सहसा"
 
 +++
-यस्त॒स्तम्भ॒ सह॑सा॒ वि ज्मो अन्ता॒न् बृह॒स्पति॑स्त्रिषध॒स्थो रवे॑ण ।  
-तं प्र॒त्नास॒ ऋष॑यो॒ दीध्या॑नाः पु॒रो विप्रा॑ दधिरे म॒न्द्रजि॑ह्वम्॥१॥  
+Him who with might hath propped earth's ends, who sitteth in threefold seat, Brihaspati, with thunder, Him of the pleasant tongue have ancient sages, deep thinking,. holy singers, set before them.

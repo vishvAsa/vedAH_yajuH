@@ -2,5 +2,4 @@
 title = "०३ मेदस्वता यजमानाः"
 
 +++
-मेद॑स्वता॒ यज॑मानाः स्रु॒चाज्या॑नि॒ जुह्व॑तः ।  
-अ॒का॒मा वि॑श्वे वो देवाः॒ शिक्ष॑न्तो॒ नोप॑ शेकि॒म ॥३॥
+With ladle full of fatness we, worshippers, pouring holy oil, Striving, have failed, O all ye Gods, against our will, to offer it.

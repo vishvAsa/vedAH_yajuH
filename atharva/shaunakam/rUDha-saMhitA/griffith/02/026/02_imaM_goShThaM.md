@@ -2,5 +2,4 @@
 title = "०२ इमं गोष्ठं"
 
 +++
-इ॒मं गो॒ष्ठं प॒शवः॒ सं स्र॑वन्तु॒ बृह॒स्पति॒रा न॑यतु प्रजा॒नन्।  
-सि॒नी॒वा॒ली न॑य॒त्वाग्र॑मेषामाज॒ग्मुषो॑ अनुमते॒ नि य॑छ ॥२॥  
+Let the beasts stream together to this cow-pen. Brihaspati who knoweth lead them hither! Let Sinivali guide the foremost homeward. When they have come, Anumati! enclose them.

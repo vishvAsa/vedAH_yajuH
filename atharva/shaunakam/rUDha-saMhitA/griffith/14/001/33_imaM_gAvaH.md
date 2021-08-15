@@ -2,5 +2,4 @@
 title = "३३ इमं गावः"
 
 +++
-इ॒मं गा॑वः प्र॒जया॒ सं वि॑शाथा॒यं दे॒वानां॒ न मि॑नाति भा॒गम्।  
-अ॒स्मै वः॑ पू॒षा म॒रुत॑श्च॒ सर्वे॑ अ॒स्मै वो॑ धा॒ता स॑वि॒ता सु॑वाति ॥३३॥  
+Come, O ye Cows, with offspring dwell around him: he doth not stint the Gods' alloted portion. To him, your friend, may Pushan, all the Maruts, to him may Dhatar, Savitar send vigour.

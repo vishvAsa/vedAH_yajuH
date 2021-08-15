@@ -2,5 +2,4 @@
 title = "२३ यच्च प्राणति"
 
 +++
-यच्च॑ प्रा॒णति॑ प्रा॒णेन॒ यच्च॒ पश्य॑ति॒ चक्षु॑षा ।  
-उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥२३॥  
+All things that breathe the breath of life, all creatures that have eyes to see, All the celestial Gods whose home is heaven sprang from the Residue.

@@ -2,5 +2,4 @@
 title = "०२ निर्वो गोष्ठादजामसि"
 
 +++
-निर्वो॑ गो॒ष्ठाद॑जामसि॒ निरक्षा॒न्निरु॑पान॒सात्।  
-निर्वो॑ मगुन्द्या दुहितरो गृ॒हेभ्य॑श्चातयामहे ॥२॥  
+We drive you forth from cattle-shed, from axle, from within the wain, Ye daughters of Magundi, we frighten and chase you from out homes.

@@ -2,5 +2,4 @@
 title = "०१ परि द्यामिव"
 
 +++
-परि॒ द्यामि॑व॒ सूर्योऽही॑नां॒ जनि॑मागमम्।  
-रात्री॒ जग॑दिवा॒न्यद्धं॒सात् तेना॑ ते वारये वि॒षम्॥१॥  
+I, As the Sun goes round the heaven, have travelled round the Serpents' race. I ward thy poison off, as Night parts all else living from the Sun.

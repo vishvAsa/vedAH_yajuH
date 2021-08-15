@@ -2,4 +2,4 @@
 title = "०३ वेत्था हि"
 
 +++
-वेत्था॒ हि निरृ॑तीनां॒ वज्र॑हस्त परि॒वृज॑म्। अह॑रहः शु॒न्ध्युः प॑रि॒पदा॑मिव ॥३॥
+Thou knowest, Indra, thunder-armed, how to avoid destructive Powers, As one secure from pitfalls each succeeding day.

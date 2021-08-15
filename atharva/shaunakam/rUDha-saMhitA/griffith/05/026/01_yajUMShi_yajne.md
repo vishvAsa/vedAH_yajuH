@@ -2,4 +2,4 @@
 title = "०१ यजूंषि यज्ञे"
 
 +++
-यजूं॑षि य॒ज्ञे स॒मिधः॒ स्वाहा॒ग्निः प्र॑वि॒द्वानि॒ह वो॑ युनक्तु ॥१॥  
+In sacrifice for you may sapient Agni--All hail!--use Yajus texts and fuel.

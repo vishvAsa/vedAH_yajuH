@@ -2,4 +2,4 @@
 title = "१० तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य । एकं॒ तदे॑षाममृत॒त्वमित्याहु॑तिरे॒व॥१०॥
+That one immortality of theirs is just an oblation.

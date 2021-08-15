@@ -2,5 +2,4 @@
 title = "०६ स्तोमस्य नो"
 
 +++
-स्तोम॑स्य नो विभावरि॒ रात्रि॒ राजे॑व जोषसे ।  
-आसा॑म॒ सर्व॑वीरा॒ भवा॑म॒ सर्व॑वेदसो व्यु॒च्छन्ती॒रनू॒षसः॑ ॥६॥  
+Even as a King, O splendid Night, thou takest pleasure in our hymn. May we through Mornings as they flush have all our good men, round us, and become possessors of all wealth.

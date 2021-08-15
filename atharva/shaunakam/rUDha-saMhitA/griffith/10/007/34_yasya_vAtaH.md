@@ -2,5 +2,4 @@
 title = "३४ यस्य वातः"
 
 +++
-यस्य॒ वातः॑ प्राणापा॒नौ चक्षु॒रङ्गि॑र॒सोऽभ॑वन्।  
-दिशो॒ यश्च॒क्रे प्र॒ज्ञानी॒स्तस्मै॑ ज्ये॒ष्ठाय॒ ब्रह्म॑णे॒ नमः॑ ॥३४॥  
+Homage to highest Brahma, him whose two life-breathings were the Wind, The Angirases his sight: who made the regions be his means of sense.

@@ -2,5 +2,4 @@
 title = "०४ नमः शीताय"
 
 +++
-नमः॑ शी॒ताय॑ त॒क्मने॒ नमो॑ रू॒राय॑ शो॒चिषे॑ कृणोमि ।  
-यो अ॑न्ये॒द्युरु॑भय॒द्युर॒भ्येति॒ तृती॑यकाय॒ नमो॑ अस्तु त॒क्मने॑ ॥४॥
+I offer homage to the chilly Fever, to his fierce burning glow I offer homage. Be adoration paid to Fever coming each other day, the third, of two days running.

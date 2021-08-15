@@ -2,5 +2,4 @@
 title = "५९ मा प्र"
 
 +++
-मा प्र गा॑म प॒थो व॒यं मा य॒ज्ञादि॑न्द्र सो॒मिनः॑ ।  
-मान्त स्थु॑र्नो॒ अरा॑तयः ॥५९॥  
+Let us not, Indra, leave the path, the Soma-presser's sacrifice. Let not malignities dwell with us.

@@ -2,5 +2,4 @@
 title = "०२ इध्मेन त्वा"
 
 +++
-इ॒ध्मेन॑ त्वा जातवेदः स॒मिधा॑ वर्धयामसि ।  
-तथा॒ त्वम॒स्मान् व॑र्धय प्र॒जया॑ च॒ धने॑न च ॥२॥  
+With fuel and with flaming wood we, Jatavedas, strengthen thee; So do thou strengthen us in turn with children and with store of wealth.

@@ -2,5 +2,4 @@
 title = "२४ शतं सहस्रमयुतं"
 
 +++
-श॒तं स॒हस्र॑म॒युतं॒ न्यऽर्बुदमसंख्ये॒यं स्वम॑स्मि॒न् निवि॑ष्टम्।  
-तद॑स्य घ्नन्त्यभि॒पश्य॑त ए॒व तस्मा॑द् दे॒वो रो॑चत ए॒ष ए॒तत्॥२४॥  
+A hundred, thousand, myriad, yea a hundred million stores of wealth that passes count are laid in him. This wealth they kill as he looks on, and now this God shines bright therefrom.

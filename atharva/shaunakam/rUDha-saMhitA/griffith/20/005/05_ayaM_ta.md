@@ -2,4 +2,4 @@
 title = "०५ अयं त"
 
 +++
-अ॒यं त॑ इन्द्र॒ सोमो॒ निपू॑तो॒ अधि॑ ब॒र्हिषि॑ । एही॑म॒स्य द्रवा॒ पिब॑ ॥५॥  
+Here, Indra, is thy Soma draught, made pure upon the sacred. grass. Run hither, come and drink thereof.

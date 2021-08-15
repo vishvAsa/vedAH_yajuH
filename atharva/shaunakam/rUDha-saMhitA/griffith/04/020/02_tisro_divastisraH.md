@@ -2,5 +2,4 @@
 title = "०२ तिस्रो दिवस्तिस्रः"
 
 +++
-ति॒स्रो दिव॑स्ति॒स्रः पृ॑थि॒वीः षट् चे॒माः प्र॒दिशः॒ पृथ॑क्।  
-त्वया॒हं सर्वा॑ भू॒तानि॒ पश्या॑नि देव्योषधे ॥२॥  
+Through thee, O godlike Plant, may I behold all creatures that exist, Three several heavens, three several earths, and these six regions one by one.

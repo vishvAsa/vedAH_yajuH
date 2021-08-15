@@ -2,5 +2,4 @@
 title = "०३ द्वादशधा निहितं"
 
 +++
-द्वा॒द॒श॒धा निहि॑तं त्रि॒तस्याप॑मृष्टं मनुष्यैन॒सानि॑ ।  
-ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥३॥
+Stored in twelve separate places lies what Trita hath wiped away, the sins of human beings. Thence if the female fiend hath made thee captive, the Gods by prayer shall banish her and free thee.

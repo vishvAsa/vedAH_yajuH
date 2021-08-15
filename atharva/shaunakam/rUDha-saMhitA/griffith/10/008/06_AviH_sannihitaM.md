@@ -2,5 +2,4 @@
 title = "०६ आविः सन्निहितं"
 
 +++
-आ॒विः सन्निहि॑तं॒ गुहा॒ जर॒न्नाम॑ म॒हत् प॒दम्।  
-तत्रे॒दं सर्व॒मार्पि॑त॒मेज॑त् प्रा॒णत् प्रति॑ष्ठितम्॥६॥  
+Though manifest, it lies concealed in the vast place they call the old: Therein is firmly stationed all the moving, breathing universe.

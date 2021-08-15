@@ -2,5 +2,4 @@
 title = "०५ उदीरयत मरुतः"
 
 +++
-उदी॑रयत मरुतः समुद्र॒तस्त्वे॒षो अ॒र्को नभ॒ उत् पा॑तयाथ ।  
-म॒ह॒ऋ॒ष॒भस्य॒ नद॑तो॒ नभ॑स्वतो वा॒श्रा आपः॑ पृथि॒वीं त॑र्पयन्तु ॥५॥  
+Up from the sea lift your dread might, ye Maruts: as light and splendour, send the vapour upward! Let waters satisfy the earth, the voices of the great mist-enve- loped Bull who roareth.

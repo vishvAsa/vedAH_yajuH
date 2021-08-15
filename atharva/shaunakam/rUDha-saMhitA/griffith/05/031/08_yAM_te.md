@@ -2,5 +2,4 @@
 title = "०८ यां ते"
 
 +++
-यां ते॑ कृ॒त्यां कूपे॑ऽवद॒धुः श्म॑शा॒ने वा॑ निच॒ख्नुः ।  
-सद्म॑नि कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥८॥  
+Charm they have laid within thy well or buried in the burning- ground, Charm they have laid within thy home, this I throw back again on them.

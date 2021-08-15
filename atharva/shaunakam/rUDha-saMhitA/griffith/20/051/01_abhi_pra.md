@@ -2,5 +2,4 @@
 title = "०१ अभि प्र"
 
 +++
-अ॒भि प्र वः॑ सु॒राध॑स॒मिन्द्र॑मर्च॒ यथा॑ वि॒दे।  
-यो ज॑रि॒तृभ्यो॑ म॒घवा॑ पुरू॒वसुः॑ स॒हस्रे॑णेव॒ शिक्ष॑ति ॥१॥  
+For you will I sing Indra's praise who gives good gifts as well we know; Praise of the Bounteous Lord who, rich in treasure, aids his singers with wealth thousandfold.

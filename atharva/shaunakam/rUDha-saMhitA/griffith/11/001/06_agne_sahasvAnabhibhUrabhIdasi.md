@@ -2,5 +2,4 @@
 title = "०६ अग्ने सहस्वानभिभूरभीदसि"
 
 +++
-अग्ने॒ सह॑स्वानभि॒भूर॒भीद॑सि॒ नीचो॒ न्युऽब्ज द्विष॒तः स॒पत्ना॑न्।  
-इ॒यं मात्रा॑ मी॒यमा॑ना मि॒ता च॑ सजा॒तांस्ते॑ बलि॒हृतः॑ कृणोतु ॥६॥  
+Strong art thou, Agni, conquering, all-surpassing. Crush down our foemen, ruin those who hate us. So let this measure, measured, being measured, make all our kin thy tributary vassals.

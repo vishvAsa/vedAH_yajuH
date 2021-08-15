@@ -2,5 +2,4 @@
 title = "०८ यन्मे माता"
 
 +++
-यन्मे॑ मा॒ता यन्मे॑ पि॒ता भ्रात॑रो॒ यच्च॑ मे स्वा यदेन॑श्चकृ॒मा व॒यम्।  
-ततो॑ नो वारयिष्यते॒ऽयं दे॒वो वन॒स्पतिः॑ ॥८॥  
+Each sinful act that we have done,--my mother, father, and my friends,-- From all the guilt this heavenly Plant will be our guard and sure defence.

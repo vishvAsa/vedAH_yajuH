@@ -2,5 +2,4 @@
 title = "०१ शतवारो अनीनशद्"
 
 +++
-श॒तवा॑रो अनीनश॒द् यक्ष्मा॒न् रक्षां॑सि॒ तेज॑सा ।  
-आ॒रोह॒न् वर्च॑सा स॒ह म॒णिर्दु॑र्णाम॒चात॑नः ॥१॥  
+The Hundred-haired hath banished hence fiends and Consump- tions by its might. With splendour hath the charm that scares demons of ill-name mounted up.

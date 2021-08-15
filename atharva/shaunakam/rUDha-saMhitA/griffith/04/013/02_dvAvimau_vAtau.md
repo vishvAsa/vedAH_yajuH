@@ -2,5 +2,4 @@
 title = "०२ द्वाविमौ वातौ"
 
 +++
-द्वावि॒मौ वातौ॒ वात॒ आ सिन्धो॒रा प॑रावतः॑ ।  
-दक्षं॑ ते अ॒न्य आ॒वातु॒ व्य॑१न्यो वा॑तु॒ यद् रपः॑ ॥२॥  
+Here these two winds are blowing far as Sindhu from a distant land. May one breathe energy to thee, the other blow thy fault away.

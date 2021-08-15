@@ -2,4 +2,4 @@
 title = "१४ अस्मे धेहि"
 
 +++
-अ॒स्मे धे॑हि॒ श्रवो॑ बृ॒हद् द्यु॒म्नं स॑हस्र॒सात॑मम्। इन्द्र॒ ता र॒थिनी॒रिषः॑ ॥१४॥  
+Grant us high fame, O Indra, grant riches bestowing thousands, those Fair fruits of earth borne home in wains.

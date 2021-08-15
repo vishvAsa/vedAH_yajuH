@@ -2,5 +2,4 @@
 title = "०१ आयने ते"
 
 +++
-आय॑ने ते प॒राय॑णे दूर्वा॑ रोहतु पु॒ष्पिणीः॑ ।  
-उत्सो॑ वा॒ तत्र॒ जाय॑तां ह्रदो वा॑ पु॒ण्डरी॑कवान्॥१॥  
+Let flowery Durva grass grow up about thine exit and approach. There let a spring of water rise, or lake with blooming lotuses.

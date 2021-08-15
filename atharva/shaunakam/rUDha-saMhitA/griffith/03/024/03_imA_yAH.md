@@ -2,5 +2,4 @@
 title = "०३ इमा याः"
 
 +++
-इ॒मा याः पञ्च॑ प्र॒दिशो॑ मान॒वीः पञ्च॑ कृ॒ष्टयः॑ ।  
-वृ॒ष्टे शापं॑ न॒दीरि॑वे॒ह स्फा॒तिं समा॑वहान्॥३॥  
+All the five regions of the heavens, all the five races of man- kind, As after rain the stream brings drift, let them bring increase hitherward.

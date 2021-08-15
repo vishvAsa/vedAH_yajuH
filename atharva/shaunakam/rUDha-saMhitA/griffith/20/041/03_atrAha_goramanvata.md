@@ -2,4 +2,4 @@
 title = "०३ अत्राह गोरमन्वत"
 
 +++
-अत्राह॒ गोर॑मन्वत॒ नाम॒ त्वष्टु॑रपी॒च्यम्। इ॒त्था च॒न्द्रम॑सो गृ॒हे॥३॥
+Then verily they recognized the essential form of Tvashtar's Bull. Here in the mansion of the Moon.

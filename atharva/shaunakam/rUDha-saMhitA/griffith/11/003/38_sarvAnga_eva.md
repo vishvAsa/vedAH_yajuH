@@ -2,4 +2,4 @@
 title = "३८ सर्वाङ्ग एव"
 
 +++
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥७॥ ३२॥  
+And thence, etc. . . . with other vital airs. . . . Thy vital airs will leave thee . . . With the Seven Rishis as the vital airs. 

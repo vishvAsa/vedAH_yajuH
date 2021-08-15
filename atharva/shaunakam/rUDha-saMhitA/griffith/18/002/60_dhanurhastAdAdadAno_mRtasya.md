@@ -2,5 +2,4 @@
 title = "६० धनुर्हस्तादाददानो मृतस्य"
 
 +++
-धनु॒र्हस्ता॑दा॒ददा॑नो मृ॒तस्य॑ स॒ह क्ष॒त्रेण॒ वर्च॑सा॒ बले॑न ।  
-स॒मागृ॑भाय॒ वसु॒ भूरि॑ पु॒ष्टम॒र्वाङ्त्वमेह्युप॑ जीवलो॒कम्॥६०॥
+From his dead hand I take the bow he carried, together with his. power and strength and splendour. Having collected wealth and ample treasure, come hither to the- world of living beings.

@@ -2,4 +2,4 @@
 title = "०८ ये पुण्यानां"
 
 +++
-ये पुण्या॑नां॒ पुण्या॑ लो॒कास्ताने॒व तेनाव॑ रुन्द्धे ॥८॥  
+He should serve him with food saying to himself, To this Deity I offer water: I lodge this Deity; I wait upon this, this Deity.

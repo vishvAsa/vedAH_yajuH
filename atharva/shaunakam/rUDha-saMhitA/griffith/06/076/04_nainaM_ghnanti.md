@@ -2,5 +2,4 @@
 title = "०४ नैनं घ्नन्ति"
 
 +++
-नैनं घ्नन्ति पर्या॒यिणो॒ न स॒न्नाँ अव॑ गच्छति ।  
-अ॒ग्नेर्यः क्ष॒त्रियो॑ वि॒द्वान् नाम॑ गृ॒ह्णात्यायु॑षे ॥४॥
+Those who encompass slay him not: he goes not near his lurk-- ing foes The Kshatriya who, knowing well, takes Agni's name for length of life.

@@ -2,5 +2,4 @@
 title = "०२ स्कम्भेनेमे विष्टभिते"
 
 +++
-स्क॒म्भेने॒मे विष्ट॑भिते॒ द्यौश्च॒ भूमि॑श्च तिष्ठतः ।  
-स्क॒म्भ इ॒दं सर्व॑मात्म॒न्वद् यत् प्रा॒णन्नि॑मि॒षच्च॒ यत्॥२॥  
+Upheld by Skambha's power these two, the heaven and the earth, stand fast. Skambha is all this world of life, whatever breathes or shuts an. eye.

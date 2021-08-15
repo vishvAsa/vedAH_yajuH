@@ -2,6 +2,7 @@
 title = "०४ उदीची दिक्"
 
 +++
-उदी॑ची॒ दिक् सोमोऽधि॑पतिः स्व॒जो र॑क्षि॒ताशनि॒रिष॑वः ।  
-तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु ।  
-यो॒३ऽस्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥४॥  
+id
+3.27.4    Soma is ruler of the Northern region, Svaja th...
+3.27.4    Let there be rain and increase here, here be t...
+Name: Comment, dtype: object

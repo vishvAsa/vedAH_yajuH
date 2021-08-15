@@ -2,5 +2,4 @@
 title = "०४ श्यामा सरूपंकरणी"
 
 +++
-श्या॒मा स॑रूपं॒कर॑णी पृथि॒व्या अध्युद्भृ॑ता ।  
-इ॒दमू॒ षु प्र सा॑धय॒ पुना॑ रू॒पाणि॑ कल्पय ॥४॥
+Sama who gives one general hue was formed and fashioned from the earth: Further this work efficiently. Restore the colours that were his.

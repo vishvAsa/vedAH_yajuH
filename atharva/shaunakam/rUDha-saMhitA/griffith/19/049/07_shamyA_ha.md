@@ -2,5 +2,4 @@
 title = "०७ शम्या ह"
 
 +++
-शम्या॑ ह॒ नाम॑ दधि॒षे मम॒ दिप्स॑न्ति॒ ये धना॑ ।  
-रात्री॒हि तान॑सुत॒पा यस्ते॒नो न वि॒द्यते॒ यत् पुन॒र्न वि॒द्यते॑ ॥७॥  
+Yes, Ramya is the name thou hast assumed. The men who fain. would spoil. My wealth do thou annoy, O Night, that not one robber may appear, none may a second time appear.

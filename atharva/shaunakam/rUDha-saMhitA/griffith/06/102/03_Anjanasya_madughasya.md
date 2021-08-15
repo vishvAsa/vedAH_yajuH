@@ -2,5 +2,4 @@
 title = "०३ आञ्जनस्य मदुघस्य"
 
 +++
-आञ्ज॑नस्य म॒दुघ॑स्य॒ कुष्ठ॑स्य॒ नल॑दस्य च ।  
-तु॒रो भग॑स्य॒ हस्ता॑भ्यामनु॒रोध॑न॒मुद् भ॑रे ॥३॥
+Swiftly from Bhaga's hands I bear away a love-compelling charm Of ointment and of sugar-cane, of Spikenard and the Kushtha plant.

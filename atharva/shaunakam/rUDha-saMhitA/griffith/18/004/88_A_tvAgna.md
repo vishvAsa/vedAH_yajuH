@@ -2,6 +2,4 @@
 title = "८८ आ त्वाग्न"
 
 +++
-आ त्वा॑ग्न इधीमहि द्यु॒मन्तं॑ देवा॒जर॑म्।  
-यद् घ॒ सा ते॒ पनी॑यसी स॒मिद् दी॒दय॑ति॒ द्यवि॑ ।  
-इषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥८८॥  
+Bright Agni, we will kindle thee, rich in thy splendour, fading. not. So that this glorious fuel may send forth to heaven its light for thee. Bring food to those who sing thy praise.

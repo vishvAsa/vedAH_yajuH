@@ -2,5 +2,4 @@
 title = "३४ यस्मै त्वा"
 
 +++
-यस्मै॑ त्वा यज्ञवर्धन॒ मणे॑ प्र॒त्यमु॑चं शि॒वम्।  
-तं त्वं श॑तदक्षिण॒ मणे॒ श्रैष्ठ्या॑य जिन्वतात्॥३४॥  
+Charm, forwarder of sacrifice, who hast a hundred priestly fees. Speed to preeminence him to whom I have attached thy happy fate.

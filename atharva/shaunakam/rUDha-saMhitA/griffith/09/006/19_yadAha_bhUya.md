@@ -2,4 +2,4 @@
 title = "१९ यदाह भूय"
 
 +++
-यदाह॒ भूय॒ उद्ध॒रेति॑ प्रा॒णमे॒व तेन॒ वर्षी॑यांसं कुरुते ।२। १९॥  
+When he says, Bring out more, he lengthens his life thereby.

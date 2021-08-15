@@ -2,7 +2,4 @@
 title = "१६ शुक्रं वहन्ति"
 
 +++
-शु॒क्रं व॑हन्ति॒ हर॑यो रघु॒ष्यदो॑ दे॒वं दि॒वि वर्च॑सा॒ भ्राज॑मानम्।  
-यस्यो॒र्ध्वा दिवं॑ त॒न्व॑१स्तप॑न्त्य॒र्वाङ् सु॒वर्णैः॑ पट॒रैर्वि भा॑ति॒ तस्य॑ दे॒वस्य॑ ।  
-क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑ ।  
-उद् वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न्॥१६॥  
+With flying feet his tawny coursers carry the bright God through, the sky, aglow with splendour. Whose limbs uplifted fire and heat the heavens: hither he shines- with beams of golden colour. This God, etc.

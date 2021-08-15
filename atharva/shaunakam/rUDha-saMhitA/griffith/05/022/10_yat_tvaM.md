@@ -2,5 +2,4 @@
 title = "१० यत् त्वं"
 
 +++
-यत् त्वं शी॒तोऽथो॑ रू॒रः स॒ह का॒सावे॑पयः ।  
-भी॒मास्ते॑ तक्मन् हे॒तय॒स्ताभिः॑ स्म॒ परि॑ वृङ्ग्धि नः ॥१०॥  
+Since thou now cold, now burning hot, with cough besides, hast made us shake, Terrible, Fever, are thy darts: forbear to injure us with these.

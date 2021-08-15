@@ -2,4 +2,4 @@
 title = "४२ ब्राह्मणाँ अभ्यावर्ते"
 
 +++
-ब्रा॒ह्म॒णाँ अ॒भ्याव॑र्ते । ते मे॒ द्रवि॑णं यच्छन्तु॒ ते मे॑ ब्राह्मणवर्च॒सम्॥४१॥६॥  
+We hunt that man, we beat him down and slay him with our murderous blows. We with the spell have hurried him to Parameshthin's opened jaws.

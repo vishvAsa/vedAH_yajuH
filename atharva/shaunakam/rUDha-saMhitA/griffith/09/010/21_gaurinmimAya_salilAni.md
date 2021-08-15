@@ -2,5 +2,4 @@
 title = "२१ गौरिन्मिमाय सलिलानि"
 
 +++
-गौरिन्मि॑माय सलि॒लानि॒ तक्ष॒त्येक॑पदी द्वि॒पदी॒ सा चतु॑ष्पदी ।  
-अ॒ष्टाप॑दी॒ नव॑पदी बभू॒वुषी॑ स॒हस्रा॑क्षरा॒ भुव॑नस्य प॒ङ्क्तिस्तस्याः॑ समु॒द्रा अधि॒ वि क्ष॑रन्ति ॥२१॥  
+Forming the water-floods the Cow herself hath lowed, one-foot- ed or two-footed or four-footed, she, Who hath become eight-footed or acquired nine feet, the uni- verse's thousand-syllabled Pankti. From her descend in streams the seas of water.

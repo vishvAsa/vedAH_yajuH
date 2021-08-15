@@ -2,5 +2,4 @@
 title = "२९ धर्ता ह"
 
 +++
-ध॒र्ता ह॑ त्वा ध॒रुणो॑ धारयाता ऊ॒र्ध्वं भा॒नुं स॑वि॒ता द्यामि॑वो॒परि॑ ।  
-लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥२९॥  
+May the strong firm Sustainer bear thee upright, as Savitar bears light above the heaven. Those who give room, who made the paths, we worship, you mid the Gods, whe share the gifts we offer.

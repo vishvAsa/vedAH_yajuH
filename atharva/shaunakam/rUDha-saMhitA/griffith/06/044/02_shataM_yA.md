@@ -2,5 +2,4 @@
 title = "०२ शतं या"
 
 +++
-श॒तं या भे॑ष॒जानि॑ ते स॒हस्रं॒ संग॑तानि च ।  
-श्रेष्ठ॑मास्रावभेष॒जं वसि॑ष्ठं रोग॒नाश॑नम्॥२॥  
+Of all thy hundred remedies, a thousand remedies combined. This is the surest cure for flux, most excellent to heal disease.

@@ -2,5 +2,4 @@
 title = "०४ येनेमा विश्वा"
 
 +++
-येने॒मा विश्वा॒ च्यव॑ना कृ॒तानि॒ यो दासं वर्ण॒मध॑रं॒ गुहाकः॑ ।  
-श्व॒घ्नीव॒ यो जि॑गी॒वां ल॒क्षमाद॑द॒र्यः पु॒ष्टानि॒ स ज॑नास॒ इन्द्रः॑ ॥४॥  
+By whom this universe was made to tremble, who chased away the humbled brood of demon, Who, like a gambler gathering his winnings, seized the foe's riches, He, O men, is Indra.

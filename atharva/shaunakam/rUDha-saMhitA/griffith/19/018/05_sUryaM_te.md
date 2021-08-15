@@ -2,4 +2,4 @@
 title = "०५ सूर्यं ते"
 
 +++
-सूर्यं॒ ते द्यावा॑पृथि॒वीव॑न्तमृच्छन्तु । ये मा॑घा॒यव॑ प्र॒तीच्याः॑ दि॒शोऽभि॒दासा॑त्॥५॥  
+Let those who vex me from the western quarter, sinners, praise Surya linked with Earth and Heaven.

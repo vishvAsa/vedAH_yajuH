@@ -2,5 +2,4 @@
 title = "०२ सोमो राजा"
 
 +++
-सोमो॒ राजा॑ प्रथ॒मो ब्र॑ह्मजा॒यां पुनः॒ प्राय॑च्छ॒दहृ॑णीयमानः ।  
-अ॒न्व॒र्ति॒ता वरु॑णो मि॒त्र आ॑सीद॒ग्निर्होता॑ हस्त॒गृह्या नि॑नाय ॥२॥  
+King Soma first of all, without reluctance, made restitution of the Brahman's consort. Mitra and Varuna were the inviters: Agni as Hotar took her hand and led her.

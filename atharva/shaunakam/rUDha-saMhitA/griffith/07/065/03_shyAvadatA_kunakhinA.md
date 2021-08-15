@@ -2,5 +2,4 @@
 title = "०३ श्यावदता कुनखिना"
 
 +++
-श्या॒वद॑ता कुन॒खिना॑ ब॒ण्डेन॒ यत् स॒हासि॒म।  
-अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥३॥
+If with the cripple we have lived, whose teeth are black and nails deformed, With thee, O Apamarga, we wipe all that ill away from us.

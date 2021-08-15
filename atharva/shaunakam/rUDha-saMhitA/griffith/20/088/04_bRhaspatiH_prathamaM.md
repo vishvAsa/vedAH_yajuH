@@ -2,5 +2,4 @@
 title = "०४ बृहस्पतिः प्रथमं"
 
 +++
-बृह॒स्पतिः॑ प्रथ॒मं जाय॑मानो म॒हो ज्योति॑षः पर॒मे व्योऽमन्।  
-स॒प्तास्य॑स्तुविजा॒तो रवे॑ण॒ वि स॒प्तर॑श्मिरधम॒त् तमां॑सि ॥४॥  
+Brihaspati, when first he had his being from mighty splendour in supremest heaven. Strong, with his sevenfold mouth, with noise of thunder, with his seven rays blew and dispersed the darkness.

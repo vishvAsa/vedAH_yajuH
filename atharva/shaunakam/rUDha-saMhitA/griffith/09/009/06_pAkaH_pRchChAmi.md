@@ -2,5 +2,4 @@
 title = "०६ पाकः पृच्छामि"
 
 +++
-पाकः॑ पृच्छामि॒ मन॒सावि॑जानन् दे॒वाना॑मे॒ना निहि॑ता प॒दानि॑ ।  
-व॒त्से ब॒ष्कयेऽधि॑ स॒प्त तन्तू॒न् वि त॑त्निरे क॒वय॒ ओत॒वा उ॑ ॥६॥  
+Unripe in mind, in spirit undiscerning, I ask of these the Gods' established places. High up above the yearling Calf the sages, to form a web, their own seven threads have woven.

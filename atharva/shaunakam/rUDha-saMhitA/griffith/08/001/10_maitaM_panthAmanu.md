@@ -2,5 +2,4 @@
 title = "१० मैतं पन्थामनु"
 
 +++
-मैतं पन्था॒मनु॑ गा भी॒म ए॒ष येन॒ पूर्वं॒ नेयथ॒ तं ब्र॑वीमि ।  
-तम॑ ए॒तत् पु॑रुष॒ मा प्र प॑त्था भ॒यं प॒रस्ता॒दभ॑यं ते अ॒र्वाक्॥१०॥  
+Forbear to tread this path, for it is awful: that path I speak of which thou hast not travelled. Enter it not, O man; this way is darkness: forward is danger, hitherward is safety.

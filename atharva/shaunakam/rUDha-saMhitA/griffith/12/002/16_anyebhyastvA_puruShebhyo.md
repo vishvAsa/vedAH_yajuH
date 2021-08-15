@@ -2,5 +2,4 @@
 title = "१६ अन्येभ्यस्त्वा पुरुषेभ्यो"
 
 +++
-अन्ये॑भ्यस्त्वा॒ पुरु॑षेभ्यो॒ गोभ्यो॒ अश्वे॑भ्यस्त्वा ।  
-निः क्र॒व्यादं॑ नुदामसि॒ यो अ॒ग्निर्जी॑वित॒योप॑नः ॥१६॥  
+We drive thee forth to other folk, to alien cattle, alien steeds, Thee the corpse-eating Agni, thee the Agni who bewilders men,

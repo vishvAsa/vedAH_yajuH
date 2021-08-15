@@ -2,5 +2,4 @@
 title = "०१ यज्ञेन यज्ञमयजन्त"
 
 +++
-य॒ज्ञेन॑ य॒ज्ञम॑यजन्त दे॒वास्तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन्।  
-ते ह॒ नाकं॑ महि॒मानः॑ सचन्त॒ यत्र॒ पूर्वे॑ सा॒ध्याः सन्ति॑ दे॒वाः ॥१॥  
+The Gods adored the Sacrifice with worship: these were the statutes of primeval ages. Those mighty ones attained the cope of heaven, there where the Sadhyas, Gods of old, are dwelling.

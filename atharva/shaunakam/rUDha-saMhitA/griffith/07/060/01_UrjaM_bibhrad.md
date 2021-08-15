@@ -2,5 +2,4 @@
 title = "०१ ऊर्जं बिभ्रद्"
 
 +++
-ऊर्जं॒ बिभ्र॑द् वसु॒वनिः॑ सुमे॒धा अघो॑रेण॒ चक्षु॑षा मि॒त्रिये॑ण ।  
-गृ॒हानैमि॑ सु॒मना॒ वन्द॑मानो॒ रम॑ध्वं॒ मा बि॑भीत॒ मत्॥१॥  
+I, prudent, bringing power, a treasure-winner, with amicable eye that strikes no terror, Come, praising and kind-thoughted, to these houses: be not afraid of me, be glad and joyful.

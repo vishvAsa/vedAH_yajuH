@@ -2,4 +2,4 @@
 title = "०२ यद् वा"
 
 +++
-यद् वा॑ शक्र परा॒वति॑ समु॒द्रे अधि॒ मन्द॑से । अ॒स्माक॒मित् सु॒ते र॑णा॒ समिन्दु॑भिः ॥२॥  
+Or, Sakra, if thou gladden thee afar or in the sea of air, Rejoice thee in this juice of ours, in flowing drops.

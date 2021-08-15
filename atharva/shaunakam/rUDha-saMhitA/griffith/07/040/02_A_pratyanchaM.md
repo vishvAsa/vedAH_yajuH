@@ -2,5 +2,4 @@
 title = "०२ आ प्रत्यञ्चं"
 
 +++
-आ प्र॒त्यञ्चं॑ दा॒शुषे॑ दा॒श्वंसं॒ सर॑स्वन्तं पुष्ट॒पतिं॑ रयि॒ष्ठाम्।  
-रा॒यस्पोषं॑ श्रव॒स्युं वसा॑ना इ॒ह हुवेम॒ सद॑नं रयी॒णाम्॥२॥
+Abiding here let us invoke Sarasvan, the seat of riches, glorious, wealth-increaser, Him who inclines and gives to him who worships, the rich pos- sessor and the Lord of Fulness.

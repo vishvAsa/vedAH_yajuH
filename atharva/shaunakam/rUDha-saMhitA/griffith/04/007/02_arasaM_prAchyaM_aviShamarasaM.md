@@ -2,5 +2,4 @@
 title = "०२ अरसं प्राच्यंऽविषमरसं"
 
 +++
-अ॒र॒सं प्रा॒च्यंऽवि॒षम॑र॒सं यदु॑दी॒च्यऽम्।  
-अथे॒दम॑धरा॒च्यं॑ कर॒म्भेण॒ वि क॑ल्पते ॥२॥  
+Weak is the poison of the East, weak is the poison of the North, So too this poison of the South counts as a cake of curds and meal.

@@ -2,5 +2,4 @@
 title = "०४ यथाखरो मघवंश्चारुरेष"
 
 +++
-यथा॑ख॒रो म॑घवं॒श्चारु॑रे॒ष प्रि॒यो मृ॒गाणां॑ सु॒षदा॑ ब॒भूव॑ ।  
-ए॒वा भग॑स्य जु॒ष्टेयम॑स्तु॒ नारी॒ संप्रि॑या॒ पत्यावि॑राधयन्ती ॥४॥  
+As this lair, Maghavan! that is fair to look on was dear to wild things as a pleasant dwelling, So may this woman here be Bhaga's darling. Loved by her lord and prizing his affection.

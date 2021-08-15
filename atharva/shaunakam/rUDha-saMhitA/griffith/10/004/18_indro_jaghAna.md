@@ -2,4 +2,4 @@
 title = "१८ इन्द्रो जघान"
 
 +++
-इन्द्रो॑ जघान प्रथ॒मं ज॑नि॒तार॑महे॒ तव॑ । तेषा॑मु तृ॒ह्यमा॑णानां॒ कः स्वि॒त् तेषा॑मस॒द् रसः॑ ॥१८॥  
+O Serpent, Indra hath destroyed the sire who first engendered thee: And when these snakes are pierced and bored what sap and vigour will be theirs?

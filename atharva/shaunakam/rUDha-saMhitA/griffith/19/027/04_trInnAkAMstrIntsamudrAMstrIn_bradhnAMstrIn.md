@@ -2,5 +2,4 @@
 title = "०४ त्रीन्नाकांस्त्रीन्त्समुद्रांस्त्रीन् ब्रध्नांस्त्रीन्"
 
 +++
-त्रीन्नाकां॒स्त्रीन्त्स॑मु॒द्रांस्त्रीन् ब्र॒ध्नांस्त्रीन् वै॑ष्ट॒पान्।  
-त्रीन् मा॑त॒रिश्व॑न॒स्त्रीन्त्सूर्या॑न् गो॒प्तॄन् क॑ल्पयामि ॥४॥  
+Three vaults of heaven, and three seas, three bright, three stationary ones, Three Matarisvans, and three suns, protectors, I arrange for thee.

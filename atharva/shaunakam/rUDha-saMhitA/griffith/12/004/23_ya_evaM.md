@@ -2,5 +2,4 @@
 title = "२३ य एवं"
 
 +++
-य ए॒वं वि॒दुषेऽद॒त्त्वाथा॒न्येभ्यो॒ दद॑द् व॒शाम्।  
-दु॒र्गा तस्मा॑ अधि॒ष्ठाने॑ पृथि॒वी स॒हदे॑वता ॥२३॥  
+Whoso to others, not to him who hath this knowledge, gives the Cow, Earth, with the Deities, is hard for him to win and rest upon.

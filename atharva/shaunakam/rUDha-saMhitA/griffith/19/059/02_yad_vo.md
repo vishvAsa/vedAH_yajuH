@@ -2,5 +2,4 @@
 title = "०२ यद् वो"
 
 +++
-यद् वो॑ व॒यं प्र॑मि॒नाम॑ व्र॒तानि॑ वि॒दुषां॑ देवा॒ अवि॑दुष्टरासः ।  
-अ॒ग्निष्टद् वि॒श्वादा पृ॑णातु वि॒द्वान्त्सोम॑स्य॒ यो ब्रा॑ह्म॒णां आ॑वि॒वेश॑ ॥२॥  
+When, ignorant, we violate the statutes of you, O Deities, with whom is knowledge, Wise Agni shall correct our faults and failings, and Soma who hath entered into Brahmans.

@@ -2,5 +2,4 @@
 title = "०१ सोमारुद्रा वि"
 
 +++
-सोमा॑रुद्रा॒ वि वृ॑हतं॒ विषू॑ची॒ममी॑ वा॒ या नो॒ गय॑मावि॒वेश॑ ।  
-बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत्॥१॥  
+Scatter and drive away, Soma and Rudra, the sickness that hath come within our dwelling, Afar into the distance chase Destruction, and even from commit- ted sin release us.

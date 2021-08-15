@@ -2,5 +2,4 @@
 title = "०६ आ ते"
 
 +++
-आ ते॑ प्रा॒णं सु॑वामसि॒ परा॒ यक्ष्मं॑ सुवामि ते ।  
-आयु॑र्नो वि॒श्वतो॑ दधद॒यम॒ग्निर्वरे॑ण्यः ॥६॥  
+I send thee back thy vital breath; I drive Consumption far from thee, May Agni here, most excellent, sustain our life on every side.

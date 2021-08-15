@@ -2,5 +2,4 @@
 title = "०५ अभयं नः"
 
 +++
-अभ॑यं नः करत्य॒न्तरि॑क्ष॒मभ॑यं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे।  
-अभ॑यं प॒श्चादभ॑यं पु॒रस्ता॑दुत्त॒राद॑ध॒रादभ॑यं नो अस्तु ॥५॥  
+May air's mid-region give us peace and safety, safety may both these, Heaven and Earth, afford us. Security be ours from west, from eastward, from north and south may we be free from danger.

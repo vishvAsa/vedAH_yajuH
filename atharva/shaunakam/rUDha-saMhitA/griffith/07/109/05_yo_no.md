@@ -2,5 +2,4 @@
 title = "०५ यो नो"
 
 +++
-यो नो॑ द्यु॒वे धन॑मि॒दं च॒कार॒ यो अ॒क्षाणां॒ ग्लह॑नं॒ शेष॑णं च ।  
-स नो॑ दे॒वो ह॒विरि॒दं जु॑षा॒णो ग॑न्ध॒र्वेभिः॑ सध॒मादं॑ मदेम ॥५॥  
+The God who found for us this wealth for gambling, to cast the dice and count the winning number, May he accept the sacrifice we offer, and with Gandharvas revel in the banquet.

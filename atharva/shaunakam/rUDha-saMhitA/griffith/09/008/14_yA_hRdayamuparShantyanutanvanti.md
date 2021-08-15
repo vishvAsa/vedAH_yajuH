@@ -2,5 +2,4 @@
 title = "१४ या हृदयमुपर्षन्त्यनुतन्वन्ति"
 
 +++
-या हृद॑यमुप॒र्षन्त्य॑नुत॒न्वन्ति॒ कीक॑साः ।  
-अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म्॥१४॥  
+The pangs that stab the heart and reach the breast-bone and connected parts, Let them depart and pass away, free from disease and harming not.

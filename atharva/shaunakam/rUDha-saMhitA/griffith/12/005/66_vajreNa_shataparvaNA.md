@@ -2,4 +2,4 @@
 title = "६६ वज्रेण शतपर्वणा"
 
 +++
-वज्रे॑ण श॒तप॑र्वणा ती॒क्ष्णेन॑ क्षु॒रभृ॑ष्टिना ॥६६॥  
+With hundred-knotted thunderbolt, sharpened and edged with razor-blades,

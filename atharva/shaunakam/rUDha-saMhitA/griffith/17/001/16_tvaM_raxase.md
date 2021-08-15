@@ -2,6 +2,4 @@
 title = "१६ त्वं रक्षसे"
 
 +++
-त्वं र॑क्षसे प्र॒दिश॒श्चत॑स्र॒स्त्वं शो॒चिषा॒ नभ॑सी॒ वि भा॑सि ।  
-त्वमि॒मा विश्वा॒ भुव॒नानु॑ तिष्ठस ऋ॒तस्य॑ पन्थाम॒न्वे॑षि वि॒द्वांस्तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१६॥  
+Thou guardest well the four celestial regions, pervading heaven, and earth with light and splendour. Thou givest help to all these living creatures, and, knowing,. followest the path of Order. Manifold are thy great deed, thine, O Vishnu.

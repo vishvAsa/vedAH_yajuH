@@ -2,5 +2,4 @@
 title = "०३ ऐनान् द्यतामिन्द्राग्नी"
 
 +++
-ऐना॑न् द्यतामिन्द्रा॒ग्नी सोमो॑ राजा॑ च मे॒दिनौ॑ ।  
-इन्द्रो॑ म॒रुत्वा॑ना॒दान॑म॒मित्रे॑भ्यः कृणोतु नः ॥३॥
+Indra and Agni bind them fast, Soma the King, and both the Friends! May Indra, girt by Maruts, make a bond to bind our enemies.

@@ -2,5 +2,4 @@
 title = "०१ यथा सूर्यो"
 
 +++
-यथा॒ सूर्यो॒ नक्ष॑त्राणामु॒द्यंस्तेजां॑स्याद॒दे।  
-ए॒वा स्त्री॒णां च॑ पुं॒सां च॑ द्विष॒तां वर्च॒ आ द॑दे ॥१॥  
+As the Sun, rising, taketh to himself the brightness of the stars,. So I assume the glory of women and men mine enemies. All ye amang my rivals who behold me as I come to you, I seize the glory of my foes as the Sun, rising, theirs who sleep.

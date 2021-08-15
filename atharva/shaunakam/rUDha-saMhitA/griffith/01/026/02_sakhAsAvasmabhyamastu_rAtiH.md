@@ -2,4 +2,4 @@
 title = "०२ सखासावस्मभ्यमस्तु रातिः"
 
 +++
-सखा॒साव॒स्मभ्य॑मस्तु रा॒तिः सखेन्द्रो॒ भगः॑ सवि॒ता चि॒त्ररा॑धाः ॥२॥  
+Our friend be that Celestial Grace, Indra and Bhaga be our friends, and Savitar with splendid Wealth.

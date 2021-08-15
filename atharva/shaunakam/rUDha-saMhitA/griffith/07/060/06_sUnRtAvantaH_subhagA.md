@@ -2,5 +2,4 @@
 title = "०६ सूनृतावन्तः सुभगा"
 
 +++
-सू॒नृता॑वन्तः सु॒भगा॒ इरा॑वन्तो हसामु॒दाः ।  
-अ॒तृ॒ष्या अ॑क्षु॒ध्या स्त॒ गृहा॒ मास्मद् बि॑भीतन ॥६॥  
+Full of refreshment, full of charms, of laughter and felicity, Be ever free from hunger, free from thirst! Ye Houses, fear us not. Stay here, and come not after me: prosper in every form and shape. With happy fortune will I come! Grow more abundant still through me!

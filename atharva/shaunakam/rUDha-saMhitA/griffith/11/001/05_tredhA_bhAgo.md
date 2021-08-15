@@ -2,5 +2,4 @@
 title = "०५ त्रेधा भागो"
 
 +++
-त्रे॒धा भा॒गो निहि॑तो॒ यः पु॒रा वो॑ दे॒वानां॑ पितॄ॒णां मर्त्या॑नाम्।  
-अंशा॑न् जानीध्वं॒ वि भ॑जामि॒ तान् वो॒ यो दे॒वानां॒ स इ॒मां पा॑रयाति ॥५॥  
+Your portion from of old is triply parted, portion of Gods, of Fathers, and of mortals. Know, all, your shares. I deal them out among you. The portion of the Gods shall save this woman.

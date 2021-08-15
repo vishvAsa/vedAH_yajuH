@@ -2,5 +2,4 @@
 title = "०९ दैवा होतार"
 
 +++
-दैवा॒ होता॑र ऊ॒र्ध्वम॑ध्व॒रं नो॒ऽग्नेर्जि॒ह्वया॒भि गृ॑णत गृ॒नता॑ नः॒ स्विऽष्टये ।  
-ति॒स्रो दे॒वीर्ब॒र्हिरेदं स॑दन्ता॒मिडा॒ सर॑स्वती म॒ही भार॑ती गृणा॒ना॑॥९॥  
+Celestial Hotars, with the tongues of Agni praise and extol our lofty ceremony, so that our sacrifice be well conducted!

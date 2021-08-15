@@ -2,4 +2,4 @@
 title = "४२ सर्वास्याङ्गा पर्वा"
 
 +++
-सर्वा॒स्याङ्गा॒ पर्वा॒ मूला॑नि वृश्चति ॥४२॥  
+She sunders all his members, joints, and roots.

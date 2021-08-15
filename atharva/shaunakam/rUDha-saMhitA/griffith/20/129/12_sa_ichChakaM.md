@@ -2,4 +2,4 @@
 title = "१२ स इच्छकं"
 
 +++
-स इच्छकं॒ सघा॑घते ॥१२॥  
+Hither hath come a stallion: he is known by droppings on his way, (with previous verse)

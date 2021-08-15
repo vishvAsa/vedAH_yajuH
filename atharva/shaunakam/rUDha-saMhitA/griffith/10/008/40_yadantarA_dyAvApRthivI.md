@@ -2,5 +2,4 @@
 title = "४० यदन्तरा द्यावापृथिवी"
 
 +++
-यद॑न्त॒रा द्यावा॑पृथि॒वी अ॒ग्निरैत् प्र॒दह॑न् विश्वदा॒व्यः ।  
-यत्राति॑ष्ठ॒न्नेक॑पत्नीः प॒रस्ता॒त् क्वेऽवासीन्मात॒रिश्वा॑ त॒दानी॑म्॥३९॥  
+Into the floods had Matarisvan entered, the deities had past in- to the waters. There stood the mighty measurer of the region: into the ver- dant plants went Pavamana.

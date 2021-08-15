@@ -2,5 +2,4 @@
 title = "१९ सप्त च्छन्दांसि"
 
 +++
-स॒प्त च्छन्दां॑सि चतुरुत्त॒राण्य॒न्यो अ॒न्यस्मि॒न्नध्यार्पि॑तानि ।  
-क॒थं स्तोमाः॒ प्रति॑ तिष्ठन्ति॒ तेषु॒ तानि॒ स्तोमे॑षु॒ क॒थमार्पि॑तानि ॥१९॥  
+Seven metres, by four syllables increasing, each of the seven founded upon another How are the hymns of praise on these supported, and how are these imposed upon the praise-songs?

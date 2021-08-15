@@ -2,5 +2,4 @@
 title = "०१ समेत विश्वे"
 
 +++
-स॒मेत॒ विश्वे॒ वच॑सा॒ पतिं॑ दि॒व एको॑ वि॒भूरति॑थि॒र्जना॑नाम्।  
-स पू॒र्व्यो नूत॑नमा॒विवा॑सत् तं व॑र्त॒निरनु॑ वावृत॒ एक॒मित् पु॒रु॥१॥
+With prayer come all together to the Lord of Heaven: he is the peerless one, far-reaching, guest of men. He, God of ancient time, hath gained a recent thrall; to him alone is turned the path which all must tread.

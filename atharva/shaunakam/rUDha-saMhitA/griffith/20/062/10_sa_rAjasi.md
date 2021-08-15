@@ -2,5 +2,4 @@
 title = "१० स राजसि"
 
 +++
-  
-स रा॑जसि पुरुष्टुतं॒ एको॑ वृ॒त्राणि॑ जिघ्नसे । इन्द्र॒ जैत्रा॑ श्रव॒स्याऽ च॒ यन्त॑वे ॥१०॥
+Such, praised by many! thou art King. Alone thou smitest foe- men dead, To gain, O Indra, spoils of war and high renown.

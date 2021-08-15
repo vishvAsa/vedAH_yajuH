@@ -2,4 +2,4 @@
 title = "१० बृहस्पतिं ते"
 
 +++
-बृह॒स्पतिं॒ ते वि॒श्वदे॑ववन्तमृच्छन्तु । ये मा॑घा॒यव॑ ऊ॒र्ध्वाया॑ दि॒शोऽभि॒दासा॑त्॥१०॥
+Let those who vex me from the zenith, sinners, extol Brihaspati with the Visve Devas.

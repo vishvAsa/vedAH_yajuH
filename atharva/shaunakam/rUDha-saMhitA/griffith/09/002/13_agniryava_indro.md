@@ -2,5 +2,4 @@
 title = "१३ अग्निर्यव इन्द्रो"
 
 +++
-अ॒ग्निर्यव॒ इन्द्रो॒ यवः॒ सोमो॒ यवः॑ ।  
-य॒व॒यावा॑नो दे॒वा या॑वयन्त्वेनम्॥१३॥  
+Agni averts, Indra averts, and Soma: may the averting Gods avert this foeman.

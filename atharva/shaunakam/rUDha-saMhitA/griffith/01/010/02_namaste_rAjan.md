@@ -2,5 +2,4 @@
 title = "०२ नमस्ते राजन्"
 
 +++
-नम॑स्ते राजन् वरुणास्तु म॒न्यवे॒ विश्वं॒ ह्यु॒ऽग्र निचि॒केषि॑ द्रु॒ग्धम् ।  
-स॒हस्र॑म॒न्यान् प्र सु॑वामि सा॒कं श॒तं जी॑वाति श॒रद॒स्तवा॒यम्॥२॥  
+Homage be paid, King Varuna, to thine anger; for thou, dread God, detectest every falsehood. I send a thousand others forth together: let this thy servant live a hundred autumns.

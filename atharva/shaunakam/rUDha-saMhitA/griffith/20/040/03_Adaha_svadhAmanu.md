@@ -2,4 +2,4 @@
 title = "०३ आदह स्वधामनु"
 
 +++
-आदह॑ स्व॒धामनु॒ पुन॑र्गर्भ॒त्वमे॑रि॒रे। दधा॑ना॒ नाम॑ य॒ज्ञिय॑म्॥३॥
+Thereafter they, as is their wont, threw off the state of babes unborn, Assuming sacrificial name.

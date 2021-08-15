@@ -2,5 +2,4 @@
 title = "२६ नीललोहितं भवति"
 
 +++
-नी॒ल॒लो॒हि॒तं भ॑वति कृ॒त्यास॒क्तिर्व्यऽज्यते ।  
-एध॑न्ते अस्या ज्ञा॒तयः॒ पति॑र्ब॒न्धेषु॑ बध्यते ॥२६॥  
+It turneth dusky-red: the witch who clingeth close is driven off. Well thrive the kinsmen of this bride: the husband is bound fast in bonds.

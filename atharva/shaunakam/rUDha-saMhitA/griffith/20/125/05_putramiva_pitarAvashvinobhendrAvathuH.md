@@ -2,5 +2,4 @@
 title = "०५ पुत्रमिव पितरावश्विनोभेन्द्रावथुः"
 
 +++
-पु॒त्रमि॑व पि॒तरा॑व॒श्विनो॒भेन्द्रा॒वथुः॒ काव्यै॑र्दं॒सना॑भिः ।  
-यत् सु॒रामं॒ व्यपि॑बः॒ शची॑भिः॒ सर॑स्वती त्वा मघवन्नभिष्णक्॥५॥  
+As parents aid a son, both Asvins, Indra, aided thee with their wondrous powers and wisdom When thou, with might, hadst drunk the draught that glad- dens, Sarasvati, O Maghavan refreshed thee.

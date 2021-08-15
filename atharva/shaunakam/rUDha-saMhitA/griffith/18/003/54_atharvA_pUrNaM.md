@@ -2,5 +2,4 @@
 title = "५४ अथर्वा पूर्णं"
 
 +++
-अथ॑र्वा पू॒र्णं च॑म॒सं यमिन्द्रा॒याबि॑भर्वा॒जिनी॑वते ।  
-तस्मि॒न् कृणोति सुकृ॒तस्य॑ भ॒क्षं तस्मि॒निन्दुः॑ पवते विश्व॒दानी॑म्॥५४॥  
+The chalice brimming o'er which erst Atharvan offered to Indra, Lord of wealth and treasure, Indu therein sets draught of virtuous action, and ever purifies himself within it.

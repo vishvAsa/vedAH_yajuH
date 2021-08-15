@@ -2,5 +2,4 @@
 title = "०१ जरायुजः प्रथम"
 
 +++
-ज॒रा॒यु॒जः प्र॑थ॒म उ॒स्रियो॒ वृषा॒ वात॑भ्रजा स्त॒नय॑न्नेति वृ॒ष्ट्या।  
-स नो॑ मृडाति त॒न्व ऋजु॒गो रु॒जन् य एक॒मोज॑स्त्रे॒धा वि॑चक्र॒मे॥१॥  
+Born from the womb, brought forth from wind and from the cloud, the first red bull comes onward thundering with the rain. Our bodies may he spare who, cleaving, goes straight on; he who, a single force, divides himself in three.

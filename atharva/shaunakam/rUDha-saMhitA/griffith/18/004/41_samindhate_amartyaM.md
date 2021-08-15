@@ -2,5 +2,4 @@
 title = "४१ समिन्धते अमर्त्यं"
 
 +++
-समि॑न्धते॒ अम॑र्त्यं हव्य॒वाहं॑ घृत॒प्रिय॑म्।  
-स वे॑द॒ निहि॑तान्नि॒धीन् पि॒तॄ॒न् प॑रा॒वतो॑ ग॒तान्॥४१॥  
+Lover of butter, deathless, him, Oblation-bearer, they inflame. He knoweth well the treasured stores gone to the Fathers, far away.

@@ -2,5 +2,4 @@
 title = "०७ शुनासीरेह स्म"
 
 +++
-शुना॑सीरे॒ह स्म॑ मे जुषेथाम्।  
-यद् दि॒वि च॒क्रथुः॒ पय॒स्तेने॒मामुप॑ सिञ्चतम्॥७॥  
+Suna and Sira, welcome ye this laud, and with the milk that ye have made in heaven, Bedew ye both this earth of ours.

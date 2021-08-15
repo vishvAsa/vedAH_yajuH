@@ -2,5 +2,4 @@
 title = "०३ यासां नाभिरारेहणं"
 
 +++
-यासां॒ नाभि॑रा॒रेह॑णं हृ॒दि सं॒वन॑नं कृ॒तम् ।  
-गावो॑ घृ॒तस्य॑ मा॒तरो॒ ऽमूं सं वा॑नयन्तु मे ॥३॥
+May they whose kisses are a bond, a love-charm laid within the heart, Mothers of butter, may the cows incline that maid to love of me.

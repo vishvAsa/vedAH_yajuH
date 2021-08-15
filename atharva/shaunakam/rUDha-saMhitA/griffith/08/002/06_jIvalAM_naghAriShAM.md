@@ -2,5 +2,4 @@
 title = "०६ जीवलां नघारिषां"
 
 +++
-जी॒व॒लां न॑घारि॒षां जी॑व॒न्तीमोष॑धीम॒हम्।  
-त्रा॒य॒मा॒णां सह॑मानां॒ सह॑स्वतीमि॒ह हु॑वे॒ऽस्मा अ॑रि॒ष्टता॑तये ॥६॥  
+Here for sound health I invocate a living animating plant, Preserving, queller of disease, victorious, full of power and might.

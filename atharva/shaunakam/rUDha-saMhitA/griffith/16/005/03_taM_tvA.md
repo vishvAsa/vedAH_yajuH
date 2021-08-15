@@ -2,4 +2,4 @@
 title = "०३ तं त्वा"
 
 +++
-तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स नः॑ स्वप्न दु॒ष्वप्न्या॑त् पाहि ॥३॥  
+We know thine origin, O Sleep. Thou art the son of Misery, etc.

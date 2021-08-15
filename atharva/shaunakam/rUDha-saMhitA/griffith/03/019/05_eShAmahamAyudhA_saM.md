@@ -2,5 +2,4 @@
 title = "०५ एषामहमायुधा सं"
 
 +++
-ए॒षाम॒हमायु॑धा॒ सं स्या॑म्ये॒षां रा॒ष्ट्रं सुवी॑रं वर्धयामि ।  
-ए॒षां क्ष॒त्रम॒जर॑मस्तु जि॒ष्ण्वे॒३षां चि॒त्तं विश्वे॑ऽवन्तु दे॒वाः ॥५॥  
+The weapons of these men I whet and sharpen, with valiant heroes I increase their kingdom. Victorious be their power and ever ageless! May all the Gods promote their thoughts and wishes.

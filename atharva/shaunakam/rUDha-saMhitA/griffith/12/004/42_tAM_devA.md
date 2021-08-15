@@ -2,5 +2,4 @@
 title = "४२ तां देवा"
 
 +++
-तां दे॒वा अ॑मीमांसन्त व॒शेया३मव॒शेति॑ ।  
-ताम॑ब्रवीन्नार॒द ए॒षा व॒शानां॑ व॒शत॒मेति॑ ॥४२॥  
+The Gods considered her in doubt whether she were a Cow or not. Mirada spake of her and said, The veriest Cow of cows is she.

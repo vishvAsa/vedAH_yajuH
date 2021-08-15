@@ -2,5 +2,4 @@
 title = "०४ कति देवाः"
 
 +++
-कति॑ दे॒वाः क॑त॒मे त आ॑स॒न् य उरो॑ ग्री॒वाश्चि॒क्युः पुरु॑षस्य ।  
-कति॒ स्तनौ॒ व्यऽदधुः॒ कः क॑फो॒डौ कति॑ स्क॒न्धान् कति॑ पृ॒ष्टीर॑चिन्वन्॥४॥  
+Who and how many were those Gods who fastened the chest of Purusha and neck together? How many fixed his breasts? Who formed his elbows? How many joined together ribs and shoulders?

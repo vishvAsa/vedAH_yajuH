@@ -2,4 +2,4 @@
 title = "०१ विराड् वा"
 
 +++
-वि॒राड् वा इ॒दमग्र॑ आसी॒त् तस्या॑ जा॒तायाः॒ सर्व॑मबिभेदि॒यमे॒वेदं भ॑वि॒ष्यतीति॑ ॥१॥  
+Viraj at first was This. At birth all feared her; the thought, She will become this All, struck terror.

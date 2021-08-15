@@ -2,5 +2,4 @@
 title = "०७ योगेयोगे तवस्तरं"
 
 +++
-योगे॑योगे त॒वस्त॑रं वाजे॑वाजे हवामहे ।  
-सखा॑य॒ इन्द्र॑मू॒तये॑ ॥७॥  
+In every need, in every fray we call, as friends, to succour us, Indra the mightiest of all.

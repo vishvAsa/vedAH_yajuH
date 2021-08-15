@@ -2,5 +2,4 @@
 title = "०८ वृषा न"
 
 +++
-वृषा॒ न क्रु॒द्धः प॑तय॒द् रजः॒स्वा यो अ॒र्यप॑त्नी॒रकृ॑णोदि॒मा अ॒पः ।  
-स सु॑न्व॒ते म॒घवा॑ जी॒रदा॑न॒वेऽवि॑न्द॒ज्ज्योति॒र्मन॑वे ह॒विष्म॑ते ॥८॥  
+He rushes through the region like a furious bull, he who hath made these floods the dames of worthy lords. This Maghavan hath found light for the man who brings oblation, sheds the juice, and promptly pours his gifts.

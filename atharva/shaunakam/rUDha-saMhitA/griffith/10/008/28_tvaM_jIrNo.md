@@ -2,4 +2,4 @@
 title = "२८ त्वं जीर्णो"
 
 +++
-त्वं जी॒र्णो द॒ण्डेन॑ वञ्चसि॒ त्वं जा॒तो भ॑वसि वि॒श्वतो॑मुखः ॥२७॥  
+Either the sire or son of these, the eldest or the youngest child. As sole God dwelling in the mind, first born, he still is in the womb.

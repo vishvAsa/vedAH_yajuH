@@ -2,5 +2,4 @@
 title = "२२ इहैव स्तं"
 
 +++
-इ॒हैव स्तं॒ मा वि यौ॑ष्टं॒ विश्व॒मायु॒र्व्यऽश्नुतम्।  
-क्रीड॑न्तौ पु॒त्रैर्नप्तृ॑भि॒र्मोद॑मानौ स्वस्त॒कौ॥२२॥  
+Be not divided; dwell ye here; reach the full time of human life. With sons and grandsons sport and play, rejoicing in your happy home.

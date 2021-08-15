@@ -2,6 +2,4 @@
 title = "१० त्वं न"
 
 +++
-त्वं न॑ इन्द्रो॒तिभिः॑ शि॒वाभिः॒ शंत॑मो भव ।  
-आ॒रोहं॑स्त्रिदि॒वं दि॒वो गृ॑णा॒नः सोम॑पीतये प्रि॒यधा॑मा स्व॒स्तये॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१०॥  
+Be thou most gracious unto us, Indra, with favourable aid, Rising to heaven's third sphere, invoked with song to quaff the Soma juice, loving thy home to make us blest. Manifold are thy great deeds, thine, O Vishnu.

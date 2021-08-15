@@ -2,5 +2,4 @@
 title = "०३ येनावपत् सविता"
 
 +++
-येनाव॑पत् सवि॒ता क्षु॒रेण॒ सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान्।  
-तेन॑ ब्रह्माणो वपते॒दम॒स्य गोमा॒नश्व॑वान॒यम॑स्तु प्र॒जावा॑न्॥३॥
+The razor used by Savitar, for shaving, who knoweth Varuna and royal Soma, Even with this shave ye this man, O Brahman. Let him be rich in horses, kine, and children.

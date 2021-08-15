@@ -2,5 +2,4 @@
 title = "०४ येन देवा"
 
 +++
-येन॑ दे॒वा न वि॒यन्ति॒ नो च॑ विद्वि॒षते॑ मि॒थः ।  
-तत् कृ॑ण्मो॒ ब्रह्म॑ वो गृ॒हे सं॒ज्ञानं॒ पुरु॑षेभ्यः ॥४॥  
+That spell through which Gods sever not, nor ever bear each other hate, That spell we lay upon your home, a bond of union for the men.

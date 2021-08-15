@@ -2,5 +2,4 @@
 title = "१६ यत् ते"
 
 +++
-यत् ते॒ यकृ॒द् ये मत॑स्ने यदा॒न्त्रं याश्च॑ ते॒ गुदाः॑ ।  
-आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥१६॥  
+Let liver, and let kidneys, let thine entrails, and the parts within, etc.

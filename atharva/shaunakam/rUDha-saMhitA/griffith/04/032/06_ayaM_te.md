@@ -2,5 +2,4 @@
 title = "०६ अयं ते"
 
 +++
-अ॒यं ते॑ अ॒स्म्युप॑ न॒ एह्य॒र्वाङ् प्र॑तीची॒नः स॑हुरे विश्वदावन्।  
-मन्यो॑ वज्रिन्न॒भि न॒ आ व॑वृत्स्व॒ हना॑व॒ दस्यूं॑रुत बो॑ध्या॒पेः ॥६॥  
+Come hither, I am all thine own: advancing, turn thou to me, victorious, all-bestowing. Come to me, Manyu, wielder of the thunder: bethink thee of thy friend, and slay the Dasyus.

@@ -2,5 +2,4 @@
 title = "०३ संजग्माना अबिभ्युषीरस्मिन्"
 
 +++
-सं॒ज॒ग्मा॒ना अबि॑भ्युषीर॒स्मिन् गो॒ष्ठे क॑री॒षिणीः॑ ।  
-बिभ्र॑तीः सो॒म्यं मध्व॑नमी॒वा उ॒पेत॑न ॥३॥  
+Moving together, free from fear, with plenteous droppings in this pen, Bearing sweet milk-like Soma-juice, come hither free from all disease.

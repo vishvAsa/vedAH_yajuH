@@ -2,5 +2,4 @@
 title = "२४ ऋचः सामानि"
 
 +++
-ऋचः॒ सामा॑नि॒ च्छन्दां॑सि पुरा॒णं यजु॑षा स॒ह।  
-उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥२४॥  
+Verses, and Songs, and magic hymns, Purana, sacrificial text. All the celestial Gods whose home is heaven sprang from the Residue.

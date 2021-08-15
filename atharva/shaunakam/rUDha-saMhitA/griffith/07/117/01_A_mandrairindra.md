@@ -2,5 +2,4 @@
 title = "०१ आ मन्द्रैरिन्द्र"
 
 +++
-आ म॒न्द्रैरि॑न्द्र॒ हरि॑भिर्या॒हि म॒यूर॑रोमभिः ।  
-मा त्वा॒ के चि॒द् वि य॑म॒न् विं न पा॒शिनोऽति॒ धन्वे॑व॒ ताँ इ॑हि ॥१॥
+Come hither, Indra, with bay steeds, joyous, with tails like pea- cock plumes. Let none impede thy way as fowlers stay the bird: pass o'er them as o'er desert lands.

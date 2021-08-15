@@ -2,5 +2,4 @@
 title = "०२ उद्वेपमाना मनसा"
 
 +++
-उ॒द्वेप॑माना॒ मन॑सा॒ चक्षु॑षा॒ हृद॑येन च ।  
-धाव॑न्तु॒ बिभ्य॑तो॒ऽमित्राः॑ प्रत्रा॒सेनाज्ये॑ हु॒ते॥२॥  
+When sacrificial butter hath been offered, let our foemen flee. Through consternation, terrified, trembling in mind and eye and heart.

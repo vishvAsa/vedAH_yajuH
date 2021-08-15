@@ -2,5 +2,4 @@
 title = "१२ अपो निषिञ्चन्नसुरः"
 
 +++
-अ॒पो नि॑षि॒ञ्चन्नसु॑रः पि॒ता नः॒ श्वस॑न्तु॒ गर्ग॑रा अ॒पां व॑रु॒णाव॒ नीची॑र॒पः सृ॑ज ।  
-वद॑न्तु॒ पृश्नि॑बाहवो म॒ण्डूका॒ इरि॒णानु॑ ॥१२॥  
+Our father, Lord divine pouring the torrents. Let the streams breathe, O Varuna, of the waters. Pour the floods down: along the brooks and channels let frogs with speckled arms send out their voices.

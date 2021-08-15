@@ -2,5 +2,4 @@
 title = "१६ अयं वस्ते"
 
 +++
-अ॒यं व॑स्ते॒ गर्भं॑ पृथि॒व्या दिवं॑ वस्ते॒ऽयम॒न्तरि॑क्षम्।  
-अ॒यं ब्र॒ध्नस्य॑ वि॒ष्टपि॒ स्वर्लो॒कान् व्याऽनशे ॥१६॥  
+He goes into the womb of earth, he robes himself in heaven and air. He on the Bright One's station hath reached heavenly light and all the worlds.

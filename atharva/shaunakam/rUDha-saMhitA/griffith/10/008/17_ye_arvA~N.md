@@ -2,5 +2,4 @@
 title = "१७ ये अर्वाङ्"
 
 +++
-ये अ॒र्वाङ् मध्य॑ उ॒त वा॑ पुरा॒णं वेदं॑ वि॒द्वांस॑म॒भितो॒ वद॑न्ति ।  
-आ॒दि॒त्यमे॒व ते परि॑ वदन्ति॒ सर्वे॑ अ॒ग्निं द्वि॒तीयं॑ त्रि॒वृतं॑ च हं॒सम्॥१७॥  
+Those who in recent times, midmost, or ancient, on all sides. greet the sage who knows the Veda, One and all, verily discuss Aditya, the second Agni, and the threefold Hansa.

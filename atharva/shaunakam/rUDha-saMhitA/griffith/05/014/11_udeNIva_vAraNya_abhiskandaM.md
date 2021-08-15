@@ -2,5 +2,4 @@
 title = "११ उदेणीव वारण्यऽभिस्कन्दं"
 
 +++
-उदे॒णीव॑ वार॒ण्यऽभि॒स्कन्दं॑ मृ॒गीव॑ ।  
-कृ॒त्या क॒र्तार॑मृच्छतु ॥११॥  
+Even as the timid antelope or hind from her assailant flees, So swiftly let the sorcery o'ertake and reach the sorcerer.

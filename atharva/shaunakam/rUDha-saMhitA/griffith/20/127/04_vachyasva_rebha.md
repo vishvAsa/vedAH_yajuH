@@ -2,5 +2,4 @@
 title = "०४ वच्यस्व रेभ"
 
 +++
-वच्य॑स्व रेभ॑ वच्यस्व वृ॒क्षे न प॒क्वे श॒कुनः॑ ।  
-नष्टे॑ जि॒ह्वा च॑र्चरीति क्षु॒रो न भु॒रिजो॑रिव ॥४॥  
+Glut thee, O Singer, glut thee like a bird on a ripe-fruited tree. Thy lips and tongue move swiftly like the sharp blades of a pair of shears.

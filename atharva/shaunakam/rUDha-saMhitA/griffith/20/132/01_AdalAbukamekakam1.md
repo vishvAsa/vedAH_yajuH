@@ -2,4 +2,4 @@
 title = "०१ आदलाबुकमेककम्१"
 
 +++
-आदला॑बुक॒मेक॑कम्॥१॥  
+Then too the single bottle-gourd, the bottle-gourd dug from the earth,

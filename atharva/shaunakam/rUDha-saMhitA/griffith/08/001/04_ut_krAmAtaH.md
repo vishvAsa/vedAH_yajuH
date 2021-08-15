@@ -2,5 +2,4 @@
 title = "०४ उत् क्रामातः"
 
 +++
-उत् क्रा॒मातः॑ पुरुष॒ माव॑ पत्था मृ॒त्योः पड्वी॑षमवमु॒ञ्चमा॑नः ।  
-मा च्छि॑त्था अ॒स्माल्लो॒काद॒ग्नेः सूर्य॑स्य सं॒दृशः॑ ॥४॥  
+Up from this place, O man, rise! sink not downward, casting away the bonds of Death that hold thee. Be not thou parted from this world, from sight of Agni and the Sun.

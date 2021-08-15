@@ -2,4 +2,4 @@
 title = "०७ न वनिषदनाततम्७"
 
 +++
-न व॑निष॒दना॑ततम्॥७॥  
+He shall not gain it unspread out. Who among these will touch the lute?

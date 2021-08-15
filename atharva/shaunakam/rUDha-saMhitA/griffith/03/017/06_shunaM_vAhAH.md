@@ -2,5 +2,4 @@
 title = "०६ शुनं वाहाः"
 
 +++
-शु॒नं वा॒हाः शु॒नं नरः॑ शु॒नं कृ॑षतु॒ लाङ्ग॑लम्।  
-शु॒नं व॑र॒त्रा ब॑ध्य॒न्तां शु॒नमष्ट्रा॒मुदि॑ङ्गय ॥६॥  
+Happily work our steers and men! May the plough furrow happily, Happily be the traces bound. Happily ply the driving-goad.

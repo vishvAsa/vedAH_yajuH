@@ -2,5 +2,4 @@
 title = "११ ऊर्ध्वो रोहितो"
 
 +++
-ऊ॒र्ध्वो रोहि॑तो॒ अधि॒ नाके॑ अस्था॒द् विश्वा॑ रू॒पाणि॑ ज॒नय॒न् युवा॑ क॒विः ।  
-ति॒ग्मेना॒ग्निर्ज्योति॑षा॒ वि भा॑ति तृ॒तीये॑ चक्रे॒ रज॑सि प्रि॒याणि॑ ॥११॥  
+Erected, Rohita hath reached the welkin, wise, young, creating every form and figure. Agni, refulgent with his heightened lustre, in the third realm hath brought us joy and gladness.

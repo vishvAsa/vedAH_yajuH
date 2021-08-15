@@ -2,4 +2,4 @@
 title = "०४ ईशाना वार्याणां"
 
 +++
-ईशा॑ना॒ वार्या॑णां॒ क्षय॑न्तीश्चर्षणी॒नाम्। अ॒पो या॑चामि भेष॒जम्॥४॥
+I pray the Floods to send us balm, those who bear rule o'er precious things, And have supreme control of men.

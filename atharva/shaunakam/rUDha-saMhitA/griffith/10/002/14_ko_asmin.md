@@ -2,5 +2,4 @@
 title = "१४ को अस्मिन्"
 
 +++
-को अ॑स्मिन् य॒ज्ञम॑दधा॒देको॑ दे॒वोऽधि॒ पुरु॑षे ।  
-को अ॑स्मिन्त्स॒त्यं कोऽनृ॑तं॒ कुतो॑ मृ॒त्यृः कुतो॒ऽमृत॑म्॥१४॥  
+What God, what only Deity placed sacrifice in Purusha? Who gave him truth and falsehood? Whence came Death and immortality?

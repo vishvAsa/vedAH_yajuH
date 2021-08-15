@@ -2,5 +2,4 @@
 title = "०१ अपमित्यमप्रतीत्तं यदस्मि"
 
 +++
-अ॒प॒मित्य॒मप्र॑तीत्तं॒ यदस्मि॑ य॒मस्य॒ येन॑ ब॒लिना॒ चरा॑मि ।  
-इ॒दं तद॑ग्ने अनृ॒णो भ॑वामि॒ त्वं पाशा॑न् वि॒चृतं॑ वेत्थ॒ सर्वा॑न्॥१॥  
+That which I eat, a debt which still is owing, the tribute due to Yama, which supports me, Thereby may I be free from debt, O Agni. Thou knowest how to rend all bonds asunder.

@@ -2,4 +2,4 @@
 title = "२० इन्द्रः प्राङ्"
 
 +++
-इन्द्रः॒ प्राङ् तिष्ठ॑न् दक्षि॒णा तिष्ठ॑न् य॒मः ॥२०॥  
+Standing east-wards he is Indra, standing southwards, Yama.

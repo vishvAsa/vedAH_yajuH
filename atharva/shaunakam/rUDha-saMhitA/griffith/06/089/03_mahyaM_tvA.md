@@ -2,5 +2,4 @@
 title = "०३ मह्यं त्वा"
 
 +++
-मह्यं॑ त्वा मि॒त्रावरु॑णौ॒ मह्यं॑ दे॒वी सर॑स्वती ।  
-मह्यं॑ त्वा॒ मध्यं॒ भूम्या॑ उ॒भावन्तौ॒ सम॑स्यताम्॥३॥
+May Varuna and Mitra, may Sarasvati the Goddess, May the centre of the earth, and both her limits bring thee close to me.

@@ -2,5 +2,4 @@
 title = "०२ एमं भज"
 
 +++
-एमं भ॑ज॒ ग्रामे॒ अश्वे॑षु॒ गोषु॒ निष्टं भ॑ज॒ यो अ॒मित्रो॑ अ॒स्य।  
-वर्ष्म॑ क्ष॒त्राणा॑म॒यम॑स्तु॒ राजेन्द्र॒ शत्रुं॑ रन्धय॒ सर्व॑म॒स्मै॥२॥  
+Give him a share in village, kine, and horses, and leave his enemy without a portion. Let him as King be head and chief of Princes, Give up to him, O Indra, every foeman.

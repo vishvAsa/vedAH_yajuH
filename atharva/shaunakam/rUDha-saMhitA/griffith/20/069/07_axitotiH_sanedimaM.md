@@ -2,4 +2,4 @@
 title = "०७ अक्षितोतिः सनेदिमं"
 
 +++
-अक्षि॑तोतिः सनेदि॒मं वाज॒मिन्द्रः॑ सह॒स्रिण॑म्। यस्मि॒न् विश्वा॑नि॒ पौंस्या॑ ॥७॥  
+Indra, whose succour never fails, accept this treasure thousand- fold, Wherein all manly powers abide.

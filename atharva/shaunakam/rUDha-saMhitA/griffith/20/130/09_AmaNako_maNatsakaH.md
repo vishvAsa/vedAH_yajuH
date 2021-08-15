@@ -2,4 +2,4 @@
 title = "०९ आमणको मणत्सकः"
 
 +++
-आम॑णको॒ मण॑त्सकः ॥९॥  
+Lover of Kusa grass, Unploughed! Fat is not reckoned in the hoof.

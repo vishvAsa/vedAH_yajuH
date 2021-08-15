@@ -2,5 +2,4 @@
 title = "०१ इदमुग्राय बभ्रवे"
 
 +++
-इ॒दमु॒ग्राय॑ ब॒भ्रवे॒ नमो॒ यो अ॒क्षेषु॑ तनूव॒शी।  
-घृ॒तेन॒ कलिं॑ शिक्षामि॒ स नो॑ मृडाती॒दृशे॑ ॥१॥  
+My homage to the strong, the brown, the sovran lord among the dice! Butter on Kali I bestow: may he be kind to one like me.

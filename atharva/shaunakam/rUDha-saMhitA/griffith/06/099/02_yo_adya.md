@@ -2,5 +2,4 @@
 title = "०२ यो अद्य"
 
 +++
-यो अ॒द्य सेन्यो॑ व॒धो जिघां॑सन् न उ॒दीर॑ते ।  
-इन्द्र॑स्य॒ तत्र॑ बा॒हू स॑म॒न्तं परि॑ दद्मः ॥२॥  
+Whatever deadly missile launched to-day flies forth to slaughter us. We take both arms of Indra to encompass us on every side.

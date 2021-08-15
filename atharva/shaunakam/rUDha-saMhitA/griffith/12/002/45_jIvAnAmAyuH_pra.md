@@ -2,5 +2,4 @@
 title = "४५ जीवानामायुः प्र"
 
 +++
-जी॒वाना॒मायुः॒ प्र ति॑र॒ त्वम॑ग्ने पितॄ॒णां लो॒कमपि॑ गच्छन्तु॒ ये मृ॒ताः ।  
-सु॒गा॒र्ह॒प॒त्यो वि॒तप॒न्नरा॑तिमुषामु॑षां॒ श्रेय॑सीं धेह्य॒स्मै॥४५॥  
+Prolong the lives of those who live, O Agni, Let the dead go unto world of Fathers. As goodly household fire burn up Arati; give this man dawn brighter than all the mornings.

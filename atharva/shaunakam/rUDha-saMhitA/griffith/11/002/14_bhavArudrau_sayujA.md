@@ -2,5 +2,4 @@
 title = "१४ भवारुद्रौ सयुजा"
 
 +++
-भ॒वा॒रु॒द्रौ स॒युजा॑ संविदा॒नावु॒भावु॒ग्रौ च॑रतो वी॒र्याऽय ।  
-तभ्यां॒ नमो॑ यत॒मस्यां॑ दिशी३तः ॥१४॥  
+Accordant and allies, Bhava and Rudra, with mighty strength ye go to deeds of valour. Wherever they may be, we pay them homage.

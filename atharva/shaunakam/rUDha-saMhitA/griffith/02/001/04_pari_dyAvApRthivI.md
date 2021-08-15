@@ -2,5 +2,4 @@
 title = "०४ परि द्यावापृथिवी"
 
 +++
-परि॒ द्यावा॑पृथि॒वी स॒द्य आ॑य॒मुपा॑तिष्ठे प्रथम॒जामृ॒तस्य॑ ।  
-वाच॑मिव व॒क्तरि॑ भुवने॒ष्ठा धा॒स्युरे॒ष न॒न्वे॒३षो अ॒ग्निः ॥४॥  
+I have gone forth around the earth and heaven, I have approached the first-born Son of Order. He, putting voice, as 'twere, within the speaker, stands in the world, he, verily is Agni.

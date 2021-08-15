@@ -2,5 +2,4 @@
 title = "२१ इन्द्रो यातूनामभवत्"
 
 +++
-इन्द्रो॑ यातू॒नाम॑भवत् पराश॒रो ह॑वि॒र्मथी॑नाम॒भ्या॒३विवा॑सताम्।  
-अ॒भीदु॑ श॒क्रः प॑र॒शुर्यथा॒ वनं॒ पात्रे॑व भि॒न्दन्त्स॒त एतु र॒क्षसः॑ ॥२१॥  
+Indra hath ever been the fiends' destroyer who spoil oblations of the Gods' invokers. Yea, Sakra, like an axe that splits the timber, assails and sma- shes them like earthen vessels.

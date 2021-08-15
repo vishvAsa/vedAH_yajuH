@@ -2,5 +2,4 @@
 title = "१५ स्वमेतदच्छायन्ति यद्"
 
 +++
-स्वमे॒तद॒च्छाय॑न्ति॒ यद् व॒शां ब्रा॑ह्म॒णा अ॒भि।  
-यथै॑नान॒न्यस्मि॑न् जिनी॒यादे॒वास्या॑ नि॒रोध॑नम्॥१५॥  
+So when the Brahmans come unto the Cow they come unto their own. For this is her withholding, to oppress these in another life.

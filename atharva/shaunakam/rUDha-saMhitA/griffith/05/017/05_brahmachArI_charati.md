@@ -2,5 +2,4 @@
 title = "०५ ब्रह्मचारी चरति"
 
 +++
-ब्र॒ह्म॒चा॒री च॑रति॒ वेवि॑ष॒द् विषः॒ स दे॒वानां॑ भव॒त्येक॒मङ्ग॑म्।  
-तेन॑ जा॒या मन्व॑विन्द॒द् बृह॒स्पतिः॒ सोमे॑न नी॒तां जु॒ह्वं१ न दे॑वाः ॥५॥  
+Active in duty serves the Brahmachari: he is a member of the Gods' own body. Through him Brihaspati obtained his consort, as the Gods gained the ladle brought by Soma.

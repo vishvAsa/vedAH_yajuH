@@ -2,5 +2,4 @@
 title = "०८ अस्मै मृत्यो"
 
 +++
-अ॒स्मै मृ॑त्यो॒ अधि॑ ब्रूही॒मं द॑य॒स्वोदि॒तो॒३यमे॑तु ।  
-अरि॑ष्टः॒ सर्वा॑ङ्गः सु॒श्रुज्ज॒रसा॑ श॒तहा॑यन आ॒त्मना॒ भुज॑मश्नुताम्॥८॥  
+Comfort him, Death, and pity him: let him arise and pass away, Unharmed, with all his members, hearing well, with old, may he through hundred years win profit with his soul.

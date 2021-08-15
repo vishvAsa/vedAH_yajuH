@@ -2,4 +2,4 @@
 title = "०३ अगन्म स्वः१"
 
 +++
-अग॑न्म॒ स्वः॑१ स्वऽरगन्म॒ सं सूर्य॑स्य॒ ज्यो॑ति॑षागन्म ॥३॥  
+We have come to the light of heaven; to the light of heaven have we come: we have united with the light of Surya.

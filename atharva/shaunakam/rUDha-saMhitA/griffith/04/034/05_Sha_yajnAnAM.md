@@ -2,6 +2,4 @@
 title = "०५ ष यज्ञानां"
 
 +++
-ष॒ य॒ज्ञानां॒ वित॑तो॒ वहि॑ष्ठो विष्टा॒रिणं॑ प॒क्त्वा दि॒वमा विवे॑श ।  
-आ॒ण्डीकं॑ कुमु॑दं॒ सं त॑नोति॒ बिसं॑ शा॒लूकं॒ शफ॑को मुला॒ली।  
-ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त् पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥५॥  
+Strongest is this, performed, of sacrifices: he hath reached heaven who hath prepared Vishtari. The oval-fruited lotus spreads his fibre: there bloom the nelo- phar and water-lilies. Abundant with their overflow of sweetness, these streams shall reach thee in the world of Svarga, whole lakes with lotus- blossom shall approach thee.

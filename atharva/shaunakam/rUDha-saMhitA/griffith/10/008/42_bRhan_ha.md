@@ -2,4 +2,4 @@
 title = "४२ बृहन् ह"
 
 +++
-बृ॒हन् ह॑ तस्थौ॒ रज॑सो वि॒मानः॒ पव॑मानो ह॒रित॒ आ वि॑वेश ॥४०॥  
+Luller to rest, and gatherer-up of treasures, Savitar like a God whose laws are constant, hath stood like Indra in the war for riches.

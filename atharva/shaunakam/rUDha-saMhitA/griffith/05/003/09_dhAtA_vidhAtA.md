@@ -2,5 +2,4 @@
 title = "०९ धाता विधाता"
 
 +++
-धा॒ता वि॑धा॒ता भुव॑नस्य॒ यस्पति॑र्दे॒वः स॑वि॒ताभि॑मातिषा॒हः ।  
-आ॒दि॒त्या रु॒द्रा अ॒श्विनो॒भा दे॒वाः पा॑न्तु यज॑मानं निरृ॒थात्॥९॥  
+Lord of the world, Creator and Disposer, may the God Savitar who quells assailants, May the Adityas, Rudras, both the Asvins, Gods, guard the sacrificer from destruction.

@@ -2,5 +2,4 @@
 title = "१२ पितेव पुत्रानभि"
 
 +++
-पि॒तेव॑ पु॒त्रान॒भि सं स्व॑जस्व नः शि॒वा नो॒ वाता॑ इ॒व वा॑न्तु॒ भूमौ॑ ।  
-यमो॑द॒नं पच॑तो दे॒वते॑ इ॒ह तं न॒स्तप॑ उ॒त स॒त्यं च॑ वेत्तु ॥१२॥  
+Embrace us as a father clasps his children. Here on the Earth let kindly breezes fan us. Let the rice-mess these two cook here, O Goddess, know this our truthfulness and zealous fervour.

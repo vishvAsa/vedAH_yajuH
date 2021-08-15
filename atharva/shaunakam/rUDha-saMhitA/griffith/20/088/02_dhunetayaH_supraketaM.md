@@ -2,5 +2,4 @@
 title = "०२ धुनेतयः सुप्रकेतं"
 
 +++
-धु॒नेत॑यः सुप्रके॒तं मद॑न्तो॒ बृह॑स्पते अ॒भि ये न॑स्तत॒स्रे।  
-पृष॑न्तं सृ॒प्रमद॑ब्धमू॒र्वं बृह॑स्पते॒ रक्ष॑तादस्य॒ योनि॑म्॥२॥  
+Wild in their course, in well-marked wise rejoicing were they,. Brihaspati, who pressed around us Preserve, Brihaspati, the stall uninjured,r,this company's raining. ever-moving birth-place.

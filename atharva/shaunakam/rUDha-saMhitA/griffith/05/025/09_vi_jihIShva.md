@@ -2,5 +2,4 @@
 title = "०९ वि जिहीष्व"
 
 +++
-वि जि॑हीष्व बार्हत्सामे॒ गर्भ॑स्ते॒ योनि॒मा श॑याम्।  
-अदु॑ष्टे दे॒वाः पु॒त्रं सो॑म॒पा उ॑भया॒विन॑म्॥९॥  
+Prepare thee, Barhatsama, let the germ be laid within thy side. The Soma-drinking Gods have given a son to thee, thy son and mine.

@@ -2,5 +2,4 @@
 title = "०१ श्रायन्त इव"
 
 +++
-श्राय॑न्त इव॒ सूर्यं॒ विश्वेदिन्द्र॑स्य भक्षत ।  
-वसू॑नि जा॒ते जन॑मान॒ ओज॑सा॒ प्रति॑ भा॒गं न दी॑धिम ॥१॥  
+Turning, as 'twere, to meet the Sun, enjoy from Indra all good things. When he who will be born is born with power we look to treasures as our heritage.

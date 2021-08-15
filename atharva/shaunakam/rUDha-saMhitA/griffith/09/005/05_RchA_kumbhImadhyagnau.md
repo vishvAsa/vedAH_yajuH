@@ -2,5 +2,4 @@
 title = "०५ ऋचा कुम्भीमध्यग्नौ"
 
 +++
-ऋ॒चा कु॒म्भीमध्य॒ग्नौ श्र॑या॒म्या सि॑ञ्चोद॒कमव॑ धेह्येनम्।  
-प॒र्याध॑त्ता॒ग्निना॑ शमितारः शृ॒तो ग॑च्छतु सु॒कृतां॒ यत्र॑ लो॒कः ॥५॥  
+With verse upon the fire I set the caldron: pour in the water; lay him down within it! Encompass him with fire, ye Immolators. Cooked, let him reach the world where dwell the righteous.

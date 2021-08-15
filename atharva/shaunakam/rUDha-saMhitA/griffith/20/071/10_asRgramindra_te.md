@@ -2,4 +2,4 @@
 title = "१० असृग्रमिन्द्र ते"
 
 +++
-असृ॑ग्रमिन्द्र ते॒ गिरः॒ प्रति॒त्वामुद॑हासत । अजो॑षा वृष॒भं पति॑म्॥१०॥  
+Songs have outpoured themselves to thee, Indra, the strong, the guardian Lord. And raised themselves unsatisfied.

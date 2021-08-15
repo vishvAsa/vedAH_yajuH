@@ -2,5 +2,4 @@
 title = "२३ यो अस्य"
 
 +++
-यो अ॒स्य वि॒श्वज॑न्मन॒ ईशे॒ विश्व॑स्य॒ चेष्ट॑तः ।  
-अन्ये॑षु क्षि॒प्रध॑न्वने॒ तस्मै॑ प्राण॒ नमो॑ऽस्तु ते ॥२३॥  
+Homage, O Prana unto thee armed with swift bow among the rest, In whose dominion is this All of varied sort that stirs and works!

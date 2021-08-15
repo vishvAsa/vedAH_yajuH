@@ -2,5 +2,4 @@
 title = "१३ यावतीः कियतीश्चेमाः"
 
 +++
-याव॑तीः किय॑तीश्चे॒माः पृ॑थि॒व्यामध्योष॑धीः ।  
-ता मा॑ सहस्रप॒र्ण्योऽ मृ॒त्योर्मु॑ञ्च॒न्त्वंह॑सः ॥१३॥  
+These Plants that grow upon the earth, whate'er their number and their size, Let these with all their thousand leaves free me from Death and misery.

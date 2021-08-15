@@ -2,5 +2,4 @@
 title = "२६ आनन्दा मोदाः"
 
 +++
-आ॒न॒न्दा मोदाः॑ प्र॒मुदो॑ऽभिमोद॒मुद॑श्च॒ ये।  
-उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥२६॥  
+All pleasures and enjoyments, all delights and rapturous ecsta- sies, All the celestial Gods whose home is heaven sprang from the Residue.

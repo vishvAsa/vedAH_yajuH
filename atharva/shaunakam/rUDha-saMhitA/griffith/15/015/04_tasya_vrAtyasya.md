@@ -2,4 +2,4 @@
 title = "०४ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य ।योऽस्य द्वि॒तीयः॑ प्रा॒णः प्रौढो॒ नामा॒सौ स आ॑दि॒त्यः ॥४॥  
+His second vital breath, called Mature, is that Aditya.

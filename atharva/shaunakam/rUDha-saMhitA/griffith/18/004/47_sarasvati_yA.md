@@ -2,5 +2,4 @@
 title = "४७ सरस्वति या"
 
 +++
-सर॑स्वति॒ या स॒रथं॑ य॒याथो॒क्थैः स्व॒धाभि॑र्देवि पि॒तृभि॒र्मद॑न्ती ।  
-स॒ह॒स्रा॒र्घमि॒डो अत्र॑ भा॒गं रा॒यस्पोषं॒ यज॑मानाय धेहि ॥४७॥  
+Sarasvati, who tamest with them, joying in hymns and food, O Goddess, with the Fathers, Here give the Sacrificer growth of riches, a portion, worth a thousand, of refreshment.

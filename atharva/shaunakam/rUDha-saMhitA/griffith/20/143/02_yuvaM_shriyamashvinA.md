@@ -2,5 +2,4 @@
 title = "०२ युवं श्रियमश्विना"
 
 +++
-यु॒वं श्रिय॑मश्विना दे॒वता॒ तां दिवो॑ नपाता वनथः॒ शची॑भिः ।  
-यु॒वोर्वपु॑र॒भि पृक्षः॑ सचन्ते॒ वह॑न्ति॒ यत्क॑कु॒हासो॒ रथे॑ वाम्॥२॥  
+Asvins, ye gained that glory by your Godhead, ye Sons of Heaven, by your own might and power. Food followeth close upon your bright appearing when stately horses in your chariot draw you.

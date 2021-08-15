@@ -2,5 +2,4 @@
 title = "०१ नमस्ते जायमानायै"
 
 +++
-नम॑स्ते॒ जाय॑मानायै जा॒ताया॑ उ॒त ते॒ नमः॑ ।  
-बाले॑भ्यः श॒फेभ्यो॑ रू॒पाया॑घ्न्ये ते॒ नमः॑ ॥१॥  
+Worship to thee springing to life, and worship unto thee when born! Worship, O Cow, to thy tail-hair, and to thy hooves, and to thy form!

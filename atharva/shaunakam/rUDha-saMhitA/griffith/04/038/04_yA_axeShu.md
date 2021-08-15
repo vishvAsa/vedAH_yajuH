@@ -2,5 +2,4 @@
 title = "०४ या अक्षेषु"
 
 +++
-या अ॒क्षेषु॑ प्र॒मोद॑न्ते॒ शुचं॒ क्रोधं॑ च॒ बिभ्र॑ती ।  
-आ॒न॒न्दिनीं॑ प्रमो॒दिनी॑मप्स॒रां तामि॒ह हु॑वे ॥४॥  
+Hither I call that Apsaras, the joyous, the delightful one-- Those nymphs who revel in the dice, who suffer grief and yield to wrath.

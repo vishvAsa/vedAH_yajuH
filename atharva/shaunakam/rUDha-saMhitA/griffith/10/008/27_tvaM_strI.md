@@ -2,4 +2,4 @@
 title = "२७ त्वं स्त्री"
 
 +++
-त्वं स्त्री त्वं पुमा॑नसि॒ त्वं कु॑मा॒र उ॒त वा॑ कुमा॒री॥  
+Thou art a woman, and a man; thou art a damsel and a boy. Grown old thou totterest with a staff, new-born thou lookest every way.

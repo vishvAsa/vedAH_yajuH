@@ -2,5 +2,4 @@
 title = "२१ एकं पादं"
 
 +++
-एकं॒ पादं॒ नोत्खि॑दति सलि॒लाद्धंस उ॒च्चर॑न्।  
-यद॒ङ्ग स तमु॑त्खि॒देन्नैवाद्य न श्वः स्या॒न्न रात्री॒ नाहः॑ स्या॒न्न व्युऽछेत् क॒दा च॒न॥२१॥  
+Hansa, what time he rises up, leaves in the flood one foot un- moved. If he withdrew it there would be no more tomorrow or to-day, Never would there be night, no more would daylight shine or morning flush.

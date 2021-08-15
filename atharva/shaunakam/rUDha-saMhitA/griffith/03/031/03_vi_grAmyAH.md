@@ -2,5 +2,4 @@
 title = "०३ वि ग्राम्याः"
 
 +++
-वि ग्रा॒म्याः प॒शव॑ आर॒ण्यैर्व्याऽप॒स्तृष्ण॑यासरन्।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥३॥  
+Tame beasts have parted from wild beasts, water and thirst have gone apart I free, etc.

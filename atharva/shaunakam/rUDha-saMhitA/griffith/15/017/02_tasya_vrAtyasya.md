@@ -2,4 +2,4 @@
 title = "०२ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य । योऽस्य द्वि॒तीयो॑ व्या॒नस्तद॒न्तरि॑क्षम्॥२॥  
+His second diffused breath is that Firmament.

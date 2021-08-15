@@ -2,4 +2,4 @@
 title = "०७ शफेन इव"
 
 +++
-श॒फेन॑ इ॒व ओ॑हते ॥७॥  
+Not to the belly comes the grain. The patient ones are angry now.

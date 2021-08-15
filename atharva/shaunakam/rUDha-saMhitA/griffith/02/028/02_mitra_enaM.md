@@ -2,5 +2,4 @@
 title = "०२ मित्र एनं"
 
 +++
-मि॒त्र एनं॒ वरु॑णो वा रि॒शादा॑ ज॒रामृ॑त्युं कृणुतां संविदा॒नौ।  
-तद॒ग्निर्होता॑ व॒युना॑नि विद्वान् विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति ॥२॥  
+Mitra or Varuna the foe-destroyer, accordant, grant him death in course of nature! Thus Agni, Hotar-priest, skilled in high statutes, declareth all the deities' generations.

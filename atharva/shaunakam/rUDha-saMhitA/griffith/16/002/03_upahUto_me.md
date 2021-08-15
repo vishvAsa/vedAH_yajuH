@@ -2,4 +2,4 @@
 title = "०३ उपहूतो मे"
 
 +++
-उप॑हूतो मे गो॒पाः उप॑हूतो गोपी॒थः ॥३॥  
+I have invoked the Protector; I have invoked his protection.

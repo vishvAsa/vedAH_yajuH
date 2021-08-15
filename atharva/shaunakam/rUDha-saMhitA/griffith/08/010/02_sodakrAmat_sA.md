@@ -2,4 +2,4 @@
 title = "०२ सोदक्रामत् सा"
 
 +++
-सोद॑क्राम॒त् सा गार्ह॑पत्ये॒ न्यऽक्रामत्॥२॥  
+She rose, the Garhapatya fire she entered. He who knows this becomes lord of a household, performer of domestic sacri- fices.

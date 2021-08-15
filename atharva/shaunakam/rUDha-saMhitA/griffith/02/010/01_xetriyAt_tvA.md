@@ -2,5 +2,4 @@
 title = "०१ क्षेत्रियात् त्वा"
 
 +++
-क्षे॒त्रि॒यात् त्वा॒ निरृ॑त्या जामिशं॒साद् द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑ पृथि॒वी उ॒भे स्ता॑म्॥१॥  
+From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I free and save thee. With spell and prayer I make thee pure and sinless: to thee be both, the Earth and Heaven, auspicious!

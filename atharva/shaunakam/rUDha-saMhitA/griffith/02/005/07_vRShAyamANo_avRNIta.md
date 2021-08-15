@@ -2,5 +2,4 @@
 title = "०७ वृषायमाणो अवृणीत"
 
 +++
-वृषा॒यमा॑णो अवृणीत॒ सोमं॒ त्रिक॑द्रुकेष्वपिबत् सु॒तस्य॑ ।  
-आ साय॑कं म॒घवा॑दत्त॒ वज्र॒मह॑न्नेनं प्रथम॒जामही॑नाम्॥७॥
+Impetuous as a bull he chose the Soma, and quaffed the juices in three sacred beakers. Maghavan grasped the thunder for his weapon, and smote to death this first-born of the dragons.

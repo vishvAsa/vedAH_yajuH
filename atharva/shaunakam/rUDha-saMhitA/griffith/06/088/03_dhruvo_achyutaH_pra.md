@@ -2,5 +2,4 @@
 title = "०३ ध्रुवोऽच्युतः प्र"
 
 +++
-ध्रु॒वोऽच्यु॑तः॒ प्र मृ॑णीहि॒ शत्रू॑न्छत्रूय॒तोऽध॑रान् पादयस्व ।  
-सर्वा॒ दिशः॒ संम॑नसः स॒ध्रीची॑र्ध्रु॒वाय॑ ते॒ समि॑तिः कल्पतामि॒ह॥३॥
+Firm, never to be shaken, crush thy foemen, under thy feet lay those who strive against thee. One-minded, true to thee be all the regions: faithful to thee, the firm, be this assembly!

@@ -2,5 +2,4 @@
 title = "४५ इदं प्रापमुत्तमं"
 
 +++
-इ॒दं प्राप॑मुत्त॒मं काण्ड॑मस्य॒ यस्मा॑ल्लो॒कात् प॑रमे॒ष्ठी स॒माप॑ ।  
-आ सि॑ञ्च स॒र्पिर्घृ॒तव॒त् सम॑ङ्ग्ध्ये॒ष भा॒गो अङ्गि॑रसो नो॒ अत्र॑ ॥४५॥  
+Of this have I obtained the noblest portion from that same world whence Parmeshthin gained it. Pour forth, besprinkle butter rich in fatness: the share of Angiras is here before us.

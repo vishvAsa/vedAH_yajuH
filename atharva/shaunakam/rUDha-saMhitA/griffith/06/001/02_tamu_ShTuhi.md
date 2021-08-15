@@ -2,5 +2,4 @@
 title = "०२ तमु ष्टुहि"
 
 +++
-तमु॑ ष्टुहि॒ यो अ॒न्तः सिन्धौ॑ सू॒नुः ।  
-स॒त्यस्य॒ युवा॑न॒मद्रो॑घवाचं सु॒शेव॑म्॥२॥  
+Yea, praise him whose home is in the river, Son of Truth, the youthful, gracious friend whose word is guileless.

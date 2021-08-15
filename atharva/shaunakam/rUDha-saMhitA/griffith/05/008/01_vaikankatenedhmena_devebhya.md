@@ -2,5 +2,4 @@
 title = "०१ वैकङ्कतेनेध्मेन देवेभ्य"
 
 +++
-वै॒क॒ङ्क॒तेने॒ध्मेन॑ दे॒वेभ्य॒ आज्यं॑ वह ।  
-अग्ने॒ ताँ इ॒ह मा॑दय॒ सर्व॑ आ य॑न्तु मे॒ हव॑म्॥१॥  
+With fuel of Vikankata bring molten butter to the Gods. O Agni, make them joyful here: let them all come unto my call.

@@ -2,5 +2,4 @@
 title = "०१ ये भक्षयन्तो"
 
 +++
-ये भ॒क्षय॑न्तो॒ न वसू॑न्यानृ॒धुर्यान॒ग्नयो॑ अ॒न्वत॑प्यन्त॒ धिष्ण्याः॑ ।  
-या तेषा॑मव॒या दुरि॑ष्टिः॒ स्विऽष्टिं न॒स्तां कृ॑णवद् वि॒श्वक॑र्मा ॥१॥  
+We who enjoying it have grown no richer, for whom the sacred altar-fires have sorrowed, We who compounded with deficient worship,--may Visvakarman make our service prosper.

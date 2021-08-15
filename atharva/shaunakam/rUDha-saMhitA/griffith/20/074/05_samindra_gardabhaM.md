@@ -2,5 +2,4 @@
 title = "०५ समिन्द्र गर्दभं"
 
 +++
-समि॑न्द्र गर्द॒भं मृ॑ण नु॒वन्तं॑ पा॒पया॑मु॒या।  
-आ तू न॑ इन्द्र शंसय॒ गोष्वश्वे॑षु शु॒भ्रिषु॑ स॒हस्रे॑षु तुवीमघ ॥५॥  
+Destroy this ass, O Indra, who in tones discordant brays to thee: Do thou, O Indra, give us hope of beauteous horses and of kine, In thousands, O most wealthy One.

@@ -2,5 +2,4 @@
 title = "०८ आ नो"
 
 +++
-आ नो॑ यज्ञं भार॑ती॒ तूय॑मे॒त्विडा॑ मनु॒ष्वदि॒ह चे॒तय॑न्ती ।  
-ति॒स्रो दे॒वीर्ब॒र्हिरेदं स्यो॒नं सर॑स्वतीः॒ स्वप॑सः सदन्ताम्॥८॥  
+Let Bharati come quickly to our worship and Ila showing like a human being. So let Sarasvati and both her fellows, deft Goddesses, on this fair grass be seated.

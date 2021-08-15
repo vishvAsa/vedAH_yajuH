@@ -2,5 +2,4 @@
 title = "११ प्राणो मृत्युः"
 
 +++
-प्रा॒णो मृ॒त्युः प्रा॒णस्त॒क्मा प्रा॒णं दे॒वा उपा॑सते ।  
-प्रा॒णो ह॒ सत्यवा॒दिन॑मुत्त॒मे लो॒क आ द॑धत्॥११॥  
+Prana is Fever, he is Death. Prana is worshipped by the Gods. Prana sets in the loftiest sphere the man who speaks the words of truth.

@@ -2,4 +2,4 @@
 title = "०२ इन्द्रमित् केशिना"
 
 +++
-इन्द्र॒मित् के॒शिना॒ हरी॑ सोम॒पेया॑य वक्षतः । उप॑ य॒ज्ञं सु॒राध॑सम्॥२॥  
+Bay horses with their long manes bring Indra to drink the Soma juice, The Bountiful to our sacrifice.

@@ -2,4 +2,4 @@
 title = "१४ सर्वाण्यस्यां क्रूराणि"
 
 +++
-सर्वा॑ण्यस्यां क्रू॒राणि॒ सर्वे॑ पुरुषव॒धाः ॥१४॥  
+In her are all dreadful, deeds, all slaughters of mankind.

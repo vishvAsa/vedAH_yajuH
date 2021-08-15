@@ -2,5 +2,4 @@
 title = "०१ अन्तकाय मृत्यवे"
 
 +++
-अन्त॑काय मृ॒त्यवे॒ नमः॑ प्रा॒णा अ॑पा॒ना इ॒ह ते॑ रमन्ताम्।  
-इ॒हायम॑स्तु॒ पुरु॑षः स॒हासु॑ना॒ सूर्य॑स्य भा॒गे अ॒मृत॑स्य लो॒के॥१॥  
+Homage to Death the Ender! May thy breathings, inward and outward, still remain within thee. Here stay this man united with his spirit in the Sun's realm, the world of life eternal!

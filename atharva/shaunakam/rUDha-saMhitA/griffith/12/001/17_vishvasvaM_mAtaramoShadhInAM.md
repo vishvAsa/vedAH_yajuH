@@ -2,5 +2,4 @@
 title = "१७ विश्वस्वं मातरमोषधीनां"
 
 +++
-वि॒श्व॒स्वं मा॒तर॒मोष॑धीनां ध्रु॒वां भूमिं॑ पृथि॒वीं धर्म॑णा धृ॒ताम्।  
-शि॒वां स्यो॒नामनु॑ चरेम वि॒श्वहा॑ ॥१७॥  
+Kind, ever gracious be the Earth we tread on, the firm Earth, Prithivi, borne up by Order, mother of plants and herbs, the all-producer.

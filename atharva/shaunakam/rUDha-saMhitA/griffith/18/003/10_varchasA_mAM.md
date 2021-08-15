@@ -2,5 +2,4 @@
 title = "१० वर्चसा मां"
 
 +++
-वर्च॑सा॒ मां पि॒तरः॑ सो॒म्यासो॒ अञ्ज॑न्तु दे॒वा मधु॑ना घृ॒तेन॑ ।  
-चक्षु॑षे मा प्रत॒रं ता॒रय॑न्तो ज॒रसे॑ मा ज॒रद॑ष्टिं वर्धन्तु ॥१०॥  
+With splendour may the Fathers, meet for Soma, with mead and. fatness may the Gods anoint me. Lead me on farther to extended vision, and prosper me through life of long duration.

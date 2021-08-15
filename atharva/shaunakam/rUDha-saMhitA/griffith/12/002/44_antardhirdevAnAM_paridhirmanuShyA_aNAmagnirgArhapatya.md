@@ -2,4 +2,4 @@
 title = "४४ अन्तर्धिर्देवानां परिधिर्मनुष्याऽणामग्निर्गार्हपत्य"
 
 +++
-अ॒न्त॒र्धिर्दे॒वानां॑ परि॒धिर्म॑नु॒ष्याऽणाम॒ग्निर्गार्ह॑पत्य उ॒भया॑नन्त॒रा श्रि॒तः ॥४४॥  
+He who holds Gods within himself, the rampart and defence of men, Agni, the sacred household fire, hath come and stands between them both.

@@ -2,5 +2,4 @@
 title = "०२ अध ते"
 
 +++
-अध॑ ते॒ विश्व॒मनु॑ हासदि॒ष्टय॒ आपो॑ नि॒म्नेव॒ सव॑ना ह॒विष्म॑तः ।  
-यत् पर्व॑ते॒ न स॒मशी॑त हर्य॒त इन्द्र॑स्य॒ वज्रः॒ श्नथि॑ता हिर॒ण्ययः॑ ॥२॥  
+Now all this world, for worship, shall come after thee--the offerer's libations like descending floods, When the well-loved one seems to rest upon the hill, the thun- derbolt of Indra, shatterer wrought of gold.

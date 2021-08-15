@@ -2,5 +2,4 @@
 title = "०६ यदि स्त्री"
 
 +++
-यदि॒ स्त्री यदि॑ वा॒ पुमा॑न् कृ॒त्यां च॒कार॑ पा॒प्मने॑ ।  
-तामु॒ तस्मै॑ नयाम॒स्यश्व॑मिवाश्वाभि॒धान्या॑ ॥६॥  
+Whoso, for other's harm hath dealt-woman or man-in magic arts, To him we lead the sorcery back, even as a courser with a rope.

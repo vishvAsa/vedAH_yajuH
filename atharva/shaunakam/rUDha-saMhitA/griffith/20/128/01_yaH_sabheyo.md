@@ -2,5 +2,4 @@
 title = "०१ यः सभेयो"
 
 +++
-यः स॒भेयो॑ विद॒थ्यः सु॒त्वा य॒ज्वाथ॒ पूरु॑षः ।  
-सूर्यं॒ चामू॑ रि॒शादस॒स्तद् दे॒वाः प्राग॑कल्पयन्॥१॥  
+The worshipper who pours the juice, for gathering and assembly fit, And yonder foe-destroying Sun,--these have the Gods designed of old.

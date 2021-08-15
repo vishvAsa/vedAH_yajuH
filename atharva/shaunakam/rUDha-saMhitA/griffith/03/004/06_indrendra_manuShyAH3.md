@@ -2,5 +2,4 @@
 title = "०६ इन्द्रेन्द्र मनुष्याः३"
 
 +++
-इन्द्रे॑न्द्र मनु॒ष्याः॒३ परे॑हि॒ सं ह्यज्ञा॑स्था॒ वरु॑णैः संविदा॒नः ।  
-स त्वा॒यम॑ह्व॒त् स्वे स॒धस्थे॒ स दे॒वान् य॑क्ष॒त् स उ॑ कल्पया॒द् विशः॑ ॥६॥  
+Pass to the tribes of men. O Indra, Indra. Thou the Varunas hast been found accordant. To his own place this one hath called thee, saying, Let him adore the Gods and guide the clansmen.

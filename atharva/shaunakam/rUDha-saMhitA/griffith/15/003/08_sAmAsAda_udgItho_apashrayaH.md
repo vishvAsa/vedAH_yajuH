@@ -2,4 +2,4 @@
 title = "०८ सामासाद उद्गीथोऽपश्रयः"
 
 +++
-सामा॑सा॒द उ॑द्गी॒थोऽपश्र॒यः ॥८॥  
+The Saman was the Cushion, and chanting the bolster.

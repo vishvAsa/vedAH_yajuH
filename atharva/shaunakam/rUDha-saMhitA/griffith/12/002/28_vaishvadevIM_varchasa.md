@@ -2,5 +2,4 @@
 title = "२८ वैश्वदेवीं वर्चस"
 
 +++
-वै॒श्व॒दे॒वीं वर्च॑स॒ आ र॑भध्वं शु॒द्धा भव॑न्तः॒ शुच॑यः पाव॒काः ।  
-अ॒ति॒क्राम॑न्तो दुरि॒ता प॒दानि॑ श॒तं हिमाः॒ सर्व॑वीरा मदेम ॥२८॥  
+Becoming pure and bright and purifying begin the Vaisvadevi strain for splendour.. May we rejoice, o'erpassing troublous places, with all our heroes through a hundred winters.

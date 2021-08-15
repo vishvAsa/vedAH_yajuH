@@ -2,5 +2,4 @@
 title = "०१ इमं मे"
 
 +++
-इ॒मं मे॑ अग्ने॒ पुरु॑षं मुमुग्ध्य॒यं यो ब॒द्धः सुय॑तो॒ लाल॑पीति ।  
-अतोऽधि॑ ते कृणवद् भाग॒धेयं॑ य॒दानु॑न्मदि॒तोऽस॑ति ॥१॥  
+Unbind and loose for me this man, O Agni, who bound and well restrained is chattering folly. Afterward he will offer thee thy portion when he hath been delivered from his madness.

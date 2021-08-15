@@ -2,5 +2,4 @@
 title = "०७ उप त्वा"
 
 +++
-उप॑ त्वा॒ नम॑सा व॒यं होत॑र्वैश्वानर स्तु॒मः ।  
-स नः॑ प्र॒जास्वा॒त्मसु गोषु॑ प्रा॒णेषु॑ जागृहि ॥७॥  
+With reverence we sign thy praise, O Hotar-priest Vaisvanara. Over our children keep thou watch, over our bodies, kine, and lives.

@@ -2,5 +2,4 @@
 title = "४७ ये ते"
 
 +++
-ये ते॒ पन्था॑नो ब॒हवो॑ ज॒नाय॑ना॒ रथ॑स्य॒ वर्त्मान॑सश्च॒ यात॑वे ।  
-यैः सं॒चर॑न्त्यु॒भये॑ भद्रपा॒पास्तं पन्था॑नं जयेमानमि॒त्रम॑तस्क॒रं यच्छि॒वं तेन॑ नो मृड ॥४७॥  
+Thy many ways on which the people travel, the road for car and wain to journey over, Thereon meet both the good and bad, that pathway may we attain without a foe or robber. With all things gracious bless thou us.

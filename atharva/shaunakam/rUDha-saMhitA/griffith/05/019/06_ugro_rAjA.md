@@ -2,5 +2,4 @@
 title = "०६ उग्रो राजा"
 
 +++
-उ॒ग्रो राजा॒ मन्य॑मानो ब्राह्म॒णं यो जिघ॑त्सति ।  
-परा॑ तत् सि॑च्यते रा॒ष्ट्रं ब्रा॑ह्म॒णो यत्र॑ जी॒यते॑ ॥६॥  
+If any King who deems himself mighty would eat a Brahman up, Rent and disrupted is that realm wherein a Brahman is oppres- sed.

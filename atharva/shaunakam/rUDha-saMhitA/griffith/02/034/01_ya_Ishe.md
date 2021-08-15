@@ -2,5 +2,4 @@
 title = "०१ य ईशे"
 
 +++
-य ईशे॑ पशु॒पतिः॑ पशू॒नां चतु॑ष्पदामु॒त यो द्वि॒पदा॑म्।  
-निष्क्री॑तः॒ स य॒ज्ञियं॑ भा॒गमे॑तु रा॒यस्पोषा॒ यज॑मानं सचन्ताम्॥१॥  
+May this, of all the beasts that Pasupati rules, Lord of animals,. quadruped and biped, Come, purchased, to the sacrificial portion. May growth of wealth attend the sacrificer.

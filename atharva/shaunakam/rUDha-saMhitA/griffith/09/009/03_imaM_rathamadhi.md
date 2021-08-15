@@ -2,5 +2,4 @@
 title = "०३ इमं रथमधि"
 
 +++
-इ॒मं रथ॒मधि॒ ये स॒प्त त॒स्थुः स॒प्तच॑क्रं स॒प्त व॑ह॒न्त्यश्वाः॑ ।  
-स॒प्त स्वसा॑रो अ॒भि सं न॑वन्त॒ यत्र॒ गवां॒ निहि॑ता स॒प्त नामा॑ ॥३॥  
+The seven who on this seven-wheeled car are mounted have horses, seven in tale, who draw them onward. Seven sisters utter songs of praise together, in whom the Cows' seven names are held and treasured.

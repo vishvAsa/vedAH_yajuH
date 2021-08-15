@@ -2,5 +2,4 @@
 title = "०५ तुभ्यं वातः"
 
 +++
-तुभ्यं॒ वातः॑ पवतां मात॒रिश्वा॒ तुभ्यं॑ वर्षन्त्व॒मृता॒न्यापः॑ ।  
-सूर्य॑स्ते त॒न्वे॒३शं त॑पाति॒ त्वां मृ॒त्युर्द॑यतां॒ मा प्र मे॑ष्ठाः ॥५॥  
+Purely for thee breathe Wind and Matarisvan, and let the Waters rain on thee their nectar. The Sun shall shine with healing on thy body; Death shall have mercy on thee: do not leave us!

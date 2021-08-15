@@ -2,4 +2,4 @@
 title = "०४ इन्द्रमिद् गाथिनो"
 
 +++
-इन्द्र॒मिद् गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ । इन्द्रं॒ वाणी॑रनूषत ॥४॥  
+Indra the singers with high praise, Indra reciters with their lauds, Indra the choirs have glorified.

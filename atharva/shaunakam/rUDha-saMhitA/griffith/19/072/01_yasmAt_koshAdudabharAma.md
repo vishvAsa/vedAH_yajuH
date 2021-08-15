@@ -2,5 +2,4 @@
 title = "०१ यस्मात् कोशादुदभराम"
 
 +++
-यस्मा॒त् कोशा॑दु॒दभ॑राम॒ वेदं॒ तस्मि॑न्न॒न्तरव॑ दध्म एनम्।  
-कृ॒तमि॒ष्टं ब्रह्म॑णो वी॒र्येण॑ तेन॑ मा देवा॒स्तप॑सावते॒ह॥१॥
+Within the chest whence we before extracted the bunch of grass, this do we now deposit. Wrought is the sacrifice by power of Brahma. Through this assist me here, ye God, with Fervour.

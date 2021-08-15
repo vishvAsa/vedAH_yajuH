@@ -2,6 +2,4 @@
 title = "१० ये शालाः"
 
 +++
-ये शालाः॑ परि॒नृत्य॑न्ति सा॒यं ग॑र्दभना॒दिनः॑ ।  
-कु॒सूला॒ ये च॑ कुक्षि॒लाः क॑कु॒भाः क॒रुमाः॒ स्रिमाः॑ ।  
-तानो॑षधे॒ त्वं ग॒न्धेन॑ विषू॒चीना॒न् वि ना॑शय ॥१०॥  
+Those who at evening, with the bray of asses, dance around the house, Kukshilas, and Kusfilas, and Kakubhas, Srimas, Karumas, These with thine odour, O thou Plant, drive far away to every side.

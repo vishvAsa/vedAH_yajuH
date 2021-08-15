@@ -2,4 +2,4 @@
 title = "०२ इहेत्थ प्रागपागुदगधराग्"
 
 +++
-इ॒हेत्थ प्रागपा॒गुद॑ग॒धराग् – व॒त्साः पुरु॑षन्त आसते ॥२॥  
+Here east and west and north and south sit the calves sprinkling Curds and oil.

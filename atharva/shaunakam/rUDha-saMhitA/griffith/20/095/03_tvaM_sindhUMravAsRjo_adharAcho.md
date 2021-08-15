@@ -2,6 +2,4 @@
 title = "०३ त्वं सिन्धूंरवासृजोऽधराचो"
 
 +++
-त्वं सिन्धूं॒रवा॑सृजोऽध॒राचो॒ अह॒न्नहि॑म्।  
-अ॒श॒त्रुरि॑न्द्र जज्ञिषे॒ विश्वं॑ पुष्यसि॒ वार्यं॒ तं त्वा॒ परि॑ ष्वजामहे॒  
-नभ॑न्तामन्य॒केषां॑ ज्या॒का अधि॒ धन्व॑सु ॥३॥  
+Thou didst destroy the Dragon: thou sentest the rivers down to earth. Foeless, O Indra, wast thou born. Thou tendest well each choicest thing. Therefore we draw us close to thee. Let the weak bowstrings break upon the bows of feeble enemies.

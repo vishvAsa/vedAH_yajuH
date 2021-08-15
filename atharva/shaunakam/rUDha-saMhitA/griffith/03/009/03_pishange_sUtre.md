@@ -2,5 +2,4 @@
 title = "०३ पिशङ्गे सूत्रे"
 
 +++
-पि॒शङ्गे॒ सूत्रे॒ खृग॑लं॒ तदा ब॑ध्नन्ति वे॒धसः॑ ।  
-श्र॒व॒स्युं शुष्मं॑ काब॒वं वध्रिं॑ कृण्वन्तु ब॒न्धुरः॑ ॥३॥  
+Then to a tawny-coloured string the wise and skilful bind a brush. Let bandages make impotent the strong and active Kabava.

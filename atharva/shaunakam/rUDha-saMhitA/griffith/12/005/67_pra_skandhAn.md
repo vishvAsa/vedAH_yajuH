@@ -2,4 +2,4 @@
 title = "६७ प्र स्कन्धान्"
 
 +++
-प्र स्क॒न्धान् प्र शिरो॑ जहि ॥६७॥  
+Strike off the shoulders and the head.

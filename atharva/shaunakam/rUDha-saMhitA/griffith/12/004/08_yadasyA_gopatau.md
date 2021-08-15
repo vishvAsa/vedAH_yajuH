@@ -2,5 +2,4 @@
 title = "०८ यदस्या गोपतौ"
 
 +++
-यद॑स्या गोप॑तौ स॒त्या लोम॒ ध्वाङ्क्षो॒ अजी॑हिडत्।  
-ततः॑ कुमा॒रा म्रि॑यन्ते॒ यक्ष्मो॑ विन्दत्यनाम॒नात्॥८॥  
+If, while her master owneth her, a carrion crow hath harmed her hair, His young boys die thereof, Decline o'ertakes them after fell disease.

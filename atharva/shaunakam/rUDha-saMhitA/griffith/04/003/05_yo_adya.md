@@ -2,5 +2,7 @@
 title = "०५ यो अद्य"
 
 +++
-यो अ॒द्य स्ते॒न आय॑ति॒ स संपि॑ष्टो॒ अपा॑यति ।  
-प॒थाम॑पध्वं॒सेनै॒त्विन्द्रो॒ वज्रे॑ण हन्तु॒ तम्॥५॥  
+id
+4.3.5    The thief who cometh near to-day departeth bru...
+4.3.5    The thief who cometh near to-day departeth bru...
+Name: Comment, dtype: object

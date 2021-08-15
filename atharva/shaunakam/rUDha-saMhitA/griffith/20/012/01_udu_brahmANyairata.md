@@ -2,5 +2,4 @@
 title = "०१ उदु ब्रह्माण्यैरत"
 
 +++
-उदु॒ ब्रह्मा॑ण्यैरत श्रव॒स्येन्द्रं॑ सम॒र्ये म॑हया वसिष्ठ ।  
-आ यो विश्वा॑नि॒ शव॑सा त॒तानो॑पश्रो॒ता म॒ ईव॑तो॒ वचां॑सि ॥१॥  
+Prayers have been offered up through love of glory: Vasishtha, honour Indra in the battle. He who with might extends through all existence hears words which I, his faithful servant, utter.

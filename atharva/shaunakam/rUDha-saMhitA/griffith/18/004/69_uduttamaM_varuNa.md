@@ -2,5 +2,4 @@
 title = "६९ उदुत्तमं वरुण"
 
 +++
-उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मं श्र॑थाय ।  
-अधा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ अदि॑तये स्याम ॥६९॥  
+Loosen, O Varuna, the bond that binds us; loosen the bond above, between, and under. Then under thy protection, O Aditya, may we be sinless and restored to freedom.

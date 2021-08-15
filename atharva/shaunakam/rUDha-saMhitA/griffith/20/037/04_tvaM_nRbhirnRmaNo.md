@@ -2,5 +2,4 @@
 title = "०४ त्वं नृभिर्नृमणो"
 
 +++
-त्वं नृभि॑र्नृमणो दे॒ववी॑तौ॒ भूरी॑णि वृ॒त्रा ह॑र्यश्व हंसि ।  
-त्वं नि दस्युं॒ चुमु॑रिं धुनिं॒ चास्वा॑पयो द॒भीत॑ये सु॒हन्तु॑ ॥४॥  
+At the Gods' banquet, Hero-souled! with heroes, Lord of Bay Steeds, thou slewest many Vritras. Thou sentest in swift death to sleep the Dasyu, both Chumuri and Dhuni, for Dabhiti,

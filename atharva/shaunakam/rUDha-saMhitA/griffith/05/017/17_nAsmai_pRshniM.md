@@ -2,5 +2,4 @@
 title = "१७ नास्मै पृश्निं"
 
 +++
-नास्मै॒ पृश्निं॒ वि दु॑हन्ति॒ येऽस्या॒ दोह॑मु॒पास॑ते ।  
-यस्मि॑न् रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥१७॥  
+The men whose task it is to milk drain not the brindled cow for him, In whose dominion is detained, through senseless love, a Brahman's dame.

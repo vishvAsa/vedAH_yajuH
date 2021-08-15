@@ -2,5 +2,4 @@
 title = "२० यावती द्यावापृथिवी"
 
 +++
-याव॑ती द्यावा॑पृथि॒वी व॑रि॒म्णा याव॒दापः॑ सिष्य॒दुर्याव॑द॒ग्निः ।  
-तत॒स्त्वम॑सि॒ ज्याया॑न् वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत् कृ॑णोमि ॥२०॥  
+Wide as the space which heaven and earth encompass, far as the flow of waters, far as Agni, Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.

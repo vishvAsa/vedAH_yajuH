@@ -2,5 +2,7 @@
 title = "०७ एमां कुमारस्तरुण"
 
 +++
-एमां कु॑मा॒रस्तरु॑ण॒ आ व॒त्सो जग॑ता स॒ह।  
-एमां प॑रि॒स्रुतः॑ कु॒म्भ आ द॒ध्नः क॒लशै॑रगुः ॥७॥  
+id
+3.12.7    To this the tender boy hath come, to this the ...
+3.12.7    Here, O ye Waters, is your heart. Here is your...
+Name: Comment, dtype: object

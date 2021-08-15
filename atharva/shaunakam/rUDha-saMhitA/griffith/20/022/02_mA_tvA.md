@@ -2,4 +2,4 @@
 title = "०२ मा त्वा"
 
 +++
-मा त्वा॑ मू॒रा अ॑वि॒ष्यवो॒ मोप॒हस्वा॑न॒ आ द॑भन्। माकीं॑ ब्रह्म॒द्विषो॑ वनः ॥२॥  
+Let not the fools, or those who mock, beguile thee when they seek thine aid: Love not the enemies of prayer.

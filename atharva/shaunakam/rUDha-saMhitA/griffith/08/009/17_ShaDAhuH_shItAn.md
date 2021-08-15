@@ -2,5 +2,4 @@
 title = "१७ षडाहुः शीतान्"
 
 +++
-षडा॑हुः शी॒तान् षडु॑ मा॒स उ॒ष्णानृ॒तुं नो॑ ब्रूत यत॒मोऽति॑रिक्तः ।  
-स॒प्त सु॑प॒र्णाः क॒वयो॒ नि षे॑दुः स॒प्त च्छन्दां॒स्यनु॑ स॒प्त दी॒क्षाः ॥१७॥  
+They call the cold months six, and six the hot ones. Which, tell us, of the seasons is redundant? Seven sages, eagles, have sat down together: seven metres match the seven Consecrations.

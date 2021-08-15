@@ -2,5 +2,4 @@
 title = "२० एत उ"
 
 +++
-ए॒त उ॒ त्ये प॑तयन्ति॒ श्वया॑तव॒ इन्द्रं॑ दिप्सन्ति दि॒प्सवोऽदा॑भ्यम्।  
-शिशी॑ते श॒क्रः पिशु॑नेभ्यो व॒धं नु॒नं सृ॑जद॒शनिं॑ यातु॒मद्भ्यः॑ ॥२०॥  
+They fly, the demon dogs, and, bent on mischief, fain would they harm indomitable Indra. Sakra makes sharp his weapon for the wicked: now let him cast his bolt at fiendish wizards.

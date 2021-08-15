@@ -2,5 +2,4 @@
 title = "०५ ज्यायस्वन्तश्चित्तिनो मा"
 
 +++
-ज्याय॑स्वन्तश्चि॒त्तिनो॒ मा वि यौ॑ष्ट संरा॒धय॑न्तः॒ सधु॑रा॒श्चर॑न्तः ।  
-अ॒न्यो अ॒न्यस्मै॑ व॒ल्गु वद॑न्त॒ एत॑ सध्री॒चीना॑न् वः॒ संम॑नसस्कृणोमि ॥५॥  
+Intelligent, submissive, rest united, friendly and kind, bearing the yoke together. Come, speaking sweetly each one to the other. I make you one- intentioned and one-minded.

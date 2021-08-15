@@ -2,5 +2,4 @@
 title = "२४ आनन्दा मोदाः"
 
 +++
-आ॒न॒न्दा मोदाः॑ प्र॒मुदो॑ऽभिमोद॒मुद॑श्च॒ ये।  
-ह॒सो न॒रिष्टा॑ नृ॒त्तानि॒ शरी॑र॒मनु॒ प्रावि॑शन्॥२४॥  
+Enjoyments, pleasures, and delights, gladness, and rapturous ecstasies. Laughter and merriment and dance entered the body as a home.

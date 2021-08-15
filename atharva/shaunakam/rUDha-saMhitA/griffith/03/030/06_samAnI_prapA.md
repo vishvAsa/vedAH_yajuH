@@ -2,5 +2,4 @@
 title = "०६ समानी प्रपा"
 
 +++
-स॒मा॒नी प्र॒पा स॒ह वो॑ऽन्नभा॒गः स॑मा॒ने योक्त्रे॑ स॒ह वो॑ युनज्मि ।  
-स॒म्यञ्चो॒ऽग्निं स॑पर्यता॒रा नाभि॑मिवा॒भितः॑ ॥६॥  
+Let what you drink, your share of food be common together, with one common bond I bid you. Serve Agni, gathered round him like the spokes about the chariot nave.

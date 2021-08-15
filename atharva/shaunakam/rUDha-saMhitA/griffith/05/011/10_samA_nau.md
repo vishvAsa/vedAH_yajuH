@@ -2,5 +2,4 @@
 title = "१० समा नौ"
 
 +++
-स॒मा नौ॒ बन्धु॑र्वरुण स॒मा जा वेदा॒हं तद् यन्ना॑वे॒षा स॒मा जा।  
-ददा॑मि॒ तद् यत् ते अद॑त्तो॒ अस्मि॒ युज्य॑स्ते स॒प्तप॑दः॒ सखा॑स्मि ॥१०॥  
+One origin, Varuna! one bond unites us I know the nature of that common kinship. I give thee now the gift that I retracted. I am thy friend for ever firm and faithful.

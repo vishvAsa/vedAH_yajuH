@@ -2,5 +2,4 @@
 title = "११ अभि श्यावं"
 
 +++
-अ॒भि श्या॒वं न कृश॑नेभि॒रश्वं॒ नक्ष॑त्रेभिः पि॒तरो॒ द्याम॑पिंशन्।  
-रात्र्यां॒ तमो॒ अद॑धु॒र्ज्योति॒रह॒न् बृह॒स्पति॑र्भि॒नदद्रिं॑ वि॒दद् गाः ॥११॥  
+Like a dark steed adorned with pearl, the Fathers have decorat- ed heaven with constellations. They set the light in day, in night the darkness, Brihaspati cleft the rock and found the cattle.

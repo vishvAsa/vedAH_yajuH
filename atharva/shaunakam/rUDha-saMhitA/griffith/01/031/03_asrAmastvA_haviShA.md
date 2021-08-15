@@ -2,5 +2,4 @@
 title = "०३ अस्रामस्त्वा हविषा"
 
 +++
-अस्रा॑मस्त्वा ह॒विषा॑ यजा॒म्यश्लो॑णस्त्वा घृ॒तेन॑ जुहोमि ।  
-य आशा॑नामाशापा॒लस्तु॒रीयो॑ दे॒वः स नः॑ सुभू॒तमेह व॑क्षत्॥३॥  
+I, free from stiffness, serve thee with oblation, not lame I sacri- fice with oil and fatness. Let the strong Warder God, who keeps the regions bring to us hither safety and well-being.

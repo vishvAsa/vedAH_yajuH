@@ -2,5 +2,4 @@
 title = "१३ ऋतस्य पन्थामनु"
 
 +++
-ऋ॒तस्य॒ पन्था॒मनु॑ ति॒स्र आगु॒स्त्रयो॑ घ॒र्मा अनु॑ रेत॒ आगुः॑ ।  
-प्र॒जामेका॒ जिन्व॒त्यूर्ज॒मेका॑ रा॒ष्ट्रमेका॑ रक्षति देवयू॒नाम्॥१३॥  
+The three have passed along the path of Order--three warm libations have regarded offspring One quickens progeny, one strengthens vigour, and one protects the kingdom of the pious.

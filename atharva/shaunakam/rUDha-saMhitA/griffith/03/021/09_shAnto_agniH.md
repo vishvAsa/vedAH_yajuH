@@ -2,5 +2,4 @@
 title = "०९ शान्तो अग्निः"
 
 +++
-शा॒न्तो अ॒ग्निः क्र॒व्याच्छा॒न्तः पु॑रुष॒रेष॑णः ।  
-अथो॒ यो वि॑श्वदा॒व्य॑१स्तं क्र॒व्याद॑मशीशमम्॥९॥  
+Flesh-eating Agni is appeased, appeased is he who hurteth men. Now him who burneth every thing, the Flesh-consumer, have I stilled.

@@ -2,5 +2,4 @@
 title = "४९ उप सर्प"
 
 +++
-उप॑ सर्प मा॒तरं॒ भूमि॑मे॒तामु॑रु॒व्यच॑सं पृथि॒वीं सु॒शेवा॑म्।  
-ऊर्ण॑म्रदाः पृथि॒वी दक्षि॑णावत ए॒षा त्वा॑ पातु॒ प्रप॑थे पु॒रस्ता॑त्॥४९॥  
+Betake thee to the lap of Earth, our mother, of Earth far-spread- ing, very kind and gracious. May she, wool-soft unto the guerdon-giver, guard thee in front upon the distant pathway.

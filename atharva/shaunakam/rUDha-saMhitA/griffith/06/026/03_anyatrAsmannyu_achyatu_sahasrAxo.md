@@ -2,5 +2,4 @@
 title = "०३ अन्यत्रास्मन्न्युऽच्यतु सहस्राक्षो"
 
 +++
-अ॒न्यत्रा॒स्मन्न्युऽच्यतु सहस्रा॒क्षो अम॑र्त्यः ।  
-यं द्वेषा॑म॒ तमृ॑च्छतु॒ यमु॑ द्वि॒ष्मस्तमिज्ज॑हि ॥३॥
+May the immortal, thousand eyed, dwell otherwhere apart from us. Let him afflict the man we hate: smite only him who is our foe.

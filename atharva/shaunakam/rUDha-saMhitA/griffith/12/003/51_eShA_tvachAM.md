@@ -2,5 +2,4 @@
 title = "५१ एषा त्वचां"
 
 +++
-ए॒षा त्व॒चां पुरु॑षे॒ सं ब॑भू॒वान॑ग्नाः॒ सर्वे॑ प॒शवो॒ ये अ॒न्ये।  
-क्ष॒त्रेणा॒त्मानं॒ परि॑ धापयाथोऽमो॒तं वासो॒ मुख॑मोद॒नस्य॑ ॥५१॥  
+Man hath received this skin of his from nature: of other animals not one is naked. Ye make him clothe himself with might for raiment. Odana's mouth is a home-woven vesture.

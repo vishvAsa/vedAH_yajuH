@@ -2,5 +2,4 @@
 title = "१० पद्भिः सेदिमवक्रामन्निरां"
 
 +++
-प॒द्भिः से॒दिम॑व॒क्राम॒न्निरां॒ जङ्घा॑भिरुत्खि॒दन्।  
-श्रमे॑णान॒ड्वान् की॒लालं॑ की॒नाश॑श्चाभि ग॑च्छतः ॥१०॥  
+With feet subduing weariness, with legs extracting freshening draughts, Through toil the plougher and the Ox approach the honeyed beverage.

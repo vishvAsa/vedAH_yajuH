@@ -2,5 +2,4 @@
 title = "०१ आ नो"
 
 +++
-आ नो॑ भर॒ मा परि॑ ष्ठा अराते॒ मा नो॑ रक्षी॒र्दक्षि॑णां नी॒यमा॑नाम्।  
-नमो॑ वी॒र्त्साया॒ अस॑मृद्धये॒ नमो॑ अ॒स्त्वरा॑तये ॥१॥  
+Bring thou to us, bar not the way, Arati! Stay not the guerdon that is being brought us. Homage be paid to Failure, to Misfortune, and Malignity.

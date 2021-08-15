@@ -2,5 +2,4 @@
 title = "५४ ऊर्जो भागो"
 
 +++
-ऊ॒र्जो भा॒गो य इ॒मं ज॒जानाश्मान्ना॑ना॒माधि॑पत्यं ज॒गाम॑ ।  
-तम॑र्चत वि॒श्वमि॑त्रा ह॒विर्भिः॒ स नो॑ य॒मः प्र॑त॒रं जी॒वसे॑ धात्॥५४॥  
+The share of vigour which gave this man being, the stone won lordship over foods that nourish. Hymn this with your oblations, Visvamitras: may he, may Yama, lengthen our existence.

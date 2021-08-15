@@ -2,4 +2,4 @@
 title = "६९ मांसान्यस्य शातय"
 
 +++
-मां॒सान्य॑स्य शातय॒ स्नावा॑न्यस्य॒ सं वृ॑ह ॥६९॥  
+Tear out his sinews, cause his flesh to fall in pieces from his frame.

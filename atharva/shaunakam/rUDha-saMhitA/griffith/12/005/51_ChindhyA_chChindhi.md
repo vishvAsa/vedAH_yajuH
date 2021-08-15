@@ -2,4 +2,4 @@
 title = "५१ छिन्ध्या च्छिन्धि"
 
 +++
-छि॒न्ध्या च्छि॑न्धि॒ प्र छि॒न्ध्यपि॑ क्षापय क्षा॒पय॑ ॥५१॥  
+Rend, rend to pieces, rend away, destroy, destroy him utterly.

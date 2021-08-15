@@ -2,5 +2,4 @@
 title = "४३ आसीनासो अरुणीनामुपस्थे"
 
 +++
-आसी॑नासो अरु॒णीना॑मु॒पस्थे॑ र॒यिं ध॑त्त दा॒शुषे॒ मर्त्या॑य ।  
-पु॒त्रेभ्यः॑ पितर॒स्तस्य॒ वस्वः॒ प्र य॑च्छत॒ त इ॒होर्जं॑ दधात ॥४३॥  
+Lapped in the bosom of the purple Mornings, give riches to the man who brings oblations. Grant to your sons a portion of that treasure, and, present, give them energy, O Fathers.

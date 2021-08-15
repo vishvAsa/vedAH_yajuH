@@ -2,5 +2,4 @@
 title = "०२ अयामि घोष"
 
 +++
-अया॑मि॒ घोष॑ इन्द्र दे॒वजा॑मिरिर॒ज्यन्त॒ यच्छु॒रुधो॒ विवा॑चि ।  
-न॒हि स्वमायु॑श्चिकि॒ते जने॑षु॒ तानीदंहां॒स्यति॑ पर्ष्य॒स्मान्॥२॥  
+A cry was raised which reached the Gods, O Indra, a cry to them to send us strength in combat. None among men knows his own life's duration: bear us in safety over these our troubles.

@@ -2,5 +2,4 @@
 title = "०५ ये३ऽस्यां स्थ"
 
 +++
-ये॒३ऽस्यां स्थ ध्रु॒वायां॑ दि॒शि नि॑लि॒म्पा नाम॑ दे॒वास्तेषां॑ व॒ ओष॑धी॒रिष॑वः ।  
-ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥५॥  
+Ye Gods whose home is in this firm-set region--Nilimpas is your name--Plants are your arrow. Be kind, etc.

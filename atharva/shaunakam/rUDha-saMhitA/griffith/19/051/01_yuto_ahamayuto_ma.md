@@ -2,4 +2,4 @@
 title = "०१ युतोऽहमयुतो म"
 
 +++
-यु॑तो॒ऽहमयु॑तो म आ॒त्मायु॑तं मे॒ चक्षु॒रयु॑तं मे॒ श्रोत्र॒म॑युतो मे प्रा॒णोऽयु॑तो मे ऽपा॒नोऽयु॑तो मे व्या॒नोऽयु॑तो॒ऽहं सर्वः॑ ॥१॥  
+Undisturbed am I, undisturbed is my soul, undisturbed mine eye, undisturbed mine ear, undisturbed is mine in-breathing, undisturbed mine out-breathing, undisturbed my diffusive- breath, undisturbed the whole of me.

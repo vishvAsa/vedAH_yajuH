@@ -2,5 +2,4 @@
 title = "२४ तुभ्यमारण्याः पशवो"
 
 +++
-तुभ्य॑मार॒ण्याः प॒शवो॑ मृ॒गा वने॑ हि॒ता हं॒साः सु॑प॒र्णाः श॑कु॒ना वयां॑सि ।  
-तव॑ य॒क्षं प॑शुपते अ॒प्स्व॑१न्तस्तुभ्यं॑ क्षरन्ति दि॒व्या आपो॑ वृ॒धे॥२४॥  
+For thee were forest beasts and sylvan creatures placed in the wood, and small birds, swans, and eagles. Floods, Lord of Beasts! contain thy living beings: to swell thy strength flow the celestial Waters.

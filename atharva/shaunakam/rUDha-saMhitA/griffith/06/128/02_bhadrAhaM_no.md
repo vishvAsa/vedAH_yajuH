@@ -2,5 +2,4 @@
 title = "०२ भद्राहं नो"
 
 +++
-भ॒द्रा॒हं नो॑ म॒ध्यंदि॑ने भद्रा॒हं सा॒यम॑स्तु नः ।  
-भ॒द्रा॒हं नो॒ अह्नां॑ प्रा॒ता रात्री॑ भद्रा॒हम॑स्तु नः ॥२॥  
+May we have weather fair at noon, May we have weather fair at eve, Fair weather when the morning breaks, fair weather when the night is come.

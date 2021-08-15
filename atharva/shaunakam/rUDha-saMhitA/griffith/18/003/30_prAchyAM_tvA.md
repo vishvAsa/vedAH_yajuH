@@ -2,5 +2,4 @@
 title = "३० प्राच्यां त्वा"
 
 +++
-प्राच्यां॑ त्वा दि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑ ।  
-लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥३०॥  
+Toward the eastward region I supply thee before thou goest homeward, with oblation, as in her arms, etc. (as in stanza 25).

@@ -2,5 +2,4 @@
 title = "०२ विष्वञ्चो अस्मच्छरवः"
 
 +++
-विष्व॑ञ्चो अ॒स्मच्छर॑वः पतन्तु॒ ये अ॒स्ता ये चा॒स्याः ।  
-दैवी॑र्मनुष्येषवो॒ ममा॒मित्रान् वि वि॑ध्यत ॥२॥  
+Turned from us let the arrows fall, those shot and those that will be shot. Shafts of the Gods and shafts of men, strike and transfix mine enemies:

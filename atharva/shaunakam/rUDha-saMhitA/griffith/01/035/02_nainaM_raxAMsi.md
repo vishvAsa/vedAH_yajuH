@@ -2,5 +2,4 @@
 title = "०२ नैनं रक्षांसि"
 
 +++
-नैनं॒ रक्षां॑सि॒ न पि॑शा॒चाः स॑हन्ते दे॒वाना॒मोजः॑ प्रथम॒जं ह्ये॒तत्।  
-यो बिभ॑र्ति दाक्षाय॒णं हिर॑ण्यं॒ स जी॒वेषु॑ कृणुते दी॒र्घमायुः॑ ॥२॥  
+This man no fiends may conquer, no Pisachas, for this is might of Gods, their primal offspring. Whoever wears the Gold of Daksha's children hath a long lengthened life among the living.

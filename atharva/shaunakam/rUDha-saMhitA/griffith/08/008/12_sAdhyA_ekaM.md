@@ -2,5 +2,4 @@
 title = "१२ साध्या एकं"
 
 +++
-सा॒ध्या एकं॑ जालद॒ण्डमु॒द्यत्य॑ य॒न्त्योज॑सा ।  
-रु॒द्रा एकं॒ वस॑व॒ एक॑मादि॒त्यैरेक॒ उद्य॑तः ॥१२॥  
+Forth go the Sadhyas in their might bearing one netpole raised aloft. One pole the Rudras carry, one the Vasus, and the Adityas one.

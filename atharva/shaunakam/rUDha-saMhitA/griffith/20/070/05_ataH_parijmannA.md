@@ -2,4 +2,4 @@
 title = "०५ अतः परिज्मन्ना"
 
 +++
-अतः॑ परिज्म॒न्ना ग॑हि दि॒वो वा॑ रोच॒नादधि॑ । सम॑स्मिन्नृञ्जते॒ गिरः॑ ॥५॥  
+Come from this place, O wanderer, or downward from the light of heaven! Our songs of praise all yearn for this.

@@ -2,5 +2,4 @@
 title = "०२ आतन्वाना आयच्छन्तोऽस्यन्तो"
 
 +++
-आ॒त॒न्वा॒ना आ॒यच्छ॒न्तोऽस्य॑न्तो॒ ये च॒ धाव॑थ ।  
-निर्ह॑स्ताः शत्रवः स्थ॒नेन्द्रो॑ वोऽद्य परा॑शरीत्॥२॥  
+Ye who run hither bending bows, brandishing swords and cast- ing darts. Handless be ye, O enemies! Let Indra mangle you to-day.

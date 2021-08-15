@@ -2,5 +2,4 @@
 title = "०७ संसृष्टं धनमुभयं"
 
 +++
-संसृ॑ष्टं धन॑मु॒भयं॑ स॒माकृ॑तम॒स्मभ्यं॑ धत्तां॒ वरु॑णश्च म॒न्युः ।  
-भियो॒ दधा॑ना॒ हॄदये॑षु॒ शत्र॑वः॒ परा॑जितासो अप॒ नि ल॑यन्ताम्॥७॥
+For spoil let Varuna and Manyu give us the wealth of both sides gathered and collected; And let our enemies with stricken spirits, o'er-whelmed with. terror, sling away defeated.

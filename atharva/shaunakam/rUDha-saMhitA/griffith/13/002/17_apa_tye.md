@@ -2,5 +2,4 @@
 title = "१७ अप त्ये"
 
 +++
-अप॒ त्ये ता॒यवो॑ यथा॒ नक्ष॑त्रा यन्त्य॒क्तुभिः॑ ।  
-सूरा॑य वि॒श्वच॑क्षसे ॥१७॥  
+The Constellations pass away, like thieves, departing in the night. Before the all-beholding Sun.

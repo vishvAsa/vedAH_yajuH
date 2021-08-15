@@ -2,5 +2,4 @@
 title = "०९ दिवा मा"
 
 +++
-दिवा॑ मा॒ नक्तं॑ यत॒मो द॒दम्भ॑ क्रव्या॒द् या॑तू॒नां शय॑ने॒ शया॑नम्।  
-तदा॒त्मना॑ प्र॒जया॑ पिशा॒चा वि या॑तयन्तामग॒दो॒३यम॑स्तु ॥९॥  
+If one, flesh-eater, in the day or night-time have wronged me lying in the bed of goblins, Let the Pisachas, etc.

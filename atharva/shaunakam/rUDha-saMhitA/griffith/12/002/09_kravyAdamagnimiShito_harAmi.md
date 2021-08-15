@@ -2,5 +2,4 @@
 title = "०९ क्रव्यादमग्निमिषितो हरामि"
 
 +++
-क्र॒व्याद॑म॒ग्निमि॑षि॒तो ह॑रामि॒ जना॑न् दृं॒हन्तं॒ वज्रे॑ण मृ॒त्युम्।  
-नि तं शा॑स्मि॒ गार्ह॑पत्येन वि॒द्वान् पि॑तृ॒णां लो॒केऽपि॑ भा॒गो अ॑स्तु ॥९॥  
+I quickly sweep away corpse-eating Agni, Death, with his bolt potdepriving men of motion. From household fire, well-knowing, I divide him: so in the world of Fathers be his portion.

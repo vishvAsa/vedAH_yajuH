@@ -2,5 +2,4 @@
 title = "०६ पुनस्त्वादित्या रुद्रा"
 
 +++
-पुन॑स्त्वादि॒त्या रु॒द्रा वस॑वः॒ पुन॑र्ब्र॒ह्मा वसु॑नीतिरग्ने ।  
-पुन॑स्त्वा॒ ब्रह्म॑ण॒स्पति॒राधा॑द् दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥६॥  
+Again have the Adityas, Rudras, Vasus, the Brahman, bringer of good things, O Agni, Again hath Brahmanaspati disposed thee for long life lasting through a hundred autumns.

@@ -2,5 +2,4 @@
 title = "०२ परिहस्त वि"
 
 +++
-परि॑हस्त॒ वि धा॑रय॒ योनिं॒ गर्भा॑य॒ धात॑वे ।  
-मर्या॑दे पु॒त्रमा धे॑हि॒ तं त्वमा ग॑मयागमे ॥२॥  
+Prepare accordantly, O Ring, the mother for the infant's birth. On the right way bring forth the boy. Make him come hither. I am here.

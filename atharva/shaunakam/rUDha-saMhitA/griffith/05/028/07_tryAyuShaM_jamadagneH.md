@@ -2,5 +2,4 @@
 title = "०७ त्र्यायुषं जमदग्नेः"
 
 +++
-त्र्या॒यु॒षं ज॒मद॑ग्नेः क॒श्यप॑स्य त्र्यायु॒षम्।  
-त्रे॒धामृत॑स्य॒ चक्ष॑णं॒ त्रीण्यायूं॑षि ते ऽकरम्॥७॥  
+Three lives of Jamadagni, thrice the vital force of Kasyapa, Three sights of immortality, three lives have I prepared for thee.

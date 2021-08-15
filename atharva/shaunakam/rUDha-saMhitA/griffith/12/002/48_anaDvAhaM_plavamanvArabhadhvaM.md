@@ -2,5 +2,4 @@
 title = "४८ अनड्वाहं प्लवमन्वारभध्वं"
 
 +++
-अ॒न॒ड्वाहं॑ प्ल॒वम॒न्वार॑भध्वं॒ स वो॒ निर्व॑क्षद् दुरि॒ताद॑व॒द्यात्।  
-आ रो॑हत सवि॒तुर्नाव॑मे॒तां ष॒ड्भिरु॒र्वीभि॒रम॑तिं तरेम ॥४८॥  
+Seize with firm hold the Ox who boundeth forward: he will uplift you from disgrace and trouble. Enter this ship of Savitar; let us flee from poverty over all the six expenses.

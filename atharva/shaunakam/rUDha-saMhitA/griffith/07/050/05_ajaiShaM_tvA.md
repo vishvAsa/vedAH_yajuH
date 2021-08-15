@@ -2,5 +2,4 @@
 title = "०५ अजैषं त्वा"
 
 +++
-अजै॑षं त्वा॒ संलि॑खित॒मजै॑षमु॒त सं॒रुध॑म्।  
-अविं॒ वृको॒ यथा॒ मथ॑दे॒वा म॑थ्नामि ते कृ॒तम्॥५॥  
+I have completely cleaned thee out, won from thee what thou keptest back. As a wolf tears and rends a sheep, so do I tear thy stake away.

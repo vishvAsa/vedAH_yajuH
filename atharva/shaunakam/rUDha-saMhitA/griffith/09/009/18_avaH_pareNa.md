@@ -2,5 +2,4 @@
 title = "१८ अवः परेण"
 
 +++
-अ॒वः परे॑ण पि॒तरं॒ यो अ॑स्य॒ वेदा॒वः परे॑ण प॒र ए॒ना व॑रेण ।  
-क॒वी॒यमा॑नः॒ क इ॒ह प्र वो॑चद् दे॒वं मनः॒ कुतो॒ अधि॒ प्रजा॑तम्॥१८॥  
+Who, that the father of this Calf discerneth beneath the upper realm, above the lower, Showing himself a sage, may here declare him? Whence hath the godlike spirit had its rising?

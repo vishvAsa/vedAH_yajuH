@@ -2,5 +2,4 @@
 title = "०८ परिच्छिन्नः क्षेममकरोत्"
 
 +++
-प॒रि॒च्छिन्नः॒ क्षेम॑मकरो॒त् तम॒ आस॑नमा॒चर॑न्।  
-कुला॑यन् कृ॒ण्वन् कौर॑व्यः॒ पति॒र्वद॑ति जा॒यया॑ ॥८॥  
+'Mounting his throne, Parikshit, best of all, hath given us peace and rest,' Saith a Kauravya to his wife as he is ordering his house.

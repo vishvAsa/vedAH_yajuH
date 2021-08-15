@@ -2,4 +2,4 @@
 title = "०२ अप्सु मे"
 
 +++
-अ॒प्सु मे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा।अ॒ग्निं च॑ वि॒श्वशं॑ भुवम्॥२॥  
+Within the Waters--Soma thus hath told me--dwell all balms that heal, And Agni, he who blesseth all.

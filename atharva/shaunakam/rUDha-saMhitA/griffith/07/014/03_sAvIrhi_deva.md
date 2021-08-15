@@ -2,5 +2,4 @@
 title = "०३ सावीर्हि देव"
 
 +++
-सावी॒र्हि दे॑व प्रथ॒माय॑ पि॒त्रे व॒र्ष्माण॑मस्मै वरि॒माण॑मस्मै ।  
-अथा॒स्मभ्यं॑ सवित॒र्वार्या॑णि दि॒वोदि॑व॒ आ सु॑वा॒ भूरि॑ प॒श्वः ॥३॥  
+As thou, God! quickening, for our ancient father, sentest him height above and room about him, So unto us, O Savitar, send treasures, abundant, day by day, in shape of cattle.

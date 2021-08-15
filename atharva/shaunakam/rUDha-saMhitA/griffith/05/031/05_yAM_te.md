@@ -2,5 +2,4 @@
 title = "०५ यां ते"
 
 +++
-यां ते॑ च॒क्रुर्गार्ह॑पत्ये पूर्वा॒ग्नावु॒त दु॒श्चितः॑ ।  
-शाला॑यां कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥५॥  
+The spell that wicked men have cast on thine original household- fire, And on thy sacrificial hall, this I strike back again on them.

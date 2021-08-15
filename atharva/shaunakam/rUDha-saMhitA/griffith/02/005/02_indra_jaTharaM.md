@@ -2,5 +2,4 @@
 title = "०२ इन्द्र जठरं"
 
 +++
-इन्द्र॑ ज॒ठरं॑ न॒व्यो न पृ॒णस्व॒ मधो॑र्दि॒वो न।  
-अ॒स्य सु॒तस्य॒ स्व॑१र्णोप॑ त्वा॒ मदाः॑ सु॒वाचो॑ अगुः ॥२॥  
+O Indra, even as one athirst, fill thee with meath as 'twere from heaven. Sweet-toned, the raptures of this juice have come to thee as to the light.

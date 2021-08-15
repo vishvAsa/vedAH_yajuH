@@ -2,5 +2,4 @@
 title = "२२ यदुदञ्चो वृषाकपे"
 
 +++
-यदुद॑ञ्चो वृषाकपे गृ॒हमि॒न्द्राज॑गन्तन ।  
-क्व॑१स्य पु॑ल्व॒घो मृ॒गः कम॑गं जन॒योप॑नो॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥२२॥  
+When, Indra and Vrishakapi, ye travelled upward to your home, Where was that noisome beast, to whom went it, the beast that troubles man? Supreme is Indra over all.

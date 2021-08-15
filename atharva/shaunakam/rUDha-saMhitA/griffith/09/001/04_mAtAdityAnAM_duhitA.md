@@ -2,5 +2,4 @@
 title = "०४ मातादित्यानां दुहिता"
 
 +++
-मा॒तादि॒त्यानां॑ दुहि॒ता वसू॑नां प्रा॒णः प्र॒जाना॑म॒मृत॑स्य॒ नाभिः॑ ।  
-हिर॑ण्यवर्णा मधुक॒शा घृ॒ताची॑ म॒हान् गर्भ॑श्चरति॒ मर्त्ये॑षु ॥४॥  
+Daughter of Vasus, mother of Adityas, centre of Amrit breath of living creatures. The Honey-whip, gold-coloured, dropping fatness, moves as a mighty embryo 'mid mortals.

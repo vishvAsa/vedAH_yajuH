@@ -2,5 +2,4 @@
 title = "०१ पूर्णा पश्चादुत"
 
 +++
-पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॒दुन्म॑ध्य॒तः पौ॑र्णमा॒सी जि॑गाय ।  
-तस्यां॑ दे॒वैः सं॒वस॑न्तो महि॒त्वा नाक॑स्य पृ॒ष्ठे समि॒षा म॑देम ॥१॥  
+Full in the front, full rearward, from the middle the Full Moon's Night hath conquered in the battle. In her: may we, dwelling with Gods and greatness, feast in the height of heaven, on strengthening viands.

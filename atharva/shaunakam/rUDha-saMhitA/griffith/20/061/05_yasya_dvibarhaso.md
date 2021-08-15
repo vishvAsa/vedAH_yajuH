@@ -2,4 +2,4 @@
 title = "०५ यस्य द्विबर्हसो"
 
 +++
-यस्य॑ द्वि॒बर्ह॑सो बृ॒हत् सहो॑ दा॒धार॒ रोद॑सी । गि॒रींरज्राँ॑ अ॒पः स्वर्वृषत्व॒ना॥५॥  
+Whose lofty might--for doubly strong is he--supports the heaven and earth. And hills and plains and floods and light with manly power.

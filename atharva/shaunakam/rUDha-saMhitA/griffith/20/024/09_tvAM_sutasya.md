@@ -2,4 +2,4 @@
 title = "०९ त्वां सुतस्य"
 
 +++
-त्वां सु॒तस्य॑ पी॒तये॑ प्र॒त्नमि॑न्द्र हवामहे । कु॒शि॒कासो॑ अव॒स्यवः॑ ॥९॥
+We call on thee, the Ancient One, Indra, to drink the Soma juice, We Kusikas who seek thine aid.

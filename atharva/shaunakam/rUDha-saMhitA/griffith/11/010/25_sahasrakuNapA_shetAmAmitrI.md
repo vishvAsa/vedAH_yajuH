@@ -2,5 +2,4 @@
 title = "२५ सहस्रकुणपा शेतामामित्री"
 
 +++
-स॒हस्र॑कुणपा शेतामामि॒त्री सेना॑ सम॒रे व॒धाना॑म्।  
-विवि॑द्धा कक॒जाकृ॑ता ॥२५॥  
+Low let the hostile army lie, thousands of corpses, on the ground, Pierced through and rent to pieces where the deadly weapons clash in fight.

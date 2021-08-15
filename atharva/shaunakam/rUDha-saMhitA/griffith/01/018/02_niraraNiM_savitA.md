@@ -2,5 +2,4 @@
 title = "०२ निररणिं सविता"
 
 +++
-निरर॑णिं सवि॒ता सा॑विषक् प॒दोर्निर्हस्त॑यो॒र्वरु॑णो मि॒त्रो अ॑र्य॒मा।  
-निर॒स्मभ्य॒मनु॑मती॒ ररा॑णा॒ प्रेमां दे॒वा अ॑साविषुः॒ सौभ॑गाय ॥२॥  
+Let Savitar, Mitra, Varuna, and Aryaman drive away Stinginess from both the hands and feet: May Favour, granting us her bounties, drive her off. The Gods created Favour for our happiness.

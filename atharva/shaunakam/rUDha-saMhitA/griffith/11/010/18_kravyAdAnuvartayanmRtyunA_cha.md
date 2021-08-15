@@ -2,5 +2,4 @@
 title = "१८ क्रव्यादानुवर्तयन्मृत्युना च"
 
 +++
-क्र॒व्यादा॑नुव॒र्तय॑न्मृ॒त्युना॑ च पु॒रोहि॑तम्।  
-त्रिष॑न्धे॒ प्रेहि॒ सेन॑या॒ जया॒मित्रा॒न् प्र प॑द्यस्व ॥१८॥  
+With the Flesh-eater and with Death, following the Purohita, On! forward with Trishandhi's host! conquering enemies advance!

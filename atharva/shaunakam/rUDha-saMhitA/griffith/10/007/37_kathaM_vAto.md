@@ -2,5 +2,4 @@
 title = "३७ कथं वातो"
 
 +++
-क॒थं वातो॒ नेल॑यति क॒थं न र॑मते॒ मनः॑ ।  
-किमापः॑ स॒त्यं प्रेप्स॑न्ती॒र्नेल॑यन्ति क॒दा च॒न॥३७॥  
+Why doth the Wind move ceaselessly? Why doth the spirit take no rest? Why do the Waters, seeking truth, never at any time repose?

@@ -2,5 +2,4 @@
 title = "०५ भूमिष्ट्वा पातु"
 
 +++
-भूमि॑ष्ट्वा पातु॒ हरि॑तेन विश्व॒भृद॒ग्निः पि॑प॒र्त्वय॑सा स॒जोषाः॑ ।  
-वी॒रुद्भि॑ष्टे अर्जु॑नं संविदा॒नं दक्षं॑ दधातु सुमन॒स्यमा॑नम्॥५॥  
+With gold let Earth protect thee, and with iron, accordant, all- sustaining Agni save thee! And in accordance with the plants may silver, regarding thee with favour, grant thee vigour.

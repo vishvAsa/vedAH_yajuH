@@ -2,5 +2,4 @@
 title = "०६ शं नो"
 
 +++
-शं नो॑ भवन्त्व॒प ओष॑धयः शि॒वाः ।  
-इन्द्र॑स्य॒ वज्रो॒ अप॑ हन्तु र॒क्षस॑ आ॒राद् विसृ॑ष्टा॒ इष॑वः पतन्तु र॒क्षसा॑म्॥६॥
+Bless us the Waters! be the Plants auspicious! May Indra's thunderbolt drive off the demons. Far from us fall the shafts they shoot against us!

@@ -2,5 +2,4 @@
 title = "०४ वि तर्तूर्यन्ते"
 
 +++
-वि त॑र्तूर्यन्ते मघवन् विप॒श्चितो॒ऽर्यो विपो॒ जना॑नाम्।  
-उप॑ क्रमस्व पुरु॒रूप॒मा भ॑र॒ वाजं॒ नेदि॑ष्ठमू॒तये॑ ॥४॥
+Those skilled in song, O Maghavan, among these men o'ercome with might the foeman's songs, Come hither, bring us strength in many a varied form most near that it may succour us.

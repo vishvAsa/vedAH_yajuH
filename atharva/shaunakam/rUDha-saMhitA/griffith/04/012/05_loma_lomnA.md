@@ -2,5 +2,4 @@
 title = "०५ लोम लोम्ना"
 
 +++
-लोम॒ लोम्ना॒ सं क॑ल्पया त्व॒चा सं क॑ल्पया॒ त्वच॑म्।  
-असृ॑क् ते॒ अस्थि॑ रोहतु छि॒न्नं सं धे॑ह्योषधे ॥५॥  
+Join thou together hair with hair, join thou together skin with skin. Let blood and bone grow strong in thee. Unite the broken part,. O Plant.

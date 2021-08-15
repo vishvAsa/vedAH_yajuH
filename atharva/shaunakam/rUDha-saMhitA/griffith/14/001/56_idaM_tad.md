@@ -2,5 +2,4 @@
 title = "५६ इदं तद्"
 
 +++
-इ॒दं तद् रू॒पं यदव॑स्त॒ योषा॑ जा॒यां जि॑ज्ञासे॒ मन॑सा॒ चर॑न्तीम्।  
-तामन्व॑र्तिष्ये॒ सखि॑भि॒र्नव॑ग्वैः॒ क इ॒मान् वि॒द्वान् वि च॑चर्त॒ पाशा॑न्॥५६॥  
+This lovely form the maiden wears in spirit I long to look on as my wife approaching, Her will I follow with my nine companions. Who is the sage that loosed the bonds that held her?

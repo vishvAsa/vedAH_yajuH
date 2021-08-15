@@ -2,5 +2,4 @@
 title = "०९ यदाञ्जनं त्रैककुदं"
 
 +++
-यदाञ्ज॑नं त्रैककु॒दं जा॒तं हि॒मव॑त॒स्परि॑ ।  
-या॒तूंश्च॒ सर्वा॑ञ्ज॒म्भय॒त् सर्वा॑श्च यातुधा॒न्यः ॥९॥  
+Sprung from the Snowy Mountain's side, this Ointment of the Three-peaked hill. Crushes and rends all sorcerers and every witch and sorceress.

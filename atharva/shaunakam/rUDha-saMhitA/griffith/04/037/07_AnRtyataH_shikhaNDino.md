@@ -2,5 +2,4 @@
 title = "०७ आनृत्यतः शिखण्डिनो"
 
 +++
-आ॒नृत्य॑तः शिख॒ण्डिनो॑ गन्ध॒र्वस्या॑प्सराप॒तेः ।  
-भि॒नद्मि॑ मु॒ष्कावपि॑ यामि॒ शेपः॑ ॥७॥  
+From the Gandharva, dancing near, the lord of the Apsarases, Wearing the tuft of hair, I take all manhood and virility.

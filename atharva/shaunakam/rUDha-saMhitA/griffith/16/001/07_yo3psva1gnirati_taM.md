@@ -2,4 +2,4 @@
 title = "०७ यो३प्स्व१ग्निरति तं"
 
 +++
-यो॒३प्स्व॑१ग्निरति॒ तं सृ॑जामि म्रो॒कं ख॒निं त॑नू॒दूषि॑म्॥७॥  
+I let loose the Agni who is within the waters, Mroka the up- rooter, the destroyer of the body.

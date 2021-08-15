@@ -2,5 +2,4 @@
 title = "०३ य उशता"
 
 +++
-य उ॑श॒ता मन॑सा॒ सोम॑मस्मै सर्वहृ॒दा दे॒वका॑मः सु॒नोति॑ ।  
-न गा इन्द्र॒स्तस्य॒ परा॑ ददाति प्रश॒स्तमिच्चारु॑मस्मै कृणोति ॥३॥  
+Whoso, devoted to the God, effuses Soma for him with yearning heart and spirit, Never doth Indra give away his cattle: for him he makes the lovely Soma famous.

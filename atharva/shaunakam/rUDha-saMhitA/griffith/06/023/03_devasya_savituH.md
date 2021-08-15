@@ -2,5 +2,4 @@
 title = "०३ देवस्य सवितुः"
 
 +++
-दे॒वस्य॑ सवि॒तुः स॒वे कर्म॑ कृण्वन्तु॒ मानु॑षाः ।  
-शं नो॑ भवन्त्व॒प ओष॑धीः शि॒वाः ॥३॥
+Let all the people celebrate the rite of Savitar the God. Sweet unto us be Waters, Plants propitious!

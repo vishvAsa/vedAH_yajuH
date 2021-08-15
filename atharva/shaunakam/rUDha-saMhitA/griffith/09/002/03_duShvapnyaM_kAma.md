@@ -2,5 +2,4 @@
 title = "०३ दुष्वप्न्यं काम"
 
 +++
-दु॒ष्वप्न्यं॑ काम दुरि॒तं च॑ कामाप्र॒जस्ता॑मस्व॒गता॒मव॑र्तिम्।  
-उ॒ग्र ईशा॑नः॒ प्रति॑ मुञ्च॒ तस्मि॒न् यो अ॒स्मभ्य॑मंहूर॒णा चिकि॑त्सात्॥३॥  
+Kama, do thou, a mighty Lord and Ruler, let loose ill dream, misfortune, want of children, Homelessness, Kama! utter destitution, upon the sinner who designs my ruin.

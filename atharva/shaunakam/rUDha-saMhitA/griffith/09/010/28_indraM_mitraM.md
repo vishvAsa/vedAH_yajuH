@@ -2,5 +2,4 @@
 title = "२८ इन्द्रं मित्रं"
 
 +++
-इन्द्रं॑ मि॒त्रं वरु॑णम॒ग्निमा॑हु॒रथो॑ दि॒व्यः स सु॑प॒र्णो ग॒रुत्मा॑न्।  
-ए॒कं सद् विप्रा॑ बहु॒धा व॑दन्त्य॒ग्निं य॒मं मा॑त॒रिश्वा॑नमाहुः ॥२८॥
+They call him Indra, Mitra, Varuna, Agni; and he is heavenly nobly-winged Garutman. That which is One bards call by many a title: they call It Agni, Yama, Matariswan.

@@ -2,5 +2,4 @@
 title = "०३ मा नो"
 
 +++
-मा नो॑ मे॒धां मा नो॑ दी॒क्षां मा नो॑ हिंसिष्टं॒ यत् तपः॑ ।  
-शि॒वा नः॒ शं स॒न्त्वायु॑षे शि॒वा भ॑वन्तु मा॒तरः॑ ॥३॥  
+Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us for lengthened life, propitious let the Mothers be.

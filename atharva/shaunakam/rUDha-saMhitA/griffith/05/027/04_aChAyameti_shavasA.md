@@ -2,4 +2,4 @@
 title = "०४ अछायमेति शवसा"
 
 +++
-अछा॒यमे॑ति॒ शव॑सा घृ॒ता चि॒दीडा॑नो॒ वह्नि॒र्नम॑सा ॥४॥  
+Hither he comes with power and fatness also, the luminous,. implored with adoration.

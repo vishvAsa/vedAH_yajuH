@@ -2,5 +2,4 @@
 title = "०३ उदगातां भगवती"
 
 +++
-उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के ।  
-प्रेहामृत॑स्य यच्छतां॒ प्रैतु॑ बद्धक॒मोच॑नम्॥३॥  
+The two auspicious stars whose name is called Releasers have gone up. Send Amrit hither, let it come freeing the captive from his bonds!

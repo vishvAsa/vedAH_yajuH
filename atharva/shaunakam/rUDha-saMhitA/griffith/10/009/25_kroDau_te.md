@@ -2,5 +2,4 @@
 title = "२५ क्रोडौ ते"
 
 +++
-क्रो॒डौ ते॑ स्तां पुरो॒डाशा॒वाज्ये॑ना॒भिघा॑रितौ ।  
-तौ प॒क्षौ दे॑वि कृ॒त्वा सा प॒क्तारं दिवं॑ वह ॥२५॥  
+Sprinkled with molten butter, let the two meal-cakes be sport for thee. Make them thy wings, O Goddess, and bear him who dresses thee to heaven.

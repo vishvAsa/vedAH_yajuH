@@ -2,5 +2,4 @@
 title = "०१ तमिन्द्रं जोहवीमि"
 
 +++
-तमिन्द्रं॑ जोहवीमि म॒घवा॑नमु॒ग्रं स॒त्रा दधा॑न॒मप्र॑तिष्कुतं॒ शवांसि ।  
-मंहि॑ष्ठो गी॒र्भिरा च॑ य॒ज्ञियो॑ व॒वर्त॑द् रा॒ये नो॒ विश्वा॑ सु॒पथा॑ कृणोतु व॒ज्री॥१॥  
+Oft, oft I call that Indra, Maghavan the mighty, who evermore possesses power, ever resistless. Holy, most liberal, may he lead us on to riches, and, thunder armed, make all our pathways pleasant for us.

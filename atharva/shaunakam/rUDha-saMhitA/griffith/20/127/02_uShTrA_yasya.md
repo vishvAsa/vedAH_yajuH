@@ -2,5 +2,4 @@
 title = "०२ उष्ट्रा यस्य"
 
 +++
-उष्ट्रा॒ यस्य॑ प्रवा॒हणो॑ व॒धूम॑न्तो द्वि॒र्दश॑ ।  
-व॒र्ष्मा रथ॑स्य॒ नि जि॑हीडते दि॒व ई॒षमा॑णा उप॒स्पृशः॑ ॥२॥  
+Camels twice-ten that draw the car, with females by their side, he gave. Fain would the chariot's top bow down escaping from the stroke of heaven.

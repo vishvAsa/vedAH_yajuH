@@ -2,5 +2,4 @@
 title = "०४ तीक्ष्णो राजा"
 
 +++
-ती॒क्ष्णो राजा॑ विषास॒ही र॑क्षो॒हा वि॒श्वच॑र्षणिः ।  
-ओजो॑ दे॒वानां॒ बल॑मु॒ग्रमे॒तत् तं ते॑ बध्नामि ज॒रसे॑ स्व॒स्तये॑ ॥४॥  
+A stern and all-victorious king, foe-queller, dear to every man-- That energy of Gods and mighty power, I bind this on thee for long life and welfare.

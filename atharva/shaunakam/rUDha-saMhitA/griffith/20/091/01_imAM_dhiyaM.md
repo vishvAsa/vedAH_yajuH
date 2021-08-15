@@ -2,5 +2,4 @@
 title = "०१ इमां धियं"
 
 +++
-इ॒मां धियं॑ स॒प्तशी॑र्ष्णीं पि॒ता न॑ ऋ॒तप्र॑जातां बृह॒तीम॑विन्दत्।  
-तु॒रीयं॑ स्विज्जनयद् वि॒श्वज॑न्यो॒ऽयास्य॑ उ॒क्थमिन्द्रा॑य॒ शं॑सन्॥१॥  
+This holy hymn sublime and seven-headed, sprung from eternal Law, our sire discovered. Ayasya, friend of all men, hath engendered the fourth hymn as he sang his laud to Indra.

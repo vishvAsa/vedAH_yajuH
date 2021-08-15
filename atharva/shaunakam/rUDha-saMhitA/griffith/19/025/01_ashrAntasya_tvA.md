@@ -2,5 +2,4 @@
 title = "०१ अश्रान्तस्य त्वा"
 
 +++
-अश्रा॑न्तस्य त्वा॒ मन॑सा यु॒नज्मि॑ प्रथ॒मस्य॑ च ।  
-उत्कू॑लमुद्व॒हो भ॑वो॒दुह्य॒ प्रति॑ धावतात्॥१॥
+I yoke thee with the mind of one unwearied still and first of all. Be thou a bearer up the hill: run hither bearing up thy load.

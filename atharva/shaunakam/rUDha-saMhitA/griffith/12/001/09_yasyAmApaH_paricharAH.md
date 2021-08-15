@@ -2,5 +2,4 @@
 title = "०९ यस्यामापः परिचराः"
 
 +++
-यस्या॒मापः॑ परिच॒राः स॑मा॒नीर॑होरा॒त्रे अप्र॑मादं॒ क्षर॑न्ति ।  
-सा नो॒ भूमि॒र्भूरि॑धारा॒ पयो॑ दुहा॒मथो॑ उक्षतु॒ वर्च॑सा ॥९॥  
+On whom the running universal waters flow day and night with never-ceasing motion, May she with many streams pour milk to feed us, may she bedew us with a flood of splendour.

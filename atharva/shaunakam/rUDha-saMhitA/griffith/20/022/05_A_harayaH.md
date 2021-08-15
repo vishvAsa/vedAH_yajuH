@@ -2,4 +2,4 @@
 title = "०५ आ हरयः"
 
 +++
-आ हर॑यः ससृज्रि॒रेऽरु॑षी॒रधि॑ ब॒र्हिषि॑ । यत्रा॒भि सं॒नवा॑महे ॥५॥  
+Hither his bay steeds have been sent, red steeds are on the sacred grass. Where we in concert sing our songs.

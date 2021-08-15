@@ -2,5 +2,4 @@
 title = "०८ शतेन मा"
 
 +++
-श॒तेन॑ मा॒ परि॑ पाहि स॒हस्रे॑णा॒भि र॑क्ष मा ।  
-इन्द्र॑स्ते वीरुधां पत उ॒ग्र ओ॒ज्मान॒मा द॑धत्॥८॥
+Preserve me with a hundred, yea, protect me with a thousand aids. May mighty Indra, Lord of Plants! give store of strength and. power to thee.

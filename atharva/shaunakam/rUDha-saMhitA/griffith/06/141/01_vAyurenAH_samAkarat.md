@@ -2,5 +2,4 @@
 title = "०१ वायुरेनाः समाकरत्"
 
 +++
-वा॒युरे॑नाः स॒माक॑र॒त् त्वष्टा॒ पोषा॑य ध्रियताम्।  
-इन्द्र॑ आभ्यो॒ अधि॑ ब्रवद् रु॒द्रो भू॒म्ने चि॑कित्सतु ॥१॥  
+Vayu collected these: to find their sustenance be Tvashtar's care: May Indra bless and comfort them, and Rudra look that they increase.

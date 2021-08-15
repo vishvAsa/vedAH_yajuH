@@ -2,5 +2,4 @@
 title = "१८ श्यावाश्वं कृष्णमसितं"
 
 +++
-श्या॒वाश्वं॑ कृ॒ष्णमसि॑तं मृ॒णन्तं॑ भी॒मं रथं॑ के॒शिनः॑ पा॒दय॑न्तम्।  
-पूर्वे॒ प्रती॑मो॒ नमो॑ अस्त्वस्मै ॥१८॥  
+Foremost we go to meet his car, the chariot of the long-haired God, Drawn by brown horses, dusky, black, o'erthrowing, slaying, terrible. Let reverence be paid to him.

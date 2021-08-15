@@ -2,5 +2,4 @@
 title = "३२ मा नः"
 
 +++
-मा नः॑ प॒श्चान्मा पु॒रस्ता॑न्नुदिष्ठा॒ मोत्त॒राद॑ध॒रादु॒त।  
-स्व॒स्ति भू॑मे नो भव॒ मा वि॑दन् परिप॒न्थिनो॒ वरी॑यो यावया व॒धम्॥३२॥  
+Drive us not from the west or east, drive us not from the north or south, Be gracious unto us, O Earth: let not the robbers find us; keep the deadly weapon far away.

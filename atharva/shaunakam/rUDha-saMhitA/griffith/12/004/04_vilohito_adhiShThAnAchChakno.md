@@ -2,5 +2,4 @@
 title = "०४ विलोहितो अधिष्ठानाच्छक्नो"
 
 +++
-वि॒लो॒हि॒तो अ॑धि॒ष्ठाना॑च्छ॒क्नो वि॑न्दति॒ गोप॑तिम्।  
-तथा॑ व॒शायाः॒ संवि॑द्यं दुरद॒भ्ना ह्यु॑१च्यसे॑ ॥४॥  
+Fierce fever where her droppings fall attacks the master of the kine. So have they named her Vasa, for thou art called uncontrollable.

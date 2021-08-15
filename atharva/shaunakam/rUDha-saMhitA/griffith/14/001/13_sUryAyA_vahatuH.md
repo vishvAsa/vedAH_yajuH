@@ -2,5 +2,4 @@
 title = "१३ सूर्याया वहतुः"
 
 +++
-सू॒र्याया॑ वह॒तुः प्रागा॑त् सवि॒ता यम॒वासृ॑जत्।  
-म॒घासु॑ ह॒न्यन्ते॒ गावः॒ फल्गु॑नीषु॒ व्युऽह्यते ॥१३॥  
+The bridal pomp of Surya, which Savitar started, moved along. In Magha days are oxen slain, in Phalgunis they wed the bride.

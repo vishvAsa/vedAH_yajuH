@@ -2,4 +2,4 @@
 title = "०२ सहोऽसि सहो"
 
 +++
-सहो॑ऽसि॒ सहो॑ मे दाः स्वाहा॑ ॥२॥  
+Might art thou, give me might. All hail!

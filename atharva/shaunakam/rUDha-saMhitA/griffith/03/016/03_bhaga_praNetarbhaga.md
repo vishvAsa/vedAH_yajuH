@@ -2,5 +2,4 @@
 title = "०३ भग प्रणेतर्भग"
 
 +++
-भग॒ प्रणे॑त॒र्भग॒ सत्य॑राधो॒ भगे॒मां धिय॒मुद॑वा॒ दद॑न्नः ।  
-भग॒ प्र णो॑ जनय॒ गोभि॒रश्वै॒र्भग॒ प्र नृभि॑र्नृ॒वन्तः॑ स्याम ॥३॥  
+Bhaga, our guide, Bhaga whose gifts are faithful, favour this hymn and give us wealth, O Bhaga. Bhaga, augment our store of kine and horses. Bhaga, may we be rich in men and heroes.

@@ -2,4 +2,4 @@
 title = "२४ नाल्प इति"
 
 +++
-नाल्प॒ इति॑ ब्रूया॒न्नानु॑पसेच॒न इति॒ नेदं च॒ किं चेति॑ ॥२४॥  
+Would say, Not small, nor devoid of moistening sauce; not this, nor any- thing whatever. 

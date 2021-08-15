@@ -2,5 +2,4 @@
 title = "०७ साकं सजातैः"
 
 +++
-सा॒कं स॑जा॒तैः पय॑सा स॒हैध्युदु॑ब्जैनां मह॒ते वी॒र्याऽय ।  
-ऊ॒र्ध्वो नाक॒स्याधि॑ रोह वि॒ष्टपं॑ स्व॒र्गो लो॒क इति॒ यं वद॑न्ति ॥७॥  
+Increase with kinsmen and with all abundance: to mighty strength and power lift up this woman. Erect, rise upward to the sky's high station, rise to the lofty world which men call Svarga.

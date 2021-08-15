@@ -2,5 +2,4 @@
 title = "०५ अभागः सन्नप"
 
 +++
-अ॒भा॒गः सन्नप॒ परे॑तो अस्मि॒ तव॒ क्रत्वा॑ तवि॒षस्य॑ प्रचेतः ।  
-तं त्वा॑ मन्यो अक्र॒तुर्जि॑हीडा॒हं स्वा त॒नूर्ब॑ल॒दावा॑ न॒ एहि॑ ॥५॥  
+I have departed still without a portion, wise God! according to thy will, the mighty. I, feeble man, was wroth with thee, O Manyu. Come in thy proper form and give us vigour.

@@ -2,5 +2,4 @@
 title = "२५ बालादेकमणीयस्कमुतैकं नेव"
 
 +++
-बाला॒देक॑मणीय॒स्कमु॒तैकं॒ नेव॑ दृश्यते ।  
-ततः॒ परि॑ष्वजीयसी दे॒वता॒ सा मम॑ प्रि॒या॥२५॥  
+One is yet finer than a hair, one is not even visible. And hence the Deity who grasps with firmer hold is dear to me.

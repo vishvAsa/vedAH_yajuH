@@ -2,5 +2,4 @@
 title = "०९ नितद् दधिषेऽवरे"
 
 +++
-नितद् द॑धि॒षेऽव॑रे॒ परे॑ च॒ यस्मि॒न्नावि॒थाव॑सा दुरो॒णे।  
-आ स्था॑पयत मा॒तरं॑ जिग॒त्नुमत॑ इन्वत॒ कर्व॑राणि॒ भूरि॑ ॥९॥  
+Worthy of praises many-shaped, most skilful, most energetic, Aptya of the Aptyas: He with his might destroys the seven Danus, subduing many who were deemed his equals.

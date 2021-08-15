@@ -2,5 +2,4 @@
 title = "०१ अग्निं ब्रूमो"
 
 +++
-अ॒ग्निं ब्रू॑मो॒ वन॒स्पती॒नोष॑धीरु॒त वी॒रुधः॑ ।  
-इन्द्रं॒ बृह॒स्पतिं॒ सूर्यं॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१॥  
+We call on Agni, on the trees lords of the forest, herbs and. plants, Indra, Surya, Brihaspati: may they deliver us from woe.

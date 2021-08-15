@@ -2,5 +2,4 @@
 title = "०७ राज्ञो विश्वजनीनस्य"
 
 +++
-राज्ञो॑ विश्व॒जनी॑नस्य॒ यो दे॒वोऽमर्त्यां॒ अति॑ ।  
-वै॒श्वा॒न॒रस्य॒ सुष्टु॑ति॒मा सु॒नोता॑ परि॒क्षितः॑ ॥७॥  
+List to Parikshit's eulogy, the sovran whom all people love, The King who ruleth over all, excelling mortals as a God.

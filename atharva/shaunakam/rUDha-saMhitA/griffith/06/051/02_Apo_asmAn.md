@@ -2,5 +2,4 @@
 title = "०२ आपो अस्मान्"
 
 +++
-आपो॑ अ॒स्मान् मा॒तरः॑ सूदयन्तु घृ॒तेन॑ नो घृ॒तप्वः पुनन्तु ।  
-विश्वं॒ हि रि॒प्रं प्र॒वह॑न्ति दे॒वीरुदिदा॑भ्यः॒ शुचि॒रा पू॒त ए॑मि ॥२॥  
+May the maternal Waters make us ready: cleanse us with fat- ness they who cleanse with fatness! The Goddesses bear off each blot and tarnish: I come forth from the waters cleansed and stainless.

@@ -2,5 +2,4 @@
 title = "२६ इयं कल्याण्य१जरा"
 
 +++
-इ॒यं क॑ल्या॒ण्य॑१जरा॒ मर्त्य॑स्या॒मृता॑ गृ॒हे।  
-यस्मै॑ कृ॒ता शये॒ स यश्च॒कार॑ ज॒जार॒ सः ॥२६॥  
+This fair one is untouched by age, immortal in a mortal's house. He for whom she was made lies low, and he who formed her hath grown old.

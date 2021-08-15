@@ -2,5 +2,4 @@
 title = "११ परः सो"
 
 +++
-प॒रः सो अ॑स्तु त॒न्वा॒३ तना॑ च ति॒स्रः पृ॑थि॒वीर॒धो अ॑स्तु॒ विश्वाः॑ ।  
-प्रति॑ शुष्यतु॒ यशो॑ अस्य देवा॒ यो मा॒ दिवा॒ दिप्स॑ति॒ यश्च॒ नक्त॑म्॥११॥  
+May he be swept away, himself and children; may all the three earths press him down beneath them. May his fair glory, O ye Gods, be blighted, who in the day or night would fain destroy us.

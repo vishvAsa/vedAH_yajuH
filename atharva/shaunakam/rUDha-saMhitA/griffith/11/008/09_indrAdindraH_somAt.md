@@ -2,5 +2,4 @@
 title = "०९ इन्द्रादिन्द्रः सोमात्"
 
 +++
-इन्द्रा॒दिन्द्रः॒ सोमा॒त् सोमो॑ अ॒ग्नेर॒ग्निरजायत ।  
-त्वष्टा॑ ह जज्ञे॒ त्वष्टु॑र्धा॒तुर्धा॒ताजा॑यत ॥९॥  
+Indra from Indra, Soma from Soma, Agni from Agni sprang Tvashtar from Tvashtar was produced, Dilator was Dhatar's origin.

@@ -2,5 +2,4 @@
 title = "०२ ग्रीवाभ्यस्त उष्णिहाभ्यः"
 
 +++
-ग्री॒वाभ्य॑स्त उ॒ष्णिहा॑भ्यः॒ कीक॑साभ्यो अनू॒क्याऽत्।  
-यक्ष्मं॑ दोष॒ण्य॑१मंसा॑भ्यां बा॒हुभ्यां॒ वि वृ॑हामि ते ॥२॥  
+Forth from the neck and from the nape, from dorsal vertebrae and spine. From arms and shoulder-blades I root Consumption seated in thine arms.

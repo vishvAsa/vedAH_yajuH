@@ -2,5 +2,4 @@
 title = "३७ इमामेषां पृथिवीं"
 
 +++
-इ॒मामे॑षां पृथि॒वीं वस्त॒ एको॒ऽन्तरि॑क्षं॒ पर्ये॑को॑ बभूव ।  
-दिव॑मेषां ददते॒ यो वि॑ध॒र्ता विश्वा॒ आशाः॒ प्रति॑ रक्ष॒न्त्येके॑ ॥३६॥  
+The man who knows the drawn-out string on which these crea- tures all are strung, The man who knows the thread's thread, he may know the mighty Brahmana.

@@ -2,5 +2,4 @@
 title = "०३ उत् तिष्ठतमा"
 
 +++
-उत् ति॑ष्ठत॒मा र॑भेतामादानसंदा॒नाभ्या॑म्।  
-अ॒मित्रा॑णां॒ सेना॑ अ॒भि ध॑त्तमर्बुदे ॥३॥  
+Rise both of you: begin your work with fettering and binding. fast, Assail, both of you, Arbudi, the armies of our enemies.

@@ -2,4 +2,4 @@
 title = "०२ देवो देवेषु"
 
 +++
-दे॒वो दे॒वेषु॑ दे॒वः प॒थो अ॑नक्ति॒ मध्वा॑ घृ॒तेन॑ ॥२॥  
+God among Gods, the God bedews the paths with fatness and' with mead.

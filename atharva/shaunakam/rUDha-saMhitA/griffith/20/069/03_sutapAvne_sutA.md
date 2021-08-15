@@ -2,4 +2,4 @@
 title = "०३ सुतपाव्ने सुता"
 
 +++
-सु॒त॒पाव्ने॑ सु॒ता इ॒मे शुच॑यो यन्ति वी॒तये॑ । सोमा॑सो॒ दध्या॑शिरः ॥३॥  
+Nigh to the Soma-drinker come, for his enjoyment, these bright drops, The Somas mingled with the curd.

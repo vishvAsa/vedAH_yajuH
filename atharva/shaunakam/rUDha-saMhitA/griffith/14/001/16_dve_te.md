@@ -2,5 +2,4 @@
 title = "१६ द्वे ते"
 
 +++
-द्वे ते॑ च॒क्रे सूर्ये॑ ब्र॒ह्माण॑ ऋतु॒था वि॑दुः ।  
-अथैकं॑ च॒क्रं यद् गुहा॒ तद॑द्धा॒तय॒ इद् वि॒दुः ॥१६॥  
+Two wheels of thine the Brahmans know, Surya! according to their times. That which is hidden only those who know the highest truths have learned.

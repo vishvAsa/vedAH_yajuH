@@ -2,5 +2,4 @@
 title = "३३ वशा माता"
 
 +++
-व॒शा मा॒ता रा॑ज॒न्यऽस्य॒ तथा॒ संभू॑तमग्र॒शः ।  
-तस्या॑ आहु॒रन॑र्पणं॒ यद् ब्र॒ह्मभ्यः॑ प्रदी॒यते॑ ॥३३॥  
+The Prince's mother is the Cow: so was it ordered from of old. She, when bestowed upon the priests, cannot be given back, they say.

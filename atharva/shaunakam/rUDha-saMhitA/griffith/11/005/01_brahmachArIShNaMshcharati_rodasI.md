@@ -2,5 +2,4 @@
 title = "०१ ब्रह्मचारीष्णंश्चरति रोदसी"
 
 +++
-ब्र॒ह्म॒चा॒रीष्णंश्च॑रति॒ रोद॑सी उ॒भे तस्मि॑न् दे॒वाः संम॑नसो भवन्ति ।  
-स दा॑धार पृथि॒वीं दिवं॑ च॒ स आ॑चा॒र्यं१ तप॑सा पिपर्ति ॥१॥  
+Stirring both worlds the Brahmachari moveth: in him the deities are all one-minded. He hath established firmly earth and heaven: he satisfies his Master with his Fervour.

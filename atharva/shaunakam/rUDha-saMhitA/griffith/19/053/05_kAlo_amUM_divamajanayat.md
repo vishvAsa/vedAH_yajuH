@@ -2,5 +2,4 @@
 title = "०५ कालोऽमूं दिवमजनयत्"
 
 +++
-का॒लोऽमूं दिव॑मजनयत् का॒ल इ॒माः पृ॑थि॒वीरु॒त।  
-का॒ले ह॑ भू॒तं भव्यं॑ चेषि॒तं ह॒ वि ति॑ष्ठते ॥५॥  
+Kala created yonder heaven, and Kala made these realms of earth. By Kala, stirred to motion, both what is and what shall be expand.

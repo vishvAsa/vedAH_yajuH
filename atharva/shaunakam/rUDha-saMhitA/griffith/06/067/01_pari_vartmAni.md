@@ -2,5 +2,4 @@
 title = "०१ परि वर्त्मानि"
 
 +++
-परि॒ व॑र्त्मा॑नि स॒र्वत॒ इन्द्रः॑ पू॒षा च॑ सस्रतुः ।  
-मुह्य॑न्त्व॒द्यामूः सेना॑ अ॒मित्रा॑णां परस्त॒राम्॥१॥  
+Indra and Pushan have gone forth along the ways on every side. To-day those hosts of enemies must flee bewildered far away.

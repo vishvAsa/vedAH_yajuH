@@ -2,5 +2,4 @@
 title = "०५ येन धनेन"
 
 +++
-येन॒ धने॑न प्रप॒णं चरा॑मि॒ धने॑न देवा॒ धन॑मि॒च्छमा॑नः ।  
-तन्मे॒ भूयो॑ भवतु॒ मा कनी॒योऽग्ने॑ सात॒घ्नो दे॒वान् ह॒विषा॒ नि षे॑ध ॥५॥  
+The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the wealth I offer, May this grow more for me, not less: O Agni, through sacrifice chase those who hinder profit!

@@ -2,5 +2,4 @@
 title = "१९ तरणिर्विश्वदर्शतो ज्योतिष्कृदसि"
 
 +++
-त॒रणि॑र्वि॒श्वद॑र्शतो ज्योति॒ष्कृद॑सि सूर्य ।  
-विश्व॒मा भा॑सि रोचन ॥१९॥  
+Swift and all-beautiful art thou, O Surya, maker of the light, Illuming all the radiant realm.

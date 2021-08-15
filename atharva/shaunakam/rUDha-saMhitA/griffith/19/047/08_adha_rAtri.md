@@ -2,5 +2,4 @@
 title = "०८ अध रात्रि"
 
 +++
-अध॑ रात्रि तृ॒ष्टधू॑ममशी॒र्षाण॒महिं॑ कृणु ।  
-हनू॒ वृक॑स्य ज॒म्भया॒स्तेन॒ तं द्रु॑प॒दे ज॑हि ॥८॥  
+Far from us let Rope with Fangs, far from us let the wicked flee. Do thou make blind and headless. Night, the serpent with his pungent breath.

@@ -2,5 +2,4 @@
 title = "२० कुलायेऽधि कुलायं"
 
 +++
-कु॒लायेऽधि॑ कु॒लायं॒ कोशे॒ कोशः॒ समु॑ब्जितः ।  
-तत्र॒ मर्तो॒ वि जा॑यते॒ यस्मा॒द् विश्वं॑ प्र॒जाय॑ते ॥२०॥  
+Nest upon nest hath been imposed, compartment on compart- ment laid: There man shall propagate his kind, and there shall everything born.

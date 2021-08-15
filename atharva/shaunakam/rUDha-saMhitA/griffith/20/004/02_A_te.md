@@ -2,4 +2,4 @@
 title = "०२ आ ते"
 
 +++
-आ ते॑ सिञ्चामि कु॒क्ष्योरनु॒ गात्रा॒ वि धा॑वतु । गृ॒भा॒य जि॒ह्वया॒ मधु॑ ॥२॥  
+I pour it down within thee, so through all thy members let it run. Take with thy tongue the pleasant drink.

@@ -2,5 +2,4 @@
 title = "१३ अजो ह्य१ग्नेरजनिष्ट"
 
 +++
-अ॒जो ह्य॑१ग्नेरज॑निष्ट॒ शोका॒द् विप्रो॒ विप्र॑स्य॒ सह॑सो विप॒श्चित्।  
-इ॒ष्टं पू॒र्तम॒भिपू॑र्तं॒ वष॑ट्कृतं॒ तद् दे॒वा ऋ॑तु॒शः क॑ल्पयन्तु ॥१३॥  
+Truly the Goat sprang from the glow of Agni, inspired as sage with all a sage's power. Sacrifice, filled, filled full, offered with Vashat--this let the Gods arrange.at proper seasons.

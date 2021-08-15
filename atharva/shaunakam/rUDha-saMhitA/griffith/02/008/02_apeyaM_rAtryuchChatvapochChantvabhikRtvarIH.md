@@ -2,5 +2,4 @@
 title = "०२ अपेयं रात्र्युच्छत्वपोच्छन्त्वभिकृत्वरीः"
 
 +++
-अपे॒यं रात्र्यु॑च्छ॒त्वपो॑च्छन्त्वभि॒कृत्व॑रीः ।  
-वी॒रुत् क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥२॥  
+Vanish this Night, extinct in Dawn! Let those who weave their spells depart. So let the plague-destroying Plant remove inherited disease.

@@ -2,5 +2,4 @@
 title = "२२ यो वै"
 
 +++
-यो वै कशा॑याः स॒प्त मधू॑नि॒ वेद॒ मधु॑मान् भवति ।  
-ब्रा॒ह्म॒णश्च॒ राजा॑ च धे॒नुश्चा॑न॒ड्वांश्च॑ व्री॒हिश्च॒ यव॑श्च॒ मधु॑ सप्त॒मम्॥२२॥  
+Whoever knows the Whip's seven kinds of honey, becomes himself a man endowed with sweetness. Brahman and King, the draught-ox and the milch-cow, barley and rice, and honey is the seventh.

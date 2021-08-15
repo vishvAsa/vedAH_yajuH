@@ -2,5 +2,4 @@
 title = "३० शुद्धा न"
 
 +++
-शु॒द्धा न॒ आप॑स्त॒न्वेऽ क्षरन्तु॒ यो नः॒ सेदु॒रप्रि॑ये॒ तं नि द॑ध्मः ।  
-प॒वित्रे॑ण पृथिवि॒ मोत् पु॑नामि ॥३०॥  
+Purified for our bodies flow the waters: we bring distress on him who would attack us. I cleanse myself, O Earth, with that which cleanseth.

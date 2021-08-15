@@ -2,5 +2,4 @@
 title = "०१ पुनन्तु मा"
 
 +++
-पु॒नन्तु॑ मा देवज॒नाः पु॒नन्तु॒ मन॑वो धि॒या।  
-पु॒नन्तु॒ विश्वा॑ भू॒तानि॒ पव॑मानः पुनातु मा ॥१॥  
+Let the Gods purify me, let men purify me with a prayer. Cleanse me all creatures that exist! may Pavamana make me pure.

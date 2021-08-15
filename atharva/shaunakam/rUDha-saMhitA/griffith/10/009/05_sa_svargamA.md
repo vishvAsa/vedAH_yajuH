@@ -2,5 +2,4 @@
 title = "०५ स स्वर्गमा"
 
 +++
-स स्व॒र्गमा रो॑हति॒ यत्रा॒दस्त्रि॑दि॒वं दि॒वः ।  
-अ॒पू॒पना॑भिं कृ॒त्वा यो ददा॑ति श॒तौद॑नाम्॥५॥  
+He rises up to heaven, ascends to younder third celestial height. Whoever gives the Hundredfold Oblation with the central cake.

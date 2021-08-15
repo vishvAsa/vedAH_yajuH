@@ -2,5 +2,4 @@
 title = "२० केन श्रोत्रियमाप्नोति"
 
 +++
-केन॒ श्रोत्रि॑यमाप्नोति॒ केने॒मं प॑रमे॒ष्ठिन॑म्।  
-केने॒मम॒ग्निं पूरु॑षः॒ केन॑ संवत्स॒रं म॑मे ॥२०॥  
+What leads him to the learned priest? What leads him to this Lord Supreme? How doth he gain this Agni? By whom hath he measured out the year?

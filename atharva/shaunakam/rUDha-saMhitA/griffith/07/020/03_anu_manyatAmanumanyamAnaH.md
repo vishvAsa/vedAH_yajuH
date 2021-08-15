@@ -2,5 +2,4 @@
 title = "०३ अनु मन्यतामनुमन्यमानः"
 
 +++
-अनु॑ मन्यतामनु॒मन्य॑मानः प्र॒जाव॑न्तं र॒यिमक्षी॑यमाणम्।  
-तस्य॑ व॒यं हेड॑सि॒ मापि॑ भूम सुमृडी॒के अ॑स्य सुम॒तौ स्या॑म ॥३॥  
+May he approving in return accord us wealth inexhaustible with store of children. Never may we be subject to his anger, but rest in his benevo- lence and mercy.

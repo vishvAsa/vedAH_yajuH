@@ -2,5 +2,4 @@
 title = "०२ ध्रुवं ते"
 
 +++
-ध्रु॒वं ते॒ राजा॒ वरु॑णो ध्रु॒वं दे॒वो बृह॒स्पतिः॑ ।  
-ध्रु॒वं त॒ इन्द्र॑श्चा॒ग्निश्च॑ रा॒ष्ट्रं धा॑रयतां ध्रु॒वम्॥२॥  
+Stedfast may Varuna the King, stedfast the God Brihaspati, Stedfast may Indra stedfast, too, may Agni keep thy stedfast reign.

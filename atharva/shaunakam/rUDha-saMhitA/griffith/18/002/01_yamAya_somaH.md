@@ -2,5 +2,4 @@
 title = "०१ यमाय सोमः"
 
 +++
-य॒माय॒ सोमः॑ पवते य॒माय॑ क्रियते ह॒विः ।  
-य॒मं ह॑ य॒ज्ञो ग॑च्छत्य॒ग्निदू॑तो॒ अरं॑कृतः ॥१॥  
+For Yama Soma juice flows clear, to Yama is oblation paid. To Yama sacrifice prepared, and heralded by Agni, goes.

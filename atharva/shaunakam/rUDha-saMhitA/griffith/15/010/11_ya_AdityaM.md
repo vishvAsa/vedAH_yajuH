@@ -2,4 +2,4 @@
 title = "११ य आदित्यं"
 
 +++
-य आ॑दि॒त्यं क्ष॒त्रं दिव॒मिन्द्रं॒ वेद॑ ॥११॥
+Who knows that Aditya is Royalty and that Heaven is Indra.

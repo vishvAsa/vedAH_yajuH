@@ -2,5 +2,4 @@
 title = "०२ तुरण्यवो मधुमन्तं"
 
 +++
-तु॒र॒ण्यवो॒ मधु॑मन्तं घृत॒श्चुतं॒ विप्रा॑सो अ॒र्कमा॑नृचुः ।  
-अ॒स्मे र॒यिः प॑प्रथे॒ वृष्ण्यं॒ शवो॒ऽस्मे सु॑वा॒नास॒ इन्द॑वः ॥२॥
+In zealous haste the singers have sung forth a song distilling oil and rich in sweets. Riches have spread among us, and heroic strength; with us are flowing Soma drops.

@@ -2,5 +2,4 @@
 title = "२१ यौ त"
 
 +++
-यौ त॑ उ॒रू अ॑ष्ठी॒वन्तौ॒ ये श्रोणी॒ या च॑ ते भ॒सत्।  
-आ॑मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥२१॥  
+So let thy thighs and thy knee-bones, thy hinder quarters, and thy hips, etc.

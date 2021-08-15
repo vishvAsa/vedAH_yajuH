@@ -2,4 +2,4 @@
 title = "०८ मारे अस्मद्"
 
 +++
-मारे अ॒स्मद् वि मु॑मुचो॒ हरि॑प्रिया॒र्वाङ् या॑हि । इन्द्र॑ स्वधावो॒ मत्स्वे॒ह॥८॥  
+O thou to whom thy Bays are dear, loose not thy horses far from us: Here glad thee, Indra, Lord Divine.

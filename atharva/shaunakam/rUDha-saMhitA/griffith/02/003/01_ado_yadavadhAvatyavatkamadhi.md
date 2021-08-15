@@ -2,5 +2,4 @@
 title = "०१ अदो यदवधावत्यवत्कमधि"
 
 +++
-अ॒दो यद॑व॒धाव॑त्यव॒त्कमधि॒ पर्व॑तात्।  
-तत् ते॑ कृणोमि भेष॒जं सुभे॑षजं॒ यथास॑सि ॥१॥  
+That little spring of water which is running downward from the hill I turn to healing balm for thee that thou mayst be good medicine.

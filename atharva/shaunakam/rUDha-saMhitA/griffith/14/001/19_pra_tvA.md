@@ -2,5 +2,4 @@
 title = "१९ प्र त्वा"
 
 +++
-प्र त्वा॑ मुञ्चामि॒ वरु॑णस्य॒ पाशा॒द् येन॒ त्वाब॑ध्नात् सवि॒ता सु॒शेवाः॑ ।  
-ऋ॒तस्य॒ योनौ॑ सुकृ॒तस्य॑ लो॒के स्यो॒नं ते॑ अस्तु स॒हसं॑भलायै ॥१९॥  
+Now from the noose of Varuna I free thee, where with the bless- ed Savitar hath bound thee. May bless be thine together with thy wooer in Order's dwelling, in the world of virtue.

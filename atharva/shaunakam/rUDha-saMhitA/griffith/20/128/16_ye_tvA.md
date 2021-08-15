@@ -2,5 +2,4 @@
 title = "१६ ये त्वा"
 
 +++
-ये त्वा॑ श्वे॒ता अजै॑श्रव॒सो हार्यो॑ युञ्जन्ति॒ दक्षि॑णम्।  
-पूर्वा॒ नम॑स्य दे॒वानां॒ बिभ्र॑दिन्द्र महीयते ॥१६॥
+They yoke the white mares, on the Bay's right harness Auchchai- hsravasa. He joyeth as he carrieth Indra the foremost of the Gods.

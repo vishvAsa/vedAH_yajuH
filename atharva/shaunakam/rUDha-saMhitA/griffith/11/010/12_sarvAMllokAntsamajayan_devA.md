@@ -2,5 +2,4 @@
 title = "१२ सर्वांल्लोकान्त्समजयन् देवा"
 
 +++
-सर्वां॑ल्लो॒कान्त्सम॑जयन् दे॒वा आहु॑त्या॒नया॑ ।  
-बृह॒स्पति॑राङ्गिर॒सो वज्रं॒ यमसिञ्चतासुर॒क्षय॑णं व॒धम्॥१२॥  
+The Gods, victorious, won themselves all worlds by this oblation, which Brihaspati Angirasa effused, a very thunderbolt, a weapon to destory the friends.

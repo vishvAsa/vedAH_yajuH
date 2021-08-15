@@ -2,4 +2,4 @@
 title = "०२ यदन्तरिक्षे यद्दिवि"
 
 +++
-यद॒न्तरि॑क्षे॒ यद्दि॒वि यत्पञ्च॒ मानु॑षाँ॒ अनु॑ । नृ॒म्णं तद्ध॑त्तमश्विना ॥२॥  
+All manliness that is in heaven, with the Five Tribes, or in mid- air, Bestow, ye Asvins, upon us.

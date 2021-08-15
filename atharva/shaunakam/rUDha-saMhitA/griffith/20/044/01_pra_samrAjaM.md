@@ -2,4 +2,4 @@
 title = "०१ प्र सम्राजं"
 
 +++
-प्र स॒म्राजं॑ चर्षणी॒नामिन्द्रं॑ स्तोता॒ नव्यं॑ गी॒र्भिः । नरं॑ नृ॒षाहं॒ मंहि॑ष्ठम्॥१॥  
+Praise Indra whom our songs must laud, great Sovran of man- kind, the Chief Most liberal who controlleth men.

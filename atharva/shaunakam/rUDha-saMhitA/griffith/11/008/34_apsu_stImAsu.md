@@ -2,5 +2,4 @@
 title = "३४ अप्सु स्तीमासु"
 
 +++
-अ॒प्सु स्ती॒मासु॑ वृ॒द्धासु॒ शरी॑रमन्त॒रा हि॒तम्।  
-तस्मिं॒छवोऽध्य॑न्त॒रा तस्मा॒च्छवोऽध्यु॑च्यते ॥३४॥
+In the primeval waters cold the body is deposited. In this there is the power of growth: from this is power of growth declared.

@@ -2,5 +2,4 @@
 title = "०२ अयं यो"
 
 +++
-अ॒यं यो विश्वा॒न् हरि॑तान् कृ॒णोष्यु॑च्छो॒चय॑न्न॒ग्निरि॑वाभिदु॒न्वन्।  
-अधा॒ हि त॑क्मन्नर॒सो हि भू॒या अधा॒ न्यऽङ्ङध॒राङ् वा॒ परे॑हि ॥२॥  
+And thou thyself who makest all men yellow, consuming them with burning heat like Agni, Thou, Fever! then be weak and ineffective. Pass hence into the realms below or vanish.

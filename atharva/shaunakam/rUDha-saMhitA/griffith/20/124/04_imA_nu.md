@@ -2,5 +2,4 @@
 title = "०४ इमा नु"
 
 +++
-इ॒मा नु कं॒ भुव॑ना सीषधा॒मेन्द्र॑श्च॒ विश्वे॑ च दे॒वाः ।  
-य॒ज्ञं च॑ नस्त॒न्वं च प्र॒जां चा॑दि॒त्यैरिन्द्रः॑ स॒ह ची॑क्लृपाति ॥४॥  
+We will, with Indra and all Gods to help us, bring these existing worlds into subjection. Our sacrifice, our bodies, and our offspring shall Indra form together with the Adityas.

@@ -2,5 +2,4 @@
 title = "१२ ग्रामणीरसि ग्रामणीरुत्थायाभिषिक्तोऽभि"
 
 +++
-ग्रा॒म॒णीर॑सि ग्राम॒णीरु॒त्थाया॒भिषि॑क्तो॒ऽभि मा॑ सिञ्च॒ वर्च॑सा ।  
-तेजो॑ऽसि॒ तेजो॒ मयि॑ धार॒याधि॑ र॒यिर॑सि र॒यिं मे॑ धेहि ॥१२॥  
+Vigour art thou, in me do thou plant vigour: riches art thou, so do thou grant me riches. Plenty art thou, so prosper me with plenty: House-holder, hear" a householder's petition.

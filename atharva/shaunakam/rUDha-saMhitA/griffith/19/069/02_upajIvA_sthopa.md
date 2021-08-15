@@ -2,4 +2,4 @@
 title = "०२ उपजीवा स्थोप"
 
 +++
-उ॒प॒जी॒वा स्थोप॑ जीव्यासं॒ सर्व॒मायु॑र्जीव्यासम्॥२॥  
+Ye live dependent. I fain would live dependent. I fain would live my complete term of life.

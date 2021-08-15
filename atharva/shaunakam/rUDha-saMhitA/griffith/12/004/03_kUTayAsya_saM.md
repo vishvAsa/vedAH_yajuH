@@ -2,5 +2,4 @@
 title = "०३ कूटयास्य सं"
 
 +++
-कू॒टया॑स्य॒ सं शी॑र्यन्ते श्लो॒णया॑ का॒टम॑र्दति ।  
-ब॒ण्डया॑ दह्यन्ते गृ॒हाः का॒णया॑ दीयते॒ स्वम्॥३॥  
+They perish through a hornless cow, a lame cow sinks them in a pit. Through a maimed cow his house is burnt: a one-eyed cow destroys his wealth.

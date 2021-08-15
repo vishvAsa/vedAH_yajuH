@@ -2,5 +2,4 @@
 title = "३७ येन देवा"
 
 +++
-येन॑ दे॒वा ज्योति॑षा॒ द्यामु॒दाय॑न् ब्रह्मौद॒नं प॒क्त्वा सु॑कृ॒तस्य॑ लो॒कम्।  
-तेन॑ गेष्म सुकृ॒तस्य॑ लो॒कं स्वऽरा॒रोह॑न्तो अ॒भि नाक॑मुत्त॒मम्॥३७॥
+May we invested with that light go upward, ascending to the sky's most lofty summit. Wherewith the Gods, what time they had made ready Brahmaudana, mounted to the world of virtue.

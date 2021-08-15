@@ -2,5 +2,4 @@
 title = "०४ यत् पुरुषेण"
 
 +++
-यत् पुरु॑षेण ह॒विषा॑ य॒ज्ञं दे॒वा अत॑न्वत ।  
-अस्ति॒ नु तस्मा॒दोजी॑यो॒ यद् विहव्ये॑नेजि॒रे॥४॥  
+With their oblation, Purusha, the Gods performed a sacrifice. A sacrifice more potent still they paid with the invoking hymn.

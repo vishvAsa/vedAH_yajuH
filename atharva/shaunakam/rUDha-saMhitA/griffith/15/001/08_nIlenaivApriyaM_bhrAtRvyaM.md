@@ -2,4 +2,4 @@
 title = "०८ नीलेनैवाप्रियं भ्रातृव्यं"
 
 +++
-नीले॑नै॒वाप्रि॑यं॒ भ्रातृ॑व्यं॒ प्रोर्णो॑ति॒ लोहि॑तेन द्वि॒षन्तं॑ विध्य॒तीति॑ ब्रह्मवा॒दिनो॑ वदन्ति ॥८॥
+With dark-blue he envelops a detested rival, with red he pierces the man who hates him: so the theologians say.

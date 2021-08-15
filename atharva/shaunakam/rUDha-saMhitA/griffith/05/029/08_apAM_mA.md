@@ -2,5 +2,4 @@
 title = "०८ अपां मा"
 
 +++
-अ॒पां मा॒ पाने॑ यत॒मो द॒दम्भ॑ क्र॒व्याद् या॑तू॒नां शय॑ने॒ शया॑नम्।  
-तदा॒त्मना॑ प्र॒जया॑ पिशा॒चा वि या॑तयन्तामग॒दो॒३यम॑स्तु ॥८॥  
+If one, flesh eater, in a draught of water have wronged me lying in the bed of goblins, Let the Pisachas, etc.

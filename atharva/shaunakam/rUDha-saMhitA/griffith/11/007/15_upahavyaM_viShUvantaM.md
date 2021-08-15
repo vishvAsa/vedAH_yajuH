@@ -2,5 +2,4 @@
 title = "१५ उपहव्यं विषूवन्तं"
 
 +++
-उ॒प॒हव्यं॑ विषू॒वन्तं॒ ये च॑ य॒ज्ञा गुहा॑ हि॒ताः ।  
-बिभ॑र्ति भ॒र्ता विश्व॒स्योच्छि॑ष्टो जनि॒तुः पि॒ता॥१५॥  
+The Residue the Father's sire, who bears this universe, supports Vishuvan, Upahavya, and all worship offered secretly.

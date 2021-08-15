@@ -2,5 +2,4 @@
 title = "०४ प्रसूत इन्द्र"
 
 +++
-प्रसू॑त इन्द्र प्र॒वता॒ हरि॑भ्यां॒ प्र ते॒ वज्रः॑ प्रमृ॒णन्ने॑तु॒ शत्रू॑न्।  
-ज॒हि प्र॒तीचो॑ अ॒नूचः॒ परा॑चो॒ विष्व॑क् स॒त्यं कृ॑णुहि चि॒त्तमे॑षाम्॥४॥  
+Shot down the slope, with thy two tawny coursers, forth go thy bolt, destroying foes, O Indra! Slay those who fly, slay those who stand and follow. On every side fulfil these men's intention.

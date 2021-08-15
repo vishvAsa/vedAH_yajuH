@@ -2,4 +2,4 @@
 title = "२६ ब्रह्मवादिनो वदन्ति"
 
 +++
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति॒ परा॑ञ्चमोद॒नं प्राशीः३ प्र॒त्यञ्चा३मिति॑ ॥२६॥  
+The theologians say, Thou hast eaten the averted Odana and the Odana turned hither- ward. 

@@ -2,5 +2,4 @@
 title = "०७ प्राणेन विश्वतोवीर्यं"
 
 +++
-प्रा॒णेन॑ वि॒श्वतो॑वीर्यं दे॒वाः सूर्यं॒ समै॑रयन्।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥७॥  
+The Gods have lifted up with breath the Sun whose might is everywhere. I free, etc.

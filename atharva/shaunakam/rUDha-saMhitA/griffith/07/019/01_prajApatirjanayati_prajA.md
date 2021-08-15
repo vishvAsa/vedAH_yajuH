@@ -2,5 +2,4 @@
 title = "०१ प्रजापतिर्जनयति प्रजा"
 
 +++
-प्र॒जाप॑तिर्जनयति प्र॒जा इ॒मा धा॒ता द॑धातु सुमन॒स्यमा॑नः ।  
-सं॒जा॒ना॒नाः संम॑नसः॒ सयो॑नयो॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ॥१॥
+Prajapati engenders earthly creatures: may the benevolent Ordainer form them, Having one common womb, and mind, and spirit. He who is. Lord of Plenty give me plenty!

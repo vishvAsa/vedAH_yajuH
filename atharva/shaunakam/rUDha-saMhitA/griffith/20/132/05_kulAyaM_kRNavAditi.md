@@ -2,4 +2,4 @@
 title = "०५ कुलायं कृणवादिति"
 
 +++
-कुला॑यं कृणवा॒दिति॑ ॥५॥  
+Let him prepare a nest, they say: he shall obtain it strong and stretched.

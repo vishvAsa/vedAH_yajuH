@@ -2,5 +2,4 @@
 title = "३४ अप्सरसः सधमादं"
 
 +++
-अ॒प्स॒रसः॑ सध॒मादं॑ मदन्ति हवि॒र्धान॑मन्त॒रा सूर्यं॑ च ।  
-तास्ते॑ ज॒नित्र॑म॒भि ताः परे॑हि॒ नम॑स्ते गन्धर्व॒र्तुना॑ कृणोमि ॥३४॥  
+Apsarases rejoice and feast together between the sun and place of sacrificing. These are thy kith and kin: go thou and join them: I in due season worship thee Gandharva.

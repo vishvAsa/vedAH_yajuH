@@ -2,5 +2,4 @@
 title = "१५ नास्य श्वेतः"
 
 +++
-नास्य॑ श्वे॒तः कृ॑ष्ण॒कर्णो॑ धु॒रि यु॒क्तो म॑हीयते ।  
-यस्मि॑न् रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥१५॥  
+No black-eared courser, white of hue, moves proudly, harnessed to his car, In whose dominion is detained, through want of sense, a Brahman's dame.

@@ -2,5 +2,4 @@
 title = "२६ सोम राजन्त्संज्ञानमा"
 
 +++
-सोम॑ राजन्त्सं॒ज्ञान॒मा व॑पैभ्यः॒ सुब्रा॑ह्मणा यत॒मे त्वो॑प॒सीदा॑न्।  
-ऋषी॑नार्षे॒यांस्तप॒सोऽधि॑ जा॒तान् ब्र॑ह्मौद॒ने सु॒हवा॑ जोहवीमि ॥२६॥  
+Give understanding unto these, King Soma! all the good Brah mans who attend and serve thee. Oft, in Brahmaudana, and well I call on: Rishis, their sons, and those who sprang from Fervour.

@@ -2,5 +2,4 @@
 title = "०२ जनाय चिद्"
 
 +++
-जना॑य चि॒द् य ईव॑ते उ लो॒कं बृह॒स्पति॑र्दे॒वहू॑तौ च॒कार॑ ।  
-घ्नन् वृ॒त्राणि॒ वि पुरो॑ दर्दरीति॒ जयं॒ छत्रूं॑र॒मित्रा॑न् पृ॒त्सु साह॑न्॥२॥  
+Brihaspati who made for such a people wide room and verge when Gods were invocated-- Slaying his foe he breaketh down their cattles, quelling his enemies and those who hate him.

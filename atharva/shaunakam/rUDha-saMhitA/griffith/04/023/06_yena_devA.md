@@ -2,5 +2,4 @@
 title = "०६ येन देवा"
 
 +++
-येन॑ दे॒वा अ॒मृत॑म॒न्ववि॑न्द॒न् येनौष॑धी॒र्मधु॑मती॒रकृण्वन्।  
-येन॑ दे॒वाः स्व॑१राभ॑र॒न्त्स नो॑ मुञ्च॒त्वंह॑सः ॥६॥  
+Through whom the Gods discovered life eternal, through whom they stored the plants with pleasant juices, Through whom they brought to men the light of heaven. May he deliver us from grief and trouble.

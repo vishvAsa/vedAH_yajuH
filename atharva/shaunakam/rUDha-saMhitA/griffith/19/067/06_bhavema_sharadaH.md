@@ -2,4 +2,4 @@
 title = "०६ भवेम शरदः"
 
 +++
-भवे॑म श॒रदः॑ श॒तम्॥६॥  
+A hundred autumns may we be.

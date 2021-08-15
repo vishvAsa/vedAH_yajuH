@@ -2,5 +2,4 @@
 title = "०७ अधि ब्रूहि"
 
 +++
-अधि॑ ब्रूहि॒ मा र॑भथाः सृ॒जेमं तवै॒व सन्त्सर्व॑हाया इ॒हास्तु॑ ।  
-भवा॑शर्वौ मृ॒डतं॒ शर्म॑ यच्छतमप॒सिध्य॑ दुरि॒तं ध॑त्त॒मायुः॑ ॥७॥  
+Seize him not, but encourage and release him: here let him stay, though thine, in all his vigour. Bhava and Sarva, pity and protect him: give him full life and drive away misfortunes.

@@ -2,5 +2,4 @@
 title = "१३ नेमा इन्द्र"
 
 +++
-नेमा इ॑न्द्र॒ गावो॑ रिष॒न् मो आ॒सां गोप॑ रीरिषत्।  
-मासा॑म॒मित्र॒युर्जन॒ इन्द्र॒ मा स्ते॒न ई॑शत ॥१३॥  
+O Indra, let these cows be safe, their master free from injury. Let not the hostile-hearted or the robber have control of them.

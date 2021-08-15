@@ -2,4 +2,4 @@
 title = "०८ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य । स॒मा॒नमर्थं॒ परि॑ यन्ति दे॒वाः सं॑वत्स॒रं वा ए॒तदृ॒तवो॑ऽनु॒परि॑यन्ति॒ व्रात्यं॑ च ॥८॥  
+With one and the same object the Gods go round the Year and the Seasons follow round the Vratya.

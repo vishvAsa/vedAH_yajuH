@@ -2,5 +2,4 @@
 title = "०५ ये उस्रिया"
 
 +++
-ये उ॒स्रिया॒ बिभृ॒थो ये वन॒स्पती॒न् ययो॑र्वां॒ विश्वा॒ भुव॑नान्य॒न्तः ।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥५॥  
+Ye by whom cows and forest trees are cherished within whose range all creatures are included, To me, O Heaven and Earth, be ye auspicious. Deliver us, ye twain, from grief and trouble.

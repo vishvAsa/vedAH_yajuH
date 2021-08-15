@@ -2,5 +2,4 @@
 title = "०४ अनुच्छ्य श्यामेन"
 
 +++
-अनु॑च्छ्य श्या॒मेन॒ त्वच॑मे॒तां वि॑शस्तर्यथाप॒र्व॑१सिना॒ माभि मं॑स्थाः ।  
-माभि द्रु॑हः परु॒शः क॑ल्पयैनं तृ॒तीये॒ नाके॒ अधि॒ वि श्र॑यैनम्॥४॥  
+Cut up this skin with the grey knife, Dissector! dividing joint from joint, and mangle nothing Do him no injury: limb by limb arrange him, and send him up to the third cope of heaven.

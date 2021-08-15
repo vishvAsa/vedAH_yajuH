@@ -2,5 +2,4 @@
 title = "२३ उदह्वमायुरायुषे क्रत्वे"
 
 +++
-उद॑ह्व॒मायु॒रायु॑षे॒ क्रत्वे॒ दक्षा॑य जी॒वसे॑ ।  
-स्वान् ग॑च्छतु ते॒ मनो॒ अधा॑ पि॒तॄंरुप॑ द्रव ॥२३॥  
+I have recalled thy life to life, to being, power, and energy. Let thy soul go unto its own: so to the Fathers hasten thou.

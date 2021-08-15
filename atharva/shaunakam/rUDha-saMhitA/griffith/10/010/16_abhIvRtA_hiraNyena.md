@@ -2,5 +2,4 @@
 title = "१६ अभीवृता हिरण्येन"
 
 +++
-अ॒भीवृ॑ता॒ हिर॑ण्येन॒ यदति॑ष्ठ ऋतावरि ।  
-अश्वः॑ समु॒द्रो भू॒त्वाध्य॑स्कन्दद् वशे त्वा ॥१६॥  
+When, covered round about with gold, thou stoodest there, O Holy One, The ocean turned into a horse and mounted on thy back, O Cow,

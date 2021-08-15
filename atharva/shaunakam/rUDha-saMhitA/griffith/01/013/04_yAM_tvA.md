@@ -2,5 +2,4 @@
 title = "०४ यां त्वा"
 
 +++
-यां त्वा॑ दे॒वा असृ॑जन्त॒ विश्व॒ इषुं॑ कृण्वा॒ना अस॑नाय धृ॒ष्णुम्।  
-सा नो॑ मृड वि॒दथे॑ गृणा॒ना तस्यै॑ ते॒ नमो॑ अस्तु देवि ॥४॥
+Thou, Arrow, which the host of Gods created, making it strong and mighty for the shooting, Be gracious, lauded thus, to our assembly. To thee, that Arrow,. be our homage, Goddess!

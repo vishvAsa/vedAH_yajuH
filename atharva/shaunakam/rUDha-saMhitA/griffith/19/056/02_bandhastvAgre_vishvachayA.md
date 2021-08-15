@@ -2,5 +2,4 @@
 title = "०२ बन्धस्त्वाग्रे विश्वचया"
 
 +++
-ब॒न्धस्त्वाग्रे॑ वि॒श्वच॑या अपश्यत् पु॒रा रात्र्या॒ जनि॑तो॒रेके॒ अह्नि॑ ।  
-ततः॑ स्वप्ने॒दमध्या ब॑भूविथ भि॒षग्भ्यो॑ रू॒पम॑प॒गूह॑मानः ॥२॥  
+At first the all-containing, depth beheld thee, ere Night was born, when only Day existed. Thence hast thou come, thence, Sleep, hast thou come hither, concealing, deep within, all form and figure.

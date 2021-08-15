@@ -2,4 +2,4 @@
 title = "०४ रोहेम शरदः"
 
 +++
-रोहे॑म श॒रदः॑ श॒तम्॥४॥  
+A hundred autumns may we grow.

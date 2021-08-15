@@ -2,5 +2,4 @@
 title = "१० आहार्षमविदं त्वा"
 
 +++
-आहा॑र्ष॒मवि॑दं त्वा॒ पुन॒रागाः॒ पुन॑र्णवः ।  
-सर्वा॑ङ्ग॒ सर्वं॑ ते॒ चक्षुः॒ सर्व॒मायु॑श्च तेऽविदम्॥१०॥  
+So have I found and rescued thee: thou hast returned with youth renewed. Whole in thy members! I have found whole sight and all thy life for thee.

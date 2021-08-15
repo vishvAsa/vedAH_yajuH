@@ -2,5 +2,4 @@
 title = "०२ वेदिष्टे चर्म"
 
 +++
-वेदि॑ष्टे॒ चर्म॑ भवतु ब॒र्हिर्लोमा॑नि॒ यानि॑ ते ।  
-ए॒षा त्वा॑ रश॒नाग्र॑भी॒द् ग्रावा॑ त्वै॒षोऽधि॑ नृत्यतु ॥२॥  
+Thy skin shall be the Altar; let thine hair become the Sacred Grass. This cord hath held thee firmly: let this pressing-stone dance round on thee:

@@ -2,5 +2,4 @@
 title = "०१ ययोरोजसा स्कभिता"
 
 +++
-ययो॒रोज॑सा स्कभि॒ता रजां॑सि॒ यौ वीर्यौऽर्वी॒रत॑मा॒ शवि॑ष्ठा ।  
-यौ पत्ये॑ते॒ अप्र॑तीतौ॒ सहो॑भि॒र्विष्णु॑मग॒न् वरु॑णं पू॒र्वहू॑तिः ॥१॥  
+The early morning prayer hath come to Vishnu and Varuna, Lords through might, whom none hath equalled, Gods by whose power the realms of air were stablished, strongest and most heroic in their vigour.

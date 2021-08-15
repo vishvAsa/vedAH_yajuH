@@ -2,4 +2,4 @@
 title = "१७ व्याप पूरुषः"
 
 +++
-व्याप॒ पूरु॑षः ॥१७॥  
+Then cried they. Here he is, and, Here; again the cry was, Here is he.

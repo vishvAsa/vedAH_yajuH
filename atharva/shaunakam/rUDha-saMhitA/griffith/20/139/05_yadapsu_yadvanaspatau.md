@@ -2,4 +2,4 @@
 title = "०५ यदप्सु यद्वनस्पतौ"
 
 +++
-यद॒प्सु यद्वन॒स्पतौ॒ यदोष॑धीषु पुरुदंससा कृ॒तम्। तेन॑ माविष्टमश्विना ॥५॥
+Whatever ye have done in floods, in the tree, Wonder-workers, and in growing plants, Therewith, O Asvins, succour me.

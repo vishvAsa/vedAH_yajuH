@@ -2,6 +2,4 @@
 title = "०२ ब्रह्म स्रुचो"
 
 +++
-ब्रह्म॒ स्रुचो॑ घृ॒तव॑ती॒र्ब्रह्म॑णा॒ वेदि॒रुद्धि॑ता ।  
-ब्रह्म॑ य॒ज्ञस्य॒ तत्त्वं॑ च ऋ॒त्विजो॒ ये ह॑वि॒ष्कृतः॑ ।  
-श॒मि॒ताय॒ स्वाहा॑ ॥२॥  
+Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is worship, lengthened rite, the Rishis who pay sacrifice, the victim's Immolators. Hail!

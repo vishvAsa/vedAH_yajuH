@@ -2,5 +2,4 @@
 title = "२२ प्रतीचीं त्वा"
 
 +++
-प्र॒तीचीं॑ त्वा प्रती॒चीनः॒ शाले॒ प्रैम्यहिं॑सतीम्।  
-अ॒ग्निर्ह्य॑१न्तराप॑श्च॒र्तस्य॑ प्रथ॒मा द्वाः ॥२२॥  
+Turned to thee, House! I come to thee, innocent, turned to welcome me: For Fire and Water are within, the first chief door of sacrifice.

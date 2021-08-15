@@ -2,5 +2,4 @@
 title = "०६ पताति कुण्डृणाच्या"
 
 +++
-पता॑ति कुण्डृ॒णाच्या॑ दू॒रं वातो॒ वना॒दधि॑ ।  
-आ तू न॑ इन्द्र शंसय॒ गोष्वश्वे॑षु शु॒भ्रिषु॑ स॒हस्रे॑षु तुवीमघ ॥६॥  
+Far distant on the forest fall the tempest in a circling course; Do thou, O Indra, give us hope of beauteous horses and of kine, In thousands, O most wealthy One.

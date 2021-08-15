@@ -2,5 +2,4 @@
 title = "०३ आ वात"
 
 +++
-आ वा॑त वाहि भेष॒जं वि वा॑त वाहि॒ यद्रपः॑ ।  
-त्वं हि वि॑श्वभेषज दे॒वानां॑ दू॒त ईय॑से ॥३॥  
+Hither, O Wind, blow healing balm, blow every fault away, thou Wind! For thou who hast all medicine comest as envoy of the Gods.

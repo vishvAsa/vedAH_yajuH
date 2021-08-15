@@ -2,5 +2,4 @@
 title = "०३ सायंसायं गृहपतिर्नो"
 
 +++
-सा॒यंसा॑यं गृ॒हप॑तिर्नो अ॒ग्निः प्रा॒तःप्रा॑तः सौमन॒सस्य॑ दा॒ता।  
-वसो॑र्वसोर्वसु॒दान॑ एधि व॒यं त्वेन्धा॑नास्त॒न्वं पुषेम ॥३॥  
+Each eve that comes our household's Lord is Agni, showing his. loving-kindness every morning. Bestow upon us treasure after treasure: enkindling thee may we increase thy body.

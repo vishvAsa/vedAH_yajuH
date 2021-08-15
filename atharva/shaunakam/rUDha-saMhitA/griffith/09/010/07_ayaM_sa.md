@@ -2,5 +2,4 @@
 title = "०७ अयं स"
 
 +++
-अ॒यं स शि॑ङ्क्ते॒ येन॒ गौर॒भिवृ॑ता॒ मिमा॑ति मा॒युं ध्व॒सना॒वधि॑ श्रि॒ता।  
-सा चि॒त्तिभि॒र्नि हि च॒कार॒ मर्त्या॑न् वि॒द्युद् भव॑न्ती॒ प्रति॑ व॒व्रिमौ॑हत ॥७॥  
+He also snorts, by whom encompassed round the Cow lows as she closely clings to him who sheds the rain. She with her shrilling cries hath humbled mortal men, and turn- ed to lightning, hath stripped off her covering robe.

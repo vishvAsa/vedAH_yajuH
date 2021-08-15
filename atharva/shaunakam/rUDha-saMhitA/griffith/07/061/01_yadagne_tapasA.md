@@ -2,5 +2,4 @@
 title = "०१ यदग्ने तपसा"
 
 +++
-यद॑ग्ने॒ तप॑सा॒ तप॑ उपत॒प्याम॑हे॒ तपः॑ ।  
-प्रि॒याः श्रु॒तस्य॑ भूया॒स्मायु॑ष्मन्तः सुमे॒धसः॑ ॥१॥  
+Since, Agni, with our fervent zeal we undergo austerity, May we be dear to Sacred Lore, may we be wise and live long lives.

@@ -2,5 +2,4 @@
 title = "१० अपामग्निस्तनूभिः संविदानो"
 
 +++
-अ॒पाम॒ग्निस्त॒नूभिः॑ संविदा॒नो य ओष॑धीनामधि॒पा ब॒भूव॑ ।  
-स नो॑ व॒र्षं व॑नुतां जा॒तवे॑दाः प्रा॒णं प्र॒जाभ्यो॑ अ॒मृतं॑ दि॒वस्परि॑ ॥१०॥  
+May he who hath become the plants' high regent, suiting our bodies, Agni of the Waters, May Jatavedas send us rain from heaven, Amrit and vital breath to earthly creatures.

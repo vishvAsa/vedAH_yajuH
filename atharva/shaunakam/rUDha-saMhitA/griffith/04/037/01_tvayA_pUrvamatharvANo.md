@@ -2,5 +2,4 @@
 title = "०१ त्वया पूर्वमथर्वाणो"
 
 +++
-त्वया॒ पूर्व॒मथ॑र्वाणो ज॒घ्नू रक्षां॑स्योषधे ।  
-त्वया॑ जघान क॒श्यप॒स्त्वया॒ कण्वो॑ अ॒गस्त्यः॑ ॥१॥  
+With thee, O Plant, in olden time Atharvans smote and slew the fiends. Kasyapa smote with thee, with thee did Kanava and Agastya smite.

@@ -2,4 +2,4 @@
 title = "०४ ब्रह्म पदवायं"
 
 +++
-ब्रह्म॑ पदवा॒यं ब्रा॑ह्म॒णोऽधि॑पतिः ॥४॥  
+Brahma her guide, the Brahman her lord and ruler;

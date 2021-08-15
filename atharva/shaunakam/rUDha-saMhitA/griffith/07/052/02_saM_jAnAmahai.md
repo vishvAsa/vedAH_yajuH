@@ -2,5 +2,4 @@
 title = "०२ सं जानामहै"
 
 +++
-सं जा॑नामहै॒ मन॑सा॒ सं चि॑कि॒त्वा मा यु॑ष्महि॒ मन॑सा॒ दैव्ये॑न ।  
-मा घोषा॒ उत् स्थु॑र्बहु॒ले वि॒निर्ह॑ते॒ मेषुः॑ पप्त॒दिन्द्र॒स्याह॒न्याग॑ते ॥२॥
+May we agree in mind, agree in purpose: let us not fight against the heavenly spirit. Around us rise no din of frequent slaughter, nor Indra's arrow fly, for day is present!

@@ -2,5 +2,4 @@
 title = "०५ यं याचाम्यहं"
 
 +++
-यं याचा॑म्य॒हं वा॒चा सर॑स्वत्या मनो॒युजा॑ ।  
-श्र॒द्धा तम॒द्य वि॑न्दतु द॒त्ता सोमे॑न ब॒भ्रुणा॑ ॥५॥  
+The portion that I crave with speech intelligent and full of power, May faith, presented with the gift of tawny Soma, find to-day.

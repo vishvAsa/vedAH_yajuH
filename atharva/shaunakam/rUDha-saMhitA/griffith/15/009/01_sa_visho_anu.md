@@ -2,4 +2,4 @@
 title = "०१ स विशोऽनु"
 
 +++
-स विशोऽनु॒ व्यऽचलत्॥१॥  
+He went away to the people.

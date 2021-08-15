@@ -2,5 +2,4 @@
 title = "०२ यो नः"
 
 +++
-यो नः॑ पाप्म॒न् न जहा॑सि॒ तमु॑ त्वा जहिमो व॒यम्।  
-प॒थामनु॑ व्या॒वर्त॑ने॒ऽन्यं पा॒प्मानु॑ पद्यताम्॥२॥  
+From thee, from thee who fliest not from us, O Misery, we fly. Then at the turning of the paths let Misery fall on someone else.

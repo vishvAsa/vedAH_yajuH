@@ -2,5 +2,4 @@
 title = "२१ परं मृत्यो"
 
 +++
-परं॑ मृत्यो॒ अनु॒ परे॑हि॒ पन्थां॒ यस्त॑ ए॒ष इत॑रो देव॒याना॑त्।  
-चक्षु॑ष्मते शृण्व॒ते ते॑ ब्रवीमी॒हेमे वी॒रा ब॒हवो॑ भवन्तु ॥२१॥  
+Go onward, Death, pursue thy special pathway apart from that which Gods are wont to travel. To thee I say it who hast eyes and hearest: great grow the number of these men around us!

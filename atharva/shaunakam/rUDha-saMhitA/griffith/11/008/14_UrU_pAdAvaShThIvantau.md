@@ -2,5 +2,4 @@
 title = "१४ ऊरू पादावष्ठीवन्तौ"
 
 +++
-ऊ॒रू पादा॑वष्ठी॒वन्तौ॒ शिरौ॒ हस्ता॒वथो॒ मुख॑म्।  
-पृ॒ष्टीर्ब॑र्ज॒ह्ये पा॒र्श्वे कस्तत् सम॑दधा॒दृषिः॑ ॥१४॥  
+The thighs, the knee-bones, and the feet, the head, the face, Land both the hands, The ribs, the nipples, and the sides--what I ishi hath constructed that?

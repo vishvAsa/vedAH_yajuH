@@ -2,5 +2,4 @@
 title = "०३ मुञ्च शीर्षक्त्या"
 
 +++
-मु॒ञ्च शी॑र्ष॒क्त्या उ॒त का॒स ए॑नं॒ परु॑ष्परुरावि॒वेशा॒ यो अ॑स्य ।  
-यो अ॑भ्र॒जा वा॑त॒जा यश्च॒ शुष्मो॒ वन॒स्पती॑न्त्सचतां॒ पर्व॑तांश्च ॥३॥  
+Do thou release this man from headache, free him from cough which has entered into all his limbs and joints. May he, the child of cloud, the offspring of the wind, the whiz- zing lighting, strike the mountains and the trees.

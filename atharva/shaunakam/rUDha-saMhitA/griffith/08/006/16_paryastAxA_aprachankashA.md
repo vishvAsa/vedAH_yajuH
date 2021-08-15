@@ -2,5 +2,4 @@
 title = "१६ पर्यस्ताक्षा अप्रचङ्कशा"
 
 +++
-प॒र्य॒स्ता॒क्षा अप्र॑चङ्कशा अस्त्रै॒णाः स॑न्तु॒ पण्ड॑गाः ।  
-अव॑ भेषज पादय॒ य इ॒मां सं॒विवृ॑त्स॒त्यप॑तिः स्वप॒तिं स्त्रिय॑म्॥१६॥  
+Sightless and with distorted eyes, impotent. woman less be they. O Healing Plant, cast each away who, not her husband, would approach this woman wedded to her lord.

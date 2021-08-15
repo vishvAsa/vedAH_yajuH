@@ -2,5 +2,4 @@
 title = "०१ भवाशर्वौ मृडतं"
 
 +++
-भवा॑शर्वौ मृ॒डतं॒ माभि या॑तं॒ भूत॑पती॒ पशु॑पती॒ नमो॑ वाम्।  
-प्रति॑हिता॒माय॑तां॒ मा वि स्रा॑ष्टं॒ मा नो॑ हिंसिष्टं द्वि॒पदो॒ मा चतु॑ष्पदः ॥१॥  
+Bhava and Sarva, spare us, be not hostile. Homage to you, twin Lords of beasts and spirits! Shoot not the arrow aimed and drawn against us: forbear to harm our quadrupeds and bipeds.

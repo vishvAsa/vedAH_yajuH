@@ -2,5 +2,4 @@
 title = "०४ उपहूता भूरिधनाः"
 
 +++
-उप॑हूता॒ भूरि॑धनाः॒ सखा॑यः स्वा॒दुसं॑मुदः ।  
-अ॒क्षु॒ध्या अ॑तृ॒ष्या स्त॒ गृहा॒ मास्मद् बि॑भीतन ॥४॥  
+Thus greeted, ye of ample wealth, friends who enjoy delightful sweets. Be ever free from hunger, free from thirst! Ye Houses, fear us not.

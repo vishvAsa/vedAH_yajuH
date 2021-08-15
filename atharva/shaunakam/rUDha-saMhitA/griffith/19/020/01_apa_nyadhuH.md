@@ -2,5 +2,4 @@
 title = "०१ अप न्यधुः"
 
 +++
-अप॒ न्यधुः॒ पौरु॑षेयं व॒धं यमि॑न्द्रा॒ग्नी धा॒ता स॑वि॒ता बृह॒स्पतिः॑ ।  
-सोमो॒ राजा॒ वरु॑णो अ॒श्विना॑ य॒मः पू॒षास्मान् परि॑ पातु मृ॒त्योः ॥१॥  
+May Soma, Varuna the King, both Asvins, Yama and Pushan guard us well from Mrityu-- Death caused by men, which Indra-Agni, Dhatar, Brihaspati and Savitar appointed.

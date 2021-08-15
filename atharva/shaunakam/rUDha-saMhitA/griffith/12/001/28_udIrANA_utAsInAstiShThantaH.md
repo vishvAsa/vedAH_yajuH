@@ -2,5 +2,4 @@
 title = "२८ उदीराणा उतासीनास्तिष्ठन्तः"
 
 +++
-उ॒दीरा॑णा उ॒तासी॑ना॒स्तिष्ठ॑न्तः प्र॒क्राम॑न्तः ।  
-प॒द्भ्यां द॑क्षिणस॒व्याभ्यां॒ मा व्य॑थिष्महि॒ भूम्या॑म्॥२८॥  
+Sitting at ease or rising up, standing or going on our way. With our right foot and with our left we will not reel upon the earth.

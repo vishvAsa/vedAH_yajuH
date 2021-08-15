@@ -2,6 +2,4 @@
 title = "१६ वायुरमित्राणामिष्वग्राण्याञ्चतु इन्द्र"
 
 +++
-वा॒युर॒मित्रा॑णामिष्व॒ग्राण्याञ्च॑तु ।  
-इन्द्र॑ एषां बा॒हून् प्रति॑ भनक्तु॒ मा श॑कन् प्रति॒धामिषु॑म्।  
-आ॒दि॒त्य ए॑षाम॒स्त्रं वि ना॑शयतु च॒न्द्रमा॑ युता॒मग॑तस्य॒ पन्था॑म्॥१६॥  
+Let Vayu bend the arrow-points of those who are our enemies. Let Indra break their arms away: no power to lay the shaft be theirs! Aditya utterly destroy their missile! Chandramas bar the path of him who lingers!

@@ -2,5 +2,4 @@
 title = "१८ केनेमां भूमिमौर्णोत्"
 
 +++
-केने॒मां भूमि॑मौर्णो॒त् केन॒ पर्य॑भव॒द् दिव॑म्।  
-केना॒भि म॒ह्ना पर्व॑ता॒न् केन॒ कर्मा॑णि॒ पुरु॑षः ॥१८॥  
+Through whom did he bedeck the earth, through whom did he encompass heaven? Whose might made Purusha surpass the mountains and created things?

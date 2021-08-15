@@ -2,5 +2,4 @@
 title = "३३ ब्राह्मणेभ्यो वशां"
 
 +++
-ब्रा॒ह्म॒णेभ्यो॑ व॒शां द॒त्त्वा सर्वां॑ल्लो॒कान्त्सम॑श्नुते ।  
-ऋ॒तं ह्य॒ऽस्या॒मार्पि॑त॒मपि॒ ब्रह्माथो तपः॑ ॥३३॥  
+He who hath given a Cow unto the Brahmans winneth all the worlds. For Right is firmly set in her devotion, and religious zeal.

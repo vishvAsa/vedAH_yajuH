@@ -2,5 +2,4 @@
 title = "२४ आ रोहतायुर्जरसं"
 
 +++
-आ रो॑ह॒तायु॑र्ज॒रसं॑ वृणा॒ना अ॑नुपू॒र्वं यत॑माना॒ यति॒ स्थ।  
-तान् व॒स्त्वष्टा॑ सु॒जनि॑मा स॒जोषाः॒ सर्व॒मायु॑र्नयतु॒ जीव॑नाय ॥२४॥  
+Live your full lives and find age delightful, all of you striving, one behind the other. May Tvashtar, maker of fair things, be gracious, and lead your whole lives on to full existence.

@@ -2,5 +2,4 @@
 title = "०३ करीषिणीं फलवतीं"
 
 +++
-क॒री॒षिणीं॒ फल॑वतीं स्व॒धामिरां॑ च नो गृ॒हे।  
-औदु॑म्बरस्य॒ तेज॑सा धा॒ता पु॒ष्टिं द॑धातु मे ॥३॥  
+By power of the Udumbara Charm may Dhatar give me plenty, rich. In the kine's droppings and in fruit, and, in our dwelling, food, and drink.

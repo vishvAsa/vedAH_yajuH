@@ -2,5 +2,4 @@
 title = "१० मित्रश्च त्वा"
 
 +++
-मि॒त्रश्च॑ त्वा॒ वरु॑णश्चानु॒प्रेय॑तुराञ्जन ।  
-तौ त्वा॑नु॒गत्य॑ दू॒रं भो॒गाय॒ पुन॒रोह॑तुः ॥१०॥
+Mitra and Varuna, O Salve have closely followed after thee May they, when they have followed thee afar, restore thee for our use.

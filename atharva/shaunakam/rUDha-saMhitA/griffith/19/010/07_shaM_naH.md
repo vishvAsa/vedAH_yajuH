@@ -2,5 +2,4 @@
 title = "०७ शं नः"
 
 +++
-शं नः॒ सोमो॑ भवतु॒ ब्रह्म॒ शं नः॒ शं नो॒ ग्रावा॑णः॒ शमु॑ सन्तु य॒ज्ञाः ।  
-शं नः॒ स्वरू॑णा मि॒तयो॑ भवन्तु॒ शं नः॑ प्र॒स्वः॑१ शम्व॑स्तु॒ वेदिः॑ ॥७॥  
+Kind unto us be Soma and Devotions, kind be the sacrifice and Stones for pressing. Kind be the fixing of the Sacred Pillars, kind be the tender Grass, and kind the Altar.

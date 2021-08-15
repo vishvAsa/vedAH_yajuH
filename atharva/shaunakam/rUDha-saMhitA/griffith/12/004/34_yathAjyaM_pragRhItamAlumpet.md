@@ -2,5 +2,4 @@
 title = "३४ यथाज्यं प्रगृहीतमालुम्पेत्"
 
 +++
-यथाज्यं॒ प्रगृ॑हीतमालु॒म्पेत् स्रु॒चो अ॒ग्नये॑ ।  
-ए॒वा ह॑ ब्र॒ह्मभ्यो॑ व॒शा म॒ग्नय॒ आ वृ॑श्च॒तेऽद॑दत्॥३४॥  
+As molten butter, held at length, drops down to Agni from the scoop, So falls away from Agni he who gives no Cow to Brahman priests.

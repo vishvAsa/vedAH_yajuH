@@ -2,5 +2,4 @@
 title = "०१ येन देवं"
 
 +++
-येन॑ दे॒वं स॑वि॒तारं॒ परि॑ दे॒वा अधा॑रयन्।  
-तेने॒मं ब्र॑ह्मणस्पते॒ परि॑ रा॒ष्ट्राय॑ धत्तन ॥१॥  
+Do ye, O Brahmanaspati, invest for the royal sway this man. With that wherewith the Deities invested Savitar the God.

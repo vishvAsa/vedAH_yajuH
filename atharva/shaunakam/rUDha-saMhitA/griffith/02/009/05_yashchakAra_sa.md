@@ -2,5 +2,4 @@
 title = "०५ यश्चकार स"
 
 +++
-यश्च॒कार॒ स निष्क॑र॒त् स ए॒व सुभि॑षक्तमः ।  
-स ए॒व तुभ्यं॑ भेष॒जानि॑ कृ॒णव॑द् भि॒षजा॒ शुचिः॑ ॥५॥
+Let him who made it also heal: he, truly, is the deftest leech. Pure, with a leech he verily shall give thee medicines that heal.

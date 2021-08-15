@@ -2,4 +2,4 @@
 title = "२२ तृणानि प्राप्तः"
 
 +++
-तृणा॑नि प्राप्तः॒ सोमो॒ राजा॑ ॥२२॥  
+When he hath got his grass he is King Soma.

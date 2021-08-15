@@ -2,5 +2,4 @@
 title = "०५ शं नो"
 
 +++
-शं नो॒ द्यावा॑पृथि॒वी पू॒र्वहू॑तौ॒ शम॒न्तरि॑क्षं दृ॒शये॑ नो अस्तु ।  
-शं न॒ ओष॑धीर्व॒निनो॑ भवन्तु॒ शं नो॒ रज॑स॒स्पति॑रस्तु जि॒ष्णुः ॥५॥  
+Early invoked may Heaven and Earth be friendly, and Air's mid-region good for us to look on. To us may herbs and forest trees be gracious, gracious the Lord victorious of the region.

@@ -2,5 +2,4 @@
 title = "०२ यदि क्षितायुर्यदि"
 
 +++
-यदि॑ क्षि॒तायु॒र्यदि॑ वा॒ परे॑तो॒ यदि॑ मृ॒त्योर॑न्ति॒कं नी॑त ए॒व।  
-तमा ह॑रामि॒ निरृ॑तेरु॒पस्था॒दस्पा॑र्शमेनं श॒तशा॑रदाय ॥२॥  
+Be his days ended, be he now departed, be he brought very near to death already, Out of Destruction's lap again I bring him, save him for life to last a hundred autumns.

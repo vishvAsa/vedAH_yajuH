@@ -2,5 +2,4 @@
 title = "०१ मरुतां मन्वे"
 
 +++
-म॒रुतां॑ मन्वे॒ अधि॑ मे ब्रुवन्तु॒ प्रेमं वाजं॒ वाज॑साते अवन्तु ।  
-आ॒शूनि॑व सु॒यमा॑नह्व ऊ॒तये॑ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१॥  
+I think upon the Maruts: may they bless me, may they assist me to this wealth in battle. I call them like swift well-trained steeds to help us. May they deliver us from grief and trouble.

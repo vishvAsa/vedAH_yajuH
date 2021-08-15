@@ -2,4 +2,4 @@
 title = "२३ स देवजामीनां"
 
 +++
-स दे॑वजामी॒नां पाशा॒न्मा मो॑चि॥३॥  
+Whatever, etc. Let him not be freed from the noose of Heaven and Earth, etc.

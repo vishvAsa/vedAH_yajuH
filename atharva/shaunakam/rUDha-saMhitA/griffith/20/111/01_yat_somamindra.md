@@ -2,4 +2,4 @@
 title = "०१ यत् सोममिन्द्र"
 
 +++
-यत् सो॑ममिन्द्र॒ विष्ण॑वि॒ यद् वा॑ घ त्रि॒त आ॒प्त्ये। यद् वा॑ म॒रुत्सु॒ मन्द॑से॒ समिन्दु॑भिः ॥१॥  
+If, Indra, thou drink Soma by Vishnu's or Trita Aptya's side, Or with the Maruts take delight in flowing drops;

@@ -2,5 +2,4 @@
 title = "०३ वैश्वानरीं वर्चस"
 
 +++
-वै॒श्वा॒न॒रीं वर्च॑स॒ आ र॑भध्वं शु॒द्धा भव॑न्तः॒ शुच॑यः पाव॒काः ।  
-इ॒हेड॑या सध॒मादं॒ मद॑न्तो॒ ज्योक् प॑श्येम॒ सूर्य॑मु॒च्चर॑न्तम्॥३॥
+For splendour, seize on her whom all men worship, becoming pure yourselves, and bright, and brilliant. Here, through our prayer rejoicing in the banquet, long may we look upon the Sun ascending.

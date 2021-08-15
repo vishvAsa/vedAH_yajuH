@@ -2,5 +2,4 @@
 title = "०४ कृत्यादूषण एवायमथो"
 
 +++
-कृ॒त्या॒दूष॑ण ए॒वायमथो॑ अराति॒दूष॑णः ।  
-अथो॒ सह॑स्वां जङ्गि॒डः प्र ण आयूं॑षि तारिषत्॥४॥  
+This counteracts the sorceress, this banishes malignity: Then may victorious Jangida's prolong the days we have to live.

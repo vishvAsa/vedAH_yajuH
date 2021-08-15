@@ -2,5 +2,4 @@
 title = "०८ यां प्रच्युतामनु"
 
 +++
-यां प्रच्यु॑ता॒मनु॑ य॒ज्ञाः प्र॒च्यव॑न्त उप॒तिष्ठ॑न्त उप॒तिष्ठ॑मानाम्।  
-यस्या॑ व्र॒ते प्र॑स॒वे य॒क्षमेज॑ति॒ सा वि॒राडृषयः पर॒मे व्योऽमन्॥८॥  
+She whom, advancing, sacrifices follow, and when she takes her station stand beside her, By whose control and hest the spirit moveth, she is Viraj, in highest heaven, O Rishis.

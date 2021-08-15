@@ -2,5 +2,4 @@
 title = "११ सत्यमाशिषं कृणुता"
 
 +++
-स॒त्यमा॒शिषं॑ कृणुता वयो॒धै की॒रिं चि॒द्ध्यव॑थ॒ स्वेभि॒रेवैः॑ ।  
-प॒श्चा मृधो॒ अप॑ भवन्तु॒ विश्वा॒स्तद् रो॑दसी शृणुतं विश्वमि॒न्वे॥११॥  
+Fulfil the prayer that begs for vital vigor: aid in your wonted manner e'en the humble. Let all our foes be turned and driven backward. Hear this, O Heaven and Earth, ye all-producers.

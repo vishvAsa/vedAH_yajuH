@@ -2,5 +2,4 @@
 title = "१६ यथा मधु"
 
 +++
-यथा॒ मधु॑ मधु॒कृतः॑ सं॒भर॑न्ति॒ मधा॒वधि॑ ।  
-ए॒वा मे॑ अश्विना॒ वर्च॑ आ॒त्मनि॑ ध्रियताम्॥१६॥  
+As honey-bees collect and add fresh honey to their honey store, Even so may both the Asvins lay splendour and strength within my soul.

@@ -2,5 +2,4 @@
 title = "२३ जनित्रीव प्रति"
 
 +++
-जनि॑त्रीव॒ प्रति॑ हर्यासि सू॒नुं सं त्वा॑ दधामि पृथि॒वीं पृ॑थि॒व्या।  
-उ॒खा कु॒म्भी वेद्यां॒ मा व्य॑थिष्ठा यज्ञायु॒धैराज्ये॒नाति॑षक्ता ॥२३॥  
+Thou for thy son shalt yearn as yearns a mother. I lay thee down and with the earth unite thee. Conjoined with sacrificial gear and butter may pot and jar stand firmly on the altar.

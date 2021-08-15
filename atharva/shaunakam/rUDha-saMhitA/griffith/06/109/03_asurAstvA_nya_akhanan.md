@@ -2,5 +2,4 @@
 title = "०३ असुरास्त्वा न्यऽखनन्"
 
 +++
-असु॑रास्त्वा॒ न्यऽखनन् दे॒वास्त्वोद॑वप॒न् पुनः॑ ।  
-वा॒तीकृ॑तस्य भेष॒जीमथो॑ क्षि॒प्तस्य॑ भेष॒जीम्॥३॥
+Asuras buried thee in earth: the Gods again uplifted thee. Healer of sickness caused by wounds and healer of the missile's rent.

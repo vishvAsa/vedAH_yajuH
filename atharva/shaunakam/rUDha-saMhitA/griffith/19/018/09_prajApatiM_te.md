@@ -2,4 +2,4 @@
 title = "०९ प्रजापतिं ते"
 
 +++
-प्र॒जाप॑तिं॒ ते प्र॒जन॑नवन्तमृच्छन्तु । ये मा॑घा॒यवो॑ ध्रु॒वाया॑ दि॒शोऽभि॒दासा॑त्॥९॥  
+Let those who vex me from the nadir, sinners, extol Prajapati of genial power.

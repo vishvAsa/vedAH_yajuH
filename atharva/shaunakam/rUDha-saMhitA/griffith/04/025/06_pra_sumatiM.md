@@ -2,5 +2,4 @@
 title = "०६ प्र सुमतिं"
 
 +++
-प्र सु॑म॒तिं स॑वितर्वाय ऊ॒तये॒ मह॑स्वन्तं मत्स॒रं मा॑दयाथः ।  
-अ॒र्वाग् वा॒मस्य॑ प्र॒वतो॒ नि य॑च्छतं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥६॥  
+Ye, Savitar and Vayu, to assist us, enjoy the hymn and the delightful cheerer. Come hither downward from the stream of blessing. Deliver us, ye twain, from grief and trouble.

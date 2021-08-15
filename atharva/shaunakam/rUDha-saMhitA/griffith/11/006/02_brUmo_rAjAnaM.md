@@ -2,5 +2,4 @@
 title = "०२ ब्रूमो राजानं"
 
 +++
-ब्रू॒मो राजा॑नं॒ वरु॑णं मि॒त्रं विष्णु॒मथो॒ भग॑म्।  
-अंशं॒ विव॑स्वन्तं ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥२॥  
+We call on Vishnu, Bhaga, on Mitra and Varuna the King, Ansa Vivasvan we address: may they deliver us from woe.

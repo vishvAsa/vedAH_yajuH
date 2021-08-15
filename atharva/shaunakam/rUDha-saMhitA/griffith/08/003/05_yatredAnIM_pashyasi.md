@@ -2,5 +2,4 @@
 title = "०५ यत्रेदानीं पश्यसि"
 
 +++
-यत्रे॒दानीं॒ पश्य॑सि जातवेद॒स्तिष्ठ॑न्तमग्न उ॒त वा॒ चर॑न्तम्।  
-उ॒तान्तरि॑क्षे॒ पत॑न्तं यातु॒धानं॒ तमस्ता॑ विध्य॒ शर्वा॒ शिशा॑नः ॥५॥  
+Where now thou seest, Agni Jatavedas! a Yatudhana, standing still or roaming. Or one that flieth through the air's mid-region, kindled to fury as an archer pierce him.

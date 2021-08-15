@@ -2,5 +2,4 @@
 title = "०७ यां ते"
 
 +++
-यां ते॑ च॒क्रुः सेना॑यां॒ यां च॒क्रुरि॑ष्वायु॒धे।  
-दु॒न्दु॒भौ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥७॥  
+The spell that they have cast upon thine army or thy shafts and arms, Spell they have cast upon the drum, this I throw back again on them.

@@ -2,5 +2,4 @@
 title = "०२ यदि वृक्षादभ्यपप्तत्"
 
 +++
-यदि॑ वृ॒क्षाद॒भ्यप॑प्त॒त् फलं॒ तद् यद्य॒न्तरि॑क्षा॒त् स उ॑ वा॒युरे॒व।  
-यत्रास्पृ॑क्षत् त॒न्वो॒३यच्च॒ वास॑स॒ आपो॑ नुदन्तु॒ निरृ॑तिं परा॒चैः ॥२॥  
+If from a tree that fruit hath fallen downward if, aught from air that is vayu. Where it hath touched my body or my garment, thence may the Waters drive Destruction backward.

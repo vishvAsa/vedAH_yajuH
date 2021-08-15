@@ -2,5 +2,4 @@
 title = "११ पञ्चारे चक्रे"
 
 +++
-पञ्चा॑रे च॒क्रे प॑रि॒वर्त॑माने॒ यस्मि॑न्नात॒स्थुर्भुव॑नानि॒ विश्वा॑ ।  
-तस्य॒ नाक्ष॑स्तप्यते॒ भूरि॑भारः स॒नादे॒व न च्छि॑द्यते॒ सना॑भिः ॥११॥  
+Upon the five-spoked wheel revolving ever, whereon all crea- tures rest and are dependent, The axle, heavy-laden, is not heated: the nave from ancient time remains unheated.

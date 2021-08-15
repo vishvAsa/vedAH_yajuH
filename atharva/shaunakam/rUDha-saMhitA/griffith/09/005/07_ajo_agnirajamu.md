@@ -2,5 +2,4 @@
 title = "०७ अजो अग्निरजमु"
 
 +++
-अ॒जो अ॒ग्निर॒जमु॒ ज्योति॑राहुर॒जं जीव॑ता ब्र॒ह्मणे॒ देय॑माहुः ।  
-अ॒जस्तमां॒स्यप॑ हन्ति दू॒रम॒स्मिंल्लो॒के श्र॒द्दधा॑नेन द॒त्तः ॥७॥  
+The Goat is Agni: light they call him, saying that living man must give him to the Brahman. Given in this world by a devout believer, the Goat dispels and drives afar the darkness.

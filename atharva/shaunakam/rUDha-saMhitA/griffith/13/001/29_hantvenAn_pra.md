@@ -2,5 +2,4 @@
 title = "२९ हन्त्वेनान् प्र"
 
 +++
-हन्त्वे॑ना॒न् प्र द॑ह॒त्वरि॒र्यो नः॑ पृत॒न्यति॑ ।  
-क्र॒व्यादा॒ग्निना॑ व॒यं स॒पत्ना॒न् प्र द॑हामसि ॥२९॥  
+Let him smite down in death and burn the foeman who attacketh me. Our adversaries we consume through Agni the Carnivorous.

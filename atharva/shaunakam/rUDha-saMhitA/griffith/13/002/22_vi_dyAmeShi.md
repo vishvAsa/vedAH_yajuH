@@ -2,5 +2,4 @@
 title = "२२ वि द्यामेषि"
 
 +++
-वि द्यामे॑षि॒ रज॑स्पृ॒थ्वह॒र्मिमा॑नो अ॒क्तुभिः॑ ।  
-पश्य॒न् जन्मा॑नि सूर्य ॥२२॥  
+Traversing sky and wide mid-air, thou metest with thy beams our days, Sun, seeing all things that have life.

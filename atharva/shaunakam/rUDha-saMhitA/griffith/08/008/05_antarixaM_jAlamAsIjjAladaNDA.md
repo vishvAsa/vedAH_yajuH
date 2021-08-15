@@ -2,5 +2,4 @@
 title = "०५ अन्तरिक्षं जालमासीज्जालदण्डा"
 
 +++
-अ॒न्तरि॑क्षं॒ जाल॑मासीज्जालद॒ण्डा दिशो॑ म॒हीः ।  
-तेना॑भि॒धाय॒ दस्यू॑नां श॒क्रः सेना॒मपा॑वपत्॥५॥  
+Air was the net; the poles thereof were the great quarters of the sky: Sakra therewith enveloped and cast on the ground the Dasyus' host.

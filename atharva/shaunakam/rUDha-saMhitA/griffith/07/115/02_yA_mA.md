@@ -2,5 +2,4 @@
 title = "०२ या मा"
 
 +++
-या मा॑ ल॒क्ष्मीः प॑तया॒लूरजु॑ष्टाभिच॒स्कन्द॒ वन्द॑नेव वृ॒क्षम्।  
-अ॒न्यत्रा॒स्मत् स॑वित॒स्तामि॒तो धा॒ हिर॑ण्यहस्तो॒ वसु॑ नो॒ ररा॑णः ॥२॥  
+Granting us riches, Savitar! golden-banded, send thou away from us to other regions That Fortune who, flying, abominable, hath, as a creeper climbs* a tree, assailed me.

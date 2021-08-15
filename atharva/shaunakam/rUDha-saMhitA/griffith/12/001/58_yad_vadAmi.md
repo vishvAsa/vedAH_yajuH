@@ -2,5 +2,4 @@
 title = "५८ यद् वदामि"
 
 +++
-यद् वदा॑मि॒ मधु॑म॒त् तद् व॑दामि॒ यदीक्षे॒ तद् व॑नन्ति मा ।  
-त्विषी॑मानस्मि जूति॒मानवा॒न्यान् ह॑न्मि॒ दोध॑तः ॥५८॥  
+Whate'er I say I speak with honey-sweetness, whatever I behold for that they love me. Dazzling, impetuous am I: others who fiercely stir I slay.

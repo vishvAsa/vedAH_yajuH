@@ -2,5 +2,4 @@
 title = "०२ नमस्ते प्राण"
 
 +++
-नम॑स्ते प्राण॒ क्रन्दा॑य॒ नम॑स्ते स्तनयि॒त्नवे॑ ।  
-नम॑स्ते प्राण वि॒द्युते॒ नम॑स्ते प्राण॒ वर्ष॑ते ॥२॥  
+Homage, O Prana, to thy roar, to thunder-peal and lightning flash! Homage, O Prana, unto thee what time thou sendest down thy rain!

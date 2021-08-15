@@ -2,5 +2,4 @@
 title = "०१ अमुत्रभूयादधि यद्"
 
 +++
-अ॒मु॒त्र॒भूया॒दधि॒ यद् य॒मस्य॒ बृह॑स्पतेर॒भिश॑स्तेर॑मुञ्चः ।  
-प्रत्यौ॑हताम॒श्विना॑ मृ॒त्युम॒स्मद् दे॒वाना॑मग्ने भि॒षजा॒ शची॑भिः ॥१॥  
+As thou, Brihaspati, from the curse hast saved us, from dwel- ling yonder in the realm of Yama, The Asvins, leeches of the Gods, O Agni, have chased Death far from us with mighty powers.

@@ -2,4 +2,4 @@
 title = "०७ इदं पैद्वो"
 
 +++
-इ॒दं पै॒द्वो अ॑जायते॒दम॑स्य प॒राय॑णम्। इ॒मान्यर्व॑तः प॒दाहि॒घ्न्यो वा॒जिनी॑वतः ॥७॥  
+Here was the horse of Pedu born: this is the way that takes him hence. These are the tracks the courser left, the mighty slayer of the Snakes.

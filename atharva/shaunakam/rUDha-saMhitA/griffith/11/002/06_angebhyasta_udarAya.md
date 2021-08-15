@@ -2,5 +2,4 @@
 title = "०६ अङ्गेभ्यस्त उदराय"
 
 +++
-अङ्गे॑भ्यस्त उ॒दरा॑य जि॒ह्वाया॑ आ॒स्याऽय ते ।  
-द॒द्भ्यो ग॒न्धाय॑ ते॒ नमः॑ ॥६॥  
+We offer homage to thy limbs, thy belly, and thy tongue, and mouth we offer homage to thy smell.

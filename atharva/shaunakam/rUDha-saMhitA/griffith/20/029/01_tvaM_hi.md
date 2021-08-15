@@ -2,4 +2,4 @@
 title = "०१ त्वं हि"
 
 +++
-त्वं हि स्तो॑म॒वर्ध॑न॒ इन्द्रास्यु॑क्थ॒वर्ध॑नः । स्तो॒तॄ॒णामु॒त भ॑द्र॒कृत्॥१॥  
+For thou, O Indra, art the God whom hymns and praises magnify: Thou blessest those who worship thee.

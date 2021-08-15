@@ -2,5 +2,4 @@
 title = "०३ यदल्पिकास्वऽल्पिका कर्कधूकेवषद्यते"
 
 +++
-यदल्पि॑का॒स्वऽल्पिका॒ कर्क॑धू॒केव॒षद्य॑ते ।  
-वास॑न्ति॒कमि॑व॒ तेज॑नं॒ यन्त्य॒वाता॑य॒ वित्प॑ति ॥३॥  
+Quum parvum, admodum parvum, Ziziphi Jujubae quasi granum in eam incidit, ventris ejus partes interiores, velut verno tempore arundo, extentae videntur.

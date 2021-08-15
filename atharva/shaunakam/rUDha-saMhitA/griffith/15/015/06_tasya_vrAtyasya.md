@@ -2,4 +2,4 @@
 title = "०६ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य ।योऽस्य चतु॒र्थः प्रा॒णो वि॒भूर्नामा॒यं स पव॑मानः ॥६॥  
+His fourth vital breath, called Pervading is this Pavamana.

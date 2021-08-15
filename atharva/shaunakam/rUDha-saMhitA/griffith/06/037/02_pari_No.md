@@ -2,5 +2,4 @@
 title = "०२ परि णो"
 
 +++
-परि॑ णो वृङ्ग्धि शपथ ह्र॒दम॒ग्निरि॑वा॒ दह॑न्।  
-श॒प्तार॒मत्र॑ नो जहि दि॒वो वृ॒क्षमि॑वा॒शनिः॑ ॥२॥  
+Avoid us, Imprecation! as consuming fire avoids the lake. Smite thou the man who curses us, as the sky's lightning strikes the tree.

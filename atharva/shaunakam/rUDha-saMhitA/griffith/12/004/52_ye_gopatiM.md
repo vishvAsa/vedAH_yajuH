@@ -2,5 +2,4 @@
 title = "५२ ये गोपतिं"
 
 +++
-ये गोप॑तिं परा॒णीयाथा॒हुर्मा द॑दा॒ इति॑ ।  
-रु॒द्रस्या॒स्तां ते हे॒तिं परि॑ य॒न्त्यचि॑त्त्या ॥५२॥  
+They who seduce the owner of the Cow and say, Bestow her not. Encounter through their want of sense the missile shot by Rudra's hand.

@@ -2,4 +2,4 @@
 title = "१२ शिवेन मा"
 
 +++
-शि॒वेन॑ मा॒ चक्षु॑षा पश्यतापः शि॒वया॑ त॒न्वोप॑ स्पृशत॒ त्वचं॑ मे ॥१२॥  
+Look on me with a friendly eye, O, Waters, and touch my skin with your auspicious body.

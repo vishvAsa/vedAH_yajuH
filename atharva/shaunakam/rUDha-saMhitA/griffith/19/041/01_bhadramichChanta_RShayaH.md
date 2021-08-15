@@ -2,5 +2,4 @@
 title = "०१ भद्रमिच्छन्त ऋषयः"
 
 +++
-भ॒द्रमि॒च्छन्त॒ ऋष॑यः स्व॒र्विद॒स्तपो॑ दी॒क्षामु॑प॒निषे॑दु॒रग्रे॑ ।  
-ततो॑ रा॒ष्ट्रं बल॒मोज॑श्च जा॒तं तद॑स्मै दे॒वा उ॑प॒संन॑मन्तु ॥१॥
+Desiring bliss, at first, light-finding Rishis began religious rite and holy fervour. Thence energy was born, and might, and kingship: so to this man let gathered Gods incline them.

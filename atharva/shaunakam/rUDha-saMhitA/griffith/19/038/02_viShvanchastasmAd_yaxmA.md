@@ -2,5 +2,4 @@
 title = "०२ विष्वञ्चस्तस्माद् यक्ष्मा"
 
 +++
-विष्व॑ञ्च॒स्तस्मा॒द् यक्ष्मा॑ मृ॒गा अश्वा॑ इवेरते ।  
-यद् गु॑ल्गु॒लु सै॑न्ध॒वं यद् वाप्यासि॑ समु॒द्रिय॑म्॥२॥  
+Consumptions flee apart from it as from a wild beast fly the deer. If thou, O Bdellium, art produced from Sindhu or hast come from sea, The quality of both have I taken to keep this man unscathed.

@@ -2,5 +2,4 @@
 title = "०५ व्यचस्वतीरुर्विया वि"
 
 +++
-व्यच॑स्वतीरुर्वि॒या वि श्र॑यन्तां॒ पति॑भ्यो॒ न जन॑यः॒ शुम्भ॑मानाः ।  
-देवी॑र्द्वारो बृहतीर्विश्वमिन्वा दे॒वेभ्यो॑ भवत सुप्राय॒णाः ॥५॥  
+Let the expansive Doors be widely opened, like wives who deck their beauty for their husbands. Lofty, celestial, all-impelling Portals, admit the Gods and give them easy entrance!

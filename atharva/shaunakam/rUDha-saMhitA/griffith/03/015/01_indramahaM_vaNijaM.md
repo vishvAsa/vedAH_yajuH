@@ -2,5 +2,4 @@
 title = "०१ इन्द्रमहं वणिजं"
 
 +++
-इन्द्र॑म॒हं व॒णिजं॑ चोदयामि॒ स न॒ ऐतु॑ पुरए॒ता नो॑ अस्तु ।  
-नु॒दन्नरा॑तिं परिप॒न्थिनं॑ मृ॒गं स ईशा॑नो धन॒दा अ॑स्तु॒ मह्य॑म्॥१॥  
+I stir and animate the merchant Indra; may he approach and be our guide and leader. Chasing ill-will, wild beast, and highway robber, may he who hath the power give me riches.

@@ -2,5 +2,4 @@
 title = "०३ बण्महाँ असि"
 
 +++
-बण्म॒हाँ अ॑सि सूर्य॒ बडा॑दित्य म॒हाँ अ॑सि ।  
-म॒हस्ते॑ स॒तो म॑हि॒मा प॑नस्यते॒ऽद्धा दे॑व म॒हाँ अ॑सि ॥३॥  
+Verily, Surya, thou art great; truly, Aditya, thou art great. As thou art great indeed thy greatness is admired: yea, verily, great art thou, O God.

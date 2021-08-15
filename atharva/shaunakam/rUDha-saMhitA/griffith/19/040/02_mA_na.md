@@ -2,5 +2,4 @@
 title = "०२ मा न"
 
 +++
-मा न॒ आपो॑ मे॒धां मा ब्रह्म॒ प्र म॑थिष्टन ।  
-सु॒ष्य॒दा यू॒यं स्य॑न्दध्व॒मुप॑हूतो॒ऽहं सु॒मेधा॑ वर्च॒स्वी॥२॥  
+Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your way, strength-giving, invocated: may I be vigor- ous and wise.

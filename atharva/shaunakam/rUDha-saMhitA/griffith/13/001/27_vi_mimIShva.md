@@ -2,5 +2,4 @@
 title = "२७ वि मिमीष्व"
 
 +++
-वि मि॑मीष्व॒ पय॑स्वतीं घृ॒ताचीं॑ दे॒वानां॑ धे॒नुरन॑पस्पृगे॒षा।  
-इन्द्रः॒ सोमं॑ पिबतु॒ क्षेमो॑ अस्त्व॒ग्निः प्र स्तौ॑तु॒ वि मृधो॑ नुदस्व ॥२७॥  
+Prepare the Milky One who teems with fatness: she is the Gods' never-reluctant milch-cow. Indra drink Soma: ours be peace and safety. Let Agni lead the laud, and chase our foemen.

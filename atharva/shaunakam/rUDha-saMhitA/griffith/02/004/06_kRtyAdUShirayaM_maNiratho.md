@@ -2,5 +2,4 @@
 title = "०६ कृत्यादूषिरयं मणिरथो"
 
 +++
-कृ॒त्या॒दूषि॑र॒यं म॒णिरथो॑ अराति॒दूषिः॑ ।  
-अथो॒ सह॑स्वान् जङ्गि॒डः प्र ण॒ आयुं॑षि तारिषत्॥६॥
+This Amulet destroys the might of magic and malignity: So may victorious Jangida prolong the years we have to live.

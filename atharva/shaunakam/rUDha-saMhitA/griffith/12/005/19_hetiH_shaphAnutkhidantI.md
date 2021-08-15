@@ -2,4 +2,4 @@
 title = "१९ हेतिः शफानुत्खिदन्ती"
 
 +++
-हे॒तिः श॒फानु॑त्खि॒दन्ती॑ महादे॒वो॒३ऽपेक्ष॑माणा ॥१९॥  
+An arrow when she draweth up her hooves, and Mahadeva when she looketh around;

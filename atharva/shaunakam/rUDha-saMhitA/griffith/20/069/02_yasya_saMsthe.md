@@ -2,4 +2,4 @@
 title = "०२ यस्य संस्थे"
 
 +++
-यस्य॑ सं॒स्थे न वृ॒ण्वते॒ हरी॑ स॒मत्सु॒ शत्र॑वः । तस्मा॒ इन्द्रा॑य गायत ॥२॥  
+Whose pair of tawny horses yoked in battles foemen challenge not: To him, to Indra, sing your song.

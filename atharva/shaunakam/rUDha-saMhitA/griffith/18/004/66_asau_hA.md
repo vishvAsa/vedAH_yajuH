@@ -2,5 +2,4 @@
 title = "६६ असौ हा"
 
 +++
-अ॒सौ हा इ॒ह ते॒ मनः॒ ककु॑त्सलमिव जा॒मयः॑ ।  
-अ॒भ्येऽनं भूम ऊर्णुहि ॥६६॥  
+Here hast thou left thy heart; O man, as sisters leave their little pet. Do thou, O earth, envelop him.

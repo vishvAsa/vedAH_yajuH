@@ -2,5 +2,4 @@
 title = "०३ यदसावमुतो देवा"
 
 +++
-यद॒साव॒मुतो॑ देवा अदे॒वः संश्चिकी॑र्षति ।  
-मा तस्या॒ग्निर्ह॒व्यं वा॑क्षी॒द्धवं॑ दे॒वा अ॑स्य॒ मोप॑ गु॒र्ममै॒व हव॒मेत॑न ॥३॥  
+Whatever plot from yonder, O ye Gods, that godless man would frame, Let not the Gods come to his call, nor Agni bear his offering up. Come, ye, come hither to my call.

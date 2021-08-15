@@ -2,5 +2,4 @@
 title = "०४ सरूपौ द्वौ"
 
 +++
-सरू॑पौ॒ द्वौ विरू॑पौ॒ द्वौ कृ॒ष्णौ द्वौ रोहि॑तौ॒ द्वौ।  
-ब॒भ्रुश्च॑ ब॒भ्रुक॑र्णश्च॒ गृध्रः॒ कोक॑श्च॒ ते ह॒ताः ॥४॥  
+Worms that are white about the sides, those that are black with black-hued arms, All that show various tints and hues, these worms we utterly destroy.

@@ -2,5 +2,4 @@
 title = "०५ यः प्राणदः"
 
 +++
-यः प्रा॑ण॒दः प्रा॑ण॒दवा॑न् ब॒भूव॒ यस्मै॑ लो॒का घृ॒तव॑न्तः॒ क्षर॑न्ति ।  
-ज्योति॑ष्मतीः प्र॒दिशो॒ यस्य॒ सर्वा॒स्तेनौ॑द॒नेनाति॑ तराणि मृ॒त्युम्॥५॥  
+Which hath become breath-giver, life-bestower; to which the worlds flow full of oil and fatness, To whom belong all the refulgent regions,--I with this Odana will conquer Mrityu.

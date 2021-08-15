@@ -2,5 +2,4 @@
 title = "०३ यो नः"
 
 +++
-यो नः॑ सोमाभि॒दास॑ति॒ सना॑भि॒र्यश्च॒ निष्ट्यः॑ ।  
-अप॒ तस्य॒ बलं॑ तिर म॒हीव॒ द्यौर्व॑ध॒त्मना॑ ॥३॥
+Soma, whoever troubleth us, be he a stranger or akin, Deprive him of the strength he hath: slay him thy-self like mighty Dyaus!

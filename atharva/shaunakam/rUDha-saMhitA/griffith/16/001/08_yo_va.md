@@ -2,4 +2,4 @@
 title = "०८ यो व"
 
 +++
-यो व॑ आपो॒ऽग्निरा॑वि॒वेश॒ स ए॒ष यद् वो॑ घो॒रं तदे॒तत्॥८॥  
+Your Agni who entered into the waters, even he here is that very dread of yours.

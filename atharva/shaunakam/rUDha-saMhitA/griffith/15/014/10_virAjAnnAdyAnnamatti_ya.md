@@ -2,4 +2,4 @@
 title = "१० विराजान्नाद्यान्नमत्ति य"
 
 +++
-वि॒राजा॑न्ना॒द्यान्न॑मत्ति॒ य ए॒वं वेद॑ ॥१०॥  
+He, when he went away to the Gods, went away having become Isana and having made Passion an eater of food. He who hath this knowledge eats food with Passion as food-eater.

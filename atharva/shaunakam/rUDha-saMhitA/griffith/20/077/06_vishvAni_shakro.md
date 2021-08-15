@@ -2,5 +2,4 @@
 title = "०६ विश्वानि शक्रो"
 
 +++
-विश्वा॑नि श॒क्रो नर्या॑णि वि॒द्वान॒पो रि॑रेच॒ सखि॑भि॒र्निका॑मैः ।  
-अश्मा॑नं चि॒द् ये बि॑भि॒दुर्वचो॑भिर्व्र॒जं गोम॑न्तमु॒शिजो॒ वि व॑व्रुः ॥६॥  
+Sakra who knoweth well all human actions hath with his eager friends let loose the waters. They with their songs cleft e'en the mountain open, and willingly disclosed the stall of cattle.

@@ -2,4 +2,4 @@
 title = "०४ सोदक्रामत् साहवनीये"
 
 +++
-सोद॑क्राम॒त् साह॑व॒नीये॒ न्यऽक्रामत्॥४॥  
+She mounted up, the Southward fire she entered. He who knows this becomes a fit performer of sacrifice, meet for honour, shelter-giver.

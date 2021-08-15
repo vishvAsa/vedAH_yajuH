@@ -2,4 +2,4 @@
 title = "०३ यूयं नः"
 
 +++
-यू॒यं नः॑ प्रवतो नपा॒न्मरु॑तः॒ सूर्य॑त्वचसः । शर्म॑ यच्छाथ स॒प्रथाः॑ ॥३॥  
+Thou, Offspring of the waterflood, ye Maruts, with your sun- bright skins, give us protection reaching far.

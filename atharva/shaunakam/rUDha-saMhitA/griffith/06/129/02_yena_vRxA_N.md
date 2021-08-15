@@ -2,5 +2,4 @@
 title = "०२ येन वृक्षाँ"
 
 +++
-येन॑ वृ॒क्षाँ अ॒भ्यभ॑वो॒ भगे॑न॒ वर्च॑सा स॒ह।  
-तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः ॥२॥  
+That splendour and felicity wherewith thou hast excelled the trees Give me therewith a happy fate. Fly and begone, Malignities

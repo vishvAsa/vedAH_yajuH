@@ -2,5 +2,4 @@
 title = "०६ पवस्तैस्त्वा पर्यक्रीणन्"
 
 +++
-प॒वस्तै॑स्त्वा॒ पर्य॑क्रीणन् दू॒र्शेभि॑र॒जिनै॑रु॒त।  
-प्र॒क्रीर॑सि॒ त्वमो॑ष॒धेऽभ्रि॑खाते॒ न रू॑रुपः ॥६॥  
+For coverings men have bartered thee, for skins of deer and woven cloths. Thou art a thing of sale, O Plant. Dug up with mattocks, gripe not thou!

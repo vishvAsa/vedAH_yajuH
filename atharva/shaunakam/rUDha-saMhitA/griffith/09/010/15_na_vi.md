@@ -2,5 +2,4 @@
 title = "१५ न वि"
 
 +++
-न वि जा॑नामि॒ यदि॑वे॒दमस्मि॑ नि॒ण्यः संन॑द्धो॒ मन॑सा चरामि ।  
-य॒दा माग॑न् प्रथम॒जा ऋ॒तस्यादिद् वा॒चो अ॑श्नुवे भा॒गम॒स्याः ॥१५॥  
+What thing I truly am I know not clearly: mysterious, fettered in my mind I wander. When the first-born of holy Law approached me, then of this Speech I first obtain a portion.

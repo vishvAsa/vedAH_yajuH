@@ -2,5 +2,4 @@
 title = "१० नृचक्षा रक्षः"
 
 +++
-नृ॒चक्षा॒ रक्षः॒ परि॑ पश्य वि॒क्षु तस्य॒ त्रीणि॒ प्रति॑ शृणी॒ह्यग्रा॑ ।  
-तस्या॑ग्ने पृ॒ष्टीर्हर॑सा शृणीहि त्रे॒धा मूलं॑ यातु॒धान॑स्य वृश्च ॥१०॥  
+Look on the fiend, 'mid men, as Man-Beholder: rend thou his three extremities in pieces. Demolish with thy flame his ribs, O Agni: the Yatudhana's root destroy thou triply.

@@ -2,5 +2,4 @@
 title = "३८ यो विद्यात्"
 
 +++
-यो वि॒द्यात् सूत्रं॒ वित॑तं॒ यस्मि॒न्नोताः॑ प्र॒जा इ॒माः ।  
-सूत्रं॒ सूत्र॑स्य॒ यो वि॒द्याद् स वि॑द्या॒द् ब्राह्म॑णं म॒हत्॥३७॥  
+I know the drawn-out string, the thread whereon these creatures all are strung. I know the thread's thread also, thus I know the mighty Brah- ma na.

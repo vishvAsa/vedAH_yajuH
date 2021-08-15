@@ -2,5 +2,4 @@
 title = "२२ सुकर्मानः सुरुचो"
 
 +++
-सु॒कर्मा॑नः सु॒रुचो॑ देव॒यन्तो॒ अयो॒ न दे॒वा जनि॑मा॒ धम॑न्तः ।  
-शु॒चन्तो॑ अ॒ग्निं वा॑वृ॒धन्त॒ इन्द्र॑मु॒र्वीं गव्यां॑ परि॒षदं॑ नो अक्रन्॥२२॥  
+Gods, doing holy acts, devout, resplendent, smelting like ore their human generation, Brightening Agni and exalting Indra, they came encompassing the stall of cattle.

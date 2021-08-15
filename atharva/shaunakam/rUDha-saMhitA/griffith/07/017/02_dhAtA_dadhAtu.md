@@ -2,5 +2,4 @@
 title = "०२ धाता दधातु"
 
 +++
-धा॒ता द॑धातु दा॒शुषे॒ प्राचीं॑ जी॒वातु॒क्षि॑ताम्।  
-व॒यं दे॒वस्य॑ धीमहि सुम॒तिं वि॒श्वरा॑धसः ॥२॥  
+May Dhatar grant the worshipper henceforth imperishable life. May we obtain the favour of the God who giveth every boon.

@@ -2,5 +2,4 @@
 title = "०१ ददामीत्येव ब्रूयादनु"
 
 +++
-ददा॒मीत्ये॒व ब्रू॑या॒दनु॑ चैना॒मभु॑त्सत ।  
-व॒शां ब्र॒ह्मभ्यो॒ याच॑द्भ्य॒स्तत् प्र॒जाव॒दप॑त्यवत्॥१॥  
+Give the gift, shall be his word: and straightway they have bound the Cow For Brahman priests who beg the boon. That bringeth sons and progeny.

@@ -2,5 +2,4 @@
 title = "२० आहार्षमविदं त्वा"
 
 +++
-आहा॑र्ष॒मवि॑दं त्वा॒ पुन॒रागाः॒ पुन॑र्णवः ।  
-सर्वा॑ङ्ग॒ सर्वं॑ ते॒ चक्षुः॒ सर्व॒मायु॑श्च ते ऽविदम्॥२०॥  
+I have attained and captured thee: thou hast returned restored to youth. Perfect in body: so have I found all thy sight and all thy life.

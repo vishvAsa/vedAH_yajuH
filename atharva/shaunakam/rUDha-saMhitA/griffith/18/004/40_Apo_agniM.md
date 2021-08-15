@@ -2,5 +2,4 @@
 title = "४० आपो अग्निं"
 
 +++
-आपो॑ अ॒ग्निं प्र हि॑णुत पि॒तॄंरुपे॒मं य॒ज्ञं पि॒तरो॑ मे जुषन्ताम्।  
-आसी॑ना॒मूर्ज॒मुप॒ ये सच॑न्ते॒ ते नो॑ र॒यिं सर्व॑वीरं॒ नि य॑च्छान्॥४०॥  
+Waters, send Agni forward to the Fathers: let them accept the sacrifice I offer. May they who follow Vigour that abideth there send us down wealth with full store of heroes.

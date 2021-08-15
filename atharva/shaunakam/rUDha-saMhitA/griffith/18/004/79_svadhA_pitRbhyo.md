@@ -2,4 +2,4 @@
 title = "७९ स्वधा पितृभ्यो"
 
 +++
-स्व॒धा पि॒तृभ्यो॑ अन्तरिक्ष॒सद्भ्यः॑ ॥७९॥  
+Hail to the Fathers who inhabit the firmament!

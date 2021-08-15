@@ -2,5 +2,4 @@
 title = "४४ अग्निष्वात्ताः पितर"
 
 +++
-अग्नि॑ष्वात्ताः पितर॒ एह ग॑च्छत॒ सदः॑सदः सदत सुप्रणीतयः ।  
-अ॒त्तो ह॒वींषि॒ प्रय॑तानि ब॒र्हिषि॑ र॒यिं च॑ नः॒ सर्व॑वीरं दधात ॥४४॥  
+Fathers whom Agni's flames have tasted, come ye nigh: in per- fect order take ye each your proper place. Eat sacrificial food presented on the grass: grant riches with a multitude of hero sons.

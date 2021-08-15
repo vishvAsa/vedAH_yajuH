@@ -2,5 +2,4 @@
 title = "२५ अरिप्रा आपो"
 
 +++
-अ॒रि॒प्रा आपो॒ अप॑ रि॒प्रम॒स्मत्।  
-प्रास्मदेनो॑ दुरि॒तं सु॒प्रती॑काः॒ प्र दु॒ष्वप्न्यं॒ प्र मलं॑ वहन्तु ॥२४॥  
+Thou art the step of Vishnu, rival-slayer, sharpened by earth, aglow with fire of Agni, Earth have I ranged: from earth we bar him who hates us and whom we hate.

@@ -2,4 +2,4 @@
 title = "०४ युञ्जन्ति ब्रध्नमरुषं"
 
 +++
-यु॒ञ्जन्ति॑ ब्र॒ध्नम॑रु॒षं चर॑न्तं॒ परि॑ त॒स्थुषः॑ । रोच॑न्ते रोच॒ना दि॒वि॥४॥  
+They who stand round him as he moves harness the bright, the ruddy steed: The lights are shining in the sky.

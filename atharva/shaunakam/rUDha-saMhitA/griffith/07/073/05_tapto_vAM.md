@@ -2,5 +2,4 @@
 title = "०५ तप्तो वां"
 
 +++
-त॒प्तो वां॑ घ॒र्मो न॑क्षतु॒ स्वहो॑ता॒ प्र वा॑मध्व॒र्युश्च॑रतु॒ पय॑स्वान्।  
-मधो॑र्दु॒ग्धस्या॑श्विना त॒नाया॑ वी॒तं पा॒तं पय॑स उ॒स्रिया॑याः ॥५॥  
+Let the warm drink approach you with its Hotar-priest: let the Adhvaryu come to you with store of milk. Come, O ye Asvins, taste the meath that hath been drained, drink of the milk provided by this radiant cow.

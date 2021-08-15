@@ -2,5 +2,4 @@
 title = "०२ इन्द्राय भागं"
 
 +++
-इन्द्रा॑य भा॒गं परि॑ त्वा नयाम्य॒स्मिन् य॒ज्ञे यज॑मानाय सू॒रिम्।  
-ये नो॑ द्वि॒षन्त्यनु तान् र॑भ॒स्वाना॑गसो॒ यज॑मानस्य वी॒राः ॥२॥  
+I bring thee hither as a share for Indra; prince, at this sacrifice,. for him who worships. Grasp firmly from behind all those who hate us: so let the sacri- ficer's men be sinless.

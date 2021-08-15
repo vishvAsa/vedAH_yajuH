@@ -2,6 +2,4 @@
 title = "०७ आ मा"
 
 +++
-आ मा॑ पु॒ष्टे च॒ पोषे॑ च॒ रात्रि॑ दे॒वानां॑ सुम॒तौ स्या॑म ।  
-पू॒र्णा द॑र्वे॒ परा॑ पत॒ सुपू॑र्णा॒ पुन॒रा प॑त ।  
-सर्वान् य॒ज्ञान्त्सं॑भुञ्ज॒तीषमूर्जं॑ न॒ आ भ॑र ॥७॥  
+Come thou to nourish me and make me prosper. Night! may the favour of the Gods attend us. Filled full, O Ladle, fly thou forth. Completely filled fly back again. Serving at every sacrifice bring to us food and energy.

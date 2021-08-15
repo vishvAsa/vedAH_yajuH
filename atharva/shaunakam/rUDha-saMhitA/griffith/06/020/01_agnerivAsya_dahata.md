@@ -2,5 +2,4 @@
 title = "०१ अग्नेरिवास्य दहत"
 
 +++
-अ॒ग्नेरि॑वास्य॒ दह॑त एति शु॒ष्मिण॑ उ॒तेव॑ म॒त्तो वि॒लप॒न्नपा॑यति ।  
-अ॒न्यम॒स्मदि॑च्छतु॒ कं चि॑दव्र॒तस्तपु॑र्वधाय॒ नमो॑ अस्तु त॒क्मने॑ ॥१॥  
+He goes away as 'twere from this fierce burning fire, inebriated and lamenting he departs. Let him, the lawless, seek another and not us. Worship be paid to Fever armed with fiery heat.

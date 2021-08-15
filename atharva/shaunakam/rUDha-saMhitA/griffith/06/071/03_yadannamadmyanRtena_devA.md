@@ -2,5 +2,4 @@
 title = "०३ यदन्नमद्म्यनृतेन देवा"
 
 +++
-यदन्न॒मद्म्यनृ॑तेन देवा दा॒स्यन्नदा॑स्यन्नु॒त सं॑गृ॒णामि॑ ।  
-वै॒श्वा॒न॒रस्य॑ मह॒तो म॑हि॒म्ना शि॒वं मह्यं॒ मधु॑मद॒स्त्वन्न॑म्॥३॥
+What food I eat unjustly, Gods! or, doubtful between bestow- ing and refusing, swallow, Through greatness of Vaisvanara the mighty may that same food be sweet to me and blessed!

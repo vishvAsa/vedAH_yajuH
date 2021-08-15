@@ -2,5 +2,4 @@
 title = "०४ तदिदास भुवनेषु"
 
 +++
-तदिदा॑स॒ भुव॑नेषु॒ ज्येष्ठं॒ यतो॑ ज॒ज्ञ उ॒ग्रस्त्वे॒षनृ॑म्णः ।  
-स॒द्यो ज॑ज्ञा॒नो नि रि॑णाति॒ शत्रू॒ननु॒ यदे॑नं॒ मद॑न्ति॒ विश्व॒ ऊमाः॑ ॥४॥  
+In all the worlds That was the best and highest whence sprang the mighty God, of splendid valour. As soon as born he overcomes his foemen, he in whom all who lend him aid are joyful.

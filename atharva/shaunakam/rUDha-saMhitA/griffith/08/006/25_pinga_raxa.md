@@ -2,5 +2,4 @@
 title = "२५ पिङ्ग रक्ष"
 
 +++
-पिङ्ग॒ रक्ष॒ जाय॑मानं॒ मा पुमां॑सं॒ स्त्रियं॑ क्रन्।  
-आ॒ण्डादो॒ गर्भा॒न्मा द॑भ॒न् बाध॑स्वे॒तः कि॑मी॒दिनः॑ ॥२५॥  
+Pinga, preserve the babe at birth, make not the boy a female child. Let not Egg-eaters mar the germs: drive the Kimidins far away.

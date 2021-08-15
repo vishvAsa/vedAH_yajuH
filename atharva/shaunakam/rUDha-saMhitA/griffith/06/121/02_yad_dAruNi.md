@@ -2,5 +2,4 @@
 title = "०२ यद् दारुणि"
 
 +++
-यद् दारु॑णि ब॒ध्यसे॒ यच्च॒ रज्ज्वां॒ यद् भूम्यां॑ ब॒ध्यसे॒ यच्च॑ वा॒चा।  
-अ॒यं तस्मा॒द् गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम्॥२॥  
+If thou art bound with cord or tied to timber, fixt in the earth, or by a word imprisoned, Our Agni Garhapatya here shall free thee, and lead thee up into the world of virtue.

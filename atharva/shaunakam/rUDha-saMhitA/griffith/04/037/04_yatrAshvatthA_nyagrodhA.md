@@ -2,5 +2,4 @@
 title = "०४ यत्राश्वत्था न्यग्रोधा"
 
 +++
-यत्रा॑श्व॒त्था न्य॒ग्रोधा॑ महावृ॒क्षाः शि॑ख॒ण्डिनः॑ ।  
-तत् परे॑ताप्सरसः॒ प्रति॑बुद्धा अभूतन ॥४॥  
+Where great trees are, Asvatthas and Nyagrodhas with their leafy crests, There where your swings are green and bright, and lutes and cymbals sound in tune, 'Ye have become attentive since the Apsarases have past away.

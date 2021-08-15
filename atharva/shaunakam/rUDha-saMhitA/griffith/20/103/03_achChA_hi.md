@@ -2,5 +2,4 @@
 title = "०३ अच्छा हि"
 
 +++
-अच्छा॒ हि त्वा॑ सहसः सूनो अङ्गिरः॒ स्रुच॒श्चर॑न्त्यध्व॒रे।  
-ऊ॒र्जो नपा॑तं घृ॒तके॑शमीमहे॒ऽग्निं य॒ज्ञेषु॑ पू॒र्व्यम्॥३॥
+For unto thee, O Angiras, O Son of Strength, move ladles in the sacrifice, To Agni, Child of Force, whose locks drop oil, we seek, fore- most in sacrificial rites.

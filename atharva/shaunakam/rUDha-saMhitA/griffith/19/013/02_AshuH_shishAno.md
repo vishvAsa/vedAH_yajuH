@@ -2,5 +2,4 @@
 title = "०२ आशुः शिशानो"
 
 +++
-आ॒शुः शिशा॑नो वृष॒भो न भी॒मो घ॑नाघ॒नः क्षोभ॑णश्चर्षणी॒नाम्।  
-सं॒क्रन्द॑नोऽनिमि॒ष ए॑कवी॒रः श॒तं सेना॑ अजयत् सा॒कमिन्द्रः॑ ॥२॥  
+Swift, like a dread bull sharpening his weapons, rapidly striking, stirring up the people, Loud shouting, vigilant, the one sole Hero, Indra subdued a hundred hosts together.

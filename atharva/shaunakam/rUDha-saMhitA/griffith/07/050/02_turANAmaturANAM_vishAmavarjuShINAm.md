@@ -2,5 +2,4 @@
 title = "०२ तुराणामतुराणां विशामवर्जुषीणाम्"
 
 +++
-तु॒राणा॒मतु॑राणां वि॒शामव॑र्जुषीणाम्।  
-स॒मैतु॑ वि॒श्वतो॒ भगो॑ अन्तर्ह॒स्तं कृ॒तं मम॑ ॥२॥  
+From every side, from hale and sick, impotent to defend them- selves, May all the fortune of the folk as winnings pass into my hands.

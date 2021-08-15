@@ -2,6 +2,4 @@
 title = "०३ यथा शेपो"
 
 +++
-यथा॒ शेपो॑ अ॒पाया॑तै स्त्री॒षु चास॒दना॑वयाः ।  
-अ॒व॒स्थस्य॑ क्न॒दीव॑तः शाङ्-कु॒रस्य॑ नितो॒दिनः॑ ।  
-यदात॑त॒मव॒ तत् त॑नु॒ यदुत्त॑तं॒ नि तत् त॑नु ॥३॥
+Ut virga abeat et feminis innocua fiat, (virga) membri humidi, membri quod verberat penetratque, id quod tentum est laxa, id quod sursum tentum est deorsum tende.

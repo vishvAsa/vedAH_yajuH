@@ -2,4 +2,4 @@
 title = "०२ अमूर्या उप"
 
 +++
-अ॒मूर्या उप॒ सूर्ये॒ याभि॑र्वा॒ सूर्यः॑ स॒ह। ता नो॑ हिन्वन्त्वध्व॒रम्॥२॥  
+May yonder Waters near the Sun, or those wherewith the Sun is joined, Send forth this sacrifice of ours.

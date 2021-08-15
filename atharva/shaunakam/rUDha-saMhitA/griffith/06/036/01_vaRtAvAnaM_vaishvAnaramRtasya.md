@@ -2,5 +2,4 @@
 title = "०१ वऋतावानं वैश्वानरमृतस्य"
 
 +++
-वऋ॒तावा॑नं वैश्वान॒रमृ॒तस्य॒ ज्योति॑ष॒स्पति॑म्।  
-अज॑स्रं घ॒र्ममी॑महे ॥१॥  
+Holy Vaisvanara we seek, the Lord of light and endless life, the burning One who fadeth not.

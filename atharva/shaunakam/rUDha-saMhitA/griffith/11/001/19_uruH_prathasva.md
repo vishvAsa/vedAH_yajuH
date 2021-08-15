@@ -2,5 +2,4 @@
 title = "१९ उरुः प्रथस्व"
 
 +++
-उ॒रुः प्र॑थस्व मह॒ता म॑हि॒म्ना स॒हस्र॑पृष्ठः सुकृ॒तस्य॑ लो॒के।  
-पि॒ता॒म॒हाः पि॒तरः॑ प्र॒जोप॒जाहं प॒क्ता प॑ञ्चद॒शस्ते॑ अस्मि ॥१९॥  
+Expand thyself abroad in all thy greatness, with thousand Prish- thas, in the world of virtue. Grandfathers, fathers, children, and descendants, fifteenth am I to thee when I have dressed it.

@@ -2,5 +2,4 @@
 title = "०१ मा नो"
 
 +++
-मा नो॑ विदन् विव्या॒धिनो॒ मो अ॑भिव्या॒धिनो॑ विदन्।  
-आ॒राच्छ॑र॒व्या ऽ अ॒स्मद्विषू॑चीरिन्द्र पातय ॥१॥  
+Let not the piercers find us, nor let those who wound discover us. O Indra, make the arrows fall, turned, far from us, to every side.

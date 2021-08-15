@@ -2,5 +2,4 @@
 title = "७५ प्र बुध्यस्व"
 
 +++
-प्र बु॑ध्यस्व सु॒बुधा॒ बुध्य॑माना दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ।  
-गृ॒हान् ग॑च्छ गृ॒हप॑त्नी॒ यथासो॑ दी॒र्घं त॒ आयुः॑ सवि॒ता कृ॑णोतु ॥७५॥
+Wake to long life, watchful and understanding, yea, to a life shall last a hundred autumns Enter the house to be the household's mistress. A long long life let Savitar vouchsafe thee.

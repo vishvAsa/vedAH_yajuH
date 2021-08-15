@@ -2,5 +2,4 @@
 title = "०१ ब्रह्मणा ते"
 
 +++
-ब्रह्म॑णा ते ब्रह्म॒युजा॑ युनज्मि॒ हरी॒ सखा॑या सध॒माद॑ आ॒शू।  
-स्थि॒रं रथं॑ सु॒खमि॑न्द्राधि॒तिष्ठ॑न् प्रजा॒नन् वि॒द्वां॑ उप॑ याहि॒ सोम॑म्॥१॥
+Those who are yoked by prayer with prayer I harness, the two. fleet friendly Bays who joy together. Mounting thy firm and easy car, O Indra, wise and all-knowing come thou to the Soma.

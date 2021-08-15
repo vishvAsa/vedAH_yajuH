@@ -2,5 +2,4 @@
 title = "६४ ब्रह्मापरं युज्यतां"
 
 +++
-ब्रह्माप॑रं यु॒ज्यतां॒ ब्रह्म॒ पूर्वं॒ ब्रह्मा॑न्त॒तो म॑ध्य॒तो ब्रह्म॑ स॒र्वतः॑ ।  
-अ॒ना॒व्या॒धां दे॑वपु॒रां प्र॒पद्य॑ शि॒वा स्यो॒ना प॑तिलो॒के वि रा॑ज ॥६४॥
+Let prayer he offered up before and after, prayer in the middle, lastly, all around her. Reaching the Gods' inviolable castle shine in thy lord's world gentle and auspicious.

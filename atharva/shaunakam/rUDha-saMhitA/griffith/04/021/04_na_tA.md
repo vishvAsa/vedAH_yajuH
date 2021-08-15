@@ -2,5 +2,4 @@
 title = "०४ न ता"
 
 +++
-न ता अर्वा॑ रे॒णुक॑काटोऽश्नुते॒ न सं॑स्कृत॒त्रमुप॑ यन्ति॒ ता अ॒भि।  
-उ॒रु॒गा॒यमभ॑यं॒ तस्य॒ ता अनु॒ गावो॒ मर्त॑स्य॒ वि च॑रन्ति॒ यज्व॑नः ॥४॥  
+The charger with his dusty brow o'ertakes them not, and never to the shambles do they take their way. These Cows, the cattle of the pious worshipper, roam over wide- spread pasture where no danger is.

@@ -2,5 +2,4 @@
 title = "४० अप तस्य"
 
 +++
-अप॒ तस्य॑ ह॒तं तमो॒ व्यावृ॑त्तः॒ स पा॒प्मना॑ ।  
-सर्वा॑णि॒ तस्मि॒न् ज्योतीं॑षि॒ यानि॒ त्रीणि॑ प्र॒जाप॑तौ ॥४०॥  
+Darkness is chased away from him: he is exempt from all dist- ress. In him are all the lights, the three abiding in Prajapati.

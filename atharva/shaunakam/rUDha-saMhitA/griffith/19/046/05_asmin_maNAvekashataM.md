@@ -2,5 +2,4 @@
 title = "०५ अस्मिन् मणावेकशतं"
 
 +++
-अ॒स्मिन् म॒णावेक॑शतं वी॒र्याणि स॒हस्रं॑ प्रा॒णा अ॑स्मि॒न्नस्तृ॑ते ।  
-व्या॒घ्रः शत्रू॑न॒भि ति॑ष्ठ॒ सर्वा॒न् यस्त्वा॑ पृत॒न्यादध॑रः॒ सो अ॒स्त्वस्तृ॑तस्त्वा॒भि र॑क्षतु॥५॥  
+One and a hundred manly powers, a thousand lives hath this Amulet, unconquered ever. Go forth a tiger, strike down all thy foemen: let him who would oppose fall low beneath thee. Invincible, let it guard thee well.

@@ -2,5 +2,4 @@
 title = "३२ तस्माद् वै"
 
 +++
-तस्मा॒द् वै विद्वान् पुरु॑षमि॒दं ब्रह्मेति॑ मन्यते ।  
-सर्वा॒ ह्यऽस्मिन् दे॒वता॒ गावो॑ गो॒ष्ठ इ॒वास॑ते ॥३२॥  
+Therefore whoever knoweth man regardeth him as Brahman's self: For all the Deities abide in him as cattle in their pen.

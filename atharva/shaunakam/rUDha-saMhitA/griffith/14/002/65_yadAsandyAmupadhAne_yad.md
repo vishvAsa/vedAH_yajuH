@@ -2,5 +2,4 @@
 title = "६५ यदासन्द्यामुपधाने यद्"
 
 +++
-यदा॑स॒न्द्यामु॑प॒धाने॒ यद् वो॑प॒वास॑ने कृ॒तम्।  
-वि॒वा॒हे कृ॒त्यां यां च॒क्रुरा॒स्नाने॒ तां नि द॑ध्मसि ॥६५॥  
+Whatever magic hath been wrought on cushion, chair, or canopy. Each spell to mar the wedding rites, all this we throw into the bath.

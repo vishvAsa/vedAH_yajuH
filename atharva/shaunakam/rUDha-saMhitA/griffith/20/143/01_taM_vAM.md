@@ -2,5 +2,4 @@
 title = "०१ तं वां"
 
 +++
-तं वां॒ रथं॑ व॒यम॒द्या हु॑वेम पृथु॒ज्रय॑मश्विना॒ संग॑तिं॒ गोः ।  
-यः सू॒र्यां वह॑ति वन्धुरा॒युर्गिर्वा॑हसं पुरु॒तमं॑ वसू॒युम्॥१॥  
+We invocate this day your car, far-spreading, O Asvins, even the gathering of the sunlight, Car praised in hymns, most ample, rich in treasure, fitted with seats, the car that beareth Surya.

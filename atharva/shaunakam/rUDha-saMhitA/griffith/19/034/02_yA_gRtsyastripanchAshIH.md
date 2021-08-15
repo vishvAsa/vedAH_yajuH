@@ -2,5 +2,4 @@
 title = "०२ या गृत्स्यस्त्रिपञ्चाशीः"
 
 +++
-या गृत्स्य॑स्त्रिपञ्चा॒शीः श॒तं कृ॑त्या॒कृत॑श्च॒ ये।  
-सर्वा॑न् विनक्तु॒ तेज॑सोऽर॒सां ज॑ङ्गि॒डस्क॑रत्॥२॥  
+Dice-witcheries, the fifty-threes, the hundred witchcraft-practi- sers, All these may Jangida make weak, bereft of their effectual force.

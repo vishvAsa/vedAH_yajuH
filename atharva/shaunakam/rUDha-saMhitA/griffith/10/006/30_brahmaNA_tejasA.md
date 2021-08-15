@@ -2,5 +2,4 @@
 title = "३० ब्रह्मणा तेजसा"
 
 +++
-ब्रह्म॑णा॒ तेज॑सा स॒ह प्रति॑ मुञ्चामि मे शि॒वम्।  
-अ॒स॒प॒त्नः स॑पत्न॒हा स॒पत्ना॒न् मेऽध॑रां अकः ॥३०॥  
+I bind on me my happy fate with holy prayer and energy. Foeless destroyer of the foe, it hath subdued mine enemies.

@@ -2,5 +2,4 @@
 title = "०३ अमूनश्वत्थ निः"
 
 +++
-अ॒मून॑श्वत्थ॒ निः शृ॑णीहि॒ खादा॒मून् ख॑दिराजि॒रम्।  
-ता॒जद्भङ्ग॑ इव भजन्तां॒ हन्त्वे॑नान् वध॑को व॒धैः ॥३॥  
+Asvattha, rend those men; do thou devour them quickly, Khadira! Like reeds let them be broken through, down-smitten by a lifted rush.

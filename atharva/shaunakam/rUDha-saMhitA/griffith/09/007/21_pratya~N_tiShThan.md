@@ -2,4 +2,4 @@
 title = "२१ प्रत्यङ् तिष्ठन्"
 
 +++
-प्र॒त्यङ् तिष्ठ॑न् धा॒तोद॒ङ् तिष्ठ॑न्त्सवि॒ता॥२१॥  
+Standing westwards he is Dhatar, standing northwards Savitar.

@@ -2,4 +2,4 @@
 title = "०२ व्य१न्तरिक्षमतिरन्मदे सोमस्य"
 
 +++
-व्य॑१न्तरि॑क्षमतिर॒न्मदे॒ सोम॑स्य रोच॒ना। इन्द्रो॒ यदभि॑नद् व॒लम्॥२॥  
+In Soma's ecstasy Indra spread the firmament and realms of light. When he cleft Vala limb from limb.

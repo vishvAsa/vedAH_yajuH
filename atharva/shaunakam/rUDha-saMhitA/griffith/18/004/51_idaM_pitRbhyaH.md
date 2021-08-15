@@ -2,5 +2,4 @@
 title = "५१ इदं पितृभ्यः"
 
 +++
-इ॒दं पि॒तृभ्यः॒ प्र भ॑रामि ब॒र्हिर्जी॒वं दे॒वेभ्य॒ उत्त॑रं स्तृणामि ।  
-तदा रो॑ह पुरुष॒ मेध्यो॒ भव॒न् प्रति॑ त्वा जानन्तु पि॒तरः॒ परे॑तम्॥५१॥  
+I bring this clipped grass hither for the Fathers: grass living,. higher, for the Gods I scatter. Mount this, O man, as victim: let the Fathers recognize thee: when thou hast travelled yonder.

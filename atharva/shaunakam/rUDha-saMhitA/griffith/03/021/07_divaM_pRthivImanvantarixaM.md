@@ -2,5 +2,4 @@
 title = "०७ दिवं पृथिवीमन्वन्तरिक्षं"
 
 +++
-दिवं॑ पृथि॒वीमन्व॒न्तरि॑क्षं॒ ये वि॒द्युत॑मनुसं॒चर॑न्ति ।  
-ये दि॒क्ष्व॑१न्तर्ये वाते॑ अ॒न्तस्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत्॥७॥  
+All fiery flames that follow after lightning, flashing o'er earth, through firmament and heaven, All that are in the wind and skyey regions--to all these Fires be this oblation offered.

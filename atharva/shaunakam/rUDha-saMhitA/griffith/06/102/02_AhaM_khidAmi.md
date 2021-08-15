@@ -2,5 +2,4 @@
 title = "०२ आहं खिदामि"
 
 +++
-आहं खि॑दामि ते॒ मनो॑ राजा॒श्वः पृ॒ष्ट्यामि॑व ।  
-रे॒ष्मच्छि॑न्नं॒ यथा॒ तृणं॒ मयि॑ ते वेष्टतां॒ मनः॑ ॥२॥  
+I, as the shaft-horse draws the mare beside him, draw thee to myself. Like grass that storm and wind have rent, so be thy mind at- tached to me!

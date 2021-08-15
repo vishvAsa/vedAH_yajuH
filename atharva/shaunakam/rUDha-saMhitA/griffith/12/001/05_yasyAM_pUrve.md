@@ -2,5 +2,4 @@
 title = "०५ यस्यां पूर्वे"
 
 +++
-यस्यां॒ पूर्वे॑ पूर्वज॒ना वि॑चक्रि॒रे यस्यां॑ दे॒वा असु॑रान॒भ्यव॑र्तयन्।  
-गवा॒मश्वा॑नां॒ वय॑सश्च वि॒ष्ठा भगं॒ वर्चः॑ पृथि॒वी नो॑ दधातु ॥५॥  
+On whom the men of old before us battled, on whom the Gods attacked the hostile demons, The varied home of bird, and kine and horses, this Prithivi vouchsafe us luck and splendour!

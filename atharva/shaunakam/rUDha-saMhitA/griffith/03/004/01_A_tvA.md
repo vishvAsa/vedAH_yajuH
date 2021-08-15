@@ -2,5 +2,4 @@
 title = "०१ आ त्वा"
 
 +++
-आ त्वा॑ गन् रा॒ष्ट्रं स॒ह वर्च॒सोदि॑हि प्रा॑ङ्वि वि॒शां पति॑रेक॒राट् त्वं वि रा॑ज ।  
-सर्वा॑स्त्वा राजन् प्र॒दिशो॑ ह्वयन्तूप॒सद्यो॑ नम॒स्योऽ भवे॒ह॥१॥  
+To thee hath come the kingship with its splendour: On! shine as lord, sole ruler of the people. King! let all regions of the heavens invite thee. Here let men wait on thee and bow before thee.

@@ -2,5 +2,4 @@
 title = "१५ कण्वः कक्षीवान्"
 
 +++
-कण्वः॑ क॒क्षीवा॑न् पुरुमी॒ढो अ॒गस्त्यः॑ श्या॒वाश्वः॒ सोभ॑र्यर्च॒नानाः॑ ।  
-वि॒श्वामि॑त्रो॒ऽयं ज॒मद॑ग्नि॒रत्रि॒रव॑न्तु नः क॒श्यपो॑ वा॒मदे॑वः ॥१५॥  
+Kanva, Kakshivan, Purumidha, Agastya, Syavasva Sobhari, and Archananas, This Visvamitra, Jamadagni, Atri, Kasyapa, Vamadeva be our helpers!

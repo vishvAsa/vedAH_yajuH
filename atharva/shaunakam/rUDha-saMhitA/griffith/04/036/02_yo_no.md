@@ -2,5 +2,4 @@
 title = "०२ यो नो"
 
 +++
-यो नो॒ दिप्स॒ददि॑प्सतो॒ दिप्स॑तो॒ यश्च॒ दिप्स॑ति ।  
-वै॒श्वा॒न॒रस्य॒ दंष्ट्र॑योर॒ग्नेरपि॑ दधामि॒ तम्॥२॥  
+Him who, unharmed, would injure us, and him who, harmed, would do us harm, I lay between the doubled fangs of Agni, of Vaisvanara.

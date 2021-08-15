@@ -2,4 +2,4 @@
 title = "१९ बृहच्च रथन्तरं"
 
 +++
-बृ॒हच्च॑ रथन्त॒रं च॒ द्वौ स्तना॒वास्तां॑ यज्ञाय॒ज्ञियं॑ च वामदे॒व्यं च॒ द्वौ॥६॥(१३)  
+She mounted up, she came unto the Fathers: they killed her: in a month she re-existed. Hence men give monthly offerings to the Fathers: who knows this, knows the path which they have trodden.

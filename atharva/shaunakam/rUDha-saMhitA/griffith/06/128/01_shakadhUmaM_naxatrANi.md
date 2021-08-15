@@ -2,5 +2,4 @@
 title = "०१ शकधूमं नक्षत्राणि"
 
 +++
-श॒क॒धूमं॒ नक्ष॑त्राणि॒ यद् राजा॑न॒मकु॑र्वत ।  
-भ॒द्रा॒हम॑स्मै॒ प्राय॑च्छन्नि॒दं रा॒ष्ट्रमसा॒दिति॑ ॥१॥  
+What time the heavenly bodies chose the Weather Prophet as their King, They brought him favouring weather, and, Let this be his do- main, they said.

@@ -2,5 +2,4 @@
 title = "०४ अधराञ्चं प्र"
 
 +++
-अ॒ध॒राञ्चं॒ प्र हि॑णोमि॒ नमः॑ कृ॒त्वा त॒क्मने॑ ।  
-श॒क॒म्भ॒रस्य॑ मुष्टि॒हा पुन॑रेतु महावृ॒षान्॥४॥  
+When I have paid obeisance to Fever I send him downward forth. So let Sakambhara's boxer go again to the Mahavrishas.

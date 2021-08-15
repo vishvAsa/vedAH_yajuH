@@ -2,4 +2,4 @@
 title = "०३ द्विषते तत्"
 
 +++
-द्वि॒ष॒ते तत् परा॑ वह॒ शप॑ते॒ तत् परा॑ वह ॥३॥  
+Bear that away to him who hates, away to him who curses us.

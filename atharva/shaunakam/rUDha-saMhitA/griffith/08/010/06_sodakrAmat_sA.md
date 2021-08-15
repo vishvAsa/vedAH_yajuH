@@ -2,4 +2,4 @@
 title = "०६ सोदक्रामत् सा"
 
 +++
-सोद॑क्राम॒त् सा द॑क्षिणा॒ग्नौ न्यऽक्रामत्॥६॥  
+She mounted up, she passed within the meeting. He who knows this becomes fit for the meeting, and to his hall of meeting come the people.

@@ -2,5 +2,4 @@
 title = "२९ सं विशन्त्विह"
 
 +++
-सं वि॑शन्त्वि॒ह पि॒तरः॒ स्वा नः॑ स्यो॒नं कृ॒ण्वन्तः॑ प्रति॒रन्त॒ आयुः॑ ।  
-तेभ्यः॑ शकेम ह॒विषा॒ नक्ष॑माणा॒ ज्योग् जीव॑न्तः श॒रदः॑ पुरू॒चीः ॥२९॥  
+Bringing delight, prolonging our existence, here let our own, the Fathers, dwell together. Coming with sacrifice may we assist them, living long lives through many autumn seasons.

@@ -2,5 +2,4 @@
 title = "०२ ग्रीष्मो हेमन्तः"
 
 +++
-ग्री॒ष्मो हे॑म॒न्तः शिशि॑रो वस॒न्तः श॒रद् व॒र्षाः स्वि॒ते नो॑ दधात ।  
-आ नो॒ गोषु॒ भज॒ता प्र॒जायां॑ निवा॒त इद् वः॑ शर॒णे स्या॑म ॥२॥  
+Maintain us in well-being Summer, Winter Dew-time and Spring, Autumn, and Rainy Season Give us our share of cattle and of Children. May we enjoy your unassailed protection.

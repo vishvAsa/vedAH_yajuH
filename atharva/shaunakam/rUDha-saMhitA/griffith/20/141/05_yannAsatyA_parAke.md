@@ -2,5 +2,4 @@
 title = "०५ यन्नासत्या पराके"
 
 +++
-यन्ना॑सत्या परा॒के अ॑र्वा॒के अस्ति॑ भेष॒जम्।  
-तेन॑ नू॒नं वि॑म॒दाय॑ प्रचेतसा छ॒र्दिर्व॒त्साय॑ यच्छतम्॥५॥
+Whatever healing balm is yours, Nasatyas near or far away, Therewith, great Sages, grant a home to Vatsa and to Vimada.

@@ -2,5 +2,4 @@
 title = "०४ उत्तराहमुत्तर उत्तरेदुत्तराभ्यः"
 
 +++
-उत्त॑रा॒हमु॑त्तर॒ उत्त॒रेदुत्त॑राभ्यः ।  
-अ॒धः स॒पत्नी॒ या ममाध॑रा॒ साध॑राभ्यः ॥४॥  
+Stronger am I, O stronger one, yea, mightier than the mightier; Beneath me be my rival wife, down, lower than the lowest dames!

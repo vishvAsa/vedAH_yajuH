@@ -2,4 +2,4 @@
 title = "०१ भ्रातृव्यक्षयणमसि भ्रातृव्यचातनं"
 
 +++
-भ्रा॒तृ॒व्य॒क्षय॑णमसि भ्रातृव्य॒चात॑नं मे दाः॒ स्वाहा॑ ॥१॥  
+Destruction of the foe art thou, give me the scaring of my foes. All hail!

@@ -2,5 +2,4 @@
 title = "०२ स नो"
 
 +++
-स नो॑ रक्षतु जङ्गि॒डो ध॑नपा॒लो धने॑व ।  
-दे॒वा यं च॒क्रुर्ब्रा॑ह्म॒णाः प॑रि॒पाण॑मराति॒हम्॥२॥  
+So may this Jangida guard us, even as a treasurer guards wealth,. Even this which Gods and Brahmans made a malice-quelling sure defence.

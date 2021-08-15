@@ -2,5 +2,4 @@
 title = "०३ संक्रन्दनेनानिमिषेण जिष्णुनाऽयोध्येन"
 
 +++
-सं॒क्रन्द॑नेनानिमि॒षेण॑ जि॒ष्णुना॑ऽयो॒ध्येन॑ दुश्च्यव॒नेन॑ धृ॒ष्णुना॑ ।  
-तदिन्द्रे॑ण जयत॒ तत् स॑हध्वं॒ युधो॑ नर॒ इषु॑हस्तेन॒ वृष्णा॑ ॥३॥  
+With him loud-roaring, ever watchful, victor bold, hard to over- throw, whom none may vanquish, Indra the strong whose hand bears arrows, conquer, ye heroes now, now vanquish in the combat.

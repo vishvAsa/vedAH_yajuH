@@ -2,5 +2,4 @@
 title = "३१ आ रोह"
 
 +++
-आ रो॑ह॒ तल्पं सुमन॒स्यमा॑ने॒ह प्र॒जां ज॑नय॒ पत्ये॑ अ॒स्मै।  
-इ॒न्द्रा॒णीव॑ सु॒बुधा॒ बुध्य॑माना॒ ज्योति॑रग्रा उ॒षसः॒ प्रति॑ जागरासि ॥३१॥  
+Rise, mount the bridal bed with cheerful spirit. Here bring forth children to this man thy husband. Watchful and understanding like Indrani wake thou before the earliest light of Morning.

@@ -2,4 +2,4 @@
 title = "५८ अघ्न्ये पदवीर्भव"
 
 +++
-अघ्न्ये॑ पद॒वीर्भ॑व ब्राह्म॒णस्या॒भिश॑स्त्या ॥५८॥  
+O Cow, become a tracker through the curse the Brahman hath pronounced,

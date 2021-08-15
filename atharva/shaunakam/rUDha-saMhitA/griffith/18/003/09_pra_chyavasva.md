@@ -2,5 +2,4 @@
 title = "०९ प्र च्यवस्व"
 
 +++
-प्र च्य॑वस्व त॒न्वं॑१ सं भ॑रस्व॒ मा ते॒ गात्रा॒ वि हा॑यि॒ मो शरी॑रम्।  
-मनो॒ निवि॑ष्टमनु॒संवि॑शस्व॒ यत्र॒ भूमे॑र्जु॒षसे॒ तत्र॑ गच्छ ॥९॥  
+Prepare thy body: speed thou on thy journey: let not thy limbs,. thy frame be left behind thee. Follow to its repose thy resting spirit: go to whatever spot of earth thou lovest.

@@ -2,5 +2,4 @@
 title = "०१ सभा च"
 
 +++
-स॒भा च॑ मा॒ समि॑तिश्चावतां प्र॒जाप॑तेर्दुहि॒तरौ॑ संविदा॒ने।  
-येना॑ सं॒गच्छा॒ उप॑ मा॒ स शि॑क्षा॒च्चारु॑ वदानि पितरः॒ संग॑तेषु ॥१॥  
+In concord may Prajapati's two daughters, Gathering and As- sembly, both protect me. May every man I meet respect and aid me. Fair be my words, O Fathers, at the meetings.

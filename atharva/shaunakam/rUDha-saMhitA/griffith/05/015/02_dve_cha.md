@@ -2,5 +2,4 @@
 title = "०२ द्वे च"
 
 +++
-द्वे च॑ मे विंश॒तिश्च॑ मे ऽपव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥२॥  
+Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Plant, produced aright! make sweetness, sweet thyself, for me.

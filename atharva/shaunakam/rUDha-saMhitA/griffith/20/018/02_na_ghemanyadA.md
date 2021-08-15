@@ -2,4 +2,4 @@
 title = "०२ न घेमन्यदा"
 
 +++
-न घे॑म॒न्यदा प॑पन॒ वज्रि॑न्न॒पसो॒ नवि॑ष्टौ । तवेदु॒ स्तोमं॑ चिकेत ॥२॥  
+Naught else, O Thunderer, have I praised in the skilled singer's eulogy: On thy laud only have I thought.

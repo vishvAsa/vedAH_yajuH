@@ -2,5 +2,4 @@
 title = "०२ इन्द्रो यज्वने"
 
 +++
-इन्द्रो॒ यज्व॑ने गृण॒ते च॒ शिक्ष॑त॒ उपेद् द॑दाति॒ न स्वं मु॑षायति ।  
-भूयो॑भूयो र॒यिमिद॑स्य व॒र्धय॑न्नभि॒न्ने खि॒ल्ये नि द॑धाति देव॒युम्॥२॥  
+Indra aids him who offers sacrifice and praise: he takes not what is his, and gives him more thereto. Increasing ever more and ever more his wealth, he makes the pious dwell within unbroken bounds.

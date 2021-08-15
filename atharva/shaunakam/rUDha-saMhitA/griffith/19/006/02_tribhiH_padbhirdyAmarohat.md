@@ -2,5 +2,4 @@
 title = "०२ त्रिभिः पद्भिर्द्यामरोहत्"
 
 +++
-त्रि॒भिः प॒द्भिर्द्याम॑रोह॒त् पाद॑स्ये॒हाभ॑व॒त् पुनः॑ ।  
-तथा॒ व्यऽक्राम॒द् विष्व॑ङशनानश॒ने अनु॑ ॥२॥  
+He with three quarters rose to heaven here reappeared a fourth of him. Thence he strode forth on every side to all that eats not and that eats.

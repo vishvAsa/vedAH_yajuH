@@ -2,5 +2,4 @@
 title = "०४ इन्द्रः स्वर्षा"
 
 +++
-इन्द्रः॑ स्व॒र्षा ज॒नय॒न्नहा॑नि जि॒गायो॒शिग्भिः॒ पृत॑ना अभि॒ष्टिः ।  
-प्रारो॑चय॒न्मन॑वे के॒तुमह्ना॒मवि॑न्द॒ज्ज्योति॑र्बृह॒ते रणा॑य ॥४॥  
+Indra, light-winner, days' creator, conquered, as guardian, hostile bands with those who loved him. For man the days' bright ensign he illumined, and found the light for his great joy and gladness.

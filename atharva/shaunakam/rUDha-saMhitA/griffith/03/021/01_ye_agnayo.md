@@ -2,5 +2,4 @@
 title = "०१ ये अग्नयो"
 
 +++
-ये अ॒ग्नयो॑ अ॒प्स्व॑१न्तर्ये वृ॒त्रे ये पुरु॑षे॒ ये अश्म॑सु ।  
-य आ॑वि॒वेशोष॑धी॒र्यो वन॒स्पतीं॒स्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत्॥१॥  
+All Fires that are in water and in Vritra, all those that man and stones contain within them, That which hath entered herbs and trees and bushes--to all these Fires be this oblation offered.

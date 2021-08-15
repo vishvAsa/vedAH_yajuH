@@ -2,5 +2,4 @@
 title = "०७ ब्रह्मचारी जनयन्"
 
 +++
-ब्र॒ह्म॒चा॒री ज॒नय॒न् ब्रह्मा॒पो लो॒कं प्र॒जाप॑तिं परमे॒ष्ठिनं॑ वि॒राज॑म्।  
-गर्भो॑ भू॒त्वामृत॑स्य॒ योना॒विन्द्रो॑ ह भू॒त्वासु॑रांस्ततर्ह ॥७॥  
+The Brahmachari, fathering Prayer, world, Waters, Viraj, Praja- pati, and Parameshthin, Lay as a germ within the Immortal's bosom, then became Indra and destroyed the demons.

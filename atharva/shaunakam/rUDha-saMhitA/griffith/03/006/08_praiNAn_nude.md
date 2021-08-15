@@ -2,5 +2,4 @@
 title = "०८ प्रैणान् नुदे"
 
 +++
-प्रैणा॑न् नुदे॒ मन॑सा॒ प्र चि॒त्ते॑नो॒त ब्रह्म॑णा ।  
-प्रैणा॑न् वृ॒क्षस्य॒ शाख॑याश्व॒त्थस्य॑ नुदामहे ॥८॥
+With mental power I drive them forth, drive them with intellect and charm. We banish and expel them with the branch of an Asvattha tree.

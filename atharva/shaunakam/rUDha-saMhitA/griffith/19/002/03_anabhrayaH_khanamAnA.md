@@ -2,5 +2,4 @@
 title = "०३ अनभ्रयः खनमाना"
 
 +++
-अ॒न॒भ्रयः॒ खन॑माना॒ विप्रा॑ गम्भी॒रे अ॒पसः॑ ।  
-भि॒षग्भ्यो॑ भि॒षक्त॑रा॒ आपो॒ अच्छा॑ वदामसि ॥३॥  
+To those who delve without a tool to dig, the wise, the deeply moved, To Waters better healers than physicians we address our prayer.

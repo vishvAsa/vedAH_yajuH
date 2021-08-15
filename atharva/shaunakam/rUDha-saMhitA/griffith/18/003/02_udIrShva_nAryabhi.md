@@ -2,5 +2,4 @@
 title = "०२ उदीर्ष्व नार्यभि"
 
 +++
-उदी॑र्ष्व नार्य॒भि जी॑वलो॒कं ग॒तासु॑मे॒तमुप॑ शेष॒ एहि॑ ।  
-ह॒स्त॒ग्रा॒भस्य॑ दधि॒षोस्तवे॒दं पत्यु॑र्जनि॒त्वम॒भि सं ब॑भूथ ॥२॥  
+Rise, come unto the world of life, O woman: come, he is lifeless by whose side thou liest. Wifehood with this thy husband was thy portion who took thy hand and wooed thee as a lover.

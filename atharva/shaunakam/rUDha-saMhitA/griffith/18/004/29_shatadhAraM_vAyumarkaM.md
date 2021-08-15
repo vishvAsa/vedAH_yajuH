@@ -2,5 +2,4 @@
 title = "२९ शतधारं वायुमर्कं"
 
 +++
-श॒तधा॑रं वा॒युम॒र्कं स्व॒र्विदं॑ नृ॒चक्ष॑स॒स्ते अ॒भि च॑क्षते र॒यिम्।  
-ये पृ॒णन्ति॒ प्र च॒ यच्छ॑न्ति सर्व॒दा ते दु॑ह्रते॒ दक्षि॑णां स॒प्तमा॑तरम्॥२९॥  
+Those who observe men look on wealth as Vayu with countless. streams, and as light-finding Arka; Those drain out Guerdon sprung from seven mothers, who satis- fy and evermore give presents.

@@ -2,5 +2,4 @@
 title = "०४ मेमं प्राणो"
 
 +++
-मेमं प्रा॒णो हा॑सी॒न्मो अ॑पा॒नोऽव॒हाय॒ परा॑ गात्।  
-स॒प्त॒र्षिभ्य॑ एनं॒ परि॑ ददामि॒ त ए॑नं स्व॒स्ति ज॒रसे॑ वहन्तु ॥४॥  
+Let not the vital breath he draws forsake him, let not his expiration part and leave him. I give him over to the Seven Rishis: let them conduct him to old age in safety.

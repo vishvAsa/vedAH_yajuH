@@ -2,5 +2,4 @@
 title = "१४ असपत्नं पुरस्तात्"
 
 +++
-अ॒स॒प॒त्नं पु॒रस्ता॑त् प॒श्चान्नो॒ अभ॑यं कृतम्।  
-स॒वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॒ शची॒पतिः॑ ॥१४॥  
+Peace hath been given us from the east, and from the west security. Savitar guard me from the south, and from the north the Lord of Might.

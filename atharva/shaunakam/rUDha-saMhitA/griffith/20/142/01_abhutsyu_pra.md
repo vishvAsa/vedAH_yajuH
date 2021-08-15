@@ -2,4 +2,4 @@
 title = "०१ अभुत्स्यु प्र"
 
 +++
-अभु॑त्स्यु॒ प्र दे॒व्या सा॒कं वा॒चाहम॒श्विनोः॑ । व्या॑वर्दे॒व्या म॒तिं वि रा॒तिं मर्त्ये॑भ्यः ॥१॥  
+Together with the Goddess, with the Asvins' Speech have I awoke. Thou, Goddess, hast disclosed the hymn and holy gift from mortal men.

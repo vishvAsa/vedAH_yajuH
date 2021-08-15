@@ -2,5 +2,4 @@
 title = "२० स्वायसा असयः"
 
 +++
-स्वा॒य॒सा अ॒सयः॑ सन्ति नो गृ॒हे वि॒द्मा ते॑ कृत्ये यति॒धा परूं॑षि ।  
-उत्ति॑ष्ठै॒व परे॑ही॒तोऽज्ञा॑ते॒ किमि॒हेच्छ॑सि ॥२०॥  
+Within our house are swords of goodly iron. Kritya, we know thy joints and all their places. Arise this instant and begone! What, stranger! art thou seek- ing here?

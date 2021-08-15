@@ -2,5 +2,4 @@
 title = "०१ अश्वावति प्रथमो"
 
 +++
-अश्वा॑वति प्रथ॒मो गोषु॑ गच्छति सुप्रा॒वीरि॑न्द्र॒ मर्त्य॒स्तवो॒तिभिः॑ ।  
-तमित् पृ॑णक्षि॒ वसु॑ना॒ भवी॑यसा॒ सिन्धु॒मापो॒ यथा॒भितो॒ विचे॑तसः ॥१॥  
+Indra, the mortal man well guarded by thine aid goes foremost in the wealth of horses and of kine. With amplest wealth thou fillest him, as round about the waters clearly seen afar fill Sindhu full.

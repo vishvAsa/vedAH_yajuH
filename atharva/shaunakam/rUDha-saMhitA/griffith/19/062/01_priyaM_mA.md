@@ -2,5 +2,4 @@
 title = "०१ प्रियं मा"
 
 +++
-प्रि॒यं मा॑ कृणु दे॒वेषु॑ प्रि॒यं राज॑सु मा कृणु ।  
-प्रि॒यं सर्व॑स्य॒ पश्य॑त उ॒त शू॒द्र उ॒तार्ये॑ ॥१॥
+Make me beloved among the Gods, beloved among the Princes, make Me dear to everyone who sees, to Sudra and to Aryan man.

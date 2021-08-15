@@ -2,5 +2,4 @@
 title = "०१ दितेः पुत्राणामदितेरकारिषमव"
 
 +++
-दितेः॑ पु॒त्राणा॒मदि॑तेरकारिष॒मव॑ दे॒वानां॑ बृह॒ताम॑न॒र्मणा॑म्।  
-तेषां॒ हि धाम॑ गभि॒षक् स॑मु॒द्रियं॒ नैना॒न् नम॑सा प॒रो अ॑स्ति॒ कश्च॒न॥१॥
+I have sung praise to Diti's sons and Aditi's, those very lofty and invulnerable Gods. For far within the depths of ocean is their home and in the wor- ship paid them none excelleth these.

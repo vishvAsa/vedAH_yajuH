@@ -2,5 +2,4 @@
 title = "२२ शरदे त्वा"
 
 +++
-श॒रदे॑ त्वा हेम॒न्ताय॑ वस॒न्ताय॑ ग्री॒ष्माय॒ परि॑ दद्मसि ।  
-व॒र्षाणि॒ तुभ्यं॑ स्यो॒नानि॒ येषु॒ वर्ध॑न्त॒ ओष॑धीः ॥२२॥  
+To Autumn we deliver thee, to Winter, Spring and Summer's care. We trust thee with auspicious years wherein the plants and herbs grow up.

@@ -2,5 +2,4 @@
 title = "०४ ये सर्पिषः"
 
 +++
-ये स॒र्पिषः॑ सं॒स्रव॑न्ति क्षी॒रस्य॑ चोद॒कस्य॑ च ।  
-तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥४॥
+All streams of melted butter, and all streams of water and of milk With all these confluent streams of mine we make abundant riches flow.

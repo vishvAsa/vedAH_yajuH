@@ -2,4 +2,4 @@
 title = "०१ यस्ते स्तनः"
 
 +++
-यस्ते॒ स्तनः॑ शश॒युर्यो म॑यो॒भूर्यः सु॑म्न॒युः सु॒हवो॒ यः सु॒दत्रः॑ ।येन॒ विश्वा॒ पुष्य॑सि॒ वार्या॑णि॒ सर॑स्वति॒ तमि॒ह धात॑वे कः ॥१॥
+That breast of thine, exhaustless and delightful, good to invoke, beneficent, free giver. Wherewith thou feedest all things that are choicest, bring that, Sarasvati, that we may drain it.

@@ -2,5 +2,4 @@
 title = "६५ अभूद् दूतः"
 
 +++
-अभू॑द् दू॒तः प्रहि॑तो जा॒तवे॑दाः सा॒यं न्यह्न॑ उप॒वन्द्यो॒ नृभिः॑ ।  
-प्रादाः॑ पि॒तृभ्यः॑ स्व॒धया॒ ते अ॑क्षन्न॒द्धि त्वं दे॑व॒ प्रय॑ता ह॒वींषि॑ ॥६५॥  
+Meet for men's praises, Agni Jatavedas was sent as envoy when the day was closing. Thou gavest to the Fathers with oblation. They ate; eat, God, our offered sacrifices.

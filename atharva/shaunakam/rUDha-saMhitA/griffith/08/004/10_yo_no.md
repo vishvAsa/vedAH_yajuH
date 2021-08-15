@@ -2,5 +2,4 @@
 title = "१० यो नो"
 
 +++
-यो नो॒ रसं॒ दिप्स॑ति पि॒त्वो अ॑ग्ने॒ अश्वा॑नां॒ गवां॒ यस्त॒नूना॑म्।  
-रि॒पु स्ते॒न स्ते॑य॒कृद् द॒भ्रमे॑तु॒ नि ष ही॑यतां त॒न्वा॒३ तना॑ च ॥१०॥  
+O Agni, whosoever seeks to injure the essence of our food, kine, steeds, or bodies, May he, the adversary, thief, and robber, sink to destruction,. both himself and offspring.

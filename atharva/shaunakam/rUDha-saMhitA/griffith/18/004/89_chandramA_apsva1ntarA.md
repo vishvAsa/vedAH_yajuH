@@ -2,5 +2,4 @@
 title = "८९ चन्द्रमा अप्स्व१न्तरा"
 
 +++
-च॒न्द्रमा॑ अ॒प्स्व॑१न्तरा सु॑प॒र्णो धा॑वते दि॒वि।  
-न वो॑ हिरण्यनेमयः प॒दं वि॑न्दन्ति विद्युतो वि॒त्तं मे॑ अ॒स्य रो॑दसी ॥८९॥
+Within the waters runs the Moon, the strong-winged Eagle soars. in heaven. Ye Lightnings with your golden wheels, men find not your abid- ing-place. Hear this my call, O Heaven and Earth.

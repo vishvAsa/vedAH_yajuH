@@ -2,4 +2,4 @@
 title = "१५ द्वौ वा"
 
 +++
-द्वौ वा॑ ये शिशवः ॥१५॥  
+Glory and power, these are two. He with black tufts of hair shall strike.

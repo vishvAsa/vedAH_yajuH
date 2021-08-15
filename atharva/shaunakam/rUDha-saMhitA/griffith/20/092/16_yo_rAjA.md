@@ -2,5 +2,4 @@
 title = "१६ यो राजा"
 
 +++
-यो राजा॑ चर्षणी॒नां याता॒ रथे॑भि॒रध्रि॑गुः ।  
-विश्वा॑सां तरु॒ता पृत॑नानां॒ ज्येष्ठो॒ यो वृ॑त्र॒हा गृ॒णे॥१६॥  
+He who as sovran Lord of men moves with his chariots unrestrained, The Vritra-slayer, queller of all fighting hosts, preeminent, is praised in song.

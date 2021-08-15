@@ -2,5 +2,4 @@
 title = "०९ इन्द्राग्नी काम"
 
 +++
-इ॒न्द्रा॒ग्नी का॑म स॒रथं॒ हि भू॒त्वा नी॒चैः स॒पत्ना॒न् मम॑ पादयाथः ।  
-तेषां॑ प॒न्नाना॑मध॒मा तमां॒स्यग्ने॒ वास्तू॑न्यनु॒निर्द॑ह॒ त्वम्॥९॥  
+Ye, Indra, Agni, Kama! come together and cast mine adver- saries down beneath me. When they have sunk into the deepest darkness, O Agni, with thy fire consume their dwellings.

@@ -2,5 +2,4 @@
 title = "०३ येषामध्येति प्रवसन्"
 
 +++
-येषा॑म॒ध्येति॑ प्र॒वस॒न् येषु॑ सौमन॒सो ब॒हुः ।  
-गृ॒हानुप॑ ह्वयामहे॒ ते नो॑ जानन्त्वाय॒तः ॥३॥  
+These Houses we invoke, whereon the distant exile sets his thought, Wherein dwells many a friendly heart: let them beware of our approach.

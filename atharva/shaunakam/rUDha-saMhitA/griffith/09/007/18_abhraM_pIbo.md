@@ -2,4 +2,4 @@
 title = "१८ अभ्रं पीबो"
 
 +++
-अ॒भ्रं पीबो॑ म॒ज्जा नि॒धन॑म्॥१८॥  
+The rain-cloud is her fat, her resting-place her marrow.

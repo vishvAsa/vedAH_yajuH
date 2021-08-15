@@ -2,5 +2,4 @@
 title = "०२ कुविदङ्ग यवमन्तो"
 
 +++
-कु॒विद॒ङ्ग यव॑मन्तो॒ यवं॑ चि॒द् यथा॒ दान्त्य॑नुपू॒र्वं वि॒यूय॑ ।  
-इ॒हेहै॑षां कृणुहि॒ भोज॑नानि॒ ये ब॒र्हिषो॒ नमो॑वृक्तिं॒ न ज॒ग्मुः ॥२॥  
+What then? As men whose fields are full of barley reap the ripe corn removing it in order, So bring the food of those men, bring it hither, who come not to prepare the grass for worship.

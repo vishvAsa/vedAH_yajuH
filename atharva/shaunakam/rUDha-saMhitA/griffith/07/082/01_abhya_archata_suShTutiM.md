@@ -2,5 +2,4 @@
 title = "०१ अभ्यऽर्चत सुष्टुतिं"
 
 +++
-अ॒भ्यऽर्चत सुष्टु॒तिं गव्य॑मा॒जिम॒स्मासु॑ भ॒द्रा द्रवि॑णानि धत्त ।  
-इ॒मं य॒ज्ञं न॑यत दे॒वता॑ नो घृ॒तस्य॒ धारा॒ मधु॑मत् पवन्ताम्॥१॥  
+Sing with fair laud the combat for the cattle. Bestow upon us excellent possessions. Lead to the Gods the sacrifice we offer: let streams of oil flow pure and full of sweetness.

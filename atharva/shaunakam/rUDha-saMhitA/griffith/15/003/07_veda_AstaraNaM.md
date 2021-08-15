@@ -2,4 +2,4 @@
 title = "०७ वेद आस्तरणं"
 
 +++
-वेद॑ आ॒स्तर॑णं॒ ब्रह्मो॑प॒बर्ह॑णम्॥७॥  
+Sacred lore was the blanket, Devotion the coverlet.

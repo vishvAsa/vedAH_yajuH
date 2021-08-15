@@ -2,4 +2,4 @@
 title = "०७ यवानो यतिष्वभिः"
 
 +++
-यवा॑नो यति॒ष्वभिः॑ कुभिः ॥७॥  
+A hundred bits of golden bronze, a hundred golden necklaces.

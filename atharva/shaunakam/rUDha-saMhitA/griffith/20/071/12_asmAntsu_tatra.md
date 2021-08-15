@@ -2,4 +2,4 @@
 title = "१२ अस्मान्त्सु तत्र"
 
 +++
-अ॒स्मान्त्सु तत्र॑ चोद॒येन्द्र॑ रा॒ये रभ॑स्वतः । तुवि॑द्युम्न॒ यश॑स्वतः ॥१२॥  
+O Indra, stimulate thereto us emulously fain for wealth. And glorious, O most splendid One.

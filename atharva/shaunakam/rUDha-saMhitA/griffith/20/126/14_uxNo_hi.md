@@ -2,5 +2,4 @@
 title = "१४ उक्ष्णो हि"
 
 +++
-उ॒क्ष्णो हि मे॒ पञ्च॑दश सा॒कं पच॑न्ति विंश॒तिम्।  
-उ॒ताहम॑द्मि॒ पीव॒ इदु॒भा कु॒क्षी पृ॑णन्ति मे॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥१४॥  
+Fifteen in number, then, for me a score of bullocks they prepare. And I devour the fat thereof: they fill my belly full with food. Supreme is Indra over all.

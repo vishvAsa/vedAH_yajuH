@@ -2,4 +2,4 @@
 title = "०९ ऐनं वशो"
 
 +++
-ऐनं॒ वशो॑ ग॑च्छति व॒शी व॒शिनां॑ भवति॒ य ए॒वं वेद॑ ॥९॥  
+Authority comes to him who possesses this knowledge, and he becomes the controller of the powerful.

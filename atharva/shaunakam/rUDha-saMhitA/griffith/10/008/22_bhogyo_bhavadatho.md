@@ -2,5 +2,4 @@
 title = "२२ भोग्यो भवदथो"
 
 +++
-भोग्यो॑ भव॒दथो॒ अन्न॑मदद् ब॒हु।  
-यो दे॒वमु॑त्त॒राव॑न्तमु॒पासा॑तै सना॒तन॑म्॥२२॥  
+Useful will he become, and then will he consume great store of food The man who humbly worshippeth the eternal and victorious God.

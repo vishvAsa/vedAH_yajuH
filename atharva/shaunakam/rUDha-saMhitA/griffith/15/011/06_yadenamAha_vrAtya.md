@@ -2,4 +2,4 @@
 title = "०६ यदेनमाह व्रात्य"
 
 +++
-यदे॑न॒माह॒ व्रात्य॒ यथा॑ ते प्रि॒यं तथा॒स्त्विति॑ प्रि॒यमे॒व तेनाव॑ रुन्द्धे ॥६॥  
+When he says to him, Vratya, let it be as thou pleasest, he secures to himself thereby what is pleasant.

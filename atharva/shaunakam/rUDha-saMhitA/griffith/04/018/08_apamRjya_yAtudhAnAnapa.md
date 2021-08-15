@@ -2,5 +2,4 @@
 title = "०८ अपमृज्य यातुधानानप"
 
 +++
-अ॒प॒मृज्य॑ यातु॒धाना॒नप॒ सर्वा॑ अरा॒य्यः ।  
-अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॒ मृज्महे ॥८॥
+Sweep thou away the sorcerers, all stingy fiendish hags away. All this, O Apamarga, with thine aid we wipe away from us.

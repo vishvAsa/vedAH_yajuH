@@ -2,4 +2,4 @@
 title = "०८ तस्यैष मारुतो"
 
 +++
-तस्यै॒ष मारु॑तो ग॒णः स ए॑ति शि॒क्याकृ॑तः ॥८॥  
+His are these banded Maruts: they move gathered close like porters' thongs.

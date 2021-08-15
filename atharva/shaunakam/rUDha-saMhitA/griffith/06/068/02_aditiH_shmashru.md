@@ -2,5 +2,4 @@
 title = "०२ अदितिः श्मश्रु"
 
 +++
-अदि॑तिः॒ श्मश्रु॑ वप॒त्वाप॑ उन्दन्तु॒ वर्च॑सा ।  
-चिकि॑त्सतु प्र॒जाप॑तिर्दीर्घायु॒त्वाय॒ चक्ष॑से ॥२॥  
+Let Aditi shave the beard, and let the Waters bathe it with their strength: Prajapati restore his health for sight and days of lengthened life!

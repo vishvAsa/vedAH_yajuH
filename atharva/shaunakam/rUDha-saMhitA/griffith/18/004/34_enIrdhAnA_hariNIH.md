@@ -2,5 +2,4 @@
 title = "३४ एनीर्धाना हरिणीः"
 
 +++
-एनी॒र्धा॒ना हरि॑णीः॒ श्येनी॑रस्य कृ॒ष्णा धा॒ना रोहि॑णीर्धे॒नव॑स्ते ।  
-ति॒लव॑त्सा॒ ऊर्ज॑म॒स्मै दुहा॑ना वि॒श्वाहा॑ सन्त्वनप॒स्फुर॑न्तीः ॥३४॥  
+Let the green grains become thy white, and speckled, The dusky corns become thy ruddy milch-kine. Let those with calves of Sesamum for ever yield strength to him and never flinch from milking.

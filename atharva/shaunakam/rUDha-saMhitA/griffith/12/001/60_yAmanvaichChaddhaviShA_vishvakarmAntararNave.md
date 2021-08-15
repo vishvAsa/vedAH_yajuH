@@ -2,5 +2,4 @@
 title = "६० यामन्वैच्छद्धविषा विश्वकर्मान्तरर्णवे"
 
 +++
-याम॒न्वैच्छद्ध॒विषा॑ वि॒श्वक॑र्मा॒न्तर॑र्ण॒वे रज॑सि॒ प्रवि॑ष्टाम्।  
-भु॒जि॒ष्यं॑१ पात्रं॒ निहि॑तं॒ गुहा॒ यदा॒विर्भोगे॑ अभवन्मातृ॒मद्भ्यः॑ ॥६०॥  
+Whom Visvakarman with oblation followed, when she was set in mid-air's billowy ocean A useful vessel, hid, when, for enjoyment, she was made mani- fest to those with mothers.

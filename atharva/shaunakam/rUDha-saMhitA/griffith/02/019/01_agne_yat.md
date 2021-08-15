@@ -2,4 +2,4 @@
 title = "०१ अग्ने यत्"
 
 +++
-अग्ने॒ यत् ते॒ तप॒स्तेन॒ तं प्रति॑ तप॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥१॥  
+Burn thou, O Agni, with that heat of thine against the man who hates us, whom we hate.

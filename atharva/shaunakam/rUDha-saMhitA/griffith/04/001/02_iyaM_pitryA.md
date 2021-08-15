@@ -2,5 +2,4 @@
 title = "०२ इयं पित्र्या"
 
 +++
-इ॒यं पित्र्या॒ राष्ट्र्ये॒त्वग्रे॑ प्रथ॒माय॑ ज॒नुषे॑ भुवने॒ष्ठाः ।  
-तस्मा॑ ए॒तं सु॒रुचं॑ ह्वा॒रम॑ह्यं घ॒र्मं श्री॑णन्तु प्रथ॒माय॑ धा॒स्यवे॑ ॥२॥  
+Let this Queen come in front, her Father's daughter, found in the worlds for earliest generation. For him they set this radiant vault in motion. Let them prepare warm milk for him who first would drink.

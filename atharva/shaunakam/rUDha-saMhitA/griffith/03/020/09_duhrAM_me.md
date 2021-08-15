@@ -2,5 +2,4 @@
 title = "०९ दुह्रां मे"
 
 +++
-दु॒ह्रां मे॒ पञ्च॑ प्र॒दिशो॑ दु॒ह्रामु॒र्वीर्य॑थाब॒लम्।  
-प्रापे॑यं सर्वा॒ आकू॑ती॒र्मन॑सा॒ हृद॑येन च ॥९॥  
+May heaven's five spacious regions pour their milk for me with all their might. May I obtain each wish and hope formed by my spirit and my heart.

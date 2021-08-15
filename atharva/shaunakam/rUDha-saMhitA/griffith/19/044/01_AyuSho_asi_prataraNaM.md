@@ -2,5 +2,4 @@
 title = "०१ आयुषोऽसि प्रतरणं"
 
 +++
-आयु॑षोऽसि प्र॒तर॑णं॒ विप्रं॑ भेष॒जमु॑च्यसे ।  
-तदा॑ञ्जन॒ त्वं शं॑ताते॒ शमापो॒ अभ॑यं कृतम्॥१॥  
+Thou art the lengthening of life, thy name is Universal Cure: Then, Ointment! send felicity; Waters, send happiness and peace.

@@ -2,4 +2,4 @@
 title = "३७ एष वा"
 
 +++
-ए॒ष वा अति॑थि॒र्यच्छ्रोत्रि॑य॒स्तस्मा॒त् पूर्वो॒ नाश्नी॑यात् ।७। ३७॥  
+The man should not eat before the guest who is a Brahman versed in holy lore.

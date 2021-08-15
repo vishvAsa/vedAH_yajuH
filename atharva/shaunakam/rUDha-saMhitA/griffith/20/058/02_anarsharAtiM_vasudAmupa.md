@@ -2,5 +2,4 @@
 title = "०२ अनर्शरातिं वसुदामुप"
 
 +++
-अन॑र्शरातिं वसु॒दामुप॑ स्तुहि भ॒द्रा इन्द्र॑स्य रा॒तयः॑ ।  
-सो अ॑स्य॒ कामं॑ विध॒तो न रो॑षति॒ मनो॑ दा॒नाय॑ चो॒दय॑न्॥२॥  
+Praise him who sends us wealth, whose bounties injure none. Good are the gifts which Indra gives. He is not wroth with one who satisfies his wish: he turns his mind to granting boons.

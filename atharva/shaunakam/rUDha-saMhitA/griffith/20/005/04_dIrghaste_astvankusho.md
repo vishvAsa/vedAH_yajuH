@@ -2,4 +2,4 @@
 title = "०४ दीर्घस्ते अस्त्वङ्कुशो"
 
 +++
-दी॒र्घस्ते॑ अस्त्वङ्कु॒शो येना॒ वसु॑ प्र॒यच्छ॑सि । यज॑मानाय सुन्व॒ते॥४॥  
+Long be thy grasping-hook wherewith thou givest treasure unto- him Who pours the juice and worships thee.

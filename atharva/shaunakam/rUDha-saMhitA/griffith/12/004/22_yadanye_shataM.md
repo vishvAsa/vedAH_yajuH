@@ -2,5 +2,4 @@
 title = "२२ यदन्ये शतं"
 
 +++
-यद॒न्ये श॒तं याचे॑युर्ब्राह्म॒णा गोप॑तिं व॒शाम्।  
-अथै॑नां दे॒वा अ॑ब्रुवन्ने॒वं ह॑ वि॒दुषो॑ व॒शा॥२२॥  
+If hundred other Brahmans beg the Cow of him who owneth her, The Gods have said, She, verily, belongs to him who knows the truth.

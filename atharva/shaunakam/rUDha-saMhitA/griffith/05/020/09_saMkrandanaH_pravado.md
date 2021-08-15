@@ -2,5 +2,4 @@
 title = "०९ संक्रन्दनः प्रवदो"
 
 +++
-सं॒क्रन्दनः॑ प्रव॒दो धृ॒ष्णुषे॑णः प्रवेद॒कृद् ब॑हु॒धा ग्रा॑मघो॒षी।  
-श्रेयो॑ वन्वा॒नो व॒युना॑नि वि॒द्वान् की॒र्तिं ब॒हुभ्यो॒ वि ह॑र द्विरा॒जे॥९॥  
+Resonant, roaring, with thy powerful weapons, warning, and heard by troops in many places, Knowing all rules and winning us advantage, deal fame to many where two kings are fighting.

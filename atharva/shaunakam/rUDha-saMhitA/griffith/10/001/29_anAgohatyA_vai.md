@@ -2,5 +2,4 @@
 title = "२९ अनागोहत्या वै"
 
 +++
-अ॒ना॒गो॒ह॒त्या वै भी॒मा कृ॑त्ये॒ मा नो॒ गामश्वं॒ पुरु॑षं वधीः ।  
-यत्र॑य॒त्रासि॒ निहि॑ता॒ तत॒स्त्वोत्था॑पयामसि प॒र्णाल्लघी॑यसी भव ॥२९॥  
+The slaughter of an innocent, O Kritya, is an awful deed. Slay not cow, horse, or man of ours. In whatsoever place thou art concealed we rouse thee up there- from: become thou lighter than a leaf.

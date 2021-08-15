@@ -2,5 +2,4 @@
 title = "६२ आ यात"
 
 +++
-आ या॑त पितरः सो॒म्यासो॑ गम्भी॒रैः प॒थिभिः॑ पितृ॒याणैः॑ ।  
-आयु॑र॒स्मभ्यं॒ दध॑तः प्र॒जां च॑ रा॒यश्च॒ पोषै॑र॒भि नः॑ सचध्वम्॥६२॥  
+Come hither, Fathers, who deserve the Soma, by the deep path- ways which the Fathers travel. Bestow upon us life and store of children, and favour us with increase of our riches.

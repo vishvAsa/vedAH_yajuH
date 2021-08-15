@@ -2,5 +2,4 @@
 title = "०४ पिता वत्सानां"
 
 +++
-पि॒ता व॒त्सानां॒ पति॑र॒घ्न्याना॒मथो॑ पि॒ता म॑ह॒तां गर्ग॑राणाम्।  
-व॒त्सो ज॒रायु॑ प्रति॒धुक् पी॒यूष॑ आ॒मिक्षा॑ घृ॒तं तद् व॑स्य॒ रेतः॑ ॥४॥  
+The husband of the cows, the young calves' father, father is he of mighty water-eddies. Calf, after-birth, new milk drawn hot, and biestings, curds, butter, that is his best genial humour.

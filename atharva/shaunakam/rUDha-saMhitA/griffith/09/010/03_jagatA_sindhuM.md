@@ -2,5 +2,4 @@
 title = "०३ जगता सिन्धुं"
 
 +++
-जग॑ता॒ सिन्धुं॑ दि॒व्यऽस्कभायद् रथंत॒रे सूर्यं॒ पर्य॑पश्यत्।  
-गा॒य॒त्रस्य॑ स॒मिध॑स्ति॒स्र आ॑हु॒स्ततो॑ म॒ह्ना प्र रि॑रिचे महि॒त्वा॥३॥  
+With Jagati the flood in heaven he stablished, and saw the Sun in the Rathantara Saman. Gayatri hath, they say, three logs for burning: hence it excels in majesty and vigour.

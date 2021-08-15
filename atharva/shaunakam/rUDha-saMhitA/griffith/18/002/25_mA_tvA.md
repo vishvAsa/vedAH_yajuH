@@ -2,5 +2,4 @@
 title = "२५ मा त्वा"
 
 +++
-मा त्वा॑ वृ॒क्षः सं बा॑धिष्ट॒ मा दे॒वी पृ॑थि॒वी म॒ही।  
-लो॒कं पि॒तृषु॑ वि॒त्त्वैध॑स्व य॒मरा॑जसु ॥२५॥  
+Let not a tree oppness thee, nor Earth the great Goddess weigh thee down. Among the Fathers find thy home, and thrive mid those whom Yama rules.

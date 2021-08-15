@@ -2,4 +2,4 @@
 title = "०१ पश्येम शरदः"
 
 +++
-पश्ये॑म श॒रदः॑ श॒तम्॥१॥  
+A hundred autumns may we see.

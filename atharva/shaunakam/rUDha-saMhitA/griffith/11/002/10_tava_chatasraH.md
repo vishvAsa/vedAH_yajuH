@@ -2,5 +2,4 @@
 title = "१० तव चतस्रः"
 
 +++
-तव॒ चत॑स्रः प्र॒दिश॒स्तव॒ द्यौस्तव॑ पृथि॒वी तवे॒दमु॑ग्रो॒र्व॑१न्तरि॑क्षम्।  
-तवे॒दं सर्व॑मात्म॒न्वद् यत् प्रा॒णत् पृ॑थि॒वीमनु॑ ॥१०॥  
+Thine the four regions, thine are earth and heaven, thine, Mighty One, this firmament between them; Thine everything with soul and breath here on the surface of the land.

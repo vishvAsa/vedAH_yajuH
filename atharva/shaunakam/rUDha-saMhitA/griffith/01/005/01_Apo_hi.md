@@ -2,4 +2,4 @@
 title = "०१ आपो हि"
 
 +++
-आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन । म॒हे रणा॑य॒ चक्ष॑से ॥१॥  
+Ye, Waters, truly bring us bliss: so help ye us to strength and power That we may look on great delight.

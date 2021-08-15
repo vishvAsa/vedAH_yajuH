@@ -2,5 +2,4 @@
 title = "१३ संसिचो नाम"
 
 +++
-सं॒सिचो॒ नाम॒ ते दे॒वा ये सं॑भा॒रान्त्स॒मभ॑रन्।  
-सर्वं॑ सं॒सिच्य॒ मर्त्यं॑ दे॒वाः पुरु॑ष॒मावि॑शन्॥१३॥  
+Casters, those Gods were called who brought together all the elements: When they had fused the mortal man complete, they entered into him.

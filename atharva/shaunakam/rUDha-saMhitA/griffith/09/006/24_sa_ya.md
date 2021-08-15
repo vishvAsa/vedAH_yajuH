@@ -2,4 +2,4 @@
 title = "२४ स य"
 
 +++
-स य ए॒वं वि॒द्वान् न द्वि॒षन्न॑श्नीया॒न्न द्वि॑ष॒तोऽन्न॑मश्नीया॒न्न मी॑मांसि॒तस्य॒ न मी॑मां॒समा॑नस्य ।७। २४॥  
+He who hath this knowledge should not eat hating, should not eat the food of one who hates him, nor of one who is doubt- ful, nor of one who is undecided.

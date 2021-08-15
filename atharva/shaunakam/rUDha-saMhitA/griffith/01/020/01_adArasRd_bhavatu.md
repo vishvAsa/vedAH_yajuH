@@ -2,5 +2,4 @@
 title = "०१ अदारसृद् भवतु"
 
 +++
-अदा॑रसृद् भवतु देव सोमा॒स्मिन् य॒ज्ञे म॑रुतो मृ॒डता॑ नः ।  
-मा नो॑ विददभि॒भा मो अश॑स्ति॒र्मा नो॑ विदद् वृजि॒ना द्वेष्या॒ या॥१॥  
+May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious unto us. Let not disaster, let not malison find us out; let not abominable guiles discover us.

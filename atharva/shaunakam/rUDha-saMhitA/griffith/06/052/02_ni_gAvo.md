@@ -2,5 +2,4 @@
 title = "०२ नि गावो"
 
 +++
-नि गावो॑ गो॒ष्ठे अ॑सद॒न् नि मृ॒गासो॑ अविक्षत ।  
-न्यू॒३र्मयो॑ न॒दीनं॒ न्य॑१दृष्टा॑ अलिप्सत ॥२॥  
+The kine had settled in their pen, wild animals sought their lairs The wavelets of the brooks had passed away, and were beheld no more.

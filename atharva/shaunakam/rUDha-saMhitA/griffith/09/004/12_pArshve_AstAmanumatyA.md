@@ -2,5 +2,4 @@
 title = "१२ पार्श्वे आस्तामनुमत्या"
 
 +++
-पा॒र्श्वे आ॑स्ता॒मनु॑मत्या॒ भग॑स्यास्तामनू॒वृजौ॑ ।  
-अ॒ष्ठी॒वन्ता॑वब्रवीन्मि॒त्रो ममै॒तौ केव॑ला॒विति॑ ॥१२॥  
+The sides must be Anumati's, and both rib-pieces Bhaga's share, Of the knee-bones hath Mitra said, Both these are mine, and only mine.

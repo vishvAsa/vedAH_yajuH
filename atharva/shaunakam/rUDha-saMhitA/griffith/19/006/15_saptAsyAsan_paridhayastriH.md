@@ -2,5 +2,4 @@
 title = "१५ सप्तास्यासन् परिधयस्त्रिः"
 
 +++
-स॒प्तास्या॑सन् परि॒धय॒स्त्रिः स॒प्त स॒मिधः॑ कृ॒ताः ।  
-दे॒वा यद् य॒ज्ञं त॑न्वा॒ना अब॑ध्न॒न् पुरु॑षं प॒शुम्॥१५॥  
+Seven fencing-logs had he, thrice seven layers of fuel were prepared. When, offering sacrifice, the Gods bound as their victim Purusha.

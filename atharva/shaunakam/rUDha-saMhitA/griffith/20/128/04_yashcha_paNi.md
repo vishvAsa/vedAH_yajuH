@@ -2,5 +2,4 @@
 title = "०४ यश्च पणि"
 
 +++
-यश्च॑ प॒णि रघु॑जि॒ष्ठ्यो यश्च॑ दे॒वां अदा॑शुरिः ।  
-धीरा॑णां॒ शश्व॑ताम॒हं तद॑पा॒गिति॑ शुश्रुम ॥४॥  
+The most unprofitable churl, the wealthy men who brings no. gift, These, verily, as we have heard, are cast away by all the wise.

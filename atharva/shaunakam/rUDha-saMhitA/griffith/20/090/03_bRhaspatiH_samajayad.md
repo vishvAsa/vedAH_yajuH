@@ -2,5 +2,4 @@
 title = "०३ बृहस्पतिः समजयद्"
 
 +++
-बृह॒स्पतिः॒ सम॑जय॒द् वसू॑नि म॒हो व्र॒जान् गोम॑तो दे॒व ए॒षः ।  
-अ॒पः सिषा॑स॒न्त्स्व॑१रप्र॑तीतो॒ बृह॒स्पति॒र्हन्त्य॒मित्र॑म॒र्कैः ॥३॥
+Brihaspati in war hath won rich treasures, hath won, this God, the great stalls filled with cattle. Striving to win waters and light, resistless, Brihaspati with light- ning smites the foeman.

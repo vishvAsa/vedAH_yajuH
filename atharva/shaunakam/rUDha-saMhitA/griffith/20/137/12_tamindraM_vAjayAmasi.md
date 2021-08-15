@@ -2,4 +2,4 @@
 title = "१२ तमिन्द्रं वाजयामसि"
 
 +++
-तमिन्द्रं॑ वाजयामसि म॒हे वृ॒त्राय॒ हन्त॑वे । स वृषा॑ वृष॒भो भु॑वत्॥१२॥  
+We make this Indra very strong to strike the mighty Vritra dead: A vigorous Hero shall he be.

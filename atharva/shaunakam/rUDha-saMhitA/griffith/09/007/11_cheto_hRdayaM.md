@@ -2,4 +2,4 @@
 title = "११ चेतो हृदयं"
 
 +++
-चेतो॒ हृद॑यं॒ यकृ॑न्मे॒धा व्र॒तं पु॑री॒तत्॥११॥  
+Thought is the heart, intelligence is the liver, law the pericar- dium.

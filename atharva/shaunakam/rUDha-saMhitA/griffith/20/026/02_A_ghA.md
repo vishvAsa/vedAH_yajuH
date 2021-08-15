@@ -2,4 +2,4 @@
 title = "०२ आ घा"
 
 +++
-आ घा॑ गम॒द् यदि॒ श्रव॑त् सह॒स्रिणी॑भिरू॒तिभिः॑ । वाजे॑भि॒रुप॑ नो॒ हव॑म्॥२॥  
+If he will hear us let him come with succour of a thousand kinds, And all that strengthens, to our call.

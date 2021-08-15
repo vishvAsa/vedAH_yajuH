@@ -2,5 +2,4 @@
 title = "३४ अपूर्वेणेषिता वाचस्ता"
 
 +++
-अ॒पू॒र्वेणे॑षि॒ता वाच॒स्ता व॑दन्ति यथाय॒थम्।  
-वद॑न्ती॒र्यत्र गच्छ॑न्ति॒ तदा॑हु॒र्ब्राह्म॑णं म॒हत्॥३३॥  
+I ask thee where the waters' flower by wondrous magic art was placed, Thereon the Gods and men are set as spokes are fastened in the nave.

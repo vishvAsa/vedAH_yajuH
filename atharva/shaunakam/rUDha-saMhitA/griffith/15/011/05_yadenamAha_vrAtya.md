@@ -2,4 +2,4 @@
 title = "०५ यदेनमाह व्रात्य"
 
 +++
-यदे॑न॒माह॒ व्रात्य॑ त॒र्पय॒न्त्विति॑ प्रा॒णमे॒व तेन॒ वर्षी॑यांसं कुरुते ॥५॥  
+When he says to him, Let them refresh thee, he thereby wins vital breath to exceeding old age.

@@ -2,5 +2,4 @@
 title = "०१ ब्राह्मणो जज्ञे"
 
 +++
-ब्रा॒ह्म॒णो ज॑ज्ञे प्रथ॒मो दश॑शीर्षो॒ दशा॑स्यः ।  
-स सोमं॑ प्रथ॒मः प॑पौ॒ स चकारार॒सं वि॒षम्॥१॥  
+The Brahman first was brought to life ten-headed and with faces ten. First drinker of the Soma, he made poison ineffectual.

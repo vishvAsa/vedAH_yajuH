@@ -2,4 +2,4 @@
 title = "२४ सेदिरुपतिष्ठन्ती मिथोयोधः"
 
 +++
-से॒दिरु॑प॒तिष्ठ॑न्ती मिथोयो॒धः परा॑मृष्टा ॥२४॥  
+The taking away of strength when she approacheth, a hand-to- hand fighter when roughly touched;

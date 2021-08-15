@@ -2,5 +2,4 @@
 title = "०४ यो देवो"
 
 +++
-यो दे॒वो वि॒श्वाद् यमु॒ काम॑मा॒हुर्यं दा॒तारं॑ प्रतिगृ॒ह्णन्त॑मा॒हुः ।  
-यो धीरः॑ श॒क्रः प॑रि॒भूरदा॑भ्य॒स्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत्॥४॥  
+The all-devouring God whom men call Kama, he whom they call the Giver and Receiver, Invincible, pervading, wise, and mighty--to all these Fires be this oblation offered.

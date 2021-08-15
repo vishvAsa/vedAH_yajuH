@@ -2,5 +2,4 @@
 title = "०४ परुषानमून् परुषाह्वः"
 
 +++
-प॒रु॒षान॒मून् प॑रुषा॒ह्वः कृ॑णोतु॒ हन्त्वे॑ना॒न् वध॑को व॒धैः ।  
-क्षि॒प्रं श॒र इ॑व भजन्तां बृहज्जा॒लेन॒ संदि॑ताः ॥४॥  
+Let Parushahva make them reeds, and let the bulrush strike them down: Bound in a mighty net let them break quickly like an arrow's shaft.

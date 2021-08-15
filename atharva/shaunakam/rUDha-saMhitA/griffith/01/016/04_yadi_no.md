@@ -2,5 +2,4 @@
 title = "०४ यदि नो"
 
 +++
-यदि॑ नो॒ गां हंसि॒ यद्यश्वं॒ यदि॒ पूरु॑षम्।  
-तं त्वा॒ सीसे॑न विध्यामो॒ यथा॒ नोऽसो॒ अवी॑रहा ॥४॥
+If thou destroy a cow of ours, a human being, or a steed, We pierce thee with this piece of lead so that thou mayst not slay our men.

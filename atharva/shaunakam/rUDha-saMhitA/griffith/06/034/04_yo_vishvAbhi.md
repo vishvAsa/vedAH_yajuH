@@ -2,5 +2,4 @@
 title = "०४ यो विश्वाभि"
 
 +++
-यो विश्वा॒भि वि॒पश्य॑ति॒ भुव॑ना॒ सं च॒ पश्य॑ति ।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥४॥  
+He who beholds all creatures, who observes them with a careful eye, May he transport us past our foes.

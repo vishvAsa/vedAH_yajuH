@@ -2,5 +2,4 @@
 title = "०१ आयं गौः"
 
 +++
-आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः ।  
-पि॒तरं॑ च प्र॒यन्त्स्वः ॥१॥  
+This spotted Bull hath come and sat before his mother in the east. Advancing to his father Heaven.

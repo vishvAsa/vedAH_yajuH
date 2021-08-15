@@ -2,5 +2,4 @@
 title = "०३ इहैवाभि वि"
 
 +++
-इ॒हैवाभि॑ वि त॑नू॒भे आर्त्नी॑ इव॒ ज्य॑या ।  
-वा॒चस्पति॒र्नि य॑च्छतु॒ मय्ये॒वा॑स्तु॒ मयि॑ श्रु॒तम्॥३॥  
+Here, even here, spread sheltering arms like the two bow-ends strained with cord. This let Vachaspati confirm. In me be Knowledge, yea, in me.

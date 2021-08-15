@@ -2,5 +2,4 @@
 title = "५९ अङ्गिरोभिर्यज्ञियैरा गहीह"
 
 +++
-अङ्गि॑रोभिर्य॒ज्ञियै॒रा ग॑ही॒ह यम॑ वैरू॒पैरि॒ह मा॑दयस्व ।
-विव॑स्वन्तं हुवे॒ यः पि॒ता ते॒ऽस्मिन् ब॒र्हिष्या नि॒षद्य॑ ॥५९॥
+Come, Yama, with Angirases, the holy; rejoice thee here with children of Virupa. Seated on sacred grass at this oblation: I call Vivasvan too, thy father, hither.

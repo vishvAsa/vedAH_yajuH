@@ -2,5 +2,4 @@
 title = "५२ यदक्षेषु वदा"
 
 +++
-यद॒क्षेषु॒ वदा॒ यत् समि॑त्यां॒ यद् वा॒ वदा॒ अनृ॑तं वित्तका॒म्या।  
-स॒मा॒नं तन्तु॑म॒भि सं॒वसा॑नौ॒ तस्मि॒न्त्सर्वं॒ शम॑लं सादयाथः ॥५२॥  
+Whatever thou may say at dice, in meeting, whatever falsehood through desire of riches, Ye two, about one common warp uniting, deposit all impurity within it.

@@ -2,5 +2,4 @@
 title = "१५ मा ते"
 
 +++
-मा ते॑ प्रा॒ण उप॑ दस॒न्मो अ॑पा॒नोऽपि॑ धायि ते ।  
-सूर्य॒स्त्वाधि॑पतिर्मृ॒त्योरु॒दाय॑च्छतु र॒श्मिभिः॑ ॥१५॥  
+Let not thine inward breathing fail, let not thine outward breath be lost. Let Surya who is Lord Supreme raise thee from death with beams of light.

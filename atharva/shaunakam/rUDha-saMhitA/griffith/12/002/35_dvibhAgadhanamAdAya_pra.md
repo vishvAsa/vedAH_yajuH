@@ -2,5 +2,4 @@
 title = "३५ द्विभागधनमादाय प्र"
 
 +++
-द्वि॒भा॒ग॒ध॒नमा॒दाय॒ प्र क्षि॑णा॒त्यव॑र्त्या ।  
-अ॒ग्निः पु॒त्रस्य॑ ज्ये॒ष्ठस्य॒ यः क्र॒व्यादनि॑राहितः ॥३५॥  
+Agni, the banqueter on flesh, not banished, for the eldest son Taketh a double share of wealth and spoileth it with poverty.

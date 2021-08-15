@@ -2,5 +2,4 @@
 title = "०३ तनूष्टे वाजिन्"
 
 +++
-त॒नूष्टे॑ वाजिन् त॒न्वं॑१ नय॑न्ती वा॒मम॒स्मभ्यं॒ धाव॑तु॒ शर्म॒ तुभ्य॑म्।  
-अह्रु॑तो म॒हो ध॒रुणा॑य दे॒वो दि॒वीऽव ज्योतिः॒ स्वमा मि॑मीयात्॥३॥
+Bearing thy body, Charger, may thy body run blessing us and winning thee protection. May he, unswerving, to uphold the mighty, stablish his lustre as a God in heaven.

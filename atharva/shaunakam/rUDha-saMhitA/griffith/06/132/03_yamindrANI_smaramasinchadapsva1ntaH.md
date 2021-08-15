@@ -2,5 +2,4 @@
 title = "०३ यमिन्द्राणी स्मरमसिञ्चदप्स्व१न्तः"
 
 +++
-यमि॑न्द्रा॒णी स्म॒रमसि॑ञ्चद॒प्स्व॑१न्तः शोशु॑चानं स॒हाध्या।  
-तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥३॥  
+The Philter, burning with the pangs of longing, which Indrani hath effused within the waters' depth, That spell for thee I heat by Varuna's decree.

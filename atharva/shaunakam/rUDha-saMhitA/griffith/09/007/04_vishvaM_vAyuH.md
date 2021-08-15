@@ -2,4 +2,4 @@
 title = "०४ विश्वं वायुः"
 
 +++
-विश्वं॑ वा॒युः स्व॒र्गो लो॒कः कृ॑ष्ण॒द्रं वि॒धर॑णी निवे॒ष्यः ॥४॥  
+His universe is Vayu, Svarga is his world, Krishpadram is the tendons and Vertebrae.

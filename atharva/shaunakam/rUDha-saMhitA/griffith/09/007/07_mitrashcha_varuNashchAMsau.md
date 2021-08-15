@@ -2,4 +2,4 @@
 title = "०७ मित्रश्च वरुणश्चांसौ"
 
 +++
-मि॒त्रश्च॒ वरु॑ण॒श्चांसौ॒ त्वष्टा॑ चार्य॒मा च॑ दो॒षणी॑ महादे॒वो बा॒हू॥७॥  
+Mitra and Varuna are the shoulder-blades. Tvashtar and Arya- man the fore-arms, Mahadeva is the arms.

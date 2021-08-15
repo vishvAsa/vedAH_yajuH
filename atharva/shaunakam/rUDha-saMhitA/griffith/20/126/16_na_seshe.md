@@ -2,5 +2,4 @@
 title = "१६ न सेशे"
 
 +++
-न सेशे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३ कपृ॑त्।  
-सेदी॑शे॒ यस्य॒ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥१६॥  
+Indrani speaks. Non ille fortis (ad Venerem) est cujus mentula laxe inter femora dependet; fortis vero estille cujus, quum sederit, membrum pilosum se extendit. Super omnia est Indra.

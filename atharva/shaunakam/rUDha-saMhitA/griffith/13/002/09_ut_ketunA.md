@@ -2,5 +2,4 @@
 title = "०९ उत् केतुना"
 
 +++
-उत् के॒तुना॑ बृह॒ता दे॒व आग॒न्नपा॑वृ॒क् तमो॒ऽभि ज्योति॑रश्रैत्।  
-दि॒व्यः सु॑प॒र्णः स वी॒रो व्यऽख्य॒ददि॑तेः पु॒त्रो भुव॑नानि॒ विश्वा॑ ॥९॥  
+With lofty banner hath the God gone upward, and introduced the light, expelling darkness. He hath looked round on all the worlds, the Hero, the son of Aditi, Celestial Eagle.

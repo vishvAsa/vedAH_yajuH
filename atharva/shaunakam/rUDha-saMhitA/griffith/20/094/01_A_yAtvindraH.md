@@ -2,5 +2,4 @@
 title = "०१ आ यात्विन्द्रः"
 
 +++
-आ या॒त्विन्द्रः॒ स्वप॑ति॒र्मदा॑य॒ यो धर्म॑णा तूतुजा॒नस्तुवि॑ष्मान्।  
-प्र॒त्व॒क्षा॒णो अति॒ विश्वा॒ सहां॑स्यपा॒रेण॑ मह॒ता वृष्ण्ये॑न ॥१॥  
+May Sovran Indra come to the carousal, he who by holy Law is strong and active. The overcomer of all conquering forces with his great bull-like power that hath no limit.

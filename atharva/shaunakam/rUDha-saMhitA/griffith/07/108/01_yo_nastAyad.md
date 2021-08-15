@@ -2,5 +2,4 @@
 title = "०१ यो नस्तायद्"
 
 +++
-यो न॑स्ता॒यद् दिप्स॑ति॒ यो न॑ आ॒विः स्वो वि॒द्वानर॑णो वा नो अग्ने ।  
-प्र॒तीच्ये॒त्वर॑णी द॒त्वती॒ तान् मैषा॑मग्ने॒ वास्तु॑ भू॒न्मो अप॑त्यम्॥१॥  
+Whoso by stealth or openly would harm us, a friend who knows us, or a stranger, Agni! May the strange she-fiend armed with teeth attack them: O Agni, theirs be neither home nor children!

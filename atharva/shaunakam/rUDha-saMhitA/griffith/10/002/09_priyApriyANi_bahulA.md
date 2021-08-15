@@ -2,5 +2,4 @@
 title = "०९ प्रियाप्रियाणि बहुला"
 
 +++
-प्रि॒या॒प्रि॒याणि॑ बहु॒ला स्वप्नं॑ संबाधत॒न्द्यः॑ ।  
-आ॒न॒न्दानु॒ग्रो नन्दां॑श्च॒ कस्मा॑द् वहति॒ पूरु॑षः ॥९॥  
+Whence bringeth mighty Purusha both pleasant and unpleasant things, Of varied sort, sleep, and alarm, fatigue, enjoyments and de- lights?

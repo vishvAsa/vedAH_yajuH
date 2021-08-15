@@ -2,5 +2,4 @@
 title = "०५ ये क्रिमयः"
 
 +++
-ये क्रिम॑यः॒ पर्व॑तेशु॒ वने॒ष्वोष॑धीषु प॒शुष्व॒प्स्व॑१न्तः ।  
-ये अ॒स्माकं॑ त॒न्वऽमाविवि॒शुः सर्वं॒ तद्ध॑न्मि॒ जनि॑म॒ क्रिमी॑णाम्॥५॥
+Worms that are found on mountains, in the forests, that live in plants, in cattle, in the waters, Those that have made their way within our bodies,--these I destroy, the worms' whole generation.

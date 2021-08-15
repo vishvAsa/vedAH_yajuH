@@ -2,4 +2,4 @@
 title = "०१ यो विद्याद्"
 
 +++
-यो वि॒द्याद् ब्रह्म॑ प्र॒त्यक्षं॒ परूं॑षि॒ यस्य॑ संभा॒रा ऋचो॒ यस्या॑नू॒क्यऽम्॥१॥  
+Whoso will know Prayer with immediate knowledge, whose mem- bers are the stuff, whose spine the verses:

@@ -2,5 +2,4 @@
 title = "०८ शं नः"
 
 +++
-शं नः॒ सूर्य॑ उरु॒चक्षा॒ उदे॑तु॒ शं नो॑ भवन्तु प्र॒दिश॒श्चत॑स्रः ।  
-शं नः॒ पर्व॑ता ध्रु॒वयो॑ भवन्तु॒ शं नः॒ सिन्ध॑वः॒ शमु॑ स॒न्त्वापः॑ ॥८॥  
+May the far-seeing Sun rise up to bless us: be the four quarters- of the heaven auspicious. Auspicious be the firmly-seated Mountains, auspicious be the Rivers and the Waters.

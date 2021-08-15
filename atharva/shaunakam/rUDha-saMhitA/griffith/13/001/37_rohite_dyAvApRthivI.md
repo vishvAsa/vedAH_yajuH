@@ -2,5 +2,4 @@
 title = "३७ रोहिते द्यावापृथिवी"
 
 +++
-रोहि॑ते॒ द्यावा॑पृथि॒वी अधि॑ श्रि॒ते व॑सु॒जिति॑ गो॒जिति॑ संधना॒जिति॑ ।  
-स॒हस्रं॒ यस्य॒ जनि॑मानि स॒प्त च॑ वो॒चेयं॑ ते॒ नाभिं॒ भुव॑न॒स्याधि॑ म॒ज्मनि॑ ॥३७॥  
+Rohita, conqueror of cows and riches and gathered spoil, is heaven's and earth's upholder. Over earth's greatness would I tell my kinship with thee who hast a thousand births and seven.

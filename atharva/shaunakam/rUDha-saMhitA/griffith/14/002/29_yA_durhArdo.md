@@ -2,5 +2,4 @@
 title = "२९ या दुर्हार्दो"
 
 +++
-या दु॒र्हार्दो॑ युव॒तयो॒ याश्चे॒ह ज॑रती॒रपि॑ ।  
-वर्चो॒ न्व॑स्यै सं द॒त्ताथास्तं॑ वि॒परे॑तन ॥२९॥  
+Ye youthful maidens, ill-disposed, and all ye ancient woman here, Give all your brilliance to the bride, then to your several homes depart!

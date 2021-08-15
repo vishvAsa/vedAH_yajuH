@@ -2,5 +2,4 @@
 title = "१८ याश्चाहं वेद"
 
 +++
-याश्चा॒हं वेद॑ वी॒रुधो॒ याश्च॒ पश्या॑मि॒ चक्षु॑षा ।  
-अज्ञा॑ता जानी॒मश्च॒ या यासु॑ वि॒द्म च॒ संभृ॑तम्॥१८॥  
+The Plants I know myself, the plants that with mine eye I look upon, Plants yet unknown, and those we know, wherein we find that power is stored,

@@ -2,5 +2,4 @@
 title = "१३ ऋतुभिष्ट्वार्तवैरायुषे वर्चसे"
 
 +++
-ऋ॒तुभि॑ष्ट्वार्त॒वैरायु॑षे॒ वर्च॑से त्वा ।  
-सं॒व॒त्स॒रस्य॒ तेज॑सा॒ तेन॒ संह॑नु कृण्मसि ॥१३॥  
+With Seasons and with Lengths of Time, for vigour and exten- ded life, With all the splendour of the Sun we fasten thee about the neck.

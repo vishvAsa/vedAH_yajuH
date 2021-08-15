@@ -2,5 +2,4 @@
 title = "०४ कालो यज्ञं"
 
 +++
-का॒लो य॒ज्ञं समै॑रयद् दे॒वेभ्यो॑ भा॒गमक्षि॑तम्।  
-का॒ले ग॑न्धर्वाप्स॒रसः॑ का॒ले लो॒काः प्रति॑ष्ठिताः ॥४॥  
+They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandharvas and Apsarasas and worlds abide.

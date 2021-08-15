@@ -2,4 +2,4 @@
 title = "०२ वृषो अग्निः"
 
 +++
-वृषो॑ अ॒ग्निः समि॑ध्य॒तेऽश्वो॒ न दे॑व॒वाह॑नः । तं ह॒विष्म॑न्तः ईलते ॥२॥  
+Agni is kindled as a Bull, like a horse bearer of the Gods; Men with oblations worship him.

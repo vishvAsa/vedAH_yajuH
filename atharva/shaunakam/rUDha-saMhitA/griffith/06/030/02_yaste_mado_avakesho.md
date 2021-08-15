@@ -2,5 +2,4 @@
 title = "०२ यस्ते मदोऽवकेशो"
 
 +++
-यस्ते॒ मदो॑ऽवके॒शो वि॑के॒शो येना॑भि॒हस्यं॒ पुरु॑षं कृ॒णोषि॑ ।  
-आ॒रात् त्वद॒न्या वना॑नि वृक्षि॒ त्वं श॑मि श॒तव॑ल्शा॒ वि रो॑ह ॥२॥  
+Thy joy in hair that falleth or is scattered, wherewith thou sub- jectest a man to laughter To other trees, far from thee will I drive it. Grow up, thou Sami, with a hundred branches.

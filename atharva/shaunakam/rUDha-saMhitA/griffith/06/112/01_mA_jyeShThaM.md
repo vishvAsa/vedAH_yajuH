@@ -2,5 +2,4 @@
 title = "०१ मा ज्येष्ठं"
 
 +++
-मा ज्ये॒ष्ठं व॑धीद॒यम॑ग्न ए॒षां मू॑ल॒बर्ह॑णा॒त् परि॑ पाह्येनम्।  
-स ग्राह्याः॒ पाशा॒न् वि चृ॑त प्रजा॒नन् तुभ्यं॑ दे॒वा अनु॑ जानन्तु॒ विश्वे॑ ॥१॥  
+Let not this one, O Agni, wound the highest of these: preserve thou him from utter ruin. Knowing the way do thou untie the nooses of the she-fiend: let all the Gods approve thee.

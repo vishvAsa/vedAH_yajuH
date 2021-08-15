@@ -2,4 +2,4 @@
 title = "०६ त्वमिन्द्रासि वृत्रहा"
 
 +++
-त्वमि॑न्द्रासि वृत्र॒हा व्य॑१न्तरि॑क्षमतिरः । उद् द्याम॑स्तभ्ना॒ ओज॑सा ॥६॥  
+Thou art the Vritra-slayer, thou, Indra, hast spread the firmament: Thou hast with might upheld the heavens.

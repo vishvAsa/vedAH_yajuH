@@ -2,5 +2,4 @@
 title = "३० वशा द्यौर्वशा"
 
 +++
-व॒शा द्यौर्व॒शा पृ॑थि॒वी व॒शा विष्णुः॑ प्र॒जाप॑तिः ।  
-व॒शाया॑ दु॒ग्धम॑पिबन्त्सा॒ध्या वस॑वश्च॒ ये ॥३०॥  
+The Cow is Heaven, the Cow is Earth, the Cow is Vishnu, Lord of Life. e The Sadhyas and the Vasus have drunk the out-pourings of the Cow.

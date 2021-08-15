@@ -2,5 +2,4 @@
 title = "०२ व्रीहिमत्तं यवमत्तमथो"
 
 +++
-व्री॒हिम॑त्तं॒ यव॑मत्त॒मथो॒ माष॒मथो॒ तिल॑म्।  
-ए॒ष वां॑ भा॒गो निहि॑तो रत्न॒धेया॑य दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥२॥  
+Let rice and barley be your food, eat also beans and sesamum. This is the share allotted you, to be your portion, ye two Teeth. Harm not your mother and your sire.

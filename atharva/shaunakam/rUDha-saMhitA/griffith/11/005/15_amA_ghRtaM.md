@@ -2,5 +2,4 @@
 title = "१५ अमा घृतं"
 
 +++
-अ॒मा घृ॒तं कृ॑णुते॒ केव॑लमाचा॒र्यो भू॒त्वा वरु॑णो॒ यद्य॒दैच्छत् प्र॒जाप॑तौ ।  
-तद् ब्र॑ह्मचा॒री प्राय॑च्छत् स्वन् मि॒त्रो अध्या॒त्मनः॑ ॥१५॥  
+Varuna, made a Master, takes at home the butter to himself. Whatever with Prajapati he sought, the Brahmachari gave like Mitra from his loftiest soul.

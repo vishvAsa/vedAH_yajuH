@@ -2,5 +2,4 @@
 title = "१२ यस्ते गर्भममीवा"
 
 +++
-यस्ते॒ गर्भ॒ममी॑वा दु॒र्णामा॒ योनि॑मा॒शये॑ ।  
-अ॒ग्निष्टं ब्रह्म॑णा स॒ह निष्क्र॒व्याद॑मनीनशत्॥१२॥  
+Agni, concurring in the prayer, drive off the eater of thy flesh, The malady of evil name that hath attacked thy babe and womb.

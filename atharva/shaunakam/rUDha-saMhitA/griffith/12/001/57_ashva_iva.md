@@ -2,5 +2,4 @@
 title = "५७ अश्व इव"
 
 +++
-अश्व॑ इव॒ रजो॑ दुधुवे॒ वि तान् जना॒न् य आक्षि॑यन् पृथि॒वीं यादजा॑यत ।  
-म॒न्द्राग्रेत्व॑री॒ भुव॑नस्य गो॒पा वन॒स्पती॑नां॒ गृभि॒रोष॑धीनाम्॥५७॥  
+As the horse scattereth the dust, the people who dwelt upon the land, at birth, she scattered, Leader and head of all the world, delightful, the trees' protectress and the plants' upholder.

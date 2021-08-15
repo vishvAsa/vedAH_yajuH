@@ -2,5 +2,4 @@
 title = "०२ सप्त क्षरन्ति"
 
 +++
-स॒प्त क्ष॑रन्ति॒ शिश॑वे म॒रुत्व॑ते पि॒त्रे पु॒त्रासो॒ अप्य॑वीवृतन्नृ॒तानि॑ ।  
-उ॒भे इद॑स्यो॒भे अ॑स्य राजत उ॒भे य॑तेते उ॒भे अस्य पुष्यतः ॥२॥
+Seven flow for him, the youth on whom the Maruts wait: the sons have taught the Father everlasting laws. Both worlds are his: both shine belonging unto him. Both move together: both, as his possession thrive.

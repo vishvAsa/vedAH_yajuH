@@ -2,4 +2,4 @@
 title = "०५ हरितेभ्यः स्वाहा"
 
 +++
-ह॒रि॒तेभ्यः॒ स्वाहा॑ ॥५॥  
+To the golden-hued ones, Hail!

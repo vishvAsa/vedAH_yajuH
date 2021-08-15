@@ -2,5 +2,4 @@
 title = "०५ ऋक् साम"
 
 +++
-ऋक् साम॒ यजु॒रुच्छि॑ष्ट उद्गी॒थः प्रस्तु॑तं स्तु॒तम्।  
-हि॒ङ्का॒र उच्छि॑ष्टे॒ स्वरः॒ साम्नो॑ मे॒डिश्च॒ तन्मयि॑ ॥५॥  
+Verse, Song, and Sacrificial Text, chanting, the prelude, and the laud, The hum is in the Residue, the tone, the murmur of the psalm.

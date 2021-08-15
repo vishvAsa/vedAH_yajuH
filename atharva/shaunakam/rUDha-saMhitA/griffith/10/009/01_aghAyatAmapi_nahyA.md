@@ -2,5 +2,4 @@
 title = "०१ अघायतामपि नह्या"
 
 +++
-अ॒घा॒य॒तामपि॑ नह्या॒ मुखा॑नि स॒पत्ने॑षु॒ वज्र॑मर्पयै॒तम्।  
-इन्द्रे॑ण द॒त्ता प्र॑थ॒मा श॒तौद॑ना भ्रातृव्य॒घ्नी यज॑मानस्य गा॒तुः ॥१॥  
+Binding the mouths of those who threaten mischief, against my rivals cast this bolt of thunder, Indra first gave the Hundredfold Oblation, welfare of him who worships, foe-destroying.

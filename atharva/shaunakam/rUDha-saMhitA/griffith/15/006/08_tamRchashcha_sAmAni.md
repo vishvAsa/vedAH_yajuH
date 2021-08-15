@@ -2,4 +2,4 @@
 title = "०८ तमृचश्च सामानि"
 
 +++
-तमृच॑श्च॒ सामा॑नि च॒ यजूं॑षि च॒ ब्रह्म॑ चानु॒व्यऽचलन्॥८॥  
+He went away to the regions. Viraj and all the Gods and all the Deities followed him. He who, etc.

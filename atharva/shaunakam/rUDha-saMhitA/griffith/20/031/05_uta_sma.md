@@ -2,5 +2,4 @@
 title = "०५ उत स्म"
 
 +++
-उ॒त स्म॒ सद्म॑ हर्य॒तस्य॑ प॒स्त्यो॒३रत्यो॒ न वाजं॒ हरि॑वां अचिक्रदत्।  
-म॒ही चि॒द्धि धि॒षणाह॑र्य॒दोज॑सा बृ॒हद् वयो॑ दधिषे हर्य॒तश्चि॒दा॥५॥
+Yea, to the dear one's seat in homes of heaven and earth the- bay steeds' Lord hath whinnied like a horse for food. Then the great wish hath seized upon him mightily, and the beloved One hath gained high power of life.

@@ -2,5 +2,4 @@
 title = "२५ वि तिष्ठन्तां"
 
 +++
-वि ति॑ष्ठन्तां मा॒तुर॒स्या उ॒पस्था॒न्नाना॑रूपाः प॒शवो॒ जाय॑मानाः ।  
-सु॒म॒ङ्ग॒ल्युप॑ सीदे॒मम॒ग्निं संप॑त्नी॒ प्रति॑ भूषे॒ह दे॒वान्॥२५॥  
+Let many babes of varied form and nature spring in succession from this fruitful mother. Wait on this fire, thou bringer of good fortune. Here with thy husband serve the Gods with worship.

@@ -2,4 +2,4 @@
 title = "४६ सर्वानग्ने सहमानः"
 
 +++
-सर्वा॑नग्ने॒ सह॑मानः स॒पत्ना॒नैषा॒मूर्जं॑ र॒यिम॒स्मासु॑ धेहि ॥४६॥  
+Subduing all our adversaries, Agni, give us their food, their strength and their possessions.

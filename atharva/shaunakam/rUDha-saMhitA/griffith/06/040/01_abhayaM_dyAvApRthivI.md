@@ -2,5 +2,4 @@
 title = "०१ अभयं द्यावापृथिवी"
 
 +++
-अभ॑यं द्यावापृथिवी इ॒हास्तु॒ नोऽभ॑यं॒ सोमः॑ सवि॒ता नः॑ कृणोतु ।  
-अभ॑यं नोऽस्तू॒र्व॑१न्तरि॑क्षं सप्तऋषी॒णां च॑ ह॒विषाभ॑यं नो अस्तु ॥१॥  
+Here may we dwell, O Heaven and Earth, in safety. May Savitar and Soma send us safety. Our safety be the wide air: ours be safety through the oblation of the Seven Rishis.

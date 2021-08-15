@@ -2,5 +2,4 @@
 title = "१३ मुह्यन्त्वेषां बाहवश्चित्ताकूतं"
 
 +++
-मुह्य॑न्त्वेषां बा॒हव॑श्चित्ताकू॒तं च॒ यद्धृ॒दि।  
-मैषा॒मुच्छे॑षि॒ किं च॒न र॑दि॒ते अ॑र्बुदे॒ तव॑ ॥१३॥  
+Let those mens' arms grow faint and weak, dull be the purpose of their heart; And let not aught of them be left when thou, O Arbudi, hast pierced.

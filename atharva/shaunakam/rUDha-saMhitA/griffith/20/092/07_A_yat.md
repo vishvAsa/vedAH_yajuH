@@ -2,5 +2,4 @@
 title = "०७ आ यत्"
 
 +++
-आ यत् पत॑न्त्ये॒न्यः सु॒दुघा॒ अन॑पस्फुरः ।  
-अ॒प॒स्फुरं॑ गृभायत॒ सोम॒मिन्द्रा॑य॒ पात॑वे ॥७॥  
+When hither speed the dappled cows, unflinching, easy to be milked, Seize quickly, as it bursts away, the Soma juice for Indra's drink.

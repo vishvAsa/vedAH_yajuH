@@ -2,5 +2,4 @@
 title = "०९ ऋतून् यज"
 
 +++
-ऋ॒तून् य॑ज ऋतु॒पती॑नार्त॒वानु॒त हा॑य॒नान्।  
-समाः॑ संवत्स॒रान् मासा॑न् भू॒तस्य॒ पत॑ये यजे ॥९॥  
+The Seasons, and the Seasons' Lords I worship, annual parts and groups. Half years, Years, Months, I offer to the Lord of all existing things.

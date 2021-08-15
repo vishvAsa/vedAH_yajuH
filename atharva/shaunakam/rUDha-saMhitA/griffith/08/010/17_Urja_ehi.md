@@ -2,4 +2,4 @@
 title = "१७ ऊर्ज एहि"
 
 +++
-ऊर्ज॒ एहि॒ स्वध॒ एहि॒ सूनृ॑त॒ एहीरा॑व॒त्येहीति॑ ॥४॥(११)  
+Waters from Vamdevya come, from Yajnayajniya sacrifice.

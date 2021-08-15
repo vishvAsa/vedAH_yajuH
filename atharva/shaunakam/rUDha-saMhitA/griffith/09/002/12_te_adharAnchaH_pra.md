@@ -2,5 +2,4 @@
 title = "१२ तेऽधराञ्चः प्र"
 
 +++
-तेऽध॒राञ्चः॒ प्र प्ल॑वन्तां छि॒न्ना नौरि॑व॒ बन्ध॑नात्।  
-न साय॑कप्रणुत्तानां॒ पुन॑रस्ति नि॒वर्त॑नम्॥१२॥  
+Let them drift downward like a boat torn from the rope that held it fast. There is no turning back for those whom our keen arrows have repelled.

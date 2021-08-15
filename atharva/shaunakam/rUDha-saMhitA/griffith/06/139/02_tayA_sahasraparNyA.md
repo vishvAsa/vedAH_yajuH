@@ -2,4 +2,4 @@
 title = "०२ तया सहस्रपर्ण्या"
 
 +++
-तया॑ सहस्रप॒र्ण्या हृद॑यं शोषयामि ते ॥१॥  
+Let thy heart wither for my love and let thy month be dry for me. Parch and dry up with longing, go with lips that love of me hath dried.

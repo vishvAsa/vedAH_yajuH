@@ -2,5 +2,4 @@
 title = "०१ अन्तरिक्षेण पतति"
 
 +++
-अ॒न्तरि॑क्षेण पतति॒ विश्वा॑ भू॒ताव॒चाक॑शत्।  
-शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥१॥  
+He flieth in the firmament observing all the things that be: We with this offering will adore the greatness of the Heavenly Hound.

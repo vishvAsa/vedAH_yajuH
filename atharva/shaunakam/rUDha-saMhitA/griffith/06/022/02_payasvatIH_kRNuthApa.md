@@ -2,5 +2,4 @@
 title = "०२ पयस्वतीः कृणुथाप"
 
 +++
-पय॑स्वतीः कृणुथा॒प ओष॑धीः शि॒वा यदेज॑था मरुतो रुक्मवक्षसः ।  
-ऊर्जं॑ च॒ तत्र॑ सुम॒तिं च॑ पिन्वत॒ यत्रा॑ नरो मरुतः सि॒ञ्चथा॒ मधु॑ ॥२॥  
+Ye make floods rich in milk, make plants propitious, what time ye stir, O golden-breasted Maruts! Pour down your showers of vigorous strength and favour there where ye sprinkle mead, O Maruts, heroes!

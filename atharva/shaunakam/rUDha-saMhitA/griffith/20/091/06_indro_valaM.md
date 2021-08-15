@@ -2,5 +2,4 @@
 title = "०६ इन्द्रो वलं"
 
 +++
-इन्द्रो॑ व॒लं र॑क्षि॒तारं॒ दुघा॑नां क॒रेणे॑व॒ वि च॑कर्ता॒ रवे॑ण ।  
-स्वेदा॑ञ्जिभिरा॒शिर॑मि॒च्छमा॒नोऽरो॑दयत् प॒णिमा गा अ॑मुष्णात्॥६॥  
+As with a hand, so with his roaring Indra cleft Vala through,. the guardian of the cattle. Seeking the milk-draught with sweat-shining comrades he stole: the Pani's kine and left him weeping.

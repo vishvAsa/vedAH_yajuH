@@ -2,5 +2,7 @@
 title = "०७ यत् संयमो"
 
 +++
-यत् सं॒यमो॒ न वि य॑मो॒ वि य॑मो॒ यन्न सं॒यमः॑ ।  
-इ॒न्द्र॒जाः सो॑म॒जा आ॑थर्व॒णम॑सि व्याघ्र॒जम्भ॑नम्॥७॥
+id
+4.3.7    Open not what thou hast compressed, close not ...
+4.3.7    Open not what thou hast compressed, close not ...
+Name: Comment, dtype: object

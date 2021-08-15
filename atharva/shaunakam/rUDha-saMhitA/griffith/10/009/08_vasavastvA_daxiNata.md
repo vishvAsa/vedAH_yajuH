@@ -2,5 +2,4 @@
 title = "०८ वसवस्त्वा दक्षिणत"
 
 +++
-वस॑वस्त्वा दक्षिण॒त उ॑त्त॒रान्म॒रुत॑स्त्वा ।  
-आ॒दि॒त्याः प॒श्चाद् गो॑प्स्यन्ति॒ साग्नि॑ष्टो॒ममति॑ द्रव ॥८॥  
+The Vasus from the South will be thy guards, the Maruts from the North, Adityas from the West; o'ertake and pass the Agnishtoma, thou!

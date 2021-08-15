@@ -2,4 +2,4 @@
 title = "०१ अग्निं ते"
 
 +++
-अ॒ग्निं ते वसु॑वन्तमृच्छन्तु ।ये मा॑घा॒यवः॒ प्राच्या॑ दि॒शोऽभि॒दासा॑त्॥१॥  
+Let those who vex me from the eastern region, sinners, praise Agni followed by the Vasus.

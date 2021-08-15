@@ -2,5 +2,4 @@
 title = "०५ विजेषकृदिन्द्र इवानवब्रवो३ऽस्माकं"
 
 +++
-वि॒जे॒ष॒कृदिन्द्र॑ इवानवब्र॒वो॒३ऽस्माकं॑ मन्यो अधि॒पा भ॑वे॒ह।  
-प्रि॒यं ते॒ नाम॑ सहुरे गृणीमसि वि॒द्मा तमुत्सं॒ यत॑ आब॒भूथ॑ ॥५॥  
+Unyielding, bringing victory like Indra, O Manyu be thou here our sovran ruler. To thy dear name. O victor, we sing praises: we know the spring from which thou art come hither.

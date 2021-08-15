@@ -2,5 +2,4 @@
 title = "१९ त्रिषन्धे तमसा"
 
 +++
-त्रिष॑न्धे॒ तम॑सा॒ त्वम॒मित्रा॒न् परि॑ वारय ।  
-पृ॒ष॒दा॒ज्यप्र॑णुत्तानां॒ मामीषां॑ मोचि॒ कश्च॒न॥१९॥  
+Do thou, Trishandhi, with the gloom of darkness compass round our foes; Let none escape of them expelled with speckled butter mixt with curds.

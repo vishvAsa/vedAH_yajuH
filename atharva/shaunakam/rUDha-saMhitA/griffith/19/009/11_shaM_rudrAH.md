@@ -2,5 +2,4 @@
 title = "११ शं रुद्राः"
 
 +++
-शं रु॒द्राः शं वसवः॒ शमा॑दि॒त्याः शम॒ग्नयः॑ ।  
-शं नो॑ मह॒र्षयो॑ दे॒वाः शं दे॒वाः शं बृह॒स्पतिः॑ ॥११॥  
+Rudras and Vasus favour us, Adityas, Agnis favour us! Favour us mighty Rishis, Gods, Goddesses, and Brihaspati!

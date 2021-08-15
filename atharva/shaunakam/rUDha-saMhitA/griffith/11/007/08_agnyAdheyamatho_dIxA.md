@@ -2,5 +2,4 @@
 title = "०८ अग्न्याधेयमथो दीक्षा"
 
 +++
-अ॒ग्न्या॒धेय॒मथो॑ दी॒क्षा का॑म॒प्रश्छन्द॑सा स॒ह।  
-उत्स॑न्ना य॒ज्ञाः स॒त्राण्युच्छि॒ष्टेऽधि॑ स॒माहि॑ताः ॥८॥  
+Diksha and Agnyadheya rite that sates the wish, with magic- hymn, Suspended rites, long sessions, are contained within the Residue.

@@ -2,5 +2,4 @@
 title = "३२ धाना धेनुरभवद्"
 
 +++
-धा॒ना धे॒नुर॑भवद् व॒त्सो अ॑स्यास्ति॒लोऽभवत्।  
-तां वै य॒मस्य॒ राज्ये॒ अक्षि॑ता॒मुप॑ जीवति ॥३२॥  
+The grains of corn have now become a cow, the Sesamum her calf. He in the realm of Yama lives on her the inexhaustible.

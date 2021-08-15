@@ -2,5 +2,4 @@
 title = "१७ ब्रह्मचर्येण तपसा"
 
 +++
-ब्र॒ह्म॒चर्ये॑ण॒ तप॑सा॒ राजा॑ रा॒ष्ट्रं वि र॑क्षति ।  
-आ॒चा॒र्योऽ ब्रह्म॒चर्ये॑ण ब्रह्मचा॒रिण॑मिच्छते ॥१७॥  
+By Fervour and by self-restraint the King protects the realm he rules. By self-restraint the Master seeks a Brahmachari to instruct.

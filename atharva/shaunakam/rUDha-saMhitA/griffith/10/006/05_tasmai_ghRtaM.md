@@ -2,5 +2,4 @@
 title = "०५ तस्मै घृतं"
 
 +++
-तस्मै॑ घृ॒तं सुरां॒ मध्वन्न॑मन्नं क्षदामहे ।  
-स नः॑ पि॒तेव॑ पु॒त्रेभ्यः॒ श्रेयः॑श्रेयश्चिकित्सतु॒ भूयो॑भूयः॒ श्वःश्वो॑ दे॒वेभ्यो॒ म॒णिरेत्य॑ ॥५॥  
+To this we give apportioned food, clarified butter, wine, and meath. May it provide each boon for us as doth a father for his sons. Again, again, from morn to morn, having approached the deities.

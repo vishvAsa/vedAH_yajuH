@@ -2,5 +2,4 @@
 title = "०४ श्रुत्कर्णाय कवये"
 
 +++
-श्रुत्क॑र्णाय क॒वये॒ वेद्या॑य॒ वचो॑भिर्वा॒कैरुप॑ यामि रा॒तिम्।  
-यतो॑ भ॒यमभ॑यं॒ तन्नो॑ अ॒स्त्वव॑ दे॒वानां॑ यज॒ हेडो॑ अग्ने ॥४॥
+To him the wise, the famous, swift to listen, with words and verses I come nigh for bounty. May we be safe from threatening danger. Soften by sacrifice the- wrath of Gods, O Agni.

@@ -2,5 +2,4 @@
 title = "०३ अन्तरिक्षे वायवे"
 
 +++
-अ॒न्तरि॑क्षे वा॒यवे॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
-यथा॒न्तरि॑क्षे वा॒यवे॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥३॥  
+Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Vayu in the air, so let the Favour- ing Graces bow them down to me.

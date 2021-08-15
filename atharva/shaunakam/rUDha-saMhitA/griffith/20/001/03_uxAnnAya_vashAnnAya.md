@@ -2,4 +2,4 @@
 title = "०३ उक्षान्नाय वशान्नाय"
 
 +++
-उ॒क्षान्ना॑य व॒शान्ना॑य॒ सोम॑पृष्ठाय वे॒धसे॑ । स्तोमै॑र्विधेमा॒ग्नये॑ ॥३॥
+Let us serve Agni with our hyms, Sage who consumeth ox and cow, Who beareth Soma on his back.

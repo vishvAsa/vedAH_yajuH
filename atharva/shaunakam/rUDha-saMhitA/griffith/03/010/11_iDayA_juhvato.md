@@ -2,5 +2,4 @@
 title = "११ इडया जुह्वतो"
 
 +++
-इड॑या॒ जुह्व॑तो व॒यं दे॒वान् घृ॒तव॑ता यजे ।  
-गृ॒हानलु॑भ्यतो व॒यं सं वि॑शे॒मोप॒ गोम॑तः ॥११॥  
+With fatness and libation we sacrifice and adore the Gods. Wealthy in kine may we retire to rest us in our modest homes.

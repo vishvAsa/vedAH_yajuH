@@ -2,5 +2,4 @@
 title = "०१ इन्द्रो मदाय"
 
 +++
-इन्द्रो॒ मदा॑य वावृधे॒ शव॑से वृत्र॒हा नृभिः॑ ।  
-तमिन्म॒हत्स्वा॒जिषू॒तेमर्भे॑ हवामहे॒ स वाजे॑षु॒ प्र नो॑ऽविषत्॥१॥  
+Indra, foe-slayer, hath been raised to joy and power by the men. Him, verily, we invocate in battles whether great or small: be he our aid in fights for spoil.

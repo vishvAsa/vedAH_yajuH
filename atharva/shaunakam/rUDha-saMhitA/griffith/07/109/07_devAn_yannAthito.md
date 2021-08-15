@@ -2,5 +2,4 @@
 title = "०७ देवान् यन्नाथितो"
 
 +++
-दे॒वान् यन्ना॑थि॒तो हु॒वे ब्र॑ह्म॒चर्यं॒ यदू॑षि॒म।  
-अ॒क्षान् यद् ब॒भ्रूना॒लभे॒ ते नो॑ मृडन्त्वी॒दृशे॑ ॥७॥
+As I invoke the Gods at need, as I have lived in chastity, May these, when I have grasped the Dice, the brown, be kind to one like me.

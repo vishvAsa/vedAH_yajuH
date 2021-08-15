@@ -2,5 +2,4 @@
 title = "०३ सूषा व्यूर्णोतु"
 
 +++
-सू॒षा व्यू॑र्णोतु॒ वि योनिं॑ हापयामसि ।  
-श्र॒थया॑ सूषणे॒ त्वमव॒ त्वं बि॑ष्कले सृज ॥३॥  
+Puerpera (infatem) detegat: nos uterum aperimus. Lexa teipsam, puerpera. Tu, parturiens! emitte eum non carni, non adipi, non medullae adhaerntem.

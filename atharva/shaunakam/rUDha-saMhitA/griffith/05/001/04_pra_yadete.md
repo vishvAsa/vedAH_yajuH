@@ -2,5 +2,4 @@
 title = "०४ प्र यदेते"
 
 +++
-प्र यदे॒ते प्र॑त॒रं पू॒र्व्यं गुः सदः॑सद आ॒तिष्ठ॑न्तो अजु॒र्यम्।  
-क॒विः शु॒षस्य॑ मा॒तरा॑ रिहा॒णे जा॒म्यै धुर्यं॒ पति॒मेर॑येथाम्॥४॥  
+As these have gone to their primeval station, each gaining an imperishable dwelling, May kissing mothers of the bards' beloved bring the pole-draw- ing husband to the sister.

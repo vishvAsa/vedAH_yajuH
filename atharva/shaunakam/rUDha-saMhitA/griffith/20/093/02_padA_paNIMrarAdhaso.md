@@ -2,4 +2,4 @@
 title = "०२ पदा पणींरराधसो"
 
 +++
-प॒दा प॒णींर॑रा॒धसो॒ नि बा॑धस्व म॒हां अ॑सि । न॒हि त्वा॒ कश्च॒न प्रति॑ ॥२॥  
+Crush with thy foot the niggard churls who bring no gifts. Might art thou: There is not one to equal thee.

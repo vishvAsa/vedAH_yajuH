@@ -2,5 +2,4 @@
 title = "३८ यशा यासि"
 
 +++
-य॒शा या॑सि प्र॒दिशो॑ दिश॑श्च य॒शाः प॑शू॒नामु॒त च॑र्षणी॒नाम्।  
-य॒शाः पृ॑थि॒व्या अदि॑त्या उ॒पस्थे॒ऽहं भू॑यासं सवि॒तेव॒ चारुः॑ ॥३८॥  
+A glorious sight to beasts and men, thou goest glorious to the regions and mid-regions. On earth's, on Aditi's bosom, bright with glory. Fain would I equal Savitar in beauty.

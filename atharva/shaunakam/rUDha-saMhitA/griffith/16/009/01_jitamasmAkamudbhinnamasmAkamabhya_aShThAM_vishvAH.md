@@ -2,4 +2,4 @@
 title = "०१ जितमस्माकमुद्भिन्नमस्माकमभ्यऽष्ठां विश्वाः"
 
 +++
-जि॒तम॒स्माक॒मुद्भि॑न्नम॒स्माक॑म॒भ्यऽष्ठां॒ विश्वाः॒ पृत॑ना॒ अरा॑तीः ॥१॥  
+Ours is superior place and ours is conquest: may I in all fights tread down spite and malice.

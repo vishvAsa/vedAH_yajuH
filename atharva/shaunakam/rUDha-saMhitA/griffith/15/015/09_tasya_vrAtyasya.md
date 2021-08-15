@@ -2,4 +2,4 @@
 title = "०९ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य ।योऽस्य सप्त॒मः प्रा॒णोऽप॑रिमितो॒ नाम॒ ता इ॒माः प्र॒जाः ॥९॥
+His seventh vital breath, called Unlimited, are these creatures.

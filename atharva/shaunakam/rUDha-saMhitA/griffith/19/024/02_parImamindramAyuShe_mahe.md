@@ -2,5 +2,4 @@
 title = "०२ परीममिन्द्रमायुषे महे"
 
 +++
-परी॒ममिन्द्र॒मायु॑षे म॒हे क्ष॒त्राय॑ धत्तन ।  
-यथै॑नं ज॒रसे॑ न॒यां ज्योक् क्ष॒त्रेऽधि॑ जागरत्॥२॥  
+Invest this Indra for long life, invest him for great princely power, That I may lead him on to eld, that the man watch his princedom long.

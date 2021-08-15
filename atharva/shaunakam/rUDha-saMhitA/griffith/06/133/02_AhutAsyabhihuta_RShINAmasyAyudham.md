@@ -2,5 +2,4 @@
 title = "०२ आहुतास्यभिहुत ऋषीणामस्यायुधम्"
 
 +++
-आहु॑तास्य॒भिहु॑त॒ ऋषी॑णाम॒स्यायु॑धम्।  
-पूर्वा॑ व्र॒तस्य॑ प्राश्न॒ती वी॑र॒घ्नी भ॑व मेखले ॥२॥  
+Thou, weapon of the Rishis, art adored and served with sacrifice. First tasting of the votive milk, Zone, be a hero-slayer thou!

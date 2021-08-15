@@ -2,5 +2,4 @@
 title = "०५ शुनं सुफाला"
 
 +++
-शु॒नं सु॑फा॒ला वि तु॑दन्तु॒ भूमिं॑ शु॒नं की॒नाशा॒ अनु॑ यन्तु वा॒हान्।  
-शुना॑सीरा ह॒विषा॒ तोश॑माना सुपिप्प॒ला ओष॑धीः कर्तम॒स्मै॥५॥  
+Happily let the shares turn up the ploughland, the ploughers happily follow the oxen. Pleased with our sacrifice, Suna and Sira! make the plants bring this man abundant produce.

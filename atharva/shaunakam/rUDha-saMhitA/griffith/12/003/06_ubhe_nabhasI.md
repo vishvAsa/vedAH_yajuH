@@ -2,5 +2,4 @@
 title = "०६ उभे नभसी"
 
 +++
-उ॒भे नभ॑सी उ॒भयां॑श्च लो॒कान् ये यज्व॑नाम॒भिजि॑ताः स्व॒र्गाः ।  
-तेषां॒ ज्योति॑ष्मा॒न् मधु॑मा॒न् यो अग्रे॒ तस्मि॑न् पु॒त्रैर्ज॒रसि॒ सं श्र॑येथाम्॥६॥  
+Live with your sons, when life on earth is ended, live in the sphere most rich in light and sweetness. In skies that have been won by sacrificers make both the worlds, earth, heaven, your habitation.

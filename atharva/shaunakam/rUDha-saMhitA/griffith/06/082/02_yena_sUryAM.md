@@ -2,5 +2,4 @@
 title = "०२ येन सूर्यां"
 
 +++
-येन॑ सू॒र्यां सा॑वि॒त्रीम॒श्विनो॒हतुः॑ प॒था।  
-तेन॒ माम॑ब्रवी॒द् भगो॑ जा॒यामा व॑हता॒दिति॑ ॥२॥  
+Thus Bhaga spake to me: Let him bring thee a consort by the path. Whereon the Asvins brought the bride Surya the child of Savitar.

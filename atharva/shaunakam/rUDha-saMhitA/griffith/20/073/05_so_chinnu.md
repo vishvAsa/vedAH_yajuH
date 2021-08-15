@@ -2,5 +2,4 @@
 title = "०५ सो चिन्नु"
 
 +++
-सो चि॒न्नु वृ॒ष्टिर्यू॒थ्या॒३ स्वा सचां॒ इन्द्रः॒ श्मश्रू॑णि॒ हरि॑ता॒भि प्रु॑ष्णुते ।  
-अव॑ वेति सु॒क्षयं॑ सु॒ते मधूदिद् धू॑णोति॒ वातो॒ यथा॒ वन॑म्॥५॥  
+With him too is this rain of his that comes like herds: Indra throws drops of moisture on his yellow beard. When the sweet juice is shed he seeks the pleasant place, and stirs the worshipper as the wind disturbs the wood.

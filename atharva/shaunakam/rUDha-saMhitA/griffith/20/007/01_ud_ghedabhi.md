@@ -2,4 +2,4 @@
 title = "०१ उद् घेदभि"
 
 +++
-उद् घेद॒भि श्रु॒ताम॑घं वृष॒भं नर्या॑पसम्। अस्ता॑रमेषि सूर्य ॥१॥  
+Surya, thou mountest up to meet the Hero famous for his wealth, Who hurls the bolt and works for man:

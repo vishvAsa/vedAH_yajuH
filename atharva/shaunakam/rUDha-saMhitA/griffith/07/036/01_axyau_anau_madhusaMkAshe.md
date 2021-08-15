@@ -2,5 +2,4 @@
 title = "०१ अक्ष्यौऽनौ मधुसंकाशे"
 
 +++
-अ॒क्ष्यौऽनौ॒ मधु॑संकाशे॒ अनी॑कं नौ स॒मञ्ज॑नम्।  
-अ॒न्तः कृ॑ष्णुष्व॒ मां हृ॒दि मन॒ इन्नौ॑ स॒हास॑ति ॥१॥
+Sweet are the glances of our eyes, our faces are as smooth as balm, Within thy bosom harbour me; one spirit dwell in both of us!

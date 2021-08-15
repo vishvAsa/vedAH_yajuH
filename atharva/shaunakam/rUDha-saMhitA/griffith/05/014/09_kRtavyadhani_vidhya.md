@@ -2,5 +2,4 @@
 title = "०९ कृतव्यधनि विध्य"
 
 +++
-कृत॑व्यधनि॒ विध्य॒ तं यश्च॒कार॒ तमिज्ज॑हि ।  
-न त्वामच॑क्रुषे व॒यं व॒धाय॒ सं शि॑शीमहि ॥९॥  
+Thou who hast piercing weapons, pierce him who hath wrought it; conquer him. We do not sharpen thee to slay the man who hath not practised it.

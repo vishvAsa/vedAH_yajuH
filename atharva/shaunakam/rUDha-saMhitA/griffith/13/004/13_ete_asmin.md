@@ -2,4 +2,4 @@
 title = "१३ एते अस्मिन्"
 
 +++
-ए॒ते अ॑स्मिन् दे॒वा ए॑क॒वृतो॑ भवन्ति ॥१३॥
+In him these Deities become simple and One

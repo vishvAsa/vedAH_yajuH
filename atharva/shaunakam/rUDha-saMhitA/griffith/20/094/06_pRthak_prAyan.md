@@ -2,5 +2,4 @@
 title = "०६ पृथक् प्रायन्"
 
 +++
-पृथ॒क् प्राय॑न् प्रथ॒मा दे॒वहू॑त॒योऽकृ॑ण्वत श्रव॒स्याऽनि दु॒ष्टरा॑ ।  
-न ये शे॒कुर्य॒ज्ञियां॒ नाव॑मा॒रुह॑मी॒र्मैव ते न्य॑विशन्त॒ केप॑यः ॥६॥  
+Far went our earliest invocations of the Gods, and won us glories that can never be surpassed. They who could not ascend the ship of sacrifice sink down in desolation, trembling with alarm.

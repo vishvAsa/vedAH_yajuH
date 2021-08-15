@@ -2,5 +2,4 @@
 title = "०५ शिवां रात्रिमनुसूर्यं"
 
 +++
-शि॒वां रात्रि॑मनु॒सूर्यं॑ च हि॒मस्य॑ मा॒ता सु॒हवा॑ नो अस्तु ।  
-अ॒स्य स्तोम॑स्य सुभगे॒ नि बो॑ध॒ येन॑ त्वा॒ वन्दे॒ विश्वा॑सु दि॒क्षु॥५॥  
+Kind through the Night be absence of the sunshine: Mother of Frost, may she be swift to hear us. Take notice of the hymn, thou highly favoured, wherewith I worship thee in all the regions.

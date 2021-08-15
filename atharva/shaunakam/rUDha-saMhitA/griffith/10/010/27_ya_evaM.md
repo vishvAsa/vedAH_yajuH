@@ -2,5 +2,4 @@
 title = "२७ य एवं"
 
 +++
-य ए॒वं वि॒द्यात् स व॒शां प्रति॑ गृह्णीयात्।  
-तथा॑ हि य॒ज्ञः सर्व॑पाद् दु॒हे दा॒त्रेऽन॑पस्फुरन्॥२७॥  
+The man who hath this knowledge may receive the Cow with. welcoming. So for the giver willingly doth perfect sacrifice pour milk.

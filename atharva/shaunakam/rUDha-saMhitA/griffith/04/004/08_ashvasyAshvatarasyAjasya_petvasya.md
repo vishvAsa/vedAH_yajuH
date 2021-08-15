@@ -2,5 +2,4 @@
 title = "०८ अश्वस्याश्वतरस्याजस्य पेत्वस्य"
 
 +++
-अश्व॑स्याश्वत॒रस्या॒जस्य॒ पेत्व॑स्य च ।  
-अथ॑ ऋष॒भस्य॒ ये वाजा॒स्तान॒स्मिन्धे॑हि तनूवशिन्॥८॥
+Quae sunt equi vires, muli, capri, arietis, atque tauri, illas, cor- poris potens! in hoc homine depone.

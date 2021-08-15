@@ -2,4 +2,4 @@
 title = "३१ तस्मान्मनुष्येऽभ्य उभयद्युरुप"
 
 +++
-तस्मा॑न्मनु॒ष्ये॒ऽभ्य उभय॒द्युरुप॑ हर॒न्त्युपा॑स्य गृ॒हे ह॑रन्ति॒ य ए॒वं वेद॑ ॥८॥(२१)  
+And did he not repel, if in his spirit he said, I drive thee back, he would repel it.

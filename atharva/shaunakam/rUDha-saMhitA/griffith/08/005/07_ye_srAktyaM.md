@@ -2,5 +2,4 @@
 title = "०७ ये स्राक्त्यं"
 
 +++
-ये स्रा॒क्त्यं म॒णिं जना॒ वर्मा॑णि कृ॒ण्वते॑ ।  
-सूर्य॑ इव॒ दिव॑मा॒रुह्य॒ वि कृ॒त्या बा॑धते व॒शी॥७॥  
+Whoever for his armour takes an amulet of the Sraktya tree, Like the Sun risen up to heaven, quells witchcraft with superior might.

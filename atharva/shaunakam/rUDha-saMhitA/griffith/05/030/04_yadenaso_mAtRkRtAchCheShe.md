@@ -2,5 +2,4 @@
 title = "०४ यदेनसो मातृकृताच्छेषे"
 
 +++
-यदेन॑सो मा॒तृकृ॑ता॒च्छेषे॑ पि॒तृकृ॑ताच्च॒ यत्।  
-उ॒न्मो॒च॒न॒प्र॒मो॒च॒ने उ॒भे वा॒चा व॑दामि ते ॥४॥  
+If thou art lying there because of mother's or of father's sin, I with my voice declare to thee thy freedom and release there- from.

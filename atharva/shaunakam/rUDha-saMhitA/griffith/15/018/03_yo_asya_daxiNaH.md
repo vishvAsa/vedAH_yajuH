@@ -2,4 +2,4 @@
 title = "०३ योऽस्य दक्षिणः"
 
 +++
-योऽस्य॒ दक्षि॑णः॒ कर्णो॒ऽयं सो अ॒ग्निर्योऽस्य स॒व्यः कर्णो॒ऽयं स पव॑मानः ॥३॥  
+His right ear is Agni and his left ear is Pavamana.

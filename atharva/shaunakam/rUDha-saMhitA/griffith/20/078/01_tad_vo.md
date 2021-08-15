@@ -2,4 +2,4 @@
 title = "०१ तद् वो"
 
 +++
-तद् वो॑ गाय सु॒ते सचा॑ पुरुहू॒ताय॒ सत्व॑ने । शं यद् गवे॒ न शा॒किने॑ ॥१॥  
+Sing this, what time the juice is pressed, to him your Hero much-invoked, To please him as a mighty, Bull.

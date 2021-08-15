@@ -2,5 +2,4 @@
 title = "०५ मादयस्व सुते"
 
 +++
-मा॒दय॑स्व सु॒ते सचा॒ शव॑से शूर॒ राध॑से ।  
-वि॒द्मा हि त्वा॑ पुरू॒वसु॒मुप॒ कामा॑न्त्ससृ॒ज्महेऽथा॑ नोऽवि॒ता भ॑व ॥५॥  
+Refresh thee, Hero, with the juice outpoured for bounty and for strength. We know thee Lord of ample store, to thee have sent our heart's desires: be therefore our protector thou.

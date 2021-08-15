@@ -2,5 +2,4 @@
 title = "२६ मर्माविधं रोरुवतं"
 
 +++
-म॒र्मा॒विधं॒ रोरु॑वतं सुप॒र्णैर॒दन्तु॑ दु॒श्चितं॑ मृदि॒तं शया॑नम्।  
-य इ॒मां प्र॒तीची॒माहु॑तिम॒मित्रो॑ नो॒ युयु॑त्सति ॥२६॥  
+With eagles let them eat the evil-hearted, pierced in the vitals, lying crushed and howling. The foe whoe'er will fight against this our protecting sacrifice.

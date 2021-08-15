@@ -2,4 +2,4 @@
 title = "०८ इन्द्रं ते"
 
 +++
-इन्द्रं॒ ते म॒रुत्व॑न्तमृच्छन्तु । ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त्॥८॥  
+Let those who vex me from this quarter, sinners, praise Indra with the Marut host about him.

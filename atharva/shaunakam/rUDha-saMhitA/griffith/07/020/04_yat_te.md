@@ -2,5 +2,4 @@
 title = "०४ यत् ते"
 
 +++
-यत् ते॒ नाम॑ सु॒हवं॑ सुप्रणी॒तेऽनु॑मते॒ अनु॑मतं सु॒दानु॑ ।  
-तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म्॥४॥  
+Thy name is easy to invoke, good leader! approved, Anumati and rich in bounty. Source of all bonds! fill up therewith our worship, and, Blest One! grant us wealth with goodly heroes.

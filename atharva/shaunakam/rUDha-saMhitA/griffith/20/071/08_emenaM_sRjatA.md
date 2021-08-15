@@ -2,4 +2,4 @@
 title = "०८ एमेनं सृजता"
 
 +++
-एमे॑नं सृजता सु॒ते म॒न्दिमिन्द्रा॑य म॒न्दिने॑ । चक्रिं॒ विश्वा॑नि॒ चक्र॑ये ॥८॥  
+To Indra pour ye forth the juice, the active gladdening juice, to him The gladdening omnific God.

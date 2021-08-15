@@ -2,4 +2,4 @@
 title = "१९ इन्द्र त्वोतास"
 
 +++
-इन्द्र॒ त्वोता॑स॒ आ व॒यं वज्रं॑ घ॒ना द॑दीमहि । जये॑म॒ सं यु॒धि स्पृधः॑ ॥१९॥  
+Aided by thee, the Thunder-armed, Indra; may we lit up the bolt, And conquer all our foes in fight.

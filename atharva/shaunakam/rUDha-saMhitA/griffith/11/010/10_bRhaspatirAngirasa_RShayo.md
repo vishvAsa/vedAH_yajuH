@@ -2,5 +2,4 @@
 title = "१० बृहस्पतिराङ्गिरस ऋषयो"
 
 +++
-बृह॒स्पति॑राङ्गिर॒स ऋष॑यो॒ ब्रह्म॑संशिताः ।  
-अ॒सु॒र॒क्षय॑णं व॒धं त्रिषं॑धिं दि॒व्याश्र॑यन्॥१०॥  
+Brihaspati Angirasa, Rishis made strong and keen by prayer, Have set Trishandhi in the heaven, dire weapon that destroys the fiends.

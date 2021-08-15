@@ -2,5 +2,4 @@
 title = "२० पश्चात् पुरस्तादधरादुतोत्तरात्"
 
 +++
-प॒श्चात् पु॒रस्ता॑दध॒रादु॒तोत्त॒रात् क॒विः काव्ये॑न॒ परि॑ पाह्यग्ने ।  
-सखा॒ सखा॑यम॒जरो॑ जरि॒म्णे अग्ने॒ मर्ताँ॒ अम॑र्त्य॒स्त्वं नः॑ ॥२०॥  
+From rear, from front, from under, from above us, Agni, pro- tect us as a sage with wisdom. Guard to old age thy friend as friend eternal: O Agni, as im- mortal, guard us mortals.

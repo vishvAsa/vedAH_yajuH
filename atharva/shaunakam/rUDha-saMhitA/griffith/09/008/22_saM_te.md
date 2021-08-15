@@ -2,5 +2,4 @@
 title = "२२ सं ते"
 
 +++
-सं ते॑ शी॒र्ष्णः क॒पाला॑नि॒ हृद॑यस्य च॒ यो वि॒धुः ।  
-उ॒द्यन्ना॑दित्य र॒श्मिभिः॑ शी॒र्ष्णो रोग॑मनीनशोऽङ्गभे॒दम॑शीशमः ॥२२॥
+Sound are the skull-bones of thy head and thy heart's beat is regular. Thou, Sun, arising with thy beams hast chased away the head's disease, hast stilled the pain that racked the limbs.

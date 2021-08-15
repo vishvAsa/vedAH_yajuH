@@ -2,5 +2,4 @@
 title = "०३ स नो"
 
 +++
-स नो॑ ददातु॒ तां र॒यिमु॒रुं पि॒शङ्ग॑संदृशम्।  
-इन्द्रः॒ पति॑स्तु॒विष्ट॑मो॒ जने॒ष्वा॥३॥
+May he bestow on us that wealth, far-spreading, bright with yellow hue. Indra is mightiest Lord among the folk.

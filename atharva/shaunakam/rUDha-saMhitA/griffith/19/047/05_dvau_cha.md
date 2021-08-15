@@ -2,5 +2,4 @@
 title = "०५ द्वौ च"
 
 +++
-द्वौ च॑ ते विंश॒तिश्च॑ ते॒ रात्र्येका॑दशाव॒माः ।  
-तेभि॑र्नो अ॒द्य पा॒युभि॒र्नु पा॑हि दुहितर्दिवः ॥५॥  
+Twenty-and-two hast thou, O Night, eleven, yea, and fewer still. With these protectors guard us well. O Daughter of the Sky, to- day.

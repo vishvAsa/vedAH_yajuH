@@ -2,5 +2,4 @@
 title = "०२ अग्न आ"
 
 +++
-अग्न॒ आ या॑ह्य॒ग्निभि॒र्होता॑रं त्वा वृणीमहे ।  
-आ त्वाम॑नक्तु॒ प्रय॑ता ह॒विष्म॑ती॒ यजि॑ष्ठं ब॒र्हिरा॒सदे॑ ॥२॥  
+Agni, come hither with thy fires: we choose thee as our Hotai- priest. Let the extended ladle full of oil balm thee, best priest, to sit on sacred grass.

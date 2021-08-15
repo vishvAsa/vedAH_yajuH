@@ -2,5 +2,4 @@
 title = "११ को अस्मिन्नापो"
 
 +++
-को अ॑स्मि॒न्नापो॒ व्यऽदधाद् विषू॒वृतः॑ पुरू॒वृतः॑ सिन्धु॒सृत्या॑य जा॒ताः ।  
-ती॒व्रा अ॑रु॒णा लोहि॑नीस्ताम्रधू॒म्रा ऊ॒र्ध्वा अवा॑चीः॒ पुरु॑षे ति॒रश्चीः॑ ॥११॥  
+Who stored in him floods turned in all directions, moving diverse and formed to flow in rivers, Hasty, red, copper-hued, and purple, running all ways in Purusha, upward and downward?

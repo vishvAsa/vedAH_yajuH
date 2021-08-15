@@ -2,5 +2,4 @@
 title = "०१ यो गिरिष्वजायथा"
 
 +++
-यो गि॒रिष्वजा॑यथा वी॒रुधां॒ बल॑वत्तमः ।  
-कुष्ठेहि॑ तक्मनाशन त॒क्मानं॑ ना॒शय॑न्नि॒तः ॥१॥  
+Thou who wast born on mountains, thou most mighty of all plants that grow. Thou Banisher of Fever, come, Kushtha! make Fever pass away.

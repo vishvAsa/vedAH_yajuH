@@ -2,5 +2,4 @@
 title = "१६ यस्त्वा स्वप्नेन"
 
 +++
-यस्त्वा॒ स्वप्ने॑न॒ तम॑सा मोहयि॒त्वा नि॒पद्य॑ते ।  
-प्र॒जां यस्ते॒ जिघां॑सति॒ तमि॒तो ना॑शयामसि ॥१६॥  
+That which through sleep or darkness hath deceived thee and lies down by thee, And will destroy thy progeny,--even this will we exterminate.

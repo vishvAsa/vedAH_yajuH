@@ -2,5 +2,4 @@
 title = "०७ पथ्याऽ रेवतीर्बहुधा"
 
 +++
-प॒थ्याऽ रे॒वती॑र्बहु॒धा विरू॑पाः॒ सर्वाः॑ सं॒गत्य॒ वरी॑यस्ते अक्रन्।  
-तास्त्वा॒ सर्वाः॑ संविदा॒ना ह्व॑यन्तु दश॒मीमु॒ग्रः सु॒मना॑ वशे॒ह॥७॥
+The Bounteous Paths in sundry forms and places, all in accord, have given thee room and comfort. Let all of these in concert call thee hither. Live thy tenth decade here, a strong kind ruler.

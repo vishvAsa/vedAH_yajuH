@@ -2,5 +2,4 @@
 title = "०४ एधोऽस्येधिषीय समिदसि"
 
 +++
-एधो॑ऽस्येधिषी॒य स॒मिद॑सि॒ समे॑धिषीय ।  
-तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि ॥४॥
+Thou art the wood, may I succeed! fuel, may I be glorified! splendour, give splendour unto me.

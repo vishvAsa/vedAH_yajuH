@@ -2,5 +2,4 @@
 title = "०१ रात्रिंरात्रिमप्रयातं भरन्तोऽश्वायेव"
 
 +++
-रात्रिं॑रात्रि॒मप्र॑यातं॒ भर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॒स्मै।  
-रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥१॥  
+Bringing, as 'twere, with care unceasing fodder night after night to feed this stabled Courser, Joying in food and in the growth of riches, may we thy neigh- bours, Agni, ne'er be injured.

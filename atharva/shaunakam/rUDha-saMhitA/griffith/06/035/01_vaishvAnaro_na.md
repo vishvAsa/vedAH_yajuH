@@ -2,5 +2,4 @@
 title = "०१ वैश्वानरो न"
 
 +++
-वै॒श्वा॒न॒रो न॑ ऊ॒तय॒ आ प्र या॑तु परा॒वतः॑ ।
-अ॒ग्निर्नः॑ सुष्टु॒तीरुप॑ ॥१॥
+Forth from the distance far away Vaisvanara come to succour us! Agni approach our eulogies!

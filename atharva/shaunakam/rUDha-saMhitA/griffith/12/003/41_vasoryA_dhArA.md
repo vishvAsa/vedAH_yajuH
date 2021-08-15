@@ -2,5 +2,4 @@
 title = "४१ वसोर्या धारा"
 
 +++
-वसो॒र्या धारा॒ मधु॑ना॒ प्रपी॑ना घृ॒तेन॑ मि॒श्रा अ॒मृत॑स्य॒ नाभ॑यः ।  
-सर्वा॒स्ता अव॑ रुन्धे स्व॒र्गः ष॒ष्ट्यां श॒रत्सु॑ निधि॒पा अ॒भीच्छात्॥४१॥  
+Swollen with savoury meath, the stream of treasures, sources of immortality blent with fatness Soma retains all these; in sixty autumns the Guardian Lord of Treasures may desire them.

@@ -2,5 +2,4 @@
 title = "०१ अप्सु ते"
 
 +++
-अ॒प्सु ते॑ राजन् वरुण गृ॒हो हि॑र॒ण्ययो॑ मि॒थः ।  
-ततो॑ धृ॒तव्र॑तो॒ राजा॒ सर्वा॒ धामा॑नि मुञ्चतु ॥१॥  
+Stablished amid the waters is, King Varuna, thy golden home. Thence let the Sovran who maintains the statutes loose all bind- ing cords.

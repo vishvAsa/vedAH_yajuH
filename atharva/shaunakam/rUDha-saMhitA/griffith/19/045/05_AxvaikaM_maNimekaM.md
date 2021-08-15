@@ -2,5 +2,4 @@
 title = "०५ आक्ष्वैकं मणिमेकं"
 
 +++
-आक्ष्वैकं॑ म॒णिमेकं॑ कृष्णुष्व स्ना॒ह्येके॒ना पि॒बैक॑मेषाम्।  
-चतु॑र्वीरं नैरृ॒तेभ्य॑श्च॒तुर्भ्यो॒ ग्राह्या॑ ब॒न्धेभ्यः॒ परि॑ पात्व॒स्मान्॥५॥  
+Make one thy salve, thine amulet another, drink one, and with another bathe thy body. So let the Chaturvira keep us guarded from the four bonds of Nirriti and Grahi.

@@ -2,5 +2,4 @@
 title = "०८ व्यानलिन्द्रः पृतनाः"
 
 +++
-व्या॑न॒लिन्द्रः॒ पृत॑नाः॒ स्वोजा॒ आस्मै॑ यतन्ते स॒ख्याय॑ पू॒र्वीः ।  
-आ स्मा॒ रथं॒ न पृत॑नासु तिष्ठ॒ यं भ॒द्रया॑ सुम॒त्या चो॒दया॑से ॥८॥
+Indra hath conquered in his wars the mighty: men strive in multitudes to win his friendship. Ascend thy chariot as it were in battle, which thou shalt drive to us with gracious favour,

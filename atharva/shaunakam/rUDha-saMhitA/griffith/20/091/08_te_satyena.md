@@ -2,5 +2,4 @@
 title = "०८ ते सत्येन"
 
 +++
-ते स॒त्येन॒ मन॑सा॒ गो॑पतिं॒ गा इ॑या॒नास॑ इषणयन्त धी॒भिः ।  
-बृह॒स्पति॑र्मि॒थोअ॑वद्यपेभि॒रुदु॒स्रिया॑ असृजत स्व॒युग्भिः॑ ॥८॥  
+They, longing for the kine, with faithful spirit incited with their hymns the Lord of cattle. Brihaspati freed the radiant cows with comrades self-yoked,. averting shame from one another.

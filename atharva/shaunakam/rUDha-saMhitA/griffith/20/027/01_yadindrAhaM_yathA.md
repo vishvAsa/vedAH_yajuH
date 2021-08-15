@@ -2,4 +2,4 @@
 title = "०१ यदिन्द्राहं यथा"
 
 +++
-यदि॑न्द्रा॒हं यथा॒ त्वमीशी॑य॒ वस्व॒ एक॒ इत्। स्तो॒ता मे॒ गोष॑खा स्यात्॥१॥  
+If I, O Indra, were, like thee, the single sovran of all wealth. My worshipper should be rich in kine.

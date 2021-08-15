@@ -2,5 +2,4 @@
 title = "०७ तिस्रो देवीर्महि"
 
 +++
-ति॒स्रो दे॑वी॒र्महि॑ नः॒ शर्म॑ यछत प्र॒जायै॑ नस्त॒न्वे॒३यच्च॑ पु॒ष्टम्।  
-मा हा॑स्महि प्र॒जया॒ मा त॒नूभि॒र्मा र॑धाम द्विष॒ते सो॑म राजन्॥७॥  
+Do ye three Goddesses give ample shelter and all success to us ourselves and children. Let us not lose our children or our bodies: let us not benefit the foe, King Soma!

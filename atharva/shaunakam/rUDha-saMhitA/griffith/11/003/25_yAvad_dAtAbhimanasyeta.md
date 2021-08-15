@@ -2,4 +2,4 @@
 title = "२५ यावद् दाताभिमनस्येत"
 
 +++
-याव॑द् दा॒ताभि॑मन॒स्येत॒ तन्नाति॑ वदेत् ॥२५॥  
+He would not declare it to be greater than the giver imagines it to be. 

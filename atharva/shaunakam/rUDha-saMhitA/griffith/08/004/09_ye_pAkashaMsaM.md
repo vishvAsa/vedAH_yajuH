@@ -2,5 +2,4 @@
 title = "०९ ये पाकशंसं"
 
 +++
-ये पा॑कशं॒सं वि॒हर॑न्त॒ एवै॒र्ये वा॑ भ॒द्रं दू॒षय॑न्ति स्व॒धाभिः॑ ।  
-अह॑ये वा॒ तान् प्र॒ददा॑तु॒ सोम॒ आ वा॑ दधातु॒ निरृ॑तेरु॒पस्थे॑ ॥९॥  
+Those who destroy, as is their wont, the simple, and with their evil natures harm the righteous, May Soma give them over to the serpent, or to the lap of Nirriti consign them.

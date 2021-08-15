@@ -2,4 +2,4 @@
 title = "०३ मो षु"
 
 +++
-मो षु ब्र॒ह्मेव॑ तन्द्र॒युर्भुवो॑ वाजानां पते । मत्स्वा॑ सु॒तस्य॑ गोम॑तः ॥३॥  
+Be not thou, like a slothful priest, O Lord of wealth and spoil: rejoice. In the pressed Soma blent with milk.

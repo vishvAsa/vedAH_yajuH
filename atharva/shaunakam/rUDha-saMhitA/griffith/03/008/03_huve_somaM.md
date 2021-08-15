@@ -2,5 +2,4 @@
 title = "०३ हुवे सोमं"
 
 +++
-हु॒वे सोमं॑ सवि॒तारं॒ नमो॑भि॒र्विश्वा॑नादि॒त्याँ अ॒हमु॑त्तर॒त्वे।  
-अ॒यम॒ग्निर्दी॑दायद् दी॒र्घमे॒व स॑जा॒तैरि॒द्धोऽप्र॑तिब्रुवद्भिः ॥३॥  
+Soma I call, and Savitar with homage, and all the Adityas in the time of contest. Long may this fire send forth its splendour, lighted by kinsmen uttering no word against me.

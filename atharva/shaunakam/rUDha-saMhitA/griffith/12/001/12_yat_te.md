@@ -2,6 +2,4 @@
 title = "१२ यत् ते"
 
 +++
-यत् ते॒ मध्यं॑ पृथिवि॒ यच्च॒ नभ्यं॒ यास्त॒ ऊर्ज॑स्त॒न्वः संबभू॒वुः ।  
-ता सु॑ नो धेह्य॒भि नः॑ पवस्व मा॒ता भूमिः॑ पु॒त्रो अ॒हं पृ॑थि॒व्याः।  
-प॒र्जन्यः॑ पि॒ता स उ॑ नः पिपर्तु ॥१२॥  
+O Prithivi, thy centre and thy navel, all forces that have issued from thy body Set us amid those forces; breathe upon us. I am the son of Earth, Earth is my Mother. Parjanya is my Sire; may he promote me.

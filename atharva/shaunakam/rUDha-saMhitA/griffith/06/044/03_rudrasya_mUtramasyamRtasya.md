@@ -2,5 +2,4 @@
 title = "०३ रुद्रस्य मूत्रमस्यमृतस्य"
 
 +++
-रु॒द्रस्य॒ मूत्र॑मस्य॒मृत॑स्य॒ नाभिः॑ ।  
-वि॒षा॒ण॒का नाम॒ वा अ॑सि पितॄ॒णां मूला॒दुत्थि॑ता वातीकृत॒नाश॑नी ॥३॥
+Thou art the stream that Rudra pours, the closest kin of Amrita. Thy name is called Vishanaka: thou sprangest from the Fathers' root, removing illness caused by wind.

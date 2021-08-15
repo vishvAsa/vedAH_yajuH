@@ -2,5 +2,4 @@
 title = "०२ सं गोभिरङ्गिरसो"
 
 +++
-सं गोभि॑रङ्गिर॒सो नक्ष॑माणो॒ भग॑ इ॒वेद॑र्य॒मणं॑ निनाय ।  
-जने॑ मि॒त्रो न दम्प॑ती अनक्ति॒ बृह॑स्पते वा॒जया॒शूंरि॑वा॒जौ॥२॥  
+The son of Angiras, meeting the cattle, as Bhaga, brought in Aryaman among us. As Friend of men he decks the wife and husband. As for the race, Brihaspati, nerve our coursers.

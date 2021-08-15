@@ -2,5 +2,4 @@
 title = "०२ यो नो"
 
 +++
-यो नो॑ अ॒ग्निर्गार्ह॑पत्यः पशू॒नाम॑धि॒पा अस॑त्।  
-औदु॑म्बरो॒ वृषा॑ म॒णिः सं मा॑ सृजतु पु॒ष्ट्या॥२॥  
+May he who was our Household Fire, the ruler of our cattle, strong. Amulet of Udumbara endow us with prosperity.

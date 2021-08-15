@@ -2,5 +2,4 @@
 title = "०८ अग्नेर्घासो अपां"
 
 +++
-अ॒ग्नेर्घा॒सो अ॒पां गर्भो॒ या रोह॑न्ति॒ पुन॑र्णवाः ।  
-ध्रु॒वाः स॒हस्र॑नाम्नीर्भेष॒जीः स॒न्त्वाभृ॑ताः ॥८॥  
+Germ of the Waters, Agni's food, Plants ever growing fresh and new, Sure, healing, bearing thousand names, let them be all collected here.

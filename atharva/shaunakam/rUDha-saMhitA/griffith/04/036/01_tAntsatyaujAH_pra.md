@@ -2,5 +2,4 @@
 title = "०१ तान्त्सत्यौजाः प्र"
 
 +++
-तान्त्स॒त्यौजाः॒ प्र द॑हत्व॒ग्निर्वै॑श्वान॒रोवृषा॑ ।  
-यो नो॑ दुर॒स्याद् दिप्सा॒च्चाथो॒ यो नो॑ अराति॒यात्॥१॥  
+Endowed with true strength, let the Bull, Agni Vaisvanara, burn them up. Him who would pain and injure us, him who would treat us as a foe.

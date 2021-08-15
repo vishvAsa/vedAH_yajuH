@@ -2,5 +2,4 @@
 title = "०१ वृषेन्द्रस्य वृषा"
 
 +++
-वृषेन्द्र॑स्य॒ वृषा॑ दि॒वो वृषा॑ पृथि॒व्या अ॒यम्।  
-वृषा॒ विश्व॑स्य भू॒तस्य॒ त्वमे॑कवृ॒षो भ॑व ॥१॥  
+This is the Lord of Indra, this the Lord of Heaven, the Lord of Earth, The Lord of all existing things: the one and only Lord be thou,

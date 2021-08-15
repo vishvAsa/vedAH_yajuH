@@ -2,5 +2,4 @@
 title = "०२ इदं देवाः"
 
 +++
-इ॒दं दे॑वाः शृणुत॒ ये य॒ज्ञिया॒ स्थ भ॒रद्वा॑जो॒ मह्य॑मु॒क्थानि॑ शंसति ।  
-पाशे॒ स ब॒द्धो दु॑रि॒ते नि यु॑ज्यतां॒ यो अ॒स्माकं॒ मन॑ इ॒दं हि॒नस्ति॑ ॥२॥  
+Listen to this, ye Gods who merit worship. Hymns here are sung for me by Bharadvaja. Bound in the noose may he be doomed to trouble whoever mars this that our mind hath purposed.

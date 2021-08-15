@@ -2,5 +2,4 @@
 title = "०१ शतकाण्डो दुश्च्यवनः"
 
 +++
-श॒तका॑ण्डो दुश्च्यव॒नः स॒हस्र॑पर्ण उत्ति॒रः ।  
-द॒र्भो य उ॒ग्र ओष॑धि॒स्तं ते॑ बध्ना॒म्यायु॑षे ॥१॥  
+For lengthened life I bind on thee the Darbha grass, the mighty plant. Excellent, hard to overthrow, with hundred stems and thousand blades.

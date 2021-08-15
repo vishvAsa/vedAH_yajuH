@@ -2,5 +2,4 @@
 title = "३३ किं स्विन्नो"
 
 +++
-किं स्वि॑न्नो॒ राजा॑ जगृहे॒ कद॒स्याति॑ व्र॒तं च॑कृमा॒ को वि वे॑द ।
-मि॒त्रस्चि॒द्धि ष्मा॑ जुहुरा॒णो दे॒वांछ्लोको॒ न या॒तामपि॒ वाजो॒ अस्ति॑ ॥३३॥
+Hath the King seized us? How have we offended against his holy Ordinance? Who knoweth? For even Mitra mid the Gods is angry. There are both song and wealth for those who come not.

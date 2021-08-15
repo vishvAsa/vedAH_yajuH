@@ -2,5 +2,4 @@
 title = "०२ तपश्चैवास्तां कर्म"
 
 +++
-तप॑श्चै॒वास्तां॒ कर्म॑ चा॒न्तर्म॑ह॒त्यऽर्ण॒वे।  
-त आ॑सं॒ जन्या॒स्ते व॒रा ब्रह्म॑ ज्येष्ठव॒रोऽभवत्॥२॥  
+Fervour and Action were the two, in depths of the great billowy sea? These were the wooers of the bride; Brahma the chief who courted her.

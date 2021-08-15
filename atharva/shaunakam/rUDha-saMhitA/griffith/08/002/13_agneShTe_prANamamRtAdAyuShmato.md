@@ -2,5 +2,4 @@
 title = "१३ अग्नेष्टे प्राणममृतादायुष्मतो"
 
 +++
-अ॒ग्नेष्टे॑ प्रा॒णम॒मृता॒दायु॑ष्मतो वन्वे जा॒तवे॑दसः ।  
-यथा॒ न रिष्या॑ अ॒मृतः॑ स॒जूरस॒स्तत् ते॑ कृणोमि॒ तदु॑ ते॒ समृ॑ध्यताम्॥१३॥  
+I win thy life from Agni, from the living everlasting Jatavedas. This I procure for thee, that thou, undying, mayst not suffer harm, that thou mayst be content, that all be well with thee.

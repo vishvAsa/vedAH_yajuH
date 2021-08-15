@@ -2,5 +2,4 @@
 title = "०४ मया सोऽन्नमत्ति"
 
 +++
-मया॒ सोऽन्न॑मत्ति॒ यो वि॒पश्य॑ति॒ यः प्रा॒णति॒ य ईं शृ॒णोत्यु॒क्तम्।  
-अ॒म॒न्तवो॒ मां त उप॑ क्षियन्ति श्रु॒धि श्रु॑त श्रु॒द्धेयं॑ ते वदामि ॥४॥  
+Through me alone all eat the food that feeds them, each man who sees, breathes, hears, the word out-spoken. They know it not, but yet they dwell beside me. Hear, one and all, the truth as I declare it.

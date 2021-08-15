@@ -2,5 +2,4 @@
 title = "०१ नैतां ते"
 
 +++
-नैतां ते॑ दे॒वा अ॑ददु॒स्तुभ्यं॑ नृपते॒ अत्त॑वे ।  
-मा ब्रा॑ह्म॒णस्य॑ राजन्य॒ गां जि॑घत्सो अना॒द्याम्॥१॥  
+The Gods, O Prince, have not bestowed this cow on thee to eat thereof. Seek not, Rajanya, to devour the Brahman's cow which none may eat.

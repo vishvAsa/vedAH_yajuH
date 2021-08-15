@@ -2,5 +2,4 @@
 title = "०६ एकं रजस"
 
 +++
-एकं॒ रज॑स ए॒ना प॒रो अ॒न्यद॑स्त्ये॒ना प॒र एके॑न दु॒र्णशं॑ चिद॒र्वाक्।  
-तत् ते॑ वि॒द्वान् वरु॑ण॒ प्र ब्र॑वीम्य॒धोव॑चसः प॒णयो॑ भवन्तु नी॒चैर्दा॒सा उप॑ सर्पन्तु॒ भूमि॑म्॥६॥  
+One thing there is beyond this air, and something beyond that one, most hard to reach, remotest. I, Varuna, who know, to thee declare it. Let churls be mighty in the lower regions. Let Dasas sink into the earth beneath them.

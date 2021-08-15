@@ -2,5 +2,4 @@
 title = "०१ प्र ते"
 
 +++
-प्र ते॑ म॒हे वि॒दथे॑ शंसिषं॒ हरी॒ प्र ते॑ वन्वे व॒नुषो॑ हर्य॒तं मद॑म्।  
-घृ॒तं न यो हरि॑भि॒श्चारु॒ सेच॑त॒ आ त्वा॑ विशन्तु॒ हरि॑वर्पसं॒ गिरः॑ ॥१॥  
+In the great synod will I laud thy two bay steeds: I prize the sweet strong drink of thee the Warrior-God, His who pours lovely oil as'twere with yellow drops. Let my songs enter thee whose form hath golden tints.

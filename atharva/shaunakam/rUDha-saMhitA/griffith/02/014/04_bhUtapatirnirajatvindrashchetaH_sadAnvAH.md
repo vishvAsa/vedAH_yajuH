@@ -2,5 +2,4 @@
 title = "०४ भूतपतिर्निरजत्विन्द्रश्चेतः सदान्वाः"
 
 +++
-भू॒त॒प॒तिर्निर॑ज॒त्विन्द्र॑श्चे॒तः स॒दान्वाः॑ ।  
-गृ॒हस्य॑ बु॒ध्न आसी॑ना॒स्ता इन्द्रो॒ वज्रे॒णाधि॑ तिष्ठतु ॥४॥  
+May Bhutapati drive away, and Indra, the Sadanvas hence. Let Indra with his bolt quell those who sit upon our dwelling's floor.

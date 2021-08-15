@@ -2,4 +2,4 @@
 title = "०६ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य । योऽस्य ष॒ष्ठो व्या॒नस्त आ॑र्त॒वाः ॥६॥  
+His sixth diffused breath are the Season-groups.

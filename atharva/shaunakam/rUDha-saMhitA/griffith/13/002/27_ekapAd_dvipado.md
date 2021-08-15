@@ -2,5 +2,4 @@
 title = "२७ एकपाद् द्विपदो"
 
 +++
-एक॑पा॒द् द्विप॑दो॒ भूयो॒ वि च॑क्रमे॒ द्विपा॒त् त्रिपा॑दम॒भ्येऽति प॒श्चात्।  
-द्विपा॑द्ध॒ षट्प॑दो॒ भूयो॒ वि च॑क्रमे॒ त एक॑पदस्त॒न्वं॑१ समा॑सते ॥२७॥  
+The single-footed hath outstepped the biped, the biped overtakes the triple-footed. The biped hath outstridden the six-footed: these sit around the single-footed's body.

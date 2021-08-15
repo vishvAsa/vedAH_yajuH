@@ -2,5 +2,4 @@
 title = "१४ तं घेमित्था"
 
 +++
-तं घे॑मि॒त्था न॑म॒स्विन॒ उप॑ स्व॒राज॑मासते ।  
-अर्थं॑ चिदस्य॒ सुधि॑तं॒ यदेत॑व आव॒र्तय॑न्ति दा॒वने॑ ॥१४॥  
+With reverence they come hitherward to him as to a sovran lord, That they may bring him near for this man's good success, to prosper and bestow his gifts.

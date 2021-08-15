@@ -2,5 +2,4 @@
 title = "०५ यदि वासि"
 
 +++
-यदि॒ वासि॑ तिरोज॒नं यदि॑ वा न॒द्यऽस्ति॒रः ।  
-इ॒यं ह॒ मह्यं॒ त्वामोष॑धिर्ब॒द्ध्वेव॒ न्यान॑यत्॥५॥
+If thou art far away beyond the rivers, far away from men, This Herb shall seem to bind thee fast and bring thee back my prisoner.

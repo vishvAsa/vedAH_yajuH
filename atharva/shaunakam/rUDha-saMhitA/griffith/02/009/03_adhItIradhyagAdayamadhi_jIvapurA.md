@@ -2,5 +2,4 @@
 title = "०३ अधीतीरध्यगादयमधि जीवपुरा"
 
 +++
-अधी॑ती॒रध्य॑गाद॒यमधि॑ जीवपु॒रा अ॑गान्।  
-श॒तं ह्य॑स्य भि॒षजः॑ स॒हस्र॑मु॒त वी॒रुधः॑ ॥३॥  
+He hath returned to consciousness, rejoined the living's firm abodes, For hundred leeches are in this, yea, and a thousand healing herbs.

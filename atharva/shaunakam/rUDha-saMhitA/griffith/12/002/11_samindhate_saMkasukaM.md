@@ -2,5 +2,4 @@
 title = "११ समिन्धते संकसुकं"
 
 +++
-समि॑न्धते॒ संक॑सुकं स्व॒स्तये॑ शु॒द्धा भव॑न्तः॒ शुच॑यः पाव॒काः ।  
-जहा॑ति रि॒प्रमत्येन॑ एति॒ समि॑द्धो अ॒ग्निः सु॒पुना॑ पुनाति ॥११॥  
+They being cleansed and bright, the purifiers, kindle Sankasuka for our well-being. Impurity leaveth us and sin departeth: lighted by the good cleanser Agni cleanseth.

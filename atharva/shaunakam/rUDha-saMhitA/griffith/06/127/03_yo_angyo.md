@@ -2,6 +2,4 @@
 title = "०३ यो अङ्ग्यो"
 
 +++
-यो अङ्ग्यो॒ यः कर्ण्यो॒ यो अ॒क्ष्योर्वि॒सल्प॑कः ।  
-वि वृ॑हामो वि॒सल्प॑कं विद्र॒धं हृ॑दयाम॒यम्।  
-परा॒ तमज्ञा॑तं॒ यक्ष्म॑मध॒राञ्चं॑ सुवामसि ॥३॥
+We draw from thee piercing pain that penetrates and racks thy limbs, That pierces ears, that pierces eyes, the abscess, and the heart's disease. Downward and far away from thee we banish that unknown. decline.

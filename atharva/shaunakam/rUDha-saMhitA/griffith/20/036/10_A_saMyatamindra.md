@@ -2,5 +2,4 @@
 title = "१० आ संयतमिन्द्र"
 
 +++
-आ सं॒यत॑मिन्द्र णः स्व॒स्तिं श॑त्रु॒तूर्या॑य बृह॒तीममृ॑ध्राम्।  
-यया॒ दासा॒न्यार्या॑णि वृ॒त्रा करो॑ वज्रिन्त्सु॒तुका॒ नाहु॑षाणि ॥१०॥  
+Give us confirmed prosperity, O Indra, vast and exhaustless for the foes' subduing. Strengthen therewith the Arya's hate and Dasa's; and let the arms of Nahushas be mighty.

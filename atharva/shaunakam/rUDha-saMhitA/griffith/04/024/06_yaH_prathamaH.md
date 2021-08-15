@@ -2,5 +2,4 @@
 title = "०६ यः प्रथमः"
 
 +++
-यः प्र॑थ॒मः क॑र्म॒कृत्या॑य ज॒ज्ञे यस्य॑ वी॒र्यंऽ प्रथ॒मस्यानु॑बुद्धम्।  
-येनोद्य॑तो॒ वज्रो॒ऽभ्याय॒ताहिं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥६॥  
+Why was born, first, for active operation, whose valour as the first hath been awakened, Who raised his bolt when he encountered Ahi. May he deliver us from grief and trouble.

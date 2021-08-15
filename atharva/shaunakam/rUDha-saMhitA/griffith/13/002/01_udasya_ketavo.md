@@ -2,5 +2,4 @@
 title = "०१ उदस्य केतवो"
 
 +++
-उद॑स्य के॒तवो॑ दि॒वि शु॒क्रा भ्राज॑न्त ईरते ।  
-आ॒दि॒त्यस्य॑ नृ॒चक्ष॑सा॒ महि॑व्रतस्य मी॒ढुषः॑ ॥१॥  
+Radiant, refulgent in the sky are reared the banners of his light, Aditya's, who beholdeth man, mighty in act and bountiful.

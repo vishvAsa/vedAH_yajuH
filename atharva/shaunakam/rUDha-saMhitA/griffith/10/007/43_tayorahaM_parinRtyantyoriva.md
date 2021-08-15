@@ -2,5 +2,4 @@
 title = "४३ तयोरहं परिनृत्यन्त्योरिव"
 
 +++
-तयो॑र॒हं प॑रि॒नृत्य॑न्त्योरिव॒ न वि जा॑नामि यत॒रा प॒रस्ता॑त्।  
-पुमा॑नेनद् वय॒त्युद्गृ॑णन्ति॒ पुमा॑नेन॒द् वि ज॑भा॒राधि॒ नाके॑ ॥४३॥  
+Of these two, dancing round as 'twere, I cannot distinguish whether ranks before the other. A Male in weaves this web, a Male divides it: a Male hath stretched it to the cope of heaven

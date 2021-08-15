@@ -2,4 +2,4 @@
 title = "३३ तस्या विरोचनः"
 
 +++
-तस्या॑ वि॒रोच॑नः॒ प्राह्रा॑दिर्व॒त्स आसी॑दयस्पा॒त्रं पात्र॑म्॥२॥  
+The man who hath this knowledge pours its venom on his hated foe.

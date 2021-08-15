@@ -2,5 +2,4 @@
 title = "११ त्वं ह"
 
 +++
-त्वं ह॒ त्यद॑प्रतिमा॒नमोजो॒ वज्रे॑ण वज्रिन्धृषि॒तो ज॑घन्थ ।  
-त्वं शुष्ण॒स्यावा॑तिरो॒ वध॑त्रै॒स्त्वं गा इ॑न्द्र॒ शच्येद॑विन्दः ॥११॥  
+So, Thunder-armed! thou with thy bolt of thunder didst boldly smite that power which none might equal; With weapons broughtest low the might of Sushna, and, Indra, foundest by thy strength the cattle.

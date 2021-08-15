@@ -2,4 +2,4 @@
 title = "०१ अतिसृष्टो अपां"
 
 +++
-अति॑सृष्टो अ॒पां वृ॑ष॒भोऽति॑सृष्टा अ॒ग्नयो॑ दि॒व्याः ॥१॥  
+The Bull of the Waters hath been let go; the heavenly fires have been let go.

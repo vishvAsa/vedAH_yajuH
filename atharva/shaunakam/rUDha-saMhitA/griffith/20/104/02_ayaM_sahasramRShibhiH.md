@@ -2,5 +2,4 @@
 title = "०२ अयं सहस्रमृषिभिः"
 
 +++
-अ॒यं स॒हस्र॒मृषि॑भिः॒ सह॑स्कृतः समु॒द्र इ॑व पप्रथे ।  
-स॒त्यः सो अ॑स्य महि॒मा गृ॑णे॒ शवो॑ य॒ज्ञेषु॑ विप्र॒राज्ये॑ ॥२॥  
+He with his might enhanced by Rishis thousand-fold, hath like an ocean spread himself. His majesty is praised as true at solemn rites, his power where holy singers rule

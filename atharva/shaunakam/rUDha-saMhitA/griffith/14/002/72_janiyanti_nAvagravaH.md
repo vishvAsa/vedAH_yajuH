@@ -2,5 +2,4 @@
 title = "७२ जनियन्ति नावग्रवः"
 
 +++
-ज॒नि॒यन्ति॑ ना॒वग्र॑वः पुत्रि॒यन्ति॑ सु॒दान॑वः ।  
-अरि॑ष्टासू सचेवहि बृह॒ते वाज॑सातये ॥७२॥  
+Unmarried men desire to wed; bountiful givers wish for sons. Together may we dwell with strength unscathed for high pros- perity.

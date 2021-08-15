@@ -2,5 +2,4 @@
 title = "०९ यामिन्द्रेण संधां"
 
 +++
-यामिन्द्रे॑ण सं॒धां स॒मध॑त्था॒ ब्रह्म॑णा च बृहस्पते ।  
-तया॒हमि॑न्द्रसं॒धया॒ सर्वा॑न् दे॒वानि॒ह हु॑व इ॒तो ज॑यत॒ मामुतः॑ ॥९॥  
+By that same binding treaty which thou madest, Brihaspati! with Indra! and with Brahma, By Indra's pledge I bid the Gods come hither. Conquer on this side, not on their side yonder.

@@ -2,5 +2,4 @@
 title = "०१ उप प्रियं"
 
 +++
-उप॑ प्रि॒यं पनि॑प्नतं युवा॑नमाहुती॒वृध॑म्।  
-अग॑न्म॒ बिभ्र॑तो॒ नमो॑ दी॒र्घमायुः॑ कृणोतु मे ॥१॥
+We bringing homage have approached the friend who seeks our wondering praise, Young, strengthener of the sacrifice. May he bestow long life on me.

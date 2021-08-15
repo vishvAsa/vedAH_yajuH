@@ -2,5 +2,4 @@
 title = "३८ उपास्तरीरकरो लोकमेतमुरुः"
 
 +++
-उपा॑स्तरी॒रक॑रो लो॒कमे॒तमु॒रुः प्र॑थता॒मस॑मः स्व॒र्गः ।  
-तस्मिं॑छ्रयातै महि॒षः सु॑प॒र्णो दे॒वा ए॑नं दे॒वता॑भ्यः॒ प्र॑च्यछान्॥३८॥  
+Thou hast poured oil and made the worlds: let heaven, unequal- led, be spread out in wide extension. Herein be cooked the buffalo, strong-pinioned: the Gods shall give the Deities this oblation.

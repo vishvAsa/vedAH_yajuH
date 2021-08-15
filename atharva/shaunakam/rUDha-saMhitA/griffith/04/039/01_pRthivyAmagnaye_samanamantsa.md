@@ -2,5 +2,4 @@
 title = "०१ पृथिव्यामग्नये समनमन्त्स"
 
 +++
-पृ॒थि॒व्याम॒ग्नये॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
-यथा॑ पृथि॒व्याम॒ग्नये॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥१॥  
+Agni no earth kath had mine homage. May he bless me. As I have bowed me down to Agni on the earth, so let the Favouring Graces bow them down to me.

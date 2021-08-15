@@ -2,5 +2,4 @@
 title = "०८ अवसृष्टा परा"
 
 +++
-अव॑सृष्टा॒ परा॑ पत॒ शर॑व्ये॒ ब्रह्म॑संशिते ।  
-जया॒मित्रा॒न् प्र प॑द्यस्व ज॒ह्येऽषां॒ वरं॑वरं॒ मामीषां॑ मोचि॒ कश्च॒न॥८॥
+Loosed from the bowstring fly away, thou Arrow, sharpened by our prayer. Assail the foemen, vanquish them, conquer each bravest man of theirs, and let not one of them escape.

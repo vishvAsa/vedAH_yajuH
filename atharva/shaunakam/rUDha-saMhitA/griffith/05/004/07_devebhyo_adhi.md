@@ -2,5 +2,4 @@
 title = "०७ देवेभ्यो अधि"
 
 +++
-दे॒वेभ्यो॒ अधि॑ जा॒तोऽसि॒ सोम॑स्यासि॒ सखा॑ हि॒तः ।  
-स प्रा॒णाय॑ व्या॒नाय॒ च॑क्षुषे मे अ॒स्मै मृ॑ड ॥७॥  
+Thou art descended from thee Gods, Soma's benignant friend art thou, Befriend my breath and vital air be gracious unto this mine eye.

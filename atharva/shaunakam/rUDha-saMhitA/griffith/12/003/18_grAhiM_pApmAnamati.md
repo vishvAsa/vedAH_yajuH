@@ -2,5 +2,4 @@
 title = "१८ ग्राहिं पाप्मानमति"
 
 +++
-ग्राहिं॑ पा॒प्मान॒मति॒ तां अ॑याम॒ तमो॒ व्यऽस्य॒ प्र व॑दासि व॒ल्गु।  
-वा॒न॒स्प॒त्य उद्य॑तो॒ मा जि॑हिंसी॒र्मा त॑ण्डु॒लं वि श॑रीर्देव॒यन्त॑म्॥१८॥  
+We have subdued that sinful-hearted Grahi. Thou shalt speak sweetly having chased the darkness. Let not the wooden gear made ready fail us, nor harm the grain of rice that pays due worship.

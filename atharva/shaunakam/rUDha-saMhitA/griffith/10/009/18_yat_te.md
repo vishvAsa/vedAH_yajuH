@@ -2,5 +2,4 @@
 title = "१८ यत् ते"
 
 +++
-यत् ते॑ म॒ज्जा यदस्थि॒ यन्मां॒सं यच्च॒ लोहि॑तम्।  
-आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥१८॥  
+Let all thy marrow, every bone, let all thy flesh, and all thy blood, etc.

@@ -2,5 +2,4 @@
 title = "०२ यत् त्वाभिचेरुः"
 
 +++
-यत् त्वा॑भिचे॒रुः पुरु॑षः॒ स्वो यदर॑णो॒ जनः॑ ।  
-उ॒न्मो॒च॒न॒प्र॒मो॒च॒ने उ॒भे वा॒चा व॑दामि ते ॥२॥  
+If any man, a stranger or akin, hath cast a spell on thee, I with my voice to thee declare thy freedom and release there- from.

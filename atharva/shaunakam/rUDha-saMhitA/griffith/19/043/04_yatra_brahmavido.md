@@ -2,5 +2,4 @@
 title = "०४ यत्र ब्रह्मविदो"
 
 +++
-यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-च॒न्द्रो मा॒ तत्र॑ नयतु॒ मन॑श्च॒न्द्रो द॑धातु मे । च॒न्द्राय॒ स्वाहा॑ ॥४॥  
+Whither, etc. Thither let Chandra lead me, let Chandra vouchsafe me intellect. All hail to Chandra!

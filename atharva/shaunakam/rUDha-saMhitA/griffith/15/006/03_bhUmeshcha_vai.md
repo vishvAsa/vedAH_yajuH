@@ -2,5 +2,4 @@
 title = "०३ भूमेश्च वै"
 
 +++
-भूमे॑श्च॒ वै सो॒३ग्नेश्चौष॑धीनां च॒ वन॒स्पती॑नां च वानस्प॒त्यानां॑ ।  
-च वी॒रुधां॑ च प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥३॥  
+He went away to the last region. Richas, Samans Yajus formulas and Devotion followed him. He who, etc., as above.

@@ -2,5 +2,4 @@
 title = "६१ सुकिंशुकं वहतुं"
 
 +++
-सु॒किं॒शु॒कं व॑ह॒तुं वि॒श्वरू॑पं॒ हिर॑ण्यवर्णं सु॒वृतं॑ सुच॒क्रम्।  
-आ रो॑ह सूर्ये अ॒मृत॑स्य लो॒कं स्यो॒नं पति॑भ्यो वह॒तुं कृ॑णु॒ त्वम्॥६१॥  
+Mount this, all-hued. gold tinted, strong wheeled, fashioned of Kinsuka, this chariot lightly rolling, Bound for the world of life immortal, Surya! Made for thy lord a happy bride's procession.

@@ -2,4 +2,4 @@
 title = "०३ बुध्येम शरदः"
 
 +++
-बुध्ये॑म श॒रदः॑ श॒तम्॥३॥  
+A hundred autumns may we know.

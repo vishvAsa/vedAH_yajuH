@@ -2,5 +2,4 @@
 title = "१० सपत्नहा शतकाण्डः"
 
 +++
-स॒प॒त्न॒हा श॒तका॑ण्डः॒ सह॑स्वा॒नोष॑धीनां प्रथ॒मः सं ब॑भूव ।  
-स नो॒ऽयं द॒र्भः परि॑ पातु वि॒श्वत॒स्तेन॑ साक्षीय॒ पृत॑नाः पृतन्य॒तः ॥१०॥
+First of all plants it sprang into existence, victorious, hundred- stemmed, the foe-subduer, So may this Darbha from all sides protect us: with this may I subdue our foes in battle.

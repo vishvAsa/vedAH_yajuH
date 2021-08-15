@@ -2,5 +2,4 @@
 title = "०३ प्र यद्"
 
 +++
-प्र यद् भन्दि॑ष्ठ एषां॒ प्रास्माका॑सश्च सू॒रयः॑ ।  
-अप॑ नः॒ शोशु॑चद॒घम्॥३॥  
+Best praiser of all these be he, and foremost be our noble chiefs. His lustre flash our pain away!

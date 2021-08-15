@@ -2,5 +2,4 @@
 title = "०४ आपश्चित् पिप्यु"
 
 +++
-आप॑श्चित् पिप्यु स्त॒र्यो॒३ न गावो॒ नक्ष॑न्नृ॒तं ज॑रि॒तार॑स्त इन्द्र ।  
-या॒हि वा॒युर्न नि॒युतो॑ नो॒ अच्छा॒ त्वं हि धी॒भिर्दय॑से॒ वि वाजा॑न्॥४॥  
+Like barren cows, moreover, swelled the waters: the singers sought thy holy rite, O Indra. Come unto us as with his team comes Vayu: thou, through our solemn hymns, bestowest booty.

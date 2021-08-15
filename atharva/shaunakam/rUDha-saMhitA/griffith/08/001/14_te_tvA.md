@@ -2,4 +2,4 @@
 title = "१४ ते त्वा"
 
 +++
-ते त्वा॑ रक्षन्तु॒ ते त्वा॑ गोपायन्तु॒ तेभ्यो॒ नम॒स्तेभ्यः॒ स्वाहा॑ ॥१४॥  
+Let these be thy preservers, these thy keepers. All hail to these, to these be lowly worship!

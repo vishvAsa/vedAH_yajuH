@@ -2,5 +2,4 @@
 title = "०२ यासां राजा"
 
 +++
-यासां॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒न् जना॑नाम्।  
-या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥२॥  
+They in the midst whereof King Varuna moveth, viewing men's righteous and unrighteous dealing. They who took Agni as a germ, fair-coloured,--those Waters bring felicity and bless us!

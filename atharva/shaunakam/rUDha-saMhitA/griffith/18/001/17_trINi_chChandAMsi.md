@@ -2,5 +2,4 @@
 title = "१७ त्रीणि च्छन्दांसि"
 
 +++
-त्रीणि॒ च्छन्दां॑सि क॒वयो॒ वि ये॑तिरे पुरु॒रूपं॑ दर्श॒तं वि॒श्वच॑क्षणम्।
-आपो॑ वाता॒ ओष॑धय॒स्तान्येक॑स्मि॒न् भुव॑न॒ आर्पि॑तानि ॥१७॥
+Three hymns the Sages have disposed in order, the many-formed, the fair, the all-beholding. These in one single world are placed and settled--the growing plants, the breezes, and the waters.

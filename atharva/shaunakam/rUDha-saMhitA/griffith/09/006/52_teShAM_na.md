@@ -2,4 +2,4 @@
 title = "५२ तेषां न"
 
 +++
-तेषां॒ न कश्च॒नाहो॑ता ।४। ५२॥  
+Not one of them is incompetent to sacrifice.

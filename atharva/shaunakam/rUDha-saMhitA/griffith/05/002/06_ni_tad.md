@@ -2,5 +2,4 @@
 title = "०६ नि तद्"
 
 +++
-नि तद् द॑धि॒षेऽव॑रे॒ परे॑ च॒ यस्मि॒न्नावि॒थाव॑सा दुरो॒णे।  
-आ स्था॑पयत मा॒तरं॑ जिग॒त्नुमत॑ इन्वत॒ कर्व॑राणि॒ भूरि॑ ॥६॥  
+Thou in that house, the highest or the lowest, which thy protec- tion guards, bestowest riches. Establish ye the ever-wandering mother, and bring full many deeds to their completion.

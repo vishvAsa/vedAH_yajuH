@@ -2,5 +2,4 @@
 title = "१० जहि त्वं"
 
 +++
-ज॒हि त्वं का॑म॒ मम ये स॒पत्ना॑ अ॒न्धा तमां॒स्यव॑ पादयैनान्।  
-निरि॑न्द्रिया अर॒साः स॑न्तु॒ सर्वे॒ मा ते॑ जी॑विषुः कत॒मच्च॒नाहः॑ ॥१०॥  
+Slay those who are mine enemies, O Kama: headlong to depth of blinding darkness hurl them. Reft be they all of manly strength and vigour! Let them not have a single day's existence.

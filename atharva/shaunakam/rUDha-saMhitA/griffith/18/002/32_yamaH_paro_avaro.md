@@ -2,5 +2,4 @@
 title = "३२ यमः परोऽवरो"
 
 +++
-य॒मः परोऽव॑रो॒ विव॑स्वा॒न् ततः॒ परं॒ नाति॑ पश्यामि॒ किं च॒न।  
-य॒मे अ॑ध्व॒रो अधि॑ मे॒ निवि॑ष्टो॒ भुवो॒ विव॑स्वान॒न्वात॑तान ॥३२॥  
+Yama is higher and Vivasvan lower: nothing whatever do I see above him. This sacrifice of mine is based on Yama, Vivasvan spread the atmosphere about us.

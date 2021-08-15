@@ -2,5 +2,4 @@
 title = "०५ गर्भे नु"
 
 +++
-गर्भे॒ नु नौ॑ जनि॒ता दम्प॑ती कर्दे॒वस्त्वष्टा॑ सवि॒ता वि॒श्वरू॑पः ।
-नकि॑रस्य॒ प्र मि॑नन्ति व्र॒तानि॒ वेद॑ नाव॒स्य पृ॑थि॒वी उ॒त द्यौः ॥५॥
+Even in the womb God Tvashtar, vivifier, shaping all forms, Creator, made us consorts. Ne'er are his holy statutes violated: that we are his the heaven and earth acknowledge.

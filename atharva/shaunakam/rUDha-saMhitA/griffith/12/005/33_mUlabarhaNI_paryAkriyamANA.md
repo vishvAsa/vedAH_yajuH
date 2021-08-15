@@ -2,4 +2,4 @@
 title = "३३ मूलबर्हणी पर्याक्रियमाणा"
 
 +++
-मू॒ल॒बर्ह॑णी पर्याक्रि॒यमा॑णा॒ क्षितिः॑ प॒र्याकृ॑ता ॥३३॥  
+Uprooting when she is being turned round, destruction when she hath been turned round;

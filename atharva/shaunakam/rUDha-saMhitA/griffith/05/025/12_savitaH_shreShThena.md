@@ -2,5 +2,4 @@
 title = "१२ सवितः श्रेष्ठेन"
 
 +++
-सवि॑तः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः ।  
-पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥१२॥  
+Savitar, vivifier, lay within the body of this dame A male germ with the noblest form for her in the tenth month to bear.

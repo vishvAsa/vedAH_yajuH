@@ -2,5 +2,4 @@
 title = "०१ नमस्कृत्य द्यावापृथिवीभ्यामन्तरिक्षाय"
 
 +++
-न॒म॒स्कृत्य॒ द्यावा॑पृथि॒वीभ्या॑म॒न्तरि॑क्षाय मृ॒त्यवे॑ ।  
-मे॒क्षाम्यू॒र्ध्वस्तिष्ठ॒न् मा मा॑ हिंसिषुरीश्व॒राः ॥१॥
+When I have worshipped Heaven and Earth, reverenced Firma- ment and Death, I will make water standing up. Let not the Sovrans injure me.

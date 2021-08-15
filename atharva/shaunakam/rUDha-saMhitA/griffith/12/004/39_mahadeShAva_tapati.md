@@ -2,5 +2,4 @@
 title = "३९ महदेषाव तपति"
 
 +++
-म॒हदे॒षाव॑ तपति॒ चर॑न्ती॒ गोषु॒ गौरपि॑ ।  
-अथो॑ ह॒ गोप॑तये व॒शाद॑दुषे वि॒षं दु॑हे ॥३९॥  
+Downward she sends a mighty heat, though amid kine a Cow she roams. Poison she yields for him who owns and hath not given her away.

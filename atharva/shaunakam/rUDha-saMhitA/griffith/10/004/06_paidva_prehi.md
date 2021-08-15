@@ -2,4 +2,4 @@
 title = "०६ पैद्व प्रेहि"
 
 +++
-पैद्व॒ प्रेहि॑ प्रथ॒मोऽनु॑ त्वा व॒यमेम॑सि । अही॒न् व्यऽस्यतात् प॒थो येन॑ स्मा व॒यमे॒मसि॑ ॥६॥  
+Go onward, horse of Pedu! go thou first: we follow after thee. Cast thou aside the Serpents from the pathway whereupon we tread.

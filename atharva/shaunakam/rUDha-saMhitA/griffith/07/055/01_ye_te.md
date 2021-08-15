@@ -2,5 +2,4 @@
 title = "०१ ये ते"
 
 +++
-ये ते॒ पन्था॒नोऽव॑ दि॒वो येभि॒र्विश्व॒मैर॑यः ।  
-तेभिः॑ सुम्न॒या धे॑हि नो वसो ॥१॥
+Thy downward paths from heaven, whereby thou hast raised all the world to life, Give us in gracious love, good Lord!

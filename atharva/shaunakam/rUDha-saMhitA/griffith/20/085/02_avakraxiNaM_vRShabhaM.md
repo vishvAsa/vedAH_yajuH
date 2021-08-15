@@ -2,5 +2,4 @@
 title = "०२ अवक्रक्षिणं वृषभं"
 
 +++
-अ॒व॒क्र॒क्षिणं॑ वृष॒भं य॑था॒जुरं॒ गां न च॑र्षणी॒सह॑म्।  
-वि॒द्वेष॑णं सं॒वन॑नोभयंक॒रं मंहि॑ष्ठमुभया॒विन॑म्॥२॥  
+Even him, eternal, like a bull who rushes down, men's con- queror, bounteous like a cow; Him who is cause of both, of enmity and peace, to both sides most munificent.

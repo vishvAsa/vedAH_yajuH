@@ -2,5 +2,4 @@
 title = "३० या आपो"
 
 +++
-या आपो॒ याश्च॑ दे॒वता॒ या वि॒राड् ब्रह्म॑णा स॒ह।  
-शरी॑रं॒ ब्रह्म॒ प्रावि॑श॒च्छरी॒रेऽधि॑ प्र॒जाप॑तिः ॥३०॥  
+All Waters, all the Deities. Viraj with Brahma at her side: Brahma into the body passed: Prajapati is Lord thereof.

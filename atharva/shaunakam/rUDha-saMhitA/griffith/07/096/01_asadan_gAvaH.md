@@ -2,5 +2,4 @@
 title = "०१ असदन् गावः"
 
 +++
-अस॑द॒न् गावः॒ सद॒नेऽप॑प्तद् वस॒तिं वयः॑ ।  
-आ॒स्थाने॒ पर्व॑ता अस्थुः॒ स्थाम्नि॑ वृ॒क्काव॑तिष्ठिपम्॥१॥
+The kine are resting in the stall, home to her nest hath flown the bird, The hills are firmly rooted: I have fixed the kidneys in their place.

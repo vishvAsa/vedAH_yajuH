@@ -2,4 +2,4 @@
 title = "०८ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य । योऽस्य ष॒ष्ठः प्रा॒णः प्रि॒यो नाम॒ त इ॒मे प॒शवः॑ ॥८॥  
+His sixth vital breath, called Dear, are these domestic animals.

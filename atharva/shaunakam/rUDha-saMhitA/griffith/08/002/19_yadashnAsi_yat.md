@@ -2,5 +2,4 @@
 title = "१९ यदश्नासि यत्"
 
 +++
-यद॒श्नासि॒ यत् पिब॑सि धा॒न्यंऽ कृ॒ष्याः पयः॑ ।  
-यदा॒द्यं॒१ यद॑ना॒द्यं सर्वं॑ ते॒ अन्न॑मवि॒षं कृ॑णोमि ॥१९॥  
+Thy food, thy drink, whate'er they be corn grown by cultivation, milk, Food eatable, uneatable, I make all poisonless for thee.

@@ -2,5 +2,4 @@
 title = "०९ अक्षाः फलवतीं"
 
 +++
-अक्षाः॒ फल॑वतीं॒ द्युवं॑ द॒त्त गां क्षी॒रिणी॑मिव ।  
-सं मा॑ कृ॒तस्य॒ धार॑या॒ धनुः॒ स्नाव्ने॑व नह्यत ॥९॥
+Dice, give me play that bringeth fruit as 'twere a cow with flowing milk! And, as the bowstring binds, the bow, unite me with a stream of gains.

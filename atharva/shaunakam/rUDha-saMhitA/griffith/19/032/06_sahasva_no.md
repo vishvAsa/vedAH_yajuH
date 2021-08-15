@@ -2,5 +2,4 @@
 title = "०६ सहस्व नो"
 
 +++
-सह॑स्व नो अ॒भिमा॑तिं॒ सह॑स्व पृतनाय॒तः ।  
-सह॑स्व॒ सर्वा॑न् दु॒र्हार्दः॑ सु॒हार्दो॑ मे ब॒हून् कृ॑धि ॥६॥  
+Subdue our foeman, overcome the men who fain would fight: with us. Conquer all evil-hearted ones: make many well-disposed to me.

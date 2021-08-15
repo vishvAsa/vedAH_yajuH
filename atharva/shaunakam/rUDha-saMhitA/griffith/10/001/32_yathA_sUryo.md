@@ -2,5 +2,4 @@
 title = "३२ यथा सूर्यो"
 
 +++
-यथा॒ सूर्यो॑ मु॒च्यते॒ तम॑स॒स्परि॒ रात्रिं॒ जहा॑त्यु॒षस॑श्च के॒तून्।  
-ए॒वाहं सर्वं॑ दुर्भू॒तं कर्त्रं॑ कृत्या॒कृता॑ कृ॒तं ह॒स्तीव॒ रजो॑ दुरि॒तं ज॑हामि ॥३२॥
+As Surya frees himself from depth of darkness, and casts away the night and rays of morning, So I repel each baleful charm which an enchanter hath pre- pared; And, as an elephant shakes off the dust, I cast the plague aside.

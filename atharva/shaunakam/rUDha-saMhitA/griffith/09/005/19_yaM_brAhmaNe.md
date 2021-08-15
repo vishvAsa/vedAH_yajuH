@@ -2,5 +2,4 @@
 title = "१९ यं ब्राह्मणे"
 
 +++
-यं ब्रा॑ह्म॒णे नि॑द॒धे यं च॑ वि॒क्षु या वि॒प्रुष॑ ओद॒नाना॑म॒जस्य॑ ।  
-सर्वं॒ तद॑ग्ने सुकृ॒तस्य॑ लो॒के जा॑नी॒तान्नः॑ सं॒गम॑ने पथी॒नाम्॥१९॥  
+The droppings of the Odanas attending the Goat which I have lodged with priest or people May all this know us in the world of virtue, O Agni, at the meeting of the pathways.

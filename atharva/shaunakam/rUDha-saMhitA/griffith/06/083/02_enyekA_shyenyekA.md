@@ -2,5 +2,4 @@
 title = "०२ एन्येका श्येन्येका"
 
 +++
-एन्येका॒ श्येन्येका॑ कृ॒ष्णैका॒ रोहि॑णी॒ द्वे।  
-सर्वा॑सामग्रभं॒ नामावी॑रघ्नी॒रपे॑तन ॥२॥  
+One bright with variegated tints, one white, one black, a couple red:-- The'names of all have I declared. Begone, and injure not our men.

@@ -2,4 +2,4 @@
 title = "०६ गिर्वणः पाहि"
 
 +++
-गिर्व॑णः पा॒हि नः॑ सु॒तं मधो॒र्धारा॑भिरज्यसे । इन्द्र॒ त्वादा॑त॒मिद् यशः॑ ॥६॥  
+Drink our libation, Lord of hymns: with streams of meath thou art bedewed: Our glory, Indra, is thy gift.

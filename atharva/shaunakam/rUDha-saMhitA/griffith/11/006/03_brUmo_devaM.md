@@ -2,5 +2,4 @@
 title = "०३ ब्रूमो देवं"
 
 +++
-ब्रू॒मो दे॒वं स॑वि॒तारं॑ धा॒तार॑मु॒त पू॒षण॑म्।  
-त्वष्टा॑रमग्रि॒यं ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥३॥  
+We call on Savitar the God, on Pushan the establisher, Tvashtar the foremost we address: may they deliver us from woe.

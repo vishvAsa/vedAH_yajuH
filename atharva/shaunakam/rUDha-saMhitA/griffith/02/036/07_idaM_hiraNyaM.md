@@ -2,5 +2,4 @@
 title = "०७ इदं हिरण्यं"
 
 +++
-इ॒दं हिर॑ण्यं॒ गुल्गु॑ल्व॒यमौ॒क्षो अथो॒ भगः॑ ।  
-ए॒ते पति॑भ्य॒स्त्वाम॑दुः प्रतिका॒माय॒ वेत्त॑वे ॥७  
+Here is the Bdellium and the gold, the Auksha and the bliss are here: These bring thee to the husbands, so to find the man whom thou. wouldst have.

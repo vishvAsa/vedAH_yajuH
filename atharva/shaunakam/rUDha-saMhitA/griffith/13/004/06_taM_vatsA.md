@@ -2,5 +2,4 @@
 title = "०६ तं वत्सा"
 
 +++
-तं व॒त्सा उप॑ तिष्ठ॒न्त्येक॑शीर्षाणो यु॒ता दश॑ ।  
-र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥६॥  
+Calves, joined, stand close beside him, ten in number, with one single head.

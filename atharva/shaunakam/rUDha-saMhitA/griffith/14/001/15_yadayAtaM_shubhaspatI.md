@@ -2,5 +2,4 @@
 title = "१५ यदयातं शुभस्पती"
 
 +++
-यदया॑तं शुभस्पती वरे॒यं सू॒र्यामुप॑ ।  
-विश्वे॑ दे॒वा अनु॒ तद् वा॑मजानन् पु॒त्रः पि॒तर॑मवृणीत पू॒षा॥१५॥  
+Twin Lords of Lustre, at the time when ye to Surya's wooing came, Then all the Gods agreed to your proposal Pushan as son elected you as father.

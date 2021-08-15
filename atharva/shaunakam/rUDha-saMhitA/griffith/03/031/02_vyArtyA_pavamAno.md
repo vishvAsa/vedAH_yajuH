@@ -2,5 +2,4 @@
 title = "०२ व्यार्त्या पवमानो"
 
 +++
-व्यार्त्या॒ पव॑मानो॒ वि श॒क्रः पा॑पकृ॒त्यया॑ ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥२॥  
+May Pavamana free from harm, and Sakra from unrighteous deed. I free from every evil, from decline: I compass round with life.

@@ -2,5 +2,4 @@
 title = "५६ इदं हिरण्यं"
 
 +++
-इ॒दं हिर॑ण्यं बिभृहि॒ यत् ते॑ पि॒ताबि॑भः पु॒रा।  
-स्व॒र्गं य॒तः पि॒तुर्हस्तं॒ निर्मृ॑ड्ढि॒ दक्षि॑णम्॥५६॥  
+Take thou and wear this piece of gold, the gold thy father used to wear. Wipe tenderly the right hand of thy sire who goes away to heaven.

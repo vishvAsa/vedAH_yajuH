@@ -2,5 +2,4 @@
 title = "२२ यावतीर्भृङ्गा जत्वःऽ"
 
 +++
-याव॑ती॒र्भृङ्गा॑ ज॒त्वःऽ कु॒रूर॑वो॒ याव॑ती॒र्वघा॑ वृक्षस॒र्प्योऽ बभू॒वुः ।  
-तत॒स्त्वम॑सि॒ ज्याया॑न् वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत् कृ॑णोमि ॥२२॥  
+Many as are the bees, and bats, and reptiles, and female serpents of the trees, and beetles, Stronger art thou than these, and great for ever. Kama, to thee, to thee I offer worship.

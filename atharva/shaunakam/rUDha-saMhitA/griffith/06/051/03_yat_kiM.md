@@ -2,5 +2,4 @@
 title = "०३ यत् किं"
 
 +++
-यत् किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३श्चर॑न्ति ।  
-अचि॑त्त्या॒ चेत् तव॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥३॥
+O Varuna, whatever the offence may be, the sin which men commit against the heavenly folk-- When, through our want of thought we violate thy laws, punish us not, O God, for that iniquity.

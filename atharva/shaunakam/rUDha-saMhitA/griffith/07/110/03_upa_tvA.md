@@ -2,5 +2,4 @@
 title = "०३ उप त्वा"
 
 +++
-उप॑ त्वा दे॒वो अ॑ग्रमीच्चम॒सेन॒ बृह॒स्पतिः॑ ।  
-इन्द्र॑ गी॒र्भिर्न॒ आ वि॑श॒ यज॑मानाय सुन्व॒ते॥३॥
+The God Brihaspati hath won thy friendly favour with the cup. With hymns, O Indra, enter us for the juice-pouring worshipper.

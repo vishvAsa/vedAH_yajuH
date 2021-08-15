@@ -2,5 +2,4 @@
 title = "०२ कालेन वातः"
 
 +++
-का॒लेन॒ वातः॑ पवते का॒लेन॑ पृथि॒वी म॒ही।  
-द्यौर्म॒ही का॒ल आहि॑ता ॥२॥  
+By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests the mighty Sky.

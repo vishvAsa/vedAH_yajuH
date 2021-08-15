@@ -2,4 +2,4 @@
 title = "११ इन्द्रो युनक्तु"
 
 +++
-इन्द्रो॑ युनक्तु बहु॒धा वी॒ऽर्याण्य॒स्मिन् य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥११॥  
+Let Indra in this rite in varied manner--All hail!--use powers,. his well-yoked coursers.

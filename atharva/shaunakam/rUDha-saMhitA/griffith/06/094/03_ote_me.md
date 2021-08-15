@@ -2,5 +2,4 @@
 title = "०३ ओते मे"
 
 +++
-ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती ।  
-ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒र्ध्यास्मे॒दं स॑रस्वति ॥३॥
+I have invoked both Heaven and Earth, invoked divine Sarasvati, Indra and Agni have I called: Sarasvati, so may we thrive!

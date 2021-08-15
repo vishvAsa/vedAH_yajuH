@@ -2,5 +2,4 @@
 title = "०३ यद् गिरामि"
 
 +++
-यद् गिरा॑मि॒ सं गि॑रामि समु॒द्र इ॑व संगि॒रः ।  
-प्रा॒णान॒मुष्य॑ सं॒गीर्य॒ सं गि॑रामो अ॒मुं व॒यम्॥३॥
+Whate'er I eat I swallow up, even as the sea that swallows all. Swallowing that man's vital breath, we swallow him completely up.

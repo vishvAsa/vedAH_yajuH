@@ -2,5 +2,4 @@
 title = "१३ बोधश्च त्वा"
 
 +++
-बो॒धश्च॑ त्वा प्रतिबो॒धश्च॑ रक्षतामस्व॒प्नश्च॑ त्वानवद्रा॒णश्च॑ रक्षताम्।  
-गो॒पा॒यंश्च॑ त्वा॒ जागृ॑विश्च रक्षताम्॥१३॥  
+May Vigilance and Watchfulness protect thee, Sleepless and Slumberless keep guard above thee! Let Guardian and let Wakeful be thy warders.

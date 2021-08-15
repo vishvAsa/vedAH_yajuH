@@ -2,5 +2,4 @@
 title = "०४ यदि चिन्नु"
 
 +++
-यदि॑ चि॒न्नु त्वा॒ धना॒ जय॑न्तं॒ रणे॑रणे अनु॒मद॑न्ति॒ विप्राः॑ ।  
-ओजी॑यः शुष्मिन्त्स्थि॒रमा त॑नुष्व॒ मा त्वा॑ दभन् दु॒रेवा॑सः क॒शोकाः॑ ॥४॥  
+If verily in every war the sages joy and exult in thee who win- nest treasures, With mightier power, strong God, extend thy firmness: let not malevolent Kaokas harm thee.

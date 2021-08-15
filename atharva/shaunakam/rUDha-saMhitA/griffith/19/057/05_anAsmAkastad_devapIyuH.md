@@ -2,6 +2,4 @@
 title = "०५ अनास्माकस्तद् देवपीयुः"
 
 +++
-अ॒ना॒स्मा॒कस्तद् दे॑वपी॒युः पिया॑रुर्नि॒ष्कमि॑व॒ प्रति॑ मुञ्चताम्।  
-नवा॑र॒त्नीनप॑मया अ॒स्माकं॒ ततः॒ परि॑ ।  
-दु॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते निर्द॑यामसि ॥५॥
+The evil dream that threatens us, threatens our cattle or our home. That let the scorner of the Gods, the alien mischief-maker bind as a gold jewel round his neck.

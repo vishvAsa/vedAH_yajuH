@@ -2,5 +2,4 @@
 title = "०४ अभ्रिये दिद्युन्नक्षत्रिये"
 
 +++
-अभ्रि॑ये॒ दिद्यु॒न्नक्ष॑त्रिये॒ या वि॒श्वाव॑सुं गन्ध॒र्वं सच॑ध्वे ।  
-ताभ्यो॑ वो देवी॒र्नम॒ इत् कृ॑णोमि ॥४॥  
+Thou, Cloudy! ye who follow the Gandharva Visva-vasu, ye, Starry! Lightning-Flasher! You, O ye Goddesses, I truly worship.

@@ -2,5 +2,7 @@
 title = "०४ व्याघ्रं दत्वतां"
 
 +++
-व्या॒घ्रं द॒त्वतां॑ व॒यं प्र॑थ॒मं ज॑म्भयामसि ।  
-आदु॑ ष्टे॒नमथो॒ अहिं॑ यातु॒धान॒मथो॒ वृक॑म्॥४॥  
+id
+4.3.4    We break and rend the tiger first of creatures...
+4.3.4    We break and rend the tiger first of creatures...
+Name: Comment, dtype: object

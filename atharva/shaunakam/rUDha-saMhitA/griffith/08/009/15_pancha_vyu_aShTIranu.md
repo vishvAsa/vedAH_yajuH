@@ -2,5 +2,4 @@
 title = "१५ पञ्च व्युऽष्टीरनु"
 
 +++
-पञ्च॒ व्युऽष्टी॒रनु॒ पञ्च॒ दोहा॒ गां पञ्च॑नाम्नीमृ॒तवोऽनु॒ पञ्च॑ ।  
-पञ्च॒ दिशः॑ पञ्चद॒शेन॑ क्लृ॒प्तस्ता एक॑मूर्ध्नीर॒भि लो॒कमेक॑म्॥१५॥  
+Five milkings answer to the fivefold dawning, five seasons to the cow who bears five titles. The five sky-regions made fifteen in number, one head have these to one sole world directed.

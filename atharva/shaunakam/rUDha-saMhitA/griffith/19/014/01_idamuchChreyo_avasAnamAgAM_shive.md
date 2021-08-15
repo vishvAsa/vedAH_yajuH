@@ -2,5 +2,4 @@
 title = "०१ इदमुच्छ्रेयोऽवसानमागां शिवे"
 
 +++
-इ॒दमु॒च्छ्रेयो॑ऽव॒सान॒मागां॑ शि॒वे मे॒ द्यावा॑पृथि॒वी अ॑भूताम्।  
-अ॒स॒प॒त्नाः प्र॒दिशो॑ मे भवन्तु॒ न वै त्वा॑ द्विष्मो॒ अभ॑यं नो अस्तु ॥१॥
+I have attained this goodliest place to rest in. Both Heaven and, Earth have shown me grace and favour. Without a foe for me be all the regions! We hate thee not. May we have peace and safety.

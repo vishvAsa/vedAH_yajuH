@@ -2,4 +2,4 @@
 title = "२० ओषधीरेव रथन्तरेण"
 
 +++
-ओष॑धीरे॒व र॑थन्त॒रेण॑ दे॒वा अ॑दुह्र॒न् व्यचो॑ बृह॒ता॥७॥(१४)  
+She rose, she came unto the Gods: they killed her: but in a fortnight she again was living. Fortnightly, hence, men serve the Gods with Vasat! Who knows this knows the way which Gods pass over.

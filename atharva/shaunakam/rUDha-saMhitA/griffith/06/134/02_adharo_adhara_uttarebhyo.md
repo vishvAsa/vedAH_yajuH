@@ -2,5 +2,4 @@
 title = "०२ अधरोऽधर उत्तरेभ्यो"
 
 +++
-अध॑रोऽधर॒ उत्त॑रेभ्यो गू॒ढः पृ॑थि॒व्या मोत् सृपत्।  
-वज्रे॒णाव॑हतः शयाम्॥२॥  
+Down, down beneath the conquerors, let him not rise, concealed in earth, but lie down-smitten with the bolt.

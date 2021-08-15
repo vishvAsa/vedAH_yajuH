@@ -2,5 +2,4 @@
 title = "०१ यो अग्नौ"
 
 +++
-यो अ॒ग्नौ रु॒द्रो यो अ॒प्स्व॑१न्तर्य ओष॑धीर्वी॒रुध॑ आवि॒वेश॑ ।  
-य इ॒मा विश्वा॒ भुव॑नानि चाक्लृ॒प तस्मै॑ रु॒द्राय॒ नमो॑ अस्त्व॒ग्नये ॥१॥
+To Rudra in the fire, to him who dwells in floods, to Rudra who hath entered into herbs and plants, To him who formed and fashioned all these worlds, to him this Rudra, yea, to Agni, reverence be paid!

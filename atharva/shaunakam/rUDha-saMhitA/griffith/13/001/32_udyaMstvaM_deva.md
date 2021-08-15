@@ -2,5 +2,4 @@
 title = "३२ उद्यंस्त्वं देव"
 
 +++
-उ॒द्यंस्त्वं दे॑व सूर्य स॒पत्ना॒नव॑ मे जहि ।  
-अवै॑ना॒नश्म॑ना जहि॒ ते य॑न्त्वध॒मं तमः॑ ॥३२॥  
+Ascending up on high, O God. O Surya, drive my foes away. Yea, beat them backward with the stone: to deepest darkness let them go.

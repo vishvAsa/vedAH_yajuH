@@ -2,5 +2,4 @@
 title = "०२ मय्यग्रे अग्निं"
 
 +++
-मय्यग्रे॑ अ॒ग्निं गृ॑ह्णामि स॒ह क्ष॒त्रेण॒ वर्च॑सा॒ बले॑न ।  
-मयि॑ प्र॒जां मय्यायु॑र्दधामि॒ स्वाहा॒ मय्य॒ग्निम्॥२॥  
+Agni I first appropriate with power, with splendour, and with might. I give myself children and lengthened life, with Hail! take Agni to myself.

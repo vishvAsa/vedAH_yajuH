@@ -2,5 +2,4 @@
 title = "०७ अस्येदु मातुः"
 
 +++
-अ॒स्येदु॑ मा॒तुः सव॑नेषु स॒द्यो म॒हः पि॒तुं प॑पि॒वां चार्वन्ना॑ ।  
-मु॒षा॒यद् विष्णुः॑ पच॒तं सही॑या॒न् विध्य॑द् वरा॒हं ति॒रो अद्रि॒मस्ता॑ ॥७॥  
+As soon as, at libations of his mother, great Vishnu had drunk up the draught, he plundered. The dainty cates, the cooked mess; but One stronger transfixed the wild boar, shooting through the mountain.

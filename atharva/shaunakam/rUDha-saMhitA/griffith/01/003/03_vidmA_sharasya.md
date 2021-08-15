@@ -2,5 +2,4 @@
 title = "०३ विद्मा शरस्य"
 
 +++
-वि॒द्मा श॒रस्य॑ पि॒तरं॒ वरु॑णं श॒तवृ॑ष्ण्यम् ।  
-तेना॑ ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥३॥  
+We know the father of the shaft, Varuna, strong with hundred powers: By this, etc.

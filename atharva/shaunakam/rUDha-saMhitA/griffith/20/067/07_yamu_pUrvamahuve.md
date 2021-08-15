@@ -2,5 +2,4 @@
 title = "०७ यमु पूर्वमहुवे"
 
 +++
-यमु॒ पूर्वमहु॑वे॒ तमि॒दं हु॑वे॒ सेदु॒ हव्यो॑ द॒दिर्यो नाम॒ पत्य॑ते ।  
-अ॒ध्व॒र्युभिः॒ प्रस्थि॑तं सो॒म्यं मधु॑ पो॒त्रात् सोमं॑ द्रविणोदः॒ पिब॑ ऋ॒तुभिः॑ ॥७॥
+Him whom of old I called on, him I call on now. He is to be invoked: his name is He who Gives. Here brought by priests in Soma mead. Granter of Wealth, drink Soma with the Seasons from the Hotar's Cup.

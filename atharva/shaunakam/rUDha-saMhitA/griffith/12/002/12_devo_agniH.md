@@ -2,5 +2,4 @@
 title = "१२ देवो अग्निः"
 
 +++
-दे॒वो अ॒ग्निः संक॑सुको दि॒वस्पृ॒ष्ठान्यारु॑हत्।  
-मु॒च्यमा॑नो॒ निरेण॒सोऽमो॑ग॒स्मां अश॑स्त्याः ॥१२॥  
+Agni the God, the Breaker-up, hath mounted to the heights of heaven. Released from all transgression, he hath from the curse delivered us.

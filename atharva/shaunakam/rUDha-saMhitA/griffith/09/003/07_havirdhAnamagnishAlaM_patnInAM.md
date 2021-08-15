@@ -2,5 +2,4 @@
 title = "०७ हविर्धानमग्निशालं पत्नीनां"
 
 +++
-ह॒वि॒र्धान॑मग्नि॒शालं॒ पत्नी॑नां॒ सद॑नं॒ सदः॑ ।  
-सदो॑ दे॒वाना॑मसि देवि शाले ॥७॥  
+Store-house of Soma, Agni's hall, the ladies' bower, the resi- dence, The seat of Gods art thou, O Goddess House.

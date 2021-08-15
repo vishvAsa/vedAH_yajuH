@@ -2,5 +2,4 @@
 title = "०६ कालो भूतिमसृजत"
 
 +++
-का॒लो भू॒तिम॑सृजत का॒ले त॑पति॒ सूर्यः॑ ।  
-का॒ले ह॒ विश्वा॑ भू॒तानि॑ का॒ले चक्षु॒र्वि प॑श्यति ॥६॥  
+Kala created land; the Sun in Kala hath his light and heat. In Kala rest all things that be: in Kala doth the eye discern.

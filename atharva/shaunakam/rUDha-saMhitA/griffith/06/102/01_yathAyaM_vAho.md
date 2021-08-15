@@ -2,5 +2,4 @@
 title = "०१ यथायं वाहो"
 
 +++
-यथा॒यं वा॒हो अ॑श्विना स॒मैति॒ सं च॒ वर्त॑ते ।  
-ए॒वा माम॒भि ते॒ मनः॑ स॒मैतु॒ सं च॑ वर्तताम्॥१॥  
+Even as this ox, O Asvins, steps and turns together with his mate, So let thy fancy turn itself, come nearer, and unite with me.

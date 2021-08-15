@@ -2,5 +2,4 @@
 title = "३६ उत् त्वा"
 
 +++
-उत् त्वा॑ य॒ज्ञा ब्रह्म॑पूता वहन्त्यध्व॒गतो॒ हर॑यस्त्वा वहन्ति ।  
-ति॒रः स॑मु॒द्रमति॑ रोचसेऽर्ण॒वम्॥३६॥  
+Cleansed by prayer, sacrifices bear thee upward: bay coursers, ever travelling, convey thee. Thy light shines over sea and billowy ocean.

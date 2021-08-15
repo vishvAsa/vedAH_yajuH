@@ -2,5 +2,4 @@
 title = "०२ नमो रुद्राय"
 
 +++
-नमो॑ रु॒द्राय॒ नमो॑ अस्तु त॒क्मने॒ नमो॒ राज्ञे॒ वरु॑णाय॒ त्विषी॑मते ।  
-नमो॑ दि॒वे नमः॑ पृथि॒व्यै नम॒ ओष॑धीभ्यः ॥२॥  
+To Rudra and to Fever be our worship paid: worship be paid to Varuna the splendid King! Worship to Dyaus, to Earth, worship be paid to Plants!

@@ -2,5 +2,4 @@
 title = "०८ आयमगन्त्संवत्सरः पतिरेकाष्टके"
 
 +++
-आयम॑गन्त्संवत्स॒रः पति॑रेकाष्टके॒ तव॑ ।  
-सा न॒ आयु॑ष्मतीं प्र॒जां रा॒यस्पोषे॑ण॒ सं सृ॑ज ॥८॥  
+This Year hath come to us, thy lord and consort, O Ekashtaka. Vouchsafe us children long to live, bless us with increase of our wealth.

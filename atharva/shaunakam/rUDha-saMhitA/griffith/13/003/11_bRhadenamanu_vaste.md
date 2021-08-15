@@ -2,7 +2,4 @@
 title = "११ बृहदेनमनु वस्ते"
 
 +++
-बृ॒हदे॑न॒मनु॑ वस्ते पु॒रस्ता॑द् रथंत॒रं प्रति॑ गृह्णाति प॒श्चात्।  
-ज्योति॒र्वसा॑ने॒ सद॒मप्र॑मा॒दं तस्य॑ दे॒वस्य॑।  
-क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑ ।  
-उद् वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न्॥११॥  
+In front the Brihat-Saman is his mantle, and from behind Rathantara enfolds him, Ever with care robing themselves in splendour. This God, etc.

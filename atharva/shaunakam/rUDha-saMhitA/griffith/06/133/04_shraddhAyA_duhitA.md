@@ -2,5 +2,4 @@
 title = "०४ श्रद्धाया दुहिता"
 
 +++
-श्र॒द्धाया॑ दुहि॒ता तप॒सोऽधि॑ जा॒ता स्वस॒ ऋषी॑णां भूत॒कृतां॑ ब॒भूव॑ ।  
-सा नो॑ मेखले म॒तिमा धे॑हि मे॒धामथो॑ नो धेहि॒ तप॑ इन्द्रि॒यं च॑ ॥४॥  
+She hath become, Faith's daughter, sprung from Fervour, the sister of the world-creating Rishis; As such, O Girdle, give us thought and wisdom, give us religious zeal and mental vigour.

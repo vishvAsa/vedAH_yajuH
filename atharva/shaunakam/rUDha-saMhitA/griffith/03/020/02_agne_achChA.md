@@ -2,5 +2,4 @@
 title = "०२ अग्ने अच्छा"
 
 +++
-अग्ने॒ अच्छा॑ वदे॒ह नः॑ प्र॒त्यङ् नः॑ सु॒मना॑ भव ।  
-प्र णो॑ यच्छ विशां पते धन॒दा अ॑सि न॒स्त्वम्॥२॥  
+Turn hither, Agni, speak to us, come to us with a friendly mind. Enrich us, Sovran of the Tribes! Thou art the giver of our wealth.

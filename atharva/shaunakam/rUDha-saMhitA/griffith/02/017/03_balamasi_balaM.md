@@ -2,4 +2,4 @@
 title = "०३ बलमसि बलं"
 
 +++
-बल॑मसि॒ बलं॑ मे दाः॒ स्वाहा॑ ॥३॥  
+Strength art thou, give me strength. All hail!

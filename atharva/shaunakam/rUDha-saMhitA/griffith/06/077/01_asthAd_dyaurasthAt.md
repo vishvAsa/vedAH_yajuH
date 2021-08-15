@@ -2,5 +2,4 @@
 title = "०१ अस्थाद् द्यौरस्थात्"
 
 +++
-अस्था॒द् द्यौरस्था॑त् पृथि॒व्यस्था॒द् विश्व॑मि॒दं जग॑त्।  
-आ॒स्थाने॒ पर्व॑ता अस्थु॒ स्थाम्न्यश्वां॑ अतिष्ठिपम्॥१॥  
+Firm stands the heaven, firm stands the earth, firm stands this universal world, Firm stand the rooted mountains. I have put the horses in the stall.

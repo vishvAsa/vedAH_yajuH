@@ -2,5 +2,4 @@
 title = "२६ मूर्धानमस्य संसीव्याथर्वा"
 
 +++
-मू॒र्धान॑मस्य सं॒सीव्याथ॑र्वा॒ हृद॑यं च॒ यत्।  
-म॒स्तिष्का॑दू॒र्ध्वः प्रैर॑य॒त् पव॑मा॒नोऽधि॑ शीर्ष॒तः ॥२६॥  
+Together, with his needle hath Atharvan sewn his head and heart. And Pavamana hovered from his head on high above his brain.

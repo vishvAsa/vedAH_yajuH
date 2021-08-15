@@ -2,5 +2,4 @@
 title = "०४ इदं विष्णुर्वि"
 
 +++
-इ॒दं विष्णु॒र्वि च॑क्रमे त्रे॒धा नि द॑धे प॒दा।  
-समू॑ढमस्य पांसु॒रे॥४॥  
+Through all this world strode Vishnu: thrice his foot he planted, and the whole Was gathered in his footstep's dust.

@@ -2,4 +2,4 @@
 title = "०६ त्वं वर्मासि"
 
 +++
-त्वं वर्मा॑सि स॒प्रथः॑ पुरोयो॒धश्च॑ वृत्रहन्। त्वया॒ प्रति॑ ब्रुवे यु॒जा॥६॥
+Thou art mine ample coat of mail, my champion, Vritra-slayes, thou. With thee for Friend I brave the foe.

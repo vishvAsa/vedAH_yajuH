@@ -2,5 +2,4 @@
 title = "१६ अपाङ् प्राङेति"
 
 +++
-अपा॒ङ् प्राङे॑ति स्व॒धया॑ गृभी॒तोऽम॑र्त्यो॒ मर्त्ये॑ना॒ सयो॑निः ।  
-ता शश्व॑न्ता विषू॒चीना॑ वि॒यन्ता॒ न्य॑१न्यं चि॒क्युर्न नि चि॑क्युर॒न्यम्॥१६॥  
+Back, forward goes he, grasped by power inherent, immortal born the brother of the mortal. Ceaseless they move in opposite directions: men mark the one and fail to mark the other.

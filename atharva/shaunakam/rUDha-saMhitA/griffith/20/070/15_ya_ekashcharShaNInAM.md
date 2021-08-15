@@ -2,4 +2,4 @@
 title = "१५ य एकश्चर्षणीनां"
 
 +++
-य एक॑श्चर्षणी॒नां वसू॑नामिर॒ज्यति॑ । इन्द्रः॒ पञ्च॑ क्षिती॒नाम्॥१५॥  
+Indra who rules with single sway men, riches, and the fivefold race. Of those who dwell upon the earth.

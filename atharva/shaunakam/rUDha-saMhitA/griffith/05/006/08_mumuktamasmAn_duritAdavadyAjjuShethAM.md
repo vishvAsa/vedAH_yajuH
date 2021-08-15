@@ -2,4 +2,4 @@
 title = "०८ मुमुक्तमस्मान् दुरितादवद्याज्जुषेथां"
 
 +++
-मु॒मु॒क्तम॒स्मान् दु॑रि॒ताद॑व॒द्याज्जु॒षेथां य॒ज्ञम॒मृत॑म॒स्मासु॑ धत्तम्॥८॥  
+Free us from trouble, free us from dishonour, accept our wor- ship, give us life immortal.

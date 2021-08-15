@@ -2,5 +2,4 @@
 title = "०५ अश्वायन्तो गव्यन्तो"
 
 +++
-अ॒श्वा॒यन्तो॑ ग॒व्यन्तो॑ वा॒जय॑न्तो॒ हवा॑महे॒ त्वोप॑गन्त॒वा उ॑ ।  
-आ॒भूष॑न्तस्ते सुम॒तौ नवा॑यां व॒यमि॑न्द्र त्वा शु॒नं हु॑वेम ॥५॥  
+We call on thee to come to us, desirous of booty, and of cattle, and of horses. For thy new love and favour are we present: let us invoke thee, Indra, as our welfare.

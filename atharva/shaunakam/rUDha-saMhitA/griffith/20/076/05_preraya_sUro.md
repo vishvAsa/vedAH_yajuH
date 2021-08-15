@@ -2,5 +2,4 @@
 title = "०५ प्रेरय सूरो"
 
 +++
-प्रेर॑य॒ सूरो॒ अर्थं॒ न पा॒रं ये अ॑स्य॒ कामं॑ जनि॒धा इ॑व॒ ग्मन्।  
-गिर॑श्च॒ ये ते॑ तुविजात पू॒र्वीर्नर॑ इन्द्र प्रति॒शिक्ष॒न्त्यन्नैः॑ ॥५॥  
+Speed happily those, as Surya ends his journey, who meet his wish as bridegrooms meet their spouses; Men who support, O Indra strong by nature, with food the many songs that tell thy praises.

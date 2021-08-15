@@ -2,5 +2,4 @@
 title = "१२ धनुर्बिभर्षि हरितं"
 
 +++
-धनु॑र्बिभर्षि॒ हरि॑तं हिर॒ण्ययं॑ सहस्र॒घ्नि श॒तव॑धं शिखण्डिनम्।  
-रु॒द्रस्येषु॑श्चरति देवहे॒तिस्तस्यै॒ नमो॑ यत॒मस्यां॑ दि॒शी॒३तः ॥१२॥  
+A yellow bow of gold thou wieldest, slaying its hundred, tufted God! smiting its thousand. Weapon of Gods, far flies the shaft of Rudra: wherever it may be, we pay it homage.

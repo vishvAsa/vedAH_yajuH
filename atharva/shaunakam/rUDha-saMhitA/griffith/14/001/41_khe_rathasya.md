@@ -2,5 +2,4 @@
 title = "४१ खे रथस्य"
 
 +++
-खे रथ॑स्य॒ खेऽन॑सः॒ खे यु॒गस्य॑ शतक्रतो ।  
-अ॒पा॒लामि॑न्द्र॒ त्रिष्पू॒त्वाकृ॑णोः॒ सूर्य॑त्वचम्॥४१॥  
+Cleansing Apala, Indra! thrice, thou gavest sunbright skin to her Drawn, Satakratu! through the hole of car, of wagon, and of yoke.

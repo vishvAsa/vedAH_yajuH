@@ -2,4 +2,4 @@
 title = "०६ स एकव्रात्योऽभवत्"
 
 +++
-स ए॑कव्रा॒त्योऽभव॒त् स धनु॒राद॑त्त॒ तदे॒वेन्द्र॑ ध॒नुः ॥६॥  
+He became Chief Vratya. He held a bow, even that Bow of Indra.

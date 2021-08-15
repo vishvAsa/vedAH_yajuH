@@ -2,5 +2,4 @@
 title = "१२ दुहे सायं"
 
 +++
-दु॒हे सा॒यं दु॒हे प्रा॒तर्दु॒हे म॒ध्यंदि॑नं॒ परि॑ ।  
-दोहा॒ ये अ॑स्य सं॒यन्ति॒ ता॑न् वि॒द्मानु॑पदस्वतः ॥१२॥
+At evening he is milked, is milked at early morn, is milked at noon. We know that streams of milk that flow from him are in- exhaustible.

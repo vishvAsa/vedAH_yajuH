@@ -2,4 +2,4 @@
 title = "२२ स्रुचा हस्तेन"
 
 +++
-स्रु॒चा हस्ते॑न प्रा॒णे यूपे॑ स्रुक्का॒रेण॑ वषट्का॒रेण॑ ।५। २२॥  
+With ladle, with hand, in life, at the sacrificial post, with cry of Ladle! with exclamation of Vashat!

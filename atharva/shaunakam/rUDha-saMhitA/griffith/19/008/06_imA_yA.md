@@ -2,5 +2,4 @@
 title = "०६ इमा या"
 
 +++
-इ॒मा या ब्र॑ह्मणस्पते॒ विषु॑ची॒र्वात॒ ईर॑ते ।  
-स॒ध्रीची॑रिन्द्र॒ ताः कृ॒त्वा मह्यं॑ शि॒वत॑मास्कृधि ॥६॥  
+These flames of Brahmanaspati borne to all quarters in the- wind, Turn them all hither, Indra, and make them most gracious unto, me.

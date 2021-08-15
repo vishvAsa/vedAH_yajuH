@@ -2,5 +2,4 @@
 title = "०६ पूर्वो दुन्दुभे"
 
 +++
-पूर्वो॑ दुन्दुभे॒ प्र व॑दासि॒ वाचं॒ भूम्याः॑ पृ॒ष्ठे व॑द॒ रोच॑मानः ।  
-अ॒मि॒त्र॒से॒नाम॑भि॒जञ्ज॑भानो द्यु॒मद् व॑द दुन्दुभे सू॒नृता॑वत्॥६॥  
+Thou, first of all, O Drum, thy voice shalt utter: over the ridge of earth speak forth exultant. Crunching with might the army of the foemen, declare thy message pleasantly and clearly.

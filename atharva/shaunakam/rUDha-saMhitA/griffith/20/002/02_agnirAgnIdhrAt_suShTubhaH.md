@@ -2,4 +2,4 @@
 title = "०२ अग्निराग्नीध्रात् सुष्टुभः"
 
 +++
-अ॒ग्निराग्नी॑ध्रात् सु॒ष्टुभः॑ स्व॒र्कादृ॒तुना॒ सोमं॑ पिबतु ॥२॥  
+Let Agni from the Kindler's cup drink Trishtups, according to the season Soma from heaven.

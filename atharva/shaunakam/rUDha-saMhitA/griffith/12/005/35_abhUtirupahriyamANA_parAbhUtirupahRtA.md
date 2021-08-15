@@ -2,4 +2,4 @@
 title = "३५ अभूतिरुपह्रियमाणा पराभूतिरुपहृता"
 
 +++
-अभू॑तिरुपह्रि॒यमा॑णा॒ परा॑भूति॒रुप॑हृता ॥३५॥  
+Loss of power while sacrificially presented, humiliation when she hath been offered;

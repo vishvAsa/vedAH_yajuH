@@ -2,5 +2,4 @@
 title = "०९ यामापीनामुपसीदन्त्यापः शाक्वरा"
 
 +++
-यामापी॑नामुप॒सीद॒न्त्यापः॑ शाक्व॒रा वृ॑ष॒भा ये स्व॒राजः॑ ।  
-ते व॑र्षन्ति॒ ते व॑र्षयन्ति त॒द्विदे॒ काम॒मूर्ज॒मापः॑ ॥९॥  
+On whom, well-fed, the Waters wait in worship, and steers and self-refulgent bulls attend her. For thee, for one like thee down pour the Waters, and cause desire and strength to rain upon thee.

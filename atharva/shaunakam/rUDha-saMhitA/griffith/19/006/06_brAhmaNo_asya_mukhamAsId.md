@@ -2,5 +2,4 @@
 title = "०६ ब्राह्मणोऽस्य मुखमासीद्"
 
 +++
-ब्रा॒ह्म॒णोऽस्य॒ मुख॑मासीद् बा॒हू रा॑ज॒न्योऽभवत्।  
-मध्यं॒ तद॑स्य॒ यद् वैश्यः॑ प॒द्भ्यां शू॒द्रो अ॑जायत ॥६॥  
+The Brahman was his mouth, of both his arms was the Rajanya made. His waist became the Vaisya, from his feet the Sudra was produced.

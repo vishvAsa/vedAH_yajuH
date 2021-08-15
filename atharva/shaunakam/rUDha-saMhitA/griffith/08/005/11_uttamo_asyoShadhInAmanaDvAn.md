@@ -2,5 +2,4 @@
 title = "११ उत्तमो अस्योषधीनामनड्वान्"
 
 +++
-उ॒त्त॒मो अ॒स्योष॑धीनामन॒ड्वान् जग॑तामिव व्या॒घ्रः श्वप॑दामिव ।  
-यमैच्छामावि॑दाम॒ तं प्र॑ति॒स्पाश॑न॒मन्ति॑तम्॥११॥  
+Thou art the chief of all the plants, even as a bull among the beasts. A tiger of the beasts of prey. Him whom we sought for have we found, him lying near in wait for us.

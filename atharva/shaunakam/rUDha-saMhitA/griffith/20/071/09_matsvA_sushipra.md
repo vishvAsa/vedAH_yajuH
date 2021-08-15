@@ -2,4 +2,4 @@
 title = "०९ मत्स्वा सुशिप्र"
 
 +++
-मत्स्वा॑ सुशिप्र म॒न्दिभि॒ स्तोमे॑भिर्विश्वचर्षणे । सचै॒षु सव॑ने॒ष्वा॥९॥  
+O Lord of all men, fair of cheek, rejoice thee in the gladdening buds, Present at these drink-offerings.

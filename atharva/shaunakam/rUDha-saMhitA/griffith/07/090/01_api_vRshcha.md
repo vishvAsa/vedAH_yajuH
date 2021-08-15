@@ -2,5 +2,4 @@
 title = "०१ अपि वृश्च"
 
 +++
-अपि॑ वृश्च पुराण॒वद् व्र॒तते॑रिव गुष्पि॒तम्।  
-ओजो॑ दा॒स्यस्य॑ दम्भय ॥१॥  
+Tear thou asunder, as of old, like tangles of a creeping plant. Demolish thou the Dasa's might.

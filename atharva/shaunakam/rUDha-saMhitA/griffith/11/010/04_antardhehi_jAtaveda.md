@@ -2,5 +2,4 @@
 title = "०४ अन्तर्धेहि जातवेद"
 
 +++
-अ॒न्तर्धे॑हि जातवेद॒ आदि॑त्य॒ कुण॑पं ब॒हु।  
-त्रिषं॑धेरि॒यं सेना॒ सुहि॑तास्तु मे॒ वशे॑ ॥४॥  
+Omniscient Aditya, make full many a corpse to disappear. Let this devoted army of Trishandhi be in my control.

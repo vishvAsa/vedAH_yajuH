@@ -2,5 +2,4 @@
 title = "०७ हस्ताभ्यां दशशाखाभ्यां"
 
 +++
-हस्ता॑भ्यां॒ दश॑शाखाभ्यां जि॒ह्वा वा॒चः पु॑रोग॒वी।  
-अ॒ना॒म॒यि॒त्नुभ्यां॒ हस्ता॑भ्यां॒ ताभ्यां॑ त्वा॒भि मृ॑शामसि ॥७॥
+The tongue that leads the voice precedes. Then with our tenfold- branching hands. With these two healers of disease, we stroke thee with a soft caress.

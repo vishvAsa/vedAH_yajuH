@@ -2,5 +2,4 @@
 title = "०५ प्र विशतं"
 
 +++
-प्र वि॑शतं प्राणापानावन॒ड्वाहा॑विव व्र॒जम्।  
-अ॒यं ज॑रि॒म्णः शे॑व॒धिररि॑ष्ट इ॒ह व॑र्धताम्॥५॥  
+Enter him, both ye breaths, like two draught-oxen entering their stall. Let him, the treasure of old age, still wax in strength, uninjured,. here.

@@ -2,5 +2,4 @@
 title = "०२ यस्येदं प्रदिशि"
 
 +++
-यस्ये॒दं प्र॒दिशि॒ यद् वि॒रोच॑ते॒ प्र चान॑ति॒ वि च॒ चष्टे॒ शची॑भिः ।  
-पु॒रा दे॒वस्य॒ धर्म॑णा॒ सहो॑भि॒र्विष्णु॑मग॒न् वरु॑णं पू॒र्वहू॑तिः ॥२॥
+The early prayer hath ever come to Vishnu and Varuna by that God's high power and statute. In whose control is all this world that shineth, all that hath powers to see and all that breatheth.

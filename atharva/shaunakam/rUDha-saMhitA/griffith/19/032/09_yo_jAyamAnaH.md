@@ -2,5 +2,4 @@
 title = "०९ यो जायमानः"
 
 +++
-यो जाय॑मानः पृथि॒वीमदृं॑ह॒द् यो अस्त॑भ्नाद॒न्तरि॑क्षं॒ दिवं॑ च ।  
-यं बिभ्र॑तं न॒नु पा॒प्मा वि॑वेद॒ स नो॒ऽयं द॒र्भो वरु॑णो दि॒वा कः॑ ॥९॥  
+He who first born fixed earth in her position, he who established heaven and air's mid-region, Whom sinner ne'er hath known as his supporter,--this Darbha be our shelter and protection!

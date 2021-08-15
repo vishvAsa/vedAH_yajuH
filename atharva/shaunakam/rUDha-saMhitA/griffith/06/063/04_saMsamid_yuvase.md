@@ -2,5 +2,4 @@
 title = "०४ संसमिद् युवसे"
 
 +++
-संस॒मिद् यु॑वसे वृष॒न्नग्ने॒ विश्वा॑न्य॒र्यृ आ।  
-इ॒डस्प॒दे समि॑ध्यसे॒ स नो॒ वसू॒न्या भ॑र ॥४॥
+Thou, mighty Agni, good and true, gatherest up all precious things. Bring us all treasures as thou art enkindled at libation's place.

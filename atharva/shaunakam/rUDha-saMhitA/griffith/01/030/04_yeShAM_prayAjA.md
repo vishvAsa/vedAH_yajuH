@@ -2,5 +2,4 @@
 title = "०४ येषां प्रयाजा"
 
 +++
-येषां॑ प्रया॒जा उ॒त वा॑नुया॒जा हु॒तभा॑गा अहु॒ताद॑श्च दे॒वाः ।  
-येषां॑ वः॒ पञ्च॑ प्र॒दिशो॒ विभ॑क्ता॒स्तान् वो अ॒स्मै स॑त्र॒सदः॑ कृणोमि ॥४॥
+You, claiming Anuyajas or Prayajas, sharers, or not consumers, of oblation, You, to whom heaven's five regions are apportioned, I make companions at his sacred sessions.

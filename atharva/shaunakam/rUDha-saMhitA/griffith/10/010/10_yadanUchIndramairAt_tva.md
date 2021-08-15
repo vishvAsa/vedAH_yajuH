@@ -2,5 +2,4 @@
 title = "१० यदनूचीन्द्रमैरात् त्व"
 
 +++
-यद॒नूचीन्द्र॒मैरात् त्व॑ ऋष॒भोऽह्वयत्।  
-तस्मा॑त् ते वृत्र॒हा पयः॑ क्षी॒रं क्रु॒द्धोऽहरद् वशे ॥१०॥  
+The Bull, what time thou followedst the way of Indra, summon- ed thee: Thence the Fiend-slayer, angered, took thy water and thy milk away.

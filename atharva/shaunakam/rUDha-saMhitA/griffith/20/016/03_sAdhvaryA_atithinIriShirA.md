@@ -2,5 +2,4 @@
 title = "०३ साध्वर्या अतिथिनीरिषिरा"
 
 +++
-सा॒ध्व॒र्या अ॑ति॒थिनी॑रिषि॒रा स्पा॒र्हाः सु॒वर्णा॑ अनव॒द्यरू॑पाः ।  
-बृह॒स्पतिः॒ पर्व॑तेभ्यो वि॒तूर्या॒ निर्गा ऊ॑पे॒ यव॑मिव स्थि॒विभ्यः॑ ॥३॥  
+Brihaspati, having won them from the mountains, strewed down, like barley out of winnowing-baskets, The vigorous, wandering cows who aid the pious, desired of all, of blameless form, well-coloured.

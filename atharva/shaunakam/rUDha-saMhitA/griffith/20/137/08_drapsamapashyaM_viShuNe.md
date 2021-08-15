@@ -2,5 +2,4 @@
 title = "०८ द्रप्समपश्यं विषुणे"
 
 +++
-द्र॒प्सम॑पश्यं॒ विषु॑णे॒ चर॑न्तमुपह्व॒रे न॒द्यो अंशु॒मत्याः॑ ।  
-नभो॒ न कृ॒ष्णम॑वतस्थि॒वांस॒मिष्या॑मि वो वृषणो॒ युध्य॑ता॒जौ॥८॥  
+I saw the drop in the far distance moving, on the slope bank of Ansumati's river, Like a black cloud that sank into the water. Heroes. I send you forth. Go, fight in battle.

@@ -2,5 +2,4 @@
 title = "१२ प्रतीहारो निधनं"
 
 +++
-प्र॒ती॒हा॒रो नि॒धनं॑ विश्व॒जिच्चा॑भि॒जिच्च॒ यः ।  
-सा॒ह्ना॒ति॒रा॒त्रावुच्छि॑ष्टे द्वादशा॒होऽपि॒ तन्मयि॑ ॥१२॥  
+Pratihara and Nidhanam, the Visvajit, the Abhijit, The two Sahnatiratras and Twelve-day rite are stored therein.

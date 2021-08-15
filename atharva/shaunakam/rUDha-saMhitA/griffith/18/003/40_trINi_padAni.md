@@ -2,5 +2,4 @@
 title = "४० त्रीणि पदानि"
 
 +++
-त्रीणि॑ प॒दानि॑ रु॒पो अन्व॑रोह॒च्चतु॑ष्पदी॒मन्वैतद् व्र॒तेन॑ ।  
-अ॒क्षरे॑ण॒ प्रति॑ मिमीते अ॒र्कमृ॒तस्य॒ नाभा॑व॒भि सं पु॑नाति ॥४०॥  
+Three paces hath the stake gone up, and followed her, the four- footed, with devout observance. He with the Syllable copies the praise-song; he thoroughly purifies at Order's centre.

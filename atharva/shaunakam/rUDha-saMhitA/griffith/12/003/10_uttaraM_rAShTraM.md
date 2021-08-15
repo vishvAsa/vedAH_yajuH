@@ -2,5 +2,4 @@
 title = "१० उत्तरं राष्ट्रं"
 
 +++
-उत्त॑रं रा॒ष्ट्रं प्र॒जयो॑त्त॒राव॑द् दि॒शामुदी॑ची कृणवन्नो॒ अग्र॑म्।  
-पाङ्क्तं॒ छन्दः॒पुरु॑षो बभूव॒ विश्वै॑र्विश्वा॒ङ्गैः स॒ह सं भ॑वेम ॥१०॥  
+Ever victorious is the northern region: may the east quarter set us first and foremost. The Man became the five-divisioned metre. May we abide wit . all our members perfect.

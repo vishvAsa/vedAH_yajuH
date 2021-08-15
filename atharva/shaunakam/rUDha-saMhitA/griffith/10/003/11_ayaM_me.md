@@ -2,5 +2,4 @@
 title = "११ अयं मे"
 
 +++
-अ॒यं मे॑ वर॒ण उर॑सि॒ राजा॑ दे॒वो वन॒स्पतिः॑ ।  
-स मे॒ शत्रू॒न् वि बा॑धता॒मिन्द्रो॒ दस्यू॑नि॒वासु॑रान्॥११॥  
+This Varana is on my breast, the sovran, the celestial Plant. Let it afflict my foemen as Indra quelled fiends and Asuras.

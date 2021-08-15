@@ -2,5 +2,4 @@
 title = "०३ यद् देवा"
 
 +++
-यद् दे॒वा दे॒वान् ह॒विषाय॑ज॒न्ताम॑र्त्या॒न् मन॒साम॑र्त्येन ।  
-मदे॑म॒ तत्र॑ पर॒मे व्योऽम॒न् पश्ये॑म॒ तदुदि॑तौ॒ सूर्य॑स्य ॥३॥  
+Where the Gods worshipped Gods with their oblation, worship- ped immortals with immortal spirit, There in the loftiest heaven may we be happy, and look upon that light when Surya rises.

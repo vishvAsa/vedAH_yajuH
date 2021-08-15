@@ -2,5 +2,4 @@
 title = "११ कृणोमि ते"
 
 +++
-कृ॒णोमि॑ ते प्राणापा॒नौ ज॒रां मृ॒त्युं दी॒र्घमायुः॑ स्व॒स्ति।  
-वै॒व॒स्व॒तेन॒ प्रहि॑तान् यमदू॒तांश्चर॒तोऽप॑ सेधामि॒ सर्वा॑न्॥११॥  
+I give thee both the acts of breath, health, lengthened life, and death by age. All Yama's messengers who roam around, sent by Vaivasvata, I chase away.

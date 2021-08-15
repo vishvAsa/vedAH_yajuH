@@ -2,4 +2,4 @@
 title = "०३ अरायक्षयणमस्यरायचातनं मे"
 
 +++
-अ॒रा॒य॒क्षय॑णमस्यराय॒चात॑नं मे दाः॒ स्वाहा॑ ॥३॥  
+Arayis' ruiner art thou, give me to drive Arayis off. All hail!

@@ -2,4 +2,4 @@
 title = "०३ अपो देवीरुप"
 
 +++
-अ॒पो दे॒वीरुप॑ ह्वये॒ यत्र॒ गावः॒ पिब॑न्ति नः । सिन्धु॑भ्यः॒ कर्त्वं॑ ह॒विः ॥३॥  
+I call the Waters, Goddesses, hitherward where our cattle drink: The streams must share the sacrifice.

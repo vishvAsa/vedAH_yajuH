@@ -2,4 +2,4 @@
 title = "०५ अग्निः स्रुचो"
 
 +++
-अ॒ग्निः स्रुचो॑ अध्व॒रेषु॑ प्र॒यक्षु॒ स य॑क्षदस्य महि॒मान॑म॒ग्नेः ॥५॥  
+At holy rites and offerings Agni loveth the scoops: let this man worship Agni's greatness.

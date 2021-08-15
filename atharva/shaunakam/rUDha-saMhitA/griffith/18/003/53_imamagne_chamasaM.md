@@ -2,5 +2,4 @@
 title = "५३ इममग्ने चमसं"
 
 +++
-इ॒मम॑ग्ने चम॒सं मा वि जि॑ह्वरः॑ प्रि॒यो दे॒वाना॑मु॒त सो॒म्याना॑म्।  
-अ॒यं यश्च॑म॒सो दे॑व॒पान॒स्तस्मि॑न् दे॒वा अ॒मृता॑ मादयन्ताम्॥५३॥  
+Forbear, O Agni, to upset this chalice: the Gods and they who merit Soma love it. This cup, yea this which serves the Gods to drink from,--in this let the Immortals take their pleasure.

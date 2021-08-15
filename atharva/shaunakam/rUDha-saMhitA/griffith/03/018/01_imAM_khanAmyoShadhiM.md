@@ -2,5 +2,4 @@
 title = "०१ इमां खनाम्योषधिं"
 
 +++
-इ॒मां ख॑ना॒म्योष॑धिं वी॒रुधां॒ बल॑वत्तमाम्।  
-यया॑ स॒पत्नीं॒ बाध॑ते॒ यया॑ संवि॒न्दते॒ पति॑म्॥१॥  
+From out the earth I dig this Plant, and herb of most effectual power, Wherewith one quells the rival wife and gains the husband for one's self.

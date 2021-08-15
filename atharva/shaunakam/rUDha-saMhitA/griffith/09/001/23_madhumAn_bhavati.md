@@ -2,5 +2,4 @@
 title = "२३ मधुमान् भवति"
 
 +++
-मधु॑मान् भवति॒ मधु॑मदस्याहा॒र्यंऽ भवति ।  
-मधु॑मतो लो॒कान् ज॑यति॒ य ए॒वं वेद॑ ॥२३॥  
+Sweet is the man, sweet are his goods and chattels: he who knows this conquers the worlds of sweetness.

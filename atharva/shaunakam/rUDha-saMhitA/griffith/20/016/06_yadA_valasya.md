@@ -2,5 +2,4 @@
 title = "०६ यदा वलस्य"
 
 +++
-य॒दा व॒लस्य॒ पीय॑तो॒ जसुं॒ भेद् बृह॒स्पति॑रग्नि॒तपो॑भिर॒र्कैः ।  
-द॒द्भिर्न जि॒ह्वा परि॑विष्ट॒माद॑दा॒विर्नि॒धींर॑कृणोदु॒स्रिया॑णाम्॥६॥  
+Brihaspati, when he with fiery lightnings cleft through the weapon of reviling Vala, Consumed him as tongues eat what teeth have compassed: he threw the prisons of the red cows open.

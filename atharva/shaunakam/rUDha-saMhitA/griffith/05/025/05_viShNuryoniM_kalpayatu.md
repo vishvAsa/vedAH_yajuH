@@ -2,5 +2,4 @@
 title = "०५ विष्णुर्योनिं कल्पयतु"
 
 +++
-विष्णु॒र्योनिं॑ कल्पयतु॒ त्वष्टा॑ रू॒पाणि॑ पिंशतु ।  
-आ सि॑ञ्चतु प्र॒जाप॑तिर्धा॒ता गर्भं॑ दधातु ते ॥५॥  
+Let Vishnu form and mould the womb, let Tvashtar duly shape the forms, Prajapati infuse the stream, and Dhatar lay for thee the germ.

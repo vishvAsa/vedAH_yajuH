@@ -2,5 +2,4 @@
 title = "०७ यस्येदं प्रदिशि"
 
 +++
-यस्ये॒दं प्र॒दिशि॒ यद् वि॒रोच॑ते॒ यज्जा॒तं ज॑नित॒व्यंऽ च॒ केव॑लम्।  
-स्तौम्य॒ग्निं ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥७॥
+I, suppliant, praise and ever call on Agni, sole Lord of all this world, of all that shineth, Of what exists and shall exist hereafter. May he deliver us from grief and trouble.

@@ -2,5 +2,4 @@
 title = "०३ अयं यो"
 
 +++
-अ॒यं यो अ॑भिशोचयि॒ष्णुर्विश्वा॑ रू॒पाणि॒ हरि॑ता कृ॒णोषि॑ ।  
-तस्मै॑ तेऽरु॒णाय॑ ब॒भ्रवे॒ नमः॑ कृणोमि॒ वन्या॑य त॒क्मने॑ ॥३॥
+Thou who, aglow with heat, makest all bodies green, to thee, red, brown, I bow, the Fever of the wood.

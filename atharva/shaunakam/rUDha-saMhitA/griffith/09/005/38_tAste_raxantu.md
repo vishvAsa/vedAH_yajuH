@@ -2,4 +2,4 @@
 title = "३८ तास्ते रक्षन्तु"
 
 +++
-तास्ते॑ रक्षन्तु॒ तव॒ तुभ्य॑मे॒तं ताभ्य॒ आज्यं॒ ह॒विरि॒दं जु॑होमि ॥३८॥
+May these preserve him for thee. Here I offer t o these the molten butter as oblation.

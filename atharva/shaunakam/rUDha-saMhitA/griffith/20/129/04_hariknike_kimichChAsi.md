@@ -2,4 +2,4 @@
 title = "०४ हरिक्निके किमिच्छासि"
 
 +++
-हरि॑क्नि॒के किमि॑च्छासि ॥४॥  
+One of them is Hariknika. Hariknika, what seekest thou? (with previous verse)

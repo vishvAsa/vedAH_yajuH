@@ -2,4 +2,4 @@
 title = "०५ इन्द्रं वृत्राय"
 
 +++
-इन्द्रं॑ वृ॒त्राय॒ हन्त॑वे पुरुहू॒तमुप॑ ब्रुवे । भरे॑षु॒ वाज॑सातये ॥५॥  
+For the foe's slaughter I address Indra whom many invocate, To win us booty in the wars.

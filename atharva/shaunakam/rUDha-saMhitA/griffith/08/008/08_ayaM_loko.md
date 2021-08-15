@@ -2,5 +2,4 @@
 title = "०८ अयं लोको"
 
 +++
-अ॒यं लो॒को जाल॑मासीच्छ॒क्रस्य॑ मह॒तो म॒हान्।  
-तेना॒हमि॑न्द्रजा॒लेना॒मूंस्तम॑सा॒भि द॑धामि॒ सर्वा॑न्॥८॥  
+This world so mighty was the net of Sakra, of the Mighty One: With this, the net of Indra, I envelop all those men with gloom.

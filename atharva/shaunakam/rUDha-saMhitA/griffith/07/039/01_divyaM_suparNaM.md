@@ -2,5 +2,4 @@
 title = "०१ दिव्यं सुपर्णं"
 
 +++
-दि॒व्यं सु॑प॒र्णं प॑य॒सं बृ॒हन्त॑म॒पां गर्भं॑ वृष॒भमोष॑धीनाम्।  
-अ॒भी॒प॒तो वृ॒ष्ट्या त॒र्पय॑न्त॒मा नो॑ गो॒ष्ठे र॑यि॒ष्ठां स्था॑पयाति ॥१॥
+May he establish in our home the master of riches, gladdening with rain in season, Mighty, strong-winged, celestial, dropping moisture, Bull of the plants and embryo of waters.

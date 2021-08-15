@@ -2,5 +2,4 @@
 title = "४९ ब्रह्मणाग्नी वावृधानौ"
 
 +++
-ब्रह्म॑णा॒ग्नी वा॑वृधा॒नौ ब्रह्म॑वृद्धौ॒ ब्रह्मा॑हुतौ ।  
-ब्रह्मे॑द्धाव॒ग्नी ई॑जाते॒ रोहि॑तस्य स्व॒र्विदः॑ ॥४९॥  
+Both Agins-Rohita's who found the light of heaven--made strong by prayer, Waxing by prayer, adored with prayer, by prayer enkindled, sacrificed.

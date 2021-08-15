@@ -2,5 +2,4 @@
 title = "०१ उच्छ्रयस्व बहुर्भव"
 
 +++
-उच्छ्र॑यस्व ब॒हुर्भ॑व॒ स्वेन॒ मह॑सा यव ।  
-मृ॒णी॒हि विश्वा॒ पात्रा॑णि॒ मा त्वा॑ दि॒व्याशनि॑र्वधीत्॥१॥  
+Spring high, O Barley, and become much through thine own magnificence: Burst all the vessels; let the bolt from heaven forbear to strike thee down.

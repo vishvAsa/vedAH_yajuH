@@ -2,6 +2,4 @@
 title = "०९ यमबध्नाद् बृहस्पतिर्मणिं"
 
 +++
-यमब॑ध्ना॒द् बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से ।  
-तं सूर्यः॒ प्रत्य॑मुञ्चत॒ तेने॒मा अ॑जय॒द् दिशः॑ ।  
-सो अ॑स्मै॒ भूति॒मिद् दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥९॥  
+The Charm Brihaspati, etc. This Surya put on him, with this conquered the regions of the sky. This yieldeth him ability, again, etc.

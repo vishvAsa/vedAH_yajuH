@@ -2,5 +2,4 @@
 title = "०५ ऊरुभ्यां ते"
 
 +++
-ऊ॒रुभ्यां॑ ते अष्ठी॒वद्भ्यां॒ पार्ष्णिभ्यां॒ प्रप॑दाभ्याम्।  
-यक्ष्मं॑ भस॒द्यं॑१ श्रोणि॑भ्यां॒ भास॑दं॒ भंस॑सो॒ वि वृ॑हामि ते ॥५॥  
+Forth from thy thighs and from thy knees, heels and the fore- parts of thy feet. Forth from thy loins and hips I draw Consumption setted in thy loins.

@@ -2,5 +2,4 @@
 title = "३६ उच्चा पतन्तमरुणं"
 
 +++
-उ॒च्चा पत॑न्तमरु॒णं सु॑प॒र्णं मध्ये॑ दि॒वस्त॒रणिं॒ भ्राज॑मानम्।  
-पश्या॑म त्वा सवि॒तारं॒ यमा॒हुरज॑स्रं॒ ज्योति॒र्यदवि॑न्द॒दत्त्रिः॑ ॥३६॥  
+High in the midst of heaven may we behold thee whom men call Savitar, the bright red Eagle, Soaring and speeding on thy way, refulgent, unwasting light which Atri erst discovered.

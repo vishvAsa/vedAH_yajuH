@@ -2,7 +2,4 @@
 title = "०८ यत्र नावप्रभ्रंशनं"
 
 +++
-यत्र॒ नाव॑प्र॒भ्रंश॑नं॒ यत्र॑ हि॒मव॑तः॒ शिरः॑ ।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत ।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥८॥  
+Where is the Sinking of the Ship, the summit of the Hill of Snow, There is embodiment of life that dies not: thence was Kustha born. Healer of every malady, that Kushtha stands by Soma's side. Banish thou all Consumption, drive all sorceresses far away.

@@ -2,5 +2,4 @@
 title = "०३ यदीदं मातुर्यदि"
 
 +++
-यदी॒दं मा॒तुर्यदि॑ पि॒तुर्नः॒ परि॒ भ्रातुः॑ पु॒त्राच्चेत॑स॒ एन॒ आग॑न्।  
-याव॑न्तो अ॒स्मान् पि॒तरः॒ सच॑न्ते॒ तेषां॒ सर्वे॑षां शि॒वो अ॑स्तु म॒न्युः ॥३॥
+Whether this sin into our heart hath entered regarding mother, father, son or brother, Auspicious be to us the zeal and spirit of all the fathers who are here among us.

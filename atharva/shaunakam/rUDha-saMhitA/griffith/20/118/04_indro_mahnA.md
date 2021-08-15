@@ -2,5 +2,4 @@
 title = "०४ इन्द्रो मह्ना"
 
 +++
-इन्द्रो॑ म॒ह्ना रोद॑सी पप्रथ॒च्छव॒ इन्द्रः॒ सूर्य॑मरोचयत्।  
-इन्द्रे॑ ह॒ विश्वा॒ भुव॑नानि येमिर॒ इन्द्रे॑ सुवा॒नास॒ इन्द॑वः ॥४॥
+With might hath Indra spread out heaven and earth, with power hath Indra lighted up the Sun. In Indra are all creatures closely held; in him meet the distilling Soma drops.

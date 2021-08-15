@@ -2,4 +2,4 @@
 title = "०२ आ त्वा"
 
 +++
-आ त्वा॑ ब्रह्म॒युजा॒ हरी॒ वह॑तामिन्द्र के॒शिना॑ । उप॒ ब्रह्मा॑णि नः शृणु ॥२॥  
+O Indra, let thy long-maned Bays, yoked by prayer, bring thee hitherward. Give ear and listen to our prayers.

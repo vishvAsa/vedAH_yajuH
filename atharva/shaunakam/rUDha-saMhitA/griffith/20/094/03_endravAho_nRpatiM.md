@@ -2,5 +2,4 @@
 title = "०३ एन्द्रवाहो नृपतिं"
 
 +++
-एन्द्र॒वाहो॑ नृ॒पतिं॒ वज्र॑बाहुमु॒ग्रमु॒ग्रास॑स्तवि॒षास॑ एनम्।  
-प्रत्व॑क्षसं वृष॒भं स॒त्यशु॑ष्म॒मेम॑स्म॒त्रा स॑ध॒मादो॑ वहन्तु ॥३॥  
+Let strong and mighty steeds who bear this mighty Indra, the Lord of men, whose arm wields thunder, Bring unto us, as shares of our banquet, the Bull of conquering might, of real vigour.

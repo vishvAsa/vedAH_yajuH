@@ -2,5 +2,4 @@
 title = "०४ आदिनवं प्रतिदीव्ने"
 
 +++
-आ॒दि॒न॒वं प्र॑ति॒दीव्ने॑ घृ॒तेना॒स्माँ अ॒भि क्ष॑र ।  
-वृ॒क्षमि॑वा॒शन्या॑ जहि॒ यो अ॒स्मान् प्र॑ति॒दीव्य॑ति ॥४॥  
+Evil be mine opponent's luck! Sprinkle thou butter over us. Strike, as a tree with lightning flash, mine adversary in the game.

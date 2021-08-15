@@ -2,5 +2,4 @@
 title = "१५ बतो बतासि"
 
 +++
-ब॒तो ब॑तासि यम॒ नैव ते॒ मनो॒ हृद॑यं चाविदामा।
-अ॒न्या किल॒ त्वां क॒क्ष्येऽव यु॒क्तं परि॑ ष्वजातै॒ लिबु॑जेव वृ॒क्षम्॥१५॥
+Alas; thou art indeed a weakling Yama. We find in thee no trace o f heart or spirit. As round a tree the woodbine clings, another will cling about thee girt as with a girdle.

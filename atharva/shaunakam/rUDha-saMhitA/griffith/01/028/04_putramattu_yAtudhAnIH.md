@@ -2,5 +2,4 @@
 title = "०४ पुत्रमत्तु यातुधानीः"
 
 +++
-पु॒त्रम॑त्तु यातुधा॒नीः स्वसा॑रमु॒त न॒प्त्यऽम्।  
-अधा॑ मि॒थो वि॑के॒श्यो॒३वि घ्न॑तां यातुधा॒न्यो॒३वि तृ॑ह्यन्तामरा॒य्यः ॥४॥
+Let her, the Yatudhani eat son, sister, and her daughter's. child. Now let the twain by turns destroy the wild-haired Yatudhanis- and crush down Arayis to the earth!

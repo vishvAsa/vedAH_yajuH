@@ -2,5 +2,4 @@
 title = "०२ असंबाधं बध्यतो"
 
 +++
-अ॒सं॒बा॒धं ब॑ध्य॒तो मा॑न॒वानां॒ यस्या॑ उ॒द्वतः॑ प्र॒वतः॑ स॒मं ब॒हु।  
-नाना॑वीर्या॒ ओष॑धी॒र्या बिभ॑र्ति पृथि॒वी नः॑ प्रथतां॒ राध्य॑तां नः ॥२॥  
+Not over awded by the crowd of Manu's sons, she who hath many heights and floods and level plains; She who bears plants endowed with many varied powers, may Prithivi for us spread wide and favour us.

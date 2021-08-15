@@ -2,5 +2,4 @@
 title = "०२ अर्वाङेहि सोमकामं"
 
 +++
-अ॒र्वाङेहि॒ सोम॑कामं त्वाहुर॒यं सु॒तस्तस्य॑ पिबा॒ मदा॑य ।  
-उ॒रु॒व्यचा॑ ज॒ठर॒ आ वृ॑षस्व पि॒तेव॑ नः शृणुहि हू॒यमा॑नः ॥२॥  
+Come to us; they have called thee Soma-lover. Here is the pressed juice: drink thereof for rapture. Widely-capacious, pour it down within thee, and invocated hear us like a father.

@@ -2,5 +2,4 @@
 title = "०७ अदन्ति त्वा"
 
 +++
-अ॒दन्ति॑ त्वा पि॒पीलि॑का॒ वि वृ॑श्चन्ति मयू॒र्यः ।  
-सर्वे॑ भल ब्रवाथ॒ शार्को॑टमर॒सं वि॒षम्॥७॥  
+The emmets make a meal of thee and peahens tear and mangle thee: All ye are crying out, In sooth the scorpion's poison hath no strength.

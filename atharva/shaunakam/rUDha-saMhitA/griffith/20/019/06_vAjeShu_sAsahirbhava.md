@@ -2,4 +2,4 @@
 title = "०६ वाजेषु सासहिर्भव"
 
 +++
-वाजे॑षु सास॒हिर्भ॑व॒ त्वामी॑महे शतक्रतो । इन्द्र॑ वृ॒त्राय॒ हन्त॑वे ॥६॥  
+In battles be victorious. We seek thee, Lord of Hundred Powers, O Indra, that the foe may fall.

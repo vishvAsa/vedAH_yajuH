@@ -2,4 +2,4 @@
 title = "०१ आ याहि"
 
 +++
-आ या॑हि सुषु॒मा हि त॒ इन्द्र॒ सोमं॒ पिबा॑ इ॒मम्। एदं ब॒र्हिः स॑दो॒ मम॑ ॥१॥  
+Come, we have pressed the juice for thee: O Indra, drink this Soma here. Seat thee on this my sacred grass.

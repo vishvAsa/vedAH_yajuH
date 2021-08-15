@@ -2,5 +2,4 @@
 title = "३५ यस्मिन् देवा"
 
 +++
-यस्मि॑न् दे॒वा वि॒दथे॑ मा॒दय॑न्ते वि॒वस्व॑तः सद॑ने धा॒रय॑न्ते ।
-सूर्ये॒ ज्योति॒रद॑धुर्मा॒स्य॑१क्तून् परि॑ द्योत॒निं च॑रतो॒ अज॑स्रा ॥३५॥
+They in the synod where the Gods rejoice them, where they are seated in Vivasvan's dwelling, Have given the Moon his beams, the Sun his splendour: the two unweariedly maintain their brightness.

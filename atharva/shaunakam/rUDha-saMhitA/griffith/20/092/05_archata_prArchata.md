@@ -2,4 +2,4 @@
 title = "०५ अर्चत प्रार्चत"
 
 +++
-अर्च॑त॒ प्रार्च॑त॒ प्रिय॑मेधासो॒ अर्च॑त । अर्च॑न्तु पुत्र॒का उ॒त पुरं॒ न धृ॒ष्ण्वऽर्चत ॥५॥  
+Sing, sing ye forth your songs of praise, ye Priyamedhas, sing your songs: Yea, let young children sing their lauds: as a strong castle praise ye him.

@@ -2,4 +2,4 @@
 title = "०२ तं प्रजापतिश्च"
 
 +++
-तं प्र॒जाप॑तिश्च परमे॒ष्ठी च॑ पि॒ता च॑ पिताम॒हश्चाप॑श्च श्र॒द्धा च॑ व॒र्षं भू॒त्वानु॒व्यऽवर्तयन्त ॥२॥  
+Prajapati and Parameshthin and the Father and the Great Father and the Waters and Faith, turned into rain, followed him.

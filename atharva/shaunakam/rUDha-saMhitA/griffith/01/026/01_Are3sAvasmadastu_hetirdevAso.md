@@ -2,4 +2,4 @@
 title = "०१ आरे३सावस्मदस्तु हेतिर्देवासो"
 
 +++
-आ॒रे॒३साव॒स्मद॑स्तु हे॒तिर्दे॑वासो असत्। आ॒रे अश्मा॒ यमस्य॑थ ॥१॥  
+Let that Destructive Weapon be far distant from us, O ye Gods; far be the Stone ye wont to hurl.

@@ -2,5 +2,4 @@
 title = "०३ सोमस्यांशो युधां"
 
 +++
-सोम॑स्यांशो युधां प॒तेऽनू॑नो॒ नाम॒ वा अ॑सि ।  
-अनू॑नं दर्श मा कृधि प्र॒जया॑ च॒ धने॑न च ॥३॥  
+O spray of Soma, Lord of Wars! all-perfect verily art thou. Make me all-perfect, Beauteous One! in riches and in progeny.

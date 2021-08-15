@@ -2,4 +2,4 @@
 title = "०६ अपस्त ओषधीमतीरृछन्तु"
 
 +++
-अ॒पस्त ओष॑धीमतीरृछन्तु । ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त्॥६॥  
+Let those who vex me from this quarter, sinners give praise to plants' associates the Waters.

@@ -2,5 +2,4 @@
 title = "२४ यद्येयथ द्विपदी"
 
 +++
-यद्ये॒यथ॑ द्वि॒पदी॒ चतु॑ष्पदी कृत्या॒कृता॒ संभृ॑ता वि॒श्वरू॑पा ।  
-सेतो॒ष्टाप॑दी भू॒त्वा पुनः॒ परे॑हि दुच्छुने ॥२४॥  
+If thou hast come two-footed or four-footed, made by the sorcerer, wrought in perfect beauty, Become eight-footed and go hence. Speed back again, thou evil one.

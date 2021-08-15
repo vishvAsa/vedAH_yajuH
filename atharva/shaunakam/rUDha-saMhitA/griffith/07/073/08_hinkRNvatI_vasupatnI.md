@@ -2,5 +2,4 @@
 title = "०८ हिङ्कृण्वती वसुपत्नी"
 
 +++
-हि॒ङ्कृ॒ण्व॒ती व॑सु॒पत्नी॒ वसू॑नां व॒त्समि॒च्छन्ती॒ मन॑सा॒ न्याग॑न्।  
-दु॒हाम॒श्विभ्यां॒ पयो॑ अ॒घ्न्येयं सा व॑र्धतां मह॒ते सौभ॑गाय ॥८॥  
+She, sovran of all treasures, is come hither yearning in spirit for her calf, and lowing. May this cow yield her milk for both the Asvins, and may she prosper to our great advantage.

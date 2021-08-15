@@ -2,5 +2,4 @@
 title = "२० विसल्पस्य विद्रधस्य"
 
 +++
-वि॒स॒ल्पस्य॑ विद्र॒धस्य॑ वातीका॒रस्य॑ वाल॒जेः ।  
-यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत्॥२०॥  
+Of piercing pain, of abscesses, rheumatic ache, ophthalmia-- I have evoked the poison-taint of all Consumptions out of thee.

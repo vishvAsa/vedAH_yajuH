@@ -2,5 +2,4 @@
 title = "०२ यो रक्षांसि"
 
 +++
-यो रक्षां॑सि नि॒जूर्व॑त्य॒ग्निस्ति॒ग्मेन॑ शो॒चिषा॑ ।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥२॥  
+That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bear us past our foes.

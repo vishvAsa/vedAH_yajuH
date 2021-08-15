@@ -2,6 +2,4 @@
 title = "०१ यथा मांसं"
 
 +++
-यथा॑ मां॒सं॑ यथा॒ सुरा॒ यथा॒क्षा अ॑धि॒देव॑ने ।  
-यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑ ।  
-ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥१॥  
+As wine associates with flesh, as dice attend the gaming-board, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upou thy calf.

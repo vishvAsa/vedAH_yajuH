@@ -2,5 +2,4 @@
 title = "०१ अमूर्या यन्ति"
 
 +++
-अ॒मूर्या यन्ति॑ यो॒षितो॑ हि॒रा लोहि॑तवाससः ।  
-अ॒भ्रात॑र इव जा॒मय॒स्तिष्ठ॑न्तु ह॒तव॑र्चसः ॥१॥  
+Those maidens there, the veins, who run their course in robes of ruddy hue, Must now stand quiet, reft of power, like sisters who are brotherless.

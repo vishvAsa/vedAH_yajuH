@@ -2,5 +2,4 @@
 title = "०७ अचिकित्वांस्चिकितुषश्चिदत्र कवीन्"
 
 +++
-अचि॑कित्वांस्चिकि॒तुष॑श्चि॒दत्र॑ क॒वीन् पृ॑च्छामि वि॒द्वनो॒ न वि॒द्वान्।  
-वि यस्त॒स्तम्भ षडि॒मा रजां॑स्य॒जस्य॑ रू॒पे किमपि॑ स्वि॒देक॑म्॥७॥  
+Here, ignorant, I ask the wise who know it, as one who knows not, for the sake of knowledge, What is That One, who in the Unborn's image hath stablished and fixed firm this world's six regions.

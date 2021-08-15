@@ -2,5 +2,4 @@
 title = "०३ यत् ते"
 
 +++
-यत् ते त॒नूष्वन॑ह्यन्त दे॒वा द्युरा॑जयो दे॒हिनः॑ ।  
-इन्द्रो॒ यच्चक्रे वर्म॒ तद॒स्मान् पा॑तु वि॒श्वतः॑ ॥३॥  
+That which the Gods bound on them when they battled for their royal sway. What Indra made his shield, may that protect us well on every side,

@@ -2,5 +2,4 @@
 title = "६० यो यज्ञस्य"
 
 +++
-यो य॒ज्ञस्य॑ प्र॒साध॑न॒स्तन्तु॑र्दे॒वेष्वात॑तः ।  
-तमाहु॑तमशीमहि ॥६०॥
+May we obtain, completely wrought, the thread spun out tc reach the Gods, That perfecteth our sacrifice.

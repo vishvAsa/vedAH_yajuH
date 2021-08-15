@@ -2,5 +2,4 @@
 title = "०१ अयं देवानामसुरो"
 
 +++
-अ॒यं दे॒वाना॒मसु॑रो॒ वि रा॑जति॒ वशा॒ हि स॒त्या वरु॑णस्य॒ राज्ञः॑ ।  
-तत॒स्परि॒ ब्रह्म॑णा॒ शाश॑दान उ॒ग्रस्य॑ म॒न्योरुदि॒मं न॑यामि ॥१॥  
+This Lord is the Gods' ruler; for the wishes of Varuna the King must be accomplished. Therefore, triumphant with the prayer I utter, I rescue this man from the Fierce One's anger.

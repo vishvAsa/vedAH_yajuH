@@ -2,5 +2,4 @@
 title = "०७ यदि कर्तं"
 
 +++
-यदि॑ क॒र्तं प॑ति॒त्वा सं॑श॒श्रे यदि॒ वाश्मा॒ प्रहृ॑तो ज॒घान॑ ।  
-ऋ॒भू रथ॑स्ये॒वाङ्गा॑नि॒ सं द॑ध॒त् परु॑षा॒ परुः॑ ॥७॥
+If he be torn and shattered, having fallen into a pit, or a cast stone have struck him, Let the skilled leech join limb with limb, as 'twere the portions of a car.

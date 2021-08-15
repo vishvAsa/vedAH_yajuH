@@ -2,5 +2,4 @@
 title = "०१ आयमगन्त्सविता क्षुरेणोष्णेन"
 
 +++
-आयम॑गन्त्सवि॒ता क्षु॒रेणो॒ष्णेन॑ वाय उद॒केनेहि॑ ।  
-आ॒दि॒त्या रु॒द्रा वस॑व उन्दन्तु॒ सचे॑तसः॒ सोम॑स्य॒ राज्ञो॑ वपत॒ प्रचे॑तसः ॥१॥  
+Savitar hath come hither with the razor: come thou, O Vayu, with the heated water. One-minded let Adityas, Rudras, Vasus moisten the hair: shave ye who know King Soma.

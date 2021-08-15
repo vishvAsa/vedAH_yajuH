@@ -2,4 +2,4 @@
 title = "५० यत् प्रतिशृणोति"
 
 +++
-यत् प्र॑तिशृ॒णोति॑ प्र॒त्याश्रा॑वयत्ये॒व तत् ।२। ५०॥  
+He (the door-keeper) pronounces the sacrificial formula in his answer to what he hears.

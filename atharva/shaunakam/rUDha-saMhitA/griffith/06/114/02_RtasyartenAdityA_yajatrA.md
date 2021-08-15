@@ -2,5 +2,4 @@
 title = "०२ ऋतस्यर्तेनादित्या यजत्रा"
 
 +++
-ऋ॒तस्य॒र्ते॑ना॑दित्या॒ यज॑त्रा मु॒ञ्चते॒ह नः॑ ।  
-य॒ज्ञं यद् य॑ज्ञवाहसः॒ शिक्ष॑न्तो॒ नोप॑शेकि॒म॥२॥  
+Here set us free, O holy ones, Adityas, by the right of Law. When striving, bringing sacrifice, we failed to offer it aright.

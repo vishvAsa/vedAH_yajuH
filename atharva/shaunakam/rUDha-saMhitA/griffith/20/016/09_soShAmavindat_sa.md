@@ -2,5 +2,4 @@
 title = "०९ सोषामविन्दत् स"
 
 +++
-सोषाम॑विन्द॒त् स स्वः॑१ सो अ॒ग्निं सो अ॒र्केण॒ वि ब॑बाधे॒ तमां॑सि ।  
-बृह॒स्पति॒र्गोव॑पुषो व॒लस्य॒ निर्म॒ज्जानं॒ न पर्व॑णो जभार ॥९॥  
+He found the light of heaven, and fire, and Morning: with lucid rays he forced apart the darkness. As from a joint, Brihaspati took the marrow of Vala as he gloried in his cattle.

@@ -2,4 +2,4 @@
 title = "०२ अग्निमग्निं हवीमभिः"
 
 +++
-अ॒ग्निम॑ग्निं॒ हवी॑मभिः॒ सदा॑ हवन्त वि॒श्पति॑म्। ह॒व्य॒वाहं॑ पुरुप्रि॒यम्॥२॥  
+With calls they ever invocate Agni, Agni, Lord of the House, Oblation-bearer, much-beloved.

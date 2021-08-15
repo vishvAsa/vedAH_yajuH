@@ -2,5 +2,4 @@
 title = "०४ अर्वावतो न"
 
 +++
-अ॒र्वा॒वतो॑ न॒ आ ग॒ह्यथो॑ शक्र परा॒वतः॑ ।  
-उ॒ लो॒को यस्ते॑ अद्रिव॒ इन्द्रे॒ह तत॒ आ ग॑हि ॥४॥  
+Come to us either from anear, or, Sakra, come from far away. Indra, wherever be thy home, come to us thence, O Thunder- armed.

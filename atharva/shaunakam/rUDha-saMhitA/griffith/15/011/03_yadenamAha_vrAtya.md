@@ -2,4 +2,4 @@
 title = "०३ यदेनमाह व्रात्य"
 
 +++
-यदे॑न॒माह॒ व्रात्य॒ क्वाऽवात्सी॒रिति॑ प॒थ ए॒व तेन॑ देव॒याना॒नव॑ रुन्द्धे ॥३॥  
+When he says to his guest, Where didst thou pass the night? he reserves for himself thereby the paths that lead to the Gods.

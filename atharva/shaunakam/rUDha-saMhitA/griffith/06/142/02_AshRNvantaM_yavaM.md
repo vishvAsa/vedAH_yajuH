@@ -2,5 +2,4 @@
 title = "०२ आशृण्वन्तं यवं"
 
 +++
-आ॒शृ॒ण्वन्तं॒ यवं॑ दे॒वं यत्र॑ त्वाच्छा॒वदा॑मसि ।  
-तदुच्छ्र॑यस्व॒ द्यौरि॑व समु॒द्र इ॑वै॒ध्यक्षि॑तः ॥२॥  
+As we invite and call to thee, Barley, a God who heareth us, Raise thyself up like heaven on high and be exhaustless as the sea.

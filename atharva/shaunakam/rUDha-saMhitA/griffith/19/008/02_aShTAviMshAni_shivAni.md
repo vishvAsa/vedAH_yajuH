@@ -2,5 +2,4 @@
 title = "०२ अष्टाविंशानि शिवानि"
 
 +++
-अ॒ष्टा॒विं॒शानि॑ शि॒वानि॑ श॒ग्मानि॑ स॒ह योगं॑ भजन्तु मे ।  
-योगं॒ प्र प॑द्ये॒ क्षेमं॑ च॒ क्षेमं॒ प्र प॑द्ये॒ योगं॑ च॒ नमो॑ऽहोरा॒त्राभ्या॑मस्तु ॥२॥  
+Propitious, mighty, let the eight-and-twenty together deal me out my share of profit. Profit and wealth be mine, and wealth and profit! To Day and Night be adoration rendered!

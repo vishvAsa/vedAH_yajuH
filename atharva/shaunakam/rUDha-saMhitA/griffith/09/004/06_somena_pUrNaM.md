@@ -2,5 +2,4 @@
 title = "०६ सोमेन पूर्णं"
 
 +++
-सोमे॑न पू॒र्णं क॒लशं॑ बिभर्षि॒ त्वष्टा॑ रु॒पाणां॑ जनि॒ता प॑शू॒नाम्।  
-शि॒वास्ते॑ सन्तु प्रज॒न्वऽ इ॒ह या इ॒मा न्य॑स्मभ्यं॑ स्वधिते यच्छ॒ या अ॒मूः ॥६॥  
+A beaker filled with Soma juice thou bearest. framer of forms, begetter of the cattle. Kindly to us be these thy wombs here present, and stay for us, O Axe, those that are yonder.

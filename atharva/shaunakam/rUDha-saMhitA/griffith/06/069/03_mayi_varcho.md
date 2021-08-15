@@ -2,5 +2,4 @@
 title = "०३ मयि वर्चो"
 
 +++
-मयि॒ वर्चो॒ अथो॒ यशोऽथो॑ य॒ज्ञस्य॒ यत् पयः॑ ।  
-तन्मयि॑ प्र॒जाप॑तिर्दि॒वि द्यामि॑व दृंहतु ॥३॥
+In me be strength, in me be fame, in me the power of sacrifice: Prajapati establish this in me as firm as light in heaven!

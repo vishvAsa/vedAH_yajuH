@@ -2,5 +2,4 @@
 title = "२५ बृहन्तो नाम"
 
 +++
-बृ॒हन्तो॒ नाम॒ ते दे॒वा येऽस॑तः॒ परि॑ जज्ञि॒रे।  
-एकं॒ तदङ्गं॑ स्क॒म्भस्यास॑दाहुः प॒रो जनाः॑ ॥२५॥  
+Great, verily, are those Gods who sprang from non-existence into life. Further, men say that that one part of Skambha is nonentity.

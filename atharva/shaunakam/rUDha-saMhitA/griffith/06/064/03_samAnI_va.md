@@ -2,5 +2,4 @@
 title = "०३ समानी व"
 
 +++
-स॒मा॒नी व॒ आकू॑तिः समा॒ना हृद॑यानि वः ।  
-स॒मा॒नम॑स्तु वो॒ मनो॒ यथा॑ वः॒ सुस॒हास॑ति ॥३॥
+One and the same be your resolve, be all your hearts in har- mony: One and the same be all your minds that all may happily con- sent.

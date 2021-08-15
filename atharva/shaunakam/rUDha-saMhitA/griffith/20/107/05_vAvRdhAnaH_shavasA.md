@@ -2,5 +2,4 @@
 title = "०५ वावृधानः शवसा"
 
 +++
-वा॒वृ॒धा॒नः शव॑सा॒ भूर्यो॑जाः॒ शत्रु॑र्दा॒साय॑ भि॒यसं॑ दधाति ।  
-अव्य॑नच्च व्य॒नच्च॒ सस्नि॒ सं ते॑ नवन्त॒ प्रभृ॑ता॒ मदे॑षु ॥५॥  
+Grown mighty in his strength, with ample vigour, he as a foe strikes fear into the Dasa, Eager to win the breathing and the breathless. All sang thy praise at banquet and oblation.

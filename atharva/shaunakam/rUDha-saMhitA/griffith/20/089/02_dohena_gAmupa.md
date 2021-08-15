@@ -2,5 +2,4 @@
 title = "०२ दोहेन गामुप"
 
 +++
-दोहे॑न॒ गामुप॑ शिक्षा॒ सखा॑यं॒ प्र बो॑धय जरितर्जा॒रमिन्द्र॑म्।  
-कोशं॒ न पू॒र्णं वसु॑ना॒ न्यृ॑ष्ट॒मा च्या॑वय मघ॒देया॑य॒ शूर॑म्॥२॥  
+Draw thy Friend to thee like a cow at milking: O singer, wake up Indra as a lover. Make thou the Hero haste to give us riches even as a vessel filled brimful with treasure.

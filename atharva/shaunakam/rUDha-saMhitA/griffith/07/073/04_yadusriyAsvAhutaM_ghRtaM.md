@@ -2,5 +2,4 @@
 title = "०४ यदुस्रियास्वाहुतं घृतं"
 
 +++
-यदु॒स्रिया॒स्वाहु॑तं घृ॒तं पयो॒ऽयं स वा॑मश्विना भा॒ग आ ग॑तम्।  
-माध्वी॑ धर्तारा विदथस्य सत्पती त॒प्तं घ॒र्मं पि॑बतं रोच॒ने दि॒वः ॥४॥  
+Milk, molten butter offered when the mornings break,--this is your portion, Asvins! Come ye hitherward. Lords of the brave, balm-lovers, guards of sacrifice, drink ye the warm libation in the light of heaven.

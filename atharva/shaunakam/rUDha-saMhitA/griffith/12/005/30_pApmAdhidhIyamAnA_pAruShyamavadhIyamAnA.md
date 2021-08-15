@@ -2,4 +2,4 @@
 title = "३० पाप्माधिधीयमाना पारुष्यमवधीयमाना"
 
 +++
-पा॒प्माधि॑धी॒यमा॑ना॒ पारु॑ष्यमवधी॒यमाना ॥३०॥  
+Misery while being additionally acquired, contumely and abuse while being put in the stall;

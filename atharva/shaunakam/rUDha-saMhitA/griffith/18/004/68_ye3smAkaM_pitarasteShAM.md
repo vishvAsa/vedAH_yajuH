@@ -2,4 +2,4 @@
 title = "६८ ये३स्माकं पितरस्तेषां"
 
 +++
-ये॒३स्माकं॑ पि॒तर॒स्तेषां॑ ब॒र्हिर॑सि ॥६८॥  
+Thou art the grass whereon our Fathers seat them.

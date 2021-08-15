@@ -2,5 +2,4 @@
 title = "०९ आदित्या रुद्रा"
 
 +++
-आदि॑त्या रु॒द्रा वस॑व॒स्त्वेनु॑ त इ॒दं राधः॒ प्रति॑ गृभ्णीह्यङ्गिरः ।  
-इ॒दं राधो॑ वि॒भु प्रभु॑ इ॒दं राधो॑ बृ॒हत्पृथु॑ ॥९॥  
+Adityas, Rudras, Vasus, all pay worship unto thee. Accept this liberal gift, O Angiras, This bounty excellent and rich, this ample bounty spreading far.

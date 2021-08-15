@@ -2,5 +2,4 @@
 title = "०२ पिप्पल्यः१ समवदन्तायतीर्जननादधि"
 
 +++
-पि॒प्प॒ल्यः॑१ सम॑वदन्ताय॒तीर्जन॑ना॒दधि॑ ।  
-यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥२॥  
+When from their origin they came, the Berries spake among themselves: The man whom we shall find alive shall never suffer injury.

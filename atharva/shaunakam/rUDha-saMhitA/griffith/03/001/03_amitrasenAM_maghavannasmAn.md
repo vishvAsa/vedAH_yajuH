@@ -2,5 +2,4 @@
 title = "०३ अमित्रसेनां मघवन्नस्मान्"
 
 +++
-अ॒मि॒त्र॒से॒नां॑ मघवन्न॒स्मान् छ॑त्रूय॒तीम॒भि।  
-यु॒वं तानि॑न्द्र वृत्रहन्न॒ग्निश्च॑ दहतं॒ प्रति॑ ॥३॥  
+O Maghavan, O Indra, thou who slayest fiends, and, Agni, thou, Burn, both of you, against these men, the foeman's host that threatens us.

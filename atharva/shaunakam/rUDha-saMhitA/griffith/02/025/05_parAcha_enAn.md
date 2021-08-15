@@ -2,5 +2,4 @@
 title = "०५ पराच एनान्"
 
 +++
-परा॑च एना॒न् प्र णु॑द॒ कण्वा॑न् जीवित॒योप॑नान्।  
-तमां॑सि॒ यत्र॒ गच्छ॑न्ति॒ तत् क्र॒व्यादो॑ अजीगमम्॥५॥
+Drive and imprison in a hill these Kanvas harassers of life: Follow them Prisniparni, thou Goddess, like fire consuming. them.

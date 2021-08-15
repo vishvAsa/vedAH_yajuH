@@ -2,5 +2,4 @@
 title = "३८ मुहुर्गृध्यैः प्र"
 
 +++
-मुहु॒र्गृध्यैः॒ प्र व॑द॒त्यार्तिं मर्त्यो॒ नीत्य॑ ।  
-क्र॒व्याद् यान॒ग्निर॑न्ति॒काद॑नुवि॒द्वान् वि॒ताव॑ति ॥३८॥  
+Oft as a greedy beggar speaks the mortal who has brought distress, Those whom Carnivorous Agni close at hand runs after and detects.

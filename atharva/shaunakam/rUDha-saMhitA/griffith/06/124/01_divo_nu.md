@@ -2,5 +2,4 @@
 title = "०१ दिवो नु"
 
 +++
-दि॒वो नु मां बृ॑ह॒तो अ॒न्तरि॑क्षाद॒पां स्तो॒को अ॒भ्यऽपप्तद् रसे॑न ।  
-समि॑न्द्रि॒येण॒ पय॑सा॒हम॑ग्ने॒ छन्दो॑भिर्य॒ज्ञैः सु॒कृतां॑ कृ॒तेन॑ ॥१॥  
+From the high firmament, yea, out of heaven a water-drop with dew on me hath fallen. I, Agni! share the merit of the pious, with vigour, milk, and hymns and sacrifices.

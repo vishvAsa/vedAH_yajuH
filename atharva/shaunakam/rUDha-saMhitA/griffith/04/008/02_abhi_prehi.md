@@ -2,5 +2,4 @@
 title = "०२ अभि प्रेहि"
 
 +++
-अ॒भि प्रेहि॒ माप॑ वेन उ॒ग्रश्चे॒त्ता स॑पत्न॒हा।  
-आ ति॑ष्ठ मित्रवर्धन॒ तुभ्यं॑ दे॒वा अधि॑ ब्रुवन्॥२॥  
+Come forward, turn not back in scorn, strong guardian, slayer of the foes. Approach, O gladdener of thy friends. The Gods have blessed and strengthened thee.

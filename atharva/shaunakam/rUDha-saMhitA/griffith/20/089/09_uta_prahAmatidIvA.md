@@ -2,5 +2,4 @@
 title = "०९ उत प्रहामतिदीवा"
 
 +++
-उ॒त प्र॒हामति॑दीवा जयति कृ॒तमि॑व श्व॒घ्नी वि चि॑नोति काले।  
-यो दे॒वका॑मो॒ न धनं॑ रु॒णद्धि॒ समित् तं रा॒यः सृ॑जति स्व॒धाभिः॑ ॥९॥  
+Yea, by superior play he wins advantage when he, a gambler, piles his gains in season. Celestial-natured, he o'erwhelms with riches the devotee who keeps not back his money.

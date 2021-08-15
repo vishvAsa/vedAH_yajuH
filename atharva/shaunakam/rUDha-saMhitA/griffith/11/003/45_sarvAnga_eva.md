@@ -2,4 +2,4 @@
 title = "४५ सर्वाङ्ग एव"
 
 +++
-सर्वा॑ङ्ग ए॒व सर्व॑परुः॒ सर्व॑तनूः॒ सं भ॑वति॒ य ए॒वं वेद॑ ॥७॥ ३३॥  
+And thence, etc. . . . with other knees . . . Thou wilt become a sick man . . . With the knees of Tvashtar. 

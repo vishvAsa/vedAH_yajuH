@@ -2,5 +2,4 @@
 title = "०५ आप इद्"
 
 +++
-आप॒ इद् वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः ।  
-आपो॒ विश्व॑स्य भेष॒जीस्तास्त्वा॑ मुञ्चन्तु क्षेत्रि॒यात्॥५॥  
+Water, indeed, hath power to heal, Water drives malady away. May water--for it healeth all--free thee from permanent disease.

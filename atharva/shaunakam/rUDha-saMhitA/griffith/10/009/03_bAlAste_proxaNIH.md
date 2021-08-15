@@ -2,5 +2,4 @@
 title = "०३ बालास्ते प्रोक्षणीः"
 
 +++
-बाला॑स्ते॒ प्रोक्ष॑णीः सन्तु जी॒ह्वा सं मा॑र्ष्ट्वघ्न्ये ।  
-शु॒द्धा त्वं य॒ज्ञिया॑ भू॒त्वा दिवं॒ प्रेहि॑ शतौदने ॥३॥  
+The holy water be thy hair: let thy tongue make thee clean, O Cow. Go, Hundredfold Oblation, made bright and adorable, to hea- ven.

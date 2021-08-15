@@ -2,5 +2,4 @@
 title = "१० गोसनिं वाचमुदेयं"
 
 +++
-गो॒सनिं॒ वाच॑मुदेयं॒ वर्च॑सा मा॒भ्युदि॑हि ।  
-आ रु॑न्धां स॒र्वतो॑ वा॒युस्त्वष्टा॒ पोषं॑ दधातु मे ॥१०॥
+May speech that winneth cows be mine. With splendour mount thou over me. May Vayu hedge me round about May Pushan make me pros- perous.

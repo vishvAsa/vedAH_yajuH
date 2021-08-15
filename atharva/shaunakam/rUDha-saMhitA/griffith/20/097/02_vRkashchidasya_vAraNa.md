@@ -2,5 +2,4 @@
 title = "०२ वृकश्चिदस्य वारण"
 
 +++
-वृक॑श्चिदस्य वार॒ण उ॑रा॒मथि॒रा व॒युने॑षु भूषति ।  
-सेमं नः॒ स्तोमं॑ जुजुषा॒ण आ ग॒हीन्द्र॒ प्र चि॒त्रया॑ धि॒या॥२॥  
+Even the wolf, the savage beast that rends the sheep, follows the path of his decrees. So, India, graciously accepting this our praise, with wondrous. thought come forth to us.

@@ -2,5 +2,4 @@
 title = "०७ तृष्णामारं क्षुधामारमथो"
 
 +++
-तृ॒ष्णा॒मा॒रं क्षु॑धामा॒रमथो॑ अक्षपराज॒यम्।  
-अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॒ मृज्महे ॥७॥  
+Death caused by thirst, death caused by stress of hunger, loss at play with dice, All this, O Apamarga with thine aid we cleanse and wipe away.

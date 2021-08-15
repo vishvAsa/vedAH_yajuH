@@ -2,4 +2,4 @@
 title = "०३ तासामेका हरिक्निका"
 
 +++
-तासा॒मेका॒ हरि॑क्निका ॥३॥  
+One of them is Hariknika. Hariknika, what seekest thou? (with next verse)

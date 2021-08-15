@@ -2,5 +2,4 @@
 title = "०२ शर्म यच्छत्वोषधिः"
 
 +++
-शर्म॑ यच्छ॒त्वोष॑धिः स॒ह दे॒वीर॑रुन्ध॒ती।  
-कर॒त् पय॑स्वन्तं गो॒ष्ठम॑य॒क्ष्मां उ॒त पूरु॑षान्॥२॥  
+Let the Plant give us sheltering aid, Arundhati allied with Gods; Avert Consumption from our men and make our cow-pen rich in milk.

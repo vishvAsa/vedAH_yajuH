@@ -2,5 +2,4 @@
 title = "५७ ये च"
 
 +++
-ये च॑ जी॒वा ये च॑ मृ॒ता ये जा॒ता ये च॑ य॒ज्ञियाः॑ ।  
-तेभ्यो॑ घृ॒तस्य॑ कु॒ल्यैऽतु॒ मधु॑धारा व्युन्द॒ती॥५७॥  
+To all, the living and the dead, all that are born, the worshipful. Let the full brook of fatness run, o'erflowing, with stream of mead.

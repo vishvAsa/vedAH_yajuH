@@ -2,5 +2,4 @@
 title = "६० इमं यम"
 
 +++
-इ॒मं य॑म प्रस्त॒रमा हि रोहाङ्गि॑रोभिः पि॒तृभिः॑ संविदा॒नः ।
-आ त्वा॒ मन्त्राः॑ कविश॒स्ता व॑हन्त्वे॒ना रा॑जन् ह॒विषो॑ मादयस्व ॥६०॥
+Come, seat thee on this bed of grass. O Yama, accordant with Angirases and Fathers. Let texts recited by the sages bring thee. O. King, let this oblation make thee joyful.

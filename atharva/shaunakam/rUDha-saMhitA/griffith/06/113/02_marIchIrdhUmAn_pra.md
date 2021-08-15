@@ -2,5 +2,4 @@
 title = "०२ मरीचीर्धूमान् प्र"
 
 +++
-मरी॑चीर्धू॒मान् प्र वि॒शानु॑ पाप्मन्नुदा॒रान् गच्छो॒त वा॑ नीहा॒रान्।  
-न॒दीनां॒ फेनाँ॒ अनु॒ तान् वि न॑श्य भ्रूण॒घ्नि पू॑षन् दुरि॒तानि॑ मृक्ष्व ॥२॥  
+Enter the particles of light and vapours, go to the rising fogs or mists, O Evil! Hence! vanish in the foams of rivers. Pushan, wipe woes away upon the babe-destroyer!

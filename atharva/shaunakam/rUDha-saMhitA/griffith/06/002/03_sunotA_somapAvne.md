@@ -2,5 +2,4 @@
 title = "०३ सुनोता सोमपाव्ने"
 
 +++
-सु॒नोता॑ सोम॒पाव्ने॑ सोम॒मिन्द्रा॑य व॒ज्रिणे॑ ।  
-युवा॒ जेतेशा॑नः॒ स पु॑रुष्टु॒तः ॥३॥
+For Indra, thunder-armed, who drinks the Soma press the Soma out: He, youthful, conqueror, and Lord is praised by all.

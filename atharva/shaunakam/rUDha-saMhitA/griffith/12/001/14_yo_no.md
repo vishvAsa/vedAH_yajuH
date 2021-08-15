@@ -2,5 +2,4 @@
 title = "१४ यो नो"
 
 +++
-यो नो॒ द्वेष॑त् पृथिवि॒ यः पृ॑त॒न्याद् योऽभि॒दासा॒न्मन॑सा॒ यो व॒धेन॑ ।  
-तं नो॑ भूमे रन्धय पूर्वकृत्वरि ॥१४॥  
+The man who hates us, Earth! who fights against us, who threaten us with thought or deadly weapon, make him our thrall as thou hast done aforetime.

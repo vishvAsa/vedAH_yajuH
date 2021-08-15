@@ -2,4 +2,4 @@
 title = "०७ ऐनं प्रियं"
 
 +++
-ऐनं॑ प्रि॒यं ग॑च्छति प्रि॒यः प्रि॒यस्य॑ भवति॒ य ए॒वं वेद॑ ॥७॥  
+That which is pleasant comes to him, and he is the beloved of the beloved, who is possessed of this knowledge.

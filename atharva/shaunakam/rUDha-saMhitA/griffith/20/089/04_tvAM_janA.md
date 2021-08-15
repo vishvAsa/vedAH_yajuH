@@ -2,5 +2,4 @@
 title = "०४ त्वां जना"
 
 +++
-त्वां जना॑ ममस॒त्येष्वि॑न्द्र संतस्था॒ना वि ह्व॑यन्ते समी॒के।  
-अत्रा॒ युजं॑ कृणुते॒ यो ह॒विष्मा॒न्नासु॑न्वता स॒ख्यं व॑ष्टि॒ शूरः॑ ॥४॥  
+Standing, in battle for their rights, together, the people, Indra, in the fray invoke thee. Him who brings gifts the Hero makes his comrade: with him who pours no juice he seeks not friendship.

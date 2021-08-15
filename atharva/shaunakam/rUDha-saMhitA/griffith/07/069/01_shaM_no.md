@@ -2,6 +2,4 @@
 title = "०१ शं नो"
 
 +++
-शं नो॒ वातो॑ वातु॒ शं न॑स्तपतु॒ सूर्यः॑ ।  
-अहा॑नि॒ शं भ॑वन्तु नः॒ शं रात्री॒ प्रति॑ धीयतां॒  
-शमु॒षा नो॒ व्युऽच्छतु ॥१॥
+May the wind kindly breathe on us, may the Sun warm us. pleasantly. May days pass happily for us, may night draw near delightfully, may dawn break joyfully for us!

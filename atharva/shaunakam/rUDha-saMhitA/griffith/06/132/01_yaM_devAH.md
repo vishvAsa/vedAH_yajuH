@@ -2,5 +2,4 @@
 title = "०१ यं देवाः"
 
 +++
-यं दे॒वाः स्म॒रमसि॑ञ्चन्न॒प्स्व१न्तः शोशु॑चानं स॒हाध्या।  
-तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥१॥  
+The Philter, burning with the pangs of yearning love, which Gods have poured within the bosom of the floods, That spell for thee I heat by Varuna's decree.

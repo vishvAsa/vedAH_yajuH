@@ -2,5 +2,4 @@
 title = "२१ सं क्रोशतामेनान्"
 
 +++
-सं क्रो॑शतामेना॒न् द्यावा॑पृथि॒वी सम॒न्तरि॑क्षं स॒ह दे॒वता॑भिः ।  
-मा ज्ञा॒तारं॒ मा प्र॑ति॒ष्ठां वि॑दन्त मि॒थो वि॑घ्ना॒ना उप॑ यन्तु मृ॒त्युम्॥२१॥  
+Let Heaven and Earth roar out in wrath against them, and Air with all the Deities in concert, Let them not find a surety or a refuge, but torn away go down to Death together.

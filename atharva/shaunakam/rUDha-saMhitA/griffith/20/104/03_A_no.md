@@ -2,5 +2,4 @@
 title = "०३ आ नो"
 
 +++
-आ नो॒ विश्वा॑सु॒ हव्य॒ इन्द्रः॑ स॒मत्सु॑ भूषतु ।  
-उप॒ ब्रह्मा॑णि॒ सव॑नानि वृत्र॒हा प॑रम॒ज्या ऋची॑षमः ॥३॥  
+May Indra, who in every fight must be invoked, be near to us. May the most mighty Vritra-slayer, meet for praise, come to libations and to hymns.

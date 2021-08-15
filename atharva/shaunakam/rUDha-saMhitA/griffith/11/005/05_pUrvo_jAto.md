@@ -2,5 +2,4 @@
 title = "०५ पूर्वो जातो"
 
 +++
-पूर्वो॑ जा॒तो ब्रह्म॑णो ब्रह्मचा॒री घ॒र्मं वसा॑न॒स्तप॒सोद॑तिष्ठत्।  
-तस्मा॑ज्जा॒तं ब्राह्म॑णं॒ ब्रह्म॑ ज्ये॒ष्ठं दे॒वाश्च॒ सर्वे॑ अ॒मृते॑न सा॒कम्॥५॥  
+The Brahmachari, earlier born than Brahma, sprang up through Fervour, robed in hot libation. From him sprang heavenly lore, the highest Brahma, and all the Gods, with life that lasts for ever.

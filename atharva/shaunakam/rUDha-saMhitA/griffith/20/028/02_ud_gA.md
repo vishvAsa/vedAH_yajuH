@@ -2,4 +2,4 @@
 title = "०२ उद् गा"
 
 +++
-उद् गा आ॑ज॒दङ्गि॑रोभ्य आ॒विष्कृ॒ण्वन् गुहा॑ स॒तीः । अ॒र्वाञ्चं॑ नुनुदे व॒लम्॥२॥  
+Showing the hidden he draye forth the cows for the Angirases, And Vala he cast headlong down.

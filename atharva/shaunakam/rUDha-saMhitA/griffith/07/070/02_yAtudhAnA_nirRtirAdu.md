@@ -2,5 +2,4 @@
 title = "०२ यातुधाना निरृतिरादु"
 
 +++
-या॒तु॒धाना॒ निरृ॑ति॒रादु॒ रक्ष॒स्ते अ॑स्य घ्न॒न्त्वनृ॑तेन स॒त्यम्।  
-इन्द्रे॑षिता दे॒वा आज्य॑मस्य मथ्नन्तु॒ मा तत् सं पा॑दि॒ यद॒सौ जु॒होति॑ ॥२॥  
+For him may sorcerers, Destruction, demons strike and prevent fulfilment through their falsehood. Let Gods, by Indra sent, destroy his butter, and let his sacrifice be ineffective.

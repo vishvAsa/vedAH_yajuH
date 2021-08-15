@@ -2,4 +2,4 @@
 title = "४४ विवाहां ज्ञातीन्त्सर्वानपि"
 
 +++
-वि॒वा॒हां ज्ञा॒तीन्त्सर्वा॒नपि॑ क्षापयति ब्रह्मग॒वी ब्र॑ह्म॒ज्यस्य॑ क्ष॒त्रिये॒णापु॑नर्दीयमाना ॥४४॥  
+The Brahman's cow, not restored by a Kshatriya, ruins the marriages and all the kinsmen of the Brahman's oppressor.

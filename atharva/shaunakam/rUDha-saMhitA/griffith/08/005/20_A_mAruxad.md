@@ -2,5 +2,4 @@
 title = "२० आ मारुक्षद्"
 
 +++
-आ मा॑रुक्षद् देवम॒णिर्म॒ह्या अ॑रि॒ष्टता॑तये ।  
-इ॒मं मे॒थिम॑भि॒संवि॑शध्वं तनू॒पानं॑ त्रि॒वरू॑थ॒मोज॑से ॥२०॥  
+Let the Gods' Charm be bound on me to keep me safe from every ill. Come ye and enter all within this pillar, the safe-guard of the body, thrice-defended.

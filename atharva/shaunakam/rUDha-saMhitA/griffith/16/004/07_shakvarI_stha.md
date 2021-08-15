@@ -2,4 +2,4 @@
 title = "०७ शक्वरी स्थ"
 
 +++
-शक्व॑री स्थ प॒शवो॑ मोप॑ स्थेषुर्मि॒त्रावरु॑णौ मे प्राणापा॒नाव॒ग्निर्मे॒ दक्षं॑ दधातु ॥७॥
+Mighty are ye, domestic creatures. May Mitra-Varuna stand beside me. May Agni give me inward and outward breath. May,he give me ability.

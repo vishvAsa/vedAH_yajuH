@@ -2,5 +2,4 @@
 title = "३९ ग्राह्या गृहाः"
 
 +++
-ग्राह्या॑ गृ॒हाः सं सृ॑ज्यन्ते स्त्रि॒या यन्म्रि॒यते॒ पतिः॑ ।  
-ब्र॒ह्मैव वि॒द्वाने॒ष्यो॒३ यः क्र॒व्यादं॑ निरा॒दध॑त्॥३९॥  
+When a dame's husband dies the house is tangled in Grahi's net. A learned Brahman must be sought to drive Carnivorous Agni, forth.

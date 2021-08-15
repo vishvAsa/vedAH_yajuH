@@ -2,5 +2,4 @@
 title = "३० अग्निर्मा गोप्ता"
 
 +++
-अ॒ग्निर्मा॑ गो॒प्ता परि॑ पातु वि॒श्वतः॑ उ॒द्यन्त्सूर्यो॑ नुदतां मृत्युपा॒शान्।  
-व्यु॒च्छन्ती॑रु॒षसः॒ पर्व॑ता ध्रु॒वाः स॒हस्रं॑ प्रा॒णा मय्या य॑तन्ताम्॥३०॥
+On every side let Agni guard and keep me; the rising Sun drive off the snares of Mrityu! Let brightly flushing Mornings, firm-set mountains, and lives a thousand be with me united.

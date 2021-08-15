@@ -2,5 +2,4 @@
 title = "१९ त्वं नो"
 
 +++
-त्वं नो॑ अग्ने अध॒रादु॑द॒क्तस्त्वं प॒श्चादु॒त र॑क्षा पु॒रस्ता॑त्।  
-प्रति॒ त्ये ते॑ अ॒जरा॑स॒स्तपि॑ष्ठा अ॒घशं॑सं॒ शोशु॑चतो दहन्तु ॥१९॥  
+Guard us, O Agni, from above and under, protect us from be- hind and from before us; And may thy flames, most fierce and never wasting, glowing with fervent heat, consume the sinner.

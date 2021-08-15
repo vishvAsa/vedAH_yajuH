@@ -2,4 +2,4 @@
 title = "४४ एष वा"
 
 +++
-ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः ॥६॥  
+And thence, etc. . . . with other thighs . . . Thy thigh will perish . . . With Mitra-Varuna as thighs. 

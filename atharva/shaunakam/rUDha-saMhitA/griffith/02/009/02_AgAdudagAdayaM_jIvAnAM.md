@@ -2,5 +2,4 @@
 title = "०२ आगादुदगादयं जीवानां"
 
 +++
-आगा॒दुद॑गाद॒यं जी॒वानां॒ व्रात॒मप्य॑गात्।  
-अभू॑दु पु॒त्राणां॑ पि॒ता नृ॒णां च॒ भग॑वत्तमः ॥२॥  
+He hath arisen and come once more, rejoined the band of those who live. May he become the sire of sons, and of all men most fortunate.

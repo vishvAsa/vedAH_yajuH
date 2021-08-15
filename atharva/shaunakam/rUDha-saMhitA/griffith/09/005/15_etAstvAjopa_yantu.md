@@ -2,5 +2,4 @@
 title = "१५ एतास्त्वाजोप यन्तु"
 
 +++
-ए॒तास्त्वा॒जोप॑ यन्तु॒ धाराः॑ सो॒म्या दे॒वीर्घृ॒तपृ॑ष्ठा मधु॒श्चुतः॑ ।  
-स्त॒भा॒न पृ॑थि॒वीमु॒त द्यां नाक॑स्य पृ॒ष्ठेऽधि॑ स॒प्तर॑श्मौ ॥१५॥  
+Near to thee, Goat! approach these streams of Soma, divine, distilling meath, bedecked with butter! Stay thou the earth and sky and fix them firmly up on the seven- rayed pitch and height of heaven.

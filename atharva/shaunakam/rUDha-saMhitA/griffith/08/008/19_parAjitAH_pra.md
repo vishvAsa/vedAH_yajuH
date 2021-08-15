@@ -2,5 +2,4 @@
 title = "१९ पराजिताः प्र"
 
 +++
-परा॑जिताः॒ प्र त्र॑सतामित्रा नु॒त्ता धा॑वत॒ ब्रह्म॑णा ।  
-बृह॒स्पति॑प्रनुत्तानां॒ मामीषां॑ मोचि कश्चन॥१९॥  
+Fly, conquered, in alarm, ye foes, run driven by the spell away! Let not one man escape of those when routed by Brihaspati.

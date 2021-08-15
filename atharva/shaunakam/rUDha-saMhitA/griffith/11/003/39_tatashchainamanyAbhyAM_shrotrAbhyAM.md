@@ -2,4 +2,4 @@
 title = "३९ ततश्चैनमन्याभ्यां श्रोत्राभ्यां"
 
 +++
-तत॑श्चैनम॒न्याभ्यां॒ श्रोत्रा॑भ्यां॒ प्राशी॒र्याभ्यां॑ चै॒तं पूर्व॒ ऋष॑यः॒ प्राश्न॑न् ॥१॥  
+And thence, etc. . . . with other expanse . . . Consumption will destroy thee . . . With the firmament as expanse. 

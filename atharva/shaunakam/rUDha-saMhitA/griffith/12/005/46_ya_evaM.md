@@ -2,4 +2,4 @@
 title = "४६ य एवं"
 
 +++
-य ए॒वं वि॒दुषो॑ ब्राह्म॒णस्य॑ क्ष॒त्रियो॒ गामा॑द॒त्ते॥४६॥  
+So shall it be with the Kshatriya who takes to himself the cow of the Braman who hath this knowledge.

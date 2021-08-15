@@ -2,5 +2,4 @@
 title = "३५ ये अग्निदग्धा"
 
 +++
-ये अ॑ग्निद॒ग्धा ये अन॑ग्निदग्धा॒ मध्ये॑ दि॒वः स्व॒धया॑ मा॒दय॑न्ते ।  
-त्वं तान् वे॑त्थ॒ यदि॒ ते जा॑तवेदः स्व॒धया॑ य॒ज्ञं स्वधि॑तिं जुषन्ताम्॥३५॥  
+Those, whether flames have burnt or not consumed them, who in the midst of heaven enjoy oblations-- Let them, when thou dost know them, Jatavedas, accept with sacred food the axe and worship.

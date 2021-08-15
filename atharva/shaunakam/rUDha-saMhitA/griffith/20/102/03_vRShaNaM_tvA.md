@@ -2,4 +2,4 @@
 title = "०३ वृषणं त्वा"
 
 +++
-वृष॑णं त्वा व॒यं वृ॑ष॒न् वृष॑णः॒ समि॑धीमहि । अग्ने॒ दीद्य॑तं बृ॒हत्॥३॥
+Thee will we kindle as a Bull, we who are bulls ourselves, O Bull, Thee, Agni, shining mightily.

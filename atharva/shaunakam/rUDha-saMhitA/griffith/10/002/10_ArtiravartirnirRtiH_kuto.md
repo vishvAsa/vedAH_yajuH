@@ -2,5 +2,4 @@
 title = "१० आर्तिरवर्तिर्निरृतिः कुतो"
 
 +++
-आर्ति॒रव॑र्ति॒र्निरृ॑तिः॒ कुतो॒ नु पुरु॒षेऽम॑तिः ।  
-राद्धिः॒ समृ॑द्धि॒रव्यृ॑द्धिर्म॒तिरुदि॑तयः॒ कुतः॑ ॥१०॥  
+Whence is there found in Purusha want, evil, suffering, dis- tress? Whence come success, prosperity opulence, thought, and utte- rance?

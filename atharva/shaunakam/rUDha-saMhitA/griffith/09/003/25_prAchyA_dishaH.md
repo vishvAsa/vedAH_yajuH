@@ -2,4 +2,4 @@
 title = "२५ प्राच्या दिशः"
 
 +++
-प्राच्या॑ दि॒शः शाला॑या॒ नमो॑ महि॒म्ने स्वाहा॑ दे॒वेभ्यः॑ स्वा॒ह्येऽभ्यः ॥२५॥  
+Now from the east side of the house to the Great Power be homage paid! Hail to the Gods whose due is Hail!

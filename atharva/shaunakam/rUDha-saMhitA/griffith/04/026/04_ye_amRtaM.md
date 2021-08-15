@@ -2,5 +2,4 @@
 title = "०४ ये अमृतं"
 
 +++
-ये अ॒मृतं॑ बिभृ॒थो ये ह॒वींषि॒ ये स्रो॒त्या बि॑भृ॒थो ये म॑नु॒ष्याऽन्।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥४॥  
+Ye who maintain Amrit and sacrifices, ye who support rivers and human beings, To me, O Heaven and Earth, be ye auspicious, Deliver us, ye twain, from grief and trouble.

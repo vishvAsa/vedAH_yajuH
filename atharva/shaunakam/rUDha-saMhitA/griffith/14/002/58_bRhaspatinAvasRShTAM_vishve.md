@@ -2,5 +2,4 @@
 title = "५८ बृहस्पतिनावसृष्टां विश्वे"
 
 +++
-बृह॒स्पति॒नाव॑सृष्टां॒ विश्वे॑ दे॒वा अ॑धारयन्।  
-रसो॒ गोषु॒ प्रवि॑ष्टो॒ यस्तेने॒मां सं सृ॑जामसि ॥५८॥  
+Her whom Brihaspati hath freed the Visve Devas keep secure. With all the store of sap that cows contain do we enrich this. girl.

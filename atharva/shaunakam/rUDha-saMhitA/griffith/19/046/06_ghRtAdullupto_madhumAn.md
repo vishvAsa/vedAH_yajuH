@@ -2,5 +2,4 @@
 title = "०६ घृतादुल्लुप्तो मधुमान्"
 
 +++
-घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न् पय॑स्वान्त्स॒हस्र॑प्राणः श॒तयो॑निर्वयो॒धाः ।  
-श॒म्भूश्च॑ मयो॒भूश्चोर्ज॑स्वांश्च॒ पय॑स्वां॒श्चास्तृ॑तस्त्वा॒भि र॑क्षतु ॥६॥  
+Drawn forth from butter, rich in milk and sweetness, hundred- lived, thousand-homed, bestowing vigour, Kindly, delightsome, full of sap, and mighty, invincible let it guard thee well.

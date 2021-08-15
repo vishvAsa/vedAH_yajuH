@@ -2,5 +2,4 @@
 title = "३४ यज्ञं दुहानं"
 
 +++
-य॒ज्ञं दुहा॑नं॒ सद॒मित् प्रपी॑नं॒ पुमां॑सं धे॒नुं सद॑नं रयी॒णाम्।  
-प्र॒जा॒मृ॒त॒त्वमु॒त दी॒र्घमायू॑ रा॒यश्च॒ पोषै॒रुप॑ त्वा सदेम ॥३४॥  
+May we adore thee, Sacrifice that yieldeth an everlasting son, cow, home of treasures, Together with increasing store of riches, long life and immor- tality of children.

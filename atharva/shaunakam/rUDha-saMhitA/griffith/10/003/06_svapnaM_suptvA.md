@@ -2,5 +2,4 @@
 title = "०६ स्वप्नं सुप्त्वा"
 
 +++
-स्वप्नं॑ सु॒प्त्वा यदि॒ पश्या॑सि पा॒पं मृ॒गः सृ॒तिं यति॒ धावा॒दजु॑ष्टाम्।  
-प॒रिक्ष॒वाच्छ॒कुनेः॑ पापवा॒दाद॒यं म॒णिर्व॑र॒णो वा॑रयिष्यते ॥६॥  
+If in thy sleep thou see an evil vision, oft as the beast repeats his loathed approaches, This Amulet, this Varana will guard thee from sneeze, and from the bird's ill-omened message.

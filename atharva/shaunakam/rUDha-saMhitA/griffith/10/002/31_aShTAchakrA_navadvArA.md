@@ -2,5 +2,4 @@
 title = "३१ अष्टाचक्रा नवद्वारा"
 
 +++
-अ॒ष्टाच॑क्रा॒ नव॑द्वारा दे॒वानां॒ पूर॑यो॒ध्या।  
-तस्यां॑ हिर॒ण्ययः॒ कोशः॑ स्व॒र्गो ज्योति॒षावृ॑तः ॥३१॥  
+The fort of Gods, impregnable, with circles eight and portals nine, Contains a golden treasure-chest, celestial, begirt with light.

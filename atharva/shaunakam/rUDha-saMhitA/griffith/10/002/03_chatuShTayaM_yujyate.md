@@ -2,5 +2,4 @@
 title = "०३ चतुष्टयं युज्यते"
 
 +++
-चतु॑ष्टयं युज्यते॒ संहि॑तान्तं॒ जानु॑भ्यामू॒र्ध्वं शि॑थि॒रं कब॑न्धम्।  
-श्रोणी॒ यदू॒रू क उ॒ तज्ज॑जान याभ्यां॒ कुसि॑न्धं॒ सुदृ॑ढं ब॒भूव॑ ॥३॥  
+A fourfold frame is fixt with ends connected, and up above the knees a yielding belly. The hips and thighs, who was their generator, those props where- by the trunk grew firmly stablished?

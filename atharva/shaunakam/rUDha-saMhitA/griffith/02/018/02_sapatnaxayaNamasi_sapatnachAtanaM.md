@@ -2,4 +2,4 @@
 title = "०२ सपत्नक्षयणमसि सपत्नचातनं"
 
 +++
-स॒प॒त्न॒क्षय॑णमसि सपत्न॒चात॑नं मे दाः॒ स्वाहा॑ ॥२॥  
+The rival's ruiner art thou, give me to drive my rivals off. All hail!

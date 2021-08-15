@@ -2,5 +2,4 @@
 title = "०१ मा भूम"
 
 +++
-मा भू॑म॒ निष्ट्या॑ इ॒वेन्द्र॒ त्वदर॑णा इव ।  
-वना॑नि॒ न प्र॑जहि॒तान्य॑द्रिवो दु॒रोषा॑सो अमन्महि ॥१॥  
+Never may we be cast aside and strangers, as it were to thee. We, Thunder-wielding Indra, count ourselves as trees rejected and unfit to burn.

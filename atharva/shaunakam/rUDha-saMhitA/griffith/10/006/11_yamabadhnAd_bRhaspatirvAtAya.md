@@ -2,5 +2,4 @@
 title = "११ यमबध्नाद् बृहस्पतिर्वाताय"
 
 +++
-यमब॑ध्ना॒द् बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑ ।  
-सो अ॑स्मै वा॒जिन॑ दुहे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥११॥  
+The Amulet Brihaspati bound on the swiftly-moving Wind. This yieldeth him a vigorous steed, again, etc.

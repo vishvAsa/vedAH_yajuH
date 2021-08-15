@@ -2,4 +2,4 @@
 title = "१९ अथो श्वा"
 
 +++
-अथो॒ श्वा अस्थि॑रो भवन्॥१९॥  
+The man pervaded thoroughly lies on the ground as he were slain.

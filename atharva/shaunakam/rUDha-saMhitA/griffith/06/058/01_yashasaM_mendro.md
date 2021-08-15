@@ -2,5 +2,4 @@
 title = "०१ यशसं मेन्द्रो"
 
 +++
-य॒शसं॒ मेन्द्रो॑ म॒घवान् कृणोतु य॒शसं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे।  
-य॒शसं॑ मा दे॒वः स॑वि॒ता कृ॑णोतु प्रि॒यो दा॒तुर्दक्षि॑णाया इ॒ह स्या॑म्॥१॥  
+May Indra Maghavan give me name and glory. May Heaven and Earth, this couple, make me famous. May Savitar the deity make me honoured. Here may the man who gives the guerdon love me.

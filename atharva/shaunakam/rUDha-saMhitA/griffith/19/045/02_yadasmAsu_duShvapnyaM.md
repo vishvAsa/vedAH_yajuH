@@ -2,5 +2,4 @@
 title = "०२ यदस्मासु दुष्वप्न्यं"
 
 +++
-यद॒स्मासु॑ दु॒ष्वप्न्यं॒ यद् गोषु॒ यच्च॑ नो गृ॒हे।  
-अना॑मग॒स्तं च॑ दु॒र्हार्दः॑ प्रि॒यः प्रति॑ मुञ्चताम्॥२॥  
+Whatever evil dream we have, what'er befall our kine or home, Be this that is salubrity, the evil-hearted's foe applied.

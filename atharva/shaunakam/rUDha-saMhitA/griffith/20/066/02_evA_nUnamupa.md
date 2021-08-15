@@ -2,4 +2,4 @@
 title = "०२ एवा नूनमुप"
 
 +++
-ए॒वा नू॒नमुप॑ स्तुहि॒ वैय॑श्व दश॒मं नव॑म्। सुवि॑द्वांसं च॒र्कृत्यं॑ च॒रणी॑नाम्॥२॥  
+Now, son of Vyasva, praise thou him who to the tenth time still is new. The very wise, whom living men must glorify.

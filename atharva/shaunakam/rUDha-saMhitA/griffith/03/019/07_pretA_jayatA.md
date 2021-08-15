@@ -2,5 +2,4 @@
 title = "०७ प्रेता जयता"
 
 +++
-प्रेता॒ जय॑ता नर उ॒ग्रा वः॑ सन्तु बा॒हवः॑ ।  
-ती॒क्ष्णेष॑वोऽब॒लध॑न्वनो हतो॒ग्रायु॑धा अब॒लानु॒ग्रबा॑हवः ॥७॥  
+Advance and be victorious, men I Exceeding mighty be your arms! Smite with sharp-pointed arrows those whose bows are weak. With your strong arms and weapons smite the feeble foe.

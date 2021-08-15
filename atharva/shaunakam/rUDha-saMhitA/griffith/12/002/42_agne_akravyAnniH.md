@@ -2,4 +2,4 @@
 title = "४२ अग्ने अक्रव्यान्निः"
 
 +++
-अग्ने॑ अक्रव्या॒न्निः क्र॒व्यादं॑ नु॒दा दे॑व॒यज॑नं वह ॥४२॥  
+Drive off Carnivorous Agni, thou Agni who eatest not the flesh;. carry oblation paid to Gods.

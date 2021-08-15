@@ -2,5 +2,4 @@
 title = "०१ समुत्पतन्तु प्रदिशो"
 
 +++
-स॒मुत्प॑तन्तु प्र॒दिशो॑ नभ॑स्वतीः॒ सम॒भ्राणि॒ वात॑जूतानि यन्तु ।  
-म॒ह॒ऋ॒ष॒भस्य॒ नद॑तो॒ नभ॑स्वतो वा॒श्रा आपः॑ पृथि॒वीं त॑र्पयन्तु ॥१॥  
+Let all the misty regions fly together, let all the rain-clouds sped by wind, assemble. Let waters satisfy the earth, the voices of the great mist-enve- loped Bull who roareth.

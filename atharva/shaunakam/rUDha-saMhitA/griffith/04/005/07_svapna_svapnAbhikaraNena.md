@@ -2,5 +2,4 @@
 title = "०७ स्वप्न स्वप्नाभिकरणेन"
 
 +++
-स्वप्न॑ स्वप्नाभि॒कर॑णेन॒ सर्वं॒ नि स्वापया॒ जन॑म्।  
-ओ॒त्सू॒र्यम॒न्यान्त्स्वा॒पया॑व्यु॒षं जा॑गृताद॒हमिन्द्र॑ इ॒वारि॑ष्टो॒ अक्षि॑तः ॥७॥
+With soporific charm, O Sleep, lull thou to slumber all the folk. Let the rest sleep till break of day, I will remain awake till dawn, like Indra free from scath and harm.

@@ -2,5 +2,4 @@
 title = "०७ परामित्रान् दुन्दुभिना"
 
 +++
-परा॒मित्रा॑न् दुन्दु॒भिना॑ हरि॒णस्या॒जिने॑न च ।  
-सर्वे॑ दे॒वा अ॑तित्रस॒न् ये सं॑ग्रा॒मस्येशते ॥७॥  
+May all the deities whose might controls the fortune of the fray Frighten away our enemies with Drum and skin of antelope.

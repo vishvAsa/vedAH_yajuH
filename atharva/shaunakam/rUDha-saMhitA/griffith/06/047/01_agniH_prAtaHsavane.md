@@ -2,5 +2,4 @@
 title = "०१ अग्निः प्रातःसवने"
 
 +++
-अ॒ग्निः प्रा॑तःसव॒ने पा॑त्व॒स्मान् वै॑श्वान॒रो वि॑श्व॒कृद् वि॒श्वशं॑भूः ।  
-स नः॑ पाव॒को द्रवि॑णे दधा॒त्वायु॑ष्मन्तः सहभ॑क्षाः स्याम ॥१॥  
+Dear to all men, all-prosperer, all-creating, may Agni, guard us* at the morn's libation. May he, the brightly pure one, give us riches: may we have life enjoying food together.

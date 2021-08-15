@@ -2,4 +2,4 @@
 title = "११ अयन्महा ते"
 
 +++
-अ॒यन्म॒हा ते॑ अर्वा॒हः ॥११॥  
+Hither hath come a stallion: he is known by droppings on his way, (with next verse)

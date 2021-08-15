@@ -2,5 +2,4 @@
 title = "०१ यस्ते मन्योऽविधद्"
 
 +++
-यस्ते॑ म॒न्योऽवि॑धद् वज्र सायक॒ सह॒ ओजः॒ पुष्य॑ति॒ विश्व॑मानु॒षक्।  
-सा॒ह्याम॒ दास॒मार्यं॒ त्वया॑ यु॒जा व॒यं सह॑स्कृतेन॒ सह॑सा॒ सह॑स्वता ॥१॥  
+He who hath reverenced thee, Manyu, destructive bolt! breeds. for himself forthwith all conquering energy. Arya and Dasa will we conquer with thine aid, with thee the conqueror, with conquest conquest-sped.

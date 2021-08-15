@@ -2,5 +2,4 @@
 title = "०३ यासां देवा"
 
 +++
-यासां॑ दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒क्षं या अ॒न्तरि॑क्षे बहु॒धा भव॑न्ति ।  
-या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥३॥  
+Whom the Gods make their beverage in heaven, they who wax manifold in air's mid-region, They who took Agni as a germ, fair-coloured,--those Waters bring felicity and bless us!

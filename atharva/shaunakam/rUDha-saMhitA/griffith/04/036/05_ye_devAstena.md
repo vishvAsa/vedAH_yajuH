@@ -2,5 +2,4 @@
 title = "०५ ये देवास्तेन"
 
 +++
-ये दे॒वास्तेन॒ हास॑न्ते॒ सूर्ये॑ण मिमते ज॒वम्।  
-न॒दीषु॒ पर्व॑तेषु॒ ये सं तैः प॒शुभि॑र्विदे ॥५॥  
+With Gods who flee with him, and match their rapid motion with the Sun, I with those animals who dwell in rivers and on hills am found.

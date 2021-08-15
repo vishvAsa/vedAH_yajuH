@@ -2,5 +2,4 @@
 title = "१० श्रेयःकेतो वसुजित्"
 
 +++
-श्रेयः॑केतो वसु॒जित् सहीयान्त्संग्राम॒जित् संशि॑तो॒ ब्रह्म॑णासि ।  
-अं॒शूनि॑व॒ ग्रावा॑धि॒षव॑णे॒ अद्रि॑र्ग॒व्य॑न् दु॑न्दु॒भेऽधि॑ नृत्य॒ वेदः॑ ॥१०॥  
+Bent on advantage, mightier, gaining treasures, victor in war, the spell hath made thee keener. As, in the press, the stone to stalks of Soma, thus, Drum! go dancing to our foes' possessions.

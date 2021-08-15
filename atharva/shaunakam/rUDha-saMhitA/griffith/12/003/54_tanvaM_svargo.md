@@ -2,5 +2,4 @@
 title = "५४ तन्वं स्वर्गो"
 
 +++
-त॒न्वं स्व॒र्गो ब॑हु॒धा वि च॑क्रे॒ यथा॑ वि॒द आ॒त्मन्न॒न्यव॑र्णाम्।  
-अपा॑जैत् कृ॒ष्णां रुश॑तीं पुना॒नो या लोहि॑नी॒ तां ते॑ अ॒ग्नौ जु॑होमि ॥५४॥  
+In many a shape hath heaven transformed its body, as in itself is known, of varied eolour. Cleansing the bright, the dark form hath it banished: the red form in the fire to thee I offer.

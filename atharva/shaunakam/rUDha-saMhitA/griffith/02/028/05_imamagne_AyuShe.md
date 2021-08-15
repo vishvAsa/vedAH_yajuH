@@ -2,5 +2,4 @@
 title = "०५ इममग्ने आयुषे"
 
 +++
-इ॒मम॑ग्ने॒ आयु॑षे॒ वर्च॑से नय प्रि॒यं रेतो॑ वरुण मित्रराजन्।  
-मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा ज॒रद॑ष्टि॒र्य॑थास॑त्॥५॥
+Lead him to life, O Agni, and to splendour, this dear child, Varuna! and thou King Mitra! Give him protection, Aditi! as a mother; All Gods, that his be life of long duration;

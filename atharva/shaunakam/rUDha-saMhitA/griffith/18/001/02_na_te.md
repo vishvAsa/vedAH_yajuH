@@ -2,5 +2,4 @@
 title = "०२ न ते"
 
 +++
-न ते॒ सखा॑ स॒ख्यं व॑ष्ट्ये॒तत् सल॑क्ष्मा॒ यद् विषु॑रूपा॒ भवा॑ति ।
-म॒हस्पु॒त्रासो॒ असु॑रस्य वी॒रा दि॒वो ध॒र्तार॑ उर्वि॒या परि॑ ख्यन्॥२॥
+Thy friend loves not the friendship which considers her who is near in kindred as a stranger. Sons of the mighty Asura, the heroes, supporters of the heaven, see far around them.

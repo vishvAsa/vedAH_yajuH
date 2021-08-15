@@ -2,4 +2,4 @@
 title = "०२ मरुतो यस्य"
 
 +++
-मरु॑तो॒ यस्य॒ हि क्षये॑ पा॒था दि॒वो वि॑महसः । स सु॑गो॒पात॑मो॒ जनः॑ ॥२॥  
+The best of guardian hath the man within whose dwelling-place ye drink, O Maruts, giants of the sky.

@@ -2,5 +2,4 @@
 title = "१० शीर्षामयमुपहत्यामक्ष्योस्तन्वो३रपः कुष्ठस्तत्"
 
 +++
-शी॒र्षा॒म॒यमु॑पह॒त्याम॒क्ष्योस्त॒न्वो॒३रपः॑ ।  
-कुष्ठ॒स्तत् सर्वं॒ निष्क॑र॒द् दैवं॑ समह॒ वृष्ण्य॑म्॥१०॥
+Malady that affects the head, eye-weakness, bodily defect-- All this let Kushtha heal and cure: aye, godlike is the vigorous power.

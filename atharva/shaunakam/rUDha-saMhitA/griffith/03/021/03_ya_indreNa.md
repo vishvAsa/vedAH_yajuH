@@ -2,5 +2,4 @@
 title = "०३ य इन्द्रेण"
 
 +++
-य इन्द्रे॑ण स॒रथं॒ याति॑ दे॒वो वै॑श्वान॒र उ॒त वि॑श्वदा॒व्यः ।  
-यं जोह॑वीमि॒ पृत॑नासु सास॒हिं तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत्॥३॥  
+The Fire that rideth by the side of Indra, the God Vaisvanara,. yea all-consuming, Whom, as the victor, I invoke in battles--to all these Fires be this oblation offered.

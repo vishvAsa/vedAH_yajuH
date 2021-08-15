@@ -2,5 +2,4 @@
 title = "१० उपावसृज त्मन्या"
 
 +++
-उ॒पाव॑सृज॒ त्मन्या॑ सम॒ञ्जन् दे॒वानां॒ पाथ॑ ऋतु॒था ह॒वींषि॑ ।  
-वन॒स्पतिः॑ शमि॒ता दे॒वो अ॒ग्निः स्वद॑न्तु ह॒व्यं मधु॑ना घृ॒तेन॑ ॥१०॥  
+Bring thou to our oblations which thou balmest the companies of Gods in ordered season. Agni, Vanaspati, the Immolator sweeten our offered gifts with meath and butter!

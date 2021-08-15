@@ -2,5 +2,4 @@
 title = "०१ पूर्वापरं चरतो"
 
 +++
-पू॒र्वा॒प॒रं च॑रतो मा॒ययै॒तौ शिशू॒ क्रीड॑न्तौ॒ परि॑ यातोऽर्ण॒वम्।  
-विश्वा॒न्यो भुव॑ना वि॒चष्ट॑ ऋ॒तूँर॒न्यो वि॒दध॑ज्जायसे॒ नवः॑ ॥१॥  
+Forward and backward by their wondrous power move these two youths, disporting, round the ocean. One views all living things, and thou, the other, art born again arranging times and seasons.

@@ -2,5 +2,4 @@
 title = "१३ प्रजापते श्रेष्ठेन"
 
 +++
-प्रजा॑पते॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः ।  
-पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥१३॥
+O Lord of Life, Prajapati, within this woman's body lay A male germ with the noblest form for her in the tenth month to bear.

@@ -2,5 +2,4 @@
 title = "०५ जुहूर्दाधार द्यामुपभृदन्तरिक्षं"
 
 +++
-जु॒हूर्दा॑धार॒ द्यामु॑प॒भृद॒न्तरि॑क्षं ध्रु॒वा दा॑धार पृथि॒वीं प्र॑ति॒ष्ठाम्।  
-प्रती॒मां लो॒का घृ॒तपृ॑ष्ठाः स्व॒र्गाः कामं॑कामं॒ यज॑मानाय दुह्राम्॥५॥  
+Upabhrit stablished air, Juhu the heaven, Dhruva supported earth securely founded. As meed, the Svarga worlds, o'erspread with fatness shall yield the sacrificer all his wishes.

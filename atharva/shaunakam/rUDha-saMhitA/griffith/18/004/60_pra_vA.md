@@ -2,5 +2,4 @@
 title = "६० प्र वा"
 
 +++
-प्र वा ए॒तीन्दु॒रिन्द्र॑स्य॒ निष्कृ॑तिं॒ सखा॒ सख्यु॒र्न प्र मि॑नाति संगि॒रः ।  
-मर्य॑ इव॒ योषाः॒ सम॑र्षसे॒ सोमः॑ क॒लशे॑ श॒तया॑मना प॒था॥६०॥  
+Indu is moving forth to Indra's destined place, and slights not as a friend the promise of his friend. Thou, Soma, comest nigh as bridegroom meets the bride, reach- ing the beaker by a course of hundred paths.

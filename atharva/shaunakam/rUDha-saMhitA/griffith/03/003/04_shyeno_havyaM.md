@@ -2,5 +2,4 @@
 title = "०४ श्येनो हव्यं"
 
 +++
-श्ये॒नो ह॒व्यं न॑य॒त्वा पर॑स्मादन्यक्षे॒त्रेअप॑रुद्धं॒ चर॑न्तम्।  
-अ॒श्विना॒ पन्थां॑ कृणुतां सु॒गं त॑ इ॒मं स॑जाता अभि॒संवि॑शध्वम्॥४॥  
+May the hawk bring the man who must be summoned, from far away, in alien land, an exile. May both the Asvins make thy pathway easy. Come, and unite yourselves with him, ye Kinsmen.

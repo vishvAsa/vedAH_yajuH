@@ -2,5 +2,4 @@
 title = "०३ अजिराधिराजौ श्येनौ"
 
 +++
-अ॒जि॒रा॒धि॒रा॒जौ श्ये॒नौ सं॑पा॒तिना॑विव ।  
-आज्यं॑ पृतन्य॒तो ह॑तां॒ यो नः॒ कश्चा॑भ्यघा॒यति॑ ॥३॥  
+Let the two Sovrans, swift to come, like falcons swooping on their prey, Destroy the butter of the foe whoever plots to injure us.

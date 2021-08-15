@@ -2,5 +2,4 @@
 title = "०७ ये ते"
 
 +++
-ये ते॑ देवि शमि॒तारः॑ प॒क्तारो॒ ये च॑ ते॒ जनाः॑ ।  
-ते त्वा॒ सर्वे॑ गोप्स्यन्ति॒ मैभ्यो॑ भैषीः शतौदने ॥७॥  
+Thine Immolators, Goddess! and the men who dress thee for the feast, all these will guard thee, Hundredfold Oblation! Have no fear of them.

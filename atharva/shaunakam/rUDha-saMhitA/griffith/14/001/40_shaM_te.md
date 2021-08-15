@@ -2,5 +2,4 @@
 title = "४० शं ते"
 
 +++
-शं ते॒ हिर॑ण्यं॒ शमु॑ स॒न्त्वापः॒ शं मे॒थिर्भ॑वतु॒ शं यु॒गस्य॒ तर्द्म॑ ।  
-शं त॒ आपः॑ श॒तप॑वित्रा भवन्तु॒ शमु॒ पत्या॑ त॒न्वं॑१ सं स्पृ॑शस्व ॥४०॥  
+Blest be the gold to thee, and blest the water, blest the yoke's opening, and blest the pillar. Blest he the waters with their hundred cleansings: blest be thy body's union with thy husband.

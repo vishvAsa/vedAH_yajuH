@@ -2,4 +2,4 @@
 title = "०४ स य"
 
 +++
-स य ए॒वं वि॒दुषा॒ व्रात्ये॒नाति॑सृष्टो जु॒होति॑ ॥४॥  
+He who sacrifices when permitted by the Vratya who possesses this knowledge.

@@ -2,4 +2,4 @@
 title = "०६ त्वां स्तोमा"
 
 +++
-त्वां स्तोमा॑ अवीवृध॒न् त्वामु॒क्था श॑तक्रतो । त्वां व॑र्धन्तु नो॒ गिरः॑ ॥६॥  
+O Lord of Hundred Powers, our chants of praise and lauds have strengthened thee: So strengthen thee the songs we sing!

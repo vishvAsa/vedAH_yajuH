@@ -2,5 +2,4 @@
 title = "०६ एवा पित्रे"
 
 +++
-ए॒वा पि॒त्रे वि॒श्वदे॑वाय॒ वृष्णे॑ य॒ज्ञैर्विधेम॒ नम॑सा ह॒विर्भिः॑ ।  
-बृह॑स्पते सुप्र॒जा वी॒रव॑न्तो व॒यं स्या॑म॒ पत॑यो रयी॒णाम्॥६॥
+Serve we with sacrifices, gifts, and homage even thus the Steer of all the Gods, the Father. Brihaspati, may we be lords of riches, with noble progeny and, store of heroes.

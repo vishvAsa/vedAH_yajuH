@@ -2,5 +2,4 @@
 title = "०७ यदि चिन्नु"
 
 +++
-यदि॑ चि॒न्नु त्वा॒ धना॒ जय॑न्तं॒ रणे॑रणे अनु॒मद॑न्ति॒ विप्राः॑ ।  
-ओजी॑यः शुष्मिन्त्स्थि॒रमा त॑नुष्व॒ मा त्वा॑ दभन् दु॒रेवा॑सः क॒शोकाः॑ ॥७॥  
+Therefore in thee too, thou who winnest riches, at every banquet are the sages joyful With mighter power, bold God, extend thy firmness: let not malignant Yatudhanas harm thee.

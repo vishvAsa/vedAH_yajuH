@@ -2,5 +2,4 @@
 title = "०९ तेनेषितं तेन"
 
 +++
-तेने॑षि॒तं तेन॑ जा॒तं तदु॒ तस्मि॒न् प्रति॑ष्ठितम्।  
-का॒लो ह॒ ब्रह्म॑ भू॒त्वा बिभ॑र्ति परमे॒ष्ठिन॑म्॥९॥  
+He made, he stirred this universe to motion, and on him it rests. He, Kala, having now become Brahma, holds Parameshthin up.

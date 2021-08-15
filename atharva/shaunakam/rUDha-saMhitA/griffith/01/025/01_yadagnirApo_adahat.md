@@ -2,5 +2,4 @@
 title = "०१ यदग्निरापो अदहत्"
 
 +++
-यद॒ग्निरापो॒ अद॑हत् प्र॒विश्य॒ यत्राकृ॑ण्वन् धर्म॒धृतो॒ नमां॑सि ।  
-तत्र॑ त आहुः पर॒मं ज॒नित्रं॒ स नः॑ संवि॒द्वान् परि॑ वृङ्ग्धि तक्मन्॥१॥  
+When Agni blazed when he had pierced the Waters, whereat the Law-observers paid him homage, There, men assever, was thy loftiest birthplace: O Fever, yield- ing to our prayer avoid us.

@@ -2,6 +2,4 @@
 title = "०४ अर्बुदिर्नाम यो"
 
 +++
-अर्बु॑दि॒र्नाम॒ यो दे॒व ईशा॑नश्च॒ न्यऽर्बुदिः ।  
-याभ्या॑म॒न्तरि॑क्ष॒मावृ॑तमि॒यं च॑ पृथि॒वी म॒ही।  
-ताभ्या॒मिन्द्र॑मेदिभ्याम॒हं जि॒तमन्वे॑मि॒ सेन॑या ॥४॥  
+The God whose name is Arbudi, and Nyarbudi the Mighty One, The two by whom the air and this great earth are compassed and possessed, With these two friends of Indra I go forth to conquer with the host.

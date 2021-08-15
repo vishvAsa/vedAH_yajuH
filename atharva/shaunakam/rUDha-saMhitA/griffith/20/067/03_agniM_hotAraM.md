@@ -2,6 +2,4 @@
 title = "०३ अग्निं होतारं"
 
 +++
-अ॒ग्निं होता॑रं मन्ये॒ दास्व॑न्तं॒ वसुं॑ सू॒नुं सह॑सो जा॒तवे॑दसं॒ विप्रं॒ न जा॒तवे॑दसम्।  
-य ऊ॒र्ध्वया॑ स्वध्व॒रो दे॒वो दे॒वाच्या॑ कृ॒पा।  
-घृ॒तस्य॒ विभ्रा॑ष्टि॒मनु॑ वष्टि शो॒चिषा॒जुह्वा॑नस्य स॒र्पिषः॑ ॥३॥  
+I think on Agni, Hotar, the munificent, the gracious Son of strength, who knoweth all that live, as holy Sage who knoweth all. Lord of fair rites, a God with form erected turning to the Gods. He, when the flame hath sprung forth from the holy oil, the offered fatness, longeth for it with his glow.

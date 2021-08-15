@@ -2,5 +2,4 @@
 title = "१६ चरेदेवा त्रैहायणा"
 
 +++
-चरे॑दे॒वा त्रै॑हाय॒णा दवि॑ज्ञातगदा स॒ती।  
-व॒शां च॑ वि॒द्यान्ना॑रद ब्राह्म॒णास्तर्ह्ये॒ष्याः ॥१६॥  
+Thus after three years may she go, speaking what is not under- stood. He, Narads! would know the Cow, then Brahmans must be sought unto.

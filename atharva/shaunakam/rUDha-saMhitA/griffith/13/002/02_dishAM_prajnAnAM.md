@@ -2,5 +2,4 @@
 title = "०२ दिशां प्रज्ञानां"
 
 +++
-दि॒शां प्र॒ज्ञानां॑ स्व॒रय॑न्तम॒र्चिषा॑ सुप॒क्षमा॒शुं प॒तय॑न्तमर्ण॒वे।  
-स्तवा॑म सूर्यं॒ भुव॑नस्य गो॒पां यो र॒श्मिभि॒र्दिश॑ आ॒भाति॒ सर्वाः॑ ॥२॥  
+Let us laud him, the whole world's Herdsman, Surya, who with his rays illumines all the regions, Mark of the quarters, brightening them with lustre, swift, mighty-pinioned, flying in the ocean.

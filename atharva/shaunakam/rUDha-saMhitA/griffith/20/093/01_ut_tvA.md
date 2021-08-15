@@ -2,4 +2,4 @@
 title = "०१ उत् त्वा"
 
 +++
-उत् त्वा॑ मन्दन्तु॒ स्तोमाः॑ कृणु॒ष्व राधो॑ अद्रिवः । अव॑ ब्रह्म॒द्विषो॑ जहि ॥१॥  
+May our hymns give thee great delight. Display thy bounty, Thunderer. Drive off the enemies of prayer.

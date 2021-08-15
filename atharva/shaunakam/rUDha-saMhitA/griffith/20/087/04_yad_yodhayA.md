@@ -2,5 +2,4 @@
 title = "०४ यद् योधया"
 
 +++
-यद् यो॒धया॑ मह॒तो मन्य॑माना॒न् साक्षा॑म॒ तान् बा॒हुभिः॒ शाश॑दानान्।  
-यद् वा॒ नृभि॒र्वृत॑ इन्द्राभि॒युध्या॒स्तं त्वया॒जिं सौ॑श्रव॒सं ज॑येम ॥४॥  
+When thou hast urged the arrogant to combat, proud in their strength of arm, we will subdue them. Or, Indra, when thou fightest girt by heroes, we in the glorious fray with thee will conquer.

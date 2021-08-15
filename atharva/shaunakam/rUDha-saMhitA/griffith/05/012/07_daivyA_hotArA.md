@@ -2,5 +2,4 @@
 title = "०७ दैव्या होतारा"
 
 +++
-दैव्या॒ होता॑रा प्रथ॒मा सुवाचा॒ मिमा॑ना य॒ज्ञं मनु॑षो॒ यज॑ध्यै ।  
-प्र॒चो॒दय॑न्ता वि॒दथे॑षु का॒रू प्रा॒चीनं॒ ज्योतिः॑ प्र॒दिशा॑ दि॒शन्ता॑ ॥७॥  
+Come the first two celestial sweet-voiced Hotars, arranging sacrifice for man to worship, As singers who inspire us in assemblies, showing the eastern light with their direction!

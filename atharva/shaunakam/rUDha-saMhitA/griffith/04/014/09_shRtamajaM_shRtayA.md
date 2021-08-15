@@ -2,5 +2,4 @@
 title = "०९ शृतमजं शृतया"
 
 +++
-शृ॒तम॒जं शृ॒तया॒ प्रोर्णु॑हि त्व॒चा सर्वै॒रङ्गैः॒ संभृ॑तं वि॒श्वरू॑पम्।  
-स उत् ति॑ष्ठे॒तो अ॒भि नाक॑मुत्त॒मं प॒द्भिश्च॒तुर्भिः॒ प्रति॑ तिष्ठ दि॒क्षु॥९॥
+O'er the dressed Goat lay a dressed skin to robe him prepared, in perfect form, with all his members. Rise upward to the loftiest vault of heaven: with thy four feet stand firmly in the regions.

@@ -2,5 +2,4 @@
 title = "०९ भवाशर्वाविदं ब्रूमो"
 
 +++
-भ॒वा॒श॒र्वावि॒दं ब्रू॑मो रु॒द्रं प॑शु॒पति॑श्च॒ यः ।  
-इषू॒र्या ए॑षां संवि॒द्म ता नः॑ सन्तु॒ सदा॑ शि॒वाः ॥९॥  
+Bhava and Sarva we address, and Rudra who is Lord of Beasts, Their arrows which we feel and know: may they be ever kind to us.

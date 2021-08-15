@@ -2,5 +2,4 @@
 title = "०३ क्लीब क्लीबं"
 
 +++
-क्लीब॑ क्ली॒बं त्वा॑करं॒ वध्रे॒ वध्रिं॑ त्वाकर॒मर॑सार॒सं त्वा॑करम्।  
-कु॒रीर॑मस्य शी॒र्षणि॒ कुम्बं॑ चाधि॒निद॑ध्मसि ॥३॥  
+I have unmanned thee, eunuch! yea, impotent! made thee- impotent, and robbed thee, weakling! of thy strength. Upon his head we set the horn, we set the branching ornament.

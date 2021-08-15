@@ -2,5 +2,4 @@
 title = "०८ अथोपदान भगवो"
 
 +++
-अथो॑पदान भगवो॒ जाङ्गि॒डामि॑तवीर्य ।  
-पु॒रा त॑ उ॒ग्रा ग्र॑सत॒ उपेन्द्रो॑ वी॒र्यं ददौ ॥८॥  
+Then when thou sprangest into life, Jangida of un-measured strength, Indra, O mighty One, bestowed great power upon thee from the first.

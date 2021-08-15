@@ -2,5 +2,4 @@
 title = "०८ आ दधामि"
 
 +++
-आ द॑धामि ते प॒दं समि॑द्धे जा॒तवे॑दसि ।  
-अ॒ग्निः शरी॑रं वेवे॒ष्ट्वसुं॒ वागपि॑ गछतु ॥८॥
+In Jatavedas kindled flame I set the place assigned to thee. Let fire consume thy body, and thy voice go to the general breath.

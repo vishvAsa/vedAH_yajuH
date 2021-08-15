@@ -2,5 +2,4 @@
 title = "३२ तस्मिन् हिरण्यये"
 
 +++
-तस्मि॑न् हिर॒ण्यये॒ कोशे॒ त्र्यऽरे॒ त्रिप्र॑तिष्ठिते ।  
-तस्मि॒न् यद् य॒क्षमा॑त्म॒न्वत् तद् वै ब्र॑ह्म॒विदो॑ विदुः ॥३२॥  
+Men deep in lore of Brahma know that Animated Being which Dwells in the golden treasure-chest that hath three spokes and three supports.

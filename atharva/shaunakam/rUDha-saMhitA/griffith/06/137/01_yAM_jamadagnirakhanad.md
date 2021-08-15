@@ -2,5 +2,4 @@
 title = "०१ यां जमदग्निरखनद्"
 
 +++
-यां ज॒मद॑ग्नि॒रख॑नद् दुहि॒त्रे के॑श॒वर्ध॑नीम्।  
-तां वी॒तह॑व्य॒ आभ॑र॒दसि॑तस्य गृ॒हेभ्यः॑ ॥१॥  
+The Plant which Jamadagni dug to make his daughter's locks. grow long, This same hath Vitahavya brought to us from Asita's abode.

@@ -2,4 +2,4 @@
 title = "१३ क्रोधो वृक्कौ"
 
 +++
-क्रोधो॑ वृ॒क्कौ म॒न्युरा॒ण्डौ प्र॒जा शेपः॑ ॥१३॥  
+Wrath is the kidneys, anger the testes, offspring the generative organ.

@@ -2,4 +2,4 @@
 title = "१३ शृङ्ग उत्पन्न"
 
 +++
-शृङ्ग॑ उत्पन्न ॥१३॥  
+This O Mandurika, is mine. Thy trees are standing in a clump.

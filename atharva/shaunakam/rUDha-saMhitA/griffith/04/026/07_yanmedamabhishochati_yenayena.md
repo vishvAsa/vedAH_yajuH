@@ -2,5 +2,4 @@
 title = "०७ यन्मेदमभिशोचति येनयेन"
 
 +++
-यन्मे॒दम॑भि॒शोच॑ति॒ येन॑येन वा कृ॒तं पौरु॑षेया॒न्न दैवा॑त्।  
-स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मंह॑सः ॥७॥
+The grief that pains me here, whoever caused it, not sent by fate, hath sprung from human action. I, suppliant, praise Heaven, Earth, and oft invoke them. Deliver us, ye twain, from grief and trouble.

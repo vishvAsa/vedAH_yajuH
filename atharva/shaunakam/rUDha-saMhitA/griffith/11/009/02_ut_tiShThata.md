@@ -2,5 +2,4 @@
 title = "०२ उत् तिष्ठत"
 
 +++
-उत् ति॑ष्ठत॒ सं न॑ह्यध्वं॒ मित्रा॒ देव॑जना यू॒यम्।  
-संदृ॑ष्टा गु॒प्ता वः॑ सन्तु॒ या नो॑ मि॒त्राण्य॑र्बुदे ॥२॥  
+Arise ye and prepare yourselves: ye, the celestial hosts, are friends. Let your mysterious natures be seen by our friends O Arbudi.

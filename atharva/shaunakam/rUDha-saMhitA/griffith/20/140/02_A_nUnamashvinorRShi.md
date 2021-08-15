@@ -2,5 +2,4 @@
 title = "०२ आ नूनमश्विनोर्ऋषि"
 
 +++
-आ नू॒नम॒श्विनो॒र्ऋषि॒ स्तोमं॑ चिकेत वा॒मया॑ ।  
-आ सोमं॒ मधु॑मत्तमं घ॒र्मं सि॑ञ्चा॒दथ॑र्वणि ॥२॥  
+Now hath the Rishi splendidly thought out the Asvins' hymn of praise. Let the Atharvan pour the warm oblation forth, and Soma very rich in sweets.

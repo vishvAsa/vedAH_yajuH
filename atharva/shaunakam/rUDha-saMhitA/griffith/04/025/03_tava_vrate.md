@@ -2,5 +2,4 @@
 title = "०३ तव व्रते"
 
 +++
-तव॑ व्र॒ते नि वि॑शन्ते॒ जना॑स॒स्त्वय्युदि॑ते॒ प्रेर॑ते चित्रभानो ।  
-यु॒वं वा॑यो सवि॒ता च॒ भुव॑नानि रक्षथ॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥३॥  
+Beauteously bright! men rest in thy dominion when thou hast risen up and hastened onward. Ye, Vayu, Savitar, preserve all creatures. Deliver us, ye, twain, from grief and trouble.

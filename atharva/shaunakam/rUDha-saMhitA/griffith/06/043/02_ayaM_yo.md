@@ -2,5 +2,4 @@
 title = "०२ अयं यो"
 
 +++
-अ॒यं यो भूरि॑मूलः समु॒द्रम॑व॒तिष्ठ॑ति ।  
-द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते ॥२॥  
+This Plant that hath abundant roots spreads to the place where waters meet. Soother of anger is the name Darbha-grass that springs from earth.

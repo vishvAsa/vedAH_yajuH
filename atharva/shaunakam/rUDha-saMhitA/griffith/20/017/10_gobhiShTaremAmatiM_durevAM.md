@@ -2,5 +2,4 @@
 title = "१० गोभिष्टरेमामतिं दुरेवां"
 
 +++
-गोभि॑ष्टरे॒माम॑तिं दु॒रेवां॒ यवे॑न॒ क्षुधं॑ पुरुहूत॒ विश्वा॑म्।  
-व॒यं राज॑भिः प्रथ॒मा धना॑न्य॒स्माके॑न वृ॒जने॑ना जयेम ॥१०॥  
+O much-invoked, may we subdue all famine and evil want with store of grain and cattle. May we allied, as first in rank, with princes, obtain possessions by our own exertion.

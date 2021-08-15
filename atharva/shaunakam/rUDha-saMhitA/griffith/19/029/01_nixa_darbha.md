@@ -2,5 +2,4 @@
 title = "०१ निक्ष दर्भ"
 
 +++
-निक्ष॑ दर्भ स॒पत्ना॑न् मे॒ निक्ष॑ मे पृतनाय॒तः ।  
-निक्ष॑ मे॒ सर्वा॑न् दु॒र्हार्दो॑ निक्ष॑ मे द्विष॒तो म॑णे ॥१॥  
+Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pierce all who wish me evil, pierce the men who hate me,. Amulet!

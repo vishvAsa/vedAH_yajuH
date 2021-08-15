@@ -2,5 +2,4 @@
 title = "१४ यस्त ऊरू"
 
 +++
-यस्त॑ ऊ॒रू वि॒हर॑त्यन्त॒रा दम्प॑ती॒ शये॑ ।  
-योनिं॒ यो अ॒न्तरा॒रेल्हि॒ तमि॒तो ना॑शयामसि ॥१४॥  
+That which divides thy legs that it may lie between the married pair, That penetrates and licks thy side, even this will we exterminate.

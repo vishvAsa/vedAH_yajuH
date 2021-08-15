@@ -2,5 +2,4 @@
 title = "०२ न त्वावां"
 
 +++
-न त्वावां॑ अ॒न्यो दि॒व्यो न पार्थि॑वो॒ न जा॒तो न ज॑निष्यते ।  
-अ॒श्वा॒यन्तो॑ मघवन्निन्द्र वा॒जिनो॑ ग॒व्यन्त॑स्त्वा हवामहे ॥२॥
+Send forth thy ray like Surya: let my songs attract thee hither- ward. Like waters gathering to the vale.

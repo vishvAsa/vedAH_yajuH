@@ -2,5 +2,4 @@
 title = "१३ रोहितो यज्ञस्य"
 
 +++
-रोहि॑तो य॒ज्ञस्य॑ जनि॒ता मुखं॑ च॒ रोहि॑ताय वा॒चा श्रोत्रे॑ण॒ मन॑सा जुहोमि ।  
-रोहि॑तं दे॒वा य॑न्ति सुमन॒स्यमा॑नाः॒ स मा॒ रोहैः॑ सामि॒त्यै रो॑हयतु ॥१३॥  
+Rohita is the sire and mouth of worship: to him with voice, ear, heart I pay oblation. To Rohita come Gods with joyful spirit. May he by risings raise me till I join him.

@@ -2,5 +2,4 @@
 title = "०३ यत् त्वा"
 
 +++
-यत् त्वा॑ शि॒क्वः प॒राव॑धी॒त् तक्षा॒ हस्ते॑न॒ वास्या॑ ।  
-आप॑स्त्वा॒ तस्म॑ज्जीव॒लाः पु॒नन्तु॒ शुच॑यः॒ शुचि॑म्॥३॥  
+What though the strong-armed carpenter have cleft thee with his hand and axe. Pure animating waters shall cleanse thee and make thee bright again.

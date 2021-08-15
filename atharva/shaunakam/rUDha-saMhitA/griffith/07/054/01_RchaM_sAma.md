@@ -2,5 +2,4 @@
 title = "०१ ऋचं साम"
 
 +++
-ऋचं॒ साम॑ यजामहे॒ याभ्यां॒ कर्मा॑णि कु॒र्वते॑ ।  
-ए॒ते सद॑सि राजतो य॒ज्ञं दे॒वेषु॑ यच्छतः ॥१॥  
+We worship holy Verse and Song, by which they carry out their acts, Shining in order's seat these twain present the sacrifice to Gods.

@@ -2,5 +2,4 @@
 title = "१५ प्राणमाहुर्मातरिश्वानं वातो"
 
 +++
-प्रा॒णमा॑हुर्मात॒रिश्वा॑नं॒ वातो॑ ह प्रा॒ण उ॑च्यते ।  
-प्रा॒णे ह॑ भू॒तं भव्यं॑ च प्रा॒णे सर्वं॑ प्रति॑ष्ठितम्॥१५॥  
+The name of Prana is bestowed on Matarisvan and on Wind. On Prana, past and future, yea, on Prana everything depends.

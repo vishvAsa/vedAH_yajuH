@@ -2,4 +2,4 @@
 title = "०३ इह त्वा"
 
 +++
-इ॒ह त्वा॒ गोप॑रीणसा म॒हे म॑न्दन्तु॒ राध॑से । सरो॑ गौ॒रो यथा॑ पिब ॥३॥  
+Here let them with rich milky draught cheer thee to great munificence: Drink as the wild bull drinks the lake.

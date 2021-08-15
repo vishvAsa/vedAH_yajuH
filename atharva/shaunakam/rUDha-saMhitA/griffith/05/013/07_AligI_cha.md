@@ -2,5 +2,4 @@
 title = "०७ आलिगी च"
 
 +++
-आलि॑गी च॒ विलि॑गी च पि॒ता च॑ माता॒ च॑ ।  
-वि॒द्म वः॑ स॒र्वतो॒ ब॑न्ध्वर॑साः॒ किं क॑रिष्यथ ॥७॥  
+And Aligi and Viligi, their father and the mother too,-- What will ye do? Your venomed sap, we know, is utterly powerless.

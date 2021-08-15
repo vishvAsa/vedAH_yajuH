@@ -2,6 +2,4 @@
 title = "२४ यथा यशः"
 
 +++
-यथा॒ यशः॑ प्र॒जाप॑तौ॒ यथा॒स्मिन् प॑र॒मेष्ठिनि॑ ।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु॒  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥२४॥  
+As glory dwelleth in the Lord of Life and in this God Supreme,. So may the Charm, etc.

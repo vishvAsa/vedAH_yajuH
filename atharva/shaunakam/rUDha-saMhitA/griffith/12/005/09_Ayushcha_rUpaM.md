@@ -2,4 +2,4 @@
 title = "०९ आयुश्च रूपं"
 
 +++
-आयु॑श्च रू॒पं च॒ नाम॑ च की॒र्तिश्च॑ प्रा॒णश्चा॑पा॒नश्च॒ चक्षु॑श्च॒ श्रोत्रं॑ च ॥९॥  
+Long life and goodly form, and name and fame, inbreathing and expiration, and sight, and hearing;

@@ -2,5 +2,4 @@
 title = "११ इन्द्रः कारुमबूबुधदुत्तिष्ठ"
 
 +++
-इन्द्रः॑ का॒रुम॑बूबुध॒दुत्ति॑ष्ठ॒ वि च॑रा॒ जन॑म्।  
-ममेदु॒ग्रस्य॒ चर्कृ॑धि॒ सर्व॒ इत् ते॑ पृणाद॒रिः ॥११॥  
+Indra hath waked the bard and said, Rise, wander singing here and there. Praise me, the strong: each pious man will give thee riches in return,

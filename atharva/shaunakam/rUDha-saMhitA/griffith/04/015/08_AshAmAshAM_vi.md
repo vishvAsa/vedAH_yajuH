@@ -2,5 +2,4 @@
 title = "०८ आशामाशां वि"
 
 +++
-आशा॑माशां॒ वि द्यो॑ततां॒ वाता॑ वान्तु दि॒शोदि॑शः ।  
-म॒रुद्भिः॒ प्रच्यु॑ता मे॒घाः सं य॑न्तु पृथि॒वीमनु॑ ॥८॥  
+Let lightning flash on every side: from all the regions blow the winds! Urged by the Maruts let the clouds pour down their rain upon the earth.

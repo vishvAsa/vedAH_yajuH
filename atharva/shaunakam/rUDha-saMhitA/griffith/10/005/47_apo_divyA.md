@@ -2,5 +2,4 @@
 title = "४७ अपो दिव्या"
 
 +++
-अ॒पो दि॒व्या अ॑चायिषं॒ रसे॑न॒ सम॑पृक्ष्महि ।  
-पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥४६॥  
+Give me the boon of splendid strength; give, Agni! progeny and life. May the Gods know this prayer of mine, may Indra with the Rishis know.

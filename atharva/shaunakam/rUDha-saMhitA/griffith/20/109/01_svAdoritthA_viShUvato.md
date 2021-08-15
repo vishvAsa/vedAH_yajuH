@@ -2,5 +2,4 @@
 title = "०१ स्वादोरित्था विषूवतो"
 
 +++
-स्वा॒दोरि॒त्था वि॑षू॒वतो॒ मध्वः॑ पिबन्ति गौ॒र्यः ।  
-या इन्द्रे॑ण स॒याव॑री॒र्वृष्णा॒ मद॑न्ति शो॒भसे॒ वस्वी॒रनु॑ स्व॒राज्य॑म्॥१॥  
+The juice of Soma thus diffused, sweet to the taste, the bright Cows drink Who for the sake of splendour close to mighty Indra's side rejoice, good in their own supremacy.

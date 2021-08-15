@@ -2,5 +2,4 @@
 title = "०२ पुनः पत्नीमग्निरदादायुषा"
 
 +++
-पुनः॒ पत्नी॑म॒ग्निर॑दा॒दायु॑षा स॒ह वर्च॑सा ।  
-दी॒र्घायु॑रस्या॒ यः पति॒र्जीवा॑ति श॒रदः॑ श॒तम्॥२॥  
+Agni hath given the bride again with splendour and a lengthened. life. Long-lived be he who is her lord: a hundred autumns let him live.

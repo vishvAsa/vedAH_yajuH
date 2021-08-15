@@ -2,4 +2,4 @@
 title = "०६ स्वस्त्य१द्योषसो दोषसश्च"
 
 +++
-स्व॒स्त्य॑१द्योषसो॑ दो॒षस॑श्च॒ सर्व॑ आपः॒ सर्व॑गणो अशीय ॥६॥  
+Propitious to-day be dawns and evenings. May I drink water with all my people safe around me.

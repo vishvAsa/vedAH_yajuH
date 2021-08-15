@@ -2,6 +2,4 @@
 title = "०३ शं ते"
 
 +++
-शं ते॒ वातो॑ अ॒न्तरि॑क्षे॒ वयो॑ धा॒च्छं ते॑ भवन्तु प्र॒दिश॒श्चत॑स्रः ।  
-ए॒वाहं त्वां क्षे॑त्रि॒या॑न्निरृ॑त्या जामिशं॒साद् द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥३॥  
+May kind Wind strengthen thee in air's mid-region, to thee may heaven's four quarters be auspicious. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's curse I thus release thee.

@@ -2,5 +2,4 @@
 title = "२५ पूताः पवित्रैः"
 
 +++
-पू॒ताः प॒वित्रैः॑ पवन्ते अ॒भ्राद् दिवं॑ च॒ यन्ति॑ पृथि॒वीं च॑ लो॒कान्।  
-ता जी॑व॒ला जी॒वध॑न्याः प्रति॒ष्ठाः पात्र॒ आसि॑क्ताः॒ पर्य॒ग्निरि॑न्धाम्॥२५॥  
+Drops flow, made pure by filters, from the rain-cloud: to heaven and earth and to the worlds they travel, May Indra light them up, poured in the vessel, lively and sted- fast, quickening living creatures.

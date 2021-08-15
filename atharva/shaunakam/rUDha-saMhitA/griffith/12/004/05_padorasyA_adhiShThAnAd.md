@@ -2,5 +2,4 @@
 title = "०५ पदोरस्या अधिष्ठानाद्"
 
 +++
-प॒दोर॑स्या अधि॒ष्ठाना॑द् वि॒क्लिन्दु॒र्नाम॑ विन्दति ।  
-अ॒ना॒म॒नात् सं शी॑र्यन्ते॒ या मुखे॑नोप॒जिघ्र॑ति ॥५॥  
+The malady Viklindu springs on him from ground whereon she stands, And suddenly, from fell disease, perish the men on whom she sniffs.

@@ -2,4 +2,4 @@
 title = "०४ यदेनमाह व्रात्योदकमित्यप"
 
 +++
-यदे॑न॒माह॒ व्रात्यो॑द॒कमित्य॒प ए॒व तेनाव॑ रुन्द्धे ॥४॥  
+When he says to him, Here is water, he secures thereby water for himself.

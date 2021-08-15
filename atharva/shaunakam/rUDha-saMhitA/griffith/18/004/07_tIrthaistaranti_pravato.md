@@ -2,5 +2,4 @@
 title = "०७ तीर्थैस्तरन्ति प्रवतो"
 
 +++
-ती॒र्थैस्त॑रन्ति प्र॒वतो॑ म॒हीरिति॑ यज्ञ॒कृतः॑ सु॒कृतो॒ येन॒ यन्ति॑ ।  
-अत्रा॑दधु॒र्यज॑मानाय लो॒कं दिशो॑ भू॒तानि॒ यदक॑ल्पयन्त ॥७॥  
+They ford the mighty rivers by the pathway which they who sacrifice, the righteous, travel. There they gave room unto the sacrificer when they made regions and existing creatures.

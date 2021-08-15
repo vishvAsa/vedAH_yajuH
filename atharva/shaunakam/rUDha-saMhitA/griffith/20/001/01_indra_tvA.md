@@ -2,4 +2,4 @@
 title = "०१ इन्द्र त्वा"
 
 +++
-इन्द्र॑ त्वा वृष॒भं व॒यं सु॒ते सोमे॑ हवामहे । स पा॑हि॒ मध्वो॒ अन्ध॑सः ॥१॥  
+Thee, Indra, we invoke, the Bull, what time the Soma hath been pressed. Drink of the sweetly-flavoured juice.

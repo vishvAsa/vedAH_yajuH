@@ -2,5 +2,4 @@
 title = "०८ पूर्णं नारि"
 
 +++
-पू॒र्णं ना॑रि॒ प्र भ॑र कु॒म्भमे॒तं घृ॒तस्य॒ धारा॑म॒मृते॑न॒ संभृ॑ताम्।  
-इ॒मां पा॒तॄन॒मृते॑ना॒ सम॑ङ्ग्धीष्टापू॒र्तम॒भि र॑क्षात्येनाम्॥८॥  
+Bring hitherward, O dame, the well-filled pitcher, the stream of molten butter blent with nectar. Bedew these drinkers with a draught of Amrit. May all our hopes' fulfilment guard this dwelling.

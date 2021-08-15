@@ -2,5 +2,4 @@
 title = "०१ यद् गायत्रे"
 
 +++
-यद् गा॑य॒त्रे अधि॑ गाय॒त्रमाहि॑तं॒ त्रैष्टु॑भं वा॒ त्रैष्टु॑भान्नि॒रत॑क्षत ।  
-यद् वा॒ जग॒ज्जग॒त्याहि॑तं प॒दं य इत् तद् वि॒दुस्ते अ॑मृत॒त्वमा॑नशुः ॥१॥  
+How on the Gayatri the Gayatri was based; how from the Trishtup they fashioned the Trishtup forth: How on the Jagati was based the Jagati--they who know this have won themselves immortal life.

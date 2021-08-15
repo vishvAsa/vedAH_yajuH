@@ -2,5 +2,4 @@
 title = "१७ अर्यमणं यजामहे"
 
 +++
-अ॒र्य॒मणं॑ यजामहे सुब॒न्धुं प॑ति॒वेद॑नम्।  
-उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑ना॒त् प्रेतो मु॑ञ्चामि॒ नामुतः॑ ॥१७॥  
+Worship we pay to Aryaman, finder of husbands, kindly friend. As from its stalk a cucumber, from here I loose thee, not from there

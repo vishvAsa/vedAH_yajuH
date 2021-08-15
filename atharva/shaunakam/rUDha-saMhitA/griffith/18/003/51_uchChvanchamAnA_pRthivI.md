@@ -2,5 +2,4 @@
 title = "५१ उच्छ्वञ्चमाना पृथिवी"
 
 +++
-उ॒च्छ्वञ्च॑माना पृथि॒वी सु ति॑ष्ठतु स॒हस्रं॒ मित॒ उप॒ हि श्रय॑न्ताम्।  
-ते गृ॒हासो॑ घृत॒श्चुतः॑ स्यो॒ना वि॒श्वाहा॑स्मै शर॒णाः स॒न्त्वत्र॑ ॥५१॥  
+Now let the heaving earth be free from motion: yea, let a thousand clods remain above him. Be they to him a home distilling fatness: here let them ever be his place of refuge.

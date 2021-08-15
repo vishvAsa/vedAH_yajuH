@@ -2,5 +2,4 @@
 title = "१४ सर्वे देवा"
 
 +++
-सर्वे॑ दे॒वा अ॒त्याय॑न्ति॒ ये अ॒श्नन्ति॒ वष॑ट् कृतम् ।  
-इ॒मां जु॑षध्व॒माहु॑तिमि॒तो ज॑यत॒ मामुतः॑ ॥१४॥  
+Over to us come all the Gods who eat the hallowed sacrifice With this oblation be ye pleased: conquer on this side, not on that.

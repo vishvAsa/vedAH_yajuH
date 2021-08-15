@@ -2,5 +2,4 @@
 title = "४२ एकपदी द्विपदी"
 
 +++
-एक॑पदी द्वि॒पदी॒ सा चतु॑ष्पद्य॒ष्टाप॑दी॒ नव॑पदी बभू॒वुषी॑ ।  
-स॒हस्रा॑क्षरा॒ भुव॑नस्य प॒ङ्क्तिस्तस्याः॑ समु॒द्रा अधि॒ वि क्ष॑रन्ति ॥४२॥  
+She hath become one-footed or two-footed, four-footed, or eight-footed or nine-footed, This universe's thousand-syllabled Pankti Oceans flow forth from her in all directions.

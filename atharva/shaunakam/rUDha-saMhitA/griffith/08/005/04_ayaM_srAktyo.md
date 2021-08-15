@@ -2,5 +2,4 @@
 title = "०४ अयं स्राक्त्यो"
 
 +++
-अ॒यं स्रा॒क्त्यो म॒णिः प्र॑तीव॒र्तः प्र॑तिस॒रः ।  
-ओज॑स्वान् विमृ॒धो व॒शी सो अ॒स्मान् पा॑तु स॒र्वतः॑ ॥४॥  
+May this encircling magic cord, this Amulet of Sraktya wood, Mighty, subduing enemies, keep us secure on every side.

@@ -2,5 +2,4 @@
 title = "०१ पञ्च च"
 
 +++
-पञ्च॑ च॒ याः प॑ञ्चा॒शच्च॑ सं॒यन्ति॒ मन्या॑ अ॒भि।  
-इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥१॥  
+May all the five-and-fifty which meet round the tendons of the neck. Depart and vanish hence away like plaguing insects buzz and hum!

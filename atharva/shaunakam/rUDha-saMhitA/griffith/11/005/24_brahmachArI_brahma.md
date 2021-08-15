@@ -2,5 +2,4 @@
 title = "२४ ब्रह्मचारी ब्रह्म"
 
 +++
-ब्र॒ह्म॒चा॒री ब्रह्म॒ भ्राज॑द् बिभर्ति॒ तस्मि॑न् दे॒वा अधि॒ विश्वे॑ स॒मोताः॑ ।  
-प्रा॒णा॒पा॒नौ ज॒नय॒न्नाद् व्या॒नं वाचं॒ मनो॒ हृद॑यं॒ ब्रह्म॑ मे॒धाम्॥२४॥  
+The Brahmachari wields the radiant Brahma wherein all Gods are woven close together; Creating breath, inhaling and exhaling, voice, mind, and heart, Brahma and holy wisdom.

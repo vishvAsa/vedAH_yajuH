@@ -2,5 +2,4 @@
 title = "०४ बृहस्पतिर्म आकूतिमाङ्गिरसः"
 
 +++
-बृह॒स्पति॑र्म॒ आकू॑तिमाङ्गिर॒सः प्रति॑ जानातु॒ वाच॑मे॒ताम्।  
-यस्य॑ दे॒वा दे॒वताः॑ संबभू॒वुः स सु॒प्रणी॑ताः॒ कामो॒ अन्वे॑त्व॒स्मान्॥४॥
+Prajapati Angirasa with favour regard this word and this my settled purpose! May he, whence Gods and Deities had being Kama attend us with his gentle guidance.

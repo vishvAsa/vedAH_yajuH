@@ -2,5 +2,4 @@
 title = "२५ अनपत्यमल्पपशुं वशा"
 
 +++
-अ॒न॒प॒त्यमल्प॑पशुं व॒शा कृ॑णोति॒ पूरु॑षम्।  
-ब्रा॒ह्म॒णैश्च॑ याचि॒तामथै॑नां निप्रिया॒यते॑ ॥२५॥  
+The Cow deprives of progeny and makes him poor in cattle who Retains in his possession her whom Brahmans have solicited.

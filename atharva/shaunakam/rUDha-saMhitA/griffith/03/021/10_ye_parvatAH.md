@@ -2,5 +2,4 @@
 title = "१० ये पर्वताः"
 
 +++
-ये पर्व॑ताः॒ सोम॑पृष्ठा॒ आप॑ उत्तान॒शीव॑रीः ।  
-वातः॑ प॒र्जन्य॒ आद॒ग्निस्ते क्र॒व्याद॑मशीशमन्॥१०॥
+The mountains where the Soma grows, the waters lying calm and still, Vata, Parjanya, Agni's self have made the Flesh-consumer rest.

@@ -2,5 +2,4 @@
 title = "०१ प्रजापतिष्ट्वा बध्नात्"
 
 +++
-प्र॒जाप॑तिष्ट्वा बध्नात् प्रथ॒ममस्तृ॑तं वी॒र्याय॒ कम्।  
-तत् ते॑ बध्ना॒म्यायु॑षे॒ वर्च॑स॒ ओज॑से च॒ बला॑य॒ चास्तृ॑तस्त्वा॒भि र॑क्षतु ॥१॥  
+For manly strength Prajapati bound thee on first, invincible. This for long life on thee I bind for splendour, strength, and energy. Invincible, let it guard thee well.

@@ -2,5 +2,4 @@
 title = "०५ अघमस्त्वघकृते शपथः"
 
 +++
-अघम॑स्त्वघ॒कृते॑ श॒पथः॑ शपथीय॒ते।  
-प्र॒त्यक् प्र॑ति॒प्रहि॑ण्मो॒ यथा॑ कृत्या॒कृतं॒ हन॑त्॥५॥  
+Ill fall on him who doeth ill, on him who curseth fall the curse! We drive her back that she may slay the man who wrought the witchery.

@@ -2,4 +2,4 @@
 title = "०७ यज्ञर्तो दक्षिणीयो"
 
 +++
-य॒ज्ञर्तो॑ दक्षि॒णीयो॒ वास॑तयो भवति॒ य ए॒वं वेद॑ ॥७॥  
+She mounted up, she entered Consultation. Whoso knows this is fit to be consulted, and to his consultation come the people.

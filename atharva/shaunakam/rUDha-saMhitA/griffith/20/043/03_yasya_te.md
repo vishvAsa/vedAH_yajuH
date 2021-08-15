@@ -2,4 +2,4 @@
 title = "०३ यस्य ते"
 
 +++
-यस्य॑ ते वि॒श्वमा॑नुषो॒ भूरे॑र्द॒त्तस्य॒ वेद॑ति । वसु॑ स्पा॒र्हं तदा भ॑र ॥३॥
+Great riches which the world of men shall recognize as sent by thee: Bring us the wealth for which we long,

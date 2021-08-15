@@ -2,5 +2,4 @@
 title = "०१ अयोजाला असुरा"
 
 +++
-अयो॑जाला॒ असु॑रा मा॒यिनो॑ऽय॒स्मयैः॒ पाशै॑र॒ङ्किनो॒ ये चर॑न्ति ।  
-तांस्ते॑ रन्धयामि॒ हर॑सा जातवेदः स॒हस्र॑ऋष्टिः स॒पत्ना॑न् प्रमृ॒णन् पा॑हि॒ वज्रः॑ ॥१॥
+The Asuras with iron nets, magicians, who roam about with hooks and bonds of iron, With wrath I make thy thralls, O Jatavedas. Come as a bolt foe- quelling, thousand pointed.

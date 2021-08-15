@@ -2,5 +2,4 @@
 title = "०४ परि धत्त"
 
 +++
-परि॑ धत्त ध॒त्त नो॒ वर्च॑से॒मं ज॒रामृ॑त्युं कृणुत दी॒र्घमायुः॑ ।  
-बृह॒स्पतिः॒ प्राय॑च्छ॒द् वास॑ ए॒तत् सोमा॑य॒ राज्ञे॒ परि॑धात॒वा उ॑ ॥४॥  
+For us, surround him, cover him with splendour, give him long life, and death when age removes him. This garment hath Brihaspati presented to Soma, to the King, to wrap about him.

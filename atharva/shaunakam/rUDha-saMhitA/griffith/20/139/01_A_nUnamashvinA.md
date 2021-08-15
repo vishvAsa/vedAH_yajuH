@@ -2,5 +2,4 @@
 title = "०१ आ नूनमश्विना"
 
 +++
-आ नू॒नम॑श्विना यु॒वं व॒त्सस्य॑ गन्त॒मव॑से ।  
-प्रास्मै॑ यच्छतमवृ॒कं पृ॒थु च्छ॒र्दिर्यु॑यु॒तं या अरा॑तयः ॥१॥  
+To help and favour Vatsa now, O Asvins, come ye hitherward. Bestow on him a dwelling spacious and secure, and keep malig- nites afar.

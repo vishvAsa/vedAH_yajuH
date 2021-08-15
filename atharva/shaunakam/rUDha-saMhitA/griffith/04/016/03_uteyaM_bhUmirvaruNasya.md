@@ -2,5 +2,4 @@
 title = "०३ उतेयं भूमिर्वरुणस्य"
 
 +++
-उ॒तेयं भूमि॒र्वरु॑णस्य॒ राज्ञ॑ उ॒तासौ द्यौर्बृ॑ह॒ती दू॒रेअ॑न्ता ।  
-उ॒तो स॑मु॒द्रौ वरु॑णस्य कु॒क्षी उ॒तास्मिन्नल्प॑ उद॒के निली॑नः ॥३॥  
+This earth, too, is King Varuna's possession, and the high heaven whose ends are far asunder. The loins of Varuna are both the oceans, and this small drop of water, too, contains him.

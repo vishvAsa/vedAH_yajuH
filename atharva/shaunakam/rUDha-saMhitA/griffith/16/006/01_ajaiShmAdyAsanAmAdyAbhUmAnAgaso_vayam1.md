@@ -2,4 +2,4 @@
 title = "०१ अजैष्माद्यासनामाद्याभूमानागसो वयम्१"
 
 +++
-अजै॑ष्मा॒द्यास॑नामा॒द्याभू॒माना॑गसो व॒यम्॥१॥  
+Now have we conquered and obtained: we have been freed from sin to-day.

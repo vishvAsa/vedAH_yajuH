@@ -2,5 +2,4 @@
 title = "०६ तवेदं विश्वमभितः"
 
 +++
-तवे॒दं विश्व॑म॒भितः॑ पश॒व्यं॑१ यत् पश्य॑सि॒ चक्ष॑सा॒ सूर्य॑स्य ।  
-गवा॑मसि॒ गोप॑ति॒रेक॑ इन्द्र भक्षी॒महि॑ ते॒ प्रय॑तस्य॒ वस्वः॑ ॥६॥  
+Thine is this world of flocks and herds around thee, which with the eye of Surya thou beholdest. Thou, Indra, art alone the Lord of cattle: may we enjoy the treasure which thou givest.

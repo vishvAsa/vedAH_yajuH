@@ -2,5 +2,4 @@
 title = "०२ यो अग्रतो"
 
 +++
-यो अ॑ग्र॒तो रो॑च॒नानां॑ समु॒द्रादधि॑ जज्ञि॒षे।  
-श॒ङ्खेन॑ ह॒त्वा रक्षां॑स्य॒त्त्रिणो॒ वि ष॑हामहे ॥२॥  
+Shell that wast born from out the sea, set at the head of things that shine! With thee we slay the Rakshasas and overcome voracious fiends.

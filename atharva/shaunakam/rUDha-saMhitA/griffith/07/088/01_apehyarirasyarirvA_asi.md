@@ -2,5 +2,4 @@
 title = "०१ अपेह्यरिरस्यरिर्वा असि"
 
 +++
-अपे॒ह्यरि॑र॒स्यरि॒र्वा अ॑सि। वि॒षे वि॒षम॑पृक्था वि॒षमिद् वा अ॑पृक्थाः ।  
-अहि॑मे॒वाभ्यपे॑हि॒ तं ज॑हि ॥१॥
+Depart! thou art a foe, a foe. Poison with poison hast thou mixt, yea, verily poison hast thou mixt. Go to the serpent: strike him dead.

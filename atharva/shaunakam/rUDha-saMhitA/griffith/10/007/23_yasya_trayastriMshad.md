@@ -2,5 +2,4 @@
 title = "२३ यस्य त्रयस्त्रिंशद्"
 
 +++
-यस्य॒ त्रय॑स्त्रिंशद् दे॒वा नि॒धिं रक्ष॑न्ति सर्व॒दा।  
-नि॒धिं तम॒द्य को वे॑द॒ यं दे॑वा अभि॒रक्ष॑थ ॥२३॥  
+Whose secret treasure evermore the three-and thirty Gods protect? Who knoweth now the treasure which, O Deities ye watch and guard?

@@ -2,5 +2,4 @@
 title = "०४ स्व१र्यद् वेदि"
 
 +++
-स्व॑१र्यद् वेदि॑ सु॒दृशी॑कम॒र्कैर्महि॒ ज्योती॑ रुरुचु॒र्यद्ध॒ वस्तोः॑ ।  
-अ॒न्धा तमां॑सि॒ दुधि॑ता वि॒चक्षे॒ नृभ्य॑श्चकार॒ नृत॑मो अ॒भिष्टौ॑ ॥४॥  
+When heaven's fair light by hymns was made apparent. (they made great splendour shine at break of morning), He with his succour, best of heroes, scattered the blinding dark- ness so that men saw clearly.

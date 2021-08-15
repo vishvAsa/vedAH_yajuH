@@ -2,5 +2,4 @@
 title = "३२ स्वधाकारेण पितृभ्यो"
 
 +++
-स्व॒धा॒का॒रेण॑ पि॒तृभ्यो॑ य॒ज्ञेन॑ दे॒वता॑भ्यः ।  
-दाने॑न राज॒न्योऽ व॒शाया॑ मा॒तुर्हेडं॒ न ग॑च्छति ॥३२॥  
+By Svadha to the Fathers, by sacrifice to the Deities, By giving them the Cow, the Prince doth not incur the mother's. wrath.

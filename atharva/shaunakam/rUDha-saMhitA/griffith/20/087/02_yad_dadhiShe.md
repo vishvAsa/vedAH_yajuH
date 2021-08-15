@@ -2,5 +2,4 @@
 title = "०२ यद् दधिषे"
 
 +++
-यद् द॑धि॒षे प्र॒दिवि॒ चार्वन्नं॑ दि॒वेदि॑वे पी॒तिमिद॑स्य वक्षि ।  
-उ॒त हृ॒दोत मन॑सा जुषा॒ण उ॒शन्नि॑न्द्र॒ प्रस्थि॑तान् पाहि॒ सोमा॑न्॥२॥  
+Thou dost desire to drink, each day that passes, the pleasant food which thou hast had aforetime. O Indra, gratified in heart and spirit, drink eagerly the Soma set before thee.

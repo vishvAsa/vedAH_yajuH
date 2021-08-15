@@ -2,4 +2,4 @@
 title = "०१ जितमस्माकमुद्भिन्नमस्माकमृतमस्माकं तेजोऽस्माकं"
 
 +++
-जि॒तम॒स्माक॒मुद्भि॑न्नम॒स्माक॑मृ॒तम॒स्माकं॒ तेजो॒ऽस्माकं॒ ब्रह्मा॒स्माकं॒ स्वऽर॒स्माकं॑ य॒ज्ञो॒३ऽस्माकं॑ प॒शवो॒ऽस्माकं॑ प्र॒जा अ॒स्माकं॑ वी॒रा अ॒स्माक॑म्॥१॥ १  
+Whatever we have gained, whatever hath accrued to us, our Right, our energy, our Devotion, our heavenly light, our sacrifice, our domestic animals, our offspring, our men,--from all share herein we exclude Such-an-one, descendant of Such- an-one, son of Such-a-woman. Let him not be freed from the noose of Grahi. Here I bind up his splendour, his energy, his vital breath, his life, and cast him down beneath me.

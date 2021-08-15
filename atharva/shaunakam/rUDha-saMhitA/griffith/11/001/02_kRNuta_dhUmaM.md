@@ -2,5 +2,4 @@
 title = "०२ कृणुत धूमं"
 
 +++
-कृ॒णु॒त धू॒मं वृ॑षणः सखा॒योऽद्रो॑घाविता॒ वाच॒मच्छ॑ ।  
-अ॒यम॒ग्निः पृ॑तना॒षाट् सु॒वीरो॑ येन॑ दे॒वा अस॑हन्त॒ दस्यू॑न्॥२॥  
+Raise, as I bid, the smoke, my strong companions, lovers of free- dom from deceit and malice! Victor in fight heroic, here is Agni by whom the Gods subdued the hostile demons.

@@ -2,5 +2,4 @@
 title = "१७ सर्वे देवा"
 
 +++
-सर्वे॑ दे॒वा उपा॑शिक्ष॒न् तद॑जानाद् व॒धूः स॒ती।  
-ई॒शा वश॑स्य॒ या जा॒या सास्मि॒न् वर्ण॒माभ॑रत्॥१७॥  
+All Deities had lent their aid: of this a noble Dame took note, Tsa, the Consort of Command. She gave its colour to the form.

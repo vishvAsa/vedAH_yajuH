@@ -2,5 +2,4 @@
 title = "०३ उदिन्न्वस्य रिच्यतेंऽशो"
 
 +++
-उदिन्न्व॑स्य रिच्य॒तेंऽशो धनं॒ न जि॒ग्युषः॑ ।  
-य इन्द्रो॒ हरि॑वा॒न्न द॑भन्ति॒ तं रिपो॒ दक्षं॑ दधाति सो॒मिनि॑ ॥३॥  
+His portion is exceeding great, like a victorious soldier's spoil. Him who is Indra, Lord of Bays, no foes subdue. He gives the Soma-pourer strength.

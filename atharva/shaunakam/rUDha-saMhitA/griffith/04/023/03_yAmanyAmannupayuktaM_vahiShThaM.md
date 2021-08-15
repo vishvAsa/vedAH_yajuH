@@ -2,5 +2,4 @@
 title = "०३ यामन्यामन्नुपयुक्तं वहिष्ठं"
 
 +++
-याम॑न्याम॒न्नुप॑युक्तं॒ वहि॑ष्ठं॒ कर्म॑न्कर्म॒न्नाभ॑गम् ।  
-अ॒ग्निमी॑डे र॒क्षो॒हणं॑ यज्ञ॒वॄधं॑ घृ॒ताहु॑तं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥३॥  
+I pray to Agni in each act successful, employed in every sacrifice, the strongest, Fiend-slayer, served with fatness, strengthening worship. May he deliver us from grief and trouble.

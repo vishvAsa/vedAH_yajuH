@@ -2,5 +2,4 @@
 title = "२८ इदं मे"
 
 +++
-इ॒दं मे॒ ज्योति॑र॒मृतं॒ हिर॑ण्यं प॒क्वं क्षेत्रा॑त् काम॒दुघा॑ म ए॒षा।  
-इ॒दं ध॒नं नि द॑धे ब्राह्म॒णेषु॑ कृ॒ण्वे पन्थां॑ पि॒तृषु॒ यः स्व॒र्गः ॥२८॥  
+Here is my gold, a light immortal: ripened grain from the field this Cow of Plenty give me! This wealth I place among the Brahmans, making a path that leads to heaven among the Fathers.

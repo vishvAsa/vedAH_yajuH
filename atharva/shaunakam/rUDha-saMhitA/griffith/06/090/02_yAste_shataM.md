@@ -2,5 +2,4 @@
 title = "०२ यास्ते शतं"
 
 +++
-यास्ते॑ श॒तं ध॒मन॒योऽङ्गा॒न्यनु॒ विष्ठि॑ताः ।  
-तासां॑ ते॒ सर्वा॑सां व॒यं निर्वि॒षाणि॑ ह्वयामसि ॥२॥  
+From all the hundred vessels spread throughout the members of thy frame. From all those vessels and canals we call the poisonous matter forth.

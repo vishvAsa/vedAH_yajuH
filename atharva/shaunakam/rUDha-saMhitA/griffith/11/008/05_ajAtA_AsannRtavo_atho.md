@@ -2,5 +2,4 @@
 title = "०५ अजाता आसन्नृतवोऽथो"
 
 +++
-अजा॑ता आसन्नृ॒तवोऽथो॑ धा॒ता बृह॒स्पतिः॑ ।  
-इ॒न्द्रा॒ग्नी अ॒श्विना॒ तर्हि॒ कं ते ज्ये॒ष्ठमुपा॑सत ॥५॥  
+As yet the Seasons were unborn, and Dilator and Prajapati, Both Asvins, Indra, Agni. Whom then did they worship as supreme?

@@ -2,5 +2,4 @@
 title = "०२ क्लीबं कृध्योपशिनमथो"
 
 +++
-क्ली॒बं कृ॑ध्योप॒शिन॒मथो॑ कुरी॒रिणं॑ कृधि ।  
-अथा॒स्येन्द्रो॒ ग्राव॑भ्यामु॒भे भि॑नत्त्वा॒ण्ड्यौऽ॥२॥  
+Make him a eunuch with a horn, set thou the crest upon his- head. Let Indra with two pressing-stones deprive him of his manly strength.

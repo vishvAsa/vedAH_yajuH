@@ -2,5 +2,4 @@
 title = "०३ यातुधानस्य सोमप"
 
 +++
-या॒तु॒धान॑स्य सोमप ज॒हि प्र॒जां नय॑स्व च ।  
-नि स्तु॑वा॒नस्य॑ पातय॒ पर॒मक्ष्यु॒ताव॑रम्॥३॥  
+O Soma-drinker, strike and bring the Yatudhana's progeny: Make the confessing sinner's eyes fall from his head, both right and left.

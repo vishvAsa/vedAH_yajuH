@@ -2,5 +2,4 @@
 title = "०९ यस्त्वा शाले"
 
 +++
-यस्त्वा॑ शाले प्रतिगृ॒ह्णाति॒ येन॒ चासि॑ मि॒ता त्वम्।  
-उ॒भौ मा॑नस्य पत्नि॒ तौ जीव॑तां ज॒रद॑ष्टी ॥९॥  
+The man who takes thee as his own, and he who was thy builder,. House! Both these, O Lady of the Home, shall live to long-extended' years.

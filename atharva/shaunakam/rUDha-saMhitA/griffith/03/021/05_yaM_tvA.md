@@ -2,5 +2,4 @@
 title = "०५ यं त्वा"
 
 +++
-यं त्वा॒ होता॑रं॒ मन॑सा॒भि सं॑वि॒दुस्त्रयो॑दश भौव॒नाः पञ्च॑ मान॒वाः ।  
-व॒र्चो॒धसे॑ य॒शसे॑ सू॒नृता॑वते॒ तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत्॥५॥  
+To thee, strength-giver, glorious, rich in pleasant strains, whom. in their minds the thirteen creatures of the world, And the five sons of man regard as Hotar-priest--to all these- Fires be this oblation offered.

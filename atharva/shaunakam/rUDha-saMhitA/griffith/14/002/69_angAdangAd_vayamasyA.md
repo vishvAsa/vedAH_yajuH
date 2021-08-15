@@ -2,6 +2,4 @@
 title = "६९ अङ्गादङ्गाद् वयमस्या"
 
 +++
-अङ्गा॑द॒ङ्गाद् व॒यम॒स्या अप॒ यक्ष्मं॒ नि द॑ध्मसि ।  
-तन्मा प्राप॑त् पृथि॒वीं मोत दे॒वान् दिवं॒ मा प्राप॑दु॒र्व॑१न्तरि॑क्षम्।  
-अ॒पो मा प्राप॒न्मल॑मे॒तद॑ग्ने य॒मं मा प्राप॑त् पि॒तॄंश्च॒ सर्वा॑न्॥६९॥  
+We take away consumption from each limb and member of the bride. Let not this reach Earth, nor the Gods in heaven, let it not reach the sky or air's wide region. Let not this dust that sullies reach the Waters, nor Yama, Agni, nor the host of Fathers.

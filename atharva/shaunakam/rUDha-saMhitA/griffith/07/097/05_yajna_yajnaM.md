@@ -2,5 +2,4 @@
 title = "०५ यज्ञ यज्ञं"
 
 +++
-यज्ञ॑ य॒ज्ञं ग॑च्छ य॒ज्ञप॑तिं गच्छ ।  
-स्वां योनिं॑ गच्छ॒ स्वाहा॑ ॥५॥  
+Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Svaha.

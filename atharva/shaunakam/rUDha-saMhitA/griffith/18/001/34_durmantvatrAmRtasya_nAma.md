@@ -2,5 +2,4 @@
 title = "३४ दुर्मन्त्वत्रामृतस्य नाम"
 
 +++
-दु॒र्मन्त्वत्रा॒मृत॑स्य॒ नाम॒ सल॑क्ष्मा॒ यद् विषु॑रूपा॒ भवा॑ति ।
-य॒मस्य॒ यो म॒नव॑ते सु॒मन्त्वग्ने॒ तमृ॑ष्व पा॒ह्यप्र॑युच्छन्॥३४॥
+'Tis hard to understand the Immortal's nature, where she who is akin becomes a stranger. Guard ceaselessly, great Agni, him who ponders Yama's name easy to be comprehended.

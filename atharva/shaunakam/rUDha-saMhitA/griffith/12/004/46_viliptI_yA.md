@@ -2,5 +2,4 @@
 title = "४६ विलिप्ती या"
 
 +++
-वि॒लि॒प्ती या बृ॑हस्प॒तेऽथो॑ सू॒तव॑शा व॒शा।  
-तस्या॒ नाश्नी॑या॒दब्रा॑ह्मणो॒ य आ॒शंसे॑त॒ भूत्या॑म्॥४६॥  
+Vilipti, O Brihaspati, cow, mother of no second calf--Of these none not a Brahman should eat if he hope for eminence.

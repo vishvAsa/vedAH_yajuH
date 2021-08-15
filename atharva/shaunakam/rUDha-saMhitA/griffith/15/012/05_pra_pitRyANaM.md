@@ -2,4 +2,4 @@
 title = "०५ प्र पितृयाणं"
 
 +++
-प्र पि॑तृ॒याणं॒ पन्थां॑ जानाति॒ प्र दे॑व॒यान॑म्॥५॥  
+Well knows the path that leads to the Fathers and the way that. leads to the Gods.

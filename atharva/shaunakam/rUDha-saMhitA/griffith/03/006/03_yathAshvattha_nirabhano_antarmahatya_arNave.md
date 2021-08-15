@@ -2,5 +2,4 @@
 title = "०३ यथाश्वत्थ निरभनोऽन्तर्महत्यऽर्णवे"
 
 +++
-यथा॑श्वत्थ नि॒रभ॑नो॒ऽन्तर्म॑ह॒त्यऽर्ण॒वे।  
-ए॒वा तान्त्सर्वा॒न् निर्भ॑ङ्ग्धि॒ यान॒हं द्वेष्मि॒ ये च॒ माम्॥३॥  
+As thou hast rent and torn apart, Asvattha! in the mighty sea, So rend asundar all those men who hate me and whom I detest.

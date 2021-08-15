@@ -2,5 +2,4 @@
 title = "१७ यस्मिन् देवा"
 
 +++
-यस्मि॑न् दे॒वा अमृ॑जत॒ यस्मि॑न् मनु॒ष्याऽ उ॒त।  
-तस्मि॑न् घृत॒स्तावो॑ मृ॒ष्ट्वा त्वम॑ग्ने॒ दिवं॑ रुह ॥१७॥  
+Whereon the Deities, whereon men too have purified themselves, Exalting fatness, cleanse thyself, Agni, therein and mount to heaven.

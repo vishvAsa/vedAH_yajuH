@@ -2,5 +2,4 @@
 title = "०४ द्वादश प्रधयश्चक्रमेकं"
 
 +++
-द्वाद॑श प्र॒धय॑श्च॒क्रमेकं॒ त्रीणि॒ नभ्या॑नि॒ क उ॒ तच्चि॑केत ।  
-तत्राह॑ता॒स्त्रीणि॑ श॒तानि॑ श॒ङ्कवः॑ ष॒ष्टिश्च॒ खीला॒ अवि॑चाचला॒ ये॥४॥  
+One is the wheel, the tires are twelve in number, the naves are three What man hath understood it? Three hundred spokes have thereupon been hammered, and sixty pins set firmly in their places.

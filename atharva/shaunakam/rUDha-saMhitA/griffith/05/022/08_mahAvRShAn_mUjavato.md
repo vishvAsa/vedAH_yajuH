@@ -2,5 +2,4 @@
 title = "०८ महावृषान् मूजवतो"
 
 +++
-म॒हा॒वृ॒षान् मूज॑वतो॒ बन्ध्व॑द्धि प॒रेत्य॑ ।  
-प्रैतानि॑ त॒क्मने॑ ब्रूमो अन्यक्षे॒त्राणि॒ वा इ॒मा॥८॥  
+Go hence and eat thy kinsmen the Mahavrishas and Mujavans. These or those foreign regions we proclaim to Fever for his home.

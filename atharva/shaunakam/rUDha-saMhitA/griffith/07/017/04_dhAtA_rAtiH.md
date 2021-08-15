@@ -2,5 +2,4 @@
 title = "०४ धाता रातिः"
 
 +++
-धा॒ता रा॒तिः स॑वि॒तेदं जु॑षन्तां प्र॒जाप॑तिर्नि॒धिप॑तिर्नो अ॒ग्निः ।  
-त्वष्टा॒ विष्णुः॑ प्र॒जया॑ संररा॒णो यज॑मानाय॒ द्रवि॑णं दधातु ॥४॥
+May this our gift please Savitar, Rati, Dhatar, Prajapati, and Agni Lord of Treasures. May Tvashtar, Vishnu, blessing him with children, give store ot riches to the sacrificer.

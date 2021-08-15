@@ -2,4 +2,4 @@
 title = "१४ गिरा वज्रो"
 
 +++
-गि॒रा वज्रो॒ न संभृ॑तः॒ सब॑लो॒ अन॑पच्युतः । व॒व॒क्ष ऋ॒ष्वो अस्तृ॑तः ॥१४॥
+By song, as 'twere, the powerful bolt which none may parry was prepared: Lofty, invincible he grew.

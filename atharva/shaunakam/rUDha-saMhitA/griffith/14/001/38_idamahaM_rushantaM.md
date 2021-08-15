@@ -2,5 +2,4 @@
 title = "३८ इदमहं रुशन्तं"
 
 +++
-इ॒दम॒हं रुश॑न्तं ग्रा॒भं त॑नू॒दूषि॒मपो॑हामि ।  
-यो भ॒द्रो रो॑च॒नस्तमुद॑चामि ॥३८॥  
+I cast away a handful here, hurtful, injurious to health. I lift another handful up, sparkling and bringing happiness.

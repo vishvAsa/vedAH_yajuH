@@ -2,4 +2,4 @@
 title = "४५ अवास्तुमेनमस्वगमप्रजसं करोत्यपरापरणो"
 
 +++
-अ॒वा॒स्तुमे॑न॒मस्व॑ग॒मप्र॑जसं करोत्यपरापर॒णो भ॑वति क्षी॒यते॑ ॥४५॥  
+She makes him houseless, homeless, childless: he is extinguished without posterity to succeed him.

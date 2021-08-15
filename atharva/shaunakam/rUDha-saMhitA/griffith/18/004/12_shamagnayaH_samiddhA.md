@@ -2,5 +2,4 @@
 title = "१२ शमग्नयः समिद्धा"
 
 +++
-शम॒ग्नयः॒ समि॑द्धा॒ आ र॑भन्तां प्राजाप॒त्यं मेध्यं॑ जा॒तवे॑दसः ।  
-शृ॒तं कृ॒ण्वन्त॑ इ॒ह माव॑ चिक्षिपन्॥१२॥  
+Happily lit, let fires, each Jatavedas, seize on Prajapati's appoint- ed victim. Let them not cast it down while here they cook it.

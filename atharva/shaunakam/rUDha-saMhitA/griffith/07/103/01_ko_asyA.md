@@ -2,5 +2,4 @@
 title = "०१ को अस्या"
 
 +++
-को अ॒स्या नो॑ द्रु॒होऽव॒द्यव॑त्या॒ उन्ने॑ष्यति क्ष॒त्रियो॒ वस्य॑ इ॒च्छन्।  
-को य॒ज्ञका॑मः॒ क उ॒ पूर्ति॑कामः॒ को दे॒वेषु॑ वनुते दी॒र्घमायुः॑ ॥१॥
+What princely warrior, seeking higher fortune, will free us from this shameful fiend of mischief? What friend of sacrifice? What guerdon-lover? Who winneth: 'mid the Gods a long existence?

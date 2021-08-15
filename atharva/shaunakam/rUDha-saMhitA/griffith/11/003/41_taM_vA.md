@@ -2,4 +2,4 @@
 title = "४१ तं वा"
 
 +++
-तं वा अ॒हं नार्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म् ॥३॥  
+And thence, etc. . . . with other breast . . . Thou wilt fail in agriculture. . . . With the earth as breast. 

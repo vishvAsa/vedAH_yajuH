@@ -2,5 +2,4 @@
 title = "३३ यावत् तेऽभि"
 
 +++
-याव॑त् तेऽभि वि॒पश्या॑मि॒ भूमे॒ सूर्ये॑ण मे॒दिना॑ ।  
-ताव॑न्मे॒ चक्षु॒र्मा मे॒ष्टोत्त॑रामुत्तरां॒ समा॑म्॥३३॥  
+Long as, on thee, I look around, possessing Surya as a friend, So long, through each succeeding year, let not my power of vision fail.

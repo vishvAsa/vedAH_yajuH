@@ -2,4 +2,4 @@
 title = "०२ एवा रातिस्तुवीमघ"
 
 +++
-ए॒वा रा॒तिस्तु॑वीमघ॒ विश्वे॑भिर्धायि धा॒तृभिः॑ । अघा॑ चिदिन्द्र मे॒ सचा॑ ॥२॥  
+So hath the offering; wealthiest Lord, been paid by all the worshippers: So dwell thou, Indra, even with me.

@@ -2,5 +2,4 @@
 title = "०५ य ऋष्णवो"
 
 +++
-य ऋ॒ष्णवो॑ दे॒वकृ॑ता॒ य उ॒तो व॑वृ॒तेऽन्यः ।  
-सर्वां॒स्तान् वि॒श्वभे॑षजोऽर॒सां ज॑ङ्गि॒डस्क॑रत्॥५॥
+All sorcerers made by the Gods, all that arise from mortal men,. These, one and all, let Jangida, healer of all, make impotent.

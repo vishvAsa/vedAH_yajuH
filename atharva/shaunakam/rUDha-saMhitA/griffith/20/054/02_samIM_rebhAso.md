@@ -2,5 +2,4 @@
 title = "०२ समीं रेभासो"
 
 +++
-समीं॑ रे॒भासो॑ अस्वर॒न्निन्द्रं॒ सोम॑स्य पी॒तये॑ ।  
-स्वर्पतिं॒ यदीं॑ वृ॒धे धृ॒तव्र॑तो॒ ह्योज॑सा॒ समू॒तिभिः॑ ॥२॥  
+Bards joined in song to Indra so that he might drink the Soma juice, The Lord of Light, that he whose laws stand fast might aid with power and with help he gives.

@@ -2,4 +2,4 @@
 title = "०५ मा नो"
 
 +++
-मा नो॑ नि॒दे च॒ वक्त॑वे॒ऽर्यो र॑न्धी॒ररा॑व्णे । त्वे अपि॒ क्रतु॒र्मम॑ ॥५॥  
+Give us not up to man's reproach, to foeman's hateful calumny: In thee alone is all my strength.

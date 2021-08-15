@@ -2,5 +2,4 @@
 title = "२१ रुचिरसि रोचोऽसि"
 
 +++
-रुचि॑रसि रो॒चोऽसि ।  
-स यथा॒ त्वं रुच्या॑ रो॒चोऽस्ये॒वाहं प॒शुभि॑श्च ब्राह्मणवर्च॒सेन॑ च रुचिषीय ॥२१॥  
+Lustre art thou, illuming: as thou glowest with lustre so I too would shine with cattle, with all the lustre of a Brahman's station.

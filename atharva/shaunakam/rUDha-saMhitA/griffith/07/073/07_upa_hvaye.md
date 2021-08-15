@@ -2,5 +2,4 @@
 title = "०७ उप ह्वये"
 
 +++
-उप॑ ह्वये सु॒दुघां॑ धे॒नुमे॒तां सु॒हस्तो॑ गो॒धुगु॒त दो॑हदेनाम्।  
-श्रेष्ठं॑ स॒वं स॑वि॒ता सा॑विषन्नो॒ऽभीऽद्धो घ॒र्मस्तदु॒ षु प्र वो॑चत्॥७॥  
+I invocate this milch-cow good for milking, so that the milker, deft of hand, may milk her. May Savitar give goodliest stimulation. The caldron hath been warmed. Let him proclaim it.

@@ -2,4 +2,4 @@
 title = "२९ प्रत्यञ्चं चैनं"
 
 +++
-प्र॒त्यञ्चं॑ चैनं॒ प्राशी॑रपा॒नास्त्वा॑ हास्य॒न्तीत्ये॑नमाह ॥२९॥  
+Thou hast eaten this turned hitherward; thy downward breath will leave thee; so he said to this one. 

@@ -2,7 +2,4 @@
 title = "२१ निम्रुचस्तिस्रो व्युषो"
 
 +++
-नि॒म्रुच॑स्ति॒स्रो व्युषो॑ ह ति॒स्रस्त्रीणि॒ रजां॑सि॒ दिवो॑ अ॒ङ्ग ति॒स्रः ।  
-वि॒द्मा ते॑ अग्ने त्रे॒धा ज॒नित्रं॑ त्रे॒धा दे॒वानां॑ जनि॑मानि विद्म॒ तस्य॑ दे॒वस्य॑ ।  
-क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑ ।  
-उद् वे॑पय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न्॥२१॥  
+There are the settings, three the upward risings, three are the- spaces, yea, and three the heavens. We know thy triple place of birth, O Agni, we know the deities'' triple generations.

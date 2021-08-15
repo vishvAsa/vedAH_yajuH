@@ -2,5 +2,4 @@
 title = "०९ देवानां निहितं"
 
 +++
-दे॒वानां॒ निहि॑तं नि॒धिं यमिन्द्रो॒ऽन्ववि॑न्दत् प॒थिभि॑र्देव॒यानैः॑ ।  
-आपो॒ हिर॑ण्यं जुगुपुस्त्रि॒वृद्भि॒स्तास्त्वा॑ रक्षन्तु त्रि॒वृता॑ त्रि॒वृद्भिः॑ ॥९॥  
+The secret treasure of the Gods which Indra, by pathways travelled by the Gods, discovered, That gold the Waters with the triplets guarded. May they keep thee with threebold hymn and triplets.

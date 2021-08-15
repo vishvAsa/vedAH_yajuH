@@ -2,5 +2,4 @@
 title = "१८ शतयाजं स"
 
 +++
-श॒त॒याजं॒ स य॑जते॒ नैनं॑ दुन्वन्त्य॒ग्नयः॑ ।  
-जिन्व॑न्ति॒ विश्वे॒ तं दे॒वा यो ब्रा॑ह्म॒ण ऋ॑ष॒भमा॑जु॒होति॑ ॥१८॥  
+With hundred sacrifices he worships: the fires consume him not: All Gods promote the Braman who offers the Bull in sacrifice.

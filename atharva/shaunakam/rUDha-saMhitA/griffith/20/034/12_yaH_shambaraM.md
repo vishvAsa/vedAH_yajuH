@@ -2,5 +2,4 @@
 title = "१२ यः शम्बरं"
 
 +++
-यः शम्ब॑रं प॒र्यत॑र॒त् कसी॑भि॒र्योऽचा॑रुका॒स्नापि॑बत् सु॒तस्य॑ ।  
-अ॒न्तर्गि॒रौ यज॑मानं ब॒हुं जनं॒ यस्मि॒न्नामू॑र्छ॒त् स ज॑नास॒ इन्द्रः॑ ॥१२॥  
+Who drank the juice poured at the seas of Order, subduing Sambara by superior prowess, Who hoarded food within the mountain's hollow wherein he grew in strength, He, men, is Indra.

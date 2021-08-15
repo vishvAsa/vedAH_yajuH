@@ -2,5 +2,4 @@
 title = "३७ उप स्तृणीहि"
 
 +++
-उप॑ स्तृणीहि प्र॒थय॑ पु॒रस्ता॑द् घृ॒तेन॒ पात्र॑म॒भि घा॑रयै॒तत्।  
-वा॒श्रेवो॒स्रा तरु॑णं स्तन॒स्युमि॒मं दे॑वासो अभि॒हिङ्कृ॑णोत ॥३७॥  
+Pour out the covering butter, spread it eastward: sprinkle this vessel over with the fatness. Greet this, ye Deities, with gentle murmur, as lowing cows wel- come their tender suckling.

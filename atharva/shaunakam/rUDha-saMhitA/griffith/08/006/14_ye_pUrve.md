@@ -2,5 +2,4 @@
 title = "१४ ये पूर्वे"
 
 +++
-ये पूर्वे॑ ब॒ध्वो॒३यन्ति॒ हस्ते॒ शृङ्गा॑णि॒ बिभ्र॑तः ।  
-आ॒पा॒के॒स्थाः प्र॑हा॒सिन॑ स्त॒म्बे ये कु॒र्वते॒ ज्योति॒स्तानि॒तो ना॑शयामसि ॥१४॥  
+Those, bearing horns upon their hands, who first of all approach the brides; Standing in ovens, laughing loud, those who in bushes flash forth light, all these we banish hence away.

@@ -2,5 +2,4 @@
 title = "०१ सं मा"
 
 +++
-सं मा॑ सिञ्चन्तु म॒रुतः॒ सं पू॒षा सं बृह॒स्पतिः॑ ।  
-सं मा॒यम॒ग्निः सि॑ञ्चतु प्र॒जया॑ च॒ धने॑न च दी॒र्घमायुः॑ कृणोतु मे ॥१॥
+Let Pushan, let the Maruts, let Brihaspati pour forth on me; This present Agni pour on me children and riches in a stream! May he bestow long life on me.

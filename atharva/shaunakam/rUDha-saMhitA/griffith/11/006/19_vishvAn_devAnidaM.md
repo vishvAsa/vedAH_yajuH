@@ -2,5 +2,4 @@
 title = "१९ विश्वान् देवानिदं"
 
 +++
-विश्वा॑न् दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑ ।  
-विश्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१९॥  
+This we address to all the Gods, faithful, maintainers of the Right, With all their Consorts by their side: may they deliver us from woe.

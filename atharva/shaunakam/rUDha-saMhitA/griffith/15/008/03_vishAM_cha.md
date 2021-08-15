@@ -2,4 +2,4 @@
 title = "०३ विशां च"
 
 +++
-वि॒शां च॒ वै स सब॑न्धूनां॒ चान्न॑स्य चा॒न्नाद्य॑स्य च प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥३॥
+He who possesses this knowledge becomes the dear home of the people, kinsmen, food and nourishment.

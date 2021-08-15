@@ -2,4 +2,4 @@
 title = "०७ ते३मुष्मै परा"
 
 +++
-ते॒३मुष्मै॒ परा॑ वहन्त्व॒राया॑न् दु॒र्णाम्नः॑ स॒दान्वाः॑ ॥७॥  
+Carry away to Such-an-one niggard fiends, hostile demons, and Sadanvas,

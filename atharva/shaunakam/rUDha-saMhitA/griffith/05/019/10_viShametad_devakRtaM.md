@@ -2,5 +2,4 @@
 title = "१० विषमेतद् देवकृतं"
 
 +++
-वि॒षमे॒तद् दे॒वकृ॑तं॒ राजा॒ वरु॑णोऽब्रवीत्।  
-न ब्रा॑ह्म॒णस्य॒ गां ज॒ग्ध्वा रा॒ष्ट्रे जा॑गार॒ कश्च॒न॥१०॥  
+That wealth, King Varuna hath said, is poison by the Gods prepared. None hath kept watch to guard his realm who hath devoured a Brahman's cow.

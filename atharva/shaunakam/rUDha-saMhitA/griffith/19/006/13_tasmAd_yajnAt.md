@@ -2,5 +2,4 @@
 title = "१३ तस्माद् यज्ञात्"
 
 +++
-तस्मा॑द् य॒ज्ञात् स॑र्व॒हुत॒ ऋचः॒ सामा॑नि जज्ञिरे ।  
-छन्दो॑ ह जज्ञिरे॒ तस्मा॒द् यजु॒स्तस्मा॑दजायत ॥१३॥  
+From that great general sacrifice Richas and Sama hymns were born; Therefrom the metres were produced: the Yajus had its birth from it.

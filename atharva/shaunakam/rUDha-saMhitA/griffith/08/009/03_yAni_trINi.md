@@ -2,5 +2,4 @@
 title = "०३ यानि त्रीणि"
 
 +++
-यानि॒ त्रीणि॑ बृ॒हन्ति॑ येषां॑ चतु॒र्थं वि॑यु॒नक्ति॒ वाच॑म्।  
-ब्र॒ह्मैन॑द् विद्या॒त् तप॑सा विप॒श्चिद् यस्मि॒न्नेकं॑ यु॒ज्यते॒ यस्मि॒न्नेक॑म्॥३॥  
+Which are the three, the mighty three, whereof the fourth divides the voice, This may the Brahman know by prayer and fervour, whereto belongs the one, whereto the other.

@@ -2,5 +2,4 @@
 title = "५५ अपेत वीऽत"
 
 +++
-अपे॑त॒ वीऽत॒ वि च॑ सर्प॒तातो॑ऽस्मा ए॒तं पि॒तरो॑ लो॒कम॑क्रन्।
-अहो॑भिर॒द्भिर॒क्तुभि॒र्व्यऽक्तं य॒मो द॑दात्यव॒सान॑मस्मै ॥५५॥
+Go hence, depart ye, fly in all directions. This world for him the Fathers have provided. Yama bestow upon this man a dwelling adorned with days and beams of light and waters.

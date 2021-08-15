@@ -2,5 +2,4 @@
 title = "०१ इमं बध्नामि"
 
 +++
-इ॒मं ब॑ध्नामि ते म॒णिं दी॑र्घायु॒त्वाय॒ तेज॑से ।  
-द॒र्भं स॑पत्न॒दम्भ॑नं द्विष॒तस्तप॑नं हृ॒दः ॥१॥  
+On thee I bind this Amulet for lengthened life and brilliancy. The rival-quelling Darbha grass that burns the spirit of a foe.

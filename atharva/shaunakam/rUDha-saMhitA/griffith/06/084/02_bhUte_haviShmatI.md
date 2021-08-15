@@ -2,5 +2,4 @@
 title = "०२ भूते हविष्मती"
 
 +++
-भूते॑ ह॒विष्म॑ती भवै॒ष ते॑ भा॒गो यो अ॒स्मासु॑ ।  
-मु॒ञ्चेमान॒मूनेन॑सः॒ स्वाहा॑ ॥२॥  
+Be thou enriched, O Welfare, with oblations, here among us is thine allotted portion. Free--Hail to thee!--from sin those here and yonder.

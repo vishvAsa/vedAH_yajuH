@@ -2,5 +2,4 @@
 title = "०६ प्रतीचीन आङ्गिरसोऽध्यक्षो"
 
 +++
-प्र॒ती॒चीन॑ आङ्गिर॒सोऽध्य॑क्षो नः पु॒रोहि॑तः ।  
-प्र॒तीचीः॑ कृ॒त्या आ॒कृत्या॒मून् कृ॑त्या॒कृतो॑ जहि ॥६॥  
+Against her comes the Angirasa, the Priest whose eye is over us. Turn back all witcheries and slay those practisers of magic arts.

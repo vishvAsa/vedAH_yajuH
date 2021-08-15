@@ -2,5 +2,4 @@
 title = "०५ स बुध्न्यादाष्ट्र"
 
 +++
-स बु॒ध्न्यादा॑ष्ट्र ज॒नुषो॒ऽभ्यग्रं बृह॒स्पति॑र्दे॒वता॒ तस्य॑ स॒म्राट्।  
-अह॒र्यच्छुक्रं ज्योति॑षो॒ जनि॒ष्टाथ॑ द्यु॒मन्तो॒ वि व॑सन्तु॒ विप्रा॑ ॥५॥  
+He from the depth hath been reborn for ever, Brihaspati the world's sole Lord and Ruler. From light was born the Day with all its lustre: through this let sages live endowed with splendour.

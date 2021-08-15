@@ -2,5 +2,4 @@
 title = "०४ उदुत्सं शतधारं"
 
 +++
-उदुत्सं॑ श॒तधा॑रं स॒हस्र॑धार॒मक्षि॑तम्।  
-ए॒वास्माके॒दं धा॒न्यं ऽ स॒हस्र॑धार॒मक्षि॑तम्॥४॥  
+Open the well with hundred streams, exhaustless, with a thousand streams. So cause this corn of ours to be exhaustless, with a thousand streams.

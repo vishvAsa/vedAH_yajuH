@@ -2,4 +2,4 @@
 title = "०३ विद्युज्जिह्वा मरुतो"
 
 +++
-वि॒द्युज्जि॒ह्वा म॒रुतो॒ दन्ता॑ रे॒वति॑र्ग्री॒वाः कृत्ति॑का स्क॒न्धा घ॒र्मो वहः॑ ॥३॥  
+Lightning is the tongue, the Maruts are the teeth, Revati is the neck, the Krittikas are the shoulders, the Gharma s the shoulder-bar.

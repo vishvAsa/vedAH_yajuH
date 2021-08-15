@@ -2,5 +2,4 @@
 title = "०७ तं वो"
 
 +++
-तं वो॑ धि॒या नव्य॑स्या॒ शवि॑ष्ठं प्र॒त्नं प्र॑त्न॒वत् प॑रितंस॒यध्यै॑ ।  
-स नो॑ वक्षदनिमा॒नः सु॒वह्मेन्द्रो॒ विश्वा॒न्यति॑ दु॒र्गहा॑णि ॥७॥  
+Him will we fit for you with new devotion, the strongest, Ancient One, in ancient manner. So way that Indra, boundless, faithful leader, conduct us o'er all places hard to traverse.

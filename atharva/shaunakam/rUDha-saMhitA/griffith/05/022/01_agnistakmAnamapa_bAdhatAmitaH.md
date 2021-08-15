@@ -2,5 +2,4 @@
 title = "०१ अग्निस्तक्मानमप बाधतामितः"
 
 +++
-अ॒ग्निस्त॒क्मान॒मप॑ बाधतामि॒तः सोमो॒ ग्रावा॒ वरु॑णः पू॒तद॑क्षाः ।  
-वेदि॑र्ब॒र्हिः स॒मिधः॒ शोशु॑चाना॒ अप॒ द्वेषां॑स्यमु॒या भ॑वन्तु ॥१॥  
+Hence, filled with holy strength let Agni, Soma, and Varuna, the Press-stone, and the Altar. And Grass, and glowing Fuel banish Fever. Let hateful things stay at a distance yonder.

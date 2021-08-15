@@ -2,5 +2,4 @@
 title = "२५ श्रुधी नो"
 
 +++
-श्रु॒धी नो॑ अग्ने॒ सद॑ने स॒धस्थे॑ यु॒क्ष्वा रथ॑म॒मृत॑स्य द्रवि॒त्नुम्।
-आ नो॑ वह॒ रोद॑सी दे॒वपु॑त्रे॒ माकि॑र्दे॒वाना॒मप॑ भूरि॒ह स्याः॑ ॥२५॥
+Hear us, O Agni, in the great assembly: harness thy rapid car,. the car of Amrit. Bring Heaven and Earth, the Deities' Parents, hither: stay with us here, nor from the Gods be absent.

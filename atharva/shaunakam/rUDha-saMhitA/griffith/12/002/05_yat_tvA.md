@@ -2,5 +2,4 @@
 title = "०५ यत् त्वा"
 
 +++
-यत् त्वा॑ क्रु॒द्धाः प्र॑च॒क्रुर्म॒न्युना॒ पुरु॑षे मृ॒ते।  
-सु॒कल्प॑मग्ने॒ तत् त्व॒या पुन॒स्त्वोद् दी॑पयामसि ॥५॥  
+When, angered that a man hath died, we in our wrath have banished thee, That deed is easily set right through thee: we kindle thee again.

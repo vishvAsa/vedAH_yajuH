@@ -2,5 +2,4 @@
 title = "०२ घृतादुल्लुप्तो मधुमान्"
 
 +++
-घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न् पय॑स्वान् भूमिदृं॒होऽच्यु॑तश्च्यावयि॒ष्णुः ।  
-नु॒दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वन् दर्भा रो॑ह मह॒तामि॑न्द्रि॒येण॑ ॥२॥  
+Drawn forth from butter, juicy, sweetly-flavoured, firm as the earth, unshaken, overthrowing. Driving off foes and casting them beneath me, mount with the strength of mighty Ones, O Darbha.

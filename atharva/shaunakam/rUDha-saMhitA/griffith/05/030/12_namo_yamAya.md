@@ -2,5 +2,4 @@
 title = "१२ नमो यमाय"
 
 +++
-नमो॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॒ नमः॑ पि॒तृभ्य॑ उ॒त ये नय॑न्ति ।  
-उ॒त्पार॑णस्य॒ यो वेद॒ तम॒ग्निं पु॒रो द॑धे॒ऽस्मा अ॑रिष्टता॑तये ॥१२॥  
+Homage be paid to Yama, to Mrityu, and to the Fathers, and to those who guide us! I honour first, for this man's preservation, that Agni who well knoweth how to save him.

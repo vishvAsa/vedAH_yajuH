@@ -2,5 +2,4 @@
 title = "०१ विद्मा शरस्य"
 
 +++
-वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॑ श॒तवृ॑ष्ण्यम् ।  
-तेना॑ ते त॒न्वे॒३शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥१॥  
+We know the father of the shaft, Parjanya strong with hundred powers: By this may I bring health unto thy body: let the channels pour their burthen freely as of old.

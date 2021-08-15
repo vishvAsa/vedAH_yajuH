@@ -2,5 +2,4 @@
 title = "३२ देवा अग्रे"
 
 +++
-दे॒वा अग्रे॒ न्यपद्यन्त॒ पत्नीः॒ सम॑स्पृशन्त त॒न्वऽस्त॒नूभिः॑ ।  
-सू॒र्येव॑ नारि वि॒श्वरू॑पा महि॒त्वा प्र॒जाव॑ती॒ पत्या॒ सं भ॑वे॒ह॥३२॥  
+The Gods at first lay down beside their consorts; body with body met in close embracement. O Dame, like Surya perfect in her grandeur, here rich in future children, meet thy husband.

@@ -2,5 +2,4 @@
 title = "६६ नाके सुपर्णमुप"
 
 +++
-नाके॑ सुप॒र्णमुप॒ यत् पत॑न्तं हृ॒दा वेन॑न्तो अ॒भ्यच॑क्षत त्वा ।  
-हिर॑ण्यपक्षं॒ वरु॑णस्य दू॒तं य॒मस्य॒ यो नौ॑ शकु॒नं भु॑र॒ण्युम्॥६६॥  
+They gaze on thee with longing in their spirit, as on an eagle that is mounting skyward; On thee with wings of gold, Varuna's envoy, the Bird that hasteth to the home of Yama.

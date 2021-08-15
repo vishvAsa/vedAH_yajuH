@@ -2,5 +2,4 @@
 title = "०३ ईडे अग्निं"
 
 +++
-ईडे॑ अग्निं स्वाव॑सुं॒ नमो॑भिरि॒ह प्र॑स॒क्तो वि च॑यत् कृ॒तं नः ।  
-रथै॑रिव॒ प्र भ॑रे वा॒जय॑द्भिः प्रदक्षि॒णं म॒रुतां॒ स्तोम॑मृध्याम्॥३॥  
+I pray to Agni, him who guards his treasure: here, won by homage, may he pile our winnings. As 'twere with racing cars I bring my presents: duly with reverence, let me laud the Maruts.

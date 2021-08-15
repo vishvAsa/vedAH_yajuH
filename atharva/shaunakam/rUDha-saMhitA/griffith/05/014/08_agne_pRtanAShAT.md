@@ -2,5 +2,4 @@
 title = "०८ अग्ने पृतनाषाट्"
 
 +++
-अग्ने॑ पृतनाषा॒ट् पृत॑नाः सहस्व ।  
-पुनः॑ कृ॒त्यां कृ॑त्या॒कृते॑ प्रति॒हर॑णेन हरामसि ॥८॥  
+Agni, victorious in fight, subdue the armies of our foes! Back on the sorcerer we cast his sorcery, and beat it home.

@@ -2,4 +2,4 @@
 title = "०३ अग्ने देवां"
 
 +++
-अग्ने॑ दे॒वां इ॒हा व॑ह जज्ञा॒नो वृ॒क्तब॑र्हिषे । असि॒ होता॑ न॒ ईड्यः॑ ॥३॥
+Bring the Gods hither, Agni, born for him who strews the sacred grass. Thou art our herald, meet for praise.

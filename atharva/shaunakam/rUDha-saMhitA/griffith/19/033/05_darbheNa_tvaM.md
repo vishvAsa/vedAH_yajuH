@@ -2,5 +2,4 @@
 title = "०५ दर्भेण त्वं"
 
 +++
-द॒र्भेण॒ त्वं कृ॑णवद् वी॒र्याऽणि द॒र्भं बिभ्र॑दा॒त्मना॒ मा व्य॑थिष्ठाः ।  
-अति॑ष्ठाया॒ वर्च॒साधा॒न्यान्त्सूर्य॑ इ॒वा भा॑हि प्र॒दिश॒श्चत॑स्रः ॥५॥
+Achieve heroic deeds with Darbha, wearing this Darbha never let thy soul be troubled. In splendour and precedence over others illumine like the Sun the heaven's four regions.

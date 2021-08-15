@@ -2,5 +2,4 @@
 title = "०२ नमस्ते अधिवाकाय"
 
 +++
-नम॑स्ते अधिवा॒काय॑ परावा॒काय॑ ते॒ नमः॑ ।  
-सु॒म॒त्यै मृ॑त्यो ते॒ नमो॑ दुर्म॒त्यै त॑ इ॒दं नमः॑ ॥२॥  
+Let worship be to thy defence and to thine accusation paid. Death! be this worship paid to thy good-will and thy malevo- lence!

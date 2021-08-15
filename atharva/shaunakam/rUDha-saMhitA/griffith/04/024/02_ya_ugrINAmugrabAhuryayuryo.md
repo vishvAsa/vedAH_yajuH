@@ -2,5 +2,4 @@
 title = "०२ य उग्रीणामुग्रबाहुर्ययुर्यो"
 
 +++
-य उ॒ग्रीणा॑मु॒ग्रबा॑हुर्य॒युर्यो दा॑न॒वानां॒ बल॑मारु॒रोज॑ ।  
-येन॑ जि॒ताः सिन्ध॑वो॒ येन॒ गावः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥२॥  
+Who with strong arms o'ercame his strong opponents, who broke and crushed the power of the demons, Who won the rivers and the kine in battle. May he deliver us from grief and trouble.

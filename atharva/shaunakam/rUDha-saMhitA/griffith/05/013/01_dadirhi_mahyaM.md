@@ -2,5 +2,4 @@
 title = "०१ ददिर्हि मह्यं"
 
 +++
-द॒दिर्हि मह्यं॒ वरु॑णो दि॒वः क॒विर्वचो॑भिरु॒ग्रैर्नि रि॑णामि ते वि॒षम्।  
-खा॒तमखा॑तमु॒त स॒क्तम॑ग्रभ॒मिरे॑व॒ धन्व॒न् नि ज॑जास ते वि॒षम्॥१॥  
+Varuna, Sage of heaven, hath given me the gift: with spells of mighty power I draw thy poison out. Dug up, not dug, adherent, I have seized it fast: low hath thy venom sunk like water in the sands.

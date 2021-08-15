@@ -2,5 +2,4 @@
 title = "०२ यद् ब्रह्मभिर्यदृषिभिर्यद्"
 
 +++
-यद् ब्र॒ह्मभि॒र्यदृषि॑भि॒र्यद् दे॒वैर्वि॑दि॒तं पु॒रा।  
-यद् भू॒तं भव्य॑मास॒न्वत् तेना॑ ते वारये वि॒षम्॥२॥  
+With this, discovered in the days of old by Brahmans, Rishis, Gods, With this I ward thy poison off, thou Biter! formed and form- ing now.

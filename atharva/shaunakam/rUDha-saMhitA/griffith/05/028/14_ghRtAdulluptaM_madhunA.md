@@ -2,5 +2,4 @@
 title = "१४ घृतादुल्लुप्तं मधुना"
 
 +++
-घृ॒तादुल्लु॑प्तं॒ मधु॑ना॒ सम॑क्तं भूमिदृं॒हमच्यु॑तं पारयि॒ष्णु।  
-भि॒न्दत् स॒पत्ना॒नध॑रांश्च कृ॒ण्वदा मा॑ रोह मह॒ते सौभ॑गाय ॥१४॥
+Drawn forth from butter and with meath besprinkled, firm as the earth, unshakable, triumphant. Breaking down foes and casting them beneath me, be fastened on me for exalted fortune!

@@ -2,5 +2,4 @@
 title = "१० रात्रीभिरस्मा अहभिर्दशस्येत्"
 
 +++
-रात्री॑भिरस्मा॒ अह॑भिर्दशस्ये॒त् सूर्य॑स्य॒ चक्षु॒र्मुहु॒रुन्मि॑मीयात्।
-दि॒वा पृ॑थि॒व्या मि॑थु॒ना सब॑न्धू य॒मीर्य॒मस्य॑ विवृहा॒दजा॑मि ॥१०॥
+May Surya's eye with days and nights endow him, and ever may his light spread out before him. In heaven and earth the kindred pair commingle. On Yami be the unbrotherly act of Yama.

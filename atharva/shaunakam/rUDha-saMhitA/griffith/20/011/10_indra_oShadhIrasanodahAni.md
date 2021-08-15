@@ -2,5 +2,4 @@
 title = "१० इन्द्र ओषधीरसनोदहानि"
 
 +++
-इन्द्र॒ ओष॑धीरसनो॒दहा॑नि॒ वन॒स्पतीँ॑रसनोद॒न्तरि॑क्षम्।  
-बि॒भेद॑ ब॒लं नु॑नु॒दे विवा॒चोऽथा॑भवद् दमि॒ताभिक्र॑तूनाम्॥१०॥  
+He took the plants and days for his possession; he gained the forest trees and air's mid-region. Vala he cleft, and chased away opponents: thus was he tamer of the overweening.

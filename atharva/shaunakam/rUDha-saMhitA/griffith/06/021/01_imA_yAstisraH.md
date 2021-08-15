@@ -2,5 +2,4 @@
 title = "०१ इमा यास्तिस्रः"
 
 +++
-इ॒मा यास्ति॒स्रः पृ॑थि॒वीस्तासां॑ ह॒ भूमि॑रुत्त॒मा।  
-तासा॒मधि॑ त्व॒चो अ॒हं भे॑ष॒जं समु॑ जग्रभम्॥१॥  
+Of all the three terrestrial realms the ground is verily the best. I from the skin that covers these gather a healing medicine.

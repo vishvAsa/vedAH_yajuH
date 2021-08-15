@@ -2,5 +2,4 @@
 title = "०१ अघद्विष्टा देवजाता"
 
 +++
-अ॒घद्वि॑ष्टा दे॒वजा॑ता वी॒रुच्छ॑पथ॒योप॑नी ।  
-आपो॒ मल॑मिव॒ प्राणै॑क्षी॒त् सर्वा॒न् मच्छ॒पथाँ॒ अधि॑ ॥१॥  
+Hated by sinners, sprung from Gods, this Plant that turns the curse away Hath washed from me all curses, as water makes clean from spot and stain.

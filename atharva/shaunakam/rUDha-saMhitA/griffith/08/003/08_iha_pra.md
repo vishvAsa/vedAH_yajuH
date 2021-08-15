@@ -2,5 +2,4 @@
 title = "०८ इह प्र"
 
 +++
-इ॒ह प्र ब्रू॑हि यत॒मः सो अ॑ग्ने यातु॒धानो॒ य इ॒दं कृ॒णोति॑ ।  
-तमा र॑भस्व स॒मिधा॑ यविष्ठ नृ॒चक्ष॑स॒श्चक्षु॑षे रन्धयैनम्॥८॥  
+Here tell this forth, O Agni: whosoever is, he himself, or acteth as, a demon, Grasp him, O thou most youthful, with thy fuel: to the Man- Seer's eye give him as booty.

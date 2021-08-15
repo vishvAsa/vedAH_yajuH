@@ -2,5 +2,4 @@
 title = "५८ वृषा मतीनां"
 
 +++
-वृषा॑ मती॒नां प॑वते विचक्ष॒णः सूरो॒ अह्नां॑ प्र॒तरी॑तो॒षसां॑ दि॒वः ।  
-प्रा॒णः सिन्धू॑नां क॒लशाँ॑ अचिक्रद॒दिन्द्र॑स्य॒ हार्दि॑मावि॒शन् म॑नी॒षया॑ ॥५८॥  
+Far-seeing he flows on, the Bull, the Lord of hymns, promoter of the Sun, of Days, of Dawns, of Heaven. Breath of the rivers he hath roared into the jars, and through his wisdom entered into Indra's heart.

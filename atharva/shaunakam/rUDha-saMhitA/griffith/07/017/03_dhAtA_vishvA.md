@@ -2,5 +2,4 @@
 title = "०३ धाता विश्वा"
 
 +++
-धा॒ता विश्वा॒ वार्या॑ दधातु प्र॒जाका॑माय दा॒शुषे॑ दुरो॒णे।  
-तस्मै॑ दे॒वाअ॒मृतं॒ सं व्य॑यन्तु॒ विश्वे॑ दे॒वा अदि॑तिः स॒जोषाः॑ ॥३॥  
+To him may Dhatar grant all kinds of blessings who, craving children, serves him in his dwelling. Him may the Gods invest with life eternal, yea, all the Gods and Aditi accordant.

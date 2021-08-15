@@ -2,5 +2,4 @@
 title = "०१ इमं यवमष्टायोगैः"
 
 +++
-इ॒मं यव॑मष्टायो॒गैः ष॑ड्यो॒गेभि॑रचर्कृषुः ।  
-तेना॑ ते त॒न्वो॒३रपो॑ ऽपा॒चीन॒मप॑ व्यये ॥१॥  
+They made this barley ready with a team of eight, a team of six. With this I drive to westward, far away, thy bodily disease.

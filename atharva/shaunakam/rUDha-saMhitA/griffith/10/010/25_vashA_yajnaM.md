@@ -2,5 +2,4 @@
 title = "२५ वशा यज्ञं"
 
 +++
-व॒शा य॒ज्ञं प्रत्य॑गृह्णाद् व॒शा सूर्य॑मधारयत्।  
-व॒शाया॑म॒न्तर॑विशदोद॒नो ब्र॒ह्मणा॑ स॒ह॥२५॥  
+The Cow hath welcomed sacrifice: the Cow hath held the Sun in place. Together with the prayer the mess of rice hath passed into the Cow.

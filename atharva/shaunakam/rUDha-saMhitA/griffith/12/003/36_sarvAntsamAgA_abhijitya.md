@@ -2,5 +2,4 @@
 title = "३६ सर्वान्त्समागा अभिजित्य"
 
 +++
-सर्वा॑न्त्स॒मागा॑ अभि॒जित्य॑ लो॒कान् याव॑न्तः॒ कामाः॒ सम॑तीतृप॒स्तान्।  
-वि गा॑हेथामा॒यव॑नं च॒ दर्वि॒रेक॑स्मि॒न् पात्रे॒ अध्युद्ध॑रैनम्॥३६॥  
+All wishes that have blessed those with fulfilment, having won all the worlds have met together. Let them plunge in both stirring-spoon and ladle: raise this and set it in a single vessel.

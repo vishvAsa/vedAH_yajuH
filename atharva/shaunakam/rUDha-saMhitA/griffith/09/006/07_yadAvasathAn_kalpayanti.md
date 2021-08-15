@@ -2,4 +2,4 @@
 title = "०७ यदावसथान् कल्पयन्ति"
 
 +++
-यदा॑वस॒थान् क॒ल्पय॑न्ति सदोहविर्धा॒नान्ये॒व तत् क॑ल्पयन्ति ॥७॥  
+When they arrange dwelling-rooms they arrange the sacred chamber and the shed for housing the Soma cars.

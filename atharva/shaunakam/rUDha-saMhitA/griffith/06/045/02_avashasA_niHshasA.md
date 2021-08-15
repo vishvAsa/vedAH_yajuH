@@ -2,5 +2,4 @@
 title = "०२ अवशसा निःशसा"
 
 +++
-अ॒व॒शसा॑ निः॒शसा॒ यत् प॑रा॒शसो॑पारि॒म जाग्र॑तो॒ यत् स्व॒पन्तः॑ ।  
-अ॒ग्निर्वि॑श्वा॒न्यप॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे अ॒स्मद् द॑धातु ॥२॥  
+Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or slander, All these offences, which deserve displeasure, may Agni take from us and keep them distant.

@@ -2,5 +2,4 @@
 title = "०२ अस्मै क्षत्राणि"
 
 +++
-अ॒स्मै क्ष॒त्राणि॑ धा॒रय॑न्तमग्ने यु॒नज्मि॑ त्वा॒ ब्रह्म॑णा॒ दैव्ये॑न ।  
-दी॒दि॒ह्य॑१स्मभ्यं॒ द्रवि॑णे॒ह भ॒द्रं प्रेमं वो॑चो हवि॒र्दां दे॒वता॑सु ॥२॥
+I with celestial prayer appoint thee, Agni, maintainer of this man in princely powers. Here brightly shine for us with wealth: declare thou to Gods this favoured giver of oblations.

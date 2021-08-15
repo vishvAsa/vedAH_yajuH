@@ -2,5 +2,4 @@
 title = "०१ निर्लक्ष्म्यं ऽ"
 
 +++
-निर्ल॒क्ष्म्यं ऽ लला॒म्यं॑१ निररा॑तिं सुवामसि ।  
-अथ॒ या भ॒द्रा तानि॑ नः प्र॒जाया॒ अरा॑तिं नयामसि ॥१॥  
+We drive away the Spotted Hag, Misfortune, and Malignity: All blessings to our children then! We chase Malignity away.

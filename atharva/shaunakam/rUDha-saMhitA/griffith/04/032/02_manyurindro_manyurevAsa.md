@@ -2,5 +2,4 @@
 title = "०२ मन्युरिन्द्रो मन्युरेवास"
 
 +++
-म॒न्युरिन्द्रो॑ म॒न्युरे॒वास॑ दे॒वो म॒न्युर्होता॒ वरु॑णो जा॒तवे॑दाः ।  
-म॒न्युर्विश॑ ईडते॒ मानु॑षी॒र्याः पा॒हि नो॑ मन्यो॒ तप॑सा स॒जोषाः॑ ॥२॥  
+Manyu was Indra, yea, the God was Manyu; Manyu was Hotar Varuna, Jatavedas. The tribes of human lineage worship Manyu. Accordant, with thy fervour, Manyu! guard us.

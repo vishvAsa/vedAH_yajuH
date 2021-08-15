@@ -2,5 +2,4 @@
 title = "०२ यो विद्यात्"
 
 +++
-यो वि॒द्यात् स॒प्त प्र॒वतः॑ स॒प्त वि॒द्यात् प॑रा॒वतः॑ ।  
-शिरो॑ य॒ज्ञस्य॒ यो वि॒द्यात् स व॒शां प्रति॑ गृह्णीयात्॥२॥  
+The man who knows the Seven Floods, who knows the seven distances, Who knows the head of sacrifice, he may receive the holy Cow.

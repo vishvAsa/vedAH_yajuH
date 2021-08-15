@@ -2,5 +2,4 @@
 title = "०१ एतं भागं"
 
 +++
-ए॒तं भा॒गं परि॑ ददामि वि॒द्वान् विश्व॑कर्मन् प्रथम॒जा ऋ॒तस्य॑ ।  
-अ॒स्माभि॑र्द॒त्तं ज॒रसः॑ प॒रस्ता॒दच्छि॑न्नं॒ तन्तु॒मनु॒ सं त॑रेम ॥१॥  
+This portion I who understand deliver to Visvakarman first-born son of Order. So may we follow to the end, unbroken, beyond old age, the thread which we have given.

@@ -2,5 +2,4 @@
 title = "१५ पृष्ठं धावन्तं"
 
 +++
-पृ॒ष्ठं धाव॑न्तं ह॒र्योरौच्चैः॑ श्रव॒सम॑ब्रुवन्।  
-स्व॒स्त्यश्व॒ जैत्रा॒येन्द्र॒मा व॑ह सु॒स्र॑म्॥१५॥  
+They said to Auchchaihsravasa running as side-horse of the Bays, Safely to victory, O Steed, bear Indra with the beauteous wreath.

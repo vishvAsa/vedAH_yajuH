@@ -2,5 +2,4 @@
 title = "०८ अपामार्ग ओषधीनां"
 
 +++
-अ॒पा॒मा॒र्ग ओष॑धीनां॒ सर्वा॑सा॒मेक॒ इद् व॒शी।  
-तेन॑ ते मृज्म॒ आस्थि॑त॒मथ॒ त्वम॑ग॒दश्च॑र ॥८॥
+The Apamarga is alone the sovran of all Plants that grow. With this we wipe away whate'er hath fallen on thee: go in health!

@@ -2,6 +2,4 @@
 title = "०३ उतो नो"
 
 +++
-उ॒तो नो॑ अ॒स्या उ॒षसो॑ जु॒षेत॒ ह्य॑१र्कस्य॑ बोधि ह॒विषो॒ हवी॑मभिः॒ स्व॑र्षाता॒ हवी॑मभिः ।  
-यदि॑न्द्र॒ हन्त॑वे॒ मृघो॒ वृषा॑ वज्रिं॒ चिके॑तसि ।  
-आ मे॑ अ॒स्य वे॒धसो॒ नवी॑यसो॒ मन्म॑ श्रुधि॒ नवी॑यसः ॥३॥
+Also this morn may he be well inclined to us, mark at our call our offerings and our song of praise, our call that we may win the light. As thou, O Indra Thunder-armed, wilt, as the Strong One, slay the foe, Listen, thou to the prayer of me a later sage, hear thou a later sage's prayer.

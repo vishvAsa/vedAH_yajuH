@@ -2,5 +2,4 @@
 title = "३१ एतत् ते"
 
 +++
-ए॒तत् ते॑ दे॒वः स॑वि॒ता वासो॑ ददाति॒ भर्त॑वे ।  
-तत् त्वं य॒मस्य॒ राज्ये॒ वसा॑नस्ता॒र्प्यंऽ चर ॥३१॥  
+On thee doth Savitar the God bestow this vesture for thy wear. Clothe thee herein, and find meet robe in Yama's realm to cover thee.

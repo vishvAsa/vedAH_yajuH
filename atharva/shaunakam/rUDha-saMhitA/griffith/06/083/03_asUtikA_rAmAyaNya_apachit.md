@@ -2,5 +2,4 @@
 title = "०३ असूतिका रामायण्यऽपचित्"
 
 +++
-अ॒सूति॑का रामाय॒ण्यऽप॒चित् प्र प॑तिष्यति ।  
-ग्लरि॒तः प्र प॑तिष्यति॒ स ग॑लु॒न्तो न॑शिष्यति ॥३॥  
+Hence, childless, shall the Pustule flee, grand-daughter of the dusky one. The Boil shall fly away from us, the morbid growth shall vanish hence. Taste, happy in thy mind, thine own oblation, as I with Svaha with my heart present it.

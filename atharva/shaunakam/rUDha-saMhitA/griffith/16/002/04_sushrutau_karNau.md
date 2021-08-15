@@ -2,4 +2,4 @@
 title = "०४ सुश्रुतौ कर्णौ"
 
 +++
-सु॒श्रुतौ॒ कर्णौ॑ भद्र॒श्रुतौ॒ कर्णौ॑ भ॒द्रं श्लोकं॑ श्रूयासम्॥४॥  
+Quick of hearing are mine ears; mine ears hear what is good- Fain would I hear a pleasant sound.

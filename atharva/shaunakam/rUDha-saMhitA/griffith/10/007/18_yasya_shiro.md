@@ -2,5 +2,4 @@
 title = "१८ यस्य शिरो"
 
 +++
-यस्य॒ शिरो॑ वैश्वान॒रश्चक्षु॒रङ्गि॑र॒सोऽभ॑वन्।  
-अङ्गा॑नि॒ यस्य॑ या॒तवः॑ स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥१८॥  
+Who out of many, tell me, is that Skambha Of whom Vaisvanara became the head, the Angirases his eye, and Yatus his corporeal parts?

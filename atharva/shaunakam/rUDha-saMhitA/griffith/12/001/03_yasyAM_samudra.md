@@ -2,5 +2,4 @@
 title = "०३ यस्यां समुद्र"
 
 +++
-यस्यां॑ समु॒द्र उ॒त सिन्धु॒रापो॒ यस्या॒मन्नं॑ कृ॒ष्टयः॑ संबभू॒वुः ।  
-यस्या॑मि॒दं जिन्व॑ति प्रा॒णदेज॒त् सा नो॒ भूमिः॑ पूर्व॒पेये॑ दधातु ॥३॥  
+In whom the sea, and Sindhu, and the waters, in whom our food and corn-lands had their being, In whom this all that breathes and moves is active, this Earth. assign us foremost rank and station!

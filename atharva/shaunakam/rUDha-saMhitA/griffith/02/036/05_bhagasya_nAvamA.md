@@ -2,5 +2,4 @@
 title = "०५ भगस्य नावमा"
 
 +++
-भग॑स्य॒ नाव॒मा रो॑ह पू॒र्णामनु॑पदस्वतीम्।  
-तयो॑पप्रता॑रय॒ यो वरः प्र॑तिका॒म्यः ॥५॥  
+Mount up, embark on Bhaga's ship, the full, the inexhaustible, Thereon bring hitherward to us the lover whom thou fain wouldst wed.

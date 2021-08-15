@@ -2,5 +2,4 @@
 title = "११ वावाता च"
 
 +++
-वा॒वा॒ता च॒ महि॑षी स्व॒स्त्या च यु॒धिंग॒मः ।  
-श्वा॒शुर॑श्चाया॒मी तो॒ता कल्पे॑षु सं॒मिता॑ ॥११॥  
+The favourite wife most dearly loved, the man who safely goes to war, The fleet steed who obeys the rein, these things are ordered in the rules.

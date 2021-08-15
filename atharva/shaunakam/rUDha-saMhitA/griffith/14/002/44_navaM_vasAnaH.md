@@ -2,5 +2,4 @@
 title = "४४ नवं वसानः"
 
 +++
-नवं॒ वसा॑नः सुर॒भिः सु॒वासा॑ उ॒दागां॑ जी॒व उ॒षसो॑ विभा॒तीः ।  
-आ॒ण्डात् प॑त॒त्रीवा॑मुक्षि॒ विश्व॑स्मा॒देन॑स॒स्परि॑ ॥४४॥  
+Clad in new garments, fragrant, well-apparelled, to meet reful- gent Dawn have I arisen. I, like a bird that quits the egg, am freed from sin and purified.

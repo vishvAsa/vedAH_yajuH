@@ -2,4 +2,4 @@
 title = "०७ पर्यायिकेभ्यः स्वाहा"
 
 +++
-प॒र्या॒यि॒केभ्यः॒ स्वाहा॑ ॥७॥  
+To those composed in strophes, Hail!

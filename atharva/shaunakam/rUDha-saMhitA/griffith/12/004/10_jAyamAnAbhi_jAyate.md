@@ -2,5 +2,4 @@
 title = "१० जायमानाभि जायते"
 
 +++
-जाय॑माना॒भि जा॑यते दे॒वान्त्सब्रा॑ह्मणान् व॒शा।  
-तस्मा॑द् ब्र॒ह्मभ्यो॒ देयै॒षा तदा॑हुः॒ स्वस्य॒ गोप॑नम्॥१०॥  
+For Gods and Brahmans is the Cow produced when first she springs to life, Hence to the priests must she be given: this they call guarding private wealth.

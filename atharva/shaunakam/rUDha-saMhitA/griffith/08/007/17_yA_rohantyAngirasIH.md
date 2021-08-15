@@ -2,5 +2,4 @@
 title = "१७ या रोहन्त्याङ्गिरसीः"
 
 +++
-या रोह॑न्त्याङ्गिर॒सीः पर्व॑तेषु स॒मेषु॑ च ।  
-ता नः॒ पय॑स्वतीः शि॒वा ओष॑धीः सन्तु॒ शं हृ॒दे॥१७॥  
+May these be pleasant to our heart, auspicious, rich in store of milk, These Plants of the Angirases which grow on mountains and on plains.

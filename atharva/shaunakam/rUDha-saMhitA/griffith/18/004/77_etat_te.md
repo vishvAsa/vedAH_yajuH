@@ -2,4 +2,4 @@
 title = "७७ एतत् ते"
 
 +++
-ए॒तत् ते॑ तत स्व॒धा॥७७॥  
+To thee, O Fathers, be this cry of Hail!

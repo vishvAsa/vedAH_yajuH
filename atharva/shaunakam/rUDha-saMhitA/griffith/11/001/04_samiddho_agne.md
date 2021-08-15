@@ -2,5 +2,4 @@
 title = "०४ समिद्धो अग्ने"
 
 +++
-समि॑द्धो अग्ने स॒मिधा॒ समि॑ध्यस्व वि॒द्वान् दे॒वान् य॒ज्ञियाँ॒ एह व॑क्षः ।  
-तेभ्यो॑ ह॒विः श्र॒पयं॑ जातवेद उत्त॒मं नाक॒मधि॑ रोहये॒मम्॥४॥  
+Burn up, O Agni, kindled with the fuel. Knowing the Gods who merit worship, bring them. Cooking, for these, oblation, Jatavedas! lift up this man to heaven's most lofty summit.

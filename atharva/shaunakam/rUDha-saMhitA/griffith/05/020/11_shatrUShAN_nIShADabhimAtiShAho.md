@@ -2,5 +2,4 @@
 title = "११ शत्रूषाण् नीषाडभिमातिषाहो"
 
 +++
-श॒त्रू॒षाण् नी॒षाड॑भिमातिषा॒हो ग॒वेष॑णः॒ सह॑मान उ॒द्भित्।  
-वा॒ग्वीव॒ मन्त्रं॒ प्र भ॑रस्व॒ वाचं॒ सांग्रा॑मजित्या॒येष॒मुद् व॑दे॒ह॥११॥  
+Foe-conqueror, victor, vanquishing opponents, seeker of booty, mastering, destroying. Speak out as a skilled speaker tells his counsel, speak strength to us that we may win the battle.

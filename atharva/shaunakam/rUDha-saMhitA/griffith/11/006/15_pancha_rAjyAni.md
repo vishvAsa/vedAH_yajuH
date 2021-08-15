@@ -2,5 +2,4 @@
 title = "१५ पञ्च राज्यानि"
 
 +++
-पञ्च॑ रा॒ज्यानि॑ वी॒रुधां॒ सोम॑श्रेष्ठानि ब्रूमः ।  
-द॒र्भो भङ्गो यवः॒ सह॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१५॥  
+To the five kingdoms of the plants which Soma rules as Lord we speak. Darbha, hemp, barley, mighty power: may these deliver us from woe,

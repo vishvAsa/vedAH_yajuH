@@ -2,5 +2,4 @@
 title = "३६ यः श्रमात्"
 
 +++
-यः श्रमा॒त् तप॑सो जा॒तो लो॒कान्त्सर्वा॑न्त्समान॒शे।  
-सोमं॒ यश्च॒क्रे केव॑लं॒ तस्मै॑ ज्ये॒ष्ठाय॒ ब्रह्म॑णे॒ नमः॑ ॥३६॥  
+Homage to highest Brahma, him who, sprung from Fervour and from toil, Filled all the worlds completely, who made Soma for himself alone.

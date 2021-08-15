@@ -2,5 +2,4 @@
 title = "०१ उदु त्ये"
 
 +++
-उदु॒ त्ये मधु॑मत्तमा॒ गिर॒ स्तोमा॑स ईरते ।  
-स॒त्रा॒जितो॑ धन॒सा अक्षि॑तोतयो वाज॒यन्तो॒ रथा॑ इव ॥१॥  
+These songs of ours exceeding sweet, these hymns of praise as- cend to thee, Like ever-conquering chariots that display their strength, gain wealth and give unfailing aid.

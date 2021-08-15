@@ -2,4 +2,4 @@
 title = "०३ इन्द्रेण सं"
 
 +++
-इन्द्रे॑ण॒ सं हि दृक्ष॑से संजग्मा॒नो अबि॑भ्युषा । म॒न्दू स॑मा॒नव॑र्चसा ॥३॥  
+Then, faring on by Indra's side, the fearless, let thyself be seen,. Both gracious and in splendour peers.

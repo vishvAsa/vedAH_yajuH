@@ -2,5 +2,4 @@
 title = "२० यास्ते ग्रीवा"
 
 +++
-यास्ते॑ ग्री॒वा ये स्क॒न्धा याः पृ॒ष्टीर्याश्च॒ पर्श॑वः ।  
-आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥२०॥  
+Let neck and nape and shoulder-joints, thy ribs and inter-costal parts, etc.

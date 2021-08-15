@@ -2,5 +2,4 @@
 title = "५१ बर्हिषदः पितर"
 
 +++
-बर्हि॑षदः पितर ऊ॒त्य॑१र्वागि॒मा वो॑ ह॒व्या च॑कृमा जु॒षध्व॑म्।
-त आ ग॒ताव॑सा॒ शंत॑मे॒नाधा॑ नः॒ शं योर॑र॒पो द॑धात ॥५१॥
+Fathers who sit on sacred grass, come, help us: these offsprings have we made for you; accept them. So come to us with most auspicious favour: bestow on us unfailing health and plenty.

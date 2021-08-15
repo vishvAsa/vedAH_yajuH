@@ -2,6 +2,4 @@
 title = "२१ यथा यशः"
 
 +++
-यथा॒ यशः॑ सोमपी॒थे म॑धुप॒र्के यथा॒ यशः॑ ।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु॒  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥२१॥  
+As glory dwelleth in the draught of Soma and the honeyed. drink, So may the Charm, etc.

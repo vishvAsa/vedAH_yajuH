@@ -2,6 +2,4 @@
 title = "२४ यद् वीध्रे"
 
 +++
-यद् वी॒ध्रे स्त॒नय॑ति प्र॒जाप॑तिरे॒व तत् प्र॒जाभ्यः॑ प्रा॒दुर्भ॑वति ।  
-तस्मा॑त् प्राचीनोपवी॒तस्ति॑ष्ठे॒ प्रजा॑प॒तेऽनु॑ मा बुध्य॒स्वेति॑ ।  
-अन्वे॑नं प्र॒जा अनु॑ प्र॒जाप॑तिर्बुध्यते॒ य ए॒वं वेद॑ ॥२४॥
+The thundering of Prajapati in heaven is verily manifest to living creatures. Therefore I stand from right to left invested, and, O Prajapati, I cry, regard me! The man who hath this knowledge is regarded by living beings and the Lord of Creatures.

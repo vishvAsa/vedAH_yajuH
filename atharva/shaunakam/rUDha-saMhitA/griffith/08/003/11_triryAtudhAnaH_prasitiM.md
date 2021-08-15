@@ -2,5 +2,4 @@
 title = "११ त्रिर्यातुधानः प्रसितिं"
 
 +++
-त्रिर्या॑तु॒धानः॒ प्रसि॑तिं त एत्वृ॒तं यो अ॑ग्ने॒ अनृ॑तेन॒ हन्ति॑ ।  
-तम॒र्चिषा॑ स्फू॒र्जय॑न् जातवेदः सम॒क्षमे॑नं गृण॒ते नि यु॑ङ्ग्धि ॥११॥  
+Thrice, Agni, let thy noose surround the demon who with his falsehood injures holy Order. Loud roaring with thy flame, Jatavedas, fetter him in the pre- sense of the singer.

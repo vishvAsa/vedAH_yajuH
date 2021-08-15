@@ -2,5 +2,4 @@
 title = "०२ वैश्वानरीं सूनृतामा"
 
 +++
-वै॒श्वा॒न॒रीं सू॒नृता॒मा र॑भध्वं॒ यस्या॒ आशा॑स्त॒न्वोऽवी॒तपृ॑ष्ठाः ।  
-तया॑ गृ॒णन्तः॑ सध॒मादे॑षु व॒यं स्या॑म॒ पत॑यो रयी॒नाम्॥२॥  
+Lay hold on Sunrita whose forms and regions have fair smooth backs, her who is all men's treasure. Through her may we, in sacrificial banquets singing her glory, be the lords of riches.

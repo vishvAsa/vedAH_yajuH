@@ -2,5 +2,4 @@
 title = "०७ तस्य प्राशं"
 
 +++
-तस्य॒ प्राशं॒ त्वं ज॑हि॒ यो न॑ इन्द्राभि॒दास॑ति ।  
-अधि॑ नो ब्रूहि॒ शक्ति॑भिः प्रा॒शि मामुत्त॑रं कृधि ॥७॥
+Indra, defeat the speech of him who meets us with hostility. Comfort us with thy power and might. Make me superior in debate.

@@ -2,5 +2,4 @@
 title = "०६ तक्मन् व्याऽल"
 
 +++
-तक्म॒न् व्याऽल॒ वि ग॑द॒ व्यऽङ्ग॒ भूरि॑ यावय ।  
-दा॒सीं नि॒ष्टक्व॑रीमिछ॒ तां वज्रे॑ण॒ सम॑र्पय ॥६॥  
+Fever, snake, limbless one, speak out! Keep thyself far away fi om us. Seek thou a wanton Dast girl and strike her with thy thunder- bolt.

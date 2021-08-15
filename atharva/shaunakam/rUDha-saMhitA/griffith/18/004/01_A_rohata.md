@@ -2,5 +2,4 @@
 title = "०१ आ रोहत"
 
 +++
-आ रो॑हत॒ जनि॑त्रीं जा॒तवे॑दसः पितृ॒याणैः सं व॒ आ रो॑हयामि ।  
-अवा॑ड्ढ॒व्येषि॒तो ह॑व्य॒वाह ईजा॒नं यु॒क्ताः सु॒कृतां॑ धत्त लो॒के॥१॥  
+Rise to your mother, flames of Jatavedas! I send you up by paths which Fathers traverse. With headlong speed the Oblation bearer bore our gifts: toil ye, and place the offerer where the righteous dwell.

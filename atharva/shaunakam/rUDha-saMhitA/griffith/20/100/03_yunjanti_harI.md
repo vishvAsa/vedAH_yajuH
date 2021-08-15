@@ -2,4 +2,4 @@
 title = "०३ युञ्जन्ति हरी"
 
 +++
-यु॒ञ्जन्ति॒ हरी॑ इषि॒रस्य॒ गाथ॑यो॒रौ रथ॑ उ॒रुयु॑गे ।इ॒न्द्रवाहा॑ वचो॒युजा॑ ॥३॥
+With holy song they bind to the broad wide-yoked car the bay steeds of the rapid God, Bearers of India, yoked by prayer.

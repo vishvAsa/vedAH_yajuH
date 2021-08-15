@@ -2,4 +2,4 @@
 title = "०५ इन्द्र स्थातर्हरीणां"
 
 +++
-इन्द्र॑ स्थातर्हरीणां॒ नकि॑ष्टे पू॒र्व्यस्तु॑तिम्। उदा॑नंश॒ शव॑सा॒ न भ॒न्दना॑ ॥५॥  
+Indra whom tawny coursers bear, praise such a thine,. preeminent None by his power or by his goodness hath attained

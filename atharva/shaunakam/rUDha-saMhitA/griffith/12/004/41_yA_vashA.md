@@ -2,5 +2,4 @@
 title = "४१ या वशा"
 
 +++
-या व॒शा उ॒दक॑ल्पयन् दे॒वा य॒ज्ञादु॒देत्य॑ ।  
-तासां॑ विलि॒प्त्यं भी॒मामु॒दाकु॑रुत नार॒दः ॥४१॥  
+Narada chose the terrible Vilipti out of all the cows Which the Gods formed and framed when they had risen up from sacri- fice

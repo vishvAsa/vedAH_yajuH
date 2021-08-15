@@ -2,5 +2,4 @@
 title = "०८ अपो यदद्रिं"
 
 +++
-अ॒पो यदद्रिं॑ पुरुहूत॒ दर्द॑रा॒विर्भु॑वत् स॒रमा॑ पू॒र्व्यं ते॑ ।  
-स नो॑ ने॒ता वाज॒मा द॑र्षि॒ भूरिं॑ गो॒त्रा रु॒जन्नङ्गि॑रोभिर्गृणा॒नः ॥८॥
+When, Much-invoked! the waters' rock thou deftest, Sarama showed herself and went before thee. Hymned by Angirases, bursting the cowstalls, thou foundest ample strength for us as leader.

@@ -2,4 +2,4 @@
 title = "०३ ये वां"
 
 +++
-ये वां॒ दंसां॑स्यश्विना॒ विप्रा॑सः परिमामृ॒शुः । ए॒वेत्का॒ण्वस्य॑ बोधतम्॥३॥  
+Remember Karnva first of all among the singers,, Asvins, who Have thought upon your wondrous deeds.

@@ -2,5 +2,4 @@
 title = "१३ यो३भियातो निलयते"
 
 +++
-यो॒३भिया॑तो नि॒लय॑ते॒ त्वां रु॑द्र नि॒चिकी॑र्षति ।  
-प॒श्चाद॑नु॒प्रयु॑ङ्क्षे॒ तं वि॒द्धस्य॑ पद॒नीरि॑व ॥१३॥  
+Thou, Rudra, followest close the foe who lies in wait to conquer thee. Even as a hunter who pursues the footsteps of the wounded game.

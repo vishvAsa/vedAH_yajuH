@@ -2,4 +2,4 @@
 title = "१४ कैरातिका कुमारिका"
 
 +++
-कै॒रा॒ति॒का कु॑मारि॒का स॒का ख॑नति भेष॒जम्। हि॒र॒ण्ययी॑भि॒रभ्रि॑भिर्गिरी॒णामुप॒ सानु॑षु॥१४॥  
+The young maid of Kirata race, a little damsel, digs the drug, Digs it with shovels wrought of gold on the high ridges of the hills.

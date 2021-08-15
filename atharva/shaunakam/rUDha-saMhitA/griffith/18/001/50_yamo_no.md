@@ -2,5 +2,4 @@
 title = "५० यमो नो"
 
 +++
-य॒मो नो॑ गा॒तुं प्र॑थ॒मो वि॑वेद॒ नैषा गव्यू॑ति॒रप॑भर्त॒वा उ॑ ।
-यत्रा॑ नः॒ पूर्वे॑ पि॒तरः॒ परे॑ता ए॒ना ज॑ज्ञा॒नाः प॒थ्या॒३ अनु॒ स्वाः ॥५०॥
+Yama first found for us the road to travel: this pasture never can be taken from us. Men born on earth tread their own paths that lead them whither our ancient Fathers have departed.

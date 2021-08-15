@@ -2,5 +2,4 @@
 title = "०६ इन्द्रासोमा परि"
 
 +++
-इन्द्रा॑सोमा॒ परि॑ वां भूतु वि॒श्वत॑ इ॒यं म॒तिः क॒क्ष्याश्वे॑व वा॒जिना॑ ।  
-यां वां॒ होत्रां॑ परिहि॒नोमि॑ मे॒धये॒मा ब्रह्मा॑णि नृ॒पती॑ इव जिन्वतम्॥६॥  
+Indra and Soma, let this hymn control you both, even as the girth encompasses two vigorous steeds The song of praise which I with wisdom offer you. Do ye, as Lords of men, animate these my prayers.

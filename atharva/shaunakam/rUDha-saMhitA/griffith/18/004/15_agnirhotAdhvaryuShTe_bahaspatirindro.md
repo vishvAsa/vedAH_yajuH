@@ -2,5 +2,4 @@
 title = "१५ अग्निर्होताध्वर्युष्टे बहस्पतिरिन्द्रो"
 
 +++
-अ॒ग्निर्होता॑ध्व॒र्युष्टे॒ बह॒स्पति॒रिन्द्रो॑ ब्र॒ह्मा द॑क्षिण॒तस्ते॑ अस्तु ।  
-हु॒तोऽयं संस्थि॑तो य॒ज्ञ ए॑ति॒ यत्र॒ पूर्व॒मय॑नं हु॒ताना॑म्॥१५॥  
+On thy right hand let Indra be thy Brahman, Brihaspati Adh- varyu Agni Hotar. This ordered sacrifice goes offered thither whither presented gifts have gone aforetime.

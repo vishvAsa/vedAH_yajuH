@@ -2,4 +2,4 @@
 title = "२० वयं शूरेभिरस्तृभिरिन्द्र"
 
 +++
-व॒यं शूरे॑भि॒रस्तृ॑भि॒रिन्द्र॒ त्वया॑ यु॒जा व॒यम्। सा॒स॒ह्याम॑ पृतन्य॒तः ॥२०॥
+With thee, O Indra, for ally, with missile-darting heroes may We conquer our embattled foes.

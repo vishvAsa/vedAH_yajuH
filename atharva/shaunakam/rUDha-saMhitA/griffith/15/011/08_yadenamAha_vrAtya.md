@@ -2,4 +2,4 @@
 title = "०८ यदेनमाह व्रात्य"
 
 +++
-यदे॑न॒माह॒ व्रात्य॒ यथा॑ ते॒ वश॒स्तथा॒स्त्विति॒ वश॑मे॒व तेनाव॑ रुन्द्धे ॥८॥  
+When he says to him, Vratya, as thy will is so let it be, he secures to himself thereby the fulfilment of his will.

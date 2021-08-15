@@ -2,5 +2,4 @@
 title = "०२ यूयमुग्रा मरुत"
 
 +++
-यू॒यमु॒ग्रा म॑रुत ई॒दृशे॑ स्था॒भि प्रेत॑ मृ॒णत॒ सह॑ध्वम्।  
-अमी॑मृण॒न् वस॑वो नाथि॒ता इ॒मे अ॒ग्निर्ह्येऽषां दू॒तः प्र॒त्येतु॑ वि॒द्वान्॥२॥  
+Mighty are ye for such a deed, O Maruts. Go forward, overcome them and destroy them. The Vasus slew, and these were left imploring. Wise Agni as our messenger assail them!

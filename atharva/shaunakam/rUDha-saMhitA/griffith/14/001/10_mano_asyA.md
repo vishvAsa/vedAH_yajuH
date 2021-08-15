@@ -2,5 +2,4 @@
 title = "१० मनो अस्या"
 
 +++
-मनो॑ अस्या॒ अन॑ आसी॒द् द्यौरा॑सीदु॒त च्छ॒दिः ।  
-शु॒क्राव॑न॒ड्वाहा॑वास्तां॒ यदया॑त् सू॒र्या पति॑म्॥१०॥  
+Her spirit was the bridal car, the canopy thereof was heaven: Two radiant oxen formed the team when Surya came unto her lord.

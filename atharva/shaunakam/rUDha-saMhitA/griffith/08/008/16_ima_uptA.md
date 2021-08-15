@@ -2,5 +2,4 @@
 title = "१६ इम उप्ता"
 
 +++
-इ॒म उ॒प्ता मृ॑त्युपा॒शा याना॒क्रम्य॒ न मु॒च्यसे॑ ।  
-अ॒मुष्या॑ हन्तु॒ सेना॑या इ॒दं कूटं॑ सहस्र॒शः ॥१६॥  
+Here spread are snares of Death wherefrom thou, once within them, ne'er art freed: Full many a thousand of the host yonder this horn shall smite and slay.

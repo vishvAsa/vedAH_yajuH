@@ -2,5 +2,4 @@
 title = "०१ यन्नासत्या भुरण्यथो"
 
 +++
-यन्ना॑सत्या भुर॒ण्यथो॒ यद्वा॑ देव भिष॒ज्यथः॑ ।  
-अ॒यं वां॑ व॒त्सो म॒तिभि॒र्न वि॑न्धते ह॒विष्म॑न्तं॒ हि गच्छ॑थः ॥१॥  
+What force, Nasatyas, ye exert, whatever, Gods, ye tend and heal, This your own Vatsa gains not by his hymns alone: ye visit him who offers gifts.

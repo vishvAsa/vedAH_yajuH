@@ -2,5 +2,4 @@
 title = "०९ त्रिशीर्षाणं त्रिककुदं"
 
 +++
-त्रि॒शी॒र्षाणं॑ त्रिक॒कुदं॒ क्रिमिं॑ सा॒रङ्ग॒मर्जु॑नम्।  
-शृ॒णाम्य॑स्य पृ॒ष्टीरपि॑ वृश्चामि॒ यच्छिरः॑ ॥९॥  
+I kill you, worms, as Atri, as Kanva and Jamadagni killed. I crush the worms to pieces with a spell that erst Agastya used.

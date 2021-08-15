@@ -2,4 +2,4 @@
 title = "०१ अभि प्र"
 
 +++
-अ॒भि प्र गोप॑तिं गि॒रेन्द्र॑मर्च॒ यथा॑ वि॒दे। सू॒तुं स॒त्यस्य॒ सत्प॑तिम्॥१॥  
+Praise, even as he is known, with song Indra the guardian of the kine, The Son of Truth, Lord of the brave.

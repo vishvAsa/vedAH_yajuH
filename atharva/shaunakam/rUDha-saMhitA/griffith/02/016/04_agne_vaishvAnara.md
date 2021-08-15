@@ -2,4 +2,7 @@
 title = "०४ अग्ने वैश्वानर"
 
 +++
-अग्ने॑ वैश्वानर॒ विश्वै॑र्मा दे॒वैः पा॑हि॒ स्वाहा॑ ॥४॥  
+id
+2.16.4    As Brahmanhood and Princely Power fear not, no...
+2.16.4    Agni Vaisvanara, with all Gods preserve me! Al...
+Name: Comment, dtype: object

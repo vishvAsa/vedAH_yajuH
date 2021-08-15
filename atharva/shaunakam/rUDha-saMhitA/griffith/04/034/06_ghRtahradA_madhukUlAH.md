@@ -2,5 +2,4 @@
 title = "०६ घृतह्रदा मधुकूलाः"
 
 +++
-घृ॒तह्र॑दा॒ मधु॑कूलाः॒ सुरो॑दकाः क्षी॒रेण॑ पू॒र्णा उ॑द॒केन॑ द॒ध्ना।  
-ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त् पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥६॥  
+Full lakes of butter with their banks of honey, flowing with wine, and milk and curds and water Abundant with their overflow of sweetness, these streams shall reach thee in the world of Svarga, whole lakes with lotus- blossom shall approach thee.

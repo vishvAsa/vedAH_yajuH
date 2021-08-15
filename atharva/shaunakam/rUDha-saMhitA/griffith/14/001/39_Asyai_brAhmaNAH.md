@@ -2,5 +2,4 @@
 title = "३९ आस्यै ब्राह्मणाः"
 
 +++
-आस्यै॑ ब्राह्म॒णाः स्नप॑नीर्हर॒न्त्ववी॑रघ्नी॒रुद॑ज॒न्त्वापः॑ ।  
-अ॒र्य॒म्णो अ॒ग्निं पर्ये॑तु पूष॒न् प्रती॑क्षन्ते॒ श्वशु॑रो दे॒वर॑श्च ॥३९॥  
+Hither let Brahmans bring her bathing water; let them draw such as guards the lives of heroes. Aryaman's fire let her encircle, Pushan! Fathers-in-law stand, with their sons, expectant.

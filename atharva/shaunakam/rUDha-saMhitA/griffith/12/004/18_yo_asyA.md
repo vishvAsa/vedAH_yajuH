@@ -2,5 +2,4 @@
 title = "१८ यो अस्या"
 
 +++
-यो अ॑स्या॒ ऊधो॒ न वेदाथो॑ अस्या॒ स्तना॑नु॒त।  
-उ॒भये॑नै॒वास्मै॑ दुहे॒ दातुं॒ चे दश॑कद् व॒शाम्॥१८॥  
+The man who hath no knowledge of her udder and the teats thereof, She yields him milk with these, if he hath purposed to bestow the Cow.

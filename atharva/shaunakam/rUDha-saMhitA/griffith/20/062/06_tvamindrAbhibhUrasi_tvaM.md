@@ -2,5 +2,4 @@
 title = "०६ त्वमिन्द्राभिभूरसि त्वं"
 
 +++
-  
-त्वमि॑न्द्राभि॒भूर॑सि॒ त्वं सूर्य॑मरोचयः । वि॒श्वक॑र्मा वि॒श्वदे॑वो म॒हाँ अ॑सि ॥६॥  
+Thou, Indra, art preeminent: thou gavest splendour to the Sun. Maker of all things, thou art mighty and All-God.

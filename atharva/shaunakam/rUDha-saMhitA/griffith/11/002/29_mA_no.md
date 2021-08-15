@@ -2,5 +2,4 @@
 title = "२९ मा नो"
 
 +++
-मा नो॑ म॒हान्त॑मु॒त मा नो॑ अर्भ॒कं मा नो॒ वह॑न्तमु॒त मा नो॑ वक्ष्य॒तः ।  
-मा नो॑ हिंसीः पि॒तरं॑ मा॒तरं॑ च॒ स्वां त॒न्वंऽ रुद्र॒ मा री॑रिषो नः ॥२९॥  
+Harm thou among us neither great nor little, not one who bears us, not our future bearers. Injure no sire among us, harm no mother. Forbear to injure our own bodies, Rudra.

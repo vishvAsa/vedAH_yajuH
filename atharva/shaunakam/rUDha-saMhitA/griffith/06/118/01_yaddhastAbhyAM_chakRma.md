@@ -2,5 +2,4 @@
 title = "०१ यद्धस्ताभ्यां चकृम"
 
 +++
-यद्धस्ता॑भ्यां चकृ॒म किल्बि॑षाण्य॒क्षानां॑ ग॒त्नुमु॑प॒लिप्स॑मानाः ।  
-उ॒ग्रं॒प॒श्ये उ॑ग्र॒जितौ॒ तद॒द्याप्स॒रसा॒वनु॑ दत्तामृ॒णं नः॑ ॥१॥  
+If we have sinned with both our hands, desiring to take the host of dice for our possession, May both Apsarases to-day forgive us that debt, the fiercely- conquering, fiercely-looking.

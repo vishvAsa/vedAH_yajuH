@@ -2,5 +2,4 @@
 title = "०५ जरां सु"
 
 +++
-ज॒रां सु ग॑च्छ॒ परि॑ धत्स्व॒ वासो॒ भवा॑ गृष्टी॒नाम॑भिशस्ति॒पा उ॑ ।  
-श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒ची रा॒यश्च॒ पोष॑मुप॒संव्य॑यस्व ॥५॥  
+Advance to good old age: endue the mantle. Be thou our heifers' guard from imprecation. Live thou a hundred full and plenteous autumns, and wrap thee in prosperity of riches.

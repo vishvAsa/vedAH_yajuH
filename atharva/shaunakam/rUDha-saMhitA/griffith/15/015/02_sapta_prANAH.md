@@ -2,4 +2,4 @@
 title = "०२ सप्त प्राणाः"
 
 +++
-स॒प्त प्रा॒णाः स॒प्तापा॒नाः स॒प्त व्या॒नाः ॥२॥  
+There are seven vital airs, seven downward breaths, seven diff- used breaths.

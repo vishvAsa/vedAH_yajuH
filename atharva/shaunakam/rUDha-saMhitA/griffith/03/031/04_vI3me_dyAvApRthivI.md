@@ -2,5 +2,4 @@
 title = "०४ वी३मे द्यावापृथिवी"
 
 +++
-वी॒३मे द्यावा॑पृथि॒वी इ॒तो वि पन्था॑नो॒ दिशं॑दिशम्।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥४॥  
+Parted are heaven and earth, and paths turned to each quarter of the sky. I free, etc.

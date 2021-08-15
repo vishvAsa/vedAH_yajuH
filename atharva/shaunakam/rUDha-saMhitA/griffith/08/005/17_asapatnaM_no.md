@@ -2,5 +2,4 @@
 title = "१७ असपत्नं नो"
 
 +++
-अ॒स॒प॒त्नं नो॑ अध॒राद॑सप॒त्नं न॑ उत्त॒रात्।  
-इन्द्रा॑सप॒त्नं नः॑ प॒श्चाज्ज्योतिः॑ शूर पु॒रस्कृ॑धि ॥१७॥  
+Brave Indra, set before us light, peace and security from below, Peace and security from above, peace and security from behind.

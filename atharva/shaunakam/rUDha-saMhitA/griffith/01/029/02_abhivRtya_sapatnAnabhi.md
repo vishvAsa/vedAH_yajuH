@@ -2,5 +2,4 @@
 title = "०२ अभिवृत्य सपत्नानभि"
 
 +++
-अ॒भि॒वृत्य॑ स॒पत्ना॑न॒भि या नो॒ अरा॑तयः ।  
-अभि पृ॑त॒न्यन्तं॑ तिष्ठा॒भि यो नो॑ दुर॒स्यति॑ ॥२॥  
+Subduing those who rival us, subduing all malignities, Withstand the man who menaces, and him who seeks to injure- us.

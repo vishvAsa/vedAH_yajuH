@@ -2,6 +2,4 @@
 title = "०३ यस्योरुषु त्रिषु"
 
 +++
-यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑नेष्वधिक्षि॒यन्ति॒ भुव॑नानि॒ विश्वा॑ ।  
-उ॒रु वि॑ष्णो॒ वि क्र॑मस्वो॒रु क्षया॑य नस्कृधि ।  
-घृ॒तं घृ॑तयोने पिब॒ प्रप्र॑ य॒ज्ञप॑तिं तिर ॥३॥  
+Thou within whose three wide-extended paces all worlds and creatures have their habitation, Drink oil, thou homed in oil! promote the sacrificer more and more.

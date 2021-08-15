@@ -2,5 +2,4 @@
 title = "०७ पञ्चौदनं पञ्चभिरङ्गुलिभिर्दर्व्योद्धर"
 
 +++
-पञ्चौ॑दनं प॒ञ्चभि॑र॒ङ्गुलि॑भि॒र्द॑र्व्योद्ध॑र पञ्च॒धैतमो॑द॒नम्।  
-प्राच्यां॑ दि॒शि शिरो॑ अ॒जस्य॑ धेहि॒ दक्षि॑णायां दि॒शि दक्षि॑णं धेहि पा॒र्श्वम्॥७॥  
+Set the Goat's head toward the eastern region, and turn his right side to the southern quarter. His hinder part turn to the western quarter, and set his left side to the northern region.

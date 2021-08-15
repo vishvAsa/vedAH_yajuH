@@ -2,5 +2,4 @@
 title = "०१ इन्द्रेण मन्युना"
 
 +++
-इन्द्रे॑ण म॒न्युना॑ व॒यम॒भि ष्या॑म पृतन्य॒तः ।  
-घ्नन्तो॑ वृ॒त्राण्य॑प्र॒ति॥१॥
+With Indra's and with Manyu's aid may we subdue our enemies, resistlessly destroying foes.

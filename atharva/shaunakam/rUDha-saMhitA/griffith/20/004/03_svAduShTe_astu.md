@@ -2,4 +2,4 @@
 title = "०३ स्वादुष्टे अस्तु"
 
 +++
-स्वा॒दुष्टे॑ अस्तु सं॒सुदे॒ मधु॑मान् त॒न्वे॒३ तव॑ । सोमः॒ शम॑स्तु ते हृ॒दे॥३॥
+Sweet to thy body let it be, delicious be the savoury juice. Sweet be the Soma to thy heart.

@@ -2,5 +2,4 @@
 title = "०७ सूर्यो मे"
 
 +++
-सूर्यो॑ मे॒ चक्षु॒र्वातः॑ प्रा॒णो॒३न्तरि॑क्षमा॒त्मा पृ॑थि॒वी शरी॑रम्।  
-अ॒स्तृ॒तो नामा॒हम॒य म॑स्मि॒ स आ॒त्मानं॒ नि द॑धे॒ द्यावा॑पृथि॒वीभ्यां॑ गोपी॒थाय॑ ॥७॥  
+Mine eye is Siirya and my breath is Vata, Air is my soul and Prithivi my body. I verily who never have been conquered give up my life toe Heaven and Earth for keeping.

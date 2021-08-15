@@ -2,4 +2,4 @@
 title = "०३ उर्वश्च मा"
 
 +++
-उ॒र्वश्च॑ मा चम॒सश्च॒ मा हा॑सिष्टां ध॒र्ता च॑ मा ध॒रुण॑श्च॒ मा हा॑सिष्टाम्॥३॥  
+Let not the Boiler and the Cup fail tme: let not the Supporter and the Sustainer abandon me.

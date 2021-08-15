@@ -2,4 +2,4 @@
 title = "०६ यन्नूनं धीभिरश्विना"
 
 +++
-यन्नू॒नं धी॒भिर॑श्विना पि॒तुर्योना॑ नि॒षीद॑थः । यद्वा॑ सु॒म्नेभि॑रुक्थ्या ॥६॥
+When, Asvins worthy of our lauds, ye seat you in the father's house. With wisdom or the bliss ye bring.

@@ -2,4 +2,4 @@
 title = "०२ नव यो"
 
 +++
-नव॒ यो न॑व॒तिं पुरो॑ बि॒भेद॑ बा॒ह्वोजसा । अहिं॑ च वृत्र॒हाव॑धीत्॥२॥  
+Him who with might of both his arms brake nine-and ninety castles down, Slew Vritra and smote Ahi dead.

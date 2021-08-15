@@ -2,5 +2,4 @@
 title = "०२ सं माग्ने"
 
 +++
-सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा ।  
-वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ विद्यात् सह ऋषि॑भिः ॥२॥  
+Endow me with the gift of strength, with children, and a length- ened life. May the Gods mark this prayer of mine, may Indra with the Rishis mark.

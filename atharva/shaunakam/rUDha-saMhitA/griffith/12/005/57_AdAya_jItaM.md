@@ -2,4 +2,4 @@
 title = "५७ आदाय जीतं"
 
 +++
-आ॒दाय॑ जी॒तं जी॒ताय॑ लो॒के॒३ऽमुष्मि॒न् प्र य॑च्छसि ॥५७॥  
+Bearing off wrong, thou givest in that world to him who hath been wronged.

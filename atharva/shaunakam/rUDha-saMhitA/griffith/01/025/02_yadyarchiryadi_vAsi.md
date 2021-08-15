@@ -2,5 +2,4 @@
 title = "०२ यद्यर्चिर्यदि वासि"
 
 +++
-यद्य॒र्चि॑र्यदि॒ वासि॑ शो॒चिः श॑कल्ये॒षि यदि॑ वा ते ज॒नित्र॑म्।  
-ह्रूडु॒र्नामा॑सि हरितस्य देव॒ स नः॑ संवि॒द्वान् परि॑ वृङ्ग्धि तक्मन्॥२॥  
+If thou be fiery glow, or inflammation, or if thy birthplace call for chips of fuel, Rack is thy name, God of the sickly yellow! O Fever, yielding to our prayer avoid us.

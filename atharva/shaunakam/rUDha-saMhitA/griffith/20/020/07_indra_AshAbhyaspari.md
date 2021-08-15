@@ -2,4 +2,4 @@
 title = "०७ इन्द्र आशाभ्यस्परि"
 
 +++
-इन्द्र॒ आशा॑भ्य॒स्परि॒ सर्वा॑भ्यो॒ अभ॑यं करत्।जेता॒ शत्रू॑न् विच॑र्षणिः ॥७॥
+From all the regions of the world let Indra send security. The foe-subduer, swift to act.

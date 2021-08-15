@@ -2,5 +2,4 @@
 title = "०२ धाम्नोधाम्नो राजन्नितो"
 
 +++
-धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण मुञ्च नः ।  
-यदापो॑ अ॒घ्न्या इति॒ वरु॒णेति॒ यदू॑चि॒म ततो॑ वरुण मुञ्च नः ॥२॥  
+Hence free thou us, King Varuna, from each successive bond and tie. As we have cried, O Varuna! have said, The Waters, they are kine, thence set us free, O Varuna.

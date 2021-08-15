@@ -2,5 +2,4 @@
 title = "१६ अग्ने चरुर्यज्ञियस्त्वाध्यरुक्षच्छुचिस्तपिष्ठस्तपसा"
 
 +++
-अग्ने॑ च॒रुर्य॒ज्ञिय॒स्त्वाध्य॑रुक्ष॒च्छुचि॒स्तपि॑ष्ठ॒स्तप॑सा तपैनम्।  
-आ॒र्षे॒या दै॒वा अ॑भिसं॒गत्य॒ भा॒गमि॒मं तपि॑ष्ठा ऋ॒तुभि॑स्तपन्तु ॥१६॥  
+Agni, on thee the sacrificial caldron hath mounted: shining,. fiercely flaming, heat it. May hottest flames, divine, sprung from the Rishis, gathering, with the Seasons, heat this portion.

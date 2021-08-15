@@ -2,5 +2,4 @@
 title = "०१ अश्मवर्म मेऽसि"
 
 +++
-अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ प्राच्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
-ए॒तत् स ऋ॑च्छात्॥१॥  
+Thou art my wall of stone against the sinner who fights against me from the eastern quarter. May he encounter it!

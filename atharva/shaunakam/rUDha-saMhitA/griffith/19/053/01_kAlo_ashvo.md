@@ -2,5 +2,4 @@
 title = "०१ कालो अश्वो"
 
 +++
-का॒लो अश्वो॑ वहति स॒प्तर॑श्मिः सहस्रा॒क्षो अ॒जरो॒ भूरि॑रेताः ।  
-तमा रो॑हन्ति क॒वयो॑ विप॒श्चित॒स्तस्य॑ च॒क्रा भुव॑नानि॒ विश्वा॑ ॥१॥  
+Prolific, thousand-eyed, and undecaying, a horse with seven reins Time bears us onward. Sages inspired with holy knowledge mount him: his chariot wheels are all the worlds of creatures.

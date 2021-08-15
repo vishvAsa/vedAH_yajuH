@@ -2,5 +2,4 @@
 title = "०१ उत् तिष्ठत"
 
 +++
-उत् ति॑ष्ठत॒ सं न॑ह्यध्व॒मुदा॑राः के॒तुभिः॑ स॒ह।  
-सर्पा॒ इत॑रजना॒ रक्षां॑स्य॒मित्रा॒ननु॑ धावत ॥१॥  
+Rise up, with all your banners rise; prepare your strength, ye vapoury Forms! Serpents and fiends and Other Folk, charge and pursue our enemies!

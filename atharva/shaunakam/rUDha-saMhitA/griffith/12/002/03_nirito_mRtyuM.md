@@ -2,5 +2,4 @@
 title = "०३ निरितो मृत्युं"
 
 +++
-निरि॒तो मृ॒त्युं निरृ॑तिं॒ निररा॑तिमजामसि ।  
-यो नो॒ द्वेष्टि॒ तम॑द्ध्यग्ने अक्रव्या॒द् यमु॑ द्वि॒ष्मस्तमु॑ ते॒ प्र सु॑वामसि ॥३॥  
+Death and Misfortune we expel, Malignity we drive away. O Agni, thou who eatest not the corpse, eat him who hateth us: him whom we hate we send to thee.

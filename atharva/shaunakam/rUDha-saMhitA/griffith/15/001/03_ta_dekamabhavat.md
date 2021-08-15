@@ -2,5 +2,4 @@
 title = "०३ त देकमभवत्"
 
 +++
-त देक॑मभव॒त् तल्ल॒लाम॑मभव॒त् तन्म॒हद॑भव॒त् तज्ज्ये॒ष्ठम॑भव॒त् तद्  
-ब्रह्मा॑भव॒त् तत् तपो॑ऽभव॒त् तत् स॒त्यम॑भव॒त् तेन॒ प्राजा॑यत ॥३॥  
+That became unique, that became distinguished, that became great, that became excellent, that became Devotion, that be- came holy Fervour, that became Truth: through that he was born.

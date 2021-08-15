@@ -2,5 +2,4 @@
 title = "२८ उत् त्वाहार्षं"
 
 +++
-उत् त्वा॑हार्षं॒ पञ्च॑शला॒दथो॒ दश॑शलादु॒त।  
-अथो॑ य॒मस्य॒ पड्वी॑शा॒द् विश्व॑स्माद् देवकिल्बि॒षात्॥२८॥
+From the Five-arrowed, from the Ten-arrowed have I delivered thee, Freed thee from Yama's fetter and from all offence against the Gods,

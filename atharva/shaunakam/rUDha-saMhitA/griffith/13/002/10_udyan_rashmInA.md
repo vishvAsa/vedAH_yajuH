@@ -2,5 +2,4 @@
 title = "१० उद्यन् रश्मीना"
 
 +++
-उ॒द्यन् र॒श्मीना त॑नुषे॒ विश्वा॑ रु॒पाणि॑ पुष्यसि ।  
-उ॒भा स॑मु॒द्रौ क्रतु॑ना॒ वि भा॑सि॒ सर्वां॑ल्लो॒कान् प॑रि॒भूर्भ्राज॑मानः ॥१०॥  
+Rising, thou spreadest out thy rays, thou nourishest all shapes and forms. Thou with thy power illumest both the oceans, encompassing all spheres with thy refulgence.

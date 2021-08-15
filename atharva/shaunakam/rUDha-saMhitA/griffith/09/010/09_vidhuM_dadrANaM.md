@@ -2,5 +2,4 @@
 title = "०९ विधुं दद्राणं"
 
 +++
-वि॒धुं द॑द्रा॒णं स॑लि॒लस्य॑ पृ॒ष्ठे युवा॑नं॒ सन्तं॑ पलि॒तो ज॑गार ।  
-दे॒वस्य॑ पश्य॒ काव्यं॑ महि॒त्वाद्य म॒मार॒ स ह्यः समा॑न ॥९॥  
+The old hath waked the young Moon from his slumber, who runs his circling course with many round him. Behold the God's high wisdom in its greatness: he who died yesterday to-day is living.

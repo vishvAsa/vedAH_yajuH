@@ -2,5 +2,4 @@
 title = "०१ प्रतीचीनफलो हि"
 
 +++
-प्र॒ती॒चीन॑फलो॒ हि त्वमपा॑मार्ग रु॒रोहि॑थ ।  
-सर्वा॒न् मच्छ॒पथाँ अधि॒ वरी॑यो यावया इ॒तः ॥१॥  
+With retroverted fruit hast thou, O Apamarga, sprung and grown. Hence into distance most remote drive every curse away from, me.

@@ -2,4 +2,4 @@
 title = "०३ अपां फेनेन"
 
 +++
-अ॒पां फेने॑न॒ नमु॑चेः॒ शिर॑ इ॒न्द्रोद॑वर्तयः । विश्वा॒ यदज॑य॒ स्पृधः॑ ॥३॥  
+With waters' foam thou torest off, Indra, the head of Namuchi, Subduing all contending hosts.

@@ -2,5 +2,4 @@
 title = "०७ अर्यमणं बृहस्पतिमिन्द्रं"
 
 +++
-अ॒र्य॒मणं॒ बृह॒स्पति॒मिन्द्रं॒ दाना॑य चोदय ।  
-वातं॒ विष्णुं॒ सर॑स्वतीं सवि॒तारं॑ च वा॒जिन॑म्॥७॥  
+Urge Aryaman to send us gifts, and Indra, and Brihaspati, Vata, Vishnu, Sarasvati, and the strong courser Savitar.

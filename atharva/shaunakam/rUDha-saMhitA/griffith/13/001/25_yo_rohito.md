@@ -2,5 +2,4 @@
 title = "२५ यो रोहितो"
 
 +++
-यो रोहि॑तो वृष॒भस्ति॒ग्मशृ॑ङ्गः॒ पर्य॒ग्निं परि॒ सूर्यं॑ ब॒भूव॑ ।  
-यो वि॑ष्ट॒भ्नाति॑ पृथि॒वीं दिवं॑ च॒ तस्मा॑द् दे॒वा अधि॒ सृष्टीः॑ सृजन्ते ॥२५॥  
+Rohita, Bull whose horns are sharply pointed, superior of Agni and of Surya, He who supports the sundered earth and heaven,--from him the Gods effect their own creations.

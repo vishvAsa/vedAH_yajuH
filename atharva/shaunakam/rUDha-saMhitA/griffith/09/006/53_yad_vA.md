@@ -2,4 +2,4 @@
 title = "५३ यद् वा"
 
 +++
-यद् वा अति॑थिपति॒रति॑थीन् परि॒विष्य॑ गृ॒हानु॑पो॒दैत्य॑व॒भृथ॑मे॒व तदु॒पावै॑ति ।५। ५३॥  
+Or if the host, having offered food to his guest, goes up to the house, he virtually enters the bath of purification.

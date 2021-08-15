@@ -2,5 +2,4 @@
 title = "०२ नमोऽस्त्वसिताय नमस्तिरश्चिराजये"
 
 +++
-नमो॑ऽस्त्वसि॒ताय॒ नम॒स्तिर॑श्चिराजये ।  
-स्व॒जाय॑ ब॒भ्रवे॒ नमो॒ नमो॑ देवज॒नेभ्यः॑ ॥२॥  
+Be worship paid unto the black, worship to that with stripes across! To the brown viper reverence, reverence to the demon brood!

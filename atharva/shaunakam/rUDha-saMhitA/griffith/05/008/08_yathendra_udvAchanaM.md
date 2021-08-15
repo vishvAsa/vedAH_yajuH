@@ -2,5 +2,4 @@
 title = "०८ यथेन्द्र उद्वाचनं"
 
 +++
-यथेन्द्र॑ उ॒द्वाच॑नं ल॒ब्ध्वा च॒क्रे अ॑धस्प॒दम्।  
-कृ॒ण्वे॒३ऽहमध॑रां॒स्तथा॒मूञ्छ॑श्व॒तीभ्यः॒ समा॑भ्यः ॥८॥  
+As Indra, having seized him, set his foot upon Udvachana, Even so for all the coming years I cast those men beneath my feet.

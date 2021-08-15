@@ -2,5 +2,4 @@
 title = "०३ इन्द्र एतमदीधरत्"
 
 +++
-इन्द्र॑ ए॒तम॑दीधरत् ध्रु॒वं ध्रु॒वेण॑ ह॒विषा॑ ।  
-तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥३॥
+This man hath Indra stablished, made secure by constant sacri- fice. Soma, and Brahmanaspati here present bless and comfort him!

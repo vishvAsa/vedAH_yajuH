@@ -2,5 +2,4 @@
 title = "१९ हृदयात् ते"
 
 +++
-हृद॑यात् ते॒ परि॑ क्लो॒म्नो हली॑क्ष्णात् पा॒र्श्वाभ्या॑म्।  
-यक्ष्मं॒ मत॑स्नाभ्यां प्ली॒ह्नो य॒क्नस्ते॒ वि वृ॑हामसि ॥१९॥  
+From viscera and all within, forth from the rectum, from the heart, From kidneys, liver and from spleen, I drive thy malady away.

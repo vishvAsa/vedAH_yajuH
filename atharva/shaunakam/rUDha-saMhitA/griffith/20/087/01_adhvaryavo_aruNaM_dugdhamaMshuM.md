@@ -2,5 +2,4 @@
 title = "०१ अध्वर्यवोऽरुणं दुग्धमंशुं"
 
 +++
-अध्व॑र्यवोऽरु॒णं दु॒ग्धमं॒शुं जु॒होत॑न वृष॒भाय॑ क्षिती॒नाम्।  
-गौ॒राद् वेदी॑यां अव॒पान॒मिन्द्रो॑ वि॒श्वाहेद् या॑ति सु॒तसो॑ममि॒च्छन्॥१॥  
+Priests, offer to the Lord of all the people the milked-out stalk of Soma, radiant-coloured. No wild bull knows his drinking-place like Indra who ever seeks him who hath pressed the Soma.

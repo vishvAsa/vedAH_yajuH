@@ -2,5 +2,4 @@
 title = "०५ हिङ्कृण्वती वसुपत्नी"
 
 +++
-हि॒ङ्कृ॒ण्व॒ती व॑सु॒पत्नी॒ वसू॑नां व॒त्समि॒च्छन्ती॒ मन॑सा॒भ्यागा॑त्।  
-दु॒हाम॒श्विभ्यां॒ पयो॑ अ॒घ्न्येयं सा व॑र्धतां मह॒ते सौभ॑गाय ॥५॥  
+She, Lady of all treasures, hath come hither, yearning in spirit for her calf, and lowing. May this Cow yield her milk for both the Asvins, and may she prosper to our high advantage.

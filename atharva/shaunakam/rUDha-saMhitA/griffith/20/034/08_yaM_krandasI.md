@@ -2,5 +2,4 @@
 title = "०८ यं क्रन्दसी"
 
 +++
-यं क्रन्द॑सी संय॒ती वि॒ह्वये॑ते॒ परेऽव॑रे उ॒भया॑ अ॒मित्राः॑ ।  
-स॒मा॒नं चि॒द् रथ॑मातस्थि॒वांसा॒ नाना॑ हवेते॒ स ज॑नास॒ इन्द्रः॑ ॥८॥  
+To whom both armies cry in close encounter, foe against foe, the stronger and the weaker; Whom two invoke upon one chariot mounted, each for himself, He, O ye men, is Indra.

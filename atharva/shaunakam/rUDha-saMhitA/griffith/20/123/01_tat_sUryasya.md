@@ -2,5 +2,4 @@
 title = "०१ तत् सूर्यस्य"
 
 +++
-तत् सूर्य॑स्य देव॒त्वं तन्म॑हि॒त्वं म॒ध्या कर्तो॒र्वित॑तं॒ सं ज॑भार ।  
-य॒देदयु॑क्त ह॒रितः॑ स॒धस्था॒दाद् रात्री॒ वास॑स्तनुते सि॒मस्मै॑ ॥१॥  
+This is the Godhead, this the might of Surya: he hath with- drawn what spread o'er work unfinished. When he hath loosed his horses from their station, straight over all night spreadeth out her garment.

@@ -2,5 +2,4 @@
 title = "१२ देवैनसात् पित्र्यान्नामग्राहात्"
 
 +++
-दे॒वै॒न॒सात् पित्र्या॑न्नामग्रा॒हात् सं॑दे॒श्याऽदभि॒निष्कृ॑तात्।  
-मु॒ञ्चन्तु॑ त्वा वी॒रुधो॑ वी॒र्येऽण॒ ब्रह्म॑ण ऋ॒ग्भिः पय॑स॒ ऋषी॑णाम्॥१२॥  
+From mention of thy name, from sin against the Fathers or the Gods, These herbs of healing shall by prayer release thee, by power, by holy texts, the milk of .Rishis.

@@ -2,5 +2,4 @@
 title = "०२ यो वः"
 
 +++
-यो वः॒ शुष्मो॒ हृद॑येष्व॒न्तराकू॑ति॒र्या वो॒ मन॑सि॒ प्रवि॑ष्टा ।  
-तान्त्सी॑वयामि ह॒विषा॑ घृ॒तेन॒ मयि॑ सजाता र॒मति॑र्वो अस्तु ॥२॥  
+The inclination which your hearts have harboured, the purpose which hath occupied your spirits, This I annul with sacrifice and butter. In me be your sweet resting-place, O kinsmen.

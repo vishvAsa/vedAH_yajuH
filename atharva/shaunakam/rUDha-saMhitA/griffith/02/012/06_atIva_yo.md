@@ -2,5 +2,4 @@
 title = "०६ अतीव यो"
 
 +++
-अती॑व॒ यो म॑रुतो॒ मन्य॑ते नो॒ ब्रह्म॑ वा॒ यो निन्दि॑षत् क्रि॒यमा॑णम्।  
-तपूं॑षि॒ तस्मै॑ वृजि॒नानि॑ सन्तु ब्रह्म॒द्विषं॒ द्यौर॑भि॒संत॑पाति ॥६॥  
+Whoever either scorns us, O ye Maruts, or blames devotion which we now are paying. Let his own wicked deeds be fires to burn him. May Heaven consume the man who hates devotion.

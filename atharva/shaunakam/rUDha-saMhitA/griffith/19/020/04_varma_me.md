@@ -2,5 +2,4 @@
 title = "०४ वर्म मे"
 
 +++
-वर्म॑ मे॒ द्यावा॑पृथि॒वी वर्माह॒र्वर्म॒ सूर्यः॑ ।  
-वर्म॑ मे॒ विश्वे॑ दे॒वाः क्र॒न् मा मा प्राप॑त् प्रतीचि॒का॥४॥
+My shield is Heaven and Earth, my shield is the bright Day, my shield the Sun. The Visva Devas made my shield. Let not misfortune fall on me.

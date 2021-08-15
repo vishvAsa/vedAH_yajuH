@@ -2,5 +2,4 @@
 title = "११ वर्चसा मां"
 
 +++
-वर्च॑सा॒ मां सम॑नक्त्व॒ग्निर्मे॒धां मे॒ विष्णु॒र्न्यऽनक्त्वा॒सन्।  
-र॒यिं मे॒ विश्वे॒ नि य॑च्छन्तु दे॒वाः स्यो॒ना मापः॒ पव॑नैः पुनन्तु ॥११॥  
+May Agni balm me thoroughly with splendour; may Vishnu. touch my lips with understanding. May all the Deities vouchsafe me riches, and pleasant Waters purify and cleanse me.

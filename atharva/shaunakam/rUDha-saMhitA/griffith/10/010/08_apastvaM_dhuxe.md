@@ -2,5 +2,4 @@
 title = "०८ अपस्त्वं धुक्षे"
 
 +++
-अ॒पस्त्वं धु॑क्षे प्रथ॒मा उ॒र्वरा॒ अप॑रा वशे ।  
-तृ॒तीयं॑ रा॒ष्ट्रं धु॒क्षेऽन्नं॑ क्षी॒रं व॑शे॒ त्वम्॥८॥  
+Thou pourest out the Waters first, and corn-lands afterward, O Cow. Thirdly thou pourest princely sway. O Cow, thou pourest food and milk.

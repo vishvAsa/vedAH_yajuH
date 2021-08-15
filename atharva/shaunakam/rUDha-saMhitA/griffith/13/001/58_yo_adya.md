@@ -2,5 +2,4 @@
 title = "५८ यो अद्य"
 
 +++
-यो अ॒द्य दे॑व सूर्य॒ त्वां च॒ मां चा॑न्त॒राय॑ति ।  
-दु॒ष्वप्न्यं॒ तस्मिं॒छम॑लं दुरि॒तानि॑ च मृज्महे ॥५८॥  
+Whoe'er he be who, Surya, God! comes between thee and me to-day, On him we wipe away ill-dream, and troubles, and impurity.

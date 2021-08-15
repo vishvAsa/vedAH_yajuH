@@ -2,5 +2,4 @@
 title = "०२ यानि चकार"
 
 +++
-या॑नि॑ च॒कार॒ भुव॑नस्य॒ यस्पतिः॑ प्र॒जाप॑तिर्मात॒रिश्वा॑ प्र॒जाभ्यः॑ ।  
-प्र॒दिशो॒ यानि॑ वस॒ते दिश॑श्च॒ तानि॑ मे॒ वर्मा॑णि बहु॒लानि॑ सन्तु ॥२॥  
+All that the World's Lord made, all that for creatures Prajapati and Matarisvan fashioned, All things within the quarters and their spaces, let all these be my manifold defences.

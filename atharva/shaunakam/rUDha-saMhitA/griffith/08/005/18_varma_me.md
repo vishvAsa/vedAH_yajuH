@@ -2,5 +2,4 @@
 title = "१८ वर्म मे"
 
 +++
-वर्म॑ मे॒ द्यावा॑पृथि॒वी वर्माह॒र्वर्म॒ सूर्यः॑ ।  
-वर्म॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒ वर्म॑ धा॒ता द॑धातु मे ॥१८॥  
+My coat of mail is Heaven and Earth, my coat of mail is Day and Sun: A coat of mail may Indra and Agni and Dhatar grant to me.

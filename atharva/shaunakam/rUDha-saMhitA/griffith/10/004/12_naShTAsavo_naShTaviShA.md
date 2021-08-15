@@ -2,4 +2,4 @@
 title = "१२ नष्टासवो नष्टविषा"
 
 +++
-न॒ष्टास॑वो न॒ष्टवि॑षा ह॒ता इन्द्रे॑ण व॒ज्रिणा॑ । ज॒घानेन्द्रो॑ जघ्नि॒मा व॒यम्॥१२॥  
+Bereft of life and poison they lie slain by bolt-armed Indra's hand. Indra and we have slaughtered them.

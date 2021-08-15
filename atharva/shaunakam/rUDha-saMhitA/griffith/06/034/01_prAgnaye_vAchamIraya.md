@@ -2,5 +2,4 @@
 title = "०१ प्राग्नये वाचमीरय"
 
 +++
-प्राग्नये॒ वाच॑मीरय वृष॒भाय॑ क्षिती॒नाम्।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥१॥  
+Send forth thy voice to Agni, to the manly hero of our homes, So may he bear us past our foes.

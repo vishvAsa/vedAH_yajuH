@@ -2,5 +2,4 @@
 title = "०९ न तिष्ठन्ति"
 
 +++
-न ति॑ष्ठन्ति॒ न नि मि॑षन्त्ये॒ते दे॒वानां॒ स्पश॑ इ॒ह ये चर॑न्ति ।
-अ॒न्येन॒ मदा॑हनो याहि॒ तूयं॒ तेन॒ वि वृ॑ह॒ रथ्ये॑व च॒क्रा॥९॥
+They stand not still, they never close their eyelids, those senti- nels of Gods who wander round us. Not me--go quickly, wanton, with another, and hasten like a chariot-wheel to meet him.

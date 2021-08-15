@@ -2,5 +2,4 @@
 title = "१५ न वर्षं"
 
 +++
-न व॒र्षं मै॑त्रावरु॒णं ब्र॑ह्म॒ज्यम॒भि व॑र्षति ।  
-नास्मै॒ समि॑तिः कल्पते॒ न मि॒त्रं न॑यते॒ वश॑म्॥१५॥
+The rain of Mitra-Varuna falls not on him who wrongs the priest. To him no counsel brings success: he wins, no friend to do his will.

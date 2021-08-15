@@ -2,5 +2,4 @@
 title = "०२ इयं वीरुन्मधुजाता"
 
 +++
-इ॒यं वी॒रुन्मधु॑जाता मधु॒श्चुन्म॑धु॒ला म॒धूः ।  
-सा विह्रु॑तस्य भेष॒ज्यथो॑ मशक॒जम्भ॑नी ॥२॥  
+Honey-born, honey-dropping, rich in honey, honeysweet, this herb, Is medicine that heals the wound and kills the gnat that bites and stings.

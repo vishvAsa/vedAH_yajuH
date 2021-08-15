@@ -2,5 +2,4 @@
 title = "०८ इममोदनं नि"
 
 +++
-इ॒ममो॑द॒नं नि द॑धे ब्राह्म॒णेषु॑ विष्टा॒रिणं॑ लोक॒जितं॑ स्व॒र्ग॑म्।  
-स मे॒ मा क्षे॑ष्ट स्व॒धया॒ पिन्व॑मानो वि॒श्वरू॑पा धे॒नुः का॑म॒दुघा॑ मे अस्तु ॥८॥
+I part this Odana among the Brahmans, Vishtari, conquering worlds and reaching heaven. Let me not lose it: swelling by its nature, be it my perfect Cow to grant all wishes!

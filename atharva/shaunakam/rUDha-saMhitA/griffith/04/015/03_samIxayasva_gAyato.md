@@ -2,5 +2,4 @@
 title = "०३ समीक्षयस्व गायतो"
 
 +++
-समी॑क्षयस्व॒ गाय॑तो॒ नभां॑स्य॒पां वेगा॑सः॒ पृथ॒गुद् वि॑जन्ताम्।  
-व॒र्षस्य॒ सर्गा॑ महयन्तु॒ भूमिं॑ पृथ॑ग् जायन्तां वी॒रुधो॑ वि॒श्वरू॑पाः ॥३॥  
+Cause us who sing to see the gathering vapours: out burst in many a place the rush of waters! Let floods of rain refresh the ground with gladness; and herbs spring various with each form and colour.

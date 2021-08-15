@@ -2,5 +2,4 @@
 title = "०३ यत् प्राण"
 
 +++
-यत् प्रा॒ण स्त॑नयि॒त्नुना॑भि॒क्रन्द॒त्योष॑धीः ।  
-प्र वी॑यन्ते॒ गर्भा॑न् दध॒तेऽथो॑ ब॒ह्वीर्वि जा॑यन्ते ॥३॥  
+When Prana with a thunderous voice shouts his loud message to the plants, They straightway are impregnate, they conceive, and bear abundantly.

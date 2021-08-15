@@ -2,4 +2,4 @@
 title = "०६ यत् तर्पणमाहरन्ति"
 
 +++
-यत् तर्प॑णमा॒हर॑न्ति॒ य ए॒वाग्नी॑षो॒मीयः॑ प॒शुर्ब॒ध्यते॒ स ए॒व सः ॥६॥  
+The libation which they bring; the sacrificial victim dedicated to Agni and Soma which is tied to the post, that, verily, is this man.

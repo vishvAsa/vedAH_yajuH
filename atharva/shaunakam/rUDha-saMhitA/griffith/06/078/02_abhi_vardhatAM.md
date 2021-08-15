@@ -2,5 +2,4 @@
 title = "०२ अभि वर्धतां"
 
 +++
-अ॒भि व॑र्धतां॒ पय॑सा॒भि रा॒ष्ट्रेण॑ वर्धताम्।  
-र॒य्या स॒हस्र॑वर्चसे॒मौ स्तामनु॑पक्षितौ ॥२॥  
+With life's sap let him comfort her, and raise her high with princely sway. In wealth that hath a thousand powers, this pair be inexhausti- ble!

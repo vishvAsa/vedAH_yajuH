@@ -2,4 +2,4 @@
 title = "०१ वीलु चिदारुजत्नुभिर्गुहा"
 
 +++
-वी॒लु चि॑दारुज॒त्नुभि॒र्गुहा॑ चिदिन्द्र॒ वह्नि॑भिः । अवि॑न्द उ॒स्रिया॒ अनु॑ ॥१॥  
+Thou, Indra, with the Tempest-Gods, the breakers down of what is firm, Foundest the kine even in the cave.

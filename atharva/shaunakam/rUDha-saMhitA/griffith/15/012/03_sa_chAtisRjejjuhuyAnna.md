@@ -2,4 +2,4 @@
 title = "०३ स चातिसृजेज्जुहुयान्न"
 
 +++
-स चा॑तिसृ॒जेज्जु॑हु॒यान्न चा॑तिसृ॒जेन्न जु॑हुयात्॥३॥  
+And if he gives permission he should sacrifice, if he does not permit him he should not sacrifice.

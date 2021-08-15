@@ -2,5 +2,4 @@
 title = "१३ न ते"
 
 +++
-न ते॑ ना॒थं य॒म्यत्रा॒हम॑स्मि॒ न ते॑ त॒नूं त॒न्वा॒३ सं प॑पृच्याम्।
-अ॒न्येन॒ मत् प्र॒मुदः॑ कल्पयस्व॒ न ते॒ भ्राता॑ सुभगे वष्ट्ये॒तत्॥१३॥
+I am no help for thee, no refuge, Yami, I will not clasp and press thee to my bosom. This is abhorrent to my mind and spirit--a brother on the couch beside a sister.

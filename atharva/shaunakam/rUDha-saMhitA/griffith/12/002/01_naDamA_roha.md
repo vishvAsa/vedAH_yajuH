@@ -2,5 +2,4 @@
 title = "०१ नडमा रोह"
 
 +++
-न॒डमा रो॑ह॒ न ते॒ अत्र॑ लो॒क इ॒दं सीसं॑ भाग॒धेयं॑ त॒ एहि॑ ।  
-यो गोषु॒ यक्ष्मः॒ पुरु॑षेषु॒ यक्ष्म॒स्तेन॒ त्वं सा॒कम॑ध॒राङ् परे॑हि ॥१॥  
+This is no place to hold thee; mount the Nada: this lead is thine appointed share. Come hither. Together with Consumption in the cattle, Consumption in our men, go henee, go southward.

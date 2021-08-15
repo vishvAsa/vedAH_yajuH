@@ -2,5 +2,4 @@
 title = "०१ अग्निर्नः शत्रून्"
 
 +++
-अ॒ग्निर्नः॒ शत्रू॒न् प्रत्ये॑तु वि॒द्वान् प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्।  
-स सेनां॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥१॥  
+Let the wise Agni go against our foemen, burning against ill-will and imprecation Let him bewilder our opponents' army, Let Jatavedas smite and make them handless.

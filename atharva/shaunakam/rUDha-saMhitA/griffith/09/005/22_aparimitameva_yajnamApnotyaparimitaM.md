@@ -2,5 +2,4 @@
 title = "२२ अपरिमितमेव यज्ञमाप्नोत्यपरिमितं"
 
 +++
-अप॑रिमितमे॒व य॒ज्ञमा॒प्नोत्यप॑रिमितं लो॒कमव॑ रुन्धे ।  
-यो॒३ऽजं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥२२॥  
+A boundless sacrifice he performs, he wins himself a boundless world: Who gives the Goat Panchaudana illumined with a priestly fee.

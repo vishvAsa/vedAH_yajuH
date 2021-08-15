@@ -2,5 +2,4 @@
 title = "०९ अजा रोह"
 
 +++
-अजा रो॑ह सु॒कृतां॒ यत्र॑ लो॒कः श॑र॒भो न च॒त्तोऽति॑ दु॒र्गान्ये॑षः ।  
-पञ्चौ॑दनो ब्र॒ह्मणे॑ दी॒यमा॑नः॒ स दा॒तारं॒ तृप्त्या॑ तर्पयाति ॥९॥  
+Rise to that world, O Goat, where dwell the righteous: pass, like a Sarabha veiled, all difficult places. The Goat Panchaudana, given to a Brahman, shall with all ful- ness satisfy the giver.

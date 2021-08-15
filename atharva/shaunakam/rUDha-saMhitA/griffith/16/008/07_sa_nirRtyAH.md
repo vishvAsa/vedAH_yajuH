@@ -2,4 +2,4 @@
 title = "०७ स निरृत्याः"
 
 +++
-स निरृ॑त्याः पाशा॒न्मा मो॑चि ॥३॥  
+Whatever we have gained, etc. Let him not be freed from the noose of Brihaspati, etc.

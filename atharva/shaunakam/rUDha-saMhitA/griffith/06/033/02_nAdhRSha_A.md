@@ -2,5 +2,4 @@
 title = "०२ नाधृष आ"
 
 +++
-नाधृ॑ष॒ आ द॑धृषते धृषा॒णो धृ॑षि॒तः शवः॑ ।  
-पु॒रा यथा॑ व्य॒थिः श्रव॒ इन्द्र॑स्य॒ नाधृ॑षे॒ शवः॑ ॥२॥  
+The bold whose overpowering might the boldest never hath defied,-- As erst still, unassailable is Indra's wrath, and fame, and force.

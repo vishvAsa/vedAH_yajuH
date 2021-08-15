@@ -2,5 +2,4 @@
 title = "०१ प्रथमा ह"
 
 +++
-प्र॒थ॒मा ह॒ व्युऽवास॒ सा धे॒नुर॑भवद् य॒मे।  
-सा नः॒ पय॑स्वती दुहा॒मुत्त॑रामुत्तरां॒ समा॑म्॥१॥  
+The First hath dawned. With Yama may it be a cow to pour forth milk. May she be rich in milk and stream for us through many a com- ing year.

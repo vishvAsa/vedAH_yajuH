@@ -2,4 +2,4 @@
 title = "०४ इन्द्रेण रोचना"
 
 +++
-इन्द्रे॑ण रोच॒ना दि॒वो दृ॒ल्हानि॑ दृंहि॒तानि॑ च । स्थि॒राणि॒ न प॑रा॒णुदे॑ ॥४॥  
+By Indra were the luminous realms of heaven established and secured, Firm and immovable from their place.

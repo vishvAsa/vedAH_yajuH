@@ -2,5 +2,4 @@
 title = "२८ अग्नेः शरीरमसि"
 
 +++
-अ॒ग्नेः शरी॑रमसि पारयि॒ष्णु र॑क्षो॒हासि॑ सपत्न॒हा।  
-अथो॑ अमीव॒चात॑नः पू॒तुद्रु॒र्नाम॑ भेष॒जम्॥२८॥
+Body of Agni prompt to save, slayer of fiends and foes art thou, Yea, banisher of malady, the healing balm called Putudru.

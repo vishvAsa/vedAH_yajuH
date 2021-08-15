@@ -2,5 +2,4 @@
 title = "०१ अस्तावि मन्म"
 
 +++
-अस्ता॑वि॒ मन्म॑ पू॒र्व्यं ब्रह्मेन्द्रा॑य वोचत ।  
-पू॒र्वीरृ॒तस्य॑ बृह॒तीर॑नूषत स्तो॒तुर्मे॒घा अ॑सृक्षत ॥१॥  
+An ancient praise-song hath been sung: to Indra have ye said the prayer. They have sung many a Brihati of sacrifice, poured forth th, worshipper's many thoughts.

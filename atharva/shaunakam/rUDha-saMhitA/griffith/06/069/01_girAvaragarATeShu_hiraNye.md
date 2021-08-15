@@ -2,5 +2,4 @@
 title = "०१ गिरावरगराटेषु हिरण्ये"
 
 +++
-गि॒राव॑र॒गरा॑टेषु॒ हिर॑ण्ये॒ गोषु॒ यद् यशः॑ ।  
-सुरा॑यां सि॒च्यमा॑नायां की॒लाले॒ मधु॒ तन्मयि॑ ॥१॥  
+Mine be the glory in the hill, in vales, in cattle, and in gold, Mine be the sweetness that is found in nectar and in flowing wine!

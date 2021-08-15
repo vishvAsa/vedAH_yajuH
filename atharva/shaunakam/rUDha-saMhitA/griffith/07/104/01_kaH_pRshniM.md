@@ -2,5 +2,4 @@
 title = "०१ कः पृश्निं"
 
 +++
-कः पृश्निं धे॒नुं वरु॑णेन द॒त्तामथ॑र्वने सु॒दुघां॒ नित्य॑वत्साम्।  
-बृह॒स्पति॑ना स॒ख्यंऽ जुषा॒णो य॑थाव॒शं त॒न्वः कल्पयाति ॥१॥
+Who will prepare the dappled Cow, good milker, ne'er without calf, whom Varuna gave Atharvan, And, joying in Brihaspati's alliance, arrange according to his will her body?

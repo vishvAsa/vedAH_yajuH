@@ -2,5 +2,4 @@
 title = "०१ अभीवर्तेन मणिना"
 
 +++
-अ॒भी॒व॒र्तेन॑ म॒णिना॒ येनेन्द्रो॑ अभिवावृ॒धे॑।  
-तेना॒स्मान् ब्र॑ह्मणस्पते॒ऽभि रा॒ष्ट्राय॑ वर्धय ॥१॥  
+With that victorious Amulet which strengthened Indra's power- and might Do thou, O Brahmanaspati, increase our strength for kingly sway.

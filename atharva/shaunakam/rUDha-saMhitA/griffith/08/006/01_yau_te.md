@@ -2,5 +2,4 @@
 title = "०१ यौ ते"
 
 +++
-यौ ते॑ मा॒तोन्म॒मार्ज॑ जा॒तायाः॑ पति॒वेद॑नौ ।  
-दु॒र्णामा॒ तत्र॒ मा गृ॑धद॒लिंश॑ उ॒त व॒त्सपः॑ ॥१॥  
+Let neither fiend of evil name, Alinsa, Vatsapa, desire Thy pair of husband-wooers which thy mother cleansed when, thou wast born.

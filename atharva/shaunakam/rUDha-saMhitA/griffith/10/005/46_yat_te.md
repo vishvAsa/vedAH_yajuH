@@ -2,5 +2,4 @@
 title = "४६ यत् ते"
 
 +++
-यत् ते॒ अन्नं॑ भुवस्पत आक्षि॒यति॑ पृथि॒वीमनु॑ ।  
-तस्य॑ न॒स्त्वं भु॑वस्पते सं॒प्रय॑च्छ प्रजापते ॥४५॥  
+Celestial Waters have I sought: with juice have I besprinkled them. With milk, O Agni, have I come; bestow upon me splendid strength.

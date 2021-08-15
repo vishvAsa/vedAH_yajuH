@@ -2,5 +2,4 @@
 title = "०२ वैवस्वतः कृणवद्"
 
 +++
-वै॒व॒स्व॒तः कृ॑णवद् भाग॒धेयं॒ मधु॑भागो॒ मधु॑ना॒ सं सृ॑जाति ।  
-मा॒तुर्यदेन॑ इषि॒तं न॒ आग॒न् यद् वा॑ पि॒ताप॑राद्धो जिही॒डे॥२॥  
+May he, Vaivasvata, prepare our portion; May he whose share is mead with mead besprinkle. Our sin in hasty mood against our mother, or guilt whereby a sire is wronged and angered.

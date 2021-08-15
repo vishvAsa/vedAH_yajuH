@@ -2,5 +2,4 @@
 title = "०१ यां ते"
 
 +++
-यां ते॑ रु॒द्र इषु॒मास्य॒दङ्गे॑भ्यो॒ हृद॑याय च ।  
-इ॒दं ताम॒द्य त्वद् व॒यं विषू॑चीं॒ वि वृ॑हामसि ॥१॥  
+The shaft that Rudra hath shot forth against thy members and thy heart, Here do we draw from thee to-day, and turn it hence to every side.

@@ -2,4 +2,4 @@
 title = "०३ यदुषो यासि"
 
 +++
-यदु॑षो॒ यासि॑ भा॒नुना॒ सं सूर्ये॑ण रोचसे । आ हा॒यम॒श्विनो॒ रथो॑ व॒र्तिर्या॑ति नृ॒पाय्य॑म्॥३॥  
+Thou, Dawn, approaching with thy light, shinest together with the Sun, And to this man-protecting home the chariot of the Asvins comes.

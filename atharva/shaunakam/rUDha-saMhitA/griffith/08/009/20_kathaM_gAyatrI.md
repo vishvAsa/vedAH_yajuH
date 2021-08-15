@@ -2,5 +2,4 @@
 title = "२० कथं गायत्री"
 
 +++
-क॒थं गा॑य॒त्री त्रि॒वृतं॒ व्याऽप क॒थं त्रि॒ष्टुप् प॑ञ्चद॒शेन॑ कल्पते ।  
-त्र॒य॒स्त्रिं॒शेन॒ जग॑ती क॒थम॑नु॒ष्टुप् क॒थमे॑कविं॒शः ॥२०॥  
+How hath the Gayatri filled out three triads? On the fifteen how is the Trishtup moulded, Jagati fashioned on the three-and-thirty? How is Anushtup formed? how Ekavinsa?

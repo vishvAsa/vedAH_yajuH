@@ -2,5 +2,4 @@
 title = "१८ एत देवा"
 
 +++
-एत॑ देवा दक्षिण॒तः प॒श्चात् प्राञ्च॑ उ॒देत॑ ।  
-पु॒रस्ता॑दुत्त॒राच्छ॒क्रा विश्वे॑ दे॒वाः स॒मेत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१८॥  
+Come hither from the south, ye Gods, rise and come forward from the west. Gathered together, all ye Gods, ye mighty Ones, from east and and north: may they deliver us from woe.

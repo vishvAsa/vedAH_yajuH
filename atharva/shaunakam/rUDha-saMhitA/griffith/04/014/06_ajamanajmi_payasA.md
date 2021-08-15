@@ -2,5 +2,4 @@
 title = "०६ अजमनज्मि पयसा"
 
 +++
-अ॒जम॑नज्मि॒ पय॑सा घृ॒तेन॑ दि॒व्यं सु॑प॒र्नं प॑य॒सं बृ॒हन्त॑म्।  
-तेन॑ गेष्म सुकृ॒तस्य॑ लो॒कं स्वऽरा॒रोह॑न्तो अ॒भि नाक॑मुत्त॒मम्॥६॥  
+With milk and butter I anoint the mighty, celestial Goat, strong- winged, and full of juices. Through him will we attain the world of virtue, ascending to the loftiest cope, to heaven.

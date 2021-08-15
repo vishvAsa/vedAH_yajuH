@@ -2,5 +2,4 @@
 title = "०६ ये३स्यां स्थोर्ध्वायां"
 
 +++
-ये॒३स्यां स्थोर्ध्वायां॑ दि॒श्यव॑स्वन्तो॒ नाम॑ दे॒वास्तेषां॑ वो॒ बृह॒स्पति॒रिष॑वः ।  
-ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥६॥
+Ye Gods whose home is in this upmost region, Yearners by name, Brihaspati forms your arrows. Be kind and gracious unto us and bless us. To you be reverence, to you be welcome!

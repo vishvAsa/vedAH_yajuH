@@ -2,5 +2,4 @@
 title = "१७ स्वर्गं लोकमभि"
 
 +++
-स्व॒र्गं लो॒कम॒भि नो॑ नयासि॒ सं जा॒यया॑ स॒ह पु॒त्रैः स्या॑म ।  
-गृ॒ह्णामि॒ हस्त॒मनु॒ मैत्वत्र॒ मा न॑स्तारी॒न्निरृ॑ति॒र्मो अरा॑तिः ॥१७॥  
+Unto the world of Svarga shalt thou lead us: there may we dwell beside our wife and children. I take thy hand Let not Destruction, let not Malignity come hither and subdue us.

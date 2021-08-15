@@ -2,4 +2,4 @@
 title = "१३ इन्द्रः स"
 
 +++
-इन्द्रः॒ स दाम॑ने कृ॒त ओजि॑ष्ठः॒ स मदे॑ हि॒तः । द्यु॒म्नी श्लो॒की स सो॒म्यः ॥१३॥  
+Indra was made for giving, set, most mighty, o'er the joyous draught, Bright, meet for Soma, famed in song.

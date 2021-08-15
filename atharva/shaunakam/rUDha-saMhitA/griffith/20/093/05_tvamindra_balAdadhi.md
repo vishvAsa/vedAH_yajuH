@@ -2,4 +2,4 @@
 title = "०५ त्वमिन्द्र बलादधि"
 
 +++
-त्वमि॑न्द्र॒ बला॒दधि॒ सह॑सो जा॒त ओज॑सः । त्वं वृ॑ष॒न् वृषेद॑सि ॥५॥  
+Based upon strength and victory and power, O Indra is thy birth. Thou, Mighty One, art strong indeed.

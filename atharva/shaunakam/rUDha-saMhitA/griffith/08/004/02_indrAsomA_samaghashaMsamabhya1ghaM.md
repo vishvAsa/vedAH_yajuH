@@ -2,5 +2,4 @@
 title = "०२ इन्द्रासोमा समघशंसमभ्य१घं"
 
 +++
-इन्द्रा॑सोमा॒ सम॒घशं॑सम॒भ्य॑१घं तपु॑र्ययस्तु च॒रुर॑ग्नि॒माँ इ॑व ।  
-ब्र॒ह्म॒द्विषे॑ क्र॒व्यादे॑ घो॒रच॑क्षसे॒ द्वेषो॑ धत्तमनवा॒यं कि॑मी॒दिने॑ ॥२॥  
+Let sin, Indra and Soma! round the wicked boil, like as a cald- ron set amid the flames of fire. Against the foe of prayer, eater of gory flesh, the fearful-eyed Kimidin, keep perpetual hate.

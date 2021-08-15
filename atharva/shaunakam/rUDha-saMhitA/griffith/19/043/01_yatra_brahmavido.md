@@ -2,5 +2,4 @@
 title = "०१ यत्र ब्रह्मविदो"
 
 +++
-यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-अ॒ग्निर्मा॒ तत्र॑ नयत्व॒ग्निर्मे॒धा द॑धातु मे । अ॒ग्नये॒ स्वाहा॑ ॥१॥  
+Whither men versed in Brahma go, with fervour and the cleans- ing rite, Thither let Agni lead me, let Agni give me intelligence, All hail to Agni!

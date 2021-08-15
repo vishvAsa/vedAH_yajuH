@@ -2,5 +2,4 @@
 title = "०३ नमस्ते यातुधानेभ्यो"
 
 +++
-नम॑स्ते यातु॒धाने॑भ्यो॒ नम॑स्ते भेष॒जेभ्यः॑ ।  
-नम॑स्ते मृत्यो॒ मूले॑भ्यो ब्राह्म॒णेभ्य॑ इ॒दं नमः॑ ॥३॥
+Worship to thy physicians, to thy sorcerers be worship paid! Death! let this reverence be done unto thy Brahmans and thy roots.

@@ -2,5 +2,4 @@
 title = "१० अमुत्रैनमा गच्छताद्"
 
 +++
-अ॒मुत्रै॑न॒मा ग॑च्छताद् दृ॒ढा न॒द्धा परि॑ष्कृता ।  
-यस्या॑स्ते विचृ॒ताम॒स्यङ्ग॑मङ्गं॒ परु॑ष्परुः ॥१०॥  
+There let her come to meet this man. Firm, strongly fastened,. and prepared Art thou whose several limbs and joints we part and loosen one by one.

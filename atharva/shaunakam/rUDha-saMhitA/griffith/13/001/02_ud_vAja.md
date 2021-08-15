@@ -2,5 +2,4 @@
 title = "०२ उद् वाज"
 
 +++
-उद् वाज॒ आ ग॒न् यो अ॒प्स्व॑१न्तर्विश॒ आ रो॑ह॒ त्वद्यो॑नयो॒ याः ।  
-सोमं॒ दधा॑नो॒ऽप ओष॑धी॒र्गाश्च॑तुष्पदो द्वि॒पद॒ आ वे॑शये॒ह॥२॥  
+The strength that was in waters hath ascended. Mount o'er the tribes which thou hast generated. Creating Soma, waters, plants and cattle, bring hitherward both quadrupeds and bipeds.

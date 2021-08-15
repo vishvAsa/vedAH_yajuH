@@ -2,5 +2,4 @@
 title = "०१ मर्माणि ते"
 
 +++
-मर्मा॑णि ते॒ वर्म॑णा छादयामि॒ सोम॑स्त्वा॒ राजा॒मृते॒नानु॑ वस्ताम्।  
-उ॒रोर्वरी॑यो॒ वरु॑णस्ते कृणोतु॒ जय॑न्तं॒ त्वानु॑ दे॒वा म॑दन्तु ॥१॥
+Thy vital parts I cover with thine armour: with immortality King Soma clothe thee! Varuna give thee what is more than ample, and in thy triumph let the Gods be joyful.

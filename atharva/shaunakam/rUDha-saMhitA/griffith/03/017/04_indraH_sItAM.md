@@ -2,5 +2,4 @@
 title = "०४ इन्द्रः सीतां"
 
 +++
-इन्द्रः॒ सीतां॒ नि गृ॑ह्णातु॒ तां पू॒षाभि र॑क्षतु ।  
-सा नः॒ पय॑स्वती दुहा॒मुत्त॑रामुत्तरां॒ समा॑म्॥४॥  
+May Indra press the furrow down, may Pushan guard and cherish her. May she, well stored with milk yield milk for us through each succeeding year.

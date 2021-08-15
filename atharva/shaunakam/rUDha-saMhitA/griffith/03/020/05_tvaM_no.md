@@ -2,5 +2,4 @@
 title = "०५ त्वं नो"
 
 +++
-त्वं नो॑ अग्ने अ॒ग्निभि॒र्ब्रह्म॑ य॒ज्ञं च॑ वर्धय ।  
-त्वं नो॑ देव॒ दात॑वे र॒यिं दाना॑य चोदय ॥५॥  
+Do thou, O Agni, with thy fires strengthen our prayer and. sacrifice. Incite thou us, O God, to give, and send us riches to bestow.

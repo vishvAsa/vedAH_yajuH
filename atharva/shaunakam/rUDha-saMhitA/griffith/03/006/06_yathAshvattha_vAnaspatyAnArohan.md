@@ -2,5 +2,4 @@
 title = "०६ यथाश्वत्थ वानस्पत्यानारोहन्"
 
 +++
-यथा॑श्वत्थ वानस्प॒त्याना॒रोह॑न् कृणु॒षेऽध॑रान्।  
-ए॒वा मे॒ शत्रो॑र्मू॒र्धानं॒ विष्व॑ग् भिन्द्धि॒ सह॑स्व च ॥६॥  
+As thou, Asvastha!, mountest on the trees and overthrowest them, So do thou break my foeman's head asunder and o'erpower him.

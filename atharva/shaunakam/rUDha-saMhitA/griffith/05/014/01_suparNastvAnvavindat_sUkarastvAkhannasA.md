@@ -2,5 +2,4 @@
 title = "०१ सुपर्णस्त्वान्वविन्दत् सूकरस्त्वाखन्नसा"
 
 +++
-सु॒प॒र्णस्त्वान्व॑विन्दत् सूक॒रस्त्वा॑खन्न॒सा।  
-दिप्सौ॑षधे॒ त्वं दिप्स॑न्त॒मव॑ कृत्या॒कृतं॑ जहि ॥१॥  
+An eagle found thee: with his snout a wild boar dug thee from the earth. Harm thou, O Plant, the mischievous, and drive the sorcerer away.

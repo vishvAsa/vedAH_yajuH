@@ -2,5 +2,4 @@
 title = "२९ उदीचीनैः पथिभिर्वायुमद्भिरतिक्रामन्तोऽवरान्"
 
 +++
-उ॒दी॒चीनैः॑ प॒थिभि॑र्वायु॒मद्भि॑रति॒क्राम॒न्तोऽव॑रान् प॑रेभिः ।  
-त्रिः स॒प्त कृत्व॒ ऋष॑यः॒ परे॑ता मृ॒त्युं प्रत्यौ॑हन् पद॒योप॑नेन ॥२९॥  
+On pathways swept by wind, directed upward, passing beyond the lower, on the higher, Thrice seven times have the Rishis, the Departed, forced Mrityu backward with the fastened fetter.

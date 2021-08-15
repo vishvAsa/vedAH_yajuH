@@ -2,4 +2,4 @@
 title = "०२ तव द्यौरिन्द्र"
 
 +++
-तव॒ द्यौरि॑न्द्र॒ पौंस्यं॑ पृथि॒वी व॑र्धति॒ श्रवः॑ । त्वामापः॒ पर्व॑तासश्च हिन्विरे ॥२॥  
+O Indra, heaven and earth augment thy manly power and thy renown, The waters and the mountains stir and urge thee on.

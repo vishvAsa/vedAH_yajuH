@@ -2,4 +2,4 @@
 title = "२३ मेनिर्दुह्यमाना शीर्षक्तिर्दुग्धा२३"
 
 +++
-मे॒निर्दु॒ह्यमा॑ना शीर्ष॒क्तिर्दु॒ग्धा॥२३॥  
+A missile when milking, pain in the head when milked;

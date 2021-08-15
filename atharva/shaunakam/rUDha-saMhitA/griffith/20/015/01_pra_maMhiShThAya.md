@@ -2,5 +2,4 @@
 title = "०१ प्र मंहिष्ठाय"
 
 +++
-प्र मंहि॑ष्ठाय बृह॒ते बृ॒हद्र॑ये स॒त्यशु॑ष्माय त॒वसे॑ म॒तिं भ॑रे ।  
-अ॒पामि॑व प्रव॒णे यस्य॑ दु॒र्धरं॒ राधो॑ वि॒श्वायु॒ शव॑से॒ अपा॑वृतम्॥१॥  
+To him most liberal, lofty Lord of lofty wealth, verily powerful and strong, I bring my hymn, Whose checkless bounty, as of waters down a slope, is spread abroad for all that live, to give them strength.

@@ -2,5 +2,4 @@
 title = "०१ सिंहे व्याघ्र"
 
 +++
-सिं॒हे व्या॒घ्र उ॒त या पृदा॑कौ॒ त्विषि॑र॒ग्नौ ब्रा॑ह्म॒णे सूर्ये॒ या।  
-इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना॥१॥  
+What energy the lion hath, the tiger, adder, and burning fire, Brahman, or Surya, And the blest Goddess who gave birth to Indra, come unto us conjoined with strength and vigour!

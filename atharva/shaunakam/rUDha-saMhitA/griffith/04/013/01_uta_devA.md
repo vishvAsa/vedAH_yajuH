@@ -2,5 +2,4 @@
 title = "०१ उत देवा"
 
 +++
-उ॒त दे॑वा॒ अव॑हितं॒ देवा॒ उन्न॑यथा॒ पुनः॑ ।  
-उ॒ताग॑श्च॒क्रुषं॑ देवा॒ देवा॑ जी॒वय॑था॒ पुनः॑ ॥१॥  
+Gods, raise again the man whom ye, O Gods, have humbled and brought low. Ye Gods, restore to life again, him, Gods! who hath committed sin.

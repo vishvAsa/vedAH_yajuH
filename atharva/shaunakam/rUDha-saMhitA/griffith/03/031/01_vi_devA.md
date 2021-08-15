@@ -2,5 +2,4 @@
 title = "०१ वि देवा"
 
 +++
-वि दे॒वा ज॒रसा॑वृत॒न् वि त्वम॑ग्ने॒ अरा॑त्या ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥१॥  
+May Gods release from failing strength, thou Agni, from malignity! I free from every evil, from decline: I compass round with life.

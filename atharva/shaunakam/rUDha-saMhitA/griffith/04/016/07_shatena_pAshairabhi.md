@@ -2,5 +2,4 @@
 title = "०७ शतेन पाशैरभि"
 
 +++
-श॒तेन॒ पाशै॑र॒भि धे॑हि वरुणैनं॒ मा ते॑ मोच्यनृत॒वाङ् नृ॑चक्षः ।  
-आस्तां जा॒ल्म उ॒दरं॑ श्रंसयि॒त्वा कोश॑ इवाब॒न्धः प॑रिकृ॒त्यमा॑नः ॥७॥  
+Varuna, snare him with a hundred nooses! Man's watcher! let not him who lies escape thee. There let the villain sit with hanging belly and bandaged like a cask whose hoops are broken.

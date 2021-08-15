@@ -2,5 +2,4 @@
 title = "०४ प्राणापानौ चक्षुः"
 
 +++
-प्रा॒णा॒पा॒नौ चक्षुः॒ श्रोत्र॒मक्षि॑तिश्च॒ क्षिति॑श्च॒ या।  
-व्या॒नो॒दा॒नौ वाङ् मन॒स्ते वा आकू॑ति॒माव॑हन्॥४॥  
+Inbreath and outbreath, eye and ear, decay and freedom from. decay, Spiration upward and diffused, voice, mind have brought us wish and plan.

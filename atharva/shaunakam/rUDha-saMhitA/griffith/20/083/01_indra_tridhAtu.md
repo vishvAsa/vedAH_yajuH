@@ -2,5 +2,4 @@
 title = "०१ इन्द्र त्रिधातु"
 
 +++
-इन्द्र॑ त्रि॒धातु॑ शर॒णं त्रि॒वरू॑थं स्वस्ति॒मत्।  
-छ॒र्दिर्य॑च्छ म॒घव॑द्भ्यश्च॒ मह्यं॑ च या॒वया॑ दि॒द्युमे॑भ्यः ॥१॥  
+O Indra, grant a happy home, a triple refuge, triply strong. Bestow a dwelling-place on the rich lords and me, and keep thy dart afar from these.

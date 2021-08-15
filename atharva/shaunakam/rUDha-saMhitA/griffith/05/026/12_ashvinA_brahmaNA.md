@@ -2,5 +2,4 @@
 title = "१२ अश्विना ब्रह्मणा"
 
 +++
-अश्वि॑ना॒ ब्रह्म॒णा या॑तम॒र्वाञ्चौ॑ वषट्का॒रेण॑ य॒ज्ञं व॒र्धय॑तौ ।  
-बृह॑स्पते॒ ब्रह्म॒णा या॑ह्य॒र्वाङ् य॒ज्ञो अ॒यं स्वऽरि॒दं यज॑मानाय॒ स्वाहा॑ ॥१२॥
+Hitherward come ye with the prayer, O Asvins, exalting sacrifice with cry of Vashat! Brihaspati!--All hail!--with prayer come hither. Here is the rite, here heaven for him who worships.

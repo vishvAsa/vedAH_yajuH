@@ -2,5 +2,4 @@
 title = "२७ ये मृत्यव"
 
 +++
-ये मृ॒त्यव॒ एक॑शतं॒ या ना॒ष्ट्रा अ॑तिता॒र्याः ।  
-मु॒ञ्चन्तु॒ तस्मा॒त् त्वां दे॒वा अ॒ग्नेर्वै॑श्वान॒रा दधि॑ ॥२७॥  
+One and a hundred modes of death, dangers that may be over- come, May Gods deliver thee from this when Agni, dear to all men, bids.

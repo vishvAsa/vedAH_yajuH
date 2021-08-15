@@ -2,4 +2,4 @@
 title = "०५ इहेत्थ प्रागपागुदगधराग्"
 
 +++
-इ॒हेत्थ प्रागपा॒गुद॑ग॒धराग् – आष्टे॑ लाहणि॒ लीशा॑थी ॥५॥  
+Here east and west and north and south in iron mayst thou not be caught. The cup.

@@ -2,5 +2,4 @@
 title = "२१ पादाभ्यां ते"
 
 +++
-पादा॑भ्यां ते॒ जानु॑भ्यां॒ श्रोणि॑भ्यां॒ परि॒ भंस॑सः ।  
-अनू॑कादर्ष॒णीरु॒ष्णिहा॑भ्यः शी॒र्ष्णो रोग॑मनीनशम्॥२१॥  
+I have dispelled the piercing pains from feet, knees, hips, and hinder parts, And spine, and from the neck and nape the malady that racked the head.

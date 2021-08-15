@@ -2,5 +2,4 @@
 title = "२१ अध त्यं"
 
 +++
-अध॒ त्यं द्र॒प्सं वि॒भ्वं विचक्ष॒णं विराभ॑रदिषि॒रः श्ये॒नो अ॑ध्व॒रे।
-यदी॒ विशो॑ वृ॒णते॑ द॒स्ममार्या॑ अ॒ग्निं होता॑र॒मध॒ धीर॑जायत ॥२१॥
+And the fleet Falcon brought for sacrifice from afar this flowing. drop most excellent and passing wise, Then when the Aryan tribes chose as invoking Priest Agni the wonder-worker, and the hymn rose up.

@@ -2,4 +2,4 @@
 title = "०७ विष्णुर्युनक्तु बहुधा"
 
 +++
-विष्णु॑र्युनक्तु बहु॒धा तपां॑स्य॒स्मिन् य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥७॥  
+Let Vishnu in this rite in varied manner--All hail! use well- yoked steeds, his fervours.

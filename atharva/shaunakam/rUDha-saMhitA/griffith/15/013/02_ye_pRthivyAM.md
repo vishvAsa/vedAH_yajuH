@@ -2,4 +2,4 @@
 title = "०२ ये पृथिव्यां"
 
 +++
-ये पृ॑थि॒व्यां पुन्या॑ लो॒कास्ताने॒व तेनाव॑ रुन्द्धे ॥२॥  
+A second night . . . . the holy realms that are in the firma- ment (the rest as in verse 1).

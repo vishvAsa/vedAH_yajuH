@@ -2,5 +2,4 @@
 title = "०१ इयं नारी"
 
 +++
-इ॒यं नारी॑ पतिलो॒कं वृ॑णा॒ना नि प॑द्यत॒ उप॑ त्वा मर्त्य॒ प्रेत॑म्।  
-धर्मं॑ पुरा॒णम॑नुपा॒लय॑न्ती॒ तस्यै॑ प्र॒जां द्रवि॑णं चे॒ह धे॑हि ॥१॥  
+Choosing her husband's world, O man, this woman lays herself down beside thy lifeless body. Preserving faithfully the ancient custom. Bestow upon here both wealth and offspring.

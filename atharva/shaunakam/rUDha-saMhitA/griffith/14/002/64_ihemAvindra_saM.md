@@ -2,5 +2,4 @@
 title = "६४ इहेमाविन्द्र सं"
 
 +++
-इ॒हेमावि॑न्द्र॒ सं नु॑द चक्रवा॒केव॒ दंप॑ती ।  
-प्र॒जयै॑नौ स्वस्त॒कौ विश्व॒मायु॒र्व्यऽश्नुताम्॥६४॥  
+Join thou this couple, Indra! like the Chakravaka and his. mate: May they attain to full old age with children in their happy home.

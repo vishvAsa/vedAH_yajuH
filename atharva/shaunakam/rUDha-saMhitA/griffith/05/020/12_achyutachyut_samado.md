@@ -2,5 +2,4 @@
 title = "१२ अच्युतच्युत् समदो"
 
 +++
-अ॒च्यु॒त॒च्युत् स॒मदो॒ गमि॑ष्ठो॒ मृधो॒ जेता॑ पुरए॒तायो॒ध्यः ।  
-इन्द्रे॑ण गु॒प्तो वि॒दथा॑ नि॒चिक्य॑द्धृ॒द्द्योत॑नो द्विष॒तां या॑हि॒ शीभ॑म्॥१२॥
+Shaker of things unshaken, readiest corner to battles; conquer- ing foes, resistless leader, Guarded by Indra, watching our assemblies, go quickly, breaker of their hearts who hate us.

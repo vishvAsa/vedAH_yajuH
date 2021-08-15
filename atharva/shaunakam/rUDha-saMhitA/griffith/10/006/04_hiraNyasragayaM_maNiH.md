@@ -2,4 +2,4 @@
 title = "०४ हिरण्यस्रगयं मणिः"
 
 +++
-हिर॑ण्यस्रग॒यं म॒णिः श्र॒द्धां य॒ज्ञं महो॒ दध॑त्। गृ॒हे व॑सतु॒ नोऽति॑थिः ॥४॥  
+This Amulet, decked with chain of gold, shall give faith, sacrifice, and might, and dwell as guest within our house.

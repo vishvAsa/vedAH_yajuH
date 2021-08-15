@@ -2,5 +2,4 @@
 title = "०६ वैश्वानरस्य प्रतिमोपरि"
 
 +++
-वै॒श्वा॒न॒रस्य॑ प्रति॒मोपरि॒ द्यौर्याव॒द् रोद॑सी विबबा॒धे अ॒ग्निः ।  
-ततः॑ ष॒ष्ठादामुतो॑ यन्ति॒ स्तोमा॒ उदि॒तो य॑न्त्य॒भि ष॒ष्ठमह्नः॑ ॥६॥  
+Vaisvanara's image is the sky above us, so far as Agni forced both spheres asunder. Thence from that region as the sixth come praise-songs, and every sixth day hence again go upward.

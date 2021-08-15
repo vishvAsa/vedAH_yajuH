@@ -2,5 +2,4 @@
 title = "३० यां ते"
 
 +++
-यां ते॑ धे॒नुं नि॑पृ॒णामि॒ यमु॑ ते क्षी॒र ओ॑द॒नम्।  
-तेना॒ जन॑स्यासो भ॒र्ता योऽत्रास॒दजी॑वनः ॥३०॥  
+Now by this cow I bring thee, by the boiled rice set in milk for thee, Be the supporter of the folk left here without a livelihood.

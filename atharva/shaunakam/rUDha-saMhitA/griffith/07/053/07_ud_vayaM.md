@@ -2,5 +2,4 @@
 title = "०७ उद् वयं"
 
 +++
-उद् व॒यं तम॑स॒स्परि॒ रोह॑न्तो॒ नाक॑मुत्त॒मम्।  
-दे॒वं दे॑व॒त्रा सूर्य॒मग॑न्म॒ ज्योति॑रुत्त॒मम्॥७॥
+From out the depth of darkness, we, ascending to the highest heaven, Have come to the sublimest light, to Surya, God among the. Gods.

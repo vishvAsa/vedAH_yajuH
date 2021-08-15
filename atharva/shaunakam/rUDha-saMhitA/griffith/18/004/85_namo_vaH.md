@@ -2,4 +2,4 @@
 title = "८५ नमो वः"
 
 +++
-नमो॑ वः पितरः स्व॒धा वः॑ पितरः ॥८५॥  
+Homage to you Fathers! Hail to you, Fathers!

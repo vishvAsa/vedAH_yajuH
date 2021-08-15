@@ -2,4 +2,4 @@
 title = "०३ को अर्जुन्याः"
 
 +++
-को अर्जु॑न्याः॒ पयः॑ ॥३॥  
+Varuna with the Vasus goes: the Wind-God hath a hundred reins.

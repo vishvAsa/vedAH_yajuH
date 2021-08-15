@@ -2,5 +2,4 @@
 title = "०६ ये धीवानो"
 
 +++
-ये धीवा॑नो रथका॒राः क॒र्मारा॒ ये म॑नी॒षिणः॑ ।  
-उ॒प॒स्तीन् प॑र्ण॒ मह्यं॒ त्वं सर्वा॑न् कृण्व॒भितो॒ जना॑न्॥६॥  
+Sagacious builders of the car, cleaver and skilful artisans,-- Make all the men on every side, Parna, obedient to my will

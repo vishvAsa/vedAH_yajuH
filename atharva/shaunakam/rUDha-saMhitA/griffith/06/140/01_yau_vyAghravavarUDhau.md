@@ -2,5 +2,4 @@
 title = "०१ यौ व्याघ्रववरूढौ"
 
 +++
-यौ व्या॒घ्रवव॑रूढौ जिघ॑त्सतः पि॒तरं॑ मा॒तरं॑ च ।  
-यौ दन्तौ ब्रह्मणस्पते शि॒वौ कृ॑णु जातवेदः ॥१॥  
+Two tigers have grown up who long to eat the mother and the sire: Soothe, Brahmanaspati, and thou, O Jatavedas, both these teeth.

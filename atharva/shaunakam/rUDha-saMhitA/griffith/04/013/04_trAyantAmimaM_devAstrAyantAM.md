@@ -2,5 +2,4 @@
 title = "०४ त्रायन्तामिमं देवास्त्रायन्तां"
 
 +++
-त्राय॑न्तामि॒मं दे॒वास्त्राय॑न्तां म॒रुतां॑ ग॒णाः ।  
-त्राय॑न्तां॒ विश्वा॑ भू॒तानि॒ यथा॒यम॑र॒पा अस॑त्॥४॥  
+May the Gods keep and save this man, the Maruts' host deliver him. All things that be deliver him that he be freed from his offence.

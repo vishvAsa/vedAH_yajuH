@@ -2,5 +2,4 @@
 title = "०५ अति निहो"
 
 +++
-अति॒ निहो॒ अति॒ सृधोऽत्यचि॑त्ती॒रति॒ द्विषः॑ ।  
-विश्वा॒ ह्यऽग्ने दुरि॒ता त॑र॒ त्वमथा॒स्मभ्यं॑ स॒हवी॑रं र॒यिं दाः॑॥५॥
+Past those who slay, past enemies, past thoughtless men, past those who hate, Yea, Agni, hear us safe past all distresses: give thou us opulence with men about us.

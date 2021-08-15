@@ -2,5 +2,4 @@
 title = "०४ त्रयः सुपर्णा"
 
 +++
-त्रयः॑ सुप॒र्णा उप॑रस्य मा॒यू नाक॑स्य पृ॒ष्ठे अधि॑ वि॒ष्टपि॑ श्रि॒ताः ।  
-स्व॒र्गा लो॒का अ॒मृते॑न वि॒ष्ठा इष॒मूर्जं॒ यज॑मानाय दुह्राम्॥४॥  
+Three eagles in the region's roar are standing high on heaven's ridge in their appointed station. The worlds of Svarga shall, filled full of Amrit, yield food and power to him who sacrificeth.

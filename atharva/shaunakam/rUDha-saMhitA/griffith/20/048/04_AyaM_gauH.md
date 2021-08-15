@@ -2,4 +2,4 @@
 title = "०४ आयं गौः"
 
 +++
-आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः । पि॒तरं॑ च प्र॒यन्त्स्वः ॥४॥  
+This brindled Bull hath come and sat before the Mother in the east, Advancing to the Father Heaven.

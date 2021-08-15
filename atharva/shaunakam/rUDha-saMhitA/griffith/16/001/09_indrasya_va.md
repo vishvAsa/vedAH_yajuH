@@ -2,4 +2,4 @@
 title = "०९ इन्द्रस्य व"
 
 +++
-इन्द्र॑स्य व इन्द्रि॒येणा॒भि षि॑ञ्चेत्॥९॥  
+May he anoint you with Indra's own mighty power!

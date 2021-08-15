@@ -2,5 +2,4 @@
 title = "०२ अरं कामाय"
 
 +++
-अरं कामा॑य॒ हर॑यो दधन्विरे स्थि॒राय॑ हिन्व॒न् हर॑यो॒ हरी॑ तु॒रा।  
-अर्व॑द्भि॒र्यो हरि॑भि॒र्जोष॒मीय॑ते॒ सो अ॑स्य॒ कामं॒ हरि॑वन्तमानशे ॥२॥  
+The gold-hued drops have flowed to gratify his wish: the yellow. drops have urged the swift Bays to the Strong. He who speeds on with bay steeds even as he lists hath satisfied his longing for the golden drops.

@@ -2,4 +2,4 @@
 title = "१५ सा ब्रह्मज्यं"
 
 +++
-सा ब्र॑ह्म॒ज्यं दे॑वपी॒युं ब्र॑ह्मग॒व्याऽदी॒यमा॑ना मृ॒त्योः पद्वी॑श॒ आ द्य॑ति ॥१५॥  
+This, the Brahman's cow, being appropriated, holdeth bound in the fetter of Death the oppressor of the Brahman, the blas- phemer of the Gods.

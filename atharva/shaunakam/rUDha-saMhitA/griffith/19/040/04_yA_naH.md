@@ -2,5 +2,4 @@
 title = "०४ या नः"
 
 +++
-या नः॒ पीप॑रद॒श्विना॒ ज्योति॑ष्मती॒ तम॑स्ति॒रः ।  
-ताम॒स्मे रा॑सता॒मिष॑म्॥४॥
+Vouchsafe to us, ye Asvins twain, such strength as, with atten- dant light, May through the darkness carry us.

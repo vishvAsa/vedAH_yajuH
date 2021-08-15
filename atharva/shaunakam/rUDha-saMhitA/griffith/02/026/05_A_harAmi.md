@@ -2,5 +2,4 @@
 title = "०५ आ हरामि"
 
 +++
-आ ह॑रामि॒ गवां॑ क्षी॒रमाहा॑र्षं धा॒न्यं॑१ रस॑म्।  
-आहृ॑ता अ॒स्माकं॑ वी॒रा आ पत्नी॑रि॒दमस्त॑कम्॥५॥
+Hither I bring the milk of cows, hither have brought the juice of corn. Hitherward have our men been brought, hitherward to this house our wives.

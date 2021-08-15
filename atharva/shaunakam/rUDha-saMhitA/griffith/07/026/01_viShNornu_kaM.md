@@ -2,5 +2,4 @@
 title = "०१ विष्णोर्नु कं"
 
 +++
-विष्णो॒र्नु कं॒ प्रा वो॑चं वी॒र्याऽणि॒ यः पार्थि॑वानि विम॒मे रजां॑सि ।  
-यो अस्क॑भाय॒दुत्त॑रं स॒धस्थं॑ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यः ॥१॥  
+I will declare the mighty deeds of Vishnu, of him who measured out the earthly regions, Who propped the highest place of congregation, thrice setting down his footstep, widely striding.

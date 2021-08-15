@@ -2,6 +2,4 @@
 title = "१७ अघोरचक्षुरपतिघ्नी स्योना"
 
 +++
-अघो॑र-चक्षु॒र् अप॑तिघ्नी स्यो॒ना  
-श॒ग्मा सु॒शेवा॑ सु॒यमा॑ गृ॒हेभ्यः॑ ।  
-वी॒रसूर् दे॒वका॑मा॒ सं त्वयै॑धिषीमहि सुमन॒स्यमा॑ना ॥१७॥  
+Not evil-eyed no slayer of thy husband, be strong, mild, kind, and gentle to thy household. Mother of heroes, love thy husband's father: be happy, and through thee may we too prosper.

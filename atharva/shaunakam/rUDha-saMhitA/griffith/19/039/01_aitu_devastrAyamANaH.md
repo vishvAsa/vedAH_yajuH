@@ -2,5 +2,4 @@
 title = "०१ ऐतु देवस्त्रायमाणः"
 
 +++
-ऐतु॑ दे॒वस्त्राय॑माणः॒ कुष्ठो॑ हि॒मव॑त॒स्परि॑ ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥१॥  
+Let Kushtha from the Hill of Snow come, a divine deliverer. Banish thou all Consumption, drive all sorceresses far away.

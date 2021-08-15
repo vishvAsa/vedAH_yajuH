@@ -2,5 +2,4 @@
 title = "३८ सूर्यस्यावृतमन्वावर्ते दक्षिणामन्वावृतम्"
 
 +++
-सूर्य॑स्या॒वृत॑म॒न्वाव॑र्ते॒ दक्षि॑णा॒मन्वा॒वृत॑म्।  
-सा मे॒ द्रवि॑णं यच्छतु॒ सा मे॑ ब्राह्मणवर्च॒सम्॥३७॥२॥  
+I turn me to the regions bright with splendour. May they bestow upon me wealth and glory of a Brahman's rank.

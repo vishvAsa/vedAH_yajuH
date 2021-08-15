@@ -2,5 +2,4 @@
 title = "०७ य ऊरू"
 
 +++
-य ऊ॒रू अ॑नु॒सर्प॒त्यथो॒ एति॑ ग॒वीनि॑के ।  
-यक्ष्मं॑ ते अ॒न्तरङ्गे॑भ्यो ब॒हिर्निर्म॑न्त्रयामहे ॥७॥  
+Disease that creeps about the thighs and, after, reaches both the groins, Consumption from thine inward parts we charm away with this our spell.

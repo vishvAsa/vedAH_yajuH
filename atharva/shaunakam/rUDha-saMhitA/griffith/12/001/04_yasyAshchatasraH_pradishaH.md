@@ -2,5 +2,4 @@
 title = "०४ यस्याश्चतस्रः प्रदिशः"
 
 +++
-यस्या॒श्चत॑स्रः प्र॒दिशः॑ पृथि॒व्या यस्या॒मन्नं कृ॒ष्टयः॑ संबभू॒वुः ।  
-या बिभ॑र्ति बहु॒धा प्रा॒णदेज॒त् सा नो॒ भूमि॒र्गोष्वप्यन्ने॑ दधातु ॥४॥  
+She who is Lady of the earth's four regions, in whom our food and corn-lands had their being, Nurse in each place of breathing, moving creatures, this Earth. vouchsafe us kine with milk that fails not!

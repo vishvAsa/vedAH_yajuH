@@ -2,5 +2,4 @@
 title = "११ उरुः कोशो"
 
 +++
-उ॒रुः कोशो॑ वसु॒धान॒स्तवा॒यं यस्मि॑न्नि॒मा विश्वा॒ भुव॑नान्य॒न्तः ।  
-स नो॑ मृड पशुपते॒ नम॑स्ते प॒रः क्रो॒ष्टारो॑ अभि॒भाः श्वानः॑ प॒रो य॑न्त्वघ॒रुदो॑ विके॒श्यःऽ॥ ११॥  
+Thine is this ample wealth-containing storehouse that holds with- in it all these living creatures. Favour us, Lord of Beasts, to thee be homage! Far from us go ill-omens, dogs, and jackals, and wild-haired women with their horrid shrieking!

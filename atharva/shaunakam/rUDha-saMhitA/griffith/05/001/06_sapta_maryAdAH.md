@@ -2,5 +2,4 @@
 title = "०६ सप्त मर्यादाः"
 
 +++
-स॒प्त म॒र्यादाः॑ क॒वय॑स्ततक्षु॒स्तासा॒मिदेका॑म॒भ्यंऽहु॒रो गा॑त्।  
-आ॒योर्ह॑ स्क॒म्भ उप॑मस्य नी॒डे प॒थां वि॑स॒र्गे ध॒रुणे॑षु तस्थौ ॥६॥  
+Seven are the pathways which the wise have fashioned: to one of these may come the troubled mortal. On sure ground where the ways are parted standeth Life's Pillar in the dwelling of the Highest.

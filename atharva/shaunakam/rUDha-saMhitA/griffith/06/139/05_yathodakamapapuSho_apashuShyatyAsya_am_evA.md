@@ -2,5 +2,4 @@
 title = "०५ यथोदकमपपुषोऽपशुष्यत्यास्यऽम् एवा"
 
 +++
-यथो॑द॒कमप॑पुषोऽप॒शुष्य॑त्या॒स्यऽम्।  
-ए॒वा नि शु॑ष्य॒ मां कामे॒नाथो॒ शुष्का॑स्या चर ॥४॥  
+Even as the Mungoose bites and rends and then restores the wounded snake, So do thou, Mighty one, restore the fracture of our severed love.

@@ -2,5 +2,4 @@
 title = "०१ यदद्य त्वा"
 
 +++
-यद॒द्य त्वा॑ प्रय॒ति य॒ज्ञे अ॒स्मिन् होत॑श्चिकित्व॒न्नवृ॑णीमही॒ह।  
-ध्रु॒वम॑यो ध्रु॒वमु॒ता श॑विष्ठ प्रवि॒द्वान् य॒ज्ञमुप॑ याहि॒ सोम॑म्॥१॥  
+As we have here elected thee, skilled Hotar! to-day as this our sacrifice proceedeth, Come to the firm place, mightiest! yea, come firmly. Knowing the sacrifice, approach the Soma.

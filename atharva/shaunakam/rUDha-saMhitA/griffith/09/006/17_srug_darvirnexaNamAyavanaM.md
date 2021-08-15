@@ -2,4 +2,4 @@
 title = "१७ स्रुग् दर्विर्नेक्षणमायवनं"
 
 +++
-स्रुग् दर्वि॒र्नेक्ष॑णमा॒यव॑नं द्रोणकल॒शाः कु॒म्भ्योऽ वाय॒व्या॒ऽनि॒ पात्रा॑णी॒यमे॒व कृ॑ष्णाजि॒नम्॥१७॥  
+Spoon, ladle, fork, stirring-prong are the wooden Soma tubs; the earthen cooking-pots are the mortar-shaped Soma vessels; this earth is just the black-antelope's skin.

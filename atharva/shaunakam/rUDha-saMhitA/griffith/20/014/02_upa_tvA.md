@@ -2,5 +2,4 @@
 title = "०२ उप त्वा"
 
 +++
-उप॑ त्वा॒ कर्म॑न्नू॒तये॒ स नो॒ युवो॒ग्रश्च॑क्राम॒ यो धृ॒षत्।  
-त्वामिद्ध्य॑वि॒तारं॑ ववृ॒महे॒ सखा॑य इन्द्र सान॒सिम्॥२॥  
+On thee for aid in sacrifice. This youth of ours, the bold, the mighty, hath gone forth. We, therefore, we thy friends, Indra, have chosen thee, free- giver, as our guardian God.

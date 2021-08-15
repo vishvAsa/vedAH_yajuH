@@ -2,5 +2,4 @@
 title = "४८ ये सत्यासो"
 
 +++
-ये स॒त्यासो॑ हवि॒रदो॑ हवि॒ष्पा इन्द्रे॑ण दे॒वैः स॒रथं॑ तु॒रेण॑ ।  
-आग्ने॑ याहि सुवि॒दत्रे॑भिर॒र्वाङ् परैः॒ पूर्वै॒र्ऋषि॑भिर्घर्म॒सद्भिः॑ ॥४८॥  
+Come, Agni, come with countless ancient Fathers, dwellers in light, primeval, God-adorers, Eaters and drinkers of oblation, truthful, who travel with the Deities and Indra.

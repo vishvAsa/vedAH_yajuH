@@ -2,4 +2,4 @@
 title = "३६ शर्व क्रुद्धः"
 
 +++
-श॒र्व क्रु॒द्धः पि॒श्यमा॑ना॒ शिमि॑दा पिशि॒ता॥३६॥  
+Wrathful Sarva while being carved. Simida when cut up:

@@ -2,5 +2,4 @@
 title = "०२ दुरो अश्वस्य"
 
 +++
-दु॒रो अश्व॑स्य दु॒र इ॑न्द्र॒ गोर॑सि दु॒रो यव॑स्य॒ वसु॑न इ॒नस्पतिः॑ ।  
-शि॒क्षा॒न॒रः प्र॒दिवो॒ अका॑मकर्शनः॒ सखा॒ सखि॑भ्य॒स्तमि॒दं गृ॑णीमसि ॥२॥  
+Giver of horses, Indra, giver, thou, of kine, giver of barley, thou art Lord and guard of wealth: Man's helper from of old, not disappointing hope, Friend of our friends, to thee as such we sing this praise.

@@ -2,5 +2,4 @@
 title = "१४ यदश्विना पृच्छमानावयातं"
 
 +++
-यद॑श्विना पृ॒च्छमा॑ना॒वया॑तं त्रिच॒क्रेण॑ वह॒तुं सू॒र्यायाः॑ ।  
-क्वैकं॑ च॒क्रं वा॑मासी॒त् क्वऽदे॒ष्ट्राय॑ तस्थथुः ॥१४॥  
+When on your three-wheeled chariot, O ye Asvins, ye came as suitors unto Surya's bridal, Where was one chariot-wheel of yours? Where stood ye for the sire's command?

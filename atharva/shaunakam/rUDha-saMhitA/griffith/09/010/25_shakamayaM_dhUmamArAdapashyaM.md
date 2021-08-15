@@ -2,5 +2,4 @@
 title = "२५ शकमयं धूममारादपश्यं"
 
 +++
-श॒क॒मयं॑ धू॒ममा॒राद॑पश्यं विषू॒वता॑ प॒र ए॒नाव॑रेण ।  
-उ॒क्षाणं॒ पृश्नि॑मपचन्त वी॒रास्तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन्॥२५॥  
+1 saw from far away the smoke of fuel with spires that rose on high o'er that beneath it. The heroes cooked and dressed the spotted bullock. These were the customs in the days aforetime.

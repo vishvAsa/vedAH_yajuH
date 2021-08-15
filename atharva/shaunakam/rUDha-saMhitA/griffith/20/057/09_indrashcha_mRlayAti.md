@@ -2,4 +2,4 @@
 title = "०९ इन्द्रश्च मृलयाति"
 
 +++
-इन्द्र॑श्च मृ॒लया॑ति नो॒ न नः॑ प॒श्चाद॒घं न॑शत्। भ॒द्रं भ॑वाति नः पु॒रः ॥९॥  
+Indra be gracious unto us: sin shall not reach us afterward, And good shall be before us still.

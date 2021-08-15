@@ -2,4 +2,4 @@
 title = "७३ सूर्य एनं"
 
 +++
-सूर्य॑ एनं दि॒वः प्र णु॑दतां॒ न्योऽषतु ॥७३॥
+From heaven let Surya drive him and consume him.

@@ -2,6 +2,4 @@
 title = "१४ कश्यपस्त्वामसृजत कश्यपस्त्वा"
 
 +++
-क॒श्यप॒स्त्वाम॑सृजत क॒श्यप॑स्त्वा॒ समै॑रयत्।  
-अबि॑भ॒स्त्वेन्द्रो॒ मानु॑षे॒ बिभ्र॑त् संश्रेषि॒णेऽजयत्।  
-म॒णिं स॒हस्र॑वीर्यं॒ वर्म॑ दे॒वा अ॑कृण्वत ॥१४॥  
+Kasyapa formed and fashioned thee, Kasyapa raised and sent thee forth. Indra wore thee, and, wearing thee, won in the wrestling-match with man. The Amulet of boundless might the Gods have made a coat of mail.

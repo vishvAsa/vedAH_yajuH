@@ -2,5 +2,4 @@
 title = "०२ अयं मणिः"
 
 +++
-अ॒यं म॒णिः स॑पत्न॒हा सु॒वीरः॒ सह॑स्वान् वा॒जी सह॑मान उ॒ग्रः ।  
-प्र॒त्यक् कृ॒त्या दू॒षय॑न्नेति वी॒रः ॥२॥  
+This Charm, foe-slayer, served by many heroes, strong, power- ful, victorious, and mighty, goes bravely forth to meet and ruin witchcraft.

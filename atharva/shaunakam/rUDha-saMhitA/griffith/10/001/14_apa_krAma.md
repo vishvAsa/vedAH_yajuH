@@ -2,5 +2,4 @@
 title = "१४ अप क्राम"
 
 +++
-अप॑ क्राम॒ नान॑दती॒ विन॑द्धा गर्द॒भीव॑ ।  
-क॒र्तृन् न॑क्षस्वे॒तो नु॒त्ता ब्रह्म॑णा वी॒र्याऽवता ॥१४॥  
+Go with a resonant cry, depart, like a she-ass whose cords are loosed. Go to thy makers: hence! away! Go driven by the potent spell.

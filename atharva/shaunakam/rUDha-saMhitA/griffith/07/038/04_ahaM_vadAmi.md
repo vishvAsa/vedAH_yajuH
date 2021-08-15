@@ -2,5 +2,4 @@
 title = "०४ अहं वदामि"
 
 +++
-अ॒हं व॑दामि॒ नेत् त्वं स॒भाया॒मह॒ त्वं वद॑ ।  
-ममेदस॒स्त्वं केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न॥४॥  
+I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt be mine and only mine, and never mention other dames.

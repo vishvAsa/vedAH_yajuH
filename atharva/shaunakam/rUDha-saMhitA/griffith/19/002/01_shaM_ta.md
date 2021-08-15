@@ -2,5 +2,4 @@
 title = "०१ शं त"
 
 +++
-शं त॒ आपो॑ हैमव॒तीः शमु॑ ते सन्तू॒त्स्याः ।  
-शं ते॑ सनि॒ष्यदा॒ आपः॒ शमु॑ ते सन्तु व॒र्ष्याः ॥१॥  
+Blest be the Streams from hills of snow, sweet be spring Waters unto thee. Sweet be swift-running Waters, sweet to thee be Water of the Rains.

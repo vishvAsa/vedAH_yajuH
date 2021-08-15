@@ -2,4 +2,4 @@
 title = "०३ इन्द्र प्रेहि"
 
 +++
-इन्द्र॒ प्रेहि॑ पु॒रस्त्वं विश्व॒स्येशा॑न॒ ओज॑सा ।वृ॒त्राणि॑ वृत्रहं जहि ॥३॥  
+Indra, advance, go forward thou who by thy might art Lord of all. Slay, Vritra-slayer slay thy foes.

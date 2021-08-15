@@ -2,5 +2,4 @@
 title = "०३ कस्ते मद"
 
 +++
-कस्ते॒ मद॑ इन्द्र॒ रन्त्यो॑ भू॒द् दुरो॒ गिरो॑ अ॒भ्यु॑१ग्रो वि धा॑व ।  
-कद् वाहो॑ अ॒र्वागुप॑ मा मनी॒षा आ त्वा॑ शक्यामुप॒मं राधो॒ अन्नैः॑ ॥३॥  
+What was the gladdening draught that pleased thee, Indra? Speed to our doors, our songs, for thou art mighty. Why comest thou to me, what gift attracts thee? Fain would I bring thee food most meet to offer.

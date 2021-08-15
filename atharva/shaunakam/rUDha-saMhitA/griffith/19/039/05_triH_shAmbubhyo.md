@@ -2,7 +2,4 @@
 title = "०५ त्रिः शाम्बुभ्यो"
 
 +++
-त्रिः शाम्बु॑भ्यो॒ अङ्गि॑रेभ्य॒स्त्रिरा॑दि॒त्येभ्य॒स्परि॑ ।  
-त्रिर्जा॒तो वि॒श्वदे॑वेभ्यः ।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥५॥  
+Born thrice from the Adityas, thrice from Bhrigus, thrice from Angiras' sons, born from the Visve Devas thrice, Healer of every malady, that Kushtha stands by Soma's side. Banish thou all Consumption, drive all sorceresses far away.

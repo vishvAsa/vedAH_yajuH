@@ -2,5 +2,4 @@
 title = "११ सनादग्ने मृणसि"
 
 +++
-स॒नाद॑ग्ने मृणसि यातु॒धाना॒न् न त्वा॒ रक्षां॑सि॒ पृत॑नासु जिग्युः ।  
-स॒हमू॑रा॒ननु॑ दह क्र॒व्यादो॒ मा ते॑ हे॒त्या मु॑क्षतः॒ दैव्या॑याः ॥११॥  
+Thou, Agni, ever slayest Yatudhanas, the fiends have never con- quered thee in battles. Consume thou from the root the flesh-devourers, let none of them escape thy heavenly weapon

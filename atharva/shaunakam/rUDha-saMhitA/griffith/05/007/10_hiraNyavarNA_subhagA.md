@@ -2,5 +2,4 @@
 title = "१० हिरण्यवर्णा सुभगा"
 
 +++
-हिर॑ण्यवर्णा सु॒भगा॒ हिर॑ण्यकशिपुर्म॒ही।  
-तस्यै॒ हिर॑ण्यद्राप॒येऽरा॑त्या अकरं॒ नमः॑ ॥१०॥
+Auspicious, with her golden hue, pillowed on gold, the mighty one To this Arati clad in robes of gold mine homage have I paid.

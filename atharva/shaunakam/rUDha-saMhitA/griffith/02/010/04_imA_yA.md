@@ -2,6 +2,4 @@
 title = "०४ इमा या"
 
 +++
-इ॒मा या दे॒वीः प्र॒दिश॒श्चत॑स्रो॒ वात॑पत्नीर॒भि सूर्यो॑ वि॒चष्टे॑ ।  
-ए॒वाहं त्वां क्षे॑त्रि॒यान्निरृ॑ त्या जामिशं॒साद् द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॑ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥४॥  
+These Goddesses, four regions of the heavens, on whom the Sun looks kindly, wives of Vata-- From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.

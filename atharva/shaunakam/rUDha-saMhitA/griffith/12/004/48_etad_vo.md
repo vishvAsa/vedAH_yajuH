@@ -2,5 +2,4 @@
 title = "४८ एतद् वो"
 
 +++
-ए॒तद् वो॑ ब्राह्मणा ह॒विरिति॑ मन्वीत याचि॒तः ।  
-व॒शां चेदे॑नं॒ याचे॑यु॒र्या भी॒माद॑दुषो गृ॒हे॥४८॥  
+This Brahmans! is your sacrifice: thus should one think when he is asked, What time they beg from him the Cow fearful in the with- holder's house.

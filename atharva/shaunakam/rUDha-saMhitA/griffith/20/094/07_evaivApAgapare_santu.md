@@ -2,5 +2,4 @@
 title = "०७ एवैवापागपरे सन्तु"
 
 +++
-ए॒वैवापा॒गप॑रे सन्तु दू॒ढ्योऽश्वा॒ येषां॑ दु॒र्युज॑ आयुयु॒ज्रे।  
-इ॒त्था ये प्रागुप॑रे॒ सन्ति॑ दा॒वने॑ पु॒रूणि॒ यत्र॑ व॒युना॑नि॒ भोज॑ना ॥७॥  
+So be the others, evil-hearted, far away, whose horses difficult to harness have been yoked. Here in advance man stand anear to offer gifts, by whom full many a work that brings reward is done.

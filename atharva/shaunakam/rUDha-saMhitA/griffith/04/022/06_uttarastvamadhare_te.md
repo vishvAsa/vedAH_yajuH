@@ -2,5 +2,4 @@
 title = "०६ उत्तरस्त्वमधरे ते"
 
 +++
-उत्त॑र॒स्त्वमध॑रे ते स॒पत्ना॒ ये के च॑ राज॒न् प्रति॑शत्रवस्ते ।  
-ए॒क॒वृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा भ॑रा॒ भोज॑नानि ॥६॥  
+Supreme art thou, beneath thee are thy rivals, and all, O King, who were thine adversaries. Sole lord and leader and allied with Indra, bring, conqueror, thy foremen's goods and treasures.

@@ -2,5 +2,4 @@
 title = "०३ ये यक्ष्मासो"
 
 +++
-ये यक्ष्मा॑सो अर्भ॒का म॒हान्तो॒ ये च॑ श॒ब्दिनः॑ ।  
-सर्वा॑न् दुर्णाम॒हा म॒णिः श॒तवा॑रो अनीनशत्॥३॥  
+Consumptions, light and serious, and those which sounds accompany, All these the Amulet, Hundred-haired, scarer of fiends, hath banished hence.

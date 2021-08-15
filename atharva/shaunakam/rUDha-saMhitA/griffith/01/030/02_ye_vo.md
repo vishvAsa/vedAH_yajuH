@@ -2,5 +2,4 @@
 title = "०२ ये वो"
 
 +++
-ये वो॑ देवाः पि॒तरो॒ ये च॑ पु॒त्राः सचे॑तसो मे शृणुते॒दमु॒क्तम्।  
-सर्वे॑भ्यो वः॒ प॑रि ददाम्ये॒तं स्व॒स्त्येऽनं ज॒रसे॑ वहाथ ॥२॥  
+Listen, one-minded, to the word I, utter, the sons, O Gods, among you, and the fathers! I trust this man to all of you: preserve him happily, and to length of days conduct him.

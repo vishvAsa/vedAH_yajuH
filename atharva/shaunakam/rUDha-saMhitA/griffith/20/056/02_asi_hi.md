@@ -2,5 +2,4 @@
 title = "०२ असि हि"
 
 +++
-असि॒ हि वी॑र॒ सेन्योऽसि॒ भूरि॑ पराद॒दिः ।  
-असि॑ द॒भ्रस्य॑ चिद् वृ॒धो यज॑मानाय शिक्षसि सुन्व॒ते भूरि॑ ते॒ वसु॑ ॥२॥  
+For, Hero, thou art like a host, art giver of abundant prey. Strengthening even the feeble, thou aidest the sacrificer, thou givest the worshipper ample wealth.

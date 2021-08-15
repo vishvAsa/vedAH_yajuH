@@ -2,5 +2,4 @@
 title = "०१ यां त्वा"
 
 +++
-यां त्वा॑ गन्ध॒र्वो अख॑न॒द् वरु॑णाय मृ॒तभ्र॑जे ।  
-तां त्वा॑ व॒यं ख॑नाम॒स्योष॑धिं शेप॒हर्ष॑णीम्॥१॥  
+We dig thee from the earth, the Plant which strengthens and exalts the nerves, The Plant which the Gandharva dug for Varuna whose power was lost.

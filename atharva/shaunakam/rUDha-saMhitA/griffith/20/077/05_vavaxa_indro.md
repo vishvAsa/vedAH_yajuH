@@ -2,5 +2,4 @@
 title = "०५ ववक्ष इन्द्रो"
 
 +++
-व॒व॒क्ष इन्द्रो॒ अमि॑तमृजि॒ष्यु॑१भे आ प॑प्रौ॒ रोद॑सी महि॒त्वा।  
-अत॑श्चिदस्य महि॒मा वि रे॑च्य॒भि यो विश्वा॒ भुव॑ना ब॒भूव॑ ॥५॥  
+Indra, impetuous One, hath waxed immensely: he with his vastness hath filled earth and heaven. E'en beyond this his majesty extendeth who hath exceeded all the worlds in greatness,

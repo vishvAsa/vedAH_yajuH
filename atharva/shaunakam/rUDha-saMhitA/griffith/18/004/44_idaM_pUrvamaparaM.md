@@ -2,5 +2,4 @@
 title = "४४ इदं पूर्वमपरं"
 
 +++
-इ॒दं पूर्व॒मप॑रं नि॒यानं॒ येना॑ ते॒ पूर्वे॑ पि॒तरः॒ परे॑ताः ।  
-पु॒रो॒ग॒वा ये अ॑भि॒शाचो॑ अस्य॒ ते त्वा॑ वहन्ति सु॒कृता॑मु लो॒कम्॥४४॥  
+This is the ancient, this the recent pathway, by which thy sires of olden time departed. They who first travelled it, and they who followed, convey thee to the world where dwell the righteous.

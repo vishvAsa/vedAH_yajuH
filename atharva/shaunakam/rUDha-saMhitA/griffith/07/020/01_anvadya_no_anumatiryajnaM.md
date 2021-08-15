@@ -2,5 +2,4 @@
 title = "०१ अन्वद्य नोऽनुमतिर्यज्ञं"
 
 +++
-अन्व॒द्य नोऽनु॑मतिर्य॒ज्ञं दे॒वेषु॑ मन्यताम्।  
-अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तां दा॒शुषे॒ मम॑ ॥१॥  
+Anumati approve to-day our sacrifice among the Gods! May Agni bear mine offerings away for me the worshipper.

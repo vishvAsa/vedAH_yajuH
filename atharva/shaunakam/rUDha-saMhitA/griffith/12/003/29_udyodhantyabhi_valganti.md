@@ -2,5 +2,4 @@
 title = "२९ उद्योधन्त्यभि वल्गन्ति"
 
 +++
-उद्यो॑धन्त्य॒भि व॑ल्गन्ति त॒प्ताः फेन॑मस्यन्ति बहु॒लांश्च॑ बि॒न्दून्।  
-योषे॑व दृ॒ष्ट्वा पति॒मृत्वि॑यायै॒तैस्त॑ण्डु॒लैर्भ॑वता॒ समा॑पः ॥२९॥  
+Heated, they rage and boil in agitation, they cast about their foam and countless bubbles Like a fond woman when she sees her husband--what time ye waters and these rice-grains mingle,

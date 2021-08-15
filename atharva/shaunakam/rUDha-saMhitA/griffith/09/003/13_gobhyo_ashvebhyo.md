@@ -2,5 +2,4 @@
 title = "१३ गोभ्यो अश्वेभ्यो"
 
 +++
-गोभ्यो॒ अश्वे॑भ्यो॒ नमो॒ यच्छाला॑यां वि॒जाय॑ते ।  
-विजा॑वति॒ प्रजा॑वति॒ वि ते॒ पाशां॑श्चृतामसि ॥१३॥  
+Homage to kine and steeds! to all that shall be born within the house We loose the bonds that fasten thee, mother of multitudes to come!

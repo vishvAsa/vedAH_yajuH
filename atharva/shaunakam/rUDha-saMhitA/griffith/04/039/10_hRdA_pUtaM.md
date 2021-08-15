@@ -2,5 +2,4 @@
 title = "१० हृदा पूतं"
 
 +++
-हृ॒दा पू॒तं मन॑सा जातवेदो॒ विश्वा॑नि देव व॒युना॑नि वि॒द्वान्।  
-स॒प्तास्या॑नि॒ तव॑ जातवेद॒स्तेभ्यो॑ जुहोमि॒ स जु॑षस्व ह॒व्यम्॥१०॥
+Skilled in all ways, O God, O Jatavedas, I offer what is cleansed by heart and spirit. To all thy seven mouths, O Jatavedas. Do thou accept with pleasure my libation.

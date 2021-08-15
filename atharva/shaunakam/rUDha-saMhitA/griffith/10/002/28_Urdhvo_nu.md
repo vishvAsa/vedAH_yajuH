@@ -2,5 +2,4 @@
 title = "२८ ऊर्ध्वो नु"
 
 +++
-ऊ॒र्ध्वो नु सृ॒ष्टा३स्ति॒र्यङ् नु सृ॒ष्टाः३ सर्वा॒ दिशः॒ पुरु॑ष॒ आ ब॑भूवाँ३ ।  
-पुरं॒ यो ब्रह्म॑णो॒ वेद॒ यस्याः॒ पुरु॑ष उ॒च्यते॑ ॥२८॥  
+Stationed on high, Purusha hath pervaded all regions spread aloft and stretched transversely. He who knows Brahma's cattle, yea, the fort whence Purusha is named,

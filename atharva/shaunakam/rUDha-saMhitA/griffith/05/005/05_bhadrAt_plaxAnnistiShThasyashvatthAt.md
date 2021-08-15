@@ -2,5 +2,4 @@
 title = "०५ भद्रात् प्लक्षान्निस्तिष्ठस्यश्वत्थात्"
 
 +++
-भ॒द्रात् प्ल॒क्षान्निस्ति॑ष्ठस्यश्व॒त्थात् ख॑दि॒राद्ध॒वात्।  
-भ॒द्रान्न्य॒ग्रोधा॑त् प॒र्णात् सा न॒ एह्य॑रुन्धति ॥५॥  
+Thou springest from blest Plaxa, or Asvattha, Dhava, Khadira, Parna, or blest Nyagrodha, so come thou to use, Arundhati!

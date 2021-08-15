@@ -2,5 +2,4 @@
 title = "०५ इन्द्रस्य नु"
 
 +++
-इन्द्र॑स्य॒ नु प्रा वो॑चं वी॒र्याऽणि॒ यानि॑ च॒कार॑ प्रथ॒मानि॑ व॒ज्री।  
-अह॒न्नहि॒मन्व॒पस्त॑तर्द॒ प्र व॒क्षणा॑ अभिन॒त् पर्व॑तानाम्॥५॥  
+Now will I tell the manly deeds of Indra, the first that he achieved, the thunder-wielder. He slew the Dragon, then disclosed the waters, and cleft the channels of the mountain torrents.

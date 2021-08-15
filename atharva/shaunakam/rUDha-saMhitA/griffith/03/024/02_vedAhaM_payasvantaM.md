@@ -2,5 +2,4 @@
 title = "०२ वेदाहं पयस्वन्तं"
 
 +++
-वेदा॒हं पय॑स्वन्तं च॒का॑र धा॒न्यं ऽ ब॒हु।  
-सं॒भृत्वा॒ नाम॒ यो दे॒वस्तं व॒यं ह॑वामहे॒ योयो॒ अय॑ज्वनो गृ॒हे॥२॥  
+Him who is rich in milk I know. Abundant hath he made our corn. The God whose name is Gatherer, him we invoke who dwelleth in his house who sacrifices not.

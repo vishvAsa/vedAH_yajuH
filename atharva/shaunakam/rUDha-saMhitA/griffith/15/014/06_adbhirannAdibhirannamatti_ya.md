@@ -2,4 +2,4 @@
 title = "०६ अद्भिरन्नादिभिरन्नमत्ति य"
 
 +++
-अ॒द्भिर॑न्ना॒दिभि॒रन्न॑मत्ति॒ य ए॒वं वेद॑ ॥६॥  
+He, when he went away to animals, went away having become Rudra and having made herbs eaters of food. He who hath this knowledge eats food with herbs as food-eaters.

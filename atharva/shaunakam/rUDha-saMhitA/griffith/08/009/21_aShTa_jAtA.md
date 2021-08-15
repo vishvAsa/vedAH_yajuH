@@ -2,5 +2,4 @@
 title = "२१ अष्ट जाता"
 
 +++
-अ॒ष्ट जा॒ता भू॒ता प्र॑थम॒जर्तस्या॒ष्टेन्द्र॒र्त्विजो॒ दैव्या॒ ये।  
-अ॒ष्टयो॑नि॒रदि॑तिर॒ष्टपु॑त्राष्ट॒मीं रात्रि॑म॒भि ह॒व्यमे॑ति ॥२१॥  
+Eight Elements sprang up, first born of Order: the Priests divine are eight in number, Indra! Eight are the wombs of Aditi, eight her children; for the eighth night is the libation destined.

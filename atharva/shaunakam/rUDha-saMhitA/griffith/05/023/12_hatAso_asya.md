@@ -2,5 +2,4 @@
 title = "१२ हतासो अस्य"
 
 +++
-ह॒तासो॑ अस्य वे॒शसो॑ ह॒तासः॒ परि॑वेशसः ।  
-अथो॒ ये क्षु॑ल्ल॒का इ॑व॒ सर्वे॒ ते क्रिम॑यो ह॒ताः ॥१२॥  
+Of every worm and insect, of the female and the male alike, I crush the head to pieces with a stone and burn the face with fire.

@@ -2,5 +2,4 @@
 title = "०१ शग्ध्यू३षु शचीपत"
 
 +++
-श॒ग्ध्यू॒३षु श॑चीपत॒ इन्द्र॒ विश्वा॑भिरू॒तिभिः॑ ।  
-भगं॒ न हि त्वा॑ य॒शसं॑ वसु॒विद॒मनु॑ शूर॒ चरा॑मसि ॥१॥  
+Indra with all thy saving helps give us assistance, Lord of Power For after thee we follow even as glorious bliss, thee, Hero, finder-out of wealth.

@@ -2,5 +2,4 @@
 title = "०९ यास्ते रुहः"
 
 +++
-यास्ते॒ रुहः॑ प्र॒रुहो॒ यास्त॑ आ॒रुहो॒ याभि॑रापृ॒णासि॒ दिव॑म॒न्तरि॑क्षम्।  
-तासां॒ ब्रह्म॑णा॒ पय॑सा ववृधा॒नो वि॒शि रा॒ष्ट्रे जा॑गृहि॒ रोहि॑तस्य ॥९॥  
+Thy risings up, thy mountings and ascensions wherewith thou fillest heaven and air's mid-region-- By prayer for these, by milk of these, increasing, in Rohita's kingdom watch, among his people.

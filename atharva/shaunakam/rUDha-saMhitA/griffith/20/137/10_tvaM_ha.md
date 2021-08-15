@@ -2,5 +2,4 @@
 title = "१० त्वं ह"
 
 +++
-त्वं ह॒ त्यत्स॒प्तभ्यो॒ जाय॑मानोऽश॒त्रुभ्यो॑ अभवः॒ शत्रु॑रिन्द्र ।  
-गू॒ल्हे द्यावा॑पृथि॒वी अन्व॑विन्दो विभु॒मद्भ्यो॒ भुव॑नेभ्यो॒ रणं॑ धाः ॥१०॥  
+Then, at thy birth, thou wast the foeman, Indra, of those the seven who ne'er had met a rival. The hidden pair, the heaven and earth, thou foundest, and to the mighty worlds thou gavest pleasure.

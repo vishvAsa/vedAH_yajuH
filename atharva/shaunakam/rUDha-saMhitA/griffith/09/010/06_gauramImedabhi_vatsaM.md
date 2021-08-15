@@ -2,5 +2,4 @@
 title = "०६ गौरमीमेदभि वत्सं"
 
 +++
-गौर॑मीमेद॒भि व॒त्सं मि॒षन्तं॑ मू॒र्धानं॒ हिङ्ङ॑कृणो॒न्मात॒वा उ॑ ।  
-सृक्वा॑णं घ॒र्मम॒भि वा॑वशा॒ना मिमा॑ति मा॒युं पय॑ते॒ पयो॑भिः ॥६॥  
+The Cow hath lowed after her blinking youngling: she licks his forehead as she lows, to form it. His mouth she fondly calls to her warm udder, and suckles him with milk while gently lowing.

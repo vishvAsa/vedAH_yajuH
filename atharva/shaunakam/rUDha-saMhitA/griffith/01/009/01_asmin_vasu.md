@@ -2,5 +2,4 @@
 title = "०१ अस्मिन् वसु"
 
 +++
-अ॒स्मिन् वसु॒ वस॑वो धारय॒न्त्विन्द्रः॑ पू॒षा वरु॑णो मि॒त्रो अ॒ग्निः ।  
-इ॒ममा॑दि॒त्या उ॒त॒ विश्वे॑ च दे॒वा उत्त॑रस्मि॒न् ज्योति॑षि धारयन्तु ॥१॥  
+May Indra, Pushan, Varuria, Mitra, Agni, benignant Gods, maintain this man in riches. May the Adityas and the Vive Devas set and support him in supremest lustre.

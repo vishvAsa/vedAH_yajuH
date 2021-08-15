@@ -2,5 +2,4 @@
 title = "०२ अस्य देवाः"
 
 +++
-अ॒स्य दे॑वाः प्र॒दिशि॒ ज्यो॑तिरस्तु॒ सूर्यो॑ अ॒ग्निरु॒त वा॒ हिर॑ण्यम्।  
-स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम्॥२॥  
+May light, O Gods, be under his dominion, Agni, the Sun, all; that is bright and golden. Prostrate beneath our feet his foes and rivals. Uplift him to the. loftiest cope of heaven.

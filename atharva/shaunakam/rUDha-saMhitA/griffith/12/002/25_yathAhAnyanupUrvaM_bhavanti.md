@@ -2,5 +2,4 @@
 title = "२५ यथाहान्यनुपूर्वं भवन्ति"
 
 +++
-यथाहा॑न्यनुपूर्वं भव॑न्ति॒ यथ॒र्तव॑ ऋ॒तुभि॒र्यन्ति॑ सा॒कम्।  
-यथा॒ न पूर्व॒मप॑रो॒ जहा॑त्ये॒वा धा॑त॒रायूं॑षि कल्पयै॒षाम्॥२५॥  
+As the days follow days in close succession, as with the seasons duly come the seasons. As each successor fails not his foregoer, so constitute the lives of these, Ordainer!

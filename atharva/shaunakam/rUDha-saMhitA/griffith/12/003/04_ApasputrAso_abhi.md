@@ -2,5 +2,4 @@
 title = "०४ आपस्पुत्रासो अभि"
 
 +++
-आप॑स्पुत्रासो अ॒भि सं वि॑शध्वमि॒मं जी॒वं जी॑वधन्याः स॒मेत्य॑ ।  
-तासां॑ भजध्वम॒मृतं॒ यमा॒हुर्यमो॑द॒नं पच॑ति वां॒ जनि॑त्री ॥४॥  
+Do ye, O sons, unite you with the waters, meeting this living man, ye life-sustainers, Allot to them the Odana your mother is making ready, which they call immortal.

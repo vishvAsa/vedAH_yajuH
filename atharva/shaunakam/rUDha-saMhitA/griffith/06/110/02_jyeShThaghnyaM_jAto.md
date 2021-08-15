@@ -2,5 +2,4 @@
 title = "०२ ज्येष्ठघ्न्यं जातो"
 
 +++
-ज्ये॒ष्ठ॒घ्न्यं जा॒तो वि॒चृतो॑र्य॒मस्य॑ मूल॒बर्ह॑णा॒त् परि॑ पाह्येनम्।  
-अत्ये॑नं नेषद् दुरि॒तानि॒ विश्वा॑ दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥२॥  
+Neath Jyaishthaghni and Yama's Two Releasers this child was born: preserve him from uprooting. He shall conduct him safe past all misfortunes to lengthened life that lasts a hundred autumns.

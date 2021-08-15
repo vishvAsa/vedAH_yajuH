@@ -2,5 +2,4 @@
 title = "०१ यस्ते स्तनः"
 
 +++
-यस्ते॒ स्तनः॑ शश॒युर्यो म॑यो॒भूर्यः सु॑म्न॒युः सु॒हवो॒ यः सु॒दत्रः॑ ।  
-येन॒ विश्वा॒ पुष्य॑सि॒ वार्या॑णि॒ सर॑स्वति॒ तमि॒ह धात॑वे कः ॥१॥
+That far-spread thunder, sent from thee, which cometh on all this world, a high celestial signal Strike not, O God, our growing corn with lightning, not kill it with the burning rays of Surya.

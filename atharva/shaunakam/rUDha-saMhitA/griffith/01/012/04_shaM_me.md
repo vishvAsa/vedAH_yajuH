@@ -2,5 +2,4 @@
 title = "०४ शं मे"
 
 +++
-शं मे॒ पर॑स्मै॒ गात्रा॑य॒ शम॒स्त्वव॑राय मे ।  
-शं मे॑ च॒तुर्भ्यो॒ अङ्गे॑भ्यः॒ शम॑स्तु त॒न्वे॒३मम॑ ॥४॥
+Well be it with my upper frame, well be it with my lower parts. With my four limbs let it be well. Let all my body be in health.

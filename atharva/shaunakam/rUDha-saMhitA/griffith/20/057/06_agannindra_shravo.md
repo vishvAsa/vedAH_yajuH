@@ -2,4 +2,4 @@
 title = "०६ अगन्निन्द्र श्रवो"
 
 +++
-अग॑न्निन्द्र॒ श्रवो॑ बृ॒हद् द्यु॒म्नं द॑धिष्व दु॒ष्टर॑म्। उत् ते॒ शुष्मं॑ तिरामसि ॥६॥  
+Indra, great glory hast thou gained. Win splendid fame which none may mar. We make thy might perpetual.

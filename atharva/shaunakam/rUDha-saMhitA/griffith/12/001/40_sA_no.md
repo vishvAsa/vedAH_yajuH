@@ -2,5 +2,4 @@
 title = "४० सा नो"
 
 +++
-सा नो॒ भूमि॒रा दि॑शतु॒ यद्धनं॑ का॒मया॑महे ।  
-भगो॑ अनु॒प्रयु॑ङ्क्ता॒मिन्द्र॑ एतु पुरोग॒वः ॥४०॥  
+May she, the Earth, assign to us the opulence for which we yearn, May Bhaga share and aid the task and Indra come to lead the way.

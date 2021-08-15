@@ -2,5 +2,4 @@
 title = "३६ सहस्रधारं शतधारमुत्समक्षितं"
 
 +++
-स॒हस्र॑धारं श॒तधा॑र॒मुत्स॒मक्षि॑तं व्य॒च्यमा॑नं सलि॒लस्य॑ पृ॒ष्ठे।  
-ऊर्जं॒ दुहा॑नमनप॒स्फुर॑न्त॒मुपा॑सते पि॒तरः॑ स्व॒धाभिः॑ ॥३६॥  
+Beside the spring with hundred, thousand currents, expanding on the summit of the water, Exhaustless, yielding strength, never reluctant, the Fathers with their sacred food are seated.

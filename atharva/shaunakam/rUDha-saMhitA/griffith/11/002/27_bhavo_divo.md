@@ -2,5 +2,4 @@
 title = "२७ भवो दिवो"
 
 +++
-भ॒वो दि॒वो भ॒व ई॑शे पृथि॒व्या भ॒व आ प॑प्र उ॒र्व॑न्तरि॑क्षम्।  
-तस्मै॒ नमो॑ यत॒मस्यां॑ दि॒शी॒३तः ॥२७॥  
+Ruler of heaven and Lord of earth is Bhava: Bhava hath filled the spacious air's mid-region. Where'er he be, to him be paid our homage!

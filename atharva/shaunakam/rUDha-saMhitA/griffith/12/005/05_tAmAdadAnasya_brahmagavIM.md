@@ -2,4 +2,4 @@
 title = "०५ तामाददानस्य ब्रह्मगवीं"
 
 +++
-तामा॒ददा॑नस्य ब्रह्मग॒वीं जि॑न॒तो ब्रा॑ह्म॒णं क्ष॒त्रिय॑स्य ॥५॥  
+Of the Kshatriya who taketh to himself this Brahman's cow and oppresseth the Brahman.

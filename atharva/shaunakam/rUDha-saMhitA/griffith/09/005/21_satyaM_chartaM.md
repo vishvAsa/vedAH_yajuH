@@ -2,5 +2,4 @@
 title = "२१ सत्यं चर्तं"
 
 +++
-स॒त्यं च॒र्तं च॒ चक्षु॑षी॒ विश्वं॑ स॒त्यं श्र॒द्धा प्रा॒णो वि॒राट् शिरः॑ ।  
-ए॒ष वा अप॑रिमितो य॒ज्ञो यद॒जः पञ्चौ॑दनः ॥२१॥  
+His eyes were Truth and Right. The whole together was Truth: Viraj his head and Faith his breathing. This Goat Panchaudana was indeed a sacrifice unlimited.

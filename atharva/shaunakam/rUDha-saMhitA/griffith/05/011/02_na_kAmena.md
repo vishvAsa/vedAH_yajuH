@@ -2,5 +2,4 @@
 title = "०२ न कामेन"
 
 +++
-न कामे॑न॒ पुन॑र्मघो भवामि॒ सं च॑क्षे॒ कं पृश्नि॑मे॒तामुपा॑जे ।  
-केन॒ नु त्वम॑थर्व॑न् काव्ये॑न॒ केन॑ जा॒तेना॑सि जा॒तवे॑दाः ॥२॥  
+Not through desire do I revoke my present: I bring this brind- led cow to contemplate her. Now by what lore, by what inherent nature, knowest thou all things that exist, Atharvan?

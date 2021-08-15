@@ -2,5 +2,4 @@
 title = "०२ प्रति दह"
 
 +++
-प्रति॑ दह यातु॒धाना॒न् प्रति॑ देव किमी॒दिनः॑ ।  
-प्र॒तीचीः॑ कृष्णवर्तने॒ सं द॑ह यातुधा॒न्यः ॥२॥  
+Consume the Yatudhanas, God! meet the Kimidins with thy flame: Burn up the Yatudhanis as they face thee, thou whose path is black!

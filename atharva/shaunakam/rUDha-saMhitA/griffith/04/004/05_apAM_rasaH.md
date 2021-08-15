@@ -2,5 +2,4 @@
 title = "०५ अपां रसः"
 
 +++
-अ॒पां रसः॑ प्रथम॒जोऽथो॒ वन॒स्पती॑नाम्।  
-उ॒त सोम॑स्य॒ भ्राता॑स्यु॒तार्शम॑सि॒ वृष्ण्य॑म्॥५॥  
+Ros aquarum primigenitus atque arborum, Somae etiam frater es, vatum sacrorum masculus vigor es.

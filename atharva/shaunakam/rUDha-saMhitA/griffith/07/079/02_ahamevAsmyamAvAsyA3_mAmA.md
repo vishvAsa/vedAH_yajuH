@@ -2,5 +2,4 @@
 title = "०२ अहमेवास्म्यमावास्या३ मामा"
 
 +++
-अ॒हमे॒वास्म्य॑मावा॒स्या॒३ मामा व॑सन्ति सु॒कृतो॒ मयी॒मे।  
-मयि॑ दे॒वा उ॒भये॑ सा॒ध्याश्चेन्द्र॑ज्येष्ठाः॒ सम॑गच्छन्त॒ सर्वे॑ ॥२॥  
+I am the New Moon's Night, the good and pious are my in- habitants, these dwell within me. In me have Gods of both the spheres, and Sadhyas, with Indra as their chief, all met together.

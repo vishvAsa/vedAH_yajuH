@@ -2,5 +2,4 @@
 title = "०३ पुमांसं पुत्रं"
 
 +++
-पुमां॑सं पु॒त्रं ज॑नय॒ तं पुमा॒ननु॑ जायताम्।  
-भवा॑सि पु॒त्राणां॑ मा॒ता जा॒तानां॑ ज॒नया॑श्च॒ यान्॥३॥  
+Bring forth a male, bring forth a son. Another male shall follow him. The mother shalt thou be of sons born and hereafter to be born.

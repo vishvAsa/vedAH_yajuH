@@ -2,4 +2,4 @@
 title = "०९ क एषां"
 
 +++
-क ए॑षां दु॒न्दुभिं॑ हनत्॥९॥  
+Who among these will beat the drum? How, if he beat it, will he beat?

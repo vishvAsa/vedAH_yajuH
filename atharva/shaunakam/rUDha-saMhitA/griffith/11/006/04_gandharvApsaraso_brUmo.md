@@ -2,5 +2,4 @@
 title = "०४ गन्धर्वाप्सरसो ब्रूमो"
 
 +++
-ग॒न्ध॒र्वा॒प्स॒रसो॑ ब्रूमो अ॒श्विना॒ ब्रह्म॑ण॒स्पति॑म्।  
-अ॒र्य॒मा नाम॒ यो दे॒वस्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥४॥  
+Gandharvas and Apsarases; the Asvins, Brahmanaspati, Aryaman, God, by name we call: may they deliver us from woe.

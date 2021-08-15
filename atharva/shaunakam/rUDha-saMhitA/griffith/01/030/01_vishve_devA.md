@@ -2,5 +2,4 @@
 title = "०१ विश्वे देवा"
 
 +++
-विश्वे॑ देवा॒ वस॑वो॒ रक्ष॑ते॒ममु॒तादि॑त्या जागृ॒त यू॒यम॒स्मिन्।  
-मेमं सना॑भिरु॒त वा॒न्यना॑भि॒र्मेमं प्राप॒त् पौरु॑षेयो व॒धो यः ॥१॥  
+Guard and protect this man, all Gods and Vasus. Over him keep- ye watch and ward, Adityas. Let not death reach him from the hands of brothers from hands of aliens, or of human beings.

@@ -2,5 +2,4 @@
 title = "०४ येना समुद्रमसृजो"
 
 +++
-येना॑ समु॒द्रमसृ॑जो म॒हीर॒पस्तदि॑न्द्र॒ वृष्णि॑ ते॒ शवः॑ ।  
-स॒द्यः सो अ॑स्य महि॒मा न सं॒नशे॒ यं क्षो॒णीर॑नुचक्र॒दे॥४॥
+Wherewith thou sentest mighty waters to the sea, that, Indra, is. thy hero strength. For ever unattainable is this power of him to whom the worlds. have called aloud.

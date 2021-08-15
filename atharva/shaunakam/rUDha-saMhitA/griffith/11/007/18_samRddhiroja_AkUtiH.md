@@ -2,5 +2,4 @@
 title = "१८ समृद्धिरोज आकूतिः"
 
 +++
-समृ॑द्धि॒रोज॒ आकू॑तिः क्ष॒त्रं रा॒ष्ट्रं षडु॒र्व्यः ।  
-सं॒व॒त्स॒रोऽध्युच्छि॑ष्ट इडा॑ प्रै॒षा ग्रहा॑ ह॒विः ॥१८॥  
+Welfare, resolve and energy, the six expanses, kingship, sway, Prayer, and direction, and the year, oblation, planets, are there- in;

@@ -2,4 +2,4 @@
 title = "१३ सं गोमदिन्द्र"
 
 +++
-सं गोम॑दिन्द्र॒ वाज॑वद॒स्मे पृ॒थु श्रवो॑ बृ॒हत्। वि॒श्वायु॑र्धे॒ह्यक्षि॑तम्॥१३॥  
+Give, Indra, wide and lofty fame, wealthy in cattle and in strength, Lasting our life-time, failing not.

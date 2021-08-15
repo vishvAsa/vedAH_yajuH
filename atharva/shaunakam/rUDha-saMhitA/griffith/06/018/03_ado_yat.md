@@ -2,5 +2,4 @@
 title = "०३ अदो यत्"
 
 +++
-अ॒दो यत् ते हृ॒दि श्रि॒तं म॑न॒स्कं प॑तयिष्णु॒कम्।  
-तत॑स्त ई॒र्ष्यां मु॑ञ्चामि॒ निरू॒ष्माणं॒ दृते॑रिव ॥३॥
+The thought that harbours in thy heart, the fluttering doubt that dwells therein. Yea, all thy jealousy, like heat born of the dance, I banish thence.

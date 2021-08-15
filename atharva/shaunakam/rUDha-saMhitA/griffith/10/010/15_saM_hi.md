@@ -2,5 +2,4 @@
 title = "१५ सं हि"
 
 +++
-सं हि सूर्ये॒णाग॑त॒ समु॒ सर्वे॑ण॒ चक्षु॑षा ।  
-व॒शा स॑मु॒द्रमत्य॑ख्यद् भ॒द्रा ज्योतीं॑षि॒ बिभ्र॑ती ॥१५॥  
+Come with the Sun, come hitherward with every creature that hath eyes, Bearing auspicious lights with her the Cow hath looked across the sea.

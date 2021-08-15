@@ -2,5 +2,4 @@
 title = "०३ सोमं मन्यते"
 
 +++
-सोमं॑ मन्यते पपि॒वान् यत् सं॑पिं॒षन्त्योष॑धिम्।  
-सोमं॒ यं ब्र॒ह्माणो॑ वि॒दुर्न तस्या॑श्नाति॒ पार्थि॑वः ॥३॥  
+One thinks, when men have brayed the plant, that he hath drunk the Soma's juice. Of him whom Brahmans truly know as Soma never mortal eats.

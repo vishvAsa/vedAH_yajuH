@@ -2,5 +2,4 @@
 title = "०२ इदं यत्"
 
 +++
-इ॒दं यत् कृ॒ष्णः श॒कुनि॑र॒वामृ॑क्षन्निरृते ते॒ मुखे॑न ।  
-अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्यः॒ प्र मु॑ञ्चतु ॥२॥
+May Agni Garhapatya save and set me free from all this guilt. Which the black Raven with thy mouth, O Nirriti, hath wiped away.

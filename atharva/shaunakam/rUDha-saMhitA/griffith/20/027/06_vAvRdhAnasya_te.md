@@ -2,4 +2,4 @@
 title = "०६ वावृधानस्य ते"
 
 +++
-वा॒वृ॒धा॒नस्य॑ ते व॒यं विश्वा॒ धना॑नि जि॒ग्युषः॑ । ऊ॒तिमि॒न्द्रा वृ॑णीमहे ॥६॥
+Thine aid we claim, O Indra, thine who after thou hast waxen great. Hast won all treasures for thine own.

@@ -2,5 +2,4 @@
 title = "०२ गायत्रेण प्रति"
 
 +++
-गा॒य॒त्रेण॒ प्रति॑ मिमीते अ॒र्कम॒र्केण॒ साम॒ त्रैष्टु॑भेन वा॒कम्।  
-वा॒केन॑ वा॒कं द्वि॒पदा॒ चतु॑ष्पदा॒क्षरे॑ण मिमते स॒प्त वाणीः॑ ॥२॥  
+With Gayatri he measures out the praise-song, Saman with praise-song, triplet with the Trishtup, The triplet with the two or four-foot measure, and with the syllable they form seven metres.

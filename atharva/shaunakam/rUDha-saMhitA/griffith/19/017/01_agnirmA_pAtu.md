@@ -2,5 +2,4 @@
 title = "०१ अग्निर्मा पातु"
 
 +++
-अ॒ग्निर्मा॑ पातु॒ वसु॑भिः पु॒रस्ता॒त् तस्मि॑न् क्रमे॒ तस्मिं॑छ्रये॒ तां पुरं॒ प्रैमि॑ ।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥१॥  
+Agni from eastward guard me with the Vasus! To him I go, in him I rest: this fort I seek for refuge. May he protect me, may he be my guardian. I give my soul--All hail! into his keeping.

@@ -2,4 +2,4 @@
 title = "१३ त्रीण्युष्ट्रस्य नामानि"
 
 +++
-त्रीण्यु॒ष्ट्रस्य॒ नामा॑नि ॥१३॥  
+Three are the names the camel bears, Golden is one of them, he said.

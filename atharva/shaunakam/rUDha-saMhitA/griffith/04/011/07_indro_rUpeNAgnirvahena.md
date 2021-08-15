@@ -2,5 +2,4 @@
 title = "०७ इन्द्रो रूपेणाग्निर्वहेन"
 
 +++
-इन्द्रो॑ रू॒पेणा॒ग्निर्वहे॑न प्र॒जाप॑तिः परमे॒ष्ठी वि॒राट्।  
-वि॒श्वान॑रे अक्रमत वैश्वान॒रे अ॑क्रमतान॒दुह्य॑क्रमत । सोऽदृंहयत॒ सोऽधारयत ॥७॥  
+Prajapati, supreme and sovran ruler, Indra by form and by his shoulder Agni, Came to Visvanara, came to all men's Bullock: he firmly forti- fied and held securely.

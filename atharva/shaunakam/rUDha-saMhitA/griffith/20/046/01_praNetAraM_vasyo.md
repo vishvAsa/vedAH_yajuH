@@ -2,4 +2,4 @@
 title = "०१ प्रणेतारं वस्यो"
 
 +++
-प्र॒णे॒तारं॒ वस्यो॒ अच्छा॒ कर्ता॑रं॒ ज्योतिः॑ स॒मत्सु॑ । सा॒स॒ह्वांसं यु॒धामित्रा॑न्॥१॥  
+Him who advances men to wealth, sends light to lead them in their wars, And quells their foemen in the fray:

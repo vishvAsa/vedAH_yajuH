@@ -2,4 +2,4 @@
 title = "०९ स यद्"
 
 +++
-स यद् ध्रु॒वां दिश॒मनु॒ व्यच॑ल॒द् विष्णु॑र्भू॒त्वानु॒व्यऽचलद् वि॒राज॑मन्ना॒दीं कृ॒त्वा॥९॥  
+He, when he went away to the upper region, went away having become Brihaspati and having made the exclamation Vashat an eater of food. He who hath this knowledge eats food with the exclamation Vashat as food-eater.

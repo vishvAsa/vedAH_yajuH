@@ -2,5 +2,4 @@
 title = "६३ यो दध्रे"
 
 +++
-यो द॒ध्रे अ॒न्तरि॑क्षे॒ न म॒ह्ना पि॑तॄ॒णां क॒विः प्रम॑तिर्मती॒नाम्।  
-तम॑र्चत वि॒श्वमि॑त्रा ह॒विर्भिः॒ स नो॑ य॒मः प्र॑त॒रं जी॒वसे॑ धात्॥६३॥  
+The Sage of Fathers, guardian of devotions who holds thee up with might in air's mid-region,-- Praise him ye Visvamitras, with oblation. To lengthened life shall be, this Yama, lead us.

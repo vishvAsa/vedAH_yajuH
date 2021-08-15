@@ -2,5 +2,4 @@
 title = "०३ अनृणा अस्मिन्ननृणाः"
 
 +++
-अ॒नृ॒णा अ॒स्मिन्न॑नृ॒णाः पर॑स्मिन् तृ॒तीये॑ लो॒के अ॑नृ॒णाः स्या॑म ।  
-ये दे॑व॒यानाः॑ पितृ॒याणा॑श्च लो॒काः सर्वा॑न् प॒थो अ॑नृ॒णा आ क्षि॑येम ॥३॥
+May we be free in this world and that yonder, in the third world may we be unindebted. May we, debt-free, abide in all the pathways, in all the worlds which Gods and Fathers visit.

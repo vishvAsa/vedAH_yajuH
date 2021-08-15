@@ -2,5 +2,4 @@
 title = "०२ दाना मृगो"
 
 +++
-दा॒ना मृ॒गो न वा॑र॒णः पु॑रु॒त्रा च॒रथं॑ दधे ।  
-नकि॑ष्ट्वा॒ नि य॑म॒दा सु॒ते ग॑मो म॒हाश्च॑र॒स्योज॑सा ॥२॥  
+As a wild elephant rushes on, this way and that way, mad with heat. None may restrain thee; yet come hither to the draught: thou movest mighty in thy power.

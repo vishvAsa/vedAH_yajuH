@@ -2,5 +2,4 @@
 title = "५३ वर्षं वनुष्वापि"
 
 +++
-व॒र्षं व॑नु॒ष्वापि॑ गच्छ दे॒वांस्त्व॒चो धू॒मं पर्युत् पा॑तयासि ।  
-वि॒श्वव्य॑चा घृ॒तपृ॑ष्ठो भवि॒ष्यन्त्सयो॑निर्लो॒कमुप॑ याह्ये॒तम्॥५३॥  
+Win thou the rain: approach the Gods. Around thee thou from the skin shalt make the smoke rise upward. Soon to be, decked with butter, all-embracing, come to this world wherewith one birth unites thee.

@@ -2,4 +2,4 @@
 title = "०८ ब्रह्म च"
 
 +++
-ब्रह्म॑ च क्ष॒त्रं च॑ रा॒ष्ट्रं च॒ विश॑श्च॒ त्विषि॑श्च॒ यश॑श्च॒ वर्च॑श्च॒ द्रवि॑णं च ॥८॥  
+Devotion and princely sway, kingship and people, brilliance and honour, and splendour and wealth;

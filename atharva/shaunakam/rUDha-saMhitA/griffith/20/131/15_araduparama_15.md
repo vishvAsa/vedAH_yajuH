@@ -2,4 +2,4 @@
 title = "१५ अरदुपरम १५"
 
 +++
-अर॑दुपरम ॥१५॥  
+Hither to the cow's son they come. Libation hath rejoiced the God.

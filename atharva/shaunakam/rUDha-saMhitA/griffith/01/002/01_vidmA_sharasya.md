@@ -2,5 +2,4 @@
 title = "०१ विद्मा शरस्य"
 
 +++
-वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॒ भू॑रिधायसम्।  
-वि॒द्मो ष्व॑स्य मा॒तरं॑ पृथि॒वीं भूरि॑वर्पसम्॥१॥  
+We know the father of the shaft, Parjanya, liberal nourisher, Know well his mother: Prithivi, Earth with her manifold designs.

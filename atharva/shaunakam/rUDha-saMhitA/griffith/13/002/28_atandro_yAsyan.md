@@ -2,5 +2,4 @@
 title = "२८ अतन्द्रो यास्यन्"
 
 +++
-अत॑न्द्रो या॒स्यन् ह॒रितो॒ यदास्था॒द् द्वे रू॒पे कृ॑णुते॒ रोच॑मानः ।  
-के॒तु॒मानु॒द्यन्त्सह॑मानो॒ रजां॑सि॒ विश्वा॑ आदित्य प्र॒वतो॒ वि भा॑सि ॥२८॥  
+When he, unwearied, fain to go, hath mounted his bays, he makes two colours, brightly shining. Rising with banners, conquering the regions, thou sendest light through all the floods, Aditya.

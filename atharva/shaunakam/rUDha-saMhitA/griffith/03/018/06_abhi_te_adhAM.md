@@ -2,5 +2,4 @@
 title = "०६ अभि तेऽधां"
 
 +++
-अ॒भि ते॑ऽधां॒ सह॑माना॒मुप॑ तेऽधां॒ सही॑यसीम्।  
-मामनु॒ प्र ते॒ मनो॑ व॒त्सं गौरि॑व धावतु प॒था वारि॑व धावतु ॥६॥
+I've girt thee with the conquering Plant, beneath thee laid the mightiest one. As a cow hastens to her calf, so let thy spirit speed to me, hasten like water on its way.

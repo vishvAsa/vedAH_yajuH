@@ -2,5 +2,4 @@
 title = "०१ या ओषधयः"
 
 +++
-या ओष॑धयः॒ सोम॑राज्ञीर्ब॒ह्वीः श॒तवि॑चक्षणाः ।  
-बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥१॥  
+The many plants of hundred shapes and forms that Soma rules as King, Commanded by Brihaspati, deliver us from grief and woe!

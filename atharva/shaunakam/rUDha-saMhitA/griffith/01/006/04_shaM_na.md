@@ -2,5 +2,4 @@
 title = "०४ शं न"
 
 +++
-शं न॒ आपो॑ धन्व॒न्या॒३ शमु॑ सन्त्वनू॒प्याः ।  
-शं नः॑ खनि॒त्रिमा॒ आपः॒ शमु॒ याः कु॒म्भ आभृ॑ताः शि॒वा नः॑ सन्तु॒ वार्षि॑कीः॥४॥
+The Waters bless us, all that rise in desert lands or marshy pools! Bless us the Waters dug from earth, bless us the Waters brought in jars, bless us the Waters of the Rains!

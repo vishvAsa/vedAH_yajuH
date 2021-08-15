@@ -2,5 +2,4 @@
 title = "३३ वनस्पते स्तीर्णमा"
 
 +++
-वन॑स्पते स्ती॒र्णमा सी॑द ब॒र्हिर॑ग्निष्टो॒भैः संमि॑तो दे॒वता॑भिः ।  
-त्वष्ट्रे॑व रू॒पं सुकृ॑तं॒ स्वधि॑त्यै॒ना ए॒हाः परि॒ पात्रे॑ ददृश्राम्॥३३॥  
+On the strewn grass. Vanaspati, be seated; commensurate with Gods and Agnishtomas. Let thy fair form, wrought as by Tvashtar's hatchet, mark these that yearn for thee within the vessel.

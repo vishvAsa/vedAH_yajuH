@@ -2,5 +2,4 @@
 title = "०४ एता एना"
 
 +++
-ए॒ता ए॑ना॒ व्याक॑रं खि॒ले गा विष्ठि॑ता इव ।  
-रम॑न्तां॒ पुण्या॑ ल॒क्ष्मीर्याः पा॒पीस्ता अ॑नीनशम्॥४॥
+I have disparted these and those like cows who stray on common land. Here let auspicious Fortunes stay: hence have I banished evil ones.

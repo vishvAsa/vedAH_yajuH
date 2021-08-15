@@ -2,5 +2,4 @@
 title = "२६ मा नो"
 
 +++
-मा नो॑ रुद्र त॒क्मना॒ मा वि॒षेण॒ मा नः॒ सं स्रा॑ दि॒व्येना॒ग्निना॑ ।  
-अ॒न्यत्रा॒स्मद् वि॒द्युतं॑ पातयै॒ताम्॥२६॥  
+O'erwhelm us not with Fever or with poison, nor, Rudra! with the fire that comes from heaven. Elsewhere, and not on us, cast down this lightning.

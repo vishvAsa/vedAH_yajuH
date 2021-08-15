@@ -2,5 +2,4 @@
 title = "०३ त्वामग्ने वृणते"
 
 +++
-त्वाम॑ग्ने वृणते ब्राह्म॒णा इ॒मे शि॒वो अ॑ग्ने सं॒वर॑णे भवा नः ।  
-स॒प॒त्न॒हाग्ने॑ अभिमाति॒जिद् भ॑व॒ स्वे गये॑ जागृ॒ह्यप्र॑युछन्॥३॥  
+These Brahmans have elected thee, O Agni: be thou propitious in our sacred chamber. Slayer of rivals, Agni, quell our foemen: watch in our house with care that never ceases.

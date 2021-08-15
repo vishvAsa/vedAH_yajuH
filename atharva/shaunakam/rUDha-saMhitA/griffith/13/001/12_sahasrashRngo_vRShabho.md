@@ -2,5 +2,4 @@
 title = "१२ सहस्रशृङ्गो वृषभो"
 
 +++
-स॒हस्र॑शृङ्गो वृष॒भो जा॒तवे॑दा घृ॒ताहु॑तः॒ सोम॑पृष्ठः सु॒वीरः॑ ।  
-मा मा॑ हासीन्नाथि॒तो नेत् त्वा॒ जहा॑नि गोपो॒षं च॑ मे वीरपो॒षं च॑ धेहि ॥१२॥  
+Thousand-horned Bull, may Jatavedas, worshipped with butter, balmed with Soma, rich in heroes, Besought, ne'er quit me; may I ne'er forsake thee. Give me abundant men and herds of cattle.

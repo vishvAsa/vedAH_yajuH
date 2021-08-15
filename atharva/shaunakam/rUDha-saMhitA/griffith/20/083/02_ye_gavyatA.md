@@ -2,5 +2,4 @@
 title = "०२ ये गव्यता"
 
 +++
-ये ग॑व्य॒ता मन॑सा॒ शत्रु॑माद॒भुर॑भिप्र॒घ्नन्ति॑ धृष्णु॒या।  
-अघ॑ स्मा नो मघवन्निन्द्र गिर्वणस्तनू॒पा अन्त॑मो भव ॥२॥
+They who with minds intent on spoil subdue the foe, boldly attack and smite him down. From these, O Indra, Bounteous Lord who lovest song, be closest guardian of our lives.

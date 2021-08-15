@@ -2,5 +2,4 @@
 title = "४६ सूर्यायै देवेभ्यो"
 
 +++
-सू॒र्यायै॑ दे॒वेभ्यो॑ मि॒त्राय॒ वरु॑णाय च ।  
-ये भू॒तस्य॒ प्रचे॑तस॒स्तेभ्य॑ इ॒दम॑करं॒ नमः॑ ॥४६॥  
+To Surya and the Deities, to Mitra and to Varuna, Who know aright the thing that is, this adoration have I paid.

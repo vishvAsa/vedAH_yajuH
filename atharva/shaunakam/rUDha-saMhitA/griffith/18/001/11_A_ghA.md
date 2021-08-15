@@ -2,5 +2,4 @@
 title = "११ आ घा"
 
 +++
-आ घा॒ ता ग॑च्छा॒नुत्त॑रा यु॒गानि॒ यत्र॑ जा॒मयः॑ कृ॒णव॒न्नजा॑मि ।
-उप॑ बर्बृहि वृष॒भाय॑ बा॒हुम॒न्यमि॑च्छस्व सुभगे॒ पतिं॒ मत्॥११॥
+Sure there will come succeeding times when brothers and sisters will do acts unmeet for kinsfolk. Not me, O fair one--seek another husband, and make thine arm a pillow for thy consort.

@@ -2,5 +2,4 @@
 title = "३६ शं तप"
 
 +++
-शं त॑प॒ माति॑ तपो॒ अग्ने॒ मा त॒न्वं॑१ तपः॑ ।  
-वणे॑षु॒ शुष्मो॑ अस्तु ते पृथि॒व्याम॑स्तु॒ यद्धरः॑ ॥३६॥  
+Burn gently, Agni, burn not up the body with too fervent heat. Let all thy force and fury be expended on the woods and earth.

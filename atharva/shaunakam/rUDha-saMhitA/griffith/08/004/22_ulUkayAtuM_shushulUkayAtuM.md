@@ -2,5 +2,4 @@
 title = "२२ उलूकयातुं शुशुलूकयातुं"
 
 +++
-उलू॑कयातुं शुशु॒लूक॑यातुं ज॒हि श्वया॑तुमु॒त कोक॑यातुम्।  
-सु॒प॒र्णया॑तुमु॒त गृध्र॑यातुं दृ॒षदे॑व॒ प्र मृ॑ण॒ रक्ष॑ इन्द्र ॥२२॥  
+Destroy the fiend shaped like an owl or owlet, destroy him in. the form of dog or cuckoo. Destroy him shaped as eagle or as vulture: as with a stone, O Indra, crush the demon.

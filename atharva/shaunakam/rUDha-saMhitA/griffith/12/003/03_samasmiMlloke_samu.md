@@ -2,5 +2,4 @@
 title = "०३ समस्मिंल्लोके समु"
 
 +++
-सम॑स्मिंल्लो॒के समु॑ देव॒याने॒ सं स्मा॑ स॒मेतं॑ यम॒राज्ये॑षु ।  
-पू॒तौ प॒वित्रै॒रुप॒ तद्ध्व॑येथां॒ यद्य॒द् रेतो॒ अधि॑ वां संब॒भूव॑ ॥३॥  
+Together in this world, in God-ward pathway, together be ye in the realms of Yama. Invite, made pure with means of purifying, whatever seed of yours hath been developed.

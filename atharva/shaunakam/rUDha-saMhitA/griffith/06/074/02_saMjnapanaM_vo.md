@@ -2,5 +2,4 @@
 title = "०२ संज्ञपनं वो"
 
 +++
-सं॒ज्ञप॑नं वो॒ मन॒सोऽथो॑ सं॒ज्ञप॑नं हृ॒दः ।  
-अथो॒ भग॑स्य॒ यच्छ्रा॒न्तं तेन॒ संज्ञ॑पयामि वः ॥२॥  
+Let there be union of your minds, let there be union of your hearts: All that is troubled in your lot with this I mend and harmonize.

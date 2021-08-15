@@ -2,5 +2,4 @@
 title = "०२ सहमानेयं प्रथमा"
 
 +++
-सह॑माने॒यं प्र॑थ॒मा पृ॑श्निप॒र्ण्यऽजायत ।  
-तया॒हं दु॒र्णाम्नां॒ शिरो॑ वृ॒श्चामि॑ श॒कुने॑रिव ॥२॥  
+Victorious in the olden time this Prisniparni was brought forth: With her I cleave, as 'twere a bird's, the head of the Detestables.

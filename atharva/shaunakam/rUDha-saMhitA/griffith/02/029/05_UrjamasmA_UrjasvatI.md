@@ -2,5 +2,4 @@
 title = "०५ ऊर्जमस्मा ऊर्जस्वती"
 
 +++
-ऊर्ज॑मस्मा ऊर्जस्वती धत्तं॒ पयो॑ अस्मै पयस्वती धत्तम्।  
-ऊर्ज॑म॒स्मै द्यावा॑पृथि॒वी अ॑धातां॒ विश्वे॑ दे॒वा म॒रुत॒ ऊर्ज॒मापः॑ ॥५॥  
+Ye twain endowed with vigour, grant him vigour. Ye who are rich in milk, give milk to feed him. These twain have given him vigour, Earth and Heaven, and all the Gods, the Maruts, and the Waters.

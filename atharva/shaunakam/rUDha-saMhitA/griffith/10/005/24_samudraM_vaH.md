@@ -2,5 +2,4 @@
 title = "२४ समुद्रं वः"
 
 +++
-स॒मु॒द्रं वः॒ प्र हि॑णोमि॒ स्वां योनि॒मपी॑तन ।  
-अरि॑ष्टाः॒ सर्व॑हायसो॒ मा च॑ नः॒ किं च॒नाम॑मत्॥२३॥  
+May the pure Waters cleanse us from defilement, Fair to behold remove our sin and trouble, and bear away ill- dream and all pollution.

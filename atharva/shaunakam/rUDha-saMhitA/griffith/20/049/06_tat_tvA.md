@@ -2,5 +2,4 @@
 title = "०६ तत् त्वा"
 
 +++
-तत् त्वा॑ यामि सु॒वीर्यं॒ तद् ब्रह्म॑ पू॒र्वचि॑त्तये ।  
-येना॒ यति॑भ्यो॒ भृग॑वे॒ धने॑ हि॒ते येन॒ प्रस्क॑ण्व॒मावि॑थ ॥६॥  
+I crave of thee that hero strength--that thou mayst first regard this prayer Wherewith thou helpest Bhrigu and the Yatis and Praskanva when the prize was staked.

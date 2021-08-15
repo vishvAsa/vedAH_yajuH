@@ -2,4 +2,4 @@
 title = "११ यन्त्यस्य समितिं"
 
 +++
-यन्त्य॑स्य॒ समि॑तिं सामि॒त्यो भ॑वति॒ य ए॒वं वेद॑ ॥११॥  
+Come, Strength! come, Food! come, Charmer! come, Free- giver!

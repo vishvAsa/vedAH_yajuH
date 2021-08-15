@@ -2,4 +2,4 @@
 title = "०४ इहेत्थ प्रागपागुदगधराग्"
 
 +++
-इ॒हेत्थ प्रागपा॒गुद॑ग॒धराग् – स वै॑ पृ॒थु ली॑यते ॥४॥  
+Here east and west and north and south adheres when touched. That water-drop.

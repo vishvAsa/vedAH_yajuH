@@ -2,4 +2,4 @@
 title = "०८ इन्द्राणी भसद्"
 
 +++
-इ॒न्द्रा॒णी भ॒सद् वा॒युः पुच्छं॒ पव॑मानो॒ बालाः॑ ॥८॥  
+Indrani is the hinder parts, Vayu the tail, Pavamana the hair.

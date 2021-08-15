@@ -2,4 +2,4 @@
 title = "०१ आ तू"
 
 +++
-आ तू न॑ इन्द्र म॒द्र्यऽग्घुवा॒नः सोम॑पीतये । हरि॑भ्यां याह्यद्रिवः ॥१॥  
+Invoked to drink the Soma juice come with thy bay steeds, Thunder-armed! Come, Indra, hitherward, to me.

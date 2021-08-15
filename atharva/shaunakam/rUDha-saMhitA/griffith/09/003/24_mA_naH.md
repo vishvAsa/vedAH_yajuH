@@ -2,5 +2,4 @@
 title = "२४ मा नः"
 
 +++
-मा नः॒ पाशं॒ प्रति॑ मुचो गु॒रुर्भा॒रो ल॒घुर्भ॑व ।  
-व॒धूमि॑व त्वा शाले यत्र॒कामं॑ भरामसि ॥२४॥  
+Lay thou no cord or noose on us: a weighty burthen, still be light! Withersoever be our will, O House, we bear thee like a bride.

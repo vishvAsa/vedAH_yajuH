@@ -2,5 +2,4 @@
 title = "०२ रात्रि मातरुषसे"
 
 +++
-रात्रि॒ मात॑रु॒षसे॑ नः॒ परि॑ देहि ।  
-उ॒षा नो॒ अह्ने॒ परि॑ ददा॒त्वह॒स्तुभ्यं॑ विभावरि ॥२॥  
+Entrust thou us to Dawn, O Mother Night. May Dawn entrust us to the Day, and Day to thee, O splendid. One.

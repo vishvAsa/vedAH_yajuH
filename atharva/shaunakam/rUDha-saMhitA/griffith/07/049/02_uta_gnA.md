@@ -2,5 +2,4 @@
 title = "०२ उत ग्ना"
 
 +++
-उ॒त ग्ना व्य॑न्तु दे॒वप॑त्नीरिन्द्रा॒ण्य॑१ग्नाय्य॒श्विनी॒ राट्।  
-आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम्॥२॥
+May the Dames, wives of Gods, enjoy our presents, Rat, Asvini Indrani and Agnayi; May Rodasi and Varunani hear us, and Goddesses come at the matrons' season.

@@ -2,5 +2,4 @@
 title = "३० रुक्मप्रस्तरणं वह्यं"
 
 +++
-रु॒क्म॒प्रस्त॑रणं व॒ह्यं विश्वा॑ रू॒पाणि॒ बिभ्र॑तम्।  
-आरो॑हत् सू॒र्या सा॑वि॒त्री बृ॑ह॒ते सौभ॑गाय॒ कम्॥३०॥  
+Surya the child of Savitar mounted for high felicity Her litter with its cloth of gold, wearing all forms of loveliness.

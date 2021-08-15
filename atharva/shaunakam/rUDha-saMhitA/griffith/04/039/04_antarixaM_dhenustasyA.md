@@ -2,6 +2,4 @@
 title = "०४ अन्तरिक्षं धेनुस्तस्या"
 
 +++
-अ॒न्तरि॑क्षं धे॒नुस्तस्या॑ वा॒युर्व॒त्सः ।  
-सा मे॑ वा॒युना॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
-आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥४॥  
+Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, strength, all my wish, life first of all, and off- spring, plenty, wealth. All Hail!

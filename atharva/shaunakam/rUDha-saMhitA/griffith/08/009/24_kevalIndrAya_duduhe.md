@@ -2,5 +2,4 @@
 title = "२४ केवलीन्द्राय दुदुहे"
 
 +++
-केव॒लीन्द्रा॑य दुदु॒हे हि गृ॒ष्टिर्वशं पी॒यूषं॑ प्रथ॒मं दुहा॑ना ।  
-अथा॑तर्पयच्च॒तुर॑श्चतु॒र्धा दे॒वान् म॑नु॒ष्याँ॒३ असु॑रानु॒त ऋषी॑न्॥२४॥  
+The Heifer, all his own, poured forth for Indra control and milk at her first time of milking; And he then satisfied the four divisions, the Gods and men and Asuras and Rishis.

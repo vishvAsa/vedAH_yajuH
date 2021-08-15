@@ -2,5 +2,4 @@
 title = "०२ देवा यज्ञमृतवः"
 
 +++
-दे॒वा य॒ज्ञमृ॒तवः॑ कल्पयन्ति ह॒विः पु॑रो॒डाशं॑ स्रु॒चो य॑ज्ञायु॒धानि॑ ।  
-तेभि॑र्याहि प॒थिभि॑र्देव॒यानै॒र्यैरी॑जा॒नाः स्व॒र्गं यन्ति॑ लो॒कम्॥२॥  
+The Seasons, Deities, form and order Worship, butter, cake, ladles, sacrificial weapons. Tread thou God-travelled paths whereby the righteous, payers of sacrifices, go to Svarga.

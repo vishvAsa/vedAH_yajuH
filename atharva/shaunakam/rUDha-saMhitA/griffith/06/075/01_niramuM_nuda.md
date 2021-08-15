@@ -2,5 +2,4 @@
 title = "०१ निरमुं नुद"
 
 +++
-निर॒मुं नु॑द॒ ओक॑सः स॒पत्नो॒ यः पृ॑त॒न्यति॑ ।  
-नै॒र्बा॒ध्येऽन ह॒विषेन्द्र॑ एनं॒ परा॑शरीत्॥१॥  
+Forth from his dwelling drive that man, the foeman who assaileth us: Through the Expellent sacrifice hath Indra rent and mangled him.

@@ -2,5 +2,4 @@
 title = "१८ यद् गिरिषु"
 
 +++
-यद् गि॒रिषु॒ पर्व॑तेषु॒ गोष्वश्वे॑षु॒ यन्मधु॑ ।  
-सुरा॑यां सि॒च्यमा॑नायां॒ यत् तत्र॒ मधु॒ तन्मयि॑ ॥१८॥  
+May all the sweetness that is found in hills and mountains, steeds and kine, And wine that floweth from the cup,--may all that sweetness be in me.

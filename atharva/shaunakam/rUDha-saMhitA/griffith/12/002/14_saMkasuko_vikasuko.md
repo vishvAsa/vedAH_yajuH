@@ -2,5 +2,4 @@
 title = "१४ संकसुको विकसुको"
 
 +++
-संक॑सुको॒ विक॑सुको निरृ॒थो यश्च॑ निस्व॒रः ।  
-ते ते॒ यक्ष्मं॒ सवे॑दसो दू॒राद् दू॒रम॑नीनशन्॥१४॥  
+The Breaker-up, the Burster, the Destroyer, and the Silent One, These have expelled Consumption far, far off from thee and all thou hast,

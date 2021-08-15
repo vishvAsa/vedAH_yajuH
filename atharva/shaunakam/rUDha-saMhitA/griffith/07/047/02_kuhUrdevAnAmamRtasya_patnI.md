@@ -2,5 +2,4 @@
 title = "०२ कुहूर्देवानाममृतस्य पत्नी"
 
 +++
-कु॒हूर्दे॒वाना॑म॒मृत॑स्य॒ पत्नी॒ हव्या॑ नो अस्य ह॒विषो॑ जुषेत ।  
-शृ॒णोतु॑ य॒ज्ञमु॑श॒ती नो॑ अ॒द्य रा॒यस्पोषं॑ चिकि॒तुषी॑ दधातु ॥२॥
+Kuhl), the Queen of Gods and immortality, called to assist, enjoy this sacrifice of' ours! Let her, desirous of our worship, hear to-day: may she, intelligent, give increase of our wealth.

@@ -2,5 +2,4 @@
 title = "०१ निःसालां धृष्णुं"
 
 +++
-निः॒सालां धृ॒ष्णुं धि॒षण॑मेकवा॒द्यां जि॑घ॒त्स्वऽम्।  
-सर्वा॒श्चण्ड॑स्य न॒प्त्योऽ ना॒शया॑मः स॒दान्वाः॑ ॥१॥  
+Forth from the hall the bold, the sharp, the greedy one, the single-voiced, Sadanvas, and all progeny of Chanda we exterminate.

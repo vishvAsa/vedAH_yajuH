@@ -2,5 +2,4 @@
 title = "०८ उत श्वेत"
 
 +++
-उ॒त श्वेत॒ आशु॑पत्वा उ॒तो पद्या॑भि॒र्यवि॑ष्ठः ।  
-उ॒तेमाशु॒ मानं॑ पिपर्ति ॥८॥  
+And quickly Both he fly away, the White Horse swiftest on his feet, And swiftly fills his measure up.

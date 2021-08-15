@@ -2,5 +2,4 @@
 title = "०२ चतस्रो दिवः"
 
 +++
-चत॑स्रो दि॒वः प्र॒दिश॒श्चत॑स्रो॒ भूम्या॒ उ॒त।  
-दे॒वा गर्भं॒ समै॑रय॒न् तं व्यू॑र्णुवन्तु॒ सूत॑वे ॥२॥  
+Four are the regions of the sky, and four the regions of the earth: The Gods have brought the babe; let them prepare the woman for the birth.

@@ -2,6 +2,4 @@
 title = "०९ अर्धमर्धेन पयसा"
 
 +++
-अ॒र्धम॒र्धेन॒ पय॑सा पृणक्ष्य॒र्धेन॑ शुष्म वर्धसे अमुर ।  
-अविं॑ वृधाम श॒ग्मियं॒ सखा॑यं॒ वरु॑णं पु॒त्रमदि॑त्या इषि॒रम्।  
-क॒वि॒श॒स्तान्य॑स्मै॒ वपूं॑ष्यवोचाम॒ रोद॑सी सत्य॒वाचा॑ ॥९॥
+Halt with the milk, its other half, thou minglest and with that half, strong! unbeguiled! increasest. Let us exalt the gracious friend, the mighty, Varuna son of- Aditi, strength-giver. We have told him the marvels sung by poets. The utterance of Heaven and Earth is truthful.

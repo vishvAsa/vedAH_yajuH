@@ -2,4 +2,4 @@
 title = "२० अहीनां सर्वेषां"
 
 +++
-अही॑नां॒ सर्वे॑षां वि॒षं परा॑ वहन्तु॒ सिन्ध॑वः । ह॒तास्तिर॑श्चिराजयो॒ निपि॑ष्टासः पृदा॑कवः ॥२०॥  
+Let the floods hurry on and bear the poison of all snakes afar. Tiraschirajis have been slain and vipers crushed and brayed to bits.

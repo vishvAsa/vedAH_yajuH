@@ -2,5 +2,4 @@
 title = "३३ तिग्मो विभ्राजन्"
 
 +++
-ति॒ग्मो वि॒भ्राज॑न् त॒न्वं॑१ शिशा॑नोऽरंग॒मासः॑ प्र॒वतो॒ ररा॑णः ।  
-ज्योति॑ष्मान् प॒क्षी म॑हि॒षो व॑यो॒धा विश्वा॒ आस्था॑त् प्र॒दिशः॒ कल्प॑मानः ॥३३॥  
+Flaming and radiant, strengthening his body, bestowing floods that promptly come to meet us, He, luminous, winged, mighty, strength-bestower, hath mounted all the regions as he forms them.

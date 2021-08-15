@@ -2,4 +2,4 @@
 title = "०७ द्युम्नेषु पृतनाज्ये"
 
 +++
-द्यु॒म्नेषु॑ पृत॒नाज्ये॑ पृ॒त्सु॒तूर्षु॒ श्रवः॑सु च । इन्द्र॒ साक्ष्वा॒भिमा॑तिषु ॥७॥
+In splendid combats of the hosts, in glories where the fight is won, Indra, be victor over foes.

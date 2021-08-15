@@ -2,5 +2,4 @@
 title = "३० पूर्णात् पूर्णमुदचति"
 
 +++
-पू॒र्णात् पू॒र्णमुद॑चति पू॒र्णं पू॒र्णेन॑ सिच्यते ।  
-उ॒तो तद॒द्य वि॑द्याम॒ यत॒स्तत् प॑रिषि॒च्यते॑ ॥२९॥  
+Brought forth in olden time, the everlasting, high over all that is was she, the Ancient. The mighty Goddess of the Morn, refulgent with one eye, looketh round with one that winketh,

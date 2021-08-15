@@ -2,5 +2,4 @@
 title = "१२ य आर्षेयेभ्यो"
 
 +++
-य आ॑र्षे॒येभ्यो॒ याच॑द्भ्यो दे॒वानां॒ गां न दित्स॑ति ।  
-आ स दे॒वेषु॑ वृश्चते ब्राह्म॒णानां॑ च म॒न्यवे॑ ॥१२॥  
+He who withholds the Cow of Gods from Rishis' sons who ask the gift Is made an alien to the Gods, and subject to the Brahmans' wrath:

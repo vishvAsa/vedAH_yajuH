@@ -2,5 +2,4 @@
 title = "०४ बृहतश्च वै"
 
 +++
-बृ॒ह॒तश्च॒ वै स र॑थंत॒रस्य॑ चादि॒त्यानां॑ च॒ विश्वे॑षां च  
-दे॒वानां॑ प्रियं धाम॑ भवति॒ तस्य॒ प्राच्यां॑ दि॒शि॥४॥  
+He arose and went away to the northern region. Syaita and Naudhasa, the Seven Rishis, and King Soma followed him. He who reviles the Vratya possessing this knowledge is alienated from Syaita, etc. He who hath this knowledge be- comes the dear home of Syaita, etc. In the northern region Lightning is his leman, thunder his panegyrist, etc. as above. Revelation and Tradition are his running attendants, Mind, etc., as above.

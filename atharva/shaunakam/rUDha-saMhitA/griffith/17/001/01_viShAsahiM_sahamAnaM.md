@@ -2,6 +2,4 @@
 title = "०१ विषासहिं सहमानं"
 
 +++
-वि॒षा॒स॒हिं सह॑मानं सासहा॒नं सही॑यांसम्।  
-सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑ संधना॒जित॑म्।  
-ईड्यं॒ नाम॑ ह्व॒ इन्द्र॒मायु॑ष्मान् भूयासम् ॥१॥  
+Vanquishing, overpowering, a conqueror, exceeding strong, Victorious, winner of the light, winner of cattle and of spoil,. Indra by name, adorable, I call: a long, long life be mine!

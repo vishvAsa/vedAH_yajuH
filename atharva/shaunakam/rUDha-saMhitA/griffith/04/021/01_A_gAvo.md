@@ -2,5 +2,4 @@
 title = "०१ आ गावो"
 
 +++
-आ गावो॑ अग्मन्नु॒त भ॒द्रम॑क्र॒न्त्सीद॑न्तु गो॒ष्ठे र॒णय॑न्त्व॒स्मे।  
-प्र॒जाव॑तीः पुरु॒रूपा॑ इ॒ह स्यु॒रिन्द्रा॑य पू॒र्वीरु॒षसो॒ दुहा॑नाः ॥१॥  
+The kine have come and brought good fortune: let them rest in the cow-pen and be happy near us. Here let them stay prolific, many-coloured, and yield through many morns their milk for Indra.

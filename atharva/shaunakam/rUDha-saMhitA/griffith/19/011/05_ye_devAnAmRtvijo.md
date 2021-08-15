@@ -2,5 +2,4 @@
 title = "०५ ये देवानामृत्विजो"
 
 +++
-ये दे॒वाना॑मृ॒त्विजो॑ य॒ज्ञिया॑सो॒ मनो॒र्यज॑त्रा अ॒मृता॑ ऋत॒ज्ञाः ।  
-ते नो॑ रासन्तामुरुगा॒यम॒द्य यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥५॥  
+Priests of the Gods, worthy of sacrifices, immortal, knowing Law, whom man must worship. May these to-day give us broad paths to travel. Preserve us evermore, ye Gods, with blessings.

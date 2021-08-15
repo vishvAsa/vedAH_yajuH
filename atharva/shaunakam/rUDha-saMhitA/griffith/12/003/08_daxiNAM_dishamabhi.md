@@ -2,5 +2,4 @@
 title = "०८ दक्षिणां दिशमभि"
 
 +++
-दक्षि॑णां॒ दिश॑म॒भि नक्ष॑माणौ प॒र्याव॑र्तेथाम॒भि पात्र॑मे॒तत्।  
-तस्मि॑न् वां य॒मः पि॒तृभिः॑ संविदा॒नः प॒क्वाय॒ शर्म॑ बहु॒लं नि य॑च्छात्॥८॥  
+Now, as your steps approach the southern quarter, move in. your circling course about this vessel. Herein, accordant with the Fathers, Yama shall mightily protect your cooked oblation.

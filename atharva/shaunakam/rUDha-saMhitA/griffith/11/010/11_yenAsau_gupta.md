@@ -2,5 +2,4 @@
 title = "११ येनासौ गुप्त"
 
 +++
-येना॒सौ गु॒प्त आ॑दि॒त्य उ॒भाविन्द्र॑श्च॒ तिष्ठ॑तः।  
-त्रिषं॑धि दे॒वा अ॑भज॒न्तौज॑से च॒ बला॑य च ॥११॥  
+The Gods enjoyed Trishandhi for the sake of energy and power, Him under whose protection, both, Indra and yon Aditya stand.

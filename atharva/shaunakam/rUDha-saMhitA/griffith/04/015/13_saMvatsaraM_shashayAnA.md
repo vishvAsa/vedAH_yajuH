@@ -2,5 +2,4 @@
 title = "१३ संवत्सरं शशयाना"
 
 +++
-सं॒व॒त्स॒रं श॑शया॒ना ब्रा॑ह्म॒णा व्र॑तचा॒रिणः॑ ।  
-वाचं॑ प॒र्जन्य॑जिन्वितां॒ प्र म॒ण्डूका॑ अवादिषुः ॥१३॥  
+They who lay quiet for a year, the Brahmans who fulfil their vows. The frogs, have lifted up their voice, the voice Parjanya hath. inspired.

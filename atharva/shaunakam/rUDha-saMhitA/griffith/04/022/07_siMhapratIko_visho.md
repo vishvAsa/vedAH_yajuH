@@ -2,5 +2,4 @@
 title = "०७ सिंहप्रतीको विशो"
 
 +++
-सिं॒हप्र॑तीको॒ विशो॑ अद्धि॒ सर्वा॑ व्या॒घ्रप्र॑ती॒कोऽव॑ बाधस्व॒ शत्रू॑न्।  
-ए॒क॒वृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा खि॑दा॒ भोज॑नानि ॥७॥
+Consume, with lion aspect, all their hamlets, with tiger aspect, drive away thy foemen. Sole lord and leader and allied with Indra, seize, conqueror, thine enemies' possessions.

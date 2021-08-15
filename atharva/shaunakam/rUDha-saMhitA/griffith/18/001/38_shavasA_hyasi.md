@@ -2,5 +2,4 @@
 title = "३८ शवसा ह्यसि"
 
 +++
-शव॑सा॒ ह्यसि॑ श्रु॒तो वृ॑त्र॒हत्ये॑न वृत्र॒हा।
-म॒घैर्म॒घोनो॒ अति॑ शूर दाशसि ॥३८॥
+For thou by slaying Vritra art the Vritra-slayer, famed for might. Thou, Hero, in rich gifts surpassest wealthy chiefs.

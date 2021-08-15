@@ -2,5 +2,4 @@
 title = "१६ मा त्वा"
 
 +++
-मा त्वा॑ ज॒म्भः संह॑नु॒र्मा तमो॑ विद॒न्मा जि॒ह्वा ब॒र्हिः प्र॑म॒युः क॒था स्याः॑ ।  
-उत् त्वा॑दि॒त्या वस॑वो भर॒न्तूदि॑न्द्रा॒ग्नी स्व॒स्तये॑ ॥१६॥  
+Let not the fiend with snapping jaws, nor darkness find thee: tongue, holy grass: how shouldst thou perish? May the Adityas and the Vasus, Indra and Agni raise thee and to health restore thee.

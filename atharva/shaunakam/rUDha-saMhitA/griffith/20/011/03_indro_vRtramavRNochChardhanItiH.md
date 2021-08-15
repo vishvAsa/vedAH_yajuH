@@ -2,5 +2,4 @@
 title = "०३ इन्द्रो वृत्रमवृणोच्छर्धनीतिः"
 
 +++
-इन्द्रो॑ वृ॒त्रम॑वृणो॒च्छर्ध॑नीतिः॒ प्र मा॒यिना॑ममिना॒द् वर्प॑णीतिः ।  
-अह॒न् व्यंसमु॒शध॒ग् वने॑ष्वा॒विर्धेना॑ अकृणोद् रा॒म्याणा॑म्॥३॥  
+Leading his band Indra encompassed Vritra; weak grew the wily leader enchanters. He who burns fierce in forests slaughtered Vyansa, and made the milch-kine of nights apparent.

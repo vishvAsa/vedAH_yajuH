@@ -2,5 +2,4 @@
 title = "०३ गर्भं धेहि"
 
 +++
-गर्भं॑ धेहि सिनीवालि॒ गर्भं॒ धेहि सरस्वति ।  
-गर्भं॑ ते अ॒श्विनो॒भा ध॑त्तां॒ पुष्क॑रस्रजा ॥३॥  
+O Sinivali, set the germ, set thou the germ, Sarasvati! In thee let both the Asvins, crowned with lotuses, bestow the germ.

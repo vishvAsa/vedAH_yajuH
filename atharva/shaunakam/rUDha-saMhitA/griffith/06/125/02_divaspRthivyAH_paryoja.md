@@ -2,5 +2,4 @@
 title = "०२ दिवस्पृथिव्याः पर्योज"
 
 +++
-दि॒वस्पृ॑थि॒व्याः पर्योज॒ उद्भृ॑तं॒ वन॒स्पति॑भ्यः॒ पर्याभृ॑तं॒ सहः॑ ।  
-अ॒पामो॒ज्मानं॒ परि॒ गोभि॒रावृ॑त॒मिन्द्र॑स्य॒ वज्रं॑ ह॒विषा॒ रथं॑ यज ॥२॥  
+Its mighty strength was borrowed from the heaven and earth: its conquering force was brought from sovrans of the wood. Honour with sacrifice the Car like Indra's bolt, the Car girt round with straps, the vigour of the floods.

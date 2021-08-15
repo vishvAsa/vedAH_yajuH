@@ -2,5 +2,4 @@
 title = "०१ हतं तर्दं"
 
 +++
-ह॒तं त॒र्दं स॑म॒ङ्कमा॒खुमश्वि॑ना छि॒न्तं शिरो॒ अपि॑ पृ॒ष्टीः शृ॑णीतम्।  
-यवा॒न्नेददा॒नपि॑ नह्यतं॒ मुख॒मथाभ॑यं कृणुतं धा॒न्याऽय ॥१॥  
+Destroy the rat, the mole, the boring beetle, cut off their heads and crush their ribs, O Asvins. Bind fast their mouths; let them not eat our barley: so guard, ye twain, our growing corn from danger.

@@ -2,5 +2,4 @@
 title = "०४ पुनः कृत्यां"
 
 +++
-पुनः॑ कृ॒त्यां कृ॑त्या॒कृते॑ हस्त॒गृह्य॒ परा॑ णय ।  
-स॒म॒क्षम॑स्मा॒ आ धे॑हि॒ यथा॑ कृत्या॒कृतं॒ हन॑त्॥४॥  
+Take thou his sorcery by the hand, and to the sorcerer lead it back. Lay it before him, face to face, that it may kill the sorcerer.

@@ -2,5 +2,4 @@
 title = "०२ मयि क्षत्रं"
 
 +++
-मयि॑ क्ष॒त्रं प॑र्णमणे॒ मयि॑ धारयताद् र॒यिम्।  
-अ॒हं रा॒ष्ट्रस्या॑भीव॒र्गे नि॒जो भू॑यासमुत्त॒मः ॥२॥  
+O Parna-Amulet, in me set firmly might and opulence. Within the compass of my rule may I be rooted and supreme.

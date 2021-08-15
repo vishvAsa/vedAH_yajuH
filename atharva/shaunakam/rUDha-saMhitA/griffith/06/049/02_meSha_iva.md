@@ -2,5 +2,4 @@
 title = "०२ मेष इव"
 
 +++
-मे॒ष इ॑व॒ वै सं च॒ वि चो॒र्व॒ऽच्यसे॒ यदु॑त्तर॒द्रावुप॑रश्च॒ खाद॑तः ।  
-शी॒र्ष्णा शिरोऽप्स॒साप्सो॑ अ॒र्दय॑न्नं॒शून् ब॑भस्ति॒ हरि॑तेभिरा॒सभिः॑ ॥२॥  
+Thou like a fleece contractest and expandest thee what time the upper stone and that below devour. Closely compressing head with head and breast with breast he crunches up the tendrils with his yellow jaws.

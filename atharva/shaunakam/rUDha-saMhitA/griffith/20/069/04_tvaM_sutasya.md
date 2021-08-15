@@ -2,4 +2,4 @@
 title = "०४ त्वं सुतस्य"
 
 +++
-त्वं सु॒तस्य॑ पी॒तये॑ स॒द्यो वृ॒द्धो अ॑जायथाः । इन्द्र॒ ज्यैष्ठ्या॑य सुक्रतो ॥४॥  
+Thou, grown at once to perfect strength, wast born to drink the Soma juice, strong Indra, for preeminence.

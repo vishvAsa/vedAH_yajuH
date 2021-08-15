@@ -2,5 +2,4 @@
 title = "०५ त्रीणि पदा"
 
 +++
-त्रीणि॑ प॒दा वि च॑क्रमे॒ विष्णु॑र्गो॒पा अदा॑भ्यः ।  
-इ॒तो धर्मा॑णि धा॒रय॑न्॥५॥  
+Vishnu the guardian, he whom none deceiveth, made three steps, thenceforth. Establishing these high decrees.

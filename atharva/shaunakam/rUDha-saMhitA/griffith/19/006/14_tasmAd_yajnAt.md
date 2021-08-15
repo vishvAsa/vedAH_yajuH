@@ -2,5 +2,4 @@
 title = "१४ तस्माद् यज्ञात्"
 
 +++
-तस्मा॑द् य॒ज्ञात् स॑र्व॒हुतः॒ संभृ॑तं पृषदा॒ज्यऽम्।  
-प॒शूंस्तांश्च॑क्रे वाय॒व्याऽनार॒ण्या ग्रा॒म्याश्च॒ ये॥१४॥  
+From that great general sacrifice the dripping fat was gathered up: It formed the creatures fleet as wind, and animals both wild and tame.

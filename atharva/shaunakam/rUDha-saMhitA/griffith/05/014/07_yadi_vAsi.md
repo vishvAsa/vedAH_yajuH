@@ -2,5 +2,4 @@
 title = "०७ यदि वासि"
 
 +++
-यदि॒ वासि॑ दे॒वकृ॑ता॒ यदि॑ वा॒ पुरु॑षैः कृ॒ता।  
-तां त्वा॒ पुन॑र्णयाम॒सीन्द्रे॑ण स॒युजा॑ व॒यम्॥७॥  
+Now whether thou hast been prepared by Gods or been pre- pared by men, We, with our Indra at our side to aid us, lead thee back again.

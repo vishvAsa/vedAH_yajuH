@@ -2,5 +2,4 @@
 title = "१५ च्युता चेयं"
 
 +++
-च्यु॒ता चे॒यं बृ॑ह॒त्यच्यु॑ता च वि॒द्युद् बि॑भर्ति स्तनयि॒त्नूंश्च॒ सर्वा॑न्।  
-उ॒द्यन्ना॑दि॒त्यो द्रवि॑णेन॒ तेज॑सा नी॒चैः स॒पत्ना॑न् नुदतां मे॒ सह॑स्वान्॥१५॥  
+This potent lightning nourishes things shaken, and things un- shaken yet, and all the thunders. May the Sun, rising with his wealth and splendour, drive in victorious might my foemen downward.

@@ -2,5 +2,4 @@
 title = "०७ यस्मिन्त्स्तब्ध्वा प्रजापतिर्लोकान्त्सर्वाँ"
 
 +++
-यस्मि॑न्त्स्त॒ब्ध्वा प्र॒जाप॑तिर्लो॒कान्त्सर्वाँ॒ अधा॑रयत्।  
-स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥७॥  
+Who out of many, tell me, is that Skambha, On whom Prajapati set up and firmly stablished all the worlds?

@@ -2,5 +2,4 @@
 title = "०२ विहह्लो नाम"
 
 +++
-वि॒हह्लो॒ नाम॑ ते पि॒ता म॒दाव॑ती॒ नाम॑ ते मा॒ता।  
-स हि॑न॒ त्वम॑सि॒ यस्त्वमा॒त्मान॒माव॑यः ॥२॥  
+Vihalha is thy father's name, thy mother's is Madavati. Yea, verily thou art not he, thou who hast well protected life.

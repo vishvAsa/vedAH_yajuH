@@ -2,4 +2,4 @@
 title = "०३ यद् वासि"
 
 +++
-यद् वासि॑ सुन्व॒तो वृ॒धो यज॑मानस्य सत्पते । उ॒क्थे वा॒ यस्य॒ रण्य॑सि॒ समिन्दु॑भिः ॥३॥
+Or, Lord of Heroes, if thou aid the worshipper who sheds the juice, Or him whose laud delights thee, and his flowing drops.

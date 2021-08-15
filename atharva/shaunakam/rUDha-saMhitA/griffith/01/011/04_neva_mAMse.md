@@ -2,5 +2,4 @@
 title = "०४ नेव मांसे"
 
 +++
-नेव॑ मां॒से न पीव॑सि॒ नेव॑ म॒ज्जस्वाह॑तम्।  
-अवै॑तु॒ पृश्नि॒ शेव॑लं॒ शुने॑ ज॒राय्वत्त॒वेऽव॑ ज॒रायु॑ पद्यताम्॥४॥  
+Descendat viscosa placenta, cani, comedenda placenta; decidat placenta.

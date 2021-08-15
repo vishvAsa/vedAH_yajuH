@@ -2,5 +2,4 @@
 title = "०९ ये मा"
 
 +++
-ये मा॑ क्रो॒धय॑न्ति लपि॒ता ह॒स्तिनं॑ म॒शका॑ इव ।  
-तान॒हं म॑न्ये॒ दुर्हि॑ता॒न् जने॒ अल्प॑शयूनिव ॥९॥  
+Those who enrage me with their prate, as flies torment an elephant, I deem unhappy creatures, like small insects troublesome to man.

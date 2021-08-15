@@ -2,5 +2,4 @@
 title = "०४ यानि भद्राणि"
 
 +++
-यानि॑ भ॒द्राणि॒ बीजा॑न्यृष॒भा ज॒नय॑न्ति च ।  
-तैस्त्वं पु॒त्रं वि॑न्दस्व॒ सा प्र॒सूर्धेनु॑का भव ॥४॥  
+With that auspicious general flow wherewith steers propagate their kind, Do thou obtain thyself a son: be thou a fruitfu! mother-cow.

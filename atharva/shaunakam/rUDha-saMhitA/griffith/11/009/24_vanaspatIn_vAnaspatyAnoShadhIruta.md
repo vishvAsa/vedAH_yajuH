@@ -2,6 +2,4 @@
 title = "२४ वनस्पतीन् वानस्पत्यानोषधीरुत"
 
 +++
-वन॒स्पती॑न् वानस्प॒त्यानोष॑धीरु॒त वी॒रुधः॑ ।  
-ग॒न्ध॒र्वा॒प्स॒रसः॑ स॒र्पान् दे॒वान् पु॑ण्यज॒नान् पि॒तॄ॒न्।  
-सर्वां॒स्तां अ॑र्बुदे॒ त्वम॒मित्रे॑भ्यो दृ॒शे कु॑रूदा॒रांश्च॒ प्र द॑र्शय ॥२४॥  
+Tall trees, and those who live in woods, the herbs and creeping plants of Earth, Gandharvas, and Apsarases, Snakes, Beings, Fathers, Gods, All these do thou, O Arbudi, make visible to our enemies: cause them to look on mists and fog.

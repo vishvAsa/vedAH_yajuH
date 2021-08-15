@@ -2,5 +2,4 @@
 title = "०४ तां मे"
 
 +++
-तां मे॑ सहस्रा॒क्षो दे॒वो दक्षि॑णे॒ हस्त॒ आ द॑धत्।  
-तया॒हं सर्वं॑ पश्यामि॒ यश्च॑ शू॒द्र उ॒तार्यः॑ ॥४॥  
+The God who hath a thousand eyes give me this Plant in my right hand! I look on every one therewith, each Sudra and each Aryan man.

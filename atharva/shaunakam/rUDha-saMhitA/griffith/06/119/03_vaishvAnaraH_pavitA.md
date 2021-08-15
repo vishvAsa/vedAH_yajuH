@@ -2,5 +2,4 @@
 title = "०३ वैश्वानरः पविता"
 
 +++
-वै॒श्वा॒न॒रः प॑वि॒ता मा॑ पुनातु॒ यत् सं॑ग॒रम॑भि॒धावा॑म्या॒शाम्।  
-अना॑जान॒न् मन॑सा॒ याच॑मानो॒ यत् तत्रैनो॒ अप॒ तत् सु॑वामि ॥३॥
+Vaisvanara the Purifier purge me when I oppose their hope and break my promise, Unknowing in my heart. With supplication, whatever guilt there is in that, I banish.

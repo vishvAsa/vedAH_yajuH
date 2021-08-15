@@ -2,5 +2,4 @@
 title = "०६ इन्द्रवायू उभाविह"
 
 +++
-इ॒न्द्र॒वा॒यू उ॒भावि॒ह सु॒हवे॒ह ह॑वामहे ।  
-यथा॑ नः॒ सर्व॒ इज्जनः॒ संग॑त्यां सु॒मना॒ अस॒द् दान॑कामश्च नो॒ भुव॑त्॥६॥  
+Both Indra here and Vayu we invoke with an auspicious call, That in assembly all the folk may be benevolent to us, and be inclined to give us gifts.

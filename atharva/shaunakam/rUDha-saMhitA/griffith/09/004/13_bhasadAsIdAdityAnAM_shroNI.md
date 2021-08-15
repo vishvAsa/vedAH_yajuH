@@ -2,5 +2,4 @@
 title = "१३ भसदासीदादित्यानां श्रोणी"
 
 +++
-भ॒सदा॑सीदादि॒त्यानां॒ श्रोणी॑ आस्तां॒ बृह॒स्पतेः॑ ।  
-पुच्छं॒ वात॑स्य दे॒वस्य॒ तेन॑ धूनो॒त्योष॑धीः ॥१३॥  
+The Adityas claim the hinder parts, the loins must be Brihas- pati's. Vata, the God, receives the tail: he stirs the plants and herbs therewith,

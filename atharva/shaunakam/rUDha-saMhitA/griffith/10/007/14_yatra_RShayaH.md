@@ -2,5 +2,4 @@
 title = "१४ यत्र ऋषयः"
 
 +++
-यत्र॒ ऋष॑यः प्रथम॒जा ऋचः॒ साम॒ यजु॑र्म॒ही।  
-ए॒क॒र्षिर्यस्मि॒न्नार्पि॑तः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥१४॥  
+Who out of many, tell me, is that Skambha. In whom the Sages earliest born, the Richas, Saman, Yajus, Earth, and the one highest Sage abide?

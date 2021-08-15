@@ -2,5 +2,4 @@
 title = "१२ उपश्वसे द्रुवये"
 
 +++
-उ॒प॒श्व॒से द्रु॒वये॑ सीदता यू॒यं वि वि॑च्यध्वं यज्ञियास॒स्तुषैः॑ ।  
-श्रि॒या स॑मा॒नानति॒ सर्वा॑न्त्स्यामाधस्प॒दं द्वि॑ष॒तस्पा॑दयामि ॥१२॥  
+Rest in the roaring frame of wood: be parted from husk and chaff, ye Sacrificial Fibres. May we surpass in glory all our rivals. I cast beneath my feet the men who hate us.

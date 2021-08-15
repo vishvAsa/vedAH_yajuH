@@ -2,4 +2,4 @@
 title = "०७ स उत्तमां"
 
 +++
-स उत्त॒मां दिश॒मनु॒ व्यऽचलत्॥७॥  
+He went away to the unfrequented region. Thence he thought that he should not return. Diti and Aditi and Ida and Indrani followed him. He who, etc.

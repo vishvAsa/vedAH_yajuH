@@ -2,5 +2,4 @@
 title = "१८ यस्ते गर्भं"
 
 +++
-यस्ते॒ गर्भं॑ प्रतिमृ॒शाज्जा॒तं वा॑ मा॒रया॑ति ते ।  
-पि॒ङ्गस्तमु॒ग्रध॑न्वा कृ॒णोतु॑ हृदया॒विध॑म्॥१८॥  
+If one should touch thy coming babe or kill thine infant newly born, The yellow Plant with mighty bow shall pierce him even to the heart.

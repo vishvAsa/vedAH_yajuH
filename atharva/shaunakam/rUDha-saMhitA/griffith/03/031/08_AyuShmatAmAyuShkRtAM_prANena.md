@@ -2,5 +2,4 @@
 title = "०८ आयुष्मतामायुष्कृतां प्राणेन"
 
 +++
-आयु॑ष्मतामायु॒ष्कृतां॑ प्रा॒णेन॑ जीव॒ मा मृ॑थाः ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥८॥  
+Die not. Live with the breath of those who make and who enjoy long life. I free, etc.

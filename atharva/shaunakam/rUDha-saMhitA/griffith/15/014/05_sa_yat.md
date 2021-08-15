@@ -2,4 +2,4 @@
 title = "०५ स यत्"
 
 +++
-स यत् प्र॒तीचीं॒ दिश॒मनु॒ व्यच॑ल॒द् वरु॑णो॒ राजा॑ भू॒त्वानु॒व्यऽचलद॒पोऽन्ना॒दीः कृ॒त्वा॥५॥  
+He, when he went away to the stedfast region, went away having become Vishnu and having made Viraj an eater of food. He who hath this knowledge eats food with Viraj as food-eater.

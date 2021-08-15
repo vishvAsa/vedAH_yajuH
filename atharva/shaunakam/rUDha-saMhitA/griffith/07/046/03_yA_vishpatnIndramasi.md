@@ -2,5 +2,4 @@
 title = "०३ या विश्पत्नीन्द्रमसि"
 
 +++
-या वि॒श्पत्नीन्द्र॒मसि॑ प्र॒तीची॑ स॒हस्र॑स्तुकाभि॒यन्ती॑ दे॒वी।  
-विष्णोः॑ पत्नि॒ तुभ्यं॑ रा॒ता ह॒वींषि॒ पतिं॑ देवि॒ राध॑से चोदयस्व ॥३॥
+Thou who as Queen of men art Indra's equal, a Goddess coming with a thousand tresses, To thee our sacrifices are performed, O Consort of Vishnu Goddess, urge thy Lord to bounty!

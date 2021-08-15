@@ -2,5 +2,4 @@
 title = "०७ हिरण्यवर्णे सुभगे"
 
 +++
-हिर॑ण्यवर्णे॒ सुभ॑गे॒ शुष्मे॒ लोम॑शवक्षने ।  
-अ॒पाम॑सि॒ स्वसा॒ लाक्षे॒ वातो॑ हा॒त्मा ब॑भूव ते ॥७॥  
+Gold-coloured, bringing happy fate, odorous, hairy-bodied one, The sister of the Waters art thou, Laksha! and thy soul is Wind.

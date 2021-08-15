@@ -2,5 +2,4 @@
 title = "०४ स एव"
 
 +++
-स ए॒व सं भुव॑ना॒न्याभ॑र॒त् स ए॒व सं भुव॑नानि॒ पर्यै॑त्।  
-पि॒ता सन्न॑भवत् पु॒त्र ए॑षां॒ तस्मा॒द् वै नान्यत् पर॑मस्ति॒ तेजः॑ ॥४॥  
+He only made the worlds of life, he only gathered the worlds of living things together. Their son did he become who was their Father: no other higher power than he existeth.

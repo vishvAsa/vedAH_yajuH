@@ -2,5 +2,4 @@
 title = "१० ऋषी बोधप्रतीबोधावस्वप्नो"
 
 +++
-ऋषी॑ बोधप्रतीबो॒धाव॑स्व॒प्नो यश्च॒ जागृ॑विः ।  
-तौ ते॑ प्रा॒णस्य॑ गो॒प्तारौ॒ दिवा॒ नक्तं॑ च जागृताम्॥१०॥  
+Two sages, Sense and Vigilance, the sleepless and the watchful one, These, the protectors of thy life, shall be awake both day and night.

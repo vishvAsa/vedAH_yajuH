@@ -2,5 +2,4 @@
 title = "२४ केनेयं भूमिर्विहिता"
 
 +++
-केने॒यं भूमि॒र्विहि॑ता॒ केन॒ द्यौरुत्त॑रा हि॒ता।  
-केने॒दमू॒र्ध्वं ति॒र्यक् चा॒न्तरि॑क्षं॒ व्यचो॑ हि॒तम्॥२४॥  
+By whom was this our earth disposed? By whom was heaven placed over it? By whom was this expanse of air raised up on high and stre- tched across?

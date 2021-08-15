@@ -2,5 +2,4 @@
 title = "०३ यत् त"
 
 +++
-यत् त॑ आ॒त्मनि॑ त॒न्वां ऽ घो॒रमस्ति॒ यद्वा॒ केशे॑षु प्रति॒चक्ष॑णे वा ।  
-सर्वं॒ तद्वा॒चाप॑ हन्मो व॒यं दे॒वस्त्वा॑ सवि॒ता सू॑दयतु ॥३॥  
+Each fearful sign upon thy body, in thyself, each inauspicious mark seen in thy hair, thy face, All this we drive away and banish with our speech. May Savitar the God graciously further thee.

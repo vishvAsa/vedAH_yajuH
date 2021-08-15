@@ -2,5 +2,4 @@
 title = "०४ यमिमं त्वं"
 
 +++
-यमि॒मं त्वं वृ॒षाक॑पिं प्रि॒यमि॑न्द्राभि॒रक्ष॑सि ।  
-श्वा न्व॑स्य जम्भिष॒दपि॒ कर्णे॑ वराह॒युर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥४॥  
+Soon may the hound who hunts the boar seize him and bite him in the ear, O Indra, that Vrishakapi whom thou protectest as a friend. Supreme is Indra over all.

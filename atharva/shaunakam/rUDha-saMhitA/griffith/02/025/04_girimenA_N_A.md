@@ -2,5 +2,4 @@
 title = "०४ गिरिमेनाँ आ"
 
 +++
-गि॒रिमे॑नाँ॒ आ वे॑शय॒ कण्वा॑न् जीवित॒योप॑नान्।  
-तांस्त्वं दे॑वि पृश्निपर्ण्य॒ग्निरि॑वानु॒दह॑न्निहि ॥४॥  
+The hateful fiend who drinks the blood, and him who take away the growth, The Kanva who devours the germ, quell, Prisniparni! and! destroy.

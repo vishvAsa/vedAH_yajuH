@@ -2,5 +2,4 @@
 title = "०९ त्वमेतां जनराज्ञो"
 
 +++
-त्वमे॒तां ज॑न॒राज्ञो॒ द्विर्दशा॑ब॒न्धुना॑ सु॒श्रव॑सोपज॒ग्मुषः॑ ।  
-ष॒ष्टिं स॒हस्रा॑ नव॒तिं नव॑ श्रु॒तो नि च॒क्रेण॒ रथ्या॑ दु॒ष्पदा॑वृणक्॥९॥  
+With all-outstripping chariot wheel, O Indra, thou far-famed, hast overthrown the twice ten kings of men, With sixty thousand nine-and-ninety followers, who came in arms to fight with friendless Susravas.

@@ -2,5 +2,4 @@
 title = "०४ सोमो ददद्"
 
 +++
-सोमो॑ ददद् गन्ध॒र्वाय॑ गन्ध॒र्वो द॑दद॒ग्नये॑ ।  
-र॒यिं च पु॒त्रांस्चा॑दाद॒ग्निर्मह्य॒मथो॑ इ॒माम्॥४॥  
+Soma to the Gandharva, and to Agni the Gandharva gave. Now, Agni hath bestowed on me riches and sons and this my bride.

@@ -2,5 +2,4 @@
 title = "०३ प्रतीची सोममसि"
 
 +++
-प्र॒तीची॒ सोम॑मसि प्र॒तीच्यु॒त सूर्य॑म्।  
-प्र॒तीची॒ विश्वा॑न् दे॒वान् तां त्वा॒च्छाव॑दामसि ॥३॥  
+Thou art the peer of Soma, yea, thou art the equal of the Sun, The peer of all the Gods art thou: therefore we call thee hither-- ward.

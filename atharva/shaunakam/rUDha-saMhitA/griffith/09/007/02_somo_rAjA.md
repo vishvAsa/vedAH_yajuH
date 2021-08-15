@@ -2,4 +2,4 @@
 title = "०२ सोमो राजा"
 
 +++
-सोमो॒ राजा॑ म॒स्तिष्को॒ द्यौरु॑त्तरह॒नुः पृ॑थि॒व्यऽधरह॒नुः ॥२॥  
+King Soma is the brain, Sky is the upper jaw, Earth is the lower jaw.

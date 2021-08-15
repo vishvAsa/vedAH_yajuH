@@ -2,5 +2,4 @@
 title = "४५ शुम्भनी द्यावापृथिवी"
 
 +++
-शुम्भ॑नी॒ द्यावा॑पृथि॒वी अन्ति॑सुम्ने॒ महि॑व्रते ।  
-आपः॑ स॒प्त सु॑स्रुवुर्दे॒वीस्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥४५॥  
+Splendid are Heaven and Earth, still near to bless us, mighty in their power; The seven streams have flowed: may they, Goddesses, free us from distress

@@ -2,5 +2,4 @@
 title = "४४ निधिं बिभ्रती"
 
 +++
-नि॒धिं बिभ्र॑ती बहु॒धा गुहा॒ वसु॑ म॒णिं हिर॑ण्यं पृथि॒वी द॑दातु मे ।  
-वसू॑नि नो वसु॒दा रास॑माना दे॒वी द॑धातु सुमन॒स्यमा॑ना ॥४४॥  
+May Earth the Goddess, she who bears her treasure stored up in many a place, gold, gems, and riches, Giver of opulence, grant great possessions to us bestowing them with love and favour.

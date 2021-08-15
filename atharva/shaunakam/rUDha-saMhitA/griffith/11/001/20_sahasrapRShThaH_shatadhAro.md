@@ -2,5 +2,4 @@
 title = "२० सहस्रपृष्ठः शतधारो"
 
 +++
-स॒हस्र॑पृष्ठः श॒तधा॑रो॒ अक्षि॑तो ब्रह्मौद॒नो दे॑व॒यानः॑ स्व॒र्गः ।  
-अ॒मूंस्त॒ आ द॑धामि प्र॒जया॑ रेषयैनान् बलिहा॒राय॑ मृडता॒न्मह्य॑मे॒व॥२०॥॥  
+With thousand streams and Prishthas, undecaying, Brahmaudana is celestial, God-reaching. Those I give up to thee with all their children. Force them to tribute, but to me be gracious.

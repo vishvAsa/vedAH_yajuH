@@ -2,7 +2,4 @@
 title = "०९ कृष्णं नियानं"
 
 +++
-कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत् पत॑न्ति ।  
-त आव॑वृत्र॒न्त्सद॑नादृ॒तस्य॒ तस्य॑ दे॒वस्य॑ ।  
-क्रु॒द्धस्यै॒तदागो॒ य ए॒वं वि॒द्वांसं॑ ब्राह्म॒णं जि॒नाति॑ ।  
-उद् वेपय रोहित॒ प्र क्षि॑णीहि ब्रह्म॒ज्यस्य॒ प्रति॑ मुञ्च॒ पाशा॑न्॥९॥  
+Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, enrobed in waters. They have come hither from the seat of Order, This God, etc.

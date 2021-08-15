@@ -2,4 +2,4 @@
 title = "१७ प्रत्यङ् देवानां"
 
 +++
-प्र॒त्यङ् दे॒वानां॒ विशः॑ प्र॒त्यङ्ङुदे॑षि॒ मानु॑षीः । प्र॒त्यङ् विश्वं॒ स्वर्दृ॒शे॥१७॥  
+Thou guest to the troops of Gods, thou comest hither to man- kind, Hither, all light for us to see.

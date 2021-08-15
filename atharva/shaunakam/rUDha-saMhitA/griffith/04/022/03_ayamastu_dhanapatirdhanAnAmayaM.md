@@ -2,5 +2,4 @@
 title = "०३ अयमस्तु धनपतिर्धनानामयं"
 
 +++
-अ॒यम॑स्तु धन॑पति॒र्धना॑नाम॒यं वि॒शां वि॒श्पति॑रस्तु॒ राजा॑ ।  
-अ॒स्मिन्नि॑न्द्र॒ महि॒ वर्चां॑सि धेह्यव॒र्चसं॑ कृणुहि॒ शत्रु॑मस्य ॥३॥  
+Let him be treasure-lord of goodly treasures, let him as King be master of the people. Grant unto him great power and might, O Indra, and strip his enemy of strength and vigour.

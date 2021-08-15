@@ -2,5 +2,4 @@
 title = "०२ परा हीन्द्र"
 
 +++
-परा॒ ही॑न्द्र॒ धाव॑सि वृ॒षाक॑पे॒रति॒ व्यथिः॑ ।  
-नो अह॒ प्र वि॑न्दस्य॒न्यत्र॒ सोम॑पीतये॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥२॥  
+Thou, Indra, heedless passest by the ill Vrishakapi hath wrought; Yet nowhere else thou findest place wherein to drink the Soma juice. Supreme is Indra over all.

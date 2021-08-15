@@ -2,5 +2,4 @@
 title = "१८ यस्ते प्राणेदं"
 
 +++
-यस्ते॑ प्राणे॒दं वेद॒ यस्मिं॒श्चासि॒ प्रति॑ष्ठितः ।  
-सर्वे॒ तस्मै॑ ब॒लिं ह॑रान॒मुष्मिंल्लो॒क उ॑त्त॒मे॥१८॥  
+The man who knows this truth of thee, O Prana, and what bears thee up To him will all present their gift of tribute in that loftiest will all present their gift of tribute in that loftiest world.

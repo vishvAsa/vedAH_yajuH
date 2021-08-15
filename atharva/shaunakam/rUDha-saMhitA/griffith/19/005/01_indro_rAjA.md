@@ -2,5 +2,4 @@
 title = "०१ इन्द्रो राजा"
 
 +++
-इन्द्रो॒ राजा॒ जग॑तश्चर्षणी॒नामधि॒ क्षमि॒ विषु॑रूपं॒ यदस्ति॑ ।  
-ततो॑ ददाति दा॒शुषे॒ वसू॑नि॒ चोद॒द् राध॒ उप॑स्तुतश्चिद॒र्वाक्॥१॥
+King of the living world and men is Indra, of all in varied form that earth containeth. Thence to the worshipper he giveth riches: may he enrich even us when we have praised him.

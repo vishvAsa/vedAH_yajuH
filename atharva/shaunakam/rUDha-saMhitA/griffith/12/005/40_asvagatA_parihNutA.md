@@ -2,4 +2,4 @@
 title = "४० अस्वगता परिह्णुता"
 
 +++
-अ॒स्व॒गता॒ परि॑ह्णुता ॥४०॥  
+Homelessness is she when denied her rights.

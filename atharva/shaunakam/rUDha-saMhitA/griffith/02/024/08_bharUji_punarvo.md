@@ -2,5 +2,4 @@
 title = "०८ भरूजि पुनर्वो"
 
 +++
-भरू॑जि पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः ।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥८॥
+Back, O, Bharuji! fall your charms, your weapon, ye Kimidinis. Eat your possessor; eat ye him who sent you forth; eat your own flesh.

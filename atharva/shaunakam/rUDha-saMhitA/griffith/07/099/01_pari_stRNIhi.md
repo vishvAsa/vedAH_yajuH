@@ -2,5 +2,4 @@
 title = "०१ परि स्तृणीहि"
 
 +++
-परि॑ स्तृणीहि॒ परि॑ धेहि॒ वेदिं॒ मा जा॒मिं मो॑षीरमु॒या शया॑नाम्।  
-हो॒तृ॒षद॑नं हरि॑तं हिर॒ण्ययं॑ नि॒ष्का ए॒ते यज॑मानस्य लो॒के॥१॥
+Strew thou the Grass, and spread it on the Altar: rob not the sister who is lying yonder. The Hotar's seat is green and golden: these are gold necklets. in the plaee of him who worships.

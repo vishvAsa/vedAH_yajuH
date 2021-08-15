@@ -2,5 +2,4 @@
 title = "०१ उच्चैर्घोषो दुन्दुभिः"
 
 +++
-उ॒च्चैर्घो॑षो दुन्दु॒भिः स॑त्वना॒यन् वा॑नस्प॒त्यः संभृ॑त उ॒स्रिया॑भिः ।  
-वाचं॑ क्षुणुवा॒नो द॒मय॑न्त्स॒पत्ना॑न्त्सिं॒ह इ॑व जे॒ष्यन्न॒भि तंस्तनीहि ॥१॥  
+Formed out of wood, compact with straps of leather, loud is the: War-drum as he plays the hero. Whetting thy voice and vanquishing opponents, roar at them like a lion fain to conquer!

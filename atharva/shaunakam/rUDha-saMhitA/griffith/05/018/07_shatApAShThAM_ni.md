@@ -2,5 +2,4 @@
 title = "०७ शतापाष्ठां नि"
 
 +++
-श॒तापा॑ष्ठां॒ नि गि॑रति॒ तां न श॑क्नोति निः॒खिद॑म्।  
-अन्नं॒ यो ब्र॒ह्मणां॑ म॒ल्वः स्वा॒द्व॑१द्मीति॒ मन्य॑ते ॥७॥  
+The fool who eats the Brahmans' food and thinks it pleasant to the taste, Eats, but can ne'er digest, the cow that bristles with a hundred barbs,

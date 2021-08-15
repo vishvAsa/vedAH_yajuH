@@ -2,5 +2,4 @@
 title = "१५ यः सुन्वन्तमवति"
 
 +++
-यः सु॒न्वन्त॒मव॑ति॒ यः पच॑न्तं॒ यः शंस॑न्तं॒ यः श॑शमा॒नमू॒ती।  
-यस्य॒ ब्रह्म॒ वर्ध॑नं॒ यस्य॒ सोमो॒ यस्ये॒दं राधः॒ स ज॑नास॒ इन्द्रः॑ ॥१५॥  
+Who aids with favour him who pours the Soma, and him who brews it, sacrificer, singer; Whose strength our prayer and offered Soma heighten, and this our gift, He, O ye men, is Indra.

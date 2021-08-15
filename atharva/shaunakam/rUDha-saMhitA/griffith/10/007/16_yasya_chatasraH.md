@@ -2,5 +2,4 @@
 title = "१६ यस्य चतस्रः"
 
 +++
-यस्य॒ चत॑स्रः प्र॒दिशो॑ ना॒ड्य॑१स्तिष्ठ॑न्ति प्रथ॒माः ।  
-य॒ज्ञो यत्र॒ परा॑क्रान्तः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥१६॥  
+Who out of many, tell me, is that Skambha, He whose chief arteries stand there, the sky's four regions, he irk whom Sacrifice putteth forth its might?

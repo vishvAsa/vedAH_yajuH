@@ -2,5 +2,4 @@
 title = "१९ यौ ते"
 
 +++
-यौ ते॑ बा॒हू ये दो॒षणी॒ यावंसौ॒ या च॑ ते क॒कुत्।  
-आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥१९॥  
+Let both thy shoulders and thy hump, thy forelegs, and their lower parts, etc.

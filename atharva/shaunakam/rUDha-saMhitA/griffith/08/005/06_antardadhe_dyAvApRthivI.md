@@ -2,5 +2,4 @@
 title = "०६ अन्तर्दधे द्यावापृथिवी"
 
 +++
-अ॒न्तर्द॑धे॒ द्यावा॑पृथि॒वी उ॒ताह॑रु॒त सूर्य॑म्।  
-ते मे॑ दे॒वाः पु॒रोहि॑ताः प्र॒तीचीः॑ कृ॒त्याः प्र॑तिस॒रैर॑जन्तु ॥६॥  
+I have obscured the heaven and earth, yea, and the daylight and the sun. So may these Gods whom I have set before me oppose with saving charms and banish witchcraft.

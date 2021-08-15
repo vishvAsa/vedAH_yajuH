@@ -2,5 +2,4 @@
 title = "०२ महत् पयो"
 
 +++
-म॒हत् पयो॑ वि॒श्वरू॑पमस्याः समु॒द्रस्य॑ त्वो॒त रेत॑ आहुः ।  
-यत॒ ऐति॑ मधुक॒शा ररा॑णा॒ तत् प्रा॒णस्तद॒मृतं॒ निवि॑ष्टम्॥२॥  
+They call thee earth's great strength in every form, they call thee too the ocean's genial seed. Whence comes the Honey-whip bestowing bounty, there Vital Spirit is, and Amrit treasured.

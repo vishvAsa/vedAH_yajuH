@@ -2,5 +2,4 @@
 title = "०६ अनुमतिः सर्वमिदं"
 
 +++
-अनु॑मतिः॒ सर्व॑मि॒दं ब॑भूव॒ यत् तिष्ठ॑ति॒ चर॑ति॒ यदु॑ च॒ विश्व॒मेज॑ति ।  
-तस्या॑स्ते देवि सुम॒तौ स्या॒मानु॑मते॒ अनु॒ हि मंस॑से नः ॥६॥
+Anumati became this All, whatever standeth or walketh, every- thing that moveth. May we enjoy thy gracious love, O Goddess. Regard us, O Anu- mati, with favour.

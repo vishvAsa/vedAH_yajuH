@@ -2,4 +2,4 @@
 title = "०५ इन्द्र सोमाः"
 
 +++
-इन्द्र॒ सोमाः॑ सु॒ता इ॒मे तान् द॑धिष्व शतक्रतो । ज॒ठरे॑ वाजिनीवसो ॥५॥  
+Indra, these Somas are expressed, Take them within thy belly, Lord Of Hundred Powers, thou Prince of wealth.

@@ -2,5 +2,4 @@
 title = "०३ धाता दाधार"
 
 +++
-धा॒ता दा॑धार पृथि॒वीं धा॒ता द्यामु॒त सूर्य॑म्।  
-धा॒तास्या अ॒ग्रुवै॒ पतिं॒ दधा॑तु प्रतिका॒म्यऽम्॥३॥
+Dhatar upholds the spacious earth, upholds the sky, upholds the Sun. Dhatar bestow upon this maid a husband suited to her wish!

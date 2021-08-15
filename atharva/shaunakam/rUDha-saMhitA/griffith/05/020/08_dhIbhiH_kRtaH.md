@@ -2,5 +2,4 @@
 title = "०८ धीभिः कृतः"
 
 +++
-धी॒भिः कृ॒तः प्र व॑दाति॒ वाच॒मुद्ध॑र्षय॒ सत्व॑ना॒मायु॑धानि ।  
-इन्द्र॑मेदी॒ सत्व॑नो॒ नि ह्व॑यस्व मि॒त्रैर॒मित्राँ॒ अव॑ जङ्घनीहि ॥८॥  
+He shall send forth his voice whom art hath fashioned. Make thou the weapons of our warriors bristle. With Indra for ally call out our heroes, and with thy friends scatter and chase the foemen

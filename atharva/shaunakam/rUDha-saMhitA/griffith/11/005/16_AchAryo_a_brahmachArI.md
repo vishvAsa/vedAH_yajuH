@@ -2,5 +2,4 @@
 title = "१६ आचार्योऽ ब्रह्मचारी"
 
 +++
-आ॒चा॒र्योऽ ब्रह्मचा॒री ब्र॑ह्मच॒री प्र॒जाप॑तिः ।  
-प्र॒जाप॑ति॒र्वि रा॑जति वि॒राडिन्द्रो॑ऽभवद् व॒शी॥१६॥  
+The pupil is the Master, yea, the pupil is Prajapati. Prajapati shines bright; the bright Viraj grew potent Indra's self.

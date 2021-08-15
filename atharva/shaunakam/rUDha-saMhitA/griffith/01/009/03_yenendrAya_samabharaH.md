@@ -2,5 +2,4 @@
 title = "०३ येनेन्द्राय समभरः"
 
 +++
-येनेन्द्रा॑य स॒मभ॑रः॒ पयां॑स्युत्त॒मेन॒ ब्रह्म॑णा जातवेदः ।  
-तेन॒ त्वम॑ग्न इ॒ह व॑र्धये॒मं स॑जा॒तानां॒ श्रैष्ठ्य॒ आ धे॑ह्येनम्॥३॥  
+Through that most mighty prayer, O Jatavedas, wherewith thou. broughtest milk to strengthen Indra, Even therewith exalt this man, O Agni, and give him highest rank among his kinsmen.

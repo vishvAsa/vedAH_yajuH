@@ -2,5 +2,4 @@
 title = "०२ अग्ने तपस्तप्यामह"
 
 +++
-अग्ने॒ तप॑स्तप्यामह॒ उप॑ तप्यामहे॒ तपः॑ ।  
-श्रु॒तानि॑ शृ॒ण्वन्तो॑ व॒यमायु॑ष्मन्तः सुमे॒धसः॑ ॥२॥
+Agni, we practise acts austere, we undergo austerity. So listening to Holy Lore may we grow wise and full of days.

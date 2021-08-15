@@ -2,4 +2,4 @@
 title = "८४ नमो वः"
 
 +++
-नमो॑ वः पितरो॒ यच्छि॒वं तस्मै॒ नमो॑ वः पितरो॒ यत् स्यो॒नं तस्मै॑ ॥८४॥  
+Hail, Fathers, to all that is propitious! Hail to all that is plea- sant in you!

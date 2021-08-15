@@ -2,5 +2,4 @@
 title = "०३ इन्द्रस्तुराषाण्मित्रो वृत्रं"
 
 +++
-इन्द्र॑स्तुरा॒षाण्मि॒त्रो वृ॒त्रं यो ज॒घान॑ य॒तीर्न।  
-बि॒भेद॑ व॒लं भृगु॒र्न स॑सहे॒ शत्रू॒न् मदे॒ सोम॑स्य ॥३॥  
+Swift-conquering Indra, Mitra like, smote, as a Yati, Vritra dead. Like Bhrigu he cleft Vala through, and quelled his foes in Soma's rapturous joy.

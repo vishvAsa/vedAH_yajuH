@@ -2,5 +2,4 @@
 title = "०६ ये ते"
 
 +++
-ये ते॒ पाशा॑ वरुण स॒प्तस॑प्त त्रे॒धा तिष्ठ॑न्ति॒ विषि॑ता॒ रुश॑न्तः ।  
-छि॒नन्तु॒ सर्वे॒ अनृ॑तं॒ वद॑न्तं॒ यः स॑त्यवा॒द्यति॒ तं सृ॑जन्तु ॥६॥  
+Those fatal snares of thine which stand extended, threefold, O Varuna, seven by seven, May they all catch the man who tells a falsehood, and pass un- harmed the man whose words are truthful.

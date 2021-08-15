@@ -2,4 +2,4 @@
 title = "०७ तस्मै प्रतीच्या"
 
 +++
-तस्मै॑ प्र॒तीच्या॑ दि॒शो अ॑न्तर्दे॒शात् प॑शु॒पति॑मिष्वा॒सम॑नुष्ठा॒तार॑मकुर्वन्॥७॥  
+They made Isana the Archer his deliverer from all the inter- mediate regions. Isana the Archer, a deliverer, delivers him from all the intermediate regions. Neither Sarva nor Bhava, nor Isana slays him who possesses this knowledge, or his cattle, or his kinsmen.

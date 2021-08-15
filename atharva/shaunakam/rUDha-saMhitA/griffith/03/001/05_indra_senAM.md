@@ -2,5 +2,4 @@
 title = "०५ इन्द्र सेनां"
 
 +++
-इन्द्र॒ सेनां॑ मोहया॒मित्रा॑णाम्।  
-अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान् विषू॑चो॒ वि ना॑शय ॥५॥  
+Indra, bewilder thou the foemen's army. With Agni's, Vata's furious rush drive them away to every side.

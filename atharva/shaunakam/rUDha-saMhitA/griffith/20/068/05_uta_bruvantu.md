@@ -2,4 +2,4 @@
 title = "०५ उत ब्रुवन्तु"
 
 +++
-उ॒त ब्रु॑वन्तु नो॒ निदो॒ निर॒न्यत॑श्चिदारत । दधा॑ना॒ इन्द्र॒ इद् दुवः॑ ॥५॥  
+Whether the men who mock us say, Depart unto another place, Ye who serve Indra and none else;

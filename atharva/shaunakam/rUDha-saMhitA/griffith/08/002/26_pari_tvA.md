@@ -2,5 +2,4 @@
 title = "२६ परि त्वा"
 
 +++
-परि॑ त्वा पातु समा॒नेभ्यो॑ऽभिचा॒रात् सब॑न्धुभ्यः ।  
-अम॑म्रिर्भवा॒मृतो॑ऽतिजी॒वो मा ते॑ हासिषु॒रस॑वः॒ शरी॑रम्॥२६॥  
+Live very long, be healthy, be immortal: let not the vital breath forsake thy body.

@@ -2,5 +2,4 @@
 title = "०५ एयमगन् पतिकामा"
 
 +++
-एयम॑ग॒न् पति॑कामा॒ जनि॑कामो॒ऽहमाग॑मम्।  
-अश्वः॒ कनि॑क्रद॒द् यथा॒ भगे॑ना॒हं स॒हाग॑मम्॥५॥
+Seeking a husband she hath come! and I came longing for a wife: Even as a loudly-neighing steed may fate and fortune have I met.

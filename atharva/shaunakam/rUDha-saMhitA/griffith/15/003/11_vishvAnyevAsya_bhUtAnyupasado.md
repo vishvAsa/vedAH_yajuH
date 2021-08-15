@@ -2,4 +2,4 @@
 title = "११ विश्वान्येवास्य भूतान्युपसदो"
 
 +++
-विश्वा॑न्ये॒वास्य॑ भू॒तान्यु॑प॒सदो॑ भवन्ति॒ य ए॒वं वेद॑ ॥११॥
+All creatures become the worshippers of him who possesses this knowledge.

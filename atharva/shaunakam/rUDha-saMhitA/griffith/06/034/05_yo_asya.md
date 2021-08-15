@@ -2,5 +2,4 @@
 title = "०५ यो अस्य"
 
 +++
-यो अ॒स्य पा॒रे रज॑सः शु॒क्रो अ॒ग्निरजा॑यत ।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥५॥
+That brilliant Agni who was born beyond this region of the air, May he transport us past our foes!

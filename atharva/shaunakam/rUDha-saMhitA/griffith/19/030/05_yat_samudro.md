@@ -2,5 +2,4 @@
 title = "०५ यत् समुद्रो"
 
 +++
-यत् स॑मु॒द्रो अ॒भ्यक्र॑न्दत् प॒र्जन्यो॑ वि॒द्युता॑ स॒ह।  
-ततो॑ हिर॒ण्ययो॑ बि॒न्दुस्ततो॑ द॒र्भो अ॑जायत ॥५॥
+What time Parjanya roared to it with lightning flashes in the sea, Thence came the drop, the golden drop, thence Darbha into being sprang.

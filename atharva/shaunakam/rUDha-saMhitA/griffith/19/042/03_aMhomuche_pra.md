@@ -2,5 +2,4 @@
 title = "०३ अंहोमुचे प्र"
 
 +++
-अं॒हो॒मुचे॒ प्र भ॑रे मनी॒षामा सु॒त्राव्णे॑ सुम॒तिमा॑वृणा॒नः ।  
-इ॒दमि॑न्द्र॒ प्रति॑ ह॒व्यं गृ॑भाय स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ॥३॥  
+To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his favour. Accept this offering of mine, O Indra. Fulfilled be all the sacri- ficer's wishes!

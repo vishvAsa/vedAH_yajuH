@@ -2,5 +2,4 @@
 title = "०१ कालादापः समभवन्"
 
 +++
-का॒लादापः॒ सम॑भवन् का॒लाद् ब्रह्म॒ तपो॒ दिशः॑ ।  
-का॒लेनोदे॑ति॒ सूर्यः॑ का॒ले नि वि॑शते॒ पुनः॑ ॥१॥  
+From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun ascends by Kala, and in Kala sinks again to rest.

@@ -2,5 +2,4 @@
 title = "०८ किं सुबाहो"
 
 +++
-किं सु॑बाहो स्वङ्गुरे॒ पृथु॑ष्टो॒ पृथु॑जाघने ।  
-किं शू॑रपत्नि न॒स्त्वम॒भ्यऽमीषि वृ॒षाक॑पिं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥८॥  
+Dame with the lovely hands and arms, with broad hair-plaits and ample hips, Why, O thou hero's wife, art thou angry with our Vrishakapi? Supreme is Indra over all.

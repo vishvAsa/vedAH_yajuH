@@ -2,4 +2,4 @@
 title = "०४ दितिः शूर्पमदितिः"
 
 +++
-दितिः॒ शूर्प॒मदि॑तिः शूर्पग्रा॒ही वातोऽपा॑विनक्॥४॥  
+Diti is the winnowing basket, Aditi is she who holds it, Vata is the sifter.

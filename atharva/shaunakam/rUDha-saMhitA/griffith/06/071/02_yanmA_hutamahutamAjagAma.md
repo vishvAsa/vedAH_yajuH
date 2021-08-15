@@ -2,5 +2,4 @@
 title = "०२ यन्मा हुतमहुतमाजगाम"
 
 +++
-यन्मा॑ हु॒तमहु॑तमाज॒गाम॑ द॒त्तं पि॒तृभि॒रनु॑मतं मनु॒ष्यैः ।  
-यस्मा॑न्मे॒ मन॒ उदि॑व॒ रार॑जीत्य॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥२॥  
+Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by the Fathers, Whereby my heart seems to leap up, may Agni the Hotar make that sacrifice well-offered.

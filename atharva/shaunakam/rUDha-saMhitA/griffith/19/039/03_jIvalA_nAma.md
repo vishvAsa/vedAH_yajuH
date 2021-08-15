@@ -2,6 +2,4 @@
 title = "०३ जीवला नाम"
 
 +++
-जी॒व॒ला नाम॑ ते मा॒ता जी॑व॒न्तो नाम॑ ते पि॒ता।  
-नद्या॒यं पुरु॑षो रिषत्।  
-यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥३॥  
+Jivala is thy mother's name, thy father's name is Jivala; let not mishap, etc.

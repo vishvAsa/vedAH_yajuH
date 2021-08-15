@@ -2,5 +2,4 @@
 title = "०२ सप्त चक्रान्"
 
 +++
-स॒प्त च॒क्रान् व॑हति का॒ल ए॒ष स॒प्तास्य॒ नाभी॑र॒मृतं॒ न्वक्षः॑ ।  
-स इ॒मा विश्वा॒ भुव॑नान्यञ्जत् का॒लः स ई॑यते प्रथ॒मो नु दे॒वः ॥२॥  
+This Time hath seven rolling wheels and seven naves immorality is the chariot's axle. This Time brings hitherward all worlds about us: as primal Deity is he entreated.

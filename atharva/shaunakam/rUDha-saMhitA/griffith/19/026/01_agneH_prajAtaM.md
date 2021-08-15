@@ -2,5 +2,4 @@
 title = "०१ अग्नेः प्रजातं"
 
 +++
-अ॒ग्नेः प्रजा॑तं॒ परि॒ यद्धिर॑ण्यम॒मृतं॑ द॒ध्रे अधि॒ मर्त्ये॑षु ।  
-य ए॑न॒द् वेद॒ स इदे॑नमर्हति ज॒रामृ॑त्युर्भवति॒ यो बि॒भर्ति॑ ॥१॥  
+Gold that was born from Fire is immortal hath been deposited with mortal creatures. He who knows this deserves to own this jewel, and in extreme old age dies he who wears it.

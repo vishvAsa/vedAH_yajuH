@@ -2,5 +2,4 @@
 title = "०३ इन्द्रस्यौजो मरुतामनीकं"
 
 +++
-इन्द्र॒स्यौजो॑ म॒रुता॒मनी॑कं मि॒त्रस्य॒ गर्भो॒ वरु॑णस्य॒ नाभिः॑ ।  
-स इ॒मां नो॑ ह॒व्यदा॑तिं जुषा॒णो देव॑ रथ॒ प्रति॑ ह॒व्या गृभाय ॥३॥
+Thou bolt of Indra, vanguard of the Maruts, close knit to Varuna and child of Mitra, As such, accepting gifts which here we offer, receive, O godlike Chariot, these oblations.

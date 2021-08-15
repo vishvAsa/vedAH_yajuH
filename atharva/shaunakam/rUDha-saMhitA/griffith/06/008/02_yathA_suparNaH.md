@@ -2,5 +2,4 @@
 title = "०२ यथा सुपर्णः"
 
 +++
-यथा॑ सुप॒र्णः प्र॒पत॑न् प॒क्षौ नि॒हन्ति॒ भूम्या॑म्।  
-ए॒वा नि ह॑न्मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥२॥  
+As, when he mounts, the eagle strikes his pinions downward on the earth, So do I strike thy spirit down that thou mayst be in love with me, my darling, never to depart.

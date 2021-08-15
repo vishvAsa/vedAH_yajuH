@@ -2,5 +2,4 @@
 title = "४६ सरस्वतीं पितरो"
 
 +++
-सर॑स्वतीं पि॒तरो॑ हवन्ते दक्षि॒णा य॒ज्ञम॑भि॒नक्ष॑माणाः ।  
-आ॒सद्या॒स्मिन् ब॒र्हिषि॑ मादयध्वमनमी॒वा इष॒ आ धे॑ह्य॒स्मे॥४६॥  
+Approaching on the south our solemn worship, the Fathers call- Sarasvati to hear them. Sit on this holy grass and be ye joyful: give thou us strengthen- ing food that brings no sickness.

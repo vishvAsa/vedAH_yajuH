@@ -2,4 +2,4 @@
 title = "०९ वनिष्ठा नाव"
 
 +++
-वनि॑ष्ठा॒ नाव॑ गृ॒ह्यन्ति॑ ॥९॥  
+Undecked with gems, and decked with gems: deity rivalling the Sun.

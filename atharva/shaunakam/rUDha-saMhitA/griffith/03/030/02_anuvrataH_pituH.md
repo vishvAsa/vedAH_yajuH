@@ -2,5 +2,4 @@
 title = "०२ अनुव्रतः पितुः"
 
 +++
-अनु॑व्रतः पि॒तुः पु॒त्रो मा॒त्रा भ॑वतु॒ संम॑नाः ।  
-जा॒या पत्ये॒ मधु॑मतीं॒ वाचं॑ वदतु शन्ति॒वाम्॥२॥  
+One-minded with his mother let the son be loyal to his sire. Let the wife, calm and gentle, speak words sweet as honey to her lord.

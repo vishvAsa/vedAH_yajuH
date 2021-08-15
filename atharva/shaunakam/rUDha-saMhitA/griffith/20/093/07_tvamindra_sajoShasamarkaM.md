@@ -2,4 +2,4 @@
 title = "०७ त्वमिन्द्र सजोषसमर्कं"
 
 +++
-त्वमि॑न्द्र स॒जोष॑सम॒र्कं बि॑भर्षि बा॒ह्वोः । वज्रं॒ शिशा॑न॒ ओज॑सा ॥७॥  
+Thou, Indra, bearest in thine arms the lightning that accords with thee, Whetting thy thunderbolt with might.

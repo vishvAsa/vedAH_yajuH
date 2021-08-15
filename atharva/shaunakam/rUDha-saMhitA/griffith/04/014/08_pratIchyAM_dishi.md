@@ -2,5 +2,4 @@
 title = "०८ प्रतीच्यां दिशि"
 
 +++
-प्र॒तीच्यां॑ दि॒शि भ॒सद॒मस्य धेह्युत्त॑रस्यां दि॒श्युत्त॑रं धेहि पा॒र्श्वम्।  
-ऊ॒र्ध्वायां॑ दि॒श्य॑१जस्यानू॑कं धेहि दि॒शि ध्रु॒वायां॑ धेहि पाज॒स्यऽम॒न्तरि॑क्षे मध्य॒तो मध्य॑मस्य ॥८॥  
+Set the Goat's backbone upmost in the zenith, and lay his belly downward in the nadir; set his midportion in mid-air between them.

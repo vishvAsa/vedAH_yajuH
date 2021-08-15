@@ -2,5 +2,4 @@
 title = "०२ यः पृथिवीं"
 
 +++
-यः पृ॑थि॒वीं व्यथ॑माना॒मदृं॑ह॒द् यः पर्व॑ता॒न् प्रकु॑पिताँ॒ अर॑म्णात्।  
-यो अ॒न्तरि॑क्षं विम॒मे वरी॑यो॒ यो द्यामस्त॑भ्ना॒त् स ज॑नास॒ इन्द्रः॑ ॥२॥  
+He who fixed fast and firm the earth that staggered, and set at rest the agitated mountains, Who measured out air's wider middle region and gave the heaven support, He, O men, is Indra.

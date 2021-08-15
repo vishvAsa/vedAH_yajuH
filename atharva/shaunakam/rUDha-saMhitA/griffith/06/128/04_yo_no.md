@@ -2,5 +2,4 @@
 title = "०४ यो नो"
 
 +++
-यो नो॑ भद्रा॒हमक॑रः सा॒यं नक्त॒मथो॒ दिवा॑ ।  
-तस्मै॑ ते नक्षत्रराज॒ शक॑धूम॒ सदा॒ नमः॑ ॥४॥
+Be worship ever paid to thee, O Weather Prophet, King of Star s, Who gavest us oo weather in the evening and by night and day!

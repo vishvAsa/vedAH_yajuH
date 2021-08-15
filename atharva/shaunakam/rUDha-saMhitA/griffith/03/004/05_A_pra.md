@@ -2,5 +2,4 @@
 title = "०५ आ प्र"
 
 +++
-आ प्र द्र॑व पर॒मस्याः॑ परा॒वतः॑ शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्।  
-तद॒यं राजा॒ वरु॑ण॒स्तथा॑ह॒ स त्वा॒यम॑ह्व॒त् स उपे॒दमेहि॑ ॥५॥  
+Speed to us hither from the farthest distance. Propitious unto thee be Earth and Heaven. Even so hath Varuna this King asserted, he who himself hath called thee: come thou hither.

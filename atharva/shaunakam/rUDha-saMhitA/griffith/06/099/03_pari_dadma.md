@@ -2,5 +2,4 @@
 title = "०३ परि दद्म"
 
 +++
-परि॑ दद्म॒ इन्द्र॑स्य बा॒हू स॑म॒न्तं त्रा॒तुस्त्राय॑तां नः ।  
-देव॑ सवितः॒ सोम॑ राजन्त्सु॒मन॑सं मा कृणु स्व॒स्तये॑ ॥३॥
+We draw about us both the arms of Indra, our deliverer. May they protect us thoroughly. O Savitar, thou God, O royal Soma, make thou me pious- minded for my welfare.

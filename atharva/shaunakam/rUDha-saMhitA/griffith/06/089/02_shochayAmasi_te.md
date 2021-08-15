@@ -2,5 +2,4 @@
 title = "०२ शोचयामसि ते"
 
 +++
-शो॒चया॑मसि ते॒ हार्दिं॑ शो॒चया॑मसि ते॒ मनः॑ ।  
-वातं॑ धू॒म इ॑व स॒ध्र्य॑१ङ्मामे॒वान्वे॑तु ते॒ मनः॑ ॥२॥  
+We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke accompanies the wind, so let thy fancy follow me.

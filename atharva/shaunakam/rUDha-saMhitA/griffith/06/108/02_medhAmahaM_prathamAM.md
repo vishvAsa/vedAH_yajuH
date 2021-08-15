@@ -2,5 +2,4 @@
 title = "०२ मेधामहं प्रथमां"
 
 +++
-मे॒धाम॒हं प्र॑थ॒मां ब्रह्म॑ण्वतीं॒ ब्रह्म॑जूता॒मृषि॑ष्टुताम्।  
-प्रपी॑तां ब्रह्मचा॒रिभि॑र्दे॒वाना॒मव॑से हुवे ॥२॥  
+The first, devout Intelligence, lauded by sages, sped by prayer, Drunk by Brahmacharis, for the favour of the Gods I call.

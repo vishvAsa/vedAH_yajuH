@@ -2,4 +2,4 @@
 title = "०६ कब्रु फलीकरणाः"
 
 +++
-कब्रु॑ फली॒कर॑णाः॒ शरो॒ऽभ्रम्॥६॥  
+Kabru is the husked grain, the rain cloud is the reed.

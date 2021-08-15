@@ -2,5 +2,4 @@
 title = "०४ दर्शोऽसि दर्शतोऽसि"
 
 +++
-द॒र्शोऽसि दर्श॒तोऽसि॒ सम॑ग्रोऽसि॒ सम॑न्तः ।  
-सम॑ग्रः॒ सम॑न्तो भूयासं॒ गोभि॒रश्वैः॑ प्र॒जया॑ प॒शुभि॑र्गृहैर्धने॑न ॥४॥  
+Thou art the New Moon, fair to see, thou art complete in every part. May I be perfect, fully blest in every way in steeds and kine, in children, cattle, home, and wealth.

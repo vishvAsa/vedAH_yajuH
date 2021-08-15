@@ -2,5 +2,4 @@
 title = "०१ हरिः सुपर्णो"
 
 +++
-हरिः॑ सुप॒र्णो दिव॒मारु॑हो॒ऽर्चिषा॒ ये त्वा॒ दिप्स॑न्ति॒ दिव॑मु॒त्पत॑न्तम्।  
-अव॒ तां ज॑हि॒ हर॑सा जातवे॒दोऽबि॑भ्यदु॒ग्रोऽर्चिषा॒ दिव॒मा रो॑ह सूर्य ॥१॥
+A Golden Eagle thou hast soared with light to heaven. Those who would harm thee as thou fliest skyward. Beat down, O Jatavedas, with thy fury. The strong hath feared: to heaven mount up with light, O Surya.

@@ -2,5 +2,4 @@
 title = "०२ पुंसि वै"
 
 +++
-पुं॒सि वै रेतो॑ भवति॒ तत् स्त्रि॒यामनु॑ षिच्यते ।  
-तद् वै पु॒त्रस्य॒ वेद॑नं॒ तत् प्र॒जाप॑तिरब्रवीत्॥२॥  
+The father sows the genial seed, the woman tends and fosters it. This is the finding of a son: thus hath Prajapati declared.

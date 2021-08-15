@@ -2,5 +2,4 @@
 title = "१२ तस्मादश्वा अजायन्त"
 
 +++
-तस्मा॒दश्वा॑ अजायन्त॒ ये च॒ के चो॑भ॒याद॑तः ।  
-गावो॑ ह जज्ञिरे॒ तस्मा॒त् तस्मा॑ज्जा॒ता अ॑जा॒वयः॑ ॥१२॥  
+From it were horses born, from it all creatures with two rows of teeth. From it were generated kine, from it were goats and sheep produced.

@@ -2,5 +2,4 @@
 title = "०८ इयं मही"
 
 +++
-इ॒यं म॒ही प्रति॑ गृह्णातु॒ चर्म॑ पृथि॒वी दे॒वी सु॑मन॒स्यमा॑ना ।  
-अथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम्॥८॥  
+May this great Earth receive the skin, this Goddess Prithivi, showing us her love and favour. Then may we go unto the world of virtue.

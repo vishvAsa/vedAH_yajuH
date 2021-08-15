@@ -2,5 +2,4 @@
 title = "२७ यस्य त्रयस्त्रिंशद्"
 
 +++
-यस्य॒ त्रय॑स्त्रिंशद् दे॒वा अङ्गे॒ गात्रा॑ विभेजि॒रे।  
-तान् वै त्रय॑स्त्रिंशद् दे॒वानेके॑ ब्रह्म॒विदो॑ विदुः ॥२७॥  
+The three-and-thirty Gods within his body were disposed as limbs: Some, deeply versed in Holy Lore, some know those three-and- thirty Gods.

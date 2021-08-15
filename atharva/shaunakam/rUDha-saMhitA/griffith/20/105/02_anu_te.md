@@ -2,5 +2,4 @@
 title = "०२ अनु ते"
 
 +++
-अनु॑ ते॒ शुष्मं॑ तु॒रय॑न्तमीयतुः क्षो॒णी शिशुं॒ न मा॒तरा॑ ।  
-विश्वा॑स्ते॒ स्पृधः॑ श्नथयन्त म॒न्यवे॑ वृत्रं यदि॑न्द्र॒ तूर्व॑सि ॥२॥  
+The earth, and heaven cling close to thy victorious might, as sire and mother to their child. When thou attackest Vritra all the hostile bands shrink and faint, Indra at thy wrath.

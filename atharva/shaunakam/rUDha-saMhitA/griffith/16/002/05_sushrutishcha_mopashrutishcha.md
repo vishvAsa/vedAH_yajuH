@@ -2,4 +2,4 @@
 title = "०५ सुश्रुतिश्च मोपश्रुतिश्च"
 
 +++
-सुश्रु॑तिश्च॒ मोप॑श्रुतिश्च॒ मा हा॑सिष्टां॒ सौप॑र्णं॒ चक्षु॒रज॑स्रं॒ ज्योतिः॑ ॥५॥  
+Let not good hearing and overhearing fail the Eagle's eye, the undecaying light.

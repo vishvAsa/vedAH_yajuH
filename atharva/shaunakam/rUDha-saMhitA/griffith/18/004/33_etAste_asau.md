@@ -2,5 +2,4 @@
 title = "३३ एतास्ते असौ"
 
 +++
-ए॒तास्ते॑ असौ धे॒नवः॑ काम॒दुघा॑ भवन्तु ।  
-एनीः॒ श्येनीः॒ सरू॑पा॒ विरू॑पास्ति॒लव॑त्सा॒ उप॑ तिष्ठन्तु॒ त्वात्र॑ ॥३३॥  
+Let these become thy milch-kine, man! supplying all thy heart's desires. There, speckled, white, like-hued and various-coloured, with calves of Sesamum let them stand beside thee.

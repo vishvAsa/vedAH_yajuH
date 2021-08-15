@@ -2,5 +2,4 @@
 title = "०६ यज्ञरिषूः संनममानो"
 
 +++
-य॒ज्ञरिषूः॑ सं॒नम॑मानो अग्ने वा॒चा श॒ल्याँ अ॒शनि॑भिर्दिहा॒नः ।  
-ताभि॑र्विध्य॒ हृद॑ये यातु॒धाना॑न् प्रती॒चो बा॒हून् प्रति॑ भङ्ग्ध्येषाम्॥६॥  
+Bending thy shafts through sacrifices, Agni! dipping thine arrows in the hymn to point them, Pierce to the heart therewith the Yatudhanas, and break their arms uplifted to attack thee.

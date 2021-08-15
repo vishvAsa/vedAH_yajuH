@@ -2,5 +2,4 @@
 title = "११ य इन्द्र"
 
 +++
-य इन्द्र॑ इव दे॒वेषु॒ गोष्वेति॑ वि॒वाव॑दत्।  
-तस्य॑ ऋष॒भस्याङ्गा॑नि ब्र॒ह्मा सं स्तौ॑तु भ॒द्रया॑ ॥११॥  
+Let the priest joyfully extol the limbs and members of the Bull Who moved and roared among the kine as Indra moves among the Gods.

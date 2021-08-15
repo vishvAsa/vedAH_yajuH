@@ -2,4 +2,4 @@
 title = "०५ अन्तश्चरति रोचना"
 
 +++
-अ॒न्तश्च॑रति रोच॒ना अ॒स्य प्रा॒णाद॑पान॒तः । व्य॑ख्यन्महि॒षः स्वः ॥५॥  
+As expiration from breath she moves along the lucid spheres: The Bull shines forth through all the sky.

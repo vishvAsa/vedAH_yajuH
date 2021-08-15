@@ -2,5 +2,4 @@
 title = "१५ अनु प्रत्नस्यौकसः"
 
 +++
-अनु॑ प्र॒त्नस्यौक॑सः प्रि॒यमे॑धास एषाम्।  
-पूर्वा॒मनु॒ प्रय॑तिं वृ॒क्तब॑र्हिषो हि॒तप्र॑यस आशत ॥१५॥  
+The Priyamedhas have observed the offering of the men of old, Of ancient custom, while they strewed the sacred grass and spread their sacrificial food.

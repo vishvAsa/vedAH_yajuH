@@ -2,5 +2,4 @@
 title = "०३ यथा सो"
 
 +++
-यथा॒ सो अ॒स्य प॑रि॒धिष्पता॑ति तथा॒ तद॑ग्ने कृणु जातवेदः ।  
-विश्वे॑भिर्दे॒वैः स॒ह सं॑विदा॒नः ॥३॥  
+Unanimous, with all the Gods together, so do this thing O Agni Jatavedas, that this defence of his may fall and fail him.

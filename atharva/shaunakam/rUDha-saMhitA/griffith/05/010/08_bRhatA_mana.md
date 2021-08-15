@@ -2,6 +2,4 @@
 title = "०८ बृहता मन"
 
 +++
-बृ॒ह॒ता मन॒ उप॑ ह्वये मात॒रिश्व॑ना प्राणापा॒नौ।  
-सूर्या॒च्चक्षु॑र॒न्तरि॑क्षा॒च्छ्रोत्रं॑ पृथि॒व्याः शरी॑रम्।  
-सर॑स्वत्या॒ वाच॒मुप॑ ह्वयामहे मनो॒युजा॑ ॥८॥
+With Brihat I invoke the mind, with Matarisvan both the breaths, The eye from Surya, and the ear from Air, the body from the Earth. We, with Sarasvati who suits the mind, call Speech to come to us.

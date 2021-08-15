@@ -2,4 +2,4 @@
 title = "०६ स राजसि"
 
 +++
-स रा॑जसि पुरुष्टुतँ एको॑ वृ॒त्राणि॑ जिघ्नसे । इन्द्र॒ जैत्रा॑ श्रव॒स्यैऽ च॒ यन्त॑वे ॥६॥
+Such, praised by many! thou art King: alone thou smitest foe- men dead, To gain, O Indra, spoils of war and high renown.

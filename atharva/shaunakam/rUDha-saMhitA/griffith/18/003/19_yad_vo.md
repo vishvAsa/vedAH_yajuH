@@ -2,5 +2,4 @@
 title = "१९ यद् वो"
 
 +++
-यद् वो॑ मु॒द्रं पि॑तरः सो॒म्यं च॒ तेनो॑ सचध्वं॒ स्वय॑शसो॒ हि भू॒त।  
-ते अ॑र्वाणः कवय॒ आ शृ॑णोत सुविद॒त्रा वि॒दथे॑ हू॒यमा॑नाः ॥१९॥  
+Fathers, be glorious in yourselves, and follow all that is glad in you and meet for Soma. Give ear and listen, swiftly-moving Sages, benevolent, invoked in our assembly.

@@ -2,5 +2,4 @@
 title = "०४ उद् यद्"
 
 +++
-उद् यद् ब्र॒ध्नस्य॑ वि॒ष्टपं॑ गृ॒हमिन्द्र॑श्च॒ गन्व॑हि ।  
-मध्वः॑ पी॒त्वा स॑चेवहि॒ त्रिः स॒प्त सख्युः॑ प॒दे॥४॥  
+When I and Indra amount on high up to the bright One's place and home, We, having drunk of meath, will reach his seat whose Friends are three-times-seven.

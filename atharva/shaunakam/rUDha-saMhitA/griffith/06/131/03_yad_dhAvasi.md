@@ -2,5 +2,4 @@
 title = "०३ यद् धावसि"
 
 +++
-यद् धाव॑सि त्रियोज॒नं प॑ञ्चयोज॒नमाश्वि॑नम्।  
-तत॒स्त्वं पुन॒राय॑सि पु॒त्राणां॑ नो असः पि॒ता॥३॥
+If thou shouldst run three leagues away, five leagues, a horse's daily stage, Thence thou shalt come to me again and be the father of our sons.

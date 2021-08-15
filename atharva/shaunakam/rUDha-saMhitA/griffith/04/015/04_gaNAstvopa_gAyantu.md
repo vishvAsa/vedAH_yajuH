@@ -2,5 +2,4 @@
 title = "०४ गणास्त्वोप गायन्तु"
 
 +++
-ग॒णास्त्वोप॑ गायन्तु॒ मारु॑ताः पर्जन्य घो॒षिणः॒ पृथ॑क्।  
-सर्गा॑ व॒र्षस्य॒ वर्ष॑तो॒ वर्ष॑न्तु पृथि॒वीमनु॑ ॥४॥  
+Apart, Parjanya! let the troops of Maruts, roaring, swell the song. Let pouring torrents of the rain that raineth rain upon the earth.

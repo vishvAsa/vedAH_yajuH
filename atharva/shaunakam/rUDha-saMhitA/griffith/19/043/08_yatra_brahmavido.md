@@ -2,5 +2,4 @@
 title = "०८ यत्र ब्रह्मविदो"
 
 +++
-यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-ब्र॒ह्मा मा॒ तत्र॑ नयतु ब्र॒ह्मा ब्रह्म॑ दधातु मे । ब्र॒ह्मणे॒ स्वाहा॑ ॥८॥
+Whither, etc. Thither let Brahma lead me, let Brahma give Brahma unto me. All hail to Brahma!

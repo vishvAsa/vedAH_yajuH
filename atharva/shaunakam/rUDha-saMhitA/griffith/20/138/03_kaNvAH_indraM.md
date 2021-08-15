@@ -2,4 +2,4 @@
 title = "०३ कण्वाः इन्द्रं"
 
 +++
-कण्वाः॒ इन्द्रं॒ यदक्र॑त॒ स्तोमै॑र्य॒ज्ञस्य॒ साध॑नम्। जा॒मि ब्रु॑वत॒ आयु॑धम्॥३॥
+Since Kanvas with their lauds have made Indra complete the sacrifice, Words are their own appropriate arms.

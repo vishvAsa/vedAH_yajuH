@@ -2,5 +2,4 @@
 title = "१२ यमबध्नाद् बृहस्पतिर्वाताय"
 
 +++
-यमब॑ध्ना॒द् बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑ । तेने॒मां म॒णिना॑ कृ॒षिम॒श्विना॑व॒भि र॑क्षतः ।  
-स भि॒षग्भ्यां॒ महो॑ दुहे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥१२॥  
+The Asvins with this Amulet protect this culture of our fields. This yields the two Physicians might, again, etc.

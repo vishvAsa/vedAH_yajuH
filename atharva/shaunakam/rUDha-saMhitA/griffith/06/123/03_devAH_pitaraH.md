@@ -2,5 +2,4 @@
 title = "०३ देवाः पितरः"
 
 +++
-देवाः॒ पित॑रः॒ पित॑रो॒ देवाः॑ ।  
-यो अस्मि॒ सो अ॑स्मि ॥३॥  
+Gods are the Fathers, and the Fathers Gods. I am the very man I am.

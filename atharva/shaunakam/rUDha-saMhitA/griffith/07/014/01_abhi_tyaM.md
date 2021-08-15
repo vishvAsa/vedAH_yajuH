@@ -2,5 +2,4 @@
 title = "०१ अभि त्यं"
 
 +++
-अ॒भि त्यं दे॒वं स॑वि॒तार॑मो॒ण्योः क॒विक्र॑तुम्।  
-अर्चा॑मि स॒त्यस॑वं रत्न॒धाम॒भि प्रि॒यं म॒तिम्॥१॥  
+I praise this God, parent of heaven and earth, exceeding wiser possessed of real energy, giver of treasure, thinker dear to all,.

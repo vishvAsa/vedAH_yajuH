@@ -2,5 +2,4 @@
 title = "०५ नैनं प्राप्नोति"
 
 +++
-नैनं॒ प्राप्नो॑ति श॒पथो॒ न कृ॒त्या नाभि॒शोच॑नम्।  
-नैनं॒ विष्क॑न्धमश्नुते॒ यस्त्वा॒ बिभ॑र्त्याञ्जन ॥५॥  
+No imprecation reaches him, no magic, no tormenting fiend, O Salve, Vishkandha seizes not the man who carries thee about.

@@ -2,6 +2,4 @@
 title = "२२ स्वस्तिदा विशां"
 
 +++
-स्व॒स्ति॒दा वि॒शां पति॑र्वृत्र॒हा वि॑मृ॒धो व॒शी।  
-इन्द्रो॑ बध्नातु ते म॒णिं जि॑गी॒वाँ अप॑राजितः सोम॒पा अ॑भयङ्क॒रो वृषा॑ ।  
-स त्वा॑ रक्षतु स॒र्वतो॒ दिवा॒ नक्तं॑ च वि॒श्वतः॑ ॥२२॥
+Lord of the clan who brings, us bliss, fiend-slayer, queller of the foe, May he, the conqueror, ne'er subdued, may Indra bind the Charm on thee, Bull, Soma-drinker, he who gives us peace. May he protect thee round about, by night and day on every, side.

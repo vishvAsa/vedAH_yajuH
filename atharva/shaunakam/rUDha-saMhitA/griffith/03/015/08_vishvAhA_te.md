@@ -2,5 +2,4 @@
 title = "०८ विश्वाहा ते"
 
 +++
-वि॒श्वाहा॑ ते॒ सद॒मिद् भ॑रे॒माश्वा॑येव॒ तिष्ठ॑ते जातवेदः ।  
-रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥८॥
+Still to thee ever will we bring oblation, as to a stabled horse, O Jatavedas. Joying in food and in the growth of riches may we thy servants, Agni, never suffer.

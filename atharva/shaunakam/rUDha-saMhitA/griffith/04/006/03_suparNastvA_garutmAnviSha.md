@@ -2,5 +2,4 @@
 title = "०३ सुपर्णस्त्वा गरुत्मान्विष"
 
 +++
-सु॒प॒र्णस्त्वा॑ ग॒रुत्मा॒न्विष॑ प्रथ॒ममा॑वयत्।  
-नामी॑मदो॒ नारू॑रुप उ॒तास्मा॑ अभवः पि॒तुः ॥३॥  
+The strong-winged Bird Garutman first of all, O Poison fed on thee: Thou didst not gripe or make him drunk: aye, thou becamest food for him.

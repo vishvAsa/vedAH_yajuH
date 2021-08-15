@@ -2,5 +2,4 @@
 title = "०५ ये च"
 
 +++
-ये च॑ दे॒वा अय॑ज॒न्ताथो॒ ये च॑ पराद॒दिः ।  
-सूर्यो॒ दिव॑मिव ग॒त्वाय॑ म॒घवा॑ नो॒ वि र॑प्शते ॥५॥  
+But they who have adored the Gods, and they who have best- owed their gifts, Those liberal lords are filled with wealth like Surya risen up to heaven.

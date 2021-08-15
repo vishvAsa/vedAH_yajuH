@@ -2,4 +2,4 @@
 title = "०५ सदान्वाक्षयणमसि सदान्वाचातनं"
 
 +++
-स॒दा॒न्वा॒क्षय॑णमसि सदान्वा॒चात॑नं मे दाः॒ स्वाहा॑ ॥५॥
+Sadanvas' ruiner art thou, give me to drive Sadanvas off. All hail!

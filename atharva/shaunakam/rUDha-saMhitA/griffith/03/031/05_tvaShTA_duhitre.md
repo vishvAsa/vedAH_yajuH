@@ -2,5 +2,4 @@
 title = "०५ त्वष्टा दुहित्रे"
 
 +++
-त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं यु॑न॒क्तीती॒दं विश्वं॒ भुव॑नं॒ वि या॑ति ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥५॥  
+Tvashtar prepares the bridal of his daughter; then all this world of life departs and leaves him. I free, etc.

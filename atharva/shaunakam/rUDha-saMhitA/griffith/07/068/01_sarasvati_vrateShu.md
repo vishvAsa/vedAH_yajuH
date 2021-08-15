@@ -2,5 +2,4 @@
 title = "०१ सरस्वति व्रतेषु"
 
 +++
-सर॑स्वति व्र॒तेषु॑ ते दि॒व्येषु॑ देवि॒ धाम॑सु ।  
-जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि ररास्व नः ॥१॥  
+Sarasvati, in thy decrees, Goddess, in thy celestial laws, Accept the offered sacrifice, and, Goddess, grant us progeny.

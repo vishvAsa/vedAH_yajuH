@@ -2,5 +2,4 @@
 title = "०६ यस्य भीमः"
 
 +++
-यस्य॑ भी॒मः प्र॑तीका॒श उ॑द्वे॒पय॑ति॒ पूरु॑षम्।  
-त॒क्मानं॑ वि॒श्वशा॑रदं ब॒हिर्निर्म॑न्त्रयामहे ॥६॥  
+The malady whose awful look makes a man quiver with alarm, Fever whom every Autumn brings we charm away with this our spell.

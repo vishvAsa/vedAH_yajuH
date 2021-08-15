@@ -2,4 +2,4 @@
 title = "०३ सभायाश्च वै"
 
 +++
-स॒भाया॑श्च॒ वै स समि॑तेश्च॒ सेना॑याश्च॒ सुरा॑याश्च॒ प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥३॥
+He who hath this knowledge becomes the dear home of Meeting, Assembly, Army, and Wine.

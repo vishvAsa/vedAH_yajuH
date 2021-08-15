@@ -2,5 +2,4 @@
 title = "०२ मा नो"
 
 +++
-मा नो अज्ञा॑ता वृ॒जना॑ दुरा॒ध्यो॒३माशि॑वासो॒ अव॑ क्रमुः ।  
-त्वया॑ व॒यं प्र॒वतः॒ शश्व॑तीर॒पोऽति॑ शूर तरामसि ॥२॥
+Grant that no mighty foes, unknown, malevolent, unhallowed, tread us to the ground. With thine assistance, Hero! may we pass through all the waters that are rushing down.

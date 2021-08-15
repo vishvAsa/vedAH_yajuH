@@ -2,5 +2,4 @@
 title = "१२ किं भ्रातासद्"
 
 +++
-किं भ्राता॑स॒द् यद॑ना॒थं भवा॑ति॒ किमु॒ स्वसा॒ यन्निरृ॑तिर्नि॒गच्छा॑त्।
-काम॑मूता ब॒ह्वे॒३तद् र॑पामि त॒न्वा॒ऽमे त॒न्वं॑१ सं पि॑पृग्धि ॥१२॥
+Is he a brother when no help is left her? Is she a sister when Destruction cometh? Forced by my love these many words I utter. Come near, and hold me in thy close embraces,

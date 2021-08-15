@@ -2,4 +2,4 @@
 title = "०९ ऋचां च"
 
 +++
-ऋ॒चां च॒ वै स साम्नां॑ च॒ यजु॑षां च॒ ब्रह्म॑णश्च प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥९॥  
+He went away to all the intermediate spaces. Prajapati and Parameshthin and the Father and the Great Father followed him. He who possesses this knowledge becomes the beloved home of Prajapati and Parameshthin and the Father and the Great Father.

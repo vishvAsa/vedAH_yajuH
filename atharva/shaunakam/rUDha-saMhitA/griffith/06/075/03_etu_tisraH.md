@@ -2,6 +2,4 @@
 title = "०३ एतु तिस्रः"
 
 +++
-एतु॑ ति॒स्रः प॑रा॒वत॒ एतु॒ पञ्च॒ जनाँ॒ अति॑ ।  
-एतु॑ ति॒स्रोऽति॑ रोच॒ना यतो॒ न पुन॒राय॑ति ।  
-शश्व॒तीभ्यः॒ समा॑भ्यो॒ यावत् सूर्यो॒ अस॑द् दि॒वि॥३॥
+To the three distances, beyond mankind's Five Races, let him go, Beyond the three skies let him go, whence he shall never come- again In all the years that are to be, long as the Sun is in the heaven.

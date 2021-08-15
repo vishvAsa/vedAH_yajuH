@@ -2,4 +2,4 @@
 title = "०४ अहोरात्रे नासिके"
 
 +++
-अ॒हो॒रा॒त्रे नासि॑के॒ दिति॒श्चादि॑तिश्च शीर्षकपा॒ले सं॑वत्स॒रः शिरः॑ ॥४॥  
+Day and Night are his nostrils. Diti and Aditi are his head and skull.

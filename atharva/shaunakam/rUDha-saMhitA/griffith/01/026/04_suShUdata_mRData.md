@@ -2,4 +2,4 @@
 title = "०४ सुषूदत मृडत"
 
 +++
-सु॒षू॒दत॑ मृ॒डत॑ मृ॒डया॑ नस्त॒नूभ्यो॒ मय॑स्तो॒केभ्य॑स्कृधि॑॥४॥
+Further us rightly, favour ye our bodies with your gracious love. Give thou our children happiness.

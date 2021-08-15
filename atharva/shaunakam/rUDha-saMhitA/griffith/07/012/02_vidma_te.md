@@ -2,5 +2,4 @@
 title = "०२ विद्म ते"
 
 +++
-वि॒द्म ते॑ सभे॒ नाम॑ न॒रिष्टा॒ नाम॒ वा अ॑सि ।  
-ये ते॒ के च॑ सभा॒सद॒स्ते मे॑ सन्तु॒ सवा॑चसः ॥२॥  
+We know thy name, O Conference: thy name is interchange of talk. Let all the company who join the Conference agree with me.

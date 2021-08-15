@@ -2,5 +2,4 @@
 title = "०३ पातां नो"
 
 +++
-पा॒तां नो॑ दे॒वाश्विना॑ शु॒भस्पती॑ उ॒षासा॒नक्तो॒त न॑ उरुष्यताम्।  
-अपां॑ नपा॒दभिह्रुती॒ गय॑स्य चि॒द देव॑ त्वष्टर्व॒र्ध॑य॑ स॒र्वता॑तये ॥
+Preserve us both the Asvins, Gods and Lords of Light, and let the Dawns and Night bring us deliverance. The Waters' Child protect our house from every harm. Do thou, God Tvashtar, make us strong for health and wealth.

@@ -2,5 +2,4 @@
 title = "०३ आप इद्"
 
 +++
-आप॒ इद् वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः ।  
-आपो॑ विश्व॑स्य भेष॒जीस्तास्ते॑ कृण्वन्तु भेष॒जम्॥३॥
+The Waters verily bring health, the Waters drive disease away. The Waters cure all malady: may they bring medicine for thee.

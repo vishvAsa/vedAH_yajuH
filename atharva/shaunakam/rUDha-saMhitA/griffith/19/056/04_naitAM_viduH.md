@@ -2,5 +2,4 @@
 title = "०४ नैतां विदुः"
 
 +++
-नैतां वि॑दुः पि॒तरो॒ नोत दे॒वा येषां॒ जल्पि॒श्चर॑त्यन्तरेदम्।  
-त्रि॒ते स्वप्न॑मदधुरा॒प्त्ये नर॒ आदि॑त्यासो॒ वरु॑णे॒नानु॑शिष्टाः ॥४॥  
+Of him nor Fathers nor the Gods have knowledge, the Gods whose gentle talk is still about him. Urged by command of Varuna the Adityas, Heroes, transported Sleep to Trita Aptya.

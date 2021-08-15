@@ -2,5 +2,4 @@
 title = "१८ अदृश्रन्नस्य केतवो"
 
 +++
-अदृ॑श्रन्नस्य के॒तवो॒ वि र॒श्मयो॒ जनाँ अनु॑ ।  
-भ्राज॑न्तो अ॒ग्नयो॑ यथा ॥१८॥  
+His herald rays are seen afar refulgent o'er the world of men, Like flames of fire that burn and blaze.

@@ -2,5 +2,4 @@
 title = "११ इन्द्रस्य गृहोऽसि"
 
 +++
-इन्द्र॑स्य गृ॒होऽसि । तं त्वा॒ प्र प॑द्ये॒ तं त्वा॒ प्र वि॑शामि॒ सर्व॑गुः॒  
-सर्व॑पूरु॒षः सर्वा॑त्मा॒ सर्व॑तनूः स॒ह यन्मेऽस्ति॒ तेन॑ ॥११॥  
+Thou art the house of Indra. I betake me to thee, I enter thee with all my cattle, With all my people and with all my body, with all my soul, with mine entire possessions.

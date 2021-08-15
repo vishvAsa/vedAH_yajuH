@@ -2,5 +2,4 @@
 title = "१५ वनस्पतिः सह"
 
 +++
-वन॒स्पतिः॑ स॒ह दे॒वैर्न॒ आग॒न् रक्षः॑ पिशा॒चाँ अ॑प॒बाध॑मानः ।  
-स उच्छ्र॑यातै॒ प्र व॑दाति॒ वाचं॒ तेन॑ लो॒काँ अ॒भि सर्वा॑न् जयेम ॥१५॥  
+Together with the Gods, banning Pis5chas and demons, hath Vanaspati come hither. He shall rise up and send his voice out loudly. May we win all the worlds with him to help us.

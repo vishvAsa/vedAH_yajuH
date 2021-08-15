@@ -2,5 +2,4 @@
 title = "०४ अपाञ्चौ त"
 
 +++
-अपा॑ञ्चौ त उ॒भौ बा॒हू अपि॑ नह्याम्या॒स्यऽम्।  
-अ॒ग्नेर्दे॒वस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥४॥  
+I seize thine arms and draw them back, I bind a bandage on thy mouth. I with the anger of the God Agni have killed thy sacrifice.

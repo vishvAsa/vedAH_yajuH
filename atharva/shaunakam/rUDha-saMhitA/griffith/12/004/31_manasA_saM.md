@@ -2,5 +2,4 @@
 title = "३१ मनसा सं"
 
 +++
-मन॑सा॒ सं क॑ल्पयति॒ तद् दे॒वां अपि॑ गच्छति ।  
-ततो॑ ह ब्र॒ह्माणो॑ व॒शामु॑प॒प्रय॑न्ति॒ याचि॑तुम्॥३१॥  
+This thought he settles in his mind. This safely goeth to the Gods. Then verily the Brahman priests approach that they may beg the Cow

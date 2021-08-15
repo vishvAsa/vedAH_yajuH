@@ -2,5 +2,4 @@
 title = "०५ कृतं न"
 
 +++
-कृ॒तं न श्व॒घ्नी वि चि॑नोति॒ देव॑ने सं॒वर्गं॒ यन्म॒घवा॒ सूर्यं॒ जय॑त्।  
-न तत् ते॑ अ॒न्यो अनु॑ वी॒र्यं शक॒न्न पु॑रा॒णो म॑घव॒न् नोत नूत॑नः ॥५॥  
+As in the game a gambler piles his winnings, so Maghavan, sweeping all together, gained the Sun. This mighty deed of thine none other could achieve, none, Maghavan, before thee, none in recent time.

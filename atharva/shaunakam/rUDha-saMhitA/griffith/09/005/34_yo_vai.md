@@ -2,8 +2,4 @@
 title = "३४ यो वै"
 
 +++
-यो वै पि॒न्वन्तं॒ नाम॒र्तुं वेद॑ ।  
-पि॒न्व॒तींपि॑न्वतीमे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रिय॒मा द॑त्ते ।  
-ए॒ष वै पि॒न्वन्नाम॒र्तुर्यद॒जः पञ्चौ॑दनः ।  
-निरे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रियं॑ दहति॒ भव॑त्या॒त्मना॑।  
-यो॒३जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥३४॥  
+The man who knows the called the Swelling takes to himself the swelling fame, his hated rival's swelling fame. The Goat Panchaudana is this Swelling season. He lives himself, etc.

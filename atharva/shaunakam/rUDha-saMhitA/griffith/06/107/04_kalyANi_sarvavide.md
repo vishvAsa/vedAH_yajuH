@@ -2,5 +2,4 @@
 title = "०४ कल्याणि सर्वविदे"
 
 +++
-कल्या॑णि सर्व॒विदे॑ मा॒ परि॑ देहि ।  
-सर्व॑विद् द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पाद् यच्च॑ नः॒ स्वम्॥४॥
+To Sarvavid entrust me, O Kalyani. O Sarvavid, guard all our men, guard all our wealth of quadrupeds.

@@ -2,5 +2,4 @@
 title = "०३ तिस्रो दिवस्तिस्रः"
 
 +++
-ति॒स्रो दिव॑स्ति॒स्रः पृ॑थि॒वीस्त्रीण्य॒न्तरि॑क्षाणि च॒तुरः॑ समु॒द्रान्।  
-त्रि॒वृतं॒ स्तोमं॑ त्रि॒वृत॒ आप॑ आहु॒स्तास्त्वा॑ रक्षन्तु त्रि॒वृता॑ त्रि॒वृद्भिः॑ ॥३॥  
+Three are the earths, they say, and three the heavens, three are the atmospheres, and four the oceans. Threefold the hymn of praise, threefold the Waters. Let these with triple song and triplets guard thee.

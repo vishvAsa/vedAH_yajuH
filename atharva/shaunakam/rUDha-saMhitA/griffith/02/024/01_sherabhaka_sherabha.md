@@ -2,5 +2,4 @@
 title = "०१ शेरभक शेरभ"
 
 +++
-शेर॑भक॒ शेर॑भ॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः ।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥१॥  
+O Serabhaka, Serabha, back fall your arts of witchery! Back, Kimidins! let your weapon fall. Eat your possessor; eat ye him who sent you forth;

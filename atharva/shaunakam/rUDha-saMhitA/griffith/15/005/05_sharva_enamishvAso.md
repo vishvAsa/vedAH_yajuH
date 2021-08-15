@@ -2,4 +2,4 @@
 title = "०५ शर्व एनमिश्वासो"
 
 +++
-श॒र्व ए॑नमिश्वा॒सो दक्षि॑णाया दि॒शो अ॑न्तर्दे॒शाद॑नुष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑नः॥५॥  
+They made Rudra the Archer his deliverer from the intermediate space of the region of the nadir etc.

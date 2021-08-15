@@ -2,5 +2,4 @@
 title = "४२ आरोहन्छुक्रो बृहतीरतन्द्रो"
 
 +++
-आ॒रोह॑न्छु॒क्रो बृ॑ह॒तीरत॑न्द्रो॒ द्वे रू॒पे कृ॑णुते॒ रोच॑मानः ।  
-चि॒त्रश्चि॑कि॒त्वान् म॑हि॒षो वात॑माया॒ याव॑तो लो॒कान॒भि यद् वि॒भाति॑ ॥४२॥  
+Mounting the lofty ones, he, bright, unwearied, splendidly shining, makes two separate colours, While through all worlds that are he sends his lustre, radiant, observant, mighty, wind-approacher.

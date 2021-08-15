@@ -2,5 +2,4 @@
 title = "१४ ईजानश्चितमारुक्षदग्निं नाकस्य"
 
 +++
-ई॒जा॒नश्चि॒तमारु॑क्षद॒ग्निं नाक॑स्य पृ॒ष्ठाद् दिव॑मुत् पति॒ष्यन्।  
-तस्मै॒ प्र भा॑ति॒ नभ॑सो॒ ज्योति॑षीमान्त्स्व॒र्गः पन्थाः॑ सु॒कृते॑ देव॒यानः॑ ॥१४॥  
+Fain to fly up from the sky's ridge to heaven, the worshipper hath mounted visible Agni. Lucid from out the mist to him, the pious, gleams the God- travelled path that leads to Svarga.

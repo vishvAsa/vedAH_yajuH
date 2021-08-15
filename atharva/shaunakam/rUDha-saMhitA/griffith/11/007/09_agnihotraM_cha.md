@@ -2,5 +2,4 @@
 title = "०९ अग्निहोत्रं च"
 
 +++
-अ॒ग्नि॒हो॒त्रं च॑ श्र॒द्धा च॑ वषट्का॒रो व्र॒तं तपः॑ ।  
-दक्षि॑णे॒ष्टं पू॒र्तं चोच्छि॒ष्टेऽधि॑ स॒माहि॑ताः ॥९॥  
+Faith fire-oblation, fervent zeal, service, and sacrificial cry, Guerdon, good works and their reward, are stored within the Residue.

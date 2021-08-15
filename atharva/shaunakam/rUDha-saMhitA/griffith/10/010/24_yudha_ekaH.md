@@ -2,5 +2,4 @@
 title = "२४ युध एकः"
 
 +++
-युध॒ एकः॒ सं सृ॑जति॒ यो अ॑स्या॒ एक॒ इद् व॒शी।  
-तरां॑सि य॒ज्ञा अ॑भव॒न् तर॑सां॒ चक्षु॑रभवद् व॒शा॥२४॥  
+He only joineth battle, yea, he who alone controlleth her. Now sacrifices have become victories, and the Cow their eye.

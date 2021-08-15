@@ -2,5 +2,4 @@
 title = "०३ ऊती शचीवस्तव"
 
 +++
-ऊ॒ती श॑चीव॒स्तव॑ वी॒र्येण॒ वयो॒ दधा॑ना उ॒शिज॑ ऋत॒ज्ञाः ।  
-प्र॒जाव॑दिन्द्र॒ मनु॑षो दुरो॒णे त॒स्थुर्गृ॒णन्तः॑ सध॒माद्या॑सः ॥३॥
+O mighty Indra, through thine aid, thy prowess, obtaining life, zealous, and skilled in worship. Men in the house who share the sacred banquet stand singing praise that brings them store of children.

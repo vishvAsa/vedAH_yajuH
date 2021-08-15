@@ -2,5 +2,4 @@
 title = "१० इमास्तिस्रो देवपुरास्तास्त्वा"
 
 +++
-इ॒मास्ति॒स्रो दे॑वपु॒रास्तास्त्वा॑ रक्षन्तु स॒र्वतः॑ ।  
-तास्त्वं बिभ्र॑द् वर्च॒स्व्युत्त॑रो द्विष॒तां भ॑व ॥१०॥  
+May these three castles of the Gods keep thee secure on every side. Endowed with strength, possessing these, be thou the master of thy foes,

@@ -2,5 +2,4 @@
 title = "०१ यदन्नमद्मि बहुधा"
 
 +++
-यदन्न॒मद्मि॑ बहु॒धा विरू॑पं॒ हिर॑ण्य॒मश्व॑मु॒त गाम॒जामवि॑म्।  
-यदे॒व किं च॑ प्रतिज॒ग्रहाह॑म॒ग्निष्टद्धोता॒ सुहु॑तं कृनोतु ॥१॥  
+What food I eat of varied form and nature, food whether gold, or horse, sheep, goat, or bullock, Whatever gift I have received, may Agni the Hotar make it sacrifice well-offered.

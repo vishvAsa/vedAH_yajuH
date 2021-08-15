@@ -2,4 +2,4 @@
 title = "०८ कुम्भीकाः दूषीकाः"
 
 +++
-कु॒म्भीकाः॑ दू॒षीकाः॒ पीय॑कान्॥८॥  
+Kumbhikas, Dushikas, and Piyakas,

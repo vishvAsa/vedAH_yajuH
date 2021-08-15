@@ -2,5 +2,4 @@
 title = "४२ यं ते"
 
 +++
-यं ते॑ म॒न्थं यमो॑द॒नं यन्मां॒सं नि॑पृ॒णामि॑ ते ।  
-ते ते॑ सन्तु स्व॒धाव॑न्तो॒ मधु॑मन्तो घृत॒श्चुतः॑ ॥४२॥  
+The mingled draught, the mess of rice, the flesh which I present to thee, May these be full of food for thee, distilling fatness, rich in sweets.

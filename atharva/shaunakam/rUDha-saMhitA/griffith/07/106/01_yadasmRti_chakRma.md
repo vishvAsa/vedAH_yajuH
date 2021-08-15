@@ -2,5 +2,4 @@
 title = "०१ यदस्मृति चकृम"
 
 +++
-यदस्मृ॑ति चकृ॒म किं चि॑दग्न उपारि॒म चर॑णे जातवेदः ।  
-ततः॑ पाहि॒ त्वं नः॑ प्रचेतः शु॒भे सखि॑भ्यो अमृत॒त्वम॑स्तु नः ॥१॥
+Each thoughtless ill that we have done, O Agni, all error in our conduct, Jatavedas! Therefrom do thou, O sapient God, preserve us. May we thy friends, for bliss, have life eternal.

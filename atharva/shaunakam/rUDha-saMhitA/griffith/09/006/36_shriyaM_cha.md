@@ -2,4 +2,4 @@
 title = "३६ श्रियं च"
 
 +++
-श्रियं॑ च॒ वा ए॒ष सं॒विदं॑ च गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ।६। ३६॥  
+The man who eats before the guest eats up the glory and the understanding of the house.

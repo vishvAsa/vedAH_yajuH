@@ -2,4 +2,4 @@
 title = "०४ इदं तमति"
 
 +++
-इ॒दं तमति॑ सृजामि॒ तं माभ्यव॑निक्षि ॥४॥  
+Here I let him go: thou washest me clean of him.

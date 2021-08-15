@@ -2,4 +2,4 @@
 title = "०२ शिक्षेयमस्मै दित्सेयं"
 
 +++
-शिक्षे॑यमस्मै॒ दित्से॑यं॒ शची॑पते मनी॒षिणे॑ । यद॒हं गोप॑तिः॒ स्याम्॥२॥  
+I should be fain, O Lord of Might, to strengthen and enrich the sage, Were I the lord of herds of kine,

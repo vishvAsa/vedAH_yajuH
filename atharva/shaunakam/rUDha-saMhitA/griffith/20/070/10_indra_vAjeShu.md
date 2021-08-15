@@ -2,4 +2,4 @@
 title = "१० इन्द्र वाजेषु"
 
 +++
-इन्द्र॒ वाजे॑षु नोऽव स॒हस्र॑प्रधनेषु च । उ॒ग्र उ॒ग्राभि॑रू॒तिभिः॑ ॥१०॥  
+Help us, O Indra, in the frays, yea, frays where thousand spoils are gained, With awful aids, O awful One.

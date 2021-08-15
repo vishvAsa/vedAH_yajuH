@@ -2,5 +2,4 @@
 title = "०९ उत्तमो नाम"
 
 +++
-उ॒त्त॒मो नाम॑ कुष्ठस्युत्त॒मो नाम॑ ते पि॒ता।  
-यक्ष्मं॑ च॒ सर्वं॑ ना॒शय॑ त॒क्मानं॑ चार॒सं कृ॑धि ॥९॥  
+Most excellent, indeed, art thou, Kushtha! most noble is thy sire. Make all Consumption pass away and render Fever powerless.

@@ -2,5 +2,4 @@
 title = "०४ हर्यश्वं सत्पतिं"
 
 +++
-हर्य॑श्वं॒ सत्प॑तिं चर्षणी॒सहं॒ स हि ष्मा॒ यो अम॑न्दत ।  
-आ तु नः॒ स व॑यति॒ गव्य॒मश्व्यं॑ स्तो॒तृभ्यो॑ म॒घवा॑ श॒तम्॥४॥
+Borne by bay steeds, the Lord of heroes, ruling men, for it is he who takes delight. The Bounteous Lord bestows on us his worshippers hundreds of cattle and of steeds.

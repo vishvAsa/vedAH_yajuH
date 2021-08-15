@@ -2,5 +2,4 @@
 title = "२६ शिला भूमिरश्मा"
 
 +++
-शि॒ला भूमि॒रश्मा॑ पां॒सुः सा भूमिः॒ संधृ॑ता धृ॒ता।  
-तस्यै॒ हिर॑ण्यवक्षसे पृथि॒व्या अ॑करं॒ नमः॑ ॥२६॥  
+Rock earth, and stone, and dust, this Earth is held together,. firmly bound. To this gold-breasted Prithivi mine adoration have I paid.

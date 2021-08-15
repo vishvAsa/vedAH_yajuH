@@ -2,4 +2,4 @@
 title = "०५ अह्ना प्रत्यङ्"
 
 +++
-अह्ना॑ प्र॒त्यङ् व्रात्यो॒ रात्र्या॒ प्राङ् नमो॒ व्रात्या॑य ॥५॥
+By day the Vratya is turned westward, by night he is turned eastward. Worship to the Vratya!

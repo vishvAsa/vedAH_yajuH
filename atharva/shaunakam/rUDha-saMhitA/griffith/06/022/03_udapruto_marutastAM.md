@@ -2,5 +2,4 @@
 title = "०३ उदप्रुतो मरुतस्तां"
 
 +++
-उ॒द॒प्रुतो॑ म॒रुत॒स्तां इ॑यर्त वृ॒ष्टिर्या विश्वा॑ नि॒वत॑स्पृ॒णाति॑ ।  
-एजा॑ति॒ ग्लहा॑ क॒न्येऽव तु॒न्नैरुं॑ तुन्दा॒ना पत्ये॑व जा॒या॥३॥
+O Maruts, send ye down, streaming with water rain which, may, filling all the sloping valleys, Leap like a bold girl in a man's embraces, or like a matron tumbled by her husband.

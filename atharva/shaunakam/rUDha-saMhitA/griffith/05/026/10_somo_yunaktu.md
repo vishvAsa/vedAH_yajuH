@@ -2,4 +2,4 @@
 title = "१० सोमो युनक्तु"
 
 +++
-सोमो॑ युनक्तु बहु॒धा पयां॑स्य॒स्मिन् य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥१०॥  
+Let Soma in this rite in varied manner--All hail!--use milk- streams, well-yoked coursers.

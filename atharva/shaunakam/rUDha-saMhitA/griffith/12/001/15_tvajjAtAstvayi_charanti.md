@@ -2,5 +2,4 @@
 title = "१५ त्वज्जातास्त्वयि चरन्ति"
 
 +++
-त्वज्जा॒तास्त्वयि॑ चरन्ति॒ मर्त्या॒स्त्वं बि॑भर्षि द्वि॒पद॒स्त्वं चतु॑ष्पदः ।  
-तवे॒मे पृ॑थिवि॒ पञ्च॑ मान॒वा येभ्यो॒ ज्योति॑र॒मृतं॒ मर्त्ये॑भ्य उ॒द्यन्त्सूर्यो॑ र॒श्मिभि॑रात॒नोति॑ ॥१५॥  
+Produced from thee, on thee move mortal creatures: thou bearest them, both quadruped and biped. Thine, Prithivi, are these Five human Races, for whom, though mortal, Surya as he rises spreads with his rays the light that is immortal.

@@ -2,5 +2,4 @@
 title = "०३ अग्रमेष्योषधीनां ज्योतिषेवाभिदीपयन्"
 
 +++
-अग्र॑मे॒ष्योष॑धीनां॒ ज्योति॑षेवाभिदी॒पय॑न्।  
-उ॒त त्रा॒तासि॒ पाक॒स्याथो॑ ह॒न्तासि॑ र॒क्षसः॑ ॥३॥  
+Illumining, as 'twere, with light, thou movest at the head of plants. The saviour of the simple man art thou, and slayer of the fiends.

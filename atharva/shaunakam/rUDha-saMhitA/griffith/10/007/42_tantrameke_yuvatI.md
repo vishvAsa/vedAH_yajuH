@@ -2,5 +2,4 @@
 title = "४२ तन्त्रमेके युवती"
 
 +++
-त॒न्त्रमेके॑ युव॒ती विरू॑पे अभ्या॒क्रामं॑ वयतः॒ षण्म॑यूखम्।  
-प्रान्या तन्तूं॑स्ति॒रते॑ ध॒त्ते अ॒न्या नाप॑ वृञ्जाते॒ न ग॑मातो॒ अन्त॑म्॥४२॥  
+Singly the two young Maids of different colours approach the six-pegged warp in turns and weave it. The one draws out the threads, the other lays them: they break them not, they reach no end of labour.

@@ -2,4 +2,4 @@
 title = "६५ एवा त्वं"
 
 +++
-ए॒वा त्वं दे॑व्यघ्न्ये ब्रह्म॒ज्यस्य॑ कृ॒ताग॑सो देवपी॒योर॑रा॒धसः॑ ॥६५॥  
+So, Goddess Cow, do thou from him, the Brahmans' tyrant, criminal, niggard, blasphemer of the Gods,

@@ -2,4 +2,4 @@
 title = "१६ देवजना गुदा"
 
 +++
-दे॒व॒ज॒ना गुदा॑ मनु॒ष्याऽ आ॒न्त्राण्य॒त्रा उ॒दर॑म्॥१६॥  
+The hosts of Gods are her entrails, man are her bowels, and demons her abdomen.

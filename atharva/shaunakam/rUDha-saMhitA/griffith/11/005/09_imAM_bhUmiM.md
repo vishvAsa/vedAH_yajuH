@@ -2,5 +2,4 @@
 title = "०९ इमां भूमिं"
 
 +++
-इ॒मां भूमिं॑ पृथि॒वीं ब्र॑ह्मचा॒री भि॒क्षामा ज॑भार प्रथ॒मो दिवं॑ च ।  
-ते कृ॒त्वा स॒मिधा॒वुपा॑स्ते॒ तयो॒रार्पि॑ता॒ भुव॑नानि॒ विश्वा॑ ॥९॥  
+The Brahmachari first of all brought hither this ample earth as alms, and heaven above it. He makes these twain two fuel-logs, and worships, On these sup- ported rest all living creatures.

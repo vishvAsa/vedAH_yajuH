@@ -2,5 +2,4 @@
 title = "०१ प्रपथे पथामजनिष्ट"
 
 +++
-प्रप॑थे प॒थाम॑जनिष्ट पू॒षा प्रप॑थे दि॒वः प्रप॑थे पृथि॒व्याः ।  
-उ॒भे अ॒भि प्रि॒यत॑मे स॒धस्थे॒ आ च॒ परा॑ च चरति प्रजा॒नन्॥१॥  
+Pushan was born to move on distant pathways, on roads remote from earth, remote from heaven. To both most lovely places of assembly he travels and returns with perfect knowledge.

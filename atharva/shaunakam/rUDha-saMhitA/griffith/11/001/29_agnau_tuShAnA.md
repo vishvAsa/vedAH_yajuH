@@ -2,5 +2,4 @@
 title = "२९ अग्नौ तुषाना"
 
 +++
-अ॒ग्नौ तुषा॒ना व॑प जा॒तवे॑दसि प॒रः क॒म्बूकाँ॒ अप॑ मृड्ढि दू॒रम्।  
-ए॒तं शु॑श्रुम गृहरा॒जस्य॑ भा॒गमथो॑ विद्म॒ निरृ॑तेर्भाग॒धेय॑म्॥२९॥  
+Lay thou the chaff in Agni Jatavedas: remove the husks and drive them to a distance. That, we have heard, that is the House-Lord's portion: we know the share allotted to Destruction.

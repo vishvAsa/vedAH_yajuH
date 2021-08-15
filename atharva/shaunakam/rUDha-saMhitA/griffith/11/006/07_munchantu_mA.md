@@ -2,5 +2,4 @@
 title = "०७ मुञ्चन्तु मा"
 
 +++
-मु॒ञ्चन्तु॑ मा शप॒थ्याऽदहोरा॒त्रे अथो॑ उ॒षाः ।  
-सोमो॑ मा दे॒वो मु॑ञ्चतु॒ यमा॒हुश्च॒न्द्रमा॒ इति॑ ॥७॥  
+From all that brings a curse may Day and Night and Dawn deliver me, May Soma free me, God to whom they give the name of Chan- dramas.

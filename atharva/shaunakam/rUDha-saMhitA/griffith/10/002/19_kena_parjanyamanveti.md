@@ -2,5 +2,4 @@
 title = "१९ केन पर्जन्यमन्वेति"
 
 +++
-केन॑ प॒र्जन्य॒मन्वे॑ति॒ केन॒ सोमं॑ विचक्ष॒णम्।  
-केन॑ य॒ज्ञं च श्र॒द्धां च॒ केना॑स्मि॒न् निहि॑तं॒ मनः॑ ॥१९॥  
+Through whom seeks he Parjanya out, and Soma of the piercing sight? Through whom belief and sacrifice? Through whom was spirit laid in him?

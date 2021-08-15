@@ -2,5 +2,4 @@
 title = "०८ इदमाज्यं घृतवज्जुषाणाः"
 
 +++
-इ॒दमाज्यं॑ घृ॒तव॑ज्जुषा॒णाः काम॑ज्येष्ठा इ॒ह मा॑दयध्वम्।  
-कृ॒ण्वन्तो॒ मह्य॑मसप॒त्नमे॒व॥८॥  
+Accepting this oblation rich with fatness, be joyful here, ye Gods whose chief is Kama, Giving me freedom from mine adversaries.

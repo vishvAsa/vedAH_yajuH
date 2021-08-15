@@ -2,5 +2,4 @@
 title = "३२ स्वावृग् देवस्यामृतं"
 
 +++
-स्वावृ॑ग् दे॒वस्या॒मृतं॒ यदी॒ गोरतो॑ जा॒तासो॑ धारयन्त उ॒र्वी।
-विश्वे॑ दे॒वा अनु॒ तत् ते यजु॑र्गुर्दु॒हे यदेनी॑ दि॒व्यं घृ॒तं॑ वाः ॥३२॥
+When the Cow's nectar wins the God completely, men here below are heaven's and earth's sustainers All the Gods come to this thy heavenly Yajus which from the motley Pair milked oil and water

@@ -2,5 +2,4 @@
 title = "०६ योनाक्ताक्षो अनभ्यक्तो"
 
 +++
-योना॒क्ताक्षो॑ अनभ्य॒क्तो अम॑णि॒वो अहि॑र॒ण्यवः॑ ।  
-अब्र॑ह्मा॒ ब्रह्म॑णः पु॒त्रस्तो॒ता कल्पे॑षु सं॒मिता॑ ॥६॥  
+With unanointed eyes and limbs, wearing no gem or ring of gold. No priest, no Brahman's son is he: these things are ordered in the rules.

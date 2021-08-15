@@ -2,5 +2,4 @@
 title = "०१ उतो अस्यबन्धुकृदुतो"
 
 +++
-उ॒तो अ॒स्यब॑न्धुकृदु॒तो अ॑सि॒ नु जा॑मि॒कृत्।  
-उ॒तो कृ॑त्या॒कृतः॑ प्र॒जां न॒डमि॒वा छि॑न्धि॒ वार्षि॑कम्॥१॥  
+Thou breakest ties of kith and kin, thou causest, too, relation- ship: So bruise the sorcerer's offspring, like a reed that groweth in the Rains.

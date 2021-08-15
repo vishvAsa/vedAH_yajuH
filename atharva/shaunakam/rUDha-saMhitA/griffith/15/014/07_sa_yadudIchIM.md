@@ -2,4 +2,4 @@
 title = "०७ स यदुदीचीं"
 
 +++
-स यदुदी॑चीं॒ दिश॒मनु॒ व्यच॑ल॒द् सोमो॒ राजा॑ भू॒त्वानु॒व्यऽचलत् सप्त॒र्षिभि॑र्हु॒त आहु॑तिमन्ना॒दीं कृ॒त्वा॥७॥  
+He, when he went away to the Fathers, went away having be- come King Yama and having made the exclamation Svadha an eater of food. He who hath this knowledge eats food with the exclamation Svadha as food-eater.

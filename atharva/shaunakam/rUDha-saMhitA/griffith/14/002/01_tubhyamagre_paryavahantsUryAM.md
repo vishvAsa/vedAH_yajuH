@@ -2,5 +2,4 @@
 title = "०१ तुभ्यमग्रे पर्यवहन्त्सूर्यां"
 
 +++
-तुभ्य॒मग्रे॒ पर्य॑वहन्त्सू॒र्यां व॑ह॒तुना॑ स॒ह।  
-स नः॒ पति॑भ्यो जा॒यां दा अग्ने॑ प्र॒जया॑ स॒ह॥१॥  
+For thee with bridal train they first escorted Surya to her home, Give to the husband in return, Agni, the wife with future sons.

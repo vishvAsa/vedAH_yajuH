@@ -2,5 +2,4 @@
 title = "०१ अग्निमीलिष्वावसे गाथाभिः"
 
 +++
-अ॒ग्निमी॑लि॒ष्वाव॑से॒ गाथा॑भिः शी॒रशो॑चिषम्।  
-अ॒ग्निं रा॒ये पु॑रुमील्ह श्रु॒तं नरो॒ऽग्निं सु॑दी॒तये॑ छ॒र्दिः ॥१॥  
+Solicit with your hymns, for aid, Agni the God with piercing flame, For riches famous Agni, Purmilha 'and ye men, Agni to light our dwelling well.

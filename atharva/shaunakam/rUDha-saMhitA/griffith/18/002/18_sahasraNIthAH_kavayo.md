@@ -2,5 +2,4 @@
 title = "१८ सहस्रणीथाः कवयो"
 
 +++
-स॒हस्र॑णीथाः क॒वयो॒ ये गो॑पा॒यन्ति॒ सूर्य॑म्।  
-ऋषी॒न् तप॑स्वतो यम तपो॒जां अपि॑ गच्छतात्॥१८॥  
+Let him, O Yama, go to those Rishis austere, of Fervour born, Skilled in a thousand ways and means, the sages who protect the Sun.

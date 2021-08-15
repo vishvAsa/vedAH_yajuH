@@ -2,5 +2,4 @@
 title = "३७ अयज्ञियो हतवर्चा"
 
 +++
-अ॒य॒ज्ञि॒यो ह॒तव॑र्चा भवति॒ नैने॑न ह॒विरत्त॑वे ।  
-छि॒नत्ति॑ कृ॒ष्या गोर्धना॒द् यं क्र॒व्याद॑नु॒वर्त॑ते ॥३७॥  
+Unholy, splendour-reft is he, his sacrifice unfit to eat. Krayad deprives of tilth of cow, of riches him whom he pursues,

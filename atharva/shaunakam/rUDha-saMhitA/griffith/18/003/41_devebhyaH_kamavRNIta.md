@@ -2,5 +2,4 @@
 title = "४१ देवेभ्यः कमवृणीत"
 
 +++
-दे॒वेभ्यः॒ कम॑वृणीत मृ॒त्युं प्र॒जायै॒ किम॒मृतं॒ नावृ॑णीत ।  
-बृह॒स्पति॑र्य॒ज्ञम॑तनुत॒ ऋषिः॑ प्रि॒यां य॒मस्त॒न्व॑१मा रि॑रेच ॥४१॥  
+Chose he then, death for Gods to be their portion? Why chose he not for men a life eternal? Brihaspati span sacrifice, the Rishi; and Yama yielded up his own dear body.

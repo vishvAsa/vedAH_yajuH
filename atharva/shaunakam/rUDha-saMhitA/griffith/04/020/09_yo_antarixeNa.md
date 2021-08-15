@@ -2,5 +2,4 @@
 title = "०९ यो अन्तरिक्षेण"
 
 +++
-यो अ॒न्तरि॑क्षेण॒ पत॑ति॒ दिवं॒ यश्चा॑ति॒सर्प॑ति ।  
-भूमिं॒ यो मन्य॑ते ना॒थं तं पि॑शा॒चं॑ प्र द॑र्शय ॥९॥
+Make that Pisacha visible, the fiend who flies in middle air, The fiend who glides across the sky, and him who deems the earth his help.

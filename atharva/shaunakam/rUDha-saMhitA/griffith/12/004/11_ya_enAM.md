@@ -2,5 +2,4 @@
 title = "११ य एनां"
 
 +++
-य ए॑नां व॒निमा॒यन्ति॒ तेषां॑ दे॒वकृ॑ता व॒शा।  
-ब्र॒ह्म॒ज्येयं॒ तद॑ब्रुव॒न् य ए॑नां निप्रिया॒यते॑ ॥११॥  
+The God-created Cow belongs to those who come to ask for her. They call it outrage on the priests when one retains her as his own.

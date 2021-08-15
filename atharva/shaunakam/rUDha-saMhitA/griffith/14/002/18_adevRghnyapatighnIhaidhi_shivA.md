@@ -2,5 +2,4 @@
 title = "१८ अदेवृघ्न्यपतिघ्नीहैधि शिवा"
 
 +++
-अदे॑वृ॒घ्न्यप॑तिघ्नी॒हैधि॑ शि॒वा प॒शुभ्यः॑ सु॒यमा॑ सु॒वर्चाः॑ ।  
-प्र॒जाव॑ती वीर॒सूर्दे॒वका॑मा स्यो॒नेमम॒ग्निं गार्ह॑पत्यं सपर्य ॥१८॥  
+No slayer of thy husband or his father, gentle and bright, bring blessing on the cattle. Loving thy husband's father, bring forth heroes. Tend well this household fire: be soft and pleasant.

@@ -2,5 +2,4 @@
 title = "०७ सूर्यं चक्षुषा"
 
 +++
-सूर्यं॒ चक्षु॑षा गच्छ॒ वात॑मा॒त्मना॒ दिवं॑ च॒ गच्छ॑ पृथि॒वीं च॒ धर्म॑भिः ।  
-अ॒पो वा॑ गच्छ॒ यदि॒ तत्र॑ ते हि॒तमोष॑धीषु॒ प्रति॑ तिष्ठा॒ शरी॑रैः ॥७॥  
+The Sun receive thine eye, the wind thy spirit; go, as thy merit is, to earth or heaven. Go, if it be thy lot, unto the waters: go, make thy home in plants with all thy members.

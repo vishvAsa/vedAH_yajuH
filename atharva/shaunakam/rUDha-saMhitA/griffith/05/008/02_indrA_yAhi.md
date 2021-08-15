@@ -2,6 +2,4 @@
 title = "०२ इन्द्रा याहि"
 
 +++
-इन्द्रा या॑हि मे॒ हव॑मि॒दं क॑रिष्यामि॒ तच्छृ॑णु ।  
-इ॒म ऐ॒न्द्रा अ॑तिस॒रा आकू॑तिं॒ सं न॑मन्तु मे ।  
-तेभिः॑ शकेम वी॒र्यं१ जात॑वेद॒स्तनू॑वशिन्॥२॥  
+O Indra, come unto my call, This will I do. So hear it thou. Let these exertions for the sake of Indra guide my wish aright. Therewith, O Jatavedas, Lord of Bodies! may we win us strength.

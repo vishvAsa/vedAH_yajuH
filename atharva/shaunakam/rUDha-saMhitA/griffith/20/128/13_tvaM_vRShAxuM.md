@@ -2,5 +2,4 @@
 title = "१३ त्वं वृषाक्षुं"
 
 +++
-त्वं वृ॑षा॒क्षुं म॑घव॒न्नम्रं॑ म॒र्याकरो॒ रविः॑ ।  
-त्वं रौ॑हि॒णं व्यास्यो॒ वि वृ॒त्रस्याभि॑न॒च्छिरः॑ ॥१३॥  
+Easily conquering Maghavan, thou, Hero, bentest Raji down, Rentest asunder Rauhina, calvest in pieces Vritra's head.

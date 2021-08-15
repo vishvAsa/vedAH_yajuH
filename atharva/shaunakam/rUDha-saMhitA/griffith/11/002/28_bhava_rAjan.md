@@ -2,5 +2,4 @@
 title = "२८ भव राजन्"
 
 +++
-भव॑ राज॒न् यज॑मानाय मृड पशू॒नां हि प॑शु॒पति॑र्ब॒भूथ॑ ।  
-यः श्र॒द्दधा॑ति॒ सन्ति॑ दे॒वा इति॒ चतु॑ष्पदे द्वि॒पदे॑ऽस्य मृड ॥२८॥  
+King Bhava, favour him who offers worship, for thou art Pasupati, Lord of victims. Be gracious to the quadruped and biped of the believer in the Gods' existence.

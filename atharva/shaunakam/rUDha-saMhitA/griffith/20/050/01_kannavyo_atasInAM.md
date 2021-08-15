@@ -2,5 +2,4 @@
 title = "०१ कन्नव्यो अतसीनां"
 
 +++
-कन्नव्यो॑ अत॒सीनां॑ तु॒रो गृ॑णीत॒ मर्त्यः॑ ।  
-न॒ही न्व॑स्य महि॒मान॑मिन्द्रि॒यं स्वर्गृ॒णन्त॑ आन॒शुः ॥१॥  
+What newest of imploring hymns shall, then, the zealous mortal sing? For have not they who laud his might and Indra-power won for themselves the light of heaven?

@@ -2,5 +2,7 @@
 title = "०३ वि रक्षो"
 
 +++
-वि रक्षो॒ वि मृधो॑ जहि वि वृ॒त्रस्य॒ हनू॑ रुज ।  
-वि म॒न्युमि॑न्द्र वृत्रहन्न॒मित्र॑स्याभि॒दास॑तः ॥३॥  
+id
+1.21.3    Strike down the fiend, strike down the foes, b...
+1.21.3    Devatyas that are red of hue, yea, and the rud...
+Name: Comment, dtype: object

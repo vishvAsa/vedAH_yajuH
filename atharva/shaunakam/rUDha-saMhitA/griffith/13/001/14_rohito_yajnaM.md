@@ -2,5 +2,4 @@
 title = "१४ रोहितो यज्ञं"
 
 +++
-रोहि॑तो य॒ज्ञं व्यदधाद् वि॒श्वक॑र्मणे॒ तस्मा॒त् तेजां॒स्युप॑ मे॒मान्यागुः॑ ।  
-वो॒चेयं॑ ते॒ नाभिं॒ भुव॑न॒स्याधि॑ म॒ज्मनि॑ ॥१४॥  
+Rohita ordered sacrifice for Visvakarman: thence have I obta- ined this strength and energy. May I proclaim thee as my kin over the greatness of the world.

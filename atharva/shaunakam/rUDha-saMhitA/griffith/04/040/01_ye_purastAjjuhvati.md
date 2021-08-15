@@ -2,5 +2,4 @@
 title = "०१ ये पुरस्ताज्जुह्वति"
 
 +++
-ये पु॒रस्ता॒ज्जुह्व॑ति जातवेदः॒ प्राच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-अ॒ग्निमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥१॥  
+O Jatavedas, eastward sacrificers, as foes assail us from the eastern quarter. May they, turned back, be pained for harming Agni. I drive them backward with mine incantation.

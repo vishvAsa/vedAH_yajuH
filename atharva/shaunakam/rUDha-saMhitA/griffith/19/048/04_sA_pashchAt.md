@@ -2,5 +2,4 @@
 title = "०४ सा पश्चात्"
 
 +++
-सा प॒श्चात् पा॑हि॒ सा पु॒रः सोत्त॒राद॑ध॒रादु॒त।  
-गो॒पाय॑ नो विभावरि स्तो॒तार॑स्त इ॒ह स्म॑सि ॥४॥  
+So guard thou us from west and east, protect us from the north and south. O splendid One, preserve us: we, the singers of thy praise, are here.

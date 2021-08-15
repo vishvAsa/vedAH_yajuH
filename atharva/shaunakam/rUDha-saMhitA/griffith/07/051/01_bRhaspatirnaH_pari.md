@@ -2,5 +2,4 @@
 title = "०१ बृहस्पतिर्नः परि"
 
 +++
-बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः ।  
-इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरी॑यः॒ कृणोतु ॥१॥
+Brihaspati protect us from the sinner, from rearward, from above, and from below us! May Indra from the front and from the centre, as friend to friends, vouchsafe us room and freedom.

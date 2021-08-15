@@ -2,4 +2,4 @@
 title = "४९ क्षिप्रं वै"
 
 +++
-क्षि॒प्रं वै तस्य॒ वास्तु॑षु॒ वृकाः॑ कुर्वत ऐल॒बम्॥४९॥  
+Quickly the wolves are howling in the habitation where he lived:

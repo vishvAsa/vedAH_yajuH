@@ -2,5 +2,4 @@
 title = "०३ इन्द्रमिद् देवतातय"
 
 +++
-इन्द्र॒मिद् दे॒वता॑तय॒ इन्द्रं॑ प्रय॒त्यऽध्व॒रे।  
-इन्द्रं॑ समी॒के व॒निनो॑ हवामह॒ इन्द्रं॒ धन॑स्य सा॒तये॑ ॥३॥  
+Indra for worship of the Gods, Indra while sacrifice proceeds, Indra as warriors in the battle-shock we call, Indra that we may win the spoil.

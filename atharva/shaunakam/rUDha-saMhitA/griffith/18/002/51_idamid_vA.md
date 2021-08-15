@@ -2,5 +2,4 @@
 title = "५१ इदमिद् वा"
 
 +++
-इ॒दमिद् वा उ॒ नाप॑रं ज॒रस्य॒न्यदि॒तोऽप॑रम्।  
-जा॒या पति॑मिव॒ वास॑सा॒भ्येऽनं भूम ऊर्णुहि ॥५१॥  
+This once,,and at no other time hereafter in a lengthened life: Cover him, as a wife, O Earth, covers her husband with her robe!

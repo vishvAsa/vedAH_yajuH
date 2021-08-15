@@ -2,4 +2,4 @@
 title = "१२ यत् पुरा"
 
 +++
-यत् पु॒रा प॑रि॒वेषात् स्वा॒दमा॒हर॑न्ति पुरो॒डाशा॑वे॒व तौ॥१२॥  
+The food they bring before the general distribution represents the two sacrificial cakes of rice meal.

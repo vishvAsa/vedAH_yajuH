@@ -2,4 +2,4 @@
 title = "०२ देवानामेनं घोरैः"
 
 +++
-दे॒वाना॑मेनं घो॒रैः क्रू॒रैः प्रै॒षैर॑भि॒प्रेष्या॑मि ॥२॥  
+I summon him with the awful cruel orders of the Gods.

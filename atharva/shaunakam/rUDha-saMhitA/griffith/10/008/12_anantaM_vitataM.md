@@ -2,5 +2,4 @@
 title = "१२ अनन्तं विततं"
 
 +++
-अ॒न॒न्तं वित॑तं पुरु॒त्रान॒न्तमन्त॑वच्चा॒ सम॑न्ते ।  
-ते ना॑कपा॒लश्च॑रति विचि॒न्वन् वि॒द्वान् भू॒तमु॒त भव्य॑मस्य ॥१२॥  
+The infinite to every side extended, the finite and the infinite around us, These twain Heaven's Lord divides as he advances, knowing the past hereof and all the future

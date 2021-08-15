@@ -2,5 +2,4 @@
 title = "१६ आथर्वणीराङ्गिरसीर्दैवीर्मनुष्यजा उत"
 
 +++
-आ॒थ॒र्व॒णीरा॑ङ्गिर॒सीर्दैवी॑र्मनुष्य॒जा उ॒त।  
-ओष॑धयः॒ प्र जा॑यन्ते य॒दा त्वं प्रा॑ण॒ जिन्व॑सि ॥१६॥  
+All herbs and plants spring forth and grow when thou, O Prana quickenest, Plants of Atharvan, Angiras, plants of the deities and men.

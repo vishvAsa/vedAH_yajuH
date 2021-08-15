@@ -2,4 +2,7 @@
 title = "०५ विश्वंभर विश्वेन"
 
 +++
-विश्वं॑भर॒ विश्वे॑न मा॒ भर॑सा पाहि॒ स्वाहा॑ ॥५॥
+id
+2.16.5    As Truth and Falsehood have no fear, nor ever ...
+2.16.5    Preserve me with all care. O All-Sustainer! Al...
+Name: Comment, dtype: object

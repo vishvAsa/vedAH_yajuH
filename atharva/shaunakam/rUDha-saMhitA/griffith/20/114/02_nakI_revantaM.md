@@ -2,5 +2,4 @@
 title = "०२ नकी रेवन्तं"
 
 +++
-नकी॑ रे॒वन्तं॑ स॒ख्याय॑ विन्दसे॒ पीय॑न्ति ते सुरा॒श्वः ।  
-य॒दा कृ॒णोषि॑ नद॒नुं समू॑ह॒स्यादित् पि॒तेव॑ हूयसे ॥२॥
+Thou findest not the wealthy man to be thy friend: those scorn thee who are flown with wine. What time thou thunderest and gatherest, then thou, even as a father, art invoked.

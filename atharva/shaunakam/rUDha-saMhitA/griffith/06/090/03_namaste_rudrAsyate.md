@@ -2,5 +2,4 @@
 title = "०३ नमस्ते रुद्रास्यते"
 
 +++
-नम॑स्ते रु॒द्रास्य॑ते॒ नमः॒ प्रति॑हितायै ।  
-नमो॑ विसृ॒ज्यमा॑नायै॒ नमो॒ निप॑तितायै ॥३॥
+Worship to thee, the archer, and O Rudra, to thy levelled shaft! Yea, worship to thine arrow when it left the bow, and when it fell!

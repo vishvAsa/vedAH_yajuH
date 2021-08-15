@@ -2,5 +2,4 @@
 title = "११ तं यज्ञं"
 
 +++
-तं य॒ज्ञं प्रा॒वृषा॒ प्रौक्ष॒न् पुरु॑षं जा॒तम॑ग्र॒शः ।  
-तेन॑ दे॒वा अ॑यजन्त सा॒ध्या वस॑वश्च॒ ये॥११॥  
+That sacrifice, first-born Purusha, they hallowed with the sprink- led Rains. The Deities, the Sadhyas, all the Vasus sacrificed with him.

@@ -2,4 +2,4 @@
 title = "५५ स उपहूतः"
 
 +++
-स उप॑हूतः पृथि॒व्यां भ॑क्षय॒त्युप॑हूत॒स्तस्मि॒न् यत् पृ॑थि॒व्यां वि॒श्वरू॑पम् ।७। ५५॥  
+He having been invited on earth, regales, invited in that, which wears all various forms on earth.

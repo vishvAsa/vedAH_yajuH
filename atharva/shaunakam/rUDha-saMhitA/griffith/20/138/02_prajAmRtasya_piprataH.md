@@ -2,4 +2,4 @@
 title = "०२ प्रजामृतस्य पिप्रतः"
 
 +++
-प्र॒जामृ॒तस्य॒ पिप्र॑तः॒ प्र यद्भर॑न्त॒ वह्न॑यः । विप्रा॑ ऋ॒तस्य॒ वाह॑सा ॥२॥  
+When the priests, strengthening the Son of holy Law, present their gifts, Singers with Order's hymn of praise.

@@ -2,5 +2,4 @@
 title = "०१ शं न"
 
 +++
-शं न॑ इन्द्रा॒ग्नी भ॑वता॒मवो॑भिः॒ शं न॒ इन्द्रा॒वरु॑णा रा॒तह॑व्या ।  
-शमिन्द्रा॒सोमा॑ सुवि॒ताय॒ शं योः शं न॒ इन्द्रा॑पू॒षणा॒ वाज॑सातौ॥१॥  
+Befriend us with their aids Indra and Agni, Indra and Varuna who receive oblations! Indra and Soma give health, wealth and comfort, Indra and Pushan be our strength in battle!

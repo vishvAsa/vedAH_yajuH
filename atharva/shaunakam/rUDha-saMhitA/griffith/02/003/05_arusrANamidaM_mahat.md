@@ -2,5 +2,4 @@
 title = "०५ अरुस्राणमिदं महत्"
 
 +++
-अ॒रु॒स्राण॑मि॒दं म॒हत् पृ॑थि॒व्या अध्युद्भृ॑तम्।  
-तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत्॥५॥  
+Mighty is this wound-healing balm: from out the earth was it produced. This is the cure for morbid flow, this driveth malady away.

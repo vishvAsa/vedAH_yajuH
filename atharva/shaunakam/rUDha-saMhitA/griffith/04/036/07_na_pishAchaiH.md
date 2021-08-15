@@ -2,5 +2,4 @@
 title = "०७ न पिशाचैः"
 
 +++
-न पि॑शा॒चैः सं श॑क्नोमि॒ न स्ते॒नैर्न व॑न॒र्गुभिः॑ ।  
-पि॒शा॒चास्तस्मा॑न्नश्यन्ति॒ यम॒हं ग्राम॑मावि॒शे॥७॥  
+Naught with Pisachas can I do, with thieves, with roamers of the wood. Pisachas flee and vanish from each village as I enter it.

@@ -2,5 +2,4 @@
 title = "३३ यथा बीजमुर्वरायां"
 
 +++
-यथा॒ बीज॑मु॒र्वरा॑यां कृ॒ष्टे फाले॑न॒ रोह॑ति ।  
-ए॒वा मयि॑ प्र॒जा प॒शवोऽन्न॑मन्नं॒ वि रो॑हतु ॥३३॥  
+As, when the plough hath tilled the soil, the seed springs up in. fertile land, Let cattle, progeny, and food of every kind spring up with me.

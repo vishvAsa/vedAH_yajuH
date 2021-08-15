@@ -2,5 +2,4 @@
 title = "०३ अक्षितास्त उपसदोऽक्षिताः"
 
 +++
-अक्षि॑तास्त उप॒सदोऽक्षि॑ताः सन्तु रा॒शयः॑ ।  
-पृ॒णन्तो॒ अक्षि॑ताः सन्त्व॒त्तारः॑ स॒न्त्वक्षि॑ताः ॥३॥
+Exhaustless let thine out-turns be, exhaustless be thy gathered heaps, Exhaustless be thy givers, and exhaustless those who eat of thee.

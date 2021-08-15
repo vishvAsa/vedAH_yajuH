@@ -2,5 +2,4 @@
 title = "०५ येन ऋषयो"
 
 +++
-येन॒ ऋष॑यो ब॒लमद्यो॑तयन् यु॒जा येनासु॑राणा॒मयु॑वन्त मा॒याः ।  
-येना॒ग्निना॑ प॒णीनिन्द्रो॑ जि॒गाय॒ स नो॑ मुञ्च॒त्वंह॑सः ॥५॥  
+With whom as friend the Rishis gave their power new splendour, with whom they kept aloof the Asuras' devices, Agni, with whom Indra subdued the Panis. May he deliver us. from grief and trouble.

@@ -2,4 +2,4 @@
 title = "६७ शुम्भन्तां लोकाः"
 
 +++
-शुम्भ॑न्तां लो॒काः पि॑तृ॒षद॑नाः पितृ॒षद॑ने त्वा लो॒क आ सा॑दयामि ॥६७॥  
+Bright be to thee those worlds where dwell the Fathers! I seat thee in that sphere which they inhabit.

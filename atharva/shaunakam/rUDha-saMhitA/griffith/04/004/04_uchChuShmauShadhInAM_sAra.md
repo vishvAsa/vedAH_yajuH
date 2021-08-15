@@ -2,5 +2,4 @@
 title = "०४ उच्छुष्मौषधीनां सार"
 
 +++
-उच्छुष्मौष॑धीनां॒ सार॑ ऋष॒भाणा॑म्।  
-सं पुं॒सामि॑न्द्र॒ वृष्ण्य॑म॒स्मिन्धे॑हि तनूवशिन्॥४॥  
+Sursum (estote) herbarum vires, taurorum vigor. Tu, Indra, corporis potens, virorum masculum robur in hoc homine depone.

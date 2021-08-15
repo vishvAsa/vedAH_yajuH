@@ -2,5 +2,4 @@
 title = "०८ स्राक्त्येन मणिन"
 
 +++
-स्रा॒क्त्येन॑ म॒णिन॒ ऋषि॑णेव मनी॒षिणा॑ ।  
-अजै॑षं॒ सर्वाः॒ पृत॑ना॒ वि मृ॒धो॑ हन्मि र॒क्षसः॑ ॥८॥  
+With Amulet of Sraktya wood, as with a thoughtful Rishi's aid, In every fight have I prevailed; I smite the foes and Rakshasas.

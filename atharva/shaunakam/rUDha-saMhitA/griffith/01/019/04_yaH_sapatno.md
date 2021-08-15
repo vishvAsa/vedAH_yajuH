@@ -2,5 +2,4 @@
 title = "०४ यः सपत्नो"
 
 +++
-यः स॒पत्नो॒ योऽस॑पत्नो॒ यश्च॑ द्वि॒षन् छपा॑ति नः ।  
-दे॒वास्तं सर्वे॑ धूर्वन्तु॒ ब्रह्म॒ वर्म॒ ममान्त॑रम्॥४॥
+The rival and non-rival, he who in his hatred curses us May all the deities injure him! My nearest, closest mail is prayer.

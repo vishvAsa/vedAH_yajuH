@@ -2,5 +2,4 @@
 title = "२४ आ रोह"
 
 +++
-आ रो॑ह॒ चर्मोप॑ सीदा॒ग्निमे॒ष दे॒वो ह॑न्ति॒ रक्षां॑सि॒ सर्वा॑ ।  
-इ॒ह प्र॒जां ज॑नय॒ पत्ये॑ अ॒स्मै सु॑ज्यै॒ष्ठ्यो भ॑वत् पु॒त्रस्त॑ ए॒षः ॥२४॥  
+Step on the skin and wait upon this Agni: he is the God who drives away all demons. Here bear thou children to this man thy husband: let this thy boy be happy in his birthnight.

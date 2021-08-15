@@ -2,4 +2,4 @@
 title = "०८ तुभ्येदिन्द्र स्व"
 
 +++
-तुभ्येदि॑न्द्र॒ स्व ओ॒क्ये॒३ सोमं॑ चोदामि पी॒तये॑ । ए॒ष रा॑रन्तु ते हृ॒दि॥८॥  
+Indra, for thee in thine own place I urge the Soma for thy draught: Deep in thy heart let it remain.

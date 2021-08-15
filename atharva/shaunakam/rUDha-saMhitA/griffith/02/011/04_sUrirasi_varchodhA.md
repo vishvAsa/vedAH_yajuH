@@ -2,5 +2,4 @@
 title = "०४ सूरिरसि वर्चोधा"
 
 +++
-सू॒रिर॑सि वर्चो॒धा अ॑सि तनू॒पानोऽसि ।  
-आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥४॥  
+A prince art thou, giver of speech, thou art our bodies' strong defence. Reach thy superior, thou; surpass thine equal.

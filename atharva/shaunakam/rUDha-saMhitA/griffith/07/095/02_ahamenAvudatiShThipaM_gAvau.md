@@ -2,5 +2,4 @@
 title = "०२ अहमेनावुदतिष्ठिपं गावौ"
 
 +++
-अ॒हमे॑ना॒वुद॑तिष्ठिपं॑ गावौ॑ श्रान्त॒सदा॑विव ।  
-कु॒र्कु॒रावि॑व॒ कूज॑न्तावु॒दव॑न्तौ॒ वृका॑विव ॥२॥  
+I verily have stirred them up like oxen resting after toil. Like two loud-snarling curs, or like two wolves who watch to make their spring:

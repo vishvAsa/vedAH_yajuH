@@ -2,5 +2,4 @@
 title = "१३ न वा"
 
 +++
-न वा उ॒ सोमो॑ वृजि॒नं हि॑नोति॒ न क्ष॒त्रियं मिथु॒या धा॒रय॑न्तम्।  
-हन्ति॒ रक्षो॒ हन्त्यास॒द् वद॑न्तमु॒भाविन्द्र॑स्य॒ प्रसि॑तौ शयाते ॥१३॥  
+Never doth Soma aid and guide the wicked or him who falsely claims the Warrior's title. He slays the fiend and him who speaks untruly: both lie entan- gled in the noose of Indra.

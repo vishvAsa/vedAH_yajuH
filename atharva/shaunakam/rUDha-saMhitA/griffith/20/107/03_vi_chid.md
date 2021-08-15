@@ -2,4 +2,4 @@
 title = "०३ वि चिद्"
 
 +++
-वि चिद् वृ॒त्रस्य॒ दोध॑तो॒ वज्रे॑ण श॒तप॑र्वणा । शिरो॑ बिभेद् वृ॒ष्णिना॑ ॥३॥  
+The fiercely-moving Vritra's head he severed with his thunder- bolt, His hundred-knotted thunderbolt.

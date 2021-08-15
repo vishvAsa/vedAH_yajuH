@@ -2,5 +2,4 @@
 title = "०४ तिस्रो दिवो"
 
 +++
-ति॒स्रो दि॒वो अत्य॑तृणत् ति॒स्र इ॒माः पृ॑थि॒वीरु॒त॑।  
-त्व॑याहं दु॒र्हार्दो॑ जि॒ह्वां नि तृ॑णद्मि॒ वचां॑सि ॥४॥  
+Through all three skies the plant hath pierced, and the three regions of the earth; With thee I split in twain the tongue and words of the bad- hearted man.

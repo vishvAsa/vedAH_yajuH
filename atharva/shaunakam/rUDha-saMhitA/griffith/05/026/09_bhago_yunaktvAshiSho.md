@@ -2,4 +2,4 @@
 title = "०९ भगो युनक्त्वाशिषो"
 
 +++
-भगो॑ युनक्त्वा॒शिषो॒ न्व॑१स्मा अ॒स्मिन् य॒ज्ञे प्र॑वि॒द्वान् यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥९॥  
+Let Bhaga in this rite use prayers, foreknowing--All hail! for this use well-yoked coursers.

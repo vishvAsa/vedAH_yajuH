@@ -2,4 +2,4 @@
 title = "०१ अधा हीन्द्र"
 
 +++
-अधा॒ ही॑न्द्र गिर्वण॒ उप॑ त्वा॒ कामा॑न् म॒हः स॑सृ॒ज्महे॑ । उ॒देव॒ यन्त॑ उ॒दभिः॑ ॥१॥  
+Now have we, Indra, Friend of Song, sent our great wishes forth to thee. Coming like floods that follow floods.

@@ -2,5 +2,4 @@
 title = "०५ द्यावापृथिवी अनु"
 
 +++
-द्यावा॑पृथिवी॒ अनु॒ मा दी॑धीथां॒ विश्वे॑ देवासो॒ अनु॒ मा र॑भध्वम्।  
-अङ्गि॑रसः॒ पित॑रः॒ सोम्या॑सः पा॒पमार्छ॑त्वपका॒मस्य॑ क॒र्ता॥५॥  
+O Heaven and Earth, regard me with your favour, and, all ye Gods, stand on my side and help me. Angirases, Fathers worthy of the Soma! woe fall on him who, caused the hateful outrage!

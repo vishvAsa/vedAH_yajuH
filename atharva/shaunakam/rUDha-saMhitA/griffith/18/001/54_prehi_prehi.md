@@ -2,5 +2,4 @@
 title = "५४ प्रेहि प्रेहि"
 
 +++
-प्रेहि॒ प्रेहि॑ प॒थिभिः॑ पू॒र्याणै॒र्येना॑ ते॒ पूर्वे॑ पि॒तरः॒ परे॑ताः ।
-उ॒भा राजा॑नौ स्व॒धया॒ मद॑न्तौ य॒मं प॑श्यासि॒ वरु॑णं च दे॒वम्॥५४॥
+Go forth, go forth upon the homeward pathways whither our sires of old have gone before us. Then shalt thou look on both the Kings enjoying their sacred food, God Varuna and Yama.

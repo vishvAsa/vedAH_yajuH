@@ -2,5 +2,4 @@
 title = "०३ अल्गण्डून् हन्मि"
 
 +++
-अ॒ल्गण्डू॑न् हन्मि मह॒ता व॒धेन॑ दू॒ना अदू॑ना अर॒सा अ॑भूवन्।  
-शि॒ष्टानशि॑ष्टा॒न् नि ति॑रामि वा॒चा यथा॒ क्रिमी॑णां॒ नकि॑रु॒च्छिषा॑तै ॥३॥  
+I kill Alandus with a mighty weapon: burnt or not burnt they now have lost their vigour . Left or not left, I with the spell subdue them: let not a single worm remain uninjured.

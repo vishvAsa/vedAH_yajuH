@@ -2,5 +2,4 @@
 title = "०१ उभा जिग्यथुर्न"
 
 +++
-उ॒भा जि॑ग्यथु॒र्न परा॑ जयेथे॒ न परा॑ जिग्ये कत॒रश्च॒नैन॑योः ।  
-इन्द्र॑श्च विष्णो॒ यदप॑स्पृधेथां त्रे॒धा स॒हस्रं॒ वि तदै॑रयेथाम्॥१॥
+Ye twain have conquered, and have not been vanquished: not either of the pair hath been defeated. Ye, Indra Vishnu, when ye fought your battle; produced this infinite with three divisions.

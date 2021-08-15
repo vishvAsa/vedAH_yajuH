@@ -2,4 +2,4 @@
 title = "०२ मधुमती स्थ"
 
 +++
-मधु॑मती स्थ॒ मधु॑मतीं॒ वाच॑मुदेयम्॥२॥  
+Are pleasant. May I obtain a pleasant voice.

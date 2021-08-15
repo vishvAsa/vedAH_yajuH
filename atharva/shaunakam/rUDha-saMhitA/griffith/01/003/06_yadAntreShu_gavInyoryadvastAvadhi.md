@@ -2,5 +2,4 @@
 title = "०६ यदान्त्रेषु गवीन्योर्यद्वस्तावधि"
 
 +++
-यदा॒न्त्रेषु॑ गवी॒न्योर्यद्व॒स्तावधि॒ संश्रु॑तम् ।  
-ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्॥६॥  
+Whate'er hath gathered, as it flowed, in bowels, bladder, or in groins, Thus let the conduit, free from check, pour all its burthen as of old.

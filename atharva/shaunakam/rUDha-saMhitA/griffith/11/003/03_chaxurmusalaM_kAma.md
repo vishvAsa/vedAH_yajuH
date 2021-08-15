@@ -2,4 +2,4 @@
 title = "०३ चक्षुर्मुसलं काम"
 
 +++
-चक्षु॒र्मुस॑लं॒ काम॑ उ॒लूख॑लम् ॥३॥  
+Vision is the pestle, Desire the mortar. 

@@ -2,5 +2,4 @@
 title = "०१ शिवास्त एका"
 
 +++
-शि॒वास्त॒ एका॒ अशि॑वास्त॒ एकाः॒ सर्वा॑ बिभर्षि सुमन॒स्यमा॑नः ।  
-ति॒स्रो वाचो॒ निहि॑ता अ॒न्तर॒स्मिन् तासा॒मेका॒ वि प॑पा॒तानु॒ घोष॑म्॥१॥
+Some of thy words bode weal and some misfortune: thou scat- terest them all with friendly feeling. Deep within this three words are laid: among them one hath flown off even as the sound was uttered.

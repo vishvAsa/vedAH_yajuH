@@ -2,5 +2,4 @@
 title = "०६ न मत्"
 
 +++
-न मत् स्त्री सु॑भ॒सत्त॑रा॒ न सु॒याशु॑तरा भुवत्।  
-न मत् प्रति॑च्यवीयसी॒ न सक्थ्युद्य॑मीयसी॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥६॥  
+No dame hath ampler charms than I, or greater wealth of love's delights. None with more ardour offers all her beauty to her lord's embrace. Supreme is Indra over all.

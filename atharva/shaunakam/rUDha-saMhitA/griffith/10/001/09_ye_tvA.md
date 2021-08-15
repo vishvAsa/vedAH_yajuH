@@ -2,5 +2,4 @@
 title = "०९ ये त्वा"
 
 +++
-ये त्वा॑ कृ॒त्वाले॑भि॒रे वि॑द्व॒ला अ॑भिचा॒रिणः॑ ।  
-शं॒भ्वि॒३दं कृ॑त्या॒दूष॑णं प्रतिव॒र्त्म पु॑नःस॒रं तेन॑ त्वा स्नपयामसि ॥९॥  
+The cunning men, the sorcerers who fashioned thee and held thee fast,-- This cures and mars their witchery, this, repellent, drives it back the way it came. With this we make thee swim.

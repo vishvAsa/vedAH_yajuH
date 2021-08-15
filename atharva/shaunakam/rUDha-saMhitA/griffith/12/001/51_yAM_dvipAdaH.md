@@ -2,6 +2,4 @@
 title = "५१ यां द्विपादः"
 
 +++
-यां द्वि॒पादः॑ प॒क्षिणः॑ सं॒पत॑न्ति हं॒साः सु॑प॒र्णाः श॑कु॒ना वयां॑सि ।  
-यस्यां॒ वातो॑ मात॒रिश्वेय॑ते॒ रजां॑सि कृ॒ण्वंश्च्या॒वयं॑श्च वृ॒क्षान्।  
-वात॑स्य प्र॒वामु॑प॒वामनु॑ वात्य॒र्चिः ॥५१॥  
+To whom the winged bipeds fly together, birds of each various kind, the swans, the eagles; On whom the Wind comes rushing, Matarisvan, rousing the dust and causing trees to tremble, and flame pursues the blast. hither and thither;

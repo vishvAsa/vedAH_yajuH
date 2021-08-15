@@ -2,5 +2,4 @@
 title = "०३ उशन्ति घा"
 
 +++
-उ॒शन्ति॑ घा॒ ते अ॒मृता॑स ए॒तदेक॑स्य चित् त्य॒जसं॒ मर्त्य॑स्य ।
-नि ते॒ मनो॒ मन॑सि धाय्य॒स्मे जन्युः॒ पति॑स्त॒न्व॑१मा वि॑विश्याः ॥३॥
+Yea, this the Immortals seek of thee with longing, a scion of the only man existing. Then let thy soul and mine be knit together. Embrace thy con- sort as her loving husband.

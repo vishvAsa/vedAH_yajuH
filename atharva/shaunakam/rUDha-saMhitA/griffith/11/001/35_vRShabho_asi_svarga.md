@@ -2,5 +2,4 @@
 title = "३५ वृषभोऽसि स्वर्ग"
 
 +++
-वृ॒ष॒भोऽसि स्व॒र्ग ऋषी॑नार्षे॒यान् ग॑च्छ ।  
-सु॒कृतां॑ लो॒के सी॑द॒ तत्र॑ नौ संस्कृ॒तम्॥३५॥  
+Thou art a Bull that mounts to heaven: to Rishis and their off- spring go. Rest in the world of pious men: there is the place prepared for us.

@@ -2,5 +2,4 @@
 title = "०७ अव द्रप्सो"
 
 +++
-अव॑ द्र॒प्सो अं॑शु॒मती॑मतिष्ठदिया॒नः कृ॒ष्णो द॒शभिः॑ स॒हस्रैः॑ ।  
-आव॒त्तमिन्द्रः॒ शच्या॒ धम॑न्त॒मप॒स्नेहि॑तीर्नृ॒मणा॑ अधत्त ॥७॥  
+The black drop sank in Ansumati's bosom, advancing with ten thousand round about it. Indra with might longed for it as it panted: the hero-hearted laid aside his weapons.

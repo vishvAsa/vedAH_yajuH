@@ -2,5 +2,4 @@
 title = "०१ भद्रादधि श्रेयः"
 
 +++
-भ॒द्रादधि॒ श्रेयः॒ प्रेहि॒ बृह॒स्पतिः॑ पुरए॒ता ते॑ अस्तु ।  
-अथे॒मम॒स्या वर॒ आ पृ॑थि॒व्या आ॒रेश॑त्रुं कृणुहि॒ सर्व॑वीरम्॥१॥
+Go forward on thy way from good to better: Brihaspati pre- cede thy steps and guide thee! Place this man here, within this earth's enclosure, afar from foes with all his men about him.

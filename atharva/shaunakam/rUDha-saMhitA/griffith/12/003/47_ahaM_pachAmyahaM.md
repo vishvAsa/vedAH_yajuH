@@ -2,5 +2,4 @@
 title = "४७ अहं पचाम्यहं"
 
 +++
-अ॒हं प॑चाम्य॒हं द॑दामि॒ ममेदु॒ कर्म॑न्क॒रुणेऽधि॑ जा॒या।  
-कौमा॑रो लो॒को अ॑जनिष्ट पु॒त्रो॒३न्वार॑भेथां॒ वय॑ उत्त॒राव॑त्॥४७॥  
+I cook the offering, I present oblation: only my wife attends the holy service. A youthful world, a son hath been begotten. Begin a life that brings success and triumph.

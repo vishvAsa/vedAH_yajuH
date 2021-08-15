@@ -2,5 +2,4 @@
 title = "२७ आशिषश्च प्रशिषश्च"
 
 +++
-आ॒शिष॑श्च प्र॒शिष॑श्च सं॒शिषो॑ वि॒शिष॑श्च॒ याः ।  
-चि॒त्तानि॒ सर्वे॑ संक॒ल्पाः शरी॑र॒मनु॒ प्रावि॑शन्॥२७॥  
+All earnest wishes, all commands, directions, and admonish- ments. Reflections, all deliberate plans entered the body as a home.

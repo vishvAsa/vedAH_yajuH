@@ -2,5 +2,4 @@
 title = "०७ उप श्रेष्ठा"
 
 +++
-उप॒ श्रेष्ठा॑ न आ॒शिषो॑ दे॒वयो॒र्धाम॑न्नस्थिरन्।  
-स्तौमि॑ दे॒वं स॑वि॒तारं॑ च वा॒युं तौ नो॑ मुञ्चत॒मंह॑सः ॥७॥
+Like noblest benisons they have stayed in the God loving man's abode. I glorify bright Savitar and Vayu. Deliver us, ye twain, from grief and trouble.

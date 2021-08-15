@@ -2,5 +2,4 @@
 title = "०४ वि ते"
 
 +++
-वि ते॒ मदं॑ मदावति श॒रमि॑व पातयामसि ।  
-प्र त्वा॑ च॒रुमि॑व॒ येष॑न्तं॒ वच॑सा स्थापयामसि ॥४॥  
+Intoxicater! like a shaft we make thy spirit fly away, Like a pot boiling on the fire, we with our word remove thee hence.

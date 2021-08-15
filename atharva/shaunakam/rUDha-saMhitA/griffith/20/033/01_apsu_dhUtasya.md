@@ -2,5 +2,4 @@
 title = "०१ अप्सु धूतस्य"
 
 +++
-अ॒प्सु धू॒तस्य॑ हरिवः॒ पिबे॒ह नृभिः॑ सु॒तस्य॑ ज॒ठरं॑ पृणस्व ।  
-मि॒मि॒क्षुर्यमद्र॑य इन्द्र॒ तुभ्यं॒ तेभि॑र्वर्धस्व॒ मद॑मुक्थवाहः ॥१॥  
+Drink of the juice which men have washed in waters and fill the- full, O Lord of tawny horses. O Indra, hearer of the laud, with Soma which stones have mix- ed for thee enhance thy rapture.

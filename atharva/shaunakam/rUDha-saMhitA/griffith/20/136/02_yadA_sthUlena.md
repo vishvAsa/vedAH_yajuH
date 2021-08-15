@@ -2,5 +2,4 @@
 title = "०२ यदा स्थूलेन"
 
 +++
-यदा॑ स्थू॒लेन॒ पस॑साणौ मु॒ष्का उपा॑वधीत्।  
-विष्व॑ञ्चा व॒स्या वर्ध॑तः॒ सिक॑तास्वेव॒ गर्द॑भौ ॥२॥  
+Quum magno pene parvula ejus pudenda vir percutit, huc et illuc ilia increscunt veluti duo asini in solo arenoso.

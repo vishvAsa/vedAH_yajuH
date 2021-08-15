@@ -2,5 +2,4 @@
 title = "५८ प्र त्वा"
 
 +++
-प्र त्वा॑ मुञ्चामि॒ वरु॑णस्य॒ पाशा॒द् येन॒ त्वाब॑ध्नात् सवि॒ता सु॒शेवाः॑ ।  
-उ॒रुं लो॒कं सु॒गमत्र॒ पन्थां॑ कृ॒णोमि॒ तुभ्यं॑ स॒हप॑त्न्यै वधु ॥५८॥  
+Now from the bond of Varuna I loose thee, wherein the blessed Savitar hath bound thee. O bride, I give thee here beside thy husband fair space and room and pleasant paths to travel.

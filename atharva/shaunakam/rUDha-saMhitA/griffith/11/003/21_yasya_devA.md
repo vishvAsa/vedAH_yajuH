@@ -2,4 +2,4 @@
 title = "२१ यस्य देवा"
 
 +++
-यस्य॑ दे॒वा अक॑ल्प॒न्तोच्छि॑ष्टे॒ षड॑शी॒तयः॑ ॥२१॥  
+Within the residue whereof the Gods arranged six eightieth parts--

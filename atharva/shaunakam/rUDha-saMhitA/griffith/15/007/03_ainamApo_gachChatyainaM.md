@@ -2,4 +2,4 @@
 title = "०३ ऐनमापो गच्छत्यैनं"
 
 +++
-ऐन॒मापो॑ गच्छ॒त्यैनं॑ श्र॒द्धा ग॑च्छ॒त्यैनं॑ व॒र्षं ग॑च्छति॒ य ए॒वं वेद॑ ॥३॥  
+The Waters, Faith, and rain approach him who possesses this knowledge.

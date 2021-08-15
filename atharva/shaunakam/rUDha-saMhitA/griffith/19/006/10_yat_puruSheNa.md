@@ -2,5 +2,4 @@
 title = "१० यत् पुरुषेण"
 
 +++
-यत् पुरु॑षेण ह॒विषा॑ दे॒वा य॒ज्ञमत॑न्वत ।  
-व॒स॒न्तो अ॑स्यासी॒दाज्यं॑ ग्री॒ष्म इ॒ध्मः श॒रद्ध॒विः ॥१०॥  
+When Gods performed the sacrifice with Purusha as their offering. Spring was the butter, summer was the fuel, autumn was the gift.

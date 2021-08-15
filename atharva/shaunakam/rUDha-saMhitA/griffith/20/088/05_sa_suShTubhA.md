@@ -2,5 +2,4 @@
 title = "०५ स सुष्टुभा"
 
 +++
-स सु॒ष्टुभा॒ स ऋक्व॑ता ग॒णेन॑ व॒लं रु॑रोज फलि॒गं रवे॑ण ।  
-बृह॒स्पति॑रु॒स्रिया॑ हव्य॒सूदः॒ कनि॑क्रद॒द् वाव॑शती॒रुदा॑जत्॥५॥  
+With the loud-shouting band who sang his praises, with thunder, he destroyed malignant Vala. Brihaspati thundering drave forth the cattle, the lowing cows who make oblations ready.

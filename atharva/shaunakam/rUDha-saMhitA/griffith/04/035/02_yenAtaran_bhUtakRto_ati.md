@@ -2,5 +2,4 @@
 title = "०२ येनातरन् भूतकृतोऽति"
 
 +++
-येनात॑रन् भूत॒कृतोऽति॑ मृ॒त्युं यम॒न्ववि॑द॒न् तप॑सा॒ श्रमे॑ण ।  
-यं प॒पाच॑ ब्र॒ह्मणे॒ ब्रह्म॒ पूर्वं॒ तेनौ॑द॒नेनाति॑ तराणि मृ॒त्युम्॥२॥  
+Whereby the World-Creators vanquished Mrityu, that which they found by fervour, toil and trouble, That which prayer first made ready for the Brahman,--I with this Odana will conquer Mrityu.

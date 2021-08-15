@@ -2,5 +2,4 @@
 title = "०८ मस्तिष्कमस्य यतमो"
 
 +++
-म॒स्तिष्क॑मस्य यत॒मो ल॒लाटं॑ क॒काटि॑कां प्रथ॒मो यः क॒पाल॑म्।  
-चि॒त्वा चित्यं॒ हन्वोः॒ पूरु॑षस्य॒ दिवं॑ रुरोह कत॒मः स दे॒वः ॥८॥  
+Who was he, first, of all the Gods who fashioned his skull and brain and occiput and forehead, The pile that Purusha's two jaws supported? Who was that God who mounted up to heaven?

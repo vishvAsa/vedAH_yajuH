@@ -2,4 +2,4 @@
 title = "१३ स मा"
 
 +++
-स मा जी॑वी॒त् तं प्रा॒णो ज॑हातु ॥१३॥
+Let him not live. Let the breath of life forsake him.

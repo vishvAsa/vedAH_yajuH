@@ -2,5 +2,4 @@
 title = "०४ सोमं राजानमवसेऽग्निं"
 
 +++
-सोमं॒ राजा॑न॒मव॑से॒ऽग्निं गी॒र्भिर्ह॑वामहे ।  
-आ॒दि॒त्यं विष्णुं॒ सूर्यं॑ ब्र॒ह्माणं॑ च॒ बृह॒स्पति॑म्॥४॥  
+We call King Soma to our aid, and Agni with our songs and. hymn, The Adityas, Vishnu, Surya, and the Brahman-priest Brihaspati.

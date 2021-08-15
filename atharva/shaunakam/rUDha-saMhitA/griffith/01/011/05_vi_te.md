@@ -2,5 +2,4 @@
 title = "०५ वि ते"
 
 +++
-वि ते॑ भिनद्मि॒ मेह॑नं॒ वि योनिं॒ वि ग॒वीनि॑के ।  
-वि मा॒तरं॑ च पु॒त्रं च॒ वि कु॑मा॒रं ज॒रायु॒णाव॑ ज॒रायु॑ पद्यताम्॥५॥  
+Diffindo tuum urinae ductum, diffindo vaginam, diffindo inguina. Matrem natumque divido, puerum a placenta divido: decidat placenta.

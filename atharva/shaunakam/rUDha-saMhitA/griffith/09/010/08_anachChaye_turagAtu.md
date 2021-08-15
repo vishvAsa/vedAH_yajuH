@@ -2,5 +2,4 @@
 title = "०८ अनच्छये तुरगातु"
 
 +++
-अ॒नच्छ॑ये तु॒रगा॑तु जी॒वमेज॑द् ध्रु॒वं मध्य॒ आ प॒स्त्याऽनाम्।  
-जी॒वो मृ॒तस्य॑ चरति स्व॒धाभि॒रम॑र्त्यो॒ मर्त्ये॑ना॒ सयो॑निः ॥८॥  
+That which hath breath and life and speed and motion lies firmly stablished in the midst of houses. The living moves by powers of the departed: the immortal is the brother of the mortal.

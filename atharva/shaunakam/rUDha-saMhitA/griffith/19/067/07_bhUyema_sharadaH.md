@@ -2,4 +2,4 @@
 title = "०७ भूयेम शरदः"
 
 +++
-भूये॑म श॒रदः॑ श॒तम्॥७॥  
+A hundred autumns may we bide.

@@ -2,5 +2,4 @@
 title = "२० अन्तर्गर्भश्चरति देवतास्वाभूतो"
 
 +++
-अ॒न्तर्गर्भ॑श्चरति दे॒वता॒स्वाभू॑तो भू॒तः स उ॑ जायते॒ पुनः॑ ।  
-स भू॒तो भव्यं॑ भवि॒ष्यत् पि॒ता पु॒त्रं प्र वि॑वेशा॒ शची॑भिः ॥२०॥  
+Filled with a babe, mid deities he wanders: grown; near at hand, he springs again to being. That Father, grown the present and the future, hath past into the son with mighty powers.

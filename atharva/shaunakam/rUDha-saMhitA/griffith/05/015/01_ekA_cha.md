@@ -2,5 +2,4 @@
 title = "०१ एका च"
 
 +++
-एका॑ च मे॒ दश॑ च मे ऽपव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥१॥  
+Plant! I have those who shall avert the threatened danger, ten and one. O sacred Plant, produced aright! make sweetness, sweet thy self, for me.

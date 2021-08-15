@@ -2,5 +2,4 @@
 title = "०९ अश्वस्यास्नः संपतिता"
 
 +++
-अश्व॑स्या॒स्नः संप॑तिता॒ सा वृ॒क्षां अ॒भि सि॑ष्यदे ।  
-स॒रा प॑त॒त्रिणी॑ भू॒त्वा सा न॒ एह्य॑रुन्धति ॥९॥
+Issuing from the horse's blood away she glided to the trees. Become a winged water-brook, and come to us, Arundhati!

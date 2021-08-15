@@ -2,5 +2,4 @@
 title = "०५ अस्मा इदु"
 
 +++
-अ॒स्मा इदु॒ सप्ति॑मिव श्रव॒स्येन्द्रा॑या॒र्कं जु॒ह्वा॒३सम॑ञ्जे ।  
-वी॒रं दा॒नौक॑सं व॒न्दध्यै॑ पु॒रां गू॒र्तश्र॑वसं द॒र्माण॑म्॥५॥  
+So with my tongue I deck, to please that Indra, my hymn as't- were a horse, through love of glory, To reverence the Hero, bounteous Giver, famed far and wide, destroyer of the castles.

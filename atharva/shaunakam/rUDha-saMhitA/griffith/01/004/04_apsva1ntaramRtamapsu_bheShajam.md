@@ -2,5 +2,4 @@
 title = "०४ अप्स्व१न्तरमृतमप्सु भेषजम्"
 
 +++
-अ॒प्स्व॑१न्तर॒मृत॑म॒प्सु भे॑ष॒जम्।  
-अ॒पामु॒त प्रश॑स्तिभि॒रश्वा॒ भव॑थ वा॒जिनो॒ गावो॑ भवथ वा॒जिनीः॑ ॥४॥
+Amrit is in the Waters, in the Waters balm. Yea, through our praises of the Floods, O horses, be ye fleet and strong, and, O ye kine, be full of strength.

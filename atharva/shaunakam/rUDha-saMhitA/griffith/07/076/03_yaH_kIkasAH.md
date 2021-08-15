@@ -2,5 +2,4 @@
 title = "०३ यः कीकसाः"
 
 +++
-यः कीक॑साः प्रशृ॒णाति॑ तली॒द्यऽमव॒तिष्ठ॑ति ।  
-निर्हा॒स्तं सर्वं॑ जा॒यान्यं॒ यः कश्च॑ क॒कुदि॑ श्रि॒तः ॥३॥  
+I have expelled and banished all Scrofula harboured in the head, And that which bores the breast-bone through, and that which settles in the sole.

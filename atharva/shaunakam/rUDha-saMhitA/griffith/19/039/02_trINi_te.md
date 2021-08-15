@@ -2,6 +2,4 @@
 title = "०२ त्रीणि ते"
 
 +++
-त्रीणि॑ ते कुष्ठ॒ नामा॑नि नद्यमा॒रो न॒द्यारि॑षः ।  
-नद्या॒यं पुरु॑षो रिषत्।  
-यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥२॥  
+Kushtha, three several names hast thou, Naghamara, Nagharisha: let not mishap befall this man, For whom I make a charm of thee at eve, at morning, and by day.

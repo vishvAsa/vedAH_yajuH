@@ -2,5 +2,4 @@
 title = "०३ एषामहं समासीनानां"
 
 +++
-ए॒षाम॒हं स॒मासी॑नानां॒ वर्चो॑ वि॒ज्ञान॒मा द॑दे ।  
-अ॒स्याः सर्व॑स्याः सं॒सदो॒ मामि॑न्द्र भ॒गिनं॑ कृणु ॥३॥  
+Of these men seated here I make the splendour and the lore mine own. Indra, make me conspicuous in all this gathered company.

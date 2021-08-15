@@ -2,5 +2,4 @@
 title = "०८ अप्रपाणा च"
 
 +++
-अप्र॑पा॒णा च॑ वेश॒न्ता रे॒वां अप्रति॑दिश्ययः ।  
-अय॑भ्या क॒न्या कल्या॒णी तो॒ता कल्पे॑षु सं॒मिता॑ ॥८॥  
+Pools with no place for drinking, and the wealthy man who. giveth naught, The pretty girl you may not touch, these things are ordered in: the rules.

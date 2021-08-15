@@ -2,5 +2,4 @@
 title = "२२ यमबध्नाद् बृहस्पतिर्देवेभ्यो"
 
 +++
-यमब॑ध्ना॒द् बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
-स मा॒यं म॒णिराग॑म॒द् रसे॑न स॒ह वर्च॑सा ॥२२॥  
+The Amulet Brihaspati formed for the Gods, that slew the fiends. That Amulet here hath come to me combined with sap and energy.

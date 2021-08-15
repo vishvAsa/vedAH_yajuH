@@ -2,5 +2,4 @@
 title = "०४ यदा वज्रं"
 
 +++
-य॒दा वज्रं॒ हिर॑ण्य॒मिदथा॒ रथं॒ हरी॒ यम॑स्य॒ वह॑तो॒ वि सू॒रिभिः॑ ।  
-आ ति॑ष्ठति म॒घवा॒ सन॑श्रुत॒ इन्द्रो॒ वाज॑स्य दी॒र्घश्र॑वस॒स्पतिः॑ ॥४॥  
+When, with the Princes, Maghavan, famed of old, comes nigh the thunderbolt of gold and the Controller's car Which his two tawny coursers draw, then Indra is the Sovran Lord of power whose fame spreads far and wide.

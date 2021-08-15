@@ -2,5 +2,4 @@
 title = "२० अथर्वाणो अबध्नताथर्वणा"
 
 +++
-अथ॑र्वाणो अबध्नताथर्व॒णा अ॑बध्नत ।  
-तौर्मे॒दिनो॒ अङ्गि॑रसो॒ दस्यू॑नां बिभिदुः॒ पुर॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥२०॥  
+Atharvan made the Amulet, Atharvan's children fashioned it. With them the sage Angirases broke through the Dasyus' fortresses. With this subdue thine enemies.

@@ -2,5 +2,4 @@
 title = "०५ शिवो वो"
 
 +++
-शि॒वो वो॑ गो॒ष्ठो भ॑वतु शारि॒शाके॑व पुष्यत ।  
-इ॒हैवोत प्र जा॑यध्वं॒ मया॑ वः॒ सं सृ॑जामसि ॥५॥  
+Auspicious be this stall to you. Prosper like cultivated rice. Even here increase and multiply. Myself do we bestow on you.

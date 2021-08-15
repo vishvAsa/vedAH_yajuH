@@ -2,5 +2,4 @@
 title = "१५ स्त्रियः सतीस्ताँ"
 
 +++
-स्त्रियः॑ स॒तीस्ताँ उ॑ मे पुं॒सः आ॑हुः॒ पश्य॑दक्ष॒ण्वान् न वि चे॑तद॒न्धः ।  
-क॒विर्यः पु॒त्रः स ई॒मा चि॑केत॒ यस्ता वि॑जा॒नात् स पि॒तुष्पि॒तास॑त्॥१५॥  
+They told me these were males, though truly females. He who hath eyes sees this, the blind discerns not. The son who is a sage hath comprehended: who knows this rightly is his father's father.

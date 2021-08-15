@@ -2,5 +2,4 @@
 title = "१६ अयमिद् वै"
 
 +++
-अ॒यमिद् वै प्र॑तीव॒र्त ओज॑स्वान् संज॒यो म॒णिः ।  
-प्र॒जां धनं॑ च रक्षतु परि॒पाणः॑ सुम॒ङ्गलः ॥१६॥  
+Verily let this Amulet, circular, potent, conquering, Happy and fortunate defence, preserve thy children and thy wealth.

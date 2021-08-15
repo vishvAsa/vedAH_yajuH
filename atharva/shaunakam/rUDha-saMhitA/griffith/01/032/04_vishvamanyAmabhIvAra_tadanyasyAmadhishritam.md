@@ -2,5 +2,4 @@
 title = "०४ विश्वमन्यामभीवार तदन्यस्यामधिश्रितम्"
 
 +++
-विश्व॑म॒न्याम॑भी॒वार॒ तद॒न्यस्या॒मधि॑श्रि॒तम्।  
-दि॒वे च॑ वि॒श्ववे॑दसे पृथि॒व्यै चा॑करं॒ नमः॑ ॥४॥
+This All hath compassed round the one, and on the other lies at rest. To Earth and all-possessing Heaven mine adoration have I paid.

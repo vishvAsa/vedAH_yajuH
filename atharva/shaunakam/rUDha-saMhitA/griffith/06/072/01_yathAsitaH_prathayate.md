@@ -2,5 +2,4 @@
 title = "०१ यथासितः प्रथयते"
 
 +++
-यथा॑सि॒तः प्र॒थय॑ते॒ वशाँ॒ अनु॒ वपूं॑षि कृ॒ण्वन्नसु॑रस्य मा॒यया॑ ।  
-ए॒वा ते॒ शेपः॒ सह॑सा॒यम॒र्कोऽङ्गे॒नाङ्गं॒ संस॑मकं कृणोतु ॥१॥  
+Sicut anguis niger ad voluntatem se extendit, Asurarum arte magica formas novas efficiens, sic fascinum tuum, partem cum parte, conjunctum, hic hymnus efficiat.

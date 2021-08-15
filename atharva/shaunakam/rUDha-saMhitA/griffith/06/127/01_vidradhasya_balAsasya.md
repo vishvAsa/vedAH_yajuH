@@ -2,5 +2,4 @@
 title = "०१ विद्रधस्य बलासस्य"
 
 +++
-वि॒द्र॒धस्य॑ ब॒लास॑स्य॒ लोहि॑तस्य वनस्पते ।  
-वि॒सल्प॑कस्योषधे॒ मोच्छि॑षः पिशि॒तं च॒न॥१॥  
+Of abscess, of decline, of inflammation of the eyes. O Plant, Of penetrating pain, thou Herb, let not a particle remain.

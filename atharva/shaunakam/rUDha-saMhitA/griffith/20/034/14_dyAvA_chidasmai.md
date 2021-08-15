@@ -2,5 +2,4 @@
 title = "१४ द्यावा चिदस्मै"
 
 +++
-द्यावा॑ चिदस्मै पृथि॒वी न॑मेते॒ शुष्मा॑च्चिदस्य॒ पर्व॑ता भयन्ते ।  
-यः सो॑म॒पा नि॑चि॒तो वज्र॑बाहु॒र्यो वज्र॑हस्तः॒ स ज॑नास॒ इन्द्रः॑ ॥१४॥  
+Heaven, even, and the earth bow down before him, before his very breath the mountains tremble. Known as the Soma-drinker, armed with thunder, the wielder of the bolt, He, men, is Indra.

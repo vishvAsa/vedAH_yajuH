@@ -2,5 +2,4 @@
 title = "०२ स विश्वा"
 
 +++
-स विश्वा॑ प्रति॑ चाक्लृप ऋ॒तूंरुत् सृ॑जते व॒शी।  
-य॒ज्ञस्य॒ वय॑ उत्ति॒रन्॥२॥  
+He hath directed all things; he sends forth the Seasons in his might, furthering sacrifice's power.

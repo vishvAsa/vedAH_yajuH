@@ -2,4 +2,4 @@
 title = "०१ यद्येकवृषोऽसि सृजारसोऽसि"
 
 +++
-यद्ये॑कवृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥१॥  
+Bull! if thou art the single bull, beget. Thou hast no vital sap.

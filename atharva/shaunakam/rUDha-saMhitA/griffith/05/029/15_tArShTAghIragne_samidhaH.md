@@ -2,5 +2,4 @@
 title = "१५ तार्ष्टाघीरग्ने समिधः"
 
 +++
-ता॒र्ष्टा॒घीर॑ग्ने स॒मिधः॒ प्रति॑ गृह्णाह्य॒र्चिषा॑ ।  
-जहा॑तु क्र॒व्याद् रू॒पं यो अ॑स्य मां॒सं जिही॑र्षति ॥१५॥
+Accept, O Agni, with thy flame the billets of Tarshtagha wood. Let the flesh-eater who would take the flesh of this man lose his form.

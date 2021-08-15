@@ -2,5 +2,4 @@
 title = "२३ सर्वे गर्भादवेपन्त"
 
 +++
-सर्वे॒ गर्भा॑दवेपन्त॒ जाय॑मानादसू॒स्वः ।  
-स॒सूव॒ हि तामा॒हुव॒शेति॒ ब्रह्म॑भिः क्लृप्तः स ह्यऽस्या॒ बन्धुः॑ ॥२३॥  
+All trembled at the babe that came from him who brings not to the birth. He hath produced her--thus they cried--He is a cow, and formed by spells, he hath become skin to her.

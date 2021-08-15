@@ -2,5 +2,4 @@
 title = "०४ हिरण्ययेन पुरुभू"
 
 +++
-हि॒र॒ण्यये॑न पुरुभू॒ रथे॑ने॒मं य॒ज्ञं ना॑स॒त्योप॑ यातम्।  
-पिबा॑थ॒ इन्मधु॑नः सो॒म्यस्य॒ दध॑थो॒ रत्नं॑ विध॒ते जना॑य ॥४॥  
+Borne on your golden car, ye omnipresent! come to this sacrifice of ours, Nasatyas. Drink of the pleasant liquor of the Soma: give riches to the people who adore you.

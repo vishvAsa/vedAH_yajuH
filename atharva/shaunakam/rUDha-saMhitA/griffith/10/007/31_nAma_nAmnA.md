@@ -2,5 +2,4 @@
 title = "३१ नाम नाम्ना"
 
 +++
-नाम॒ नाम्ना॑ जोहवीति पु॒रा सूर्या॑त् पु॒रोषसः॑ ।  
-यद॒जः प्र॑थ॒मं सं॑ब॒भूव॒ स ह॒ तत् स्व॒राज्य॑मियाय॒ यस्मा॒न्नान्यत् पर॒मस्ति॑ भू॒तम्॥३१॥  
+Ere sun and dawn man calls and calls one Deity by the other's name. When the Unborn first sprang into existence he reached that independent sovran lordship; than which aught higher never hath arisen.

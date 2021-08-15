@@ -2,5 +2,4 @@
 title = "१२ इन्द्रो मह्ना"
 
 +++
-इन्द्रो॑ म॒ह्ना म॑ह॒तो अ॑र्ण॒वस्य॒ वि मू॒र्धान॑मभिनदर्बु॒दस्य॑ ।  
-अह॒न्नहि॒मरि॑णात् सप्त सिन्धू॑न् दे॒वैर्द्या॑वापृथिवी॒ प्राव॑तं नः ॥१२॥
+Indra with mighty strength hath cleft asunder the head of Arbuda the watery monster, Slain Ahi, and set free the Seven Rivers. O Heaven and Earth, with all the Gods, protect us.

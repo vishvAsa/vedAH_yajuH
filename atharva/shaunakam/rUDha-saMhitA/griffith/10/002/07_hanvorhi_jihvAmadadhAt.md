@@ -2,5 +2,4 @@
 title = "०७ हन्वोर्हि जिह्वामदधात्"
 
 +++
-हन्वो॒र्हि जि॒ह्वामद॑धात् पुरू॒चीमधा॑ म॒हीमधि॑ शिश्राय॒ वाच॑म्।  
-स आ व॑रीवर्ति॒ भुव॑नेष्व॒न्तर॒पो वसा॑नः॒ क उ॒ तच्चि॑केत ॥७॥  
+He set within the jaws the tongue that reaches far, and thereon placed Speech the mighty Goddess. He wanders to and fro mid living creatures, robed in the waters. Who hath understood it?

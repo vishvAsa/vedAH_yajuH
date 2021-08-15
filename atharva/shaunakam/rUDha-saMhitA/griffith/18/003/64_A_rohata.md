@@ -2,5 +2,4 @@
 title = "६४ आ रोहत"
 
 +++
-आ रो॑हत॒ दिव॑मुत्त॒मामृष॑यो॒ मा बि॑भीतन ।  
-सोम॑पाः॒ सोम॑पायिन इ॒दं वः॑ क्रियते ह॒विरग॑न्म॒ ज्वोति॑रुत्त॒मम्॥६४॥  
+Mount and ascend to highest heaven, O Rishis: be ye not afraid. Soma-drinkers to you is paid this Soma-lover's sacrifice. We have attained the loftiest light.

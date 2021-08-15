@@ -2,5 +2,4 @@
 title = "१९ सीसे मृड्ढ्वं"
 
 +++
-सीसे॑ मृड्ढ्वं न॒डे मृ॑ड्ढ्वम॒ग्नौ संक॑सुके च॒ यत्।  
-अथो॒ अव्यां॑ रा॒मायां॑ शी॒र्षक्तिमु॑प॒बर्ह॑णे ॥१९॥  
+Wipe all away on lead and reed, on Agni, him who breaketh up, Then on a black-hued sheep, and on a cushion pain that racks. the head,

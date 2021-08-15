@@ -2,5 +2,4 @@
 title = "०५ उत् तिष्ठ"
 
 +++
-उत् ति॑ष्ठ॒ त्वं दे॑वज॒नार्बु॑दे॒ सेन॑या स॒ह।  
-भ॒ञ्जन्न॒मित्रा॑णां॒ सेनां॑ भो॒गेभिः॒ परि॑ वारय ॥५॥  
+Rise with our army stand thou up. O Godlike Being, Arbudi. Breaking the hosts of enemies, surround them with thy winding coils.

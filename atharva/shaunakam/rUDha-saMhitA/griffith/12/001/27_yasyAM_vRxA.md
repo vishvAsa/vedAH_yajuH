@@ -2,5 +2,4 @@
 title = "२७ यस्यां वृक्षा"
 
 +++
-यस्यां॑ वृ॒क्षा वा॑नस्प॒त्या ध्रु॒वास्तिष्ठ॑न्ति वि॒श्वहा॑ ।  
-पृ॒थि॒वीं वि॒श्वधा॑यसं धृ॒ताम॒च्छाव॑दामसि ॥२७॥  
+Hither we call the firmly held, the all-supporting Prithivi, On whom the trees, lords of the wood, stand evermore immov- able.

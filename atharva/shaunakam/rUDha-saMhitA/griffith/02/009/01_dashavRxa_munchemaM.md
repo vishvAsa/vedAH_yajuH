@@ -2,5 +2,4 @@
 title = "०१ दशवृक्ष मुञ्चेमं"
 
 +++
-दश॑वृक्ष मु॒ञ्चेमं रक्ष॑सो॒ ग्राह्या॒ अधि॒ यैनं॑ ज॒ग्राह॒ पर्व॑सु ।  
-अथो॑ एनं वनस्पते जी॒वानां॒ लो॒क॑मु॑न्नय ॥१॥  
+Free this man, Dasavriksha! from the demon, from Grahi who hath seized his joints and members, And raise him up again, O Tree, into the world of living men.

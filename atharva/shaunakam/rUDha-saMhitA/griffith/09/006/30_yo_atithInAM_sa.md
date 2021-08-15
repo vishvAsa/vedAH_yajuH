@@ -2,4 +2,4 @@
 title = "३० योऽतिथीनां स"
 
 +++
-योऽति॑थीनां॒ स आ॑हव॒नीयो॒ यो वेश्म॑नि॒ स गार्ह॑पत्यो॒ यस्मि॒न् पच॑न्ति॒ स द॑क्षिणा॒ग्निः।१३ । ३०॥  
+The fire of the guests is the Ahavaniya, the fire in the dwelling is the Garhapatya, that whereon they cook food is the South- ern Sacrificial Fire.

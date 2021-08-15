@@ -2,5 +2,4 @@
 title = "०४ यज्ञैः समिश्लाः"
 
 +++
-य॒ज्ञैः समि॑श्लाः॒ पृष॑तीभिरृ॒ष्टिभि॒र्यामं॑ छु॒भ्रासो॑ अ॒ञ्जिषु॑ प्रि॒या उ॒त।  
-आ॒सद्या॑ ब॒र्हिर्भ॑रतस्य सूनवः पो॒त्रादा सोमं॑ पिबता दिवो नरः ॥४॥  
+Busied with sacrifice, with spotted deer and spears, gleaming. upon your way with ornaments, yea, our friends, Sitting on sacred grass, ye sons of Bharata, drink Soma from the Potar's bowl, O Men of heaven.

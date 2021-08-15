@@ -2,4 +2,4 @@
 title = "०२ तं भूमिश्चाग्निश्चौषधयश्च"
 
 +++
-तं भूमि॑श्चा॒ग्निश्चौष॑धयश्च॒ वन॒स्पत॑यश्च वानस्प॒त्याश्च॑ वी॒रुध॑श्चानु॒व्यऽचलन्॥२॥  
+He went his way to the region of the zenith. Right and Truth and Sun and Moon and Stars followed him. He who possesses this knowledge becomes, etc., as in verse 1. mutatis mutandis.

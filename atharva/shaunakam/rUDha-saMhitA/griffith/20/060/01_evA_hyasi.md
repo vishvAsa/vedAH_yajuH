@@ -2,4 +2,4 @@
 title = "०१ एवा ह्यसि"
 
 +++
-ए॒वा ह्यसि॑ वीर॒युरे॒वा शूर॑ उ॒त स्थि॒रः । ए॒वा ते॒ राध्यं॒ मनः॑ ॥१॥  
+For so thou art the hero's Friend, a Warrior too art thou, and strong: So may thy heart be won to us.

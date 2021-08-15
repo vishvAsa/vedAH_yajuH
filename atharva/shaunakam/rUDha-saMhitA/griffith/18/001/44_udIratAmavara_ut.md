@@ -2,5 +2,4 @@
 title = "४४ उदीरतामवर उत्"
 
 +++
-उदी॑रता॒मव॑र॒ उत् परा॑स॒ उन्म॑ध्य॒माः पि॒तरः॑ सो॒म्यासः॑ ।
-असुं॒ य ई॒युर॑वृ॒का ऋ॑त॒ज्ञास्ते नो॑ऽवन्तु पि॒तरो॒ हवे॑षु ॥४४॥
+May they ascend, the lowest, highest, midmost, the Fathers, who deserve a share of Soma. May they who have attained to life, the Fathers, righteous and gentle, aid us when we call them.

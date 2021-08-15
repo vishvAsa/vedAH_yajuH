@@ -2,5 +2,4 @@
 title = "१६ विषं गवां"
 
 +++
-वि॒षं गवां॑ यातु॒धाना॑ भरन्ता॒मा वृ॑श्चन्ता॒मदि॑तये दु॒रेवाः॑ ।  
-परै॑णान् दे॒वः स॑वि॒ता द॑दातु॒ परा॑ भा॒गमोष॑धीनां जयन्ताम्॥१६॥  
+Let the fiends steal the poison of the cattle: may Aditi cast off the evil-doers. May the God Savitar give them up to ruin, and be their share of herbs and plants denied them.

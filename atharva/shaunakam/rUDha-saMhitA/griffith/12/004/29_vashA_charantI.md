@@ -2,5 +2,4 @@
 title = "२९ वशा चरन्ती"
 
 +++
-व॒शा चर॑न्ती बहु॒धा दे॒वानां॒ निहि॑तो नि॒धिः ।  
-आ॒विष्कृ॑णुष्व रू॒पाणि॑ य॒दा स्थाम॒ जिघां॑सति ॥२९॥  
+Roaming in many a place the Cow is the stored treasure of the Gods, Make manifest thy shape and form when she would seek her dwelling-place.

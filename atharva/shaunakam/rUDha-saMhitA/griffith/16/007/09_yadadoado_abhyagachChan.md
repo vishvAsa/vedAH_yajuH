@@ -2,4 +2,4 @@
 title = "०९ यददोअदो अभ्यगच्छन्"
 
 +++
-यद॒दोअ॑दो अ॒भ्यग॑च्छन् यद् दो॒षा यत् पूर्वां॒ रात्रि॑म्॥९॥  
+Whatsoever I have met with, whether at dusk or during early night,

@@ -2,4 +2,4 @@
 title = "०१ व्रात्य आसीदीयमान"
 
 +++
-व्रात्य॑ आसी॒दीय॑मान ए॒व स प्र॒जाप॑तिं॒ समैरयत्॥१॥  
+There was a roaming Vratya. He roused Prajapati to action.

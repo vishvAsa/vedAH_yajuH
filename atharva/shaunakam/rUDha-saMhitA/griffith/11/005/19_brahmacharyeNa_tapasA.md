@@ -2,5 +2,4 @@
 title = "१९ ब्रह्मचर्येण तपसा"
 
 +++
-ब्र॒ह्म॒चर्ये॑ण॒ तप॑सा दे॒वा मृ॒त्युमपा॑घ्नत ।  
-इन्द्रो॑ ह ब्र॒ह्मचर्ये॑ण दे॒वेभ्यः॒ स्व॑१राभ॑रत्॥१९॥  
+By Fervour and by self-restraint the Gods draye Death away from them, And Indra brought by self-restraint heaven's lustre to the deities.

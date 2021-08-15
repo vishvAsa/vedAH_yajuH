@@ -2,5 +2,4 @@
 title = "०३ उभोभयाविन्नुप धेहि"
 
 +++
-उ॒भोभ॑यावि॒न्नुप॑ धेहि॒ दंष्ट्रौ॑ हिं॒स्रः शिशा॒नोऽव॑रं॒ परं॑ च ।  
-उ॒तान्तरि॑क्षे॒ परि॑ याह्यग्ने॒ जम्भैः॒ सं धे॑ह्य॒भि या॑तु॒धाना॑न्॥३॥  
+Apply thy teeth, the upper and the lower, thou who hast both, enkindled and destroying. Roam also in the air, O King, around us, and with thy jaws assail the wicked spirits.

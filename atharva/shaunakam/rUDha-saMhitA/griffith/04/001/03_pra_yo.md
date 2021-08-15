@@ -2,5 +2,4 @@
 title = "०३ प्र यो"
 
 +++
-प्र यो ज॒ज्ञे वि॒द्वान॑स्य॒ बन्धु॒र्विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति ।  
-ब्रह्म॒ ब्रह्म॑ण॒ उज्ज॑भार॒ मध्या॑न्नी॒चैरु॒च्चै स्व॒धा अ॒भि प्र त॑स्थौ ॥३॥  
+He who was born as his all-knowing kinsman declareth all the deities' generations. He from the midst of prayer his prayer hath taken. On high, below, spread forth his godlike nature.

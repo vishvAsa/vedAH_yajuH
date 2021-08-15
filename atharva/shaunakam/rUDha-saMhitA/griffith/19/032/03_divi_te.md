@@ -2,5 +2,4 @@
 title = "०३ दिवि ते"
 
 +++
-दि॒वि ते॒ तूल॑मोषधे पृथि॒व्याम॑सि॒ निष्ठि॑तः ।  
-त्वया॑ स॒हस्र॑काण्डे॒नायुः॒ प्र व॑र्धयामहे ॥३॥  
+O Plant, thy root is in the sky, and thou art stationed on the earth: With thee who hast a thousand stalks we strengthen all the powers of life.

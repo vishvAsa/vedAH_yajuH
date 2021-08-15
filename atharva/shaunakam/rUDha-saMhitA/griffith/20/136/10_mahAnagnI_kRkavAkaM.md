@@ -2,5 +2,4 @@
 title = "१० महानग्नी कृकवाकं"
 
 +++
-म॒हा॒न॒ग्नी कृ॑कवाकं॒ शम्य॑या॒ परि॑ धावति ।  
-अ॒यं न वि॒द्म यो॑ मृ॒गः शी॒र्ष्णा ह॑रति॒ धाणि॑काम्॥१०॥  
+Arnica cum fuste gallum circumcurrit. Nos nescimus quae bestia pudendum muliebre in capite gerat.

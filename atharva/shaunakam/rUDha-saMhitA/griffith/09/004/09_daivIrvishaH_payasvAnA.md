@@ -2,5 +2,4 @@
 title = "०९ दैवीर्विशः पयस्वाना"
 
 +++
-दैवी॒र्विशः॒ पय॑स्वा॒ना त॑नोषि॒ त्वामिन्द्रं॒ त्वां सर॑स्वन्तमाहुः ।  
-स॒हस्रं॒ स एक॑मुखा ददाति॒ यो ब्रा॑ह्म॒ण ऋ॑ष॒भमा॑जु॒होति॑ ॥९॥  
+Thou, vigorous, reachest to the tribes of heaven. Thee they call Indra, thee they call Sarasvan. Turned to one aim, that Brahman gives a thousand who offers up the Bull as his oblation.

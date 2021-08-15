@@ -2,5 +2,4 @@
 title = "०१ इन्द्रस्य या"
 
 +++
-इन्द्र॑स्य॒ या म॒ही दृ॒षत् क्रिमे॒र्विश्व॑स्य॒ तर्ह॑णी ।  
-तया॑ पिनष्मि॒ सं क्रिमी॑न् दृ॒षदा॒ खल्वाँ॑ इव ॥१॥  
+With Indra's mighty millstone, that which crushes worms of every sort, I bray and bruise the worms to bits like vetches on the grinding stone.

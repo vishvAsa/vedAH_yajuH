@@ -2,5 +2,4 @@
 title = "०१ ईशाणां त्वा"
 
 +++
-ईशा॑णां त्वा भेष॒जाना॒मुज्जे॑ष॒ आ र॑भामहे ।  
-च॒क्रे स॒हस्र॑वीर्यं॒ सर्व॑स्मा ओषधे त्वा ॥१॥  
+We seize and hold thee, Conquering One! the queen of medi- cines that heal. O Plant, I have endowed thee with a hundred powers for every man,

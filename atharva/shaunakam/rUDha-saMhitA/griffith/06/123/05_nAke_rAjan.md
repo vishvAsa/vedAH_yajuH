@@ -2,5 +2,4 @@
 title = "०५ नाके राजन्"
 
 +++
-नाके॑ राज॑न् प्रति॑ तिष्ठ॒ तत्रै॒तत् प्रति॑ तिष्ठतु ।  
-वि॒द्धि पू॒र्तस्य॑ नो राज॒न्त्स दे॑व सु॒मना॑ भव ॥५॥
+O King, take thou thy stand in heaven, there also let that gift be placed. Recognize, King, the gift which we have given, and be gracious, God!

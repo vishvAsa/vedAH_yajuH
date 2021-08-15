@@ -2,4 +2,4 @@
 title = "०९ खलः पात्रं"
 
 +++
-खलः॒ पात्रं॒ स्फ्यावंसा॑वी॒षे अ॑नू॒क्येऽ ॥९॥  
+The threshing-floor is its dish, the wooden swords its shoulders, the car-shafts its backbones. 

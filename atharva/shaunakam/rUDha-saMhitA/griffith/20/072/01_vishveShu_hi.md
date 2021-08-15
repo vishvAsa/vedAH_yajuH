@@ -2,6 +2,4 @@
 title = "०१ विश्वेषु हि"
 
 +++
-विश्वे॑षु॒ हि त्वा॒ सव॑नेषु तु॒ञ्जते॑ समा॒नमेकं॒ वृष॑मण्यवः॒ पृथ॒क् स्वः सनि॒ष्यवः॒ पृथक्।  
-तं त्वा॒ नावं॒ न प॒र्षणिं॑ शू॒षस्य॑ धु॒रि धी॑महि ।  
-इन्द्रं॒ न य॒ज्ञैश्च॒तय॑न्त आ॒यव॒ स्तोमे॑भि॒रिन्द्र॑मा॒यवः॑ ॥१॥  
+In all libations men with hero spirit urge thee, Universal, One, each seeking several light, each fain to win the light apart. Thee, furthering like a ship, will we set to the chariot pole of strength, As men who win with sacrifices Indra's thought, men who win Indra with their lauds.

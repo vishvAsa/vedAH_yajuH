@@ -2,4 +2,4 @@
 title = "०१ समस्य मन्यवे"
 
 +++
-सम॑स्य म॒न्यवे॒ विशो॒ विश्वा॑ नमन्त कु॒ष्टयः॑ । स॒मु॒द्राये॑व॒ सिन्ध॑वः ॥१॥  
+Before his hot displeasure all the peoples, all the men bow down, As rivers bend them to the sea.

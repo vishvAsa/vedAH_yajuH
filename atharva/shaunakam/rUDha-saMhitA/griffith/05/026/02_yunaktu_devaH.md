@@ -2,4 +2,4 @@
 title = "०२ युनक्तु देवः"
 
 +++
-यु॒नक्तु॑ दे॒वः स॑वि॒ता प्र॑जा॒नन्न॒स्मिन् य॒ज्ञे म॑हि॒षः स्वाहा॑ ॥२॥  
+May Savitar the God--All hail!--foreknowing, chief in this sacrifice, employ them.

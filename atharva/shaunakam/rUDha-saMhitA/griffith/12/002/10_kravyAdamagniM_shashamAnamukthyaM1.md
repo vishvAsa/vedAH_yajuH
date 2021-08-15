@@ -2,5 +2,4 @@
 title = "१० क्रव्यादमग्निं शशमानमुक्थ्यं१"
 
 +++
-क्र॒व्याद॑म॒ग्निं श॑शमा॒नमु॒क्थ्यं॑१ हि॑णोमि प॒थिभिः॑ पितृ॒याणैः॑ ।  
-मा दे॑व॒यानैः॒ पुन॒रा गा॒ अत्रै॒वैधि॑ पि॒तृषु॑ जागृहि॒ त्वम्॥१०॥  
+Corpse-eating Agni, toil-worn, meet for praises, I send away bypaths used by the Fathers. Stay there; keep watch among the Fathers: come not again to us by ways whereon Gods travel.

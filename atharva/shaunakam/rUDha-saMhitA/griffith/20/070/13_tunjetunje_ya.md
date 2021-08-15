@@ -2,4 +2,4 @@
 title = "१३ तुञ्जेतुञ्जे य"
 
 +++
-तु॒ञ्जेतु॑ञ्जे॒ य उत्त॑रे॒ स्तोमा॒ इन्द्र॑स्य व॒ज्रिणः॑ । न वि॑न्धे अस्य सुष्टु॒तिम्॥१३॥  
+Still higher, at each strain of mine, thunder-armed Indra's, praises rise: I find no laud worthy of him.

@@ -2,5 +2,4 @@
 title = "०८ अङ्गिरसामयनं पूर्वो"
 
 +++
-अङ्गि॑रसा॒मय॑नं॒ पूर्वो॑ अ॒ग्निरा॑दि॒त्याना॒मय॑नं॒ गार्ह॑पत्यो॒ दक्षि॑णाना॒मय॑नं दक्षिणा॒ग्निः ।  
-म॒हि॒मान॑म॒ग्नेर्विहि॑तस्य॒ ब्रह्म॑णा॒ सम॑ङ्गः॒ सर्व॒ उप॑ याहि श॒ग्मः ॥८॥  
+The Angirases' pathway is the eastern Agni, the Adityas' path- way is the Garhapatya: The southward Agni is the way of Southerns. To Agni's greatness whom the prayer divideth go powerful, un- scathed with all thy members.

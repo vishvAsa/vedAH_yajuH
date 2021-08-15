@@ -2,6 +2,4 @@
 title = "०७ अहा अरातिमविदः"
 
 +++
-अहा॒ अरा॑ति॒म॑विदः स्यो॒नमप्य॑भूर्भ॒द्रे सु॑कृ॒तस्य॑ लो॒के।  
-ए॒वाहं त्वां क्षे॑त्रि॒यान्निरृ॑त्या जामिशं॒साद् द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥७॥  
+Joy hast thou found, and left ill-will behind thee: thou hast attained the happy world of virtue. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.

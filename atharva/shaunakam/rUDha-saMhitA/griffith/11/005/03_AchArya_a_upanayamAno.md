@@ -2,5 +2,4 @@
 title = "०३ आचार्यऽ उपनयमानो"
 
 +++
-आ॒चा॒र्यऽ उप॒नय॑मानो ब्रह्मचा॒रिणं॑ कृणुते॒ गर्भ॑म॒न्तः ।  
-तं रात्री॑स्ति॒स्र उ॒दरे॑ बिभर्ति॒ तं जा॒तं द्रष्टु॑मभि॒संय॑न्ति दे॒वाः ॥३॥  
+The Master, welcoming his new disciple, into his bowels takes the Brahmachari. Three nights he holds and bears him in this belly. When he is born, the Gods convene to see him.

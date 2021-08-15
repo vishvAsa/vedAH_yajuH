@@ -2,5 +2,4 @@
 title = "०६ परीदं वासो"
 
 +++
-परी॒दं वासो॑ अधिथाः स्व॒स्तयेऽभू॑र्वापी॒नाम॑भिशस्ति॒पा उ॑ ।  
-श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒चीर्वसू॑नि॒ चारु॒र्वि भ॑जासि॒ जीव॑न्॥६॥  
+Thou for weal hast clothed thee in this garment: thou hast become our cows' sure guard from curses. Live thou a hundred full and plenteous autumns: then living, fair thyself, shalt deal forth treasures.

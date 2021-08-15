@@ -2,4 +2,4 @@
 title = "०३ दिवे चक्षुषे"
 
 +++
-दि॒वे चक्षु॑षे॒ नक्ष॑त्रेभ्यः॒ सूर्या॒याधि॑पतये॒ स्वाहा॑ ॥३॥
+All hail for vision to the Stars, to Heaven, to Surya, sovran Lord!

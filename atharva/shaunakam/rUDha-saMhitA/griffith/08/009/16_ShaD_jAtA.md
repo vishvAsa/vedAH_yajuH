@@ -2,5 +2,4 @@
 title = "१६ षड् जाता"
 
 +++
-षड् जा॒ता भू॒ता प्र॑थम॒जर्तस्य॑ षडु॒ सामा॑नि षड॒हं व॑हन्ति ।  
-ष॒ड्यो॒गं सीर॒मनु॒ साम॑साम॒ षडा॑हु॒र्द्यावा॑पृथि॒वीः षडु॒र्वीः ॥१६॥  
+Six Elements arose, first-born of Order: the six-day time is carried by six Samans. Six-yoked the plough is, as each trace is numbered: they call both broad ones six; six, Earth and Heaven.

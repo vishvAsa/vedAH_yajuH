@@ -2,5 +2,4 @@
 title = "०६ उप द्रव"
 
 +++
-उप॑ द्रव॒ पय॑सा गोधुगो॒षमा घ॒र्मे सि॑ञ्च॒ पय॑ उ॒स्रिया॑याः ।  
-वि नाक॑मख्यत् सवि॒ता वरे॑ण्योऽनुप्र॒याण॑मुषसो॒ वि रा॑जति ॥६॥  
+Come hither, quickly come, thou milker of the kine; into the caldron pour milk of the radiant cow. Most precious Savitar hath looked upon the heaven. After Dawn's going-forth he sends his light abroad.

@@ -2,5 +2,4 @@
 title = "०३ सोमस्य जाया"
 
 +++
-सोम॑स्य जा॒या प्र॑थ॒मं ग॑न्ध॒र्वस्तेऽप॑रः॒ पतिः॑ ।  
-तृ॒तीयो॑ अ॒ग्निष्टे॒ पति॑स्तु॒रीय॑स्ते मनुष्य॒जाः ॥३॥  
+She was the wife of Soma first: next the Gandharva was thy lord. Agni was the third husband: now one born of woman is thy fourth.

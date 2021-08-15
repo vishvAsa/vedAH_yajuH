@@ -2,5 +2,4 @@
 title = "०३ यावदङ्गीनं पारस्वतं"
 
 +++
-या॒व॒द॒ङ्गीनं॒ पार॑स्वतं॒ हास्ति॑नं॒ गार्द॑भं च॒ यत्।  
-याव॒दश्वस्य वा॒जिन॒स्ताव॑त् ते वर्धतां॒ पसः॑ ॥३॥
+Quantum estonagri membrum masculinum, elephanti, asinique, quantum est fortis equi, tantus penis tuus increscat.

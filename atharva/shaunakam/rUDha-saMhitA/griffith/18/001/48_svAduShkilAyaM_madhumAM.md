@@ -2,5 +2,4 @@
 title = "४८ स्वादुष्किलायं मधुमां"
 
 +++
-स्वा॒दुष्किला॒यं मधु॑मां उ॒तायं ती॒व्रः किला॒यं रस॑वां उ॒तायम्।
-उ॒तोन्व॑१स्य प॑पि॒वांस॒मिन्द्रं॒ न कश्च॒न स॑हत आह॒वेषु॑ ॥४८॥
+Yes, this is good to taste and full of sweetness, verily it is strong and rich in flavour. No one may conquer Indra in the battle when he hath drunken of the draught we offer.

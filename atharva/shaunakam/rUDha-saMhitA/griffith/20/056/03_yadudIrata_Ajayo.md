@@ -2,5 +2,4 @@
 title = "०३ यदुदीरत आजयो"
 
 +++
-यदु॒दीर॑त आ॒जयो॑ धृ॒ष्णवे॑ धीयते॒ धना॑ ।  
-यु॒क्ष्वा म॑द॒च्युता॒ हरी॒ कं हनः॒ कं वसौ॑ दधो॒ऽस्मां इ॑न्द्र॒ वसौ॑ दधः ॥३॥  
+When war and battles are on foot, booty is laid before the bold. Yoke thou thy wildly rushing Bays. Whom wilt thou slay and whom enrich? Do thou, O Indra, make us rich,

@@ -2,5 +2,4 @@
 title = "२० आस्नस्ते गाथा"
 
 +++
-आ॒स्नस्ते॒ गाथा॑ अभवन्नु॒ष्णिहा॑भ्यो॒ बलं॑ वशे ।  
-पा॒ज॒स्याऽज्जज्ञे य॒ज्ञ स्तने॑भ्यो र॒श्मय॒स्तव॑ ॥२०॥  
+Forth from thy mouth the Gathas came, from thy neck's nape sprang strength, O Cow. Sacrifice from thy flanks was born, and rays of sunlight from. thy teats,

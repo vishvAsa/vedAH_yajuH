@@ -2,5 +2,4 @@
 title = "०३ सहस्राक्षेण शतवीर्येण"
 
 +++
-स॒ह॒स्रा॒क्षेण॑ श॒तवी॑र्येण श॒तायु॑षा ह॒विषाहा॑र्षमेनम्।  
-इन्द्रो॒ यथै॑नं श॒रदो॒ नया॒त्यति॒ विश्व॑स्य दुरि॒तस्य॑ पा॒रम्॥३॥  
+With sacrifice thousand-eyed and hundred-powered, bringing a hundred lives, have I restored him, That Indra through the autumns may conduct him safe to the farther shore of all misfortune.

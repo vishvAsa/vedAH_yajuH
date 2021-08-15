@@ -2,5 +2,4 @@
 title = "०४ युवं सुराममश्विना"
 
 +++
-यु॒वं सु॒राम॑मश्विना॒ नमु॑चावासु॒रे सचा॑ ।  
-वि॒पि॒पा॒ना शु॑भस्पती॒ इन्द्रं॒ कर्म॑स्वावतम्॥४॥  
+Ye, Asvins, Lords of Splendour, drank full draughts of grateful Soma juice, And aided Indra in his work with Namuchi of Asura birth.

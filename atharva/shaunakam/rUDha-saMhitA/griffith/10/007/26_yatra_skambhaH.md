@@ -2,5 +2,4 @@
 title = "२६ यत्र स्कम्भः"
 
 +++
-यत्र॑ स्क॒म्भः प्र॑ज॒नयन् पुरा॒णं व्यव॑र्तयत्।  
-एकं॒ तदङ्गं॑ स्क॒म्भस्य॑ पुरा॒णम॑नु॒संवि॑दुः ॥२६॥  
+Where Skambha generating gave the Ancient World its shape and form, They recognized that single part of Skambha as the Ancient World,

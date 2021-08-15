@@ -2,5 +2,4 @@
 title = "१० देवा ददत्वासुरं"
 
 +++
-देवा॑ दद॒त्वासु॑रं॒ तद्वो॑ अस्तु॒ सुचे॑तनम्।  
-युष्मां॑ अस्तु॒ दिवे॑दिवे प्र॒त्येव॑ गृभायत्॥१०॥  
+The Gods shall give the precious boon: let it be pleasant to your hearts. Let it be with you every day: accept our offerings in return.

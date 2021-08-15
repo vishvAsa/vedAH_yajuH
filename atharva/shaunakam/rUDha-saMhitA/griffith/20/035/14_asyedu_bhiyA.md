@@ -2,5 +2,4 @@
 title = "१४ अस्येदु भिया"
 
 +++
-अ॒स्येदु॑ भि॒या गि॒रय॑श्च दृ॒ल्हा द्यावा॑ च॒ भूमा॑ ज॒नुष॑स्तुजेते ।  
-उपो॑ वे॒नस्य॒ जोगु॑वान ओ॒णिं स॒द्यो भु॑वद् वी॒र्याय नो॒धाः ॥१४॥  
+When he, yea, he is born the firm-set mountains and the whole heaven and earth tremble in terror. May Nodhas ever lauding the protection of this dear Friend win straightway strength heroic.

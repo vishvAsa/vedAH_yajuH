@@ -2,5 +2,4 @@
 title = "०७ यदस्याः कस्मै"
 
 +++
-यद॑स्याः॒ कस्मै॑ चि॒द् भोगा॑य॒ बाला॒न् कश्चि॑त् प्रकृ॒न्तति॑ ।  
-ततः॑ किशो॒रा म्रि॑यन्ते व॒त्सांश्च॒ घातु॑को॒ वृकः॑ ॥७॥  
+If to his own advantage one applies the long hair of her tail, His colts, in consequence thereof. die, and the wolf destroys his calves.

@@ -2,5 +2,4 @@
 title = "१६ नमः सायं"
 
 +++
-नमः॑ सा॒यं नमः॑ प्रा॒तर्नमो॒ रात्र्या॒ नमो॒ दिवा॑ ।  
-भ॒वाय॑ च श॒र्वाय॑ चो॒भाभ्या॑मकरं॒ नमः॑ ॥१६॥  
+Homage at evening and at morn, homage at night, homage by day . To Bhava and to Sarva, both, have I paid lowly reverence,

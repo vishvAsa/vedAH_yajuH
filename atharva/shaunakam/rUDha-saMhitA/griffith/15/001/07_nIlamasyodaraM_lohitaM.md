@@ -2,4 +2,4 @@
 title = "०७ नीलमस्योदरं लोहितं"
 
 +++
-नील॑मस्यो॒दरं॒ लोहि॑तं पृ॒ष्ठम्॥७॥  
+His belly is dark-blue, his back is red.

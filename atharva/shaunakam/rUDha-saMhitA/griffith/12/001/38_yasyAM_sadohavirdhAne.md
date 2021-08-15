@@ -2,6 +2,4 @@
 title = "३८ यस्यां सदोहविर्धाने"
 
 +++
-यस्यां॑ सदोहविर्धा॒ने यूपो॒ यस्यां॑ निमी॒यते॑ ।  
-ब्र॒ह्माणो॒ यस्या॒मर्च॑न्त्यृ॒ग्भिः साम्ना॑ यजु॒र्विदः॑।  
-यु॒ज्यन्ते॒ यस्या॑मृ॒त्विजः॒ सोम॒मिन्द्रा॑य॒ पात॑वे ॥३८॥  
+Base of the seat and sheds, on whom the sacrificial stake is reared, On whom the Yajus-knowing priests recite their hymns and chant their psalms, And ministers are busied that Indra may drink the Soma juice;

@@ -2,4 +2,4 @@
 title = "०४ एवा ह्यस्य"
 
 +++
-ए॒वा ह्य॑स्य सू॒नृता॑ विर॒प्शी गोम॑ती म॒ही। प॒क्वा शाखा॒ न दा॒शुषे॑ ॥४॥  
+So also is his excellence, great copious, rich in cattle, like A ripe branch to the worshipper.

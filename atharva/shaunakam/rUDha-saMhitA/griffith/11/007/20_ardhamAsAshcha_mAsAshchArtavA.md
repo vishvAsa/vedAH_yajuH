@@ -2,5 +2,4 @@
 title = "२० अर्धमासाश्च मासाश्चार्तवा"
 
 +++
-अ॒र्ध॒मा॒साश्च॒ मासा॑श्चार्त॒वा ऋ॒तुभिः॑ स॒ह।  
-उच्छि॑ष्टे घो॒षिणी॒रापः॑ स्तनयि॒त्नुः श्रुति॑र्म॒ही॥२०॥  
+Months, half-months, sections of the year, seasons are in the Residue, The waters resonant afar, the thunder, and the mighty noise.

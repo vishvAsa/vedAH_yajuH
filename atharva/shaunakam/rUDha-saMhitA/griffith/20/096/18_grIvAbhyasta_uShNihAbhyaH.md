@@ -2,5 +2,4 @@
 title = "१८ ग्रीवाभ्यस्त उष्णिहाभ्यः"
 
 +++
-ग्री॒वाभ्य॑स्त उ॒ष्णिहा॑भ्यः॒ कीक॑साभ्यो अनू॒क्याऽत्।  
-यक्ष्मं॑ दोष॒ण्य॑१मंसा॑भ्यां बा॒हुभ्यां॒ वि वृ॑हामि ते ॥१८॥  
+From the neck-tendons and the neck, from the breast-bones and from the spine, From shoulders, upper, lower arms, I drive thy malady away.

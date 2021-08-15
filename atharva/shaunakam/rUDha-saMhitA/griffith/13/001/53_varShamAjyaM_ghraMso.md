@@ -2,5 +2,4 @@
 title = "५३ वर्षमाज्यं घ्रंसो"
 
 +++
-व॒र्षमाज्यं॑ घ्रं॒सो अ॒ग्निर्वेदि॒र्भूमि॑रकल्पत ।  
-तत्रै॒वान् पर्व॑तान॒ग्निर्गी॒र्भिरू॒र्ध्वाँ अ॑कल्पयत्॥५३॥  
+The earth became an altar, heat was Agni, and the butter rain. There Agni made, by song and hymn, these mountains rise and stand erect.

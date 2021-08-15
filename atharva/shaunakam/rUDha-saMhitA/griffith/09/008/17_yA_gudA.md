@@ -2,5 +2,4 @@
 title = "१७ या गुदा"
 
 +++
-या गुदा॑ अनु॒सर्प॑न्त्या॒न्त्राणि॑ मो॒हय॑न्ति च ।  
-अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म्॥१७॥  
+The pains that through the bowels creep, disordering the inward parts, Let them depart and pass away, free from disease and harming not.

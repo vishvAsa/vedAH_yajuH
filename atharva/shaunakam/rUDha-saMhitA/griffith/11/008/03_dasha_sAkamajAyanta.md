@@ -2,5 +2,4 @@
 title = "०३ दश साकमजायन्त"
 
 +++
-दश॑ सा॒कम॑जायन्त दे॒वा दे॒वेभ्यः॑ पु॒रा।  
-यो वै तान् वि॒द्यात् प्र॒त्यक्षं॒ स वा अ॒द्य म॒हद् व॑देत्॥३॥  
+Ten Gods before the Gods were born together in the ancient time. Whoso may know them face to face may now pronounce the mighty word.

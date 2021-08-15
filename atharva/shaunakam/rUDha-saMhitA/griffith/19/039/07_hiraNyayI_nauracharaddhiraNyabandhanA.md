@@ -2,7 +2,4 @@
 title = "०७ हिरण्ययी नौरचरद्धिरण्यबन्धना"
 
 +++
-हि॒र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत ।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥७॥  
+There moved through heaven a golden ship, a ship with cordage wrought of gold: There is embodiment of life that dies not; thence was Kushtha born.

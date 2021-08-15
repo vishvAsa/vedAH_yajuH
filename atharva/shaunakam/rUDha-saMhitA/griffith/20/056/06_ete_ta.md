@@ -2,5 +2,4 @@
 title = "०६ एते त"
 
 +++
-ए॒ते त॑ इन्द्र ज॒न्तवो॒ विश्वं॑ पुष्यन्ति॒ वार्य॑म्।  
-अ॒न्तर्हि ख्यो जना॑नाम॒र्यो वेदो॒ अदा॑शुषां॒ तेषां॑ नो॒ वेद॒ आ भ॑र ॥६॥
+These people, Indra, keep for thee all that is worthy of thy choice. Discover thou, as Lord, the wealth of men who offer up no gifts: bring thou to us this wealth of theirs.

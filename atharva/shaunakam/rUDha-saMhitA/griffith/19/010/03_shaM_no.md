@@ -2,5 +2,4 @@
 title = "०३ शं नो"
 
 +++
-शं नो॑ धा॒ता शमु॑ ध॒र्ता नो॑ अस्तु॒ शं न॑ उरू॒ची भ॑वतु स्व॒धाभिः॑ ।  
-शं रोद॑सी बृह॒ती शं नो॒ अद्रिः॒ शं नो॑ दे॒वानां॑ सु॒हवा॑नि सन्तु ॥३॥  
+Kind unto us be Maker and Sustainer and the far-reaching One with godlike nature. Auspicious unto us be Earth and Heaven, the Mountain and the Gods' fair invocations.

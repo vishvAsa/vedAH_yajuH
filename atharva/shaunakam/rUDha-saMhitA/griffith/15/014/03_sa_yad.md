@@ -2,4 +2,4 @@
 title = "०३ स यद्"
 
 +++
-स यद् दक्षि॑णां॒ दिश॒मनु॒ व्यच॑ल॒दिन्द्रो भू॒त्वानु॒व्यऽचल॒द् बल॑मन्ना॒दं कृ॒त्वा॥३॥  
+He, when he went away to the western region, went away having become King Varuna, and having made the Waters eaters of food. He who hath this knowledge eats food with the Waters as food-eaters.

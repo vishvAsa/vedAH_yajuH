@@ -2,5 +2,4 @@
 title = "०३ प्रवतो नपान्नम"
 
 +++
-प्रव॑तो नपा॒न्नम॑ ए॒वास्तु॒ तुभ्यं॒ नम॑स्ते हे॒तये॒ तपु॑षे च कृण्मः ।  
-वि॒द्म ते॒ धाम॑ पर॒मं गुहा॒ यत् स॑मु॒द्रे अ॒न्तर्नि॑हि॑तासि॒ नाभिः॑ ॥३॥  
+Yea, homage be to thee, O Offspring of the Flood! Homage we pay to thee, the dart and fiery flame: For well we know thy secret and sublimest home, where thou as central point art buried in the sea.

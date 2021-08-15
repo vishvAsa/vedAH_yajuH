@@ -2,5 +2,4 @@
 title = "०२ त्रायन्तामिमं पुरुषं"
 
 +++
-त्राय॑न्तामि॒मं पुरु॑षं॒ यक्ष्मा॑द् दे॒वेषि॑ता॒दधि॑ ।  
-यासां॒ द्यौष्पि॒ता पृ॑थि॒वी मा॒ता स॑मु॒द्रो मूलं॑ वी॒रुधां॑ ब॒भूव॑ ॥२॥  
+This man let them deliver from Consumption which the Gods have sent. The father of these Herbs was Heaven, their mother Earth, the Sea their root.

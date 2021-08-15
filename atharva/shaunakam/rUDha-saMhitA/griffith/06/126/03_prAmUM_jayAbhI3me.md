@@ -2,5 +2,4 @@
 title = "०३ प्रामूं जयाभी३मे"
 
 +++
-प्रामूं ज॑या॒भी॒३मे ज॑यन्तु केतु॒मद् दु॑न्दुभिर्वा॑वदीतु ।  
-समश्व॑पर्णाः पतन्तु नो॒ नरो॒ऽस्माक॑मिन्द्र र॒थिनो॑ जयन्तु ॥३॥
+Conquer those yonder and let these be victors. Let the Drum speak aloud as battle's signal. Let our men, winged with horses, fly together. Let our car- warriors, Indra! be triumphant.

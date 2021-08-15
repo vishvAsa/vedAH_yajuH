@@ -2,4 +2,4 @@
 title = "०३ कुवित्सस्य प्र"
 
 +++
-कु॒वित्स॑स्य॒ प्र हि व्र॒जं गोम॑न्तं दस्यु॒हा गम॑त्। शची॑भि॒रप॑ नो वरत्॥३॥
+May he with might disclose for us the cows' stall, whosesoe'er it be, To which the Dasyu-slayer goes.

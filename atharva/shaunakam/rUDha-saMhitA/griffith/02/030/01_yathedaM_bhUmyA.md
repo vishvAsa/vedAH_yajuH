@@ -2,5 +2,4 @@
 title = "०१ यथेदं भूम्या"
 
 +++
-यथे॒दं भूम्या॒ अधि॒ तृणं॒ वातो॑ मथा॒य॑ति ।  
-ए॒वा म॑थ्नामि ते मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥१॥  
+As the wind shake this Tuft of Grass hither and thither on the ground. So do I stir and shake thy mind, that thou mayst be in love with me, my darling, never to depart.

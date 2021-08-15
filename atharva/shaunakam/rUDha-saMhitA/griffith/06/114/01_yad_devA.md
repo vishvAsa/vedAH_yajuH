@@ -2,5 +2,4 @@
 title = "०१ यद् देवा"
 
 +++
-यद् दे॑वा देव॒हेड॑नं॒ देवा॑सश्चकृ॒मा व॒यम्।  
-आदि॑त्या॒स्तस्मा॑न्नो यू॒यमृ॒तस्य॒र्तेन॑ मुञ्चत ॥१॥  
+Whatever God-provoking wrong we priests have done, O Deities. Therefrom do ye deliver us, Adityas! by the right of Law.

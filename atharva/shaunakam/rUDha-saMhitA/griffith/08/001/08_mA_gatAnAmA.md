@@ -2,5 +2,4 @@
 title = "०८ मा गतानामा"
 
 +++
-मा ग॒ताना॒मा दी॑धीथा॒ ये नय॑न्ति परा॒वत॑म्।  
-आ रो॑ह॒ तम॑सो॒ ज्योति॒रेह्या ते॒ हस्तौ॑ रभामहे ॥८॥  
+Yearn not for the departed ones, for those who lead men far away. Rise up from darkness into light: come, both thy hands we clasp in ours.

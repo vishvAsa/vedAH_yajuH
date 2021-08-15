@@ -2,5 +2,4 @@
 title = "३१ युवं भगं"
 
 +++
-यु॒वं भगं॒ सं भ॑रतं॒ समृ॑द्धमृ॒तं वद॑न्तावृ॒तोद्ये॑षु ।  
-ब्रह्म॑णस्पते॒ पति॑म॒स्यै रो॑चय॒ चारु॑ संभ॒लो व॑दतु॒ वाच॑मे॒ताम्॥३१॥  
+Prepare, ye twain, happy and prosperous fortune, speaking the truth in faithful utterances. Dear unto her, Brihaspati, make the husband, and pleasant be these words the wooer speaketh.

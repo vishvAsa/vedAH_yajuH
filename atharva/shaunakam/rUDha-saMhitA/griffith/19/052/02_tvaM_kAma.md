@@ -2,5 +2,4 @@
 title = "०२ त्वं काम"
 
 +++
-त्वं का॑म॒ सह॑सासि॒ प्रति॑ष्ठितो वि॒भुर्वि॒भावा॑ सख॒ आ स॑खीय॒ते।  
-त्वमु॒ग्रः पृत॑नासु सास॒हिः सह॒ ओजो॒ यज॑मानाय धेहि ॥२॥  
+Thou, Kama, art victorious, famous, potent, splendid, a friend. to him who seeks thy friendship. Mighty and overpowering in battle, give strength and vigour to the sacrificer.

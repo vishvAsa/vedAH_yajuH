@@ -2,5 +2,4 @@
 title = "६३ मा हिंसिष्टं"
 
 +++
-मा हिं॑सिष्टं कुमा॒र्यं॑१ स्थूणे॑ दे॒वकृ॑ते प॒थि।  
-शाला॑या दे॒व्या द्वारं॑ स्यो॒नं कृ॑ण्मो वधूप॒थम्॥६३॥  
+Hurt not the girl, ye Pillars twain upon the path which Gods have made. The portal of the heavenly home we make the bride's auspicious road.

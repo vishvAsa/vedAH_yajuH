@@ -2,5 +2,4 @@
 title = "०५ आ त्वागमं"
 
 +++
-आ त्वा॑गमं॒ शंता॑तिभि॒रथो॑ अरि॒ष्टता॑तिभिः ।  
-दक्षं॑ त उ॒ग्रमाभा॑रिषं॒ परा॒ यक्ष्मं॑ सुवामि ते ॥५॥  
+I am come nigh to thee with balms to give thee rest and keep thee safe. I bring thee mighty strength, I drive thy wasting malady away.

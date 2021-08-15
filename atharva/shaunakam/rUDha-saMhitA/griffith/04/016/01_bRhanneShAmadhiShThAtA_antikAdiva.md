@@ -2,5 +2,4 @@
 title = "०१ बृहन्नेषामधिष्ठाता अन्तिकादिव"
 
 +++
-बृ॒हन्ने॑षामधिष्ठा॒ता अ॑न्ति॒कादि॑व पश्यति ।  
-य स्ता॑यन्मन्य॑ते॒ चर॒न्त्सर्वं॑ दे॒वा इ॒दं वि॑दुः ॥१॥  
+The mighty Ruler of these worlds beholds as though from close at hand, The man who thinks he acts by stealth: all this the Gods perceive and know.

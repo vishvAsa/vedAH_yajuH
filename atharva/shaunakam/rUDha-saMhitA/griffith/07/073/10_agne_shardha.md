@@ -2,5 +2,4 @@
 title = "१० अग्ने शर्ध"
 
 +++
-अग्ने॒ शर्ध॑ मह॒ते सौभ॑गाय॒ तव॑ द्यु॒म्नान्यु॑त्त॒मानि॑ सन्तु ।  
-सं जा॑स्प॒त्यं सु॒यम॒मा कृ॑णुष्व शत्रूय॒ताम॒भि ति॑ष्ठा॒ महां॑सि ॥१०॥  
+Show thyself strong for mighty bliss, O Agni! Most excellent be thine effulgent splendours! Make easy to maintain our household lordship, and overcome the might of those who hate us.

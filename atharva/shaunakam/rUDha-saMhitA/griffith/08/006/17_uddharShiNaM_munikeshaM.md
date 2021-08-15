@@ -2,6 +2,4 @@
 title = "१७ उद्धर्षिणं मुनिकेशं"
 
 +++
-उ॒द्ध॒र्षिणं॒ मुनि॑केशं ज॒म्भय॑न्तं मरीमृ॒शम्।  
-उपेष॑न्तमुदु॒म्बलं॑ तु॒ण्डेल॑मु॒त शालु॑डम्।  
-प॒दा प्र वि॑ध्य॒ पार्ष्ण्या॑ स्था॒लीं गौरि॑व स्पन्द॒ना॥१७॥  
+The Bristly-haired, the Maniac-haired, the Biter, and the Groper-fiend, The Creeper-near, the Copper-hued, the Snouty, and the Saluda, With foot and heel kick over, as a hasty cow her milking-pan.

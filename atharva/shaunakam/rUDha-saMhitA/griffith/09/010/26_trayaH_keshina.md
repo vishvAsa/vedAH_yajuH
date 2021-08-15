@@ -2,5 +2,4 @@
 title = "२६ त्रयः केशिन"
 
 +++
-त्रयः॑ के॒शिन॑ ऋतु॒था वि च॑क्षते संवत्स॒रे व॑पत॒ एक॑ एषाम्।  
-विश्व॑म॒न्यो अ॑भि॒चष्टे॒ शची॑भि॒र्ध्राजि॒रेक॑स्य ददृशे॒ न रू॒पम्॥२६॥  
+Three with long tresses show in ordered season. One of them sheareth when the year is ended. One with his powers the universe regardeth. Of one the sweep is seen, but not the figure.

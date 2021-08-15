@@ -2,4 +2,4 @@
 title = "०६ निर्द्विषन्तं दिवो"
 
 +++
-निर्द्वि॒षन्तं॑ दि॒वो निः पृ॑थि॒व्या निर॒न्तरि॑क्षाद् भजाम ॥६॥  
+We scorch out of heaven and earth and firmament the man who hates us.

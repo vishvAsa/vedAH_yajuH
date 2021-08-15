@@ -2,5 +2,4 @@
 title = "०६ इमं मे"
 
 +++
-इ॒मं मे॑ कुष्ठ॒ पूरु॑षं॒ तमा व॑ह॒ तं निष्कु॑रु ।  
-तमु॑ मे अग॒दं कृ॑धि ॥६॥  
+O Kushtha, bring thou hitherward this man of mine, restore his health, Yes, free him from disease for me.

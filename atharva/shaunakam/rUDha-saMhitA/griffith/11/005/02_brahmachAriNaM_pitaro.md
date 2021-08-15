@@ -2,5 +2,4 @@
 title = "०२ ब्रह्मचारिणं पितरो"
 
 +++
-ब्र॒ह्म॒चा॒रिणं॑ पि॒तरो॑ देवज॒नाः पृथ॑ग् दे॒वा अ॑नु॒संय॑न्ति॒ सर्वे॑ ।  
-ग॒न्ध॒र्वा ए॑न॒मन्वा॑य॒न् त्रय॑स्त्रिंशत् त्रिश॒ताः ष॑ट्सह॒स्राः सर्वा॒न्त्स दे॒वांस्तप॑सा पिपर्ति ॥२॥  
+After the Brahmachari go the Fathers, the heavenly hosts, all Gods in separate order. After him too have the Gandharvas followed, thirty and three, three hundred, and six thousand. He satisfies all Gods with his devotion.

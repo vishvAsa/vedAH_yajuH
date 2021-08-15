@@ -2,5 +2,4 @@
 title = "०१ कस्मिन्नङ्गे तपो"
 
 +++
-कस्मि॒न्नङ्गे॒ तपो॑ अ॒स्याधि॑ तिष्ठति॒ कस्मि॒न्नङ्ग॑ ऋ॒तम॒स्याध्याहि॑तम्।  
-क्वऽ व्र॒तं क्वऽ श्र॒द्धास्य॑ तिष्ठति॒ कस्मि॒न्नङ्गे॑ स॒त्यम॑स्य॒ प्रति॑ष्ठितम्॥१॥  
+Which of his members is the seat of Fervour: Which is the base of Ceremonial Order? Where in him standeth Faith? Where Holy Duty? Where, in what part of him is truth implanted?

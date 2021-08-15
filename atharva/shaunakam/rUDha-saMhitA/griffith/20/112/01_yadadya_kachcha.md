@@ -2,4 +2,4 @@
 title = "०१ यदद्य कच्च"
 
 +++
-यद॒द्य कच्च॑ वृत्रहन्नु॒दगा॑ अ॒भि सू॑र्य । सर्वं॒ तदि॑न्द्र ते॒ वशे॑ ॥१॥  
+Whatever, Vritra-slayer! thou Surya, hast risen upon to-day, That, Indra, all is in thy power.

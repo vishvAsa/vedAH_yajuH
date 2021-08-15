@@ -2,4 +2,4 @@
 title = "०२ त्वं हि"
 
 +++
-त्वं हि नः॑ पि॒ता व॑सो॒ त्वं मा॒ता श॑तक्रतो ब॒भूवि॑थ । अधा॑ ते सु॒म्नमी॑महे ॥२॥  
+For, gracious Satakratu, thou hast ever been a mother and a sire to us, So now for bliss we pray to thee.

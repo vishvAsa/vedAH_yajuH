@@ -2,5 +2,4 @@
 title = "०३ जातवेदो नि"
 
 +++
-जात॑वेदो॒ नि व॑र्तय श॒तं ते॑ सन्त्वा॒वतः॑ ।  
-स॒हस्रं॑ त उपा॒वृत॒स्तभि॑र्नः॒ पुन॒रा कृ॑धि ॥३॥
+O Jatavedas turn them back: a hundred homeward ways be thine! Thou hast a thousand avenues: by these restore our kine to us.

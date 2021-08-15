@@ -2,5 +2,4 @@
 title = "६२ यत् ते"
 
 +++
-यत् ते॑ प्र॒जायां॑ प॒शुषु॒ यद् वा॑ गृ॒हेषु॒ निष्ठि॑तमघ॒कृद्भि॑र॒घं कृ॒तम्।  
-अ॒ग्निष्ट्वा॒ तस्मा॒देनसः सवि॒ता च॒ प्र मु॑ञ्चताम्॥६२॥  
+If any evil have been wrought by mischief-makers that affects thy cattle progeny or house, May Agni free thee from the woe, may Savitar deliver thee.

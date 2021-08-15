@@ -2,5 +2,4 @@
 title = "०३ यथा सूर्यस्य"
 
 +++
-यथा॒ सूर्य॑स्य र॒श्मयः॑ परा॒पत॑न्त्याशु॒मत्।  
-ए॒वा त्वं कासे॒ प्र प॑त समु॒द्रस्यानु॑ विक्ष॒रम्॥३॥
+Rapidly as the beams of light, the rays of Surya, fly away, So, Cough! fly rapidly away over the current of the sea!

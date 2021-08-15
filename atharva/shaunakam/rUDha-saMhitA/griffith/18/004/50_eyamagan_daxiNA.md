@@ -2,5 +2,4 @@
 title = "५० एयमगन् दक्षिणा"
 
 +++
-एयम॑ग॒न् दक्षि॑णा भद्र॒तो नो॑ अ॒नेन॑ द॒त्ता सु॒दुघा॑ वयो॒धाः ।  
-यौव॑ने जी॒वानु॑प॒पृञ्च॑ती ज॒रा पि॒तृभ्य॑ उप॒संप॑राणयादि॒मान्॥५०॥  
+From a good quarter have we gained this guerdon, gift of this man, strength giving, plenteous milker. Bringing in youth old age unto the living, may she bear these together to the Fathers.

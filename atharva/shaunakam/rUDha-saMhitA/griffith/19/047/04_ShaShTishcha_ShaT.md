@@ -2,5 +2,4 @@
 title = "०४ षष्टिश्च षट्"
 
 +++
-ष॒ष्टिश्च॒ षट् च॒ रेवति पञ्चा॒शत् पञ्च॑ सुम्नयि ।  
-च॒त्वार॑श्चत्वारिं॒शच्च॒ त्रय॑स्त्रिं॒शच्च॑ वाजिनि ॥४॥  
+Sixty-and-six, O opulent, fifty-and-five, O happy One, Forty-and-four and thirty-three are they, O thou enriched with spoil.

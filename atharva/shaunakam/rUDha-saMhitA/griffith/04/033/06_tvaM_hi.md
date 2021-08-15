@@ -2,5 +2,4 @@
 title = "०६ त्वं हि"
 
 +++
-त्वं हि वि॑श्वतोमुख वि॒श्वतः॑ परि॒भूरसि॑ ।  
-अप॑ नः॒ शोशु॑चद॒घम्॥६॥  
+To every side thy face is turned, thou art triumphant everywhere. His lustre flash our pain away!

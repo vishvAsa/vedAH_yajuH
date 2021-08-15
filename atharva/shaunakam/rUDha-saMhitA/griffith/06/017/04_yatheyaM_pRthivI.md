@@ -2,5 +2,4 @@
 title = "०४ यथेयं पृथिवी"
 
 +++
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ विष्ठि॑तं॒ जग॑त्।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥४॥
+Even as this mighty Earth supports the moving world that dwells thereon, So may the germ of life be borne in thee that thou mayst bear a son.

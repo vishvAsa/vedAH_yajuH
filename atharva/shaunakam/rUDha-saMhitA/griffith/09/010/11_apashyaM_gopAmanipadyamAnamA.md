@@ -2,5 +2,4 @@
 title = "११ अपश्यं गोपामनिपद्यमानमा"
 
 +++
-अप॑श्यं गो॒पाम॑नि॒पद्य॑मान॒मा च॒ परा॑ च प॒थिभि॒श्चर॑न्तम्।  
-सस॒ध्रीचीः॒ स विषू॑ची॒र्वसा॑न॒ आ व॑रीवर्ति॒ भुव॑नेष्व॒न्तः ॥११॥  
+I saw the Herdsman, him who never stumbles, approaching by his pathways and departing. He clothed with gathered and diffusive splendours, within the worlds continually travels.

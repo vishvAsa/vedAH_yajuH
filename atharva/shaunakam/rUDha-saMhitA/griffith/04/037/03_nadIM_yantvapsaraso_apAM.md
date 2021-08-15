@@ -2,6 +2,4 @@
 title = "०३ नदीं यन्त्वप्सरसोऽपां"
 
 +++
-न॒दीं य॑न्त्वप्स॒रसो॒ऽपां ता॒रम॑वश्व॒सम्।  
-गु॒ल्गु॒लूः पीला॑ नल॒द्यौ॒३क्षग॑न्धिः प्रमन्द॒नी।  
-तत् परे॑ताप्सरसः॒ प्रति॑बुद्धा अभूतन ॥३॥  
+Let the Apsarases, puffed away, go to the river, to the ford,-- Guggulu, Pila, Naladi, Aukshagandhi, Pramandini. Ye have become attentive since the Apsarases have past away.

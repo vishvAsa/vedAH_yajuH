@@ -2,5 +2,4 @@
 title = "०२ यौ ते"
 
 +++
-यौ ते॑ दू॒तौ नि॑रृत इ॒दमे॒तोऽप्र॑हितौ॒ प्रहि॑तौ वा गृ॒हं नः॑ ।  
-क॒पो॒तो॒लू॒काभ्या॒मप॑दं॒ तद॑स्तु ॥२॥  
+Thine envoys who came hither, O Destruction, sent or not sent by thee unto our dwelling, The Dove and Owl, effectless be their visit!

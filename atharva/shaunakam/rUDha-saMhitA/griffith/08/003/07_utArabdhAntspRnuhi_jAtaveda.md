@@ -2,5 +2,4 @@
 title = "०७ उतारब्धान्त्स्पृनुहि जातवेद"
 
 +++
-उ॒तार॑ब्धान्त्स्पृनुहि जातवेद उ॒तारे॑भा॒णाँ ऋ॒ष्टिभि॑र्यातु॒धाना॑न्।  
-अग्ने॒ पूर्वो॒ नि ज॑हि॒ शोशु॑चान आ॒मादः॒ क्ष्विङ्का॒स्तम॑द॒न्त्वेनीः॑ ॥७॥  
+Rescue the captives also, Jatavedas! yea, those whom Yatudha- nas' spears have captured. Strike down that fiend, blazing before him, Agni! Let spotted carrion-eating kites devour him.

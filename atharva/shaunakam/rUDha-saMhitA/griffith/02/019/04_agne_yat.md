@@ -2,4 +2,4 @@
 title = "०४ अग्ने यत्"
 
 +++
-अग्ने॒ यत् ते॑ शो॒चिस्तेन॒ तं प्रति॑ शोच॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥४॥  
+Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom we hate.

@@ -2,5 +2,4 @@
 title = "०६ तिस्रो मात्रा"
 
 +++
-ति॒स्रो मात्रा॑ गन्ध॒र्वाणां॒ चत॑स्रो गृ॒हप॑त्न्याः ।  
-तासां॒ या स्फा॑ति॒मत्त॑मा॒ तया॑ त्वा॒भि मृ॑शामसि ॥६॥  
+Three sheaves are the Gandharvas' claim, the lady of the house hath four. We touch thee with the sheaf that is the most abundant of them all.

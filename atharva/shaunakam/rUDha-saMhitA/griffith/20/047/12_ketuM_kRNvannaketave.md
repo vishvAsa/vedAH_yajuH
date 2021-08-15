@@ -2,4 +2,4 @@
 title = "१२ केतुं कृण्वन्नकेतवे"
 
 +++
-के॒तुं कृ॒ण्वन्न॑के॒तवे॒ पेशो॑ मर्या अपे॒शसे॑ । समु॒षद्भि॑रजायथाः ॥१२॥  
+Thou, making light where no light was, and form, O Men r where no form was, Wast born together with the Dawns,

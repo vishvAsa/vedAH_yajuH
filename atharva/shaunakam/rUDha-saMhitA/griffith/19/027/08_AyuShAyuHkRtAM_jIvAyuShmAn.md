@@ -2,5 +2,4 @@
 title = "०८ आयुषायुःकृतां जीवायुष्मान्"
 
 +++
-आयु॑षायुः॒कृतां॑ जी॒वायु॑ष्मान् जीव॒ मा मृ॑थाः ।  
-प्रा॒णेना॑त्म॒न्वतां जीव॒ मा मृ॒त्योरुद॑गा॒ वश॑म्॥८॥  
+Live with the Life-Creators' life. Die not, live on to lengthened age. Live with the breath of men with souls. Submit not to the power of Death.

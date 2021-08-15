@@ -2,5 +2,4 @@
 title = "०३ करम्भं कृत्वा"
 
 +++
-क॒र॒म्भं कृ॒त्वा ति॒र्यंऽपीबस्पा॒कमु॑दार॒थिम्।  
-क्षु॒धा किल॑ त्वा दुष्टनो जक्षि॒वान्त्स न रू॑रुपः ॥३॥  
+When he hath made of thee a cake, broad, steaming, swelling up with fat, And even in hunger eaten thee, then gripe him not, thou hideous one!

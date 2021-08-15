@@ -2,5 +2,4 @@
 title = "०३ यूयमुग्रा मरुतः"
 
 +++
-यू॒यमु॒ग्रा म॑रुतः पृश्निमातर॒ इन्द्रे॑ण यु॒जा प्र मृ॑णीत॒ शत्रू॑न्।  
-आ वो॒ रोहि॑तः शृणवत् सुदानवस्त्रिष॒प्तासो॑ मरुतः स्वादुसंमुदः॥३॥  
+Ye Maruts, strong and mighty, sons of Prisni, with Indra for ally crush down our foemen. Let Rohita, ye bounteous givers, hear you, thrice-seven Maruts who delight in sweetness!

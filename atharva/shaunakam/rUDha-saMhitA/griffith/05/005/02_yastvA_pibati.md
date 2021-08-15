@@ -2,5 +2,4 @@
 title = "०२ यस्त्वा पिबति"
 
 +++
-यस्त्वा॒ पिब॑ति॒ जीव॑ति॒ त्राय॑से॒ पुरु॑षं॒ त्वम्।  
-भ॒र्त्री हि शश्व॑ता॒मसि॒ जना॑नां च॒ न्यञ्च॑नी ॥२॥  
+Whoever drinketh thee hath life: thou savest and protectest man. As nursing mother of mankind, thou takest all upon thy lap.

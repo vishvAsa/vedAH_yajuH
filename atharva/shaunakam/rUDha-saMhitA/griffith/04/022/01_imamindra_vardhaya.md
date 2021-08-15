@@ -2,5 +2,4 @@
 title = "०१ इममिन्द्र वर्धय"
 
 +++
-इ॒ममि॑न्द्र वर्धय क्ष॒त्रियं॑ म इ॒मं वि॒शामे॑क वृ॒षं कृ॑णु॒ त्वम्।  
-निर॒मित्रा॑नक्ष्णुह्यस्य॒ सर्वां॒स्तान् र॑न्धयास्मा अहमुत्त॒रेषु॑ ॥१॥  
+Exalt and strengthen this my Prince, O Indra, Make him sole lord and leader of the people. Scatter his foes, deliver all his rivals into his hand in struggles for precedence.

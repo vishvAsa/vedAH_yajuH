@@ -2,5 +2,4 @@
 title = "०३ यद् रोदसी"
 
 +++
-यद् रोद॑सी॒ रेज॑माने॒ भूमि॑श्च नि॒रत॑क्षतम्।  
-आ॒र्द्रं तद॒द्य स॑र्व॒दा स॑मु॒द्रस्ये॑व स्रो॒त्याः ॥३॥  
+What the two trembling hemispheres and ground produced and fashioned forth. This All, is ever fresh to-day, even as the currents of the sea.

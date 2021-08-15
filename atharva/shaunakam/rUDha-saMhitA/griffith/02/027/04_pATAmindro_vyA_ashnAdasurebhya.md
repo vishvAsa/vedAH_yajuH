@@ -2,5 +2,4 @@
 title = "०४ पाटामिन्द्रो व्याऽश्नादसुरेभ्य"
 
 +++
-पा॒टामिन्द्रो॒ व्याऽश्ना॒दसु॑रेभ्य॒ स्तरी॑तवे ।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे ॥४॥  
+Indra devoured the Pata plant that he might lay the Asuras low. Refute mine adversary's speech! Render them dull and flat, O Plant.

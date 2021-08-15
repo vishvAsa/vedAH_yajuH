@@ -2,5 +2,4 @@
 title = "०५ विद्म वै"
 
 +++
-वि॒द्म वै ते॑ जायान्य॒ जानं॒ यतो॑ जायान्य॒ जाय॑से ।  
-क॒थं ह॒ तत्र॒ त्वं ह॑नो॒ यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे॥५॥  
+We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast thou then struck this man here, him in whose house we sacrifice?

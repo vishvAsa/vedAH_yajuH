@@ -2,5 +2,4 @@
 title = "२६ प्राण मा"
 
 +++
-प्राण॒ मा म॑त् प॒र्यावृ॑तो॒ न मद॒न्यो भ॑विष्यसि ।  
-अ॒पां गर्भ॑मिव जी॒वसे॒ प्राण॑ ब॒ध्नामि॑ त्वा॒ मयि॑ ॥२६॥
+Thou, Prana, never shalt be hid, never shalt be estranged from me. I bind thee on myself for life, O Prana, like the Waters' germ.

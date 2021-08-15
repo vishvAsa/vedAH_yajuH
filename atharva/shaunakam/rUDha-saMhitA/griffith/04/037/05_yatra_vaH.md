@@ -2,5 +2,4 @@
 title = "०५ यत्र वः"
 
 +++
-यत्र॑ वः प्रे॒ङ्खा हरि॑ता॒ अर्जु॑ना उ॒त यत्रा॑घा॒ताः क॑र्क॒र्यः सं॒वद॑न्ति ।  
-तत् परे॑ताप्सरसः॒ प्रति॑बुद्धा अभूतन ॥५॥  
+Hither hath come this one, the most effectual of herbs and plants.

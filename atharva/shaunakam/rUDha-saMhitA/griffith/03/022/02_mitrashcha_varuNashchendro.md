@@ -2,4 +2,4 @@
 title = "०२ मित्रश्च वरुणश्चेन्द्रो"
 
 +++
-मि॒त्रश्च॒ वरु॑ण॒श्चेन्द्रो॑ रु॒द्रश्च॑ चेततु । दे॒वासो॑ वि॒श्वधा॑यस॒स्ते मा॑ञ्जन्तु॒ वर्च॑सा ॥२॥  
+On this have Mitra, Varuna, Indra, and Rudra fixed their thought. May those all-fostering deities anoint and balm me with his strength.

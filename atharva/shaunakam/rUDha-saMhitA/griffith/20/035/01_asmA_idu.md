@@ -2,5 +2,4 @@
 title = "०१ अस्मा इदु"
 
 +++
-अ॒स्मा इदु॒ प्र त॒वसे॑ तु॒राय॒ प्रयो॒ न ह॑र्मि॒ स्तोमं॒ माहि॑नाय ।  
-ऋची॑षमा॒याध्रि॑गव॒ ओह॒मिन्द्रा॑य॒ ब्रह्मा॑णि रा॒तत॑मा ॥१॥  
+To him, to him swift, strong, and high-exalted, I bring my song of praise as dainty viands; My thought to him resistless, meet for praises, prayers offered most devotedly to Indra.

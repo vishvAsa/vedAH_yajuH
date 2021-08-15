@@ -2,5 +2,4 @@
 title = "०५ सं वो"
 
 +++
-सं वो॒ मनां॑सि॒ सं व्र॒ता समाकू॑तीर्नमामसि ।  
-अ॒मी ये विव्र॑ता॒ स्थन॒ तान् वः॒ सं न॑मयामसि ॥५॥  
+We bend together all your minds, your vows and purposes we bend. We bend together you who stand apart with hopes opposed to ours.

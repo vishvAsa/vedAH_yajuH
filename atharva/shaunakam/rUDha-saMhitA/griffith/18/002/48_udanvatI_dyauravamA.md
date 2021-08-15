@@ -2,5 +2,4 @@
 title = "४८ उदन्वती द्यौरवमा"
 
 +++
-उ॒द॒न्वती॒ द्यौर॑व॒मा पी॒लुम॒तीति॑ मध्य॒मा।  
-तृ॒तीया॑ ह प्र॒द्यौरिति॒ य॑स्यां पि॒तर॒ आस॑ते ॥४८॥  
+The lowest is the Watery heaven, Pilumati the middlemost; The third and highest, that wherein the Fathers dwell, is called Pradyaus.

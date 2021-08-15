@@ -2,5 +2,4 @@
 title = "०१ दौष्वप्न्यं दौर्जीवित्यं"
 
 +++
-दौष्व॑प्न्यं दौर्जी॑वित्यं॒ रक्षो॑ अ॒भ्वऽमरा॒य्यः ।  
-दु॒र्णाम्नीः॒ सर्वा॑ दु॒र्वाच॒स्ता अ॒स्मन्ना॑शयामसि ॥१॥
+The fearful dream, and indigence, the monster, the malignant hags. All female fiends of evil name and wicked tongue we drive afar.

@@ -2,5 +2,4 @@
 title = "०८ हतो येवाषः"
 
 +++
-ह॒तो येवा॑षः॒ क्रिमी॑णां ह॒तो न॑दनि॒मोत।  
-सर्वा॒न् नि म॑ष्म॒षाक॑रं दृ॒षदा॒ खल्वाँ॑ इव ॥८॥  
+The worm Saranga, white of hue, three-headed, with a triple hump, I split and tear his ribs away, I wrench off every head he has.

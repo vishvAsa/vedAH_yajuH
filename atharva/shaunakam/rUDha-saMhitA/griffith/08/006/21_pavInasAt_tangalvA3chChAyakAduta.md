@@ -2,5 +2,4 @@
 title = "२१ पवीनसात् तङ्गल्वा३च्छायकादुत"
 
 +++
-प॒वी॒न॒सात् त॑ङ्ग॒ल्वा॒३च्छाय॑कादु॒त नग्न॑कात्।  
-प्र॒जायै॒ पत्ये॑ त्वा पि॒ङ्गः परि॑ पातु किमी॒दिनः॑ ॥२१॥  
+From the Kimidin, for thy lord and children, Pinga shield thee well, From Sayaka, and Nagnaka, Tangalva, and Pavinasa.

@@ -2,5 +2,4 @@
 title = "०४ दिवि न"
 
 +++
-दि॒वि न के॒तुरधि॑ धायि हर्य॒तो वि॒व्यच॒द् वज्रो॒ हरि॑तो॒ न रंह्या॑ ।  
-तु॒ददहिं हरि॑शिप्रो॒ य आ॑य॒सः स॒हस्र॑शोका अभवद्धरिंभ॒रः ॥४॥  
+As if a lovely ray were laid upon the sky, the golden thunder- bolt spread out as in a race. That iron bolt with yellow jaw smote Ahi down. A thousand flames had he who bore the tawny-hued.

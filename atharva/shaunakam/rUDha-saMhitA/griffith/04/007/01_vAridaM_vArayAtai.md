@@ -2,5 +2,4 @@
 title = "०१ वारिदं वारयातै"
 
 +++
-वारि॒दं वा॑रयातै वर॒णाव॑त्या॒मधि॑ ।  
-तत्रा॒मृत॒स्यासि॑क्त॒ तेना॑ ते वारये वि॒षम्॥१॥  
+So may this water guard us on the bank of Varanavati. Therein hath Amrit been infused: with that I ward thy poison off.

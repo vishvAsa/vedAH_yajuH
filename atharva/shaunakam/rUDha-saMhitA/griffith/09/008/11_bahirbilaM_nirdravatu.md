@@ -2,5 +2,4 @@
 title = "११ बहिर्बिलं निर्द्रवतु"
 
 +++
-ब॒हिर्बिलं॒ निर्द्र॑वतु॒ काहा॑बाहं॒ तवो॒दरा॑त्।  
-यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत्॥११॥  
+Forth from the hollow let it run, and rumbling sounds from thine inside. I have evoked the poison-taint of all Consumptions out of thee.

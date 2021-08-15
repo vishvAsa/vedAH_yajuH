@@ -2,5 +2,4 @@
 title = "२० अजो वा"
 
 +++
-अ॒जो वा इ॒दमग्ने॒ व्यऽक्रमत॒ तस्योर॑ इ॒यम॑भव॒द् द्यौः पृ॒ष्ठम्।  
-अ॒न्तरि॑क्षं॒ मध्यं॒ दिशः॑ पा॒र्श्वे स॑मु॒द्रौ कु॒क्षी॥२०॥  
+This Unborn cleft apart in the beginning: his breast became the earth, his back was heaven. His middle was the air, his sides the regions; the hollows of his belly formed both oceans.

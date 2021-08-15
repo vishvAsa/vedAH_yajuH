@@ -2,6 +2,4 @@
 title = "२५ शिशुमारा अजगराः"
 
 +++
-शि॒शु॒मारा॑ अजग॒राः पु॑री॒कया॑ ज॒षा मत्स्या॑ रज॒सा येभ्यो॒ अस्य॑सि ।  
-न ते॑ दू॒रं न प॑रि॒ष्ठास्ति॑ ते भव स॒द्यः सर्वा॒न् परि॑  
-पश्यसि॒ भूमिं॒ पूर्व॑स्माद्धं॒स्युत्त॑रस्मिन्समु॒द्रे॥२५॥  
+Porpoises, serpents, strange aquatic monsters, fishes, and things unclean at which thou shootest. Nothing is far for thee, naught checks thee, Bhava! The whole earth in a moment thou surveyest. From the east sea thou smitest in the northern.

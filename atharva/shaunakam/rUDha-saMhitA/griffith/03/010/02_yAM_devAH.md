@@ -2,5 +2,4 @@
 title = "०२ यां देवाः"
 
 +++
-यां दे॒वाः प्र॑ति॒नन्द॑न्ति॒ रात्रिं॑ धे॒नुमु॑पाय॒तीम्।  
-सं॒व॒त्स॒रस्य॒ या पत्नी॒ सा नो॑ अस्तु सुमङ्ग॒ली॥२॥  
+May she whom Gods accept with joy, Night who approacheth. as a cow, She who is Consort of the Year, bring us abundant happiness

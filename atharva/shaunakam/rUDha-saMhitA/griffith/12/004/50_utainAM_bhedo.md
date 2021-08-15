@@ -2,5 +2,4 @@
 title = "५० उतैनां भेदो"
 
 +++
-उ॒तैनां॑ भे॒दो नाद॑दाद् व॒शामिन्द्रे॑ण याचि॒तः ।  
-तस्मा॒त् तं दे॒वा आग॒सोऽवृ॑श्चन्नहमुत्त॒रे॥५०॥  
+Solicited by Indra, still Bheda refused to give this Cow. In strife for victory the Gods destroyed him for that sin of his.

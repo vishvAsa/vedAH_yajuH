@@ -2,5 +2,4 @@
 title = "०३ अयं विष्कन्धं"
 
 +++
-अ॒यं विष्क॑न्धं सहते॒ऽयं बा॑धते अ॒त्त्रिणः॑ ।  
-अ॒यं नो॑ वि॒श्वभे॑षजो जङ्गि॒डः पा॒त्वंह॑सः ॥३॥  
+This overcomes Vishkandha, this chases the greedy fiends away: May this our panacea, may Jangida save us from distress.

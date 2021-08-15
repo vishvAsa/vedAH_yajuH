@@ -2,5 +2,4 @@
 title = "०१ यदस्या अंहुभेद्याः"
 
 +++
-यद॑स्या अंहु॒भेद्याः॑ कृ॒धु स्थू॒लमु॒पात॑सत्।  
-मु॒ष्काविद॑स्या एज॒तो गो॑श॒फे श॑कु॒लावि॑व ॥१॥  
+Si quis in hujus tenui rima praeditae feminae augustias fascinum intromittit, vaccae ungularum et Sakula. rum pisci- um more pudenda ejus agitantur.

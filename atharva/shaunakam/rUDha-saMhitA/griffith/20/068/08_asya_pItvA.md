@@ -2,4 +2,4 @@
 title = "०८ अस्य पीत्वा"
 
 +++
-अ॒स्य पी॒त्वा श॑तक्रतो घ॒नो वृ॒त्राणा॑मभवः । प्रावो॒ वाजे॑षु वा॒जिन॑म्॥८॥  
+Thou, Satakratu, drankest this and wast the Vritras' slayer; thou. Helpest the warrior in the fray.

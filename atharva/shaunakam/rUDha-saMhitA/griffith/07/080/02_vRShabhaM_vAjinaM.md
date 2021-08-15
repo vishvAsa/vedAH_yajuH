@@ -2,5 +2,4 @@
 title = "०२ वृषभं वाजिनं"
 
 +++
-वृ॒ष॒भं वा॒जिनं॑ व॒यं पौ॑र्णमा॒सं य॑जामहे ।  
-स नो॑ ददा॒त्वक्षि॑तां र॒यिमनु॑पदस्वतीम्॥२॥  
+To him, the Full Moon's mighty Bull, we pay our solemn sacri- fice. May he bestow upon us wealth unwasting, inexhaustible.

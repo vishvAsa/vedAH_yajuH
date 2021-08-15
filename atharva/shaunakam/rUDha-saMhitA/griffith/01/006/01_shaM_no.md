@@ -2,4 +2,4 @@
 title = "०१ शं नो"
 
 +++
-शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवन्तु पी॒तये॑ । शं योर॒भि स्र॑वन्तु नः ॥१॥  
+The Waters be to us for drink, Goddesses, for our aid and bliss: Let them stream health and wealth to us.

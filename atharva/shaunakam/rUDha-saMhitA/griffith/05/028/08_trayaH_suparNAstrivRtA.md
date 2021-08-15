@@ -2,5 +2,4 @@
 title = "०८ त्रयः सुपर्णास्त्रिवृता"
 
 +++
-त्रयः॑ सुप॒र्णास्त्रि॒वृता॒ यदाय॑न्नेकाक्ष॒रम॑भिसं॒भूय॑ श॒क्राः ।  
-प्रत्यौ॑हन् मृ॒त्युम॒मृते॑न सा॒कम॑न्त॒र्दधा॑ना दुरि॒तानि॑ विश्वा॑ ॥८॥  
+When with the three-stringed charm came three strong eagles, sharing the Sacred Syllable and mighty, With immortality they drove off Mrityu, obscuring and conceal- ing all distresses.

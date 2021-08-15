@@ -2,5 +2,4 @@
 title = "०२ नमोऽस्तु ते"
 
 +++
-नमो॑ऽस्तु ते निरृते तिग्मतेजोऽय॒स्मया॒न् वि चृ॑ता बन्धपा॒शान्।  
-य॒मो मह्यं॒ पुन॒रित् त्वां द॑दाति॒ तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥२॥  
+To thee, sharp-pointed Nirriti, be homage! Loose thou the binding fetters wrought of iron. To me, in truth, again doth Yama give thee. To him, to Yama, yea, to Death, be homage!

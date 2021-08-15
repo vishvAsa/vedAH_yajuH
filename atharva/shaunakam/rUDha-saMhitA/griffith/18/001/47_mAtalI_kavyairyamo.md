@@ -2,5 +2,4 @@
 title = "४७ मातली कव्यैर्यमो"
 
 +++
-मात॑ली क॒व्यैर्य॒मो अङ्गि॑रोभि॒र्बृह॒स्पति॒र्ऋक्व॑भिर्वावृधा॒नः ।
-यांश्च॑ दे॒वा वा॑वृ॒धुर्ये च॑ दे॒वांस्ते नो॑ऽवन्तु पि॒तरो॒ हवे॑षु ॥४७॥
+Matali prospers there with Kavyas, Yama with Angiras' sons, Brihaspati with singers. Exalters of the Gods, by Gods exalted, aid us those Fathers in our invocations?

@@ -2,5 +2,4 @@
 title = "०५ मुग्धा देवा"
 
 +++
-मु॒ग्धा दे॒वा उ॒त शुनाय॑जन्तो॒त गोरङ्गैः॑ पुरु॒धाय॑जन्त ।  
-य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॑स्तमि॑हेह ब्र॑वः ॥५॥
+With dog the Gods, perplexed, have paid oblation, and with cow's limbs in sundry sacrifices. Invoke for us, in many a place declare him who with his mind. hath noticed this our worship.

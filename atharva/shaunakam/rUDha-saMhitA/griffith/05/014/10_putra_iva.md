@@ -2,5 +2,4 @@
 title = "१० पुत्र इव"
 
 +++
-पु॒त्र इ॑व पि॒तरं॑ गच्छ स्व॒ज इ॑वा॒भिष्ठि॑तो दश ।  
-ब॒न्धमि॑वावक्रा॒मी ग॑च्छ॒ कृत्ये॑ कृत्या॒कृतं॒ पुनः॑ ॥१०॥  
+Go as a son goes to his sire: bite as a trampled viper bites. As one who flies from bonds, go back, O Witchcraft, to the sorcerer.

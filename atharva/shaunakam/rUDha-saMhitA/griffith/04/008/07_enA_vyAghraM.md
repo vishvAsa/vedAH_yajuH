@@ -2,5 +2,4 @@
 title = "०७ एना व्याघ्रं"
 
 +++
-ए॒ना व्या॒घ्रं प॑रिषस्वजा॒नाः सिं॒हं हि॑न्वन्ति मह॒ते सौभ॑गाय ।  
-स॒मु॒द्रं न सु॒भुव॑स्तस्थि॒वांसं॑ मर्मृ॒ज्यन्ते॑ द्वी॒पिन॑म॒प्स्व॑१न्तः ॥७॥
+These, compassing the tiger, rouse the lion to great joy and bliss. As strong floods purify the standing ocean, so men adorn the leopard in the waters

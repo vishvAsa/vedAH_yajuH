@@ -2,5 +2,4 @@
 title = "२३ यास्ते जङ्घाः"
 
 +++
-यास्ते॒ जङ्घाः॒ याः कुष्ठि॑का ऋ॒च्छरा॒ ये च॑ ते श॒फाः ।  
-आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥२३॥  
+Let all thy legs, the refuse of thy feet, thy heelropes, and thy hooves. Pour for the giver mingled curd, and flowing butter milk, and mead.

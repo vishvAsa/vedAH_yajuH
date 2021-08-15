@@ -2,5 +2,4 @@
 title = "५१ ये वशाया"
 
 +++
-ये व॒शाया॒ अदा॑नाय॒ वद॑न्ति परिरा॒पिणः॑ ।  
-इन्द्र॑स्य म॒न्यवे॑ जा॒ल्मा आ वृ॑श्चन्ते॒ अचि॑त्त्या ॥५१॥  
+The men of evil counsel who advise refusal of the Cow, Miscreants, through their foolishness, are subjected to Indra's wrath.

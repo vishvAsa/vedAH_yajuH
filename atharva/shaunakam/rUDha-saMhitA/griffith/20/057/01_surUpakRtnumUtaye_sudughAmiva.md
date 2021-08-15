@@ -2,4 +2,4 @@
 title = "०१ सुरूपकृत्नुमूतये सुदुघामिव"
 
 +++
-सु॒रू॒प॒कृ॒त्नुमू॒तये॑ सु॒दुघा॑मिव गो॒दुहे॑ ।जु॒हूमसि॒ द्यवि॑द्यवि ॥१॥  
+As a good cow to him who milks, we call the doer of fair deeds. To our assistance day by day.

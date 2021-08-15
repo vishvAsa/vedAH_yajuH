@@ -2,6 +2,4 @@
 title = "२५ यस्ते गन्धः"
 
 +++
-यस्ते॑ ग॒न्धः पुरु॑षेषु स्त्री॒षु पुं॒सु भगो॒ रुचिः॑ ।  
-यो अश्वे॑षु वी॒रेषु॒ यो मृ॒गेषू॒त ह॒स्तिषु॑ ।  
-क॒न्याऽयां॒ वर्चो॒ यद् भू॑मे॒ तेना॒स्मां अपि॒ सं सृ॑ज॒ मा नो॑ द्विक्षत॒ कश्च॒न॥२५॥  
+Thy scent in women and in men, the luck and light that is in. males, That is in heroes and in steeds in sylvan beasts and elephants, The splendid energy of maids, therewith do thou unite us,. Earth! Let no man look on us with hate.

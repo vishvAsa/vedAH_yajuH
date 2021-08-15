@@ -2,5 +2,4 @@
 title = "०१ स्वस्तिदा विशां"
 
 +++
-स्वस्ति॒दा वि॒शां पति॑र्वृत्र॒हा वि॑मृ॒धो॑ व॒शी।  
-वृषेन्द्रः॑ पु॒र ए॑तु नः सोम॒पा अ॑भयंक॒रः ॥१॥  
+Lord of the clans, giver of bliss, fiend-slayer, mighty o'er the foe, May Indra, Soma-drinker, go before us, Bull, who brings us peace.

@@ -2,5 +2,4 @@
 title = "०१ अव दिवस्तारयन्ति"
 
 +++
-अव॑ दि॒वस्ता॑रयन्ति स॒प्त सूर्य॑स्य र॒श्मयः॑ ।  
-आपः॑ समु॒द्रिया॒ धारा॒स्तास्ते॑ श॒ल्यम॑सिस्रसन्॥१॥
+The seven bright beams of Surya bring the waters downward from the sky, The streams of ocean: these have made the sting that pained thee drop away.

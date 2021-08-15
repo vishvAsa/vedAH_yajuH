@@ -2,5 +2,4 @@
 title = "०७ वषड् ढुतेभ्यो"
 
 +++
-वष॑ड् ढु॒तेभ्यो॒ वष॒डहु॑तेभ्यः ।  
-देवा॑ गातुविदो गा॒तुं वि॒त्त्वा गा॒तुमि॑त ॥७॥  
+Vashat to paid and yet unpaid oblations! Ye Gods who know the way, find and pursue it!

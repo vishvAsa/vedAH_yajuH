@@ -2,5 +2,4 @@
 title = "०१ यथा वृक्षमशनिर्विश्वाहा"
 
 +++
-यथा॑ वृ॒क्षम॒शनि॑र्वि॒श्वाहा॒ हन्त्य॑प्र॒ति।  
-ए॒वाहम॒द्य कि॑त॒वान॒क्षैर्ब॑ध्यासमप्र॒ति॥१॥  
+As evermore the lightning flash strikes, irresistible, the tree, So, irresistible, may I conquer the gamblers with the dice.

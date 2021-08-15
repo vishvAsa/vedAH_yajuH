@@ -2,5 +2,4 @@
 title = "०१ तिरश्चिराजेरसितात् पृदाकोः"
 
 +++
-तिर॑श्चिराजेरसि॒तात् पृदा॑कोः॒ परि॒ संभृ॑तम्।  
-तत् क॒ङ्कप॑र्वणो वि॒षमि॒यं वी॒रुद॑नीनशत्॥१॥  
+Whether it came from viper, from black snake or snake with transverse stripes, Or Kankaparvan's bite, this herb hath made the poison power- less.

@@ -2,5 +2,4 @@
 title = "१२ को अस्मिन्"
 
 +++
-को अ॑स्मिन् रू॒पम॑दधात् को म॒ह्मानं॑ च॒ नाम॑ च ।  
-गा॒तुं को अ॑स्मि॒न् कः के॒तुं कश्च॒रित्रा॑णि॒ पूरु॑षे ॥१२॥  
+Who gave him visible form and shape? Who gave him magni- tude and name? Who gave him motion, consciousness? Who furnished Purusha with feet?

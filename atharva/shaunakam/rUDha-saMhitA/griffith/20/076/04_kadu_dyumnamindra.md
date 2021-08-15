@@ -2,5 +2,4 @@
 title = "०४ कदु द्युम्नमिन्द्र"
 
 +++
-कदु॑ द्यु॒म्नमि॑न्द्र॒ त्वाव॑तो॒ नॄन् कया॑ धि॒या क॑रसे॒ कन्न॒ आग॑न्।  
-मि॒त्रो न स॒त्य उ॑रुगाय भृ॒त्या अन्ने॑ समस्य॒ यदस॑न् मनी॒षाः ॥४॥  
+Indra, what fame hath one like thee mid heroes? With what plan wilt thou act? Why hast thou sought us? As a true friend, Wide-Strider! to sustain us, since food absorbs the thought of each among us.

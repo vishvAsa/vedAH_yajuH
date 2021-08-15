@@ -2,5 +2,4 @@
 title = "०६ यद् वेद"
 
 +++
-यद् वेद॒ राजा॒ वरु॑णो॒ यद् वा॑ दे॒वी सर॑स्वती ।  
-यदिन्द्रो॑ वृत्र॒हा वेद॒ तद् ग॑र्भ॒कर॑णं पिब ॥६॥  
+Drink thou the procreative draught well-known to Varuna the King, Known to divine Sarasvati, and Indra slayer of the foe.

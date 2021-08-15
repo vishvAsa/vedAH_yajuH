@@ -2,5 +2,4 @@
 title = "०४ यस्याञ्जन प्रसर्पस्यङ्गमङ्गं"
 
 +++
-यस्या॑ञ्जन प्र॒सर्प॒स्यङ्ग॑मङ्गं॒ परु॑ष्परुः ।  
-ततो॒ यक्ष्मं॒ वि बा॑धस उ॒ग्रो मध्यम॒शीरि॑व ॥४॥  
+Whomso thou creepest over, Salve! member by member, joint by joint, From him, like some strong arbiter of strife, thou banishest decline.

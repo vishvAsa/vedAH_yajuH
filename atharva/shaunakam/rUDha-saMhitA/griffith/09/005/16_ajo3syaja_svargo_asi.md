@@ -2,5 +2,4 @@
 title = "१६ अजो३स्यज स्वर्गोऽसि"
 
 +++
-अ॒जो॒३स्यज॑ स्वर्गोऽसि॒ त्वया॑ लो॒कमङ्गि॑रसः॒ प्राजा॑नन्।  
-तं लो॒कं पुण्यं॒ प्र ज्ञे॑षम्॥१६॥  
+Unborn art thou, O Goat: to heaven thou goest. Though thee Angirases knew that radiant region. So may I know that holy world.

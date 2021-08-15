@@ -2,5 +2,4 @@
 title = "०९ नक्षत्रमुल्काभिहतं शमस्तु"
 
 +++
-नक्ष॑त्रमु॒ल्काभिह॑तं॒ शम॑स्तु नः॒ शं नो॑ऽभिचा॒राः शमु॑ सन्तु कृ॒त्याः ।  
-शं नो॒ निखा॑ता व॒ल्गाः शमु॒ल्का दे॑शोपस॒र्गाः शमु॑ नो भवन्तु ॥९॥  
+Gracious be meteor-stricken constellation, gracious to us be magic spells and witchcraft! Gracious to us be buried charms, and gracious the meteors and the portents of the region!

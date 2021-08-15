@@ -2,5 +2,4 @@
 title = "०४ पक्षी जायान्यः"
 
 +++
-प॒क्षी जा॒यान्यः॑ पतति॒ स आ वि॑शति॒ पूरु॑षम्।  
-तदक्षि॑तस्य भेष॒जमु॒भयोः॒ सुक्ष॑तस्य च ॥४॥  
+Scrofula flies borne on by wings: it penerates and holds the man. Here is the cure of either kind, the chronic and the transient.

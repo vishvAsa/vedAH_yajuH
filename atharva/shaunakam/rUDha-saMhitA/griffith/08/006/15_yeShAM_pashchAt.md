@@ -2,6 +2,4 @@
 title = "१५ येषां पश्चात्"
 
 +++
-येषां॑ प॒श्चात् प्रप॑दानि पु॒रः पार्ष्णीः॑ पु॒रो मुखा॑ ।  
-ख॒ल॒जाः श॑कधूम॒जा उरु॑ण्डा॒ ये च॑ मट्म॒टाः कु॒म्भमु॑ष्का अया॒शवः॑ ।  
-तान॒स्या ब्र॑ह्मणस्पते प्रतीबो॒धेन॑ नाशय ॥१५॥  
+Those who have retroverted toes, and heels and faces in the front, Khalajas, Sakadhumajas, Urundas, all the Matmatas, impotent Kumbhamushkas, these, Drive thou, O Brahmanaspati, far from this girl with vigilance.

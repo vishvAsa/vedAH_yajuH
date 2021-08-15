@@ -2,5 +2,4 @@
 title = "१४ इयं वेदिः"
 
 +++
-इ॒यं वेदिः॒ परो॒ अन्तः॑ पृथि॒व्या अ॒यं सोमो॒ वृष्णो॒ अश्व॑स्य॒ रेतः॑ ।  
-अ॒यं य॒ज्ञो विश्व॑स्य॒ भुव॑नस्य॒ नाभि॑र्ब्र॒ह्मायं वा॒चः प॑र॒मं व्योऽम ॥१४॥  
+The earth's most distant limit is this altar: this Soma is the Stallion's genial humour; This sacrifice the universe's centre: this Brahman highest heaven where Speech abideth.

@@ -2,6 +2,4 @@
 title = "०२ पदज्ञा स्थ"
 
 +++
-प॒द॒ज्ञा स्थ॒ रम॑तयः॒ संहि॑ता वि॒श्वना॑म्नीः ।  
-उप॑ मा देवीर्दे॒वेभि॒रेत॑ ।  
-इ॒मं गो॒ष्ठमि॒दं सदो॑ घृ॒तेना॒स्मान्त्समु॑क्षत ॥२॥
+Ye know the place and rest content, close-gathered, called by many a name. Come to me, Goddesses, with Gods Bedew with streams of fatness us, this cattle-pen, and all this place.

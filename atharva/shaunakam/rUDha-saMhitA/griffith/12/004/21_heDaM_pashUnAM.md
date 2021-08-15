@@ -2,5 +2,4 @@
 title = "२१ हेडं पशूनां"
 
 +++
-हेडं॑ पशू॒नां न्येऽति ब्राह्म॒णेभ्योऽद॑दद् व॒शाम्।  
-दे॒वानां॒ निहि॑तं भा॒गं मर्त्य॒श्चेन्नि॑प्रिया॒यते॑ ॥२१॥  
+Withholding her from Brahmans, he incurs the anger of the beasts, When mortal man appropriates the destined portion of the Gods.

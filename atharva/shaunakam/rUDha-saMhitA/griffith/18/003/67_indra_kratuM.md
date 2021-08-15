@@ -2,5 +2,4 @@
 title = "६७ इन्द्र क्रतुं"
 
 +++
-इन्द्र॒ क्रतुं॑ न॒ आ भ॑र पि॒ता पु॒त्रेभ्यो॒ यथा॑ ।  
-शिक्षा॑ णो अ॒स्मिन् पु॑रुहूत॒ याम॑नि जी॒वा ज्योति॑रशीमहि ॥६७॥  
+O Indra, bring us wisdom as a sire gives wisdom to his sons. Guide us, O much-invoked in this our way: may we still living look upon the Sun.

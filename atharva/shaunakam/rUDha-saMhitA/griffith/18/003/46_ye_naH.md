@@ -2,5 +2,4 @@
 title = "४६ ये नः"
 
 +++
-ये नः॑ पि॒तुः पि॒तरो॒ ये पि॑ताम॒हा अ॑नूजहि॒रे सो॑मपी॒थं वसि॑ष्ठाः ।  
-तेभि॑र्य॒मः सं॑ररा॒णो ह॒वींष्यु॒शन्नु॒शद्भिः॑ प्रतिका॒मम॑त्तु ॥४६॥  
+Our Father's Fathers and their sires before them who came, most noble, to the Soma banquet, With these let Yama, yearning with the yearning, rejoicing eat our offerings at his pleasure.

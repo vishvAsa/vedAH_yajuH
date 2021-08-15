@@ -2,4 +2,4 @@
 title = "०३ इमा ब्रह्म"
 
 +++
-इ॒मा ब्रह्म॑ ब्रह्मवाहः क्रि॒यन्त॒ आ ब॒र्हिः सी॑द । वी॒हि शू॑र पुरो॒लाश॑म्॥३॥  
+These prayers, O thou who bearest prayer, are offered. Seat thee on the grass. Hero, enjoy the offered cake.

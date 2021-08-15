@@ -2,6 +2,4 @@
 title = "०३ अवैरहत्यायेदमा पपत्यात्"
 
 +++
-अ॒वै॒र॒ह॒त्याये॒दमा प॑पत्यात् सुवी॒रता॑या इ॒दमा स॑सद्यात्।  
-परा॑ङे॒व परा॑ वद॒ परा॑ची॒मनु॑ सं॒वत॑म्।  
-यथा॑ य॒मस्य॑ त्वा गृ॒हेऽर॒सं प्र॑ति॒चाक॑शाना॒भूकं॑ प्रति॒चाक॑शान्॥३॥
+Oft may it fly to us to save our heroes from slaughter, oft perch here to bring fair offspring, Turn thee and send thy voice afar: cry to the region far away; That I may see thee in the home of Yama reft of all thy power, that I may see thee impotent.

@@ -2,4 +2,4 @@
 title = "२२ तं त्वौदनस्य"
 
 +++
-तं त्वौ॑द॒नस्य॑ पृच्छामि॒ यो अ॑स्य महि॒मा म॒हान् ॥२२॥  
+I ask thee, of this Odana what is the mighty magnitude.

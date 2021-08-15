@@ -2,5 +2,4 @@
 title = "०६ क्व१प्रेप्सन्ती युवती"
 
 +++
-क्व॑१प्रेप्स॑न्ती युव॒ती विरू॑पे अहोरा॒त्रे द्र॑वतः संविदा॒ने।  
-यत्र॒ प्रेप्स॑न्तीरभि॒यन्त्यापः॑ स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥६॥  
+Whitherward yearning speed the two young Damsels, accordant, Day and Night, of different colour? Who out of many, tell me, is that Skambha to whom the Waters take their way with longing?

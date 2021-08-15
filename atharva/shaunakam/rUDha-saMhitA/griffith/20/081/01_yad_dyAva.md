@@ -2,5 +2,4 @@
 title = "०१ यद् द्याव"
 
 +++
-यद् द्याव॑ इन्द्र ते श॒तं श॒तं भूमि॑रु॒त स्युः ।  
-न त्वा॑ वज्रिन्त्स॒हस्रं॒ सूर्या॒ अनु॒ न जा॒तम॑ष्ट॒ रोद॑सी ॥१॥  
+O Indra, if a hundred heavens and if a hundred earths were: thine No, not a hundred suns could match thee at thy birth, not, both, the worlds, O Thunderer.

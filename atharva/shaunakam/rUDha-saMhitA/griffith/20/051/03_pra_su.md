@@ -2,5 +2,4 @@
 title = "०३ प्र सु"
 
 +++
-प्र सु श्रु॒तं सु॒राध॑स॒मर्चा॑ श॒क्रम॒भिष्ट॑ये ।  
-यः सु॑न्व॒ते स्तु॑व॒ते काम्यं॒ वसु॑ स॒हस्रे॑णेव॒ मंह॑ते ॥३॥  
+Sakra I praise, for victory, far-famed, exceeding bountiful. Who gives, as 'twere in thousands, precious wealth to him who sheds the juice and worships him.

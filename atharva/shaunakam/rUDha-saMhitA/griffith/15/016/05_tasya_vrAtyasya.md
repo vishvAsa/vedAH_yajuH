@@ -2,4 +2,4 @@
 title = "०५ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य । योऽस्य पञ्च॒मोऽपा॒नः सा दी॒क्षा॥५॥  
+His fifth downward breath is Consecration.

@@ -2,5 +2,4 @@
 title = "१७ पञ्चभिः पराङ्"
 
 +++
-प॒ञ्चभिः॒ परा॑ङ् तप॒स्येक॑या॒र्वाङश॑स्तिमेषि सु॒दिने॒ बाध॑मान॒स्तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१७॥  
+With five thou sendest heat: with one removing the curse thou comest in bright sunshine hither. Manifold are thy great deeds, thine, O Vishnu.

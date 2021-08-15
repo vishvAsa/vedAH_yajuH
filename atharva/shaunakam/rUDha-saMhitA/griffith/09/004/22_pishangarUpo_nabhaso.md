@@ -2,5 +2,4 @@
 title = "२२ पिशङ्गरूपो नभसो"
 
 +++
-पि॒शङ्ग॑रूपो नभ॒सो व॑यो॒धा ऐ॒न्द्रः शुष्मो॑ वि॒श्वरू॑पो न॒ आग॑न्।  
-आयु॑र॒स्मभ्यं॒ दध॑त् प्र॒जां च॑ रा॒यश्च॒ पोषै॑र॒भि नः॑ सचताम्॥२२॥  
+With close connexion mingle with the cows in this our cattle- pen: Mingle, the Bull's prolific flow, and, Indra! thine heroic strength!

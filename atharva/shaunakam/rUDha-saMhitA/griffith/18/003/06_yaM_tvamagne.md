@@ -2,5 +2,4 @@
 title = "०६ यं त्वमग्ने"
 
 +++
-यं त्वम॑ग्ने स॒मद॑ह॒स्तमु॒ निर्वा॑पया॒ पुनः॑ ।  
-क्याम्बू॒रत्र॑ रोहतु शाण्डदू॒र्वा व्य॒ऽल्कशा ॥६॥  
+Cool, Agni, and again refresh the spot which thou hast scorched and burnt. Here let the water-lily grow, and tender grass and leafy plant.

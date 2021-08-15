@@ -2,5 +2,4 @@
 title = "३५ ऊर्ध्वायां त्वा"
 
 +++
-ऊ॒र्ध्वायां॑ त्वा दि॒शि पु॒रा सं॒वृतः॑ स्व॒धाया॒मा द॑धामि बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑ ।  
-लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥३५॥  
+Toward the upmost region I supply thee, before thou goest homeward, with oblation, as in her arms Earth bears the heaven above us. Those who give room, who made the paths, we worship, you, mid the Gods, who share the gifts we offer.

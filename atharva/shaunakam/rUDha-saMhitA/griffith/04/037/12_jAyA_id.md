@@ -2,5 +2,4 @@
 title = "१२ जाया इद्"
 
 +++
-जा॒या इद् वो॑ अप्स॒रसो॒ गन्ध॑र्वाः॒ पत॑यो यू॒यम्।  
-अप धावतामर्त्या॒ मर्त्या॒न् मा स॑चध्वम्॥१२॥
+Your wives are the Apsarases, and ye, Gandharvas, are their lords. Run ye, immortal ones, away: forbear to interfere with men!

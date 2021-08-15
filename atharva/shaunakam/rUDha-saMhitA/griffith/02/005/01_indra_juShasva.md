@@ -2,5 +2,4 @@
 title = "०१ इन्द्र जुषस्व"
 
 +++
-इन्द्र॑ जु॒षस्व॒ प्र व॒हा या॑हि शूर॒ हरि॑भ्याम्।  
-पिबा॑ सु॒तस्य॑ म॒तेरि॒ह मधो॑श्चका॒नश्चारु॒र्मदा॑य ॥१॥  
+Indra, be gracious, drive thou forth, come, Hero, with thy two bay steeds. Taste the libation, hither, enjoying meath and the hymn, come, fair, to the banquet.

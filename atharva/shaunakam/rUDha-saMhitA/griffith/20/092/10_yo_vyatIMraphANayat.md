@@ -2,5 +2,4 @@
 title = "१० यो व्यतींरफाणयत्"
 
 +++
-यो व्यतीं॒रफा॑णय॒त् सुयु॑क्तां॒ उप॑ दा॒शुषे॑ ।  
-त॒क्वो ने॒ता तदिद् वपु॑रुप॒मा यो अमु॑च्यत ॥१०॥  
+He who hath made the fleet steeds spring, well-harnessed, to the worshipper, He, the swift guide, is that fair form thot loosed the horses near at hand.

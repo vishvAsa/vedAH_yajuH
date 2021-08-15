@@ -2,5 +2,4 @@
 title = "४६ इदं पितृभ्यो"
 
 +++
-इ॒दं पि॒तृभ्यो॒ नमो॑ अस्त्व॒द्य ये पूर्वा॑सो॒ ये अप॑रास ई॒युः ।
-ये पार्थि॑वे॒ रज॒स्या निष॑क्ता॒ ये वा॑ नू॒नं सु॑वृ॒जना॑सु दि॒क्षु॥४६॥
+Now be this homage offered to the Fathers, to those who passed of old and those who followed, Those who have rested in the earthly region and those who dwell among the happy races.

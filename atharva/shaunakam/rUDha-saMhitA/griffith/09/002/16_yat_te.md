@@ -2,5 +2,4 @@
 title = "१६ यत् ते"
 
 +++
-यत् ते काम॒ शर्म॑ त्रि॒वरू॑थमु॒द्भु ब्रह्म॒ वर्म॒ वित॑तमनतिव्या॒ध्यंऽ कृ॒तम्।  
-तेन॑ स॒पत्ना॒न् परि॑ वृङ्ग्धि॒ ये मम॒ पर्ये॑नान् प्रा॒णः प॒शवो॒ जीव॑नं वृणक्तु ॥१६॥  
+Thy firm and triply-barred protection, Kama! thy spell, made weapon-proof extended armour With that drive thou my foemen to a distance. May cattle, vital breath, and life forsake them.

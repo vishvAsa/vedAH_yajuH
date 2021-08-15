@@ -2,5 +2,4 @@
 title = "१४ सोम एकेभ्यः"
 
 +++
-सोम॒ एके॑भ्यः पवते घृ॒तमेक॒ उपा॑सते ।  
-येभ्यो॒ मधु॑ प्र॒धाव॑ति॒ तां॑श्चिदे॒वापि॑ गच्छतात्॥१४॥  
+For some the Soma juice runs clear some sit by sacrificial oil. To those for whom the meath flows forth, even to those let him depart.

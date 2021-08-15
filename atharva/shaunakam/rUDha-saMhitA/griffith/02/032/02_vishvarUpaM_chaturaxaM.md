@@ -2,5 +2,4 @@
 title = "०२ विश्वरूपं चतुरक्षं"
 
 +++
-वि॒श्वरू॑पं चतुर॒क्षं क्रिमिं॑ सा॒रङ्ग॒मर्जु॑नम्।  
-शृ॒णाम्य॑स्य पृ॒ष्टीरपि॑ वृश्चामि॒ यच्छिरः॑ ॥२॥  
+The four-eyed worm, of every shape, the variegated, and the white I break and crush the creature's ribs, and tear away its head besides.

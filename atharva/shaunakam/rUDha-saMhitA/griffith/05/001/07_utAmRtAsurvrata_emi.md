@@ -2,5 +2,4 @@
 title = "०७ उतामृतासुर्व्रत एमि"
 
 +++
-उ॒तामृता॑सु॒र्व्रत॑ एमि कृ॒न्वन्नसु॑रा॒त्मा त॒न्व॑१स्तत् सु॒मद्गुः॑ ।  
-उ॒त वा॑ श॒क्रो रत्नं॒ दधा॑त्यू॒र्जया॑ वा॒ यत् सच॑ते हवि॒र्दाः ॥७॥  
+Working, I go my way with deathless spirit: life, spirit, bodies have gone gladly thither. Aye, Sakra also gives his gift of treasure as when the sacrificer meets with power.

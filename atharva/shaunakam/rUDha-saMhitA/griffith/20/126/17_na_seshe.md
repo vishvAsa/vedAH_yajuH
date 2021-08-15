@@ -2,5 +2,4 @@
 title = "१७ न सेशे"
 
 +++
-न सेशे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते ।  
-सेदी॑शे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३ कपृ॑द् विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥१७॥  
+Indra speaks. Non fortis est ille cujus, quum sederit, membrum pilosum se extendit: fortis vero est ille cujus mentula laxe inter femora dependet. Super omnia est Indra.

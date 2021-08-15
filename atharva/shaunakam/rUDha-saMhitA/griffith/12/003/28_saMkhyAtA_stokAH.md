@@ -2,5 +2,4 @@
 title = "२८ संख्याता स्तोकाः"
 
 +++
-संख्या॑ता स्तो॒काः पृ॑थि॒वीं स॑चन्ते प्राणापा॒नैः संमि॑ता॒ ओष॑धीभिः ।  
-असं॑ख्याता ओ॒प्यमा॑नाः सु॒वर्णाः॒ सर्वं॒ व्याऽपुः॒ शुच॑यः शुचि॒त्वम्॥२८॥  
+Numbered, they visit earth, these drops of moisture, commensu- rate with plants and vital breathings, Unnumbered, scattered, beautiful in colour, the bright, ones have pervaded all refulgence.

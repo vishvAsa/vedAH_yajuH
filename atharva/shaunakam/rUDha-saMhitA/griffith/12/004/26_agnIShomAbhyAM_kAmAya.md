@@ -2,5 +2,4 @@
 title = "२६ अग्नीषोमाभ्यां कामाय"
 
 +++
-अ॒ग्नीषोमा॑भ्यां॒ कामा॑य मि॒त्राय॒ वरु॑णाय च ।  
-तेभ्यो॑ याचन्ति ब्राह्म॒णास्तेष्वा वृ॑श्च॒तेऽद॑दत्॥२६॥  
+For Agni and for Soma, for Kama, Mitra and Varuna, For these the Brahmans ask: from these is he who giveth not estranged.

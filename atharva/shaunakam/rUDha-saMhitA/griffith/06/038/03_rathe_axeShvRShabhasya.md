@@ -2,5 +2,4 @@
 title = "०३ रथे अक्षेष्वृषभस्य"
 
 +++
-रथे॑ अ॒क्षेष्वृ॑ष॒भस्य॒ वाजे॒ वाते॑ प॒र्जन्ये॒ वरु॑णस्य॒ शुष्मे॑ ।  
-इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना॥३॥  
+Might in car, axles, in the strong bull's courage, in Varuna's breath, in Vata, in Parjanya, In Warrior, in the war-drum stretched for battle, in the man's roar and in the horse's mettle, May the blest Goddess who gave birth to Indra come unto us conjoined with strength and vigour.

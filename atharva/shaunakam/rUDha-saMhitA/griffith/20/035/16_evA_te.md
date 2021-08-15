@@ -2,5 +2,4 @@
 title = "१६ एवा ते"
 
 +++
-ए॒वा ते॑ हारियोजना सुवृ॒क्तीन्द्र॒ ब्रह्मा॑णि॒ गोत॑मासो अक्रन्।  
-ऐषु॑ वि॒श्वपे॑शसं॒ धियं॑ धाः प्रा॒तर्म॒क्षू धि॒याव॑सु॒र्जगम्यात्॥१६॥
+Thus to thee, Indra, yoker of bay coursers, the Gotamas have brought their prayers and praises. Bestow upon them thought, decked with all beauty. May he, enriched with prayer, come soon and early.

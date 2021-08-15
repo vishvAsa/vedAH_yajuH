@@ -2,5 +2,4 @@
 title = "१२ दिवि त्वात्त्रिरधारयत्"
 
 +++
-दि॒वि त्वात्त्रि॑रधारय॒त् सूर्या॒ मासा॑य॒ कर्त॑वे ।  
-स ए॑षि॒ सुधृ॑त॒स्तप॒न् विश्वा॑ भू॒ताव॒चाक॑शत्॥१२॥  
+Atri established thee in heaven. O Surya, to create the month. So on thou goest, firmly held, heating, beholding all that is.

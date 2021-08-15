@@ -2,5 +2,4 @@
 title = "०४ उन्मादयत मरुत"
 
 +++
-उन्मा॑दयत मरुत॒ उद॑न्तरिक्ष मादय ।  
-अग्न॒ उन्मा॑दया॒ त्वम॒सौ मामनु॑ शोचतु ॥४॥
+Madden him, Maruts, madden him. Madden him, madden him, O Air. Madden him, Agni, madden him. Let him consume with love of me.

@@ -2,5 +2,4 @@
 title = "४३ आरोहन् द्याममृतः"
 
 +++
-आ॒रोह॒न् द्याम॒मृतः॒ प्राव॑ मे॒ वचः॑ ।  
-उत् त्वा॑ य॒ज्ञा ब्रह्म॑पूता वहन्त्यध्व॒गतो॒ हर॑यस्त्वा वहन्ति ॥४३॥  
+Rising to heaven, immortal, hear my calling. Cleansed by prayer, sacrifices bear thee upward. Bay coursers, ever on the road, convey thee.

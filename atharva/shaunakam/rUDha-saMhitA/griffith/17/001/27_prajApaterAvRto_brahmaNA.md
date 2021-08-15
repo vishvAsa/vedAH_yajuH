@@ -2,5 +2,4 @@
 title = "२७ प्रजापतेरावृतो ब्रह्मणा"
 
 +++
-प्र॒जाप॑ते॒रावृ॑तो॒ ब्रह्म॑णा॒ वर्म॑णा॒हं क॒श्यप॑स्य ज्योति॑षा॒ वर्च॑सा च ।  
-ज॒रद॑ष्टिः कृ॒तवी॑र्यो॒ विहा॑याः स॒हस्रा॑युः॒ सुकृ॑तश्चरेयम्॥२७॥  
+Encompassed by Prajapati's devotion as shield, with Kasyapa's bright light and splendour, Reaching old age, may I made strong and mighty live through a thousand years with happy fortune.

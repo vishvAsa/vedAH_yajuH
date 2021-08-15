@@ -2,5 +2,4 @@
 title = "०६ सप्त जातान्"
 
 +++
-स॒प्त जा॒तान् न्यऽर्बुद उदा॒राणां॑ समी॒क्षय॑न्।  
-तेभि॒ष्ट्वमाज्ये॑ हु॒ते सर्वै॒रुत्ति॑ष्ठ॒ सेन॑या ॥६॥  
+Exhibiting, O Arbudi, seven children of the mist and fog, When butter hath been offered, rise with all of these and with the host.

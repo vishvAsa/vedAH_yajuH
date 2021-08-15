@@ -2,5 +2,4 @@
 title = "५२ ममेयमस्तु पोष्या"
 
 +++
-ममे॒यम॑स्तु॒ पोष्या॒ मह्यं॑ त्वादा॒द् बृह॒स्पतिः॑ ।  
-मया॒ पत्या॑ प्रजावति॒ सं जी॑व श॒रदः॑ श॒तम्॥५२॥  
+Be it my care to cherish her: Brihaspati hath made thee mine. A hundred autumns live with me thy husband, mother of my sons!

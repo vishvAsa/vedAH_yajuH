@@ -2,5 +2,4 @@
 title = "०६ रुद्र जलाषभेषज"
 
 +++
-रुद्र॒ जला॑षभेषज॒ नील॑शिखण्ड॒ कर्म॑कृत्।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे ॥६॥  
+O Rudra, Lord of Healing Balms, dark-crested, skilful in thy work!-- Refute mine adversary's speech. Render them dull and flat, O Plant.

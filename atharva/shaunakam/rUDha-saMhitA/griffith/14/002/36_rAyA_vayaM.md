@@ -2,5 +2,4 @@
 title = "३६ राया वयं"
 
 +++
-रा॒या व॒यं सु॒मन॑सः स्या॒मोदि॒तो ग॑न्ध॒र्वमावी॑वृताम ।  
-अग॑न्त्स दे॒वः प॑र॒मं स॒धस्थ॒मग॑न्म॒ यत्र॑ प्रति॒रन्त॒ आयुः॑ ॥३६॥  
+May we be happy with abundant riches. We from this place have banished the Gandharva. The God is gone to the remotest region, and we have come where men prolong existence.

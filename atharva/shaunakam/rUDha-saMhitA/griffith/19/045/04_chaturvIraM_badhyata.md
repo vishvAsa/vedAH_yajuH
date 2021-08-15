@@ -2,5 +2,4 @@
 title = "०४ चतुर्वीरं बध्यत"
 
 +++
-चतु॑र्वीरं बध्यत॒ आञ्ज॑नं ते॒ सर्वा॒ दिशो॒ अभ॑यास्ते भवन्तु ।  
-ध्रु॒वस्ति॑ष्ठासि सवि॒तेव॒ चार्य॑ इ॒मा विशो॑ अ॒भि ह॑रन्तु ते ब॒लिम्॥४॥  
+On thee is laid the Chaturvira Ointment: let all the regions give thee peace and safety. Secure like precious Savitar thou standest: to thee let all these regions bring their tribute.

@@ -2,5 +2,4 @@
 title = "२३ मा नो"
 
 +++
-मा नो॒ रक्षो॑ अ॒भि न॑ड् यातु॒माव॒दपो॑च्छन्तु मिथु॒ना ये कि॑मी॒दिनः॑ ।  
-पृ॒थि॒वी नः॒ पार्थि॑वात् पा॒त्वंह॑सो॒ऽन्तरि॑क्षं दि॒व्यात् पा॑त्व॒स्मान्॥२३॥  
+Let not the fiend of witchcraft-workers reach us: may Dawn. drive off the couples of Kimidins. Earth keep us safe from earthly woe and trouble! From grief that comes from heaven Mid-air preserve us!

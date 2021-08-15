@@ -2,6 +2,4 @@
 title = "०८ उदायुरुद् बलमुत्"
 
 +++
-उदायु॒रुद् बल॒मुत् कृ॒तमुत् कृ॒त्यामुन्म॑नी॒षामुदि॑न्द्रि॒यम्।  
-आयु॑ष्कृ॒दायु॑ष्पत्नी॒ स्वधा॑वन्तौ गो॒पा मे॑ स्तं गोपा॒यतं॑ मा ।  
-आ॒त्म॒सदौ॑ मे स्तं॒ मा॑ हिंसिष्टम्॥८॥
+Exalt my life, my strength, my deed and action; increase my understanding and my vigour. Be ye my powerful keepers, watch and guard me, ye mistresses of life and life's creators! Dwell ye within me, and forbear to harm me.

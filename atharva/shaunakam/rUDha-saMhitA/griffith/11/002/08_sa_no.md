@@ -2,5 +2,4 @@
 title = "०८ स नो"
 
 +++
-स नो॑ भ॒वः परि॑ वृणक्तु वि॒श्वत॒ आप॑ इवा॒ग्निः परि॑ वृणक्तु नो भ॒वः ।  
-मा नो॒ऽभि मां॑स्त॒ नमो॑ अस्त्वस्मै ॥८॥  
+May he, may Bhava from all sides avoid us, avoid us even as fire avoids the waters. Let him not threaten us. To him be homage!

@@ -2,5 +2,7 @@
 title = "०३ प्राच्या दिशस्त्वमिन्द्रासि"
 
 +++
-प्राच्या॑ दि॒शस्त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्या दि॒शो वृ॑त्रहन्छत्रु॒होऽसि ।  
-यत्र॒ यन्ति॑ स्रो॒त्यास्तज्जि॒तं ते॑ दक्षिण॒तो वृ॑ष॒भ ए॑षि॒ हव्यः॑ ॥३॥
+id
+6.98.3    Thou governest the north and eastern regions, ...
+6.98.3    The daughter of the Asuras art thou, and siste...
+Name: Comment, dtype: object

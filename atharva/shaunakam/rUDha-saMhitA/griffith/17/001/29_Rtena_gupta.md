@@ -2,5 +2,4 @@
 title = "२९ ऋतेन गुप्त"
 
 +++
-ऋ॒तेन॑ गु॒प्त ऋ॒तुभि॑श्च॒ सर्वै॑र्भू॒तेन॑ गु॒प्तो भव्ये॑न चा॒हम्।  
-मा मा॒ प्राप॑त् पा॒प्मा मोत मृ॒त्युर॒न्तर्द॑धे॒ऽहं स॑लि॒लेन॑ वा॒चः ॥२९॥  
+Guarded am I by Order and the Seasons, protected by the past and by the future. Let not distress, yea, let not Death come nigh me: with water of my speech have I o'erwhelmed them.

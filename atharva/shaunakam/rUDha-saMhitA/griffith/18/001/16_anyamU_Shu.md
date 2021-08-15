@@ -2,5 +2,4 @@
 title = "१६ अन्यमू षु"
 
 +++
-अ॒न्यमू॒ षु य॑म्य॒न्य उ॒ त्वां परि॑ ष्वजातै लिबु॑जेव वृ॒क्षम्।
-तस्य॑ वा॒ त्वं मन॑ इ॒च्छा स वा॒ तवाधा॑ कृणुष्व स॒विदं॒ सुभ॑द्राम्॥१६॥
+Embrace another, Yami. Let some other, even as the woodbine rings a tree, enfold thee. Win thou his heart and let him win thy fancy; so make with him a bond of blest alliance.

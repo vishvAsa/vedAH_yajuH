@@ -2,5 +2,4 @@
 title = "०२ सर्वान् कामान्"
 
 +++
-सर्वा॒न् कामा॑न् पूरयत्या॒भव॑न् प्र॒भव॒न् भव॑न्।  
-आ॒कू॒ति॒प्रोऽवि॑र्द॒त्तः शि॑ति॒पान्नोप॑ दस्यति ॥२॥  
+He satisfies each hope and want, prevailing, present and pre- pared. The wish-fulfilling ram, bestowed, white-footed is exhaustless still.

@@ -2,5 +2,4 @@
 title = "०६ अग्निः प्राणान्त्सं"
 
 +++
-अ॒ग्निः प्रा॒णान्त्सं द॑धाति च॒न्द्रः प्रा॒णेन॒ संहि॑तः ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥६॥  
+Agni combines the vital airs. The moon is closely joined with breath. I free. etc.

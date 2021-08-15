@@ -2,4 +2,4 @@
 title = "०१ स संवत्सरमूर्ध्वोऽतिष्ठत्"
 
 +++
-स सं॑वत्स॒रमू॒र्ध्वोऽतिष्ठ॒त् तं दे॒वा अ॑ब्रुव॒न् व्रात्य॒ किं नु ति॑ष्ठ॒सीति॑ ॥१॥  
+For a whole year he stood erect. The Gods said unto him, Why standest thou, O Vratya? He answered and said, Let them bring my couch.

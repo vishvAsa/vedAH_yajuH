@@ -2,5 +2,4 @@
 title = "२१ ग्रीवास्ते कृत्ये"
 
 +++
-ग्री॒वास्ते॑ कृत्ये॒ पादौ॒ चापि॑ कर्त्स्यामि॒ निर्द्र॑व ।  
-इ॒न्द्रा॒ग्नी अ॒स्मान् र॑क्षतां॒ यौ प्र॒जानां॑ प्र॒जाव॑ती ॥२१॥  
+O Kritya, I will cut thy throat and hew thy feet off. Run, be- gone! Indra and Agni, Guardian Lords of living creatures, shield us well!

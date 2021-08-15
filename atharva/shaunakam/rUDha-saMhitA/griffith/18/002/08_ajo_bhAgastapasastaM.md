@@ -2,5 +2,4 @@
 title = "०८ अजो भागस्तपसस्तं"
 
 +++
-अ॒जो भा॒गस्तप॑स॒स्तं त॑पस्व॒ तं ते॑ शो॒चिस्त॑पतु॒ तं ते॑ अ॒र्चिः ।  
-यास्ते॑ शि॒वास्त॒न्वोऽ जातवेद॒स्ताभि॑र्वहैनं सु॒कृता॑मु लो॒कम्॥८॥  
+Thy portion is the goat: with heat consume him: let thy fierce flame, thy glowing splendour, burn him. With thine auspicious forms, O Jatavedas, bear this man to the region of the pious.

@@ -2,5 +2,4 @@
 title = "१९ उत् त्वा"
 
 +++
-उत् त्वा॑ मृ॒त्योर॑पीपरं॒ सं ध॑मन्तु वयो॒धसः॑ ।  
-मा त्वा॑ व्यस्तके॒श्यो॒३मा त्वा॑घ॒रुदो॑ रुदन्॥१९॥  
+I have delivered thee from Death. Strength-givers smelt and fashion thee! Let not she-fiends with wild loose locks, or fearful howlers yell at thee.

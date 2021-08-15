@@ -2,4 +2,4 @@
 title = "१९ अग्निरासीन उत्थितोऽश्विना"
 
 +++
-अ॒ग्निरासी॑न॒ उत्थि॑तो॒ऽश्विना॑ ॥१९॥  
+Sitting he is Agni, when he hath stood up he is the Asvins.

@@ -2,5 +2,4 @@
 title = "२० त्रयो लोकाः"
 
 +++
-त्रयो॑ लो॒काः संमि॑ता॒ ब्राह्म॑णेन॒ द्यौरे॒वासौ पृ॑थि॒व्य॑१न्तरि॑क्षम्।  
-अं॒शून् गृ॑भी॒त्वान्वार॑भेथा॒मा प्या॑यन्तां॒ पुन॒रा य॑न्तु॒ शूर्प॑म्॥२०॥  
+Three worlds hath Power Divine marked out and measured, Fheaven yonder, and the earth, and airs mid-region. Grasp ye the stalks and in your hands retain them: let them be watered and again be winnowed.

@@ -2,6 +2,4 @@
 title = "१८ महत् सधस्थं"
 
 +++
-महत् स॒धस्थं॑ मह॒ती ब॑भूविथ म॒हान् वेग॑ ए॒जथु॑र्वे॒पथु॑ष्टे ।  
-म॒हांस्त्वेन्द्रो॑ रक्ष॒त्यप्र॑मादम्।  
-सा नो॑ भूमे॒ प्र रो॑चय॒ हिर॑ण्यस्येव सं॒दृशि॒ मा नो॑ द्विक्षत॒ कश्च॒न॥१८॥  
+A vast abode hast thou become, the Mighty. Great stress is on thee, press and agitation, but with unceasing care great Indra guards thee. So make us shine, O Earth, us with the splendour of gold. Let no man look on us with hatred.

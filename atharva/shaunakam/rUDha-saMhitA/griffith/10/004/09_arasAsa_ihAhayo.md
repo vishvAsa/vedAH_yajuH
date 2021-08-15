@@ -2,4 +2,4 @@
 title = "०९ अरसास इहाहयो"
 
 +++
-अ॒र॒सास॑ इ॒हाह॑यो॒ ये अन्ति॒ ये च॑ दूर॒के। घ॒नेन॑ हन्मि॒ वृश्चि॑क॒महिं॑ द॒ण्डेनाग॑तम्॥९॥  
+Powerless are the serpents here, those that are near and those afar. I kill the scorpion with a club, and with a staff the new-come snake.

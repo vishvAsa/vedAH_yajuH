@@ -2,4 +2,4 @@
 title = "०१ तुभ्येदिमा सवना"
 
 +++
-तुभ्येदि॒मा सव॑ना शूर॒ विश्वा॒ तुभ्यं॒ ब्रह्मा॑णि॒ वर्ध॑ना कृणोमि । त्वं नृभि॒र्हव्यो॑ वि॒श्वधा॑सि ॥१॥  
+All these libations are for thee, O Hero: to thee I offer these my prayers that strengthen. Ever, in every place, must men invoke thee.

@@ -2,4 +2,4 @@
 title = "०७ वयमिन्द्र त्वायवो"
 
 +++
-व॒यमि॑न्द्र त्वा॒यवो॑ ह॒विष्म॑न्तो जरामहे । उ॒त त्वम॑स्म॒युर्व॑सो ॥७॥  
+We, Indra, dearly loving thee, bearing oblation, sing thee hymns: Thou, Vasu, nearly lovest us.

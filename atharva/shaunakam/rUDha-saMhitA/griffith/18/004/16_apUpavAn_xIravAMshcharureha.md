@@ -2,5 +2,4 @@
 title = "१६ अपूपवान् क्षीरवांश्चरुरेह"
 
 +++
-अ॒पू॒पवा॑न् क्षी॒रवां॑श्च॒रुरेह सी॑दतु ।  
-लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥१६॥  
+Enriched with cake and milk here let the Charu rest. World-makers, makers of the path we worship you of the Gods who here partake oblations.

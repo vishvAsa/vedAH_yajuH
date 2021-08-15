@@ -2,5 +2,4 @@
 title = "०३ अभीऽहि मन्यो"
 
 +++
-अ॒भीऽहि मन्यो त॒वस॒स्तवी॑या॒न् तप॑सा यु॒जा वि ज॑हि॒ शत्रू॑न्।  
-अ॒मि॒त्र॒हा वृ॑त्र॒हा द॑स्यु॒हा च॒ विश्वा॒ वसू॒न्या भ॑रा॒ त्वं नः॑ ॥३॥  
+Come hither, Manyu, mightier than the mighty: smite, with thy fervour, for ally, our foemen. Slayer of foes, of Vritra, and of Dasyu, bring thou to us all kinds of wealth and treasure.

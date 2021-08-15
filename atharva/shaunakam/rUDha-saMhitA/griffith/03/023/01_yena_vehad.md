@@ -2,5 +2,4 @@
 title = "०१ येन वेहद्"
 
 +++
-येन॑ वे॒हद् ब॒भूवि॑थ ना॒शया॑म॒सि तत् त्वत्।  
-इ॒दं तद॒न्यत्र॒ त्वदप॑ दू॒रे नि द॑ध्मसि ॥१॥  
+From thee we banish and expel the cause of thy sterility. This in another place we lay apart from thee and far removed.

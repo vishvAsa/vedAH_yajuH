@@ -2,5 +2,4 @@
 title = "०७ अन्तरेमे नभसी"
 
 +++
-अ॒न्त॒रेमे नभ॑सी॒ घोषो॑ अस्तु॒ पृथ॑क् ते ध्व॒नयो॑ यन्तु॒ शीभ॑म्।  
-अ॒भि क्र॑न्द स्त॒नयो॒त्पिपा॑नः श्लोक॒कृन्मि॑त्र॒तूर्या॑य स्व॒र्धी॥७॥  
+Loud be thy roar between the earth and heaven. Swift let thy sounds go forth in all directions. Neigh at them, thunder, set in opposition, song-maker, good ally that friends may conquer.

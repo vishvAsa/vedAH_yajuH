@@ -2,5 +2,4 @@
 title = "०२ इदं ते"
 
 +++
-इ॒दं ते॑ ह॒व्यं घृ॒तव॑त् सरस्वती॒दं पि॑तॄ॒णां ह॒विरा॒स्यं॑१ यत्।  
-इ॒मानि॑ त उदि॒ता शंत॑मानि॒ तेभि॑र्व॒यं मधु॑मन्तः स्याम ॥२॥  
+Here is, Sarasvati, thy fat libation, this sacrifice passing to the mouth of Fathers. These most auspicious offerings have ascended to thee: through, these may we be full of sweetness.

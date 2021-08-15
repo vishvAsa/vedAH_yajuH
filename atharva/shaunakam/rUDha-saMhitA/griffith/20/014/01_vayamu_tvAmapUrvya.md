@@ -2,5 +2,4 @@
 title = "०१ वयमु त्वामपूर्व्य"
 
 +++
-व॒यमु॒ त्वाम॑पूर्व्य स्थू॒रं न कच्चि॒द् भर॑न्तोऽव॒स्यवः॑ ।  
-वाजे॑ चि॒त्रं ह॑वामहे ॥१॥  
+We call on thee, O peerless One. We, seeking help, possessing nothing firm ourselves, Call on thee wonderful in fight.

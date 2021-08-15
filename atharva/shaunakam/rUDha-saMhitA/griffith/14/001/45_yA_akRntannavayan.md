@@ -2,5 +2,4 @@
 title = "४५ या अकृन्तन्नवयन्"
 
 +++
-या अकृ॑न्त॒न्नव॑य॒न् याश्च॑ तत्नि॒रे या दे॒वीरन्तां॑ अ॒भितोऽद॑दन्त ।  
-तास्त्वा॑ ज॒रसे॒ सं व्य॑य॒न्त्वायु॑ष्मती॒दं परि॑ धत्स्व॒ वासः॑ ॥४५॥  
+They who have spun, and woven, and extended Goddesses who have drawn the ends together, May they invest thee for full long existence. Heiress of lengthen- ed life, endue this garment,

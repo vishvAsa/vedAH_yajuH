@@ -2,5 +2,4 @@
 title = "१४ यज्ञं ब्रूमो"
 
 +++
-य॒ज्ञं ब्रू॑मो॒ यज॑मान॒मृचः॒ सामा॑नि भेष॒जा।  
-यजूं॑षि॒ होत्रा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१४॥  
+To sacrifice, to worshipper, hymns, songs, and healing charms, we speak, To priestly acts and Yajus texts: may they deliver us from woe.

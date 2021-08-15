@@ -2,4 +2,4 @@
 title = "१७ तस्माद् वै"
 
 +++
-तस्मा॒द् वै ब्रा॑ह्म॒णानां॒ गौर्दु॑रा॒धर्षा॑ विजान॒ता॥१७॥  
+Therefore the Brahmans' cow is held inviolable by the wise.

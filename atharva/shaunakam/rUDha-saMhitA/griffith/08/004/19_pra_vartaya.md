@@ -2,5 +2,4 @@
 title = "१९ प्र वर्तय"
 
 +++
-प्र व॑र्तय दि॒वोऽश्मा॑नमिन्द्र॒ सोम॑शितं मघव॒न्त्सं शि॑शाधि ।  
-प्रा॒क्तो अ॑पा॒क्तो॑अधरा॑दुदक्तो॑ऽभि॑जहि रक्ष॑सः प॑र्वतेन ॥१९॥  
+Hurl down from heaven thy bolt of stone, O Indra: sharpen it, Maghavan, made keen by Soma. Forward, behind, and from above and under, smite down the demons with thy rocky weapon.

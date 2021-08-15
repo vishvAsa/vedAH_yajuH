@@ -2,5 +2,4 @@
 title = "०५ सा ते"
 
 +++
-सा ते॑ काम दुहि॒ता धे॒नुरु॑च्यते॒ यामा॒हुर्वाचं॑ क॒वयो॑ वि॒राज॑म्।  
-तया॑ स॒पत्ना॑न् परि॑ वृङ्ग्धि॒ ये मम॒ पर्ये॑नान् प्रा॒णः प॒शवो॒ जीव॑नं वृणक्तु ॥५॥  
+She, Kama! she is called the Cow, thy daughter, she who is named Vak and Viraj by sages. By her drive thou my foemen to a distance. May cattle, vital breath, and life forsake them.

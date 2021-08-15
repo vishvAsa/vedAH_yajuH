@@ -2,5 +2,4 @@
 title = "०१ सं सं"
 
 +++
-सं सं स्र॑वन्तु न॒द्यः॑१ सं वाताः॒ सं प॑त॒त्रिणः॑ ।  
-य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्येऽण ह॒विषा॑ जुहोमि ॥१॥  
+Let the streams flow together, let the winds and birds assembled come. Strengthen this sacrifice of mine, ye singers. I offer up a duly mixt oblation.

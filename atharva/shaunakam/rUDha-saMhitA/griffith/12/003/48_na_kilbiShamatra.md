@@ -2,5 +2,4 @@
 title = "४८ न किल्बिषमत्र"
 
 +++
-न किल्बि॑ष॒मत्र॒ नाधा॒रो अस्ति॒ न यन्मि॒त्रैः स॒मम॑मान॒ एति॑ ।  
-अनू॑नं॒ पात्रं॒ निहि॑तं न ए॒तत् प॒क्तारं॑ प॒क्वः पुन॒रा वि॑शाति ॥४८॥  
+There is no fault in this, no reservation, none when it goes with friends in close alliance. We have laid down this vessel in perfection: the cooked mess shall re-enter him who cooked it.

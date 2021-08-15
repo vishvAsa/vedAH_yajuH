@@ -2,4 +2,4 @@
 title = "०६ अग्निर्माग्निनावतु प्राणायापानायायुषे"
 
 +++
-अ॒ग्निर्मा॒ग्निना॑वतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑॥६॥  
+May Agni protect me with fire for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!

@@ -2,5 +2,4 @@
 title = "०९ सुदेवो असि"
 
 +++
-सु॒दे॒वो अ॑सि वरुण॒ यस्य॑ ते स॒प्त सिन्ध॑वः ।  
-अ॒नु॒क्षर॑न्ति का॒कुदं॑ सू॒र्यं सुषि॒रामि॑व ॥९॥  
+Thou, Varuna, to whom belong the Seven Streams, art a glorious God. The waters flow into thy throat as'twere a pipe with ample mouth.

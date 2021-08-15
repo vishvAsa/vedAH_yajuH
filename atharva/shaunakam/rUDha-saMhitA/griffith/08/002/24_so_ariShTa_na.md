@@ -2,5 +2,4 @@
 title = "२४ सोऽरिष्ट न"
 
 +++
-सोऽरिष्ट॒ न म॑रिष्यसि॒ न म॑रिष्यसि॒ मा बि॑भेः ।  
-न वै तत्र॑ म्रियन्ते॒ नो य॑न्त्यध॒मं तमः॑ ॥२४॥  
+Thou, still uninjured, shalt not die: be not afraid; thou shalt not die. Here where I am men do not die or go to lowest depths of gloom.

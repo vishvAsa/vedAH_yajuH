@@ -2,5 +2,4 @@
 title = "०९ तीक्ष्णेषवो ब्राह्मणा"
 
 +++
-ती॒क्ष्णेष॑वो ब्राह्म॒णा हे॑ति॒मन्तो॒ यामस्य॑न्ति शर॒व्यां॒३ न सा मृषा॑ ।  
-अ॒नु॒हाय॒ तप॑सा म॒न्युना॑ चो॒त दू॒रादव॑ भिन्दन्त्येनम्॥९॥  
+Keen arrows have the Brahmans, armed with missiles: the shaft, when they discharge it, never faileth. Pursuing him with fiery zeal and anger, they pierce the foeman even from a distance.

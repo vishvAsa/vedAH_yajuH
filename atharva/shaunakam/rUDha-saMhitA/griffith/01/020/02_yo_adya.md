@@ -2,5 +2,4 @@
 title = "०२ यो अद्य"
 
 +++
-यो अ॒द्य सेन्यो॑ व॒धोऽघा॒यूना॑मु॒दीर॑ते ।  
-यु॒वं तं मि॑त्रावरुणाव॒स्मद्या॑वयतं॒ परि॑ ॥२॥  
+Mitra and Varuna, ye twain, turn carefully away from us The deadly dart that flies to-day, the missile of the wicked ones.

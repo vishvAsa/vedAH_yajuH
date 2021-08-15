@@ -2,5 +2,4 @@
 title = "०३ या शशाप"
 
 +++
-या श॒शाप॒ शप॑नेन॒ याघं मूर॑माद॒धे।  
-या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा॥३॥  
+She who hath cursed us with a curse, or hath conceived a murderous sin; Or seized our son to take his blood, let her devour the child she bare.

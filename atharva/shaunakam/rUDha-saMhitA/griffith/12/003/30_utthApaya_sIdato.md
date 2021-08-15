@@ -2,5 +2,4 @@
 title = "३० उत्थापय सीदतो"
 
 +++
-उत्था॑पय॒ सीद॑तो बु॒ध्न ए॑नान॒द्भिरा॒त्मान॑म॒भि सं स्पृ॑शन्ताम्।  
-अमा॑सि॒ पात्रै॑रुद॒कं यदे॒तन्मि॒तास्त॑ण्डु॒लाः प्र॒दिशो॒ यदी॒माः ॥३०॥  
+Take up these rice-grains lying at the bottom: led them be blent and mingled with the waters. This water I have measured in the vessel, if as mid-points the rice-grains have been meted.

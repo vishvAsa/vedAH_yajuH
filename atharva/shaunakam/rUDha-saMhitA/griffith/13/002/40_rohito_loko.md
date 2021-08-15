@@ -2,5 +2,4 @@
 title = "४० रोहितो लोको"
 
 +++
-रोहि॑तो लो॒को अ॑भव॒द् रोहि॒तोऽत्य॑तप॒द् दिव॑म्।  
-रोहि॑तो र॒श्मिभि॒र्भूमिं॑ समु॒द्रमनु॒ सं च॑रत्॥४०॥  
+He, Rohita, became the world: Rohita gave the heaven its heat. Rohita with his beams of light travelled along the earth and sea.

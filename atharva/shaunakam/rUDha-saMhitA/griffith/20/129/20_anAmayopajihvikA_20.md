@@ -2,4 +2,4 @@
 title = "२० अनामयोपजिह्विका २०"
 
 +++
-अ॒ना॒म॒योप॑जि॒ह्विका॑ ॥२०॥
+Winged with a falcon's pinion is that harmless swelling of thy tongue. (with previous verse)

@@ -2,5 +2,4 @@
 title = "०४ उपजीका उद्"
 
 +++
-उ॒प॒जीका॒ उद् भ॑रन्ति समु॒द्रादधि॑ भेष॒जम्।  
-तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मशीशमत्॥४॥  
+The emmets from the water-flood produce this healing medicine: This is the cure for morbid flow, this driveth malady away.

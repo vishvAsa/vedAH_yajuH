@@ -2,4 +2,4 @@
 title = "०९ येन सिन्धुं"
 
 +++
-येन॒ सिन्धुं॑ म॒हीर॒पो रथां॑ इव प्रचो॒दयः॑ । पन्था॑मृ॒तस्य॒ यात॑वे॒ तमी॑महे ॥९॥
+Wherewith thou dravest forth like cars Sindhu and all the mighty floods. To go the way ordained by Law, for that we pray.

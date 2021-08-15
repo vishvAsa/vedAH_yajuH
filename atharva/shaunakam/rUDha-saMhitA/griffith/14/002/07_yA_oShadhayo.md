@@ -2,5 +2,4 @@
 title = "०७ या ओषधयो"
 
 +++
-या ओष॑धयो॒ या न॒द्यो॒३ यानि॒ क्षेत्रा॑णि॒ या वना॑ ।  
-तास्त्वा॑ वधु प्र॒जाव॑तीं॒ पत्ये॑ रक्षन्तु र॒क्षसः॑ ॥७॥  
+May all the Rivers, all the Plants, may all the Forests, all the Fields, O Bride, protect thee from the fiend, guard his sons' mother for her lord.

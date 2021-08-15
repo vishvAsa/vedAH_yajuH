@@ -2,5 +2,4 @@
 title = "१४ न वा"
 
 +++
-न वा उ॑ ते त॒नूं त॒न्वा॒३ सं प॑पृच्यां पा॒पमा॑हु॒र्यः स्वसा॑रं नि॒गच्छा॑त्।
-असं॑यदे॒तन्मन॑सो हृ॒दो मे॒ भ्राता॒ स्वसुः॒ शय॑ने॒ यच्छ॑यीय ॥१४॥
+I will not fold mine arms about thy body: they call it sin when one comes near a sister. Not me--prepare thy pleasure with another. Thy brother seeks not this from thee, O fair one.

@@ -2,5 +2,4 @@
 title = "०३ ता अस्य"
 
 +++
-ता अ॑स्य॒ नम॑सा॒ सहः॑ सप॒र्यन्ति॒ प्रचे॑तसः ।  
-व्र॒तान्य॑स्य सश्चिरे पु॒रूणि॑ पू॒र्वचि॑त्तये॒ वस्वी॒रनु॑ स्व॒राज्य॑म्॥३॥
+With veneration, passing wise, honouring his victorious might, They follow close his many laws to win them due preeminence, good in their own supremacy.

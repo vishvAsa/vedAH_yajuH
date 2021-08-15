@@ -2,5 +2,4 @@
 title = "१३ सोमस्येव जातवेदो"
 
 +++
-सोम॑स्येव जातवेदो अं॒शुरा प्या॑यताम॒यम्।  
-अग्ने॑ विर॒प्शिनं॒ मेध्य॑मय॒क्ष्मं कृ॑णु॒ जीव॑तु ॥१३॥  
+Like as the Soma's tendril, thus, O Jatavedas let him swell, Let him live, Agni I Make him fat, free from consumption, full of sap.

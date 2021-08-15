@@ -2,5 +2,4 @@
 title = "०२ भूमिर्मातादितिर्नो जनित्रं"
 
 +++
-भूमि॑र्मा॒तादि॑तिर्नो ज॒नित्रं॒ भ्राता॒न्तरि॑क्षम॒भिश॑स्त्या नः ।  
-द्यौर्नः॑ पि॒ता पित्र्या॒च्छं भ॑वाति जा॒मिमृ॒त्वा माव॑ पत्सि लो॒कात्॥२॥  
+Earth is our Mother, Aditi our birth-place: our brother Air save us from imprecation! Dyaus, Father, save us, from the world of Fathers! My world not lost, may I approach my kindred.

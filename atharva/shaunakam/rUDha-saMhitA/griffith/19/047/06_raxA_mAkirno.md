@@ -2,5 +2,4 @@
 title = "०६ रक्षा माकिर्नो"
 
 +++
-रक्षा॒ माकि॑र्नो अ॒धशं॑स ईशत॒ मा नो॑ दुः॒शंस॑ ईशत ।  
-मा नो॑ अ॒द्य गवां॑ स्ते॒नो मावी॑नां॒ वृक॑ ईशत ॥६॥  
+Let not a fiends or spiteful man, let no ill-wisher master us. Let not the robber seize our cows, nor the wolf take our sheep today.

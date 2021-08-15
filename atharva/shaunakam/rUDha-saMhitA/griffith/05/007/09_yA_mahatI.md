@@ -2,5 +2,4 @@
 title = "०९ या महती"
 
 +++
-या म॑ह॒ती म॒होन्मा॑ना॒ विश्वा॒ आशा॑ व्यान॒शे।  
-तस्यै॑ हिरण्यके॒श्यै निरृ॑त्या अकरं॒ नमः॑ ॥९॥  
+To her the mighty vast in size, who penetrates all points of space, To her mine homage have I paid, Nirriti with her golden hair.

@@ -2,5 +2,4 @@
 title = "०१ भगमस्या वर्च"
 
 +++
-भग॑मस्या॒ वर्च॒ आदि॒ष्यधि॑ वृ॒क्षादि॑व॒ स्रज॑म्।  
-म॒हाबु॑ध्न इव॒ पर्व॑तो॒ ज्योक् पि॒तृष्वा॑स्ताम्॥१॥  
+As from the tree a wreath, have I assumed her fortune and her fame: Among her kinsfolk long may she dwell, like a mountain broadly- based.

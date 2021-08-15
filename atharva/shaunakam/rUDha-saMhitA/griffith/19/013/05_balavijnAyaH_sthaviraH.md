@@ -2,5 +2,4 @@
 title = "०५ बलविज्ञायः स्थविरः"
 
 +++
-ब॒ल॒वि॒ज्ञा॒यः स्थवि॑रः॒ प्रवी॑रः॒ सह॑स्वान् वा॒जी सह॑मान उ॒ग्रः ।  
-अ॒भिवी॑रो अ॒भिष॑त्वा सहो॒जिज्जैत्र॑मिन्द्र॒ रथ॒मा ति॑ष्ठ गो॒विद॑म्॥५॥  
+Conspicuous by thy strength, firm, foremost fighter, mighty and fierce, victorious, all-subduing, O'ercoming might, excelling men and heroes, mount the kine- winning conquering car, O Indra.

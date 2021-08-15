@@ -2,5 +2,4 @@
 title = "०७ गर्भो अस्योषधीनां"
 
 +++
-गर्भो॑ अ॒स्योष॑धीनां॒ गर्भो॒ वन॒स्पती॑नाम्।  
-गर्भो॒ विश्व॑स्य भू॒तस्य॒ सो अ॑ग्ने॒ गर्भ॒मेह धाः॑ ॥७॥  
+Thou art the germ of plants and herbs, thou art the germ of forest trees, The germ of each existing thing, so here, O Agni, lay the germ.

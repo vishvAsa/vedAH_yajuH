@@ -2,6 +2,4 @@
 title = "०८ दिशो धेनवस्तासां"
 
 +++
-दिशो॑ धे॒नव॒स्तासां॑ च॒न्द्रो व॒त्सः ।  
-ता मे॑ च॒न्द्रेण॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम् ।  
-आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥८॥  
+The quarters are the Cows, their calf is Chandra. May they yield with their calf the Moon food, strength and all my wish, life first of all, and offspring, plenty, wealth. All Hail!

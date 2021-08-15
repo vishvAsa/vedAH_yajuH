@@ -2,5 +2,4 @@
 title = "६२ विवस्वान् नो"
 
 +++
-वि॒वस्वा॑न् नो अमृत॒त्वे द॑धातु॒ परै॑तु मृ॒त्युर॒मृतं॑ न॒ ऐतु॑ ।  
-इ॒मान् र॑क्षतु॒ पुरु॑षा॒ना ज॑रि॒म्णो मो ष्वेऽषा॒मस॑वो य॒मं गुः॑ ॥६२॥  
+In immortality Vivasvan set us! Go from us Death, come to us life eternal! To good old age may he protect these people: let not their spirits pass away to Yama.

@@ -2,4 +2,4 @@
 title = "०६ देवानां पत्नीः"
 
 +++
-दे॒वानां॒ पत्नीः॑ पृ॒ष्टय॑ उप॒सदः॒ पर्श॑वः ॥६॥  
+The consorts of the Gods are the ribs, the attendants are ribs.

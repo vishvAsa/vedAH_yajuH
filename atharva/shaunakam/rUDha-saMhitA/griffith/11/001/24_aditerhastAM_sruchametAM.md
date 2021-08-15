@@ -2,5 +2,4 @@
 title = "२४ अदितेर्हस्तां स्रुचमेतां"
 
 +++
-अदि॑ते॒र्हस्तां॒ स्रुच॑मे॒तां द्वि॒तीयां॑ सप्तऋ॒षयो॑ भूत॒कृतो॒ यामकृ॑ण्वन्।  
-सा गात्रा॑णि वि॒दुष्यो॑द॒नस्य॒ दर्वि॒र्वेद्या॒मध्ये॑नं चिनोतु ॥२४॥  
+This second hand of Aditi, this ladle which the Seven Rishis, world-creators, fashioned. May this scoop deftly pile upon the altar, therein, the members of the rice-oblation.

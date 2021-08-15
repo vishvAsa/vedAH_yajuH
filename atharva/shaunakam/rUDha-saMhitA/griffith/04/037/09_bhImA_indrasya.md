@@ -2,5 +2,4 @@
 title = "०९ भीमा इन्द्रस्य"
 
 +++
-भी॒मा इन्द्र॑स्य हे॒तयः॑ श॒तमृ॒ष्टीर्हि॑र॒ण्ययीः॑ ।  
-ताभि॑र्हविर॒दान् ग॑न्ध॒र्वान॑वका॒दान् व्युऽषतु ॥९॥  
+With those dread hundred golden spears, the darts of Indra, let it pierce. The Blyxa-fed Gandharvas, those who bring no sacrificial gift.

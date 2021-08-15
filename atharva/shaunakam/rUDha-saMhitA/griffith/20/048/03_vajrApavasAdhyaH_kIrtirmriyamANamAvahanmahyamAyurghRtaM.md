@@ -2,4 +2,4 @@
 title = "०३ वज्रापवसाध्यः कीर्तिर्म्रियमाणमावहन्मह्यमायुर्घृतं"
 
 +++
-वज्रा॑पव॒साध्यः॑ की॒र्तिर्म्रि॒यमा॑ण॒माव॑हन्।मह्य॒मायु॑र्घृ॒तं पयः॑ ॥३॥  
+Fair hymns bring glory to the Strong, and Indra-vigour; unto, me Fatness and milk and length of days.

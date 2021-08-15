@@ -2,5 +2,4 @@
 title = "११ अवधीत् कामो"
 
 +++
-अव॑धी॒त् कामो॒ मम॒ ये स॒पत्ना॑ उ॒रुं लो॒कम॑कर॒न्मह्य॑मेध॒तुम्।  
-मह्यं॑ नमन्तां प्र॒दिश॒श्चत॑स्रो॒ मह्यं॒ षडु॒र्वीर्घृ॒तमा व॑हन्तु ॥११॥  
+Kama hath slain those who were mine opponents, and given me ample room to grow and prosper. Let the four regions bow them down before me, and let the six expanses bring me fatness.

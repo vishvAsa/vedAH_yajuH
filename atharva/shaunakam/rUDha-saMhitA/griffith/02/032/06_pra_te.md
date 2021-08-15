@@ -2,5 +2,4 @@
 title = "०६ प्र ते"
 
 +++
-प्र ते॑ शृणामि॒ शृङ्गे॒ याभ्यां॑ वितुदा॒यसि॑ ।  
-भि॒नाद्मि॑ ते कु॒षुम्भं॒ यस्ते॑ विष॒धानः॑ ॥६॥
+I break in pieces both thy horns wherewith thou pushest here and there: I cleave and rend the bag which holds the venom which is* stored in thee.

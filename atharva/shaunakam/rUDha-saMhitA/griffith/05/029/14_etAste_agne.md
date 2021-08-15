@@ -2,5 +2,4 @@
 title = "१४ एतास्ते अग्ने"
 
 +++
-ए॒तास्ते॑ अग्ने स॒मिधः॑ पिशाच॒जम्भ॑नीः ।  
-तास्त्वं जु॑षस्व॒ प्रति॑ चैना गृहाण जातवेदः ॥१४॥  
+Here, Agni, is the fuel, here are logs that crush Pisachas down. O Jatavedas, willingly accept them and be pleased therewith.

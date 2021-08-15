@@ -2,5 +2,4 @@
 title = "०६ नूनं तदस्य"
 
 +++
-नू॒नं तद॑स्य का॒व्यो॑ हि॑नोति म॒हो दे॒वस्य॑ पू॒र्व्यस्य॒ धाम॑ ।  
-ए॒ष ज॑ज्ञे ब॒हुभि॑ सा॒कमि॒त्था पूर्वे॒ अर्धे॒ विषि॑ते स॒सन्नु॥६॥  
+The sage and poet verily advanceth the statute of that mighty God primeval. He was born here with many more beside him: they slumbered when the foremost side was opened.

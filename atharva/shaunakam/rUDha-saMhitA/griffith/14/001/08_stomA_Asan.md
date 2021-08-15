@@ -2,5 +2,4 @@
 title = "०८ स्तोमा आसन्"
 
 +++
-स्तोमा॑ आसन् प्रति॒धयः॑ कु॒रीरं॒ छन्द॑ ओप॒शः ।  
-सू॒र्याया॑ अ॒श्विना॑ व॒राग्निरा॑सीत् पुरोग॒वः ॥८॥  
+Songs were the cross-bars of the pole, Kurira metre docked her head. Both Asvins were the paranymphs: Agni was leader of the train.

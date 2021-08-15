@@ -2,5 +2,4 @@
 title = "०२ आ यं"
 
 +++
-आ यं वि॒शन्तीन्द॑वो॒ वयो॒ न वृ॒क्षमन्ध॑सः ।  
-विर॑प्शि॒न् विमृधो॑ जहि रक्ष॒स्विनीः॑ ॥२॥  
+Thou into whom the drops find way as sap pours life into a tree, Drive off in thine abundant might our demon foes.

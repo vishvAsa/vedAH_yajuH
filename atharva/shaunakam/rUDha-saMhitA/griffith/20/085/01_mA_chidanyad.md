@@ -2,5 +2,4 @@
 title = "०१ मा चिदन्यद्"
 
 +++
-मा चि॑द॒न्यद् वि शं॑सत॒ सखा॑यो॒ मा रि॑षण्यत ।  
-इन्द्र॒मित् स्तो॑ता॒ वृष॑णं॒ सचा॑ सु॒ते मुहु॑रु॒क्था च॑ शंसत ॥१॥  
+Glorify naught besides, O friends; so shall no sorrow trouble you. Praise only mighty Indra when the juice is shed, and say your lauds repeatedly:

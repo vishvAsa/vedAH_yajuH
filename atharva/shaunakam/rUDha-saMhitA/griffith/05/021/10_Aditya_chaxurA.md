@@ -2,5 +2,4 @@
 title = "१० आदित्य चक्षुरा"
 
 +++
-आदि॑त्य॒ चक्षु॒रा द॑त्स्व॒ मरी॑च॒योऽनु॑ धावत ।  
-प॒त्स॒ङ्गिनी॒रा स॑जन्तु॒ विग॑ते बाहुवी॒र्येऽ॥१०॥  
+Aditya, take their sight away! Follow them close, ye motes of light. Let them cleave fast to foot-bound hosts when strength of arm hath past away.

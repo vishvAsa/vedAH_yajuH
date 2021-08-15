@@ -2,5 +2,4 @@
 title = "१३ यो अस्य"
 
 +++
-यो अ॑स्य॒ स्याद् व॑शाभो॒गो अ॒न्यामि॑च्छेत॒ तर्हि॒ सः ।  
-हिंस्ते॒ अद॑त्ता॒ पुरु॑षं याचि॒तां च॒ न दित्स॑ति ॥१३॥  
+Then let him seek another Cow, whate'er his profit be in this. The Cow, not given, harms a man when he denies her at their prayer.

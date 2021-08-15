@@ -2,4 +2,4 @@
 title = "०२ अहं प्रत्नेन"
 
 +++
-अ॒हं प्र॒त्नेन॒ मन्म॑ना॒ गिरः॑ शुम्भामि कण्व॒वत्। येनेन्द्रः॒ शुष्म॒मिद् द॒धे॥२॥  
+After the lore of ancient time I make, like Kanva, beauteous songs, And Indra's self gains strength thereby.

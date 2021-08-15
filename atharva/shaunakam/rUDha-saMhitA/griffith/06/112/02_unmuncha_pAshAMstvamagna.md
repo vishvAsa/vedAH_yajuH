@@ -2,5 +2,4 @@
 title = "०२ उन्मुञ्च पाशांस्त्वमग्न"
 
 +++
-उन्मु॑ञ्च॒ पाशां॒स्त्वम॑ग्न ए॒षां त्रय॑स्त्रि॒भिरुत्सि॑ता॒ येभि॒रास॑न्।  
-स ग्राह्याः॒ पाशा॒न् वि चृ॑त प्रजा॒नन् पि॑तापु॒त्रौ मा॒तरं॑ मुञ्च॒ सर्वा॑न्॥२॥  
+Rend thou the; bonds of these asunder, Agni! the, threefold noose whereby the three were fastened. Knowing the way untie the she-fiend's nooses: free all, the son, the father, and the mother.

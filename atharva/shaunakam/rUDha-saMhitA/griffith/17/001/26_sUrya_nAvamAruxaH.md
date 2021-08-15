@@ -2,5 +2,4 @@
 title = "२६ सूर्य नावमारुक्षः"
 
 +++
-सूर्य॒ नाव॒मारु॑क्षः श॒तारि॑त्रां स्व॒स्तये॑ ।  
-रात्रिं॒ मात्य॑पीप॒रोऽहः॑ स॒त्राति॑ पारय ॥२६॥  
+Thou for our weal, O Surya, hast mounted thy ship with hundred oars. Thou hast transported me to night: so bear me evermore to day.

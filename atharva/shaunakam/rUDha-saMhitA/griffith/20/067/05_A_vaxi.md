@@ -2,5 +2,4 @@
 title = "०५ आ वक्षि"
 
 +++
-आ व॑क्षि दे॒वां इ॒ह वि॑प्र॒ यक्षि॑ चो॒शन् हो॑त॒र्नि ष॑दा॒ योनि॑षु त्रि॒षु।  
-प्रति॑ वीहि॒ प्रस्थि॑तं सो॒म्यं मधु॒ पिबाग्नी॑ध्रा॒त् तव॑ भा॒गस्य॑ तृष्णुहि ॥५॥  
+Bring the Gods hither, Sage, and offer sacrifice. At the three altars seat thee willingly .O Priest. Accept for thy delight the proffered Soma mead: drink from the Kindler's bowl and sate thee with thy share.

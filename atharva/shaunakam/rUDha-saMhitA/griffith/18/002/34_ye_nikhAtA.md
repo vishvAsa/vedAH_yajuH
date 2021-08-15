@@ -2,5 +2,4 @@
 title = "३४ ये निखाता"
 
 +++
-ये निखा॑ता॒ ये परो॑प्ता॒ ये द॒ग्धा ये चोद्धि॑ताः ।  
-सर्वां॒स्तान॑ग्न॒ आ व॑ह पि॒तॄन् ह॒विषे॒ अत्त॑वे ॥३४॥  
+Bring thou the Fathers one and all Agni, to eat the sacrifice. The buried, and the cast away, those burnt with fire, and those exposed.

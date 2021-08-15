@@ -2,5 +2,4 @@
 title = "०१ उद्भिन्दतीं संजयन्तीमप्सरां"
 
 +++
-उ॒द्भि॒न्द॒तीं सं॒जय॑न्तीमप्स॒रां सा॑धुदे॒विनी॑म्।  
-ग्लहे॑ कृ॒तानि॑ कृण्वा॒नाम॑प्स॒रां तामि॒ह हु॑वे ॥१॥  
+Hither I call the Apsaras, victorious, who plays with skill, Her who comes freely fort to view, who wins the stakes in games of dice.

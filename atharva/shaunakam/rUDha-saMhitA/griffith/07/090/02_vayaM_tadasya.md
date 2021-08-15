@@ -2,5 +2,4 @@
 title = "०२ वयं तदस्य"
 
 +++
-व॒यं तद॑स्य॒ सम्भृ॑तं॒ वस्विन्द्रे॑ण॒ वि भ॑जामहै ।  
-म्ला॒पया॑मि भ्र॒जः शि॒भ्रं वरु॑णस्य व्र॒तेन॑ ते ॥२॥  
+May we with Indra's help divide the gathered treasure of the foe. I, by the law of Varuna, bring down thy pride and wantonness.

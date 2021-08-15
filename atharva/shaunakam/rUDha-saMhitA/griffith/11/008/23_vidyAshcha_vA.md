@@ -2,5 +2,4 @@
 title = "२३ विद्याश्च वा"
 
 +++
-वि॒द्याश्च॒ वा अवि॑द्याश्च॒ यच्चा॒न्यदु॑पदे॒श्यऽम्।  
-शरी॑रं॒ ब्रह्म॒ प्रावि॑श॒दृचः॒ सामाथो॒ यजुः॑ ॥२३॥  
+All knowledge and all ignorance, each other thing that one may learn, Entered the body, prayer, and hymns, and songs, and sacrificial texts.

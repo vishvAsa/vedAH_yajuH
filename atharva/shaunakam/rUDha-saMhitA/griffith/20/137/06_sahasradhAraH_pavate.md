@@ -2,5 +2,4 @@
 title = "०६ सहस्रधारः पवते"
 
 +++
-स॒हस्र॑धारः पवते समु॒द्रो वा॑चमीङ्ख॒यः ।  
-सोमः॒ पती॑ रयी॒णां सखेन्द्र॑स्य दि॒वेदि॑वे ॥६॥  
+Inciter of the voice of song, with thousand streams the ocean flows, Even Soma, Lord of Opulence, the friend of Indra, day by day.

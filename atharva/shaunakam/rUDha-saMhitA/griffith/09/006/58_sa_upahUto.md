@@ -2,4 +2,4 @@
 title = "५८ स उपहूतो"
 
 +++
-स उप॑हूतो दे॒वेषु॑ भक्षय॒त्युप॑हूत॒स्तस्मिन् यद् दे॒वेषु॑ वि॒श्वरू॑पम् ।१०। ५८॥  
+He, having been invited among the gods, regales, invited in that which wears all various forms among the Gods.

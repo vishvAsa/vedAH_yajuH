@@ -2,4 +2,4 @@
 title = "४३ ताभ्यामेनं प्राशिषं"
 
 +++
-ताभ्या॑मेनं॒ प्राशि॑षं॒ ताभ्या॑मेनमजीगमम् ॥५॥  
+And thence, etc. . . . with other abdomen . . . Thou wilt die in the water . . . With the sea as abdomen. 

@@ -2,5 +2,4 @@
 title = "४० यावन्तो अस्याः"
 
 +++
-याव॑न्तो अ॒स्याः पृ॑थि॒वीं सच॑न्ते अ॒स्मत् पु॒त्राः परि॒ ये सं॑बभू॒वुः ।  
-सर्वां॒स्तां उप॒ पात्रे॑ ह्वयेथां॒ नाभिं॑ जाना॒नाः शिश॑वः स॒माया॑न्॥४०॥  
+All these now dwelling on the earth, mine offspring, these whom, this woman here, my wife, hath borne me, Invite them all unto the vessel: knowing their kinship have the children met together.

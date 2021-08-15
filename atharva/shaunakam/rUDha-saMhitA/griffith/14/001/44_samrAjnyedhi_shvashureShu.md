@@ -2,5 +2,4 @@
 title = "४४ सम्राज्ञ्येधि श्वशुरेषु"
 
 +++
-स॒म्राज्ञ्ये॑धि॒ श्वशु॑रेषु स॒म्राज्ञ्यु॒त दे॒वृषु॑ ।  
-नना॑न्दुः स॒म्राज्ञ्ये॑धि स॒म्राज्ञ्यु॒त श्व॒श्र्वाः ॥४४॥  
+Over thy husband's fathers and his brothers be imperial queen. Over thy husband's sister and, his mother bear supreme control.

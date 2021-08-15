@@ -2,5 +2,4 @@
 title = "३३ वत्सो विराजो"
 
 +++
-व॒त्सो वि॒राजो॑ वृष॒भो म॑ती॒नामा रु॑रोह शु॒क्रपृ॑ष्ठो॒ऽन्तरि॑क्षम्।  
-घृ॒तेना॒र्कम॒भ्यऽर्चन्ति व॒त्सं ब्रह्म॒ सन्तं॒ ब्रह्म॑णा वर्धयन्ति ॥३३॥  
+Calf of Viraj, the Bull of prayers and worship, whitebacked, he hath gone up to air's mid-region. Singing, they hymn the Calf, with gifts of butter: him who is Brahma they exalt with Brahma.

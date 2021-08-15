@@ -2,5 +2,4 @@
 title = "०७ स तौ"
 
 +++
-स तौ प्र वे॑द॒ स उ॒ तौ चि॑केत॒ याव॑स्याः॒ स्तनौ॑ स॒हस्र॑धारा॒वक्षि॑तौ ।  
-ऊर्जं॑ दुहाते॒ अन॑पस्फुरन्तौ ॥७॥  
+He understandeth them, he hath perceived them, her breasts that pour a thousand streams, uninjured. They unreluctantly yield strength and vigour.

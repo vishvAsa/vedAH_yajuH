@@ -2,5 +2,4 @@
 title = "०३ यः परुषः"
 
 +++
-यः प॑रु॒षः पा॑रुषे॒योऽवध्वं॒स इ॑वारु॒णः ।  
-त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुवा ॥३॥  
+Endowed with universal power! send Fever down-ward, far away, The spotty, like red-coloured dust, sprung from a spotty ancestor.

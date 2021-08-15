@@ -2,5 +2,4 @@
 title = "४५ नमस्ते अस्तु"
 
 +++
-नम॑स्ते अस्तु नारदानु॒ष्ठु वि॒दुषे॑ व॒शा।  
-क॒त॒मासां॑ भी॒मत॑मा॒ यामद॑त्त्वा परा॒भवे॑त्॥४५॥  
+Homage, O Narada, to thee who hast quick knowledge of the cows. Which of these is the direst, whose withholding bringeth death to man?

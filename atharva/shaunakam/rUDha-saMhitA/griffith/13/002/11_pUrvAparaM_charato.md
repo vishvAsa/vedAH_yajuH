@@ -2,5 +2,4 @@
 title = "११ पूर्वापरं चरतो"
 
 +++
-पू॒र्वा॒प॒रं च॑रतो मा॒ययै॒तौ शिशू॒ क्रीड॑न्तौ॒ परि॑ यातोऽर्ण॒वम्।  
-विश्वा॒न्यो भुव॑ना वि॒चष्टे॑ हैर॒ण्यैर॒न्यं ह॒रितो॑ वहन्ति ॥११॥  
+Moving by magic power to east and westward, these two young creatures, sporting, circle ocean. One of the pair beholds all living creatures: with wheels of gold the bay steeds bear the other.

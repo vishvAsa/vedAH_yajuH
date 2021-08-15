@@ -2,5 +2,4 @@
 title = "०१ यो जात"
 
 +++
-यो जा॒त ए॒व प्र॑थ॒मो मन॑स्वान् दे॒वो दे॒वान् क्रतु॑ना प॒र्यभू॑षत्।  
-यस्य॒ शुष्मा॒द् रोद॑सी॒ अभ्य॑सेतां नृ॒म्णस्य॑ म॒ह्ना स ज॑नास॒ इन्द्रः॑ ॥१॥  
+He who just born, chief God of lofty spirit, by power and might became the God's protector, Before whose breath, through greatness of his valour, the two worlds trembled, He, O men, is Indra.

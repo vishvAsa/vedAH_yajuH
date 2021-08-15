@@ -2,5 +2,4 @@
 title = "३१ कृत्याकृतो वलगिनोऽभिनिष्कारिणः"
 
 +++
-कृ॒त्या॒कृतो॑ वल॒गिनो॑ऽभिनिष्का॒रिणः॑ प्र॒जाम्।  
-मृ॒णी॒हि कृ॑त्ये॒ मोच्छि॑षो॒ऽमून् कृ॑त्या॒कृतो॑ जहि ॥३१॥  
+The brood of wizard, sorcerer, the purposer of evil deed. Crush thou, O Kritya spare not, kill those practisers of magic arts.

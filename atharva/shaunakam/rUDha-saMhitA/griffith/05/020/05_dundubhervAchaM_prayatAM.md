@@ -2,5 +2,4 @@
 title = "०५ दुन्दुभेर्वाचं प्रयतां"
 
 +++
-दु॒न्दु॒भेर्वाचं॒ प्रय॑तां॒ वद॑न्तीमाशृण्व॒ती ना॑थि॒ता घोष॑बुद्धा ।  
-नारी॑ पु॒त्रं धा॑वतु हस्त॒गह्या॑मि॒त्री भी॒ता स॑म॒रे व॒धाना॑म्॥५॥  
+Hearing the Drum's far-reaching voice resounding, let the foe's dame, waked by the roar, afflicted, Grasping her son, run forward in her terror amid the conflict of the deadly weapons.

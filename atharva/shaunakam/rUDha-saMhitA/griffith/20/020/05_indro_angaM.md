@@ -2,4 +2,4 @@
 title = "०५ इन्द्रो अङ्गं"
 
 +++
-इन्द्रो॑ अ॒ङ्गं म॒हद् भ॒यम॒भी षदप॑ चुच्यवत्। स हि स्थि॒रो विच॑र्षणिः ॥५॥  
+Verily Indra, conquering all, driveth even mighty fear away; For firm is he and swift to act.

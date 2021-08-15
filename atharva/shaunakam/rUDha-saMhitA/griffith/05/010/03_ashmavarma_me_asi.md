@@ -2,5 +2,4 @@
 title = "०३ अश्मवर्म मेऽसि"
 
 +++
-अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॑ प्र॒तीच्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
-ए॒तत् स ऋ॑च्छात् ॥३॥  
+Thou art my wall of stone against the sinner who fights against me from the western quarter. May he encounter it!

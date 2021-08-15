@@ -2,4 +2,4 @@
 title = "७६ एत् ते"
 
 +++
-ए॒त् ते॑ ततामह स्व॒धा ये च॒ त्वामनु॑ ॥७६॥  
+To thee, Great-grandfather, and to those with thee be this cry of Hail!

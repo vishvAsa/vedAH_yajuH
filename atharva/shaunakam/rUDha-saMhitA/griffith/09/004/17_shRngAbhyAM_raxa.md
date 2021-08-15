@@ -2,5 +2,4 @@
 title = "१७ शृङ्गाभ्यां रक्ष"
 
 +++
-शृङ्गा॑भ्यां॒ रक्ष॑ ऋष॒त्यव॑र्तिं हन्ति॒ चक्षु॑षा ।  
-शृ॒णोति॑ भ॒द्रं कर्णा॑भ्यां॒ गवां॒ यः पति॑र॒घ्न्यः ॥१७॥  
+That Bull, the husband of the kine, pierces the demons with his horns, Banishes famine with his eye, and hears good tidings with his ears.

@@ -2,5 +2,4 @@
 title = "०३ यो हत्वा"
 
 +++
-यो ह॒त्वा हि॒मरि॑णात् स॒प्त सिन्धू॒न् यो गा उ॒दाज॑दप॒धा व॒लस्य॑ ।  
-यो अश्म॑नोर॒न्तर॒ग्निं ज॒जान॑ सं॒वृक् स॒मत्सु॒ स ज॑नास॒ इन्द्रः॑ ॥३॥  
+Who slew the Dragon, freed the Seven Rivers, and draye the kine forth from the cave of Vala, Begat the fire between both stones, the spoiler in warrior's battle, He, O men, is Indra.

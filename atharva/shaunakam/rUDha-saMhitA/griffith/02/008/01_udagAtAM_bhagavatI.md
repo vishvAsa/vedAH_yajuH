@@ -2,5 +2,4 @@
 title = "०१ उदगातां भगवती"
 
 +++
-उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के ।  
-वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम्॥१॥  
+Twin Stars of happy omen, named Releasers, have gone up. May they Loose, of inherited disease, the uppermost and lowest bond.

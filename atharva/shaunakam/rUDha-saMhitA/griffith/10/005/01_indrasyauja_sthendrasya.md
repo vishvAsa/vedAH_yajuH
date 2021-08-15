@@ -2,5 +2,4 @@
 title = "०१ इन्द्रस्यौज स्थेन्द्रस्य"
 
 +++
-इन्द्र॒स्यौज॒ स्थेन्द्र॑स्य॒ सह॒ स्थेन्द्र॑स्य॒ बलं॒ स्थेन्द्र॑स्य वी॒र्यं॑१ स्थेन्द्र॑स्य नृ॒म्णं स्थ॑ ।  
-जि॒ष्णवे॒ योगा॑य ब्रह्मयो॒गैर्वो॑ युनज्मि ॥१॥  
+Ye are the power of Indra, ye the force and strength of Indra, ye his hero might and manliness. I join you with the bonds of Prayer to the victorious enterprise.

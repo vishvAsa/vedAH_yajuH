@@ -2,5 +2,4 @@
 title = "०५ ते त्वा"
 
 +++
-ते त्वा॒ मदा॑ इन्द्र मादयन्तु शु॒ष्मिणं॑ तुवि॒राध॑सं जरि॒त्रे।  
-एको॑ देव॒त्रा दय॑से॒ हि मर्ता॑न॒स्मिन्छू॑र॒ सव॑ने मादयस्व ॥५॥  
+So may these gladdening draughts rejoice thee, Indra, the Mighty, very bounteous to the singer. Alone among the Gods thou pitiest mortals: O Hero, make thee glad at this libation.

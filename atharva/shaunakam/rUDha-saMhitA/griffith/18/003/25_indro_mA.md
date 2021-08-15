@@ -2,5 +2,4 @@
 title = "२५ इन्द्रो मा"
 
 +++
-इन्द्रो॑ मा म॒रुत्वा॒न् प्राच्या॑ दि॒शः पा॑तु बाहु॒च्युता॑ पृथि॒वी द्यामि॑वो॒परि॑ ।  
-लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥२५॥  
+From eastward Indra, Lord or Maruts, guard me, as in her arms Earth guards the heaven above us! Those who give room, who made the paths, we worship, you, mid the Gods, who share the gifts we offer.

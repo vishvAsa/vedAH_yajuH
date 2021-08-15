@@ -2,5 +2,4 @@
 title = "१२ नास्य जाया"
 
 +++
-नास्य॑ जा॒या श॑तवा॒ही क॑ल्या॒णी तल्प॒मा श॑ये ।  
-यस्मि॑न् रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥१२॥  
+No lovely wife who brings her dower in hundreds rests upon his bed, Within whose kingdom is detained, through want of sense, a Brahman's dame.

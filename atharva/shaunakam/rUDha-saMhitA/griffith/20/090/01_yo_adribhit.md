@@ -2,5 +2,4 @@
 title = "०१ यो अद्रिभित्"
 
 +++
-यो अ॑द्रि॒भित् प्र॑थम॒जा ऋ॒तावा॒ बृह॒स्पति॑राङ्गिर॒सो ह॒विष्मा॑न्।  
-द्वि॒बर्ह॑ज्मा प्राघर्म॒सत् पि॒ता न॒ आ रोद॑सी वृष॒भो रो॑रवीति ॥१॥  
+Served with oblations, first-born, mountain-render, Angiras' Son, Brihaspati the holy. With twice-firm path, dwelling in light, our Father, roars loudly, as a bull, to earth and heaven.

@@ -2,5 +2,4 @@
 title = "०३ यः परस्याः"
 
 +++
-यः पर॑स्याः परा॒वत॑स्ति॒रो धन्वा॑ति॒रोच॑ते ।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥३॥  
+He who from distance far remote shineth across the tracts of land, May he transport us past our foes.

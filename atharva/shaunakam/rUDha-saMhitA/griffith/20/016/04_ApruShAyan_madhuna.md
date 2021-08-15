@@ -2,5 +2,4 @@
 title = "०४ आप्रुषायन् मधुन"
 
 +++
-आ॒प्रु॒षा॒यन् मधु॑न ऋ॒तस्य॒ योनि॑मवक्षि॒पन्न॒र्क उ॒ल्कामि॑व॒ द्योः ।  
-बृह॒स्पति॑रु॒द्धर॒न्नश्म॑नो॒ गा भूम्या॑ उ॒द्नेव॒ वि त्वचं॑ बिभेद ॥४॥  
+As the Sun dews with meath the seat of Order, and casts a flam- ing meteor down from heaven, So from the rock Brihaspati forced the cattle, and cleft the earth's skin as it were with water.

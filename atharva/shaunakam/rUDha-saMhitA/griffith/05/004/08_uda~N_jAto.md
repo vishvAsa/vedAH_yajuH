@@ -2,5 +2,4 @@
 title = "०८ उदङ् जातो"
 
 +++
-उद॑ङ् जा॒तो हि॒मव॑तः॒ स प्रा॒च्यां नी॑यसे॒ जन॑म्।  
-तत्र॑ कुष्ठ॑स्य॒ नामा॑न्युत्त॒मानि॒ वि भे॑जिरे ॥८॥  
+Sprung, northward, from the Snowy Hill thou art conveyed to eastern men. There they deal out among themselves Kushtha's most noble qualities.

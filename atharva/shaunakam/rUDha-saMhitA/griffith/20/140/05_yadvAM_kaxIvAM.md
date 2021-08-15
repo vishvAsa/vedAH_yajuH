@@ -2,5 +2,4 @@
 title = "०५ यद्वां कक्षीवां"
 
 +++
-यद्वां॑ क॒क्षीवां॑ उ॒त यद्व्य॑श्व॒ ऋषि॒र्यद्वां॑ दी॒र्घत॑मा जु॒हाव॑ ।  
-पृथी॒ यद्वां॑ वै॒न्यः साद॑नेष्वे॒वेदतो॑ अश्विना चेतयेथाम्॥५॥
+As erst Kakshivan and the Rishi Vyasva, as erst Dirghatamas invoked your presence, Or, in the sacrificial chambers, Vainya Prithi, so be ye mindful of us here, O Asvins.

@@ -2,5 +2,4 @@
 title = "०२ अश्विना सारघेण"
 
 +++
-अश्वि॑ना सार॒घेण॑ मा॒ मधु॑नाङ्क्तं शुभस्पती ।  
-यथा॒ भर्ग॑स्वतीं॒ वाच॑मा॒वदा॑नि॒ जनाँ॑ अनु॑ ॥२॥  
+With your delicious honey balm me, Asvins, Lords of splendid light! That clear and resonant may be the voice I utter to mankind.

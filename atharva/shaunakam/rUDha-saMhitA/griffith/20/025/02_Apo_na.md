@@ -2,5 +2,4 @@
 title = "०२ आपो न"
 
 +++
-आपो॒ न दे॒वीरुप॑ यन्ति हो॒त्रिय॑म॒वः प॑श्यन्ति॒ वित॑तं॒ यथा॒ रजः॑ ।  
-प्रा॒चैर्दे॒वासः॒ प्र ण॑यन्ति देव॒युं ब्र॑ह्म॒प्रियं॑ जोषयन्ते व॒रा इ॑व ॥२॥  
+The heavenly waters come not nigh the priestly bowl: they but look down and see how far mid-air is spread: The Deities conduct the pious man to them: like suitors they delight in him who loveth prayer.

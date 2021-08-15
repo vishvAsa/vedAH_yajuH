@@ -2,5 +2,4 @@
 title = "०१ भवाशर्वौ मन्वे"
 
 +++
-भवा॑शर्वौ म॒न्वे वां॒ तस्य॑ वित्तं॒ ययो॑र्वामि॒दं प्र॒दिशि॒ यद् वि॒रोच॑ते ।  
-याव॒स्ये॑शा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥१॥  
+I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that shineth. Lords of this world both quadruped and biped. Deliver us, ye twain, from grief and trouble.

@@ -2,5 +2,4 @@
 title = "३५ नमो गन्धर्वस्य"
 
 +++
-नमो॑ गन्ध॒र्वस्य॒ नम॑से॒ नमो॒ भामा॑य॒ चक्षु॑षे च कृण्मः ।  
-विश्वा॑वसो॒ ब्रह्म॑णा ते॒ नमो॒ऽभि जा॒या अ॑प्स॒रसः॒ परे॑हि ॥३५॥  
+Homage we pay to the Gandharva's favour, obeisance to his eye and fiery anger. Visvavasu, with prayer we pay thee homage. Go hence to those Apsarases thy consorts.

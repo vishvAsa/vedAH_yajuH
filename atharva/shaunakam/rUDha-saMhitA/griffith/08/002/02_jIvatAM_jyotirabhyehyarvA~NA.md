@@ -2,5 +2,4 @@
 title = "०२ जीवतां ज्योतिरभ्येह्यर्वाङा"
 
 +++
-जीव॑तां॒ ज्योति॑र॒भ्येह्य॒र्वाङा त्वा॑ हरामि श॒तशा॑रदाय ।  
-अ॒व॒मु॒ञ्चन् मृ॑त्युपा॒शानश॑स्तिं॒ द्राघी॑य॒ आयुः॑ प्रत॒रं ते॑ दधामि ॥२॥  
+Come to the light of living men, come hither: I draw thee to a life of hundred autumns. Loosing the bonds of Death, the curse that holds thee, I give thee age of very long duration.

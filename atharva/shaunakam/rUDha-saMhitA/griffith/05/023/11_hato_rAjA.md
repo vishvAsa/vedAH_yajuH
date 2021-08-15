@@ -2,5 +2,4 @@
 title = "११ हतो राजा"
 
 +++
-ह॒तो राजा॒ क्रिमी॑णामु॒तैषां॑ स्थ॒पति॑र्ह॒तः ।  
-ह॒तो ह॒तमा॑ता॒ क्रिमि॑र्ह॒तभ्रा॑ता ह॒तस्व॑सा ॥११॥  
+Destroyed are his dependants, who those dwell around him are destroyed, And all the worms that seem to be the little ones are done to death

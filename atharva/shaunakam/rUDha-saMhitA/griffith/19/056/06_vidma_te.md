@@ -2,5 +2,4 @@
 title = "०६ विद्म ते"
 
 +++
-वि॒द्म ते॒ सर्वाः॑ परि॒जाः पु॒रस्ता॑द् वि॒द्म स्व॑प्न॒ यो अ॑धि॒पा इ॒हा ते॑ ।  
-य॒श॒श्विनो॑ नो॒ यश॑से॒ह पा॑ह्या॒राद् द्वि॒षेभि॒रप॑ याहि दू॒रम्॥६॥
+Of old we know all places whence thou comest. O Sleep, we know him who is here thy ruler. Protect us here illustrious with glory. Go, from afar, with poisons, into distance.

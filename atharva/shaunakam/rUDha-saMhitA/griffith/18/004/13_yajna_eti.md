@@ -2,5 +2,4 @@
 title = "१३ यज्ञ एति"
 
 +++
-य॒ज्ञ ए॑ति॒ वित॑तः॒ कल्प॑मान ईजा॒नम॒भि लो॒कं स्व॒र्गम्।  
-तम॒ग्नयः॒ सर्व॑हुतं जुषन्तां प्राजाप॒त्यं मेध्यं॑ जा॒तवे॑दसः ॥१३॥  
+Sacrifice, duly offered, comes preparing the sacrificer for the. world of Svarga, Let all the fires, each Jatavedas, welcome Prajapati's completely offered victim. Let them not cast it down while here they cook it.

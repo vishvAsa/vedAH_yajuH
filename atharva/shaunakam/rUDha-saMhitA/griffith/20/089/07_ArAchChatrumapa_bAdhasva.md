@@ -2,5 +2,4 @@
 title = "०७ आराच्छत्रुमप बाधस्व"
 
 +++
-आ॒राच्छत्रु॒मप॑ बाधस्व दू॒रमु॒ग्रो यः शम्बः॑ पुरुहूत॒ तेन॑ ।  
-अ॒स्मे धे॑हि॒ यव॑म॒द् गोमदिन्द्र कृ॒धी धियं॑ जरि॒त्रे वाज॑रत्नाम्॥७॥  
+With thy fierce bolt, O God invoked of many, drive to a distance from afar the foeman. O Indra, give us wealth in corn and cattle, and make the singer's prayer gain strength and riches.

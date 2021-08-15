@@ -2,5 +2,4 @@
 title = "३८ इहैवैधि धनसनिरिहचित्त"
 
 +++
-इ॒हैवैधि॑ धन॒सनि॑रि॒हचि॑त्त इ॒हक्र॑तुः ।  
-इ॒हैधि॑ वी॒र्यऽवत्तरो वयो॒धा अप॑राहतः ॥३८॥  
+Be here, even here, acquiring wealth, here be thou thoughts here be thou strength. Be stronger here in manly power, life-giver, never beaten back.

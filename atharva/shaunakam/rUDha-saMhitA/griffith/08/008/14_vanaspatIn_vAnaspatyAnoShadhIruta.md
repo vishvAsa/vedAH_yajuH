@@ -2,5 +2,4 @@
 title = "१४ वनस्पतीन् वानस्पत्यानोषधीरुत"
 
 +++
-वन॒स्पती॑न् वानस्प॒त्यानोष॑धीरु॒त वी॒रुधः॑ ।  
-द्वि॒पाच्चतु॑ष्पादिष्णामि॒ यथा॒ सेना॑म॒मूं हन॑न्॥१४॥  
+Trees of the forest, trees that bear flower and fruit, and herbs and plants, Quadruped, biped send I forth that they may strike this army dead,

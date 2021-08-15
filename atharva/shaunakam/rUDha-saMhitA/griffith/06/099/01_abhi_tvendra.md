@@ -2,5 +2,4 @@
 title = "०१ अभि त्वेन्द्र"
 
 +++
-अ॒भि त्वे॑न्द्र॒ वरि॑मतः पु॒रा त्वां॑हूर॒णाद्धु॑वे ।  
-ह्वया॑म्यु॒ग्रं चे॒त्तारं॑ पु॒रुणा॑मानमेक॒जम्॥१॥  
+Indra, before affliction comes, I call thee from the wide expanse. The mighty guardian, born alone, wearer of many names, I call.

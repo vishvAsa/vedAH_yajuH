@@ -2,4 +2,4 @@
 title = "१६ बृहदायवनं रथन्तरं"
 
 +++
-बृ॒हदा॒यव॑नं रथन्त॒रं दर्विः॑ ॥१६॥  
+The Brihat is, the stirring-spoon, the Rathantara the ladle.

@@ -2,5 +2,4 @@
 title = "१० विध्य दर्भ"
 
 +++
-विध्य॑ दर्भ स॒पत्ना॑न् मे॒ विध्य॑ मे पृतनाय॒तः ।  
-विध्य॑ मे॒ सर्वा॑न् दु॒र्हार्दो॑ विध्य॑ मे द्विष॒तो म॑णे ॥१०॥
+Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pierce those who wish me evil, pierce the men who hate me, Amulet!

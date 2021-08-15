@@ -2,4 +2,4 @@
 title = "०८ इदमहमामुष्यायणे३मुष्याः पुत्रे"
 
 +++
-इ॒दम॒हमा॑मुष्याय॒णे॒३मुष्याः॑ पु॒त्रे दु॒ष्वप्न्यं॑ मृजे ॥८॥  
+Here I wipe away the evil dream on the descendant of Such-an- one, son of Such-a-woman.

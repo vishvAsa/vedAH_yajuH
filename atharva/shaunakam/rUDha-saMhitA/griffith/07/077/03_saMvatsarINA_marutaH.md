@@ -2,5 +2,4 @@
 title = "०३ संवत्सरीणा मरुतः"
 
 +++
-संव॒त्स॒रीणा॑ म॒रुतः॑ स्व॒र्का उ॒रुक्ष॑याः॒ सग॑णा॒ मानु॑षासः ।  
-ते अ॒स्मत् पाशा॒न् प्र मु॑ञ्च॒न्त्वेन॑सः सांतप॒ना म॑त्स॒रा मा॑दयि॒ष्णवः॑ ॥३॥
+Each year come, friends to man, the tuneful Maruts, dwelling in spacious mansions, trooped together. Exhilarating, gladdening full of fiery heat, may they deliver us from binding bonds of sin.

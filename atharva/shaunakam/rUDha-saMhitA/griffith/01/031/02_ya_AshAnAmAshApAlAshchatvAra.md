@@ -2,5 +2,4 @@
 title = "०२ य आशानामाशापालाश्चत्वार"
 
 +++
-य आशा॑नामाशापा॒लाश्च॒त्वार॒ स्थन॑ देवाः ।  
-ते नो॒ निरृ॑त्याः॒ पाशे॑भ्यो मु॒ञ्चतांह॑सो अंहसः ॥२॥  
+Ye, Guardians of the regions, Gods who keep the quarters of the heavens, Rescue and free us from the bonds of Nirriti, from grief and woe!

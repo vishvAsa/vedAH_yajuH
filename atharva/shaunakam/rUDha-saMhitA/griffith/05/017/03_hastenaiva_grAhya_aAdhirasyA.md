@@ -2,5 +2,4 @@
 title = "०३ हस्तेनैव ग्राह्यऽआधिरस्या"
 
 +++
-हस्ते॑नै॒व ग्रा॒ह्यऽआ॒धिर॑स्या ब्रह्मजा॒येति॒ चेदवो॑चत्।  
-न दू॒ताय॑ प्र॒हेया॑ तस्थ ए॒षा तथा॑ रा॒ष्ट्रं गु॑पि॒तं क्ष॒त्रिय॑स्य ॥३॥  
+The man, her pledge, must by the hand be taken when he hath cried, She is a Brahman's consort. She stayed not for a herald to conduct her: thus is the kingdom of a ruler guarded.

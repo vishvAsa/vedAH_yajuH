@@ -2,5 +2,4 @@
 title = "०३ प्रजापतिरनुमतिः सिनीवाल्यऽचीक्लृपत्"
 
 +++
-प्र॒जाप॑ति॒रनु॑मतिः सिनीवा॒ल्यऽचीक्लृपत्।  
-स्त्रषू॑यम॒न्यत्र॒ दध॒त् पुंमां॑समु दधदि॒ह॥३॥
+Prajapati, Anumati, Sinivali have ordered it. Elsewhere may he effect the birth of maids, but here prepare a boy.

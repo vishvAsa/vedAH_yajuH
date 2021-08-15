@@ -2,5 +2,4 @@
 title = "२० परिसृष्टं धरयतु"
 
 +++
-परि॑सृष्टं धरयतु॒ यद्धि॒तं माव॑ पादि॒ तत्।  
-गर्भं॑ त उ॒ग्रौ र॑क्षतां भेष॒जौ नी॑विभा॒र्यौऽ॥२०॥  
+Let it maintain the genial seed: let the laid embryo rest secure. Let both strong Healers, to be worn within the girdle, guard the babe.

@@ -2,5 +2,4 @@
 title = "०८ कुत इन्द्रः"
 
 +++
-कुत॒ इन्द्रः॒ कुतः॒ सोमः॒ कुतो॑ अ॒ग्निर॑जायत ।  
-कुत॒स्त्वष्टा॒ सम॑भव॒त् कुतो॑ धा॒ताजा॑यत ॥८॥  
+From whom did Indra spring? from whom sprang Soma? whence was Agni born? From whom did Tvashtar spring to life? and whence is Dilator's origin?

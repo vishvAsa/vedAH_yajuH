@@ -2,5 +2,4 @@
 title = "०३ अमी ये"
 
 +++
-अ॒मी ये युध॑मा॒यन्ति॑ के॒तून् कृ॒त्वानी॑क॒शः ।  
-इन्द्र॒स्तान् पर्य॑हा॒र्दाम्न॒ तान॑ग्ने॒ सं द्या॒ त्वम्॥३॥
+Those yonder who approach to fight, with banners raised along their ranks, Indra hath girded these with cord: bind them together, Agni, thou!

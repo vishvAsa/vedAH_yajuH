@@ -2,5 +2,4 @@
 title = "२८ द्रप्सश्चस्कन्द पृथिवीमनु"
 
 +++
-द्र॒प्सश्च॑स्कन्द पृथि॒वीमनु॒ द्यामि॒मं च॒ योनि॒मनु॒ यश्च॒ पूर्वः॑ ।  
-स॒मा॒नं योनि॒मनु॑ सं॒चर॑न्तं द्र॒प्सं जु॑हो॒म्यनु॑ स॒प्त होत्राः॑ ॥२८॥  
+On all the earth, to heaven, the drop descended, on this place and on that which was before it. I offer up, throughout the seven oblations, the drop which still to one same place is moving.

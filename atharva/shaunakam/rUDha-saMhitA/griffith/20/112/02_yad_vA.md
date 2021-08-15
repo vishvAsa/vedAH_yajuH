@@ -2,4 +2,4 @@
 title = "०२ यद् वा"
 
 +++
-यद् वा॑ प्रवृद्ध सत्पते॒ न म॑रा॒ इति॒ मन्य॑से । उ॒तो तत् स॒त्यमित् तव॑ ॥२॥  
+When, Mighty One, Lord of the Brave, thou thinkest, I shall never die, That thought of thine is true indeed.

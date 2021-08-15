@@ -2,5 +2,4 @@
 title = "०१ यदन्तरिक्षं पृथिवीमुत"
 
 +++
-यद॒न्तरि॑क्षं पृथि॒वीमु॒त द्यां यन्मा॒तरं॑ पि॒तरं॑ वा जिहिंसि॒म।  
-अ॒यं तस्मा॒द् गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम्॥१॥  
+If we have injured Air, or Earth, or Heaven, if we have wronged our Mother or our Father, May Agni Garhapatya here absolve us, and bear us up into the world of virtue.

@@ -2,4 +2,4 @@
 title = "०४ इन्द्रं सोमस्य"
 
 +++
-इन्द्रं॒ सोम॑स्य पी॒तये॒ स्तोमै॑रि॒ह ह॑वामहे । उ॒क्थेभिः॑ कु॒विदा॒गम॑त्॥४॥  
+Hither with songs of praise we call Indra to drink the Soma. juice: Will he not come to us by lauds?

@@ -2,5 +2,4 @@
 title = "०८ शं नो"
 
 +++
-शं नो॒ भूमि॑र्वेप्यमा॒ना शमु॒ल्का निर्ह॑तं च॒ यत्।  
-शं गावो॒ लोहि॑तक्षीराः॒ शं भूमि॒रव॑ तीर्य॒तीः॥८  
+Gracious to us be trembling earth, gracious the flaming meteor stroke! Gracious be kine who yield red milk, gracious be earth when sinking down!

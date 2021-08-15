@@ -2,5 +2,4 @@
 title = "२३ संवत्सरो रथः"
 
 +++
-सं॒व॒त्स॒रो रथः॑ परिवत्स॒रो र॑थोप॒स्थो वि॒राडी॒षाग्नी र॑थमु॒खम्।  
-इन्द्रः॑ सव्य॒ष्ठाश्च॒न्द्रमाः॒ सार॑थिः ॥२३॥  
+Year is the car, Full Year the seat for driving, Viraj the pole, the chariot's front is Agni, Indra the warrior, and the Moon the driver.

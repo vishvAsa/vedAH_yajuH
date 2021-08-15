@@ -2,4 +2,4 @@
 title = "१० यज्जाग्रद् यत्"
 
 +++
-यज्जाग्र॑द् यत् सु॒प्तो यद् दिवा॒ यन्नक्त॑म्॥१०॥  
+Whether waking or sleeping, whether by day or by night.

@@ -2,5 +2,4 @@
 title = "०१ त्रिते देवा"
 
 +++
-त्रि॒ते दे॒वा अ॑मृजतै॒तदेन॑स्त्रि॒त ए॑नन्मनु॒ष्येऽषु ममृजे ।  
-ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥१॥  
+This sin the Gods wiped off and laid on Trita, and Trita wiped it off on human beings. Thence if the female fiend hath made thee captive, the Gods by prayer shall banish her and free thee.

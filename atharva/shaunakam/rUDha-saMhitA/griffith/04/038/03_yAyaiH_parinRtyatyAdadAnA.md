@@ -2,6 +2,4 @@
 title = "०३ यायैः परिनृत्यत्याददाना"
 
 +++
-यायैः॑ परि॒नृत्य॑त्या॒ददा॑ना कृ॒तं ग्लहा॑त्।  
-सा नः॑ कृ॒तानि॑ सीष॒ती प्र॒हामा॑प्नोतु मा॒यया॑ ।  
-सा नः॒ पय॑स्व॒त्यैतु॒ मा नो॑ जैषुरि॒दं धन॑म्॥३॥  
+Dancing around us with the dice, winning the wager by her play. May she obtain the stake for us and gain the victory with skill. May she approach us full of strength: let them not win this wealth of ours.

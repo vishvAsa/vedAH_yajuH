@@ -2,5 +2,4 @@
 title = "४२ आशासाना सौमनसं"
 
 +++
-आ॒शासा॑ना सौमन॒सं प्र॒जां सौभा॑ग्यं र॒यिम्।  
-पत्यु॒रनु॑व्रता भू॒त्वा सं न॑ह्यस्वा॒मृता॑य॒ कम्॥४२॥  
+Saying thy prayer for cheerfulness, children, prosperity, and wealth, Devoted to thy husband, gird thyself for immortality.

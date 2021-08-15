@@ -2,4 +2,4 @@
 title = "०२ तं सभा"
 
 +++
-तं स॒भा च॒ समि॑तिश्च॒ सेना॑ च॒ शुरा॑ चानु॒व्यऽचलन्॥२॥  
+Meeting and Assembly and Army and Wine followed him.

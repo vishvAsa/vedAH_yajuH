@@ -2,5 +2,4 @@
 title = "०१ इन्द्रासोमा तपतं"
 
 +++
-इन्द्रा॑सोमा॒ तप॑तं॒ रक्ष॑ उ॒ब्जतं॒ न्यऽर्पयतं वृषणा तमो॒वृधः॑ ।  
-परा॑ शृणीतम॒चितो॒ न्योऽषतं ह॒तं नु॒देथां॒ नि शि॑शीतम॒त्त्रिणः॑ ॥१॥  
+Indra and Soma, burn, destroy the demon foe! Send downward, O ye Bulls, those who add gloom to gloom. Annihilate the fools, slay them and burn them up: chase them away from us, pierce the voracious fiends.

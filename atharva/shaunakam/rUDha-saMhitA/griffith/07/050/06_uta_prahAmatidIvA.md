@@ -2,5 +2,4 @@
 title = "०६ उत प्रहामतिदीवा"
 
 +++
-उ॒त प्र॒हामति॑दीवा जयति कृ॒तमि॑व श्व॒घ्नी वि चि॑नोति का॒ले।  
-यो दे॒वका॑मो॒ न धनं रु॒णद्धि॒ समित् तं रा॒यः सृ॑जति स्व॒धाभिः॑ ॥६॥  
+Yea, by superior play one gains advantage: in time he piles his spoil as doth a gambler. He overwhelms with wealth's inherent powers the devotee who keeps not back his riches.

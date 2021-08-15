@@ -2,5 +2,4 @@
 title = "१४ आत्मन्वत्युर्वरा नारीयमागन्"
 
 +++
-आ॒त्म॒न्वत्यु॒र्वरा॒ नारी॒यमाग॒न् तस्यां॑ नरो वपत॒ बीज॑मस्याम्।  
-सा वः॑ प्र॒जां ज॑नयद् व॒क्षणा॑भ्यो॒ बिभ्र॑ती दु॒ग्धमृ॑ष॒भस्य॒ रेतः॑ ॥१४॥  
+This dame hath come, an animated corn-field: there sow, thou man, the seed of future harvest. She from her teeming side shall bear thee children, and feed them from the fountain of her bosom.

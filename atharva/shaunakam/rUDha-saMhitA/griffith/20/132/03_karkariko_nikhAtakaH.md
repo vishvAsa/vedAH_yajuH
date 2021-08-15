@@ -2,4 +2,4 @@
 title = "०३ कर्करिको निखातकः"
 
 +++
-क॒र्क॒रि॒को निखा॑तकः ॥३॥  
+The lute dug up from out the ground: this the wind stirs and agitates.

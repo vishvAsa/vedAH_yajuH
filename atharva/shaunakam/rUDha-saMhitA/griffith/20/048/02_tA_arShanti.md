@@ -2,4 +2,4 @@
 title = "०२ ता अर्षन्ति"
 
 +++
-ता अ॑र्षन्ति शु॒भ्रियः॒ पृञ्च॑न्ती॒र्वर्च॑सा प्रि॒यः । जा॒तं जा॒त्रीर्यथा॑ हृ॒दा॥२॥  
+Swift move the bright ones while they blend the Milk with vital vigour, as A dame her infant with her heart.

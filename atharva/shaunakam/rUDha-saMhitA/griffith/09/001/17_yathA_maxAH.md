@@ -2,5 +2,4 @@
 title = "१७ यथा मक्षाः"
 
 +++
-यथा॒ मक्षाः॑ इ॒दं मधु॑ न्य॒ञ्जन्ति॒ मधा॒वधि॑ ।  
-ए॒वा मे॑ अश्विना॒ वर्च॒स्तेजो॒ बल॒मोज॑श्च ध्रियताम्॥१७॥  
+As over honey flies besmear this honey which the bees have made, So may both Asvins lay in me splendour and strength and power and might.

@@ -2,5 +2,4 @@
 title = "२३ यआमं मांसमदन्ति"
 
 +++
-यआ॒मं मां॒सम॒दन्ति॒ पौरु॑षेयं च॒ ये क्र॒विः ।  
-गर्भा॒न् खाद॑न्ति केश॒वास्तानि॒तो ना॑शयामसि ॥२३॥  
+Those who eat flesh uncooked, and those who eat the bleeding flesh of men, Feeders on babes unborn, long-haired, far from this place we banish these.

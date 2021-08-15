@@ -2,5 +2,4 @@
 title = "१६ साकंजानां सप्तथमाहुरेकजं"
 
 +++
-सा॒कं॒जानां॑ स॒प्तथ॑माहुरेक॒जं षडिद् य॒मा ऋष॑यो देव॒जा इति॑ ।  
-तेषा॑मि॒ष्टानि॒ विहि॑तानि धाम॒श स्था॒त्रे रे॑जन्ते॒ विकृ॑तानि रूप॒शः ॥१६॥  
+Of the co-born they call the seventh single-born: the six twin, pairs are called the Rishis, sons of Gods. Their good gifts sought of men are ranged in order due, and, various, form by form, move for their guiding Lord.

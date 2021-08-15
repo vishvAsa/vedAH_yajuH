@@ -2,5 +2,4 @@
 title = "०१ यत् ते"
 
 +++
-यत् ते॑ दे॒वा अकृ॑ण्वन् भाग॒धेय॒ममा॑वास्ये सं॒वस॑न्तो महि॒त्वा।  
-तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म्॥१॥  
+Night of the New-born Moon, whatever fortune the Gods who dwell with greatness have assigned thee, Therewith fulfil our sacrifice, all-baunteous! Blessed One, grant us wealth with manly offspring.

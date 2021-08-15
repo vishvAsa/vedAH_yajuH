@@ -2,5 +2,4 @@
 title = "२० मा नो"
 
 +++
-मा नो॑ हिंसी॒रधि॑ नो ब्रूहि॒ परि॑ णो वृङ्ग्धि॒ मा क्रु॑धः ।  
-मा त्वया॒ सम॑रामहि ॥२०॥  
+Do us no harm, but comfort us: avoid thou us, and be not wroth. Never let us contend with thee.

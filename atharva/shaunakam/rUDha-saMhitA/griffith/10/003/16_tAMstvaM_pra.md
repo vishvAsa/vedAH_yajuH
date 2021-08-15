@@ -2,5 +2,4 @@
 title = "१६ तांस्त्वं प्र"
 
 +++
-तांस्त्वं प्र च्छि॑न्द्धि वरण पु॒रा दि॒ष्टात् पु॒रायु॑षः ।  
-य ए॑नं प॒शुषु॒ दिप्स॑न्ति॒ ये चा॑स्य राष्ट्रदि॒प्सवः॑ ॥१६॥  
+Cut them in pieces, Varana! before their destined term of life, Those who would hurt his cattle, those who fain would harm. the realm he rules.

@@ -2,5 +2,4 @@
 title = "०२ मखस्य ते"
 
 +++
-म॒खस्य॑ ते तवि॒षस्य॒ प्र जू॒तिमिय॑र्मि॒ वाच॑म॒मृता॑य॒ भूष॑न्।  
-इन्द्र॑ क्षिती॒नाम॑सि॒ मानु॑षीणां वि॒शां दैवी॑नामु॒त पू॑र्व॒यावा॑ ॥२॥  
+I stimulate this zeal, the Strong, the Hero, decking my song of praise for thee Immortal. O Indra, thou art equally the leader of heavenly hosts and human generations.

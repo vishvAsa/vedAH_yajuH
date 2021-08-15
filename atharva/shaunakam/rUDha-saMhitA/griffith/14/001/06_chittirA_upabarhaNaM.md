@@ -2,5 +2,4 @@
 title = "०६ चित्तिरा उपबर्हणं"
 
 +++
-चित्ति॑रा उप॒बर्ह॑णं॒ चक्षु॑रा अ॒भ्यञ्ज॑नम्।  
-द्यौर्भूमिः॒ कोश॑ आसी॒द् यदया॑त् सू॒र्या पति॑म्॥६॥  
+Thought was her coverlet, the power of sight was unguent for her eyes: Her treasure-chest was earth and heaven, when Surya went unto her lord.

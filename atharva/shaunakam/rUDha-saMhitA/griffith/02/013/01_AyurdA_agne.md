@@ -2,5 +2,4 @@
 title = "०१ आयुर्दा अग्ने"
 
 +++
-आ॒युर्दा अ॑ग्ने ज॒रसं॑ वृणा॒नो घृ॒तप्र॑तीको घृ॒तपृ॑ष्ठो अग्ने ।  
-घृ॒तं पी॒त्वा मधु॒ चारु॒ गव्यं॑ पि॒तेव॑ पु॒त्रान॒भि र॑क्षतादि॒मम्॥१॥  
+Strength-giver, winning lengthened life, O Agni, with face and back shining with molten butter, Drink thou the butter and fair milk and honey, and, as a sire his sons, keep this man safely.

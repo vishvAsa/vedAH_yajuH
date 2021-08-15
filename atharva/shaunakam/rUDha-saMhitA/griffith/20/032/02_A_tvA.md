@@ -2,5 +2,4 @@
 title = "०२ आ त्वा"
 
 +++
-आ त्वा॑ ह॒र्यन्तं॑ प्र॒युजो॒ जना॑नां॒ रथे॑ वहन्तु॒ हरि॑शिप्रमिन्द्र ।  
-पिबा॒ यथा॒ प्रति॑भृतस्य॒ मध्वो॒ हर्य॑न् य॒ज्ञं स॑ध॒मादे॒ दशो॑णिम्॥२॥  
+O Indra, let the eager wishes of the folk bring thee the golden- jawed, delightful, on thy car. That, pleased with sacrifice wherein ten fingers toil, thou mayest at the feast drink of our offered mead.

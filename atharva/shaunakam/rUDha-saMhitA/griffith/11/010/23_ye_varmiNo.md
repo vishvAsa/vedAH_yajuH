@@ -2,5 +2,4 @@
 title = "२३ ये वर्मिणो"
 
 +++
-ये व॒र्मिणो॒ येऽव॒र्माणो॑ अ॒मित्रा॒ ये च॑ व॒र्मिणः॑ ।  
-सर्वां॒स्तां अ॑र्बुदे ह॒तांछ्वानो॑ऽदन्तु॒ भूम्या॑म्॥२३॥  
+The armour-clad, the armourless, enemies clothed with coats of mail, All these struck down, O Arbudi, let dogs devour upon the earth.

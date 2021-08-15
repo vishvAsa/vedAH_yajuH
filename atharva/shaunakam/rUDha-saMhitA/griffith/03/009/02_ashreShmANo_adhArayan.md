@@ -2,5 +2,4 @@
 title = "०२ अश्रेष्माणो अधारयन्"
 
 +++
-अ॒श्रे॒ष्माणो॑ अधारय॒न् तथा॒ तन्मनु॑ना कृ॒तम्।  
-कृणोमि॒ वध्रि॒ विष्क॑न्धं मुष्काब॒र्हो गवा॑मिव ॥२॥  
+The bands hold fast without a knot: this is the way that Manu- used. I make Vishkandha impotent as one emasculateth bulls.

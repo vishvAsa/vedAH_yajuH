@@ -2,5 +2,4 @@
 title = "०३ इहैवाग्ने अधि"
 
 +++
-इ॒हैवाग्ने॒ अधि॑ धारया र॒यिं मा त्वा॒ नि क्र॒न् पूर्व॑चित्ता निका॒रिणः॑ ।  
-क्ष॒त्रेणा॑ग्ने सु॒यम॑मस्तु॒ तुभ्य॑मुपस॒त्ता व॑र्धतां ते॒ अनि॑ष्टृतः ॥३॥  
+Even here do thou, O Agni, stablish wealth: let not oppressors injure thee by thinking of thee first. Light be thy task of ruling, Agni, with, thy power: may he who worships thee wax strong, invincible.

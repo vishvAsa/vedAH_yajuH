@@ -2,5 +2,4 @@
 title = "०५ भूरि त"
 
 +++
-भूरि॑ त इन्द्र वी॒र्यं॑१ तव॑ स्मस्य॒स्य स्तो॒तुर्म॑घव॒न् काम॒मा पृ॑ण ।  
-अनु॑ ते॒ द्यौर्बृ॑ह॒ती वी॒र्यं मम इ॒यं च॑ ते पृथि॒वी ने॑म॒ ओज॑से ॥५॥  
+Great is thy power, O Indra, we are thine. Fulfil, O Maghavan, the wish of this thy worshipper. After thee lofty heaven hath measured out its strength to thee and to thy power this earth hath bowed itself.

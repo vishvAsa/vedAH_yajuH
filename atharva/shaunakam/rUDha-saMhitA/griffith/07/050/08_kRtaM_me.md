@@ -2,5 +2,4 @@
 title = "०८ कृतं मे"
 
 +++
-कृ॒तं मे॒ दक्षि॑णे॒ हस्ते॑ ज॒यो मे॑ स॒व्य आहि॑तः ।  
-गो॒जिद् भू॑यासमश्व॒जिद् ध॑नंज॒यो हि॑रण्य॒जित्॥८॥  
+My right hand holds my winnings fast, and in my left is victory. I would that I were winner of cattle and horses, wealth and gold.

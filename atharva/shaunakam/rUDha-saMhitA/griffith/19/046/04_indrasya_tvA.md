@@ -2,5 +2,4 @@
 title = "०४ इन्द्रस्य त्वा"
 
 +++
-इन्द्र॑स्य त्वा॒ वर्म॑णा॒ परि॑ धापयामो॒ यो दे॒वाना॑मधिरा॒जो ब॒भूव॑ ।  
-पुन॑स्त्वा दे॒वाः प्र ण॑यन्तु॒ सर्वेऽस्तृ॑तस्त्वा॒भि र॑क्षतु ॥४॥  
+Around thy limbs I place the mail of Indra who hath become the Gods' imperial Sovran. Again let all the Deities bring thee hither. Invincible let it guard thee well.

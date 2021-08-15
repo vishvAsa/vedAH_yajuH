@@ -2,5 +2,4 @@
 title = "०१ विहृदयं वैमनस्यं"
 
 +++
-विहृ॑दयं वैमन॒स्यं वदा॒मित्रे॑षु दुन्दुभे ।  
-वि॒द्वे॒षं कश्म॑शं भ॒यम॒मित्रे॑षु॒ नि द॑ध्म॒स्यवैनान् दुन्दुभे जहि ॥१॥  
+Speak to our enemies, O Drum, discouragement and wild dismay. We bring upon our foemen fear and discord and discomfiture. Drum! drive these enemies away.

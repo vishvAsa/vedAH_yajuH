@@ -2,6 +2,4 @@
 title = "०२ दिवो मादित्या"
 
 +++
-दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑ ।  
-इ॒न्द्रा॒ग्नी र॑क्षतां मा पु॒रस्ता॑द॒श्विना॑व॒भितः॒ शर्म॑ यच्छताम्।  
-ति॒र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥२॥
+May the Adityas from the sky protect me, Agni from the earth. May Indra-Agni guard me from the eastward, on all sides may the Asvins give me shelter. May Jatavedas guard, sidelong, our cattle. Our shield on all sides be the World-Creators!

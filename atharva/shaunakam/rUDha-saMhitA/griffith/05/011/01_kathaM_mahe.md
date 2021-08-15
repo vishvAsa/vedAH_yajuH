@@ -2,5 +2,4 @@
 title = "०१ कथं महे"
 
 +++
-क॒थं म॒हे असु॑रायाब्रवीरि॒ह क॒थं पि॒त्रे हर॑ये त्वे॒षनृ॑म्णः ।  
-पृश्निं॑ वरुण॒ दक्षि॑णां ददा॒वान् पुन॑र्मघ॒ त्वं मन॑साचिकित्सीः ॥१॥  
+How, terrible in might, hast thou here spoken to the great God, how to the gold-hued Father! Thy mind watched, greedy Varuna! to recover the brindled cow thou hadst bestowed as guerdon.

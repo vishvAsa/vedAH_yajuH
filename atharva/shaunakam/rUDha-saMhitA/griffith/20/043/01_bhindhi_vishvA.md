@@ -2,4 +2,4 @@
 title = "०१ भिन्धि विश्वा"
 
 +++
-भि॒न्धि विश्वा॒ अप॒ द्विषः॒ परि॒ बाधो॑ ज॒ही मृधः॑ । वसु॑ स्पा॒र्हं तदा भ॑र ॥१॥  
+Drive all our enemies away, smite down the foes who press around, And bring the wealth for which we long;

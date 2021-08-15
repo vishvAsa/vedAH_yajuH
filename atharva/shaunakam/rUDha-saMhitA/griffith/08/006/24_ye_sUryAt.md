@@ -2,5 +2,4 @@
 title = "२४ ये सूर्यात्"
 
 +++
-ये सूर्या॑त् परि॒सर्प॑न्ति स्नु॒षेव॒ श्वशु॑रा॒दधि॑ ।  
-ब॒जश्च॒ तेषां॑ पि॒ङ्गश्च॒ हृद॒येऽधि॒ नि वि॑ध्यताम्॥२४॥  
+Shy slinkers from the Sun, as slinks a woman from her husband's sire, Deep down into the heart of these let Baja and let Pinga pierce.

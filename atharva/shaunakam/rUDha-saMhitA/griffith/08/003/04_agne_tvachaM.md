@@ -2,5 +2,4 @@
 title = "०४ अग्ने त्वचं"
 
 +++
-अग्ने॒ त्वचं॑ यातु॒धान॑स्य भिन्धि हिं॒स्राशनि॒र्हर॑सा हन्त्वेनम्।  
-प्र पर्वा॑णि जातवेदः शृणीहि क्र॒व्यात् क्र॑वि॒ष्णुर्वि चि॑नोत्वेनम्॥४॥  
+Pierce through the Yatudhana's skin, O Agni; let the destroying dart with fire consume him. Rend his joints, Jatavedas! let the eater of raw flesh, seeking flesh, tear and destroy him.

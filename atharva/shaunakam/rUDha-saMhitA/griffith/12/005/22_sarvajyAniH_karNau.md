@@ -2,4 +2,4 @@
 title = "२२ सर्वज्यानिः कर्णौ"
 
 +++
-स॒र्व॒ज्या॒निः कर्णौ॑ वरीव॒र्जय॑न्ती राजय॒क्ष्मो मेह॑न्ती ॥२२॥  
+Utter destruction when she moveth her ears this way and that, Consumption when she droppeth water;

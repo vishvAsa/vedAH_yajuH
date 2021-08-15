@@ -2,5 +2,4 @@
 title = "२० ये अत्रयो"
 
 +++
-ये अत्र॑यो॒ अङ्गि॑रसो॒ नव॑ग्वा इ॒ष्टाव॑न्तो राति॒षाचो॒ दधा॑नाः ।  
-दक्षि॑णावन्तः सु॒कृतो॒ य उ॒ स्थासद्या॒स्मिन् ब॒र्हिषि॑ मादयध्वम्॥२०॥  
+Atris, Angirases, Navagvas, givers of liberal gifts, continual sacrificers, Devout and pious, granting guerdon freely, sit on this holy grass and be ye joyful.

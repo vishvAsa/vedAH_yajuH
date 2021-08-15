@@ -2,4 +2,4 @@
 title = "१५ शिखिभ्यः स्वाहा"
 
 +++
-शि॒खिभ्यः॒ स्वाहा॑ ॥१५॥  
+To those with hair in tufts, Hail!

@@ -2,5 +2,4 @@
 title = "०१ न तं"
 
 +++
-न तं यक्ष्मा॒ अरु॑न्धते॒ नैनं॑ श॒पथो॑ अश्नुते ।  
-यं भे॑ष॒जस्य॑ गुल्गु॒लोः सु॑र॒भिर्ग॒न्धो अ॑श्नु॒ते॥१॥  
+Never Consumption, never curse touches the man, Arundhati! Whom the delicious odour of the healing Bdellium penetrates

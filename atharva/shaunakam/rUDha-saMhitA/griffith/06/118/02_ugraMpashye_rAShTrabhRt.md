@@ -2,5 +2,4 @@
 title = "०२ उग्रंपश्ये राष्ट्रभृत्"
 
 +++
-उग्रं॑पश्ये॒ राष्ट्र॑भृ॒त् किल्बि॑षाणि॒ यद॒क्षवृ॑त्त॒मनु॑ दत्तं न ए॒तत्।  
-ऋ॒णान्नो॒ नर्णमेर्त्स॑मानो य॒मस्य॑ लो॒के अधि॑रज्जु॒रा॑यत्॥२॥  
+Stern viewers of their sins who rule the people, forgive us what hash happened as we gambled. Not urging us to pay the debt we owed him, he with a cord hath gone to Yama's kingdom.

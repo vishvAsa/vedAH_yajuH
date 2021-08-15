@@ -2,5 +2,4 @@
 title = "२४ यस्ते अग्ने"
 
 +++
-यस्ते॑ अग्ने सुम॒तिं मर्तो॒ अख्य॒त् सह॑सः सूनो॒ अति॒ स प्र शृ॑ण्वे ।
-इषं॒ दधा॑नो॒ वह॑मानो॒ अश्वै॒रा स द्यु॒मां अम॑वान् भूषति॒ द्यून्॥२४॥
+Far famed is he, the mortal man, O Agni thou Son of strength, who hath obtained thy favour. He, gathering power, borne onward by his horses, makes his, days lovely in his might and splendour.

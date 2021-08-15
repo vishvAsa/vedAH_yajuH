@@ -2,4 +2,4 @@
 title = "०४ ईङ्खयन्तीरपस्युव इन्द्रं"
 
 +++
-ई॒ङ्खय॑न्तीरप॒स्युव॒ इन्द्रं॑ जा॒तमुपा॑सते । भे॒जा॒नासः॑ सु॒वीर्य॑म्॥४॥  
+Swaying about the active Ones came nigh to Indra at his birth, And shared his great heroic might.

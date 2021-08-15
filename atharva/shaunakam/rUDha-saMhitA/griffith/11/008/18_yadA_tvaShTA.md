@@ -2,5 +2,4 @@
 title = "१८ यदा त्वष्टा"
 
 +++
-य॒दा त्वष्टा॒ व्यतृ॑णत् पि॒ता त्वष्टु॒र्य उत्त॑रः ।  
-गृ॒हं कृ॒त्वा मर्त्यं॑ दे॒वाः पुरु॑ष॒मावि॑शन्॥१८॥  
+When Tvashtar, Tvashtar's loftier Sire, had bored it out and hollowed it. Gods made the mortal their abode, and entered and possessed the man.

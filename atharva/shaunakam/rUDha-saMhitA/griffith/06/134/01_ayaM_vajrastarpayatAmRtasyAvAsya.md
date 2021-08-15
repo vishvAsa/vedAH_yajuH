@@ -2,5 +2,4 @@
 title = "०१ अयं वज्रस्तर्पयतामृतस्यावास्य"
 
 +++
-अ॒यं वज्र॑स्तर्पयतामृ॒तस्यावा॑स्य रा॒ष्ट्रमप॑ हन्तु जीवि॒तम्।  
-शृ॒णातु॑ ग्री॒वाः प्र शृ॑णातू॒ष्णिहा॑ वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥१॥  
+This Thunderbolt shall take its fill of Order, scare life away and overthrow the kingdom. Tear necks in pieces. rend napes asunder, even as the Lord of Might the neck of Vritra.

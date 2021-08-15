@@ -2,5 +2,4 @@
 title = "०४ शतं वीरानजनयच्छतं"
 
 +++
-श॒तं वी॒रान॑जनयच्छ॒तं यक्ष्मा॒नपा॑वपत्।  
-दु॒र्णाम्नः॒ सर्वा॑न् ह॒त्वाव॒ रक्षां॑सि धूनुते ॥४॥  
+A hundred men hath it produced, hundred Consumptions chased away, All fiends of evil-name it hath smitten, and shakes the Rakshasas.

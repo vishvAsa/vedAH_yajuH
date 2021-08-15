@@ -2,5 +2,4 @@
 title = "०१ मुञ्चामि त्वा"
 
 +++
-मु॒ञ्चामि॑ त्वा ह॒विषा॒ जीव॑नाय॒ कम॑ज्ञातय॒क्ष्मादु॒त रा॑जय॒क्ष्मात्।  
-ग्राहि॑र्ज॒ग्राह॒ यद्ये॒तदे॑नं॒ तस्या॑ इन्द्राग्नी॒ प्र मु॑मुक्तमेनम्॥१॥  
+For life I set thee free by this oblation both from unmarked'. decline and from consumption: Or if the grasping demon have possessed him, free him from her,. O Indra, thou and Agni!

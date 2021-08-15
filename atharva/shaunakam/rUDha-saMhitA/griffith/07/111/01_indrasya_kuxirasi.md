@@ -2,5 +2,4 @@
 title = "०१ इन्द्रस्य कुक्षिरसि"
 
 +++
-इन्द्र॑स्य कु॒क्षिर॑सि सोम॒धान॑ आ॒त्मा दे॒वाना॑मु॒त मानु॑षाणाम्।  
-इ॒ह प्र॒जा ज॑नय॒ यास्त॑ आ॒सु या अ॒न्यत्रे॒ह तास्ते॑ रमन्ताम्॥१॥
+Belly of Indra art thou, Soma-holder! the very soul of Gods and human beings. Here be the sire of offspring, thine here present! Here be they glad in thee who now are elsewhere.

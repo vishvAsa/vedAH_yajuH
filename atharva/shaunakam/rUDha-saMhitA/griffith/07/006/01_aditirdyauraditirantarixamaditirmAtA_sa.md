@@ -2,5 +2,7 @@
 title = "०१ अदितिर्द्यौरदितिरन्तरिक्षमदितिर्माता स"
 
 +++
-अदि॑ति॒र्द्यौरदि॑तिर॒न्तरि॑क्ष॒मदि॑तिर्मा॒ता स पि॒ता स पु॒त्रः ।  
-विश्वे॑ दे॒वा अदि॑तिः॒ पञ्च॒ जना॒ अदि॑तिर्जा॒तमदि॑ति॒र्जनि॑त्वम्॥१॥  
+id
+7.6.1    Aditi is sky, and air's mid-region, Aditi is t...
+7.6.1    Aditi is sky, and air's mid-region, Aditi is t...
+Name: Comment, dtype: object

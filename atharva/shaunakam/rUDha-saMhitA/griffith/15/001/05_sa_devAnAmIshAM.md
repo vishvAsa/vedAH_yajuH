@@ -2,4 +2,4 @@
 title = "०५ स देवानामीशां"
 
 +++
-स दे॒वाना॑मी॒शां पर्यै॒त् स ईशा॑नोऽभवत्॥५॥  
+He gained the lordship of the Gods. He became Lord.

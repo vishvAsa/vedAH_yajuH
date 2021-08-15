@@ -2,5 +2,4 @@
 title = "२२ यत्रा सुपर्णा"
 
 +++
-यत्रा॑ सुप॒र्णा अ॒मृत॑स्य भ॒क्षमनि॑मेषं वि॒दथा॑भि॒स्वर॑न्ति ।  
-ए॒ना विश्व॑स्य॒ भुव॑नस्य गो॒पाः स मा॒ धीरः॒ पाक॒मत्रा वि॑वेश ॥२२॥
+Where the fine birds hymn ceaselessly their portion of life eter- nal, and the sacred synods. There is the Universe's Guard and Keeper who, wise hath entered into me the simple.

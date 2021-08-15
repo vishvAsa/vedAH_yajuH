@@ -2,5 +2,4 @@
 title = "२५ यावतीनामोषधीनां गावः"
 
 +++
-याव॑तीना॒मोष॑धीनां॒ गा॑वः प्रा॒श्नन्त्य॒घ्न्या याव॑तीनामजा॒वयः॑ ।  
-ताव॑ती॒स्तुभ्य॒मोष॑धीः॒ शर्म॑ यच्छ॒न्त्वाभृ॑ताः ॥२५॥  
+The multitude of herbs whereon the Cows whom none may slaughter feed, all that are food for goats and sheep, So many Plants, brought hitherward, give shelter and defence to thee!

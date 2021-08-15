@@ -2,5 +2,4 @@
 title = "०१ ईर्ष्याया ध्राजिं"
 
 +++
-ई॒र्ष्याया॒ ध्राजिं॑ प्रथ॒मां प्र॑थ॒मस्या॑ उ॒ताप॑राम्।  
-अ॒ग्निं हृ॑द॒य्यं॑१ शोकं॒ तं ते॒ निर्वा॑पयामसि ॥१॥  
+The first approach of Jealousy, and that which followeth the first, The pain, the fire that burns within thy heart we quench and drive away.

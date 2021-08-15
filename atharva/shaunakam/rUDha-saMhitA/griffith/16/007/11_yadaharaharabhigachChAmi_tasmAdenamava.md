@@ -2,4 +2,4 @@
 title = "११ यदहरहरभिगच्छामि तस्मादेनमव"
 
 +++
-यदह॑रहरभि॒गच्छा॑मि॒ तस्मा॑देन॒मव॑ दये ॥११॥  
+Whether I meet with it day by day, from that do I bribe him away.

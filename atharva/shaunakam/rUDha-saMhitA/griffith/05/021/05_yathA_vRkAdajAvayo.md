@@ -2,5 +2,4 @@
 title = "०५ यथा वृकादजावयो"
 
 +++
-यथा॒ वृका॑दजा॒वयो॒ धाव॑न्ति ब॒हु बिभ्य॑तीः ।  
-ए॒वा त्वं दु॑न्दुभे॒ऽमित्रा॑न॒भि क्र॑न्द॒ प्र त्रा॑स॒याथो॑ चि॒त्तानि॑ मोहय ॥५॥  
+As, when the wolf approaches, goats and sheep run sorely terrified, Even so do thou, O Drum, roar out against our foes to frighten them, and then bewilder thou their thoughts.

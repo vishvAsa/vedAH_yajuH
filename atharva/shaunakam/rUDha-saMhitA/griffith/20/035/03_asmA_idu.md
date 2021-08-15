@@ -2,5 +2,4 @@
 title = "०३ अस्मा इदु"
 
 +++
-अ॒स्मा इदु॒ त्यमु॑प॒मं स्व॒र्षां भरा॑म्याङ्गू॒षमा॒स्येऽन ।  
-मंहि॑ष्ठ॒मच्छो॑क्तिभिर्मती॒नां सु॑वृ॒क्तिभिः॑ सू॒रिं वा॑वृ॒धध्यै॑ ॥३॥  
+To him then with my lips my song of praises, excellent, winning heavenly light, I offer, To magnify with hymns of invocation and eulogies the Lord, most bounteous Giver.

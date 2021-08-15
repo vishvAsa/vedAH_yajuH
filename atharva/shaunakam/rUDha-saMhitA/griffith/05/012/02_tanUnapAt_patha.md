@@ -2,5 +2,4 @@
 title = "०२ तनूनपात् पथ"
 
 +++
-तनू॑नपात् प॒थ ऋ॒तस्य॒ याना॒न् मध्वा॑ सम॒ञ्जन्त्स्व॑दया सुजिह्व ।  
-मन्मा॑नि धी॒भिरु॒त य॒ज्ञमृ॒न्धन् दे॑व॒त्रा च॑ कृणुह्यध्व॒रं नः ॥२॥  
+Tanunapat, fair-tongued! with sweet meath balming the baths and ways of Order, make them pleasant. Bear to the Gods our sacrifice, exalting with holy thoughts our hymns of praise and worship.

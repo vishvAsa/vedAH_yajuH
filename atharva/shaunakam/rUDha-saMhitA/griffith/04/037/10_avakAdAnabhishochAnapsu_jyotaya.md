@@ -2,5 +2,4 @@
 title = "१० अवकादानभिशोचानप्सु ज्योतय"
 
 +++
-अ॒व॒का॒दान॑भिशो॒चान॒प्सु ज्यो॑तय माम॒कान्।  
-पि॒शा॒चान्त्सर्वा॑नोषधे॒ प्र मृ॑णीहि॒ सह॑स्व च ॥१०॥  
+O Plant, be thou victorious, crush the Pisachas, one and all, Blyxa-fed, shining in the floods, illumining the selfish ones.

@@ -2,4 +2,4 @@
 title = "०२ अर्वाचीनं सु"
 
 +++
-अ॒र्वा॒चीनं॒ सु ते॒ मन॑ उ॒त चक्षुः॑ शतक्रतो । इन्द्र॑ कृ॒ण्वन्तु॑ वा॒घतः॑ ॥२॥  
+O Indra, Lord of Hundred Powers, may those who praise thee hitherward. Direct thy spirit and thine eye.

@@ -2,5 +2,4 @@
 title = "०३ यदग्ने यानि"
 
 +++
-यद॑ग्ने॒ यानि॒ कानि॑ चि॒दा ते॒ दारू॑णि द॒ध्मसि॑ ।  
-सर्वं॒ तद॑स्तु मे शि॒वं तज्जु॑षस्व यविष्ठ्य ॥३॥  
+Whatever even be the logs which, Agni, we lay down for thee, propitious be it all to me: accept it, O most youthful God.

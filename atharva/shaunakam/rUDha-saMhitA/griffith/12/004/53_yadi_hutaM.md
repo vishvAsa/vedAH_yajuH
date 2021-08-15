@@ -2,5 +2,4 @@
 title = "५३ यदि हुतं"
 
 +++
-यदि॑ हु॒तं यद्यहु॑ताम॒मा च॒ पच॑ते व॒शाम्।  
-दे॒वान्त्सब्रा॑ह्मणानृ॒त्वा जि॒ह्मो लो॒कान्निरृ॑च्छति ॥५३॥
+If in his home one cooks the Cow, sacrificed or not sacrificed. Wronger of Gods and Brahmans' he departs, dishonest, from the world.

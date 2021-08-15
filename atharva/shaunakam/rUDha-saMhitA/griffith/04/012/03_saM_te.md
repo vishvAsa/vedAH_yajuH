@@ -2,5 +2,4 @@
 title = "०३ सं ते"
 
 +++
-सं ते॑ म॒ज्जा म॒ज्ज्ञा भ॑वतु॒ समु॑ ते॒ परु॑षा॒ परुः॑ ।  
-सं ते॑ मां॒सस्य॒ विस्र॑स्तं॒ समस्थ्यपि॑ रोहतु ॥३॥  
+With marrow be the marrow joined, thy limb united with the limb. Let what hath fallen of thy flesh, and the bone also grow again.

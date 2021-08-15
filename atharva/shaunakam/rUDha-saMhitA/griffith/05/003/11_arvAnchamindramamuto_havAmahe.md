@@ -2,5 +2,4 @@
 title = "११ अर्वाञ्चमिन्द्रममुतो हवामहे"
 
 +++
-अ॒र्वाञ्च॒मिन्द्र॑म॒मुतो॑ हवामहे॒ यो गो॒जिद् ध॑न॒जिद॑श्व॒जिद् यः ।  
-इ॒मं नो॑ य॒ज्ञं वि॑ह॒वे शृ॑णोत्व॒स्माक॑मभूर्हर्यश्व मे॒दी॥११॥
+Yea, we call Indra hitherward, the winner of wealth in battle and of kine and horses. May he mark this our worship when we call him, Lord of bay steeds, thou art our friend and comrade.

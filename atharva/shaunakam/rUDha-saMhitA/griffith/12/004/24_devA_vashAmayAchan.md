@@ -2,5 +2,4 @@
 title = "२४ देवा वशामयाचन्"
 
 +++
-दे॒वा व॒शाम॑याच॒न् यस्मि॒न्नग्रे॒ अजा॑यत ।  
-तामे॒तां वि॑द्या॒न्नार॑दः स॒ह दे॒वैरुदा॑जत ॥२४॥  
+The Deities begged the Cow from him with whom at first she was produced: Her, this one, Narada would know: with Deities he drove her forth.

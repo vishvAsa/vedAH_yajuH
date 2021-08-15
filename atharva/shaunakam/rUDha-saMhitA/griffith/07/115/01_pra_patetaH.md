@@ -2,5 +2,4 @@
 title = "०१ प्र पतेतः"
 
 +++
-प्र प॑ते॒तः पा॑पि लक्ष्मि॒ नश्ये॒तः प्रामुतः॑ पत ।  
-अ॒य॒स्मये॑ना॒ङ्केन॑ द्विष॒ते त्वा स॑जामसि ॥१॥  
+Hence. Evil Fortune! fly away, vanish from this place and from that. We fix thee with an iron hook unto the man who hateth us.

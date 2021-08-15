@@ -2,5 +2,7 @@
 title = "०१ अभि त्वा"
 
 +++
-अ॒भि त्वा॑ शूर नोनु॒मोऽदु॑ग्धा इव धे॒नवः॑ ।  
-ईशा॑नम॒स्य जग॑तः स्व॒र्दृश॒मीशा॑नमिन्द्र त॒स्थुषः॑ ॥१॥  
+id
+20.121.1    Though, Indra, thou art called by men eastward...
+20.121.1    Over the three great distances, past the Five ...
+Name: Comment, dtype: object

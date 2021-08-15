@@ -2,5 +2,4 @@
 title = "०२ त्वामुग्रमवसे चर्षणीसहं"
 
 +++
-त्वामु॒ग्रमव॑से चर्षणी॒सहं॒ राज॑न् दे॒वेषु॑ हूमहे ।  
-विश्वा॒ सु नो॑ विथु॒रा पि॑ब्द॒ना व॑सो॒ऽमित्रा॑न् सु॒षहा॑न् कृधि ॥२॥
+We call on thee, O King, mighty among the Gods, ruler of men, to succour us, All that is weak in us, excellent God, make firm: make our foes easy to subdue.

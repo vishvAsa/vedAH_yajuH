@@ -2,5 +2,4 @@
 title = "१८ नास्य धेनुः"
 
 +++
-नास्य॑ धे॒नुः क॑ल्या॒णी नान॒ड्वान्त्स॑हते॒ धुर॑म्।  
-विजा॑नि॒र्यत्र॑ ब्रह्म॒णो रात्रिं॒ वस॑ति पा॒पया॑ ॥१८॥
+His milch-cow doth not profit one, his draught-ox masters not the yoke, Wherever, severed from his wife, a Brahman spends the mourn- ful night.

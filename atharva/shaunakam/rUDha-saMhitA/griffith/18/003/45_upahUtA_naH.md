@@ -2,5 +2,4 @@
 title = "४५ उपहूता नः"
 
 +++
-उप॑हूता नः पि॒तरः॑ सो॒म्यासो॑ बर्हि॒ष्येऽषु नि॒धिषु॑ प्रि॒येषु॑ ।  
-त आ ग॑मन्तु॒ त इ॒ह श्रु॑व॒न्त्वधि॑ ब्रुवन्तु॒ तेऽवन्त्व॒स्मान्॥४५॥  
+May they, the Fathers who deserve the Soma, invited to their favourite oblations. Laid on the sacred grass, come nigh and listen. May they be gracious unto us and bless us.

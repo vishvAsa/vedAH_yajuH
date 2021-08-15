@@ -2,5 +2,4 @@
 title = "०१ य इमां"
 
 +++
-य इ॒मां दे॒वो मेख॑लामाब॒बन्ध॒ यः सं॑न॒नाह॒ य उ॑ नो यु॒योज॑ ।  
-यस्य॑ दे॒वस्य॑ प्र॒शिषा॒ चरा॑मः॒ स पा॒रमि॑च्छा॒त् स स उ॑ नो॒ वि मु॑ञ्चात्॥१॥  
+By the direction of that God we journey, he will seek means to save and he will free us; The God who hath engirt us with this Girdle, he who hath fast- ened it, and made us ready.

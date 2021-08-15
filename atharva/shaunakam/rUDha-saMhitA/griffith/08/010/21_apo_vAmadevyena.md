@@ -2,4 +2,4 @@
 title = "२१ अपो वामदेव्येन"
 
 +++
-अ॒पो वा॑मदे॒व्येन॑ य॒ज्ञं य॑ज्ञाय॒ज्ञिये॑न ॥८॥(१५)  
+She mounted up, she came to men: they killed her Presently she regained her life and being. Hence on both days to men they bring and offer--who knows this--near-seated in the dwelling.

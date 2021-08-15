@@ -2,4 +2,4 @@
 title = "०२ भव एनमिष्वासः"
 
 +++
-भ॒व ए॑नमिष्वा॒सः प्राच्या॑ दि॒शो अ॑न्तर्दे॒शाद॑नुष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑नः॥२॥  
+They made Sarva the Archer his deliverer from the intermediate space of the southern region, etc, as in verse 1.

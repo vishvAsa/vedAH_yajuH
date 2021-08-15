@@ -2,5 +2,4 @@
 title = "०१ न्यस्तिका रुरोहिथ"
 
 +++
-न्य॒स्ति॒का रु॑रोहिथ सुभगं॒कर॑णी॒ मम॑ ।  
-श॒तं तव॑ प्रता॒नास्त्रय॑स्त्रिंशन्निता॒नाः ॥  
+Thou hast grown up, a source of joy to bless me with pros- perity. A hundred are thy tendrils, three-and-thirty thy descending shoots. With this that bears a thousand leaves I dry thy heart and wither it.

@@ -2,5 +2,4 @@
 title = "४२ निधिं निधिपा"
 
 +++
-नि॒धिं नि॑धि॒पा अ॒भ्येऽनमिच्छा॒दनी॑श्वरा अ॒भितः॑ सन्तु॒ ये॒३न्ये।  
-अ॒स्माभि॑र्द॒त्तो निहि॑तः स्व॒र्गस्त्रि॒भिः काण्डै॒स्त्रीन्त्स्व॒र्गान॑रुक्षत्॥४२॥  
+The Lord of Treasures may desire this treasure: lordless on. every side be all the others. Our mess, presented seeking heaven, hath mounted in three divisions all three realms of Svarga.

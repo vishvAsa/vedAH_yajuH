@@ -2,5 +2,4 @@
 title = "१९ अयमेमि विचाकशद्"
 
 +++
-अ॒यमे॑मि वि॒चाक॑शद् विचि॒न्वन् दास॒मार्य॑म्।  
-पिबा॑मि पाक॒सुत्व॑नो॒ऽभि धीर॑मचाकशं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥१९॥  
+Distinguishing the Dasa and the Arya, viewing all, I go. I look upon the wise, and drink the simple votary's Soma juice. Supreme is Indra over all.

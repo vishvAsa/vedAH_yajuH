@@ -2,5 +2,4 @@
 title = "०३ अपामूर्ज ओजसो"
 
 +++
-अ॒पामू॒र्ज ओज॑सो वावृधा॒नम॒ग्नेर्जा॒तमधि॑ जा॒तवे॑दसः ।  
-चतु॑र्वीरं पर्व॒तीयं॒ यदाञ्ज॑नं॒ दिशः॑ प्र॒दिशः॑ कर॒दिच्छि॒वास्ते॑ ॥३॥  
+Increasing from the Waters' strength and vigour, sprung into life from Agni Jatavedas, Strong as four heroes, mountain born, this Ointment make for thee quarters and mind-points auspicious!

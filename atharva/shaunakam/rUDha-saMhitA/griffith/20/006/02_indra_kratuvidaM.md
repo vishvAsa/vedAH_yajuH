@@ -2,4 +2,4 @@
 title = "०२ इन्द्र क्रतुविदं"
 
 +++
-इन्द्र॑ क्रतु॒विदं॑ सु॒तं सोमं॑ हर्य पुरुष्टुत । पिबा वृ॑षस्व॒ तातृ॑पिम्॥२॥  
+Indra, whom many laud, accept the strength-confering Soma juice. Quaff, pour down drink that satisfies.

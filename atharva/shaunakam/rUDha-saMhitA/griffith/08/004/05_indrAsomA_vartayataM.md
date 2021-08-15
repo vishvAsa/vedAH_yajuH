@@ -2,5 +2,4 @@
 title = "०५ इन्द्रासोमा वर्तयतं"
 
 +++
-इन्द्रा॑सोमा व॒र्तय॑तं दि॒वस्पर्य॑ग्नित॒प्तेभि॑र्यु॒वमश्म॑हन्मभिः ।  
-तपु॑र्वधेभिर॒जरे॑भिर॒त्त्रिणो॒ नि पर्शा॑ने विध्यतं॒ यन्तु॑ निस्व॒रम्॥५॥  
+Indra and Soma, cast ye downward from the sky your deadly bolts of stone burning with fiery flame, Eternal, scorching darts. Plunge the voracious fiends within the depth, and let them pass without a sound.

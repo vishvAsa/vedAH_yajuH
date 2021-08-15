@@ -2,5 +2,4 @@
 title = "०७ चन्द्रमा मनसो"
 
 +++
-चन्द्र॑मा म॑नसो जात॑श्च॑क्षोः सू॑र्यो अजायत ।  
-मुखा॒दिन्द्र॑श्चा॒ग्निश्च॑ प्रा॒णाद् वा॒युर॑जायत ॥७॥  
+The Moon was gendered from his mind, and from his eye the Sun had birth. Indra and Agni from his mouth were born and Vayu from his breath.

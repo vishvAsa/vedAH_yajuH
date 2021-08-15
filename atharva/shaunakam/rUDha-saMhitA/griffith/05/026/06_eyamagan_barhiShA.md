@@ -2,4 +2,4 @@
 title = "०६ एयमगन् बर्हिषा"
 
 +++
-एयम॑गन् ब॒र्हिषा॒ प्रोक्ष॑णीभिर्य॒ज्ञं त॑न्वा॒नादि॑तिः॒ स्वाहा॑ ॥६॥  
+Here Aditi is come--All hail!--preparing the rite with grass and lustral waters.

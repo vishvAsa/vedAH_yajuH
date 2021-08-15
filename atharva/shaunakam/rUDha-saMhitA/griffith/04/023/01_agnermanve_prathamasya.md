@@ -2,5 +2,4 @@
 title = "०१ अग्नेर्मन्वे प्रथमस्य"
 
 +++
-अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसः॒ पाञ्च॑जन्यस्य बहु॒धा यमि॒न्धते॑ ।  
-विशो॑ विशः प्रविशि॒वांस॑मीमहे॒ स नो मुञ्च॒त्वंह॑सः ॥१॥  
+I fix my heart on wise and ancient Agni, the Five Tribes' Lord, in many a place enkindled. We seek him who hath entered all our houses. May he deliver us from grief and trouble.

@@ -2,5 +2,4 @@
 title = "०२ यस्तिष्ठति चरति"
 
 +++
-यस्तिष्ठ॑ति॒ चर॑ति॒ यश्च॒ वञ्च॑ति॒ यो नि॒लायं॒ चर॑ति॒ यः प्र॒तङ्क॑म्।  
-द्वौ सं॑नि॒षद्य॒ यन्म॒न्त्रये॑ते॒ राजा॒ तद् वे॑द॒ वरु॑णस्तृ॒तीयः॑ ॥२॥  
+If a man stands or walks or moves in secret, goes to his lying- down or his uprising, What two men whisper as they sit together, King Varuna knows: he as the third is present.

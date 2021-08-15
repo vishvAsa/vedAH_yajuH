@@ -2,5 +2,4 @@
 title = "०६ अव स्वराति"
 
 +++
-अव॑ स्वराति॒ गर्ग॑रो गो॒धा परि॑ सनिष्वणत्।  
-पिङ्गा॒ परि॑ चनिष्कद॒दिन्द्रा॑य॒ ब्रह्मोद्य॑तम्॥६॥  
+Now loudly let the viol sound, the lute send out its voice with might, Shrill be the music of the string. To Indra is the hymn upraised.

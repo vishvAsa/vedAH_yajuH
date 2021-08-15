@@ -2,6 +2,4 @@
 title = "०२ मो षु"
 
 +++
-मो षु वो॑ अ॒स्मद॒भि तानि॒ पौंस्या॒ सना॑ भूवन् द्यु॒म्नानि॒ मोत जा॑रिषुर॒स्मत् पु॒रोत जा॑रिषुः ।  
-यद् व॑श्चि॒त्रं यु॒गेयु॑गे॒ नव्यं॒ घोषा॒दम॑र्त्यम्।  
-अ॒स्मासु॒ तन्म॑रुतो॒ यच्च॑ दु॒ष्टृरं॑ दिधृ॒ता यच्च॑ दु॒ष्टर॑म्॥२॥  
+Ne'er may those manly deeds of yours for us grow old, never may your bright glories fall into decay, never before your time decay. What deed of yours, new every age, wondrous, surpassing man,. rings forth, Whatever, Maruts may be difficult to gain grant us whate'er is hard to win.

@@ -2,4 +2,4 @@
 title = "०३ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य । योऽस्य प्रथ॒मः प्रा॒ण ऊ॒र्ध्वो नामा॒यं सो अ॒ग्निः ॥३॥  
+His first vital breath, called Upward, is this Agni.

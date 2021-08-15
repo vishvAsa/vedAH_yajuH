@@ -2,4 +2,4 @@
 title = "८१ नमो वः"
 
 +++
-नमो॑ वः पितर ऊ॒र्जे नमो॑ वः पितरो॒ रसा॑य ॥८१॥  
+Hail, Fathers, to your energy! Hail, Fathers, to your sap!

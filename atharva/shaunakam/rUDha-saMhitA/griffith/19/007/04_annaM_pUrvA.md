@@ -2,5 +2,4 @@
 title = "०४ अन्नं पूर्वा"
 
 +++
-अन्नं॒ पूर्वा॑ रासतां मे अषा॒ढा ऊर्जं॑ दे॒व्युत्त॑रा॒ आ व॑हन्तु ।  
-अ॒भि॒जिन्मे॑ रासतां॒ पुण्य॑मे॒व श्रव॑णः॒ श्रवि॑ष्ठाः कुर्वतां सुपु॒ष्टिम्॥४॥  
+Food shall be earlier Ashadhas grant me; let those that follow bring me strength and vigour; With virtuous merit Abhijit endow me! Sravana and Sravishthas make me prosper.

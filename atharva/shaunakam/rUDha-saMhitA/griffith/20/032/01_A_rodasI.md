@@ -2,5 +2,4 @@
 title = "०१ आ रोदसी"
 
 +++
-आ रोद॑सी॒ हर्य॑माणो महि॒त्वा नव्यं॑नव्यं हर्यसि॒ मन्म॒ नु प्रि॒यम्।  
-प्र प॒स्त्यमसुर हर्य॒तं गोरा॒विष्कृ॑धि॒ हर॑ये॒ सूर्या॑य ॥१॥  
+Thou, comprehending with thy might the earth and heaven, acceptest the dear hymn for ever new and new. O Asura, disclose thou and make visible the Cow's beloved home to the bright golden Sun.

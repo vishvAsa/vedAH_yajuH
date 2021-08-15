@@ -2,5 +2,4 @@
 title = "६३ भूमे मातर्नि"
 
 +++
-भूमे॑ मात॒र्नि धे॑हि मा भ॒द्रया॒ सुप्र॑तिष्ठितम्।  
-सं॒वि॒दा॒ना दि॒वा क॑वे श्रि॒यां मा॑ धेहि॒ भूत्या॑म्॥६३॥
+O Earth, my Mother, set thou me happily in a place secure. Of one accord with Heaven, O Sage, set me in glory and in wealth.

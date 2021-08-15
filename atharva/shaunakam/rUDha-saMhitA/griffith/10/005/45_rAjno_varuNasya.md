@@ -2,5 +2,4 @@
 title = "४५ राज्ञो वरुणस्य"
 
 +++
-राज्ञो॒ वरु॑णस्य ब॒न्धोऽसि ।  
-सो॒३मुमा॑मुष्याय॒णम॒मुष्याः॑ पु॒त्रमन्ने॑ प्रा॒णे ब॑धान ॥४४॥  
+All food of thine, O Lord of Life, that lies, upon the face of earth, Thereof bestow thou upon us. O Lord of Life, Prajapati!

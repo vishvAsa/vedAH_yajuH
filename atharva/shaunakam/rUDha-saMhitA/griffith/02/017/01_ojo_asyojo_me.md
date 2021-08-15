@@ -2,4 +2,4 @@
 title = "०१ ओजोऽस्योजो मे"
 
 +++
-ओजो॒ऽस्योजो॑ मे दाः॒ स्वाहा॑ ।१॥  
+Power art thou, give me power. All hail!

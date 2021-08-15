@@ -2,4 +2,4 @@
 title = "०३ सोमं ते"
 
 +++
-सोमं॒ ते रु॒द्रव॑न्तमृछन्तु । ये मा॑घा॒यवो॒ दक्षि॑णाया दि॒शोऽभि॒दासा॑त्॥३॥  
+Let those who vex me from the southern quarter, sinners, sing praise to Soma with the Rudras.

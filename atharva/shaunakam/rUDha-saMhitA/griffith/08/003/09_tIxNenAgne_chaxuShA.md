@@ -2,5 +2,4 @@
 title = "०९ तीक्ष्णेनाग्ने चक्षुषा"
 
 +++
-ती॒क्ष्णेना॑ग्ने॒ चक्षु॑षा रक्ष य॒ज्ञं प्राञ्चं॒ वसु॑भ्यः॒ प्र ण॑य प्रचेतः ।  
-हिं॒स्रं रक्षां॑स्य॒भि शोशु॑चानं॒ मा त्वा॑ दभन् यातु॒धाना॑ नृचक्षः ॥९॥  
+With keen glance guard the sacrifice, O Agni: thou Sage, con- duct it onward to the Vasus. Let not the fiends, O Man-Beholder, harm thee burning against the Rakshasas to slay them.

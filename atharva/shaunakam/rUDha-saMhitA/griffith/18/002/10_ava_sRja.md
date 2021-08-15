@@ -2,5 +2,4 @@
 title = "१० अव सृज"
 
 +++
-अव॑ सृज॒ पुन॑रग्ने पि॒तृभ्यो॒ यस्त॒ आहु॑त॒श्चर॑ति स्व॒धावा॑न्।  
-आयु॒र्वसा॑न॒ उप॑ यातु॒ शेषः॒ सं ग॑च्छतां त॒न्वा सु॒वर्चाः॑ ॥१०॥  
+Away O Agni, to the Fathers, send him who, offered in thee, goes with our oblations. Wearing new life let him approach his offspring, and splendid, be invested with a body,

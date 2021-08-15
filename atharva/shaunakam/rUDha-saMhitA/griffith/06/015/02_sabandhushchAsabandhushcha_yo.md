@@ -2,5 +2,4 @@
 title = "०२ सबन्धुश्चासबन्धुश्च यो"
 
 +++
-सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्मां अ॑भि॒दास॑ति ।  
-तेषां॒ सा वृ॒क्षाणा॑मिवा॒हं भू॑यासमुत्त॒मः ॥२॥  
+Whoever seeks to injure us, with kinsmen or no kin to aid, May I be uppermost of all, even as this Plant is queen of trees.

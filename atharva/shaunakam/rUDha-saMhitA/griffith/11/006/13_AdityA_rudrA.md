@@ -2,5 +2,4 @@
 title = "१३ आदित्या रुद्रा"
 
 +++
-आ॒दि॒त्या रु॒द्रा वस॑वो दि॒वि दे॒वा अथ॑र्वाणः।  
-अङ्गि॑रसो मनी॒षिण॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१३॥  
+Adityas, Rudra, Vasus, Gods aloft in heaven, Atharvan's sons, The sages, sons of Angiras: may they deliver us from woe.

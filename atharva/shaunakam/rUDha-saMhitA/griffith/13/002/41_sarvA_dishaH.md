@@ -2,5 +2,4 @@
 title = "४१ सर्वा दिशः"
 
 +++
-सर्वा॒ दिशः॒ सम॑चर॒द् रोहि॒तोऽधि॑पतिर्दि॒वः ।  
-दिवं॑ समु॒द्रमाद् भूमिं॒ सर्वं॑ भू॒तं वि र॑क्षति ॥४१॥  
+To all the regions Rohita came, the imperial Lord of heaven. He watches over ocean, heaven, and earth and all existing things.

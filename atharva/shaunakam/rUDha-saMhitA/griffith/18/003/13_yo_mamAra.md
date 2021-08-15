@@ -2,5 +2,4 @@
 title = "१३ यो ममार"
 
 +++
-यो म॒मार॑ प्रथ॒मो मर्त्या॑नां॒ यः प्रे॒याय॑ प्रथ॒मो लो॒कमे॒तम्।  
-वै॒व॒स्व॒तं सं॒गम॑नं॒ जना॑नां य॒मं राजा॑नं ह॒विषा॑ सपर्यत ॥१३॥  
+Worship with sacrificial gift King Yama, Vivasvan's son who gathers men together, Yama who was the first to die of mortals, the first who travelled to the world before us.

@@ -2,5 +2,4 @@
 title = "०२ स वेद"
 
 +++
-स वे॑द पु॒त्रः पि॒तरं॒ स मा॒तरं॒ स सू॒नुर्भु॑व॒त् स भु॑व॒त् पुन॑र्मघः ।  
-स द्यामौ॑र्णोद॒न्तरि॑क्षं॒ स्वः॑१ स इ॒दं विश्व॑मभवत् स आभ॑वत्॥२॥
+Well knows this son his sire, he knows his mother well: he hath been son, and he hath been illiberal. He hath encompassed heaven, and air's mid-realm, and sky; he hath become this All; he hath come nigh to us.

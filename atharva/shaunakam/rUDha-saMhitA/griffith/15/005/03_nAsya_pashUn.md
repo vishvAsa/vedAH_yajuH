@@ -2,4 +2,4 @@
 title = "०३ नास्य पशून्"
 
 +++
-नास्य॑ प॒शून् न स॑मा॒नान् हि॑नस्ति॒ य ए॒वं वेद॑ ॥३॥  
+They made Pasupati the Archer his deliverer from the inter- mediate space of the western region, etc.

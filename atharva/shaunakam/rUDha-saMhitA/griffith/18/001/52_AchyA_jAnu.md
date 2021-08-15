@@ -2,5 +2,4 @@
 title = "५२ आच्या जानु"
 
 +++
-आच्या॒ जानु॑ दक्षिण॒तो नि॒षद्ये॒दं नो॑ ह॒विर॒भि गृ॑णन्तु॒ विश्वे॑ ।
-मा हिं॑सिष्ट पितरः॒ केन॑ चिन्नो॒ यद् व आगः॑ पुरु॒षता॒ करा॑म ॥५२॥
+Bowing their bended knees and seated southward let all accept this sacrifice with favour. Punish us not for any sin, O fathers which we through human frailty have committed.

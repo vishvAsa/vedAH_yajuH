@@ -2,5 +2,4 @@
 title = "०२ अव स्य"
 
 +++
-अव॑ स्य शू॒राध्व॑नो॒ नान्ते॒ऽस्मिन् नो॑ अ॒द्य सव॑ने म॒न्दध्यै॑ ।  
-शंसा॑त्यु॒क्थमु॒शने॑व वे॒धाश्चि॑कि॒तुषे॑ असु॒र्याऽय मन्म॑ ॥२॥  
+Unyoke, as at thy journey's end, O Hero, to gladden thee to-day at this libation. Like Usana, the priest a laud shall utter, a hymn to thee, the Lord Divine, who markest.

@@ -2,5 +2,4 @@
 title = "१५ गन्धर्वाप्सरसः सर्पान्"
 
 +++
-ग॒न्ध॒र्वा॒प्स॒रसः॑ स॒र्पान् दे॒वान् पु॑ण्यज॒नान् पितॄ॒न्।  
-दृ॒ष्टान॒दृष्टा॑निष्णामि॒ यथा॒ सेना॑म॒मूं हन॑न्॥१५॥  
+Gandharvas, and Apsarases, Gods, Serpents, Fathers, Holy Men, Seen and unseen, I send them forth that they may strike this army dead.

@@ -2,5 +2,4 @@
 title = "४९ अहोरात्रे अन्वेषि"
 
 +++
-अ॒हो॒रा॒त्रे अन्वे॑षि॒ बिभ्र॑त् क्षे॒म्यस्तिष्ठ॑न् प्र॒तर॑णः सु॒वीरः॑ ।  
-अना॑तुरान्त्सु॒मन॑सस्तल्प॒ बिभ्र॒ज्ज्योगे॒व नः॒ पुरु॑षगन्धिरेधि ॥४९॥  
+Thou followest the day and night, supporting, standing, at peace, promoting, rich in heroes. Long bearing undiseased and happy sleepers, be ours, O Bed, with smell of man about thee,

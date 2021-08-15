@@ -2,5 +2,4 @@
 title = "१२ मधुमन्मूलं मधुमदग्रमासाम्मधुमन्मध्यं"
 
 +++
-मधु॑मन्मू॑लं म॑धुमद॑ग्रमासाम्म॑धुमन्म॑ध्यं वीरु॑धां बभूव ।  
-मधु॑मत् प॒र्णं मधु॑म॒त् पुष्प॑मासां॒ मधोः॒ संभक्ता अ॒मृत॑स्य भ॒क्षो घृ॒तमन्नं॑ दुह्रतां॒ गोपु॑रोगवम्॥१२॥  
+Sweet is their root, sweet are these Plants' top branches, sweet also is their intermediate portion; Sweet is their foliage, and sweet their blossom, combined with sweetness is their taste of Amrit: food, fatness let them yield, with kine preceding.

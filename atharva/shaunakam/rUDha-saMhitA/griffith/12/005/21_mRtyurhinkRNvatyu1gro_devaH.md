@@ -2,4 +2,4 @@
 title = "२१ मृत्युर्हिङ्कृण्वत्यु१ग्रो देवः"
 
 +++
-मृ॒त्युर्हि॑ङ्कृण्व॒त्यु॑१ग्रो दे॒वः पुच्छं॑ प॒र्यस्य॑न्ती ॥२१॥  
+Death is she when she loweth, and a fierce God when she whis- keth her tail;

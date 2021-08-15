@@ -2,5 +2,4 @@
 title = "०७ यस्याश्वासः प्रदिशि"
 
 +++
-यस्याश्वा॑सः प्र॒दिशि॒ यस्य॒ गावो॒ यस्य॒ ग्रामा॒ यस्य॒ विश्वे॒ रथा॑सः ।  
-यः सूर्यं॒ य उ॒षसं॑ ज॒जान॒ यो अ॒पां ने॒ता स ज॑नास॒ इन्द्रः॑ ॥७॥  
+He under whose supreme control are horses, all chariots, and the hamlets, and the cattle: He who begat the Sun, begat the Morning, leader of waters. He, O men, is Indra.

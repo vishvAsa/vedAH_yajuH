@@ -2,5 +2,4 @@
 title = "०१ ब्रह्म जज्ञानं"
 
 +++
-ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द् वि सी॑म॒तः सु॒रुचो॑ वे॒न आवः ।  
-स बु॒ध्न्याऽउप॒माअ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि व॑ ॥१॥  
+Eastward at first the prayer was generated: Vena disclosed bright flashes from the summit, Disclosed his deepest, nearest revelations, womb of the non- existent and existent.

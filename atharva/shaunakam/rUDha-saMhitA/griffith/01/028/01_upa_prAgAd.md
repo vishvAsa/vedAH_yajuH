@@ -2,5 +2,4 @@
 title = "०१ उप प्रागाद्"
 
 +++
-उप॒ प्रागा॑द् दे॒वो अ॒ग्नी र॑क्षो॒हामी॑व॒चात॑नः ।  
-दह॒न्नप॑ द्वया॒विनो॑ यातु॒धाना॑न् किमी॒दिनः॑ ॥१॥  
+God Agni hath come forth to us, fiend-slayer, chaser of disease, Burning the Yatudhanas up, Kimidins, and deceitful ones.

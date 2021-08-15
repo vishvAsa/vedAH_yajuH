@@ -2,5 +2,4 @@
 title = "०३ यदुवक्थानृतं जिह्वया"
 
 +++
-यदु॒वक्थानृ॑तं जि॒ह्वया॑ वृजि॒नं ब॒हु।  
-राज्ञ॑स्त्वा स॒त्यध॑र्मणो मु॒ञ्चामि॒ वरु॑णाद॒हम्॥३॥  
+Whatever falsehood thou hast told, much evil spoken with the tongue, I liberate thee from the noose of Varuna the righteous King.

@@ -2,5 +2,4 @@
 title = "०३ अनवद्याभिः समु"
 
 +++
-अ॒न॒व॒द्याभिः॒ समु॑ जग्म आभिरप्स॒रास्वपि॑ गन्ध॒र्व आ॑सीत्।  
-स॒मु॒द्र आ॑सां॒ सद॑नं म आहु॒र्यतः॑ स॒द्य आ च॒ परा॑ च॒ यन्ति॑ ॥३॥  
+I came, I met these faultless, blameless beings: among the Apsarases was the Gandharva. Their home is in the sea--so men have told me,--whence they come quickly hitherward and vanish.

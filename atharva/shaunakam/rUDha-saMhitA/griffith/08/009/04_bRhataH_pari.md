@@ -2,5 +2,4 @@
 title = "०४ बृहतः परि"
 
 +++
-बृ॒ह॒तः परि॒ सामा॑नि ष॒ष्ठात् पञ्चाधि॒ निर्मि॑ता ।  
-बृ॒हद् बृ॑ह॒त्या निर्मि॑तं॒ कुतोऽधि॑ बृह॒ती मि॒ता॥४॥  
+Out of the Brihat as the sixth five Salmons have been fashioned forth: From Brihati was Brihat formed: whence was the Brihati com- posed?

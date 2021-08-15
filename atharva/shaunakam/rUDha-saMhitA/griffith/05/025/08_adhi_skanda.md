@@ -2,5 +2,4 @@
 title = "०८ अधि स्कन्द"
 
 +++
-अधि॑ स्कन्द वी॒रय॑स्व॒ गर्भ॒मा धे॑हि॒ योन्या॑म्।  
-वृषा॑सि वृष्ण्यावन् प्र॒जायै॒ त्वा न॑यामसि ॥८॥  
+Rise up, put forth thy manly strength, and lay thy germ within the womb. A bull art thou with vigorous strength: for progeny we bring thee near.

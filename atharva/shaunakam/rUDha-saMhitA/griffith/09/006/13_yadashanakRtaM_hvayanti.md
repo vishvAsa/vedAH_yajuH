@@ -2,4 +2,4 @@
 title = "१३ यदशनकृतं ह्वयन्ति"
 
 +++
-यद॑शन॒कृतं॒ ह्वय॑न्ति हवि॒ष्कृत॑मे॒व तद्ध्व॑यन्ति ॥१३॥  
+When they call the man who prepares food they summon the preparer of oblation.

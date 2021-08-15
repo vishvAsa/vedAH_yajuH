@@ -2,5 +2,4 @@
 title = "०५ ह्वयन्तु त्वा"
 
 +++
-ह्वय॑न्तु त्वा प्रतिज॒नाः प्रति॑ मित्रा अ॑वृषत ।  
-इ॒न्द्रा॒ग्नी विश्वे॑ दे॒वास्ते वि॒शि क्षेम॑मदीधरन्॥५॥  
+Let thine opponents call thee back. Thy friends have chosen, thee again. Indra and Agni, all the Gods have kept thy home amid the tribe.

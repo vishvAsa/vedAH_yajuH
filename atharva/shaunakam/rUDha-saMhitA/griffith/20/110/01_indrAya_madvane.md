@@ -2,4 +2,4 @@
 title = "०१ इन्द्राय मद्वने"
 
 +++
-इन्द्रा॑य॒ मद्व॑ने सु॒तं परि॑ ष्टोभन्तु नो॒ गिरः॑ । अ॒र्कम॑र्चन्तु का॒रवः॑ ॥१॥  
+For Indra, lover of carouse, loud be our songs about the juice: Let poets sing the hymn of praise.

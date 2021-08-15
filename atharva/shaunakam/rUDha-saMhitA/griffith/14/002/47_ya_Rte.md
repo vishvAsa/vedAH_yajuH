@@ -2,5 +2,4 @@
 title = "४७ य ऋते"
 
 +++
-य ऋ॒ते चि॑दभि॒श्रिषः॑ पु॒रा ज॒त्रुभ्य॑ आ॒तृदः॑ ।  
-संधा॑ता सं॒धिं म॒घवा॑ पुरू॒वसु॒र्निष्क॑र्ता॒ विह्रु॑तं॒ पुनः॑ ॥४७॥  
+He without ligature, before making incision in the neck. Closed up the wound again, most wealthy Bounteous Lord who healeth the dissevered parts.

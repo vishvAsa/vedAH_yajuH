@@ -2,5 +2,4 @@
 title = "०७ जरायै त्वा"
 
 +++
-ज॒रायै॑ त्वा॒ परि॑ ददामि ज॒रायै॒ नि धु॑वामि त्वा ।  
-ज॒रा त्वा॑ भ॒द्रा ने॑ष्ट॒ व्य॑१न्ये य॑न्तु मृ॒त्यवो॒ याना॒हुरित॑रान् छ॒तम्॥७॥  
+I give thee over to old age, make thee the subject of old age. Let kindly old age lead thee on. Let all the other deaths, whereof men count a hundred, pass away!

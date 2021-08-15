@@ -2,5 +2,4 @@
 title = "०१ आ त्वाहार्षमन्तरभूर्ध्रुवस्तिष्ठाविचाचलत्"
 
 +++
-आ त्वा॑हार्षम॒न्तर॑भूर्ध्रु॒वस्ति॒ष्ठावि॑चाचलत्।  
-विश॑स्त्वा॒ सर्वा॑ वाञ्छन्तु॒ मा त्वद् रा॒ष्ट्रमधि॑ भ्रशत्॥१॥  
+Here art thou: I have chosen thee. Stand stedfast and immov- able. Let all the clans desire thee: let not thy kingdom fall away.

@@ -2,5 +2,4 @@
 title = "५१ यं वातः"
 
 +++
-यं वातः॑ परि॒ शुम्भ॑ति॒ यं वेन्द्रो॒ ब्रह्म॑ण॒स्पतिः॑ ।  
-ब्रह्मे॑द्धाव॒ग्नी ई॑जाते॒ रोहि॑तस्य स्व॒र्विदः॑ ॥५१॥  
+That decked by Wind, and that prepared by Indra Brahman- aspati, Agnis of Rohita who found light, prayer-enkindled, sacrificed.

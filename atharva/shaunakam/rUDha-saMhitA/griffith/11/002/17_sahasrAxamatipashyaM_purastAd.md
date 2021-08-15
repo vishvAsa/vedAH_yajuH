@@ -2,5 +2,4 @@
 title = "१७ सहस्राक्षमतिपश्यं पुरस्ताद्"
 
 +++
-स॒ह॒स्रा॒क्षम॑तिप॒श्यं पु॒रस्ता॑द् रु॒द्रमस्य॑न्तं बहु॒धा वि॑प॒श्चित॑म्।  
-मोपा॑राम जि॒ह्वयेय॑मानम्॥१७॥  
+Let us not outrage with our tongue far-seeing Rudra, thousand- eyed, Inspired with varied lore, who shoots his arrows forward, far away.

@@ -2,5 +2,4 @@
 title = "०३ अदो यदवरोचते"
 
 +++
-अ॒दो यद॑व॒रोच॑ते॒ चतु॑ष्पक्षमिव च्छ॒दिः ।  
-तेना॑ ते॒ सर्वं॑ क्षेत्रि॒यमङ्गे॑भ्यो नाशयामसि ॥३॥  
+That which shines younder, like a roof resting on four walls, down on us,-- Therewith from out thy body we drive all the chronic malady,

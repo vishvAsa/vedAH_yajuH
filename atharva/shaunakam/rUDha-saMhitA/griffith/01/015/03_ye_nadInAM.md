@@ -2,5 +2,4 @@
 title = "०३ ये नदीनां"
 
 +++
-ये न॒दीनां॑ सं॒स्रव॒न्त्युत्सा॑सः॒ सद॒मक्षि॑ताः ।  
-तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥३॥  
+All river founts that blend their streams for ever inexhaustible-- With all these confluent streams of mine we make abundant riches flow.

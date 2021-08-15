@@ -2,5 +2,4 @@
 title = "०१ अयं दर्भो"
 
 +++
-अ॒यं द॒र्भो विम॑न्युकः॒ स्वाय॒ चार॑णाय च ।  
-म॒न्योर्विम॑न्युकस्या॒यं म॑न्यु॒शम॑न उच्यते ॥१॥  
+For stranger and for friend alike this Darbha-grass removeth wrath. Soother of Anger is it called because it calms the angry man.

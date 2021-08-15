@@ -2,5 +2,4 @@
 title = "०३ आगन् रात्री"
 
 +++
-आग॒न् रात्री॑ सं॒गम॑नी॒ वसू॑ना॒मूर्जं॑ पु॒ष्टं वस्वा॑वे॒शय॑न्ती ।  
-अ॒मा॒वा॒स्याऽयै ह॒विषा॑ विधे॒मोर्जं॒ दुहा॑ना॒ पय॑सा न॒ आग॑न्॥३॥  
+The Night hath come, the gatherer of treasures, bestowing strength, prosperity, and riches. To New Moon's Night let us present oblation: pouring out strength, with milk hath she come hither.

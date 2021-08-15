@@ -2,5 +2,4 @@
 title = "२७ स्योना भव"
 
 +++
-स्यो॒ना भ॑व॒ श्वशु॑रेभ्यः स्यो॒ना पत्ये॑ गृ॒हेभ्यः॑ ।  
-स्यो॒नास्यै सर्व॑स्यै वि॒शे स्यो॒ना पु॒ष्टायै॑षां भव ॥२७॥  
+Be pleasant to the husband's sire, sweet to thy household and thy lord, To all this clan be gentle, and favour these men's prosperity.

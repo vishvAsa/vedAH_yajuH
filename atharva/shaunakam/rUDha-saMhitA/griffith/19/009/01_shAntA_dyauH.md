@@ -2,5 +2,4 @@
 title = "०१ शान्ता द्यौः"
 
 +++
-शा॒न्ता द्यौः शा॒न्ता पृ॑थि॒वी शा॒न्तमि॒दमु॒र्व॑१न्तरि॑क्षम्।  
-शा॒न्ता उ॑द॒न्वती॒रापः॑ शा॒न्ता नः॑ स॒न्त्वोष॑धीः ॥१॥  
+Gentle be heaven, gentle be earth, gentle this spacious, atmosphere. Gentle be waters as they flow, gentle to us be plants and herbs!

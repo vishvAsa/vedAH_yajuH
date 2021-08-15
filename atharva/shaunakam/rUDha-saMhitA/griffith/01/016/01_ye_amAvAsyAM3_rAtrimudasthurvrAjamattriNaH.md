@@ -2,5 +2,4 @@
 title = "०१ येऽमावास्यां३ रात्रिमुदस्थुर्व्राजमत्त्रिणः"
 
 +++
-येऽमावा॒स्यां॒३ रात्रि॑मु॒दस्थु॑र्व्रा॒जम॒त्त्रिणः॑ ।  
-अ॒ग्निस्तु॒रीयो॑ यातु॒हा सो अ॒स्मभ्य॒मधि॑ ब्रवत्॥१॥  
+May potent Agni who destroys the demons bless and shelter us. From greedy fiends who rise in troops at night-time when the moon is dark.

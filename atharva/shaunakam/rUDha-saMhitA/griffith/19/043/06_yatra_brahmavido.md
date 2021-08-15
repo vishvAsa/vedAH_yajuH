@@ -2,5 +2,4 @@
 title = "०६ यत्र ब्रह्मविदो"
 
 +++
-यत्र॑ ब्रह्म॒विदो॑ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-इन्द्रो॑ मा॒ तत्र॑ नयतु॒ बल॒मिन्द्रो॑ दधातु मे । इन्द्रा॑य॒ स्वाहा॑ ॥६॥  
+Whither, etc. Thither let Indra lead me, let Indra bestow upon me power. All hail to Indra!

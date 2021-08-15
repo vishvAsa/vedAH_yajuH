@@ -2,5 +2,4 @@
 title = "०२ नवोनवो भवसि"
 
 +++
-नवो॑नवो भवसि॒ जाय॑मा॒नोऽह्नां॑ के॒तुरु॒षसा॑मे॒ष्यग्र॑म्।  
-भा॒गं दे॒वेभ्यो॒ वि द॑धास्या॒यन् प्र च॑न्द्रमस्तिरसे दी॒र्घमायुः॑ ॥२॥  
+Thou art re-born for ever new: thou marchest, ensign of days, in forefront of the mornings. Marching thou dealest to the Gods their portion. Thou lengthe- nest, Moon! the days of man's existence.

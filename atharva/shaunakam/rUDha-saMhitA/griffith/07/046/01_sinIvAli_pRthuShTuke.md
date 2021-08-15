@@ -2,5 +2,4 @@
 title = "०१ सिनीवालि पृथुष्टुके"
 
 +++
-सिनी॑वालि॒ पृथु॑ष्टुके॒ या दे॒वाना॒मसि॒ स्वसा॑ ।  
-जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि दिदिड्ढि नः ॥१॥  
+O broad-tressed Sinivali, thou who art the sister of the Gods, Accept the offered sacrifice, and, Goddess, grant us progeny.

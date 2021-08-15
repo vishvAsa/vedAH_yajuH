@@ -2,5 +2,4 @@
 title = "०१ रात्री माता"
 
 +++
-रात्री॑ मा॒ता नभः॑ पि॒तार्य॒मा ते॑ पिताम॒हः ।  
-सि॒ला॒ची नाम॒ वा अ॑सि॒ सा दे॒वाना॑मसि॒ स्वसा॑ ॥१॥  
+Aryaman is thy grandsire, Night thy mother, and the Cloud thy sire. Thy name is called Silachi. Thou, thyself, art sister of the Gods.

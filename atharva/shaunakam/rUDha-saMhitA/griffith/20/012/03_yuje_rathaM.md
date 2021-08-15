@@ -2,5 +2,4 @@
 title = "०३ युजे रथं"
 
 +++
-यु॒जे रथं॑ ग॒वेष॑णं॒ हरि॑भ्या॒मुप॒ ब्रह्मा॑णि जुजुषा॒णम॑स्थुः ।  
-वि बा॑धिष्ट स्य रोद॑सी महि॒त्वेन्द्रो॑ वृ॒त्राण्य॑प्र॒ती ज॑घ॒न्वान्॥३॥  
+The Bays, the booty-seeking car I harness: my prayers have reached him who accepts them gladly. Indra, when he had slain resistless Vritras, forced with his might the two world-halves asunder.

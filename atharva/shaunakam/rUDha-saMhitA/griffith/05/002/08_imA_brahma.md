@@ -2,5 +2,4 @@
 title = "०८ इमा ब्रह्म"
 
 +++
-इ॒मा ब्रह्म॑ बृ॒हद्दि॑वः कृणव॒दिन्द्रा॑य शू॒षम॑ग्रि॒यः स्व॒र्षाः ।  
-म॒हो गो॒त्रस्य॑ क्षयति स्व॒राजा॒ तुर॑श्चि॒द् विश्व॑मर्णव॒त् तप॑स्वान्॥८॥  
+Brihaddiva, the foremost of light-winners, hath made these holy prayers, this strength for Indra. Free Lord, he rules the mighty fold of cattle, winning, aglow, even all the billowy waters.

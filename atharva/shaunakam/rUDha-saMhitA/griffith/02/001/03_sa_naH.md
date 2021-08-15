@@ -2,5 +2,4 @@
 title = "०३ स नः"
 
 +++
-स नः॑ पि॒ता ज॑नि॒ता स उ॒त बन्धु॒र्धामा॑नि वेद॒ भुव॑नानि॒ विश्वा॑ ।  
-यो दे॒वानां॑ नाम॒ध एक॑ ए॒व तं सं॑प्र॒श्नं भुव॑ना यन्ति॒ सर्वा॑ ॥३॥  
+He is our kinsman, father, and begetter: he knows all beings and all Ordinances. He only gave the Gods their appellations: all creatures go to him to ask direction.

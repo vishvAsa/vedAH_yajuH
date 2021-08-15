@@ -2,5 +2,4 @@
 title = "०३ पुण्यं पूर्वा"
 
 +++
-पुण्यं॒ पूर्वा॒ फल्गु॑न्यौ॒ चात्र॒ हस्त॑श्चि॒त्रा शि॒वा स्वा॒ति सु॒खो मे॑ अस्तु ।  
-राधे॑ वि॒शाखे॑ सु॒हवा॑नुरा॒धा ज्येष्ठा॑ सु॒नक्ष॑त्र॒मरि॑ष्ट॒ मूल॑म्॥३॥  
+My bliss be Svati and benignant Chitra, my right First Phalgunis and present Hasta. Radhas, Visakhas, gracious Anuradha, Jyeshtha and happy- starred uninjured Mula.

@@ -2,5 +2,4 @@
 title = "०४ न त्वदन्यः"
 
 +++
-न त्वद॒न्यः क॒वित॑रो॒ न मे॒धया॒ धीर॑तरो वरुण स्वधावन्।  
-त्वं ता विश्वा॒ भुव॑नानि वेत्थ॒ स चि॒न्नु त्वज्जनो॑ मा॒यी बि॑भाय ॥४॥  
+None, self-dependent Varuna! existeth wiser than thou or sager by his wisdom. Thou knowest well all these created beings: even the man of wondrous powers fears thee.

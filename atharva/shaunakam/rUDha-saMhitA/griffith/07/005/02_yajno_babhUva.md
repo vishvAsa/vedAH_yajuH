@@ -2,5 +2,4 @@
 title = "०२ यज्ञो बभूव"
 
 +++
-य॒ज्ञो ब॑भूव॒ स आ ब॑भूव॒ स प्र ज॑ज्ञे॒ स उ॑ वावृधे॒ पुनः॑ ।  
-स दे॒वाना॒मधि॑पतिर्बभूव॒ सो अ॒स्मासु॒ द्रवि॑ण॒मा द॑धातु ॥२॥  
+Sacrifice was, was manifest among us: it sprang to life and then in time grew stronger. Then it became thedeities' lord and ruler: may it bestow on us abundant riches.

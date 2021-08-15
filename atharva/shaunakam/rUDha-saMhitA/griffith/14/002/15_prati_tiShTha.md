@@ -2,5 +2,4 @@
 title = "१५ प्रति तिष्ठ"
 
 +++
-प्रति॑ तिष्ठ वि॒राड॑सि॒ विष्णु॑रिवे॒ह स॑रस्वति ।  
-सिनी॑वालि॒ प्र जा॑यतां॒ भग॑स्य सुम॒ताव॑सत्॥१५॥  
+Take thou thy stand, a Queen art thou, like Vishnu here, Sarasvati! O Sinivali, let her bear children, and live in Bhaga's grace.

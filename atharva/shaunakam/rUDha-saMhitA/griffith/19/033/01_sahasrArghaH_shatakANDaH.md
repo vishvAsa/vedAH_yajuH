@@ -2,5 +2,4 @@
 title = "०१ सहस्रार्घः शतकाण्डः"
 
 +++
-स॒ह॒स्रा॒र्घः श॒तका॑ण्डः॒ पय॑स्वान॒पाम॒ग्निर्वी॒रुधां॑ राज॒सूय॑म्।  
-स नो॒ऽयं द॒र्भः परि॑ पातु वि॒श्वतो॑ दे॒वो म॒णिरायु॑षा॒ सं सृ॑जाति नः ॥१॥  
+Hundred stemmed, succulent, and worth a thousand, the Royal Rite of plants, the Water's Agni, Let this same Darbha guard us from all quarters. This Godlike Amulet shall with life endow us.

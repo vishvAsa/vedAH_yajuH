@@ -2,4 +2,4 @@
 title = "०४ तम्वभि प्र"
 
 +++
-तम्व॒भि प्र गा॑यत पुरुहू॒तं पु॑रुष्टु॒तम् । इन्द्रं॑ गी॒र्भिस्त॑वि॒षमा वि॑वासत ॥४॥  
+Sing forth to him whom many men invoke, to him whom many laud: Invite the potent Indra with your songs of praise;

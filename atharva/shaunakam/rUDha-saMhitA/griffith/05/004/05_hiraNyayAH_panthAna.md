@@ -2,5 +2,4 @@
 title = "०५ हिरण्ययाः पन्थान"
 
 +++
-हि॒र॒ण्ययाः॒ पन्था॑न आस॒न्नरि॑त्राणि हिर॒ण्यया॑ ।  
-नावो॑ हिर॒ण्ययी॑रास॒न् याभिः॒ कुष्ठं॑ नि॒राव॑हन्॥५॥  
+They sailed on pathways paved with gold, the oars they piled were wrought of gold: All golden were the ships wherein they carried Kushtha down to earth.

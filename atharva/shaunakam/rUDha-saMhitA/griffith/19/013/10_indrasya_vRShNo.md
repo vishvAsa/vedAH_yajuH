@@ -2,5 +2,4 @@
 title = "१० इन्द्रस्य वृष्णो"
 
 +++
-इन्द्र॑स्य॒ वृष्णो॒ वरु॑णस्य॒ राज्ञ॑ आदि॒त्यानां॑ म॒रुतां॒ शर्ध॑ उ॒ग्रम्।  
-म॒हाम॑नसां भुवनच्य॒वानां॒ घोषो॑ दे॒वानां॒ जय॑ता॒मुद॑स्थात्॥१०॥  
+Ours be the potent host of mighty Indra, King Varuna, and Maruts and Adityas. Uplifted is the shout of Gods who conquer, high-minded God who cause the world to tremble.

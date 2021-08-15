@@ -2,5 +2,4 @@
 title = "०१ तं वो"
 
 +++
-तं वो॑ द॒स्ममृ॑ती॒षहं॒ वसो॑र्मन्दा॒नमन्ध॑सः ।  
-अ॒भि व॒त्सं न स्वस॑रेषु धे॒नव॒ इन्द्रं॑ गी॒र्भिर्न॑वामहे ॥१॥  
+As cows low to their calves in stalls, so with our songs we glorify This Indra, even your wondrous God who checks attack, who joys in the delicious juice.

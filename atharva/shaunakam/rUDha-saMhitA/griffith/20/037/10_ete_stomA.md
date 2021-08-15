@@ -2,5 +2,4 @@
 title = "१० एते स्तोमा"
 
 +++
-ए॒ते स्तोमा॑ न॒रां नृ॑तम॒ तुभ्य॑मस्म॒द्र्यऽञ्चो॒ दद॑तो म॒घानि॑ ।  
-तेषा॑मिन्द्र वृत्र॒हत्ये॑ शि॒वो भूः॒ सखा॑ च॒ शूरो॑ऽवि॒ता च॑ नृ॒णाम्॥१०॥  
+Thine are these Lauds, O manliest of heroes, Lauds which revert to us and give us riches. Favour these, Indra, when they strike the foemen, as Friend and Hero and the heroes' helper.

@@ -2,5 +2,4 @@
 title = "२५ आदित्य नावमारुक्षः"
 
 +++
-आदि॑त्य॒ नाव॒मारु॑क्षः श॒तारि॑त्रां स्व॒स्तये॑ ।  
-अह॒र्मात्य॑पीपरो॒ रात्रिं॑ स॒त्राति॑ पारय ॥२५॥  
+Thou for our weal, Aditya, hast mounted thy ship with hundred oars. Thou hast transported me to day: so bear me evermore to night.

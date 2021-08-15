@@ -2,4 +2,4 @@
 title = "०१ त्वमग्ने व्रतपा"
 
 +++
-त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा। त्वं य॒ज्ञेष्वीड्यः॑ ॥१॥  
+God among mortals, Agni, thou art guard of holy Law, thou art To be adored in sacred rites.

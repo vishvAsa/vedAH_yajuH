@@ -2,4 +2,4 @@
 title = "०२ स प्रजापतिः"
 
 +++
-स प्र॒जाप॑तिः सु॒वर्ण॑मा॒त्मन्न॑पश्य॒त् तत् प्राज॑नयत्॥२॥  
+Prajapati beheld gold in himself and engendered it.

@@ -2,5 +2,4 @@
 title = "०४ सहस्रधामन् विशिखान्"
 
 +++
-सह॑स्रधाम॒न् विशि॑खा॒न् विग्री॑वां छायया॒ त्वम्।  
-प्रति॑ स्म च॒क्रुषे॑ कृ॒त्यां प्रि॒यां प्रि॒याव॑ते हर ॥४॥  
+Endowed with thousand powers! adjure the bald and those with necks awry. Back to its author turn the spell like a dear damsel to her friend!

@@ -2,5 +2,4 @@
 title = "०१ या बभ्रवो"
 
 +++
-या ब॒भ्रवो॒ याश्च॑ शु॒क्रा रोहि॑णीरु॒त पृश्न॑यः ।  
-असि॑क्नीः कृ॒ष्णा ओष॑धीः॒ सर्वा॑ अ॒च्छाव॑दामसि ॥१॥  
+The tawny-coloured, and the pale, the variegated and the red, The dusky-tinted, and the black,--all Plants we summon hither- ward.

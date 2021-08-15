@@ -2,5 +2,4 @@
 title = "०६ अयं मे"
 
 +++
-अ॒यं मे॒ हस्तो॒ भग॑वान॒यं मे॒ भग॑वत्तरः ।  
-अ॒यं मे॑ वि॒श्वभे॑षजो॒ऽयं शि॒वाभि॑मर्शनः ॥६॥  
+Felicitous is this my hand, yet more felicitous is this. This hand contains all healing balms, and this makes whole with gentle touch.

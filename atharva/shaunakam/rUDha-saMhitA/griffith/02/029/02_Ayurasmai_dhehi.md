@@ -2,5 +2,4 @@
 title = "०२ आयुरस्मै धेहि"
 
 +++
-आयु॑र॒स्मै धे॑हि जातवेदः प्रजां त्व॑ष्टरधि॒निधे॑ह्य॒स्मै।  
-रा॒यस्पोषं॑ सवित॒रा सु॑वा॒स्मै श॒तं जी॑वाति श॒रद॒स्तवा॒यम्॥२॥  
+Bestow thou life on him, O Jatavedas. Store him with future progeny, O Tvashtar. Send him, O Savitar, full growth of riches. Let this thy servant live a hundred autumns.

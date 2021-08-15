@@ -2,6 +2,4 @@
 title = "१६ खडूरेऽधिचङ्क्रमां खर्विकां"
 
 +++
-ख॒डूरे॑ऽधिचङ्क्र॒मां खर्वि॑कां खर्ववा॒सिनी॑म्।  
-य उ॑दा॒रा अ॒न्तर्हि॑ता गन्धर्वाप्स॒रस॑श्च॒ ये ।  
-स॒र्पा इ॑तरज॒ना रक्षां॑सि ॥१६॥  
+The fiend who creeps upon the sword, maimed, dwelling where Lthe wounded lie, The misty shapes that lurk concealed, Gandharvas and Apsara- ses, demons, and snakes and Other Folk;

@@ -2,5 +2,4 @@
 title = "०१ वाञ्छ मे"
 
 +++
-वाञ्छ॑ मे त॒न्वं॑१ पादौ॒ वाञ्छा॒क्ष्यौ॒३वाञ्छ॑ स॒क्थ्यौऽ।  
-अ॒क्ष्यौऽ वृष॒ण्यन्त्याः॒ केशा॒ मां ते॑ कामे॑न शुष्यन्तु ॥१॥  
+Desire my body, love my feet, love thou mine eyes, and love my legs. Let both thine eyes and hair, fond girl! be dried and parched. through love of me.

@@ -2,5 +2,4 @@
 title = "०५ आ ते"
 
 +++
-आ ते॑ रा॒ष्ट्रमि॒ह रोहि॑तोऽहार्षी॒द् व्याऽस्थ॒न्मृधो॒ अभ॑यं ते अभूत्।  
-तस्मै॑ ते॒ द्यावा॑पृथि॒वी रे॒वती॑भिः॒ कामं॑ दुहातामि॒ह शक्व॑रीभिः ॥५॥  
+For thee hath Rohita obtained dominion, scattered thine ene- mies, become thy safeguard. So by the potent Sakvaris let Heaven and Earth be milked to- yield thee all thy wishes.

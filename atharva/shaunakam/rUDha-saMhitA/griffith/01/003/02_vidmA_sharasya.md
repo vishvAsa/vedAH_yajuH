@@ -2,5 +2,4 @@
 title = "०२ विद्मा शरस्य"
 
 +++
-वि॒द्मा श॒रस्य॑ पि॒तरं॑ मि॒त्रं श॒तवृ॑ष्ण्यम् ।  
-ते॑ना ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥२॥  
+We know the father of the shaft, Mitra, the Lord of hundred powers: By this, etc.

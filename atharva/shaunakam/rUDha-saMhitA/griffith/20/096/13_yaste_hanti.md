@@ -2,5 +2,4 @@
 title = "१३ यस्ते हन्ति"
 
 +++
-यस्ते॒ हन्ति॑ प॒तय॑न्तं निष॒त्स्नुं यः स॑रीसृ॒पम्।  
-जा॒तं यस्ते॒ जिघां॑सति॒ तमि॒तो ना॑शयामसि ॥१३॥  
+That which destroys the sinking germ, the settled, moving embryo, That which would kill the babe at birth, even this will we drive far away.

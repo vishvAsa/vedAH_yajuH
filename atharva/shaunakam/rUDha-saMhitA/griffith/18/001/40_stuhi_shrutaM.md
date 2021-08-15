@@ -2,5 +2,4 @@
 title = "४० स्तुहि श्रुतं"
 
 +++
-स्तु॒हि श्रु॒तं ग॑र्त॒सदं॒ जना॑नां॒ राजा॑नं भी॒ममु॑पह॒त्नुमु॒ग्रम्।
-मृ॒डा ज॑रि॒त्रे रु॑द्र॒ स्तवा॑नो अ॒न्यम॒स्मत् ते नि व॑पन्तु॒ सेन्य॑म्॥४०॥
+Sing praise to him the chariot-borne, the famous, Sovran of men, the dread and strong destroyer. O Rudra, praised be gracious to the singer; let thy darts spare us and smite down another.

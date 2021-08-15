@@ -2,5 +2,4 @@
 title = "४२ स य"
 
 +++
-स य ए॒वं वि॒द्वान् मधू॑प॒सिच्यो॑प॒हर॑ति ।५।  
-याव॑त् सत्त्र॒सद्ये॑ने॒ष्ट्वा सुस॑मृद्धेनावरु॒न्धे ताव॑देने॒नाव॑ रुन्धे ।६। ४२॥  
+He who pours out mead and offers it wins for himself thereby as much as he gains by the performance of a very successful Sattrasadya sacrifice.

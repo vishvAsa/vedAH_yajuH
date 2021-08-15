@@ -2,5 +2,4 @@
 title = "१७ सप्तार्धगर्भा भुवनस्य"
 
 +++
-स॒प्तार्ध॑ग॒र्भा भुव॑नस्य॒ रेतो॒ विष्णो॑स्तिष्ठन्ति प्र॒दिशा॒ विध॑र्मणि ।  
-ते धी॒तिभि॒र्मन॑सा॒ ते वि॑प॒श्चितः॑ परि॒भुवः॑ परि॑ भवन्ति वि॒श्वतः॑ ॥१७॥  
+Seven germs unripened yet are Heaven's prolific seed: their functions they maintain by Vishnu's ordinance. Endued with wisdom through intelligence and thought, present on every side they compass us about.

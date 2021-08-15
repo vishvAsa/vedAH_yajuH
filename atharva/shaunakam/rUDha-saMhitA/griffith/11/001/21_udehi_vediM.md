@@ -2,5 +2,4 @@
 title = "२१ उदेहि वेदिं"
 
 +++
-उ॒देहि॒ वेदिं॑ प्र॒जया॑ वर्धयैनां नु॒दस्व॒ रक्षः॑ प्रत॒रं धे॑ह्येनाम्।  
-श्रि॒या स॑मा॒नानति॒ सर्वा॑न्त्स्यामाधस्प॒दं द्वि॑ष॒तस्पा॑दयामि ॥२१॥॥  
+Rise to the altar: bless this dame with offspring. Promote this woman; drive away the demons. May we surpass in glory all our rivals. I cast beneath my feet the men who hate us.

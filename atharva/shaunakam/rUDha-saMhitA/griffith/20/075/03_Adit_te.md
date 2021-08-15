@@ -2,6 +2,4 @@
 title = "०३ आदित् ते"
 
 +++
-आदित् ते॑ अ॒स्य वी॒र्यऽस्य चर्किर॒न् मदे॑षु वृषन्नु॒शिजो॒ यदावि॑थ सखीय॒तो यदावि॑थ ।  
-च॒कर्थ॑ का॒रमे॑भ्यः॒ पृत॑नासु॒ प्रव॑न्तवे ।  
-ते अ॒न्याम॑न्यां न॒द्यं सनिष्णत श्रव॒स्यन्तः॑ सनिष्णत ॥३॥
+And they have bruited far this hero might, when thou, O Strong One, in thy joy helpest thy suppliants who sought to win thee for their Friend. Their battle-cry thou madest sound victorious in the shocks of war. One stream after another have they gained from thee, eager for glory have they gained.

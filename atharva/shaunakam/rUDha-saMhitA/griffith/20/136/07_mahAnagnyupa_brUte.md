@@ -2,5 +2,4 @@
 title = "०७ महानग्न्युप ब्रूते"
 
 +++
-म॒हा॒न॒ग्न्युप॑ ब्रूते भ्र॒ष्टोथाप्य॑भूभुवः ।  
-यथै॒व ते॑ वनस्पते॒ पिप्प॑ति॒ तथै॑वति ॥७॥  
+Arnica eum alloquitur: Tum etiam tu defecisti. Ut tua. Arbor! (verbera) Pinsunt, sic etiam nunc (me permole).

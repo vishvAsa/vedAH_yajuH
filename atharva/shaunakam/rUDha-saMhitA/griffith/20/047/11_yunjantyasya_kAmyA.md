@@ -2,4 +2,4 @@
 title = "११ युञ्जन्त्यस्य काम्या"
 
 +++
-यु॒ञ्जन्त्य॑स्य॒ काम्या॒ हरी॒ विप॑क्षसा॒ रथे॑ । शोणा॑ धृ॒ष्णू नृ॒वाह॑सा ॥११॥  
+They yoke on both sides to the car the two bay coursers dear to him, Bold, tawny, bearers of the Chief.

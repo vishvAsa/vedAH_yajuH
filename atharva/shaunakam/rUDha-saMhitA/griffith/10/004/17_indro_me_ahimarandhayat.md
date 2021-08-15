@@ -2,4 +2,4 @@
 title = "१७ इन्द्रो मेऽहिमरन्धयत्"
 
 +++
-इन्द्रो॒ मेऽहि॑मरन्धय॒त् पृदा॑कुं च पृदा॒क्वम्। स्व॒जं तिर॑श्चिराजिं कस॒र्णीलं॒ दशो॑नसिम्॥१७॥  
+Indra hath given him up to me, the female viper and the male, The adder, him with stripes athwart. Kasarnila, Dasonasi.

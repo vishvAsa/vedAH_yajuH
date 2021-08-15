@@ -2,4 +2,4 @@
 title = "५५ क्षुरपविर्मृत्युर्भूत्वा वि"
 
 +++
-क्षु॒रप॑विर्मृ॒त्युर्भू॒त्वा वि धा॑व॒ त्वम्॥५५॥  
+Go thou, becoming Mrityu sharp as razor's edge pursue thy course:

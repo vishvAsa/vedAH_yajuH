@@ -2,5 +2,4 @@
 title = "०४ देवास्ते चीतिमविदन्"
 
 +++
-दे॒वास्ते॑ ची॒तिम॑विदन् ब्र॒ह्माण॑ उ॒त वी॒रुधः॑ ।  
-ची॒तिं ते॒ विश्वे॑ दे॒वा अवि॑द॒न् भूम्या॒मधि॑ ॥४॥  
+The Gods, the Brahman-priests, and plants observed the way to gather thee: All deities described the way men gather thee upon the earth.

@@ -2,5 +2,4 @@
 title = "०२ जिह्वाया अग्रे"
 
 +++
-जि॒ह्वाया॒ अग्रे॒ मधु॑ मे जिह्वामू॒ले म॒धूल॑कम्।  
-ममेदह॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥२॥  
+My tongue hath honey at the tip, and sweetest honey at the root: Thou yieldest to my wish and will, and shalt be mine and only mine.

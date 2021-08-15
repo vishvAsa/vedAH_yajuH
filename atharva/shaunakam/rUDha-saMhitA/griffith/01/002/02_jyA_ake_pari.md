@@ -2,5 +2,4 @@
 title = "०२ ज्याऽके परि"
 
 +++
-ज्याऽके॒ परि॑ णो न॒माश्मा॑नं त॒न्वं कृधि ।  
-वी॒डुर्वरी॒योऽरा॑ती॒रप॒ द्वेषां॒स्याऽकृ॑धि ॥२॥  
+Do thou, O Bowstring, bend thyself around us: make my body stone. Firm in thy strength drive far away malignities and hateful things.

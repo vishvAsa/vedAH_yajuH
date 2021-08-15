@@ -2,5 +2,4 @@
 title = "०८ आ ते"
 
 +++
-आ ते॑ नयतु सवि॒ता न॑यतु॒ पति॒र्यः प्र॑तिका॒म्यः ।  
-त्वम॑स्यै धेह्योषधे ॥८॥
+May Savitar lead and bring to thee the husband whom thy heart desires. O Plant, be this thy gift to her!

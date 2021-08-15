@@ -2,5 +2,4 @@
 title = "०९ कतरत् त"
 
 +++
-क॒त॒रत् त॒ आ ह॑राणि॒ दधि॒ मन्थां॑ परि॒ श्रुत॑म्।  
-जा॒याः पतिं॒ वि पृ॑च्छति रा॒ष्ट्रे राज्ञः॑ परि॒क्षितः॑ ॥९॥  
+'Which shall I set before thee, curds, gruel of milk, or barley- brew?' Thus the wife asks her husband in the realm which King Parikshit rules.

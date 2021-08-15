@@ -2,5 +2,4 @@
 title = "११ यदा केशानस्थि"
 
 +++
-य॒दा केशा॒नस्थि॒ स्नाव॑ मां॒सं म॒ज्जान॒माभ॑रत्।  
-शरी॑रं कृ॒त्वा पाद॑व॒त् कं लो॒कमनु॒ प्रावि॑शत्॥११॥  
+When he had brought together hair, sinew and bone, marrow and flesh. And to the body added feet, then to what world did he depart?

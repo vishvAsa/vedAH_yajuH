@@ -2,4 +2,4 @@
 title = "०३ इन्द्र प्र"
 
 +++
-इन्द्र॒ प्र णो॑ धि॒तावा॑नं य॒ज्ञं विश्वे॑भिर्दे॒वेभिः॑। ति॒र स्त॑वान विश्पते ॥३॥  
+Indra, with all the Gods promote our wealth-bestowing sacrifice, Thou highly-lauded Lord of men.

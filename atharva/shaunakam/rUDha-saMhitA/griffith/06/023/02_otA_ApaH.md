@@ -2,5 +2,4 @@
 title = "०२ ओता आपः"
 
 +++
-ओता॒ आपः॑ कर्म॒ण्याऽमु॒ञ्चन्त्वि॒तः प्रणी॑तये ।  
-स॒द्यः कृ॑ण्व॒न्त्वेत॑वे ॥२॥  
+Let the deft Waters, summoned, give permission that we bear them off, And quickly set us on our way.

@@ -2,5 +2,4 @@
 title = "०३ सरूपा नाम"
 
 +++
-सरू॑पा॒ नाम॑ ते मा॒ता सरू॑पो॒ नाम॑ ते पि॒ता।  
-स॒रू॒प॒कृत् त्वमो॑षधे॒ सा सरू॑पमि॒दं कृ॑धि ॥३॥  
+One-coloured, is thy mother's name, One-coloured is thy father called: One-colour-maker, Plant! art thou: give thou one colour to this man.

@@ -2,6 +2,4 @@
 title = "०५ तासु त्वान्तर्जरस्या"
 
 +++
-तासु॑ त्वा॒न्तर्ज॒रस्या द॑धामि॒ प्र यक्ष्म॑ एतु॒ निरृ॑तिः परा॒चैः ।  
-ए॒वाहं त्वां क्षे॑त्रि॒यान्निरृ॑त्या जामिशं॒साद् द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
-अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥५॥  
+For long life, in the midst of these I set thee. Away pass Nirriti, away Consumption! From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.

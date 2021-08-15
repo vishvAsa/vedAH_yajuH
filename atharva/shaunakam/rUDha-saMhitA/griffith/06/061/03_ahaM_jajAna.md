@@ -2,5 +2,4 @@
 title = "०३ अहं जजान"
 
 +++
-अ॒हं ज॑जान पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सिन्धू॑न्।  
-अ॒हं स॒त्वमनृ॑तं॒ यद् वदा॑मि यो अ॑ग्नीषो॒मावजु॑षे॒ सखा॑या ॥३॥
+I gave existence to the earth and heaven, I made the seasons and the seven rivers. My word is truth; what I deny is falsehood, I who rejoice in Agni's, Soma's friendship.

@@ -2,5 +2,4 @@
 title = "५९ शन्तिवा सुरभिः"
 
 +++
-श॒न्ति॒वा सु॑र॒भिः स्यो॒ना की॒लालो॑ध्नी॒ पय॑स्वती ।  
-भूमि॒रधि॑ ब्रवीतु मे पृथि॒वी पय॑सा स॒ह॥५९॥  
+Mild, gracious, sweetly odorous, milky, with nectar in her breast, May Earth, may Prithivi bestow her benison, with milk, on me.

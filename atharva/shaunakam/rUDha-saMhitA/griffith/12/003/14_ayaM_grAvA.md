@@ -2,5 +2,4 @@
 title = "१४ अयं ग्रावा"
 
 +++
-अ॒यं ग्रावा॑ पृ॒थुबु॑ध्नो वयो॒धाः पू॒तः प॒वित्रै॒रप॑ हन्तु॒ रक्षः॑ ।  
-आ रो॑ह॒ चर्म॒ महि॒ शर्म॑ यच्छ॒ मा दंप॑ती॒ पौत्र॑म॒घं नि गा॑ताम्॥१४॥  
+This pressing-stone, broad-based and strength-bestowing, made pure by cleansing means, shall chase the demon. Mount on the skin: afford us great protection, Let not the sons' sin fall on wife and husband.

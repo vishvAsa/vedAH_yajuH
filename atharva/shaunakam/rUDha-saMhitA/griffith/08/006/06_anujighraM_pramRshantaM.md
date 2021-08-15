@@ -2,5 +2,4 @@
 title = "०६ अनुजिघ्रं प्रमृशन्तं"
 
 +++
-अ॒नु॒जि॒घ्रं प्र॑मृ॒शन्तं॑ क्र॒व्याद॑मु॒त रे॑रि॒हम्।  
-अ॒रायां॑छ्वकि॒ष्किणो॑ ब॒जः पि॒ङ्गो अ॑नीनशत्॥६॥  
+Sniffer, and Feeler, him who eats raw flesh, and him who licks his lips, Arayas with the tails of dogs, the yellow Baja hath destroyed.

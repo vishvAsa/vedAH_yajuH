@@ -2,4 +2,4 @@
 title = "०६ नास्य पशून्"
 
 +++
-नास्य॑ प॒शून् न स॑मा॒नान् हि॑नस्ति॒ य ए॒वं वेद॑॥६॥  
+They made Mahadeva his deliverer from the intermediate space of the region of the zenith, etc.

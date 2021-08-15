@@ -2,5 +2,4 @@
 title = "०२ ये बृहत्सामानमाङ्गिरसमार्पयन्"
 
 +++
-ये बृ॒हत्सा॑मानमाङ्गिर॒समार्प॑यन् ब्राह्म॒णं जनाः॑ ।  
-पेत्व॒स्तेषा॑मुभ॒याद॒मवि॑स्तो॒कान्या॑वयत्॥२॥  
+When men pierced Brihatsaman through, the Brahman, son of Angiras, The ram with teeth in both his jaws, the sheep, devoured their progeny.

@@ -2,5 +2,4 @@
 title = "२१ मा नो"
 
 +++
-मा नो॒ गोषु॒ पुरु॑षेषु॒ मा गृ॑धो नो अजा॒विषु॑ ।  
-अ॒न्यत्रो॑ग्र॒ वि व॑र्तय॒ पिया॑रूणां प्र॒जां ज॑हि ॥२१॥  
+Covet not thou our kine or men, covet not thou our goats or sheep. Elsewhither, strong One! turn thine aim: destroy the mockers' family.

@@ -2,5 +2,4 @@
 title = "०३ गर्भो अस्योषधीनां"
 
 +++
-गर्भो॑ अ॒स्योष॑धीनां॒ गर्भो॑ हि॒मव॑तामु॒त।  
-गर्भो॒ विश्व॑स्य भू॒तस्ये॒मं मे॑ अग॒दं कृ॑धि ॥३॥
+Thou art the infant of the plants, the infant of the Snowy Hills: The germ of every thing that is: free this my friend from his disease.

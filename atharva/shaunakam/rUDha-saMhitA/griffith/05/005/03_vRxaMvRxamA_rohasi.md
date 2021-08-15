@@ -2,5 +2,4 @@
 title = "०३ वृक्षंवृक्षमा रोहसि"
 
 +++
-वृ॒क्षंवृ॑क्ष॒मा रो॑हसि वृष॒ण्यन्ती॑व क॒न्यला॑ ।  
-जय॑न्ती प्रत्या॒तिष्ठ॑न्ती॒ स्पर॑णी॒ नाम॒ वा अ॑सि ॥३॥  
+Thou clingest close to every tree, as a fond damsel clasps her love. Thy name is called The Conqueror, She who Stands Fast, The Rescuer.

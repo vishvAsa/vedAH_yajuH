@@ -2,4 +2,4 @@
 title = "३० सोदक्रामत् सा"
 
 +++
-सोद॑क्राम॒त् सा म॑नु॒ष्या॒३नाग॑च्छ॒त् तां म॑नु॒ष्याऽ अघ्नत॒ सा स॒द्यः सम॑भवत्॥७॥  
+One would ward off, for him who hath this knowledge, if with a bottle-gourd he sprinkled water.

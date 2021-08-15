@@ -2,5 +2,4 @@
 title = "२५ सर्वो वै"
 
 +++
-सर्वो॒ वै तत्र॑ जीवति॒ गौरश्वः॒ पुरु॑षः प॒शुः ।  
-यत्रे॒दं ब्रह्म॑ क्रि॒यते॑ परि॒धिर्जीव॑नाय॒ कम्॥२५॥  
+Here verily all creatures live, the cow, the horse, the man, the beast, Here where this holy prayer is used, a rampart that protecteth life. Let it preserve thee from thy peers, from incantation, from thy friends.

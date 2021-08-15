@@ -2,5 +2,4 @@
 title = "०४ मन्त्रमखर्वं सुधितं"
 
 +++
-मन्त्र॒मख॑र्वं॒ सुधि॑तं सु॒पेश॑सं॒ दधा॑त य॒ज्ञिये॒ष्वा।  
-पू॒र्वीश्च॒न प्रसि॑तयस्तरन्ति तं य इन्द्रे॒ कर्म॑णा॒ भुव॑त्॥४॥
+Make for the holy Gods a hymn that is not mean, but well arranged and fair in form. Full many snares and bonds subdue not him who dwells with Indra through his sacrifice.

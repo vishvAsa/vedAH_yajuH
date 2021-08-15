@@ -2,5 +2,4 @@
 title = "५५ स यज्ञः"
 
 +++
-स य॒ज्ञः प्र॑थ॒मो भू॒तो भव्यो॑ अजायत ।  
-तस्मा॑द्ध जज्ञ इ॒दं सर्वं॒ यत् किं चे॒दं वि॒रोच॑ते॒ रोहि॑तेन॒ ऋषि॒णाभृ॑तम्॥५५॥  
+This sacrifice, the first of all, the past, the present, had its birth. From that arose this universe, yea, all this world of brightness, brought by Rohita the heavenly Sage.

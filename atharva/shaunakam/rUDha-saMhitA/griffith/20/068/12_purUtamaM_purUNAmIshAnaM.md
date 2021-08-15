@@ -2,4 +2,4 @@
 title = "१२ पुरूतमं पुरूणामीशानं"
 
 +++
-पु॒रू॒तमं॑ पुरू॒णामीशा॑नं॒ वार्या॑णाम्। इन्द्रं॒ सोमे॒ सचा॑ सु॒ते॥१२॥
+To him the richest of the rich, the Lord of treasures excellent, Indra, with Soma juice outpoured.

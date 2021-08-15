@@ -2,5 +2,4 @@
 title = "२१ अस्मिन्निन्द्रो नि"
 
 +++
-अ॒स्मिन्निन्द्रो॒ नि द॑धातु नृ॒म्णमि॒मं दे॑वासो अभि॒संवि॑शध्वम्।  
-दी॒र्घा॒यु॒त्वाय॑ श॒तशा॑रदा॒यायु॑ष्मान् ज॒रद॑ष्टि॒र्यथास॑त्॥२१॥  
+In this let Indra lay a store of valour: approach ye Gods, and enter it together, For his long life, to last a hundred autumns, that to full age his days may be extended.

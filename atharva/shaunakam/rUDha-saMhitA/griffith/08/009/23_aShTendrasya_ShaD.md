@@ -2,5 +2,4 @@
 title = "२३ अष्टेन्द्रस्य षड्"
 
 +++
-अ॒ष्टेन्द्र॑स्य॒ षड् य॒मस्य॒ ऋषी॑णां स॒प्त स॑प्त॒धा।  
-अ॒पो म॑नु॒ष्या॒३नोष॑धी॒स्ताँ उ॒ पञ्चानु॑ सेचिरे ॥२३॥  
+To Indra eight, to Yama six, seven to the Rishis, seven to each: The number five accompanies waters and men and healing herbs.

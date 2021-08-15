@@ -2,5 +2,4 @@
 title = "०२ श्येनो नृचक्षा"
 
 +++
-श्ये॒नो नृ॒चक्षा॑ दि॒व्यः सु॑प॒र्णः स॒हस्र॑पाच्छ॒तयो॑निर्वयो॒धाः ।  
-स नो॒ नि य॑च्छाद् वसु॒ यत् परा॑भृतम॒स्माक॑मस्तु पि॒तृषु॑ स्व॒धाव॑त्॥२॥
+The heavenly Falcon, viewing men, well-pinioned, strength-giver, hundred-footed, hundred-nested, Shall give us treasure which was taken from us. May it be rich in food among our Fathers.

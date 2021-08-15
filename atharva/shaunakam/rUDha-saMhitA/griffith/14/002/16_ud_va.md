@@ -2,5 +2,4 @@
 title = "१६ उद् व"
 
 +++
-उद् व॑ ऊ॒र्मिः शम्या॑ ह॒न्त्वापो॒ योक्त्रा॑णि मुञ्चत ।  
-मादु॑ष्कृतौ॒ व्येनसाव॒घ्न्यावशु॑न॒मार॑ताम्॥१६॥  
+So let your wave bear up the pins, and ye, O Waters, spare the thongs; And never may the holy pair, sinless and innocent, suffer harm.

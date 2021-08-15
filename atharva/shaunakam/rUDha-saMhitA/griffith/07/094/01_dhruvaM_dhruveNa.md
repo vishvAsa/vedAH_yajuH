@@ -2,5 +2,4 @@
 title = "०१ ध्रुवं ध्रुवेण"
 
 +++
-ध्रु॒वं ध्रु॒वेण॑ ह॒विषाव॒ सोमं॑ नयामसि ।  
-यथा॑ न॒ इन्द्रः॒ केव॑ली॒र्विशः॒ संम॑नस॒स्कर॑त्॥१॥
+We laid the constant Soma on with constant sacrificial gift, That Indra may make all the tribes unanimous and only ours.

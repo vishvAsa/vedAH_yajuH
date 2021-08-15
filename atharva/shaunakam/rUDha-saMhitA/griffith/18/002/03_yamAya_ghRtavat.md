@@ -2,5 +2,4 @@
 title = "०३ यमाय घृतवत्"
 
 +++
-य॒माय॑ घृ॒तव॒त् पयो॒ राज्ञे॑ ह॒विर्जु॑होतन ।  
-स नो॑ जी॒वेष्वा य॑मेद् दी॒र्घमायुः॒ प्र जी॒वसे॑ ॥३॥  
+Offer to Yama, to the King, butter and milk in sacrifice. So may he grant that we may live long days of life mid living men,

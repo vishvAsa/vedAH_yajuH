@@ -2,5 +2,4 @@
 title = "०७ अश्वावतीर्गोमतीर्न उषासो"
 
 +++
-अश्वा॑वती॒र्गोम॑तीर्न उ॒षा॑सो॑ वी॒रव॑तीः॒ सद॑मुछन्तु भ॒द्राः ।  
-घृ॒तं दुहा॑ना वि॒श्वतः॒ प्रपी॑ता यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥७॥
+May the kind Mornings dawn on us for ever with, wealth of kine, of horses, and of heroes. Streaming with all abundance, pouring fatness, Do ye preserve us evermore with blessings!

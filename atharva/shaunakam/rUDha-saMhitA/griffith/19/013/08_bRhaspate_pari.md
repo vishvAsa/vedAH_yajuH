@@ -2,5 +2,4 @@
 title = "०८ बृहस्पते परि"
 
 +++
-बृह॑स्पते॒ परि॑ दीया॒ रथे॑न रक्षो॒हामित्राँ॑ अप॒बाध॑मानः ।  
-प्र॒भ॒ञ्जंछत्रू॑न् प्रमृ॒णन्न॒मित्रा॑न॒स्माक॑मेध्यवि॒ता त॒नूना॑म्॥८॥  
+Brihaspati, fly with thy chariot hither, slayer of demons, driving. off our foemen. Be thou protector of our bodies, crushing our enemies, destroy- ing those who hate us.

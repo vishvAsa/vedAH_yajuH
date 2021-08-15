@@ -2,5 +2,4 @@
 title = "२६ यदग्न एषा"
 
 +++
-यद॑ग्न ए॒षा समि॑ति॒र्भवा॑ति दे॒वी दे॒वेषु॑ यज॒ता य॑जत्र ।
-रत्ना॑ च॒ यद् वि॒भजा॑सि स्वधावो भा॒गं नो॒ अत्र॒ वसु॑मन्तं वीतात्॥२६॥
+When, holy Agni, the divine assembly, the holy synod mid the Gods, is gathered, And when thou, godlike One, dealest forth treasures vouchsafe us too our portion of the riches.

@@ -2,5 +2,4 @@
 title = "०१ नेच्छत्रुः प्राशं"
 
 +++
-नेच्छत्रुः॒ प्राशं॑ जयाति॒ सह॑मानाभि॒भूर॑सि ।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑न्वोषधे ॥१॥  
+Let not the enemy win the cause! Strong and predominant art thou. Refute mine adversary's speech. Render them dull and flat, O Plant.

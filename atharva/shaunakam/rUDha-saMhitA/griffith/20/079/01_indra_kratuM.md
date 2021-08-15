@@ -2,5 +2,4 @@
 title = "०१ इन्द्र क्रतुं"
 
 +++
-इन्द्र॒ क्रतुं॑ न॒ आ भ॑र पि॒ता पु॒त्रेभ्यो॒ यथा॑ ।  
-शिक्षा॑ णो अ॒स्मिन् पु॑रुहूत॒ याम॑नि जी॒वा ज्योति॑रशीमहि ॥१॥  
+O Indra, give us wisdom as a sire gives wisdom to his sons. Guide us, O Much-invoked, on this our foray: may we, living, still enjoy the light.

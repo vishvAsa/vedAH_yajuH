@@ -2,5 +2,4 @@
 title = "०५ यो भरद्वाजमवथो"
 
 +++
-यो भ॒रद्वा॑जमव॑थो॒ यौ ग॒विष्ठि॑रं वि॒श्वामि॑त्रं वरुण मित्र॒ कुत्स॑म्।  
-यौ क॒क्षीव॑न्त॒मव॑थः प्रोत कण्वं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥५॥  
+Ye, Varuna, Mitra, who give aid to Kutsa, Gavishthira, Bharadvaja, Visvamitra, Who help Kakshivan and give aid to Kanva, deliver us, ye twain, from grief and trouble.

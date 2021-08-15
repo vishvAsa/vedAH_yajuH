@@ -2,5 +2,4 @@
 title = "१४ उप नो"
 
 +++
-उप॑ नो न रमसि॒ सूक्ते॑न॒ वच॑सा व॒यं भ॒द्रेण॒ वच॑सा व॒यम्।  
-वना॑दधिध्व॒नो गि॒रो न रि॑ष्येम क॒दा च॒न॥१४॥
+Oft and again we glorify the hero with our hymn of praise, with prayer, with our auspicious prayer. Take pleasure in the songs we sing: let evil never fall on us.

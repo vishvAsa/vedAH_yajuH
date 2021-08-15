@@ -2,5 +2,4 @@
 title = "११ अयमग्निरुपसद्य इह"
 
 +++
-अ॒यम॒ग्निरु॑प॒सद्य॑ इ॒ह सूर्य॒ उदे॑तु ते ।  
-उ॒देहि॑ मृ॒त्योर्ग॑म्भी॒रात् कृ॒ष्णाच्चि॒त् तम॑स॒स्परि॑ ॥११॥  
+This Agni must be waited on. Here let the Sun mount up for thee. Rise from deep death and come away, yea, from black darkness rise thou up!

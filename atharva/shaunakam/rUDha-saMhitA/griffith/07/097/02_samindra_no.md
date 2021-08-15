@@ -2,5 +2,4 @@
 title = "०२ समिन्द्र नो"
 
 +++
-समि॑न्द्र नो॒ मन॑सा नेष॒ गोभिः॒ सं सू॒रिभि॑र्हरिव॒न्त्सं स्व॒स्त्या।  
-सं ब्रह्म॑णा दे॒वहि॑तं॒ यदस्ति॒ सं दे॒वानां॑ सुम॒तौ य॒ज्ञिया॑नाम्॥२॥  
+With kine connect us, and with spirit, Indra! Lord of Bay Steeds, with princes and with favour, With the God-destined portion of the Brahmans, and the good-will of Gods who merit worship.

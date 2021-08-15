@@ -2,5 +2,4 @@
 title = "१५ यः पौरुषेयेण"
 
 +++
-यः पौरु॑षेयेण क्र॒विषा॑ सम॒ङ्क्ते यो अश्व्ये॑न प॒शुना॑ यातु॒धानः॑ ।  
-यो अ॒घ्न्याया॒ भर॑ति क्षी॒रम॑ग्ने॒ तेषां॑ शी॒र्षाणि॒ हर॒सापि॑ वृश्च ॥१५॥  
+The fiend who smears himself with flesh of cattle, with flesh of horses and of human bodies, Who steals the milch-cow's milk away, O Agni,--tear off the heads of such with fiery fury.

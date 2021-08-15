@@ -2,4 +2,4 @@
 title = "०५ श्येनः क्रोडो३ऽन्तरिक्षं"
 
 +++
-श्ये॒नः क्रो॒डो॒३ऽन्तरि॑क्षं पाज॒स्यं॑१ बृह॒स्पतिः॑ क॒कुद् बृ॑ह॒तीः कीक॑साः ॥५॥  
+The Syena ceremony is the breast, Air is the region of the belly,. Brihaspati is the hump, Brihati the breast-bone and cartilages of the ribs.

@@ -2,4 +2,4 @@
 title = "०१ महां इन्द्रः"
 
 +++
-म॒हां इन्द्रः॑ प॒रश्च॒ नु म॑हि॒त्वम॑स्तु व॒ज्रिणे । द्यौर्न प्र॑थि॒ना शवः॑ ॥१॥  
+Mighty is Indra, yea, supreme; greatness becomes the Thunderer! Wide as the heaven extends his power;

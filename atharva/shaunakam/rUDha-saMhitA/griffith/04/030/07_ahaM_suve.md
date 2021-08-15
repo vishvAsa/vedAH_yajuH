@@ -2,5 +2,4 @@
 title = "०७ अहं सुवे"
 
 +++
-अ॒हं सु॑वे पि॒तर॑मस्य मू॒र्धन् मम॒ योनि॑र॒प्स्व॑१न्तः स॑मु॒द्रे।  
-ततो॒ वि ति॑ष्ठे॒ भुव॑नानि॒ विश्वो॒तामूं द्यां व॒र्ष्मणोप॑ स्पृशामि ॥७॥  
+On the world's summit I bring forth the Father: my home is in the waters, in the ocean. Thence I extend o'er all existing creatures, and touch even yonder heaven with my forehead.

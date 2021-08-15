@@ -2,5 +2,4 @@
 title = "०४ को ददर्श"
 
 +++
-को द॑दर्श प्रथ॒मं जाय॑मानमस्थ॒न्वन्तं॒ यद॑न॒स्था बिभ॑र्ति ।  
-भूम्या॒ असु॒रसृ॑गा॒त्मा क्वऽस्वित् को वि॒द्वांस॒मुप॑ गा॒त् प्रष्टु॑मे॒तत्॥४॥  
+Who hath beheld at birth the Primal Being, when She who hath no bone supports the bony? Where is the blood of earth, the life, the spirit? Who may ap- proach the man who knows, to ask it?

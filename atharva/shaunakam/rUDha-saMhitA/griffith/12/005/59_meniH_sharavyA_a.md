@@ -2,4 +2,4 @@
 title = "५९ मेनिः शरव्याऽ"
 
 +++
-मे॒निः श॑र॒व्याऽ भवा॒घाद॒घवि॑षा भव ॥५९॥  
+Become a bolt, an arrow through his sin, be terribly venomous.

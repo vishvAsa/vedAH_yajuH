@@ -2,5 +2,4 @@
 title = "०६ यो अस्याः"
 
 +++
-यो अ॑स्याः॒ कर्णा॑वास्कु॒नोत्या स दे॒वेषु॑ वृश्चते ।  
-लक्ष्म॑ कुर्व॒ इति॒ मन्य॑ते॒ कनी॑यः कृणुते॒ स्वम्॥६॥  
+Whoever twitches up her ears is separated from the Gods. He deems he makes a mark, but he diminishes his wealth thereby.

@@ -2,4 +2,4 @@
 title = "०८ त्वष्टा युनक्तु"
 
 +++
-त्वष्टा॑ युनक्तु बहु॒धा नु रू॒पा अ॒स्मिन् य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥८॥  
+Let Tvashtar in this rite in varied manner--All hail!--use forms, his well-yoked coursers.

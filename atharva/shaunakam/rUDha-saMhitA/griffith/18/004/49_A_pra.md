@@ -2,5 +2,4 @@
 title = "४९ आ प्र"
 
 +++
-आ प्र च्य॑वेथा॒मप॒ तन्मृ॑जेथां॒ यद् वा॑मभि॒भा अत्रो॒चुः ।  
-अ॒स्मादेत॑म॒घ्न्यौ तद् वशी॑यो दा॒तुः पि॒तृष्वि॒हभो॑जनौ॒ मम॑ ॥४९॥  
+Depart ye two: wipe ye away whatever omens of evil fortune here have told you. Go from this man, both Steers, to him who wills it: ye are my joys here by the giver's Fathers.

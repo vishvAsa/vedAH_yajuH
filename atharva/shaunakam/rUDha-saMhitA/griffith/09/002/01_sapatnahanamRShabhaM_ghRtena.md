@@ -2,5 +2,4 @@
 title = "०१ सपत्नहनमृषभं घृतेन"
 
 +++
-स॒प॒त्न॒हन॑मृष॒भं घृ॒तेन॒ कामं॑ शिक्षामि ह॒विषाज्ये॑न ।  
-नी॒चैः स॒पत्ना॒न् मम॑ पादय॒ त्वम॒भिष्टु॑तो मह॒ता वी॒र्येऽण ॥१॥  
+Kama the Bull, slayer of foes, I worship with molten butter, sacrifice, oblation. Beneath my feet cast down mine adversaries with thy great manly power, when I have praised thee.

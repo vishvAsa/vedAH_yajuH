@@ -2,5 +2,4 @@
 title = "०४ दमूना देवः"
 
 +++
-दमू॑ना दे॒वः स॑वि॒ता वरे॑ण्यो॒ दध॒द् रत्नं॒ दक्षं पि॒तृभ्य॒ आयूं॑षि ।  
-पिबा॒त् सोमं॑ म॒मद॑देनमि॒ष्टे परि॑ज्मा चित् क्रमते अस्य॒ धर्म॑णि ॥४॥
+Savitar, God, our household friend, most precious, hath sent our fathers life and power and riches. Let him drink Soma and rejoice when worshipped. Under his law even the Wanderer travels.

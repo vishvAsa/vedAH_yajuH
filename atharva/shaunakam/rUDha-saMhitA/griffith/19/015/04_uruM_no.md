@@ -2,5 +2,4 @@
 title = "०४ उरुं नो"
 
 +++
-उ॒रुं नो॑ लो॒कमनु॑ नेषि वि॒द्वान्त्स्व॑१र्यज्ज्योति॒रभ॑यं स्व॒स्ति।  
-उ॒ग्रा त॑ इन्द्र॒ स्थवि॑रस्य बा॒हू उप॑ क्षयेम शर॒णा बृ॒हन्ता॑ ॥४॥  
+Lead us to ample room. O thou who knowest, to happiness security, and sunlight. Strong, Indra, are the arms of thee the mighty: may we betake us to their lofty shelter.

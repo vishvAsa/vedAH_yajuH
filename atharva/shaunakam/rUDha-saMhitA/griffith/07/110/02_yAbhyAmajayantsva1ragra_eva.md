@@ -2,5 +2,4 @@
 title = "०२ याभ्यामजयन्त्स्व१रग्र एव"
 
 +++
-याभ्या॒मज॑य॒न्त्स्व॑१रग्र॑ ए॒व यावा॑त॒स्थतु॒र्भुव॑नानि॒ विश्वा॑ ।  
-प्रच॑र्षणी॒ वृष॑णा॒ वज्र॑बाहू अ॒ग्निमिन्द्रं॑ वृत्र॒हणा॑ हुवे॒ऽहम्॥२॥  
+Agni I call, and Indra, foe-destroyers, swift moving, heroes, Gods who wield the thunder, Through whom they won the light in the beginning, these who have made all worlds their habitation.

@@ -2,5 +2,4 @@
 title = "४६ जीवं रुदन्ति"
 
 +++
-जी॒वं रु॑दन्ति॒ वि न॑यन्त्यध्व॒रं दी॒र्घामनु॒ प्रसि॑तिं दीध्यु॒र्नरः॑ ।  
-वा॒मं पि॒तृभ्यो॒ य इ॒दं स॑मीरि॒रे मयः॒ पति॑भ्यो ज॒नये॑ परि॒ष्वजे॑ ॥४६॥  
+They mourn the living, they arrange the sacred rite: the men have set their thoughts upon a distant cast: They who have brought the Fathers this delightful gift, when wives allowed their lords the joy of their embrace.

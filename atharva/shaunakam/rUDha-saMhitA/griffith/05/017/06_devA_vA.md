@@ -2,5 +2,4 @@
 title = "०६ देवा वा"
 
 +++
-दे॒वा वा ए॒तस्या॑मवदन्त॒ पूर्वे॑ सप्तऋ॒षय॒स्तप॑सा॒ ये नि॑षे॒दुः ।  
-भी॒मा जा॒या ब्रा॑ह्म॒णस्याप॑नीता दु॒र्धां द॑धाति पर॒मेव्योऽमन्॥६॥  
+Thus spake of her those Gods of old, Seven Rishis, who sate them down to their austere devotion: Dire is a Brahman's wife led home by others: in the supremest heaven she plants confusion.

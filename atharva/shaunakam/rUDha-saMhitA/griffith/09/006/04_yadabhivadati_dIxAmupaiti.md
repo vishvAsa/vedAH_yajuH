@@ -2,4 +2,4 @@
 title = "०४ यदभिवदति दीक्षामुपैति"
 
 +++
-यद॑भि॒वद॑ति दी॒क्षामुपै॑ति॒ यदु॑द॒कं याच॑त्य॒पः प्र ण॑यति ॥४॥  
+When he salutes them reverently he undergoes preparation for a religious ceremony: when he calls for water, he solemnly brings sacrificial water.

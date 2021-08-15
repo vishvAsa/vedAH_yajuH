@@ -2,4 +2,4 @@
 title = "८३ नमो वः"
 
 +++
-नमो॑ वः पितरो॒ यद् घोरं तस्मै॒ नमो॑ वः पितरो॒ यत् क्रू॒रं तस्मै॑ ॥८३॥  
+Hail, Fathers, to what is awful! Hail to what is terrible in you!'

@@ -2,4 +2,4 @@
 title = "०१ तद् यस्यैवं"
 
 +++
-तद् यस्यै॒वं वि॒द्वान् व्रात्य॒ उद्धृ॑तेष्व॒ग्निष्वधि॑श्रितेऽग्निहो॒त्रेऽति॑थिर्गृ॒हाना॒गच्छे॑त्॥१॥  
+The man, to whose house, when the fires have been taken up from the hearth and the oblation to Agni placed therein, the Vratya possessing this knowledge comes as a guest.

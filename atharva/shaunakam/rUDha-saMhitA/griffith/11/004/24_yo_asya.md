@@ -2,5 +2,4 @@
 title = "२४ यो अस्य"
 
 +++
-यो अ॒स्य स॒र्वज॑न्मन॒ ईशे॒ सर्व॑स्य॒ चेष्ट॑तः ।  
-अत॑न्द्रो॒ ब्रह्म॑णा॒ धीरः॑ प्रा॒णो मानु॑ तिष्ठातु ॥२४॥  
+May he who rules this Universe of varied sort, that stirs and works, Prana, alert and resolute, assist me through the prayer I pray.

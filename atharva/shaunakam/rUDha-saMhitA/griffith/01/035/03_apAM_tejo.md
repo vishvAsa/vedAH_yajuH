@@ -2,5 +2,4 @@
 title = "०३ अपां तेजो"
 
 +++
-अ॒पां तेजो॒ ज्योति॒रोजो॒ बलं॑ च॒ वन॒स्पती॑नामु॒त वी॒र्याऽणि ।  
-इन्द्र॑ इवेन्द्रि॒याण्यधि॑ धारयामो अ॒स्मिन् तद् दक्ष॑माणो बिभर॒द्धिर॑ण्यम्॥३॥  
+The light, the power, the lustre of the Waters, the strength of Trees, and all their forceful vigour, We lay on him as powers abide in Indra: so let him wear this Gold and show his valour.

@@ -2,5 +2,4 @@
 title = "६४ यद् वो"
 
 +++
-यद् वो अ॒ग्निरज॑हा॒देक॒मङ्गं॑ पितृलो॒कं ग॒मयं॑ जा॒तवे॑दाः ।  
-तद् व॑ ए॒तत् पुन॒रा प्या॑ययामि सा॒ङ्गाः स्व॒र्गे पि॒तरो॑ मादयध्वम्॥६४॥  
+If Agni Jatavedas, as he bore you hence to the Fathers' world, hath left one single. Limb of your bodies, here do I restore it. Fathers, rejoice in heaven with all your members!

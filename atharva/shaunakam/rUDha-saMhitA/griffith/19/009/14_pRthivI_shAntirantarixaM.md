@@ -2,5 +2,4 @@
 title = "१४ पृथिवी शान्तिरन्तरिक्षं"
 
 +++
-पृ॒थि॒वी शान्ति॑र॒न्तरि॑क्षं॒ शान्ति॒र्द्यौः शान्ति॒रापः॒ शान्ति॒रोष॑धयः॒ शान्ति॒र्वन॒स्पत॑यः॒ शान्ति॒र्विश्वे॑ मे दे॒वाः शान्तिः॒ सर्वे॑ मे दे॒वाः शान्तिः॒ शान्तिः॒ शान्तिः॒ शान्ति॑भिः ।  
-ताभिः॒ शान्ति॑भिः॒ सर्व॒ शान्ति॑भिः॒ शम॑यामो॒ऽहं यदि॒ह घो॒रं यदि॒ह क्रू॒रं यदि॒ह पा॒पं तच्छा॒न्तं तच्छि॒वं सर्व॑मे॒व शम॑स्तु नः ॥१४॥
+Earth alleviation, air alleviation, heaven alleviation, waters alleviation, plants alleviation, trees alleviation, all Gods my al- leviation, collective Gods my alleviation, alleviation by allevia- tions. By these alleviations, these universal alleviations, I allay all that is terrific here, all that is cruel, all that is wicked. This hath been calmed, this is now auspicious. Let all be favourable to us.

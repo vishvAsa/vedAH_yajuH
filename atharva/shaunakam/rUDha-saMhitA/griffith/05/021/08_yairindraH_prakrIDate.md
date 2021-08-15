@@ -2,5 +2,4 @@
 title = "०८ यैरिन्द्रः प्रक्रीडते"
 
 +++
-यैरिन्द्रः॑ प्र॒क्रीड॑ते पद्घो॒षैश्छा॒यया॑ स॒ह।  
-तैर॒मित्रा॑स्त्रसन्तु नो॒ऽमी ये यन्त्य॑नीक॒शः ॥८॥  
+Let those our enemies who go yonder in their battalions shake. In fear at shadows and the sounds of feet which Indra sporteth with.

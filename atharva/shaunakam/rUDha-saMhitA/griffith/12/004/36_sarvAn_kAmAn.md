@@ -2,5 +2,4 @@
 title = "३६ सर्वान् कामान्"
 
 +++
-सर्वा॒न् कामा॑न् यम॒राज्ये॑ व॒शा प्र॑द॒दुषे॑ दुहे ।  
-अथा॑हु॒र्नार॑कं लो॒कं नि॑रुन्धा॒नस्य॑ याचि॒ताम्॥३६॥  
+In Yama's realm the Cow fulfils each wish for him who gave her up; But hell, they say, is for the man who, when they beg, bestow her not.

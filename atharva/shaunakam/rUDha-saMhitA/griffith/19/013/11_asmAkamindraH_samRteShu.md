@@ -2,5 +2,4 @@
 title = "११ अस्माकमिन्द्रः समृतेषु"
 
 +++
-अ॒स्माक॒मिन्द्रः॒ समृ॑तेषु ध्व॒जेष्व॒स्माक॒ या इष॑व॒स्ता ज॑यन्तु ।  
-अ॒स्माकं॑ वी॒रा उत्त॑रे भवन्त्व॒स्मान् दे॑वासोऽवता॒ हवे॑षु ॥११॥
+May Indra aid us when our flags are gathered: victorious be th arrows of our army. May our brave men of war prevail in battle. Ye Gods, protect u in the shouts of onset.

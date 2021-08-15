@@ -2,4 +2,4 @@
 title = "४२ द्यावापृथिवीभ्यां श्रोत्राभ्याम्"
 
 +++
-द्यावा॑पृथि॒वीभ्यां॒ श्रोत्रा॑भ्याम् ॥४॥  
+And thence, etc. . . . with other belly . . . colic will destroy thee . . . With truth as belly. 

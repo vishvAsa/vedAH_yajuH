@@ -2,5 +2,4 @@
 title = "०१ सहस्रबाहुः पुरुषः"
 
 +++
-स॒हस्र॑बाहुः॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात्।  
-स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्य॑तिष्ठद् दशाङ्गु॒लम्॥१॥  
+Purusha hath a thousand arms, a thousand eyes, a thousand feet. On every side pervading earth he fills a space ten fingers wide.

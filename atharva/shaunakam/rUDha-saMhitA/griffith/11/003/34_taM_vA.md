@@ -2,4 +2,4 @@
 title = "३४ तं वा"
 
 +++
-तं वा अ॒हं नार्वाञ्चं॑ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म् ॥३॥  
+And thence he said to him. Thou hast eaten this with other eyes . . . thou wilt be blind. With Sun and Moon, etc. 

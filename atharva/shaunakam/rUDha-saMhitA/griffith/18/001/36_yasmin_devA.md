@@ -2,5 +2,4 @@
 title = "३६ यस्मिन् देवा"
 
 +++
-यस्मि॑न् दे॒वा मन्म॑नि सं॒चर॑न्त्यपी॒च्ये॒३ न व॒यम॑स्य विद्म ।
-मि॒त्रो नो॒ अत्रादि॑ति॒रना॑गान्त्सवि॒ता दे॒वो वरु॑णाय वोचत्॥३६॥
+The counsel which the Gods meet to consider, their secret plan, of that we have no knowledge. There let God Savitar, Aditi, and Mitra proclaim to Varuna that we are sinless.

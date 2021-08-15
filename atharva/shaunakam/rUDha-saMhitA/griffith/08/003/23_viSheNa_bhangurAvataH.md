@@ -2,5 +2,4 @@
 title = "२३ विषेण भङ्गुरावतः"
 
 +++
-वि॒षेण॑ भङ्गु॒राव॑तः॒ प्रति॑ स्म र॒क्षसो॑ जहि ।  
-अग्ने॑ ति॒ग्मेन॑ शो॒चिषा॒ तपु॑रग्राभिर॒र्चिभिः॑ ॥२३॥  
+With deadly poison strike thou back the treacherous brood of Rakshasas, O Agni, with thy sharpened glow, with rays that flash with points of flame.

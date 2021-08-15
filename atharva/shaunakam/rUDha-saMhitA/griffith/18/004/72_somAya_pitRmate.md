@@ -2,4 +2,4 @@
 title = "७२ सोमाय पितृमते"
 
 +++
-सोमा॑य पि॒तृम॑ते स्व॒धा नमः॑ ॥७२॥  
+To Soma connected with the Fathers Hail! and homage!

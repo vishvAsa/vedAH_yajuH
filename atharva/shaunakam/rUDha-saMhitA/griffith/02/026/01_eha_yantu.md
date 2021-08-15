@@ -2,5 +2,4 @@
 title = "०१ एह यन्तु"
 
 +++
-एह य॑न्तु प॒शवो॒ ये प॑रे॒युर्वा॒युर्येषां॑ सहचा॒रं जु॒जोष॑ ।  
-त्वष्टा॒ येषां॑ रूप॒धेया॑नि वेदा॒स्मिन् तान् गो॒ष्ठे स॑वि॒ता नि य॑छतु ॥१॥  
+Let them come home, the cattle that have wandered, whom Vayu hath delighted to attend on, Whose forms and figures are well known to Tvashtar. These cows let Savitar drive within this stable.

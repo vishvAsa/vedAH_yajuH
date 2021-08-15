@@ -2,5 +2,4 @@
 title = "६१ यज्जामयो यद्"
 
 +++
-यज्जा॒मयो॒ यद् यु॑व॒तयो॑ गृ॒हे ते॑ स॒मन॑र्तिषू॒ रोदे॑न कृण्व॒तीर॒घम्।  
-अ॒ग्निष्ट्वा॒ तस्मा॒देन॑सः सवि॒ता च प्र मु॑ञ्चताम्॥६१॥  
+If the bride's sisters, if young maids have danced together in thy house, committing sin with shout and cry. May Agni free thee from that guilt, may Savitar deliver thee.

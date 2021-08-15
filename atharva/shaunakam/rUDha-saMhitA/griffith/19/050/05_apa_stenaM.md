@@ -2,5 +2,4 @@
 title = "०५ अप स्तेनं"
 
 +++
-अप॑ स्ते॒नं वासो॑ गोअ॒जमु॒त तस्क॑रम्।  
-अथो॒ यो अर्व॑तः॒ शिरो॑ऽभि॒धाय॒ निनी॑षति ॥५॥  
+The thief hast thou kept far away, the robber driver of our kine. Even him who having covered up the horse's head would lead him off.

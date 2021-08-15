@@ -2,5 +2,4 @@
 title = "१० य ईं"
 
 +++
-य ईं॑ च॒कार॒ न सो अ॒स्य वे॑द॒ य ईं॑ द॒दर्श॒ हिरु॒गिन्नु तस्मा॑त्।  
-स मा॒तुर्योना॒ परि॑वीतो अ॒न्तर्ब॑हुप्र॒जा निरृ॑ति॒रा वि॑वेश ॥१०॥  
+He who hath made him doth not comprehend him: from him who saw him surely he is hidden. He, yet enveloped in his mother's bosom, source of much life, hath sunk into destruction.

@@ -2,5 +2,4 @@
 title = "०२ नास्य केशान्"
 
 +++
-नास्य॒ केशा॒न् प्र वप॑न्ति॒ नोर॑सि॒ ताड॒मा घ्न॑ते ।  
-यस्मा॑ अछिन्नप॒र्णेन॑ द॒र्भेण॒ शर्म॑ यच्छति ॥२॥  
+They cut not off his hair, they strike blow upon the breast for' him. To whom one gives protection by Darbha that hath uninjured leaves.

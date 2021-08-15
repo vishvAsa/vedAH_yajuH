@@ -2,4 +2,4 @@
 title = "१० ऐनमिन्द्रियं गच्छतीन्द्रियवान्"
 
 +++
-ऐन॑मिन्द्रि॒यं ग॑च्छतीन्द्रि॒यवा॑न् भवति ॥१०॥  
+Great power comes to him and he becomes endowed with great power.

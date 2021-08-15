@@ -2,5 +2,4 @@
 title = "०५ को अस्य"
 
 +++
-को अ॑स्य बा॒हू सम॑भरद् वी॒र्यं करवा॒दिति॑ ।  
-अंसौ॒ को अ॑स्य॒ तद् दे॒वः कुसि॑न्धे॒ अध्या द॑धौ ॥५॥  
+Who put together both his arms and said, Let him show manly strength? Who and what God was he who set the shoulderblades upon the trunk?

@@ -2,5 +2,4 @@
 title = "३२ यं देवाः"
 
 +++
-यं दे॒वाः पि॒तरो॑ मनु॒ष्याऽ उप॒जीव॑न्ति सर्व॒दा।  
-स मा॒यमधि॑ रोहतु म॒णिः श्रैष्ठ्या॑य मूर्ध॒तः ॥३२॥  
+The Charm to which men, Fathers, Gods look ever for their maintenance, May this be fastened on me here, to crown me with surpassing power

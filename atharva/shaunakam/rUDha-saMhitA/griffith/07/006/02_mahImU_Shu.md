@@ -2,5 +2,7 @@
 title = "०२ महीमू षु"
 
 +++
-म॒हीमू॒ षु मा॒तरं॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हवामहे ।  
-तु॒वि॒क्ष॒त्राम॒जर॑न्तीमुरू॒चीं सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम्॥२॥  
+id
+7.6.2    We call for help the Queen of Law and Order, g...
+7.6.2    We call for help the Queen of Law and Order, g...
+Name: Comment, dtype: object

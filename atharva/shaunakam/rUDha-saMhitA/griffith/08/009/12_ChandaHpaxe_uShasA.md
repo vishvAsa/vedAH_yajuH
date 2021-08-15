@@ -2,5 +2,4 @@
 title = "१२ छन्दःपक्षे उषसा"
 
 +++
-छन्दः॑पक्षे उ॒षसा॒ पेपि॑शाने समा॒नं योनि॒मनु॒ सं च॑रेमे ।  
-सूर्य॑पत्नी॒ सं च॑रतः प्रजान॒ती के॑तु॒मती॑ अ॒जरे॒ भूरि॑रेतसा ॥१२॥  
+Both Dawns on wings of song, with rich adornment, move on together to their common dwelling. Surya's two wives, unwasting, most prolific, knowing their way, move, rich in light, together.

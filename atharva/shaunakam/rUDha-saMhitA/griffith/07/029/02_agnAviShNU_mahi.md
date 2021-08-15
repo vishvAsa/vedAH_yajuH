@@ -2,5 +2,4 @@
 title = "०२ अग्नाविष्णू महि"
 
 +++
-अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यं॑ वां॑ वी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णौ।  
-दमे॑दमे सुष्टु॒त्या वा॑वृधा॒नौ प्रति॑ वां जि॒ह्वा घृ॒तमुच्च॑रण्यात्॥२॥
+Ye love the great law, Agni Vishnu! joying, ye feast on mystic essences of butter, Exalted in each house with fair laudation. Let your tongue stretch to take the offered fatness.

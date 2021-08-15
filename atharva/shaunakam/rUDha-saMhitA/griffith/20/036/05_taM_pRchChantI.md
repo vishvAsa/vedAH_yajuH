@@ -2,5 +2,4 @@
 title = "०५ तं पृच्छन्ती"
 
 +++
-तं पृ॒च्छन्ती॒ वज्र॑हस्तं रथे॒ष्ठामिन्द्रं॒ वेपी॒ वक्व॑री॒ यस्य॒ नू गीः ।  
-तु॒वि॒ग्रा॒भं तु॑विकू॒र्मिं र॑भो॒दां गा॒तुमि॑षे॒ नक्ष॑ते॒ तुम्र॒मच्छ॑ ॥५॥  
+He who for car-borne, thunder-wielding Indra, hath a hymn, craving deeply-piercing, fluent, Who sends a song effectual, firmly-grasping, and strength- bestowing, he comes near the mighty.

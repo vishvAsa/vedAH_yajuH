@@ -2,5 +2,4 @@
 title = "१२ यां मृतायानुबध्नन्ति"
 
 +++
-यां मृ॒ताया॑नुब॒ध्नन्ति॑ कू॒द्यंऽ पद॒योप॑नीम्।  
-तद् वै ब्र॑ह्मज्य ते दे॒वा उ॑प॒स्तर॑णमब्रुवन्॥१२॥  
+Oppressor of the Brahmans! thus the Gods have spoken and declared, The step-effacing wisp they bind upon the dead shall be thy couch.

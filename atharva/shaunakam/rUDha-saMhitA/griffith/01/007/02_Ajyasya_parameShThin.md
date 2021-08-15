@@ -2,5 +2,4 @@
 title = "०२ आज्यस्य परमेष्ठिन्"
 
 +++
-आज्य॑स्य परमेष्ठिन् जात॑वेद॒स्तनू॑वशिन्।  
-अग्ने॑ तौ॒लस्य॒ प्राशा॑न यातु॒धाना॒न् वि ला॑पय ॥२॥  
+O Jatavedas, Lord Supreme, controller of our bodies, taste The butter, Agni, taste the oil: make thou the Yatudhanas mourn.

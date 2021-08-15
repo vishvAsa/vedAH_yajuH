@@ -2,4 +2,4 @@
 title = "१७ एन्द्र सानसिं"
 
 +++
-एन्द्र॑ सान॒सिं र॒यिं स॒जित्वा॑नं सदा॒सह॑म्। वर्षि॑ष्ठमू॒तये॑ भर ॥१७॥  
+Indra, bring wealth that gives delight, the victor's ever-conquer- ing wealth, Most excellent, to be our aid;

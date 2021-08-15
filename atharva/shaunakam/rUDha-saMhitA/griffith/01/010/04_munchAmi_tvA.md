@@ -2,5 +2,4 @@
 title = "०४ मुञ्चामि त्वा"
 
 +++
-मु॒ञ्चामि॑ त्वा वैश्वान॒राद॑र्ण॒वान्म॑ह॒तस्परि॑ ।  
-स॒जा॒तानु॑ग्रे॒हा व॑द॒ ब्रह्म॒ चाप॑ चिकीहि नः ॥४॥
+I free thee from Vaisvanara, from the great surging flood of sin. Call thou thy brothers, Awful One! and pay attention to our prayer.

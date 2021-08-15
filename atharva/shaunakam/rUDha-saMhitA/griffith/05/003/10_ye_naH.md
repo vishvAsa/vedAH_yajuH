@@ -2,5 +2,4 @@
 title = "१० ये नः"
 
 +++
-ये नः॑ स॒पत्ना॒ अप॒ ते भ॑वन्त्विन्द्रा॒ग्निभ्या॒मव॑ बाधामह एनान्।  
-आ॒दि॒त्या रु॒द्रा उ॑परि॒स्पृशो॑ न उ॒ग्रं चे॒त्तार॑मधिरा॒जम॑क्रत ॥१०॥  
+Let those who are our foemen stay afar from us: with Indra and with Agni we will drive them off. The Adityas and the Rudras, over us on high, have made me strong, a thinker, and a sovran lord.

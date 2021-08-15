@@ -2,5 +2,4 @@
 title = "३२ सोममेनामेके दुह्रे"
 
 +++
-सोम॑मेना॒मेके॑ दुह्रे घृ॒तमेक॒ उपा॑सते ।  
-य ए॒वं वि॒दुषे॑ व॒शां द॒दुस्ते ग॒तास्त्रि॑दि॒वं दि॒वः ॥३२॥  
+For Soma some have milked her: some worship the fatness she hath poured. They who have given a cow to him who hath this knowledge have gone up to the third region of the sky.

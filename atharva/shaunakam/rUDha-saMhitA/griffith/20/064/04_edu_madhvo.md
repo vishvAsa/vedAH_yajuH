@@ -2,4 +2,4 @@
 title = "०४ एदु मध्वो"
 
 +++
-एदु॒ मध्वो॑ म॒दिन्त॑रं सि॒ञ्च वा॑ध्वर्यो॒ अन्ध॑सः । एवा हि वी॒र स्तव॑ते स॒दावृ॑धः ॥४॥  
+O ministering priest, pour out of the sweet juice what gladdens most. So is the Hero praised who ever prospers us.

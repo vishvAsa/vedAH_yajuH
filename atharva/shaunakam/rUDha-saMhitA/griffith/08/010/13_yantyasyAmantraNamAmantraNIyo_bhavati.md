@@ -2,4 +2,4 @@
 title = "१३ यन्त्यस्यामन्त्रणमामन्त्रणीयो भवति"
 
 +++
-यन्त्य॑स्या॒मन्त्र॑णमामन्त्र॒णीयो॑ भवति॒ य ए॒वं वेद॑ ॥१३॥(७)  
+Two teats she had, Rathantara and Brihat, two, Yajnayajniya and Vamadevya.

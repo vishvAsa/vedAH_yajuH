@@ -2,5 +2,4 @@
 title = "२७ उतेव प्रभ्वीरुत"
 
 +++
-उ॒तेव॑ प्र॒भ्वीरु॒त संमि॑तास उ॒त शु॒क्राः शु॒च॑यश्चा॒मृता॑सः ।  
-ता ओ॑द॒नं दंप॑तिभ्यां॒ प्रशि॑ष्टा आपः॒ शिक्ष॑न्तीः पचता सुनाथाः ॥२७॥  
+Yea, and supreme, alike in conformation, and brilliant and refulgent and immortal, As such, enjoined, well-guarding, water-givers, dress ye the Odana for wife and husband.

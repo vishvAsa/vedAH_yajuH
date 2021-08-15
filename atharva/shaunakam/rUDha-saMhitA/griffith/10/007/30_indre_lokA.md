@@ -2,5 +2,4 @@
 title = "३० इन्द्रे लोका"
 
 +++
-इन्द्रे॑ लो॒का इन्द्रे॒ तप॒ इन्द्रेऽध्यृ॒तमाहि॑तम्।  
-इन्द्रं॑ त्वा वेद प्र॒त्यक्षं॑ स्क॒म्भे सर्वं॒ प्रति॑ष्ठितम्॥३०॥  
+On Indra Fervour rests, on him the worlds and Holy Law recline. Indra, I clearly know that all of thee on Skambha findeth rest.

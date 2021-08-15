@@ -2,4 +2,4 @@
 title = "०२ तमिन्द्र मदमा"
 
 +++
-तमि॑न्द्र॒ मद॒मा ग॑हि बर्हि॒ष्ठां ग्राव॑भिः सु॒तम्। क॒विन्न्वऽस्य तृ॒प्णवः॑ ॥२॥  
+Come, Indra, to this gladdening drink, placed on the grass, pressed out with stones: Wilt thou not drink thy fill thereof?

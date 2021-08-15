@@ -2,4 +2,4 @@
 title = "०३ अग्ने यत्"
 
 +++
-अग्ने॒ यत् ते॒ऽर्चिस्तेन॒ तं प्रत्य॑र्च॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥३॥  
+Shine out, O Agni, with that sheen of thine against the man who hates us, whom we hate.

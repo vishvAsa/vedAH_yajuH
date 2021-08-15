@@ -2,5 +2,4 @@
 title = "०१ सं वो"
 
 +++
-सं वो॑ गो॒ष्ठेन॑ सु॒षदा॒ सं र॒य्या सं सुभू॑त्या ।  
-अह॑र्जातस्य॒ यन्नाम॒ तेना॒ वः॒ सं सृ॑जामसि ॥१॥  
+A Pen wherein to dwell at ease, abundance and prosperity, Whate'er is called the birth of day, all this do we bestow on you.

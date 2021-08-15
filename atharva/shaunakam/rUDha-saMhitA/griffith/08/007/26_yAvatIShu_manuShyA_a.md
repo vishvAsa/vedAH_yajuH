@@ -2,5 +2,4 @@
 title = "२६ यावतीषु मनुष्याऽ"
 
 +++
-याव॑तीषु मनु॒ष्याऽ भेष॒जं भि॒षजो॑ वि॒दुः ।  
-ताव॑तीर्वि॒श्वभे॑षजी॒रा भ॑रामि॒ त्वाम॒भि॥२६॥  
+Hitherward unto thee I bring the Plants that cure all maladies, All Plants wherein physicians have discovered health-bestowing power.

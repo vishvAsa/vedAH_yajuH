@@ -2,5 +2,4 @@
 title = "०१ इदं तद्"
 
 +++
-इ॒दं तद् यु॒ज उत्त॑र॒मिन्द्रं॑ शुम्भा॒म्यष्ट॑ये ।  
-अ॒स्य क्ष॒त्रं श्रियं॑ म॒हीं वृ॒ष्टिरि॑व वर्धया॒ तृण॑म्॥१॥  
+Win the love of Indra that his friend may reach yet higher state. Increase, as rain the grass, this man's dominion and his lofty fame.

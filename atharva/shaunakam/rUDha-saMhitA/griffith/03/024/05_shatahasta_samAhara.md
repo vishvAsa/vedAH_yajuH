@@ -2,5 +2,4 @@
 title = "०५ शतहस्त समाहर"
 
 +++
-शत॑हस्त स॒माह॑र॒ सह॑स्रहस्त॒ सं कि॑र ।  
-कृ॒तस्य॑ का॒र्यऽस्य चे॒ह स्फा॒तिं स॒माव॑ह ॥५॥  
+O Hundred-handed, gather up. O Thousand-handed, pour thou forth. Bring hither increase of the corn prepared and yet to be pre- pared.

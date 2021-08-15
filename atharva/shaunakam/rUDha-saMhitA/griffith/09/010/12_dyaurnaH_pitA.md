@@ -2,5 +2,4 @@
 title = "१२ द्यौर्नः पिता"
 
 +++
-द्यौर्नः॑ पि॒ता ज॑नि॒ता नाभि॒रत्र॒ बन्धु॑र्नो मा॒ता पृ॑थि॒वी म॒हीयम्।  
-उ॒त्ता॒नयो॑श्च॒म्वो॒३र्योनि॑र॒न्तरत्रा॑ पि॒ता दु॑हि॒तुर्गर्भ॒माधा॑त्॥१२॥  
+Dyaus is our father, our begetter: kinship is here. This great Earth is our kin and mother. Between the wide-spread world-halves is the birth-place. The Father laid the Daughter's germ within it.

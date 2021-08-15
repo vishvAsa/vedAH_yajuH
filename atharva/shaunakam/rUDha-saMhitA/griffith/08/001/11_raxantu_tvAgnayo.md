@@ -2,5 +2,4 @@
 title = "११ रक्षन्तु त्वाग्नयो"
 
 +++
-रक्ष॑न्तु त्वा॒ग्नयो॒ ये अ॒प्स्व॑१न्ता रक्ष॑तु त्वा मनु॒ष्या॒३ यमि॒न्धते॑ ।  
-वै॒श्वा॒न॒रो र॑क्षतु जा॒तवे॑दा दि॒व्यस्त्वा॒ मा प्र धा॑ग् वि॒द्युता॑ स॒ह॥११॥  
+Thy guardians be the Fires within the Waters, thy guardian be the Fire which men enkindle. Thy guardian be Vaisvanara Jatavedas; let not celestial Fire with lightning burn thee.

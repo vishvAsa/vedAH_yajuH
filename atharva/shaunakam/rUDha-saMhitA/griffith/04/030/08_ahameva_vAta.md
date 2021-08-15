@@ -2,5 +2,4 @@
 title = "०८ अहमेव वात"
 
 +++
-अ॒हमे॒व वात॑ इव॒ प्र वा॑म्या॒रभ॑माणा॒ भुव॑नानि॒ विश्वा॑ ।  
-प॒रो दि॒वा प॒र ए॒ना पृ॑थि॒व्यौताव॑ती महि॒म्ना सं ब॑भूव ॥८॥
+I breathe a strong breath like the wind and tempest, the while I hold together all existence. Beyond this wide earth and beyond the heavens I have become so mighty in my grandeur.

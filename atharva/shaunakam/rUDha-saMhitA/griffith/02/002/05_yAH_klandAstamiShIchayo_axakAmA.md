@@ -2,5 +2,4 @@
 title = "०५ याः क्लन्दास्तमिषीचयोऽक्षकामा"
 
 +++
-याः क्ल॒न्दास्तमि॑षीचयो॒ऽक्षका॑मा मनो॒मुहः॑ ।  
-ताभ्यो॑ गन्ध॒र्वप॑त्नीभ्योऽप्स॒राभ्यो॑ऽकरं॒ नमः॑ ॥५॥
+Haunters of darkness, shrill in voice, dice-lovers, maddeners of the mind To these have I paid homage, the Gandharva's wives, Apsarases.

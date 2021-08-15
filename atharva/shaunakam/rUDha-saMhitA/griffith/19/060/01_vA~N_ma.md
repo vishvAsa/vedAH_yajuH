@@ -2,5 +2,4 @@
 title = "०१ वाङ् म"
 
 +++
-वाङ् म॑ आ॒सन् न॒सोः प्रा॒णश्चक्षु॑र॒क्ष्णोः श्रोत्रं॒ कर्ण॑योः ।  
-अप॑लिताः॒ केशा॒ अशो॑णा॒ दन्ता॑ ब॒हु बा॒ह्वोर्बल॑म्॥१॥  
+May I have voice in my mouth, breath in my nostrils, sight in mine eyes, hearing in mine ears, hair that hath not turned gray, teeth free from yellowness, and much strength in mine arms.

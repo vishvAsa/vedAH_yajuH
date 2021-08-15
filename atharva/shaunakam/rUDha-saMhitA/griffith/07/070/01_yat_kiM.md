@@ -2,5 +2,4 @@
 title = "०१ यत् किं"
 
 +++
-यत् किं चा॒सौ मन॑सा॒ यच्च॑ वा॒चा य॒ज्ञैर्जु॒होति॑ ह॒विषा॒ यजु॑षा ।  
-तन्मृ॒त्युना॒ निरृ॑तिः संविदा॒ना पु॒रा स॒त्यादाहु॑तिं हन्त्वस्य ॥१॥  
+Whatever sacrifice that man performeth with voice, mind, sacred formula, oblation, May, in accord with Death, Destruction ruin his offering before it gain fulfilment.

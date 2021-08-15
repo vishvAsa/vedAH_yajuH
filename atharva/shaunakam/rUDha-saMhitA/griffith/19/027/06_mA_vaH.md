@@ -2,5 +2,4 @@
 title = "०६ मा वः"
 
 +++
-मा वः॑ प्रा॒णं मा वो॑ऽपा॒नं मा हरो॑ मा॒यिनो॑ दभन्।  
-भ्राज॑न्तो वि॒श्ववे॑दसो दे॒वा दैव्ये॑न धावत ॥६॥  
+Let not magicians mar your heat, your vital or diffusive breath. Brilliant and all-possessing Gods, run ye your course with God- like power.

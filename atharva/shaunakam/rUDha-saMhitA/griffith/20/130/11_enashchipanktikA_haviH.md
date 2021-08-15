@@ -2,4 +2,4 @@
 title = "११ एनश्चिपङ्क्तिका हविः"
 
 +++
-एन॑श्चिपङ्क्ति॒का ह॒विः ॥११॥  
+The ladle doth not hold apart the entrails and the clotted blood.

@@ -2,5 +2,4 @@
 title = "०२ उत्समक्षितं व्यचन्ति"
 
 +++
-उत्स॒मक्षि॑तं॒ व्यच॑न्ति॒ ये सदा॒ य आ॑सि॒ञ्चन्ति॒ रस॒मोष॑धीषु ।  
-पु॒रो द॑धे मरुतः॒ पृश्नि॑मातृंस्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥२॥  
+Those who surround the never-failing fountain for ever, and bedew the plants with moisture, The Maruts, Prini's sons, I chiefly honour. May they deliver us from grief and trouble.

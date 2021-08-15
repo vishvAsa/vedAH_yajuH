@@ -2,4 +2,4 @@
 title = "०३ इच्छन्ति देवाः"
 
 +++
-इ॒च्छन्ति॑ दे॒वाः सु॒न्वन्तं॒ न स्वप्ना॑य स्पृहयन्ति । यन्ति॑ प्र॒माद॒मत॑न्द्राः ॥३॥  
+The Gods seek him who presses out the Soma; they desire not sleep: Incessantly they punish sloth.

@@ -2,4 +2,4 @@
 title = "१० यदेनमाह व्रात्य"
 
 +++
-यदे॑न॒माह॒ व्रात्य॒ यथा॑ ते निका॒मस्तथा॒स्त्विति॑ निका॒ममे॒व तेनाव॑ रुन्द्धे ॥१०॥  
+When he says to him, Vratya, as thy desire is so be it, he secures to himself thereby the attainment of his desire.

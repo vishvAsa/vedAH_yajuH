@@ -2,5 +2,4 @@
 title = "०७ षट् त्वा"
 
 +++
-षट् त्वा॑ पृछाम॒ ऋष॑यः कश्यपे॒मे त्वं हि यु॒क्तं यु॑यु॒क्षे योग्यं॑ च ।  
-वि॒राज॑माहु॒र्ब्रह्म॑णः पि॒तरं॒ तां नो॒ वि धे॑हि यति॒धा सखि॑भ्यः ॥७॥  
+We, Kagyapa! six present Rishis, ask thee--for thou hast prov- ed things tried and meet for trial They call Viraj the Father of Devotion: tell her to us thy friends in all her figures.

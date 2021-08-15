@@ -2,5 +2,4 @@
 title = "०४ प्र यत्"
 
 +++
-प्र यत् ते॑ अग्ने सू॒रयो॒ जाये॑महि॒ प्र ते॑ व॒यम्।  
-अप॑ नः॒ शोशु॑चद॒घम्॥४॥  
+So that thy worshipper and we, thine, Agni! in our sons may live. His lustre flash our pain away!

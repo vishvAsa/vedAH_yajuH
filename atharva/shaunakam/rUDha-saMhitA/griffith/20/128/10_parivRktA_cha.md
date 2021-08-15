@@ -2,5 +2,4 @@
 title = "१० परिवृक्ता च"
 
 +++
-परि॑वृ॒क्ता च॒ महि॑षी स्व॒स्त्या च यु॒धिंग॒मः ।  
-अना॑शुर॑श्चाया॒मी तो॒ता कल्पे॑षु सं॒मिता॑ ॥१०॥  
+The favourite wife neglected, and the man who safely shuns the fight, A sluggish horse whom none may guide, these things are order- ed in the rules.

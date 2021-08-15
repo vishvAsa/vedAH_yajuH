@@ -2,5 +2,4 @@
 title = "३२ बभ्रे रक्षः"
 
 +++
-बभ्रे॒ रक्षः॑ स॒मद॒मा व॑पै॒भ्योऽब्रा॑ह्मणा यत॒मे त्वो॑प॒सीदा॑न्।  
-पु॒री॒षिणः॒ प्रथ॑मानाः पु॒रस्ता॑दार्षे॒यास्ते॒ मा रि॑षन् प्राशि॒तारः॑ ॥३२॥॥  
+Supporter, send to those men fiends and battle, to all non-Brah- mans who attend and serve thee. Famous and foremost, with their great possessions, let not these here, the Rishis sons, be injured.

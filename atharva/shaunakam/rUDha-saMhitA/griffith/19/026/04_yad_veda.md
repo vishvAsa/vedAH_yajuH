@@ -2,5 +2,4 @@
 title = "०४ यद् वेद"
 
 +++
-यद् वेद॒ राजा॒ वरु॑णो॒ वेद॑ दे॒वो बृह॒स्पतिः॑ ।  
-इन्द्रो॒ यद् वृ॑त्र॒हा वेद॒ तत् त॑ आयु॒ष्यं भुव॒त् तत् ते॑ वर्च॒स्यं भुवत्॥४॥
+What Varuna the King knows well, and what the God Brihaspati, And Indra, Slayer of the Foe, may that bestow long life on thee, may that increase thy splendid strength.

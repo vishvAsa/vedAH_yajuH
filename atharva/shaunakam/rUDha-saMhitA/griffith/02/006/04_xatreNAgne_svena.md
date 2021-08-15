@@ -2,5 +2,4 @@
 title = "०४ क्षत्रेणाग्ने स्वेन"
 
 +++
-क्ष॒त्रेणा॑ग्ने॒ स्वेन॒ सं र॑भस्व मि॒त्रेणा॑ग्ने मित्र॒धा य॑तस्व ।  
-स॒जा॒तानां॑ मध्यमे॒ष्ठा राज्ञा॑मग्ने वि॒हव्यो॑ दीदिही॒ह॥४॥  
+Seize, Agni, on thy power and firmly hold it: contend thou with the Friend by way of friendship. Placed in the centre of our fellows, Agni, flash forth to be invoked by kings around thee.

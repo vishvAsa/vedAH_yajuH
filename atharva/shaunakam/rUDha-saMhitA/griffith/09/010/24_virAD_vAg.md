@@ -2,5 +2,4 @@
 title = "२४ विराड् वाग्"
 
 +++
-वि॒राड् वाग् विरा॑ट् पृ॑थि॒वी वि॒राड॒न्तरि॑क्षं वि॒राट् प्र॒जाप॑तिः ।  
-वि॒राण्मृ॒त्युः सा॒ध्याना॑मधिरा॒जो ब॑भूव॒ तस्य॑ भू॒तं भव्यं॒ वशे॒ स मे॑ भू॒तं भव्यं॒ वशे॑ कृणोतु ॥२४॥  
+Viraj is Speech, and Earth, and Air's mid-region. He is Praja- pati, and he is Mrityu. He is the Lord Imperial of the Sadhyas. He rules what is and what shall be hereafter. May he make me lord of what is and shall be.

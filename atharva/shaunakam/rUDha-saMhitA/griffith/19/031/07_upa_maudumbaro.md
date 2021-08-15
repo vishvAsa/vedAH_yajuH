@@ -2,5 +2,4 @@
 title = "०७ उप मौदुम्बरो"
 
 +++
-उप॒ मौदु॑म्बरो म॒णिः प्र॒जया॑ च॒ धने॑न च ।  
-इन्द्रे॑ण जिन्वि॒तो म॒णिरा मा॑गन्त्स॒ह वर्च॑सा ॥७॥  
+To me with wealth and children come the Amulet of Udumbara. With splendour come the Amulet hastened by Indra on its way!

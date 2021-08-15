@@ -2,5 +2,4 @@
 title = "१३ इन्द्रपुत्रे सोमपुत्रे"
 
 +++
-इन्द्र॑पुत्रे॒ सोम॑पुत्रे दुहि॒तासि॑ प्र॒जाप॑तेः ।  
-कामा॑न॒स्माकं॑ पूरय॒ प्रति॑ गृह्णाहि नो ह॒विः ॥१३॥
+Indra's and Soma's mother! thou art daughter of Prajapati. Satisfy thou our hearts' desires. Gladly accept our sacrifice.

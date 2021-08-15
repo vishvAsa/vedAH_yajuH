@@ -2,4 +2,4 @@
 title = "०१ मूर्धाहं रयीणां"
 
 +++
-मू॒र्धाहं र॑यी॒णां मू॒र्धा स॑मा॒नानां॑ भूयासम्॥१॥  
+I am the head of riches. Fain would I be the head of mine equals.

@@ -2,5 +2,4 @@
 title = "०३ यस्ते देवेषु"
 
 +++
-यस्ते॑ दे॒वेषु॑ महि॒मा स्व॒र्गो या ते॑ त॒नूः पि॒तृष्वा॑वि॒वेश॑ ।  
-पुष्टि॒र्या ते॑ मनु॒ष्येऽषु पप्र॒थेऽग्ने॒ तया॑ र॒यिम॒स्मासु॑ धेहि ॥३॥  
+Thy majesty among the Gods in Svarga, thy body which hath past into the Fathers. Thy plenty far-diffused mid human beings, even with this, O Agni, give us riches.

@@ -2,5 +2,4 @@
 title = "१६ अरायान् ब्रूमो"
 
 +++
-अ॒राया॑न् ब्रूमो॒ रक्षां॑सि स॒र्पान् पु॑ण्यज॒नान् पि॒तृन्।  
-मृ॒त्यूनेक॑शतं ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१६॥  
+To demons and fierce fiends we speak, to Holy Genii, Fathers,. Snakes, And to the hundred deaths and one: may these deliver us from woe.

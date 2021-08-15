@@ -2,5 +2,4 @@
 title = "२४ यमबध्नाद् बृहस्पतिर्देवेभ्यो"
 
 +++
-यमब॑ध्ना॒द् बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
-स मा॒यं म॒णिराग॑मत् स॒ह व्री॑हिय॒वाभ्यां॒ मह॑सा॒ भूत्या॑ स॒ह॥२४॥  
+The Amulet, etc. That Amulet here hath come to me with store of barley and of rice, with greatness and prosperity.

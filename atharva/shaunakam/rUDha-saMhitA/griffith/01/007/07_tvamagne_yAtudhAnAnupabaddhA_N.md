@@ -2,5 +2,4 @@
 title = "०७ त्वमग्ने यातुधानानुपबद्धाँ"
 
 +++
-त्व॑मग्ने यातु॒धाना॒नुप॑बद्धाँ इ॒हा व॑ह ।  
-अथै॑षा॒मिन्द्रो॒ वज्रे॒णापि॑ शी॒र्षाणि॑ वृश्चतु ॥७॥
+O Agni, bring thou hitherward the Yatudhanas bound and chained. And afterward let Indra tear their heads off with his thunder- bolt.

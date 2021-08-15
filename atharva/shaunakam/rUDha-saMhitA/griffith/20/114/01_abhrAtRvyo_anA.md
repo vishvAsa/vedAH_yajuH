@@ -2,4 +2,4 @@
 title = "०१ अभ्रातृव्यो अना"
 
 +++
-अ॒भ्रा॒तृ॒व्यो अ॒ना त्वमना॑पिरिन्द्र ज॒नुषा॑ स॒नाद॑सि । यु॒धेदा॑पि॒त्वमि॑च्छसे ॥१॥  
+O Indra, from all ancient time rivalless ever and companionless art thou: In war thou seekest comradeship.

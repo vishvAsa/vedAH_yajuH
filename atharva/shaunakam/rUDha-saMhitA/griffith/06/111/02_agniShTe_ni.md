@@ -2,5 +2,4 @@
 title = "०२ अग्निष्टे नि"
 
 +++
-अ॒ग्निष्टे॒ नि श॑मयतु॒ यदि॑ ते॒ मन॒ उद्यु॑तम्।  
-कृ॒णोमि॑ वि॒द्वान् भे॑ष॒जं यदानु॑न्मदि॒तोऽस॑सि ॥२॥  
+Let Agni gently soothe thy mind when fierce excitement troubles it. Well-skilled I make a medicine that thou no larger mayst be mad.

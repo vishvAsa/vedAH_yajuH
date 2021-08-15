@@ -2,5 +2,4 @@
 title = "३३ प्रभ्राजमानां हरिणीं"
 
 +++
-प्र॒भ्राज॑मानां॒ हरि॑णीं॒ यश॑सा सं॒परी॑वृताम्।  
-पुरं॑ हिर॒ण्ययीं॒ ब्रह्मा वि॑वे॒शाप॑राजिताम्॥३३॥
+Brahma hath passed within the fort, the golden castle; ne'er subdued, Bright with excessive brilliancy, compassed with glory round about.

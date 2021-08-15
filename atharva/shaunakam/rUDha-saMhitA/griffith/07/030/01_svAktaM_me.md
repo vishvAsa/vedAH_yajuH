@@ -2,5 +2,4 @@
 title = "०१ स्वाक्तं मे"
 
 +++
-स्वाक्तं॑ मे॒ द्यावा॑पृथि॒वी स्वाक्तं॑ मि॒त्रो अ॑कर॒यम्।  
-स्वाक्तं॑ मे॒ ब्रह्म॑ण॒स्पतिः॒ स्वाक्तं॑ सवि॒ता क॑रत्॥१॥
+Heaven, Earth, and Mitra here have caused mine eyes to be- anointed well, Savitar, Brahmanaspati take care that they be duly balmed!

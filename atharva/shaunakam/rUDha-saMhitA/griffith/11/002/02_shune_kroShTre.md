@@ -2,5 +2,4 @@
 title = "०२ शुने क्रोष्ट्रे"
 
 +++
-शुने॑ क्रो॒ष्ट्रे मा शरी॑राणि॒ कर्त॑म॒लिक्ल॑वेभ्यो॒ गृध्रे॑भ्यो॒ ये च॑ कृ॒ष्णा अ॑वि॒ष्यवः॑ ।  
-मक्षि॑कास्ते पशुपते॒ वयां॑सि ते विघ॒से मा वि॑दन्त ॥२॥  
+Cast not our bodies to the dog or jackal, nor, Lord of Beasts! to carrion-kites or vultures. Let not thy black voracious flies attack them; let not thy birds obtain them for their banquet.

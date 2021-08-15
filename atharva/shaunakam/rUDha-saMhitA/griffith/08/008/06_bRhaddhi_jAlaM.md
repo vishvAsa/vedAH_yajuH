@@ -2,5 +2,4 @@
 title = "०६ बृहद्धि जालं"
 
 +++
-बृ॒हद्धि जालं॑ बृह॒तः श॒क्रस्य॑ वा॒जिनी॑वतः ।  
-तेन॒ शत्रू॑न॒भि सर्वा॒न् न्युऽब्ज॒ यथा॒ न मुच्या॑तै कत॒मश्च॒नैषा॑म्॥६॥  
+Verily mighty is the net of mighty Sakra rich in wealth: Therewith press all the foemen down so that not one of them escape!

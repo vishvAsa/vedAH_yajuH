@@ -2,4 +2,4 @@
 title = "०१ स्तुहीन्द्रं व्यश्ववदनूर्मिं"
 
 +++
-स्तु॒हीन्द्रं॑ व्यश्व॒वदनू॑र्मिं वा॒जिनं॒ यम॑म्। अ॒र्यो गयं॒ मंह॑मानं॒ वि दा॒शुषे॑ ॥१॥  
+As Vyasva did, praise Indra, praise the strong unfluctuating guide. Who gives the foe's possessions to the worshipper.

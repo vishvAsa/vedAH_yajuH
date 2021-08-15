@@ -2,4 +2,4 @@
 title = "०३ संजीवा स्थ"
 
 +++
-सं॒जी॒वा स्थ॒ सं जी॑व्यासं॒ सर्व॒मायु॑र्जीव्यासम्॥३॥  
+Ye remain alive. I fain would remain alive. I fain would live my complete term of life.

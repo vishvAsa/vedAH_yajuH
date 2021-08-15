@@ -2,5 +2,4 @@
 title = "१६ यास्तिरश्चीरुपर्षन्त्यर्षणीर्वक्षणासु ते"
 
 +++
-यास्ति॒रश्ची॑रुप॒र्षन्त्य॑र्ष॒णीर्व॒क्षणा॑सु ते ।  
-अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म्॥१६॥  
+The penetrating pangs that pierce thy stomach as they shoot across, Let them depart and pass away, free from disease and harming not.

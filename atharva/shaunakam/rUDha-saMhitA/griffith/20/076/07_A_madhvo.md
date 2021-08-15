@@ -2,5 +2,4 @@
 title = "०७ आ मध्वो"
 
 +++
-आ मध्वो॑ अस्मा असिच॒न्नम॑त्र॒मिन्द्रा॑य पू॒र्णं स हि स॒त्यरा॑धाः ।  
-स वा॑वृधे॒ वरि॑म॒न्ना पृ॑थि॒व्या अ॒भि क्रत्वा॒ नर्यः॒ पौंस्यै॑श्च ॥७॥  
+They have poured out a bowl to him, to Indra, full of sweet juice, for faithful is his bounty. O'er earth's expanse hath he grown great by wisdom, the friend of man, and by heroic exploits.

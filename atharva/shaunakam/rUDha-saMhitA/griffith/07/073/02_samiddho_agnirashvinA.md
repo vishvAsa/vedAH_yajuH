@@ -2,5 +2,4 @@
 title = "०२ समिद्धो अग्निरश्विना"
 
 +++
-समि॑द्धो अ॒ग्निर॑श्विना त॒प्तो वां॑ घ॒र्म आ ग॑तम्।  
-दु॒ह्यन्ते॑ नू॒नं वृ॑षणे॒ह धे॒नवो॒ दस्रा॒ मद॑न्ति वे॒धसः॑ ॥२॥  
+Asvins, the fire is all aglow: your caldron hath been heated;. come! Here, even now, O Heroes, are the milch-kine milked. The priests, ye mighty ones! rejoice.

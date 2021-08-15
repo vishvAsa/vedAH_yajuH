@@ -2,5 +2,4 @@
 title = "१० ताबुवं न"
 
 +++
-ता॒बुवं॒ न ता॒बुवं॒ न घेत् त्वम॑सि ता॒बुव॑म्।  
-ता॒बुवे॑नार॒सं वि॒षम्॥१०॥  
+Tabuva or not Tabuva, thou verily art not Tabuva: poison is killed by Tabuva. Tastuva or not Tastuva, thou verily art not Tastuva: poison is killed by Tastuva.

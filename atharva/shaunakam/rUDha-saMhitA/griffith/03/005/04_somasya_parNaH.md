@@ -2,5 +2,4 @@
 title = "०४ सोमस्य पर्णः"
 
 +++
-सोम॑स्य प॒र्णः सह॑ उ॒ग्रमाग॒न्निन्द्रे॑ण द॒त्तो वरु॑णेन शि॒ष्टः ।  
-तं प्रि॑यासं ब॒हु रोच॑मानो दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥४॥  
+As Indra's gift, by Varuna instructed, Parna hath come, the mighty strength of Soma: This would I, brightly shining, love and cherish for long life lasting through a hundred autumns.

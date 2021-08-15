@@ -2,5 +2,4 @@
 title = "०७ इहा यन्तु"
 
 +++
-इ॒हा य॑न्तु॒ प्रचे॑तसो मे॒दिनी॒र्वच॑सो॒ मम॑ ।  
-यथे॒मं पा॒रया॑मसि॒ पुरु॑षं दुरि॒तादधि॑ ॥७॥  
+Hitherward let the sapient come, the friendly sharers o f my speech. That we may give this man relief and raise him from his evil plight.

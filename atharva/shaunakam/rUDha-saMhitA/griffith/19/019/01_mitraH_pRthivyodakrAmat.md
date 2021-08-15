@@ -2,5 +2,4 @@
 title = "०१ मित्रः पृथिव्योदक्रामत्"
 
 +++
-मि॒त्रः पृ॑थि॒व्योद॑क्राम॒त् तां पुरं॒ प्र ण॑यामि वः ।  
-तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥१॥  
+Mitra arose with Earth. To that fort I lead you: enter it, occupy it. Let it give you protection and defence.

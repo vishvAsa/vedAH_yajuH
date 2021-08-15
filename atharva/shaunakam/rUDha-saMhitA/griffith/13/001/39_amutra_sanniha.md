@@ -2,5 +2,4 @@
 title = "३९ अमुत्र सन्निह"
 
 +++
-अ॒मुत्र॒ सन्नि॒ह वे॑त्थे॒तः संस्तानि॑ पश्यसि ।  
-इ॒तः प॑श्यन्ति रोच॒नं दि॒वि सूर्यं॑ विप॒श्चित॑म्॥३९॥  
+Thou, yonder, knowest all things here, when here thou knowest what is there. From here men see the sphere of light, Surya profoundly wise in heaven.

@@ -2,5 +2,4 @@
 title = "१३ यस्य त्रयस्त्रिंशद्"
 
 +++
-यस्य॒ त्रय॑स्त्रिंशद् दे॒वा अङ्गे॒ सर्वे॑ स॒माहि॑ताः ।  
-स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥१३॥  
+Who out of many, tell me, is that Skambha He in whose body are contained all three-and-thirty Deities?

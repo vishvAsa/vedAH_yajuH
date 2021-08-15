@@ -2,5 +2,4 @@
 title = "१९ ये अङ्गानि"
 
 +++
-ये अङ्गा॑नि॒ म॒दय॑न्ति॒ यक्ष्मा॑सो रोप॒णास्तव॑ ।  
-यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत्॥१९॥  
+Consumptions with their Colic pains which make thy limbs insensible I have evoked the poison-taint of all Consumptions out of thee.

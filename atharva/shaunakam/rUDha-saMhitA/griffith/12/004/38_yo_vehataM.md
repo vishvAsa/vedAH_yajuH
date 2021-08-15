@@ -2,5 +2,4 @@
 title = "३८ यो वेहतं"
 
 +++
-यो वे॒हतं॒ मन्य॑मानो॒ऽमा च॒ पच॑ते व॒शाम्।  
-अप्य॑स्य पु॒त्रान् पौत्रां॑श्च या॒चय॑ते॒ बृह॒स्पतिः॑ ॥३८॥  
+Whoever looking on the Cow as fruitless, cooks her flesh at home, Brihaspati compels his sons and children of his sons to beg.

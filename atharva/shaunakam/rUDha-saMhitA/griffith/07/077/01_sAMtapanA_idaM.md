@@ -2,5 +2,4 @@
 title = "०१ सांतपना इदं"
 
 +++
-सांत॑पना इ॒दं ह॒विर्मरु॑त॒स्तज्जु॑जुष्टन ।  
-अ॒स्माको॒ती रि॑शादसः ॥१॥  
+Ye Maruts, full of fiery heat, accept this offering brought for you To help us, ye who slay the foe.

@@ -2,4 +2,4 @@
 title = "६२ ज्योतिष्मतो लोकान्"
 
 +++
-ज्योति॑ष्मतो लो॒कान् ज॑यति॒ य ए॒वं वेद॑ ।१४। ६२॥
+He who hath this knowledge wins the luminous spheres.

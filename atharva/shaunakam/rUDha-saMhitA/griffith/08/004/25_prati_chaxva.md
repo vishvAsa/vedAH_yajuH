@@ -2,5 +2,4 @@
 title = "२५ प्रति चक्ष्व"
 
 +++
-प्रति॑ चक्ष्व॒ वि च॒क्ष्वेन्द्र॑श्च सोम जागृतम्।  
-रक्षो॑भ्यो व॒धम॑स्यतम॒शनिं॑ यातु॒मद्भ्यः॑ ॥२५॥
+Look, each one, hither, look around. Indra and Soma, watch ye well. Cast forth your weapon at the fiends: against the sorcerers hurl your bolt.

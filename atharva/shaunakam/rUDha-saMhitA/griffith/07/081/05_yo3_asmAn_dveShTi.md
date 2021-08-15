@@ -2,5 +2,4 @@
 title = "०५ यो३ऽस्मान् द्वेष्टि"
 
 +++
-यो॒३ऽस्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तस्य॒ त्वं प्रा॒णेना प्या॑यस्व ।  
-आ व॒यं प्या॑सिषीमहि॒ गोभि॒रश्वैः॑ प्र॒जया॑ प॒शुभि॑र्गृ॒हैर्धने॑न ॥५॥  
+Inflate thee with his vital breath who hathes us and whom we detest. May we grow rich in steeds and kine, in children, cattle, houses, wealth.

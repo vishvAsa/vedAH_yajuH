@@ -2,4 +2,4 @@
 title = "६४ यथायाद् यमसादनात्"
 
 +++
-यथाया॑द् यमसाद॒नात् पा॑पलो॒कान् प॑रा॒वतः॑ ॥६४॥  
+That he may go from Yama's home afar into the worlds of sin. its

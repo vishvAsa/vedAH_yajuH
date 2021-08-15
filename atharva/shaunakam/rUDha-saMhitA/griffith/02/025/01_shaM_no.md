@@ -2,5 +2,4 @@
 title = "०१ शं नो"
 
 +++
-शं नो॑ दे॒वी पृ॑श्निप॒र्ण्यशं॒ निरृ॑त्या अकः ।  
-उ॒ग्रा हि क॑ण्व॒जम्भ॑नी॒ ताम॑भक्षि॒ सह॑स्वतीम्॥१॥  
+The Goddess Prisniparni hath blest us, and troubled Nirriti. Fierce crusher of the Kanvas she: her have I gained, the mighty one.

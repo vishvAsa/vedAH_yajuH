@@ -2,5 +2,4 @@
 title = "०४ एह्यश्मानमा तिष्ठाश्मा"
 
 +++
-एह्यश्मा॑न॒मा ति॒ष्ठाश्मा॑ भवतु ते त॒नूः ।  
-कृ॒ण्वन्तु॒ विश्वे॑ दे॒वा आयु॑ष्टे श॒रदः॑ श॒तम्॥४॥  
+Come hither, stand upon the stone: thy body shall become a stone. The Universal Gods shall make thy life a hundred autumns long.

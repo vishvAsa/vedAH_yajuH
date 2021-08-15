@@ -2,4 +2,4 @@
 title = "७३ पितृभ्यः सोमवद्भ्यः"
 
 +++
-पि॒तृभ्यः॒ सोम॑वद्भ्यः स्व॒धा नमः॑ ॥७३॥  
+To the Fathers connected with Soma Hail! and homage!

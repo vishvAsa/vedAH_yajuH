@@ -2,5 +2,4 @@
 title = "१७ शुद्धाः पूता"
 
 +++
-शु॒द्धाः पू॒ता यो॒षितो॑ य॒ज्ञिया॑ इ॒मा आप॑श्च॒रुमव॑ सर्पन्तु शु॒भ्राः ।  
-अदुः॑ प्र॒जां ब॑हु॒लान् प॒शून् नः॑ प॒क्तौद॒नस्य॑ सु॒कृता॑मेतु लो॒कम्॥१७॥  
+Purified, bright, and holy, let these Women, these lucid waters glide into the caldron. Cattle and many children may they give us. May he who cooks. the Odana go to heaven.

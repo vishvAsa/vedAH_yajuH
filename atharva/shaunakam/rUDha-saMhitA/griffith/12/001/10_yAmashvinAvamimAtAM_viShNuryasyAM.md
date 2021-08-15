@@ -2,6 +2,4 @@
 title = "१० यामश्विनावमिमातां विष्णुर्यस्यां"
 
 +++
-याम॒श्विना॒वमि॑मातां॒ विष्णु॒र्यस्यां॑ विचक्र॒मे।  
-इन्द्रो॒ यां च॒क्र आ॒त्मने॑ऽनमि॒त्रां शची॒पतिः॑ ।  
-सा नो॒ भूमि॒र्वि सृ॑जतां मा॒ता पु॒त्राय॑ मे॒ पयः॑ ॥१०॥  
+She whom the Asvins measured out, o'er whom the foot of Vishnu strode, Whom Indra, Lord of Power and Might, freed from all foemen for himself, May Earth pour out her milk for us, a mother unto me her son.

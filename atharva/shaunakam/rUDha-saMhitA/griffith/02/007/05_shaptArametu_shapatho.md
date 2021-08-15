@@ -2,5 +2,4 @@
 title = "०५ शप्तारमेतु शपथो"
 
 +++
-श॒प्तार॑मेतु श॒पथो॒ यः सु॒हार्त् तेन॑ नः स॒ह।  
-चक्षु॑र्मन्त्रस्य दु॒र्हार्दः॑ पृ॒ष्टीरपि॑ शृणीमसि ॥५॥
+Upon the curser fall his curse! Dwell we with him whose heart is true! We split the cruel villain's ribs whose evil eye bewitches us.

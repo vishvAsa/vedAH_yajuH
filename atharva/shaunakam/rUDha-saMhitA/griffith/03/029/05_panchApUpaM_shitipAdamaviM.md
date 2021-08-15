@@ -2,5 +2,4 @@
 title = "०५ पञ्चापूपं शितिपादमविं"
 
 +++
-पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
-प्र॒दा॒तोप॑ जीवति सूर्यामा॒सयो॒रक्षि॑तम्॥५॥  
+He who bestows a white-hooved ram, adequate to the place he holds, Offered with five cakes, lives on that, wasteless, while Sun and. Moon endure.

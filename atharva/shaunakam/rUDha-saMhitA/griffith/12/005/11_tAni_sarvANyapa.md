@@ -2,4 +2,4 @@
 title = "११ तानि सर्वाण्यप"
 
 +++
-तानि॒ सर्वा॒ण्यप॑ क्रामन्ति ब्रह्मग॒वीमा॒ददा॑नस्य जिन॒तो ब्रा॑ह्म॒णं क्ष॒त्रिय॑स्य ॥११॥  
+All these blessings of a Kshatriya depart from him when he oppresseth the Brahman and taketh to himself the hhman's cow.

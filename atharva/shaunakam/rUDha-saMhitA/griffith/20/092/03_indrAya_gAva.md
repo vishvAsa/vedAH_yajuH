@@ -2,4 +2,4 @@
 title = "०३ इन्द्राय गाव"
 
 +++
-इन्द्रा॑य॒ गाव॑ आ॒शिरं॑ दुदु॒ह्रे व॒ज्रिणे॒ मधु॑ । यत् सी॑मुपह्व॒रे वि॒दत्॥३॥  
+For Indra thunder-armed the kine have yielded mingled milk and meath. What time he found them in the vault.

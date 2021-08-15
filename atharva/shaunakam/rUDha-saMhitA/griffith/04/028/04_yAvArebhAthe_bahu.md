@@ -2,5 +2,4 @@
 title = "०४ यावारेभाथे बहु"
 
 +++
-यावा॑रे॒भाथे॑ ब॒हु सा॒कमग्रे॒ प्र चेद॑स्रा॑ष्ट्रमभि॒भां जने॑षु ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥४॥  
+Ye who of old wrought many a deed in concert, and showed among mankind unhappy omens; Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.

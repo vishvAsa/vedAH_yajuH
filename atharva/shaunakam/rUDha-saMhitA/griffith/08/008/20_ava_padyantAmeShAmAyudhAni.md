@@ -2,5 +2,4 @@
 title = "२० अव पद्यन्तामेषामायुधानि"
 
 +++
-अव॑ पद्यन्तामेषा॒मायु॑धानि॒ मा श॑कन् प्रति॒धामिषु॑म्।  
-अथै॑षां ब॒हु बिभ्य॑ता॒मिष॑वः घ्नन्तु॒ मर्म॑णि ॥२०॥  
+Down fall their weapons on the ground: no strength be theirs to point a shaft: Then in their dreadful terror let their arrows wound their vital parts.

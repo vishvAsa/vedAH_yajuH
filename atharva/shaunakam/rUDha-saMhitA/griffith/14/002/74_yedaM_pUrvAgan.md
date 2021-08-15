@@ -2,5 +2,4 @@
 title = "७४ येदं पूर्वागन्"
 
 +++
-येदं पूर्वाग॑न् रशना॒यमा॑ना प्र॒जाम॒स्यै द्रवि॑णं चे॒ह द॒त्त्वा।  
-तां व॑ह॒न्त्वग॑त॒स्यानु॒ पन्थां॑ वि॒राडि॒यं सु॑प्र॒जा अत्य॑जैषीत्॥७४॥  
+Her who first guided by a rein came hither, giving the bride, here offspring and possessions, Let them convey along the future's pathway. Splendid, with noble children, she hath conquered.

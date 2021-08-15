@@ -2,5 +2,4 @@
 title = "०१ आ नयैतमा"
 
 +++
-आ न॑यै॒तमा र॑भस्व सु॒कृतां॑ लो॒कमपि॑ गच्छतु प्रजा॒नन्।  
-ती॒र्त्वा तमां॑सि बहु॒धा म॒हान्त्य॒जो नाक॒मा क्र॑मतां तृ॒तीय॑म्॥१॥  
+Seize him and bring him hither. Let him travel. foreknowing, to the regions of the pious. Crossing in many a place the mighty darkness, let the Goat mount to the third heaven above us.

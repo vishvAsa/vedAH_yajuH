@@ -2,5 +2,4 @@
 title = "०१ जनाद् विश्वजनीनात्"
 
 +++
-जना॑द् विश्वज॒नीना॑त् सिन्धु॒तस्पर्याभृ॑तम्।  
-दू॒रात् त्वा॑ मन्य॒ उद्भृ॑तमी॒र्ष्याया॒ नाम॑ भेष॒जम्॥१॥  
+Brought hitherward from Sindhu, from a folk of every mingled race, Fetched from afar, thou art I deem, a balm that cureth. jealousy.

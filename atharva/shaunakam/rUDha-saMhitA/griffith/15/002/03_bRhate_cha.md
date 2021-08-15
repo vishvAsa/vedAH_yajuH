@@ -2,5 +2,4 @@
 title = "०३ बृहते च"
 
 +++
-बृ॒ह॒ते च॒ वै स र॑थंत॒राय॑ चादि॒त्येभ्य॑श्च॒ विश्वे॑भ्यश्च दे॒वेभ्य॒  
-आ वृ॑श्चते॒ य ए॒वं वि॒द्वांसं॒ व्रात्य॑मुप॒वद॑ति ॥३॥  
+He arose and went away to the western region. Vairupa and Vairaja, the Waters, and King Varuna followed him. He who reviles the Vratya possessing this knowledge is alienated from Vairupa and Vairaja, the Waters and Varuna the King. He who possesses this knowledge becomes the dear home of Vairupa and Vairaja, the Waters and King Varuna. In the western region Ira is his leman, Laughter his panegyrist, knowledge, etc., as above. Day and Night are his running attendants, Mind, etc., as above.

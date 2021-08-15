@@ -2,5 +2,4 @@
 title = "५४ इषीकां जरतीमिष्ट्वा"
 
 +++
-इ॒षीकां॒ जर॑तीमि॒ष्ट्वा ति॒ल्पिञ्जं॒ दण्ड॑नं न॒डम्।  
-तमिन्द्र॑ इ॒ध्मं कृ॒त्वा य॒मस्या॒ग्निं नि॒राद॑धौ ॥५४॥  
+I sought the rustling sugar-cane, white Seasamum, and cane and reed. I made this Indra's fuel, and the Fire of Yama I removed.

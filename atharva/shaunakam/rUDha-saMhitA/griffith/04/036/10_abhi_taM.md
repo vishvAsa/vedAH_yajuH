@@ -2,5 +2,4 @@
 title = "१० अभि तं"
 
 +++
-अ॒भि तं निरृ॑तिर्धत्ता॒मश्व॑मिवाश्वाभि॒धान्या॑ ।  
-म॒ल्वो यो मह्यं॒ क्रुध्य॑ति॒ स उ॒ पाशा॒न्नमु॑च्यते ॥१०॥
+Destruction seize upon the man, as with a cord they hold a horse, The fool who is enraged with me! He is not rescued from the noose.

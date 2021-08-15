@@ -2,5 +2,4 @@
 title = "०२ सोमेनादित्या बलिनः"
 
 +++
-सोमे॑नादि॒त्या ब॒लिनः॒ सोमे॑न पृथि॒वी म॒ही।  
-अथो॒ नक्ष॑त्राणामे॒षामु॒पस्थे॒ सोम॒ आहि॑तः ॥२॥  
+By Soma are the Adityas strong, by Soma mighty is the earth: Thus Soma in the lap of all these constellations hath his home.

@@ -2,4 +2,4 @@
 title = "०४ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य ।योऽस्य चतु॒र्थो व्या॒नस्तानि॒ नक्ष॑त्राणि ॥४॥  
+His fourth diffused breath are those Constellations.

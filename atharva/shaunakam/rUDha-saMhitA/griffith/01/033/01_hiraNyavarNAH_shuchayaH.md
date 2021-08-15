@@ -2,5 +2,4 @@
 title = "०१ हिरण्यवर्णाः शुचयः"
 
 +++
-हिर॑ण्यवर्णाः॒ शुच॑यः पाव॒का यासु॑ जा॒तः स॑वि॒ता यास्व॒ग्निः ।  
-या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥१॥  
+May they, the golden-hued, the bright, the splendid, they wherein Savitar was born and Agni, They who took Agni as a germ, fair-coloured, the Waters, bring felicity and bless us!

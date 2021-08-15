@@ -2,4 +2,4 @@
 title = "४१ अग्निः क्रव्याद्"
 
 +++
-अ॒ग्निः क्र॒व्याद् भू॒त्वा ब्र॑ह्मग॒वी ब्र॑ह्म॒ज्यं प्र॒विश्या॑त्ति ॥४१॥  
+Having become Flesh-eating Agni the Brahman's cow entereth into and devoureth the oppressor of Brahmans.

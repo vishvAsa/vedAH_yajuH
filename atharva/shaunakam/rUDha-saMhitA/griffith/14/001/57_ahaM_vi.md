@@ -2,5 +2,4 @@
 title = "५७ अहं वि"
 
 +++
-अ॒हं वि ष्या॑मि॒ मयि॑ रू॒पम॑स्या॒ वेद॒दित् पश्य॒न् मन॑सः कु॒लाय॑म्।  
-न स्तेय॑मद्मि॒ मन॒सोद॑मुच्ये स्व॒यं श्र॑थ्ना॒नो वरु॑णस्य॒ पाशा॑न्॥५७॥  
+I free her: he who sees, within my bosom, my heart's nest knows how her fair form hath struck me. I taste no stolen food: myself untying Varuna's nooses I am freed in spirit.

@@ -2,5 +2,4 @@
 title = "६३ परा यात"
 
 +++
-परा॑ यात पितरः सो॒म्यासो॑ गम्भी॒रैः प॒थिभिः॑ पू॒र्याणैः॑ ।  
-अधा॑ मा॒सि पुन॒रा या॑त नो गृ॒हान् ह॒विरत्तुं॑ सुप्र॒जसः॑ सु॒वीराः॑ ॥६३॥  
+Depart, O Fathers, ye who merit Soma, by the deep pathways which the Fathers travel; But in a month, rich in fair sons and heroes, come back into our homes to eat oblation.

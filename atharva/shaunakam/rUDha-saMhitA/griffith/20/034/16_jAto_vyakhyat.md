@@ -2,5 +2,4 @@
 title = "१६ जातो व्यख्यत्"
 
 +++
-जा॒तो व्यख्यत् पि॒त्रोरु॒पस्थे॒ भुवो॒ न वे॑द जनि॒तुः पर॑स्य ।  
-स्त॒वि॒ष्यमा॑णो॒ नो यो अ॒स्मद् व्र॒ता दे॒वानां॒ स ज॑नास॒ इन्द्रः॑ ॥१६॥  
+Born, manifested in his Parents' bosom, He knoweth as a son the Highest Father. He who with vigorous energy assisted the companies of Gods, He, men, is Indra

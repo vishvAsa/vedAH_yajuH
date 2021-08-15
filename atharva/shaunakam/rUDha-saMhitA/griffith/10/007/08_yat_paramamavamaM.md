@@ -2,5 +2,4 @@
 title = "०८ यत् परममवमं"
 
 +++
-यत् प॑र॒ममव॒मं यच्च॑ मध्य॒मं प्र॒जाप॑तिः ससृ॒जे वि॒श्वरू॑पम्।  
-किय॑ता स्क॒म्भः प्र वि॑वेश॒ तत्र॒ यन्न प्रावि॑श॒त् किय॒त् तद् ब॑भूव ॥८॥  
+That universe which Prajapati created, wearing all forms,, the highest, midmost, lowest, How far did Skambha penetrate within it? What portion did he leave unpenetrated?

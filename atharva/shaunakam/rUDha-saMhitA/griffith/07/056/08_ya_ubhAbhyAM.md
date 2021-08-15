@@ -2,5 +2,4 @@
 title = "०८ य उभाभ्यां"
 
 +++
-य उ॒भाभ्यां॑ प्र॒हर॑सि॒ पुच्छे॑न चा॒स्येऽन च ।  
-आ॒स्ये॒३ न ते॑ वि॒षं किमु॑ ते पुच्छ॒धाव॑सत्॥८॥
+Thou creature who inflictest wounds both with thy mouth and with thy tail, No poison in thy mouth hast thou: what at thy tail's root will there be?

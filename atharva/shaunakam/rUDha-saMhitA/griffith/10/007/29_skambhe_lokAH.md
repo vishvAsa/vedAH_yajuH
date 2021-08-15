@@ -2,5 +2,4 @@
 title = "२९ स्कम्भे लोकाः"
 
 +++
-स्क॒म्भे लो॒काः स्क॒म्भे तपः॑ स्क॒म्भेऽध्यृ॒तमाहि॑तम्।  
-स्कम्भ॑ त्वा वेद प्र॒त्यक्ष॒मिन्द्रे॒ सर्वं॑ स॒माहि॑तम्॥२९॥  
+On Skambha Fervour rests, the worlds and Holy Law repose on him. Skambha, I clearly know that all of thee on Indra is imposed.

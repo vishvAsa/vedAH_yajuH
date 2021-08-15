@@ -2,4 +2,7 @@
 title = "०२ दर्भः शोचिस्तरूणकमश्वस्य"
 
 +++
-द॒र्भः शो॒चिस्त॒रूण॑क॒मश्व॑स्य॒ वारः॑ परु॒षस्य॒ वारः॑ । रथ॑स्य॒ बन्धु॑रम्॥२॥  
+id
+10.4.2    The first of all is Indra's car, next is the c...
+10.4.2    Their lustre is the Darbha-grass, its young sh...
+Name: Comment, dtype: object

@@ -2,5 +2,4 @@
 title = "०६ यस्ते हवं"
 
 +++
-यस्ते॒ हवं वि॒वद॑त् सजा॒तो यश्च॒ निष्ट्यः॑ ।  
-अ॑पाञ्चमिन्द्र॒ तं कृ॒त्वाथे॒ममि॒हाव॑ गमय ॥६॥
+He who disputes our calling thee, be he a stranger or akin. Drive him, O Indra, far away, and do thou bring this man to us.

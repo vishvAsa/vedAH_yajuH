@@ -2,5 +2,4 @@
 title = "४९ परेयिवांसं प्रवतो"
 
 +++
-प॒रे॒यि॒वांसं॑ प्र॒वतो॑ म॒हीरिति॑ ब॒हुभ्यः॒ पन्था॑मनुपस्पशा॒नम्।
-वै॒व॒स्वतं सं॒गम॑नं॒ जना॑नां य॒मं राजा॑नं ह॒विषा॑ सपर्यत ॥४९॥
+Honour the King with your oblations, Yama, Vivasvan's son, who gathers men together. Even him who travelled o'er the mighty rivers, who searches out and shows the path to many.

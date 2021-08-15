@@ -2,5 +2,4 @@
 title = "०१ अमूः पारे"
 
 +++
-अ॒मूः पा॒रे पृ॑दा॒क्व ऽ स्त्रिष॒प्ता निर्ज॑रायवः ।  
-तासां॑ ज॒रायु॑भिर्व॒यम॒क्ष्या॒वपि॑ व्ययामस्यघा॒योः प॑रिप॒न्थिनः॑ ॥१॥  
+There on the bank those Vipers lie, thrice-seven, having cast their skins: Now we with their discarded sloughs bind close and cover up the eyes of the malicious highway thief.

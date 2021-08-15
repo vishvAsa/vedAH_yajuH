@@ -2,5 +2,4 @@
 title = "१९ प्रब्लीनो मृदितः"
 
 +++
-प्रब्ली॑नो मृदि॒तः श॑यां ह॒तो॒३मित्रो॑ न्यर्बुदे ।  
-अ॒ग्नि॒जि॒ह्वा धू॑मशि॒खा जय॑न्तीर्यन्तु॒ सेन॑या ॥१९॥  
+Stifled and crushed, O Nyarbudi, low let the smitten foeman lie. With tongue of fire and crest of smoke go conquering maidens with our host!

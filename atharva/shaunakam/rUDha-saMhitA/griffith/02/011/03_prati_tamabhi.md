@@ -2,5 +2,4 @@
 title = "०३ प्रति तमभि"
 
 +++
-प्रति॒ तम॒भि च॑र॒ यो॒ऽस्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ।  
-आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥३॥  
+Use spells against the man we hate, against the man who hateth us. Reach thy superior, thou; surpass thine equal.

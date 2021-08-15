@@ -2,5 +2,4 @@
 title = "०६ हिरण्यानामेकोऽसि सोमात्"
 
 +++
-हिर॑ण्याना॒मेको॑ऽसि॒ सोमा॒त् त्वमधि॑ जज्ञिषे ।  
-रथे॒ त्वम॑सि दर्श॒त॑ इ॑षु॒धौ रो॑च॒नस्त्वं प्र ण॒ आयूं॑षि तारिषत्॥६॥  
+Peerless 'mid golden ornaments art thou: from Soma wast thou born. Thou gleamest on the quiver, thou art beautiful upon the car: may it prolong our days of life!

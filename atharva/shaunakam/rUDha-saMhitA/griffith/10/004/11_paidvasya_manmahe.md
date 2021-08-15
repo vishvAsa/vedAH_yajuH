@@ -2,4 +2,4 @@
 title = "११ पैद्वस्य मन्महे"
 
 +++
-पै॒द्वस्य॑ मन्महे व॒यं स्थि॒रस्य॑ स्थि॒रधा॑म्नः। इ॒मे प॒श्चा पृदा॑कवः प्र॒दीध्य॑त आसते ॥११॥  
+We fix our thoughts on Pedu's horse, strong, off-spring of a stedfast line. Behind our backs the vipers here crouch down and lie in wait for us.

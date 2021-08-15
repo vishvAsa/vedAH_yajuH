@@ -2,5 +2,4 @@
 title = "०३ सो अस्य"
 
 +++
-सो अ॑स्य॒ वज्रो॒ हरि॑तो॒ य आ॑य॒सो हरि॒र्निका॑मो॒ हरि॒रा गभ॑स्त्योः ।  
-द्यु॒म्नी सु॑शि॒प्रो हरि॑मन्युसायक॒ इन्द्रे॒ नि रू॒पा हरि॑ता मिमिक्षिरे ॥३॥  
+His is that thunderbolt, of iron, golden-hued, gold-coloured, very dear, and yellow in his arms; Bright with strong teeth, destroying with its tawny rage. In Indra are set fast all forms of golden hue.

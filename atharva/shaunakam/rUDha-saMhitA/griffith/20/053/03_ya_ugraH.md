@@ -2,5 +2,4 @@
 title = "०३ य उग्रः"
 
 +++
-य उ॒ग्रः सन्ननि॑ष्टृत स्थि॒रो रणा॑य॒ संस्कृ॑तः ।  
-यदि॑ स्तो॒तुर्म॒घवा॑ शृ॒णव॒द्धवं॒ नेन्द्रो॑ योष॒त्या ग॑मत्॥३॥
+When he, the mighty, ne'er o'erthrown, stedfast, made ready for the fight. When Indra, Bounteous Lord, lists to his praiser's call, he will not stand aloof, but come.

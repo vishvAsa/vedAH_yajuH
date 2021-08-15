@@ -2,4 +2,4 @@
 title = "०६ उत नः"
 
 +++
-उ॒त नः॑ सु॒भगां॑ अ॒रिर्वो॒चेयु॑र्दस्म कृ॒ष्टयः॑ । स्यामेदिन्द्र॑स्य॒ शर्म॑णि ॥६॥  
+Or whether, God of wondrous deeds, all our true people call us blest, Still may we dwell in Indra's care.

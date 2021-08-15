@@ -2,5 +2,4 @@
 title = "०७ इन्द्र एतां"
 
 +++
-इन्द्र॑ ए॒तां स॑सृजे विद्धो अग्र॑ ऊ॒र्जां स्व॒धाम॒जरां॒ सा त॑ ए॒षा।  
-तया॒ त्वं जी॑व श॒रदः॑ सु॒वर्चा॒ मा त॒ आ सु॑स्रोद् भि॒षज॑स्ते अक्रन्॥७॥
+Erst Indra, wounded, made this strengthening portion, eternal food: thine is it, here presented. With this live full of vigour through the autumns. Let not thy strength be drained. Leeches have helped thee.

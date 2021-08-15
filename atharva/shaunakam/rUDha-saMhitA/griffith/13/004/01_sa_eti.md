@@ -2,4 +2,4 @@
 title = "०१ स एति"
 
 +++
-स ए॑ति सवि॒ता स्वऽर्दि॒वस्पृ॒ष्ठेऽव॒चाक॑शत्॥१॥  
+Down looking, on the ridge of sky Savitar goes to highest heaven.

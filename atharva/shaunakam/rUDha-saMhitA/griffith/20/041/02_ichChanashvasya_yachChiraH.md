@@ -2,4 +2,4 @@
 title = "०२ इच्छनश्वस्य यच्छिरः"
 
 +++
-इ॒च्छनश्व॑स्य॒ यच्छिरः॒ पर्वते॒ष्वप॑श्रितम्। तद् वि॑दच्छर्य॒णाव॑ति ॥२॥  
+He, searching for the horse's head, removed among the moun- tains, found At Saryanavan what he sought.

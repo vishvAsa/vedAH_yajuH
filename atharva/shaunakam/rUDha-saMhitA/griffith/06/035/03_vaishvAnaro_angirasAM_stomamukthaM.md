@@ -2,5 +2,4 @@
 title = "०३ वैश्वानरोऽङ्गिरसां स्तोममुक्थं"
 
 +++
-वै॒श्वा॒न॒रोऽङ्गि॑रसां॒ स्तोम॑मु॒क्थं च॑ चाक्लृपत्।
-ऐषु॑ द्यु॒म्नं स्वऽर्यमत्॥३॥
+Vaisvanara hath formed the hymn and laud of the Angirases. To these may he bring glorious right.

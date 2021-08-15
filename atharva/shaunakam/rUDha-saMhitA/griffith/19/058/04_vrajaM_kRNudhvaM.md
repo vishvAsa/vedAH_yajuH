@@ -2,5 +2,4 @@
 title = "०४ व्रजं कृणुध्वं"
 
 +++
-व्र॒जं कृ॑णुध्वं॒ स हि वो॑ नृ॒पाणो॒ वर्मा॑ सीव्यध्वं बहु॒ला पृ॒थूनि॑ ।  
-पुरः॑ कृणुध्व॒माय॑सी॒रधृ॑ष्टा॒ मा वः॑ सुस्रोच्चम॒सो दृं॑हता॒ तम्॥४॥  
+Prepare the cow-stall, for there drink your heroes: stitch ye the coats of armour wide and many. Make iron forts defying all assailants: let not your pitcher leak; stay it securely.

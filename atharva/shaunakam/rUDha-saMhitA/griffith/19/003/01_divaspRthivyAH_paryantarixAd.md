@@ -2,5 +2,4 @@
 title = "०१ दिवस्पृथिव्याः पर्यन्तरिक्षाद्"
 
 +++
-दि॒वस्पृ॑थि॒व्याः पर्य॒न्तरि॑क्षा॒द् वन॒स्पति॑भ्यो॒ अध्योष॑धीभ्यः ।  
-यत्र॑यत्र॒ विभृ॑तो जा॒तवे॑दा॒स्तत॑ स्तु॒तो जु॒षमा॑णो न॒ एहि॑ ॥१॥  
+Whithersoe'er, from sky, earth, air's mid-regions from plants ands herbs, from tall trees, Jatavedas. Is carried here and there to divers places, even thence come thou to us with loving-kindness.

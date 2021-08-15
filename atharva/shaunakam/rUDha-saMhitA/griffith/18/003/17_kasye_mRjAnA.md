@@ -2,5 +2,4 @@
 title = "१७ कस्ये मृजाना"
 
 +++
-क॒स्ये मृ॒जाना॒ अति॑ यन्ति रि॒प्रमायु॒र्दधा॑नाः प्रत॒रं नवी॑यः ।  
-आ॒प्याय॑मानाः प्र॒जया॑ धने॒नाध॑ स्याम सुर॒भयो॑ गृ॒हेषु॑ ॥१७॥  
+They, making for themselves a new existence, wash off defilement in the brazen vessel. May we be fragrant in our houses, ever increasing in our children and our riches.

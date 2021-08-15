@@ -2,5 +2,4 @@
 title = "०२ ऊर्वोरोजो जङ्घयोर्जवः"
 
 +++
-ऊ॒र्वोरोजो॒ जङ्घ॑योर्ज॒वः पाद॑योः ।  
-प्र॒ति॒ष्ठा अरि॑ष्टानि मे॒ सर्वा॒त्मानि॑भृष्टः ॥२॥
+May I have power in my thighs, swiftness in my legs, stedfast- ness in my feet. May all my members be uninjured and my soul unimpaired.

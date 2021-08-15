@@ -2,5 +2,4 @@
 title = "०३ नहि ते"
 
 +++
-न॒हि ते॒ नाम॑ ज॒ग्राह॒ नो अ॒स्मिन् र॑मसे॒ पतौ॑ ।  
-परा॑मे॒व प॑रा॒वतं॑ स॒पत्नीं॑ गमयामसि ॥३॥  
+Indeed he hath not named her name: thou with this husband dalliest not, Far into distance most remote we drive the rival wife away.

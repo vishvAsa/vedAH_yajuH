@@ -2,5 +2,4 @@
 title = "०९ घृतेन सीता"
 
 +++
-घृ॒तेन॒ सीता॒ मधु॑ना॒ सम॑क्ता॒ विश्वै॑र्दे॒वैरनु॑मता म॒रुद्भिः॑ ।  
-सा नः॑ सीते॒ पय॑सा॒भ्याव॑वृ॒त्स्वोर्ज॑स्वती घृ॒तव॒त् पिन्व॑माना ॥९॥
+Loved by the Visvedevas and the Maruts, let Sita be bedewed. with oil and honey. Turn thou to us with wealth of milk, O Sita, in vigorous strength and pouring streams of fatness.

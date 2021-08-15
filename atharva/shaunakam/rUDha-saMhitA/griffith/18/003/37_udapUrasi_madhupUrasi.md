@@ -2,4 +2,4 @@
 title = "३७ उदपूरसि मधुपूरसि"
 
 +++
-उ॒द॒पूर॑सि मधु॒पूर॑सि वात॒पूर॑सि ॥३७॥  
+Who purifiest wind and mead and water.

@@ -2,5 +2,4 @@
 title = "०४ ऐभिरग्ने सरथं"
 
 +++
-ऐभि॑रग्ने स॒रथं॑ याह्य॒र्वाङ ना॑नार॒थं वा॑ वि॒भवो॒ ह्यश्वाः॑ ।  
-पत्नी॑वतस्त्रिं॒शतं॒ त्रींश्च॑ दे॒वान॑नुष्व॒धमां व॑ह मा॒दय॑स्व ॥४॥
+With these, borne on one car, Agni, approach us; or borne on many, for thy steeds are able. Bring, with their Dames, the Gods, the Three-and-Thirty, after thy Godlike nature, and he joyful.

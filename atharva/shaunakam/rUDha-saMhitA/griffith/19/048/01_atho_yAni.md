@@ -2,5 +2,4 @@
 title = "०१ अथो यानि"
 
 +++
-अथो॒ यानि॑ च॒ यस्मा॑ ह॒ यानि॑ चा॒न्तः प॑री॒णहि॑ ।  
-तानि॑ ते॒ परि॑ दद्मसि ॥१॥  
+Then all that we accumulate, all that the treasure-chest contains,. All this do we entrust to thee.

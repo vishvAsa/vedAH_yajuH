@@ -2,5 +2,4 @@
 title = "०७ योऽथर्वाणं पितरं"
 
 +++
-योऽथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुं॒ बृह॒स्पतिं॒ नम॒साव॑ च॒ गछा॑त्।  
-त्वं विश्वे॑षां जनि॒ता यथास॑ क॒विर्दे॒वो न दभा॑यत् स्व॒धावा॑न्॥७॥
+The man who seeks the friend of Gods, Atharvan the father, and Brihaspati, with worship, Crying to him, Be thou all things' creator! the wise God, self- dependent, never injures.

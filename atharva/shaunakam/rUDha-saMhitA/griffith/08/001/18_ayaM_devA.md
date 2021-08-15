@@ -2,5 +2,4 @@
 title = "१८ अयं देवा"
 
 +++
-अ॒यं दे॑वा इ॒हैवास्त्व॒यं मामुत्र॑ गादि॒तः ।  
-इ॒मं स॒हस्र॑वीर्येण मृ॒त्योरुत् पा॑रयामसि ॥१८॥  
+Here let this man, O Gods, remain: let him not go to yonder world. We rescue him from Mrityu with a charm that hath a thousand powers.

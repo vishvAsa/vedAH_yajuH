@@ -2,5 +2,4 @@
 title = "०१ दोषो गाय"
 
 +++
-दो॒षो गा॑य बृ॒हद् गा॑य द्यु॒मद् धे॑हि ।  
-आथ॑र्वण स्तु॒हि दे॒वं स॑वि॒तार॑म्॥१॥  
+Sing, Atharvana, at eve, sing loudly, bring a splendid present: hymn God Savitar with praises.

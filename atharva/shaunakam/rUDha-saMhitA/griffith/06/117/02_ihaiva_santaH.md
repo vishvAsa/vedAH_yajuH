@@ -2,5 +2,4 @@
 title = "०२ इहैव सन्तः"
 
 +++
-इ॒हैव सन्तः॒ प्रति॑ दद्म एनज्जी॒वा जी॒वेभ्यो॒ नि ह॑राम एनत्।  
-अ॒प॒मित्य॑ धा॒न्यं॑१ यज्ज॒घसा॒हमि॒दं तद॑ग्ने अनृ॒णो भ॑वामि ॥२॥  
+Still dwelling here we give again this present; we send it forth, the living from the living. Throwing away the grain whence I have eaten, thereby shall I be free from debt, O Agni.

@@ -2,5 +2,4 @@
 title = "०८ उरुव्यचा नो"
 
 +++
-उ॒रु॒व्यचा॑ नो महि॒षः शर्म॑ यछत्व॒स्मिन् हवे॑ पुरुहू॒तः पु॑रु॒क्षु।  
-स नः॑ प्र॒जायै॑ हर्यश्व मृ॒डेन्द्र॒ मा नो॑ रीरिषो॒ मा परा॑ दाः ॥८॥  
+Foodful and much-invoked, at this our calling may the far- reaching Bull grant us wide shelter. Lord of bay coursers, Indra, bless our children: harm us not, give us not as prey to others.

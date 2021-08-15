@@ -2,5 +2,4 @@
 title = "०३ दिवो मूलमवततं"
 
 +++
-दि॒वो मूल॒मव॑ततं पृथि॒व्या अध्युत्त॑तम्।  
-तेन॑ स॒हस्र॑काण्डेन॒ परि॑ णः पाहि वि॒श्वतः॑ ॥३॥  
+Spread on the surface of the earth, downward from heaven thy root depends: With this that hath a thousand joints keep thou us safe on every side.

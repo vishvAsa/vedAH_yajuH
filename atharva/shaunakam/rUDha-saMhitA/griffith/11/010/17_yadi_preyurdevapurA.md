@@ -2,5 +2,4 @@
 title = "१७ यदि प्रेयुर्देवपुरा"
 
 +++
-यदि॑ प्रे॒युर्दे॑वपु॒रा ब्रह्म॒ वर्मा॑णि चक्रि॒रे।  
-त॒नू॒पानं॑ परि॒पाणं॑ कृण्वा॒ना यदु॑पोचि॒रे सर्वं॒ तद॑र॒सं कृ॑धि ॥१७॥  
+If they have issued forth strongholds of Gods, and made their shields of prayer, Gaining protection for their lives, protection round about, make all their instigation powerless

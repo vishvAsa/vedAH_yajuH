@@ -2,5 +2,4 @@
 title = "०३ त्वष्टा जायामजनयत्"
 
 +++
-त्वष्टा॑ जा॒याम॑जनय॒त् त्वष्टा॑स्यै॒ त्वां पति॑म्।  
-त्वष्टा॑ स॒हस्र॒मायूं॑षि दी॒र्घमायुः॑ कृणोतु वाम्॥३॥
+Tvashtar formed her to be thy dame, Tvashtar made thee to be her lord. Long life let Tvashtar give you both. Let Tvashtar give a thousand lives.

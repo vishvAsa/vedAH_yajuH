@@ -2,6 +2,4 @@
 title = "०६ द्यैर्धेनुस्तस्या आदित्यो"
 
 +++
-द्यैर्धे॒नुस्तस्या॑ आदि॒त्यो व॒त्सः ।  
-सा म॑ आदि॒त्येन॑ व॒त्सेने॑ष॒मूर्जं॒ कामं॑ दुहाम्।  
-आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥६॥  
+Heaven is the Cow, her calf Aditya. May she yield with her calf the Sun food, strength, and all my wish, life first of all, and offspring, plenty, wealth. All Hail!

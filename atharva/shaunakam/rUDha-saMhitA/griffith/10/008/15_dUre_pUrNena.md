@@ -2,5 +2,4 @@
 title = "१५ दूरे पूर्णेन"
 
 +++
-दू॒रे पू॒र्णेन॑ वसति दू॒र ऊ॒नेन॑ हीयते ।  
-म॒हद् य॒क्षं भुव॑नस्य॒ मध्ये॒ तस्मै॑ ब॒लिं रा॑ष्ट्र॒भृतो॑ भरन्ति ॥१५॥  
+With the full vase he dwells afar, is left far off what time it fails, A mighty Being in creation's centre: to him the rulers of the realms bring tribute.

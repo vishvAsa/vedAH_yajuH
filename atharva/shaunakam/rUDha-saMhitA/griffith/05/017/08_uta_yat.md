@@ -2,5 +2,4 @@
 title = "०८ उत यत्"
 
 +++
-उत यत् पत॑यो॒ दश॑ स्त्रि॒याः पूर्वे॒ अब्रा॑ह्मणाः ।  
-ब्र॒ह्माचेद्धस्त॒मग्र॑ही॒त् स ए॒व पति॑रेक॒धा॥८॥  
+Even if ten former husbands--none a Brahman--had espoused a dame, And then a Brahman took her hand, he is her husband, only he,

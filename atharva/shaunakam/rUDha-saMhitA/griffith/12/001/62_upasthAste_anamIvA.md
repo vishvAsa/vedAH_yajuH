@@ -2,5 +2,4 @@
 title = "६२ उपस्थास्ते अनमीवा"
 
 +++
-उ॒प॒स्थास्ते॑ अनमी॒वा अ॑य॒क्ष्मा अ॒स्मभ्यं॑ सन्तु पृथिवि॒ प्रसू॑ताः ।  
-दी॒र्घं न॒ आयुः॑ प्रति॒बुध्य॑माना व॒यं तुभ्यं॑ बलि॒हृतः॑ स्याम ॥६२॥  
+Let thy breasts, frec from sickness and Consumption, be. Prithivi, produced for our advantage. Through long-extended life wakeful and watching still may we be thy tributary servants.

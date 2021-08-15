@@ -2,5 +2,4 @@
 title = "०२ यद्धिरण्यं सूर्येण"
 
 +++
-यद्धिर॑ण्यं॒ सूर्ये॑ण सु॒वर्णं प्र॒जाव॑न्तो॒ मन॑वः॒ पूर्व॑ ईषि॒रे।  
-तत् त्वा॑ च॒न्द्रं वर्च॑सा॒ सं सृ॑ज॒त्यायु॑ष्मान् भवति॒ यो बि॒भर्ति॑ ॥२॥  
+The men of ancient time with children round them longed for this Gold, bright with the Sun's own colour, This shall endow thee, as it shines, with splendour, and long shall be the life of him who wears it.

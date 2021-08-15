@@ -2,5 +2,4 @@
 title = "०४ दिवि जातः"
 
 +++
-दि॒वि जा॒तः स॑मुद्र॒जः सि॑न्धु॒तस्पर्याभृ॑तः ।  
-स नो॑ हिरण्य॒जाः श॒ङ्ख आ॑युष्प्र॒तर॑णो म॒णिः ॥४॥  
+Born in the heaven, sprung from the sea, brought to us hither from the flood. This gold-born Shell shall be to us an amulet to lengthen life.

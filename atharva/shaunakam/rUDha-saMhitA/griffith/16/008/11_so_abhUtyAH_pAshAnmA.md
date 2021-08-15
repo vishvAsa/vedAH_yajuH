@@ -2,4 +2,4 @@
 title = "११ सोऽभूत्याः पाशान्मा"
 
 +++
-सोऽभू॑त्याः॒ पाशा॒न्मा मो॑चि॥३॥  
+Whatever, etc. Let him not be freed from the noose of the Angirases, etc.

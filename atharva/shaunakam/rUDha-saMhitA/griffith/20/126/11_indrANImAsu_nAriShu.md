@@ -2,5 +2,4 @@
 title = "११ इन्द्राणीमासु नारिषु"
 
 +++
-इ॒न्द्रा॒णीमा॒सु नारि॑षु सु॒भगा॑म॒हम॑श्रवम्।  
-न॒ह्यऽस्या अप॒रं च॒न ज॒रसा॒ मर॑ते॒ पति॒र्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥११॥  
+So have I heard Indrani called most fortunate among these dames, For never shall her Consort die in future time through length of days. Supreme is Indra over all.

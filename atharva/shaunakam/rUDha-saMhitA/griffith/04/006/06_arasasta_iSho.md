@@ -2,5 +2,4 @@
 title = "०६ अरसस्त इषो"
 
 +++
-अ॒र॒सस्त॑ इषो श॒ल्योऽथो॑ ते अ॒र॒सं वि॒षम्।  
-उ॒तार॒सस्य॑ वृ॒क्षस्य॒ धनु॑ष्टे अरसार॒सम्॥६॥  
+Feeble, O Arrow, is thy shaft, thy poison, too, hath lost its strength. Made of a worthless tree, thy bow, O feeble one, is impotent.

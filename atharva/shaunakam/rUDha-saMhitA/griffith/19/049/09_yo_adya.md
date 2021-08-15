@@ -2,5 +2,4 @@
 title = "०९ यो अद्य"
 
 +++
-यो अ॒द्य स्ते॒न आय॑त्यघा॒युर्मर्त्यो॑ रि॒पुः ।  
-रात्री॒ तस्य॑ प्र॒तीत्य॒ प्र ग्री॒वाः प्र शिरो॑ हनत्॥९॥  
+Whatever robber comes to-day, mischievous mortal enemy. Let Night go forth, encounter him, and smite away his neck and head;

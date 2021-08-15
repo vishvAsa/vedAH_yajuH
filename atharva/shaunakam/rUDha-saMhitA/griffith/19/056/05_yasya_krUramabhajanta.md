@@ -2,5 +2,4 @@
 title = "०५ यस्य क्रूरमभजन्त"
 
 +++
-यस्य॑ क्रू॒रमभ॑जन्त दु॒ष्कृतो॒ऽस्वप्ने॑न सु॒कृतः॒ पुण्य॒मायुः॑ ।  
-स्वर्मदसि पर॒मेण॑ ब॒न्धुना॑ त॒प्यमा॑नस्य॒ मन॒सोऽधि॑ जज्ञिषे ॥५॥  
+Thou whose severity hath reached ill-doers, and whose reward the good have gained in slumber, Delightest heaven with thy most lofty kinship, born from his spirit who was worn and weary.

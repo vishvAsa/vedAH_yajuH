@@ -2,6 +2,4 @@
 title = "१० प्र पादौ"
 
 +++
-प्र पादौ॒ न यथाय॑ति॒ प्र हस्तौ॒ न यथाशि॑षत्।  
-यो म॑लि॒म्लुरु॒पाय॑ति॒ स संपि॑ष्टो॒ अपा॑यति ।  
-अपा॑यति॒ स्वपा॑यति॒ शुष्के॑ स्था॒णावपा॑यति ॥१०॥
+His feet that he may walk no more, his hands that he may do no harm. The robber who comes hitherward goes crushed and mutilated hence, Goes hence, goes far away from us, goes hence and bears no spoil away.

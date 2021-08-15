@@ -2,5 +2,7 @@
 title = "०२ परेणैतु पथा"
 
 +++
-परे॑णैतु प॒था वृकः॑ पर॒मेणो॒त तस्क॑रः ।  
-परे॑ण द॒त्वती॒ रज्जुः॒ परे॑णाघा॒युर॑र्षतु ॥२॥  
+id
+4.3.2    On distant pathway go the wolf, on pathway mos...
+4.3.2    On distant pathway go the wolf, on pathway mos...
+Name: Comment, dtype: object

@@ -2,5 +2,4 @@
 title = "०८ संकर्षन्ती करूकरं"
 
 +++
-सं॒कर्ष॑न्ती क॒रूक॑रं॒ मन॑सा पु॒त्रमि॒च्छ॑न्ती॑ ।  
-पतिं॒ भ्रात॑र॒मात्स्वान् र॑दि॒ते अ॑र्बुदे॒ तव॑ ॥८॥  
+Snatching away the vertebra, while with her thought she seeks her son, Her husband, brother, kin, when one, Arbudi! hath been pierc- ed by thee.

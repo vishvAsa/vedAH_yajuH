@@ -2,5 +2,4 @@
 title = "०३ मधुमन्मे निक्रमणं"
 
 +++
-मधु॑मन्मे नि॒क्रम॑णं॒ मधु॑मन्मे प॒राय॑णम्।  
-वा॒चा व॑दामि॒ मधु॑मद् भू॒यासं॒ मधु॑संदृशः ॥३॥  
+My coming in is honey-sweet and honey-sweet, my going forth: My voice and words are sweet: I fain would be like honey in my look.

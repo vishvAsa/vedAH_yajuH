@@ -2,5 +2,4 @@
 title = "०१ वाताज्जातो अन्तरिक्षाद्"
 
 +++
-वाता॑ज्जा॒तो अ॒न्तरि॑क्षाद् वि॒द्युतो॒ ज्योति॑ष॒स्परि ।  
-स नो॑ हिरण्य॒जाः श॒ङ्खः कृश॑नः पा॒त्वंह॑सः ॥१॥  
+Child of the wind firmament, sprung from the lightning and the light, May this the gold-born Shell that bears the pearl preserve us from distress.

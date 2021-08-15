@@ -2,5 +2,4 @@
 title = "०३ यः प्रथमः"
 
 +++
-यः प्र॑थ॒मः प्र॒वत॑मास॒साद॑ ब॒हुभ्यः॒ पन्था॑मनुपस्पशा॒नः ।  
-यो॒३स्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पद॒स्तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥३॥
+Be reverence paid to him who, while exploring the path for many, first approached the river, Lord of this world of quadrupeds and bipeds; to him be rever- ence paid, to Death, to Yama!

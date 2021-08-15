@@ -2,5 +2,4 @@
 title = "०४ प्रेतं पादौ"
 
 +++
-प्रेतं॑ पादौ॒ प्र स्फु॑रतं॒ वह॑तं पृण॒तो गृ॒हान्।  
-इ॒न्द्रा॒ण्येऽतु प्रथ॒माजी॒तामु॑षिता पु॒रः ॥४॥
+Go forward, feet, press quickly on, bring to the house of him who pays. Unconquered and unplundered, let Indranf, foremost, lead the way.

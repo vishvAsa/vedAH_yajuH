@@ -2,4 +2,4 @@
 title = "१५ स निर्भूत्याः"
 
 +++
-स निर्भू॑त्याः॒ पाशा॒न्मा मो॑चि॥३॥  
+Whatever, etc. Let him not be freed from the noose of the Trees, etc.

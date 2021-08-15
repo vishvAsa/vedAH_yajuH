@@ -2,5 +2,4 @@
 title = "०९ दिवस्त्वा पातु"
 
 +++
-दि॒वस्त्वा॑ पातु॒ हरि॑तं॒ मध्या॑त् त्वा पा॒त्वर्जु॑नम्।  
-भूम्या॑ अय॒स्मयं॑ पातु॒ प्रागा॑द् देवपु॒रा अ॒यम्॥९॥  
+The golden guard thee from the sky, the silvern guard thee from the air, The iron guard thee from the earth! This man hath reached the forts of Gods.

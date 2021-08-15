@@ -2,4 +2,4 @@
 title = "०७ एमाशुमाशवे भर"
 
 +++
-एमा॒शुमा॒शवे॑ भर यज्ञ॒श्रियं॑ नृ॒माद॑नम्। प॒त॒यन्म॑न्द॒यत्स॑खम्॥७॥  
+Unto the swift One bring the swift, man-cheering, grace of sacrifice. That to the Friend gives wings and joy.

@@ -2,5 +2,4 @@
 title = "०३ तर्दापते वघापते"
 
 +++
-तर्दा॑पते॒ वघा॑पते॒ तृष्ट॑जम्भा॒ आ शृ॑णोत मे ।  
-य आ॑र॒ण्या व्यऽद्व॒रा ये के च॒ स्थ व्यऽद्वरास्तान्त्सर्वा॑न् जम्भयामसि ॥३॥
+Hearken to me, lord of the female borer, lord of the female grub! ye rough-toothed vermin! Whate'er ye be, dwelling in woods, and piercing, we crush and mangle all those piercing insects.

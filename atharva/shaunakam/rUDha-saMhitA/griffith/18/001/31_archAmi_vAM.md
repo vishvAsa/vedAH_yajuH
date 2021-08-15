@@ -2,5 +2,4 @@
 title = "३१ अर्चामि वां"
 
 +++
-अर्चा॑मि वां॒ वर्धा॒यापो॑ घृतस्नू॒ द्यावा॑भूमी शृणु॒तं रो॑दसी मे ।
-अहा॒ यद् दे॒वा असु॑नीति॒माय॒न् मध्वा॑ नो॒ अत्र॑ पि॒तरा॑ शिशीताम्॥३१॥
+I praise your work .that ye may make me prosper: hear, Heaven and Earth, twain worlds that drop with fatness! While days and Gods go to the world of spirits, have let the Parents with sweet mead refresh us.

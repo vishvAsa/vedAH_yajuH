@@ -2,5 +2,4 @@
 title = "१३ यथा सोमस्तृतीये"
 
 +++
-यथा॒ सोम॑स्तृ॒तीये॒ सव॑न ऋभू॒णां भव॑ति प्रि॒यः ।  
-ए॒वा म॑ ऋभवो॒ वर्च॑ आ॒त्मनि॑ ध्रियताम्॥१३॥  
+As at third sacrifice Soma is the Ribhus' well-beloved one, Even so may they, the Ribhus, store splendour and strength within my soul.

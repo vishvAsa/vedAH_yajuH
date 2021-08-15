@@ -2,5 +2,4 @@
 title = "०४ स्व१र्यन्तो नापेक्षन्त"
 
 +++
-स्व॑१र्यन्तो॒ नापे॑क्षन्त॒ आ द्यां रो॑हन्ति॒ रोद॑सी ।  
-य॒ज्ञं ये वि॒श्वतो॑धारं॒ सुवि॑द्वांसो वितेनि॒रे॥४॥  
+Mounting the sky they look not round; they rise to heaven through both the worlds, Sages who paid the sacrifice that pours its streams on every side.

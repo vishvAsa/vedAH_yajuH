@@ -2,5 +2,4 @@
 title = "०८ वाजस्य नु"
 
 +++
-वाज॑स्य॒ नु प्र॑स॒वे सं ब॑भूविमे॒मा च॒ विश्वा॒ भुव॑नान्य॒न्तः ।  
-उ॒तादि॑त्सन्तं दापयतु प्रजा॒नन् र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑छ ॥८॥  
+Now have we reached the ordering of power, and all these worlds of life are held within it. Let him who knows urge e'en the churl to bounty Give wealth. to us with all good men about us.

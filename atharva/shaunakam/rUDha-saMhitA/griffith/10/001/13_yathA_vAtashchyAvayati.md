@@ -2,5 +2,4 @@
 title = "१३ यथा वातश्च्यावयति"
 
 +++
-यथा॒ वात॑श्च्या॒वय॑ति॒ भूम्या॑ रे॒णुम॒न्तरि॑क्षाच्चा॒भ्रम्।  
-ए॒वा मत् सर्वं॑ दुर्भू॒तं ब्रह्म॑नुत्त॒मपा॑यति ॥१३॥  
+As the wind stirs the dust from earth and drives the rain cloud from the sky, So, chased and banished by the spell, all misery departs from me.

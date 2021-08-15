@@ -2,5 +2,4 @@
 title = "३७ इदं कसाम्बु"
 
 +++
-इ॒दं कसा॑म्बु॒ चय॑नेन चि॒तं तत् स॑जाता॒ अव॑ पश्य॒तेत॑ ।  
-मर्त्यो॒ऽयम॑मृत॒त्वमे॑ति॒ तस्मै॑ गृ॒हान् कृ॑णुत याव॒त्सब॑न्धु ॥३७॥  
+This pile of wood, collected, heaped together, regard it, O ye, kinsmen, and come near it. To immortality this mortal goeth: prepare a home for him, all ye his kindred.

@@ -2,5 +2,4 @@
 title = "०४ पुरस्तात् ते"
 
 +++
-पु॒रस्ता॑त् ते नमः॑ कृण्म उत्त॒राद॑ध॒रादु॒त।  
-अ॒भी॒व॒र्गाद् दि॒वस्पर्य॒न्तरि॑क्षाय ते॒ नमः॑ ॥४॥  
+We offer reverence to thee from eastward, and from north and south, From all the compass of the sky, to thee and to the firmament.

@@ -2,5 +2,4 @@
 title = "०४ विष्टारिणमोदनं ये"
 
 +++
-वि॒ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॑न् य॒मः परि॑ मुष्णाति॒ रेतः॑ ।  
-र॒थी ह॑ भू॒त्वा र॑थ॒यान॑ ईयते प॒क्षी ह॑ भू॒त्वाति॒ दिवः॒ समे॑ति ॥४॥  
+Yama robs not of generative vigour the men who dress oblation called Vishtari. Borne on his car, a charioteer, he travels: endowed with wings he soars beyond the heavens.

@@ -2,5 +2,4 @@
 title = "०२ आसुरी चक्रे"
 
 +++
-आ॒सु॒री च॑क्रे प्रथ॒मेदं कि॑लासभेष॒जमि॒दं कि॑लास॒नाश॑नम्।  
-अनी॑नशत् कि॒लासं॒ सरू॑पामकर॒त् त्वच॑म्॥२॥  
+The Asuri made, first of all, this medicine for leprosy, this banisher of leprosy. She banished leprosy, and gave one general colour to the skin.

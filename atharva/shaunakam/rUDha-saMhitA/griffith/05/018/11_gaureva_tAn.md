@@ -2,5 +2,4 @@
 title = "११ गौरेव तान्"
 
 +++
-गौरे॒व तान् ह॒न्यमा॑ना वैतह॒व्याँ अवा॑तिरत्।  
-ये केस॑रप्राबन्धायाश्चर॒माजा॒मपे॑चिरन्॥११॥  
+The cow, indeed, when she was slain o'erthrew those Vaitahavyas, who Cooked the last she-goat that remained of Kesaraprabandha's flock.

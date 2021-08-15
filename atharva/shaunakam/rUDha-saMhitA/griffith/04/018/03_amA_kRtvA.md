@@ -2,5 +2,4 @@
 title = "०३ अमा कृत्वा"
 
 +++
-अ॒मा कृ॒त्वा पा॒प्मानं॒ यस्तेना॒न्यं जिघां॑सति ।  
-अश्मा॑न॒स्तस्यां॑ द॒ग्धायां॑ बहु॒लाः फट् क॑रिक्रति ॥३॥  
+When one puts poison in a dish of unbaked clay to kill a man, It cracks when set upon the fire with the sharp sound of many stones.

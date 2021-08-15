@@ -2,5 +2,4 @@
 title = "३० श्राम्यतः पचतो"
 
 +++
-श्राम्य॑तः॒ पच॑तो विद्धि सुन्व॒तः पन्थां॑ स्व॒र्गमधि॑ रोहयैनम्।  
-येन॒ रोहा॒त् पर॑मा॒पद्य॒ यद् वय॑ उत्त॒मं नाकं॑ पर॒मं व्योऽम ॥३०॥॥  
+Mark him who toils and cooks and pours oblation: make this man climb the path that leads to heaven, That he may mount and reach life that is highest, ascending to the loftiest vault above us.

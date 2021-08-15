@@ -2,5 +2,4 @@
 title = "०४ इदं यत्"
 
 +++
-इ॒दं यत् प॑रमे॒ष्ठिनं॒ मनो॑ वां॒ ब्रह्म॑संशितम्।  
-येनै॒व स॑सृ॒जे घो॒रं तेनै॒व शान्ति॑रस्तु नः ॥४॥  
+Or, made more keen by Prayer, this mind that standeth in the highest place, Whereby the awful spell was made, even through this be peace to us!

@@ -2,5 +2,4 @@
 title = "११ शमग्ने पश्चात्"
 
 +++
-शम॑ग्ने प॒श्चात् त॑प॒ शं पु॒रस्ता॒च्छमु॑त्त॒राच्छम॑ध॒रात् त॑पैनम्।  
-एक॑स्त्रे॒धा विहि॑तो जातवेदः स॒म्यगे॑नं धेहि सु॒कृता॑मु लो॒के॥११॥  
+Happily from the rear burn this man, Agni, happily from before, above, and under. One, triply parted, Jatavedas, place him happily in the world that holds the righteous.

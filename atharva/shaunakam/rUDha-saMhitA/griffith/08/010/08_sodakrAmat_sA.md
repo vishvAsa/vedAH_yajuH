@@ -2,4 +2,4 @@
 title = "०८ सोदक्रामत् सा"
 
 +++
-सोद॑क्राम॒त् सा स॒भायां॒ न्यऽक्रामत्॥८॥  
+She mounted up, and, into four divided, she took her station in the air's mid-region.

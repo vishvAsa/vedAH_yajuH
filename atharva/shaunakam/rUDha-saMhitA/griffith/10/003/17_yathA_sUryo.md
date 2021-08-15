@@ -2,6 +2,4 @@
 title = "१७ यथा सूर्यो"
 
 +++
-यथा॒ सूर्यो॑ अति॒भाति॒ यथा॑स्मि॒न् तेज॒ आहि॑तम्।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु॒  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥१७॥  
+As Surya shines with brightest sheen, as splendour hath been stored in him, So may the Charm, the Varana, give me prosperity and fame. With lustre let it sprinkle me, and balm me with magni- ficence.

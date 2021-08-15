@@ -2,5 +2,4 @@
 title = "०६ असद् भूम्याः"
 
 +++
-अस॒द् भूम्याः॒ सम॑भव॒त् तद् यामे॑ति म॒हद् व्यचः॑ ।  
-तद् वै ततो॑ विधू॒पाय॑त् प्र॒त्यक् क॒र्तार॑मृच्छतु ॥६॥  
+The evil sprang from earth; it mounts to heaven and spreads to vast extent. Reverted, shaking him with might, thence on its maker let it fall.

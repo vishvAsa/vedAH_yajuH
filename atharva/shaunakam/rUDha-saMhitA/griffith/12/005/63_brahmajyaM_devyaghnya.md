@@ -2,4 +2,4 @@
 title = "६३ ब्रह्मज्यं देव्यघ्न्य"
 
 +++
-ब्र॒ह्म॒ज्यं दे॑व्यघ्न्य॒ आ मूला॑दनु॒संद॑ह ॥६३॥  
+Consume thou, even from the root, the Brahmans' tyrant, god- like Cow!

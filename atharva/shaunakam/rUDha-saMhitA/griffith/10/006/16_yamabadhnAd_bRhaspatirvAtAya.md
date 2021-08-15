@@ -2,6 +2,4 @@
 title = "१६ यमबध्नाद् बृहस्पतिर्वाताय"
 
 +++
-यमब॑ध्ना॒द् बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑ ।  
-तं दे॒वा बिभ्र॑तो म॒णिं सर्वां॑ल्लो॒कान् यु॒धाज॑यन्।  
-स ए॑भ्यो॒ जिति॒मिद् दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥१६॥  
+Wearing this Amulet the Gods conquered in battle all the worlds. This yieldeth victory for them, again, etc.

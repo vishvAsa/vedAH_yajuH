@@ -2,5 +2,4 @@
 title = "११ द्वादश वा"
 
 +++
-द्वाद॑श॒ वा ए॒ता रात्री॒र्व्रत्या॑ आहुः प्र॒जाप॑तेः ।  
-तत्रोप॒ ब्रह्म॒ यो वेद॒ तद् वा अ॑न॒डुहो॑ व्र॒तम्॥११॥  
+Assigned are these twelve nights, they say, as holy to Prajapati: Whoever knows their proper prayer performs the service of the Ox.

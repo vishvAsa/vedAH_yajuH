@@ -2,5 +2,4 @@
 title = "०१ ओ चित्"
 
 +++
-ओ चि॒त् सखा॑यं स॒ख्या व॑वृत्यां ति॒रः पु॒रु चि॑दर्ण॒वं ज॑ग॒न्वान्।
-पि॒तुर्नपा॑त॒मा द॑धीत वे॒धा अधि॒ क्षमि॑ प्रत॒रं दीध्या॑नः॥१॥
+Fain would I win my friend to kindly friendship. So may the Sage, come through the air's wide ocean, Remembering the earth and days to follow, obtain a son the issue of his father.

@@ -2,5 +2,4 @@
 title = "१९ अषाल्हमुग्रं पृतनासु"
 
 +++
-अषा॑ल्हमु॒ग्रं पृत॑नासु सास॒हिं यस्मि॑न् म॒हीरु॑रु॒ज्रयः॑ ।  
-सं धे॒नवो॒ जाय॑माने अनोनवु॒र्द्यावः॒ क्षामो॑ अनोनवुः ॥१९॥  
+The potent Conqueror, invincible in war, him at whose birth the mighty ones, The kine who spread afar, sent their loud voices out, heavens, earths sent their loud voices out.

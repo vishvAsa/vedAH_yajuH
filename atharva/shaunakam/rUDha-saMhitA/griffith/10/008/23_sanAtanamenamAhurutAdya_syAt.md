@@ -2,5 +2,4 @@
 title = "२३ सनातनमेनमाहुरुताद्य स्यात्"
 
 +++
-स॒ना॒तन॑मेनमाहुरु॒ताद्य स्या॒त् पुन॑र्णवः ।  
-अ॒हो॒रा॒त्रे प्र जा॑येते अ॒न्यो अ॒न्यस्य॑ रू॒पयोः॑ ॥२३॥  
+Him too they call eternal; he may become new again to-day. Day and Night reproduce themselves, each from the form the other wears.

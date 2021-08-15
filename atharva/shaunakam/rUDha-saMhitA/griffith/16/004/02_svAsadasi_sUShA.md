@@ -2,4 +2,4 @@
 title = "०२ स्वासदसि सूषा"
 
 +++
-स्वा॒सद॑सि सू॒षा अ॒मृतो॒ मर्त्ये॒श्वा॥२॥  
+Pleasant art thou to sit by one, a mother: immortal among mortals.

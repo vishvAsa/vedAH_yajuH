@@ -2,5 +2,4 @@
 title = "१७ ऋतून् ब्रूम"
 
 +++
-ऋ॒तून् ब्रू॑म ऋतु॒पती॑नार्त॒वानु॒त हा॑य॒नान्।  
-समाः॑ संवत्स॒रान् मासां॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१७॥  
+We speak to Seasons, Season-Lords, to years and sections of the year, To Months, half-months, and years complete: may they deliver us from woe.

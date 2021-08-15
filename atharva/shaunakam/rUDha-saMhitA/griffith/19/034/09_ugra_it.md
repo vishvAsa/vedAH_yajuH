@@ -2,5 +2,4 @@
 title = "०९ उग्र इत्"
 
 +++
-उ॒ग्र इत् ते॑ वनस्पत॒ इन्द्र॑ ओ॒ज्मान॒माद॑धौ ।  
-अमी॑वाः॒ सर्वा॑श्चा॒तयं॑ ज॒हि रक्षां॑स्योषधे ॥९॥  
+To thee in truth, O Forest Tree, Indra the mighty One gave strength. Driving away all maladies, strike thou the demons down, O Plant.

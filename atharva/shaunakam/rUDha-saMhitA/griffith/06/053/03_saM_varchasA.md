@@ -2,5 +2,4 @@
 title = "०३ सं वर्चसा"
 
 +++
-सं वर्च॑सा॒ पय॑सा॒ सं त॒नूभि॒रग॑न्महि॒ मन॑सा॒ सं शि॒वेन॑ ।  
-त्वष्टा॑ नो॒ अत्र॒ वरी॑यः कृणो॒त्वनु॑ नो मार्ष्टु त॒न्वो॒३यद् विरि॑ष्टम्॥३॥
+We are again united with our bodies, with happy mind, with spirit, strength, and splendour. May Tvashtar here make room for us, and freedom and smooth whate'er is injured in our bodies.

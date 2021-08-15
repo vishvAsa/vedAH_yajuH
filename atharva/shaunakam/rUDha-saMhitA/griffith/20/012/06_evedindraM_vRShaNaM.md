@@ -2,5 +2,4 @@
 title = "०६ एवेदिन्द्रं वृषणं"
 
 +++
-ए॒वेदिन्द्रं॒ वृष॑णं॒ वज्र॑बाहुं॒ वसि॑ष्ठासो अ॒भ्यर्चन्त्य॒र्कैः ।  
-स न॑ स्तु॒तो वी॒रव॑द् धातु॒ गोम॑द् यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥६॥  
+Thus the Vasishthas glorify with praises Indra, the Mighty One, whose arm wields thunder. Praised, may he guard our wealth in kine and heroes. Ye Gods,. preserve us evermore with blessings.

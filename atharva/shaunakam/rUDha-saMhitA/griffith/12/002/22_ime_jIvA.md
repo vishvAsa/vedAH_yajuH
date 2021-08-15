@@ -2,5 +2,4 @@
 title = "२२ इमे जीवा"
 
 +++
-इ॒मे जी॒वा वि मृ॒तैराव॑वृत्र॒न्नभू॑द् भ॒द्रा दे॒वहु॑तिर्नो अ॒द्य।  
-प्राञ्चो॑ अगाम नृ॒तये॒ हसा॑य सु॒वीरा॑सो वि॒दथ॒मा व॑देम ॥२२॥  
+Divided from the dead are these, the living: now is our calling on the Gods successful. We have gone forth for dancing and for laughter: may we with brave sons speak to the assembly.

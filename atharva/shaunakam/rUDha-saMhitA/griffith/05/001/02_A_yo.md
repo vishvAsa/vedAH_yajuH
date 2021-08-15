@@ -2,5 +2,4 @@
 title = "०२ आ यो"
 
 +++
-आ यो धर्मा॑णि प्रथ॒मः स॒साद॒ ततो॒ वपूं॑षि कृणुषे पु॒रूणि॑ ।  
-धा॒स्युर्योनिं॑ प्रथ॒म आ वि॑वे॒शा यो वाच॒मनु॑दितां चि॒केत॑ ॥२॥  
+He who, the first, approached the holy statutes makes, after, many beauteous forms and figures. Eager to drink, his birth-place first he entered who understands the word when yet unspoken.

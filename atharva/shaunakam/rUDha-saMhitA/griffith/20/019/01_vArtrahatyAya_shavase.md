@@ -2,4 +2,4 @@
 title = "०१ वार्त्रहत्याय शवसे"
 
 +++
-वार्त्र॑हत्याय॒ शव॑से पृतना॒षाह्या॑य च । इन्द्र॒ त्वा व॑र्तयामसि ॥१॥  
+O Indra, for the strength that slays the foe and conquers in the fight We turn thee hitherward to us.

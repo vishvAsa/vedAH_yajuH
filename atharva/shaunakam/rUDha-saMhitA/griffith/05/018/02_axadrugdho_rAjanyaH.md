@@ -2,5 +2,4 @@
 title = "०२ अक्षद्रुग्धो राजन्यः"
 
 +++
-अ॒क्षद्रु॑ग्धो राज॒न्यः पा॒प आ॑त्मपराजि॒तः ।  
-स ब्रा॑ह्म॒णस्य॒ गाम॑द्याद॒द्य जी॑वानि॒ माश्वः ॥२॥  
+A base Rajanya, spoiled at dice, and ruined by himself, may eat. The Brahman's cow and think, To-day and not tomorrow, let me live!

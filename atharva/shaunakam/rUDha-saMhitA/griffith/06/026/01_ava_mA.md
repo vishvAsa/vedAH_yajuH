@@ -2,5 +2,4 @@
 title = "०१ अव मा"
 
 +++
-अव॑ मा पाप्मन्त्सृज व॒शी सन् मृ॑डयासि नः ।  
-आ मा॑ भ॒द्रस्य॑ लो॒के पा॑प्मन् धे॒ह्यवि॑ह्रुतम्॥१॥  
+Let me go free, O Misery: do thou, the mighty, pity us. Set me uninjured in the world of happiness, O Misery.

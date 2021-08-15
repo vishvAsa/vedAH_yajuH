@@ -2,5 +2,4 @@
 title = "०३ क्रन्दाय ते"
 
 +++
-क्रन्दा॑य ते प्रा॒णाय॒ याश्च॑ ते भव॒ रोप॑यः ।  
-नम॑स्ते रुद्र कृण्मः सहस्रा॒क्षाया॑मर्त्य ॥३॥  
+We offer homage to thy shout, Bhava! thy breath, thy racking pains: Homage, Immortal One! to thee, to Rudra of the thousand eyes.

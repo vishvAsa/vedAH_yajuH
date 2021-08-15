@@ -2,5 +2,4 @@
 title = "०१ वेदः स्वस्तिर्द्रुघणः"
 
 +++
-वे॒दः स्व॒स्तिर्द्रु॑घ॒णः स्व॒स्तिः प॑र॒शुर्वेदिः॑ पर॒शुर्नः॑ स्व॒स्ति।  
-ह॒वि॒ष्कृतो॑ य॒ज्ञिया॑ य॒ज्ञका॑मा॒स्ते दे॒वासो॑ य॒ज्ञमि॒मं जु॑षन्ताम्॥१॥
+Blest be the Broom, may the Mace bring a blessing, and may the Altar and the Hatchet bless us. Worshipful Gods, may they accept this worship, lovers of sacri- fice, and sacrificers.

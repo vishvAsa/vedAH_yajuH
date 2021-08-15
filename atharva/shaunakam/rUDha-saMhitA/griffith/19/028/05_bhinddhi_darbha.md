@@ -2,5 +2,4 @@
 title = "०५ भिन्द्धि दर्भ"
 
 +++
-भि॒न्द्धि द॑र्भ स॒पत्ना॑न्मे भि॒न्द्धि मे॑ पृतनाय॒तः ।  
-भि॒न्द्धि मे॒ सर्वान् दु॒र्हार्दो॑ भि॒न्द्धि मे॑ द्विष॒तो म॑णे ॥५॥  
+Cleave thou my rivals, Darbha, cleave the men who fain would, fight with me. Cleave all who wish me evil, cleave the men who hate me,. Amulet!

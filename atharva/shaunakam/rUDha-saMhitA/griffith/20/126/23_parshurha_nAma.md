@@ -2,5 +2,4 @@
 title = "२३ पर्शुर्ह नाम"
 
 +++
-पर्शु॑र्ह॒ नाम॑ मान॒वी सा॒कं स॑सूव विंश॒तिम्।  
-भ॒द्रं भ॑ल॒ त्यस्या॑ अभू॒द् यस्या॑ उ॒दर॒माम॑य॒द् विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥२३॥
+Daughter of Manu, Parsu bare a score of children at a birth. Her portion verily was bliss although her burthen caused her grief.

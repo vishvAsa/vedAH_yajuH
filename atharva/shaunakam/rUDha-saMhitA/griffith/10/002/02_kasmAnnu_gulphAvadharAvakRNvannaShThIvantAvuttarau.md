@@ -2,5 +2,4 @@
 title = "०२ कस्मान्नु गुल्फावधरावकृण्वन्नष्ठीवन्तावुत्तरौ"
 
 +++
-कस्मा॒न्नु गु॒ल्फावध॑रावकृण्वन्नष्ठी॒वन्ता॒वुत्त॑रौ॒ पुरु॑षस्य ।  
-जङ्घे॑ नि॒रऋत्य॒ न्यऽदधुः॒ क्वऽस्वि॒ज्जानु॑नोः सं॒धी क उ॒ तच्चि॑केत ॥२॥  
+Whence did they make the ankles that are under, and the knee- bones of Purusha above them? What led them onward to the legs' construction? Who planned and formed the knees' articulations?

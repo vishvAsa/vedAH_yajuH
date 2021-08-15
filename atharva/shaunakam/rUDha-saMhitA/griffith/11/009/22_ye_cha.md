@@ -2,6 +2,4 @@
 title = "२२ ये च"
 
 +++
-ये च॒ धीरा॒ ये चाधी॑राः॒ परा॑ञ्चो बधि॒राश्च॒ ये।  
-त॒म॒सा ये च॑ तूप॒रा अथो॑ बस्ताभिवा॒सिनः॑ ।  
-सर्वां॒स्ताँ अ॑र्बुदे॒ त्वम॒मित्रे॑भ्यो दृ॒शे कु॑रूदा॒रांश्च॒ प्रद॑र्शय ॥२२॥  
+The clever and the foolish ones, those who are twisted round, the deaf, The dusky-hued, the hornless goats and those whose voice is like the buck's, All these, O Arbudi, do thou make visible to our enemies: cause them to look on mists and fog.

@@ -2,4 +2,4 @@
 title = "०२ देवस्य त्वा"
 
 +++
-दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वेऽश्विनो॑र्बा॒हुभ्यां॑ पू॒ष्णो हस्ता॑भ्यां॒ प्रसू॑त॒ आ र॑भे ॥२॥
+Under the impulse of the God Savitar, sent forth from the arms- of the Asvins and both hands of Pushan I have taken thee.

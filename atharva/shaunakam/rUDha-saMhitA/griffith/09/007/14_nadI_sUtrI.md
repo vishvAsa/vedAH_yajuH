@@ -2,4 +2,4 @@
 title = "१४ नदी सूत्री"
 
 +++
-न॒दी सू॒त्री व॒र्षस्य॒ पत॑य॒ स्तना॑ स्तनयि॒त्नुरूधः॑ ॥१४॥  
+The river is the womb, the Lords of the Rain are the breasts,. the thunder is the udder.

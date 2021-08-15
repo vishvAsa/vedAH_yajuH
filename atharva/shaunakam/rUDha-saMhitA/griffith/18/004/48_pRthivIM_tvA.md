@@ -2,5 +2,4 @@
 title = "४८ पृथिवीं त्वा"
 
 +++
-पृ॒थि॒वीं त्वा॑ पृथि॒व्यामा वे॑शयामि दे॒वो नो॑ धा॒ता प्र ति॑रा॒त्यायुः॑ ।  
-परा॑परैता वसु॒विद् वो अ॒स्त्वधा॑ मृ॒ताः पि॒तृषु॒ सं भ॑वन्तु ॥४८॥  
+As Prithivi rests on earth, so do I seat thee. May the God Dhatar lengthen our existence. For you may he who parts in turn find treasures, but let the Dead among the Fathers.

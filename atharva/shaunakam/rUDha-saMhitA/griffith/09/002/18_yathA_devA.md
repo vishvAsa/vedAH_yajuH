@@ -2,5 +2,4 @@
 title = "१८ यथा देवा"
 
 +++
-यथा॑ दे॒वा असु॑रा॒न् प्राणु॑दन्त॒ यथेन्द्रो॒ दस्यू॑नध॒मं तमो॑ बबा॒धे।  
-तथा॒ त्वं का॑म॒ मम॒ ये स॒पत्ना॒स्तान॒स्माल्लो॒कात् णु॑दस्व दू॒रम्॥१८॥  
+As Gods repelled the Asuras, and Indra down to the lowest darkness drove the demons, So, Kama, from this world, to distant places, drive thou the men who are mine adversaries.

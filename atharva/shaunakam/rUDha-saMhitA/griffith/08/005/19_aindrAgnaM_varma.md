@@ -2,5 +2,4 @@
 title = "१९ ऐन्द्राग्नं वर्म"
 
 +++
-ऐ॒न्द्रा॒ग्नं वर्म॑ बहु॒लं यदु॒ग्रं विश्वे॑ दे॒वा नाति॒ विध्य॑न्ति॒ सर्वे॑ ।  
-तन्मे॑ त॒न्वं त्रायतां स॒र्वतो॑ बृ॒हदायु॑ष्मां ज॒रद॑ष्टि॒र्यथासा॑नि ॥१९॥  
+Not all the Gods may pierce, all leagued together, the vast strong shield which Indra gives, and Agni. May that great shield on all sides guard my body, that to full old my life may be extended.

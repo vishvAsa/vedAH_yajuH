@@ -2,6 +2,4 @@
 title = "२५ यथा देवेष्वमृतं"
 
 +++
-यथा॑ दे॒वेष्व॒मृतं॒ यथै॑षु स॒त्यमाहि॑तम्।  
-ए॒वा मे॑ वर॒णो म॒णिः की॒र्तिं भूतिं॒ नि य॑च्छतु॒  
-तेज॑सा मा॒ समु॑क्षतु॒ यश॑सा॒ सम॑नक्तु मा ॥२५॥
+As immortality and truth have been established in the Gods, So may the Charm, the Varana, give me prosperity and fame. With lustre let it sprinkle me, and balm me with magnificence.

@@ -2,5 +2,4 @@
 title = "०३ आजुह्वान ईड्यो"
 
 +++
-आ॒जुह्वा॑न॒ ईड्यो॒ बन्द्य॒श्चा या॑ह्यग्ने॒ वसु॑भिः स॒जोषाः॑ ।  
-त्वं दे॒वाना॑मसि यह्व॒ होता॒ स ए॑नान् यक्षीषि॒तो यजी॑यान्॥३॥  
+Invoked, deserving prayer and adoration, O Agni, come accor dant with the Vasus. Thou art, O youthful Lord, the Gods' Invoker, so, best of sacri- ficers, bring them quickly.

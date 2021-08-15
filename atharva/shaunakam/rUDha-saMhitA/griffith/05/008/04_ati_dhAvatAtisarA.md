@@ -2,5 +2,4 @@
 title = "०४ अति धावतातिसरा"
 
 +++
-अति॑ धावतातिसरा॒ इन्द्र॑स्य॒ वच॑सा हत ।  
-अविं॒ वृक॑ इव मथ्नीत॒ स वो॒ जीव॒न्मा मो॑चि प्रा॒णम॒स्यापि॑ नह्यत ॥४॥  
+Run, ye Fxertions, farther on By Indra's order smite and slay. As a wolf worrieth a sheep, so let not him escape from you while life remains. Stop fast his breath.

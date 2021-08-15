@@ -2,5 +2,4 @@
 title = "५० ते देवेभ्य"
 
 +++
-ते दे॒वेभ्य॒ आ वृ॑श्चन्ते पा॒पं जी॑वन्ति सर्व॒दा।  
-क्र॒व्याद् यान॒ग्निर॑न्ति॒कादश्व॑ इवानु॒वप॑ते न॒डम्॥५०॥  
+They sever from the Gods, they live in sin and misery evermore, Those whom from very near at hand Carnivorous Agni casteth down as a horse tramples down the reeds.

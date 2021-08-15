@@ -2,4 +2,4 @@
 title = "०१ श्रमेण तपसा"
 
 +++
-श्रमे॑ण॒ तप॑सा सृ॒ष्टा ब्रह्म॑णा वि॒त्तर्ते श्रि॒ता॥१॥  
+Created by toil and holy fervour, found by devotion, resting in right;

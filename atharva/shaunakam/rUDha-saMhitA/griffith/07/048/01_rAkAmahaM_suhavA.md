@@ -2,5 +2,4 @@
 title = "०१ राकामहं सुहवा"
 
 +++
-रा॒काम॒हं सु॒हवा॑ सुष्टु॒ती हु॑वे शृ॒णोतु॑ नः सु॒भगा॑ बोध॑तु॒ त्मना॑ ।  
-सीव्य॒त्वपः॑ सू॒च्याच्छिद्यमानया॒ ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्यऽम्॥१॥  
+I call on Raka with hair laud and reverent cry: may she, auspicious, hear us and herself observe. With never-breaking needle may she sew her work, and send a glorious man who gives a hundred gifts.

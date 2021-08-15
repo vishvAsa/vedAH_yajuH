@@ -2,5 +2,4 @@
 title = "०३ यथा मम"
 
 +++
-यथा॒ मम॒ स्मरा॑द॒सौ नामुष्या॒हं क॒दा च॒न।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥३॥  
+That he may think of me, that I may never, never think of him,. Send forth the spell, ye Deities! Let him consume with love of me.

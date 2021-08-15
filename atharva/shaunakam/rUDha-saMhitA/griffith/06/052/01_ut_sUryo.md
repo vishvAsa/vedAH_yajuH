@@ -2,5 +2,4 @@
 title = "०१ उत् सूर्यो"
 
 +++
-उत् सूर्यो॑ दि॒व ए॑ति पु॒रो रक्षां॑सि नि॒जूर्व॑न्।  
-आ॒दि॒त्यः पर्वतेभ्यो वि॒श्वदृ॑ष्टो अदृष्ट॒हा॥१॥  
+Slaying the Rakshasas, the Sun mounts upward in the front of heaven, Aditya, from the mountains, seen of all, destroying things unseen.

@@ -2,5 +2,4 @@
 title = "२७ अश्लीला तनूर्भवति"
 
 +++
-अ॒श्ली॒ला त॒नूर्भ॑वति॒ रुश॑ती पा॒पया॑मु॒या।  
-पति॒र्यद् व॒ध्वो॒३वास॑सः॒ स्वमङ्ग॑मभ्यूर्णु॒ते॥२७॥  
+Unlovely is his body when it glistens with that wicked fiend, What time the husband wraps about his limbs the garment of his wife.

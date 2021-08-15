@@ -2,5 +2,4 @@
 title = "०२ यो नः"
 
 +++
-यो नः॑ सु॒प्ता॑न् जाग्र॑तो वाभि॒दासा॒त् तिष्ठ॑तो वा॒ चर॑तो जातवेदः ।  
-वै॒श्वा॒न॒रेण॑ स॒युजा॑ स॒जोषा॒स्तान् प्र॒तीचो॒ निर्द॑ह जातवेदः ॥२॥
+Whoso oppresseth us O Jatavedas, asleep or waking, standing still or moving. Accordant with Vaisvanara thy comrade, O Jatavedas, meet them and consume them.

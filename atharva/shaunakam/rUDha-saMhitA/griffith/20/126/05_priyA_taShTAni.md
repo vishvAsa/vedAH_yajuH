@@ -2,5 +2,4 @@
 title = "०५ प्रिया तष्टानि"
 
 +++
-प्रि॒या त॒ष्टानि॑ मे क॒पिर्व्य॑क्ता॒ व्यऽदूदुषत्।  
-शिरो॒ न्वऽस्य राविषं॒ न सु॒गं दु॒ष्कृते॑ भुवं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥५॥  
+Kapi hath marred the beauteous things, all deftly wrought, that were my joy. In pieces will I rend his head; the sinner's portion shall be woe. Supreme is Indra over all.

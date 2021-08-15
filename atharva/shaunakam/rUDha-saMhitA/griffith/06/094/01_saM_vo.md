@@ -2,5 +2,4 @@
 title = "०१ सं वो"
 
 +++
-सं वो॒ मनां॑सि॒ सं व्र॒ता समाकू॑तीर्नमामसि ।  
-अ॒मी ये विव्र॑ता॒ स्थन॒ तान् वः॒ सं न॑मयामसि ॥१॥  
+We bend your minds in union, bend in harmony your hopes and plans: You there, who turn to sundered ways, we bend and bow in unison.

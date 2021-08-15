@@ -2,5 +2,4 @@
 title = "०३ असौ यो"
 
 +++
-अ॒सौ यो अ॑ध॒राद् गृ॒हस्तत्र॑ सन्त्वरा॒य्यः ।  
-तत्र॑ से॒दिर्न्युऽच्यतु॒ सर्वा॑श्च यातुधा॒न्यः ॥३॥  
+Yonder let the Arayis dwell, there where that house is down below. Let utter indigence and all the Yatudhanis settle there.

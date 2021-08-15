@@ -2,5 +2,4 @@
 title = "१९ वाचस्पते सौमनसं"
 
 +++
-वाच॑स्पते सौमन॒सं मन॑श्च गो॒ष्ठे नो॒ गा ज॒नय॒ योनि॑षु प्र॒जाः ।  
-इ॒हैव प्रा॒णः स॒ख्ये नो॑ अस्तु॒ तं त्वा॑ परमेष्ठि॒न् पर्य॒हमायु॑षा॒ वर्च॑सा दधातु ॥१९॥  
+Breed, O Vachaspati, joy and understanding, kine i n our stall and children in our consorts. Even here may Prana be our friend: may Agni, O Parameshthin, give thee life and splendour.

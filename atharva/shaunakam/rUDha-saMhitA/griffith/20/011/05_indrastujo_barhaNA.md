@@ -2,5 +2,4 @@
 title = "०५ इन्द्रस्तुजो बर्हणा"
 
 +++
-इन्द्र॒स्तुजो॑ ब॒र्हणा॒ आ वि॑वेश नृ॒वद् दधा॑नो॒ नर्या॑ पु॒रूणि॑ ।  
-अचे॑तय॒द् धिय॑ इ॒मा ज॑रि॒त्रे प्रेमं वर्ण॑मतिरच्छु॒क्रमा॑साम्॥५॥  
+Forward to fiercely falling blows pressed Indra, hero-like doing many hero exploits. Those holy songs he taught the bard who praised him, and widely spread these Dawns' resplendent colour.

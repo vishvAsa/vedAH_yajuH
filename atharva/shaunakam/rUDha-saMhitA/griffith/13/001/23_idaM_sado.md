@@ -2,5 +2,4 @@
 title = "२३ इदं सदो"
 
 +++
-इ॒दं सदो॒ रोहि॑णी॒ रोहि॑तस्या॒सौ पन्थाः॒ पृष॑ती॒ येन॒ याति॑ ।  
-तां ग॑न्ध॒र्वाः क॒श्यपा॒ उन्न॑यन्ति॒ तां र॑क्षन्ति क॒वयोऽप्र॑मादम्॥२३॥  
+Rohita's seat is Rohini before us: that is the path the speckled Mare pursueth. Kasyapas and Gandharvas lead her upward, and heavenly sages ever watch and guard her,

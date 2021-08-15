@@ -2,5 +2,4 @@
 title = "०६ अस्मा इदु"
 
 +++
-अ॒स्मा इदु॒ त्वष्टा॑ तक्ष॒द् वज्रं॒ स्वप॑स्तमं स्व॒र्यं॑१ रणा॑य ।  
-वृ॒त्रस्य॑ चिद् वि॒दद् येन॒ मर्म॑ तु॒जन्नीशा॑नस्तुज॒ता कि॑ये॒धाः ॥६॥  
+Even for him hath Tvashtar forged the thunder, most deftly wrought, celestial, for the battle. Wherewith he reached the vital parts of Vritra, striking--the vast, the mighty--with the striker,

@@ -2,5 +2,4 @@
 title = "५५ यत् ते"
 
 +++
-यत् ते॑ कृ॒ष्णः श॑कु॒न आ॑तु॒तोद॑ पिपी॒लः स॒र्प उ॒त वा॒ श्वाप॑दः ।  
-अ॒ग्निष्टद् वि॒श्वाद॑ग॒दं कृ॑णोतु॒ सोम॑श्च॒ यो ब्रा॑ह्म॒णां आ॑वि॒वेश॑ ॥५५॥  
+What wound soe'er the dark bird hath inflicted, the emmet, or the serpent, or the jackal, May Agni who devoureth all things heal it, and Soma, who hath passed into the Brahmans.

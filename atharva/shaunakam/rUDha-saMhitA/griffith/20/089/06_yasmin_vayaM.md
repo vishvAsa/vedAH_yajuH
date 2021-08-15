@@ -2,5 +2,4 @@
 title = "०६ यस्मिन् वयं"
 
 +++
-यस्मि॑न् व॒यं द॑धि॒मा शंस॒मिन्द्रे॒ यः शि॒श्राय॑ म॒घवा॒ काम॑म॒स्मे।  
-आ॒राच्चि॒त् सन् भ॑यतामस्य॒ शत्रु॒र्न्यऽस्मै द्यु॒म्ना जन्या॑ नमन्ताम्॥६॥  
+He unto whom we offer praises, Indra, Maghavan, who hath joined to ours his wishes Before him even afar the foe must tremble: low before him must bow all human glories.

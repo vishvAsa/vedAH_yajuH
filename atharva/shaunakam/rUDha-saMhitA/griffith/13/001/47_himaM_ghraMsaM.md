@@ -2,5 +2,4 @@
 title = "४७ हिमं घ्रंसं"
 
 +++
-हि॒मं घ्रं॒सं चा॒धाय॒ यूपा॑न् कृ॒त्वा पर्व॑तान्।  
-व॒र्षाज्या॑व॒ग्नी ई॑जाते॒ रोहि॑तस्य स्व॒र्विदः॑ ॥४७॥  
+He stablished heat and cold, he made the mountains sacrificial posts. Then both the Agnis, Rohita's who found celestial light, with rain for molten butter, sacrificed.

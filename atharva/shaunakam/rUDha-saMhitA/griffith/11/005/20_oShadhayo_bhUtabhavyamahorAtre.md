@@ -2,5 +2,4 @@
 title = "२० ओषधयो भूतभव्यमहोरात्रे"
 
 +++
-ओष॑धयो भूतभ॒व्यम॑होरा॒त्रे वन॒स्पतिः॑ ।  
-सं॒व॒त्स॒रः स॒हर्तुभि॒स्ते जा॒ता ब्र॑ह्मचा॒रिणः॑ ॥२०॥  
+The plants, what is and what shall be, day, night, the tall tree of the wood, The year with seasons of the year, all from the Brahmachari sprang.

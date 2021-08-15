@@ -2,4 +2,4 @@
 title = "०१ अरातीयोर्भ्रातृव्यस्य दुर्हार्दो"
 
 +++
-अ॒रा॒ती॒योर्भ्रातृ॑व्यस्य दु॒र्हार्दो॑ द्विष॒तः शिरः॑ । अपि॑ वृश्चा॒म्योज॑सा ॥१॥  
+With power I cut away the head of my malignant rival, of mine evil-hearted enemy.

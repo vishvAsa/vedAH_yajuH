@@ -2,5 +2,4 @@
 title = "०४ परि पूषा"
 
 +++
-परि॑ पू॒षा प॒रस्ता॒द्धस्तं॑ दधातु॒ दक्षि॑णम्।  
-पुन॑र्नो न॒ष्टमाज॑तु॒ सं न॒ष्टेन॑ गमेमहि ॥४॥
+From out the distance, far and wide, may Pushan stretch his right hand forth. Let him drive back our lost to us, let us return with what is lost.

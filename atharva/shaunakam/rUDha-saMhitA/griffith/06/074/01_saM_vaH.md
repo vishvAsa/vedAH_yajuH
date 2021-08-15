@@ -2,5 +2,4 @@
 title = "०१ सं वः"
 
 +++
-सं वः॑ पृच्यन्तां त॒न्वः॑१ सं मनां॑सि॒ समु॑ व्र॒ता।  
-सं वोऽयं ब्रह्म॑ण॒स्पति॒र्भगः॑ सं वो॑ अजीगमत्॥१॥  
+Close gathered be your bodies: be your minds and vows in. unison! Here present Brahmanaspati and Bhaga have assembled you.

@@ -2,4 +2,4 @@
 title = "०३ यस्यामितानि वीर्या"
 
 +++
-यस्यामि॑तानि वी॒र्या॒ न राधः॒ पर्ये॑तवे । ज्योति॒र्न विश्व॑म॒भ्यस्ति॒ दक्षि॑णा ॥३॥
+Whose hero powers are measureless, whose bounty ne'er may be surpassed, Whose liberality, like light, is over all.

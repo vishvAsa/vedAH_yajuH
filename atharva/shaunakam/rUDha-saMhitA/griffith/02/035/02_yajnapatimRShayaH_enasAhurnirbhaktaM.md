@@ -2,5 +2,4 @@
 title = "०२ यज्ञपतिमृषयः एनसाहुर्निर्भक्तं"
 
 +++
-य॒ज्ञप॑ति॒मृष॑यः॒ एन॑साहु॒र्निर्भ॑क्तं प्र॒जा अ॑नुत॒प्यमा॑नम्।  
-म॒थ॒व्या॒ऽन्त्स्तो॒कानप॒ यान् र॒राध॒ सं न॒ष्टेभिः॑ सृजतु वि॒श्वक॑र्मा ॥२॥  
+Rishis have called the sacrifice's patron amerced through sin, sorrowing for his offspring. Those drops of meath whereof the missed enjoyment,--may Visvakarman with those drops unite us.

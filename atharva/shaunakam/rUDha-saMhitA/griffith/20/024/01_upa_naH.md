@@ -2,4 +2,4 @@
 title = "०१ उप नः"
 
 +++
-उप॑ नः सु॒तमा ग॑हि॒ सोम॑मिन्द्र॒ गवा॑शिरम्। हरि॑भ्यां॒ यस्ते॑ अस्म॒युः ॥१॥  
+Come to the juice that we have pressed, to Soma, Indra! blent with milk: Come, favouring us, thy bay-drawn car!

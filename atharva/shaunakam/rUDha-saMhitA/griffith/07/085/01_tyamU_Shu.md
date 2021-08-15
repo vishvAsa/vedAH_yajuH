@@ -2,5 +2,4 @@
 title = "०१ त्यमू षु"
 
 +++
-त्यमू॒ षु वा॒जिनं॑ दे॒वजू॑तं॒ सहो॑वानं तरु॒तारं॒ रथा॑नाम्।  
-अरि॑ष्टनेमिं पृतना॒जिमा॒शुं स्व॒स्तये॒ तार्क्ष्य॑मि॒हा हु॑वेम ॥१॥
+This very mighty one whom Gods urge onward, the conqueror of cars, ever triumphant, Swift, fleet to battle, with uninjured fellies, even Tarkshya for our weal will we call hither.

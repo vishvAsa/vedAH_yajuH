@@ -2,5 +2,4 @@
 title = "०४ परि मां"
 
 +++
-परि॒ मां परि॑ मे प्र॒जां परि॑ णः पाहि॒ यद्धन॑म्।  
-अरा॑तिर्नो॒ मा ता॑री॒न्मा न॑स्तारि॒षुर॒भिमा॑तयः ॥४॥  
+Guard on all sides this woman, guard my children, us, and all our wealth! Let not malignity o'ercome, nor adversaries conquer us.

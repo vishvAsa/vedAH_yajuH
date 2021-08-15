@@ -2,4 +2,4 @@
 title = "०४ इन्द्र सोमाः"
 
 +++
-इन्द्र॒ सोमाः॑ सु॒ता इ॒मे तव॒ प्र य॑न्ति सत्पते । क्षयं॑ च॒न्द्रास॒ इन्द॑वः ॥४॥  
+Lord of the brave, to thee proceed these drops of Soma juice expressed, The bright drops to thy dwelling-place.

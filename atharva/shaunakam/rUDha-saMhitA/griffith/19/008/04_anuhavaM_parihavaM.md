@@ -2,5 +2,4 @@
 title = "०४ अनुहवं परिहवं"
 
 +++
-अ॒नु॒ह॒वं प॑रिह॒वं प॑रिवा॒दं प॑रिक्ष॒वम्।  
-सर्वै॑र्मे रिक्तकु॒म्भान् परा॒ तान् स॑वितः सुव॥४॥  
+Excitement and invoking cry, ill-omened sneezing and reproof, All sounds of empty pitchers send into the distance, Savitar!

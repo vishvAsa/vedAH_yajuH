@@ -2,5 +2,4 @@
 title = "१५ यस्त्वा कृत्याभिर्यस्त्वा"
 
 +++
-यस्त्वा॑ कृ॒त्याभि॒र्यस्त्वा॑ दी॒क्षाभि॑र्य॒ज्ञैर्यस्त्वा॒ जिघां॑सति ।  
-प्र॒त्यक् त्वमि॑न्द्र॒ तं ज॑हि॒ वज्रे॑ण श॒तप॑र्वणा ॥१५॥  
+Whoever would destroy thee with Diksha-rites, sacrifices, spells, Meet him and smite him, Indra! with thy hundred-knotted thunderbolt.

@@ -2,5 +2,4 @@
 title = "०६ अस्थिभ्यस्ते मज्जभ्यः"
 
 +++
-अ॒स्थिभ्य॑स्ते म॒ज्जभ्यः॒ स्नाव॑भ्यो ध॒मनि॑भ्यः ।  
-यक्ष्मं॑ पा॒णिभ्या॑म॒ङ्गुलि॑भ्यो न॒खेभ्यो॒ वि वृ॑हामि ते ॥६॥  
+Forth from thy marrows and thy bones, forth from thy tendons and thy veins I banish thy Consumption, from thy hands, thy fingers, and thy nails.

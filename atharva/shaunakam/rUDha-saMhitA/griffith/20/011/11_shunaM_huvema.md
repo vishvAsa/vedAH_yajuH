@@ -2,5 +2,4 @@
 title = "११ शुनं हुवेम"
 
 +++
-शु॒नं हु॑वेम म॒घवा॑न॒मिन्द्र॑म॒स्मिन् भरे॒ नृत॑मं॒ वाज॑सातौ ।  
-शृ॒ण्वन्त॑मु॒ग्रमू॒तये॑ स॒मत्सु॒ घ्नन्तं॑ वृ॒त्राणि॑ सं॒जितं॒ धना॑नाम्॥११॥
+Call we on Maghavan, auspicious Indra, best Hero in the fight where spoil is gathered, The Strong, who listens, who gives aid in battles, who slays the Vritras, wins and gathers treasures.

@@ -2,5 +2,4 @@
 title = "०५ ये क्रिमयः"
 
 +++
-ये क्रिम॑यः शिति॒कक्षा॒ ये कृ॒ष्णाः शि॑ति॒बाह॑वः ।  
-ये के च॑ वि॒श्वरू॑पा॒स्तान् क्रिमी॑न् जम्भयामसि ॥५॥  
+Eastward the Sun is mounting, seen of all, destroying thing unseen, Crushing and killing all the worms invisible and visible.

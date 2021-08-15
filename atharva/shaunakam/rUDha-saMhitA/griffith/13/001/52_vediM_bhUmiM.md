@@ -2,5 +2,4 @@
 title = "५२ वेदिं भूमिं"
 
 +++
-वेदिं॒ भूमिं॑ कल्पयि॒त्वा दिवं॑ कृ॒त्वा दक्षि॑णाम्।  
-घ्रं॒सं तद॒ग्निं कृ॒त्वा च॒कार॒ विश्व॑मात्म॒न्वद् व॒र्षेणाज्ये॑न॒ रोहि॑तः ॥५२॥  
+Rohita made the earth to be his altar, heaven his Dakshina. Then heat he took for Agni, and with rain for molten butter he created every living thing.

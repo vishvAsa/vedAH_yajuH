@@ -2,5 +2,4 @@
 title = "०३ अप्सु ते"
 
 +++
-अ॒प्सु ते॒ जन्म॑ दि॒वि ते॑ स॒धस्थं॑ समु॒द्रे अ॒न्तर्म॑हि॒मा ते॑ पृथि॒व्याम्।  
-शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥३॥
+In waters is thy birth, in heaven thy station, thy majesty on earth and in the ocean. We with this offering will adore the greatness of the Heavenly Hound.

@@ -2,5 +2,4 @@
 title = "०६ वातं ब्रूमः"
 
 +++
-वातं॑ ब्रूमः प॒र्जन्य॑म॒न्तरि॑क्ष॒मथो॒ दिशः॑ ।  
-आशा॑श्च॒ सर्वा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥६॥  
+Vata, Parjanya we address, the Quarters, and the Firmament, And all the Regions of the sky: may they deliver us from woe.

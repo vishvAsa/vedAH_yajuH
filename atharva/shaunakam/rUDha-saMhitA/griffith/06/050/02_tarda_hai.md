@@ -2,5 +2,4 @@
 title = "०२ तर्द है"
 
 +++
-तर्द॒ है पत॑ङ्ग॒ है जभ्य॒ हा उप॑क्वस ।  
-ब्र॒ह्मेवासं॑स्थितं ह॒विरन॑दन्त इ॒मान् यवा॒नहिं॑सन्तो अ॒पोदि॑त ॥२॥  
+Ho! boring beetle, ho! thou worm, ho! noxious grub and grasshopper! As a priest leaves the unfinished sacrifice, go hence devouring not, injuring not this corn.

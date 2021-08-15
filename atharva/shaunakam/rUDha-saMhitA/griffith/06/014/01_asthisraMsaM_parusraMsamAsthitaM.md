@@ -2,5 +2,4 @@
 title = "०१ अस्थिस्रंसं परुस्रंसमास्थितं"
 
 +++
-अ॒स्थि॒स्रं॒सं प॑रुस्रं॒समास्थि॑तं हृदयाम॒यम्।  
-ब॒लासं॒ सर्वं॑ नाशयाङ्गे॒ष्ठा यश्च॒ पर्व॑सु ॥१॥  
+Remove thou all Decline that lurks within the members and the joints, The firmly-settled heart-disease that racks the bones and rends the limbs.

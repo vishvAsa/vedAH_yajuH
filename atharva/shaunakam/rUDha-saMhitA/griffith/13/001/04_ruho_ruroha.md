@@ -2,5 +2,4 @@
 title = "०४ रुहो रुरोह"
 
 +++
-रुहो॑ रुरोह॒ रोहि॑त॒ आ रु॑रोह॒ गर्भो॒ जनी॑नां ज॒नुषा॑मु॒पस्थ॑म्।  
-ताभिः॒ संर॑ब्ध॒मन्व॑विन्द॒न् षडु॒र्वीर्गा॒तुं प्र॒पश्य॑न्नि॒ह रा॒ष्ट्रमाहाः॑ ॥४॥  
+Up to the lap of births, to lofty places, hath Rohita, the germ of Dames, ascended. Conjoined with these he found the six realms: seeing his way in front here he received the kingship.

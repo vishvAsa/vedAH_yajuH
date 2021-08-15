@@ -2,5 +2,4 @@
 title = "१२ उद् वेपय"
 
 +++
-उद् वे॑पय॒ सं वि॑जन्तां भि॒यामित्रा॒न्त्सं सृ॑ज ।  
-उ॒रु॒ग्रा॒हैर्बा॑ह्व॒ङ्कैर्विध्या॒मित्रा॑न् न्यर्बुदे ॥१२॥  
+Shake them, and let them sink with fear: e'erwhelm our enemies with dread. With widely-grasping bends of arm, O Arbudi, crush down our foes.

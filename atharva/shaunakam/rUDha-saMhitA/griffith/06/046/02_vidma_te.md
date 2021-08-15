@@ -2,6 +2,4 @@
 title = "०२ विद्म ते"
 
 +++
-वि॒द्म ते॑ स्वप्न ज॒नित्रं॑ देवजामी॒नां पु॒त्रोऽसि य॒मस्य॒ कर॑णः ।  
-अन्त॑कोऽसि मृ॒त्युर॑सि।  
-तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स नः॑ स्वप्न दु॒ष्वप्न्या॑त् पाहि ॥२॥  
+We know thy birth, O Sleep, thou art son of the sisters of the Gods; the minister of Yama thou, thou art Antaka, thou art Death. So well we know thee who thou art. Sleep, guard us from the evil dream.

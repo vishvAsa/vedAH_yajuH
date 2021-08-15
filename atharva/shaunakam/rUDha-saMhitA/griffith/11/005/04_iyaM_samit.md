@@ -2,5 +2,4 @@
 title = "०४ इयं समित्"
 
 +++
-इ॒यं स॒मित् पृ॑थि॒वी द्यौर्द्वितीयो॒तान्तरि॑क्षं स॒मिधा॑ पृणाति ।  
-ब्र॒ह्म॒चा॒री स॒मिधा॒ मेख॑लया॒ श्रमे॑ण लो॒कांस्तप॑सा पिपर्ति ॥४॥  
+This log is earth, the second log is heaven: he fills the air's mid region with the fuel. With fuel, with his zone the Brahmachari contents the worlds, with labour and with Fervour.

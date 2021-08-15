@@ -2,5 +2,4 @@
 title = "१७ तृणैरावृता पलदान्"
 
 +++
-तृणै॒रावृ॑ता पल॒दान् वसा॑ना॒ रात्री॑व॒ शाला॒ जग॑तो नि॒वेश॑नी ।  
-मि॒ता पृ॑थि॒व्यां ति॑ष्ठसि ह॒स्तिनी॑व प॒द्वती॑ ॥१७॥  
+Grass-covered, clad with straw, the house, like Night, gives rest to man and beast. Thou standest, built upon the earth, like a she-elephant, borne on feet.

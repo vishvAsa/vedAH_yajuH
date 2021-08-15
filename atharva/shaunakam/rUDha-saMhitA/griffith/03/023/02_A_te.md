@@ -2,5 +2,4 @@
 title = "०२ आ ते"
 
 +++
-आ ते॒ योनिं॒ गर्भ॑ एतु॒ पुमा॒न् बाण॑ इवेषु॒धिम्।  
-आ वी॒रोऽत्र॑ जायतां पु॒त्रस्ते॒ दश॑मास्यः ॥२॥  
+As arrow to the quiver, so let a male embryo enter thee. Then from thy side be born a babe, a ten-month child, thy hero son.

@@ -2,5 +2,4 @@
 title = "०४ मह्यं यजन्तां"
 
 +++
-मह्यं॑ यजन्तां॒ मम॒ यानी॒ष्टाकू॑तिः स॒त्या मन॑सो मे अस्तु ।  
-एनो॒ मा नि गां॑ कत॒मच्च॒नाहं विश्वे॑ दे॒वा अ॒भि र॑क्षन्तु मे॒ह॥४॥  
+For me let them present all mine oblations, and let my mind's intention be accomplished. May I be guiltless of the least transgression: may all the Gods come hither and protect me.

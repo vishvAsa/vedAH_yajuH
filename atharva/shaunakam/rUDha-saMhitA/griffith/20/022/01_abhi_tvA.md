@@ -2,4 +2,4 @@
 title = "०१ अभि त्वा"
 
 +++
-अ॒भि त्वा॑ वृषभा सु॒ते सु॒तं सृ॑जामि पी॒तये॑ । तृ॒म्पा व्यऽश्नुही॒ मद॑म्॥१॥  
+Hero, the Soma being pressed I pour the juice for thee to drink Sate thee and finish thy carouse.

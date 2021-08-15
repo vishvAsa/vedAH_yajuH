@@ -2,5 +2,4 @@
 title = "२० तयार्बुदे प्रणुत्तानामिन्द्रो"
 
 +++
-तया॑र्बुदे॒ प्रणु॑त्ताना॒मिन्द्रो॑ हन्तु॒ वरं॑वरम्।  
-अ॒मित्रा॑णां॒ शची॒पति॒र्मामीषां॑ मोचि॒ कश्च॒न॥२०॥  
+May Indra, Lord of Might, strike down each bravest warrior of the foes, Whom this our band hath put to flight: let not one man of those escape.

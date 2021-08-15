@@ -2,5 +2,4 @@
 title = "०१ सत्यं बृहदृतमुग्रं"
 
 +++
-स॒त्यं बृ॒हदृ॒तमु॒ग्रं दी॒क्षा तपो॒ ब्रह्म॑ य॒ज्ञः पृ॑थि॒वीं धा॑रयन्ति ।  
-सा नो॑ भू॒तस्य॒ भव्य॑स्य॒ पत्न्यु॒रुं लो॒कं पृ॑थि॒वी नः॑ कृणोतु ॥१॥  
+Truth, high and potent Law, the Consecrating Rite, Fervour, Brahma, and Sacrifice uphold the Earth. May she, the Queen of all that is and is to be, may Prithivi make ample space and room for us.

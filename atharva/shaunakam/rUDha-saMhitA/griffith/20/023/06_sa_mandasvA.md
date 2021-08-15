@@ -2,4 +2,4 @@
 title = "०६ स मन्दस्वा"
 
 +++
-स म॑न्दस्वा॒ ह्यन्ध॑सो॒ राध॑से त॒न्वा म॒हे। न स्तो॒तारं॑ नि॒दे क॑रः ॥६॥  
+Delight thee with the juice we pour for thine own great munificence: Yield not thy singer to reproach.

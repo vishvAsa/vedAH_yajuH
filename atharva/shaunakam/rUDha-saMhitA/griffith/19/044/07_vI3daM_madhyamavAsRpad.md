@@ -2,5 +2,4 @@
 title = "०७ वी३दं मध्यमवासृपद्"
 
 +++
-वी॒३दं मध्य॒मवा॑सृपद् रक्षो॒हामी॑व॒चात॑नः ।  
-अमी॑वाः॒ सर्वा॑श्चा॒तय॑न् ना॒शय॑दभि॒भा इ॒तः ॥७॥  
+Now hath it gently crept within, fiend-slaying, chasing malady. And driving all diseases hence, and evil omens, banished them.

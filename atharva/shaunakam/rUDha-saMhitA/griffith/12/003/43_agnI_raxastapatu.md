@@ -2,5 +2,4 @@
 title = "४३ अग्नी रक्षस्तपतु"
 
 +++
-अ॒ग्नी रक्ष॑स्तपतु॒ यद् विदे॑वं क्र॒व्याद् पि॑शा॒च इ॒ह मा प्र पा॑स्त ।  
-नु॒दाम॑ एन॒मप॑ रुध्मो अ॒स्मदा॑दि॒त्या ए॑न॒मङ्गि॑रसः सचन्ताम्॥४३॥  
+May Agni burn the God-denying demon: let no carnivorous. Pis icha drink here. We drive him off, we keep him at a distance. Adityas and Angirases pursue him!

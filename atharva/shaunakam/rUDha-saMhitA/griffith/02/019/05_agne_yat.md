@@ -2,4 +2,4 @@
 title = "०५ अग्ने यत्"
 
 +++
-अग्ने॒ यत् ते॒ तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणु॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥५॥
+O Agni, with the splendour that is thine darken the man who hates us, whom we hate.

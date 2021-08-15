@@ -2,4 +2,4 @@
 title = "०१ ईलेन्यो नमस्यऽस्तिरस्तमांसि"
 
 +++
-ई॒लेन्यो॑ नम॒स्यऽस्ति॒रस्तमां॑सि दर्श॒तः । सम॒ग्निरि॑ध्यते॒ वृषा॑ ॥१॥  
+Meet to be lauded and adored, showing in beauty through the= dark, Agni the Bull is kindled well,

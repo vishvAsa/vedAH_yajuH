@@ -2,5 +2,4 @@
 title = "१६ पराक् ते"
 
 +++
-परा॑क् ते॒ ज्योति॒रप॑थं ते अ॒र्वाग॒न्यत्रा॒स्मदय॑ना कृणुष्व ।  
-परे॑णेहि नव॒तिं ना॒व्या॒३ अति॑ दु॒र्गाः स्रो॒त्या मा क्ष॑णिष्ठाः॒ परे॑हि ॥१६॥  
+No path leads hitherward for thee to travel. Turn thee from us: far off, thy light is yonder. Fly hence across the ninety floods, the rivers most hard to pass. Begone, and be not wounded.

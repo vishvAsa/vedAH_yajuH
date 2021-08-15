@@ -2,5 +2,4 @@
 title = "२१ पृथग् रूपाणि"
 
 +++
-पृथ॑ग् रू॒पाणि॑ बहु॒धा प॑शू॒नामेक॑रूपो भवसि॒ सं समृ॑द्ध्या ।  
-ए॒तां त्वचं॒ लोहि॑नीं॒ तां नु॑दस्व॒ ग्रावा॑ शुम्भाति मल॒ग इ॑व॒ वस्त्रा॑ ॥२१॥  
+Manifold, various are the shapes of victims. Thou growest uni- form by great abundance. Push thou away this skin of ruddy colour: the stone will cleanse as one who cleanses raiment.

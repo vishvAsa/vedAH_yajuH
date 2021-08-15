@@ -2,5 +2,4 @@
 title = "०३ आकूत्या नो"
 
 +++
-आकू॑त्या नो बृहस्पत॒ आकू॑त्या न॒ उपा ग॑हि ।  
-अथो॒ भग॑स्य नो धे॒ह्यथो॑ नः सु॒हवो॑ भव ॥३॥  
+With Purpose, O Prajapati, with Purpose come thou near to us. Bestow on us a share of luck, and so be swift to hear our call.

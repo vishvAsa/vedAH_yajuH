@@ -2,5 +2,4 @@
 title = "०६ ये देवानामृत्विजो"
 
 +++
-ये दे॒वाना॑मृ॒त्विजो॒ ये च॑ य॒ज्ञिया॒ येभ्यो॑ ह॒व्यं क्रि॒यते॑ भाग॒धेय॑म्।  
-इ॒मं य॒ज्ञं स॒ह पत्नी॑भि॒रेत्य॒ याव॑न्तो दे॒वास्त॑वि॒षा मा॑दयन्ताम्॥६॥
+Let the Gods' Priests and those who merit worship, to whom oblation as their share is offered, Come to this holy service with their Consorts, and all Gods revel in the food we bring them.

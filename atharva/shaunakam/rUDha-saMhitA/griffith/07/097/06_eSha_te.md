@@ -2,5 +2,4 @@
 title = "०६ एष ते"
 
 +++
-ए॒ष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकः ।  
-सु॒वीर्यः॒ स्वाहा॑ ॥६॥  
+This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught with vigour.

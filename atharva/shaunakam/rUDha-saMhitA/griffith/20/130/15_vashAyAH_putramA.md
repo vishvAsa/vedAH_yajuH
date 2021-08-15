@@ -2,4 +2,4 @@
 title = "१५ वशायाः पुत्रमा"
 
 +++
-व॒शायाः॑ पु॒त्रमा य॑न्ति ॥१५॥  
+The plain domestic sacrifice, the sacrifice with burning dung.

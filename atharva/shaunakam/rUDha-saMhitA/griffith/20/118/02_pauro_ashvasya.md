@@ -2,5 +2,7 @@
 title = "०२ पौरो अश्वस्य"
 
 +++
-पौ॒रो अश्व॑स्य पुरु॒कृद् गवा॑म॒स्युत्सो॑ देव हिर॒ण्ययः॑ ।  
-नकि॒र्हि दानं॑ परि॒मर्धि॑ष॒त् त्वे यद्य॒द्यामि॒ तदा भ॑र ॥२॥  
+id
+20.118.2    Increaser of our steeds and multiplying kine, ...
+20.118.2    Or, Indra, when with Ruma, Rusama, Syavaka, an...
+Name: Comment, dtype: object

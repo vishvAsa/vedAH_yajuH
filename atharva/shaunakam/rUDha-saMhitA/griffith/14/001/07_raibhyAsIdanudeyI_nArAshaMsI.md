@@ -2,5 +2,4 @@
 title = "०७ रैभ्यासीदनुदेयी नाराशंसी"
 
 +++
-रैभ्या॑सीदनु॒देयी॑ नाराशं॒सी न्योच॑नी ।  
-सू॒र्याया॑ भ॒द्रमिद् वासो॒ गाथ॑यैति॒ परि॑ष्कृता ॥७॥  
+Raibhi was her dear bridal friend, and Narasatisi led her home. Lovely to see was Surya's robe: by Gatha beautified she moves

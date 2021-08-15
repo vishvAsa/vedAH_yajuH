@@ -2,5 +2,4 @@
 title = "०३ देव संस्फान"
 
 +++
-देव॑ संस्फान सहस्रापो॒षस्ये॑शिषे ।  
-तस्य॑ नो रास्व॒ तस्य॑ नो धेहि॒ तस्य॑ ते भक्ति॒वांसः॑ स्याम ॥३॥
+Thou, God bedewed with drops, art Lord of infinite prosperity. Grant us thereof, give us thereof: may we enjoy this boon of thine.

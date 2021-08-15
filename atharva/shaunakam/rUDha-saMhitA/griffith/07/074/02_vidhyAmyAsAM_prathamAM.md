@@ -2,5 +2,4 @@
 title = "०२ विध्याम्यासां प्रथमां"
 
 +++
-विध्या॑म्यासां प्रथ॒मां विध्या॑म्यु॒त म॑ध्य॒माम्।  
-इ॒दं ज॑घ॒न्याऽमासा॒मा च्छि॑नद्मि॒ स्तुका॑मिव ॥२॥  
+I pierce the foremost one of these, I perforate the middlemost, And here I cut the hindermost asunder like a lock of hair.

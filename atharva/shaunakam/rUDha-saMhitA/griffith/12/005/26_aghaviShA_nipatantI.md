@@ -2,4 +2,4 @@
 title = "२६ अघविषा निपतन्ती"
 
 +++
-अ॒घवि॑षा नि॒पत॑न्ती॒ तमो॒ निप॑तिता ॥२६॥  
+Fearfully venomous when falling, darkness when she hath fallen down.

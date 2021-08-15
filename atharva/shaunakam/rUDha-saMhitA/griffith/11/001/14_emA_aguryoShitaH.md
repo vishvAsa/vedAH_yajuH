@@ -2,5 +2,4 @@
 title = "१४ एमा अगुर्योषितः"
 
 +++
-एमा अ॑गुर्यो॒षितः॒ शुम्भ॑माना॒ उत्ति॑ष्ठ नारि त॒वसं॑ रभस्व ।  
-सु॒पत्नी॒ पत्या॑ प्र॒जया॑ प्र॒जाव॒त्या त्वा॑गन् यज्ञः प्रति॑ कु॒म्भं गृ॑भाय ॥१४॥  
+Hither these Dames have come in radiant beauty. Arise and seize= upon thy strength, O woman. To thee hath sacrifice come: take the pitcher, blest with a good lord, children, children's children.

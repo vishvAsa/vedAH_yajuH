@@ -2,5 +2,4 @@
 title = "०१ यां कल्पयन्ति"
 
 +++
-यां क॒ल्पय॑न्ति वह॒तौ व॒धूमि॑व वि॒श्वरू॑पां॒ हस्त॑कृतां चिकि॒त्सवः॑ ।  
-सारादे॒त्वप॑ नुदाम एनाम्॥१॥  
+Afar let her depart: away we drive her whom, made with hands, all-beautiful, Skilled men prepare and fashion like a bride amid her nuptial train.

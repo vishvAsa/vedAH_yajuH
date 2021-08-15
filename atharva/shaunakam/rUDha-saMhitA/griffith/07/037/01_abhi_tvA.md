@@ -2,5 +2,4 @@
 title = "०१ अभि त्वा"
 
 +++
-अ॒भि त्वा॒ मनु॑जातेन॒ दधा॑मि॒ मम॒ वास॑सा ।  
-यथासो॒ मम॒ केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न॥१॥
+With this my robe, inherited from Manu, I envelop thee, So that thou mayst be all mine own and give no thought to other dames.

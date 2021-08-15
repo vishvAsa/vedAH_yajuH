@@ -2,5 +2,4 @@
 title = "०२ निर्हस्तेभ्यो नैर्हस्तं"
 
 +++
-निर्ह॑स्तेभ्यो नैर्ह॒स्तं यं दे॑वाः॒ शरु॒मस्य॑थ ।  
-वृ॒श्चामि॒ शत्रू॑णां बा॒हून॒नेन॑ ह॒विषा॒हम्॥२॥  
+The shaft for handless fiends which, Gods! ye cast against the handless ones, With this, in shape of sacrifice, I rend the arms of enemies.

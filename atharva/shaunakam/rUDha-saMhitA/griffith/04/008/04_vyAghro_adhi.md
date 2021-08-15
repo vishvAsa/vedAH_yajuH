@@ -2,5 +2,4 @@
 title = "०४ व्याघ्रो अधि"
 
 +++
-व्या॒घ्रो अधि॒ वैया॑घ्रे॒ वि क्र॑मस्व॒ दिशो॑ म॒हीः ।  
-विश॑स्त्वा॒ सर्वा॑ वाञ्छ॒न्त्वापो॑ दिव्याः पय॑स्वतीः ॥४॥  
+Stride forth to heaven's broad regions, thou, a tiger on a tiger's skin. Let all the people long for thee. Let heavenly floods be rich in milk.

@@ -2,5 +2,4 @@
 title = "१९ रपद् गन्धर्वीरप्या"
 
 +++
-रप॑द् गन्ध॒र्वीरप्या॑ च॒ योष॑णा न॒दस्य॑ ना॒दे परि॑ पातु नो॒ मनः॑ ।
-इ॒ष्टस्य॒ मध्ये॒ अदि॑ति॒र्नि धा॑तु नो॒ भ्राता॑ नो ज्ये॒ष्ठः प्र॑थ॒मो वि वो॑चति ॥१९॥
+Gandharvi spake. May she, the Lady of the Flood amid the river's roaring leave my heart untouched. May Aditi accomplish all that we desire, and may our eldest Brother tell us this as chief.

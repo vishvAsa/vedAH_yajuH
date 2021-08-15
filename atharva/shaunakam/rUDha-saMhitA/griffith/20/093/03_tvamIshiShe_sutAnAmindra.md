@@ -2,4 +2,4 @@
 title = "०३ त्वमीशिषे सुतानामिन्द्र"
 
 +++
-त्वमी॑शिषे सु॒ताना॒मिन्द्र॒ त्वमसु॑तानाम्। त्वं राजा॒ जना॑नाम्॥३॥  
+Thou art the Lord of Soma pressed, Soma unpressed is also thine, Thou art the Sovran of the folk.

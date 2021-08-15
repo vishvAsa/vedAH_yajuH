@@ -2,5 +2,4 @@
 title = "२८ समानलोको भवति"
 
 +++
-स॒मा॒नलो॑को भवति पुन॒र्भुवाप॑रः॒ पतिः॑ ।  
-यो॒३जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं॒ ददा॑ति ॥२८॥  
+One world with the re-wedded wife becomes the second hus- band's home. Who gives the Goat Panchaudana illumined with the priestly fee.

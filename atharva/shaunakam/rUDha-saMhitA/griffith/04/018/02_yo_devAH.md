@@ -2,5 +2,4 @@
 title = "०२ यो देवाः"
 
 +++
-यो दे॑वाः कृ॒त्यां कृ॒त्वा हरा॒दवि॑दुषो गृ॒हम्।  
-व॒त्सो धा॒रुरि॑व मा॒तरं॒ तं प्र॒त्यगुप॑ पद्यताम्॥२॥  
+Gods! if one make and bring a spell on some man's house who knows it not, Close as the calf that sucks the cow may it revert and cling to him.

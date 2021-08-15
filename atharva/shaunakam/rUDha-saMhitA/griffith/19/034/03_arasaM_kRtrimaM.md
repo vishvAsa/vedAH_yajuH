@@ -2,5 +2,4 @@
 title = "०३ अरसं कृत्रिमं"
 
 +++
-अ॒र॒सं कृ॒त्रिमं॑ ना॒दम॑र॒साः स॒प्त विस्र॑सः ।  
-अपे॒तो ज॑ङ्गि॒डाम॑ति॒मिषु॒मस्ते॑व शातय ॥३॥  
+Baffle the loud factitious howl, make impotent the seven decays. As when an archer speeds the shaft, drive away want, O Jangida,

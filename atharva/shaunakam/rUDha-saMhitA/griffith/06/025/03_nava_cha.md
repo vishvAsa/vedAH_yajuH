@@ -2,5 +2,4 @@
 title = "०३ नव च"
 
 +++
-नव॑ च॒ या न॑व॒तिश्च॑ सं॒यन्ति॒ स्कन्ध्या॑ अ॒भि।  
-इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥३॥
+Those nine-and-ninety which, combined, attack the shoulder round about, Let them all vanish hence away like plaguing insects' buzz and hum!

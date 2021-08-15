@@ -2,4 +2,4 @@
 title = "०२ स्वयमेनमभ्युदेत्य ब्रूयाद्"
 
 +++
-स्व॒यमे॑नमभ्यु॒देत्य॑ ब्रूया॒द् व्रात्याति॑ सृज हो॒ष्यामीति॑ ॥२॥  
+Should of his own accord rise to meet him and say, Vratya, give me permission. I will sacrifice.

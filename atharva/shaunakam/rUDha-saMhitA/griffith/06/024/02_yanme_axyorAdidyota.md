@@ -2,5 +2,4 @@
 title = "०२ यन्मे अक्ष्योरादिद्योत"
 
 +++
-यन्मे॑ अ॒क्ष्योरा॑दि॒द्योत॒ पार्ष्ण्योः॒ प्रप॑दोश्च॒ यत्।  
-आप॒स्तत् सर्वं॒ निष्क॑रन् भि॒षजां॒ सुभि॑षक्तमाः ॥२॥  
+Whatever rupture I have had that injured eyes or heels or toes. All this the Waters, skilfullest physicians, shall make well again,

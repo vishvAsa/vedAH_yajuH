@@ -2,5 +2,4 @@
 title = "०१ मन्वे वां"
 
 +++
-म॒न्वे वां॑ मित्रावरुणावृतावृधौ॒ सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॑ ।  
-प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥१॥  
+You twain, O Mitra, Varuna, I honour, Lawstrengtheners, wise, who drive away oppressors. Ye who protect the truthful in his battles, deliver us, ye twain, from grief and trouble.

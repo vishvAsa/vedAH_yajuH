@@ -2,5 +2,4 @@
 title = "२१ शर्म वर्मैतदा"
 
 +++
-शर्म॒ वर्मै॒तदा ह॑रा॒स्यै नार्या॑ उप॒स्तिरे॑ ।  
-सिनी॑वालि॒ प्र जा॑यतां॒ भग॑स्य सुम॒ताव॑सत्॥२१॥  
+Take thou this wrapper as a screen, to be a covering for the bride O Sinivali, let her bear children, and live in Bhaga's grace.

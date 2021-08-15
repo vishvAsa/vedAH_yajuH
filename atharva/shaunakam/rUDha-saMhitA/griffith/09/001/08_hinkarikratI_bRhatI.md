@@ -2,5 +2,4 @@
 title = "०८ हिङ्करिक्रती बृहती"
 
 +++
-हि॒ङ्करि॑क्रती बृह॒ती व॑यो॒धा उ॒च्चैर्घो॑षा॒भ्येति॒ या व्र॒तम्।  
-त्रीन् घ॒र्मान॒भि वा॑वशा॒ना मिमा॑ति मा॒युं पय॑ते॒ पयो॑भिः ॥८॥  
+She who with voice upraised in constant clamour, mighty, life- giving, goes unto her function, Bellowing to the heated three libations, suckles with streams of milk, and still is lowing.

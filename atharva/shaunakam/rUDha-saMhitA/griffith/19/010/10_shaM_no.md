@@ -2,5 +2,4 @@
 title = "१० शं नो"
 
 +++
-शं नो॑ दे॒वः स॑वि॒ता त्राय॑माणः॒ शं नो॑ भवन्तू॒षसो॑ विभा॒तीः ।  
-शं नः॑ प॒र्जन्यो॑ भवतु प्र॒जाभ्यः॒ शं नः॒ क्षेत्र॑स्य॒ पति॑रस्तु शं॒भुः ॥१०॥
+Prosper us Savitar, the God who rescues, and let the radiant. Mornings be propitious. Propitious to our children be Parjanya, kind to us be the field's benign Protector!

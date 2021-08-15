@@ -2,5 +2,4 @@
 title = "०२ असौ मे"
 
 +++
-अ॒सौ मे॑ स्मरता॒दिति॑ प्रि॒यो मे॑ स्मरता॒दिति॑ ।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥२॥  
+I pray, may he remember me, think of me, loving and beloved. Send forth the spell, ye Deities! Let him consume with love of me.

@@ -2,5 +2,4 @@
 title = "१८ समिद्धो अग्न"
 
 +++
-समि॑द्धो अग्न आहुत॒ स नो॒ माभ्यप॑क्रमीः ।  
-अत्रै॒व दी॑दिहि॒ द्यवि॒ ज्योक् च॒ सूर्यं॑ दृ॒शे॥१८॥  
+O Agni, kindled and adored, turn not away to visit us. Shine brightly even there in heaven, so that we long may see the Sun.

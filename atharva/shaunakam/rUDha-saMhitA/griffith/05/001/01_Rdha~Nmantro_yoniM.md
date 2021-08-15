@@ -2,5 +2,4 @@
 title = "०१ ऋधङ्मन्त्रो योनिं"
 
 +++
-ऋध॑ङ्मन्त्रो॒ योनिं॒ य आ॑ब॒भूवामता॑सु॒र्वर्ध॑मानः सु॒जन्मा॑ ।  
-अद॑ब्धासु॒र्भ्राज॑मा॒नोऽहे॑व त्रि॒तो ध॒र्ता दा॑धार॒ त्रीणि॑ ॥१॥  
+He who with special plans and deathless spirit, waxing, well- born, hath come unto his birth-place, As he who shines upholds the days, thus Trita, of pure life, bears the Three as their supporter.

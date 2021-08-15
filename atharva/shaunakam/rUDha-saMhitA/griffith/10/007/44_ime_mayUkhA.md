@@ -2,4 +2,4 @@
 title = "४४ इमे मयूखा"
 
 +++
-इ॒मे म॒यूखा॒ उप॑ तस्तभु॒र्दिवं॒ सामा॑नि चक्रु॒स्तस॑राणि॒ वात॑वे ॥४४॥
+These pegs have buttressed up the sky. The Samans have turned them into shuttles for the weaving.

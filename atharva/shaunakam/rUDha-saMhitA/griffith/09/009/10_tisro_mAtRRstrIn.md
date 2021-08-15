@@ -2,5 +2,4 @@
 title = "१० तिस्रो मातॄस्त्रीन्"
 
 +++
-ति॒स्रो मा॒तॄस्त्रीन् पि॒तॄन् बिभ्र॒देक॑ ऊ॒र्ध्वस्त॑स्थौ॒ नेमव॑ ग्लापयन्त ।  
-म॒न्त्रय॑न्ते दि॒वो अ॒मुष्य॑ पृ॒ष्ठे वि॑श्व॒विदो॒ वाच॒मवि॑श्वविन्नाम्॥१०॥  
+Bearing three mothers and three fathers, single he stood erect: they never made him weary. On yonder heaven's high ridge they speak together in speech not known to all, themselves all-knowing.

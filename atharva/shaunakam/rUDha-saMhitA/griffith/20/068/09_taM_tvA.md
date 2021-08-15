@@ -2,4 +2,4 @@
 title = "०९ तं त्वा"
 
 +++
-तं त्वा॒ वाजे॑षु वा॒जिनं॑ वा॒जया॑मः शतक्रतो । धना॑नामिन्द्र सा॒तये॑ ॥९॥  
+We strengthen, Satakratu, thee, yea, thee the powerfull in fight, That, Indra, we may win us wealth.

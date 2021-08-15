@@ -2,5 +2,4 @@
 title = "०१ दिव्यो गन्धर्वो"
 
 +++
-दि॒व्यो ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्योऽवि॒क्ष्वीड्यः॑ ।  
-तं त्वा॑ यौमि॒ ब्रह्म॑णा दिव्य देव॒ नम॑स्ते अस्तु दि॒वि ते॑ स॒धस्थ॑म्॥१॥  
+Lord of the World, divine Gandharva, only he should be honoured in the Tribes and worshipped. Fast with my spell, celestial God, I hold thee. Homage to thee! Thy home is in the heavens.

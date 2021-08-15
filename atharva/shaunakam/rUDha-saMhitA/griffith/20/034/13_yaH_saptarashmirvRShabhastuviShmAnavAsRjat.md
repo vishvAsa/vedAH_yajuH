@@ -2,5 +2,4 @@
 title = "१३ यः सप्तरश्मिर्वृषभस्तुविष्मानवासृजत्"
 
 +++
-यः स॒प्तर॑श्मिर्वृष॒भस्तुवि॑ष्मान॒वासृ॑ज॒त् सर्त॑वे स॒प्त सिन्धू॑न्।  
-यो रौ॑हि॒णमस्फु॑र॒द् वज्र॑बाहु॒र्द्यामा॒रोह॑न्तं॒ स ज॑नास॒ इन्द्रः॑ ॥१३॥  
+Who, with seven guiding reins, the Bull, the mighty, set the Seven Rivers free to flow at pleasure; Who, thunder-armed, rent Rauhina in pieces when scaling heaven, He, O ye men, is Indra.

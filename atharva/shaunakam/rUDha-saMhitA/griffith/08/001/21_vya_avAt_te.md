@@ -2,5 +2,4 @@
 title = "२१ व्यऽवात् ते"
 
 +++
-व्यऽवात् ते॒ ज्योति॑रभू॒दप॒ त्वत्तमो॑ अक्रमीत्।  
-अप॒ त्वन्मृ॒त्युं निरृ॑ति॒मप॒ यक्ष्मं॒ नि द॑ध्मसि ॥२१॥
+Life hath breathed on thee; light hath come: darkness hath past away from thee. Far from thee we have buried Death, buried Destruction and: Decline.

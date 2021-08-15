@@ -2,4 +2,4 @@
 title = "१५ पल्प बद्ध"
 
 +++
-पल्प॑ बद्ध॒ वयो॒ इति॑ ॥१५॥  
+Barley and ripened rice I seek. On rice and barley hast thou fed, (with next verse)

@@ -2,5 +2,4 @@
 title = "०३ इत ऊती"
 
 +++
-इ॒त ऊ॒ती वो॑ अ॒जरं॑ प्रहे॒तार॒मप्र॑हितम्।  
-आ॒शुं जेता॑रं॒ हेता॑रं रथीत॑म॒मतू॑र्तं तुग्र्या॒वृध॑म्॥३॥  
+Bring to your aid the Eternal One, who shoots and none may shoot at him, Inciter, swift, victorious, best of charioteers, Tugrya's unvan- quished strengthener;

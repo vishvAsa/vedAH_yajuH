@@ -2,6 +2,4 @@
 title = "०९ याः कृत्या"
 
 +++
-याः कृ॒त्या आ॑ङ्गिर॒सीर्याः कृ॒त्या आ॑सु॒रीर्याः ।  
-कृ॒त्याः स्व॒यंकृ॑ता॒ या उ॑ चा॒न्येभि॒राभृ॑ताः ।  
-उ॒भयी॒स्ताः परा॑ यन्तु परा॒वतो॑ नव॒तिं ना॒व्या॒३अति॑ ॥९॥  
+All witchcraft of Angirases,"all witchcraft wrought by Asuras, All witchcraft self-originate, and all that others have prepared, May these depart to both remotest spaces, past ninety ample water-floods.

@@ -2,5 +2,4 @@
 title = "०९ प्रतीची दिशामियमिद्"
 
 +++
-प्र॒तीची॑ दि॒शामि॒यमिद् वरं॒ यस्यां॒ सोमो॑ अधि॒पा मृ॑डि॒ता च॑ ।  
-तस्यां॑ श्रयेथां सु॒कृतः॑ सचेथा॒मधा॑ प॒क्वान्मि॑थुना॒ सं भ॑वाथः ॥९॥  
+Best of the regions is indeed this western wherein the King and gracious Lord is Soma. Thither resort for rest, follow the pious. Then gain the laden chargers, O ye couple.

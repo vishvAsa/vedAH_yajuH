@@ -2,5 +2,4 @@
 title = "०९ तैस्त्वा सर्वैरभि"
 
 +++
-तैस्त्वा॒ सर्वै॑र॒भि ष्या॑मि॒ पाशै॑रसावामुष्यायणामुष्याः पुत्र ।  
-तानु॑ ते॒ सर्वा॑ननु॒संदि॑शामि ॥९॥
+I bind and hold thee fast with all these nooses, thou son of such a man and such a mother. All these do I assign thee as thy portion.

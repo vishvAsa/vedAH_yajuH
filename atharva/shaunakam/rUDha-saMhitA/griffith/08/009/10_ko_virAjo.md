@@ -2,5 +2,4 @@
 title = "१० को विराजो"
 
 +++
-को वि॒राजो॑ मिथुन॒त्वं प्र वे॑द॒ क ऋ॒तून् क उ॒ कल्प॑मस्याः ।  
-क्रमा॒न् को अ॑स्याः कति॒धा विदु॑ग्धा॒न् को अ॑स्या॒ धाम॑ कति॒धा व्युऽष्टीः ॥१०॥  
+Who hath perceived Viraj's duplication, perceived her seasons and her rule and practice? Who knows her steps, how oft, how far extended, who knows her home and number of her dawnings?

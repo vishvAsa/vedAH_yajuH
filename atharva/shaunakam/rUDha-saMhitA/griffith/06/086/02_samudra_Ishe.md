@@ -2,5 +2,4 @@
 title = "०२ समुद्र ईशे"
 
 +++
-स॒मु॒द्र ई॑शे स्र॒वता॑म॒ग्निः पृ॑थि॒व्या व॒शी।  
-च॒न्द्रमा॒ नक्ष॑त्राणामीशे॒ त्वमे॑कवृ॒षो भ॑व ॥२॥  
+The Sea is regent of the floods, Agni is ruler of the land, The Moon is regent of the stars: the one and only Lord be thou.

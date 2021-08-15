@@ -2,5 +2,4 @@
 title = "०१ अभिभूर्यज्ञो अभिभूरग्निरभिभूः"
 
 +++
-अ॒भि॒भूर्य॒ज्ञो अ॑भि॒भूर॒ग्निर॑भि॒भूः सोमो॑ अभि॒भूरिन्द्रः॑ ।  
-अ॒भ्य॑हं विश्वाः॒ पृत॑ना॒ यथासा॑न्ये॒वा वि॑धेमा॒ग्निहो॑त्रा इ॒दं ह॒विः ॥१॥  
+The sacrifice is victor, Agni victor, victorious is Soma, Indra conquers: So will we bring oblation unto Agni, this sacrifice that I may win all battles.

@@ -2,5 +2,4 @@
 title = "१४ अग्निमन्तश्छादयसि पुरुषान्"
 
 +++
-अ॒ग्निम॒न्तश्छा॑दयसि॒ पुरु॑षान् प॒शुभिः॑ स॒ह।  
-विजा॑वति॒ प्रजा॑वति॒ वि ते॒ पाशां॑श्चृतामसि ॥१४॥  
+Agni thou shelterest within, and people with domestic beasts. We loose the bonds that fasten thee, mother of multitudes to come!

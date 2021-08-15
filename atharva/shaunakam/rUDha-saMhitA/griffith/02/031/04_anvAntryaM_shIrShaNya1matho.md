@@ -2,5 +2,4 @@
 title = "०४ अन्वान्त्र्यं शीर्षण्य१मथो"
 
 +++
-अन्वा॑न्त्र्यं शीर्ष॒ण्य॑१मथो॒ पार्ष्टे॑यं॒ क्रिमी॑न्।  
-अ॒व॒स्क॒वं व्य॑ध्व॒रं क्रिमी॒न् वच॑सा जम्भयामसि ॥४॥  
+The worm that lives within the ribs, within the bowels, in the head. Avaskava and Borer, these we bruise to pieces with the spell.

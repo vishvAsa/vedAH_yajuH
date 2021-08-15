@@ -2,5 +2,4 @@
 title = "०६ अभिवृष्टा ओषधयः"
 
 +++
-अ॒भिवृ॑ष्टा॒ ओष॑धयः प्रा॒णेन॒ सम॑वादिरन्।  
-आयु॒र्वै नः॒ प्राती॑तरः॒ सर्वा॑ नः सुर॒भीर॑कः ॥६॥  
+Watered by Prana's rain the plants have raised their voices in accord: Thou hast prolonged our life, they say, and given fragrance to us all.

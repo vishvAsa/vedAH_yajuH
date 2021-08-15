@@ -2,5 +2,4 @@
 title = "०९ सोमो वधूयुरभवदश्विनास्तामुभा"
 
 +++
-सोमो॑ वधू॒युर॑भवद॒श्विना॑स्तामु॒भा व॒रा।  
-सू॒र्यां यत् पत्ये॒ शंस॑न्तीं॒ मन॑सा सवि॒ताद॑दात्॥९॥  
+Soma was he who wooed the maid: the groomsmen were both. Asvins, when The Sun-God Savitar bestowed his willing Surya on her lord.

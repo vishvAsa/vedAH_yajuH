@@ -2,4 +2,4 @@
 title = "५२ आददानमाङ्गिरसि ब्रह्मज्यमुप"
 
 +++
-आ॒ददा॑नमाङ्गिरसि ब्रह्म॒ज्यमुप॑ दासय ॥५२॥  
+Destroy Angirasi! the wretch who robs and wrongs the Brah- mans, born.

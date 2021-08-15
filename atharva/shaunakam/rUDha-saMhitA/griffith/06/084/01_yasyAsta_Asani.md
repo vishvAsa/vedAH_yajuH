@@ -2,5 +2,4 @@
 title = "०१ यस्यास्त आसनि"
 
 +++
-यस्या॑स्त आ॒सनि॑ घो॒रे जु॒होम्ये॒षां ब॒द्धाना॑मव॒सर्ज॑नाय॒ कम्।  
-भूमि॒रिति॑ त्वाभि॒प्रम॑न्वते॒ जना॒ निरृ॑ति॒रिति॑ त्वा॒हं परि॑ वेद स॒र्वतः॑ ॥१॥  
+Thou in whose dread mouth I present oblation, that these bound victims may obtain their freedom, The people deem that thou art Earth: I know thee thoroughly, and I say thou art Destruction.

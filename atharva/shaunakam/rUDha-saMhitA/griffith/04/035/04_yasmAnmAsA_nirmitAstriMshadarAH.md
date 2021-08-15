@@ -2,5 +2,4 @@
 title = "०४ यस्मान्मासा निर्मितास्त्रिंशदराः"
 
 +++
-यस्मा॒न्मासा॒ निर्मि॑तास्त्रिं॒शद॑राः संवत्स॒रो यस्मा॒न्निर्मि॑तो॒ द्वाद॑शारः ।  
-अ॒हो॒रा॒त्रा यं प॑रि॒यन्तो॒ नापुस्तेनौ॑दनेनाति॑ तराणि मृ॒त्युम्॥४॥  
+From which the months with thirty spokes were moulded, from which the twelve-spoked year was formed and fashioned. Which circling day and night have ne'er o'ertaken,--I with this Odana will conquer Mrityu.

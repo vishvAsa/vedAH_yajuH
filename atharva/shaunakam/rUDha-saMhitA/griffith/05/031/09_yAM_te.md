@@ -2,5 +2,4 @@
 title = "०९ यां ते"
 
 +++
-यां ते॑ च॒क्रुः पु॑रुषा॒स्थे अ॒ग्नौ संक॑सुके च॒ याम्।  
-म्रो॒कं नि॑र्दा॒हं क्र॒व्यादं॒ पुनः॒ प्रति॑ हरामि॒ ताम्॥९॥  
+The spell that they have wrought for thee in flickering fire of human bones,-- Mroka, consuming, cannibal, this I throw back again on them.

@@ -2,5 +2,4 @@
 title = "१२ शुची ते"
 
 +++
-शुची॑ ते च॒क्रे या॒त्या व्या॒नो अक्ष॒ आह॑तः ।  
-अनो॑ मन॒स्मयं॑ सू॒र्यारो॑हत् प्रय॒ती पति॑म्॥१२॥  
+Pure, as thou wentest, were thy wheels, breath was the axle pier- cing them. Surya advancing to her lord rode on the chariot of her heart.

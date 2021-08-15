@@ -2,5 +2,4 @@
 title = "०१ यो भूतं"
 
 +++
-यो भू॒तं च॒ भव्यं॑ च॒ सर्वं॒ यश्चा॑धि॒तिष्ठ॑ति ।  
-स्व॑१र्यस्य॑ च॒ केव॑लं॒ तस्मै॑ ज्ये॒ष्ठाय॒ ब्रह्म॑णे॒ नमः॑ ॥१॥  
+Worship to loftiest Brahma, Lord of what hath been and what shall be, To him who rules the universe, and heavenly light is all his own!

@@ -2,5 +2,4 @@
 title = "१५ वृषभो न"
 
 +++
-वृ॒ष॒भो न ति॒ग्मशृ॑ङ्गो॒ऽन्तर्यू॒थेषु॒ रोरु॑वत्।  
-म॒न्थस्त॑ इन्द्र॒ शं हृ॒दे यं ते॑ सु॒नोति॑ भाव॒युर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥१५॥  
+Like as a bull with pointed horn, loud bellowing amid the herds, Sweet to thine heart, O Indra, is the brew which she who tends thee pours. Supreme is Indra over all.

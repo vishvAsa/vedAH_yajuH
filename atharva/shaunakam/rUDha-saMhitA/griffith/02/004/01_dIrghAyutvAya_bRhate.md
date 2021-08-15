@@ -2,5 +2,4 @@
 title = "०१ दीर्घायुत्वाय बृहते"
 
 +++
-दी॒र्घा॒यु॒त्वाय॑ बृह॒ते रणा॒यारि॑ष्यन्तो॒ दक्ष॑माणाः॒ सदै॒व।  
-म॒णिं वि॑ष्कन्ध॒दूष॑णं जङ्गि॒डं बि॑भृमो व॒यम्॥१॥  
+For length of life, for mighty joy, uninjured, ever showing strength. We wear Vishkandha's antidote, the Amulet of Jangida.

@@ -2,5 +2,4 @@
 title = "०४ स इषुहस्तैः"
 
 +++
-स इषु॑हस्तैः॒ स नि॑ष॒ङ्गिभि॑र्व॒शी संस्र॑ष्टा॒ स युध॒ इन्द्रो॑ ग॒णेन॑ ।  
-सं॒सृ॒ष्ट॒जित् सो॑म॒पा बा॑हुश॒र्ध्यु॑१ग्रध॑न्वा॒ प्रति॑हिताभि॒रस्ता॑ ॥४॥  
+He rules with those who carry shafts and quivers, Indra who with his hand brings hosts together, Foe-conquering, strong of arm, the Soma-drinker, with mighty bow, shooting with well-laid arrows.

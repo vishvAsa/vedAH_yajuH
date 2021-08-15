@@ -2,4 +2,4 @@
 title = "०३ स्वधया परिहिता"
 
 +++
-स्व॒धया॒ परि॑हिता श्र॒द्धया॒ पर्यू॑ढा दी॒क्षया॑ गु॒प्ता य॒ज्ञे प्रति॑ष्ठिता लो॒को नि॒धन॑म्॥३॥  
+Girt round with inherent power, fortified with faith, protected, by consecration, installed at sacrifice, the world her resting- place;

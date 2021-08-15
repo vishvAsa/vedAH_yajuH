@@ -2,5 +2,4 @@
 title = "०२ ययोः संख्याता"
 
 +++
-ययोः॒ संख्या॑ता॒ वरि॑मा॒ पार्थि॑वानि॒ याभ्यां॒ रजो॑ युपि॒तम॒न्तरि॑क्षे ।  
-ययोः॑ प्रा॒यं नान्वा॑न॒शे कश्च॒न तौ नो॑ मुञ्चत॒मंह॑सः ॥२॥  
+Ye who have counted up the earth's expanses, and in the sky smoothed out the air's mid-region, Whose going-forth hath ne'er been reached by any, deliver us, ye two, from grief and trouble.

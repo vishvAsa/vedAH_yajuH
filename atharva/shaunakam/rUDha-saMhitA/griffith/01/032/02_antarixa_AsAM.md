@@ -2,5 +2,4 @@
 title = "०२ अन्तरिक्ष आसां"
 
 +++
-अ॒न्तरि॑क्ष आसां॒ स्थाम॑ श्रान्त॒सदा॑मिव ।  
-आ॒स्थान॑म॒स्य भू॒तस्य॑ वि॒दुष्टद् वे॒धसो॒ न वा॑ ॥२॥  
+Their station, as of those who rest when weary, is in midmost air: The base whereon this world is built, the sages know or know it not.

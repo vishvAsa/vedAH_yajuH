@@ -2,5 +2,4 @@
 title = "०२ अभीशुना मेया"
 
 +++
-अ॒भीशु॑ना॒ मेया॑ आसन् व्या॒मेना॑नु॒मेयाः॑ ।  
-केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥२॥  
+They might be measured with a rein, meted with both extended arms. Let the black locks spring thick and strong and grow like reeds upon thy head.

@@ -2,5 +2,4 @@
 title = "०३ प्रोष्ठेशयास्तल्पेशया नारीर्या"
 
 +++
-प्रो॒ष्ठे॒श॒यास्त॑ल्पेश॒या नारी॒र्या व॑ह्य॒शीव॑रीः ।  
-स्त्रियो॒ याः पुण्य॑गन्धय॒स्ताः सर्वाः॑ स्वापयामसि ॥३॥  
+The woman sleeping in the court, lying without, or stretched on beds, The matrons with their odorous sweets--these, one and all, we lull to sleep.

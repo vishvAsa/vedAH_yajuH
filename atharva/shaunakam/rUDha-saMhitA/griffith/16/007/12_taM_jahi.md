@@ -2,4 +2,4 @@
 title = "१२ तं जहि"
 
 +++
-तं ज॑हि॒ तेन॑ मन्दस्व॒ तस्य॑ पृ॒ष्टीरपि॑ शृणीहि ॥१२॥  
+Slay him; rejoice in this; crush his ribs.

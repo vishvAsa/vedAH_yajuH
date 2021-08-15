@@ -2,5 +2,4 @@
 title = "०३ यत्रा सुहार्दः"
 
 +++
-यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्वः॑१ स्वायाः॑ ।  
-अश्लो॑णा॒ अङ्गै॒रह्रु॑ताः स्व॒र्गे तत्र॑ पश्येम पि॒तरौ॑ च पु॒त्रान्॥३॥
+There where our virtuous friends, who left behind them their bodily infirmities, are happy, Free from distortion of the limbs and lameness, may we behold, in heaven, our sons and parents.

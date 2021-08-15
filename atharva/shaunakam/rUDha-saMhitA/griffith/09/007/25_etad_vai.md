@@ -2,4 +2,4 @@
 title = "२५ एतद् वै"
 
 +++
-ए॒तद् वै वि॒श्वरू॑पं॒ सर्व॑रूपं गोरू॒पम्॥२५॥  
+This verily is omniform, wearing all forms, bovine-formed.

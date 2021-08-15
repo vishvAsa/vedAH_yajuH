@@ -2,5 +2,4 @@
 title = "११ नयतामून् मृत्युदूता"
 
 +++
-नय॑ता॒मून् मृ॑त्युदूता॒ यम॑दूता॒ अपो॑म्भत ।  
-प॒रः॒स॒ह॒स्रा ह॑न्यन्तां तृ॒णेढ्वे॑नान् म॒त्यं भ॒वस्य॑ ॥११॥  
+Bear them away, Death's messengers! envoys of Yama! bind them fast. More than a thousand be their slain: the club of Bhava pierce them through!

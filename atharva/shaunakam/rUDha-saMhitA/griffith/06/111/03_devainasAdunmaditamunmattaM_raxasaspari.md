@@ -2,5 +2,4 @@
 title = "०३ देवैनसादुन्मदितमुन्मत्तं रक्षसस्परि"
 
 +++
-दे॒वै॒न॒सादुन्म॑दित॒मुन्म॑त्तं॒ रक्ष॑स॒स्परि॑ ।  
-कृ॒णोमि॑ वि॒द्वान् भे॑ष॒जं यदानु॑न्मदि॒तोऽस॑ति ॥३॥  
+Insane through sin against the Gods, or maddened by a demon's power-- Well-skilled I make a medicine to free thee from insanity.

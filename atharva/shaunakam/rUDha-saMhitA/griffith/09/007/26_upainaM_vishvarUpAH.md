@@ -2,4 +2,4 @@
 title = "२६ उपैनं विश्वरूपाः"
 
 +++
-उपै॑नं वि॒श्वरू॑पाः॒ सर्व॑रूपाः प॒शव॑स्तिष्ठन्ति॒ य ए॒वं वेद॑ ॥२६॥
+Upon him wait omniform beasts, wearing every shape, each one who hath this knowledge.

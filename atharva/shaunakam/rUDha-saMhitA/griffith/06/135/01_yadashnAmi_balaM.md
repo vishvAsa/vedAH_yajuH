@@ -2,5 +2,4 @@
 title = "०१ यदश्नामि बलं"
 
 +++
-यद॒श्नामि॒ बलं॑ कुर्व इ॒त्थं वज्र॒मा द॑दे ।  
-स्क॒न्धान॒मुष्य॑ शा॒तय॑न् वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥१॥  
+Whate'er I eat I turn to strength, and thus I grasp the Thunder- bolt, Rending the shoulders of that man as Indra shattered Vritra's neck.

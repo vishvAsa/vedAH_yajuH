@@ -2,5 +2,4 @@
 title = "०३ यस्ते केशोऽवपद्यते"
 
 +++
-यस्ते॒ केशो॑ऽव॒पद्य॑ते॒ समू॑लो॒ यश्च॑ वृ॒श्चते॑ ।  
-इ॒दं तं वि॒श्वभे॑षज्या॒भि षि॑ञ्चामि वी॒रुधा॑ ॥३॥
+Thy hair where it is falling off, and with the roots is torn away, I wet and sprinkle with the Plant, the remedy for all disease.

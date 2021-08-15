@@ -2,5 +2,4 @@
 title = "१० अभीवस्वः प्र"
 
 +++
-अ॒भीवस्वः॒ प्र जि॑हीते॒ यवः॑ प॒क्वः प॒थो बिल॑म्।  
-जनः॒ स भ॒द्रमेध॑ति रा॒ष्ट्रे राज्ञः॑ परि॒क्षितः॑ ॥१०॥  
+Up as it were to heavenly light springs the ripe corn above the cleft. Happily thrive the people in the land where King Parikshit reigns.

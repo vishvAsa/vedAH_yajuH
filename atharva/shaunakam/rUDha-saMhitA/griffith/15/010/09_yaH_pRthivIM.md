@@ -2,4 +2,4 @@
 title = "०९ यः पृथिवीं"
 
 +++
-यः पृ॑थि॒वीं बृह॒स्पति॑म॒ग्निं ब्रह्म॒ वेद॑ ॥९॥  
+Who knows that Earth is Brihaspati and Agni Priesthood.

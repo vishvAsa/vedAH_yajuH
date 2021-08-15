@@ -2,5 +2,4 @@
 title = "१५ शिरो हस्तावथो"
 
 +++
-शिरो॒ हस्ता॒वथो॒ मुखं॑ जि॒ह्वां ग्री॒वाश्च॒ कीक॑साः ।  
-त्व॒चा प्रा॒वृत्य॒ सर्वं॒ तत् सं॒धा सम॑दधान्म॒ही॥१५॥  
+Head, both the hands, and face, and tongue, and neck, and inter- coastal parts, All this, investing it with skins, Mahi conjoined with bond and tie.

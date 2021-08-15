@@ -2,5 +2,4 @@
 title = "०१ त्रिकद्रुकेषु महिषो"
 
 +++
-त्रिक॑द्रुकेषु महि॒षो यवा॑शिरं तुवि॒शुष्म॑स्तृ॒पत् सोम॑मपिब॒द् विष्णु॑ना सु॒तं यथाव॑शत्।  
-स ईं॑ ममाद॒ महि॒ कर्म॒ कर्त॑वे म॒हामु॒रुं सैनं॑ सश्चद् दे॒वो दे॒वं स॒त्यमिन्द्रं॑ स॒त्य इन्दुः॑ ॥१॥  
+From the three jars the Great and Strong hath drunk drink blent with meal. With Vishnu hath he quaffed the flowing Soma juice, all that he would. That hath so heightened him the Great, the Vast, to do his mighty work. So may the God attend the God, true Indu Indra who is true.

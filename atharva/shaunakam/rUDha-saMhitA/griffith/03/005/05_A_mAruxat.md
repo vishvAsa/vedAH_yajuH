@@ -2,5 +2,4 @@
 title = "०५ आ मारुक्षत्"
 
 +++
-आ मा॑रुक्षत् पर्णम॒णिर्म॒ह्या अ॑रि॒ष्टता॑तये ।  
-यथा॒हमु॑त्त॒रोऽसा॑न्यर्य॒म्ण उ॒त सं॒विदः॑ ॥५॥  
+The Parna-Charm hath come to me for great security from ill. That I may be exalted, yea, above the wealth of Aryaman.

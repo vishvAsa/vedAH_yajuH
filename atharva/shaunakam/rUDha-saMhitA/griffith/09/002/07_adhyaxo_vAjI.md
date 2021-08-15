@@ -2,5 +2,4 @@
 title = "०७ अध्यक्षो वाजी"
 
 +++
-अध्य॑क्षो वा॒जी मम॑ काम॑ उ॒ग्रः कृ॒णोतु॒ मह्य॑मसप॒त्नमे॒व।  
-विश्वे॑ दे॒वा मम॑ ना॒थं भ॑वन्तु॒ सर्वे॑ दे॒वा हव॒मा य॑न्तु म इ॒मम्॥७॥  
+May Kama, mighty one, my potent warder, give me full free- dom from mine adversaries. May all the Deities be my protection, all Gods come nigh to this mine invocation.

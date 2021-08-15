@@ -2,5 +2,4 @@
 title = "१७ को अस्मिन्"
 
 +++
-को अ॑स्मि॒न् रेतो॒ न्यऽदधा॒त् तन्तु॒रा ता॑यता॒मिति॑ ।  
-मे॒धां को अ॑स्मि॒न्नध्यौ॑ह॒त् को बा॒णं को नृतो॑ दधौ ॥१७॥  
+Who set the seed in him and said, Still be the thread of life spun out? Who gave him intellect besides? Who gave him voice and gestic power?

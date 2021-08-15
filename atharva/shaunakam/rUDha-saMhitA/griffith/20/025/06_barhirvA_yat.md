@@ -2,5 +2,4 @@
 title = "०६ बर्हिर्वा यत्"
 
 +++
-ब॒र्हिर्वा॒ यत् स्व॑प॒त्याय॑ वृ॒ज्यते॒ऽर्को वा॒ श्लोक॑मा॒घोष॑ते दि॒वि।  
-ग्रावा॒ यत्र॒ वद॑ति का॒रुरु॒क्थ्य॑१स्तस्येदिन्द्रो॑ अभिपि॒त्वेषु॑ रण्यति ॥६॥  
+When sacred grass is trimmed to aid the auspicious work, or the hymn makes its voice of praise sound to the sky, Where the stone rings as 'twere a singer skilled in laud,--Indra in truth delights when these come near to him.

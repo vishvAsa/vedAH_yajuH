@@ -2,4 +2,4 @@
 title = "०२ सामानि यस्य"
 
 +++
-सामा॑नि॒ यस्य॒ लोमा॑नि॒ यजु॒र्हृद॑यमु॒च्यते॑ परि॒स्तर॑णा॒मिद्ध॒विः ॥२॥  
+Whose hairs are psalms, whose heart is called the Yajus, whose coverlet is verily oblation--

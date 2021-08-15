@@ -2,5 +2,4 @@
 title = "१० गृहाण ग्रावाणौ"
 
 +++
-गृ॒हा॒ण ग्रावा॑णौ स॒कृतौ॑ वीर॒ हस्त॒ आ ते॑ दे॒वा य॒ज्ञिया॑ य॒ज्ञम॑गुः ।  
-त्रयो॒ वरा॑ यत॒मांस्त्वं वृ॑णी॒षे तास्ते॒ समृ॑द्धीरि॒ह रा॑धयामि ॥१०॥॥  
+Grasp with thy hand, O man, the well-formed press-stones: the holy Gods have come unto thy worship. Three wishes of thy heart which thou electest, these happy gains for thee I here make ready.

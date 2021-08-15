@@ -2,5 +2,4 @@
 title = "०८ यो मा"
 
 +++
-यो मा॒ पाके॑न॒ मन॑सा॒ चर॑न्तमभि॒चष्टे॒ अनृ॑तेभि॒र्वचो॑भिः ।  
-आप॑ इव का॒शिना॒ संगृ॑भीता॒ अस॑न्न॒स्त्वस॑तः इन्द्र व॒क्ता॥८॥  
+Whoso accuses me with words of falsehood when I pursue my way with guileless spirit, May he, the speaker of untruth, be, Indra! like water which the hollowed hand compresses.

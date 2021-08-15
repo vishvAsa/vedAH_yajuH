@@ -2,5 +2,4 @@
 title = "०२ समीक्षयन्तु तविषाः"
 
 +++
-समी॑क्षयन्तु तवि॒षाः सु॒दान॑वो॒ ऽपां रसा॒ ओष॑धीभिः सचन्ताम्।  
-व॒र्षस्य॒ सर्गा॑ महयन्तु॒ भूमिं॒ पृथ॑ग् जायन्ता॒मोष॑धयो वि॒श्वरू॑पाः ॥२॥  
+Let them show forth, the strong, the bounteous Maruts: let plants and shrubs be hung with drops of moisture. Let floods of rain refresh the ground with gladness and herbs spring various with each form and colour.

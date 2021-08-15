@@ -2,5 +2,4 @@
 title = "६२ अभ्रातृघ्नीं वरुणापशुघ्नीं"
 
 +++
-अभ्रा॑तृघ्नीं वरु॒णाप॑शुघ्नीं बृहस्पते ।  
-इन्द्राप॑तिघ्नीं पु॒त्रिणी॒मास्मभ्यं॑ सवितर्वह ॥६२॥  
+To us, O Varuna, bring her, kind to brothers; bring her, Brihas- pati, gentle to the cattle. Bring her, O Indra, gentle to her husband: bring her to us, O Savitar, blest with children.

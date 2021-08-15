@@ -2,5 +2,4 @@
 title = "२२ यस्य तक्मा"
 
 +++
-यस्य॑ त॒क्मा कासि॑का हे॒तिरेक॒मश्व॑स्येव॒ वृष॑णः॒ क्रन्द॒ एति॑ ।  
-अ॒भि॒पू॒र्वं नि॒र्णय॑ते॒ नमो॑ अस्त्वस्मै ॥२२॥  
+Homage to him whose weapon, Cough or Fever, assails one like the neighing of a stallion; to him who draws one forth and then another!

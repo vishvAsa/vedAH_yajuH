@@ -2,5 +2,4 @@
 title = "०१ इदं हविर्यातुधानान्"
 
 +++
-इ॒दं ह॒विर्या॑तु॒धाना॑न् न॒दी फेन॑मि॒वा व॑हत्।  
-य इ॒दं स्त्री पुमा॒नक॑रि॒ह स स्तु॑वतां॒ जनः॑ ॥१॥  
+This sacrifice shall bring the Yatudhanas as the flood brings foam: Here let the doer of this deed woman or man, acknowledge it.

@@ -2,5 +2,4 @@
 title = "०६ यदासुतेः क्रियमाणायाः"
 
 +++
-यदा॑सु॒तेः क्रि॒यमा॑णायाः क्षेत्रि॒यं त्वा॑ व्यान॒शे।  
-वेदा॒हं तस्य॑ भेष॒जं क्षे॑त्रि॒यं ना॑शयामि॒ त्वत्॥६॥  
+Hath some prepared decoction brought inveterate disease on thee, I know the balm that healeth it: we drive the malady away.

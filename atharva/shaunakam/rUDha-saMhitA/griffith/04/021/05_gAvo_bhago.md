@@ -2,5 +2,4 @@
 title = "०५ गावो भगो"
 
 +++
-गावो॒ भगो॒ गाव॒ इन्द्रो॑ म इच्छा॒द् गावः॒ सोम॑स्य प्रथ॒मस्य॑ भ॒क्षः ।  
-इ॒मा या गावः॒ स ज॑नास॒ इन्द्र॑ इ॒च्छामि॑ हृ॒दा मन॑सा चि॒दिन्द्र॑म्॥५॥  
+To me the Cows seem Bhaga, they seem Indra, they seem a portion of the first poured Soma. These present Cows, they, O ye men, are Indra. I long for Indra with my heart and spirit.

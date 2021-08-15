@@ -2,5 +2,4 @@
 title = "०५ तव च्यौत्नानि"
 
 +++
-तव॑ च्यौ॒त्नानि॑ वज्रहस्त॒ तानि॒ नव॒ यत् पुरो॑ नव॒तिं च॑ स॒द्यः ।  
-नि॒वेश॑ने शतत॒मावि॑वेषी॒रहं॑ च वृ॒त्रं नमु॑चिमु॒ताह॑न्॥५॥  
+These were thy mighty powers that, Thunder-wielder! then swiftly crushedst nine-and ninety castles. Thou capturedst the hundredth in thine onslaught; thou slewest Namuchi, thou slewest Vritra.

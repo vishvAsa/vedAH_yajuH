@@ -2,5 +2,4 @@
 title = "०३ अधि द्वयोरदधा"
 
 +++
-अधि॒ द्वयो॑रदधा उ॒क्थ्यं॑१ वचो॑ य॒तस्रु॑चा मिथु॒ना या स॑प॒र्यतः॑ ।  
-असं॑यत्तो व्र॒ते ते॑ क्षेति॒ पुष्य॑ति भ॒द्रा श॒क्तिर्यज॑मानाय सुन्व॒ते॥३॥  
+Praiseworthy blessing hast thou laid upon the pair who with uplifted ladle serve thee, man and wife. Unchecked he dwells and prospers in thy law: thy power brings blessing to the sacrificer pouring gifts.

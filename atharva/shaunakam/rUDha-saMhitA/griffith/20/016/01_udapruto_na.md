@@ -2,5 +2,4 @@
 title = "०१ उदप्रुतो न"
 
 +++
-उ॒द॒प्रुतो॒ न वयो॒ रक्ष॑माणा॒ वाव॑दतो अ॒भ्रिय॑स्येव॒ घोषाः॑ ।  
-गि॒रि॒भ्रजो॒ नोर्मयो॒ मद॑न्तो॒ बृह॒स्पति॑म॒भ्य॑१र्का अ॑नावन्॥१॥  
+Like birds who keep their watch, plashing in water, like the loud voices of the thundering rain-cloud, Like merry streamlets bursting from the mountain thus to Brihaspati our hymns have sounded.

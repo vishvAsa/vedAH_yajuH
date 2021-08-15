@@ -2,6 +2,4 @@
 title = "३१ नमस्ते घोषिणीभ्यो"
 
 +++
-नम॑स्ते घो॒षिणी॑भ्यो॒ नम॑स्ते के॒शिनी॑भ्यः ।  
-नमो॒ नम॑स्कृताभ्यो॒ नमः॑ संभुञ्ज॒तीभ्यः॑ ।  
-नम॑स्ते देव॒ सेना॑भ्यः स्व॒स्ति नो॒ अभ॑यं च नः ॥३१॥
+Homage to thy loud-shouting hosts and thy long-haired followers! Homage to hosts that are adored, homage to armies that enjoy Homage to all thy troops, O God. Security and bliss be ours!

@@ -2,4 +2,4 @@
 title = "१६ सुतेसुते न्योऽकसे"
 
 +++
-सु॒तेसु॑ते॒ न्योऽकसे बृ॒हद् बृ॑ह॒त एद॒रिः । इन्द्रा॑य शू॒षम॑र्चति ॥१६॥
+To lofty Indra, dweller by each libation, the pious man Sings forth aloud a strengthening hymn.

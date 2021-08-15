@@ -2,5 +2,4 @@
 title = "०५ प्रजानन्तः प्रति"
 
 +++
-प्र॒जा॒नन्तः॒ प्रति॑ गृह्णन्तु॒ पूर्वे॑ प्रा॒णमङ्गे॑भ्यः॒ पर्या॒चर॑न्तम्।  
-दिवं॑ गच्छ॒ प्रति॑ तिष्ठा॒ शरी॑रैः स्व॒र्गं या॑हि प॒थिभि॑र्देव॒यानैः॑ ॥५॥
+Let those who know receive before all others the vital breath proceeding from the body. Go to the sky. Stay there with all thy members. By paths which Gods have travelled go to Svarga.

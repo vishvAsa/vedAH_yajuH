@@ -2,5 +2,4 @@
 title = "०५ दुष्ट्यै हि"
 
 +++
-दुष्ट्यै॒ हि त्वा॑ भ॒त्स्यामि॑ दूषयि॒ष्यामि॑ काब॒वम्।  
-उदा॒शवो॒ रथा॑ इव श॒पथे॑भिः सरिष्यथ ॥५॥  
+Yea, I will chide thee to thy shame, I will disgrace the Kabava. Under our impracations ye, like rapid cars, shall pass away.

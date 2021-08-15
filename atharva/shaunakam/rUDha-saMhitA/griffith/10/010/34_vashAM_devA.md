@@ -2,5 +2,4 @@
 title = "३४ वशां देवा"
 
 +++
-व॒शां दे॒वा उप॑ जीवन्ति व॒शां म॑नु॒ष्याऽउ॒त।  
-व॒शेदं सर्व॑मभव॒द् याव॒त् सूर्यो॑ वि॒पश्य॑ति ॥३४॥
+Both Gods and mortal men depend for life and being on the Cow. She hath become this universe: all that the Sun surveys is she.

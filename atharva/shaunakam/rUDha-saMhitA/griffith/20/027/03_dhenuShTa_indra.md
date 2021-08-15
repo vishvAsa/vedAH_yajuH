@@ -2,4 +2,4 @@
 title = "०३ धेनुष्ट इन्द्र"
 
 +++
-धे॒नुष्ट॑ इन्द्र सू॒नृता॒ यज॑मानाय सुन्व॒ते। गामश्वं॑ पि॒प्युषी॑ दुहे ॥३॥  
+To worshippers who press the juice thy goodness, Indra, is a cow. Yielding in plenty kine and steeds.

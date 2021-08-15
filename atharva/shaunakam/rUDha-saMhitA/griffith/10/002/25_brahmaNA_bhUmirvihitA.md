@@ -2,5 +2,4 @@
 title = "२५ ब्रह्मणा भूमिर्विहिता"
 
 +++
-ब्रह्म॑णा॒ भूमि॒र्विहि॑ता॒ ब्रह्म॒ द्यौरुत्त॑रा हि॒ता।  
-ब्रह्मे॒दमू॒र्ध्वं ति॒र्यक् चा॒न्तरि॑क्षं॒ व्यचो॑ हि॒तम्॥२५॥  
+By Brahma was this earth disposed: Brahma is sky arranged above. Brahma is this expanse of air lifted on high and stretched across.

@@ -2,5 +2,4 @@
 title = "०५ ये३धस्ताज्जुह्वति जातवेदो"
 
 +++
-ये॒३धस्ता॒ज्जुह्व॑ति जातवेदो ध्रु॒वाया॑ दि॒शोऽभिदास॑न्त्य॒स्मान्।  
-भूमि॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥५॥  
+O Jatavedas, nether sacrificers, as foes assail us from the stead- fast quarter. For harming Earth let them be turned and troubled. I smite them backward with mine incantation.

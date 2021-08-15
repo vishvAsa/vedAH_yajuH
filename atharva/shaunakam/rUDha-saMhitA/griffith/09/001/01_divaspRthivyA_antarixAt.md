@@ -2,5 +2,4 @@
 title = "०१ दिवस्पृथिव्या अन्तरिक्षात्"
 
 +++
-दि॒वस्पृ॑थि॒व्या अ॒न्तरि॑क्षात् समु॒द्राद॒ग्नेर्वाता॑न्मधुक॒शा हि ज॒ज्ञे।  
-तां चा॑यि॒त्वामृतं॒ वसा॑नां हृ॒द्भिः प्र॒जाः प्रति॑ नन्दन्ति॒ सर्वाः॑ ॥१॥  
+The Asvins' Honey-whip was born from heaven and earth, from middle air, and ocean, and from fire and wind. All living creatures welcome it with joyful hearts, fraught with the store of Amrit it hath gathered up.

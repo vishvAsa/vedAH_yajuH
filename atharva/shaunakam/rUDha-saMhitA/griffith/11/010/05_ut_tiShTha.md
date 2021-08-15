@@ -2,5 +2,4 @@
 title = "०५ उत् तिष्ठ"
 
 +++
-उत् ति॑ष्ठ॒ त्वं दे॑वज॒नार्बु॑दे॒ सेन॑या स॒ह।  
-अ॒यं ब॒लिर्व॒ आहु॑त॒स्त्रिषं॑धे॒राहु॑तिः प्रि॒या॥५॥  
+Rise up, O Godlike Being, rise, Arbudi, with thine army: this, Tribute is sacrificed to thee, Trishandhi's welcome offering

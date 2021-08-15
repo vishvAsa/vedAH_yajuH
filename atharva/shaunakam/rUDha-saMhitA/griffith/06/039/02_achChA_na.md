@@ -2,5 +2,4 @@
 title = "०२ अच्छा न"
 
 +++
-अच्छा॑ न॒ इन्द्रं॑ य॒शसं॒ यशो॑भिर्यश॒स्विनं॑ नमसा॒ना वि॑धेम ।  
-स नो॑ रास्व रा॒ष्ट्रमिन्द्र॑जूतं॒ तस्य॑ ते रा॒तौ य॒शसः॑ स्याम ॥२॥  
+We will pay sacrifice and serve with worship our glorious Indra, famous for his glories. Give thou us sway which Indra hath promoted, and in this boon of thine may we be famous.

@@ -2,4 +2,4 @@
 title = "८६ येऽत्र पितरः"
 
 +++
-येऽत्र॑ पि॒तरः॑ पि॒तरो॒ येऽत्र॑ यू॒यं स्थ यु॒ष्मांस्तेऽनु॑ यू॒यं तेषां॒ श्रेष्ठा॑ भूयास्थ ॥८६॥  
+All Fathers who are here, the Fathers here are you: let then- follow you. May ye be the most excellent of these.

@@ -2,5 +2,4 @@
 title = "०२ न घा"
 
 +++
-न घा॑ त्व॒द्रिगप॑ वेति मे॒ मन॒स्त्वे इत् कामं॑ पुरुहूत शिश्रय ।  
-राजे॑व दस्म॒ नि ष॒दोऽधि॑ ब॒र्हिष्य॒स्मिन्त्सु सोमे॑व॒पान॑मस्तु ते ॥२॥  
+Directed unto thee my spirit never strays, for I have set my hopes on thee, O much-invoked! Sit, wonderful! as King upon the sacred grass, and let thy drinking-place be by the Soma juice.

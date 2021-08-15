@@ -2,5 +2,4 @@
 title = "०३ यथा स्म"
 
 +++
-यथा॑ स्म ते वि॒रोह॑तो॒ऽभित॑प्तमि॒वान॑ति ।  
-तत॑स्ते॒ शुष्म॑वत्तरमि॒यं कृ॑णो॒त्वोष॑धिः ॥३॥  
+Sicut tui surgentis (membrum virile) tanquam inflammatum palpitat, hoc illud tui ardentius haec herba faciat.

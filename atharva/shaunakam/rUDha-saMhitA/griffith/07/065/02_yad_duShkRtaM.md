@@ -2,5 +2,4 @@
 title = "०२ यद् दुष्कृतं"
 
 +++
-यद् दु॑ष्कृ॒तं यच्छम॑लं॒ यद् वा चेरि॒म पा॒पया॑ ।  
-त्वया॒ तद् वि॑श्वतोमु॒खापा॑मा॒र्गाप॑ मृज्महे ॥२॥  
+Whatever evil we have done, whatever vile or sinful act, With thee, O Apamarga, who lookest all ways, we wipe it off.

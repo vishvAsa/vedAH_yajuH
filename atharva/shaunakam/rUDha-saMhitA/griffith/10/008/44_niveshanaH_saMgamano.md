@@ -2,5 +2,4 @@
 title = "४४ निवेशनः संगमनो"
 
 +++
-नि॒वेश॑नः सं॒गम॑नो॒ वसू॑नां दे॒व इ॑व सवि॒ता स॒त्यध॑र्मा ।  
-इन्द्रो॒ न त॑स्थौ सम॒रे धना॑नाम्॥४२॥  
+Desireless, firm, immortal, self-existent, contented with the es- sence, lacking nothing, Free from the fear of Death is he who knoweth that Soul cou- rageous, youthful, undecaying.

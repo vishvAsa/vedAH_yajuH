@@ -2,5 +2,4 @@
 title = "०६ प्र रेभ"
 
 +++
-प्र रे॑भ॒ धीं भ॑रस्व गो॒विदं॑ वसु॒विद॑म्।  
-दे॒व॒त्रेमां वाचं॑ स्रीणी॒हीषु॒र्नावी॑र॒स्तार॑म्॥६॥  
+O Singer, bring thou forth the hymn that findeth cattle, findeth: wealth. Even as an archer aims his shaft address this prayer unto the Gods.

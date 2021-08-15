@@ -2,5 +2,4 @@
 title = "०४ हतो राजा"
 
 +++
-ह॒तो राजा॒ क्रिमी॑णामु॒तैषां॑ स्थ॒पति॑र्ह॒तः ।  
-ह॒तो ह॒तमा॑ता॒ क्रिमि॑र्ह॒तभ्रा॑ता ह॒तस्व॑सा ॥४॥  
+Slain is the sovran of these Worms, yea, their controlling lord is slain: Slain is the Worm, his mother slain, brother and sister both are slain.

@@ -2,5 +2,4 @@
 title = "०५ समिन्द्र राया"
 
 +++
-समि॑न्द्र रा॒या समि॒षा र॑भेमहि॒ सं वाजे॑भिः पुरुश्च॒न्द्रैर॒भिद्यु॑भिः ।  
-सं दे॒व्या प्रम॑त्या वी॒रशु॑ष्मया॒ गोअ॑ग्र॒याश्वा॑वत्या रभेमहि ॥५॥  
+Let us obtain, O Indra, plenteous wealth and food, with strength exceeding glorious, shining to the sky. May we obtain the Goddess Providence, the strength of heroes, special source of cattle, rich in steeds.

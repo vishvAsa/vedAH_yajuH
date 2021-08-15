@@ -2,4 +2,4 @@
 title = "०४ अनवद्यैरभिद्युभिर्मखः सहस्वदर्चति"
 
 +++
-अ॒न॒व॒द्यैर॒भिद्यु॑भिर्म॒खः सह॑स्वदर्चति । ग॒णैरिन्द्र॑स्य॒ काम्यैः॑ ॥४॥  
+With Indra's well-beloved hosts, the blameless, tending heaven- ward, The sacrificer cries aloud.

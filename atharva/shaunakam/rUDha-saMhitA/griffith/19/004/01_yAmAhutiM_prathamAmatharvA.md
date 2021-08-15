@@ -2,5 +2,4 @@
 title = "०१ यामाहुतिं प्रथमामथर्वा"
 
 +++
-यामाहु॑तिं प्रथ॒मामथ॑र्वा॒ या जा॒ता या ह॒व्यमकृ॑णोज्जा॒तवे॑दाः ।  
-तां त॑ ए॒तां प्र॑थ॒मो जो॑हवीमि॒ ताभि॑ष्टु॒प्तो व॑हतु ह॒व्यम॒ग्निर॒ग्नये॒ स्वाहा॑ ॥१॥  
+The first oblation that Atharvan oared, earliest sacrifice paid by Jatavedas, Even this I, foremost, with repeated worship, now offer unto thee. May Agni carry the sacrificer's present. Hail to Agni!

@@ -2,5 +2,4 @@
 title = "२० शुक्रोऽसि भ्राजोऽसि"
 
 +++
-शु॒क्रोऽसि भ्रा॒जोऽसि ।  
-स यथा॒ त्वं भ्राज॑ता भ्रा॒जोऽस्ये॒वाहं भ्राज॑ता भ्राज्यासम्॥२०॥  
+Bright art thou, and refulgent: as thou shinest with splendour so I fain would shine with splendour.

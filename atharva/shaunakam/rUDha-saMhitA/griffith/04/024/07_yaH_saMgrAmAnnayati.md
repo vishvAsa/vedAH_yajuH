@@ -2,5 +2,4 @@
 title = "०७ यः संग्रामान्नयति"
 
 +++
-यः सं॑ग्रा॒मान्नय॑ति॒ सं यु॒धे व॒शी यः पु॒ष्टानि॑ संसृ॒जति॑ द्व॒यानि॑ ।  
-स्तौमीन्द्रं॑ नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥७॥
+Strong Lord, who leadeth hosts to meet for battle, who sendeth riches both of earth and heaven, I, suppliant, praise and ever call on Indra. May he deliver us from grief and trouble.

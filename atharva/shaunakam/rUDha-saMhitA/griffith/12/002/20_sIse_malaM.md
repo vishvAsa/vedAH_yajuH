@@ -2,5 +2,4 @@
 title = "२० सीसे मलं"
 
 +++
-सीसे॒ मलं॑ सादयि॒त्वा शी॑र्ष॒क्तिमु॑प॒बर्ह॑णे ।  
-अव्या॒मसि॑क्न्यां मृ॒ष्ट्वा शु॒द्धा भ॑वत य॒ज्ञियाः॑ ॥२०॥  
+Wipe off pollution, lay it in the lead and in the black-hued sheep, And headache in the cushion; then be cleansed and fit to sacri- fice.

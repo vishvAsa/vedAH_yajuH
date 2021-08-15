@@ -2,5 +2,4 @@
 title = "१३ परा शृणीहि"
 
 +++
-परा॑ शृणीहि॒ तप॑सा यातु॒धाना॒न् परा॑ग्ने॒ रक्षो॒ हर॑सा शृणीहि ।  
-परा॒र्चिषा॒ मूर॑देवान्छृणीहि॒ परा॑सु॒तृपः॒ शोशु॑चतः शृणीहि ॥१३॥  
+With fervent heat exterminate the demons: destroy the fiends with glow and flame, O Agni. Destroy with fire the foolish gods' adorers: destroy the insatiate fiercely-burning creatures.

@@ -2,5 +2,4 @@
 title = "११ इयं ते"
 
 +++
-इ॒यं ते॑ धी॒तिरि॒दमु॑ ते ज॒नित्रं॑ गृ॒ह्णातु॒ त्वामदि॑तिः॒ शूर॑पुत्रा ।  
-परा॑ पुनीहि॒ य इ॒मां पृ॑त॒न्यवो॒ऽस्यै र॒यिं सर्व॑वीरं॒ नि य॑च्छ ॥११॥॥  
+Here thy devotion is, here is thy birthplace. Aditi, Mother of brave sons, accept thee! Wipe away those who fight against this woman with wealth and store of goodly sons endow her.

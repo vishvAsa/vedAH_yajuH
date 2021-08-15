@@ -2,4 +2,4 @@
 title = "१९ वि द्यामेषि"
 
 +++
-वि द्यामे॑षि॒ रज॑स्पृ॒थ्वह॒र्मिमा॑नो अ॒क्तुभिः॑ । पश्यं॒ जन्मा॑नि सूर्य ॥१९॥  
+Pervadest heaven and wide mid-air, melting the days out with. thy beams, Sun, seeing all things that have birth.

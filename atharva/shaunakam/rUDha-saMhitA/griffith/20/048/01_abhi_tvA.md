@@ -2,4 +2,4 @@
 title = "०१ अभि त्वा"
 
 +++
-अ॒भि त्वा॒ वर्च॑सा गिरः॒ सिञ्च॑न्ती॒राच॑र॒ण्युवः॑ । अ॒भि व॒त्सं न धे॒नवः॑ ॥१॥  
+The swiftly-moving songs of praise pour on thee streams of vital strength As mother cows refresh the calf.

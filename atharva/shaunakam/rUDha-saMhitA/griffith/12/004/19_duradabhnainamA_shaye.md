@@ -2,5 +2,4 @@
 title = "१९ दुरदभ्नैनमा शये"
 
 +++
-दु॒र॒द॒भ्नैन॒मा श॑ये याचि॒तां च॒ न दित्स॑ति ।  
-नास्मै॒ कामाः॒ समृ॑ध्यन्ते॒ यामद॑त्त्वा॒ चिकी॑र्षति ॥१९॥  
+If he withholds the Cow they beg, she lies rebellious in his stall. Vain are the wishes and the hopes which he, withholding her, would gain.

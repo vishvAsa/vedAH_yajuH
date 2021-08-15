@@ -2,5 +2,4 @@
 title = "०६ ब्रह्मचार्येऽति समिधा"
 
 +++
-ब्र॒ह्म॒चा॒र्येऽति स॒मिधा॒ समि॑द्धः कार्ष्णं॒ वसा॑नो दीक्षि॒तो दी॒र्घश्म॑श्रुः ।  
-स स॒द्य ए॑ति॒ पूर्व॑स्मा॒दुत्त॑रं समु॒द्रं लो॒कान्त्सं॒गृभ्य॒ मुहु॑रा॒चरि॑क्रत्॥६॥  
+Lighted by fuel goes the Brahmachari, clad in black-buck skin, consecrate, long-bearded. Swiftly he goes from east to northern ocean, grasping the worlds, oft bringing them anear him.

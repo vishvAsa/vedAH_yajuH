@@ -2,5 +2,4 @@
 title = "०१ पिप्पली क्षिप्तभेषज्यू३तातिविद्धभेषजी"
 
 +++
-पि॒प्प॒ली क्षि॑प्तभेष॒ज्यू॒३ताति॑विद्धभेष॒जी।  
-तां दे॒वाः सम॑कल्पयन्नि॒यं जीवि॑त॒वा अल॑म्॥१॥  
+The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods prepared and fashioned it. This hath sufficient power for life.

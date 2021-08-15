@@ -2,5 +2,4 @@
 title = "०५ य एनं"
 
 +++
-य ए॑नं॒ हन्ति॑ मृ॒दुं मन्य॑मानो देवपी॒युर्धन॑कामो॒ न चि॒त्तात्।  
-सं तस्येन्द्रो॒ हृद॑ये॒ऽग्निमि॑न्धे उ॒भे ए॑नं द्विष्टो॒ नभ॑सी॒ चर॑न्तम्॥५॥  
+Whoever smites him, deeming him a weakling-blasphemer, coveting his wealth through folly Indra sets fire alight within his bosom. He who acts thus is loathed by Earth and Heaven.

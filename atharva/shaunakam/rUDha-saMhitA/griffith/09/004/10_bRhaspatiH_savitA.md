@@ -2,5 +2,4 @@
 title = "१० बृहस्पतिः सविता"
 
 +++
-बृह॒स्पतिः॑ सवि॒ता ते॒ वयो॑ दधौ॒ त्वष्टु॑र्वा॒योः पर्या॒त्मा त॒ आभृ॑तः ।  
-अ॒न्तरि॑क्षे॒ मन॑सा त्वा जुहोमि ब॒र्हिष्टे॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥१०॥  
+Brihaspati, Savitar gave thee vital vigour: thy breath was brought from Tvashtar and from Vayu. In thought I offer thee in air's mid-region. Thy sacrificial grass be Earth and Heaven!

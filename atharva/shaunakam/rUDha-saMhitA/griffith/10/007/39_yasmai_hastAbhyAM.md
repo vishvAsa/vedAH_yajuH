@@ -2,5 +2,4 @@
 title = "३९ यस्मै हस्ताभ्यां"
 
 +++
-यस्मै॒ हस्ता॑भ्यां॒ पादा॑भ्यां वा॒चा श्रोत्रे॑ण॒ चक्षु॑षा ।  
-यस्मै॑ दे॒वाः सदा॑ ब॒लिं प्र॒यच्छ॑न्ति॒ विमि॒तेऽमि॑तं स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥३९॥  
+Who out of many, tell me, is that Skambha. To whom the Deities with hands, with feet, and voice, and ear, and eye. Present unmeasured tribute in the measured hall of sacrifice?

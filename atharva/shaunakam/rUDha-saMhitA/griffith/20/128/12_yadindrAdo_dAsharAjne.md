@@ -2,5 +2,4 @@
 title = "१२ यदिन्द्रादो दाशराज्ञे"
 
 +++
-यदि॑न्द्रा॒दो दा॑शरा॒ज्ञे मानु॑षं॒ वि गा॑हथाः ।  
-विरू॑पः॒ सर्व॑स्मा आसीत् सह य॒क्षाय॒ कल्प॑ते ॥१२॥  
+When, Indra, thou, as no man could, didst plunge into the Ten Kings' fight, That was a guard for every man: for he is formed to stay disease.

@@ -2,4 +2,4 @@
 title = "२७ अनुगच्छन्ती प्राणानुप"
 
 +++
-अ॒नु॒गच्छ॑न्ती प्रा॒णानुप॑ दासयति ब्रह्मग॒वी ब्र॑ह्म॒ज्यस्य॑ ॥२७॥  
+Following him, the Brahman's cow extinguisheth the vital breath of the injurer of the Brahman.

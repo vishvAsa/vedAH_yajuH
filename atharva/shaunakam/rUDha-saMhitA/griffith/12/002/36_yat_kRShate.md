@@ -2,5 +2,4 @@
 title = "३६ यत् कृषते"
 
 +++
-यत् कृ॒षते॒ यद् व॑नु॒ते यच्च॑ व॒स्नेन॑ वि॒न्दते॑ ।  
-सर्वं॒ मर्त्य॑स्य॒ तन्नास्ति॑ क्र॒व्याच्चेदनि॑राहितः ॥३६॥  
+What man acquires by plough, by war, all that he wins by toil of hand, He loses all if Agni the Carnivorous be not set aside,

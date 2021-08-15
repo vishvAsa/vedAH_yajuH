@@ -2,5 +2,7 @@
 title = "०६ ऋतेन स्थूणामधि"
 
 +++
-ऋ॒तेन॑ स्थूणा॒मधि॑ रोह वंशो॒ग्रो वि॒राज॒न्नप॑ वृङ्क्ष्व॒ शत्रू॑न्।  
-मा ते॑ रिषन्नुपस॒त्तारो॑ गृ॒हाणां॑ शाले श॒तं जी॑वेम श॒रदः॒ सर्व॑वीराः ॥६॥  
+id
+3.12.6    Thou Pole, in ordered fashion mount the pillar...
+3.12.6    Then verily, I see, yea, also hear them: their...
+Name: Comment, dtype: object

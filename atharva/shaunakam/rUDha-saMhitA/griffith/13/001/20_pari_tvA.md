@@ -2,5 +2,4 @@
 title = "२० परि त्वा"
 
 +++
-परि॑ त्वा धात् सवि॒ता दे॒वो अ॒ग्निर्वर्च॑सा मि॒त्रावरु॑णाव॒भि त्वा॑ ।  
-सर्वा॒ अरा॑तीरव॒क्राम॒न्नेही॒दं रा॒ष्ट्रम॑करः सु॒नृता॑वत्॥२०॥  
+With splendour let God Savitar, and Agni, with splendour Mitra, Varuna invest thee. Treading down all Malignities, come hither. Pleasant and' glorious hast thou made this kingdom.

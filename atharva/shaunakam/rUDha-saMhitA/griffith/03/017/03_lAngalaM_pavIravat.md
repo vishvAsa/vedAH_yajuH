@@ -2,5 +2,4 @@
 title = "०३ लाङ्गलं पवीरवत्"
 
 +++
-लाङ्ग॑लं पवी॒रव॑त् सु॒शीमं॑ सोम॒सत्स॑रु ।  
-उदिद् व॑पतु॒ गामविं॑ प्र॒स्थाव॑द् रथ॒वाह॑नं॒ पीब॑रीं च प्रफ॒र्व्यऽम्॥३॥  
+The keen-shared plough that bringeth bliss, furnished with traces and with stilts, Shear out for me a cow, a sheep, a rapid drawer of the car, a blooming woman, plump and strong!

@@ -2,5 +2,4 @@
 title = "४३ उत्तरेणेव गायत्रीममृतेऽधि"
 
 +++
-उत्त॑रेणेव गाय॒त्रीम॒मृतेऽधि॒ वि च॑क्रमे ।  
-साम्ना॒ ये साम॑ संवि॒दुर॒जस्तद् द॑दृशे॒ क्वऽ॥४१॥  
+Men versed in sacred knowledge know that living Being that abides. In the nine-portalled Lotus Flower, enclosed with triple bands and bonds.

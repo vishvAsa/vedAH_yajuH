@@ -2,5 +2,4 @@
 title = "०३ रूपंरूपं वयोवयः"
 
 +++
-रू॒पंरू॑पं॒ वयो॑वयः सं॒रभ्यै॑नं॒ परि॑ ष्वजे ।  
-य॒ज्ञमि॒मं चत॑स्रः प्र॒दिशो॑ वर्धयन्तु संस्रा॒व्येऽण ह॒विषा॑ जुहोमि ॥३॥
+Each several form, each several force I seize, and compass round this man. May the Four Quarters strengthen this my sacrifice. I offer up a duly mixt oblation.

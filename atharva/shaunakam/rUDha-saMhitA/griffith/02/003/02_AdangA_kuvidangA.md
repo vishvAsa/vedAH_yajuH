@@ -2,5 +2,4 @@
 title = "०२ आदङ्गा कुविदङ्गा"
 
 +++
-आद॒ङ्गा कु॒विद॒ङ्गा श॒तं या भे॑ष॒जानि॑ ते ।  
-तेषा॑मसि॒ त्वमु॑त्त॒मम॑नास्रा॒वमरो॑गणम्॥२॥  
+Hither and onward! Well! Come on! Among thy hundred remedies Most excellent of all art thou, curing disease and morbid flow.

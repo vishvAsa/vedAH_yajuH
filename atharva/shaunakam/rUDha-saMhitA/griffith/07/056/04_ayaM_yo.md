@@ -2,5 +2,4 @@
 title = "०४ अयं यो"
 
 +++
-अ॒यं यो व॒क्रो विप॑रु॒र्व्यऽङ्गो॒ मुखा॑नि व॒क्रा वृ॑जि॒ना कृ॒णोषि॑ ।  
-तानि॒ त्वं ब्र॑ह्मणस्पत इ॒षीका॑मिव॒ सं न॑मः ॥४॥  
+Thou here who crookest wicked jaws, thou tortuous, jointless, limbless thing, These jaws thou, Brahmanaspati! shalt bend together like a reed.

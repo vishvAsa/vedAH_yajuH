@@ -2,5 +2,4 @@
 title = "२३ भवाशर्वावस्यतां पापकृते"
 
 +++
-भ॒वा॒श॒र्वाव॑स्यतां पाप॒कृते॑ कृत्या॒कृते॑ ।  
-दु॒ष्कृते॑ वि॒द्युतं॑ देवहे॒तिम्॥२३॥  
+Bhava and Sarva cast the flash of lightning, the weapon of the Gods, against the sinner who made the evil thing, who deals in witchcraft!

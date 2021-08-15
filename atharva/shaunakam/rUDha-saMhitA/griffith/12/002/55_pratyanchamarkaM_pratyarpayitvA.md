@@ -2,5 +2,4 @@
 title = "५५ प्रत्यञ्चमर्कं प्रत्यर्पयित्वा"
 
 +++
-प्र॒त्यञ्च॑म॒र्कं प्र॑त्यर्पयि॒त्वा प्र॑वि॒द्वान् पन्थां॒ वि ह्याऽवि॒वेश॑ ।  
-परा॒मीषा॒मसू॑न् दि॒देश॑ दी॒र्घेणायु॑षा॒ समि॒मान्त्सृ॑जामि ॥५५॥
+Against the sinking western Sun I set them; each sundered path, knowing my way, I entered. I have warned off the ghosts of the Departed: to these I give the boon of long existence.

@@ -2,5 +2,4 @@
 title = "०८ गिरींरज्रान् रेजमानां"
 
 +++
-गि॒रींरज्रा॒न् रेज॑मानां अधारय॒द् द्यौः क्र॑न्दद॒न्तरि॑क्षाणि कोपयत्।  
-स॒मी॒ची॒ने धि॒षणे॒ वि ष्क॑भायति॒ वृष्णः॑ पी॒त्वा मद॑ उ॒क्थानि॑ शंसति ॥८॥  
+He firmly fixed the plains and mountains as they shook. Dyaus thundered forth and made the air's mid-region quake. He stays apart the two confronting bowls; he sings lauds in the potent Soma's joy when he hath drunk.

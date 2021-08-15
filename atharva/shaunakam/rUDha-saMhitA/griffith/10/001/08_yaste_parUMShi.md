@@ -2,5 +2,4 @@
 title = "०८ यस्ते परूंषि"
 
 +++
-यस्ते॒ परूं॑षि संद॒धौ रथ॑स्येव॒र्भुर्धि॒या।  
-तं ग॑च्छ॒ तत्र॒ तेऽय॑न॒मज्ञा॑तस्ते॒ऽयं जनः॑ ॥८॥  
+He who composed thy limbs with thought as a deft joiner builds a car, Go to him: thither lies thy way. This man is all unknown to thee.

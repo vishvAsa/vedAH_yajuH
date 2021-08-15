@@ -2,5 +2,4 @@
 title = "११ त्वमिन्द्र शर्मरिणा"
 
 +++
-त्वमि॑न्द्र श॒र्मरि॑णा ह॒व्यं पारा॑वतेभ्यः ।  
-विप्रा॑य स्तुव॒ते व॑सु॒वनिं॑ दुरश्रव॒से व॑ह ॥११॥  
+Vouchsafe us shelter, Indra, thou to be invoked from far away. Bring treasure hither to reward the far-famed bard who praises thee.

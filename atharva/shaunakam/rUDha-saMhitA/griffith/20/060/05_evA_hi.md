@@ -2,4 +2,4 @@
 title = "०५ एवा हि"
 
 +++
-ए॒वा हि ते॑ विभू॑तय ऊ॒तय॑ इन्द्र॒ माव॑ते । स॒द्यश्चि॒त् सन्ति॑ दा॒शुषे॑ ॥५॥  
+For verily thy mighty powers, Indra, are saving helps at once Unto a worshipper like me.

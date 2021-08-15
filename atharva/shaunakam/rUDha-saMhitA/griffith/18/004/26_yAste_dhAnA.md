@@ -2,5 +2,4 @@
 title = "२६ यास्ते धाना"
 
 +++
-यास्ते॑ धा॒ना अ॑नुकि॒रामि॑ ति॒लमि॑श्राः स्व॒धाव॑तीः ।  
-तास्ते॑ सन्तू॒द्भ्वीः प्र॒भ्वीस्तास्ते॑ य॒मो राजानु॑ मन्यताम्॥२६॥  
+Grains which for thee I scatter, mixt with Sesamum, as holy food. May they for thee be excellent and potent. King Yama look on, them as thine with favour!

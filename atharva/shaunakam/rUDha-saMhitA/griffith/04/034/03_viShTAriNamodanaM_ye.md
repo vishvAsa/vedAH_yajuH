@@ -2,5 +2,4 @@
 title = "०३ विष्टारिणमोदनं ये"
 
 +++
-वि॒ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॒नव॑र्तिः सचते क॒दा च॒न।  
-आस्ते॑ य॒म उप॑ याति दे॒वान्त्सं ग॑न्ध॒र्वैर्मदते सो॒म्येभिः॑ ॥३॥  
+Never doth want or evil fortune visit those who prepare oblation called Vishtari. He goes unto the Gods, he dwells with Yama, he joys among Gandharvas meet for Soma.

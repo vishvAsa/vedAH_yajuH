@@ -2,5 +2,4 @@
 title = "०१ अनडुद्भ्यस्त्वं प्रथमं"
 
 +++
-अ॒न॒डुद्भ्य॒स्त्वं प्र॑थ॒मं धे॒नुभ्य॒स्त्वम॑रुन्धति ।  
-अधे॑नवे॒ वय॑से॒ शर्म॑ यच्छ॒ चतु॑ष्पदे ॥१॥  
+First, O Arundhati, protect our oxen and milky kine: Protect each one that is infirm, each quadruped that yields no milk.

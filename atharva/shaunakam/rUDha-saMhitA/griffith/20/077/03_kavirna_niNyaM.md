@@ -2,5 +2,4 @@
 title = "०३ कविर्न निण्यं"
 
 +++
-क॒विर्न नि॒ण्यं वि॒दथा॑नि॒ साध॒न् वृषा॒ यत् सेकं॑ विपिपा॒नो अर्चा॑त्।  
-दि॒व इ॒त्था जी॑जनत् स॒प्त का॒रूनह्ना॑ चिच्चक्रुर्व॒युना॑ गृ॒णन्तः॑ ॥३॥  
+When the Bull quaffing praises our libation, as a sage paying holy rites in secret, Seven singers here from heaven hath he begotten, who e'en by day have wrought their works while singing.

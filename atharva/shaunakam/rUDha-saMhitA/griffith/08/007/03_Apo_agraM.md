@@ -2,5 +2,4 @@
 title = "०३ आपो अग्रं"
 
 +++
-आपो॒ अग्रं दि॒व्या ओष॑धयः ।  
-तास्ते॒ यक्ष्म॑मेन॒स्य॑१मङ्गा॑दङ्गादनीनशन्॥३॥  
+The Waters are the best, and heavenly Plants. From every limb of thine have they removed Consumption caused by sin.

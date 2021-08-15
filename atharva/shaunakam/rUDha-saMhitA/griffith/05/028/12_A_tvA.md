@@ -2,5 +2,4 @@
 title = "१२ आ त्वा"
 
 +++
-आ त्वा॑ चृतत्वर्य॒मा पू॒षा बृह॒स्पतिः॑ ।  
-अह॑र्जातस्य॒ यन्नाम॒ तेन॒ त्वाति॑ चृतामसि ॥१२॥  
+Aryaman be thy binder-on, and Pushan and Brihaspati: Whatever name the brood of day possess, therewith we fasten thee.

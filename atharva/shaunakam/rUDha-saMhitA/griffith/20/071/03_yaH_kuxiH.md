@@ -2,4 +2,4 @@
 title = "०३ यः कुक्षिः"
 
 +++
-यः कु॒क्षिः सो॑म॒पात॑मः समु॒द्र इ॑व॒ पिन्व॑ते । उ॒र्वीरापो॒ न का॒कुदः॑ ॥३॥  
+His belly drinking deepest draughts of Soma like an ocean swells, Like wide streams from the cope of heaven.

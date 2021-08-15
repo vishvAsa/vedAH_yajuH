@@ -2,5 +2,4 @@
 title = "०५ ता अपः"
 
 +++
-ता अ॒पः शि॒वा अ॒पोऽय॑क्ष्मं॒कर॑णीर॒पः ।  
-यथै॒व तृ॑प्यते॒ मय॒स्तास्त॒ आ द॑त्त भेष॒जीः ॥५॥
+Blest be the Waters unto thee, suspicious Waters, bringing. health. They cure the injured place for thee even as thy comfort craveth it.

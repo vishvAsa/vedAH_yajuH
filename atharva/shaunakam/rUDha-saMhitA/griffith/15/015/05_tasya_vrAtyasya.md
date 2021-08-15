@@ -2,4 +2,4 @@
 title = "०५ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य ।योऽस्य तृ॒तीयः॑ प्रा॒णो॒३ऽभ्यूऽढो॒ नामा॒सौ स च॒न्द्रमाः॑ ॥५॥  
+His third vital breath, called Approached, is that Moon.

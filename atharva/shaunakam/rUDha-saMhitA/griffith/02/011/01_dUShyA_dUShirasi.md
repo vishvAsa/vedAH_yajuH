@@ -2,5 +2,4 @@
 title = "०१ दूष्या दूषिरसि"
 
 +++
-दूष्या॒ दूषि॑रसि हे॒त्या हे॒तिर॑सि मे॒न्या मे॒निर॑सि ।  
-आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥१॥  
+Dart against dart, destroyer of destruction, thou art the missile sent to meet the missile. Reach thy superior, thou; surpass thine equal.

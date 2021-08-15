@@ -2,5 +2,4 @@
 title = "११ अति द्रव"
 
 +++
-अति॑ द्रव॒ श्वानौ॑ सारमे॒यौ च॑तुर॒क्षौ श॒बलौ॑ सा॒धुना॑ प॒था।  
-अधा॑ पि॒तॄन्त्सु॑वि॒दत्रां॒ अपी॑हि य॒मेन॒ ये स॑ध॒मादं॒ मद॑न्ति ॥११॥  
+Run and outspeed the two dogs, Sarama's offspring, brindled, four-eyed, upon thy happy pathway. Draw nigh thou to the gracious-minded Fathers who take their pleasure in the feast with Yama.

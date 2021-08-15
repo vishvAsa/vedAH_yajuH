@@ -2,5 +2,4 @@
 title = "०१ अयं मे"
 
 +++
-अ॒यं मे॑ वर॒णो म॒णिः स॑पत्न॒क्षय॑णो॒ वृषा॑ ।  
-तेना र॑भस्व॒ त्वं शत्रू॒न् प्र मृ॑णीहि दुरस्य॒तः ॥१॥  
+Here is my charm the Varana, slayer of rivals, strong in act. With this grasp thou thine enemies, crush those who fain would injure thee.

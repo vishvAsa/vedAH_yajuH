@@ -2,4 +2,4 @@
 title = "०५ असुन्वामिन्द्र संसदं"
 
 +++
-अ॒सु॒न्वामि॑न्द्र सं॒सदं॒ विषू॑चीं॒ व्यनाशयः । सो॒म॒पा उत्त॑रो॒ भव॑न्॥५॥
+As Soma-drinker conquering all, thou scatteredst to every side Their band who poured no gifts to thee.

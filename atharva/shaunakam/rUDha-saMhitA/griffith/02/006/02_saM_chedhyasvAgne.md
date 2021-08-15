@@ -2,5 +2,4 @@
 title = "०२ सं चेध्यस्वाग्ने"
 
 +++
-सं चे॒ध्यस्वा॑ग्ने॒ प्र च॑ वर्धये॒ममुच्च॑ तिष्ठ मह॒ते सौभ॑गाय ।  
-मा ते॑ रिषन्नुपस॒त्तारो॑ अग्ने ब्र॒ह्माण॑स्ते य॒शसः॑ सन्तु॒ मान्ये॥२॥  
+Kindle thee, Agni, and make this man prosper: rise up erect for high and happy fortune. Agni, be those uninjured who adore thee, and may thy priests be glorious and no others.

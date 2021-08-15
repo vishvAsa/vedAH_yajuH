@@ -2,4 +2,4 @@
 title = "०२ उषो यस्माद्"
 
 +++
-उषो॒ यस्मा॑द् दु॒ष्वप्न्या॒दभै॒ष्माप॒ तदु॑च्छतु ॥२॥  
+Let Morning with her light dispel that evil dream that frightened us.

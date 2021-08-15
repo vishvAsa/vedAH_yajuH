@@ -2,5 +2,4 @@
 title = "२७ अपेमं जीवा"
 
 +++
-अपे॒मं जी॒वा अ॑रुधन् गृ॒हेभ्य॒स्तं निर्व॑हत॒ परि॒ ग्रामा॑दि॒तः ।  
-मृ॒त्युर्य॒मस्या॑सीद् दू॒तः प्रचे॑ता॒ असू॑न् पि॒तृभ्यो॑ गम॒यां च॑कार ॥२७॥  
+Him have the living banished from their houses: remove him to a distance from the hamlet. Yama's observant messenger was Mrityu he hath despatched men's lives unto the Fathers.

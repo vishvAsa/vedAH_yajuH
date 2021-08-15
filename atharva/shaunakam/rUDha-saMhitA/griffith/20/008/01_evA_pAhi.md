@@ -2,5 +2,4 @@
 title = "०१ एवा पाहि"
 
 +++
-ए॒वा पा॑हि प्र॒त्नथा॒ मन्द॑तु त्वा श्रु॒धि ब्रह्म॑ वावृ॒धस्वो॒त गी॒र्भिः ।  
-आ॒विः सूर्यं॑ कृणु॒हि पी॑पि॒हीषो॑ ज॒हि शत्रूं॑र॒भि गा इ॑न्द्र तृन्धि ॥१॥  
+Drink as of old, and let the draught delight thee: hear thou my prayer and let our songs exalt thee. Make the Sun visible, make food abundant: slaughter the foes,. pierce through and free the cattle.

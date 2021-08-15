@@ -2,5 +2,4 @@
 title = "२५ अभ्यक्ताक्ता स्वऽरंकृता"
 
 +++
-अ॒भ्य॑क्ताक्ता॒ स्वऽरंकृता॒ सर्वं॒ भर॑न्ती दुरि॒तं परे॑हि ।  
-जा॒नी॒हि कृ॑त्ये क॒र्तारं॑ दुहि॒तेव॑ पि॒तरं॒ स्वम्॥२५॥  
+Anointed, balmed, and well adorned, bearing all trouble with thee, go. Even as a daughter knows her sire, so know thy marker, Kritya, thou.

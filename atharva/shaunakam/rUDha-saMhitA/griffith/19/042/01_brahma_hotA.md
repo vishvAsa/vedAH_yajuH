@@ -2,5 +2,4 @@
 title = "०१ ब्रह्म होता"
 
 +++
-ब्रह्म॒ होता॒ ब्रह्म॑ य॒ज्ञा ब्रह्म॑णा॒ स्वर॑वो मि॒ताः ।  
-अ॒ध्व॒र्युर्ब्रह्म॑णो जा॒तो ब्रह्म॑णो॒ऽन्तर्हि॑तं ह॒विः ॥१॥  
+Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was the Adhvaryu born, from Brahma hidden offering.

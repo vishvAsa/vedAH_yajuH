@@ -2,5 +2,4 @@
 title = "२७ उत हन्ति"
 
 +++
-उ॒त ह॑न्ति पूर्वा॒सिनं॑ प्रत्या॒दायाप॑र॒ इष्वा॑ ।  
-उ॒त पूर्व॑स्य निघ्न॒तो नि ह॒न्त्यप॑रः॒ प्रति॑ ॥२७॥  
+He waits, and aiming with his shaft smites him who first would shoot at him, And, when the foeman deals a blow before him, following strikes him down.

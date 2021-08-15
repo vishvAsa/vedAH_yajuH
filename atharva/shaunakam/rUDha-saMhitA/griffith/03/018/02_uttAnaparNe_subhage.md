@@ -2,5 +2,4 @@
 title = "०२ उत्तानपर्णे सुभगे"
 
 +++
-उत्ता॑नपर्णे॒ सुभ॑गे॒ देव॑जूते॒ सह॑स्वति ।  
-स॒पत्नीं॑ मे॒ परा॑ णुद॒ पतिं॑ मे॒ केव॑लं कृधि ॥२॥  
+Auspicious, with expanded leaves, sent by the Gods, victorious Plant, Drive thou, the rival wife away, and make my husband only mine.

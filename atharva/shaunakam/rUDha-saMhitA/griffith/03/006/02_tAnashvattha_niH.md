@@ -2,5 +2,4 @@
 title = "०२ तानश्वत्थ निः"
 
 +++
-तान॑श्वत्थ॒ निः शृ॑णीहि॒ शत्रू॑न् वैबाध॒दोध॑तः ।  
-इन्द्रे॑ण वृत्र॒घ्ना मे॒दी मि॒त्रेण॒ वरु॑णेन च ॥२॥  
+Crush down my foes, Asvattha! Rend, O Burster, those who storm and rage, With Indra, slayer of the fiends, with Mitra and with Varuna.

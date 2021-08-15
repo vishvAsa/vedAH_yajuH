@@ -2,5 +2,4 @@
 title = "०५ यथा नडं"
 
 +++
-यथा॑ न॒डं क॒शिपु॑ने॒ स्त्रियो॑ भि॒न्दन्त्यश्म॑ना ।  
-ए॒वा भि॑नद्मि ते॒ शेपो॒ऽमुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥५॥
+Ut mulieres mattam (tegetem) facturae arundinem lapide findunt, sic fascinum tuum cum testiculis ob istam mulierem findo.

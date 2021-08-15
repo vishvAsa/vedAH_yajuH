@@ -2,5 +2,4 @@
 title = "०७ आपो न"
 
 +++
-आपो॒ न सिन्धु॑म॒भि यत् स॒मक्ष॑र॒न्त्सोमा॑स॒ इन्द्रं॑ कु॒ल्या इ॑व ह्र॒दम्।  
-वर्ध॑न्ति॒ विप्रा॒ महो॑ अस्य॒ साद॑ने॒ यवं॒ न वृ॒ष्टिर्दि॒व्येन॒ दानु॑ना ॥७॥  
+As waters flow together to the river, thus Somas to Indra flow, as rivulets to the lake. In place of sacrifice sages exalt his might, as the rain swells the corn by moisture sent from heaven.

@@ -2,5 +2,4 @@
 title = "६७ संभले मलं"
 
 +++
-सं॒भ॒ले मलं॑ सादयित्वा क॑म्बले दु॑रितं व॒यम्।  
-अभू॑म य॒ज्ञियाः॑ शु॒द्धाः प्र ण॒ आयूं॑षि तारिषत्॥६७॥  
+We, having laid the stain and fault upon the interceder's cloak, Are pure and meet for sacrifice. May he prolong our lives for us.

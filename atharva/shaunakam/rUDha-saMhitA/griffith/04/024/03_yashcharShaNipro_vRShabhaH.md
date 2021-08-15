@@ -2,5 +2,4 @@
 title = "०३ यश्चर्षणिप्रो वृषभः"
 
 +++
-यश्च॑र्षणि॒प्रो वृ॑ष॒भः स्व॒र्विद् यस्मै॒ ग्रावा॑णः प्र॒वद॑न्ति नृ॒म्णम्।  
-यस्या॑ध्व॒रः स॒प्तहो॑ता॒ मदि॑ष्ठः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥३॥  
+Ruler of men, finder of light, the hero: the pressing-stones declare his valour, master. Of sweetest sacrifice with seven Hotars. May he deliver us from grief and trouble.

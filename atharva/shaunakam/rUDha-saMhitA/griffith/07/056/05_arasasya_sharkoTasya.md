@@ -2,5 +2,4 @@
 title = "०५ अरसस्य शर्कोटस्य"
 
 +++
-अ॒र॒सस्य॑ श॒र्कोट॑स्य नी॒चीन॑स्योप॒सर्प॑तः ।  
-वि॒षं ह्य॑१स्यादि॒ष्यथो॑ एनमजीजभम्॥५॥  
+This scorpion here that creeps along, low on the ground and powerless-- I have removed his poison and then utterly demolished him.

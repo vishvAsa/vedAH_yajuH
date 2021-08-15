@@ -2,5 +2,4 @@
 title = "१४ वयं घ"
 
 +++
-व॒यं घ॑ त्वा सु॒ताव॑न्त॒ आपो॒ न वृ॒क्तब॑र्हिषः ।  
-प॒वित्र॑स्य प्र॒स्रव॑णेषु वृत्रह॒न् परि॑ स्तो॒तार॑ आसते ॥१४॥  
+We compass thee like waters, we whose grass in trimmed and Soma pressed. Here where the filter pours its stream thy worshippers round thee, O Vritra-slayer, sit.

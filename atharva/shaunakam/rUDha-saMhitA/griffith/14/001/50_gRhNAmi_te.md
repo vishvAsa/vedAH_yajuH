@@ -2,5 +2,4 @@
 title = "५० गृह्णामि ते"
 
 +++
-गृ॒ह्णामि॑ ते सौभग॒त्वाय॒ हस्तं॒ मया॒ पत्या॑ ज॒रद॑ष्टि॒र्यथासः॑ ।  
-भगो॑ अर्य॒मा स॑वि॒ता पुरं॑धि॒र्मह्यं॑ त्वादु॒र्गार्ह॑पत्याय दे॒वाः ॥५०॥  
+I take thy hand in mine for happy fortune that thou mayst reach old age with me thy consort, Gods, Aryaman, Bhaga, Savitar, Purandhi, have given thee to be my household's mistress.

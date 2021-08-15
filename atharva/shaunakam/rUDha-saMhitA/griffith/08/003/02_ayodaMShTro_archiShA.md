@@ -2,5 +2,4 @@
 title = "०२ अयोदंष्ट्रो अर्चिषा"
 
 +++
-अयो॑दंष्ट्रो अ॒र्चिषा॑ यातु॒धाना॒नुप॑ स्पृश जातवेदः॒ समि॑द्धः ।  
-आ जि॒ह्वया॒ मूर॑देवान् रभस्व क्र॒व्यादो॑ वृ॒ष्ट्वापि॑ धत्स्वा॒सन्॥२॥  
+O Jatavedas, armed with teeth of iron, enkindled with thy flame, attack the demons. Seize with thy tongue the foolish gods' adorers: rend, put with- in thy mouth the raw-flesh-eaters.

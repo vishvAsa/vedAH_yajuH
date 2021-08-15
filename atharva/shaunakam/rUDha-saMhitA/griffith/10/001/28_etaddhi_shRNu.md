@@ -2,5 +2,4 @@
 title = "२८ एतद्धि शृणु"
 
 +++
-ए॒तद्धि शृ॒णु मे॒ वचोऽथे॑हि॒ यत॑ ए॒यथ॑ ।  
-यस्त्वा॑ च॒कार॒ तं प्रति॑ ॥२८॥  
+Hearken to this my word; then go thither away whence thou hast come; to him who made thee go thou back.

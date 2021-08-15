@@ -2,5 +2,4 @@
 title = "२३ ज्यायान् निमिषतोऽसि"
 
 +++
-ज्याया॑न् निमिष॒तोऽसि॒ तिष्ठ॑तो॒ ज्याया॑न्त्समु॒द्राद॑सि काम मन्यो ।  
-तत॒स्त्वम॑सि॒ ज्याया॑न् वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत् कृ॑णोमि ॥२३॥  
+Stronger art thou than aught that stands or twinkles, stronger art thou than ocean, Kama! Manyu! Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.

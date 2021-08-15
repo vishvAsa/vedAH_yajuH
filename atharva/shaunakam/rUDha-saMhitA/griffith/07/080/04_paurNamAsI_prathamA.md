@@ -2,5 +2,4 @@
 title = "०४ पौर्णमासी प्रथमा"
 
 +++
-पौ॒र्ण॒मा॒सी प्र॑थ॒मा य॒ज्ञिया॑सी॒दह्नां॒ रात्री॑णामतिशर्व॒रेषु॑ ।  
-ये त्वां य॒ज्ञैर्य॑ज्ञिये अ॒र्धय॑न्त्य॒मी ते नाके॑ सु॒कृतः॒ प्रवि॑ष्टाः ॥४॥
+First was the Full Moon meet for adoration among the days and in the nights' deep darkness. Into thy heaven, O Holy One, have entered those pious men who honour thee with worship.

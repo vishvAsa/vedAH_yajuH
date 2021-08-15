@@ -2,4 +2,4 @@
 title = "०५ छन्दांसि यज्ञे"
 
 +++
-छन्दां॑सि य॒ज्ञे म॑रुतः॒ स्वाहा॑ मा॒तेव॑ पु॒त्रं पि॑पृते॒ह यु॒क्ताः ॥५॥  
+As a dame brings her son--All hail! O Maruts, connected, in the rite bring measures.

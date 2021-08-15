@@ -2,4 +2,4 @@
 title = "०२ यस्मिन्नुक्थानि रण्यन्ति"
 
 +++
-यस्मि॑न्नु॒क्थानि॒ रण्य॑न्ति॒ विश्वा॑नि च श्रव॒स्य । अ॒पामवो॒ न स॑मु॒द्रे॥२॥  
+In whom the hymns of praise delight, and all the glory-giving songs, Like the flood's longing for the sea.

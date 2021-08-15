@@ -2,4 +2,4 @@
 title = "२९ तस्माद् देवेभ्योऽर्धमासे"
 
 +++
-तस्मा॑द् दे॒वेभ्यो॑ऽर्धमा॒से वष॑ट्कुर्वन्ति॒ प्र दे॑व॒यानं॒ पन्थां॑ जानाति॒ य ए॒वं वेद॑ ॥६॥(२०)  
+She mounted up, she came unto the Serpents. The Serpents called her, Venomous! come hither. Her calf was Takshaka, Visala's offspring: a bottlegourd suppli- ed a milking-vessel. Iravan's offspring, Dhritarashtra milked her, and from her udder drew forth only poison. That poison quickens and supports the Serpents: He who knows this becomes a meet supporter.

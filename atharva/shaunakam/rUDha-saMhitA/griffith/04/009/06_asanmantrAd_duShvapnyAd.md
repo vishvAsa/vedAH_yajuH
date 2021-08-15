@@ -2,5 +2,4 @@
 title = "०६ असन्मन्त्राद् दुष्वप्न्याद्"
 
 +++
-अ॒स॒न्म॒न्त्रा॑द् दु॒ष्वप्न्याद् दुष्कृ॒ताच्छम॑लादु॒त।  
-दु॒र्हार्द॒श्चक्षु॑षो घो॒रात् तस्मा॑न्नः पाह्याञ्जन ॥६॥  
+From lying speech, from evil dream, from wicked act and sinfulness, From hostile and malignant eye,--from these, O Salve, protect us well.

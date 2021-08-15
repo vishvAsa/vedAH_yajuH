@@ -2,4 +2,4 @@
 title = "०१ निर्दुरर्मण्य ऊर्जा"
 
 +++
-निर्दु॑रर्म॒ण्य ऊ॒र्जा मधु॑मती॒ वाक्॥१॥  
+Away from distasteful food, strength and sweet speech,

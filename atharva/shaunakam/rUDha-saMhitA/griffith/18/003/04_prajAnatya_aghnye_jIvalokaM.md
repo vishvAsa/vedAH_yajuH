@@ -2,5 +2,4 @@
 title = "०४ प्रजानत्यऽघ्न्ये जीवलोकं"
 
 +++
-प्र॒जा॒न॒त्यऽघ्न्ये जीवलो॒कं दे॒वानां॒ पन्था॑मनुसं॒चर॑न्ती ।  
-अ॒यं ते॒ गोप॑ति॒स्तं जु॑षस्व स्व॒र्गं लो॒कमधि॑ रोहयैनम्॥४॥  
+Knowing the world of living beings, Aghnya! treading the path. of Gods which lies before thee, This is thy husband: joyfully receive him and let him mount into the world of Svarga.

@@ -2,5 +2,4 @@
 title = "०१ इषिरा योषा"
 
 +++
-इ॒षि॒रा योषा॑ युव॒तिर्दमू॑ना॒ रात्री॑ दे॒वस्य॑ सवि॒तुर्भग॑स्य ।  
-अ॒श्व॒क्ष॒भा सु॒हवा॒ संभृ॑तश्री॒रा प॑प्रौ॒ द्यावा॑पृथि॒वी म॑हि॒त्वा॥१॥  
+Friend of the home, the strong and youthful maiden, Night, dear to Savitar the God, and Bhaga, All-compassing, all-glorious, prompt to listen, hath with her greatness filled the earth and heaven.

@@ -2,5 +2,4 @@
 title = "०४ प्रातःप्रातर्गृहपतिर्नो अग्निः"
 
 +++
-प्रा॒तःप्रा॑तर्गृ॒हप॑तिर्नो अ॒ग्निः सा॒यंसा॑यं सौमन॒सस्य॑ दा॒ता।  
-वसो॑र्वसोर्वसु॒दान॑ ए॒धीन्धा॑नास्त्वा श॒तंहि॑मा ऋधेम ॥४॥  
+Each morn that comes our household's Lord is Agni, showing. his loving-kindness every evening. Vouchsafe us treasure after treasure: kindling thee may we prosper through a hundred winters.

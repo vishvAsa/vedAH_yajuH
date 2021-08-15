@@ -2,5 +2,4 @@
 title = "०६ अवैतेनारात्सीरसौ स्वाहा"
 
 +++
-अवै॒तेना॑रात्सीरसौ॒ स्वाहा॑ ।  
-ति॒ग्मायु॑धौ ति॒ग्महे॑ती सु॒शेवौ॒ सोमा॑रुद्रावि॒ह सु मृ॑डतं नः ॥६॥  
+Through this hast thou been left in want. All hail! With sharpened arms and missiles, kind and friendly, be gracious unto us, Soma and Rudra!

@@ -2,5 +2,4 @@
 title = "०१ इन्द्रस्य नाम"
 
 +++
-इन्द्र॑स्य॒ नाम॑ गृ॒ह्णन्त॒ ऋस॑यो जङ्गि॒डं द॑दुः ।  
-दे॒वा यं च॒क्रुर्भे॑ष॒जमग्रे॑ विष्कन्ध॒दूष॑णम्॥१॥  
+While their lips uttered Indra's name the Rishis gave us Jangida.. Which in the earliest time Gods made a remedy, Vishkandha's- cure.

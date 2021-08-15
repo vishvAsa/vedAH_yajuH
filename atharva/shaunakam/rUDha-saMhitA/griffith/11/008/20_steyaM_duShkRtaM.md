@@ -2,5 +2,4 @@
 title = "२० स्तेयं दुष्कृतं"
 
 +++
-स्तेयं॑ दुष्कृ॒तं वृ॑जि॒नं स॒त्यं य॒ज्ञो यशो॑ बृ॒हत्।  
-बलं॑ च क्ष॒त्रमोज॑श्च॒ शरी॑र॒मनु॒ प्रावि॑शन्॥२०॥  
+Theft, evil-doing, and deceit, truth, sacrifice, exalted fame, Strength, princely power, and energy entered the body as a home.

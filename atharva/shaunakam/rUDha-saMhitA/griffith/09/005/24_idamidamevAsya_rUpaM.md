@@ -2,5 +2,4 @@
 title = "२४ इदमिदमेवास्य रूपं"
 
 +++
-इ॒दमि॑दमे॒वास्य॑ रू॒पं भ॑वति॒ तेनै॑नं॒ सं ग॑मयति ।  
-इषं॒ मह॒ ऊर्ज॑मस्मै दुहे॒ यो॒३ऽजं पञ्चौ॑दनं दक्षि॑णाज्योतिषं॒ ददा॑ति ॥२४॥  
+This, even this is his true form: the man uniteth him therewith. Food, greatness, strength he bringeth him who giveth the Goat Panchaudana illumed with guerdon.

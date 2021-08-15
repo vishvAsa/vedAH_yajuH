@@ -2,4 +2,4 @@
 title = "०५ अपामूर्मिर्मदन्निव स्तोम"
 
 +++
-अ॒पामू॒र्मिर्मद॑न्निव॒ स्तोम॑ इन्द्राजिरायते । वि ते॒ मदा॑ अराजिषुः ॥५॥
+Indra, thy laud moves quickly like a joyous wave of waters: bright. Have shone the drops that gladden thee.

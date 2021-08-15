@@ -2,4 +2,4 @@
 title = "१६ मेनिः शतवधा"
 
 +++
-मे॒निः श॒तव॑धा॒ हि सा ब्र॑ह्म॒ज्यस्य॒ क्षिति॒र्हि सा॥१६॥  
+A hundred-killing bolt is she: she slays the Brahman's injurer.

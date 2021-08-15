@@ -2,5 +2,4 @@
 title = "३५ यत्र देवाश्च"
 
 +++
-यत्र॑ दे॒वाश्च॑ मनु॒ष्याऽश्चा॒रा नाभा॑विव श्रि॒ताः ।  
-अ॒पां त्वा॒ पुष्पं॑ पृच्छामि॒ यत्र॒ तन्मा॒यया॑ हि॒तम्॥३४॥  
+Who gave command unto the wind that blowet! Who ranged the five united heavenly regions? Who were the Gods who cared not for oblations! Which of them brought the sacrificial waters?

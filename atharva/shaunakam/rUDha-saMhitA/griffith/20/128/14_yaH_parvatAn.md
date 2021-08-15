@@ -2,5 +2,4 @@
 title = "१४ यः पर्वतान्"
 
 +++
-यः पर्व॑ता॒न् व्य॑दधा॒द् यो अ॒पो व्य॑गाहथाः ।  
-इन्द्रो॒ यो वृ॑त्र॒हान्म॒हं तस्मा॑दिन्द्र॒ नमो॑ऽस्तु ते ॥१४॥  
+Thou who didst separate the clouds and penetrate the water- floods, To thee, great slayer of the foe, be glory, Indra, yea, to thee!

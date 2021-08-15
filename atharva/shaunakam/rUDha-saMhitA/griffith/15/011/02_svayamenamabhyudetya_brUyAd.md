@@ -2,5 +2,4 @@
 title = "०२ स्वयमेनमभ्युदेत्य ब्रूयाद्"
 
 +++
-स्व॒यमे॑नमभ्यु॒देत्य॑ ब्रूया॒द् व्रात्य॒ क्वाऽवात्सी॒र्व्रात्यो॑द॒कं व्रात्य॑ त॒र्पय॑न्तु॒ व्रात्य॒ यथा॑ ते प्रि॒यं तथा॑स्तु॒  
-व्रात्य॒ यथा॑ ते॒ वश॒स्तथा॑स्तु॒ व्रात्य॒ यथा॑ ते निका॒मस्तथा॒स्त्विति॑ ॥२॥  
+Rise up of his own accord to meet him, and say, Vratya, where didst thou pass the night? Vratya, here is water, Let them refresh thee. Vratya, let it be as thou pleasest. Vratya, as thy wish is so let it be. Vratya, as thy desire is so be it.

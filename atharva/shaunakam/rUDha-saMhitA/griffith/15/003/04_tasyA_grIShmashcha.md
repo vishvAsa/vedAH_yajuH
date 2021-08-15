@@ -2,4 +2,4 @@
 title = "०४ तस्या ग्रीष्मश्च"
 
 +++
-तस्या॑ ग्री॒ष्मश्च॑ वस॒न्तश्च॒ द्वौ पादा॒वास्तां॑ श॒रच्च॑ व॒र्षाश्च॒ द्वौ॥४॥  
+Two of its feet were Summer and Spring, and two were Autumn and the Rains.

@@ -2,5 +2,4 @@
 title = "०३ इन्द्रस्त्रातोत वृत्रहा"
 
 +++
-इन्द्र॑स्त्रा॒तोत वृ॑त्र॒हा प॑र॒स्फानो॒ वरे॑ण्यः ।  
-स र॑क्षि॒ता च॑रम॒तः स म॑ध्य॒तः स प॒श्चात् स पु॒रस्ता॑न्नो अस्तु ॥३॥  
+Best, making household wealth increase. Indra our saviour, kills the foe. May he from outmost point be our potector, and from the centre and from west and eastward.

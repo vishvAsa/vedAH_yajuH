@@ -2,5 +2,4 @@
 title = "०५ यदा शृतं"
 
 +++
-य॒दा शृ॒तं कृ॒णवो॑ जातवे॒दोऽथे॒ममे॑नं॒ परि॑ दत्तात् पि॒तृभ्यः॑ ।  
-य॒दो गच्छा॒त्यसु॑नीतिमे॒तामथ॑ दे॒वानां॑ वश॒नीर्भ॑वाति ॥५॥  
+When thou hast made him ready, Jatavedas, then do thou give him over to the Fathers. When he attains unto the life that waits him he will obey the Deities' commandment.

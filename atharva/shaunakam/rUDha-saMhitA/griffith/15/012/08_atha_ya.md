@@ -2,4 +2,4 @@
 title = "०८ अथ य"
 
 +++
-अथ॒ य ए॒वं वि॒दुषा॒ व्रात्ये॒नान॑तिसृष्टो जु॒होति॑ ॥८॥  
+But he who sacrifices without the permission of the Vratya who- possesses this knowledge.

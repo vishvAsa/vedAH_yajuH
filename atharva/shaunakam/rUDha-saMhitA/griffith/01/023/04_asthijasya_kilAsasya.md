@@ -2,5 +2,4 @@
 title = "०४ अस्थिजस्य किलासस्य"
 
 +++
-अ॒स्थि॒जस्य॑ कि॒लास॑स्य तनू॒जस्य॑ च॒ यत् त्व॒चि।  
-दूष्या॑ कृ॒तस्य॒ ब्रह्म॑णा॒ लक्ष्म॑ श्वे॒तम॑नीनशम्॥४॥
+I with my spell have chased away the pallid sign of leprosy, Caused by infection, on the skin, sprung from the body, from the bones.

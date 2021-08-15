@@ -2,5 +2,4 @@
 title = "४१ देवैर्दत्तं मनुना"
 
 +++
-दे॒वैर्द॒त्तं मनु॑ना सा॒कमे॒तद् वाधू॑यं॒ वासो॑ व॒ध्वऽश्च॒ वस्त्र॑म्।  
-यो ब्र॒ह्मणे॑ चिकि॒तुषे॒ ददा॑ति॒ स इद् रक्षां॑सि॒ तल्पा॑नि हन्ति ॥४१॥  
+Sent by the Gods associate with Manu, the vesture of the bride, the nuptial garment, He who bestows this on a thoughtful Brahman, drives from the marriage-bed all evil demons.

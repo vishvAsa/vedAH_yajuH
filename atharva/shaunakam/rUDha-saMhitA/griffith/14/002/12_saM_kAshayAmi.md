@@ -2,5 +2,4 @@
 title = "१२ सं काशयामि"
 
 +++
-सं का॑शयामि वह॒तुं ब्रह्म॑णा गृ॒हैरघो॑रेण॒ चक्षु॑षा मि॒त्रिये॑ण ।  
-प॒र्याण॑द्धं वि॒श्वरू॑पं॒ यदस्ति॑ स्यो॒नं पति॑भ्यः सवि॒ता तत् कृ॑णोतु ॥१२॥  
+I look upon the house and bride's procession with prayer and with the gentle eye of friendship. All that is covered there in perfect beauty may Savitar make pleasant to the husband.

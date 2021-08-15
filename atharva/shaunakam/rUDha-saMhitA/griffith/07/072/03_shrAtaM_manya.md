@@ -2,5 +2,4 @@
 title = "०३ श्रातं मन्य"
 
 +++
-श्रा॒तं म॑न्य॒ ऊध॑नि श्रा॒तम॒ग्नौ सुशृ॑तं मन्ये॒ तदृ॒तं नवी॑यः ।  
-माध्य॑न्दिनस्य॒ सव॑नस्य द॒ध्नः पिबे॑न्द्र वज्रिन् पुरु॒कृज्जु॑षा॒णः ॥१॥
+Dressed in the udder and on fire, I fancy; well dressed, I fancy, is this new oblation. Quaff thickened milk of noon's libation, Indra, well pleased, O Thunderer, famed for many an exploit!

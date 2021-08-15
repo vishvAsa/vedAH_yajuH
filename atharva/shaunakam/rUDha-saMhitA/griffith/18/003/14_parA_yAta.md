@@ -2,5 +2,4 @@
 title = "१४ परा यात"
 
 +++
-परा॑ यात पितर॒ आ च॑ याता॒यं वो॑ य॒ज्ञो मधु॑ना॒ सम॑क्तः ।  
-द॒त्तो अ॒स्मभ्यं॒ द्रवि॑णे॒ह भ॒द्रं र॒यिं च॑ नः॒ सर्व॑वीरं दधात ॥१४॥  
+Depart, O Fathers, and again come hither; this sacrifice of yours is balmed with sweetness. Enrich us here with gift of great possessions; grant blessed wealth with ample store of heroes.

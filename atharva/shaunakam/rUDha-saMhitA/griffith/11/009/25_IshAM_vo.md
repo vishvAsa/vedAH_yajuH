@@ -2,6 +2,4 @@
 title = "२५ ईशां वो"
 
 +++
-ई॒शां वो॑ म॒रुतो॑ दे॒व आ॑दि॒त्यो ब्रह्म॑ण॒स्पतिः॑ ।  
-ई॒शां व॒ इन्द्र॑श्चा॒ग्निश्च॑ धा॒ता मि॒त्रः प्र॒जाप॑तिः ।  
-ई॒शां व॒ ऋष॑यश्चक्रुर॒मित्रे॑षु समी॒क्षय॑न् रदि॒ते अ॑र्बुदे॒ तव॑ ॥२५॥  
+High sway have Maruts, and the God Aditya, Brahmanaspati, High sway have Indra, Agni, and Dilator, Mitra, Prajapati, High sway have Rishis given to you, showing upon our enemies where thou, O Arbudi, hast pierced.

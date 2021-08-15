@@ -2,5 +2,4 @@
 title = "४७ ये अग्रवः"
 
 +++
-ये अग्र॑वः शशमा॒नाः प॑रे॒युर्हि॒त्वा द्वेषां॒स्यन॑पत्यवन्तः ।  
-ते द्यामु॒दित्या॑विदन्त लो॒कं नाक॑स्य पृ॒ष्ठे अधि॒ दीध्या॑नाः ॥४७॥  
+Unmarried men who toiled and have departed, the childless, having left their foes behind them, Have found on high the world whereto they mounted, reflecting on the ridge of vaulted heaven.

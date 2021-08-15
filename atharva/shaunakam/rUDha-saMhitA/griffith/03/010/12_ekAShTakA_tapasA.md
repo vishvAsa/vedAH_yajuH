@@ -2,5 +2,4 @@
 title = "१२ एकाष्टका तपसा"
 
 +++
-ए॒का॒ष्ट॒का तप॑सा त॒प्यमा॑ना ज॒जान॒ गर्भं॑ महि॒मान॒मिन्द्र॑म्।  
-तेन॑ दे॒वा व्यऽसहन्त॒ शत्रू॑न् ह॒न्ता दस्यू॑नामभव॒च्छची॒पतिः॑ ॥१२॥  
+Ekashtaka, burning with zealous fervour, brought forth her babe the great and glorious Indra. With him the Gods subdued their adversaries: the Lord of Might became the Dasyus' slayer.

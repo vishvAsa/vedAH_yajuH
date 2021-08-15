@@ -2,4 +2,4 @@
 title = "०२ वायुं ते३ऽन्तरिक्षवन्तमृछन्तु"
 
 +++
-वा॒युं ते॒३ऽन्तरि॑क्षवन्तमृछन्तु । ये मा॑घा॒यवः॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त्॥२॥  
+Let those who vex me from this quarter, sinners, praise Vayu compassed by the Air's mid region.

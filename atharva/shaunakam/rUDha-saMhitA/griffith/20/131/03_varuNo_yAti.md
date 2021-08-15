@@ -2,4 +2,4 @@
 title = "०३ वरुणो याति"
 
 +++
-वरु॑णो॒ याति॒ वस्व॑भिः ॥३॥  
+Who took away the white cow's milk t Who took the black cow's milk away?

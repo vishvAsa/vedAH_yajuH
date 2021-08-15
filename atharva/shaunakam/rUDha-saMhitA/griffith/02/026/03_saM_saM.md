@@ -2,5 +2,4 @@
 title = "०३ सं सं"
 
 +++
-सं सं स्र॑वन्तु प॒शवः॒ समश्वाः॒ समु॒ पूरु॑षाः ।  
-सं धा॒न्यऽस्य॒ या स्फा॒तिः सं॑स्रा॒व्येऽण ह॒विषा॑ जुहोमि ॥३॥  
+Together stream the cattle! stream together horses and the men! Hitherward press all growth of grain! I offer sacrifice with mixt oblation.

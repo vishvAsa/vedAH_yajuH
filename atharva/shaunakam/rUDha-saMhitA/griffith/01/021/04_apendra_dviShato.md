@@ -2,5 +2,7 @@
 title = "०४ अपेन्द्र द्विषतो"
 
 +++
-अपे॑न्द्र द्विष॒तो मनोऽप॒ जिज्या॑सतो व॒धम्।  
-वि महच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम्॥४॥
+id
+1.21.4    Turn thou the foeman's thought away, his dart ...
+1.21.4    To parrots and to starlings we transfer thy si...
+Name: Comment, dtype: object

@@ -2,4 +2,4 @@
 title = "०४ यदापीतासो अंशवो"
 
 +++
-यदापी॑तासो अं॒शवो॒ गावो॒ न दु॒ह्र ऊध॑भिः । यद्वा॒ वाणी॒रनु॑षत॒ प्र दे॑व॒यन्तो॑ अ॒श्विना॑ ॥४॥  
+When yellow stalks give forth the juice as cows from udders pour their milk, And voices sound the song of praise, the Asvins' worshippers show first.

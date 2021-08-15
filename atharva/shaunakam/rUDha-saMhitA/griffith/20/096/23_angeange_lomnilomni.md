@@ -2,5 +2,4 @@
 title = "२३ अङ्गेअङ्गे लोम्निलोम्नि"
 
 +++
-अङ्गे॑अङ्गे॒ लोम्नि॑लोम्नि॒ यस्ते॒ पर्व॑णिपर्वणि ।  
-यक्षं॑ त्वच॒स्यं ते व॒यं क॒श्यप॑स्य वीब॒र्हेण॒ विष्व॑ञ्चं॒ वि वृ॑हामसि ॥२३॥  
+Avaunt, thou Master of the Mind, I Depart and vanish far away. Look on Destruction far from us. The live man's mind is manifold.

@@ -2,5 +2,4 @@
 title = "२८ परीवृतो ब्रह्मणा"
 
 +++
-परी॑वृतो॒ ब्रह्म॑णा॒ वर्म॑णा॒हं क॒श्यप॑स्य॒ ज्योति॑षा॒ वर्च॑सा च ।  
-मा मा॒ प्राप॒न्निष॑वो॒ दैव्या॒ या मा मानु॑षी॒रव॑सृष्टाः व॒धाय॑ ॥२८॥  
+Compassed am I with prayer, my shield and armour; compassed with Kasyapa's bright light and splendour. Let not shafts reach me shot from heaven against me, nor those sent forth by men for my destruction.

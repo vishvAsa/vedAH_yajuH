@@ -2,4 +2,4 @@
 title = "३६ धर्तासि धरुणोऽसि"
 
 +++
-ध॒र्तासि॑ ध॒रुणो॑ऽसि॒ वंस॑गोऽसि ॥३६॥  
+Thou art the Bull, Supporter, and Upholder,

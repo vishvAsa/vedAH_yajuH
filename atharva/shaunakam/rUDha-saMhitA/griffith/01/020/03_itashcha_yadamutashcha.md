@@ -2,5 +2,4 @@
 title = "०३ इतश्च यदमुतश्च"
 
 +++
-इ॒तश्च॒ यद॒मुत॑श्च॒ यद् व॒धं व॑रुण यावय ।  
-वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम्॥३॥  
+Ward off from this side and from that, O Varuna, the deadly dart: Give us thy great protection, turn the lethal weapon far away.

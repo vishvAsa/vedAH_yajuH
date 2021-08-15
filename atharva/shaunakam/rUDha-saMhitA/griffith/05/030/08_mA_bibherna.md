@@ -2,5 +2,4 @@
 title = "०८ मा बिभेर्न"
 
 +++
-मा बि॑भे॒र्न म॑रिष्यसि ज॒रद॑ष्टिं कृणोमि त्वा ।  
-निर॑वोचम॒हं यक्ष्म॒मङ्गे॑भ्यो अङ्गज्व॒रं तव॑ ॥८॥  
+Be not alarmed: thou wilt not die. I give thee lengthened years of life. Forth from thy members have I charmed Decline that caused the fever there.

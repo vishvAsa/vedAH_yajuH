@@ -2,5 +2,4 @@
 title = "०६ उत् पुरस्तात्"
 
 +++
-उत् पु॒रस्ता॒त् सूर्य॑ एति वि॒श्वदृ॑ष्टो अदृष्ट॒हा।  
-दृ॒ष्टांश्च॒ घ्नन्न॒दॄष्टां॑श्च॒ सर्वां॑श्च प्रमृ॒णन् क्रिमी॑न्॥६॥  
+Let the Yevashas, Kaskashas, Ejatkas, Sipavitnukas, Let both the worm that we can see, and that we see not, be destroyed.

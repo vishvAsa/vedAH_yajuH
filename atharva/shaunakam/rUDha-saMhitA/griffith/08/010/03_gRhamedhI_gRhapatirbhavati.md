@@ -2,4 +2,4 @@
 title = "०३ गृहमेधी गृहपतिर्भवति"
 
 +++
-गृ॒ह॒मे॒धी गृ॒हप॑तिर्भवति॒ य ए॒वं वेद॑ ॥३॥  
+She mounted up, the Eastward fire she entered. He who knows this becomes the Gods' beloved, and to his call they come when she invokes them.

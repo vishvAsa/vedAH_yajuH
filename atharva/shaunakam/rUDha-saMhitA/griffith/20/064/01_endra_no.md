@@ -2,4 +2,4 @@
 title = "०१ एन्द्र नो"
 
 +++
-एन्द्र॑ नो गधि प्रि॒यः स॑त्रा॒जिदगो॑ह्यः । गि॒रिर्न वि॒श्वत॑स्पृ॒थुः पति॑र्दि॒वः ॥१॥  
+Come unto us, O Indra, dear, still conquering, unconcealable, Vast as a mountain spread on all sides, Lord of heaven.

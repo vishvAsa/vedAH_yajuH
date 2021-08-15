@@ -2,5 +2,4 @@
 title = "०७ अनुहूतः पुनरेहि"
 
 +++
-अनु॑हूतः॒ पुन॒रेहि॑ वि॒द्वानु॒दय॑नं प॒थः ।  
-आ॒रोह॑णमा॒क्रम॑णं॒ जीव॑तोजीव॒तोऽय॑नम्॥७॥0  
+Come back as thou art called to come, knowing the outlet of the path, And the Approach and its ascent, the way of every living man.

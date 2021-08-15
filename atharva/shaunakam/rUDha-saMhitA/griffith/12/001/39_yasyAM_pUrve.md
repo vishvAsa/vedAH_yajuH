@@ -2,5 +2,4 @@
 title = "३९ यस्यां पूर्वे"
 
 +++
-यस्यां॒ पूर्वे॑ भूत॒कृत॒ ऋष॑यो॒ गा उ॑दानृ॒चुः ।  
-स॒प्त स॒त्रेण॑ वे॒धसो॑ य॒ज्ञेन॒ तप॑सा स॒ह॥३९॥  
+On whom the ancient Rishis, they who made the world, sang forth the cows, Seven worshippers, by session, with their fervent zeal and sacrifice;

@@ -2,5 +2,4 @@
 title = "३८ इमां मात्रां"
 
 +++
-इ॒मां मात्रां॑ मिमीमहे॒ यथाप॑रं॒ न मासा॑तै ।  
-श॒ते श॒रत्सु॒ नो पु॒रा॥३८॥  
+This date we settle once for all, that it may ne'er be fixt again_ A hundred autumns; not before.

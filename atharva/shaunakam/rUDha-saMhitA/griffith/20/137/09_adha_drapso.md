@@ -2,5 +2,4 @@
 title = "०९ अध द्रप्सो"
 
 +++
-अध॑ द्र॒प्सो अं॑शु॒मत्या॑ उ॒पस्थेऽधा॑रयत्त॒न्वं॑ तित्विषा॒णः ।  
-विशो॒ अदे॑वीर॒भ्या॒३चर॑न्ती॒र्बृह॒स्पति॑ना यु॒जे॑न्द्रः॑ ससाहे ॥९॥  
+And then the drop in Ansumati's bosom, splendid with light, assumed its proper body; And Indra with Brihaspati to aid him, conquered the godless tribes that came against him.

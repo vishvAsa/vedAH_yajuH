@@ -2,5 +2,4 @@
 title = "०३ सम्राडस्यसुराणां ककुन्मनुष्याऽणाम्"
 
 +++
-स॒म्राड॒स्यसु॑राणां क॒कुन्म॑नु॒ष्याऽणाम्।  
-दे॒वाना॑मर्ध॒भाग॑सि॒ त्वमे॑कवृ॒षो भ॑व ॥३॥
+Thou art the King of Asuras, the crown and summit of man- kind: Thou art the partner of the Gods: the one and only Lord be thou.

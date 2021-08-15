@@ -2,4 +2,4 @@
 title = "०७ य इन्द्र"
 
 +++
-य इ॑न्द्र सोम॒पात॑मो॒ मदः॑ शविष्ठ॒ चेत॑ति । येना॒ हंसि॒ न्य॑१त्त्रिणं॒ तमी॑महे ॥७॥  
+Joy, mightiest Indra, known and marked, sprung most from Soma draughts, wherewith Thou smitest down the greedy fiend, for that we pray.

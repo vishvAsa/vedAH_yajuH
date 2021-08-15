@@ -2,5 +2,4 @@
 title = "०१ एतं सधस्थाः"
 
 +++
-ए॒तं स॑धस्थाः॒ परि॑ वो ददामि॒ यं शे॑व॒धिमा॒वहा॑ज्जा॒तवे॑दाः ।  
-अ॒न्वा॒ग॒न्ता यज॑मानः स्व॒स्ति तं स्म॑ जानीत पर॒मे व्योऽमन्॥१॥  
+Ye who are present, unto you I offer this treasure brought to us by Jatavedas Happily will the sacrificer follow: do ye acknowledge him in highest heaven.

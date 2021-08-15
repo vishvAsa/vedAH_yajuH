@@ -2,6 +2,4 @@
 title = "१३ यमबध्नाद् बृहस्पतिर्वाताय"
 
 +++
-यमब॑ध्ना॒द् बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑ ।  
-तं बिभ्र॑त् सवि॒ता म॒णिं तेने॒दम॑जय॒त् स्वः ।  
-सो अ॑स्मै सू॒नृतां॑ दुहे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥१३॥  
+Savitar wore this Amulet: herewith he won this lucid heaven. This yields him glory and delight, again, etc.

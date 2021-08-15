@@ -2,5 +2,4 @@
 title = "०२ यो नो"
 
 +++
-यो नो॒ मर्तो॑ मरुतो दुर्हृणा॒युस्ति॒रश्चि॒त्तानि॑ वसवो॒ जिघां॑सति ।  
-द्रु॒हः पाशा॒न् प्रति॑ मुञ्चतां॒ सस्तपि॑ष्ठेन॒ तप॑सा हन्तना॒ तम्॥२॥  
+Maruts, the man who filled with rage against us beyond our thoughts would harm us, O ye Vasus, May he be tangled in the toils of Mischief: smite ye him down with your most flaming weapon.

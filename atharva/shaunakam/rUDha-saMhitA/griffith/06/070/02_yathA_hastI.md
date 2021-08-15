@@ -2,6 +2,4 @@
 title = "०२ यथा हस्ती"
 
 +++
-यथा॑ ह॒स्ती ह॑स्ति॒न्याः प॒देन॑ प॒दमु॑द्यु॒जे।  
-यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑ ।  
-ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥२॥  
+As the male elephant pursues with eager step his female's track, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upon the calf.

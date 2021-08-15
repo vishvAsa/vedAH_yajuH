@@ -2,5 +2,4 @@
 title = "२१ पार्थिवा दिव्याः"
 
 +++
-पार्थि॑वा दि॒व्याः प॒शव॑ आर॒ण्या ग्रा॒म्याश्च॒ ये।  
-अ॒प॒क्षाः प॒क्षिण॑श्च॒ ये ते जा॒ता ब्र॑ह्मचा॒रिणः॑ ॥२१॥  
+All creatures of the earth and heaven, tame animals and sylvan beasts, Winged and wingless creatures, from the Brahmachari sprang to life,

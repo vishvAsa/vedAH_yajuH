@@ -2,5 +2,4 @@
 title = "०४ ये ग्राम्याः"
 
 +++
-ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पा विरू॑पाः सन्तो॑ बहु॒धैक॑रूपाः ।  
-वा॒युष्टानग्रे॒ प्र मु॑मोक्तु दे॒वः प्र॒जाप॑तिः प्र॒जया॑ संररा॒णः ॥४॥  
+Tame animals of every shape, though varied in colour, manifold. alike in nature To them, the first, may Vayu, God, give freedom, Prajapati. rejoicing in his creatures.

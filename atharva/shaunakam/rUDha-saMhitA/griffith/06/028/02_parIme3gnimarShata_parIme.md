@@ -2,5 +2,4 @@
 title = "०२ परीमे३ग्निमर्षत परीमे"
 
 +++
-परी॒मे॒३ग्निम॑र्षत॒ परी॒मे गाम॑नेषत ।  
-दे॒वेष्व॑क्रत॒ श्रवः॒ क इ॒माँ आ द॑धर्षति ॥२॥  
+These men have strengthened Agni's might, these men have brought the kine to us. They have sung glory to the Gods. Who is the man that con- quers them?

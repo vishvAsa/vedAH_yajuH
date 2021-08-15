@@ -2,5 +2,4 @@
 title = "२५ यमबध्नाद् बृहस्पतिर्देवेभ्यो"
 
 +++
-यमब॑ध्ना॒द् बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
-स मा॒यं म॒णिराग॑म॒न्मधो॑र्घृ॒तस्य॒ धार॑या की॒लाले॑न म॒णिः स॒ह॥२५॥  
+The Amulet, etc. That Amulet here hath come to me with streams of butter and of mead, with sweet delicious beverage.

@@ -2,5 +2,4 @@
 title = "१५ खण्वखा३इ खैमखा३इ"
 
 +++
-खण्व॒खा३इ॒ खैम॒खा३इ॒ मध्ये॑ तदुरि ।  
-व॒र्षं व॑नुध्वं पितरो म॒रुतां॒ मन॑ इछत ॥१५॥  
+Khanvakha, ho! Khaimakha, ho! thou in the middle, Taduri! Fathers, enjoy the rain from one who strives to win the Marutes heart.

@@ -2,5 +2,4 @@
 title = "५८ अग्नेर्वर्म परि"
 
 +++
-अ॒ग्नेर्वर्म॒ परि॒ गोभि॑र्व्ययस्व॒ सं प्रोर्णु॑ष्व॒ मेद॑सा॒ पीव॑सा च ।  
-नेत् त्वा॑ धृ॒ष्णुर्हर॑सा॒ जर्हृ॑षाणो द॒धृग् वि॑ध॒क्षन् प॑री॒ङ्खया॑तै ॥५८॥  
+Mail thee with flesh against the flames of Agni; encompass thee about with fat and marrow; So will the bold One eager to attack thee with fierce glow fail to girdle and consume thee.

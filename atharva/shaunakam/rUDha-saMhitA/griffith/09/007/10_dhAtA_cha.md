@@ -2,4 +2,4 @@
 title = "१० धाता च"
 
 +++
-धा॒ता च॑ सवि॒ता चा॑ष्ठी॒वन्तौ॒ जङ्घा॑ गन्ध॒र्वा अ॑प्स॒रसः॒ कुष्ठि॑का॒ अदि॑तिः श॒फाः ॥१०॥  
+Dhatar and Savitar are the two knee-bones, the Gandharvas are the legs the Apsarases are bits of the feet, Aditi is the hooves.

@@ -2,5 +2,4 @@
 title = "०३ अभि त्वा"
 
 +++
-अ॒भि त्वा॑ दे॒वः स॑वि॒ताभि सोमो॑ अवीवृधत्।  
-अ॒भि त्वा॒ विश्वा॑ भू॒तान्य॑भीव॒र्तो यथास॑सि ॥३॥  
+Soma and Savitar the God have strengthened and exalted thee: All elements have aided thee, to make thee general conqueror.

@@ -2,5 +2,4 @@
 title = "०८ यदि कामादपकामाद्धृदयाज्जायते"
 
 +++
-यदि॒ कामा॑दपका॒माद्धृद॑या॒ज्जाय॑ते॒ परि॑ ।  
-हृ॒दो ब॒लास॒मङ्गे॑भ्यो ब॒हिर्निर्म॑न्त्रयामहे ॥८॥  
+If the disease originates from love, from hatred, from the heart, Forth from the heart and from the limbs we charm the wasting malady.

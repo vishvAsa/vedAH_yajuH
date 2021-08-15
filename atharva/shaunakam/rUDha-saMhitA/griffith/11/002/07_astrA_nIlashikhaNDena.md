@@ -2,5 +2,4 @@
 title = "०७ अस्त्रा नीलशिखण्डेन"
 
 +++
-अस्त्रा॒ नील॑शिखण्डेन सहस्रा॒क्षेण॑ वा॒जिना॑ ।  
-रु॒द्रेणा॑र्धकघा॒तिना॒ तेन॒ मा सम॑रामहि ॥७॥  
+Never may we contend with him, the mighty archer, thousand- eyed. Rudra who wears black tufts of hair, the slaughterer of Ardhaka.

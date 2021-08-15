@@ -2,5 +2,4 @@
 title = "०१ हिमवतः प्र"
 
 +++
-हि॒मव॑तः॒ प्र स्र॑वन्ति॒ सिन्धौ॑ समह सङ्ग॒मः ।  
-आपो॑ ह मह्यं॒ तद् दे॒वीर्दद॑न् हृद्द्योतभेष॒जम्॥१॥  
+Forth from the Hills of Snow they stream, and meet in Sindhu here or there. To me the sacred Waters gave the balm that heals the heart's disease.

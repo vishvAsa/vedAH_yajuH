@@ -2,5 +2,4 @@
 title = "०५ विभिन्दती शतशाखा"
 
 +++
-वि॒भि॒न्द॒ती श॒तशा॑खा विभि॒न्दन् नाम॑ ते पि॒ता।  
-प्र॒त्यग् वि भि॑न्धि॒ त्वं तं यो अ॒स्माँ अ॑भि॒दास॑ति ॥५॥  
+Thy father's name was Cleaver. Thou with thousand branches cleavest all. Do thou, turned backward, cleave and rend the man who treateth us as foes.

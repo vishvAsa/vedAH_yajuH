@@ -2,5 +2,4 @@
 title = "०६ अहं पशूनामधिपा"
 
 +++
-अ॒हं प॑शू॒नाम॑धि॒पा अ॑सानि॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ।  
-मह्य॒मौदु॑म्बरो म॒णिर्द्रवि॑णानि॒ नि य॑च्छतु ॥६॥  
+Fain would I be the lord of herds of cattle: may he who rules o'er riches send me riches! May the Udumbara Amulet vouchsafe possessions unto me.

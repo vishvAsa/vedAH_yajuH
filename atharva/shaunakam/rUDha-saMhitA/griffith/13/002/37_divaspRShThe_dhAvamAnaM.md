@@ -2,5 +2,4 @@
 title = "३७ दिवस्पृष्ठे धावमानं"
 
 +++
-दि॒वस्पृ॒ष्ठे धाव॑मानं सुप॒र्णमदि॑त्याः पु॒त्रं ना॒थका॑म॒ उप॑ यामि भी॒तः ।  
-स नः॑ सूर्य॒ प्र ति॑र दी॒र्घमायु॒र्मा रि॑षाम सुम॒तौ ते॑ स्याम ॥३७॥  
+Him, Son of Aditi, an Eagle hasting along heaven's height, I supplicate in terror, As such prolong our lengthened life, O Surya: may we, unha- rmed, enjoy thy gracious favour.

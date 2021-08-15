@@ -2,5 +2,4 @@
 title = "११ घृतं प्रोक्षन्ती"
 
 +++
-घृ॒तं प्रो॒क्षन्ती॑ सु॒भगा॑ दे॒वी दे॒वान् ग॑मिष्यति ।  
-प॒क्तार॑मघ्न्ये॒ मा हिं॑सी॒र्दिवं॒ प्रेहि॑ शतौदने ॥११॥  
+Sprinkling down fatness, to the Gods will the beneficent God- dess go. Harm not thy dresser, Cow! To heaven, O Hundredfold Obla- tion, speed!

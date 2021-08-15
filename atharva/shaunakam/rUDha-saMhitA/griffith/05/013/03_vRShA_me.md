@@ -2,5 +2,4 @@
 title = "०३ वृषा मे"
 
 +++
-वृषा॑ मे॒ रवो॒ नभ॑सा॒ न त॑न्य॒तुरु॒ग्रेण॑ ते॒ वच॑सा बाध॒ आदु॑ ते ।  
-अ॒हं तम॑स्य॒ नृभि॑रग्रभं॒ रसं॒ तम॑स इव॒ ज्योति॒रुदे॑तु॒ सूर्यः॑ ॥३॥  
+Strong is my cry like thunder with the rainy cloud: with power- ful incantation let thy strength be stayed. I, with the men to aid, have seized that juice of his; as light from out the gloom, let Surya rise on high

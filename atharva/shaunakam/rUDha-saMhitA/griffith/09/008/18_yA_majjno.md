@@ -2,5 +2,4 @@
 title = "१८ या मज्ज्ञो"
 
 +++
-या म॒ज्ज्ञो नि॒र्धय॑न्ति॒ परूं॑षि विरु॒जन्ति॑ च ।  
-अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म्॥१८॥  
+The pains that suck the marrow out, and rend and tear the bones apart, May they speed forth and pass away, free from disease and harming not.

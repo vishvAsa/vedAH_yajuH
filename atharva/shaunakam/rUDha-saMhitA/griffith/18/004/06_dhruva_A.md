@@ -2,5 +2,4 @@
 title = "०६ ध्रुव आ"
 
 +++
-ध्रुव॒ आ रो॑ह पृथि॒वीं वि॒श्वभो॑जसम॒न्तरि॑क्षमुपभृदा क्र॑मस्व ।  
-जुहु॒ द्यां ग॑च्छ॒ यज॑मानेन सा॒कं स्रु॒वेण॑ व॒त्सेन॒ दिशः॒ प्रपी॑नाः॒ सर्वा॑ धु॒क्ष्वाहृ॑ण्यमानः ॥६॥  
+Dhruva, ascend thou earth the all sustainer: go thou, O Upa- bhrit, to air's mid-region. Juhu, go skyward with the sacrificer; go, and with Sruva be thy calf beside thee drain all the swelling unreluctant quarters.

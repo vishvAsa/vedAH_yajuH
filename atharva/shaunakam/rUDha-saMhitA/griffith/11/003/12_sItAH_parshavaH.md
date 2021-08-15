@@ -2,4 +2,4 @@
 title = "१२ सीताः पर्शवः"
 
 +++
-सीताः॒ पर्श॑वः॒ सिक॑ता॒ ऊब॑ध्यम् ॥१२॥  
+Furrows are its ribs, sandy soils the undigested contents of its stomach. 

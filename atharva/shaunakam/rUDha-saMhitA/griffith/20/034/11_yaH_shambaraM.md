@@ -2,5 +2,4 @@
 title = "११ यः शम्बरं"
 
 +++
-यः शम्ब॑रं॒ पर्व॑तेषु क्षि॒यन्तं॑ चत्वारिं॒श्यां श॒रद्य॒न्ववि॑न्दत्।  
-ओ॒जा॒यमा॑नं॒ यो अहिं॑ ज॒घान॒ दानुं॒ शया॑नं॒ स ज॑नास॒ इन्द्रः॑ ॥११॥  
+He who discovered in the fortieth autumn Sambara dwelling in the midst of mountains: Who slew the Dragon putting forth his vigour, the demon lying there, He, men, is Indra.

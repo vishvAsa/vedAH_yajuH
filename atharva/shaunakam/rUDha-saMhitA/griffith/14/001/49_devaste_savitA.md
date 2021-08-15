@@ -2,5 +2,4 @@
 title = "४९ देवस्ते सविता"
 
 +++
-दे॒वस्ते॑ सवि॒ता हस्तं॑ गृह्णातु॒ सोमो॒ राजा॑ सुप्र॒जसं॑ कृणोतु ।  
-अ॒ग्निः सु॒भगां॑ ज॒तवे॑दाः॒ पत्ये॒ पत्नीं॑ ज॒रद॑ष्टिं कृणोतु ॥४९॥  
+God Savitar shall take thy hand, and Soma the King shall make thee rich in goodly offspring, Let Agni, Lord Omniscient, make thee happy, till old old age a wife unto thy husband.

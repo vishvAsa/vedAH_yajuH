@@ -2,4 +2,4 @@
 title = "०२ यद् वीलाविन्द्र"
 
 +++
-यद् वी॒लावि॑न्द्र॒ यत् स्थि॒रे यत् पर्शा॑ने॒ परा॑भृतम्। वसु॑ स्पा॒र्हं तदा भ॑र ॥२॥  
+O Indra, that which is concealed in firm strong place precipitous: Bring us the wealth for which we long:

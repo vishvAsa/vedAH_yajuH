@@ -2,5 +2,4 @@
 title = "०४ अपेतो वायो"
 
 +++
-अपे॒तो वा॑यो सवि॒ता च॑ दुष्कृ॒तमप॒ रक्षां॑सि॒ शिमि॑दां च सेधतम्।  
-सं ह्यू॒३र्जया॑ सृ॒जथः॒ सं बले॑न॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥४॥  
+Hence, Vayu, Savitar drive evil action, chase Simida away, drive off the demons. Ye give us store of energy and power. Deliver us, ye twain, from grief and trouble.

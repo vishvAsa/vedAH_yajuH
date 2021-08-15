@@ -2,4 +2,4 @@
 title = "०३ ये त्वामिन्द्र"
 
 +++
-ये त्वामि॑न्द्र॒ न तु॑ष्टु॒वुर्ऋष॑यो॒ ये च॑ तुष्टु॒वुः । ममेद् व॑र्धस्व॒ सुष्टु॑तः ॥३॥
+Whatever Rishis have not praised thee, Indra, or have lauded thee, By me exalted wax thou strong.

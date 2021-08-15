@@ -2,5 +2,4 @@
 title = "०७ सप्त प्राणानष्टौ"
 
 +++
-स॒प्त प्रा॒णान॒ष्टौ म॒न्यस्तांस्ते॑ वृश्चामि॒ ब्रह्म॑णा ।  
-अया॑ य॒मस्य॒ साद॑नम॒ग्निदू॑तो॒ अरं॑कृतः ॥७॥  
+Thy sevenfold vital breath, thine eight marrows I rend away with prayer. With Agni as thine envoy, go, prepared, to Yama's dwelling place.

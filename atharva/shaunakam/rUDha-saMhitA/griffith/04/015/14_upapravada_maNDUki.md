@@ -2,5 +2,4 @@
 title = "१४ उपप्रवद मण्डूकि"
 
 +++
-उ॒प॒प्रव॑द मण्डूकि व॒र्षमा व॑द तादुरि ।  
-मध्ये॑ ह्र॒दस्य॑ प्लवस्व वि॒गृह्य॑ च॒तुरः॑ प॒दः ॥१४॥  
+Speak forth a welcome, female frog! Do thou O frog, accost the rain. Stretch thy four feet apart, and swim in the middle of the lake.

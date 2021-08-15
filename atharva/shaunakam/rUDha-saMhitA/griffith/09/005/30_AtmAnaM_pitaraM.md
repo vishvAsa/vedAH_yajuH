@@ -2,5 +2,4 @@
 title = "३० आत्मानं पितरं"
 
 +++
-आ॒त्मानं॑ पि॒तरं॑ पु॒त्रं पौत्रं॑ पिताम॒हम्।  
-जा॒यां जनि॑त्रीं मा॒तरं॒ ये प्रि॒यास्तानुप॑ ह्वये ॥३०॥  
+Himself, the father and the son, the grandson, and the father's sire, Mother, wife, her who bore his babes, all the beloved ones I call.

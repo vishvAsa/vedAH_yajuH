@@ -2,5 +2,4 @@
 title = "०१ कुहूं देवीं"
 
 +++
-कु॒हूं दे॒वीं सु॒कृतं॑ विद्म॒नाप॑सम॒स्मिन् य॒ज्ञे सु॒हवा॑ जोहवीमि ।  
-सा नो॑ र॒यिं वि॒श्ववा॑रं॒ नि यच्छाद् ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्यऽम्॥१॥  
+Oft in this sacrifice with favoured cry I call Kuhu, beneficent Goddess, skilled in all her works. May she vouchsafe us wealth with every boon, and give a, hero meet for praise who gives a hundred gifts.

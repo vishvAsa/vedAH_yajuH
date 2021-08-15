@@ -2,5 +2,4 @@
 title = "०६ इहैधि पुरुष"
 
 +++
-इ॒हैधि॑ पुरुष॒ सर्वे॑ण॒ मन॑सा स॒ह।  
-दू॒तौ य॒मस्य॒ मानु॑ गा॒ अधि॑ जीवपु॒रा इ॑हि ॥६॥  
+O man, stay here among us; stay with all thy spirit: follow not Yama's two messengers. Approach the castles where the living dwell.

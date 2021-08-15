@@ -2,5 +2,4 @@
 title = "०८ मधुमतीरोषधीर्द्याव आपो"
 
 +++
-मधु॑मती॒रोष॑धी॒र्द्याव॒ आपो॒ मधु॑मन्नो भवत्व॒न्तरि॑क्षम्।  
-क्षेत्र॑स्य॒ पति॒र्मधु॑मान्नो अ॒स्त्वरि॑ष्यन्तो॒ अन्वे॑नं चरेम ॥८॥  
+Sweet be the plants for us, the heavens, the waters, and full of sweets for us be air's mid-region! May the Field's Lord for us be full of sweetness, and may we follow after him uninjured.

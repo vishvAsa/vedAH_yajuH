@@ -2,5 +2,4 @@
 title = "०१ त्वं वीरुधां"
 
 +++
-त्वं वी॒रुधां॒ श्रेष्ठ॑तमाभिश्रु॒तास्यो॑षधे ।  
-इ॒मं मे॑ अ॒द्य पुरु॑षं क्ली॒बमो॑प॒शिनं॑ कृधि ॥१॥  
+O Plant, thy fame is spread abroad as best of all the herbs that grow. Unman for me to-day this man that he may wear the horn of hair.

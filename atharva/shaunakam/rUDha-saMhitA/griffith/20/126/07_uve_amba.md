@@ -2,5 +2,4 @@
 title = "०७ उवे अम्ब"
 
 +++
-उ॒वे अ॑म्ब सुलाभिके॒ यथे॑वा॒ङ्गं भ॑वि॒ष्यति॑ ।  
-भ॒सन्मे॑ अम्ब॒ सक्थि॑ मे॒ शिरो॑ मे॒ वीऽव हृष्यति॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥७॥  
+Mother whose love is quickly won,I say what verily will be, My breast, O mother, and my head and both my hips seem quivering Supreme is Indra over all.

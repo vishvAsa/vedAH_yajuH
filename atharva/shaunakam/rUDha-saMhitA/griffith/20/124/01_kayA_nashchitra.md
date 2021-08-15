@@ -2,4 +2,4 @@
 title = "०१ कया नश्चित्र"
 
 +++
-कया॑ नश्चि॒त्र आ भु॑वदू॒ती स॒दावृ॑धः॒ सखा॑ । कया॒ शचि॑ष्ठया वृ॒ता॥१॥  
+With what help will he come to us, wonderful, ever-waxing Friend, With what most mighty company?

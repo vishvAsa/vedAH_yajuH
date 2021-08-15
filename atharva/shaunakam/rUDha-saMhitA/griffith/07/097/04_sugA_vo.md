@@ -2,5 +2,4 @@
 title = "०४ सुगा वो"
 
 +++
-सु॒गा वो॑ देवाः॒ सद॑ना अकर्म॒ य आ॑ज॒ग्म सव॑ने मा जुषा॒णाः ।  
-वह॑माना॒ भर॑माणाः॒ स्वा वसू॑नि॒ वसुं॑ घ॒र्मं दिव॒मा रो॑ह॒तानु॑ ॥४॥  
+Gods, we have made your seats of easy access, who, pleased with me, have come to my libation. Bearing and bringing hitherward your treasures, after the rich warm beverage mount to heaven.

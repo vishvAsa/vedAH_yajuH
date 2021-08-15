@@ -2,4 +2,4 @@
 title = "०४ न ते"
 
 +++
-न ते॑ व॒र्तास्ति॒ राध॑स॒ इन्द्र॑ दे॒वो न मर्त्यः॑ ।यद् दित्स॑सि स्तु॒तो म॒घम्॥४॥  
+None is there, Indra, God or man, to hinder thy munificence, The wealth which, lauded, thou wilt give.

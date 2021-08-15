@@ -2,6 +2,4 @@
 title = "६० ऊर्ध्वायै त्वा"
 
 +++
-ऊ॒र्ध्वायै॑ त्वा दि॒शे बृह॒स्पत॒येऽधि॑पतये श्वि॒त्राय॑ रक्षि॒त्रे व॒र्षायेषु॑मते ।  
-ए॒तं परि॑ दद्म॒स्तं नो॑ गोपाय॒तास्माक॒मैतोः॑ ।  
-दि॒ष्टं नो॒ अत्र॑ ज॒रसे॒ नि ने॑षज्ज॒रा मृ॒त्यवे॒ परि॑ णो ददा॒त्वथ प॒क्वेन॑ स॒ह सं भ॑वेम ॥६०॥
+To the upper region, to Brihaspati the Regent, to Svitra the Protector, to Rain the Archer, we present thee, this offering of ours. Do ye preserve it from aggression. To full old age may Destiny conduct us, may full old age deliver us to Mrityu. Then may we be with our prepared oblation.

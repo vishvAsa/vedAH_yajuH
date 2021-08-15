@@ -2,5 +2,4 @@
 title = "०१ अमून् हेतिः"
 
 +++
-अ॒मून् हे॒तिः प॑त॒त्रिणी॒ न्येऽतु॒ यदुलू॑को॒ वद॑ति मो॒घमे॒तत्।  
-यद् वा॑ क॒पोत॑ प॒दम॒ग्नौ कृ॒णोति॑ ॥१॥  
+On these men yonder fall the winged missile: the screeching of the Owl is ineffective, And that the Dove beside the fire hath settled.

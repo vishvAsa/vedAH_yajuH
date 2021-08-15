@@ -2,5 +2,4 @@
 title = "०१ पर्यावर्ते दुष्वप्न्यात्"
 
 +++
-प॒र्याव॑र्ते दु॒ष्वप्न्या॑त् पा॒पात् स्वप्न्या॒दभू॑त्याः ।  
-ब्रह्मा॒हमन्त॑रं कृण्वे॒ परा॒ स्वप्न॑मुखाः॒ शुचः॑ ॥१॥
+I turn away from evil dream, from dream of sin, from indigence. I make the prayer mine inmost friend. Hence! torturing. dreamy phantasies!

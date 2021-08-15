@@ -2,5 +2,4 @@
 title = "२४ मा ते"
 
 +++
-मा ते॒ मनो॒ मासो॒र्माङ्गा॑नां॒ मा रस॑स्य ते ।  
-मा ते॑ हास्त त॒न्वः॑१ किं च॒नेह॥२४॥  
+Let not thy soul be left behind: here let not aught of thee remain, Of spirit, body, members, sap.

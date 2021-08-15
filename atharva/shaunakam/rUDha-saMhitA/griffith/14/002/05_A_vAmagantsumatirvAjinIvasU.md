@@ -2,5 +2,4 @@
 title = "०५ आ वामगन्त्सुमतिर्वाजिनीवसू"
 
 +++
-आ वा॑मगन्त्सुम॒तिर्वा॑जिनीवसू॒ न्यश्विना हृ॒त्सु कामा॑ अरंसत ।  
-अभू॑तं गो॒पा मि॑थु॒ना शु॑भस्पती प्रि॒या अ॑र्य॒म्णो दुर्यां॑ अशीमहि ॥५॥  
+Your favouring grace hath come, ye who are rich in spoil! Asvins, your longings are stored up within your hearts. Ye, Lords of Splendour have become our twofold guard: may we as dear friends reach the dwelling of the friend.

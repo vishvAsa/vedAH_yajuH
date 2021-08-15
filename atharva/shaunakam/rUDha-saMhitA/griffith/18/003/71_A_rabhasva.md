@@ -2,5 +2,4 @@
 title = "७१ आ रभस्व"
 
 +++
-आ र॑भस्व जातवेद॒स्तेज॑स्व॒द्धरो॑ अस्तु ते ।  
-शरी॑रमस्य॒ सं द॒हाथै॑नं धेहि सु॒कृता॑मु लो॒के॥७१॥  
+Seize hold O Jatavedas; let thy flame be full of fervent heat. Consume his body: to the world of pious ones transport this man.

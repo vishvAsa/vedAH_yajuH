@@ -2,4 +2,4 @@
 title = "०५ यज्ञ इन्द्रमवर्धयद्"
 
 +++
-य॒ज्ञ इन्द्र॑मवर्धय॒द् यद् भूमिं॒ व्यव॑र्तयत्। च॒क्रा॒ण ओ॑प॒शं दि॒वि॥५॥  
+The sacrifice made Indra strong when he unrolled the earth and made Himself a diaden in heaven.

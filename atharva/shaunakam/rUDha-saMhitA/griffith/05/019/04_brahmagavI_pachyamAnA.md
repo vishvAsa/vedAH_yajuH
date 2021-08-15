@@ -2,5 +2,4 @@
 title = "०४ ब्रह्मगवी पच्यमाना"
 
 +++
-ब्र॒ह्म॒ग॒वी प॒च्यमा॑ना॒ याव॒त् साभि वि॒जङ्ग॑हे ।  
-तेजो॑ रा॒ष्ट्रस्य॒ निर्ह॑न्ति॒ न वी॒रो जा॑यते॒ वृषा॑ ॥४॥  
+While yet the Brahman's cow which men are dressing quivers in her throe: She mars the kingdom's splendour: there no vigorous hero springs to life.

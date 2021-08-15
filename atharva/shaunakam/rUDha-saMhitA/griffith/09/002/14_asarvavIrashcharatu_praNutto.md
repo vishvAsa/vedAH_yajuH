@@ -2,5 +2,4 @@
 title = "१४ असर्ववीरश्चरतु प्रणुत्तो"
 
 +++
-अस॑र्ववीरश्चरतु॒ प्रणु॑त्तो॒ द्वेष्यो॑ मि॒त्राणां॑ परिव॒र्ग्यः॑१ स्वाना॑म्।  
-उ॒त पृ॑थि॒व्यामव॑ स्यन्ति वि॒द्युत॑ उ॒ग्रो वो॑ दे॒वः प्र मृ॑णत् स॒पत्ना॑न्॥१४॥  
+To be avoided by his friends, detested, repelled, with few men round him, let him wander. Yea, on the earth descend the lightning-flashes: may the strong God destroy your adversaries.

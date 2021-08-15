@@ -2,4 +2,4 @@
 title = "०७ विश्वकर्माणं ते"
 
 +++
-वि॒श्वक॑र्माणं॒ ते स॑प्तऋ॒षिव॑न्तमृच्छन्तु । ये मा॑घा॒यव॒ उदी॑च्या दि॒शोऽभि॒दासा॑त्॥७॥  
+Let those who from the north side vex me, sinners, praise Visvakarman with the Seven Rishis.

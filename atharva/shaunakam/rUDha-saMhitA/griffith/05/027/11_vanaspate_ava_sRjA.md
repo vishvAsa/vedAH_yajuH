@@ -2,5 +2,4 @@
 title = "११ वनस्पतेऽव सृजा"
 
 +++
-वन॑स्प॒तेऽव॑ सृजा॒ ररा॑णः ।  
-त्मना॑ दे॒वेभ्यो॑ अ॒ग्निर्ह॒व्यं श॑मि॒ता स्व॑दयतु ॥११॥  
+This our nutritious genial flow, God Tvashtar! and growth of wealth, pour down on this man's kindred.

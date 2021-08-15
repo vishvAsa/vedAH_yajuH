@@ -2,5 +2,4 @@
 title = "०२ पुनरेहि वचस्पते"
 
 +++
-पु॑नरे॑हि वचस्पते दे॒वेन॒ म॑नसा स॒ह।  
-वसो॑ष्पते॒ नि र॑मय॒ मय्ये॒वास्तु॒ मयि॑ श्रु॒तम्॥२॥  
+Come thou again, Vachaspati, come with divine intelligence. Vasoshpati, repose thou here. In me be Knowledge, yea, in me.

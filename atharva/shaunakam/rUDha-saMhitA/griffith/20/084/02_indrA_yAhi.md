@@ -2,4 +2,4 @@
 title = "०२ इन्द्रा याहि"
 
 +++
-इन्द्रा या॑हि धि॒येषि॒तो विप्र॑जूतः सु॒ताव॑तः । उप॒ ब्रह्मा॑णि वा॒घतः॑ ॥२॥  
+Urged by the holy singer, sped by song, come, Indra, to the prayers. Of the libation-pouring priest.

@@ -2,4 +2,4 @@
 title = "०३ शक्रो वाचमधृष्णुहि"
 
 +++
-श॒क्रो वाच॒मधृ॑ष्णुहि॒ धाम॑धर्म॒न् विरा॑जति । विम॑दन् ब॒र्हिरा॒सर॑न्॥३॥  
+Praise with the voice the Mighty: he rules in each realm. In transport he Hath set upon the sacred grass.

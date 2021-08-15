@@ -2,5 +2,4 @@
 title = "०२ सं परमान्त्समवमानथो"
 
 +++
-सं प॑र॒मान्त्सम॑व॒मानथो॒ सं द्या॑मि मध्य॒मान्।  
-इन्द्र॒स्तान् पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम्॥२॥  
+I bind together all of them, the first, the last, the middlemost. Indra hath girded these with cord: bind them together, Agni, thou!

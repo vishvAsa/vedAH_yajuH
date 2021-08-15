@@ -2,5 +2,4 @@
 title = "०६ परि धामान्यासामाशुर्गाष्ठामिवासरन्"
 
 +++
-परि॒ धामा॑न्यासामा॒शुर्गाष्ठा॑मिवासरन्।  
-अजै॑षं॒ सर्वा॑ना॒जीन्वो॒ नश्य॑ते॒तः स॒दान्वाः॑ ॥६॥
+I have gone round their homes as runs a fleet-foot racer round the post, And in all races conquered you. Vanish, Sadanvas, and begone.

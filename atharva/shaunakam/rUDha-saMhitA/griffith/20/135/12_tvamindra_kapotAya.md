@@ -2,5 +2,4 @@
 title = "१२ त्वमिन्द्र कपोताय"
 
 +++
-त्वमि॑न्द्र क॒पोता॑य च्छिन्नप॒क्षाय॒ वञ्च॑ते ।  
-श्यामा॑कं प॒क्वं पीलु॑ च॒ वार॑स्मा॒ अकृ॑णोर्ब॒हुः ॥१२॥  
+Thou, Indra, to the trembling dove whose pinions had been rent and torn. Gayest ripe grain and Pilu fruit, gavest him water when athirst.

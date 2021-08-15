@@ -2,5 +2,4 @@
 title = "२४ अयुक्त सप्त"
 
 +++
-अयु॑क्त स॒प्त शु॒न्ध्युवः॒ सूरो॒ रथ॑स्य न॒प्त्यः ।  
-ताभि॑र्याति॒ स्वयु॑क्तिभिः ॥२४॥  
+Surya, hath yoked the pure bright seven, the daughters of the car, with these, His own dear team, he travelleth.

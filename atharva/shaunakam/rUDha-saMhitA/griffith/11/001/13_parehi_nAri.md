@@ -2,5 +2,4 @@
 title = "१३ परेहि नारि"
 
 +++
-परे॑हि नारि॒ पुन॑रेहि॑ क्षि॒प्रम॒पां त्वा॑ गो॒ष्ठोऽध्य॑रुक्ष॒द् भरा॑य ।  
-तासां॑ गृह्णीताद् यत॒मा य॒ज्ञिया॒ अस॑न् वि॒भाज्य॑ धी॒रीत॑रा जहीतात्॥१३॥  
+Go, Dame, and quickly come again: the waters, enclosed, have mounted thee that thou mayst bear them. Take thou of these such as are fit for service: skilfully separating. leave the others.

@@ -2,5 +2,4 @@
 title = "०३ उपहूतौ सयुजौ"
 
 +++
-उप॑हूतौ स॒युजौ॑ स्यो॒नौ दन्तौ॑ सुम॒ङ्गलौ॑ ।  
-अ॒न्यत्र॑ वां घो॒रं त॒न्वः॑१ परै॑तु दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥३॥
+Both fellow teeth have been invoked, gentle and bringing happi- ness. Else whither let the fierceness of your nature turn away, O Teeth! Harm not your mother or your sire.

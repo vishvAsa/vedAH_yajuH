@@ -2,5 +2,4 @@
 title = "०१ अपचितां लोहिनीनां"
 
 +++
-अ॒प॒चितां॒ लोहि॑नीनां कृ॒ष्णा मा॒तेति॑ शुश्रुम ।  
-मुने॑र्दे॒वस्य॒ मूले॑न॒ सर्वा॑ विध्यामि॒ ता अ॒हम्॥१॥  
+Black is the mother, we have heard, from whom the red-hued Pustules sprang. With the divine ascetic's root I pierce and penetrate them all.

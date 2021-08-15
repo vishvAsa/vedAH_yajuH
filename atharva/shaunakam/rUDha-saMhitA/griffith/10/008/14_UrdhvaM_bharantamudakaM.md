@@ -2,5 +2,4 @@
 title = "१४ ऊर्ध्वं भरन्तमुदकं"
 
 +++
-ऊ॒र्ध्वं भर॑न्तमुद॒कं कु॒म्भेने॑वोदहा॒र्यऽम्।  
-पश्य॑न्ति॒ सर्वे॒ चक्षु॑षा॒ न सर्वे॒ मन॑सा विदुः ॥१४॥  
+All men behold him with the eye, but with the mind they know not him. Holding aloft the water as a water-bearer in her jar.

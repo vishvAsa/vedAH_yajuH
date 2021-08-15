@@ -2,5 +2,4 @@
 title = "१० क्रव्यादमग्ने रुधिरं"
 
 +++
-क्र॒व्याद॑मग्ने रुधि॒रं पि॑शा॒चं म॑नो॒हनं॑ जहि जातवेदः ।  
-तमिन्द्रो॑ वा॒जी वज्रे॑ण हन्तु छि॒नत्तु॒ सोमः॒ शिरो॑ अस्य धृ॒ष्णुः ॥१०॥  
+O Agni Jatavedas, slay the bloody Pisacha, flesh-devourer, mind- destroyer, Strong Indra strike him with his bolt of thunder, courageous Soma cut his head to pieces!

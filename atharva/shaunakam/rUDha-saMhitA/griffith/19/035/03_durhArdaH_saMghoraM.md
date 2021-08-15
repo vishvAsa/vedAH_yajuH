@@ -2,5 +2,4 @@
 title = "०३ दुर्हार्दः संघोरं"
 
 +++
-दु॒र्हार्दः॒ संघो॑रं॒ चक्षुः॑ पाप॒कृत्वा॑न॒माग॑मम्।  
-तांस्त्वं स॑हस्रचक्षो प्रतीबो॒धेन॑ नाशय परि॒पाणो॑ऽसि जङ्गि॒डः ॥३॥  
+Hard-hearted men, the cruel eye, the sinner who hath come to- us, Destroy thou these with watchful care, O thou who hast a. thousand eyes. Thou, Jangida, art my defence.

@@ -2,5 +2,4 @@
 title = "११ स नो"
 
 +++
-स नो॑ नि॒युद्भिः॑ पुरुहूत वेधो वि॒श्ववा॑राभि॒रा ग॑हि प्रयज्यो ।  
-न या अदे॑वो॒ वर॑ते॒ न दे॒व आभि॑र्याहि॒ तूय॒मा म॑द्र्य॒द्रिक्॥११॥
+Come with thy teams which bring all blessings, hither, disposer, much-invoked, exceeding holy! Come to me swiftly with these teams of coursers, these which no fiend, no God may stay or hinder.

@@ -2,5 +2,4 @@
 title = "०३ विषूवृदिन्द्रो अमुतेरुत"
 
 +++
-वि॒षू॒वृदिन्द्रो॒ अमु॑तेरु॒त क्षु॒धः स इद् रा॒यो म॒घवा॒ वस्व॑ ईशते ।  
-तस्येदि॒मे प्र॑व॒णे स॒प्त सिन्ध॑वो॒ वयो॑ वर्धन्ति वृष॒भस्य॑ शु॒ष्मिणः॑ ॥३॥  
+From indigence and hunger Indra turns away: Maghavan hath dominion over precious wealth. These the Seven Rivers flowing on their downward path increase the vital vigour of the Mighty Steer.

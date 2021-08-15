@@ -2,5 +2,4 @@
 title = "०६ शितिपदी सं"
 
 +++
-शि॒ति॒प॒दी सं द्य॑तु शर॒व्ये॒३यं चतु॑ष्पदी ।  
-कृत्ये॒ऽमित्रे॑भ्यो भव॒ त्रिषं॑धेः स॒ह सेन॑या ॥६॥  
+May this four-footed White-foot, may this arrow brace and bind thee fast: Together with Trishandhi's host, be thou, O Witchcraft, meant for foes.

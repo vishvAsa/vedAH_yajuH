@@ -2,5 +2,4 @@
 title = "०५ ययोर्वधान्नापपद्यते कश्चनान्तर्देवेषूत"
 
 +++
-ययो॑र्व॒धान्नाप॒पद्य॑ते॒ कश्च॒नान्तर्दे॒वेषू॒त मानु॑षेषु ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥५॥  
+Ye from the stroke of whose destroying weapon not one among the Gods or men escapeth, Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.

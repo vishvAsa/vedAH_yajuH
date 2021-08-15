@@ -2,6 +2,4 @@
 title = "२३ (४) यदर्वाचीनं"
 
 +++
-(४)  
-यद॑र्वा॒चीनं॑ त्रैहाय॒णादनृ॑तं॒ किं चो॑दि॒म।  
-आपो॑ मा॒ तस्मा॒त् सर्व॑स्माद् दुरि॒तात् पा॒न्त्वंह॑सः ॥२२॥  
+Onward I urge your gathered floods: enter your own abiding- place, Uninjured and with all your strength. Let nothing bend or bow us down.

@@ -2,5 +2,4 @@
 title = "०३ दधिक्राव्णो अकारिषं"
 
 +++
-द॒धि॒क्राव्णो॑ अकारिषं जि॒ष्णोरश्व॑स्य वा॒जिनः॑ ।  
-सु॒र॒भि नो॒ मुखा॑ कर॒त्प्र ण॒ आयूं॑षि तारिषत्॥३॥  
+So have I glorified with praise strong Dadhikravan, conquering steed. Sweet may he make our mouths; may he prolong the days we have to live.

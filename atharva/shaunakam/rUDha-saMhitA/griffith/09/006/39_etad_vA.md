@@ -2,4 +2,4 @@
 title = "३९ एतद् वा"
 
 +++
-ए॒तद् वा उ॒ स्वादी॑यो॒ यद॑धिग॒वं क्षी॒रं वा॑ मां॒सं वा॒ तदे॒व नाश्नी॑यात् ।९। ३९॥  
+Now the sweetest portion, the produce of the cow, milk, or flesh, that verily he should not eat.

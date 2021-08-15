@@ -2,5 +2,4 @@
 title = "०१ अव ज्यामिव"
 
 +++
-अव॒ ज्यामि॑व॒ धन्व॑नो म॒न्युं त॑नोमि ते हृ॒दः ।  
-यथा॒ संम॑नसौ भू॒त्वा सखा॑याविव॒ सचा॑वहै ॥१॥  
+I loose the anger from thy heart as 'twere the bowstring from a bow, That we, one-minded now, may walk together as familiar friends.

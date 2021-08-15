@@ -2,5 +2,4 @@
 title = "०४ यः कृणोति"
 
 +++
-यः कृ॒णोति॑ प्र॒मोत॑म॒न्धं कृ॒णोति॒ पूरु॑षम्।  
-सर्वं॑ शीर्ष॒ण्यंऽ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥४॥  
+The malady that makes one deaf, the malady that makes one blind, All malady that wrings thy brow we charm away with this our spell.

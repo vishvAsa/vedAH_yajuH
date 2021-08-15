@@ -2,5 +2,4 @@
 title = "२६ एको गौरेक"
 
 +++
-एको॒ गौरेक॑ एकऋ॒षिरेकं॒ धामै॑क॒धाशिषः॑ ।  
-य॒क्षं पृ॑थि॒व्यामे॑क॒वृदे॑क॒र्तुर्नाति॑ रिच्यते ॥२६॥
+One is the Cow, one is the Single Spirit, one is the law, single are benedictions. The Spirit dwelling on the earth is single: the Single Season never is transcended.

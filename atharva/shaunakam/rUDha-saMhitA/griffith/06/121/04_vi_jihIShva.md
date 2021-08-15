@@ -2,5 +2,4 @@
 title = "०४ वि जिहीष्व"
 
 +++
-वि जि॑हीष्व लो॒कं कृ॑णु ब॒न्धान्मु॑ञ्चासि॒ बद्ध॑कम्।  
-योन्या॑ इव॒ प्रच्यु॑तो॒ गर्भः॑ प॒थः सर्वां॒ अनु॑ क्षिय ॥४॥
+Open thyself, make room: from bonds thou shalt release the prisoner. Freed, like an infant newly born, dwell in all pathways where thou wilt.

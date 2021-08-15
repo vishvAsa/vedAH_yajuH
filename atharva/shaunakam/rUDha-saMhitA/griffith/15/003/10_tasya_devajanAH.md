@@ -2,4 +2,4 @@
 title = "१० तस्य देवजनाः"
 
 +++
-तस्य॑ देवज॒नाः प॑रिष्क॒न्दा आस॑न्त्संक॒ल्पाः प्र॑हा॒य्या॒३ विश्वा॑नि भू॒तान्यु॑प॒सदः॑ ॥१०॥  
+The hosts of Gods were his attendants, solemn vows his messengers, and all creatures his worshippers.

@@ -2,5 +2,4 @@
 title = "०५ सिन्धोर्गर्भोऽसि विद्युतां"
 
 +++
-सिन्धो॒र्गर्भो॑ऽसि वि॒द्युतां॒ पुष्प॑म्।  
-वातः॑ प्रा॒णः सूर्य॒श्चक्षु॑र्दि॒वस्पयः॑ ॥५॥  
+Thou art the babe of Sindhu, thou art lightnings' flower, wind, breath, and Sun: thou art the eye and milk of heaven.

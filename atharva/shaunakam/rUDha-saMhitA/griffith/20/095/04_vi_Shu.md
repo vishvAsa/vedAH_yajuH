@@ -2,6 +2,4 @@
 title = "०४ वि षु"
 
 +++
-वि षु विश्वा॒ अरा॑तयो॒ऽर्यो न॑शन्त नो॒ धियः॑ ।  
-अस्ता॑सि॒ शत्र॑वे व॒धं यो न॑ इन्द्र॒ जिघां॑सति॒ या ते॑ रा॒तिर्द॒दिर्वसु॒  
-नभ॑न्तामन्य॒केषां॑ ज्या॒का अधि॒ धन्व॑सु ॥४॥
+Destroyed be all malignities and all our enemy's designs. Thy bolt thou castest at the foe, O Indra, who would smite us dead: thy liberal bounty gives us wealth. Let the weak bow- strings break upon the bows of feeble enemies.

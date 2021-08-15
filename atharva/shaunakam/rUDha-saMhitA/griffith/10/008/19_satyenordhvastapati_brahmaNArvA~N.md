@@ -2,5 +2,4 @@
 title = "१९ सत्येनोर्ध्वस्तपति ब्रह्मणार्वाङ्"
 
 +++
-स॒त्येनो॒र्ध्वस्त॑पति॒ ब्रह्म॑णा॒र्वाङ् वि प॑श्यति ।  
-प्रा॒णेन॑ ति॒र्यङ् प्राण॑ति॒ यस्मि॑न् ज्ये॒ष्ठमधि॑ श्रि॒तम्॥१९॥  
+By truth he blazes up aloft by Brahma, he looks down below: He breathes obliquely with his breath, he on whom what is. highest rests.

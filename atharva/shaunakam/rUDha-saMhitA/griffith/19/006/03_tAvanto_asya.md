@@ -2,5 +2,4 @@
 title = "०३ तावन्तो अस्य"
 
 +++
-ताव॑न्तो अस्य महि॒मान॒स्ततो॒ ज्यायां॑श्च॒ पूरु॑षः ।  
-पादो॑ऽस्य॒ विश्वा॑ भू॒तानि॑ त्रि॒पाद॑स्यृ॒तं॑ दि॒वि॥३॥  
+So mighty is his grandeur, yea, greater than this is Purusha. All creatures are one-fourth of him, three-fourths what dieth not in heaven.

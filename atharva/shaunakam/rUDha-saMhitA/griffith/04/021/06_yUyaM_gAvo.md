@@ -2,5 +2,4 @@
 title = "०६ यूयं गावो"
 
 +++
-यू॒यं गा॑वो मेदयथ कृ॒शं चि॑दश्री॒रं चि॑त् कृणुथा सु॒प्रती॑कम्।  
-भ॒द्रं गृ॒हं कृ॑णुथ भद्रवाचो बृ॒हद् वो॒ वय॑ उच्यते स॒भासु॑ ॥६॥  
+O Cows, ye fatten e'en the worn and wasted, and make the unlovely beautiful to look on. Prosper my home, ye with auspicious voices! Your power is magnified in our assemblies.

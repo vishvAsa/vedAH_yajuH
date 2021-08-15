@@ -2,5 +2,4 @@
 title = "०९ विराडग्रे समभवद्"
 
 +++
-वि॒राडग्रे॒ सम॑भवद् वि॒राजो॒ अधि॒ पूरु॑षः ।  
-स जा॒तो अत्य॑रिच्यत प॒श्चाद् भूमि॒मथो॑ पु॒रः ॥९॥  
+In the beginning rose Viraj: Purusha from Viraj was born. As soon as he was born he spread westward and eastward o'er the earth.

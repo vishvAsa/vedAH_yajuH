@@ -2,6 +2,4 @@
 title = "०३ यथा प्रधिर्यथोपधिर्यथा"
 
 +++
-यथा॑ प्र॒धिर्यथो॑प॒धिर्यथा॒ नभ्यं॑ प्र॒धावधि॑ ।  
-यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑ ।  
-ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥३॥
+Close as the felly and the spoke, fixt as the wheel-rim on the nave, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upon thy calf.

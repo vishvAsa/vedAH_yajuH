@@ -2,5 +2,4 @@
 title = "०६ सना ता"
 
 +++
-सना॒ ता त॑ इन्द्र॒ भोज॑नानि रा॒तह॑व्याय दा॒शुषे॑ सु॒दासे॑ ।  
-वृष्णे॑ ते॒ हरी॒ वृष॑णा युनज्मि॒ व्यन्तु॒ ब्रह्मा॑णि पुरुशाक॒ वाज॑म्॥६॥  
+Old are the blessings, Indra, which thou gavest Sudas the wor- shipperwho brought oblations. For thee, the strong I yoke thy strong bay horses: let them, approach our prayers and wealth, Most Mighty!

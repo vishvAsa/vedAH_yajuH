@@ -2,5 +2,4 @@
 title = "१० उदायुषा समायुषोदोषधीनां"
 
 +++
-उदायु॑षा॒ समायु॒षोदोष॑धीनां॒ रसे॑न ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥१०॥  
+Rise up with life, conjoined with life. Up, with the sap of growing plants! I free, etc.

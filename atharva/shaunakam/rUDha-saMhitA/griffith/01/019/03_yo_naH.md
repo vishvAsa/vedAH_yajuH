@@ -2,5 +2,4 @@
 title = "०३ यो नः"
 
 +++
-यो नः॒ स्वो यो अर॑णः सजा॒त उ॒त निष्ट्यो॒ यो अ॒स्माँ अ॑भि॒दास॑ति ।  
-रु॒द्रः श॑रव्य ऽ यै॒तान् ममा॒मित्रा॒न् वि वि॑ध्यतु ॥३॥  
+Whoever treateth us as foes, be he our own or strange to us, a kinsman or a foreigner, May Rudra with his arrows pierce and slay these enemies of mine.

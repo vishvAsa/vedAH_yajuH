@@ -2,5 +2,4 @@
 title = "०६ यदीदिदं मरुतो"
 
 +++
-यदीदि॒दं मरु॑तो॒ मारु॑तेन॒ यदि॑ देवा॒ दैव्ये॑ने॒दृगार॑ ।  
-यू॒यमी॑शिध्वे वसव॒स्तस्य॒ निष्कृ॑ते॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥६॥  
+Whether with stormy might the Maruts established this All, or Gods with their celestial power, Ye, kindly Gods, are able to restore it. May they deliver us from grief and trouble.

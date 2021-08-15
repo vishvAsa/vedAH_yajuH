@@ -2,5 +2,4 @@
 title = "०७ अङ्गेअङ्गे लोम्निलोम्नि"
 
 +++
-अङ्गे॑अङ्गे॒ लोम्नि॑लोम्नि॒ यस्ते॒ पर्व॑णिपर्वणि ।  
-यक्ष्मं॑ त्वचस्य ऽ ते व॒यं क॒श्यप॑स्य वीब॒र्हेण॒ विष्व॑ञ्चं॒ वि वृ॑हामसि ॥७॥
+In every member, every hair, in every joint wherein it lies, We with the exorcising spell of Kasyapa drive far away Con- sumption settled in thy skin.

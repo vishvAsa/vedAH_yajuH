@@ -2,5 +2,4 @@
 title = "०४ उत यो"
 
 +++
-उत यो द्याम॑ति॒सर्पा॑त् प॒रस्ता॒न्न स मु॑च्यातै॒ वरु॑णस्य॒ राज्ञः॑ ।  
-दि॒व स्पशः॒ प्र च॑रन्ती॒दम॑स्य सहस्रा॒क्षा अति॑ पश्यन्ति॒ भूमि॑म्॥४॥  
+If one should flee afar beyond the heaven, King Varuna would still be round about him. Proceeding hither from the sky his envoys look, thousand-eyed, over the earth beneath them.

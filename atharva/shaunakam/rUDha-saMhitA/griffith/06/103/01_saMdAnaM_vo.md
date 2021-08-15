@@ -2,5 +2,4 @@
 title = "०१ संदानं वो"
 
 +++
-सं॒दानं॑ वो॒ बृह॒स्पतिः॑ सं॒दानं॑ सवि॒ता क॑रत्।  
-सं॒दानं॑ मि॒त्रो अ॑र्य॒मा सं॒दानं॒ भगो॑ अ॒श्विना॑ ॥१॥  
+Brihaspati and Savitar prepare a rope to bind you fast! Let Bhaga, Mitra, Aryaman, and both the Asvins make the bond.

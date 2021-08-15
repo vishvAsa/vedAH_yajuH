@@ -2,5 +2,4 @@
 title = "२० धन्व च"
 
 +++
-धन्व॑ च॒ यत् कृ॒न्तत्रं॑ च॒ कति॑ स्वि॒त् ता वि योज॑ना ।  
-नेदी॑यसो वृषाक॒पेऽस्त॒मेहि॑ गृ॒हाँ उप॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥२०॥  
+The desert plains and steep descents, how many leagues in length they spread! Go to the nearest houses, go unto thine home, Vrishakapi. Supreme is Indra over all.

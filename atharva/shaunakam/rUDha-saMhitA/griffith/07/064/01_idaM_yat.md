@@ -2,5 +2,4 @@
 title = "०१ इदं यत्"
 
 +++
-इ॒दं यत् कृ॒ष्णः श॒कुनि॑रभिनि॒ष्पत॒न्नपी॑पतत्।  
-आपो॑ मा॒ तस्मा॒त् सर्व॑स्माद् दुरि॒तात् पा॒न्त्वंह॑सः ॥१॥  
+From all that woe and trouble may the Waters save and rescue me, Whate'er the Raven, black of hue, flying out hither ward, hath dropped.

@@ -2,5 +2,4 @@
 title = "५६ उशन्तस्त्वेधीमह्युशन्तः समिधीमहि"
 
 +++
-उ॒शन्त॑स्त्वेधीमह्यु॒शन्तः॒ समि॑धीमहि ।
-उ॒शन्नु॑श॒त आ व॑ह पि॒तॄन् ह॒विषे॒ अत्त॑वे ॥५६॥
+We set thee down with yearning, and with yearning we enkindle thee, Yearning, bring yearning Fathers nigh to eat the food of sacrifice.

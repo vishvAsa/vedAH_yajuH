@@ -2,5 +2,4 @@
 title = "०३ अपाः पूर्वेषां"
 
 +++
-अपाः॒ पूर्वे॑षां हरिवः सु॒ताना॒मथो॑ इ॒दं सव॑नं॒ केव॑लं ते ।  
-म॒म॒द्धि सोमं॒ मधु॑मन्तमिन्द्र स॒त्रा वृ॑षं ज॒ठर॒ आ वृ॑षस्व ॥३॥
+Juices aforetime, Lord of Bays, thou drankest, and thine, and only thine, is this libation. Gladden thee, Indra, with the mead-rich Soma: pour it down ever, Mighty One, within thee.

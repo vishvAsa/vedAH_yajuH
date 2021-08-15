@@ -2,5 +2,4 @@
 title = "०७ राजसूयं वाजपेयमग्निष्टोमस्तदध्वरः"
 
 +++
-रा॒ज॒सूयं॑ वाज॒पेय॑मग्निष्टो॒मस्तद॑ध्व॒रः ।  
-अ॒र्का॒श्व॒मे॒धावुच्छि॑ष्टे जी॒वब॑र्हिर्म॒दिन्त॑मः ॥७॥  
+The Vajapeya, Royal Rite, the Agnishoma and its forms, Hymns, joyfullest with living grass the Asvamedha, are therein,

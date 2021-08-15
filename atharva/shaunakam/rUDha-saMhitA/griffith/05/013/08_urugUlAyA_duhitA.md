@@ -2,5 +2,4 @@
 title = "०८ उरुगूलाया दुहिता"
 
 +++
-उ॒रु॒गूला॑या दुहि॒ता जा॒ता दा॒स्यसि॑क्न्या ।  
-प्र॒तङ्कं॑ द॒द्रुषी॑णां॒ सर्वा॑सामर॒सं वि॒षम्॥८॥  
+Daughter of Urugula, she-fiend whom the black, skinned mother bare-- All female serpents poison who crept swiftly near is impotent.

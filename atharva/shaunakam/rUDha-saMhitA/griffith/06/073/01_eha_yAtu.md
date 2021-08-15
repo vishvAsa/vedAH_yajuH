@@ -2,5 +2,4 @@
 title = "०१ एह यातु"
 
 +++
-एह या॑तु॒ वरु॑णः॒ सोमो॑ अ॒ग्निर्बृह॒स्पति॒र्वसु॑भि॒रेह या॑तु ।  
-अ॒स्य श्रिय॑मुप॒संया॑त॒ सर्व॑ उ॒ग्रस्य॑ चे॒त्तुः संम॑नसः सजाताः ॥१॥  
+Let Varuna come hither, Soma, Agni, Brihaspati come hither with the Vasus! Unanimous, ye kinsmen, come united, come to the glory of this mighty guardian.

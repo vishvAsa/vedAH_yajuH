@@ -2,5 +2,4 @@
 title = "०३ त्वमीशिषे पशूनां"
 
 +++
-त्वमी॑शिषे पशू॒नां पार्थि॑वानां॒ ये जा॒ता उ॒त वा॒ ये ज॒नित्राः॑ ।  
-मेमं प्रा॒णो हा॑सी॒न्मो अ॑पा॒नो मेमं मि॒त्रा व॑धिषु॒र्मो अ॒मित्राः॑ ॥३॥  
+Thou art the Lord of all terrestrial cattle, of cattle born and to be born hereafter. Let not breath drawn or breath emitted fail him. Let not his friends, let not his foemen slay him.

@@ -2,5 +2,4 @@
 title = "०५ य आस्ते"
 
 +++
-य आस्ते॒ यश्चर॑ति॒ यश्च॒ तिष्ठ॑न्वि॒पश्य॑ति ।  
-तेषां॒ सं द॑ध्मो॒ अक्षी॑णि॒ यथे॒दं ह॒र्म्यं तथा॑ ॥५॥  
+The man who sits, the man who walks, whoever stands and clearly sees Of these we closely shut the eyes, even as we closely shut this house.

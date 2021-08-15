@@ -2,4 +2,4 @@
 title = "३४ असंज्ञा गन्धेन"
 
 +++
-असं॑ज्ञा ग॒न्धेन॒ शुगु॑द्ध्रि॒यमा॑णाशीवि॒ष उद्धृ॑ता ॥३४॥  
+Discord by her smell, grief when she is being eviscerated: ser- pent with poison in its fang when drawn;

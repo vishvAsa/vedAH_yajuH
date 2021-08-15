@@ -2,5 +2,4 @@
 title = "२८ हिरण्यगर्भं परममनत्युद्यं"
 
 +++
-हि॒र॒ण्य॒ग॒र्भं प॑र॒मम॑नत्यु॒द्यं जना॑ विदुः ।  
-स्क॒म्भस्तदग्रे॒ प्रासि॑ञ्च॒द्धिर॑ण्यं लो॒के अ॑न्त॒रा॥२८॥  
+Men know Hiranyagarbha as supreme and inexpressible: In the beginning, in the midst of the world, Skambha poured that gold.

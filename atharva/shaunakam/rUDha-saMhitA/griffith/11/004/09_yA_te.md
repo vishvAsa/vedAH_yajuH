@@ -2,5 +2,4 @@
 title = "०९ या ते"
 
 +++
-या ते॑ प्राण प्रि॒या त॒नूर्यो ते॑ प्राण॒ प्रेय॑सी ।  
-अथो॒ यद् भे॑ष॒जं तव॒ तस्य॑ नो धेहि जी॒वसे॑ ॥९॥  
+Prana, communicate to us thy dear, thy very dearest form. Whatever healing balm thou hast, give us thereof that we may live.

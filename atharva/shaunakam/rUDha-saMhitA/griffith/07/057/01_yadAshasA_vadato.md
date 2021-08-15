@@ -2,5 +2,4 @@
 title = "०१ यदाशसा वदतो"
 
 +++
-यदा॒शसा॒ वद॑तो मे विचुक्षु॒भे यद् याच॑मानस्य॒ चर॑तो॒ जनाँ॒ अनु॑ ।  
-यदा॒त्मनि॑ त॒न्वोऽमे॒ विरि॑ष्टं॒ सर॑स्वती॒ तदा पृ॑णद् घृ॒तेन॑ ॥१॥  
+Whatever trouble hath disturbed and shaken me--I speak with hope, I move, imploring, 'mid the folk What harm my body in myself hath suffered, now let Sarasvati relieve with fatness.

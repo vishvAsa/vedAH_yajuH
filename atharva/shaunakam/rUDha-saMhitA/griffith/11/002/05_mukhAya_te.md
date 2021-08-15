@@ -2,5 +2,4 @@
 title = "०५ मुखाय ते"
 
 +++
-मुखा॑य ते पशुपते॒ यानि॒ चक्षूं॑षि ते भव ।  
-त्व॒चे रू॒पाय॑ सं॒दृशे॑ प्रती॒चीना॑य ते॒ नमः॑ ॥५॥  
+Homage, O Bhava, Lord of Beasts, unto thy face and all thine eyes, To skin, and hue, and aspect, and to thee when looked at from behind!

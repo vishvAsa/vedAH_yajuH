@@ -2,5 +2,4 @@
 title = "१४ अग्निर्वै नः"
 
 +++
-अ॒ग्निर्वै नः॑ पदवा॒यः सोमो॑ दाया॒द उ॑च्यते ।  
-ह॒न्ताभिश॒स्तेन्द्र॒स्तथा॒ तद् वे॒धसो॑ विदुः ॥१४॥  
+Agni, in sooth, is called our guide, Soma is called our next of kin. Indra quells him who curses us. Sages know well that this is so.

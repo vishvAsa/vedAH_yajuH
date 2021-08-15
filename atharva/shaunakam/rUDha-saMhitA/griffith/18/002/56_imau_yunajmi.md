@@ -2,5 +2,4 @@
 title = "५६ इमौ युनज्मि"
 
 +++
-इ॒मौ यु॑नज्मि ते॒ वह्नी॒ असु॑नीताय॒ वोढ॑वे ।  
-ताभ्यां॑ य॒मस्य॒ साद॑नं॒ समि॑ती॒श्चाव॑ गच्छतात्॥५६॥  
+For thee I yoke these carriers twain to bear thee to the spirit. world. Hasten with them to Yama's home and join his gathered. companies.

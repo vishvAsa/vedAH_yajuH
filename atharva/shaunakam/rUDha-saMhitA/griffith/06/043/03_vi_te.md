@@ -2,5 +2,4 @@
 title = "०३ वि ते"
 
 +++
-वि ते॑ हन॒व्यां श॒रणिं॒ वि ते॒ मुख्यां॑ नयामसि ।  
-यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥३॥
+We draw thine obstinacy forth, set in thy mouth and in thy jaw: So dost thou yield thee to my will. to speak no more rebelli- ously.

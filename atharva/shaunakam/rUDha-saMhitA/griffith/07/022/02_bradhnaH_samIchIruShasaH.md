@@ -2,5 +2,4 @@
 title = "०२ ब्रध्नः समीचीरुषसः"
 
 +++
-ब्र॒ध्नः स॒मीची॑रु॒षसः॒ समै॑रयन्।  
-अ॒रे॒पसः॒ सचे॑तसः॒ स्वस॑रे मन्यु॒मत्त॑माश्चि॒ते गोः ॥२॥
+The Bright One hath sent forth the Dawns, a closely gathered band, Immaculate, unanimous, brightly refulgent in their homes.

@@ -2,5 +2,4 @@
 title = "०१ सहृदयं सांमनस्यमविद्वेषं"
 
 +++
-सहृ॑दयं सांमन॒स्यमवि॑द्वेषं कृणोमि वः ।  
-अ॒न्यो अ॒न्यम॒भि ह॑र्यत व॒त्सं जा॒तमि॑वा॒घ्न्या॥१॥  
+Freedom from hate I bring to you, concord and unanimity. Love one another as the cow loveth the calf that she hath borne.

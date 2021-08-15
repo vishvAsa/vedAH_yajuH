@@ -2,5 +2,4 @@
 title = "५७ बृहस्पतिनावसृष्टां विश्वे"
 
 +++
-बृह॒स्पति॒नाव॑सृष्टां॒ विश्वे॑ दे॒वा अ॑धारयन्।  
-पयो॒ गोषु॒ प्रवि॑ष्टं॒ यत् तेने॒मां सं सृ॑जामसि ॥५७॥  
+Her whom Brihaspati, etc. With all the milky store possessed by cows do we enrich this girl.

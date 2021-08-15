@@ -2,5 +2,4 @@
 title = "०२ यथा हव्यं"
 
 +++
-यथा॑ ह॒व्यं वह॑सि जातवेदो॒ यथा॑ य॒ज्ञं क॒ल्पय॑सि प्रजा॒नन्।  
-ए॒वा दे॒वेभ्यः॑ सुम॒तिं न॒ आ व॑ह॒ स नो॑ मुञ्च॒त्वंह॑सः ॥२॥  
+As thou conveyest offerings, Jatavedas! and fashionest the sacri- fice with knowledge, So bear thou to the Gods the prayer we utter. May he deliver us from grief and trouble.

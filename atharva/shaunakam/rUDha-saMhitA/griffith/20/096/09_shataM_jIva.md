@@ -2,5 +2,4 @@
 title = "०९ शतं जीव"
 
 +++
-श॒तं जी॑व श॒रदो॒ वर्ध॑मानः श॒तं हे॑म॒न्तान्छ॒तमु॑ वस॒न्तान्।  
-श॒तं त॒ इन्द्रो॑ अ॒ग्निः स॑वि॒ता बृह॒स्पतिः॑ श॒तायु॑षा ह॒विषाहा॑र्षमेनम्॥९॥  
+Live waxing in thy strength a hundred autumns, live through a hundred springs, a hundred winters. Through hundred-lived oblation Indra, Agni, Brihaspati, Savitar yield him for a hundred!

@@ -2,5 +2,4 @@
 title = "०३ निर्बलासेतः प्र"
 
 +++
-निर्ब॑लासे॒तः प्र प॑ताशु॒ङ्गः शि॑शु॒को य॑था ।  
-अथो॒ इट॑ इव हाय॒नोप॑ द्रा॒ह्यवी॑रहा ॥३॥
+Begone, Consumption, hence away, like a young foal that runs. at speed. Then, not pernicious to our men, flee, yearly visitant like grass!

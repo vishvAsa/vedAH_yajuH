@@ -2,5 +2,4 @@
 title = "०८ नाभ्या आसीदन्तरिक्षं"
 
 +++
-नाभ्या॑ आसीद॒न्तरि॑क्षं शी॒र्ष्णो द्यौः सम॑वर्तत ।  
-प॒द्भ्यां भूमि॒र्दिशः॒ श्रोत्रा॒त् तथा॑ लो॒कां अ॑कल्पयन्॥८॥  
+Forth from his navel come mid-air; the sky was fashioned from his head. Earth from his feet, and from his ear the regions. Thus they formed the worlds.

@@ -2,5 +2,4 @@
 title = "०१ इन्द्रोतिभिर्बहुलाभिर्नो अद्य"
 
 +++
-इन्द्रो॒तिभि॑र्बहु॒लाभि॑र्नो अ॒द्य या॑वच्छ्रे॒ष्ठाभि॑र्मघवन्छूर जिन्व ।  
-यो नो॒ द्वेष्ट्यध॑र॒ सस्प॑दीष्ट॒ यमु॑ द्वि॒ष्मस्तमु॑ प्रा॒णो ज॑हातु ॥१॥
+Rouse us to-day O Indra, Maghavan, hero, with thy best pos- sible and varied succours, May he who hateth us fall low beneath us, and him whom we detest let life abandon.

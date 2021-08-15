@@ -2,5 +2,4 @@
 title = "०३ यो ददाति"
 
 +++
-यो ददा॑ति शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
-स नाक॑म॒भ्यारो॑हति॒ यत्र॑ शु॒ल्को न क्रि॒यते॑ अब॒लेन॒ बली॑यसे ॥३॥  
+He who bestows a white-hooved ram, adequate to the place he holds. Ascends to the celestial height, the heaven where tribute is not paid to one more mighty by the weak.

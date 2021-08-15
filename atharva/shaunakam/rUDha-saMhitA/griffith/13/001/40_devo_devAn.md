@@ -2,5 +2,4 @@
 title = "४० देवो देवान्"
 
 +++
-दे॒वो दे॒वान् म॑र्चयस्य॒न्तश्च॑रस्यर्ण॒वे।  
-स॒मा॒नम॒ग्निमि॑न्धते॒ तं वि॑दुः क॒वयः॒ परे॑ ॥४०॥  
+A God, thou injurest the Gods: thou movest in the ocean's depth. Men kindle common Agni: him only the higher sages know.

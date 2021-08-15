@@ -2,5 +2,4 @@
 title = "३५ ये देवा"
 
 +++
-ये दे॒वा रा॑ष्ट्रभृतो॒ऽभितो॒ यन्ति॒ सूर्य॑म्।  
-तैष्टे॒ रोहि॑तः संविदा॒नो रा॒ष्ट्रं द॑धातु सुमन॒स्यमा॑नः ॥३५॥  
+With all the Gods who circle round the Sun, upholding royal sway, With all of these may Rohita accordant, give sovranty to thee with friendly spirit.

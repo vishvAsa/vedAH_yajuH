@@ -2,5 +2,4 @@
 title = "१९ विश्वव्यचा घृतपृष्ठो"
 
 +++
-वि॒श्वव्य॑चा घृ॒तपृ॑ष्ठो भवि॒ष्यन्त्सयो॑निर्लो॒कमुप॑ याह्ये॒तम्।  
-व॒र्षवृ॑द्ध॒मुप॑ यच्छ॒ शूर्पं॒ तुषं॑ प॒लावा॒नप॒ तद् वि॑नक्तु ॥१९॥  
+Soon to be, decked with butter, all-embracing, come to this world wherewith birth unites thee. Seize thou the winnowing-fan which rains have nourished, and let this separate the chaff and refuse.

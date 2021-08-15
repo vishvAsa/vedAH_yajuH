@@ -2,5 +2,4 @@
 title = "०२ शं त"
 
 +++
-शं त॒ आपो॑ धन्व॒न्याः॒३ शं ते॑ सन्त्वनू॒प्याः ।  
-शं ते॑ खनि॒त्रिमा॒ आपः॒ शं याः कु॒म्भेभि॒राभृ॑ताः ॥२॥  
+Sweet unto thee be Waters of the waste and Waters of the pool. Sweet be the Waters dug from earth, to thee, and Waters brought in jars.

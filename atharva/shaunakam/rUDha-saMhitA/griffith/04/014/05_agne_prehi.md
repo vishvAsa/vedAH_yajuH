@@ -2,5 +2,4 @@
 title = "०५ अग्ने प्रेहि"
 
 +++
-अग्ने॒ प्रेहि॑ प्रथ॒मो दे॒वता॑नां॒ चक्षु॑र्दे॒वाना॑मु॒त मानु॑षानाम्।  
-इय॑क्षमाणा॒ भृगु॑भिः स॒जोषाः॒ स्वऽर्यन्तु॒ यज॑मानाः स्व॒स्ति॥५॥  
+First among all the deities, come forward, thou who art eye of Gods and men, O Agni. Imploring, and accordant with the Bhrigus, to heaven in safety go the sacrificers!

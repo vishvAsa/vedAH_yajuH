@@ -2,6 +2,4 @@
 title = "०६ उदिह्युदिहि सूर्य"
 
 +++
-उदि॒ह्युदि॑हि सूर्य॒ वर्च॑सा मा॒भ्युदि॑हि ।  
-द्वि॒षंश्च॒ मह्यं॒ रध्य॑तु॒ मा चा॒हं द्वि॑ष॒ते र॑धं॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽनि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥६॥  
+Rise up, O Surya, rise thou up; with strength and splendour rise on me. Let him who hates me be my thrall; let me not be a thrall to him. Manifold are thy great deeds, thine, O Vishnu. Sate us with cattle of all forms and colours: set me in happiness, in loftiest heaven.

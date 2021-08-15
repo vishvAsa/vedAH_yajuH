@@ -2,5 +2,4 @@
 title = "०१ पार्थिवस्य रसे"
 
 +++
-पार्थि॑वस्य॒ रसे॑ देवा॒ भग॑स्य त॒न्वो॒३ बले॑ ।  
-आ॒यु॒ष्यऽम॒स्मा अ॒ग्निः सूर्यो वर्च॒ आ धा॒द् बृह॒स्पतिः॑ ॥१॥  
+Gods, give him all that earth hath best with bodily strength and happy fate. Agni and Surya grant him life, Brihaspati give him eminence!

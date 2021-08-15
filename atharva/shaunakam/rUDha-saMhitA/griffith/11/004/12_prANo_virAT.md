@@ -2,5 +2,4 @@
 title = "१२ प्राणो विराट्"
 
 +++
-प्रा॒णो वि॒राट् प्रा॒णो देष्ट्री॑ प्रा॒णं सर्व॒ उपा॑सते ।  
-प्रा॒णो ह॒ सूर्य॑श्च॒न्द्रमाः॑ प्रा॒णमा॑हुः प्र॒जाप॑तिम्॥१२॥  
+Prana is Deshtri, and Viraj Prana is reverenced by all. He is the Sun, he is the Moon. Prana is called Prajapati.

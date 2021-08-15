@@ -2,5 +2,4 @@
 title = "३९ स्वासस्थे भवतमिन्दवे"
 
 +++
-स्वास॑स्थे भवत॒मिन्द॑वे नो यु॒जे वां॒ ब्रह्म॑ पू॒र्व्यं नमो॑भिः ।  
-वि श्लोक॑ एति प॒थ्येऽव सू॒रिः शृ॒ण्वन्तु॒ विश्वे॑ अ॒मृता॑स ए॒तत्॥३९॥  
+Sit near, sit very near beside our Soma: for you I fit the ancient prayer with homage. The praise-song, like a chieftain on his pathway, spreads far and wide. Let all Immortals hear it.

@@ -2,5 +2,4 @@
 title = "०१ इमा उ"
 
 +++
-इ॒मा उ॑ त्वा पुरूवसो॒ गिरो॑ वर्धन्तु॒ या मम॑ ।  
-पा॒व॒कव॑र्णाः॒ शुच॑यो विप॒श्चितो॒ऽभि स्तोमै॑रनूषत ॥१॥  
+May these my songs of praise exalt thee, Lord who hast abun- dant wealth. Men skilled in holy hymns, bright with the hues of fire, have sung them with their lauds to thee.

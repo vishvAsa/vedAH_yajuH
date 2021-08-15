@@ -2,5 +2,4 @@
 title = "०७ प्रतिघ्नानाश्रुमुखी कृधुकर्णी"
 
 +++
-प्र॒ति॒घ्ना॒नाश्रु॑मु॒खी कृ॑धुक॒र्णी च॑ क्रोशतु ।  
-वि॒के॒शी पुरु॑षे ह॒ते र॑दि॒ते अ॑र्बुदे॒ तव॑ ॥७॥  
+Beating her breast, with tearful face, let the short-earned, the wild-haired hag. Shriek loudly when a man is slain, pierced through by thee, O Arbudi;

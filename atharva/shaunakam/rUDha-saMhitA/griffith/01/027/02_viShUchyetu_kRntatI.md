@@ -2,5 +2,4 @@
 title = "०२ विषूच्येतु कृन्तती"
 
 +++
-विषू॑च्येतु कृन्त॒ती पिना॑कमिव॒ बिभ्र॑ती ।  
-विष्व॑क् पुन॒र्भुवा॒ मनोऽस॑मृद्धा अघा॒यवः॑ ॥२॥  
+Far let her go, cutting her way, brandishing, as it were, a club: Diverted be the new-born's mind: ne'er are the wicked prosperous.

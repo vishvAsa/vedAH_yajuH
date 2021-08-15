@@ -2,5 +2,4 @@
 title = "०१ य एनं"
 
 +++
-य ए॑नं परि॒षीद॑न्ति समा॒दध॑ति॒ चक्ष॑से ।  
-सं॒प्रेद्धो॑ अ॒ग्निर्जि॒ह्वाभि॒रुदे॑तु॒ हृद॑या॒दधि॑ ॥१॥  
+Those who are sitting round this babe prepare him to be looked upon. Let Agni thoroughly inflamed with all his tongues rise from his- heart.

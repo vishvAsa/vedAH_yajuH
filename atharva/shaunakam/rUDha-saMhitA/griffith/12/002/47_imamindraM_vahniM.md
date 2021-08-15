@@ -2,5 +2,4 @@
 title = "४७ इममिन्द्रं वह्निं"
 
 +++
-इ॒ममिन्द्रं॒ वह्निं॒ पप्रि॑म॒न्वार॑भध्वं॒ स वो॒ निर्व॑क्षद् दुरि॒ताद॑व॒द्यात्।  
-तेनाप॑ हत॒ शरु॑मा॒पत॑न्तं॒ तेन॑ रु॒द्रस्य॒ परि॑ पाता॒स्ताम्॥४७॥  
+Grasp ye this Indra, furtherer, satisfier: he will release you from disgrace and trouble. With him drive back the shaft that flies against you, with him. ward off the missile shot by Rudra.

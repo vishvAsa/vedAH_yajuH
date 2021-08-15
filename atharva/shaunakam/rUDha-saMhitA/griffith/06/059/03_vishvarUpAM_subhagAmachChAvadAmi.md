@@ -2,5 +2,4 @@
 title = "०३ विश्वरूपां सुभगामच्छावदामि"
 
 +++
-वि॒श्वरू॑पां सु॒भगा॑म॒च्छाव॑दामि जीव॒लाम्।  
-सा नो॑ रु॒द्रस्या॒स्तां हे॒तिं दू॒रं न॑यतु॒ गोभ्यः॑ ॥३॥
+I welcome the auspicious Plant, life-giving, wearing every hue. Far from our cattle may it turn the deadly dart which Rudra casts.

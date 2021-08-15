@@ -2,5 +2,4 @@
 title = "०३ शिवा नः"
 
 +++
-शि॒वा नः॒ शंत॑मा भव सुमृडी॒का स॑रस्वति ।  
-मा ते॑ युयोम सं॒दृशः॑ ॥१॥
+Be kind and most auspicious, be gracious to us, Sarasvati, May we be ever in thy sight.

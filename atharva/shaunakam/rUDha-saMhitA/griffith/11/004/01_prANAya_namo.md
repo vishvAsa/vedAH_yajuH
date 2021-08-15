@@ -2,5 +2,4 @@
 title = "०१ प्राणाय नमो"
 
 +++
-प्रा॒णाय॒ नमो॒ यस्य॒ सर्व॑मि॒दं वशे॑ ।  
-यो भू॒तः सर्व॑स्येश्व॒रो यस्मि॒न्त्सर्वं॒ प्रति॑ष्ठितम्॥१॥  
+Homage to Prana, him who hath dominion o'er the universe, Who hath become the Sovran Lord of all, on whom the whole depends!

@@ -2,5 +2,4 @@
 title = "१४ सं हि"
 
 +++
-सं हि वाते॒नाग॑त॒ समु॒ सर्वैः॑ पत॒त्रिभिः॑ ।  
-व॒शा स॑मु॒द्रे प्रानृ॑त्य॒दृचः॒ सामा॑नि॒ बिभ्र॑ती ॥१४॥  
+Come hither with the Wind, yea, come with every creature borne on wings. Laden with holy verse and song the Cow hath leapt into the sea.

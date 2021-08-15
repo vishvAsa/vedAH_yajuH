@@ -2,5 +2,4 @@
 title = "०२ यस्ते अप्सु"
 
 +++
-यस्ते॑ अ॒प्सु म॑हि॒मा यो वने॑षु॒ य ओष॑धीषु प॒शुष्व॒प्स्व॑१न्तः ।  
-अग्ने॒ सर्वा॑स्त॒न्वः॑१ सं र॑भस्व॒ ताभि॑र्न॒ एहि॑ द्रविणो॒दा अज॑स्रः ॥२॥  
+All majesty of thine in floods, in forest, in plants, in cattle, in the depths of waters Closely uniting all thy forms, O Agni, come unto us wealth-giv- ing, undecaying.

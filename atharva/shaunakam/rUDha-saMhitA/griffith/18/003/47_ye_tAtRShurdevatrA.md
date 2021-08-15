@@ -2,5 +2,4 @@
 title = "४७ ये तातृषुर्देवत्रा"
 
 +++
-ये ता॑तृ॒षुर्दे॑व॒त्रा जेह॑माना होत्रा॒विदः॒ स्तोम॑तष्टासो अ॒र्कैः ।  
-आग्ने॑ याहि स॒हस्रं॑ देवव॒न्दैः स॒त्यैः क॒विभि॒र्ऋषि॑भिर्घर्म॒सद्भिः॑ ॥४७॥  
+Come to us, Agni, with the gracious Fathers who dwell in glow- ing light, the very Sages, Who thirsted mid the Gods, who hasten hither, oblation-winners, theme of singers' praises.

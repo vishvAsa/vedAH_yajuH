@@ -2,5 +2,4 @@
 title = "०२ त्वमिन्द्राधिराजः श्रवस्युस्त्वं"
 
 +++
-त्वमि॑न्द्राधिरा॒जः श्र॑व॒स्युस्त्वं भू॑र॒भिभू॑ति॒र्जना॑नाम्।  
-त्वं दैवी॒र्विश॑ इ॒मा वि रा॒जायु॑ष्मत् क्ष॒त्रम॒जरं॑ ते अस्तु ॥२॥  
+Thou fain for glory, an imperial ruler, hast won dominion over men, O Indra, Of these celestial tribes be thou the sovran: long-lasting be thy sway and undecaying!

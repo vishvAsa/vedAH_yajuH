@@ -2,5 +2,4 @@
 title = "०२ कर्णाभ्यां ते"
 
 +++
-कर्णा॑भ्यां ते॒ कङ्कू॑षेभ्यः कर्णशू॒लं वि॒सल्पकम्।  
-सर्वं॑ शीर्ष॒ण्यंऽ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥२॥  
+From both thine ears, from parts thereof, thine earache, and the throbbing pain, All malady that wrings thy brow we charm away with this our spell.

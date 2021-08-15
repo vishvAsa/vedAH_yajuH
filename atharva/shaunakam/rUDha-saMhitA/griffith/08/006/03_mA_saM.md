@@ -2,5 +2,4 @@
 title = "०३ मा सं"
 
 +++
-मा सं वृ॑तो॒ मोप॑ सृप ऊ॒रू माव॑ सृपोऽन्त॒रा।  
-कृ॒णोम्य॑स्यै भेष॒जं ब॒जं दु॑र्णाम॒चात॑नम्॥३॥  
+Approach not, come not hitherward: creep not thou in-between her thighs. I set, to guard her, Baja, that which chases him of evil name.

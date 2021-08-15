@@ -2,5 +2,4 @@
 title = "२८ आशसनं विशसनमथो"
 
 +++
-आ॒शस॑नं वि॒शस॑न॒मथो॑ अधिवि॒कर्त॑नम्।  
-सू॒र्यायाः॑ पश्य रू॒पाणि॒ तानि॑ ब्र॒ह्मोत शु॑म्भति ॥२८॥  
+The butchering, the cutting-up, the severing of limb and joint-- Behold the forms which Surya wears: yet these the Brahman purifies,

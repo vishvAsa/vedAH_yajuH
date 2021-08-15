@@ -2,5 +2,4 @@
 title = "०२ प्रतिष्ठे ह्यभवत"
 
 +++
-प्र॒ति॒ष्ठे ह्यभ॑वत॒ वसू॑नां॒ प्रवृ॑द्धे देवी सुभगे उरूची ।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥२॥  
+Yea, seats and homes are ye of goodly treasures, grown strong, divine, blessed, and far-extending, To me, O Heaven and Earth, be ye auspicious. Deliver us, ye twain, from grief and trouble.

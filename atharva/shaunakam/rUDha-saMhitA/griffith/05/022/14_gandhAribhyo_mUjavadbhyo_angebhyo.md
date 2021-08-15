@@ -2,5 +2,4 @@
 title = "१४ गन्धारिभ्यो मूजवद्भ्योऽङ्गेभ्यो"
 
 +++
-ग॒न्धारि॑भ्यो॒ मूज॑व॒द्भ्योऽङ्गे॑भ्यो म॒गधे॑भ्यः ।  
-प्रै॒ष्यन् जन॑मिव शेव॒धिं त॒क्मानं॒ परि॑ दद्मसि ॥१४॥
+We to Gandharis, Mujavans, to Angas and to Magadhas. Hand over Fever as it were a servant and a thing of price.

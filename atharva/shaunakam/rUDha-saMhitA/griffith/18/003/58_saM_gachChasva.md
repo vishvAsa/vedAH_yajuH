@@ -2,5 +2,4 @@
 title = "५८ सं गच्छस्व"
 
 +++
-सं ग॑च्छस्व पि॒तृभिः॒ सं य॒मेने॑ष्टापू॒र्तेन॑ पर॒मे व्योऽमन्।  
-हि॒त्वाव॒द्यं पुन॒रस्त॒मेहि॒ सं ग॑च्छतां त॒न्वाऽ सु॒वर्चाः॑ ॥५८॥  
+Meet Yama, meet the Fathers, meet the merit of virtuous action in the loftiest heaven. Leave sin and evil, seek anew thy dwelling: so bright with glory let him join his body.

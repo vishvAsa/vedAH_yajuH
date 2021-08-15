@@ -2,5 +2,4 @@
 title = "०१ पुमान् पुंसोऽधि"
 
 +++
-पुमा॑न् पुं॒सोऽधि॑ तिष्ठ॒ चर्मे॑हि॒ तत्र॑ ह्वयस्व यत॒मा प्रि॒या ते ।  
-याव॑न्ता॒वग्रे॑ प्रथ॒मं स॑मे॒यथु॒स्तद् वां॒ वयो॑ यम॒राज्ये॑ समा॒नम्॥१॥  
+Mount, male from male, the skin. Go thither: summon those whom thou lovest, one and all, to meet thee, Strong as ye were when first ye met each other, still be your strength the same in Yama's kingdom.

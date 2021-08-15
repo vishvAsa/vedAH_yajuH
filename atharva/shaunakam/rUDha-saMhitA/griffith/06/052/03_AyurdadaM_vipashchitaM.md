@@ -2,5 +2,4 @@
 title = "०३ आयुर्ददं विपश्चितं"
 
 +++
-आ॒यु॒र्ददं॑ विप॒श्चितं॑ श्रु॒तां कण्व॑स्य वी॒रुध॑म्।  
-आभा॑रिषं वि॒श्वभे॑षजीम॒स्यादृष्टा॒न् नि श॑मयत्॥३॥
+I have brought Kanva's famous Plant, life-giving, and itself inspired, The medicine that healeth all: may it suppress my hidden foes.

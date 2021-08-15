@@ -2,5 +2,4 @@
 title = "०४ यौ श्यावाश्वमवथो"
 
 +++
-यौ श्या॒वाश्व॒मव॑थो वाध्र्य॒श्वं मित्रा॑वरुणा पुरुमी॒ढमत्रिम्।  
-यौ वि॑म॒दमव॑थः स॒प्तव॑ध्रिं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥४॥  
+Mitra and Varuna, who help Syavasva, Atri, and Purumilha, and Vadhryasva, Ye who help Vimada and Saptavadhri, deliver us, ye twain, from grief and trouble.

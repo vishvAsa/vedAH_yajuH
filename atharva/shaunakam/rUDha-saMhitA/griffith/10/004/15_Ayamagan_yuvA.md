@@ -2,4 +2,4 @@
 title = "१५ आयमगन् युवा"
 
 +++
-आयम॑ग॒न् युवा॑ भि॒षक् पृ॑श्नि॒हाप॑राजितः । स वै स्व॒जस्य॒ जम्भ॑न उ॒भयो॒र्वृश्चि॑कस्य च ॥१५॥  
+Hither the young uuconquered leech who slays the speckled snake hath come. He verily demolishes adder and scorpion; both of them.

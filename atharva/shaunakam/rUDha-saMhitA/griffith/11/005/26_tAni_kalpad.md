@@ -2,5 +2,4 @@
 title = "२६ तानि कल्पद्"
 
 +++
-तानि॒ कल्प॑द् ब्रह्मचा॒री स॑लि॒लस्य॑ पृ॒ष्ठे तपो॑ऽतिष्ठत् त॒प्यमा॑नः समु॒द्रे।  
-स स्ना॒तो ब॒भ्रुः पि॑ङ्ग॒लः पृ॑थि॒व्यां ब॒हु रो॑चते ॥२६॥
+These, standing on the flood, the Brahmachari formed practising in sea his hot devotion. When he hath bathed, brown, yellow-hued, he shines exceedingly on earth.

@@ -2,4 +2,4 @@
 title = "०२ तुविग्रीवो वपोदरः"
 
 +++
-तु॒वि॒ग्रीवो॑ व॒पोद॑रः सुबा॒हुरन्ध॑सो॒ मदे॑ । इन्द्रो॑ वृ॒त्राणि॑ जिघ्नते ॥२॥  
+Mighty in bulk, strong-necked, stout-armed in the wild rapture. of the juice Doth Indra smite the foemen dead.

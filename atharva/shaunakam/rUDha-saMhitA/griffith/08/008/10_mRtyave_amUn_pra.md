@@ -2,5 +2,4 @@
 title = "१० मृत्यवेऽमून् प्र"
 
 +++
-मृ॒त्यवे॒ऽमून् प्र य॑च्छामि मृत्युपा॒शैर॒मी सि॒ताः ।  
-मृ॒त्योर्ये अ॑घ॒ला दू॒तास्तेभ्य॑ एना॒न् प्रति॑ नयामि ब॒द्ध्वा॥१०॥  
+I give those foemen up to Death: bound in the bonds of Death are they. I bind and carry them away to meet Death's wicked messengers.

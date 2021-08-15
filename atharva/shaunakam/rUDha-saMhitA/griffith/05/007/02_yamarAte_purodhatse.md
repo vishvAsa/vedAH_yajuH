@@ -2,5 +2,4 @@
 title = "०२ यमराते पुरोधत्से"
 
 +++
-यम॑राते पुरोध॒त्से पुरु॑षं परिरा॒पिण॑म्।  
-नम॑स्ते॒ तस्मै॑ कृण्मो॒ मा व॒निं व्य॑थयी॒र्मम॑ ॥२॥  
+The man whom thou preferrest, O Arati, he who prates to us-- This man of thine, we reverence. Baffle not thou my heart's desire,

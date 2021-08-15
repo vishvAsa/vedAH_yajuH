@@ -2,4 +2,4 @@
 title = "०५ तेन तमभ्यतिसृजामो"
 
 +++
-तेन॒ तम॒भ्यति॑सृजामो॒ यो॒३ऽस्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥५॥  
+With this we let him loose who hates us and whom we hate.

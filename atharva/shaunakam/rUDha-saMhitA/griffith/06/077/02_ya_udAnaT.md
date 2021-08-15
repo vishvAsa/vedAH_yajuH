@@ -2,5 +2,4 @@
 title = "०२ य उदानट्"
 
 +++
-य उ॒दान॑ट् प॒राय॑णं॒ य उ॒दान॒ण् न्याय॑नम्।  
-आ॒वर्त॑नं नि॒वर्त॑नं॒ यो गो॒पा अपि॒ तं हु॑वे ॥२॥  
+I call the Herdsman, him who knows the way to drive the cattle forth, Who knows the way to drive them home, to drive them back and drive them in.

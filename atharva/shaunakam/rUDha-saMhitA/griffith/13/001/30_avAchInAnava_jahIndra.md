@@ -2,5 +2,4 @@
 title = "३० अवाचीनानव जहीन्द्र"
 
 +++
-अ॒वा॒चीना॒नव॑ ज॒हीन्द्र॒ वज्रे॑ण बाहु॒मान्।  
-अधा॑ स॒पत्ना॒न् माम॒कान॒ग्नेस्तेजो॑भि॒रादि॑षि ॥३०॥  
+Beat them down, Indra, with thy bolt, beat them down, mighty with thine arm. I through the energy and force of Agni have secured my foes.

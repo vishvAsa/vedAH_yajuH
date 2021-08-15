@@ -2,5 +2,4 @@
 title = "२४ इन्द्र जहि"
 
 +++
-इन्द्र॑ ज॒हि पुमां॑सं यातु॒धान॑मु॒त स्त्रियं॑ मा॒यया॒ शाश॑दानाम्।  
-विग्री॑वासो॒ मूर॑देवा ऋदन्तु॒ मा ते दृ॑श॒न्त्सूर्य॑मु॒च्चर॑न्तम्॥२४॥  
+Indra destroy the demon, male and female, joying and triumph- ing in arts of magic! Let the fools' gods with bent necks fall and perish, and see no. more the Sun when he arises.

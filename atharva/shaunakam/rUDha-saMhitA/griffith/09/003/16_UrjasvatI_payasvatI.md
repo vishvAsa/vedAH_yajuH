@@ -2,5 +2,4 @@
 title = "१६ ऊर्जस्वती पयस्वती"
 
 +++
-ऊर्ज॑स्वती॒ पय॑स्वती पृथि॒व्यां निमि॑ता मि॒ता।  
-वि॒श्वा॒न्नं बिभ्र॑ती शाले॒ मा हिं॑सीः प्रतिगृह्ण॒तः ॥१६॥  
+Rich in prosperity, rich in milk, founded and built upon the earth, Injure not thy receivers, House who holdest food of every sort!'

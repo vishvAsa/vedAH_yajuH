@@ -2,5 +2,4 @@
 title = "०६ ऋतस्य च"
 
 +++
-ऋ॒तस्य॑ च॒ वै स स॒त्यस्य॑ च॒ सूर्य॑स्य च च॒न्द्रस्य॑ च॒ नक्ष॑त्राणां च ।  
-प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥६॥  
+He went away to the unindicated region. The Seasons, groups of seasons, the worlds and their inhabitants, the months and half-months, and Day and Night followed him. He who, etc.

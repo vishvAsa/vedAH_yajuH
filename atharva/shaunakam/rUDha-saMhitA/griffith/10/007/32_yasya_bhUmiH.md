@@ -2,5 +2,4 @@
 title = "३२ यस्य भूमिः"
 
 +++
-यस्य॒ भूमिः॑ प्र॒मान्तरि॑क्षमु॒तोदर॑म्।  
-दिवं॒ यश्च॒क्रे मू॒र्धानं॒ तस्मै॑ ज्ये॒ष्ठाय॒ ब्रह्म॑णे॒ नमः॑ ॥३२॥  
+Be reverence paid to him, that highest Brahma, whose base is Earth, his belly Air, who made the sky to be his head.

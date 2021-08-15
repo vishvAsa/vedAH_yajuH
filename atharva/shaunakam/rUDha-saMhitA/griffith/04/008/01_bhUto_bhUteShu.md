@@ -2,5 +2,4 @@
 title = "०१ भूतो भूतेषु"
 
 +++
-भू॒तो भू॒तेषु॒ पय॒ आ द॑धाति॒ स भू॒ताना॒मधि॑पतिर्बभूव ।  
-तस्य॑ मृ॒त्युश्च॑रति राज॒सूयं॒ स राजा॑ रा॒ज्यमनु॑ मन्यतामि॒दम् ॥१॥  
+The Being lays the sap of life in beings: he hath become the sovran Lord of creatures. Death comes to this man's royal consecration: let him as King own and allow this kingdom.

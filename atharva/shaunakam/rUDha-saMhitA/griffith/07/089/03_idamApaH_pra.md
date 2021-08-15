@@ -2,5 +2,4 @@
 title = "०३ इदमापः प्र"
 
 +++
-इ॒दमा॑पः॒ प्र व॑हताव॒द्यं च॒ मलं॑ च॒ यत्।  
-यच्चा॑भिदु॒द्रोहानृ॑तं॒ यच्च॑ शे॒पे अ॒भीरु॑णम्॥३॥  
+Ye Waters, wash away this stain and whatsoever taint be here, Each sinful wrong that I have done and every harmless curse of mine.

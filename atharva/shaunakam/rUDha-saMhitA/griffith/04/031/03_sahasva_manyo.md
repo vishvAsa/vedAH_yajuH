@@ -2,5 +2,4 @@
 title = "०३ सहस्व मन्यो"
 
 +++
-सह॑स्व मन्यो अ॒भिमा॑तिम॒स्मै रु॒जन् मृ॒णन् प्र॑मृ॒णन् प्रेहि॒ शत्रू॑न्।  
-उ॒ग्रं ते॒ पाजो॑ न॒न्वा रु॑रुध्रे व॒शी वशं॑ नयासा एकज॒ त्वम्॥३॥  
+O Manyu, overcome those who assail us. On! breaking, slaying, crushing down the foemen. They have not hindered thine impetuous vigour: mighty! sole born! reduce them to subjection.

@@ -2,4 +2,4 @@
 title = "०४ परेहि विग्रमस्तृतमिन्द्रं"
 
 +++
-परे॑हि॒ विग्र॒मस्तृ॑त॒मिन्द्रं॑ पृच्छा विप॒श्चित॑म्। यस्ते॒ सखि॑भ्य॒ आ वर॑म्॥४॥  
+Go to the wise unconquered One, ask thou of Indra, skilled in song, Him who is better than thy friends.

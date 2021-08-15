@@ -2,5 +2,4 @@
 title = "०३ अद्भ्यस्त्वा राजा"
 
 +++
-अ॒द्भ्यस्त्वा॒ राजा॒ व॑रुणो ह्वयतु॒ सोम॑स्त्वा ह्वयतु॒ पर्व॑तेभ्यः ।  
-इन्द्र॑स्त्वा ह्वयतु वि॒ड्भ्य॑ आ॒भ्यः श्ये॒नो भू॒त्वा विश॒ आ प॑ते॒माः ॥३॥  
+King Varuna call thee hither from the waters! From hills and mountains Soma call thee hither! Let Indra call thee hither to these people. Fly hither to these people as a falcon.

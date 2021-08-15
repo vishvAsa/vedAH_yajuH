@@ -2,5 +2,4 @@
 title = "१९ स्योनास्मै भव"
 
 +++
-स्यो॒नास्मै॑ भव पृथिव्यनृक्ष॒रा नि॒वेश॑नी ।  
-यच्छा॑स्मै॒ शर्म॑ स॒प्रथाः॑ ॥१९॥  
+Be pleasant unto him, O Earth, thornless and lulling him to rest. Vouchsafe him shelter broad and sure.

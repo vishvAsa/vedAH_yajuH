@@ -2,5 +2,4 @@
 title = "०५ यः कृष्णः"
 
 +++
-यः कृ॒ष्णः के॒श्यसु॑र स्तम्ब॒ज उ॒त तुण्डि॑कः ।  
-अ॒राया॑नस्या मु॒ष्काभ्यां॒ भंस॒सोप॑ हन्मसि ॥५॥  
+The black and hairy Asura, and Stambaja and Tundika, Arayas from this girl we drive, from bosom, waist, and parts below.

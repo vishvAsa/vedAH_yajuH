@@ -2,5 +2,4 @@
 title = "५३ पर्णो राजापिधानं"
 
 +++
-प॒र्णो राजा॑पि॒धानं॑ चरू॒णामू॒र्जो बलं॒ सह॒ ओजो॑ न॒ आग॑न्।  
-आयु॑र्जी॒वेभ्यो॒ विद॑धद् दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥५३॥  
+The royal Parna is the caldrons' cover: strength have we gained, force, power, and might, and vigour. Bestowing length of life upon the living, for long existence through a hundred autumns.

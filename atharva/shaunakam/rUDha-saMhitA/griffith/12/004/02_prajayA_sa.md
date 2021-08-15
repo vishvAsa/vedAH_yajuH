@@ -2,5 +2,4 @@
 title = "०२ प्रजया स"
 
 +++
-प्र॒जया॒ स वि क्री॑णीते प॒शुभि॒श्चोप॑ दस्यति ।  
-य आ॑र्षे॒येभ्यो॒ याच॑द्भ्यो दे॒वानां॒ गां न दित्स॑ति ॥२॥  
+He trades and traffics with his sons, and in his cattle suffers loss. Who will not give the Cow of Gods to Rishis children when they beg.

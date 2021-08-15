@@ -2,5 +2,4 @@
 title = "०८ त्रयो दासा"
 
 +++
-त्रयो॑ दा॒सा आञ्ज॑नस्य त॒क्मा ब॒लास॒ आदहिः॑ ।  
-वर्षि॑ष्ठः॒ पर्व॑तानां त्रिक॒कुन्नाम॑ ते पि॒ता॥८॥  
+Three are the slaves that serve the Salve, Fever, Consumption, and the Snake. Thy father is the loftiest of mountains, named the Triple- peaked.

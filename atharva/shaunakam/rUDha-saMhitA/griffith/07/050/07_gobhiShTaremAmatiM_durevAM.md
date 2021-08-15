@@ -2,5 +2,4 @@
 title = "०७ गोभिष्टरेमामतिं दुरेवां"
 
 +++
-गोभि॑ष्टरे॒माम॑तिं दु॒रेवां॒ यवे॑न वा॒ क्षुधं॑ पुरुहूत॒ विश्वे॑ ।  
-व॒यं राज॑सु प्रथ॒मा धना॒न्यरि॑ष्टासो वृज॒नीभि॑र्जयेम ॥७॥  
+May we all, much-invoked! repel with cattle want that brings sin, hunger with store of barley. May we uninjured, first among the princes, obtain possessions by our own exertions.

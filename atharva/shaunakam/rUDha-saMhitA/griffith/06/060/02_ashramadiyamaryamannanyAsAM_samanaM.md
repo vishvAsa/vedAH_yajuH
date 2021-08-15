@@ -2,5 +2,4 @@
 title = "०२ अश्रमदियमर्यमन्नन्यासां समनं"
 
 +++
-अश्र॑मदि॒यम॑र्यमन्न॒न्यासां॒ सम॑नं य॒ती।  
-अ॒ङ्गो न्वऽर्यमन्न॒स्या अ॒न्याः सम॑न॒माय॑ति ॥२॥  
+Wooer! this girl hath toiled in vain, going to others' marriages. Now to her wedding, verily, wooer! another maid shall come.

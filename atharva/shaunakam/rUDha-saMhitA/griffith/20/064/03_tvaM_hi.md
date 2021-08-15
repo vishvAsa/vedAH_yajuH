@@ -2,4 +2,4 @@
 title = "०३ त्वं हि"
 
 +++
-त्वं हि शश्व॑तीना॒मिन्द्र॑ द॒र्ता पु॒रामसि॑ । ह॒न्ता दस्यो॒र्मनो॑र्वृ॒धः पति॑र्दि॒वः ॥३॥  
+For thou art, he, O Indra, who stormest all castles of the foe, Slayer of Dasyus, man's supporter, Lord of heaven.

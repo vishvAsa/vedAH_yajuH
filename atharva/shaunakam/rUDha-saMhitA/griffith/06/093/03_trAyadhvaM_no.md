@@ -2,5 +2,4 @@
 title = "०३ त्रायध्वं नो"
 
 +++
-त्राय॑ध्वं नो अ॒घवि॑षाभ्यो व॒धाद् विश्वे॑ देवा मरुतो विश्ववेदसः ।  
-अ॒ग्नीषोमा॒ वरु॑णः पू॒तद॑क्षा वातापर्ज॒न्ययोः॑ सुम॒तौ स्या॑म ॥३॥
+Save us, All-Gods and all-possessing Maruts, from murderous stroke and things that slay with poison. Pure is the might of Varuna, Agni, Soma. May Vata's and Parjanya's favour bless us.

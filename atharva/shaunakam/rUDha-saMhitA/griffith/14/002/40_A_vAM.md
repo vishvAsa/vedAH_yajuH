@@ -2,5 +2,4 @@
 title = "४० आ वां"
 
 +++
-आ वां॑ प्र॒जां ज॑नयतु प्र॒जाप॑तिरहोरा॒त्राभ्यां॒ सम॑नक्त्वर्य॒मा।  
-अदु॑र्मङ्गली पतिलो॒कमा वि॑शे॒मं शं नो॑ भव द्वि॒पदे॒ शं चतु॑ष्पदे ॥४०॥  
+So may the Lord of Life vouchsafe you children, Aryaman bind you, day and night, together. Enter thy husband's house with happy omens, bring blessing to our quadrupeds and bipeds.

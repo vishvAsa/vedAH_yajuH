@@ -2,5 +2,4 @@
 title = "२३ अर्बुदिश्च त्रिषंधिश्चामित्रान्"
 
 +++
-अर्बु॑दिश्च॒ त्रिषंधिश्चा॒मित्रा॑न् नो॒ वि वि॑ध्यताम्।  
-यथै॑षामिन्द्र वृत्रहन् हना॑म शचीपते॒ऽमित्रा॑णां सहस्र॒शः ॥२३॥  
+Arbudi and Trishandhi fall upon our foes and scatter them, So that, O Indra, Lord of Might, Slayer of Vritra, we may kill thousands of these our enemies!

@@ -2,5 +2,4 @@
 title = "०७ यां रक्षन्त्यस्वप्ना"
 
 +++
-यां रक्ष॑न्त्यस्व॒प्ना वि॑श्व॒दानीं॑ दे॒वा भूमिं॑ पृथि॒वीमप्र॑मादम्।  
-सा नो॒ मधु॑ प्रि॒यं दु॑हा॒मथो॑ उक्षतु॒ वर्च॑सा ॥७॥  
+May Earth, may Prithivi, always protected with ceaseless care by Gods who never slumber, May she pour out for us delicious nectar, may she bedew us with a flood of splendour.

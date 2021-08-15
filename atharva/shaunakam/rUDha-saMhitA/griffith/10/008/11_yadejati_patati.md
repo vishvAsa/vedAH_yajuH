@@ -2,5 +2,4 @@
 title = "११ यदेजति पतति"
 
 +++
-यदेज॑ति॒ पत॑ति॒ यच्च॒ तिष्ठ॑ति प्रा॒णदप्रा॑णन्निमि॒षच्च॒ यद् भुव॑त्।  
-तद् दा॑धार पृथि॒वीं वि॒श्वरू॑पं॒ तत् सं॒भूय॑ भ॒वत्येक॑मे॒व॥११॥  
+That which hath power of motion, that which flies, or stands, which breathes or breathes not, which, existing, shuts the eye Wearing all forms that entity upholds the earth, and in its close consistence still is only one.

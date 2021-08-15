@@ -2,5 +2,4 @@
 title = "०२ धाता रातिः"
 
 +++
-धा॒ता रा॒तिः स॑वि॒तेदं जु॑षन्ता॒मिन्द्र॒स्त्वष्टा॒ प्रति॑ हर्यन्तु मे॒ वचः॑ ।  
-हु॒वे दे॒वीमदि॑तिं॒ शूर॑पुत्रां सजा॒तानां॑ मध्यमे॒ष्ठा यथासा॑नि ॥२॥  
+May Indra, Tvashtar hear my word with favour, may Dhatar, Rati, Savitar accept it. I call the Goddess Aditi, heroes' mother, that I may be the centre of my kinsmen.

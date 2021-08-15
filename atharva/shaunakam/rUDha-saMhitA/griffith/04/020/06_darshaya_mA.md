@@ -2,5 +2,4 @@
 title = "०६ दर्शय मा"
 
 +++
-द॒र्शय॑ मा यातु॒धाना॑न् द॒र्शय॑ यातुधा॒न्यः ।  
-पि॒शा॒चान्त्सर्वा॑न् दर्श॒येति॒ त्वा र॑भ ओषधे ॥६॥  
+Make me see Yatudhanas, make thou Yatudhanis visible. Make me see all Pisachas With this prayer, O Plant, I hold thee fast.

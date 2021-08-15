@@ -2,5 +2,4 @@
 title = "१९ अन्तर्देशा अबध्नत"
 
 +++
-अ॒न्त॒र्दे॒शा अ॑बध्नत प्र॒दिश॒स्तम॑बध्नत ।  
-प्र॒जाप॑तिसृष्टो म॒णिर्द्वि॑ष॒तो मेऽध॑राँ अकः ॥१९॥  
+The regions of the heaven, the points that lie between them fashioned it. Created by Prajapati, may the Charm cast my foemen down.

@@ -2,5 +2,4 @@
 title = "११ ऋक्सामाभ्यामभिहितौ गावौ"
 
 +++
-ऋ॒क्सा॒माभ्या॑म॒भिहि॑तौ॒ गावौ॑ ते साम॒नावै॑ताम्।  
-श्रोत्रे॑ ते च॒क्रे आ॑स्तां दि॒वि पन्था॑श्चराच॒रः ॥११॥  
+Steadily went the steers upheld by holy verse and song of praise, The chariot-wheels were listening ears: thy path was tremulous in the sky.

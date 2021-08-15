@@ -2,4 +2,4 @@
 title = "०२ नू चिन्नु"
 
 +++
-नू चि॒न्नु ते॒ मन्य॑मानस्य द॒स्मोद॑श्नुवन्ति महि॒मान॑मुग्र । न वीर्यऽमिन्द्र ते॒ न राधः॑ ॥२॥  
+Never do men attain, O Wonder-worker, thy greatness, Mighty One who must be lauded, Nor, Indra, thine heroic power and bounty.

@@ -2,5 +2,4 @@
 title = "०४ एको वो"
 
 +++
-एको॑ वो दे॒वोऽप्य॑तिष्ठ॒त् स्यन्द॑माना यथाव॒शम्।  
-उदा॑निषुर्म॒हीरिति॒ तस्मा॑दुद॒कमु॑च्यते ॥४॥  
+One only God set foot on you flowing according to your will, The mighty ones breathed upward fast: hence; Water is the name they bear.

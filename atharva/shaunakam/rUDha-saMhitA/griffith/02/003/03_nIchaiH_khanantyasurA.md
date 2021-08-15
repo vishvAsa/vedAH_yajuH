@@ -2,5 +2,4 @@
 title = "०३ नीचैः खनन्त्यसुरा"
 
 +++
-नी॒चैः ख॑न॒न्त्यसु॑रा अरु॒स्राण॑मि॒दं म॒हत्।  
-तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत्॥३॥  
+The Asuras bury deep in earth this mighty thing that healeth wounds. This is the cure for morbid flow, this driveth malady away.

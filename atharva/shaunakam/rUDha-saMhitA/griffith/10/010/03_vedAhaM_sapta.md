@@ -2,5 +2,4 @@
 title = "०३ वेदाहं सप्त"
 
 +++
-वेदा॒हं स॒प्त प्र॒वतः॑ स॒प्त वे॑द परा॒वतः॑ ।  
-शिरो॑ य॒ज्ञस्या॒हं वे॑द॒ सोमं॑ चास्यां विचक्ष॒णम्॥३॥  
+I know the Seven Water-floods, I know the seven distances, I know the head of sacrifice, and Soma shining bright in her.

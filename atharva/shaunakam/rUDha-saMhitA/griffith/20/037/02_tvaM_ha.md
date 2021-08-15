@@ -2,5 +2,4 @@
 title = "०२ त्वं ह"
 
 +++
-त्वं ह॒ त्यदि॑न्द्र॒ कुत्स॑मावः॒ शुश्रू॑षमाणस्त॒न्वा सम॒र्ये।  
-दासं॒ यच्छुष्णं कुय॑वं॒ न्यऽस्मा॒ अर॑न्धय आर्जुने॒याय॒ शिक्ष॑न्॥२॥  
+Thou verily, Indra, gavest help to Kutsa, willingly lending ear to him in battle. When, aiding Arjunneya, thou subduedst to him both Kuyava and the Dasa Sushna.

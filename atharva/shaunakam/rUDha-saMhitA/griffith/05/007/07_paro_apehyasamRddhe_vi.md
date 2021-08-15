@@ -2,5 +2,4 @@
 title = "०७ परोऽपेह्यसमृद्धे वि"
 
 +++
-प॒रोऽपे॑ह्यसमृद्धे॒ वि ते॑ हे॒तिं न॑यामसि ।  
-वेद॑ त्वा॒हं नि॒मीव॑न्तीं नितु॒दन्ती॑मराते ॥७॥  
+Misfortune! go thou far away: we turn thy harmful dart aside. I know thee well, Arati! as oppressor, one who penetrates.

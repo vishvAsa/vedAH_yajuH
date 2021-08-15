@@ -2,5 +2,4 @@
 title = "२७ उत् तिष्ठता"
 
 +++
-उत् ति॑ष्ठता॒ प्र त॑रता सखा॒योऽश्म॑न्वती न॒दी स्य॑न्दत इ॒यम्।  
-अत्रा॑ जहीत॒ ये अस॒न्नशि॑वाः शि॒वान्त्स्यो॒नानुत्त॑रेमा॒भि वाजा॑न्॥२७॥  
+Rise up erect, cross over, my companions: the stream is stony that flows here before us. Abandon here the powers that were ungracious, and let us cross to powers benign and friendly.

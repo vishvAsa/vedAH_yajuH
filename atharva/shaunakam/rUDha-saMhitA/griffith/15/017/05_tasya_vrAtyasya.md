@@ -2,4 +2,4 @@
 title = "०५ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य । योऽस्य पञ्च॒मो व्या॒नस्त ऋ॒तवः॑ ॥५॥  
+His fifth diffused breath are the Seasons.

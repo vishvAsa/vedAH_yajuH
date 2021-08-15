@@ -2,5 +2,4 @@
 title = "२२ तस्यामृतस्येमं बलं"
 
 +++
-तस्या॒मृत॑स्ये॒मं बलं॒ पुरु॑षं पाययामसि ।  
-अथो॑ कृणोमि भेष॒जं यथा स॑च्छ॒तहा॑यनः ॥२२॥  
+We give the essence of that stream of nectar of this man to drink: So I prepare a remedy that he may live a hundred years.

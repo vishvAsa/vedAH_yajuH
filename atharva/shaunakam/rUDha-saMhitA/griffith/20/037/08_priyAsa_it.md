@@ -2,5 +2,4 @@
 title = "०८ प्रियास इत्"
 
 +++
-प्रि॒यास॒ इत् ते॑ मघवन्न॒भिष्टौ॒ नरो॑ मदेम शर॒णे सखा॑यः ।  
-नि तु॒र्वशं॒ नि याद्वं॑ शिशीह्यतिथि॒ग्वाय॒ शंस्यं॑ करि॒ष्यन्॥८॥  
+May we men, Bounteous Lord, the friends thou lovest, near i thee be joyful under thy protection. Fain to fulfil the wish of Atithigva, bow Turvasa, bow down,. the son of Yadu.

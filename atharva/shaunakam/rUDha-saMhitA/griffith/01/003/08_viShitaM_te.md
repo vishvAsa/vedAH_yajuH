@@ -2,5 +2,4 @@
 title = "०८ विषितं ते"
 
 +++
-विषि॑तं ते वस्तिबि॒लं स॑मु॒द्रस्यो॑द॒धेरि॑व ।  
-ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्॥८॥  
+Now hath the portal been unclosed as, of the sea that holds the flood: Thus let, etc.

@@ -2,4 +2,4 @@
 title = "६० अघ्न्ये प्र"
 
 +++
-अघ्न्ये॒ प्र शिरो॑ जहि ब्रह्म॒ज्यस्य॑ कृ॒ताग॑सो देवपी॒योर॑रा॒धसः॑ ॥६०॥  
+O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, blasphemer of the Gods.

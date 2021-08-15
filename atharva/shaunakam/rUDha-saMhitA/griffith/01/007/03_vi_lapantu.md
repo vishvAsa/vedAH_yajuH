@@ -2,5 +2,4 @@
 title = "०३ वि लपन्तु"
 
 +++
-वि ल॑पन्तु यातु॒धाना॑ अ॒त्त्रिणो॒ ये कि॑मी॒दिनः॑ ।  
-अथे॒दम॑ग्ने नो ह॒विरिन्द्र॑श्च प्रति॑ हर्यतम्॥३॥  
+Let Yatudhanas mourn, let all greedy Kimidins weep and wail: And, Agni, Indra, may ye both accept this sacrifice of ours.

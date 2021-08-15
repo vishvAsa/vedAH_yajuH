@@ -2,4 +2,4 @@
 title = "४० बधिरो भविष्यसीत्येनमाह"
 
 +++
-ब॒धि॒रो भ॑विष्य॒सीत्ये॑नमाह ॥२॥  
+And thence, etc. . . . with other back. . . . Lightning will slay thee. . . With the heaven as back. 

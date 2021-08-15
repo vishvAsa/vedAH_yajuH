@@ -2,4 +2,4 @@
 title = "०४ सोऽवर्धत स"
 
 +++
-सोऽवर्धत॒ स म॒हान॑भव॒त् स म॑हादे॒वोऽभवत्॥४॥  
+He grew, he became great, he became Mahadeva.

@@ -2,5 +2,4 @@
 title = "०९ श्यामश्च त्वा"
 
 +++
-श्या॒मश्च॑ त्वा॒ मा श॒बल॑श्च॒ प्रेषि॑तौ य॒मस्य॒ यौ प॑थि॒रक्षी॒ श्वानौ॑ ।  
-अ॒र्वाङेहि॒ मा वि दी॑ध्यो॒ मात्र॑ तिष्ठः॒ परा॑ङ्मनाः ॥९॥  
+Let not the black dog and the brindled seize thee, two warders of the way sent forth by Yama. Come hither; do not hesitate: with mind averted stay not there.

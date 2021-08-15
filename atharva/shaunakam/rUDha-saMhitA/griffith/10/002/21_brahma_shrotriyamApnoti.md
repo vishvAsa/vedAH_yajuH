@@ -2,5 +2,4 @@
 title = "२१ ब्रह्म श्रोत्रियमाप्नोति"
 
 +++
-ब्रह्म॒ श्रोत्रि॑यमाप्नोति॒ ब्रह्मे॒मं प॑रमे॒ष्ठिन॑म्।  
-ब्रह्मे॒मम॒ग्निं पूरु॑षो॒ ब्रह्म॑ संवत्स॒रं म॑मे ॥२१॥  
+He, Brahma gains the learned priest, he Brahma, gains this Lord Supreme. As Brahma, Man wins Agni here Brahma hath measured out the year.

@@ -2,4 +2,4 @@
 title = "०१ वाचमष्टापदीमहं नवस्रक्तिमृतस्पृशम्"
 
 +++
-वाच॑म॒ष्टाप॑दीम॒हं नव॑स्रक्तिमृत॒स्पृश॑म्। इन्द्रा॒त् परि॑ त॒न्वं ममे ॥१॥  
+From Indra have I measured an eight-footed and nine-cornered. song, Delicate, faithful to the Law.

@@ -2,5 +2,4 @@
 title = "०६ अभयं मित्रादभयममित्रादभयं"
 
 +++
-अभ॑यं मि॒त्रादभ॑यम॒मित्रा॒दभ॑यं ज्ञा॒तादभ॑यं पु॒रो यः ।  
-अभ॑यं॒ नक्त॒मभ॑यं॒ दिवा॑ नः॒ सर्वा॒ आशा॒ मम॑ मि॒त्रं भ॑वन्तु ॥६॥
+Safety be ours from friend and from the unfriendly, safety from what we know and what we know not. Safety be ours by night and in the day-time! friendly to me be all my hopes and wishes!

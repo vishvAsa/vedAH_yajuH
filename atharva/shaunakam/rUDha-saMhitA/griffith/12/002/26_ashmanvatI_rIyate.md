@@ -2,5 +2,4 @@
 title = "२६ अश्मन्वती रीयते"
 
 +++
-अश्म॑न्वती रीयते॒ सं र॑भध्वं वी॒रय॑ध्वं॒ प्र त॑रता सखायः ।  
-अत्रा॑ जहीत॒ ये अस॑न् दु॒रेवा॑ अनमी॒वानुत्त॑रेमा॒भि वाजा॑न्॥२६॥  
+Gather your strength, my friends; the stream flows stony: acquit yourselves as men, and cross the river. Abandon here the powers that were malignant, and let us cross to powers exempt from sickness.

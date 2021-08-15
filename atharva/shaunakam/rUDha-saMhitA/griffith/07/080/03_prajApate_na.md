@@ -2,5 +2,4 @@
 title = "०३ प्रजापते न"
 
 +++
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान ।  
-यत् का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम्॥३॥  
+No one but thou, Prajapati, none beside thee, pervading, gave to all these forms their being. Grant us our hearts' desire when we invoke thee: may we have store of riches in possession.

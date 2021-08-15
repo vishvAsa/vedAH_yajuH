@@ -2,5 +2,4 @@
 title = "०६ देवाञ्जन त्रैककुदं"
 
 +++
-देवा॑ञ्जन॒ त्रैक॑कुदं॒ परि॑ मा पाहि वि॒श्वतः॑ ।  
-न त्वा॑ तर॒न्त्योष॑धयो॒ बाह्याः॑ पर्व॒तीया॑ उ॒त॥६॥  
+Gods' Ointment from the Three Peaked Hill, preserve thou me on every side. No plants of earth surpass thee, none from mountain or from cultured ground.

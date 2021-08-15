@@ -2,4 +2,4 @@
 title = "१५ ब्रह्मणा परिगृहीता"
 
 +++
-ब्रह्म॑णा॒ परि॑गृहीता॒ साम्ना॒ पर्यू॑ढा ॥१५॥  
+Received by the Brahman, it has been carried round. 

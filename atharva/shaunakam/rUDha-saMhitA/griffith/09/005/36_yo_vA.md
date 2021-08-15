@@ -2,8 +2,4 @@
 title = "३६ यो वा"
 
 +++
-यो वा अ॑भि॒भुवं॒ नाम॒र्तुं वेद॑ ।  
-अ॒भि॒भव॑न्तीमभिभवन्तीमे॒वाप्रि॑यस्य भ्रातृ॑व्यस्य॒ श्रिय॒मा द॑त्ते ।  
-ए॒ष वा अ॑भि॒भूर्नाम॒र्तुर्यद॒जः पञ्चौ॑दनः ।  
-निरे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रियं॑ दहति॒ भव॑त्या॒त्मना ।  
-यो॒३जं पञ्चौ॑दनं॒ दक्षि॑नाज्योतिषं॒ ददा॑ति ॥३६॥  
+The man who knows the season called Surpassing takes to him- self the conquering fame, his hated rival's conquering fame. The Goat Panchaudana is this Conquering season. He lives himself, he verily burns up his hated rival's fame Who gives the Goat Panchaudana illumined with a priestly fee.

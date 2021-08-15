@@ -2,5 +2,4 @@
 title = "०३ शं च"
 
 +++
-शं च॑ नो॒ मय॑श्च नो॒ मा च॑ नः॒ किं च॒नाम॑मत्।  
-क्ष॒मा रपो॒ विश्वं॑ नो अस्तु भेष॒जं सर्वं॑ नो अस्तु भेष॒जम्॥३॥
+Let it be health and joy to us. Let nothing vex or injure us. Down with the wound! Let all to us be balm, the whole be medicine.

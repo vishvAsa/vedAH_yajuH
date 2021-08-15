@@ -2,5 +2,4 @@
 title = "०३ मध्वा पृञ्चे"
 
 +++
-मध्वा॑ पृञ्चे न॒द्यः॑१ पर्व॑ता गि॒रयो॒ मधु॑ ।  
-मधु॒ परु॑ष्णी॒ शीपा॑ला॒ शमा॒स्ने अ॑स्तु॒ शं हृ॒दे॥३॥
+With mead I mingle flowing streams: the hills and mountains shall be mead. Parushni and Sipala mead. May it be well with mouth and heart.

@@ -2,5 +2,4 @@
 title = "१२ उदरात् ते"
 
 +++
-उ॒दरा॑त् ते क्लो॒म्नो नाभ्या॒ हृद॑या॒दधि॑ ।  
-यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत्॥१२॥  
+Forth from thy belly and thy lungs, forth from thy navel and thy heart. I have evoked the poison taint of all Consumptions out of thee.

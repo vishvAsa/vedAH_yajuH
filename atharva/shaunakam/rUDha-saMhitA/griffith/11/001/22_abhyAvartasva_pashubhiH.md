@@ -2,5 +2,4 @@
 title = "२२ अभ्यावर्तस्व पशुभिः"
 
 +++
-अ॒भ्याव॑र्तस्व प॒शुभिः॑ स॒हैनां॑ प्र॒त्यङे॑नां दे॒वता॑भिः स॒हैधि॑ ।  
-मा त्वा॒ प्राप॑च्छ॒पथो॒ माभि॑चा॒रः स्वे क्षेत्रे॑ अनमी॒वा वि रा॑ज ॥२२॥॥  
+Approach this woman here with store of cattle: together with the deities come to meet her. Let not a curse or imprecation reach thee: in thine own seat shine forth exempt from sickness.

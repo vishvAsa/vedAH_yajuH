@@ -2,5 +2,4 @@
 title = "०९ अन्यक्षेत्रे न"
 
 +++
-अ॒न्य॒क्षे॒त्रे न र॑मसे व॒शी सन्मृ॑डयासि नः ।  
-अभू॑दु॒ प्रार्थ॑स्त॒क्मा स ग॑मिष्यति॒ बल्हि॑कान्॥९॥  
+In a strange land thou joyest not; subdued, thou wilt be kind to us. Fever is eager to depart, and to the Bahlikas will go,

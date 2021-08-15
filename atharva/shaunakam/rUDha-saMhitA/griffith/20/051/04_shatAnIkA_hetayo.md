@@ -2,5 +2,4 @@
 title = "०४ शतानीका हेतयो"
 
 +++
-श॒तानी॑का हे॒तयो॑ अस्य दु॒ष्टरा॒ इन्द्र॑स्य स॒मिषो॑ म॒हीः ।  
-गि॒रिर्न भु॒ज्मा म॒घव॑त्सु पिन्वते॒ यदीं॑ सु॒ता अम॑न्दिषुः ॥४॥
+Arrows with hundred points, unconquerable, are this Indra's mighty arms in war. He streams on liberal worshippers like a hill with springs, when juices poured have gladdened him.

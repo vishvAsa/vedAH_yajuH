@@ -2,5 +2,4 @@
 title = "०५ प्रत्यग्निरुषसामग्रमख्यत् प्रत्यहानि"
 
 +++
-प्रत्य॒ग्निरु॒षसा॒मग्र॑मख्य॒त् प्रत्यहा॑नि प्रथ॒मो जा॒तवे॑दाः ।  
-प्रति॒ सूर्य॑स्य पुरु॒धा च॑ र॒श्मीन् प्रति॒ द्यावा॑पृथि॒वी आ त॑तान ॥५॥  
+Agni hath looked upon the spring of Mornings, looked on the days, the earliest Jatavedas. So he in countless places hath extended, full against heaven and earth, the beams of Surya.

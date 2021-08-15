@@ -2,5 +2,4 @@
 title = "१४ आचार्योऽ मृत्युर्वरुणः"
 
 +++
-आ॒चा॒र्योऽ मृ॒त्युर्वरु॑णः॒ सोम॒ ओष॑धयः॒ पयः॑ ।  
-जी॒भूता॑ आस॒न्त्सत्वा॑न॒स्तैरि॒दं स्व॑१राभृ॑तम्॥१४॥  
+The Master is Death, Varuna, Soma, the plants of earth, and milk. The thunder-clouds were men of war. By these this heavenly light was brought.

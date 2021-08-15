@@ -2,5 +2,4 @@
 title = "४२ यस्यामन्नं व्रीहियवौ"
 
 +++
-यस्या॒मन्नं॑ व्रीहिय॒वौ यस्या॑ इ॒माः पञ्च॑ कृ॒ष्टयः॑ ।  
-भूम्यै॑ प॒र्जन्य॑पत्न्यै॒ नमो॑ऽस्तु व॒र्षमे॑दसे ॥४२॥  
+On whom is food, barley and rice, to whom these Races Five belong, Homage to her, P arjanya's wife, to her whose marrow is the rain!

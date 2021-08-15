@@ -2,5 +2,4 @@
 title = "१६ विश्वामित्र जमदग्ने"
 
 +++
-विश्वा॑मित्र॒ जम॑दग्ने॒ वसि॑ष्ठ॒ भर॑द्वाज॒ गोत॑म॒ वाम॑देव ।  
-श॒र्दिर्नो॒ अत्रि॑रग्रभी॒न्नमो॑भिः॒ सुसं॑शासः॒ पित॑रो मृ॒डता॑ नः ॥१६॥  
+Vasishtha, Jamadagni, Visvamitra, Gotama, Vamadeva, Bhara- dvaja! Atri hath won your favour with homage. Gracious to us be ye praiseworthy Fathers.

@@ -2,5 +2,4 @@
 title = "०९ यदादित्यैर्हूयमानोपातिष्ठ ऋतवरि"
 
 +++
-यदा॑दि॒त्यैर्हू॒यमा॑नो॒पाति॑ष्ठ ऋतवरि ।  
-इन्द्रः॑ स॒हस्रं॒ पात्रा॒न्त्सोमं॑ त्वापाययद् वशे ॥९॥  
+When, Holy One, thou camest nigh invited by the Adityas' call, Indra gave thee to drink, O cow, a thousand bowls of Soma juice.

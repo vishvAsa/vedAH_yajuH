@@ -2,5 +2,4 @@
 title = "२३ मृत्युरीशे द्विपदां"
 
 +++
-मृ॒त्युरी॑शे द्वि॒पदां॑ मृ॒त्युरी॑शे॒ चतु॑ष्पदाम्।  
-तस्मा॒त् त्वां मृ॒त्योर्गोप॑ते॒रुद् भ॑रामि॒ स मा बि॑भेः ॥२३॥  
+Death is the lord of bipeds, Death is sovran lord of quadrupeds. Away I bear thee from that: Death the ruler: be not thou afraid.

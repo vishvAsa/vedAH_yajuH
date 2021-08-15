@@ -2,6 +2,4 @@
 title = "६० शं ते"
 
 +++
-शं ते॑ नीहा॒रो भ॑वतु॒ शं ते॑ प्रु॒ष्वाव॑ शीयताम्।  
-शीति॑के॒ शीति॑कावति॒ ह्लादि॑के॒ ह्लादि॑कावति ।  
-म॒ण्डू॒क्य॑१प्सु शं भु॑व इ॒मं स्व॑१ग्निं श॑मय ॥६०॥  
+Let the hoar-frost be sweet to thee. sweetly on thee the rain descend! O full of coolness, thou cool Plant, full of fresh moisture, fresh- ening Herb, Bless us in waters, female Frog: calm and allay this Agni here.

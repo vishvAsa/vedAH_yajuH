@@ -2,5 +2,4 @@
 title = "४० यद् रिप्रं"
 
 +++
-यद् रि॒प्रं शम॑लं चकृ॒म यच्च॑ दुष्कृ॒तम्।  
-आपो॑ मा॒ तस्मा॑च्छुम्भन्त्व॒ग्नेः संक॑सुकाच्च॒ यत्॥४०॥  
+From any evil we have done, act of impurity or sin, Let waters purge me and from all that comes from Agni Breaker-up.

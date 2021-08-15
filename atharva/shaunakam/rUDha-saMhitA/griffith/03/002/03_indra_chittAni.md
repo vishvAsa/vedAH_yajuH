@@ -2,5 +2,4 @@
 title = "०३ इन्द्र चित्तानि"
 
 +++
-इन्द्र॑ चि॒त्तानि॑ मो॒हय॑न्न॒र्वाङाकू॑त्या चर ।  
-अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान् विषू॑चो॒ वि ना॑शय ॥३॥  
+Dazing their senses, Indra, come hitherward with the wish and will. With Agni's, Vata's furious rush drive them to every side away.

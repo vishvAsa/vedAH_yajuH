@@ -2,5 +2,4 @@
 title = "५१ ये अन्ता"
 
 +++
-ये अन्ता॒ याव॑तीः॒ सिचो॒ य ओत॑वो॒ ये च॒ तन्त॑वः ।  
-वासो॒ यत् पत्नी॑भिरु॒तं तन्नः॑ स्यो॒नमुप॑ स्पृशात्॥५१॥  
+May all the hems and borders all the threads that form the web and woof. The garment woven by the bride, be soft and pleasant to our touch.

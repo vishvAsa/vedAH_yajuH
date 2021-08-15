@@ -2,4 +2,4 @@
 title = "१३ शक बलिः"
 
 +++
-शक॑ ब॒लिः ॥१३॥  
+When the horn's blast hath sounded forth let not our friend discover thee.

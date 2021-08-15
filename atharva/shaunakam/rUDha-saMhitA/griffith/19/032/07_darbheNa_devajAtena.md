@@ -2,5 +2,4 @@
 title = "०७ दर्भेण देवजातेन"
 
 +++
-द॒र्भेण॑ दे॒वजा॑तेन दि॒वि ष्ट॒म्भेन॒ शश्व॒दित्।  
-तेना॒हं शश्व॑तो॒ जनाँ॒ अस॑नं॒ सन॑वानि च ॥७॥  
+With Darbha that hath sprung from Gods, stationed in heaven, full many a time. With this have I won many men, have won and may I win them still.

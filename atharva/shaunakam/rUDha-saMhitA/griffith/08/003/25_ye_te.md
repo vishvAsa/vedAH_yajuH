@@ -2,5 +2,4 @@
 title = "२५ ये ते"
 
 +++
-ये ते॒ शृङ्गे॑ अ॒जरे॑ जातवेदस्ति॒ग्महे॑ती॒ ब्रह्म॑संशिते ।  
-ताभ्यां॑ दु॒र्हार्द॑मभि॒दास॑न्तं किमी॒दिनं॑ प्र॒त्यञ्च॑म॒र्चिषा॑ जातवेदो॒ वि नि॑क्ष्व ॥२५॥  
+Thy two unwasting horns, O Jatavedas, keen-pointed weapons, sharpened by devotion With these transfix the wicked-souled Kimidin, with fierce flame, Jatavedas! when he meets thee.

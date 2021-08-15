@@ -2,4 +2,4 @@
 title = "८२ नमो वः"
 
 +++
-नमो॑ वः पितरो॒ भामा॑य॒ नमो॑ वः पितरो म॒न्यवे॑ ॥८२॥  
+Hail Father; to your wrath! Hail, Fathers, to your ardour!

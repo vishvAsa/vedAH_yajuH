@@ -2,5 +2,4 @@
 title = "०२ अनस्थाः पूताः"
 
 +++
-अ॒न॒स्थाः पू॒ताः पव॑नेन शु॒द्धाः शुच॑यः॒ शुचि॒मपि॑ यन्ति लो॒कम्।  
-नैषां शि॒श्नं प्र द॑हति जा॒तवे॑दाः स्व॒र्गे लो॒के ब॒हु स्त्रैण॑मेषाम्॥२॥  
+Boneless, cleansed, purified by him who cleanseth, they go res- plendent to the world of splendour. Fire burneth not their organ of enjoyment: much pleasure have they in the world of Svarga.

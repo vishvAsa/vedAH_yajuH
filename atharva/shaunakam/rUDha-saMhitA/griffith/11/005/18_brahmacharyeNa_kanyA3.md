@@ -2,5 +2,4 @@
 title = "१८ ब्रह्मचर्येण कन्या३"
 
 +++
-ब्र॒ह्म॒चर्ये॑ण क॒न्या॒३ युवा॑नं विन्दते॒ पति॑म्।  
-अ॒न॒ड्वान् ब्र॑ह्म॒चर्ये॒णाश्वो॑ घा॒सं जि॑गीर्षति ॥१८॥  
+By self-restraint a maiden finds a youth to be her wedded lord. By self-restraint the ox and horse seek to win fodder for them- selves.

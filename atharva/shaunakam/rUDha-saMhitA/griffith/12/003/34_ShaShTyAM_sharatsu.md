@@ -2,5 +2,4 @@
 title = "३४ षष्ट्यां शरत्सु"
 
 +++
-ष॒ष्ट्यां श॒रत्सु॑ निधि॒पा अ॒भीच्छा॒त् स्वःऽ प॒क्वेना॒भ्यश्नवातै ।  
-उपै॑नं जीवान् पि॒तर॑श्च पु॒त्रा ए॒तं स्व॒र्गं ग॑म॒यान्त॑म॒ग्नेः ॥३४॥  
+In sixty autumns may the Treasure-Guardian seek to gain heavenly light by cooked oblation. On this may sons and fathers live dependent. Send thou this mess to Fire that leads to heaven.

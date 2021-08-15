@@ -2,5 +2,4 @@
 title = "०१ प्रान्यान्त्सपत्नान्त्सहसा सहस्व"
 
 +++
-प्रान्यान्त्स॒पत्ना॒न्त्सह॑सा॒ सह॑स्व॒ प्रत्यजा॑तान् जातवेदो नुदस्व ।  
-इ॒दं रा॒ष्ट्रं पि॑पृ॒हि सौभ॑गाय॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥१॥  
+Subdue with conquering might his other rivals, those yet unborn repel, O Jatavedas. For great felicity protect this kingdom, and in this man let all the Gods be joyful.

@@ -2,6 +2,4 @@
 title = "१७ यमबध्नाद् बृहस्पतिर्वाताय"
 
 +++
-यमब॑ध्ना॒द् बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑ ।  
-तमि॒मं दे॒वता॑ म॒णिं प्रत्य॑मुञ्चन्त शं॒भुव॑म्।  
-स आ॑भ्यो॒ विश्व॒मिद् दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥१७॥  
+The Amulet Brihaspati formed for the swiftly-moving Wind, This salutary Amulet the Deities assumed and wore. This yieldeth them the universe, again, again, from morn to morn. With this subdue thine enemies.

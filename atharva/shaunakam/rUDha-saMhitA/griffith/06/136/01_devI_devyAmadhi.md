@@ -2,5 +2,4 @@
 title = "०१ देवी देव्यामधि"
 
 +++
-दे॒वी दे॒व्यामधि॑ जा॒ता पृ॑थि॒व्याम॑स्योषधे ।  
-तां त्वा॑ नितत्नि॒ केशे॑भ्यो॒ दृंह॑णाय खनामसि ॥१॥  
+Born from the bosom of wide Earth the Goddess, godlike Plant, art thou: So we, Nitatni! dig thee up to strengthen and fix fast the hair.

@@ -2,5 +2,4 @@
 title = "१९ ब्रह्मणा शालां"
 
 +++
-ब्रह्म॑णा॒ शालां॒ निमि॑तां क॒विभि॒र्निमि॑तां मि॒ताम्।  
-इ॒न्द्रा॒ग्नी र॑क्षतां॒ शाला॑म॒मृतौ॑ सो॒म्यं सदः॑ ॥१९॥  
+May Indra, Agni, deathless Gods, protect the house where Soma dwells, House that was founded with the prayer, built and erected by the wise.

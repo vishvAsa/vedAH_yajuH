@@ -2,5 +2,4 @@
 title = "१३ शिवा नारीयमस्तमागन्निमं"
 
 +++
-शि॒वा नारी॒यमस्त॒माग॑न्नि॒मं धा॒ता लो॒कम॒स्यै दि॑देश ।  
-ताम॑र्य॒मा भगो॑ अ॒श्विनो॒भा प्र॒जाप॑तिः प्र॒जया॑ वर्धयन्तु ॥१३॥  
+She hath come home this dame come home to bless us: this her appointed world hath Dhatar shown her. So may Prajapati, and both the Asvins, Aryaman, Bhaga gladden her with offspring.

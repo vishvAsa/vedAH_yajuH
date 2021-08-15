@@ -2,5 +2,4 @@
 title = "१९ उत् तिष्ठेतः"
 
 +++
-उत् ति॑ष्ठे॒तः किमि॒च्छन्ती॒दमागा॑ अ॒हं त्वे॑डे अभि॒भूः स्वाद् गृ॒हात्।  
-शू॒न्यै॒षी नि॑रृते॒ याज॒गन्थोत्ति॑ष्ठाराते॒ प्र प॑त॒ मेह रं॑स्थाः ॥१९॥  
+Up and begone! What wish hath brought thee hither from thine own house? Thy mightier, I conjure thee. Vain is the hope, O Nirriti, that brought thee. Fly off, Malignity; stay here no longer.

@@ -2,5 +2,4 @@
 title = "०२ तथा तदग्ने"
 
 +++
-तथा॒ तद॑ग्ने कृणु जातवेदो॒ विश्वे॑भिर्दे॒वैः स॒ह सं॑विदा॒नः ।  
-यो नो॑ दि॒देव॑ यत॒मो ज॒घास॒ यथा॒ सो अ॒स्य प॑रि॒धिष्पता॑ति ॥२॥  
+Accordant with all Gods, O Jatavedas Agni, perform this work as we beseech thee, That this defence of his may fall, whoever hath caused us pain, whoever hath consumed us.

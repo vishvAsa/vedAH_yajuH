@@ -2,5 +2,4 @@
 title = "१५ यत्रामृतं च"
 
 +++
-यत्रा॒मृतं॑ च मृ॒त्युश्च॒ पुरु॒षेऽधि॑ स॒माहि॑ते ।  
-स॒मु॒द्रो यस्य॑ ना॒ड्यः॑१ पुरु॒षेऽधि॑ स॒माहि॑ताः स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥१५॥  
+Who out of many, tell me, is the Skambha. Who comprehendeth, for mankind, both immortality and death, He who containeth for mankind the gathered waters as his veins?

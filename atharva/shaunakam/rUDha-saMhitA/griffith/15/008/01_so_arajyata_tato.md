@@ -2,4 +2,4 @@
 title = "०१ सोऽरज्यत ततो"
 
 +++
-सोऽरज्यत॒ ततो॑ राज॒न्योऽजायत ॥१॥  
+He was filled with passion: from him sprang the Rajanya.

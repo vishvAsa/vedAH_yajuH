@@ -2,5 +2,4 @@
 title = "०४ प्राण प्राणं"
 
 +++
-प्राण॑ प्रा॒णं त्रा॑य॒स्वासो॒ अस॑वे मृड ।  
-निरृ॑ते॒ निरृ॑त्या नः॒ पाशे॑भ्यो मुञ्च ॥४॥  
+Preserve our breath, O Vital Breath, have mercy on our life, O Life. From snares of Nirriti do thou, O Nirriti, deliver us.

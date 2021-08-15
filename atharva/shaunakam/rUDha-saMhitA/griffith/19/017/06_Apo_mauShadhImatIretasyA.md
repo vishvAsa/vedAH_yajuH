@@ -2,5 +2,4 @@
 title = "०६ आपो मौषधीमतीरेतस्या"
 
 +++
-आपो॒ मौष॑धीमतीरे॒तस्या॑ दि॒शः पा॑न्तु॒ तासु॑ क्रमे॒ तासु॑ श्रये॒ तां पुरं॒ प्रैमि॑ ।  
-ता मा॑ रक्षन्तु॒ ता मा॑ गोपायन्तु॒ ताभ्य॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥६॥  
+May Waters joined with Plants protect me from this region. To them I go, in them I rest: this fort I seek for refuge. May they protect me, may they be my guardians. I give my soul--All hail! --into their keeping.

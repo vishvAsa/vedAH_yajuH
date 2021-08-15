@@ -2,4 +2,4 @@
 title = "०९ अर्वाञ्चं त्वा"
 
 +++
-अ॒र्वाञ्चं॑ त्वा सु॒खे रथे॒ वह॑तामिन्द्र के॒शिना॑ । घृ॒तस्नू॑ ब॒र्हिरा॒सदे॑ ॥९॥
+May long-maned courses, dropping oil, bring thee on swift car hitherward. Indra, to seat thee on the grass.

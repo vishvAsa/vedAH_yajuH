@@ -2,5 +2,4 @@
 title = "०१ नि शीर्षतो"
 
 +++
-नि शी॑र्ष॒तो नि प॑त्त॒त आ॒ध्यो॒३ नि ति॑रामि ते ।  
-देवाः प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥१॥  
+Down upon thee, from head to foot, I draw the pangs of long- ing love. Send forth the charm, ye Deities! Let him consume with love of me.

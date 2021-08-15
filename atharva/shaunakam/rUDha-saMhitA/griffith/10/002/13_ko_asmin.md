@@ -2,5 +2,4 @@
 title = "१३ को अस्मिन्"
 
 +++
-को अ॑स्मिन् प्रा॒णम॑वयत् को अ॑पा॒नं व्या॒नमु॑ ।  
-स॒मा॒नम॑स्मि॒न् को दे॒वोऽधि॑ शिश्राय॒ पुरु॑षे ॥१३॥  
+Who wove the vital air in him, who filled him with the down- ward breath? What God bestowed on Purusha the general pervading air?

@@ -2,5 +2,4 @@
 title = "०४ हिरण्ययी नौरचरद्धिरण्यबन्धना"
 
 +++
-हि॒र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
-तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥४॥  
+There moved through heaven a golden ship, a ship with cordage wrought of Gold. There the Gods won the Kushtha Plant, the blossom of eternal life.

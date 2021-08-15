@@ -2,5 +2,4 @@
 title = "०६ क्षुधामारं तृष्णामारमगोतामनपत्यताम्"
 
 +++
-क्षु॒धा॒मा॒रं तृ॑ष्णामा॒रम॒गोता॑मनप॒त्यता॑म्।  
-अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥६॥  
+Death caused by famine, caused by thirst, failure of children,. loss of kine, With thee, O Apamarga, all this ill we cleanse and wipe away.

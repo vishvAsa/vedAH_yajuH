@@ -2,5 +2,4 @@
 title = "०२ आ पप्राथ"
 
 +++
-आ प॑प्राथ महि॒ना वृष्ण्या॑ वृष॒न् विश्वा॑ शविष्ठ॒ शव॑सा ।  
-अ॒स्मां अ॑व मघव॒न् गोम॑ति व्र॒जे वज्रिं चि॒त्राभि॑रू॒तिभिः॑ ॥२॥
+Thou, Hero, hast performed thy hero needs with might, yea, all+ with strength, O Strongest One. Maghavan, help us to a stable full of kine, O Thunderer, with) wondrous aids.

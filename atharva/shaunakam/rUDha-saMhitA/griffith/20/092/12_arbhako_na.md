@@ -2,5 +2,4 @@
 title = "१२ अर्भको न"
 
 +++
-अ॒र्भ॒को न कु॑मार॒कोऽधि॑ तिष्ठ॒न्नवं॒ रथ॑म्।  
-स प॑क्षन्महि॒षं मृ॒गं पि॒त्रे मा॒त्रे वि॑भु॒क्रतु॑म्॥१२॥  
+He, yet a boy exceeding small, mounted his newly-fashioned car. He for his Mother and his Sire cooked the wild mighty buffalo.

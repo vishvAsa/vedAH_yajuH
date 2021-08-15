@@ -2,5 +2,4 @@
 title = "०५ धनं न"
 
 +++
-धनं॒ न स्प॒न्द्रं ब॑हु॒लं यो अ॑स्मै ती॒व्रान्त्सोमां॑ आसु॒नोति॒ प्रय॑स्वान्।  
-तस्मै॒ शत्रू॑न्त्सु॒तुका॑न् प्रा॒तरह्नो॒ नि स्वष्ट्रा॑न् यु॒वति॒ हन्ति॑ वृ॒त्रम्॥५॥  
+Whoso with plenteous juice for him expresses strong Somas as much quickly-coming treasure, For him he everthrows in early morning his swift well-weapon- ed foes and slays the tyrant.

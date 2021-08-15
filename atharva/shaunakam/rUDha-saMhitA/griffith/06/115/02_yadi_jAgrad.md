@@ -2,5 +2,4 @@
 title = "०२ यदि जाग्रद्"
 
 +++
-यदि॒ जाग्र॒द् यदि॒ स्वप॒न्नेन॑ एन॒स्योऽक॑रम्।  
-भू॒तं मा॒ तस्मा॒द् भव्यं॑ च द्रुप॒दादि॑व मुञ्चताम्॥२॥  
+If I, a sinner, when awake or sleeping have committed sin, Free me therefrom as from a stake, from present and from future guilt.

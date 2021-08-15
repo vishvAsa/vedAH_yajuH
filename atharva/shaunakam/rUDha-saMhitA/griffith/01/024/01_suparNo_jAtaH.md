@@ -2,5 +2,4 @@
 title = "०१ सुपर्णो जातः"
 
 +++
-सु॒प॒र्णो जा॒तः प्र॑थ॒मस्तस्य॒ त्वं पि॒त्तमा॑सिथ ।  
-तदा॑सु॒री यु॒धा जि॒ता रू॒पं च॑क्रे॒ वन॒स्पती॑न्॥१॥  
+First, before all, the strong-winged Bird was born;; thou wast the gall thereof. Conquered in fight, the Asuri took then the shape and form of plants.

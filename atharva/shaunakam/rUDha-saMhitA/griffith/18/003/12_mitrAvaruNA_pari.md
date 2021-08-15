@@ -2,5 +2,4 @@
 title = "१२ मित्रावरुणा परि"
 
 +++
-मि॒त्रावरु॑णा॒ परि॒ माम॑धातामादि॒त्या मा॒ स्वर॑वो वर्धयन्तु ।  
-वर्चो॑ म इन्द्रो॑ न्यनक्तु॒ हस्त॑योर्ज॒रद॑ष्टिं मा सवि॒ता कृ॑णोतु ॥१२॥  
+Mitra and Varuna have stood about me. Adityas, Sacirifical Posts exalt me! May Indra balm my hands with strength and splendour. A long, long life may Savitar vouchsafe me.

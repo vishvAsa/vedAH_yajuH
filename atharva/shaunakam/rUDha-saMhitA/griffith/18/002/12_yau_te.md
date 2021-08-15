@@ -2,4 +2,4 @@
 title = "१२ यौ ते"
 
 +++
-यौ ते॒ श्वानौ॑ यम रक्षि॒तारौ॑ चतुर॒क्षौ प॑थि॒षदी॑ नृ॒चक्ष॑सा । ताभ्यां॑ राज॒न् परि॑ धेह्येनं स्व॒स्त्यऽस्मा अनमी॒वं च॑ धेहि ॥१२॥  
+And those two dogs of thine, Yama, the watchers, four-eyed who look on men and guard the pathway Entrust this man, O King, to their protection, and with prosperity and health endow him.

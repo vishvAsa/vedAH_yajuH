@@ -2,5 +2,4 @@
 title = "२२ द्व्याऽस्याच्चतुरक्षात् पञ्चपदादनङ्गुरेः"
 
 +++
-द्व्याऽस्याच्चतुर॒क्षात् पञ्चपदादनङ्गु॒रेः ।  
-वृन्ता॑द॒भि प्र॒सर्प॑तः॒ परि॑ पाहि वरीवृ॒तात्॥२२॥  
+From the five-footed, fingerless, from the four-eyed, the double- faced, From the Close-creeper, from the Worm, from the Quick-roller guard her well.

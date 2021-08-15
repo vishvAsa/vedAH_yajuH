@@ -2,4 +2,4 @@
 title = "१४ ये व्रीहयो"
 
 +++
-ये व्री॒हयो॒ यवा॑ निरु॒प्यन्तें॒ऽशव॑ ए॒व ते॥१४॥  
+The grains of rice and barley that are selected are just filaments of the Soma plant.

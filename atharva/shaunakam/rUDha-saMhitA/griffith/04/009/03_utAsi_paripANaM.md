@@ -2,5 +2,4 @@
 title = "०३ उतासि परिपाणं"
 
 +++
-उ॒तासि॑ परि॒पाणं॑ यातु॒जम्भ॑नमाञ्जन ।  
-उ॒तामृत॑स्य॒ त्वं वे॒त्थाथो॑ असि जीव॒भोज॑न॒मथो॑ हरितभेष॒जम्॥३॥  
+Thou, also, Salve! art a defence that rends and crushes sorcerers. Thou knowest, too, of Amrit, thou art the delight of all who live, a jaundice-curing balm art thou.

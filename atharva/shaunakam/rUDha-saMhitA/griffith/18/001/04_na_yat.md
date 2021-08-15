@@ -2,5 +2,4 @@
 title = "०४ न यत्"
 
 +++
-न यत् पु॒रा च॑कृ॒मा कद्ध॑ नू॒नमृ॒तं वद॑न्तो॒ अनृ॑तं रपेम ।
-ग॒न्ध॒र्वो अ॒प्स्वप्या॑ च॒ योषा॒ सा नौ॒ नाभिः॑ पर॒मं जा॒मि तन्नौ॑ ॥४॥
+Shall we do now what we ne'er did aforetime? we who spoke righteously now talk impurely? Gandharva in the floods, the Dame of Waters--such is our bond, such our most lofty kinship.

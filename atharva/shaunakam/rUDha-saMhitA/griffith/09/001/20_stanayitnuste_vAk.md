@@ -2,5 +2,4 @@
 title = "२० स्तनयित्नुस्ते वाक्"
 
 +++
-स्त॒न॒यि॒त्नुस्ते॒ वाक् प्र॑जापते॒ वृषा॒ शुष्मं॑ क्षिपसि॒ भूम्यां॑ दि॒वि।  
-तां प॒शव॒ उप॑ जीवन्ति॒ सर्वे॒ तेनो॒ सेष॒मूर्जं॑ पिपर्ति ॥२०॥  
+The thunder is thy voice, O Lord of Creatures: a Bull, thou castest strength on earth and heaven. To that all cattle look for their existence: with this she nourishes their force and vigour.

@@ -2,5 +2,4 @@
 title = "०८ माता पितरमृत"
 
 +++
-मा॒ता पि॒तर॑मृ॒त आ ब॑भाज धी॒त्यग्रे॒ मन॑सा॒ सं हि ज॒ग्मे।  
-सा बी॑भ॒त्सुर्गर्भ॑रसा॒ निवि॑द्धा॒ नम॑स्वन्त॒ इदु॑पवा॒कमी॑युः ॥८॥  
+The Mother gave the Sire his share of Order. With thought at first she wedded him in spirit. She, coyly loth, was filled with dew prolific. With adoration men approached to praise her.

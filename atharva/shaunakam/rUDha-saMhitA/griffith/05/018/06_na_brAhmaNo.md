@@ -2,5 +2,4 @@
 title = "०६ न ब्राह्मणो"
 
 +++
-न ब्रा॑ह्म॒णो हिं॑सित॒व्यो॒३ऽग्निः प्रि॒यत॑नोरिव ।  
-सोमो॒ ह्यऽस्य दाया॒द इन्द्रो॑ अस्याभिशस्ति॒पाः ॥६॥  
+No Brahman must be injured, safe as fire from him who loves himself. For Soma is akin to him and Indra guards him from the curse.

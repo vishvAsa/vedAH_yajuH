@@ -2,5 +2,4 @@
 title = "०७ प्रति स्मरेथां"
 
 +++
-प्रति॑ स्मरेथां तु॒जय॑द्भि॒रेवै॑र्ह॒तं द्रु॒हो र॒क्षसो॑ भङ्गु॒राव॑तः ।  
-इन्द्रा॑सोमा दु॒ष्कृते॒ मा सु॒गं भू॒द् यो मा॑ क॒दा चि॑दभि॒दास॑ति द्रु॒हुः ॥७॥  
+In your impetuous manner think ye both thereon: destroy those evil spirits, kill the treacherous fiends. Indra and Soma, let the wicked have no bliss whoso at any time- attacks and injures us.

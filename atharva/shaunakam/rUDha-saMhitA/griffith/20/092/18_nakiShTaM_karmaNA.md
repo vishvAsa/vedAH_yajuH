@@ -2,5 +2,4 @@
 title = "१८ नकिष्टं कर्मणा"
 
 +++
-नकि॒ष्टं कर्म॑णा नश॒द् यश्च॒कार॑ स॒दावृ॑धम्।  
-इन्द्रं॒ न य॒ज्ञैर्वि॒श्वगू॑र्त॒मृभ्व॑स॒मधृ॑ष्टं धृ॒ष्ण्वोऽजसम्॥१८॥  
+No one by deed attains to him who works and strengthens evermore: No, not by sacrifice, to Indra praised of all, resistless, daring, bold in might;

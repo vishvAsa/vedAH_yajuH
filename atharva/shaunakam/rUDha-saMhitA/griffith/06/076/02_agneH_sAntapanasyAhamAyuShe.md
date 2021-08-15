@@ -2,5 +2,4 @@
 title = "०२ अग्नेः सान्तपनस्याहमायुषे"
 
 +++
-अ॒ग्नेः सा॑न्तप॒नस्या॒हमायु॑षे प॒दमा र॑भे ।  
-अ॒द्धा॒तिर्यस्य॒ पश्य॑ति धू॒ममु॒द्यन्त॑मास्य॒तः ॥२॥  
+For length of life I use the name of Agni the Consuming God, Whose smoke the sage who knows the truth beholds proceeding. from his mouth.

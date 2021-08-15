@@ -2,5 +2,4 @@
 title = "०४ घोरा ऋषयो"
 
 +++
-घो॒रा ऋष॑यो॒ नमो॑ अस्त्वेभ्य॒श्चक्षु॒र्यदे॑षां॒ मन॑सश्च स॒त्यम्।  
-बृह॒स्पत॑ये महिष द्यु॒मन्नमो॒ विश्व॑कर्म॒न् नम॑स्ते पा॒ह्य॑१स्मा॑न्॥४॥  
+Awful are Rishis: unto them be homage, and to their eye and truthfulness of spirit! Loud homage to Brihaspati, O mighty! Homage to thee, O Visvakarman! Guard us.

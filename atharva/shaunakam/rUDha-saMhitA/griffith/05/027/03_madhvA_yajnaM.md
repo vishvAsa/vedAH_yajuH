@@ -2,4 +2,4 @@
 title = "०३ मध्वा यज्ञं"
 
 +++
-मध्वा॑ य॒ज्ञं न॑क्षति प्रैणा॒नो नरा॒शंसो॑ अ॒ग्निः सु॒कृद् दे॒वः स॑वि॒ता वि॒श्ववा॑रः ॥३॥  
+With store of mead to sacrifice comes Agni, comes Narasansa Agni, friendly-minded, comes Savitar, righteous God who brings all blessings.

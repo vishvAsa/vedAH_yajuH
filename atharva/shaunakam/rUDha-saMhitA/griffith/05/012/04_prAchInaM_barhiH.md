@@ -2,5 +2,4 @@
 title = "०४ प्राचीनं बर्हिः"
 
 +++
-प्रा॒चीनं॑ ब॒र्हिः प्र॒दिशा॑ पृथि॒व्या वस्तो॑र॒स्या वृ॑ज्यते॒ अग्रे॒ अह्ना॑म्।  
-व्युऽप्रथते वित॒रं वरी॑यो दे॒वेभ्यो॒ अदि॑तये स्यो॒नम्॥४॥  
+By rule the Sacred Grass is scattered eastward, a robe to clothe this earth when dawns are breaking. Widely it spreads around and far extended, fair for the Gods and bringing peace and freedom,

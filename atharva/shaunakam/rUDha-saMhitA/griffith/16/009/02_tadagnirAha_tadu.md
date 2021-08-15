@@ -2,4 +2,4 @@
 title = "०२ तदग्निराह तदु"
 
 +++
-तद॒ग्निरा॑ह॒ तदु॒ सोम॑ आह पू॒षा मा॑ धात् सुकृ॒तस्य॑ लो॒के॥२॥  
+This word hath Agni, this hath Soma spoken. May Pushan set me in the world of virtue.

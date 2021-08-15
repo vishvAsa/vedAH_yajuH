@@ -2,4 +2,4 @@
 title = "०९ पृदाकवः ९"
 
 +++
-पृदा॑कवः ॥९॥  
+Three adders, breathing angrily, are blowing loud the threatening horn. (with next verse)

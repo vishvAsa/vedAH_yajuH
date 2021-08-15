@@ -2,4 +2,4 @@
 title = "०५ अतो वै"
 
 +++
-अतो॒ वै बृह॒स्पति॑मे॒व ब्रह्म॒ प्रावि॑श॒दिन्द्रं॑ क्ष॒त्रम् ॥५॥  
+Hence Priesthood entered into Brihaspati and Royalty into Indra.

@@ -2,5 +2,4 @@
 title = "०३ हिमस्य त्वा"
 
 +++
-हि॒मस्य॑ त्वा ज॒रायु॑णा॒ शाले॒ परि॑ व्ययामसि ।  
-शी॒तह्र॑दा॒ हि नो॒ भुवो॒ऽग्निष्कृ॑णोतु भेष॒जम्॥३॥
+O House, we compass thee about with coolness to envelop thee. Cool as a lake be thou to us. Let Agni bring us healing balm!

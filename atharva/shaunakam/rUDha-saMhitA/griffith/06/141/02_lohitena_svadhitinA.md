@@ -2,5 +2,4 @@
 title = "०२ लोहितेन स्वधितिना"
 
 +++
-लोहि॑तेन॒ स्वधि॑तिना मिथु॒नं कर्ण॑योः कृधि ।  
-अक॑र्ताम॒श्विना॒ लक्ष्म॒ तद॑स्तु प्र॒जया॑ ब॒हु॥२॥  
+Take thou the iron axe and make a pair by marks upon their ears. This sign the Asvins have impressed: let these increase and multiply.

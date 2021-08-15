@@ -2,4 +2,4 @@
 title = "०१ इन्द्रो दधीचो"
 
 +++
-इन्द्रो॑ दधी॒चो अ॒स्थभि॑र्वृ॒त्राण्यप्र॑तिष्कुतः । ज॒घान॑ नव॒तीर्नव॑ ॥१॥  
+With bones of Dadhyach for his arms, Indra, resistless in attack, Struck nine-and-ninety Vritras dead,

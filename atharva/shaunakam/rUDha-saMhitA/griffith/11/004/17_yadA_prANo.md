@@ -2,5 +2,4 @@
 title = "१७ यदा प्राणो"
 
 +++
-य॒दा प्रा॒णो अ॒भ्यव॑र्षीद् व॒र्षेण॑ पृथि॒वीं म॒हीम्।  
-ओष॑धयः॒ प्र जा॑य॒न्तेऽथो॒ याः काश्च॑ वी॒रुधः॑ ॥१७॥  
+When Prana hath poured down his flood of rain upon the mighty earth, The plants are wakened into life, and every herd that grows on ground.

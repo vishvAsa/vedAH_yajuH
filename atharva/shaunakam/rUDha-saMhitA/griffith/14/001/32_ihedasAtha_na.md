@@ -2,5 +2,4 @@
 title = "३२ इहेदसाथ न"
 
 +++
-इ॒हेद॑साथ॒ न प॒रो ग॑माथे॒मं गा॑वः प्र॒जया॑ वर्धयाथ ।  
-शुभं॑ यतीरु॒स्रियाः॒ सोम॑वर्चसो॒ विश्वे॑ दे॒वाः क्रन्नि॒ह वो॒ मनां॑सि ॥३२॥  
+Remain ye even here and go no farther: strengthen this man, ye Cows, with plenteous offspring. May Dawns that come for glory, bright with Soma, here may all Gods fix and enchant your spirits.

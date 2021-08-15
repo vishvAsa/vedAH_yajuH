@@ -2,5 +2,4 @@
 title = "०१ वि हि"
 
 +++
-वि हि सोतो॒रसृ॑क्षत॒ नेन्द्रं॑ दे॒वम॑मंसत ।  
-यत्राम॑दद् वृ॒षाक॑पिर॒र्यः पु॒ष्टेषु॒ मत्स॑खा॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥१॥  
+Men have abstained from pouring juice; nor counted Indra as a God. Where at the votary's store my friend Vrishakapi hath drunk his fill. Supreme is Indra over all.

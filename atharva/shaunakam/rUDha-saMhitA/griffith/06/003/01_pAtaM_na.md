@@ -2,5 +2,4 @@
 title = "०१ पातं न"
 
 +++
-पा॒तं न॑ इन्द्रापूष॒णादि॑तिः॒ पान्तु॑ म॒रुतः॑ ।  
-अपां॑ नपात् सिन्धवः स॒प्त पा॑तन॒ पातु॑ नो॒ विष्णु॑रु॒त द्यौः ॥१॥  
+Guard us the Maruts! Guard us well, O Indra, Piishan, Aditi. Guard us, O Waters' Child, and Rivers Seven. May Vishnu guard us, and the Sky.

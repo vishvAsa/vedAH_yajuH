@@ -2,5 +2,4 @@
 title = "३९ पुत्रं पौत्रमभितर्पयन्तीरापो"
 
 +++
-पु॒त्रं पौत्र॑मभित॒र्पय॑न्ती॒रापो॒ मधु॑मतीरि॒माः ।  
-स्व॒धां पि॒तृभ्यो॑ अ॒मृतं॒ दुहा॑ना॒ आपो॑ दे॒वीरु॒भयां॑स्तर्पयन्तु ॥३९॥  
+Giving the son and grandson satisfaction, let these the present Waters full of sweetness, Pouring forth food and Amrit for the Fathers, refresh both these and those, the Goddess Waters.

@@ -2,5 +2,4 @@
 title = "०७ स सुत्रामा"
 
 +++
-स सु॒त्रामा॒ स्ववाँ॒ इन्द्रो॑ अ॒स्मदा॒राच्चि॒द् द्वेषः॑ सनु॒तर्यु॑योतु ।  
-तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञिय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥७॥
+May we enjoy his favour, his the holy: may we enjoy his blessed loving-kindness. May this rich Indra, as our good protector, drive off and keep afar all those who hate us.

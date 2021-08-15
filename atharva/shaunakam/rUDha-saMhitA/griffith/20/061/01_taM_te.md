@@ -2,4 +2,4 @@
 title = "०१ तं ते"
 
 +++
-तं ते॒ मदं॑ गृणीमसि॒ वृष॑णं पृ॒त्सु सा॑स॒हिम्। उ॒ लो॒क॒कृ॒त्नुम॑द्रिवो हरि॒श्रिय॑म्॥१॥  
+We sing this strong and wild delight of thine which conquers in the fray, Which, Caster of the Stone, gives room and shine like gold.

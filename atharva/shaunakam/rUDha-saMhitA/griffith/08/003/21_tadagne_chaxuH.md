@@ -2,5 +2,4 @@
 title = "२१ तदग्ने चक्षुः"
 
 +++
-तद॑ग्ने॒ चक्षुः॒ प्रति॑ धेहि रे॒भे श॑फा॒रुजो॒ येन॒ पश्य॑सि यातु॒धाना॑न्।  
-अ॒थ॒र्व॒वज्ज्योति॑षा॒ दैव्ये॑न स॒त्यं धूर्व॑न्तम॒चितं॒ न्योऽष ॥२१॥  
+Lend thou the worshipper that eye, O Agni, where with thou lookest on the hoof-armed demons. With light celestial in Atharvan's manner burn up the fool who ruins truth with falsehood.

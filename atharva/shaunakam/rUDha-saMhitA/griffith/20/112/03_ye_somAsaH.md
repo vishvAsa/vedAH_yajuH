@@ -2,4 +2,4 @@
 title = "०३ ये सोमासः"
 
 +++
-ये सोमा॑सः परा॒वति॒ ये अ॑र्वा॒वति॑ सुन्वि॒रे। सर्वां॒स्तां इ॑न्द्र गच्छसि ॥३॥
+Thou, Indra, goest unto all Soma libations shed for thee, Both far away and near at hand.

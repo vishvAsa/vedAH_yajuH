@@ -2,5 +2,4 @@
 title = "०१ विषाणा पाशान्"
 
 +++
-वि॒षाणा॒ पाशा॒न् वि ष्याध्य॒स्मद् य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये।  
-दु॒ष्वप्न्यं॑ दुरि॒तं नि ष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम्॥१॥  
+Spreading them out, untie the snares that hold us, Varuna's bonds, the upper and the lower. Drive from us evil dream, drive off misfortune; then let us go in- to the world of virtue.

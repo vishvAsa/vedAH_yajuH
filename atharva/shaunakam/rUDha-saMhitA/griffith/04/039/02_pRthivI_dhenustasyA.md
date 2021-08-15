@@ -2,6 +2,4 @@
 title = "०२ पृथिवी धेनुस्तस्या"
 
 +++
-पृ॒थि॒वी धे॒नुस्तस्या॑ अ॒ग्निर्व॒त्सः ।  
-सा मे॒ऽग्निना॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
-आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥२॥  
+Earth is the Cow, her calf is Agni. May she with her calf Agni yield me food, strength, all my wish, life first of all, and off- spring, plenty, wealth. All Hail!

@@ -2,5 +2,4 @@
 title = "१५ अयं पन्थाः"
 
 +++
-अ॒यं पन्थाः॑ कृ॒त्येति॑ त्वा नयामोऽभि॒प्रहि॑तां॒ प्रति॑ त्वा॒ प्र हि॑ण्मः ।  
-तेना॒भि या॑हि भञ्ज॒त्यन॑स्वतीव वा॒हिनी॑ वि॒श्वरू॑पा कुरू॒टिनी॑ ॥१५॥  
+This, Kritya, is thy path, we say, and guide thee. We drive thee back who hast been sent against us. Go by this pathway, breaking loose for onslaught even as a host complete with cars and horses.

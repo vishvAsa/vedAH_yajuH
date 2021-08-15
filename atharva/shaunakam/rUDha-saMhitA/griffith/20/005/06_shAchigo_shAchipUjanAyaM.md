@@ -2,4 +2,4 @@
 title = "०६ शाचिगो शाचिपूजनायं"
 
 +++
-शाचि॑गो॒ शाचि॑पूजना॒यं रणा॑य ते सु॒तः। आख॑ण्डल॒ प्र हू॑यसे ॥६॥  
+Famed for thy radiance, worshipped well! this juice is shed for thy delight: Thou art invoked, Akhandala!

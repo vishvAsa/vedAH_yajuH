@@ -2,5 +2,4 @@
 title = "०१ यो नः"
 
 +++
-यो नः॒ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्।  
-वृ॒क्ष इ॑व वि॒द्युता॑ ह॒त आ मूला॒दनु॑ शुष्यतु ॥१॥
+Like a tree struck by lightning may the man be withered from the root. Who curseth us who curse not him, or, when we curse him. curseth us.

@@ -2,5 +2,4 @@
 title = "२९ बण्महां असि"
 
 +++
-बण्म॒हां अ॑सि सूर्य॒ बडा॑दित्य म॒हां अ॑सि ।  
-म॒हांस्ते॑ मह॒तो म॑हि॒मा त्वमा॑दित्य म॒हां अ॑सि ॥२९॥  
+Verily, Surya, thou art great: truly, Aditya, thou art great. Great is thy grandeur, Mighty One: thou, O Aditya, thou art great.

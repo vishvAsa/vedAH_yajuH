@@ -2,5 +2,4 @@
 title = "०७ इदं विद्वानाञ्जन"
 
 +++
-इ॒दं वि॒द्वाना॑ञ्जन स॒त्यं व॑क्ष्यामि॒ नानृ॑तम्।  
-स॒नेय॒मश्वं॒ गाम॒हमा॒त्मानं॒ तव॒ पूरुष ॥७॥  
+I, knowing this, O Salve, will speak the very truth and not a lie: May I obtain both horse and ox, may I obtain thy life, O man.

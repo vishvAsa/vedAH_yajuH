@@ -2,5 +2,4 @@
 title = "०३ अभि तिष्ठामि"
 
 +++
-अ॒भि ति॑ष्ठामि ते म॒न्युं पार्ष्ण्या॒ प्रप॑देन च ।  
-यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥३॥
+I trample on thine anger thus, I tread it down with heel and toe: So dost thou yield thee to my will, to speak no more rebelliously.

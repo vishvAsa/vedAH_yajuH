@@ -2,5 +2,4 @@
 title = "०४ यददो देवा"
 
 +++
-यद॒दो दे॒वा असु॑रां॒स्त्वयाग्रे॑ नि॒रकु॑र्वत ।  
-तत॒स्त्वमध्यो॑षधेऽपामा॒र्गो अ॑जायथाः ॥४॥  
+As once when time began the Gods with thee expelled the Asuras, Even thence, O Plant, wast thou produced as one who wipes and sweeps away.

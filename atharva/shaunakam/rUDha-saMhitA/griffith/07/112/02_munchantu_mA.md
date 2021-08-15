@@ -2,5 +2,4 @@
 title = "०२ मुञ्चन्तु मा"
 
 +++
-मु॒ञ्चन्तु॑ मा शप॒थ्या॒३दथो॑ वरु॒ण्याऽदु॒त।  
-अथो॑ य॒मस्य॒ पड्वी॑शा॒द् विश्व॑स्माद् देवकिल्बि॒षात्॥२॥
+Release me from the curse's bond and plague that comes from Varuna; Free me from Yama's fetter and from every sin against the Gods.

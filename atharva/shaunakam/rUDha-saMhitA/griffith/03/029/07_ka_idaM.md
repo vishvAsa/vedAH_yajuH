@@ -2,6 +2,4 @@
 title = "०७ क इदं"
 
 +++
-क इ॒दं कस्मा॑ अदा॒त् कामः॒ कामा॑यादात्।  
-कामो॑ दा॒ता कामः॑ प्रतिग्रही॒ता कामः॑ समु॒द्रमा वि॑वेश ।  
-कामे॑न त्वा॒ प्रति॑ गृह्णामि॒ कामै॒तत् ते॑ ॥७॥  
+Whose gift was this, and given to whom? Kama to Kama gave the gift. Kama is giver, Kama is receiver. Kama has passed into the sea. Through Kama do I take thee to myself. O Kama, this is thine.

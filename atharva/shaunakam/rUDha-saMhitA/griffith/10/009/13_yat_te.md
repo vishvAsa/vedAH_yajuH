@@ -2,5 +2,4 @@
 title = "१३ यत् ते"
 
 +++
-यत् ते॒ शिरो॒ यत् ते॒ मुखं॒ यौ कर्णौ॒ ये च॑ ते॒ हनू॑ ।  
-आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥१३॥  
+Let thy head, let thy mouth, let both thine ears, and those two jaws of thine. Pour for the giver mingled curd, and flowing butter, milk, and mead.

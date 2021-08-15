@@ -2,5 +2,4 @@
 title = "०३ त्रयः पोषास्त्रिवृति"
 
 +++
-त्रयः॒ पोषा॑स्त्रि॒वृति॑ श्रयन्ताम॒नक्तु॑ पू॒षा पय॑सा घृ॒तेन॑ ।  
-अन्न॑स्य भू॒मा पुरु॑षस्य भू॒मा भू॒मा प॑शू॒नां त इ॒ह श्र॑यन्ताम्॥३॥  
+In three-threaded Charm rest triple fulness! Let Pushan cover it with milk and butter. Here rest abundant store of food and people, may ample store of cattle rest within it.

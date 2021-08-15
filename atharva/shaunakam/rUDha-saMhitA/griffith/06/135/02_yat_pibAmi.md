@@ -2,5 +2,4 @@
 title = "०२ यत् पिबामि"
 
 +++
-यत् पिबा॑मि॒ सं पि॑बामि समु॒द्र इ॑व संपि॒बः ।  
-प्रा॒णान॒मुष्य॑ सं॒पाय॒ सं पि॑बामो अ॒मुं व॒यम्॥२॥  
+I drink together what I drink, even as the sea that swallows all. Drinking the life-breath of that man, we drink that man and swallow him.

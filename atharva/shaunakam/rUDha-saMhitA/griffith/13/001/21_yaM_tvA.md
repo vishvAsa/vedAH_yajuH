@@ -2,4 +2,4 @@
 title = "२१ यं त्वा"
 
 +++
-यं त्वा॒ पृष॑ती॒ रथे॒ प्रष्टि॒र्वह॑ति रोहित । शु॒भा या॑सि रि॒णन्न॒पः ॥२१॥  
+Rohita, car-borne by a speckled leader, thou, pouring water,. goest on in triumph.

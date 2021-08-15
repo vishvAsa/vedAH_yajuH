@@ -2,5 +2,4 @@
 title = "०८ ये दिशामन्तर्देशेभ्यो"
 
 +++
-ये दि॒शाम॑न्तर्दे॒शेभ्यो॒ जुह्व॑ति जातवेदः सर्वा॑भ्यो दि॒ग्भ्योऽभि॒दास॑न्त्य॒स्मान्।  
-ब्रह्म॒र्त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥८॥
+Those from all points assail us, Jatavedas, who sacrifice from intermediate regions. For wronging Prayer let them be turned and troubled, I smite them backward with mine incantation.

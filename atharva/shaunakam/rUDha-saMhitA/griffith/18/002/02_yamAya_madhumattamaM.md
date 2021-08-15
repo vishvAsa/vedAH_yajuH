@@ -2,5 +2,4 @@
 title = "०२ यमाय मधुमत्तमं"
 
 +++
-य॒माय॒ मधु॑मत्तमं जु॒होता॒ प्र च॑ तिष्ठत ।  
-इ॒दं नम॒ ऋषि॑भ्यः पूर्व॒जेभ्यः॒ पूर्वे॑भ्यः पथि॒कृद्भ्यः॑ ॥२॥  
+Offer to Yama sacrifice most sweet in savour and draw near. Bow down before the Rishis of the olden time, the ancient ones who made the path.

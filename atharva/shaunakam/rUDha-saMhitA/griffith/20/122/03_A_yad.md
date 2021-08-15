@@ -2,4 +2,4 @@
 title = "०३ आ यद्"
 
 +++
-आ यद् दुवः॑ शतक्रत॒वा कामं॑ जरितॄ॒णाम्। ऋ॒णोरक्षं॒ न शची॑भिः ॥३॥
+That, Satakratu, thou to grace and please thy praisers, as it were, Stirrest the axle with thy strength.

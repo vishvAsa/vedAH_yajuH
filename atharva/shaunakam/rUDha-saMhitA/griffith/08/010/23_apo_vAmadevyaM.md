@@ -2,4 +2,4 @@
 title = "२३ अपो वामदेव्यं"
 
 +++
-अ॒पो वा॑मदे॒व्यं य॒ज्ञं य॑ज्ञाय॒ज्ञियं॒ य ए॒वं वेद॑ ॥१०॥(१७)  
+She mounted up, she came unto the Fathers. The Fathers called. to her, O Food, come hither. King Yama was her calf, her pail was silvern. Antaka, Mrityu's. son, milked her, this Svadha. This Food the Fathers make their lives' sustainer. He who* knows this becomes a meet supporter.

@@ -2,5 +2,4 @@
 title = "०१ पुमान् पुंसः"
 
 +++
-पुमा॑न् पुंसः परि॑जातोऽश्व॒त्थः ख॑दि॒रादधि॑ ।  
-स ह॑न्तु॒ शत्रू॑न् माम॒कान् यान॒हं द्वेष्मि॒ ये च॒ माम्॥१॥  
+Masculine springs from masculine, Asvattha grows from Kha- dira, May it destroy mine enemies, who hate me and whom I detest.

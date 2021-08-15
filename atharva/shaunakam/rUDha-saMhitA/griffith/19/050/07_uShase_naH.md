@@ -2,5 +2,4 @@
 title = "०७ उषसे नः"
 
 +++
-उ॒षसे॑ नः॒ परि॑ देहि॒ सर्वा॒न् रात्र्य॑ना॒गसः॑ ।  
-उ॒षा नो॒ अह्ने॒ आ भ॑जा॒दह॒स्तुभ्यं॑ विभावरि ॥७॥
+Do thou entrust us to the Dawn, all of us free from sin, O Night. May Dawn deliver us to Day, and Day to thee, O glorious One.

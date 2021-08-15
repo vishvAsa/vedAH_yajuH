@@ -2,5 +2,4 @@
 title = "१० यद् दुर्भगां"
 
 +++
-यद् दु॒र्भगां॒ प्रस्न॑पितां मृ॒तव॑त्सामुपेयि॒म।  
-अपै॑तु॒ सर्वं॒ मत् पा॒पं द्रवि॑णं॒ मोप॑ तिष्ठतु ॥१०॥  
+When we have found her ducked and drenched, a hapless cow whose calf hath died, Let all my woe depart and let abundant riches come to me.

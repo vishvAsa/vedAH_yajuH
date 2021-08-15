@@ -2,5 +2,4 @@
 title = "४२ सरस्वतीं पितरो"
 
 +++
-सर॑स्वतीं पि॒तरो॑ हवन्ते दक्षि॒णा य॒ज्ञम॑भि॒नक्ष॑माणाः ।
-आ॒सद्या॒स्मिन् ब॒र्हिषि॑ मादयध्वमनमी॒वा इष॒ आ धे॑ह्य॒स्मे॥४२॥
+Sarasvati is called on by the Fathers who come right forward to our solemn worship. Seated upon this sacred grass rejoice you. Give thou us strengthening food that brings no sickness.

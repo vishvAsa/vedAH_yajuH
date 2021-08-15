@@ -2,5 +2,4 @@
 title = "०२ ततं तन्तुमन्वेके"
 
 +++
-त॒तं तन्तु॒मन्वेके॑ तरन्ति॒ येषां॑ द॒त्तं पित्र्य॒माय॑नेन ।  
-अ॒ब॒न्ध्वेके॒ दद॑तः प्र॒यच्छ॑न्तो॒ दातुं॒ चेच्छिक्षा॒न्त्स स्व॒र्ग ए॒व॥२॥  
+This long-drawn thread some follow who have offered in order- ed course oblation to the Fathers: Some, offering and giving to the friendless, if they can give: herein they find their heaven. 3, Stand on my side and range yourselves in order, ye two! The faithful reach this world of Svarga. When your dressed food hath been bestowed on Agni, to guard it, wife and husband, come together!

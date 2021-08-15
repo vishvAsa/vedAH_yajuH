@@ -2,5 +2,7 @@
 title = "०१ एकया च"
 
 +++
-एक॑या च द॒शभि॑श्चा सुहुते॒ द्वाभ्या॑मि॒ष्टये॑ विंश॒त्या च॑ ।  
-ति॒सृभि॑श्च॒ वह॑से त्रिं॒शता॑ च वि॒युग्भि॑र्वाय इ॒ह ता वि मु॑ञ्च ॥१॥
+id
+7.4.1    With thine eleven teams, to aid our wishes, ye...
+7.4.1    With thine eleven teams, to aid our wishes, ye...
+Name: Comment, dtype: object

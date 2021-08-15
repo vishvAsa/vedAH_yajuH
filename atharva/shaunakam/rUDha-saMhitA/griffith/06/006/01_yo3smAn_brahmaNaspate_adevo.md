@@ -2,5 +2,4 @@
 title = "०१ यो३स्मान् ब्रह्मणस्पतेऽदेवो"
 
 +++
-यो॒३स्मा॑न् ब्र॑ह्मणस्प॒तेऽदे॑वो अभि॒मन्य॑ते ।  
-सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते॑॥१॥  
+The godless man whoever plots against us, Brahmanaspati, Thou shalt give up as prey to me the worshipper who pour the juice.

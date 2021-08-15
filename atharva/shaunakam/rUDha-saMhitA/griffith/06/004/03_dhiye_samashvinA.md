@@ -2,5 +2,4 @@
 title = "०३ धिये समश्विना"
 
 +++
-धि॒ये सम॑श्विना॒ प्राव॑तं न उरु॒ष्या ण॑ उरुज्म॒न्नप्र॑युछन्।  
-द्यौ॒३ष्पित॑र्या॒वय॑ दु॒च्छुना॒ या॥३॥
+May both the Asvins further our devotion. With ceaseless care deliver us, Wide-Ranger! O Father Heaven, keep from us all misfortunes.

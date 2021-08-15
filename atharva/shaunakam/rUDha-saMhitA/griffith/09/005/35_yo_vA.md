@@ -2,8 +2,4 @@
 title = "३५ यो वा"
 
 +++
-यो वा उ॒द्यन्तं॒ नाम॒र्तुं वेद॑ ।  
-उ॒द्य॒तीमु॑द्यतीमे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रिय॒मा द॑त्ते ।  
-ए॒ष वा उ॒द्यन्न्नाम॒र्तुर्यद॒जः पञ्चौ॑दनः ।  
-निरे॒वाप्रि॑यस्य॒ भ्रातृ॑व्यस्य॒ श्रियं॑ दहति॒ भव॑त्या॒त्मना॑।  
-यो॒३जं पञ्चौ॑दनं॒ दक्षि॑णाज्योतिषं ददा॑ति ॥३५॥  
+The man who knows the season called the Rising takes to him- self the rising fame, his hated rival's rising fame. The Goat Panchaudana in this Rising season.

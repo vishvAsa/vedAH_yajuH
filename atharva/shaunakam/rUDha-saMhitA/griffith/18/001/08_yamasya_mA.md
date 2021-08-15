@@ -2,5 +2,4 @@
 title = "०८ यमस्य मा"
 
 +++
-य॒मस्य॑ मा य॒म्यं॑ काम॒ आग॑न्त्समा॒ने योनौ॑ सह॒शेय्या॑य ।
-जा॒येव॒ पत्ये॑ त॒न्वं रिरिच्यां॒ वि चि॑द् वृहेव॒ रथ्ये॑व च॒क्रा॥८॥
+Yami am possessed by love of Yama, that I may rest on the same couch beside him. I as a wife would yield me to my husband. Like car-wheels let us speed to meet each other.

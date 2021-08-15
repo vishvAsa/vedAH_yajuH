@@ -2,5 +2,4 @@
 title = "४९ देवा वशां"
 
 +++
-दे॒वा व॒शां पर्य॑वद॒न् न नो॑ऽदा॒दिति॑ हीडि॒ताः ।  
-ए॒ताभि॑रृ॒ग्भिर्भे॒दं तस्मा॒द् वै स परा॑भवत्॥४९॥  
+He gave her not to us, so spake the Gods, in anger, of the Cow. With these same verses they addressed Bheda: this brought him to his death.

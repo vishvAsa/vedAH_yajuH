@@ -2,5 +2,4 @@
 title = "२१ तं धाता"
 
 +++
-तं धा॒ता प्रत्य॑मुञ्चत॒ स भू॒तं व्यऽकल्पयत्।  
-तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥२१॥  
+Dhatar bound on this Amulet: he ranged and ordered all that is. With this do thou subdue thy foes.

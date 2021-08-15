@@ -2,5 +2,4 @@
 title = "०९ यदस्याः पल्पूलनं"
 
 +++
-यद॑स्याः॒ पल्पू॑लनं॒ शकृ॑द् दा॒सी स॒मस्य॑ति ।  
-ततोऽप॑रूपं जायते॒ तस्मा॒दव्ये॑ष्य॒देन॑सः ॥९॥  
+What time the Dasi woman throws lye on the droppings of the Cow, Misshapen birth arises thence, inseparable from that sin.

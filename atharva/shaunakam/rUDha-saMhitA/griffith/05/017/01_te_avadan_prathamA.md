@@ -2,5 +2,4 @@
 title = "०१ तेऽवदन् प्रथमा"
 
 +++
-तेऽवदन् प्रथ॒मा ब्र॑ह्मकिल्बि॒षेऽकू॑पारः सलि॒लो मा॑त॒रिश्वा॑ ।  
-वी॒डुह॑रा॒स्तप॑ उ॒ग्रं म॑यो॒भूरापो॑ दे॒वीः प्र॑थम॒जा ऋ॒तस्य॑ ॥१॥  
+These first, the boundless Sea, and Matarisvan, fierce glowing Fire, the Strong, the Bliss-bestower, And heavenly Floods, first-born by holy Order, exclaimed against the outrage on a Brahman.

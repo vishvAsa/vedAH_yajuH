@@ -2,5 +2,4 @@
 title = "०१ अयं ते"
 
 +++
-अ॒यं ते॒ योनि॑रृ॒त्वियो॒ यतो॑ जा॒तो अरो॑चथाः ।  
-तं जा॒नन्न॑ग्न॒ आ रो॒हाधा॑ नो बर्धय र॒यिम्॥१॥  
+This is thine ordered place of birth whence sprung to life thou shinest forth. Knowing this, Agni, mount on high and cause our riches to increase.

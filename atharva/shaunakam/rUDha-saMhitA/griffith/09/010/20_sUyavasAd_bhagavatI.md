@@ -2,5 +2,4 @@
 title = "२० सूयवसाद् भगवती"
 
 +++
-सू॒य॒व॒साद् भग॑वती॒ हि भू॒या अधा॑ व॒यं भग॑वन्तः स्याम ।  
-अ॒द्धि तृण॑मघ्न्ये विश्व॒दानीं॒ पिब॑ शु॒द्धमु॑द॒कमा॒चर॑न्ती ॥२०॥  
+Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealthy. Feed on the grass, O Cow, through all the seasons, and coming hitherward drink limpid water.

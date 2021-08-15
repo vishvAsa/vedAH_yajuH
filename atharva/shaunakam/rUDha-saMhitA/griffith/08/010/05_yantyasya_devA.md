@@ -2,4 +2,4 @@
 title = "०५ यन्त्यस्य देवा"
 
 +++
-यन्त्य॑स्य दे॒वा दे॒वहू॑तिं प्रि॒यो दे॒वानां॑ भवति॒ य ए॒वं वेद॑ ॥५॥  
+She mounted up, she entered the Assembly. He who knows this becomes polite and courtly, and people come as guests to his assembly.

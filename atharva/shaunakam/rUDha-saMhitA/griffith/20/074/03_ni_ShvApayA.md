@@ -2,5 +2,4 @@
 title = "०३ नि ष्वापया"
 
 +++
-नि ष्वा॑पया मिथू॒दृशा॑ स॒स्तामबु॑ध्यमाने ।  
-आ तू न॑ इन्द्र शंसय॒ गोष्वश्वे॑षु शु॒भ्रिषु॑ स॒हस्रे॑षु तुवीमघ ॥३॥  
+Lull thou asleep, to wake no more, the pair who on each other look: Do thou, O Indra, give us hope of beauteous horses and of kine, In thousands, O most wealthy One.

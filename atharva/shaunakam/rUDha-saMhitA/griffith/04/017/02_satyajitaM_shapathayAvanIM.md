@@ -2,5 +2,4 @@
 title = "०२ सत्यजितं शपथयावनीं"
 
 +++
-स॒त्य॒जितं॑ शपथ॒याव॑नीं॒ सह॑मानां पुनःस॒राम्।  
-सर्वाः॒ सम॒ह्व्योष॑धीरि॒तो नः॑ पारया॒दिति॑ ॥२॥  
+Still conquering, banishing the curse, mighty, with thy reverted. bloom. Thee and all Plants have I invoked: Hence let it save us! was my prayer.

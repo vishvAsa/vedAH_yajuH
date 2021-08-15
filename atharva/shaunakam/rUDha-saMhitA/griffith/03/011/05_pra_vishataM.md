@@ -2,5 +2,4 @@
 title = "०५ प्र विशतं"
 
 +++
-प्र वि॑शतं प्राणापानावन॒ड्वाहा॑विव व्र॒जम्।  
-व्य॑१न्ये य॑न्तु मृ॒त्यवो॒ याना॒हुरित॑रान् छ॒तम्॥५॥  
+Breath, Respiration, come to him, as two car-oxen to their stall! Let all the other deaths, whereof men count a hundred, pass away.

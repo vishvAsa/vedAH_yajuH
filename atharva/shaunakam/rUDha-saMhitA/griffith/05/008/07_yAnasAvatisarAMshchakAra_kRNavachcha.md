@@ -2,5 +2,4 @@
 title = "०७ यानसावतिसरांश्चकार कृणवच्च"
 
 +++
-यान॒साव॑तिस॒रांश्च॒कार॑ कृ॒णव॑च्च॒ यान्।  
-त्वं तानि॑न्द्र वृत्रहन् प्र॒तीचः॒ पुन॒रा कृ॑धि॒ यथा॒मुं तृ॒णहां॒ जन॑म्॥७॥  
+Exertions which that man hath made, Exertions which he yet will make Turn them, O Indra, back again, O Vritra-slayer, back again on him that they may kill that man.

@@ -2,5 +2,4 @@
 title = "०३ यो अन्धो"
 
 +++
-यो अ॒न्धो यः पु॑नःस॒रो भगो॑ वृ॒क्षेष्वाहि॑तः ।  
-तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः ॥३॥
+Blind fortune, with reverted leaves that is deposited in trees-- Give me therewith a happy fate. Fly and begone, Malignities.

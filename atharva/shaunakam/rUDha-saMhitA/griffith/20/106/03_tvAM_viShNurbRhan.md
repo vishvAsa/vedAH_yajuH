@@ -2,4 +2,4 @@
 title = "०३ त्वां विष्णुर्बृहन्"
 
 +++
-त्वां विष्णु॑र्बृ॒हन् क्षयो॑ मि॒त्रो गृ॑णाति॒ वरु॑णः । त्वां शर्धो॑ मद॒त्यनु॒ मारु॑तम्॥३॥
+Vishnu, the lofty Ruling Power, Varuna, Mitra sing thy praise: In thee the Maruts' company hath great delight.

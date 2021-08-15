@@ -2,5 +2,4 @@
 title = "०९ तं वृक्षा"
 
 +++
-तं वृ॒क्षा अप॑ सेधन्ति छा॒यां नो॒ मोप॑गा॒ इति॑ ।  
-यो ब्रा॑ह्म॒णस्य॒ सद् धन॑म॒भि ना॑रद॒ मन्य॑ते ॥९॥  
+The very trees repel the man, and drive him from their sheltering shade, Whoever claims, O Narada, the treasure that a Brahman owns.

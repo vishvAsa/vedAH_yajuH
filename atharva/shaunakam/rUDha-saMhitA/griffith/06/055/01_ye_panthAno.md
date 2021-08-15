@@ -2,5 +2,4 @@
 title = "०१ ये पन्थानो"
 
 +++
-ये पन्था॑नो ब॒हवो॑ देव॒याना॑ अन्त॒रा द्यावा॑पृथि॒वी सं॒चर॑न्ति ।  
-तेषा॒मज्या॑निं यत॒मो वहा॑ति॒ तस्मै॑ मा देवाः॒ परि॑ धत्ते॒ह सर्वे॑ ॥१॥  
+Of all the many God-frequented pathways that traverse realms between the earth and heaven, Consign me, all ye Gods to that which leadeth to perfect and inviolable safety.

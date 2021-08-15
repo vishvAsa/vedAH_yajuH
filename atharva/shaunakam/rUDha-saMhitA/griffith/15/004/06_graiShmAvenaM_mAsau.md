@@ -2,4 +2,4 @@
 title = "०६ ग्रैष्मावेनं मासौ"
 
 +++
-ग्रैष्मा॑वेनं॒ मासौ॒ दक्षि॑णाया दि॒शो गो॑पायतो यज्ञाय॒ज्ञियं॑ च वामदे॒व्यं चानु॑ तिष्ठतो॒ य ए॒वं वेद॑ ॥६॥  
+They made the two Dewy months his protectors from the region of the zenith, and Heaven and the Adityas superintendents. The two Dewy months, etc.

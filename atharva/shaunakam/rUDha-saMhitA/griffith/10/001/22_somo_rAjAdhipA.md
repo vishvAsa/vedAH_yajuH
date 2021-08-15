@@ -2,4 +2,4 @@
 title = "२२ सोमो राजाधिपा"
 
 +++
-सोमो॒ राजा॑धि॒पा मृ॑डि॒ता च॑ भू॒तस्य॑ नः॒ पत॑यो मृडयन्तु ॥२२॥  
+May Soma, gracious friend, imperial Sovran, and the world's Masters look on us with favour.

@@ -2,5 +2,4 @@
 title = "०६ हिरण्यवर्णे सुभगे"
 
 +++
-हिर॑ण्यवर्णे॒ सुभ॑गे॒ सूर्य॑वर्णे॒ वपु॑ष्टमे ।  
-रु॒तं ग॑छासि निष्कृते॒ निष्कृ॑ति॒र्नाम॒ वा अ॑सि ॥६॥  
+Gold-coloured, bringing happy fate, most lovely, brilliant as the Sun, Mayst thou, O Healing! come unto the fracture: Healing is thy name.

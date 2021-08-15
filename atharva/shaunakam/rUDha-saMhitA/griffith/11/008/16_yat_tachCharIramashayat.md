@@ -2,5 +2,4 @@
 title = "१६ यत् तच्छरीरमशयत्"
 
 +++
-यत् तच्छरी॑र॒मश॑यत् सं॒धया॒ संहि॑तं म॒हत्।  
-येने॒दम॒द्य रोच॑ते॒ को अ॑स्मि॒न् वर्ण॒माभ॑रत्॥१६॥  
+What time the might body lay firmly compact with tie and bond, Who gave its colour to the form, the hue wherewith it shines to-day?

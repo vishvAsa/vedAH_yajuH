@@ -2,5 +2,4 @@
 title = "०१ भगेन मा"
 
 +++
-भगे॑न मा शांश॒पेन॑ सा॒कमिन्द्रे॑ण मे॒दिना॑ ।  
-कृ॒णोमि॑ भ॒गिनं॒ माप॑ द्रा॒न्त्वरा॑तयः ॥१॥  
+With fortune of the Sisu tree--with Indra as my friend to aid I give myself a happy fate. Fly and begone, Malignities!

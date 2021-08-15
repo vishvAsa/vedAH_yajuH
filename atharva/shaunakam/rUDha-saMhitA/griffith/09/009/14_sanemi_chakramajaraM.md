@@ -2,5 +2,4 @@
 title = "१४ सनेमि चक्रमजरं"
 
 +++
-सने॑मि च॒क्रम॒जरं॒ वि वा॑वृत उत्ता॒नायां॒ दश॑ यु॒क्ता व॑हन्ति ।  
-सूर्य॑स्य॒ चक्षू॒ रज॑सै॒त्यावृ॑तं॒ यस्मि॑न्नात॒स्थुर्भुव॑नानि॒ विश्वा॑ ॥१४॥  
+The wheel revolves, unwasting, with its felly: ten draw it, yoked to the far-stretching car-pole. Girt by the region moves the eye of Surya, on whom dependent rest all living creatures.

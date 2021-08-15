@@ -2,5 +2,4 @@
 title = "०३ अपकामं स्यन्दमाना"
 
 +++
-अ॒प॒का॒मं स्यन्द॑माना॒ अवी॑वरत वो॒ हि क॑म्।  
-इन्द्रो॑ वः॒ शक्ति॑भिर्देवी॒स्तस्मा॒द् वार्नाम॑ वो हि॒तम्॥३॥  
+Indra restrained you with his might. Goddesses, as ye glided on Not in accordance with his will: hence have ye got the name of Streams.

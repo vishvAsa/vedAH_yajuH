@@ -2,5 +2,4 @@
 title = "०२ यद् वो"
 
 +++
-यद् वो॑ दे॒वा उ॑पजीका॒ आसि॑ञ्च॒न् धन्व॑न्युद॒कम्।  
-तेन॑ दे॒वप्र॑सूतेने॒दं दू॑षयता वि॒षम्॥२॥  
+That water, Upajikas! which Gods poured for you on thirsty land, With that same water sent by Gods, drive ye away this poison here.

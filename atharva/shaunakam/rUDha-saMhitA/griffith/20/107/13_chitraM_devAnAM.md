@@ -2,5 +2,4 @@
 title = "१३ चित्रं देवानां"
 
 +++
-चि॒त्रं दे॒वानां॑ के॒तुरनी॑कं॒ ज्योति॑ष्मान् प्र॒दिशः॒ सूर्य॑ उ॒द्यन्।  
-दि॒वा॒क॒रोऽति॑ द्यु॒म्नैस्तमां॑सि॒ विश्वा॑तारीद् दुरि॒तानि॑ शु॒क्रः ॥१३॥  
+Bright, Presence of the Gods, the luminous herald, Siirya hath mounted the celestial regions. Day's maker, he hath shone away the darkness, and radiant passed o'er places hard to traverse.

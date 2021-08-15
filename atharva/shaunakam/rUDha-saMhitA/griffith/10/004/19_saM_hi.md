@@ -2,4 +2,4 @@
 title = "१९ सं हि"
 
 +++
-सं हि शी॒र्षाण्यग्र॑भं पौञ्जि॒ष्ठ इ॑व॒ कर्व॑रम्। सिन्धो॒र्मध्यं॑ प॒रेत्य॒ व्यऽनिज॒महे॑र्वि॒षम्॥१९॥  
+Their heads have I seized firmly as a fisher grasps the spotted prey, Waded half through the stream and washed the poison of the serpents off.

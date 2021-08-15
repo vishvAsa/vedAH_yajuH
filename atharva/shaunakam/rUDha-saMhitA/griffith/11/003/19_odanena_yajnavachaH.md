@@ -2,4 +2,4 @@
 title = "१९ ओदनेन यज्ञवचः"
 
 +++
-ओ॒द॒नेन॑ यज्ञव॒चः सर्वे॑ लो॒काः स॑मा॒प्याः ॥१९॥  
+The sacrificial word, all worlds are to be won with Odana.

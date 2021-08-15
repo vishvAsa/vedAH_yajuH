@@ -2,5 +2,4 @@
 title = "०३ यं परिहस्तमबिभरदितिः"
 
 +++
-यं प॑रिह॒स्तमबि॑भ॒रदि॑तिः पुत्रका॒म्या।  
-त्वष्टा॒ तम॑स्या॒ आ ब॑ध्ना॒द् यथा॑ पु॒त्रं जना॒दिति॑॥३॥
+The Amulet which Aditi wore when desirous of a son, Tvashtar hath bound upon this dame and said, Be mother of a boy.

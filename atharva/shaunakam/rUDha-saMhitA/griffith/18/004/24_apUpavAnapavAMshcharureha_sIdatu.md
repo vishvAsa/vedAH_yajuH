@@ -2,5 +2,4 @@
 title = "२४ अपूपवानपवांश्चरुरेह सीदतु"
 
 +++
-अ॒पू॒पवा॒नप॑वांश्च॒रुरेह सी॑दतु ।  
-लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥२४॥  
+Here, mixt with cake and water rest the Charu! World-makers, makers of the path, we worship those Gods of you who here partake oblations.

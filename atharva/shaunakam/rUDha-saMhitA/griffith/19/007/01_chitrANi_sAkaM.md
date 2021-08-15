@@ -2,5 +2,4 @@
 title = "०१ चित्राणि साकं"
 
 +++
-चि॒त्राणि॑ सा॒कं दि॒वि रो॑च॒नानि॑ सरीसृ॒पाणि॒ भुव॑ने ज॒वानि॑ ।  
-तु॒र्मिशं॑ सुम॒तिमि॒च्छमा॑नो॒ अहा॑नि गी॒र्भिः स॑प॒र्यामि॒ नाक॑म्॥१॥  
+The brilliant lights shining in heaven together, which through the world glide on with rapid motion. And Days, and Firmament with songs I worship, seeking the Twenty-eight-fold for its favour.

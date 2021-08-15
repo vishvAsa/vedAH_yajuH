@@ -2,5 +2,4 @@
 title = "०१ अग्ने जातान्"
 
 +++
-अग्ने॑ जा॒तान् प्र णु॑दा मे स॒पत्ना॒न् प्रत्यजा॑तान् जातवेदो नुदस्व ।  
-अ॒ध॒स्प॒दं कृ॑णुष्व॒ ये पृ॑त॒न्यवोऽना॑गस॒स्ते व॒यमदि॑तये स्याम ॥१॥
+Agni, drive off my rivals born and living, repel those yet unborn, O Jatavedas. Cast down beneath my feet mine adversaries. In Aditi's regard may we be sinless.

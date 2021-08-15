@@ -2,4 +2,4 @@
 title = "०९ यदुपरिशयनमाहरन्ति स्वर्गमेव"
 
 +++
-यदु॑परिशय॒नमा॒हर॑न्ति स्व॒र्गमे॒व तेन॑ लो॒कमव॑ रुन्द्धे ॥९॥  
+With the couch that the men bring, he wins for himself the world of Svarga.

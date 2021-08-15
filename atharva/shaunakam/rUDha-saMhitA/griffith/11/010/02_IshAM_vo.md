@@ -2,6 +2,4 @@
 title = "०२ ईशां वो"
 
 +++
-ई॒शां वो॑ वेद॒ राज्यं॒ त्रिषं॑धे अरु॒णैः के॒तुभिः॑ स॒ह।  
-ये अ॒न्तरि॑क्षे॒ ये दि॒वि पृ॑थि॒व्यां ये च॑ मान॒वाः।  
-त्रिषं॑धे॒स्ते चेत॑सि दु॒र्णामा॑न॒ उपा॑सताम्॥२॥  
+Let those who bear an evil name, in air, in heaven on earth, and men, After Trishandhi's will, revere your power, the sway that Know- ledge gives, together with your ruddy flags.

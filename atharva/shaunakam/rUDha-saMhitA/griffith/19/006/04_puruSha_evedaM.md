@@ -2,5 +2,4 @@
 title = "०४ पुरुष एवेदं"
 
 +++
-पुरु॑ष ए॒वेदं सर्वं॒ यद् भू॒तं यच्च॑ भा॒व्यम्।  
-उ॒तामृ॑त॒त्वस्ये॑श्व॒रो यद॒न्येनाभ॑वत् स॒ह॥४॥  
+Purusha is in truth this All, what hath been and what yet shall; be Lord, too, of immortality--and what hath grown with some- what else.

@@ -2,4 +2,4 @@
 title = "०७ तस्य व्रात्यस्य"
 
 +++
-तस्य॒ व्रात्य॑स्य ।योऽस्य पञ्च॒मः प्रा॒णो योनि॒र्नाम॒ ता इ॒मा आपः॑ ॥७॥  
+His fifth vital breath, called Source, are these Waters.

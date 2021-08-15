@@ -2,4 +2,4 @@
 title = "१० अरिप्रा आपो"
 
 +++
-अ॒रि॒प्रा आपो॑ अप॑ रि॒प्रम॒स्मत्॥१०॥  
+May stainless waters cleanse us from defilement.

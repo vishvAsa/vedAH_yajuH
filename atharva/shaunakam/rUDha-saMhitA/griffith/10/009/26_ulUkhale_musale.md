@@ -2,5 +2,4 @@
 title = "२६ उलूखले मुसले"
 
 +++
-उ॒लूख॑ले॒ मुस॑ले॒ यश्च॒ चर्म॑णि यो वा॒ शूर्पे॑ तण्डु॒लः कणः॑ ।  
-यं वा॒ वातो॑ मात॒रिश्वा॒ पव॑मानो म॒माथा॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥२६॥  
+Each grain of rice in mortar or on pestle, all on the skin or in the winnowing-basket, Whatever purifying Matarisvan, the Wind, hath sifted, let the Hotar Agni make of it an acceptable oblation.

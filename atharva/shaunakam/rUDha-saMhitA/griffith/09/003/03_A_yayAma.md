@@ -2,5 +2,4 @@
 title = "०३ आ ययाम"
 
 +++
-आ य॑याम॒ सं ब॑बर्ह ग्र॒न्थींश्च॑कार ते दृ॒ढान्।  
-परूं॑षि वि॒द्वांछस्ते॒वेन्द्रे॑ण॒ वि चृ॑तामसि ॥३॥  
+He drew them close, he pressed them fast, he made thy knotted. bands secure: With Indra's help we loose them as a skilful Slaughterer severs joints.

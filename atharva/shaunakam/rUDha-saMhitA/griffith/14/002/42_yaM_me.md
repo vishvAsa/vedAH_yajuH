@@ -2,5 +2,4 @@
 title = "४२ यं मे"
 
 +++
-यं मे॑ द॒त्तो ब्र॑ह्मभा॒गं व॑धू॒योर्वाधू॑यं॒ वासो॑ व॒ध्वऽश्च॒ वस्त्र॑म्।  
-यु॒वं ब्र॒ह्मणे॑ऽनुमन्य॑मानौ॒ बृह॑स्पते सा॒कमिन्द्र॑श्च द॒त्तम्॥४२॥  
+The priestly meed wherewith ye twain present me, the vesture of the bride, the nuptial garment, This do ye both, Brihaspati and Indra, bestow with loving-kind- ness on the Brahman.

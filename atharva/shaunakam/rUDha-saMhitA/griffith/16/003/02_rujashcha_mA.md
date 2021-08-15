@@ -2,4 +2,4 @@
 title = "०२ रुजश्च मा"
 
 +++
-रु॒जश्च॑ मा वे॒नश्च॒ मा हा॑सिष्टां मू॒र्धा च॑ मा॒ विध॑र्मा च॒ मा हा॑सिष्टाम्॥२॥  
+Let not Ruja and Vena desert me. Let not the Head and the Preserver forsake me.

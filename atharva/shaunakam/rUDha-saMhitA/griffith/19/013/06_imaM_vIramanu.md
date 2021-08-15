@@ -2,5 +2,4 @@
 title = "०६ इमं वीरमनु"
 
 +++
-इ॒मं वी॒रमनु॑ हर्षध्वमु॒ग्रमिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम्।  
-ग्रा॒म॒जितं॑ गो॒जितं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ॥६॥  
+Troop-vanquisher, kine-winner, armed with thunder, who quells an army and with might destroys it, Follow him, comrades! quit yourselves like heroes, and like this Indra show your zeal and courage.

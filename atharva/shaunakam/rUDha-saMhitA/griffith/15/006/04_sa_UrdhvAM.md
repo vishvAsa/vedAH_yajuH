@@ -2,4 +2,4 @@
 title = "०४ स ऊर्ध्वां"
 
 +++
-स ऊ॒र्ध्वां दिश॒मनु॒ व्यऽचलत्॥४॥  
+He went away to the great region. Itihasa and Purana and Gathas and Narasansis followed him. He who, etc.

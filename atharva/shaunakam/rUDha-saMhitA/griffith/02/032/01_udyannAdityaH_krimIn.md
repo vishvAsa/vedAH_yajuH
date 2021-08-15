@@ -2,5 +2,4 @@
 title = "०१ उद्यन्नादित्यः क्रिमीन्"
 
 +++
-उ॒द्यन्ना॑दि॒त्यः क्रिमी॑न् हन्तु नि॒म्रोच॑न् हन्तु र॒श्मिभिः॑ ।  
-ये अ॒न्तः क्रिम॑यो॒ गवि॑ ॥१॥  
+Uprising let the Sun destroy, and when he sinketh, with his beams. The Worms that live within the cow.

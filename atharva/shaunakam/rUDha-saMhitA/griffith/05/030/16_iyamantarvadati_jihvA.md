@@ -2,5 +2,4 @@
 title = "१६ इयमन्तर्वदति जिह्वा"
 
 +++
-इ॒यम॒न्तर्व॒दति जि॒ह्वा ब॒द्धा प॑निष्प॒दा।  
-त्वया॒ यक्ष्मं॒ निर॑वोचं श॒तं रोपी॑श्च त॒क्मनः॑ ॥१६॥  
+Tied, tremulously moving, here the tongue is speaking in the mouth. With thee I charmed Decline away and Fever's hundred ago- nies.

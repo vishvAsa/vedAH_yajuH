@@ -2,5 +2,4 @@
 title = "२२ अष्टाचक्रं वर्तत"
 
 +++
-अ॒ष्टाच॑क्रं वर्तत॒ एक॑नेमि स॒हस्रा॑क्षरं॒ प्र पु॒रो नि प॒श्चा।  
-अ॒र्धेन॒ विश्वं॒ भुव॑नं ज॒जान॒ यद॑स्या॒र्धं क॑त॒मः स के॒तुः ॥२२॥  
+It rolleth on, eight-wheeled and single-fellied, and with a thousand eyes, forward and backward. With one half it engendered all creation. What sign is there to tell us of the other?

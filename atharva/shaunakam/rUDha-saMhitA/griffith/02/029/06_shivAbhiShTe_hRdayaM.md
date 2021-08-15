@@ -2,5 +2,4 @@
 title = "०६ शिवाभिष्टे हृदयं"
 
 +++
-शि॒वाभि॑ष्टे॒ हृद॑यं तर्पयाम्यनमी॒वो मो॑दिषीष्ठाः सु॒वर्चाः॑ ।  
-स॒वा॒सिनौ॑ पिबतां म॒न्थमे॒तम॒श्विनो॑ रू॒पं प॑रि॒धाय॑ मा॒याम्॥६॥  
+With health-bestowing drops thine heart I comfort: all-bright again, and undiseased, enjoy them. Drest in like robes let these two drink the mixture, wearing the Asvins' form as an illusion.

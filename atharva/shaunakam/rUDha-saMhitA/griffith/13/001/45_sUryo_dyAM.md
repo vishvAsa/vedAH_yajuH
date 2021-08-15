@@ -2,5 +2,4 @@
 title = "४५ सूर्यो द्यां"
 
 +++
-सूर्यो॒ द्यां सूर्यः॑ पृथि॒वीं सूर्य॒ आपोऽति॑ पश्यति ।  
-सूर्यो॑ भू॒तस्यैकं॒ चक्षु॒रा रु॑रोह॒ दिवं॑ म॒हीम्॥४५॥  
+Beyond the sky, beyond the Earth looks Surya, and beyond the floods. The single eye of all that is; to mighty heaven hath he arisen.

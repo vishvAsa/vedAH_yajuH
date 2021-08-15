@@ -2,5 +2,4 @@
 title = "०४ अश्मवर्म मेऽसि"
 
 +++
-अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मोदी॑च्या दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
-ए॒तत् स ऋ॑च्छात् ॥४॥  
+Thou art my wall of stone against the sinner who fights against me from northern quarter. May he encounter it!

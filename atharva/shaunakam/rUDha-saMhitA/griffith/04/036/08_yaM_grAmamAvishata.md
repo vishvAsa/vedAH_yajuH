@@ -2,5 +2,4 @@
 title = "०८ यं ग्राममाविशत"
 
 +++
-यं ग्राम॑मावि॒शत॑ इ॒दमु॒ग्रं सहो॒ मम॑ ।  
-पि॒शा॒चास्तस्मा॑न्नश्यन्ति॒ न पा॒पमुप॑ जानते ॥८॥  
+Into whatever village this mine awful power penetrates, Thence the Pisachas flee away, and plot no further mischief there.

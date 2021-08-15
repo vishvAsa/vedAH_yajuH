@@ -2,5 +2,4 @@
 title = "२५ प्राणापानौ चक्षुः"
 
 +++
-प्रा॒णा॒पा॒नौ चक्षुः॒ श्रोत्र॒मक्षि॑तिश्च॒ क्षिति॑श्च॒ या।  
-उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥२५॥  
+Inbreath and outbreath, eye and ear, decay and freedom from decay, All the celestial Gods whose home is heaven sprang from the Residue.

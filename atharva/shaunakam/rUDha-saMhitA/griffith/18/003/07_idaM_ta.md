@@ -2,5 +2,4 @@
 title = "०७ इदं त"
 
 +++
-इ॒दं त॒ एकं॑ प॒र ऊ॑ त॒ एकं॑ तृ॒तीये॑न॒ ज्योति॑षा॒ सं वि॑शस्व ।  
-सं॒वेश॑ने त॒न्वा॒३ चारु॑रेधि प्रि॒यो दे॒वानां॑ पर॒मे स॒धस्थे॑ ॥७॥  
+Here is one light for thee, another yonder: enter the third and be therewith united. Uniting with a body be thou lovely, dear to the Gods in their sublimest mansion.

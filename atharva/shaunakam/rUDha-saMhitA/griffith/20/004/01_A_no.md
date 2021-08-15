@@ -2,4 +2,4 @@
 title = "०१ आ नो"
 
 +++
-आ नो॑ याहि सु॒ताव॑तो॒ऽस्माकं॑ सुष्टु॒तीरुप॑ । पिबा॒ सु शि॑प्रि॒न्नन्ध॑सः ॥१॥  
+Come unto us who poured the juice, come hither to our eulogies. Drink of the juice, O fair of face.

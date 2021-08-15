@@ -2,5 +2,4 @@
 title = "२९ द्यावा ह"
 
 +++
-द्यावा॑ ह॒ क्षामा॑ प्रथ॒मे ऋ॒तेना॑भिश्रा॒वे भ॑वतः सत्य॒वाचा॑ ।
-दे॒वो यन्मर्ता॑न् य॒जथा॑य कृ॒ण्वन्त्सीद॒द्धोता॑ प्र॒त्यङ् स्वमसुं॒ यन्॥२९॥
+Heaven and Earth, first by everlasting Order, speakers of truth, are near enough to hear us, When the God, urging men to worship, sitteth as Priest, assum- ing all his vital vigour.

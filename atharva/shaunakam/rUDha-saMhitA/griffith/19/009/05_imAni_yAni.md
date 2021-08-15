@@ -2,5 +2,4 @@
 title = "०५ इमानि यानि"
 
 +++
-इ॒मानि॒ यानि॒ पञ्चे॑न्द्रि॒याणि॒ मनः॑षष्ठानि मे हृ॒दि ब्रह्म॑णा॒ संशि॑तानि ।  
-यैरे॒व स॑सृ॒जे घो॒रं तैरे॒व शान्ति॑रस्तु नः॥५॥  
+These five sense-organs with the mind as sixth, sharpened by Prayer, abiding in my heart, By which the awful spell was made, even by these be peace to us.

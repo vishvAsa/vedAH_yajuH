@@ -2,5 +2,4 @@
 title = "०१ अस्तेव सु"
 
 +++
-अस्ते॑व॒ सु प्र॑त॒रं लाय॒मस्य॒न् भूष॑न्निव॒ प्र भ॑रा॒ स्तोम॑मस्मै ।  
-वा॒चा वि॑प्रास्तरत॒ वाच॑म॒र्यो नि रा॑मय जरितः॒ सोम॒ इन्द्र॑म्॥१॥  
+Even as an archer shoots afar his arrow, offer the laud to him with meet adornment. Quell with your voice the wicked's voice, O sages, Singer, make Indra rest beside the Soma.

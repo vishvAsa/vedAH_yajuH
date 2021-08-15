@@ -2,5 +2,4 @@
 title = "०२ जवस्ते अर्वन्"
 
 +++
-ज॒वस्ते॑ अर्व॒न् निहि॑तो॒ गुहा॒ यः श्ये॒ने वात॑ उ॒त योऽच॑र॒त् परी॑त्तः ।  
-तेन॒ त्वं वा॑जि॒न् बल॑वा॒न् बले॑ना॒जिं ज॑य॒ सम॑ने पारयि॒ष्णुः ॥२॥  
+That speed, that lies concealed in thee, O Charger, speed granted to the hawk or wind that wandered, Therewith, Strong Steed, saving in shock of battle endowed with might by might win thou the contest.

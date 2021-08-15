@@ -2,5 +2,4 @@
 title = "२७ या पूर्वं"
 
 +++
-या पूर्वं॒ पतिं॑ वि॒त्त्वाथा॒न्यं वि॒न्दतेऽप॑रम्।  
-पञ्चौ॑दनं च॒ ताव॒जं ददा॑तो॒ न वि यो॑षतः ॥२७॥  
+When she who hath been wedded finds a second husband after- ward, The twain shall not be parted if they give the Goat Panchaud- ana.

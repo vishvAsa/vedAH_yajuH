@@ -2,4 +2,4 @@
 title = "०४ मायाभिरुत्सिसृप्सत इन्द्र"
 
 +++
-मा॒याभि॑रु॒त्सिसृ॑प्सत॒ इन्द्र॒ द्यामा॒रुरु॑क्षतः । अव॒ दस्यूं॑रधूनुथाः ॥४॥  
+The Dasyus, when they fain would climb by magic arts and mount to heaven, Thou, Indra, castest down to earth.

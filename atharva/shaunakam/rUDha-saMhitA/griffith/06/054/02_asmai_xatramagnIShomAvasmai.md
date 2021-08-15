@@ -2,5 +2,4 @@
 title = "०२ अस्मै क्षत्रमग्नीषोमावस्मै"
 
 +++
-अ॒स्मै क्ष॒त्रम॑ग्नीषोमाव॒स्मै धा॑रयतं र॒यिम्।  
-इ॒मं रा॒ष्ट्रस्या॑भीव॒र्गे कृ॑णु॒तं यु॒ज उत्त॑रम्॥२॥  
+Confirm the princely power in him, Agni and Soma! grant him wealth. In all the circuit of his rule make him yet higher for your friend.

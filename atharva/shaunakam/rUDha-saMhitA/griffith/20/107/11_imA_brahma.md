@@ -2,5 +2,4 @@
 title = "११ इमा ब्रह्म"
 
 +++
-इ॒मा ब्रह्म॑ बृ॒हद्दि॑वः कृणव॒दिन्द्रा॑य शू॒षम॑ग्नि॒यः स्व॒र्षाः ।  
-म॒हो गो॒त्रस्य॑ क्षयति स्व॒राजा॒ तुर॑श्चि॒द् विश्व॑मर्णव॒त् तप॑स्वान्॥११॥  
+Brihaddiva, the foremost of light-winners, repeasts these holy prayers, this strength to Indra. He rules the great self-luminous fold of cattle, and all the doors of light hath he thrown open.

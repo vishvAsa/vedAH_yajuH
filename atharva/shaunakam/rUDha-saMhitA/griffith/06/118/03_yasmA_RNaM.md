@@ -2,5 +2,4 @@
 title = "०३ यस्मा ऋणं"
 
 +++
-यस्मा॑ ऋ॒णं यस्य॑ जा॒यामु॒पैमि॒ यं याच॑मानो अ॒भ्यैमि॑ देवाः ।  
-ते वाचं॑ वादिषु॒र्मोत्त॑रां॒ मद्देव॑पत्नी॒ अप्स॑रसा॒वधी॑तम्॥३॥
+My creditor, the man whose wife I visit, he, Gods! whom I approach with supplication, Let not these men dominate me in speaking. Mind this, ye two Apsarases, Gods' Consorts!

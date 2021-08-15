@@ -2,5 +2,4 @@
 title = "०४ यदन्तरं तद्"
 
 +++
-यदन्त॑रं॒ तद् बाह्यं॒ यद् बाह्यं॒ तदन्त॑रम्।  
-क॒न्याऽनां वि॒श्वरू॑पाणां॒ मनो॑ गृभायौषधे ॥४॥  
+Let what is inward turn outside, let what is outward be within: Seize and possess, O Plant, the mind of maidens rich in every charm.

@@ -2,5 +2,4 @@
 title = "५५ यथा यमाय"
 
 +++
-यथा॑ य॒माय॑ ह॒र्म्यमव॑प॒न् पञ्च॑ मान॒वाः ।  
-ए॒वा व॑पामि ह॒र्म्यं यथा॑ मे॒ भूर॒योऽस॑त ॥५५॥  
+As the Five Races of mankind for Yama set apart a house. Even so I set a house apart that greater numbers may be mine.

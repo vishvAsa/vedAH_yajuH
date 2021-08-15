@@ -2,5 +2,4 @@
 title = "०७ मा ते"
 
 +++
-मा ते॒ मन॒स्तत्र॑ गा॒न्मा ति॒रो भू॒न्मा जी॒वेभ्यः॒ प्र म॑दो॒ मानु॑ गाः पि॒तॄन्।  
-विश्वे॑ दे॒वा अ॒भि र॑क्षन्तु त्वे॒ह॥७॥  
+Let not thy soul go thither, nor be lost to us: slight not the living, go not where the Fathers are. Let all the Gods retain thee here in safety.

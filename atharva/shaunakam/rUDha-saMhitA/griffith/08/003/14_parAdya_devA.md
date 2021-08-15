@@ -2,5 +2,4 @@
 title = "१४ पराद्य देवा"
 
 +++
-परा॒द्य दे॒वा वृ॑जि॒नं शृ॑णन्तु प्र॒त्यगे॑नं श॒पथा॑ यन्तु सृ॒ष्टाः ।  
-वा॒चास्ते॑नं॒ शर॑व ऋच्छन्तु॒ मर्म॒न् विश्व॑स्यैतु॒ प्रसि॑तिं यातु॒धानः॑ ॥१४॥  
+May Gods destroy to-day the evil-doer: may uttered curses turn again and strike him. Let arrows pierce the liar in his vitals, and Visva's net enclose the Yatudhana.

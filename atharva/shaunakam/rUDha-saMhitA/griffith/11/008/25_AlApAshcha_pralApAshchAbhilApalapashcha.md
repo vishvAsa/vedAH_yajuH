@@ -2,5 +2,4 @@
 title = "२५ आलापाश्च प्रलापाश्चाभिलापलपश्च"
 
 +++
-आ॒ला॒पाश्च॑ प्रला॒पाश्चा॑भिलाप॒लप॑श्च॒ ये।  
-शरी॑रं॒ सर्वे॒ प्रावि॑शन्ना॒युजः॑ प्र॒युजो॒ युजः॑ ॥२५॥  
+Discourse and conversation, and the shrill-resounding cries of woe, All entered in, the motives and the purposes combined there- with.

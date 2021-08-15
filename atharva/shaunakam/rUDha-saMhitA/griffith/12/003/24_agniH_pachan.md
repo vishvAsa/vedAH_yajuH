@@ -2,5 +2,4 @@
 title = "२४ अग्निः पचन्"
 
 +++
-अ॒ग्निः पच॑न् रक्षतु त्वा पु॒रस्ता॒दिन्द्रो॑ रक्षतु दक्षिण॒तो म॒रुत्वा॑न्।  
-वरु॑णस्त्वा दृंहाद्ध॒रुणे॑ प्र॒तीच्या॑ उत्त॒रात् त्वा॒ सोमः॒ सं द॑दातै ॥२४॥  
+Eastward may Agni as he cooks preserve thee. Southward may Indra, grit by Maruts, guard thee, Varuna strengthen and support thee westward, and Soma on the north hold thee together.

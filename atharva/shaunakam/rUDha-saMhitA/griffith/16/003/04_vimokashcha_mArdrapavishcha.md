@@ -2,4 +2,4 @@
 title = "०४ विमोकश्च मार्द्रपविश्च"
 
 +++
-वि॒मो॒कश्च॑ मा॒र्द्रप॑विश्च॒ मा हा॑सिष्टामा॒र्द्रदा॑नुश्च मा मात॒रिश्वा॑ च॒ मा हा॑सिष्टाम्॥४॥  
+Let not Unyoking and the Moist-fellied car desert me: let not the Sender of Moisture and Matarisvan forsake me.

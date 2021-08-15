@@ -2,5 +2,4 @@
 title = "०२ सं राजानो"
 
 +++
-सं राजा॑नो अगुः॒ समृ॒णाम्य॑गुः॒ सं कु॒ष्ठा अ॑गुः॒ सं क॒ला अ॑गुः ।  
-सम॒स्मासु॒ यद् दु॒ष्वप्न्यं॒ निर्द्वि॑ष॒ते दु॒ष्वप्न्यं॑ सुवाम ॥२॥  
+Princes came together, debts came together, Kushthas came to- gether, Sixteenths came together. The whole evil dream that hath visited us we send away as a bad dream to the man who hates us.

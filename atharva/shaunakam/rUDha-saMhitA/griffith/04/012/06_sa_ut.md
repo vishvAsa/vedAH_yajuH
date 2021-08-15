@@ -2,5 +2,4 @@
 title = "०६ स उत्"
 
 +++
-स उत् ति॑ष्ठ॒ प्रेहि॒ प्र द्र॑व॒ रथः॑ सुच॒क्रः सु॑प॒विः सु॒नाभिः॑।  
-प्रति॑ तिष्ठो॒र्ध्वः ॥६॥  
+Arise, advance, speed forth; the car hath goodly fellies, naves, and wheels!! Stand up erect upon thy feet.

@@ -2,5 +2,4 @@
 title = "१४ प्राणेनाग्ने चक्षुषा"
 
 +++
-प्रा॒णेना॑ग्ने चक्षु॑षा॒ सं सृ॑जे॒मं समी॑रय त॒न्वा॒३सं बले॑न ।  
-वेत्था॒मृत॑स्य॒ मा नु गा॒न्मा नु भूमि॑गृहो भुवत्॥१४॥  
+Provide this man with breath and sight, O Agni, and with his body and his strength unite him. Thou knowest Amrit: let him not go hence, nor dwell in house of clay.

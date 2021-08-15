@@ -2,5 +2,4 @@
 title = "०३ इध्मेनाग्न इच्छमानो"
 
 +++
-इ॒ध्मेना॑ग्न इ॒च्छमा॑नो घृ॒ते॑न जुहो॑मि ह॒व्यं त॑रसे॒ बला॑य ।  
-याव॒दीशे॒ ब्रह्म॑णा॒ वन्द॑मान इ॒मां धियं॑ शत॒सेया॑य दे॒वीम्॥३॥  
+With fuel. Agni! and with butter, longing, mine offering I present for strength and conquest; With prayer, so far as I have strength, adoring--this holy hymn to gain a hundred treasures.

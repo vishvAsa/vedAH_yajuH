@@ -2,4 +2,4 @@
 title = "०५ प्राणापानौ मा"
 
 +++
-प्राणा॑पानौ॒ मा मा॑ हासिष्टं॒ मा जने॒ प्र मे॑षि ॥५॥  
+Let not outward and inward breath fail me. Be not thou destruc- tive among the men.

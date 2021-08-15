@@ -2,5 +2,4 @@
 title = "०२ ये ते"
 
 +++
-ये ते॑ रात्र्यन॒ड्वाह॒स्तीक्ष्ण॑शृङ्गाः स्वा॒शवः॑ ।  
-तेभि॑र्नो अ॒द्य पा॑र॒याति॑ दु॒र्गाणि॑ वि॒श्वहा॑ ॥२॥  
+Those oxen that are thine, O Night, with sharpened horns and rapid pace, With those transport us safe to-day o'er difficulties everywhere.

@@ -2,5 +2,4 @@
 title = "२० यस्मादृचो अपातक्षन्"
 
 +++
-यस्मा॒दृचो॑ अ॒पात॑क्ष॒न् यजु॒र्यस्मा॑द॒पाक॑षन्।  
-सामा॑नि॒ यस्य॒ लोमा॑न्यथर्वाङ्गि॒रसो॒ मुखं॑ स्क॒म्भं तं ब्रू॑हि कत॒मः स्वि॑दे॒व सः ॥२०॥  
+Who out of many, tell me, is that Skambha From whom they hewed the lichas off, from whom they chipped the Yajus, he Whose hairs are Sama-verses and his mouth the Atharvangi- rases?

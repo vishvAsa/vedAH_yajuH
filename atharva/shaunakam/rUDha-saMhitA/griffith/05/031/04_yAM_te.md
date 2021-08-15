@@ -2,5 +2,4 @@
 title = "०४ यां ते"
 
 +++
-यां ते॑ च॒क्रुर॑मू॒लायां॑ वल॒गं वा॑ नरा॒च्याम्।  
-क्षेत्रे॑ ते कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥४॥  
+The secret spell upon thy plants Amula or Narachi, spell That they have cast upon thy field, this I strike back again on them.

@@ -2,5 +2,4 @@
 title = "०३ एकशतं लक्ष्म्यो३मर्त्यस्य"
 
 +++
-एक॑शतं ल॒क्ष्म्यो॒३मर्त्य॑स्य सा॒कं त॒न्वाऽज॒नुषोऽधि॑ जा॒ताः ।  
-तासां॒ पापि॑ष्ठा॒ निरि॒तः प्र हि॑ण्मः शि॒वा अ॒स्मभ्यं॑ जातवेदो॒ नि यच्छ ॥३॥  
+One and a hundred Fortunes all together are at his birth born with a mortal's body. Of these we send away the most unlucky: keep lucky ones for us, O Jatavedas.

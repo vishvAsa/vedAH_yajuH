@@ -2,5 +2,4 @@
 title = "०३ पयो धेनूनां"
 
 +++
-पयो॑ धेनू॒नां रस॒मोष॑धीनां ज॒वमर्व॑तां कवयो॒ य इन्व॑थ ।  
-श॒ग्मा भ॑वन्तु म॒रुतो॑ नः स्यो॒नास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥३॥  
+Bards, who invigorate the milk of milch-kine, the sap of growing plants, the speed of coursers To us may the strong Maruts be auspicious. May they deliver us from grief and trouble.

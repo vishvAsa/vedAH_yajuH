@@ -2,5 +2,4 @@
 title = "०३ ऐषु नह्य"
 
 +++
-ऐषु॑ नह्य॒ वृषा॒जिनं॑ हरि॒णस्या॒ भियं॑ कृधि ।  
-परा॑ङ॒मित्र॒ एष॑त्व॒र्वाची॒ गौरुपे॑षतु ॥३॥
+Gird thou a bullock's hide on these, make those as timid as the deer. Let the foe flee away, and let his kine come hither-ward to us.

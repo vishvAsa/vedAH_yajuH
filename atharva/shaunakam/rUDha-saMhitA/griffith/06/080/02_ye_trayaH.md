@@ -2,5 +2,4 @@
 title = "०२ ये त्रयः"
 
 +++
-ये त्रयः॑ कालका॒ञ्जा दि॒वि दे॒वा इ॑व श्रि॒ताः ।  
-तान्त्सर्वा॑नह्व ऊ॒तये॒ऽस्मा अ॑रि॒ष्टता॑तये ॥२॥  
+The three, the Kalakanjas, set aloft in heaven as they were Gods All these I call to be our help and keep this man secure from harm.

@@ -2,5 +2,4 @@
 title = "०१ अग्ने जायस्वादितिर्नाथितेयं"
 
 +++
-अग्ने॒ जाय॒स्वादि॑तिर्नाथि॒तेयं ब्र॑ह्मौद॒नं प॑चति पु॒त्रका॑मा ।  
-स॒प्त॒ऋ॒षयो॑ भूत॒कृत॒स्ते त्वा॑ मन्थन्तु प्र॒जया॑ स॒हे॑ह ॥१॥  
+Agni, spring forth! Here Aditi, afflicted, cooks a Brahmaudana, yearning for children. Let the Seven Rishis, World-creators, rub thee into existence here with gift of offspring.

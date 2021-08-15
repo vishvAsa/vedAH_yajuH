@@ -2,5 +2,4 @@
 title = "०२ या ग्रैव्या"
 
 +++
-या ग्रैव्या॑ अप॒चितोऽथो॒ या उ॑पप॒क्ष्याः ।  
-वि॒जाम्नि॒ या अ॑प॒चितः॑ स्वयं॒स्रसः॑ ॥२॥  
+Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules that, falling of themselves, spring up on every twofold limb:

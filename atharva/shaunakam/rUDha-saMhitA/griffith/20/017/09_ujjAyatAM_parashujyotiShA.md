@@ -2,5 +2,4 @@
 title = "०९ उज्जायतां परशुज्योतिषा"
 
 +++
-उज्जा॑यतां पर॒शुज्योति॑षा स॒ह भू॒या ऋ॒तस्य॑ सु॒दुघा॑ पुराण॒वत्।  
-वि रो॑चतामरु॒षो भा॒नुना॒ शुचिः॒ स्व॑१र्ण शु॒क्रं शु॑शुचीत॒ सत्प॑तिः ॥९॥  
+Let the keen axe come forth together with the light: here be, as erst, the teeming cow of sacrifice. Let the Red God shine pure with his refulgent ray, and let the Lord of heroes glow like heaven's clear sheen.

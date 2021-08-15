@@ -2,5 +2,4 @@
 title = "०३ यथा चक्रुर्देवासुरा"
 
 +++
-यथा॑ च॒क्रुर्दे॑वासु॒रा यथा॑ मनु॒ष्याऽउ॒त।  
-ए॒वा स॑हस्रपो॒षाय॑ कृणु॒तं लक्ष्मा॑श्विना ॥३॥
+Even as Gods and Asuras, even as mortal men have done, Do ye, that these may multiply in thousands, Asvins! make the mark.

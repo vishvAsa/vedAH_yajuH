@@ -2,5 +2,4 @@
 title = "१५ अद्या मुरीय"
 
 +++
-अ॒द्या मु॑रीय॒ यदि॑ यातु॒धानो॒ अस्मि॒ यदि॒ वायु॑स्त॒तप॒ पुरु॑षस्य ।  
-अ॒धा स वी॒रैर्द॒शभि॒र्वि यू॑या॒ यो मा॒ मोघं॒ यातु॑धा॒नेत्याह॑ ॥१५॥  
+So may I die this day if I have harassed any man's life, or if I be a demon. Yea, may he lose all his ten sons together who with false tongue hath called me Yatudhana.

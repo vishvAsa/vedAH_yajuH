@@ -2,5 +2,4 @@
 title = "०९ यथाग्रे त्वं"
 
 +++
-यथाग्रे॒ त्वं व॑नस्पते पु॒ष्ठ्या स॒ह ज॑ज्ञि॒षे।  
-ए॒वा धन॑स्य मे स्फा॒तिमा द॑धातु॒ सर॑स्वती ॥९॥  
+As thou, O Forest Tree, wast born with increase when thy life began, So let Sarasvati bestow abundant growth of wealth on me.

@@ -2,5 +2,4 @@
 title = "१७ इन्द्रं तं"
 
 +++
-इन्द्रं॒ तं शु॑म्भ पुरुहन्म॒न्नव॑से॒ यस्य॑ द्वि॒ता वि॑ध॒र्तरि॑ ।  
-हस्ता॑य॒ वज्रः॒ प्रति॑ धायि दर्श॒तो म॒हो दि॒वे न सूर्यः॑ ॥१७॥  
+Honour that Indra, Puruhanman! for his aid, in whose sustain- ing hand of old. The splendid bolt of thunder was deposited, as the great Sun was set in heaven.

@@ -2,5 +2,4 @@
 title = "०१ अग्न इन्द्रश्च"
 
 +++
-अग्न॒ इन्द्र॑श्च दा॒शुषे॑ ह॒तो वृ॒त्राण्य॑प्र॒ति।  
-उ॒भा हि वृ॑त्र॒हन्त॑मा ॥१॥  
+Resistless, Agni, Indra, smite his foemen for the worshipper, For best foe-slayers are ye both.

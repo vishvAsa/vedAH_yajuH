@@ -2,5 +2,4 @@
 title = "७० सं त्वा"
 
 +++
-सं त्वा॑ नह्यामि॒ पय॑सा पृथि॒व्याः सं त्वा॑ नह्यामि॒ पय॒सौष॑धीनाम्।  
-सं त्वा॑ नह्यामि प्र॒जया॒ धने॑न॒ सा संन॑द्धा सनुहि॒ वाज॒मेमम्॥७०॥  
+With all the milk that is in Earth I gird thee, with all the milk that Plants contain I dress thee. I gird thee round with children and with riches. Do thou, thus girt, receive the offered treasure.

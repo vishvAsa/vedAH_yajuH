@@ -2,5 +2,4 @@
 title = "०८ मध्यमेतदनडुहो यत्रैष"
 
 +++
-मध्य॑मे॒तद॑न॒डुहो॒ यत्रै॒ष वह॒ आहि॑तः ।  
-ए॒ताव॑दस्य प्रा॒चीनं॒ यावा॑न् प्र॒त्यङ् स॒माहि॑तः ॥८॥  
+The middle of the Bullock's neck, there where the shoulder-bar is placed, Extends as far to east of him as that is settled to the west.

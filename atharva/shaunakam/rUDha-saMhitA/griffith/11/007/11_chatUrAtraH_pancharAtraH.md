@@ -2,5 +2,4 @@
 title = "११ चतूरात्रः पञ्चरात्रः"
 
 +++
-च॒तू॒रा॒त्रः प॑ञ्चरा॒त्रः ष॑ड्रा॒त्रश्चो॒भयः॑ स॒ह।  
-षो॒ड॒शी स॑प्तरा॒त्रश्चोच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॒ ये य॒ज्ञा अ॒मृते॑ हि॒ताः ॥११॥  
+Sacrifice of four nights, of five, of six nights, day and night conjoined, Shodai, seven-night sacrifice, all these sprang from the Residue, these which the Immortal One contains.

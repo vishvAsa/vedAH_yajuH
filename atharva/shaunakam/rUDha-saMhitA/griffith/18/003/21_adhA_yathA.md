@@ -2,5 +2,4 @@
 title = "२१ अधा यथा"
 
 +++
-अधा॒ यथा॑ नः पि॒तरः॒ परा॑सः प्र॒त्नासो॑ अग्न ऋ॒तमा॑शशा॒नाः ।  
-शुचीद॑य॒न् दीध्य॑त उक्थ॒शासः॒ क्षामा॑ भि॒न्दन्तो॑ अरु॒णीरप॑ व्रन्॥२१॥  
+As in the days of old our ancient Fathers, speeding the work of sacred worship, Agni! Sought pure light and devotion, singing praises, they cleft the ground and made red Dawns apparent.

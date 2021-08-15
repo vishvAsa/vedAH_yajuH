@@ -2,5 +2,4 @@
 title = "२२ उद्यते नम"
 
 +++
-उ॒द्य॒ते नम॑ उदाय॒ते नम॒ उदि॑ताय॒ नमः॑ ।  
-वि॒राजे॒ नमः॑ स्व॒राजे॒ नमः॑ स॒म्राजे॒ नमः॑ ॥२२॥  
+Glory to him when rising, when ascending! Glory to him when he hath reached the zenith! To him far-shining, him the self-refulgent, to him the Sovran Lord and King be glory!

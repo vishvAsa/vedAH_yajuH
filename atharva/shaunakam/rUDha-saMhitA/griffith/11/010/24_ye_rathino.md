@@ -2,5 +2,4 @@
 title = "२४ ये रथिनो"
 
 +++
-ये र॒थिनो॑ ये अ॑र॒था अ॑सा॒दा ये च॑ सा॒दिनः॑ ।  
-सर्वा॑नदन्तु॒ तान् ह॒तान् गृध्राः॑ श्ये॒नाः प॑त॒त्रिणः॑ ॥२४॥  
+Car-borne and carless fighting men, riders and those who go on foot, All these, struck down, let vultures, kites, and all, the birds of air devour.

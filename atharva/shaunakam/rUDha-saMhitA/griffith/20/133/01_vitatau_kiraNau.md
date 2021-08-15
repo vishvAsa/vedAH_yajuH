@@ -2,5 +2,4 @@
 title = "०१ विततौ किरणौ"
 
 +++
-वित॑तौ किरणौ॒ द्वौ तावा॑ पिनष्टि॒ पूरु॑षः ।  
-न वै॑ कुमारि॒ तत्तथा॒ यथा॑ कुमारि॒ मन्य॑से ॥१॥  
+Two rays of light are lengthened out, and the man gently touches them with the two beatings on the drum. Maiden, it truly is not so as thou, O maiden, fanciest. Two are thy mother's rays of light: the skin is guarded from the man.

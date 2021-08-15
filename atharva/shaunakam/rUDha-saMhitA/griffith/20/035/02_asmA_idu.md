@@ -2,5 +2,4 @@
 title = "०२ अस्मा इदु"
 
 +++
-अ॒स्मा इदु॒ प्रय॑ इव॒ प्र यं॑सि॒ भरा॑म्याङ्गू॒षं बाधे॑ सुवृ॒क्ति।  
-इन्द्रा॑य हृ॒दा मन॑सा मनी॒षा प्र॒त्नाय॒ पत्ये॒ धियो॑ मर्जयन्त ॥२॥  
+To him I offer praise as choice refreshment, bring forth my song, with seemly laud besiege him. For Indra, Lord of olden time, the singers shall deck their hymns with heart and mind and spirit.

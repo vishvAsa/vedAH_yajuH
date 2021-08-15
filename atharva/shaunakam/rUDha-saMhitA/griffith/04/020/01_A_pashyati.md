@@ -2,5 +2,4 @@
 title = "०१ आ पश्यति"
 
 +++
-आ प॑श्यति॒ प्रति॑ पश्यति॒ परा॑ पश्यति॒ पश्य॑ति ।  
-दिव॑म॒न्तरि॑क्ष॒माद् भूमिं॒ सर्वं॒ तद् दे॑वि पश्यति ॥१॥  
+It sees in front, it sees behind, it sees afar away, it sees The sky, the firmament, and earth: all this, O Goddess, it beholds.

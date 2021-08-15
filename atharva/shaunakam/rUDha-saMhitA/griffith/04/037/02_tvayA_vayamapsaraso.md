@@ -2,5 +2,4 @@
 title = "०२ त्वया वयमप्सरसो"
 
 +++
-त्वया॑ व॒यम॑प्स॒रसो॑ गन्ध॒र्वांस्चा॑तयामहे ।  
-अज॑शृ॒ङ्ग्यज॒ रक्षः॒ सर्वा॑न् ग॒न्धेन॑ नाशय ॥२॥  
+With thee we scare and drive away Gandharvas and Apsarases. O Ajasringi, chase the fiends. Cause all to vanish with thy smell.

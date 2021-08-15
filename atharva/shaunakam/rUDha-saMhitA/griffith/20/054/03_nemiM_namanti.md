@@ -2,5 +2,4 @@
 title = "०३ नेमिं नमन्ति"
 
 +++
-ने॒मिं न॑मन्ति॒ चक्ष॑सा मे॒षं विप्रा॑ अभि॒स्वरा॑ ।  
-सु॒दी॒तयो॑ वो अ॒द्रुहोऽपि॒ कर्णे॑ तर॒स्विनः॒ समृक्व॑भिः ॥३॥
+The holy sages form a ring, looking and singing to the Ram. Your very bright inciters, void of all deceit, are with the chan- ters nigh to hear.

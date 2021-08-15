@@ -2,5 +2,4 @@
 title = "०७ यस्त्वोवाच परेहीति"
 
 +++
-यस्त्वो॒वाच॒ परे॒हीति॑ प्रति॒कूल॑मुदा॒य्यऽम्।  
-तं कृ॑त्येऽभि॒निव॑र्तस्व॒ मास्मानि॑च्छो अना॒गसः॑ ॥७॥  
+Whoever said to thee, Go forth against the foeman up the stream, To him, O Kritya, go thou back. Pursue not us, the sinless ones.

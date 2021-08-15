@@ -2,4 +2,4 @@
 title = "०२ श्रेयांसमेनमात्मनो मानयेत्"
 
 +++
-श्रेयां॑समेनमा॒त्मनो॑ मानये॒त् तथा॑ क्ष॒त्राय॒ ना वृ॑श्चते॒ तथा॑ रा॒ष्ट्राय॒ ना वृ॑श्चते ॥२॥  
+Honour him as superior to himself. So he Both not act against the interests of his princely rank or his kingdom.

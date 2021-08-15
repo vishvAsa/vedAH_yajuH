@@ -2,5 +2,4 @@
 title = "०३ अहोरात्राभ्यां नक्षत्रेभ्यः"
 
 +++
-अ॒हो॒रा॒त्राभ्यां॒ नक्ष॑त्रेभ्यः सूर्याचन्द्र॒मसा॑भ्याम्।  
-भ॒द्रा॒हम॒स्मभ्यं॑ राज॒न्छक॑धूम॒ त्वं कृ॑धि ॥३॥  
+Fair weather to the day and night, and to the stars and sun and moon. Give favourable weather thou, King, Weather Prophet, unto us.

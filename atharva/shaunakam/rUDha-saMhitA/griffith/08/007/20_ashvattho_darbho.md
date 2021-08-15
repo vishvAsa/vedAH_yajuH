@@ -2,5 +2,4 @@
 title = "२० अश्वत्थो दर्भो"
 
 +++
-अ॒श्व॒त्थो द॒र्भो वी॒रुधां॒ सोमो॒ राजा॒मृतं॑ ह॒विः ।  
-व्री॒हिर्यव॑श्च भेष॒जौ दि॒वस्पु॒त्रावम॑र्त्यौ ॥२०॥  
+Asvattha, Darbha, King of Plants, is Soma, deathless sacrifice Barley and Rice are healing balms, the sons of Heaven who never die.

@@ -2,5 +2,4 @@
 title = "०८ उत पुत्रः"
 
 +++
-उ॒त पु॒त्रः पि॒तरं॑ क्ष॒त्रमी॑डे ज्ये॒ष्ठं म॒र्याद॑मह्वयन्त्स्व॒स्तये॑ ।  
-दर्श॒न् नु ता व॑रुण॒ यास्ते॑ वि॒ष्ठा आ॒वर्व्र॑ततः कृणवो॒ वपूं॑षि ॥८॥  
+Yea, the son asks dominion of his father: this they declared the noblest path to welfare. Varuna, let them see thy revelations: display the wondrous shapes of times to follow.

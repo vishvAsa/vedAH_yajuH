@@ -2,5 +2,4 @@
 title = "११ महानग्नी महानग्नं"
 
 +++
-म॒हा॒न॒ग्नी म॑हान॒ग्नं धाव॑न्त॒मनु॑ धावति ।  
-इ॒मास्तद॑स्य॒ गा र॑क्ष॒ यभ॒ माम॑द्ध्यौद॒नम्॥११॥  
+Arnica post currentem amatorem currit: Has ejus boves custodi tu. Me futue: coctam oryzam ede.

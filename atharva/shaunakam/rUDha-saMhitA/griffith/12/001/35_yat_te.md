@@ -2,5 +2,4 @@
 title = "३५ यत् ते"
 
 +++
-यत् ते भूमे वि॒खना॑मि क्षि॒प्रं तदपि॑ रोहतु ।  
-मा ते॒ मर्म॑ विमृग्वरि॒ मा ते॒ हृद॑यमर्पिपम्॥३५॥  
+Let what I dig from thee, O Earth, rapidly spring and grow again. O Purifier, let me not pierce through thy vitals or thy heart.

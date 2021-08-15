@@ -2,4 +2,4 @@
 title = "१८ वज्रो धावन्ती"
 
 +++
-वज्रो॒ धाव॑न्ती वैश्वान॒र उद्वी॑ता ॥१८॥  
+Running she is a thunderbolt, when driven away she is Vaisva- nara;

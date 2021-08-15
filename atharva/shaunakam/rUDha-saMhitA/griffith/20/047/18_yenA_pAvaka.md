@@ -2,4 +2,4 @@
 title = "१८ येना पावक"
 
 +++
-येना॑ पावक॒ चक्ष॑सा भुर॒ण्यन्तं॒ जनां॒ अनु॑ । त्वं व॑रुण॒ पश्य॑सि ॥१८॥  
+Thou with that eye of thine wherewith thou seest, brilliant. Varuna, The active one throughout mankind.

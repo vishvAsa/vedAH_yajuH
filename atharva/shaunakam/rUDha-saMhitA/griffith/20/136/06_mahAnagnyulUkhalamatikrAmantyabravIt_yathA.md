@@ -2,5 +2,4 @@
 title = "०६ महानग्न्युलूखलमतिक्रामन्त्यब्रवीत् यथा"
 
 +++
-म॒हा॒न॒ग्न्युलूखलमति॒क्राम॑न्त्यब्रवीत्।  
-यथा॒ तव॑ वनस्पते॒ निर॑घ्नन्ति॒ तथै॑वति ॥६॥  
+Arnica, pilam superans, dixit: Ut tua, Arbor, ! (verbera) pinsunt, sic etiam nunc (hic me permolit).

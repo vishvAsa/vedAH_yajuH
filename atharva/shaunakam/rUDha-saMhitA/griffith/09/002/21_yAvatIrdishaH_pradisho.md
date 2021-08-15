@@ -2,5 +2,4 @@
 title = "२१ यावतीर्दिशः प्रदिशो"
 
 +++
-याव॑ती॒र्दिशः॑ प्र॒दिशो॒ विषू॑ची॒र्याव॑ती॒राशा॑ अभि॒चक्ष॑णा दि॒वः ।  
-तत॒स्त्वम॑सि॒ ज्याया॑न् वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत् कृ॑णोमि ॥२१॥  
+Vast as the quarters of the sky and regions that lie between them spread in all directions, vast as celestial tracts and views of heaven, Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
