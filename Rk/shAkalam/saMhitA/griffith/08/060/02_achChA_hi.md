@@ -1,0 +1,6 @@
++++
+title = "०२ अच्छा हि"
+
++++
+For unto thee, O Angiras, O Son of Strength, move ladles in the sacrifice.  
+     To Agni, Child of Force, whose locks drop oil, we seek, foremost in sacrificial rites.

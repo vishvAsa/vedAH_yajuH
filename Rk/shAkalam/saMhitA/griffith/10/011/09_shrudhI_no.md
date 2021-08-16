@@ -1,0 +1,6 @@
++++
+title = "०९ श्रुधी नो"
+
++++
+Hear us, O Agni, in your common dwelling: harness thy rapid car of Amrta.  
+     Bring Heaven and Earth, the Deities' Parents, hither: stay with us here, nor from the Gods be distant.

@@ -1,0 +1,6 @@
++++
+title = "०२ शिवः कपोत"
+
++++
+Auspicious be the Dove that hath been sent us, a harmless bird, ye Gods, within our dwelling.  
+     May Agni, Sage, be pleased with our oblation, and may the Missile borne on wings avoid us.

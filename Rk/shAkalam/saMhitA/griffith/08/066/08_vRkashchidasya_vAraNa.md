@@ -1,0 +1,6 @@
++++
+title = "०८ वृकश्चिदस्य वारण"
+
++++
+Even the wolf, the savage beast that rends the sheep, follows the path of his decrees.  
+     So graciously accepting, Indra, this our praise, with wondrous thought come forth to us.
