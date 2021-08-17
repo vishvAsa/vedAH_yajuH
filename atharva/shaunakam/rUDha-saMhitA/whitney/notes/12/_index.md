@@ -1,0 +1,44 @@
++++
+title = "XII. Book the twelfth"
+
++++
+
+
+​
+
+Book XII.
+
+⌊This twelfth book is the fifth and last of the second grand division of
+the Atharvan collection. For a general statement as to the make-up of
+the books of this division, page 471 may again be consulted. The Old
+Anukramaṇī describes the length of the *artha-sūktas*, hymns 1, 2, 3,
+and 4, by giving the overplus of each hymn over 60 verses. The assumed
+normal lengths in the case of books ix., x., xi., and xii. seem to be
+respectively 20, 30, 20, and 60 verses. The whole book has been
+translated by Victor Henry, *Les livres X, XI et XII de l'Atharva-veda
+traduits et commentés*, Paris, 1896. The *bhāṣya* is again lacking. The
+fifth or last hymn is made up of 7 *paryāyas* (see pages 471-2), which,
+if they be counted separately, make the hymns number 11 instead of 5:
+see page 611, top.⌋
+
+⌊The *anuvāka*-division of the book (as noted above, page 472) is into
+five *anuvākas* of one hymn each. The "decad"-division likewise is as
+described on page 472. A tabular conspectus for this book also may be
+added:
+
+|            |                                                                                                                                                                                                             |                                                                                                                                                                                                             |                                                                                                                                                                                                             |                                                                                                                                                                                                             |                                                                                                                                                                                                             |
+|------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Anuvākas   |                                                                                                      1                                                                                                      |                                                                                                      2                                                                                                      |                                                                                                      3                                                                                                      |                                                                                                      4                                                                                                      |                                                                                                      5                                                                                                      |
+| Hymns      |                                                                                                      1                                                                                                      |                                                                                                      2                                                                                                      |                                                                                                      3                                                                                                      |                                                                                                      4                                                                                                      |                                                                                                      5                                                                                                      |
+| Verses     |                                                                                                     63                                                                                                      |                                                                                                     55                                                                                                      |                                                                                                     60                                                                                                      |                                                                                                     53                                                                                                      |                                                                                                     73¶                                                                                                     |
+|            | $\\overbrace{\\quad\\quad\\quad}$![{\\displaystyle \\scriptstyle {\\overbrace {\\quad \\quad \\quad } }}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e5c43b25cf514b14e3a007cc35fccfc281583ce6) | $\\overbrace{\\quad\\quad\\quad}$![{\\displaystyle \\scriptstyle {\\overbrace {\\quad \\quad \\quad } }}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e5c43b25cf514b14e3a007cc35fccfc281583ce6) | $\\overbrace{\\quad\\quad\\quad}$![{\\displaystyle \\scriptstyle {\\overbrace {\\quad \\quad \\quad } }}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e5c43b25cf514b14e3a007cc35fccfc281583ce6) | $\\overbrace{\\quad\\quad\\quad}$![{\\displaystyle \\scriptstyle {\\overbrace {\\quad \\quad \\quad } }}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e5c43b25cf514b14e3a007cc35fccfc281583ce6) | $\\overbrace{\\quad\\quad\\quad}$![{\\displaystyle \\scriptstyle {\\overbrace {\\quad \\quad \\quad } }}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e5c43b25cf514b14e3a007cc35fccfc281583ce6) |
+| Decad-div. |                                                                                                 5 tens + 13                                                                                                 |                                                                                                 5 tens + 5                                                                                                  |                                                                                                   6 tens                                                                                                    |                                                                                                 4 tens + 13                                                                                                 |                                                                                                     7 P                                                                                                     |
+
+Here, as before, ¶ means "paragraph of a *paryāya*" (such as is numbered
+as a "verse" in the Berlin edition) and P means "*paryāya*." The last
+line shows the "decad" division. Of these "decads," *anuvākas* 1, 2, 3,
+and 4 contain respectively 6, 6, 6, and 5 (in all, 23 "decads"); while
+*anuvāka* 5 has 7 *paryāyas*. The sum is 23 "decad"*-sūktas* and 7
+*paryāya-sūktas* or 30 *sūktas*. Cf. the summation at the end of hymn
+5.⌋
+
