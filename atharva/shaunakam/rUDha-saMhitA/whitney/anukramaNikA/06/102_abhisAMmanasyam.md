@@ -2,4 +2,4 @@
 title = "102. To win a woman."
 
 +++
-[Jamadagni (abhisammanaskāmaḥ) .—āçvinam. ānuṣṭubham.]
+[Jamadagni (abhisammanaskāmaḥ) .—āśvinam. ānuṣṭubham.]

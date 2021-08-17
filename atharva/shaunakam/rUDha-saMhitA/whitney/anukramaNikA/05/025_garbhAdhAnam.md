@@ -2,4 +2,4 @@
 title = "25. For successful conception."
 
 +++
-[Brahman.—trayodaçakam. yonigarbhadevatyam. ānuṣṭubham: 13. virāṭpurastādbṛhatī.]
+[Brahman.—trayodaśakam. yonigarbhadevatyam. ānuṣṭubham: 13. virāṭpurastādbṛhatī.]

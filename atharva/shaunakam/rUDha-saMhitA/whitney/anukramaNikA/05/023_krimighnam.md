@@ -2,4 +2,4 @@
 title = "23. Against worms."
 
 +++
-[Kāṇva.—trayodaçakam. āindram (krimijambhanāya devān aprārthayat). ānuṣṭubham: 13. virāj.]
+[Kāṇva.—trayodaśakam. āindram (krimijambhanāya devān aprārthayat). ānuṣṭubham: 13. virāj.]

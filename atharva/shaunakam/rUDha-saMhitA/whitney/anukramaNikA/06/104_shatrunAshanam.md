@@ -2,4 +2,4 @@
 title = "104. Against enemies."
 
 +++
-[Praçocana.—bahudevatyam utāi ”ndrāgnam. ānuṣṭubham.]
+[Praśocana.—bahudevatyam utāi ”ndrāgnam. ānuṣṭubham.]

@@ -1,5 +1,5 @@
 +++
-title = "6. Against enemies: with açvatthá."
+title = "6. Against enemies: with aśvatthá."
 
 +++
-[Jagadbījampuruṣa.—aṣṭarcam. vānaspatyāçvatthadevatyam. ānuṣṭubham.]
+[Jagadbījampuruṣa.—aṣṭarcam. vānaspatyāśvatthadevatyam. ānuṣṭubham.]

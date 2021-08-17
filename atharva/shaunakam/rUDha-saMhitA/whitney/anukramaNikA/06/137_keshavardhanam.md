@@ -2,4 +2,4 @@
 title = "137. To fasten and increase the hair."
 
 +++
-[Atharvan (⌊keçavardhanakāmaḥ⌋ vītahavyaḥ).—vānaspatyam. ānuṣṭubham.]
+[Atharvan (⌊keśavardhanakāmaḥ⌋ vītahavyaḥ).—vānaspatyam. ānuṣṭubham.]

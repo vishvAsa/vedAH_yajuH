@@ -2,4 +2,4 @@
 title = "7. Extolling the ox."
 
 +++
-[Brahman.—ekaḥ [paryāyaḥ]. ṣaḍviṅçaḥ. gavyaḥ.]
+[Brahman.—ekaḥ [paryāyaḥ]. ṣaḍviṅśaḥ. gavyaḥ.]

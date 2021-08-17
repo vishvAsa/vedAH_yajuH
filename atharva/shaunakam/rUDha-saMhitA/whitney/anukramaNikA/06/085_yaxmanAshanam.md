@@ -2,4 +2,4 @@
 title = "85. For relief from yákṣma."
 
 +++
-[Atharvan (yakṣmanāçanakāmaḥ).—vānaspatyam. ānuṣṭubham.]
+[Atharvan (yakṣmanāśanakāmaḥ).—vānaspatyam. ānuṣṭubham.]

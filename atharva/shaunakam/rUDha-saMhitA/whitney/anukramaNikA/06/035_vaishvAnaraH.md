@@ -1,5 +1,5 @@
 +++
-title = "35. Prayer to Agni Vāiçvānara."
+title = "35. Prayer to Agni Vāiśvānara."
 
 +++
-[Kāuçika.—viçvānaradāivatam. gāyatram.]
+[Kāuśika.—viśvānaradāivatam. gāyatram.]

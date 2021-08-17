@@ -2,4 +2,4 @@
 title = "11. For well-being."
 
 +++
-[Brahman (çāntikāmaḥ).—ṣaṭ. sāumyam. trāiṣṭubham.]
+[Brahman (śāntikāmaḥ).—ṣaṭ. sāumyam. trāiṣṭubham.]

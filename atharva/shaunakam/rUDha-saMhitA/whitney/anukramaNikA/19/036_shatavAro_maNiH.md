@@ -1,5 +1,5 @@
 +++
-title = "36. With a çatávāra-amulet: for protection etc."
+title = "36. With a śatávāra-amulet: for protection etc."
 
 +++
-[Brahman.—ṣaḍṛcam. çatavāradāivatam. ānuṣṭubham.]
+[Brahman.—ṣaḍṛcam. śatavāradāivatam. ānuṣṭubham.]

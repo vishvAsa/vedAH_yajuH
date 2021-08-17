@@ -1,5 +1,5 @@
 +++
-title = "30. To the çamī́ plant: for benefit to the hair."
+title = "30. To the śamī́ plant: for benefit to the hair."
 
 +++
-[Uparibabhrava.—çāmyam. jāgatam: 2. triṣṭubh; 3. 4-p. kakummaty anuṣṭubh.]
+[Uparibabhrava.—śāmyam. jāgatam: 2. triṣṭubh; 3. 4-p. kakummaty anuṣṭubh.]
