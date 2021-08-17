@@ -2,4 +2,8 @@
 title = "०४ नमस्ते अस्तु"
 
 +++
-नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥५५॥  
+## Translation
+55. Homage be to thee, O conspicuous one; see me, O conspicuous one.
+
+## Notes
+

@@ -2,4 +2,9 @@
 title = "१० स वा"
 
 +++
-स वा ऋ॒ग्भ्योऽजायत॒ तस्मा॒दृचो॑ऽजायन्त ॥३८॥  
+## Translation
+38. He verily was born of the verses (*ṛ́c*); of him the verses were  
+born.
+
+## Notes
+As to the meter, see the note to the preceding verse.

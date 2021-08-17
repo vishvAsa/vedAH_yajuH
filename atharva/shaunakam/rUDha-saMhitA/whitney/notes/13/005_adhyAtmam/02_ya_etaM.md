@@ -2,4 +2,8 @@
 title = "०२ य एतं"
 
 +++
-य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥१५॥  
+## Translation
+15. He who knows this single god—
+
+## Notes
+

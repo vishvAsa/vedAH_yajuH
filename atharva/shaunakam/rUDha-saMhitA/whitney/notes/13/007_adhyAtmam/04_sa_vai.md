@@ -2,4 +2,8 @@
 title = "०४ स वै"
 
 +++
-स वै वा॒योर॑जायत॒ तस्मा॑द् वा॒युर॑जायत ॥३२॥  
+## Translation
+32. He verily was born of Vāyu (wind); of him Vāyu was born.
+
+## Notes
+

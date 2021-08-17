@@ -2,4 +2,8 @@
 title = "०५ स वै"
 
 +++
-स वै दि॒वोऽजायत॒ तस्मा॒द् द्यौरध्य॑जायत ॥३३॥  
+## Translation
+33. He verily was born of the sky; out of him the sky was born.
+
+## Notes
+Here again the Anukr. requires us to read *divò ‘j-*.
