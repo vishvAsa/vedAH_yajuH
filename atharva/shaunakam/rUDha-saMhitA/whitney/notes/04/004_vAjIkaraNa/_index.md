@@ -3,7 +3,7 @@ title = "4. For recovery of virility: with a plant."
 
 +++
 ## Comment
-Found in Pāipp. iv. (except vs. 7, and in the verse-order 1-3, 5, 8, 4, 6). Used by Kāuç. (40. 14) in a rite for sexual vigor.
+Found in Pāipp. iv. (except vs. 7, and in the verse-order 1-3, 5, 8, 4, 6). Used by Kāuś. (40. 14) in a rite for sexual vigor.
 
 
 ## Translations

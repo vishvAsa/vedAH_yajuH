@@ -3,7 +3,7 @@ title = "26. Against evil."
 
 +++
 ## Comment
-Found also in Pāipp. xix. Used in Kāuç. (30. 17) in a healing rite against all diseases; and reckoned (note to 26. 1) to the takmanāçana gaṇa. The comm. finds it quoted also in the Nakṣ. K. (15), in a ceremony against nirṛti.
+Found also in Pāipp. xix. Used in Kāuś. (30. 17) in a healing rite against all diseases; and reckoned (note to 26. 1) to the takmanāśana gaṇa. The comm. finds it quoted also in the Nakṣ. K. (15), in a ceremony against nirṛti.
 
 
 ## Translations

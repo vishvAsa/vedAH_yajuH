@@ -3,7 +3,7 @@ title = "11. For birth of sons."
 
 +++
 ## Comment
-The hymn is found also in Pāipp. xix. Accompanies in Kāuç. (35. 8) a rite for conception of a male child (puṁsavana); fire is generated between çamī and açvattha, and is variously applied to the woman.
+The hymn is found also in Pāipp. xix. Accompanies in Kāuś. (35. 8) a rite for conception of a male child (puṁsavana); fire is generated between śamī and aśvattha, and is variously applied to the woman.
 
 
 ## Translations

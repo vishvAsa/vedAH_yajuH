@@ -3,7 +3,7 @@ title = "36. Against demons and other enemies."
 
 +++
 ## Comment
-Not found in Pāipp. Not used individually by Kāuç., but only as one of the cātanāni (8. 25). Our mss. of the Anukr. do not contain the expected definition of the hymn as one of ten stanzas (daçarcam). *⌊The Berlin Anukr. reads sātyāujasam.⌋
+Not found in Pāipp. Not used individually by Kāuś., but only as one of the cātanāni (8. 25). Our mss. of the Anukr. do not contain the expected definition of the hymn as one of ten stanzas (daśarcam). *⌊The Berlin Anukr. reads sātyāujasam.⌋
 
 
 ## Translations

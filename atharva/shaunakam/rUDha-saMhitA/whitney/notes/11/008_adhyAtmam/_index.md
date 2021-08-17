@@ -3,7 +3,7 @@ title = "8. Mystic: especially on the constitution of man."
 
 +++
 ## Comment
-Found also (except vss. 33, 34) in Pāipp. xvi. (in the verse-order 1-6, 8-10, 7, 12, 11, 13, 15, 14, 16-32). ⌊The hymn is noticed neither by Kāuç. nor by Vāit.⌋
+Found also (except vss. 33, 34) in Pāipp. xvi. (in the verse-order 1-6, 8-10, 7, 12, 11, 13, 15, 14, 16-32). ⌊The hymn is noticed neither by Kāuś. nor by Vāit.⌋
 
 
 ## Translations

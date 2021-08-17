@@ -3,7 +3,7 @@ title = "43. To assuage wrath."
 
 +++
 ## Comment
-Found also in Pāipp. xix. In Kāuç. (36. 32), the hymn appears, next after hymn 42, in a rite for appeasement of anger, darbha being treated as an amulet (? oṣadhivat).
+Found also in Pāipp. xix. In Kāuś. (36. 32), the hymn appears, next after hymn 42, in a rite for appeasement of anger, darbha being treated as an amulet (? oṣadhivat).
 
 
 ## Translations

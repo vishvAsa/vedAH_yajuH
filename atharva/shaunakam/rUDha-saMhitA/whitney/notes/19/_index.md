@@ -16,7 +16,7 @@ considerable variety of cumulative evidence. The evidence concerns in
 part the contents of the book; in part, the character of its tradition
 as respects both text and division and extent; and in part, the relation
 of its text to the ancillary Vedic treatises, the Pada-pāṭha and the
-Pañcapaṭalikā and the Prātiçākhya, and to the Kāuçika and Vāitāna
+Pañcapaṭalikā and the Prātiśākhya, and to the Kāuśika and Vāitāna
 sūtras.⌋
 
 ⌊**The contents** of book xix. resemble in large measure those of the
@@ -68,21 +68,21 @@ vi॰adhvám* at 58. 4. The corruptness of the text made Whitney doubt (in
 *pada-pāṭha*.—**Second**, book xix. is entirely ignored by the
 Pañcapaṭalikā or Old Anukr., as is stated also by SPP. in his Critical
 Notice, vol. i., p. 24.—**Third**, "to the apprehension of the
-Prātiçākhya the Atharva-Veda comprehended only the first eighteen books
+Prātiśākhya the Atharva-Veda comprehended only the first eighteen books
 of the present collection": so Whitney, Prāt., p. 581; cf. his Index of
 passages referred to by the AV. Prāt., p. 600 c, and especially his
 notes to Prāt. ii. 67 c and ii. 22.⌋
 
-⌊**Relation of book xix. to Kāuçika.**—The sūtra-citations do not imply
+⌊**Relation of book xix. to Kāuśika.**—The sūtra-citations do not imply
 recognition of the text of book xix. as an integral part of the
 *saṁhitā*.—Bloomfield has made a critical separation of the more
 original *vidhāna*-matter from the *gṛhya*-matter in the text of
-Kāuçika, and styles the former "Atharva-sūtra" or "Vidhāna-sūtra": see
-his Introd. to Kāuç., p. xxviii., and his essay in *Göttingische
+Kāuśika, and styles the former "Atharva-sūtra" or "Vidhāna-sūtra": see
+his Introd. to Kāuś., p. xxviii., and his essay in *Göttingische
 gelehrte Anzeigen*, 1902, p. 489. His Vidhāna-sūtra comprehends the text
-of Kāuç. from the beginning of kaṇḍikā 7 to the end of kaṇḍikā 52,
+of Kāuś. from the beginning of kaṇḍikā 7 to the end of kaṇḍikā 52,
 excepting perhaps most of the matter (42. 19 to 43. 20) just preceding
-the *vaçāçamana*, and excepting the *vaçāçamana* itself (43. 21 to 45.
+the *vaśāśamana*, and excepting the *vaśāśamana* itself (43. 21 to 45.
 19): that is, his Vidhāna-sūtra runs from 7. 1 to 42. 18 and from 46. 1
 to 52. 21.\*—Now it is in the first place to be noted that no verse
 whatever is cited in the text of the "Vidhāna-sūtra" (whether by
@@ -91,9 +91,9 @@ to be found in book xix., with the single exception of *prā́ṇa prāṇám*.�
 In the second place, disregarding the verses cited by technical
 designation (the "*jivās*-verses": see below) and those which are cited
 in full and by *pratīka* besides (33. 3; 52. 5; 72. 1: see below), it
-appears that there are in the entire text of Kāuçika only six *pratīkas*
+appears that there are in the entire text of Kāuśika only six *pratīkas*
 which might seem at first blush to imply the recognition of book xix. as
-part of the Atharvan text by Kāuçika. The six *pratīkas* cover some
+part of the Atharvan text by Kāuśika. The six *pratīkas* cover some
 eleven verses. Including with them a seventh *pratīka*, *devásya tvā*, I
 give them in tabular form:
 
@@ -110,16 +110,16 @@ give them in tabular form:
                                                                                                                                                                                                                                               \\end{matrix} \\right\\}\\,$![\\scriptstyle {\\left.{\\begin{matrix}\\ \\\\\\\\\\ \\ \\end{matrix}}\\right\\}\\,}](https://wikimedia.org/api/rest_v1/media/math/render/svg/bab91f07e3740200c218ea4a7f62f0ad57781183)  | (xix. 52. 1‡)  |     | \[RV.TB.TA.\]                                   |
 | 45\. 17  |                                                                                                                                                                                                       |                         |                                                                                                                                                                                                                      |                |     | *kā́mas tád ágre*                                |
 | 68\. 29  |                                                                                                                                                                                                       |                         |                                                                                                                                                                                                                      |                |     | *kā́mas tád*                                     |
-| 57\. 26  |                                                                                                                                                                                                       | *ágne samídham ā́hārṣam* |                                                                                                                                                                                                                      | (xix. 64. 1-4) |     | \[Daç. Kar., in full; AGS.PGS.ÇGS.HGS.GGS.MB.\] |
+| 57\. 26  |                                                                                                                                                                                                       | *ágne samídham ā́hārṣam* |                                                                                                                                                                                                                      | (xix. 64. 1-4) |     | \[Daś. Kar., in full; AGS.PGS.śGS.HGS.GGS.MB.\] |
 | 66\. 1   |                                                                                                                                                                                                       | *vā́n̄ ma āsán*           |                                                                                                                                                                                                                      | (xix. 60. 1)   |     | \[TS.TA.PGS.\]                                  |
 | 91\. 3   | $\\left\\{ \\begin{matrix}                                                                                                                                                                            
             \\  \\\\                                                                                                                                                                                               
             \\  \\\\                                                                                                                                                                                               
             \\end{matrix} \\right.$![\\scriptstyle {\\left\\{{\\begin{matrix}\\ \\\\\\ \\end{matrix}}\\right.}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a805be76b08e8207095bda8d1a702e7b5f9fc14e)  | *áyuto ‘hám*            |                                                                                                                                                                                                                      | (xix. 51. 1)   |     | \[?\]                                           |
 |          |                                                                                                                                                                                                       | *devásya tvā savitús*   |                                                                                                                                                                                                                      | (xix. 51. 2)   |     | \[Passim.\]                                     |
-| 139\. 10 |                                                                                                                                                                                                       | *ávyacasaç ca*          |                                                                                                                                                                                                                      | (xix. 68. 1)   |     | \[Daç. Kar.; Ath. Paddh.; Keçavī.\]             |
+| 139\. 10 |                                                                                                                                                                                                       | *ávyacasaś ca*          |                                                                                                                                                                                                                      | (xix. 68. 1)   |     | \[Daś. Kar.; Ath. Paddh.; Keśavī.\]             |
 
-The place of citation in Kāuçika is given at the left; the place of
+The place of citation in Kāuśika is given at the left; the place of
 occurrence in AV. is given in parentheses; and the texts, other than
 AV., in which the mantras occur, are noted at the right in square
 brackets.⌋ \*⌊This delimitation of the Vidhāna-sūtra differs slightly
@@ -127,38 +127,38 @@ from Bloomfield's as given in the places just cited: it has been revised
 with the help of a friendly note from him.⌋ †⌊The verse *prā́ṇa prāṇám*
 (xix. 44. 4) is cited at 47. 16, which is a part of Bloomfield's
 "Vidhāna-sūtra," and seems to have been overlooked by him at p. xxxi.⌋
-‡⌊Keçava (on 6. 37) and Darila (on 45. 17) understand the whole AV. hymn
+‡⌊Keśava (on 6. 37) and Darila (on 45. 17) understand the whole AV. hymn
 of five verses as intended by *kā́mas tád*.⌋
 
 ⌊**Citations by pratīka**.—The three phrases, (1) *devásya tvā savitúḥ
-prasavé* and (2) *açvínor bāhúbhyām* and (3) *pūṣṇó hástābhyām*, are
-unvaried as between the AV. text and the citations by Kāuç. (in full at
+prasavé* and (2) *aśvínor bāhúbhyām* and (3) *pūṣṇó hástābhyām*, are
+unvaried as between the AV. text and the citations by Kāuś. (in full at
 2. 1 and 2. 21 and 137. 18: the citation at 91. 3 is ​by *pratīka* with
 *áyuto ‘hám*) and by Vāit. (in full at 3. 9): what follows *hástābhyām*
-is, at Kāuç. 2. 1, *agnáye júṣṭaṁ nír vapāmi* (as at TS. i. 1. 4²); at
-2. 21 and in Vāit., it is *prasūtaḥ praçiṣā paristṛṇāmi* (Vāit.
+is, at Kāuś. 2. 1, *agnáye júṣṭaṁ nír vapāmi* (as at TS. i. 1. 4²); at
+2. 21 and in Vāit., it is *prasūtaḥ praśiṣā paristṛṇāmi* (Vāit.
 *pratigṛhnāmi*); and at 137. 18 it is *ā́ dade* (as at TS. i. 3. 1¹ and
 very often); while AV. xix. differs from all these in adding *prásūta ā́
 rabhe*. The phrases are of such extremely frequent occurrence (see
 introd. to h. 51) that they may be called a commonplace of the
 *sūtra*-literature; and, as W. intimates, the *pratīka*-citation by
-Kāuç. is not to be regarded as having any special reference to our book
-xix.,—much less the citations in full by Kāuç. and Vāit. The case is a
+Kāuś. is not to be regarded as having any special reference to our book
+xix.,—much less the citations in full by Kāuś. and Vāit. The case is a
 typical and striking one. Of the same type are the hymns *tvám agne
 vratapā́ asi* and *ágne samídham ā́hārṣam*, both of which, besides, are
 given by the scholia in *sakalapāṭha*. For the rest, so far as any
 necessary connection with book xix. is concerned, *vā́n̄ ma āsán* and
-*kā́mas tád* and *ávyacasaç ca* may fairly be regarded as *kalpajā
+*kā́mas tád* and *ávyacasaś ca* may fairly be regarded as *kalpajā
 mantrās*. Only for *áyuto ‘hám* am I unable to point out occurrences
 elsewhere than in book xix.; but it may be noted that the comm., at p.
 499⁴, takes *áyuto ‘hám* and the immediately following *devásya tvā* as
 one *sūkta* of sacrificial formulas, *yajurmantrātmakaṁ sūktam*.⌋
 
-⌊**Citations by technical designation.**—Thrice in the text of Kāuç. (at
+⌊**Citations by technical designation.**—Thrice in the text of Kāuś. (at
 3. 4; 58. 7; 90. 22), as also once in Vāit. (at 1. 19), we meet the
 prescription *jīvābhir ācamya*. The "*jīvā́s*-verses," says Dārila (on 3.
 4), mean "four verses beginning with *jīvā́ stha*." They are associated,
-both at Kāuç. 3. 4 and at Vāit. 1. 18, 19 as well, with other
+both at Kāuś. 3. 4 and at Vāit. 1. 18, 19 as well, with other
 *sūtra*-material, and in particular also with the five *prapads* (which
 are called in Vāit. *prapadanas* and which Dārila characterizes as
 *kalpaja*): considering this fact, the citation may well be viewed as
@@ -169,13 +169,13 @@ the mode of citation (by a technical name and so without *iti*), does
 not appear to be inconsistent with this view.⌋
 
 ⌊**Citations in sakalapāṭha.**—The most conclusive evidence to show that
-book xix. was not recognized by Kāuç. is afforded by the five verses
-which, although occurring in our xix., are yet cited by Kāuç. in full
+book xix. was not recognized by Kāuś. is afforded by the five verses
+which, although occurring in our xix., are yet cited by Kāuś. in full
 (*sakalapāṭha*): these are 59. 3; 33. 3 and 44. 4; and 52. 5 and 72. 1.
 As to the first of the five, *ā́ devā́nām ápi pánthām aganma*, cited at 5.
 12, Bloomfield has already remarked in his note that the *sakalapāṭha*
 shows that it is regarded as coming from some other source than our book
-xix., and it is in fact not infrequent elsewhere (RV.MS.TS.ÇB.);
+xix., and it is in fact not infrequent elsewhere (RV.MS.TS.śB.);
 moreover, it is a part of the same group as *tvám agne vratapā́ asi*, of
 which group, as already noted, Dārila (on 6. 37) gives the
 *sakalapāṭha*. The verses *tvám bhū́mim* (cited in full at 2. 1: a later
@@ -183,13 +183,13 @@ citation, at 137. 32, is naturally by *pratīka*) and *prā́ṇa prāṇám*
 (cited in full at 47. 16) have not been found, so far as I know, except
 at xix. 33. 3 and 44. 4; but of the former Dārila expressly says that it
 is *kalpaja*. Finally, there remain the cases of *yát kāma* and *yásmāt
-kóçāt*. These are peculiar in that they are cited at 92. 30 and 139. 25
+kóśāt*. These are peculiar in that they are cited at 92. 30 and 139. 25
 by *pratīka*, and immediately thereafter (at 92. 31 and 139. 26) in
 *sakalapāṭha:* cf. Bloomfield's Introduction, p. xxix. The verse *yát
-kāma* is found at xix. 52. 5, and *yásmāt kóçāt* at the end of the book,
+kāma* is found at xix. 52. 5, and *yásmāt kóśāt* at the end of the book,
 and neither elsewhere.⌋
 
-⌊**Relation of book xix. to Vāitāna.**—Still less than Kāuçika, does
+⌊**Relation of book xix. to Vāitāna.**—Still less than Kāuśika, does
 Vāitāna imply by its citations a recognition of the text of book xix. as
 an integral part of the *saṁhitā*.—In all Vāitāna there are only seven
 sūtras (Garbe gives five) that cite passages occurring in book xix.:
@@ -197,12 +197,12 @@ they are Vāit. 1. 18 and 19, citing the *apratiratha* hymn and the
 "*jivā́s*-verses"; 3. 5 and 19. 12, citing *ā́ devā́nam;* 3. 9, citing
 *devásya tvā;* 28. 14, citing *yád agne yā́ni kā́ni cit;* and 37. 19,
 citing *sahásrabāhus*. Of these, the *devásya tvā*, the
-"*jīvā́s*-verses," and the *ā́ devā́nām* are cited also by Kāuç. and have
+"*jīvā́s*-verses," and the *ā́ devā́nām* are cited also by Kāuś. and have
 already been sufficiently discussed. Of the remaining three: the
 *puruṣa* hymn (*sahásrabāhus:* xix. 6) ​appears also in RV.VS.TA.SV.;
 and the verse *yád agne yā́ni kā́ni cit* (xix. 64. 3) is common to RV.,
 and to the Yajus texts, MS.K.Kap.TS.VS.; while the *apratiratka* hymn
-(*āçúḥ çíçānaḥ:* xix. 13. 2 ff.) is found in RV. and the Yajus texts
+(*āśúḥ śíśānaḥ:* xix. 13. 2 ff.) is found in RV. and the Yajus texts
 just named and in SV. also.⌋
 
 ⌊**Divisions of the book.**—The *prapāṭhaka*-division is not found in

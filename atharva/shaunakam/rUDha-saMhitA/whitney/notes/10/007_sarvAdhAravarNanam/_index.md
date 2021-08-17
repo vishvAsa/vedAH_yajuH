@@ -4,7 +4,7 @@ title = "7. Mystic: on the skambhá or frame of creation."
 +++
 ## Comment
 
-Found also (except vss. 13, 42-44) in Pāipp. xvii. (with slight differences of order, noted under the verses). Neither Kāuç. nor Vāit. takes any notice of the hymn.—*⌊If the hymn is trāiṣṭubham, why are these verses specified? see note to 38.⌋ †⌊As to the Anukr's description of this verse, see under the verse.⌋
+Found also (except vss. 13, 42-44) in Pāipp. xvii. (with slight differences of order, noted under the verses). Neither Kāuś. nor Vāit. takes any notice of the hymn.—*⌊If the hymn is trāiṣṭubham, why are these verses specified? see note to 38.⌋ †⌊As to the Anukr's description of this verse, see under the verse.⌋
 
 
 ## Translations

@@ -3,7 +3,7 @@ title = "21. To the war-drum."
 
 +++
 ## Comment
-⌊Pādas 11 c, d and 12 a, b appear to be prose.⌋ Not found in Pāipp. Not noticed in Vāit.; quoted by Kāuç. (16. 2), in a battle-rite (next after the preceding hymn). *⌊Cf. extracts from Anukr. under h. 20.⌋
+⌊Pādas 11 c, d and 12 a, b appear to be prose.⌋ Not found in Pāipp. Not noticed in Vāit.; quoted by Kāuś. (16. 2), in a battle-rite (next after the preceding hymn). *⌊Cf. extracts from Anukr. under h. 20.⌋
 
 
 ## Translations

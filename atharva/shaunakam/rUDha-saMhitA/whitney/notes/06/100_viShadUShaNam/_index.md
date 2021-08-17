@@ -3,7 +3,7 @@ title = "100. Against poison."
 
 +++
 ## Comment
-Found also in Pāipp. xix. Used by Kāuç. (31. 26) in a remedial rite against various poisons, with aid of earth from an ant-hill etc.; and the comm. ⌊considers this (and not xviii. 4. 2) to be intended at 81. 10⌋ when the sacrificial cake is laid on the breast of a deceased sacrificer on the funeral-pile.
+Found also in Pāipp. xix. Used by Kāuś. (31. 26) in a remedial rite against various poisons, with aid of earth from an ant-hill etc.; and the comm. ⌊considers this (and not xviii. 4. 2) to be intended at 81. 10⌋ when the sacrificial cake is laid on the breast of a deceased sacrificer on the funeral-pile.
 
 
 ## Translations

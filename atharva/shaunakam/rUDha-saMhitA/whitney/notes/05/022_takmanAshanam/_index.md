@@ -3,7 +3,7 @@ title = "22. Against fever (takmán)."
 
 +++
 ## Comment
-Found also (except vss. 2, 11) in Pāipp. Most of it is in xiii., in the order 1, 3, 4, 8, 5, 6, 7 cd, 10; then (beginning a new hymn), 12, 14, 8 cd, 9; but vs. 13 is in i. Used by Kāuç. (29. 18) among various other hymns, in a healing ceremony; reckoned in the gaṇamālā as belonging in the takmanāçana gaṇa (26. 1, note).
+Found also (except vss. 2, 11) in Pāipp. Most of it is in xiii., in the order 1, 3, 4, 8, 5, 6, 7 cd, 10; then (beginning a new hymn), 12, 14, 8 cd, 9; but vs. 13 is in i. Used by Kāuś. (29. 18) among various other hymns, in a healing ceremony; reckoned in the gaṇamālā as belonging in the takmanāśana gaṇa (26. 1, note).
 
 
 ## Translations

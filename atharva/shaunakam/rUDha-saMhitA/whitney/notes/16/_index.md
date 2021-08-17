@@ -63,7 +63,7 @@ unless indeed the relation of the first two words is ​appositive ('of
 the prior, the prājāpatyan' \[*anuvāka*\]: see the preceding
 paragraph).—At the end of the first *anuvāka*, 8 of W's mss. say
 *prājāpatyo ha catuṣkaḥ;* and at the end of the second is read
-*pañcaparyāya uttaraḥ:* the two quotations make a half-çloka which we
+*pañcaparyāya uttaraḥ:* the two quotations make a half-śloka which we
 may expect to find in the text of the Old Anukr., standing between lines
 1 and 2 of our extract.—Line 2 refers to the *paryāyas* of the first
 *anuvāka;* and lines 3-6 refer to those of the second.—The numbers in
@@ -71,20 +71,20 @@ parentheses refer to the *paryāyas* as counted from the beginning of the
 *anuvāka;* and those in brackets refer to the *paryāyas* as counted from
 the beginning of the book.
 
-prājāpatyasya pūrvasya paramasya punaḥ çṛṇu:  
-trayodaçā ”dyaṁ (i. 1) vijānīyād, dvāu (i. 2, 3) ṣaṭkāu, saptakaḥ paraḥ
+prājāpatyasya pūrvasya paramasya punaḥ śṛṇu:  
+trayodaśā ”dyaṁ (i. 1) vijānīyād, dvāu (i. 2, 3) ṣaṭkāu, saptakaḥ paraḥ
 (1.4).
 
   
 
-⁠ādyaṁ (ii. 1) daçakaṁ, hy (?) ekādaçakaṁ (ii. 2) \[5, 6\]  
+⁠ādyaṁ (ii. 1) daśakaṁ, hy (?) ekādaśakaṁ (ii. 2) \[5, 6\]  
 ⁠tasmāc ca paraṁ (ii. 3) dvyadhikaṁ vihitam: \[7\]  
-⁠ekādaça vāi triguṇāny aparaç (ii.4) \[8\]  
+⁠ekādaśa vāi triguṇāny aparaś (ii.4) \[8\]  
 ⁠catvāri vāi vacanāni paraḥ (ii. 5). \[9\]
 
   
 The quoted bit of the Old Anukr. at the end of *paryāya* 6 (or ii. 2) is
-*hyekādaçakam* (or *hyāu-*): the fact that the verse is so divided by
+*hyekādaśakam* (or *hyāu-*): the fact that the verse is so divided by
 piecemeal quotation as to bring *hi* at the beginning of its fragment
 seems to oppugn the correctness of the reading *hi;* and the word, as
 noted below, is not incorporated into the Major Anukr., the Berlin ms.
@@ -151,6 +151,6 @@ immediately the fragment of book xv. cited in the note to xv. 2. 1.⌋ ⌊☞
 See pages 1015-6.⌋
 
 ⌊In the Vāit, the book is noticed only twice: see under 2. 6 and 9. 3.
-And in the Kāuç., it is noticed only about a dozen times: see under 1.
+And in the Kāuś., it is noticed only about a dozen times: see under 1.
 1; 2. 1, 6; 3. 1; 4. 1; 5. 1; 6. 1; 9. 3, 4.⌋
 

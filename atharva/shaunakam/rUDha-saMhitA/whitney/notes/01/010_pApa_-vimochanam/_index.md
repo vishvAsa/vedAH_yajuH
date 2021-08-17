@@ -3,7 +3,7 @@ title = "10. For some one's release from Varuṇa's wrath."
 
 +++
 ## Comment
-Found in Pāipp. i. Used in Kāuç. (25. 37) to accompany lavation of the head in a healing ceremony (for dropsy, comm. and schol.).
+Found in Pāipp. i. Used in Kāuś. (25. 37) to accompany lavation of the head in a healing ceremony (for dropsy, comm. and schol.).
 
 
 ## Translations

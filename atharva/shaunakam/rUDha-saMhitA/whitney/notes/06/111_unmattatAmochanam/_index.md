@@ -3,7 +3,7 @@ title = "111. For relief from insanity."
 
 +++
 ## Comment
-This hymn, like the preceding, is wanting in Pāipp. Kāuç. (8. 24) reckons it as one of the mātṛnāmāni (with ii. 2 and viii. 6); and the comm. quotes a remedial rite against demons (26. 29-32) as an example of their use.
+This hymn, like the preceding, is wanting in Pāipp. Kāuś. (8. 24) reckons it as one of the mātṛnāmāni (with ii. 2 and viii. 6); and the comm. quotes a remedial rite against demons (26. 29-32) as an example of their use.
 
 
 ## Translations

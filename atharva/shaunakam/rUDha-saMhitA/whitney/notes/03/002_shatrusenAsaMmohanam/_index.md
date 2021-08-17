@@ -3,7 +3,7 @@ title = "2. Against enemies."
 
 +++
 ## Comment
-Found in Pāipp. iii., next before the hymn here preceding. Used in Kāuç. only with the latter, as there explained.
+Found in Pāipp. iii., next before the hymn here preceding. Used in Kāuś. only with the latter, as there explained.
 
 
 ## Translations

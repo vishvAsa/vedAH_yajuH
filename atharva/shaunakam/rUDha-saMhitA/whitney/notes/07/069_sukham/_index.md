@@ -3,7 +3,7 @@ title = "69 (72). Prayer for good fortune."
 
 +++
 ## Comment
-Found also in Pāipp. xx. Included, like the preceding hymn, in the two çānti gaṇas (Kāuç. 9. 2, 4), and by the schol. (note to 9. 7) in yet a third.
+Found also in Pāipp. xx. Included, like the preceding hymn, in the two śānti gaṇas (Kāuś. 9. 2, 4), and by the schol. (note to 9. 7) in yet a third.
 
 
 ## Translations

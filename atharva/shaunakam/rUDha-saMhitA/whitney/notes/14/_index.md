@@ -35,14 +35,14 @@ very many of the *mantras* cited in the editor's *Hochzeitsrituell;* and
 for this reason the citations of those *mantras* are given below in
 duplicate, in order that they may be easily found in either work.—Here
 may be mentioned also the elaborate comments given in my *Sanskrit
-Reader*, pages 398-401, upon chapters 5, 7, and 8 of Āçvalāyana's
+Reader*, pages 398-401, upon chapters 5, 7, and 8 of Āśvalāyana's
 Gṛhyasūtra, book i., which treat of the wedding customs and the
 wedding-service.⌋
 
 ⌊*Division into anuvākas*.—This book is divided into two *anuvākas*, the
 first with 64 verses, and the second with 75. This division is confirmed
 by the Old Anukr. or *Pañcapaṭalikā* (as quoted at the end of each
-*anuvāka*), which says *ādyaḥ sāuryaç catuḥṣaṣṭiḥ* and *pañcasaptatir
+*anuvāka*), which says *ādyaḥ sāuryaś catuḥṣaṣṭiḥ* and *pañcasaptatir
 uttaraḥ*. Here *ādyaḥ* and *uttaraḥ* doubtless refer to *anuvākaḥ*
 understood. It is also confirmed by AV. xix. 23. 24.⌋
 
@@ -62,7 +62,7 @@ to offer no evidence either for or against the division into hymns.⌋
 
 ⌊The mss. seem to support the division of the book into two hymns: thus,
 at the end of *anuvāka* 1, several mss. say *anuvāke arthasūkta 1; ṛcā*
-(!) *64;* \[supply presumably *daçatayaḥ*\] 6. And, at the end of the
+(!) *64;* \[supply presumably *daśatayaḥ*\] 6. And, at the end of the
 second, they say *anuvāke arthasūkta 1; ṛcā 75*. Moreover, as noted on
 page 768, some mss. sum up the book as of two hymns.⌋
 
@@ -70,13 +70,13 @@ page 768, some mss. sum up the book as of two hymns.⌋
 book should not be divided into two hymns: 1. by its mingling the verses
 of the whole book together (see the next paragraph, which is by Mr.
 Whitney) in its metrical and other definitions; and 2. by its expression
-*çatatamyā* \[*ṛcā*\] 'hundredth verse,' which implies a continuous
+*śatatamyā* \[*ṛcā*\] 'hundredth verse,' which implies a continuous
 counting from the beginning of the book beyond the limits of the first
 *anuvāka* (or hymn?), which contains only 64 verses. *Per contra*, this
 method of designating a verse by any ordinal higher than the first few
 ordinals is very unusual, and (so far as I have noted) unexampled, save
-by the expression *trayoviṅçatikayā* in the next clause and by the
-ordinals of Kāuç. 49. 24, 25 (see note to x. 5. 6).⌋
+by the expression *trayoviṅśatikayā* in the next clause and by the
+ordinals of Kāuś. 49. 24, 25 (see note to x. 5. 6).⌋
 
   
 The descriptions of meter etc. are ⌊by the Major Anukr.⌋ given together
@@ -90,10 +90,10 @@ elsewhere. Other special points are mentioned in the notes to the
 verses.
 
 ⌊The Major Anukr. begins its treatment of the book as follows: *satyene
-’ti* (xiv. 1. 1) *sāikonacatvāriṅçachataṁ dvayānuvākakāṇḍam. Sāvitrī
+’ti* (xiv. 1. 1) *sāikonacatvāriṅśachataṁ dvayānuvākakāṇḍam. Sāvitrī
 Sūryā. ātmadāivatam. ānuṣṭubham. prathamābhiḥ pañcabhiḥ* (xiv. 1. 1-5)
-*somam astāut; parābhiḥ* (xiv. 1. 6-?) *svavivāham; çatatamyā* \[?\]
-(xiv. 2. 36) *devān; trayoviṅçatikayā* (xiv. 1. 23) *somārkāu; parayā*
+*somam astāut; parābhiḥ* (xiv. 1. 6-?) *svavivāham; śatatamyā* \[?\]
+(xiv. 2. 36) *devān; trayoviṅśatikayā* (xiv. 1. 23) *somārkāu; parayā*
 (xiv. 1. 24) *candramasam*.⌋
 
 ⌊That is to say: 'The double-*anuvāka*-hook (the expression *dvaya* is a
@@ -115,20 +115,20 @@ Sūryā Sāvitrī.⌋
 ² ⌊This statement does not fit xiv. 2. 36. On the other hand. Dr. Ryder
 points out that it does fit xiv. 2. 46 and that the RV. Anukr. makes
 *devāḥ* the deity of RV. x. 85. 17 (which = AV. xiv. 2. 46): and he
-accordingly offers the suggestion that *çatatamyā* may be a text-error
-for *daça-çatatamyā*.⌋
+accordingly offers the suggestion that *śatatamyā* may be a text-error
+for *daśa-śatatamyā*.⌋
 
 ⌊The Major Anukr. continues: *parā* \[?\] (xiv. 1. 25-?) *nṛṇāṁ
-vivāhamantrāçiṣaḥ. parā dehy* (xiv. 1. 25) *açlīlā tanūr* (xiv. 1. 27)
-*iti dve vadhūvāsaḥsaṁsparçamocanyāu. ye vadhva* (xiv. 2. 10) *iti
-yakṣmanāçanī. parā* (xiv. 2. 11) *dampatyoḥ paripanthināçanī*.⌋
+vivāhamantrāśiṣaḥ. parā dehy* (xiv. 1. 25) *aślīlā tanūr* (xiv. 1. 27)
+*iti dve vadhūvāsaḥsaṁsparśamocanyāu. ye vadhva* (xiv. 2. 10) *iti
+yakṣmanāśanī. parā* (xiv. 2. 11) *dampatyoḥ paripanthināśanī*.⌋
 
 ​
 
 ⌊The statements of the RV. Anukr. as to "deity" correspond quite closely
 with those just given, but with some differences: thus it says *-nindā*
 for *-mocanyāu;* etc. In particular, the description *nṛṇāṁ vivāhamantrā
-āçiṣaç ca* is applied by the RV. Anukr. to RV. x. 85. 20-28. All these 9
+āśiṣaś ca* is applied by the RV. Anukr. to RV. x. 85. 20-28. All these 9
 RV. verses have more or less close correspondents in AV. xiv.: they are,
 respectively, AV. xiv. 1. 61; 2. 33 (cf. RV. vss. 21 and 22); 1. 34; 1.
 19, 18, 20, 21, 26. All this, it seems, fails to square with the *parāḥ*

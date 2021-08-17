@@ -3,7 +3,7 @@ title = "90 (95) To destroy some one's virile power."
 
 +++
 ## Comment
-Found also in Pāipp. xx. Used by Kāuç. (36. 35) in a women's rite, being directed against the lover of one's wife.
+Found also in Pāipp. xx. Used by Kāuś. (36. 35) in a women's rite, being directed against the lover of one's wife.
 
 
 ## Translations

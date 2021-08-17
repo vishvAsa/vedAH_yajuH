@@ -3,7 +3,7 @@ title = "18. Against unlucky marks."
 
 +++
 ## Comment
-Verses 1-3 are found in Pāipp. xx. (but vs. 2 not with the others). Used by Kāuç. (42. 19) in a charm against unlucky signs in a woman.
+Verses 1-3 are found in Pāipp. xx. (but vs. 2 not with the others). Used by Kāuś. (42. 19) in a charm against unlucky signs in a woman.
 
 
 ## Translations

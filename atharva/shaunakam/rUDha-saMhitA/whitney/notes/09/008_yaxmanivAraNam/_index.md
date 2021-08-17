@@ -3,7 +3,7 @@ title = "8. Against various diseases."
 
 +++
 ## Comment
-Found also (except vs. 4) in Pāipp. xvi. Not noticed in Vāit., but quoted (vs. 1) in Kāuç. 32. 18, in a remedial ceremony. ⌊The last two verses are specified (32. 19) as used "with worship of the sun."⌋
+Found also (except vs. 4) in Pāipp. xvi. Not noticed in Vāit., but quoted (vs. 1) in Kāuś. 32. 18, in a remedial ceremony. ⌊The last two verses are specified (32. 19) as used "with worship of the sun."⌋
 
 
 ## Translations

@@ -3,7 +3,7 @@ title = "52. For deliverance from unseen pests."
 
 +++
 ## Comment
-Also found in Pāipp. xix. (in the verse-order 1, 3, 2). The first two verses are RV. i. 191. 9, 4. Used by Kāuç. (31-8) in a remedial rite against demons.
+Also found in Pāipp. xix. (in the verse-order 1, 3, 2). The first two verses are RV. i. 191. 9, 4. Used by Kāuś. (31-8) in a remedial rite against demons.
 
 
 ## Translations

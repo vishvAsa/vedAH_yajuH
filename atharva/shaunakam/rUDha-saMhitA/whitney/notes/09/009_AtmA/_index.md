@@ -3,7 +3,7 @@ title = "9. Mystic."
 
 +++
 ## Comment
-This hymn and the following (except a few verses of the latter) are one Rig-Veda hymn, namely, i. 164, and but a small part of them occur in any other Vedic text. Both are found in Pāipp. xvi., in somewhat changed verse-order, as will be noted under the different verses below. Vāit. takes no notice of this hymn; in Kāuç. it (vs. 1) is quoted in 18. 25, with various others, in a ceremony for prosperity; and the gaṇamālā (see note to Kāuç. 18. 25) reckons it as belonging to the salila gaṇa.
+This hymn and the following (except a few verses of the latter) are one Rig-Veda hymn, namely, i. 164, and but a small part of them occur in any other Vedic text. Both are found in Pāipp. xvi., in somewhat changed verse-order, as will be noted under the different verses below. Vāit. takes no notice of this hymn; in Kāuś. it (vs. 1) is quoted in 18. 25, with various others, in a ceremony for prosperity; and the gaṇamālā (see note to Kāuś. 18. 25) reckons it as belonging to the salila gaṇa.
 
 
 ## Translations

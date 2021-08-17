@@ -3,7 +3,7 @@ title = "21. To healing plants."
 
 +++
 ## Comment
-Found also in Pāipp. 1. Used by Kāuç. (30. 8) in a remedial rite for growth of hair.
+Found also in Pāipp. 1. Used by Kāuś. (30. 8) in a remedial rite for growth of hair.
 
 
 ## Translations

@@ -3,7 +3,7 @@ title = "25. To command a woman's love."
 
 +++
 ## Comment
-Not found in Pāipp. Used by Kāuç. (35. 22) in the chapters of women's rites, in a charm for bringing a woman under one's control, by pushing her with a finger, piercing the heart of an image of her, etc.
+Not found in Pāipp. Used by Kāuś. (35. 22) in the chapters of women's rites, in a charm for bringing a woman under one's control, by pushing her with a finger, piercing the heart of an image of her, etc.
 
 
 ## Translations

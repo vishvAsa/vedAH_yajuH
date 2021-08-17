@@ -3,7 +3,7 @@ title = "142. For increase of barley."
 
 +++
 ## Comment
-Not found in Pāipp. Used by Kāuç. (24. 1) in a rite of preparation for sowing seed, and reckoned (19. 1, note) among the puṣṭika mantras; vs. 3 also appears (19. 27) in a rite for prosperity, with binding on an amulet of barley.
+Not found in Pāipp. Used by Kāuś. (24. 1) in a rite of preparation for sowing seed, and reckoned (19. 1, note) among the puṣṭika mantras; vs. 3 also appears (19. 27) in a rite for prosperity, with binding on an amulet of barley.
 
 
 ## Translations

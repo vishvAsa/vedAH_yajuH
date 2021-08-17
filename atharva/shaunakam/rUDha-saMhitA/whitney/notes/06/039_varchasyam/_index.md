@@ -3,7 +3,7 @@ title = "39. For glory."
 
 +++
 ## Comment
-Found also in Pāipp. xix. Used by Kāuç. always in connection with hymn 38: see under that hymn.
+Found also in Pāipp. xix. Used by Kāuś. always in connection with hymn 38: see under that hymn.
 
 
 ## Translations

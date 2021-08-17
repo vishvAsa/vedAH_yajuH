@@ -3,7 +3,7 @@ title = "7. To Agni: for the discovеrу of sorcerers."
 
 +++
 ## Comment
-This hymn and the follоwing occur in Pāipp. iv., where the length of this one is more in place than here among the hymns of four verses. Both, with eight other hymns (mostly attributed by the Anukr. to Cātana as author), are called by Kāuç. (8. 25) cātanāni 'expellers,' and are used in a few places for exorcism and such purposes.
+This hymn and the follоwing occur in Pāipp. iv., where the length of this one is more in place than here among the hymns of four verses. Both, with eight other hymns (mostly attributed by the Anukr. to Cātana as author), are called by Kāuś. (8. 25) cātanāni 'expellers,' and are used in a few places for exorcism and such purposes.
 
 
 ## Translations

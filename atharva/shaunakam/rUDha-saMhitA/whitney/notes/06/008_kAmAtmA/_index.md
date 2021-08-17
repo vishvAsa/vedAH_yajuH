@@ -3,7 +3,7 @@ title = "8. To win a woman's love."
 
 +++
 ## Comment
-Not found in Pāipp. Used by Kāuç. (35. 21), in the rites concerning women, with vi. 9 and 102 and ii. 30, for bringing a woman under one's control.
+Not found in Pāipp. Used by Kāuś. (35. 21), in the rites concerning women, with vi. 9 and 102 and ii. 30, for bringing a woman under one's control.
 
 
 ## Translations

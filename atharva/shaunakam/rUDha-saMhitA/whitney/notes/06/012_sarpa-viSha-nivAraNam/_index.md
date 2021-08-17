@@ -3,7 +3,7 @@ title = "12. Against the poison of snakes."
 
 +++
 ## Comment
-Found also in Pāipp. xix. Used by Kāuç. (29. 28) in a remedial rite against the poison of serpents.
+Found also in Pāipp. xix. Used by Kāuś. (29. 28) in a remedial rite against the poison of serpents.
 
 
 ## Translations

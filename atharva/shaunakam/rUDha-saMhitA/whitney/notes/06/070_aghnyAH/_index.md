@@ -3,7 +3,7 @@ title = "70. To attach a cow to her calf."
 
 +++
 ## Comment
-Not found in Pāipp. Used by Kāuç. (41. 18) in a rite for producing mutual attachment between cow and calf.
+Not found in Pāipp. Used by Kāuś. (41. 18) in a rite for producing mutual attachment between cow and calf.
 
 
 ## Translations

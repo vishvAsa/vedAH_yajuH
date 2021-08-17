@@ -3,7 +3,7 @@ title = "38. For luck in gambling: by aid of an Apsaras."
 
 +++
 ## Comment
-This and the two following hymns are not found in Pāipp. Kāuç. uses it (doubtless only the first four verses) in a ceremony (41. 13) for success in gambling. Verses 5-7 are called karkīpravādās and used (21. 11) in a rite for the prosperity of kine, and also (66. 13) in the sava sacrifices, with a karkī as sava; and they are reckoned (19. 1, note) to the puṣṭika mantras. The comm. attempts no explanation of the mutual relation of the two apparently unconnected parts of the hymn; ⌊but Weber, in his note to verse 7, suggests a connection⌋. ⌊As to Bādarāyaṇi, see introd. to h. 40.⌋
+This and the two following hymns are not found in Pāipp. Kāuś. uses it (doubtless only the first four verses) in a ceremony (41. 13) for success in gambling. Verses 5-7 are called karkīpravādās and used (21. 11) in a rite for the prosperity of kine, and also (66. 13) in the sava sacrifices, with a karkī as sava; and they are reckoned (19. 1, note) to the puṣṭika mantras. The comm. attempts no explanation of the mutual relation of the two apparently unconnected parts of the hymn; ⌊but Weber, in his note to verse 7, suggests a connection⌋. ⌊As to Bādarāyaṇi, see introd. to h. 40.⌋
 
 
 ## Translations

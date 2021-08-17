@@ -3,7 +3,7 @@ title = "9. To win a woman's love."
 
 +++
 ## Comment
-Found also in Pāipp., but in ii. (not in xix., like the hymns that precede and follow). Used by Kāuç. (35. 21) with the preceding hymn, for the same purpose.
+Found also in Pāipp., but in ii. (not in xix., like the hymns that precede and follow). Used by Kāuś. (35. 21) with the preceding hymn, for the same purpose.
 
 
 ## Translations

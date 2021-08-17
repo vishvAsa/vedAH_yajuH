@@ -3,7 +3,7 @@ title = "35 (36). Against a rival (woman)."
 
 +++
 ## Comment
-The first two verses are found also in Pāipp. xx., but not together. Kāuç. employs the hymn in the same rule (36. 33) as hymn 34, to prevent an enemy's wife from bearing children; only vss. 2 and 3 are suited to such use. For the use of vs. 1 by Vāit. (29. 6), see under the preceding hymn.
+The first two verses are found also in Pāipp. xx., but not together. Kāuś. employs the hymn in the same rule (36. 33) as hymn 34, to prevent an enemy's wife from bearing children; only vss. 2 and 3 are suited to such use. For the use of vs. 1 by Vāit. (29. 6), see under the preceding hymn.
 
 
 ## Translations

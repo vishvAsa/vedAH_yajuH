@@ -4,8 +4,6 @@ title = "xx"
 +++
 
 
-​
-
 ⌊**Paippalada excerpts concerning book xx.**⌋
 
 ⌊Roth, at the end of his Collation, adds the Ppp. variants for verses 12
@@ -20,7 +18,7 @@ janaṁ;* and in **d**, it has *āmorucakṣat* for *ámūrchat*.⌋
 up-*; its **b** is simply *bhuvana veda janitaḥ;* its **c** is *parasyā
 bhaviṣyamāṇo hrojokṣad*.⌋
 
-⌊Verse 17. In **a**, Ppp. has *haryasyaçur* for *háryaçva āsutér*.⌋
+⌊Verse 17. In **a**, Ppp. has *haryasyaśur* for *háryaśva āsutér*.⌋
 
 ⌊Then follows a note to the effect that nothing of the Kuntāpa hymns
 appears in Ppp.⌋

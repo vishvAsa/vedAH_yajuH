@@ -3,7 +3,7 @@ title = "14. For safety."
 
 +++
 ## Comment
-This hymn is not found in Pāipp. It and the one following are included in the abhaya gaṇa (note to Kāuç. 16. 8).
+This hymn is not found in Pāipp. It and the one following are included in the abhaya gaṇa (note to Kāuś. 16. 8).
 
 
 ## Translations

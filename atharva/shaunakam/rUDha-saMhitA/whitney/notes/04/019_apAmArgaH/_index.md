@@ -3,7 +3,7 @@ title = "19. Against enemies: with a plant."
 
 +++
 ## Comment
-Found also, in connection with the two next preceding hymns, in Pāipp. v. Used by Kāuç. only in company with hymns 17 and 18, as described under h. 17. ⌊But vs. 2 is reckoned to the abhaya gaṇa, employed as battle-charms; see Kāuç. 16. 8, note.⌋
+Found also, in connection with the two next preceding hymns, in Pāipp. v. Used by Kāuś. only in company with hymns 17 and 18, as described under h. 17. ⌊But vs. 2 is reckoned to the abhaya gaṇa, employed as battle-charms; see Kāuś. 16. 8, note.⌋
 
 
 ## Translations

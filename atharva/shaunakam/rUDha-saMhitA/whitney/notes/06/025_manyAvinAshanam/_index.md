@@ -3,7 +3,7 @@ title = "25. For relief from pains (?) in neck and shoulders."
 
 +++
 ## Comment
-Found also in Pāipp. xix. Used in Kāuç. (30. 14) in a healing rite against gaṇḍamālās, with kindling fifty-five paraçu (comm., -çū) leaves by chips.
+Found also in Pāipp. xix. Used in Kāuś. (30. 14) in a healing rite against gaṇḍamālās, with kindling fifty-five paraśu (comm., -śū) leaves by chips.
 
 
 ## Translations

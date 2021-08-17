@@ -3,7 +3,7 @@ title = "29. Praise and prayer to Mitra and Varuṇa."
 
 +++
 ## Comment
-Found in Pāipp. iv. (with vs. 5 put before vs. 4). The first and last verses also in the Yajus texts (see under h. 23), between those of our hymns 24 and 25. For the use by Kāuç. as mṛgāra hymn, see under h. 23.
+Found in Pāipp. iv. (with vs. 5 put before vs. 4). The first and last verses also in the Yajus texts (see under h. 23), between those of our hymns 24 and 25. For the use by Kāuś. as mṛgāra hymn, see under h. 23.
 
 
 ## Translations

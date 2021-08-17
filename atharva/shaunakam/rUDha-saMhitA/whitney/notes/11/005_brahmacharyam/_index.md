@@ -3,7 +3,7 @@ title = "5. Extolling the Vedic student (brahmacārin)."
 
 +++
 ## Comment
-Found also in Pāipp. xvi. (with slight differences of order, which will be pointed out under the verses). Not quoted either in the Kāuçika or in the Vāitāna Sūtra; ⌊but the schol. to Kāuç. 55. 18 prescribe vs. 3 for use in the upanayana⌋. ⌊It is cited also at the beginning of GB. (i. 2. 1-8), the chapter on the brahmacārin.⌋
+Found also in Pāipp. xvi. (with slight differences of order, which will be pointed out under the verses). Not quoted either in the Kāuśika or in the Vāitāna Sūtra; ⌊but the schol. to Kāuś. 55. 18 prescribe vs. 3 for use in the upanayana⌋. ⌊It is cited also at the beginning of GB. (i. 2. 1-8), the chapter on the brahmacārin.⌋
 
 
 ## Translations

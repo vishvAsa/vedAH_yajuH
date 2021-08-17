@@ -21,10 +21,10 @@ was true of the preceding book (see page 792), no translation of this
 book has been published by the translators of single books; but from
 here on to the end of xx. 37 we have the *bhāṣya*.
 
-⌊The Atharvaṇīya-paddhati, in a chapter on *veda-vratas* (note to Kāuç.
+⌊The Atharvaṇīya-paddhati, in a chapter on *veda-vratas* (note to Kāuś.
 57. 32), nominates a *viṣāsahi-vrata;* and the same *vrata* is mentioned
-by Keçava, in his note to Kāuç. 42. 12, p. 344²⁴, together with the
-*çiro-vrata*, which latter is known as a necessary preliminary to the
+by Keśava, in his note to Kāuś. 42. 12, p. 344²⁴, together with the
+*śiro-vrata*, which latter is known as a necessary preliminary to the
 study of the "Shaveling Upanishad" (see Muṇḍaka, iii. 2. 10). "Doubtless
 this hymn figured prominently in it" \[the *viṣāsahi-vrata*\], says
 Bloomfield, in his part of the *Grundriss*, p. 95.⌋
@@ -75,6 +75,6 @@ intrusive *bráhmaṇā* of 27 **a**) are 4 perfectly regular stanzas, of
 which all the pādas are *triṣṭubh* except 30 **a** and 30 **c**, which
 are *jagatī* in count and cadence. We might call them *paritta*-vents,
 charms for defense and protection; they show various derivatives of the
-roots *vṛ* and *gup*, and references to Kaçyapa (see note to iv. 20.
+roots *vṛ* and *gup*, and references to Kaśyapa (see note to iv. 20.
 7).⌋
 

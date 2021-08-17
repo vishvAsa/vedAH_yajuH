@@ -1,9 +1,9 @@
 +++
-title = "10. Extolling the cow (vaçā́)."
+title = "10. Extolling the cow (vaśā́)."
 
 +++
 ## Comment
-Found also in Pāipp. xvi. ⌊with the verse-sequence 15 a, b, 14 c, d, 13, 14 a, b, 15 c, d, 17, 16, 18; vs. 3 is lacking⌋. Not noticed in Vāit., and only once in Kāuç., at 66. 20, where vs. 1 (or the hymn ⌊rather the hymn⌋) is used, with xii. 4, to accompany the sprinkling of an offered cow.
+Found also in Pāipp. xvi. ⌊with the verse-sequence 15 a, b, 14 c, d, 13, 14 a, b, 15 c, d, 17, 16, 18; vs. 3 is lacking⌋. Not noticed in Vāit., and only once in Kāuś., at 66. 20, where vs. 1 (or the hymn ⌊rather the hymn⌋) is used, with xii. 4, to accompany the sprinkling of an offered cow.
 
 
 ## Translations

@@ -82,8 +82,8 @@ sum of verses is 283, as is also stated by the same treatise, if we
 disregard an apparent misreading, ibidem.⌋
 
 ⌊**The Major Anukr.** begins its treatment of the book thus: *o cit
-sakhāyam* (xviii. 1. 1) *iti caturanuvākam aṣṭāviṅçatisūktakaṁ
-tryaçītidviçatanavatyarcaṁ* (? read *-dviçatarcam*) *yamadevatyaṁ
+sakhāyam* (xviii. 1. 1) *iti caturanuvākam aṣṭāviṅśatisūktakaṁ
+tryaśītidviśatanavatyarcaṁ* (? read *-dviśatarcam*) *yamadevatyaṁ
 trāiṣṭubhaṁ kāṇḍam atharvā mantroktabahudevatyaṁ ca.*⌋
 
 ⌊That is to say: 'The book that begins with *o cit sakhāyam* has four
@@ -95,8 +95,8 @@ are Yama and many others mentioned in its *mantras.*'⌋
 piecemeal at the end of each *anuvāka* and may here be reconstructed
 into a metrical couplet:
 
-*ekaṣaṣṭiç ca ṣaṣṭiç ca saptatis tryadhikā paraḥ:*  
-*ekonanavatiç cāi ’va yameṣu vihitā ṛcaḥ.*
+*ekaṣaṣṭiś ca ṣaṣṭiś ca saptatis tryadhikā paraḥ:*  
+*ekonanavatiś cāi ’va yameṣu vihitā ṛcaḥ.*
 
 That is to say: 'Sixty-one; and sixty; the next \[*anuvāka*\]
 three-over-seventy; and ninety-less-one: are the verses disposed among
@@ -118,7 +118,7 @@ The whole book is wanting in Pāipp., although a very few of the verses
 (namely, 1. 46; 2. 13, 17; 3. 56; 4. 49) are found here and there in its
 text. In the Vāit, which has no chapter devoted to funeral rites, only
 fifteen scattered passages ⌊covering about a score of verses⌋ are used;
-but in the Kāuç., most of the verses from 1. 40 on to the end of the
+but in the Kāuś., most of the verses from 1. 40 on to the end of the
 book are quoted, solely in the chapter (*adhyāya* xi.: sections or
 *kanḍikās* 80-89) which deals with funeral rites and rites to the
 Fathers or Manes. ⌊See p. 1016.⌋

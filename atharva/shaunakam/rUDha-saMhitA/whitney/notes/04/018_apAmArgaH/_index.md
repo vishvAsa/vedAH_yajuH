@@ -3,7 +3,7 @@ title = "18. Against witchcraft: with a plant."
 
 +++
 ## Comment
-Found in Pāipp. v. (vs. 6 before 5). Used by Kāuç. only in company with h. 17, as there explained.
+Found in Pāipp. v. (vs. 6 before 5). Used by Kāuś. only in company with h. 17, as there explained.
 
 
 ## Translations

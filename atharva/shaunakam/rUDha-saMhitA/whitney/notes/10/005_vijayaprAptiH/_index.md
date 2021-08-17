@@ -9,4 +9,4 @@ title = "5. Preparation and use of water-thunderbolts."
 *⌊Bp. does indeed begin anew at vs. 41 (not vs. 42!) to number the verses as 1 etc.⌋
 
 
-†⌊Just where vs. 36 belongs—if it does not form a division by itself—is not clear; it goes well as an ending to the group of vss. 25-35 and is cited with them (Keçava, p. 35231: iti dvādaçabhiḥ). On the other hand, the Anukr. expressly defines division B as ekādaça; and the corrupt mārtvī or mārtvi of the Anukr. seems to contain an ascription of authorship for vs. 36. Dr. Ryder suggests that Mārīca may be intended (cf. vii. 62, 63; x. 10). See my arrangement of the Anukr. extracts just before vs. 25.⌋
+†⌊Just where vs. 36 belongs—if it does not form a division by itself—is not clear; it goes well as an ending to the group of vss. 25-35 and is cited with them (Keśava, p. 35231: iti dvādaśabhiḥ). On the other hand, the Anukr. expressly defines division B as ekādaśa; and the corrupt mārtvī or mārtvi of the Anukr. seems to contain an ascription of authorship for vs. 36. Dr. Ryder suggests that Mārīca may be intended (cf. vii. 62, 63; x. 10). See my arrangement of the Anukr. extracts just before vs. 25.⌋

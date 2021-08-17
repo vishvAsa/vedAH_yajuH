@@ -3,7 +3,7 @@ title = "25. Against fever"
 
 +++
 ## Comment
-Found in Pāipp. i. Used by Kāuç. in a remedial rite (26. 25) against fever, in connection with heating an ax and dipping it in hot water to make a lotion; and reckoned (26. 1, note) to the takmanāçana gaṇa.
+Found in Pāipp. i. Used by Kāuś. in a remedial rite (26. 25) against fever, in connection with heating an ax and dipping it in hot water to make a lotion; and reckoned (26. 1, note) to the takmanāśana gaṇa.
 
 
 ## Translations

@@ -3,7 +3,7 @@ title = "26. For safety and increase of kine."
 
 +++
 ## Comment
-Found in Pāipp. ii. Used by Kāuç. (19. 14), with iii. 14, iv. 21, and ix. 7 ⌊not vi. 11. 3—see comm. to ix. 7 = 12⌋, in a ceremony for the prosperity of cattle.
+Found in Pāipp. ii. Used by Kāuś. (19. 14), with iii. 14, iv. 21, and ix. 7 ⌊not vi. 11. 3—see comm. to ix. 7 = 12⌋, in a ceremony for the prosperity of cattle.
 
 
 ## Translations

@@ -3,7 +3,7 @@ title = "109. For healing: with pippalī́."
 
 +++
 ## Comment
-Found also in Pāipp. xix. Employed in Kāuç. once (26. 33) with vi. 85, 127, and other hymns, and once (26. 38) alone, in a remedial rite against various wounds.
+Found also in Pāipp. xix. Employed in Kāuś. once (26. 33) with vi. 85, 127, and other hymns, and once (26. 38) alone, in a remedial rite against various wounds.
 
 
 ## Translations

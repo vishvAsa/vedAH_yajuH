@@ -3,7 +3,7 @@ title = "27. Against various evils."
 
 +++
 ## Comment
-Found in Pāipp. xix. For the use of the hymn with its predecessor by Kāuç., see under 26; it is also reckoned to the svastyayana gaṇa (25. 36, note); and vs. 4 appears by itself near the beginning of the svastyayana ceremonies, in the same rite as hymns 26 and 27.
+Found in Pāipp. xix. For the use of the hymn with its predecessor by Kāuś., see under 26; it is also reckoned to the svastyayana gaṇa (25. 36, note); and vs. 4 appears by itself near the beginning of the svastyayana ceremonies, in the same rite as hymns 26 and 27.
 
 
 ## Translations

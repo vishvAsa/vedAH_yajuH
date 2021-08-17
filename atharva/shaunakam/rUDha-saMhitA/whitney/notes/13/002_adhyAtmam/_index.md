@@ -3,7 +3,7 @@ title = "2. To the sun."
 
 +++
 ## Comment
-Found also in Pāipp. xviii. Only twice (vs. 1) quoted in Kāuç., but several times (eight different verses) by Vāit.
+Found also in Pāipp. xviii. Only twice (vs. 1) quoted in Kāuś., but several times (eight different verses) by Vāit.
 
 
 ## Translations

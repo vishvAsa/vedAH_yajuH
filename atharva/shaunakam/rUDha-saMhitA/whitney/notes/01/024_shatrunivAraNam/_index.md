@@ -3,7 +3,7 @@ title = "24. Against leprosy."
 
 +++
 ## Comment
-Found in Pāipp. i., but not in connection with the preceding hymn. For the use of 23 and 24 together by Kāuç., see under hymn 23.
+Found in Pāipp. i., but not in connection with the preceding hymn. For the use of 23 and 24 together by Kāuś., see under hymn 23.
 
 
 ## Translations

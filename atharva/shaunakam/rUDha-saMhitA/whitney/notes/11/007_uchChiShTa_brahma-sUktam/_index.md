@@ -3,7 +3,7 @@ title = "7. Extolling the remnant (úcchiṣṭa) of the offering."
 
 +++
 ## Comment
-Found also (except vs. 25) in Pāipp. xvi. ⌊The hymn is not cited in the text of Kāuç. nor of Vāit.⌋
+Found also (except vs. 25) in Pāipp. xvi. ⌊The hymn is not cited in the text of Kāuś. nor of Vāit.⌋
 
 
 ## Translations

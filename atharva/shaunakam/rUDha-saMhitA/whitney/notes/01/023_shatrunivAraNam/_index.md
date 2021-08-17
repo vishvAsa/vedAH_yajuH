@@ -3,7 +3,7 @@ title = "23. Against leprosy: with a healing herb."
 
 +++
 ## Comment
-Found in Pāipp. i., but defaced, so that for the most part comparison is impossible. Also, with vs. 3 of the next hymn, in TB. (11. 4. 41-2). Used by Kāuç. (26. 22-24), in company with the next following hymn, in a remedial rite (against white leprosy, (çvetakuṣṭha, schol. and comm.).
+Found in Pāipp. i., but defaced, so that for the most part comparison is impossible. Also, with vs. 3 of the next hymn, in TB. (11. 4. 41-2). Used by Kāuś. (26. 22-24), in company with the next following hymn, in a remedial rite (against white leprosy, (śvetakuṣṭha, schol. and comm.).
 
 
 ## Translations

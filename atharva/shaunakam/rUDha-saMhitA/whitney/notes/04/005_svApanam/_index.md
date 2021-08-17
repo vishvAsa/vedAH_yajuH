@@ -3,7 +3,7 @@ title = "5. An incantation to put to sleep."
 
 +++
 ## Comment
-Found in Pāipp. iv., next after our hymn 4. Part of the verses are RV. vii. 55. 5-8. Used by Kāuç. among the women's rites, in a rite (36. 1 ff.) for putting to sleep a woman and her attendants, in order to approach her safely.
+Found in Pāipp. iv., next after our hymn 4. Part of the verses are RV. vii. 55. 5-8. Used by Kāuś. among the women's rites, in a rite (36. 1 ff.) for putting to sleep a woman and her attendants, in order to approach her safely.
 
 
 ## Translations

@@ -60,7 +60,7 @@ principal passages of the literature which would here come into
 consideration are those that treat of the *vrātya-stomas* (ceremonies by
 which *vrātyas* gain admission to the Brahmanical order), namely the
 seventeenth *adhyāya* of the PB. (parts 1-4) and the eighth *prapāṭhaka*
-of LÇS. (part 6).—Excerpts from these passages were given by Weber
+of LśS. (part 6).—Excerpts from these passages were given by Weber
 (1849), *Ind. Stud.* i. 33, 52; and, more recently, the main points were
 reported by Hillebrandt, *Ritual-litteratur*, p. 139. And the whole
 matter has been made the subject of an article by Rājārām Rāmkrishṇa
@@ -105,22 +105,22 @@ numbers in parentheses refer to the *paryāyas* as counted from the
 beginning of the *anuvāka;* and those in brackets refer to the
 *paryāyas* as counted from the beginning of the book.
 
-*vrātyādyāḥ sapta paryāyā ekādaça paro bhavet:*  
-*astāu* (i. 1) *dvyūnā tatas triṅçad* (i. 2) *ekādaça paro bhavet* (i.
+*vrātyādyāḥ sapta paryāyā ekādaśa paro bhavet:*  
+*astāu* (i. 1) *dvyūnā tatas triṅśad* (i. 2) *ekādaśa paro bhavet* (i.
 3).  
-*dvyūnā tu viṅçatis turyaḥ* (i. 4) *pañcamaḥ ṣoḍaça smṛtaḥ* (i. 5):  
-*viṅçatiḥ ṣaṭ ca ṣaṣṭhaç ca* (i. 6) *saptamaḥ pañcaka ucyate* (i. 7).
+*dvyūnā tu viṅśatis turyaḥ* (i. 4) *pañcamaḥ ṣoḍaśa smṛtaḥ* (i. 5):  
+*viṅśatiḥ ṣaṭ ca ṣaṣṭhaś ca* (i. 6) *saptamaḥ pañcaka ucyate* (i. 7).
 
 ​
 
-⁠*ekādaçakās trayo ‘tra bodhyā* (ii. 3, 4, 5)
+⁠*ekādaśakās trayo ‘tra bodhyā* (ii. 3, 4, 5)
 
 \[10, 11, 12\]  
-⁠*dvāv ādyāv atha niçcitāu trikāu tāu* (ii. 1, 2): \[8, 9\]  
-⁠*ṣaṣṭhaṁ* \[*tu*\] *caturdaçā ’tra vidyād* (ii. 6) \[13\]  
-⁠*daça daçamaṁ (ii. 10) navamas tu saptakaḥ syāt* (ii. 9) \[17, 16\]  
-*catvāri viṅçatiç cāi ’va saptamo vacanāni tu* (ii. 7) \[14\]  
-*aṣṭamaṁ navakaṁ vidyāt (ii. 8) pañcako daçamāt paraḥ* (ii. 11) \[15,
+⁠*dvāv ādyāv atha niścitāu trikāu tāu* (ii. 1, 2): \[8, 9\]  
+⁠*ṣaṣṭhaṁ* \[*tu*\] *caturdaśā ’tra vidyād* (ii. 6) \[13\]  
+⁠*daśa daśamaṁ (ii. 10) navamas tu saptakaḥ syāt* (ii. 9) \[17, 16\]  
+*catvāri viṅśatiś cāi ’va saptamo vacanāni tu* (ii. 7) \[14\]  
+*aṣṭamaṁ navakaṁ vidyāt (ii. 8) pañcako daśamāt paraḥ* (ii. 11) \[15,
 18\]⌋
 
 ⌊A conspectus of the divisions in tabular form follows. In each of the
@@ -201,7 +201,7 @@ a sequence of refrains or *anuṣan̄gas*, the refrain is given in full and
 counted as a separate *avasāna* only for its first and last occurrence
 in that sequence.—In *paryāya* 5 (see note), there are 7 *gaṇas*, each
 with 3 subdivisions (the first ending with *akurvan* and the second with
-*ī́çānaḥ*): therefore we have 2 *gaṇas* (the first and last), each with 3
+*ī́śānaḥ*): therefore we have 2 *gaṇas* (the first and last), each with 3
 subdivisions, making 6; and the remaining 5, each with 2 (**a** and
 **b-c**), making 10; and so, in all, 16.—In *paryāya* 2 (for minor
 differences, see notes), we have the first and last, each with 8
@@ -224,9 +224,9 @@ and the last 6 as *gaṇa-avasānarcas* (3 *gaṇas* of 2 each).⌋
 
   
 ⌊Of this book we find in Pāipp. (in xviii.) only the first *paryāya* and
-a phrase from the second.\* Moreover, neither Kāuç. nor Vāit. make any
+a phrase from the second.\* Moreover, neither Kāuś. nor Vāit. make any
 citations from the book; but it may be noted that xv. 5. 1 is reckoned
-to the *rāudra gaṇa* by the schol. to Kāuç. 50. 13. In respect of
+to the *rāudra gaṇa* by the schol. to Kāuś. 50. 13. In respect of
 contents and style, the book is quite like the Brāhmaṇas, and it is all
 in prose. Occasional sequences of words are rhythmical (so the first
 phrase of 17. 8 and the relative clauses of 15 and 16 and 17); but these
@@ -244,6 +244,6 @@ those of the Berlin edition.⌋
 ⌊The excerpts from the Major Anukr. which concern the *kāṇḍa* as a whole
 may first be given.⌋
 
-\[*aṣṭādaça paryāyāḥ. adhyātmakam; mantroktadevatyā uta
+\[*aṣṭādaśa paryāyāḥ. adhyātmakam; mantroktadevatyā uta
 vrātyadāivatam.*\]
 

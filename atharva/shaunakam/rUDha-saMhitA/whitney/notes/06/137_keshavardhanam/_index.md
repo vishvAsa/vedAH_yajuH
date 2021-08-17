@@ -3,7 +3,7 @@ title = "137. To fasten and increase the hair."
 
 +++
 ## Comment
-Of this hymn only the second verse is found in Pāipp. (i.). It is used by Kāuç. only with the preceding hymn, as there explained.
+Of this hymn only the second verse is found in Pāipp. (i.). It is used by Kāuś. only with the preceding hymn, as there explained.
 
 
 ## Translations

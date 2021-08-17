@@ -1,9 +1,9 @@
 +++
-title = "30. To the çamī́ plant: for benefit to the hair."
+title = "30. To the śamī́ plant: for benefit to the hair."
 
 +++
 ## Comment
-Found also in Pāipp. xix. Verse 1 is wholly unconnected in meaning with the others, nor do these clearly belong together. Used by Kāuç. (66. 15) in the savayajñas, at a sava called pāunaḥçila (pāunasira, comm.); and vs. 2 (2 and 3, comm.) in a remedial rite (31. 1).
+Found also in Pāipp. xix. Verse 1 is wholly unconnected in meaning with the others, nor do these clearly belong together. Used by Kāuś. (66. 15) in the savayajñas, at a sava called pāunaḥśila (pāunasira, comm.); and vs. 2 (2 and 3, comm.) in a remedial rite (31. 1).
 
 
 ## Translations

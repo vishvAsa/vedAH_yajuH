@@ -3,7 +3,7 @@ title = "1. To Rohita (the sun, as ruddy one)."
 
 +++
 ## Comment
-Found also in Pāipp. xviii. ⌊with vs. 30 after 31; vss. 56-57, 59-60 are lacking; vs. 58 is lacking in Pāipp. xviii., but is found in Pāipp. xx.⌋. A number of the verses are used in various parts of Kāuç., and several (four) in Vāit. *⌊So the Berlin ms. (against jagatī of the London ms.): and atijagatī more nearly fits the vs.⌋ †⌊Here the Anukr. text looks as if in disorder: it seems as if yaṁ vāta (vs. 51) iti ṣaḍ anuṣṭubhaḥ ought to refer to the 6 vss. 51, 53-54, 56-58.⌋
+Found also in Pāipp. xviii. ⌊with vs. 30 after 31; vss. 56-57, 59-60 are lacking; vs. 58 is lacking in Pāipp. xviii., but is found in Pāipp. xx.⌋. A number of the verses are used in various parts of Kāuś., and several (four) in Vāit. *⌊So the Berlin ms. (against jagatī of the London ms.): and atijagatī more nearly fits the vs.⌋ †⌊Here the Anukr. text looks as if in disorder: it seems as if yaṁ vāta (vs. 51) iti ṣaḍ anuṣṭubhaḥ ought to refer to the 6 vss. 51, 53-54, 56-58.⌋
 
 
 ## Translations

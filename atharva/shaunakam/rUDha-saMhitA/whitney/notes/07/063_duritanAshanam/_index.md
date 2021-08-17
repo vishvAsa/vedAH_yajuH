@@ -3,7 +3,7 @@ title = "63 (65). To Agni: for aid."
 
 +++
 ## Comment
-Found also in Pāipp. xx. Kāuç. (69. 22) uses it in the preparation of the house-fire, with invocation.
+Found also in Pāipp. xx. Kāuś. (69. 22) uses it in the preparation of the house-fire, with invocation.
 
 
 ## Translations

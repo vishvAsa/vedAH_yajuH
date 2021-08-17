@@ -3,7 +3,7 @@ title = "18. Against jealousy."
 
 +++
 ## Comment
-Found also in Pāipp. xix. Used by Kāuç. (36. 25), with vii. 45 and 74. 3, in a rite against jealousy.
+Found also in Pāipp. xix. Used by Kāuś. (36. 25), with vii. 45 and 74. 3, in a rite against jealousy.
 
 
 ## Translations

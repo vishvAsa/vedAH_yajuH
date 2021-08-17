@@ -3,7 +3,7 @@ title = "3. Against wild beasts and thieves."
 
 +++
 ## Comment
-Found in Pāipp. ii. (except vs. 5, and in the verse-order 1-3, 7, 6, 4). Used by Kāuç. (51. 1) in a rite for the prosperity of kine and their safety from tigers, robbers, and the like; also reckoned (50. 13, note) to the rāudra gaṇa.
+Found in Pāipp. ii. (except vs. 5, and in the verse-order 1-3, 7, 6, 4). Used by Kāuś. (51. 1) in a rite for the prosperity of kine and their safety from tigers, robbers, and the like; also reckoned (50. 13, note) to the rāudra gaṇa.
 
 
 ## Translations

@@ -3,7 +3,7 @@ title = "138. To make a certain man impotent."
 
 +++
 ## Comment
-Found (except vs. 5) also in Pāipp. i. Used by Kāuç. (48. 32) in a rite of sorcery, with wrapping, crushing, and burying urine and fæces.
+Found (except vs. 5) also in Pāipp. i. Used by Kāuś. (48. 32) in a rite of sorcery, with wrapping, crushing, and burying urine and fæces.
 
 
 ## Translations

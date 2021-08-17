@@ -3,7 +3,7 @@ title = "110. For a child born at an unlucky time."
 
 +++
 ## Comment
-This hymn is not found in Pāipp. Kāuç. (46. 25) applies it for the benefit of a child born under an inauspicious asterism.
+This hymn is not found in Pāipp. Kāuś. (46. 25) applies it for the benefit of a child born under an inauspicious asterism.
 
 
 ## Translations

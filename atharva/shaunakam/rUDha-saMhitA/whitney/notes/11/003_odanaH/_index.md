@@ -12,7 +12,7 @@ SPP., without any good reason,* counts the three paryāyas or divisions of this 
 *⌊Whether Whitney's condemnation of SPP's procedure is justified or not may be decided when all the facts are before us. Some of them have been put together by me, above, pages 610, 611, which see.⌋
 
 
-⌊The hymn is not cited by Vāit.; nor in the text of Kāuç., unless vs. 31 is meant at 62. 8: but Keçava (p. 3531) cites it for use in witchcraft practices (so the comm.), and also (p. 3652) for use in the bṛhaspati sava (so comm.).⌋
+⌊The hymn is not cited by Vāit.; nor in the text of Kāuś., unless vs. 31 is meant at 62. 8: but Keśava (p. 3531) cites it for use in witchcraft practices (so the comm.), and also (p. 3652) for use in the bṛhaspati sava (so comm.).⌋
 
 
 

@@ -3,7 +3,7 @@ title = "29. Against birds of ill omen."
 
 +++
 ## Comment
-Not found in Pāipp. Used by Kāuç. (46. 7) with the two preceding hymns.
+Not found in Pāipp. Used by Kāuś. (46. 7) with the two preceding hymns.
 
 
 ## Translations

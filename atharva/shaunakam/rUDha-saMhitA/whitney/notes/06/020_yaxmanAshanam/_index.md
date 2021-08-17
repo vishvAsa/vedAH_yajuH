@@ -3,7 +3,7 @@ title = "20. Against fever (takmán)."
 
 +++
 ## Comment
-Only the last verse is found in Pāipp., in book xiii. Appears in Kāuç. (30. 7) in a remedial rite for bilious fever, and is reckoned (note to 26. 1) to the takmanāçana gaṇa.
+Only the last verse is found in Pāipp., in book xiii. Appears in Kāuś. (30. 7) in a remedial rite for bilious fever, and is reckoned (note to 26. 1) to the takmanāśana gaṇa.
 
 
 ## Translations

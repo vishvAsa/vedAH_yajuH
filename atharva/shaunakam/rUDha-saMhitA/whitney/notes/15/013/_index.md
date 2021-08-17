@@ -7,7 +7,7 @@ title = "13. Paryāya the thirteenth."
 
 
 
-⌊The passage from Āp. Dharma-sūtra, ii. 3. 7 (see introd. to paryāya 11), parallel to our vss. 1-5, may here be given: ekarātraṁ ced atithīn vāsayet pārthivāṅl lokān abhijayati, dvitīyayā ’ntarikṣyāṅs, tṛtīyayā divyāṅç, caturthyā parāvato lokān, aparimitābhir aparimitāṅl lokān abhijayatī ’ti vijñāyate. 16.⌋
+⌊The passage from Āp. Dharma-sūtra, ii. 3. 7 (see introd. to paryāya 11), parallel to our vss. 1-5, may here be given: ekarātraṁ ced atithīn vāsayet pārthivāṅl lokān abhijayati, dvitīyayā ’ntarikṣyāṅs, tṛtīyayā divyāṅś, caturthyā parāvato lokān, aparimitābhir aparimitāṅl lokān abhijayatī ’ti vijñāyate. 16.⌋
 
 
 ## Translations

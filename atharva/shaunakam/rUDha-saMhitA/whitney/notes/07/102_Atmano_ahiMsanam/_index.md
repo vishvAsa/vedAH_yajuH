@@ -3,7 +3,7 @@ title = "102 (107). Accompanying self-relief."
 
 +++
 ## Comment
-Wanting in Pāipp. Kāuç. (52. 15) prescribes it in a rite for welfare, "with action as given in the verse" (iti mantroktam).
+Wanting in Pāipp. Kāuś. (52. 15) prescribes it in a rite for welfare, "with action as given in the verse" (iti mantroktam).
 
 
 ## Translations

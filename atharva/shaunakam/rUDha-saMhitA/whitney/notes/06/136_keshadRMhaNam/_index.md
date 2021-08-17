@@ -3,7 +3,7 @@ title = "136. To fasten and increase the hair."
 
 +++
 ## Comment
-Not found in Pāipp. Used by Kāuç. (31. 28), with the following hymn, in a remedial rite for the growth of the hair.
+Not found in Pāipp. Used by Kāuś. (31. 28), with the following hymn, in a remedial rite for the growth of the hair.
 
 
 ## Translations

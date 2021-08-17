@@ -3,7 +3,7 @@ title = "56. For protection from serpents."
 
 +++
 ## Comment
-Found also in Pāipp. xix. (in the verse-order 1, 3, 2). Used by Kāuç. (50. 17), in a rite for welfare, with iii. 26, 27 and xii. 1. 46, against serpents, scorpions, etc.; and again (139. 8), with various other verses and hymns, in the ceremony for commencing Vedic study. In Vāit. (29. 10), in the agnicayana, it and other passages accompany oblations to Rudra.
+Found also in Pāipp. xix. (in the verse-order 1, 3, 2). Used by Kāuś. (50. 17), in a rite for welfare, with iii. 26, 27 and xii. 1. 46, against serpents, scorpions, etc.; and again (139. 8), with various other verses and hymns, in the ceremony for commencing Vedic study. In Vāit. (29. 10), in the agnicayana, it and other passages accompany oblations to Rudra.
 
 
 ## Translations

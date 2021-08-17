@@ -3,7 +3,7 @@ title = "47. For blessings: at the three daily libations."
 
 +++
 ## Comment
-Found also in Pāipp. xix. and in TS. (iii. 1. 91-2), and KÇS. Not used by Kāuç.; appears in Vāit. (21. 7) in the agniṣṭoma, with vi. 48 and ix. 1. 11-13, at the savanas.
+Found also in Pāipp. xix. and in TS. (iii. 1. 91-2), and KśS. Not used by Kāuś.; appears in Vāit. (21. 7) in the agniṣṭoma, with vi. 48 and ix. 1. 11-13, at the savanas.
 
 
 ## Translations

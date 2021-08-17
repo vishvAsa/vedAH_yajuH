@@ -18,9 +18,9 @@ XI et XII de l'Atharva-véda traduits et commentés*, Paris, 1896. Here
 again we have the *bhāṣya* for the entire book.⌋
 
 ⌊The ritual uses of this book are confined for the most part to the
-first hymn, nearly every verse of which is quoted in Kāuçika 60-63 and
+first hymn, nearly every verse of which is quoted in Kāuśika 60-63 and
 65 in connection with the details of the *sava* sacrifice. Of the other
-nine hymns only sporadic citations are made by Kāuçika; and in the
+nine hymns only sporadic citations are made by Kāuśika; and in the
 Vāitāna, only a single quotation (of 2. 1) is made out of the whole
 book.⌋
 
@@ -96,7 +96,7 @@ procedure of R. and W. Moreover, as W. says (p. 472, top), the
 one "subject-matter-hymn" (*arthasūkta:* but not in its narrower
 technical sense).—It may be added that the Major Anukr., at the end of
 its 7th *paṭala* and of its treatment of our book xi., says *evaṁ
-ṣaṭtriṅçad arthasūktāni:* that is right; for books viii.-xi. have,
+ṣaṭtriṅśad arthasūktāni:* that is right; for books viii.-xi. have,
 according to the Berlin count, (4 × 10 hymns =) 40 hymns, of which 4
 hymns (our viii. 10, ix. 6, ix. 7, and xi. 3) are *paryāya-sūktas*,
 leaving 36 *artha-sūktas*. But this does not prove that our 4

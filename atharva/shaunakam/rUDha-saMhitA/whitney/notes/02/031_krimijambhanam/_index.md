@@ -3,7 +3,7 @@ title = "31. Against worms."
 
 +++
 ## Comment
-Found also in Pāipp. ii. Used by Kāuç. (27. 14 ff.) in an extended healing rite against worms; the detail of the ceremonial has nothing to do with that of the hymn, and does not illustrate the latter.
+Found also in Pāipp. ii. Used by Kāuś. (27. 14 ff.) in an extended healing rite against worms; the detail of the ceremonial has nothing to do with that of the hymn, and does not illustrate the latter.
 
 
 ## Translations

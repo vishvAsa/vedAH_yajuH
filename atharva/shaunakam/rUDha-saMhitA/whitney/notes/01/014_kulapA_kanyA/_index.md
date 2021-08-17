@@ -3,7 +3,7 @@ title = "14. Imprecation of spinsterhood on a woman."
 
 +++
 ## Comment
-Found in Pāipp. i. Used by Kāuç. (36. 15-18) in an incantation against a woman; the details of it cast no light on those of the hymn; and the comm. defines its purpose simply as striyāḥ puruṣasya vā dāurbhāgyakaraṇam.
+Found in Pāipp. i. Used by Kāuś. (36. 15-18) in an incantation against a woman; the details of it cast no light on those of the hymn; and the comm. defines its purpose simply as striyāḥ puruṣasya vā dāurbhāgyakaraṇam.
 
 
 ## Translations

@@ -3,7 +3,7 @@ title = "128. For auspicious time: with dung-smoke."
 
 +++
 ## Comment
-Except the third verse, this hymn occurs also in Pāipp. xix. Besides the ceremony reported under vs. 1, Kāuç. has the hymn (50. 13) in a general rite for good fortune, with vi. 1, 3-7, 59, etc. etc.; and also, in the chapter of portents (100. 3), in an expiatory ceremony on occasion of an eclipse of the moon (somagrahaṇa, comm.); vs. 3, too, is specially quoted in the aṣṭakā ceremony (138. 8), as accompanying a nineteenth [oblation?].
+Except the third verse, this hymn occurs also in Pāipp. xix. Besides the ceremony reported under vs. 1, Kāuś. has the hymn (50. 13) in a general rite for good fortune, with vi. 1, 3-7, 59, etc. etc.; and also, in the chapter of portents (100. 3), in an expiatory ceremony on occasion of an eclipse of the moon (somagrahaṇa, comm.); vs. 3, too, is specially quoted in the aṣṭakā ceremony (138. 8), as accompanying a nineteenth [oblation?].
 
 
 ## Translations

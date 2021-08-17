@@ -27,12 +27,12 @@ viii., see below. The whole book has been translated by Victor Henry,
 we have no more of it till the beginning of book xi. But in lieu of the
 missing introductions, Shankar Pandurang Pandit gives introductions of
 his own, modelled on those of the *bhāṣya*, and drawn from the same
-sources, the Kāuçika, the Keçavī, etc.⌋
+sources, the Kāuśika, the Keśavī, etc.⌋
 
 ⌊The Major Anukramaṇī, at the beginning of §2 of its treatment of book
 viii., says that, 'up to the end of book xi., the *artha-sūktas*
 constitute the norm and the *paryāyas*, beginning with *virāḍ vā* (viii.
-10. 1), the exception': *yāvad ekādaçakāṇḍāntam arthasūkta-prakṛtis,
+10. 1), the exception': *yāvad ekādaśakāṇḍāntam arthasūkta-prakṛtis,
 tāvad vihāya paryāyān virāḍvā-prabhṛtīn iti*. And in fact, all through
 books viii.-xii., and even to the end of book xviii., every *arthasūkta*
 is by one ms. or another designated as an *arthasūkta* (xviii. 2 is an

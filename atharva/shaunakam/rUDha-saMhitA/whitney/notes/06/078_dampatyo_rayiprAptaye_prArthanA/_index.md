@@ -3,7 +3,7 @@ title = "78. For matrimonial happiness."
 
 +++
 ## Comment
-Found also in Pāipp. xix. ⌊and at MP. i. 8. 6, 7, 10⌋. Employed by Kāuç. twice (78. 10, 14) in the marriage ceremonies, with other passages, with anointing the heads of the married pair, making them eat together, etc.
+Found also in Pāipp. xix. ⌊and at MP. i. 8. 6, 7, 10⌋. Employed by Kāuś. twice (78. 10, 14) in the marriage ceremonies, with other passages, with anointing the heads of the married pair, making them eat together, etc.
 
 
 ## Translations

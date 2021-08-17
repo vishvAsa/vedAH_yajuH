@@ -3,7 +3,7 @@ title = "24 (25). To various gods."
 
 +++
 ## Comment
-Not found in Pāipp. Used by Kāuç. (59. 19) only with 17 etc.: see under hymn 17.
+Not found in Pāipp. Used by Kāuś. (59. 19) only with 17 etc.: see under hymn 17.
 
 
 ## Translations

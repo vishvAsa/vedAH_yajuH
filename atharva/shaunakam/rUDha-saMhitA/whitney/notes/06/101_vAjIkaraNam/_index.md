@@ -3,7 +3,7 @@ title = "101. For virile power."
 
 +++
 ## Comment
-Not found in Pāipp. Used by Kāuç. (40. 18) in a rite for sexual vigor, after vi. 72.
+Not found in Pāipp. Used by Kāuś. (40. 18) in a rite for sexual vigor, after vi. 72.
 
 
 ## Translations

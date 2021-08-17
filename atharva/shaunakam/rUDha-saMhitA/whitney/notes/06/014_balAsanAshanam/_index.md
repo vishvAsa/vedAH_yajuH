@@ -3,7 +3,7 @@ title = "14. Against the balā́sa."
 
 +++
 ## Comment
-Occurs also in Pāipp. xix. Used by Kāuç. (29. 30) in a remedial rite against catarrh (çleṣman), with variously administering prepared water to the patient.
+Occurs also in Pāipp. xix. Used by Kāuś. (29. 30) in a remedial rite against catarrh (śleṣman), with variously administering prepared water to the patient.
 
 
 ## Translations

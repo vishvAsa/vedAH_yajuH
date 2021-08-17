@@ -3,7 +3,7 @@ title = "36 (37). Husband and wife to one another."
 
 +++
 ## Comment
-Of this verse are found in Pāipp. only the first words, a lacuna following. Kāuç. (79. 2) prescribes its use in the marriage ceremonies of the fourth day, as the two spouses anoint one another's eyes.
+Of this verse are found in Pāipp. only the first words, a lacuna following. Kāuś. (79. 2) prescribes its use in the marriage ceremonies of the fourth day, as the two spouses anoint one another's eyes.
 
 
 ## Translations

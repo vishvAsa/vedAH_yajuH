@@ -3,7 +3,7 @@ title = "2. To the unknown god."
 
 +++
 ## Comment
-Found in Pāipp. iv. (in the verse-order 1, 2, 4, 3, 5, 6, 8, 7). The hymn is mostly a version, with considerable variants, of the noted RV. x. 121, found also in other texts, as TS. (iv. 1. 8), MS. (ii. 13. 23), and VS. (in sundry places), and K. xl. 1. It is used by Kāuç. in the vaçāçamana ceremony (44. 1 ff.), at the beginning, with the preparation of consecrated water for it, and (45. 1) with the sacrifice of the fœtus of the vaçā-cow, if she be found to be pregnant. In Vāit. (8. 22), vs. 1 (or the hymn?) accompanies an offering to Prajāpati in the cāturmāsya sacrifice; vs. 7 (28. 34), the setting of a gold man on the plate of gold deposited with accompaniment of vs. 1 of the preceding hymn (in the agnicayana); and the whole hymn goes with the avadāna offerings in the same ceremony (28. 5).
+Found in Pāipp. iv. (in the verse-order 1, 2, 4, 3, 5, 6, 8, 7). The hymn is mostly a version, with considerable variants, of the noted RV. x. 121, found also in other texts, as TS. (iv. 1. 8), MS. (ii. 13. 23), and VS. (in sundry places), and K. xl. 1. It is used by Kāuś. in the vaśāśamana ceremony (44. 1 ff.), at the beginning, with the preparation of consecrated water for it, and (45. 1) with the sacrifice of the fœtus of the vaśā-cow, if she be found to be pregnant. In Vāit. (8. 22), vs. 1 (or the hymn?) accompanies an offering to Prajāpati in the cāturmāsya sacrifice; vs. 7 (28. 34), the setting of a gold man on the plate of gold deposited with accompaniment of vs. 1 of the preceding hymn (in the agnicayana); and the whole hymn goes with the avadāna offerings in the same ceremony (28. 5).
 
 
 ## Translations

@@ -3,7 +3,7 @@ title = "105. To get rid of cough."
 
 +++
 ## Comment
-Not found in Pāipp. except 2 a, b in xix. Employed by Kāuç. (31. 27) in a remedial rite against cough and catarrh.
+Not found in Pāipp. except 2 a, b in xix. Employed by Kāuś. (31. 27) in a remedial rite against cough and catarrh.
 
 
 ## Translations

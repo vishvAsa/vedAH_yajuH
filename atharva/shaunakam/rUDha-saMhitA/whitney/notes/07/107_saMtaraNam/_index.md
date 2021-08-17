@@ -3,7 +3,7 @@ title = "107 (112). To relieve a stinging pain."
 
 +++
 ## Comment
-Wanting in Pāipp. Used by Kāuç. (31. 27) with vi. 105, in a remedial rite against cold and catarrh.
+Wanting in Pāipp. Used by Kāuś. (31. 27) with vi. 105, in a remedial rite against cold and catarrh.
 
 
 ## Translations

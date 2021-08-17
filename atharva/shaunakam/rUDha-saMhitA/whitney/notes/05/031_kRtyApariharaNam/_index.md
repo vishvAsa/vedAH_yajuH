@@ -3,7 +3,7 @@ title = "31. Against witchcraft."
 
 +++
 ## Comment
-Not found (except vs. 12) in Pāipp. Not noticed in Vāit. The hymn is reckoned as belonging in the kṛtyā gaṇa or krtyāpratiharaṇa gaṇa (see note to Kāuç. 39. 7), and it is quoted with several other hymns in Kāuç. 39. 7, in a ceremony for counteracting magic.
+Not found (except vs. 12) in Pāipp. Not noticed in Vāit. The hymn is reckoned as belonging in the kṛtyā gaṇa or krtyāpratiharaṇa gaṇa (see note to Kāuś. 39. 7), and it is quoted with several other hymns in Kāuś. 39. 7, in a ceremony for counteracting magic.
 
 
 ## Translations
