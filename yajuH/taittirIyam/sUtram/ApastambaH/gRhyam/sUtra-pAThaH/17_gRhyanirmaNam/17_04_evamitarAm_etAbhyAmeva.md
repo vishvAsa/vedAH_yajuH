@@ -7,5 +7,5 @@ title = "१७ ०४ एवमितराम् एताभ्यामे�
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/17_gRhyanirmaNam/17_04_evamitarAm_etAbhyAmeva.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-**इतरां** सव्यां द्वारस्थूणां **एवं** "इहैव तिष्ठ" इत्येताभ्यामेवावदधाति ॥४॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/17_gRhyanirmaNam/17_04_evamitarAm_etAbhyAmeva.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

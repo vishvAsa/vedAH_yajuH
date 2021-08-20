@@ -7,5 +7,5 @@ title = "०८ ०६ आपन्माश्रीः श्रीर्म�
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/08_06_ApanmAshrIH_shrIrmAgAditi.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-"उद्दीप्यस्वे"ति ऋग्द्वयेन आपन्मेत्येतद्यजुर्द्वयं विकल्प्यते ॥६॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/04_vivAhaprakaraNam/08_06_ApanmAshrIH_shrIrmAgAditi.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

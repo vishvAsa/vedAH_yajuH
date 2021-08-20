@@ -7,5 +7,5 @@ title = "१२ १२ वाचं यच्छत्यानक्षत्�
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/09_samAvartanam/12_12_vAchaM_yachChatyAnaxatrebhyaH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-+++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/09_samAvartanam/12_12_vAchaM_yachChatyAnaxatrebhyaH.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

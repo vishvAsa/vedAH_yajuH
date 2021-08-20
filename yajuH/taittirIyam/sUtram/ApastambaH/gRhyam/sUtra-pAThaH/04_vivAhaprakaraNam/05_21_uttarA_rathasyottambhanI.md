@@ -7,5 +7,5 @@ title = "०५ २१ उत्तरा रथस्योत्तम्भ�
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_21_uttarA_rathasyottambhanI.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-**उत्तरा** "सत्येनोत्तभिता" इत्येषा **रथस्योत्तम्भनी** उत्तम्भने करणमन्त्रः ॥२१॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/04_vivAhaprakaraNam/05_21_uttarA_rathasyottambhanI.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

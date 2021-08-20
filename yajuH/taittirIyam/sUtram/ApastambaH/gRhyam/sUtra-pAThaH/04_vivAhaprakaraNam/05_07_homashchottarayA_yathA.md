@@ -7,5 +7,5 @@ title = "०५ ०७ होमश्चोत्तरया यथा"
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_07_homashchottarayA_yathA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-लाजहोमश्चोत्तरया "अर्यमणं नु देवम्" इत्येतया ॥७॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/04_vivAhaprakaraNam/05_07_homashchottarayA_yathA.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

@@ -5,18 +5,5 @@ title = "०३ २१ यस्याम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_21_yasyAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## प्रस्तावः
-अथर्द्धिनिश्चये एकीयं मतमाह–
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradatta-prastAvaH/03_vaivAhikaviShayAH/03_21_yasyAm.md"  newLevelForH1="4" title="हरदत्त-प्रस्तावः" > </div>
 
-<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/03_21_yasyAm.md"  newLevelForH1="4" title="हरदत्तः" > </div>
-
-## गृह्यतात्पर्यदर्शनम्
-**यस्यां** कन्यायां वरस्य **मनश्चक्षुषोर्निबन्धः** नितरां बन्धनं, यस्यामासक्त्यतिशयेन मनश्चक्षुषी निबद्धे अव तिष्ठत इत्यर्थः ।
-**तस्यां **जायायां सत्यां धर्मादीनां समृद्धिः,** नेतरत् **गुणदोषानुदर्शनम् **आद्रियेत** इत्येके ब्रूवते ।
-एतदुक्तं भवति– अत्र मनश्चक्षुषोर्निबन्ध एवादरणे कारणम्, न तु ज्योतिषादिना ज्ञाता गुणाः ।
-तथा तदभाव एव परिवर्जने कारणम्, न स्वापादयो दोषा इति ।
-उभयोरपि मतयोर्दत्तादीनां निषेधमाद्रियेतैव; "सवर्णापूर्वशास्त्रविहितायाम्" (आप.ध. २-१३-१.) "असमानार्षगोत्रजाम्" "पञ्चमात् सप्तमादूर्ध्वम्" इत्यादिवचनजातात् ॥२१॥
-इत्थं सुदर्शनार्येण गृह्यतात्पर्यदर्शनम् ॥
-प्रथमे पटलेऽकारि यथाभाष्यं यथामति ॥
-इति श्रीसुदर्शनाचार्यकृते गृह्यतात्पर्यदर्शने तृतीयः खण्डः ॥
-समाप्तश्च प्रथमः पटलः

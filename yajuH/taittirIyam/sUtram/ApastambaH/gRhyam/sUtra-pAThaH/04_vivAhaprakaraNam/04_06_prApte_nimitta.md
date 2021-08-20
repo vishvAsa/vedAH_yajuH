@@ -7,5 +7,5 @@ title = "०४ ०६ प्राप्ते निमित्त"
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/04_06_prApte_nimitta.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-जीवाँ रुदन्ती"ति मन्त्रलिङ्गानुरूपे निमित्ते प्राप्ते मात्रादिभिः कन्यकया वा अन्योन्यवियोगचिन्तया रोदने कृते इमामृचं जपेत् ॥६॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/04_vivAhaprakaraNam/04_06_prApte_nimitta.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

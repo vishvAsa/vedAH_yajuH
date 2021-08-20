@@ -7,5 +7,5 @@ title = "१० ०३ गर्भैकादशेषु राजन्य�
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/10_03_garbhaikAdasheShu_rAjanyam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-+++(सम्पादकटिप्पानी - "सूत्रमेतद् अग्रिमे व्याख्यातम्" )+++
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/07_upanayanaprakaraNam/10_03_garbhaikAdasheShu_rAjanyam.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

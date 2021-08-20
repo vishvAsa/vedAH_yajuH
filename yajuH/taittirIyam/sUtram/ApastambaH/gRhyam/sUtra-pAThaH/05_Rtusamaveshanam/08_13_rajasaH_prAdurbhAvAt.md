@@ -7,13 +7,5 @@ title = "०८ १३ रजसः प्रादुर्भावात्"
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-**रजसः** शोणितस्य ।
-**प्रादुर्भावात्** काले निर्गमात्कारणात्, न मालिन्यादेः ।
-**स्नातां** पूर्णे त्रिरात्रे स्नातां भार्याम् ।
-**ऋतुसमावेशने** ऋतुकालीनसमावेशनकाले ।
-"ऋतुश्च स्त्रीणां रजोनिर्गमनादारभ्य षोडश दिवसाः, "ऋतुस्वाभाविकस्स्त्रीणां रात्रयष्षोडश स्मृताः" (म.स्मृ.३-४६.) इति मनुवचनात् ।
-उत्तराभिः "विष्णुर्योनिं कल्पयतु" इत्यादिभिस्त्रयोदशभिर् **अभिमन्त्रयते** ।
-अत्र रजसः प्रादुर्भावात् स्नातामितिवचनाच्चतुर्थऽहनि प्रायत्यार्थमनया स्नातव्यमेव ॥१३॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
 
-इति श्री सुदर्शनाचार्यविरचिते गृह्यतात्पर्यदर्शनेऽष्टमः खण्डः॥

@@ -7,5 +7,5 @@ title = "०१ १८ एकैकशः पितृसंयुक्ता�
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_18_ekaikashaH_pitRsaMyuktAni.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-पितृकर्मार्थानि दर्व्यादीनि स्वधापात्रादीनि च एकमेकं प्रयुनक्ति ॥१८॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_18_ekaikashaH_pitRsaMyuktAni.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

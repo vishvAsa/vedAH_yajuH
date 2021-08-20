@@ -7,6 +7,5 @@ title = "०७ ११ उत्तरार्धादुत्तरस्य
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/07_11_uttarArdhAduttarasya.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-उत्तरार्धाद्धविष उत्तरस्य स्विष्टकृत अवदानं कार्यम् ।
-अयमपि पूर्ववदुपघातपक्षार्थ एव ॥११॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/04_vivAhaprakaraNam/07_11_uttarArdhAduttarasya.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

@@ -7,6 +7,5 @@ title = "१९ ०१ धानाः कुमारान्"
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/19_01_dhAnAH_kumArAn.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-**धानाः** या बलिहरणशिष्टाः **कुमारान् प्राशयन्ति** ।
-के? शिष्टास् सामर्थ्यात् ॥१॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/19_01_dhAnAH_kumArAn.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

@@ -7,9 +7,5 @@ title = "०९ ०१ चतुर्थीप्रभृत्याषोड
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-चतुर्थीप्रभृतीति दीर्घेणार्थपाठः ।
-**चतुर्थी** रात्रिमारभ्य् **आषोडशीं;** आङ् अभिविधौ, द्वितीया च पञ्चम्यर्थे; आषोडश्या इति यावत् ।
-**उत्तरामुत्तरां युग्मां** रात्रिं प्रति **ऋतुगमने** ऋतौ मैथुने कृते, **प्रजानिःश्रेयसं,** प्रजाः पुत्राः तेषां निश्श्रेयसं आयुरादीप्सितगुणसम्पत्तिर्भवति **इत्युपदिशन्ति** मन्वादयः ।
-एतदुक्तं भवति–त्रयोदशसु रात्रिषु ऋतुगमने शुक्लाधिक्ये सति पुत्रा जायन्ते ।
-उत्तरोत्तरासु च युग्मासु यथाक्रमं तरतमभावेन ते सद्गुणाधिका भवन्ति ॥१॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

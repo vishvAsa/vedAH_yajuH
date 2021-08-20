@@ -7,5 +7,5 @@ title = "०३ ०५ निष्ट्याशब्दस्स्वात
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/03_05_niShTyAshabdassvAtau_Chandasi.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-एते सूत्रे व्यक्तार्थे ॥४-५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/03_vaivAhikaviShayAH/03_05_niShTyAshabdassvAtau_Chandasi.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

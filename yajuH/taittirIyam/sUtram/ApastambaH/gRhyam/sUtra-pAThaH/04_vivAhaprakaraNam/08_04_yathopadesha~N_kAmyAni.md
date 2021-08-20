@@ -5,17 +5,5 @@ title = "०८ ०४ यथोपदेशङ् काम्यानि"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_04_yathopadesha~N_kAmyAni.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## प्रस्तावः
-अस्य प्रतिषेधस्य प्रतिप्रसवमाह–
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradatta-prastAvaH/04_vivAhaprakaraNam/08_04_yathopadesha~N_kAmyAni.md"  newLevelForH1="4" title="हरदत्त-प्रस्तावः" > </div>
 
-<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/08_04_yathopadesha~N_kAmyAni.md"  newLevelForH1="4" title="हरदत्तः" > </div>
-
-## गृह्यतात्पर्यदर्शनम्
-यानि **काम्यानि** येन प्रकारेणोपदिष्टानि तानि तथैव भवन्ति, नैव तत्र क्षारादिवर्जनम्, "यदस्य गृहे पण्यं स्यात्" (आप.गृ. २-३-५.) इत्युपदेशस्य गृहशब्देन विशेषितत्वात् ।
-यदि तत्र क्षारादिवर्जनमिष्टं स्यात्, तदा "यदस्य पण्यं स्याद्" इत्येतावदेव ब्रूयात् ।
-तथा बलयश्च यथोपदेशमेव ।
-न तु क्षारादिनिषेधः, "सति सूपसंसृष्टेन कार्याः" (आप.ध.२-३-१९.) इत्यारम्भसामर्थ्यात् ।
-अन्यथा "गृहमेधिनो यदशनीयस्य होमा बलयश्च" इति वचनादेव क्षारादिव्यतिरिक्तशाकमांसादिसूपसंसृष्टेनान्नेन कार्यास्स्युः ।
-अत्र च "यदशनीयस्य होमा बलयश्च" इति होमसाहचर्यात् बलिष्वपि या क्षारादिनिषेधशङ्का सा वार्यते ।
-केचित्— यथोपदेशं काम्यानि बलयश्चेत्यस्मादेव ज्ञापनाद्धोमधर्माणां बलिष्वपि प्रसक्तिरिति ।
-तेषां सर्पबलौ सक्तुनिर्वापे स्वाहाकारो दुर्वारः ॥४॥

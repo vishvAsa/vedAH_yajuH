@@ -7,5 +7,5 @@ title = "१८ ०४ अगदो भवति"
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_04_agado_bhavati.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-उक्तार्थम् ॥४॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_04_agado_bhavati.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

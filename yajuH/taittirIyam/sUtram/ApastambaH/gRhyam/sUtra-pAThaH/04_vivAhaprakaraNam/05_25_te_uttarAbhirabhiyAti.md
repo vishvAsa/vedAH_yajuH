@@ -7,5 +7,5 @@ title = "०५ २५ ते उत्तराभिरभियाति"
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_25_te_uttarAbhirabhiyAti.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-"ये वध्वश्चन्द्रम्" इति तिसृभिर्व्यवस्तीर्णे सूत्रे **अभियाति** उपरिगच्छति ॥२५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/04_vivAhaprakaraNam/05_25_te_uttarAbhirabhiyAti.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

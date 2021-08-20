@@ -5,14 +5,5 @@ title = "०३ २० बन्धुशीललक्षणसम्पन्
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_20_bandhushIlalaxaNasampannashrutavAnaroga.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## प्रस्तावः
-अथ वरगुणानाह–
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradatta-prastAvaH/03_vaivAhikaviShayAH/03_20_bandhushIlalaxaNasampannashrutavAnaroga.md"  newLevelForH1="4" title="हरदत्त-प्रस्तावः" > </div>
 
-<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/03_20_bandhushIlalaxaNasampannashrutavAnaroga.md"  newLevelForH1="4" title="हरदत्तः" > </div>
-
-## गृह्यतात्पर्यदर्शनम्
-**बन्धुशीललक्षणसम्पन्न** इति पूर्ववद्व्याख्यानम् ।
-**श्रुतवान्** श्रुताध्ययनसम्पन्नः ; अविदुषश्चोदितकर्मानधिकारात्, धर्माद्यर्थत्वाच्च विवाहस्य ।
-**अरोग** इति पूर्ववत्; तस्याप्यसमर्थत्वेनानधिकारात् ।
-एवंभूता वरसम्पत् ।
-एवङ्गुणाय वराय कन्या देयेत्यर्थः ॥२०॥

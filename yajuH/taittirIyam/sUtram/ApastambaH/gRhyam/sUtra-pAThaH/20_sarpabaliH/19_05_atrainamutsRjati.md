@@ -7,6 +7,5 @@ title = "१९ ०५ अत्रैनमुत्सृजति "
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/19_05_atrainamutsRjati.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-**अत्र** अस्मिन्नुत्सर्जने कृते, **एनम्** अहरहः क्रियमाणं बलिम् **उत्सृजति** ।
-न चायमात्यन्तिक उत्सर्गः, नित्यत्वेन सर्पबलेस्संवत्सरे सम्वत्सरे कर्तव्यत्वात् ॥५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/19_05_atrainamutsRjati.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

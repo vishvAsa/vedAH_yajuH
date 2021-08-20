@@ -7,5 +7,5 @@ title = "१६ ०२ तैत्तिरेण माँसेनेत्�
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/15_annaprAshanam/16_02_taittireNa_mA.Nsenetyeke.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-व्यक्तार्थमेतत् ॥२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/15_annaprAshanam/16_02_taittireNa_mA.Nsenetyeke.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

@@ -5,15 +5,5 @@ title = "२१ ०१ मासिश्राद्धस्यापरपक
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/24_mAsishrAddhaprakaraNam/21_01_mAsishrAddhasyAparapaxe.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## प्रस्तावः
-पुनरपि पाकयज्ञान्तरं पुरुषत्रयसम्प्रदानकं तादृशानामष्टकादीनां प्रकृतिभूतं मासिश्राद्धसंज्ञिकं पित्र्यं कर्मोपदिश्यते—
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradatta-prastAvaH/24_mAsishrAddhaprakaraNam/21_01_mAsishrAddhasyAparapaxe.md"  newLevelForH1="4" title="हरदत्त-प्रस्तावः" > </div>
 
-<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/24_mAsishrAddhaprakaraNam/21_01_mAsishrAddhasyAparapaxe.md"  newLevelForH1="4" title="हरदत्तः" > </div>
-
-## गृह्यतात्पर्यदर्शनम्
-**मासिश्राद्धस्य** मासे मासे श्रद्धया कर्तव्यस्य ।
-**अपरपक्षे** कृष्णपक्षे ।
-**यथोपदेशं** "सर्वेष्वेवापरपक्षस्याहस्सु क्रियमाणे पितॄन् प्रीणाति ।
-कर्तुस्तु कालाभिनियमात् फलविशेषः" (आप.ध.२-१६-७.) इत्यादिधर्णशास्त्रसिद्धोपदेशानुसारेण काला भवन्ति ।
-"अपरपक्षे यथोपदेशं कालाः, इति पुनर्वचनस्य प्रयोजनं "अपरपक्षे पित्र्याणि" (आप.गृ.१-७.) इत्यत्रोक्तम् ।
-केचित्— यस्यां तिथौ प्रथममुपक्रमस्तस्यामेवोत्तरे प्रयोग इति नियमो नास्ति; किन्तु पूर्णेऽपि मासे अपरपक्ष एव यथोपदेशं तिथ्यन्तरेऽपि नित्यः काम्यश्च प्रयोग इति ॥१॥

@@ -7,5 +7,5 @@ title = "११ ०८ पुरस्तात्प्रत्यङ्ङा
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/11_08_purastAtpratya~N~NAsInaH_kumAro.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-उपनेतुः **पुरस्तात् प्रायङ्मुखः** **आसीनः कुमारो दक्षिणेन पाणिना** उपनेतुर् **दक्षिणं पादं अन्वारभ्य** उपसंगृह्य **"सावित्रीं भो । अनुब्रूहि"** इति प्रार्थयते ॥८॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/07_upanayanaprakaraNam/11_08_purastAtpratya~N~NAsInaH_kumAro.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

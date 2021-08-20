@@ -7,6 +7,5 @@ title = "१४ ०४ 'गायतम्' इति"
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/11_sImantonnayanam/14_04_gAyatam_iti.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-वीणया गाथां गायत इति **वीणागाथिनौ** ।
-तौ **गायतमिति संशास्ति** संप्रेष्यति ॥४॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/11_sImantonnayanam/14_04_gAyatam_iti.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

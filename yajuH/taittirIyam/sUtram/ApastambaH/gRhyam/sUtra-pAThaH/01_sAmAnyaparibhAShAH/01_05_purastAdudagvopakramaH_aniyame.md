@@ -7,6 +7,5 @@ title = "०१ ०५ पुरस्तादुदग्वोपक्रम
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/01_sAmAnyaparibhAShAH/01_05_purastAdudagvopakramaH_aniyame.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-कार्य इति शेषः ।
-अयं तु सर्वेष्वपि यज्ञायज्ञरूपगार्ह्येष्वप्राप्तत्वाद्विधीयते ॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/01_sAmAnyaparibhAShAH/01_05_purastAdudagvopakramaH_aniyame.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

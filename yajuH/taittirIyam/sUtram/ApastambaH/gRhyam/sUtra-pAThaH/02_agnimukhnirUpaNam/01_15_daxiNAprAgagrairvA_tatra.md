@@ -7,9 +7,5 @@ title = "०१ १५ दक्षिणाप्रागग्रैर्व
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-पित्र्येषु मासिश्राद्धादिषु कर्मसु सर्वासु दिक्षु दक्षिणाग्रैः परिस्तृणाति ॥ १४ ॥
-यद्वा दक्षिणाग्रैः प्रागग्रैश्च दर्भैः ।
-पश्चात्पुरस्ताच्च दक्षिणाग्रैः, उत्तरतो दक्षिणतश्च प्रागग्रैः ।
-उत्तरानुत्तरान् दक्षिणांश्चाधरान् कुर्यात् ।
-तथा प्रागुपक्रम्य प्रसव्यं परिस्तृणाति ॥१५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

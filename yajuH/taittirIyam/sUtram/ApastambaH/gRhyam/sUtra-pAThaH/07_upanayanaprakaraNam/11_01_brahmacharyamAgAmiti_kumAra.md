@@ -7,5 +7,5 @@ title = "११ ०१ ब्रह्मचर्यमागामिति �
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/11_01_brahmacharyamAgAmiti_kumAra.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-व्यक्तम् ॥१॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/07_upanayanaprakaraNam/11_01_brahmacharyamAgAmiti_kumAra.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

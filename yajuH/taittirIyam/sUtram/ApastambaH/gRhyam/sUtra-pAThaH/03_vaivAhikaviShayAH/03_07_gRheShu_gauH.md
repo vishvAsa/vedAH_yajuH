@@ -7,5 +7,5 @@ title = "०३ ०७ गृहेषु गौः"
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/03_07_gRheShu_gauH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-तथा गृहेषु शालायां अन्या गौस्सन्निधाप्या ॥७॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/03_vaivAhikaviShayAH/03_07_gRheShu_gauH.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

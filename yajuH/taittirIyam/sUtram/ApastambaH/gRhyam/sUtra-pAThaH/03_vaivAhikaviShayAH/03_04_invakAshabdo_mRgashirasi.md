@@ -7,5 +7,5 @@ title = "०३ ०४ इन्वकाशब्दो मृगशिरस�
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/03_04_invakAshabdo_mRgashirasi.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-+++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम्।)+++
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/03_vaivAhikaviShayAH/03_04_invakAshabdo_mRgashirasi.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

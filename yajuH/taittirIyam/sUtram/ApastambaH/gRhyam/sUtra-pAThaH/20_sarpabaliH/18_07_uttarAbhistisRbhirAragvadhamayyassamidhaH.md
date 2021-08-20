@@ -7,9 +7,5 @@ title = "१८ ०७ उत्तराभिस्तिसृभिरार
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/18_07_uttarAbhistisRbhirAragvadhamayyassamidhaH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-अथो**त्तराभिस्तिसृभिः** "इन्द्र जहि दन्दशूकं "इत्यादिभिः प्रत्यृचम् ।
-**आरग्वधमय्यस्समिधः**, आरग्वधविकारास्समिधः ।
-किम् ?
-जुहोतीति सम्बन्धः ।
-तेनात्र समिधां मान्त्रवर्णिकदेवतोद्देशेन त्यागः कर्तव्य एव ॥७॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/18_07_uttarAbhistisRbhirAragvadhamayyassamidhaH.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

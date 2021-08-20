@@ -7,5 +7,5 @@ title = "१९ ०४ अहार्षमिति बलिमन्त्�
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/19_04_ahArShamiti_balimantrasya.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-उक्तार्थमेतत् ॥४॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/19_04_ahArShamiti_balimantrasya.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+

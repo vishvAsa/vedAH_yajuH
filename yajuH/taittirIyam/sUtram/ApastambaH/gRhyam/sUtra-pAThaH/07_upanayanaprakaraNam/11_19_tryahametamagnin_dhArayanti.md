@@ -7,5 +7,5 @@ title = "११ १९ त्र्यहमेतमग्निन् धा�
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/11_19_tryahametamagnin_dhArayanti.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
-## गृह्यतात्पर्यदर्शनम्
-स्पष्टमेतत् ॥१९॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/07_upanayanaprakaraNam/11_19_tryahametamagnin_dhArayanti.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+
