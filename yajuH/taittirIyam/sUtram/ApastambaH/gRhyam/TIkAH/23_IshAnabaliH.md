@@ -7,7 +7,7 @@ title = "२३ ईशानबलिः"
 
 ## १९ १३ ईशानाय स्थालीपाकम्
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/19_13_IshAnAya_sthAlIpAkam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/19_13_IshAnAya_sthAlIpAkam.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/19_13_IshAnAya_sthAlIpAkam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -17,7 +17,7 @@ title = "२३ ईशानबलिः"
 
 ## १९ १४ अपरेणाग्निन् द्वे
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/19_14_apareNAgnin_dve.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/19_14_apareNAgnin_dve.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/19_14_apareNAgnin_dve.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -27,7 +27,7 @@ title = "२३ ईशानबलिः"
 
 ## २० ०१ उत्तरया
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_01_uttarayA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_01_uttarayA.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_01_uttarayA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -37,7 +37,7 @@ title = "२३ ईशानबलिः"
 
 ## २० ०२ लौकिक्या वाचोत्तरस्याम्
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_02_laukikyA_vAchottarasyAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_02_laukikyA_vAchottarasyAm.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_02_laukikyA_vAchottarasyAm.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -47,7 +47,7 @@ title = "२३ ईशानबलिः"
 
 ## २० ०३ मध्ये जयन्तम्
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_03_madhye_jayantam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_03_madhye_jayantam.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_03_madhye_jayantam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -57,7 +57,7 @@ title = "२३ ईशानबलिः"
 
 ## २० ०४ यथोढमुदकानि प्रदाय
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_04_yathoDhamudakAni_pradAya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_04_yathoDhamudakAni_pradAya.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_04_yathoDhamudakAni_pradAya.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -67,7 +67,7 @@ title = "२३ ईशानबलिः"
 
 ## २० ०५ उत्तरेण
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_05_uttareNa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_05_uttareNa.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_05_uttareNa.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -77,7 +77,7 @@ title = "२३ ईशानबलिः"
 
 ## २० ०६ पूर्ववदुत्तरैः 
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_06_pUrvavaduttaraiH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_06_pUrvavaduttaraiH.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_06_pUrvavaduttaraiH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -87,7 +87,7 @@ title = "२३ ईशानबलिः"
 
 ## २० ०७ ओदनपिण्डं संवृत्य
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_07_odanapiNDaM_saMvRtya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_07_odanapiNDaM_saMvRtya.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_07_odanapiNDaM_saMvRtya.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -97,7 +97,7 @@ title = "२३ ईशानबलिः"
 
 ## २० ०८ अत्र रुद्रान्
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_08_atra_rudrAn.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_08_atra_rudrAn.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_08_atra_rudrAn.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -107,7 +107,7 @@ title = "२३ ईशानबलिः"
 
 ## २० ०९ प्रथमोत्तमौ वा
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_09_prathamottamau_vA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_09_prathamottamau_vA.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_09_prathamottamau_vA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -117,7 +117,7 @@ title = "२३ ईशानबलिः"
 
 ## २० १० अभित एतमग्निम्
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_10_abhita_etamagnim.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_10_abhita_etamagnim.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradatta-prastAvaH/23_IshAnabaliH/20_10_abhita_etamagnim.md"  newLevelForH1="4" title="हरदत्त-प्रस्तावः" > </div>
 
@@ -125,7 +125,7 @@ title = "२३ ईशानबलिः"
 
 ## २० ११ ता
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_11_tA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_11_tA.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_11_tA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -135,7 +135,7 @@ title = "२३ ईशानबलिः"
 
 ## २० १२ गवाम् मर्गेऽनग्नौ
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_12_gavAm_marge-nagnau.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_12_gavAm_marge-nagnau.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_12_gavAm_marge-nagnau.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -145,7 +145,7 @@ title = "२३ ईशानबलिः"
 
 ## २० १३ ईशानवदावाहनम् 
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_13_IshAnavadAvAhanam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_13_IshAnavadAvAhanam.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_13_IshAnavadAvAhanam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -155,7 +155,7 @@ title = "२३ ईशानबलिः"
 
 ## २० १४ चतुर्षु सप्तसु
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_14_chaturShu_saptasu.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_14_chaturShu_saptasu.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_14_chaturShu_saptasu.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -165,7 +165,7 @@ title = "२३ ईशानबलिः"
 
 ## २० १५ क्षिप्रं यजेत
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_15_xipraM_yajeta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_15_xipraM_yajeta.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_15_xipraM_yajeta.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -175,7 +175,7 @@ title = "२३ ईशानबलिः"
 
 ## २० १६ उत्तराभ्यामुपतिष्ठते 
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_16_uttarAbhyAmupatiShThate.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_16_uttarAbhyAmupatiShThate.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_16_uttarAbhyAmupatiShThate.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -185,7 +185,7 @@ title = "२३ ईशानबलिः"
 
 ## २० १७ स्थालीपाकम् ब्राह्मणान्
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_17_sthAlIpAkam_brAhmaNAn.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_17_sthAlIpAkam_brAhmaNAn.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradatta-prastAvaH/23_IshAnabaliH/20_17_sthAlIpAkam_brAhmaNAn.md"  newLevelForH1="4" title="हरदत्त-प्रस्तावः" > </div>
 
@@ -193,7 +193,7 @@ title = "२३ ईशानबलिः"
 
 ## २० १८ क्षैत्रपत्यम् प्राश्नन्ति
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_18_xaitrapatyam_prAshnanti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_18_xaitrapatyam_prAshnanti.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradatta-prastAvaH/23_IshAnabaliH/20_18_xaitrapatyam_prAshnanti.md"  newLevelForH1="4" title="हरदत्त-प्रस्तावः" > </div>
 
@@ -201,7 +201,7 @@ title = "२३ ईशानबलिः"
 
 ## २० १९ यथा वैषाम्
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_19_yathA_vaiShAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_19_yathA_vaiShAm.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_19_yathA_vaiShAm.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 

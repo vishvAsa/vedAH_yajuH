@@ -7,7 +7,7 @@ title = "०५ ऋतुसमवेशनम्"
 
 ## ०८ १३ रजसः प्रादुर्भावात्
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
@@ -17,7 +17,7 @@ title = "०५ ऋतुसमवेशनम्"
 
 ## ०९ ०१ चतुर्थीप्रभृत्याषोडशीमुत्तरामुत्तरां
 
-<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md"  newLevelForH1="3" includeTitle="true" > </div>
 
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
