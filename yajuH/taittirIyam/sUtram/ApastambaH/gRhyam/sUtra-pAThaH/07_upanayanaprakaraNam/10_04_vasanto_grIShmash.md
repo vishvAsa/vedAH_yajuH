@@ -5,17 +5,7 @@ title = "१० ०४ वसन्तो ग्रीष्मश्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_04_vasanto_grIShmash.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-उदगयने वसन्त-नियमः ब्राह्मणस्य ।
-क्षत्रियस्यापवादो नियमो वा ।
-वैश्यापवादः पूर्वपक्षादयस्तु स्थिता एव ।
-
-वर्षाण्य् ऋतवश्च विधीयन्ते इह सामयाचारिकेषु च ।
-तत्र सामयाचारिकेषु विधानं सर्व-चरणार्थम् ।
-इह विधानं वर्ण-नियमार्थम् ।
-शास्त्रान्तर-दृष्टानां कालान्तराणाम् इह प्रवृत्तिर् मा भूद् इत्य् एवं ब्रुवन्न् एतत् ज्ञापयति - चौलादिषु शास्त्रान्तर-दृष्टोऽपि कालः पक्षे भवतीति ॥४॥+++(5)+++
-
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/10_04_vasanto_grIShmash.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 उभयत्रापि कपिञ्जलन्यायेन बहुवचनस्य त्रित्वम् एवार्थः ॥३॥

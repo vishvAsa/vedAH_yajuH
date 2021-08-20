@@ -5,16 +5,7 @@ title = "१७ ०७ पालाशं शमीमयम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_07_pAlAshaM_shamImayam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-
-अथ प्रवेशनविधिः ।
-अन्यथा सम्मितस्याप्यगारस्य प्रवेशे विधिर् अयं भवति ।
-उदग्-अयनाद्य् अपेक्षितम् इति केचित् ।
-नेत्यन्ये ।
-
-बीजवतो गृहान् प्रतिपद्यते (आश्व.गृ.२-१०-२) इत्याश्वलायनः ।
-बीज-ग्रहणं सर्वेषाम् एव गृहोपकरणानाम् उपलक्षणम् ।
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/18_gRhapraveshavidhiH/17_07_pAlAshaM_shamImayam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ### इध्मादीपनम्
 तत्र प्रवेक्ष्यन् **पालाशं शमीमयं वा इध्मं** अग्नाव् **आदीपयति** ।

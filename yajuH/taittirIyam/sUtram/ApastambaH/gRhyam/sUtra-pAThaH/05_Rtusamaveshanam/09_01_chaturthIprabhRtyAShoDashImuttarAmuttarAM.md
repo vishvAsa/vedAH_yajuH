@@ -5,21 +5,7 @@ title = "०९ ०१ चतुर्थीप्रभृत्याषोड
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**षोडशीम्** इति पञ्चम्यर्थे द्वितीया ।
-आषोडश्या इत्यर्थः ।
-आङ्चाभिविधौ ।
-रजसः प्रादुर्भावादारभ्य चतुर्थीषोडश्यौ गृह्येते, प्रकरणात् ।
-चतुर्थीप्रभृत्याषोडश्याः सर्वा रात्रय ऋतुगमनकालाः ।
-तत्रापि **उत्तरामुत्तरां युग्मां** रात्रिं **प्रजानिश्श्रेयसं** विद्यादिति ।
-ऋतुगमन इति वचनात् वैवाहिके प्रथमगमने सत्यपि ऋतुनिमित्तेनायमुपदेशः प्रवर्तते ।
-चतुर्थ्या अपाररात्रे नियमेन गमनं भवति ।
-तत्र च शेषं समावेशने जपेत् ।
-उत्तराभिरभिमन्त्रयत इति च गमनमन्त्राणां समुच्चयो भवति ।
-तत्र पूर्वमृतुगमनमन्त्राः ।
-पश्चात् समावेशनमन्त्राः ।
-विपरीतमन्ये ॥१॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 चतुर्थीप्रभृतीति दीर्घेणार्थपाठः ।

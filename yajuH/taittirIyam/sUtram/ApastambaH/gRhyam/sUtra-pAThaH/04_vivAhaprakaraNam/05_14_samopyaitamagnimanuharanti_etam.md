@@ -5,12 +5,7 @@ title = "०५ १४ समोप्यैतमग्निमनुहरन
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_14_samopyaitamagnimanuharanti_etam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-एतं वैवाहिकमग्निमुखायां समोप्य दम्पत्योर्गच्छतोरनु पृष्ठतः **हरन्ति** तदीयाः पुरषाः ।
-समोप्यवचनं श्रौतेष्वग्निषु दृष्टस्य समारोपणस्य प्रतिषेधार्थम् ।
-एवं प्रतिषेधं कुर्वन्नेतद्दर्शयति–अनुगतो मन्थ्य इत्यत्र श्रौतवदवक्षाणेभ्यो मन्थनमिति ।
-अनुशब्दः पुरस्तान्नयनप्रतिषेधार्थः ॥१४॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_14_samopyaitamagnimanuharanti_etam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 एतं विवाहाग्निं समोप्योखायामनुहरन्ति अव्यवायेन वध्वाः पश्चान्नयन्ति परिकर्मिणः ।

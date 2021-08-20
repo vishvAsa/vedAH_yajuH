@@ -5,18 +5,7 @@ title = "११ ०२ प्रष्टम् परस्य"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_02_praShTam_parasya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-"को नामासी"त्येवमादयः चत्वारो मन्त्राः पृष्टप्रतिवचनार्थाः ।
-तत्र यत्र पृष्टं तत आरभ्य कर्माचार्स्येत्यर्थः ।
-प्रष्टमिति संप्रसारणाभावश्छान्दसः, अपपाठो वा ।
-यत् प्रतिवचनं तत् कुमारस्य ।
-असौशब्देषु नाम निर्दिशति कुमारः प्रथमया ।
-आचार्यः संबुध्या कुमारस्य नाम ।
-तत्र को नामासीत्याचार्यः ।
-(१)यज्ञशर्मनामास्मीति कुमारः ।
-कस्य ब्रह्मचार्यसि (२)श्रीयज्ञशर्मन् इत्याचार्यः, प्राणस्य ब्रह्मचार्यस्मि यज्ञशर्मेति कुमारः ।
-(२)आहेत्यनुवृत्तेरुच्चैः प्रयोगः ॥२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/11_02_praShTam_parasya.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **प्रष्टं** प्रश्न इत्यर्थः ।

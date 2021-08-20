@@ -5,17 +5,7 @@ title = "११ ०७ परिषेचनान्तङ्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_07_pariShechanAnta~N.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-**उत्तरेण यजुषा** राष्ट्रभृदसीत्येतेन ।
-परिषेचनान्तवचनमानन्तर्यार्थम् ।
-केचित् सावित्रं नाम व्रतमस्मिन् काल उपाकुर्वन्ति । केचित् त्रिरात्रान्ते सावित्रीमनुब्रुवते ।
-तदुभयमप्यनिष्टमाचार्यस्य ।
-निधायेति वचनादाचार्य एव निधाने कर्ता, न माणवकः ।
-अधिकारादेव सिद्धे उपनेतेति वचनमुत्तरार्थम् ।
-पुरस्तात् प्रत्यङ्ङासीन इत्यत्र उपनेतुः पुरस्तात् यथा स्यात् अग्नेः पुरस्तात् मा भूत् इति ।
-तथा दक्षिणेन पाणिना दक्षिणं पादमित्यत्रोपनेतुः पादो न माणवकस्य ॥७॥
-
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/11_07_pariShechanAnta~N.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **कूर्चं** दर्भमयमासनम् ।

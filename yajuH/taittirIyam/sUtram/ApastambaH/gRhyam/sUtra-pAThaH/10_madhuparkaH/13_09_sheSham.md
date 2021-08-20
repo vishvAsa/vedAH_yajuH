@@ -5,13 +5,7 @@ title = "१३ ०९ शेषम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_09_sheSham.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-अथ तासामपां शेषं पूर्वस्यां दिशि नयति प्रदाता ।
-तत् निनीयमानं **उत्तरयर्चा** "समुद्रं व" इत्येतया**ऽभिमन्त्रयते** पूज्यमानः ।
-एतस्मिन् काले वस्त्रयुगलं कुण्डलयुगं गां स्रजं यच्चान्यदलङ्करणार्थं तत्सर्वं दद्यात् ।
-भोजनान्त इत्यन्ये ।
-तत्सर्वमपचितिशब्देन चोदितं द्रष्टव्यम् ॥९॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/10_madhuparkaH/13_09_sheSham.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अथ तासां शेषं दात्रा नीयमानं पूज्यः "समुद्रं वः" इत्येतया अनुमन्त्रयते ।

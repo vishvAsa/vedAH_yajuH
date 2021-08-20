@@ -5,8 +5,7 @@ title = "०५ १० होमश्चोत्तरया **उत्तर
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_10_homashchottarayA_uttarayA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## अनाकुला
-**उत्तरया** "त्वमर्यमा" इत्येतया ऋचा ॥१०॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_10_homashchottarayA_uttarayA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 "त्वमर्यमा भवसि" इत्येतया ॥१०॥

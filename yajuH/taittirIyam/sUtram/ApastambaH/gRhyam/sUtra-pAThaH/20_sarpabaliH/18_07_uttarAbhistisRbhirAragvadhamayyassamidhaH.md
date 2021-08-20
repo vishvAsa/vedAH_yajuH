@@ -5,13 +5,7 @@ title = "१८ ०७ उत्तराभिस्तिसृभिरार
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_07_uttarAbhistisRbhirAragvadhamayyassamidhaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**आरग्वधो** राजवृक्षः ।
-यस्य सुवर्णवर्णानि पुष्पाणि अरत्निमात्राणि फलानि ।
-उत्तराभिस्तिसृभिः ऋग्भिः "इन्द्र जहि दन्दशूकम्" इत्यादिभिः ।
-समिध आदधाति जुहोति वा ।
-सर्वथा स्वाहाकारान्ता मन्त्राः ॥७॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/18_07_uttarAbhistisRbhirAragvadhamayyassamidhaH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अथो**त्तराभिस्तिसृभिः** "इन्द्र जहि दन्दशूकं "इत्यादिभिः प्रत्यृचम् ।

@@ -5,12 +5,7 @@ title = "१२ ०२ नैनमेतदहरादित्योऽभि
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_02_nainametadaharAdityo-bhitapet.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-**एनं** एतत्कर्म कुर्वाणम् ।
-**एतदहः**एतस्मिन्नहनि कदाचिदपि **नाभितपेदादित्यः** ।
-तेन मूत्रपुरीषादिकमपि तत्रैव व्रजे छायायामपि कर्तव्यम् ।
-आदित्यग्रहणादग्नितापस्य न प्रतिषेधः ॥२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/09_samAvartanam/12_02_nainametadaharAdityo-bhitapet.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अस्मिन्नहनि यावदस्तमयं मूत्रपुरीषोत्सर्जनार्थमप्यसौ मण्डपाद्बहिर्न निर्गच्छेतित्यर्थः ॥२॥

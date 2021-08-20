@@ -5,11 +5,7 @@ title = "१५ १३ कुमारीमुत्तरेण"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_13_kumArImuttareNa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-प्रवासादेत्य **कुमारीं** स्त्रीप्रजां **उत्तरेण यजुषा** "सर्वस्मादात्मनः सम्भूतासी"त्यनेन **अभिमन्त्रयते** ।
-दुहितरमिति कर्तव्ये कुमारीमिति वचनं प्रदानादूर्ध्वं माभूदिति ।
-पुत्रस्य तु यावज्जीवं भवति पुत्रेऽपि प्रोषितागते अभिमन्त्रणादित्रयं भवति न्यायस्य तुल्यत्वात् ॥१३॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/14_nAmakaraNam/15_13_kumArImuttareNa.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 प्रवासादेत्येत्यनुवर्तते ।

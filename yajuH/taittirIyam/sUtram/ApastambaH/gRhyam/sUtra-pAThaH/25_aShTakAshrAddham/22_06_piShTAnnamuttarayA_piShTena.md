@@ -5,8 +5,7 @@ title = "२२ ०६ पिष्टान्नमुत्तरया प�
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_06_piShTAnnamuttarayA_piShTena.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## अनाकुला
-पिष्टेन कृतमन्नं तस्य पयसि श्रपणम् **उत्तरयर्चा** "उक्थ्यश्चे"त्येतया जुहोति ॥६॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/25_aShTakAshrAddham/22_06_piShTAnnamuttarayA_piShTena.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 पिष्टेन कृतमन्नं **पिष्टान्नं** पयसि शृतं प्रसिद्धम् ।

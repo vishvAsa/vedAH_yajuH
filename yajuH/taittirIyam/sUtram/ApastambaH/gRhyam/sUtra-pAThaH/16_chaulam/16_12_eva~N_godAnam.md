@@ -5,12 +5,7 @@ title = "१६ १२ एवङ् गोदानम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_12_eva~N_godAnam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-यथा चौलं **एवम्** अस्य **गोदाना**ख्यम् अपि कर्म कर्तव्यम् ।
-तत्र तृतीयस्य वर्षस्यापवादः **षोडशे वर्षे** इति ।
-**अन्यस्मिन्नपि नक्षत्रे** पुण्याह एव ।
-पुनर्वसु नियमस्यापवादः ॥१२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/16_chaulam/16_12_eva~N_godAnam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **गोदानम्** इति कर्मनामधेयम् ; यस्मिन्कर्मण्यङ्गभूतं गोदानयोश् शिरःप्रदेशविशेषयोर्वपनम् ।

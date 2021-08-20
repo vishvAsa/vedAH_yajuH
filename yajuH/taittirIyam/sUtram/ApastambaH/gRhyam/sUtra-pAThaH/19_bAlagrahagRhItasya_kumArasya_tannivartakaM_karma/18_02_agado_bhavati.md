@@ -5,13 +5,7 @@ title = "१८ ०२ अगदो भवति"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_02_agado_bhavati.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**अगदः** अरोगः, रोगनिवृत्तिरस्य प्रयोजनमित्यर्थः ।
-किं सिद्धं भवति? यदि भैषज्येन कुमारोऽगदः स्यात् न तत्रेदं कर्तव्यमिति ।
-अन्यथा कुमार स्यास्मिन् रोगे पितुर्नैमित्तिकमिदमवश्यं कर्तव्यं विज्ञायेत गृहदाहेष्ट्यादिवत् । एवं ब्रुवतां दोषः यक्ष्मगृहीतामन्यां वेत्येतत्प्रकारान्तरेण रोगशान्तावपि कर्तव्यं स्यात् । तस्मादिदमन्यत् प्रयोजनम् ।
-एवमेतस्मिन् कर्मणि त्रिषु कालेषु कृते कुमारोऽगदो भवति ।
-यदि न भवति पुनरपि तपोयुक्तेन कर्तव्यमिति ॥२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_02_agado_bhavati.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 इह च "शङ्खिनम्" इत्यत्र फलवचनं, सर्वत्र श्रुतितोऽर्थतो वावगतस्य कामिनः कर्मोपदेशः सामर्थ्यात् फलसिद्ध्यवगमपर्यन्त इति प्रदर्शयितुम् ।

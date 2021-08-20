@@ -5,11 +5,7 @@ title = "१८ ०३ शङ्खिनङ् कुमारम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_03_shankhina~N_kumAram.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-शङ्खो नाम ग्रहः कुमाराणां भयङ्करः, येन गृहीतः शङ्खवन्नदतीति ।
-तेन गृहीतं **शङ्खिनमुत्तराभ्यां** एते ते प्रतिदृश्येते इत्येताभ्यामृग्भ्यां **अभिमन्त्र्य** तत उदकुंभेन **शिरस्तोऽवनयेत**, अभिषिञ्चेद् **उत्तरयर्चा** "ऋषिर्बोधः प्रबोध" इत्येतया
-एवमेतदभिमन्त्रणादि त्रिषु कालेषु कर्तव्यम् ॥३॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_03_shankhina~N_kumAram.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 शङ्खोऽपि ग्रहः; येन गृहीतः शङ्खवन्नदति तद्गृहीतश् **शङ्खी** ।

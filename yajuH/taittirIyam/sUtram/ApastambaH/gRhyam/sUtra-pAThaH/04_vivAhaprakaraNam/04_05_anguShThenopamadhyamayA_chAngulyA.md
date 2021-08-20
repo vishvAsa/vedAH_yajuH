@@ -5,15 +5,7 @@ title = "०४ ०५ अङ्गुष्ठेनोपमध्यमया
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_05_anguShThenopamadhyamayA_chAngulyA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-मध्यमासमीपे वर्तत इत्युपमध्यमा तयाङ्गुल्या अनामिकयेत्यर्थः ।
-**भ्रुवोरन्तरं** मध्यम् **उत्तरेण यजुषा** इदमहमित्यनेन ।
-संमार्जनमन्त्रोऽयं न निरसनमन्त्रः ।
-**प्रतीचीनं** प्रत्यग्गतम् ।
-उपर्युपरि शिरो निरस्येत् ।
-तत उदकोपस्पर्शनं अङ्गुष्ठसाहचर्यादुपमध्यमयेति विशेषणादेव सिद्धे अङ्गुल्येति विशेष्यनिर्देशो विस्पष्टार्थम् ।
-यजुषेति विशेषणं उत्तरेणेति दिग्वाचिताशङ्का मा भूदिति ॥५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/04_05_anguShThenopamadhyamayA_chAngulyA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **उपमध्यमा** उपकनिष्ठिका, न तु प्रदेशिनी, तस्या विस्रंसिकेति व्यपदेशात् ।

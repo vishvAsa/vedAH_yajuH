@@ -5,10 +5,7 @@ title = "०५ ०५ जुहोतीयन् नारीति"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_05_juhotIyan_nArIti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-वरस्यैव जुहोतिक्रिया ।
-पात्रस्थानीयो वध्वञ्जलिः ॥५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_05_juhotIyan_nArIti.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 वर एव "इयं नारी" इत्यनया ऋचाऽभिन्नेन वध्वञ्जलिना देवतीर्थेन लाजान् जुहोति ।

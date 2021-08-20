@@ -5,17 +5,7 @@ title = "०९ ०३ एवमुत्तरैर्यथालिङ्ग
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_03_evamuttarairyathAlinga~n.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**एवम्** इत्यनेन "अर्थप्राध्वे"ति च, अप उपस्पृश्येति च, "जपेद्" इति चापेक्ष्यते ।
-एवञ्च यथालिङ्गवचनं विस्पष्टार्थम् ।
-**चित्रियः** प्रसिद्धः तत्रार्थप्राध्वः चित्रियं वृक्षमासाद्याप उपस्पृश्य "अग्निरस्त्वि"ति एतयर्चानुमन्त्रयते ।
-"नयश्शकृत्सदे" इति **शकृद्रीतिम्** उपतिष्ठेत ।
-"सिगसी"ति **सिग्वातम्** अन्यकृतम् ।
-आत्मसंस्पृष्टो वाससा कृतो वातः सिग्वातः ।
-सिगसि नासीति दीर्घान्ते प्राप्ते छान्दसो ह्रस्वः ।
-**शकुनिं** शुभां वाचमनुमन्त्रयेत "उद्गातेव शकुने" इत्येतयर्चा अशुभवचने तु प्रागुक्तो जपः ।
-केचिदिदमपि तत्रैवेच्छन्ति ॥३॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/06_karmAntarANi/09_03_evamuttarairyathAlinga~n.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 एवमित्यनेन अर्थप्राध्वोऽप उपस्पृश्येत्याकृष्यते ।

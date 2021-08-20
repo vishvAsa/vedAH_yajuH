@@ -5,18 +5,7 @@ title = "१९ ०६ अनाहिताग्नेराग्रयणम
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/19_06_anAhitAgnerAgrayaNam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-एतिरत्र प्राशनार्थः ।
-अग्रे प्रथमं अयनं यत्र तत् **आग्रयणम्** ।
-अग्रायणमिति प्राप्ते छान्दसो दीर्घव्यत्ययः ।
-तत्कर्म वक्ष्यते— तत्र अनाहिताग्निग्रहणमाहिताग्नेरौपासनवतः श्रौतेनाग्रयणेन सह समुच्चयप्रतिषेधार्थम् ।
-तेन पार्वणादिषु समुच्चयो भवति ।
-तत्र स्मार्तस्य करणेऽभ्युदयः ।
-अकरणे न प्रत्यवायः ।
-आग्रयणमिति नाम्ना श्रौताग्रयणस्य धर्माः प्राप्यन्ते ।
-नानिष्ट्वाग्रयणेनाहिताग्निर्नवस्याश्नीयादिति ।
-(आप.श्रौ.६-२९-२.) वर्षासु श्यामाकैर्यजेत, शरदि व्रीहिभिः, वसन्ते यवैः, यथुर्तु **वेणु**यवैरिति च ॥६॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/19_06_anAhitAgnerAgrayaNam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 उपदिश्यत इति शेषः ।

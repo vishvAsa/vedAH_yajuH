@@ -5,14 +5,7 @@ title = "२१ ०६ सर्वमुत्तरैरभिमृशेत
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/24_mAsishrAddhaprakaraNam/21_06_sarvamuttarairabhimRshet.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-एवं प्रधानाहुतीर्हुत्वा सौविष्टकृतं हुत्वा जयादि प्रतिपद्यते ।
-साङ्गे प्रधाने सर्वत्र प्राचीनावीतम् ।
-न जयादय इत्यन्ये ।
-परिषेचनान्तं कृत्वा प्रणीताश्च विमुच्य ततस्सर्वमन्नं होष्यं च समुपनिधाय हुतशेषं च तस्मिन् उत्सृज्य तम् **उत्तरैस्**त्रिभिः अभिमृशेत्
-"एष ते तत मधुमान्"इत्येतैः ।
-अत्राप्यूहः "एष ते मातामह मधुमा"नित्यादि ॥६॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/24_mAsishrAddhaprakaraNam/21_06_sarvamuttarairabhimRshet.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अथ ब्राह्मणभोजनार्थं हविष्यमहविषयं च सर्वमन्नं **उत्तरैः** "एष ते तत मधुमान्" इत्येतैस्त्रिभिर्मन्त्रैः अभिमृशेत् ।

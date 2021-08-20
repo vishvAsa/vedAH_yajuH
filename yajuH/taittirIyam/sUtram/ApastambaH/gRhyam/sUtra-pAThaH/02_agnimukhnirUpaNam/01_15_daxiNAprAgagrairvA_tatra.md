@@ -5,8 +5,7 @@ title = "०१ १५ दक्षिणाप्रागग्रैर्व
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## अनाकुला
-तत्र दक्षिणाग्राः पश्चात् पुरस्ताच्च ॥१५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 पित्र्येषु मासिश्राद्धादिषु कर्मसु सर्वासु दिक्षु दक्षिणाग्रैः परिस्तृणाति ॥ १४ ॥

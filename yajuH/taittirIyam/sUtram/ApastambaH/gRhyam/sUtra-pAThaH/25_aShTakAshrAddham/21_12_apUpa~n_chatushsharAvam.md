@@ -5,15 +5,7 @@ title = "२१ १२ अपूपञ् चतुश्शरावम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/21_12_apUpa~n_chatushsharAvam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## अनाकुला
-उप समीपे क्रियत इत्युपकारः ।
-तत्र भवम् **औपकार्यम्** ।
-तस्या औपकार्यमित्यन्वयः ।
-**तस्याः** एकाष्टकायाः समीपे यत्कर्म क्रियते पूर्वेद्युस्सप्तम्याम्, तत्र **चतुश्शरावमपूपं** श्रपयति ।
-सायं सप्तम्यामस्तमिते आदित्ये अपूपहविष्कं कर्म कर्तव्यमित्यर्थः ।
-तदेवमौपकार्यशब्दः कालविधानार्थः ।
-तस्यास्सायमित्यन्वये अष्टम्यामस्तमितेऽपूपं प्राप्नोति, नवम्यां पशुः, "दशम्यामन्वष्टका", तच्छास्त्रेष्वप्रसिद्धम् ।
-औपकार्यशब्दश्चानर्थकः ॥१२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/25_aShTakAshrAddham/21_12_apUpa~n_chatushsharAvam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 त्रिपदमिदं सूत्रम् ।

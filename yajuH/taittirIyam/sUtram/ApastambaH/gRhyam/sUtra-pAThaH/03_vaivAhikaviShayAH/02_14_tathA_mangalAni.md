@@ -5,11 +5,7 @@ title = "०२ १४ तथा मङ्गलानि"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_14_tathA_mangalAni.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-"ब्राह्मणान् भोजयित्वाशिषो वाचयित्वे"त्येवमादीनि स्वशास्त्रप्रसिद्धानि ।
-मङ्गलानि स्नातोऽहतवासा गन्धानुलिप्तः, स्रग्वी भुक्तवानित्येवमादीनि नापितकर्माङ्कुरार्पणादीनि लोकप्रसिद्धानि ।
-तान्येतानि सर्वाणि प्रत्येतव्यानि ॥१४॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/02_14_tathA_mangalAni.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 शङ्खदुन्दुभिवीणातूणववादित्रसम्प्रवादनानि कुलस्त्रीगीतानि केशश्मश्र्वादिप्रकल्पनाहतधौताच्छिद्रविचित्रवासोधारणगन्धानुलेपनसुगन्धस्रग् धारणापदातिगमनच्छत्रध्वजादीनि शिष्टाचारप्रसिद्धानि मङ्गलानि विवाहे उपसंहर्तव्यानि ॥१४॥

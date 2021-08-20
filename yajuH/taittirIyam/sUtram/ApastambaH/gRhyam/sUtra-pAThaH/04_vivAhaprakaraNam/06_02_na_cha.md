@@ -5,16 +5,7 @@ title = "०६ ०२ न च"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_02_na_cha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-ये नावं नयन्ति (ते) नावि भवा नाव्याः कैवर्ताः तान् **तरती** तरन्ती तरणकाल इत्यर्थः ।
-स्त्रीलिङ्गनिर्देशादेव सिद्धे वधूग्रहणं दर्शनप्रतिषेधो वध्वा एव यथा स्यादिति ।
-तेन तीर्त्वोत्तरां जपेदिति वरस्यैव भवति ।
-चशब्दो वध्वा वरस्य च सहतरणप्रदर्शनार्थः ।
-सहोभौ तरतः ।
-वध्वास्त्वयं चापरो विशेष इति ।
-केचित् नावा तार्या आपो नाव्या इति व्याचक्षते ।
-तेषां पुंलिङ्गनिर्देशोऽनुपपन्नः ॥२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/06_02_na_cha.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **नाव्यान्** नौनेतॄन् कैवर्तान् ।

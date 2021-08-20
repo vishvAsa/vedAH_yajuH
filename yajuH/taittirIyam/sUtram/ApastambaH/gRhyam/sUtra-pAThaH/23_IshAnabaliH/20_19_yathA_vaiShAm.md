@@ -5,13 +5,7 @@ title = "२० १९ यथा वैषाम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_19_yathA_vaiShAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**एषां** यजमानकुलजातानां यथा **कुलधर्मः** तथा वा प्राशनम्–यदि पुत्राणामेव, तथा प्राशनम् ।
-अथ सर्वेषां स्वकुलजातानां, तथा प्राशनम् ।
-अथ स्वस्रीयादीनामपि, तथा प्राशनमिति ॥१९॥
-
-इत्यनाकुलायां हरदत्तमिश्रविरचितायां गृह्यवृत्तौ विंशः खण्डः सप्तमश्च पटलः ॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_19_yathA_vaiShAm.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **यद्येषाम्** अनुष्ठातॄणां असपिण्डकर्तृकप्राशनमपि **कुलधर्मस्** तर्हि तथा वा स्यात् ॥१९॥

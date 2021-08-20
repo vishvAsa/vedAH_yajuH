@@ -5,13 +5,10 @@ title = "०७ ०८ सकृदुपस्तरणावदाने"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_08_sakRdupastaraNAvadAne.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
 ## प्रस्तावः
 अस्य त्ववदानविधिमाह–
 
-## अनाकुला
-अत्रापि पौरोडाशिकस्विष्टकृतोऽवदानकल्पः प्रदर्शितो विज्ञेयः ।
-"तेन द्विः पञ्चावत्तिनः उत्तरमुत्तरं ज्यायांसम्, न हविः प्रत्यभिघारयति" (आप. श्रौ.२-२१-३,४,५.) इति विशेषाः इहापि द्रष्टव्याः ॥८॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/07_08_sakRdupastaraNAvadAne.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 सकृदुपस्तरणमवदानं च द्विरभिघारणं च कार्यम् ।

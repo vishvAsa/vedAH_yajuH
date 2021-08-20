@@ -5,14 +5,10 @@ title = "०३ ११ सुप्तां रुन्दन्तीम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_11_suptAM_rundantIm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
 ## प्रस्तावः
 अथ विवाहे वर्जनीयाः कन्या आह–
 
-## अनाकुला
-वरेषु वरणार्थं प्राप्तेषु या कन्या स्वपिति रोदिति निष्क्रामति वा गृहात्, तस्या वरणं न कर्त्तव्यम् ।
-अशुभलिङ्गान्येतानीति ।
-परिशब्दोऽत्यन्तप्रतिषेधार्थः मनश्चक्षुषोर्निबन्धे सत्यपीति ॥११॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/03_11_suptAM_rundantIm.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 या वरेषु वरणार्थं प्राप्तेषु स्वपिति, या रोदिति, या वा गृहान्निष्क्रामति, ता एता **वरणे परिवर्जयेत्** अत्यन्तं वर्जयेत्, ऋद्धौ ज्योतिषादिभिर्ज्ञातायामपि ; यतस्स्वापादीनामत्रानृद्धिलिङ्गत्वं प्रबलत्वं च विवक्षितम् ॥११॥

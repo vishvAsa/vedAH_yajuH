@@ -5,12 +5,7 @@ title = "०१ २१ ब्राह्मणन् दक्षिणतो"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_21_brAhmaNan_daxiNato.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-प्रकृतत्वादग्नेः दक्षिणतः ।
-तत्रापरेणाग्निं दक्षिणातिक्रम्य तूष्णीं तृणं निरस्योपवेशनमिच्छन्ति । अग्रेणाग्निं परीत्यान्ये ।
-"हौत्रब्रह्मत्वे स्वं कुर्वन् ब्रह्मासनमुपविश्य चि(छ)त्रमुत्तरासङ्गं कमण्डलुं वा तत्र कृत्वाथान्यत् कुर्याद्(खा० सू०१-१-२६.) इति कल्पान्तरम् ।
-कृताकृतमाज्यहोमेषु परिस्तरणम् । तथाज्यभागौ वा ब्रह्मा चेदा(त्या)श्वलायनः ॥२१॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_21_brAhmaNan_daxiNato.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अग्निमिध्वेति प्रकृतत्वातग्नेर्दक्षिणतो दर्भेषु कंचिद्ब्राह्मणमुपवेशयेत् ।

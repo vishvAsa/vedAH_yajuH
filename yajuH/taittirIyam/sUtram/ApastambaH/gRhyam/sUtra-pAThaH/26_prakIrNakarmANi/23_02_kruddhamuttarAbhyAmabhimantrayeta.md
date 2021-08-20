@@ -5,17 +5,7 @@ title = "२३ ०२ क्रुद्धमुत्तराभ्याम
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_02_kruddhamuttarAbhyAmabhimantrayeta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**उत्तराभ्यां** "या त एषा रराट्या" इत्येताभ्याम् ।
-तत्र मन्त्रयोर्लिङ्गे विशेषाभावात् क्रुद्धमिति लिङ्गमविवक्षितम् ।
-तेन स्त्रियामपि भवति ।
-शूद्रादिष्वपि भवति ।
-नेत्यन्ये ।
-क्रुद्धस्य दर्शने नैमित्तिकमिदं नियमेन कर्तव्यमिति प्राप्त आह—विक्रोधो भवतीति ।
-यस्य क्रोधविगमं चिकीर्षति तत्र कर्तव्यमित्यर्थः ।
-क्रोधश्चात्मविषयः ।
-परविषयो वा ॥२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/26_prakIrNakarmANi/23_02_kruddhamuttarAbhyAmabhimantrayeta.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 यदि क्रुद्धः प्रत्यर्थी वा व्यवहारद्रष्टा वा, तत्क्रोधशान्तिं चासाविच्छति, तदा **उत्तराभ्यां** "या त एषा" इत्येताभ्यां **क्रुद्धम्** इतरं **वाभिमन्त्रयेत** ।

@@ -5,9 +5,7 @@ title = "२० १५ क्षिप्रं यजेत"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_15_xipraM_yajeta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**पाको** बालस्तद्वत् गमनशीलोऽयं **देवः** तस्माच्छीघ्रं यजेतेत्यर्थः ॥१५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_15_xipraM_yajeta.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अयं चौदनदानात्मको यागः **क्षिप्रम्** आवाहनानन्तरमुदकमेव प्रदाय कर्तव्यः ।

@@ -5,16 +5,10 @@ title = "०५ १७ अनुगतो मन्थ्यः"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_17_anugato_manthyaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
 ## प्रस्तावः
 अस्यौपासनस्योद्वातस्योत्पत्तिमाह–
 
-## अनाकुला
-**अनुगतः** उद्वातः मन्थ्यः मन्थनेनोत्पाद्यः ।
-अस्मिन् पक्षे विवाहेऽप्यस्य योनिरेषैव ।
-धारणं चारण्योर्विवाहप्रभृति भवति ।
-तत्र विवाहे अरणीभ्यां मन्थनम्, अनुगते स्वेभ्य एवावक्षाणेभ्य इत्युक्तम् ।
-तदभावे भस्मना अरणी संस्पृश्य मन्थनम् ॥१७॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_17_anugato_manthyaH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 यद्ययमग्निरनुगतः निर्वाणस्स्यात् तदा **मन्थ्यः** तेभ्य एवावक्षणेभ्योऽधिमन्थितव्यः ।

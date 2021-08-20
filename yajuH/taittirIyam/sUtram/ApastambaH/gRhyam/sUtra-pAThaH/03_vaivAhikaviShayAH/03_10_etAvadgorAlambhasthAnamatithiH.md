@@ -5,14 +5,7 @@ title = "०३ १० एतावद्गोरालम्भस्थान
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_10_etAvadgorAlambhasthAnamatithiH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-एतेष्वेव त्रिषु स्थानेषु गोरालम्भः नान्यत्र पाकयज्ञेषु ।
-अतिथिशब्देनातिथ्यकर्म व्यपदिश्यते "यत्रास्मा अपचितिं कुर्वन्ति" (आप.गृ.१२.३.) इत्येवमादि ।
-पितृशब्देनाष्टका कर्म "श्वोभूते दर्भेण गाम्"(आप.गृ.२२-३) इत्यादि ।
-विवाहशब्देनानन्तरोक्तस्य ग्रहणम् ।
-कल्पान्तरेष्वीशानयज्ञादावपि गोरालम्भ आम्नातः, तत्प्रतिषेधार्थो नियमः ।
-एवं ब्रुवता कल्पान्तरे दृष्टा अन्ये विशेषा अभ्यनुज्ञाता भवन्ति ॥९॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/03_10_etAvadgorAlambhasthAnamatithiH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **अतिथिः** वेदाध्याय्यागतः **पितरः** अष्टकाकर्म, **विवाहश्चेति,** यदेतत्त्त्रयं एतावत् गवालम्भाङ्गकर्मनिमित्तम् ।

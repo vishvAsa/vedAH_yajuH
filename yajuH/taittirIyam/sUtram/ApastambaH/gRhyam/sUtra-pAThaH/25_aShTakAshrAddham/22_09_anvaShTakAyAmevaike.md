@@ -5,15 +5,7 @@ title = "२२ ०९ अन्वष्टकायामेवैके"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_09_anvaShTakAyAmevaike.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-न पिण्डनिधानमित्युच्यमानेऽन्वष्टकायामपि पिण्डनिधानं न स्यात् ।
-अष्टका प्रकृता ।
-तत्र कः प्रसङ्गो यदन्वष्टकायां न स्यात् ।
-एवं तर्हि एतत् ज्ञापयति—विकल्पोऽत्र विधिरयम् ।
-अतः कृत्स्नस्य कर्मणो विषयो भवति सापूपस्य सान्वष्टकस्येति ।
-तेन दध्यञ्जलिः कृत्स्नैकाष्टकाकरणात् विकल्प्यते सापूपेन सान्वष्टकेनेति केचित् ।
-वयं तु ब्रूमः— अष्टकायामकृतायां भोजनमस्य न भवतीत्येतदर्थमेव वचनमन्वष्टकायां यत् पिण्डदानं तदिह......नास्मिन् कर्मणि पृथक्कर्तव्यमिति ॥९॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/25_aShTakAshrAddham/22_09_anvaShTakAyAmevaike.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 या श्वोभूतोऽन्वष्टकेति विधास्यते तस्याम् **अन्वष्टकायामेव पिण्डनिधानं** पिण्डप्रदानं नाष्टकायाम् **इत्येके** आचार्या **उपदिशन्ति** ।

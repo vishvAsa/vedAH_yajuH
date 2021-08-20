@@ -5,12 +5,7 @@ title = "०७ २६ अविकृतमातिथ्यम् "
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_26_avikRtamAtithyam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-या गौरतिथय आलभ्यते "गौरिति गां प्राहेति" तदातिथ्यं नाम कर्म **तदविकृतम्** अपूर्वं पार्वणधर्मास्तद्वपाहोमे न कर्तव्या इत्यर्थः ।
-इदमेव ज्ञापकं न स्थालीपाकेष्वेव सोऽतिदेशः ।
-किं तर्हि ? सर्वेषु पक्वगुणेषु पशुष्वपीति ।
-तेनाष्टकायां काम्यपशुषु च शास्त्रान्तरदृष्टेषु पार्वणधर्मसिद्धिः ॥२८॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/07_26_avikRtamAtithyam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अतिथिर्यस्य कर्मणो निमित्तं त**दातिथ्यम्**, गवालम्भ इत्यर्थः ।

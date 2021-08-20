@@ -5,10 +5,7 @@ title = "१० ०७ वपन्तमुत्तरयानुमन्त
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_07_vapantamuttarayAnumantrayate.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-एवमाचार्येण प्रतिदिशं प्रवपने कृते नापितस् तस्य केशान् वपति संसृष्टाभिर् एवाद्भिर् अबर्थं कुर्वाणः ।
-तं नापितं **वपन्तमुत्तरयर्चा** "यत् क्षुरेणेत्येतया"**ऽनुमन्त्रयत** आचार्यः ॥७॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/10_07_vapantamuttarayAnumantrayate.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 दक्षिणत उपविश्य कुमारस्य **माता ब्रह्मचारी वा** कश्चित् "यत् क्षुरेण" इत्येतया **वपन्त**माचार्यम् अनुमन्त्रयते ।

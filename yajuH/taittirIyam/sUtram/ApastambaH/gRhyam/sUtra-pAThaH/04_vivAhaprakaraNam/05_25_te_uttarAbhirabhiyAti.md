@@ -5,14 +5,7 @@ title = "०५ २५ ते उत्तराभिरभियाति"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_25_te_uttarAbhirabhiyAti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**ते** सूत्रे **अभियाति** उपरियाति ।
-उत्तराभिस्तिसृभिः ऋग्भिः ये वध्वश्चन्द्रमित्येताभिः
-तत्र रथेन गच्छन्नुपरियाति ।
-मन्त्रास्त्वश्वादिगमनेऽपि वक्तव्याः गमनार्थत्वात्तेषां, नेत्यन्ये ।
-मन्त्रलिङ्गात् त्रित्वनियमः ।
-त्रयाणामन्ते गमनारम्भः ॥२५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_25_te_uttarAbhirabhiyAti.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 "ये वध्वश्चन्द्रम्" इति तिसृभिर्व्यवस्तीर्णे सूत्रे **अभियाति** उपरिगच्छति ॥२५॥

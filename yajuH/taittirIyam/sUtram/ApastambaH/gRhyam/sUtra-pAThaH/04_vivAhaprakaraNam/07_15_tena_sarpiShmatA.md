@@ -5,10 +5,7 @@ title = "०७ १५ तेन सर्पिष्मता"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_15_tena_sarpiShmatA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## अनाकुला
-**सर्पिष्मतेति** वचनमतिशयार्थमभिघारणेन प्रागपि सर्पिष्मत्वात् ।
-लौकिकेन सर्पिषा प्रभूतेनोपसिच्येत्यर्थः ।
-यो दक्षिणत आस्ते स इह ब्राह्मणः तं भोजयेत् वधूर्वरो वा ॥१५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/07_15_tena_sarpiShmatA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **तेन** हविश्शेषेण ।

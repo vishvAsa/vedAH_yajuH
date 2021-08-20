@@ -5,15 +5,7 @@ title = "१० १० वासः"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_10_vAsaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-एकस्मिन्न् एवाहनि तन्तु-क्रिया वयनक्रिया च यस्य तत् **सद्यःकृत्तोतं** ।
-
-एवंभूतं **वास उत्तराभ्यां** ऋग्भ्यां"रेवतीस्त्वे"त्येताभ्यां अभिमन्त्रयेत ।
-ततस्त **दुत्तराभिस्तिसृभिः** "या अकृन्त"न्नित्येताभिः परिधापयति ।
-आचार्यस्यैव मन्त्राः ।
-वचनादेकमिति तिसृणामन्ते परिधापनम् ।
-ततः तं परिहितवन्तं कुमारं आचार्यः **उत्तरया"** **परीदं** वास" इत्येतया **अनुमन्त्रयते** ॥१०॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/10_10_vAsaH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **वासः ** यच्छाण्यादि धर्मशास्त्रे विहितं ** तत्सद्यःकृत्तोतं** सद्य एव छिन्नोतं, नान्यस्मिन्नहनि प्रशस्तेऽपि ।

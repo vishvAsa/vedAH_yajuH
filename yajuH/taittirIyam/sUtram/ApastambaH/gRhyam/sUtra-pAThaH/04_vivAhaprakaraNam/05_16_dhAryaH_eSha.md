@@ -5,8 +5,7 @@ title = "०५ १६ धार्यः एष"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_16_dhAryaH_eSha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## अनाकुला
-एष वैवाहिकोऽग्निर्नित्यः शाश्वतिको **धार्यः** पत्नीसम्बन्धानां कर्मणामर्थाय ॥१६॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_16_dhAryaH_eSha.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 पाणिग्रहणादारभ्य सर्वाचारलक्षणकर्मार्थमयमग्निर्नित्यः, यावज्जीवं नोत्सृज्यते; "पाणिग्रहणादिरग्निस्तमौपासनमित्याचक्षते, तस्मिन् गार्ह्याणि कर्माणि" ( हि. गृ.२६-१,२.) इति हिरण्यकेशिवचनात् ।

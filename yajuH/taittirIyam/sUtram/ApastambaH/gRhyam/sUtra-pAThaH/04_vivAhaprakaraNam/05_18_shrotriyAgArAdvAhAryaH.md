@@ -5,10 +5,7 @@ title = "०५ १८ श्रोत्रियागाराद्वाह
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_18_shrotriyAgArAdvAhAryaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-श्रुतवृत्ताध्ययनसम्पन्नो ब्राह्मणः **श्रोत्रियः** तस्य गृहे यः पचनाग्निः तस्माद्वाहार्यः ।
-अस्मिन् पक्षे विवाहेऽप्यस्य योनिरेषैव ॥१८॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_18_shrotriyAgArAdvAhAryaH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अथवाधीतवेदस्य गृहादाहार्यः ।

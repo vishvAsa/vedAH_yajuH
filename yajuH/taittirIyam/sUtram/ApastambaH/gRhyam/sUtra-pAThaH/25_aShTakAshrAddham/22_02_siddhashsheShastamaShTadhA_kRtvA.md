@@ -5,12 +5,7 @@ title = "२२ ०२ सिद्धश्शेषस्तमष्टधा
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_02_siddhashsheShastamaShTadhA_kRtvA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## अनाकुला
-तन्त्रस्य शेषस्**सिद्धो** भवति अविकृत इत्यर्थः ।
-अञ्जलिना जुहोतीत्युभयं विशेषः स्विष्टकृति न भवतीतियर्थः ।
-तेन स्विष्टकृतमवदानकल्पेन दर्व्या हुत्वा समिधमेकविंशतिमाधाय जयादि प्रतिपद्यते ॥२॥
-"तेन सर्पिष्मता ब्राह्मणम्" इत्येकस्य भक्षणे प्राप्तेऽष्टाभ्य उपहारो विधायते ।
-तत्र ये ब्राह्मणाः श्वोभूते भोक्तारः तेभ्यो निवेद्योपवसति ॥३॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/25_aShTakAshrAddham/22_02_siddhashsheShastamaShTadhA_kRtvA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अपूपस्य **शेषस्सिद्धः उपहरति** प्राशनार्थमिति चानुवादः, **तं** शेषं सर्पिष्मन्तमष्टधा कृत्वा अष्टभ्यो **ब्रह्मणेभ्य** इति विधातुम् ।

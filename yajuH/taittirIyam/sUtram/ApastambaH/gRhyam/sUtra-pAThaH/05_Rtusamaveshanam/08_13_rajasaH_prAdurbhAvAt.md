@@ -5,17 +5,7 @@ title = "०८ १३ रजसः प्रादुर्भावात्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**रजसः** लोहितस्य ।
-**ऋतौ** यत् **समावेशनं** तत्र कर्तव्ये, **उत्तराभिर्** ऋग्भिः "विष्णुर्योनिम्" इत्यादिभिः त्रयोदशभिर् **अभिमन्त्रयेत** ।
-"रजसः प्रादुर्भावाद्" इति वचनात् सर्वस्मिन् रजसः प्रादुर्भावेऽभिमन्त्रणं भवति ।
-न संशासनवत् प्रथम एवर्तौ ।
-"स्नाताम्" इत्येतत् ब्राह्मणप्रतिषिद्धानां सर्वेषां प्रतिप्रसवार्थम् ।
-**स्नातां** कृतमङ्गलामित्यर्थः ।
-तेनाञ्जनाभ्यञ्जनान्यपि भवति ॥१३॥
-
-इति श्रीहरहरदत्तविरचितायां गृह्यसूत्रवृत्तावनाकुलायामष्टमः खण्डः ॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **रजसः** शोणितस्य ।

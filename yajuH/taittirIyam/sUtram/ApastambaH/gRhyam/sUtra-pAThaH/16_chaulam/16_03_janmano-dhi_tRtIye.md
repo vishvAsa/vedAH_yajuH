@@ -6,15 +6,7 @@ title = "१६ ०३ जन्मनोऽधि तृतीये"
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_03_janmano-dhi_tRtIye.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
   
 
-## अनाकुला
-अथ चौलविधिः— यस्मिन् कर्मणि केशाः प्रथमं खण्ड्यते तत् चौलम् ।
-चूडा प्रयोजनमस्येति ।
-डलयोरविशेषः ।
-तत् जन्मनः प्रभृति तृतीये वर्षे पुनर्वस्वोर्नक्षत्रे कर्तव्यम् ।
-कुमारं प्राशयेदिति विहितत्वात् पुंस एवेदं विधिवच्चौलम् ।
-कुमार्यास्त्वावृतैव ।
-एवञ् चेत् कृत्वा अपरेणाग्निं प्राञ्चमिति पुंलिङ्गमुपपद्यते ।
-जन्मग्रहणं गर्भादारभ्य तृतीये वर्षे मा भूदिति ॥३॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/16_chaulam/16_03_janmano-dhi_tRtIye.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **जन्मनोऽधी**ति पूर्ववत् ।

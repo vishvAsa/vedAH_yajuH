@@ -5,11 +5,7 @@ title = "१५ ०२ नक्षत्रनाम च"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/13_jAtakarma/15_02_naxatranAma_cha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-अभिजिघ्राम्यसौ इत्यत्रासौशब्दस्य स्थाने नक्षत्रनामनिर्देशः ।
-तत्संबुध्या निर्दिशेत्–पशूनां त्वा हिंकारेणाभिजिघ्राम्याश्वयुजेत्यादि ।
-तत्र नक्षत्रशब्देषु जातार्थे रूपनिर्णयार्थः श्लोकः—
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/13_jAtakarma/15_02_naxatranAma_cha.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 रोरेममृज्येचिषु वृद्धिरादौ ष्ठात्पे च वान्त्यश्रवशाश्वयुक्षु ।

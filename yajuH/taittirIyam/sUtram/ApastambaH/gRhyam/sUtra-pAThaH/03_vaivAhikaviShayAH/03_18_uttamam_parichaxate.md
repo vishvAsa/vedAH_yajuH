@@ -5,11 +5,7 @@ title = "०३ १८ उत्तमम् परिचक्षते"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_18_uttamam_parichaxate.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-तत्र बीजस्पर्शने प्रजाभिस्समृद्धिः ।
-वेदिपुरीषे यज्ञैः, क्षेत्रलोष्टे धनधान्यैः, गोमये पशुभिः, श्मशानलोष्टे मरणमिति यथालिङ्गार्थः ।
-**उत्तमम्** अन्त्यं द्रव्यं **परिचक्षते** गर्हन्ते वर्जयन्तीत्यर्थः ॥१८॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/03_18_uttamam_parichaxate.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **पूर्वेषां** चतुर्णामुपस्पर्शने **यथालिङिगमृद्धिः ।**

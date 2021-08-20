@@ -5,12 +5,7 @@ title = "१२ १३ उदितेषु नक्षत्रेषु"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_13_uditeShu_naxatreShu.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-ततः उत्तरेणार्धर्चेन "देवीष्षडुर्वीर्" इत्यनेन प्राङ्मुखः प्राञ्जलिः सर्वा दिशो मनसि कृत्वा मन्त्रान्तेन प्रदक्षिणमावृत्य समनुवीक्षते ।
-षडेव दिशः। षडुर्वीरिति लिङ्गात् ।
-प्राच्याद्याश्चतस्रः ऊर्ध्वा अधरा चेति ।
-तत **डत्तरेणा**र्धचेन "मा हास्मही"त्यनेन **नक्षत्राणि चन्द्रमसं** च सहोपतिष्ठते ॥१३॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/09_samAvartanam/12_13_uditeShu_naxatreShu.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 इदं च व्याख्यातम् ॥१२॥

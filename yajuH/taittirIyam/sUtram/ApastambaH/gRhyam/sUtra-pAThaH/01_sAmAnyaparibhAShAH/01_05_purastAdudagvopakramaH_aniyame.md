@@ -5,12 +5,7 @@ title = "०१ ०५ पुरस्तादुदग्वोपक्रम
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_05_purastAdudagvopakramaH_aniyame.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला  
-अनियमे नियमार्थमिदं वचनम् ।
-दक्षिणतः पश्चाद्वोपक्रामो माभूदिति ।
-परिस्तरणाद्येवोदाहरणम् ॥
-
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/01_sAmAnyaparibhAShAH/01_05_purastAdudagvopakramaH_aniyame.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 कार्य इति शेषः ।

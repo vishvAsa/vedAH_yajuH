@@ -5,16 +5,7 @@ title = "११ १५ पालाशो दण्डो"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_15_pAlAsho_daNDo.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-राजन्यवैश्ययोः विशेषविधानादेव सिद्धे ब्राह्मणग्रहणं अयमपि विधिर्वणसंयुक्तो यथा स्यादिति ।
-तेन "वार्क्षो दण्ड" इत्ययं विकल्पो ब्राह्मणस्यापि भवति ।
-इतरथा राजन्यवैश्ययोरेव स्यात् तयोरेव वर्णसंयुक्त विधानमिति कृत्वा ॥१४॥
-न्यग्रोधस्य विकारो **नैय्यग्रोधः** ।
-स्कन्धे जातः **स्कन्धजः** ।
-अवाचीनाग्रः **अबाङग्रः** ।
-ङकारपाठश्छान्दसः ॥१५॥
-बदर्या विकारो **बादरः** । वृक्षप्रकरमात् उदुम्बरो वृक्षः, न ताम्रम् ॥१६॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/11_15_pAlAsho_daNDo.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **पालाशः** पलाशवृक्षस्य विकारः ।

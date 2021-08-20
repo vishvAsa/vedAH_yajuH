@@ -5,11 +5,7 @@ title = "०७ १० मध्ये होमः"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_10_madhye_homaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-आघारसम्भेदो **मध्यम् ।**
-अत्रापि पौरोडाशिक एव होमदेशो दर्शितो विज्ञेयः ।
-तेनाहुतीनामनेकत्वे "पूर्वां पूर्वां संहिताम्" (आप. श्रौ.२-१९-९.) इत्येवमादयो विशेषा इहापि भवन्ति ॥१०॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/07_10_madhye_homaH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **होमः** प्रक्षेपः ।

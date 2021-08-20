@@ -5,10 +5,7 @@ title = "१२ १४ रातिना सम्भाष्य"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_14_rAtinA_sambhAShya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-**रातिना** बन्धुना **संभाष्य** किं मया कर्तव्यम्? क आश्रमः प्रतिपत्तव्यः? इति संभाषणं कृत्वा तेन रातिना सह **गच्छति** अवधृतमाश्रम प्रतिपद्यत इत्यर्थ ।
-"बुध्वा कर्माणि यत् कामयेत तदारभेत" (आप.ध.२-२१-५.) इत्यनेनैव सिद्धे पुनर्वचनं प्रव्रजतोऽपि संभाषणान्तं स्नानकर्म यथा स्यादिति ॥१४॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/09_samAvartanam/12_14_rAtinA_sambhAShya.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **रातिः** मित्रं; रमयतीति व्युत्पत्या ।

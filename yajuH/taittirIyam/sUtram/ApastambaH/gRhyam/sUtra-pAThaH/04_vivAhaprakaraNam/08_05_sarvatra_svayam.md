@@ -5,15 +5,7 @@ title = "०८ ०५ सर्वत्र स्वयम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_05_sarvatra_svayam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**सर्वत्र** सर्वेषु पाकयज्ञेषु अग्नौ स्वयं प्रज्वलिते धमनादि पुरुषप्रयत्नमन्तरेणेत्यर्थः ।
-एतस्मिन् निमित्ते संप्राप्ते उत्तराभ्यामृग्भ्यां द्वे समिधावग्नावादध्यात् "उद्दीप्यस्व" "मा नो हिंसीः" इति ।
-आदधातिचोदितत्वात् स्वाहाकारो नास्ति ।
-सर्वत्र ग्रहणात् सर्वपाकयज्ञेष्वयं विधिर्भवति ।
-अन्यथा प्रकरणाद्विवाह एव स्यात् ।
-सर्वत्र लौकिके वैदिके गार्ह्ये वाग्नाविति ।
-एककर्मकालेष्वित्यन्ये ॥५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/08_05_sarvatra_svayam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **सर्वत्र** सर्वाचारलक्षणेषु कर्मसु ।

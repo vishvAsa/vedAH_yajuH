@@ -5,14 +5,7 @@ title = "१३ १५ गौरिति गाम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_15_gauriti_gAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-अथाचाम्योपविष्टाय **गां** निवेदयते गौरिति ।
-स्त्री च गौर्भवति, गौर्धेनुभव्येति दर्शनात् ।
-यद्वा पुमानपि भवति ।
-श्रूयते हि—
-"तद्यथैवादो मनुष्यराज आगतेऽन्यस्मिन् वार्हति उक्षाणं वेहतं वा क्षदन्ते" इति ।
-(ऐ. ब्रा. १-३-४.) एवमर्थमेवात्र गामित्युक्तं गोजातिमात्रस्य निवेदनं यथा स्यात् । अन्यथा गौरिति प्राहेत्येतावता सिद्धं यथा पाद्यदिषु ॥१५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/10_madhuparkaH/13_15_gauriti_gAm.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 प्राशने कृते दाता **"गौः" इति गां प्राह** कथयति ।

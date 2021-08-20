@@ -5,10 +5,7 @@ title = "२० ०१ उत्तरया"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_01_uttarayA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-मध्ये जयंतस्य प्रतिकृतिमाकाश एव कृत्वा दक्षिमस्याम् **ईशानमावाहयति उत्तरयर्चा** "आ त्वा वहन्त्व्" इत्येतया ।
-अग्नेरुपसमाधानादीत्त्युक्तत्वात् प्रधानाहुतीनां च वक्ष्यमाणत्वात् आज्यभागान्ते कुटीकरणमेव भवति ॥१॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_01_uttarayA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अथो**त्तरया** "आ त्वा वहन्तु" इत्येतया **दक्षिणस्यां** कुट्या **मीशानमावाहयति** ।

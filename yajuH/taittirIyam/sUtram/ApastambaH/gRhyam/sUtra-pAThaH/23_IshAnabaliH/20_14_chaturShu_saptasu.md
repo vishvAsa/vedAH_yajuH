@@ -5,12 +5,7 @@ title = "२० १४ चतुर्षु सप्तसु"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_14_chaturShu_saptasu.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-आवाह्यार्घ्यं दत्वा गन्धादिभिरभ्यर्च्य स्थालीपाकमासाद्याभिघार्य चत्वारि सप्त वा पर्णानि देवस्य समीपे कृत्वा
-तेषु **नामादेशं** नामादिश्यौदनपिण्डं दधाति स्थालीपाकात् ।
-तत्र पूर्वेषु पर्णदानमन्त्रेषु स्वाहाकारान्तत्वनियमात् इहापि क्षेत्रस्य पतये स्वाहेति पर्णदानम् ।
-एष एवास्य यागः ॥१४॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_14_chaturShu_saptasu.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 चत्वारि सप्त वा पर्मानि भूमौ स्थापयित्वा तेषु क्षैत्रपत्यात् स्थालीपाकादोदनमादाय **नामादेशं** नाम चतुर्थ्यन्तमादिश्य "क्षेत्रस्य पतये त्वां ददामि, इति **दधाति** ।

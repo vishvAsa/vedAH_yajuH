@@ -5,11 +5,7 @@ title = "०१ ०३ यज्ञोपवीतिना कार्या�
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_03_yajnopavItinA_kAryANi.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-
-## अनाकुला  
-कार्याणि इत्यनुवर्तते ॥
-
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/01_sAmAnyaparibhAShAH/01_03_yajnopavItinA_kAryANi.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्  
 कार्याणीति सम्बन्धः ।

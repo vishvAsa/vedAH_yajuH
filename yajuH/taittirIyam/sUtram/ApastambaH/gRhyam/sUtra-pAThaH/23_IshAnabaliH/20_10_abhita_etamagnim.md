@@ -3,17 +3,12 @@ title = "२० १० अभित एतमग्निम्"
 
 +++
 
-
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_10_abhita_etamagnim.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
-
 
 ## प्रस्तावः
 अथ प्रधानहोमकाल एव यत्कर्तव्यं तदाह—
 
-## अनाकुला
-**एतं** हूयमानमग्निमभितो **गाः** आत्मीयाः यथा **स्थापयति** स्थापने **एना गाः धूमः प्राप्नुयात्** ।
-अनुवातं समीप इत्यर्थः ।
-प्रधानहोमकाले च... तदर्थमेवैतमित्युक्तं एतं हूयमानमग्निमिति ॥१०॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_10_abhita_etamagnim.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **एतं ** होमार्थम्**अग्निमभितः** होमाग्नेस्समीप इत्यर्थः ।

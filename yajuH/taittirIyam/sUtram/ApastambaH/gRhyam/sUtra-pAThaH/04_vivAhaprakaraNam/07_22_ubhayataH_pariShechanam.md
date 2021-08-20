@@ -5,8 +5,7 @@ title = "०७ २२ उभयतः परिषेचनम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_22_ubhayataH_pariShechanam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## अनाकुला
-अस्य होमस्य परिषेचनं **उभयतः** पुरस्तादुपरिष्टाच्च कर्तव्यम्, यथा पुरस्ताच्चोदितम्— अग्निं परिषिञ्चति पूर्ववत् परिषेचमिति ॥२२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/07_22_ubhayataH_pariShechanam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **उभयतः** एतयोराहुत्योः पुरस्तादुपरिष्टाच्च **परिषेचनं यथा पुरस्ताद्** विहितं "अग्निं परिषिञ्चति" (आप.गृ. २-३.)

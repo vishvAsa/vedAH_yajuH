@@ -5,18 +5,7 @@ title = "०५ ०४ तस्यास्सोदर्यो"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_04_tasyAssodaryo.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-अथशब्दः स्थानसम्बन्धार्थः ।
-अथोत्थित एवास्याश्चोत्थिताया एवेति ।
-तेनावदानप्रभृत्युत्थानमेव भवति ।
-तत्र दार्शपौर्णमासिकोऽवदानकल्पः प्रदर्शितः न कल्पान्तरम् ।
-तदिहापि प्रत्यभिघारणं पञ्चावत्तञ्च पञ्चावत्तिनां भवति ।
-लाजानां च लौकिकः संस्कारः ।
-पात्रैश्च सह सादनप्रोक्षणे भवतः ।
-अञ्जलेस्तु न सादनादि भवतीत्युक्तम् ॥३॥
-सोदर्यो लाजानावपतीति वचनात् उपस्तरणाभिघारणे वरस्यैव भवतः ।
-पक्षान्तरे तु तस्यैव सर्वम् ॥४॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_04_tasyAssodaryo.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 एते अपि सूत्रे व्यक्तार्थे ।

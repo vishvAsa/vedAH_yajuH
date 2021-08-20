@@ -5,18 +5,7 @@ title = "११ २४ वासश्चतुर्थीमुत्तरय
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_24_vAsashchaturthImuttarayAdatte-nyatparidhApya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-अथ त्रिरात्रे(५) निवृत्ते **चतुर्थी** रात्रिं सप्तम्यर्थे द्वितीया ।
-चतुर्थ्यामित्यर्थः ।
-तत्र किम्? **यद्वासः** कुमारस्य धार्यं सद्यःकृत्तोतं परिधापितं तदाचार्य आदत्ते **उत्तरया** ऋर्चा "यस्य ते प्रथमवास्य"मित्येतया ।
-**अन्यद्वासः** परिधाय ।
-त्र्यहे तु तस्मिन्नियमेन सद्यःकृत्तोतमेव ।
-चतुर्थीमित्यत्र न रात्रिर्विवक्षिता ।
-किं तर्हि? अहोरात्रसमुदायः ।
-तत्राहन्यवादानं वाससः "उदगयनपूर्वपक्षाहः" इति नियमात् ।
-मेखलामजिनं दण्डमुपवीतं कमण्डलुम् ।
-अप्सु प्रास्य विनष्टानि (१)धार्याण्यन्यानि मन्त्रवत् ॥२४॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/11_24_vAsashchaturthImuttarayAdatte-nyatparidhApya.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **चतुर्थीम्** इति सप्तम्यर्थे द्वितीया ।

@@ -5,10 +5,7 @@ title = "२२ ११ अत एव"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_11_ata_eva.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**अत एवा**स्या एव गोरेकाष्टकायामालब्धायां मांसं यस्य यथार्थं यावत्प्रयोजनं शिष्ट्वा श्वोभूते नवम्यामन्वष्टकानाम कर्म कर्तव्यम् ।
-भूयांसमतो माहिषेणेत्यादीनां निवृत्त्यर्थ एवकारः ॥११॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/25_aShTakAshrAddham/22_11_ata_eva.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **श्वोभूते** नवम्याम् **अन्वष्टकाख्यं** कर्म कर्तव्यम् ।

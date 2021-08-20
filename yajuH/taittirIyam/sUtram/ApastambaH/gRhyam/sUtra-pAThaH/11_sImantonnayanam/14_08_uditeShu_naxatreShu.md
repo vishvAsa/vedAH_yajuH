@@ -5,10 +5,7 @@ title = "१४ ०८ उदितेषु नक्षत्रेषु"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_08_uditeShu_naxatreShu.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**वत्सः** पुमान् गौश्च भवति ।
-व्याहृतयस्समस्ताः याजमानसमाम्नायात् प्रत्येतव्याः ॥८॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/11_sImantonnayanam/14_08_uditeShu_naxatreShu.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 विस्पष्टार्थम् ।

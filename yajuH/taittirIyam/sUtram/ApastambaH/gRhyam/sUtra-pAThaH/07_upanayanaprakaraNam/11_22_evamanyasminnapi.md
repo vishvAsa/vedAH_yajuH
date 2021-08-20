@@ -5,15 +5,7 @@ title = "११ २२ एवमन्यस्मिन्नपि"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_22_evamanyasminnapi.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-यथाऽस्योपनयनाग्नेः नित्यधारणपक्षे समिधादानं नित्यत्वेन चेदितं, **एवं** त्र्यहं धारणपक्षे त्र्यहादूर्ध्वं **अन्यस्मिन्नप्य्** अग्नाविदं कर्म कर्तव्यमित्यर्थः ॥२३॥
-अरण्यग्रहणात् ग्राम्याणां फलवतां वृक्षाणां प्रतिषेधः ।
-आहृत्येति वचनात् अन्यैराहृतानां प्रतिषेधः ।
-**एधाः** काष्ठानि ।
-एधग्रहणमग्नेराहरणशङ्कानिवृत्यर्थम् ।
-सामयाचारिकेषु विधिः गुर्वर्थं ब्रह्मचारिणस्समिदाहरणं विधत्ते ।
-इदं त्वात्मार्थम् ॥२२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/11_22_evamanyasminnapi.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 एवमुक्तेन विधिना **सदा** उपनयनप्रभृत्यासमावर्तनात् अहरहस्सायं प्रातः, सायमेव वा समिदाधानं कर्तव्यम् ।

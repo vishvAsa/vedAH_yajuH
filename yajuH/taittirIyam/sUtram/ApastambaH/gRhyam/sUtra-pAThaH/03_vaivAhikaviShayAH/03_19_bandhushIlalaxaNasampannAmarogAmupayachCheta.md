@@ -5,17 +5,10 @@ title = "०३ १९ बन्धुशीललक्षणसम्पन्
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_19_bandhushIlalaxaNasampannAmarogAmupayachCheta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
 ## प्रस्तावः
 उद्वाह्यामाह–
 
-## अनाकुला
-उक्ता वर्जनीयाः कन्याः ।
-अथ ग्राह्या उच्यन्ते ।
-बन्धुशब्देन कुलमुच्यते ।
-यदुक्तमाश्वलायनेन "कुलमग्रे परिक्षेत ये मातृतः पितृतश्चेति यथोक्तं पुरस्ताद्" (आश्व. गृ. १-५-१०.) इति ।
-**शीलसम्पन्ना** आर्यशीला ।
-**लक्षणसम्पन्ना** स्त्रीलक्षणैरुपेता रोगराहिता क्षयापस्मारादिरहिता ॥१९॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/03_19_bandhushIlalaxaNasampannAmarogAmupayachCheta.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अत्र **सम्पन्नाम्** इति प्रत्येकं सम्बध्यते ।

@@ -5,17 +5,7 @@ title = "०९ ०८ सपत्नीबाधनञ्च "
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_08_sapatnIbAdhanancha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-न केवलमुभयोर्हृदयसंसर्गसाधनमेवैतत्कर्म, किं तर्हि? **सपत्नीबाधनञ्च** सपत्न्यप्यनेन बाधितुं शक्येत्यर्थः ।
-अस्मिन्नपि पक्षे
-औपासन एवाग्निः योऽस्या विवाहेन सम्पादितः या सप्तनीं बाधते ।
-विवाहभेदाद्ध्यग्निस्संसृज्येत ।
-तथा च राजसूय इत्युक्तं–"तस्या औपासने प्रतिनिहितम्"(आप. श्रौ.१८-१६-१४.) इति ।
-तथा अग्निसंसर्गो बौधायनीयेऽभिहितः संसर्गादूर्ध्वमपि तस्मिन्नेव भवति ।
-यथा बाध्यमाना सपत्नी न जानाति ।
-केचित् पूर्वस्मिन्नेवाग्नौ द्वितीयं विवाहमिच्छन्ति ।
-तेषामपि तस्मिन्नेव कर्म ॥८॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/06_karmAntarANi/09_08_sapatnIbAdhanancha.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 सपत्नी बाध्यते येन तत् **सपत्नीबाधनम्** ।

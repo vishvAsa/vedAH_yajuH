@@ -5,14 +5,7 @@ title = "११ १२ कुमार उत्तरेण"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_12_kumAra_uttareNa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-अथ तत्रैवासीनः **कुमारः उत्तरेण** मन्त्रेणा"वृधमसौ सोम्ये"त्यनेन स्वयम्**उत्तरमोष्ठमुपस्पृशते ।**
-अप उपस्पृशति ।
-ओष्ठयो र्द्वित्वात् उत्तरमिति विशेषणम् ।
-मन्त्रग्रहणमुत्तरशब्दस्य दिग्वाचिताशङ्का मा भूदित्येवमर्थम् ।
-मन्त्रे असावित्यनेन प्राणोऽभिधीयते नाचार्यो नापि (१)माणवकः ।
-तेन नामनिर्देशो न कर्त्तव्यः ॥११॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/11_12_kumAra_uttareNa.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 आचार्यवाचितेन "अवृधमसौ सोम्य" इत्यनेन **मन्त्रेण कुमारः स्वमुत्तरमोष्ठम्** उपस्पृशति ।

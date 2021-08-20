@@ -5,11 +5,7 @@ title = "०४ ०६ प्राप्ते निमित्त"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_06_prApte_nimitta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-वध्वा स्वबन्धूनां च रोदनं **निमित्तं** जीवा ँ रुदन्तीति लिङ्गात् ।
-उत्तरामृचं "जीवा ँ रुदन्ती"त्येताम्, सर्वत्र समावेशनान्ते विवाहकर्मण्यस्मिन्निमित्तेऽयं जपो भवति ।
-निमित्तावृत्तौ मन्त्र आवर्तते ॥६॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/04_06_prApte_nimitta.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 जीवाँ रुदन्ती"ति मन्त्रलिङ्गानुरूपे निमित्ते प्राप्ते मात्रादिभिः कन्यकया वा अन्योन्यवियोगचिन्तया रोदने कृते इमामृचं जपेत् ॥६॥

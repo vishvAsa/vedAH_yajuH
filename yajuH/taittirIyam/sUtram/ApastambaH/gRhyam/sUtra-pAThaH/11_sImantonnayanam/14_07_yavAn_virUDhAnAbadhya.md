@@ -5,12 +5,7 @@ title = "१४ ०७ यवान् विरूढानाबध्य"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_07_yavAn_virUDhAnAbadhya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**विरूढान्** अङ्कुरितान् सूत्र-बद्धान् आबध्नाति शिरसि वध्वाः ।
-सैव वाचं यच्छति ।
-एवम् उपदेशो भोजनञ् चास्यास्मिन्न् अहनि नेच्छन्ति ।
-यवाश् च प्रागेव वप्तव्याः यथास्मिन् काले विरूढा भवन्ति ॥७॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/11_sImantonnayanam/14_07_yavAn_virUDhAnAbadhya.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अङ्कुरितान् सूत्र-ग्रथितान् **यवान्** वध्वाश् शिरस्याबध्नाति ।

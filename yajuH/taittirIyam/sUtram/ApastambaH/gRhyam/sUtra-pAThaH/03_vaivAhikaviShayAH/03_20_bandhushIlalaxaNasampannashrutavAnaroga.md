@@ -5,14 +5,10 @@ title = "०३ २० बन्धुशीललक्षणसम्पन्
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_20_bandhushIlalaxaNasampannashrutavAnaroga.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
 ## प्रस्तावः
 अथ वरगुणानाह–
 
-## अनाकुला
-**श्रुतवान्** श्रुताध्ययनसम्पन्नः ।
-वरसम्पत् वरगुणाः ।
-एवंगुणाय कन्यका देयेत्यर्थः ॥१६॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/03_20_bandhushIlalaxaNasampannashrutavAnaroga.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **बन्धुशीललक्षणसम्पन्न** इति पूर्ववद्व्याख्यानम् ।

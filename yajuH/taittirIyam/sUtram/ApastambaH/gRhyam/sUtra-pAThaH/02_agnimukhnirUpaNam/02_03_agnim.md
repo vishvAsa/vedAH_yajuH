@@ -5,17 +5,7 @@ title = "०२ ०३ अग्निम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_03_agnim.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-परिषेचनमुदकेन पर्युक्षणम् ।
-अग्निग्रहणं परिध्यधिकाराद् बहिः परिधिर्माभूदिति ।
-प्राचीनमुदीचीनमित्युच्यते प्रागुदग्वा(ग्चा) यतं परिषेचनकर्म यथा स्यादिति ।
-तथापवर्गस्तु परिभाषासिद्ध एव ।
-"देव सवितः प्रसुवे"ति एतावान् मन्त्रः कल्पान्तरेषु भूयस्सु तथा दर्शनात् ।
-बोधायनीये च विस्पष्टमेतत् "अन्वमंस्थाः प्रासावीरिति मन्त्रान्तान् सन्नमयति" (बौ.गृ.१-४-७.) इति ।
-छन्दोगानामेव त्वयं मन्त्रादिः ।
-**समन्तं** सम इत्यर्थः ।
-तत्र पुरस्तादुपक्रम्य प्रदक्षिणं सर्वत्र प्रतिमन्त्रमुदकदानम् ॥३॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_03_agnim.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अग्निमेवोदकेन परिषिञ्चति न परिध्याद्यङ्गमपि ।

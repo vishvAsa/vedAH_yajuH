@@ -5,14 +5,7 @@ title = "०८ ०८ त्रिरात्रमुभयोरधश्श
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_08_trirAtramubhayoradhashshayyA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-स्थालीपाकादारभ्य **त्रिरात्रमुभयोः** दम्पत्योः **अधश्शय्या** नोपरि खट्वादौ ।
-**ब्रह्मचर्यं** मैथुनवर्जनं, **क्षारलवणयोश्च वर्जनं** भोजने ।
-तत्र क्षारलवणवर्जनं स्थालीपाकात् प्रागध्वनि न भवति ।
-ब्रह्मचर्यं तु तत्रापि भवति ।
-चतुर्थ्यां समावेशनविधानात् इदं तु ब्रह्मचर्यवचनं दार्ढ्यार्थम् ।
-यद्यपि सहशयनमुभयोः, तथापि मैथुनवर्जने यत्नः कार्य इति ॥८॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/08_08_trirAtramubhayoradhashshayyA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **उभयोर्** दम्पत्योः स्थालीपाकादारभ्य त्रिरात्रम् **अधश्शय्या** स्यात्, न तु खट्वादौ ।

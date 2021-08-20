@@ -5,20 +5,7 @@ title = "१० ११ मौञ्जीम् मेखलाम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_11_maunjIm_mekhalAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-
-अथ **मेखलाम्** उत्तराभ्यामृग्भ्यां "इयं दुरुक्ताद्" इत्येताभ्यां त्रिः प्रदक्षिणं परिव्ययति कुमारम् ।
-स्वयमेव मन्त्रमुक्त्वा तं वाचयत्याचार्यः ।
-मन्त्रलिङ्गात् त्रिवृत् मेखला **मौञ्जी** मुञ्जतृणैः कल्पिता ।
-**त्रिवृत्** त्रिगुणा ।
-त्रिवृतामिति छान्दसो दीर्घपाठः ।
-
-ततो **ऽजिनमुत्तरं** वासः करोति **उत्तरयर्चा ।**
-मित्रस्य चक्षुरित्येतया स्वयमेव मन्त्रमुक्त्वा ।
-सामयाचारिकेषु वर्णविशिष्टा मेखलाविशेषाश्चोदिताः ।
-इदं तु सर्ववर्णानां मौञ्जीप्राप्त्यर्थं वचनम् ।
-अजिनविशेषास्तु सामयाचारिका इहापि प्रत्येतव्याः"कृष्णं ब्राह्मणस्ये"त्यादयः॥११॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/10_11_maunjIm_mekhalAm.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **मौञ्जीं**मुञ्जैः कल्पिताम् ।

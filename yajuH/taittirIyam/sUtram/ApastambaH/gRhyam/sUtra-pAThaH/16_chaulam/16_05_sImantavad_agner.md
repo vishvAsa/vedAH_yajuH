@@ -5,15 +5,7 @@ title = "१६ ०५ सीमन्तवद् अग्नेर्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_05_sImantavad_agner.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-अग्नेर् उपसमाधानादि-परिषेचनान्तं सीमन्त-वत् कर्तव्यम् ।
-पूर्वेद्युर् नान्दी-श्राद्धं, सकृत्-पात्राणि, शलल्य्-आदिभिस् सह शम्याः ।
-
-अन्वारब्धायां इत्य् अत्र च कुमारस्यान्वारम्भः ।
-
-परिषेचनान्तस्य चातिदेशः ।
-यत्तु "गायतम् इति वीणाथिनौ" इत्यादि न तस्यात्रातिदेशः - अपरेणाग्निं प्राञ्चम् इति विधानात् पुनर् उपवेशस्य ॥५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/16_chaulam/16_05_sImantavad_agner.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **अग्नेर् उपसमाधानादि** तन्त्रं सप्रधान-होमं परिषेचनान्तम् इह **सीमन्तवद्**  इति।

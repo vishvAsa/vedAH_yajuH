@@ -5,13 +5,7 @@ title = "०३ ०९ योऽस्यापचितस्तमितरय
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_09_yo-syApachitastamitarayA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## अनाकुला
-**योऽस्य** वरस्या**पचितः** पूज्यः तेन सहागत आचार्यस्तम् **इतरया** गृहेषु या गौरालभ्यते तया ।
-किमिवेत्यपोक्षायां **अतिथिवदर्हयेद्** इत्येव ।
-विवाहे वराय तत्सहायेभ्यश्चान्यस्मिन्नग्नौ पृथगन्नसंस्कारो भवति ।
-वपाहोमश्च तत्रैव ।
-अपचिताय तत्सहायेभ्यश्च गृहेषु पृथगन्नसंस्कारः ।
-गोश्च वपाश्रपणं होमश्चौपासन एवेत्यनुष्ठानप्रकारः ॥८॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/03_09_yo-syApachitastamitarayA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **योऽस्य** वरस्य पित्राचार्यत्वादिना सम्बन्धी, लोके **चापचितो** विद्याभिजनादिसम्पत्त्या ।

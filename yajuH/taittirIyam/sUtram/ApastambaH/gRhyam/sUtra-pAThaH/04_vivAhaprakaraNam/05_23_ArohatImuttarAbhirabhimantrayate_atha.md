@@ -5,14 +5,7 @@ title = "०५ २३ आरोहतीमुत्तराभिरभिम
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_23_ArohatImuttarAbhirabhimantrayate_atha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## अनाकुला
-अथ तं रथं युक्तमारोहति वधूः ।
-ताम् **आरोहतीम्** आरोहन्तीं उत्तराभिस्"सुकिंशुकम्" इत्येवमादिभिः अभिमन्त्रयते ।
-इह बहुवचननिर्देशात् त्रिप्रभृति अनियमप्रसङ्गे मन्त्रलिङ्गाच्चतसृभिरिति नियमः ।
-याने तूत्तंभनादि सर्वं भवति ।
-अश्वपुरुषादिषु च अभिमन्त्रणादयः दम्पतीधर्मा भवन्तीत्त्युक्तम् ।
-"सुचक्रम्" इति मन्त्रलिङ्गात् रथ एव मन्त्रा इत्येके ।
-वधूप्रतिपादनपरत्वात् मन्त्रस्य रथलिङ्गत्वमर्थवाद इत्यन्ये ॥२३॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_23_ArohatImuttarAbhirabhimantrayate_atha.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **रथमारोहतिम्** आरोहन्तीं वधूम् ।

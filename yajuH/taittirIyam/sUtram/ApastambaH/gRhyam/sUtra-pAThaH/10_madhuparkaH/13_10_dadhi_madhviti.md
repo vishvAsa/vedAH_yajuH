@@ -5,12 +5,7 @@ title = "१३ १० दधि मध्विति"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_10_dadhi_madhviti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**वर्षीयसा** बृहता **कांस्येन** पात्रेण मधुपर्कं प्राह ।
-कांस्येन वर्षीयसा पिधायेत्येवमपि सम्बन्धः ।
-तेनोभयोः पात्रयोः कांस्यनियमः सिद्धो भवति ।
-इतिशब्दः प्रकारे–दधि मध्विति वा पयो मध्विति वेति ॥१०॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/10_madhuparkaH/13_10_dadhi_madhviti.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 दधि मध्वित्येतद् द्वयं नियमविधानात् कस्मिंश्चित्पात्रे संसृज्य, ततो वर्षीयसा बृहता कांस्येन पात्रेण पिधाय ।

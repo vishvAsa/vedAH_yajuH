@@ -5,12 +5,7 @@ title = "२० ०८ अत्र रुद्रान्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_08_atra_rudrAn.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**अत्र** अस्मिन्काले **रुद्रान्** "नमस्ते रुद्र मन्यव" इत्यादीनेकादशानुवाकान् जपेत् ।
-एतैरेव देवमुपतिष्ठेतेत्यर्थः ।
-(तत्रोत्तमस्यानुवाकस्यादितो दशस्वृक्षु" तेषाँ सहस्रयोजन" इत्यनुषङ्गः ।
-अन्ततस्त्रयो मन्त्राः "नमोरुद्रेभ्यो ये पृथिव्यां येषामन्नमिषवः" "नमो रुद्रेभ्यो येऽन्तरिक्षे येषां वातः" "नमो रुद्रेभ्यो ये दिवि येषां वर्षमिषवस्तेभ्यः" इत्यादि सर्वत्रानुषङ्गः ॥८॥ )
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_08_atra_rudrAn.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **अत्रा**स्मिन्काले ।

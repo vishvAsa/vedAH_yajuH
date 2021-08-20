@@ -5,15 +5,7 @@ title = "११ १७ स्मृतञ् च"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_17_smRta~n_cha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-अथ दण्डमादाय तत्रैवासीनः कुमारः **स्मृतञ्च म इत्येतत्** व्रतसंकीर्तनमाह ।
-ततो **गुरवे वरं** ददाति ।
-तत **उदायुषेति** मन्त्रेणोत्तिष्ठेत् **उत्तरैर्मन्त्रैरादित्यमुपतिष्ठते** "तच्छक्षुर्" इत्यादिभिः "सूर्यं दृशे" इत्यवमन्तैः ।
-व्रतसंकीर्तनादि पदार्थचतुष्टयस्य कुमार एव कर्ता ।
-हेत्वभिधानं तूभयत्राविवक्षितं-वाचयित्वोत्थाप्येति च ।
-विवक्षिते तु तस्मिन् वरदाने उपस्थाने चाऽऽचार्य एव कर्ता स्यात् ।
-तस्मादर्थप्राप्तस्य हेतुव्यापारस्यानुवादः ॥१७॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/11_17_smRta~n_cha.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अथाचार्यः"स्मतं च मे" इत्येतन्मन्त्रजातं कुमारं वाचयति ।

@@ -5,14 +5,7 @@ title = "१५ ०५ उत्तरया मातुरुपस्थ"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/13_jAtakarma/15_05_uttarayA_mAturupastha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-अथ तं कुमारं "मा ते कुमारम्" इत्येतया **मातुरुपस्थ** आदधाति ।
-एतावन्तं कालं स्वोपस्थे ।
-तस्मात् शेषनिनयनमप्यन्येन कारयितव्यम् ।
-तत **उत्तरयर्चा** "अयं कुमार" इत्येतया **दक्षिणं स्तनं प्रतिधाप्य** तत **उत्तराभ्यां ऋग्भ्यां** "यद्भूमेर्हृदयम्" इत्येताभ्यां प्रतिमन्त्रं पृथिवीमभिमृशति ।
-ततः तं कुमारं अभिमृष्टायां भूमौ संवेशयति माता ।
-तं संविष्टम् **उत्तरेण यजुषा** "नामयति न रुदती"त्यनेनाभिमृशति ॥५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/13_jAtakarma/15_05_uttarayA_mAturupastha.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **उत्तरया** "मा ते कुमारम्" इत्येतया कुमारं **मातुरुपस्थ** आदधाति ।

@@ -5,13 +5,7 @@ title = "२० ०३ मध्ये जयन्तम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_03_madhye_jayantam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**उत्तरस्यां लौकिक्या वाचा मीढुषीं** देवीं आवाहयति ।
-**मध्ये जयन्तम्** आवाहयति ।
-लौकिक्या वाचा-आयाहि जयन्त, जयन्तमावाहयामीति वा ।
-जयन्तः स्कन्दः ।
-लौकिक्येत्यनुच्यमाने पूर्वेण मन्त्रेणावाहनं प्राप्नोति ॥२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_03_madhye_jayantam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 तथो**त्तरस्यां** कुट्यां **लौकिक्या वाचा** "आयाहि मीढुषि" इति **मीढुषीम्** ईशानस्य पत्नीं आवाहयतीत्येव ॥२॥

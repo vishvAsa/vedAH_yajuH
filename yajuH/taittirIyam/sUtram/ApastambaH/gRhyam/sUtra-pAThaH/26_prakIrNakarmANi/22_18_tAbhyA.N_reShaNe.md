@@ -5,11 +5,7 @@ title = "२२ १८ ताभ्याँ रेषणे"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_18_tAbhyA.N_reShaNe.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-ताभ्यां अश्वहस्तिभ्यां, **रेषणे** शरीरोपमर्दे जाते **पूर्ववत्** हेमन्तप्रत्यवरोहणवत् **पृथिवीमभिमृशेत्** ।
-"स्योना पृथिवि" "बडित्थे"त्येताभ्याम् ।
-पूर्ववदिति न जातकर्म गृह्यते, व्यवधानात् ॥१८॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/26_prakIrNakarmANi/22_18_tAbhyA.N_reShaNe.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **ताभ्यां** तयोरश्वहस्तिनोः ।

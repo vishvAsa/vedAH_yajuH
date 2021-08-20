@@ -5,11 +5,7 @@ title = "०५ ०६ उत्तराभिस्तिसृभिः"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_06_uttarAbhistisRbhiH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-## अनाकुला
-**उत्तराभिस्तिसृभिः** तुभ्यमग्रे पर्यवहन्नित्यादिभिः अग्निं प्रदक्षिणं करोति ।
-तां हस्ते गृहीत्वा तिसृणामन्ते परिक्रमणारम्भः
-"वचनादेकं कर्म बहुमन्त्रम्" इति ।
-उत्तराभिरिति बहुवचनेनैव त्रित्वपरिग्रहसिद्धे तिसृभिरिति वचनं तिसृभिरेकमेव परिक्रमणं यथा स्यात् प्रतिमन्त्रं क्रियाभ्यावृत्तिर्मा भूदिति ॥६॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_06_uttarAbhistisRbhiH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 उत्तराभिः"तुभ्यमग्रे पर्यवहन्" इत्यादिभिस्तिसृभिः ।

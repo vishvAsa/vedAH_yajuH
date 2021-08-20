@@ -5,14 +5,7 @@ title = "१३ १८ अन्नम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_18_annam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-अथान्नं सामिषं समाहृत्य तस्मे प्राह– भूतमिति ।
-सिद्धेऽन्ने भूतमिति प्राह (बौ.गृ. १-२-५५.) इति कल्पान्तरम् ।
-अस्माकं च वैश्वदेवे ।
-तस्मात् भूतमित्येव निवेदनम् ।
-तदन्नं प्रोक्तमुत्तरैः पञ्चभिर्मन्त्रैर्भूतमित्यादिभिः भोक्तोपांश्वभिमन्त्र्य ओंकल्पयतेत्युच्चैः प्रसौति ।
-प्रसूताः परिवेष्टारः परिवेविषन्ति चतुरो नानागोत्रान् ब्राह्मणान् भोजयतेति ब्रूयात्तेषु भुक्तवत्स्वन्नमस्मा उपाहरन्तीति (बौ. गृ. १-२.) कल्पान्तरम् ॥१९॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/10_madhuparkaH/13_18_annam.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अथ दाता सिद्धमन्नं "भूतं" इति मन्त्रेण पूज्याय प्रब्रूयान्निवेदयेत् ।

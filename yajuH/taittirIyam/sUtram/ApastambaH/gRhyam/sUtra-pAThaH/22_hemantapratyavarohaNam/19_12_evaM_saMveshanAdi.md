@@ -5,11 +5,7 @@ title = "१९ १२ एवं संवेशनादि"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_12_evaM_saMveshanAdi.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**एवं** संवेशनं संहायाभिमर्शनं च मन्त्रवत् त्रिरावर्तनीयमित्यर्थः ।
-प्रत्यवरोहणं तु सकृदेव ।
-"उदित आदित्ये सौर्याणि स्वस्त्ययनानि च जपित्वाऽन्नं संस्कृत्य ब्राह्मणान् भोजयित्वा स्वस्त्ययनं वाचयित्वा"(आश्व.गृ.४-६-१८.) इत्याश्वलायनः ॥१२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/22_hemantapratyavarohaNam/19_12_evaM_saMveshanAdi.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **एवमेतत्संवेशनादि** समन्त्रकमेव **त्रिर्** आवर्तनीयम् ।

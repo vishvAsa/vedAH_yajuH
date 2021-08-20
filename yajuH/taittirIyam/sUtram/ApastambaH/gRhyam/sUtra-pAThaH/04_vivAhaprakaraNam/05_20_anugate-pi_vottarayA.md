@@ -5,16 +5,7 @@ title = "०५ २० अनुगतेऽपि वोत्तरया"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_20_anugate-pi_vottarayA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-उत्तरयर्चा "अयाश्चाग्ने" इत्येतया जुहुयात् आहुतिमेकाम् ।
-इयमाहुतिस्तन्त्रवति न भवति ।
-परिस्तरणाज्यसंस्कारदर्वीसंमार्जनानि भवन्ति ।
-अपि वेति वचनादेव वैकल्पिकत्वे सिद्धे उपवासप्रतिषेध इयमाहुतिरुपवासस्यैव प्रत्याम्नाया यथा स्यादिति ।
-तेनेहापि सर्वप्रायश्चित्तहोमस्य समुच्चयो भवति ।
-तदिदं प्रायश्चित्तमप्यपहरणादिनाग्निनाशेऽपि द्रष्टव्यम् ।
-अस्यैवाग्नेर्बुद्धिपूर्वोत्सर्गे द्वादशाहादूर्ध्वं विच्छेदे च स्मृत्यन्तरे प्रायश्चित्तमुक्तम् ।
-तत्राप्यग्निसंकार एतावानेव ॥२०॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_20_anugate-pi_vottarayA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अपि वा अग्नाव् **अनुगते उत्तरया** "अयाश्चाग्ने" इत्येतयाऽऽज्यं जुहुयान्नोपवसेत् ।

@@ -5,13 +5,7 @@ title = "११ २० क्षारलवणवर्जनञ् च"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_20_xAralavaNavarjana~n_cha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुलावृत्तिः
-क्षार-लवणयोर् वर्जनं भवति भोजने त्र्यहम् ।
-अस्य ब्रह्मचारिणः सामयाचारिकः प्रतिषेधः सार्वकालिकः ।
-
-अयं तु त्र्यहसम्बन्धः । तयोर् विकल्पः ।
-मध्वादि-प्रतिषेधस् तु सामयाचारिको नित्यम् एव भवति ॥२०॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/07_upanayanaprakaraNam/11_20_xAralavaNavarjana~n_cha.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 त्र्यहं क्षारलवणयोर् वर्जनं च भवति ।

@@ -5,18 +5,10 @@ title = "१६ १५ एतावन्नाना सर्वान्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_15_etAvannAnA_sarvAn.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
 ## प्रस्तावः
 उभयोरपि गोदानयोश्चौलाद्विशेषमाह—
 
-## अनाकुला
-अस्मिन् चौलगोदाने तु **एतावन्नाना** पृथग्भावश्चौलात् ।
-अत्र **सर्वान् केशान् वापयते** सशिखान् ।
-चौले तु यथर्षि शिखा निदधाति ।
-अन्ये श्मश्र्वादीनां प्राप्त्यर्थं सर्वग्रहणं वर्णयन्ति ।
-तेषां केशशब्द उपलक्षणार्थः ।
-तथा चाश्वलायनः–केशश्मश्रुलोमनखान्युदक् संस्थानि संप्रेष्यति ।
-(आश्व.गृ.१-१८-६) इति ॥१५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/16_chaulam/16_15_etAvannAnA_sarvAn.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **एतावन्नाना** एतावान् भेदः ।

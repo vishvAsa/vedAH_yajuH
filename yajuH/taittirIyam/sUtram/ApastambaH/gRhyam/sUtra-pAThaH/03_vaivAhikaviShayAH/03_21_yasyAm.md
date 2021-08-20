@@ -5,14 +5,10 @@ title = "०३ २१ यस्याम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_21_yasyAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
 ## प्रस्तावः
 अथर्द्धिनिश्चये एकीयं मतमाह–
 
-## अनाकुला
-**यस्यां** कन्यायां वरस्य **मनसश्चक्षुषश्च** निबन्धः तृप्तिरुत्पद्यते **तस्यामृद्धिर्** ध्रुवा, **नेतरत्** न दत्तादिगुणदोषाद्यनुदर्शनमादरणीयमित्य् **एके** शिष्टा ब्रुवते ।
-अत्र पक्षे सर्वगुणसम्पन्नायामपि यस्यां मनश्चक्षुषी न निबध्येते सा वर्जनीया ।
-शास्त्रनिषिद्धास्तत्रापि पक्षे वर्ज्या एव, यथा सवर्णा सगोत्रेति ॥२१॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/03_vaivAhikaviShayAH/03_21_yasyAm.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **यस्यां** कन्यायां वरस्य **मनश्चक्षुषोर्निबन्धः** नितरां बन्धनं, यस्यामासक्त्यतिशयेन मनश्चक्षुषी निबद्धे अव तिष्ठत इत्यर्थः ।

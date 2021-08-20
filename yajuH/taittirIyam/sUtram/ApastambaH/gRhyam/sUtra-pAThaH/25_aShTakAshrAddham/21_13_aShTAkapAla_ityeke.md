@@ -5,15 +5,7 @@ title = "२१ १३ अष्टाकपाल इत्येके"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/21_13_aShTAkapAla_ityeke.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**सायम्**अपूपाष्टाकपालो हविः **इत्येके** मन्यन्ते ।
-अष्टसु कपालेषु संस्कृतोऽष्टाकपालः ।
-अस्मिन् पक्षे पुरोडाशस्यावृता श्रपणम् ।
-पूर्वस्य तु लौकिक्यापूपस्यावृता ।
-द्वयोरपि पक्षयोः औपासने श्रपणम् ।
-एतच्च पित्र्यस्याङ्गमपि कर्म स्वयं पित्र्यं न भवति, "तेन" प्राचीनावीतादि न भवति ॥१२॥
-इति श्रीहरदत्तमिश्रविरचितायां गृह्यसूत्रवृत्तावनाकुलायामेकविंशःखण्डः ॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/25_aShTakAshrAddham/21_13_aShTAkapAla_ityeke.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अष्टसु कपालेषु संस्कृतः पुरोडाशो**ऽष्टकपालः** ।

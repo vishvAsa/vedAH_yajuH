@@ -5,12 +5,7 @@ title = "०४ १६ सखेति सप्तमे"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_16_sakheti_saptame.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-उक्तं सप्तपदानि प्रतिमन्त्रं प्रक्रमयतीति ।
-तत्र सप्तमे पदे निहिते पादमुपसंगृह्यैव "सखासप्तपदे"त्यारभ्य जपति होममन्त्रेभ्यः प्राक् ये मन्त्राः तानित्यर्थः ।
-तत्र कल्पान्तरे दृश्यते "सप्तमं पदमुपसंगृह्येति ॥१७॥
-प्राग्घोमादित्युच्यते जपपरिमाणार्थम् ॥१॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/04_16_sakheti_saptame.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 स वरस् **सप्तमे पदे** निहिते "सखा सप्तदा" इत्यादि "सूनृते" इत्यन्तं जपति, चातुस्स्वर्येणैव ॥१६॥

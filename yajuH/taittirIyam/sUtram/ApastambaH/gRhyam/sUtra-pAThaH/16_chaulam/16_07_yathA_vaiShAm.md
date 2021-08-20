@@ -5,12 +5,7 @@ title = "१६ ०७ यथा वैषाम्"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_07_yathA_vaiShAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-अथवा **यथा** येन प्रकारेण **एषां** कुमारस्य कुलजानां **कुलधर्मः** प्रवर्तते तथा शिखां करोति ।
-एषाम् इति वचनं कर्तुः कुलधर्मो मा भूदिति ।
-तेनास्मिन् कर्मणि पितैव कर्तेति नियमो नास्ति ।
-अन्यत्र तु सति सम्भवे कुमारकर्मसु तस्यैव नियमः ॥७॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/16_chaulam/16_07_yathA_vaiShAm.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अथवा– **यथा** येन प्रकारेण **एषां** कुलजानां **कुलधर्मः** प्रवर्तते, तथा शिखा कर्तव्या ।

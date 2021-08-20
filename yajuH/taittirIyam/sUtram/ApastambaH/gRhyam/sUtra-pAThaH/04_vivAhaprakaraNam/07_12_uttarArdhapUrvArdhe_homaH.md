@@ -5,11 +5,7 @@ title = "०७ १२ उत्तरार्धपूर्वार्धे
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_12_uttarArdhapUrvArdhe_homaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-अत्रापि पौरोडाशिकस्य स्विष्टकृतो धर्मो विज्ञेयः ।
-तेना"संसक्तामितराभिर्" (आप. श्रौ. २-२१-६.) इति विशेष इहापि भवति ।
-होमग्रहणे आश्रिमाणे उत्तरार्धपूर्वार्ध इत्यस्य लेपयोः प्रस्तरवदित्त्युत्तरेणापि सम्बन्धस्सम्भाव्येत ॥१२॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/07_12_uttarArdhapUrvArdhe_homaH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 तस्य स्विष्टकृतो **होमो**ऽग्नेर् **उत्तरार्धपूर्वार्धे** ।

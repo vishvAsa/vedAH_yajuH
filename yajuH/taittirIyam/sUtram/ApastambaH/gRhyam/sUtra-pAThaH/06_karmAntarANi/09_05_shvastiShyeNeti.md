@@ -5,11 +5,7 @@ title = "०९ ०५ श्वस्तिष्येणेति"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_05_shvastiShyeNeti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-**श्वो** यत् करणीयं कर्म तत् **तिष्येण** नक्षत्रेण सम्पाद्यत इति कृत्वा पूर्वेद्युस्सिद्धिवाचनान्ते कर्मणि कृते पित्रादिना ऋत्विजा यजमानभूता वधूः यत्र प्रदेशे पाठा तिष्ठति तत्र गत्वा तां **पाठां त्रिस्सप्तैः** **एकविंशत्या यवैः परिकिरति** "वारुण्यसी"त्येताभ्याम् ।
-त्रिस्सप्तैरिति छान्दसो निर्देशः पाठा ओषधिविशेषः ।
-आथर्विणिकास्तु पाशेत्यधीयते ॥५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/06_karmAntarANi/09_05_shvastiShyeNeti.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 पाठोत्थापनादि भर्तृपरिग्रहणान्तं कर्म श्वोभूते परेद्युस्तिष्यो भवतीति कृत्वा पूर्वेद्युः **श्वस्तिष्यः** पुनर्वसू इत्यर्थः ।

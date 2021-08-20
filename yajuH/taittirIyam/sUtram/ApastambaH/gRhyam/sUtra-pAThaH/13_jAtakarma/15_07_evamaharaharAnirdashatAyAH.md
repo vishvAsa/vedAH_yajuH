@@ -5,14 +5,7 @@ title = "१५ ०७ एवमहरहरानिर्दशतायाः
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/13_jAtakarma/15_07_evamaharaharAnirdashatAyAH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-विजननप्रभृति यावत् दशाहानि न निर्गच्छन्ति तावदेव होमः कर्तव्यः संशानञ्चेत्यर्थः ।
-सकृच्चहोमाः, न सायम् ।
-यद्यपि संशासनमनन्तरं तथापि तावन्मात्रस्यायमतिदेशो न भवति ।
-तस्य होमशेषत्वात् ।
-नापि वात्सप्रादेः ।
-कृत्स्नस्य कल्पान्तरेषु सर्वेष्वप्रसिद्धत्वात् ॥७॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/13_jAtakarma/15_07_evamaharaharAnirdashatAyAH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 यथैतदनन्करोक्तं तूष्णीमापवनं **एवमहरहः आनिर्दशतायास्** सूतिकागृहपालैः कर्तव्यम् ।

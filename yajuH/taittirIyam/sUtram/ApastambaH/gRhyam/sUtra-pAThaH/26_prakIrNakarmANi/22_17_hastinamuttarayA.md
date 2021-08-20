@@ -5,15 +5,7 @@ title = "२२ १७ हस्तिनमुत्तरया "
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_17_hastinamuttarayA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-लब्ध्वाऽऽरोहेदिति वर्तते ।
-**उत्तरया** "हस्तियशसमसी"त्येतया ।
-तत्रासाविति हस्तिनो नामग्रहणम् ।
-अभिनिदधामि नागेन्द्रेति ।
-आरुह्य तूष्णीमङ्कुशाभिधानम् ।
-मन्त्रे चाभिनिदधामीति द्रष्टव्यः ।
-तेन मन्त्रे लिङ्गस्याविरोधः ॥१७॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/26_prakIrNakarmANi/22_17_hastinamuttarayA.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 पूर्ववद्व्याख्यानम् ।

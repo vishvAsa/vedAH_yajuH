@@ -5,17 +5,7 @@ title = "२२ ०३ श्वोभूते दर्भेण"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_03_shvobhUte_darbheNa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-दर्भेणेत्येकत्वमविवक्षितम् ।
-**गां** स्त्रियं, **जुष्टाम्** इतिलिङ्गात् ।
-पुरस्तात्प्रतीचीं तिष्ठन्तीं, श्रौते तथा दर्शनात् ।
-पित्र्यं चाष्टकाकर्म, **पितृभ्यस्त्वा जुष्टाम्** इतिदर्शनात् ।
-पित्र्येषु यत्नमन्तरेणापि तन्त्रं प्रवर्तते इति पुरस्तादुक्तम् ।
-तत आज्यभागान्ते तन्त्रे कृते उपाकरणादेः प्रवृत्तिः ।
-अत्र प्रमाणं वक्ष्यामः ।
-"अपरपक्षस्यापराह्णः श्रेयानि"त्येष च कालः ।
-सर्वत्र प्राचीनावीतम् ॥३॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/25_aShTakAshrAddham/22_03_shvobhUte_darbheNa.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 अथ **श्वोभूते** अष्टम्याम् ।

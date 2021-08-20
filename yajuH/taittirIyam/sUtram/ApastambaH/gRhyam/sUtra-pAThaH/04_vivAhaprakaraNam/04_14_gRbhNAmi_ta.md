@@ -5,17 +5,10 @@ title = "०४ १४ गृभ्णामि त"
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_14_gRbhNAmi_ta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
 ## प्रस्तावः
 पूर्वोक्तस्य नित्यस्य काम्ययोश्च मन्त्रानाह–
 
-## अनाकुला
-यः माणिग्रहणे कामं नेच्छति स पाणिमभीवाङ्गुष्ठमभीव लोमानि गृह्णीयादित्येव ।
-अभिशब्द उपरिभावे ।
-इव शब्दः ईषदर्थे ।
-यथा लोमानि हस्तजातानि इषदभिस्पृष्टानि भवन्ति ।
-**अङ्गुष्ठञ्च** तथा गृह्णीयादित्यर्थः ।
-"लोमान्ते हस्तं साङ्गुष्ठमुभयकाम" (आश्व. गृ.१-७-५) इत्याश्वलायनः ॥१५॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/04_14_gRbhNAmi_ta.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 गृह्णातीति सम्बन्धः ।

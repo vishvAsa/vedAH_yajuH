@@ -5,17 +5,7 @@ title = "०२ ०५ इध्ममाधायाघारावाघार
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_05_idhmamAdhAyAghArAvAghArayati.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-इध्म इति समुदायस्योपदेशात् पञ्चदशदारुमिध्मं सकृदेवादधाति ।
-"अभिघार्ये"ति कल्पान्तरं दर्शपूर्णमासवदित्त्युत्तरं परिधिसन्धिमन्ववहृत्य दक्षिणं परिधिसन्धिमन्ववहृत्येत्येवमादिना विधाने तूष्णीमिति मन्त्रोच्चारणप्रतिषेधः ।
-तेन "प्रजापतिं मनसा ध्याय"न्नित्येतदपि न भवति ।
-मनसा मन्त्रोच्चारणं तत्र विधीयत इति कृत्वा काम्यानामाघारकल्पानामिहाप्रवृत्तिः प्रकृतिविषयत्वात्तेषाम् ।
-केचित् स्रुवेण पूर्वमाघारमिच्छन्ति ।
-अन्ये पुनः उभावपि दर्व्यैव वेदोपभृतोरभावात् उपयमनमपि न भवति ।
-आसीन एव चेतरमप्याघारं जुहोति ।
-न चाभिप्राणिति ।
-अत्र प्रमाणमुपरिष्टाद्वक्ष्यामः ॥४॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_05_idhmamAdhAyAghArAvAghArayati.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 इध्ममग्नावादधाति ।

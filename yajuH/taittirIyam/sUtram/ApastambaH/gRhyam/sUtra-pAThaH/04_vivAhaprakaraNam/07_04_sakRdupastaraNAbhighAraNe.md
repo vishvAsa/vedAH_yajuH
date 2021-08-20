@@ -5,15 +5,7 @@ title = "०७ ०४ सकृदुपस्तरणाभिघारणे
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_04_sakRdupastaraNAbhighAraNe.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-अनेन पौरोडाशिकोऽवदानकल्प इह प्रदर्शितो विज्ञेयः ।
-"तस्मादङ्गुष्ठपर्वमात्रम्" ( आप. श्रौ. २-१८-९.) इत्याद्यपि भवति ।
-पञ्चावत्तञ्च पञ्चावत्तिनाम् ।
-प्रत्यभिघारणं च हविषः लाजावदानवत् ।
-उपस्तीर्य द्विरवदाय द्विरभिघारयतीति वक्तव्ये सकृद्वचनमुपस्तरणाभिघारणयोश्चतुरवत्तसंपादनार्थतां ज्ञापयितुम् ।
-तेन चतुरवत्ताभावे उपस्तरणाभिघारणयोरप्यभावः ।
-यथा "सकृदुपहत्य जुहुयात्" (आप.गृ. ७-७.) "दध्न एवाञ्जलिने" (आप. गृ. २२-१०.)त्यादौ ॥४॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/07_04_sakRdupastaraNAbhighAraNe.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 होमदर्व्यां स्रुवेण दर्व्यन्तरेण वा सकृदुपस्तरणं कार्यम् ।

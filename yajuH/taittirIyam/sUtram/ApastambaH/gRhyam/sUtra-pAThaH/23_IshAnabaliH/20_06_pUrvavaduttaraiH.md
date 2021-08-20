@@ -5,14 +5,7 @@ title = "२० ०६ पूर्ववदुत्तरैः "
 
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_06_pUrvavaduttaraiH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
 
-
-## अनाकुला
-पूर्ववद्**उत्तरैर्**मन्त्रैः "द्वारापोस्पृशे"त्यादिभिः चतुर्भिः पर्णानि देयानि **पूर्ववद्** एकैकेन द्वे द्वे इत्यर्थः ।
-अत्र **द्वारापो** देवः द्वारपालः ।
-**द्वारापी** देवी च द्वारापाला ।
-**अभ्यासारिणो**ऽपि देव्या अनुचराः ।
-**निषिङ्गिन्न्** इति जयन्तस्याभिधानम् ।
-तेभ्यो यथा स्वमोदनैस्तत्र तत्र दानम् ॥६॥
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/23_IshAnabaliH/20_06_pUrvavaduttaraiH.md"  newLevelForH1="4" title="हरदत्तः" > </div>
 
 ## गृह्यतात्पर्यदर्शनम्
 **पूर्वं** यथा "गृहपोपस्पृश" इत्यादिभिर्दक्षिणोत्तरकुट्योर्मध्ये च स्वेभ्य एवौदनेभ्यो द्वे द्वे पर्णे प्रतिमन्त्रं दत्ते, एवं **उत्तरैः** "द्वारापोपस्पृश" इत्यादिभिश्चतुर्भिर्दद्यात् ॥
