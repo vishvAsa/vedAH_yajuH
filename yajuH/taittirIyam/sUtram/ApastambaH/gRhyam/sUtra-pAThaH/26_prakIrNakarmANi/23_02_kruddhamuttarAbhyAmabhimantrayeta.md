@@ -2,8 +2,9 @@
 title = "२३ ०२ क्रुद्धमुत्तराभ्यामभिमन्त्रयेत"
 
 +++
-## सूत्रम्
-क्रुद्धमुत्तराभ्यामभिमन्त्रयेत विक्रोधो भवति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_02_kruddhamuttarAbhyAmabhimantrayeta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **उत्तराभ्यां** "या त एषा रराट्या" इत्येताभ्याम् ।

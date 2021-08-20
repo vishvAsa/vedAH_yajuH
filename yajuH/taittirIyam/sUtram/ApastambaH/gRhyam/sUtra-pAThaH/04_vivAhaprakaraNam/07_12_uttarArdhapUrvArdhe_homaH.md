@@ -2,8 +2,9 @@
 title = "०७ १२ उत्तरार्धपूर्वार्धे होमः"
 
 +++
-## सूत्रम्
-उत्तरार्धपूर्वार्धे होमः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_12_uttarArdhapUrvArdhe_homaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अत्रापि पौरोडाशिकस्य स्विष्टकृतो धर्मो विज्ञेयः ।

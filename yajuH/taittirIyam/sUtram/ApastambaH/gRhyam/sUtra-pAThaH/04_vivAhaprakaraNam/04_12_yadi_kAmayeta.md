@@ -2,8 +2,9 @@
 title = "०४ १२ यदि कामयेत"
 
 +++
-## सूत्रम्
-यदि कामयेत स्त्रीरेव जनयेयमित्यङ्गुलीरेव गृह्णीयात् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_12_yadi_kAmayeta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अथ काम्यं विधिद्वयमाह—

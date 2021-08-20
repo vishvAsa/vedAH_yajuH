@@ -2,8 +2,9 @@
 title = "१३ ०२ यत्रास्मा अपचितिम्"
 
 +++
-## सूत्रम्
-यत्रास्मा अपचितिं कुर्वन्ति तत्कूर्च उपविशति यथापुरस्तात्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_02_yatrAsmA_apachitim.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 उक्तयोरन्यतरेण स्नातको भवति ।

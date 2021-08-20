@@ -2,8 +2,9 @@
 title = "१६ ०७ यथा वैषाम्"
 
 +++
-## सूत्रम्
-यथा वैषां कुलधर्मः स्यात्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_07_yathA_vaiShAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथवा **यथा** येन प्रकारेण **एषां** कुमारस्य कुलजानां **कुलधर्मः** प्रवर्तते तथा शिखां करोति ।

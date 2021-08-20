@@ -2,8 +2,9 @@
 title = "२१ ०१ मासिश्राद्धस्यापरपक्षे"
 
 +++
-## सूत्रम्
-मासिश्राद्धस्यापरपक्षे यथोपदेशं कालाः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/24_mAsishrAddhaprakaraNam/21_01_mAsishrAddhasyAparapaxe.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 पुनरपि पाकयज्ञान्तरं पुरुषत्रयसम्प्रदानकं तादृशानामष्टकादीनां प्रकृतिभूतं मासिश्राद्धसंज्ञिकं पित्र्यं कर्मोपदिश्यते—

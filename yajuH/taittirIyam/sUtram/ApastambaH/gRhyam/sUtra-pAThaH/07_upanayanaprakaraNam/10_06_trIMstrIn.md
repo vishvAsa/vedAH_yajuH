@@ -2,8 +2,9 @@
 title = "१० ०६ त्रींस्त्रीन्"
 
 +++
-## सूत्रम्
-त्रींस्त्रीन् दर्भानन्तर्धायोत्तराभिश् चतसृभिः प्रतिमन्त्रं प्रतिदिशं प्रवपति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_06_trIMstrIn.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 **प्रवपति** प्रथमं वपति वपनं प्रारभत इत्यर्थः ।

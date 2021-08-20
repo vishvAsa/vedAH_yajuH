@@ -2,8 +2,9 @@
 title = "१० ०९ स्नातम् अग्नेर्"
 
 +++
-## सूत्रम्
-स्नातम् अग्नेर् उपसमाधानाद्य्-आज्यभागान्ते पालाशीं समिधम् उत्तरया ऽऽधाप्योत्तरेणाग्निं दक्षिणेन पदाऽश्मानम् आस्थापयत्य् आतिष्ठेति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_09_snAtam_agner.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 "स्नातं कुमारं शुचिवाससं बद्धशिखं यज्ञोपवीतम् आसञ्जति– (१)यज्ञोपवीतं परमं पवित्रमिति ।

@@ -2,8 +2,9 @@
 title = "०८ ०९ तयोश्शय्यामन्तरेण दण्डो"
 
 +++
-## सूत्रम्
-तयोश्शय्यामन्तरेण दण्डो गन्धलिप्तो वाससा सूत्रेण वा परिवीतस्तिष्ठति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_09_tayoshshayyAmantareNa_daNDo.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **तयोः** दम्पत्योः **शय्यामन्तरेण** शयनस्य मध्ये **दण्डः** क्षीरिवृक्षोद्भवः **गन्धेन** सुरभिणा **लिप्तः** पुष्पैश्चालङ्कृतः **वाससा सूत्रेण वा परिवीतः तिष्ठति** स्थापयितव्यः ।

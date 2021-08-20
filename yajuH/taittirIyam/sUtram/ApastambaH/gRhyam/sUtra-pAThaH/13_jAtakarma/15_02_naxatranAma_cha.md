@@ -2,8 +2,9 @@
 title = "१५ ०२ नक्षत्रनाम च"
 
 +++
-## सूत्रम्
-नक्षत्रनाम च निर्दिशति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/13_jAtakarma/15_02_naxatranAma_cha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अभिजिघ्राम्यसौ इत्यत्रासौशब्दस्य स्थाने नक्षत्रनामनिर्देशः ।

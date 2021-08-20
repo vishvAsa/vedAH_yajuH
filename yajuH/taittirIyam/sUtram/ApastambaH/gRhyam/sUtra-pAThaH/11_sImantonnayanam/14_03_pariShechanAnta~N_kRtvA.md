@@ -2,8 +2,9 @@
 title = "१४ ०३ परिषेचनान्तङ् कृत्वा"
 
 +++
-## सूत्रम्
-परिषेचनान्तं कृत्वा ऽपरेणाग्निं प्राचीम् उपवेश्य त्रेण्या शलल्या त्रिभिर् दर्भ-पुञ्जीलैश् शलालु-ग्लप्सेनेत्य् ऊर्ध्वं सीमन्तम् उन्नयति व्याहृतीभिर् उत्तराभ्यां च ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_03_pariShechanAnta~N_kRtvA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **प्राचीं** प्राङ्-मुखीं स्वयं प्रत्यङ्-मुखः ।

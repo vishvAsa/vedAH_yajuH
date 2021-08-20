@@ -2,8 +2,9 @@
 title = "०३ २१ यस्याम्"
 
 +++
-## सूत्रम्
-यस्यां मनश्चक्षुषोर्निबन्धस्तस्यामृद्धिर्नेतरदाद्रियेतेत्येके ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_21_yasyAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अथर्द्धिनिश्चये एकीयं मतमाह–

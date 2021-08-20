@@ -2,8 +2,9 @@
 title = "१० ०१ उपनयनं व्याख्यास्यामः"
 
 +++
-## सूत्रम्
-उपनयनं व्याख्यास्यामः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_01_upanayanaM_vyAkhyAsyAmaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 येन आचार्यकुलमुपनीयते कुमारः **तदुपनयनं** नाम कर्म श्रौतः पुरुषसंस्कारः ।

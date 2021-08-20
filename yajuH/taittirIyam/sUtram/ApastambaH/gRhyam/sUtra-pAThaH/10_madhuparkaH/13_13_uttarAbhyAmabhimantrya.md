@@ -2,8 +2,9 @@
 title = "१३ १३ उत्तराभ्यामभिमन्त्र्य"
 
 +++
-## सूत्रम्
-उत्तराभ्यामभिमन्त्र्य यजुर्भ्यामप आचामति पुरस्तादुपरिष्टाच्चोत्तरया त्रिः प्राश्यानुकम्प्याय प्रयच्छेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_13_uttarAbhyAmabhimantrya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ तं मधुपर्कम् **उत्तराभ्याम्** ऋग्भ्यां "त्रय्यै विद्यायै, "आमागन्न्" इत्येताभ्यामभिमन्त्र्य पूज्यमानः प्रतिगृह्णाति ।

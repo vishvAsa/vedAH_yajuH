@@ -2,8 +2,9 @@
 title = "०५ २३ आरोहतीमुत्तराभिरभिमन्त्रयते अथ"
 
 +++
-## सूत्रम्
-आरोहतीमुत्तराभिरभिमन्त्रयते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_23_ArohatImuttarAbhirabhimantrayate_atha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 अथ तं रथं युक्तमारोहति वधूः ।
 ताम् **आरोहतीम्** आरोहन्तीं उत्तराभिस्"सुकिंशुकम्" इत्येवमादिभिः अभिमन्त्रयते ।

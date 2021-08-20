@@ -2,8 +2,9 @@
 title = "०७ ०९ मध्यात् पूर्वस्यावदानम्"
 
 +++
-## सूत्रम्
-मध्यात् पूर्वस्यावदानम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_09_madhyAt_pUrvasyAvadAnam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **पूर्वस्य** प्रधानहोमस्येत्यर्थः ।

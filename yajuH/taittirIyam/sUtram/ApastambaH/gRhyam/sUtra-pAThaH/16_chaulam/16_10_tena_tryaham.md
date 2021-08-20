@@ -2,8 +2,9 @@
 title = "१६ १० तेन त्र्यहम्"
 
 +++
-## सूत्रम्
-तेन त्र्यहं कर्मनिवृत्तिः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_10_tena_tryaham.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 तेन क्षुरेण त्रिष्वहोरात्रेषु नापितकर्म न कर्तव्यम् ॥१०॥

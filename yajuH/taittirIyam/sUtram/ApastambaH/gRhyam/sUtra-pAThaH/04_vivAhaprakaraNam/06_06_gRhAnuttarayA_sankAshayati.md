@@ -2,8 +2,9 @@
 title = "०६ ०६ गृहानुत्तरया सङ्काशयति"
 
 +++
-## सूत्रम्
-गृहानुत्तरया सङ्काशयति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_06_gRhAnuttarayA_sankAshayati.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ स्वं गृहं प्राप्य रथादवरोप्य यद्धनं तस्या वहतुत्वेनागतं तच्च गृहान् प्रपाद्य ततस्तया तान् **सङ्काशयति** सम्यगीक्षयति

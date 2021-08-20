@@ -2,8 +2,9 @@
 title = "१७ १२ अग्नेरुपसमाधानाद्याज्यभागान्ते"
 
 +++
-## सूत्रम्
-अग्नेरुपसमाधानाद्याज्यभागान्ते उत्तरा आहुतीर्हुत्वा जयादि प्रतिपद्यते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_12_agnerupasamAdhAnAdyAjyabhAgAnte.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 चतस्रः **उत्तराः** प्रधानाहुतयः"वास्तोष्पते प्रतिजानीहि, वास्तोष्पते शग्मया, वास्तोष्पते प्रतरणो न एधि, अमीवहा वास्तोष्पत"इति ।

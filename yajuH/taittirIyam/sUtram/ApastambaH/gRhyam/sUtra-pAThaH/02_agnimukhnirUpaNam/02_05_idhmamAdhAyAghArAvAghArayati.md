@@ -2,8 +2,9 @@
 title = "०२ ०५ इध्ममाधायाघारावाघारयति"
 
 +++
-## सूत्रम्
-इध्ममाधायाघारावाघारयति दर्शपूर्णमासवत्तूष्णीम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_05_idhmamAdhAyAghArAvAghArayati.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 इध्म इति समुदायस्योपदेशात् पञ्चदशदारुमिध्मं सकृदेवादधाति ।

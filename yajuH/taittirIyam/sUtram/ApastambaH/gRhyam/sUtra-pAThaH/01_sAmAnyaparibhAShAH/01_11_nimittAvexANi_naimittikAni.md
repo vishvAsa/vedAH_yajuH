@@ -2,8 +2,9 @@
 title = "०१ ११ निमित्तावेक्षाणि नैमित्तिकानि"
 
 +++
-## सूत्रम्
-निमित्तावेक्षाणि नैमित्तिकानि।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_11_nimittAvexANi_naimittikAni.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 प्राचीनावीतिना प्रसव्यं दक्षिणतोऽपवर्ग इति पूर्वसूत्रेण सम्बन्धः ।

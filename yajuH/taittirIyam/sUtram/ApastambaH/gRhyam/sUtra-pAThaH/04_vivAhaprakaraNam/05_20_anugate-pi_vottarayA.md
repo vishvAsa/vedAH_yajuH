@@ -2,8 +2,9 @@
 title = "०५ २० अनुगतेऽपि वोत्तरया"
 
 +++
-## सूत्रम्
-अनुगतेऽपि वोत्तरया जुहुयान्नोपवसेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_20_anugate-pi_vottarayA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 उत्तरयर्चा "अयाश्चाग्ने" इत्येतया जुहुयात् आहुतिमेकाम् ।

@@ -2,8 +2,9 @@
 title = "२२ १९ संवादमेष्यन् सव्येन"
 
 +++
-## सूत्रम्
-संवादमेष्यन् सव्येन पाणिना छत्रं दण्डं चादत्ते ॥
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_19_saMvAdameShyan_savyena.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 यत्र स्थानेऽर्थादिनिमित्ते प्रत्यर्थिभिः सम्वदते स **सम्वादः ।

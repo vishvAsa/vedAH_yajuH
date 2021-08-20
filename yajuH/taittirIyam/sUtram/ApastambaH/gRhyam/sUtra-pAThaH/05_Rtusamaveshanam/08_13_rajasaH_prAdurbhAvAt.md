@@ -2,8 +2,9 @@
 title = "०८ १३ रजसः प्रादुर्भावात्"
 
 +++
-## सूत्रम्
-रजसः प्रादुर्भावात् स्नातामृतुसमावेशने उत्तराभिरभिमन्त्रयते ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **रजसः** लोहितस्य ।

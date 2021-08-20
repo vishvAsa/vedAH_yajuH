@@ -3,8 +3,9 @@ title = "२२ १० अथैतदपरन् दध्न"
 
 +++
 
-## सूत्रम्
-अथैतदपरं दध्न एवाञ्जलिना जुहोति ययाऽपूपम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_10_athaitadaparan_dadhna.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 एवं मुख्यकल्पमुपदिश्य, अथानुकल्पमुपदिशन्ति—

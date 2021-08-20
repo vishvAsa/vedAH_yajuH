@@ -2,8 +2,9 @@
 title = "०१ ०६ तथाऽपवर्गः तेषामपवर्गोऽपि"
 
 +++
-## सूत्रम्
-तथाऽपवर्गः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_06_tathA-pavargaH_teShAmapavargo-pi.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 तेषामपवर्गोऽपि तथा प्रत्येतव्यः ।

@@ -2,8 +2,9 @@
 title = "०८ ०२ सदसस्पतिर्द्वितीयः"
 
 +++
-## सूत्रम्
-सदसस्पतिर्द्वितीयः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_02_sadasaspatirdvitIyaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 द्विविधमुपाकरणम् – काण्डोपकरणमध्यायोपाकरणञ्चेति ।

@@ -2,8 +2,9 @@
 title = "०३ ०३ याङ् कामयेत"
 
 +++
-## सूत्रम्
-यां कामयेत दुहितरं प्रिया स्यादिति तां निष्ट्यायां दद्यात् प्रियैव भवति नेव तु पुनरागच्छतीति ब्राह्मणावेक्षो विधिः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_03_yA~N_kAmayeta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **यां** दुहितरं पिता प्रियां **कामयेत** भर्तुरियं **प्रियास्यादिति तां निष्ठायां** नक्षत्रे दद्यात् ।

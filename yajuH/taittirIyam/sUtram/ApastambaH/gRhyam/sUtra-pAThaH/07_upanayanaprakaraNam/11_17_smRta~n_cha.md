@@ -2,8 +2,9 @@
 title = "११ १७ स्मृतञ् च"
 
 +++
-## सूत्रम्
-स्मृतं च म इत्येतद्वाचयित्वा गुरवे वरं दत्त्वोदायुषेत्युत्थाप्योत्तरैरादित्यमुपतिष्ठते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_17_smRta~n_cha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 अथ दण्डमादाय तत्रैवासीनः कुमारः **स्मृतञ्च म इत्येतत्** व्रतसंकीर्तनमाह ।

@@ -2,8 +2,9 @@
 title = "१९ १२ एवं संवेशनादि"
 
 +++
-## सूत्रम्
-एवं संवेशनादि त्रिः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_12_evaM_saMveshanAdi.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **एवं** संवेशनं संहायाभिमर्शनं च मन्त्रवत् त्रिरावर्तनीयमित्यर्थः ।

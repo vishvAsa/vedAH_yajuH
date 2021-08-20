@@ -2,8 +2,9 @@
 title = "१५ ०१ जातं वात्सप्रेणाभिमृश्योत्तरेण"
 
 +++
-## सूत्रम्
-जातं वात्सप्रेणाभिमृश्योत्तरेण यजुषोपस्थ आधायोत्तराभ्यामभिमन्त्रणं मूर्धन्यवघ्राणं दक्षिणे कर्णे जापः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/13_jAtakarma/15_01_jAtaM_vAtsapreNAbhimRshyottareNa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 जातमिति पुल्लिङ्गस्य विवक्षितत्वात् पुंस एवायं जातकर्माख्यः संस्कारः ।

@@ -2,8 +2,9 @@
 title = "०४ ०२ तानादितो द्वाभ्यामभिमन्त्रयेत"
 
 +++
-## सूत्रम्
-तानादितो द्वाभ्यामभिमन्त्रयेत ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_02_tAnAdito_dvAbhyAmabhimantrayeta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 गच्छतस्तान् वराननन्तरमाम्नातस्य मन्त्रसमाम्नायस्यादितो द्वाभ्यां ऋग्भ्यां प्रसुग्मन्तेत्येताभ्यां अभिमन्त्रयेत ।

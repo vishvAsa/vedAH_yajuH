@@ -2,8 +2,9 @@
 title = "०५ २६ तीर्थस्थाणुचतुष्पथव्यतिक्रमे"
 
 +++
-## सूत्रम्
-तीर्थस्थाणुचतुष्पथव्यतिक्रमे चोत्तरां जपेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_26_tIrthasthANuchatuShpathavyatikrame.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अतीत्य गमनमतिक्रमः अतिक्रम एव व्यतिक्रमः, विशब्दोऽनर्थकः, यथोपाय एवाभ्युपाय इति ।

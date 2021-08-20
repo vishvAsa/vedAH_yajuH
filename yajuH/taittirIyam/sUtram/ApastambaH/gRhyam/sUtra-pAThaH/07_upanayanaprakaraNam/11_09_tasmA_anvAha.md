@@ -2,8 +2,9 @@
 title = "११ ०९ तस्मा अन्वाह"
 
 +++
-## सूत्रम्
-तस्मा अन्वाह तत्सवितुरिति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_09_tasmA_anvAha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 +++(सम्पादकटिप्पनी - "सूत्रमेतद् अग्रिमे सूत्रे व्याख्यातम्" )+++

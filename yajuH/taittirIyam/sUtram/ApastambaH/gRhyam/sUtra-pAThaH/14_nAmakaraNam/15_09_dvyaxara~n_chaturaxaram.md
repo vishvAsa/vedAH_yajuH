@@ -2,8 +2,9 @@
 title = "१५ ०९ द्व्यक्षरञ् चतुरक्षरम्"
 
 +++
-## सूत्रम्
-द्व्यक्षरं चतुरक्षरं वा नामपूर्वमाख्यातोत्तरं दीर्घाभिनिष्ठानान्तं घोषवदाद्यन्तरन्तस्थम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_09_dvyaxara~n_chaturaxaram.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ नाम्नो लक्षणविशेषः ।

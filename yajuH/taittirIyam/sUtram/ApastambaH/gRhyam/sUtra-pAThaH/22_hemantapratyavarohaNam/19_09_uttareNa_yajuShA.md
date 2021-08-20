@@ -2,8 +2,9 @@
 title = "१९ ०९ उत्तरेण यजुषा"
 
 +++
-## सूत्रम्
-उत्तरेण यजुषा प्रत्यवरुह्योत्तरैर्दक्षिणैः पार्श्वैर्नवस्वस्तरे संविशन्ति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_09_uttareNa_yajuShA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 हेमन्तप्रत्यवरोहणं नाम कर्म नित्यं संवत्सरे संवत्सरे कर्तव्यम्, तदुपदिश्यते—हेमन्ते प्राप्ते खट्वां विहाय पलालस्वस्तरे शेते ।

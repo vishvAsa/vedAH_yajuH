@@ -2,8 +2,9 @@
 title = "१५ ०८ दशम्यामुत्थितायां स्नातायाम्"
 
 +++
-## सूत्रम्
-दशम्यामुत्थितायां स्नातायां पुत्रस्य नाम दधाति पिता मातेति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_08_dashamyAmutthitAyAM_snAtAyAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 एवं जातकर्मोक्त्वा क्रमप्राप्तं नामकरणमाह—

@@ -3,8 +3,9 @@ title = "२० ०५ उत्तरेण"
 
 +++
 
-## सूत्रम्
-उत्तरेण यजुषोपस्थायोत्तरैस्सहौदनानि पर्णान्येकैकेन द्वे द्वे दत्वा दश देवसेनाभ्यो दशोत्तराभ्यः ॥
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_05_uttareNa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 **उत्तरेण यजुषा** "स्वस्तिनः पूर्णमुख" इत्यनेन उपस्थानं च महादेवस्य, तत्प्रधानत्वात् कर्मणः ।

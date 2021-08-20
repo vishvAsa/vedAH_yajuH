@@ -2,8 +2,9 @@
 title = "१६ १४ संवत्सरङ् गोदानव्रत(२)मेक"
 
 +++
-## सूत्रम्
-संवत्सरं गोदानव्रत(२)मेक उपदिशन्ति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_14_saMvatsara~N_godAnavrata2meka.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 कृतगोदानस्यापि तच्छेषतया **संवत्सरं** व्रतचरण**मेक** आचार्या **उपदिशन्ति** ।

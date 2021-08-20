@@ -2,8 +2,9 @@
 title = "११ ०७ परिषेचनान्तङ्"
 
 +++
-## सूत्रम्
-परिषेचनान्तं कृत्वापरेणाग्निमुदगग्रं कूर्चं निधाय तस्मिन्नुत्तरेण यजुषोपनेतोपविशति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_07_pariShechanAnta~N.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 **उत्तरेण यजुषा** राष्ट्रभृदसीत्येतेन ।

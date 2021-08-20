@@ -3,8 +3,9 @@ title = "१९ १० दक्षिणतः पितोत्तरा"
 
 +++
 
-## सूत्रम्
-दक्षिणतः पितोत्तरा मातैवमवशिष्टानां ज्येष्ठो ज्येष्ठोऽनन्तरः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_10_daxiNataH_pitottarA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 
 ## प्रस्तावः

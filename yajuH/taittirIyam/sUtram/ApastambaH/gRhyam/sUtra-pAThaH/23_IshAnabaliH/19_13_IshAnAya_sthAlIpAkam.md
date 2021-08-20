@@ -2,8 +2,9 @@
 title = "१९ १३ ईशानाय स्थालीपाकम्"
 
 +++
-## सूत्रम्
-ईशानाय स्थालीपाकं श्रपयित्वा क्षैत्रपत्यं च प्राचीमुदीचीं वा दिशमुपनिष्क्रम्य स्थण्डिलं कल्पयित्वाऽग्नेरुपसमाधानादि ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/19_13_IshAnAya_sthAlIpAkam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ ईशानबलिर्नाम पाकयज्ञो वक्ष्यते शूलगव इति यस्य प्रसिद्धिः । गवालम्भनं च तत्र शास्त्रान्तरे चोदितमस्माकं तु स्थालीपाक एव ।

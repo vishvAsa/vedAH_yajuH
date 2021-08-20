@@ -2,8 +2,9 @@
 title = "०१ ०३ यज्ञोपवीतिना कार्याणि"
 
 +++
-## सूत्रम्  
-यज्ञोपवीतिना।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_03_yajnopavItinA_kAryANi.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 
 ## अनाकुला  

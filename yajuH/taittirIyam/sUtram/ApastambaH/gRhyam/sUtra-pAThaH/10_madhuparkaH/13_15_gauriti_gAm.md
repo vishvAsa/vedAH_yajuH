@@ -2,8 +2,9 @@
 title = "१३ १५ गौरिति गाम्"
 
 +++
-## सूत्रम्
-गौरिति गां प्राह ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_15_gauriti_gAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथाचाम्योपविष्टाय **गां** निवेदयते गौरिति ।

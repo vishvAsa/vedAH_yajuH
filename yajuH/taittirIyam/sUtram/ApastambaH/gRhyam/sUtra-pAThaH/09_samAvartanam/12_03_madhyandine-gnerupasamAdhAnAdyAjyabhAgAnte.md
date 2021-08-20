@@ -2,8 +2,9 @@
 title = "१२ ०३ मध्यन्दिनेऽग्नेरुपसमाधानाद्याज्यभागान्ते"
 
 +++
-## सूत्रम्
-मध्यन्दिनेऽग्नेरुपसमाधानाद्याज्यभागान्ते पालाशीं समिधमुत्तरयाऽऽधायापरेणाग्निं कट एरकायां वोपविश्योत्तरया क्षुरमभिमन्त्र्योत्तरेण यजुषा वप्त्रे प्रदायापाँ सँसर्जनाद्या केशनिधानात् समानम् ॥
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_03_madhyandine-gnerupasamAdhAnAdyAjyabhAgAnte.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 अथ तस्मिन्नहनि मध्यन्दिने कर्म प्रतिपद्यते ।

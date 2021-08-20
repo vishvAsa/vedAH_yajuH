@@ -2,8 +2,9 @@
 title = "१० ११ मौञ्जीम् मेखलाम्"
 
 +++
-## सूत्रम्
-मौञ्जीं मेखलां त्रिवृतां त्रिः प्रदक्षिणमुत्तराभ्यां परिवीयाजिनमुत्तरमुत्तरया।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_11_maunjIm_mekhalAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 

@@ -2,8 +2,9 @@
 title = "१९ ०५ अत्रैनमुत्सृजति "
 
 +++
-## सूत्रम्
-अत्रैनमुत्सृजति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/19_05_atrainamutsRjati.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अत्र मार्गशीर्षसंज्ञके कर्मण्येनं बलिमुत्सृजति ।

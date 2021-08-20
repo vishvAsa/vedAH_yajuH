@@ -2,8 +2,9 @@
 title = "०१ १६ उत्तरेणाग्निन्"
 
 +++
-## सूत्रम्
-उत्तरेणाग्निं दर्भान्त्संस्तीर्य द्वन्द्वं न्यञ्चि पात्राणि प्रयुनक्ति देवसंयुक्तानि।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_16_uttareNAgnin.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 परिस्तरणानन्तरं अग्नेरुत्तरतः पात्रप्रयोगार्थं दर्भान् प्रागग्रान् संस्तृणाति ।
 प्रथितं स्तरणम् ।

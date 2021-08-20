@@ -2,8 +2,9 @@
 title = "१५ १२ प्रवासादेत्य"
 
 +++
-## सूत्रम्
-प्रवासादेत्य पुत्रस्योत्तराभ्यामभिमन्त्रणं मूर्धन्यवघ्राणं दक्षिणे कर्ण उत्तरान् मन्त्रान् जपेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_12_pravAsAdetya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **प्रवासाद्** आगत्य तु **उत्तराभ्यामभिमन्त्रणमवघ्राणं च** क्रमेण कर्तव्यम् ।

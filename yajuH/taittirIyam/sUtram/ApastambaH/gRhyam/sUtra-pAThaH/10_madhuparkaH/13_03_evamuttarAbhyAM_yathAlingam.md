@@ -2,8 +2,9 @@
 title = "१३ ०३ एवमुत्तराभ्यां यथालिङ्गम्"
 
 +++
-## सूत्रम्
-एवमुत्तराभ्यां यथालिङ्गं राजा स्थपतिश्च ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_03_evamuttarAbhyAM_yathAlingam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **एवं राजा स्थपतिश्** च यथा ब्राह्मणः स्नातकः कूर्चे उपविशति ।

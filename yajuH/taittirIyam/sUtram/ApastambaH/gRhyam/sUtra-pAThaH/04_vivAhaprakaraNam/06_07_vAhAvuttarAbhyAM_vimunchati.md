@@ -2,8 +2,9 @@
 title = "०६ ०७ वाहावुत्तराभ्यां विमुञ्चति"
 
 +++
-## सूत्रम्
-वाहावुत्तराभ्यां विमुञ्चति दक्षिणमग्रे।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_07_vAhAvuttarAbhyAM_vimunchati.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 उत्तराभ्यां आवामगन् "अयं नो देवस्सविता" इत्येताभ्याम् ।
 योगवदेकैकेन मन्त्रेण विमोकः ॥९॥

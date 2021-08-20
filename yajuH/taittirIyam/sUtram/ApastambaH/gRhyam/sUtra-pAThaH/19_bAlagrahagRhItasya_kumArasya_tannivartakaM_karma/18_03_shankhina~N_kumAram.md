@@ -2,8 +2,9 @@
 title = "१८ ०३ शङ्खिनङ् कुमारम्"
 
 +++
-## सूत्रम्
-शङ्खिनं कुमारं तपोयुक्त उत्तराभ्यामभिमन्त्र्योत्तरयोदकुम्भेन शिरस्तोऽवनयेत्प्रातर्मध्यन्दिने सायम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_03_shankhina~N_kumAram.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 शङ्खो नाम ग्रहः कुमाराणां भयङ्करः, येन गृहीतः शङ्खवन्नदतीति ।

@@ -2,8 +2,9 @@
 title = "१३ १२ पाङ्क्तमेके धानास्सक्तूंश्च"
 
 +++
-## सूत्रम्
-पाङ्क्तमेके धानास्सक्तूंश्च।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_12_pAnktameke_dhAnAssaktUMshcha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 पञ्चानां द्रव्याणां समुदायः **पाङ्क्तम् ।**

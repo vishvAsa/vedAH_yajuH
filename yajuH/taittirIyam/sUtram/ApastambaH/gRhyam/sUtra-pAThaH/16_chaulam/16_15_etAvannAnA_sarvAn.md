@@ -2,8 +2,9 @@
 title = "१६ १५ एतावन्नाना सर्वान्"
 
 +++
-## सूत्रम्
-एतावन्नाना सर्वान् केशान् वापयते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_15_etAvannAnA_sarvAn.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 उभयोरपि गोदानयोश्चौलाद्विशेषमाह—

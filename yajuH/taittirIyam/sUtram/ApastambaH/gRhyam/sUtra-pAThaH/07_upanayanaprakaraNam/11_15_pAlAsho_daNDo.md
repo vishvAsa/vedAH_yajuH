@@ -2,8 +2,9 @@
 title = "११ १५ पालाशो दण्डो"
 
 +++
-## सूत्रम्
-पालाशो दण्डो ब्राह्मणस्य नैय्यग्रोधस्स्कन्धजोऽवाङ्ग्रो राजन्यस्य बादर औदुम्बरो वा वैश्यस्य।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_15_pAlAsho_daNDo.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 राजन्यवैश्ययोः विशेषविधानादेव सिद्धे ब्राह्मणग्रहणं अयमपि विधिर्वणसंयुक्तो यथा स्यादिति ।

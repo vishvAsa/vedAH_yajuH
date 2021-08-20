@@ -2,8 +2,9 @@
 title = "११ २४ वासश्चतुर्थीमुत्तरयादत्तेऽन्यत्परिधाप्य "
 
 +++
-## सूत्रम्
-वासश्चतुर्थीमुत्तरयादत्तेऽन्यत्परिधाप्य ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_24_vAsashchaturthImuttarayAdatte-nyatparidhApya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 अथ त्रिरात्रे(५) निवृत्ते **चतुर्थी** रात्रिं सप्तम्यर्थे द्वितीया ।

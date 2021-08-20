@@ -2,8 +2,9 @@
 title = "२२ ०१ पार्वणवदाज्यभागान्तेऽञ्जलिनोत्तरयाऽपूपाज्जुहोति"
 
 +++
-## सूत्रम्
-पार्वणवदाज्यभागान्तेऽञ्जलिनोत्तरयाऽपूपाज्जुहोति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_01_pArvaNavadAjyabhAgAnte-njalinottarayA-pUpAjjuhoti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 प्रतिष्ठिताभिधारणान्ते कृते अग्नेरुपसमाधानाद्याज्यभागान्तं कृत्वा पार्वणवदवदानकल्पेनापूपादुत्तरयर्चा अञ्जलिना **जुहोति** "यां जनाः प्रतिनन्दन्ती"त्येतया ।

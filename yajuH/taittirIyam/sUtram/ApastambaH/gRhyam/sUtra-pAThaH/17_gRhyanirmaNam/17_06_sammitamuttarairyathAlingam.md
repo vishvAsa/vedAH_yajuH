@@ -2,8 +2,9 @@
 title = "१७ ०६ सम्मितमुत्तरैर्यथालिङ्गम्"
 
 +++
-## सूत्रम्
-सम्मितमुत्तरैर्यथालिङ्गम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_06_sammitamuttarairyathAlingam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 ततस्तदगारं **सम्मितं** संकॢप्तं **उत्तरैर्मन्त्रैः** "ब्रह्म च ते क्षत्र"मित्यादिभिष्षड्भिः ।

@@ -2,8 +2,9 @@
 title = "०७ १० मध्ये होमः"
 
 +++
-## सूत्रम्
-मध्ये होमः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_10_madhye_homaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 आघारसम्भेदो **मध्यम् ।**

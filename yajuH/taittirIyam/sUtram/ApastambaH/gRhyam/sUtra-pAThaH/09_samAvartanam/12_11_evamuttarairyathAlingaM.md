@@ -2,8 +2,9 @@
 title = "१२ ११ एवमुत्तरैर्यथालिङ्गं"
 
 +++
-## सूत्रम्
-एवमुत्तरैर्यथालिङ्गं स्रजश्शिरस्याञ्जनमादर्शावेक्षणमुपानहौ छत्रं दण्डमिति ॥
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_11_evamuttarairyathAlingaM.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 एवमुत्तरैरपि मन्त्रैर्यथालिङ्गं स्रगादीनि षट्द्रव्याण्युपयुञ्जीत यथार्हम् ।

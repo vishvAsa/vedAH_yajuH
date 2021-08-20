@@ -2,8 +2,9 @@
 title = "१० ०५ ब्राह्मणान् भोजयित्वाशिषो"
 
 +++
-## सूत्रम्
-ब्राह्मणान् भोजयित्वाशिषो वाचयित्वा कुमारं भोजयित्वाऽनुवाकस्य प्रथमेन यजुषाऽपः संसृज्योष्णाश् शीतास्वानीयोत्तरया शिर उनत्ति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_05_brAhmaNAn_bhojayitvAshiSho.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 अथोपनयनविधिः–पूर्वेद्युर्नान्दीश्राद्धम् ।

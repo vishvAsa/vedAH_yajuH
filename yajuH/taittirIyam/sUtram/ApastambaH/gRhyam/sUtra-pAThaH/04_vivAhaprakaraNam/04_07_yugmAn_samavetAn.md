@@ -2,8 +2,9 @@
 title = "०४ ०७ युग्मान् समवेतान्"
 
 +++
-## सूत्रम्
-युग्मान् समवेतान् मन्त्रवत उत्तरयाऽद्भ्यः प्रहिणुयात् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_07_yugmAn_samavetAn.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 वधूस्नापनार्थानामपामाहरणं **उत्तरयर्चा** "व्युक्षत्क्रूरम्" इत्येतया ।

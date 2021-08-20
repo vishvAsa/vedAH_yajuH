@@ -2,8 +2,9 @@
 title = "१२ १० परिषेचनान्तङ् कृत्वताभिरेव"
 
 +++
-## सूत्रम्
-परिषेचनान्तं कृत्वताभिरेव दक्षिणे कर्ण आबध्नीतैताभिस्सव्ये।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_10_pariShechanAnta~N_kRtvatAbhireva.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 परिषेचनान्तवचनमानन्तर्यार्थम् ।

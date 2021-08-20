@@ -2,8 +2,9 @@
 title = "२० १२ गवाम् मर्गेऽनग्नौ"
 
 +++
-## सूत्रम्
-गवां मर्गेऽनग्नौ क्षेत्रस्य पतिं यजते ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_12_gavAm_marge-nagnau.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ क्षैत्रपत्यस्थालीपाकस्य विधिः– **मर्गे** मार्गे छान्दसो ह्रस्वः ।

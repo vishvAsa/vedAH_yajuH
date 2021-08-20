@@ -3,8 +3,9 @@ title = "०४ ११ अथास्यै दक्षिणेन"
 
 +++
 
-## सूत्रम्
-अथास्यै दक्षिणेन नीचा हस्तेन दक्षिणमुत्तानँ हस्तं गृह्णीयात् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_11_athAsyai_daxiNena.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ तथैवावस्थितः **अस्यै** अस्याः तथैवासीनाया दक्षिणमुत्तानं हस्तं गृह्णीयात् ।

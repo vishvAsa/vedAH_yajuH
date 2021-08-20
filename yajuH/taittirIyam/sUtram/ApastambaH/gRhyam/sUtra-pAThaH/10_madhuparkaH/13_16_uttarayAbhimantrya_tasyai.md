@@ -2,8 +2,9 @@
 title = "१३ १६ उत्तरयाभिमन्त्र्य तस्यै"
 
 +++
-## सूत्रम्
-उत्तरयाभिमन्त्र्य तस्यै वपाँ श्रपयित्वोपस्तीर्णाभिघारितां मध्यमेनान्तमेन वा पलाशपर्णेनोत्तरया जुहोति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_16_uttarayAbhimantrya_tasyai.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अनुजानीयादित्यध्याहारः ।

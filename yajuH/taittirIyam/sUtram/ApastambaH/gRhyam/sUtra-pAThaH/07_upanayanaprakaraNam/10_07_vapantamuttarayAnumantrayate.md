@@ -2,8 +2,9 @@
 title = "१० ०७ वपन्तमुत्तरयानुमन्त्रयते"
 
 +++
-## सूत्रम्
-वपन्तमुत्तरयानुमन्त्रयते दक्षिणतो माता ब्रह्मचारी वा।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_07_vapantamuttarayAnumantrayate.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 एवमाचार्येण प्रतिदिशं प्रवपने कृते नापितस् तस्य केशान् वपति संसृष्टाभिर् एवाद्भिर् अबर्थं कुर्वाणः ।

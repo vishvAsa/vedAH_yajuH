@@ -2,8 +2,9 @@
 title = "२० १३ ईशानवदावाहनम् "
 
 +++
-## सूत्रम्
-ईशानवदावाहनम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_13_IshAnavadAvAhanam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 तस्य क्षेत्रपतेर् **आवाहनं ईशानवत्** कर्तव्यम् ।

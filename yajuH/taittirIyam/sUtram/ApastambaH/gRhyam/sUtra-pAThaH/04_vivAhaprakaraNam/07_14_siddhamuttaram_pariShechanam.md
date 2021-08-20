@@ -2,8 +2,9 @@
 title = "०७ १४ सिद्धमुत्तरम् परिषेचनम्"
 
 +++
-## सूत्रम्
-सिद्धमुत्तरं परिषेचनम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_14_siddhamuttaram_pariShechanam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अत्र वचनाभावात् जयादिनिवृत्तौ सत्यां तद्बद्धक्रममपि परिषेचनं न निवर्तते, अग्नयङ्गत्वादित्याह—

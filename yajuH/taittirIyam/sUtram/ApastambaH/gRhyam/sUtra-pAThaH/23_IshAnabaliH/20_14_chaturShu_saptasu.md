@@ -2,8 +2,9 @@
 title = "२० १४ चतुर्षु सप्तसु"
 
 +++
-## सूत्रम्
-चतुर्षु सप्तसु वा पर्णेषु नामादेशं दधाति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_14_chaturShu_saptasu.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 आवाह्यार्घ्यं दत्वा गन्धादिभिरभ्यर्च्य स्थालीपाकमासाद्याभिघार्य चत्वारि सप्त वा पर्णानि देवस्य समीपे कृत्वा

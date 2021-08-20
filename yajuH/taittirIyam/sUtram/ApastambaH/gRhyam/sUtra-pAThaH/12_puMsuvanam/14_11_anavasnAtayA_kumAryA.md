@@ -2,8 +2,9 @@
 title = "१४ ११ अनवस्नातया कुमार्या"
 
 +++
-## सूत्रम्
-अनवस्नातया कुमार्या दृषत्पुत्रे दृषत्पुत्रेण पेषयित्वा परिप्लाव्यापेरणाग्निं प्राचीमुत्तानां निपात्योत्तरेण यजुषाऽङ्गुष्ठेन दक्षिणे नासिकाच्छिद्रेऽपि नयति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/12_puMsuvanam/14_11_anavasnAtayA_kumAryA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अथ समाप्ते तन्त्रशेषे कर्तव्यमाह—

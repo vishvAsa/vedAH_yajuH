@@ -2,8 +2,9 @@
 title = "१४ १५ यदि जरायु"
 
 +++
-## सूत्रम्
-यदि जरायु न पतेदेवंविहिताभिरेवाद्भिरुत्तराभ्यामवोक्षेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/12_puMsuvanam/14_15_yadi_jarAyu.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **जरायु** गर्भावेष्ठनं,** तद् **यदि न पतेत्**, तत उत्तरो विधिः कर्तव्यः ।

@@ -2,8 +2,9 @@
 title = "०३ १७ पूर्वेषामुपस्पर्शने"
 
 +++
-## सूत्रम्
-पूर्वेषामुपस्पर्शने यथालिङ्गमृद्धिः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_17_pUrveShAmupasparshane.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 

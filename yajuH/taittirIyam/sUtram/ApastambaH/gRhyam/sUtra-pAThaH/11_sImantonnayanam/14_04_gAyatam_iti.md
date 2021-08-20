@@ -3,8 +3,9 @@ title = "१४ ०४ 'गायतम्' इति"
 
 +++
 
-## सूत्रम्
-'गायतम्' इति वीणागाथिनौ सँशास्ति ॥
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_04_gAyatam_iti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 वीणया यो गाथां गायति स **वीणगाथी** ।

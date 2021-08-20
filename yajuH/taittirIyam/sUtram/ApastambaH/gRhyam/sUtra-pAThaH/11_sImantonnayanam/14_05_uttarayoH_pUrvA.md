@@ -2,8 +2,9 @@
 title = "१४ ०५ उत्तरयोः पूर्वा"
 
 +++
-## सूत्रम्
-उत्तरयोः पूर्वा साल्वानां ब्राह्मणानामितरा ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_05_uttarayoH_pUrvA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **उत्तरयोः** ऋचोः या **पूर्वा** "यौगन्धरिर्" इत्येषा ।

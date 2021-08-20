@@ -2,8 +2,9 @@
 title = "०६ ०९ न च"
 
 +++
-## सूत्रम्
-न च देहलीमभि तिष्ठति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_09_na_cha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 देहलीनामद्वाराधस्ताद्दारु ।

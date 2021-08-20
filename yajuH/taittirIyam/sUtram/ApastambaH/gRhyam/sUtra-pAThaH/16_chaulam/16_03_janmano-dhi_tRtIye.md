@@ -2,8 +2,9 @@
 title = "१६ ०३ जन्मनोऽधि तृतीये"
 
 +++
-## सूत्रम्
-जन्मनोऽधि तृतीये वर्षे चौलं पुनर्वस्वोः।  
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_03_janmano-dhi_tRtIye.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+  
 
 ## अनाकुला
 अथ चौलविधिः— यस्मिन् कर्मणि केशाः प्रथमं खण्ड्यते तत् चौलम् ।

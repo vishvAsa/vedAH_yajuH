@@ -2,8 +2,9 @@
 title = "०७ ०२ पत्न्यवहन्ति"
 
 +++
-## सूत्रम्
-पत्न्यवहन्ति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_02_patnyavahanti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 अरुन्धतीदर्शनानन्तरमगारं प्रविश्य व्रीहीन् यवान् वा नवानग्नये संकल्पितान् निर्वपति यावद्धोमाय ब्रह्मणभोजनाय च पर्याप्तं मन्यते ।
 प्रोक्षणञ्च तूष्णीं संस्कृताभिरद्भिः ।

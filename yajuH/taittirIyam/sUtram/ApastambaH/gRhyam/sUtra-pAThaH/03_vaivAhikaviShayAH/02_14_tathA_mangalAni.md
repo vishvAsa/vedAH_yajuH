@@ -2,8 +2,9 @@
 title = "०२ १४ तथा मङ्गलानि"
 
 +++
-## सूत्रम्
-तथा मङ्गलानि।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_14_tathA_mangalAni.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 "ब्राह्मणान् भोजयित्वाशिषो वाचयित्वे"त्येवमादीनि स्वशास्त्रप्रसिद्धानि ।

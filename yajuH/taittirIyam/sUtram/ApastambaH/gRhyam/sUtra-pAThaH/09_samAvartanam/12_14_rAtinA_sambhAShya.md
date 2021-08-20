@@ -2,8 +2,9 @@
 title = "१२ १४ रातिना सम्भाष्य"
 
 +++
-## सूत्रम्
-रातिना सम्भाष्य यथार्थं गच्छति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_14_rAtinA_sambhAShya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 **रातिना** बन्धुना **संभाष्य** किं मया कर्तव्यम्? क आश्रमः प्रतिपत्तव्यः? इति संभाषणं कृत्वा तेन रातिना सह **गच्छति** अवधृतमाश्रम प्रतिपद्यत इत्यर्थ ।

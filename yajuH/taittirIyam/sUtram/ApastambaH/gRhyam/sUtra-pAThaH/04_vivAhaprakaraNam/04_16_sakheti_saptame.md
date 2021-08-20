@@ -2,8 +2,9 @@
 title = "०४ १६ सखेति सप्तमे"
 
 +++
-## सूत्रम्
-सखेति सप्तमे पदे जपति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_16_sakheti_saptame.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 उक्तं सप्तपदानि प्रतिमन्त्रं प्रक्रमयतीति ।

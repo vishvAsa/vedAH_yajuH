@@ -2,8 +2,9 @@
 title = "१३ ०१ अथैतदपरन् तूष्णीमेव"
 
 +++
-## सूत्रम्
-अथैतदपरं तूष्णीमेव तीर्थे स्नात्वा तूष्णीं समिधमादधाति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_01_athaitadaparan_tUShNImeva.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 एवं स्नानस्य मुख्यकल्पं विधायानुकल्पं विदधाति–

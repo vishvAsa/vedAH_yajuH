@@ -2,8 +2,9 @@
 title = "२१ ०६ सर्वमुत्तरैरभिमृशेत् "
 
 +++
-## सूत्रम्
-सर्वमुत्तरैरभिमृशेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/24_mAsishrAddhaprakaraNam/21_06_sarvamuttarairabhimRshet.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 एवं प्रधानाहुतीर्हुत्वा सौविष्टकृतं हुत्वा जयादि प्रतिपद्यते ।

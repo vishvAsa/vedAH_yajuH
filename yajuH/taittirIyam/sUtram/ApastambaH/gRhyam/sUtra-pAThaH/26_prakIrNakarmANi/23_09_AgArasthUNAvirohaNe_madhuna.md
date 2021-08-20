@@ -2,8 +2,9 @@
 title = "२३ ०९ आगारस्थूणाविरोहणे मधुन"
 
 +++
-## सूत्रम्
-आगारस्थूणाविरोहणे मधुन उपवेशने कुप्त्वां कपोतपददर्शनेऽमात्यानां शरीररेषणेऽन्येषु चाद्भुतोत्पातेष्वमावास्यायां निशायां यत्रापां न शृणुयात्तदग्नेरुपसमाधानाद्याज्यभागान्त उत्तरा आहुतीर्हुत्वा जयादि प्रतिपद्यते ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_09_AgArasthUNAvirohaNe_madhuna.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अथाद्भुतप्रायश्चित्तम्—

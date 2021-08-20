@@ -2,8 +2,9 @@
 title = "१६ १६ उदकोपस्पर्शनमिति छन्दोगाः"
 
 +++
-## सूत्रम्
-उदकोपस्पर्शनमिति छन्दोगाः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_16_udakopasparshanamiti_ChandogAH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अस्मिन् गोदानव्रते अहर**हरुदकोपस्पर्शनं** (२)कर्तव्यमिति **छन्दोगा** उपदिशन्ति ।

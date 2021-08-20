@@ -2,8 +2,9 @@
 title = "०९ ०१ चतुर्थीप्रभृत्याषोडशीमुत्तरामुत्तरां"
 
 +++
-## सूत्रम्
-चतुर्थीप्रभृत्याषोडशीमुत्तरामुत्तरां युग्मां प्रजानिश्श्रेयसमृतुगमन इत्युपदिशन्ति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **षोडशीम्** इति पञ्चम्यर्थे द्वितीया ।

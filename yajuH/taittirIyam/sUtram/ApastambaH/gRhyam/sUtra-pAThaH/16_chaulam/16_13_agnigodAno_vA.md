@@ -2,8 +2,9 @@
 title = "१६ १३ अग्निगोदानो वा"
 
 +++
-## सूत्रम्
-अग्निगोदानो वा स्यात्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_13_agnigodAno_vA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अग्निर्देवता यत्र गोदाने तदग्निगोदानं यस्य सोऽ**ग्निगोदानः** ।

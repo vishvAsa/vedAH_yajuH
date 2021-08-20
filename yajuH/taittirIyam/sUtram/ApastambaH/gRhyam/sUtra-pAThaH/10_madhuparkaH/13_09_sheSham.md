@@ -2,8 +2,9 @@
 title = "१३ ०९ शेषम्"
 
 +++
-## सूत्रम्
-शेषं पुरस्तान्निनीयमानमुत्तरयाऽनुमन्त्रयते ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_09_sheSham.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ तासामपां शेषं पूर्वस्यां दिशि नयति प्रदाता ।

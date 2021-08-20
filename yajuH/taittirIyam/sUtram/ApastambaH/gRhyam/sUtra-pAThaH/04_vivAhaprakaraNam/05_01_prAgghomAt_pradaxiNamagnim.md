@@ -2,8 +2,9 @@
 title = "०५ ०१ प्राग्घोमात् प्रदक्षिणमग्निम्"
 
 +++
-## सूत्रम्
-प्राग्घोमात् प्रदक्षिणमग्निं कृत्वा यथास्थानमुपविश्यान्वारब्धायामुत्तरा आहुतीर्जुहोति "सोमाय जनिविदे स्वाहे"त्येतैः प्रतिमन्त्रम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_01_prAgghomAt_pradaxiNamagnim.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 समाप्य जपमथाग्निं प्रदक्षिणं करोति तया सह प्रदक्षिणं परिक्रामतीत्यर्थः ।

@@ -2,8 +2,9 @@
 title = "११ ११ व्याहृतीर्विहृताः"
 
 +++
-## सूत्रम्
-व्याहृतीर्विहृताः पादादिष्वन्तेषु वा तथार्धर्चयोरुत्तमां कृत्स्नायाम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_11_vyAhRtIrvihRtAH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अथ तस्मिन्नेवानुवचने विशेषमाह—

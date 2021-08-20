@@ -2,8 +2,9 @@
 title = "०७ २८ पौर्णमास्याम् पौर्णमासी"
 
 +++
-## सूत्रम्
-पौर्णमास्यां पौर्णमासी यस्यां क्रियते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_28_paurNamAsyAm_paurNamAsI.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 इदानीं प्रसङ्गात् सर्पबलेस्तदुत्सर्गस्य च देवतामुपदिशति–

@@ -2,8 +2,9 @@
 title = "१३ ११ त्रिवृतमेके घृतम्"
 
 +++
-## सूत्रम्
-त्रिवृतमेके घृतं च ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_11_trivRtameke_ghRtam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 त्रयाणां द्रव्याणां समुदायः **त्रिवृत्** ।

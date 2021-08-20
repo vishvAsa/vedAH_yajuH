@@ -2,8 +2,9 @@
 title = "१८ १२ उत्तरैरुपस्थायापः"
 
 +++
-## सूत्रम्
-उत्तरैरुपस्थायापः परिषिच्याप्रतीक्षस्तूष्णीमेत्या "पश्वेत पदे"त्येताभ्यामुदकुम्भेन त्रिःप्रदक्षिणमन्तरतोऽगारं निवेशनं वा परिषिच्य ब्राह्मणान् भोजयेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_12_uttarairupasthAyApaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 एवमेवैतं बलिं सप्तभिर्द्रव्यैर्दत्वा ततस्तां बलिदेवतामुपतिष्ठते ।

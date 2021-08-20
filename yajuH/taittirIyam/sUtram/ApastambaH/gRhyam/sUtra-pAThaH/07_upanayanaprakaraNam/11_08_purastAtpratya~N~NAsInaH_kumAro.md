@@ -2,8 +2,9 @@
 title = "११ ०८ पुरस्तात्प्रत्यङ्ङासीनः कुमारो"
 
 +++
-## सूत्रम्
-पुरस्तात्प्रत्यङ्ङासीनः कुमारो दक्षिणेन पाणिना दक्षिणं पादमन्वारभ्याह"सावित्रीं भो अनुब्रूहि" इति ॥
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_08_purastAtpratya~N~NAsInaH_kumAro.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 दर्भेष्वासीन इति गृह्यान्तरे ।

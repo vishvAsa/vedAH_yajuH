@@ -2,8 +2,9 @@
 title = "०६ ०३ तीर्त्वोत्तराञ् जपेत्"
 
 +++
-## सूत्रम्
-तीर्त्वोत्तरां जपेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_03_tIrtvottarA~n_japet.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **तीर्त्वा** पारं प्राप्य **उत्तराम्** ऋचं "अस्य पार" इत्येतां जपेद्वरः ।

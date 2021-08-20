@@ -2,8 +2,9 @@
 title = "२१ १३ अष्टाकपाल इत्येके"
 
 +++
-## सूत्रम्
-अष्टाकपाल इत्येके ॥
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/21_13_aShTAkapAla_ityeke.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **सायम्**अपूपाष्टाकपालो हविः **इत्येके** मन्यन्ते ।

@@ -2,8 +2,9 @@
 title = "०२ ०२ शम्याः परिध्यर्थे"
 
 +++
-## सूत्रम्
-शम्याः परिध्यर्थे विवाहोपनयनसमावर्तनसीमन्तचौलगोदानप्रायश्चित्तेषु।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_02_shamyAH_paridhyarthe.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ परिधीन् परिदधाति ।

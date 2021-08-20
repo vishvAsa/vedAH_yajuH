@@ -2,8 +2,9 @@
 title = "०७ ०६ अपि वा"
 
 +++
-## सूत्रम्
-अपि वा सकृदुपहत्य जुहुयात् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_06_api_vA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 यया दर्व्या होमस्तयैव **सकृदुपहत्य** जुहुयात् ।

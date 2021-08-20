@@ -2,8 +2,9 @@
 title = "०३ ११ सुप्तां रुन्दन्तीम्"
 
 +++
-## सूत्रम्
-सुप्तां रुन्दन्तीं निष्क्रान्तां वरणे परिवर्जयेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_11_suptAM_rundantIm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अथ विवाहे वर्जनीयाः कन्या आह–

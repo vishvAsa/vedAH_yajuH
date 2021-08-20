@@ -2,8 +2,9 @@
 title = "०५ १५ नित्यः"
 
 +++
-## सूत्रम्
-नित्यः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_15_nityaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम्।)+++
 

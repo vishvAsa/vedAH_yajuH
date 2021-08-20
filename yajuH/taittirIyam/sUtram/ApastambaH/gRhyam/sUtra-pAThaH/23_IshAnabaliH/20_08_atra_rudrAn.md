@@ -2,8 +2,9 @@
 title = "२० ०८ अत्र रुद्रान्"
 
 +++
-## सूत्रम्
-अत्र रुद्रान् जपेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_08_atra_rudrAn.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **अत्र** अस्मिन्काले **रुद्रान्** "नमस्ते रुद्र मन्यव" इत्यादीनेकादशानुवाकान् जपेत् ।

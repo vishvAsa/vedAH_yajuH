@@ -2,8 +2,9 @@
 title = "१४ ०७ यवान् विरूढानाबध्य"
 
 +++
-## सूत्रम्
-यवान् विरूढानाबध्य वाचं यच्छत्यानक्षत्रेभ्यः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_07_yavAn_virUDhAnAbadhya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **विरूढान्** अङ्कुरितान् सूत्र-बद्धान् आबध्नाति शिरसि वध्वाः ।

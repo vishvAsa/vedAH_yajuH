@@ -2,8 +2,9 @@
 title = "१६ ०४ ब्राह्मणानाम् भोजनम्"
 
 +++
-## सूत्रम्
-ब्राह्मणानां भोजनम् उपायनवत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_04_brAhmaNAnAm_bhojanam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 उपनयने ब्राह्मण-भोजने विशेषाऽभावात् आदि-पद-लोपोऽत्र द्रष्टव्यः ।

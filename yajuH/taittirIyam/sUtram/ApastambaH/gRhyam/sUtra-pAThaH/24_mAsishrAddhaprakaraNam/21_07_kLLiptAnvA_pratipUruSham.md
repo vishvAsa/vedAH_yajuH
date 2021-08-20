@@ -2,8 +2,9 @@
 title = "२१ ०७ कॢप्तान्वा प्रतिपूरुषम्"
 
 +++
-## सूत्रम्
-कॢप्तान्वा प्रतिपूरुषम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/24_mAsishrAddhaprakaraNam/21_07_kLLiptAnvA_pratipUruSham.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 अथ वा भोजनपात्रेषु **कॢप्तान्** ओदनविशेषान् **प्रतिपुरुषं** पृथगभिमृशेत् यथालिङ्गम् ।
 तत्र यावन्तः पित्रर्थे भोज्यन्ते तावत्सु प्रथमस्य मन्त्रस्यावृत्तिः "एवमुत्तरयोः ।

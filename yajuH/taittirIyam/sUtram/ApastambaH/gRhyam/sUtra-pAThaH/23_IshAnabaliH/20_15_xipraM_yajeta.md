@@ -2,8 +2,9 @@
 title = "२० १५ क्षिप्रं यजेत"
 
 +++
-## सूत्रम्
-क्षिप्रं यजेत पाको देवः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_15_xipraM_yajeta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **पाको** बालस्तद्वत् गमनशीलोऽयं **देवः** तस्माच्छीघ्रं यजेतेत्यर्थः ॥१५॥

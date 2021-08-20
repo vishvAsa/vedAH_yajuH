@@ -2,8 +2,9 @@
 title = "१० १० वासः"
 
 +++
-## सूत्रम्
-वासः सद्यःकृत्तोतमुत्तराभ्यामभिमन्त्र्योत्तराभिस्तिसृभिः परिधाप्य परिहितमुत्तरयाऽनुमन्त्रयते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_10_vAsaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 एकस्मिन्न् एवाहनि तन्तु-क्रिया वयनक्रिया च यस्य तत् **सद्यःकृत्तोतं** ।

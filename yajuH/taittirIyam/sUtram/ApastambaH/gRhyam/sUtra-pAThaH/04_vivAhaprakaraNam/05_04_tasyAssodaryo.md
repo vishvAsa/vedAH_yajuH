@@ -2,8 +2,9 @@
 title = "०५ ०४ तस्यास्सोदर्यो"
 
 +++
-## सूत्रम्
-तस्यास्सोदर्यो लाजानावपतीत्येके।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_04_tasyAssodaryo.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथशब्दः स्थानसम्बन्धार्थः ।

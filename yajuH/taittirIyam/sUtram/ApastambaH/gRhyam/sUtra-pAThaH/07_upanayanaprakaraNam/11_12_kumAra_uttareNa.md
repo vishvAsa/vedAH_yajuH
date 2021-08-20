@@ -2,8 +2,9 @@
 title = "११ १२ कुमार उत्तरेण"
 
 +++
-## सूत्रम्
-कुमार उत्तरेण मन्त्रेणोत्तरमोष्टमुपस्पृशते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_12_kumAra_uttareNa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 अथ तत्रैवासीनः **कुमारः उत्तरेण** मन्त्रेणा"वृधमसौ सोम्ये"त्यनेन स्वयम्**उत्तरमोष्ठमुपस्पृशते ।**

@@ -2,8 +2,9 @@
 title = "१५ १० अपि वा"
 
 +++
-## सूत्रम्
-अपि वा यस्मिन् स्वित्युपसर्गस्स्यात् तद्धि प्रतिष्ठितमिति हि ब्राह्मणम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_10_api_vA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अपि वा अयमपि पक्षः– यस्मिन्नाम्नि "सु" इत्ययमुपसर्गः स्यात् तदेव तत्र लक्षणम् ।

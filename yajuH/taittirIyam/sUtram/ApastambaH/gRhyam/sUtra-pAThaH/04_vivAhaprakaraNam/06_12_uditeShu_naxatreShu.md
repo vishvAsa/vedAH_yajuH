@@ -2,8 +2,9 @@
 title = "०६ १२ उदितेषु नक्षत्रेषु"
 
 +++
-## सूत्रम्
-उदितेषु नक्षत्रेषु प्राचीमुदीचीं वा दिशमुपनिष्क्रम्य उत्तराभ्यां यथालिङ्गं ध्रुवमरुन्धतीं च दर्शयति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_12_uditeShu_naxatreShu.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 उदितेषु नक्षत्रेष्विति वचनात्ततः प्राक् तस्मिन्नेव चर्मणि वाग्यतयोरासनं पश्चादुपनिष्क्रमणम् ।

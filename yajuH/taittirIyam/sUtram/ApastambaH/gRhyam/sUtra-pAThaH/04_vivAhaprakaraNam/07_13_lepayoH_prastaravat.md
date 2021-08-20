@@ -2,8 +2,9 @@
 title = "०७ १३ लेपयोः प्रस्तरवत्"
 
 +++
-## सूत्रम्
-लेपयोः प्रस्तरवत् तूष्णीं बर्हिरङ्क्त्वाग्नौ प्रहरति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_13_lepayoH_prastaravat.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 होमोपस्तरणाद्यर्थदर्वीद्वयलेपयोः पात्रप्रयोगार्थं संस्तीर्णस्य च वर्हिषः प्रतिपत्तिमाह—

@@ -2,8 +2,9 @@
 title = "०४ ०६ प्राप्ते निमित्त"
 
 +++
-## सूत्रम्
-प्राप्ते निमित्त उत्तरां जपेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_06_prApte_nimitta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 वध्वा स्वबन्धूनां च रोदनं **निमित्तं** जीवा ँ रुदन्तीति लिङ्गात् ।

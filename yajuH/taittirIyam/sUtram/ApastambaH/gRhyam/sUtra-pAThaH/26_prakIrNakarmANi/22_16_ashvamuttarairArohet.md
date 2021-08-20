@@ -2,8 +2,9 @@
 title = "२२ १६ अश्वमुत्तरैरारोहेत् "
 
 +++
-## सूत्रम्
-अश्वमुत्तरैरारोहेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_16_ashvamuttarairArohet.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 लब्ध्वेत्यनुवर्तते ।

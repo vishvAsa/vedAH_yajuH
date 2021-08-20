@@ -2,8 +2,9 @@
 title = "२२ ०३ श्वोभूते दर्भेण"
 
 +++
-## सूत्रम्
-श्वोभूते दर्भेण गामुपाकरोति पितृभ्यस्त्वा जुष्टामुपाकरोमीति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_03_shvobhUte_darbheNa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 दर्भेणेत्येकत्वमविवक्षितम् ।

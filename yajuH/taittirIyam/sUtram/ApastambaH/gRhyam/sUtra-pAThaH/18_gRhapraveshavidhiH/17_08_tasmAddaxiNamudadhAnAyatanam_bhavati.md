@@ -2,8 +2,9 @@
 title = "१७ ०८ तस्माद्दक्षिणमुदधानायतनम् भवति"
 
 +++
-## सूत्रम्
-तस्माद्दक्षिणमुदधानायतनं भवति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_08_tasmAddaxiNamudadhAnAyatanam_bhavati.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 एवं प्रतिष्ठितस्याग्नेः **दक्षिणमुदधानायतनं** कर्तव्यम् ।

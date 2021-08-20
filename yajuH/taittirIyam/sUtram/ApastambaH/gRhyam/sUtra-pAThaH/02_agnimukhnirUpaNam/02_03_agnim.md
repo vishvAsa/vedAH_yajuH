@@ -2,8 +2,9 @@
 title = "०२ ०३ अग्निम्"
 
 +++
-## सूत्रम्
-अग्निं परिषिञ्चत्यदितेऽनुमन्यस्वेति दक्षिणतः प्राचीनमनुमतेऽमुमन्यस्वेति पश्चादुदीचीनं सरस्वतेऽनुमन्यस्वेत्युत्तरतः प्राचीनं देव सवितः प्रसुवेति समन्तम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_03_agnim.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 परिषेचनमुदकेन पर्युक्षणम् ।

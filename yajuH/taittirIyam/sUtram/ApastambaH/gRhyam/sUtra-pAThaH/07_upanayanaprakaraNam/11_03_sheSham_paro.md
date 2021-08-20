@@ -2,8 +2,9 @@
 title = "११ ०३ शेषम् परो"
 
 +++
-## सूत्रम्
-शेषं परो जपति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_03_sheSham_paro.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 पृष्टप्रतिवचनादूर्ध्वं अनुवाकस्य **यश् शेषः** तं "एष ते देव सूर्ये"त्यादिकं **पर** आचार्यो जपति ॥३॥

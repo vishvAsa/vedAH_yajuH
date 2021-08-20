@@ -2,8 +2,9 @@
 title = "०७ १६ योऽस्यापचितस्तस्मा ऋषभम्"
 
 +++
-## सूत्रम्
-योऽस्यापचितस्तस्मा ऋषभं ददाति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_16_yo-syApachitastasmA_RShabham.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **अस्य** वरस्य **योऽपचितः** पूज्यः आचार्यः, **तस्मै ऋषभं** स्थालीपाकस्य दक्षिणां **ददति** वधूः ।

@@ -2,8 +2,9 @@
 title = "२२ १७ हस्तिनमुत्तरया "
 
 +++
-## सूत्रम्
-हस्तिनमुत्तरया ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_17_hastinamuttarayA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 लब्ध्वाऽऽरोहेदिति वर्तते ।

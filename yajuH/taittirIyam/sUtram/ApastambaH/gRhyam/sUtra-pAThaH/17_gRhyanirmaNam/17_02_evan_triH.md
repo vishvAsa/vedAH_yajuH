@@ -2,8 +2,9 @@
 title = "१७ ०२ एवन् त्रिः"
 
 +++
-## सूत्रम्
-एवं त्रिः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_02_evan_triH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 एवं त्रिरुद्धत्य उधूहति ॥२॥

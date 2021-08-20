@@ -2,8 +2,9 @@
 title = "२२ ०६ पिष्टान्नमुत्तरया पिष्टेन"
 
 +++
-## सूत्रम्
-पिष्टान्नमुत्तरया।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_06_piShTAnnamuttarayA_piShTena.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 पिष्टेन कृतमन्नं तस्य पयसि श्रपणम् **उत्तरयर्चा** "उक्थ्यश्चे"त्येतया जुहोति ॥६॥
 

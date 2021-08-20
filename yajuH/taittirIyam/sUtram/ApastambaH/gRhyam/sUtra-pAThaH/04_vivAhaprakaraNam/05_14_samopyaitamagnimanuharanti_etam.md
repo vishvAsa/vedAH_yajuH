@@ -2,8 +2,9 @@
 title = "०५ १४ समोप्यैतमग्निमनुहरन्ति एतम्"
 
 +++
-## सूत्रम्
-समोप्यैतमग्निमनुहरन्ति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_14_samopyaitamagnimanuharanti_etam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 एतं वैवाहिकमग्निमुखायां समोप्य दम्पत्योर्गच्छतोरनु पृष्ठतः **हरन्ति** तदीयाः पुरषाः ।

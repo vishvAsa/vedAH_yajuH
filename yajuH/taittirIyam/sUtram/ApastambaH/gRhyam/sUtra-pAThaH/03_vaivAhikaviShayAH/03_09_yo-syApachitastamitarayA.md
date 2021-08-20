@@ -2,8 +2,9 @@
 title = "०३ ०९ योऽस्यापचितस्तमितरया"
 
 +++
-## सूत्रम्
-योऽस्यापचितस्तमितरया।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_09_yo-syApachitastamitarayA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 **योऽस्य** वरस्या**पचितः** पूज्यः तेन सहागत आचार्यस्तम् **इतरया** गृहेषु या गौरालभ्यते तया ।
 किमिवेत्यपोक्षायां **अतिथिवदर्हयेद्** इत्येव ।

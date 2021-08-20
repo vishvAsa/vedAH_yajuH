@@ -2,8 +2,9 @@
 title = "१३ २० सकृत्प्रवक्त्रे चित्राय"
 
 +++
-## सूत्रम्
-सकृत्प्रवक्त्रे चित्राय।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_20_sakRtpravaktre_chitrAya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 सकृत्न प्रतिवतसरं कलौ गोरालम्भ्स्य न्षेधाद्रौरित्युत्त्का यज्ञो वर्धतामित्यादि जपेत्मध्यमन्त्रलोपः)प्रवक्त्रे वेदस्य वेदार्थस्य च चित्राय प्रसिद्धाय भिन्नसंशयायेत्यर्थः ।

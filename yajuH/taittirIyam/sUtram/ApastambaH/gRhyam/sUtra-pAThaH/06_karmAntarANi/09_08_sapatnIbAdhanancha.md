@@ -2,8 +2,9 @@
 title = "०९ ०८ सपत्नीबाधनञ्च "
 
 +++
-## सूत्रम्
-सपत्नीबाधनञ्च ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_08_sapatnIbAdhanancha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 न केवलमुभयोर्हृदयसंसर्गसाधनमेवैतत्कर्म, किं तर्हि? **सपत्नीबाधनञ्च** सपत्न्यप्यनेन बाधितुं शक्येत्यर्थः ।

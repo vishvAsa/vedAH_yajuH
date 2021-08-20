@@ -2,8 +2,9 @@
 title = "१९ ०६ अनाहिताग्नेराग्रयणम् "
 
 +++
-## सूत्रम्
-अनाहिताग्नेराग्रयणम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/19_06_anAhitAgnerAgrayaNam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 एतिरत्र प्राशनार्थः ।

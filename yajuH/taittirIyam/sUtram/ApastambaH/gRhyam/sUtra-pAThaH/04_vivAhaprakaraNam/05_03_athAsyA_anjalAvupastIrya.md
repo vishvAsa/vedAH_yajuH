@@ -2,8 +2,9 @@
 title = "०५ ०३ अथास्या अञ्जलावुपस्तीर्य"
 
 +++
-## सूत्रम्
-अथास्या अञ्जलावुपस्तीर्य द्विर्लाजानोप्याभिघारयति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_03_athAsyA_anjalAvupastIrya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 +++(सम्पादकटिप्पनी-  सूत्रमिदम् अग्रिमे व्याख्यातम्।)+++
 ## गृह्यतात्पर्यदर्शनम्

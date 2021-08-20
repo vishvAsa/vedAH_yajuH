@@ -2,8 +2,9 @@
 title = "१० ०२ गर्भाष्टमेषु ब्राह्मणमुपनयीत"
 
 +++
-## सूत्रम्  
-गर्भाष्टमेषु ब्राह्मणमुपनयीत।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_02_garbhAShTameShu_brAhmaNamupanayIta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः  
 यस्मिन् वर्षे गर्भो भूत्वा शेते तद्वर्षं गर्भशब्देनोच्यते तदष्टमं येषां तानीमानि **गर्भाष्टमानि** वर्षाणि ।

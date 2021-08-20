@@ -2,8 +2,9 @@
 title = "१३ ०६ प्रक्षालयितारमुपस्पृश्योत्तरेण"
 
 +++
-## सूत्रम्
-प्रक्षालयितारमुपस्पृश्योत्तरेण यजुषाऽऽत्मानं प्रत्यभिमृशेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_06_praxAlayitAramupaspRshyottareNa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 तथा स्वेन हस्तेनावनेक्तुः पाणी संस्पृशेद् (बौ.गृ.१-२.) इति कल्पान्तरम् ।

@@ -2,8 +2,9 @@
 title = "०३ ०८ तया वरमतिथिवदर्हयेत्"
 
 +++
-## सूत्रम्
-तया वरमतिथिवदर्हयेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_08_tayA_varamatithivadarhayet.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 किमर्थमित्यत आह–

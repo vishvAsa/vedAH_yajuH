@@ -2,8 +2,9 @@
 title = "१९ ०४ अहार्षमिति बलिमन्त्रस्य"
 
 +++
-## सूत्रम्
-अहार्षमिति बलिमन्त्रस्य सन्नामः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/19_04_ahArShamiti_balimantrasya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **सन्नामः** ऊहः—हरिष्यामीत्यस्य स्थाने अहार्षमिति ।

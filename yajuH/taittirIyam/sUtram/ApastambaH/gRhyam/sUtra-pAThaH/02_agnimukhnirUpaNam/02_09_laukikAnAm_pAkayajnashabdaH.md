@@ -2,8 +2,9 @@
 title = "०२ ०९ लौकिकानाम् पाकयज्ञशब्दः"
 
 +++
-## सूत्रम्
-लौकिकानां पाकयज्ञशब्दः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_09_laukikAnAm_pAkayajnashabdaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 एवं सर्वगार्ह्यहोमानां साधारणं स्मार्तं विधिमुक्त्वा, इदानीं पाकयज्ञेषु वैकल्पिकं श्रौतं विधिमाह–

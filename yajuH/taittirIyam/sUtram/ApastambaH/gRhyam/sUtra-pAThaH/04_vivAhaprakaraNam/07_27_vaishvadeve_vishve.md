@@ -2,8 +2,9 @@
 title = "०७ २७ वैश्वदेवे विश्वे"
 
 +++
-## सूत्रम्
-वैश्वदेवे विश्वे देवाः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_27_vaishvadeve_vishve.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 ननु– "नानग्नौ प्रधानम्" इति याज्ञिकवचनात् वैश्वदेवबलिहरणानि तावदङ्गानि ।

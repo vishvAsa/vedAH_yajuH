@@ -2,8 +2,9 @@
 title = "०५ ०६ उत्तराभिस्तिसृभिः"
 
 +++
-## सूत्रम्
-उत्तराभिस्तिसृभिः प्रदक्षिणमग्निं कृत्वाऽश्मानमास्थापयति यथा पुरस्तात्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_06_uttarAbhistisRbhiH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 **उत्तराभिस्तिसृभिः** तुभ्यमग्रे पर्यवहन्नित्यादिभिः अग्निं प्रदक्षिणं करोति ।
 तां हस्ते गृहीत्वा तिसृणामन्ते परिक्रमणारम्भः

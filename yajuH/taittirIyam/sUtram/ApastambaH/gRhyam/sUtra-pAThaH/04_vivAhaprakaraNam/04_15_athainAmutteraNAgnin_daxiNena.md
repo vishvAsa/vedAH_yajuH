@@ -2,8 +2,9 @@
 title = "०४ १५ अथैनामुत्तेरणाग्निन् दक्षिणेन"
 
 +++
-## सूत्रम्
-अथैनामुत्तेरणाग्निं दक्षिणेन पदा प्राचीमुदीचीं वा दिशमभि प्रक्रमय"त्येकमिष" इति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_15_athainAmutteraNAgnin_daxiNena.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथेदानीमेनां वधूमुत्त्थाप्योत्तरेणाग्निं यो देशस्तस्मात् प्रक्रम्य प्राचीं वा दिशमभि उदीचीं वा दक्षिणेन पदा सप्त पदानि प्रक्रामयति

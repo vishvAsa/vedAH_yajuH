@@ -2,8 +2,9 @@
 title = "०४ १३ यदि कामयेत"
 
 +++
-## सूत्रम्
-यदि कामयेत पुंस एव जनयेयमित्यङ्गुष्ठमेव सोऽभीवाङ्गुष्ठमभीव लोमानि गृह्णाति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_13_yadi_kAmayeta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 गृह्णीयादित्यनुवर्तते ॥१३॥ ॥१४॥

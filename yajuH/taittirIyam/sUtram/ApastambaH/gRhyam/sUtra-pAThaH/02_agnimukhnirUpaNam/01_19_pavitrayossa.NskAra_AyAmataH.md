@@ -2,8 +2,9 @@
 title = "०१ १९ पवित्रयोस्सँस्कार आयामतः"
 
 +++
-## सूत्रम्
-पवित्रयोस्सँस्कार आयामतः परीमाणं प्रोक्षणीसँस्कारः पात्रप्रोक्ष इति दर्शपूर्णमासवत्तूष्णीम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_19_pavitrayossa.NskAra_AyAmataH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 पवित्रयोस्संस्कारः तृणं काष्ठं वेत्येवमादिः ।

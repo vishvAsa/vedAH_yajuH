@@ -2,8 +2,9 @@
 title = "०४ ०५ अङ्गुष्ठेनोपमध्यमया चाङ्गुल्या"
 
 +++
-## सूत्रम्
-अङ्गुष्ठेनोपमध्यमया चाङ्गुल्या दर्भ ँ संगृह्योत्तरेण यजुषा तस्या भ्रुवोरन्तरँ सम्मृज्य प्रतीचीनं निरस्येत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_05_anguShThenopamadhyamayA_chAngulyA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 मध्यमासमीपे वर्तत इत्युपमध्यमा तयाङ्गुल्या अनामिकयेत्यर्थः ।

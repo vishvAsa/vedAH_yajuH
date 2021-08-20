@@ -2,8 +2,9 @@
 title = "२३ ०३ असम्भवेप्सुः परेषाँ"
 
 +++
-## सूत्रम्
-असम्भवेप्सुः परेषाँ स्थूलाढारिकाजीवचूर्णानि कारयित्वोत्तरया सुप्तायास्सम्बाध उपवपेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_03_asambhavepsuH_pareShA.N.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 ( **असंभवेप्सुः**, अमैथुनेप्सुः) ।

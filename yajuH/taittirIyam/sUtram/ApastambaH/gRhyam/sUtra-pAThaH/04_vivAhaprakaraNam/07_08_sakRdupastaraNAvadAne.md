@@ -2,8 +2,9 @@
 title = "०७ ०८ सकृदुपस्तरणावदाने"
 
 +++
-## सूत्रम्
-सकृदुपस्तरणावदाने द्विरभिघारणम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_08_sakRdupastaraNAvadAne.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अस्य त्ववदानविधिमाह–

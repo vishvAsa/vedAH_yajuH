@@ -2,8 +2,9 @@
 title = "१७ ०१ दक्षिणाप्रत्यक्प्रवणमगारावकाशमुद्धत्य"
 
 +++
-## सूत्रम्
-दक्षिणाप्रत्यक्प्रवणमगारावकाशमुद्धत्य पलाशेन शमीमयेन वोदूहेनैतामेव दिशमुत्तरयोदूहति ॥  
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_01_daxiNApratyakpravaNamagArAvakAshamuddhatya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+  
 
 ## प्रस्तावः
 यज्ञेष्वधिकरिष्यमाणस्य पुरुषस्य देहसंस्कारा व्याख्याताः ।

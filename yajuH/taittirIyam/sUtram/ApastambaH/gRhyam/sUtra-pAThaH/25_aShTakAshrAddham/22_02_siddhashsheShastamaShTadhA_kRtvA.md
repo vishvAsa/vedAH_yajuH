@@ -2,8 +2,9 @@
 title = "२२ ०२ सिद्धश्शेषस्तमष्टधा कृत्वा"
 
 +++
-## सूत्रम्
-सिद्धश्शेषस्तमष्टधा कृत्वा ब्राह्मणेभ्य उपहरति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_02_siddhashsheShastamaShTadhA_kRtvA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 तन्त्रस्य शेषस्**सिद्धो** भवति अविकृत इत्यर्थः ।
 अञ्जलिना जुहोतीत्युभयं विशेषः स्विष्टकृति न भवतीतियर्थः ।

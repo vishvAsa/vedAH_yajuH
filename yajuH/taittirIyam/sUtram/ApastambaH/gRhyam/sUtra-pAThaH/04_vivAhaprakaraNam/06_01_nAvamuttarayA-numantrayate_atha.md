@@ -2,8 +2,9 @@
 title = "०६ ०१ नावमुत्तरयाऽनुमन्त्रयते अथ"
 
 +++
-## सूत्रम्
-नावमुत्तरयाऽनुमन्त्रयते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_01_nAvamuttarayA-numantrayate_atha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ यदि पथि नावा तार्या नदी वापी वा स्यात्तत्र **नावम्** उत्तरयर्चा "अयं नो मह्याः पारं स्वस्ति" इत्येतया **अनुमन्त्रयते**

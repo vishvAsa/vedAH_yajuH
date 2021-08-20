@@ -2,8 +2,9 @@
 title = "१५ ०३ तद्रहस्यम् भवति"
 
 +++
-## सूत्रम्
-तद्रहस्यं भवति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/13_jAtakarma/15_03_tadrahasyam_bhavati.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 नक्षत्रनाम **रहस्यं** भवति ।

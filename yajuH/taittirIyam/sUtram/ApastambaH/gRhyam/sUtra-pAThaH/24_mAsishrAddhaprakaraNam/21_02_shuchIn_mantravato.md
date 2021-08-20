@@ -2,8 +2,9 @@
 title = "२१ ०२ शुचीन् मन्त्रवतो"
 
 +++
-## सूत्रम्
-शुचीन् मन्त्रवतो योनिगोत्रमन्त्रासम्बन्धानयुग्माँस्त्र्यवराननर्थावेक्षो भोजयेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/24_mAsishrAddhaprakaraNam/21_02_shuchIn_mantravato.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **शुचीन्** शुद्धान् **मन्त्रवतः** श्रुताध्ययनसम्पन्नान् "शुचीन् मन्त्रवतस्सर्वकृत्येषु भोजयेत्" (आप. ध.२-१५-९)

@@ -2,8 +2,9 @@
 title = "१८ ०२ अगदो भवति"
 
 +++
-## सूत्रम्
-अगदो भवति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_02_agado_bhavati.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **अगदः** अरोगः, रोगनिवृत्तिरस्य प्रयोजनमित्यर्थः ।

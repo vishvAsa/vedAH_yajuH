@@ -2,8 +2,9 @@
 title = "०३ २० बन्धुशीललक्षणसम्पन्नश्रुतवानरोग"
 
 +++
-## सूत्रम्
-बन्धुशीललक्षणसम्पन्नश्रुतवानरोग इति वरसम्पत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_20_bandhushIlalaxaNasampannashrutavAnaroga.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अथ वरगुणानाह–

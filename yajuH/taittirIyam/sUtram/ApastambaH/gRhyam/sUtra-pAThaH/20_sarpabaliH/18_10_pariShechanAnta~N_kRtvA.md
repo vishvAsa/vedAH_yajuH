@@ -2,8 +2,9 @@
 title = "१८ १० परिषेचनान्तङ् कृत्वा"
 
 +++
-## सूत्रम्
-परिषेचनान्तं कृत्वा वाग्यतस्सम्भारानादाय प्राचीमुदीचीं वा दिशमुपनिष्क्रम्य स्थण्डिलं कल्पयित्वा तत्र प्राचीरुदीचीश्च तिस्रस्तिस्रो लेखा लिखित्वाऽद्भिरुपनिनीय तासूत्तरया सक्तून्निवपति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_10_pariShechanAnta~N_kRtvA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 परिषेचनान्तवचनमानन्तर्यार्थम् ।

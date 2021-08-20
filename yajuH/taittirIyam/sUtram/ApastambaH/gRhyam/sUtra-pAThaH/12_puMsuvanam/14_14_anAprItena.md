@@ -2,8 +2,9 @@
 title = "१४ १४ अनाप्रीतेन"
 
 +++
-## सूत्रम्
-अनाप्रीतेन शरावेणानुस्रोतसमुदकमाहृत्य पत्तस्तूर्यन्तीं निधाय मूर्धञ्छोष्यन्तीमुत्तरेण यजुषाऽभिमृश्यैताभिरद्भिरुत्तराभिरवोक्षेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/12_puMsuvanam/14_14_anAprItena.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **अनाप्रीतेना**स्पृष्टोदकेनानु**स्रोतसं** उदकस्य प्रस्रवतो न प्रतीपम् ।

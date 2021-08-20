@@ -2,8 +2,9 @@
 title = "०३ १८ उत्तमम् परिचक्षते"
 
 +++
-## सूत्रम्
-उत्तमं परिचक्षते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_18_uttamam_parichaxate.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 तत्र बीजस्पर्शने प्रजाभिस्समृद्धिः ।

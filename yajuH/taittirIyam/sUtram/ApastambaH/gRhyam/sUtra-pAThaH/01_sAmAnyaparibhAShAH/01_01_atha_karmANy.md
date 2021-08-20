@@ -2,8 +2,9 @@
 title = "०१ ०१ अथ कर्माण्य्"
 
 +++
-## सूत्रम्  
-अथ कर्माण्य् आचाराद् यानि गृह्यन्ते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_01_atha_karmANy.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला  
 नमो रुद्राय यद्गृह्यमापस्तम्बेन निर्मितम् ।

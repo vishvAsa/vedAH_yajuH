@@ -2,8 +2,9 @@
 title = "११ २२ एवमन्यस्मिन्नपि"
 
 +++
-## सूत्रम्
-एवमन्यस्मिन्नपि सदारण्यादेधानाहृत्य।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_22_evamanyasminnapi.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 यथाऽस्योपनयनाग्नेः नित्यधारणपक्षे समिधादानं नित्यत्वेन चेदितं, **एवं** त्र्यहं धारणपक्षे त्र्यहादूर्ध्वं **अन्यस्मिन्नप्य्** अग्नाविदं कर्म कर्तव्यमित्यर्थः ॥२३॥

@@ -2,8 +2,9 @@
 title = "१३ ०८ उत्तरयाऽभिमन्त्र्याञ्जलावेकदेश"
 
 +++
-## सूत्रम्
-उत्तरयाऽभिमन्त्र्याञ्जलावेकदेश आनीयमान उत्तरं यजुर्जपेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_08_uttarayA-bhimantryAnjalAvekadesha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अर्हणीया अपः निवेदिता **उत्तरया** "आमाग"न्नित्येतया अभिमन्त्रयते ।

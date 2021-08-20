@@ -2,8 +2,9 @@
 title = "०४ ०१ सुहृदस्समवेतान् मन्त्रवतो"
 
 +++
-## सूत्रम्
-सुहृदस्समवेतान् मन्त्रवतो वरान् प्रहिणुयात् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_01_suhRdassamavetAn_mantravato.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ कन्यावरणविधिः ।

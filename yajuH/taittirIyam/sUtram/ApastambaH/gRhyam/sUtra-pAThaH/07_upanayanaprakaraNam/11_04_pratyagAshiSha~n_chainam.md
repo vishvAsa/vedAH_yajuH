@@ -2,8 +2,9 @@
 title = "११ ०४ प्रत्यगाशिषञ् चैनम्"
 
 +++
-## सूत्रम्
-प्रत्यगाशिषं चैनं वाचयति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_04_pratyagAshiSha~n_chainam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 तत्रैव शेषे या **प्रत्यगाशीः** "अध्वनामध्वपत" "इत्येवमाद्या" ताम् **एनं** कुमारं वाचयति ॥४॥

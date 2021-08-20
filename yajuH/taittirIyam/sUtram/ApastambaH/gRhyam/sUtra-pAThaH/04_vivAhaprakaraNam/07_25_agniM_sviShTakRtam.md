@@ -2,8 +2,9 @@
 title = "०७ २५ अग्निं स्विष्टकृतम्"
 
 +++
-## सूत्रम्
-अग्निं स्विष्टकृतं चान्तरेण ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_25_agniM_sviShTakRtam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 पार्वणेनातोन्यानीत्ययं कल्पातिदेशः इत्युक्तम् ।

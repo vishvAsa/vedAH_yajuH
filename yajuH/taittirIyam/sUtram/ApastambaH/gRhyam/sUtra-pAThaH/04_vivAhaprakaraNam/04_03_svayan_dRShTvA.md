@@ -2,8 +2,9 @@
 title = "०४ ०३ स्वयन् दृष्ट्वा"
 
 +++
-## सूत्रम्
-स्वयं दृष्ट्वा तृतीयां जपेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_03_svayan_dRShTvA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अनन्तरं वरः किं कुर्यादित्यत्राह—

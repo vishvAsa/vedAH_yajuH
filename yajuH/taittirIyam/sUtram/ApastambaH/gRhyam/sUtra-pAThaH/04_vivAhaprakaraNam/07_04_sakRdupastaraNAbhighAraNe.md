@@ -2,8 +2,9 @@
 title = "०७ ०४ सकृदुपस्तरणाभिघारणे"
 
 +++
-## सूत्रम्
-सकृदुपस्तरणाभिघारणे द्विरवदानम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_04_sakRdupastaraNAbhighAraNe.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अनेन पौरोडाशिकोऽवदानकल्प इह प्रदर्शितो विज्ञेयः ।

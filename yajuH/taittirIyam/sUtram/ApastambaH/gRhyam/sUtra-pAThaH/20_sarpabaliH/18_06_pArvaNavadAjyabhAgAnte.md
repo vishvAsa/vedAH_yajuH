@@ -2,8 +2,9 @@
 title = "१८ ०६ पार्वणवदाज्यभागान्ते"
 
 +++
-## सूत्रम्
-पार्वणवदाज्यभागान्ते स्थालीपाकाद्धुत्वाञ्जलिनोत्तरैः प्रतिमन्त्रं किंशुकानि जुहोति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_06_pArvaNavadAjyabhAgAnte.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 सर्वं पार्वणवदित्त्युच्यते– स्थालीपाकादेव पार्वणवज् जुहोति, न किंशुकानीति । तेन तेष्व् अवदानकल्पो न भवति । स्विष्टकृतश् चावदानं तेभ्यो न भवति ।

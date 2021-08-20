@@ -2,8 +2,9 @@
 title = "२२ ०४ तूष्णीम् पञ्चाज्याहुतीर्हुत्वा"
 
 +++
-## सूत्रम्
-तूष्णीं पञ्चाज्याहुतीर्हुत्वा तस्यै वपां श्रपयित्वोपस्तीर्णाभिघारितां मध्यमेनान्तमेन वा पलाशपर्णेनोत्तरया जुहोति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_04_tUShNIm_panchAjyAhutIrhutvA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 तूष्णीमित्यनुच्यमाने सम्प्रदानाभावे होमानिवृत्तेः देवताकल्पनायां प्राप्तायां या एताः पाशुबन्धिक्यः पश्वाहुयः

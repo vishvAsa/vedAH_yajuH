@@ -2,8 +2,9 @@
 title = "१३ ०५ उत्तरयाऽभिमन्त्र्य दक्षिणम्"
 
 +++
-## सूत्रम्
-उत्तरयाऽभिमन्त्र्य दक्षिणं पादं पूर्वं ब्राह्मणाय प्रयच्छेत्सव्यँ शूद्राय।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_05_uttarayA-bhimantrya_daxiNam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ पूज्यमानस्ता अपः उत्तरयर्चा "आपः पादावनेजनी"रित्येतयाऽभिमन्त्र्य प्रक्षालयित्रे **"ब्राह्मणाय"** दक्षिणं पादं पूर्वं **प्रयच्छेत्** प्रसारयेत् ।

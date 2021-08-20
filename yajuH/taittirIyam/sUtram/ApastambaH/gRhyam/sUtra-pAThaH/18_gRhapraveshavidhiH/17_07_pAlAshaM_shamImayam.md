@@ -2,8 +2,9 @@
 title = "१७ ०७ पालाशं शमीमयम्"
 
 +++
-## सूत्रम्
-पालाशं शमीमयं वेध्ममादीप्योत्तरयर्चाऽग्निम् उद्धृत्योत्तरेण यजुषाऽगारं प्रपाद्योत्तर-पूर्वदेशे ऽगारस्योत्तरयाऽग्निं प्रतिष्ठापयति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_07_pAlAshaM_shamImayam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 

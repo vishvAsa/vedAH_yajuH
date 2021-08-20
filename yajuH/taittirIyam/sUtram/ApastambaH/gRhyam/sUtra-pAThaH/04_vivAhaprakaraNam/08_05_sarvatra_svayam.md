@@ -2,8 +2,9 @@
 title = "०८ ०५ सर्वत्र स्वयम्"
 
 +++
-## सूत्रम्
-सर्वत्र स्वयं प्रज्वलितेऽग्नावुत्तराभ्यां समिधावादध्यात् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_05_sarvatra_svayam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **सर्वत्र** सर्वेषु पाकयज्ञेषु अग्नौ स्वयं प्रज्वलिते धमनादि पुरुषप्रयत्नमन्तरेणेत्यर्थः ।

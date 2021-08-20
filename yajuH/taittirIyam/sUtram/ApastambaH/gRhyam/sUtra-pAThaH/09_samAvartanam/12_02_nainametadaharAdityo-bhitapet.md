@@ -2,8 +2,9 @@
 title = "१२ ०२ नैनमेतदहरादित्योऽभितपेत्"
 
 +++
-## सूत्रम्
-नैनमेतदहरादित्योऽभितपेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_02_nainametadaharAdityo-bhitapet.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 **एनं** एतत्कर्म कुर्वाणम् ।

@@ -2,8 +2,9 @@
 title = "०७ १९ सायम् प्रातरत"
 
 +++
-## सूत्रम्
-सायं प्रातरत ऊर्ध्वं हस्तेनैते आहुती तण्डुलैर्यवैर्वा जुहुयात्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_19_sAyam_prAtarata.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 अस्मात् स्थालीपाकादूर्ध्वं सायञ्च प्रातश्च एते आहुती व्रीहितण्डुलैर्यवैर्वा जुहुयात् ।
 अत ऊर्ध्वमित्यस्य पार्वणवदेव प्रयोजनम् ।

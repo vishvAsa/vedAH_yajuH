@@ -2,8 +2,9 @@
 title = "०२ ०७ यथोपदेशम् प्रधानाहुतीर्हुत्वा"
 
 +++
-## सूत्रम्
-यथोपदेशं प्रधानाहुतीर्हुत्वा जयाभ्यातानान्राष्ट्रभृतः प्राजापत्यां व्याहृतीर्विहृताः सौविष्टकृतीमित्युपजुहोति–यदस्य कर्मणोऽत्यरीरिचं यद्वा न्यूनमिहाकरम् । अग्निष्टत्स्विष्टकृद्विद्वान्त्सर्वँ स्विष्टं सुहुतं करोतु स्वाहेति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **यथोपदेशमिति** ।

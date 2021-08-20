@@ -2,8 +2,9 @@
 title = "१२ १२ वाचं यच्छत्यानक्षत्रेभ्यः"
 
 +++
-## सूत्रम्
-वाचं यच्छत्यानक्षत्रेभ्यः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_12_vAchaM_yachChatyAnaxatrebhyaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++

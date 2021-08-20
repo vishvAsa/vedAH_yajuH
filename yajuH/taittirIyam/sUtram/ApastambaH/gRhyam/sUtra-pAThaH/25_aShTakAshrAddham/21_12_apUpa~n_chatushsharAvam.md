@@ -2,8 +2,9 @@
 title = "२१ १२ अपूपञ् चतुश्शरावम्"
 
 +++
-## सूत्रम्
-अपूपं चतुश्शरावं श्रपयति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/21_12_apUpa~n_chatushsharAvam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 उप समीपे क्रियत इत्युपकारः ।
 तत्र भवम् **औपकार्यम्** ।

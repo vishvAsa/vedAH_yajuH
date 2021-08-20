@@ -2,8 +2,9 @@
 title = "०१ १० दक्षिणतोऽपवर्गः"
 
 +++
-## सूत्रम्
-दक्षिणतोऽपवर्गः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_10_daxiNato-pavargaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 

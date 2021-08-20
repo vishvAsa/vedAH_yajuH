@@ -2,8 +2,9 @@
 title = "०७ ०३ श्रपयित्वाभिघार्य"
 
 +++
-## सूत्रम्
-श्रपयित्वाभिघार्य प्राचीनमुदीचीनं वोद्वास्य प्रतिष्ठितमभिघार्याग्नेरुपसमाधानाद्याज्यभागान्तेऽन्वारब्धायां स्थालीपाकाज्जुहोति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_03_shrapayitvAbhighArya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 ततस्तानवहतांस्त्रिष्फलीकृतान् प्रक्षाल्य श्रपयति वरः ।

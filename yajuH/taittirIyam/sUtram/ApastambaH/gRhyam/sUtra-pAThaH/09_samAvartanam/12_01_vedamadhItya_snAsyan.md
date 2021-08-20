@@ -2,8 +2,9 @@
 title = "१२ ०१ वेदमधीत्य स्नास्यन्"
 
 +++
-## सूत्रम्
-वेदमधीत्य स्नास्यन् प्रगुदयाद्व्रजं प्रविश्यान्तर्लोम्ना चर्मणा द्वारमपरिधायास्ते ॥
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_01_vedamadhItya_snAsyan.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 
 ## प्रस्तावः

@@ -2,8 +2,9 @@
 title = "०१ २१ ब्राह्मणन् दक्षिणतो"
 
 +++
-## सूत्रम्
-ब्राह्मणं दक्षिणतो दर्भेषु निषाद्य।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_21_brAhmaNan_daxiNato.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 प्रकृतत्वादग्नेः दक्षिणतः ।

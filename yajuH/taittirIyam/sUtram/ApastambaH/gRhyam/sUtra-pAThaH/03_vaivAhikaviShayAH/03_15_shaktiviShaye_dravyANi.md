@@ -2,8 +2,9 @@
 title = "०३ १५ शक्तिविषये द्रव्याणि"
 
 +++
-## सूत्रम्
-शक्तिविषये द्रव्याणि प्रतिच्छन्नान्युपनिधाय ब्रूयादुपस्पृशेति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_15_shaktiviShaye_dravyANi.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 

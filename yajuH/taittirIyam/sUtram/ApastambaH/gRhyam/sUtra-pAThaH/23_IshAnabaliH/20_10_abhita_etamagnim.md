@@ -3,8 +3,9 @@ title = "२० १० अभित एतमग्निम्"
 
 +++
 
-## सूत्रम्
-अभित एतमग्निं गास्स्थापयति यथैना धूमः प्राप्नुयात् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_10_abhita_etamagnim.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अथ प्रधानहोमकाल एव यत्कर्तव्यं तदाह—

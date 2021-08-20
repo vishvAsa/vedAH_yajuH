@@ -2,8 +2,9 @@
 title = "२३ ०४ सिद्ध्यर्थे बभ्रुमूत्रेण"
 
 +++
-## सूत्रम्
-सिद्ध्यर्थे बभ्रुमूत्रेण प्रक्षालयीत ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_04_siddhyarthe_babhrumUtreNa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अथ यदा परपुरुषशङ्काऽपैति तदा स्वशुक्लसम्भवसिध्यर्थे भैषज्यमुच्यते—

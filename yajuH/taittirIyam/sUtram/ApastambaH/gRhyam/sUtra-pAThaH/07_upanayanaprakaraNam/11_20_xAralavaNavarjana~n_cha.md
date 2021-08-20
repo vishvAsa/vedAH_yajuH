@@ -2,8 +2,9 @@
 title = "११ २० क्षारलवणवर्जनञ् च"
 
 +++
-## सूत्रम्
-क्षारलवणवर्जनं च।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_20_xAralavaNavarjana~n_cha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 क्षार-लवणयोर् वर्जनं भवति भोजने त्र्यहम् ।

@@ -2,8 +2,9 @@
 title = "०५ १६ धार्यः एष"
 
 +++
-## सूत्रम्
-धार्यः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_16_dhAryaH_eSha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 एष वैवाहिकोऽग्निर्नित्यः शाश्वतिको **धार्यः** पत्नीसम्बन्धानां कर्मणामर्थाय ॥१६॥
 

@@ -2,8 +2,9 @@
 title = "०९ ०७ वश्यो भवति"
 
 +++
-## सूत्रम्
-वश्यो भवति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_07_vashyo_bhavati.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 यदि भार्या भर्तरि न रमते तदा नैवैतत्कर्म भवतीति प्रदर्शनार्थमिदं **वश्यः** पतिर्भवति भार्यायाः, न भार्या भर्तुरिति ॥७॥

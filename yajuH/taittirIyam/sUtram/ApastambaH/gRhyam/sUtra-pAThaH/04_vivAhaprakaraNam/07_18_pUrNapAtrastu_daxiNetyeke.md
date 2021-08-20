@@ -2,8 +2,9 @@
 title = "०७ १८ पूर्णपात्रस्तु दक्षिणेत्येके"
 
 +++
-## सूत्रम्
-पूर्णपात्रस्तु दक्षिणेत्येके।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_18_pUrNapAtrastu_daxiNetyeke.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 पात्रशब्द उभयलिङ्गः ।
 धान्यमुष्टिशतस्य पूर्णं पात्रं **पूर्णपात्रम्** इत्याहुः ।

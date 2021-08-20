@@ -2,8 +2,9 @@
 title = "०९ ११ वधूवास उत्तराभिरेतद्विदे"
 
 +++
-## सूत्रम्
-वधूवास उत्तराभिरेतद्विदे दद्यात् ॥
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_11_vadhUvAsa_uttarAbhiretadvide.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 विवाहकाले यत् **वासः** परिधापितं, तत् **एतद्विदे** ब्राह्मणाय दद्यात्, योऽस्मिन् प्रश्ने पठितान् मन्त्रान् सार्थान् वेद तस्मै ।

@@ -2,8 +2,9 @@
 title = "०३ १६ नाना बीजानि"
 
 +++
-## सूत्रम्
-नाना बीजानि संसृष्टानि वेद्याः पाँसून् क्षेत्राल्लोष्टँ शकृच्छ्मशानलोष्टमिति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_16_nAnA_bIjAni.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 "लक्षणसम्पन्नामुपयच्छेत" इति वक्ष्यति ।

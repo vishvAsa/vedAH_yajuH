@@ -2,8 +2,9 @@
 title = "०५ १३ परिषेचनान्तङ्"
 
 +++
-## सूत्रम्
-परिषेचनान्तं कृत्वोत्तराभ्यां योक्त्रं विमुच्य तां ततः प्र वा वाहयेत् प्र वा हारयेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_13_pariShechanAnta~N.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 परिषेचनान्तग्रहणं तन्त्रशेषोपलक्षणम् ।
 तेन प्रणीताविमोकस्याप्यन्ते योक्त्रविमोकः ।

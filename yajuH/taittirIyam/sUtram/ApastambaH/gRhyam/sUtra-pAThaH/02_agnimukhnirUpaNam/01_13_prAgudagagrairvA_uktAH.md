@@ -2,8 +2,9 @@
 title = "०१ १३ प्रागुदगग्रैर्वा उक्ताः"
 
 +++
-## सूत्रम्
-प्रागुदगग्रैर्वा।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_13_prAgudagagrairvA_uktAH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 उक्ताः पाकयज्ञपरिभाषाः अथ तेषां साधारणतन्त्रं वक्ष्यते– अग्निमिध्वेति ।
 तदग्नेरुपसमाधानमित्युच्यते ।

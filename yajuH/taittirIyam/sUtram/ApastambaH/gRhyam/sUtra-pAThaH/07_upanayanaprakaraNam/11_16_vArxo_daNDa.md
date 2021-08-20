@@ -2,8 +2,9 @@
 title = "११ १६ वार्क्षो दण्ड"
 
 +++
-## सूत्रम्
-वार्क्षो दण्ड इत्यवर्णसंयोगेनैक उपदिशन्ति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_16_vArxo_daNDa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 वृक्षस्य विकारो **वार्क्षः ।**

@@ -2,8 +2,9 @@
 title = "०२ १३ सर्वाणि पुण्योक्तानि"
 
 +++
-## सूत्रम्
-सर्वाणि पुण्योक्तानि नक्षत्राणि।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_13_sarvANi_puNyoktAni.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 सर्वर्तुविधानस्य सर्वापवादत्वात् पुण्याहविधानार्थमिदम् ।

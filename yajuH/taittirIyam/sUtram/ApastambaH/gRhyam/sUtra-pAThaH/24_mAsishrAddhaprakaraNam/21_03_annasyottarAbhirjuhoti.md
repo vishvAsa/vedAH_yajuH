@@ -2,8 +2,9 @@
 title = "२१ ०३ अन्नस्योत्तराभिर्जुहोति "
 
 +++
-## सूत्रम्
-अन्नस्योत्तराभिर्जुहोति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/24_mAsishrAddhaprakaraNam/21_03_annasyottarAbhirjuhoti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **उत्तराभिः** "यन्मे माते"त्यादिभिः स्त्रीलिङ्गनिर्देशादृग्भिस्सप्तभिः अन्नस्यैकदेशं जुहोति ।

@@ -2,8 +2,9 @@
 title = "०१ १७ सकृदेव मनुष्यसंयुक्तानि"
 
 +++
-## सूत्रम्
-सकृदेव मनुष्यसंयुक्तानि।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_17_sakRdeva_manuShyasaMyuktAni.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 तत्र मनुष्यसंस्कारकर्मार्थेषु केषुचित् पात्रेष्वपवादमाह–

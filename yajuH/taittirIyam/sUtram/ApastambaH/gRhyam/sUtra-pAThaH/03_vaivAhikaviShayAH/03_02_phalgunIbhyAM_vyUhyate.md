@@ -2,8 +2,9 @@
 title = "०३ ०२ फल्गुनीभ्यां व्यूह्यते"
 
 +++
-## सूत्रम्
-फल्गुनीभ्यां व्यूह्यते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_02_phalgunIbhyAM_vyUhyate.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 यदि फल्गुनीभ्यां व्यूह्यते सेना युद्धकाले सा च प्रतिनन्दिता भवति ।

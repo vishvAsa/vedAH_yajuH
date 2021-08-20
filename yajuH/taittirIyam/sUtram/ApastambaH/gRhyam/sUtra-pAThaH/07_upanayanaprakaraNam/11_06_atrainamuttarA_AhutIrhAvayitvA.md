@@ -2,8 +2,9 @@
 title = "११ ०६ अत्रैनमुत्तरा आहुतीर्हावयित्वा"
 
 +++
-## सूत्रम्
-अत्रैनमुत्तरा आहुतीर्हावयित्वा जयादि प्रतिपद्यते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_06_atrainamuttarA_AhutIrhAvayitvA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 **आज्यभागान्तं** तन्त्रं प्रागेवोक्तम् ।

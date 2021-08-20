@@ -2,8 +2,9 @@
 title = "०७ २३ पार्वणेनातो ऽन्यानि"
 
 +++
-## सूत्रम्
-पार्वणेनातो ऽन्यानि कर्माणि व्याख्यातान्य् - आचाराद् यानि गृह्यन्ते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_23_pArvaNenAto.anyAni.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 पर्वसु भवः पार्वणः । तेन **पार्वणेन** स्थालीपाकेनातो ऽस्मात् पार्वणाद् **अन्यानि कर्माणि व्याख्यातानि यान्य् आचाराद् गृह्यन्ते** = ज्ञायन्ते तानि सर्वाणि । अयमपि कल्पातिदेशः ।
 

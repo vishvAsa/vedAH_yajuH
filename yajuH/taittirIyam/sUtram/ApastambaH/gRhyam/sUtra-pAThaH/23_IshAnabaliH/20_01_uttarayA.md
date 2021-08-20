@@ -2,8 +2,9 @@
 title = "२० ०१ उत्तरया"
 
 +++
-## सूत्रम्
-उत्तरया दक्षिणस्यामीशानमावाहयति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_01_uttarayA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 मध्ये जयंतस्य प्रतिकृतिमाकाश एव कृत्वा दक्षिमस्याम् **ईशानमावाहयति उत्तरयर्चा** "आ त्वा वहन्त्व्" इत्येतया ।

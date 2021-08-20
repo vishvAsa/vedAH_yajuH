@@ -2,8 +2,9 @@
 title = "१६ ११ वरन् ददाति"
 
 +++
-## सूत्रम्
-वरं ददाति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_11_varan_dadAti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अस्मिन् कर्मणि समाप्ते कुमारस्य पिता ब्रह्मणे वरं ददाति ।

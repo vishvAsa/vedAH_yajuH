@@ -2,8 +2,9 @@
 title = "१६ ०५ सीमन्तवद् अग्नेर्"
 
 +++
-## सूत्रम्
-सीमन्तवद् अग्नेर् उपसमाधानादि।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_05_sImantavad_agner.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अग्नेर् उपसमाधानादि-परिषेचनान्तं सीमन्त-वत् कर्तव्यम् ।

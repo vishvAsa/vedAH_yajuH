@@ -2,8 +2,9 @@
 title = "१० ०४ वसन्तो ग्रीष्मश्"
 
 +++
-## सूत्रम्
-वसन्तो ग्रीष्मश् शरद् इत्य् ऋतवो वर्णानुपूर्व्येण।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_04_vasanto_grIShmash.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 उदगयने वसन्त-नियमः ब्राह्मणस्य ।

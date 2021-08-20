@@ -2,8 +2,9 @@
 title = "१३ १८ अन्नम्"
 
 +++
-## सूत्रम्
-अन्नं प्रोक्तमुपांशूत्तरैरभिमन्त्र्यों कल्पयतेत्युच्चैः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_18_annam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथान्नं सामिषं समाहृत्य तस्मे प्राह– भूतमिति ।

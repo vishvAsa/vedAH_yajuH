@@ -2,8 +2,9 @@
 title = "०४ ०९ अथैनामुत्तरया दक्षिणे"
 
 +++
-## सूत्रम्
-अथैनामुत्तरया दक्षिणे हस्ते गृहीत्वाऽग्निमभ्यानीयापरेणाग्निमुदगग्रं कटमास्तीर्य तस्मिन्नुपविशत उत्तरो वरः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_09_athainAmuttarayA_daxiNe.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ सन्नहनानन्तरं "यत्र क्वचाग्निम्" इत्यादिकल्पेनाग्निं प्रसाधयति ।

@@ -2,8 +2,9 @@
 title = "०८ ०४ यथोपदेशङ् काम्यानि"
 
 +++
-## सूत्रम्
-यथोपदेशं काम्यानि बलयश्च।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_04_yathopadesha~N_kAmyAni.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अस्य प्रतिषेधस्य प्रतिप्रसवमाह–

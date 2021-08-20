@@ -2,8 +2,9 @@
 title = "२३ ०५ सिद्ध्यर्थे यदस्य"
 
 +++
-## सूत्रम्
-सिद्ध्यर्थे यदस्य गृहे पण्यँ स्यात्तत उत्तरया जुहुयात् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_05_siddhyarthe_yadasya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **अस्य** कुटुम्बिनो गृहे **यत्** द्रव्यं **पण्यं** क्रय्यं तस्य सिध्यर्थे अर्धापकर्षादिना सिद्धिस्स्यादित्येवमर्थम् ।

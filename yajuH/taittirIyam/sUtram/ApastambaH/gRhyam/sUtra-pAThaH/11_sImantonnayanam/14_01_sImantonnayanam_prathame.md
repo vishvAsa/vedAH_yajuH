@@ -2,8 +2,9 @@
 title = "१४ ०१ सीमन्तोन्नयनम् प्रथमे"
 
 +++
-## सूत्रम्
-सीमन्तोन्नयनं प्रथमे गर्भे चतुर्थे मासि ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_01_sImantonnayanam_prathame.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 मन्त्राम्नानक्रमेण विवाहादयस् संस्कारा व्याख्याताः ।

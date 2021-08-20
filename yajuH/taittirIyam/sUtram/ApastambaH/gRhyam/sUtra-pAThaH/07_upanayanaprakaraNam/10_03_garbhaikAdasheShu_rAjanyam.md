@@ -2,8 +2,9 @@
 title = "१० ०३ गर्भैकादशेषु राजन्यम्"
 
 +++
-## सूत्रम्
-गर्भैकादशेषु राजन्यं गर्भद्वादशेषु वैश्यम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_03_garbhaikAdasheShu_rAjanyam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 +++(सम्पादकटिप्पानी - "सूत्रमेतद् अग्रिमे व्याख्यातम्" )+++

@@ -2,8 +2,9 @@
 title = "१७ ०३ कॢप्तमुत्तरयाभिमृश्य"
 
 +++
-## सूत्रम्
-कॢप्तमुत्तरयाभिमृश्य प्रदक्षिणं स्थूणागर्तान् खानयित्वाभ्यन्तरं पाँसूनुदूप्योत्तराभ्यां दक्षिणा द्वारस्थूणामवदधाति ॥
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_03_kLLiptamuttarayAbhimRshya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 एवमुदूह्य ततस्तं भूमिभागं कल्पयन्ति यथा सर्वतस्समं सम्पद्यते ।

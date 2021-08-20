@@ -2,8 +2,9 @@
 title = "१९ ०३ मार्गशीर्ष्याम्"
 
 +++
-## सूत्रम्
-मार्गशीर्ष्यां पौर्णमास्यामस्तमिते स्थालीपाकः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/19_03_mArgashIrShyAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 श्रावण्यां पौर्णमास्याम् इत्यनेनैतत् व्याख्यातम् ।
 एवं शब्दश् चात्रानुवर्तते ।

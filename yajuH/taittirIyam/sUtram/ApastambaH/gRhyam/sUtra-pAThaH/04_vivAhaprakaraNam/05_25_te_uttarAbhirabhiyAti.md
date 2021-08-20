@@ -2,8 +2,9 @@
 title = "०५ २५ ते उत्तराभिरभियाति"
 
 +++
-## सूत्रम्
-ते उत्तराभिरभियाति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_25_te_uttarAbhirabhiyAti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **ते** सूत्रे **अभियाति** उपरियाति ।

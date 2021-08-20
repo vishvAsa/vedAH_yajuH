@@ -2,8 +2,9 @@
 title = "१८ ११ तूष्णीं सम्पुष्का"
 
 +++
-## सूत्रम्
-तूष्णीं सम्पुष्का धाना लाजानाञ्जनाभ्यञ्जने स्थगरोशीरमिति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_11_tUShNIM_sampuShkA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **संपुष्का** अक्षता अखण्डितैस् तण्डुलैः कृताः  

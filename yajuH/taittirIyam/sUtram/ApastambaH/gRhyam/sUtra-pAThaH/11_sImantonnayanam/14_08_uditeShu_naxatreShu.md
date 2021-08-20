@@ -2,8 +2,9 @@
 title = "१४ ०८ उदितेषु नक्षत्रेषु"
 
 +++
-## सूत्रम्
-उदितेषु नक्षत्रेषु प्राचीमुदीचीं वा दिशमुपनिष्क्रम्य वत्समन्वारभ्य व्याहृतीश्च जपित्वा वाचं विसृजेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_08_uditeShu_naxatreShu.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **वत्सः** पुमान् गौश्च भवति ।

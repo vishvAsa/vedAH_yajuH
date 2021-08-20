@@ -2,8 +2,9 @@
 title = "१८ ०७ उत्तराभिस्तिसृभिरारग्वधमय्यस्समिधः "
 
 +++
-## सूत्रम्
-उत्तराभिस्तिसृभिरारग्वधमय्यस्समिधः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_07_uttarAbhistisRbhirAragvadhamayyassamidhaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **आरग्वधो** राजवृक्षः ।

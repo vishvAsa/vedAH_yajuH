@@ -2,8 +2,9 @@
 title = "१८ ०५ श्रावण्याम्"
 
 +++
-## सूत्रम्
-श्रावण्यां पौर्णमास्यामस्तमिते स्थालीपाकः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_05_shrAvaNyAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अथ सर्पबलेर्यस्मिन् काले येन विधिनोपक्रमस्तमाह—

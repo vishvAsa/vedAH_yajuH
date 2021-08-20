@@ -2,8 +2,9 @@
 title = "१३ ०७ कूर्चाभ्याम् परिगृह्य"
 
 +++
-## सूत्रम्
-कूर्चाभ्यां परिगृह्य मृन्मयेना'र्हणीया आप' इति प्राह ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_07_kUrchAbhyAm_parigRhya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 ततः प्रदाता मृण्मये पात्रे उपनीता अपः **कूर्चाभ्याम्** अधस्तादुपरिष्टाच्च **परिगृह्य "अर्हणीया आप" इति प्राह** निवेदयति ।

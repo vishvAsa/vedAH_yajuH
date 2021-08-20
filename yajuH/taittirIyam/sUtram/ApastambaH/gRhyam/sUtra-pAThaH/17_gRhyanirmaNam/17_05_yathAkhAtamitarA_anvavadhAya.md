@@ -2,8 +2,9 @@
 title = "१७ ०५ यथाखातमितरा अन्ववधाय"
 
 +++
-## सूत्रम्
-यथाखातमितरा अन्ववधाय वँशमाधीयमानमुत्तरेण यजुषाऽभिमन्त्रयते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_05_yathAkhAtamitarA_anvavadhAya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 द्वारस्थूणयोः यथाखातं अवधानं मन्त्रवच्च ।

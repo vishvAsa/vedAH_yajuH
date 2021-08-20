@@ -2,8 +2,9 @@
 title = "२२ १५ उत्तरेण यजुषाऽधिरुह्योत्तरया"
 
 +++
-## सूत्रम्
-उत्तरेण यजुषाऽधिरुह्योत्तरया प्राचीमुदीचीं वा दिशमभिप्रयाय यथार्थं यायात् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_15_uttareNa_yajuShA-dhiruhyottarayA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 ततः **उत्तरेण यजुषा** "अध्वनामध्वपत्" इत्यनेन ।

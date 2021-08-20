@@ -2,8 +2,9 @@
 title = "२३ ०१ दक्षिणेन फलीकरणमुष्टिमुत्तरया"
 
 +++
-## सूत्रम्
-दक्षिणेन फलीकरणमुष्टिमुत्तरया हुत्वा गत्वोत्तरां जपेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_01_daxiNena_phalIkaraNamuShTimuttarayA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 छत्रदण्डौ सव्येन पाणिना धारयन्नेव **दक्षिणेन** पाणिना फलीकरणानां मुष्टिं जुहोति ।

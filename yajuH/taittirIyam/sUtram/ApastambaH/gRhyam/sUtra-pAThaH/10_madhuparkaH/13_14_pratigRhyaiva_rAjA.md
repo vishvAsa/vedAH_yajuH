@@ -2,8 +2,9 @@
 title = "१३ १४ प्रतिगृह्यैव राजा"
 
 +++
-## सूत्रम्
-प्रतिगृह्यैव राजा स्थपतिर्वा पुरोहिताय ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_14_pratigRhyaiva_rAjA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 एवकारात् प्राशनमकृत्वा पुरोहिताय प्रदानम् ।

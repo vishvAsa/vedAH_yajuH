@@ -2,8 +2,9 @@
 title = "०२ १२ सर्व-ऋतवो विवाहस्य"
 
 +++
-## सूत्रम्
-सर्व-ऋतवो विवाहस्य शैशिरौ मासौ परिहाप्योत्तमं च नैदाघम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_12_sarva-Rtavo_vivAhasya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 एकाग्निविधिकाण्डे विवाह-मन्त्राणां पूर्वमाम्नानात् विवाहम् एव पूर्वं व्याख्यास्यन् तस्योदगयनादि-नियमापवादेन कालमाह—

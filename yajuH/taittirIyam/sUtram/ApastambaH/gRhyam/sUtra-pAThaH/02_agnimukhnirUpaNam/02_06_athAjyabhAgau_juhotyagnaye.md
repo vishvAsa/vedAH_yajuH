@@ -2,8 +2,9 @@
 title = "०२ ०६ अथाज्यभागौ जुहोत्यग्नये"
 
 +++
-## सूत्रम्
-अथाज्यभागौ जुहोत्यग्नये स्वाहेत्युत्तरार्धपूर्वार्धे सोमाय स्वाहेति दक्षिणार्धपूर्वार्धे समं पूर्वेण।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_06_athAjyabhAgau_juhotyagnaye.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अग्नेरुत्तरभाग उत्तरार्धः, पूर्वभागः पूर्वाधः तयोरन्तरालं **उत्तरार्धपूर्वार्धः** ।

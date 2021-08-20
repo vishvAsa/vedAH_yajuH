@@ -2,8 +2,9 @@
 title = "१३ १९ आचार्यायर्त्विजे श्वशुराय"
 
 +++
-## सूत्रम्
-आचार्यायर्त्विजे श्वशुराय राज्ञ इति परिसंवत्सरादुपतिष्ठद्भ्य एतत्कार्यम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_19_AchAryAyartvije_shvashurAya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 आचार्यादयः प्रसिद्धाः ।

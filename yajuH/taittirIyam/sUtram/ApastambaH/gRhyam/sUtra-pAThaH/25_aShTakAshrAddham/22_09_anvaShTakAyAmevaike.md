@@ -2,8 +2,9 @@
 title = "२२ ०९ अन्वष्टकायामेवैके"
 
 +++
-## सूत्रम्
-अन्वष्टकायामेवैके पिण्डनिधानमुपदिशन्ति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_09_anvaShTakAyAmevaike.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 न पिण्डनिधानमित्युच्यमानेऽन्वष्टकायामपि पिण्डनिधानं न स्यात् ।

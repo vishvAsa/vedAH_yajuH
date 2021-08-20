@@ -2,8 +2,9 @@
 title = "२२ ०८ स्विष्टकृत्प्रभृति"
 
 +++
-## सूत्रम्
-स्विष्टकृत्प्रभृति समानमापिण्डनिधानात् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_08_sviShTakRtprabhRti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **स्विष्टकृत्प्रभृति पिण्डनिधानान्तं** कर्म कृत्स्नं मासिश्राद्धवदिहापि कर्तव्यमित्यर्थः ।

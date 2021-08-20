@@ -2,8 +2,9 @@
 title = "०२ १६ इन्वकाभिः प्रसृज्यन्ते"
 
 +++
-## सूत्रम्
-इन्वकाभिः प्रसृज्यन्ते ते वराः प्रतिनन्दिताः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_16_invakAbhiH_prasRjyante.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 नक्षत्रप्रशंसार्था गाथा विवाहप्रकरणे वरप्रसङ्गार्थमुदाहृता ।

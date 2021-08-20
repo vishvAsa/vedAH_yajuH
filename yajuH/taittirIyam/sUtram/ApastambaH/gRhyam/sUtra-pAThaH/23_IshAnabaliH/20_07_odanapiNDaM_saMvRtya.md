@@ -2,8 +2,9 @@
 title = "२० ०७ ओदनपिण्डं संवृत्य"
 
 +++
-## सूत्रम्
-ओदनपिण्डं संवृत्य पर्णपुटेऽवधायोत्तरेण यजुषा वृक्ष आसजति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_07_odanapiNDaM_saMvRtya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ तस्यैवोदनात् **पिण्डं* उभाभ्यां हस्ताभ्यां **संवृत्य** दृढं कृत्वा पर्णैस्स्यूतैः कृते **पुटेऽवधाय** तं शिक्ये

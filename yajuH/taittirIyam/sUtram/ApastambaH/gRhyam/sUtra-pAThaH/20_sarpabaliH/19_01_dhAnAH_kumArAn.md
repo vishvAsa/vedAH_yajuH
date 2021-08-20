@@ -2,8 +2,9 @@
 title = "१९ ०१ धानाः कुमारान्"
 
 +++
-## सूत्रम्
-धानाः कुमारान् प्राशयन्ति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/19_01_dhAnAH_kumArAn.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 बलिहरणशिष्टाः **धानाः कुमारान् प्राशयन्ति** ये प्राशने समर्थाः ।

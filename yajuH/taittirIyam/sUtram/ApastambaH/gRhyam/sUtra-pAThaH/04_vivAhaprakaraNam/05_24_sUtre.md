@@ -2,8 +2,9 @@
 title = "०५ २४ सूत्रे"
 
 +++
-## सूत्रम्
-सूत्रे वर्त्मनोर्व्यवस्तृणात्युत्तरया नीलं दक्षिणस्यां लोहितमुत्तरस्याम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_24_sUtre.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 द्वे **सूत्रे** नीललोहिते रथस्य वर्त्मनोरुभयोर् भविष्यन्निर्देशोऽयं ययोर्वर्तिष्येते रथचक्रे तयोर्वत्मनोः ।

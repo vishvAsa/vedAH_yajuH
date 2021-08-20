@@ -2,8 +2,9 @@
 title = "०७ ०१ अथैनाम् आग्नेयेन"
 
 +++
-## सूत्रम्
-अथैनाम् आग्नेयेन स्थालीपाकेन याजयति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_01_athainAm_Agneyena.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथेति वचनाद् एतस्याम् एव रात्र्यां स्थालीपाको भवति ।

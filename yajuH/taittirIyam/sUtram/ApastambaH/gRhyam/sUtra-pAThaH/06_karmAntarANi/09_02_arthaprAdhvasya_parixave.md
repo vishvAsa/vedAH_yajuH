@@ -2,8 +2,9 @@
 title = "०९ ०२ अर्थप्राध्वस्य परिक्षवे"
 
 +++
-## सूत्रम्
-अर्थप्राध्वस्य परिक्षवे परिकासने चाप उस्पृश्योत्तरे यथालिङ्गं जपेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_02_arthaprAdhvasya_parixave.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 संस्कारकाण्डे कर्मान्तरव्याख्यानम् असङ्गतम् अपि मन्त्राम्नान-क्रमेणैव कार्यम् इत्युत्तरसूत्रजातं यावत्पटलान्तरमारभ्यते—

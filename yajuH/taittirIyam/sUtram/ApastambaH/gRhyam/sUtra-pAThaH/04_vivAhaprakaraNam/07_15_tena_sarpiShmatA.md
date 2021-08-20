@@ -2,8 +2,9 @@
 title = "०७ १५ तेन सर्पिष्मता"
 
 +++
-## सूत्रम्
-तेन सर्पिष्मता ब्राह्मणं भोजयेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_15_tena_sarpiShmatA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 **सर्पिष्मतेति** वचनमतिशयार्थमभिघारणेन प्रागपि सर्पिष्मत्वात् ।
 लौकिकेन सर्पिषा प्रभूतेनोपसिच्येत्यर्थः ।

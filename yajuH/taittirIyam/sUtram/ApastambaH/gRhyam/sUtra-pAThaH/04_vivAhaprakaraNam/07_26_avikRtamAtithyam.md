@@ -2,8 +2,9 @@
 title = "०७ २६ अविकृतमातिथ्यम् "
 
 +++
-## सूत्रम्
-अविकृतमातिथ्यम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_26_avikRtamAtithyam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 या गौरतिथय आलभ्यते "गौरिति गां प्राहेति" तदातिथ्यं नाम कर्म **तदविकृतम्** अपूर्वं पार्वणधर्मास्तद्वपाहोमे न कर्तव्या इत्यर्थः ।

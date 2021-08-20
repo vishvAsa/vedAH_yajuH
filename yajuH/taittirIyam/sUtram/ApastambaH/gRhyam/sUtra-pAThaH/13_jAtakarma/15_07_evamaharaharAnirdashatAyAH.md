@@ -2,8 +2,9 @@
 title = "१५ ०७ एवमहरहरानिर्दशतायाः"
 
 +++
-## सूत्रम्
-एवमहरहरानिर्दशतायाः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/13_jAtakarma/15_07_evamaharaharAnirdashatAyAH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 विजननप्रभृति यावत् दशाहानि न निर्गच्छन्ति तावदेव होमः कर्तव्यः संशानञ्चेत्यर्थः ।

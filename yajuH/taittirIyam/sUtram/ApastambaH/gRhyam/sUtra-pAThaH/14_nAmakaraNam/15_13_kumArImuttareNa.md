@@ -2,8 +2,9 @@
 title = "१५ १३ कुमारीमुत्तरेण"
 
 +++
-## सूत्रम्
-कुमारीमुत्तरेण यजुषाऽभिमन्त्रयते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_13_kumArImuttareNa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 प्रवासादेत्य **कुमारीं** स्त्रीप्रजां **उत्तरेण यजुषा** "सर्वस्मादात्मनः सम्भूतासी"त्यनेन **अभिमन्त्रयते** ।

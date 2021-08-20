@@ -2,8 +2,9 @@
 title = "०२ ११ द्विर्जुहोति द्विर्निमार्ष्टि"
 
 +++
-## सूत्रम्
-द्विर्जुहोति द्विर्निमार्ष्टि द्विः प्राश्नात्युत्सृत्याचामति निर्लेढीति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_11_dvirjuhoti_dvirnimArShTi.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 तत्र तेषु पाकयज्ञेष्वपरो विधिर्ब्रह्मणावेक्ष इत्याचक्षते ।

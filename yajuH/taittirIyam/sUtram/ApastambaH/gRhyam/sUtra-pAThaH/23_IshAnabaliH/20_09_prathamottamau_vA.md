@@ -2,8 +2,9 @@
 title = "२० ०९ प्रथमोत्तमौ वा"
 
 +++
-## सूत्रम्
-प्रथमोत्तमौ वा ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_09_prathamottamau_vA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 अथ वा प्रथमोत्तमाभ्यामेवानुवाकाभ्यामुपस्थानं कर्तव्यम् ॥९॥
 

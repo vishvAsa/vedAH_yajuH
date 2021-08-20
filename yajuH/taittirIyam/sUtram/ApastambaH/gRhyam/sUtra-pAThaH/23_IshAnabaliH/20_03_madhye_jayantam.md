@@ -2,8 +2,9 @@
 title = "२० ०३ मध्ये जयन्तम्"
 
 +++
-## सूत्रम्
-मध्ये जयन्तम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_03_madhye_jayantam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **उत्तरस्यां लौकिक्या वाचा मीढुषीं** देवीं आवाहयति ।

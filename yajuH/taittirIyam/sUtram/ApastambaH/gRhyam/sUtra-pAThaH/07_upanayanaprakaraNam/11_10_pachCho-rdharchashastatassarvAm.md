@@ -2,8 +2,9 @@
 title = "११ १० पच्छोऽर्धर्चशस्ततस्सर्वाम्"
 
 +++
-## सूत्रम्
-पच्छोऽर्धर्चशस्ततस्सर्वाम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_10_pachCho-rdharchashastatassarvAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **तस्मा** इति वचनात् कुमारस्य ग्रहणार्थमनुवचनम् ।

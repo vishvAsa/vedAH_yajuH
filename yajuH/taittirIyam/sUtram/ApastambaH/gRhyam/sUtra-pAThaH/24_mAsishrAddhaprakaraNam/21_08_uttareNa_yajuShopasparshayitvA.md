@@ -2,8 +2,9 @@
 title = "२१ ०८ उत्तरेण यजुषोपस्पर्शयित्वा"
 
 +++
-## सूत्रम्
-उत्तरेण यजुषोपस्पर्शयित्वा।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/24_mAsishrAddhaprakaraNam/21_08_uttareNa_yajuShopasparshayitvA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 **उत्तरेण यजुषा** "पृथिवी ते पात्रम्" इत्यनेन ब्राह्मणैः स्पर्शयित्वा भोजयेदिति शेषः ।
 तत्र च "ब्राह्मणानां त्वा,"मैषां क्षेष्ठाः" इति बहुत्वं दृश्यते तथापि प्रतिपुरुषं मन्त्रावृत्तिः उपरवमन्त्रवत्, वत्सापाकरणमन्त्रवच्च ।

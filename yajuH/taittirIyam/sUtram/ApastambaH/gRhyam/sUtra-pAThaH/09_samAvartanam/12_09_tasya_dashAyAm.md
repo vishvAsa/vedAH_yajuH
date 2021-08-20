@@ -2,8 +2,9 @@
 title = "१२ ०९ तस्य दशायाम्"
 
 +++
-## सूत्रम्
-तस्य दशायां प्रवर्तौ प्रबध्य दर्व्यामाधायाज्येनाभ्यानायन्नुत्तरा आहुतीर्हुत्वा जयादि प्रतिपद्यते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_09_tasya_dashAyAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 **तस्यो**त्तरस्य वाससो **दशायां प्रवर्तौ** कर्णालङ्कारौ सौवर्णौ **प्रबध्य दर्व्यामाधायाज्येन** उत्तरा अष्टौ प्रधानाहुतीर् जुहोति ।

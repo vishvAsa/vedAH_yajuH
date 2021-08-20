@@ -2,8 +2,9 @@
 title = "०९ ०३ एवमुत्तरैर्यथालिङ्गञ्"
 
 +++
-## सूत्रम्
-एवमुत्तरैर्यथालिङ्गं चित्रियं वनस्पतिं शकृद्रीतिं सिग्वातं शकुनिमिति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_03_evamuttarairyathAlinga~n.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **एवम्** इत्यनेन "अर्थप्राध्वे"ति च, अप उपस्पृश्येति च, "जपेद्" इति चापेक्ष्यते ।

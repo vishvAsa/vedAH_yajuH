@@ -2,8 +2,9 @@
 title = "१४ ०२ ब्राह्मणान् भोजयित्वाऽऽशिषो"
 
 +++
-## सूत्रम्
-ब्राह्मणान् भोजयित्वाऽऽशिषो वाचयित्वाऽग्नेर् उपसमाधानाद्य्-आज्य-भागान्ते ऽन्वारब्धायाम् उत्तरा आहुतीर् हुत्वा जयादि प्रतिपद्यते ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_02_brAhmaNAn_bhojayitvA-.ashiSho.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 तत्र पूर्वेद्युर् नान्दीश्राद्धम् ।

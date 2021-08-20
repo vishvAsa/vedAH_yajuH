@@ -2,8 +2,9 @@
 title = "१३ १७ यद्युत्सृजेदुपांशूत्तराञ्"
 
 +++
-## सूत्रम्
-यद्युत्सृजेदुपांशूत्तरां जपित्वोमुत्सृजतेत्युच्चैः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_17_yadyutsRjedupAMshUttarA~n.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ यदि गामुत्सृजत्ययं पूज्यमानः स गौरिति प्रोक्ते मन्त्रानुत्तरांश्चतुरो "यज्ञो वर्धताम्" इत्युपांशु जपति ।

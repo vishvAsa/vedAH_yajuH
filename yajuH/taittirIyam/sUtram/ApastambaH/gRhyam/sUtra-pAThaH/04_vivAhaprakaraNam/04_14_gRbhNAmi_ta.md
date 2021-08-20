@@ -2,8 +2,9 @@
 title = "०४ १४ गृभ्णामि त"
 
 +++
-## सूत्रम्
-गृभ्णामि त इत्येताभिश्चतसृभिः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_14_gRbhNAmi_ta.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 पूर्वोक्तस्य नित्यस्य काम्ययोश्च मन्त्रानाह–

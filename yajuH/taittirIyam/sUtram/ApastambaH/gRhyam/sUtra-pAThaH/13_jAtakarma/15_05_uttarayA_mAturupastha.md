@@ -2,8 +2,9 @@
 title = "१५ ०५ उत्तरया मातुरुपस्थ"
 
 +++
-## सूत्रम्
-उत्तरया मातुरुपस्थ आधायोत्तरया दक्षिणं स्तनं प्रतिधाप्योत्तराभ्यां पृथिवीमभिमृश्योत्तरेण यजुषा संविष्टम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/13_jAtakarma/15_05_uttarayA_mAturupastha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ तं कुमारं "मा ते कुमारम्" इत्येतया **मातुरुपस्थ** आदधाति ।

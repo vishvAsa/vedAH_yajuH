@@ -2,8 +2,9 @@
 title = "१२ ०५ तां स"
 
 +++
-## सूत्रम्
-तां स उत्तरेण यजुषोदौम्बरमूले दर्भस्तम्बे वोपगूहति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_05_tAM_sa.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 **प्रच्छादयति ।

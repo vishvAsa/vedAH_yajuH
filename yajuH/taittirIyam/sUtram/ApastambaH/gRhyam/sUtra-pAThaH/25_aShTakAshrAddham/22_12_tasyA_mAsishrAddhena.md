@@ -2,8 +2,9 @@
 title = "२२ १२ तस्या मासिश्राद्धेन"
 
 +++
-## सूत्रम्
-तस्या मासिश्राद्धेन कल्पो व्याख्यातः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_12_tasyA_mAsishrAddhena.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 मासिश्राद्धवदन्वष्टका कर्तव्येत्यर्थः ।

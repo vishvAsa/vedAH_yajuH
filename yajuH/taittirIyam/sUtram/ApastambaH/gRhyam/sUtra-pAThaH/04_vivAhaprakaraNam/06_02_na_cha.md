@@ -2,8 +2,9 @@
 title = "०६ ०२ न च"
 
 +++
-## सूत्रम्
-न च नाव्यांस्तरती वधूः पश्येत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_02_na_cha.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 ये नावं नयन्ति (ते) नावि भवा नाव्याः कैवर्ताः तान् **तरती** तरन्ती तरणकाल इत्यर्थः ।

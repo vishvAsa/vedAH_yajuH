@@ -2,8 +2,9 @@
 title = "०७ ०७ अग्निस्स्विष्टकृद् द्वितीयः"
 
 +++
-## सूत्रम्
-अग्निस्स्विष्टकृद् द्वितीयः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_07_agnissviShTakRd_dvitIyaH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **अग्निः स्विष्टकृद् द्वितीयो** भवति देवतात्वेन ।

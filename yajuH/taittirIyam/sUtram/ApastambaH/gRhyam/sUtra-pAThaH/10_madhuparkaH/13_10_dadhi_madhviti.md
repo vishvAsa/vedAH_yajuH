@@ -2,8 +2,9 @@
 title = "१३ १० दधि मध्विति"
 
 +++
-## सूत्रम्
-दधि मध्विति संसृज्य कांस्येन वर्षीयसा पिधाय कूर्चाभ्यां परिगृह्य "मधुपर्क" इति प्राह ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_10_dadhi_madhviti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **वर्षीयसा** बृहता **कांस्येन** पात्रेण मधुपर्कं प्राह ।

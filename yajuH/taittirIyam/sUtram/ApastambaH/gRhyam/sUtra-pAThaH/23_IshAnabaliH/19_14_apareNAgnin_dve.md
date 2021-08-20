@@ -2,8 +2,9 @@
 title = "१९ १४ अपरेणाग्निन् द्वे"
 
 +++
-## सूत्रम्
-अपरेणाग्निं द्वे कुटी कृत्वा।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/19_14_apareNAgnin_dve.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 तत अग्नेः पश्चात् **द्वे कुटी** करोति देवाय देव्यै च ।

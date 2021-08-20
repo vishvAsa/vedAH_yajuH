@@ -2,8 +2,9 @@
 title = "०८ १२ यदा मलवद्वासाः"
 
 +++
-## सूत्रम्
-यदा मलवद्वासाः स्यादथैनां ब्राह्मणप्रतिषिद्धानि कर्माणि सँशास्ति "या मलवद्वासस"मित्येतानि ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_12_yadA_malavadvAsAH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **मलवद्वासा** इति रजस्वलाया अभिधानम् ।

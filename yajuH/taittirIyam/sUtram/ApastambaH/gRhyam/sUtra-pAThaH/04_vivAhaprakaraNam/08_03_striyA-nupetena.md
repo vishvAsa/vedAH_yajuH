@@ -2,8 +2,9 @@
 title = "०८ ०३ स्त्रियाऽनुपेतेन"
 
 +++
-## सूत्रम्
-स्त्रियाऽनुपेतेन क्षारलवणावरान्नसंसृष्टस्य च होमं परिचक्षते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_03_striyA-nupetena.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 "यस्याग्नौ न क्रियते न तद्भोक्तव्यम्" (आप.ध.२-१५-११.) इति धर्मशास्त्रवचनात् शरीरस्थित्यर्थमपि भोजनं द्विजस्य वैश्वदेवशेषेणैव भवितव्यम् ।

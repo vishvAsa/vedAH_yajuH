@@ -2,8 +2,9 @@
 title = "०५ ०५ जुहोतीयन् नारीति"
 
 +++
-## सूत्रम्
-जुहोतीयं नारीति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_05_juhotIyan_nArIti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 वरस्यैव जुहोतिक्रिया ।

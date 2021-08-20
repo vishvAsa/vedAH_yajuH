@@ -2,8 +2,9 @@
 title = "०३ १२ दत्ताङ् गुप्ताम्"
 
 +++
-## सूत्रम्
-दत्तां गुप्तां द्योतामृषभां शरभां विनतां विकटां मुण्डां मण्डूषिकां साङ्कारिकां रातां पालीं मित्रां स्वनुजां वर्षकारीं च वर्जयेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_12_dattA~N_guptAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **दता**वाचान्यस्मै दत्ता ।

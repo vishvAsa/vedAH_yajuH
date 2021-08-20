@@ -2,8 +2,9 @@
 title = "१६ १२ एवङ् गोदानम्"
 
 +++
-## सूत्रम्
-एवं गोदानम् अन्यस्मिन्न् अपि नक्षत्रे षोडशे वर्षे।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_12_eva~N_godAnam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 यथा चौलं **एवम्** अस्य **गोदाना**ख्यम् अपि कर्म कर्तव्यम् ।

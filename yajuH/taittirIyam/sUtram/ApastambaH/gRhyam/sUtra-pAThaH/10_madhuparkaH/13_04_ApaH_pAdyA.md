@@ -2,8 +2,9 @@
 title = "१३ ०४ आपः पाद्या"
 
 +++
-## सूत्रम्
-आपः पाद्या इति प्राह ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/10_madhuparkaH/13_04_ApaH_pAdyA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 अथ मधुपर्कप्रदाता पादप्रक्षालनार्थं अप उपसंगृह्य "आपः पाद्या" इति प्राह ॥४॥

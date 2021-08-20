@@ -2,8 +2,9 @@
 title = "०६ ०५ क्षीरिणामन्येषां वा"
 
 +++
-## सूत्रम्
-क्षीरिणामन्येषां वा लक्ष्मण्यानां वृक्षाणां नदीनां धन्वनां च व्यतिक्रम उत्तरे यथालिङ्गं जपेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_05_xIriNAmanyeShAM_vA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **क्षीरिणां** न्यग्रोधादीनामलक्ष्मण्यानाम्, अन्येषामपि **लक्षण्यानां** लक्षणयुक्तानां प्रसिद्धानां सीमावृक्षणामित्यर्थः ।

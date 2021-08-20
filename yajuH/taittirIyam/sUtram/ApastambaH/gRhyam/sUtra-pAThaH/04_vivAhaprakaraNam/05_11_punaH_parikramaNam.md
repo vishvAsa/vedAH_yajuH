@@ -2,8 +2,9 @@
 title = "०५ ११ पुनः परिक्रमणम्"
 
 +++
-## सूत्रम्
-पुनः परिक्रमणम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_11_punaH_parikramaNam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 पुनश्शब्दः पूर्ववत् ॥११॥

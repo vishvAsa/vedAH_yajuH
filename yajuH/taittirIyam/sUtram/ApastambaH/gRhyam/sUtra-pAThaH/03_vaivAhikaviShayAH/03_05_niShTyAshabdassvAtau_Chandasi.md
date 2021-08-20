@@ -2,8 +2,9 @@
 title = "०३ ०५ निष्ट्याशब्दस्स्वातौ छन्दसि"
 
 +++
-## सूत्रम्
-निष्ट्याशब्दस्स्वातौ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_05_niShTyAshabdassvAtau_Chandasi.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 छन्दसि प्रयुक्तत्वादेतयोरर्थकथनम् ॥४॥

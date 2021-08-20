@@ -3,8 +3,9 @@ title = "२२ १४ रथं लब्ध्वा"
 
 +++
 
-## सूत्रम्
-रथं लब्ध्वा योजयित्वा प्राञ्चमवस्थाप्योत्तरया रथचक्रे अभिमृशति पक्षसी वा।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_14_rathaM_labdhvA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 इदानीं यदि याच्ञया रथादीनि लब्धानि, तदा केन विधिना स्वीकारः? इत्युत्तरे विधये आरभ्यन्ते—

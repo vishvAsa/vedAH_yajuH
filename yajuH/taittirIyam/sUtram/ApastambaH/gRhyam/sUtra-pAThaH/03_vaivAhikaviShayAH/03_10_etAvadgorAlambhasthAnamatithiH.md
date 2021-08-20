@@ -2,8 +2,9 @@
 title = "०३ १० एतावद्गोरालम्भस्थानमतिथिः"
 
 +++
-## सूत्रम्
-एतावद्गोरालम्भस्थानमतिथिः पितरो विवाहश्च।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_10_etAvadgorAlambhasthAnamatithiH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 एतेष्वेव त्रिषु स्थानेषु गोरालम्भः नान्यत्र पाकयज्ञेषु ।

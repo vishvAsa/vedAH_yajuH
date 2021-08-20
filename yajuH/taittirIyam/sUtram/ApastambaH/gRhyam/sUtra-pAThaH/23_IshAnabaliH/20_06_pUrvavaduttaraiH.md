@@ -2,8 +2,9 @@
 title = "२० ०६ पूर्ववदुत्तरैः "
 
 +++
-## सूत्रम्
-पूर्ववदुत्तरैः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_06_pUrvavaduttaraiH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 पूर्ववद्**उत्तरैर्**मन्त्रैः "द्वारापोस्पृशे"त्यादिभिः चतुर्भिः पर्णानि देयानि **पूर्ववद्** एकैकेन द्वे द्वे इत्यर्थः ।

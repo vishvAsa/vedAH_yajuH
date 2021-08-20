@@ -2,8 +2,9 @@
 title = "०२ ०१ येन जुहोति"
 
 +++
-## सूत्रम्
-येन जुहोति तदग्नौ प्रतितप्य दर्भैः सम्मृज्य पुनः प्रतितप्य प्रोक्ष्य निधाय दर्भानद्भिस्संस्पृश्याग्नौ प्रहरति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_01_yena_juhoti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 संमार्जनं सुग्वत् ।

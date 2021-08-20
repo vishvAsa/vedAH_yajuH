@@ -2,8 +2,9 @@
 title = "०१ ०५ पुरस्तादुदग्वोपक्रमः अनियमे"
 
 +++
-## सूत्रम्  
-पुरस्तादुदग्वोपक्रमः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_05_purastAdudagvopakramaH_aniyame.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला  
 अनियमे नियमार्थमिदं वचनम् ।

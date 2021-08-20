@@ -2,8 +2,9 @@
 title = "०५ २२ वाहावुत्तराभ्यां युनक्ति"
 
 +++
-## सूत्रम्
-वाहावुत्तराभ्यां युनक्ति दक्षिणमग्रे।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_22_vAhAvuttarAbhyAM_yunakti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 याभ्यामूह्यते रथः तौ **वाहौ** अश्वावनड्वाहौ वा ।

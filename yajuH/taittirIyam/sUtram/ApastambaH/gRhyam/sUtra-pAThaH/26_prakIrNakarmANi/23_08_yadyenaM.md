@@ -2,8 +2,9 @@
 title = "२३ ०८ यद्येनं"
 
 +++
-## सूत्रम्
-यद्येनं वृक्षात्फलमभिनिपतेद्वयो वाऽभिविक्षिपेदवर्षतर्क्ये वा बिन्दुरभिनिपतेत्तदुत्तरैर्यथालिङ्गं प्रक्षालयीत ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_08_yadyenaM.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **एनं** स्नातकं **वृक्षात्** प्रच्युतफलं **यद्यभिनिपतेत्** शिरसि प्रदेशान्तरे वा ।

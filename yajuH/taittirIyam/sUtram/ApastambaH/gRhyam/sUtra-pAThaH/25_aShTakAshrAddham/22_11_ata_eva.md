@@ -2,8 +2,9 @@
 title = "२२ ११ अत एव"
 
 +++
-## सूत्रम्
-अत एव यथार्थं माँसँ शिष्ट्वा श्वोभूतेऽन्वष्टकाम् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_11_ata_eva.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **अत एवा**स्या एव गोरेकाष्टकायामालब्धायां मांसं यस्य यथार्थं यावत्प्रयोजनं शिष्ट्वा श्वोभूते नवम्यामन्वष्टकानाम कर्म कर्तव्यम् ।

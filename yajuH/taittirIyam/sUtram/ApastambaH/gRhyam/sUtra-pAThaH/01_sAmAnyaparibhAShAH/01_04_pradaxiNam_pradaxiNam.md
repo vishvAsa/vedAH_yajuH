@@ -2,8 +2,9 @@
 title = "०१ ०४ प्रदक्षिणम् प्रदक्षिणम्"
 
 +++
-## सूत्रम्  
-प्रदक्षिणम्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_04_pradaxiNam_pradaxiNam.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 
 ## अनाकुला  

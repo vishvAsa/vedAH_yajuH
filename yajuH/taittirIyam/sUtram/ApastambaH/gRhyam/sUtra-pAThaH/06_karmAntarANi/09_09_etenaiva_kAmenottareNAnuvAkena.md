@@ -2,8 +2,9 @@
 title = "०९ ०९ एतेनैव कामेनोत्तरेणानुवाकेन"
 
 +++
-## सूत्रम्
-एतेनैव कामेनोत्तरेणानुवाकेन सदादित्यमुपतिष्ठते ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_09_etenaiva_kAmenottareNAnuvAkena.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अथान्यदपि सपत्नीबाधनमाह—

@@ -2,8 +2,9 @@
 title = "०८ ०८ त्रिरात्रमुभयोरधश्शय्या"
 
 +++
-## सूत्रम्
-त्रिरात्रमुभयोरधश्शय्या ब्रह्मचर्यं क्षारलवणवर्जनं च ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_08_trirAtramubhayoradhashshayyA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 स्थालीपाकादारभ्य **त्रिरात्रमुभयोः** दम्पत्योः **अधश्शय्या** नोपरि खट्वादौ ।

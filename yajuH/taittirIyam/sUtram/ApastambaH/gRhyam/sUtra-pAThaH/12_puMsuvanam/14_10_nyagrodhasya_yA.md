@@ -2,8 +2,9 @@
 title = "१४ १० न्यग्रोधस्य या"
 
 +++
-## सूत्रम्
-न्यग्रोधस्य या प्राच्युदीची वा शाखा ततस्सवृषणां शुङ्गामाहृत्य सीमन्तवदग्नेरुपसमाधानादि ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/12_puMsuvanam/14_10_nyagrodhasya_yA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **न्यग्रोधस्य** वृक्षस्य **या प्राची शाखोदीची वा** तस्याः **शुङ्गाम्** अग्राङ्कुरं **सवृषणां** फलं वृषणमिति व्यपदिश्यते सादृश्यादेव ।

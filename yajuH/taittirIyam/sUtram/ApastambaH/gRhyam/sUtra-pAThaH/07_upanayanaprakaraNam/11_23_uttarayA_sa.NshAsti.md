@@ -2,8 +2,9 @@
 title = "११ २३ उत्तरया सँशास्ति"
 
 +++
-## सूत्रम्
-उत्तरया सँशास्ति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_23_uttarayA_sa.NshAsti.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 अथं तं **उत्तरयर्चा** "ब्रह्मचार्यसी"त्येतया **संशास्ति** गुरुः संशिक्षयतीत्यर्थः यथापाठामृचा संशासनं अर्थं च कथयति ।

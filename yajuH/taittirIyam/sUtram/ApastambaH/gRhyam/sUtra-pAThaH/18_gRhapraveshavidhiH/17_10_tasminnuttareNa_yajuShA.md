@@ -2,8 +2,9 @@
 title = "१७ १० तस्मिन्नुत्तरेण यजुषा"
 
 +++
-## सूत्रम्
-तस्मिन्नुत्तरेण यजुषा चतुर उदकुम्भानानयति।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_10_tasminnuttareNa_yajuShA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **उत्तरेण यजुषा**"अरिष्टा अस्माकम्" इत्यनेन ।

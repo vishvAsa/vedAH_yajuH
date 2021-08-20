@@ -2,8 +2,9 @@
 title = "०३ ०१ मघाभिर्गावो गृह्यन्ते"
 
 +++
-## सूत्रम्
-मघाभिर्गावो गृह्यन्ते।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_01_maghAbhirgAvo_gRhyante.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 यदि मघाभिः गावः क्रयादिना गृह्यन्ते ताश्च गावः प्रतिनन्दिता भवन्ति ।
 तस्मात् गोपरिग्रहे मघाः प्रशस्ताः ॥१॥

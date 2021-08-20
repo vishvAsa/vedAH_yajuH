@@ -2,8 +2,9 @@
 title = "११ ०२ प्रष्टम् परस्य"
 
 +++
-## सूत्रम्
-प्रष्टं परस्य प्रतिवचनं कुमारस्य।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_02_praShTam_parasya.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुलावृत्तिः
 "को नामासी"त्येवमादयः चत्वारो मन्त्राः पृष्टप्रतिवचनार्थाः ।

@@ -2,8 +2,9 @@
 title = "०२ १५ आवृतश्चास्त्रीभ्यः प्रतीयेरन्"
 
 +++
-## सूत्रम्
-आवृतश्चास्त्रीभ्यः प्रतीयेरन्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_15_AvRtashchAstrIbhyaH_pratIyeran.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 मन्त्ररहिताः क्रियाः **आवृत** इत्युच्यन्ते ।

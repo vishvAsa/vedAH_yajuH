@@ -2,8 +2,9 @@
 title = "०३ ०४ इन्वकाशब्दो मृगशिरसि"
 
 +++
-## सूत्रम्
-इन्वकाशब्दो मृगशिरसि।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_04_invakAshabdo_mRgashirasi.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम्।)+++

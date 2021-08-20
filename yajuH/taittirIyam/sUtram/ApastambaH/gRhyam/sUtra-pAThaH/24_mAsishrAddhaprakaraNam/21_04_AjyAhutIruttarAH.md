@@ -2,8 +2,9 @@
 title = "२१ ०४ आज्याहुतीरुत्तराः"
 
 +++
-## सूत्रम्
-आज्याहुतीरुत्तराः।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/24_mAsishrAddhaprakaraNam/21_04_AjyAhutIruttarAH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 षडाज्याहुतीर्जुहोति–स्वाहा पित्र इत्याद्याः ।
 तत्र "स्वाहा पित्र" इति पुरस्तात् स्वाहाकारत्वान्नान्ते स्वाहाकारः ।

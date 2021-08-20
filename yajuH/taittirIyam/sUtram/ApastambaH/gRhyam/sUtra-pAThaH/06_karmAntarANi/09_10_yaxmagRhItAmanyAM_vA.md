@@ -2,8 +2,9 @@
 title = "०९ १० यक्ष्मगृहीतामन्यां वा"
 
 +++
-## सूत्रम्
-यक्ष्मगृहीतामन्यां वा ब्रह्मचर्ययुक्तः पुष्करसंवर्तमूलैरुत्तरैर्यथालिङ्गमङ्गानि सम्मृश्य प्रतीचीनं निरस्येत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_10_yaxmagRhItAmanyAM_vA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **यक्ष्मा** राजयक्ष्मा क्षयरोगः ।

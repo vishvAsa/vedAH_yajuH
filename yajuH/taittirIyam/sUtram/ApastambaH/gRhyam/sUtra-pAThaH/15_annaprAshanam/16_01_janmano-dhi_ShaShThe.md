@@ -2,8 +2,9 @@
 title = "१६ ०१ जन्मनोऽधि षष्ठे"
 
 +++
-## सूत्रम्
-जन्मनोऽधि षष्ठे मासि ब्राह्मणान् भोजयित्वाऽऽशिषो वाचयित्वा दधि मधु घृतमोदनमिति सँसृज्योत्तरैर्मन्त्रैः कुमारं प्राशयेत् ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/15_annaprAshanam/16_01_janmano-dhi_ShaShThe.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## प्रस्तावः
 अथान्नप्राशनमुपदिश्यते—

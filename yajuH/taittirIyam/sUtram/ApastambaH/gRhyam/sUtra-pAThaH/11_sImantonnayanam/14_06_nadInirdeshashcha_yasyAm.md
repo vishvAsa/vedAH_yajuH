@@ -2,8 +2,9 @@
 title = "१४ ०६ नदीनिर्देशश्च यस्याम्"
 
 +++
-## सूत्रम्
-नदीनिर्देशश्च यस्यां वसन्ति ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_06_nadInirdeshashcha_yasyAm.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 द्वितीये मन्त्रे असौ शब्दस्य स्थाने नद्या नाम संबुध्या निर्देष्टव्यम् ।

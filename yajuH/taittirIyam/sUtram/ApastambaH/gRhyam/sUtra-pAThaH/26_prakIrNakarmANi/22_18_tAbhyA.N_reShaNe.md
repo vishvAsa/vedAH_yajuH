@@ -2,8 +2,9 @@
 title = "२२ १८ ताभ्याँ रेषणे"
 
 +++
-## सूत्रम्
-ताभ्याँ रेषणे पूर्ववत् पृथिवीमभिमृशेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_18_tAbhyA.N_reShaNe.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 ताभ्यां अश्वहस्तिभ्यां, **रेषणे** शरीरोपमर्दे जाते **पूर्ववत्** हेमन्तप्रत्यवरोहणवत् **पृथिवीमभिमृशेत्** ।

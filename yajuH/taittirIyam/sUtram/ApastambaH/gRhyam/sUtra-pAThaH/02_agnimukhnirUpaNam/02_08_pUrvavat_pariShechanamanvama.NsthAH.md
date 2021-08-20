@@ -2,8 +2,9 @@
 title = "०२ ०८ पूर्ववत् परिषेचनमन्वमँस्थाः"
 
 +++
-## सूत्रम्
-पूर्ववत् परिषेचनमन्वमँस्थाः प्रासावीरिति मन्त्रसन्नामः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **पूर्ववदिति** ।

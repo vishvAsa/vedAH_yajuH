@@ -2,8 +2,9 @@
 title = "०१ ०२ उदगयन-पूर्वपक्षाहः-पुण्याहेषु"
 
 +++
-## सूत्रम्  
-उदगयन-पूर्वपक्षाहः-पुण्याहेषु कार्याणि।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_02_udagayana-pUrvapaxAhaH-puNyAheShu.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला  
 उदगयनादिविधानं दक्षिणायनादिप्रतिषेधार्थम् ।

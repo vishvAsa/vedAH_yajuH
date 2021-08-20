@@ -2,8 +2,9 @@
 title = "०८ ०७ एतदहर्विजानीयाद्यदहर्भार्यामावहते "
 
 +++
-## सूत्रम्
-एतदहर्विजानीयाद्यदहर्भार्यामावहते ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_07_etadaharvijAnIyAdyadaharbhAryAmAvahate.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 **एतदहः** एतन्नक्षत्रम् ।

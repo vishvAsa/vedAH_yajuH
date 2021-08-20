@@ -2,8 +2,9 @@
 title = "०६ ११ अथास्याः पुँस्वोर्जीवपुत्रायाः"
 
 +++
-## सूत्रम्
-अथास्याः पुँस्वोर्जीवपुत्रायाः पुत्रमङ्क उत्तरयोपवेश्य तस्मै फलान्युत्तरेण यजुषा प्रदायोत्तरे जपित्वा वाचं यच्छत आ नक्षत्रेभ्यः ।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_11_athAsyAH_pu.NsvorjIvaputrAyAH.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 
 ## अनाकुला
 या पुमांसमेव सूते न स्त्रियं सा पुंसूः" तस्याः पुंस्वः पुंस्वो जीवपुत्राया इति पाठः ।

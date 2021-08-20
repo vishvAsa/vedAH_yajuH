@@ -2,8 +2,9 @@
 title = "०३ १४ सर्वाश्च रेफलकारोपान्ता"
 
 +++
-## सूत्रम्
-सर्वाश्च रेफलकारोपान्ता वरणे परिवर्जयेत्।
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_14_sarvAshcha_rephalakAropAntA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
+
 ## अनाकुला
 नक्षत्रं नाम यासां ता तथा **नक्षत्रनामाः, नदीनामाः वृक्षनामाश्च** रोहिणी गङ्गा करेजेत्यादयः ।
 ताश्च विवाहे **गर्हिताः ।** तथा
