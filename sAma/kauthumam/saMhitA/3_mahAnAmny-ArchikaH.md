@@ -1,5 +1,5 @@
 +++
-title = "३ महानाम्न्यार्चिकः"
+title = "३ महानाम्न्य्-आर्चिकः"
 unicode_script = "devanagari"
 
 +++

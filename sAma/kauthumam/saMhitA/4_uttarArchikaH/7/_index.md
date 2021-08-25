@@ -1,5 +1,5 @@
 +++
-title = "७"
+title = "+७"
 unicode_script = "devanagari"
 
 +++
