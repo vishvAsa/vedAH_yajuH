@@ -1,5 +1,9 @@
 +++
 title = "16-1_1090 उभे यदिन्द्र"
+similar_rv = "/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/134/01_ubhe_yadindra.md"
+edit_distance_to_rv = 0.008
 
 +++
 उ꣣भे꣡ यदि꣢꣯न्द्र꣣ रो꣡द꣢सी आप꣣प्रा꣢थो꣣षा꣡ इ꣢व। म꣣हा꣡न्तं꣢ त्वा म꣣ही꣡ना꣢ꣳ स꣣म्रा꣡जं꣢ चर्षणी꣣ना꣢म्। दे꣣वी꣡ जनि꣢꣯त्र्यजीजनद्भ꣣द्रा꣡ जनि꣢꣯त्र्यजीजनत् ॥ 16-1:1090 ॥
+
+<div class="js_include " url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/134/01_ubhe_yadindra.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>

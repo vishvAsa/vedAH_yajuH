@@ -1,5 +1,9 @@
 +++
 title = "43_0628 विभ्राड् बृहत्पिबतु"
+similar_rv = "/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/170/01_vibhrADbRhatpibatu_somyaM.md"
+edit_distance_to_rv = 0.078
 
 +++
 वि꣣भ्रा꣡ड् बृ꣣ह꣡त्पि꣢बतु सो꣣म्यं꣢꣫ मध्वायु꣣र्द꣡ध꣢द्य꣣ज्ञ꣡प꣢ता꣣व꣡वि꣢ह्रुतम्। वा꣡त꣢꣯जूतो꣣ यो꣡ अ꣢भि꣣र꣡क्ष꣢ति꣣ त्म꣡ना꣢ प्र꣣जाः꣡ पि꣢पर्ति ब꣣हुधा꣡ वि रा꣢꣯जति ॥ 43:0628 ॥
+
+<div class="js_include " url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/170/01_vibhrADbRhatpibatu_somyaM.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
