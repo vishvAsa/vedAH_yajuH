@@ -5,9 +5,10 @@ unicode_script: devanagari
 ---
 
 ## ऋक्
-भूः - स्वर्ज्योतिः। भुवः - स्वर्ज्योतिः। सुवः - स्वर्ज्योतिः। सत्यम् - स्वर्ज्योतिः। पुरुषः - स्वर्ज्योतिः। 
+भूः - स्वर्ज्योतिः। भुवः - स्वर्ज्योतिः। सुवः - स्वर्ज्योतिः। सत्यम् - स्वर्ज्योतिः। पुरुषः - स्वर्ज्योतिः।
 
-<div class="js_include" url="/devaH/hindukaH/AdityaH/Rk/tat_savitur/"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md"  newLevelForH1="2" includeTitle="true"> </div>  
+
 
 ## साम
 

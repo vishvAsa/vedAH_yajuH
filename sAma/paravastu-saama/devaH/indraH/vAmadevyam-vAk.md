@@ -8,16 +8,20 @@ practice_weight: 0
 ## ऋक्
 [अस्मिन् निम्ने निधामहे]  
 
-<div class="js_include" url="/devaH/hindukaH/indraH/Rk/kayA_nash_chitra/"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 [अन्तरिक्षे सलिलं लेलाय]
 
-## साम 
-- पारम्परिक-गान-मूलम् 
+## साम
+- पारम्परिक-गान-मूलम्
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
-  
+
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAmadevyam-vAk.mp3"></div>

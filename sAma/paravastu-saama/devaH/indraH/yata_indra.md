@@ -7,7 +7,7 @@ practice_weight: 0
 ---
 
 ## ऋक्
-<div class="js_include" url="/devaH/hindukaH/indraH/Rk/yata_indra/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/061/13_yata_indra.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
@@ -21,5 +21,5 @@ practice_weight: 0
 
 
 
-य+++([])+++ताआ, अइन्द्राअ, भायामहाइ । त+++([])+++तो, नो, आ, भायंका, अर्धि । म+++([])+++घवन्,  चग्धि, तवत०, नऊता, अयाइ । वि+++([])+++द्वाइषो, ओवि । मा+++([])+++र्धो, जहि । इ+++([])+++डा, अभाअअ । 
+य+++([])+++ताआ, अइन्द्राअ, भायामहाइ । त+++([])+++तो, नो, आ, भायंका, अर्धि । म+++([])+++घवन्,  चग्धि, तवत०, नऊता, अयाइ । वि+++([])+++द्वाइषो, ओवि । मा+++([])+++र्धो, जहि । इ+++([])+++डा, अभाअअ ।
 ओ+++([])+++इ । डा+++([])+++अ ॥

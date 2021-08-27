@@ -6,7 +6,11 @@ unicode_script: devanagari
 
 ## ऋक्
 
-<div class="js_include" url="/devaH/hindukaH/indraH/Rk/kayA_nash_chitra/"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ## साम - वामदेव्यम्।

@@ -6,15 +6,14 @@ practice_weight: 0
 ---
 
 ## ऋक्
-<div class="js_include" url="/devaH/hindukaH/indraH/Rk/indran_naro/"  newLevelForH1="3" includeTitle="false"> </div>
-
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/027/01_indraM_naro.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## साम
-- पारम्परिक-गान-मूलम् 
+- पारम्परिक-गान-मूलम्
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
-  
+
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rAjanam.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive

@@ -5,7 +5,11 @@ unicode_script: devanagari
 
 ## ऋक्
 अधो वर्तमति प्रथमा ऽर्क्।
-<div class="js_include" url="/devaH/hindukaH/indraH/Rk/kayA_nash_chitra/"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## निधनानि ५
 - [इह प्रजाम् इह रयिम् रराण!]  
@@ -16,7 +20,7 @@ unicode_script: devanagari
 
 ## साम
 
-- पारम्परिक-गान-मूलम् 
+- पारम्परिक-गान-मूलम्
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
@@ -68,4 +72,3 @@ unicode_script: devanagari
 {हा+++([])+++उ}+++(त्रिः)+++ {ए+++([]--%३)+++,हिय+++(~~या~~)+++, हाउ}+++(द्विः)+++  
 ए+++([])+++,हियाअअ औ+++([])+++हो+++(%३)+++वाअ ।  
 च+++([])+++रा+++(३)+++चरा+++(%३)+++य, बृहाता+++(")+++, इ+++([])+++दव्ँ वा+++(")+++आमा+++(")+++म्, ईद+++(")+++म् बृहद्धस्अ+++("२)+++ ।
-
