@@ -7,11 +7,11 @@ practice_weight: 0
 
 ## ऋक्
 
-<div class="js_include" url="/devaH/hindukaH/lokAntaram/Rk/manye_vAm_dyAvApRthivI/"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/37_0622_manye_vAm.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-## साम 
+## साम
 
-- पारम्परिक-गान-मूलम् 
+- पारम्परिक-गान-मूलम्
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
@@ -28,7 +28,7 @@ practice_weight: 0
 म+++([])+++न्ये वां, द्यावा, पृधिवी, सुभोजसा, ऐहिइ।  
 ये+++([])+++ अप्रथेता,म् अमि+++(~~भि~~)+++तम् अभि,योजना,मैहिइ।  
 द्या+++([])+++वा, पृथिवी, भवतम् स्योना, ऐहिइ।  
-ते+++([])+++ नो मुञ्चत,मंहसा, ऐहिइ। 
+ते+++([])+++ नो मुञ्चत,मंहसा, ऐहिइ।
 
 प्र+++([])+++तिष्ठा+++(~~टा~~)+++सि, प्रतिष्ठा+++(~~टा~~[])+++॥एवम् त्रिः॥  
 व+++([])+++र्चोसि, मनोसि, ऐहिइ। ह+++([])+++उवा।
