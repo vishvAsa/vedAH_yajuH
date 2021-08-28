@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 
 ## ऋक्
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/007/01_mUrdhAnaM_divo.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/13_0067_mUrdhAnan_divo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
