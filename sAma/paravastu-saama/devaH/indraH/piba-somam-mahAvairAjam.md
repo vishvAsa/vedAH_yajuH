@@ -8,7 +8,7 @@ unicode_script: devanagari
 
 आ याहि पिब मत्स्व। ओजः सहो बलम् इन्द्रो वयो बृहद् ऋतं स्वर् ज्योतिर् दधे।
 
-<div class="js_include" url="/devaH/hindukaH/indraH/Rk/piba_somam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/08_0398_pibA_somamindra.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 सधं मे। ऋतं मे। पिब मत्स्व!

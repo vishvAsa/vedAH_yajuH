@@ -8,7 +8,9 @@ practice_weight: 0
 ## ऋक्
 [अस्मिन् निम्ने निधामहे]  
 
-<div class="js_include" url="/devaH/hindukaH/indraH/Rk/kayA_nash_chitra/"  newLevelForH1="3" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/2/25_0169_kayA_nashchitra.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
 
 ## साम
 - अन्यकौथुम-गानान्य् [अत्र](https://archive.org/details/in.ernet.dli.2015.487112/page/n392)।

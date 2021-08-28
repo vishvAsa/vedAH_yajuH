@@ -1,12 +1,12 @@
 ---
-title: मूर्धानं दिवः - आज्यदोहम् 
+title: मूर्धानं दिवः - आज्यदोहम्
 unicode_script: devanagari  
 
 practice_weight: 0
 ---
 
 ## ऋक्
-<div class="js_include" url="/devaH/hindukaH/agniH/Rk/mUrdhAnam_divaH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/13_0067_mUrdhAnan_divo.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
 
 
@@ -65,4 +65,3 @@ practice_weight: 0
 च्यो+++([])+++,हम् ॥ द्विः ॥  
 च्यो+++([])+++,ओ, हउ । वा+++([])+++अ ।  
 ए+++([])+++ए । ऋ+++([])+++तम् ॥ ७ ॥
-
