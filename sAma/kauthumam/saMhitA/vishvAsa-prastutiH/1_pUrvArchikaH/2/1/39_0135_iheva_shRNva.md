@@ -1,7 +1,7 @@
 +++
 title = "39_0135 इहेव शृण्व"
 similar_rv = "/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/037/03_iheva_shRNva.md"
-edit_distance_to_rv = 0.016
+edit_distance_to_rv = 0.017
 
 +++
 इ꣣हे꣡व꣢ शृण्व एषां꣣ क꣢शा꣣ ह꣡स्ते꣢षु꣣ य꣡द्वदा꣢꣯न्। नि꣡ यामं꣢꣯ चि꣣त्र꣡मृ꣢ञ्जते ॥ 39:0135 ॥

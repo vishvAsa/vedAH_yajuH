@@ -1,7 +1,7 @@
 +++
 title = "34_0276 बण्महां असि"
 similar_rv = "/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/101/11_baNmahA_N_asi.md"
-edit_distance_to_rv = 0.151
+edit_distance_to_rv = 0.152
 
 +++
 ब꣢ण्म꣣हा꣡ꣳ अ꣢सि सू꣣र्य ब꣡डा꣢दित्य म꣣हा꣡ꣳ अ꣢सि। म꣣ह꣡स्ते꣢ स꣣तो꣡ म꣢हि꣣मा꣡ प꣢निष्टम म꣣ह्ना꣡ दे꣢व म꣣हा꣡ꣳ अ꣢सि ॥ 34:0276 ॥
