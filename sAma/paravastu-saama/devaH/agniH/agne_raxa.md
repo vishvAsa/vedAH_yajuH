@@ -10,13 +10,7 @@ unicode_script: devanagari
 
 ऊर्क्+++(=ओजः)+++! धर्मः अधर्मः विधर्मः सत्यं गाय। ऋतं वद।
 
-अ꣢ग्ने꣣ र꣡क्षा꣢ णो꣣ अ꣡ᳱह꣢सः꣣  
-प्र꣡ति꣢ स्म देव रीष꣣तः꣢ +++(=हिंसतः)+++  ।  
-त꣡पि꣢ष्ठैर꣣ज꣡रो꣢ दह ।।24  
-
-अग्ने रक्षा णो अंहसः  
-प्रति स्म देव रीषतः ।  
-तपिष्ठैर् अजरो दह  ।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/24_0024_agne_raxA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 {{< figure src="/devaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
 
