@@ -8,7 +8,7 @@ unicode_script: devanagari
 
 RV 9 97_+++(809)+++ 40 a
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/09/aMshAHakrAnt_samudraH.md"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/43_0529_akrAntsamudraH_prathame.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 मत्सि॑+++(=मादयसि)+++ वा॒युमि॒ष्टये॒ राध॑से च॒ +++(=राधसे नः इति साम्नि)+++ मत्सि॑ मि॒त्रावरु॑णा पू॒यमा॑नः ।  
 मत्सि॒ शर्धो॒ मारु॑तं॒ मत्सि॑ दे॒वान् मत्सि॒ द्यावा॑पृथि॒वी दे॑व सोम ४२
@@ -68,4 +68,3 @@ RV 9 97_+++(809)+++ 40 a
 {हो+++(%)+++ई+++([प्रे])+++इ।}+++([त्रिः])+++  
 हो+++(३)+++या+++(""३)+++, अवाअअअ औ+++(["])+++हो+++(["]%३)+++वा+++(३-")+++आ।  
 ईई+++(%%%)+++ई॥
-

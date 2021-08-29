@@ -10,13 +10,10 @@ unicode_script: devanagari
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n247&sa=D&ust=1542564218916000) कौथुमभाष्ये। वामदेवः।अग्निः])+++
 
-आ꣢ वो꣣ रा꣡जा꣢नमध्व꣣र꣡स्य꣢ रु꣣द्र꣡ᳱ  
-होता꣢꣯रᳱ सत्य꣣य꣢ज꣣ᳱ रो꣡द꣢स्योः।  
-अ꣣ग्निं꣢ पु꣣रा꣡ +++(आकस्मिकात्)+++ त꣢नयि꣣त्नो꣢र् +++(=विद्युतः)+++ आ꣣चि꣢त्ता꣣द्  
-+++(मरणात्)+++ +हि꣡र꣢ण्यरूप꣣म꣡व꣢से कृणुध्वम् ।।69
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/15_0069_A_vo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 आ वो राजानमध्वरस्य रुद्रं होतारं सत्ययजं रोदस्योः  ।  
-अग्निं पुरा तनयित्नोर् अचित्ताद् +हिरण्यरूपम् अवसे कृणुध्वम्  ।
+अग्निं पुरा तनयित्नोर् अचित्ताद् +हिरण्यरूपम् अवसे कृणुध्वम्  ।  
 
 {{< figure src="/devaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
 
