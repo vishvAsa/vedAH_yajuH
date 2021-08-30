@@ -1,5 +1,5 @@
 ---
-title: जराबोधीयम् 
+title: जराबोधीयम्
 unicode_script: devanagari  
 
 ---
@@ -8,13 +8,7 @@ unicode_script: devanagari
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n151) कौथुमभाष्ये। शुनशेपः। अग्निः।])+++
 
-१ १ १ ०२०५  
-ज꣡रा꣢+++(=स्तुति)+++बोध꣣ त꣡द् वि꣢विड्ढि+++(=प्रविश)+++  
-वि꣣शे꣡वि꣢शे य꣣ज्ञि꣡या꣢य।  
-स्तो꣡म꣢ᳱ+++(=स्तोत्रं)+++ रु꣣द्रा꣡य꣢ +++(ते)+++ दृशी꣣क꣢म् +++(=दर्शनीयम्)+++।।1 ।।
-
-जराबोध तद् विविड्ढि विशेविशे यज्ञियाय।  
-स्तोमं रुद्राय दृशीकम्॥
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/8/2/03-1_1663_jarAbodha_tadviviDDhi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 {{< figure src="/devaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
 
