@@ -10,14 +10,7 @@ RV.9.90.2a; SV.1.528a; 2.758a. P: abhi tripRTEMPiShTham Svidh.1.4.20; 5.16.
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n911/mode/2up&sa=D&ust=1542425956338000)। मैत्रावारुणिर् वसिष्ठः। अनुष्टुभ्। सोमः])+++
 
-अ॒भि त्रि॑पृ॒ष्ठं +++(=त्रिस्तोत्रम् त्रिसवनं वा)+++ वृष॑णं +++(=वर्षकम्)+++ वयो॒धाम् +++(=अन्नदम्)+++  
-आ॑ङ्गू॒षाणा॑म् +++(= आघोषवतां ([स्तोतॄणाम्]))+++ अवावशन्त +++(=शब्दायन्ते)+++ वाणीः ।
-
- वना +++(=उदकानि)+++ वसा॑नो वरु॑णो न सिन्धू॑न्+++(साम्नि विसर्गः)+++  
-वि र॑त्न॒धा द॑यते +++(=ददाति)+++ वारि॑याणि +++(=धनानि)+++ ।।
-
-अ꣣भि꣡ त्रि꣢पृ꣣ष्ठं꣡ वृष꣢꣯णं वयो꣣धा꣡मा꣢ङ्गो꣣षि꣡ण꣢मवावशंत꣣ वा꣡णीः꣢।  
-व꣢ना꣣ व꣡सा꣢नो꣣ व꣡रु꣢णो꣣ न꣢꣫ सिन्धू꣣र्वि꣡ र꣢त्न꣣धा꣡ द꣢यते꣣ वा꣡र्या꣢णि ।।1 ।।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/42_0528_abhi_tripRShTham.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 {{< figure src="/devaH/hindukaH/somaH/images/soma-extraction-watched-by-many-Rtvik-s.png"  class="thumbnail">}}
 
