@@ -8,14 +8,8 @@ unicode_script: devanagari
 कौथुमभाष्ये सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201803/page/n27)।  
 वारुणिः भृगुः। सोमः।
 
-१ ५ २ ०९०३   
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-वृ꣡षा꣢+++(=वर्षकः)+++  पवस्व꣣ धा꣡र꣢या  
-म꣣रु꣡त्व꣢ते +++(इन्द्राय)+++  च मत्स꣣रः꣢  +++(=मदकरः)+++।  
-वि꣢श्वा꣣ द꣡धा꣢न꣣ ओ꣡ज꣢सा ।।1 ।।
-
-वृषा पवस्व धारया मरुत्वते च मत्सरः।  
-विश्वा दधान ओजसा  ।
 
 {{< figure src="/devaH/hindukaH/somaH/images/soma-purification.png"  class="thumbnail">}}
 

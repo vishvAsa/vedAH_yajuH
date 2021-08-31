@@ -10,12 +10,7 @@ unicode_script: devanagari
 
 १ २ २ १००९  
 
-त्वा꣡व꣢तः+++(=त्वादृशस्य)+++ पुरूवसो  
-व꣣य꣡मि꣢न्द्र प्रणेतः।  
-स्म꣡सि꣢+++(=स्मः)+++ स्थातर् हरीणाम् +++(=अश्वानां हिरण्यकेशानाम् वा!)+++ ।।193
-
-त्वावतः पुरूवसो वयमिन्द्र प्रणेतः  ।  
-स्मसि स्थातर् हरीणाम्  ।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/2/49_0193_tvAvataH_purUvaso.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 {{< figure src="/devaH/hindukaH/indraH/images/indra-rising-to-protect-charriots-of-army.jpg"  class="thumbnail">}}
 
