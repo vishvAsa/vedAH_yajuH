@@ -75,8 +75,6 @@ title = "Unmatched files"
 /home/vvasuki/vishvAsa/vedAH/static/sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/29_0614_pAtyagnirvipo_agram.md
 /home/vvasuki/vishvAsa/vedAH/static/sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/30_0615_bhrAjantyagne_samidhAna.md
 /home/vvasuki/vishvAsa/vedAH/static/sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/31_0616_vasanta_innu.md
-/home/vvasuki/vishvAsa/vedAH/static/sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/34_0619_puruSha_evedam.md
-/home/vvasuki/vishvAsa/vedAH/static/sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/35_0620_tAvAnasya_mahimA.md
 /home/vvasuki/vishvAsa/vedAH/static/sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/37_0622_manye_vAm.md
 /home/vvasuki/vishvAsa/vedAH/static/sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/38_0623_harI_ta.md
 /home/vvasuki/vishvAsa/vedAH/static/sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/39_0624_yadvarcho_hiraNyasya.md
