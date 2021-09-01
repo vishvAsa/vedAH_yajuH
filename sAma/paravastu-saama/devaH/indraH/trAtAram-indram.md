@@ -11,6 +11,11 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/1/41_0333_trAtAramindramavitAramindraM_havehave.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
+### सस्तोभपाठः
+त्रा꣣ता꣢र꣣मि꣡न्द्र꣢मवि꣣ता꣢र꣣मि꣢न्द्र꣣ꣳ ह꣡वे꣢हवे सु꣣ह꣢व꣣ꣳ शू꣢र꣣मि꣡न्द्र꣢म्।  
+हु꣣वे꣢꣫+++(=ह्वयामि)+++ नु श꣣क्रं꣡ पु꣢रुहू꣣त꣡मिन्द्र꣢꣯मि꣣द꣢ꣳ  
+[+मघवस् स्वस्ति नो]  
+ह꣣वि꣢र्म꣣घ꣡वा꣢ वे꣣त्व+++(=वैतु =भक्षयतु)+++ इ꣡न्द्रः꣢ ॥ 41:0333 ॥
 
 
 {{< figure src="/devaH/hindukaH/indraH/images/indra-rising-to-protect-charriots-of-army.jpg"  class="thumbnail">}}
