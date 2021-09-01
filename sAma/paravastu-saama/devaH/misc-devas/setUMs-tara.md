@@ -9,13 +9,27 @@ unicode_script: devanagari
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201803/page/n273) कौथुमभाष्ये। ।])+++
 
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/09_0594_ahamasmi_prathamajA.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
 
 अ॒हम॑स्मि प्रथम॒जा +++(=प्रथमजनयिता)+++ ऋ॒तस्य॑ +++(=यज्ञस्य)+++ ।  
 पूर्वं॑ दे॒वेभ्यो॑ अ॒मृत॑स्य॒ नाभिः॑ ।  
 यो मा॒ ददा॑ति॒ स इदे॒व माऽऽवाः॑ +++(=आवृणोति)+++।  
 अ॒हम् अन्न॒म् अन्न॑म् अ॒दन्त॑म् अद्मि {→अदातारम् अन्नीभूतम्}।  
+
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/09_0594_ahamasmi_prathamajA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+### सस्तोभपाठः
+(सेतूंस् तर, दुस्तरान्। दानेनादानम्।)  
+अ꣣ह꣡म꣢स्मि प्रथम꣣जा꣢ ऋ꣣त꣢स्य꣣  
+(सेतूंस् तर, दुस्तरान्। अक्रोधेन क्रोधम्।)  
+पू꣡र्वं꣢ दे꣣वे꣡भ्यो꣢ अ꣣मृ꣡त꣢स्य꣣ ना꣡म꣢।  
+(सेतूंस् तर, दुस्तरान्। श्रद्धयाश्रद्धाम्।)  
+यो꣢ मा꣣ द꣡दा꣢ति꣣ स꣢꣫ इदे꣣व꣡मा꣢वद्  
+(सेतूंस् तर, दुस्तरान्। सत्येनानृतम्।)  
+अ꣣ह꣢꣫मन्न꣣म꣡न्न꣢म꣣द꣡न्त꣢मद्मि ।।594  
+(एषा गतिः। एतद् अमृतम्।  
+स्वर्गच्छ! ज्योतिर् गच्छ!  
+सेतूंस् तीर्त्वा चतुरः।) ॥
+
 
 ## साम
 - [पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
