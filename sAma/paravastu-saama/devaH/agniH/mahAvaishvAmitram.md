@@ -28,7 +28,7 @@ RV.6.48.2d; SV.2.54d; VS.27.44d; MS.2.13.9d: 159.13; KS.39.12d; JB.1.177; 2.137;
 अ॑स्म॒युर् +++(=अस्मान् कामयमानः)+++ दाशे॑म ह॒व्यदा॑तये +++(=हव्यदात्रे)+++ ।  
 भुव॒द् वाजे॑ष्व् +++(=युद्धेषु)+++ अवि॒ता भुव॑द् वृ॒ध +++(=वर्धकः)+++ उ॒त त्रा॒ता त॒नूना॑म् +++(=तनयानाम्)+++२
 
-{{< figure src="/saMskAra/mantraH/agniH/images/agni-headed-man-on-elephant-rushing-behind-his-army-column-.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/agniH/images/agni-headed-man-on-elephant-rushing-behind-his-army-column-.jpg"  class="thumbnail">}}
 
 ## साम
 

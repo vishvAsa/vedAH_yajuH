@@ -4,26 +4,14 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
-+++(सूर्यो)+++ वि॒भ्राड् बृ॒हत् पि॑बतु सो॒म्यं+++(=सोममयं)+++ मध्व्  
-आयु॒र् दध॑द् य॒ज्ञप॑ता॒व् अवि॑ह्रुतम्+++(=अकुटिलम्)+++ ।  
-वात॑-जूतो॒+++(=प्रेरितो)+++ यो अ॑भि॒रक्ष॑ति॒ त्मना॑ प्र॒जाः  
-पु॑पोष पुरु॒+++(=बहु)+++धा वि रा॑जति ॥ १
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/170/01_vibhrADbRhatpibatu_somyaM.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-वि॒भ्राड् बृ॒हत् सुभृ॑तं वाज॒+++(=बल)+++-सा+++(दातृ)+++त॑मं॒  
-धर्म॑न्+++(णि =धारयितव्ये)+++ दि॒वो ध॒रुणे॑+++(=धारके [सूर्यमण्डले])+++ स॒त्यम् अर्पि॑तम् ।  
-अ॒मि॒त्र॒हा वृ॑त्र॒हा द॑स्यु॒हन्त॑मं॒  
-ज्योति॑र् जज्ञे असुर॒हा स॑पत्न॒हा ॥ २
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/170/02_vibhrADbRhatsubhRtaM_vAjasAtamaM.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-इ॒दं श्रेष्ठं॒ ज्योति॑षां॒ ज्योति॑र् उत्त॒मं  
-वि॑श्व॒जिद् ध॑न॒जिद् उ॑च्यते बृ॒हत् ।  
-वि॒श्व॒भ्राड् भ्रा॒जो+++(=भ्राजमानः)+++ महि॒+++(=महान्)+++ सूर्यो॑ दृ॒श+++(=दर्शनाय)+++  
-उ॒रु प॑प्रथे॒ सह॒+++(=अभिभवितृ)+++ ओजो॒ अच्यु॑तम् ॥ ३
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/170/03_idaM_shreShThaM.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-वि॒भ्राज॒ञ् ज्योति॑षा॒ स्व१॒॑र्  
-अग॑च्छो रोच॒+++(मा)+++नं दि॒वः ।  
-येने॒मा विश्वा॒ भुव॑ना॒न्य् आभृ॑ता  
-वि॒श्वक॑र्मणा वि॒श्वदे॑व्या+++(=वैश्वदेवयागादि)+++वता ॥ ४  
-+++(विश्वे देवास् तु सङ्ख्यया समस्थान-ग्रहणावर्तनावधि-दिनानीति ज्ञायते "महत् तदुल्बम्" इत्यस्मात्।)+++
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/170/04_vibhrAjanjyotiShA_sva1ragachCho.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
 
 ## विस्वरपाठः
 विभ्राड्बृहत्पिबतु सोम्यं मध्वायुर्दधद्यज्ञपतावविह्रुतम् ।

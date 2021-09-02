@@ -12,27 +12,18 @@ unicode_script: devanagari
 
 +++(अनेन वसिष्ठ इन्द्रस्य वृत्रहत्यापापम् अपानुदत्!)+++
 
-अ꣣भि꣡ त्वा꣢ शूर नोनु꣣मो꣡ऽदु꣢ग्धा इव धे꣣न꣡वः꣢।  
-ई꣡शा꣢नम꣣स्य꣡ जग꣢꣯तः स्व꣣र्दृ꣢श꣣मी꣡शा꣢नमिन्द्र त꣣स्थु꣡षः꣢ ।।1 ।।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/1/40_0233_abhi_tvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-न꣡ त्वावा꣢꣯ᳱअ꣣न्यो꣢ दि꣣व्यो꣡ न पार्थि꣢꣯वो꣣ न꣢ जा꣣तो꣡ न ज꣢꣯निष्यते।  
-अ꣣श्वाय꣡न्तो꣢ मघवन्निन्द्र वा꣣जि꣡नो꣢ ग꣣व्य꣡न्त꣢स्त्वा हवामहे ।।2 ।।।।11(यी)।।
 
-अ॒भि त्वा॑ शूर नोनु॒मो+++(=स्तुमः)+++ ऽदु॑ग्धा इव धे॒नवः॑ +++(सोमपूर्णचमसा वयम्)+++ ।  
-ईशा॑नम् अ॒स्य जग॑तः+++(=जङ्गमस्य)+++ स्व॒र्-दृश॒म् ईशा॑नमिन्द्र त॒स्थुषः॑ +++(=स्थावरस्य)+++ २२
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/11-2_0681_na_tvAvAManyo.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-न त्वावाँ॑ +++(=त्वादृशः)+++ अ॒न्यो दि॒व्यो न पार्थि॑वो॒ न जा॒तो न ज॑निष्यते ।  
-अ॒श्वा॒यन्तो॑ +++(=अश्वकामाः)+++ मघवन्निन्द्र वा॒जिनो॑ +++(=वाजकामाः)+++ ग॒व्यन्त॑स् +++(=गोकामाः)+++ त्वा हवामहे २३
 
-अभि त्वा शूर नोनुमोऽदुग्धा इव धेनवः। ईशानमस्य जगतः स्वर्दृशमीशानमिन्द्र तस्थुषः ।।1 ।।  
-न त्वावाᳱअन्यो दिव्यो न पार्थिवो न जातो न जनिष्यते। अश्वायन्तो मघवन्निन्द्र वाजिनो गव्यन्तस्त्वा हवामहे ।।2 ।।।।11(यी)।।  
-
-{{< figure src="/saMskAra/mantraH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
 
 
 ## साम - द्व्यर्चम्
 
-- पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/AASHEERVACHANA%20SAAMAANI#page/n3/mode/1up)। 
+- पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/AASHEERVACHANA%20SAAMAANI#page/n3/mode/1up)।
 - कौथुमगनान्तरे [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume3SatyavrataSamasrami1876bis_201804/page/n105)।
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
@@ -66,7 +57,7 @@ unicode_script: devanagari
 
 ## साम - एकर्चम्
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n533), [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n443)।
-- पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up)। 
+- पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up)।
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/rathantaram-1Rk.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive

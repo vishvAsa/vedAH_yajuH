@@ -9,22 +9,16 @@ unicode_script: devanagari
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n737) कौथुमभाष्ये। वारुणिः सत्यधृतिः, वत्सः च। मित्रः वरुणः अर्यमा इन्द्रः।])+++
 
-त्रा॒तार॑म् इन्द्र॑म् अवि॒तार॑म् इन्द्रं  
-हवे॑हवे सु॒हवं॒ शूर॒मिन्द्र॑म् ।  
-ह्वया॑मि श॒क्रम्पु॑रुहू॒तमिन्द्रं॑  
-स्व॒स्ति नो॑ म॒घवा॑ धा॒त्विन्द्रः॑ ।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/1/41_0333_trAtAramindramavitAramindraM_havehave.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-१ ४ १ म्५म्२  
-त्रा꣣ता꣢र꣣मि꣡न्द्र꣢मवि꣣ता꣢र꣣मि꣢न्द्र꣣ᳱ  
-ह꣡वे꣢हवे+++(=ह्वाने ह्वाने)+++ सु꣣ह꣢व꣣ᳱ+++(=स्वाह्वेयं)+++ शू꣢र꣣मि꣡न्द्र꣢म्।  
-हु꣣वे꣢꣫+++(=ह्वयामि)+++ नु श꣣क्रं꣡ पु꣢रुहू꣣त꣡मिन्द्र꣢꣯मि꣣द꣢ᳱ  
+### सस्तोभपाठः
+त्रा꣣ता꣢र꣣मि꣡न्द्र꣢मवि꣣ता꣢र꣣मि꣢न्द्र꣣ꣳ ह꣡वे꣢हवे सु꣣ह꣢व꣣ꣳ शू꣢र꣣मि꣡न्द्र꣢म्।  
+हु꣣वे꣢꣫+++(=ह्वयामि)+++ नु श꣣क्रं꣡ पु꣢रुहू꣣त꣡मिन्द्र꣢꣯मि꣣द꣢ꣳ  
 [+मघवस् स्वस्ति नो]  
-ह꣣वि꣢र्म꣣घ꣡वा꣢ वे꣣त्व+++(=वैतु =भक्षयतु)+++ इ꣡न्द्रः꣢ ।।333 ।।
+ह꣣वि꣢र्म꣣घ꣡वा꣢ वे꣣त्व+++(=वैतु =भक्षयतु)+++ इ꣡न्द्रः꣢ ॥ 41:0333 ॥
 
-त्रातारमिन्द्रमवितारमिन्द्रं हवेहवे सुहवं शूरमिन्द्रम्।  
-हुवे नु शक्रं पुरुहूतमिन्द्रमिदं हविर् मघवा वेत्व् इ्द्रः॥
 
-{{< figure src="/saMskAra/mantraH/indraH/images/indra-rising-to-protect-charriots-of-army.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/indraH/images/indra-rising-to-protect-charriots-of-army.jpg"  class="thumbnail">}}
 
 
 ## साम

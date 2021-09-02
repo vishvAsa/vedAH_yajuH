@@ -8,14 +8,9 @@ unicode_script: devanagari
 सायणः कौथुमभाष्ये [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n155)। शुनःशेपः। अग्निः।
 
 १ १ १ ०२०७  
-अ꣢श्वं꣣ न꣢ त्वा꣣ वा꣡र꣢+++(=ल)+++वन्तं  
-व꣣न्द꣡ध्या꣢+++(=वन्दितुम्)+++ अ꣣ग्निं꣡ नमो꣢꣯भिः।  
-स꣣म्रा꣡ज꣢न् तम् अध्व꣣रा꣡णा꣢म्  +++(प्रवृत्ताः)+++।।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/17_0017_ashvan_na.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-अश्वं न त्वा वारवन्तं वन्दध्यै +अग्निं नमोभिः।  
-सम्राजन् तम् अध्वराणाम्।
-
-{{< figure src="/saMskAra/mantraH/agniH/images/agni-on-a-ram-drawn-charriot-speeding-towards-the-vedI.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/agniH/images/agni-on-a-ram-drawn-charriot-speeding-towards-the-vedI.jpg"  class="thumbnail">}}
 
 
 ## साम १
@@ -39,7 +34,6 @@ unicode_script: devanagari
 स+++([पो])+++म्रा+++(["]--"%३)+++,जा+++(३)+++न्,  
 ता+++([घृ]-")+++,मा +आ+++(-")+++,ध्वा+++(-")+++,राआआआ औ+++(["टा])+++हो+++(["]%३)+++वाअ ।  
 इ+++([टि])+++हा+++(--%३)+++, हाइ। औ+++(["ठौ])+++हो+++(३)+++,हो+++(")+++णाम्+++([प])+++।
-  
+
 ए+++([पा])+++ऎ हिया+++(V)+++म्+++(V३)+++हा+++(V३)+++।  
 हॊ+++([का]")+++ओ+++(")+++इ, डा+++([प]")+++अ ॥  
-

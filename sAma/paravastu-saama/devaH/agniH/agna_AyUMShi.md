@@ -10,16 +10,9 @@ unicode_script: devanagari
 
 २ ० ० ०५०१  
 
-1.2.13.4.5  
-अ꣢ग्न꣣ आ꣡यू꣢ᳱषि प+++(प्ल)+++वसे꣣  
-आ꣢सु꣣वो꣢र्ज꣣मि꣡षं꣢ च नः।  
-आरे+++(=दूरे)+++ बाधस्व दुच्छुनाम्+++(=रक्षसाम्)+++  ।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/42_0627_agna_AyUMShi.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-
-अग्न आयूंषि पवस आसुव +ऊर्जमिषं च नः ।  
-(आ सुवोर्जं इषं च नः। आरे बाधस्व दुच्छुनाम् ।।) ।।3 ।। ।।10 (य)।। [धा. 2 । उ नास्ति । स्व. 1।]
-
-{{< figure src="/saMskAra/mantraH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
 
 
 ## साम

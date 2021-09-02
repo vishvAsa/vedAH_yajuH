@@ -1,5 +1,5 @@
 ---
-title: विश्वतोदावन् 
+title: विश्वतोदावन्
 unicode_script: devanagari  
 
 ---
@@ -10,13 +10,12 @@ unicode_script: devanagari
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n247&sa=D&ust=1542564218916000) कौथुमभाष्ये। । इन्द्रः।])+++
 
-वि꣡श्व꣢तो दावन् +++(=दानवान् छेदनवान् वा)+++ वि꣣श्व꣡तो꣢ न꣣ आ꣡ भ꣢र꣣  
-यं꣢ त्वा꣣ श꣡वि꣢ष्ठ꣣मी꣡म꣢हे ।।437 ।।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/01_0437_vishvatodAvanvishvato_na.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 विश्वतो दावन् विश्वतो न आ भर यं त्वा शविष्ठमीमहे।
 {भर! महः! ईडा+++(=स्तुतिः)+++। सुवः। ज्योतिः।}
 
-{{< figure src="/saMskAra/mantraH/indraH/images/indra-or-someone-on-an-arial-charriot-attacking-an-army-with-arrows.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/indraH/images/indra-or-someone-on-an-arial-charriot-attacking-an-army-with-arrows.jpg"  class="thumbnail">}}
 
 
 ## साम १ हाउहाउ हउवा
@@ -45,7 +44,7 @@ unicode_script: devanagari
 
 ई+++([टू])+++इइइ ई+++(३)+++ ॥
 
-## साम २ 
+## साम २
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vishvato-dAvan-2.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive

@@ -6,15 +6,15 @@ practice_weight: 0
 ---
 
 ## ऋक्
-<div class="js_include" url="/saMskAra/mantraH/agniH/Rk/agnir_mUrdhA/"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/27_0027_agnirmUrdhA_divaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## साम
-- पारम्परिक-गान-मूलम् 
+- पारम्परिक-गान-मूलम्
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
-  
+
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n423)?
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive

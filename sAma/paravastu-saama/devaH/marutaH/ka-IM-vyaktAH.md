@@ -9,13 +9,12 @@ unicode_script: devanagari
 
 १ ५ १ ०५०७  
 
-क꣢+++(य्)+++ ईं꣣꣬ व्य꣢꣯क्ता꣣  
-न꣢रः꣣+++(=नेतारः)+++ स꣡नी꣢डा  
-रु꣣द्र꣢स्य꣣ म꣢र्या꣣+++(=मर्त्येभ्यो [हिताः])+++ अ꣢था꣣ स्व꣡श्वाः꣢ ।।433 ।।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/44_0433_ka_I.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
 
 क ईं व्यक्ता नरः सनीडा रुद्रस्य मर्या अथ स्वश्वाः॥
 
-{{< figure src="/saMskAra/mantraH/marutaH/images/marut-group-on-a-horse-drawn-charriot-in-the-sky.png"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/marutaH/images/marut-group-on-a-horse-drawn-charriot-in-the-sky.png"  class="thumbnail">}}
 
 ## साम १ काई५इम्
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n6/mode/1up)।
@@ -54,7 +53,7 @@ unicode_script: devanagari
 आ+++([पे]३")+++,अथाअअ औ+++(["])+++हो+++(["]३%)+++वा+++(")+++अ ।  
 सु+++([ज])+++वाआश्वा+++(--"३)+++ह+++(v)+++ ॥
 
-   
+
 ## साम ३ आओवाअ
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/ka-Im-3.mp3"></div>
@@ -78,4 +77,3 @@ unicode_script: devanagari
 
 सु+++([त])+++वा+++(३--%)+++आओ+++([ति]३--%)+++,वा+++(")+++अ,,  
 आ+++([का])+++श्वाह+++(v)+++ हो+++([का]")+++इ, डा+++([प]")+++अ ॥
-

@@ -1,0 +1,997 @@
++++
+title = "Anukramaṇī Eng"
++++
+
+Deities and Poets of the R̥gveda,  following the AnukramaṇĪ
+
+## I
+- I.1 Agni Madhuchandas Vaiśvāmitra 
+- I.2 Vāyu (1–3), Indra and Vāyu (4–6), Mitra and Varuṇa (7–9) ____
+- I.3 Aśvins (1–3), Indra (4–6), All Gods (7–9), Sarasvatī (10–12) ____
+- I.4 Indra ____
+- I.5 ____ ____
+- I.6 Indra (1–3, 10), Maruts (4, 6, 8, 9), ____ Maruts and Indra (5, 7)
+- I.7 Indra ____
+- I.8 ____ ____
+- I.9 ____ ____
+- I.10 ____ ____
+- I.11 ____ Jetar Mādhuchandasa I.12 Agni Medhātithi Kāṇva I.13 Āprī ____
+- I.14 All Gods ____
+- I.15 Sequential Deities ____
+- I.16 Indra ____
+- I.17 Indra and Varuṇa ____
+- I.18 Brahmaṇaspati (1–3), Brahmaṇaspati, Indra, and Soma (4), the Same with Dakṣiṇā (5), Sadaspati (6–8), Sadaspati or Narāśaṃsa (9) ____
+- I.19 Agni and the Maruts ____
+- I.20 R̥bhus ____
+- I.21 Indra and Agni ____
+- I.22 Aśvins (1–4), Savitar (5–8), Agni (9–10), Gods (11), Indrāṇi, Varuṇānī, Agnāyī (12), Heaven and Earth (13–14), Earth (15), Viṣṇu or Gods (16), Viṣṇu (17–21)  ____
+- I.23 Vāyu (1), Indra and Vāyu (2–3), Mitra  and Varuṇa (4–6), Indra Marutvant (7–9), All Gods (10–12), Pūṣan (13–15), Waters (16–23ab), Agni (23cd–24)  ____
+- I.24 Ka (1), Agni (2), Savitar (3–4), Savitar Śunaḥśepa Ājīgarti or Bhaga (5), Varuṇa (6–10)
+- I.25 Varuṇa ____
+- I.26 Agni ____
+- I.27 Agni (1–12), Gods (13) ____
+- I.28 Indra (1–4), the Mortar (5–6), the Mortar and Pestle (7–8), Prajāpati Hariścandra or the Soma-Pressing Hide (9) 1672 Deities and Poets ____
+- I.29 Indra Śunaḥśepa Ājīgarti 
+- I.30 Indra (1–16), Aśvins (17–19), Dawn (20–22)   ____
+- I.31 Agni Hiraṇyastūpa Āṅgirasa  
+- I.32 Indra ____
+- I.33 ____ ____
+- I.34 Aśvins ____
+- I.35 Agni, Mitra and Varuṇa, Rātrī, and  ____ Savitar (1), Savitar (2–11)
+- I.36 Agni Kaṇva Ghaura  I.37 Maruts ____
+- I.38 ____ ____
+- I.39 ____ ____
+- I.40 Brahmaṇaspati ____
+- I.41 Varuṇa, Mitra, Aryaman (1–3, 7–9),  ____ Ādityas (4–6)
+- I.42 Pūṣan ____
+- I.43 Rudra (1–2, 4–6), Rudra, Mitra and  ____ Varuṇa (3), Soma (7–9)
+- I.44 Agni, Aśvins, Dawn (1–2), Agni (3–14) Praskaṇva Kāṇva I.45 Agni (1–10ab), Gods (10cd) ____
+- I.46 Aśvins ____
+- I.47 ____ ____
+- I.48 Dawn ____
+- I.49 ____ ____
+- I.50 Sūrya (1–9), spell against disease (10–13) ____
+- I.51 Indra Savya Āṅgirasa  I.52 ____ ____
+- I.53 ____ ____
+- I.54 ____ ____
+- I.55 ____ ____
+- I.56 ____ ____
+- I.57 ____ ____
+- I.58 Agni Nodhas Gautama I.59 Agni Vaiśvānara ____
+- I.60 Agni ____
+- I.61 Indra ____
+- I.62 ____ ____
+- I.63 ____ ____
+- I.64 Maruts ____
+- I.65 Agni Parāśara Śāktya I.66 ____ ____
+- I.67 ____ ____
+- I.68 ____ ____
+- I.69 ____ ____
+- I.70 ____ ____
+- I.71 ____ ____
+- I.72 ____ ____
+- I.73 ____ ____
+- I.74 ____ Gotama Rāhūgaṇa I.75 ____ ____
+- I.76 ____ ____
+- I.77 ____ ____
+- I.78 ____ ____
+- I.79 ____ ____
+- I.80 Indra ____ Deities and Poets 1673
+- I.81 Indra Gotama Rāhūgaṇa
+- I.82 ____ ____
+- I.83 ____ ____
+- I.84 ____ ____
+- I.85 Maruts ____
+- I.86 ____ ____
+- I.87 ____ ____
+- I.88 ____ ____
+- I.89 All Gods ____
+- I.90 ____ ____
+- I.91 Soma ____
+- I.92 Dawn (1–15), Aśvins (16–18) ____
+- I.93 Agni and Soma ____
+- I.94 Agni Kutsa Āṅgirasa
+- I.95 Agni or Agni Auṣasa ____
+- I.96 Agni or Agni Draviṇodā ____
+- I.97 Agni or Agni Śuci ____
+- I.98 Agni or Agni Vaiśvānara ____
+- I.99 Agni or Agni Jātavedas Kaśyapa Mārīca
+- I.100 Indra Five Vārṣāgira poets: R̥jrāśva, Ambarīṣa,  Sahadeva, Bhayamāna, and Surādhas 
+- I.101 ____ Kutsa Āṅgirasa
+- I.102 ____ ____
+- I.103 ____ ____
+- I.104 ____ ____
+- I.105 All Gods Trita Āptya or Kutsa Āṅgirasa
+- I.106 ____ Kutsa Āṅgirasa
+- I.107 ____ ____
+- I.108 Indra and Agni ____
+- I.109 ____ ____
+- I.110 R̥bhus ____
+- I.111 ____ ____
+- I.112 Heaven and Earth (1a), Agni (1b),  ____ Aśvins (1cd–25)
+- I.113 Dawn (1ab, 2–20), Dawn and Night (1cd) ____
+- I.114 Rudra ____
+- I.115 Sūrya ____
+- I.116 Aśvins Kakṣīvant Dairghatamasa
+- I.117 ____ ____
+- I.118 ____ ____
+- I.119 ____ ____
+- I.120 ____ ____
+- I.121 Indra or All Gods ____
+- I.122 All Gods ____
+- I.123 Dawn ____
+- I.124 ____ ____
+- I.125 Svanaya’s Dānastuti ____
+- I.126 Bhāvayavya (1–5, 7), Romaśā (6) Kakṣīvant (1–5), Bhāvayavya (6),  Romaśā (7)
+- I.127 Agni Paruchepa Daivodāsi
+- I.128 ____ ____
+- I.129 Indra (1–5, 7–11), Indu (6) ____
+- I.130 Indra ____
+- I.131 ____ ____1674 Deities and Poets
+- I.132 Indra (1–5, 6defg), Paruchepa Daivodāsi Indra and Parvata (6abc)
+- I.133 Indra ____
+- I.134 Vāyu ____
+- I.135 Vāyu (1–3, 9), Indra and Vāyu (4–8) ____
+- I.136 Mitra and Varuṇa (1–5), Liṅgoktadevatāḥ (6–7) ____
+- I.137 Mitra and Varuṇa ____
+- I.138 Pūṣan ____
+- I.139 All Gods, or All Gods (1, 11), Mitra  and Varuṇa (2), Aśvins (3–5), Indra (6) Agni (7), Maruts (8), Indra and Agni (9), Br̥haspati (10) ____
+- I.140 Agni Dīrghatamas Aucathya
+- I.141 ____ ____
+- I.142 Āprī (1–12), Indra (13) ____
+- I.143 Agni ____
+- I.144 ____ ____
+- I.145 ____ ____
+- I.146 ____ ____
+- I.147 ____ ____
+- I.148 ____ ____
+- I.149 ____ ____
+- I.150 ____ ____
+- I.151 Mitra (1), Mitra and Varuṇa (2–9) ____
+- I.152 Mitra and Varuṇa ____
+- I.153 ____ ____
+- I.154 Viṣṇu ____
+- I.155 Viṣṇu and Indra (1–3), Viṣṇu (4–6) ____
+- I.156 Viṣṇu ____
+- I.157 Aśvins ____
+- I.158 ____ ____
+- I.159 Heaven and Earth ____
+- I.160 ____ ____
+- I.161 R̥bhus ____
+- I.162 Praise of a Horse ____
+- I.163 ____ ____
+- I.164 All Gods ____
+- I.165 Indra Marutvant Indra (1, 2, 4, 6, 8, 10–12), the Maruts   (3, 5, 7, 9), and Agastya (13–15) I.166 Maruts Agastya Maitrāvaruṇi
+- I.167 Indra (1), Maruts (2–11) ____
+- I.168 Maruts ____
+- I.169 Indra ____
+- I.170 ____ Indra (1, 3), Agastya (2, 5),   Indra or Agastya (4)
+- I.171 Maruts (1–2), Indra Marutvant (3–6) Agastya Maitrāvaruṇi
+- I.172 Maruts ____
+- I.173 Indra ____
+- I.174 ____ ____
+- I.175 ____ ____
+- I.176 ____ ____
+- I.177 ____ ____
+- I.178 ____ ____
+- I.179 Delight (Rati) Lopāmudrā 1–2, Agastya 3–4, student 5–6 I.180 Aśvins Agastya Maitrāvaruṇi Deities and Poets 1675
+- I.181 Aśvins Agastya Maitrāvaruṇi
+- I.182 ____ ____
+- I.183 ____ ____
+- I.184 ____ ____
+- I.185 Heaven and Earth ____
+- I.186 All Gods ____
+- I.187 Praise of Food ____
+- I.188 Āprī ____
+- I.189 Agni ____
+- I.190 Br̥haspati ____
+- I.191 Against Poisonous Animals ____
+## II
+- II.1 Agni Gr̥tsamada Bhārgava Śaunaka, originally   Āṅgirasa Śaunahotra
+- II.2 ____ ____
+- II.3 Āprī ____
+- II.4 Agni Somāhuti Bhārgava
+- II.5 ____ ____
+- II.6 ____ ____
+- II.7 ____ ____
+- II.8 ____ Gr̥tsamada
+- II.9 ____ ____
+- II.10 ____ ____
+- II.11 Indra ____
+- II.12 ____ ____
+- II.13 ____ ____
+- II.14 ____ ____
+- II.15 ____ ____
+- II.16 ____ ____
+- II.17 ____ ____
+- II.18 ____ ____
+- II.19 ____ ____
+- II.20 ____ ____
+- II.21 ____ ____
+- II.22 ____ ____
+- II.23 Br̥haspati ____
+- II.24 ____ ____
+- II.25 Brahmaṇaspati ____
+- II.26 ____ ____
+- II.27 Ādityas Gr̥tsamada or Kūrma Gārtsamada II.28 Varuṇa ____
+- II.29 All Gods ____
+- II.30 Indra (1–5, 7, 8cd, 10), Indra and Soma  Gr̥tsamada (6), Sarasvatī (8ab), Br̥haspati (9), Maruts (11)
+- II.31 All Gods ____
+- II.32 Various Gods ____
+- II.33 Rudra ____
+- II.34 Maruts ____
+- II.35 Apām Napāt ____
+- II.36 Sequential Deities ____
+- II.37 ____ ____
+- II.38 Savitar ____ 1676 Deities and Poets
+- II.39 Aśvins Gr̥tsamada
+- II.40 Soma and Pūṣan ____
+- II.41 Various Gods ____
+- II.42 Omen-Bird ____
+- II.43 ____ ____
+## III
+- III.1 Agni Viśvāmitra Gāthina
+- III.2 Agni Vaiśvānara ____
+- III.3 ____ ____
+- III.4 Āprī ____
+- III.5 Agni ____
+- III.6 ____ ____
+- III.7 ____ ____
+- III.8 Sacrificial Post(s) ____
+- III.9 Agni ____
+- III.10 ____ ____
+- III.11 ____ ____
+- III.12 Indra and Agni ____
+- III.13 Agni R̥ṣabha Vaiśvāmitra
+- III.14 ____ ____
+- III.15 ____ Utkīla Kātya
+- III.16 ____ ____
+- III.17 ____ Kata Vaiśvāmitra
+- III.18 ____ ____
+- III.19 ____ Gāthin Kauśika
+- III.20 All Gods (1, 5), Agni (2–4) ____
+- III.21 Agni ____
+- III.22 Purīṣya Agnis ____
+- III.23 Agni Devaśravas Bhārata and Devavāta Bhārata III.24 ____ Viśvāmitra Gāthina
+- III.25 ____ ____
+- III.26 Agni Vaiśvānara ____
+- III.27 Agni ____
+- III.28 ____ ____
+- III.29 ____ ____
+- III.30 Indra ____
+- III.31 ____ Kuśika Aiṣīrathi or Viśvāmitra III.32 ____ Viśvāmitra Gāthina
+- III.33 Rivers (1–3, 5, 9, 11–13), Viśvāmitra (1–3, 5–6, 9, 11–13) Viśvāmitra (4, 8, 10), and Indra (6–7) and Rivers (4, 7–8, 10)
+- III.34 Indra Viśvāmitra Gāthina
+- III.35 ____ ____
+- III.36 ____ Viśvāmitra Gāthina (1–9, 11) and   Ghora Āṅgirasa (10)
+- III.37 ____ Viśvāmitra Gāthina
+- III.38 ____ Viśvāmitra Gāthina or Prajāpati Vaiśvānara or  Prajāpati Vācya
+- III.39 ____ Viśvāmitra Gāthina
+- III.40 ____ ____
+- III.41 ____ ____
+- III.42 ____ ____
+- III.43 ____ ____
+- III.44 ____ ____ Deities and Poets 1677
+- III.45 Indra Viśvāmitra Gāthina
+- III.46 ____ ____
+- III.47 ____ ____
+- III.48 ____ ____
+- III.49 ____ ____
+- III.50 ____ ____
+- III.51 ____ ____
+- III.52 ____ ____
+- III.53 Indra and Parvata (1), Indra (2–14,  ____ 21–24), Vāc Sasarparī (15–16), Praise of Chariot Parts (17–20)
+- III.54 All Gods Prajāpati Vaiśvānara or Prajāpati Vācya III.55 ____ ____
+- III.56 ____ ____
+- III.57 ____ Viśvāmitra Gāthina
+- III.58 Aśvins ____
+- III.59 Mitra ____
+- III.60 R̥bhus (1–4), R̥bhus and Indra (5–7) ____
+- III.61 Dawn ____
+- III.62 Indra and Varuṇa (1–3), Br̥haspati (4–6), Viśvāmitra Gāthina (1–15), Viśvāmitra or  Pūṣan (7–9), Savitar (10–12), Jamadagni (16–18) Soma (13–15), Mitra and Varuṇa (16–18)
+## IV
+- IV.1 Agni Vāmadeva Gautama
+- IV.2 ____ ____
+- IV.3 ____ ____
+- IV.4 Agni Rakṣohan ____
+- IV.5 Agni Vaiśvānara ____
+- IV.6 Agni ____
+- IV.7 ____ ____
+- IV.8 ____ ____
+- IV.9 ____ ____
+- IV.10 ____ ____
+- IV.11 ____ ____
+- IV.12 ____ ____
+- IV.13 Agni or Liṅgoktadevatāḥ ____
+- IV.14 Agni ____
+- IV.15 Agni (1–6), Somaka Sāhadevya (7–8),  ____ Aśvins (9–10)
+- IV.16 Indra ____
+- IV.17 ____ ____
+- IV.18 ____ ____
+- IV.19 ____ ____
+- IV.20 ____ ____
+- IV.21 ____ ____
+- IV.22 ____ ____
+- IV.23 Indra (1–7, 11), Indra or R̥ta (8–10) ____
+- IV.24 Indra ____
+- IV.25 ____ ____
+- IV.26 Indra (1–3), Praise of Falcon (4–7) ____
+- IV.27 Praise of Falcon (1–4), Falcon or Indra  ____ (5)
+- IV.28 Indra, or Indra and Soma ____ 1678 Deities and Poets
+- IV.29 Indra Vāmadeva Gautama
+- IV.30 Indra (1–8, 12–24), ____ Indra and Dawn (9–11)
+- IV.31 Indra ____
+- IV.32 ____ ____
+- IV.33 R̥bhus ____
+- IV.34 ____ ____
+- IV.35 ____ ____
+- IV.36 ____ ____
+- IV.37 ____ ____
+- IV.38 Heaven and Earth (1), Dadhikrā (2–10) ____
+- IV.39 Dadhikrā ____
+- IV.40 Dadhikrā (1–4), Sūrya (5) ____
+- IV.41 Indra and Varuṇa ____
+- IV.42 ____ Trasadasyu Paurukutsya IV.43 Aśvins Purumīḷha Sauhotra and   Ajamīḷha Sauhotra
+- IV.44 ____ ____
+- IV.45 ____ Vāmadeva Gautama
+- IV.46 Vāyu (1), Vāyu and Indra (2–7) ____
+- IV.47 Vāyu (1), Vāyu and Indra (2–4) ____
+- IV.48 Vāyu ____
+- IV.49 Indra and Br̥haspati ____
+- IV.50 Br̥haspati (1–9),   ____ Br̥haspati and Indra (10–11)
+- IV.51 Dawn ____
+- IV.52 ____ ____
+- IV.53 Savitar ____
+- IV.54 ____ ____
+- IV.55 All Gods ____
+- IV.56 Heaven and Earth ____
+- IV.57 Agricultural Divinities ____
+- IV.58 Praise of Ghee ____
+## V
+- V.1 Agni Budha Ātreya or Gaviṣṭhira Ātreya V.2 ____ Kumāra Ātreya or Vrś̥ a Jāna   or both
+- V.3 ____ Vasuśruta Ātreya
+- V.4 ____ ____
+- V.5 Āprī ____
+- V.6 Agni ____
+- V.7 ____ Iṣa Ātreya
+- V.8 ____ ____
+- V.9 ____ Gaya Ātreya
+- V.10 ____ ____
+- V.11 ____ Sutambhara Ātreya
+- V.12 ____ ____
+- V.13 ____ ____
+- V.14 ____ ____
+- V.15 ____ Dharuṇa Āṅgirasa
+- V.16 ____ Pūru Ātreya
+- V.17 ____ ____
+- V.18 ____ Mr̥ktavāhas Dvita Ātreya Deities and Poets 1679
+- V.19 Agni Vavri Ātreya
+- V.20 ____ Prayasvanta Ātreya
+- V.21 ____ Sasa Ātreya
+- V.22 ____ Viśvasāman Ātreya
+- V.23 ____ Dyumna Viśvacarṣaṇi Ātreya
+- V.24 ____ The Gaupāyanas or Laupāyanas:  Bandhu (1), Subandhu (2),  Śrutabandhu (3), and Viprabandhu (4) 
+- V.25 ____ The Vasūyava Ātreyas
+- V.26 ____ ____
+- V.27 ____ Kings Tryaruṇa Traivrṣ̥ ṇa,  Trasadasyu Paurukutsya, and  Aśvamedha Bhārata, or Atri Bhauma 
+- V.28 ____ Viśvavārā Ātreyī
+- V.29 Indra Gaurivīti Śāktya
+- V.30 ____ Babhru Ātreya
+- V.31 ____ Avasyu Ātreya
+- V.32 ____ Gātu Ātreya
+- V.33 ____ Saṃvaraṇa Prājāpatya
+- V.34 ____ ____
+- V.35 ____ Prabhūvasu Āṅgirasa
+- V.36 ____ ____
+- V.37 ____ Atri Bhauma
+- V.38 ____ ____
+- V.39 ____ ____
+- V.40 Indra (1–4), Sūrya (5), Atri (6–9) ____
+- V.41 All Gods ____
+- V.42 ____ ____
+- V.43 ____ ____
+- V.44 ____ Avatsāra Kāśyapa and others
+- V.45 ____ Sadāprṇ̥ a Ātreya
+- V.46 ____ Pratikṣatra Ātreya
+- V.47 ____ Pratiratha Ātreya
+- V.48 ____ Pratibhānu Ātreya
+- V.49 ____ Pratibha Ātreya
+- V.50 ____ Svastyātreya Ātreya
+- V.51 ____ ____
+- V.52 Maruts Śyāvāśva Ātreya
+- V.53 ____ ____
+- V.54 ____ ____
+- V.55 ____ ____
+- V.56 ____ ____
+- V.57 ____ ____
+- V.58 ____ ____
+- V.59 ____ ____
+- V.60 ____ ____
+- V.61 ____ ____
+- V.62 Mitra and Varuṇa Śrutavid Ātreya
+- V.63 ____ Arcanānas Ātreya
+- V.64 ____ ____
+- V.65 ____ Rātahavya Ātreya
+- V.66 ____ ____
+- V.67 ____ Yajata Ātreya
+- V.68 ____ ____
+- V.69 ____ Urucakri Ātreya 1680 Deities and Poets
+- V.70 Mitra and Varuṇa Urucakri Ātreya
+- V.71 ____ Bāhuvr̥kta Ātreya
+- V.72 ____ ____
+- V.73 Aśvins Paura Ātreya
+- V.74 ____ ____
+- V.75 ____ Avasyu Ātreya
+- V.76 ____ Atri Bhauma
+- V.77 ____ ____
+- V.78 ____ Saptavadhri Ātreya
+- V.79 Dawn Satyaśravas Ātreya
+- V.80 ____ ____
+- V.81 Savitar Śyāvāśva Ātreya
+- V.82 ____ ____
+- V.83 Parjanya Atri Bhauma
+- V.84 Earth ____
+- V.85 Varuṇa ____
+- V.86 Indra and Agni ____
+- V.87 Maruts Evayāmarut Ātreya
+## VI
+- VI.1 Agni Bharadvāja Bārhaspatya
+- VI.2 ____ ____
+- VI.3 ____ ____
+- VI.4 ____ ____
+- VI.5 ____ ____
+- VI.6 ____ ____
+- VI.7 Agni Vaiśvānara ____
+- VI.8 ____ ____
+- VI.9 ____ ____
+- VI.10 Agni ____
+- VI.11 ____ ____
+- VI.12 ____ ____
+- VI.13 ____ ____
+- VI.14 ____ ____
+- VI.15 ____ Vītahavya Āṅgirasa or Bharadvāja Bārhaspatya VI.16 ____ Bharadvāja Bārhaspatya
+- VI.17 ____ ____
+- VI.18 ____ ____
+- VI.19 ____ ____
+- VI.20 ____ ____
+- VI.21 Indra (1–8, 10, 12), All Gods (9, 11) ____
+- VI.22 Indra ____
+- VI.23 ____ ____
+- VI.24 ____ ____
+- VI.25 ____ ____
+- VI.26 ____ ____
+- VI.27 ____ ____
+- VI.28 Cows (1–3, 7–8c) Indra (2, 8d) ____
+- VI.29 Indra ____
+- VI.30 ____ ____
+- VI.31 ____ Suhotra Bhāradvāja
+- VI.32 ____ ____
+- VI.33 ____ Śunahotra Bhāradvāja
+- VI.34 ____ ____ Deities and Poets 1681
+- VI.35 Indra Nara Bhāradvāja
+- VI.36 ____ ____
+- VI.37 ____ Bharadvāja Bārhaspatya
+- VI.38 ____ ____
+- VI.39 ____ ____
+- VI.40 ____ ____
+- VI.41 ____ ____
+- VI.42 ____ ____
+- VI.43 ____ ____
+- VI.44 ____ Śaṃyu Bārhaspatya
+- VI.45 Indra (1–30), Br̥bu Takṣan (31–33) ____
+- VI.46 Indra ____
+- VI.47 Soma (1–5), Indra (6–19, 20d, 21, 31cd), Garga Bhāradvāja Gods (20a), Earth (20b), Br̥haspati (20c), Prastoka Sārūjaya’s Dānastuti (22–25), Chariot (26–28), Drum (29–31ab)
+- VI.48 Agni (1–10), Maruts (11–12, 20–21), Śaṃyu Bārhaspatya Maruts or Liṅgoktadevatāḥ (13–15), Pūṣan (16–19), Maruts or Heaven and Earth or Prś̥ ni (22)
+- VI.49 All Gods R̥jiśvan Bhāradvāja
+- VI.50 ____ ____
+- VI.51 ____ ____
+- VI.52 ____ ____
+- VI.53 Pūṣan Bharadvāja Bārhaspatya
+- VI.54 ____ ____
+- VI.55 ____ ____
+- VI.56 ____ ____
+- VI.57 Indra and Pūṣan ____
+- VI.58 Pūṣan ____
+- VI.59 Indra and Agni ____
+- VI.60 ____ ____
+- VI.61 Sarasvatī ____
+- VI.62 Aśvins ____
+- VI.63 ____ ____
+- VI.64 Dawn ____
+- VI.65 ____ ____
+- VI.66 Maruts ____
+- VI.67 Mitra and Varuṇa ____
+- VI.68 Indra and Varuṇa ____
+- VI.69 Indra and Viṣṇu ____
+- VI.70 Heaven and Earth ____
+- VI.71 Savitar ____
+- VI.72 Indra and Soma ____
+- VI.73 Br̥haspati ____
+- VI.74 Soma and Rudra ____
+- VI.75 Weapons Pāyu Bhāradvāja
+## VII
+- VII.1 Agni Vasiṣṭha Maitrāvaruṇi
+- VII.2 Āprī ____
+- VII.3 Agni ____
+- VII.4 ____ ____
+- VII.5 Agni Vaiśvānara ____ 1682 Deities and Poets
+- VII.6 Agni Vaiśvānara Vasiṣṭha Maitrāvaruṇi VII.7 Agni ____
+- VII.8 ____ ____
+- VII.9 ____ ____
+- VII.10 ____ ____
+- VII.11 ____ ____
+- VII.12 ____ ____
+- VII.13 Agni Vaiśvānara ____
+- VII.14 Agni ____
+- VII.15 ____ ____
+- VII.16 ____ ____
+- VII.17 ____ ____
+- VII.18 Battle of the Ten Kings: Indra (1–21), Sudās Paijavana’s Dānastuti (22–25)  ____
+- VII.19 Indra ____
+- VII.20 ____ ____
+- VII.21 ____ ____
+- VII.22 ____ ____
+- VII.23 ____ ____
+- VII.24 ____ ____
+- VII.25 ____ ____
+- VII.26 ____ ____
+- VII.27 ____ ____
+- VII.28 ____ ____
+- VII.29 ____ ____
+- VII.30 ____ ____
+- VII.31 ____ ____
+- VII.32 ____ Vasiṣṭha Maitrāvaruṇi (1–25),   Śakti Vāsiṣṭha (26ab),   Vasiṣṭha or  Śakti Vāsiṣṭha (26cd–27) VII.33 Vasiṣṭha’s Sons (1–9), Vasiṣṭha (10–14) Vasiṣṭha Maitrāvaruṇi (1–9),   Vasiṣṭha’s sons (10–14) VII.34 All Gods (1–15, 17cd, 18–25), Ahi (16), Vasiṣṭha Maitrāvaruṇi Ahi Budhnya (17ab)
+- VII.35 All Gods ____
+- VII.36 ____ ____
+- VII.37 ____ ____
+- VII.38 Savitar (1–5, 6ab), Savitar or Bhaga (6cd), Prizewinning Horses (7–8) ____
+- VII.39 All Gods ____
+- VII.40 ____ ____
+- VII.41 Liṅgoktadevatāḥ (1), Bhaga (2–6) Dawn (7) ____
+- VII.42 All Gods ____
+- VII.43 ____ ____
+- VII.44 Liṅgoktadevatāḥ (1), Dadhikrā (2–5) ____
+- VII.45 Savitar ____
+- VII.46 Rudra ____
+- VII.47 Waters ____
+- VII.48 R̥bhus ____
+- VII.49 Waters ____
+- VII.50 Mitra and Varuṇa (1), Agni (2), All Gods (3), Rivers (4)  ____
+- VII.51 Ādityas Deities and Poets 1683  ____
+- VII.52 Ādityas Vasiṣṭha Maitrāvaruṇi
+- VII.53 Heaven and Earth ____
+- VII.54 Vāstoṣpati ____
+- VII.55 Vāstoṣpati (1), Sleep Incantations (2–8) ____
+- VII.56 Maruts ____
+- VII.57 ____ ____
+- VII.58 ____ ____
+- VII.59 Maruts (1–11), Rudra (12) ____
+- VII.60 Sūrya (1), Mitra and Varuṇa (2–12) ____
+- VII.61 Mitra and Varuṇa  ____
+- VII.62 Sūrya (1–3), Mitra and Varuṇa (4–6) ____
+- VII.63 Sūrya (1–5ab),  ____ Mitra and Varuṇa (5cd–6)
+- VII.64 Mitra and Varuṇa ____
+- VII.65 ____ ____
+- VII.66 Mitra and Varuṇa (1–3, 17–19), ____ Ādityas (4–13), Sūrya (14–16)
+- VII.67 Aśvins ____
+- VII.68 ____ ____
+- VII.69 ____ ____
+- VII.70 ____ ____
+- VII.71 ____ ____
+- VII.72 ____ ____
+- VII.73 ____ ____
+- VII.74 ____ ____
+- VII.75 Dawn ____
+- VII.76 ____ ____
+- VII.77 ____ ____
+- VII.78 ____ ____
+- VII.79 ____ ____
+- VII.80 ____ ____
+- VII.81 ____ ____
+- VII.82 Indra and Varuṇa  ____
+- VII.83 ____ ____
+- VII.84 ____ ____
+- VII.85 ____ ____
+- VII.86 Varuṇa  ____
+- VII.87 ____  ____
+- VII.88 ____  ____
+- VII.89 ____ ____
+- VII.90 Vāyu (1–4), Indra and Vāyu (5–7) ____
+- VII.91 Vāyu (1, 3), Indra and Vāyu (2, 4–7) ____
+- VII.92 Vāyu (1, 3–5), Indra and Vāyu (2) ____
+- VII.93 Indra and Agni ____
+- VII.94 ____ ____
+- VII.95 Sarasvatī (1–2, 4–6), Sarasvant (3) ____
+- VII.96 Sarasvatī (1–3), Sarasvant (4–6) ____
+- VII.97 Indra (1), Br̥haspati (2, 4–8),  ____ Indra and Brahmaṇaspati (3, 9), Indra and Br̥haspati (10)
+- VII.98 Indra (1–6), Indra and Br̥haspati (7) ____
+- VII.99 Viṣṇu (1–3, 7), Indra and Viṣṇu (4–6) ____
+- VII.100 Viṣṇu  ____
+- VII.101 Parjanya Kumara Āgneya or Vasiṣṭha Maitrāvaruṇi VII.102 ____ ____1684 Deities and Poets
+- VII.103 Frogs Vasiṣṭha Maitrāvaruṇi
+- VII.104 Destroying Demons, Using Imprecations ____ and Curses: Indra and Soma (1–7, 15, 25), Indra (8, 16, 19–22, 24), Soma (9, 12–13), Agni (10, 14), Gods (11), Pressing Stones (17) Maruts (18), Vasiṣṭha’s Hopes for Himself (23ab), Earth and Midspace (23cd)
+## VIII
+- VIII.1 Indra (1–29), Pragātha Kāṇva (formerly Pragātha Dānastuti of Āsaṅga (30–33), Ghaura, brother and Āsaṅga (34) adoptive son of Kaṇva, 1–2),  Medhātithi and Medhyātithi   Kāṇva (3–29),  Āsaṅga Plāyogi (30–33), Śaśvatī  Āṅgirasī, wife of Āsaṅga (34) VIII.2 Indra (1–40), Medhātithi Kāṇva and Vibindhu’s Dānastuti (41–42) Priyamedha Āṅgirasa (1–40), Medhātithi   Kāṇva (41–42)
+- VIII.3 Indra (1–20), Medhyātithi Kāṇva Pākasthāman Kaurayāṇa’s Dānastuti (21–24)
+- VIII.4 Indra (1–14), Indra or Pūṣan (15–18) Devātithi Kāṇva Kuruṅga’s Dānastuti (19–21)
+- VIII.5 Aśvins Brahmātithi Kāṇva
+- VIII.6 Indra (1–45), Tirindira Pārśavya’s Vatsa Kāṇva Dānastuti (46–48)
+- VIII.7 Maruts Punarvatsa Kāṇva
+- VIII.8 Aśvins Sadhvaṃsa Kāṇva
+- VIII.9 ____ Śaśakarṇa Kāṇva
+- VIII.10 ____ Pragātha Kāṇva
+- VIII.11 Agni Vatsa Kāṇva
+- VIII.12 Indra Parvata Kāṇva
+- VIII.13 ____ Nārada Kāṇva
+- VIII.14 ____ Goṣūktin Kāṇvāyana and   Aśvasūktin Kāṇvāyana
+- VIII.15 ____ ____
+- VIII.16 ____ Irimbiṭhi Kāṇva
+- VIII.17 ____ ____
+- VIII.18 Ādityas ____
+- VIII.19 Agni (1–33), Ādityas (34–35), Sobhari Kāṇva Trasadasyu’s Dānastuti (36–37)
+- VIII.20 Maruts ____
+- VIII.21 Indra (1–16),  ____ Citra’s Dānastuti (17–18)
+- VIII.22 Aśvins ____
+- VIII.23 Agni Viśvamanas Vaiyaśva
+- VIII.24 Indra ____
+- VIII.25 Mitra and Varuṇa (1–9, 13–24) and the ____ All Gods (10–12)
+- VIII.26 Aśvins (1–19), Vāyu (20–25) Viśvamanas Vaiyaśva or Vyaśva Āṅgirasa Deities and Poets 1685
+- VIII.27 All Gods Manu Vaivasvata
+- VIII.28 ____ ____
+- VIII.29 ____ Manu Vaivasvata or Kaśyapa Mārīca
+- VIII.30 ____ Manu Vaivasvata
+- VIII.31 Yajamāna and Patnī [Praise of the ____ Offering and Laud of the Sacrificer (1–4), Household (5–9), Blessing for the Household Pair (10–18)]
+- VIII.32 Indra Medhātithi Kāṇva
+- VIII.33 ____ Medhyātithi Kāṇva
+- VIII.34 ____ Nīpātithi Kāṇva (1–15),  the thousand rṣ̥ is of  Vasurocis Āṅgirasa (16–18)
+- VIII.35 Aśvins Śyāvāśva Ātreya
+- VIII.36 Indra ____
+- VIII.37 ____ ____
+- VIII.38 Indra and Agni ____
+- VIII.39 Agni Nābhāka Kāṇva
+- VIII.40 Indra and Agni ____
+- VIII.41 Varuṇa  ____
+- VIII.42 Varuṇa (1–3), Aśvins (4–6) Arcanānas or Nābhāka Kāṇva
+- VIII.43 Agni Virūpa Āṅgirasa
+- VIII.44 ____ ____
+- VIII.45 Agni and Indra (1), Indra (2–42) Triśoka Kāṇva
+- VIII.46 Indra (1–20), Pr̥thuśravas Kānīta’s Vaśa Aśvya Dānastuti (21–24), Vāyu (25–28), Dānastuti (29–33)
+- VIII.47 Ādityas Trita Āptya
+- VIII.48 Soma Pragātha Kāṇva
+- VIII.49 Indra Praskaṇva Kāṇva
+- VIII.50 ____ Puṣṭigu Kāṇva
+- VIII.51 ____ Śruṣṭigu Kāṇva
+- VIII.52 ____ Āyu Kāṇva
+- VIII.53 ____ Medhya Kāṇva
+- VIII.54 Indra (1–2, 5–8), All Gods (3–4) Mātariśvan Kāṇva
+- VIII.55 Praskaṇva’s Dānastuti Krś̥ a Kāṇva
+- VIII.56 Praskaṇva’s Dānastuti (1–4), Agni Prṣ̥ adhra Kāṇva and Sūrya (5)
+- VIII.57 Aśvins Medhya Kāṇva
+- VIII.58 (Fragment) (No attribution)
+- VIII.59 Indra and Varuṇa Suparṇa Kāṇva
+- VIII.60 Agni Bharga Prāgatha
+- VIII.61 Indra ____
+- VIII.62 ____ Pragātha Kāṇva
+- VIII.63 Indra (1–11), Gods (12) ____
+- VIII.64 Indra ____
+- VIII.65 ____ ____
+- VIII.66 ____ Kali Prāgātha
+- VIII.67 Ādityas Matsya Sāmmada or  Mānya Maitrāvaruṇi or many fish  caught in a net
+- VIII.68 Indra (1–13), Dānastuti of R̥kṣa and Priyamedha Āṅgirasa Āśvamedha (14–19)
+- VIII.69 Indra (1–10, 13–18), All Gods (11ab),  ____ Varuṇa (11cd–12) 1686 Deities and Poets
+- VIII.70 Indra Puruhanman Āṅgirasa
+- VIII.71 Agni Sudīti Āṅgirasa and/or  Purumīḷha Āṅgirasa
+- VIII.72 Agni or Praise of Oblations Haryata Prāgātha
+- VIII.73 Aśvins Gopavana Ātreya or Saptavadhri Ātreya VIII.74 Agni (1–12), Śrutarvan Ārkṣya’s Gopavana Ātreya Dānastuti (13–15)
+- VIII.75 Agni Virupa Āṅgirasa
+- VIII.76 Indra Kurusuti Kāṇva
+- VIII.77 ____  ____
+- VIII.78 ____ ____
+- VIII.79 Soma Kr̥tnu Bhārgava
+- VIII.80 Indra (1–9), Gods (10) Ekadyū Naudhasa
+- VIII.81 Indra Kusīdin Kāṇva
+- VIII.82 ____ ____
+- VIII.83 All Gods ____
+- VIII.84 Agni Uśanas Kāvya
+- VIII.85 Aśvins Krṣ̥ ṇa Āṅgirasa
+- VIII.86 ____ Krṣ̥ ṇa Āṅgirasa or Viśvaka Kārṣṇi VIII.87 ____ Dyumnīka Vāsiṣṭha or Priyamedha  Āṅgirasa or Krṣ̥ ṇa Āṅgirasa  VIII.88 Indra Nodhas Gautama
+- VIII.89 ____ Nr̥medha Āṅgirasa and  Purumedha Āṅgirasa
+- VIII.90 ____ ____
+- VIII.91 ____ Apālā Ātreyī
+- VIII.92 ____ Śrutakakṣa Āṅgirasa or  Sukakṣa Āṅgirasa
+- VIII.93 Indra (1–33), Indra and the R̥bhus (34) Sukakṣa Āṅgirasa
+- VIII.94 Maruts Bindu Āṅgirasa or Pūtadakṣa  Āṅgirasa
+- VIII.95 Indra Tiraścī Āṅgirasa
+- VIII.96 Indra (1–14c), Maruts (14d), Tiraścī Āṅgirasa or Dyutāna Indra and Br̥haspati (15) Āṅgirasa
+- VIII.97 Indra Rebha Kāśyapa
+- VIII.98 ____ Nr̥medha Āṅgirasa
+- VIII.99 ____  ____
+- VIII.100 Indra (1–9, 12), Vāc (10–11) Nema Bhārgava (1–3, 6–12),   Indra (4–5)
+- VIII.101 Mitra and Varuṇa (1–5c), Jamadagni Bhārgava Ādityas (5d–6), Aśvins (7–8), Vāyu (9–10), Sūrya (11–12), Dawn or Praise of the Sun’s Radiance (13), Pavamāna (14), Cow (15–16)
+- VIII.102 Agni Prayoga Bhārgava or Agni Pāvaka   Bārhaspatya or Agni Gr̥hapati Sahasaḥ Sūnu and Agni Yaviṣṭha  Sahasaḥ Sūnu (together or one or   the other)
+- VIII.103 Agni (1–13), Agni and the Maruts (14) Sobhari Kāṇva
+## IX
+- IX.1 Soma Pavamāna Madhuchandas Vaiśvāmitra IX.2 ____ Medhātithi Kāṇva Deities and Poets 1687
+- IX.3 Soma Pavamāna Śunaḥśepa Ājīgarti
+- IX.4 ____ Hiraṇyastūpa Āṅgirasa
+- IX.5 Āprī Asita Kāśyapa or Devala Kāśyapa IX.6 Soma Pavamāna ____
+- IX.7 ____ ____
+- IX.8 ____ ____
+- IX.9 ____ ____
+- IX.10 ____ ____
+- IX.11 ____ ____
+- IX.12 ____ ____
+- IX.13 ____ ____
+- IX.14 ____ ____
+- IX.15 ____ ____
+- IX.16 ____ ____
+- IX.17 ____ ____
+- IX.18 ____ ____
+- IX.19 ____ ____
+- IX.20 ____ ____
+- IX.21 ____ ____
+- IX.22 ____ ____
+- IX.23 ____ ____
+- IX.24 ____ ____
+- IX.25 ____ Drḍ̥ hacyuta Āgastya
+- IX.26 ____ Idhmavāha Dārḍhacyuta
+- IX.27 ____ Nr̥medha Āṅgirasa
+- IX.28 ____ Priyamedha Āṅgirasa
+- IX.29 ____ Nr̥medha Āṅgirasa
+- IX.30 ____ Bindu Āṅgirasa
+- IX.31 ____ Gotama Rāhūgaṇa
+- IX.32 ____ Śyāvāśva Ātreya
+- IX.33 ____ Trita Āptya
+- IX.34 ____ ____
+- IX.35 ____ Prabhūvasu Āṅgirasa
+- IX.36 ____ ____
+- IX.37 ____ Rahūgaṇa Āṅgirasa
+- IX.38 ____ ____
+- IX.39 ____ Br̥hanmati Āṅgirasa
+- IX.40 ____ ____
+- IX.41 ____ Medhyātithi Kāṇva
+- IX.42 ____ ____
+- IX.43 ____ ____
+- IX.44 ____ Ayāsya Āṅgirasa
+- IX.45 ____ ____
+- IX.46 ____ ____
+- IX.47 ____ Kavi Bhārgava
+- IX.48 ____ ____
+- IX.49 ____ ____
+- IX.50 ____ Ucathya Āṅgirasa
+- IX.51 ____ ____
+- IX.52 ____ ____
+- IX.53 ____ Avatsāra Kāśyapa
+- IX.54 ____ ____
+- IX.55 ____ ____
+- IX.56 ____ ____
+- IX.57 ____ ____ 1688 Deities and Poets
+- IX.58 Soma Pavamāna Avatsāra Kāśyapa
+- IX.59 ____ ____
+- IX.60 ____ ____
+- IX.61 ____ Amahīya Āṅgirasa
+- IX.62 ____ Jamadagni Bhārgava
+- IX.63 ____ Nidhruvi Kāśyapa
+- IX.64 ____ Kaśyapa Mārīca
+- IX.65 ____ Bhr̥gu Vāruṇi or  Jamadagni Bhārgava
+- IX.66 Soma Pavamāna (1–18, 22–30), One hundred Vaikhānasa poets Agni (19–21)
+- IX.67 Soma Pavamāna (1–9, 13–22, 28–30), Bharadvāja (1–3), Kaśyapa (4–6,) Soma Pavamāna or Pūṣan (10–12), Gotama (7–9), Atri (10–12), Agni (23, 24), Agni or Savitar (25), Viśvāmitra (13–15), Agni or Agni and Savitar (26), Agni Jamadagni (16–18), Vasiṣṭha (19–21), or the All Gods (27), Praise of the Pavitra Āṅgirasa or Vasiṣtha or Student of the Pavamānī Verses (31–32) both (22–32)
+- IX.68 Soma Pavamāna Vatsaprī Bhālandana
+- IX.69 ____ Hiraṇyastūpa Āṅgirasa
+- IX.70 ____ Reṇu Vaiśvāmitra
+- IX.71 ____ R̥ṣabha Vaiśvāmitra
+- IX.72 ____ Harimanta Āṅgirasa
+- IX.73 ____ Pavitra Āṅgirasa
+- IX.74 ____ Kakṣīvant Dairghatamasa IX.75 ____ Kavi Bhārgava
+- IX.76 ____ ____
+- IX.77 ____ ____
+- IX.78 ____ ____
+- IX.79 ____ ____
+- IX.80 ____ Vasu Bhāradvāja
+- IX.81 ____ ____
+- IX.82 ____ ____
+- IX.83 ____ Pavitra Āṅgirasa
+- IX.84 ____ Prajāpati Vācya
+- IX.85 ____ Vena Bhārgava
+- IX.86 ____ Akr̥ṣṭā s, the Māṣā seer-group (1–10),   Siktatās, the Nivāvarī seer-group (11–20),  Pr̥śnis, the Ajā seer-group (21–30),  Atris (31–40), Atri Bhauma (41–45),  Gr̥tsamada (46–48)
+- IX.87 ____ Uśanas Kāvya
+- IX.88 ____ ____
+- IX.89 ____ ____
+- IX.90 ____ Vasiṣṭha Maitrāvaruṇi
+- IX.91 ____ Kaśyapa Mārīca
+- IX.92 ____ ____
+- IX.93 ____ Nodhas Gautama
+- IX.94 ____ Kaṇva Ghaura
+- IX.95 ____ Praskaṇva Kāṇva
+- IX.96 ____ Pratardana Daivodāsi
+- IX.97 ____ Vasiṣṭha (1–3), Indrapramati   Vāsiṣṭha (4–6), Vrṣ̥ agaṇa Vāsiṣṭha (7–9),  Manyu Vāsiṣṭha (10–12),  Upamanyu Vāsiṣṭha (13–15),   Vyāghrapād Vāsiṣṭha (16–18), Deities and Poets 1689  Śakti Vāsiṣṭha (19–21),  Karṇaśrut Vāsiṣṭha (22–24),  Mrḷ̥īka Vāsiṣṭha (25–27),  Vasukra Vāsiṣṭha (28–30),  Parāśara Śāktya (31–44),  Kutsa Āṅgirasa (45–58)
+- IX.98 Soma Pavamāna Ambarīṣa Vārṣāgira and  R̥jiśvan Bhāradvāja
+- IX.99 ____ Two sons of Rebha, the Kāśyapas
+- IX.100 ____ ____
+- IX.101 ____ Andhīgu Śyāvāśvi (1–3), Yayāti Nāhuṣa (4–6),   Nahuṣa Mānava (7–9),  Manu Sāṃvaraṇa (10–12),  Prajāpati (13–16)
+- IX.102 ____ Trita Āptya
+- IX.103 ____ Dvita Āptya
+- IX.104 ____ Parvata Kāṇva and Nārada Kāṇva,   or the two Apsarases named  Śikhaṇḍinī, daughters of Kaśyapa IX.105 ____ Parvata and Nārada
+- IX.106 ____ Agni Cākṣuṣa (1–3),  Cakṣus Mānava (4–6),  Manu Āpsava (7–9),  Agni Cākṣuṣa (10–14)
+- IX.107 ____ Seven Seers
+- IX.108 ____ Gaurivīti Śāktya (1–2),  Śakti Vāsiṣṭha (3, 14–16),  Ūru Āṅgirasa (4–5),  R̥jiśvan Bhāradvāja (6–7),  Ūrdhvasadman Āṅgirasa (8–9),  Kr̥taya śas Āṅgirasa (10–11),  R̥ṇaṃcaya (12–13)
+- IX.109 ____ Dhiṣṇya Fires, descendants of Īśvara IX.110 ____ Tryaruṇa and Trasadasyu
+- IX.111 ____ Anānata Pārucchepi
+- IX.112 ____ Śiśu Āṅgirasa
+- IX.113 ____ Kaśyapa Mārīca
+- IX.114 ____ ____
+## X
+- X.1 Agni Trita Āptya
+- X.2 ____ ____
+- X.3 ____ ____
+- X.4 ____ ____
+- X.5 ____ ____
+- X.6 ____ ____
+- X.7 ____ ____
+- X.8 Agni (1–6), Indra (7–9) Triśiras Tvāṣṭra
+- X.9 Waters Triśiras Tvāṣṭra or Sindhudvīpa Āmbarīṣa
+- X.10 Yama and Yamī Yama Vaivasvata (2, 4, 8–10, 12, 14), Yamī Vaivasvatī (1, 3, 5–7, 11, 13) X.11 Agni Havirdhāna Āṅgi
+- X.12 ____ ____ 1690 Deities and Poets
+- X.13 Soma Carts Havirdhāna Āṅgi or Vivasvant Āditya
+- X.14 Yama (1–5, 13–16), Liṅgoktadevatāḥ (6), Yama Vaivasvata Liṅgoktadevatāḥ or the Pitars (7–9), the Two Dogs, Offspring of Saramā (10–12)
+- X.15 Pitars Śaṅkha Yāmāyana
+- X.16 Agni Damana Yāmāyana
+- X.17 Saraṇyū (1–2), Pūṣan (3–6), Devaśravas Yāmāyana Sarasvatī (7–9), the Waters (10, 14), the Waters or Soma (11–13)
+- X.18 Death (1–4), Dhātar (5), Tvaṣṭar (6) Saṃkusuka Yāmāyana Pitr̥medhas (7–13), Pitr̥medha or Prajāpati (14)
+- X.19 Waters or Cows (1ab, 2–7), Agni Mathita Yāmāyana or Bhrgu̥ and Soma (1cd) Vāruṇi or Cyavana Bhārgava
+- X.20 Agni Vimada Aindra or Vimada Prajāpātya   or Vasukrt V̥ āsukra
+- X.21 ____ ____
+- X.22 Indra ____
+- X.23 ____ ____
+- X.24 Indra (1–3), Aśvins (4–6) ____
+- X.25 Soma ____
+- X.26 Pūṣan ____
+- X.27 Indra Vasukra Aindra
+- X.28 Wife of Vasukra (1), Indra  ____ (2, 6, 8, 10, 12), Vasukra (3–5, 7, 9, 11)
+- X.29 Indra ____
+- X.30 Waters or Apām Napāt Kavaṣa Ailūṣa
+- X.31 All Gods ____
+- X.32 Indra ____
+- X.33 Lament of a Singer: All Gods (1),   Indra (2–3), Dānastuti of Kuruśravana Trāsadasyava (4–5), Upamaśravas Mitrātithiputra (6–9), ____
+- X.34 Gambler Kavaṣa Ailūṣa or Akṣa Maujavant X.35 All Gods Luśa Dhānāka
+- X.36 ____ ____
+- X.37 Sūrya Abhitapas Saurya
+- X.38 Indra Indra Muṣkavant
+- X.39 Aśvins Ghoṣā Kākṣīvatī
+- X.40 ____ ____
+- X.41 ____ Suhastya Ghauṣeya
+- X.42 Indra Krṣ̥ ṇa Āṅgirasa
+- X.43 ____ ____
+- X.44 ____ ____
+- X.45 Agni Vatsaprī Bhālandana
+- X.46 ____ ____
+- X.47 Indra Saptagu Āṅgirasa
+- X.48 Indra Vaikuṇṭha Indra Vaikuṇṭha
+- X.49 ____ ____
+- X.50 ____ ____
+- X.51 Dialogue between Agni and the Gods Agni Saucīka
+- X.52 Address to the Gods from Agni ____
+- X.53 Agni ____ Deities and Poets 1691
+- X.54 Indra Br̥haduktha Vāmadevya
+- X.55 Indra [or All Gods?] ____
+- X.56 All Gods ____
+- X.57 ____ Bandhu, Subandhu, Śrutabandhu, and   Viprabandhu, the four Gaupāyanas or   Laupāyanas
+- X.58 Return of Mind ____
+- X.59 Nirr̥ti (1–3), Nirr̥ti and Soma (4), Asunīti (5–6), Liṅgoktadevatāḥ (7), Heaven and Earth (8–10) or Indra (10ab) ____
+- X.60 Asamāti (1–4, 6), Indra (5), Four Gaupāyanas (1–5, 7–9), Spell to Heal Subandhu (7–11), their mother (6) Praise of the Hand (12)
+- X.61 All Gods Nābhānediṣṭha Mānava
+- X.62 ____ ____
+- X.63 ____ Gaya Plāta
+- X.64 ____ ____
+- X.65 ____ Vasukarṇa Vāsukra
+- X.66 ____ ____
+- X.67 Br̥haspati Ayāsya Āṅgirasa
+- X.68 ____ ____
+- X.69 Agni Sumitra Vādhryaśva
+- X.70 Āprī ____
+- X.71 Wisdom Br̥haspati Āṅgirasa
+- X.72 Gods Br̥haspati Āṅgirasa, Br̥haspati Laukya, or̥  Aditi Dākṣāyaṇī
+- X.73 Indra Gaurivīti Śāktya
+- X.74 ____ ____
+- X.75 Rivers Sindhukṣit Praiyamedha
+- X.76 Pressing Stones The snake Jaratkarṇa Airāvata
+- X.77 Maruts Syūmaraśmi Bhārgava
+- X.78 ____ ____
+- X.79 Agni Agni Saucīka or Agni Vaiśvānara or   Sapti Vājambhara
+- X.80 ____ Agni Saucīka or Agni Vaiśvānara
+- X.81 Viśvakarman Viśvakarman Bhauvana
+- X.82 ____ ____
+- X.83 Battle Fury Manyu Tāpasa
+- X.84 ____ ____
+- X.85 Wedding Sūryā Sāvitrī
+- X.86 Vrṣḁ̄ kapi (Conversation of Indra (1, 8, 11–12, 14, 19–22), Vrṣḁ̄ kapi Aindra, Indrāṇī, and Indra) Indrāṇī (2–6, 9–10, 15–18),  Vrṣḁ̄ kapi Aindra (7, 13, 23)
+- X.87 Agni Rakṣohan Pāyu Bhāradvāja
+- X.88 Sūrya and Vaiśvānara Mūrdhanvant Āṅgirasa or Vāmadevya X.89 Indra Reṇu Vaiśvāmitra
+- X.90 Puruṣa Nārāyaṇa
+- X.91 Agni Aruṇa Vaitahavya
+- X.92 All Gods Śāryāta Mānava
+- X.93 ____ Tānva Pārtha
+- X.94 Pressing Stones The snake Arbuda Kādraveya
+- X.95 Purūravas and Urvaśī Purūravas Aiḷa (1, 3, 6, 8–10, 12, 14, 17),   Urvaśī (2, 4, 5, 7, 11, 13, 15, 16, 18) X.96 Praise of Indra’s Horses Baru Āṅgirasa or Sarvahari Aindra X.97 Plants Bhiṣaj Ātharvaṇa 1692 Deities and Poets
+- X.98 Devāpi’s Plea for Rain Devāpi Ārṣṭiṣeṇa
+- X.99 Indra Vamra Vaikhānasa
+- X.100 All Gods Duvasyu Vāndana
+- X.101 Priests Budha Saumya
+- X.102 Race of Mudgala and Mudgalānī Mudgala Bhārmyaśva
+- X.103 Indra (1–3, 5–11), Br̥haspati (4), Apratiratha Aindra Āpva (12), Indra or the Maruts (13)
+- X.104 Indra Aṣṭaka Vaiśvāmitra
+- X.105 ____ Durmitra/Sumitra Kautsa
+- X.106 Aśvins Bhūtāṃśa Kāśyapa
+- X.107 Dakṣiṇā (Priestly Gift) or Its Givers Divya Āṅgirasa or Dakṣiṇā Prājāpatyā X.108 Saramā and the Paṇis Paṇis (1, 3, 5, 7, 9), Saramā (2, 4, 6, 8, 10–11)  X.109 All Gods Juhū Brahmajayā or Ūrdhvanābhan Brāhma  X.110 Āprī Jamadagni Bhārgava or Rāma Jāmadagnya  X.111 Indra Aṣṭrādaṃṣṭra Vairūpa
+- X.112 ____ Nabhaḥprebhedana Vairūpa
+- X.113 ____ Śataprabhedana Vairūpa
+- X.114 All Gods Sadhri Vairūpa or Gharma Tāpasa X.115 Agni Upastuta Vārṣṭihavya
+- X.116 Indra Agniyuta (or Agniyūpa) Sthaura X.117 Praise of Generosity Bhikṣu Āṅgirasa
+- X.118 Agni Rakṣohan Urukṣaya Āmahīyava
+- X.119 Self-Praise of the “Lapwing” Laba Aindra
+- X.120 Indra Br̥haddiva Ātharvaṇa
+- X.121 Ka “Who?” Hiraṇyagarbha Prājāpatya
+- X.122 Agni Citramahas Vāsiṣṭha
+- X.123 Vena Vena Bhārgava
+- X.124 Agni (1–4), as mentioned (5–8), Agni (2–4), Agni, Varuṇa, and Indra (9) Soma (1, 5–9)
+- X.125 Speech Vāc Āmbhrṇ̥ a
+- X.126 All Gods Kulmalabarhiṣa Śailūṣi or Aṃhomuc Vāmadevya X.127 Night Kuśika Saubhara or Rātri Bhāradvājī X.128 All Gods Vihavya Āṅgirasa
+- X.129 Creation Prajāpati Parameṣṭhin
+- X.130 Creation of the Sacrifice Yajña Prājapatya
+- X.131 Indra (1–3, 6–7), Aśvins (4–5) Sukīrti Kākṣīvata
+- X.132 Mitra and Varuṇa Śākapūta Nārmedha
+- X.133 Indra Sudās Paijavana
+- X.134 ____ Māndhātar Yauvanāśva (1–6ab), Godhā (6cdef-7) X.135 Yama Kumāra Yāmāyana
+- X.136 Muni [the Keśins, “Long-Haired Ones”] Vātaraśana’s seven sons,  the munis Jūti (1),Vātajūti (2),  Viprajūti (2), Vrṣḁ̄ ṇaka (4), Karikrata (5),   Etaśa (6), R̥śyaśrṅ̥ ga (7)
+- X.137 All Gods Bharadvāja (1), Kaśyapa (2), Gotama (3),   Atri (4), Viśvāmitra (5), Jamadagni (6),   Vasiṣṭha (7)
+- X.138 Indra Aṅga Aurava
+- X.139 Sūrya (1–3), Viśvāvasu (4–6) Viśvāsu Devagandharva
+- X.140 Agni Agni Pāvaka
+- X.141 All Gods Agni Tāpasa
+- X.142 Agni The four Śārṅgas: Jaritar (1–2),  Droṇa (3–4), Sārisr̥kva (5–6),  Stambamitra (7–8)
+- X.143 Aśvins Atri Sāṃkhya Deities and Poets 1693
+- X.144 Indra Suparṇa Tārkṣyaputra or  Ūrdhvakrś̥ ana Yāmāyana
+- X.145 Against Cowives Indrāṇī
+- X.146 Lady of the Wilderness (Araṇyānī) Devamuni Airammada
+- X.147 Indra Suvedas Śairīṣi
+- X.148 ____ Pr̥thu Vainya
+- X.149 Savitar Arcat Hairaṇyastūpa
+- X.150 Agni Mrḷ̥īka Vāsiṣṭha
+- X.151 Śraddhā Śraddhā Kāmāyanī
+- X.152 Indra Śāsa Bhāradvāja
+- X.153 ____ Devajāmaya Indramātaraḥ
+- X.154 To a Dead Man Yamī
+- X.155 Spell to Remove Misfortune (1, 4), Śirimbiṭha Bhāradvāja Brahmaṇaspati (2–3), All Gods (5)
+- X.156 Agni Ketu Āgneya
+- X.157 All Gods Bhuvana Āptya or Sādhana Bhauvana
+- X.158 Sūrya Cakṣus Saurya
+- X.159 Against Cowives Śacī Paulomī
+- X.160 Indra Purāṇa Vaiśvāmitra
+- X.161 Against Diseases Yakṣṃanāśana Prājāpatya
+- X.162 Against Miscarriage Rakṣohan Brāhma
+- X.163 Against Disease Vivr̥han Kāśyapa
+- X.164 Against Nightmare Pracetas Āṅgirasa
+- X.165 All Gods (Bird of Ill Omen) Kapota Nairrtḁ
+- X.166 Against Rivals R̥ṣabha Vairāja or R̥ṣabha Śākvara X.167 Indra (1–2, 4), Liṅgoktadevatāḥ (3) Viśvāmitra and Jamadagni
+- X.168 Vāyu Anila Vātāyana
+- X.169 Cows Śabara Kākṣīvata
+- X.170 Sūrya Vibhrāj Saurya
+- X.171 Indra Iṭa Bhārgava
+- X.172 Dawn Saṃvarta Āṅgirasa
+- X.173 Praise of the King (Royal Consecration) Dhruva Āṅgirasa
+- X.174 Praise of the King Abhīvarta Āṅgirasa
+- X.175 Pressing Stones Ūrdhvagrāvan Āṅgirasa
+- X.176 R̥bhus (1), Agni (2–4) Sūnu Ārbhava
+- X.177 Pataṃga Pataṃga Prājāpatya
+- X.178 Tārkṣya Ariṣṭanemi Tārkṣya
+- X.179 Indra Śibi Auśīnara (1), Pratardana Daivodāsi (2), Vasumanas Rauhidaśva (3) X.180 ____ Jaya Aindri
+- X.181 All Gods Pratha Vāsiṣṭha (1), Sapratha Bhāradvāja (2), Gharma Saurya (3) X.182 Br̥haspati Tapurmūrdhan Bārhaspatya
+- X.183 For the Birth of a Son [Sacrificer (1), Prajāvant Prājāpatya, the Sacrificer’s Wife (2), and the Hotar (3)]
+- X.184 Pregnancy/Birth Charm Tvaṣṭar Garbhakartar or [Liṅgoktadevatāḥ] Viṣṇu Prājāpatya
+- X.185 Aditi Satyadhrti V̥ āruṇi
+- X.186 Vāyu Ula Vātāyana
+- X.187 Agni Vatsa Āgneya
+- X.188 Agni Jātavedas Śyena Āgneya
+- X.189 Sārparājñī or Sūrya Sārparājñī
+- X.190 Bhavāvr̥ttam Aghamarṣaṇa Mādhuchandasa
+- X.191 Agni (1), Unity (2–4) Saṃvanana Āṅgirasa

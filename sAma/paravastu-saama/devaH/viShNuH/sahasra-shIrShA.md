@@ -7,43 +7,15 @@ practice_weight: 0
 ---
 
 ## ऋक्
-२ ० ० ०४०३  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/32_0617_sahasrashIrShAH_puruShaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-स꣣ह꣡स्र꣢शीर्षाः꣣ पु꣡रु꣢षः  
-सहस्रा꣣क्षः꣢ स꣣ह꣡स्र꣢पात्।  
-स꣣र्व꣡तो꣢ वृ꣣त्वा꣡  
-ऽत्य꣢तिष्ठद्द꣣शाङ्गुल꣢म् ।।617  
-त्रि꣣पा꣢दू꣣र्ध्व꣢꣫ उदै꣣त्पु꣡रु꣢षः꣣  
-पदो꣢ऽस्ये꣣हा꣡भ꣢व꣣त्पु꣡नः꣢।  
-त꣢था꣣ वि꣢ष्व꣣꣬ङ् व्य꣢꣯क्रामद्  
-अशनानश꣣ने꣢ अ꣣भि꣢ ।।618  
-पु꣡रु꣢ष ए꣣वे꣢꣫दᳱ सर्वं꣣  
-य꣢द्भू꣣तं꣢꣫ यच्च꣣ भा꣡व्य꣢म्।  
-पा꣡दो꣢ऽस्य꣣ स꣡र्वा꣢ भू꣣ता꣡नि꣢  
-त्रि꣣पा꣡द꣢स्या꣣मृ꣡तं꣢ दि꣣वि꣢ ।।619  
-ता꣡वा꣢नस्य महि꣣मा꣢꣫  
-ततो꣣ ज्या꣡या꣢ᳱश्च꣣ पू꣡रु꣢षः।  
-उ꣣ता꣡मृ꣢त꣣त्व꣡स्येशा꣢꣯नो꣣  
-य꣡दन्ने꣢꣯नाति꣣रो꣡ह꣢ति ।।620  
-त꣡तो꣢ वि꣣रा꣡ड꣢जायत  
-वि꣣रा꣢जो꣣ अ꣢धि꣣ पू꣡रु꣢षः।  
-स꣢ जा꣣तो꣡ अत्य꣢꣯रिच्यत  
-प꣣श्चा꣢꣫द्भूमि꣣म꣡थो꣢ पु꣣रः꣢ ।।621
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/33_0618_tripAdUrdhva_udaitpuruShaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात् ।  
-स भूमिं सर्वतो वृत्वात्यतिष्ठद्दशाङ्गुलम्  । । ६१७  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/34_0619_puruSha_evedam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-त्रिपादूर्ध्व उदैत्पुरुषः पदोऽस्येहाभवत्पुनः  ।  
-तथा विष्वङ्व्यक्रामदशनानशने अभि  । । ६१८  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/35_0620_tAvAnasya_mahimA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-पुरुष एवेदं सर्वं यद्भूतं यच्च भाव्यम्  ।  
-पादोऽस्य सर्वा भूतानि त्रिपादस्यामृतं दिवि  । । ६१९
-
-तावानस्य महिमा ततो ज्यायांश्च पूरुषः  ।  
-उतामृतत्वस्येशानो यदन्नेनातिरोहति  । । ६२०
-
-ततो विराडजायत विराजो अधि पूरुषः  ।  
- स जातो अत्यरिच्यत पश्चाद्भूमिमथो पुरः  । । ६२१
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/36_0621_tato_virADajAyata.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## साम
@@ -116,4 +88,3 @@ practice_weight: 0
 प+++([])+++श्चाद्+++(~~थ्~~)+++ भूमीइ, माथो+++(~~धो~~)+++, पूरः ।  
 हा+++([])+++उ । हा+++([])+++उ । ह+++([])+++उवाअ ।  
 ई+++([])+++ई ॥
-

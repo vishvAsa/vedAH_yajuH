@@ -7,7 +7,7 @@ unicode_script: devanagari
 ## ऋक्
 
 
-<div class="js_include" url="/saMskAra/mantraH/indraH/Rk/piba_somam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/08_0398_pibA_somamindra.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## साम १
@@ -49,4 +49,3 @@ unicode_script: devanagari
 
 ना+++([प्रे]%"३)+++अर्वाअअ औ+++(["])+++हो+++("%)+++वाअ।  
 ई+++([टू])+++इइइ ई+++(३)+++।
-

@@ -9,7 +9,7 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 **व॒स॒न्तेन॑** त्व॒र्तुना॑ ह॒विषा॑ दीख्षयामि ।  
 आ ऽहन् दी॒ख्षाम् अ॑रुहम् ऋ॒तस्य॒ पत्नी᳚म्।  
 गा॒य॒त्रेण॒ छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥
-<div class="js_include" url="../../../../../saMskAra/mantraH/lokAntaram/Rk/mahIm_U_Shu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/devaH/hindukaH/lokAntaram/Rk/mahIm_U_Shu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 [भुवो॑ +++(उत्पद्यस्व)+++ दे॒वाना॒ङ् कर्म॑णा॒, ऽप॑सा +ऋ॒तस्य॑। प॒थ्या॑ऽसि ।]  
 **रु॒द्रेभि॑र्** दे॒वेभि॑र् दे॒वत॑या॒ **त्रैष्टु॑भेन** त्वा॒ छन्द॑सा युनज्मि।  
@@ -41,7 +41,7 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 [आ ऽहन् दी॒ख्षाम् अ॑रुहम् ऋ॒तस्य॒ पत्नी᳚म्।  
 **पाङ्क्ते॑न** छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]  
 
-<div class="js_include" url="../../../../../saMskAra/mantraH/lokAntaram/Rk/mahIm_U_Shu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/devaH/hindukaH/lokAntaram/Rk/mahIm_U_Shu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## पत्स्व् आहुतयः
 +++(उत्सृष्टे चतुर्षु पत्सु चतस्र आहुतीर्जुहोति)+++  

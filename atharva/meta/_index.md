@@ -34,3 +34,24 @@ unicode_script = "devanagari"
 
 
 > Stauda , Mauda, Jajala, Jalada, Kuntapa, Brahmavada, Devadarsa and  Charanavaidya shakahas - extinct - ST
+
+
+## प्राचीनता
+### सारः
+> The floating mass of grihya, shAnta and yAtu material most likely collected and given shape by the clans of bhrigus/atharvans and angirases - this post dates shrauta standardization in kuru panchala realms.The floating mass of grihya, shAnta and yAtu material most likely collected and given shape by the clans of bhrigus/atharvans and angirases - this post dates shrauta standardization in kuru panchala realms.
+
+### शब्द-व्युत्पत्तिः
+> The word atharvan itself has the Iranian cognate  āθravan which really semantically equivalent to brAhmaNa. Just like brAhmaNa is supposed to possess brahmavarchas, acquisition of glorious khvarena makes one an āθravan. Connection Iranian ātar most likely is correct, as it was atharvan who discovers fire under water and deposits on a lotus leaf (something alluded in Rig Veda itself).  Any connection to atharvan and angirasa collection of mantras appear to be a later development. ...
+
+### अन्यत्र मन्त्रानुकृतिः
+> If you examine the contents of AV, you can see broad divisions like this  
+> - grihya ritual proper (lot of AV mantras make their way into mantrapAThas of grihya sutras. AV has superior reading in general); 
+> - witchcraft/sorcery - domain of angirasa and 
+> - bheshajAni/shAnti - domain of atharvan. 
+>
+> Most likely mantras associated with these practices predate RV itself - AV healing charm has an exact Germanic stanza. The yAtuvidya/sorcery is at least of Indo-Iranian provenance - Yasna 12.4 has the zoroastrian reject yAtus and their associates.
+
+### तैत्तिरीयोल्लेखाः
+> Taittiriya samhita in ashvamedha mantras has this: In the long list of svAhAkAras, it has R^igbhyassvAhA, yajurbhyassvAhA, sAmebhyassvAhA and angirobhyassvAhA.  
+> Taittiriya brAhmaNa 3.12.8.2 has this passage: It enumerates R^iks, yajushes, sAmans and continues with atharvAngirasas, itihAsa puraNas and the vidyas of sarpa and deva janas.  
+> Taittiriya Upanishad of yajurveda in brahmAnandavalli (8.3.1) on manomaya kosha has yajur as the head, R^iks and sAmans as the wings and atharvAngirasa as the tail. This establishes taittiriya upanishad is aware of all the 4 veda.  

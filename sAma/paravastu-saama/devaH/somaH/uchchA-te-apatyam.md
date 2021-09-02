@@ -1,19 +1,18 @@
 ---
-title: उच्चा ते - अपत्यम् 
+title: उच्चा ते - अपत्यम्
 unicode_script: devanagari  
 
 practice_weight: 0
 ---
 
 ## ऋक्
-<div class="js_include" url="/saMskAra/mantraH/somaH/Rk/uchchA_te/"  newLevelForH1="3" includeTitle="false"> </div> 
-
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/31_0467_uchchA_te.md"  newLevelForH1="2" includeTitle="false"> </div>  
 ## साम
-- पारम्परिक-गान-मूलम् 
+- पारम्परिक-गान-मूलम्
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
-  
+
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/uchchA-te-apatyam.mp3"></div>

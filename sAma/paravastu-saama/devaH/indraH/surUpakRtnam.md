@@ -1,5 +1,5 @@
 ---
-title: सुरूपकृत्नम् 
+title: सुरूपकृत्नम्
 unicode_script: devanagari
 
 practice_weight: 0
@@ -12,13 +12,8 @@ practice_weight: 0
 छन्दः  गायत्री
 
 ### संहिता
-सु॒रू॒प॒कृ॒त्नुम् +++(इन्द्रं)+++ ऊ॒तये॑+++(=रक्षायै)+++  
-सु॒दुघा॑मिव गो॒दुहे॑ ।  
-जु॒हू॒मसि॒ द्यवि॑द्यवि ॥
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/2/16_0160_surUpakRtnumUtaye_sudughAmiva.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-सु꣣रूपकृत्नु꣢म् ऊ꣣त꣡ये  
-सु꣣दु꣡घा꣢मिव गो꣣दु꣡हे꣢।  
-जु꣣हूम꣢सि꣣ द्य꣡वि꣢द्यवि ।।1 ।।
 
 ## साम
 

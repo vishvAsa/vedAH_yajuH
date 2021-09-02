@@ -10,17 +10,10 @@ unicode_script: devanagari
 
 १ ४ १ ०५०१  
 
-त्य꣢मू꣣+++(=तं)+++ षु꣢ वा꣣जि꣡नं꣢+++(=अन्नवन्तं बलवन्तं वा)+++ दे꣣व꣡जू꣢तᳱ +++(प्रेरितम् प्रीतं वा [सोमाहरणाय])+++  
-सहो꣣+++(हा +ऋग्वेदे)+++वा꣡नं꣢+++(=सहस्वन्तं)+++ तरु꣢ता꣢र꣣ᳱ+++(=तारकम्)+++ +++(पर)+++र꣡था꣢नाम्म् ।  
-अ꣡रि꣢ष्ट-नेमिं+++(=परिरेखाम्)+++ पृत꣣ना꣡+++(=[पर]सेना)++++ऽज꣢मा꣢शु꣣ᳱ+++(अज गति-क्षेपणयोः)+++  
-स्व꣣स्त꣢ये꣣ ता꣡र्क्ष्य꣢म्+++(=तृक्षजम्)+++ इ꣣हा꣡ हु꣢वेम ।।332 ।।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/1/40_0332_tyamU_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-त्यमू षु वाजिनं देव-जूतं  
-सहोवानं तरुतार  ।  
-अरिष्ट-नेमिं पृतनाऽजम् आशुं  
-स्वस्तये तार्क्ष्यम् इहा +हुवेम  ।। ३३२
 
-{{< figure src="/saMskAra/mantraH/misc-devas/images/tArkShya.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/misc-devas/images/tArkShya.jpg"  class="thumbnail">}}
 
 ### टिप्पनी
 हेषारव इव श्येनशब्दः! तार्क्ष्यो गरुण इत्य् अर्वाचीनाः।

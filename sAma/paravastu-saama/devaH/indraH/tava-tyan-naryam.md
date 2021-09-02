@@ -8,26 +8,12 @@ unicode_script: devanagari
 
 RV.2.22.4b; SV.1.466b.
 
-+++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n142/mode/1up&sa=D&ust=1542425956188000)। गृत्स्नमदः। अतिशक्वरी। इन्द्रः।] ज्येष्ठानक्षत्र आकाशगङ्गापार्श्वे ऽहिमर्दनं लक्ष्यते दिवि।)+++
++++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n142/mode/1up&sa=D&ust=1542425956188000)। गृत्स्नमदः। अतिशक्वरी। इन्द्रः।] ज्येष्ठानक्षत्र आकाशगङ्गापार्श्वे ऽहिमर्दनं लक्ष्यते दिवि।)+++ 
 
-तव त्यन् +++(=तत्)+++ नर्यं॑ +++(= नराणाम्)+++ नृतो +++(=नर्तयितः)+++  
-ऽप इन्द्र प्रथ॒मम् +++(=प्रततम्)+++ पूर्वि॒यं दि॒वि  प्र॒वाच्यं॑ कृ॒तम् ।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/30_0466_tava_tyannaryam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-यद् दे॒वस्य +++(=वृत्रस्य मेघस्य वा)+++ शव॑सा +++(अपः)+++  
-प्रारि॑णा +++(प्रैरयः)+++ असुं +++(=प्राणम्)+++ रि॒णन्न् +++(=हिंसन्)+++ अ॒पः।  
-भुव॑द्+++(वो)+++ विश्व॑म् अ॒भि-आदे॑वम् +++(=अदेवम्)+++ ओज॑सा,  
-वि॒दाद् +++(=लभताम्)+++ ऊर्जं श॒तक्र॑तुर् वि॒दाद् इष॑म् ।।
 
-त꣢व꣣ त्य꣡न्न꣢꣯र्यं नृ꣣तो꣡  
-ऽप꣢ इन्द्र प्रथ꣣मं꣢ पू꣣र्व्यं꣢ दि꣣वि꣢  
-प्र꣣वा꣡च्यं꣢ कृ꣣त꣢म्। 
-
-यो꣢ दे꣣व꣢स्य꣣ श꣡व꣢सा꣣ प्रा꣡  
-+रि꣢णा꣣ अ꣡सु꣢ रि꣣ण꣢न्न꣣पः꣢।  
-भु꣢वो꣣ वि꣡श्व꣢म꣣भ्य꣡दे꣢व꣣म् ओ꣡ज꣢सा  
-वि꣣दे꣡दूर्ज꣢꣯ᳱ श꣣त꣡क्र꣢तुर्वि꣣दे꣡दिष꣢꣯म् ।।466 ।।
-
-{{< figure src="/saMskAra/mantraH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
 
 
 ## साम

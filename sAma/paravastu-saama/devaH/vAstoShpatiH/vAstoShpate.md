@@ -8,13 +8,9 @@ unicode_script: devanagari
 
 +++([कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n623&sa=D&ust=1542425956279000) १ ३ २ ०९०३। इरिमिठः। इन्द्रः।])+++
 
-वा꣡स्तो꣢ष्पते  +++(=गृहपते)+++ ध्रु꣣वा꣡ स्थूणा+++(=गृहाधारभूतस्तम्भाः)+++ᳱस꣢꣯त्रᳱ सो꣣म्या꣡ना꣢म्   +++(=सोमार्हानाम्)+++।  
-द्र꣣प्सः꣢ +++(=द्रवणशीलः)+++ पु꣣रां꣢ भे꣣त्ता꣡ शश्व꣢꣯तीना꣣मि꣢न्द्रो꣣ मु꣡नी꣢ना꣣ᳱ स꣡खा꣢ ।।275 ।।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/2/33_0275_vAstoShpate_dhruvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-वास्तोष्पते ध्रुवा स्थूणा अंसत्रं सोम्यानाम्।  
-द्रप्सः पुरां भेत्ता शश्वतीनामिन्द्रो मुनीनां सखा  । । २७५
-
-{{< figure src="/saMskAra/mantraH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
 
 
 ## साम १

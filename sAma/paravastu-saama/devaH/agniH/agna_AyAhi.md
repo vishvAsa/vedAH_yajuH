@@ -4,10 +4,10 @@ unicode_script: devanagari
 ---
 
 ## ऋक्
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/06/aMshAHagna_AyAhi.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/7/2/07-1_1552_agna_A.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
-{{< figure src="/saMskAra/mantraH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
 
 
 ## साम १
@@ -40,7 +40,7 @@ unicode_script: devanagari
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agna-AyAhi-2.mp3"></div>
 
 आ+++([]%%)+++ग्ना आ+++(%%३)+++या+++(३)+++अहि  
-वी+++(%%३)+++,,त+++([])+++या+++(--%३)+++ इ । 
+वी+++(%%३)+++,,त+++([])+++या+++(--%३)+++ इ ।
 
 गृ+++([])+++णा+++(%)+++नो+++(%)+++ हव्यदा+++(%)+++ता+++(--%३)+++अयाइ ।  
 नि+++([])+++होता सत्सि बर्हा+++(--%३)+++इषि ।  

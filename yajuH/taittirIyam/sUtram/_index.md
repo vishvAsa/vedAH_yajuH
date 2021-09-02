@@ -3,6 +3,15 @@ title = "+सूत्रम्"
 unicode_script = "devanagari"
 +++
 
+## प्रादेशिकप्रसारः
+- Āpastamba
+- Baudhāyana
+- Hiraṇyakeśī (rare)
+- Vaikhānasa (one specific class)
+- Vādhūla (May survive in KL)
+- Bhāradvāja (Extinct)
+- Agniveśya (a micro-class in TN)
+
 ## सूत्रावली
 - आपस्तम्ब-श्रौतसूत्रम्
 - आपस्तम्ब-गृह्यसूत्रम्

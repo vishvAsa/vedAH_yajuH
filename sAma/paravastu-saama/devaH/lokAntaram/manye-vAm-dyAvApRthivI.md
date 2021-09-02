@@ -7,11 +7,11 @@ practice_weight: 0
 
 ## ऋक्
 
-<div class="js_include" url="/saMskAra/mantraH/lokAntaram/Rk/manye_vAm_dyAvApRthivI/"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/37_0622_manye_vAm.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## साम
 
-- पारम्परिक-गान-मूलम् 
+- पारम्परिक-गान-मूलम्
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
@@ -34,4 +34,3 @@ practice_weight: 0
 हु+++([])+++वाइ॥त्रिः॥ रू+++([])+++पा।  
 अवा+++([])+++अअ। औहोवाअ।  
 ए+++([])+++,ए। रू+++([])+++पम्॥एवम् त्रिः॥ ॥७॥
-

@@ -7,7 +7,7 @@ practice_weight: 0
 ## ऋक्
 
 
-<div class="js_include" url="/saMskAra/mantraH/indraH/Rk/piba_somam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/08_0398_pibA_somamindra.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## साम
 
@@ -22,7 +22,7 @@ practice_weight: 0
 हा+++([])+++उ ॥ त्रिः ॥  
 आ+++([])+++इहि ॥ त्रिः ॥  
 अ+++([])+++इ ॥ त्रिः ॥  
-इ+++([])+++या, हाउ ॥ त्रिः ॥ 
+इ+++([])+++या, हाउ ॥ त्रिः ॥
 पी+++([])+++बा, सोमां ।  
 इन्+++([])+++द्रा ।  
 मन्+++([])+++,दातु त्वाअ ।  

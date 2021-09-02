@@ -5,107 +5,103 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
-अस्य विस्तारो [ऽत्र](../../../../../../general/ArAdhanam/bali/sarpa-baliH/)।
-
 ## उपक्रमः
 श्रावण्यां पौर्णमास्याम् अस्तमिते स्थालीपाकः ५  
-## किंशुकहोमः
-पार्वणवद् आज्यभागान्ते स्थालीपाकाद् +धुत्वा ऽञ्जलिनोत्तरैः प्रतिमन्त्रं किशुकानि जुहोति ६  
 
-ज॒ग्धो मश॑को, ज॒ग्धा वितृ॑ष्टिर्, ज॒ग्धो व्य॑द्ध्व॒रः स्वाहा॑ ।  
-ज॒ग्धो व्य॑द्ध्व॒रो,  ज॒ग्धो मश॑को,  ज॒ग्धा वितृ॑ष्टि॒स् स्वाहा॑ ।  
-ज॒ग्धा वितृ॑ष्टिर्, ज॒ग्धो व्य॑द्ध्व॒रो, ज॒ग्धो मश॑क॒स् स्वाहा॑ ॥ +++(र५ विन्यासे ऽत्र सर्पाकृतिः)+++
++++(श्रावण्यै पौर्णमास्यै स्वाहा इति श्रावण्याम्।)+++
+
+### किंशुकहोमः
+पार्वणवद् आज्यभागान्ते स्थालीपाकाद् +धुत्वा  
+ऽञ्जलिनोत्तरैः प्रतिमन्त्रं +++(३)+++ किंशुकानि जुहोति ६  
++++(किंशुकानि → वसन्त एव सङ्गृहीतानि पलाश-पुष्पाणीति केचित्। केचित्— पलाशसदृशस्य कण्टकिनः mull murungai इत्यस्य पुष्पाणीति।  
+केचिद् अञ्जलिहोमा लाजहोमवद् यावदुक्तधर्माण एवेति।  
+)+++
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/13-15_jagdho_mashako.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
-## समिद्धोमः
-### मन्त्राः
+### समिद्धोमः
+#### मन्त्राः
 उत्तराभिस् तिसृभिर् आरग्वध-मय्यस् समिधः ७  
 
-इन्द्र॑ जहि दन्द॒शूकं॑  
-प॒क्षिणं॒ यस् स॑रीसृ॒पः ।  
-दं॒क्ष्यन्त॑ञ् च द॒शन्त॑ञ् च॒  
-सर्वा॒ꣳ॒स् तान् इ॑न्द्र जंभय॒+++(=स्तम्भय)+++ स्वाहा॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/01_indra_jahi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-अ॒प्सुजा॑त॒ सरे॑वृद्ध  
-दे॒वाना॒म् अपि॑ हस्त्य ।  
-त्वम् अ॑ग्न इन्द्र॒ प्रेषि॑त॒स्  
-स नो॒ मा हिꣳ॑सीः॒ स्वाहा॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/02_apsujAta_sarevRddha.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-त्राण॑म् असि।  
-परि॒त्राण॑म् असि।  
-परि॒धिर् अ॑सि ।  
-अन्ने॑न मनु॒ष्याꣳ॑स् त्रायसे॒, तृणैः॑ प॒शून्, ग॒र्तेन॑ स॒र्पान्, य॒ज्ञेन॑ दे॒वान्त् स्व॒धया॑ पि॒तॄन्त् स्वाहा॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/03_trANamasi_paritrANamasi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
-## आज्याहुतिमन्त्राः
+### आज्याहुतिः
 आज्याहुतीर् उत्तराः ८  
 
-+++(सर्पाधिपते!)+++ तत् स॒त्यं यत् ते॑ ऽमावा॒स्या॑याञ् च पौर्णमा॒स्याञ् च॒ विष॑ब॒लिꣳ हर॑न्ति॒।  
-सर्व॑ उदर-स॒र्पिणः॑ तत् +++(बलिं)+++ ते॒ प्रेर॑ते॒+++(=प्राप्नुवन्ति)+++, त्वयि॒ संवि॑शन्ति।  
-त्वयि॑ नस्स॒तस्+++(=आश्रितान्)+++, त्वयि॑ स॒द्भ्यो +++(सर्पेभ्यो)+++, व॒र्षाभ्यो॑ नः॒ परि॑देहि ।  
-+++(वर्षऋतौ सर्पबाहुल्यम्।)+++
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/04_tatsatyaM_yatte-mAvAsyAyAncha.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/saMskAra/mantraH/misc-devas/Rk/namo_astu_sarpebhyaH/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/namo_astu_sarpebhyaH/"  newLevelForH1="2" includeTitle="false"> </div>  
 
+### उत्तराङ्गम्
++++(अञ्जलेर् दर्व्याश् च लेपस्यार्पणं कर्म स्थालीपाकवत्। किंशुकशेषादपि स्विष्टकृते समवदानम् ।)+++
 
 जयादि प्रतिपद्यते ९  
+
++++("सौविष्टकृतं च स्थालीपाकादेव हुत्वा" इति हरदत्तः।)+++
+
 परिषेचनान्तं कृत्वा  
 
-### बलिनिर्वापः
-## बलिहरण-सङ्कल्पः
+## बलिनिर्वापः
+### बलिहरण-सङ्कल्पः
 वाग्यतस् संभारान् आदाय प्राचीम् उदीचीं वा दिशम् उपनिष्क्रम्य  
 स्थण्डिलं कल्पयित्वा  
 तत्र प्राचीर् उदीचीश् च तिस्रस् तिस्रो लेखा लिखित्वा  
-ऽद्भिर् उपनिनीय  
-तासूत्तरया सक्तून् निवपति १०  
++++(तासां समीपे )+++  ऽद्भिर् उपनिनीय +++(- सर्वदेवजनेभ्यो ददाति यथापितृभ्यः पिण्डदाने ।)+++  
+तासूत्तरया सक्तून्+++(=भृष्ठयवादिचूर्णानि)+++ निवपति +++(ताः सर्वा लेखाः यथा बलिर्व्याप्नुयात्)+++ १०  
 
-नमो॑ अस्तु स॒र्पेभ्यो॒  
-ये पार्थि॑वा॒ य आ॑न्तरि॒क्ष्या॑ ये दि॒व्या॑ ये दि॒श्याः॑ ।  
-+++(उपक्रमे)+++ तेभ्य॑ इ॒मं ब॒लिꣳ ह॑रिष्यामि ।  
-+++(मार्गशीर्ष्यां तु)+++ तेभ्य॑ इ॒मं ब॒लिम॑हार्षम् ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/08_namo_astu.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-## उपस्थानमन्त्राः
-तक्ष॑क॒ वैशा॑लेय- धृ॒तरा॑ष्ट्रैरावत॒स् ते जी॑वा॒स्,  
-त्वयि॑ नस्स॒तस्+++(=आश्रितान्)+++, त्वयि॑ स॒द्भ्यो +++(सर्पेभ्यो)+++, व॒र्षाभ्यो॑ नः॒ परि॑देहि ।  
-धृ॒तरा॑ष्ट्रैरावत॒ तक्ष॑क॒स्ते वै॑शाले॒यो जी॑वा॒स् …।  
-अ॒हि॒ꣳ॒सा॒ति॒ब॒लस्ते जी॑वा॒स् …।  
-अ॒ति॒ब॒ला॒हि॒ꣳ॒सस्ते जी॑वा॒स्  …।  
+तूष्णीं सम्पुष्का+++(=अक्षता)+++ धाना, लाजान्, आञ्जनाभ्यञ्जने, स्थगर+++(=गन्धविशेषः - betel?)+++ +उशीरम् +++(=Vettiver grass)+++ इति +++(६ द्रव्याणि)+++११  
+
+### उपस्थानमन्त्राः
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/09-10_taxaka_vaishAleya.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/11_-12_ahiMsAtibalaste_jIvAstvayi.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/13_ye_dandashUkAH.md"  newLevelForH1="2" includeTitle="false"> </div>
+
++++(प्रतिदिशम् मन्त्राः।)+++
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/14_samIchI_nAmAsi.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/15_-19_ojasvinI_nAmAsi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
-ये द॑न्द॒शूकाः॒ पार्थि॑वा॒स्- ताꣳस् त्वम् इ॒तः प॒रो गव्यू॑तिं॒ निवे॑शय ।  
-सन्ति॒ वै न॑श् श॒फिन॒स्, सन्ति॑ द॒ण्डिन॒स्, ते वो॒ नेद् +धि॒नसा॒न्, न्येद् यू॒यम् अ॒स्मान् हि॒नसा॑त ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/20_-25_hetayo_nAmastha.md"  newLevelForH1="4" includeTitle="false"> </div>  
 
-तूष्णीं सम्पुष्का+++(=अक्षता)+++ धाना, लाजान्, आञ्जनाभ्यञ्जने, स्थगरोशीरम् इति +++(६ द्रव्याणि)+++११  
+### प्रत्येत्य गृहपरिषेचनमन्त्रौ
+उत्तरैर् उपस्थायापः परिषिच्याप्रतीक्षस् +++(→ पृष्ठतो ऽप्रतीक्षमाणस्)+++ तूष्णीम् एत्य  
+"अपश्वेत पदेत्याभ्याम्" उद-कुम्भेन त्रिः प्रदक्षिणम् अन्तरतोऽगारं निवेशनं वा परिषिच्य  
 
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/26_apashvetapadA_jahi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/saMskAra/mantraH/lokAntaram/yajuH/dik/samIchI_nAmAsi/"  newLevelForH1="4" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/27_na_vai.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/saMskAra/mantraH/lokAntaram/yajuH/dik/hetayo_nAma/"  newLevelForH1="4" includeTitle="false"> </div>  
-
-## प्रत्येत्य गृहपरिषेचनमन्त्रौ
-उत्तरैर् उपस्थायापः परिषिच्याप्रतीक्षस् तूष्णीम् एत्य  
-"अपश्वेत पदेत्याभ्याम्" उदकुम्भेन त्रिः प्रदक्षिणम् अन्तरतोऽगारं निवेशनं वा परिषिच्य  
-
-अप॑ श्वेत +++(सर्पाधिपते)+++ प॒दा+++(वि३)+++ ज॑हि॒+++(→हन)+++  
-पूर्वे॑ण॒ चाप॑रेण च ।  
-स॒प्त च॒ मानु॑षीर् इ॒मास् +++(सर्पजातीः- ब्राह्मणानां तिस्रः वैश्यानां द्वे, शूद्राणां च द्वे)+++  
-ति॒स्रश्च॑ रा॒जब॑न्धवीः ।  
-
-न वै श्वे॒तस्या॑ऽध्याचा॒रे+++(=आधिपत्ये)+++  
-ऽहि॑र् ज॒घान॒ कञ्च॒न ।  
-श्वे॒ताय॑ वैद॒र्वाय॒+++(=विदर्बपुत्राय)+++ नमो॒  
-नमः॑ श्वे॒ताय॑ वैद॒र्वाय॑ ॥ (17)
-
-ब्राह्मणान् भोजयेत् १२  
++++(युग्मान्)+++ ब्राह्मणान् भोजयेत् +++(स्थालीपाक-शेषादिभिः सर्पिष्मद्भिः। उपनयनवद् भुक्तवद्भिर् आशीर्-वचनम्।)+++ १२  
 धानाः कुमारान् प्राशयन्ति १  
 
 ## व्रतम्
-एवमत ऊर्ध्वं यद् अशनीयस्य सक्तूनां वैतं बलिं हरेद् आमार्गशीर्ष्याः २
+एवम् अत ऊर्ध्वं यद् अशनीयस्य सक्तूनां वैतं बलिं हरेद् आमार्गशीर्ष्याः २
+
+### अनुकल्पः
+- पर्वस्व् एव बलिदानेनालमिति केचित् - "तत्स॒त्यं यत्ते॑ऽमावा॒स्या॑याञ्च पौर्णमा॒स्याञ् च॒ विष॑ब॒लिं हर॑न्ति॒ सर्व॑ उदरस॒र्पिणः॑ ।" इति मन्त्रात् प्रायः।
 
 ## अवसानम्
-मार्गशीर्ष्यां पौर्णमास्याम् अस्तमिते स्थालीपाकः +++(उपक्रमवत्)+++ ३  
+मार्गशीर्ष्यां पौर्णमास्याम् अस्तमिते स्थालीपाकः +++(उपक्रमवत्)+++ ३ +++( मार्गशीर्षायै पौर्णमास्यै स्वाहा।)+++  
 अहार्षम् इति बलि-मन्त्रस्य सन्नामः ४  
 अत्रैनमुत्सृजति ५
 
 ## स्रोतांसि
 - मन्त्रपाठे [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n173/mode/2up)।
+- आपस्तम्ब-गृह्यसूत्रे [ऽत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n263/mode/2up)। मूले [अत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n31/mode/2up)। देवतानिर्देशो [ऽत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n151/mode/2up)।
+    - टीका [अत्र](../../../../../vedAH/taittirIyam/ekAgnikANDa-haradatta-TIkA/)।
+    - टिप्पनीर् [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=22799169) टीकानुमिता।
+- बोधायन-सूत्रे
+    - [TW](https://twitter.com/sammodacharya/status/762117723115573248)।
