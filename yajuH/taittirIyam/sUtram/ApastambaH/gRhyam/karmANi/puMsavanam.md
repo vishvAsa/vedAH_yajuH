@@ -8,11 +8,11 @@ unicode_script: devanagari
 पुंसुवनं व्यक्ते गर्भे तिष्येण ॥ न्यग्रोधस्य या प्राच्युदीचीं वा शाखा ततस्सवृषणां शुङ्गामाहृत्य सीमन्तवदग्नेरुपसमाधानादि ॥
 
 +++(दक्षिणे नासिकाछिद्रे न्यग्रोधशृङ्गारसमपि नयति)+++  
-पु॒ꣳ॒ सु॒वन॑म् असि ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/14_puMsuvanamasi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ### क्षिप्र-पुंसवनम्
 +++(यजुषाऽभिमर्शनम्)+++  
-+++(अङ्गुलीभिर्)+++ आ॒भिष् ट्वा॒ ऽहं द॒शभि॑र् अ॒भिमृ॑शामि॒ - दश॒मास्या॑य॒ सूत॑वे ।+++(र४)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/15_AbhiShTvAhan_dashabhirabhimRshAmi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 परिषेचनान्ते ततो वक्ष्यमाणं कर्म ॥  
@@ -21,22 +21,13 @@ unicode_script: devanagari
 अनवस्नातया कुमार्या दृषत्पुत्रे दृषत्पुत्रेण पेषयित्वा परिप्लाव्यापेरणाग्निं प्राचीमुत्तानां निपात्योत्तरेण यजुषाङ्गुष्ठेन दक्षिणे नासिकाच्छिद्रेऽपिनयति ॥
 पुमांसं जनयति ॥
 
-यथै॒व सोमः॒ पव॑ते॒, यथा॑ समु॒द्र एज॑ति+++(=कम्पते)+++,  
-ए॒वन्ते गर्भ॒ एज॑तु।  
-स॒ह ज॒रायु॑णा+++(=गर्भवेष्टनेन)+++ नि॒ष्क्रम्य॒ प्रति॑तिष्ठतु - आयु॑षि ब्रह्मवर्च॒सि य॒शसि॑   ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/16_yathaiva_somaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-दश॒ मासा॒ञ् छश॑यानो  
-धा॒त्रा हि तथा॑ कृ॒तम् ।  
-ऐतु॒ गर्भो॒ अक्षि॑तो  
-जी॒वो जीव॑न्त्याः ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/17_dasha_mAsAnChashayAno.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-आ॒यम॑नीर् यमयत॒ गर्भ॒म्  
-आपो॑ देवी॒स् सर॑स्वतीः ।  
-ऐतु॒ गर्भो॒ अक्षि॑तो  
-जी॒वो जीव॑न्त्याः ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/18_AyamanIryamayata_garbhamApo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## जरायुपतने ऽवोक्षणम्
-तिल॒दे +++(जरायो!)+++ ऽव॑पद्यस्व॒+++(=अवपत)+++, न मा॒ꣳ॒सम् अ॑सि॒, नोदल॑+++(र)+++म् ।+++(र४)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/19_tilade-vapadyasva_na.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-स्थ॒वि॒त्र्य् अव॑पद्यस्व॒, न मा॒ꣳ॒सेषु॒, न स्नाव॑सु॒+++(=tendon)+++ न ब॒द्धम॑सि म॒ज्जसु॑ ।  
-निरै॑तु॒ पृश्नि॒+++(=स्वल्परूपं)+++ शेव॑+++(=सुख)+++लꣳ शु॒ने ज॒राय्व् अ॒त्तवे॑ ॥ (11)
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/20_sthavitryavapadyasva_na.md"  newLevelForH1="2" includeTitle="false"> </div>

@@ -1,5 +1,5 @@
 ---
-title: सखाय आ निषीदत 
+title: सखाय आ निषीदत
 unicode_script: devanagari  
 ---
 
@@ -7,17 +7,9 @@ unicode_script: devanagari
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n151) कौथुमभाष्ये। शुनशेपः। सोमः।])+++
 
-१ ६ २ ०८०३  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/2/24_0568_sakhAya_A.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-स꣡खा꣢य꣣ आ꣡ नि षी꣢꣯दत  
-पुना꣣ना꣢य꣣ प्र꣡ गा꣢यत।  
-शि꣢शुं꣣ न꣢ य꣣ज्ञैः꣡  
-परि꣢꣯ भूषत श्रि꣣ये꣢ ।।568 ।।
-
-सखाय आ नि षीदत पुनानाय प्र गायत।  
-शिशुं न यज्ञैः परि भूषत श्रिये ॥
-
-{{< figure src="/saMskAra/mantraH/somaH/images/soma-purification.png"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/somaH/images/soma-purification.png"  class="thumbnail">}}
 
 
 ## साम १ प्रेङ्खपूर्णम्
@@ -42,7 +34,7 @@ unicode_script: devanagari
 षा+++([])+++ता +श्रा+++(३%--)+++अया+++(४-%-%)+++,अइ।  
 ओ+++([])+++इ,डा+++([])+++अ ॥
 
-  
+
 ## साम २ अअअ-औहोवाअ
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sakhAya-A-ni-ShIdata-2.mp3"></div>
@@ -79,7 +71,7 @@ unicode_script: devanagari
 श्रा+++([]३")+++,अया+++(४-"-")+++अइ ।  
 ओ+++([])+++इ,डा+++([]")+++अ ॥
 
-  
+
 ## साम ४ पुनानौहोइ-प्नानौहोयेए
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sakhAya-A-ni-ShIdata-4.mp3"></div>

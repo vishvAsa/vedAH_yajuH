@@ -7,12 +7,12 @@ practice_weight: 0
 
 ## ऋक्
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/09/aMshAHakrAnt_samudraH.md"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/43_0529_akrAntsamudraH_prathame.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## साम
 
-- पारम्परिक-गान-मूलम् 
+- पारम्परिक-गान-मूलम्
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
@@ -32,4 +32,3 @@ practice_weight: 0
 वावृधे, स्वानो आ।द्रा+++([])+++,। औ+++([])+++,होवाअ । हाऊवाअ ।
 
 ए+++([])+++,ऎ । स्वा+++([])+++नो, आ । द्रीः+++([])+++॥ ७ ॥
-

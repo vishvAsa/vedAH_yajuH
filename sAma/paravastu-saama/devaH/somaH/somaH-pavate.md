@@ -6,14 +6,14 @@ practice_weight: 0
 ---
 
 ## ऋक्
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/10/aMshAHsomaH_pavate.md"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/41_0527_somaH_pavate.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## साम १
-- पारम्परिक-गान-मूलम् 
+- पारम्परिक-गान-मूलम्
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
-  
+
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/somaH-pavate-1.mp3"></div>

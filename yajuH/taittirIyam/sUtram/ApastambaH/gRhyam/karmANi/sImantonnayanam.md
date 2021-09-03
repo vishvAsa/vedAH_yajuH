@@ -15,11 +15,15 @@ unicode_script: devanagari
 उत्तरा आहुतीर् हुत्वा +++(=  "धाता ददातु नो रयिम्" इति चतस्रो "यस्त्वा हृदा कीरिणे"ति चतस्रः)+++  
 जयादि प्रतिपद्यते ॥  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/saMskAra/mantraH/agniH/Rk/yas_tvA_hRdA/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/05_yastvA_hRdA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/saMskAra/mantraH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/06_yasmai_tvam.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/07_tve_su.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/08_ukthaukthe_soma.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 
@@ -30,17 +34,11 @@ unicode_script: devanagari
 ऽपरेणाग्निं प्राचीम् उपवेश्य  
 त्रेण्या +++(= त्रिषु प्रदेशेषु एनी श्वेती)+++ शलल्या+++(=porcupine quill)+++ त्रिभिर्-दर्भ-पुञ्जीलैश् शलालु+++(=अपक्वोदुम्बर)+++-ग्लप्सेन+++(=गुच्छेन)+++ +इत्य् ऊर्ध्वं सीमन्तम् उन्नयति व्याहृतीभिर् उत्तराभ्यां च ॥  
 
-भूर् भुव॒स् सुवः॑
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/09_bhUrbhuvassuvaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-रा॒काम् अ॒हँ सु॒हवाँ॑+++(=स्वाह्वानाम्)+++ सुष्टु॒ती+++(त्या)+++ हु॑वे+++(=आह्वयामि)+++  
-शृ॒णोतु॑ नस् सु॒भगा॒ बोध॑तु॒ त्मना॑ ।  
-सीव्य॒त्व् अप॑स्+++(=कर्म / गर्भापः)+++ सू॒च्या ऽच्छि॑द्यमानया॒  
-ददा॑तु वी॒रँ श॒त-दा॑यम्+++(=दातारम्)+++ उ॒क्थ्य॑म्+++(=प्रशंसनीयम्)+++ । +++(र४)+++
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/10_rAkAmaha.N_suhavA.N.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-यास् ते॑ राके सुम॒तय॑स् सु॒पेश॑सो॒  
-याभि॒र् ददा॑सि दा॒शुषे॒ वसू॑नि ।  
-ताभि॑र् नो अ॒द्य सु॒मना॑ उ॒पाग॑हि  
-सहस्र-पो॒षँ सु॑भगे॒ ररा॑णा ।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/11_yAste_rAke.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ### वीणागानम्
@@ -49,20 +47,17 @@ unicode_script: devanagari
 न सर्वेषां ब्राह्मणानाम् अपि तु साल्वानाम्+++(=साल्व-देश-निवासिनाम्)+++ ॥
 
 +++(यमुनातीरवासिनाम्)+++  
-यौग॑न्धरिर् ए॒व नो॒ राजेति॒ साल्वी॑र् अवादिषुः ।  
-विवृ॑त्तचक्रा॒ आसी॑ना॒स् तीरे॑ण यमुने॒ तव॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/12_yaugandharireva_no.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 +++(सर्वासां ब्राह्मणीनां प्रजानाम्)+++  
 +++(अन्येषाम् - "सोम एव नो राजा" इत्येषा।)+++ नदी-निर्देशश्च यस्यां वसन्ति ॥  
-सोम॑ ए॒व नो॒ राजेत्य्  
-आ॑हुर्ब्राह्म॒णीः प्र॒जाः ।  
-विवृ॑त्त-चक्रा॒ आसी॑ना॒स्  
-तीरे॑णासौ॒+++(→उपजीव्यनदीनाम)+++ तव॑ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/13_soma_eva.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-यवान् विरूढान् आबध्य  
-वाचं यच्छत्य् आनक्षत्रेभ्यः ॥  
++++(पूर्वमेवैतदर्थम् उप्तान्)+++ यवान् विरूढान् +++(शिरसि वध्वाः)+++ आबध्य,  
++++(वधूर्)+++ वाचं यच्छत्य् आनक्षत्रेभ्यः ॥  
 उदितेषु नक्षत्रेषु प्राचीम् उदीचीं वा दिशम् उपनिष्क्रम्य  
 वत्सम् अन्वारभ्य  
 व्याहृतीश् च जपित्वा  
 वाचं विसृजेत् ॥  
++++(इह केचिद् अध्येतारो "यच्छतो" "विसृजत" इति द्विवचने पठन्ति ।)+++  
 व्याहृतयस् समस्ताः याजमान-समाम्नायात् प्रत्येतव्याः ॥

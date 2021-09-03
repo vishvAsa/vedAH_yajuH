@@ -7,11 +7,11 @@ unicode_script: devanagari
 ## ऋक्
 RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7; 12.11.5; 14.5.5; 15.11.7 +++(सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart4/rv_sayanabhasya_part4#page/n339/mode/2up&sa=D&ust=1542425956295000)।)+++
 
-पु॒रोऽजि॑ती +++(=जयस्य)+++ वो॒ अन्ध॑सः +++(=अदनीयस्य सोमस्य)+++ सु॒ताय॑ मादयि॒त्नवे॑ ।  
-अप॒ श्वानं॑ श्नथिष्टन॒ +++(=बाधयध्वम्)+++ सखा॑यो दीर्घजि॒ह्व्य॑म् १  
-यो धार॑या पाव॒कया॑ परिप्र॒स्यन्द॑ते सु॒तः । इन्दु॒रश्वो॒ न कृत्व्यः॑ २  
-तं दु॒रोष॑म् +++(=दुर्दहं)+++ अ॒भी नरः॒ सोमं॑ वि॒श्वाच्या॑ धि॒या ।  
-य॒ज्ञं हि॑न्व॒न्त्य् +++(=प्रेरयन्ति)+++ अद्रि॑भिः +++(=अश्मभिः)+++ ३ +++(यज्ञाय सन्त्वद्रय इति साम्नि।)+++
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/2/01_0545_purojitI_vo.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/18-2_0698_yo_dhArayA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/18-3_0699_tan_duroShamabhInaraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 पु꣣रो꣡जि꣢ती वो꣣ अ꣡न्ध꣢सः सु꣣ता꣡य꣢ मादयि꣣त्न꣡वे꣢।  
 अ꣢प꣣ श्वा꣡न꣢ᳱ श्नथिष्टन꣣ स꣡खा꣢यो दीर्घजि꣣꣬ह्व्य꣢꣯म् ।।1 ।।  
@@ -20,8 +20,8 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 तं꣢ दु꣣रो꣡ष꣢म꣣भी꣡नरः꣣ सो꣡मं꣢ वि꣣श्वा꣡च्या꣢ धि꣣या꣢।  
 य꣣ज्ञा꣡य꣢ स꣣न्त्व꣡द्र꣢यः ।।3 ।। ।।18(यि)।।
 
-{{< figure src="/saMskAra/mantraH/somaH/images/soma_moon_chandra.jpg"  class="thumbnail">}}
-{{< figure src="/saMskAra/mantraH/somaH/images/soma-enthroned.png"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/somaH/images/soma_moon_chandra.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/somaH/images/soma-enthroned.png"  class="thumbnail">}}
 
 
 ## साम

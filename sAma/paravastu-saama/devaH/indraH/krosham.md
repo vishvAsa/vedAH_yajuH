@@ -10,21 +10,10 @@ SV.1.381a; 2.96a; JB.1.227,228; PB.9.2.21. RV.8.13.1a; A;S.6.4.10; ;S;S.9.18.1; 
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n700/mode/1up&sa=D&ust=1542425956185000)। काण्वो नारदः। उष्णिक्। इन्द्रः।])+++
 
-इन्द्रः सु॒तेषु सोमे॑षु  
-क्रतु॑म् +++(=कर्तारम्)+++ पुनीत उ॒क्थ्य॑म् +++(=स्तोतारम्)+++।  
-वि॒दे वृ॒धस्य +++(=वर्धकस्य)+++ दक्ष॑सो +++(=बलस्य)+++ म॒हान्हि षः ।।
 
-इ꣡न्द्र꣢! सु꣣ते꣢षु꣣ सो꣡मे꣢षु꣣  
-क्र꣡तुं꣢ पुनीष उ꣣꣬क्थ्य꣢꣯म्।  
-वि꣣दे꣢ वृ꣣ध꣢स्य꣣ द꣡क्ष꣢स्य  
-म꣣हा꣢ᳱ हि षः ।।381 ।।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/2/40_0381_indra_suteShu.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-इन्द्र सुतेषु सोमेषु  
-क्रतुं पुनीष उक्थ्यम्।  
-विदे वृधस्य दक्षस्य  
-महाᳱ हि षः ।।381 ।।
-
-{{< figure src="/saMskAra/mantraH/indraH/images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/indraH/images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png"  class="thumbnail">}}
 
 
 ## साम

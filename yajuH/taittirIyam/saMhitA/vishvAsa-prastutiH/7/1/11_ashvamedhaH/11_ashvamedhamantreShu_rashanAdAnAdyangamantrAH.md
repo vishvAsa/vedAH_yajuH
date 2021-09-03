@@ -3,7 +3,7 @@ title = "११ अश्वमेधमन्त्रेषु रशनाद
 
 +++
 ## रशनामादत्ते
-<div class="js_include" url="../../../../../saMskAra/mantraH/misc-devas/yajuH/devasya_tvA_savituH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/hindukaH/misc-devas/yajuH/devasya_tvA_savituH/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 इ॒माम् अ॑गृभ्णन् रश॒नाम् ऋ॒तस्य॒+++(=यज्ञस्य)+++  
 पूर्व॒ आयु॑षि+++(षे)+++ वि॒दथे॑षु+++(=यज्ञेषु)+++ क॒व्या+++(=कवयः)+++ ।  

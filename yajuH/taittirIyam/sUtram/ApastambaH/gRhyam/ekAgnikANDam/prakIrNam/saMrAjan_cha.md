@@ -3,7 +3,4 @@ title: सम्राजञ्च
 unicode_script: devanagari
 ---
 
-स॒म्राज॑ञ् च वि॒राज॑ञ् चा-  
-ऽभि॒श्रीर् या च॑ नो गृ॒हे ।  
-ल॒क्ष्मी रा॒ष्ट्रस्य॒ या मुखे॒  
-तया॑ मा॒ सꣳसृ॑जामसि+++(→संसृजामि)+++ ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_08/08_samrAjancha_virAjanchAbhishrIryA.md"  newLevelForH1="2" includeTitle="false"> </div>

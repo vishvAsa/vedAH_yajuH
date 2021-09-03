@@ -5,7 +5,12 @@ unicode_script: devanagari
 ---
 
 ## ऋक्
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/10/aMshAHsomaH_pavate.md"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/41_0527_somaH_pavate.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/19-2_0944_brahmA_devAnAm.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/19-3_0945_prAvIvipadvAcha_Urmim.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
 
 ## साम
 
@@ -46,4 +51,3 @@ unicode_script: devanagari
 {ओ+++(")+++, हॊ+++([त])+++हो+++([ता]--%३)+++वा+++(v)+++।}+++([एवम् द्विः।])+++  
 ओ+++(")+++, हॊ+++([त])+++हो+++([ता]--%३)+++  
 ऒवा+++([टू]v)+++अअ औ+++(["प])+++ हो+++(["]%)+++वाअ ।
-

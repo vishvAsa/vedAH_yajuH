@@ -10,20 +10,12 @@ RV.8.99.3a; AV;S.20.58.1a; SV.1.267a; 2.669a; VS.33.41a; JB.3.261a; KB.25.6; A;S
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n1039/mode/1up&sa=D&ust=1542425956252000)। नृमेधः। इन्द्रः।])+++
 
-श्राय॑न्त +++(=श्रयन्तः)+++ +++(रश्मयः)+++ इव सूर्य॑म् विश्वा इत् इन्द्र॑स्य भक्षत।  
-वसू॑नि जा॒ते जन॑माने +++(=जनिष्यमाणे)+++ ओज॑सा प्रति +++(पित्र्यं)+++ भा॒गं न दी॑धिम +++(=धारयेम)+++ ।।  
-+++(अन्तिमपादे सामवेदे व्यत्ययः।)+++
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/2/25_0267_shrAyanta_iva.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-अन॑र्शरातिं +++(=अपापकदानम्)+++ वसु॒दाम् +++(इन्द्रम्)+++ उप स्तुहि भ॒द्रा इन्द्र॑स्य रा॒तयः +++(=दानानि)+++ ।  
-सो+++(~~यो~~)+++ अ॑स्य॒ कामं॑ विध॒तो +++(=परिचरतो)+++ न रो॑षति॒ मनो॑ दा॒नाय॑ चो॒दय॑न् ।।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/5/2/14-2_1320_alarShirAtiM_vasudAmupa.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-श्रा꣡य꣢न्त इव꣣ सू꣢र्यं꣣ वि꣡श्वेदिन्द्र꣢꣯स्य भक्षत।  
-व꣡सू꣢नि जा꣣तो꣡ जनि꣢꣯मा꣣न्यो꣡ज꣢सा꣣ प्र꣡ति꣢ भा꣣गं꣡ न दी꣢꣯धिमः ।।267 ।।
 
-अ꣡ल꣢र्षिरातिं वसु꣣दा꣡मुप꣢꣯ स्तुहि भ꣣द्रा꣡ इन्द्र꣢꣯स्य रा꣣त꣡यः꣢।  
-यो꣡ अ꣢स्य꣣ का꣡मं꣢ विध꣣तो꣡ न रोष꣢꣯ति꣣ म꣡नो꣢ दा꣣ना꣡य꣢ चो꣣द꣡य꣢न् ।।
-
-{{< figure src="/saMskAra/mantraH/indraH/images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/indraH/images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png"  class="thumbnail">}}
 
 
 ## साम

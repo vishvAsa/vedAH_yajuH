@@ -8,19 +8,11 @@ unicode_script: devanagari
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201803/page/n191) कौथुमभाष्ये। कविः। जगती। सोमः।])+++
 
-१ ६ २ ०७०१   
 
-अ꣣भि꣢ प्रि꣣या꣡णि꣢  +++(उदकानि)+++ पवते꣣ च꣡नो꣢+++(=अन्न)+++हितो꣣  
-ना꣡मा꣢नि+++(=नमनशीलानि)+++ य꣣ह्वो꣢꣫ +++(=महान्)+++ अधि꣣ ये꣢षु꣣ व꣡र्ध꣢ते +++(अन्तरिक्षस्थः)+++ ।  
-आ꣡ सूर्य꣢꣯स्य बृह꣣तो꣢ बृ꣣ह꣢꣫न्नधि꣣  
-र꣢थं꣣ वि꣡ष्व꣢ञ्चम्+++(=विष्वग्गमनं)+++ अरुहद् विचक्ष꣣णः꣢ ।।554 ।।
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/2/10_0554_abhi_priyANi.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-अभि प्रियाणि पवते चनोहितो  
-नामानि यह्वो अधि येषु वर्धते ।  
-आ सूर्यस्य बृहतो बृहन्नधि  
-रथं विष्वञ्चम् अरुहद् विचक्षणः॥
 
-{{< figure src="/saMskAra/mantraH/somaH/images/soma_moon_chandra.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/hindukaH/somaH/images/soma_moon_chandra.jpg"  class="thumbnail">}}
 
 ## साम
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]

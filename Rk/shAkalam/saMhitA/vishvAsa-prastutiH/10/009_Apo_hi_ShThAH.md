@@ -8,24 +8,28 @@ unicode_script = "devanagari"
 - सिन्धूद्वीप ऋषिः। गायत्री। आपः।
 
 ## पाठः
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/10/aMshAHApaH/Apo_hi_ShThAH.md"  newLevelForH1="2" includeTitle="true"> </div>  
-
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/10/aMshAHApaH/shan_no_devIH.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/10/aMshAHApaH/IshAnA_vAryANAm.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
 
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/10/aMshAHApaH/apsu_me_somo_gAyatrI.md"  newLevelForH1="2" includeTitle="true"> </div>  
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/04_shaM_no.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
 
-इ॒दम् आ॑पः॒ प्र व॑हत॒  
-यत् किं च॑ दुरि॒तं मयि॑ ।  
-यद् वा॒हम् अ॑भि-दु॒द्रोह॒  
-यद् वा॑ शे॒प उ॒तानृ॑तम् ॥ ०८॥
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/05_IshAnA_vAryANAM.md"  newLevelForH1="2" includeTitle="false"> </div> 
 
-आपो॑ अ॒द्याऽन्व॑चारिषं॒  
-रसे॑न॒ सम॑गस्महि ।  
-पय॑स्वान् अग्न॒ आ ग॑हि॒  
-तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥ ०९॥
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/06_apsu_me.md"  newLevelForH1="2" includeTitle="false"> </div> 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/07_ApaH_pRNIta.md"  newLevelForH1="2" includeTitle="false"> </div> 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/08_idamApaH_pra.md"  newLevelForH1="2" includeTitle="false"> </div> 
+
+
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/09_Apo_adyAnvachAriShaM.md"  newLevelForH1="2" includeTitle="false"> </div> 
