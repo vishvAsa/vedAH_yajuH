@@ -4,7 +4,7 @@ unicode_script: devanagari
 
 practice_weight: 0
 ---
-अस्य विस्तारो [ऽत्र](../../../../../../../general/ArAdhanam/shrAddham/aShTakA/)।
+अस्य विस्तारो [ऽत्र](../TippanI/aShTakA/)।
 
 
 या माघ्याः पौर्णमास्या उपरिष्टाद्+++(=कृष्णपक्षे)+++ व्यष्टका  
