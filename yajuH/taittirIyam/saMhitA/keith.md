@@ -719,8 +719,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
 
 ## 1
 
-### I
-    The New and Full Moon Sacrifices
+### I The New and Full Moon Sacrifices
     [[1-1-1]]
     a For food thee, for strength thee!
     b Ye are winds, ye are approachers.
@@ -1012,8 +1011,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     In our ignorance we transgress,
     May Agni make good all that,
     He that knoweth the seasons wherein he may satisfy the gods.
-### II
-    The Soma Sacrifice
+### II The Soma Sacrifice
     [[1-2-1]]
     a May I the waters wet (thee) for life,
     For length of days, for glory.
@@ -1304,8 +1302,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     In the carouse his radiance bursteth forth
     The godless assailers cannot restrain him.
 
-### III
-    The Victim for Agni and Soma
+### III The Victim for Agni and Soma
     [[1-3-1]]
     a On the impulse of the god Savity, with the arms of the Açvins, with the hands of Pusan, I take thee; thou art the spade, thou art the
     woman.
@@ -1609,8 +1606,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     Bright, flaming (rays) arise,
     Thy lights, thy flames.
 
-### IV
-    The Soma Cups
+### IV The Soma Cups
     [[1-4-1]]
     a I take thee. Thou art the stone which maketh the sacrifice for the gods; make this sacrifice deep, with thy highest edge, (make) the Soma well pressed for Indra, rich in sweetness, in milk, bringing rain.
     b To Indra, slayer of Vrtra, thee! To Indra, conqueror of Vrtra, thee! To Indra, slayer of foes, thee! To Indra with the Adityas, thee! To Indra with the all-gods, thee!
@@ -2005,8 +2001,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     n O Agni, thy pure.
     o With radiance.
 
-### V
-    The Rekindling of the Fire
+### V The Rekindling of the Fire
     [[1-5-1]]
     The gods and the Asuras were in conflict; the gods, in anticipation of the contest, deposited in Agni their desirable riches (thinking),'This will still be ours, if they defeat us. Agni desired it and went
 
@@ -2266,8 +2261,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     With a hundred oars and a hundred spars,
     Without leak, able to convey across.
 
-### VI
-    The Part of the Sacrificer in the New and Full Moon Sacrifices.
+### VI The Part of the Sacrificer in the New and Full Moon Sacrifices.
     [[1-6-1]]
     a By the Yajus I pour on thee
     Offspring, life, and wealth.
@@ -2492,8 +2486,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     Without steeds or chariots were the fellies
     Which, sped by Indra, rolled against the Dasyus.
 
-### VII
-    The Part of the Sacrificer in the New and Full Moon Sacrifices
+### VII The Part of the Sacrificer in the New and Full Moon Sacrifices
     i-7-1-Cattle attend the cooked offerings of him who has established a fire-The cooked offering is the Ida; it is placed in the world of the sacrifice between the fore- and the after-offerings-Over it as it is brought up he should say, 'O thou of fair rain colour, come hither'; the cattle are the Ida; verily he summons cattle-The gods milked the sacrifice, the sacrifice milked the Asuras; the Asuras, being milked by the sacrifice, were defeated; he, who knowing the milking of the sacrifice [1] sacrifices, milks another sacrificer-'May the blessing of this sacrifice be fulfilled for me', he says; this is the milking of the sacrifice; verily with it he milks it-The cow is milked willingly, and willingly the Ida is milked for the sacrificer; these are the teats of Ida, 'Ida is invoked'-Vayu is the calf-When the Hotr summons the Ida, then the sacrificer looking at the Hotr should in mind reflect on Vayu [2]; verily he lets the calf go to the mother-By the whole sacrifice the gods went to the world of heaven; Manu laboured with the cooked offering; the Ida went to Manu; the gods and the Asuras called severally upon her, the gods directly, the Asuras indirectly; she went to the gods; the cattle choose the gods, cattle deserted the Asuras-If he desire of a man, 'May he be without cattle', he should invoke the Ida indirectly for him; verily he becomes without cattle [3]-If he desire of a man, 'May he be rich in cattle', he should invoke the Ida directly for him; verily he becomes rich in cattle-The theologians say, 'He would invoke the Ida indeed who in invoking the Ida should invoke himself in the Ida.' 'To us be she dear, victorious, bountiful', he says; verily in invoking the Ida he invokes himself in the Ida-The Ida is as it were a breach in the sacrifice; half they eat [4], half they wipe; in this regard the sacrifice of the Asuras was broken; the gods united it by the holy power (Brahman)- 'May Brhaspati extend this for us', he says; Brhaspati is the holy power (Brahman) of the gods; verily by the holy power (Brahman) he unites the sacrifice-'May he unite this scattered sacrifice', he says, for continuity-'May the All-gods rejoice here', he says; verily continuing the sacrifice he indicates it to the gods-The [5] sacrificial fee which he gives at the sacrifice his cattle accompany; he having sacrificed is like to become without cattle; 'the sacrificer must so arrange', they say, 'that he may place among the gods what is given, but keep his cattle with himself.' 'Swell, O ruddy one', he says; the ruddy one is the sacrifice; verily he magnifies the sacrifice; thus he places among the gods what is given, but keeps his cattle with himself-'May (my act) as I give be not destroyed', he says; verily he avoids destruction; 'May (my act) as I work not perish', he says; verily he attains prosperity.
     [[1-7-2]]
 
@@ -2980,8 +2973,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
 
 ## 2
 
-### I
-    The Special Animal Sacrifices
+### I The Special Animal Sacrifices
     [[2-1-1]]
     He who desires prosperity should offer a white (beast) to Vayu; Vayu is the swiftest deity; verily he has recourse to him with his own share; verily he makes him attain prosperity; he prospers. 'He is an overswift deity,' they say, 'he has power to burn him up.' This (beast) he should offer to Vayu of the team; the team is his support; verily, being supported he attains prosperity to avoid being burnt; he
     prospers [1]. He who desires a village should offer to Vayu of the team; Vayu leads these creatures tied by the nose; verily he has recourse to Vayu of the team with his own share; verily he assigns him creatures led by the nose; he becomes possessed of a village. It is offered to (Vayu) of the team; verily he makes creatures abide steadfast with him. He who desires offspring should offer to Vayu of the team; Vayu is expiration, the team is inspiration; expiration and inspiration depart from the offspring of him [2] who being fit for offspring yet obtains not offspring. Verily he has recourse to Vayu of the team with his own share; verily he for him begets offspring by means of expiration and inspiration; he obtains offspring. He who has long been ill should offer to Vayu of the team; Vayu is expiration, the team is inspiration, expiration and inspiration depart from him whose illness is long. Verily he has recourse to Vayu of the team with his own share [3], he bestows on him expiration and inspiration; even if his life be gone, he yet lives. Prajapati was here alone; he desired, 'May I create offspring and cattle'; he took out from his body the omentum, and placed it in the fire. The hornless goat then came to life; he offered it to its own deity; then did he create offspring and cattle. He who desires offspring [4] and cattle should offer to Prajapati a hornless goat. Verily he has recourse to Prajapati with his own share; verily he begets for him offspring and cattle. The beard is the characteristic of man, the lack of horns of the horse, having incisors on one side only that of cattle, having sheep-like hooves that of sheep, the goat-nature that of goats; so many are the domesticated animals; verily by their characteristics he wins them [5]. He who desires cattle should offer one of a triplet to Soma and Pusan; the she-goat has two teats, two are born separately, the third for strength and growth. Verily he has recourse to Soma and Pusan with their own share; verily they produce cattle for him; Soma is the depositor of seed, Pusan the producer of cattle; Soma deposits seeds for him, Pusan produces cattle. The sacrificial post is of Udumbara; the Udumbara is strength, cattle are strength; verily by strength he wins for him strength and cattle.
@@ -3089,8 +3081,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     Be here, not angry, O Varuna;
     O wide ruler, strike not away our life.
 
-### II
-    The Special Sacrifices
+### II The Special Sacrifices
     [[2-2-1]]
     Prajapati created offspring. On their creation Indra and Agni hid them away. Prajapati reflected, 'Indra and Agni have hidden away from me offspring.' He then perceived this offering to Indra and Agni on eleven potsherds, and offered it, and the two (gods) restored offspring to him. Indra and Agni indeed conceal his offspring, who being fit for offspring, yet obtains not offspring; so let a man who desires offspring offer a sacrifice to Indra, and Agni on eleven potsherds. Verily Indra and Agni [1] he has recourse to with their own share; verily they make manifest offspring to him, he obtains offspring.
     He should make an offering to Indra and Agni on eleven potsherds who has a dispute about a field or with his neighbours. Verily Indra and Agni he has recourse to with their own share, by means of them he over powers the power and strength of his rival, he overcomes the evil foe. Now power and strength depart from him who advances to battle; let him who is about to advance to battle offer to Indra and Agni an offering on eleven potsherds [2]. Verily Indra and Agni he has recourse to with their own share; verily they two place power and strength in him; with power and strength he approaches the battle and conquers in it. Now power and strength is he bereft of who wins a battle; let him who has won a battle make an offering to Indra and Agni on eleven potsherds. Verily Indra and Agni he has recourse to with their own share; verily they two place power and strength in him [3], he is not bereft of power and strength. Now power and strength depart from him who goes to the assembly; let him who is about to go to the assembly make an offering to Indra and Agni on eleven potsherds. Verily Indra and Agni he has recourse to with their own share; verily they two place power and strength in him, with power and strength he goes to the assembly. Let him next offer an oblation to Pusan. Pusan is the giver of power and strength, verily Pusan [4] he has recourse to with his own share; verily he gives to him power and strength. When he has gone to the assembly he should offer an oblation to Ksetrapati; Ksetrapati is this (earth); verily on this earth he takes firm root. Thereafter let him make the offering to Indra and Agni on eleven potsherds; verily taking stand on this earth he next places power and strength in his body.
@@ -3208,8 +3199,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     Of a generous and wealthy one like thee;
     (Famed) be (the praiser) of thee that art famed, O thou with the bays.
 
-### III
-    The Special Sacrifices (continued)
+### III The Special Sacrifices (continued)
     [[2-3-1]]
     He who desires prosperity should offer to the Adityas, giving prosperity; it is the Adityas who repel from prosperity him who being fit for prosperity does not obtain prosperity; verily he has recourse to the Adityas, giving prosperity, with their own share; verily they make him attain prosperity; he becomes prosperous. He who has been expelled or is being expelled should offer an oblation to the Adityas, the sustainers; the Adityas are the expellers, the Adityas are the procurers; verily he has recourse to the Adityas, the sustainers [1] with their own share; verily they support him in the people; he is unexpellable. 'O Aditi, do thou confirm', (with these words) be who is being expelled should take the foot (dust) of him (who is expelling him); Aditi is this (earth); verily she confirms the kingdom for him; 'Be the blessing fulfilled', he says; verily he makes the blessing come true; 'Mind here', he says; verily he makes the people of one mind with him; 'Come hither, O ye Maruts [2] rich in dew, with this lord of the people against yon king', he says; the people are connected with the Maruts, the lord of the people is the highest; verily he unites him with the people and the realm. From the house of a village judge further on he should take rice; he should separate out the white and the black; of the white he should offer an oblation to the Adityas; the people have the Adityas for their deity; verily he attains the people [3]; 'The people he has attained, the realm he has not
 
@@ -3341,8 +3331,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     He broke Vala, he rendeth the forts,
     Thundering he won the heaven and the waters.
 
-### IV
-    The Special Sacrifices (continued)
+### IV The Special Sacrifices (continued)
     [[2-4-1]]
     The gods, men, and the Pitrs were on one side, the Asuras, Raksases, and Piçacas on the other. Of the gods the little blood they drew the Raksases smothered by the nights and dawn dawned on them smothered and dead. The gods understood, 'Him who of us dies, it is the Raksases who kill.' They invited the Raksases; they said, 'Let us choose a boon; what [1] we win from the Asuras, let that be shared between us.' Then indeed did the gods conquer the Asuras, and having conquered the Asuras, they drove away the Raksases. The Raksases (saying), 'Ye have done falsely', surrounded the gods on all sides. The gods found a protector in Agni; they offered to Agni, the forward, a cake on eight potsherds, to Agni, the overcomer, to Agni with the face. In that they offered to Agni, the forward, the Raksases in front [2] they repelled thereby; in that (they offered) to Agni, the overcomer, the Raksases that were around they repelled thereby; in that (they offered) to Agni with the face, the Raksases behind were repelled thereby. That the gods prospered, the Raksases were defeated. He who has foes should in conflict sacrifice with this offering; he should offer to Agni, the forward, a cake on eight potsherds, to Agni, the overcomer [3], to Agni with the face. In that he offers to Agni, the forward, he repels thereby the foe who is superior to him; in that (he offers) to Agni, the overcomer, he repels thereby (the foe) who is equal to him; in that (he offers) to Agni with the face, he repels thereby the foe which is inferior to him. He repels the foe who is superior,
 
@@ -3484,8 +3473,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     Ye with Agni as your tongue, worthy of sacrifice,
     Sit on this strew and rejoice.
 
-### V
-    The New and Full Moon Sacrifices
+### V The New and Full Moon Sacrifices
     [[2-5-1]]
     a Viçvarupa, son of Tvastr, was the domestic priest of the gods, and the sister's son of the Asuras. He had three heads, one which drank Soma, one Sura, and one which ate food. He promised openly the share to the gods, secretly to the Asuras. Men promise openly the share to every one; if they promise any one secretly, his share is indeed promised. Therefore Indra was afraid (thinking), 'Such an one is diverting the sovereignty (from me).' He took his bolt and smote off his heads. (The head) which drank Soma [1] became a hazelcock; (the head) which drank Sura a sparrow; (the head) which ate food a partridge. He seized with his hand the guilt of slaying him, and bore it for a year. Creatures called out upon him, 'Thou art a Brahman slayer.' He appealed to the earth, 'Take a third part of my guilt.' She said, 'Let me choose a boon. I deem that I shall be overcome through digging. Let me not be overcome by that.' He replied, 'Before [2] a year is out it will grow up for thee.' Therefore before the year is out the dug-out portion of earth grows up again, for that was what she chose as a boon. She took a third of his guilt. That became a natural fissure; therefore one who has
 
@@ -3589,8 +3577,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     ii Powers, O Çatakratu.
     kk To thee hath been given.
 
-### VI
-    The New and Full Moon Sacrifices
+### VI The New and Full Moon Sacrifices
     [[2-6-1]]
 
     He offers to the kindling-sticks; verily he wins spring among the seasons. He offers to Tanunapat; verily he wins the hot season. He offers to the oblations; verily he wins the rains. He offers to the sacrificial strew, verily lie wins autumn. He offers with the cry of 'Hail!'; verily he wins the winter. Therefore in winter animals over which the cry of 'Hail!' is raised perish. He offers to the kindling sticks; verily he wins the dawns of the goddesses. He offers to Tanunapat; verily he wins the sacrifice [1]. He offers to the oblations; verily he wins cattle. He offers to the sacrificial strew; verily he wins offspring. He takes (the oblation) from the Upabhrt. The oblation is brilliance, the sacrificial strew off spring; verily he places brilliance in offspring. He offers with the cry of 'Hail!'; verily he wins speech. They make up ten, the Viraj has ten syllables, the Viraj is food; verily he wins food by the Viraj. He offers to the kindling-sticks; verily he finds support in this world. He offers to Tanunapat [2]; verily in the sacrifice and in the atmosphere he finds support. He offers to the oblations; verily in cattle he finds support. He offers to the sacrificial strew; verily he finds support in the paths that lead to the gods. He offers with the cry of 'Hail!'; verily he finds support in the world of heaven. So many are the worlds of the gods; verily in them in order he finds support. The gods and the Asuras contended as to these worlds. The gods by the fore-sacrifices drove the Asuras away from these worlds; that is why the fore-sacrifices [3] are so called. He for whom knowing thus are offered the fore-sacrifices, drives his enemy away from these worlds. He offers stepping near, for conquest. He who knows the pairing of the fore sacrifices is propagated with offspring, with cattle, with pairings. He offers to the kindling-sticks as many, to Tanunapat as one, and that makes a pair. He offers to the kindling-sticks as many, to the sacrificial strew as one, and that makes a pair. That is the pairing of the fore-sacrifices. He who knows thus [4] is propagated with offspring, with cattle, with pairings. These deities were not sacrificed to by the gods; then the Asuras were fain to harm the sacrifice. The gods divided the Gayatri, five syllables in front and three behind. Then the sacrifice was protected, and the sacrificer. In that the fore- and after sacrifices are offered, protection is afforded to the sacrifice and to the sacrificer, for the overcoming of the enemy. Therefore a covering is larger in front and smaller behind. The gods thought that the sacrifice must be completed (in the fore-sacrifice) before the Raksases [5] with the cry of 'Hail!' They completed it with the cry of 'Hail!' in the fore-sacrifices. They split the sacrifice who complete it with the cry of 'Hail!' in the fore-sacrifices. Having offered the fore sacrifices he sprinkles the oblations, for the continuity of the sacrifice; then verily he makes the oblation, and then he proceeds in order. The fore-sacrifices are the father, the after-sacrifices the son; in that having offered the fore-sacrifices he sprinkles the oblations, the father makes common property with the son [6]. Therefore they say, who know it or who know not, 'How is it the son's only, how is the father's common?' That which spills when the fore-sacrifices are offered is not really spilt. The Gayatri conceives through it, and produces offspring and cattle for the sacrificer.
@@ -3750,8 +3737,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
 
 ## 3
 
-### I
-    The Supplement to the Soma Sacrifice
+### I The Supplement to the Soma Sacrifice
     [[3-1-1]]
     Prajapati desired, 'May I create offspring.' He did penance, he created serpents. He desired, 'May I create offspring.' He did penance a second time, he created birds. He desired, 'May I create offspring.' He did penance a third time, he saw this speech of the consecrated, he spoke it. Then indeed did he create offspring. In that after undergoing penance he speaks the speech of the consecrated, the sacrificer thus [1] creates offspring. If one who is consecrated sees anything impure, the consecration departs from him; his dark colour, his beauty goes away. 'Mind unbound; eye weak; sun best of lights; O consecration, forsake me not', he says, and consecration departs not from him, his dark colour and his beauty go not away. If rain falls on one who is consecrated, the heavenly waters if unappeased destroy his force, might, consecration [2], and penance. 'Do ye flowing waters place might (in me), place force, place might; do not destroy my consecration, nor my penance', he says; verily he places all that in himself; they do not destroy his force, might, consecration, or penance. Agni is the divinity of the consecrated man, and he is concealed as it were from him, when he goes (out), and the Raksases are able to hurt him [3]. 'From good to better do thou advance; may Brhaspati be thy forerunner', he says. Brhaspati is the holy power (Brahman) of the gods; verily he grasps hold of him, and he brings him safely through. 'Here we have come (a idam) to the place on earth for sacrifice to the gods', he says, for he comes to the place on earth for sacrifice, who sacrifices. 'Wherein aforetime all the gods rejoiced', he says, for all the gods delight in it, in that the Brahmans so do. 'Accomplishing (the rite) with Rc, Saman, and Yajus', he says, for he who sacrifices accomplishes (the rite) with Rc, Saman, and Yajus. 'Let us rejoice in fullness of wealth, in sustenance', he says; verily he invokes this blessing.
     [[3-1-2]]
@@ -3983,8 +3969,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     The might that roareth like Parjanya,
     Agni who is clothed with the sea.
 
-### II
-    The Supplement to the Soma Sacrifice (continued)
+### II The Supplement to the Soma Sacrifice (continued)
     iii. 2. 1. He who sacrifices knowing the 'ascent' verses of the Pavamana (Stotras) mounts on the Pavamanas and is not cut off from the Pavamanas. 'Thou art the hawk, with the Gayatri for thy metre; I grasp thee; bring me over in safety. Thou art the eagle, with the Tristubh for thy metre; I grasp thee; bring me over in safety. Thou art the vulture, with the Jagati for thy metre; I grasp thee; bring me over in safety', he says. These [1] are the ascents of the Pavamanas; he who knowing thus these sacrifices mounts on the Pavamanas, and is not cut off from the Pavamanas. He who knows the continuity of the Pavamana lives all his days; he does not die before his time; be becomes rich in cattle; he obtains offspring. The Pavamana cups are drawn off, but these are not drawn off by him, the wooden vessel, the stirring-vessel, and the vessel which holds the purified Soma. If he were to begin (the Stotra) without drawing them off, he would split the Pavamana [2], and with its being split the breath of the Adhvaryu would be split. 'Thou art taken with a support; to Prajapati thee!', (with these words) he should rub the wooden vessel; 'to Indra thee!', (with these words) the stirring-vessel; 'to the All-gods thee!', (with these words) the vessel which holds the purified Soma verily he renders continuous the Pavamana, he lives all his days; he does not die before his time; he becomes rich in cattle; he obtains offspring.
     [[3-2-2]]
     There are three pressings. Now they spoil the third pressing if there are no stalks of the Soma in it. Having offered the silent cup, he puts a shoot in the vessel which holds it, and placing it with the third pressing he should press it out. In that he makes it swell, it has a stalk (of the Soma); in that he presses it out, it has the lees (of the Soma); verily he makes all the pressings have stalks and pure Soma, and be of equal strength.
@@ -4203,8 +4188,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     Then said Indra, about to slay Vrtra,
     'O friend Visnu, step thou more widely.'
 
-### III
-    The Supplement to the Soma Sacrifice (continued).
+### III The Supplement to the Soma Sacrifice (continued).
     [[3-3-1]]
     a O Agni, brilliant, be thou brilliant among the gods; make me brilliant, of long life, radiant among men; for the brilliance of consecration and of penance do I offer to thee.
     b Thou dost win brilliance; may brilliance forsake me not, may I forsake not brilliance, may brilliance forsake me not.
@@ -4413,8 +4397,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     To the giver may she assign much good fortune,
     To the wise may she grant increase of wealth.
 
-### IV
-    The Optional and Occasional Offerings
+### IV The Optional and Occasional Offerings
     [[3-4-1]]
     The sacrifice of him whose offering is too large is unsuccessful; 'Surya, the god, for those that sit in the sky', he says; verily with the aid of Brhaspati and Prajapati he makes good the deficiency in the sacrifice. Now the Raksases infest the victim if it being offered to one deity is greater (than normal); 'Thou who hast a tawny embryo', he says; verily he sends it to the gods, to smite away the Raksases. 'Bring near, O bringer', he says [1]; verily with the holy power he brings it. 'I split apart thy urinator', he says; that is according to the text. 'The drop, far extending, of all forms', he says; the drop is offspring and cattle; verily with offspring and cattle he unites him. To the sky the deficiency
 
@@ -4552,8 +4535,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     All that do thou, O god, loosen as it were,
     And may we be dear to thee, O Varuna.
 
-### V
-    Miscellaneous Supplements
+### V Miscellaneous Supplements
     [[3-5-1]]
     a Full behind, and full in front,
     In the middle hath she of the full moon been victorious;
@@ -4741,10 +4723,8 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
 
     These were the first ordinances; These mighty powers frequent the vault Where are the ancient Sadhya gods.
 
-## 4
-    THE PILING OF THE FIRE ALTAR
-### I
-    The Placing of the Fire in the Fire-pan
+## 4 THE PILING OF THE FIRE ALTAR
+### I The Placing of the Fire in the Fire-pan
     [[4-1-1]]
     a Yoking mind first,
     Extending his thoughts, Savitr
@@ -5244,8 +5224,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     v Health be they.
     w For each prize.
 
-### II
-    The Preparation of the Ground for the Fire
+### II The Preparation of the Ground for the Fire
     [[4-2-1]]
     a Thou art the step of Visnu, overcoming hostility, mount the Gayatri metre, step along the earth, excluded is he whom we hate. Thou art the step of Visnu, overcoming imprecations, mount the Tristubh metre, step along the atmosphere, excluded is he whom we hate. Thou art the step of Visnu, overcomer of the enemy, mount the Jagati metre, step along the sky, excluded is he whom we hate. Thou art the stop of Visnu [1], overcomer of the foe, mount the Anustubh metre, step along the quarters, excluded is he whom we hate.
     b Agni hath cried, like Dyaus thundering,
@@ -5787,8 +5766,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     t Thou, O Agni.
     u Do thou to us, O Agni.
 
-### III
-    The Five Layers of Bricks
+### III The Five Layers of Bricks
     [[4-3-1]]
     a I place thee in the going of the waters; I place thee in the rising of the waters; I place thee in the ashes of the waters; I place thee in the light of the waters; I place thee in the movement of the waters.
     b Sit on the billows as thy place of rest; sit on the ocean as thy place of rest; sit on the stream as thy place of rest; sit in the abode of the waters; sit on the seat of the waters.
@@ -6009,8 +5987,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     gg O Viçvakarman, waxing great with the oblation.
     hh O Viçvakarman, with the oblation as strengthening.
 
-### IV
-    The Fifth Layer of Bricks (continued)
+### IV The Fifth Layer of Bricks (continued)
     [[4-4-1]]
     a Thou art the ray; for dwelling thee! Quicken the dwelling. Thou art advance; for right thee! Quicken right. Thou art following; for sky thee! Quicken the sky. Thou art union; for atmosphere thee! Quicken the atmosphere. Thou art propping; for earth thee! Quicken earth. Thou art a prop; for rain thee! Quicken rain. Thou art blowing forward; for day thee! Quicken day. b Thou art blowing after; for night thee! Quicken night. Thou art eager [1]; for the Vasus thee! Quicken the Vasus. Thou art intelligence; for the-Rudras thee! Quicken the Rudras. Thou art the brilliant; for the Adityas thee! Quicken the Adityas. Thou art force; for the Pitrs thee! Quicken the Pitrs. Thou art the thread; for offspring thee! Quicken offspring. Thou dost endure the battle; for cattle thee! Quicken cattle.
     c Thou art wealthy; for plants thee! Quicken plants. Thou art the victorious with ready stone; for Indra thee! Quicken Indra. Thou art the overlord; for expiration [2] thee! Quicken expiration. Thou art the restrainer; for inspiration thee! Quicken inspiration. Thou art the glider; for the eye thee! Quicken the eye. Thou art the bestower of strength; for the ear thee! Quicken the ear. Thou art threefold.
@@ -6444,8 +6421,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     At a thousand leagues.
     l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose arrows are food, wind, and rain, to them ten eastwards, ten to the south, ten to the west, ten to the north, ten upwards; to them homage, be they merciful to us, him whom we hate and him who hateth us, I place him within your jaws.
 
-### VI
-    The Preparation of the Fire
+### VI The Preparation of the Fire
     [[4-6-1]]
     a The strength resting on the stone, the bill,
     On the wind, on Parjanya, on the breath of Varuna,
@@ -6918,8 +6894,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     May Aditi confer on us sinlessness;
     Kingship for us may the horse rich in offering gain.
 
-### VII
-    The Piling of the Fire Altar (Continued)
+### VII The Piling of the Fire Altar (Continued)
     [[4-7-1]]
     a O Agni and Visnu, may these songs gladden you in unison; come ye with radiance and strength. b May for me strength, instigation, influence, inclination, thought, inspiration, speech, fame, renown, reputation, light, heaven, expiration, inspiration [1], cross-breathing, breath, mind, learning, voice, mind, eye, ear, skill, might, force, strength, life, old age, breath, body, protection, guard, limbs, bones, joints, bodies (prosper through the sacrifice).
     [[4-7-2]]
@@ -7126,11 +7101,9 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     O ye that are worthy of offering, the buffalo cow bound by the foot, So do thou remove from us tribulation;
     Be our life prolonged further, O Agni.
 
-## 5
-    THE EXPLANATION OF THE PILING OF THE FIRE ALTAR
+## 5 THE EXPLANATION OF THE PILING OF THE FIRE ALTAR
 
-### I
-    The Placing of the Fire in the Fire-pan
+### I The Placing of the Fire in the Fire-pan
     [[5-1-1]]
     He offers the Savitr offerings, for instigation. He offers with (an oblation) ladled up four times, cattle have four feet; verily he wins cattle; the quarters are four; verily he finds support in the quarters. The metres departed from the gods (saying), 'We will not carry your oblation without sharing (in it)'; for them they kept this (oblation) ladled up four times, for the Puronuvakya the Yajya, the deity, the Vasat call; in that he offers what has been ladled up four times, he delights the metres, and they delighted carry to the gods his oblation. If he desire of a man [1], 'May he become worse', he should offer each separately for him; verily he makes him severed from the libations; he becomes worse. If he desire of a man, 'May he become better', he should offer all for him continuously; verily he makes him master of the libation; he becomes better. This is the mastering of the sacrifice. He abandons prosperity in the beginning of the sacrifice who departs from Agni as the deity; these offerings to Savitr number eight, the Gayatri has eight syllables, Agni is connected with the Gayatri [2]; verily he does not abandon prosperity at the beginning of the sacrifice, nor Agni as the deity. The offerings to Savitr number eight, the libation (as a whole) is the ninth; verily he extends the threefold (Stoma) at the beginning of the sacrifice. If he desire, 'May I confer on the metres the glory of the sacrifice', he should make a Re verse last; verily he confers on the metres the glory of the sacrifice. If he desire, 'May I confer on the sacrificer the glory of the sacrifice', he should make a Yajus formula last; verily he confers on the sacrificer the glory of the sacrifice. 'By the Rc make the Stoma to flourish', he says [3], for prosperity. With four (verses) he takes up the spade; the metres are four; verily (he takes it up) with the metres. 'On the instigation of god Savitr', he says, for instigation. Agni went away from the gods, he entered the reed; he resorted to the hole which is formed by the perforation of the reed; the spade is perforated to make it his birthplace; wherever he lived, that became black; (the spade) is stained, for perfection of form; it is pointed at both ends, for the winning of light both hence and from yonder world; it is a fathom long; so much is the strength in man; (verily it is) commensurate with his strength; it is unlimited in girth, to win what is unlimited; that tree which has fruit is strong among trees, the reed bears fruit, (the spade) is of reed, to win strength.
     [[5-1-2]]
@@ -7209,8 +7182,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     As harbinger with the oblation offered with Hail!
     Do thou go; let the gods eat the oblation duly.
 
-### II
-    The Preparation of the Ground for the Fire
+### II The Preparation of the Ground for the Fire
 
     [[5-2-1]]
     Headed by Visnu the gods won finally these worlds by the metres; in that he strides the strides of Visnu, the sacrificer becoming Visnu wins finally these worlds. 'Thou art the step of Visnu, overcoming hostility', he says; the earth is connected with the Gayatri, the atmosphere with the Tristubh, the sky with the Jagati, the quarters with the Anustubh; verily he wins in order these worlds with the metres. Prajapati created Agni; he being created went away from him [1]; he followed him with this (verse), 'He hath cried'; with it he won the home dear to Agni; in that he repeats this (verse), he wins thereby the home dear to Agni. Now he who steps the strides of Visnu is apt as he goes away to be burnt up; he turns with four (verses); the. metres are four, Agni's dear body is the metres; verily he turns round on his dear body [2]; he turns round from left to right; verily he turns round on his own strength; therefore the right side of the body is the stronger; verily also does he turn with the turning of the sun. Varuna seized Çunahçepa Ajigarti, he saw this verse addressed to Varuna, by it he freed himself from the noose of Varuna; Varuna seizes him who takes the fire-pan; 'From us the highest knot, O Varuna', he says; verily thereby he frees himself from Varuna's noose [3]. 'I have drawn thee', he says, for he draws him. 'Be thou firm and motionless', he says, for support. 'Let all the folk desire thee', he says; verily with the folk he unites him. 'In him establish the kingdom', he says; verily in him he makes the kingdom to abide. If he desire of a man, 'May he be a ruler', he should think of him with his mind; verily he becomes a ruler [4]. 'In greatness he hath risen erect in the van of the dawns', he says; verily he makes him the first of his peers. 'Emerging from the darkness', he says; verily he smites away darkness from him. 'He hath come with the light', he says; verily he bestows light upon him. He places him with four (verses); the metres are four; verily with the metres (he places him); with an Atichandas as the last; the Atichandas is the highest of metres; verily he makes him the highest of his peers; it contains [5] the word 'sit' (sad); verily he makes him attain reality (sat-tvám). With (the hymn) of Vatsapri he reverences (him); by that did Vatsapri Bhalandana win the home dear to Agni; verily by it he wins the home dear to Agni. It has eleven (verses); verily in eleven places he bestows strength on the sacrificer. By the Stoma the gods prospered in this world, by the metres in yonder world; the hymn of Vatsapri is the type of the Stoma; in that he pays reverence with (the hymn) of Vatsapri [6], he wins with it this world; in that he strides the steps of Visnu, he wins by them yonder world. On the first day he strides forth, on the next day he pays reverence; therefore the minds of some creatures are set on energy, those of others on rest; therefore the active lords it over him who takes his ease therefore the active fixes upon a man who takes his ease. He clenches his fist, he restrains his speech, for support.
@@ -7295,8 +7267,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     Healing to bones, marrow,
     Healing too to thy body!
 
-### III
-    The Second and Later Layers of Bricks
+### III The Second and Later Layers of Bricks
     [[5-3-1]]
     Now this fire (ritual) is an extensive sacrifice; what part of it is performed or what not? The part of the sacrifice which is performed that is omitted becomes rotten; be puts down the Açvin (bricks); the Açvins are the physicians of the gods; verily by them be produces medicine for it. Five he puts down; the sacrifice is fivefold; verily he produces medicine for the whole extent of the sacrifice. He puts down the seasonal (bricks), to arrange the seasons [1]. Five he puts down; the seasons are five; verily he arranges the seasons in their whole number. They begin and end alike; therefore the seasons are alike; they differ in one foot; therefore the seasons differ likewise. He puts down the breath-supporters; verily he places the breaths in the months; therefore being alike the seasons do not grow old; moreover he generates them. The breath is the wind; in that having put down the seasonal (bricks) he puts down the breath-sup porters [2], therefore the wind accompanies all the seasons. He puts down the rain-winners; verily he wins rain. If he were to put them down in one place, then would fall rain in one season only; he puts them down after carrying them round in order; therefore it rains in all the seasons. Since having put down the breath-supporters he puts down the rain-winners, therefore the rain starts from the sky, impelled downwards by the wind. The strengthening (bricks) are cattle; cattle have various purposes and various customs, but only as regards water are they of one purpose [3]; if he desire of a man, 'May he be without cattle', he should put down for him the strengthening (bricks) and then put down the water (bricks); verily he makes discord for him with cattle; verily he becomes without cattle. If he desire of a man, 'May he possess cattle', he should put down for him the water (bricks) and then put down the strengthening (bricks); verily he makes concord for him with cattle and he becomes possessed of cattle. He puts down four in front; therefore the eye has four forms, two white, two black [4]. The (verses) contain the word 'head'; therefore the head (of the fire) is in front. Five he puts down in the right hip, five in the left; therefore the animal is broader behind and receding in front; 'The goat in strength', (with these words he puts down) on the right shoulder; (with) 'The ram in strength', on the left; verily he puts together the shoulders (of the fire). 'The tiger in strength', (with these words) he puts down in the right wing, (with) 'The lion in strength' on the left; verily he gives strength to the wings. (With) 'The man in strength' (he puts down) in the middle; therefore man is overlord of animals.
     [[5-3-2]]
@@ -7332,8 +7303,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     [[5-3-12]]
     The eye of Prajapati swelled, that fell away, that became a horse; because it swelled (áçvayat), that is the reason why the horse (áçva) has its name. By the horse sacrifice the gods replaced it. He who sacrifices with the horse sacrifice makes Prajapati whole; verily he becomes whole; this is the atonement for everything, and the cure for everything. All evil by it the gods overcame; by it also the gods overcame (the sins of) Brahman- slaying; all evil [1] he overcomes, he overcomes Brahman-slaying who sacrifices with the horse sacrifice, and he who knows it thus. It was the left eye of Prajapati that swelled; therefore they cut off from the horse on the left side, on the right from other animals. The mat is of reeds; the horse has its birthplace in the waters, the reed is born in the waters; verily he establishes it in its own birthplace. The Stoma is the fourfold one; the bee tore the thigh of the horse, the gods made it whole with the fourfold Stoma; in that there is the fourfold Stoma, (it is) to make whole the horse.
 
-### IV
-    The Piling of the Fire Altar (continued)
+### IV The Piling of the Fire Altar (continued)
     [[5-4-1]]
     The gods and the Asuras were in conflict, they could not decide the issue; Indra saw these bodies, he put them down; with them he conferred upon himself power, strength, and body; then the gods prospered, the Asuras were defeated. In that he puts down Indra's bodies, the sacrificer with them bestows on himself power, strength, and body; verily also he piles up the fire with Indra and with a
     body; be prospers himself, his foe is [1] defeated. The sacrifice departed from the gods; they could not recover it; they saw these bodies of the sacrifice, they put them down, and by them they recovered the sacrifice. In that he puts down the bodies of the sacrifice, the sacrificer by them wins the sacrifice. Three and thirty he puts down; the gods are three and thirty; verily he wins the gods; verily also he piles up the fire with itself and with a body; he becomes with his body in yonder world [2], who knows thus. He puts down the lighted (bricks); verily he confers light upon it; the fire blazes piled up with these (bricks); verily with them he kindles it; in both worlds is there light for him. He puts down the constellation bricks; these are the lights of the sky; verily he wins them;
@@ -7372,8 +7342,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     [[5-4-12]]
     'Be 'pure for the winning of strength', this is the Anustubh strophe; three Anustubhs make four Gayatris; in that there are three Anustubhs, therefore the horse when standing stands on three feet; in that there are four Gayatri is, therefore he goes putting down all four feet. The Anustubh is the highest of metres, the fourfold Stoma is the highest of Stomas, the three-night sacrifice the highest of sacrifices, the horse the highest of animals; verily by the highest he makes him go to the highest state. It is the twenty-onefold day [1], on which the horse is slain, there are twelve months, five seasons; these worlds are three; the twenty-onefold (Stoma) is yonder sun; this is Prajapati, the horse is connected with Prajapati; verily he wins it straightway. The Prstha (Stotra) is of Çakvari verses to make the horse complete, there are various metres, different sets of animals are offered, both domesticated and wild; in that the Prstha is of Çakvari verses, (it is) to complete the horse. The Saman of the Brahman is that of Prthuraçmi; by the rein the horse is restrained [2], a horse unrestrained and unsupported is liable to go to the furthest distance; (verily it serves) to restrain and support the horse. The Achavaka's Saman is the Samkrti; the horse sacrifice is an extensive sacrifice; 'who knows', they say, 'if all of it is done or not?' In that the Achavaka's Saman is the Samkrti, (it serves) to make the horse whole, to win it entirely, to prevent interference. The last day is an Atiratra with all the Stomas, to obtain all, to conquer all; verily he obtains all, he conquers all with it.
 
-### V
-    The Piling of the Fire Altar (continued)
+### V The Piling of the Fire Altar (continued)
     [[5-5-1]]
     In that he completes (the sacrifice) with one animal, (it is) for the continuity of the sacrifice and to avoid cutting it in two. The male animals belong to Indra; in that being Indra's they are offered to the fires, he causes strife among the deities. He should use Tristubh verses, appertaining to Agni, for the Yajyas and Anuvakyas; in that they appertain to Agni, (the verses) are Agni's, in that they are Tristubhs (they are) Indra's; (verily they serve) for prosperity; he does not cause strife among the deities. To Vayu of the team he offers a hornless (animal); Vayu is the brilliance of Agni; it is offered to brilliance; therefore wheresoever the wind [1] blows, the fire burns; verily it follows its own brilliance. If he were not to offer to him of the team, the sacrificer would go mad; (an offering) is made to him of the team, to prevent the sacrificer going mad. The Yajya and the Anuvakya, contain (the words) 'wind' and 'white', to secure brilliance. 'The golden germ first arose', (with these words) he pours out the butter portion; the golden germ is Prajapati; (verily it serves) for likeness to Prajapati. This (animal) is slain to make up all forms of animals; its hairs are [2] the form of man, its lack of horns that of horses, the possession of one set of incisors only that of cows, the sheep-like
 
@@ -7489,8 +7458,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     [[5-5-24]]
     To Agni of the front the red-limbed ox; the two spotted below for Savitr; the two red-navelled for Pusan; the two hornless tawny ones for the All-gods; the speckled for the Maruts; the black goat for Agni the ewe for Sarasvati; the black ram with one white foot for Varuna.
 
-### VI
-    The Piling of the Fire Altar (continued)
+### VI The Piling of the Fire Altar (continued)
     [[5-6-1]]
 
     a Golden of colour, pure, purifying,
@@ -7606,8 +7574,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     [[5-6-23]]
     There are three reddish-brown ones for spring; three dappled ones for summer; three piebald (deer) for the rains; three dappled for autumn; three with dappled thighs for winter; three smeared over for the cool season; to the year are (offered) those with hanging bellies.
 
-### VII
-    The Piling of the Fire Altar (continued)
+### VII The Piling of the Fire Altar (continued)
     [[5-7-1]]
     a 'He who piles the fire without regard to the deity falls a victim to the deities; he becomes poorer; he who (piles it) according to the deity does not fall a victim to the deities; he becomes richer. With a Gayatri (verse) addressed to Agni should he stroke the first layer; with a Tristubh the second; with a Jagati the third; with an Anustubh the fourth; with a Pankti the fifth; verily he piles the fire according to the deity. He falls not a victim to the deities; he becomes richer. This is the dividing of the sacrificial food; the food is cattle, and he piles it with cattle [1].
     b He who piles the fire after announcing to Prajapati does not go to ruin. The horses should stand on either side, on the left the black, on the right the white; having offered them he should put down the bricks; that is the form of Prajapati, the horse is connected with Prajapati; verily having announced to Prajapati in real presence he piles the fire, he does not go to ruin; the white horse is the form of day, the black of night; the bricks are the form of day [2], the mortar of night; when about to put down the bricks he should stroke the white horse, when about to put down the mortar he should
@@ -7827,11 +7794,9 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     Vayu was the animal; with it they sacrificed; it won this world where Vayu is; this is thy world, therefrom will I obstruct thee if thou dost not snuff (it).
     Aditya was the animal; with it they sacrificed; it won this world where Aditya is; this is thy world, thou wilt win it if thou dost snuff it.
 
-## 6
-    THE EXPLANATION OF THE SOMA SACRIFICE
+## 6 THE EXPLANATION OF THE SOMA SACRIFICE
 
-### I
-    The Exposition of the Soma Sacrifce
+### I The Exposition of the Soma Sacrifce
     [[6-1-1]]
     He makes a hall with beams pointing east. The gods and men divided the quarters, the gods (obtained) the eastern, the Pitrs the southern, men the western, the Rudras the northern. In that he makes a hall with beams pointing east, the sacrificer approaches the world of the gods. He covers it over, for the world of the gods is hidden from the world of men. 'It is not easy', they say, 'to go from this world; for who knows if he is in yonder world or not.' He makes at the corners apertures [1], for the winning of both worlds. He shaves his hair and beard, he trims his nails. The hair and the beard are dead and impure skin, and by thus destroying the dead and impure skin he becomes fit for the sacrifice and approaches the sacrifice. The Angirases going to the world of heaven placed in the waters consecration and penance. He bathes in the waters; verily visibly he secures consecration and penance. He bathes at a ford, for at a ford did they place (consecration and penance); he bathes at a ford [2]; verily he becomes a ford for his fellows. He sips water; verily he becomes pure within. He consecrates him with a garment; the linen garment has Soma for its deity. He who consecrates himself approaches Soma as his deity. He says, 'Thou art the body of Soma; guard my body.' He approaches his own deity; verily also he invokes this blessing. (Of the garment) the place where the border is belongs to Agni, the wind-guard to Vayu, the fringe to the Pitrs, the foreedge to the plants [3], the warp to the Adityas, the woof to the All-gods, the meshes to the Naksatras. The garment is thus connected with all the gods; in that he consecrates him with the garment, verily with all the gods he consecrates him. Man has breath without; his eating is his breath, he eats; verily he consecrates himself with breath. He becomes satiated. As great as is his breath, with it he approaches the sacrifice. Ghee pertains to the gods, sour cream to the Pitrs, well-seasoned butter to men [4], fresh butter is connected with all the gods; verily in anointing with fresh butter he satisfies all the gods. The man who is consecrated has fallen from this world and yet not gone to the world of the gods; fresh butter is as it were midway; therefore he anoints with fresh butter, along the hair, with a Yajus, for destruction. Indra slew Vrtra; his eyeball fell away; it became collyrium. When he anoints, verily he takes away the eye of his enemy. He anoints his right eye first [5], for men anoint the left first. He does not rub (the ointment) on, for men rub (the ointment) on. Five times he anoints; the Pankti has five syllables, the sacrifice is fivefold; verily he obtains the sacrifice. He anoints a limited number of times, for men anoint an unlimited number of times. He anoints with (a stalk) which has a tuft, for men anoint with (a stalk) which has no tuft; (verily he anoints them) for discrimination. If he were to anoint with (a stalk) having no tuft, he would be as it were a thunder bolt. He anoints with one which has a tuft, for friendship [6]. Indra slew Vrtra, he died upon the waters. Of the waters what was fit for sacrifice, pure, and divine, that went out of the waters, and became Darbha grass. In that he purifies (the sacrificer) with bunches of Darbha grass, verily he purifies him with the waters which are fit for sacrifice, pure, and divine. He purifies (him) with two (stalks); verily he purifies him by days and nights. He purifies (him) with three (stalks); three are these worlds; verily he purifies him by these worlds. He purifies (him) with five stalks [7]; the Pankti has five syllables, the sacrifice is fivefold; verily he purifies him by the sacrifice. He purifies (him) with six (stalks); six are the seasons; verily he purifies him by the seasons. He purifies (him) with seven (stalks); seven are the metres; verily he purifies him by the metres. He purifies (him) with nine (stalks); nine are the breaths in man; verily he purifies him along with his breaths. He purifies (him) with twenty-one (stalks); there are ten fingers and ten toes, and the body is the twenty
 
@@ -7869,8 +7834,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     [[6-1-11]]
     The Soma when bought and tied up is connected with Varuna. Come as a friend to us, creating firm friendships', he says, for atonement. Enter the right thigh of Indra', he says; the gods placed the Soma which they purchased in the right thigh of Indra; now the sacrificer is Indra; therefore he says thus. 'With life, with fair life', he says; verily seizing the gods [1] he rises up. 'Fare along the wide atmosphere', he says; for Soma has the atmosphere for its deity. 'Thou art the seat of Aditi. Sit on the seat of Aditi', he says; that is according to the text. He severs it indeed when he makes what is connected with Varuna connected with Mitra; he sets it down with a verse addressed to Varuna; verily he unites it with its own deity. He covers it round with a garment, the garment is connected with all the gods; verily with all [2] the gods he unites it, and thus (it serves) for the smiting away of the Raksases. 'He hath stretched the atmosphere within the woods', he says; for within the woods he stretched the atmosphere. 'Strength in horses', he says; for (he placed) strength in horses. 'Milk in kine', he says; for (he placed) milk in kine. 'Skill in the heart', he says; for (he placed) skill in the heart. 'Varuna, Agni in dwellings', he says; for Varuna (placed) Agni in dwellings. 'The sun in the sky' [3], he says; for (he placed) the sun in the sky. 'The Soma in the hill', he says; the hills are the pressing-stones; he places the Soma in them, who sacrifices; therefore he says thus. 'Thee, all knowing god' with this verse addressed to Surya he fastens the black antelope skin, to smite away the Raksases. 'Come hither, O ye oxen, strong to bear the yoke', he says; that is according to the text. 'Move forward, O lord of the world', he says; for he is the lord of creatures [4]; 'to all thy stations', be says; for he moves forward to all his stations. 'Let no opponent find thee', he says; since the Gandharva Viçvavasu stole the Soma when it was being carried below, he says that, to prevent its being stolen. 'Thou art the good luck of the sacrificer', he says; verily thus the sacrificer grasps the sacrifice, that it be not interrupted. The Soma when bought and tied up indeed approaches the sacrificer in the shape of Varuna [5]. 'Honour to the radiance of Mitra and Varuna', he says, for atonement. They bring forward this Soma, it rests with Agni, they in uniting overpower the sacrificer. Now the consecrated person has for long been holding himself ready for the sacrifice. In that he offers an animal to Agni and Soma, that is a buying-off of himself; therefore of it he should not eat; for as it were it is a buying-off of a man. Or rather they say, 'By Agni and Soma Indra slew Vrtra'. In that he offers an animal to Agni and Soma, it slays hostile things for him; therefore he should eat of it. He honours it with a verse addressed to Varuna; verily he honours it with its own deity.
 
-### II
-    The Exposition of the Soma Sacrifice (continued)
+### II The Exposition of the Soma Sacrifice (continued)
     [[6-2-1]]
     If he should offer hospitality after unyoking both (the oxen), he would break up the sacrifice. If (he should offer) before he has unyoked both, it would be as when hospitality is offered to one who has
 
@@ -7907,8 +7871,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
 
     him he thus casts out. He unites them; therefore the vital airs are united within. He does not combine them; therefore the vital airs are not combined. He pours water over; therefore the vital airs are moist within. (The water) he pours is mixed with barley [2]; barley is strength, the sounding-holes are the vital airs; verily he places strength in the vital airs. He spreads over the strew; therefore the vital airs are hairy within. He besprinkles (the holes) with butter; butter is brilliance, the sounding-holes are the vital airs; verily he places brilliance in the vital airs. The pressing-boards are the jaws of the sacrifice; he does not join them, for the jaws are not joined; or rather at a long Soma sacrifice they should be joined, for firmness. The oblation-holder is the head of the sacrifice [3], the sounding-holes are the vital airs, the pressing-boards the jaws, the skin the tongue, the pressing-stones the teeth the Ahavaniya the mouth, the high altar the nose, the Sadas the stomach. When he eats with his tongue on his teeth, (the food) goes to the mouth; when it goes to the mouth, then it goes to the stomach, therefore they press (the juice) with the pressing-stones on the oblation-holder over the skin, sacrifice in the Ahavaniya, retire towards the west, and consume (the Soma) in the Sadas. He who knows the milking of the Viraj in the mouth of the sacrifice milks her; the Viraj is this (cow), the skin is its hide, the pressing-boards its udder, the sounding-holes its teats, the pressing-stones its calves, the priests the milkers, Soma the milk. He, who knows thus, milks her.
 
-### III
-    The Exposition of the Soma Sacrifice (continued)
+### III The Exposition of the Soma Sacrifice (continued)
     [[6-3-1]]
     From the pit he scatters (earth) on the altars; the pit is the birthplace of the sacrifice; (verily it serves) to unite the sacrifice with its birthplace. The gods lost by conquest the sacrifice; they won it again from the Agnidh's altar; the Agnidh's altar is the invincible part of the sacrifice. In that he draws off the altar fires from that of the Agnidh, he renews the sacrifice from the invincible part of it. Conquered as it were they go who creep to the Bahispavamana (Stotra) when the Bahispavamana has been sung [1], he says, 'Agnidh, draw off the fires, spread the strew, make ready the sacrificial cake.' Verily having re-won the sacrifice they keep renewing it. At two pressings he draws off by means of embers, at the third with (flaming) splinters, to give it glory verily he completes it. The altars guarded the Soma in yonder world they took away the Soma from them; they followed it and surrounded it. He who knows thus [2] wins an attendant. They were deprived of the Soma drink; they besought the gods for the Soma drink; the gods said to them, 'Take two names each; then shall ye gain it, or not.' Then the altars became fires (also); therefore a Brahman who has two names is likely to prosper. Those which came nearest gained the Soma drink viz. the Ahavaniya, the Agnidh's altar, the Hotr's, and the Marjaliya; therefore they sacrifice on them. He leaves them out in uttering the cry for sacrifice, for [3] they were deprived of the Soma drink. The gods drove away the Asuras who were in front by the sacrifices which they offered on the eastern side, and the Asuras who were behind by those which they offered on the western side. Soma libations are offered in the east, seated to the west he besprinkles the altars; verily from behind and from in front the sacrificer smites away his enemies; therefore offspring are engendered behind, and are brought forth in front [4]. The altars are the breaths; if the Adhvaryu were to go past the altars to the west, he would mingle the breaths, he would be liable to die. The Hotr is the navel of the sacrifice; the expiration is above the navel, the inspiration is below; if the Adhvaryu were to go past the Hotr to the west, he would place the expiration in the inspiration, he would be liable to die. The Adhvaryu should not accompany the song; the Adhvaryu's strength is his voice; if the Adhvaryu were to accompany the song, he would confer his voice on the Udgatr [5], and his voice would fail. The theologians say, 'The Adhvaryu should not go beyond the Sadas to the west before the Soma offering is completed. Then how is he to go to offer the sacrifices in the southern fire? Because that is the end of the fires. But how are the gods to know whether it is the end or not?' He goes round the Agnidh's altar to the north and offers the sacrifices in the southern fire; verily he does not mingle the breaths. Some of the altars are besprinkled, some not; those which he besprinkles he delights; those which he does not besprinkle he delights by indicating them.
 
@@ -7940,8 +7903,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     [[6-3-11]]
     He covers the dipping-spoons with fat; cattle are distinguished by fat; verily he bestows on cattle their distinguishing mark. He covers (them) after putting (the fat) on the soup; the soup is the sap of cattle; verily he bestows sap upon cattle. He stirs the oblation of fat with the rib; the rib is the middle of cattle, the fat is the sap of cattle; in that he stirs the oblation of fat with the rib, he places sap in the middle of cattle. Now they kill [1] the beast when they dispose of it; the expiration has Indra for its deity, the inspiration has Indra also. 'May Indra's expiration be set in every limb', he says; verily he bestows expiration and inspiration upon cattle. 'O god Tvastr, let much be united for thee', he says; for cattle have Tvastr as their deity. 'When ye that are various become of one form', he says; for they being various become then of one form. 'Over thee as thou goest among the gods [2] for help let thy comrades and thy father and mother rejoice', he says; verily he makes him, approved by his mother and his father, go to the world of heaven. With a half-verse be offers the oblation of fat; the half-verse is yonder (sky) and the half-verse is this (earth); verily with sap he adorns both. He offers to the quarters; verily with sap he adorns the quarters; verily from the quarters he wins strength and sap. The speckled butter is the expiration and the inspiration of cattle; cattle have the lord of the forest [3] for their deity; in that having made offering of the speckled butter he says, 'Recite for the lord of the forest, give directions for the lord of the forest', he bestows expiration and inspiration upon cattle. Of each he divides the divided pieces; there fore cattle have various forms. He moistens (it) with soup; soup is the sap of cattle; verily he bestows sap upon cattle. He invokes the Ida; the Ida is cattle; verily he invokes cattle. Four times he invokes [4], for cattle have four feet. If he desire of a man, 'May he have no cattle', he should take for him (a piece) without fat; cattle are distinguished by fat; verily by means of their distinctive mark he deprives him of cattle, and he has no cattle. If he desire of a man, 'May he have cattle', he should take for him (a piece) with fat; cattle are distinguished by fat; verily by means of their distinctive mark he wins cattle for him, and he has cattle. Prajapati created the sacrifice; he first created the butter [5], in the middle the beast, last the speckled butter; therefore the fore-sacrifices are performed with butter, the beast (is offered) in the middle, and the after-sacrifices with speckled butter. Therefore that is mixed as it were, for it was created last. He offers eleven after-sacrifices; ten are the vital airs of the beast, the body is the eleventh; he offers as many after-sacrifices as is the size of the beast. Now they kill the beast when they dispose of it; the speckled butter is the expiration and the inspiration of cattle; in that he per forms the after-sacrifices with speckled butter, verily he bestows expiration and inspiration upon cattle.
 
-### IV
-    The Exposition Of the Soma Sacrifice (continued)
+### IV The Exposition Of the Soma Sacrifice (continued)
     [[6-4-1]]
     By means of the sacrifice Prajapati created offspring; verily he created them by the subsidiary sacrifices; in that he offers the subsidiary sacrifices, verily thus the sacrificer creates offspring. He cuts off from the hind portion, for from the hind portion offspring are born; he cuts off from the thick side, for offspring are born from the thick side; he cuts off without confusion, to prevent confusion of the vital airs. He does not turn (it) round; if he were to turn (it) round, disease would be likely to seize his offspring. 'Go to the ocean, hail!' he says verily thus he produces seed [1]. 'Go
 
@@ -7975,8 +7937,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     Whatever the gods did at the sacrifice the Asuras did. The gods saw the cups with the Agrayana at their head; they drew them; then indeed did they reach the top; he for whom knowing thus the cups are drawn with the Agrayana at their head reaches the top of his equals. With a verse containing the word 'destructive' he should draw for him who has a rival; verily having destroyed his rival he reaches the top of his equals. 'Ye gods that are eleven in the sky', he says [1]; so many are the deities; verily he draws it for all of them. 'This is thy birthplace; to the All-gods thee!' he says, for it has the All-gods for its deity. Speech departed from the gods, not being willing to remain for the sacrifice; when speech had departed the gods silently drew the cups; speech reflected, 'They are excluding me'; it went into the Agrayana; that is why the Agrayana has its name [2]. Therefore in the Agrayana speech is uttered. In that the former cups are drawn in silence, that is as when the hunter lets go (his arrow), (thinking), 'So far off is my mark at so far I shall not miss.' The Adhvaryu taking the Agrayana, commencing the sacrifice, utters his speech; thrice he utters 'Him'; verily thus
 
 
-### V
-    The Exposition of the Soma Sacrifice (continued)
+### V The Exposition of the Soma Sacrifice (continued)
     [[6-5-1]]
     Indra raised his bolt to hurl at Vrtra; Vrtra was afraid of the bolt when raised to be hurled; he said, 'Hurl it not at me; there is this strength in me, that will I bestow on thee'; on him he bestowed the Ukthya. At him he raised (the bolt) to hurl a second time; he said, 'Hurl it not at me; there is this strength in me, that will I bestow on thee' [1]; on him he bestowed again the Ukthya. At him he raised (the bolt) to hurl a third time; Visnu supported him (saying), 'Smite'; he said, 'Hurl it not at me; there is this strength in me, that will I bestow on thee'; he bestowed on him again the Ukthya. Him when he had lost his magic power he slew, for the sacrifice was his magic power. In that the Ukthya is drawn, verily the sacrificer thus appropriates the power [2] and strength of his foe. 'To Indra thee, to him of the Brhat, the strong', he says, for to Indra he gave it; 'to him thee! To Visnu thee!' he says; in that Visnu supported him (saying), 'Strike', he gives Visnu a share therein. Thrice he draws, for thrice he gave to him., This is thy birthplace; thou art the renewed offering', he says, for repeatedly [3] he draws from it. The Ukthya is the eye of the sacrifice; therefore the Somas follow the Ukthya when offered; therefore the body follows the eye; therefore as one goes many follow; therefore one becomes superior among many; therefore one wins many wives. If the Adhvaryu desire, 'May I bestow upon myself the glory of the sacrifice', standing between the Ahavaniya and the oblation-holder he should pour (it) down [4]; verily he bestows upon himself the glory of the sacrifice. If he desire, 'May I bestow upon the sacrificer the glory of the sacrifice', he should pour (it) down standing between the Sadas and the oblation-holder; verily he bestows upon the sacrificer the glory of the sacrifice. If he desire, 'May I bestow upon the Sadasyas the glory of the sacrifice', he should pour (it) down, grasping the Sadas; verily he bestows upon the Sadasyas the glory of the sacrifice.
     [[6-5-2]]
@@ -8005,8 +7966,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     [[6-5-11]]
     Some vessels are used (repeatedly), others not. With those that are employed once only (paracínani) he conquers yonder world, for yonder world is as it were turned away (paran). With those which are used again he conquers this world, for this world is repeated as it were again and again. Some vessels are used (repeatedly), and others not. Through those that are used once only the plants fade; through those which are used again [1] the plants revive again. Some vessels are used repeatedly, others not. Through those which are used once only the wild animals go to the forest; through those which are used again the domestic animals come back again to the village. He who knows the foundation of the cups becomes possessed of a (sure) foundation. The hymn called the Ajya (Çastra), that is the foundation of the cups; in that he recites muttering, that [2] is (the foundation) of the Upançu and the Antaryama (cups); in that (he recites) aloud, that is (the foundation) of the other cups; he who knows thus becomes possessed of a foundation. He who knows the pairing of the cups is propagated with offspring, with cattle, with pairings. Some cups are drawn with pots, some with (vessels) for Vayu; that is the pairing of the cups. He who knows thus is propagated with offspring, with cattle, with pairings. Indra forcibly drank the Soma of Tvastr; he went to pieces on all sides [3]; he found no stay in himself; he saw these cakes ,as an addition to the pressing, them he offered, and with them he made a stay in himself; therefore as additional to the pressing the cakes are offered; therefore as additional to the pressing he should partake of the cakes; verily he makes a stay in himself, and the Soma does not flow through him. The theologians say, 'Neither by Rc nor by Saman is the five made up; what then is the fivefold character of the sacrifice?' Fried grains, mush, rice grains, the cake, clotted milk, thereby the five is made up; that is the fivefold character of the sacrifice.
 
-### VI
-    The Exposition of the Daksina and other Offerings
+### VI The Exposition of the Daksina and other Offerings
     [[6-6-1]]
     The sacrifices with the gifts are offered for the world of heaven. He offers with two (verses) on the Garhapatya; the sacrificer has two feet; (verily it serves) for support. He offers in the Agnidh's altar; verily he ascends the atmosphere. He approaches the Sadas; verily he makes him go to the world of heaven. He offers in the Garhapatya with verses addressed to Surya; verily he makes him mount
 
@@ -8043,8 +8003,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
 
     
 ## 7 THE EXPLANATION OF THE SOMA SACRIFICE (continued)
-### I
-    The One Day Sacrifices
+### I The One Day Sacrifices
     [[7-1-1]]
     Production of offspring is light. Agni is the light of the gods; the Viraj is the light of the metres. The Viraj of speech ends in Agni; it is produced according to the Viraj. Therefore it is called light. Two Stomas bear the morning pressing, like expiration and inspiration; two the midday pressing, like eye and ear; two the third pressing, like speech and support. This sacrifice is commensurate with man, and is perfect [1]. Whatever desire a man has, he wins by it, for one wins all by that which is perfect. By means of the Agnistoma Prajapati created off spring; by means of the Agnistoma he grasped them. When he grasped them the mule escaped. Following it he took its seed, and placed it in the ass. Therefore the ass has double seed. They also say, 'He placed it in the mare.' Therefore the mare has double seed. They also say, 'In the plants [2] he placed it.' Therefore plants, though not anointed, glisten.' They also say, 'He placed it in offspring.' Therefore twins are born. Therefore the mule has no offspring, for his seed has been taken from him. Therefore he is not suitable for the sacrifice, but is suitable if there is a sacrifice when one gives (to the priests) all one's goods or a thousand, for he escaped. He who knowing thus sacrifices with the Agnistoma begets unborn offspring and grasps those that are born. Therefore they say, 'It is the best of sacrifices [3].' Prajapati indeed is the best, for he sacrificed with it first. Prajapati desired, 'May I have offspring.' He meted out the Trivrt from his mouth. After it the god Agni was created, the Gayatri metre, the Rathantara Saman, of men the Brahman, of cattle the goat; therefore are they the chief, for they were produced from the mouth. From the breast and arms he meted out the Pañcadaça Stoma. After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of men the Rajanya, of cattle the sheep. There fore they are strong, for they were created from strength. From the middle he meted out the Saptadaça Stoma. After it the All-gods as deities were created, the Jagati metre, the Vairupa Saman, of men the Vaiçya, of cattle cows. Therefore are they to be eaten, for they were created from the receptacle of food. Therefore are they more numerous than others, for they were created after the most numerous of the gods. From his feet he meted out the Ekavinça Stoma. After it the Anustubh metre [5] was created, the Vairaja Saman, of men the Çudra, of cattle the horse. Therefore the two, the horse and the Çudra, are dependent on others. Therefore the Çudra is not fit for the sacrifice, for he was not created after any gods. Therefore they depend on their feet, for they were created from the feet. The Trivrt is the breaths; the Pañcadaça the half-months; the Saptadaça Prajapati; these worlds are three; the Ekavinça is the sun yonder. In this they rest, in this they find support. He who knows thus rests on this, finds, support in this.
     [[7-1-2]]
@@ -8270,8 +8229,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     Choosing the waters the sage becometh pure,
     Like a beast the busy guardian that goeth around.
 
-### II
-    The Ahina Sacrifices (continued)
+### II The Ahina Sacrifices (continued)
     [[7-2-1]]
     The Sadhya gods, desirous of heaven, saw this (rite) of six nights. They grasped it, and sacrificed with it. Then indeed did they go to the world of heaven. Those, who knowing thus perform (the rite) of six nights, go to the world of heaven. (The rite) of six nights is a Sattra of the gods, for these Prsthas are obvious. Those, who knowing thus perform (the rite) of six nights, mount evidently upon the gods. (The rite) is of six nights; the seasons are six, the Prsthas are six [1]; verily by the Prsthas they mount the seasons, by the seasons the year; verily in the year they find support. They
 
@@ -8442,8 +8400,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     To the world hail!
     To all hail!
 
-### III
-    The Sattras
+### III The Sattras
     [[7-3-1]]
     They go swiftly in that it is the tenth day. In that it is the tenth day they loosen their sins. He who among men going swiftly falls in with a trackless way, he who strikes a post, and he who stumbles, are left out. So he, who on this tenth day, the Avivakya, comes to grief, is left out. If one points out (an error) to one who comes to grief, he seizes hold of him and comes out successfully, and then the one who pointed out (his error) is left out [1]. Therefore on the tenth day, the Avivakya, one should not point out (errors) to one who comes to grief. Or rather they say, 'By that which was successful in the sacrifice the gods went to the world of heaven, and overcame the Asuras by what was unsuccessful.' What is successful in the sacrifice belongs to the sacrificer, what is unsuccessful to his enemy. Now he, who comes to grief on the tenth day, the Avivakya, produces overmuch. Those who are outside as spectators [2] should point out (his error). If there be none there, then (the error) should be pointed out from within the Sadas. If there be none there, then it should be pointed out by the Grhapati. At any rate it should be pointed out. They sing the verses of the serpent queen on that day. The queen of what creeps is this (earth). Whatever on this (earth) they praise, whatever they have praised, through that is this (earth) the serpent queen. Now whatever they have praised with speech and what they will praise thereafter, (it is done thinking), 'Having won both and obtained them, let us stop.' They sing these (verses) with the mind. Neither a horse chariot nor a mule chariot can in one moment encompass this (earth), but mind can in one moment encompass it, mind can overcome it. Then they repeat the Brahman. The Rc verses are limited, the Samans are limited, and the Yajuses are limited, but of the Brahman there is no end, and that he should declare to the one who responds. That is the response.
     [[7-3-2]]
@@ -8656,8 +8613,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     To the one deprived altogether hail
     To all hail!
 
-### IV
-    The Sattras (continued)
+### IV The Sattras (continued)
     [[7-4-1]]
     Brhaspati desired, 'May the gods have faith in me, and may I become their Purohita.' He saw this (rite) of twenty-four nights; he grasped it, and sacrificed with it. Then the gods had faith in him, and he became their Purohita. In those who knowing thus perform the twenty four night (rite) men have faith, and they become their Purohitas. There are the three days Jyotis, Go, and Ayus. The Jyotis is this (earth), the Go the atmosphere, and the Ayus yonder (sky) [1]; verily they mount upon these worlds. The three days occur in order; verily in order do they mount upon the world of heaven. There can be no Sattra where there is no Chandoma; in that there are Chandomas, there is the Sattra. The gods they win by the Prsthas, the cattle by the Chandomas. The Prsthas are force and strength, the Chandomas cattle; verily in force and strength, and in cattle they find support. They proceed with the Brhat and the Rathantara (Samans). The Rathantara, is this (earth), the Brhat yonder (sky);
 
@@ -8873,8 +8829,7 @@ Scanned at www.sacred-texts.com July-August 2000 by J.B. Hare
     To that which standeth hail!
     To all hail!
 
-### V
-    The Gavam Ayana
+### V The Gavam Ayana
     [[7-5-1]]
     The cows performed that Sattra, being hornless, with the desire, 'May horns be born to us.' For ten months they performed it, and then horns were born, and they ceased (the rite), (saying), 'We have obtained (our desire).' Then those whose horns were not born ceased (the rite) after making up the year, (saying), 'We have obtained (our desire).' Both those which obtained horns and those which
     did not ceased, (saying),'We have obtained (our desire).' The year is the cows' Sattra [1], and those
