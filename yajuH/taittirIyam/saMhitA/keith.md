@@ -1101,7 +1101,9 @@ These have sat down in the world of good action.
 ##### s
 Protect them, O Visnu.
 ##### t
-Protect the sacrifice, protect the lord of the sacrifice, protect me that conduct the sacrifice. [[1-1-12]]
+Protect the sacrifice, protect the lord of the sacrifice, protect me that conduct the sacrifice.
+#### 12
+
 ##### a
 Thou art the world, be extended.
 ##### b
@@ -1555,7 +1557,9 @@ Thy dread form, O Agni, with that protect us; hail to that form of thine!
 ##### f
 That form of thine, O Agni, which rests in iron, which rests in silver, which rests in gold, the highest, that dwells in the cleft,
 ##### g
-(By it) I have driven away harsh speech, (by it) I have driven away angry speech. Hail! [[1-2-12]]
+(By it) I have driven away harsh speech, (by it) I have driven away angry speech. Hail!
+#### 12
+
 ##### a
 Thou I art the abode of riches for me; thou art the resort of the afflicted for me; protect me when in want; protect me when afflicted.
 ##### b
@@ -2309,7 +2313,9 @@ That I whip of yours which is rich in sweetness
 And full of mercy, O Aśvins,  
 With that touch the sacrifice.
 ##### b
-Thou art taken with a support; to the Aśvins thee! This is thy birthplace; to the sweet thee! [[1-4-7]]
+Thou art taken with a support; to the Aśvins thee! This is thy birthplace; to the sweet thee!
+#### 7
+
 ##### a
 Ye that yoke early be unloosed  
 O Aśvins, come ye hither,  
@@ -2325,7 +2331,9 @@ He enveloped in light, in the expanse of the welkin;
 Him in the meeting-place of the waters, of the sun,  
 Like a child, the priests tend with their songs.
 ##### b
-Thou art taken with a support; to Çanda thee! This is thy birthplace; guard the folk. [[1-4-9]]
+Thou art taken with a support; to Çanda thee! This is thy birthplace; guard the folk.
+#### 9
+
 ##### a
 Him, as aforetime, as of old, as always, as now,  
 The prince, who hath his seat on the strew and knoweth the heaven,  
@@ -2391,7 +2399,9 @@ Ye dread ones, guardians of men,
 O All-gods, come ye,  
 Generous, to the pressed drink of the generous one.
 ##### b
-Thou art taken with a support; to the All-gods thee! This is thy birthplace; to the All-gods thee! [[1-4-17]]
+Thou art taken with a support; to the All-gods thee! This is thy birthplace; to the All-gods thee!
+#### 17
+
 ##### a
 Him with the Maruts, the mighty bull,  
 The bountiful, the divine ruler, Indra,  
@@ -2433,7 +2443,9 @@ Unfailing in strength, of double force;
 Towards us for strength doth he wax;  
 Broad and wide hath he been adorned by the offerers.
 ##### b
-Thou art taken with a foundation; to Mahendra thee! This is thy birthplace; to Mahendra thee! [[1-4-22]]
+Thou art taken with a foundation; to Mahendra thee! This is thy birthplace; to Mahendra thee!
+#### 22
+
 ##### a
 Never art thou barren, O Indra,  
 Never dost thou fail thy worshipper;  
@@ -2490,7 +2502,9 @@ This is thy birthplace; to the All-gods thee!
 Of thee, O drop, pressed by Brhaspati, and possessing power, I draw  
 the cup connected with the wives.
 ##### b
-O Agni, with the wives, in unison with the god Tvastr, drink the Soma, hail. [[1-4-28]]
+O Agni, with the wives, in unison with the god Tvastr, drink the Soma, hail.
+#### 28
+
 ##### a
 Thou art a bay, yoker of bays, mounter on the bays, bearer of the bolt, lover of Prśni; to thee, O god Soma, for whom the formula of sacrifice is uttered, the song sung, the hymn recited, I draw the cup connected with the bays.
 ##### b
@@ -3940,7 +3954,9 @@ Mitra in his course hath overcome hostility;
 The worshipful ones have taken order according to sacred law:  
 Trita hath taken possession of our old age.
 ##### g
-Thou art the stepping of Visnu, thou art the step of Visnu, thou art the stride of Visnu. [[1-8-11]]
+Thou art the stepping of Visnu, thou art the step of Visnu, thou art the stride of Visnu.
+#### 11
+
 ##### a
 Ye are active, thou art the lord of the waters, thou art the male wave, thou art the male host, ye are the pen-dwellers, ye are the strength of the Maruts, ye have the radiance of the sun, ye have the brightness of the sun, ye are delightful, ye are obedient, ye are powerful, ye are all supporters, ye are supporters of men, ye have the brilliance of Agni, ye are the sap of the waters, of the plants.
 ##### b
@@ -4084,7 +4100,9 @@ This king hath surmounted the quarters.
 ##### k
 O thou of good fame! O thou of prosperity! O thou of true rule!
 ##### l
-To the son of the waters hail! To the son of strength hail! To Agni, lord of the house, hail! [[1-8-17]]  
+To the son of the waters hail! To the son of strength hail! To Agni, lord of the house, hail!
+#### 17
+  
 He offers to Agni on eight potsherds; the sacrificial fee is gold. (He offers) to Sarasvati an oblation; the sacrificial fee is a calf. To Savitr (he offers) on twelve potsherds; the sacrificial fee is a speckled (ox). To Pusan (he offers) an oblation; the sacrificial fee is a dark (ox), To Brhaspati (he offers) an oblation; the sacrificial fee is a white-backed (ox). To Indra (he offers) on eleven potsherds; the sacrificial fee is a bull. To Varuna (he offers) on ten potsherds; the sacrificial fee is a great castrated (ox). To Soma (he offers) an oblation; the sacrificial fee is a brown (ox). To Tvastr (he offers) on eight potsherds; the sacrificial fee is a white (ox) To Vishnu (he offers) on three potsherds; the sacrificial fee is a dwarf (ox).
 #### 18
 On the same day they consecrate, on the same day they buy the Soma. He presents a lotus wreath. He buys the Soma with calves. There is a drink for ten. A hundred Brahmans drink. The Stotra is the Saptadaśa. The two ornaments he gives to the Adhvaryu, the garland to the Udgatr, the round  
@@ -6129,7 +6147,9 @@ Guard the paths of light made by prayer.
 Weave ye without a flaw the work of the singers;  
 Become Manu; produce thou. the host divine.
 ##### g
-Thou art the offering of mind, the colour of Prajapati, may we share thy limbs. [[3-4-3]]  
+Thou art the offering of mind, the colour of Prajapati, may we share thy limbs.
+#### 3
+  
 These two were together, Vayu blew them apart; they conceived a child, Soma generated it, Agni swallowed it. Prajapati saw this (offering) to Agni on eight potsherds, he offered it, and thereby he redeemed this (victim) from Agni. Therefore though sacrificing it to another god, still one should first offer on eight potsherds to Agni; verily redeeming it from Agni he offers it. Because [1] Vayu blew (them apart), therefore is it connected with Vayu; because these two conceived, therefore is it connected with sky and earth; because Soma generated, and Agni swallowed, there fore is it connected with Agni and Soma; because when the two parted speech was uttered, therefore is it connected with Sarasvati; because Prajapati redeemed it from Agni, therefore is it connected with Prajapati; the barren goat is connected with all the gods. To Vayu should he offer it who desires wealth. the swiftest deity is Vayu; verily he has recourse to Vayu with his own share [2], and he causes him to attain wealth. To sky and earth should he offer it who in ploughing desires support; verily from the sky Parjanya rains for him, plants spring up in this (earth), his corn prospers. To Agni and Soma should he offer it who desires, 'May I be possessed of food, an eater of food'; by Agni he wins food, by Soma the eating of food; verily he becomes possessed of food, an eater of food. To Sarasvati should he offer it who [3], being able to utter speech, cannot utter speech; Sarasvati is speech; verily he has recourse to Sarasvati with her own share, and she bestows speech upon him. To Prajapati should he offer it who desires, 'May I gain that which has not been gained';
   
 all the deities are Prajapati; verily by the deities he gains what has not been gained. He brings (the victims) up with a verse ad dressed to Vayu; verily winning it from Vayu he offers it. 'For intent thee, for desire thee!' [4] he says; that is according to the text. He offers with the sound kikkita; at the sound kikkita the domestic animals stop, the wild run away. In that he offers with the sound kikkita, (it serves) to support domestic animals. He offers while the circumambulation by fire is taking place; verily alive he sends it to the world of heaven. 'Thou, the fourth, art the barren, the eager one', he says; verily he sends it to the gods. 'Be the desires of the sacrificer fulfilled', he says; this is the desire [5] of the sacrificer that (the sacrifice) should proceed to its conclusion without injury. 'Thou art the goat, resting in wealth', he says; verily in these worlds he makes it find support. 'In the sky be thy great radiance', he says; verily in the world of heaven he bestows light upon him. 'Stretching the thread of the atmosphere do thou pursue the light', he says; verily he makes these worlds full of light for him. 'Weave ye without a flaw the work of the singers, [6], he says; whatever flaw is committed in the sacrifice, this serves to atone for it. 'Become Manu; produce thou the host divine', he says; offspring are connected with Manu; verily he makes them fit for food. 'Thou art the offering of mind', he says, to make 'Godspeed'. 'May we share thy limbs', he says; verily he invokes this blessing. Of this (victim) there is one time unpropitious for sacrifice to the gods, when a cloud appears when it has been offered [7]; if a cloud should appear when it has been offered, he should either cast it into the waters or eat it whole; if he were to cast it into the waters, he would con fuse the sacrifice; he should eat it whole; verily he bestows power upon himself. By three people is this to be performed, him who performs a year-long Sattra, him who offers with a thousand (gifts), and him who is a domestic sacrificer; with it let them sacrifice, for them is it fit.  
@@ -6597,7 +6617,9 @@ Bearing the spade of gold,
 Therewith digging Agni
 
 Do thou bring for us light unperishing.  
-With the Anustubh metre I grasp thee in the manner of Angiras. [[4-1-2]]
+With the Anustubh metre I grasp thee in the manner of Angiras.
+#### 2
+
 ##### a
 This bond of order they grasped  
 At their assemblies in ages gone by, the sages;  
@@ -8479,7 +8501,9 @@ O Agni, thy highest name, the heart,
 Come let us join together,  
 Be thou, O Agni, among those of the five races.
 ##### f
-(Thou art) the Yavas, the Ayavas, the courses, the helpers, the Sabda, the ocean, the firm one. [[4-4-8]]  
+(Thou art) the Yavas, the Ayavas, the courses, the helpers, the Sabda, the ocean, the firm one.
+#### 8
+  
 (Thou I art) all overcoming through Agni; self-ruling through the sun; lord of strength through might; creator with the bull; bountiful through the sacrifice; heavenly through the sacrificial fee; slayer of enemies through rage; supporter of the body through kindliness; wealth through food; through the earth he hath won; (thou art) eater of food with verses; increased by the Vasat cry; protector of the body through the Saman; full of light with the Viraj; drinker of Soma through the holy power; with cows he supporteth the sacrifice; with lordly power men; with horse and car bearer of the bolt; lord with the seasons; enclosing with the year; unassailable through penance; the sun with bodies.
 #### 09
 (Thou art) Prajapati in mind, when come to the Soma; the creator in the consecration; Savitr in the bearing; Pusan in the cow for the purchase of the Soma; Varuna when bound (in the cloth); Asura in the being bought; Mitra when purchased; Çipivista when put in place; delighter of men when being drawn forward; the overlord on arrival; Prajapati being led on; Agni at the Agnidh's altar; Brhaspati on being led from the Agnidh's altar; Indra at the oblation-holder; Aditi when put in place; Visnu when being taken down; Atharvan when made wet; Yama when pressed out; drinker of unpurified (Soma) when being cleansed; Vayu when purifying; Mitra as mixed with milk; the Manthin when mixed with groats; that of the All-gods when taken out; Rudra when offered; Vayu when covered up; the gazer on men when revealed; the food when it comes; the famed of the fathers; life when taken; the river when going to the final bath; the ocean when gone; the water when dipped; the heaven when arrived at completion.
@@ -8864,7 +8888,9 @@ Homage to him of the cloudy sky, and to him of the heat.
 ##### p
 Homage to him of the wind, and to him of the storm.
 ##### q
-Homage to him of the dwelling, and to him who guardeth the dwelling. [[4-5-8]]
+Homage to him of the dwelling, and to him who guardeth the dwelling.
+#### 8
+
 ##### a
 Homage to Soma, and to Rudra.
 ##### b
@@ -11026,7 +11052,9 @@ For ploughing thee! For comfort thee! For wealth thee! For increase thee!
 ##### f
 For earth thee! For the atmosphere thee! For sky thee!
 ##### g
-For being thee! For not being thee! For the waters thee! For the plants thee! For all creatures thee! [[7-1-12]]
+For being thee! For not being thee! For the waters thee! For the plants thee! For all creatures thee!
+#### 12
+
 ##### a
 Many through thy dam, powerful through thy sire, thou art a horse, thou art a steed, thou art a runner, thou art a male, thou art a strong horse, thou art a racer, thou art powerful, thou art a stallion, thou art heroic hearted; 'goer' is thy name; do thou follow the course of the Adityas.
 ##### b
@@ -11322,7 +11350,9 @@ To all hail!
 To three hail!  
 To five hail!  
 To seven hail!  
-(Then as in 12 down to) To all hail! [[7-2-15]]  
+(Then as in 12 down to) To all hail!
+#### 15
+  
 To four hail!  
 To eight hail!  
 To twelve hail!  
