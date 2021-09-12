@@ -226,4 +226,4 @@ Thou art the lord of consecrations
 इ॒ह मा॒ सन्त॑म् पाहि ॥  
 
 #### Keith
-guard me that am here.
+Guard me that am here.
