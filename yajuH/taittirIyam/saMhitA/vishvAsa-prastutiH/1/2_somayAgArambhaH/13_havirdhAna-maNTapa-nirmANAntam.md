@@ -16,7 +16,7 @@ short_title = "१३"
 +++(सवितृ-प्रामुख्यम् अभिलक्ष्य)+++ वि होत्रा॑+++(=स्तुतीर्)+++ दधे वयुना॒+++(=ज्ञान)+++-विद् एक॒  
 इन् म॒ही दे॒वस्य॑ सवि॒तुᳶ परि॑ष्टुतिः ॥
 
-### Keith
+#### Keith
 They yoke their minds, and yoke their thoughts,
 The priests of the mighty wise priest;
 He alone, who knows the way, ordains their priestly functions;
@@ -29,7 +29,7 @@ Great is the praise of the god Savitr.
 सु॒वाग् दे॑व॒ दुर्या॒ꣳ॒+++(=गृहान्)+++ आ व॑द। +++('वरुणो वा एष दुर्वागुभयतो बद्धो यदक्षः' इत्यादि ब्राह्मंणम् ।)+++  
 +++(हे अक्षौ!)+++ देव॒-श्रुतौ॑ दे॒वेष्व् आ घो॑षेथाम्।
 
-### Keith
+#### Keith
 With fair voice, O god, do thou address the dwelling.  
 Ye two, famed among the gods, make proclamation among the gods.
 
@@ -39,7 +39,7 @@ Ye two, famed among the gods, make proclamation among the gods.
 ### मन्त्रः
 आ नो॑ वी॒रो जा॑यताङ् कर्म॒ण्यो॑+++(=कर्मयोग्यः)+++  
 यꣳ सर्वे॑ ऽनु॒जीवा॑म॒ यो ब॑हू॒नाम् अस॑द् व॒शी ।  
-### Keith
+#### Keith
 For us be born a hero of great deeds,  
 On whom we may all depend,  
 Who shall be ruler over many.
@@ -52,7 +52,7 @@ Who shall be ruler over many.
 +++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा नि द॑धे प॒दम् ।  
 +++(तैर् आधारैः)+++ समू॑ढम् अस्य पाꣳसु॒रे +++(पादे)+++ ॥
 
-### Keith
+#### Keith
 Over this Visnu strode;  
 Thrice did he set down his foot;  
 (All) is gathered [1] in its dust.
@@ -66,7 +66,7 @@ Thrice did he set down his foot;
 **व्य॑स्कभ्ना॒द्**+++(=व्यस्थापयत्)+++ रोद॑सी॒ **विष्णु॑र्**+++(→आदित्यः)+++ ए॒ते  
 **दा॒धार॑** +++(अन्तरिक्षरूपिणीम्)+++ पृथि॒वीम् अ॒भितो॑ म॒यूखैः᳚+++(→कीलैः/ किरणैः)+++ ॥
 
-### Keith
+#### Keith
 So then be ye two rich in food, in cows,  
 In good grass, ye that are famous, for man  
 These two firmaments Visnu held asunder;  
@@ -79,7 +79,7 @@ He holdeth the earth on all sides with pegs.
 +++(हे हविर्धाने!)+++ प्राची॒ प्रेत॑म्+++(=गच्छतम्)+++। अ-ध्व॒रङ् क॒ल्पय॑न्ती, ऊ॒र्ध्वय्ँ य॒ज्ञन् न॑यत॒म् - मा जी᳚ह्वरतम्+++(=कुटिलं कार्ष्टम्)+++ ।  
 अत्र॑ रमेथा॒व्ँ वर्ष्म॑न् पृथि॒व्याः ।
 
-### Keith
+#### Keith
 Come ye two then forward, ordaining the offering; bring upward the sacrifice; do not falter.  
 
 ## विनियोगः
@@ -88,7 +88,7 @@ Come ye two then forward, ordaining the offering; bring upward the sacrifice; do
 ### मन्त्रः
 अत्र॑ रमेथा॒व्ँ वर्ष्म॑न् पृथि॒व्याः ।
 
-### Keith
+#### Keith
 There rest on the height of the earth.
 
 ## विनियोगः
@@ -100,7 +100,7 @@ There rest on the height of the earth.
 हस्तौ॑ पृणस्व+++(=पूरय)+++ ब॒हुभि॑र् वस॒व्यै॑र्+++(=धनसमूहैः)+++  
 आ प्र य॑च्छ दख्षि॑णा॒द् ओत स॒व्यात् ॥
 
-### Keith
+#### Keith
 From the sky, O Visnu, or from the earth,  
 Or from the great (sky), or from the atmosphere,  
 Fill thy hands with many good things,  
@@ -115,7 +115,7 @@ Give to us [2] from right and from left.
 यो अस्क॑भाय॒द् उत्त॑रꣳ स॒धस्थ॑व्ँ +++(अन्तरिक्षम्)+++  
 विचक्रमा॒णस् त्रे॒धोरु॑-गा॒यः+++(=गीतः/‌गतिः)+++ ॥
 
-### Keith
+#### Keith
 I shall proclaim the mighty deeds of Visnu  
 Who meted out the spaces of the earth,  
 Who established the highest abode,  
@@ -127,7 +127,7 @@ Stepping thrice, the far-goer.
 ### मन्त्रः
 विष्णो॑ र॒राट॑म्+++(=ललाटम्)+++ असि ।
 
-### Keith
+#### Keith
 Thou art the forehead of Visnu.
 
 ## विनियोगः
@@ -136,7 +136,7 @@ Thou art the forehead of Visnu.
 ### मन्त्रः
 विष्णोः᳚ पृ॒ष्ठम् अ॑सि ।
 
-### Keith
+#### Keith
 Thou art the back of Visnu.
 
 ## विनियोगः
@@ -146,7 +146,7 @@ Thou art the back of Visnu.
 विष्णो॒श् श्नप्त्रे᳚+++(=मुखकोणौ)+++ स्थः ।
 
 
-### Keith
+#### Keith
 Ye two are the corners' of Visnu's mouth.
 
 ## विनियोगः
@@ -154,7 +154,7 @@ Ye two are the corners' of Visnu's mouth.
 ### मन्त्रः
 विष्णो॒स् स्यूर्+++(=सूची)+++ अ॑सि ।
 
-### Keith
+#### Keith
 Thou art the thread of Visnu.
 
 ## विनियोगः
@@ -163,7 +163,7 @@ Thou art the thread of Visnu.
 ### मन्त्रः
 विष्णो᳚र् ध्रु॒वम् अ॑सि ।
 
-### Keith
+#### Keith
 Thou art the fixed point of Visnu.
 
 ## विनियोगः
@@ -172,5 +172,5 @@ Thou art the fixed point of Visnu.
 ### मन्त्रः
 वै॒ष्ण॒वम् अ॑सि। विष्ण॑वे त्वा +++(अभिमृशामि)+++॥ [27]  
 
-### Keith
+#### Keith
 Thou art of Vishu; to Visnu thee!
