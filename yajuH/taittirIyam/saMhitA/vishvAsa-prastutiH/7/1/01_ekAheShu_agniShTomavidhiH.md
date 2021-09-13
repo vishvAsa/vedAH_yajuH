@@ -80,16 +80,18 @@ They also say, 'He placed it in offspring.' Therefore twins are born.
 तस्मा॑द् अश्वत॒रो न प्र जा॑यत । आत्त॑-रेता॒ हि तस्मा᳚द् ब॒र्हिष्य्+++(→यज्ञे दक्षिणादौ)+++ अन॑वकॢप्तः ।  
 स॒र्व॒-वे॒द॒से+++(=धनाय [यज्ञाय])+++ वा᳚, स॒हस्रे॑+++(→सहस्रदक्षिणाय)+++  वाऽव॑क्ल्प्तः। +++(प्राकृतीर्दक्षिणा)+++ अति॒ ह्य् अप्र॑+++(प्ल)+++वत +++(विकृतियागेषु तु भवति)+++। +++('हि च' इति निघातप्रतिषेधः ।)+++
 
-य ए॒वव्ँ वि॒द्वान् +++(स)+++ अ॒ग्नि॒ष्टो॒मेन॒ यज॑ते+++(→यजेत)+++ ।
-
 #### Keith
 Therefore the mule has no offspring, for his seed has been taken from him.  
-Therefore he is not suitable for the sacrifice, but is suitable if there is a sacrifice when one gives (to the priests) all one's goods or a thousand, for he escaped. 
-
-He who knowing thus sacrifices with the Agnistoma begets unborn offspring and grasps those that are born. Therefore they say, 'It is the best of sacrifices [3].'
+Therefore he is not suitable for the sacrifice, but is suitable if there is a sacrifice when one gives (to the priests) all one's goods or a thousand, for he escaped.
 
 ## प्राशस्त्यकथनम्
+य ए॒वव्ँ वि॒द्वान् +++(स)+++ अ॒ग्नि॒ष्टो॒मेन॒ यज॑ते+++(→यजेत)+++ - प्राजा॑ताᳶ प्र॒जा ज॒नय॑ति॒, परि॒ प्रजा॑ता गृह्णाति।  
+तस्मा॑दाहुर् - ज्येष्ठय॒ज्ञ इति॑।  
 प्र॒जाप॑ति॒र् वा+++(वै)+++व ज्येष्ठः॑ । स ह्य् ए॑तेनाऽऽग्रे ऽय॑जत । +++(अतो ऽग्निष्ठोमो ज्येष्ठः।)+++
+
+
+#### Keith
+He who knowing thus sacrifices with the Agnistoma begets unborn offspring and grasps those that are born. Therefore they say, 'It is the best of sacrifices [3].'
 
 ## स्तोमोत्पत्तिः
 प्र॒जाप॑तिर् अकामयत । प्र जा॑ये॒येति॑।  
