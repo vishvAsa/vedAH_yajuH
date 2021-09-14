@@ -2,6 +2,8 @@
 title = "सात्वळेकर-प्रस्तावः"
 unicode_script = "devanagari"
 +++
+
+स्रोतो [ऽत्र](https://archive.org/details/dli.ernet.495420/page/n5/mode/2up) ।
 …
 
 ## पादबद्धमंत्रोंका गान 
