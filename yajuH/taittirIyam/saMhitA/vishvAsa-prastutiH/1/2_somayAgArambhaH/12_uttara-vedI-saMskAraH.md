@@ -133,7 +133,7 @@ be bright for the gods.
 +++(स्तनयित्नुः)+++ इ॒न्द्र॒-घो॒षस् त्वा॒ वसु॑भिᳶ +++(सह)+++ पु॒रस्ता᳚त् पातु ।
 _____
 ##### Keith
-May the cry of Indra guard thee in front with the Vasus; 
+May the cry of Indra guard thee in front with the Vasus;
 
 ### विनियोगः
 दक्षिणभागं प्रोक्षति।
@@ -142,7 +142,7 @@ May the cry of Indra guard thee in front with the Vasus;
 +++(यमः)+++ मनो॑जवास् त्वा पि॒तृभि॑र्  +++(सह)+++  दख्षिण॒तᳶ पा॑तु ।
 _____
 ##### Keith
-may the swift of mind guard thee on the right with the Pitrs; 
+may the swift of mind guard thee on the right with the Pitrs;
 
 ### विनियोगः
 पश्चिमभागं प्रोक्षति।
@@ -151,7 +151,7 @@ may the swift of mind guard thee on the right with the Pitrs;
 प्रचे॑तास् त्वा रु॒द्रैᳶ  +++(सह)+++  प॒श्वात्पा॑तु ।
 _____
 ##### Keith
-may the wise one guard thee behind with the Rudras; 
+may the wise one guard thee behind with the Rudras;
 
 ### विनियोगः
 उत्तरभागं प्रोक्षति।
@@ -224,7 +224,7 @@ _____
 पौतुद्रवान् = देवदारुभवान् परिधीन् परिदधाति।  तत्र मध्यमं परिदधाति।।
 
 #### मन्त्रः  
-वि॒श्वायु॑र् असि। पृ॒थि॒वीन् दृꣳ॑ह+++(=दृढीकुरु)+++ ।
+वि॒श्वायु॑र् असि। पृथि॒वीन् दृꣳ॑ह+++(=दृढीकुरु)+++ ।
 +++(दक्षिणपरिधि!)+++ ध्रुव॒-ख्षिद्+++(=वास्तव्या)+++ असि । अ॒न्तरि॑ख्षन् दृꣳह ।
 +++(उत्तर-परिधि!)+++ अच्युत॒-ख्षिद् अ॑सि । दिव॑न् दृꣳह।
 
