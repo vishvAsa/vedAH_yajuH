@@ -59,8 +59,6 @@ The pupil of the eye of Agni,
 When thou goest with thy steeds,  
 Blazing with the wise.
 
-## सोमक्रयण्य्-अनुमन्त्रणम्
-
 ## विनियोगः
 सोमक्रयणीम् अनुमन्त्रयते।
 

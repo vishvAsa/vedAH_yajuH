@@ -75,9 +75,10 @@ With us be light.
 #### मन्त्रः  
 सोमविक्र॒यिणि॒ तमः॑ ।
 _____
-## सोमग्रहणम्
 ##### Keith
 darkness be on the Soma-seller.
+
+## सोमग्रहणम्
 
 
 ### विनियोगः
