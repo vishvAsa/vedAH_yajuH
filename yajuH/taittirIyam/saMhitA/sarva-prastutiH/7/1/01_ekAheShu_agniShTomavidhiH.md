@@ -85,6 +85,7 @@ Therefore the mule has no offspring, for his seed has been taken from him.
 Therefore he is not suitable for the sacrifice, but is suitable if there is a sacrifice when one gives (to the priests) all one's goods or a thousand, for he escaped.
 
 ## प्राशस्त्यकथनम्
+### वाक्यानि
 य ए॒वव्ँ वि॒द्वान् +++(स)+++ अ॒ग्नि॒ष्टो॒मेन॒ यज॑ते+++(→यजेत)+++ - प्राजा॑ताᳶ प्र॒जा ज॒नय॑ति॒, परि॒ प्रजा॑ता गृह्णाति।  
 तस्मा॑दाहुर् - ज्येष्ठय॒ज्ञ इति॑।  
 प्र॒जाप॑ति॒र् वा+++(वै)+++व ज्येष्ठः॑ । स ह्य् ए॑तेनाऽऽग्रे ऽय॑जत । +++(अतो ऽग्निष्ठोमो ज्येष्ठः।)+++
@@ -94,33 +95,71 @@ Therefore he is not suitable for the sacrifice, but is suitable if there is a sa
 He who knowing thus sacrifices with the Agnistoma begets unborn offspring and grasps those that are born. Therefore they say, 'It is the best of sacrifices [3].'
 
 ## स्तोमोत्पत्तिः
+### वाक्यानि
 प्र॒जाप॑तिर् अकामयत । प्र जा॑ये॒येति॑।  
 स मु॑ख॒तस् त्रि॒वृत॒न्+++(=नवस्तोत्रीयं स्तोमं, त्र्यवयवास्तिस्रो वृत्तयोस्येति)+++ निर् अ॑मिमीत ।  
 तम् अ॒ग्निर् दे॒वताऽन्व॑सृज्यत, गाय॒त्री छन्दो॑, रथन्त॒रꣳ साम॑, ब्राह्म॒णो म॑नु॒ष्या॑णाम्, अ॒जᳶ प॑शू॒नाम्। तस्मा॒त् ते मुख्याः॑। मुख॒तो ह्यसृ॑ज्य॒न्त । +++("अग्न॒ आ या॑हि" इत्यादेस् त्र्यर्चस्य भवति।)+++
+
+#### Keith
+Prajapati desired, 'May I have offspring.'  
+He meted out the Trivrt from his mouth.  
+After it the god Agni was created, the Gayatri metre, the Rathantara Saman, of men the Brahman, of cattle the goat; therefore are they the chief, for they were produced from the mouth. 
+
 _____________
+### वाक्यानि
 उर॑सो बा॒हुभ्या᳚म् पञ्चद॒शन् +++(स्तोत्रीयं)+++ निर् अ॑मिमीत ।  
 तम् इन्द्रो॑ दे॒वताऽन्व॑सृज्यत - त्रि॒ष्टुप् छन्दो॑, बृ॒हत् साम॑, राज॒न्यो॑ मनु॒ष्या॑णा॒म्, अवि॑ᳶ पशू॒नाम्। तस्मा॒त्ते वी॒र्या॑वन्तः। वी॒र्या᳚द् ध्य् असृ॑ज्यन्त। +++("त्वामिद्धि हवा॑महे सा॒ता…")+++
-_____________
 
+#### Keith
+From the breast and arms he meted out the Pañcadaça Stoma.  
+After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of men the Rajanya, of cattle the sheep.  There fore they are strong, for they were created from strength.
+
+_____________
+### वाक्यानि
++++("यद् द्याव इन्द्र ते")+++  
 मध्य॒तस् स॑प्तद॒शन् +++(स्तोत्रीयं)+++ निर् अ॑मिमीत ।  
 तव्ँ विश्वे॑ दे॒वा दे॒वता॒ अन्व् अ॑सृज्यन्त, जग॑ती॒ छन्दो॑, वैरू॒पꣳ साम॒, वैश्यो॑ मनु॒ष्या॑णा॒ङ्, गाव॑ᳶ पशू॒नाम्।  
-तस्मा॒त् त आ॒द्याः॑+++(=उपजीव्याः)+++। अन्न॒-धाना॒द् ध्य् असृ॑ज्यन्त। +++("यद् द्याव इन्द्र ते")+++
-_____________
-
+तस्मा॒त् त आ॒द्याः॑+++(=उपजीव्याः)+++। अन्न॒-धाना॒द् ध्य् असृ॑ज्यन्त।  
 तस्मा॒द् भूयाꣳ॑सो॒ +++(स्तोत्राणि)+++ ऽन्येभ्यः॑।  
-भूयि॑ष्ठा॒ हि दे॒वता॒ अन्व् असृ॑ज्यन्त । 
+भूयि॑ष्ठा॒ हि दे॒वता॒ अन्व् असृ॑ज्यन्त ।
+
+#### Keith
+From the middle he meted out the Saptadaça Stoma.  
+After it the All-gods as deities were created, the Jagati metre, the Vairupa Saman, of men the Vaiçya, of cattle cows.  
+
+Therefore are they to be eaten, for they were created from the receptacle of food.  
+Therefore are they more numerous than others, for they were created after the most numerous of the gods. 
 _____________
 
+### वाक्यानि
 प॒त्त+++(=पद्भ्यां)+++ ए॑क-वि॒ꣳ॒शन् निर् अ॑मिमीत ।  
 तम॑नु॒ष्टुप्छन्दो॑ऽन्व॑सृज्यत, वै॒रा॒ज॒ꣳ साम॑, शू॒द्रो म॒नुष्या॑णाम्, अश्व॑ᳶ पशू॒नाम्। +++("पिब सोमम् इन्द्र!?")+++  
 तस्मा॒त् तौ भू॑त-सङ्क्रा॒मिणौ᳚ अश्व॑श् च शू॒द्रश् च॑ ।  
 तस्मा᳚च् छू॒द्रो य॒ज्ञे +++(दक्षिणात्वेन)+++ ऽन॑वकॢप्तः । +++(यतो)+++ न हि दे॒वता॒ अन्वसृ॑ज्यत । +++(अश्वस् तु याग-योग्य एव - सर्वदेवताधारत्वात्।)+++  
 तस्मा॒त् पादा॒व् उप॑ जीवतः +++(शूद्राश्वौ)+++। प॒त्तो ह्यसृ॑ज्येताम् ।
+
+#### Keith
+From his feet he meted out the Ekavinça Stoma.  
+After it the Anustubh metre [5] was created, the Vairaja Saman, of men the Çudra, of cattle the horse.  
+Therefore the two, the horse and the Çudra, are dependent on others.  
+Therefore the Çudra is not fit for the sacrifice, for he was not created after any gods.   
+Therefore they depend on their feet, for they were created from the feet. 
 _____________
 
+### वाक्यानि
 +++(नवत्वान्वयात्)+++ प्रा॒णा वै त्रि॒वृत्+++(स्तोमानि)+++ ।  
 +++(दिवसैः)+++ अ॒र्ध॒मा॒साᳶ प॑ञ्च-द॒शः +++(स्तोत्रम्)+++ ।  
-प्र॒जा-प॑तिस् सप्त-द॒शः +++(स्तोत्रम्)+++ त्रय॑ इ॒मे लो॒काः ।  
+प्र॒जा-प॑तिस् सप्त-द॒शः +++(स्तोत्रम्)+++।  
+त्रय॑ इ॒मे लो॒काः ।  
 अ॒साव् आ॑दि॒त्य ए॑कवि॒ꣳ॒शः +++(स्तोमः)+++।
 ए॒तस्मि॒न् +++(अग्निष्टोमे)+++ वा ए॒ते +++(प्राणादय आदित्यपर्यन्ताश्)+++ श्रि॒ताः॑ । ए॒तस्मि॒न् प्रति॑ष्ठिताः ।
 य ए॒वव्ँ वेदै॒तस्मि॑न्न् ए॒व श्र॑यते ।  ए॒तस्मि॒न् प्रति॑ तिष्ठति ॥
+
+#### Keith
+The Trivrt is the breaths;  
+the Pañcadaça the half-months;  
+the Saptadaça Prajapati;  
+these worlds are three;  
+the Ekavinça is the sun yonder.  
+In this they rest, in this they find support.  
+He who knows thus rests on this, finds, support in this.
