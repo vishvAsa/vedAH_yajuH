@@ -66,11 +66,11 @@ He who knowing thus sacrifices with the five-night rite sacrifices with the corr
 #### Keith
 The (sacrifices) last five nights
 
-<div class="js_include" url="../10_pancharAtravidhiH/panchatA-mahimA/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/panchatA-mahimA.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ## भिन्नदिनेष्व् अङ्गानि
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  

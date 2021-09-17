@@ -18,8 +18,8 @@ title = "०३ अष्टरात्रविधिः"
 चत॑स्रो॒ वै दिशः॑ । चत॑स्रोऽवान्तरदि॒शाः । दि॒ग्भ्य ए॒व ब्र॑ह्मवर्च॒समव॑ रुन्धे [8] ।
 
 ## प्रतिदिनं विधानम्
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/10_pancharAtravidhiH/9-15-17-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/10_pancharAtravidhiH/9-15-17-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 <div class="js_include" url="../aMshAH/21-27-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
 <div class="js_include" url="../aMshAH/33-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  

@@ -15,10 +15,10 @@ title = "०२ सप्तरात्रविधिः"
 स॒प्त॒रा॒त्रो भ॑वति ।
 स॒प्त ग्रा॒म्याᳶ प॒शवः॑ +++(गोऽजाऽऽश्वाऽऽविक-पुरुष-गर्दभोष्ट्राः)+++ । स॒प्तार॒ण्याः +++(द्विखुर-श्वापद-पक्षि-सरीसृप-हस्ति-मर्कटादयः)+++। स॒प्त छन्दाꣳ॑सि +++(गायत्र्युष्णिगनुष्टुब्बृहतीपङ्क्तित्रिष्टुब्जगत्यः)+++। उ॒भय॒स्य +++(पशूनां छन्दसां च)+++ अव॑रुद्ध्यै ।
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 <div class="js_include" url="../aMshAH/21-27-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 यत् प्र॒त्यख्ष॒म्+++(→अविकृतम्)+++ पूर्वे॒ष्व् अह॑स्सु पृ॒ष्ठान्य् उ॑पे॒युᳶ, प्र॒त्यख्ष॑व्ँ विश्व॒जिति -  
