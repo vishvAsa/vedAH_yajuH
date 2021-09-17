@@ -19,8 +19,6 @@ unicode_script: devanagari
 १८२२८  
 
 
-२२
-
 १८२३१  
 १८२३२  
 
