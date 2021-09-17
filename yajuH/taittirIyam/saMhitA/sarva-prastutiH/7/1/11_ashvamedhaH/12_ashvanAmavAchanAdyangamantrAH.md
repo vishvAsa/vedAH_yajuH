@@ -13,7 +13,9 @@ title = "१२ अश्वनामवाचनाद्यङ्गमन्�
 
 वि॒भूर् मा॒त्रा +++(पृथिव्या)+++, प्र॒भूᳶ पि॒त्रा +++(द्यवा वर्षकेण)+++। +++(उदात्तयणः इति तृतीयाया उदात्तत्वम् ।)+++  
 
-<div class="js_include" url="../../ekAgnikANDam/prakIrNam/ashvanAmAni/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/20_ashvo-si_hayo-syatyo-si.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+
 
 ## विनियोगः
 ### भास्करोक्तविनियोगः
