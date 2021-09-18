@@ -1,5 +1,5 @@
 +++
-title = "मूलम्"
+title = "सर्वप्रस्तुतिः"
 unicode_script = "devanagari"
 +++
 
@@ -3098,20 +3098,3 @@ unicode_script = "devanagari"
 इति द्वितीयोऽध्यायः
 
 समाप्तं चेदमापस्तम्बीयधर्मसूत्रम्
-
-
-
-## Credits
-
-Sources: 1.  ApastambDharmasªtra, G. Buehler, Bombay Sanskrit Series
-Nos. LIV and L, 3rd ed. 1932.
-
-Typescript: Entered by Y. Ikari, proofreading and adding of kss variants
-by K. Kano
-
-Conversion to Devanagari using Vedapad Software by Ralph Bunker
-
-
-
-Formatted for Maharishi University of Management Vedic Literature
-Collection
