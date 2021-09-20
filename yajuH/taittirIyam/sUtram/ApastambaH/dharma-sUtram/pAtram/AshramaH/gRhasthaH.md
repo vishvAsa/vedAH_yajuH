@@ -18,7 +18,6 @@ unicode_script: devanagari
 १४१३२१   
 १४१३२२  
 
-१३
 
 १४१४१   
 १४१४२   
