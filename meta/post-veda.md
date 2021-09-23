@@ -35,7 +35,7 @@ Within sectarian limits, some non-vaidika shAstra-s may be considered equal to t
     - छान्दोग्योपनिषदि च (७.१.२) – “ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदमाथर्वणम् चतुर्थमितिहासं पुराणं पञ्चमं वेदानां वेदम्”
 
 ## Superficial challenges to veda-s
-- On vaidika (kAmya) karma-s vis-a-vis mokSha and pravRtti-dharma: यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः। … यावानर्थ उदपाने सर्वतः संप्लुतोदके। तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः॥2.46॥ \[[KV17](https://agnimaan.wordpress.com/2017/06/13/how-much-does-bg-2-42-2-46-subvert-pravrtti-dharma/)\]
+- On vaidika (kAmya) karma-s vis-a-vis mokSha and pravRtti-dharma: यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः। … यावानर्थ उदपाने सर्वतः संप्लुतोदके। तावान् सर्वेषु वेदेषु ब्राह्मणस्य विजानतः॥2.46॥ \[[KV17](https://agnimaan.wordpress.com/2017/06/13/how-much-does-bg-2-42-2-46-subvert-pravrtti-dharma/)\]
 
 ## Inferiority
 Rising above sectarian limits: They're considered valid, but inferior (especially with regards to dharma, if not upAsana).
