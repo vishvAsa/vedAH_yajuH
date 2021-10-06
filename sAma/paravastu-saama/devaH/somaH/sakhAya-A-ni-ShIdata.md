@@ -7,7 +7,7 @@ unicode_script: devanagari
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n151) कौथुमभाष्ये। शुनशेपः। सोमः।])+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/2/24_0568_sakhAya_A.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/2/24_0568_sakhAya_A.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 {{< figure src="/devaH/hindukaH/somaH/images/soma-purification.png"  class="thumbnail">}}
 

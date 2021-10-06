@@ -12,7 +12,7 @@ practice_weight: 0
 छन्दः  गायत्री
 
 ### संहिता
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/2/16_0160_surUpakRtnumUtaye_sudughAmiva.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/2/16_0160_surUpakRtnumUtaye_sudughAmiva.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 ## साम

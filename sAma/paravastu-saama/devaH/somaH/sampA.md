@@ -10,7 +10,7 @@ RV.9.90.2a; SV.1.528a; 2.758a. P: abhi tripRTEMPiShTham Svidh.1.4.20; 5.16.
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n911/mode/2up&sa=D&ust=1542425956338000)। मैत्रावारुणिर् वसिष्ठः। अनुष्टुभ्। सोमः])+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/42_0528_abhi_tripRShTham.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/42_0528_abhi_tripRShTham.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 {{< figure src="/devaH/hindukaH/somaH/images/soma-extraction-watched-by-many-Rtvik-s.png"  class="thumbnail">}}
 

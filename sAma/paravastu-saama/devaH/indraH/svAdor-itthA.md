@@ -12,7 +12,7 @@ practice_weight: 0
 देवता  इन्द्रः  
 छन्दः  पंक्तिः
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/19_0409_svAdoritthA_viShUvato.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/19_0409_svAdoritthA_viShUvato.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 ### पदपाठः

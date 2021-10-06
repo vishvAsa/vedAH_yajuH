@@ -10,7 +10,7 @@ RV.8.69.8a; AV;S.20.92.5a; SV.1.362a; AB.4.4.4; A;S.6.2.9.
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n935/mode/1up&sa=D&ust=1542425956179000)। आङ्गीरसः प्रियमेधस्य। अनुष्टुभ्। इन्द्रः।])+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/2/21_0362_archata_prArchatA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/2/21_0362_archata_prArchatA.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 {{< figure src="/devaH/hindukaH/indraH/images/indra-emerging-in-a-yAga-and-shows-abhaya-hasta-to-people.jpg"  class="thumbnail">}}
 

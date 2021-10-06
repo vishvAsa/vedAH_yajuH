@@ -10,7 +10,7 @@ unicode_script: devanagari
 
 १ ४ १ ०५०१  
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/1/40_0332_tyamU_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/1/40_0332_tyamU_Shu.md"  newLevelForH1="3" includeTitle="false"> </div>
 
 
 {{< figure src="/devaH/hindukaH/misc-devas/images/tArkShya.jpg"  class="thumbnail">}}

@@ -9,7 +9,7 @@ practice_weight: 0
 ऋग्वेदे 1.11.4। कौथुमायाम् 1.1.4.1.8।
 
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/2/18_0359_purAm_bhinduryuvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/2/18_0359_purAm_bhinduryuvA.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 ## साम

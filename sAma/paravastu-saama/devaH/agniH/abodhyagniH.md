@@ -10,7 +10,7 @@ unicode_script: devanagari
 
 १ १ २ ०८०१   
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/19_0073_abodhyagniH_samidhA.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/19_0073_abodhyagniH_samidhA.md"  newLevelForH1="3" includeTitle="false"> </div>
 
 अबोध्यग्निः समिधा जनानां प्रति  
 धेनुम् इव +आयतीम् उषासम् ।  

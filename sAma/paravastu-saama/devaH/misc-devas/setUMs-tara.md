@@ -15,7 +15,7 @@ unicode_script: devanagari
 यो मा॒ ददा॑ति॒ स इदे॒व माऽऽवाः॑ +++(=आवृणोति)+++।  
 अ॒हम् अन्न॒म् अन्न॑म् अ॒दन्त॑म् अद्मि {→अदातारम् अन्नीभूतम्}।  
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/09_0594_ahamasmi_prathamajA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/09_0594_ahamasmi_prathamajA.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ### सस्तोभपाठः
 (सेतूंस् तर, दुस्तरान्। दानेनादानम्।)  

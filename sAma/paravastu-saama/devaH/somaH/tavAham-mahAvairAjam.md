@@ -10,9 +10,9 @@ RV.9.107.19a; SV.1.516a; 2.272a; JB.3.67a; PB.12.9.3a; Svidh.1.5.8.
 
 +++([सायणो [ऽत्र।](https://archive.org/stream/b30094306_0005#page/n417/mode/1up&sa=D&ust=1542425956316000) ७ ऋषयः। सोमः।])+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma.md"  newLevelForH1="3" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/11-2_0923_tavAhan_naktamuta.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/11-2_0923_tavAhan_naktamuta.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 {{< figure src="/devaH/hindukaH/somaH/images/soma-enthroned.png"  class="thumbnail">}}

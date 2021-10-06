@@ -10,7 +10,7 @@ unicode_script: devanagari
 
 २ ० ० ०५०१  
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/42_0627_agna_AyUMShi.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/42_0627_agna_AyUMShi.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 {{< figure src="/devaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
 

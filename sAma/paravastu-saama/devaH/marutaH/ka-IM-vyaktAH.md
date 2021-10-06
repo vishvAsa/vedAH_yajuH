@@ -9,7 +9,7 @@ unicode_script: devanagari
 
 १ ५ १ ०५०७  
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/44_0433_ka_I.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/44_0433_ka_I.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 क ईं व्यक्ता नरः सनीडा रुद्रस्य मर्या अथ स्वश्वाः॥

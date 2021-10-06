@@ -8,7 +8,7 @@ unicode_script: devanagari
 कौथुमभाष्ये सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201803/page/n27)।  
 वारुणिः भृगुः। सोमः।
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 {{< figure src="/devaH/hindukaH/somaH/images/soma-purification.png"  class="thumbnail">}}

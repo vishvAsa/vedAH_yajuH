@@ -8,7 +8,7 @@ practice_weight: 0
 ## ऋक्
 [अस्मिन् निम्ने निधामहे]  
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/2/25_0169_kayA_nashchitra.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/2/25_0169_kayA_nashchitra.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 संयमन् नव्यायम्। अन्वियमन् न समायमन्।  

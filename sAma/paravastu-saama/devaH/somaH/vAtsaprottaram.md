@@ -8,11 +8,11 @@ unicode_script: devanagari
 
 RV 9 97_+++(809)+++ 40 a
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/43_0529_akrAntsamudraH_prathame.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/43_0529_akrAntsamudraH_prathame.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/5/2/01-2_1254_matsi_vAyumiShTaye.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/5/2/01-2_1254_matsi_vAyumiShTaye.md"  newLevelForH1="3" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/5/2/01-3_1255_mahattatsomo_mahiShashchakArApAm.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/5/2/01-3_1255_mahattatsomo_mahiShashchakArApAm.md"  newLevelForH1="3" includeTitle="false"> </div>
  
 
 ## साम

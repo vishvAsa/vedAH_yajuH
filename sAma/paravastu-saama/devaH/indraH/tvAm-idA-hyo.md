@@ -7,7 +7,7 @@ practice_weight: 0
 
 कौथुमसंहितायाम् - 1.1.3.7.10  
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/1/10_0302_tvAmidA_hyo.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/1/10_0302_tvAmidA_hyo.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 ## साम

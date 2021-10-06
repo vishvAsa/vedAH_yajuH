@@ -7,15 +7,15 @@ practice_weight: 0
 ---
 
 ## ऋक्
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/32_0617_sahasrashIrShAH_puruShaH.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/32_0617_sahasrashIrShAH_puruShaH.md"  newLevelForH1="3" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/33_0618_tripAdUrdhva_udaitpuruShaH.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/33_0618_tripAdUrdhva_udaitpuruShaH.md"  newLevelForH1="3" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/34_0619_puruSha_evedam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/34_0619_puruSha_evedam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/35_0620_tAvAnasya_mahimA.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/35_0620_tAvAnasya_mahimA.md"  newLevelForH1="3" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/36_0621_tato_virADajAyata.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/36_0621_tato_virADajAyata.md"  newLevelForH1="3" includeTitle="false"> </div>
 
 
 ## साम

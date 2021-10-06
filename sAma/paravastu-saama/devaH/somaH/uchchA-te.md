@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 
 ## ऋक्
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/31_0467_uchchA_te.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/31_0467_uchchA_te.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ## साम -आजिगम्
 

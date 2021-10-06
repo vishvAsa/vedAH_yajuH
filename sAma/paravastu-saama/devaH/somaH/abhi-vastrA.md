@@ -6,7 +6,7 @@ practice_weight: 0
 
 ## ऋक्
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/6/2/18-2_1427_abhi_vastrA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/6/2/18-2_1427_abhi_vastrA.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ## साम
 

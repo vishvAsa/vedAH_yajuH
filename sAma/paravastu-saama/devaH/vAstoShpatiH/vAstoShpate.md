@@ -8,7 +8,7 @@ unicode_script: devanagari
 
 +++([कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n623&sa=D&ust=1542425956279000) १ ३ २ ०९०३। इरिमिठः। इन्द्रः।])+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/2/33_0275_vAstoShpate_dhruvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/2/33_0275_vAstoShpate_dhruvA.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 {{< figure src="/devaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
 

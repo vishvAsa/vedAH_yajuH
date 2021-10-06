@@ -9,7 +9,7 @@ unicode_script: devanagari
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201803/page/n191) कौथुमभाष्ये। कविः। जगती। सोमः।])+++
 
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/2/10_0554_abhi_priyANi.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/2/10_0554_abhi_priyANi.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 {{< figure src="/devaH/hindukaH/somaH/images/soma_moon_chandra.jpg"  class="thumbnail">}}

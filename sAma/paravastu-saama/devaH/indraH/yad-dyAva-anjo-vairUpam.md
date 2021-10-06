@@ -8,7 +8,7 @@ unicode_script: devanagari
 
 
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/2/36_0278_yadyAva_indra.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/2/36_0278_yadyAva_indra.md"  newLevelForH1="3" includeTitle="false"> </div>
 
 ## साम
 

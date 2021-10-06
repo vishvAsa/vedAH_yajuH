@@ -20,9 +20,9 @@ RV.7.32.16
 
 +++(यशो वर्चो अस्मिन्!)+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/25_0511_punAnaH_soma.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/25_0511_punAnaH_soma.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/09-2_0676_duhAna_Udhardivyam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/09-2_0676_duhAna_Udhardivyam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 +++(यशो वर्चो अस्मिन्!)+++  
 +++(आयुर्, विश्वायुर्, विश्वम् आयुर् असि! महि प्रजां त्वष्टः! राधनिधे! ह्य् अस्मै। शतं जीवेम शरदो वयन् ते।)+++

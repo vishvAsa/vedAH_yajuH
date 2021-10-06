@@ -10,7 +10,7 @@ unicode_script: devanagari
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n247&sa=D&ust=1542564218916000) कौथुमभाष्ये। । इन्द्रः।])+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/01_0437_vishvatodAvanvishvato_na.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/01_0437_vishvatodAvanvishvato_na.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 विश्वतो दावन् विश्वतो न आ भर यं त्वा शविष्ठमीमहे।
 {भर! महः! ईडा+++(=स्तुतिः)+++। सुवः। ज्योतिः।}

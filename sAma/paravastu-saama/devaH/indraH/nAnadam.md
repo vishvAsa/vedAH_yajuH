@@ -9,7 +9,7 @@ unicode_script: devanagari
 +++([कौथुमभाष्ये सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n782&sa=D&ust=1542425956285000)। भरद्वाजः। इन्द्रः।])+++
 
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/2/11_0352_pratyasmai_pipIShate.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/2/11_0352_pratyasmai_pipIShate.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 {{< figure src="/devaH/hindukaH/indraH/images/indra-squeezing-soma-into-mouth.jpg"  class="thumbnail">}}

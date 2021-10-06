@@ -16,7 +16,7 @@ RV.3.9.2a; SV.1.53a; N.4.14a; M;S.3.8.1a.
 (इन्दुर् इडा सत्यम्)  
 
 (ईहस्व…)
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/53_0053_kAyamAno_vanA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/53_0053_kAyamAno_vanA.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 {{< figure src="/devaH/hindukaH/agniH/images/forest-fire.jpg"  class="thumbnail">}}
 {{< figure src="/devaH/hindukaH/agniH/images/lightning.jpg"  class="thumbnail">}}

@@ -10,7 +10,7 @@ RV.2.22.4b; SV.1.466b.
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n142/mode/1up&sa=D&ust=1542425956188000)। गृत्स्नमदः। अतिशक्वरी। इन्द्रः।] ज्येष्ठानक्षत्र आकाशगङ्गापार्श्वे ऽहिमर्दनं लक्ष्यते दिवि।)+++ 
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/30_0466_tava_tyannaryam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/30_0466_tava_tyannaryam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 {{< figure src="/devaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}

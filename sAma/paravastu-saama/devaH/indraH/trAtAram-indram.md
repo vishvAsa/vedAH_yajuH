@@ -9,7 +9,7 @@ unicode_script: devanagari
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n737) कौथुमभाष्ये। वारुणिः सत्यधृतिः, वत्सः च। मित्रः वरुणः अर्यमा इन्द्रः।])+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/1/41_0333_trAtAramindramavitAramindraM_havehave.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/1/41_0333_trAtAramindramavitAramindraM_havehave.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ### सस्तोभपाठः
 त्रा꣣ता꣢र꣣मि꣡न्द्र꣢मवि꣣ता꣢र꣣मि꣢न्द्र꣣ꣳ ह꣡वे꣢हवे सु꣣ह꣢व꣣ꣳ शू꣢र꣣मि꣡न्द्र꣢म्।  

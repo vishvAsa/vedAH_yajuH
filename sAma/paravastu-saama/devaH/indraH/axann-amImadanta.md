@@ -11,7 +11,7 @@ practice_weight: 0
 
 1.1.4.7.7
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/26_0415_axannamImadanta_hyava.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/26_0415_axannamImadanta_hyava.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ## साम
 

@@ -9,7 +9,7 @@ practice_weight: 0
 "rishi" : "दैवोदासिः प्रतर्दनः",  
 "chandas" : "त्रिष्टुप्"
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/46_0532_pavasva_soma.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/46_0532_pavasva_soma.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 ## साम

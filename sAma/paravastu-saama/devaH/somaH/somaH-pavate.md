@@ -6,7 +6,7 @@ practice_weight: 0
 ---
 
 ## ऋक्
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/41_0527_somaH_pavate.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/41_0527_somaH_pavate.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ## साम १
 - पारम्परिक-गान-मूलम्
