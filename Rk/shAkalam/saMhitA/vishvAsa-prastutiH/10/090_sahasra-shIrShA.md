@@ -4,14 +4,11 @@ unicode_script = "devanagari"
 +++
 
 ## सारः
-
-- सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n191/mode/2up) ।
-- अधः स्वीया दृष्टिर् लिख्यते, या सायणोक्त्या भिद्यते।
-
+- सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n191/mode/2up) । अधः स्वीया दृष्टिर् लिख्यते, या सायणोक्त्या भिद्यते।
 - पुरुषस्य विभागौ उच्येते ऽत्र पुनःपुनः।
-- परिपूर्णपुरुषः = एकपाद् (विश्वानि भूतानि) + त्रिपात् पुरुषो दिवि वर्तमानः (ऋतम्- demiurge-सन्निभः + देवात्मभिर् युक्तः)।  
+- परिपूर्णपुरुषः = बहु-देव-पूर्णः = एकपाद् (विश्वानि भूतानि) + त्रिपात् पुरुषो दिवि+++(=परमे व्योम्नि→Platonic ideal realm)+++ वर्तमानः (ऋतम्-भरः, demiurge-सन्निभः, पर-देवात्मभिर् युक्तः)।  
 - एकपादो विराट् (ब्रह्मण्डम्), तस्योपरि त्रिपात्। तच्च स्फुटति (त्रिपादः प्रेरणया)। ततः (platonic ideal realm इत्यस्मिन्?) भूमिम् शरीराणि चासृज्यन्त।
-- ततः कालम् उपयुज्य, पुरुषपशोर् विविधधर्मान् छान्दसान् प्राकृतिकांश् च देवा ऋषयश्च यज्ञेन +अजनयन् (Being emerged)।
+- ततः कालम् उपयुज्य, पुरुष-पशोर् विविध-धर्मान् छान्दसान् प्राकृतिकांश् च देवा ऋषयश् च यज्ञेन +अजनयन् (Being emerged)।
 
 ## सूक्तम्
 
