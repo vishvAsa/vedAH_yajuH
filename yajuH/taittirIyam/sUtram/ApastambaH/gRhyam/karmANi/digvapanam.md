@@ -21,6 +21,11 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_06_trIMstrIn.md"  newLevelForH1="2" includeTitle="false"> </div>
 
+
+वपन्तम् उत्तरया +++("यत् क्षुरेण" इत्य् एतया)+++ ऽनुमन्त्रयते दक्षिणतो माता ब्रह्मचारी वा ७  
+- <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/07_yatxureNa_marchayatA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+
 आनडुहे शकृत्पिण्डे यवान् निधाय तस्मिन् केशान् उपयम्योत्तरया +++("उप्त्वाय केशा"नित्येतया)+++ उम्बर-मूले दर्भ-स्तम्बे वा निदधाति ८  
 - <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/08_uptvAya_keshAn.md"  newLevelForH1="2" includeTitle="false"> </div>
 
