@@ -4,4 +4,4 @@ unicode_script: devanagari
 
 ---
 
-+++(देवकर्मसु)+++  यज्ञोपवीतिना ३ … +++(पित्र्येषु)+++ प्राचीनावीतिना ८
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_03_yajnopavItinA_kAryANi.md"  newLevelForH1="2" includeTitle="false"> </div>  

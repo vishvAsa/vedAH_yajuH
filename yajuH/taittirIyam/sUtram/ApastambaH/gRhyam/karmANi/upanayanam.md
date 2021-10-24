@@ -76,10 +76,8 @@ unicode_script: devanagari
 
 
 ## व्यवस्थापनम्
-उत्तरेणाग्निं दर्भान् संस्तीर्य तेष्व् एनम् उत्तरया +++("आगन्त्रा समगन्मही"त्येतया)+++ ऽवस्थाप्य  
 
-+++(उत्तरेणाग्निं दर्भेषु अवस्थापनमन्त्रः)+++  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/01_AgantrA_samaganmahi.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_16_uttareNAgnin.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 उदकाञ्जलिम् अस्मा अञ्जलाव् +++(प्रोक्षणार्थम्)+++ आनीयोत्तरया +++("समुद्रादूर्मि"रित्येतया)+++ त्रिः प्रोक्ष्य  +++(कुमार-कृत्यम् एतत्। आचार्यः प्रोक्षति तत इति विश्वासः। सकृत् मन्त्रेण, द्विस्तूष्णीम् ।)+++
