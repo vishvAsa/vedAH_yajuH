@@ -11,17 +11,28 @@ tags: [होमः, आज्यहोमः]
 
 इध्म-सन्नाहः - +++(पार्वणे च पूर्वद्युस्सन्नद्धव्य इध्मः।)+++
 
-परिस्तरणम् - +++(क्रमो ऽन्यत्रोक्तः।)+++ अग्निमिध्वा प्रागग्रैर्दर्भैरग्निं परिस्तृणाति १२
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_12_agnimidhvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-प्रागुदगग्रैर्वा १३ दक्षिणाग्रैः पित्र्येषु १४ दक्षिणाप्रागग्रैर्वा १५
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_13_prAgudagagrairvA_uktAH.md"  newLevelForH1="3" includeTitle="true" > </div>  
 
-पवित्रसृष्टिः - पवित्रयोस्संस्कारः, आयामतः +++(=दीर्घ्यतः)+++ परीमाणम्, … इति दर्शपूर्णमासवत्तूष्णीम्। +++(तयोरायामतो यत्परिमाणं दीर्घप्रमाणं प्रादेशमात्रौ।[आप.श्रौ.१११९.] )+++ +++(समावप्रच्छिन्नाग्रौ दर्भौ प्रादेशमात्रौ पवित्रे कुरुते, तृणं काष्ठं वान्तर्धाय छिनत्ति, न नखेन। ततोऽप उपस्पृशेत् - "रौद्रराक्षस" इति परिशिष्टवचना। ततस्तयोर्मूलादारभ्या ऽग्रादद्भिर्मार्जनम् ।)+++ +++(आज्यसंस्काराय प्रोक्षणीसंस्काराय प्रणीताप्रणयनाय च पवित्रयुगलौ अपेक्षितौ। अन्तत एकम् अग्नौ प्रह्रियते, अपरम् पाणौ ध्रियते।)+++
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_14_daxiNAgraiH_pitryeShu.md"  newLevelForH1="3" includeTitle="true" > </div>  
+
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md"  newLevelForH1="3" includeTitle="true" > </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_19_pavitrayossa.NskAra_AyAmataH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 प्रोक्षणीसंस्कारः - … प्रोक्षणीसंस्कारः … इति दर्शपूर्णमासवत्तूष्णीम् १९ पवित्रान्तर्हितायामाग्निहोत्रहवण्या"[आप.श्रौ.१११९] +++(तत्राग्निहोत्रहवण्या इहाभावात्पात्रान्तरं प्रापयते। … उदगग्राभ्यां पवित्राभ्यां अन्तर्हितायां वैकङ्कत्यां स्नुच्य् अप आनीय, ताभ्यां त्रिरुत्पूय प्रोक्षेत् ।)+++
 
 अपाम् प्रणयनम् - अपरेणाग्निं पवित्रान्तर्हिते पात्रेऽप आनीयोदगग्राभ्यां पवित्राभ्यां त्रिरुत्पूय, समं प्राणैर्हृत्वोत्तरेणाग्निं दर्भेषु सादयित्वा, दर्भैः प्रच्छाद्य २०
 
-पात्र-संस्कारः - उत्तरेणाग्निं दर्भान्त्संस्तीर्य द्वन्द्वं न्यञ्चि +++(=न्यग्भूतानि)+++ पात्राणि प्रयुनक्ति देवसंयुक्तानि १६ सकृदेव मनुष्यसंयुक्तानि १७ एकैकशः पितृसंयुक्तानि १८ … पात्रप्रोक्ष इति दर्शपूर्णमासवत्तूष्णीम्। +++(उत्तानानि पात्राणि इत्यादि पात्रप्रोक्षणम् । विस्रंसनञ् चेध्मस्यतदन्तर्भावादेव सिद्धम्। सपवित्रेण पाणिना त्रिः प्रोक्षेत् ॥)+++
+पात्र-संस्कारः - उत्तरेणाग्निं दर्भान्त्संस्तीर्य द्वन्द्वं न्यञ्चि +++(=न्यग्भूतानि)+++ पात्राणि प्रयुनक्ति देवसंयुक्तानि १६  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_17_sakRdeva_manuShyasaMyuktAni.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_18_ekaikashaH_pitRsaMyuktAni.md"  newLevelForH1="2" includeTitle="false"> </div>   
+
+पात्रप्रोक्ष इति दर्शपूर्णमासवत्तूष्णीम्। +++(उत्तानानि पात्राणि इत्यादि पात्रप्रोक्षणम् । विस्रंसनञ् चेध्मस्यतदन्तर्भावादेव सिद्धम्। सपवित्रेण पाणिना त्रिः प्रोक्षेत् ॥)+++
 
 ब्रह्म-वरणम् - ब्राह्मणं दक्षिणतो दर्भेषु निषाद्य २१
 
