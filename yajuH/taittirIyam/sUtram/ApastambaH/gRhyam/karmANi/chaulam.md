@@ -12,7 +12,7 @@ unicode_script: devanagari
 ब्राह्मणानां भोजनम् +++(इत्यादिकम्)+++ उपायनवत्॥ +++(ब्राह्मण-भोजनादीति ब्राह्मणान् भोजयित्वा ऽशिषो वाचयित्वा कुमारं भोजयित्वेत्य् एतावद् इह द्रष्टव्यम् ।)+++
 
 ### केशेषु सीमाकल्पनम्
-शम्याः परिध्यर्थे विवाहोपनय-समावर्तन-सीमन्त-चौल-गोदान-प्रायश्चित्तेषु ॥ २.२ ॥
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_02_shamyAH_paridhyarthe.md"  newLevelForH1="2" includeTitle="false"> </div>  
 [सीमन्तवद्](../sImantonnayanam/) अग्नेर् उपसमाधानादि ॥  
 
 (ब्राह्मणान् भोजयित्वा ऽशिषो वाचयित्वा,  

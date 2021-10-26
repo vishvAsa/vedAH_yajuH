@@ -5,7 +5,18 @@ unicode_script: devanagari
 ---
 
 ## कालः
-सर्वऋतवो +++(=मासाः)+++ विवाहस्य शैशिरौ मासौ +++(= माघफाल्गुनौ)+++ परिहाप्योत्तमं च नैदाघम् +++(= आषाढः)+++ १२ +++(अनेन पूर्वपक्षादिनियमाभावः।)+++ सर्वाणि पुण्योक्तानि नक्षत्राणि +++(सर्वापवादत्वात्पुण्याहविधानार्थमिदम् । तथा च रात्र्यपरपक्षयोः विवाहपिरतिषेधः ।)+++१३ … इन्वकाभिः +++(=मृगशिरसि)+++ प्रसृज्यन्ते +++(कन्यार्थं प्रेष्यन्ते)+++ ते वराः प्रतिनन्दिताः १६ … इन्वकाशब्दो मृगशिरसि ४ … मघाभिर्गावो गृह्यन्ते +++(दानार्थम्)+++१ फल्गुनीभ्यां व्यूह्यते +++(= सेनाया इति केचित्, विवाहविशेषेषु कन्याया इत्यपरे)+++ २ यां कामयेत दुहितरं प्रिया स्यादिति, तां निष्ट्यायां दद्यात् प्रियैव भवति, नैव तु पुनरागच्छतीति ब्राह्मणवेक्षो विधिः ३
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_12_sarva-Rtavo_vivAhasya.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_13_sarvANi_puNyoktAni.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_16_invakAbhiH_prasRjyante.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+इन्वकाशब्दो मृगशिरसि ४ …  
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_01_maghAbhirgAvo_gRhyante.md"  newLevelForH1="3" includeTitle="true" > </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_02_phalgunIbhyAM_vyUhyate.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_03_yA~N_kAmayeta.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## कन्या-चयनम्
 +++(वरे प्राप्ते)+++ सुप्तां रुन्दन्तीं निष्क्रान्तां वरणे परिवर्जयेत् ११ दत्तां गुप्तां +++(=अदर्शिता)+++ द्योताम् +++(=पिङ्गाक्षी, बभ्रुकेशी वा, विषमदृष्टिर्वा)+++ ऋषभां +++(=ऋषभस्येव शरीरं गतिः शीलं वा यस्यास्सा)+++ शरभां +++(=  शीर्णदीप्तिः, सर्वनीललोम्नी वा, अरूपा वा, केचित्दर्शनीया)+++ विनतां +++(=कुब्जां)+++ विकटां +++(विस्तीर्ण-जङ्घां)+++ मुण्डां मण्डूषिकां +++(=वामनाङ्गा, दग्धाङ्गा वा ।)+++ साङ्कारिकां रातां +++(=रतिशीलां)+++ पालीं +++(=वत्सादीनां पालयित्रीं)+++ मित्रां +++(=बहुमित्रां)+++ स्वनुजां +++(=केचित्वरजन्मसंवत्सर एव पश्चाज्जातेति।)+++ वर्षकारीं +++(=स्वेदशीलामिति केचित्। वराद्वर्षेणाधिका ।)+++ च वर्जयेत् १२ नक्षत्रनामा नदीनामा वृक्षनामाच गर्हिताः १३ सर्वाश्च रेफलकारोपान्ता +++(=गौरी शालीत्याद्या)+++ वरणे परिवर्जयेत् १४ … बन्धुशीललक्षणसम्पन्नामरोगामुपयच्छेत १९ … यस्यां मनश्चक्षुषोर् निबन्धस् तस्यामृद्धिर् नेतरदाद्रियेतेत्येके २१
@@ -16,7 +27,9 @@ unicode_script: devanagari
 वर-चयनम् - बन्धुशील-लक्षण-सम्पन्नश् श्रुतवान् अरोग इति वरसम्पत् २०
 
 ## विधिः -
-तथा मङ्गलानि १४ +++("ब्राह्मणान् भोजयित्वाशिषोवाचयित्वे"त्येवमादीनि स्वशास्त्रप्रसिद्धानि । मङ्गलानि स्नातोऽहतवासा गन्धानुलिप्त, स्रग्वी भुक्तवानित्येवमादीनि नापितकर्माङ्कुरार्पणादीनि लोकप्रसिद्धानि ।)+++ आवृतश्च +++(=प्रसिद्धाः)+++ +आस्त्रीभ्यः प्रतीयेरन् १५
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_14_tathA_mangalAni.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_15_AvRtashchAstrIbhyaH_pratIyeran.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### कन्यालाभः-
 ## सुहृत्-प्रेषणम्  
