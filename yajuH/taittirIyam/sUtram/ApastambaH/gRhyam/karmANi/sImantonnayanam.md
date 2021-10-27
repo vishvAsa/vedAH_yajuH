@@ -6,7 +6,7 @@ unicode_script: devanagari
 
 ## सीमन्तोन्नयनम्
 ### होमः
-शम्याः परिध्यर्थे विवाहोपनय-समावर्तन-सीमन्त-चौल-गोदान-प्रायश्चित्तेषु ॥ …  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_02_shamyAH_paridhyarthe.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 सीमन्तोन्नयनं प्रथमे गर्भे चतुर्थे मासि ॥ आपस्तम्बगृह्यसूत्र १४.१ ॥  
 
