@@ -22,9 +22,9 @@ tags: [होमः, आज्यहोमः]
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_19_pavitrayossa.NskAra_AyAmataH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-प्रोक्षणीसंस्कारः - … प्रोक्षणीसंस्कारः … इति दर्शपूर्णमासवत्तूष्णीम् १९ पवित्रान्तर्हितायामाग्निहोत्रहवण्या"[आप.श्रौ.१११९] +++(तत्राग्निहोत्रहवण्या इहाभावात्पात्रान्तरं प्रापयते। … उदगग्राभ्यां पवित्राभ्यां अन्तर्हितायां वैकङ्कत्यां स्नुच्य् अप आनीय, ताभ्यां त्रिरुत्पूय प्रोक्षेत् ।)+++
+प्रोक्षणीसंस्कारः - … प्रोक्षणीसंस्कारः … इति दर्शपूर्णमासवत्तूष्णीम् १९ पवित्रान्तर्हितायामाग्निहोत्रहवण्या"[आप.श्रौ.१११९] +++(तत्राग्निहोत्रहवण्या इहाभावात्पात्रान्तरं प्रापयते। … उदगग्राभ्यां पवित्राभ्यां अन्तर्हितायां वैकङ्कत्यां स्नुच्य् अप आनीय, ताभ्यां त्रिरुत्पूय प्रोक्षेत् ।)+++  
 
-अपाम् प्रणयनम् - अपरेणाग्निं पवित्रान्तर्हिते पात्रेऽप आनीयोदगग्राभ्यां पवित्राभ्यां त्रिरुत्पूय, समं प्राणैर्हृत्वोत्तरेणाग्निं दर्भेषु सादयित्वा, दर्भैः प्रच्छाद्य २०
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_20_apareNAgnim_pavitrAntarhite.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 पात्र-संस्कारः - उत्तरेणाग्निं दर्भान्त्संस्तीर्य द्वन्द्वं न्यञ्चि +++(=न्यग्भूतानि)+++ पात्राणि प्रयुनक्ति देवसंयुक्तानि १६  
 
@@ -34,27 +34,30 @@ tags: [होमः, आज्यहोमः]
 
 पात्रप्रोक्ष इति दर्शपूर्णमासवत्तूष्णीम्। +++(उत्तानानि पात्राणि इत्यादि पात्रप्रोक्षणम् । विस्रंसनञ् चेध्मस्यतदन्तर्भावादेव सिद्धम्। सपवित्रेण पाणिना त्रिः प्रोक्षेत् ॥)+++
 
-ब्रह्म-वरणम् - ब्राह्मणं दक्षिणतो दर्भेषु निषाद्य २१
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_21_brAhmaNan_daxiNato.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-आज्य-संस्कारः - आज्यं विलाप्य, अपरेणाग्निं पवित्रान्तर्हितायाम् आज्यस्थाल्याम् आज्यं निरुप्य, उदीचोऽङ्गारान्निरूह्य, तेष्वधिश्रित्य, ज्वलताऽवद्युत्य, द्वे दर्भाग्रे प्रत्यस्य +++(अनेन वज्रनिभाभ्यां रक्षोनाशः)+++, त्रिः पर्यग्नि कृत्वा +++(अनेन देवेभ्यः प्रतिजानति द्रव्यम्)+++, उदगुद्वास्याङ्गारान् प्रत्यूह्य, उदगग्राभ्यां पवित्राभ्यां पुनराहारं त्रिरुत्पूय +++(अनेन शोधनम्)+++, पवित्रे अनुप्रहृत्य २२
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_22_AjyaM_vilApyApareNAgnim.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-दर्वी-संस्कारः - येन जुहोति, तदग्नौ प्रतितप्य, दर्भैः संमृज्य, पुनः प्रतितप्य, प्रोक्ष्य, निधाय, दर्भान् अद्भिस्संस्पृश्याग्नौ प्रहरति १
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_01_yena_juhoti.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-परिधिः - शम्याः परिध्यर्थे विवाह+उपनयन-समावर्तन-सीमन्त-चौल-गोदान-प्रायश्चित्तेषु २ +++(अथ परिधीन् परिदधाति। तत आघारसमिधौ।)+++
 
-परिषेचनम् - अग्निं परिषिञ्चत्य् - अदितेऽनुमन्यस्वेति दक्षिणतः प्राचीनम्, अनुमते ऽमुमन्यस्वेति पश्चादुदीचीनं, सरस्वतेऽनुमन्यस्वेत्युत्तरतः प्राचीनं, देव सवितः प्रसुवेति समन्तम् ३ पैतृकेषु समन्तमेव तूष्णीम् ४
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_02_shamyAH_paridhyarthe.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-इध्मः, आघारः - इध्ममाधाय +++(एकविंशतिदारुमिध्मम् [आप.१५.६])+++, आघाराव् +++(आघारनामकौ होमौ द्वौ)+++ आघारयति +++(= दीर्घधारया जुहोति)+++ दर्शपूर्णमासवत्तृष्णीम् ५ +++(उत्तरं परिधिसन्धिमन्ववहृत्य... दक्षिणाप्राञ्चं ऋजुं सन्ततं ज्योतिष्मत्याघारमाघारयन् सर्वाणीध्मकाष्ठानि संस्पर्शयक्ति [आप.श्रौ.२१२७]। दक्षिणं परिधिसन्धिमन्ववहृत्य प्राञ्चमुदञ्चम्ऽ[आप.श्रौ.२१४१] ऋजू प्राञ्चौ होतव्यौ तिर्यञ्चौ वा व्यतिषक्तावव्यातिषक्तौ वाऽ[आप.श्रौ.२१२८]। गार्ह्यपरिभाषामनुसृत्य प्रागपवर्गाभ्यामुदगपवर्गाभ्यां वा दीर्घधाराभ्यां जुहोति, न तु कोणदिगपवर्गाभ्याम् इति तु केचित्।)+++ +++(यत्तूष्णीम् तत्प्राजापत्यम् । (तै.ब्रा.२१४)+++ दर्शपूर्णमासवत्प्रथमस्य प्रजापतिः, द्वितीयस्येन्द्र इति केचित्। )
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_03_agnim.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-आज्यभागौ - अथाज्यभागौ जुहोत्य् अग्नये स्वाहेत्युत्तरार्धपूर्वार्धे, सोमाय स्वाहेति दक्षिणार्धपूर्वार्धे, समं पूर्वेण +++(=आघारहोमसममात्रा ऽऽज्य)+++ ६
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_04_paitRkeShu_samantameva.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-उपहोमाः - यथोपदेशं प्रधानाहुतीर्हुत्वा, जयाभ्यातानान् राष्ट्रभृतः प्राजापत्यां व्याहृतीर् विहृताः, सौविष्टकृतीम् इत्य् उपजुहोति - "यदस्य कर्मणोऽत्यरीरिचं यद्वा न्यूनमिहाकरम् । अग्निष्टकृत्स्विष्टकृद्विद्वान्त्सर्वँ स्विष्टं सुहुतं करोतु स्वाहे"ति ७  
-+++(एतदेवानुयाज्यम् इति केचित्। कपर्दिकारिकायान्तु स्थालीपाकादिषु नैकेषु कर्मसु न विद्यतेऽयम्भागः। तथैवाधुनिकाचारे केषाञ्चित्।)+++
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_05_idhmamAdhAyAghArAvAghArayati.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_06_athAjyabhAgau_juhotyagnaye.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 अन्यप्रायश्चित्ताहुतयः बोधायनोक्ताः।
 
 परिधिप्रहरणम् - (आज्यहोमेषु जयाद्यनन्तरं श्रौतवत्तूष्णीं परिधीनग्नौ प्रहृत्य, तान् दर्वीसंस्रावेणाभिजुहोति। परिधितत्संस्काराणां श्रौतवदभ्यनुज्ञानस्योक्तत्वात्, कृतकार्याणां प्रतिपत्त्यपेक्षत्वाद् आचाराच्च । शम्याश्चेत्, अस्मिन् काले अपोह्या "अथ शम्या उपोद्य"
-[बौ.गृ.१४३७] इति बोधायनवचनात्, आचाराच्च ॥)
-अग्नेरुत्तरं परिषेचनम् - पूर्ववत्परिषेचनमन्वमंस्थाः प्रासावीरिति मन्त्रसन्नामः ॥ +++(अत्र श्रौतवत्प्रणीता विमुञ्चति तूष्णीम् - कृतकार्याणामासां प्रतिपत्त्यपेक्षत्वात्। ब्राह्मणश्च यथाशक्ति दानमानादिना सत्कृतो गच्छेत् ॥)+++
+[बौ.गृ.१४३७] इति बोधायनवचनात्, आचाराच्च ॥)  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 +++(स्थालीपाकतन्त्रविशेषः पृथग् उक्तः। अग्नौ चर्याऽपि पृथक्। एवं साधारण-प्रायश्चित्तानि।)+++
