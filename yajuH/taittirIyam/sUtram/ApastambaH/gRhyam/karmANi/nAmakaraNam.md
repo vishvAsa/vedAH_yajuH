@@ -7,7 +7,9 @@ tags: [नाम, नामकरणम्]
 
 ## उचितनामानि
 ### स्त्रियां
-नक्षत्रनामा नदीनामा वृक्षनामाच गर्हिताः १३ सर्वाश्च रेफलकारोपान्ता +++(=गौरी शालीत्याद्या)+++ वरणे परिवर्जयेत् १४ …  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_13_naxatranAmA_nadInAmA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+सर्वाश्च रेफलकारोपान्ता +++(=गौरी शालीत्याद्या)+++ वरणे परिवर्जयेत् १४ …  
 अयुजाक्षरं कुमार्याः ११
 
 ### पुंसि
