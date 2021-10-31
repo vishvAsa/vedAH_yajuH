@@ -19,5 +19,13 @@ tags: [औपासनम्, विच्छिन्नाग्निसन�
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_20_anugate-pi_vottarayA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-होमः - … सायं प्रातरत ऊर्ध्वं हस्तेनैते आहुती तण्डुलैर्यवैर्वा जुहुयात् ॥ स्थालीपाकवद्दैवतम् ॥ सौरी पूर्वाहुतिः प्रातरित्येके ॥ उभयतः परिषेचनं यथा पुरस्तात् ॥
+होमः -  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_19_sAyam_prAtarata.md"  newLevelForH1="2" includeTitle="false"> </div>   
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_20_sthAlIpAkavaddaivatam_devataiva.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_21_saurI_pUrvAhutiH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_22_ubhayataH_pariShechanam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
 +++(स्थालीपाको ऽन्यत्रोक्तः।)+++

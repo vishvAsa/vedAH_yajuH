@@ -7,24 +7,47 @@ unicode_script: devanagari
 ## विधिः
 
 ### पार्वणम्
-एवम् अत ऊर्ध्वं दक्षिणावर्जम् उपोषिताभ्यां पर्वसु कार्यः ॥  
-पूर्णपात्रस् तु +++(=१००/ १२८ मुष्टिमात्रम् अन्नम् पात्रे)+++ दक्षिणेत्येके ॥
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_17_evamata_Urdhvam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_18_pUrNapAtrastu_daxiNetyeke.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 +++(उपवासविधिर् धर्मसूत्रे - पर्वसु चोभयोर् उपवासः ४ औपवस्तम् एव कालान्तरे भोजनम् ५ तृप्तिश् चान्नस्य ६ यच् चैनयोः प्रियं स्यात्तदेतस्मिन्न् अहनि भुञ्जीयाताम् ७।)+++
 
 ### कर्मान्तरम्
-पार्वणेनातो ऽन्यानि +++(पक्व-हविर्-युक्तानि स्थालीपाक-पश्वादीनि)+++ कर्माणि व्याख्यातान्य्  - आचाराद् +++(→शास्त्रान्तराद् अपि)+++ यानि गृह्यन्ते २३ यथोपदेशं देवताः २४ अग्निं स्विष्टकृतं चान्तरेण २५ अविकृतम् आतिथ्यम्  +++(= गवालम्भे न स्थालीपाकतन्त्रम्)+++२६
-…
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_23_pArvaNenAto.anyAni.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_24_yathopadeshan_devatAH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_25_agniM_sviShTakRtam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_26_avikRtamAtithyam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## क्रमः
-श्रपयित्वा ऽभिघार्य प्रचीनम् उदीचीनं वोद्वास्य प्रतिष्ठितम् अभिघार्याऽग्नेरुपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायां स्थालीपाकाज् जहोति ॥
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_03_shrapayitvAbhighArya.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-प्रधानाहुतिः - सकृदुपस्तरणाभिघारणे द्विरवदानम् ॥ +++(त्रिर्जमदग्नीनाम्।)+++ अग्निर्देवता स्वाहाकारप्रदानः॥  अपि वा सकृदुपहत्य जुहुयात् ॥  … मध्यात्पूर्वस्यावदानम् ॥ मध्ये होमः ॥
+प्रधानाहुतिः -  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_04_sakRdupastaraNAbhighAraNe.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-स्विष्टकृत् - अग्निस्स्विष्टकृत्द्वितीयः ॥ सकृदुपस्तरणावदाने द्विरभिघारणम् +++(जमदग्नीनां तु द्विरवदानम् ।)+++ ॥  … उत्तरार्धादुत्तरस्य ॥ उत्तरार्धपूर्वार्धे होमः ॥
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_05_agnirdevatA_svAhAkArapradAnaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-लेपकर्म - लेपयोः प्रस्तरवत्तूष्णीं बर्हिरङ्क्त्वा ऽऽग्नौ प्रहरति ॥
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_06_api_vA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-सिद्धमुत्तरं परिषेचनम्  +++(= अनेनोपहोमा भवन्तीति केचिन्, नेत्यन्ये)+++॥  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_09_madhyAt_pUrvasyAvadAnam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-तेन सर्पिष्मता ब्राह्मणं भोजयेत् ॥ …
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_10_madhye_homaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+स्विष्टकृत् -  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_07_agnissviShTakRd_dvitIyaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_08_sakRdupastaraNAvadAne.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_11_uttarArdhAduttarasya.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_12_uttarArdhapUrvArdhe_homaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+लेपकर्म -  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_13_lepayoH_prastaravat.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_14_siddhamuttaram_pariShechanam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_15_tena_sarpiShmatA.md"  newLevelForH1="2" includeTitle="false"> </div>  

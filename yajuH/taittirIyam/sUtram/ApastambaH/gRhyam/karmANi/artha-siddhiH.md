@@ -11,17 +11,22 @@ unicode_script: devanagari
 सिद्ध्यर्थे यदस्य गृहे पण्यं स्यात् तत उत्तरया +++(ऽयदहं धनेनेऽत्येतया)+++ जुहुयात् ५ +++(अत्र क्षारलवणादीनामपि होमो भवति । उक्तानि यथोपदेशं काम्यानि । तत्र द्रवद्रव्येषु दर्वी । तत्र द्रवद्रव्येषु दर्वी । इतरेषु हस्तः ।)+++
 
 
-अर्थप्राध्वस्य +++(अर्थाय प्रस्थितस्य)+++ परिक्षवे परिकासने चाप उपस्पृश्योत्तरे +++(अनुहवं परिहवं)+++ यथालिङ्गं +++(अनुहवे = अन्वाह्वाने, परिहवे, दुःस्वप्ने … ऽपीति हरदत्तः)+++ जपेत् ॥ एवम् +++(अर्थप्राध्वस्य दुर्निमित्ते ऽप उपस्पृश्य)+++ उत्तरैर्यथालिङ्गं +++(=अग्निरस्त्विति चित्रियपक्षे, सिग्वाते सिगसिनसि, शकुनौ "उद्गातेव शकुने", "आरात्ते अग्निः" इति वनस्पतौ, "नमश्शकृत्सदे" इति शकृद्रीतौ)+++ चित्रियं+++(=अश्वत्थविशेषं)+++ वनस्पतिं+++(पुष्पैर्विना फलवन्तम्)+++ शकृद्रीति सिग्वातं+++(=सिचो वस्त्रस्य वातम्)+++ शकुनिम् +++(=सुवचनम्। अशुभवचनम् इति सुदर्शनः।)+++ इति ॥
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_02_arthaprAdhvasya_parixave.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_03_evamuttarairyathAlinga~n.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## वरवशीकरणम्
-उभयोर् हृदय-संसर्गेप्सुस् त्रिरात्रावरं ब्रह्मचर्यं चरित्वा, +++(पुनर्वस्वोः)+++ स्थालीपाकं श्रपयित्वा ऽऽग्नेरुपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायाँ स्थालीपाकादुत्तरा आहुतीर् +++(सप्त प्रधानाहुतयः प्रातरग्निमित्येवमाद्याः)+++ हुत्वा, जयादि प्रतिपद्यते, परिषेचनान्तं कृत्वा, तेन +++(स्थालीपाकेन)+++ सर्पिष्मता युग्मान् द्व्यवरान् ब्राह्मणान् भोजयित्वा सिद्धिं वाचयीत। +++(विवाहप्रकरणे तूपदेशात्सकृत्पात्रप्रयोगः शम्याश्च ।)+++  
-श्वस्तिष्येणेति त्रिस्सप्तैर्+++(=२१)+++ यवैः पाठां+++(=ओषधिविशेषम्)+++ परिकिरति - "यदि वारुण्यसि वरुणात्त्वा निष्क्रीणामि यदि सौम्यसि सोमात्त्वा निष्क्रीणामि" इति ५
-+++(उपोष्य)+++ श्वोभूते +++(पाठाम्)+++ उत्तरया +++("इमां खनीमि")+++ +उत्थाप्य +++(उत्खाय खनित्रेण)+++  
-+उत्तराभिस् तिसृभिर् +++("उत्तानपर्णे")+++ अभिमन्त्र्य  
-उत्तरया +++("अहमस्मी"ति)+++ प्रतिच्छन्नां +++(छित्त्वा)+++ हस्तयोराबध्य  
-शय्याकाले बाहुभ्यां भर्तारं परिगृह्णीयाद् उपधानलिङ्गया +++("उपतेऽधा")+++ ६
-वश्यो भवति ७ सपत्नीबाधनं च।  
-एतेनैव कामेनोत्तरेणानुवाकेन +++("उदसौ सूर्यो अगात्")+++ सदादित्यमुपतिष्ठते ९
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_04_ubhayorhRdayasaMsarge-psustrirAtrAvaram.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_05_shvastiShyeNeti.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_06_shvobhUte.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_07_vashyo_bhavati.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_08_sapatnIbAdhanancha.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_09_etenaiva_kAmenottareNAnuvAkena.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## भिक्षणम्
 सनिम्+++(=भिक्षणम्)+++ इत्वोत्तरान् +++("अन्नमिव ते दृशे भूयास"मित्यादीन् सप्त)+++ जपित्वा ऽर्थं +++(=अपेक्षाम्)+++ ब्रूयात् १३  

@@ -5,11 +5,13 @@ unicode_script: devanagari
 ---
 
 ## कालः
-उपनयनं व्याख्यास्यामः १  
-गर्भाष्टमेषु+++(=गर्भवर्षाद्य्-अष्टमं येषां तेषु [वर्षेषु])+++ ब्राह्मणम् उपनयीत २  
-गर्भैकादशेषु राजन्यं  
-गर्भद्वादशेषु वैश्यम् ३  
-वसन्तो ग्रीष्मश् शरद् इत्य् ऋतवो वर्णानुपूर्व्येण ४
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_01_upanayanaM_vyAkhyAsyAmaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_03_garbhaikAdasheShu_rAjanyam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_03_garbhaikAdasheShu_rAjanyam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_04_vasanto_grIShmash.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 +++(धर्मसूत्रोक्तनियमा [अन्यत्र](/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/pAtram/AshramaH/upanayanam/)।)+++
 
@@ -25,55 +27,15 @@ unicode_script: devanagari
 
 
 ## समिदाधानम् अश्मन्य् आस्थापनं च  
-स्नातम् +++(शुचि-वाससं बद्ध-शिखं यज्ञोपवीतिनम्)+++ अग्नेर् उपसमाधानाद्य् आज्य-भागान्ते +++(शम्याः परिध्यर्थे, सकृत्पात्रप्रयोगः)+++  
-पालाशीं समिधम् उत्तरया +++("आयुर्दा देव"इत्येतया ऽऽचार्योक्तया)+++ ऽऽधाप्य  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/01_AyurdA_deva.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
-उत्तरेण अग्निं, दक्षिणेन पदा ऽश्मानम् आस्थापयत्य् - आतिष्ठेति ९  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/02_AtiShThemamashmAnamashmeva_tva2m.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_09_snAtam_agner.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
 ## वास्त्रादिधापनम्
 ### वासोऽभिमन्त्रणम्
-वासः सद्यःकृत्तोतम् +++(=सद्यः कृत्तम् ऊतं च - विनूतनम्)+++ उत्तराभ्याम् +++("रेवतीस्त्वे"त्येताभ्यां)+++ अभिमन्त्र्य  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_10_vAsaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
-
-
-### वासः-परिधापनम्
-उत्तराभिस्तिसृभिः +++("या अकृन्त"न्नित्येताभिः)+++ परिधाप्य  
-
-+++(पूर्वमन्त्रस्योल्लेखो ऽत्र)+++  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/05_yA_akRntannavayan.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-
-परिहितम् उत्तरयानुमन्त्रयते +++("परीदं वास")+++ १०  
-
-+++(परिहितवन्तं कुमारम् उत्तरयानुमन्त्रयते)+++  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/08_parIdaM_vAso.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-### मौञ्जी
-मौञ्जीं मेखलां त्रिवृतां+++(तं)+++ त्रिःप्रदक्षिणम् उत्तराभ्यां +++("इयं दुरुक्ता"दित्येताभ्यां कुमारोक्ताभ्यां)+++ परिवीय  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/09_iyan_duruktAtparibAdhamAnA.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/10_Rtasya_goptrI.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
-### अजिनमन्त्रः
-+अजिनम् उत्तरमुत्तरया +++(मित्रस्य चक्षुरित्येतया कुमारोक्तया)+++ ११
-
-+++(धर्मसूत्रेषु - "क्षत्र-वृद्धिम् इच्छन् वस्त्राण्य्, एवोभय-वृद्धिम् इच्छन्न् उभयमिति हि ब्राह्मणम् ९" इत्यादि विकल्पा उक्ताः। तस्मिन् पक्षे ऽजिनप्रतिनिधित्वेन प्रायेण ग्राह्यं वस्त्रम्। )+++
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md"  newLevelForH1="2" includeTitle="true"> </div>  
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_11_maunjIm_mekhalAm.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## व्यवस्थापनम्
 
@@ -117,26 +79,21 @@ unicode_script: devanagari
 
 
 ### आचार्य-कुमारयोः प्रश्न-प्रतिवचने ।
-"ब्रह्मचर्यम् आगाम्" इति +++(सवित्रा प्रसूत इत्येवमन्तो मन्त्रः)+++ कुमार आह १
-प्रष्टं परस्य प्रतिवचनं कुमारस्य २  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_01_brahmacharyamAgAmiti_kumAra.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-+++(कुमारस्य मन्त्रः)+++  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/26_brahmacharyamAgAmupa_mAnayasva.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_02_praShTam_parasya.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-3
+
 #### सम्भाषणम्
 +++(को नामासि? विष्णुशर्मा नामास्मि। कस्य ब्रह्मचार्यसि विष्णुशर्मन्? प्राणस्य ब्रह्मचार्यस्मि। )+++
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/27_ko_nAmAsi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
-शेषं +++("एष ते देव सूर्ये")+++ परो +++(आचार्यः)+++ जपति ३  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_03_sheSham_paro.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/28_eSha_te.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-प्रत्यगाशिषं +++(आत्मगाम्याशीःफलं यस्मिन्मन्त्रे,अध्वनामित्यारभ्य आ उपनयनसमाप्तेर्ये प्रत्यगाशिषो मन्त्राः"योगे"इत्यादयः )+++ चैनं वाचयति ४  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/29_addhvanAmaddhvapate_shreShThasyAddhvanaH.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_04_pratyagAshiSha~n_chainam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ## प्रधानहोमः

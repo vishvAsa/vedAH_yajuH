@@ -25,5 +25,6 @@ practice_weight: 0
 अगदो+++(=अरोगो)+++ भवति ४
 
 ## यक्ष्मनिवारणम्
-यक्ष्मगृहीतामन्यां +++(मातृप्रभृतिं)+++ वा ब्रह्मचर्ययुक्तः पुष्करसंवर्तमूलैरुत्तरैर् +++("अक्षीभ्यां ते नासिकाभ्यां")+++ यथालिङ्गमङ्गानि संमृश्य प्रतीचीनं निरस्येत् +++(प्रतिमन्त्रं सम्मर्शनं निरसनं च ।)+++ १०  
-वधूवास उत्तराभिर् +++("परा देही"त्यादयश्चतस्रः)+++ एतद्+++(मन्त्रकर्म-)+++विदे दद्यात् ११
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_10_yaxmagRhItAmanyAM_vA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_11_vadhUvAsa_uttarAbhiretadvide.md"  newLevelForH1="2" includeTitle="false"> </div>  
