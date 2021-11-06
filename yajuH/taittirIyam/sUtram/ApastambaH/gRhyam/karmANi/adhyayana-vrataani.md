@@ -14,17 +14,19 @@ tags: [उपाकर्म, उत्सर्गः, वेदव्रता
 
 ## मूलसूत्राणि
 ### उपाकरणम्
-अथात उपाकरणोत्सर्जने व्याख्यास्यामः १  
-+++(आर्तव)+++श्रवणा+++(पूर्व)+++पक्ष ओषधीषु जातासु हस्तेन पौर्णमास्यां वा ऽध्यायोपाकर्म २  
-अग्नेर् उपसमाधानाद्य्-आज्यभागान्ते ऽन्वारब्धेषु +++(शिष्येषु)+++ काण्ड-ऋषिभ्यो जुहोति,  
-सदसस्पतये, सावित्र्या, ऋग्वेदाय यजुर्वेदाय सामवेदायाथर्वणवेदायेति हुत्वा उपहोमो +++(= सांहितीभ्यो, याज्ञिकीभ्यो, वारुणीभ्यो, ब्रह्मणे स्वयंभुवे इति सुदर्शनसूरिः। हरदत्तस्तु जयादय इति।)+++,  
-वेदाहुतीनाम् उपरिष्टात् सदसस्पतिम् इत्येके ३
-परिषेचनान्तं कृत्वा  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_01.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
-त्रीन् अनुवाकान् आदितो ऽधीयीरन् ४  
-प्रथमोत्तमाव् अनुवाकौ वा ५  
-त्र्यहम् एकाहं वा क्षम्याधीयीरन् ६  
-यथोपाकरणमध्यायः +++(नाम त्रीनध्यायान् अधीयीरन्, प्रथमोत्तमौ वा)+++७
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_02.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_03.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_04.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_05.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_06.md"  newLevelForH1="2" includeTitle="false"> </div>   
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_07.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### काण्डोपकरणे
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_01_upAkaraNe_samApane.md"  newLevelForH1="2" includeTitle="false"> </div>   
@@ -32,50 +34,47 @@ tags: [उपाकर्म, उत्सर्गः, वेदव्रता
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_02_sadasaspatirdvitIyaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### उत्सर्गः
-तैषीपक्षस्य रोहिण्यां पौर्णमास्यां वोत्सर्गः ८  
-अभिप्यन्ते +++(=प्रार्थयन्ते [स्नानादिकं सहैव कर्तुं])+++ वान्योन्यम् १६
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_08.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
-… एवं पारायण+++(=यथारुच्यध्ययनमिति केचित्)+++समाप्तौ च - काण्डादि दूर्वारोपणोदधि-धावनवर्जम् २४
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_16.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_24.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 #### अवगाहः, प्राणायामः
-प्राचीमुदीचीं वा सगणो दिशम् उपनिष्क्रम्य  
-यत्रापः पुरस्तात् सुखाः सुखावगाहा अवकिन्यः +++(तीरतृणवत्यः)+++ शङ्खिन्यः तासामन्तं गत्वा
-ऽभिषेकान्कृत्वा  
-सुरभिमत्याब्लिङ्गाभिर् वारुणीभिर् हिरण्यवर्णाभिः पावमनीभिरिति मार्जयित्वा  
-ऽन्तर्जलगतो ऽघमर्षणेन त्रीन् प्राणायामान् धारयित्वा  
-उत्तीर्याचम्योपोत्थाय  
-दर्भानन्योन्यस्मै सम्प्रदाय  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_09.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-#### आसनकल्पनम्
-शुचौ देशे प्राक्कूलैर् दर्भैरासनानि कल्पयन्ति ९
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_10.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-ब्रह्मणे प्रजापतये बृहस्पतये ऽग्नये वायवे सूर्याय चन्द्रमसे नक्षत्रेभ्यः ऋतुभ्यस् संवत्सराय  
-इन्द्राय राज्ञे सोमाय राज्ञे यमाय राज्ञे वरुणाय राज्ञे वैश्रवणाय राज्ञे वसुभ्यो रुद्रेभ्य  
-आदित्येभ्यो विश्वेभ्यो देवेभ्यस्साध्येभ्यो मरुद्भ्य ऋभुभ्यो भृगुभ्योऽङ्गिरोभ्य इति देवगणानाम् १०
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_11.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-अथर्षयःविश्वामित्रो जमदग्निर्भरद्वाजो गौतमोऽत्रिर्वसिष्ठः कश्यप इत्येते सप्तर्षयः सप्तर्षिभ्यः कल्पयित्वा दक्षिणतो ऽगस्त्याय कल्पयन्ति ११  
-ततो यावद् एकवैद्यन्तैः कल्पयन्ति १२ +++(२३भ्य ऋषिभ्यः - कृष्णद्वैपायनाय जीतूकर्ण्याय तरुक्षाय तृणीबिन्दवे सोमशुष्मिणे सोमशुष्काय वर्मिणे सनद्वाजाय बृहदुक्थाय वामदेवाय वाचरत्नाय हरितयज्वनः उदमयाय गौतमाय ऋणञ्जयाय कृत्जयाय बभ्रवे त्र्यरुणाय त्रिधातवे त्रिवर्षाय शिबिन्ताय पराशराय वसिष्टायेन्द्राय मृत्यवे कर्त्रे त्वष्ट्रे धात्रे सवित्रे भृतश्रवसे सावित्र्यै वेदेभ्यश्चेति पृथक् ।)+++
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_12.md"  newLevelForH1="2" includeTitle="false"> </div>  
++++(२३भ्य ऋषिभ्यः - कृष्णद्वैपायनाय जीतूकर्ण्याय तरुक्षाय तृणीबिन्दवे सोमशुष्मिणे सोमशुष्काय वर्मिणे सनद्वाजाय बृहदुक्थाय वामदेवाय वाचरत्नाय हरितयज्वनः उदमयाय गौतमाय ऋणञ्जयाय कृत्जयाय बभ्रवे त्र्यरुणाय त्रिधातवे त्रिवर्षाय शिबिन्ताय पराशराय वसिष्टायेन्द्राय मृत्यवे कर्त्रे त्वष्ट्रे धात्रे सवित्रे भृतश्रवसे सावित्र्यै वेदेभ्यश्चेति पृथक् ।)+++
 
-प्राचीनावीतानि कृत्वा दक्षिणतो वैशम्पायनाय, पैङ्गये, तित्तिरये, उखाय, आत्रेयाय पदाकाराय, कौण्डिन्याय वृत्तिकाराय, बौधायनाय प्रवचनकाराय, आपस्तम्बाय सूत्रकाराय, भरद्वाजाय सूत्रकाराय, सत्याषाढाय हिरण्यकेशाय, आचार्येभ्य ऊर्ध्वरेतोभ्य, एकपत्नीभ्यो वानप्रस्थेभ्यः कल्पयामीति ॥
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_13.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-अथ यथास्वं +++(=जीवपितृकत्वं परिगणय्य)+++ पितृभ्यः कल्पयन्ति मातामहेभ्यश्च पृथक् १४
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_14.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 #### तर्पणम्
-यज्ञोपवीतानि कृत्वा तेष्वेव देशेषु तथैवानुपूर्व्या तैरेव नामभिर्देवानृषींश्च तर्पयन्ति।  
-वैशम्पायनप्रभृतींस्तु मातुः प्रपितामहपर्यन्तान् प्राचीनावीतिनस्तर्पयन्ति।  
-अमुं तर्पयाम्यमुं तर्पयाम्यमुं तर्पयामीति १५  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_15.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 #### अध्ययनम्
-यज्ञोपवीतानि कृत्वा त्रीनादितोऽनुवाकानधीयीरन् १७  
-काण्डादीन्प्रथमोत्तमौ वा १८
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_17.md"  newLevelForH1="2" includeTitle="false"> </div>   
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_18.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 #### दूर्वारोपणम्, अवगाहः, धावनम्, समापनम्
-काण्डात्काण्डात्प्ररोहन्तीतिद्वाभ्यामुपोदके दूर्वा रोपयन्ति १९  
-अपः प्रगाह्योदधिं कुर्वन्ति +++(=क्षोभयन्ति)+++ २० सर्वतः परिवार्योर्मिमन्तः कुर्वन्ति २१
-उद्गाह्य +आतमितोर् +++(=श्रमं यावत्)+++ आजिं +++(प्राचीमुदीचीं वा)+++ धावन्ति २२
-प्रत्येत्याभिदानानि सक्तुभिरोदनेनेति ब्राह्मणान् भोजयित्वा वाचयति २३
-प्रत्येत्य ब्राह्मणभोजनादि कर्म प्रतिपद्यते २५
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_19.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_20.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_21.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_22.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_23.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_25.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ## सुदर्शनसूरेर् मते

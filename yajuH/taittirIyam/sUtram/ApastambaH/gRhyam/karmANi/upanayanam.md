@@ -97,8 +97,11 @@ unicode_script: devanagari
 
 
 ## प्रधानहोमः
-उक्तम् आज्यभागान्तम् +++("आ॒यु॒र्दा दे॑व …" इति समिदाधाने)+++ ५  
-अत्रैनम् उत्तरा +++("योगे योगे" इत्येकादर्शचः)+++ आहुतीर् हावयित्वा जयादि प्रतिपद्यते ६ +++(तत्र द्वितीयचतुर्थौ "इममग्न आयुषे" "अग्निष् ट आयुः प्रतराम्" इति लिङ्गविरोधात् "आयुर्दा देव जरसम्" इतिवत् स्वयमेव ब्रूयात्, नैनं वाचयति । प्रधान-होमेषु हावयित्वेति वचनाद् उपहोमेष्व् आचार्य एव कर्ता।)+++  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_05_uktamAjyabhAgAntam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_06_atrainamuttarA_AhutIrhAvayitvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
++++(तत्र द्वितीयचतुर्थौ "इममग्न आयुषे" "अग्निष् ट आयुः प्रतराम्" इति लिङ्गविरोधात् "आयुर्दा देव जरसम्" इतिवत् स्वयमेव ब्रूयात्, नैनं वाचयति । प्रधान-होमेषु हावयित्वेति वचनाद् उपहोमेष्व् आचार्य एव कर्ता।)+++  
 
 +++(ते च सर्वे माणवकस्यैव । द्वितीयचतुर्थाव् आचार्यस्येत्येके ।)+++
 
@@ -119,16 +122,16 @@ unicode_script: devanagari
 
 ## मन्त्रोपदेशः
 +++(आचार्यः कूर्चम् आरोहति)+++  
-परिषेचनान्तं कृत्वा  
-ऽपरेणाग्निम् उदग्-अग्रं कूर्चं निधाय  
-तस्मिन्न् उत्तरेण +++("राष्ट्रभृदसि"इत्यनेन)+++ यजुषोपनेता +++(आचार्यः)+++ +उपविशति ७  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/12_rAShTrabhRdasyAchAryAsandI_mA.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_07_pariShechanAnta~N.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-पुरस्तात् प्रत्यङ्ङ् आसीनः कुमारो दक्षिणेन पाणिना दक्षिणं पादम् अन्वारभ्य +++(=उपसंगृह्य)+++ आह "सावित्रीं भो अनुब्रूहि" इति ८  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_08_purastAtpratya~N~NAsInaH_kumAro.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-तस्मा अन्वाह तत् सवितुर् इति ९  
-पच्छो ऽर्धर्चशस् ततस् सर्वाम् १० व्याहृतीर् विहृताः पादादिष्व् अन्तेषु वा, तथार्धर्चयोर्, उत्तमां कृत्स्नायाम् ११  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_09_tasmA_anvAha.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_10_pachCho-rdharchashastatassarvAm.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_11_vyAhRtIrvihRtAH.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
 ### आद्युच्चारणपक्षे
 
@@ -147,80 +150,49 @@ unicode_script: devanagari
 
 
 ### ओष्ठोपस्पर्शनम्
-कुमार उत्तरेण +++("वृधमसौ सोभ्ये"त्यनेन, असावित्यनेन प्राणोऽभिधीयते)+++ मन्त्रेणोत्तरमोष्ठम् उपस्पृशते१२  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/14_avRdhamasau_saumya.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_12_kumAra_uttareNa.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ### कर्णोपस्पर्शनम्
-कर्णावुत्तरेण +++("ब्रह्मण आणी स्थ"इत्यनेन)+++ १३
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/15_brahmaNa_ANI.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_13_karNAvuttareNa.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ## दण्ड-ग्रहणम्
-+++(पलाश-)+++दण्डमुत्तरेणा +++("सुश्रवस्सुश्रवस"मित्यनेन)+++ ऽऽदत्ते १४  
-पालाशो दण्डो ब्राह्मणस्य  
-नैय्यग्रोधस् स्कन्धजो ऽवाङ्ग्रो+++(=अवाञग्रः)+++ राजन्यस्य  
-बादर औदुम्बरो वा वैश्यस्य १५  
-वार्क्षो दण्ड इत्य् अवर्ण-संयोगेनैक उपदिशन्ति १६+++(5)+++
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_14_daNDamuttareNA-.adatte.md"  newLevelForH1="2" includeTitle="false"> </div>   
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_15_pAlAsho_daNDo.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_16_vArxo_daNDa.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 +++(पलाश-दण्डम् आदत्ते। "देवा वै ब्रह्मन्न् अवदन्त, तत् पर्ण उपाशृणोत् - सुश्रवा वै नाम"।)+++  
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## व्रतसङ्कल्पः कुमारेण
-"स्मृतं च म" इत्येतद्वाचयित्वा
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-
-## वरदानम्
-गुरवे वरं +++(अग्न्याधाने "गौर्वै वरः"(आप.श्रौ.४११४))+++ दत्त्वा  
-
-### उत्थापनमन्त्रः  
-+उदायुषेत्य् उत्थाप्य
-
-+++(कुमारो वदति -)+++  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-
-## आदित्योपस्थानम्
-उत्तरैर् +++("तच्चक्षुर्देव हितम्")+++ आदित्यम् उपतिष्ठते १७  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md"  newLevelForH1="2" includeTitle="false"> </div>
+"<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_17_smRta~n_cha.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ### हस्त-ग्रहण-मन्त्रः
-यं कामयेत +++(मत्)+++ नायमाच्छिद्येतेति, तम् उत्तरया +++("यस्मिन् भूतमि"त्येतया)+++ दक्षिणे हस्ते गृह्णीयात् १८  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/13_yasminbhUtancha_bhavyancha.md"  newLevelForH1="2" includeTitle="false"> </div>
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_18_ya~N_kAmayeta.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ## व्रतम्
-+++(पित्रादयः)+++ त्र्यहम् एतम् अग्निं धारयन्ति १९  
-+++(त्र्यहम्)+++ क्षार-लवण-वर्जनं च २०
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_19_tryahametamagnin_dhArayanti.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_20_xAralavaNavarjana~n_cha.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 <div class="js_include" url="../samidAdhAnam"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ## प्रतिज्ञाः, स्वीकृतिः
 ### संशासनम्
-उत्तरया +++("ब्रह्मचार्यसी"त्येतया)+++ सँशास्ति २३ +++(बाढमिति प्रतिवचनम् ।)+++  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/14_brahmachAryasy_apo-shAna.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_23_uttarayA_sa.NshAsti.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## भिक्षा
 +++(अत्र बोधायनः "अथास्मा अरिक्तं पात्रं प्रयच्छात्राह मातरम् एवाग्रे भिक्षस्वेति" ।)+++  
 
 ## वासस आदानम्
-+++(त्र्यहं मन्त्रवत्-परिहितमेव)+++ वासश् चतुर्थीम्+++(चतुर्थाहोरात्रे अहन्येव)+++ उत्तरया +++("यस्य ते प्रथमवास्य"मित्येतया)+++ ऽऽदत्ते +++(स्वीकरोति)+++  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/15_yasya_te.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-ऽन्यत् परिधाप्य २४
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_24_vAsashchaturthImuttarayAdatte-nyatparidhApya.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 +++(ततः केचित् प्रणवश्रद्धामेधाः पूजयित्वा दण्डत्यागम्, अन्यदण्डग्रहणञ् चेच्छन्ति।)+++
 
