@@ -5,7 +5,9 @@ unicode_script: devanagari
 ---
 
 ## पुंसवनम्
-पुंसुवनं व्यक्ते गर्भे तिष्येण ॥ न्यग्रोधस्य या प्राच्युदीचीं वा शाखा ततस्सवृषणां शुङ्गामाहृत्य सीमन्तवदग्नेरुपसमाधानादि ॥
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/12_puMsuvanam/14_09_pu.NsavanaM_vyakte.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/12_puMsuvanam/14_10_nyagrodhasya_yA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 +++(दक्षिणे नासिकाछिद्रे न्यग्रोधशृङ्गारसमपि नयति)+++  
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/14_puMsuvanamasi.md"  newLevelForH1="2" includeTitle="false"> </div>
@@ -18,8 +20,9 @@ unicode_script: devanagari
 परिषेचनान्ते ततो वक्ष्यमाणं कर्म ॥  
 
 ### अवोक्षणमन्त्रः
-अनवस्नातया कुमार्या दृषत्पुत्रे दृषत्पुत्रेण पेषयित्वा परिप्लाव्यापेरणाग्निं प्राचीमुत्तानां निपात्योत्तरेण यजुषाङ्गुष्ठेन दक्षिणे नासिकाच्छिद्रेऽपिनयति ॥
-पुमांसं जनयति ॥
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/12_puMsuvanam/14_11_anavasnAtayA_kumAryA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/12_puMsuvanam/14_12_pumA.Nsa~n_janayati.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/16_yathaiva_somaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 

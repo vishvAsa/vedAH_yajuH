@@ -7,7 +7,8 @@ tags: [होमः, आज्यहोमः]
 
 +++(अत्र दर्शपूर्णमासप्रकृतिः, नाग्निहोत्रप्रकृतिः।)+++
 
-देवता-निश्चये विशेषाः - पौर्णमास्यां पौर्णमासी यस्यां क्रियते २८
+देवता-निश्चये विशेषाः -  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_28_paurNamAsyAm_paurNamAsI.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 इध्म-सन्नाहः - +++(पार्वणे च पूर्वद्युस्सन्नद्धव्य इध्मः।)+++
 

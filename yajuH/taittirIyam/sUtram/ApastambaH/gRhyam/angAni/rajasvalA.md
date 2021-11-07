@@ -5,5 +5,4 @@ unicode_script: devanagari
 ---
 
 
-यदा मलवद्वासाः स्यादथैनां ब्राह्मण-प्रतिषिद्धानि कर्माणि संशास्ति "यां मलवद्वासस"+++(तै.सं. २.५.१)+++ मित्येतानि ॥
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_12_yadA_malavadvAsAH.md"  newLevelForH1="2" includeTitle="false"> </div>  
