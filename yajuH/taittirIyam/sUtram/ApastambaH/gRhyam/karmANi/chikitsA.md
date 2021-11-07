@@ -7,22 +7,15 @@ practice_weight: 0
 
 ## श्वग्रहः
 
-श्वग्रह+++(=श्वेव नदति, श्ववद्वा चेष्टते)+++गृहीतं कुमारं  
-तपोयुक्तो+++(=यावन्मनस्तोषमनशनादियुक्तः)+++ जालेन प्रच्छाद्य कंसं किङ्किणिं+++(=लोहघण्टां)+++ वा ह्रादयन्न्+++(=पुरुषान्तरेण ध्वानयन्)+++  
-अद्वारेण +++(=भित्यादिकमपसार्य मार्गं कृत्वा)+++ सभां प्रपाद्य  
-सभाया मध्ये ऽधिदेवनम्+++(=दीवनं यत्र कुर्वन्ति कितवः)+++ उद्धत्य+अवोक्ष्य  
-+अक्षान्+++(=विभीतकफलानि, केचित्शारा इति)+++ न्युप्य  
-अक्षेषूत्तानं +++(=शयानम्)+++ निपात्य  
-दध्ना लवणमिश्रेणाञ्जलिनोत्तरैर् +++("कूर्कुरस्सुकूर्कुर"इत्यादिभिः"श्वानमिच्छ्वादन्न पुरुषं छत्"इत्यन्तैः)+++ अवोक्षेत् प्रातर्मध्यन्दिने सायम् १  
-अगदो+++(=अरोगो)+++ भवति २
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_01_shvagrahagRhIta~N_kumAram.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_02_agado_bhavati.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## शङ्खी
 
-शङ्खिनं+++(=शङ्खवन्नदतं)+++ कुमारं तपोयुक्त+++(=यावन्मनस्तोषमनशनादियुक्तः)+++  
-उत्तराभ्याम् +++("एते ते प्रतिदृश्येते"इत्येताभ्यां)+++ अभिमन्त्र्य  
-+++("ऋषिर्बोधः प्रबोधः"इत्येतया)+++ उत्तरयोदकुम्भेन शिरस्तो ऽवनयेत्  
-प्रातर् मध्यन्दिने सायम् ३  
-अगदो+++(=अरोगो)+++ भवति ४
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_03_shankhina~N_kumAram.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_04_agado_bhavati.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## यक्ष्मनिवारणम्
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_10_yaxmagRhItAmanyAM_vA.md"  newLevelForH1="2" includeTitle="false"> </div>  
