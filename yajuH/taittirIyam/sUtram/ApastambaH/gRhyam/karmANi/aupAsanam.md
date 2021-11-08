@@ -5,11 +5,14 @@ unicode_script: devanagari
 tags: [औपासनम्, विच्छिन्नाग्निसन्धानम्]
 ---
 
-अग्निः -  
+## अग्निः  
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_15_nityaH.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_16_dhAryaH_eSha.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+### अनुगते
++++(विच्छिन्नाग्निसन्धानम् इतो ऽनुमेयम्। )+++
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_17_anugato_manthyaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
@@ -19,7 +22,7 @@ tags: [औपासनम्, विच्छिन्नाग्निसन�
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_20_anugate-pi_vottarayA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-होमः -  
+## होमः  
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_19_sAyam_prAtarata.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_20_sthAlIpAkavaddaivatam_devataiva.md"  newLevelForH1="2" includeTitle="false"> </div>  
