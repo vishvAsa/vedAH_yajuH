@@ -9,6 +9,7 @@ practice_weight: 0
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume4SatyavrataSamasrami1877bis_201803/page/n315) कौथुमभाष्ये। सोमः।])+++
 
+
 यः पा॑वमा॒नीर्+++(=पवमान-ऋचः)+++ अ॒ध्येत्य्  
 ऋषि॑भिः॒ सम्भृ॑तं॒ रस॑म् ।  
 सर्वं॒ स पू॒तम॑श्नाति  
@@ -41,3 +42,9 @@ RvKh_3,10.1a [अत्र](https://archive.org/stream/RgVedaWithSayanasCommenta
 ताभिर्गच्छति नान्दनम्  ।  
 पुण्यांश्च भक्षान् भक्षयत्य्  
 अमृतत्वं च गच्छति॥  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तैत्तिरीयब्राह्मणे [ऽत्र](/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/) । 
+</details>
+
