@@ -2,5 +2,4 @@
 title = "०८ अहमेव वात"
 
 +++
-अ॒हमे॒व वात॑ इव॒ प्र वा॑म्या॒रभ॑माणा॒ भुव॑नानि॒ विश्वा॑ ।  
-प॒रो दि॒वा प॒र ए॒ना पृ॑थि॒व्यौताव॑ती महि॒म्ना सं ब॑भूव ॥८॥
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/08_ahameva_vAta.md"  newLevelForH1="2" includeTitle="false"> </div>

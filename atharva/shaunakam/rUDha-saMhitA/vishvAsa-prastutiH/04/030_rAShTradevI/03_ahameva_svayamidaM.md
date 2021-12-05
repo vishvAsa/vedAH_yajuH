@@ -2,5 +2,4 @@
 title = "०३ अहमेव स्वयमिदं"
 
 +++
-अ॒हमे॒व स्व॒यमि॒दं व॑दामि॒ जुष्टं॑ दे॒वाना॑मुत मानु॑षाणाम्।  
-यं का॒मये॒ तन्त॑मु॒ग्रं कृ॑णोमि॒ तं ब्र॒ह्माणं॒ तमृषिं॒ तं सु॑मे॒धाम्॥३॥  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/05_ahameva_svayamidaM.md"  newLevelForH1="2" includeTitle="false"> </div>

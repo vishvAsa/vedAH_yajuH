@@ -9,4 +9,4 @@ seer, him very wise.
 
 ## Notes
 RV. (vs. 5) has in **b** the equivalent *devébhis* and *mā́nuṣebhis*. The  
-comm. absurdly explains *brahmā́ṇam* by *sraṣṭāram*, or the god Brahman.
+comm. absurdly explains *brahmā́ṇam* by *sraṣṭāram*, or the god Brahman.+++(5)+++

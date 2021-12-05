@@ -2,5 +2,4 @@
 title = "०२ अहं राष्ट्री"
 
 +++
-अ॒हं राष्ट्री॑ सं॒गम॑नी॒ वसू॑नां चिकि॒तुषी॑ प्रथ॒मा य॒ज्ञिया॑नाम्।  
-तां मा॑ दे॒वा व्य॑दधुः पुरु॒त्रा भूरि॑स्थात्रां॒ भूर्या॑वे॒शय॑न्तः ॥२॥  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/03_ahaM_rAShTrI.md"  newLevelForH1="2" includeTitle="false"> </div>

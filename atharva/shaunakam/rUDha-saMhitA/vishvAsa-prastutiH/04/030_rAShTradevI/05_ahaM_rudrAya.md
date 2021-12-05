@@ -2,5 +2,5 @@
 title = "०५ अहं रुद्राय"
 
 +++
-अ॒हं रु॒द्राय॒ धनु॒रा त॑नोमि ब्रह्म॒द्विषे॒ शर॑वे॒ हन्त॒वा उ॑ ।  
-अ॒हं जना॑य स॒मदं॑ कृणोम्य॒हं॑ द्यावा॑पृथि॒वी आ वि॑वेश ॥५॥  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/06_ahaM_rudrAya.md"  newLevelForH1="2" includeTitle="false"> </div>
+

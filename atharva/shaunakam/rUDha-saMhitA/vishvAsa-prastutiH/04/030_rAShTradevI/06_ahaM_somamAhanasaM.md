@@ -2,5 +2,4 @@
 title = "०६ अहं सोममाहनसं"
 
 +++
-अ॒हं सोम॑माह॒नसं॑ बिभर्म्य॒हं त्वष्टा॑रमु॒त पू॒षणं॒ भग॑म्।  
-अ॒हं द॑धामि॒ द्रवि॑णा ह॒विष्म॑ते सुप्रा॒व्या॒३ यज॑मानाय सुन्व॒ते॥६॥  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/02_ahaM_somamAhanasaM.md"  newLevelForH1="2" includeTitle="false"> </div>
