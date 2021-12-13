@@ -88,6 +88,11 @@ the RV. Finally, one may comment that this tale hints at the possibility
 of Atri and his men having fallen into one of the geothermal craters in
 the Caspian-Black Sea region close to the IE homeland.+++(4)+++
 
+[^Footnote 2]: While its style is similar to that of the old Gotama founders like Kakṣivant and his father, the sūkta itself mentions Kakṣivant in the third person and talks of the later Gotama-s. This suggests that it was appended later to the Kakṣivant collection by one of his successors.
+
+
+
+### Occurance
 Returning to sneha-, we tabulate below the occurrence of this word in
 some old Vedic texts relative to hima- (while we count both senses of
 hima- we do not count the season hemanta in the below table).
@@ -112,6 +117,7 @@ the two occurrences in the RV and suggest that they are semantically
 aligned with the Middle and New Indo-Aryan forms. Both occur in
 enigmatic sūkta-s/ṛk-s that need further discussion.
 
+## Āṅgirasa's sUkta
 The first occurrence is in a long sūkta of Tiraścī Āṅgirasa on the many
 glorious acts of Indra, which needs to be described to give some
 context. The first three ṛk-s (1-3) describe the might of Indra and his
@@ -123,7 +129,9 @@ Rāmāyaṇa when Rāma pierces the seven trees to prove his might
 following triad (4-6) describes how Indra, in his cosmogonic form as the
 generator of all beings, slew Ahi with his vajra, even as the mountains
 shrieked. The Marut-s seeing his valor, approached him for an alliance,
-like brāhmaṇa-s reciting mantra-s to praise him. The next tṛca (7-9)
+like brāhmaṇa-s reciting mantra-s to praise him. 
+
+The next tṛca (7-9)
 describes a Marut-centric version of the Vṛtra myth. When Vṛtra
 violently sallied forth, the other gods, who were the companions of
 Indra, retreated, leaving him alone in the battle. However, the 360
@@ -139,32 +147,42 @@ the ṛk of specific interest to us, the narration moves to the battles
 fought by Indra against the enemies of the gods in alliance with
 Bṛhaspati. This triad is soaked in astronomical allegory, with the god
 Bṛhaspati himself likely being represented in the sky by the planet
-Jupiter. The main feature of this triad is the mention of a black
+Jupiter. 
+
+The main feature of this triad is the mention of a black
 (shrouding like a cloud) drop, kṛṣṇa drapsa, which is said to wander to
 the solstitial colure along a sinuous river Aṃsumati. We interpret this
 river as the lunar ecliptic. The whole myth seems to encode a solar
 eclipse close to the winter solstice (The old Aryan New Year), in which
-context the snowstorm is mentioned. The next tṛca (16-18) describes the
-following acts of Indra: 1. Right when he was born, he became the foe of
-the seven unrivaled ones (not entirely clear who they are). 2. He
-discovered Dyaus and Pṛthivi, which were hidden. 3. He set into motion
-the wide-ranging worlds. 4. He smashed the unrivaled one (Vṛtra) with
-his vajra. 5. He slew Śuśna. 5. He discovered the hidden cows. 6. He
-demolished the fortifications. 7. He released the frozen rivers and slew
-the demoness (an allusion to Dānu) lording over the waters. The final
-tṛca (19-21) praises Indra as Vṛtrahan and the lord of the Ṛbhu-s,
+context the snowstorm is mentioned. 
+
+
+The next tṛca (16-18) describes the
+following acts of Indra: 
+
+1. Right when he was born, he became the foe of the seven unrivaled ones (not entirely clear who they are). 
+2. He discovered Dyaus and Pṛthivi, which were hidden. 
+3. He set into motion the wide-ranging worlds. 
+4. He smashed the unrivaled one (Vṛtra) with his vajra. 
+5. He slew Śuśna.
+6. He discovered the hidden cows. 
+7. He demolished the fortifications. 
+8. He released the frozen rivers and slew the demoness (an allusion to Dānu) lording over the waters. 
+
+The final tṛca (19-21) praises Indra as Vṛtrahan and the lord of the Ṛbhu-s,
 calling on him for the soma offering.
 
-ava drapso aṃśumatīm atiṣṭhad  
-iyānaḥ kṛṣṇo daśabhiḥ sahasraiḥ  
-āvat tam indraḥ śacyā dhamantam  
-apa snehitīr nṛmaṇā adhatta ॥ RV 8.96.13  
-The drop stood at the Aṃśumatī,  
-the black \[drop\] wanders with the ten thousand.  
-Indra helped it \[the drop\] blowing along with his skill.  
-The manly-minded \[Indra\] repulsed the snowstorm.
+> ava drapso aṃśumatīm atiṣṭhad  
+> iyānaḥ kṛṣṇo daśabhiḥ sahasraiḥ  
+> āvat tam indraḥ śacyā dhamantam  
+> apa snehitīr nṛmaṇā adhatta ॥ RV 8.96.13  
+>
+> The drop stood at the Aṃśumatī,  
+> the black \[drop\] wanders with the ten thousand.  
+> Indra helped it \[the drop\] blowing along with his skill.  
+> The manly-minded \[Indra\] repulsed the snowstorm.
 
-drapsam apaśyaṃ viṣuṇe carantam  
+> drapsam apaśyaṃ viṣuṇe carantam  
 upahvare nadyo aṃśumatyāḥ ।  
 nabho na kṛṣṇam avatasthivāṃsam  
 iṣyāmi vo vṛṣaṇo yudhyatājau ॥ RV 8.96.14  
@@ -173,7 +191,7 @@ in the sinuous path of the River Aṃśumatī,
 going down like a black cloud,  
 I impel you, bulls, to fight in the battle.
 
-adha drapso aṃśumatyā upasthe  
+> adha drapso aṃśumatyā upasthe  
 .adhārayat tanvaṃ titviṣāṇaḥ ।  
 viśo adevīr abhy ācarantīr  
 bṛhaspatinā yujendraḥ sasāhe ॥ RV 8.96.14  
@@ -182,7 +200,8 @@ bore the body sparkling with light.
 As the deva-less folks moved forth \[to attack\],  
 united with Bṛhaspati, Indra conquered \[them\].
 
-**Commentary:** The black drop (drapsa, an old IE word) is interpreted
+### Commentary
+The black drop (drapsa, an old IE word) is interpreted
 as the new Moon. The drop is associated most commonly with soma (with a
 lunar equivalence in several cases; on rare occasions it is used for
 Venus). Normally, the soma is silvery — ṛjīśin (like earlier in this
@@ -193,31 +212,41 @@ thousand: we take this large number to denote the stars. The drop is
 seen as blowing along: we consider this an early allusion to the
 primitive Hindu astronomical theory (shared with the Greeks and likely
 of old IE provenance) of celestial bodies being blown on their paths by
-cosmic winds. In the second ṛk, the composer states that he sees the
+cosmic winds. 
+
+In the second ṛk, the composer states that he sees the
 black drop which is likened to a cloud — suggesting its shrouding nature
 — wandering near a colure. He also mentions the sinuous course of the
 river Aṃśumatī. Given that the word aṃśu is used for soma (or the soma
 stalks before extraction of the juice) and metaphorically connects the
 soma plant and the Moon, Aṃśumatī would mean the riverine path with
 soma/the Moon. Hence, we take this to be an allusion to the lunar
-path/ecliptic \[Footnote 3\].
+path/ecliptic [^Footnote3].
+
+[^Footnote3]: In later Hindu tradition, the lunar and solar paths are often depicted on temple roofs as sinuous snakes.
+
 
 We take the colure (viṣuṇa) to be solstitial. Winter is the season that
 corresponds to the battle between the gods, led by Indra, and the
-demons. The verb, ava-sthā = going own, suggests the nether point of the
+demons. The verb, ava-sthā = going own+++(??)+++, suggests the nether point of the
 ecliptic path analogized to a river. Hence, we hold that the solstice
 referred to is specifically the winter solstice. Thus, it is not any new
 moon but likely the new Moon closest to the winter solstice,
-corresponding to the old Aryan New Year. This, in turn, supports the
+corresponding to the old Aryan New Year.
+
+This, in turn, supports the
 idea that the snehiti which Indra averts is indeed a snowstorm. The
 final ṛk of this triad mentions the black drop in the lap of Aṃśumatī,
 where it paradoxically takes on a body sparkling with light. We take
 this to allude to a solar eclipse happening close to the solstice. The
 at the point of emergence of the sun from the total eclipse or an
 annular eclipse would indeed give the impression of the black drop (the
-Moon) taking on a glittering body. Thus, this is a variant of the famous
+Moon) taking on a glittering body. 
+
+
+Thus, this is a variant of the famous
 Svarbhānu eclipse myth of the Atri-s but probably referring to a
-specific eclipse near the solstice. In this context, the attack adevī
+specific eclipse near the solstice. In this context, the attack [of the] adevī
 folks should be taken as a purposeful conflation of the earthly enemies
 with the asura-s causing the eclipse as in the Svarbhānu myth. Moreover,
 given the overall celestial setting, the specific involvement of
@@ -234,92 +263,102 @@ with his spear, but Indra evades him by becoming the tail of a horse.
 Having evaded his strike, Indra conquered the cows and the soma and
 released the waters. Then he closed in for combat with Ahi:
 
-nāsmai vidyun na tanyatuḥ siṣedha  
-na yām miham akirad dhrāduniṃ ca ।  
-indraś ca yad yuyudhāte ahiś ca  
-utāparībhyo maghavā vi jigye ॥ RV 1.32.13  
-Neither the lightning nor the thunder scared away \[Indra\] for him,  
-neither the snow (/mist) nor the hail that he \[Ahi\] spread out.  
-When Indra and Ahi fought each other,  
-Maghavan triumphed, \[then\] and also for the time that came.
+> nāsmai vidyun na tanyatuḥ siṣedha  
+> na yām miham akirad dhrāduniṃ ca ।  
+> indraś ca yad yuyudhāte ahiś ca  
+> utāparībhyo maghavā vi jigye ॥ RV 1.32.13  
+>
+> Neither the lightning nor the thunder scared away \[Indra\] for him,  
+> neither the snow (/mist) nor the hail that he \[Ahi\] spread out.  
+> When Indra and Ahi fought each other,  
+> Maghavan triumphed, \[then\] and also for the time that came.
 
 Here, Ahi deploys various “weather weapons”, reminiscent of the steppe
 “rain-stone” magic of the Turkic and Mongolic world, but they fail to
-scare away Indra. The first two, lightning and thunder are unambiguous,
-and so is the final one, hail (hrāduni). The word miha could mean snow
+scare away Indra.+++(5)+++ The first two, lightning and thunder are unambiguous,
+and so is the final one, hail (hrāduni). The word **miha** could mean snow
 or mist. In either case, it supports the deployment of such weather
-weapons, consistent with the interpretation of sneha- as snow, i.e., in
+weapons, consistent with the interpretation of **sneha**- as snow, i.e., in
 a snowstorm.
 
+## Monster sUkta
 Strikingly, the second occurrence of sneha- is again in the context of
 the same eclipse myth. This account occurs in the monster sūkta of
 maṇḍala 9, which agglomerates shorter sūkta-s of various Vasiṣṭha-s and
 Kutsa Āṅgirasa. We shall consider the whole tṛca with this reference
 below:
 
-ayā pavā pavasvainā vasūni  
-māṃścatva indo sarasi pra dhanva ।  
-bradhnaś cid atra vāto na jūtaḥ  
-purumedhaś cit takave naraṃ dāt ॥ RV 9.97.52  
-Bring (addressed to soma), by purifying yourself with this filtering,
+> ayā pavā pavasvainā vasūni  
+> māṃścatva indo sarasi pra dhanva ।  
+> bradhnaś cid atra vāto na jūtaḥ  
+> purumedhaś cit takave naraṃ dāt ॥ RV 9.97.52  
+>
+> Bring (addressed to soma), by purifying yourself with this filtering,
 riches.  
-At the hiding of the Moon, O drop (moon/soma), run forth into the
+> At the hiding of the Moon, O drop (moon/soma), run forth into the
 lake.  
-The yellowish (sun) is also here as if impelled by the wind.  
-the wise one (Soma) has indeed given us the man (Indra) for the sally.
+> The yellowish (sun) is also here as if impelled by the wind.  
+> the wise one (Soma) has indeed given us the man (Indra) for the sally.
 
-uta na enā pavayā pavasva  
-adhi śrute śravāyyasya tīrthe ।  
-ṣaṣṭiṃ sahasrā naiguto vasūni  
-vṛkṣaṃ na pakvaṃ dhūnavad raṇāya ॥ RV 9.97.52  
-Also with this filtering purify yourself,  
-at the front of the famous ford of celebration.  
-Sixty thousand treasures the destroyer of rivals,  
-like a tree with ripe fruits, will shake down for triumph.
+> uta na enā pavayā pavasva  
+> adhi śrute śravāyyasya tīrthe ।  
+> ṣaṣṭiṃ sahasrā naiguto vasūni  
+> vṛkṣaṃ na pakvaṃ dhūnavad raṇāya ॥ RV 9.97.52  
+>
+> Also with this filtering purify yourself,  
+> at the front of the famous ford of celebration.  
+> Sixty thousand treasures the destroyer of rivals,  
+> like a tree with ripe fruits, will shake down for triumph.
 
-mahīme asya vṛṣanāma śūṣe  
-māṃścatve vā pṛśane vā vadhatre ।  
-asvāpayan nigutaḥ snehayac ca  
-apāmitrāṃ apācito acetaḥ ॥  
-The bull is his name \[Indra\], great and fierce, are his two,  
-deadly weapons, in the hiding of the Moon or in the touching.  
-He put to sleep the rivals and snowed down on them.  
-Repulse the enemies, repulse the senseless ones.
+> mahīme asya vṛṣanāma śūṣe  
+> māṃścatve vā pṛśane vā vadhatre ।  
+> asvāpayan nigutaḥ snehayac ca  
+> apāmitrāṃ apācito acetaḥ ॥
+> 
+> The bull is his name \[Indra\], great and fierce, are his two,  
+> deadly weapons, in the hiding of the Moon or in the touching.  
+> He put to sleep the rivals and snowed down on them.  
+> Repulse the enemies, repulse the senseless ones.
 
-**Commentary:** Composite sūkta-s, like the one in which these ṛk-s of
+### Commentary
+Composite sūkta-s, like the one in which these ṛk-s of
 Kutsa Āṅgirasa occur, are typical of the final part of maṇḍala 9. Except
 for Kutsa, who is the author of the last 4 tṛca-s and the terminal ṛk
 with the classic Kutsa refrain, all the other authors are Vāsiṣṭha-s.
 However, throughout the long sūkta (longest in the RV) we find several
 allusions to the finding of the sun’s path, the holding of the sun, and
 soma as the Moon. Thus, it is not out of place to furnish an
-astronomical explanation for these ṛk-s. Key to the interpretation of
-these ṛk-s is a rare word māṃścatu/māṃścatva whose meaning has puzzled
+astronomical explanation for these ṛk-s. 
+
+Key to the interpretation of
+these ṛk-s is a rare word **māṃścatu/māṃścatva** whose meaning has puzzled
 students over the ages. It occurs only thrice in the RV, and its meaning
 was already obscure to Yāska, who groups it with the words for horses in
 the Nighaṇṭu. Two of the occurrences are in this tṛca, and one is in RV
 7.44.3 by Vasiṣṭha Maitrāvaruṇi. Thus, this word perhaps links the
-Vāsiṣṭha-s to Kutsa. It can be etymologized as maṃs+catu. Catu can be
-derived from the root cat- = to hide or vanish. Māṃs (with a pure
+Vāsiṣṭha-s to Kutsa. It can be etymologized as maṃs+catu. **Catu** can be
+derived from the root cat- = to hide or vanish. **Māṃs** (with a pure
 anunāsika) is taken to mean the Moon, an older variant of mās, closely
 related to the form in early Indo-European. This form is supported by
 other Indo-European cognates like: Baltic (Latvian): mēnesis; Latin:
-mensis. Thus, the word is taken to mean the vanishing of the Moon. To
+mensis. Thus, the word is taken to mean the vanishing of the Moon. 
+
+To
 their credit, some white indologists have correctly etymologized this
 word using comparisons across IE. However, they failed to understand its
 actual meaning. Notably, on the only occasions it occurs in RV, it is
 coupled with bradhna — the yellowish or reddish sun. This is also seen
 in the case of the verse of Vasiṣṭha:
 
-dadhikrāvāṇam bubudhāno agnim  
-upa bruva uṣasaṃ sūryaṃ gām ।  
-bradhnam māṃścator varuṇasya babhruṃ  
-te viśvāsmad duritā yāvayantu ॥  
-Ever having awakened, to Dadhikrāvan and Agni  
-I speak; to Uṣas, and the sun, the cow.  
-The yellowish one from the hiding of the Moon, \[becomes\] Varuṇa’s
-brown one,  
-let them drive away all the bad things from us.
+> dadhikrāvāṇam bubudhāno agnim  
+> upa bruva uṣasaṃ sūryaṃ gām ।  
+> bradhnam māṃścator varuṇasya babhruṃ  
+> te viśvāsmad duritā yāvayantu ॥
+> 
+> Ever having awakened, to Dadhikrāvan and Agni  
+> I speak; to Uṣas, and the sun, the cow.  
+> The yellowish one from the hiding of the Moon, \[becomes\] Varuṇa’s brown one,  
+> let them drive away all the bad things from us.
 
 Notably, the first ṛk of Kutsa, explicitly states that the sun (bradhna)
 is also at at the same place as the hiding of the Moon. The sun is said
@@ -327,7 +366,7 @@ to be impelled to that place by the wind — again, note an allusion to
 the old hypothesis of the cosmic winds moving the celestial bodies (c.f.
 the above ṛk of Tiraścī Āṅgirasa). This conjunction corresponds to
 amāvāsya or the sun and moon “dwelling together”, resulting in the new
-Moon (or the hiding/vanishing of the Moon). Hence, māṃścatva should be
+Moon (or the hiding/vanishing of the Moon). Hence, **māṃścatva** should be
 understood as the “hiding of the moon” at new Moon in all its
 occurrences. However, there are indications that it is a new moon with a
 solar eclipse. The final ṛk talks of two events, the māṃścatva and the
@@ -335,7 +374,9 @@ pṛśana, i.e., the touching. We take this touching as the “contact” of
 the sun and Moon implying an eclipse. Moreover, the ṛk of Vasiṣṭha,
 states that the bradhna (usually yellow or red) is Varuṇa’s brown one
 from the māṃścatu. This suggests that the sun’s darkening, indicating a
-solar eclipse at the new moon \[Footnote 1\].
+solar eclipse at the new moon [^Footnote 1].
+
+[^Footnote 1]: This occurs in the context of Dadhikrāvan, who is typically invoked in the dawn ritual. We posit that Dadhikrāvan represents a heliacally rising old Vedic constellation, although its identity still remains uncertain.
 
 We also encounter the cryptic statements parallel to the ṛk-s of Tiraścī
 Āṅgirasa, such as the drop (Moon) running into the lake. This is also
@@ -345,7 +386,11 @@ ecliptic. Thus, we believe both Kutsa and Tiraścī are talking about the
 same or a similar eclipse close to the winter solstice. However,
 notably, in this case, it is Indra who showers snow on the enemies,
 putting them to “sleep” — again reminding us of the use of rain/snow
-stones in the Altaic warfare. Thus, the two occurrences of sneha+ and
+stones in the Altaic warfare.+++(4)+++ 
+
+
+## Sneha and snow
+Thus, the two occurrences of sneha+ and
 the one occurrence of snīh- in the RV indicate the use of this ancient
 IE word in the sense of snow. The interesting early polymorphism in the
 form of sneh- and snīh- suggests that the ancestral state of this word,
@@ -354,6 +399,7 @@ composed, was close to the ancestral Baltic version (at least the first
 syllable). Thus, we are probably seeing a fossil of the dialect
 diversity in early Indo-Aryan or Indo-Iranian itself.
 
+## Eclipse at solstice
 To conclude, we may note, an eclipse at the solstice is a relatively
 rare event. However, if we give a leeway of about 5 days on either side
 of the winter solstice, one may get more of such events. Below is a list
@@ -380,15 +426,3 @@ that they might have been dramatic enough to leave a memory in the text.
 
 ------------------------------------------------------------------------
 
-Footnote 1: This occurs in the context of Dadhikrāvan, who is typically
-invoked in the dawn ritual. We posit that Dadhikrāvan represents a
-heliacally rising old Vedic constellation, although its identity still
-remains uncertain.
-
-Foonote 2: While its style is similar to that of the old Gotama founders
-like Kakṣivant and his father, the sūkta itself mentions Kakṣivant in
-the third person and talks of the later Gotama-s. This suggests that it
-was appended later to the Kakṣivant collection by one of his successors.
-
-Foonote 3: In later Hindu tradition, the lunar and solar paths are often
-depicted on temple roofs as sinuous snakes.
