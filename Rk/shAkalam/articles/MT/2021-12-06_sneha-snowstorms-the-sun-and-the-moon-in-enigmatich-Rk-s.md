@@ -3,7 +3,6 @@ title = "Sneha, snowstorms, the"
 full_title = "Sneha, snowstorms, the sun and the moon in enigmatic ṛks"
 date = "2021-12-06"
 upstream_url = "https://manasataramgini.wordpress.com/2021/12/06/sneha-snowstorms-the-sun-and-the-moon-in-enigmatic-%e1%b9%9bk-s/"
-ou know about Sanskrit Sociologic
 +++
 Source: [here](https://manasataramgini.wordpress.com/2021/12/06/sneha-snowstorms-the-sun-and-the-moon-in-enigmatic-%e1%b9%9bk-s/).
 
