@@ -4,7 +4,7 @@ title = "VI. Book the sixth"
 +++
 
 
-​
+
 
 Book VI.
 

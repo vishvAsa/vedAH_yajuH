@@ -4,7 +4,7 @@ title = "Funeral verses."
 +++
 
 
-​
+
 
 Book XVIII.
 
@@ -55,7 +55,7 @@ N° 6, Amsterdam, 1896, pages xiv + 193.⌋
 ⌊Hymns (or *anuvākas*) 1 and 2 are treated by Weber (as above) in the
 *Sitzungsberichte* for 1895, pages 815-866; and hymns (or *anuvākas*) 3
 and 4, in the *Sitzungsberichte* for 1896, pages 253-294.—Weber's essays
-give first a general introduction for ​the whole book (*Sb.*, 1895,
+give first a general introduction for the whole book (*Sb.*, 1895,
 pages 815-819); and then, for each *anuvāka*, a special introduction
 followed by a translation with running comment. Each special
 introduction treats of the ritual uses of the *anuvāka* concerned and of

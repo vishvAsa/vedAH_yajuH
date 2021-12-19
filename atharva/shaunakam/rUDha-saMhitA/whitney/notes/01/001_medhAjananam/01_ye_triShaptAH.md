@@ -14,7 +14,7 @@ Prāt. ii. 71.
   
 *Trisaptā́s* is plainly used as the designation of an indefinite number,  
 = 'dozens' or 'scores.' Supposing *śrutá* to signify one's acquired  
-sacred knowledge, portion of *śruti*, ​it perhaps refers to the sounds  
+sacred knowledge, portion of *śruti*, it perhaps refers to the sounds  
 or syllables of which this is made up. If, on the other hand, *śruta*  
 (as in vi. 41. 1) means 'sense of hearing,' the *triṣaptās* may be the  
 healthy hearers, old and young (so R.). R. prefers to regard *tanvàs* as  

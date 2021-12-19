@@ -4,7 +4,7 @@ title = "Prayer to the Sun, identified with Indra and with Vishṇu."
 +++
 
 
-​
+
 
 Book XVII.
 
@@ -54,7 +54,7 @@ the Berlin ed., on the other hand, inserts an *avasāna*-mark before the
 demanded.—All the vss. of this part are of 7 pādas except 9, 14-15, and
 17, which are of 5 each, and except 10, which is of 8.⌋
 
-​
+
 
 ⌊**Part III., verses 20-23.**—This consists of 4 bits of prose. The
 verses contain: praise and prayer to the Sun (20-21: 'brilliant art

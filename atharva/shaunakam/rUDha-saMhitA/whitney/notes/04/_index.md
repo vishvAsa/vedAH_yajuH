@@ -4,7 +4,7 @@ title = "IV. Book the fourth"
 +++
 
 
-​
+
 
 Book IV.
 

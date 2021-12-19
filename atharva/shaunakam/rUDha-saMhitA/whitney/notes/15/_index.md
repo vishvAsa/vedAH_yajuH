@@ -4,7 +4,7 @@ title = "The Vrātya."
 +++
 
 
-​
+
 
 Book XV.
 
@@ -47,7 +47,7 @@ forms in which Brahman is celebrated in the AV., mentioning in the same
 verse with *vrātya* (celebrated in AV. xv.) also the *brahmacārin* and
 the *skambha* and the *palita* (celebrated respectively at AV. xi. 5 and
 x. 7, 8 and ix. 9), etc.—And this view accords well with the penultimate
-verse of the fifth *prapāṭhaka* ​of the Chāndogya Upanishad (v. 24. 4),
+verse of the fifth *prapāṭhaka* of the Chāndogya Upanishad (v. 24. 4),
 where it is said of the sacrificial remnant that, if it be offered even
 to an outcaste, it is as good as if offered to the omnipresent All-soul,
 provided only it be done with the right knowledge. And a similar idea is
@@ -111,7 +111,7 @@ beginning of the *anuvāka;* and those in brackets refer to the
 *dvyūnā tu viṅśatis turyaḥ* (i. 4) *pañcamaḥ ṣoḍaśa smṛtaḥ* (i. 5):  
 *viṅśatiḥ ṣaṭ ca ṣaṣṭhaś ca* (i. 6) *saptamaḥ pañcaka ucyate* (i. 7).
 
-​
+
 
 ⁠*ekādaśakās trayo ‘tra bodhyā* (ii. 3, 4, 5)
 
@@ -176,7 +176,7 @@ proper (as distinguished from the *gaṇa-paryāyas*), i.e. in those eleven
 7, 8, 9, 10, 12, 15, 16, 17, 18. But for 15 and 16 and 17, this
 statement needs to be modified by rehearsal of the fact that SPP.
 prefixes to *yò ‘sya* of each of the *avasānarcas* of the Berlin ed.
-from 15. 3 to 17. 7, and also to the 3 remaining ​*avasānarcas* of 17,
+from 15. 3 to 17. 7, and also to the 3 remaining *avasānarcas* of 17,
 the words *tásya vrā́tyasya* with an *avasāna*-mark, but nevertheless
 makes his numbering as does the Berlin ed.⌋
 
@@ -236,7 +236,7 @@ are doubtless mere casual lapses into meter (cf. p. 869).⌋ \*⌊See p.
 ⌊Whitney's ms. appears to indicate that he intended to give to each
 *paryāya-sūkta* a heading (in **Clarendon type**, as before); and I have
 thought it well, for the sake of convenience and typographical
-clearness, to carry out his apparent intent—Moreover, ​to facilitate
+clearness, to carry out his apparent intent—Moreover, to facilitate
 reference to the Bombay edition, I have added, in ell-brackets (⌊ ⌋),
 the numbers of SPP's minor divisions, wherever the latter differ from
 those of the Berlin edition.⌋

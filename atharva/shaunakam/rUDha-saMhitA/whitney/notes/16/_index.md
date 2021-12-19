@@ -4,7 +4,7 @@ title = "Unity of subject not apparent."
 +++
 
 
-​
+
 
 Book XVI.
 
@@ -59,7 +59,7 @@ the whole book or else only the first *anuvāka*.⌋
 the book. They may here be given in connected form as printed by SPP. in
 his Critical Notice, p. 23—Line 1 refers to the 'prior' and the 'last'
 (that is the 'latter') of the two *anuvākas* of the ' prājāpatyan' book:
-unless indeed the relation of the first two words is ​appositive ('of
+unless indeed the relation of the first two words is appositive ('of
 the prior, the prājāpatyan' \[*anuvāka*\]: see the preceding
 paragraph).—At the end of the first *anuvāka*, 8 of W's mss. say
 *prājāpatyo ha catuṣkaḥ;* and at the end of the second is read
@@ -130,7 +130,7 @@ and on page 772: namely, that, in a sequence of refrains, the refrain is
 given in full and counted as a separate *avasāna* only for its first and
 last occurrence in that sequence.—In *paryāya* 5 there are properly 6
 *gaṇas*, each with 3 subdivisions: therefore we have 2 *gaṇas* (the
-​first and last), each with 3 subdivisions, making 6; while in each of
+first and last), each with 3 subdivisions, making 6; while in each of
 the remaining 4, the refrains (**b, c**) are counted as one with **a**
 (thus **a-b-c**), making 4; and so, in all, we have 10.—In like manner,
 in *paryāya* 8, there are properly 27 *gaṇas*, each with 4 subdivisions:
