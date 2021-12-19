@@ -12,7 +12,7 @@ title = "Abbreviations"
 - BD Br̥haddevatā 
 - BSOAS Bulletin of the School of Oriental and African Studies dat. dative 
 - EJVS Electronic Journal of Vedic Studies 
-- EVP Études ve﻿́diques et pāṇine﻿́ennes (Renou 1955–69) fem. feminine 
+- EVP Études védiques et pāṇinéennes (Renou 1955–69) fem. feminine 
 - HR History of Religions 
 - IIJ Indo-Iranian Journal 
 - JA Journal asiatique 
