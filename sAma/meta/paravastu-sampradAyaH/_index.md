@@ -1,8 +1,7 @@
- ---
-title: +परवस्तुसामाभ्यासः
-unicode_script: devanagari 
-
----
++++
+title = "+परवस्तुसामाभ्यासः"
+unicode_script = "devanagari" 
++++
 
 ## परम्परा
 - [परवस्तु-साम-परम्परा-पृष्ठं](paravastu-sAma-paramparA/) दृश्यताम्।

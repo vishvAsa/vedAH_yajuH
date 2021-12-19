@@ -185,19 +185,21 @@ calling on him for the soma offering.
 upahvare nadyo aṃśumatyāḥ ।  
 nabho na kṛṣṇam avatasthivāṃsam  
 iṣyāmi vo vṛṣaṇo yudhyatājau ॥ RV 8.96.14  
-I saw the drop wandering at the solstice,  
-in the sinuous path of the River Aṃśumatī,  
-going down like a black cloud,  
-I impel you, bulls, to fight in the battle.
+> 
+> I saw the drop wandering at the solstice,  
+> in the sinuous path of the River Aṃśumatī,  
+> going down like a black cloud,  
+> I impel you, bulls, to fight in the battle.
 
 > adha drapso aṃśumatyā upasthe  
-.adhārayat tanvaṃ titviṣāṇaḥ ।  
-viśo adevīr abhy ācarantīr  
-bṛhaspatinā yujendraḥ sasāhe ॥ RV 8.96.14  
-Then, the drop, in the lap of the Aṃśumatī,  
-bore the body sparkling with light.  
-As the deva-less folks moved forth \[to attack\],  
-united with Bṛhaspati, Indra conquered \[them\].
+> .adhārayat tanvaṃ titviṣāṇaḥ ।  
+> viśo adevīr abhy ācarantīr  
+> bṛhaspatinā yujendraḥ sasāhe ॥ RV 8.96.14  
+>
+> Then, the drop, in the lap of the Aṃśumatī,  
+> bore the body sparkling with light.  
+> As the deva-less folks moved forth \[to attack\],  
+> united with Bṛhaspati, Indra conquered \[them\].
 
 ### Commentary
 The black drop (drapsa, an old IE word) is interpreted
