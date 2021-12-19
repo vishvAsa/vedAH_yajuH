@@ -4,7 +4,7 @@ title = "XII. Book the twelfth"
 +++
 
 
-​
+
 
 Book XII.
 

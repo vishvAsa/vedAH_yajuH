@@ -4,7 +4,7 @@ title = "II. Book the second"
 +++
 
 
-​
+
 
 Book II.
 

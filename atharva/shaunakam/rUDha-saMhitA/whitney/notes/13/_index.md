@@ -4,7 +4,7 @@ title = "Hymns to the Ruddy Sun or Rohita."
 +++
 
 
-​
+
 
 Book XIII.
 
@@ -49,7 +49,7 @@ with the hymn-division. A conspectus for book xiii. follows:
 | Verses         | 60     | 46         | 26         | 56¶ |
 | Decad-division | 6 tens | 4 tens + 6 | 2 tens + 6 | 6 P |
 
-​
+
 
 Here ¶ means "paragraph of a *paryāya*" (such as is numbered as a
 "verse" in the Berlin edition) and P means "*paryāya*." Of the "decads,"

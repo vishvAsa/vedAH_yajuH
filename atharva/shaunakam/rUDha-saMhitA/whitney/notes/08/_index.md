@@ -4,7 +4,7 @@ title = "paryāya-hymns"
 +++
 
 
-​
+
 
 Book VIII.
 
@@ -49,7 +49,7 @@ each, they are as follows: viii. 10 (with 6 *paryāyas*); ix. 6 (with 6);
 ix. 7 (with 1); xi. 3 (with 3); xii. 5 (with 7); xiii. 4 (with 6); book
 xv. (18 *paryāyas*); book xvi. (9 *paryāyas*).⌋
 
-​
+
 
 They are called *paryāya-sūktas* in distinction from those among which
 they occur and which are named *artha-sūktas*. The separate portions of

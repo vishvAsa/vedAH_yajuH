@@ -4,7 +4,7 @@ title = "VII. Book the seventh"
 +++
 
 
-​
+
 
 Book VII.
 
@@ -61,7 +61,7 @@ The Paris codex, P., in this book numbers the verses through each
 *anuvāka* without separating the hymns. The commentator divides the
 *anuvākas* into hymns (from two to four in each *anuvāka*), which
 "hymns," however, are nothing more than mechanical decads of verses with
-an overplus or shortage in the last "decad" when the ​total is not a
+an overplus or shortage in the last "decad" when the total is not a
 multiple of ten: thus, *anuvāka* 1 has three hymns, of 10 + 10 + 8 = 28
 verses; 2 has two hymns, of 10 + 13 = 23 verses; 3 has three hymns, of 9
 + 10 + 11 = 30 verses; 4 has three hymns, of 10 + 10 + 10 = 30 verses;

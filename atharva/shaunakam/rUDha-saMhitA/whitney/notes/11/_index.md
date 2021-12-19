@@ -4,7 +4,7 @@ title = "Paryāya-hymns:"
 +++
 
 
-​
+
 
 Book XI.
 
@@ -54,7 +54,7 @@ end. The total is again 15.⌋
 3 as its 3 and 4 and 5, has a plus of 2 for our 4 (its 6) and the
 following. Its total is therefore 12.⌋
 
-​
+
 
 ⌊In book xii., the Bombay edition, counting separately each of the 7
 *paryāyas* of our last hymn (h. 5), makes for that book a total of 11

@@ -4,7 +4,7 @@ title = "Nuptial Hymns."
 +++
 
 
-​
+
 
 Book XIV.
 
@@ -58,7 +58,7 @@ is in fact divided into two hymns, each of which coincides with an
 *anuvāka*, as is the case with books xii. and xiii. The Old Anukr. seems
 to offer no evidence either for or against the division into hymns.⌋
 
-​
+
 
 ⌊The mss. seem to support the division of the book into two hymns: thus,
 at the end of *anuvāka* 1, several mss. say *anuvāke arthasūkta 1; ṛcā*
@@ -123,7 +123,7 @@ vivāhamantrāśiṣaḥ. parā dehy* (xiv. 1. 25) *aślīlā tanūr* (xiv. 1. 2
 *iti dve vadhūvāsaḥsaṁsparśamocanyāu. ye vadhva* (xiv. 2. 10) *iti
 yakṣmanāśanī. parā* (xiv. 2. 11) *dampatyoḥ paripanthināśanī*.⌋
 
-​
+
 
 ⌊The statements of the RV. Anukr. as to "deity" correspond quite closely
 with those just given, but with some differences: thus it says *-nindā*

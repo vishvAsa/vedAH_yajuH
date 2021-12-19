@@ -4,7 +4,7 @@ title = "Supplementary hymns."
 +++
 
 
-​
+
 
 Book XIX.
 
@@ -60,7 +60,7 @@ at p. 898, end of ¶2.⌋
 
 ⌊**Relation of the text of book xix. to the ancillary Vedic
 treatises.**—First, the Pada-paṭha appears to be very modern, as it is
-certainly very blundering and untrustworthy: ​see SPP's notes on pages
+certainly very blundering and untrustworthy: see SPP's notes on pages
 410 and 460 and especially 543, and W's note on hymn 68, and observe,
 for example, the wild resolution of *vármā sīvyadhvám* as *várma: asi:
 vi॰adhvám* at 58. 4. The corruptness of the text made Whitney doubt (in
@@ -133,7 +133,7 @@ of five verses as intended by *kā́mas tád*.⌋
 ⌊**Citations by pratīka**.—The three phrases, (1) *devásya tvā savitúḥ
 prasavé* and (2) *aśvínor bāhúbhyām* and (3) *pūṣṇó hástābhyām*, are
 unvaried as between the AV. text and the citations by Kāuś. (in full at
-2. 1 and 2. 21 and 137. 18: the citation at 91. 3 is ​by *pratīka* with
+2. 1 and 2. 21 and 137. 18: the citation at 91. 3 is by *pratīka* with
 *áyuto ‘hám*) and by Vāit. (in full at 3. 9): what follows *hástābhyām*
 is, at Kāuś. 2. 1, *agnáye júṣṭaṁ nír vapāmi* (as at TS. i. 1. 4²); at
 2. 21 and in Vāit., it is *prasūtaḥ praśiṣā paristṛṇāmi* (Vāit.
@@ -199,7 +199,7 @@ they are Vāit. 1. 18 and 19, citing the *apratiratha* hymn and the
 citing *sahásrabāhus*. Of these, the *devásya tvā*, the
 "*jīvā́s*-verses," and the *ā́ devā́nām* are cited also by Kāuś. and have
 already been sufficiently discussed. Of the remaining three: the
-*puruṣa* hymn (*sahásrabāhus:* xix. 6) ​appears also in RV.VS.TA.SV.;
+*puruṣa* hymn (*sahásrabāhus:* xix. 6) appears also in RV.VS.TA.SV.;
 and the verse *yád agne yā́ni kā́ni cit* (xix. 64. 3) is common to RV.,
 and to the Yajus texts, MS.K.Kap.TS.VS.; while the *apratiratka* hymn
 (*āśúḥ śíśānaḥ:* xix. 13. 2 ff.) is found in RV. and the Yajus texts
