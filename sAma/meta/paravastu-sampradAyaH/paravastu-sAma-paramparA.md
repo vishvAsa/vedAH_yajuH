@@ -5,7 +5,7 @@ unicode_script: devanagari
 
 ## परिचयः
 - जैमिनीया वयम् इति कथयन्ति गुरुचरणाः, किन्तु दक्षिणद्राविडजैमिनीयगानाद् भिद्यते तदीयं गानम्। तथा द्राह्यायणसूत्रानुयानिनस्ते - न जैमिनीयसूत्रस्य।
-- यथा ऽत्रोच्यते - "Their fore fathers hailed from Azhvarthirunagari, Thirunelveli Dist., Tamil Nadu, and the family migrated to Gutala (on the banks of godAvarI) about 200 years back."
+- यथा ऽत्रोच्यते - "Their fore fathers hailed from Azhvar-thiru-nagari, Thiru-nelveli Dist., Tamil Nadu, and the family migrated to Gutala (on the banks of godAvarI) about 200 years back."
 
 ## परवस्तुरामानुजः
 
