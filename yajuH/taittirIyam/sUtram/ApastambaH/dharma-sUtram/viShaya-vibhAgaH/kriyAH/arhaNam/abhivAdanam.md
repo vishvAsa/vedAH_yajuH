@@ -32,8 +32,6 @@ unicode_script: devanagari
 १४१४३०   
 १४१४३१   
 
-१४
-
 १४१४११   
 १४१४१२  
 १४१४१३  
