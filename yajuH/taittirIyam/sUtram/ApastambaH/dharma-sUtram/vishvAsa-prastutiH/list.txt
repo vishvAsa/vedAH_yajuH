@@ -122,7 +122,8 @@ list.txt
 23_akrodhanaH.md
 24_anasUyuH.md
 25_sarvaM_lAbhamAharangurave_sAyam.md
-27_strINAm_pratyAchaxANAnAM_samAhito.md
+26_strINAm_pratyAchaxANAnAM_samAhito.md
+27_nAnumAnena_bhaixam.md
 28_bhavatpUrvayA_brAhmaNo_bhixeta.md
 29_bhavadmadhyayA_rAjanyaH.md
 30_bhavadantyayA_vaishyaH.md
@@ -1141,6 +1142,7 @@ list.txt
 10_yathAshruti_vihAre_9.md
 11_kAmamAtmAnam_bhAryAm_putraM.md
 12_tathA_chAtmano-nuparodha~N_kuryAdyathA.md
+13_ashTau_grAsAH.md
 
 ./2/05:
 10
@@ -1220,11 +1222,13 @@ list.txt
 03_pUrvavatyAmasaMskRtAyAM_varNAntare_cha.md
 04_tatrApi_doShavAnputra_eva.md
 05_utpAdayituH_putra_iti.md
-07_athApyudAharanti_idAnImevAha~n_janaka.md
+06_athApyudAharanti_idAnImevAha~n_janaka.md
+07_dRShTo_dharmavyatikramas_sAhasam.md
 08_teShAn_tejovisheSheNa_pratyavAyo.md
 09_tadanvIxya_prayunjAnaH_sIdatyavaraH.md
 10_dAna~N_krayadharmashchApatyasya_na.md
-12_vivAhe_duhitRmate_dAna~N.md
+11_vivAhe_duhitRmate_dAna~N.md
+12_ekadhanena_jyeShTham.md
 
 ./2/06/14:
 01_jIvanputrebhyo_dAyaM_vibhajetsama~N.md
