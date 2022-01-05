@@ -104,8 +104,14 @@ list.txt
 
 ./1/01/03:
 01_mAnjiShThaM_rAjanyasya.md
-03_uttarIyam_kambalaH_hAriNam.md
+02_hAridram_vaishyasya.md
+03_hAriNam.md
 04_kRShNa~n_ched_anupastIrNAsanashAyI.md
+05_rauravM_rAjanyasya.md
+06_bastAjinaM_vaishyasya.md
+07_AvikaM_sArvavarNikam.md
+08_kambalashcha.md
+09_brahmavRuddhimicchan.md
 10_ajinan_tvevottaran_dhArayet.md
 11_anRttadarshI.md
 12_sabhAH_samAjAMsh_chAgantA.md
@@ -361,7 +367,8 @@ list.txt
 09_satreShu_tu_vachanAd.md
 10_AchArye_trInahorAtrAnityeke.md
 11_shrotriyasaMsthAyAmaparisaMvatsarAyAmekAm.md
-13_sabrahmachAriNItyeke_12_.md
+12_sabrahmachAriNItyeke.md
+13_shrotriyAbhyAgame.md
 14_adhyApayedvA.md
 15_gurusannidhau_chAdhIhi_bho.md
 16_adhyApayedvA.md
@@ -645,12 +652,15 @@ list.txt
 33_yashcha_sarvAnvarjayate_sarvAnnI.md
 
 ./1/06/19:
-02_matta_unmatto_baddho.md
+01_matta_unmatto_baddho.md
+02_ka_AshyAnnaH.md
 03_ya_Ipsed_iti.md
 04_puNya_iti_kautsaH.md
-06_yaH_kashchid_dadyAditi.md
+05_yaH_kashchid_dadyAditi.md
+06_yadi_hi_rajaH.md
 07_shuddhA_bhixA_bhoktavyA.md
-09_sarvatopetaM_vArShyAyaNIyam_8.md
+08_sarvatopetaM_vArShyAyaNIyam.md
+09_puNyasyepsato.md
 10_puNyasyApy_anIpsato_na.md
 11_yataH_kutashchAbhyudyatam_bhoktavyam.md
 12_nAnaniyogapUrvamiti_hArItaH.md
@@ -720,7 +730,8 @@ list.txt
 01_Atman_pashyan_sarvabhUtAni.md
 02_nipuNo-NIyAnbisorNAyA_yaH_sarvamAvRtya.md
 03_doShANAn_tu_vinirghAto.md
-05_atha_bhUtadAhIyAndoShAnudAhariShyAmaH_4.md
+04_atha_bhUtadAhIyAndoShAnudAhariShyAmaH.md
+05_krodho_harSho.md
 06_akrodho-harSho-roSho-lobho-moho-dambho-drohaH_satyavachanamanatyAsho-paishunamanasUyA_saMvibhAgastyAga.md
 
 ./1/09:
@@ -914,7 +925,8 @@ list.txt
 09_pAlAshamAsanam_pAduke_dantapraxAlanamiti.md
 10_stuti~n_cha_guroH.md
 11_A_nishAyA_jAgaraNam.md
-13_anadhyAyo_nishAyAmanyatra_dharmopadeshAchChiShyebhyaH.md
+12_anadhyAyo_nishAyAmanyatra_dharmopadeshAchChiShyebhyaH.md
+13_manasA_vA.md
 14_Urdhvam_ardharAtrAd_adhyApanam.md
 15_nApararAtramutthAyAnadhyAya_iti_saMvishet.md
 16_kAmamapash_shayIta.md
@@ -1139,7 +1151,8 @@ list.txt
 06_nAnarhadbhyo_dadyAd_ity.md
 07_upetaH_strINAmanupetasya_chochChiShTaM.md
 08_sarvANyudakapUrvANi_dAnAni.md
-10_yathAshruti_vihAre_9.md
+09_yathAshruti_vihAre.md
+10_ye_nityA_bhAktikAs.md
 11_kAmamAtmAnam_bhAryAm_putraM.md
 12_tathA_chAtmano-nuparodha~N_kuryAdyathA.md
 13_ashTau_grAsAH.md
@@ -1153,18 +1166,20 @@ list.txt
 01_bhixaNe_nimittamAchAryo_vivAho.md
 02_tatra_guNAnsamIxya_yathAshakti.md
 03_indriyaprItyarthasya_tu_bhixaNamanimittam.md
-04_svakarma_brAhmaNasyAdhyayanamadhyApanamyajno_yAjanan.md
-06_anyachchAparigRhItam_5_etAnyeva.md
-07_xatriyavadvaishyasya_daNDayuddhavarja~N_kRShigoraxyavANijyAdhikam.md
-08_nAnanUchAnamRtvijaM_vRNIte_na.md
-09_ayAjyo-nadhIyAnaH.md
-10_yuddhe_tadyogA_yathopAyamupadishanti.md
-11_nyastAyudhaprakIrNakeshaprAnjaliparA~NAvRttAnAmAryA_vadham_parichaxate.md
-12_shAstrairadhigatAnAmindri_yadaurbalyAdvipratipannAnAM_shAstA.md
-13_tasya_chechChAstramatipravarteranrajAna~N_gamayet.md
-14_rAjA_purohitan_dharmArthakushalam.md
-15_sa_brAhmaNAnniyunjyAt.md
-16_balavisheSheNa_vadhadAsyavarjan_niyamairupashoShayet.md
+04_na_tad_Adriyeta.md
+05_svakarma_brAhmaNasya.md
+06_anyachchAparigRhItam.md
+07_etAnyeva.md
+08_xatriyavadvaishyasya_daNDayuddhavarja~N_kRShigoraxyavANijyAdhikam.md
+09_nAnanUchAnamRtvijaM_vRNIte_na.md
+10_ayAjyo-nadhIyAnaH.md
+11_yuddhe_tadyogA_yathopAyamupadishanti.md
+12_nyastAyudhaprakIrNakeshaprAnjaliparA~NAvRttAnAmAryA_vadham_parichaxate.md
+13_shAstrairadhigatAnAmindri_yadaurbalyAdvipratipannAnAM_shAstA.md
+14_tasya_chechChAstramatipravarteranrajAna~N_gamayet.md
+15_rAjA_purohitan_dharmArthakushalam.md
+16_sa_brAhmaNAnniyunjyAt.md
+17_balavisheSheNa_vadhadAsyavarjan_niyamairupashoShayet.md
 
 ./2/05/11:
 01_itareShAM_varNAnAmA_prANaviprayogAtsamavexya.md
@@ -1199,10 +1214,12 @@ list.txt
 08_anujnApya_vAtikrAmet.md
 09_agnimapashcha_na_yugapaddhArayIta.md
 10_nAnAgnInA~n_cha_sannivApaM.md
-12_pratimukhamagnimAhriyamANam_nApratiShThitam_bhUmau.md
+11_pratimukhamagnimAhriyamANam_nApratiShThitam_bhUmau.md
+12_pRShThatash_chAtmanaH.md
 13_svapann_abhinimrukto_nAshvAn.md
 14_svapann_abhyudito_nAshvAn.md
-16_AtamitoH_prANamAyachChedityeke_15.md
+15_AtamitoH_prANamAyachChedityeke.md
+16_svapnam_vA_pApakam_dRushtvA.md
 17_arthaM_vA_siShAdhayiShan.md
 18_niyamAtikrame_chAnyasmin.md
 19_doShaphalasaMshaye_na_tatkartavyam.md
@@ -1466,7 +1483,8 @@ list.txt
 19_sarva~n_chopAMshu_saha.md
 20_nAraNyamabhyAshrAvayet.md
 21_agnyarthaM_sharaNam.md
-23_AkAshe_svayam_22.md
+22_AkAshe_svayam.md
+23_anupastIrNe_shayyAsane.md
 24_nave_sasye_prApte.md
 
 ./2/09/23:
@@ -1561,7 +1579,8 @@ list.txt
 12_evamabhyAse_pAdaH_pAdaH.md
 13_chaturthe_sarvam.md
 14_jihvAchChedanaM_shUdra_syAryan.md
-16_vAchi_pathi_shayyAyAmAsana.md
+15_vAchi_pathi_shayyAyAmAsana.md
+16_puruShavadhe_steye.md
 17_chaxunirodhastveteShu_brAhmaNasya.md
 18_niyamAtikramaNamanyaM_vA_rahasi.md
 19_A_samApatteH.md
