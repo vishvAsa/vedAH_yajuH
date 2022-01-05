@@ -1,8 +1,10 @@
 ---
-title: लोकसङ्ग्रहः  
-unicode_script: devanagari  
+tags:
+- लोकसङ्ग्रहः
+title: लोकसङ्ग्रहः
+unicode_script: devanagari
 
-tags: [लोकसङ्ग्रहः]
 ---
 
-२८२०२१  
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/21_sangrahItA_cha_manuShyAn.md"  newLevelForH1="4"  > </div>
+  

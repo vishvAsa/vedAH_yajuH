@@ -1,5 +1,6 @@
 ---
-title: +शौचम् 
-unicode_script: devanagari  
+title: +शौचम्
+unicode_script: devanagari
+
 ---
 

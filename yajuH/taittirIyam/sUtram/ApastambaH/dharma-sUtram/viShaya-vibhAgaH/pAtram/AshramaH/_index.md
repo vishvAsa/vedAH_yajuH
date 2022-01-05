@@ -1,5 +1,6 @@
 ---
-title: +आश्रमः 
-unicode_script: devanagari  
+title: +आश्रमः
+unicode_script: devanagari
+
 ---
 

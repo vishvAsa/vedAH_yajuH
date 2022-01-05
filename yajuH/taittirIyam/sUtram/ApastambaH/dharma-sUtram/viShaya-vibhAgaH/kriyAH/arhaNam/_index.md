@@ -1,5 +1,6 @@
 ---
-title: +अर्हणम् 
-unicode_script: devanagari  
+title: +अर्हणम्
+unicode_script: devanagari
+
 ---
 

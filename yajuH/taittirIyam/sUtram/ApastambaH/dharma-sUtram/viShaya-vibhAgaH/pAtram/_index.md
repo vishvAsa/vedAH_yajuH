@@ -1,5 +1,6 @@
 ---
-title: +पात्राणि 
-unicode_script: devanagari  
+title: +पात्राणि
+unicode_script: devanagari
+
 ---
 
