@@ -1,5 +1,6 @@
 ---
-title: +क्रियाः 
-unicode_script: devanagari  
+title: +क्रियाः
+unicode_script: devanagari
+
 ---
 
