@@ -1,0 +1,5 @@
++++
+title = "०८ १० तञ् चतुर्थ्याऽपररात्र"
+
++++
+In the last part of the fourth night he takes up the (staff) with the next two (verses; M. I, 10, 1-2), washes it and put it away; then (the ceremonies) from the putting of wood on the fire down to the Agyabhaga oblations (are performed), and while she takes hold of him, he sacrifices the oblations (indicated by the) next (Mantras; M. I, 10, 3-9); then he enters upon the performance of the Gaya and following oblations, and performs (the rites) down to the sprinkling (of water) round (the fire). Then he makes her sit down to the west of the fire, facing the east, and pours some Agya of the remains (of those oblations) on her head with the (three) Vyahritis and the word Om as the fourth (M. I, 10, 10-13). Then they look at each other with the next two verses (M. I, 11, 1-2), according to the characteristics (contained in those verses); with the next verse (M. I, 11, 3) he besmears the region of their hearts with remains of Agya; then he should murmur the next three verses (I, 11, 4-6), and should murmur the rest (of the Anuvaka; I, 11, 7-11) when cohabiting with her.

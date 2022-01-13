@@ -1,0 +1,5 @@
++++
+title = "११ २२ एवमन्यस्मिन्नपि"
+
++++
+In the same way also on another (fire, when the Upanayana fire is kept no longer), Fetching fuel regularly from the forest.

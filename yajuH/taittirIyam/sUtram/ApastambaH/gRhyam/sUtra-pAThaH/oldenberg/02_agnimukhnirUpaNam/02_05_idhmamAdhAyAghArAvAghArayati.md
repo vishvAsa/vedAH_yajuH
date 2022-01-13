@@ -1,0 +1,5 @@
++++
+title = "०२ ०५ इध्ममाधायाघारावाघारयति"
+
++++
+[*5] Having put a piece of wood on the fire, he offers the two Aghara oblations as at the sacrifices of the new and full moon, silently.

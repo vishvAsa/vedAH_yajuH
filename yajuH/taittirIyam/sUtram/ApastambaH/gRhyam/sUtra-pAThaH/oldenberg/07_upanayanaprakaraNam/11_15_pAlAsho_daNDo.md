@@ -1,0 +1,5 @@
++++
+title = "११ १५ पालाशो दण्डो"
+
++++
+[*16] The staff of a Brahmana is made of Palasa wood, that of a Raganya of a branch of the Nyagrodha tree, so that the downward-turned end (of the branch) forms the tip (of the staff), that of a Vaisya of Badara or Udumbara wood.

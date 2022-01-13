@@ -1,0 +1,5 @@
++++
+title = "०५ २५ ते उत्तराभिरभियाति"
+
++++
+And when they pass by bathing-places, posts, or cross-roads, let him murmur the next (verse; M. I, 6, 12).

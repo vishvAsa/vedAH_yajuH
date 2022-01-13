@@ -1,0 +1,5 @@
++++
+title = "१७ ०७ पालाशं शमीमयम्"
+
++++
+He sets a piece of Palasa wood or of Sami wood on fire, takes the fire up (in a dish) with the next verse (II, 15, 12), carries it to the house with the next Yagus (II, 15, 13), and places the fire in the north-eastern part of the house with the next (II, 15, 14).

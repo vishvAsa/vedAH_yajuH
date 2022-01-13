@@ -1,0 +1,5 @@
++++
+title = "०५ ०७ होमश्चोत्तरया यथा"
+
++++
+[*7] Having gone round the fire, with the right side turned towards it, with the next three (verses; M. I, 5, 3-5) he makes her tread on the stone as above (M. I, 5, 6).

@@ -1,0 +1,5 @@
++++
+title = "०२ १२ सर्व-ऋतवो विवाहस्य"
+
++++
+All seasons are fit for marriage with the exception of the two months of the sisira season, and of the last summer month.
