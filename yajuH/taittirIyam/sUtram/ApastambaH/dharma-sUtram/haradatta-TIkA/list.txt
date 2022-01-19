@@ -475,7 +475,7 @@ list.txt
 
 ./1/04/14:
 01_agnihotramatithayaH.md
-02_yachchAnyadevam_yuktam.md
+02_yachchAnyadevaM_yuktam.md
 03_adhyayanArthena_ya~n_chodayenna.md
 04_na_chAsmindoSham_pashyet.md
 05_yadRchChAyAmasaMvRttau_gatireva_tasmin.md
@@ -1392,7 +1392,7 @@ list.txt
 06_askandayan.md
 07_nApajahIta.md
 08_apajahIta_vA.md
-09_kRtsna~N_grasIta.md
+09_kRtsna~N_grAsa~N_grasIta.md
 10_na_cha_mukhashabda~N.md
 11_pANi~n_cha_nAvadhUnuyAt.md
 12_Achamya_chordhvau_pANI.md
