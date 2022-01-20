@@ -19,3 +19,6 @@ There are more circumstantial points that all add up.
 - Other mentioned by Tilak like the long dawns. 
 
 - Thus, when we put it all together, it makes sense that original RV was not composed in the late/post-Harappan Punjab but the steppes.
+
+## Related articles
+- [I-Ir split timing](/notes/history/homo/sapiens/Aryan/satem/indo-iranian/articles/MT_lekhAH/split-timing/) 
