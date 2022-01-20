@@ -4,7 +4,9 @@ unicode_script = "devanagari"
 +++
 
 ## प्रवेशः
-तैत्तिरीयोपनिषत् ३, वारुण्युपनिषत् २, भृगुवल्ली
+तैत्तिरीयोपनिषत् १, संहितोपनिषत्, शिक्षावल्ली  
+तैत्तिरीयोपनिषत् २, वारुण्युपनिषत् १, ब्रह्मानन्दवल्ली  
+तैत्तिरीयोपनिषत् ३, वारुण्युपनिषत् २, भृगुवल्ली  
 
 <div class="js_include" url="aMshAH/shanno_mitraH_prArambhe/"  newLevelForH1="2" includeTitle="true"> </div>  
 
