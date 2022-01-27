@@ -1,0 +1,8 @@
++++
+title = "21 एकाग्निरनिकेतः स्यादशर्माशरणो मुनिः"
+
++++
+21. he shall keep one fire only, have no house, enjoy no pleasures, have no protector, observe silence, uttering speech on the occasion of the daily recitation of the Veda only. [^10] 
+
+
+[^10]:  'But which is that one fire? Certainly not the Gṛhya-fire, because he must remain chaste. Therefore the meaning intended is, "He shall offer a Samidh morn and evening in the common fire, just as formerly, (during his studentship)." Another commentator says, "Gautama declares that he shall kindle a fire according to the rule of the Śrāmanaka Sūtra. The Śrāmanaka Sūtra is the Vaikhānasa Sūtra. Having kindled a fire in the manner prescribed there, he shall sacrifice in it every morning and every evening."'--Haradatta. See also Manu VI, 4; Yājñ. III, 45.
