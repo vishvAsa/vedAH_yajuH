@@ -2,7 +2,7 @@
 title = "११ १७ स्मृतञ् च"
 
 +++
-स्मृतं च म" इत्येतद्वाचयित्वा
+"स्मृतं च म" इत्य् एतद्वाचयित्वा
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md"  newLevelForH1="2" includeTitle="false"> </div>
 
