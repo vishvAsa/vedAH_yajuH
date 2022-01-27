@@ -25,9 +25,11 @@ unicode_script: devanagari
   
 
 ## वेषः
-### मौञ्जी
+### मेखला
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/33_maunjI_mekhalA_trivRd.md"  newLevelForH1="4"  > </div>
-    
+
+<div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/34_jyA_rAjanyasya.md"  newLevelForH1="4"  > </div>
+
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/35_maunjI_vAyomishrA.md"  newLevelForH1="4"  > </div>
   
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/37_sairI_tAmalI_vetyeke.md"  newLevelForH1="4"  > </div>
