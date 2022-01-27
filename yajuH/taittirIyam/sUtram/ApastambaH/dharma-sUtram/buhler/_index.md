@@ -1,3 +1,3 @@
 +++
-title = "+Buhler"
+title = "+Bühler"
 +++
