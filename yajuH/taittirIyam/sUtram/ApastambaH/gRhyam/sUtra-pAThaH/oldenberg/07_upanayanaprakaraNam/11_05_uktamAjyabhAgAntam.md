@@ -2,4 +2,7 @@
 title = "११ ०५ उक्तमाज्यभागान्तम्"
 
 +++
-[*5] (The rites) down to the Agyabhagas have been prescribed.
+5. [^1]  (The rites) down to the Ājyabhāgas have been prescribed.
+
+
+[^1]:  11, 5. See above, Section 10, Sūtra 9.

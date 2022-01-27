@@ -2,4 +2,4 @@
 title = "१८ ०४ अगदो भवति"
 
 +++
-Then he will get well.
+4. Then he will get well.

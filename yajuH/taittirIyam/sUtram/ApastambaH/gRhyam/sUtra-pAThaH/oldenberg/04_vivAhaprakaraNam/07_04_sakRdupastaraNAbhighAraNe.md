@@ -2,4 +2,4 @@
 title = "०७ ०४ सकृदुपस्तरणाभिघारणे"
 
 +++
-The 'spreading under' and the sprinkling over (of Agya are done) once; two Avadanas (or cut-off portions are taken).
+4. The 'spreading under' and the sprinkling over (of Ājya are done) once; two Avadānas (or cut-off portions are taken).

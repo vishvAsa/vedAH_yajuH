@@ -2,4 +2,7 @@
 title = "०३ १० एतावद्गोरालम्भस्थानमतिथिः"
 
 +++
-[*10] Let (the wooer) avoid in his wooing a girl that sleeps, or cries, or has left home.
+10. [^5]  Let (the wooer) avoid in his wooing a girl that sleeps, or cries, or has left home.
+
+
+[^5]:  This Sūtra forms a half-śloka.

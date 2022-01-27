@@ -2,4 +2,4 @@
 title = "०२ १४ तथा मङ्गलानि"
 
 +++
-And all auspicious performances.
+14. And all auspicious performances.

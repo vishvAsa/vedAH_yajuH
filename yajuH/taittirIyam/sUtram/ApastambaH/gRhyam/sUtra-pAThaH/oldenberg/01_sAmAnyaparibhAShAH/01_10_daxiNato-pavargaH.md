@@ -2,4 +2,4 @@
 title = "०१ १० दक्षिणतोऽपवर्गः"
 
 +++
-Ending in the south.
+10. Ending in the south.

@@ -2,4 +2,4 @@
 title = "०२ ०९ लौकिकानाम् पाकयज्ञशब्दः"
 
 +++
-The designation 'Pakayagna' is used of ceremonies connected with worldly life.
+9. The designation 'Pākayajña' is used of ceremonies connected with worldly life.

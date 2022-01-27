@@ -2,4 +2,4 @@
 title = "०९ ०७ वश्यो भवति"
 
 +++
-Thus he will be subject to her.
+7. Thus he will be subject to her.

@@ -2,4 +2,4 @@
 title = "२२ ०३ श्वोभूते दर्भेण"
 
 +++
-On the following day he touches a cow with a Darbha blade, with the words, 'I touch thee agreeable to the Fathers.'
+3. On the following day he touches a cow with a Darbha blade, with the words, 'I touch thee agreeable to the Fathers.'

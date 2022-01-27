@@ -2,4 +2,4 @@
 title = "०१ १८ एकैकशः पितृसंयुक्तानि"
 
 +++
-One by one, if to the Fathers.
+18. One by one, if to the Fathers.

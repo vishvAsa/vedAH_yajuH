@@ -2,4 +2,4 @@
 title = "११ ०३ शेषम् परो"
 
 +++
-The other murmurs the rest (of the Anuvaka),
+3. The other murmurs the rest (of the Anuvāka),

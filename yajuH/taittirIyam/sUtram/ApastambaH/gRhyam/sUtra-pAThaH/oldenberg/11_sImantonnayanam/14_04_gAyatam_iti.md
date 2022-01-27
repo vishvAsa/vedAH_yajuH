@@ -2,4 +2,4 @@
 title = "१४ ०४ 'गायतम्' इति"
 
 +++
-He says to two lute-players, 'Sing!'
+4. He says to two lute-players, 'Sing!'

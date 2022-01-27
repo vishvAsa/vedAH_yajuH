@@ -2,4 +2,4 @@
 title = "०७ २० स्थालीपाकवद्दैवतम् देवतैव"
 
 +++
-The deities are the same as at the Sthalipaka (just described).
+20. The deities are the same as at the Sthālīpāka (just described).

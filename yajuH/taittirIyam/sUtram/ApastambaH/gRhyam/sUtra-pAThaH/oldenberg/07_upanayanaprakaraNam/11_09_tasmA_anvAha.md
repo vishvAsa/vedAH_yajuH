@@ -2,5 +2,4 @@
 title = "११ ०९ तस्मा अन्वाह"
 
 +++
-He recites (the Savitri) to him, 'That (glorious splendour) of Savitri' (Taitt. Samh. I, 5, 6, 4; M. 4, 13);  
-Pada by Pada, hemistich by hemistich, and the whole (verse).
+9. He recites (the Sāvitrī) to him, 'That (glorious splendour) of Savitṛ' (Taitt. Saṃh. I, 5, 6, 4; M. 4, 13);

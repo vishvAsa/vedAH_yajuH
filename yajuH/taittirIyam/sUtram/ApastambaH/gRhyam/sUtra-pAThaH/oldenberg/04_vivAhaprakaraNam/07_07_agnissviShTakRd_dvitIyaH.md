@@ -2,4 +2,4 @@
 title = "०७ ०७ अग्निस्स्विष्टकृद् द्वितीयः"
 
 +++
-Agni Svishtakrit is the second (deity).
+7. Agni Sviṣṭakṛt is the second (deity).

@@ -2,4 +2,4 @@
 title = "२० ०९ प्रथमोत्तमौ वा"
 
 +++
-Or the first and last (Anuvaka).
+9. Or the first and last (Anuvāka).

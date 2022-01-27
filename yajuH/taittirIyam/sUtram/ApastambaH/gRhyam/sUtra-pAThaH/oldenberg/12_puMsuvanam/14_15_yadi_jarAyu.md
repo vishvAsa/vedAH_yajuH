@@ -2,4 +2,4 @@
 title = "१४ १५ यदि जरायु"
 
 +++
-Yadi garayu na pated evamvihitabhir evadbhir uttarabhyam (II, 11, 18. 19) avokshet.
+15. Yadi jarāyu na pated evaṃvihitābhir evādbhir uttarābhyām (II, 11, 18. 19) avokṣet.

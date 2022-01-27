@@ -2,4 +2,4 @@
 title = "२० १३ ईशानवदावाहनम् "
 
 +++
-He has (the Kshetrapati) led to his place in the same way as the Isana (see above, Sutra 1).
+13. He has (the Kṣetrapati) led to his place in the same way as the Īśāna (see above, Sūtra 1).

@@ -2,4 +2,4 @@
 title = "०७ ०८ सकृदुपस्तरणावदाने"
 
 +++
-(At the Svishtakrit oblation) the 'spreading under' and taking an Avadana are done once, the sprinkling over (of Agya) twice.
+8. (At the Sviṣṭakṛt oblation) the 'spreading under' and taking an Avadāna are done once, the sprinkling over (of Ājya) twice.
