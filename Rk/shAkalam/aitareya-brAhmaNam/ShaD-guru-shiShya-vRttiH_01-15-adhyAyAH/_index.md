@@ -1,0 +1,21 @@
++++
+title = "+षड्गुरुशिष्य-वृत्तिः"
+unicode_script = "devanagari"
+
++++
+
+
+UNIVERSITY OF TRAVANCORE. 
+SANSKRIT SERIES NO. CXLIX. 
+
+VITH THE VRTTI SUKHAPRADĀ 
+OF 
+SADGURUSIŠYA. 
+
+EDITED BY 
+R: Anantakrsna Sastri, 
+
+VOLTI 15 ADHYAYAS, 
+
+UNIVERSITY OF TRAVANCORE. 
+SANSKRIT SERIES NO. CXLIX.: 
