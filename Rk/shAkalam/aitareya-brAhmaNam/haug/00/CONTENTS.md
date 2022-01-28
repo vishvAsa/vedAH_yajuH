@@ -31,7 +31,7 @@ their Places in the Prāchîna-vamsa to the Uttará Vedi
 
 ... 4048 SECOND BOOK. CHAPTER 1. The Animal Sacrifice 
 
-... 49 60 CHAPTER 2. The remaining rites of the animal sacrifice. The Prā taranuyå ka 
+... 49 60 CHAPTER 2. The remaining rites of the animal sacrifice. The Prā taranuyā ka 
 
 of the Some day 
 
@@ -47,7 +47,7 @@ R
 
 ... 70- 88 CHAPTER 4. The Dvidevatya Graha libations, i.e., the libations poured from 
 
-the Aindravāyava, Maitråvaruna and Asvina Grahas. Ritayajas. The Silent Praise 
+the Aindravāyava, Maitrāvaruna and Asvina Grahas. Ritayajas. The Silent Praise 
 
 . 88— 98 CIIAPTER 5. The different parts of the Ajya sastra : Ahāva, Nivid, Sakta ... 96-106 
 
@@ -107,7 +107,7 @@ days
 
 sacrifice 
 
-... 240-247 CHAPTER 5. The Agnihotram. On the duties of the Brahmå priest ... * 247-.-257 
+... 240-247 CHAPTER 5. The Agnihotram. On the duties of the Brahmā priest ... * 247-.-257 
 
 SIXTH BOOK. CHAPTER 1. On the offices of the Grāvastut and Subrhamanya 
 
@@ -119,7 +119,7 @@ Yajyas of the seven Hotars concluding this ceremony. The two difforeut kinds of 
 
 - 207-278 CHAPTER 4. The Sampāta hymns. The Válakhilyas. The Dürohanam ... 276--288 CHAPTER 5. The so-called Silpas, viz., the Nābhānediṣtba, Narasamsa, Val 
 
-akhilya, Sukirti, Vriṣåkapi, and Evayāmarut hymns, The Kuntåpa Sastra 288--300 
+akhilya, Sukirti, Vriṣākapi, and Evayāmarut hymns, The Kuntāpa Sastra 288--300 
 
 SEVENTH BOOK. CHAPTAR 1. The distribution of the different parts of the sacrificial animal 
 
