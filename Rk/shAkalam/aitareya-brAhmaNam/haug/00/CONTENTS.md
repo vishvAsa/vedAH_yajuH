@@ -15,9 +15,9 @@ Preface Contents
 
 --. vii-viii Introduction 
 
-... ix--1v FIRST BOOK. CHAPTER 1. The Dîkṣanîya Isti, with the Initiatory Rites 
+... ix--1v FIRST BOOK. CHAPTER 1. The Dīkṣanīya Isti, with the Initiatory Rites 
 
-1- 11 CHAPTER 2. Prāyanîya İṣçi 
+1- 11 CHAPTER 2. Prāyanīya İṣçi 
 
 ... 11-18 CHAPTER 3, The buying and bringing of the Soma. The producing of Fire by 
 
@@ -27,7 +27,7 @@ friction. The Atithya Iṣti ..
 
 ... 28 40 CHAPTER 5. The ceremonies of carrying the fire, Soma and the offerings from 
 
-their Places in the Prāchîna-vamsa to the Uttará Vedi 
+their Places in the Prāchīna-vamsa to the Uttará Vedi 
 
 ... 4048 SECOND BOOK. CHAPTER 1. The Animal Sacrifice 
 
@@ -47,7 +47,7 @@ R
 
 ... 70- 88 CHAPTER 4. The Dvidevatya Graha libations, i.e., the libations poured from 
 
-the Aindravāyava, Maitrāvaruna and Asvina Grahas. Ritayajas. The Silent Praise 
+the Aindravāyava, Maitrāvaruna and Aśvina Grahas. Ritayajas. The Silent Praise 
 
 . 88— 98 CIIAPTER 5. The different parts of the Ajya sastra : Ahāva, Nivid, Sakta ... 96-106 
 
@@ -69,7 +69,7 @@ men are unfit to oficiate as sacrificial priests, The offerings to the Devis and
 
 FOURTH BOOK. CHAPTER 1. On the Solaśi and Atirātra sacrifices 
 
-... 173-181 CHAPTER 2. The Asvina sastra. The beginning day of the Gavān ayanam. 
+... 173-181 CHAPTER 2. The Aśvina sastra. The beginning day of the Gavān ayanam. 
 
 The use of the Rathantara and Brihat Samans and their kindreds. The Mahavrata day of the Sattra 
 
@@ -115,7 +115,7 @@ SIXTH BOOK. CHAPTER 1. On the offices of the Grāvastut and Subrhamanya
 
 *. 203-207 CHAPTER 3. The hymos for lifting tho Chamasa (Soma cups). Tho Prasthita 
 
-Yajyas of the seven Hotars concluding this ceremony. The two difforeut kinds of Hotars, Explanation of some apparent anomalies in the per formances of the minor Hotris. The Jagatî lymns for Indra. Tho concluding verses of the minor Hotri-priests. On a peculiarity in the Sastras of the Achhavaka 
+Yajyas of the seven Hotars concluding this ceremony. The two difforeut kinds of Hotars, Explanation of some apparent anomalies in the per formances of the minor Hotris. The Jagatī lymns for Indra. Tho concluding verses of the minor Hotri-priests. On a peculiarity in the Sastras of the Achhavaka 
 
 - 207-278 CHAPTER 4. The Sampāta hymns. The Válakhilyas. The Dürohanam ... 276--288 CHAPTER 5. The so-called Silpas, viz., the Nābhānediṣtba, Narasamsa, Val 
 
@@ -125,7 +125,7 @@ SEVENTH BOOK. CHAPTAR 1. The distribution of the different parts of the sacrific
 
 among the priests 
 
-... 301-302 CHAPTER 2. The penances for mishaps to the performer of the Agnihotram ... 302 --314 CHAPTER 3. The story of Sunahsopa CHAPTER 4. The preliminary rites of the Rajasûya sacrifice 
+... 301-302 CHAPTER 2. The penances for mishaps to the performer of the Agnihotram ... 302 --314 CHAPTER 3. The story of Sunahsopa CHAPTER 4. The preliminary rites of the Rajasūya sacrifice 
 
 ... 323-330 CHAPTER 5. On the sacrificial drink which the King has to taste, instead of 
 
