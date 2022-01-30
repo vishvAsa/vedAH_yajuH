@@ -8,7 +8,11 @@ unicode_script = "devanagari"
 ऽश्विनो᳚र् बा॒हुभ्या᳚म्,
 पू॒ष्णो हस्ता᳚भ्या॒म् आ द॑दे ।
 
-## Keith
+<details><summary>Keith</summary>
+
 On the instigation of god Savitr,  
 I take thee with the arms of the Açvins,  
 with the hands of Pusan.
+</details>
+
+
