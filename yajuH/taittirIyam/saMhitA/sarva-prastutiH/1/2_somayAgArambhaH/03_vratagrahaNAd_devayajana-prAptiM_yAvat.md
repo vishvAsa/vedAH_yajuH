@@ -56,11 +56,14 @@ May it guide us safely according as we will.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 The gods, mind-born, mind-using,  
 The wise, the sons of wisdom,  
 May they guard us, may they protect us,  
 To them honour! to them hail!
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -77,11 +80,14 @@ To them honour! to them hail!
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 O Agni, be thou wakeful;  
 Let us be glad;  
 Guard us to prosperity;  
 Grant to us to wake again.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -96,10 +102,13 @@ Grant to us to wake again.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou, O Agni, art the guardian of vows,  
 Among the gods and men.  
 Thou [1] art to be invoked at our sacrifices.
+</details>
+
 
 ## सनीहारः
 _____
@@ -117,10 +126,13 @@ _____
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 All the gods have surrounded me,  
 Pusan with gain, Soma with a gift,  
 The god Savitr the giver of brightness.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -137,10 +149,13 @@ The god Savitr the giver of brightness.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 O Soma, give so much, and bear more hither.  
 May he that filleth never miss of fullness.  
 Let me not be parted with life.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -156,9 +171,12 @@ _____
 ##### भास्करटीका
 
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art gold;  
 be for my enjoyment. 
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -173,9 +191,12 @@ be for my enjoyment.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art raiment;  
 be for my enjoyment. 
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -189,9 +210,12 @@ be for my enjoyment.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art a cow;  
 be for my enjoyment. 
+</details>
+
 
 ## अनुदेशनम्
 ### विनियोगः
@@ -204,10 +228,13 @@ be for my enjoyment.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art a horse;  
 be for my enjoyment [2]. 
 _____
+</details>
+
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
 #### मन्त्रः
@@ -218,9 +245,12 @@ _____
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art a goat; be for my enjoyment. 
 _____
+</details>
+
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
 #### मन्त्रः
@@ -232,8 +262,11 @@ _____
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art a ram; be for my enjoyment.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -246,8 +279,11 @@ Thou art a ram; be for my enjoyment.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 To Vayu thee
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -260,8 +296,11 @@ To Vayu thee
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 to Varuna thee
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -274,8 +313,11 @@ to Varuna thee
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 to Nirrti thee
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -288,8 +330,11 @@ to Nirrti thee
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 to Rudra thee!
+</details>
+
 
 ## अपाम् उत्तरणम्
 
@@ -305,10 +350,13 @@ to Rudra thee!
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 O divine waters, son of the waters, the stream  
 Fit for oblation, mighty, most exhilarating,
 That stream of yours may I not step upon.
+</details>
+
 
 
 #### मन्त्रः
@@ -319,8 +367,11 @@ That stream of yours may I not step upon.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Along an unbroken web of earth may I go.
+</details>
+
 
 ## देवयजन-प्राप्तिः
 
@@ -340,9 +391,12 @@ Along an unbroken web of earth may I go.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 From good to better do thou advance.  
 May Brhaspati be thy leader
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -355,8 +409,11 @@ May Brhaspati be thy leader
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Then set him free, on the chosen spot of earth.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -370,8 +427,11 @@ Then set him free, on the chosen spot of earth.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Drive afar the foes with all thy strength.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -387,8 +447,10 @@ Drive afar the foes with all thy strength.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 We have come to the place on earth for sacrifice to the gods,  
 Wherein aforetime all the gods rejoiced.  
 Accomplishing (the rite) with Rc, Saman, and Yajus,  
 Let us rejoice in fullness of wealth, in sustenance.
+</details>

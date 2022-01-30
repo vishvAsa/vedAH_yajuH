@@ -20,11 +20,14 @@ short_title = "१२ उत्तरवेदीसंस्कारः"
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou I art the abode of riches for me;  
 thou art the resort of the afflicted for me;  
 protect me when in want;  
 protect me when afflicted.
+</details>
+
 
 ## स्फ्येन प्रहारः
 
@@ -39,8 +42,11 @@ protect me when afflicted.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -53,8 +59,11 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 come with the name of Ayus
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -67,8 +76,11 @@ come with the name of Ayus
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -83,9 +95,12 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second earth.  
 +++(include-स्थापनम् इष्यते।)+++
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -100,9 +115,12 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second ea
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third earth.  
 +++(include-स्थापनम् इष्यते।)+++
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -116,9 +134,12 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third ear
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art a lioness;  
 thou art a buffalo.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -132,8 +153,11 @@ thou art a buffalo.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Extend wide; let the lord of the sacrifice extend wide for thee.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -146,8 +170,11 @@ Extend wide; let the lord of the sacrifice extend wide for thee.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art firm.
+</details>
+
 
 ## अवोक्षणादिकम्
 
@@ -163,8 +190,11 @@ Thou art firm.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Be pure for the gods.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -178,8 +208,11 @@ Be pure for the gods.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 be bright for the gods.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -192,8 +225,11 @@ be bright for the gods.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 May the cry of Indra guard thee in front with the Vasus;
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -206,8 +242,11 @@ May the cry of Indra guard thee in front with the Vasus;
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 may the swift of mind guard thee on the right with the Pitrs;
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -220,8 +259,11 @@ may the swift of mind guard thee on the right with the Pitrs;
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 may the wise one guard thee behind with the Rudras;
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -234,8 +276,11 @@ may the wise one guard thee behind with the Rudras;
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 may Viçvakarman guard thee on the left with the Adityas.
+</details>
+
 
 ## व्याघारादिकम्
 ### विनियोगः
@@ -249,8 +294,11 @@ may Viçvakarman guard thee on the left with the Adityas.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art a lioness, overcoming rivals; hail!
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -263,8 +311,11 @@ Thou art a lioness, overcoming rivals; hail!
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art a lioness, bestowing fair offspring; hail!
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -277,8 +328,11 @@ Thou art a lioness, bestowing fair offspring; hail!
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art a lioness, [2] bestowing increase of wealth; hail!
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -291,8 +345,11 @@ Thou art a lioness, [2] bestowing increase of wealth; hail!
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art a lioness, winning (the favour of) the Adityas hail!
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -306,8 +363,11 @@ Thou art a lioness, winning (the favour of) the Adityas hail!
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art a lioness; bring the gods to the pious sacrificer; hail!
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -321,9 +381,12 @@ Thou art a lioness; bring the gods to the pious sacrificer; hail!
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 To beings thee!
 _____
+</details>
+
 ## परिधिस्थापनादिकम्
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -339,10 +402,13 @@ _____
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou containest all life, strengthen the earth;  
 thou restest firm, strengthen the atmosphere;  
 thou restest inviolable, strengthen the heaven.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -355,5 +421,8 @@ thou restest inviolable, strengthen the heaven.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art the ashes of Agni; thou art the rubble of Agni.
+
+</details>

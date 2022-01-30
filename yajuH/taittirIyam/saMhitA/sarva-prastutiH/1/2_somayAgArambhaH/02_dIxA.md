@@ -19,11 +19,14 @@ title = "०२ दीक्षा"
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 To the purpose, to the impulse, to Agni, hail!  
 To wisdom, to thought, to Agni, hail!  
 To consecration, to penance, to Agni, hail!  
 To Sarasvati, to Prisan, to Agni, hail!
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -39,10 +42,13 @@ To Sarasvati, to Prisan, to Agni, hail!
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 O ye divine, vast, all-sootbing waters!  
 Heaven and earth, wide atmosphere!  
 May Brhaspati rejoice in our oblation, hail!
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -60,11 +66,14 @@ May Brhaspati rejoice in our oblation, hail!
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Let every man choose the companionship  
 Of the god who leadeth.  
 Every man prayeth for wealth;  
 Let him choose glory that he may prosper, hail!
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -82,10 +91,13 @@ Let him choose glory that he may prosper, hail!
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Ye are images of the Rc and the Saman.  
 I grasp you two;  
 do ye two [1] protect me until the completion of this sacrifice.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -103,11 +115,14 @@ do ye two [1] protect me until the completion of this sacrifice.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 O god,Varuna, do thou sharpen this prayer of him who implores thee,  
 Sharpen his strength, his insight;  
 May we mount that safe ship  
 Whereby we' may pass over all our difficulties.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -124,11 +139,14 @@ Whereby we' may pass over all our difficulties.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the strength of the Angirases, soft as wool;  
 grant me strength,  
 guard me,  
 harm me not.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -142,9 +160,12 @@ harm me not.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the protection of Visnu, the protection of the sacrificer,  
 grant me protection.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -159,8 +180,11 @@ grant me protection.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Guard me from the lustre of the Naksatras.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -175,8 +199,11 @@ Guard me from the lustre of the Naksatras.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the birthplace of Indra [2]; harm me not.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -190,8 +217,11 @@ Thou art the birthplace of Indra [2]; harm me not.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 For ploughing thee, for good crops,
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -205,8 +235,11 @@ For ploughing thee, for good crops,
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 For the plants with good berries thee!
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -219,9 +252,12 @@ For the plants with good berries thee!
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art of easy access, divine tree. Being erect, guard me until the completion (of the sacrifice).
 _____
+</details>
+
 ### मन्त्रः
 #### मूलम्
 #### विश्वास-प्रस्तुतिः
@@ -233,9 +269,11 @@ _____
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Hail!  
 with my mind the sacrifice (I grasp); hail!  
 from heaven and earth, hail!  
 from the broad atmosphere, hail!  
 from the wind the sacrifice I grasp.
+</details>

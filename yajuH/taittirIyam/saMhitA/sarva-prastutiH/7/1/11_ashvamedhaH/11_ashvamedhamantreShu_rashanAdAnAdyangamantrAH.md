@@ -6,7 +6,7 @@ title = "११ अश्वमेधमन्त्रेषु रशनाद
 ### भास्करोक्तविनियोगः
 रशनामादत्ते।
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1/3/devasya_tvA_savituH.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/yajuH/1/1/3/devasya_tvA_savituH.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ### मन्त्रः
 
@@ -32,18 +32,24 @@ In the Saman of order declaring the stream.
 
 अ॒भि॒धा अ॑सि । +++(यज्ञसाधनत्वेन)+++ भुव॑नम् असि । य॒न्तासि॑ । ध॒र्ताऽसि॑ ।
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art surrounding; thou art the world; thou art the restrainer; thou art the supporter.
+</details>
+
 
 ### मन्त्रः
 सो᳚ऽग्निव्ँ वै᳚श्वान॒रꣳ सप्र॑थसङ्+++(=सविस्तरं)+++ गच्छ॒ स्वाहा॑कृतः ।  
 पृ॒थि॒व्याय्ँ य॒न्ता राड्+++(=दीप्यमानः)+++ य॒न्ताऽसि॒  
 यम॑नो+++(=यमसाधनभूतः)+++, ध॒र्तासि॑ ध॒रुणः॑ ॥
 
-#### Keith
+<details><summary>Keith</summary>
+
 Do thou go, with the cry of 'Hail!' to Agni Vaiçvanara, the extending.  
 Thou art the restrainer, the ruler on earth;  
 thou art the restrainer who dost restrain; thou art the supporter who dost support.
+</details>
+
 
 
 ## विनियोगः
@@ -60,9 +66,12 @@ thou art the restrainer who dost restrain; thou art the supporter who dost suppo
 विश्वे᳚भ्यस् त्वा भू॒तेभ्यः॑ +++(प्रोक्षामि)+++।
 
 
-#### Keith
+<details><summary>Keith</summary>
+
 For ploughing thee! For comfort thee! For wealth thee! For increase thee!  
 For earth thee! For the atmosphere thee! For sky thee!  
 For being thee! For not being thee!  
 For the waters thee! For the plants thee!  
 For all creatures thee!
+
+</details>

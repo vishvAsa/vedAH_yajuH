@@ -21,12 +21,15 @@ _____
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art the hospitality of Agni. For Visnu thee!  
 Thou art the hospitality of Soma. For Visnu thee!  
 Thou art the hospitality of the stranger. For Visnu thee!  
 For Agni thee, giver of wealth, for Visnu thee;  
 for the eagle, bringer of the Soma, thee, for Visnu thee!
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -40,9 +43,12 @@ for the eagle, bringer of the Soma, thee, for Visnu thee!
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thy powers which they honour with oblation,  
 May they all envelop the sacrifice!
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -56,9 +62,12 @@ May they all envelop the sacrifice!
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Giver of wealth, impeller, rich in heroes,  
 Slaying not heroes, O Soma, enter the dwellings.  
+</details>
+
 
 
 
@@ -73,8 +82,11 @@ Slaying not heroes, O Soma, enter the dwellings.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art the seat of Aditi.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -87,8 +99,11 @@ Thou art the seat of Aditi.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 sit on the seat of Aditi [1]
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -102,8 +117,11 @@ sit on the seat of Aditi [1]
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art Varuna who guardeth law; thou art of Varuna.
+</details>
+
 
 
 ### विनियोगः
@@ -117,8 +135,11 @@ Thou art Varuna who guardeth law; thou art of Varuna.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Be prosperity ours from our friendship with the gods.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -130,8 +151,11 @@ Be prosperity ours from our friendship with the gods.
 स॒ख्यान् मा दे॒वाना॑म् अ॒पस॑श्+++(=कर्मतः)+++ छिथ्स्महि ।
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 May we be not severed from our service of the gods.
+</details>
+
 
 ## आज्यग्रहणादिकम्
 ### विनियोगः
@@ -149,12 +173,15 @@ May we be not severed from our service of the gods.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 For him who rushes on I seize thee;  
 for him who rushes around I seize thee;  
 for Tanunapat I seize thee;  
 for the mighty I seize thee;  
 for the mightiest in strength I seize thee.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -168,9 +195,12 @@ for the mightiest in strength I seize thee.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art unapproached,  
 the unapproachable might of the gods, guarding from imprecations, impervious to imprecations.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -186,8 +216,11 @@ the unapproachable might of the gods, guarding from imprecations, impervious to 
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 May the lord of consecration approve my consecration,  
 the lord of penance my penance.  
 Speedily may I attain truth.  
 Place me in good fortune.
+
+</details>

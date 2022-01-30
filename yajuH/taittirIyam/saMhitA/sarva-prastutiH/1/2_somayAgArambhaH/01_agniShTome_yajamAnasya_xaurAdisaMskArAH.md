@@ -19,9 +19,12 @@ short_title = "०१ अग्निष्टोमे यजमानस्य
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 May I the waters wet (thee) for life,
 For length of days, for glory.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -35,8 +38,11 @@ For length of days, for glory.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 O plant, protect him.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -50,8 +56,11 @@ O plant, protect him.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Axe, hurt him not.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -66,8 +75,11 @@ Axe, hurt him not.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Obedient to the gods I shear these.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -81,8 +93,11 @@ Obedient to the gods I shear these.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 With success may I reach further days.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -92,14 +107,17 @@ With success may I reach further days.
 #### मूलम्
 #### विश्वास-प्रस्तुतिः  
 आपो॑ अ॒स्मान् मा॒तर॑श् शुन्धन्तु।+++(र४)+++  
-घृ॒तेन॑+++(=वर्षितेन)+++ नो घृत॒पुव॑ᳶ +++(पर्जन्यादयः)+++ पुनन्तु ।
+घृ॒तेन॑ नो घृत॒-पुव॑ᳶ+++(→घृतपावकाः)+++ पुनन्तु ।
 
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Let the waters, the mothers, purify us,
 With ghee let those that purify our ghee purify us.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -113,8 +131,11 @@ With ghee let those that purify our ghee purify us.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Let them bear from us all pollution.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -128,8 +149,11 @@ Let them bear from us all pollution.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Forth from these waters do I come bright, in purity.
+</details>
+
 
 
 ## विनियोगः
@@ -146,8 +170,11 @@ Forth from these waters do I come bright, in purity.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the body of Soma, guard my body.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -164,10 +191,13 @@ Thou art the body of Soma, guard my body.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the milk of the great ones,  
 thou art the giver of splendour;  
 splendour [1] place in me.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -184,10 +214,13 @@ splendour [1] place in me.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the pupil of Vrtra's eye,  
 thou art the guardian of the eye,  
 guard my eye.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -204,10 +237,13 @@ guard my eye.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Let the lord of thought purify thee, let the lord of speech purify thee, let the god Savitr purify thee  
 With the flawless purifier,  
 With the rays of the bright sun.
+</details>
+
 
 ### मन्त्रः
 #### मूलम्
@@ -219,10 +255,13 @@ With the rays of the bright sun.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 let the lord of speech purify thee  
 With the flawless purifier,  
 With the rays of the bright sun.
+</details>
+
 
 
 ### मन्त्रः
@@ -235,10 +274,13 @@ With the rays of the bright sun.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 let the god Savitr purify thee  
 With the flawless purifier,  
 With the rays of the bright sun.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -252,8 +294,11 @@ With the rays of the bright sun.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 O lord of the purifier, with thy purifier for whatsoever I purify myself, that may I have strength to accomplish.
+</details>
+
 
 
 ## विनियोगः
@@ -272,11 +317,14 @@ O lord of the purifier, with thy purifier for whatsoever I purify myself, that m
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 We approach you, O gods,  
 Ye that have true ordinances at the sacrifice  
 What O gods ye can assent to,  
 For that we ask you, O holy ones.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -290,8 +338,11 @@ For that we ask you, O holy ones.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Indra and Agni, heaven and earth, waters, plants.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -304,8 +355,11 @@ Indra and Agni, heaven and earth, waters, plants.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the lord of consecrations
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -318,5 +372,8 @@ Thou art the lord of consecrations
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Guard me that am here.
+
+</details>

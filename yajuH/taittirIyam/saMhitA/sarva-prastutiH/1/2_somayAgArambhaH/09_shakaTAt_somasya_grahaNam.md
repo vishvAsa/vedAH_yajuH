@@ -21,13 +21,16 @@ title = "०९ शकटात् सोमस्य ग्रहणम्"
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Move forward, O lord of the world,  
 To all thy stations.  
 Let no opponent find thee,  
 Let not robbers find thee;  
 Let not the evil-working wolves (find) thee;  
 Nor the Gandharva, Viçvavasu, injure thee.
+</details>
+
 
 #### मन्त्रः
 ##### मूलम्
@@ -38,12 +41,15 @@ Nor the Gandharva, Viçvavasu, injure thee.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Become an eagle and fly away   
 to the place in the house of the sacrificer  
 which we have prepared with the gods (for thee). 
 
 _____
+</details>
+
 ## उपस्थानादिकम्
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -56,8 +62,11 @@ _____
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art the good luck of the sacrificer.
+</details>
+
 
 #### मन्त्रः
 ##### मूलम्
@@ -69,11 +78,14 @@ Thou art the good luck of the sacrificer.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 We have reached the path  
 Which leadeth to bliss, without a foe,  
 Whereby a man defeateth all his foes  
 and winneth wealth.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -90,11 +102,14 @@ and winneth wealth.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Honour to the radiance of Mitra and Varuna.  
 This worship, this reverence offer to the god;  
 To the far seeing, god-born, the banner,  
 The son of the sky, the sun, do ye sing.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -107,8 +122,11 @@ The son of the sky, the sun, do ye sing.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art the pillar of Varuna.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -121,8 +139,11 @@ Thou art the pillar of Varuna.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art the prop of Varuna's pillar.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -135,5 +156,7 @@ Thou art the prop of Varuna's pillar.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Varuna's noose is loosened.
+</details>

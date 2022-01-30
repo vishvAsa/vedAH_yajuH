@@ -25,13 +25,16 @@ short_title = "०५"
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art a Vasvi,  
 thou art a Rudra,  
 thou art Aditi,  
 thou art an Aditya,  
 thou art Çukra,  
 thou art Candra.
+</details>
+
 
 ## सप्तमपदे कर्म
 ### विनियोगः
@@ -46,9 +49,12 @@ thou art Candra.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 May Brhaspati make thee rejoice in happiness.  
 May Rudra with the Vasus be favourable to thee.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -66,9 +72,12 @@ May Rudra with the Vasus be favourable to thee.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 I pour thee on the head of the earth,  
 on the place of sacrifice, on the abode of the offering, rich in ghee; hail!
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -85,11 +94,14 @@ on the place of sacrifice, on the abode of the offering, rich in ghee; hail!
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 The Raksas is enclosed,  
 the evil spirits are enclosed.  
 Thus I cut the neck of the Raksas.  
 Thus I cut the neck of him who hates us and whom we hate [1].
+</details>
+
 
 ## पांसुग्रहणम्
 
@@ -104,8 +116,11 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 With us be wealth.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -118,8 +133,11 @@ With us be wealth.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 with thee be wealth.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -131,8 +149,11 @@ with thee be wealth.
 तोते॒+++(=त्वया ऊते/रक्षिते [गृहे])+++ रायः॑ ।
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 thine be wealth.
+</details>
+
 
 ## पत्नीकर्म
 
@@ -147,8 +168,11 @@ thine be wealth.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Gaze, O goddess, together with the goddess Urvaçi.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -165,8 +189,10 @@ Gaze, O goddess, together with the goddess Urvaçi.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Let me attend on thee, with Tvastr's aid;  
 rich in seed, bearing seed,  
 may I find a hero in thy presence.  
 May I not be separated from abundance of wealth.
+</details>

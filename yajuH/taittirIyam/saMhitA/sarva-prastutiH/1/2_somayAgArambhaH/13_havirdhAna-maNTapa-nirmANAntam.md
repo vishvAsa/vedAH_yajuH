@@ -21,11 +21,14 @@ short_title = "१३"
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 They yoke their minds, and yoke their thoughts,
 The priests of the mighty wise priest;
 He alone, who knows the way, ordains their priestly functions;
 Great is the praise of the god Savitr.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -39,9 +42,12 @@ Great is the praise of the god Savitr.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 With fair voice, O god, do thou address the dwelling.  
 Ye two, famed among the gods, make proclamation among the gods.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -54,10 +60,13 @@ Ye two, famed among the gods, make proclamation among the gods.
 यꣳ सर्वे॑ ऽनु॒जीवा॑म॒ यो ब॑हू॒नाम् अस॑द् व॒शी ।  
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 For us be born a hero of great deeds,  
 On whom we may all depend,  
 Who shall be ruler over many.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -72,10 +81,13 @@ Who shall be ruler over many.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Over this Visnu strode;  
 Thrice did he set down his foot;  
 (All) is gathered [1] in its dust.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -91,11 +103,14 @@ Thrice did he set down his foot;
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 So then be ye two rich in food, in cows,  
 In good grass, ye that are famous, for man  
 These two firmaments Visnu held asunder;  
 He holdeth the earth on all sides with pegs.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -109,8 +124,11 @@ He holdeth the earth on all sides with pegs.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Come ye two then forward, ordaining the offering; bring upward the sacrifice; do not falter.  
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -123,8 +141,11 @@ Come ye two then forward, ordaining the offering; bring upward the sacrifice; do
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 There rest on the height of the earth.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -140,11 +161,14 @@ There rest on the height of the earth.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 From the sky, O Visnu, or from the earth,  
 Or from the great (sky), or from the atmosphere,  
 Fill thy hands with many good things,  
 Give to us [2] from right and from left.  
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -160,11 +184,14 @@ Give to us [2] from right and from left.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 I shall proclaim the mighty deeds of Visnu  
 Who meted out the spaces of the earth,  
 Who established the highest abode,  
 Stepping thrice, the far-goer.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -177,8 +204,11 @@ Stepping thrice, the far-goer.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the forehead of Visnu.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -191,8 +221,11 @@ Thou art the forehead of Visnu.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the back of Visnu.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -206,8 +239,11 @@ Thou art the back of Visnu.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Ye two are the corners' of Visnu's mouth.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -219,8 +255,11 @@ Ye two are the corners' of Visnu's mouth.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the thread of Visnu.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -233,8 +272,11 @@ Thou art the thread of Visnu.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the fixed point of Visnu.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -247,5 +289,8 @@ Thou art the fixed point of Visnu.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art of Vishu; to Visnu thee!
+
+</details>

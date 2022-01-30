@@ -19,12 +19,15 @@ title = "०७ सोमक्रयः"
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 I buy Soma from thee,  
 strong, rich in sap, full of force, overcoming the foe,  
 the pure with the pure I buy,  
 the bright with the bright, the immortal with the immortal,  
 to match thy cow.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -37,8 +40,11 @@ to match thy cow.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 With us be the gold.
+</details>
+
 
 ## अजया क्रयणम्
 ### विनियोगः
@@ -53,9 +59,12 @@ With us be the gold.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Thou art the bodily form of penance, Prajapati's kind,  
 I buy (Soma) with the last offspring of thee that hast a thousandfold prosperity.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -68,8 +77,11 @@ I buy (Soma) with the last offspring of thee that hast a thousandfold prosperity
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 With us be union with thee.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -82,8 +94,11 @@ With us be union with thee.
 _____   
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 with me let thy wealth abide.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -96,8 +111,11 @@ with me let thy wealth abide.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 With us be light.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -110,8 +128,11 @@ With us be light.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 darkness be on the Soma-seller.
+</details>
+
 
 ## सोमग्रहणम्
 
@@ -127,8 +148,11 @@ darkness be on the Soma-seller.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Come as a friend to us, creating firm friendships.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -142,8 +166,11 @@ Come as a friend to us, creating firm friendships.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Enter the right thigh of Indra, glad the glad, tender the tender.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -158,8 +185,11 @@ Enter the right thigh of Indra, glad the glad, tender the tender.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 O Svana, Bhraja, Anghari, Bambhari, Hasta, Suhasta, and Krçanu,  
 here are your wages for Soma; guard them,  
 let them not fail you.
 
+
+</details>

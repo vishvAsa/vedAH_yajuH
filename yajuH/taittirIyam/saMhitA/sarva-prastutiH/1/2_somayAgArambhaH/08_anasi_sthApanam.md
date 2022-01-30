@@ -17,11 +17,14 @@ title = "०८ अनसि स्थापनम्"
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Up with life, with fair life,  
 Up with the sap of plants,  
 Up with the force of Parjanya,  
 Up have I arisen along with the immortals.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -34,8 +37,11 @@ Up have I arisen along with the immortals.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Fare along the wide atmosphere.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -48,8 +54,11 @@ Fare along the wide atmosphere.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the seat of Aditi.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -62,8 +71,11 @@ Thou art the seat of Aditi.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Sit on the seat of Aditi.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -80,11 +92,14 @@ Sit on the seat of Aditi.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 The bull hath stablished the sky, the atmosphere;  
 Hath meted the breadth of the earth;  
 Hath set him in all worlds as king.  
 All these are Varuna's ordinances.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -100,11 +115,14 @@ All these are Varuna's ordinances.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 He hath stretched out the sky over the woods;  
 He hath placed strength in horses, milk in kine;  
 Varuna hath set skill in the heart [1], Agni in dwellings,  
 The sun in the sky, the Soma on the hill.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -119,10 +137,13 @@ The sun in the sky, the Soma on the hill.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thee, all-knowing god,
 Thy rays bear upwards,
 The sun for all to see.
+</details>
+
 
 
 ## विनियोगः
@@ -137,9 +158,12 @@ The sun for all to see.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Come hither, ye oxen, strong to bear the yoke,
 Tearless, slaying not man, furthering the prayer.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -152,8 +176,11 @@ Tearless, slaying not man, furthering the prayer.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the pillar of Varuna.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -166,8 +193,11 @@ Thou art the pillar of Varuna.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the prop of Varuna's pillar.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -179,5 +209,8 @@ Thou art the prop of Varuna's pillar.
 प्रत्य॑स्तो॒+++(=उत्क्षिप्तः)+++ वरु॑णस्य॒ पाशः॑ ॥ [16]  
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Varuna's noose is tied.
+
+</details>

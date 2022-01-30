@@ -22,12 +22,15 @@ short_title = "०६ सोममानादिकम्"
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Let thy shoot be joined with shoot, joint with joint,  
 let thy scent further desire,  
 let thy savour which falls not cause rejoicing.  
 Thou art a home dweller,  
 thy libation is bright.
+</details>
+
 
 ## मानम्, उपसमूहनम्
 
@@ -47,11 +50,14 @@ thy libation is bright.
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Unto that god, Savitr, within the two bowls, The sage,  
 I sing, him of true impulse, The bestower of treasures, unto tile+++(=??)+++ wise friend;
 He at whose impulse the resplendent light shone high,
 The golden-banded sage hath measured the heaven with his form.
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -64,8 +70,11 @@ The golden-banded sage hath measured the heaven with his form.
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 For offspring thee!
+</details>
+
 
 ## सन्नहनम्
 ### विनियोगः
@@ -79,8 +88,11 @@ For offspring thee!
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 For expiration thee!
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -93,8 +105,11 @@ For expiration thee!
 _____
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 For cross-breathing thee!
+</details>
+
 
 ### विनियोगः
 #### भास्करोक्त-विनियोगः
@@ -108,7 +123,10 @@ For cross-breathing thee!
 
 ##### भास्करटीका
 
-##### Keith
+<details><summary>Keith</summary>
+
 Breathe thou after offspring. 
 Let offspring breathe after thee.
 
+
+</details>

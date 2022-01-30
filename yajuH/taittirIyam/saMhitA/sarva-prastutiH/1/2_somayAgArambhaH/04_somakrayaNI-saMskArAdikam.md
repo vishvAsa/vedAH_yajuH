@@ -18,9 +18,12 @@ short_title = "०४"
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 This is thy body, O pure one. This is thy splendour. With it be united.  
 Win brightness.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -35,9 +38,12 @@ Win brightness.
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art the strong, grasped by mind, acceptable to Visnu.  
 In the impulse of thee, of true impulse, may I win a support for my speech. Hail!
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -53,10 +59,13 @@ In the impulse of thee, of true impulse, may I win a support for my speech. Hail
 _____
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art pure,  
 thou art nectar,  
 thou art the sacrifice for all the gods.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -73,11 +82,14 @@ thou art the sacrifice for all the gods.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 I have mounted the eye of the sun.  
 The pupil of the eye of Agni,  
 When thou goest with thy steeds,  
 Blazing with the wise.
+</details>
+
 
 ## विनियोगः
 ### भास्करोक्त-विनियोगः
@@ -98,7 +110,8 @@ Blazing with the wise.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Thou art thought,  
 thou art mind,  
 thou art meditation,  
@@ -106,6 +119,8 @@ thou art the gift (to the priests) [1],
 thou art of the sacrifice,  
 thou art of kingly power,  
 thou art Aditi, double-headed.
+</details>
+
 
 ### मन्त्रः
 #### मूलम्
@@ -114,8 +129,11 @@ thou art Aditi, double-headed.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Be thou successful for us in going, successful in returning.
+</details>
+
 
 ### मन्त्रः
 #### मूलम्
@@ -123,8 +141,11 @@ Be thou successful for us in going, successful in returning.
 मि॒त्रस् त्वा॑ प॒दि+++(=पादे)+++ ब॑ध्नातु ।  
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 May Mitra bind thee by the foot.
+</details>
+
 
 ### मन्त्रः
 #### मूलम्
@@ -132,8 +153,11 @@ May Mitra bind thee by the foot.
 पू॒षा ऽध्व॑नᳶ +++(भयहेतोः)+++ पातु ।  
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 May Pusan guard the ways.
+</details>
+
 
 ### मन्त्रः
 #### मूलम्
@@ -141,9 +165,12 @@ May Pusan guard the ways.
 इन्द्रा॒याध्य॑ख्षा॒यानु॑ त्वा मा॒ता म॑न्यताम्, अनु॑+++(मन्यताम्)+++ पि॒ता, अनु॒+++(मन्यताम्)+++ भ्राता॒ सग॑र्भ्यः, अनु॒ +++(मन्यतां)+++ सखा॒ सयू᳚थ्यः।  
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 For Indra, the overseer!  
 May thy mother approve thee, thy father, thy brother sprung of the same womb, thy friend in the herd.
+</details>
+
 
 ### मन्त्रः
 #### मूलम्
@@ -152,8 +179,11 @@ May thy mother approve thee, thy father, thy brother sprung of the same womb, th
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Go, goddess, to the god, to Soma for Indra's sake.
+</details>
+
 
 ### मन्त्रः
 #### मूलम्
@@ -162,8 +192,11 @@ Go, goddess, to the god, to Soma for Indra's sake.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 May Rudra guide thee hither in the path of Mitra.
+</details>
+
 
 ### मन्त्रः
 #### मूलम्
@@ -172,6 +205,9 @@ May Rudra guide thee hither in the path of Mitra.
 
 #### भास्करटीका
 
-#### Keith
+<details><summary>Keith</summary>
+
 Hail! Return with Soma as thy comrade, with wealth.
 
+
+</details>

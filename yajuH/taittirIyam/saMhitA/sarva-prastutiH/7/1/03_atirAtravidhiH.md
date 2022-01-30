@@ -7,9 +7,12 @@ title = "०३ अतिरात्रविधिः"
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति -  
 स त्वै य॑जेत, यो᳚ऽग्निष्टो॒मेन॒ +++(त्रिवृत्-पञ्चदश-सप्तदश-एकविशात्मकेन चतुष्टोमेन)+++ यज॑मानोऽथ॒ सर्व॑स्तोमेन॒ +++(चतुष्टोमादिक-सप्तविंश-त्रयस्त्रिंशात्मकेन)+++ यजे॒तेति॑ ।  
 
-#### Keith
+<details><summary>Keith</summary>
+
 The theologians say,  
 'He indeed would really sacrifice, who having sacrificed with the Agnistoma should also sacrifice with the Sarvastoma.'
+</details>
+
 
 ### वाक्यानि
 यस्य॑ त्रि॒वृत॑म् अन्त॒र्+++(रा)+++-यन्ति॑,  
@@ -17,11 +20,14 @@ The theologians say,
 +++(न केवलं स्वर्ग एव,)+++ प्रा॒णेषु॒ मेऽप्य् अ॑स॒द् +++(भागित्वम्)+++  
 इति॑ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते ।
 
-#### Keith
+<details><summary>Keith</summary>
+
 If they omit the Trivrt Stoma,  
 then his vital airs are omitted,  
 but he who offers the sacrifice does so with the wish,  
 'May it be in my vital airs'. 
+</details>
+
 
 ### वाक्यानि
 यस्य॑ पञ्चद॒शम् अ॑न्त॒र्+++(रा)+++-यन्ति॑,  
@@ -29,11 +35,14 @@ but he who offers the sacrifice does so with the wish,
 वी॒र्ये॑ मेऽप्य् अ॑स॒द्  +++(भागित्वम्)+++  
 इति॑ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते ।
 
-#### Keith
+<details><summary>Keith</summary>
+
 If they omit the Pañcadaça Stoma,  
 his strength is omitted,  
 but he who offers the sacrifice does so with the wish,  
 'May it be in my strength.'
+</details>
+
 
 ### वाक्यानि
 यस्य॑ सप्तद॒शम् अ॑न्त॒र्+++(रा)+++-यन्ति॑,
@@ -41,11 +50,14 @@ but he who offers the sacrifice does so with the wish,
 प्र॒जाया॒म् मेऽप्य् अ॑स॒द्  +++(भागित्वम्)+++  
 इति॒ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते।
 
-#### Keith
+<details><summary>Keith</summary>
+
 If they omit the Saptadaça Stoma [1],  
 his offspring is omitted,  
 but he who offers the sacrifice does so with the wish,  
 'May it be in my offspring.' 
+</details>
+
 
 
 ### वाक्यानि
@@ -70,11 +82,14 @@ ______________________
 ऋ॒तुषु॒ मे +++(भागित्वम्)+++ ऽप्य् अ॑सन् नख्ष॒त्रिया॑याञ् च +++(त्र्यक्षरोण-त्रिपाद-)+++वि॒राजीति॑ ,[9]
 खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते।
 
-#### Keith
+<details><summary>Keith</summary>
+
 If they omit the Trinava Stoma,  
 his seasons and the strength of the Naksatras are omitted,  
 but he who offers the sacrifice does so with the wish,  
 'May it be in my seasons and the strength of the Naksatras' [2]. 
+</details>
+
 
 ### वाक्यानि
 यस्य॑ त्रयस्त्रि॒ꣳ॒शम् अ॑न्त॒र्+++(रा)+++-यन्ति॑  
@@ -82,11 +97,14 @@ but he who offers the sacrifice does so with the wish,
 दे॒वता॑सु॒ मेऽप्य॑स॒द् +++(भागित्वम्)+++  
 इति॑ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते
 
-#### Keith
+<details><summary>Keith</summary>
+
 If they omit the Trayastrinça Stoma,  
 his deities are omitted,  
 and he who offers the sacrifice does so with the wish,  
 'May it be in my deities.' 
+</details>
+
 
 ## अतिरात्रविधानम्
 ### वाक्यानि
@@ -94,6 +112,8 @@ and he who offers the sacrifice does so with the wish,
 यो वै स्तोमा॑नाम् अव॒मम्+++(=आदिमम्)+++ +++(अतिरात्रे)+++ प॑र॒मता॒ङ् गच्छ॑न्त॒व्ँ वेद॑,  प॒र॒मता॑मे॒व  ग॑च्छति ।  
 +++(प्रकृतियागे)+++ त्रि॒वृद् वै स्तोमा॑नाम् अव॒मः। +++(अतिरात्रे तु)+++ त्रि॒वृत् प॑र॒मः। य ए॒वव्ँ वेद॑, पर॒मता॑म् ए॒व ग॑च्छति ॥+++(४)+++
 
-#### Keith
+<details><summary>Keith</summary>
+
 He who knows the lowest of the Stomas attaining the first place, obtains him self the first place.  
 The Trivrt is the lowest of Stomas, the Trivrt occupies the first place. He who know thus obtains the first place.
+</details>

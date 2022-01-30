@@ -95,7 +95,7 @@ ____
 तेजो॑ऽसि ।
 ____
 +++(प्रोक्षणीरुत्पुनाति)+++  
-<div class="js_include" url="../aMshAH/devo_vas_savitotpunAtu/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/Rk/1/1_darshapUrNamAsAdiH/devo_vas_savitotpunAtu.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ____
 +++(जुह्वामाज्यं गृह्णाति)+++  

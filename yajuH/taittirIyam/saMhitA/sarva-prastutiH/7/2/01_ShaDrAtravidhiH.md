@@ -22,7 +22,7 @@ title = "०१ षड्रात्रविधिः"
 
 <div class="js_include" url="../aMshAH/bRhad-rathantara-yAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/brAhmaNam/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 <div class="js_include" url="../aMshAH/21-27-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
 <div class="js_include" url="../aMshAH/33-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
 

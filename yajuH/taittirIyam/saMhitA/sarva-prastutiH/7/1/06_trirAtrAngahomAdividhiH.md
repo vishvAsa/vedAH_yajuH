@@ -14,7 +14,8 @@ title = "०६ त्रिरात्राङ्गहोमादिवि�
 ताव् अ॑ब्रवीद् - इ॒यम् ममास्त्व्, ए॒तद् यु॒वयो॒र् इति॑ ।  
 ताव् अ॑ब्रूता॒ꣳ॒ - +++(वयं)+++ सर्वे॒ वा ए॒तद् ए॒तस्या᳚व्ँ वी॒र्य᳚म् [21] परि॑ पश्या॒मो, +++(अतो)+++ ऽꣳश॒म् आह॑रामहा॒ इति॒। तस्या॒म् अꣳश॒म् आह॑रन्त।
 
-#### Keith
+<details><summary>Keith</summary>
+
 Soma found a thousand;  
 Indra discovered it after him.  
 Yama approached them and said to them, 'May I have a share too in it.'  
@@ -22,6 +23,8 @@ They said to him, 'Be it so.'
 Yama saw in one of the (cows) strength.  
 He said to them, 'This one has the strength of the thousand, this be mine, the rest yours.'  
 They said, 'We all see that in this one is strength [1]. Let us each have a portion.' So they took shares in the one. 
+</details>
+
 
 
 ## सोमक्रय-गो-निर्देशः
@@ -31,11 +34,14 @@ They said, 'We all see that in this one is strength [1]. Let us each have a port
 तस्मा॒द् रोहि॑ण्या पिङ्ग॒लयैक॑हायन्या॒ सोम॑ङ् क्रीणीयाद् ।  
 य ए॒वव्ँ वि॒द्वान् रोहि॑ण्या पिङ्ग॒लयैक॑हायन्या॒ सोम॑ङ्क्री॒णाति, त्रय॑स्त्रिꣳशता चै॒वास्य॑ त्रि॒भिश्च॑ [22] श॒तैस् सोम॑ᳵ क्री॒तो भ॑वति॒। सुक्री॑तेन यजते ।  
 
-#### Keith
+<details><summary>Keith</summary>
+
 They put her into the waters, saying, 'Come out for Soma.'  
 She came out in the shape of a red brown cow of one year old, together with three hundred and thirty three.  
 Therefore let one buy the Soma with a red brown cow one year old.  
 He, who knowing thus buys the Soma with a red brown cow one year old, buys the Soma with three hundred and thirty-three [2] and sacrifices with Soma for which he has paid a good price. 
+</details>
+
 
 ## इन्द्रयागे गो-निर्देशः
 ### वाक्यानि
@@ -46,12 +52,15 @@ He, who knowing thus buys the Soma with a red brown cow one year old, buys the S
 त्रय॑स्त्रिꣳशच्चै॒वास्य॒ त्रीणि॑ च श॒तानि॑ सा द॒त्ता  भ॑वति ।[23]  
 +++(उक्तमाचार्येण - 'सङ्ग्रामं जित्वा राजन्ये एतां दद्यात्' इति ।)+++
 
-#### Keith
+<details><summary>Keith</summary>
+
 They put her into the waters, saying, 'Come out for Indra.'  
 She came out in the shape of a red draught animal with good characteristics, destroying foes, together with three hundred and thirty-three.  
 Therefore one should give a red draught animal with good characteristics, destroying foes.  
 He who knowing thus gives a red draught animal with good characteristics, destroying foes,  
 gives her as three hundred and thirty-three [3]. 
+</details>
+
 
 ## अनुस्तरण-गो-निर्देशः
 ### वाक्यानि
@@ -61,12 +70,15 @@ gives her as three hundred and thirty-three [3].
 य ए॒वव्ँ वि॒द्वाञ् जर॑तीम् मू॒र्खान् त॑ज्जघ॒न्याम् अ॑नु॒स्तर॑णीङ् कुरु॒ते ,
 त्रय॑स्त्रिꣳशच् चै॒वास्य॒ त्रीणि॑ च श॒तानि॑ सा ऽमुष्मि॑ल्ँ लो॒के +++(भोगाय)+++ भ॑वति ।
 
-#### Keith
+<details><summary>Keith</summary>
+
 They put her into the waters' saying, 'Come out for Yama.'  
 She came out in the shape of an aged, stupid, utterly bad animal, together with three hundred and thirty-three.  
 Therefore one should offer as the funeral cow one that is aged, stupid, utterly bad.  
 If a man knowing thus offers a cow that is aged, stupid, utterly bad, as the funeral cow,  
 she becomes for him in yonder world three hundred and thirty-three. 
+</details>
+
 
 ## वरप्राधान्यम्
 ### वाक्यानि
@@ -74,10 +86,13 @@ she becomes for him in yonder world three hundred and thirty-three.
 सा हि वरः॑। +++(तद्दानेन)+++ +++(गो)+++स॒हस्र॑म् अस्य॒ सा द॒त्ता भ॑वति ।  
 तस्मा॒द् वरो॒ न प्र॑तिगृह्यः॑ । सा हि वर॑स् स॒हस्र॑म् अस्य॒ प्रति॑गृहीतम् भवति।
 
-#### Keith
+<details><summary>Keith</summary>
+
 Speech is the thousandth. Therefore [4] a boon must be given;  
 for she is a boon, and when she is given she is a thousand.  
 Therefore one must not accept a boon; for she is a boon; verily he would be accepting a thousand.  
+</details>
+
 
 
 ## वरदानप्रक्रिया
@@ -86,24 +101,33 @@ Therefore one must not accept a boon; for she is a boon; verily he would be acce
 अथा॒न्याम् +++(अन्यो)+++ ब्रू॑याद् - "इ॒यम् ममे"ति॑ ।  
 तथा᳚स्य॒ तथ् स॒हस्र॒म् अप्र॑तिगृहीतम् भवति ।
 
-#### Keith
+<details><summary>Keith</summary>
+
 Let him say, 'She is a boon',  
 and of another, 'Let this be mine';  
 verily he avoids accepting a thousand. 
+</details>
+
 
 ## सहस्रतमीलक्षणम्
 ### वाक्यानि
 +++(सहस्रतमी)+++ उ॒भ॒य॒त॒-ए॒नी+++(=शुक्ला)+++ स्या᳚त् । तद् आ॑हुर् +++(अन्ये)+++ - अन्यत-ए॒नी+++(=शुक्ला)+++ स्या᳚त् , +++(तस्यास् सहस्रेण तुल्यत्वात्)+++ स॒हस्र॑म् प॒रस्ता॒द् +++(पार्श्वे)+++ एत॒म् +++(शुक्लम्)+++ इति॑ ।
 
-#### Keith
+<details><summary>Keith</summary>
+
 She should be spotted on either side. They say, 'Let her be spotted on one side only; spotted is the thousand on the other side.'
+</details>
+
 
 ### वाक्यानि
 +++(पक्षान्तरमाह -)+++ यैव वरः॑ क॒ल्या॒णी रू॒प-स॑मृद्धा॒ सा स्या᳚त् ।  
 सा हि वर॒स् समृ॑द्ध्यै +++(दातुः)+++ ।
 
-#### Keith
+<details><summary>Keith</summary>
+
 The one for a boon [5] should be beautiful, perfect in form; for she is a boon; (verily it serves for) prosperity.
+</details>
+
 
 ## आघ्रापणम्
 ### वाक्यानि
@@ -118,7 +142,8 @@ The one for a boon [5] should be beautiful, perfect in form; for she is a boon; 
 पुन॒र् मा वि॑शताद् र॒यिर्"  
 इति॑ ।
 
-#### Keith
+<details><summary>Keith</summary>
+
 Leading her round to the north of the Agnidh's place he makes her smell the wooden tub near the Ahavaniya fire, saying,
 
 > 'Smell the tub, O great one,  
@@ -128,14 +153,19 @@ Let the drops enter thee
 Give me a share in a thousand,  
 > with offspring, with cattle;  
 Let wealth again visit me.'
+</details>
+
 
 ### वाक्यानि
 प्र॒जयै॒वैन॑म् प॒शुभी॑ र॒य्या सम॑र्धयति । (26)  
 प्र॒जावा᳚न् पशु॒मान् र॑यि॒मान् भ॑वति॒ य ए॒वव्ँ वेद॑ ।
 
-#### Keith
+<details><summary>Keith</summary>
+
 Verily he unites him with offspring, with cattle, with wealth [6].  
 He becomes rich in offspring, in cattle, in wealth, who knows thus.
+</details>
+
 
 ## होमः
 ### वाक्यानि
@@ -146,30 +176,39 @@ He becomes rich in offspring, in cattle, in wealth, who knows thus.
 त्रे॒धा स॒हस्र॒व्ँ +++(गावं)+++ वि तदै॑रयेथा॒म्+++(=विभक्तवन्तौ)+++" इति॑ ।  
 
 
-#### Keith
+<details><summary>Keith</summary>
+
 Having gone round the Agnidh's place with her, he should offer in front, while the cow stands facing (him), Saying,
 
 > Ye twain have conquered; ye are not conquered;  
 > Neither of the two of them hath been defeated;
 Indra and Visnu when ye contended,  
 Ye did divide the thousand into three.'
+</details>
+
 
 ### वाक्यानि
 +++(ननु)+++ त्रेधा-विभ॒क्तव्ँ वै त्रि॑रा॒त्रे स॒हस्र᳚म् +++(गौः - "ब्र॒ह्मणे॑ चा॒ग्नीधे॑ च॒ देयेति॑" पक्षे)+++ ।
 साह॒स्रीम् ए॒वैना᳚ङ् करोति +++(अनेन कर्मणा)+++ ।  
 स॒हस्र॑स्यै॒वैना॒म् मात्रा᳚ङ् करोति ।(27)
 
-#### Keith
+<details><summary>Keith</summary>
+
 The thousand is divided into three parts at the three-night festival;  
 verily he makes her possessed of a thousand,  
 he makes her the measure of a thousand [7]. 
+</details>
+
 
 
 ### वाक्यानि
 +++(यान्यश्वमेधे प्रसिद्धानि 'अञ्जन्नेताय' इत्यादीनि)+++ रू॒पाणि॑ +++(यथार्थमूहित्वा)+++ जुहोति । रू॒पैरे॒वैना॒ꣳ॒ सम॑र्धयति ।
 
-#### Keith
+<details><summary>Keith</summary>
+
 He offers to her forms; verily he unites her with her forms.
+</details>
+
 
 ### वाक्यानि
 तस्या॑ उपो॒त्थाय॒ कर्ण॒मा ज॑पेत् -  
@@ -180,17 +219,23 @@ He offers to her forms; verily he unites her with her forms.
 सु॒कृत॑म् मा दे॒वेषु॑ ब्रूताद् +++(भवती)+++  
 इति॑ ।
 
-#### Keith
+<details><summary>Keith</summary>
+
 Rising up he mutters in her ear,
 
 'O Ida, Ranti, Aditi, Sarasvati,  
 Priya, Preyasi, Mahi, Viçruti,  
 These, O inviolable one, are thy names;  
 Proclaim me among the gods as a doer of good deeds.'
+</details>
+
 
 
 ### वाक्यानि
 दे॒वेभ्य॑ ए॒वैन॒म् आ वे॑दय॒ति । अन्व् ए॑नन् +++(सुकर्माणं)+++ दे॒वा बु॑ध्यन्ते ॥ [28]
 
-#### Keith
+<details><summary>Keith</summary>
+
 Verily she proclaims him among the gods, and the gods take note of him.
+
+</details>
