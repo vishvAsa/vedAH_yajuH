@@ -4,11 +4,13 @@ title = "१० शालाप्रवेशादिकम्"
 +++
 ## राज्ञः शालायम् प्रवेशः
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 आतिथ्यं निर्वपति।।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 अ॒ग्नेर् आ॑ति॒थ्यम् अ॑सि॒, +++(सर्वदेवतात्मने)+++ विष्ण॑वे त्वा +++(निर्वपामि)+++ ।  
 +++(सर्वदेवतात्मनो विष्णोर् अंशभूता एते अग्न्य्-आदयो राज्ञि गृहम् आगते आगता भवन्ति । 'यावद्भिर् वै राजानुचरैर् आगच्छति सर्वेभ्यो वै तेभ्य आतिथ्यं क्रियते' इति ब्राह्मणम्।)+++
@@ -19,8 +21,9 @@ _____
 श्ये॒नाय॑ त्वा सोम॒भृते॒ विष्ण॑वे +++(च)+++ त्वा +++(निर्वपामि)+++।
 
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art the hospitality of Agni. For Visnu thee!  
@@ -32,17 +35,20 @@ for the eagle, bringer of the Soma, thee, for Visnu thee!
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 यजमानस् सोमम् आदत्ते।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 +++(हे सोम)+++ या ते॒ धामा॑नि ह॒विषा॒ यज॑न्ति॒  
 ता ते॒ विश्वा॑ परि॒-भूर् अ॑स्तु य॒ज्ञम्+++(स्य)+++ ।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thy powers which they honour with oblation,  
@@ -51,17 +57,20 @@ May they all envelop the sacrifice!
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 शालां प्रवेशयति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 ग॒य॒+++(=गृह)+++स्फान॑ᳶ+++(=वर्धयिता)+++ प्र॒तर॑णस् सु॒वीरो  
 ऽ+++(स्वपक्ष)+++वी॑रहा॒ प्र च॑रा सोम॒ दुर्यान्॑+++(=गृहान् [प्राग्वंशदीन्])+++ ॥
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Giver of wealth, impeller, rich in heroes,  
@@ -72,16 +81,19 @@ Slaying not heroes, O Soma, enter the dwellings.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 नीडे कृष्णाजिनम् आस्तृणाति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 अदि॑त्या॒स् सदो॑ऽसि ।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art the seat of Aditi.
@@ -89,16 +101,19 @@ Thou art the seat of Aditi.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 तस्मिन् सोमं निदधाति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 अदि॑त्या॒स् सद॒ आसीद ।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 sit on the seat of Aditi [1]
@@ -106,17 +121,20 @@ sit on the seat of Aditi [1]
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 सोमम् उपतिष्ठते।।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 +++(तादात्म्येनाऽधुना)+++ वरु॑णोऽसि धृ॒तव्र॑तो, वारु॒णम् अ॑सि ।  
 +++('वरुणो वा एष यजमानमभ्यैति यत्क्रीतस्सोम उपनद्धः' इति ब्राह्मणम् ।)+++
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art Varuna who guardeth law; thou art of Varuna.
@@ -125,16 +143,19 @@ Thou art Varuna who guardeth law; thou art of Varuna.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 वंशे बध्नाति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 श॒य्ँ+++(=शमनम्)+++ योर्+++(=बन्धनाद्)+++ दे॒वाना॑म् ।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Be prosperity ours from our friendship with the gods.
@@ -142,15 +163,18 @@ Be prosperity ours from our friendship with the gods.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 सोमस्य पादौ प्रक्षालयति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 स॒ख्यान् मा दे॒वाना॑म् अ॒पस॑श्+++(=कर्मतः)+++ छिथ्स्महि ।
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 May we be not severed from our service of the gods.
@@ -159,11 +183,13 @@ May we be not severed from our service of the gods.
 
 ## आज्यग्रहणादिकम्
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 तानूनप्त्रम् आज्यं गृह्णाति, यत् सर्वैः स्प्रक्ष्यत ऋत्विग्भिः। अयम् एक-कार्यानुवृत्त्य्-अर्थं समयः क्रियते तेषु।।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 +++(हे आज्य)+++ आप॑तये+++(आपतततीति→प्राणाय)+++ त्वा गृह्णामि ।  
 परि॑पतये+++(परिपततीति→मनसे)+++ त्वा गृह्णामि।  
@@ -171,8 +197,9 @@ May we be not severed from our service of the gods.
 शा॒क्व॒राय॑+++(=शक्त्यै)+++ त्वा गृह्णामि।  
 शक्म॒न्न्+++(=शक्तेषु)+++ ओजि॑ष्ठाय +++(प्राणाय)+++ त्वा गृह्णामि।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 For him who rushes on I seize thee;  
@@ -184,17 +211,20 @@ for the mightiest in strength I seize thee.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 अव-मृशाति।।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 अना॑धृष्टम् असि,   
 अनाधृ॒ष्यन् दे॒वाना॒म् ओजो॑, ऽभिशस्ति॒+++(=अभिशाप)+++पाः, अ॑नभिश॒स्ते॒न्यम्+++(=अभिषस्तेनाऽवेध्या)+++ +++(असि)+++।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art unapproached,  
@@ -203,19 +233,22 @@ the unapproachable might of the gods, guarding from imprecations, impervious to 
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 यजमानं वाचयति।।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 अनु॑ मे दी॒ख्षान् दी॒ख्षाप॑तिर् मन्यताम्,  
 अनु॒ तप॒स् तप॑स्पतिः+++(=अग्निः [मन्यताम्])+++।  
 अञ्ज॑सा+++(=ऋजुना)+++ स॒त्यम् +++(समयं तानूनप्त्राभिमर्शनेन)+++ उप॑ गेषम्+++(=अगच्छम्)+++।  
 सुवि॒ते+++(=सूताय)+++ मा॑ धाः ॥
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 May the lord of consecration approve my consecration,  

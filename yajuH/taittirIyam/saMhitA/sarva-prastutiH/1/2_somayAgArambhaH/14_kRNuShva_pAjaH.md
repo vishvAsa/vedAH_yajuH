@@ -6,13 +6,12 @@ title = "१४ कृणुष्व पाजः"
 
 ## आह्वानम्
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Put forth thy strength like a spreading net;  
@@ -25,13 +24,12 @@ Pierce the Raksases with thy keenest (darts).
 
 ## युद्धप्रार्थना
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Swiftly thy whirling flames descend;  
@@ -43,13 +41,12 @@ Unfettered, on all sides spread thy firebrands.
 
 
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/03_prati_spasho.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Send forth thy spies, swiftest in thy motion;  
@@ -61,13 +58,12 @@ O Agni let no trouble from thee overwhelm us.
 
 
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/04_udagne_tiShTha.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Arise, O Agni; spread thyself out;  
@@ -79,13 +75,12 @@ Do thou consume utterly like dry stubble.
 
 
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/05_Urdhvo_bhava.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Arise; drive from us (our foes);  
@@ -98,13 +93,12 @@ Crush our foes, kin or not kin.
 
 ## उपासकसौभाग्यम्
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 He knows thy [2] loving kindliness, O most youthful one,  
@@ -116,13 +110,12 @@ All happy days for him, glory, and wealth
 
 
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/07_sedagne_astu.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Let him, O Agni, be fortunate and munificent,  
@@ -135,15 +128,13 @@ May all days be happy for him; be that the will.
 
 ## प्रतिज्ञा
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
-
 
 I praise thy loving kindness; loud sounding (thou singest) a reply;  
 Let this song of mine, beloved of thee, sing with thee [3]  
@@ -153,13 +144,12 @@ Maintain for us the lordly power as the days go by.
 
 
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/09_iha_tvA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Here let each serve thee readily,  
@@ -171,13 +161,12 @@ That dost surpass the glories of men.
 
 
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/10_yastvA_svashvaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 He who with good steeds and rich in gold  
@@ -189,13 +178,12 @@ Who duly offereth thee glad reception.
 
 
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/11_maho_rujAmi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 The great I overcome [4] through kinship and my songs;  
@@ -208,13 +196,12 @@ O Hotr, most youthful, skilful, friend of the house.
 
 ### किरणकीर्तिः
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Sleepless, speedy, propitious,  
@@ -227,13 +214,12 @@ Protect us, O wise one.
 
 
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 In Thy guardians, O Agni, who seeing,  
@@ -246,13 +232,12 @@ The foes that were fain to deceive could not [5] deceive.
 
 ## प्रतिज्ञानुवर्तनम्
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 In unison with thee, aided by thee,  
@@ -264,13 +249,12 @@ Perform it forthwith, O fearless one.
 
 
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/15_ayA_te.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 With this fuel, O Agni, will we serve thee;  
@@ -282,15 +266,13 @@ From the foe, the reviler, O rich in friends, from blame.
 
 
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/087/01_raxohaNaM_vAjinamA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
-
 
 I touch the steed that slayeth the Raksases;  
 I go for shelter to the friend most spreading;  
@@ -301,13 +283,12 @@ Guard us by day, [6] from harm and by night.
 
 ## रक्षोहाग्निध्यानम्
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 With great radiance Agni shineth;  
@@ -319,13 +300,12 @@ He sharpeneth his horns to pierce the Raksas.
 
 
 ### मन्त्रः
-#### मूलम्
-
 #### विश्वासप्रस्तुतिः
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/10_uta_svAnAso.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Let the roarings of Agni rise to the heaven,  

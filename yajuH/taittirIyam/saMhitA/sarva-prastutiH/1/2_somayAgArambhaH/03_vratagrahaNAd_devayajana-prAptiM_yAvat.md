@@ -7,8 +7,11 @@ short_title = "०३ व्रतग्रहणाद्"
 
 ## व्रतग्रहणम्
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 मध्यरात्रे प्रबुद्धो यजमान आचामति- दैवीं धियमित्यनुष्टुभा चतुष्पदया ।
+</details>
+
 
 #### मन्त्रः
 दैवी॒न् धिय॑म् मनामहे +++(=अभ्यस्यामः)+++  
@@ -42,11 +45,13 @@ May it guide us safely according as we will.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 व्रतयति। सुप्त्वा प्रबुद्ध्य चाचम्य व्रतयितव्यम् इति क्रमः ।  +++(र५।)+++
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 ये दे॒वा मनो॑जाता मनो॒युज॑स्  
 सु॒दख्षा॒ दख्ष॑-पितार॒स्+++(←बहुव्रीहिः)+++  
@@ -54,8 +59,9 @@ May it guide us safely according as we will.
 तेभ्यो॒ नमः॑ । तेभ्य॒स् स्वाहा॑ ।
 
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 The gods, mind-born, mind-using,  
@@ -66,11 +72,13 @@ To them honour! to them hail!
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 संविशति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 अग्ने॒ त्वꣳ सु जा॑गृहि।  
 व॒यꣳ सु म॑न्दिषीमहि+++(=स्वप्स्यामः)+++।  
@@ -78,8 +86,9 @@ To them honour! to them hail!
 प्र॒बुधे॑+++(=प्रबोधनाय)+++ न॒ᳶ पुन॑र् ददः ॥+++(र५)+++   
 
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 O Agni, be thou wakeful;  
@@ -90,18 +99,21 @@ Grant to us to wake again.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 प्रबुद्धं यजमानं वाचयति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 त्वम् अ॑ग्ने व्रत॒पा अ॑सि  
 दे॒व आ मर्त्ये॒ष्व् आ ।     
 त्वं य॒ज्ञेष्व् ईड्यः॑ ॥ +++(र५)+++
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou, O Agni, art the guardian of vows,  
@@ -113,19 +125,22 @@ Thou [1] art to be invoked at our sacrifices.
 ## सनीहारः
 _____
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 सनि-हारान् वक्ष्यमाणान् प्रहिणोति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 विश्वे॑ दे॒वा अ॒भि मा मा ऽव॑वृत्रन्+++(=अववर्तन्ताम्)+++ +++(- अपि तु प्रत्यावर्तन्ताम्)+++ -  
 पू॒षा स॒न्या +++(=याच्ञालब्धेन हिरण्यादि-धनेन)+++ सोमो॒ राध॑सा +++(=देहप्रसाधकेन क्षौम-दुकूलादि-धनेन)+++     
 दे॒वस् स॑वि॒ता वसो᳚र् +++(सकाशात्)+++ +++(जीवद्धनात्मक-)+++वसु॒-दावा᳚+++(=दाता)+++। +++(र४)+++
 
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 All the gods have surrounded me,  
@@ -135,11 +150,13 @@ The god Savitr the giver of brightness.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 आहरन्तं दृष्ट्वा जपति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः
 
 रास्वेय॑थ्+++(त्)+++ सो॒मा ऽऽभूयो॑  
@@ -147,8 +164,9 @@ The god Savitr the giver of brightness.
 विरा॑धि॒+++(=वियुक्तो ऽकारि)+++ मा ऽहम् आयु॑षा ॥
 
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 O Soma, give so much, and bear more hither.  
@@ -158,19 +176,21 @@ Let me not be parted with life.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 हिरण्यं प्रतिगृह्णाति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 च॒न्द्रम्+++(=ह्लादकम्)+++ अ॑सि ।  
 मम॒ भोगा॑य भव ।+++(र४)+++
 
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
-
+</details>
 <details><summary>Keith</summary>
 
 Thou art gold;  
@@ -179,18 +199,21 @@ be for my enjoyment.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 वस्त्रं प्रतिगृह्णाति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 वस्त्र॑म्+++(=आच्छादनम्)+++ असि।  
 मम॒ भोगा॑य भव ।
 
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art raiment;  
@@ -199,17 +222,20 @@ be for my enjoyment.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 उस्रां प्रतिगृह्णाति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 +++(क्षीरादिप्रदानेन)+++ उ॒स्रा+++(=वासहेतुः)+++ ऽसि॑ ।  
 मम॒ भोगा॑य भव ।  
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art a cow;  
@@ -219,15 +245,18 @@ be for my enjoyment.
 
 ## अनुदेशनम्
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+</details>
+
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः
 हयो॑ऽसि ।  
 मम॒ भोगा॑य भव ।
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art a horse;  
@@ -236,15 +265,18 @@ _____
 </details>
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+</details>
+
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः
 +++(हे अज!)+++ छागो॑+++(=छेदगो)+++ ऽसि ।  
 मम॒ भोगा॑य भव ।
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art a goat; be for my enjoyment. 
@@ -252,16 +284,19 @@ _____
 </details>
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+</details>
+
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः
 
 मे॒षो॑ +++(=अभिभविता)+++ ऽसि ।  
 मम॒ भोगा॑य भव।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art a ram; be for my enjoyment.
@@ -269,16 +304,19 @@ Thou art a ram; be for my enjoyment.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 नष्टां मृतां वानुदिशति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 वा॒यवे᳚ त्वा +++(ऽनुदिशामि)+++।+++(र५)+++
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 To Vayu thee
@@ -286,16 +324,19 @@ To Vayu thee
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 अप्सु वा पाशे वा मृताम् अनुदिशति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 वरु॑णाय त्वा  +++(ऽनुदिशामि)+++।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 to Varuna thee
@@ -303,16 +344,19 @@ to Varuna thee
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 या सं वा शीर्यते गर्तं वा पद्यते ताम् अनुदिशति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 निर्ऋ॑त्यै त्वा +++(ऽनुदिशामि)+++।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 to Nirrti thee
@@ -320,16 +364,19 @@ to Nirrti thee
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 यामहिर्व्याघ्रो वा हन्ति तामनुदिशति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 रु॒द्राय॑ त्वा  +++(ऽनुदिशामि)+++।+++(र५)+++
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 to Rudra thee!
@@ -339,17 +386,20 @@ to Rudra thee!
 ## अपाम् उत्तरणम्
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 दीक्षितो ऽप उत्तरति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 देवी॑र् आपो अपान्नपा॒द्+++(=जलाग्निः, अपां नप्ता)+++ य ऊ॒र्मि-ह॑वि॒ष्यः॑ ।  
 इन्द्रि॒यावा᳚न्+++(=वीर्यवान्)+++ म॒दिन्त॑म॒स्+++(=मादयितृतमः)+++ तव्ँ वो॒ माऽव॑क्रमिषम्॥+++(4)+++
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 O divine waters, son of the waters, the stream  
@@ -360,13 +410,13 @@ That stream of yours may I not step upon.
 
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः
 +++(युष्मत्प्रसादाद् अहं यज्ञारूपम्)+++ अच्छि॑न्न॒न् तन्तु॑म् पृथि॒व्या +++(सेतुम्)+++ अनु॑ गेषम्+++(=गच्छेयम्)+++।  
 +++(तेन नानुक्रमणम् इति भावः। 'सेतुमेव कृत्वात्येति' इति ब्राह्मणम् ॥)+++
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Along an unbroken web of earth may I go.
@@ -377,11 +427,13 @@ Along an unbroken web of earth may I go.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 प्रयाणे कर्तव्ये प्रयाति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 भद्राद् अ॒भि श्रेय॒ᳶ प्रेहि॑  ।  
 बृह॒स्पति॑ᳶ पुरए॒ता ते॑ अ॒स्तु ।
@@ -389,8 +441,9 @@ Along an unbroken web of earth may I go.
 +++('ब्रह्म वै देवानां बृहस्पतिस् तम् एवान्वारभते' इत्यादि ब्राह्मणम् ॥)+++
 
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 From good to better do thou advance.  
@@ -399,16 +452,19 @@ May Brhaspati be thy leader
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 देवयजनाद् अर्वाग् यत्र वत्स्यन् भवति तद् अवस्यति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 +++(देवयजनात् परम्)+++ अथ॑+ई॒म् अव॑स्य॒+++(=अवसितो भव)+++ वर॒ +++(प्रदेशे)+++ आ पृ॑थि॒व्याः।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Then set him free, on the chosen spot of earth.
@@ -416,17 +472,20 @@ Then set him free, on the chosen spot of earth.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 आदित्यम् उद्यन्तम् उपतिष्ठते।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 आ॒रे+++(=दूरे)+++ शत्रू᳚न् कृणुहि॒ सर्व॑वीर+++(<-बहुव्रीहिः)+++ ।
 
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Drive afar the foes with all thy strength.
@@ -434,19 +493,22 @@ Drive afar the foes with all thy strength.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 यत्र यक्ष्यमाणो भवति तद्-अभिप्रेतं देव-यजनम् अधितिष्ठति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 आ+इ॒दम् अ॑गन्म देव॒यज॑नम् +++(स्थानं)+++ पृथि॒व्या   
 विश्वे॑ दे॒वा यद् अजु॑षन्त॒+++(=असेवन्त)+++ पूर्वे॑।   
 ऋ॒ख्सा॒माभ्या॒य्ँ यजु॑षा +++(च यागं)+++ स॒न्तर॑न्तो  
 रा॒यस्पोषे॑ण॒+++(=धनपुष्टिभ्यां)+++ सम् इ॒षा म॑देम ॥ [8]
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 We have come to the place on earth for sacrifice to the gods,  

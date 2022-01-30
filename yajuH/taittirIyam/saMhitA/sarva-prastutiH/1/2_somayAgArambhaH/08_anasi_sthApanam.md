@@ -3,11 +3,13 @@ title = "०८ अनसि स्थापनम्"
 
 +++
 ## विनियोगः
-### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 सोमम् आदायोत्तिष्ठति।
+</details>
+
 
 ### मन्त्रः
-#### मूलम्
 #### विश्वास-प्रस्तुतिः  
 उद् आयु॑षा स्वा॒युषा +++(सोमरूपेण)+++  
 उदोष॑धीना॒ꣳ॒ रसे॑न ।  
@@ -15,8 +17,9 @@ title = "०८ अनसि स्थापनम्"
 उद् अ॑स्थाम्+++(=अतिष्ठम्)+++ अ॒मृता॒ꣳ॒ अनु॑॥+++(5)+++
 
 _____
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Up with life, with fair life,  
@@ -27,16 +30,19 @@ Up have I arisen along with the immortals.
 
 
 ## विनियोगः
-### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 सोमवाहनम् अनो ऽभिप्रैति।
+</details>
+
 
 ### मन्त्रः
-#### मूलम्
 #### विश्वास-प्रस्तुतिः  
 उ॒र्व् अ॑न्तरि॑ख्ष॒म् अन्वि॒हि +++(तेन निर्बाधं गच्छ)+++।  
 _____
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Fare along the wide atmosphere.
@@ -44,16 +50,19 @@ Fare along the wide atmosphere.
 
 
 ## विनियोगः
-### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 नीडे कृष्णाजिनमास्तृणाति।
+</details>
+
 
 ### मन्त्रः
-#### मूलम्
 #### विश्वास-प्रस्तुतिः  
 अदि॑त्या॒स् सदो॑ऽसि ।
 _____
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art the seat of Aditi.
@@ -61,16 +70,19 @@ Thou art the seat of Aditi.
 
 
 ## विनियोगः
-### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 तस्मिन् सोमं निदधाति।
+</details>
+
 
 ### मन्त्रः
-#### मूलम्
 #### विश्वास-प्रस्तुतिः  
 अदि॑त्या॒स् सद॒ आसीद ।
 _____
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Sit on the seat of Aditi.
@@ -78,11 +90,13 @@ Sit on the seat of Aditi.
 
 
 ## विनियोगः
-### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 सोमम् उपतिष्ठते।।
+</details>
+
 
 ### मन्त्रः
-#### मूलम्
 #### विश्वास-प्रस्तुतिः  
 अस्त॑भ्ना॒द् द्याम् ऋ॑ष॒भो+++(=वर्षिता)+++ अ॒न्तरि॑ख्ष॒म्   
 +++(निर्)+++अमि॑मीत वरि॒माण॑म्+++(=उरुत्वम्)+++ पृथि॒व्याः +++(सूर्यग्रहणेन?)+++।   
@@ -90,8 +104,9 @@ Sit on the seat of Aditi.
 विश्वेत् तानि॒ वरु॑णस्य+++(=वारकस्य)+++ व्र॒तानि॑॥
 
 _____
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 The bull hath stablished the sky, the atmosphere;  
@@ -102,19 +117,22 @@ All these are Varuna's ordinances.
 
 
 ## विनियोगः
-### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 सोमं वाससा वेष्टयति।+++(4)+++
+</details>
+
 
 ### मन्त्रः
-#### मूलम्
 #### विश्वास-प्रस्तुतिः  
 वने॑षु॒ व्य॑न्तरि॑ख्षन् ततान॒  
 वाज॒म्+++(=वेगम्)+++ अर्व॑थ्सु॒+++(=अश्वेषु)+++, पयो॑ अघ्नि॒यासु॑+++(=गोषु)+++ ।  
 हृ॒थ्सु क्रतु॒व्ँ वरु॑णो, वि॒ख्ष्व्+++(=मर्त्येषु/ गृहेषु?)+++ अ॑ग्निं   
 दि॒वि सूर्य॑म् अदधा॒थ् सोम॒म् अद्रौ॑ ॥
 _____
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 He hath stretched out the sky over the woods;  
@@ -125,18 +143,21 @@ The sun in the sky, the Soma on the hill.
 
 
 ## विनियोगः
-### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 सौर्यर्चा कृष्णाजिनं पुरस्तात् प्रत्यानह्यत्य् ऊर्ध्व-ग्रीवम्।
+</details>
+
 
 ### मन्त्रः
-#### मूलम्
 #### विश्वास-प्रस्तुतिः  
 उदु॒ त्यञ् जा॒तवे॑दसन्  
 दे॒वव्ँ व॑हन्ति के॒तवः॑+++(=रश्मयः)+++ ।    
 दृ॒शे विश्वा॑य॒ सूर्य᳚म् ॥
 _____
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thee, all-knowing god,
@@ -147,17 +168,20 @@ The sun for all to see.
 
 
 ## विनियोगः
-### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 सोम-वाहनाव् आनीयमानौ प्रतिमन्त्रयते।
+</details>
+
 
 ### मन्त्रः
-#### मूलम्
 #### विश्वास-प्रस्तुतिः
 उस्रा॒व्+++(=बलीवर्दौ)+++! एत॑न् धूर्षाहाव्  
 अन॒श्रू अवी॑रहणौ ब्रह्म॒चोद॑नौ   ।
 _____
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Come hither, ye oxen, strong to bear the yoke,
@@ -166,16 +190,19 @@ Tearless, slaying not man, furthering the prayer.
 
 
 ## विनियोगः
-### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 दक्षिणं युनक्ति।
+</details>
+
 
 ### मन्त्रः
-#### मूलम्
 #### विश्वास-प्रस्तुतिः  
 वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
 _____
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art the pillar of Varuna.
@@ -183,16 +210,19 @@ Thou art the pillar of Varuna.
 
 
 ## विनियोगः
-### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 शम्याम् अवगूहति ।
+</details>
+
 
 ### मन्त्रः
-#### मूलम्
 #### विश्वास-प्रस्तुतिः  
 वरु॑णस्य +++(सोमस्य च)+++ स्कम्भ॒+++(=अविचलमवस्थानं)+++सर्ज॑नम् असि ।
 _____
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art the prop of Varuna's pillar.
@@ -200,15 +230,18 @@ Thou art the prop of Varuna's pillar.
 
 
 ## विनियोगः
-### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 योक्त्रेण बध्नाति।
+</details>
+
 
 ### मन्त्रः
-#### मूलम्
 #### विश्वास-प्रस्तुतिः  
 प्रत्य॑स्तो॒+++(=उत्क्षिप्तः)+++ वरु॑णस्य॒ पाशः॑ ॥ [16]  
-#### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Varuna's noose is tied.

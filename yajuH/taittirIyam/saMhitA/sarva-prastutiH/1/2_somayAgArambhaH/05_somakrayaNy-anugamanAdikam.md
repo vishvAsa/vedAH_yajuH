@@ -8,11 +8,13 @@ short_title = "०५"
 
 ## सोमक्रयण्य्-अनुगमनम्
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 षट्पदान्यनु निक्रामति सोमक्रयणीं गच्छन्तीम् अनुगच्छति। षट्सु पदेषु षण्मन्त्राः ॥।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 +++(हे सोमक्रयणि!)+++  
 वस्व्य् अ॑सि ।  
@@ -23,8 +25,9 @@ short_title = "०५"
 च॒न्द्रा+++(=ह्लादनवती/ हिरण्यवती)+++ ऽसि॑ ।  
 +++(वसुरुद्रादित्याः सवनत्रयस्य देवताः । अदितिः प्रायणीयोदयनीययोः । वस्वादिमतो यज्ञस्य साधनत्वात् सोमक्रयण्यपि तद्वतीत्युच्यते ।)+++  
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Thou art a Vasvi,  
@@ -38,17 +41,20 @@ thou art Candra.
 
 ## सप्तमपदे कर्म
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 सप्तमं पदम् अभिगृह्णाति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 बृह॒स्पति॑स् त्वा सु॒म्ने+++(=सुखे)+++ र॑ण्वतु+++(=गमयतु)+++ ।  
 रु॒द्रो वसु॑भि॒र् आ चि॑केतु+++(=जानातु)+++ ।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 May Brhaspati make thee rejoice in happiness.  
@@ -57,11 +63,13 @@ May Rudra with the Vasus be favourable to thee.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 तस्मिन् पदे जुहोति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 [संयुक्तमन्त्रः  -   पृथि॒व्यास्त्वा॑ मू॒र्धन्ना जि॑घर्मि देव॒यज॑न॒ इडा॑याᳶ प॒दे घृ॒तव॑ति॒ स्वाहा]
 
@@ -70,8 +78,9 @@ May Rudra with the Vasus be favourable to thee.
 +++('पृथिव्या ह्येष मूर्धा यद्देवयजनम्' इत्यादि ब्राह्मणम् ।)+++  
 स्वाहा᳚+++(=स्वाहुतं भव/ इत्थं सरस्वत्याह)+++ ।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 I pour thee on the head of the earth,  
@@ -80,11 +89,13 @@ on the place of sacrifice, on the abode of the offering, rich in ghee; hail!
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 पदं परिलिखति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः
 
 परि॑लिखित॒ꣳ॒+++(=परिनाशितं)+++ रख्ष॒ᳶ  
@@ -92,8 +103,9 @@ on the place of sacrifice, on the abode of the offering, rich in ghee; hail!
 इ॒दम् अ॒हꣳ रख्ष॑सो ग्री॒वा अपि॑ कृन्तामि ।  
 यो᳚ऽस्मान् द्वेष्टि॒ यञ् च॑ व॒यन् द्वि॒ष्म- इ॒दम् अ॑स्य ग्री॒वा अपि॑ कृन्तामि ।
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 The Raksas is enclosed,  
@@ -106,16 +118,19 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 ## पांसुग्रहणम्
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 पदपांसून् धरण्यां संवपति।।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 अ॒स्मे+++(=अस्मासु)+++ रायः॑ ।  
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 With us be wealth.
@@ -123,16 +138,19 @@ With us be wealth.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 यजमानाय प्रयच्छति।।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः
 त्वे+++(=त्वयि)+++ रायः॑।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 with thee be wealth.
@@ -140,15 +158,18 @@ with thee be wealth.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 यजमानः पत्न्यै प्रयच्छति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः
 तोते॒+++(=त्वया ऊते/रक्षिते [गृहे])+++ रायः॑ ।
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 thine be wealth.
@@ -158,16 +179,19 @@ thine be wealth.
 ## पत्नीकर्म
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 पत्नीं सोमक्रयण्या समीक्षयति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 सं+ दे॑वि +++(सोमक्रयणि!)+++ दे॒व्या+उ॒र्वश्या॑+++(=उरूणि श्रेयांसि अश्नुते या तया [दृष्ट्या])+++ पश्यस्व।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Gaze, O goddess, together with the goddess Urvaçi.
@@ -175,11 +199,13 @@ Gaze, O goddess, together with the goddess Urvaçi.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 पत्नी यजमानमीक्षते।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 
 त्वष्टी॑+++(=प्रजनन-नैशित्य)+++मती ते सपेय+++(=मिथुनीभवेयम्)+++  
@@ -187,8 +213,9 @@ Gaze, O goddess, together with the goddess Urvaçi.
 वी॒रव्ँ वि॑देय॒ तव॑ स॒न्दृशि+++(=सन्दर्शने)+++  
 माऽहꣳ रा॒यस्पोषे॑ण॒ वि यो॑षम् ॥
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Let me attend on thee, with Tvastr's aid;  

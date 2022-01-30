@@ -7,11 +7,13 @@ short_title = "०६ सोममानादिकम्"
 
 ## अभिमर्शः
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 स-हिरण्येन पाणिना राजानम् अभिमृशति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः
 
 अ॒ꣳ॒शुना॑ ते अ॒ꣳ॒शुᳶ+++(=सूक्ष्मावयवः)+++ पृ॑च्यता॒म्, परु॑षा॒+++(=पर्वणा)+++ परुः॑+++(=पर्व)+++।  
@@ -20,8 +22,9 @@ short_title = "०६ सोममानादिकम्"
 +++(देवयज्ञादीनाम्)+++ अमात्यो॑ऽसि ।  
 शु॒क्रस्+++(=हिरण्यं)+++ ते॒ +++(परि)+++ग्रहः॑ +++(सहिरण्येन पाणिना ग्रहणात् क्रयणाद् वा)+++।  
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Let thy shoot be joined with shoot, joint with joint,  
@@ -35,11 +38,13 @@ thy libation is bright.
 ## मानम्, उपसमूहनम्
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 अति-च्छन्दसा +ऋचा सोमं मिमीते।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 
 अ॒भि त्यन्+++(=तन्)+++ दे॒वꣳ स॑वि॒तार॑म् ऊ॒ण्योः᳚+++(=अवित्र्योः [द्यावापृथिव्योः])+++ क॒विक्र॑तु॒म्  
@@ -48,8 +53,9 @@ thy libation is bright.
 +++(माम् आविश्य स)+++ हिर॑ण्य-पाणिर् अमिमीत +++(सोमं)+++ सु॒क्रतु॑ᳵ कृ॒पा+++(=कृपया)+++ सुवः॑+++(=सुष्ठु वृतः)+++ ॥
 
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Unto that god, Savitr, within the two bowls, The sage,  
@@ -60,16 +66,19 @@ The golden-banded sage hath measured the heaven with his form.
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 अवशिष्टं सोमं मितेनोपसमूहति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 प्र॒जाभ्य॑स् त्वा +++(अवशिष्टम् उपसमूहामि)+++।
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 For offspring thee!
@@ -78,16 +87,19 @@ For offspring thee!
 
 ## सन्नहनम्
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 उष्णीषेणोपसन्नह्यति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 प्रा॒णाय॑ त्वा +++(सोमम् उपनह्यामि)+++।
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 For expiration thee!
@@ -95,16 +107,19 @@ For expiration thee!
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 बन्धनं शिथिलीकरोति।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 व्या॒नाय॑ त्वा +++(अनुशृन्थामि)+++।
 _____
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 For cross-breathing thee!
@@ -112,17 +127,20 @@ For cross-breathing thee!
 
 
 ### विनियोगः
-#### भास्करोक्त-विनियोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
 यजमानम् अवेक्षयति सोमं।
+</details>
+
 
 #### मन्त्रः
-##### मूलम्
 ##### विश्वास-प्रस्तुतिः  
 प्र॒जास् त्वम् अनु॒ प्राणि॑हि ।  
 प्र॒जास् त्वाम् अनु॒ प्राण॑न्तु ॥   
 
-##### भास्करटीका
+<details><summary>भास्करटीका</summary>
 
+</details>
 <details><summary>Keith</summary>
 
 Breathe thou after offspring. 
