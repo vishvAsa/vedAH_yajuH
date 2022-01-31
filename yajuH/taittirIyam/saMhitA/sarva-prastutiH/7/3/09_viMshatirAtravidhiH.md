@@ -26,18 +26,18 @@ title = "०९ विंशतिरात्रविधिः"
 
 ## विधानम्
 
-<div class="js_include" url="../aMshAH/jyotir_gaur_AyuH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 इ॒मान् ए॒व लो॒कान॒भ्यारो॑हन्ति ।
 
 अ॒भि॒पू॒र्वन् +++(तिस्रस्)+++ त्र्य॒हा भ॑वन्ति ।  
 अ॒भि॒पू॒र्वमे॒व सु॑व॒र्गल्ँ लो॒कम् अ॒भ्यारो॑हन्ति ।[23]  
 
-<div class="js_include" url="../aMshAH/madhye_pRShThAni/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/madhye_pRShThAni.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
-<div class="js_include" url="../aMshAH/bRhad-rathantara-yAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
-<div class="js_include" url="../aMshAH/pratyaN_tryahaH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/pratyaN_tryahaH.md"  newLevelForH1="3" includeTitle="false"> </div>  
   
 अ॒ति॒रा॒त्राव् अ॒भितो॑ भवतः ।  
 ब्र॒ह्म॒व॒र्च॒सस्या॒न्नाद्य॑स्य परि॑गृहीत्यै ॥ [24]

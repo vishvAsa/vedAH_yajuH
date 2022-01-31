@@ -20,11 +20,11 @@ title = "०१ षड्रात्रविधिः"
 पृ॒ष्ठैर् ए॒व ऋ॒र्तून् अ॒न्वारो॑हन्ति +ऋ॒तुभि॑स् सव्ँवथ्स॒रम् ।  
 ते स॑व्ँवथ्स॒र ए॒व प्रति॑ तिष्ठन्ति ।
 
-<div class="js_include" url="../aMshAH/bRhad-rathantara-yAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/brAhmaNam/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="../aMshAH/21-27-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="../aMshAH/33-vidhAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/2/01_ShaDrAtravidhiH/33-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ## उपकरणविवेकः
 स॒दो॒-ह॒वि॒र्-धा॒निन॒ ए॒तेन॑ षड्रा॒त्रेण॑ यजेरन् ।  

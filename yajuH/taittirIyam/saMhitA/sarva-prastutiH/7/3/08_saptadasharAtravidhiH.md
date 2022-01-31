@@ -19,7 +19,7 @@ title = "०८ सप्तदशरात्रविधिः"
 +++(पङ्क्तिप्रभवत्वाद्वा धानादिपञ्चकसाधनत्वाद्वा)+++ पाङ्क्तो॑ य॒ज्ञः । य॒ज्ञम् ए॒वाव॑ रुन्धते ।
 
 +++(द्वादशाहस्य दशाहानि विदधाति -)+++  
-<div class="js_include" url="../aMshAH/asatram_aChandomam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 स॒प्त॒द॒श॒रा॒त्रो भ॑वति ।  
 स॒प्त॒द॒शᳶ प्र॒जाप॑तिः ।

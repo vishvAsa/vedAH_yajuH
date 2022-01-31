@@ -313,7 +313,4 @@ Sharp weapons to slay the Raksas;
 In the carouse his radiance bursteth forth  
 The godless assailers cannot restrain him.
 
-
-
-
 </details>

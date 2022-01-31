@@ -4,7 +4,7 @@ title: ०५ हविःप्रोक्षणादिः
 ---
 
 +++(अप उत्पुनाति)+++  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/Rk/1/1_darshapUrNamAsAdiH/devo_vas_savitotpunAtu.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/Rk/1/1_darshapUrNamAsAdiH/devo_vas_savitotpunAtu.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ____
 +++(उन्महयन्न् उपोत्तिष्ठति)+++  

@@ -39,7 +39,7 @@ title = "१२ अश्वनामवाचनाद्यङ्गमन्�
 
 ### विश्वासप्रस्तुतिः
 
-<div class="js_include" url="../aMshAH/iha_dhRtiH"  newLevelForH1="2" includeTitle="falseZ"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 

@@ -17,11 +17,11 @@ title = "०६ पञ्चदशरात्रयोः विधिः"
 व्या॒वृत॑म् ए॒व पा॒प्मना॒ भ्रातृ॑व्येण गच्छन्ति ।  
 
 ## विधानम्
-<div class="js_include" url="../aMshAH/jyotir_gaur_AyuH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md"  newLevelForH1="3" includeTitle="false"> </div>  
 ए॒ष्वे॑व लो॒केषु॒ प्रति॑ तिष्ठ॒न्ति ।
 
 +++(द्वादशाहस्य दशाहानि विदधाति -)+++  
-<div class="js_include" url="../aMshAH/asatram_aChandomam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 पञ्चदशरा॒त्रो भ॑वति, पञ्चद॒शो वज्रः॑।  
 वज्र॑मे॒व भ्रातृ॑व्येभ्य॒ᳶ प्र ह॑रन्ति ।

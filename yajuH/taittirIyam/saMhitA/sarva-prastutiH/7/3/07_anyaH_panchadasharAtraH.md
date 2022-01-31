@@ -32,16 +32,15 @@ title = "०७ अन्यः पञ्चदशरात्रः"
 स॒व्ँव॒थ्स॒रस् सु॑व॒र्गो लो॒कः । तस्मा᳚थ् सुव॒र्ग्याः᳚ ।
 
 ## विधानम्
-<div class="js_include" url="../aMshAH/jyotir_gaur_AyuH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 इ॒मान् ए॒व लो॒कान॒भ्यारो॑हन्ति ।
 
-<div class="js_include" url="../aMshAH/madhye_pRShThAni/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/madhye_pRShThAni.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
-<div class="js_include" url="../aMshAH/bRhad-rathantara-yAnam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
-
-<div class="js_include" url="../aMshAH/pratyaN_tryahaH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/pratyaN_tryahaH.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 पञ्च॑दशै॒ताः।
 तासा॒य्ँ या दश॒ दशा᳚ख्षरा वि॒राड्। अन्न॑व्ँ वि॒राड्। वि॒राजै॒वान्नाद्य॒म् अव॑ रुन्धते ।  
