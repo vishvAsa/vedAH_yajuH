@@ -60,19 +60,19 @@ unicode_script = "devanagari"
 महादे॒वस्य॑ धीमहि ।  
 तन्नो॑ रुद्रः प्रचो॒दयात् ।  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/aMshAH/tatpuruShAya_vidmahe_rudraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//tatpuruShAya_vidmahe_rudraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/aMshAH/dantiH_prachodayAt.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//dantiH_prachodayAt.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/aMshAH/garuDaH_prachodayAt.md"  newLevelForH1="2" includeTitle="false"> </div>   
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//garuDaH_prachodayAt.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
 
 ## 1.6
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/aMshAH/kAtyAyanAya_vidmahe.md"  newLevelForH1="2" includeTitle="false"> </div>   
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//kAtyAyanAya_vidmahe.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/aMshAH/nArAyaNAya_vidmahe.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//nArAyaNAya_vidmahe.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
@@ -422,7 +422,7 @@ unicode_script = "devanagari"
 
 ## 46.1
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/aMshAH/tatpuruShAya_vidmahe_rudraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//tatpuruShAya_vidmahe_rudraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
