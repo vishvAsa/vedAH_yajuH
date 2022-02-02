@@ -89,25 +89,17 @@ unicode_script: devanagari
 
 # पञ्च शांतिः
 
-<div class="js_include" url="../devaH/misc-devas/Rk/tat_shaMyoH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/hindukaH/misc-devas/yajuH/tat_shaMyoH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../devaH/misc-devas/yajuH/shanno_mitraH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/01_shanno_mitraH_prArambhe/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../devaH/misc-devas/yajuH/sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/23_sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../devaH/misc-devas/yajuH/bhadraM_karNebhiH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-## ऋक्
+<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/1/43_0236_taM_vo.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-ऐन्द्रम्। गौतमस्य नोधसः।
-सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n987/mode/2up)।
 
-तं꣡ वो꣢ द꣣स्म꣡म्+++(=दर्शनीयम्)+++ ऋ꣢ती꣣+++(=बाधक)+++ष꣢हं꣣  
-व꣡सो꣢र् +++(=निवसतः)+++ मन्दा꣣न꣡म्+++(=मोदमानम्)+++ अन्ध꣢꣯सः+++(=अन्नस्य)+++।  
-अ꣣भि꣢ व꣣त्सं꣡ न स्वस꣢꣯रेषु+++(=अहस्सु)+++ धे꣣न꣢व꣣  
-इ꣡न्द्रं꣢ गी꣣र्भि꣡र् न꣢वामहे+++(=स्तुमः)+++ ॥236 ॥
-
-तं वो दस्ममृतीषहं वसोर्मन्दानमन्धसः। अभि वत्सं न स्वसरेषु धेनव इन्द्रं गीर्भिर्नवामहे ॥236 ॥
 
 ## साम
 तङ्+++([])+++ वः। ए+++([])+++दास्मां।ऋ+++([])+++ती, षा,हं।हा+++([])+++,इ, आ+++([])+++,।औ उहो,

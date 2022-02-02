@@ -8,7 +8,7 @@ unicode_script = "devanagari"
 तैत्तिरीयोपनिषत् २, वारुण्युपनिषत् १, ब्रह्मानन्दवल्ली  
 तैत्तिरीयोपनिषत् ३, वारुण्युपनिषत् २, भृगुवल्ली  
 
-<div class="js_include" url="aMshAH/shanno_mitraH_prArambhe/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="01_shanno_mitraH_prArambhe.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ## शिक्षा
@@ -170,12 +170,12 @@ unicode_script = "devanagari"
 इति त्रिशङ्कोर् वेदा॑नुव॒चनम् । (17)
 
 
-<div class="js_include" url="aMshAH/veda-sAraH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="18-21_veda-sAraH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
-<div class="js_include" url="aMshAH/shanno_mitraH_samApanam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="22_shanno_mitraH_samApanam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="aMshAH/sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="23_sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## ब्रह्मविद् आप्नोति
 ब्र॒ह्म॒विदा᳚प्नोति॒ पर᳚म् ।  
