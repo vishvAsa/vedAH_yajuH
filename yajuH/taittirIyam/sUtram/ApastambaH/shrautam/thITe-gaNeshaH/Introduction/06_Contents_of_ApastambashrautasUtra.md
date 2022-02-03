@@ -30,7 +30,7 @@ title = "06 Contents of Āpastambaśrautasūtra"
 - 20.1-23. Aśvamedha (Horse-sacrifice).
 - 20.24-25. Puruṣamedha (Man-sacrifice), Sarvamedha (All-sacrifice).
 - 21.1-10. Dvadaśāha (Twelve-day-Soma-sacrifice).
-- 21.15-23. Gavāmayana (-sacrificial-session).
+- 21.15-23. Gavāmayana (YEAR-LONG-sacrificial-session).
 - 21.24-25. Utsargiṇām ayanam (-sacrificial session).
 - 22.1-13. Ekāhas (One-day-soma-sacrifices).
 - 22.14-24. Ahīna-sacrifices.
