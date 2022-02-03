@@ -16,7 +16,7 @@ title = "06 Contents of Āpastambaśrautasūtra"
   - 8.9-19: Sākamedhaparvan.
   - 8.20-22: Śunāsīrīyaparvan.
 - 9. Prāyaścittis (Expiations).
-- 10-13. Agniṣtoma.
+- 10-13. Agniṣṭoma.
 - 14.1-12. Ukthya, Șodasin, Atirātra, Aptoryāma, Aikādaśīna.
 - 14.13-15. Cāturhotr̥, Pañcahotr̥, Ṣaḍḍhotr̥, Saptahotr̥,etc. Pravargya.
 - 16-17. Agnicayana (Fire-altar-building-rite).
