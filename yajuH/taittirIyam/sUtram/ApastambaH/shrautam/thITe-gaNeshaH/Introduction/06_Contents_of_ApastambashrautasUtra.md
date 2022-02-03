@@ -7,8 +7,8 @@ title = "06 Contents of Āpastambaśrautasūtra"
 - Praśnas 1-4. Darśapūrṇamāsas, Yājamāna
 - 5. Agnyādheya (Establishment of fires)
   - 5.26-79 Punarādheya (Re-establishment of fires).
-- 6. Agnihotra 6.16-31.
-- Agnyupasthāna (Praise of Agni).
+- 6. Agnihotra 
+  - 6.16-31. Agnyupasthāna (Praise of Agni).
 - 7. Nirūdhapasubandha (Independent Animal sacrifices).
 - 8. Cāturmāsya-sacrifices (Four-mounthly-sacrifices).
   - 8.1-4: Vaiśvadevaparvan.
