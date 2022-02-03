@@ -1,0 +1,5 @@
++++
+title = "07 Prior publications"
+
++++
+(7) It will be thus seen that Āpastambaśrautasūtra is a model of Taittiriya-manual containing numerous aspects of Vedic ritual although there are some problems regarding the complicated relations between the Sūtras and its basic texts (contrast Gonda, The Ritual Sūtras, I. 521). This text has been critically edited alongwith the commentary of Rudradatta by R Garbe in three volumes (Calcutta, 1882, 1885, and 1902). This edition was re-edited by C. G. Kashikar, (Delhi, 1983 ) along with some correction and emendations to the text. For the present translation Garbe's edition is the basis. Kashikar's corrections and emendations have also been accepted. Apastambaśrauta-sūtra was translated into German by W. Caland (Das Śrautasūtra does Āpastamba I, Göttirgen-Leipzig, 1921, II, Amsterdam 1924, and III, Amsterdam, 1928).
