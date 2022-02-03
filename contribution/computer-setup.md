@@ -5,6 +5,7 @@ unicode_script = "devanagari"
 
 ## समानं कर्म
 - अधः XYZ इति यद् अस्ति, तस्य स्थाने स्वीयं github-नाम प्रयुङ्क्ताम्।
+  - अथवैतत् प्रयुज्यतां यन्त्रम्: <input id="input_githubUserId"></input><button id="transformId">पाठम् परिवर्तय!!</button>
 - https://github.com/XYZ/vedAH इति पूर्वम् एव वर्तते चेन् निष्कासयतु browser-उपयोगेन।
 - https://github.com/vishvAsa/vedAH इत्यत्र गत्वा पुनः fork इति करोतु। https://github.com/XYZ/vedAH इति किञ्चिल् लभ्यते।
 
@@ -56,3 +57,12 @@ hugo server --renderToDisk --config ./config_dev.toml
     - `git pull upstream static_files` इति परिवर्तनानि लभ्यानि।
     - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/vedAH/tree/static_files इत्यत्र गत्वा प्रेषणीयम्।
 
+<script>
+module_ui_lib.default.replaceWithQueryParam("githubUserId", /XYZ(?=[^'’])/g);
+
+document.getElementById("transformId").onclick = function(e) {
+  let userId = document.getElementById("input_githubUserId").value;
+  console.log(userId);
+  module_ui_lib.default.insertQueryParam("githubUserId", userId);
+};
+</script>
