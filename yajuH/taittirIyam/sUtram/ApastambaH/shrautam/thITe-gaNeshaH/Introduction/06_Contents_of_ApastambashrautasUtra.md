@@ -22,7 +22,7 @@ title = "06 Contents of Āpastambaśrautasūtra"
 - 15 Pravargya.
 - 16-17. Agnicayana (Fire-altar-building-rite).
 - 18.1-7. Vājapeya.
-- 18.8-22. Rájasūya.
+- 18.8-22. Rājasūya.
 - 19.1-10. Sautrāmaṇi (19.5-10 Kaukilī-Sautrāmaṇī)
 - 19.11-15. Sāvitra, Nāciketa, Cāturhotra, Vaiśvasr̥ja (Agni) (Fire altar-building-rites).
 - 19.16-17. Kāmya Pasus (optional animal sacrifices).
