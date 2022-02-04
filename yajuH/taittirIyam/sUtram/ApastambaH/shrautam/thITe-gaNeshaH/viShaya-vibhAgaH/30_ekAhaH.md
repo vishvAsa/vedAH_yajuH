@@ -70,7 +70,7 @@ Aps's Translation : THITE
 11. The colours of theni should be the same as those in the group of eleven (victims).' 
 1. For details see TS V.5.22. Thus the he-goat for Agni should be 
 one with black neck; the one for Soma should be brown and the 
-one for Bṣhaspati should be one with white back. तदलाभ एतासां देवतानामष्टाकपाल: प्रथमश्चरू चेतरौ॥१२॥ 12. In case of their (of such victims) inavailabity, there sho 
+one for Bṣhaspati should be one with white back. तदलाभ एतासां देवतानामष्टाकपालः प्रथमश्चरू चेतरौ॥१२॥ 12. In case of their (of such victims) inavailabity, there sho 
 1299 
 ud a sacrificial bread prepared on eight potsherds, (as the substitute for) the first and two other rice-paps (for the next ones). 
 धारयत्याहवनीयम्॥१३॥ 13. He holds the Ahavaniya-fire nearby. व्याघारयत्युत्तरवेदिम्॥१४॥ 14. He sprinkles ghee on the Uttaravedi. सर्पिष्मदशनम्॥१५॥ 
@@ -79,7 +79,7 @@ ud a sacrificial bread prepared on eight potsherds, (as the substitute for) the 
 16a). After having kept gold in his mouth (the sacrificer) sleeps in between the thighs of the beloved wife while obsery ing celibacy. 
 1. For Sūtras 15 and 16 cf. JB II. 117. ऋत्विजः समोढाः॥१७॥ 
 16b-17. (While the Soma-heralds declare the intention of the sacrificer to him viz.) "I shall perform an offering or an animal-sacrifice tomorrow" the (chief) priests are brought (by means of a wagon, on the proceeding day). 
-तान्यथालोकं विनिधाय सर्वा दिश: सक्षीरदूतयो ऽश्वरथाः सोमप्रवाका विधावन्ति॥१८॥ 
+तान्यथालोकं विनिधाय सर्वा दिशः सक्षीरदूतयो ऽश्वरथाः सोमप्रवाका विधावन्ति॥१८॥ 
 18. After the priests have been placed in accordance with their places,' the Soma-heralds on four horse-chariots with skin bags filled with milk, run all the directions.2 
 1. The Hotr̥ to the east, the Udgāis to the north; the Adhvaryu to the 
 west and the Brahman to the South. 2. Cp.TMB XVI.13.10;13. तेभ्यो यन्नवीनतमुदियात्तदाज्ये ऽवनयेत्॥१९॥ 
@@ -526,7 +526,7 @@ Marāya is a bigger heap. Cf. JB II.164. गोतमचतुष्टोमा
 * 1328 
 आग्नेयेनाष्टाकपालेनान्तरालं प्रतिपद्यते॥२१॥ 
 21. In between, every day the sacrificer should offer a sacrificial bread on eight potsherds to Agni. 
-उभयत्र गायत्री: संपूर्णा दक्षिणा ददाति॥२२॥ 
+उभयत्र गायत्रीः संपूर्णा दक्षिणा ददाति॥२२॥ 
 22. In both of these he should give sacrificial gifts (cows) equal to (the number of syllables in) Gayatri (metre'.) 
 1. See the next Sūtra. 
 XXII.12 

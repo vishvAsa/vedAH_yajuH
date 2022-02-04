@@ -125,7 +125,7 @@ two (libations) before and after the omentum (-offering),5 throwing of the oment
 9. Having poured down together (the remnants of) the broths (of all the animals), he offers them to the Directions (Diśaḥ). 
 उत्तमे पशौ वनस्पतिं यजति। स्विष्टकृतं च॥१०॥ 
 10. In connection with the offering (of the limbs) of the last animal, he offers an oblation to Vanaspati and the Svis takst-offering. 
-सर्वेषां गुदकाण्डैरुपयज उपयजति। जापनीभिश्च पत्नी: संयाजयन्ति।११॥ 
+सर्वेषां गुदकाण्डैरुपयज उपयजति। जापनीभिश्च पत्नीः संयाजयन्ति।११॥ 
 11. (The Pratiprasthāts) offers the by-offerings' with the pieces of rectums of all (the animals). They perform the Patnisamyāja oblations with the tails (of all the animals). 
 1. See VII.26.12ff. 2. See VII.27.9ff. 
 784 
@@ -149,7 +149,7 @@ orders uttered by the Adhvaryu the words referring to the animal are not to be s
 पशुपुरोडाशाद्यनूबध्यायाः शेषं संस्थापयेत्॥१८॥ 
 18. He should cause the remaining (ritual) in connection with the Anabandhya (-cow) beginning with the offering of the animal-sacrificial-bread' be established completely. 
 1. Scc VII.22.1. 
-यदि कापेयी पश्चेकादशिनी स्यादाग्नेयमभित ऐन्द्रौ पशू भवतः। उत्तरतः सारस्वतं सौम्यं पौष्णं बार्हस्पत्यमिति। दक्षिणत: सावित्रं वैश्वदेवं मारुतं वारुणमिति॥१९॥ 
+यदि कापेयी पश्चेकादशिनी स्यादाग्नेयमभित ऐन्द्रौ पशू भवतः। उत्तरतः सारस्वतं सौम्यं पौष्णं बार्हस्पत्यमिति। दक्षिणतः सावित्रं वैश्वदेवं मारुतं वारुणमिति॥१९॥ 
 19. If (the group of the eleven animals) is of the Kapeyi (type) there should be two animals for Indra, one on each side of the animal for Agni; towards the north, (after the animal for Indra), one for Sarasvati, one for Pusan, and one for Brhaspati; and towards the south, (after the animal for Indra), one for Savits, one for Viśvedevas, one for Maruts, and one for Varuṇa.' 
 1. Cp. KS XXIX. 10. Here the animals towards the north are not 
 mentioned and the one for Savits is mentioned at a different place. तामेतां कापेया विदुः। तामतिरावचरम आलभेत॥२०॥ 

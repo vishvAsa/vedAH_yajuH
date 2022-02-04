@@ -49,7 +49,7 @@ ____ 1. See I.16.7; I.19.7. एषाऽन्येषां नानाबी
 20. At the time of adornment' he fills the potsherd of the sacrificial bread on one potsherd with ghee (in such a way that the bread will be completely sunk in the ghee).? 
 1. See II. 10.5. 2. This is in contrast with the usual practice according to which ghee 
 is to be under and upon the bread, see II. 10.4; 11.11.1-4. For this 
-Sūtra cf. KS 36.1; MS 1.10.7. आवि:पृष्ठं वा कृत्वासादयति॥२१॥ 
+Sūtra cf. KS 36.1; MS 1.10.7. आविःपृष्ठं वा कृत्वासादयति॥२१॥ 
 21. Or he places' it after having made its back (the upper side) visible. 
 1. See II. 11.5. 
 2. Cf. TB 1.6.3.5. प्रचरणकाल उद्धृत्य बर्हिषदं कृत्वा जुह्वामुपस्तीर्याधायाशयमन्वानीयाभि घार्योपांशु प्रचरति॥२२॥ 
@@ -59,7 +59,7 @@ VI.30 सर्वहुतमपर्यावर्तयन्नृजे�
 1. He offers it completely,' without letting it turn upside down, straightway, and in such a manner that it will remain well-established?; (but he does not (offer it) by means of his hand. 3 
 1. Cf. KS 36.1; MS 1. 10.7; TB 1.6.3.5. 2. Cf. TB 1.6.3.7-8. 3. Cf. TB I. 6.3.7.Bu 
 281 
-यदि हुत: पर्यावर्तेत स्रुचो ऽग्रेण कल्पयेत्॥२॥ 
+यदि हुतः पर्यावर्तेत स्रुचो ऽग्रेण कल्पयेत्॥२॥ 
 2. After being offered if it turns upside down, it should be arranged (i.e. be kept properly) by means of the point of the ladle. 
 न पाणिना॥३॥ 3. Not by means of hand. वरे दत्ते कल्पयितव्यः॥४॥ 
 4. It should be arranged (kept) in a proper manner (by the Adhvaryu) after a chosen (gift) has been given (by the sac rificer to the Adhvaryu).' 

@@ -19,7 +19,7 @@ ___ 1. See chapter VII. अग्नीनन्वाधाय वेदं क
 6. The manner of performance of the rice-pap is already explained. 
 1. See VIII. 10.2ff. 
 1099 
-श्रपयित्वाग्रेण गार्हपत्यमवटं खात्वा तस्मिन्सुराया: कल्पेन सुरां संदधाति॥७॥ 
+श्रपयित्वाग्रेण गार्हपत्यमवटं खात्वा तस्मिन्सुरायाः कल्पेन सुरां संदधाति॥७॥ 
 7. After having cooked rice-pap, having dug out a ditch in front of the Gārhapatya, he places the Surā in the manner in which Surā is to be prepared. 
 परिस्तुद्भवति॥८॥ 8. (The Surā) is Parisrut.1 
 1. See XIX.5.7 - 6.5 ; cp. XVIII.1.9. स्वाद्वीं त्वा स्वादुनेति शष्पैः सुरां संसृजति॥९॥ 
@@ -119,7 +119,7 @@ ___ 1. Cf. SB V.5.4.26.
 2. The sacrificer addresses the offering which is offered or is being offered, with the formulae ahāvyagne..., and yasminnaśvāsaḥ. 
 ___ 1. For these verses see TB I.4.2.1-2. ब्राह्मणं परिक्रीणीयादुच्छेषणस्य पातारम्॥३॥ 
 3. (The sacrificer) should hire a Brahmin to drink the remnant (of the Surā).1 
-1. Cf. TB I.8.6.2; cp. MS II.3.9. नाना हि वां देवहितं सदो मितं मा संसृक्षाथां परमे व्योमन्। सुरा त्वमसि शुष्मिणी सोम एष मा मा हिंसी: स्वां योनिमाविशन्॥ यदत्र शिष्टं 
+1. Cf. TB I.8.6.2; cp. MS II.3.9. नाना हि वां देवहितं सदो मितं मा संसृक्षाथां परमे व्योमन्। सुरा त्वमसि शुष्मिणी सोम एष मा मा हिंसीः स्वां योनिमाविशन्॥ यदत्र शिष्टं 
 1106 
 रसिनः सुतस्य यदिन्द्रो अपिबच्छचीभिः। अहं तदस्य मनसा शिवेन सो राजानमिह भक्षयामीति वा स्वयं पिबेत्॥४॥ ... 4. Or he himself' may drink (the Surā) with nānā hi vām...; yadatra sistam....2 
 1. See MS II.3.9; KS.XII. 11. 
@@ -172,7 +172,7 @@ MS II.3.3. The fifth only here and in SatyāśS. तूष्णीं प्र
 10. The return (towards the sacrificial place) (should be done) silently (without any formula).' 
 1. Contrast XIII.22.5. तया सोमवामिनं सोमातिपवितं राजानमपरुध्यमानमपरुद्धमभिषिच्यमा नमभिषिषिचानं वा याजयेत्॥११॥ 
 11. (A priest) should cause one who has vomited (Soma), one who has purged with Soma, one who is a King but is being driven out (of his Kingdom), one whom (royal consecratory water) is being sprinkled upon, or is desirous of being one (royal conservation water to be sprinkled upon) to perform this (Sautrāmaṇi-offering).' 
-1. Cp. MS II.4.1; KS XII. 10. अभिचर्यमाणो यजेता अभिचरन्नन्नाद्यकामः प्रजाकाम: पशुकामो वा॥१२॥ 
+1. Cp. MS II.4.1; KS XII. 10. अभिचर्यमाणो यजेता अभिचरन्नन्नाद्यकामः प्रजाकामः पशुकामो वा॥१२॥ 
 12. One against whom black-magic is being performed should perform (this offering) or one who is (desirous of) performing (black magic), one who desires food, one who desires progeny, or one who desires cattle (may perform this offering). 
 सर्वेष्वभिषेकेष्वाम्नाता॥१३॥ 
 13. (This Sautrāmaṇi-offering) is mentioned (prescribed) in all the sprinklings (of water).' 
@@ -184,7 +184,7 @@ ApSs Translation : THITE तया ब्राह्मणो राजन्�
 14. A Brāhmaṇa, a Kṣatriya or a Vaiấya desirous of luster should perform it. 
 XIX. 5 
 ## Kaukilī-Sautrāmaṇī
-KAUKILI SAUTRĀMAŅI अथात: कौकिली व्याख्यास्यामः॥१॥ 1. Now we shall explain the Kaukili (Sautramani).' 
+KAUKILI SAUTRĀMAŅI अथातः कौकिली व्याख्यास्यामः॥१॥ 1. Now we shall explain the Kaukili (Sautramani).' 
 1. The Black Yajurveda has only the formulae of this Iṣṭi. It does not 
 describe it. The ŚB XII. 7.1.1-9.3.16 describes it. तस्याः पूर्ववत्कल्पः॥२॥ 2. Its performance is similar to one (described) earlier.' 
 1. i.e. the (Caraka-Sautrāmaṇi XIX.1.1-4.14. निर्वपणकाल ऐन्द्रं पशुमालभते॥३॥ 
@@ -201,7 +201,7 @@ ___ 1. Cf. SB XII.7.2.10-11. चूर्णानि तानि दनोद�
 8. After having mixed those flours (of roasted barley) with curds or butter-milk (with double quantity of water), then having covered (the mixture) by means of Darbha-blades, he places (it). 
 स मासरः॥९॥ 9. This is the Māsara.' ___1. See XIX.4.8. तेषामेव स्थूलचूर्णानि संस्त्रावेणभिषिक्तानि स नग्नहुः॥१०॥ 
 10. When the remnants of the mixture are poured on the coarse (part of the) flour that is called Nagnahu.. 
-श्यामाकान्सक्तून्कृत्वा सुरायाः संधानकाले तोक्मैर्मासरेण नग्नहुना च सुरां संसृज्य सक्तूनां तृतीयेन परिकीर्य परीतो षिञ्चता सुतमित्येकस्या गोर्दुग्धेन परिषिच्यापरेण तृतीयेन परिकीतयैव तिसृणां दुग्धेन तिस्त्रो रात्री: संसृष्टा वसति॥११॥ 
+श्यामाकान्सक्तून्कृत्वा सुरायाः संधानकाले तोक्मैर्मासरेण नग्नहुना च सुरां संसृज्य सक्तूनां तृतीयेन परिकीर्य परीतो षिञ्चता सुतमित्येकस्या गोर्दुग्धेन परिषिच्यापरेण तृतीयेन परिकीतयैव तिसृणां दुग्धेन तिस्त्रो रात्रीः संसृष्टा वसति॥११॥ 
 11. Having made the flour of Śyāmāka grains at the time of preparation of Surā,' having mixed the Surā? with the germinated rice, Māsara and Nagnahu,2 (the Adhvaryu), having spread one-third of the (Syāmāka)-flour (on it), having poured the milk of one cow on it with parito sincatā sutam... having spread another one-third (of the Syāmāka flour), (having poured) milk of two cows (on it) with the same(formula), having spread the third one-third (of the Syāmāka flour), having poured) milk of three cows (on it) with the same (formula)* (he allows) the mixture to remain for three nights. 
 1. Sec XIX.1.7. 2. Cp. XIX.1.8. 3. VS XIX.2. 4. Cp. SB XII.8.2.11-12. 
 1112 

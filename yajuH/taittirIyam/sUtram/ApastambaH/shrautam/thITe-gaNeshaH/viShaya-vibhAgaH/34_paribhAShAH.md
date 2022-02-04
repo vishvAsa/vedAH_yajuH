@@ -275,7 +275,7 @@ ____ 1. Cp. SB I.3.5.10.
 42-43. (The offerings) having two deities (are to be understood as the modificatons of) offerings to Agni-and Soma;' and also (the offerings) having many deities (are to be understood).... 
 1. The second main offering in the Full-moon-sacrifice. ऐन्द्राग्नविकाराः वा।।४४॥ 44. Or as the modifications of the offering to Indra-and 
 Agni.' 
-1. The second main offering in the New-Moon-sacrifice. अन्यत्र प्रकृतिदेवताभ्यो यथैन्द्रः पुरोडाश: सौम्यश्चरुरिति॥४५॥ 
+1. The second main offering in the New-Moon-sacrifice. अन्यत्र प्रकृतिदेवताभ्यो यथैन्द्रः पुरोडाशः सौम्यश्चरुरिति॥४५॥ 
 45. Except the deities of the basic paradigm; as for example sacrificial bread for Indra and rice-pap for Soma. 
 हविर्देवतासामान्ये हविर्बलीयः॥४६॥ 
 46. In the conflict between the oblation-material and deity, oblation-material is stronger. 

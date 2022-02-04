@@ -16,7 +16,7 @@ Pūşan, a sacrificial bread on twelve potsherds to Savits, rice-pap for Tvaşı
 XXII.25) 
 1361 
 ApSS Translation : THITE 
-पृश्नि: पष्ठौही मारुत्यालभ्यते॥४॥ 
+पृश्निः पष्ठौही मारुत्यालभ्यते॥४॥ 
 4. A four-year old cow of variegated colours is to be seized for Maruts' (in addition to the Savanīya he-goat for Agni). 
 1. Cf. TB 11.7.2.2. तस्याः पुरस्तात्स्विष्टकृतो यजमानायतन ऋषभचर्म प्राचीनग्रीवमुत्तर लोमास्तीर्य तस्मिन्नासीनं यजमानं दध्नाभिषिञ्चति॥५॥ 
 5. Immediately before the Agni-svişṭakst-offering (in the animal-sacrifice of that cow), having spread a bull's hide with the neck of it to the east, with its hairy part upwards, in the place where the sacrificer sits, (the Adhvaryu) sprinkles curds on the sacrificer sitting on it. 
@@ -73,7 +73,7 @@ ____ 1. For the mantras see TB II.7.7.2..
 2. Having mixed ghee with coarse flour with indraya tvā then having addressed it with tejo'si, a Brāhmaṇa gives it to the sacrificer with tat te prayacchâmi'. 
 1. For the formulae see TB 11.7.7.2-3. तेजस्वदस्तु मे मुखमिति प्रतिगृह्य भक्षयति॥३॥ 
 3. Having accepted (the mixture) with tejasvadastu me mukham...' (the sacrificer) consumes it. 
-1. TS II.7.7.3. एवमितरेषामुसरउत्तरः श्रयणो ऽभिमन्त्रण: प्रदानो भक्षणश्च यथालिङ्गम्।।४॥ 
+1. TS II.7.7.3. एवमितरेषामुसरउत्तरः श्रयणो ऽभिमन्त्रणः प्रदानो भक्षणश्च यथालिङ्गम्।।४॥ 
 4. In the same manner each latter (formula) is to be used for mixing, addressing, giving, and consuming, in accordance with the characteristic mark (indicating the action) for others (i.e. Kṣatriya, Vaiśya, and Sūdra'. 
 1. See the formulac in TB II.7.2.2-5. 
 1365 सर्वान्यजमानो भक्षयित्वा हिरण्यं ब्राह्मणाय ददाति। तिसृधन्वं राजन्याय। अष्ट्रां वैश्याय। माषकमण्डलुं शूद्राय॥५॥ 

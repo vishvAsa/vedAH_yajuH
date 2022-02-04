@@ -116,7 +116,7 @@ a libation once more.2
 1. See VI. 10.11 where it is prohibited to do so. 
 2. Cf.. TB III.7.2.4-5. यदि पूर्वस्यामाहुत्यां हुतायामाहवनीयो ऽनुगच्छेदग्निर्दारौ दारावग्निरिति वदन्ननन्तरे शकले हिरण्ये वा जुहुयात्॥८॥ 
 8. If the Āhavanīya is extinguished after the first libation has been made, one should offer (the second) libation on the next-lying piece of wood or (on the piece of) gold kept in the fire, uttering (the formula) dārau dārāvagnih.1 
-1. For the Sutra cp. SB XII.4.3.1. यदि पुरा प्रयाजेभ्यो बहिःपरिध्यङ्गारः स्कन्देत्तं स्वस्य बुध्नेना भिनिदध्यान्मा तमो मा यज्ञस्तमन्मा यजमानस्तमन्नमस्ते अस्त्वायते नमो रुद्र परायते नमो यत्र निषीदसि। अध्वर्यु मा हिंसीर्यजमानं मा हिंसीरिति यदि पुरस्तात्। ब्रह्माणं मा हिंसीर्यजमानं मा हिंसीरिति यदि दक्षिणतः॥ होतारं मा हिसी: पत्नी मा हिंसीर्यजमानं मा हिंसीरिति यदि पश्चात्। आग्नीधं मा हिंसी: पशून्मा हिंसीर्यजमानं मा हिंसीरिति यद्युत्तरतः॥९॥ 
+1. For the Sutra cp. SB XII.4.3.1. यदि पुरा प्रयाजेभ्यो बहिःपरिध्यङ्गारः स्कन्देत्तं स्वस्य बुध्नेना भिनिदध्यान्मा तमो मा यज्ञस्तमन्मा यजमानस्तमन्नमस्ते अस्त्वायते नमो रुद्र परायते नमो यत्र निषीदसि। अध्वर्यु मा हिंसीर्यजमानं मा हिंसीरिति यदि पुरस्तात्। ब्रह्माणं मा हिंसीर्यजमानं मा हिंसीरिति यदि दक्षिणतः॥ होतारं मा हिसीः पत्नी मा हिंसीर्यजमानं मा हिंसीरिति यदि पश्चात्। आग्नीधं मा हिंसीः पशून्मा हिंसीर्यजमानं मा हिंसीरिति यद्युत्तरतः॥९॥ 
 9. If before the fore-offerings a burning coal falls out of 
 [IX.3 
 On 
@@ -578,7 +578,7 @@ SCII.3.1.
 always be performed as an alternative to All-expiative liber: 
 bations of New and Full-moon-offerings.2 
 __ 1. TB III.7.11.2. 
-2. For these libations see III.11.2-111.13.1. यदि दौ:ष्वप्यमन्यद्वा भयं पश्येद्यत इन्द्र भयामह इत्याहुती जुहयात। जपेदित्येके॥८॥ 
+2. For these libations see III.11.2-111.13.1. यदि दौःष्वप्यमन्यद्वा भयं पश्येद्यत इन्द्र भयामह इत्याहुती जुहयात। जपेदित्येके॥८॥ 
 8. If '(the sacrificer) sees a bad dream or any other danger. he should offer two libations of ghee with yata indra bhayāmahe....' According to some one may mutter these verses 
 1. TB III.7.11.4. 
 सर्वेषां वै धर्मो रुचां रोचते। तस्मात्प्रवर्येण प्रचर्य प्रवृज्यमानस्य वोपश्रुत्या भिर्गीभिरिति जुहुयात्। जपेदित्येके॥९॥ 
@@ -651,7 +651,7 @@ IX.14
 पृधिवीमित्याहुती जुहुयात्॥२॥ . 
 2. The sacrificer should address it with prati kşatre pratiti sthāmi.... Then (the Adhvaryu) should offer two libations of ghee with askān dyauh...2 
 1. TB III.7.10.3. 
-2. TB III.7.10.3-4. वैश्वानरं द्वादशकपालं निर्वपेद्यदि पत्नी: संयाजयन्कपालमभिजुहुयात्॥३॥ 
+2. TB III.7.10.3-4. वैश्वानरं द्वादशकपालं निर्वपेद्यदि पत्नीः संयाजयन्कपालमभिजुहुयात्॥३॥ 
 3. While about to offer the Patnisamyājas if one offers on a potsherd, one should offer a sacrificial bread on twelve potsherds to Agni Vaiśvānara. 
 एतामेव निर्वपेद्यो दर्शपूर्णमासयाजीत्युक्तम्॥४॥ 
 4. It has been said (in a Brahmana-text) that if a performer of New and Full-moon-sacrifices (allows to pass a New-moon day or a Full-moon-day without performing the New-moon sacrifice or Full-moon-sacrifice) should perform the same offering. 

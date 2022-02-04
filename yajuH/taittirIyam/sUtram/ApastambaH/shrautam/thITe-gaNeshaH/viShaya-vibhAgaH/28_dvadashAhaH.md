@@ -33,7 +33,7 @@ ___ 1. Cf. KS XXXIV.13.
 1. Cf. KS XXXIV.13. तस्मादद्वादशाहे त्रयोदशेन न ब्रह्मणा भवितव्यमित्येके॥१३॥ 
 13. Therefore according to some, a Brahmin should not be the thirteenth (sacrificer) in a Dvādaśāha.' 
 1. Cf. KS XXXIV.9; cp. also TMB X.3.2. Thus it is implied that 
-a Kṣatriya or a Vaiśya can be the thirteenth sacrificer. पञ्चदश दीक्षेरन्नर्धमासायतनाः। सप्तदश प्रजाकामा: पशुकामा वा। एक विंशति प्रतिष्ठाकामा रुक्कामा वा। त्रिंशतं मासायतनाः। त्रयस्त्रिंशतमोजस्कामा वीर्यकामा वा। चत्वारिंशतं यज्ञकामाः। चतुश्वत्वारिंशतमिन्द्रियकामाः। अष्टा चत्वारिंशतं पशुकामाः॥१४॥ 
+a Kṣatriya or a Vaiśya can be the thirteenth sacrificer. पञ्चदश दीक्षेरन्नर्धमासायतनाः। सप्तदश प्रजाकामाः पशुकामा वा। एक विंशति प्रतिष्ठाकामा रुक्कामा वा। त्रिंशतं मासायतनाः। त्रयस्त्रिंशतमोजस्कामा वीर्यकामा वा। चत्वारिंशतं यज्ञकामाः। चतुश्वत्वारिंशतमिन्द्रियकामाः। अष्टा चत्वारिंशतं पशुकामाः॥१४॥ 
 ____ 14. Fifteen (persons) should get themselves consecrated (if they are desirous) of (getting) place in the half-months; sev enteen desirous of offspring or cattle; twenty-one desirous of firm foundation or desirous of lustre; thirty (desirous) of (get ting) place in the months; thirty-three desirous of power or strength; forty desirous of (performance of) sacrifice; forty four desirous of (power of) sense-organs; forty-eight desirous of cattle.1 
 1. Cp. KS XXXIV.9; TMB X.3.3-4. अपरिमिता दीक्षेरन्नित्यन्ततो वदति॥१५॥ 
 15. Finally they say that unlimited (number of persons) should get themselves consecrated.' 
@@ -87,7 +87,7 @@ spring season. SatyāśS is in agreement with this Sūtra. सावित्र
 altar building-rite (XIV.1.4 ff), cp. TS V.1.1.1. 
 2. Cp. ŚB IV.6.8.3ff. पञ्चपशुभिर्यक्ष्यमाणाः संनिवपेरन्। ततो विनिवपेरन्॥१३॥ 
 13. When they are going to perform five animal-sacri fices' (connected with fire-altar-building-rite) they should (in a similar manner) bring together (their fires); and after ( the animal-sacrifices) they should separate them. 
-1. For this see XVI.7.1. दीक्षिष्यमाणा: संनिवपेरन्॥१४॥ 
+1. For this see XVI.7.1. दीक्षिष्यमाणाः संनिवपेरन्॥१४॥ 
 14. When they are going to undergo consecration , they should bring (their fires) together. 
 तेषामेतत्संन्युप्ता एवाग्नयो भवन्त्योदवसानीयायाः॥१५॥ 
 15. Their fires remain brought together in this manner upto the Udavasānīya (-offering).' 
@@ -357,14 +357,14 @@ ApS'S Translation : THITI
 8-9. Having uttered a (verse in) Anustubh (metre), one should declare that in which somcone has committed a mie take; one indeed accomplishes (corrects) it by means of a (verse in) Anustubh (metre).। 
 1. Cp. TMB XV.7.15. द्वयीरेतदहः समिध आहरन्ति। नित्या आदम्यरीध॥१०॥ 
 10. On these two days they bring faggots of two types: the usual ones and those of Udumbara-tree. 
-1. SceXXI.0.7. अभ्यादधति नित्या:॥११॥ 11. They throw the usual ones (in the Āhavaniya-fire).' 
+1. SceXXI.0.7. अभ्यादधति नित्याः॥११॥ 11. They throw the usual ones (in the Āhavaniya-fire).' 
 I. Cp. XXI.6.8. उत्तरेणाहवनीयमौदुम्बरीरुपसादयन्ति॥१२॥ 
 12. They keep the faggots of the Udumbara-tree near the Ahavaniya, towards the north of it.' 
 1. Cr. SB IV .6.9.25; Contrast XXI.12.10. अथ समन्यारब्धेषु द्वाभ्यां गार्हपत्ये जुहोति। अमूर्या उप सूर्ये याभिवां सूर्यः सह। ता नो हिन्वन्त्वध्वरम्॥ इह रतिरिह रन्तिरिह रमतिरिह रमध्वमिह वो रमतिः स्वाहेति॥१३॥ 
 उपमृजन्घरुणमित्येताभ्यामथाहवनीयं गत्वा॥१४॥ 
 13-14a. Then while the others hold him from behind, (the Adhvaryu) makes libations (of ghee) in the Gärhapiya.me with two (formulae) beginning with air ya yanti anni upa!!" dharunam. 
 1. For this Salla cp. SB IV.6.9.8; AR V.22. 
-1257 अतिच्छन्दसोपतिष्ठन्ते ऽयं सहस्त्रमानवो दृश: कवीनां मतिर्योतिर्विधर्मा। ब्रनः समीचीरुषसः समैर यत्। अरेपसः समोकसः सचेतसः सरेतसः स्वसरे मन्युमन्तश्चिदाकोरिति॥१५॥ 
+1257 अतिच्छन्दसोपतिष्ठन्ते ऽयं सहस्त्रमानवो दृशः कवीनां मतिर्योतिर्विधर्मा। ब्रनः समीचीरुषसः समैर यत्। अरेपसः समोकसः सचेतसः सरेतसः स्वसरे मन्युमन्तश्चिदाकोरिति॥१५॥ 
 ___14b-15. Then having gone to the Ahavaniya they praise it with a verse in Aticchandas (-metre beginning with) sahasramanavo drśaḥ.! 
 1. For the verse cp. SV I.458, AV VII.22.1. For this Sutra cf. TMB 
 IV.9.1. 
@@ -442,7 +442,7 @@ ____3. They should be understood as follows: That Prajapati created forests, mou
 1262 
 Prajāpati in the heat; that you (produced) thieves, wolves, gad. flies, hornets, evil creatures; that is indeed your sin. I do not like this rule of yours. Do you share Prajāpati-on the tenth day which is the opinion of the wise-one who is the bull among the people. He holding good praise and good wealth being pure and free from sin removes (the sin) in the world. 
 ___ अथ वरं वृणीते ऽदो नो ऽस्त्विति यत्कामयते॥ उत वै ब्राह्मणो ऽनेक कामो भवति॥४॥ 
-भूर्भुवः सुवः सुप्रजाः प्रजया भूयासं सुवीरो वीरैः सुवर्चा वर्चसा सपोप: पोषैरित्येतद्विदधाति॥५॥ 
+भूर्भुवः सुवः सुप्रजाः प्रजया भूयासं सुवीरो वीरैः सुवर्चा वर्चसा सपोपः पोषैरित्येतद्विदधाति॥५॥ 
 4-5. Then one chooses a boon whatever one desires with "ado no'stu (May this be for us)": Or rather a Brahmin has many desires. (Therefore one may choose many things. (A sa cred text) prescribes this (with the formula) bhur bhuvah suvah....! 
 1. Cf. JB III.306; cp. KB XXVII; SB IV.6.9.23. चतुर्होतृन्व्याख्याय द्वारौ संवृत्य यथाधिष्णियं पत्नीासाद्याथाभ्यो वाच मुपाकरोति॥६॥ 
 इह धृतिरिह स्वधृतिरिह रन्तिरिह रमतिरित्यौदुम्बरी परिष्वज्योदरैरु पस्पृशन्तो वाग्यतास्तिष्ठन्ति॥७॥ 

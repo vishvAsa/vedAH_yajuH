@@ -13,7 +13,7 @@ Translation : THITE
 पशुबन्धे चीयते॥२॥ 
 2. (This type of altar) is built at the time of an animal sacrificel. 
 1. Cp. TB III. 12.5.10. 
-चेष्यमाण उपकल्पयते पञ्चाशीतिशतं हिरण्येष्टका यावदुत्तममङ्गलिपरु तावती: शर्करा वाभ्यक्ताश्चतस्त्रः स्वयमातृण्णा अपरिमिता लोकंपृणाः॥३॥ 
+चेष्यमाण उपकल्पयते पञ्चाशीतिशतं हिरण्येष्टका यावदुत्तममङ्गलिपरु तावतीः शर्करा वाभ्यक्ताश्चतस्त्रः स्वयमातृण्णा अपरिमिता लोकंपृणाः॥३॥ 
 3. (The sacrificer who) is going to build (it) procures (following things): one hundred eighty five golden bricks (i.e. pieces), (the size similar to the size of the last part of the finger, or (if one is unable to procure these) so many pebbles! besmeared (with ghee), four natually perforated pebble-stones and an unlimited number of space-filler (bricks). 
 1. Cf. TB III.12.5.12. षड्ढोतारमित्येतदादि पाशुकं कर्म प्रतिपद्यते॥४॥ 
 4. (The Adhvaryu) starts the ritual of the animal sacrifice begining with the recitation of Ṣaddhoty-formula.! 
@@ -192,7 +192,7 @@ _____ 3. At the time of placing (the bricks) twenty one golden bricks or an equa
 पशुबन्धे सोमे सत्त्रे सहस्त्रे सर्ववेदसे वा यत्र वा भूयिष्ठा आहुतयो हूयरेरंस्तत्र चेतव्यः॥६॥ 
 6. Fire-altar is to be built in an animal-sacrifice, in a Soma sacrifice, in a sacrificial session, in (a sacrifice with) one thou sand (cows as gifts) or in (a sacrifice) where all the possessions (of the sacrificer are given as gifts) or where numerous-most libations are offered.1 
 1. Cf. TB III. 11.9.1. 
-D I.1.9.1. सत्त्रे प्रतिष्ठामीप्सन्यश: प्रजां पशून्स्वर्गमृद्धिमीप्सन्यथावकाशं यथास माम्नातम्॥७॥ 
+D I.1.9.1. सत्त्रे प्रतिष्ठामीप्सन्यशः प्रजां पशून्स्वर्गमृद्धिमीप्सन्यथावकाशं यथास माम्नातम्॥७॥ 
 7. One who is desiring to get firm foundation, desiring to get progeny, cattle, heaven, prosperity, (should build a fire-attar) in a sacrificial session in accordance with the space (yathāvakāśam) and in accordance with what is said in the sacred tradition.1 
 _1. See TB III 11.9.2ff. सर्वत्र पुरस्तादुपक्रमः प्रदक्षिणमुत्तरतो ऽपवर्गः॥८॥ 
 8. In all the cases the beginning ( of the placing of bricks should be done) in the east(and) the end (should be) in the north in the clockwise manner. 
@@ -200,7 +200,7 @@ _1. See TB III 11.9.2ff. सर्वत्र पुरस्तादुपक
 9. One who desires to get cattle should build a fire-altar consisting of only five (bricks) everywhere: thus five bricks on each side and one in the middle.! 
 1. Cf. TB III.11.9.3-4. 
 1136 
-ज्येष्ठ्यमीप्सन्यश: प्रजां वा त्रिवृतमेव। सप्त पुरस्तात्तिस्रो दक्षिणतः सप्त पश्चात्तिस्त्र उत्तरत एकां मध्ये॥१०॥ 
+ज्येष्ठ्यमीप्सन्यशः प्रजां वा त्रिवृतमेव। सप्त पुरस्तात्तिस्रो दक्षिणतः सप्त पश्चात्तिस्त्र उत्तरत एकां मध्ये॥१०॥ 
 10. One who desires to get prominence, or glory or progeny (should build the fire-altar in) threefold (manner). (Thus there should be seven (bricks) in the East, three in the South, seven in the West, three on the North and one in the 
 middle . 
 1. Cf. TB III. 11.9.4-5. ज्यैष्ठ्यकामो मध्यात्प्रक्रम्योर्खा रीतिं प्रतिपादयेत्॥११॥ 

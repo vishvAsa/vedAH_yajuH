@@ -47,7 +47,7 @@ __1. Cf. TS II.2.2.2. अमावास्यायाः कालापनय
 14B-15. On account of the power of the similarity there should be delaying of time of the new-moon-day.ĀpsS Translation : THITE 
 XIX.19] 
 1153 
-कणव पाज इति रक्षोनी: पराची: सामिधेनीरन्वाह॥१६॥ 16 (The Hotr) recites the enkindling verses containing words meaning “killing of the demon” beginning with usva pājah' continously following each other (i.e. without 
+कणव पाज इति रक्षोनीः पराचीः सामिधेनीरन्वाह॥१६॥ 16 (The Hotr) recites the enkindling verses containing words meaning “killing of the demon” beginning with usva pājah' continously following each other (i.e. without 
 the 
 LINE 
 repetition).2 
@@ -223,7 +223,7 @@ ___1. TS II.3.6.2. प्राच्यां दिशि त्वमिन�
 1. TS II.4.14.c-e. 
 2. For the details of entwinning see the next two Sūtras. प्रथमामनूच्य मध्यमया यजेत्। मध्यमामनूच्योत्तमया यजेत्। उत्तमामनूच्य प्रथमया यजेत्॥५॥ 
 5. (Thus) having recited the first as the invitatory verse , he should use the second as the offering verse; having recited the second as the invitatory verse he should use the third as the offering verse; having recited the third as the invitatory verse , he should use the first as the offering verse. 
-एवं सर्वा याज्या: पुरोऽनुवाक्याश्च भवन्ति॥६॥ 
+एवं सर्वा याज्याः पुरोऽनुवाक्याश्च भवन्ति॥६॥ 
 6. In this manner all the verses became invitatory as well as offering verses. 
 सर्वपृष्ठां निर्वपति॥७॥ 
 7. One (who desires to be strong) may perform an offering containing all the Prṣchas.' 
@@ -276,14 +276,14 @@ One who desires to get (supremacy in the ) village wid perform a collective offe
 1. TS II.3.11.1ff. There are oblations also to Soma, Varuna, 
 ___Sarasvati, and Agnavisnu. पात्रसंसादनकाले खादिरं पात्रं चतुःस्रक्ति प्रयुनक्ति। सौवर्णं च प्रवर्त शतमानस्य कृतम्॥११॥ 
 11. At the time of arrangement of utensils,' he also places a four-cornered, pot of Khadira (wood), and an ear-ring weighing one hundred Mānas. 
-___1. CI. I.15.6ff. अथा खलु यावती: समा एष्यन्मन्येत तावन्मानं स्यात्॥१२॥ 
+___1. CI. I.15.6ff. अथा खलु यावतीः समा एष्यन्मन्येत तावन्मानं स्यात्॥१२॥ 
 12. Or it may be weighing as many Mānas as many (the sacrificer) believes to (be able) to live.' 
 1. Cf. TS III.3.11.5. 
 1166 
 यन्नवर्मत्तन्नवनीतमभवदित्याज्यमवेक्ष्याज्यग्रहणकाले नप . चतर्गहीतं गृहीत्वा सादनकाल उत्तरेण ध्रुवां खादिरं सादयित्वा तस्मिन्नवर्तम वदधाति॥१३॥ 
 13. Having looked into the gheel with yannavamait. 2 the Adhvaryu, at the time of scooping of the ghee, 3 having scooped ghee for four times in the Khadira-pot, at the time of placing it,* after having placed the Khadira-pot to the north of the Dhruvā-ladle, he puts the ear-ring in it (the ghee). 
 1. See II.6.6. 2. TS II.3.10.a. 3. See II.7.10. 4. After what is mentioned in II.9.15. 
-XIX.24 उपहोमकाले ऽश्विनो: प्राणो ऽसीत्यतैः प्रतिमन्त्रं चतुर उपहोमा होति॥१॥ 
+XIX.24 उपहोमकाले ऽश्विनोः प्राणो ऽसीत्यतैः प्रतिमन्त्रं चतुर उपहोमा होति॥१॥ 
 1. At the time of performing the by-offerings,' (the Adhvaryu) offers four by-offerings, with each of the formulae beginning with aśvinoḥ prāṇosi.2 
 1. See II.21.2. 
 2. TS II.3.10.10. हुवाहुत्वा प्रवर्तमभि घारयति राडसि विराडसि सम्राडसि स्वराडसीति॥२॥ 

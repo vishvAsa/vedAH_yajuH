@@ -17,7 +17,7 @@ Agni-Soma, (to be bound) at eleven sacrificial posts (on the day preceding the S
 5. (The Soma-sacrificial) days should be as in Pañca śāradīyia' (sacrifice); optionally the penultimate (day should be) Agnistoma. 
 1. See XX.20.15. The days in this sacrifice are as follows-i. 
 Trivrdagniştoma, ii. Pancadaśa Ukthya, iii.Saptadaśa Ukthya, iv. 
-Pancadasa Ukthya, v. Saptdasa Atiratra. देव सवितः॥ तत्सवितुः॥ विश्वानि देव सवितरिति तिस्त्र: सावित्रीहत्वा मध्यमे ऽहन्पशूनुपाकरोति॥६॥ 
+Pancadasa Ukthya, v. Saptdasa Atiratra. देव सवितः॥ तत्सवितुः॥ विश्वानि देव सवितरिति तिस्त्रः सावित्रीहत्वा मध्यमे ऽहन्पशूनुपाकरोति॥६॥ 
 6. After having offered three libations for Savits with deva savitaḥ...,' tat savituḥ...,? viśvāni deva savitaḥ3 (the Adhvaryu) dedicates the animals to the deities on the middle day.4 
 1. TS I.7.7.a. 2. TS I.6.5.m. 3. RV V.82.5. 
 4. Cf. SB III.6.2.9. द्वयानकादशिनानुपाकृत्य पुरुषान्।७॥ ब्रह्मणो ब्राह्मणमालभत इत्येतद्यथासमाम्नातम्॥८॥ 

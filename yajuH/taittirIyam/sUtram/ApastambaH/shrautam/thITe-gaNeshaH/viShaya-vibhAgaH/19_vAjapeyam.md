@@ -187,7 +187,7 @@ ApSs Translation : THITE XVIII.5)
 1. Cf. TB I.3.6.6. मितद्रव इति चतसृभिः प्रत्याधावतो ऽनुमन्त्रयते॥२१॥ 
 21. He addresses the returning chariots with four verses! beginning with mitadravaḥ.2 
 1. Cf. TB I.3.6.5. 2. TS I.7.8.i-m. 
-XVIII.5 आ मा वाजस्य प्रसवो जगम्यादिति प्रत्यासृतेषु हुत्वा पुन:वारमवघ्रापयति। ससृवांस इति लेपांश्च निमाष्टि॥१॥ 
+XVIII.5 आ मा वाजस्य प्रसवो जगम्यादिति प्रत्यासृतेषु हुत्वा पुनःवारमवघ्रापयति। ससृवांस इति लेपांश्च निमाष्टि॥१॥ 
 1. After (the chariots) have returned the Adhvaryu after having offered (a libation of ghee in Ahavaniya) makes (the horses) smell? again the Nīvāra-rice-pap with vājasya prasavo jagamyat... and besmears the ghee at their nostrils with sasrvāmsah..... 
 1. Cf. MS I.11.7; KS XIV.7. 2. TS I.7.8.n. 3. Cf TB I.3.6.9. 
 4. TS I.7.8.p. इयं वः सा सत्या संधाभूदिति दुन्दुभिविमोचनीयं होमं जुहोति॥२॥ 

@@ -378,7 +378,7 @@ Translation : THITE
 अत्र वा मारुतं निर्वपेत्॥२॥ 
 2. (The Adhvaryu) may optionally take out the material for the sacrificial bread for Maruts at this stage. 1 
 1. Cp. XVIII. 12.11-12. According to TB (1.7.7.3) this is the proper 
-____time. तं बर्हिषदं कृत्वना व्याघ्र परिषस्वजाना: सिंह हिन्वन्ति महते सौभगाय। समुद्रं न सुहवं तस्थिवांसं मर्मज्यन्ते द्वीपिनमप्स्वन्तरिति स्फ्येन पुरोडा शमिभिचरन्निहन्ति॥३॥ 
+____time. तं बर्हिषदं कृत्वना व्याघ्र परिषस्वजानाः सिंह हिन्वन्ति महते सौभगाय। समुद्रं न सुहवं तस्थिवांसं मर्मज्यन्ते द्वीपिनमप्स्वन्तरिति स्फ्येन पुरोडा शमिभिचरन्निहन्ति॥३॥ 
 3. After having placed it (the sacrificial bread)' upon the Barhis-grass (on the altar), he strikes the sacrificial bread with wooden sword with enā vyāghram.... while (if) he is performing black-magic.2 
 _1. Cp. II. 11.7. 
 2. Cf MS II.1.9. For the verse cp. TB II.7.16.4. यत्स्फ्य आश्लिष्यति यच्च प्रतिशीर्यते तद्विष्णवे शिपिविष्टाय जुहोति॥४॥ 
@@ -429,7 +429,7 @@ ApSs Translation : THITE
 ____ 1. TS I.8.14.i. इन्द्राय स्वाहेति षट् पार्थान्युपरिष्टादभिषेकस्य जुहोति॥११॥ 
 11. With indrāya svāhā...' he offers the six Pārtha? (offerings) immediately after the sprinkling of the water. 
 1. TS I.8.13.h. 
-2. See XVIII.15.8. अद्भ्यः स्वाहेति षड्भूतानामवेष्टी:॥१२॥ 
+2. See XVIII.15.8. अद्भ्यः स्वाहेति षड्भूतानामवेष्टीः॥१२॥ 
 12. (And he also offers) the six (offerings called) Bhūtānā mavestayah...1 with adbhyah svāhā....? 
 1. See XVIII.15.8. 
 2. TS I.8.13.i. अत्र वा प्ररेकं जुहुयात्॥१३॥ 
@@ -563,7 +563,7 @@ XVIII.20]
 responds him." 
 1. CI. AB VII.18. ओमित्यचः प्रतिगरः। तथेति गाथायाः॥१३॥ 
 13. The response to (each) Rc-verse (is) om; (that) of a Gatha (sung-verse) tathā. 
-अपवृत्ते शौन:शेपे हिरण्यकशिपु हो। ददाति। हिरण्यकूर्चावध्वर्यवे। अभिषेचनीयौ च रुक्मौ॥१४॥ 
+अपवृत्ते शौनःशेपे हिरण्यकशिपु हो। ददाति। हिरण्यकूर्चावध्वर्यवे। अभिषेचनीयौ च रुक्मौ॥१४॥ 
 14. After the completion the Sunahsepa (-story), (the sacrificer) gives the golden cushion to the Hotr; the gold bundles to the Adhvaryu, and (also) the plates (used) at the (time of) sprinkling (of water on the sacrificer) (he gives to the Adhvaryu).' 
 1. See VIII.15.5. अत्र मारुतेन वैश्वदेव्या च प्रचरति॥१५॥ 
 15. At this (stage, i.e. now) he performs (the offering of sacrificial bread) to Maruts, and (of milk-mess) to Visvedevas.1 
@@ -601,7 +601,7 @@ has ten Sams?p-offerings. पूर्वपूर्वं देवयजन�
 8. (For every one of the ten or seven offerings) he resides in a sacrificial ground (more and more) to the east and to the east.' 
 1. Cf. TB 1.8.1.e. यत्र पूर्वस्या आहवनीयस्तत्रोत्तरस्या गार्हपत्यः॥९॥ 
 9. Where (there was) the Āhavaniya (fire) of the earlier offering there (should be) the Gārhapatya (-fire) of the subsequent (offering). 
-उत्तमाया: प्राग्वंश आहवनीयः बहिर्गार्हपत्यः॥१०॥ 
+उत्तमायाः प्राग्वंश आहवनीयः बहिर्गार्हपत्यः॥१०॥ 
 10. In the hut' (with its central) beam oriented to the east, there should be the Āhavanīya (- fire) of the last (offering); the Gārhapatya (-fire) should be ouside.? 
 1. Where the Abhiṣecaniya-sacrifice was performed and which now 
 serves for the Daśapeya-sacrifice. 
@@ -642,7 +642,7 @@ ___XVIII.21 श्वोभूते पात्रसंसादनकाल�
 1. On the next day, (i.e. on the proper day of the Dasapeya Sacrifice), at the time of placing the utensils' (the Adhvaryu) arranges ten Camasa-pots additionally. 
 1. See XII.1.6. 
 2. Cp. JB II.202; TMB XVIII.9.4. तानन्नयनकाल उन्नयति॥२॥ 2. He fills them at the time of filling.1 
-1. Thus immediately after the rite mentioned in XII.21.14 is over. भक्षणकाले दशदशैकैकस्मिंश्चमसे ब्राह्मणाः सोमपा: सोमं भक्षयन्त्या दशमात्पुरुषादविच्छिन्नसोमपीथाः॥३॥ 
+1. Thus immediately after the rite mentioned in XII.21.14 is over. भक्षणकाले दशदशैकैकस्मिंश्चमसे ब्राह्मणाः सोमपाः सोमं भक्षयन्त्या दशमात्पुरुषादविच्छिन्नसोमपीथाः॥३॥ 
 3. At the time of drinking(the Soma). ten Brāhmaṇas who are “drinkers of Soma” and in whose family there were drinkers 
 1092 
 of Soma continuously for ten generations, 2 drink the Soma from each Camasa(-pot).3 

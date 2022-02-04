@@ -26,7 +26,7 @@ describing Pravargya must have been after the chapter of Agnicayana.
 7. Keeping the stallion as the foremost, they go to the east, to that place where they are going to dig out clay, with praitu brahmaṇaspatiḥ...' 
 ___ 1. TA IV.2.2(5). अपि वास्यैते संभारा परिश्रिते ऽभ्युदाहृता भवन्ति॥८॥ 
 8. Or these materials are already collected in an enclosed place.' 
-__ 1. Cf. SB XIV.1.2.15. अग्रेणाहवनीयं मृत्खनः। पूर्व:पूर्व इतरः॥९॥ 
+__ 1. Cf. SB XIV.1.2.15. अग्रेणाहवनीयं मृत्खनः। पूर्वःपूर्व इतरः॥९॥ 
 9. The place from where the soil is to be dug should be to the east of the Ahavaniya. (Each of the) other (succeeding material should be placed) to the east (of the preceding one). 
 उत्तरेण मृत्खनं कृष्णाजिनं प्राचीनग्रीवमुत्तरलोमास्तीर्य देवी द्यावापृथिवी इति मृत्खनमभिमन्त्रयते। ऋध्यासमद्येति मृत्खने ऽभ्रिया प्रहृत्य मखस्य शिर इत्य पादाय मखाय त्वेति हरति। मखस्य त्वा शीर्ण इति कृष्णाजिने निवपति॥१०॥ 
 _10. To the north of the place from where the soil is to be 8, having spread the black-antelope's skin with its neck part le east and hairy side upwards, (the Adhvaryu) addresses 
@@ -157,7 +157,7 @@ See also XVI.5.10. उत्तरया वा॥५॥ 5. Or (he may do so), w
 v3.6. 
 850 
 lifted up the Mahavira (-pot) which was prepared first, by means of the pair of tongs, he takes it out (of the fire). 
-1. TĀ IV.3.2(4). देवस्त्वा सवितोद्वपत्वित्युद्वास्यापद्यमानः पृथिव्यापाशा दिश आपृणेत्युत्तरत: सिकतासु प्रतिष्ठाय सूर्यस्य त्वा चक्षुषान्धीक्ष इत्यनुयीक्षते।।७॥ 
+1. TĀ IV.3.2(4). देवस्त्वा सवितोद्वपत्वित्युद्वास्यापद्यमानः पृथिव्यापाशा दिश आपृणेत्युत्तरतः सिकतासु प्रतिष्ठाय सूर्यस्य त्वा चक्षुषान्धीक्ष इत्यनुयीक्षते।।७॥ 
 7. With devastva savitodvapatu...' having taken it out (of the fire), with apadyamana! prthivyam... having put it down towards the north on the sand, with sûryasya tvā cakṣuṣān viksed he looks at it." 
 1. TĀ IV.3.2(5). 2. TĀ IV.3.2(6). 3. See VI.5.11. 4. TĀ XVI.3.2(7). 
 5. Cf. TĀ V.3.7. एवं द्वितीयं तृतीयं चोद्वासयति। तूष्णीमितराणि॥८॥ 
@@ -197,7 +197,7 @@ towards the south; (and) the Pratiprasthāts and the Āgnidhra towards the north
 ___ 1. See XV.4.13. अत्रैव सर्वं परिधर्म्यम्॥६॥ 
 6. Here itself (he places) all (the utensils needed for the Gharma-offering).' 
 ___ 1. Mentioned in Sutras 7-20. 
-अथौदुम्बराणि। सम्राडासन्दी नितराम्। राजासन्द्या वर्षीयसीमेके समामनन्ति। मौञ्जीभी रज्जुभिरेकसराभियंताम्॥७॥ चतस्रः सुचः॥८॥ वे अनिष्टुब्धे॥९॥ निष्टुब्धयोर्वषीर्यस्युपयमनी प्रोक्षणीधान्या:॥१०॥ त्रुवौ शफौ महावीर संमितावस्क्यौ धृष्टी मेथीं मयूखान् षट् शकलान् काण्टकी च समिधं त्रयोदश वैकङ्कतान् परिधीन् वैकङ्कतानि धर्मेन्धनानि। खादिराणि पालाशान्यौ दुम्बराण्यर्कमयाणि कार्यमयाणि वैणवानि शमीमयानि वा॥११॥ त्रीणि कार्णाजिनानि धवित्राणि शुक्लकृष्णलोमानि॥१२॥ तेषां वैणवा दण्डा बाहुमात्रा भवन्तीति विज्ञायते॥१३॥ औदुम्बरदण्डानीत्यपरम्॥१४॥ द्वौ रुक्मी रजतसुवर्णी॥१५॥ शतमानौ भवतः॥१६॥ अथ मौञानि॥१७॥ वेदौ॥१८॥XV.5) 
+अथौदुम्बराणि। सम्राडासन्दी नितराम्। राजासन्द्या वर्षीयसीमेके समामनन्ति। मौञ्जीभी रज्जुभिरेकसराभियंताम्॥७॥ चतस्रः सुचः॥८॥ वे अनिष्टुब्धे॥९॥ निष्टुब्धयोर्वषीर्यस्युपयमनी प्रोक्षणीधान्याः॥१०॥ त्रुवौ शफौ महावीर संमितावस्क्यौ धृष्टी मेथीं मयूखान् षट् शकलान् काण्टकी च समिधं त्रयोदश वैकङ्कतान् परिधीन् वैकङ्कतानि धर्मेन्धनानि। खादिराणि पालाशान्यौ दुम्बराण्यर्कमयाणि कार्यमयाणि वैणवानि शमीमयानि वा॥११॥ त्रीणि कार्णाजिनानि धवित्राणि शुक्लकृष्णलोमानि॥१२॥ तेषां वैणवा दण्डा बाहुमात्रा भवन्तीति विज्ञायते॥१३॥ औदुम्बरदण्डानीत्यपरम्॥१४॥ द्वौ रुक्मी रजतसुवर्णी॥१५॥ शतमानौ भवतः॥१६॥ अथ मौञानि॥१७॥ वेदौ॥१८॥XV.5) 
 ĀPŚS Translation : THITE 
 853 तयोरन्यतरः परिवासितः॥१९॥ अभिधानी निदाने त्रीणि विशाखदामानि 
 भतान्मुञ्जप्रलवान्। रौहिण्योः पिष्टान्यफलीकृतानाम्। खरेभ्यः सिकताः। मौजे पवित्रे। दर्भमये इत्यपरम्॥२०॥ 
@@ -206,7 +206,7 @@ ___ 1. Mentioned in Sutras 7-20.
 refers to Soma (see X.29.7). 3. CP. SB XIV.1.3.8. 4. See X.6.10; XV.8.15. 5. For their use see XV.9.2. 6. For the use of these see XV.5.21; XV. 10.6. 7. See XV.7.3. 
 854 
 8. See XV.3.17;19 9. See XV.7.8. 10. See XV.6.13. 11. See XV.6.13. 12. See XV. 11.6-7. 13. See XV. 11.9. 14. See XV.8.1-4; cf. TĀ V.4.9–10. 15. See XV.8.10. 16. See XV.8.5ff. 17. Not identified. 18. Cp. BaudhaśS IX.5. 19. See XV.7.3, 8.5; 11.2. 20. See XV.7.2. 21. See XV. 10.6. 22. See XV.9.3. 23. See XI.9.4. 24. See XV.6.13;17. 25. See XV.7.3. 26. See XV.9.1;10.10; 11.5. 27. See XV.6.20ff. 
-28. See XV.5.21. प्रोक्षणीनामावृता प्रोक्षणी: संस्कृत्य ब्रह्माणमा मन्त्रयते॥२१॥ 
+28. See XV.5.21. प्रोक्षणीनामावृता प्रोक्षणीः संस्कृत्य ब्रह्माणमा मन्त्रयते॥२१॥ 
 21. Having sanctified the sprinkling water according to the manner of sanctifying the sprinkling water (in the basic paradigm),' he calls the Brahman. 
 1. See I. 11.6-9. Here the strainers mentioned in XV.2.20 are to be 
 used. 
@@ -367,7 +367,7 @@ ___16. Having stood in accordance with their respective places 'all the priests 
 XV.9 ततः संप्रेष्यत्यग्नीद्रौहिणौ पुरोडाशावासादयेति॥१॥ 
 1. Then (the Adhvaryu) orders: "O Agnidhra, do you keep the two Rauhina-sacrificial-breads."1 
 1. See XV.5.20. 
-अनिष्टुब्धयो: घुचोरुपस्तीर्णाभिघारितौ पुरोडाशावासादयति। दक्षिणं परिधिसंधिमन्वेकम्। उत्तरं परिधिसंधिमन्वितरम्॥२॥ 
+अनिष्टुब्धयोः घुचोरुपस्तीर्णाभिघारितौ पुरोडाशावासादयति। दक्षिणं परिधिसंधिमन्वेकम्। उत्तरं परिधिसंधिमन्वितरम्॥२॥ 
 2. (The Āgnīdhra) keeps the two sacrificial breads within the Vedi upon the two uncarved ladles after having spread out ghee as base and having poured ghee over them-one near the southern joint of the enclosing sticks and the other near the northern joint of the enclosing sticks. 
 ___ 1. See Xv.5.9. 
 सावित्रेण रशनामादायादित्यै रास्नासीत्यभिमन्त्र्य पूर्वया द्वारोपनिष्कम्य त्रिरुपांशु धर्मदुघमाह्वयतीड एह्यदित एहि सरस्वत्येहीति॥३॥ . 
@@ -405,7 +405,7 @@ ___7. Having tied up the calf with usra gharmam simsosra...1 (then having taken 
 12. With sahorjo bhāgenopa mehi' he looks at the milk being brought forth. 
 1. TA IV.8.14. 
 867 
-___XV.10 इन्द्राश्विना मधुन: सारघस्येति महावीरे गोपय आनयति॥१॥ 
+___XV.10 इन्द्राश्विना मधुनः सारघस्येति महावीरे गोपय आनयति॥१॥ 
 1. With indrāsvina madhunah sāraghasya...1 (the Adhvaryu) pours the milk of cow into the Mahāvīra.? 
 1. TA IV.8.15. 
 2. Which is lying on the Khra. See XV.7.3. स्वाहा त्वा सूर्यस्य रश्मये वृष्टिवनये जुहोमीत्युद्यन्तमूष्माणमनुमन्त्रयते॥२॥ 
@@ -560,7 +560,7 @@ details cp. SB XIV.3.1.8.
 __ 1. See XV.16.10. 
 सम्राडासन्द्या द्वावन्तर्वेदि पादौ द्वौ बहिर्वेदि प्रतिष्ठाप्य संप्रेष्यति प्रस्तोतः साम गायेति॥९॥ 
 9. Having placed the two feet of the emperor's throne seat within the altar and two outside the altar, (the Adhvaryu) orders, “Do you sing the Saman, O Prastotr.” 
-सर्वे सहपत्नीकास्त्रि: साम्नो निधनमुपयन्ति। अर्धाध्वे द्वितीयम्। प्राप्या परेणोत्तरवेदिं तृतीयम्। सर्वत्र संप्रेष्यति॥१०॥ 
+सर्वे सहपत्नीकास्त्रिः साम्नो निधनमुपयन्ति। अर्धाध्वे द्वितीयम्। प्राप्या परेणोत्तरवेदिं तृतीयम्। सर्वत्र संप्रेष्यति॥१०॥ 
 10. All, together with wife of the sacrificer join in the chanting of the finale (Nidhana) of the Sāman, thrice. They sing the finale while starting to go (for the first time); at the half-way (i.e. between the place of sacrifice and the place of the disposal of the Pravargya), for the second time; and after 
 878 
 having reached the Uttaravedi (where the disposal of the Pravargya is to be made), for the third time. (The Adhvaryu). orders at each (stage).' 
@@ -716,7 +716,7 @@ __10. If (the Gharma-cow, while being milked) jumps, or gets frightened, or a le
 13. When there will be reddish colour in the east then one should perform the Pravargya; or when it becomes bright 
 889 XV.19] 
 Após Translation : THITE on all sides or before the dawn, or when the sun is slightly seen, or when it is half risen, or when it is completly risen; or at the time of morning-milking or after the midday-pavamāna laud is sung." 
-1. For the last alternative cf. KB VIII.7. आग्नीध्रागारे प्रवृज्य:॥१४॥ 
+1. For the last alternative cf. KB VIII.7. आग्नीध्रागारे प्रवृज्यः॥१४॥ 
 14. The Pravargya-ritual should be performed in the Āgnidhra-shed. 
 1. Instead of the normal practice to perform it on the Khara (mound) 
 situated to the north of the Gārhapatya. For this Sūtra cf. KB 
@@ -769,7 +769,7 @@ THE INTERMEDIARY CONSECRATION
 (AVĀNTARA-DĪKṢĀ) अवान्तरदीक्षां व्याख्यास्यामः॥१॥ 1. We shall explain the intermediary consecration.' 
 1. This intermediary consecration is different from the one dealt with 
 in XI.1.13. This consecration is meant for one who is going to 
-study Pravargya-text. पर्वण्युदगयन आपूर्यमाणपक्षस्य वा पुण्ये नक्षत्रे केशश्मश्रु वापयित्वा पराहे प्राचीमुदीची वा दिशमुपनिष्क्रम्य खिले ऽच्छदिर्दर्शे ऽग्निमुपसमाधाय संपरिस्तीर्य पूर्ववदुपाकृत्य मदन्तीरुपस्पृश्य प्रथमेनानुवाकेन शान्तिं कृत्वा चतस्त्र औदुम्बरी: समिधो घृतान्वक्ता अभ्यादधाति पृथिवी समिदित्येतैर्मन्त्रैः॥२॥ 
+study Pravargya-text. पर्वण्युदगयन आपूर्यमाणपक्षस्य वा पुण्ये नक्षत्रे केशश्मश्रु वापयित्वा पराहे प्राचीमुदीची वा दिशमुपनिष्क्रम्य खिले ऽच्छदिर्दर्शे ऽग्निमुपसमाधाय संपरिस्तीर्य पूर्ववदुपाकृत्य मदन्तीरुपस्पृश्य प्रथमेनानुवाकेन शान्तिं कृत्वा चतस्त्र औदुम्बरीः समिधो घृतान्वक्ता अभ्यादधाति पृथिवी समिदित्येतैर्मन्त्रैः॥२॥ 
 2. On a joining-day during the period when the sun is in the northern hemisphere, or under an auspicious constellation in the bright fortnight, having caused hair on the head and beard to be shaved, at the time of afternoon, having gone to the eastern or the northern direction, having kept fire in a solitary region from where (even) the roof (of any house in the village will) not be seen, having scattered sacred grass around (the fire), having formally introduced (the sages of the chapter to be studied) in the same manner as mentioned earlier', having touched the boiling water, having performed the pacification by means of the first section, (the teacher accompanied by the student) puts four Udumbara-fuel-sticks which have been besmeared with ghee, (on the fire) with these formulae beginning with prthivi samidh.... 
 1. This refers to Āpastamba-gļhya-Sūtra VIII.1. अथ देवता उपतिष्ठते ऽग्ने व्रतपते व्रतं चरिष्यामीति॥३॥ 
 3. Then he stands praising the deities with agne vrata pate...! 
@@ -802,7 +802,7 @@ ApSs Translation : THITE
 1. Cp. xv.2.9. नोपानही न छत्रम्॥१७॥ 17. He should not hold either shoes or unbrella. न चक्रीवदारोहेत्॥१८॥ 
 18. He should not mount upon a vehicle (with wheels). न गतासुमीक्षेत्। न स्नायात्॥१९॥ 
 19. He should not look at a dead person; he should not bathe himself. 
-अष्टम्य: पर्वाणि चोपवसेद्वाग्यतः॥२०॥ 
+अष्टम्यः पर्वाणि चोपवसेद्वाग्यतः॥२०॥ 
 20. Being restrained in his speech, he should observe fast on the eighth days and joining days (in a month). 
 on theo: Being not enterarte 
 895 
@@ -827,8 +827,8 @@ ____XV.21
 8. (One should) not (study) when one has applied ointment to one's eyes, (or) when one has ointed one's body, (or) when one is wet (after bath), (or) on a wet place, (or) on a place where rain has not fallen, (or) when there are clouds (in the sky), (or) when the sun is about to set, (or) while looking at green grass, (or) near a village-animal, (or) near the forest, (or) near the waters. 
 नाशृतमुत्पतितं न लोहितं दृष्ट्वा। न हाणि न शरीराणि न शवं नाप पात्रम्॥९॥ 
 9. (One should) not (study) after uncoooked (flesh) falls upon one, (or) having seen blood; (or) when one has seen palaces, limbs, on corpse, or something fallen. 
-__ अध्येष्यमाण: प्राचीमुदीची वा दिशमुपनिष्क्रम्य खिले ऽच्छदिर्दशेऽग्निमु पसमाधाय संपरिस्तीर्य मदन्तीरुपस्पृश्य प्रथमेनानुवाकेन शान्तिं कृत्वापरे 
-णाग्निं दर्भेगासीनो दर्भान्दूर्वा वा धारयमाण: पराचीनमधीयीत॥१०॥ _____10. When one is going to study (the Pravargya-texts), having gone out of the eastern or northern direction, having kept fire in solitary region from where (even) the roof (of any house in the village will) not be seen, having scattered (sacred 
+__ अध्येष्यमाणः प्राचीमुदीची वा दिशमुपनिष्क्रम्य खिले ऽच्छदिर्दशेऽग्निमु पसमाधाय संपरिस्तीर्य मदन्तीरुपस्पृश्य प्रथमेनानुवाकेन शान्तिं कृत्वापरे 
+णाग्निं दर्भेगासीनो दर्भान्दूर्वा वा धारयमाणः पराचीनमधीयीत॥१०॥ _____10. When one is going to study (the Pravargya-texts), having gone out of the eastern or northern direction, having kept fire in solitary region from where (even) the roof (of any house in the village will) not be seen, having scattered (sacred 
 XV.21) 
 Translation : THITE 
 897 

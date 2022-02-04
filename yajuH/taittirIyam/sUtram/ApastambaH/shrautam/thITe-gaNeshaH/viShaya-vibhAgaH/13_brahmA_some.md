@@ -17,7 +17,7 @@ XIV.8] XIV.8]]
 5. He sits in the south (of the place where the work is done) while the king (Soma) is being measured out,' while the 
 Mahavedi and Uttaravedi' are being prepared, while the (place where) Fire (-altar will be built) is being measured,' is being plougheds and is being sown upon, when every layer (of the fire altar-building) is being built', when a layer is being completely built, and while the activities for pan (to be used in the Pravargya-ritual and fire-altar-building are being done).१ 
 1. Sce X.24.8. 2. See X.4.11. 3. See VII.3.10ff. 4. See XVI.17.8ff. 5. See XVI.19.2. 6. See XVI.19.11. 7. See XVI.21.1ff. 8. See XVI.35.4. 
-9. See XV.1.10ff; XVI.2.1ff. राजन्योहमाने ऽग्नौ प्रणीयमान उखामच्छ गच्छतामोद्यमानायां वसतीवरी: सवनीयाश्चाच्छ गच्छतामाह्रियमाणासु नैर्ऋतीरुपधास्यतां चित्यग्नीनां च प्रणी यमानानां दक्षिणत एति॥६॥ 
+9. See XV.1.10ff; XVI.2.1ff. राजन्योहमाने ऽग्नौ प्रणीयमान उखामच्छ गच्छतामोद्यमानायां वसतीवरीः सवनीयाश्चाच्छ गच्छतामाह्रियमाणासु नैर्ऋतीरुपधास्यतां चित्यग्नीनां च प्रणी यमानानां दक्षिणत एति॥६॥ 
 6. He goes by the south while the king (Soma) is being carried, while the fire is being carried forward, when (the Adhvaryu etc.) are going (for bringing clay) for the pan,' when the clay is being carried, when the Adhvaryu etc. are going (to bring) Vasativaris and Savaniya (waters), when (the 
 Adhvaryu etc.) are going to place the Nirrti-bricks, and when the bricks for Fire-altar are being brought.s 
 1. See X.29.1. 2. See XI.17.3. 3. See XV.1.7; XVI.2.3. 4. See XVI.3.12. 5. See XI.20.5. 6. See XII.5.4. 7. See XVI.15.8. 8. See XVI.21.3. 
