@@ -1,5 +1,5 @@
 +++
-title = "Sūtras 1-25"
+title = "24"
 
 +++
 ## SŪTRA I.
