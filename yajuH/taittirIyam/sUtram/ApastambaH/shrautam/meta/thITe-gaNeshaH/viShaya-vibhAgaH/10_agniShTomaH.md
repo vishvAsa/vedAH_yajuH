@@ -9,64 +9,105 @@ THE SOMA-SACRIFICE: AGNIṢṬOMA
 ____1. One who is going to perform a Soma-sarifice should select priests who must be Brāhmaṇas belonging to Rṣi-families, 
 488 
 being either young or old, those who have studied Veda. I those who have loud voice and those who are not devoid of any limbi 
-___1. For this qualification cf SB III.1.1.5. तेभ्यः सोमं प्राह॥२॥ 
+___1. For this qualification cf SB III.1.1.5. तेभ्यः सोमं प्राह॥२॥
 2. He (the sacrificer) tells them (through Somapravāka) about the Soma(-sacrifice). 
-तं पृच्छति क ऋत्विजः के याजयन्ति कच्चिन्नाहीनः कच्चिन्न न्यस्तमाविज्यं कच्चित्कल्याण्यो दक्षिणा इति छन्दोगब्राह्मणं भवति॥३॥ 
+
+
+तं पृच्छति क ऋत्विजः के याजयन्ति कच्चिन्नाहीनः कच्चिन्न न्यस्तमाविज्यं कच्चित्कल्याण्यो दक्षिणा इति छन्दोगब्राह्मणं भवति॥३॥
 3. (One who has been invited to work as a priest) asks him, "Who are the priests? Who make the sacrificer perform the Soma-sacrifice? Is it by any chance a sacrifice abandoned by other pirests! Is the priest-hood by any chance denied by other priests? Are the gifts (the cows) auspicious?"—this is said in Brāhmaṇa-text of the Sāmaveda.? 
 ____ 1. nāhinah is to be read as na hinah. Thea in na seems to have been 
 lengthened stylistically. Therefore I read kaccina hinah. 2. Not known. 
-अथ जपति महन्मे ऽवोचो भर्गों मे ऽवोचो यशो मे वोचः स्तोमं मे ऽवोचः क्लृप्तिं मे ऽवोचो भुक्तिं मे ऽवोचः सर्वं मे ऽवोचस्तन्मावतु तन्मा विशतु तेन भुक्षिषीयेति॥४॥ 
-4. Then (the invited priest) mutters mahan me vocah...! ___1. Cp. TMB I.1.1. पद्वा नामासि त्रुतिः सोमसरणी सोमं गमेयमिति पन्थानमातिष्ठते॥५॥ 
+
+
+अथ जपति महन्मे ऽवोचो भर्गों मे ऽवोचो यशो मे वोचः स्तोमं मे ऽवोचः क्लृप्तिं मे ऽवोचो भुक्तिं मे ऽवोचः सर्वं मे ऽवोचस्तन्मावतु तन्मा विशतु तेन भुक्षिषीयेति॥४॥
+4. Then (the invited priest) mutters mahan me vocah...! ___1. Cp. TMB I.1.1. 
+
+पद्वा नामासि त्रुतिः सोमसरणी सोमं गमेयमिति पन्थानमातिष्ठते॥५॥
 5. (The invited priest) sets out on the path (leading to the house of the sacrificer) with padvā nāmāsi...1 
-____ 1. Cp. TMB I.1.1. देवो देवमेतु सोमः सोममेत्वृतस्य पथा विहाय दौष्कृत्यमित्यभिप्रव्रजति॥६॥ 
+____ 1. Cp. TMB I.1.1. 
+
+देवो देवमेतु सोमः सोममेत्वृतस्य पथा विहाय दौष्कृत्यमित्यभिप्रव्रजति॥६॥
 6. With devo devametu somah...1 he should proceed further. 
-___ 1. Cp. TMB I.1.2-3. पितरो भूरिति दक्षिणावृत्तः पितॄनुपतिष्ठते॥७॥ 
+___ 1. Cp. TMB I.1.2-3. 
+
+पितरो भूरिति दक्षिणावृत्तः पितॄनुपतिष्ठते॥७॥
 7. Having turned towards the south he should stand praising the ancestors with pitaro bhūḥ. 
 489 
-तान्वृणीते चतुरः सर्वान्वैकैकशः॥८॥ 
+
+
+तान्वृणीते चतुरः सर्वान्वैकैकशः॥८॥
 8. (After the invited priests have arrived, the sacrificer) should formally select the four chief priests or all the priests one by one, 
 1. The sentence is not complete. See the next Sūtra.' 
-अध्वर्यु प्रतिप्रस्थातारं नेष्टारमुन्नेतारमित्यध्वऍन्। ब्रह्माणं ब्राह्मणाच्छंसिन माग्नीधं पोतारमिति ब्रह्मणः। होतारं मैत्रावरुणच्छावाकं ग्रावस्तुतमिति होतॄन्। उदगातारं प्रस्तोतारं प्रतिहर्तारं सुब्रह्मण्यमित्युद्गातॄन्॥९॥ 
+
+
+अध्वर्यु प्रतिप्रस्थातारं नेष्टारमुन्नेतारमित्यध्वऍन्। ब्रह्माणं ब्राह्मणाच्छंसिन माग्नीधं पोतारमिति ब्रह्मणः। होतारं मैत्रावरुणच्छावाकं ग्रावस्तुतमिति होतॄन्। उदगातारं प्रस्तोतारं प्रतिहर्तारं सुब्रह्मण्यमित्युद्गातॄन्॥९॥
 9. viz. Adhvaryu, Pratiprasthātr, Neṣṭr̥ and Unnetr as Adh varyus i.e. Adhvaryu and his associates; Brahman, Brāhmaṇā chamsin, Agnidhra and Potr̥ as the Brahmans i.e. the Brahman and his associates; Hotr̥, Maitrāvaruņa, Acchāvāka and Grāva stut as the Hotrs i.e. the Hotr and his associates; Udgātr, Prast ots, and Subrahmaṇya as the Udgātņs i.e. Udgātr̥ and his asso ciates. 
-सदस्यं सप्तदशं कौषीतकिनः समामनन्ति॥१०॥ 
+
+
+सदस्यं सप्तदशं कौषीतकिनः समामनन्ति॥१०॥
 10. The Kauṣītakins' consider the Sadasya as the seventeenth. 
-1. e.g. KB XVII.7. स कर्मणामुपद्रष्टा भवति॥११॥ 
+1. e.g. KB XVII.7. 
+
+स कर्मणामुपद्रष्टा भवति॥११॥
 11. He (the Sadasya) should look after the sacrificial activities. 
-यदि चतुर आद्यान्॥१२॥ 
+
+
+यदि चतुर आद्यान्॥१२॥
 12. If he selects only four then he should choose the first of each of the four groups. 
-1. viz. Adhvaryu, Brahman, Hotr and Udgatr. अथ वरणाः॥१३॥ 
+1. viz. Adhvaryu, Brahman, Hotr and Udgatr. 
+
+अथ वरणाः॥१३॥ 
 अग्निमें होतादित्यो मे ऽध्वर्युश्चन्द्रमा मे ब्रह्मा पर्जन्यो म उद्गाताकाशो मे सदस्य आपो मे होत्राशंसिनो रश्मयो मे चमसाव॑व इत्युपांशु देवतादेशनम्। असौ मानुष इत्युच्चैः॥१४॥ 
 ___13-14. Now the (formulae for selecting the priests): agnirme hotādityo me' dhvaryu... the mention of the deity 
 490 
 should be made inaudibly. The words asau mānusah shows be added at the end of each of these formulae, the name particular person being uttered in the place of the word asau and it being pronounced loudly. 
 1. For the formulae see ṢaďB II. 10.2. 
 ## 10.02
-स्वर्गकामो ज्योतिष्टोमेन यजेत। एककामः सर्वकामो वा। युगपत्काम येताहारपृथक्त्वे वा॥१॥ 
+स्वर्गकामो ज्योतिष्टोमेन यजेत। एककामः सर्वकामो वा। युगपत्काम येताहारपृथक्त्वे वा॥१॥
 1. The sacrificer who desires to get heaven should perform the Jyotiştoma-sacrifice. One who has one desire or all the desires should perform this sacrifice. If one has all the desires one should peoclaim them either simultaneously or separately at different performances. 
 1. i.e. the Agniṣtoma Jyotiṣtoma. Thus it is a sacrifice in which there 
 are four jyotis (lights) viz. Trivst-stoma, Pañcadaśa-stoma, Saptads 
 astoma, and Ekavimśa-stoma. 2. Cp. TMB VI.3.2. 
-3. Cp. III. 14.8-10. वसन्ते ज्योतिष्टोमेन यजेत॥२॥ 2. One should perform the Jyotiṣtoma in spring. 
-अग्निष्टोमः प्रथमयज्ञः॥३॥ 
+3. Cp. III. 14.8-10. 
+
+वसन्ते ज्योतिष्टोमेन यजेत॥२॥
+2. One should perform the Jyotiṣtoma in spring. 
+
+
+अग्निष्टोमः प्रथमयज्ञः॥३॥
 3. The Agniṣtoma (should be performed as) the first sacrifice by any sacrificer." 
-1. Cf. TMB XVI.1.2; TS VII.1.1.4; KB XVI.9. अतिरात्रमेके पूर्वं समामनन्ति॥४॥ 
+1. Cf. TMB XVI.1.2; TS VII.1.1.4; KB XVI.9. 
+
+अतिरात्रमेके पूर्वं समामनन्ति॥४॥
 4. Some ritualists' are of the view that Atiratra is the first sacrifice to be performed by a sacrificer. 
-1. Cp! Nidānasūtra III.1-2. वसन्तेवसन्ते ज्योतिष्टोमेन यजेत। तस्य तिस्त्रो दक्षिणा इति छन्दोगब्राह्मण tafa11411 : 5. In every spring (season) one should perform an Agnisto 
+1. Cp! Nidānasūtra III.1-2. 
+
+वसन्तेवसन्ते ज्योतिष्टोमेन यजेत। तस्य तिस्त्रो दक्षिणा इति छन्दोगब्राह्मण tafa11411 : 5. In every spring (season) one should perform an Agnisto 
 x.2] 
 ApSs Translation : THITE 
 491 ma: of this (sacrifice)' there should be three cows as the crificial gifts—this is said in a Brāhmaṇa of the Sāmaveda." 
-1. Not known. रथंतरसाम्ना बृहत्साम्नोभयसाम्ना वा प्रथमं यजेत॥६॥ 
+1. Not known. रथंतरसाम्ना बृहत्साम्नोभयसाम्ना वा प्रथमं यजेत॥६॥
 6. One should perform the first Soma-sacrifice with Ratha ntara or Brhat, or both the Samans.1 
 1. Cf. JB 1.291. This Sāman serves as the first Prsthstotra which 
-runs parallel to the second sastra of the Hotị. न रथंतरसामानमकृत्वा बृहत्सामानमाहरेदित्येके॥७॥ 
+runs parallel to the second sastra of the Hotị. 
+
+न रथंतरसामानमकृत्वा बृहत्सामानमाहरेदित्येके॥७॥
 7. According to some (ritualists) one should not perform the sacrifice with Bṣhtsāman without having previously performed a sacrifice with Rathantara-sāman. 
-___यदीष्ट्या यदि पशुना यदि सोमेन यजेतामावास्यायां वैव पौर्णमास्यां वा यजेत॥८॥ 
+___
+
+यदीष्ट्या यदि पशुना यदि सोमेन यजेतामावास्यायां वैव पौर्णमास्यां वा यजेत॥८॥
 8. When one performs an Isti or an animal-sacrifice or a Soma-sacrifice one should perfom it either on the New-moon day or Full-moon-day. 
-देव वरुण देवयजनं मे देहीति यजमानो राजानं देवयजनं याचेत्॥९॥ 
+
+
+देव वरुण देवयजनं मे देहीति यजमानो राजानं देवयजनं याचेत्॥९॥
 9. (The sacrificer) should beg of the king a place for sacrifice with deva varuņa devayajanaṁ me dehi.' 
-1. AB VII.20; TMB XXIV. 18. For the Sūtra cf. ṢadB 11.4.4. स यदि ददाति देवयजनवान्भूया इत्येनमाह। यदि न ददाति यदहं देवय जनं वेद तस्मिंस्त्वा देवयजन आ क्षिणोमीति॥१०॥ 
+1. AB VII.20; TMB XXIV. 18. For the Sūtra cf. ṢadB 11.4.4. 
+
+स यदि ददाति देवयजनवान्भूया इत्येनमाह। यदि न ददाति यदहं देवय जनं वेद तस्मिंस्त्वा देवयजन आ क्षिणोमीति॥१०॥
 10. If (the king) gives (the land) the sacrificer should say to him, "May you be a possessor of a place of sacrifice". It he does not give, the sacrificer should say, "I destroy you in that place of sacrifice which I know".'. 
-1. Cp. SadB II, 10.5-6. अथैनमनुव्याहरन्ति। मन उपावधीर्मनस्त्वा हास्यतीति ब्रह्मा। वाचमुपाव धौक्त्विा हास्यतीति होता। प्राणम्पावधीः प्राणस्त्वा हास्यतीत्यध्वर्युः। चक्षुरुपा पाश्चक्षुस्त्वा हास्यतीत्युद्गाता। आत्मानमुपावधीरात्मा त्वा हास्यतीति सदस्यः। 
+1. Cp. SadB II, 10.5-6. 
+
+अथैनमनुव्याहरन्ति। मन उपावधीर्मनस्त्वा हास्यतीति ब्रह्मा। वाचमुपाव धौक्त्विा हास्यतीति होता। प्राणम्पावधीः प्राणस्त्वा हास्यतीत्यध्वर्युः। चक्षुरुपा पाश्चक्षुस्त्वा हास्यतीत्युद्गाता। आत्मानमुपावधीरात्मा त्वा हास्यतीति सदस्यः। 
 492 
 ApSs Translation : THITE 
 __ [X.3 प्रजापतिमपावधीः प्रजा त्वा हास्यतीति यजमानः। अङ्गान्युपावधीरङानि ना हास्यन्तीति होत्रकाः। भूतान्युपावधीभूतानि त्वा हास्यन्तीति सर्व ऋत्विजी 
@@ -77,89 +118,145 @@ x.3
 ___1. The king begs (of the priests) the place of sacrifice. Thus with agnirhota ... of the Hotr, with adityo'dhvaryuh... of the Adhvaryu; with candramā brahmā ... of the Brahman; with parjanya udgātā... of the Udgātr; ākāsah sadasyah... Of the Sadasya; āpo hotrāsamsinah... of the Hotrakas; with rasmayascamasādhvaryavah... of the Camasādhvaryus.' 
 1.Cp. SadB II. 10.8-9. 
 अपि वा न देवयजनं याचेत्। देवता एवोपतिष्ठेत सक्षेदं पश्य विधर्त रिदं पश्य नाकेदं पश्य। रमतिः पनिष्ठत वषिष्ठममता यान्याहुः सूर्यो वरिष्ठा 
-अक्षभिर्विभात्यनु द्यावापृथिवी देवपुत्रे इति॥२॥ 
+अक्षभिर्विभात्यनु द्यावापृथिवी देवपुत्रे इति॥२॥
 2. Or, rather, he should not beg the place of sacrifice. He should only stand while praising the deities with sakṣedam pasya.... 
 1. TB III.7.7.1. 
 493 
-एदमगन्म देवयजनं पृथिव्या इति देवयजनमध्यवस्यति॥३॥ 
+
+
+एदमगन्म देवयजनं पृथिव्या इति देवयजनमध्यवस्यति॥३॥
 3. (The sacrificer) should occupy the place of sacrificel with etadaganma... 
 1. Cp. SB III.1.2.11. 
-2. TS I.3.2.0. प्राग्वंशस्य मध्यमं स्थूणाराजमारभ्य जपतीति वाजसनेयकम्॥४॥ 
+2. TS I.3.2.0. 
+
+प्राग्वंशस्य मध्यमं स्थूणाराजमारभ्य जपतीति वाजसनेयकम्॥४॥
 4. According to the opinion of the Vājasaneyins' (the sacrificer) should mutter (the verse etadaganma...) after having held the middle big beam of the Prāgvaṁsa(-hall). 
-__ 1. See SB III.1.1.11. ततः संभारयजूंषि जुहोति॥५॥ 
+__ 1. See SB III.1.1.11. 
+
+ततः संभारयजूंषि जुहोति॥५॥
 5. Then i.e. after the Vihāra is prepared, Āhavaniya-fire is taken from the Gārhapatya and established) (the Adhvaryu) offers the libations with the Sambhārayajus-formulae. 
-अग्निर्यजुर्भिः सविता स्तोमैरित्येषो ऽनुवाक आम्नातः॥६॥ 
+
+
+अग्निर्यजुर्भिः सविता स्तोमैरित्येषो ऽनुवाक आम्नातः॥६॥
 6. The section' beginning with agniryajurbhiḥ savita stomaiḥ is considered (to be containing the Sambhārayajus formulae). 
 * 1. TA III.8. 
-2. For Sūtras 5 and 6 cp. MS 1.9.8; KS IV.15. अत्र राजानमाहृत्य पयसौदनेन परिवेविषन्त्याक्रयात्।।७॥ 
+2. For Sūtras 5 and 6 cp. MS 1.9.8; KS IV.15. 
+
+अत्र राजानमाहृत्य पयसौदनेन परिवेविषन्त्याक्रयात्।।७॥
 7. At this stage having brought the Soma-king, they should serve it by means of rice-pap (cooked) in milk, upto the parchase of Soma." 
-1. For the Purchase of Soma see X.25.1. स्वे दक्षे दक्षपितेह सीद देवानां सुम्ने महते रणाय। स्वासस्थस्तनुवा संविशस्व पितेवैधि सूनव आ सुशेवः। शिवो मा शिवमाविश सत्यं म आत्मा श्रद्धा मे ऽक्षितिस्तपो मे प्रतिष्ठा। सवितृप्रसूता मा दिशो दीक्षयन्तु सत्यमस्मीति पुरस्ताद्दीक्षणीयाया आहवनीयं यजमान उपतिष्ठते। सप्तहोतारं मनसानुद्रुत्याहवनीये संग्रह हुत्वा॥८॥ 
+1. For the Purchase of Soma see X.25.1. 
+
+स्वे दक्षे दक्षपितेह सीद देवानां सुम्ने महते रणाय। स्वासस्थस्तनुवा संविशस्व पितेवैधि सूनव आ सुशेवः। शिवो मा शिवमाविश सत्यं म आत्मा श्रद्धा मे ऽक्षितिस्तपो मे प्रतिष्ठा। सवितृप्रसूता मा दिशो दीक्षयन्तु सत्यमस्मीति पुरस्ताद्दीक्षणीयाया आहवनीयं यजमान उपतिष्ठते। सप्तहोतारं मनसानुद्रुत्याहवनीये संग्रह हुत्वा॥८॥
 8. Befor the Diksaniya-offering, the sacrificer stands near the Ahavaniya-fire with sve dakse daksapiteha....! Having 
 494 
 mentally gone through the Saptahotự-formula,2 having ass (a ghee)-libation with the second part of the same formula called Graha, 
 1. TB III.7.7.9.10. 2. TĀ II.5. 3. Cf. TB IV.2.2.5. The sentence is incomplete. See the next Sūtra. 
 ## 10.04
-दीक्षणीयायास्तन्त्रं प्रक्रमयति॥१॥ 
+
+
+दीक्षणीयायास्तन्त्रं प्रक्रमयति॥१॥
 1. (The Adhvaryu) begins the procedure of the Dikṣaṇīyā offering. 
-आग्नावैष्णावमेकादशकपालं निर्वपति। आग्नावैष्णवं वा घृते चरुम्॥२॥ 
+
+
+आग्नावैष्णावमेकादशकपालं निर्वपति। आग्नावैष्णवं वा घृते चरुम्॥२॥
 2. He pours out the material (i.e. rice grains) for the sacrificial bread! to be prepared on eleven potsherds for Agni and-Vişnu. Or he takes out the material for the rice-papề cooked in (with) ghee for Agni-and-Vişņu. 
 1. Cp.. TB 1.5.9.2. 
-2. Cf. MS III.6.1. पुरोडाशो ब्रह्मवर्चसकामस्य। घृते चरुः प्रजाकामस्य पशुकामस्य a111311 
+2. Cf. MS III.6.1. 
+
+पुरोडाशो ब्रह्मवर्चसकामस्य। घृते चरुः प्रजाकामस्य पशुकामस्य a111311 
 3. In the ease of a sacrificer desirous of the Brahman splendour there should be the sacrificial bread; In the case of (a sacrificer) desirous of progeny or of cattle, there should be rice-pap in ghee. 
-1. Cf.. KS XXII.13. आदित्यं घृते चळं द्वितीयं प्रजाकामपशुकामस्यैके समामनन्ति॥४॥ 
+1. Cf.. KS XXII.13. आदित्यं घृते चळं द्वितीयं प्रजाकामपशुकामस्यैके समामनन्ति॥४॥
 4. According to the opinion of some (ritualists) in the case of a sacrificer desirous of progeny or desirous of cattle there should be the second (offering of) rice-pap in (with) ghee for Ādityas. 
 1. ŚB III.1.3. 2-5 also this view is mentioned but not accepted. 
 X.41 
 495 
 ĀPŠS Translation : THITE 
-पञ्चदश सप्तदश वा सामिधेन्यः॥५॥ 
+
+
+पञ्चदश सप्तदश वा सामिधेन्यः॥५॥
 5. In the Diksaniya-offering there should be fifteen' or seventeen- enkindling-verses. 
 1. Cf. KB VII.2. 
-2. AB I.1; SB III.1.3.6. प्राग्वंशमेके पूर्वं समामनन्ति। दीक्षणीयामेके॥६॥ 
+2. AB I.1; SB III.1.3.6. 
+
+प्राग्वंशमेके पूर्वं समामनन्ति। दीक्षणीयामेके॥६॥
 6. According to some ritualists the preparation of Pragvamsa (shed) should be done first; according to some others the performance of the Dīkṣaṇīyā-offering should be done first. 
-पत्नीसंयाजान्ता दीक्षणीया संतिष्ठते॥७॥ 
+
+
+पत्नीसंयाजान्ता दीक्षणीया संतिष्ठते॥७॥
 7. The Diksaniya-offering stands completely established (i.e. concluded) ending with the Patnisamyajas.1 
-1. Cf. TB I.5.9.2. धारयति धौवमाज्यम्॥८॥ 8. He holds (i.e. preserves) the ghee in the Dhruva.1 . 
-___ 1. For being used for the Diksāhutis (seex.8.5).Cf. SB III.1.4.17. यत्प्रागग्नीषोमीयात्तेनोपांशु चरति॥९॥ 
+1. Cf. TB I.5.9.2. 
+
+धारयति धौवमाज्यम्॥८॥
+8. He holds (i.e. preserves) the ghee in the Dhruva.1 . 
+___ 1. For being used for the Diksāhutis (seex.8.5).Cf. SB III.1.4.17. 
+
+यत्प्रागग्नीषोमीयात्तेनोपांशु चरति॥९॥
 9. He performs all that which is before the (animal sacrifice) to Agni-and-Soma,' inaudibly.? 
 1. For this see XI.16.1ff. 2. i.e. the formulae in the main ritual are to be recited inaudibly. (See 
 ___XXIV.3.31). 
+
+
 अथैकेषाम्। यावत्यस्य वाग्भवति तावतीं दीक्षणीयायामन्वाह। ततो नीचैस्तरां प्रायणीयायाम्। नीचैस्तरामातिथ्यायाम्। उपांशूपसत्सु। उच्चैरग्नीषो मीये॥१०॥ 
 ___10. Now according to some (ritualists), one should recite in one's usual tone at the time of the Diksaniya-offering; in a lower tone than that at the time of the Prāyaṇīyā-offering; in a still lower tone at the time of the Ātithyā-offerings; inaudibly at the time of the Upasad-offerings loudly at the time of the animal sacrifice for Agni-and-Soma. 
 1. Unknown. 
 496 
-मन्द्रेण दीक्षणीयायाम्। मन्द्रतरेण प्रायणीयायाम्। मन्द्रतरेणातिथ्यायाम उपांशपसत्सु। उच्चैरग्नीषोमीये॥ उपांशु वा दीक्षणीयायाम्। उपांशुतरं प्रायणी यायाम्। उपांशुतरमातिथ्यायाम्। उपांशूपसत्सु। उच्चैरग्नीषोमीये॥२॥ 
+मन्द्रेण दीक्षणीयायाम्। मन्द्रतरेण प्रायणीयायाम्। मन्द्रतरेणातिथ्यायाम उपांशपसत्सु। उच्चैरग्नीषोमीये॥ उपांशु वा दीक्षणीयायाम्। उपांशुतरं प्रायणी यायाम्। उपांशुतरमातिथ्यायाम्। उपांशूपसत्सु। उच्चैरग्नीषोमीये॥२॥
 11. In a deep tone at the time of the Dikṣaṇīyā-offering; in a deeper tone at the time of the Prāyaṇīyā-offering; in a still deeper tone at the time of the Atithya-offering; inaudibly at the time of Upasad-offerings; loudly at the time of the animal sacrifice for Agni and Soma. Or inaudibly at the time of the Diksaniya-offering; more inaudibly at the time of the Prayaniya offering; inaudibly at the time of the Upasad-offerings; loudly at the time of the animal-sacrifice for Agni-and Soma. 
-दर्शपूर्णमासप्रकृतीनां सोमे ऽग्न्यन्वाधानं व्रतोपायनमारण्याशनं जागर णमन्वाहार्यस्य च दानं पल्याः संनहनं विमोचनमिति न विद्यन्ते॥१२॥ 
+
+
+दर्शपूर्णमासप्रकृतीनां सोमे ऽग्न्यन्वाधानं व्रतोपायनमारण्याशनं जागर णमन्वाहार्यस्य च दानं पल्याः संनहनं विमोचनमिति न विद्यन्ते॥१२॥
 12. In a Soma-sacrifice (the offerings) (Istis) having the New-and-Full-moon-offerings as the basic paradigm, do not contain (the following rites): adding fuel to fires, entering into vow, eating of the forest products, waking, giving the Anvāhārya (-mess), binding and setting free (the girdle) of the wife of the sacrificer. 
-अग्न्यन्वाधानं तु दीक्षणीयायां क्रियेत पल्याश्च संनहनम्॥१३॥ 
+
+
+अग्न्यन्वाधानं तु दीक्षणीयायां क्रियेत पल्याश्च संनहनम्॥१३॥
 13. In the Diksaniya-offering, however, adding fuel to the fire and binding girdle of the wife of the sacrificer is done. 
-दीक्षासु यूपं कारयति॥१४॥ क्रीते राजन्युपसत्सु वा॥१५॥ 
+
+
+दीक्षासु यूपं कारयति॥१४॥ क्रीते राजन्युपसत्सु वा॥१५॥
 14-15. The Adhvaryu causes (the carpenter) to prepare the sacrificial post during the Dīkņā-days or during the Upasad days after the (Soma-) king is purchased. 
 ## 10.05
-प्राचीनवंशं करोति पुरस्तादुन्नतं पश्चान्निनतं सर्वतः परिश्रितम्॥१॥ 
+
+
+प्राचीनवंशं करोति पुरस्तादुन्नतं पश्चान्निनतं सर्वतः परिश्रितम्॥१॥
 1. (The Adhvaryu) prepares the Pracinavamsa (shed) raised towards the east, lower towards the west, enclosed towards all the sides. 
 497 
-अवान्तरदिक्षु सक्तयः॥२॥ 
+
+
+अवान्तरदिक्षु सक्तयः॥२॥
 2. The corners (of this shed should be) towards the interim ediary directions. 
-स्त्रक्तिष्वारोकान्करोति॥३॥ 
+
+
+स्त्रक्तिष्वारोकान्करोति॥३॥
 3. He should make windows in the corners.1 
-1. Cf.. KS XXII.13; MS III.6.1; प्रतिदिशं द्वाराणि॥४॥ 4. (There should be) doors towards every direction. 
-पुरस्तादद्वारं स्वर्गकामः। दक्षिणतो यः कामयेत पितृलोक ऋनुयामिति। पश्चान्मनुष्यलोककामः। उत्तरतो यः कामयेत देवलोक ऋनुयामिति। उत्तरतः पुरस्ताद्यः कामयेतोभयोलॊकयोध्नुयामिति। सर्वतो यः कामयेत सर्वासु दिक्ष्वृध्नुयामिति॥५॥ 
+1. Cf.. KS XXII.13; MS III.6.1; 
+
+प्रतिदिशं द्वाराणि॥४॥
+4. (There should be) doors towards every direction. 
+
+
+पुरस्तादद्वारं स्वर्गकामः। दक्षिणतो यः कामयेत पितृलोक ऋनुयामिति। पश्चान्मनुष्यलोककामः। उत्तरतो यः कामयेत देवलोक ऋनुयामिति। उत्तरतः पुरस्ताद्यः कामयेतोभयोलॊकयोध्नुयामिति। सर्वतो यः कामयेत सर्वासु दिक्ष्वृध्नुयामिति॥५॥
 5. (A sacrificer) desirous of heaven (should have) a door (only towards) the east; one who desires, “May I prosper in the world of ancestors...."! to the south; one desirous of the world of human beings... to the west; one who desires, “May I prosper in the world of gods..." to the north; one who desires, “May I prosper in both the worlds..." to the north-east; One who desires, “May I prosper in all the directions..." in all the directions. 
-1. Cp. MS III.6.1. उत्तरेण बहिः प्राग्वंशं परिश्रिते यजमानः केशश्मश्रु वापयते॥६॥ 
-उपपक्षावग्रे ऽथ श्मश्रूण्यथ केशान्। अपि वा श्मश्रूण्युपपक्षावथ केशान्॥७॥ 
+1. Cp. MS III.6.1. 
+
+उत्तरेण बहिः प्राग्वंशं परिश्रिते यजमानः केशश्मश्रु वापयते॥६॥ 
+उपपक्षावग्रे ऽथ श्मश्रूण्यथ केशान्। अपि वा श्मश्रूण्युपपक्षावथ केशान्॥७॥
 6-7. In an enclosed place towards the north, outside the Prāgvaṁsa (shed), the sacrificer gets the hair on the head and beard shaved off-first the hair in the armpits, then the beard, and then the hair on the head; or rather (first) beard, then the hair in the armpits and then the hair on the head. 
 498 
+
+
 आप उन्दन्त्विति दक्षिणं गोदानमुनत्ति। ओषधे त्रायम्नलि . दर्भमन्तर्धाय स्वधिते मैनं हिंसीरिति स्वधितिनाभिनिधाय देवभूरिति प्रवपति॥ 
 7-8. The Adhvaryu moistens the hair near the right ear of the sacrificer with āpa undantu...' Then having held a blade of Darbha-grass with its point to the east, between the hair and the razor with oṣadhe trayasvainam, having then placed the razor on that Darbha-blade, with svadhite mainam hissih4 he cuts out that with devasrūḥ.... 
 1. TS I.2.1.a 2. Cf. MS III.6.2. 3. TS I.2.1.b 4. TS I.2.1.e. 
-5. TS I.2.1.d. एवमुत्तरं गोदानम्॥९॥ 
+5. TS I.2.1.d. एवमुत्तरं गोदानम्॥९॥
 9. He does the same in connection with the hair near the left ear. 
-ओषधे त्रायस्व मा स्वधिते मा मा हिंसीः स्वस्त्युत्तराण्यशीयेति यजमानो जपति॥१०॥ 
+
+
+ओषधे त्रायस्व मा स्वधिते मा मा हिंसीः स्वस्त्युत्तराण्यशीयेति यजमानो जपति॥१०॥
 10. The sacrificer mutters osadhe trāyasva mā...', svadhite mā mā hissiủa and svasti uttarāņi asīya.” 
 1. Modification of TS I.2.1.b. 2. Modification of TS. I.2.1.c. 
-3. TS I.2.1.e. अभ्यन्तरं नखानि कारयते॥११॥ सव्यस्याग्रे कनिष्ठिकातः॥१२॥ हस्त्यान्यग्रे ऽथ पद्यानि॥१३॥ 
+3. TS I.2.1.e. 
+
+अभ्यन्तरं नखानि कारयते॥११॥ सव्यस्याग्रे कनिष्ठिकातः॥१२॥ हस्त्यान्यग्रे ऽथ पद्यानि॥१३॥
 11-13. (The sacrificer) should get his nails pared in such a way that after they are pared they will be inside the points of the fingers', of the left (hand) beginning from the little finger." First of the hands and then those of the feet. 
 1. abhyantaram. 2. Contrast ŚB II. 1.2.4 which prescribes right hand thumb to be the 
 first. 
@@ -167,132 +264,227 @@ first.
 ApSs Translation : THITE 
 499 
 X.6] 
-औदम्बरेण दतो धावते लोहितमनभिगमयन्॥१४॥ 
+
+
+औदम्बरेण दतो धावते लोहितमनभिगमयन्॥१४॥
 14. He should clean his teeth with a (twig) of Udumbara not causing any blood to come out (of the teeth). 
-स्थावरास्वप्सु स्नाति शङ्खिनीष्ववकिनीषु लोमशे तीर्थे॥१५॥ 
+
+
+स्थावरास्वप्सु स्नाति शङ्खिनीष्ववकिनीषु लोमशे तीर्थे॥१५॥
 15. He should take bath in still water in which there are conch-shells and Avakā-plants at a bathing place on the banks of which there is grass.2 
 1. Cf. TS VI.1.1.2. 
-2. Cf. KS XXII. 13. कुण्डे हिरण्यमवधाय तस्मिन्स्नातीति वाजसनेयकम्॥१६॥ 
+2. Cf. KS XXII. 13. 
+
+कुण्डे हिरण्यमवधाय तस्मिन्स्नातीति वाजसनेयकम्॥१६॥
 16. According to the Vājasaneyins' having put a piece of gold in a basin (full of water) he should take bath in that water. 
 1. Not known from the available ŚB. 
-x.6 ___ आपो अस्मान्मातरः शुन्धन्त्विति। हिरण्यवर्णाः शुचयः पावकाः प्रचक्रमु हित्वावद्यमापः। शतं पवित्रा वितता ह्यासु ताभिर्नो देवः सविता पुनात्विति। हिरण्यवर्णाः शुचयः पावका इति चैताभ्याम्॥१॥ 
+x.6 ___ 
+
+आपो अस्मान्मातरः शुन्धन्त्विति। हिरण्यवर्णाः शुचयः पावकाः प्रचक्रमु हित्वावद्यमापः। शतं पवित्रा वितता ह्यासु ताभिर्नो देवः सविता पुनात्विति। हिरण्यवर्णाः शुचयः पावका इति चैताभ्याम्॥१॥
 1. (The sacrificer takes bath) with the verse apo asmān mātarah...' and with the verse hiranyavarnāh sucayah... and the two verses hiranyavarņāḥ śucayaḥ...3 
 1. TS I.2.1.f. 2. MS I.2.1. 
-3. TS V.6.1.a-b; see MS II. 6.2. उदाभ्यः शुचिरापूत एमीत्युद्गाहमानो जपति। अपोऽश्नाति॥२॥ 
+3. TS V.6.1.a-b; see MS II. 6.2. 
+
+उदाभ्यः शुचिरापूत एमीत्युद्गाहमानो जपति। अपोऽश्नाति॥२॥
 2. While coming out of the water he mutters udābhyaḥ śucirā pūta emi....' Then he sips water.2 
 1. TS I.2.1f. 
-2. Cf. TS VI.1.1.3. एवं पत्नी केशवर्जम्॥३॥ 
+2. Cf. TS VI.1.1.3. 
+
+एवं पत्नी केशवर्जम्॥३॥
 3. The wife of the sacrificer does all the things except (shaving of) the hair on the head, in the same manner. 
 500 
-अथास्मै क्षौममहतं महद्वासः प्रयच्छति॥४॥ 
+
+
+अथास्मै क्षौममहतं महद्वासः प्रयच्छति॥४॥
 4. Then (the Adhvaryu) gives a big unwashed linen cloth to him (the sacrificer).' 
-तत्प्रतिगृह्णाति दीक्षासि तपसो योनिस्तपो ऽसि ब्रह्मणो योनिर्जदान क्षत्रस्य योनिः क्षत्रमस्तस्य योनिर्ऋतमसि भूरारभे श्रद्धां मनसा दीक्षां तपसा विश्वस्य भुवनस्याधिपत्नी सर्वे कामा यजमानस्य सन्विति॥५॥ 
+
+
+तत्प्रतिगृह्णाति दीक्षासि तपसो योनिस्तपो ऽसि ब्रह्मणो योनिर्जदान क्षत्रस्य योनिः क्षत्रमस्तस्य योनिर्ऋतमसि भूरारभे श्रद्धां मनसा दीक्षां तपसा विश्वस्य भुवनस्याधिपत्नी सर्वे कामा यजमानस्य सन्विति॥५॥
 5. (The sacrificer) takes it with diksāsi tapaso yonih...! 
 ___ 1. TB III.7.7.1-2. 
-सोमस्य तनूरसि तनुवं मे पाहि दीक्षासि तनूरसि तां त्वां शिवां स्योनां परिधिषीयेति तत्परिधाय सोमस्य नीविरसीति नीविमनुपरिकल्पयते॥६॥ 
+
+
+सोमस्य तनूरसि तनुवं मे पाहि दीक्षासि तनूरसि तां त्वां शिवां स्योनां परिधिषीयेति तत्परिधाय सोमस्य नीविरसीति नीविमनुपरिकल्पयते॥६॥
 6. With somasya tanārarsi...having worn (that cloth) he should tie a knot with somasya nīvirasi...2 
 1. TS I.2.1.g; see VS IV.2.c. 
-2. VS IV.10. ऊर्जे त्वेत्यन्नमश्नाति सर्पिमिश्रं दधि मधु चाभ्युपसेकम्॥७॥ 
+2. VS IV.10. 
+
+ऊर्जे त्वेत्यन्नमश्नाति सर्पिमिश्रं दधि मधु चाभ्युपसेकम्॥७॥
 7. With urje tvā he eats food (rice) mixed with ghee having poured curds and honey in it. 
-यदस्य प्रतिप्रियं तदश्नाति॥८॥ 8. he (also eats) whatever he likes. 
-तदेवास्यामुष्पिल्लोके भवतीति विज्ञायते। तथाशितः स्याद्यथा ततो दीक्षासु कनीयःकनीयो व्रतमुपेयात्॥९॥ 
+
+
+यदस्य प्रतिप्रियं तदश्नाति॥८॥
+8. he (also eats) whatever he likes. 
+
+
+तदेवास्यामुष्पिल्लोके भवतीति विज्ञायते। तथाशितः स्याद्यथा ततो दीक्षासु कनीयःकनीयो व्रतमुपेयात्॥९॥
 9. It is known (from a Brāhmaṇa-text) that the same food (is available) to him in the other word. He should eat the food now in such a manner that afterwards during the Dīkņā (period) he should be able to observe vow of eating less and the less food (without being harmed).' 
-1. Cf. MS III.6.2; KSXXII.13. पुरस्तात्केशवपनाद्वाससो वा परिधानाद्भोजनमेके समामनन्ति॥१०॥ 
+1. Cf. MS III.6.2; KSXXII.13. 
+
+पुरस्तात्केशवपनाद्वाससो वा परिधानाद्भोजनमेके समामनन्ति॥१०॥
 10. Some ritualists are of the opinion that the act of taking food should occur before the shaving of the hair or before the act of wearing the cloth.501 
 x.7] 
-_ApSs Translation : THITE महीनां पयो ऽसीति दर्भपुञ्जीलाभ्यां नवनीतमुद्यौति॥११॥ 
+_ApSs Translation : THITE 
+
+महीनां पयो ऽसीति दर्भपुञ्जीलाभ्यां नवनीतमुद्यौति॥११॥
 11. (The sacrificer) should take out (of the pot) some butter (intended for anointing the body) by means of two bunches of Darbha-grass with mahinām payo'si....1 
-1. TS I.2.1.h. वर्णोधा असीति तेन पराचीनं त्रिरभ्यङ्क्ते। मुखमग्रे॥१२॥ 
+1. TS I.2.1.h. 
+
+वर्णोधा असीति तेन पराचीनं त्रिरभ्यङ्क्ते। मुखमग्रे॥१२॥
 12. He should thrice anoint his body (with that butter) (every time) in the outer direction' with varcodhā asi... First, (he should anoint) the face. 
 1. TS I.2.1.h. 
-2. Cf. KS XXIII.1. अनुलोममङ्गानि॥ स्वक्तो भवति॥१३॥ 
+2. Cf. KS XXIII.1. 
+
+अनुलोममङ्गानि॥ स्वक्तो भवति॥१३॥
 13. He should anoint the limbs in the direction of hair. He should become properly anointed. 
-x.7 वृत्रस्य कनीनिकासीति त्रैककुदेनाञ्जनेनाते॥१॥ 
+x.7 
+
+वृत्रस्य कनीनिकासीति त्रैककुदेनाञ्जनेनाते॥१॥
 1. With vịtasya kanīnikasi...' (the sacrificer) applies collyrium obtained from the Trikakud (-mountain) (to his eyes). 
-1. TS I.2.1.i. See VI.1.1.5. यदि त्रैककुदं नाधिगच्छेद्येनैव केन चाञ्जनेनाञ्जीतेति वाजसनेयकम्॥२॥ 
+1. TS I.2.1.i. See VI.1.1.5. 
+
+यदि त्रैककुदं नाधिगच्छेद्येनैव केन चाञ्जनेनाञ्जीतेति वाजसनेयकम्॥२॥
 2. According to the view of the Vājasaneyins' one should apply any (collyrium) if one does not get the one from the Trikakud. 
 1.cf. SB III.1.3.12. 
-सतूलया दर्भेषीकया शरेषीकया दर्भपुञ्जीलेन वाभ्यन्तरं द्विदक्षिणमनि धावमानः। सकृत्सव्यम्॥३॥ 
+
+
+सतूलया दर्भेषीकया शरेषीकया दर्भपुञ्जीलेन वाभ्यन्तरं द्विदक्षिणमनि धावमानः। सकृत्सव्यम्॥३॥
 3. (He should apply the collyrium) by means of a tufted blade of Darbha or Sara!-(grass) or by means of a bunch of Darbha-blades, inwards and without moving it backwards, twice to the right (eye) and once to the left. 
 1. Cf. SB III.1.3.13. 2. Cf. TS I.1.1.6. 
 502 
-अपि वा द्विदक्षिणं त्रिः सव्यम्। त्रिस्त्रिोभे।४॥ 
+
+
+अपि वा द्विदक्षिणं त्रिः सव्यम्। त्रिस्त्रिोभे।४॥
 4. Or (he applies collyrium) twice to the right (eve thrice the left;' or thrice both (the eyes). 2 
 1. Co. TS 1.1.1.6 where it is precribed that in all there should be 
-application of collyrium for five times. 2. Cf. MS III.6.3. अथैनमुत्तरेण बहिः प्राग्वंशाद्दर्भपुञ्जीलैः पवयति॥५॥ 
+application of collyrium for five times. 2. Cf. MS III.6.3. 
+
+अथैनमुत्तरेण बहिः प्राग्वंशाद्दर्भपुञ्जीलैः पवयति॥५॥
 5. To the north outsidel the Pragvamsa, (the Adhvaran then purifies him (the sacrificer) by means of bunches of Darbha-(grass). 
-1. Cf. TS VI.1.2.1. द्वाभ्यां पवयति त्रिभिः पवयतीत्युक्तम्॥६॥ 
+1. Cf. TS VI.1.2.1. 
+
+द्वाभ्यां पवयति त्रिभिः पवयतीत्युक्तम्॥६॥
 6. It has been said in a Brāhmaṇa-text, “(The Adhvaryu) should purify (the sacrificer) by means of two (bunches of Darbha grass each time), by means of three (bunches of Darbha grass each time) etc.1 
 ___1. See TS VI.1.1.7-8, cp. SB III.1.3.18-20. 
-एकविंशत्या त्रेधा विभक्तया सप्तभिःसप्तभिर्द्विरूवं नाभेरुन्मार्टि सकृदवाक्॥७॥ 
+
+
+एकविंशत्या त्रेधा विभक्तया सप्तभिःसप्तभिर्द्विरूवं नाभेरुन्मार्टि सकृदवाक्॥७॥
 7. He should purify him by means of twenty-one bunches of Darbha-grass, divided into three (groups of) seven bunches each-twice above the navel upwards and once (below the navel) downwards.2 
 1. Cf. SB III.1.3.22. 
-2. MS III.6.3. अन्वञ्चं पावयतीत्येके॥८॥ 
+2. MS III.6.3. 
+
+अन्वञ्चं पावयतीत्येके॥८॥
 8. According to some ritualists' he purifies him downwards (from the head to the feet). 
-1. Cf. KS XXIII.1. यं द्विष्यात्तं तिर्यश्चमक्ष्णया वा पावयेत्॥९॥ 
+1. Cf. KS XXIII.1. 
+
+यं द्विष्यात्तं तिर्यश्चमक्ष्णया वा पावयेत्॥९॥
 9. He should purify him whom he hates either cross-wise" or obliquely 
 1. Cf. KS XXIII.1. 2. Cf. MS III. 6.3. 
 503 
 __ApSs Translation : THITE X.8] 
-चित्पतिस्त्वा पुनात्वित्येतैः प्रतिमन्त्रम्॥१०॥ 
+
+
+चित्पतिस्त्वा पुनात्वित्येतैः प्रतिमन्त्रम्॥१०॥
 10. He should purify with each of the formula beginning with citpatistvā.' 
-____ 1. TS I.2.1.k. अच्छिद्रेण पवित्रेणेति सर्वत्रानुषजति॥११॥ 11. To each of the formula he adds acchidrena pavitrena.1 
-1. TS I.2.1.k. चित्पतिर्मा पुनातु वाक्पतिर्मा पुनातु देवो मा सविता पुनात्विति पाव्यमानो जपति॥१२॥ 
-तस्य ते पवित्रपत इति च॥ पवमानः सुवर्जनः पवित्रेण विचर्षणिः। यः पोता स पुनातु मा॥ प्राजापत्यं पवित्रं शतोद्यामं हिरण्मयम्। तेन ब्रह्मविदो वयं पूतं ब्रह्म पुनीमह इति च॥१३॥ 
+____ 1. TS I.2.1.k. 
+
+अच्छिद्रेण पवित्रेणेति सर्वत्रानुषजति॥११॥
+11. To each of the formula he adds acchidrena pavitrena.1 
+1. TS I.2.1.k. 
+
+चित्पतिर्मा पुनातु वाक्पतिर्मा पुनातु देवो मा सविता पुनात्विति पाव्यमानो जपति॥१२॥ 
+तस्य ते पवित्रपत इति च॥ पवमानः सुवर्जनः पवित्रेण विचर्षणिः। यः पोता स पुनातु मा॥ प्राजापत्यं पवित्रं शतोद्यामं हिरण्मयम्। तेन ब्रह्मविदो वयं पूतं ब्रह्म पुनीमह इति च॥१३॥
 12-13. (The sacrificer) while being purified mutters citpatir mā punātu...1 and tasya te pavitrapate...2 and pavamānah suvarjanah...3 
 ___1. VS IV.4. 
 2. TS I.2.1.1. 
-3. TB I.4.8.1-6. यदेवा देवहेडनं त्वमग्ने अयासीति च पूतः॥१४॥ 
+3. TB I.4.8.1-6. 
+
+यदेवा देवहेडनं त्वमग्ने अयासीति च पूतः॥१४॥
 14. And when he becomes purified (he mutters) yaddevā devahedanam...1 
-____1. TB III.7.12.1ff. प्राग्वा दीक्षणीयाया जुहुयात्। जपेदित्येके॥१५॥ 
+____1. TB III.7.12.1ff. 
+
+प्राग्वा दीक्षणीयाया जुहुयात्। जपेदित्येके॥१५॥
 15. Or (with the verses mentioned in Sūtras 13-14) he should offer a libation of ghee before the Dīkṣaṇīyā-offering.! Or according to some he should mutter (these verses before the Dikṣaṇīyā-offering). 
 1. Thus before X.3.8. 
 ___x.8 
+
+
 आ वो देवास ईमह इति पूर्वया द्वारा प्राग्वंशं प्रविश्येन्द्राग्नी द्यावापृथिवी इत्यपरेणाहवनीयं दक्षिणातिक्रम्य त्वं दीक्षाणामधिपतिरसीत्याहवनीमुपोपविशति 
-॥१॥ 
+॥१॥
 1. With ā vo devāsa imahel... having entered into the 
 with indragni dyāvā is the south along the 
 504 
 ĀPŠS Translation : THITE 
 18.8 Prāgavamsa through the eastern door, with indrāpni prthivi...2 having stepped beyond towards the south west of the Āhavanīya fire, with tvaṁ dikṣānāmadhine (the sacrificer) sits near the Āhavanīya. 
 1. TS 1.2.1.m. 2. TS 1.2.1.0 
-3. TS 1.2.1.9 एष एवात ऊर्ध्वं यजमानस्य संचरो भवति॥२॥ 2. From now onwards this is the passage for the sacrificer. अब दीक्षणीयामेके समामनन्ति॥३॥ 
+3. TS 1.2.1.9 
+
+एष एवात ऊर्ध्वं यजमानस्य संचरो भवति॥२॥
+2. From now onwards this is the passage for the sacrificer. 
+
+अब दीक्षणीयामेके समामनन्ति॥३॥
 3. According to the view of some ritualists the Dikṣaniya işti (should take place) now. 
-1. Thus the ritual mentioned in X.3.8--X.4.7 should take place here. पुरस्ताद्दीक्षाहुतीभ्यः संभारयजूंष्येके।४॥ 
+1. Thus the ritual mentioned in X.3.8--X.4.7 should take place here. 
+
+पुरस्ताद्दीक्षाहुतीभ्यः संभारयजूंष्येके।४॥
 4. According to the view of some ritualists the libations with Sambhara-yajumṣi should be performed before the Diks à-libations. 
-1. Thus instead of performing these earlier (see X.3.5.) यद्दीक्षणीयाया धौवमाज्यं ततो दीक्षाहुतीः सुवेण चतस्त्रो जुहोति। स्रुचा पञ्चमीम्। आकूत्यै प्रयुजे ऽग्नये स्वाहेत्येतैः प्रतिमन्त्रम्॥५॥ 
+1. Thus instead of performing these earlier (see X.3.5.) 
+
+यद्दीक्षणीयाया धौवमाज्यं ततो दीक्षाहुतीः सुवेण चतस्त्रो जुहोति। स्रुचा पञ्चमीम्। आकूत्यै प्रयुजे ऽग्नये स्वाहेत्येतैः प्रतिमन्त्रम्॥५॥
 5. (The Adhvaryu) offers by means of a spoon four Dikṣā libations of ghee which remains' out of the Dikṣaṇīyā-offering in the Dhruva, and by means of a ladle (Juhū) the fifth; each (libation) with one of the Mantras beginning with ākūryai prayuje? and agnaye svāha. 
 1. See. X.4.8. 2. TS 1.2.2.a. 
-3. TS 1.2.2.6. For this Sätra cp. TS VI.1.2.1. द्वादशगृहीतेन घुचं पूरयित्वा विश्वे देवस्य नेतुरिति पूर्णाहुतिं षष्ठीम्॥६॥ 
+3. TS 1.2.2.6. For this Sätra cp. TS VI.1.2.1. 
+
+द्वादशगृहीतेन घुचं पूरयित्वा विश्वे देवस्य नेतुरिति पूर्णाहुतिं षष्ठीम्॥६॥
 6. Having filled the (Juhū-) ladle by means of twelve times scooped (ghee) he offers the sixth as a full libation' with VISVE devasya netuḥ...? 
 1. Cf. TS VI.1.2.7. 2. TS 1.2.2.c. 
 ĀPŠS Translation : THITE 
 505 x.8] 
+
+
 यत्राध्वर्युरौद्ग्रहणानि जुहोति तद्यजमानो ऽध्वर्युमन्वारभ्य पञ्च जुहोति बाचा मे वाग्दीक्षतां स्वाहा। प्राणेन मे प्राणो दीक्षतां स्वाहा। चक्षुषा मे नक्षतां स्वाहा। श्रोत्रेण मे श्रोत्रं दीक्षतां स्वाहा। मनसा मे मनो दीक्षतां 
-स्वाहेति॥७॥ 
+स्वाहेति॥७॥
 7. When the Adhvaryu offers the Audgrahaņa (Elevatory) libations, then the sacrificer having held the Adhvaryu from behind offers five libations of gheel with vācā me vāg diks atām svāhā...2 
 1. For this ritual cp. KB VII.4, JB II.65. 
-2. Cp. JB II.65. अध्वर्यु वा जुह्वतमनुमन्त्रयते॥८॥ 
+2. Cp. JB II.65. 
+
+अध्वर्यु वा जुह्वतमनुमन्त्रयते॥८॥
 8. Or when the Adhvaryu is offering (the Diksa-libations) (the sacrificer) (only) follows him with these formulae.' 
-1. Cf. KB VII.4. वातं प्राणं मनसान्वारभामहे प्रजापति यो भुवनस्य गोपाः। स नो मृत्यो स्त्रायतां पात्वंहसो ज्योग्जीवा जरामशीमहीति पूर्णाहुतिं हूयमानामनुमन्त्रयते॥९॥ 
+1. Cf. KB VII.4. 
+
+वातं प्राणं मनसान्वारभामहे प्रजापति यो भुवनस्य गोपाः। स नो मृत्यो स्त्रायतां पात्वंहसो ज्योग्जीवा जरामशीमहीति पूर्णाहुतिं हूयमानामनुमन्त्रयते॥९॥
 9. When the full libation is being offered (the sacrificer) should follow it with vātaṁ prāņṁ manasānvārabhamahe...! 
 . 1. TB III.7.7.2-3. 
-अत्र संभारयजूंष्येके॥१०॥ 
+
+
+अत्र संभारयजूंष्येके॥१०॥
 10. According to some ritualists the libations with sambhāra-yajúinṣi should be offered at this stage.! 
-1. Cp. x.3.5. कृष्णाजिनेन यजमानं दीक्षयति॥११॥ 
+1. Cp. x.3.5. 
+
+कृष्णाजिनेन यजमानं दीक्षयति॥११॥
 11. (The Adhvaryu) consecrates the sacrificer by means of the black antelope-skin.' 
-1. Cf. TS VI.1.3.2. द्वाभ्यां समस्य दीक्षेतान्तसाभ्यां बहिर्लोमाभ्याम्॥१२॥ 
+1. Cf. TS VI.1.3.2. 
+
+द्वाभ्यां समस्य दीक्षेतान्तसाभ्यां बहिर्लोमाभ्याम्॥१२॥
 12. (The sacrificer) should get himself consecrated by means of two (black-antelope-skins) with their fleshy sides insi des and hairy sides outsides after having put one over the other.' 
 ___1. Cf. KS XXIII.3; MS III.6.6. 
 506 
-यद्येकं स्यादक्षिणं पूर्वपादं प्रतिषीव्येत्। अन्तान्वा॥१३॥ 
+
+
+यद्येकं स्यादक्षिणं पूर्वपादं प्रतिषीव्येत्। अन्तान्वा॥१३॥
 13. If there is only one (skin), (the Adhvaryu) should (fold and) stich the front right foot or (he should fold and are the ends (of the skin).1 
-_ 1. Cf. MS II.6.6; KS XXVIII.3. द्वे विषूची प्रतिमुञ्चेत पादं वा प्रतिषीव्येदित्येके॥१४॥ 
+_ 1. Cf. MS II.6.6; KS XXVIII.3. 
+
+द्वे विषूची प्रतिमुञ्चेत पादं वा प्रतिषीव्येदित्येके॥१४॥
 14. According to some ritualists,' he should either fasten the two skins each other invertely? or stitch the foot. 
 1. Cf. MS III.6.6%; KS XXIII.3. 
-2. So that the head of a skin will be attached to the foot of the other. अन्तर्वेदि कृष्णाजिनं प्राचीनग्रीवमुत्तरलोमास्तृणाति॥१५॥ 
+2. So that the head of a skin will be attached to the foot of the other. 
+
+अन्तर्वेदि कृष्णाजिनं प्राचीनग्रीवमुत्तरलोमास्तृणाति॥१५॥
 15. Within the altar he should spread the skin of black antelope with its neck pointing to the east and with its hairy side upwards. 
-__ ऋक्सामयोः शिल्पे स्थ इति शुक्लकृष्णे राजी आलभते। संमृशतीत्येके॥१६॥ 
+__ 
+
+ऋक्सामयोः शिल्पे स्थ इति शुक्लकृष्णे राजी आलभते। संमृशतीत्येके॥१६॥ 
 _16. With rksāmayoh silpe sthal (the sacrificer) should touch the two lines on the skin of black antelope. According to some (ritualists) he should hold them.3 
 1. TS I.2.2.d. 2. KS XXIII.3; MS III.6.6. 3. Cf. SB III.2.1.5. 
 . 
@@ -303,54 +495,89 @@ ___ 1. (The sacrificer) touches the skin in each direction with one of the formu
 ĀPŠS Translation : THITE 
 X.91 
 507 
-अथ प्राङ्मुखो जान्वक्नो ऽभिसर्पति॥२॥ 
+अथ प्राङ्मुखो जान्वक्नो ऽभिसर्पति॥२॥
 2. Then with his face to the east, and with his right knee bent in he should crawl towards (the skin)." 
-1. Cf. SB III.2.1.38. इमां धियं शिक्षमाणस्येति कृष्णाजिनं भसत्तआरोहति॥३॥ 
+1. Cf. SB III.2.1.38. 
+
+इमां धियं शिक्षमाणस्येति कृष्णाजिनं भसत्तआरोहति॥३॥
 3. With imam dhiyam siksamānasya... he should ascend the skin from the hinder part.2 
 1. TS I.2.2.e. 
-2. Cr. SB III.2.1.9. सुत्रामाणमित्यारोहञ्जपति। इमां सुनावमारुहमित्यारूढः। आह दीक्षाम रुहमृतस्य पत्नी गायत्रेण छन्दसा ब्रह्मणा चर्तं सत्ये ऽधायि सत्यमृते ऽधाय्यतं च मे सत्यं चाभूतां ज्योतिरभूवं सुवरगमं सुवर्ग लोकं नाकस्य पृष्ठं अध्नस्य विष्टपमगममिति च॥४॥ 
+2. Cr. SB III.2.1.9. 
+
+सुत्रामाणमित्यारोहञ्जपति। इमां सुनावमारुहमित्यारूढः। आह दीक्षाम रुहमृतस्य पत्नी गायत्रेण छन्दसा ब्रह्मणा चर्तं सत्ये ऽधायि सत्यमृते ऽधाय्यतं च मे सत्यं चाभूतां ज्योतिरभूवं सुवरगमं सुवर्ग लोकं नाकस्य पृष्ठं अध्नस्य विष्टपमगममिति च॥४॥
 4. While ascending he mutters sutrāmāņam...' (After he has) ascended (he mutters) imam su navam...2 and āham diksamaruham... 
 1. TS I.5.11.t. 2. TS I.5.11.u; cf. KS II.3. 
-3. TB II.7.7.4. अत्र पत्नी शिरसि कुम्बकुरीरमध्यूहते॥५॥ 
+3. TB II.7.7.4. 
+
+अत्र पत्नी शिरसि कुम्बकुरीरमध्यूहते॥५॥
 5. At this stage the wife of the sacrificer puts the Kumbakuriral on the head. 
-1. Hair-net; see Sutra 7 below. कृष्णं जीवोर्णानामिति वाजसनेकम्॥६॥ 
+1. Hair-net; see Sutra 7 below. 
+
+कृष्णं जीवोर्णानामिति वाजसनेकम्॥६॥
 6. According to the Vājasaneyaka' (the Kumbakurira should be made) out of black wool of a living ram. 
-___1. Not found in the SB. जालं कुम्बकुरीरमित्याचक्षते॥७॥ 7. They call a (hair-) net to be Kumbakurira. 
+___1. Not found in the SB. 
+
+जालं कुम्बकुरीरमित्याचक्षते॥७॥
+7. They call a (hair-) net to be Kumbakurira. 
 508 
 ... 
 (॥ 
 ApSs Translation : THITE 
 ## 10.09
-विष्णोः शर्मासीत्यहतेन वाससा दक्षिणमंसं यजमानः प्रोर्णने की मातीकाशात्पाहीति शिरः॥८॥ 
+
+
+विष्णोः शर्मासीत्यहतेन वाससा दक्षिणमंसं यजमानः प्रोर्णने की मातीकाशात्पाहीति शिरः॥८॥
 8. With visnoḥ śarmāsi...' the sacrificer covers the r; shoulder with a new cloth; with nakṣatrāņāṁ mātikāért min (he covers) the head. 
 1. TS I.2.2.g. 
-2. TS I.2.2.h. उष्णीषेण प्रदक्षिणं शिरो वेष्टयत इति वाजसनेयकम्॥९॥ 
+2. TS I.2.2.h. 
+
+उष्णीषेण प्रदक्षिणं शिरो वेष्टयत इति वाजसनेयकम्॥९॥
 9. According to the Vājasaneyins' he covers the head with a turban by the right. 
-1. The $B does not mention this. न पुरा सोमस्य क्रयादपोण्वीतेत्युक्तम्॥१०॥ 
+1. The $B does not mention this. 
+
+न पुरा सोमस्य क्रयादपोण्वीतेत्युक्तम्॥१०॥
 10. It has been said (in a Brahmana-text)1 “(The sacrificer) should not uncover (his head) before the (ritual of the) purchase of the Soma (-plant) (is performed)". 
-1. TS VI.1.3.2-3. प्राचीनमात्रा वाससा पत्नी दीक्षयति॥११॥ 
+1. TS VI.1.3.2-3. 
+
+प्राचीनमात्रा वाससा पत्नी दीक्षयति॥११॥
 11. (The Adhvaryu or Pratiprasthātr) consecrates the wife (of the sacrificer) by means of a cloth with its (fringes) on the font side. 
 1. For the meaning of the word präcinamäts väsas see the next 
-Sūtra. ऊर्ध्ववास्यं ब्रुवते॥१२॥ 
+Sūtra. 
+
+ऊर्ध्ववास्यं ब्रुवते॥१२॥
 12. They call a cloth to be worn in such a way that its fringes would come on the upper part of the body (to be a prācinamātr vasas). 
-शरमयी मौञ्जी वा मेखला त्रिवत्पथ्व्यन्यतरतःपाशा। तया यजमानं दीक्षयात। योक्त्रेण पत्नीम्॥१३॥ 
+
+
+शरमयी मौञ्जी वा मेखला त्रिवत्पथ्व्यन्यतरतःपाशा। तया यजमानं दीक्षयात। योक्त्रेण पत्नीम्॥१३॥
 13. There should be a broad girdle made of Sara (-grass) or of Muñja (-grass), triply woven and having a noose on either 
 509 
 side With it (the Adhvaryu) consecrates the sacrificer and with a voke-halter the wife of the sacrificer.1 
-1. Cf. TS VI.1.3.3-5; cp. SB III.2.1.11,13. ऊर्गसीति नाभिं प्रति परिव्ययति द्वेष्यं मनसा ध्यायन्॥१४॥ 
+1. Cf. TS VI.1.3.3-5; cp. SB III.2.1.11,13. 
+
+ऊर्गसीति नाभिं प्रति परिव्ययति द्वेष्यं मनसा ध्यायन्॥१४॥
 14. Thinking of the enemyl (the sacrificer) binds (the girdle) round his waist with urgasi...! 
 __1. Cf. KS XXIII.4; MS III.6.7. 
-2. TS I.2.2.f. उत्तरेण नाभिं निष्टयं ग्रन्थिं कृत्वा प्रदक्षिणं पऍह्य दक्षिणेन नाभिम वस्थापयति॥१५॥ 
+2. TS I.2.2.f. 
+
+उत्तरेण नाभिं निष्टयं ग्रन्थिं कृत्वा प्रदक्षिणं पऍह्य दक्षिणेन नाभिम वस्थापयति॥१५॥
 15. (He binds the girdle) to the left of the navel, having made a loose knot and having moved (the girdle) by the right he fixes it to the right of the navel. 
-अत्र दर्शपूर्णमासवत्पत्नी संनयति। सं त्वा नह्यामीति विकारः॥१६॥ 
+
+
+अत्र दर्शपूर्णमासवत्पत्नी संनयति। सं त्वा नह्यामीति विकारः॥१६॥
 16. Now (the Adhvaryu) fastens the yoke-halter round the waist of the sacrificer's wife as in the New and Full-moon sacrifices.' (Instead of aśāsānā...) there should be a modi fication in the formula and the formula saṁ tvā nahyāmi...2 should be used. 
 1. See II.5.2-6. 
-2. TS III.5.6.a. इन्द्रस्य योनिरसि मा मा हिंसीरिति कृष्णविषाणां यजमानाय प्रयच्छति॥१७॥ 
+2. TS III.5.6.a. 
+
+इन्द्रस्य योनिरसि मा मा हिंसीरिति कृष्णविषाणां यजमानाय प्रयच्छति॥१७॥
 17. With indrasya yonirasi...1 he gives the horn of black antelope to the sacrificer.2 
 1. TS I.2.1.i. 
-2. Cf. TS VI.1.3.6. आबध्नातीत्येके॥१८॥ 
+2. Cf. TS VI.1.3.6. 
+
+आबध्नातीत्येके॥१८॥
 18. According to some ritualists' he ties (the horn to the piece of cloth).2 
-____1. So the followers of the white yajurveda see SB III.2.1.29. त्रिवलिः पञ्चवलिर्वा दक्षिणावृद्भवति। सव्यावृदित्येके॥१९॥ 
+____1. So the followers of the white yajurveda see SB III.2.1.29. 
+
+त्रिवलिः पञ्चवलिर्वा दक्षिणावृद्भवति। सव्यावृदित्येके॥१९॥
 19. It is a horn which has three or five curves' and which 
 510 
 ualists 
@@ -358,19 +585,32 @@ is turned towards the right side; according to some ritu. (it is) turned towards
 1. For five curves cf. KS XXIII.4. 
 ## 10.10
 
-कृष्य त्वा सुसस्याया इति तया वेदेर्लोष्टमुद्धन्ति॥१॥ 
+
+
+कृष्य त्वा सुसस्याया इति तया वेदेर्लोष्टमुद्धन्ति॥१॥
 1. With krsyai tvā rayyai tvā...' (the sacrificer) digs out a clod of earth from the altar by means of (horn). 
 1. TS I.2.2.k. 
-2. See TS VI.1.3.7. सुपिप्पलाभ्यस्त्वौषधीभ्य इत्यर्थे प्राप्ते शिरसि कण्डूयते॥२॥ 
+2. See TS VI.1.3.7. 
+
+सुपिप्पलाभ्यस्त्वौषधीभ्य इत्यर्थे प्राप्ते शिरसि कण्डूयते॥२॥
 2. With supippalābhyas tvausadhibhyah...1 he scratches his head (by means of it) if it is necessary.2 
 1. TS I.2.2.1. 
-2. Cp. TS VI.1.3.7. Cp. MS III.6.7. विषाणे विष्यतं ग्रथिं यदस्य गुल्फितं हृदि मनो यदस्य गुल्फितमित्यङ्गानि॥३॥ 
+2. Cp. TS VI.1.3.7. Cp. MS III.6.7. 
+
+विषाणे विष्यतं ग्रथिं यदस्य गुल्फितं हृदि मनो यदस्य गुल्फितमित्यङ्गानि॥३॥
 3. (He scratches) his (limbs by means of horn) with vis āne visyaitam...' 
 ___ 1. Cp. MS I.13.2. 
-ऊर्ध्वसदसि वानस्पत्यः सुद्युम्नो द्युम्नं यजमानाय धेहीत्यौदुम्बरं दीक्षितदण्डं यजमानाय प्रयच्छति। यो वा यज्ञियो वृक्षः फलग्रहिः।।४॥ 
+
+
+ऊर्ध्वसदसि वानस्पत्यः सुद्युम्नो द्युम्नं यजमानाय धेहीत्यौदुम्बरं दीक्षितदण्डं यजमानाय प्रयच्छति। यो वा यज्ञियो वृक्षः फलग्रहिः।।४॥
 4. With Urdhvasadasi vānaspatyah...1 the gives the staff (meant for) a consecrated2 made of Udumbara-wood or of any tree which deserves to be used in a sacrifice or which bears fruits. 
 1. MS I.2.2. 2. Cf. TS. VI.1.4.1. 3. Cf. TS VI.1.4.1. 
-4. Cf. KS XXIII.4. आस्यदनश्शुबुकदजो वा॥५॥ 5. It (should be) so high as to reach his mouth or his chin. 
+4. Cf. KS XXIII.4. 
+
+आस्यदनश्शुबुकदजो वा॥५॥
+5. It (should be) so high as to reach his mouth or his chin. 
+
+
 सपस्था देवो वनस्पतिरिति तं यजमानः प्रतिगह्योरुव्यचा असि जन धाः स्वभक्षो मा पाहीति चमसं व्रतप्रदानमभिमन्त्र्य केशिनी दक्षिाApSs Translation : THITE 
 S11 
 x.11] जपत्यग्निर्दीक्षितः पशित वायुर्दीक्षितो उन्तरि 
@@ -378,41 +618,66 @@ x.11] जपत्यग्निर्दीक्षितः पशित व
 शितः पथिवी दीक्षा सा मा दीक्षा दीक्षयतु तया दीक्षया दीक्षे। 
 इन्तरिक्षं दीक्षा सा मा दीक्षा दीक्षयतु तया दीक्षया दीक्षे। दीक्षितो द्यौर्दीक्षा सा मा दीक्षा दीक्षयतु तया दीक्षया दीक्षे। शितः श्रोत्रं दीक्षा सा मा दीक्षा दीक्षयतु तया दीक्षया दीक्षे। भितो मनो दीक्षा सा मा दीक्षा दीक्षयतु तया दीक्षया दीक्षे। वाचा 
 तामग्नये समष्टवा उ। प्राणेन मे प्राणो दीक्षतां वायवे समष्टवा उ। नक्षीक्षतां सूर्याय समष्टवा उ। श्रोत्रेण मे श्रोत्रं दीक्षतां चन्द्रमसे 
-वा । मनसा मे मनो दीक्षतां प्रजापतये समष्टवा उ। भूर्भुवः सुवस्तपो मे दीक्षा सत्यं गृहपतिरिति॥६॥ 
+वा । मनसा मे मनो दीक्षतां प्रजापतये समष्टवा उ। भूर्भुवः सुवस्तपो मे दीक्षा सत्यं गृहपतिरिति॥६॥
 6. Having taken it with supasthā devo vanaspatih...', then having addressed the wooden pot intended for carrying the fast-milk with uruvyaca asi...2 the sacrificer mutters the Diksa-formulae of kesin beginning with agnir diksitah...3 
 1. TS I.2.2.m. 2. Cp. KS VII.4; cp. JB II.68. 
-3. JB II.65. अथैनमध्वर्युरभिमन्त्रयते॥७॥ 7. Then the Adhvaryu addresses him (the sacrificer)', 
+3. JB II.65. 
+
+अथैनमध्वर्युरभिमन्त्रयते॥७॥
+7. Then the Adhvaryu addresses him (the sacrificer)', 
 1. See the next Sutra. 
 ## 10.11
+
+
 
 पृथिवी दीक्षा तयाग्निर्दीक्षया दीक्षितो ययाग्निर्दीक्षया दीक्षितस्तया त्वा दीक्षया दीक्षयामि। घोर्दीक्षा तयादित्यो दीक्षया दीक्षितो ययादित्यो दीक्षया दीक्षितस्तया त्वा दीक्षया दीक्षयामि। दिशो दीक्षा तया चन्द्रमा दीक्षया दीक्षितो या चन्द्रमा दीक्षया दीक्षितस्तया त्वा दीक्षया दीक्षयामि। आपो दीक्षा तया वरुणो राजा दीक्षया दीक्षितो यया वरुणो राजा दीक्षया दाक्षितस्तया त्वा दीक्षया दीक्षयामि ओषधयो दीक्षा तया सोमो राजा दाक्षतो यया सोमो राजा दीक्षया दीक्षितस्तया त्वा दीक्षया दीक्षयामि। पादाक्षा तया प्राणो दीक्षया दीक्षितो यया प्राणो दीक्षया दीक्षितस्तया त्वा साक्षया दीक्षयामि। पृथिवी त्वा दीक्षमाणमनुदीक्षताम्। अन्तरिक्षं त्वा पक्षमाणमनुदीक्षताम्। द्यौस्त्वा दीक्षमाणमनुदीक्षताम्। दिशस्त्वा 
 माणमनुदीक्षन्ताम्। आपस्त्वा दीक्षमाणमनुदीक्षन्ताम्। ओषधयस्त्वा "माणमनुदीक्षन्ताम्। वाक्त्वा दीक्षमाणमनुदीक्षताम्। ऋचस्त्वा 
 512 
-दीक्षमाणमनुदीक्षन्ताम्। सामानि त्वा दीक्षमाणमनुदीक्षन्ताम। म दीक्षमाणमनुदीक्षन्ताम्। अहश्च रात्रिश्च कृषिश्च वृष्टिश्च त्विषिश्चापनि चौषधयश्चोर्ध्वं च सूनृता च तास्त्वा दीक्षमाणनुदीक्षन्तामिति॥१॥ 
-1. with prthivi diksā...1 ____ 1. TB III.7.7.4-9. संभारयजूंषि चैनमध्वर्युचयति॥२॥ 
+दीक्षमाणमनुदीक्षन्ताम्। सामानि त्वा दीक्षमाणमनुदीक्षन्ताम। म दीक्षमाणमनुदीक्षन्ताम्। अहश्च रात्रिश्च कृषिश्च वृष्टिश्च त्विषिश्चापनि चौषधयश्चोर्ध्वं च सूनृता च तास्त्वा दीक्षमाणनुदीक्षन्तामिति॥१॥
+1. with prthivi diksā...1 ____ 1. TB III.7.7.4-9. 
+
+संभारयजूंषि चैनमध्वर्युचयति॥२॥
 2. And the Adhvaryu makes him (the sacrificer) recite the Sambhāra-formulae. 1 
-1. KS IX.15; Cp. X.3.5. अथाङ्गलीर्यचति॥३॥ 
-स्वाहा यज्ञं मनस इति द्वे। स्वाहा दिव इति द्वे। स्वाहा पृथिव्या इति द्वे। स्वाहोरोन्तरिक्षादिति द्वे। स्वाहा यज्ञं वातादारभ इति मुष्टीकरोति वाचं च यच्छति॥४॥ 
+1. KS IX.15; Cp. X.3.5. 
+
+अथाङ्गलीर्यचति॥३॥ 
+स्वाहा यज्ञं मनस इति द्वे। स्वाहा दिव इति द्वे। स्वाहा पृथिव्या इति द्वे। स्वाहोरोन्तरिक्षादिति द्वे। स्वाहा यज्ञं वातादारभ इति मुष्टीकरोति वाचं च यच्छति॥४॥
 3-4. Then (the sacrificer) bends' the fingers (of both the hands): with svāhā yajnam manasah the two (small fingers); with śvāhā divaḥ the two (ring fingers); with svāhā prthivyāḥ the two (middle-fingers); with svāhororantariksāt the two (index fingers); he makes fists with svāhā yajñaḥ vātādārabheand restrains his speech.3 
 1. Cf. SB III.1.3.25. 2. For the formulae cp. TS I.2.2.n with some differences. See also ___MS I.2.2; KS II.3. 
-3. Cf. TS VI.1.4.3; SB III.2.1.36. अथैनं त्रिरुपांश्वावेदयति त्रिरुच्चैरदीक्षिष्टायं ब्राह्मणो ऽसावमुष्य पुत्रो ऽमुष्य पौत्रो ऽमुष्य नप्तामुष्याः पुत्रो ऽमुष्याः पौत्रो ऽमुष्या नप्तेति॥५॥ 
+3. Cf. TS VI.1.4.3; SB III.2.1.36. 
+
+अथैनं त्रिरुपांश्वावेदयति त्रिरुच्चैरदीक्षिष्टायं ब्राह्मणो ऽसावमुष्य पुत्रो ऽमुष्य पौत्रो ऽमुष्य नप्तामुष्याः पुत्रो ऽमुष्याः पौत्रो ऽमुष्या नप्तेति॥५॥
 5. Then (the Adhvaryu) declares him (the sacrificer) as "consecrated"-thrice inaudibly and thrice loudly' with the words (meaning). This Brahmin-N.N., the son of N.N., the grandson of N.N., the great-grandson of N.N., the son of N.N. (mother), the grandson of N.N. (grand-mother), the great grandson of N.N. (great-grand-mother) has been consecrated. 
 1. Cf. TS VI.1.4.3. 
-_513 ब्रह्मणो वा एष जायते यो दीक्षते। तस्माद्राजन्यवैश्यावपि ब्राह्मण इत्येवावेदयति॥६॥ 
+_513 
+
+ब्रह्मणो वा एष जायते यो दीक्षते। तस्माद्राजन्यवैश्यावपि ब्राह्मण इत्येवावेदयति॥६॥
 6. He who undergoes consecration is indeed born of Brahman. Therefore (the Adhvaryu) declares even a Ksatriya and a Vaiśya also as a Brahmin." 
 1. Cp. SB III.2.1.40. 
 ## 10.12
-अपराह्ने दीक्षयेत्॥१॥ 
+
+
+अपराह्ने दीक्षयेत्॥१॥
 1. (The Adhvaryu) should consecrate (the sacrificer) in the afternoon.1 
-___1. Cf. KB VII.2. यं कामयेत तपस्वी स्यादिति तं पूर्वाह्ने॥२॥ 
+___1. Cf. KB VII.2. 
+
+यं कामयेत तपस्वी स्यादिति तं पूर्वाह्ने॥२॥
 2. In the case of whom he desires that (the sacrificer) should be an ascetic, him (he should consecrate) in the forenoon. 
-स वाग्यतस्तपस्तप्यमान आस्त आ नक्षत्रस्योदेतोः॥३॥ 
+
+
+स वाग्यतस्तपस्तप्यमान आस्त आ नक्षत्रस्योदेतोः॥३॥
 3. He (the sacrificer) restrained in speech remains practising penance upto the rise of a constellation.' 
-1. Cf. TS VI.1.4.3f. ____ वत्सस्यैकं स्तनमवशिष्येतरान्व्रतं दोहयित्वा याः पशूनामृषभे वाचस्ताः सूर्यो अग्ने शुक्रो अग्रे ताः प्रहिण्वो यथाभागं वो अत्र शिवा नस्ताः पुनरायन्तु वाच इति जपित्वा व्रतं कृणुतेति वाचं विसृजते॥४॥ 
+1. Cf. TS VI.1.4.3f. ____ 
+
+वत्सस्यैकं स्तनमवशिष्येतरान्व्रतं दोहयित्वा याः पशूनामृषभे वाचस्ताः सूर्यो अग्ने शुक्रो अग्रे ताः प्रहिण्वो यथाभागं वो अत्र शिवा नस्ताः पुनरायन्तु वाच इति जपित्वा व्रतं कृणुतेति वाचं विसृजते॥४॥
 4. Having left one udder (unmilked) for the sake of the calf, and having caused (the milker) milk the other three (udders) for the sake of fast-food (milk), having muttered yāḥ paśūnāmşşabhe....' (the sacrificer) releases his speech with words (meaning) “Do you prepare the fast-food." 
-1. Cp. MS I.2.3. एष्ट्रीः स्थेति चतस्रो ऽङ्गलीरुत्सृजति। द्वे अन्यतरतो द्वे अन्यतरतः॥५॥ 
+1. Cp. MS I.2.3. 
+
+एष्ट्रीः स्थेति चतस्रो ऽङ्गलीरुत्सृजति। द्वे अन्यतरतो द्वे अन्यतरतः॥५॥
 5. With estrih stha... he opens the four fingers: two (the little finger and the ring finger) of one hand (and the same) two of the other. 
 [X.12 
+
+
 टितीयाम॥ श्वःसुत्यायां तृतीयाम्॥६॥ 
 when the Soma 
 514 
@@ -421,27 +686,46 @@ ApSs Translation : THITE
 6. He remains wakeful through that night; after the is Soma is purchased, through the second night; when the pressing is to be made tomorrow through the third night 
 1. If the Soma-sacrifice consists of one Dikşā day and three un 
 pasad. days, the sacrificer has to remain wakeful on the night betwee Diksa-day and the first Upasad-day; then on the night betwe first and second upasad-day and on the night between the i Upasad day and the Sulya-day. He may sleep on the night berwe 
-the second Upasad-day and the third Upasad-day. चनसितं विचक्षणमिति नामधेयान्तेषु निदधाति॥७॥ चनसितेति ब्राह्मणम्। विचक्षणेति राजन्यवैश्यो॥८॥ 
+the second Upasad-day and the third Upasad-day. चनसितं विचक्षणमिति नामधेयान्तेषु निदधाति॥७॥ चनसितेति ब्राह्मणम्। विचक्षणेति राजन्यवैश्यो॥८॥
 7-8. At the end of the names he adds the words canasita and vicaksana (while addressing) them-(he adds) the (word) canasita at the end of the name of a Brāhmaṇa, and vicakşana (at the end of the names of) a Ksatriya or a Vaiśya.1 
 1. The word canasita means “enlightened"; the word vicaksana means 
 "discerning one”. These are the honorific terms. AB 1.6. and KB VIII.3 prescribe the use of the word vicaksana only. GB I.3.19. 
-and II.2.23 prescribe the word canasita. परिणयेन मानुषर्षी वाचं वदति॥९॥ 9. He speaks (even) the ordinary speech (also) politely. 
+and II.2.23 prescribe the word canasita. 
+
+परिणयेन मानुषर्षी वाचं वदति॥९॥
+9. He speaks (even) the ordinary speech (also) politely. 
+
+
 न स्त्रिया न शूद्रेण संभाषेत॥१०॥ __10. He should not have a conversation with a woman or a Sudra. 
-नैनमनुप्रपद्येत॥११॥ 11. He should not go after him (a Śūdra). 
-यद्येनं शूद्रेण संवाद उपपद्येत ब्राह्मणराजन्यवैश्यानामेकं ब्रूयादिममित्थं ब्रूहीति वाजसनेयकम्॥१२॥ 
+नैनमनुप्रपद्येत॥११॥
+11. He should not go after him (a Śūdra). 
+
+
+यद्येनं शूद्रेण संवाद उपपद्येत ब्राह्मणराजन्यवैश्यानामेकं ब्रूयादिममित्थं ब्रूहीति वाजसनेयकम्॥१२॥
 12. According to Vajasaneyins, if a conversation wiu Sudra becomes necessary, he (the sacrificer) should as Brāhmaṇa or Ksatriya or a Vaiśya: "Tell him thus.”. 
 1. Cf. SB III.1.1.10. 
 515 
 x.13] 
-ApSs Translation : THITE कामं शूद्रेण संभाषेत यः पापेन कर्मणानभिलक्षितः स्यादिति शाट्याय नकम्॥१३॥ 
+ApSs Translation : THITE 
+
+कामं शूद्रेण संभाषेत यः पापेन कर्मणानभिलक्षितः स्यादिति शाट्याय नकम्॥१३॥
 13. According to Satyanaka, he should at will converse with a Śūdra who is not characterised by any evil activity. 
-अभिवदति नाभिवादयते ऽप्याचार्य श्वशुरं राजानमिति शाट्यायनकम्॥१४॥ 
+
+
+अभिवदति नाभिवादयते ऽप्याचार्य श्वशुरं राजानमिति शाट्यायनकम्॥१४॥
 14. He does not greet any one when one is greeting him-even if the one may be his teacher, father-in-law or a king. 
 1: Cp. JB II.63. 
-x.13 अग्निर्वै दीक्षितस्तस्मादेनं नोपस्पृशेत्॥१॥ 
+x.13 
+
+अग्निर्वै दीक्षितस्तस्मादेनं नोपस्पृशेत्॥१॥
 1. A consecrated (sacrificer) is indeed fire (as it were); therefore no one should touch him. 
-न चास्य नाम गृह्णीयात्॥२॥ 2. And no one should utter his name.1 
-1. Cp. KS XXIII.6. न पुरा दक्षिणाभ्यो नेतोः कृष्णविषाणामवतेत्॥३॥ 
+
+
+न चास्य नाम गृह्णीयात्॥२॥
+2. And no one should utter his name.1 
+1. Cp. KS XXIII.6. 
+
+न पुरा दक्षिणाभ्यो नेतोः कृष्णविषाणामवतेत्॥३॥ 
 3. He should not abandon the horn of black antelope before the daksina (-cows) are carried forth.! 
 1. Cf. TS VI.1.3.8. न च दन्तान्दर्शयते॥४॥ हस्तेनापिगृह्य स्मयते॥५॥ 
 4-5. And he does not show his teeth. Having covered his face, he smiles.' 

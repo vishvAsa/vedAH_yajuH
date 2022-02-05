@@ -4,174 +4,286 @@ title = "36 hautrakam"
 +++
 THE ACTIVITIES OF HOTR̥ IN AN IṢȚI (OFFERING) 
 ## 24.11
-. पुरस्तात्सामिधेनीनां होता हृदयदेश ऊर्ध्वं प्रादेशं धारयमाणो जपति मयि गृह्णाम्यग्रे अग्निं यो नो अग्निः पितर इति॥१॥ 
+. पुरस्तात्सामिधेनीनां होता हृदयदेश ऊर्ध्वं प्रादेशं धारयमाणो जपति मयि गृह्णाम्यग्रे अग्निं यो नो अग्निः पितर इति॥१॥
 1. Before (the ritual of) the Samidheni (enkindling-vesses, 
 1445 
 the Hotr, while holding his hand stretched up near the place of the heart, should mutter muyi grhņāmi.... (TS V.7.9a,b). 
 1. i.e. after he has been ordered by the Adhvaryu to recite the 
-Sāmidheni-verses (see II.12.1). अन्तराहवनीयमुत्कर च प्रतीचीनं गच्छञपति कं प्रपद्ये तं प्रपद्ये। यत्ते प्रजापते शरणं छन्दस्तत्प्रपद्ये। यावत्ते विष्णो वेद तावत्ते करिष्यामि। नगो अग्नय उपद्रष्ट्रे नमो वायव उपश्रोत्रे नम आदित्यायानुख्यात्रे। जुष्टामत्र देवेभ्यो वाचमुद्यासं स्वधावती पितृभ्यः शुश्रूषेण्यां मनुष्येभ्यः। प्रशास्त आत्मना प्रजया पशुभिः प्रजापतिं प्रपद्ये। अभयं मे अस्तु। प्रजापत्यमनुवक्ष्यामि। वागाविज्यं करोतु मन आर्विज्यं करोतु। वाचं प्रपद्ये भूर्भुवः सुवरिति॥ सत्यं प्रपद्य इति वा॥२॥ 
+Sāmidheni-verses (see II.12.1). 
+
+अन्तराहवनीयमुत्कर च प्रतीचीनं गच्छञपति कं प्रपद्ये तं प्रपद्ये। यत्ते प्रजापते शरणं छन्दस्तत्प्रपद्ये। यावत्ते विष्णो वेद तावत्ते करिष्यामि। नगो अग्नय उपद्रष्ट्रे नमो वायव उपश्रोत्रे नम आदित्यायानुख्यात्रे। जुष्टामत्र देवेभ्यो वाचमुद्यासं स्वधावती पितृभ्यः शुश्रूषेण्यां मनुष्येभ्यः। प्रशास्त आत्मना प्रजया पशुभिः प्रजापतिं प्रपद्ये। अभयं मे अस्तु। प्रजापत्यमनुवक्ष्यामि। वागाविज्यं करोतु मन आर्विज्यं करोतु। वाचं प्रपद्ये भूर्भुवः सुवरिति॥ सत्यं प्रपद्य इति वा॥२॥
 2. Whle going between the Āhavaniya (-fire) to the Utkara (rubbish-heap), he mutters either kaṁ prapadye... (Sānkhāśs I.4.5.) or satyam prapadye... (TB III.5.1.ff). 
-विष्णो स्थाने तिष्ठामीत्यव तिष्ठते॥३॥ 3. He stands with visnoh sthāne tisthāmi (II.15.1). 
-अन्तर्वेदि दक्षिणः पादो भवति। बहिर्वेदि सव्यः॥४॥ 
+
+
+विष्णो स्थाने तिष्ठामीत्यव तिष्ठते॥३॥
+3. He stands with visnoh sthāne tisthāmi (II.15.1). 
+
+
+अन्तर्वेदि दक्षिणः पादो भवति। बहिर्वेदि सव्यः॥४॥
 4. (At that time) his right foot is inside the altar; the left outside the altar.! 
 1. Cr. TS II.5.11.2. 
-अथोर्ध्वस्तिष्ठन्ब्रह्मन्सामिधेनीरनुवक्ष्यामीति ब्रह्माणमामन्त्र्य दशहोतारं व्याख्याय व्याहृतीश्च जपित्वा त्रिहिकृत्योत्तमेन हिङ्कारेणार्धर्चमुपसंदधाति॥५॥ 
+
+
+अथोर्ध्वस्तिष्ठन्ब्रह्मन्सामिधेनीरनुवक्ष्यामीति ब्रह्माणमामन्त्र्य दशहोतारं व्याख्याय व्याहृतीश्च जपित्वा त्रिहिकृत्योत्तमेन हिङ्कारेणार्धर्चमुपसंदधाति॥५॥
 5. Then standing up', having called Brahman with brah man sāmidheniranu vakşyāmi, having recited the Daśahotr̥ formula, and mutterd the sacred utterances (viz. bhūḥ bhuvaḥ svah) having uttered the him-sound thrice, he connects the half (-verse) with the last him-sound. 
 1.Cf. TS. II.5.11.1. 2. Cf. TB II.2.1.6. 3.Cf. KB III.3. 4. Of the first Sāmidheni-verse. 
 1446 
 Translation : THITE 
 [XXIV.11 
-त्रिः प्रथमामन्वाह त्रिरुत्तमाम्॥६॥ 
+
+
+त्रिः प्रथमामन्वाह त्रिरुत्तमाम्॥६॥
 6. He recites the first verse thrice (and also) the last verse thrice.1 
-____1. Cf. TS II.5.7.1. यं कामयेत सर्वमायुरियादिति तस्य बिरनवानं प्रथमोत्तमे अनुब्रूयात्॥७॥ 
+____1. Cf. TS II.5.7.1. 
+
+यं कामयेत सर्वमायुरियादिति तस्य बिरनवानं प्रथमोत्तमे अनुब्रूयात्॥७॥
 7. (The sacrificer) in the case of whom he desires that he (the sacrificer) should get full life, he should recite the first and last (Samidheni-verses) without breathing.1 
-___1. Cp. TS. II.5.7.4-5. एकैकामेव संतन्वन्ननवानमनुब्रूयादित्येके॥८॥ 
+___1. Cp. TS. II.5.7.4-5. 
+
+एकैकामेव संतन्वन्ननवानमनुब्रूयादित्येके॥८॥
 8. According to some he should recite each verse interlinking with each other and without breathing.' 
-1. Cp. SB I.3.5.15. तृतीयां सामिधेनी त्रिर्विगृह्णाति। संततमन्वाहेति सामिधेनीनामविशेषात्॥९॥ 
+1. Cp. SB I.3.5.15. 
+
+तृतीयां सामिधेनी त्रिर्विगृह्णाति। संततमन्वाहेति सामिधेनीनामविशेषात्॥९॥
 9. He divides the third Sāmidhenī (-verse) into three parts. It is said, “He recites interlinkingly because there is no differ ence in connection with the Sāmidhenī-verses”. 
-1. TS II.5.7.2. विज्ञायते च। ऋषेषेर्वा एता निर्मिता यत्सामिधेन्यः। ता यदसंयुक्ताः स्युः प्रजया पशुभिर्यजमानस्य वितिष्ठेरन्। अर्धचौं संदधाति संयुनक्त्येवैना इति ते मन्यामहे॥१०॥ 
+1. TS II.5.7.2. 
+
+विज्ञायते च। ऋषेषेर्वा एता निर्मिता यत्सामिधेन्यः। ता यदसंयुक्ताः स्युः प्रजया पशुभिर्यजमानस्य वितिष्ठेरन्। अर्धचौं संदधाति संयुनक्त्येवैना इति ते मन्यामहे॥१०॥ 
 पूर्वस्याश्चोत्तरमुत्तरस्याश्च पूर्वं तौ संदध्यात्॥११॥ _____10-11. And it is known (from a Brahmana text)1 : "The Sāmidhenis are created by different sages. If they were disu nited, they may separate the sacrificer from the offspring and cattle. He joins the half-verses; he thereby unites them'. We think that he should join the last quarter of the preceding verse with the first quarter of the following verse and the first quar ter of the following verse with the last quarter of the preceding verse". 
 1.Cf. TS II.5.7.5. 
 XXIV. 11] 
 ranslation : THITE 
 1447 
 संततमन्वाहेति सामिधेनीनामनुच्छ्वासवादो विज्ञायते च॥१२॥ 
-नान्तरचौं व्यन्यात्। यद्यन्तरचौं व्यन्यादपाने प्राणं दध्यात्। अतिहाय पूर्वस्या अर्धर्चमुत्तरस्या अर्धचें व्यनिति॥१३॥ 
+नान्तरचौं व्यन्यात्। यद्यन्तरचौं व्यन्यादपाने प्राणं दध्यात्। अतिहाय पूर्वस्या अर्धर्चमुत्तरस्या अर्धचें व्यनिति॥१३॥
 12-13. The expression, "He recites interlinkingly', means absence of breathing at the time of (reciting) the Sāmidheni ( verses). And it is known, from a Brahmana-text. “He does not breathe between two verses. If he breathes between two verses, he would keep his breathing in the out-breathing (and then would die). Having gone beyond the half-verse of the first, he breathes after the half-verse of the next (verse)"2. 
 1. Cf. TS. II.5.7.2. 
-2. The source of this quotation is not known. त्रिनरनुवचनेनार्धर्चसंतानो विद्यत एकर्षित्वात्॥१४॥ 
+2. The source of this quotation is not known. 
+
+त्रिनरनुवचनेनार्धर्चसंतानो विद्यत एकर्षित्वात्॥१४॥
 14. Through the thrice recitation the interlinking takes place, because the Rsi is one and the same'., 
-1. This Sūtra is not clear. त्वं वरुण इति वसिष्ठराजन्यानां परिधानीया। आ जुहोतेतीतरेषां गोत्राणाम्॥१५॥ 
+1. This Sūtra is not clear. 
+
+त्वं वरुण इति वसिष्ठराजन्यानां परिधानीया। आ जुहोतेतीतरेषां गोत्राणाम्॥१५॥
 15. The verse tvam varunah... (TB IIII.5.2.3, RV VII.12.3) should be used as final verse by those belonging to Vasiştha family and by the Kşatriyas. By those who belong to the other families the verse ā juhota... (TB III.5.2.3)should be used as the final verse.1 
-__1. See XXI.2.4-5. नराशंसो द्वितीयः प्रथाजो वसिष्ठशुनकानाम्। तनूनपादितरेषां गोत्राणाम्॥१६॥ 
+__1. See XXI.2.4-5. 
+
+नराशंसो द्वितीयः प्रथाजो वसिष्ठशुनकानाम्। तनूनपादितरेषां गोत्राणाम्॥१६॥
 16. For the sacrificer belonging to the Vasiştha and “unaka family the second fore-offering should refer to Narāśaṁsa; for the other families... to Tanūnapāt'. 
-_1. See XXI.2.6-7. सामिधेनीरनूच्य प्रवरमुक्त्वा निविदो उन्वाह॥१७॥ 
+_1. See XXI.2.6-7. 
+
+सामिधेनीरनूच्य प्रवरमुक्त्वा निविदो उन्वाह॥१७॥
 17. Having recited the Sāmidheni verses, having uttered the Pravara, he should recite the Nivids.' 
 1. i.e. Nigada but here called Nivid undr the influence of KB II.2. 
 1448 
-तासां सप्त पदान्युक्त्वापानिति॥१८॥ 
+
+
+तासां सप्त पदान्युक्त्वापानिति॥१८॥
 18. Having recited seven parts out of them (without breathing), he breathes. 
 ## 24.12
-अथ चत्वार्यथ चत्वारि॥१॥ 
+
+
+अथ चत्वार्यथ चत्वारि॥१॥
 1. Then (after having recited the next) four the Hotr̥ breathes; then (after having recited the four (he breathes) next).' 
-1. For XXIV. 11.18 and this Sūtra cf. KB II.2. For the Nigada see ___also TS II.5.9.1-3; TB III.5.3.1-3. ता अनूच्य देवता आवाहयति या यक्ष्यमाणो भवति॥२॥ 
+1. For XXIV. 11.18 and this Sūtra cf. KB II.2. For the Nigada see ___also TS II.5.9.1-3; TB III.5.3.1-3. 
+
+ता अनूच्य देवता आवाहयति या यक्ष्यमाणो भवति॥२॥
 2. Having recited those (formulae) he invites those deities whom he is going to recite the offering-verses. 
 : 1. i.e. the deities to whom the offerings are going ot be made. 
-स वै खलु वाजिनो नावाहयेदेविका देवसुवो यच्च किं चैतादृक्ते मन्यामहे॥३॥ 
+
+
+स वै खलु वाजिनो नावाहयेदेविका देवसुवो यच्च किं चैतादृक्ते मन्यामहे॥३॥
 3. He should not invite the Vājins,' the Devikās, the Devasū3 and whatever else is of that type—thus we think. 
 1. Cf. KB V.2. For the offfering to Vājins see VII.3. 6-9. 2. Cp. XIII.23.2. 
-3. Cp. XIII.24.8. परप्रधानानां परतन्त्रव्यवेतानां च प्रतिषेधः स्यात्तल्लिङ्गत्वाच्छब्दस्य॥४॥ 
+3. Cp. XIII.24.8. 
+
+परप्रधानानां परतन्त्रव्यवेतानां च प्रतिषेधः स्यात्तल्लिङ्गत्वाच्छब्दस्य॥४॥
 4. There should be the prohibition of those (deities) when they are subordinate to other (deities) and (or) they are separated from the procedure of the other (deities) because the word (viz. Vājin etc.) is indicatory of it. 
-एकदेवतानां नानादेवताव्यवेतानां तन्त्रमावाहनं विभवात्॥५॥ 
+
+
+एकदेवतानां नानादेवताव्यवेतानां तन्त्रमावाहनं विभवात्॥५॥
 5. When there are the same deities and they are separated from the different deities, then the invitation of them should be done jointly because that is possible. 
+
+
 अथोर्ध्वजुः प्रादेशेन भूमिमभिनिधाय जपतीदमहं त्रिवृता स्तोमेन रथंतरेण साम्ना वषट्कारेण वज्रेणास्यै पृथिव्या अस्यै प्रतिष्ठाया अस्मादायतनाद्यो 
 1449 
-ऽस्मान्द्वेष्टि यं च वयं द्विष्मस्तं हन्मि॥ यदद्य होतृवर्ये जिह्यं चक्षुः परापतत्। अग्निष्टत्पुनराभरज्जातवेदा विचर्षणिः॥ वसूनां रातौ स्याम रुद्राणामूायां स्वादित्या आदित्ये ऽनेहसः। चाइमद्य देवेभ्यो वाचमुद्यासं चारुं ब्रह्मभ्यश्चारुं मनुष्येभ्यश्चारुं नराशंसायानुमतां पितृभिः। ये ते शतं वरुण ये सहस्रं यज्ञियाः पाशा वितताः पुरुत्रा। तेभ्यो न इन्द्र सवितोत विष्णुर्विश्वे देवा मुञ्चन्तु मरुतः स्वस्त्येति॥६॥ 
+ऽस्मान्द्वेष्टि यं च वयं द्विष्मस्तं हन्मि॥ यदद्य होतृवर्ये जिह्यं चक्षुः परापतत्। अग्निष्टत्पुनराभरज्जातवेदा विचर्षणिः॥ वसूनां रातौ स्याम रुद्राणामूायां स्वादित्या आदित्ये ऽनेहसः। चाइमद्य देवेभ्यो वाचमुद्यासं चारुं ब्रह्मभ्यश्चारुं मनुष्येभ्यश्चारुं नराशंसायानुमतां पितृभिः। ये ते शतं वरुण ये सहस्रं यज्ञियाः पाशा वितताः पुरुत्रा। तेभ्यो न इन्द्र सवितोत विष्णुर्विश्वे देवा मुञ्चन्तु मरुतः स्वस्त्येति॥६॥
 6. Then sitting with his knee upwards, having spread his hand over the ground, he mutters idamaham trivrtā stomena...2 (and the verses) yadadya hotrvarye....' 
 ___1. Cp. AsvaSS I.3.22. 
 2. This formula occurs only here. 
-3. Cp. SB I.5.1.20. ___ अथ यदेनमाहासौ मानुष इति तदुपोत्थाय दक्षिणेन पाणिना दक्षिणमध्वर्योरंसमन्वारभ्य जपति। सव्येनारनीध्रस्य दक्षिणम्॥ षष्टिश्चाध्वर्यो नवतिश्च पाशा होतारमग्निमन्तरा विवृत्ताः। सिनन्ति पाकमति धीर एत्य॒तस्य पन्थामन्वेति होता॥ अग्निमन्वारभामहे होतृवर्ये पुरोहितम्। येनायन्नुत्तमं स्वर्देवा अङ्गिरसो दिवमिति७॥ 
+3. Cp. SB I.5.1.20. ___ 
+
+अथ यदेनमाहासौ मानुष इति तदुपोत्थाय दक्षिणेन पाणिना दक्षिणमध्वर्योरंसमन्वारभ्य जपति। सव्येनारनीध्रस्य दक्षिणम्॥ षष्टिश्चाध्वर्यो नवतिश्च पाशा होतारमग्निमन्तरा विवृत्ताः। सिनन्ति पाकमति धीर एत्य॒तस्य पन्थामन्वेति होता॥ अग्निमन्वारभामहे होतृवर्ये पुरोहितम्। येनायन्नुत्तमं स्वर्देवा अङ्गिरसो दिवमिति७॥
 7. Then when the Adhvaryu says to him (the Hotr) “So and so is the human Hotş”having stood up, having held from behind the right sholulder of the Adhvaryu with his own right hand and the right shoulder of the Āgnīdhra with his own left hand the Hotr mutters: sastiscādhvaryo... and agnimanvara bhāmahe..... 
 1. Cp. I.16.14. 
-2. Cf. SankhaSS I.6.3. मयि प्राणापानाविति पाणी प्रत्याहृत्योरोदेशं स्पृशते॥८॥ 
+2. Cf. SankhaSS I.6.3. 
+
+मयि प्राणापानाविति पाणी प्रत्याहृत्योरोदेशं स्पृशते॥८॥
 8. Having taken back his hands with mayi prānāpānau... he touches the region of his chest. 
-आ पृणोषि संपूण प्रजयामा पशुभिरापूणेतीध्मसंहनानि मुखं प्रति विधूनुते॥९॥ 
+
+
+आ पृणोषि संपूण प्रजयामा पशुभिरापूणेतीध्मसंहनानि मुखं प्रति विधूनुते॥९॥
 9. He shakes the strings used for binding the fuel in front of his face with a prnosi.... 
 1450 
+
+
 अथाप उपस्पृश्याग्ने नय सुपथा राये अस्मान्॥ एह्यग्न इह होता नि पीदादब्धः सु पुरएता भवा नः। अवतां मा रोदसी विश्वमिन्वे यजामहे सौमन साय देवानित्येते ऋचौ जपन्होतृषदनाय प्रव्रजति॥१०॥ 
 ____10. Then having touched water, muttering these two verses beginning with agne naya supathā' and ehyagna iha? he goes towards the Hotr's seat. 
 ___1. TS I.1.14.i. 
 2. RV I.76.2. 
 जघनेन होतृषदनं प्राङ्मुख उपविश्याथ होतृषदनमभिमृशत्यहे दैधिष व्येति॥११॥ 
 _____ll. Having sat to the back side of the Hotr's seat, with his face to the east, he then touches the Hotr's seat with ahe daidhi savya....1 
-1. TS III.2.4.4. अथास्मात्तृणं निरस्यति॥१२॥ 12. Then from this (seat) he throws a blade of grass. 
+1. TS III.2.4.4. अथास्मात्तृणं निरस्यति॥१२॥
+12. Then from this (seat) he throws a blade of grass. 
 1. This Sūtra is to be joined with the next Sūtra. 
 ## 24.13
-शुष्कं प्रच्छिन्नाग्रं वा निरस्तः पराग्वसुः सह पाप्मनेति॥१॥ 
+
+
+शुष्कं प्रच्छिन्नाग्रं वा निरस्तः पराग्वसुः सह पाप्मनेति॥१॥
 1. (The Hotr throws a blade of grass which is) dry or the one the point of which is cut. (He throws it) with nirastah parāgvasuh.... 
-अथ होतृषदन उपविशति पातं मा द्यावापृथिवी उपस्थ इति दक्षिणपूर्विणं सव्योत्तरिणं वोपस्थं कृत्वा॥२॥ 
+
+
+अथ होतृषदन उपविशति पातं मा द्यावापृथिवी उपस्थ इति दक्षिणपूर्विणं सव्योत्तरिणं वोपस्थं कृत्वा॥२॥
 2. Then having placed his right knee towards the east or having placed the left knee on the right knee, he sits down on the Hotr's seat with pātam mā.... 
-____ अथ जपति सीद होतर्नि होता होतृषदन इति द्वे॥ पिप्रीहि देवाँ उशतो यविष्ठेत्येषा॥ वेषि होत्रमुत पोत्रं जनानां मान्धातासि द्रविणोदा ऋतावा। स्वाहा वयं कृणवामा हवींषि देवो देवान्यजत्यग्निरहन्॥ आ देवानाम्॥ त्वमग्ने व्रतपा असि॥ यद्वो वयं प्रमिनाम॥ यत्पाकत्रा मनसा॥ विश्वेषां 
+____ 
+
+अथ जपति सीद होतर्नि होता होतृषदन इति द्वे॥ पिप्रीहि देवाँ उशतो यविष्ठेत्येषा॥ वेषि होत्रमुत पोत्रं जनानां मान्धातासि द्रविणोदा ऋतावा। स्वाहा वयं कृणवामा हवींषि देवो देवान्यजत्यग्निरहन्॥ आ देवानाम्॥ त्वमग्ने व्रतपा असि॥ यद्वो वयं प्रमिनाम॥ यत्पाकत्रा मनसा॥ विश्वेषां 
 ___1451 
-ह्यध्वराणामनीकं चित्रं केतुं जनिता त्वा जजान। स आ यजस्व नृवतीरनु क्षाः स्पार्हा इषः क्षुमतीर्विश्वजन्याः॥ यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान। पन्थामनु प्रविद्वान्पितृयाणं धुमदग्ने समिधानो वि भाहीत्येतस्य सक्तस्य षट् सर्वं वा॥ विश्वे देवाः शास्तन मा यथेह होता वृतो मनवै यन्निषद्य। प्र मे ब्रूत भागधेयं यथा वो येन पथा हव्यमा वो वहानि॥ यमिच्छामि मनसा सो ऽयमागाद्यज्ञस्य विद्वान्परुषश्चिकित्वान्। स नो यक्षदेवताता यजीयान्नि हि षत्सदन्तरः पूर्वो अस्मन्निषद्य। तदद्य वाचः प्रथमं मसीय येनासुराँ अभि देवा असाम॥ ऊर्जाद उत यज्ञियासः पञ्च जना मम होत्रं जुषध्वम्॥ नमो महद्भ्यो नमो अर्भकेभ्यो नमो युवभ्यो नम आशिनेभ्यः। यजाम देवान्यदि शक्नवाम मा ज्यायसः शंसमा वृक्षि देवा इति॥३॥ 
+ह्यध्वराणामनीकं चित्रं केतुं जनिता त्वा जजान। स आ यजस्व नृवतीरनु क्षाः स्पार्हा इषः क्षुमतीर्विश्वजन्याः॥ यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान। पन्थामनु प्रविद्वान्पितृयाणं धुमदग्ने समिधानो वि भाहीत्येतस्य सक्तस्य षट् सर्वं वा॥ विश्वे देवाः शास्तन मा यथेह होता वृतो मनवै यन्निषद्य। प्र मे ब्रूत भागधेयं यथा वो येन पथा हव्यमा वो वहानि॥ यमिच्छामि मनसा सो ऽयमागाद्यज्ञस्य विद्वान्परुषश्चिकित्वान्। स नो यक्षदेवताता यजीयान्नि हि षत्सदन्तरः पूर्वो अस्मन्निषद्य। तदद्य वाचः प्रथमं मसीय येनासुराँ अभि देवा असाम॥ ऊर्जाद उत यज्ञियासः पञ्च जना मम होत्रं जुषध्वम्॥ नमो महद्भ्यो नमो अर्भकेभ्यो नमो युवभ्यो नम आशिनेभ्यः। यजाम देवान्यदि शक्नवाम मा ज्यायसः शंसमा वृक्षि देवा इति॥३॥
 3. Then he mutters the following verses: sida hotah... . and ni hotā hotr̥şadane... these two;' then this: piprīhi devān (here he recites the first six verses of the entire hymn beginning with this verse (and then the four verses beginning with) visve devā sastana,yamicchāmi manasā,4 tadadya vācam, and namo mahadbhyaḥó. 
 1. TS III.5.11.f and g. 2. RV X.2.1.. 3. RV X.52.1. 4. RV X.63.1 5. RV X.53.4. 
-6. RV I.27.13. एतज्जपित्वा सुचावादापयति॥४॥ 
+6. RV I.27.13. 
+
+एतज्जपित्वा सुचावादापयति॥४॥
 4. After having muttered this he makes the Adhvaryu to hold both the ladles.! 
-1. Cp. II.17.1. सर्वत्र पुरस्ताद्याज्याया येयजामहमुक्त्वा व्याहृतीर्दधाति॥५॥ 
+1. Cp. II.17.1. 
+
+सर्वत्र पुरस्ताद्याज्याया येयजामहमुक्त्वा व्याहृतीर्दधाति॥५॥
 5. Everywhere, having uttered the words ye yajāmahe before any offering-verse,' he places (utters) the great utterances bhūḥ bhuaḥ svaḥ. 
 ___ 1. Cf. AsvaSS I. 5.4. 
-2. Cr. KB II.5. नानूयाजेषु येयजामहं करोति॥६॥ 
+2. Cr. KB II.5. 
+
+नानूयाजेषु येयजामहं करोति॥६॥
 6. He does not utter the words ye yajāmahe at the time of reciting the offering-verses of the after-offerings (Anūyājas). 
 1452 
-अनवानमनूयाजान्यति। अमत्सतेति वापानिति॥७॥ 
+
+
+अनवानमनूयाजान्यति। अमत्सतेति वापानिति॥७॥
 7. He recites the offering-verses of the Anūyājas without breathing or he may breathe after having uttered the word amatsata.' 
 1. This word occurs in the offering of the third Anuyāja. Cf. SānkhāśS 
-___I.13.3; AsvassI.8.7. पुरस्ताल्लमा पुरोऽनुवाक्या। उपरिष्टाल्लक्ष्मा याज्या। एतद्वा विपरीतम्॥८॥ 
+___I.13.3; AsvassI.8.7. 
+
+पुरस्ताल्लमा पुरोऽनुवाक्या। उपरिष्टाल्लक्ष्मा याज्या। एतद्वा विपरीतम्॥८॥
 8. The invitatory-verse is that which has the mark (i.e. the name of the deity, for which the offering is made) in the front part (i.e. in the first half of the verse); the offering-verse is that which has the mark ... in the upper part (i.e. the second half of the verse); or this is (to be understood) in the reverse manner.1 
-1. See TS II.6.2.3; SB I.7.2.18-19; cp. XV.18.9. उभयतोलक्ष्मा पुरोऽनुवाक्या तथा याज्येत्येके॥९॥ 
+1. See TS II.6.2.3; SB I.7.2.18-19; cp. XV.18.9. 
+
+उभयतोलक्ष्मा पुरोऽनुवाक्या तथा याज्येत्येके॥९॥
 9. According ot some the invitatory-verse has the mark on both the sides; similarly the offering verse. 
-तिष्ठन्पुरोऽवाक्यामन्वाह। आसीनो याज्याम्। उभे तिष्ठन्नासीनो वा॥१०॥ 
+
+
+तिष्ठन्पुरोऽवाक्यामन्वाह। आसीनो याज्याम्। उभे तिष्ठन्नासीनो वा॥१०॥
 10. (The Hotr̥) recites the invitatory-verse while standing; he recites the offering-verse while sitting;' or he recites both while standing or sitting. 
-1. Cr. TS II.5.11.1; SB I.4.2.18-19. सा ह त्वै समृद्धा पुरोऽनुवाक्या यामभिव्याहरन्देवतामेवाग्रे ऽभिव्याहरति। सा ह त्वै समृद्धा याज्या देवताया अधि वषट्करोति॥११॥ 
+1. Cr. TS II.5.11.1; SB I.4.2.18-19. 
+
+सा ह त्वै समृद्धा पुरोऽनुवाक्या यामभिव्याहरन्देवतामेवाग्रे ऽभिव्याहरति। सा ह त्वै समृद्धा याज्या देवताया अधि वषट्करोति॥११॥
 11. That invitatory-verse indeed is prosperous reciting which he utters (the name of) the deity first; that offering-verse indeed is prosperous in connection with which he utters the exclamation Vasat on (i.e. immediately after the name of) the deity.' 
-___1. Cf. SBI.7.2.20. ऋचि प्रणवं दधाति याज्यावर्जम्॥१२॥ 
+___1. Cf. SBI.7.2.20. 
+
+ऋचि प्रणवं दधाति याज्यावर्जम्॥१२॥
 12. Excluding the offering-verses, he adds Pranava i.e. om to every verse. 
 1. Cp. Sankhass I.1.22.- XXIV.14] 
 ranslation : THITE 
 1453 
-ओमित्यूचो ऽधि प्रणौति॥१३॥ 
+
+
+ओमित्यूचो ऽधि प्रणौति॥१३॥
 13. He makes om on the verse i.e. he turns the last syllable of every verse into om or adds om after the last syllable'. 
 1. See XXIV.14.1-2. 
 ## 24.14
 
-उत्तमस्याक्षरस्य विकारमेक आहुः॥१॥ 
+
+
+उत्तमस्याक्षरस्य विकारमेक आहुः॥१॥
 1. Some say that (the om) is a modification of the last syllable. 
-1. This is the usual practice. See ĀśvaŚs 1.5.9ff. अधिकः स्यादित्यपरम्॥२॥ 
+1. This is the usual practice. See ĀśvaŚs 1.5.9ff. 
+
+अधिकः स्यादित्यपरम्॥२॥
 2. Another view is that (om should be) additional (to the last syllable). 
-विज्ञायते च। ऋचमुक्त्वा प्रणौत्यपरामुक्त्वा प्रणौत्यधिके पुनरेतदुपपद्यते संततमृचा वषट्करोतीति च तद्वद्याज्याया अधि वषट्करोति॥३॥ 
+
+
+विज्ञायते च। ऋचमुक्त्वा प्रणौत्यपरामुक्त्वा प्रणौत्यधिके पुनरेतदुपपद्यते संततमृचा वषट्करोतीति च तद्वद्याज्याया अधि वषट्करोति॥३॥
 3. And it is known (from a Brāhmana-text:) (The Hotr utters om after having recited a verse; after having recited another verse he uters om. The same holds good further (also). (When it is said that he makes the Vaşat call interlinkingly with the versel it means that he utters Vasat after the Yajya (-verse). 
-1. Cp. AB III.7. अपगूर्य वषट्करोतीत्युच्चैर्वादः शब्दस्य॥४॥ 
+1. Cp. AB III.7. 
+
+अपगूर्य वषट्करोतीत्युच्चैर्वादः शब्दस्य॥४॥
 4. (When it is said that) he utters Vasat-call having threatened' (it means that there should be) loud pronouncation of the sound. 
-1. TS II.6.2.5; CP. AB III.7. ___यं कामयेत प्रमायुकः स्यादिति तस्योच्चैरपगूर्य निखिदन्निव वषट्कुर्यात्। यं कामयेत पापीयान्स्यादिति नीचैस्तरां तस्य याज्याया वषट्कुर्यात्। यं कामयेत वसीयान्स्यादित्युच्चैस्तरां तस्य याज्याया वषट्कुर्यात्। न वसीयान्न पापीयानिति समं तस्य याज्याया वषट्कुर्यात्। उच्चैः क्रौञ्चमिव वषट्कुर्यात्स्वर्गकामस्येति विज्ञायते॥५॥ 
+1. TS II.6.2.5; CP. AB III.7. ___
+
+यं कामयेत प्रमायुकः स्यादिति तस्योच्चैरपगूर्य निखिदन्निव वषट्कुर्यात्। यं कामयेत पापीयान्स्यादिति नीचैस्तरां तस्य याज्याया वषट्कुर्यात्। यं कामयेत वसीयान्स्यादित्युच्चैस्तरां तस्य याज्याया वषट्कुर्यात्। न वसीयान्न पापीयानिति समं तस्य याज्याया वषट्कुर्यात्। उच्चैः क्रौञ्चमिव वषट्कुर्यात्स्वर्गकामस्येति विज्ञायते॥५॥
 5. In the case of whom (sacrificer) the Hotr desires that he should die, he should utter Vaṣaṭ having loudly threatened, 
 1454 
 Translation : THITE 
 (XXIV. 14 
 while pressing as it were. In the case of whom the Hour desires that he should be worse he should utter the Vaṣaļ in the voice lower than that for the offering-verse. In the case of whom (the Hotr̥) desires that he should be better he should utter the Vasat in a louder voice than that of the offering-verse. (In the case of whom the Hotr̥ desires that) he should neither be better nor worse, he should utter the Vaṣat in the same voice as that for the offering verse. It is known from a sacred text: “He should utter the Vaṣaṭ loudly (and) in the manner similar to that of Krauñca in the case of (a sacrificer who is) desirous of heaven. "I 
-1. Cf. In general AB III.7; cp. TS 11.5.11.1. बलीय ऋचो वषट्करोतीति तद्वत्॥६॥ 
+1. Cf. In general AB III.7; cp. TS 11.5.11.1. 
+
+बलीय ऋचो वषट्करोतीति तद्वत्॥६॥
 6. Similarly (there is a rule:) He utters Vaṣaṭ with more force than the verse. 
-__ या देवतां यजेत्तां मनसा ध्यायेत्पुरा वषट्कारात्स्वर्गकामस्येति विज्ञायते॥७॥ 
+__ 
+
+या देवतां यजेत्तां मनसा ध्यायेत्पुरा वषट्कारात्स्वर्गकामस्येति विज्ञायते॥७॥
 7. It is known from a Brāhmaṇa-text: in the case of a sacrificer who is desirous of heaven (the Hotr̥) should think of the deity.' 
-1. Cp. AB III.8. वषट्कृत्य प्राण्यापान्य निमिषेत्॥८॥ 
+1. Cp. AB III.8. 
+
+वषट्कृत्य प्राण्यापान्य निमिषेत्॥८॥
 8. After having uttered the Vaşağ, having breathed in and out, he should close the eyes for a moment. 
-अपानेनैव प्राणं धारयेन्निमिषेण चक्षुरिति विज्ञायते॥९॥ 
+
+
+अपानेनैव प्राणं धारयेन्निमिषेण चक्षुरिति विज्ञायते॥९॥
 9. It is known from a Brāhmaṇa-text: One should support the breath by means of breathing, (and support eye by means of closing the eye).' 
 1. Cp. TB II.1.5.9. o fulltingisha auccourci noriafar faşired 11goll. 
 10. In the case of a sacrificer whom (the Hotr̥) hates, the Hour should utter the Vasat as Osat. It is known (from a Brāhm aņa-text:) “He certainly burns the sacrificer”. 
 1455 
-वापडित्येके समामनन्ति। वौषडित्येके। वौषाडित्येके। वाक्षडित्येके। वौक्ष डित्येके वौक्षाडित्येके॥११॥ 
+
+
+वापडित्येके समामनन्ति। वौषडित्येके। वौषाडित्येके। वाक्षडित्येके। वौक्ष डित्येके वौक्षाडित्येके॥११॥
 11. Some think that (one should pronounce) Vāṣaṭ; some Vausat; some Vausat; some Vāksat; some Vauksat; some Vauksat. 
-वषटकार मा मे प्र वाङ्मो अहं त्वां बृहता मन उपह्वये। न मां न मे वाचं हिनसात्। हव्यं देवेभ्यो ऽभिवहाभ्योजः सहः सह ओजः। वाग्वषट्कार नमस्ते अस्तु मा मा हिंसीरित्येतद्वषट्कृते जपति॥ वारषटकार नमस्ते अस्तु मा मा हिंसीरिति वा॥१२॥ 
+
+
+वषटकार मा मे प्र वाङ्मो अहं त्वां बृहता मन उपह्वये। न मां न मे वाचं हिनसात्। हव्यं देवेभ्यो ऽभिवहाभ्योजः सहः सह ओजः। वाग्वषट्कार नमस्ते अस्तु मा मा हिंसीरित्येतद्वषट्कृते जपति॥ वारषटकार नमस्ते अस्तु मा मा हिंसीरिति वा॥१२॥
 12. After having uttered the Vasat he mutters vasatkāra ma me... or vāg vaṣaṭkāra namaste astu.... 
-अङ्गलीमक्तामिषे प्राणायेति मुखदेशमूर्ध्वमुत्कृष्योर्जे ऽपानायेत्यवाचीनं नियच्छति॥१३॥ 
+
+
+अङ्गलीमक्तामिषे प्राणायेति मुखदेशमूर्ध्वमुत्कृष्योर्जे ऽपानायेत्यवाचीनं नियच्छति॥१३॥
 13. After having moved the anointed fingerl up to the region of mouth with işe prāņāya he presses it down with urje apānāya. 
 1. I follow Caland in emending the text as angulim aktām işe. 2. For the formulae cp. AsvaSS I.7.2. For this Sutra cp. in general 
 III.2.3-4. 
-अवान्तरेडामवत्तामङ्गलीर्भिनिगृह्य न करोति॥१४॥ 
+
+
+अवान्तरेडामवत्तामङ्गलीर्भिनिगृह्य न करोति॥१४॥
 14. Having held fast the cut out Avāntareļā with his fin gers, he does not make a fist.' 
-1. Cp. III.2.5. मुखमिव प्रत्युपह्वयते॥१५॥ 
+1. Cp. III.2.5. 
+
+मुखमिव प्रत्युपह्वयते॥१५॥
 15. He calls Ida towards himself while holding it in front of the mouth.' 
 ___1. Cf. TB III.3.8.4. 
-यं कामयेतापशुः स्यादिति पराची तस्येत्युक्तम्॥१६॥ 
+
+
+यं कामयेतापशुः स्यादिति पराची तस्येत्युक्तम्॥१६॥
 16. It has been said in a Brāhmaṇa-text: In the case of whom (the Hotr) desires that he (the sacrificer) should be devoid of cattle, in his case he calls Ida away from himslef....! 
 1. TS I.7.1.3-4. 
 1456 
-पदाभ्यासप्रतिषेधस्तु॥१७॥ 
+
+
+पदाभ्यासप्रतिषेधस्तु॥१७॥
 17. There should be, however, prohibition on the repetition of the words. 
-विज्ञायते चेडोपहूतेति तत्पराची। उपहूतेति तत्प्रतीची॥१८॥ 
+
+
+विज्ञायते चेडोपहूतेति तत्पराची। उपहूतेति तत्प्रतीची॥१८॥
 18. And it is known from a Brāhmaṇa-text: The expression idā upahūtā (Idā is invoked) is away from himself; the expression upahutā invoked is (ldā) is towards himself. 
-___ आध्वर्यव एवातो ऽन्यानि कर्माणि होतुराम्नातानि भवन्ति। उपदेशादित राणीतराणि ॥१९॥ 
+___ 
+
+आध्वर्यव एवातो ऽन्यानि कर्माणि होतुराम्नातानि भवन्ति। उपदेशादित राणीतराणि ॥१९॥ 
 ___19. The activities other than these, of the Hotr, are mentioned in the description of the activities of the Adhvaryu itself. The other ones (are to be understood) from the direct teaching. 
 - 
 INDEX 
