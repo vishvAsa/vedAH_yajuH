@@ -2,7 +2,8 @@
 title = "19 VĀJAPEYAM"
 
 +++
-XVIII.1 
+## 18.01
+
 VĀJAPEYA शरदि वाजपेयेन यजेत ब्राह्मणो राजन्यो वर्द्धिकामः॥१॥ 
 1. A Brahmin or a Ksatriya who wants to get prosperity should perform the Vājapeya (-sacrifice) in autumn. 
 नित्यवदेके समामनन्ति॥२॥ 2. Some think (it) to be obligatory as it were. प्रजापतिमाप्नोति॥३॥ 3. He thereby obtains Prajāpati.' 
@@ -133,7 +134,8 @@ Thus he shoots an arrow for one shoot distance, then himself there where the arr
 ond time and so on. For the Sutra cf. TB I.3.6.3. यत्र जघन्यं निपतति तत्रौदुम्बरी काष्ठां लक्षणं मिनोति॥१५॥ 
 15. The place where (the arrow) falls last, there the Adhvaryu fixes the Uduinbara wood as the boundary sign. 
 llen and shoots for the sec 
-XVIII.4 प्राङ् माहेन्द्रात्कृत्वा नैवारे सर्पिरानीय चात्वाले ऽवदधाति॥१॥ 
+## 18.04
+प्राङ् माहेन्द्रात्कृत्वा नैवारे सर्पिरानीय चात्वाले ऽवदधाति॥१॥ 
 1. Having done (the rituals taking place) before the Mahendra-scoop', after having poured ghee in the Nivara rice pap', the Adhvaryu places it on the Catvala'. 
 1. Cp. SB V.1.4.2. 2. Cf. TB I.3.6.8. 3. SeexVIII.2.17-18. 
 4. Cf. MS I.11.7; KS.XIV.7. तं राजपुत्रो गोपायति॥२॥ 2. The prince protects it. 
@@ -187,7 +189,8 @@ ApSs Translation : THITE XVIII.5)
 1. Cf. TB I.3.6.6. मितद्रव इति चतसृभिः प्रत्याधावतो ऽनुमन्त्रयते॥२१॥ 
 21. He addresses the returning chariots with four verses! beginning with mitadravaḥ.2 
 1. Cf. TB I.3.6.5. 2. TS I.7.8.i-m. 
-XVIII.5 आ मा वाजस्य प्रसवो जगम्यादिति प्रत्यासृतेषु हुत्वा पुनःवारमवघ्रापयति। ससृवांस इति लेपांश्च निमाष्टि॥१॥ 
+## 18.05
+आ मा वाजस्य प्रसवो जगम्यादिति प्रत्यासृतेषु हुत्वा पुनःवारमवघ्रापयति। ससृवांस इति लेपांश्च निमाष्टि॥१॥ 
 1. After (the chariots) have returned the Adhvaryu after having offered (a libation of ghee in Ahavaniya) makes (the horses) smell? again the Nīvāra-rice-pap with vājasya prasavo jagamyat... and besmears the ghee at their nostrils with sasrvāmsah..... 
 1. Cf. MS I.11.7; KS XIV.7. 2. TS I.7.8.n. 3. Cf TB I.3.6.9. 
 4. TS I.7.8.p. इयं वः सा सत्या संधाभूदिति दुन्दुभिविमोचनीयं होमं जुहोति॥२॥ 
@@ -293,7 +296,8 @@ ___1. The scoops which are taken according to XVIII.2.3 and are ready
 since XVIII.2.9. सुराग्रहणं मुख्यं प्रतिप्रस्थातादत्ते। वाजसृत इतरान्सुराग्रहान्॥१७॥ 
 17. The Pratiprasthātr takes the first of the Sura-scoops and the racers the other (sixteen) Sura-scoops.1 
 1. See XVIII.2.4. 
-XVIII.7 संपृच स्थ सं मा भद्रेण पृङ्क्तेति प्राङध्वर्युः सोमग्रहैरुद्वति। विपृच स्थ वि मा पाप्मना पृङ्क्तेति प्रत्यङ् प्रतिप्रस्थाता सुराग्रहैः॥१॥ 
+## 18.07
+संपृच स्थ सं मा भद्रेण पृङ्क्तेति प्राङध्वर्युः सोमग्रहैरुद्वति। विपृच स्थ वि मा पाप्मना पृङ्क्तेति प्रत्यङ् प्रतिप्रस्थाता सुराग्रहैः॥१॥ 
 1. (The Adhvaryu) goes to the eastern direction with Soma-scoops with samprca stha....1 The Pratiprasthātr goes to west with Sura-scoops with viprca stha....1 
 1. See TB I.3.3.6-7. आहवनीयन्यन्ते सोमग्रहैरवतिष्ठन्ते। मार्जालीयन्यन्ते सुराग्रहैः॥२॥ 
 2. They stand with soma-scoops near the Āhavanīya and with Surā-scoops near the Mārjālīya. 

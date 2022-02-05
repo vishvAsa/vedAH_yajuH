@@ -3,7 +3,8 @@ title = "36 hautrakam"
 
 +++
 THE ACTIVITIES OF HOTR̥ IN AN IṢȚI (OFFERING) 
-XXIV.11 . पुरस्तात्सामिधेनीनां होता हृदयदेश ऊर्ध्वं प्रादेशं धारयमाणो जपति मयि गृह्णाम्यग्रे अग्निं यो नो अग्निः पितर इति॥१॥ 
+## 24.11
+. पुरस्तात्सामिधेनीनां होता हृदयदेश ऊर्ध्वं प्रादेशं धारयमाणो जपति मयि गृह्णाम्यग्रे अग्निं यो नो अग्निः पितर इति॥१॥ 
 1. Before (the ritual of) the Samidheni (enkindling-vesses, 
 1445 
 the Hotr, while holding his hand stretched up near the place of the heart, should mutter muyi grhņāmi.... (TS V.7.9a,b). 
@@ -50,7 +51,8 @@ _1. See XXI.2.6-7. सामिधेनीरनूच्य प्रवरम
 1448 
 तासां सप्त पदान्युक्त्वापानिति॥१८॥ 
 18. Having recited seven parts out of them (without breathing), he breathes. 
-XXIV.12 अथ चत्वार्यथ चत्वारि॥१॥ 
+## 24.12
+अथ चत्वार्यथ चत्वारि॥१॥ 
 1. Then (after having recited the next) four the Hotr̥ breathes; then (after having recited the four (he breathes) next).' 
 1. For XXIV. 11.18 and this Sūtra cf. KB II.2. For the Nigada see ___also TS II.5.9.1-3; TB III.5.3.1-3. ता अनूच्य देवता आवाहयति या यक्ष्यमाणो भवति॥२॥ 
 2. Having recited those (formulae) he invites those deities whom he is going to recite the offering-verses. 
@@ -84,7 +86,8 @@ ___1. TS I.1.14.i.
 _____ll. Having sat to the back side of the Hotr's seat, with his face to the east, he then touches the Hotr's seat with ahe daidhi savya....1 
 1. TS III.2.4.4. अथास्मात्तृणं निरस्यति॥१२॥ 12. Then from this (seat) he throws a blade of grass. 
 1. This Sūtra is to be joined with the next Sūtra. 
-XXIV.13 शुष्कं प्रच्छिन्नाग्रं वा निरस्तः पराग्वसुः सह पाप्मनेति॥१॥ 
+## 24.13
+शुष्कं प्रच्छिन्नाग्रं वा निरस्तः पराग्वसुः सह पाप्मनेति॥१॥ 
 1. (The Hotr throws a blade of grass which is) dry or the one the point of which is cut. (He throws it) with nirastah parāgvasuh.... 
 अथ होतृषदन उपविशति पातं मा द्यावापृथिवी उपस्थ इति दक्षिणपूर्विणं सव्योत्तरिणं वोपस्थं कृत्वा॥२॥ 
 2. Then having placed his right knee towards the east or having placed the left knee on the right knee, he sits down on the Hotr's seat with pātam mā.... 
@@ -120,7 +123,8 @@ ranslation : THITE
 ओमित्यूचो ऽधि प्रणौति॥१३॥ 
 13. He makes om on the verse i.e. he turns the last syllable of every verse into om or adds om after the last syllable'. 
 1. See XXIV.14.1-2. 
-XXIV.14 
+## 24.14
+
 उत्तमस्याक्षरस्य विकारमेक आहुः॥१॥ 
 1. Some say that (the om) is a modification of the last syllable. 
 1. This is the usual practice. See ĀśvaŚs 1.5.9ff. अधिकः स्यादित्यपरम्॥२॥ 

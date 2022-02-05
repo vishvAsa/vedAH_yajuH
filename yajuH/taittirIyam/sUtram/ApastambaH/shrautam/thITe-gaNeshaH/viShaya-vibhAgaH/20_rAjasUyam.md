@@ -2,7 +2,8 @@
 title = "20 RĀJASŪYAM"
 
 +++
-XVIII.8 
+## 18.08
+
 RAJASŪYA राजा स्वर्गकामो राजसूयेन यजेत॥१॥ 
 1. A king desirous of heaven should perform the Rājasūya sacrifice. 
 शतसहस्रं दक्षिणा॥२॥ 
@@ -65,7 +66,8 @@ of mentioning it as a view of “some" ritualists. अप्रतीक्ष�
 20. It is known (from a Brāhmaṇa-text). “They return (to the sacrificial place without looking back in order to keep away Nirsti”. 
 1. Cf. TB 1.1.1.4. 
 1056 
-XVIII.9 स्वाहा नमो य इदं चकारेति पुनरेत्य गार्हपत्ये हुत्वानुमतेन प्रचरति॥१॥ 
+## 18.09
+स्वाहा नमो य इदं चकारेति पुनरेत्य गार्हपत्ये हुत्वानुमतेन प्रचरति॥१॥ 
 1. After having come back then having made a libation in the Gārhapatya (-fire) with svahā namaḥ...' he performs (the offering) of the sacrificial bread to Anumati. 2 
 1. TS I 8.1.11. 
 2. Cf. TB 1.6.1.4. धेनुर्दक्षिणा॥२॥ 2. A milk cow (is ) the sacrificial gift." 
@@ -121,7 +123,8 @@ then having recited devasya tvā... he offers an offering (of the flour) by mean
 1. Cf. TS 1.8.7.h. अप्रतीक्षमायन्ति रक्षसामन्तर्हित्या इति विज्ञायते॥२०॥ 
 20. It is known (from a Brāhmaṇa-text), “They return without looking back in order to keep away the evil beings.” I 
 1. TB 1.7.1.9. 
-XVIII.10 
+## 18.10
+
 अग्निहोत्रं हुत्वा देविकाहवींषि निर्वपति॥१॥ 
 1. After having offered Agnihotra (-libation)' (the Adhvaryu) takes out (the material for) the Devikā-offering.2 
 1. Cp. XVIII.9.15. 
@@ -190,7 +193,8 @@ ranslation : THITE
 ___28. In the house of the sacrificer he takes out the material for the sacrificial bread to be prepared on eleven potsherds, to be offered to, Indra Sutrāman and one to be prepared on eleven potsherds for Indra Ashomuc.1 
 1. Cf. TS I.8.2.9. ऋषभो दक्षिणा॥२९॥ 29. A bull is the sacrificial gift. निष्कः कवचमित्येके॥३०॥ 
 30. According to some a golden plate or an armour (is the sacrificial gift). 
-XVIII.11 अयं नो राजा वृत्रहा राजा भूत्वा वृत्रं वध्यादिति पुरस्तात्स्विष्टकृतो ऽध्वयुर्जपति॥१॥ 
+## 18.11
+अयं नो राजा वृत्रहा राजा भूत्वा वृत्रं वध्यादिति पुरस्तात्स्विष्टकृतो ऽध्वयुर्जपति॥१॥ 
 1. Before the Svisţakst' the Adhvaryu mutters ayaṁ no raja....' 
 1. This Svstakrt-libation forms a part of the offering to Indra 
 (XVIII. 10.28). 2. TS I.8.9.2. 
@@ -331,7 +335,8 @@ ApSs Translation : THITE
 यः सते प्ररेकस्तमुदङ् परेत्य रुद्र यत्ते क्रयी परं नामेत्याग्नीध्रीये जुहोति॥२२॥ 
 22. Having turned to the north he offers the remnants (of the water in the reed pot) in the Āgnīdhra-fired with rudra yat te krayi...2 
 1. Cp. TB I.7.8.6; MS IV.4.2. 2. TS I.8.14.1. 
-XVIII.14 क्षत्रस्योल्बमसीति तायँ यजमानः परिधत्ते। क्षत्रस्य योनिरसीति पाण्डर मुष्णीष द्वितीयम्॥१॥ 
+## 18.14
+क्षत्रस्योल्बमसीति तायँ यजमानः परिधत्ते। क्षत्रस्य योनिरसीति पाण्डर मुष्णीष द्वितीयम्॥१॥ 
 ___ 1. With ksatrasyolbamasin the sacrificer wears a Tarpya garment, with ksatrasya yonirasis a Pandara Usnisa-turban' as the second one. 
 1. TS I.8.12.f. 2. See the note on XVIII.5.7. 3. TS I.8.12.f. 
 4. Cf. MS IV.4.3; See the next Sutra. श्वेतं पाण्डरमित्याचक्षते॥२॥ 2. The white one is called Pandara. त्रीण्येके पाण्डरतार्योष्णीषाणि॥३॥ 
@@ -404,7 +409,8 @@ means of (his) left (foot) with nirastam namucheh sirah.'
 11. After having addressed him (the sacrificer) with somo rājā...' somasya tvā dyumnenābhisincāmi....? 
 1. TS I.8.14.f. 2. TS I.8.14.g. The sentence is incomplete. See the next Sutra. 
 1078 
-XVIII.16 पालाशेन पुरस्तादध्वर्युः॥१॥ 
+## 18.16
+पालाशेन पुरस्तादध्वर्युः॥१॥ 
 1. the Adhvaryu (pours water on the sacrificer) from the east by means of (the vessel) of Palāśa (-wood). 
 1. Cf. TB I.7.8.7; XVIII.13.21. एवमितरे॥२॥ 2. In the same manner' the others (pour the water). 
 1. Thus they first recite TS I.8.14.f on the sacrificer and pour water ____on him with TS I.8.14.g. औदुम्बरेण दक्षिणतो ब्रह्मा। राजन्यो वा॥३॥ 
@@ -445,7 +451,8 @@ __ 1. MS IV.4.6. Thus for e.g.
 a) Dasaratha the son of Rāma 
 b) Rāma the son of Kausalyā. नामानीत्येके॥१६॥ 16. According to some, (he inverses) (the three) names.1 1. e.g. a) Daśaratha the son of Rāma, Daśaratha the son of Kausalyā; 
 b) Rāma the son of Daśāratha, Rāma the son of Kausalyā. 
-XVIII.17 
+## 18.17
+
 इन्द्रस्य वन्तो ऽसीति रथमुपावहृत्य मित्रावरुणयोस्त्वा प्रशास्त्रोः प्रशिषा युनज्मीति प्रष्टिवाहिनं रथं युनक्ति॥१॥ 
 1. Having taken down the chariot (from its stand) with indrasya vajro'si...' (the Adhvaryu) yokes the chariot having a side-horse with mitrāvarunayostvā....' 
 1. TS I.8.15.a. 2. Cf. TB I.7.9.1; cp. XVIII.3.1;3. 
@@ -484,7 +491,8 @@ ___ 12. Having put on shoes made of boar hidel with pati manyurasi... 2 having a
 3. TS I.8.15.1. आहिते संग्रहीतावरोहति॥१५॥ 
 15. After the chariot is placed ( on the chariot-stand) the charioteer descends (from the chariot). 
 18 
-XVIII.18 मित्रो ऽसीति दक्षिणं बाहुं यजमान उपावहरते। वरुणो ऽसीति सव्यम्॥१॥ 
+## 18.18
+मित्रो ऽसीति दक्षिणं बाहुं यजमान उपावहरते। वरुणो ऽसीति सव्यम्॥१॥ 
 1. The sacrificer lowers' the right arm with mitro'sic and the left with varuno'si.2 
 1. Cf. MS IV.4.6. 2. TS I.8.16.a.XVIII.18] 
 ĀPŚS Translation : THITE 
@@ -528,7 +536,8 @@ __ 1. TS I.8.16.g. एवं ब्रह्माणं होतारमु�
 1. See TB.I.7.10.5; cp. SB V.4.4.19. तेनाक्षावापो ऽधिदेवनमुद्धत्यावोक्ष्याक्षान्निवपेत्॥१६॥ 
 16. Having dug out the gambling place with it, then sprinkled (water) on it the Akṣāvāpa should throw the dice;2 
 1. Cf. MS IV.4.6. 2. The sentence is completed in the next Sutra. 
-XVIII.19 
+## 18.19
+
 सौवर्णान्परःशतान्परः सहस्त्रान्वा॥१॥ 
 1. (the Dice) made of gold, either hundred or more than thousand (in number). 
 ब्राह्मणराजन्यवैश्यशूद्राश्चत्वारस्तद्योगाः पष्ठौहीं विदीव्यन्त ओदन मुब्रुवते॥२॥ 
@@ -572,7 +581,8 @@ _1. See XVIII.12.11-12; XIII.18.3-4; cf. TB I.7.10.6. समानं तु स
 ___1. Cf. TB I.7.10.6. उपहूतायामिडायामुन्मुच्य मणीन्ब्रह्मणे ददाति॥१७॥ 
 17. After the Idā has been invoked, (the Sacrificer) gives the two amulets' to the Brahman after having untied them (from himself).2 
 1. See XVIII.17.12. 2. Cf. TBI.7.9.5; cp. SB V.4.3.26. 
-XVIII.20 
+## 18.20
+
 माहेन्द्रस्य प्रचरणादि कर्म प्रतिपद्यते॥१॥ 
 1. (The Adhvaryu) starts the ritual beginning with the performance of the Māhendra-scoop.' 
 1. See XVIII.12.11ff. 
@@ -691,7 +701,8 @@ another sacrificial ground. आग्नयेमष्टाकपालमि�
 2. See TS 1.8.19.1; TB 1.8.3.3.4. तिसृधन्वं शुष्कदृतिर्दक्षिणा॥१७॥ 
 17. The sacrificial gift (for this offering should be) a bow with three arrows and dry leather bag." 
 1. Cf. TB 1.8.19.1; TB 1.8.3.4. 
-XVIII.22 दण्डो वाराही उपानहावित्येके॥१॥ 
+## 18.22
+दण्डो वाराही उपानहावित्येके॥१॥ 
 1. According to some (the sacrificial gift consists of) a staff and two shoes of swine-skin.' 
 1. Cf. MS II.6.13. 
 1095 

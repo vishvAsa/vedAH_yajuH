@@ -3,7 +3,8 @@ title = "23 Kāmya-paśavaḥ"
 
 +++
 OPTIONAL ANIMAL-SACRIFICES 
-XIX.16 काम्यैः पशुभिरमावास्यायां पौर्णमास्यां वा यजेत॥१॥ 
+## 19.16
+काम्यैः पशुभिरमावास्यायां पौर्णमास्यां वा यजेत॥१॥ 
 1. One should perform optional sacrifices with animals on a new-moon or full-moon day.1 
 1. Cp. VII.1.2. तेषां निरूढपशुबन्धवकल्पः॥२॥ 
 2. The ritual of them is similar to that of the Nirudhapasu bandha.1 
@@ -72,7 +73,8 @@ __ 1. Cf. TB II.8.9.3. तत्र सलिलमुपजुहुयात�
 __ 1. Here the verses TB II.8.9.7-10 are to be used. य ऊर्ध्वमाश्विनात्पशवस्तेषां सूक्तक्रमेण विधिः॥२५॥ 
 25. For those animals which follow the one for Aśvins! the performance should be done in accordance to the order of the Suktas.2 
 1. TS II.1.10.1. 2. Thus one should use TB II.8.1ff. 
-XIX.17 
+## 19.17
+
 ऋषभे गोषु जीर्णे यूनः कर्णमाजपेत्पिशङ्गरूपस्तन्नस्तुरीपमित्येताभ्याम्॥१॥ 
 1. When a bull has become old in (connection with) the cows (the Adhvaryu) should mutter in ear of a young bull, the two verses beginning with piśangarūpaḥ' and tannasturīpam?. 
 1. TS III.1.11.h. 

@@ -3,7 +3,8 @@ title = "28 Dvadaśāhaḥ"
 
 +++
 DVĀDAŚĀHA (TWELVE-DAY-SACRIFICE) 
-XXI.1 द्वादशाहेन प्रैव जायते ऽभि स्वर्ग लोकं जयत्येषु लोकेषु प्रतितिष्ठति॥१॥ 
+## 21.01
+द्वादशाहेन प्रैव जायते ऽभि स्वर्ग लोकं जयत्येषु लोकेषु प्रतितिष्ठति॥१॥ 
 1. One produces progeny, one wins the heaven, one es tablishes in these worlds by means of Dvādaśāha sacrifice. 
 _1. See TS VII.2.9.1. साग्निचित्यो भवति॥२॥ 
 2. This (sacrifice) is accompanied with a fire-altar-build ing-rite. 
@@ -48,7 +49,8 @@ ____ 14. Fifteen (persons) should get themselves consecrated (if they are desiro
 19. All should (either in the Ahīna or Sattra type of Dvadaśaha) carry out the duties of the sacrificer without any conflict with (their own respective) duties as priests. 
 विबाधमान आर्विज्यं बलीयः।।२०॥ 
 20. When there will be conflict, the duty as a priest (should be considered) as stronger. 
-XXI.2 
+## 21.02
+
 सर्व इष्टप्रथमयज्ञाः। अपि वा गृहपतिरेव॥१॥ 
 1. All (the performers of the sacrificial session) should be those who have already performed the first (Soma-sacrifice)'; or only the Gṣhapati? (leader of the Sattra) (should be one who has already performed the first sacrifice). 
 1. Thus they should have atleast once performed either an Agniṣt 
@@ -106,7 +108,8 @@ Prastols and Mitrāvaruna. ततस्तं नेष्टा दीक्ष
 19. After the Unnetr has consecrated him (=the Neṣṭr̥), he (the Unnetr) consecrates the “One-fourthers."1 
 ___1. viz. Potr, Subrahmaṇya and Gravastut. 
 ततस्तं प्रतिप्रस्थाता दीक्षयति॥२०॥ 20. Then the Pratiprasthātr consecrates him (=Unnetr). 
-XXI.3 
+## 21.03
+
 अन्यो वा ब्राह्मणः॥१॥ 
 1. Or a Brahmin (who is not consecrated )(consecrates the Unnetr). 
 __1. For XXI.2.16-3.1 cf. SB XII.1.1.1-10. दीक्षित आ तन्त्रीभावादेकैकमपवर्जयति॥२॥ 
@@ -151,7 +154,8 @@ ____12. When all have held (the Adhvaryu) from behind, he offers a libation in t
 1244 
 ऋते पत्नीभ्य इतरयोः॥१३॥ 
 13. (He offers libations) in other two (fires) without the ing held by) the wives. 
-XXI.4 ___ परं मृत्यो अनु परेहि पन्थां यस्ते स्व इतरो देवयानात्। चक्षुष्मते प्रणवते ते ब्रवीमि मा नः प्रजां रीरिषो मोत वीरानिति दक्षिणाग्नौ॥१॥ 
+## 21.04
+___ परं मृत्यो अनु परेहि पन्थां यस्ते स्व इतरो देवयानात्। चक्षुष्मते प्रणवते ते ब्रवीमि मा नः प्रजां रीरिषो मोत वीरानिति दक्षिणाग्नौ॥१॥ 
 ____ 1. (Thus he offers a libation) in the Daksina-fire with param mrryo....' 
 1. TB III.7.14.5. इदमू नु श्रेयो ऽवसानमागन्म यद्गोजिद्धनजिद्यत्॥ पर्णं वनस्पतेरिवाभि नः शीयतां रयिः। सचतां नः शचीपतिः स्वाहेत्याहवनीये॥२॥ 
 2. (And) in the Āhavanīya (fire) with idamũ nu śreyov asānam....1 
@@ -190,7 +194,8 @@ very day should be milk of four teats, three teats, two teats and on teat respec
 1. Cp. XI. 10.3. संतणे अधिषवणफलके भवतः॥१७॥ 17. The pressing-boards should be bound together.' 
 1. Cp. XI.13.2. ऋजुरुपवसथः॥१८॥ 
 18. The Upavasatha-day should be simple (as in the basic paradigme). 
-XXI.5. 
+## 21.05
+. 
 श्वो भूते प्रतायते ज्योतिष्टोमः॥१॥ वैश्वानरः प्रायणीयो ऽतिरात्रः॥२॥ 
 1-2. On the next day Jyotistoma is performed: an intro ductory Atirātra dedicated to Agni-Vaiśvānara. 
 समानमा राज्ञ उपावहरणात्॥३॥ 
@@ -225,7 +230,8 @@ ___ 1. Cp. XIII.7.16. पूर्वस्मिन्नेवाहन्य�
 | 1. Cp. XI.21.8. _यत्र मैत्रावरुणस्याभिजानाति श्वःसुत्यामिन्द्राग्निभ्यां विश्वेभ्यो देवेभ्यो ब्राह्मणेभ्यः सोम्येभ्यः सोमपेभ्यः सोमं प्रब्रूतात्सुब्रह्मण्य सुब्रह्मण्यामाह्वयेति॥१६॥ 
 16. When he recognizes Maitrāvaruṇa (uttering) śvaḥ sutyāmindrāgnibhyām....', 
 ____ 1. The sentence is completed in the next Sutra. 
-XXI.6 तदाग्नीध्र आग्नीध्रागारं प्रविश्य संप्रेष्यति श्वःसुत्यामिन्द्राग्निभ्यां विश्वेभ्यो देवेभ्यो ब्राह्मणेभ्यः सोम्येभ्यः सोमपेभ्यः सोमं प्रब्रवीमि सुब्रह्मण्य सुब्रह्मण् यामाह्वयेति॥१॥ 
+## 21.06
+तदाग्नीध्र आग्नीध्रागारं प्रविश्य संप्रेष्यति श्वःसुत्यामिन्द्राग्निभ्यां विश्वेभ्यो देवेभ्यो ब्राह्मणेभ्यः सोम्येभ्यः सोमपेभ्यः सोमं प्रब्रवीमि सुब्रह्मण्य सुब्रह्मण् यामाह्वयेति॥१॥ 
 1. then the Āgnidhra having entered the Āgnīdhra (shed), gives the following order: svahsutyāmindrāgnibhyām....' 
 स वै खलु श्वःसुत्यामिति ब्रूयादित्याश्मरथ्यः। अद्यसुत्यामित्यालेखनः।। 
 2. According to Āśmarathya, he should use the (expics sion śvahsutyām (in the above-mentioned order); accorums Ālekhana, (he should use the expression) adyasutyām. 
@@ -307,7 +313,8 @@ metres are not displaced).2
 2. Cp.XXI.14.5. व्यूढे त्वर्वाञ्चमद्य यय्यं नृवाहणं रथं युञ्जाथामिह वां विमोचनम्॥ पृङ्क्तं हवींषि मधुना हि कं गतमथा सोमं पिबतं वाजिनीवसू॥ ऋतुना सोमं पिबतं वौषडिति तस्य प्रचरितं मरुत्वतीयैर्भवति॥१७॥ 
 _____17a. If however (the Dvādaśāha is of) Vyudha (type) (i.e. the one in which metres are displaced ) (then the verse is as follows:) arvāñcamadya yayyam... (and the Praisa is as foll ows:) rtunā somam pibatam....2 
 1. RV II.37.5. 2. For 17b see the next section. 
-XXI.8 
+## 21.08
+
 अगृहीतो माहेन्द्रः॥१॥ अथ प्रतिप्रस्थातोत्तरेणाग्नीध्रमुदीची तन्तिं वितत्य तस्यां वत्सान्बध्नाति॥२॥ 
 XXI.7.17b-XXI.8.1-2. When the performance of this day is done upto the Marutvatiya-scoops but the Māhendra scoop is not yet taken ,then the Pratiprasthāts, having stretched a thread towards the north in the north of the Āgnidhra-shed binds calves to it. 
 दक्षिणेन मार्जालीयं मातृरुपरुन्धन्ति॥३॥ 
@@ -336,7 +343,8 @@ after another which are the Ukthya-sacrifices with twenty-four versed, Forty-fou
 1. The seventh, eighth and the ninth day after the first introductory ___day(i.e. the eighth, ninth and tenth day in the Dvadaśāha 
 (= twelve day) sacrifice. रथंतरसामा प्रथमः। बृहद्रथंतरसामा द्वितीयः। बृहत्सामा तृतीयः॥१२॥ 
 12. The first (of these) has the Rathantara-saman and the second the Bṣhat and Rathantara-Sāman and the third the Bṣhat saman (as the first). 
-XXI.9 
+## 21.09
+
 ततो दशममहरविवाक्यमुपयन्ति। चतुर्विंशमग्निष्टोमं रथंतरसामानम्॥१॥ 
 1. Then they perform the tenth day, “unblameworthy”l. (It should be) an Agnistoma with Rathantara-saman as the first Prstha-stotra. 
 1. avivākya. This is explained in the next Sūtra. नात्र कश्चन कस्मैचनोपहताय व्याहते॥२॥ 
@@ -368,7 +376,8 @@ I. Cp. XXI.6.8. उत्तरेणाहवनीयमौदुम्बर�
 ___14b-15. Then having gone to the Ahavaniya they praise it with a verse in Aticchandas (-metre beginning with) sahasramanavo drśaḥ.! 
 1. For the verse cp. SV I.458, AV VII.22.1. For this Sutra cf. TMB 
 IV.9.1. 
-XXI.10 ततः प्राजापत्याय मनोग्रहाय संप्रसर्पन्ति॥१॥ 
+## 21.10
+ततः प्राजापत्याय मनोग्रहाय संप्रसर्पन्ति॥१॥ 
 1. Then all (the performers) creep for the Mind-scoop' for Prajapati. 
 1. For this see the next Sutra. प्रसृप्तेषूपांशुपात्रेण गृह्णात्यनया त्वा पृथिव्या पात्रेण समुद्रं रसया प्रजापतये जुष्टं गृह्णामीति॥२॥ ___. After they have crept (into the Sadas) (the Adhvaryu) takes (this scoop) by means of the cup for the Upamsu (-scoop) with anayā tvā....2 
 1. For this see XII.1.7. 
@@ -403,7 +412,8 @@ _1. See II.15.4-6. मनसा हुत्वा हरति भक्षम�
 ____AB V .25; KB XXVIII.4. विनिविश्य कथा स्यादित्येकम्। गृहपतिमेव महर्विजः पर्युपविश्य पृच्छे युरित्यपरम्॥१३॥ 
 13. According to one (view) there should be discussion after they have sat down (in the Sadas); according to another the chief priests should ask the Gshapati himself (the following question) after having sat around him.' 
 ___1. For the discussion which follows cf. TB II.3.5.1-3. तमध्वर्युः पृच्छति॥१४॥ 14. The Adhvaryu asks him. 
-XXI.11 
+## 21.11
+
 यद्दशहोतारः सत्त्रमासत केन ते गृहपतिना वन्केन प्रजा असृजन्तेति॥१॥ 
 1. “When the Dasahotr-s performed a sacrificial session with whom as the Gṣhapati did they prosper (and) through whom did they create progeny?" 
 प्रजापतिना वै ते गृहपतिनार्जुवंस्तेन प्रजा असृजन्तेति प्रतिवचनः॥२॥ 
@@ -433,7 +443,8 @@ MASTER
 प्रजापतिं परिवदन्तीति विज्ञायते॥१३॥ 13. “They blame Prajapati" -so is heard from a Brāh 
 mana-text.1 
 1. TMB IV.9.14. 
-XXI.12 अकुशलो वा अयं प्रजापतिर्यो दंशमशकान्ससृजे य स्तेनानिति प्रजा पतिपरिवादः॥१॥ 
+## 21.12
+अकुशलो वा अयं प्रजापतिर्यो दंशमशकान्ससृजे य स्तेनानिति प्रजा पतिपरिवादः॥१॥ 
 1. The blame of Prajāpati is as follows, “Unskilled indeed is this Prajāpati who created gadflies and hornets, who created thieves." 
 अपि वा प्रजापतिपरिवादान्मन्त्रानधीयते॥२॥ 
 2. Or rather they recite the mantras consisting of Praja pati's blame. 
@@ -463,7 +474,8 @@ translates it to mean ‘loosen' (lockern). 2. These formulae occur only here. �
 10. Having thought about the night by means of the day, having released their speech with the Subrahmanyā formula' while the sun is at the top of the trees, they put faggots of Udumbara (into fire). 
 1. Cf. SB IV.6.9.25; KBXXVII.6; JB III.306. संतिष्ठते दशममहः॥११॥ 
 11. The tenth day stands (completely) established (is con cluded). 
-XXI.13 प्रायणीवदुदयनीयमुपयन्ति॥१॥ 
+## 21.13
+प्रायणीवदुदयनीयमुपयन्ति॥१॥ 
 1. They perform the concluding day (Udayanīya) in the same manner as that of the introductory day (Prayaniya).' 
 1.Cr. XXI.5.1-6.9. नात्राहीनसंततयो भवन्ति॥२॥ 
 · 2. Here those rites which connect the days of Ahīna Soma-sacrifice with each other' do not take place. 
@@ -519,7 +531,8 @@ ____ the Dvadasaha. पूर्वस्मिंस्त्र्यहे �
 1. Cr. SB IV.5.4.13. यत्र गौरिवीतं साम तबहूनतिग्राह्यानगृह्णाति॥२२॥ 
 22. The day on which there is the Gaurivita-Saman he scoops many Atigrahya-scoops. 
 1267 
-XXI.14 
+## 21.14
+
 त्र्यनीकां व्याख्यास्यामः॥१॥ 1. We shall explain Tryanīkā. 
 1. i.e literally, group of three; the twelve days divided into groups of 
 three. ऐन्द्रवायवाग्रौ प्रायणीयोदयनीयौ दशमं चाहः॥२॥ 

@@ -3,7 +3,8 @@ title = "22 cayana-kramāḥ"
 
 +++
 FIRE-ALTAR-BUILDING-RITUAL ACCORDING TO KATHA-SCHOOL SĀVITRA-FIRE-ALTAR-BUILDING 
-TEXIX.11 सावित्रं स्वर्गकामश्चिन्वीत॥१॥ 
+## 19.11
+सावित्रं स्वर्गकामश्चिन्वीत॥१॥ 
 1. (The sacrificer) desirous of obtaining heaven' should build (the fire-altar) of the size of sun(with bricks). 
 1. As was done by Ahīnas Āśvatthya . He built the altar of the 
 shape of golden eagle in order to go the heaven (See TB III. 10.9.10-11). 
@@ -41,7 +42,8 @@ ___1. Thus the lines should be clearly visible.
 अभ्यन्तरं जघनार्ध उदपात्रमुपदधाति वाक्त्वा समुद्र उपदधे सुप्रजावनि रायस्पोषवनिं मह्यं वाजिनायेति॥११॥ 
 11. In side, on the western part of the ground (the Adhvaryu) places a pot filled with water with vāk rvā...! 
 1. For the formula see KS XXXVIII. 13; cp. BaudśS XIX.2. 
-XIX.12 
+## 19.12
+
 नवम्यां बाह्यायां लेखायां पञ्चदश पूर्वपक्षस्याहान्युपदधाति संज्ञानं विज्ञानमिति॥१॥ 
 ___ 1. On the ninth outer line (the Adhvaryu) places (bricks which represent) fifteen days of the first fortnight with samjhanam.... 
 तेषामन्तरालेष्वेषामह्नां पञ्चदश मूहूर्तानुपदधाति चित्रः केतुरिति॥२॥ 
@@ -111,7 +113,8 @@ __ 1. TB III. 11.2.1ff. See also XIX.13.2-3 (first part).
 जघनेनाग्निं प्राङ्मुख उपविश्य संचितोक्थ्येन होतानुशंसति भुवः स्वरित्युवाकेन॥२६॥ 
 26. The Hotr̥ having sat behind the fire with his face turned to the east recites the recitation connected with complete (fire altar)-building (samcitoktlryena) i.e. the chapter beginning with bhuḥ bhuvaḥ svaḥ. 
 1. Cp. XVI.12.12. 2. TB III.10.5.1. 
-XIX.13 अग्निप्रणयनादि पाशुकं कर्म प्रतिपद्यते समानमातिमुक्तिभ्यः॥१॥ 
+## 19.13
+अग्निप्रणयनादि पाशुकं कर्म प्रतिपद्यते समानमातिमुक्तिभ्यः॥१॥ 
 1. (Then the Adhvaryu) starts the work of the animal sacrifice beginning with carrying forward of the fire (to the Uttaravedi)'; everything is the same upto the Atimukti ( libations). 
 ____ 1. Thus the work mentioned in VII.5.6-VII.1.2. अतिमुक्तीर्तुत्वा चतुर्गहीतं जुहोति॥२॥ 
 2. Having offered the Atimukti (-libations),' he offers four-times scooped (ghee). 
@@ -178,7 +181,8 @@ _1. TB III. 10.9.2. अथ जुहोत्यप मृत्युमप क
 1. Thus as in VII.26.8ff. संतिष्ठते सावित्रः॥२६॥ 
 26. (Thus here) the Sāvitra (-fire-altar-building-ritual) stands completly established (i.e.concluded). 
 THE NACIKETA-FIRE-ALTAR-BUILDING 
-XIX.14 एतेन नाचिकेतो व्याख्यातः॥१॥ 
+## 19.14
+एतेन नाचिकेतो व्याख्यातः॥१॥ 
 1. With this (Savitra-fire-altar-building-ritual) the Naciketa- (fire-altar-building-ritual is as good as) described. 
 नात्र लेखा भवन्ति॥२॥ 2. In this there are no lines' (to be drawn). 
 1. This has a reference to the nine lines drawn in the Savitra-ritual 
@@ -260,7 +264,8 @@ jagati upto cartasro diśaḥ. स्वयमातृण्णादि सम
 1. See XIX.12.16 (cp. XIX.14.16). Fifdood ZIGET: 112011 
 27. (Thereby the description of the) the Cāturhotra (fire altar-building-ritual) stands completely established (i.e. concluded). 
 THE VIŚVASRJ-FIRE-ALTAR-BUILDING-RITUAL 
-XIX.15 एतेन वैश्वसृजो व्याख्यातः॥१॥ 
+## 19.15
+एतेन वैश्वसृजो व्याख्यातः॥१॥ 
 1. With this the Visvasṭj-fire-altar-building-ritua (is as good as) described. 
 यावन्मन्त्रं हिरण्येष्टकाः शर्करा वाभ्यक्ताः॥२॥ 
 2. (There are) as many gold bricks or pebbles anointed with ghee as many are the formulae.' 

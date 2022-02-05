@@ -3,7 +3,8 @@ title = "32 savāḥ"
 
 +++
 THE SAVAYAJÑAS 
-XXII.25 
+## 22.25
+
 अथ सवानां व्याख्यातो बृहस्पतिसवः॥१॥ 
 1. Now the description of the Savas. The Bṣhaspatisava has been explained. 
 1. The Savayajñas are generally one-day-sacrifices consisting of 
@@ -66,7 +67,8 @@ ___1. See the Sutra 13. व्याख्यातो गोसवः॥१८�
 ___ 22a. After the sun-rise,I having performed four offerings out of the rice-pap with simhe vyāghre...., 
 1. Cf. TB II.7.9.4. 2. For the formulae see TB 11.7.7.1-2. The sentence is incomplete. 
 See the next Sūtra. 
-XXII.26 मन्थान्कल्पयन्ति॥ आज्यमन्थं ब्राह्मणः पयोमन्थं राजन्यो दधिमन्थं वैश्य उदमन्थं शूद्रः॥१॥ 
+## 22.26
+मन्थान्कल्पयन्ति॥ आज्यमन्थं ब्राह्मणः पयोमन्थं राजन्यो दधिमन्थं वैश्य उदमन्थं शूद्रः॥१॥ 
 25.22b-26.1. rādasi virādasi...1 with these formulae one by one they prepare stirred drinks: (thus) a Brahmana ghee stirred mixture, Ksatriya a milk-stirred mixture; a Vaiśya a curds-stirred mixture, a Sūdra a water-stirred mixture. 
 ____ 1. For the mantras see TB II.7.7.2.. 
 इन्द्राय त्वा तेजस्वते तेजस्वन्तं श्रीणामीति ब्राह्मणः सक्तुभिराज्यं श्रीत्वा तेजो ऽसीत्यभिमन्य तत्ते प्रयच्छामीति यजमानाय प्रयछति॥२॥ 
@@ -105,7 +107,8 @@ __1. TB II.7.8.1. आतिष्ठ वृत्रहन्निति पञ
 19. It is known (from a Brāmana-text) “(The sacrificer) who performs this sacrifice becomes worthy to be desired to be seen and worthy to be seen."1 
 1. TB II.7.9.4. 
 1367 
-XXII.27 संतिष्ठत ओदनसवः॥१॥ 
+## 22.27
+संतिष्ठत ओदनसवः॥१॥ 
 1. Thereby the Odanasava sands completely established (i.e. concluded). 
 व्याख्यातः पञ्चशारदीयः॥२॥ 2. The Pañcaśārdiya has been (already) explained.' 
 1. See XXII.20.9-21.11. तथाग्निष्टुत्॥३॥ 
@@ -156,7 +159,8 @@ Manthin scoops; the seventh of the Agrayana-scoop.1
 नित्या हारियोजनस्य॥२१॥ 21. He uses the usual verse for the Hāriyojana scoop. व्याख्यातो ऽप्तोर्यामः॥२२॥ 
 22. The Aptoryāma-sacrifice, has been (already) expl ained.' 
 1. See XXII.13.19; XIV.4.12. 
-XXII.28 
+## 22.28
+
 राजाभिषेक्ष्यमाणो जनपदेषु समवेतेषु द्वयोः पुण्याहयोः पूर्वस्मिन्स्थण्डिलं कल्पयित्वाग्निमुपसमाधाय संपरिस्तीर्य वसति॥१॥ 
 1. A king who is going to be sprinkled water upon (and thus consecrated for being a king), should remain, for two auspicious days ater having on the first day prepared a place for the domestic fire, having put fuel in it, and having scattered sacred grass around it, while the people in the kingdom have come together. 
 उदित आदित्ये ये केशिनो नर्ते ब्रह्मण इति द्वे आहुती हुत्वा राडसि विराडसीति यजमानायतन औदुम्बरीमासन्दी प्रतिष्ठापयति॥२॥ 

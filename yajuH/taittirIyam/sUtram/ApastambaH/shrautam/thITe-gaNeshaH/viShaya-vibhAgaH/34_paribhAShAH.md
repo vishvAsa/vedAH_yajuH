@@ -4,7 +4,8 @@ title = "34 Paribhāṣāḥ"
 +++
 
 THE PARIBHĀSĀ-S OR THE GENERAL RULES. 
-XXIV.1 
+## 24.01
+
 यज्ञं व्याख्यास्यामः॥१॥ 1. We shall explain sacrifice. स त्रयाणां वर्णानां ब्राह्मणराजन्ययोर्वैश्यस्य च॥२॥ 
 2. It is meant for three classes Brāhmana, Ksatriya, and Vaiśya. 
 स त्रिभिदैविधीयते॥३॥ 3. It is performed with the help of three Vedas. ऋग्वेदयजुर्वेदसामवेदैः॥४॥ 
@@ -100,7 +101,8 @@ sacrifice (XVIII.6.7. Cp. XVIII.2.7). वचनादेकं कर्म ब�
 Sūtra above. 
 1416 
 . 
-XXIV.2 मन्त्रान्तैः कर्मादीन्संनिपातयेत्॥१॥ 
+## 24.02
+मन्त्रान्तैः कर्मादीन्संनिपातयेत्॥१॥ 
 1. (A priest) should cause the end of the formulae coincide with the beginnings of each formula. 
 आघारे धारायां चादिसंयोगः॥२॥ 
 2. At the time of the Āghāras' and that of the Vasordhāra? the beginning of the formula should conincide with the beginning of the ritual. 
@@ -296,7 +298,8 @@ Agni.'
 53. And (the substitute) should have the same properties (as the original has). 
 मात्रापचारे तच्छेषेण समाप्नुयात्।।५४॥ 
 54. In the insufficiency of the adequate quantity, one should complete the work by means of the remaining substance (itself). 
-XXIV.4 स्वामिनो ऽग्नेर्देवतायाः शब्दात्कर्मणः प्रतिषेधाच्च प्रतिनिधिनिवृत्तः॥१॥ 
+## 24.04
+स्वामिनो ऽग्नेर्देवतायाः शब्दात्कर्मणः प्रतिषेधाच्च प्रतिनिधिनिवृत्तः॥१॥ 
 1. The substitute is stopped (i.e. not allowed) for the owner (i,e. the sacrificer), the fire, the word (i.e. the formula), the action, and for the prohibited.1 
 1. Thus for example when it is said that the beans should not be 
 ; offered, this prohibition remains al ways valid. त्रिभिः कारणैः प्रकृतिर्निवर्तते प्रत्याम्नानात्प्रतिषेधादर्थलोपाच्च॥२॥ 

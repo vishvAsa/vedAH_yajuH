@@ -3,7 +3,8 @@ title = "33 sattrāṇi"
 
 +++
 THE SATTRA (SACRIFICIAL SESSIONS) 
-XXIII.1 चतुर्विंशतिपरमाः सत्त्रमासीरन्॥१॥ 
+## 23.01
+चतुर्विंशतिपरमाः सत्त्रमासीरन्॥१॥ 
 1. At the most twenty-four (persones) may perform a sacrificial session. 
 तेषां द्वादशाहेन सत्तभूतेन कल्पो व्याख्यातो यानि पुरस्तात्संवत्सरात्। गवामयनेनेतरेषाम्॥२॥ 
 2. The procedure of those sessions which (come to an end) before a year, has been explained by (the explanation of the Dvādaśāha of Sattra-type'; of others by the Gavāmayana.2 
@@ -48,7 +49,8 @@ _-_1. Cf. TMB XXIII.4.1. TS VII.3.5.1 तृतीयमृद्धिकाम
 1. Cr. TMB XXIII.5.1. 
 1377 
 1377 
-XXIII.2 
+## 23.02
+
 चत्वारः पञ्चदशरात्राः॥१॥ 1. There are four fifteen-day-sacrificial-sessions. देवत्वं गच्छति॥२॥ 
 2. (The sacrificer) goes to the state of being god (by means of the first out of them).2 
 1. We should read plural here, because sacrificial session is not 
@@ -101,7 +103,8 @@ __1. Cf. TS VII.3.9.2.
 अतिरात्रो ऽभिप्लवः षडहो ऽभिजिद्विश्वजितौ द्वादशाहस्य दशाहान्य तिरात्रः॥२०॥ 
 20. (The days in it are as follows): an Atiratra, the Abhiplava six-day-period, an Abhijit day, a Viśvajit day the ten-day-period of the Dvādaśāha, and an Atirātra. 
 __1. Cf. TMB XXIII.14.1. 
-XXIII.3 द्वावेकविंशतिरात्रौ॥१॥ 1. There are two twenty-one-day-sacrificial-sessions. यं कामं कामयन्ते तमभ्यश्नुवते॥२॥ 
+## 23.03
+द्वावेकविंशतिरात्रौ॥१॥ 1. There are two twenty-one-day-sacrificial-sessions. यं कामं कामयन्ते तमभ्यश्नुवते॥२॥ 
 2. (The performers) obtain whatever they desire (by means of the performance of the first twenty-one-day-sacrificial session). 
 अतिरात्रो ऽभिप्लवः षडहो ऽतिरात्रो द्वावभिप्लवावतिरात्रः॥३॥ 
 3. (The days in it are as follows): an Atirātra, the Abhiplava six-day-period, an Atiratra, two Abhiplava-day-periods, and an Atiratra.1 
@@ -139,7 +142,8 @@ ___1. Cf. TMB XXIII.18.1. द्वौ चतुर्विंशतिरा�
 ____1. For this session see TMB XXIII.20.1ff. अतिरात्रो द्वावभिप्लवौ द्वादशाहस्य दशाहान्यतिरात्रः॥१६॥ 
 16. (The days in it are as follows:) an Atirātra, two Abhiplava six-day-periods, the ten days of the Dvādaśāha and an Atirātra. 
 1. Cf. TMB XXIII.19.2. 
-XXIII.4 
+## 23.04
+
 संसदा चतुर्विंशतिरात्रेण स्वर्गे लोके सीदन्ति॥१॥ 
 1. By means of the second twenty four days sacrificial session named Samsad ("sitting together") (the performers) sit in the heavenly world. 
 . 1. Cf. TMB XXIII.19.2. 
@@ -185,7 +189,8 @@ ___ 1. Cr. TMB XXIII.25.1. त्रिंशदात्रमन्नाद�
 1. Cf. TMB XXIII.26.1. Āpastamba does not deal with the thirty 
 day-sacrificial-session of its own Sakha. (TS VII.4.3.1ff.) 
 1385 
-XXIII.5 
+## 23.05
+
 एकत्रिंशद्रात्रमन्नाद्यकामा उपेयुः॥१॥ 
 1. (The peformers) desirous of food should perform the thirty-one-day-sacrificial-session. 
 एता एव समहाव्रताः॥२॥ 
@@ -214,7 +219,8 @@ __1. Cf. TMB XXIV.2.1. तृतीयमृद्धिकामा उपे�
 अतिरात्रो ज्योतिग्रायुस्त्र्यहस्त्रयो ऽभिप्लवा द्वादशाहस्य दशाहानि महाव्रतमतिरात्रश्च॥१३॥ 
 ___13. (The days in it are as follows:) an Atiratra, the three day-period of Jyotis, Go, Ayus, three Abhiplava six-day periods, the ten-day-period of the Dvādaśāha; a Mahāvrata day and an Atirātra.' 
 1. Cf. TMB XXIV.4.1. 
-XXIII.6 पञ्चत्रिंशद्रात्रं पशुकामा उपेयुः॥१॥ 
+## 23.06
+पञ्चत्रिंशद्रात्रं पशुकामा उपेयुः॥१॥ 
 1. (The performers) desirous of cattle should perform the thirty-five-day-sacrificial-session. 
 1387 अतिरात्रो ज्योतिर्गौरायुर्गौरायुःपञ्चाहस्त्रयो ऽभिप्लवा द्वादशाहस्य दशा हान्यतिरात्रः॥२॥ 
 2. (The days in it are as follows:) an Airātra, the five-day period Jyotis, Go, Aus, Go, Ayus, three Abhipalva six-day periods, the ten days of the Dvādaśāha and an Atirātra.' 
@@ -281,7 +287,8 @@ performing a year long-sacrificial-session.
 अतिरात्रश्चतुर्विंश उक्थ्य आरम्भणीयस्त्रिवृद्वा त्रयो ऽअभिप्लवा अभिजि त् त्रयः स्वरसामानो दिवाकीर्त्यमहस्त्रयः स्वरसामानो विश्वजिदेको ऽभिप्लव आवृत्त आयुगौादशाहस्य दशाहानि महाव्रतमतिरात्रश्च॥१३॥ 
 13. (The days in it are as follows:) an Atirātra, an Ukthya with twenty-four-versed or nine-versed-stoma as the introdu ctory day, three Abhijit six-day-periods, an Abhijit, three Svara Saman-days, the Divākirtya (i.e. Visuvat-day), three Svarasa man-days, a Visvajit, an Abhiplava six-day-priod in the reverse order, an Āyus, a Go, the ten days of the Dvādaśāha, the Mahāvrata day and an Atirātra.! 
 1. Cf. TMB XXIV.14.1. 
-XXIII.8 सवितुः ककुभः पञ्चमः॥१॥ 
+## 23.08
+सवितुः ककुभः पञ्चमः॥१॥ 
 1. The fifth (forty-nine-day sacrificial-session is the Peak of Savitr. 
 ___ 1. For this session cf. TMB XXIV.15.1ff. सर्वस्यानाद्यस्य प्रसवं गच्छन्ति॥२॥ 
 2. (The performers) go to the inspiration (obtainment) of all the foodl. 
@@ -318,7 +325,8 @@ ____1. Cf. TMB XXIV.19.1. अभिप्रयायाभिषुण्वन
 VARIATIONS OF THE GAVĀMAYANA 
 . ( 
 (-SACRIFICIAL SESSION) 
-XXIII.9 आदित्यानामयनेन प्रजातिं भूमानं गच्छन्त्यभि स्वर्ग लोकं जयन्त्येषु लोकेषु प्रतितिष्ठन्ति॥१॥ 
+## 23.09
+आदित्यानामयनेन प्रजातिं भूमानं गच्छन्त्यभि स्वर्ग लोकं जयन्त्येषु लोकेषु प्रतितिष्ठन्ति॥१॥ 
 1. (The performers obtain progeny, become many, win the heaven, get themselves established firmly in these worlds 
 1394 
 ApSs Translation : THITE 
@@ -365,7 +373,8 @@ ____1. Cp. Sutra 9 above.
 अथैकेषाम्॥ पृष्ठ्या आक्ष्यन्ति चादित्यानामयनमभिप्लवा आक्ष्यन्ति चाङ्गिरसामयनम्। यदन्यत्पृष्ठ्याभिप्लवेभ्यस्तान्याक्ष्यन्तीत्याचक्षते॥१६॥ 
 ___16. Now according to some the Adityānām ayanam should consist of only Prsthya-six-day-periods and the Aksyat-days and the Angirasām Ayanam should consist of only Abhiplava six-day periods and the Aksyat-days. They say that whatever is different from the Prşthya and Abhiplava is called Akşyat. 
 1. Cf. AB IV.17. 
-XXIII.10 दृतिवातवतोरयनेन यं कामं कामयन्ते तमभ्यश्नुवते॥१॥ 
+## 23.10
+दृतिवातवतोरयनेन यं कामं कामयन्ते तमभ्यश्नुवते॥१॥ 
 1. (The performers) obtain whatever thing they desire by means of (the performance of) the Dṣṭivātavator ayanam (sacrificial session).1 
 1. Cp. TMB XXV.3.4. अतिरात्रावभितः॥२॥ 2. There are Airātras on both the sides. 
 1. Cr. XXIII.1.3. 
@@ -397,7 +406,8 @@ Varuņapraghāsas for one month; Sākamedhas of one month. Sunāsīrya for one m
 1. Cf. TMB XXV.4.5. Thus except Subrahmaṇya each one of the 
 other priests have to carry out the duties of three priests. Thus each one of these must be expert in three Vedas. 
 1399 
-XXIII.11 तापश्चितामयनं स्वर्गकामा उपेयुः॥१॥ 
+## 23.11
+तापश्चितामयनं स्वर्गकामा उपेयुः॥१॥ 
 1. (The performers) desirous of heaven should perform (the sacrificial-session called) Tāpaścitām ayanam.' 
 संवत्सरं दीक्षाः। संवत्सरमुपसदः॥२॥ 
 2. The Dīkṣā (period should be) one year; the Upasad period should be) one year.1 
@@ -510,7 +520,8 @@ gift to a Brāhmaṇa other than the participants in the sacrificial session) th
 ___ 1. Cf. TMB XXV.10.22-23. द्वितीये त्रिवृबृहस्पतिसवो गोआयुषी इन्द्रकुक्षी॥७॥ 7. In the second (Sarasvata sacrificial session there should 
 1406 
 ĀPŠS Translation : THITE 
-XXIII.13 
+## 23.13
+
 be a day with nine-versed-stoma, the Bṣhaspatisava, the Go, and the Āyus as the bellies of Indra (Indrakukşi)." 
 1. Cp. TMB XXV. 11.1. In the place of a day with fifteen-versed 
 stoma, Āpastamba has mentioned Bệhaspatisava. In every month in the first fortnight every day a sacrifice with nine-versed-stoma is to be performed; in the second fortnight every day BỊhaspatisava is to be performed. Then on every Full-moon-day the Go and on every New-moon-day the Āyus is to be performed. The Go and 
@@ -536,7 +547,8 @@ perform the ritual where it falls. This goes on everyday. त्रिःप्�
 तदैवं मनुष्येभ्यस्तिरो भवति॥१५॥ 
 15. Then everyone of the performers disappears from the (other men).1 
 1. For the Sūtras 11-15 cf. TMB XXV. 13.1ff. 
-XXIII.14 
+## 23.14
+
 तुरायणेन सर्वामृद्धिमृध्नोति॥१॥ 
 1. BY means of the (performance of the) Turāyana (the course of Tura) one prospers all the prosperity. 
 अदीक्षितः कृष्णाजिनं प्रतिमुञ्जते। मानुषीं तेनर्द्धिमृध्नोति॥२॥ 

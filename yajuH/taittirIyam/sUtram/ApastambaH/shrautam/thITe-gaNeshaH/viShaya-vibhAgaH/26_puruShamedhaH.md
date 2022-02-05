@@ -3,7 +3,8 @@ title = "26 Puruṣamedhaḥ"
 
 +++
 PURUSAMEDHA (MAN-SACRIFICE) 
-XX.24 
+## 20.24
+
 पञ्चाहः पुरुषमेधः॥१॥ 
 1. Purusamedha (Man-sacrifice) is a five-day (Soma sacrifice). 
 ब्राह्मणो राजन्यो वा यजेत॥२॥ 2. A Brahmin or a Kṣatriya may perform(it). 
@@ -47,7 +48,8 @@ ning sticks, having paid homage to the sun with the second Nārāyana-hymn (the 
 17. Optionally, having entered into the village, he should perform the Traidhātarīyā-offering,' 
 1. The sentence is incomplete. It will be complete in the first Sutra of 
 the following chapter. 
-XX.25 सौत्रामण्या मैत्रावरुण्या चामिक्षया साकंप्रस्थायीयेन पञ्चबिलेन चरुणा पञ्चशारदीयेनेति॥१॥ 
+## 20.25
+सौत्रामण्या मैत्रावरुण्या चामिक्षया साकंप्रस्थायीयेन पञ्चबिलेन चरुणा पञ्चशारदीयेनेति॥१॥ 
 1. Sautrāmaṇi offering and an offering of milk-mess (Āmikṣa) for Mitra and Varuṇa, the Sakaṁprasthāyīya? offer ing, a five-holed rice-pap and the Pañcaśāradīyaofferings 
 1. The text reads 'ca'. Caland suggests va and compares XVIII.7.15. 
 This suggestion appears to be plausible. 2. Sec III.16. 11-17.3. 3. For the details see the next Saira. 4. For this sec XXII.20.9-21.11. 5. For this Sotra cp. SB XIII.6.2.20. While translating these two 

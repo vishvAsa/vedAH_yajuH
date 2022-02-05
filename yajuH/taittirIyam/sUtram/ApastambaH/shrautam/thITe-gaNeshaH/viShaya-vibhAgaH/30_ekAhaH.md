@@ -3,7 +3,8 @@ title = "30 Ekāhaḥ"
 
 +++
 ONE-DAY-SOMA-SACRIFICES: EKĀHA-S 
-XXII.1 एकाहेष्वहीनेष्विति प्राकृतीदक्षिणा ददाति। यथासमाम्नातं वा॥१॥ 
+## 22.01
+एकाहेष्वहीनेष्विति प्राकृतीदक्षिणा ददाति। यथासमाम्नातं वा॥१॥ 
 1. In the one-day-sacrifices and Ahīnas (having two to twelve-soma-sacrificial days) (the sacrificer) should give the same gifts (as are to be given) in the basic paradigmatic Soma sacrifice or as has been mentioned in the sacred texts.' 
 1. e.g. XXII.4.24. सर्वक्रतूमा प्रकृतिरग्निष्टोमः। निकायिनां तु प्रथमः सर्वत्र। यथादिष्टं AT11P11 
 2. The basic paradigm for all the sacrifices is Agniṣṭoma; that for the (sacrifices which) form group (and are mentioned under one name)' the first (one is the basic paradigm); or as has been mentioned. 
@@ -101,7 +102,8 @@ to the south. ferans: HIS: HTASUT:118411
 25. A three-years-old uncastrated bull (should be used) for purchasing Soma.' 
 1. Cf. TMB XVI.13.9. 
 1301 
-XXII.3 उदित आदित्ये दीक्षिते प्रागस्तमयादवभृथः॥१॥ 
+## 22.03
+उदित आदित्ये दीक्षिते प्रागस्तमयादवभृथः॥१॥ 
 1. After the sun-rise one undergoes the consecration-rite; before the sun-set, the Avabhrtha-rite (is to be performed). 
 उपसत्सु त्रिः संमीलेत्। संमील्य वा प्रचरेत्। अपि वा नापराह्निक्य उपसदः॥२॥ 
 2. During the Upasad(day)s, one should close the eyes thrice (for each Upasad), or having closed the eyes earlier one should perform the Upasads; or there should be no afternoon Upasads. 
@@ -136,7 +138,8 @@ ___1. Cp. TMB XVI.12.4.
 ApSs Translation : THITE 
 1303 यदि संवत्सरं न शक्नुयाद्वादशाहम्॥१८॥ 
 18. If he is not able (to observe the vow) for a year, he may observe it) for twelve days. 
-XXII.4 एतेनोत्तरे व्याख्याताः॥१॥ 
+## 22.04
+एतेनोत्तरे व्याख्याताः॥१॥ 
 1. With the (first Sadyaskra) the next (Sadyaskras) are (as good as) explained. 
 द्वितीयस्य पञ्चदशमग्निष्टोमसाम कृत्वामयाविनमनद्याकामं प्रजाकामं पशुकामं वा याजयेत्।२॥ 
 2. (The Adhvarya) should cause a sacrificer who is dis eased, or desirous of cattle to perform the second (type of Sadyaskra) after having made the Agnistoma-sāman to be sung on fitteen verses.' 
@@ -178,7 +181,8 @@ fered) to Rudra Anikavat. The Upāmśu and Antaryāma-cups should be deposited.2
 1306 
 चतुर्विंशतिं गा दक्षिणा ददाति॥२९॥ 
 29. One should give twenty-four cows as the sacrificial gifts (in this sacrifice). 
-XXII.5 
+## 22.05
+
 met arat: 71141:118 11 1. There are three Vācaḥ Stomas (Stomas of Speech). पूर्वावग्निष्टोमौ रथंतरसामानौ। सर्वस्तोमो ऽतिरात्र उत्तरः॥२॥ 
 2. The First two are Agniṣtomas with the Rathantara as the first Prṣthastotra, the third is an Atirātra with all the Stomas. 
 तस्मिन्सर्वा ऋचः सर्वाणि सामानि सर्वाणि यजूंषि प्रयुज्यन्ते॥३॥ 
@@ -211,7 +215,8 @@ __ 1. Cf. TMB XVII 2.3; 4 and 1. . . आदित्यानां प्रय
 _17. The others are to be performed as Agnistomas. The second belongs to Angirases; the third to Sādhyas; one obtains strength and valour by means of the fourth which belongs to Maruts. 
 स्वर्गकामो ऽभिभुवा भ्रातृव्यमभिभवति। विनुत्त्या भ्रातृव्यं विनुदते॥१८॥ 
 18. The sacrificer desirous of heaven, defeats his enemy by means of the Abhibhū-sacrifice; by means of the Vinutti sacrifice one removes ones enemy. 
-XXII.6 
+## 22.06
+
 चितिस्तोमः प्रजननकामः॥१॥ 
 1. The Citistoma is to be performed by one who wants progeny.1 
 1. For this sacrifice see JB II.16-163. गायत्रेणाग्निष्टोमेन रथंतरसाम्ना ब्राह्मणो ब्रह्मवर्चसकामः॥२॥ 
@@ -253,7 +258,8 @@ of the JB.
 2. Cp.JB II.135. त्रिणव ओजस्कामः॥१९॥ त्रयस्त्रिंशः स्वर्गकामः। अपि वा ज्योतिष्टोम एव॥२०॥ 
 अग्निष्टोमे सर्वान्कामान्कामयेत॥२१॥ 
 19-21. The Agnişgut with twenty-seven-versed-stoma is (to be performed) for one who desires power (the Agnişṭut) with thirty-three-versed-stoma is to be performed for one who desires heaven; or it should he Jyotiņśoma (Agniṣtoma) itself; one obtains all the desires in the Agniṣtoma. 
-XXII.7 
+## 22.07
+
 चत्वारस्त्रिवृतो ऽग्निष्टोमा रथंतरसामानः॥१॥ 
 1. There are four Agniṣtoma-sacrifices with nine-versed Stomas and with Rathantara as the first Pṣşthastotra.' 
 1. These four Agniştomas are called Prajāpater apūrva (XXII.7.1 
@@ -323,7 +329,8 @@ priests may complete it. In the second alternative the nearest relative
 of the sacrificer should work as the sacrificer. भुवोक्थ्येन रथंतरसाम्ना भूतिकामो यजेत॥२६॥ 
 26. One who is desirous of prosperity should perform the sacrifice (called) Bhū, which should be an Ukthya and should have Rathantara as its first Pṣştha-stotra. 
 1. Cf. Šānkhāss XXVI.17. धेनुर्दक्षिणा॥२७॥ 27. A milk cow is the sacrificial gift. 
-XXII.8 अक्षय्यं ह वै चातुर्मास्ययाजिनः सुकृतं भवति॥१॥ 
+## 22.08
+अक्षय्यं ह वै चातुर्मास्ययाजिनः सुकृतं भवति॥१॥ 
 1. The merit of the performer of Cāturmāsya-sacrifices is indeed inexhaustible. 
 1. Cp. SB II.6.3.1, ApSs VIII.1.1. वैश्वदेवस्य लोके त्रिवृदग्निष्टोमः॥२॥ 
 2. On the place of the Vaisvadeva there should be an Agni ṣgoma all the Stotras of which should be nine-versed. 
@@ -373,7 +380,8 @@ ___18. The sacrificial breads for Maruts Kridinst (are off ered), after the sacr
 2. Contrast VIII.13.2. त्रयम्बकैश्चरित्वा प्रत्येत्यादित्येन चरन्ति॥२०॥ 
 20. Having performed the offering of sacrificial breads, for Tryambakas,' having returned, they perform the offering of rice-pap for Aditi. 
 1. See VII.17.1ff. 2. See VIII.19.1-4. 
-XXII.9 ततश्चतुर्षु मासेषु शुनासीरीयस्य लोके ज्योतिरग्निष्टोमः॥१॥ 
+## 22.09
+ततश्चतुर्षु मासेषु शुनासीरीयस्य लोके ज्योतिरग्निष्टोमः॥१॥ 
 1. Then, after four months, aJyotistoma Agnistoma should be performed in the place of the Sunāsīrīya. 
 वायव्यः पशुः। आश्विन्यनूबन्ध्या॥२॥ 
 2. The sacrificial victim should be offered to Vāyu; the Anūbandhyā (cow) to Asvins. 
@@ -429,7 +437,8 @@ given as a sacrificial gift in this sacrifice. द्वादशमानं �
 20-21. At the time of the Dīksanīyā-offering (the sacrificer) gives gold weighing twelve Mānas; at the time of Prāyaṇīyā, double this. In this manner double (gold is to be given) hence forth at the time of Atithya (-offering), at the time of the performance of the Upasads, at the time of the (offering of the) omentum (of the victim) for Agni-and-Soma, at the time of (the offering of the) omentum of (the victim to be offered on) the Savanīya (Soma-pressing-day), at the time of the offering (of the sacrificial breads) connected with the Savana. 
 सन्नेषु नाराशंसेष्वनडुच्छतमधिकं ददाति॥२२॥ 
 22. At the time of the morning-pressing, after the Narasamsa-cups are placed, (he gives) one hundred bulls (in addition to the gold). 
-XXII.10 हिरण्यस्त्रजमुद्गात्रे षट्पुष्करां द्वादशपुष्करां वा यज्ञायज्ञीयस्य स्तोत्रे ऽवभृथष्टयामुदयनीयायामनूबन्ध्यायामुदवसानीयायां च॥१॥ 
+## 22.10
+हिरण्यस्त्रजमुद्गात्रे षट्पुष्करां द्वादशपुष्करां वा यज्ञायज्ञीयस्य स्तोत्रे ऽवभृथष्टयामुदयनीयायामनूबन्ध्यायामुदवसानीयायां च॥१॥ 
 __1. To the Udgatr the sacrificer gives a golden garland con sisting of six lotuses or twelve lotuses; at the time of the Yajñā 
 1322 
 ĀpsS Translation : THITE 
@@ -476,7 +485,8 @@ __1. Cr. TMB XIX.1.1-2. विराजान्नाद्यकामः॥ �
 21. One who is desirous of food should perform the Virāj' (-sacrifice); one who is desirous of firm establishment should perform the Svaraj (-sacrifice). 
 1. Cp. TMB XIX.1.1ff. TMB calls it Raj. 2. Cp. TMB XIX.2.1ff. TMB calls it Viraj. 
 1325 
-XXII.11 
+## 22.11
+
 बह प्रतिगृह्य यो गरगीरिव मन्येत स पुनस्तोमेन। अनाश्यान्नस्य वा भुक्त्वा ॥१॥ . 1. Having accepted a lot, one who thinks that one has .. swallowed poison as it were, should perfom the Punahstoma 
 sacrifice; or having eaten the food of someone who does not deserve for eating his food, one should perform Punahstoma sacrifice. 
 1. Cp. TMB XIX.4.2. 
@@ -529,7 +539,8 @@ Marāya is a bigger heap. Cf. JB II.164. गोतमचतुष्टोमा
 उभयत्र गायत्रीः संपूर्णा दक्षिणा ददाति॥२२॥ 
 22. In both of these he should give sacrificial gifts (cows) equal to (the number of syllables in) Gayatri (metre'.) 
 1. See the next Sūtra. 
-XXII.12 
+## 22.12
+
 अष्टावष्टौ॥१॥ 1. Eight in each (of these sacrifices).1 
 1. See XXII. 11.21. अपचितिकामो ऽपचितिभ्याम्॥२॥ 
 2. (A sacrificer) desirous of worship should perform the two Apaciti (-sacrifices).! 
@@ -576,7 +587,8 @@ _1. Cf. TB II.7.6.2.
 20. To the south of the Āhavanīya, within the Mahāvedi, not raised up, after the Brhat-stotra is over, the sacrificer is sprinkled upon (by the Adhvaryu) with fresh milk with revatjjātah....' 
 1. Cf. TB II.7.6.2. 
 1331 
-XXII.13 तेनेष्ट्वा संवत्सरं पशुव्रतो भवति॥१॥ 
+## 22.13
+तेनेष्ट्वा संवत्सरं पशुव्रतो भवति॥१॥ 
 1. Having performed it (the Gosava-sacrifice) (the sacri ficer) should observe vow of (living like) an animal (i.e. a bull) for one year. 
 उपावहायोदकं पिबेत्तृणानि चाच्छिन्द्यात्। उप मातरमियादुप स्वसारमुप सगोत्राम्॥२॥ 
 2. Having bent he should drink water and cut (eat) grass. He should practise sexual intercourse with his mother, sister (and) one belonging to his own family. 

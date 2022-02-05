@@ -4,7 +4,8 @@ title = "21 Sautrāmaṇi"
 +++
 ## Caraka-Sautrāmaṇi
 SAUTRĀMAŅI: CARAKA-SAUTRĀMANĪ 
-XIX.1 यहे परस्तात्सीसेन क्लीबाच्छष्पाणि क्रीत्वा क्षौमे वासस्युपना निधाय सौत्रामण्यास्तन्त्रं प्रक्रमयति॥१॥ 
+### 19.01
+यहे परस्तात्सीसेन क्लीबाच्छष्पाणि क्रीत्वा क्षौमे वासस्युपना निधाय सौत्रामण्यास्तन्त्रं प्रक्रमयति॥१॥ 
 1. Having purchased three days earlier (to the proper performance of the Sautrāmaṇī), the shoots (of Barley), from a euhuch with lead, then having kept and tied them in a cloth (the Adhvaryu) starts the procedure of the Sautrāmani. 
 1. Cf. TB I.8.5.3. तस्या निरूढपशुबन्धवत्कल्पः॥२॥ 
 2. The performance of it is similar to (that of) Nirudha paśubandha (an animal-sacrifice independent of the Soma sacrifice).' 
@@ -58,7 +59,8 @@ pours it into the Sata-vessel), keeps it on the head of a Brāhmana, 2 or on the
 are prescribed. The verses TB II.6.1.2-3 are meant for the Kaukili- Sautrāmaṇi (cf. XIX.6.12). See also TB 1.8.5.5; ŚB 
 XII.7.3.9-10. पूतां यथायतनं सादयित्वैकयूपे पशूनुपाकरोति॥२०॥ 
 20. After having placed the purified Surā on the concerned place (i.e. either on the head of a Brāhmaṇa or on the mound), he dedicates the victims on the single sacrificial post. 
-XIX.2 आश्विनं धूप्रमजं सारस्वतं मेषमैन्द्रमृषभं वृष्णिं वा बार्हस्पत्यम्॥१॥ 
+### 19.02
+आश्विनं धूप्रमजं सारस्वतं मेषमैन्द्रमृषभं वृष्णिं वा बार्हस्पत्यम्॥१॥ 
 1. (the victims): a gray he-goat for Asvins, a ram for Sarasvat, and a bull' or ram for Bṣhaspati. 
 1. TS 1.8.21.6; TB 1.8.5.6.-.. 
 2. Cf. KS XII.12. चतुर्थं सोमवामिनः सोमातिपवितस्य वा॥२॥ 
@@ -111,7 +113,8 @@ ___1. Cp. SB V.5.4.24; cf. MS IV.12.5.
 1105 युवं सुराममश्विना नमुचावासुरे सचा। विपिपाना शुभस्पती इन्द्रं स्वावतम्॥ पुत्रमिव पितरावश्विनोभेन्द्रावतं कर्मणा दंसनाभिः। यत्सुरामं पिबः शचीभिः सरस्वती त्वा मघवन्नभीष्णादिति सर्वदेवत्ये याज्यानुवाक्ये भवतः॥१९॥ 
 19. yuvam surām and putramiva...' are to be used as invitatory and offering verses; they are connected with all the deities. 2 
 1. Both these verses are found in TB 1.4.2.1. 2. Cf. I.8.6.1. 
-XIX.3 
+### 19.03
+
 सोमस्याग्ने वीहीत्यनुयजति॥१॥ 
 1. The Hotr̥ utters the words samasyāgne vihi at the time of the second offering.1 
 ___ 1. Cf. SB V.5.4.26. 
@@ -205,7 +208,8 @@ ___ 1. Cf. SB XII.7.2.10-11. चूर्णानि तानि दनोद�
 11. Having made the flour of Śyāmāka grains at the time of preparation of Surā,' having mixed the Surā? with the germinated rice, Māsara and Nagnahu,2 (the Adhvaryu), having spread one-third of the (Syāmāka)-flour (on it), having poured the milk of one cow on it with parito sincatā sutam... having spread another one-third (of the Syāmāka flour), (having poured) milk of two cows (on it) with the same(formula), having spread the third one-third (of the Syāmāka flour), having poured) milk of three cows (on it) with the same (formula)* (he allows) the mixture to remain for three nights. 
 1. Sec XIX.1.7. 2. Cp. XIX.1.8. 3. VS XIX.2. 4. Cp. SB XII.8.2.11-12. 
 1112 
-XIX.6 अवटस्थाने कारोतरमेके समामनन्ति॥१॥ 
+### 19.06
+अवटस्थाने कारोतरमेके समामनन्ति॥१॥ 
 1. Instead of the cavity a Bamboo-sievel (is to be used) according to some. 
 1. Karotara. Cf. SB XII.9.1.2; KatyaSS XIX.2.7. बैदलश्चर्मनद्धो भवति॥२॥ 
 2. It is made out of hollow Bamboo and wound with (cow) leather. 
@@ -239,7 +243,8 @@ ____1. TB II.6.1.3. पाशुकान्याज्यानि गृह�
 : the invitatory verse, one and the same is the Order (given the 
 Adhvaryu) and one and the same is the offering verse2. 
 1. TB II.6.1.3. 2. See XIX.2.8, 8.7.9. 
-XIX.7 
+### 19.07
+
 उपयामगृहीतो ऽस्यश्विभ्यां त्वा जुष्टं गृह्णामीति गृहीत्वा यवसक्तुभिः श्रीत्वा पवित्रेण परिमृज्यैष ते योनिस्तेजसे त्वेति सादयित्वोपयामगृहीतो ऽसीन्द्राय त्वा सुत्राम्णे जुष्टं गृह्णामीति गृहीत्वोपवाकासक्तुभिः श्रीत्वा पवित्रेण परिमृज्यैष ते योनिर्बलाय त्वेति सादयित्वोत्तरैर्यथालिङ्गमुपतिष्ठते॥१॥ 
 __1. After having drawn (the milk-soop) with upayāma grhito'si... having mixed barley flour in it, having wiped (the cup) by means of the (eagle) feather, having deposited it (the cup) (on the mound) with esa te yonih...; then having drawn (the second cup) with upayāmagrhito'si..., having mixed the wheat flour in it, having wiped the cup by means of (eagle) feather, having deposited (it on the mound) with esa te yonih; then having drawn (the third cup) with upayāmagrhito'si..., having mixed the Upavākāflour in it, having wiped (it) by means of (eagle) feather, having deposited (it on the mound) with esa te yonih..., (the Adhvaryu) stands near (the cups) while praising (them) with the following (formulae) each in accordance with the characteristic word (in the formula). 
 1. For all these formulae See TB II.6.1.3-4. 2. In Garbe's edition the word Pavitrena is used. In the footnote the 
@@ -265,7 +270,8 @@ ___6. Having drawn (the third scoop) with upayāma grhito'si...,' having wiped i
 8. The Adhvaryu and the sacrificer stand near the depo sited cups while praising (them)with the remaining chapter and (then) with the next chapter'. 
 1. TB II.6.1.5 (from ojo'si onwards) and II.6.2.1-3. 
 1116 
-XIX.8 पूर्ववत्पशूनुपाकरोति॥१॥ 1. (The Adhvaryu) dedicates the animals as earlier, 1 
+### 19.08
+पूर्ववत्पशूनुपाकरोति॥१॥ 1. (The Adhvaryu) dedicates the animals as earlier, 1 
 1. See XIX.2.1. This Sūtra is completed in the next Sūtra. 
 2. See VII.12.5-8. बार्हस्पत्यवर्जं समानमा पर्यग्निकरणात्॥२॥ 
 2. except the one for Brhaspati, (the ritual upto the carrying of fire around (the animal)' is the same. 
@@ -303,7 +309,8 @@ the remaining milk to the father, grand-father and to the great grand-father wit
 2. TB II.6.3.2-1. पुनन्तु मा पितरः सोम्यास इत्युपतिष्ठते॥१५॥ 
 15. He stands praising (the ancestors)with punantu mā pitaraḥ somyāsaḥ. 
 1. TB II.6.3.3-4. 
-XIX.9 
+### 19.09
+
 अथाहुती जुहुतः। ये समाना इत्यध्वर्युः। ये सजाता इति प्रतिप्रस्थाता॥१॥ 
 1. Then (the Adhvaryu and Pratiprasthātr) offer two libations: The Adhvaryu with ye samānāḥ... '; the Pratiprasthāts with ye sajātāh.2 
 1. TB II.6.3.4. 2. TB II.6.3.5. According to SB XII.8.1.19-20, it is the sacrificer 
@@ -343,7 +350,8 @@ ___1. Cf. SB XII.8.3.17.
 15. (In the same manner he sprinkles the remnants of the gravy in ) the Aindra (pot) with the last (formula) (on the sacrificer). 
 1. TB II.6.5.2-3. 
 1121 
-XIX.10 को ऽसि कतमो ऽसीति पाणी संमृश्याध्वर्युाहतीर्जुहोति॥१॥ 
+### 19.10
+को ऽसि कतमो ऽसीति पाणी संमृश्याध्वर्युाहतीर्जुहोति॥१॥ 
 1. After having touched together both the hands with ko'si...' (the Adhvaryu) makes the (three ghee)-offerings? (with the (great) Utterances (Vyāhrtis).3 
 1. TB II.6.5.3. 2. Cf. SB XII.8.3.18. 
 3. viz. bhuh, bhuvalh, svah 
