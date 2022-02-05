@@ -77,6 +77,7 @@ ___ 1. TS I. 1.1.d-c.
 
 आप्यायध्वमनिया इन्द्राय देवभागमित्येके समामनन्ति। महेन्द्रायेत्येके॥ 
 39. According to the opinion of some (ritualists) (he should use the words) apyāyadhvaṁ aghniya indrāya devabhagam (in the formula mentioned in Sūtra 4). According to some (oth ers) (he should use the word mahendrāya (instead of indraya in the fromula mentioned just now). 
+
 इन्द्रं निगमेषूपलक्षेयेदिन्द्रयाजिनो महेन्द्र महेन्द्रयाजिनः॥७॥
 40. He should use the word indra in the formulae (to be used in the Sacrifice), of (a sacrificer) offering (sāṁnāyya) to Indra; ........ the word mahendra ...... of ....offering ... to 
 Mahendra.1 

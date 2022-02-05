@@ -335,7 +335,7 @@ known (from a vedic text).”
 1. Thus for example when a particular sacrificial bread is prescribed 
 to be offered to a particular deity, one has to peform the entire ritual of an offering the basic paradigm of which is the New and Full-moon-sacrifices. 
 1421. 
-___XXIV.3 
+## 24.03 
 
 देशे काले कर्तरीति निर्दिश्यते स्वशब्दं यत्॥१॥
 1. Whatever is indicated with its own name (word) is connected with its place, time and the performer (and is to be considered as the principal act). 
@@ -558,8 +558,7 @@ Agni.'
 
 स्वामिनो ऽग्नेर्देवतायाः शब्दात्कर्मणः प्रतिषेधाच्च प्रतिनिधिनिवृत्तः॥१॥
 1. The substitute is stopped (i.e. not allowed) for the owner (i,e. the sacrificer), the fire, the word (i.e. the formula), the action, and for the prohibited.1 
-1. Thus for example when it is said that the beans should not be 
-; offered, this prohibition remains al ways valid. 
+1. Thus for example when it is said that the beans should not be offered, this prohibition remains always valid. 
 
 त्रिभिः कारणैः प्रकृतिर्निवर्तते प्रत्याम्नानात्प्रतिषेधादर्थलोपाच्च॥२॥
 2. The basic paradigm stops (i.e. not followed) on account of three reasons: when there is a counter-sacred-text,' when it is prohibited, or when the purpose will not be served.3 
