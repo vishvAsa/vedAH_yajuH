@@ -3,7 +3,8 @@ title = "11 agniṣṭoma-vikārāḥ"
 
 +++
 FURTHER TYPES OF SOMA-SACRIFICES 
-XIV.1 उक्थ्यः षोडश्यतिरात्रो ऽप्तोर्यामश्चाग्निष्टोमस्य गुणविकाराः॥१॥ 
+## 14.01
+उक्थ्यः षोडश्यतिरात्रो ऽप्तोर्यामश्चाग्निष्टोमस्य गुणविकाराः॥१॥ 
 1. Ukthya, Sodasin, Atiratra, Aptoryāma are the modi fications of the Agniṣṭoma. 
 उक्थ्येन पशुकामो यजेत। षोडशिना वीर्यकामः। अतिरात्रेण प्रजाकामः पशुकामो वा। अप्तोर्यामेणातिरात्रेण सर्वान्कामानवाप्नोति॥२॥ 
 2. (A sacrificer) desirous of cattle should perform an Ukthya sacrifice; ...desirous of power a Sodasin, ...desirous of progeny or desirous of cattle Atirātra...; (the sacrificer) obtains all the desired (things) by means of Aptoryāma-Atirātra. 
@@ -28,7 +29,8 @@ ____10. In all the Soma-sacrificial institutes, (after the ritual of) the last g
 769 
 “O Unnetr, do you fill all the king (Soma); do not let it remain over; having rubbed the jars by means of fringes place them turned down upwards.! 
 1. See XIII. 15.2. 
-XIV.2 अग्नीदीपयजानङ्गारानाहरेत्येतदाद्यग्निष्टोमिकं कर्म सर्वसंस्थासु समानम्॥१॥ 
+## 14.02
+अग्नीदीपयजानङ्गारानाहरेत्येतदाद्यग्निष्टोमिकं कर्म सर्वसंस्थासु समानम्॥१॥ 
 1. The work in Agniṣtoma beginning with the order (of Adhvaryu), “O Āgnīdhra, do you bring the burning coals for the additional offering”is common to all the (Soma-sacrificial) institutes. 
 1. See XIII. 16.12; XIII.15.9. 
 THE SODAĆIN या वै षोडश्युक्थ्यचमसानामुत्तमं गणमुन्नयन्नेकस्मै चमसगणाय राजान मतिरेचयति॥२॥ 
@@ -64,7 +66,8 @@ ___ यस्मान्न जातः परो अन्यो अस्त
 13. With the four (verses) beginning with yasmānna jātaḥı having addressed the (scoop) which has been deposited (on the Khara-mound),2 
 1. TB II.7.9.5-6. 2. Cf. TMB XII.13.32, JB I.205. The sentence in the Sutra is 
 incomplete. See the next Sutra. 
-XIV.3 
+## 14.03
+
 समयाविषिते सूर्ये हिरण्येन षोडशिनः स्तोत्रमुपाकरोति॥१॥ 
 1. (the Adhvaryu) bespeaks the Stotra connected with the Sodasin (scoop) by means of gold, while the sun is (only) half set down. 
 1. Cf. TMB XII.13.25; JB I.194. 
@@ -104,7 +107,8 @@ for the Sastras corresponding them see Sankhass IX.7-18; cp.
 14. The Adhvaryu performs the ritual with the first two scoops; the Pratiprasthātr with the last two (scoops). 
 एष प्रथमः पर्यायः॥१५॥ 15. This is the first round. एवं विहितो द्वितीयस्तृतीयश्च॥१६॥ 
 16. The second as well as third round is prescribed (to be performed) in the same manner. 
-XIV.4 अथ प्रतिप्रस्थाताश्विनं द्विकपालं निर्वपति॥१॥ 
+## 14.04
+अथ प्रतिप्रस्थाताश्विनं द्विकपालं निर्वपति॥१॥ 
 1. Then the Pratiprasthatr pours out the material (i.e. unhusked rice-grains) for the sacrificial bread on two potsherds to be offered to Asvins." 
 1. Cf. KB XVII.1. 
 774 

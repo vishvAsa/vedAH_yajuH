@@ -2,7 +2,8 @@
 title = "17 pravargyam"
 
 +++
-XV.1 
+## 15.01
+
 PRAVARGYA प्रग्वर्यं संभरिष्यन्नमावास्यायां पौर्णमास्यामापूर्यमाणपक्षस्य या पर नक्षत्रे तूष्णीं काण्टकी समिधमाधाय युञ्जते मन इति चतुर्गहीतं जुहोतिमा 
 1. One who is going to collect (prepare the utensils required for) the Pravargya,on the new-moon-day or the full moon-day or under an auspicious constellation of the fortnight of the waxing (moon), having silently (without any formula) put a thorny fuel-stick (on the fire) offers four-times-scooped (ghee) (in the fire) with yuñjate mana uta yuñjate....! 
 1. TĀ IV.2.1; in accordance with the ritual TĀ.V.2.1. 
@@ -45,7 +46,8 @@ leans of the spade on the place from where soil is to be dug wie ļdhyāsamadya,
 14. There will be modification at the time of addressing (these materials).843 
 xv.2] 
 ApSs Translation : THITE 
-XV.2 इयत्यग्र आसीरिति वराहविहतम्। देवीर्वप्रीरिति वल्पीकवपाम्। इन्द्रस्यौजो ऽसीति पूतीकानजलोमानि कृष्णाजिनलोमानि च संमृज्याग्निजा असि प्रजापते रेत इति॥१॥ 
+## 15.02
+इयत्यग्र आसीरिति वराहविहतम्। देवीर्वप्रीरिति वल्पीकवपाम्। इन्द्रस्यौजो ऽसीति पूतीकानजलोमानि कृष्णाजिनलोमानि च संमृज्याग्निजा असि प्रजापते रेत इति॥१॥ 
 ___ 1. (the Adhvaryu addresses) the (earth) grubbed by a boar with iyatyagra āsih;' the earth of an ant-hill with devir vamrih...,' the Putika-plants with indrasyaujosi...' and the hair of a he-goat and the skin of a black antelope, after these have been mixed up, with agnija asi prajāpate retah.... 
 1. TA IV.2.3.(9). 2. TA IV.2.3.(11). 3. MS, KS. 
 4. TA IV.2.4.(14). 
@@ -84,7 +86,8 @@ _1. Cf. TA. V.3.1-2.
 संप्रक्लिश्य मृदं मखस्य शिरो ऽसीति पिण्डं कृत्वां यज्ञस्य पदे स्थ इत्यङ्गष्ठाभ्यां निगृह्य महावीरं करोति व्युद्धिं पञ्चोद्धिमपरिमितोद्धिं वा प्रादेश मात्रमूर्ध्वसानुमुपरिष्टादासेचनवन्तं मध्ये संनतं वायव्यप्रकारम्॥१४॥ 
 ___ 14. Having kneaded the soil, with makhasya siro'sil having made a ball (of it), with yajnasya pade stha- having pressed the Mahāvīra (-pot) by means of thumbs, he prepares it, which has three elevations, or five elevations, or an unlimited number of elevations, which is of the measure of a span (in height) which has a raised top, which has an opening (for the sake of) pouring out (of the liquid) in the upper part, and which is bent in the middle just like the Vāyavya-cup.s 
 1. TA IV.2.5(17). 2. TA IV.2.5(18). 3. The pot for Pravargya-ritual. 4. Cf. TĀ V.3.3. For other details see XVI.4.7. 5. See XII.1.4. 
-XV.3 
+## 15.03
+
 गायत्रेण त्वा छन्दसा करोमीति प्रथमम्। त्रैष्टुभेनेति द्वितीयम्। जागतेनेति तृतीयम्॥१॥ 
 1. With gāyatrena tva chandasa karomin (the Adhvaryu) prepares the first (elevation on the pot); with traistubhena... (he prepares) the second; with jagatena...' (he prepares) the third. 4 
 1. TA IV.2.5(19). 2. TA IV.2.5(19). 3. TA IV.2.5(19). 4. For this Sūtra cf. TĀ V.3.3. 
@@ -143,7 +146,8 @@ would be baked red, he brings the Mahavira (pot) s there (ana places them there)
 ___1. Cp. XVI.5.8. 
 849 
 ApSs Translation : THITE XV.4] 
-XV.4 अर्चिरसीति प्रथमम्। शोचिरसीति द्वितीयम्। ज्योतिरसि तपो ऽसीति तृतीयम्॥१॥ 
+## 15.04
+अर्चिरसीति प्रथमम्। शोचिरसीति द्वितीयम्। ज्योतिरसि तपो ऽसीति तृतीयम्॥१॥ 
 ___ 1. With arcirasil (the Adhvaryu) (puts down) the first (Mahāvīra); with socirasi the second; with jyotirasi taposi the third (on the scattered material in the pit). 
 1. For the formulae in this Sūtra cp. TĀ IV.5.6. तूष्णीमितराण्यन्ववधाय लोहितपचनीयैः संभारैः प्रच्छाद्य गार्हपत्ये मानादीप्योपोषत्यर्चिषे त्वेत्येतैः प्रतिमन्त्रं प्रतिदिशम्॥२॥ 
 2. Having put down the other (utensils) silently, having covered them over with the materials by burning which the utensils would be baked red, having enflamed Muñja (-grass) etc. over the Garhapatya (-fire), he sets fire (to those materials), with each one of the formulae beginning with archiṣe tväl in each direction (respectively). 
@@ -182,7 +186,8 @@ __ 1. TA IV.3.3(10). उपरिष्टात्काल एष मन्त
 13. There is another (view) that this formula is to be used at a later time.1 
 1. Thus this formula should be used after the ritual mentiond in 
 XV.1.2. is performed. 
-XV.5 प्रवर्येण प्रचरिष्यन्तः संवृण्वन्ति द्वाराणि॥१॥ 
+## 15.05
+प्रवर्येण प्रचरिष्यन्तः संवृण्वन्ति द्वाराणि॥१॥ 
 1. When they are about to perform the Pravargya ( ritual),' they close the doors (of the Prägvamsa). 
 1. See XI.2.5. परिश्रयन्ति पल्याः ॥२॥ 2. They enclose the shed of the wife of the sacrificer. 
 पश्चाद्धोतोपविशति पुरस्तादध्वर्युः। दक्षिणतो ब्रह्मा यजमानः प्रस्तोता च। उत्तरतः प्रतिप्रस्थाताग्नीध्रश्च॥३॥ 
@@ -210,7 +215,8 @@ refers to Soma (see X.29.7). 3. CP. SB XIV.1.3.8. 4. See X.6.10; XV.8.15. 5. For
 21. Having sanctified the sprinkling water according to the manner of sanctifying the sprinkling water (in the basic paradigm),' he calls the Brahman. 
 1. See I. 11.6-9. Here the strainers mentioned in XV.2.20 are to be 
 used. 
-XV.6 ब्रह्मन्प्रवर्येण प्रचरिष्यामः॥ होतधर्ममभिष्ट्रहि। अग्नीद्रौहिणौ पुरोडाशावधिश्रय। प्रतिप्रस्थातर्विहर। प्रस्तोतः सामानि गायेति॥१॥ 
+## 15.06
+ब्रह्मन्प्रवर्येण प्रचरिष्यामः॥ होतधर्ममभिष्ट्रहि। अग्नीद्रौहिणौ पुरोडाशावधिश्रय। प्रतिप्रस्थातर्विहर। प्रस्तोतः सामानि गायेति॥१॥ 
 1. “O Brahman, we shall perform the Pravargya, O Hotr̥ do you praise the Gharma; O Āgnidhra do you place the Rauhina-sacrificial-breads on the fire (for being baked), O Pratiprasthāts, do you spread out (the utensils); O Prastotr̥, sing the melodies.' 
 1. Cf. TĀ XV.4.1. For the Brahman see Sūtras 2-3, for the Hot 
 see AB 1.19; KB VIII.4; SB XIV.1.3.3. For the Āgnidhra see Sūtra 6. 
@@ -278,7 +284,8 @@ Ahavaniya.2
 1. For the purpose of this mound see XV.11.16. उत्तरेणाहवनीयं तदध्यासादयति॥२३॥ 
 23. He places heated curds towards the north of the Ahavaniya (-fire). 
 1. See Xv.6.9. 
-XV.7 
+## 15.07
+
 शकलाकाण्टकी च समिधम्॥१॥ 
 1. (The Adhvaryu places (six) chips)' and one thorny fuel stick2 (also towards the north of the Ahavaniya-fire). 
 1. See XV.5.11; See also XV.11.6-7. 
@@ -364,7 +371,8 @@ ___16. Having stood in accordance with their respective places 'all the priests 
 अनवाकशेषं तु परिश्रिते प्रतिप्रस्थाता पत्नी वाचयति लाल सपेयेति॥१७॥ 
 17. The Pratiprasthātr, however, causes the wife of the sacrificer recite,' within the enclosure, the remaining part of the section viz. twastimali te sapeya...2 
 1. Cf. SB XIV.1.4.16. 2. TA IV.7.19. 
-XV.9 ततः संप्रेष्यत्यग्नीद्रौहिणौ पुरोडाशावासादयेति॥१॥ 
+## 15.09
+ततः संप्रेष्यत्यग्नीद्रौहिणौ पुरोडाशावासादयेति॥१॥ 
 1. Then (the Adhvaryu) orders: "O Agnidhra, do you keep the two Rauhina-sacrificial-breads."1 
 1. See XV.5.20. 
 अनिष्टुब्धयोः घुचोरुपस्तीर्णाभिघारितौ पुरोडाशावासादयति। दक्षिणं परिधिसंधिमन्वेकम्। उत्तरं परिधिसंधिमन्वितरम्॥२॥ 
@@ -495,7 +503,8 @@ ApSs Translation : THITE
 with the Āpohiṣthīyā-verses, having poured down the water (within the altar), having kept all the Pravargya-material there 
 only, 3 
 1. See XV. 6.22. 2. TS IV.1.5.b-d. 3. The sentence is incomplete. See the next Sūtra. 
-XV.12 धर्माय संसाद्यमानायानुब्रूहीति संप्रेष्यति। संसाद्यमानायानुब्रूहीति वा॥१॥ 
+## 15.12
+धर्माय संसाद्यमानायानुब्रूहीति संप्रेष्यति। संसाद्यमानायानुब्रूहीति वा॥१॥ 
 1. (the Adhvaryu) orders, “Do you recite (the verses) for . the Pravargya utensils being placed together (O Hotr)", or “Do you recite (the verses) for (those) being placed togther (O Hotr̥).” 
 आ यस्मिन्सप्त वासवा इत्यभिज्ञायाग्रेणाहवनीयं पर्याहृत्य सम्राडासन्यां सादयति स्वाहा त्वा सूर्यस्य रश्मिभ्य इति प्रातः। स्वाहा त्वा नक्षत्रेभ्य इति सायम्॥२॥ 
 2. Having come to know (of the Hotr reciting) a yasmin sapta vāsavā..., having carried round the Pravargya-utensils along the front of the Āhavanīya-fire, he deposits them on the emperor's throne with svāhā tvā sūryasya rasmibhyaḥ2 in the 
@@ -532,7 +541,8 @@ ___ 1. Cf. TA V.6.3.
 तेन प्रवृज्य संवत्सरं न मांसमश्नीयात्। न रामामुपेयात्। न मृन्मयेन पिबेत्। नास्य राम उच्छिष्टं पिबेत्। तेज एव तत्संश्यतीति विज्ञायते ॥१३॥ 
 13. “After having performed the Pravargya-rite, for one year (the sacrificer) should not eat meat, should not apporach a black woman, should not drink from an earthen pot, no black man should drink the remnant (water) of him, he (the black man) reduces his (of the sacrificer) lustre”—thus is known (from a Brāhmaṇa-text).' 
 1. TA V.8.13. 
-XV.13 
+## 15.13
+
 प्रवर्दीमुद्वासयिष्यन्नजामग्नीधे ददाति। पष्ठौहीं ब्रह्मणे। धेनुं होते। क्मावध्वर्य॥१॥ 
 1. When (the Adhvaryu) is going to dispose of the Pravargya,' (the sacrificer) gives a she-goat to the Āgnidhra; a four year-old cow to the Brahman, a milch-cow to the Hotr, (and) the two plates (one of gold and the other of siver) to the Adhvaryu. 
 1. For the time of the disposal of Pravargya, sec XI.5.9. 2. Cp. SBXIV.3.1.32-35. 
@@ -565,7 +575,8 @@ __ 1. See XV.16.10.
 878 
 having reached the Uttaravedi (where the disposal of the Pravargya is to be made), for the third time. (The Adhvaryu). orders at each (stage).' 
 1. Cp. XIII.20.4; See TA V.9.4. 
-XV.14 
+## 15.14
+
 दिवस्त्वा परस्पाया इति प्रथमे ऽभिप्रव्रजन्ति। ब्रह्मणस्त्वा परस्पाया इति द्वितीये। प्राणस्य त्वा परस्पाया इति तृतीये॥१॥ 
 1. With divastvā paraspāyāh... they go after the saman has been sung for the first time; with brahmaṇastvā paras pāyāh... (they go...) the second time; with prānasya tvā paraspāyāh...' (they go) the third time. 
 1-3. TA IV.11.4-6. उत्तरेणोत्तरवेदिं सम्राडासन्दी प्रतिष्ठाय संप्रेष्यति प्रस्तोतर्वाषाहरं साम गायेष्टाहोत्रीयं साम गायेति। इष्टाहोत्रीयस्य साम्नो निधनमुपयन्ति। न वार्षाहरस्य॥२॥ 
@@ -604,7 +615,8 @@ ___10. With mahindin payo 'sil he pours the cow-milk cinta the Mahavira); with j
 घमैतत्ते ऽन्नमेतत्पुरीषमिति दना मधुमिश्रेण पात्राणि पूरयति यान्यासे चनवन्ति। अभ्युक्षतीराणि। अरिक्तताया इति विज्ञायते॥१३॥ 
 13. With gharmaitat te'nnam...1 he fills in with curds mixed with honey, the (Pravargya-) utensils which have bowls. He sprinkles (curds mixed with honey) over the others. (One does this) “for the sake of non-emptiness” thus is known (from a Brāhmana-text. 
 1. TA IV.11.12. 2. Cf. TA V.9.7. 3. Not known. 
-XV.15 
+## 15.15
+
 अथ यदि पुरुषाकृतिं करिष्यन्स्यात्समानमा प्रथमस्योपावहरणात्। अत्रैवेतरावुपावहृत्य शिरसो रूपं करोति। अप्रच्छिन्नाग्रं वेदमुपरिष्टान्निदधाति शिखाया रूपम्। अभितो दोग्धे कर्णयो रूपम्। अभितो हिरण्यशकलावाज्यस्त्रुवौ वाक्ष्यो रूपम्। अभितः स्रुवौ नासिकयो रूपम्। प्रोक्षणीधानी मुखस्य रूपम्। आज्यस्थाली ग्रीवाणां रूपम्। अभितो धृष्टी जणां रूपम्। अभितः शफावंसयो रूपम्। अभितो रौहिणहवन्यौ बाबो रूपम्। प्राची मेथी पृष्टीना रूपम्। अभितो धवित्रे पार्श्वयो रूपम्। मध्ये तृतीयमुरसो रूपम्। मध्य उपयमनमुदरस्य 
 881 कपम। तस्मिन् सर्वं रज्जुमयं समवदधात्यान्त्राणां रूपम्। उदीचीमधिं श्रोण्यो रूपम्। अभितः शङ्क सक्थ्यो रूपम्। मध्ये तृतीयं मेढ्स्य रूपम्। अभितो रोहिणकपाले पार्यो रूपम्। रौहिणपिष्टशेषेणापध्वंसयति मज्जारूपम्। वेदं विस्त्रस्यानुविकिरति स्नानां रूपम्। अवकाभिधूपतृणैरिति प्रच्छादयति मांसस्य रूपम्। दना मधुमिश्रेणावोक्षति लोहितस्य रूपम्। कृष्णाजिनेनोत्तरलोम्ना प्रच्छादयति त्वचो लोम्नां रूपम्। सम्राडासन्दी विस्त्रस्योपरिष्टान्निदधाति साम्राज्यस्य रूपम्॥१॥ 
 la. Now, if (the Adhvaryu) is going to make out a human form? (the ritual) upto bringing and placing of the first Mahāvīra everything should be the same (as described above). 
@@ -612,7 +624,8 @@ la. Now, if (the Adhvaryu) is going to make out a human form? (the ritual) upto 
 882 
 the form of flesh; he sprinkles (the various parts) with curds mixed with honey (he thereby makes) the form of blood; He covers (the various parts) with the skin of black antelope with the hairy side of it upwards (he thereby makes) the form of skin and of hair; having dismantled the emperor's throne-seat, he places it upon (the figure); (he thereby gives) the form of impe. rial status (to the figure).' 
 1. Cp. ŚB XIV.3.1.20-22. 
-XV.16 
+## 15.16
+
 उत्तरवेद्यामुद्वासयेत्तेजस्कामस्य। उत्तरवेद्यामन्नाद्यकामस्य॥१॥ 
 1. In the case of a (sacrificer) desirous of lustre (the Adh varyu) should dispose of (the Prarargya) on the Uttaravedi; in the case of a (sacrificer) desirous of food (he should dispose of it) on the Uttaravedi.' 
 1. TĀ V.10.2-3. __पुरो वा पश्चाद्वोद्वासयेत्। अपां मध्य उद्वासयेत्। नदिद्वीप उद्वासयेत्॥२॥ 
@@ -645,7 +658,8 @@ should be disposed of on the Uttaravedi. नैनमुद्वासितं
 1. TĀ IV.11.21. 2. TĀ IV. 11.22. 3. See XV. 13.9. 4. TĀ IV.11.23. 5. TĀ IV. 11.24. 6. Cf. TĀ V.9.11 
 7-8. TĀ IV. 11.24. 9. TĀ IV.11.15. 
 ## prāyaścittayaḥ
-XV.17 THE EXPIATIONS IN CONNECTION WITH THE PRAVARGYA 
+### 15.17
+THE EXPIATIONS IN CONNECTION WITH THE PRAVARGYA 
 यदि धर्मः स्कन्देदस्कान्द्यौः पृथिवीमिति द्वाभ्यामेनमभिमन्त्रयेत॥१॥ 
 1. If the Gharma (pot) spils, (the Adhvaryu) should address it with two verses beginning with askān dyauḥ.' 
 1. TĀ IV. 13.1-2. यदि घर्मेण चरत्सु विद्युदापतेद्या पुरस्ताद्विद्युदापतदित्येतैर्यथालिङ्गं जुहुयात्॥२॥ 
@@ -685,7 +699,8 @@ ___ 12. While they are performing (the ritual) with the Gharma-pot, if the sun s
 887 
 verses beginning with udu tyan and citram,having performed the Pravargya-ritual, they stand while praising the sun with vayaḥ suparṇā...,* on the next day. 
 1-4. TA IV.20.10. 
-XV.18 यदि धर्मधुग्दोहकाले नागच्छेदन्यां दुग्ध्वा प्रवृज्य तां सुत्यायां ब्राह्मणाय दद्याद्यमनभ्यागमिष्यन्स्यात्॥१॥ 
+### 15.18
+यदि धर्मधुग्दोहकाले नागच्छेदन्यां दुग्ध्वा प्रवृज्य तां सुत्यायां ब्राह्मणाय दद्याद्यमनभ्यागमिष्यन्स्यात्॥१॥ 
 __ 1. If the cow yielding milk for the Gharma, does not come at the time of milking,' (the Adhvaryu) should milk another cow, and perform the Pravargya-ritual, (and the sacrificer) should give that cow to a Brāhmana, whom he is not going to visit in the future. 
 1. See XV.4.4. यदि धर्मधुगि पयो न स्याहृतेश्चतुर्थं पादं स्तनं कृत्वा पिन्वयेत्॥२॥ 
 2. If there will be no milk in the cow (brought for) yielding milk for the Gharma, then having prepared a skin-bag acco mpanied by four feet, he should fill it with milk and having made the fourth foot a teet, cause milk to flow. 
@@ -730,7 +745,8 @@ Pravargya-ritual. There is also no need to perform the Pravargya
 ritual on the Sutyā-day, if it is performed during the Upasad-days. दधिधर्मं भक्षयन्ति भूर्भुवः सुवरित्यनुवाकेन॥१७॥ 
 17. (The priests officiating in the Pravargya-ritual) consume the Dadhi (curds)-gharma,' with the sectionbeginning with bhūḥ bhuvaḥ svaḥ. 
 1. See XIII.4.4. 2. TĀ IV.21. 
-XV.19 व्याख्याता घोरास्तन्वो ऽरण्येऽनुवाक्यो गण उत्तरौ चानुवाकौ॥१॥ 
+### 15.19
+व्याख्याता घोरास्तन्वो ऽरण्येऽनुवाक्यो गण उत्तरौ चानुवाकौ॥१॥ 
 1. The (sections containing the) dangerous forms of Agni, the group called Aranye’nuvākya (=to be recited in forest), and the subsequent two sections are already explained.' 
 1. i.e. their applicaiton has been already mentioned. Out of the six 
 sections of TĀ (IV.22-27) the first two are mentioned in ApśS 
@@ -764,7 +780,8 @@ ____1. TA IV.39; cp. AV VII.113.2.
 1. See XVI.22.3. 2. TA IV.24. 
 892 
 ## AVĀNTARA-DĪKṢĀ 
-XV.20 
+### 15.20
+
 THE INTERMEDIARY CONSECRATION 
 (AVĀNTARA-DĪKṢĀ) अवान्तरदीक्षां व्याख्यास्यामः॥१॥ 1. We shall explain the intermediary consecration.' 
 1. This intermediary consecration is different from the one dealt with 

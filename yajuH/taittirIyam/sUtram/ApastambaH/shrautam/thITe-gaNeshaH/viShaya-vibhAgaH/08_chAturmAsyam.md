@@ -5,7 +5,8 @@ title = "08 cāturmāsyam"
 THE CĀTURMĀSYA (FOUR-MONTHLY) SACRIFICES
 ## 1 Vaiśvadevaparva
 | A. THE VAIŚVADEVA-PARVAN 
-VIII.1 अक्षय्यं ह वै चातुर्मास्ययाजिनः सुकृतं भवति॥१॥ 
+### 08.01
+अक्षय्यं ह वै चातुर्मास्ययाजिनः सुकृतं भवति॥१॥ 
 1. Imperishable, indeed, is the merit of the performer of the Cāturmāsya (fourmonthly sacrifices).' 
 ___1. Cp SB II.6.3.1. 
 353 
@@ -56,7 +57,8 @@ of seven sticks. पूर्ववद्वैश्वदेव्याः �
 tensilst 
 of Palāśa-wood for 
 ApSs Translation : THITE 356 
-VIII.2 श्वोभते पात्रसंसादनकाले पालाशं वाजिनपात्रं प्रयुनक्ति तो 
+### 08.02
+श्वोभते पात्रसंसादनकाले पालाशं वाजिनपात्रं प्रयुनक्ति तो 
 1. On the next day at the time of placing of the ute (the Adhvaryu) keeps ready a pot or a ladle of Palace.. Vājina(whey) (in addition to the other utensils). 
 1. For this see I.15.9. 
 2. See VIII.2.5; VIII.3.6. निर्वपणकाल आग्नेयमष्टाकपालमिति यथासमाम्नातमष्टौ हवींना निर्वपति॥२॥ 
@@ -123,7 +125,8 @@ one potsherd in the manner (described) earlier.?
 पृषदाज्यं जुह्वामानीय पृषदाज्यधानीमुपभृतं कृत्वा तेन नवानूयाजान्य Haloll 
 20. Having brought the clotted ghee into the Juhū, and having made the pot of clotted ghee to be Upabhịt, the Adhvaryu offers nine after-offerings by means of it.! 
 1. Cp. VII.26.12. 
-VIII.3 
+### 08.03
+
 CDTI 
 अष्टावाद्याः पाशुकाः प्रैषवर्जम्॥१॥ 
 1. The first eight' after-offerings should be the same as in an animal sacrifice except the order to be given by the Maitrāvaruṇa? to the Hotr̥. 
@@ -183,7 +186,8 @@ VIII.4]
 18 The offering stands completely established in the usual 
 manner. 
 1. i.e. performed upto the end. 
-VIII.4 श्रोभते पौर्णमास्येष्ट्वा प्रसूता देवेन सवित्रा दैव्या आप उन्दन्तु तेन तनुं दीर्घायत्वाय वर्चस इत्युपोद्य त्र्येण्या शलल्येक्षुकाण्डेनेक्षुशलाकया वा लौहेन 
+### 08.04
+श्रोभते पौर्णमास्येष्ट्वा प्रसूता देवेन सवित्रा दैव्या आप उन्दन्तु तेन तनुं दीर्घायत्वाय वर्चस इत्युपोद्य त्र्येण्या शलल्येक्षुकाण्डेनेक्षुशलाकया वा लौहेन 
 च क्षरेणौदुम्बरेण नि केशान्वर्तयते वापयते श्मश्रूणि॥१॥ ___1. On the next day, after having performed the full-moon offering, having moistened the head by means of water with prasūtā devena savitrā...' (the sacrificer) causes to trim his hair (on the head) and shave the hair on the face by means of a quill of a porcupine having three white straps on it, a part or section of sugar-cane, red copper razor and Udumbara(-fruit bunch).3 
 1. Cp. Kaṇvasaṁhitā ed. Weber, p. 90. 2. Cf. TB 1.5.6.5. TB mentions only the thorn and the copper razor. 3. audumbarena. According Rudradatta this means red copper. In 
 Simantonnayana however there is a reference to the thorn of porcupine and Udumbara. It is possible that the word Audumbara 
@@ -211,7 +215,8 @@ ____ 1. For the explanation of this Sutra see the next Sutra. यो वसन�
 13. He who performs (taking into consideration) "It has become the spring; it has become the rainy season; it has become the autumn"-he is the performer of a sacrifice at a particular season. One who performs sacrifices every four months is the performer of Cāturmāsyas. It is known (from a Brāhmaṇa-text): One should perform the Vaiśvadeva in the spring; Varuṇapraghāsas in the rainy season, with the Sākamedhas in the Autumn. 
 ## 2 Vauṇapraghāsaparva
 B. VARUŅAPRAGHĀSA-PARVAN 
-VIII.5 ततश्चतुर्षु मासेष्वाषाढ्यां श्रवणायां वोदसाय वरुणप्रघासैर्यजते॥१॥ 
+### 08.05
+ततश्चतुर्षु मासेष्वाषाढ्यां श्रवणायां वोदसाय वरुणप्रघासैर्यजते॥१॥ 
 1. Then after four months, on the full-moon-day of Āṣ ādhā or Śrāvaṇā month, having gone out,2 the sacrificer performs the Varuṇapraghāsas. 
 1. Cp. VIII.1.2. 2. This ritual is not to be done in the residence of the sacrificer but 
 rather at some other place. For that, fires are to be taken mystically in the churning sticks and then produced out of them by means of 
@@ -324,7 +329,8 @@ ___ deity. तयोरामिक्षावद्वैवतम्॥३९
 42. The figures of ram and ewe will be prepared out of the raw, dampened flour. 
 ___ मेषमध्वर्युः करोति मेषीं प्रतिप्रस्थाता॥४३॥ 
 43. The Adhvaryu prepares a ram; the Praprasthātr prepares the ewe. 
-VIII.6 
+### 08.06
+
 स्त्रियाः स्त्रीव्यञ्जनानि॥१॥ पुंसः पुंव्यञ्जनानि॥२॥ 1-2. (There should be) the signs of female on the figure 
 [VIII.6 
 372 
@@ -407,7 +413,8 @@ ____ अथाध्वर्युः पूर्वेण सहावदा�
 ApSs Translation : THITE 
 VIII.7] 
 377 
-VIII.7 
+### 08.07
+
 कायानब्रूहि कं यजेत्येककपाले संप्रेषौ॥१॥ 
 1 The orders for the sacrificial bread on one potsherd uld be "Do you recite the invitatory verse for Ka”; "Do you recite the offering verse for Ka". 1 
 1. For the performance of the offering of this bread see VII.2.17; 
@@ -549,7 +556,8 @@ same.2
 be followed then the full-moon-offering and the Agnihotra connected thereby would be performed in the fire on the Uttaravedi.
 ## 3 Sākamedhaparva
 C. THE SĀKAMEDHA PARVAN 
-VIII.9 ततश्चतुर्यु मासेषु पूर्वस्मिन्पर्वण्युपक्रम्य व्यहं साकमेधैर्यजते॥१॥ 1. Then after four months' (the sacrificer) should perform 
+### 08.09
+ततश्चतुर्यु मासेषु पूर्वस्मिन्पर्वण्युपक्रम्य व्यहं साकमेधैर्यजते॥१॥ 1. Then after four months' (the sacrificer) should perform 
 386 
 the Sākamedha-rites (lasting) for two days starting on the preceding joint-day.2 
 1. i.e. in the Kārttika or Mārgasirṣa. 
@@ -595,7 +603,8 @@ __1. Cp. I.15.7. निर्वपणकाले॥१५॥
 15. At the time of taking out material of the offering (paddy),' 
 1. See I.17.12-18.2. The sentence in this Sūtra is incomplete. See the 
 next Sutra. 
-VIII.10 
+### 08.10
+
 चतुरो मुष्टीन्निरुप्य बह्वन्वावपति॥१॥ 
 1. Having taken out four handfuls (of paddy) (the Adhvaryu) additionally pours out ample quantity (of it). 
 कपालानामुपधानकाले प्रथमेन कपालमन्त्रेण चरुमुपदधाति। ध्रुवो ऽसीति मन्त्रं संनमति। पिष्टानामुत्पवनकाले तण्डुलानुत्पुनाति॥२॥ 
@@ -639,7 +648,8 @@ of ghee in the pots before the rice-pap is taken in them. 3. See II. 11.6. द�
 VIII.11] 
 391 
 Com 
-VIII.11 
+### 08.11
+
 meReme 
 उत्तरस्मात्स्विष्टकृतम्॥१॥ 
 1. From the (rice-pap placed) to the north (of the altar) the Adhvaryu) makes the Svistakrt-offering. 
@@ -698,7 +708,8 @@ in the ancestral ritual, see VIII.14.14.
 22a. The Adhvaryu takes out the material for the sacrificial bread to be prepared on seven potsherds for the Maruts Kriļins or Maruts Svatavats. They perform the offering of it at the time of sun-rise? or at the time of first rays. 
 1. Cf. TB I.6.7.4-5. 
 2. Cf. TS I.8.4.3. 22b. The offering stands completely established (i.e. completed) in accordance with the established normal paradigm. 
-VIII.12 
+### 08.12
+
 ततो महाहविषस्तन्त्रं प्रक्रमयति॥१॥ 
 1. Then the Adhvaryu causes to start the procedure of the Great offering (Mahāhavis). 
 तस्य वारुणप्रघासिकेनोत्तरेण विहारेण कल्पो व्याख्यातः॥२॥ 
@@ -727,7 +738,8 @@ ApSs Translation : THITE
 7. The offering stands completly established in completed) in accordance with the established paradigm. 
 ### Pitr̥yajñaḥ
 PITR̥YAJÑA (ANCESTRAL RITUAL FORMING PART OF THE SĀKAMEDHA) 
-VIII.13 
+#### 08.13
+
 तदानीमेव पितृयज्ञस्य तन्त्रं प्रक्रमयति॥१॥ 
 1. At that time itself (the Adhvaryu) causes to begin the procedure for the Pitryajia (ancestral ritual). 
 वेदं कृत्वाग्रेणान्वाहार्यपचनं यजमानमात्री चतुःस्त्रक्तिं वेदिं करोति॥२॥ 
@@ -786,7 +798,8 @@ ApśS Translation : THITE
 2. Cf. TB 1.6.8.3. विदह्यमानाः परिशेरत इति विज्ञायते॥२०॥ 
 20. It is known from a Brāhmaṇa-text': (The fried grains remain (there) being burnt (upto the time of taking them from the fire). 
 1. Not known. 2. See II. 10.6. 
-VIII.14 
+#### 08.14
+
 संप्रेषकाले पत्नीवर्ज संप्रेष्यति॥१॥ 
 1. At the time of giving orders: the Adhvaryu gives orders excluding one connected with the wife of the sacrificer.2 
 1. See II.3.11. 2. Thus he omits the words patniṁ saṁnahya "(having girdled the 
@@ -864,7 +877,8 @@ O Hotr. For this Sutra see SB II.6.1.23. अपबर्हिषः प्र�
 25. According to the tradition of some ritualists the act of enclosing of the altar should be done at this stage (now).! 
 1. Instead of what is mentioned VII.13.15. It is not clear who these 
 ritualists are. 
-VIII.15 
+#### 08.15
+
 वित्रस्य यज्ञोपवीतानि प्राचीनावीतानि कुर्वते। विपरिक्रामन्त्यत्विजः। विपरिहरन्ति स्रुचो हवींषि परिश्रयणानीति॥१॥ 
 1. Having losened their sacred threads (which were upto now on the left shoulder and under the right arm-pit) the performers put them on the right shoulder and under the left arm-pit. The priests (and also the sacrificer) exchange (their places). They transfer the places of ladles, oblations and the enclosures (curtains).3 
 1. Thus the Brahman and sacrificer who were so far to the south of 
@@ -944,7 +958,8 @@ ____1. See VIII. 13.15; ref. 25; cp SB II.6.1.19.
 ApSs Translation : THITE 
 409 
 VIII.161 
-VIII.16 
+#### 08.16
+
 ब्रह्माध्वर्युरग्नीद्यजमानश्च॥१॥ 
 1. And (then) the Brahman, Adhvaryu, Agnidhra and the sacrificer smell the stirred flour. 1 
 1. Cf. SB II.6.1.33. अपि वा न यजमानः॥२॥ 2. Or rather the sacrificer does not smell. समशो वा प्रतिविभज्यावज्रेण भक्षयित्वा बर्हिषि लेपान्निमृजन्ते॥३॥ 
@@ -1002,7 +1017,8 @@ Juhū (the Adhvaryu) offers the after-offerings excludin one connected with Barh
 20. (The Adhvaryu) does not offer the Samiṣṭayajus (-libations). 
 1. For these see III. 13.2. Hofgeiicated 117811 21. Everything else is done. संतिष्ठते पितृयज्ञः॥२२॥ 22. The Pitryajña stands hearby completly established. 
 THE TRYAMBAKA-HAVIRYĀGA 
-VIII.17 प्रतिपुरुषमेककपालान्निर्वपति यावन्तो यजमानस्यामात्याः सस्त्रीकास्तावत एकातिरिक्तान्॥१॥ 
+#### 08.17
+प्रतिपुरुषमेककपालान्निर्वपति यावन्तो यजमानस्यामात्याः सस्त्रीकास्तावत एकातिरिक्तान्॥१॥ 
 1. They pour out the material for the sacrificial breads to be prepared on one potsherd. The breads should be as many as the number of relatives of (the sacrificer) along with their wives-one for each member added by one.' 
 1. Cp. VIII.5.41. 
 VIII.17]] 
@@ -1036,7 +1052,8 @@ ___ 1. Here one has to utter the name of one's enemy. यदि न द्वि
 चतुष्पथ एकोल्मुकमुपसाधाय संपरिस्तीर्य सर्वेषां पुरोडाशानामुत्तरा र्धात्सकृत्सकृदवदाय मध्यमेनान्तमेन वा पलाशपर्णेन जुहोति॥१२॥ 
 12. Having added fuel to the signle fire-brand on a cross way, having scattered sacred grass around it, having once taken a portion from the northern part of each of all the sacrificial breads, he offers ghee by means of the middle or the last leaf of the Palāśa-tri-leaf. 
 ___1. Cf. TB I.6.10.3. 
-VIII.18 एष ते रुद्र भागः सह स्वस्त्राम्बिकया तं जुषस्व स्वाहेति भेषजं गव इत्येताभ्यां चातुष्पथमग्निं परिषिञ्चति। अवाम्ब रुद्रमदिमहीति यजमानो जपति॥१॥ 
+#### 08.18
+एष ते रुद्र भागः सह स्वस्त्राम्बिकया तं जुषस्व स्वाहेति भेषजं गव इत्येताभ्यां चातुष्पथमग्निं परिषिञ्चति। अवाम्ब रुद्रमदिमहीति यजमानो जपति॥१॥ 
 ____ 1. (The Adhvaryu offers the ghee-libation mentioned above) with esa te rudra bhāgah... He sprinkles (water) round the fire on the cross-way with these two (verses beginning with): bhesajaṁ gave the sacrificer mutters avāmba rudramadimahi.' 
 1. See TB I.6.10.4; TS I.8.6.f. 2. TS I.8.6. g and h. 3. TS I.8.6.h. 
 415 
@@ -1070,7 +1087,8 @@ te ruudra
 अपः परिषिच्याप्रतीक्षास्तूष्णीमेत्यैधो ऽस्येधिषीमहीत्याहवनीये समिध आधायापो अन्वचारिषमित्युपतिष्ठन्ते॥१०॥ 
 10. (After the Adhvaryu has thrice poured water round (the basket), (all the performers) having returned without any formula, having put fuel-sticks on the Āhavanīya(-fire)2 with edho'syedhisimahi...' stand (near the fire) praising it with apo anvacārişam..." 
 1. Cf, TB I.6.10.5. 2. Cp. KS XXXVI.14; cp. also VIII.8.18. 3. TBI.4.45.k. 4. TS I.4.3.5.1. 
-VIII.19 आदित्यं घृते चरुं पूर्ववनिर्वपति॥१॥ 
+#### 08.19
+आदित्यं घृते चरुं पूर्ववनिर्वपति॥१॥ 
 1. (The Adhvaryu) takes out the material for the rice-pap to be cooked in ghee for Aditi,' in the same manner (as described) earlier.2 
 1. Cf. TB I.6.10.5; cp. KS XXXVI.14, 2. See V.22.1-5. 
 ApSs Translation : THITE 
@@ -1095,7 +1113,8 @@ formula? is to be modified as follows: yo asyāḥ prthivvastu (To this is added
 sames 1. See VIII.4.2; cp. VIII.8.19-20. 2. See VIII.4.2. 3. TB 1.5.5.4. 4. TB 1.5.5.2. 5. See VIII.4.2. 
 ## 4 śunāsīriyaparva
 ŚUNĀSĪRĪYA-PARVAN 
-VIII.20 ततो यहे व्यहे चतुरहे ऽर्धमासे मासि चतुर्पु वा मासेषु शुनासीरीयेण Yang 11 
+### 08.20
+ततो यहे व्यहे चतुरहे ऽर्धमासे मासि चतुर्पु वा मासेषु शुनासीरीयेण Yang 11 
 1. Then after two days or three days or four days or a half month, one month or four months one should perform the sunāsiriya-offerings. 
 तस्य वैश्वदेववत्कल्पः॥२॥ 
 2. The procedure of it should be similar to that of the Vaiśvadeva-offering. 
@@ -1149,7 +1168,8 @@ i. Cp. ŚB II.6.3.11-12. तं ततो नानीजानमपरा फ�
 6. Now in the case of one who begins to perform again (the Cāturmāsya-sacrifices), having performed the Sunāsīrīya on the fourteenth (day preceding the the Phālguna full moon day), 
 1. The sentence is incomplete; see the next Sutra. 
 422 
-VIII.22 पञ्चदश्यां वैश्वदेवेन यजते॥१॥ 
+### 08.22
+पञ्चदश्यां वैश्वदेवेन यजते॥१॥ 
 1. On the fifteenth day (the sacrificer) should perform Vaisvadeva.' 
 1. Cp. SB II.6.3.13. एतेनैव पशुकामो यजेत यस्मिन्नस्यौ भूयिष्ठं गोषु पयः स्यात 
 2. The sacrificer who desires cattle should perform the same i.e. the Vaiśvadeva-parvan in the season in which his cows yield the most milk. 

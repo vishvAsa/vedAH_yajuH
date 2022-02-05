@@ -55,7 +55,8 @@ Sūtra cf. KS 36.1; MS 1.10.7. आविःपृष्ठं वा कृत�
 2. Cf. TB 1.6.3.5. प्रचरणकाल उद्धृत्य बर्हिषदं कृत्वा जुह्वामुपस्तीर्याधायाशयमन्वानीयाभि घार्योपांशु प्रचरति॥२२॥ 
 22. At the time of performance (of the offering of the bread),' having lifted (the bread on one potsherd) up (from the ghee), having placed it on the barhis-grass, (on the altar)2 hav ing made an under-layer of ghee in the Juhū(-ladel), having kept (the bread in the ladle), having poured ghee, on the bread which was “sleeping” (sunk) (earlier), having poured (another ghee) on it, he performs once the ritual of offering silently (i.e. without any formula). 
 1. See II.18.9. 2. Cf. KS 36.1. 
-VI.30 सर्वहुतमपर्यावर्तयन्नृजें प्रतिष्ठितं न हस्तेन जुहुयात्॥१॥ 
+## 06.30
+ सर्वहुतमपर्यावर्तयन्नृजें प्रतिष्ठितं न हस्तेन जुहुयात्॥१॥ 
 1. He offers it completely,' without letting it turn upside down, straightway, and in such a manner that it will remain well-established?; (but he does not (offer it) by means of his hand. 3 
 1. Cf. KS 36.1; MS 1. 10.7; TB 1.6.3.5. 2. Cf. TB 1.6.3.7-8. 3. Cf. TB I. 6.3.7.Bu 
 281 
@@ -109,7 +110,8 @@ ___ApSs Translation : THITE
 [VI.31 
 सिद्धमिष्टिः संतिष्ठते॥२१॥ 
 21. The offering stands completely established (i.e. con cluded) in the usual manner. 
-VI.31 यदि नानातन्त्रां श्यामाकेष्टिं कुर्वीत श्यामाकानुद्धर्तवा इति संप्रेष्यति॥१॥ 
+## 06.31
+ यदि नानातन्त्रां श्यामाकेष्टिं कुर्वीत श्यामाकानुद्धर्तवा इति संप्रेष्यति॥१॥ 
 1. If (the sacrificer) may perform an offering of Śyāmāka -(grains)' in a separate procedure, he should order “to take out the Syāmāka-grains".2 
 __ 1. In rainy season. 
 2. Cf. KB IV.12. तस्याः सप्तदश सामिधेन्यः॥२॥ 2. Of it (there should be) seventeen enkindling verses. सद्वन्तावाज्यभागौ। विराजौ संयाज्ये॥३॥ 

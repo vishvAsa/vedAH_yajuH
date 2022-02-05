@@ -30,7 +30,8 @@ Adhvaryu etc.) are going to place the Nirrti-bricks, and when the bricks for Fir
 ___1. i.e. upto XI.16.12. 
 होष्यमाणेषु प्रत्यतिक्रम्योत्तेरण हविर्धानं गत्वोत्तरेणाग्नीध्रीयं धिष्णियं परीत्य पूर्वया द्वारा प्राग्वंशं प्रविश्यापरेण शालामुखीयं दक्षिणातिक्रम्योपवि शति॥९॥ 
 9. When the (Vaisarjana-libations are about to be offered,' having stepped back, having gone towards the Havirdhāna (-shed) by the north, having gone round the Agnidhriya-dhis nya by the north, having entered into the Prāgvaṁsa-hall by the eastern door, having stepped to the west of the Sālāmukhīya (-fire) by the south of it, he sits down. 1. i.e. before XI.16.12. 
-XIV.9 
+## 14.09
+
 एवावन्दस्वेत्युपस्थे राजानं कुरुते॥१॥ 
 1. With evā vandasva...' (the Adhvaryu) places the king (Soma) on his lap.2 
 ___1. Cp. RV VIII.42.2; TB II.5.8.4. 
@@ -57,7 +58,8 @@ ____ 1. See XII.17.1; XIII. 10.14.
 7. When “O Brahman, we shall praise-sing, O Prasastr" is being uttered (by the Prastotr̥),' having recited deva savitar etatte te prāha...., 
 1. See SB IV.6.6.6%; KB XVII.7 (the orders are found in Latyass ___V.11.2; Drāhyass XV.3.2). The act takes place after XII.17.7. 2. TS III.2.7.a-f. The sentence in this Sūtra is incomplete. See the 
 next Sutra. 
-XIV.10 
+## 14.10
+
 रश्मिरसि क्षयाय त्वा क्षयं जिन्वों स्तुतेति प्रसौति॥१॥ 
 1. he orders with raśmirasi kṣayāya tvā kṣayam jinvom stuta.1 
 1. TS IV.4.1.9. सर्वस्तोत्राणामेष कल्पः॥२॥ 2. This is the procedure of all the praise-songs. उत्तरमुत्तरं स्तोमभागानां दधाति॥३॥ 

@@ -2,7 +2,8 @@
 title = "14 dakṣiṇāḥ"
 
 +++
-XIV.11 THE DAKSINAS (SACRIFICIAL GIFTS) दक्षिणां प्रतिग्रहीष्यन्सप्तदशकृत्वो ऽपान्य व्यावृत्य प्रतिगृह्णीयात्॥१॥ 
+## 14.11
+THE DAKSINAS (SACRIFICIAL GIFTS) दक्षिणां प्रतिग्रहीष्यन्सप्तदशकृत्वो ऽपान्य व्यावृत्य प्रतिगृह्णीयात्॥१॥ 
 1. When about to accept the sacrificaial gift, having taken breath for seventeen times, (and) having turned away (from it) one should accept it.' 
 1. Cf. TB II.2.5.1; II.3.2.1. See also XIV.12.6.XIV.12] 
 ÁpśS Translation : THITE 
@@ -14,7 +15,8 @@ XIV.11 THE DAKSINAS (SACRIFICIAL GIFTS) दक्षिणां प्रति
 वैश्वानर्यर्चा रथं प्रतिगृह्णीयाद्वैश्वानरः प्रलथा नाकमारुहद्दिवः पृष्ठ भन्दमानः सुमन्मभिः॥४॥ 
 4. With a verse addressed to Vaiśvānara, one should accept chariot': (the verse begins with) vaisvānarah pratnathā nākam āruhad...2 
 1. Cf. TB II.2.5.4. 2. TA III. 10; see I.7.6. The verse is completed in the next Sutra. 
-XIV.12 स पूर्ववज्जनयज्जन्तवे धनं समानमज्मा परियाति जागृविरिति॥१॥ 1. sa pūrvavaj jantave...' 
+## 14.12
+स पूर्ववज्जनयज्जन्तवे धनं समानमज्मा परियाति जागृविरिति॥१॥ 1. sa pūrvavaj jantave...' 
 1. See Sutra 4 in XIV. 11. यत्किंचाप्राणत्तत्सर्वमुत्तानस्त्वाङ्गीरसः प्रतिगृह्णात्वित्येव प्रतिगृह्णीयात्। यद्वानाम्नातमन्त्रम्॥२॥ 
 2. Whatever is an inannimate thing, one should accept it 
 794 
@@ -34,4 +36,3 @@ ranslation : THITE
 बर्हिषा प्रतीयाद्गां वावं वा॥७॥ अन्नेन पुरुषं हस्तिनं वा॥८॥ गन्धैः प्रियवद्येन च तल्पम्॥९॥ 
 7-9. One should go towards the cow or the horse (given to one) with sacrificial grass (in one's hand),' towards the man or the horse with food; towards the bed?, with fragrances and pleasing speech. 
 1. Cf. TB II.3.2.6. 2. The “bed" metaphorically means “wife" according to Rudradatta. 
-XIV.13 

@@ -2,7 +2,9 @@
 title = "15 cāturhotram"
 
 +++
-THE RITUAL OF THE CATURHOTR-FORMULAE 
+THE RITUAL OF THE CATURHOTR-FORMULAE
+## 14.13
+
 संवत्सरं चतुर्णामेको नाश्नीयात्। तद्वतमिति विज्ञायते चतुर्होतॄणामनुब्रुवा णस्य॥१॥ 
 1. In connection with one who is studying the Caturhotr. formulael it is known (from a Brāhmaṇa-text): “One should not eat for a year, being one of the four. This is the vow."? 
 1. TA III.2. 
@@ -47,7 +49,8 @@ ____1. See TB II.2.1.7.
 798 
 ranslation : THITE 
 [XIV.14 
-XIV.14 यद्वाचः क्रूरं तेन वषट्करोति। वाच एवैनं क्रूरेण प्रवृश्चति। ताजगार्तिमा ईतीति विज्ञायते॥१॥ 
+## 14.14
+यद्वाचः क्रूरं तेन वषट्करोति। वाच एवैनं क्रूरेण प्रवृश्चति। ताजगार्तिमा ईतीति विज्ञायते॥१॥ 
 1. “One utters the Vaṣaç-call with whatever is the cruel part of the speech. One thereby cuts him (the enemy) with the help of the cruel part of the speech only. Immediately he gets pain”-thus is known (from a Brāhmaṇa-text).' 
 1. TB II.2.1.7 (TS III.4.8.5). The cruel part of the speech means the 
 __expressions khat, phat etc. (See TA IV.27). 
@@ -82,7 +85,8 @@ __ 1. For this Sutra cf. TB II.2.11.1-4.
 अथैष ऋतुमुखीयः षड्ढोता वाग्घोतेति। तस्य वदत्यूतुमुखऋतुमुखे जुहुयादिति। स सार्वकामः॥१३॥ 
 13. Now this Saddhotr (-formula beginning with) vāgghota ... which is to be used at the beginning of every season about this (the Brāhmaṇa-text)2 says, “One should offer in the beginning of every season. This (formula) is a fulfiller of all the desires." 
 1. TA III.6. 2. TB II.3.2.2. Here a performer of an expiation is understood. 
-XIV.15 
+## 14.15
+
 यद्येनमात्विज्यादतं सन्तं निहरेरन्नाग्नीधे जुहुयादशहोतारं चतुर्गहीते नाज्येन पुरस्तात्प्रत्यतिष्ठन्प्रतिलोमं विग्राहम्। प्राणानेवास्योपदासयति॥ यद्येनं पुनरुपशिक्षेयुराग्नीध्र एव जुहुयाद्दशहोतारं चतुर्ग्रहीतेनाज्येन पश्चात्प्राङासीनो ऽनुलोममविग्राहम्। प्राणानेवास्मै कल्पयतीति विज्ञायते॥१॥ 
 1. "If they may take away him who has been selected for the office of a priest, he (the Adhvarya) should offer a four times scooped ghee, in the Āgnidhra (fire) while standing in front of it, with his face to the west by means of Daśahotr̥ formulae uttering these formulae in the reverse order, taking halt after every part of it. He (thereby) indeed causes his' breaths 
 801 

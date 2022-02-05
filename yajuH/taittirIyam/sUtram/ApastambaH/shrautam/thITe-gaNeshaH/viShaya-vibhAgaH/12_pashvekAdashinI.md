@@ -4,7 +4,8 @@ title = "12 PAŚVEKĀDAŚINĪ"
 +++
 776 
 PAŚVEKĀDAŚINĪ (ELEVEN-ANIMALS-SACRIFICE) 
-XIV.5 क्रतुपशव ऐकादशिनाश्च विकल्पन्ते॥१॥ 
+## 14.05
+क्रतुपशव ऐकादशिनाश्च विकल्पन्ते॥१॥ 
 1. The animals which are normal to a sacrificel and those conneted with the eleven (number) are alternatives to each other. 
 1. See XII.18.12-14. 2. Enumerated in TS V.5.22: a he-goat with black neck for Agni, a 
 ewe for Sarasvati, a brown he-goat for Soma, a grey he-goat for Pūṣan, a he-goat with white back for BỊhaspati, a spotted he-goat for Viśvedevas, a reddish he-goat for Indra, a speckled he-goat for Maruts, a mixed-coloured he-goat for Indra and Agni, a he 
@@ -65,7 +66,8 @@ some ritualists.
 21. (The line of the sacrificial posts) should be tall (and taller successively) in the south.' 
 1. Cf MS IV.7.9. उत्तरत उन्नतां मिनुयात्पितृलोककामस्य॥२२॥ 
 22. In the case of a (sacrificer) desirous of the world of ancestors, (it should be) tall (and taller successively) towards the north. 
-XIV.6 सर्वान्समान्प्रतिष्ठाकामस्य॥१॥ 
+## 14.06
+सर्वान्समान्प्रतिष्ठाकामस्य॥१॥ 
 1. In the case of a (sacrificer) desirous of firm establi shement, (the Adhvaryu should fix the sacrificial posts) all equal (in height).' 
 1. Cf. TS VI.6.4.1. ये त्रयो मध्यमास्तान्समान्पशुकामस्य। व्यतिषजेदितरान्॥२॥ 
 2. In the case of a (sacrificer) desirous of cattle (he should fix) those which are in the middle to be of equal (height) (and he should make) the other (posts) alternately (of equal height).' 
@@ -105,7 +107,8 @@ ___1. TS VI.6.4.1; cp. MS IV.7.9.
 15. He dedicates (the ram with its hind part) to the south and with its face to the north, to Varuṇa, at the end.' 
 1. Cf. TS VI.6.5.4. यदि कामयेत यो ऽवगतः सो ऽपरुध्यतामित्युक्तम्॥१६॥ 
 16. It is said (in a Brāhmaṇa-text), "If he desires that one who has obtained power should be deprived of power...."1 (and this is applicable here). 1. TS VI.6.5.3-4. 
-XIV.7 
+## 14.07
+
 आरण्यं पशुमालुं वोपशये निर्दिशेत्॥१॥ असौ ते पशुरिति वा द्वेष्यं मनसा ध्यायन्॥२॥ यदि न द्विष्यादाखुस्ते पशुरिति ब्रूयात्॥३॥ 
 1-3. (The Adhvaryu) should assign a forest-animal or a mole at the Upasaya; or while thinking of him mentally, (he should assign) the enemy with “N.N. is your animal." If he does not hate any one, he should say “The mole is your animal." 
 ____ 1. Cf. TS VI.6.4.5-6. प्रतिपशु बहींषि वपाश्रपण्यः कुम्भ्यो हृदयश्रूलाच॥४॥ 
