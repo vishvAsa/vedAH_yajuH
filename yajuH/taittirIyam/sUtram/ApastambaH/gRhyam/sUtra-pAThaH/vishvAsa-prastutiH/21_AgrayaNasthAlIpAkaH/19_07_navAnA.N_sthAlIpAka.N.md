@@ -7,3 +7,5 @@ title = "१९ ०७ नवानाँ स्थालीपाकँ"
 गीर्त्वा +++(जलम् पीत्वा)+++ ऽऽचम्य  
 +ओदन-पिण्डं संवृत्त्य +++(यथा+उत्क्षेपे न विशीर्येत)+++  
 +उत्तरेण यजुषा+++(प॒र॒मे॒ष्ठ्य् असि॑ पर॒मां मा॒ꣳ॒ श्रियं॑ गमय ।)+++ ऽऽगार-स्तूप उद्विद्धेत्+++(=उद्-विध्येत्)+++ ७  
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/01_parameShThyasi_paramAm.md"  newLevelForH1="2" includeTitle="false"> </div>  
