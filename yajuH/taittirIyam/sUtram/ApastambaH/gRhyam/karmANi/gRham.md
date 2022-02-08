@@ -18,7 +18,6 @@ practice_weight: 0
 __________________
 
 ### स्थूणावधानम्
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/02_syonA_pRthivi.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_03_kLLiptamuttarayAbhimRshya.md"  newLevelForH1="2" includeTitle="false"> </div>  
 __________________
@@ -51,7 +50,7 @@ __________________
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_11_dIrghamuttarayA-numantrayate_atha.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/17_bhUmirbhUmimagAnmAtA_mAtaramapyagAt.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_11_dIrghamuttarayA-numantrayate_atha.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## होमः
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_12_agnerupasamAdhAnAdyAjyabhAgAnte.md"  newLevelForH1="2" includeTitle="false"> </div>  
