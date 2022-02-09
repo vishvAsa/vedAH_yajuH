@@ -11,5 +11,3 @@ practice_weight: 0
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/21_AgrayaNasthAlIpAkaH/19_06_anAhitAgnerAgrayaNam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/21_AgrayaNasthAlIpAkaH/19_07_navAnA.N_sthAlIpAka.N.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/01_parameShThyasi_paramAm.md"  newLevelForH1="2" includeTitle="false"> </div>
