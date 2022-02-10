@@ -134,6 +134,7 @@ _index.md
 05_23_ArohatImuttarAbhirabhimantrayate_atha.md
 05_24_sUtre.md
 05_25_te_uttarAbhirabhiyAti.md
+05_26_tIrthasthANuchatuShpathavyatikrame.md
 06_01_nAvamuttarayA-numantrayate_atha.md
 06_02_na_cha.md
 06_03_tIrtvottarA~n_japet.md
