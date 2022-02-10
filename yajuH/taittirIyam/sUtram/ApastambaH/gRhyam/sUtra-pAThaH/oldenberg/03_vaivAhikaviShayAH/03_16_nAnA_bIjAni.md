@@ -2,7 +2,4 @@
 title = "०३ १६ नाना बीजानि"
 
 +++
-16. [^8]  If she touches one of the former (objects, this portends) prosperity as characterized (by the nature of what she has touched).
-
-
-[^8]:  The seeds mean offspring, and so on.
+15. (The objects are), different kinds of seeds mixed together, loose earth from (the kind of sacrificial altar called) vedi, an earth-clod from a field, cow-dung, and an earth-clod from a cemetery.
