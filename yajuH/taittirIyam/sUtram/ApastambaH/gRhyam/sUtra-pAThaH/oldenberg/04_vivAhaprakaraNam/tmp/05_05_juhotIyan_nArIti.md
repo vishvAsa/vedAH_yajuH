@@ -1,5 +1,5 @@
 +++
-title = "०५ ०६ उत्तराभिस्तिसृभिः"
+title = "०५ ०५ जुहोतीयन् नारीति"
 
 +++
 6. [^3]  He (?) sacrifices (that grain) with (the verse), 'This wife' (M. I, 5, 2).

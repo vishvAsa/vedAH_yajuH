@@ -1,5 +1,5 @@
 +++
-title = "०५ ११ पुनः परिक्रमणम्"
+title = "०५ १२ जयादि प्रतिपद्यते"
 
 +++
 11. [^5]  He enters upon the performance of the Jaya and following oblations.
