@@ -7,3 +7,5 @@ title = "२० ०५ उत्तरेण"
 देवसेनाभ्यो दशोत्तराभ्यः ५  
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/32_svasti_naH.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/33_-45_gRhapopaspRsha_gRhapAya.md"  newLevelForH1="2" includeTitle="false"> </div>  
