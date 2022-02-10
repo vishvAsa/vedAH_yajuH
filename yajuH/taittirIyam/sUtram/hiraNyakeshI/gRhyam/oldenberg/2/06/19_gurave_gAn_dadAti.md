@@ -2,7 +2,6 @@
 title = "19 गुरवे गान् ददाति"
 
 +++
-19. [^6]  Or he performs the Godāna sacred to Agni.
+20. He gives a cow to his Guru.
 
-
-[^6]:  Agnigodāno vā kumāro bhavati upasamādhānādi punyāhavācanāntam agnikāryam iva vā bhavatīty arthaḥ. Mātṛdatta. Comp., however, the note on Āpastamba-Gṛhya VI, 16, 13.
+End of the First Paṭala.

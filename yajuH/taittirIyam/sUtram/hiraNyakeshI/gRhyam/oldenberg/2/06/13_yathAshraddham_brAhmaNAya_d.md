@@ -2,7 +2,7 @@
 title = "13 यथाश्रद्धम् ब्राह्मणाय ददाति"
 
 +++
-13. [^4]  A person who is kindly disposed towards him, gathers the (cut-off) hair and buries it in a cow-stable, or near an Udumbara tree, or in a clump of Darbha grass, with (the Mantra), 'Where Pūṣan, Bṛhaspati, Savitṛ, Soma, Agni (dwell), they have in many ways searched where they should depose it, between heaven and earth, the waters and heaven.'
+14. [^5]  He makes a gift to a Brāhmaṇa according to his liberality.
 
 
-[^4]:  Comp. I, 3, 9, 18.
+[^5]:  Literally, according to his faith (yathāśraddham).

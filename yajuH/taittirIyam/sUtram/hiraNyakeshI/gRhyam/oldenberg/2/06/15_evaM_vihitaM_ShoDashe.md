@@ -2,4 +2,4 @@
 title = "15 एवं विहितं षोडशे"
 
 +++
-15. To the barber (he gives) boiled rice with butter.
+16. In the same way the Godānakarman (or the ceremony of shaving the beard) is performed in the sixteenth year.
