@@ -19,4 +19,4 @@ And (again the formulas),
 
 'May I be beloved (?) and dear to thee, N.N.!
 
-May I be dear to thee, the fire (?), N.N.! Let us dwell here! Let us dwell in breath and life! Dwell in breath and life, N.N.!'
+May I be dear to thee, the fire (?), N.N.! Let us dwell here! Let us dwell in breath and life! Dwell in breath and life, N.N.!' - 

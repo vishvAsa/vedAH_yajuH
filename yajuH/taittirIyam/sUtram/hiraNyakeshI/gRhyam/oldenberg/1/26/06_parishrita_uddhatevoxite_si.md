@@ -1,0 +1,5 @@
++++
+title = "06 परिश्रित उद्धतेवोक्षिते सिकतोपोप्ते"
+
++++
+6. (The punarādhāna or repeated setting up of the fire is performed in the following way): in an enclosed space, having raised (the surface), sprinkled it (with water), strewn it with sand, and covered it with Udumbara or Plakṣa branches, he silently brings together the things belonging to (the sacrifice) according as he is able to get them, produces fire by attrition out of a sacrificially pure piece of wood, or gets a common fire, places it in a big vessel, sets it in a blaze, and puts (fuel) on it with the words, 'Bhūḥ! Bhuvaḥ! Suvaḥ! Om! Fixity!'
