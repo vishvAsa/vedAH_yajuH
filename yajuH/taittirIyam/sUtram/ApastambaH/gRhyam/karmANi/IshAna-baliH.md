@@ -28,7 +28,6 @@ practice_weight: 0
 
 ## देवताभ्यः सहौदनानां पर्णानां दानम् ।
 - सप्तभिर् उत्तरैस्सहौदनानि पर्णान्येकैकेन द्वे द्वे दत्वा (ईशानमीढुषिभ्याम्)
-  <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/33_-45_gRhapopaspRsha_gRhapAya.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_06_pUrvavaduttaraiH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
@@ -39,7 +38,7 @@ practice_weight: 0
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_09_prathamottamau_vA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/46_namo_niShangiNe.md"  newLevelForH1="2" includeTitle="false"> </div>
+
 +++(ततोऽग्रे ऽत्र रुद्रान् जपेत् ।)+++
 
 
