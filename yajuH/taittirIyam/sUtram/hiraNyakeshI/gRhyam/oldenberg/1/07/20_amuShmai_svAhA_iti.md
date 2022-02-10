@@ -2,7 +2,7 @@
 title = "20 अमुष्मै स्वाहा इति"
 
 +++
-20. [^11]  'May all gods bless thee whose first garment we accept. May after thee, the prosperous one, the well-born, many brothers and friends be born'with (this verse the teacher) takes (for himself) the former garment (of the student).
+23. [^12]  If the deity is indicated, (let him sacrifice) with (the words), 'To such and such (a deity) svāhā!' according to which deity it is.
 
 
-[^11]:  See above, I, 1, 4, 2, and comp. Atharva-veda II, 13, 5.
+[^12]:  Comp. above, I, 1, 3, 3.

@@ -2,7 +2,7 @@
 title = "17 यस्य ते प्रथमवास्यं"
 
 +++
-17. [^10]  Then (let him beg) in other houses where they are kindly disposed towards him.
+20. [^11]  'May all gods bless thee whose first garment we accept. May after thee, the prosperous one, the well-born, many brothers and friends be born'with (this verse the teacher) takes (for himself) the former garment (of the student).
 
 
-[^10]:  The commentary explains rātikuleshu by jñātiprabhṛtishu;comp. yoऽsya rātir bhavati, I, 3, 9, 18.
+[^11]:  See above, I, 1, 4, 2, and comp. Atharva-veda II, 13, 5.

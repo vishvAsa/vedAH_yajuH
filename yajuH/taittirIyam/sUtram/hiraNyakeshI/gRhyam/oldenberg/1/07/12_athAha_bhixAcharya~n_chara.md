@@ -2,7 +2,4 @@
 title = "12 अथाह भिक्षाचर्यञ् चर"
 
 +++
-12. [^6]  He then gives an optional gift to his Guru (i.e. to the teacher).
-
-
-[^6]:  Comp. Śāṅkhāyana I, 14, 13 seq.
+15. Then he says to him, 'Go out for alms.'

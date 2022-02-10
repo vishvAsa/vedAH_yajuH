@@ -2,7 +2,7 @@
 title = "14 अतोन्येषु रातिकुलेषु"
 
 +++
-14. [^8]  'May Agni further give thee life. May Agni further grant thee bliss. May Indra with the Maruts here give (that) to thee; may the sun with the Vasus give (it) to thee'with (this verse the teacher) gives him a staff, and then hands over to him a bowl (for collecting alms).
+17. [^10]  Then (let him beg) in other houses where they are kindly disposed towards him.
 
 
-[^8]:  Śāṅkhāyana II, 6, 2, &c.
+[^10]:  The commentary explains rātikuleshu by jñātiprabhṛtishu;comp. yoऽsya rātir bhavati, I, 3, 9, 18.
