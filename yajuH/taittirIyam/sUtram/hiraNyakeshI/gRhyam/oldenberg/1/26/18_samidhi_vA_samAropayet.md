@@ -2,4 +2,4 @@
 title = "18 समिधि वा समारोपयेत्"
 
 +++
-18. If the fire is destroyed or lost, or if it is mixed with other fires, it has to be set up again..
+14. A piece of Khadira wood, or of Palāśa, or of Udumbara, or of Aśvattha wood - 
