@@ -94,6 +94,7 @@ list.txt
 31_jaTilaH.md
 32_shikhAjaTo_vA_vApayed.md
 33_maunjI_mekhalA_trivRd.md
+34_jyA_rAjanyasya.md
 35_maunjI_vAyomishrA.md
 36_AvIsUtraM_vaishyasya.md
 37_sairI_tAmalI_vetyeke.md

@@ -72,6 +72,7 @@ _index.md
 08_nAdhyApanam.md
 09_tato_yo_nirvartate.md
 10_tata_Urdhvam_prakRtivat.md
+11_upetasyAchAryakule_brahmachArivAsaH.md
 12_aShTAchatvAriMshadvarShANi.md
 13_pAdUnam.md
 14_ardhena.md
@@ -129,6 +130,7 @@ _index.md
 23_akrodhanaH.md
 24_anasUyuH.md
 25_sarvaM_lAbhamAharangurave_sAyam.md
+26_strINAm_pratyAchaxANAnAM_samAhito.md
 27_nAnumAnena_bhaixam.md
 28_bhavatpUrvayA_brAhmaNo_bhixeta.md
 29_bhavadmadhyayA_rAjanyaH.md
@@ -152,6 +154,7 @@ _index.md
 ./1/01/04:
 01_yaduchChiShTam_prAshnAti.md
 02_haviruchChiShTameva_tat.md
+03_yadanyAni_dra_vyANi.md
 04_sa_eSha_brahmachAriNo.md
 05_na_chAsmai_shrutivipratiShiddham.md
 06_yathA_xAralavaNamadhumAMsAnIti.md
@@ -317,6 +320,7 @@ _index.md
 28_AchAryo-pyanAchAryo_bhavati_shrutAtpariharamANaH.md
 29_aparAdheShu_chainaM_satatamupAlabheta.md
 30_abhitrAsa_upavAsa_udakopasparshanamadarshanamiti.md
+31_nivRtta~n_charitabrahmacharyamanyebhyo_dharmebhyo-nantaro.md
 
 ./1/03:
 09
@@ -346,6 +350,7 @@ _index.md
 20_sandhAvanustanite_rAtrim.md
 21_svapnaparyAntaM_vidyuti.md
 22_upavyuShaM_yAvatA_vA.md
+23_dahre-pararAtre_stanayitnunA.md
 24_UrdhvamardharAtrAdityeke.md
 25_gavA~n_chAvarodhe.md
 26_vadhyAnA~n_cha_yAvatA.md
@@ -863,6 +868,7 @@ _index.md
 ./1/11/30:
 01_vidyayA_snAtItyeke.md
 02_tathA_vratenAShTAchatvAriMshatparImANena.md
+03_vidyAvratena_chetyeke.md
 04_teShu_sarveShu_snAtakavadvRttiH.md
 05_samAdhivisheShAchChrutivisheShAchcha_pUjAyAm_phalavisheShaH.md
 06_atha_snAtakavratAni.md
@@ -1175,6 +1181,7 @@ _index.md
 14_tasya_chechChAstramatipravarteranrajAna~N_gamayet.md
 15_rAjA_purohitan_dharmArthakushalam.md
 16_sa_brAhmaNAnniyunjyAt.md
+17_balavisheSheNa_vadhadAsyavarjan_niyamairupashoShayet.md
 
 ./2/05/11:
 01_itareShAM_varNAnAmA_prANaviprayogAtsamavexya.md
@@ -1454,6 +1461,7 @@ _index.md
 19_ata_eva_brahmacharyavAnpravrajati.md
 20_tasyopadishanti.md
 21_ekAgniraniketaH_syAdasharmAsharaNo_muniH.md
+22_svAdhyAya_evotsRjamAno_vAcham.md
 
 ./2/09/22:
 01_tasyAraNyamAchChAdanaM_vihitam.md
@@ -1579,6 +1587,7 @@ _index.md
 18_niyamAtikramaNamanyaM_vA_rahasi.md
 19_A_samApatteH.md
 20_asamApattau_nAshyaH.md
+21_AchArya_Rtvik_snAtako.md
 
 ./2/11:
 28
