@@ -2,4 +2,4 @@
 title = "21 चतुर्भिः सूक्तैश्चतस्रो दिश"
 
 +++
-21. Or with (the formula), 'To Rudra svāhā!'
+23. With the following four hymns he should worship the four quarters, viz. 'What shall we to Rudra,' 'These prayers to Rudra,' 'To thee, O father,' 'These songs to Rudra with the strong bow' (Rig-veda I, 43, 114; II, 33; VII, 46).

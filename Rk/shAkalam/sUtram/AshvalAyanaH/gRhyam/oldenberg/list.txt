@@ -719,6 +719,8 @@ list.txt
 10_vitastyavAka.md
 11_abhita_AkAshaM_shmashAnam.md
 12_bahulauShadhikam.md
+13_kaNTakixIriNastviti_yathokt.md
+14_yatra_sarvata_ApaH.md
 15_keshashmashrulomanakhAnItyu.md
 16_dvigulpham_barhirAjyancha.md
 17_dadhanyatra_sarpirAnayantye.md
@@ -912,3 +914,4 @@ list.txt
 42_sthAlIpAkaM_sarvahutam.md
 43_barhirAjyanchAnuprahRtya_dh.md
 44_shantAtIya~n_japanpashUnAm_.md
+45_namaH_shaunakAya_namaH.md

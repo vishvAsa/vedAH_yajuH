@@ -2,4 +2,4 @@
 title = "17 हराय मृडाय शर्वाय"
 
 +++
-17. We shall state what is different.
+19. With (the formulas), 'To Hara, Mṛḍa, Śarva, Śiva, Bhava, Mahādeva, Ugra, Bhīma, Paśupati, Rudra, Śaṅkara, Īśāna svāhā!'

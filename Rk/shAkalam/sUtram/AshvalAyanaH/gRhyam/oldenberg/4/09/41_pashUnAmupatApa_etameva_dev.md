@@ -2,4 +2,4 @@
 title = "41 पशूनामुपताप एतमेव देवम्"
 
 +++
-41. A mess of cooked food, which he sacrifices in its entirety.
+40. If disease befalls his cattle, he should sacrifice to that same god in the midst of his cow-stable - 

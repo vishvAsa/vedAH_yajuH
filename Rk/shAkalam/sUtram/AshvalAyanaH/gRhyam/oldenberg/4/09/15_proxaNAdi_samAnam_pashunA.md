@@ -2,7 +2,8 @@
 title = "15 प्रोक्षणादि समानम् पशुना"
 
 +++
-15 [^5] . Having caused a Brahman who is versed in learning and knows the practice (of this sacrifice), to sit down, having driven a fresh branch with leaves into the ground as a sacrificial post, (having taken) two creeping plants or two Kuśa ropes as two girdles, and having wound the one round the sacrificial post, and tied the other round the middle of the animal's head, he binds it to the sacrificial post or to the girdle (which he had tied to that post) with (the formula), 'Agreeable to him to whom adoration (is brought), I bind thee.'
+16 [^6] . The sprinkling with water and what follows is the same as at the animal sacrifice.
 
+17. We shall state what is different.
 
-[^5]:  Round the middle of the head means, between the two horns. Nārāyaṇa.
+[^6]:  See above, I, 11.
