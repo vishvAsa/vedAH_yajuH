@@ -296,6 +296,7 @@ title = "०४ विवाहप्रकरणम्"
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_26_tIrthasthANuchatuShpathavyatikrame.md"  newLevelForH1="3" includeTitle="true" > </div>
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/05_26_tIrthasthANuchatuShpathavyatikrame.md"  newLevelForH1="4" title="हरदत्तः"  > </div>
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/04_vivAhaprakaraNam/05_26_tIrthasthANuchatuShpathavyatikrame.md"  newLevelForH1="4" title="सुदर्शनः"  > </div>
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/04_vivAhaprakaraNam/05_26_tIrthasthANuchatuShpathavyatikrame.md"  newLevelForH1="4" title="Oldenberg"  > </div>
 
 ## ०६ ०१ नावमुत्तरयाऽनुमन्त्रयते अथ
 
@@ -575,6 +576,7 @@ title = "०४ विवाहप्रकरणम्"
 <div class="js_include " url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_28_paurNamAsyAm_paurNamAsI.md"  newLevelForH1="3" includeTitle="true" > </div>
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/07_28_paurNamAsyAm_paurNamAsI.md"  newLevelForH1="4" title="हरदत्तः"  > </div>
 <div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/04_vivAhaprakaraNam/07_28_paurNamAsyAm_paurNamAsI.md"  newLevelForH1="4" title="सुदर्शनः"  > </div>
+<div class="js_include collapsed" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/04_vivAhaprakaraNam/07_28_paurNamAsyAm_paurNamAsI.md"  newLevelForH1="4" title="Oldenberg"  > </div>
 
 ## ०८ ०१ उपाकरणे समापने
 
