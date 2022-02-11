@@ -36,6 +36,7 @@ list.txt
 02_trayaH_pAkayajnAH.md
 03_hutA_agnau_hUyamAnA.md
 04_athApyRcha_udAharanti_yaH.md
+05_samidhamevApi_shraddadhAna_.md
 
 ./1/02:
 01_atha_sAyamprAtaHsiddhasya_h.md
@@ -48,6 +49,7 @@ list.txt
 08_sarvebhyo_bhUtebhyo_divAchA.md
 09_naktanchAribhya_iti_naktam.md
 10_raxobhya_ityuttarataH.md
+11_svadhA_pitRbhya_iti.md
 
 ./1/03:
 01_atha_khalu_yatra.md
@@ -76,6 +78,7 @@ list.txt
 03_buddhirUpashIlalaxaNasampan.md
 04_durvijneyAni_laxaNAnIti.md
 05_aShTau_piNDAnkRtvA_Rtamagre.md
+06_xetrAchchedubhayataHsasyAdg.md
 
 ./1/06:
 01_alankRtya_kanyAmudakapUrvAm.md
@@ -126,6 +129,7 @@ list.txt
 12_saMvatsaraM_vaika_RShirjAya.md
 13_charitavrataH_sUryAvide_vad.md
 14_annam_brAhmaNebhyaH.md
+15_atha_svastyayanaM_vAchayIta.md
 
 ./1/09:
 01_pANigrahaNAdi_gRhyam_parich.md
@@ -135,6 +139,7 @@ list.txt
 05_prAduShkaraNahomakAlau_vyAk.md
 06_haumya~n_cha_mAMsavarjam.md
 07_kAman_tu_vrIhiyavatilaiH.md
+08_agnaye_svAheti_sAya~n.md
 
 ./1/10:
 01_atha_pArvaNasthAlIpAkaH.md
@@ -219,6 +224,8 @@ list.txt
 08_yugmAni_tveva_puMsAm.md
 09_ayujAni_strINAm.md
 10_abhivAdanIya~n_cha_samIxeta.md
+11_pravAsAdetya_putrasya_shira.md
+12_AvRtaiva_kumAryai.md
 
 ./1/16:
 01_ShaShThe_mAsyannaprAshanam.md
@@ -290,7 +297,7 @@ list.txt
 01_mantreNa_haike_agnaye.md
 02_sa_samidhamAdhAyAgnimupaspR.md
 03_tejasA_hyevAtmAnaM_samanakt.md
-04_hIti.md
+04_mayi_medhAm.md
 05_tasya_vAsasA_pANibhyA~n.md
 06_yathAshakti_vAchayIta.md
 07_hRdayadeshe-syorddhvAngulim.md
@@ -607,6 +614,7 @@ list.txt
 08_xutvA_jRmbhitvA-manojnan_dR.md
 09_agamanIyA~N_gatvAyAjyaM_yAj.md
 10_samidhau_vA.md
+11_japedvA.md
 
 ./3/07:
 01_avyAdhitanchatsvapantamAdit.md
@@ -645,10 +653,12 @@ list.txt
 04_vidyAnte_gurumarthena_niman.md
 05_tasyaitAni_vratAni_bhavanti.md
 06_na_naktaM_snAyAt.md
+07_na_vRxamArohet_na.md
+08_mahadvai_bhUtaM_snAtako.md
 
 ./3/10:
 01_gurave_prasraxyamANo_nAma.md
-02_iti.md
+02_idaM_vatsyAmo_bho.md
 03_uchchairUrdhvan_nAmnaH.md
 04_prANApAnayorupAMshu.md
 05_A_mandrairindra_haribhiriti.md

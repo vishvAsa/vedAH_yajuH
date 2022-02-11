@@ -2,4 +2,4 @@
 title = "05 मुञ्चामि त्वा हविषा"
 
 +++
-5. If he has seen a bad dream, he should worship the sun with the two verses, 'To-day, god Savitṛ' (Rig-veda V, 82, 4, 5), and with the five verses, 'What bad dreams there are among the cows' (Rig-veda VIII, 47, 14 seqq.),
+4. With this (hymn), 'I loosen thee by sacrificial food, that thou mayst live' (Rig-veda X, 161).
