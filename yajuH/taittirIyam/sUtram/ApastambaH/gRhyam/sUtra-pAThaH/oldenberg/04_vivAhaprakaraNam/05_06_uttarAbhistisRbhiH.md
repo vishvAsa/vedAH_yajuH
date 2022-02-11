@@ -2,7 +2,7 @@
 title = "०५ ०६ उत्तराभिस्तिसृभिः"
 
 +++
-6. [^3]  He (?) sacrifices (that grain) with (the verse), 'This wife' (M. I, 5, 2).
+7. [^4]  Having gone round the fire, with the right side turned towards it, with the next three (verses; M. I, 5, 3-5) he makes her tread on the stone as above (M. I, 5, 6).
 
 
-[^3]:  'The action of sacrificing belongs to the bridegroom; the hands of the wife represent the sacrificial vessel.' Haradatta. - 'It is the bridegroom who sacrifices the grain with the verse, "This wife."' Sudarśanārya.
+[^4]:  See above, Sūtra 3.

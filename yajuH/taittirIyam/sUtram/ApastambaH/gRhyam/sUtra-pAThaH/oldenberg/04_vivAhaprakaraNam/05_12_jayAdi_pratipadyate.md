@@ -2,7 +2,7 @@
 title = "०५ १२ जयादि प्रतिपद्यते"
 
 +++
-12. [^6]  Having performed (the rites) down to the sprinkling (of water) round (the fire), and having untied the rope with the next two verses (I, 5, 16. 17), he should then make her depart (from her father's house in a vehicle), or should have her taken away.
+11. [^5]  He enters upon the performance of the Jaya and following oblations.
 
 
-[^6]:  12 seq. Comp. Hiraṇyakeśin I, 7, 22, 1 seq.
+[^5]:  11, 12. See Section 2, Sūtras 7. 8; Section 4, Sūtra 8.

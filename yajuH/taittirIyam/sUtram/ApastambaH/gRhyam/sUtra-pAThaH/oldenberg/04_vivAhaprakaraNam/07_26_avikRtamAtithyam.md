@@ -2,7 +2,8 @@
 title = "०७ २६ अविकृतमातिथ्यम् "
 
 +++
-26. [^10]  (The deities) of the Vaiśvadeva ceremony are the Viśve devās,
+
+25. [^9]  The sacrifice (of a cow) on the arrival of a guest (should be performed as stated below) without alterations.
 
 
-[^10]:  See Āpastamba Dharma-sūtra II, 2, 3, 1 (S.B.E., vol. ii, p. 103).
+[^9]:  See below, V, 13, 16.

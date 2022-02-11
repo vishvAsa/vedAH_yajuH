@@ -2,7 +2,8 @@
 title = "०७ २७ वैश्वदेवे विश्वे"
 
 +++
-27. [^11]  Of ceremonies performed on full-moon days, the full-moon day on which they are performed.
+
+26. [^10]  (The deities) of the Vaiśvadeva ceremony are the Viśve devās,
 
 
-[^11]:  For instance, the Srāvaṇī paurṇamāsī is the deity of the ceremony described below, VII, 18, 5 seq.
+[^10]:  See Āpastamba Dharma-sūtra II, 2, 3, 1 (S.B.E., vol. ii, p. 103).

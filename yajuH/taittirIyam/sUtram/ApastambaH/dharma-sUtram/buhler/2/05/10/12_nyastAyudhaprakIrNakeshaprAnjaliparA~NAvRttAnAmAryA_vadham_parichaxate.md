@@ -2,7 +2,7 @@
 title = "12 न्यस्तायुधप्रकीर्णकेशप्राञ्जलिपराङावृत्तानामार्या वधम् परिचक्षते"
 
 +++
-12. The spiritual guide shall order those who, [^7]  (whilst) participating according to sacred law (in the rights of their caste), have gone astray through the weakness of their senses, to perform penances proportionate to (the greatness of) their sins, according to the precepts (of the Smṛti).
+11. The Āryas forbid the slaughter of those who have laid down their arms, of those who (beg for mercy) with flying hair or joined hands, and of fugitives. [^6] 
 
 
-[^7]:  Haradatta explains the words Śāstrair adhigatānām, 'who whilst participating, according to the sacred law, (in the rights of their caste,)' by 'who have been sanctified according to the law by the sacraments, such as the Garbhādhāna, and are entitled (to the rights and occupations of their caste).'
+[^6]:  Manu VII, 91 seq.; Yājñ. 1, 325.

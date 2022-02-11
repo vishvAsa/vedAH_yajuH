@@ -1,0 +1,8 @@
++++
+title = "08 इह प्रियम् प्रजया"
+
++++
+8 [^5] . With (the verse), 'Here may delight fulfil itself to thee through offspring' (Rig-veda X, 85, 27) he should make her enter the house.
+
+
+[^5]:  Śāṅkhāyana-Gṛhya I, 15, 22; 16, 12.

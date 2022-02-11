@@ -1,0 +1,8 @@
++++
+title = "06 तस्य पुरस्तादुल्मुकं हरन्ति"
+
++++
+6 [^2] . In front of it they carry a fire-brand.
+
+
+[^2]:  It seems that this fire-brand is the same which had been carried round the animal, according to Sūtra 5. Comp. Kātyāyana-Śrauta-sūtra VI, 5, 2-5.

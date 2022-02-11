@@ -1,0 +1,8 @@
++++
+title = "19 अनिन्दितायान्दिश्येकमूलम् पलाशङ् कुशस्तम्बं"
+
++++
+21 [^7] . While (the student) towards an unobjectionable direction (of the horizon) sprinkles thrice (water) from the left to the right with a water-pot round a Palāśa (tree) with one root, or round a Kuśa bunch, if there is no Palāśa, (the teacher) causes him to say, 'O glorious one, thou art glorious. As thou, O glorious one, art glorious, thus, O glorious one, lead me to glory. As thou art the preserver of the treasure of sacrifice for the gods, thus may I become the preserver of the treasure of the Veda for men.'
+
+
+[^7]:  'The objectionable directions are three, the south, the southeast, the south-west.' Nārāyaṇa.

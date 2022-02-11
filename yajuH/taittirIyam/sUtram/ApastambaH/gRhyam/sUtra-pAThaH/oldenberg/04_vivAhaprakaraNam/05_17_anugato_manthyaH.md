@@ -2,4 +2,4 @@
 title = "०५ १७ अनुगतो मन्थ्यः"
 
 +++
-17. Besides, if (the fire) goes out, one of them, either the wife or the husband, should fast.
+16. Or it should be fetched from the house of a Śrotriya.

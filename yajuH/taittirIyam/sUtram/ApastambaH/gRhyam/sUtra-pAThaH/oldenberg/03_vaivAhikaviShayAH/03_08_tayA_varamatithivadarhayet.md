@@ -2,4 +2,4 @@
 title = "०३ ०८ तया वरमतिथिवदर्हयेत्"
 
 +++
-8. With the other (the bridegroom [?] should do so) for a person whom he reveres.
+7. With the (first cow) he should prepare an Argha reception for the bridegroom as for a guest,

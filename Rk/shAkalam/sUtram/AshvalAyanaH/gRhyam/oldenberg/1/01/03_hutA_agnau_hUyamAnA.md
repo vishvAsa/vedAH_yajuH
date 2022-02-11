@@ -1,0 +1,8 @@
++++
+title = "03 हुता अग्नौ हूयमाना"
+
++++
+3 [^3] . And they quote also Ṛcas, 'He who with a piece of wood or with an oblation, or with knowledge ("veda").'
+
+
+[^3]:  Rig-veda VIII, 19, 5, The mortal who with a piece of wood, or with an oblation, or with knowledge worships Agni, who with adoration (worships him) offering rich sacrifices,' &c.

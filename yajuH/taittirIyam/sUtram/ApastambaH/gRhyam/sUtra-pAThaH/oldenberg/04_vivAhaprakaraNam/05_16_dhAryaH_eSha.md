@@ -2,4 +2,4 @@
 title = "०५ १६ धार्यः एष"
 
 +++
-16. Or it should be fetched from the house of a Śrotriya.
+15. If it goes out, (a new fire) should be kindled by attrition,

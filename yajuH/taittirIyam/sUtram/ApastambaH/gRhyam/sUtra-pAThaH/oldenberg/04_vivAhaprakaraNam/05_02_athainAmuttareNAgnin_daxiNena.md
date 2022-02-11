@@ -2,7 +2,7 @@
 title = "०५ ०२ अथैनामुत्तरेणाग्निन् दक्षिणेन"
 
 +++
-2. [^1]  They sit down in their former position, and while she takes hold of him, he offers the oblations (indicated by the) next (Mantras), with (the Mantras), 'To Soma, the acquirer of a wife, Svāhā!' (M. I, 4, I-16), one oblation with each Mantra.
+3. [^2]  He then causes her, to the north of the fire, to tread with her right foot on a stone, with (the verse), 'Tread' (M. I, 5, 1).
 
 
-[^1]:  5, 2. See 4, 9.
+[^2]:  See below, IV, 10, 9.

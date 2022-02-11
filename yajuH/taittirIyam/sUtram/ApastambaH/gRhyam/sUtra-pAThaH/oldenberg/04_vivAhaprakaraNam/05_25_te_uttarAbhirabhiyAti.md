@@ -2,4 +2,4 @@
 title = "०५ २५ ते उत्तराभिरभियाति"
 
 +++
-25. And when they pass by bathing-places, posts, or cross-roads, let him murmur the next (verse; M. I, 6, 12).
+24. With the next (verses; M. I, 6, 9-11), he walks on these (threads).

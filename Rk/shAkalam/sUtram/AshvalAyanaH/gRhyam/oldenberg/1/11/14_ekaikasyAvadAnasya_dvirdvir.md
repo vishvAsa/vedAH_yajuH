@@ -1,0 +1,8 @@
++++
+title = "14 एकैकस्यावदानस्य द्विर्द्विरवद्यति"
+
++++
+14 [^8] . From each of the (eleven) Avadānas he cuts off two portions.
+
+
+[^8]:  'A Pañcāvattin cuts off three portions. Having performed the Upastaraṇa and the Pratyabhighāraṇa (the first and second pouring out of Ājya) he sacrifices (the cut-off portions).' Nārāyaṇa.

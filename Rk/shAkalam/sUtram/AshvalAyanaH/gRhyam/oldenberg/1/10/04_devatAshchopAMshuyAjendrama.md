@@ -1,0 +1,8 @@
++++
+title = "04 देवताश्चोपांशुयाजेन्द्रमहेन्द्रवर्जम्"
+
++++
+4 [^2] . And the deities (to whom those oblations belong), with the exception of the Upāṃśuyāja (offerings at which the formulas are repeated with low voice), and of Indra and Mahendra.
+
+
+[^2]:  See Hillebrandt, Das altindische Neu- and Vollmondsopfer, p. 111; my note on Śāṅkhāyana-Gṛhya I, 3, 3.

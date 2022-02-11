@@ -1,0 +1,8 @@
++++
+title = "26 तत्सवितुर्वृणीमह इति सावित्रीम्"
+
++++
+29 [^13] . (He should recite to him) as the Sāvitrī (the Ṛc),'That we choose of god Savitṛ' (Rig-veda V, 82, 1).
+
+[^13]:  Instead of the ordinary Sāvitrī, Rig-veda III, 62, 10.
+

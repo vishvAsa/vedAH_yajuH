@@ -1,0 +1,8 @@
++++
+title = "22 यदस्य कर्मणोऽत्यरीरिचं यद्वा"
+
++++
+23 [^11] . 'What I have done too much in this ceremony, or what I have done here too little, all that may Agni Sviṣṭakṛt, he who knows it, make well sacrificed and well offered for me. To Agni Sviṣṭakṛt, to him who offers the oblations for general expiation, so that they are well offered, to him who makes us succeed in what we desire! Make us in all that we desire successful! Svāhā!'
+
+
+[^11]:  Comp. Pāraskara I, 2, 11; Śatapatha Brāhmaṇa XIV, 9, 4, 24. On the oblations for general expiation (sarvaprāyaścittāhuti) comp. Sāṅkh.-Gṛhya I, 9, 12, and the note.
