@@ -1,5 +1,5 @@
 +++
-title = "33"
+title = "26 नामांसो मधुपर्को भवति"
 
 +++
 33 [^4] . Let the Madhuparka not be without flesh, without flesh.

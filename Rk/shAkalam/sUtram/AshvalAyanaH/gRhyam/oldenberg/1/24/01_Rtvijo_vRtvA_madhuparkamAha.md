@@ -1,5 +1,5 @@
 +++
-title = "01"
+title = "01 ऋत्विजो वृत्वा मधुपर्कमाहरेत्"
 
 +++
 1 [^1] . When he has chosen the Ṛtvijas, he should offer the Madhuparka (i.e. honey-mixture) to them (in the way described in Sūtras 5 and following);
