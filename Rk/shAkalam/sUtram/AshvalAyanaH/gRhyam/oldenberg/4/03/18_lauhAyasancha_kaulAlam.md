@@ -2,4 +2,7 @@
 title = "18 लौहायसञ्च कौलालम्"
 
 +++
-18. The son (of the deceased person) should take the under and the upper mill-stone for himself.
+19 [^4] . And the implements made of copper, iron, and earthenware.
+
+
+[^4]:  The statement in Śatapatha Brāhmaṇa XII, 5, 2, 14 is somewhat different.

@@ -2,4 +2,4 @@
 title = "21 हृदये हृदयम्"
 
 +++
-21. Taking out the kidneys (of the animal) he should lay them into the hands (of the dead body) with the verse, 'Escape the two hounds, the sons of Saramā' (Rig-veda X, 14, 10), the right (kidney) into the right (hand), the left into the left.
+22. The heart (of the animal he puts) on the heart (of the deceased).

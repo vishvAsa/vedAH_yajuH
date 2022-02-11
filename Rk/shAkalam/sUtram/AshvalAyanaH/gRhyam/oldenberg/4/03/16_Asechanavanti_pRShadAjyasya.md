@@ -2,4 +2,7 @@
 title = "16 आसेचनवन्ति पृषदाज्यस्य पूरयन्ति"
 
 +++
-16. Or, if there is only one (basket), tearing it (in two pieces).
+17 [^3] . Those (of the implements) which have a hollow (into which liquids can be poured), are filled with sprinkled butter.
+
+
+[^3]:  Nārāyaṇa explains āsecanavanti by bilavanti. On pṛṣadājya ('sprinkled butter') comp. the two last Sūtras of the first chapter.

@@ -2,7 +2,4 @@
 title = "25 सव्यञ् जान्वाच्य दक्षिणाग्नावाज्याहुतीर्जुहुयादग्नये"
 
 +++
-25 [^8] . Having distributed the whole (animal), limb by limb (placing its different limbs on the corresponding limbs of the deceased), and having covered it with its hide, he recites, when the Praṇīta water is carried forward, (the verse), 'Agni, do not overturn this cup' (Rig-veda X, 16, 8).
-
-
-[^8]:  Comp. Kātyāyana XXV, 7, 35.
+26. Bending his left knee he should sacrifice Ājya oblations into the Dakṣiṇa fire with (the formulas), 'To Agni svāhā! To Kāma svāhā! To the world svāhā! To Anumati svāhā!'
