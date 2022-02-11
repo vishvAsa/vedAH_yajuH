@@ -1,0 +1,8 @@
++++
+title = "05 प्रतिपुरुषम् पितॄंस्तर्पयित्वा गृहानेत्य"
+
++++
+5 [^4] . After he has satiated the Fathers man by man, and has returned to his house, what he gives (then), that is the sacrificial fee.
+
+
+[^4]:  Nārāyaṇa: 'He satiates his father, grandfather, and great-grandfather, and goes to his house. What he then gives, for instance, food offered to guests, or given as alms (to religious beggars), is considered as the sacrificial fee for the Brahmayajña.'

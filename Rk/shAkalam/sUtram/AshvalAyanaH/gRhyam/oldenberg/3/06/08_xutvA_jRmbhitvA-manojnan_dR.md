@@ -1,0 +1,12 @@
++++
+title = "08 क्षुत्वा जृम्भित्वाऽमनोज्ञन् दृष्ट्वा"
+
++++
+8 [^2] . If he has gone to a wife to whom he ought not to go, or if he has performed a sacrifice for a person for whom he ought not to do so, or has eaten forbidden food, or accepted what he ought not to accept, or pushed against a piled-up (fire altar) or against a sacrificial post, he should sacrifice two Ājya oblations with (the verses),
+
+
+[^2]:  Nārāyaṇa is evidently wrong in explaining caityaṃ yūpañ ca by agnicayanasthaṃ yūpaṃ (which is not, as Prof. Stenzler takes it, der Opferpfahl auf einem Bestattungsplatze). Comp. Gobhila III, 3, 34; Gṛhya-saṃgraha-pariśiṣṭa II, 4.
+
+'May my faculties return into me, may life return, may prosperity return; may my goods return to me; may the divine power return into me. Svāhā!
+
+'These fires that are stationed on the (altars called) Dhiṣṇyās, may they be here in good order, each on its right place. (Agni) Vaiśvānara, grown strong, the standard of immortality, may he govern my mind in my heart. Svāhā!'

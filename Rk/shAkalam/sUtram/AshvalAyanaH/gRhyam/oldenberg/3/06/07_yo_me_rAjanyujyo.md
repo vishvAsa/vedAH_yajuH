@@ -1,0 +1,5 @@
++++
+title = "07 यो मे राजन्युज्यो"
+
++++
+7. When he has sneezed, yawned, seen a disagreeable sight, smelt a bad smell, when his eye palpitates, and when he hears noises in his ears, he should murmur, 'Well-eyed may I become with my eyes, well-vigoured with my face, well-hearing with my ears. May will and insight dwell in me!'

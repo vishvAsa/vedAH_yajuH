@@ -1,0 +1,10 @@
++++
+title = "16 अथैनामुच्छ्रियमाणामनुमन्त्रयेतेहैव तिष्ठ निमिता"
+
++++
+16 [^4] . He then should, when (the middle-post) is being erected, recite over it (the two verses), 'Stand here, fixed in the ground, prosperous, long-lasting (?), standing amid prosperity. May the malevolent ones not attain thee!
+
+
+[^4]:  Comp. Śāṅkhāyana-Gṛhya III, 3, 1 and the note there. How stāmirāvatīm should be corrected and translated is quite uncertain. Instead of poṣasva Prof. Stenzler proposes to read poṣasya, as Śāṅkhāyana has; I have adopted this correction. - In the second verse jāyatāṃ saha seems to be corrupt; comp. my note on Śāṅkhāyana III, 2, 9. Instead of pariśritaḥ we should read, as Śāṅkhāyana, Pāraskara, and the Atharva-veda (III, 12, 7) have, parisrutaḥ.
+
+'To thee (may) the young child (come), to thee the calf . . .; to thee (may) the cup of Parisrut (come); (to thee) may they come with pots of curds.'
