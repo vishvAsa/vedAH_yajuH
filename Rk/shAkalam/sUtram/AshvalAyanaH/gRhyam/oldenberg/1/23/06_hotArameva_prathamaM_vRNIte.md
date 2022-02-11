@@ -1,5 +1,5 @@
 +++
-title = "07"
+title = "06 होतारमेव प्रथमं वृणीते"
 
 +++
 7 [^5] . He chooses the Hotṛ first.

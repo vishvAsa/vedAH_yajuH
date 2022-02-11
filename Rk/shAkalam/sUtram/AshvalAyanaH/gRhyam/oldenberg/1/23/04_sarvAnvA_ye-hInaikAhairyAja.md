@@ -1,5 +1,5 @@
 +++
-title = "04"
+title = "04 सर्वान्वा येऽहीनैकाहैर्याजयन्ति"
 
 +++
 4 [^2] . Or all who officiate at the Ahīna sacrifices and at those lasting one day.
