@@ -1,0 +1,8 @@
++++
+title = "15 केशश्मश्रुलोमनखानीत्युक्तम् पुरस्तात्"
+
++++
+15 [^6] . From which the waters flow off to all sides: this is a characteristic required for the cemetery (śmaśāna) where the body is to be burned.
+
+
+[^6]:  See the note on Sūtra 12.

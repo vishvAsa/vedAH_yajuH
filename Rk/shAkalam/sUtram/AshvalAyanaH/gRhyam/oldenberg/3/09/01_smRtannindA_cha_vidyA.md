@@ -1,0 +1,10 @@
++++
+title = "01 स्मृतन्निन्दा च विद्या"
+
++++
+1 [^1] . (He says), 'Memory and reproach and knowledge, faith, and wisdom as the fifth, what is sacrificed, and what is given, and what is studied, and what is done, truth, learning, vow - 
+
+
+[^1]:  9, 1. '"My memory and my non-memory, that is my double vow" - in this way the twelve (parts of which the first section of the Mantra consists) should be recited.' Nārāyaṇa. I think the commentator is wrong here, and that section should rather be recited as it is given in the text without any alteration; it forms a regular Śloka. Agneḥ instead of Agne is a conjecture of Prof. Stenzler, which I have adopted.
+
+'The vow which belongs to Agni together with Indra, with Prajāpati, with the Ṛṣis, with the royal ones among the Ṛṣis, with the Fathers, with the royal ones among the Fathers, with the human beings, with the royal ones among the human beings, with shine, over-shine, after-shine, counter-shine, with gods and men, with Gandharvas and Apsaras, with wild animals and domestic animals, - the vow, belonging to my own self, dwelling in my own self, that is my universal vow. Hereby, O Agni, I become addicted to the universal vow. Svāhā!'
