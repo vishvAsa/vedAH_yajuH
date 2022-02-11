@@ -1,0 +1,8 @@
++++
+title = "13 प्रसृष्टा अनुमन्त्रयेत या"
+
++++
+15 [^8] . Over (the Arghya water) which has been poured out, he should recite the verse, 'The celestial waters which have been produced on the earth, the aerial waters and the waters which are terrestrial, the gold-coloured ones, apt for sacrifice, may these waters bring us luck and be kind to us.' Pouring together what has been left (in the three Arghya vessels) he moistens his face with that water, if he desires that a son should be born to him.
+
+
+[^8]:  The sacrificer gives the water to the Brāhmaṇas, and these p. 253 pour it out. Instead of pṛthivī sambabhūvuḥ (pṛthivī being intended as a locative; see Lanman, Noun-inflection in the Veda, p. 389) we should read, no doubt, as the parallel texts have, payasā sambabhūvuḥ: 'The celestial waters which have united themselves with milk.'

@@ -1,0 +1,8 @@
++++
+title = "10 इतरपाण्यङ्गुष्ठान्तरेणोपवीतित्वाद्दक्षिणेन वा सव्योपगृहीतेन"
+
++++
+13 [^7] . With (the part) of the other (i.e. left) hand between the thumb (and the fore-finger), because he wears the sacrificial cord over ḥis left shoulder, or with the right hand which he seizes with the left (he offers the Arghya water to the Fathers with the words), 'Father, this is thy Arghya. Grandfather, this is thy Arghya. Great-grandfather, this is thy Arghya' 
+
+
+[^7]:  The part of the hand above the thumb is called the 'Tīrtha belonging to the Manes;' see, for instance, Baudhāyana's Dharma-sūtra I, 8, 16. The sacrificer is here understood to wear his sacrificial cord suspended over the left shoulder (he is 'yājñopavītin'). But as the oblation here treated of is directed to the Manes, it is required that he should be prācīnāvītin. Now he is considered as prācīnāvītin, according to Nārāyaṇa, not only if the cord is suspended over his right shoulder (which is the ordinary meaning of prācīnāvītin), but also if the hand with which he performs the rites, and the shoulder over which he wears the sacred cord, are either both right or both left. Thus here, acting with the left-hand and wearing the cord over the left shoulder, he becomes prācīnāvītin.

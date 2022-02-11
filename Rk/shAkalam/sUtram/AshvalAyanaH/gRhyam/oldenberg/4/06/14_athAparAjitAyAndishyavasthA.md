@@ -1,0 +1,5 @@
++++
+title = "14 अथापराजितायान्दिश्यवस्थायाग्निनानडुहेन गोमयेन चाविच्छिन्नया"
+
++++
+14. After that, stationing himself to the northeast, while (the others) go round with the fire, with bull's dung, and with an uninterrupted stream of water, repeating the three verses, 'O waters, ye are wholesome' (Rig-veda X, 9, i seqq.), he should murmur the verse, 'These have led round the cow' (Rig-veda X, 155, 5).
