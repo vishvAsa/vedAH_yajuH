@@ -1,0 +1,8 @@
++++
+title = "02 उत्तरतोऽग्नेः शामित्रस्यायतनङ् कृत्वा"
+
++++
+2 [^1] . Having prepared to the north of the fire the place for the Śāmitra fire, having given drink (to the animal which he is going to sacrifice), having washed the animal, having placed it to the east (of the fire) with its face to the west, having made oblations with the two Ṛcas, 'Agni as our messenger' (Rig-veda I, 12, 1 seq.), let him touch (the animal) from behind with a fresh branch on which there are leaves, with (the formula), 'Agreeable to such and such (a deity) I touch thee.'
+
+
+[^1]:  11, 2. The Sāmitra fire (literally, the fire of the Samitṛ, who prepares the flesh of the immolated animal) is the one mentioned below in Sūtras 7 and 10. Comp. Indische Studien, X, 345. 'I touch thee' is upākaromi; comp. Kātyāyana-Śrauta-sūtra VI, 3, 19. 26.

@@ -1,0 +1,8 @@
++++
+title = "02 यद्यु वै विदेशस्थम्"
+
++++
+2 [^2] . If, however, (the Caitya) is distant, (he should send his Bali) through a leaf-messenger.
+
+
+[^2]:  'He should make of a leaf a messenger and a carrying-pole.' Nārāyaṇa.
