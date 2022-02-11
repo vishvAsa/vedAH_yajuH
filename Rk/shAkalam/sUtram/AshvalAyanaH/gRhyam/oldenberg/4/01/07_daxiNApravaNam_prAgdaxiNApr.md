@@ -3,3 +3,5 @@ title = "07 दक्षिणाप्रवणम् प्राग्दक�
 
 +++
 7. At a place which is inclined towards the south or towards the south-east.
+
+8. According to some (teachers), inclined towards south-west.

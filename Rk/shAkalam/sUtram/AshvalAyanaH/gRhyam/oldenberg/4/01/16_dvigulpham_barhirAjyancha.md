@@ -2,7 +2,7 @@
 title = "16 द्विगुल्फम् बर्हिराज्यञ्च"
 
 +++
-16 [^7] . 'They cut off (from the dead body) the hair, the beard, the hairs of the body, and the nails' - this has been stated above.
+17 [^8] . (They should provide) plenty of sacrificial grass and of butter.
 
 
-[^7]:  See the Śrauta-sūtra VI, 10, 2.
+[^8]:  Dvigulphaṃ barhir ājyañ ca. Nārāyaṇa explains dvigulpha by prabhūta. Comp. bahulatṛṇa, Kātyāyana XXV, 7, 15.
