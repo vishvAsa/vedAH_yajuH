@@ -1,0 +1,8 @@
++++
+title = "02 निवेशनमलङ्कृत्य स्नाताः शुचिवाससः"
+
++++
+2 [^1] . Having adorned the house, having bathed and put on clean garments, they should pour out a mess of cooked food for Paśupati, and should sacrifice it with (the formula), To Paśupati, to Śiva, to Śaṃkara, to Pṛṣātaka svāhā!'
+
+
+[^1]:  2, 2. 'The plural "They should sacrifice it" means, that while the sacrifice is performed by the householder, his sons and the other persons belonging to the house should touch him.' Nārāyaṇa.
