@@ -2,7 +2,5 @@
 title = "03 प्रतिभयञ् चेदन्तरा शस्त्रमपि"
 
 +++
-3 [^3] . With the Ṛc, 'Where thou knowest, O tree' (Rig-veda V, 5, 10), let him make two lumps (of food), put them on a carrying-pole, hand them over to the messenger, and say to him, 'Carry this Bali to that (Caitya).'
 
-
-[^3]:  Comp. Pāraskara III, 11, 10.
+5. If there is anything dangerous between (them and the Caitya), (he gives him) some weapon also.

@@ -1,0 +1,8 @@
++++
+title = "20 एतेन वापनादिपरिदानान्तं व्रतादेशनं"
+
++++
+22 [^8] . Thereby, beginning with his having the hair cut, and ending with the giving in charge, the imposing of observances has been declared.
+
+
+[^8]:  The rules stated above for the Upanayana, beginning with the prescription regarding the cutting of the hair (given chap. 19, so in the words, 'whose [hair on the] head is arranged;' see the note there), and ending with the ceremony prescribed chap. 20, 8, are to be extended also to other cases of the imposing of a vow, such, for instance, as that mentioned chap. 18, 9.
