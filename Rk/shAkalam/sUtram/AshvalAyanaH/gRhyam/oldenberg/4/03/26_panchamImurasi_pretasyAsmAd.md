@@ -1,0 +1,8 @@
++++
+title = "26 पञ्चमीमुरसि प्रेतस्यास्माद्वै त्वमजायथा"
+
++++
+27 [^9] . A fifth (oblation) on the chest of the deceased with (the formula), 'From this one verily thou hast been born. May he now be born out of thee, N.N.! To the heaven-world svāhā!'
+
+
+[^9]:  He who is born out of the deceased, is Agni. See Śatapatha Brāhmaṇa II, 3, 3, 5; and also XII, 5, 2, 15.

@@ -1,0 +1,5 @@
++++
+title = "20 धनुर्हस्तादाददानो मृतस्येति धनुः"
+
++++
+20. With (the verse), 'Taking the bow out of the hand of the deceased' (Rig-veda X, 18, 9), (he takes away) the bow.

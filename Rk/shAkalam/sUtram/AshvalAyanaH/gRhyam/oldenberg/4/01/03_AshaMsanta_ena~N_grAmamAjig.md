@@ -1,0 +1,8 @@
++++
+title = "03 आशंसन्त एनङ् ग्राममाजिगमिषन्तोऽगदङ्कुर्युरिति"
+
++++
+3 [^2] . Longing for it, desirous of returning to the village they might restore him to health-thus it is understood (in the Śruti).
+
+
+[^2]:  I.e. longing for the village. I here differ from Prof. Stenzler's translation, 'Indem sie, um nach dem Dorfe zu kommen, ihm Gutes wünschen.' Prof. Stenzler here follows Nārāyaṇa, who has the following note, grāmam āgantum icchantoऽgnaya enam āhitāgnim āśaṃsante, ayam agado bhaved iti.

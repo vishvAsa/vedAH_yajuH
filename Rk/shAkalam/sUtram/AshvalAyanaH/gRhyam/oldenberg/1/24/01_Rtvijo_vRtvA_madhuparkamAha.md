@@ -1,0 +1,8 @@
++++
+title = "01 ऋत्विजो वृत्वा मधुपर्कमाहरेत्"
+
++++
+1 [^1] . When he has chosen the Ṛtvijas, he should offer the Madhuparka (i.e. honey-mixture) to them (in the way described in Sūtras 5 and following);
+
+
+[^1]:  24, 1 seqq. Comp. Śāṅkhāyana-Gṛhya II, 15. The second Sūtra is paraphrased by Nārāyaṇa thus, 'To a person that has performed the Samāvartana (see below, III, 8), when he comes on that day to his house with the intention of forming a matrimonial alliance.'

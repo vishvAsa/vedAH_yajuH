@@ -81,7 +81,14 @@ list.txt
 06_xetrAchchedubhayataHsasyAdg.md
 
 ./1/06:
-01_alankRtya_kanyAmudakapUrvAn.md
+01_alankRtya_kanyAmudakapUrvAm.md
+02_Rtvije_vitate.md
+03_saha_dharmam.md
+04_gomithunaM_dattvopayachChet.md
+05_mithaH_samayam.md
+06_dhanenopatoShyopayachCheta.md
+07_suptAnAM_pramattAnAm.md
+08_hatvA_bhittvA.md
 
 ./1/07:
 01_atha_khalUchchAvachA_janapa.md
@@ -289,10 +296,8 @@ list.txt
 ./1/21:
 01_mantreNa_haike_agnaye.md
 02_sa_samidhamAdhAyAgnimupaspR.md
-03_anubrU.md
-03_mayi_medhAm_mayi.md
 03_tejasA_hyevAtmAnaM_samanakt.md
-04_hIti.md
+04_mayi_medhAm.md
 05_tasya_vAsasA_pANibhyA~n.md
 06_yathAshakti_vAchayIta.md
 07_hRdayadeshe-syorddhvAngulim.md
@@ -653,8 +658,7 @@ list.txt
 
 ./3/10:
 01_gurave_prasraxyamANo_nAma.md
-02_iti.md
-03_idaM_vatsyAmo_bho.md
+02_idaM_vatsyAmo_bho.md
 03_uchchairUrdhvan_nAmnaH.md
 04_prANApAnayorupAMshu.md
 05_A_mandrairindra_haribhiriti.md

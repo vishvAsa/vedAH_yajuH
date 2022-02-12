@@ -1,0 +1,8 @@
++++
+title = "12 उत्तरपश्चिमे गार्हपत्यम्"
+
++++
+12 [^4] . To the north-west the Gārhapatya fire,
+
+
+[^4]:  12, 13. The words, 'on an elevated corner' (Sūtra 11) have to be supplied.

@@ -1,0 +1,5 @@
++++
+title = "12 तां हैके वैश्वदेवीम्"
+
++++
+12. This (Aṣṭakā) some state to be sacred to the Viśve devās, some to Agni, some to the Sun, some to Prajāpati, some state that the Night is its deity, some that the Nakṣatras are, some that the Seasons are, some that the Fathers are, some that cattle is.

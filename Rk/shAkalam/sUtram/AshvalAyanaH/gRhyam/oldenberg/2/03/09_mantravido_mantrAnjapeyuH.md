@@ -1,0 +1,8 @@
++++
+title = "09 मन्त्रविदो मन्त्रान्जपेयुः"
+
++++
+10 [^4] . Those who know the Mantras, should murmur the Mantras.
+
+
+[^4]:  'The Mantras beginning from "Be soft, O earth" (Sūtra 7) down to the auspicious hymns (Sūtra 13).' Nārāyaṇa.
