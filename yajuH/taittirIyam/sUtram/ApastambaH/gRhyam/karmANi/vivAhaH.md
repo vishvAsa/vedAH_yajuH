@@ -51,12 +51,9 @@ unicode_script: devanagari
 ## सुहृत्-प्रेषणम्  
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_01_suhRdassamavetAn_mantravato.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_02_tAnAdito_dvAbhyAmabhimantrayeta.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_02_tAnAdito_dvAbhyAmabhimantrayeta.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
-+++(हे सुहृदः)+++  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/01_prasugmantA_dhiyasAnasya.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/02_anRxarA_Rjavassantu.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### वरपूजा
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_06_vivAhe_gauH.md"  newLevelForH1="2" includeTitle="false"> </div>  
@@ -73,35 +70,21 @@ unicode_script: devanagari
 +++(कन्यां प्रतिपादयति "तुभ्यमिमां प्रजासहत्वकर्मभ्यः प्रतिपादयामी"ति।)+++  
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_03_svayan_dRShTvA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/03_abhrAtRghnIM_varuNApatighnIm.md"  newLevelForH1="2" includeTitle="false"> </div>
-
 
 ### अवयवशः समीक्षणम्
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_04_chaturthyA_samIxeta.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/04_aghorachaxurapatighnyedhi_shivA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 ## भ्रुवोरन्तरे सम्मार्जनम्  
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_05_anguShThenopamadhyamayA_chAngulyA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-+++(अङ्गुष्ठेनोपमध्यमया चाङ्गुल्या दर्भं संगृह्योत्तरेण यजुषा भ्रुवोरन्तरं संमृज्य प्रतीचीनं निरस्येत्।)+++  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/05_idamahay.N_yA.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-
 ## कन्यावियोगकाले बन्धुजनस्य रोदने जपः  
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_06_prApte_nimitta.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
-+++(कन्याया एव रोदन इत्याश्वलायनः । यथाह - जीवां रुदन्तीति रुदत्याम् इति ।)+++  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/06_jIvAM_rudanti.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 #### स्नापनम्, अहतवस्त्रधारणं, योक्त्रसन्नहनं च ।  
 ### स्नपन-जलाऽऽनयनम्  
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_07_yugmAn_samavetAn.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/07_vyuxat_krUramudachantvApa.md"  newLevelForH1="2" includeTitle="false"> </div>
-
 
 
 ### वध्वाः शिरसि दर्भेण्वनिधानम्
@@ -131,25 +114,10 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_14_gRbhNAmi_ta.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/03_gRbhNAmi_te.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/04_te_ha.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/05_sarasvati_predamava.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/06_ya_eti.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-
 #### सप्तपदीगमनम्
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_15_athainAmutteraNAgnin_daxiNena.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_16_sakheti_saptame.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/07-13_ekamiShe_viShNustvA-nvetu.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/14_sakhA_saptapadA.md"  newLevelForH1="2" includeTitle="false"> </div>
-
 
 
 #### प्रधानहोमः
@@ -168,7 +136,7 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_06_uttarAbhistisRbhiH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## अश्मानमास्थापयति  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/06_AtiShThemamashmAnam.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_02_athainAmuttareNAgnin_daxiNena.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## द्वितीयो लाजहोमः  
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_07_homashchottarayA_yathA.md"  newLevelForH1="2" includeTitle="false"> </div>  
@@ -178,8 +146,7 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_09_AsthApanam_punarapi.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### अश्मानमास्थापयति
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/06_AtiShThemamashmAnam.md"  newLevelForH1="2" includeTitle="false"> </div>
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_02_athainAmuttareNAgnin_daxiNena.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## तृतीयो लाजहोमः  
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_10_homashchottarayA_uttarayA.md"  newLevelForH1="2" includeTitle="false"> </div>  
@@ -189,12 +156,11 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_12_jayAdi_pratipadyate.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### प्रदक्षिणमन्त्राः
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/13_-15_tubhyamagre_paryavahanpunaH.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_06_uttarAbhistisRbhiH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ### अश्मानमास्थापयति
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/06_AtiShThemamashmAnam.md"  newLevelForH1="2" includeTitle="false"> </div>
-
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_02_athainAmuttareNAgnin_daxiNena.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 #### वैवाहिकाग्नेर्नित्यधारणम् ।
@@ -207,8 +173,7 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_13_pariShechanAnta~N.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## अनुगतस्यौपासनाग्नेस् समाधानमन्त्रः
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md"  newLevelForH1="2" includeTitle="false"> </div>
-
+<div class="js_include" url="/vedAH/yajuH\taittirIyam\sUtram\ApastambaH\gRhyam\sUtra-pAThaH\vishvAsa-prastutiH\04_vivAhaprakaraNam\05_20_anugate-pi_vottarayA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ##### युग्ययोः योजनप्रकारः
@@ -236,8 +201,6 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_02_na_cha.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/02_ayanno_mahyAH.md"  newLevelForH1="2" includeTitle="false"> </div>
-
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_03_tIrtvottarA~n_japet.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
@@ -246,13 +209,6 @@ unicode_script: devanagari
 
 ## क्षीरिवृक्षाद्यतिक्रमे जपः
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_05_xIriNAmanyeShAM_vA.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
-
-## नद्याद्यतिक्रमे जपः
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/12_yA_oShadhayo.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-
-
 
 ##### गृहप्रवेशः
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_06_gRhAnuttarayA_sankAshayati.md"  newLevelForH1="2" includeTitle="false"> </div>  
@@ -273,15 +229,7 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_11_athAsyAH_pu.NsvorjIvaputrAyAH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## तारादर्शनम्  
-उदितेषु नक्षत्रेषु प्राचीमुदीचीं वा दिशम् उपनिष्क्रम्योत्तराभ्यां +++(=ध्रुवक्षितिर् ध्रुवयोनिः)+++ यथालिङ्गं +++(=तेनोत्तरस्याम् ऋचि सर्वेषां सप्तर्षीणां कृत्तिकादिनाम् अरून्धत्याश्च सहदर्शनम्)+++ ध्रुवम् अरुन्धतीं च दर्शयति॥  
-
-+++(ध्रुवं दर्शयति)+++  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/06_dhruvaxitirddhruvayonirddhruvamasi_ddhruvatassthitam.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-__________________
-+++(अरुन्धतीं दर्शयति। ६ कृत्तिकाः + अरुन्धती = ७ कृत्तिकाः सप्तऋषिपन्त्यः। अरुन्धती स्थिरा, शिष्टास् त्यक्ताः शङ्कया।)+++  
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/07_saptaRShayaH_prathamAm.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/yajuH\taittirIyam\sUtram\ApastambaH\gRhyam\sUtra-pAThaH\vishvAsa-prastutiH\04_vivAhaprakaraNam\06_12_uditeShu_naxatreShu.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
 
 ## होमविशेषाः
