@@ -1,9 +1,0 @@
-+++
-title = "13-3_1748 यदीङ् गणस्य"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/001/03_yadIM_gaNasya.md"
-edit_distance_to_rv = 0.198
-
-+++
-य꣡दीं꣢ ग꣣ण꣡स्य꣢ रश꣣ना꣡मजी꣢꣯गः꣣ शु꣡चि꣢रङ्ते꣣ शु꣡चि꣢भि꣣र्गो꣡भि꣢र꣣ग्निः꣢। आ꣡द्दक्षि꣢꣯णा युज्यते वाज꣣य꣡न्त्यु꣢त्ता꣣ना꣢मू꣣र्ध्वो꣡ अ꣢धयज्जु꣣हू꣡भिः꣢ ॥ 13-3:1748 ॥ ॥13 (लि)॥ [धा. 19 । उ नास्ति । स्व. 3 ।]
-
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/001/03_yadIM_gaNasya.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>

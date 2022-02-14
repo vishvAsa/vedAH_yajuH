@@ -1,9 +1,0 @@
-+++
-title = "18_0310 यदिन्द्र यावतस्त्वमेतावदहमीशीय"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/032/18_yadindra_yAvatastvametAvadahamIshIya.md"
-edit_distance_to_rv = 0.096
-
-+++
-य꣡दि꣢न्द्र꣣ या꣡व꣢त꣣स्त्व꣢मे꣣ता꣡व꣢द꣣ह꣡मीशी꣢꣯य। स्तो꣣ता꣢र꣣मि꣡द्द꣢धिषे रदावसो꣣ न꣡ पा꣢प꣣त्वा꣡य꣢ रꣳसिषम् ॥ 18:0310 ॥
-
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/032/18_yadindra_yAvatastvametAvadahamIshIya.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
