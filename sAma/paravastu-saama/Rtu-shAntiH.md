@@ -95,7 +95,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/23_sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 <div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/1/43_0236_taM_vo.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
