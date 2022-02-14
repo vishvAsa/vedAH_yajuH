@@ -5,7 +5,7 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 उत्तरैर् उपस्थायापः परिषिच्याप्रतीक्षस् +++(→ पृष्ठतो ऽप्रतीक्षमाणस्)+++ तूष्णीम् एत्य  
 "अपश्वेत पदेत्याभ्याम्" उद-कुम्भेन त्रिः प्रदक्षिणम् अन्तरतोऽगारं निवेशनं वा परिषिच्य  
 
-
+### प्रत्येत्य गृहपरिषेचनमन्त्रौ 
 ### उपस्थानमन्त्राः
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/09-10_taxaka_vaishAleya.md"  newLevelForH1="2" includeTitle="false"> </div>
