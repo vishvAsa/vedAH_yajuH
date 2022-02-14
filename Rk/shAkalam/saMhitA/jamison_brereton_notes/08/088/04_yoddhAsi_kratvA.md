@@ -1,9 +1,0 @@
-+++
-title = "04"
-
-+++
-Ge’s suggestion (n.) that this verse constitutes the Maruts’ direct speech to Indra is a persuasive one.
-
-
-
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/088/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

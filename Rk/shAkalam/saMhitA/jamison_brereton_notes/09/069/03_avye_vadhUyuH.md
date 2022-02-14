@@ -1,8 +1,0 @@
-+++
-title = "03"
-
-+++
-The dichotomy between the earthly and the heavenly continues here, with Heaven and Earth being replaced by their proxies, gods and men - implied in b by “both races” (janúṣī ubhé) and explicit in c in nṛmṇā́ca devyā̀ca. The ketú- in pāda a also has double reference in my view: on the one hand, ketú- can be used of the beacon(s), that is, the ray(s), of the sun (e.g., I.50.3, VII.63.2); on the other hand, in two of the very few other occurrences of this stem in IX (IX.86.5-6) Soma’s ketávaḥ circle around the filter, an apparent reference to the glinting soma drops. So we have a joint reference to the heavenly Soma as sun’s rays and the earthly soma sparkling in its ritual progress; the two together can pervade the two races of gods and men (b) and purify what is associated with them (c).
-
-In d manánāḥ is problematic. It is a hapax, and assuming it is an -ana-stem, it shows aberrant accent, since such stems either have root or final accent (on the accentuation of such stems in general see AiG II.2.180-82 and on the rarity of this accent pattern 182; cf. 187 for neut. nouns with this accent). It’s generally taken as a primary deriv. of √man in the meaning ‘thoughtful’. My ‘zealous’ rests on an invented connection with manā́- ‘zeal’, which in fact rests on nothing beyond my feeling that ‘thoughtful’ doesn’t particularly fit the context, and in any case there are many ways to express ‘thoughtful’ that would not involve creating a nonce stem with a peculiar accent. But I hold no brief for my own stab in the dark and simply think that we are all missing something. On the other hand, it’s likely that there is a primary or secondary connection to √man ‘think’, so most tr. fall within acceptable limits.
-

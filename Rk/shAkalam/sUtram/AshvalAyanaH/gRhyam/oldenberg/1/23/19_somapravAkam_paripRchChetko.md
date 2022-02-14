@@ -1,8 +1,0 @@
-+++
-title = "19 सोमप्रवाकम् परिपृच्छेत्को यज्ञः"
-
-+++
-21 [^10] . He (who is chosen as a Ṛtvij) should ask the Somapravāka, 'What sacrifice is it? Who are the priests officiating? What is the fee for the sacrifice?'
-
-
-[^10]:  The Somapravāka is the messenger who invites the priests on behalf of the sacrificer to officiate at his intended Soma sacrifice. Comp. Indische Studien, IX, 308.

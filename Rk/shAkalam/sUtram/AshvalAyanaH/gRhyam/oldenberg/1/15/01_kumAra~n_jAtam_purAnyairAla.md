@@ -1,8 +1,0 @@
-+++
-title = "01 कुमारञ् जातम् पुरान्यैरालम्भात्सर्पिर्मधुनी"
-
-+++
-1 [^1] . When a son has been born, (the father) should, before other people touch him, give him to eat from gold (i.e. from a golden vessel or with a golden spoon) butter and honey with which he has ground gold(-dust), with (the verse), 'I administer to thee the wisdom ('veda') of honey, of ghee, raised by Savitṛ the bountiful. Long-living, protected by the gods, live a hundred autumns in this world!'
-
-
-[^1]:  15, 1. Comp. Āśv.-Gṛhya-Pariśiṣṭa I, 26. I follow Professor Stenzler, who corrects maghonām into maghonā; comp. Śāṅkh.-Gṛhya I, 24, 4.

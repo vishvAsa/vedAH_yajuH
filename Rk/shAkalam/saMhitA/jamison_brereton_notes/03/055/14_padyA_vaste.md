@@ -1,8 +1,0 @@
-+++
-title = "14"
-
-+++
-Ge (/WG) takes pádyā as merely a locational ‘unten’, contrasting with ūrdhvā́at the beginning of the next pāda. It seems unlikely that a formation with so much lexical content would be used in so colorless a manner, esp. given the deployment of padá-forms elsewhere in the hymn (padé iva níhite beginning the next vs. [15a], padé góḥ 1b, padajṇā́ḥ 2b). The “feet” of Dawn are presumably, in naturalistic terms, the light of dawn nearest to the horizon; shining through morning mists it will take on various shapes and colors. (Lü [617 n. 3] suggests that the various shapes and forms are vegetation on the earth, which is also worth considering.) But in mytho-ritual terms, if Dawn is the cow nurturing the young fire in 13b (as well as pāda b in this vs.), the “wondrous forms” (vápūṃṣi) she clothes herself in and the “many shapes” she possesses (pururū́pā) are the forms and colors of the fire over which she stands. That the scene is set on the ritual ground is suggested by pāda c, where “I” roam across “the seat of truth” (ṛtásya sádma), which I take as a reference to seat of the ritual. Ge (/WG), however, interpret the pāda as simply meaning “I wander ‘im Geiste’” -- I think because of the vidvā́n ‘knowing’, though that word usually refers to knowledge of the ritual or to cosmic knowledge related to the religio-ritual system. With Ge (/WG) I take pururū́pā as fem. nom. sg.; however, it can equally be neut. acc. pl. (with Gr and Re) modifying vápūṃṣi. The choice actually has almost no effect on the sense of the pāda.
-
-
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/14-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

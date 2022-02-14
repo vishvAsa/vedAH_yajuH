@@ -1,8 +1,0 @@
-+++
-title = "02 आ त्वाहार्षमन्तरेधीति पश्चाद्रथस्यावस्थाय"
-
-+++
-2 [^1] . (The Purohita) stations himself to the west of (the king's) chariot with (the hymn?), 'I have brought thee hither; be here' (Rig-veda X, 173).
-
-
-[^1]:  12, 2. According to Nārāyaṇa the Pratīka here signifies not the verse, but the whole hymn, though a whole Pāda is given (comp. Śrauta-sūtra I, 1, 17).

@@ -1,8 +1,0 @@
-+++
-title = "05"
-
-+++
-For I have heard of you, Indra, as tightly wound, unyielding, spurring on  (even) the feeble, o bull.  
-Release yourself from Kutsa! Come here! Will such a one as you stay tied  by the balls?  
-From X.39 through X.56 the hymns are arranged in groups of three, each trio gener ally ascribed to the same poet by the Anukramaṇī. See Oldenberg (1888: 236). The next three hymns, dedicated to the Aśvins, are attributed to a female poet  Ghoṣā (X.39–40) and her son (X.41). Ghoṣā herself bears the patronymic Kākṣīvatī “daughter/descendant of Kakṣīvant,” the exceptionally artful poet of I.116–126,  who is especially devoted to the Aśvins:  five of his eleven hymns are dedicated  to them (I.116–120). Indeed the phraseology and mythological references of the  Ghoṣā hymns share much with Kakṣīvant’s Aśvin hymns, and whether we accept  the Anukramaṇī’s ascription of the hymns to a woman and her son (the latter iden tified by the metronymic Ghauṣeya), there can be no doubt that these hymns have  a remarkably close relationship to the Kakṣīvant hymns in Maṇḍala I. It is worth  remembering that Kakṣīvant shows a particular interest in women and marriage in  his hymns.  
-All three of the Ghoṣā hymns begin with a verse invoking the Aśvins’ chariot, but  they diverge significantly thereafter. The final hymn (X.41) is a brief (three-verse)  pendant to the series, straightforwardly describing the Aśvins’ early-morning jour ney to the sacrifice and urging them to come to our offering in preference to other  possible ones. The other two are more complex, with significant involvement of an  apparent woman’s voice, especially in X.40, which focuses on marriage.  

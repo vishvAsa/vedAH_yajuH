@@ -1,8 +1,0 @@
-+++
-title = "01 प्रयाण उपपद्यमाने पूषा"
-
-+++
-1 [^1] . If (the newly-married couple) have to make a journey (to their new home), let him cause her to mount the chariot with the (verse), 'May Pūṣan lead thee from here holding thy hand' (Rig-veda X, 85, 26).
-
-
-[^1]:  8, 1. Śāṅkhāyana-Gṛhya I, 15, 13.

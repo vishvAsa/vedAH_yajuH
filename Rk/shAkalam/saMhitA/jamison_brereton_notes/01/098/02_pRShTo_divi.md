@@ -1,5 +1,0 @@
-+++
-title = "02"
-
-+++
-As noted in the publ. intro., I take this verse as an allusion to the well-known story of Agni’s disappearance and the gods’ search for him (treated in detail in X.51- 53). (So also Old SBE.) However, this mythic allusion must be mediated by reference to the here-and-now, given the hope for Agni’s protection expressed in the final pāda. This mediation is perhaps signaled by pāda b, where Agni’s hiding place is identified. Instead of the waters, where Agni takes refuge in the myth, he has entered “all plants” (víśvā óṣadhīḥ). Agni’s hidden presence in plants, the quality that allows him to be born from them, is a standard trope in hymns treating the kindling of the ritual fire and is in fact alluded to at the end of a nearby Kutsa hymn, I.95.10d antár návāsu carati prasū́ṣu “he roams within the new, fruitful (plants).”

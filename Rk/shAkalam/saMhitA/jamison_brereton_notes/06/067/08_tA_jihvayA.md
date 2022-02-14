@@ -1,9 +1,0 @@
-+++
-title = "08"
-
-+++
-Pāda a lacks a verb; on its structure and on the grammatical interpr. of sumedhā́(ḥ), see esp. Old. Since it is likely that sumedhā́(ḥ) is a nom. sg., referring to Agni, this slots the du. tā́into the acc., and we need a verb to link the two. Though Old’s ‘lead’ is possible, I follow Ge(/Re) in supplying ‘call’, since this connects this ritual vs. with those in the earlier parts of the hymn (2ab, 3ab; see publ. intro. and comm. ad locc.). As is generally recognized, the referent of the nom. is Agni; III.57.5, adduced by Old, makes this quite clear: yā́te jihvā́madhumatī́sumedhā́, ágne … The word aratí- ‘spoked wheel’ in b is another word regularly applied to Agni.
-
-This pāda also contains, by most interpr., two words associated with truth, satyá-, modifying aratí-, and ṛtá-, but these interpr. are hard-pressed to come up with a convincing interpr. of the loc. ṛté. By contrast, I interpr. it as I do the similarly structured II.29.4 mā́vo ráthaḥ … ṛté bhūt, where, with Re, I take ṛté as the postposition ‘without’, construed with a pronominal enclitic in 2nd position: “Let (our) chariot not come to be without you.” See comm. ad loc. In the passage here I assume that the absence of M+V at the ritual ground induces Agni to call them with his tongue (=crackling). This interpr. also fits with the rivalry vss. to follow (9-11): if M+V are not here, where are they? Probably at the sacrifice of a competitor. In the comm. to II.29.4 I consider an alternative interpr. with ṛté the loc. of ṛtá- ‘truth’. If I were to do so here, the passage could mean “when the spoked wheel (of the sacrifice) [=Agni] has come into existence / has been realized for you at/in the truth [=the sacrifice or place of sacrifice?].” I still prefer the publ. solution.
-
-On (vi) cayiṣṭam see Hoffmann, Aufs. II.367.

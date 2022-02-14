@@ -1,5 +1,0 @@
-+++
-title = "06"
-
-+++
-This is the 3rd hymn in a row, all attributed to Āṅgirasa poets, with a form of śuṣmín-, śúṣma- in the final vs. Also in the next hymn IX.30, also an Āṅgirasa hymn, vss. 1 (śuṣmín-) and 3 (śúṣma-). As noted in the publ. intro. to IX.30, the word is not characteristic of Āṅgirasa poets elsewhere, even in the IXth Maṇḍala, although there are numerous hymns attributed to them in this maṇḍala (besides our IX.27-30): IX.4, 35-36, 37-38, 39-40, 44-46, 50-52, 61, 67 [part], 69, 72, 73, 83, parts of 97 and 108, 112). Of these, only IX.50.1, 52.4, attributed to Ucatha Āṅgirasa, contain members of this word family. In hymns attributed to Āṅgirasa poets outside of IX, the words are found only in X.43.3 (Kṛṣṇa Āṅgirasa), VIII.96.8 (Tiraṣci Āṅgirarsa), and -- most noteworthy -- VIII.98.12, 99.6, the only two hymns outside of IX attributed exclusively to Nṛmedha Āṅgirasa, the poet of our IX.27, 29.

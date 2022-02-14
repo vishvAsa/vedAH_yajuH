@@ -1,8 +1,0 @@
-+++
-title = "10 अध्येष्यमाणोऽध्याप्यैरन्वारब्ध एताभ्यो देवताभ्यो"
-
-+++
-10 [^5] . When he intends to study (the Veda together with pupils), he should, while the pupils take hold of him, sacrifice to those deities, and sacrifice to (Agni) Sviṣṭakṛt, and partake of the grains with curds; then (follows) the 'cleaning.'
-
-
-[^5]:  The expression, 'Those deities' would, according to Nārāyaṇa, refer not only to the deities stated in Sūtra 4, but also to the deities of the first and last verses of the Maṇḍalas (Sūtras 6 seqq.). On the grains with curds, comp. Sūtra 5. The technical sense of the 'cleaning' is explained in the Śrauta-sūtra I, 8, 2; comp. Hillebrandt, Das altindische Neu- and Vollmondsopfer, p. 130, note 1. The sacrificer covers his joined hands with the Kuśa grass spread out round the fire, and has water sprinkled on them.

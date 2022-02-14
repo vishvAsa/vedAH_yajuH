@@ -1,8 +1,0 @@
-+++
-title = "04 अरङ्गरो वावदीति त्रेधा"
-
-+++
-4 [^1] . Or with (the verse), 'The Araṅgara sounds, three times bound with the strap. It praises the welfare; may it drive away ill.'
-
-
-[^1]:  9, 4. The meaning of Araṅgara is unknown to me; it seems to be a musical instrument. Comp. Atharva-veda XX, 135, 13.

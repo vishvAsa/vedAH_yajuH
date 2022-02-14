@@ -1,8 +1,0 @@
-+++
-title = "01 अलङ्कृत्य कन्यामुदकपूर्वाम्"
-
-+++
-1 [^1] . (The father) may give away the girl, having decked her with ornaments, pouring out a libation of water: this is the wedding (called) Brāhma. A son born by her (after a wedding of this kind) brings purification to twelve descendants and to twelve ancestors on both (the husband's and the wife's) sides.
-
-
-[^1]:  6, 1. Comp. Vasiṣṭha I, 30; Āpastamba II, 11, 17; Baudhāyana I, 20, 2.

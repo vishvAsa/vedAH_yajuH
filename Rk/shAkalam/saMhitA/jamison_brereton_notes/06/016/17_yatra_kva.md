@@ -1,7 +1,0 @@
-+++
-title = "17"
-
-+++
-Note the phonological resonance between 16b ítarāḥ and 17b úttaram.
-
-The temptation is very strong to take dadhase, despite its lack of accent, as the verb of the subord. cl. introduced by yátra kvà ca in pāda a, whose correlate tátra begins the last pāda (c). And indeed almost all interpr. (Old, Ge, Re, Klein DGRV I.266) have succumbed to this temptation. Old (ZDMG 55. 314-15) constructs an elaborate justification for the interpr., which he maintains in the Noten (though without the extensive special pleading). But despite Old’s claim (Noten) that “dadhase kann nicht ohne Gezwungenheit als Hautptsatzverb aufgefasste werden,” I see no problem. I agree that a form of √dhā should be supplied in the yátra clause -- perhaps hitám, as in I.187.6 tvé … máno hitám. The main clause of b, with its shortvowel subjunctive dadhase, expresses the next step in the process: after he has set his mind on something, he then will apply his skill to it -- the progression from mental conception to physical realization that we frequently encounter in the RV. I take úttara- here not as a qualification of value, ‘higher’ (e.g., Klein’s “higher skill”), but as a temporal or logical ‘next, later’ expressing the progress from a to b. The tátra clause of c gives us a third step, but the fact that this adverb correlates with yátra does not mean that the intermediate clause has to be under the domain of yátra.

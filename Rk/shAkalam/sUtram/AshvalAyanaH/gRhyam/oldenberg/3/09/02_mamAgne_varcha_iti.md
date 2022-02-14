@@ -1,8 +1,0 @@
-+++
-title = "02 ममाग्ने वर्च इति"
-
-+++
-2 [^2] . With (the hymn), 'Mine, Agni, be vigour' (Rig-veda X, 128, 1), verse by verse, he should put pieces of wood (on the fire).
-
-
-[^2]:  According to Nārāyaṇa the hymn should be recited including the Khila, so that ten pieces of wood are offered. Now the hymn consists of nine verses; there can be, consequently, only one Khailika verse, which is, I suppose, the first verse of the Khila quoted above, p. 228.

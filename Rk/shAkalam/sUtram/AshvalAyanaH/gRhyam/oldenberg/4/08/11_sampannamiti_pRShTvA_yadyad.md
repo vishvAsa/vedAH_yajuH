@@ -1,8 +1,0 @@
-+++
-title = "11 सम्पन्नमिति पृष्ट्वा यद्यदन्नमुपयुक्तन्"
-
-+++
-27 [^16] . Having asked them, 'Relished?' and having taken the food, whatever food he has used, together with the Sthālīpāka, in order to make lumps thereof, he should offer the rest (to the Brāhmaṇas).
-
-
-[^16]:  On the question, 'Relished?' compare Śāṅkhāyana-Gṛhya IV, 2, 5. For several kinds of Śrāddha ceremonies a Sthālīpāka is prescribed, for others it is not; for the Śrāddhas of the last kind the words 'Together with the Sthālīpāka' are not valid.

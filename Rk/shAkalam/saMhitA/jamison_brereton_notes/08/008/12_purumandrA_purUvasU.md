@@ -1,8 +1,0 @@
-+++
-title = "12"
-
-+++
-The stem manotár- is found only twice in the RV, in identical pādas (I.46.2=VIII.8.12), in the dual manotárā, with unexpected short vocalism in this strong form (expect *manotā́rā)—as opposed to manótar- (so accented), which occurs only in the nom. sg. In I.46.2 the form appears in a pāda after one containing likewise dual síndhumātarā, which has -tar- legitimately, and as Old says (ad I.46.2; see also AiG III.199), manotárā might have been shortened in this context, with the pāda then borrowed into VIII.8.12. But Old is not enthusiastic about this explanation, and Tichy (-tar-stems, 58) persuasively suggests that the -mātarā form probably provided the context for preserving the short vowel in manotárā, but was unlikely to have produced it. But her explanation (if that’s what it’s meant to be), that manotárā is “eine dichtersprachliche Reliktform” (58; cf. 41 n. 48, where she calls both manótā and manotárā “dichtersprachliche Einzelformen”) doesn’t explain its source: the - tar- vocalism should not be a relic if we assume that agent nouns derive from *-torstems, and blaming it on Dichtersprache is a non-account: poets don’t make up forms with no reason, at least in my view. The problem is similar to dhánutarā (on which see comm. ad IX.93.1), also dual, and though I have no good explanation for either of them, the fact that they are built not to roots, like standard agent nouns, but to pres.
-
-stems may have weakened the perceived links to -tar-stem inflection and allowed them both to assimilate themselves to -tara-comparatives, whose duals would have had the same -tarā.
-

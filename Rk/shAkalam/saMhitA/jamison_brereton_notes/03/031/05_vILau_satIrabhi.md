@@ -1,8 +1,0 @@
-+++
-title = "05"
-
-+++
-The Aṅgirases, now presumably in the masc. (though both dhī́rāḥ [a] and víprāḥ [b] are technically ambiguous), remain the implicit subjects of abc, with Indra, also unnamed, taking this role in d. The cows, also not identified, are represented in pāda a by the fem. pl. part. satī́ḥ. In fact, though these identifications are fairly easy to make for those familiar with the story, they remain covert, and, further, both b and d have unidentified objects as well. In b Ge (/WG) tr. áhinvan without object; I have supplied the cows (so apparently also Lü [Varuṇa 510-11], Schmidt [B+I 167]), while Re’s parenthetic “(l’)” in “(l’)incitèrent” presumably refers to Indra.
-
-In d there is an expressed object, but it is merely a 3rd ps. pronoun, which is, furthermore, ambiguous in sandhi: tā́in tā́námasā can represent either neut. pl. tā́or fem. pl. tā́ḥ. The Pp. opts for the former, a decision endorsed by Old. The issue is further complicated by the fact that the form could be construed with either (or both) of two verbal forms, part. prajānán or pf. ā́viveśa. Old takes tā́to refer vaguely to things that Indra knows and construes it with prajānán; sim. Re: “sachant ces choses.” Ge [/WG], contra Pp., restores tā́ḥ, which he takes to refer to pl. pathyā̀ḥ, generated from pathyā̀m in c. My tr. is closer to Schmidt and to Lü, in restoring tā́ḥ (like Ge), but assuming its referent to be the cows, into whose company Indra enters. With Lü and Schmidt, I also take prajānán as having an implicit object inspired by pathyā̀m in c, but prajānán is generally used absolutely to mean “knowing (the way)” and so a form of pathyā̀- need not be supplied. The publ. tr. should have parentheses: “knowing (the way).”
-

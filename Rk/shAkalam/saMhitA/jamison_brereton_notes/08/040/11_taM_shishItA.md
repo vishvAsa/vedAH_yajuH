@@ -1,5 +1,0 @@
-+++
-title = "11"
-
-+++
-This verse, dedicated to Agni, is constructed entirely parallel to vs. 10 to Indra; note, e.g., the end of the b pādas: 10 … sátvānam ṛgmíyam, 11 … sátvānam ṛtvíyam. It therefore seems important to construe the exactly parallel cde in the same way in both verses. The only differences between the two are ójasā (10c) / óhata [-e out of sandhi] (11c), the order of Śuṣṇa and his eggs in d, and the tense/mood of the verb in e (s-aor. subj. jéṣat in 10e, s-aor. indic. ájaiḥ in 11e). My tr. reflects this strict parallelism, but others do not. Ge, e.g., takes d as the main cl. to c and e as a second independent cl., whereas in 10 he takes cde as a single rel. clause (see above). Klein, DGRV I.302, calls 11 “an awkward attempt to create a vertical parisyllablic responsio to 10a-e.” My tr. is made possible by taking óhate as passive (‘is proclaimed as …’) (or possibly reflexive ‘vaunts himself as’; see V.42.11).

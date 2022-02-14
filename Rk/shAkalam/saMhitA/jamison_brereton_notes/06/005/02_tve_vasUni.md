@@ -1,8 +1,0 @@
-+++
-title = "02"
-
-+++
-In almost all occurrences in which it is possible to determine, animate forms of yajñíya- refer to gods. They may be the referents here as well: the gods may send goods to Agni to be redistributed to his mortal worshipers.
-
-The syntax of cd is somewhat problematic, since there is incongruity between the simile and the frame. Ge evades this by taking the simile that begins c (kṣā́meva víśvā bhúvanāni) with ab: “In dir … bringen die opferwürdigen (Götter) … Schätze zum Vorschein wie die Erde alle Geschöpfe,” and beginning a new clause with yásmin. This is not impossible, but it is unnecessary and, given the hemistich break, undesirable if another interpr. can work. Various ones have been tried (see Old, ZDMG 455.293 and Noten), but, flg. Old, I think it is yet another example of case disharmony in similes, utilizing two possible alternative interpr. of the verb (sám …) dadhiré. In the frame this medial verb has a passive sense ‘be held, encompassed’, with saúbhagāni as subj. For this construction cf. VI.38.3 bráhmā ca gíro dadhiré sám asmin “the sacred formulations and the songs together have been placed (/are encompassed) in him.” But the same verb form can also be transitive, with the object expressing what is encompassed or placed. This is the construction of the simile, with nom. kṣā́ma (or kṣā́mā? see Old) and acc. víśvā bhúvanāni. For such a transitive construction, cf. III.19.4 bhū́ rīṇi hí tvé dadhiré ánīkā … yájyavo jánāsaḥ “the peoples eager to sacrifice have established in you [=the fire] your many faces.” In our passage the object of the simile thus corresponds to the subject of the frame; that both are neut. pl. makes their correspondence easier to process, despite their different grammatical functions.
-

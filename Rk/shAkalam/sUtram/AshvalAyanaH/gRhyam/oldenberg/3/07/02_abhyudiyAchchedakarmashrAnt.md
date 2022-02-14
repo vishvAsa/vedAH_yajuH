@@ -1,8 +1,0 @@
-+++
-title = "02 अभ्युदियाच्चेदकर्मश्रान्तमनभिरूपेण कर्मणा वाग्यत"
-
-+++
-2 [^1] . If (the sun) rises (while he is sleeping without being sick), being fatigued without having done any work, or having done work that is not becoming, he should keep silence, &c., as before, and perform his worship (to the sun) with the following four (verses, Rig-veda X, 37, 9 seq.).
-
-
-[^1]:  7, 2. Perhaps we should correct the text, akarmaśrāntam anabhirūpeṇa karmaṇā vā vāgyata iti, &c.

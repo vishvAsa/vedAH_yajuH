@@ -1,9 +1,0 @@
-+++
-title = "06"
-
-+++
-It is odd that the Maruts, just called ṛ́kvan- themselves (5c), here join themselves with ṛ́kvabhiḥ. Ge suggests either that they have an “Anhängerschaft” of singers or have gone among singers themselves; Re that it’s an instrumental of identification (“en tant que chantres”). Gr invents, for this passage alone, a meaning ‘Glanz, Strahl’ for ṛ́kvan-. Given the identification of the human poet with the Maruts in the same capacity in vss. 4-5, the singers of 6b may be human singers, although the other instrumental attributes in this verse do not fit this picture. Ge points out that in the first verse of the next hymn, I.88.1b, the Maruts’ chariots are svarká- ‘equipped with lovely chants’, and so the ṛ́kva- here might refer to their chariots, which are conspicuously absent from the list in pādas a-c. This is the explanation I currently prefer.
-
-The word iṣmín- is glossed by Gr as ‘eilend, stürmend’ (followed by WG), while Ge and Re take it as ‘possessing arrows’, deriving apparently from a suggestion of Bloomfield (see EWA s.v.), a suggestion emphatically rejected by Mayrhofer (loc. cit.). Certainly a derivation from íṣu- ‘arrow’ is, to say the least, not without problems. But in two of its other three occurrences, iṣmín- is found in a weapons context as it is here, and the derivation therefore seems worth attempting.
-
-Starting from íṣu-, the -in- possessive would be *iṣvín-. It is possible that the normal distribution of -vant- and -mant- possessives, with -mant- regularly built to stems in - u- (paśu-mánt-, etc.), as opposed to -vant-, would make *iṣvín- beside íṣu- appear anomalous, and it was “corrected” to iṣmín-. Note the regularly formed íṣumant- (2x).

@@ -1,7 +1,0 @@
-+++
-title = "09"
-
-+++
-I follow the analysis of the hapax éhimāyāsaḥ as a frozen 2nd sg. imperative phrase, “éhi mā́+yāḥ” (“come! don’t go”), transformed into an adjective in the nom. pl. masc. - an analysis that goes back at least to Sāyaṇa. Ge also follows this analysis, though it is somewhat difficult to excavate from his “willkommen und ungern fortgelassen.” I interpret it as representing the words of the singers’ invitation regularly heard by the VDs. The other currently competing explanations, as a frozen phrase “éhi māyā” [better voc. māye?] “come here, magic” (Old) or as a deformation of áhi-māya- ‘vielgestaltig’ (Gr) [=‘snake-sly’ (J+B)] (BR, followed by Gr), fit less well into the content of the hymn, which after all focuses on calling the various gods to the ritual; note the ā́gata, ā́ganta of vss. 7-8 addressed to the same VDs. Support for this analysis may also come from the next hymn (I.4), attributed to the same poet, in which successive vss. (3c, 4a) contain the imperatives ā́gahi ‘come here’ and párehi ‘go away’, with at least the former addressed to the god Indra.
-
-I.3.11-12: Note the contrastive values of the simplex pres. cétantī ‘perceiving, taking note’ and the -áya-pres. (prá) cetayati ‘makes perceived, reveals’ in successive vss.

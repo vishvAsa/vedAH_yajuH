@@ -1,6 +1,0 @@
-+++
-title = "01"
-
-+++
-Contra the standard tr. (Ge, Re, Lü [265], Doniger, Maurer), I take b with c, not with a, since the logical relation between a and b is weak and there are two ostensibly different subjects, while c follows from b. In b Soma, configured as a racehorse, seeks to win the sun, which in its brightness is the cosmic equivalent of the milk that is the goal of the ritual soma’s journey (see also IX.76.2). In c he “keeps company with” (sacate) the semen of heaven (divó rétasā). On the cosmic plane this is the rain; in the ritual it is the water with which the soma is mixed after filtering and before the mixing with milk - though here the two acts of mixture, with water and with milk, may be conflated, with rain/mixing water referred to as payovṛ́dh- ‘milkstrong’. For a slightly clearer passage see IX.84.5. The fact that the verbs of b and c, síṣāsati and sacate, recur in the climactic vs. 7 (see below) supports my view of the structure of this vs. In d most tr. take sumatī́as ours (e.g., Doniger “with kind thoughts we pray …”), whereas I assign it to Soma. In general sumatí- can belong either to mortals or to gods, and very little is at stake here - though I still favor my interpr.
-

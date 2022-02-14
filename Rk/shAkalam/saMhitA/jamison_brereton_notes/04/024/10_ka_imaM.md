@@ -1,9 +1,0 @@
-+++
-title = "10"
-
-+++
-The big question about this vs. is the identity of the speaker. The standard view is that it is the poet Vāmadeva, who is putting Indra on sale temporarily, with the requirement that he be returned after his obstacle-smashing is done. I find this unlikely. How did Indra come to be possessed by Vāmadeva (imám … máméndram “this Indra of mine”)? Who is he hawking Indra to? Why has the scene changed from the domestic one of Indra and his wife to, presumably, the ritual ground? My own suggestion, albeit somewhat tentative, is that the speaker is Indra’s wife. Who would have a better right to call him “this Indra of mine”? Moreover, there seems no good reason to introduce his wife as an emphatic actor in vs. 8 and then drop her out of the story. Since the three vss. seem unified in tone and theme, common sense suggests that they should take place in the same location with the same actors.
-
-The standard tr. take c with d, e.g., Ge: “Wenn er die Feinde erschlagen hat, so soll er ihn mir zurückgeben.” The problem with this is that it assumes an anterior, specifically future anterior, value “(will) have smashed” for the intensive subjunctive jáṅghanat. For this reason I attach it to ab. However, it may make more sense to allow the future anterior and make the yadā́clause the prior condition for the return in pāda d. In this case the tr. would be “Who buys this Indra of mine with ten cows? When he [=Indra] will have smashed the obstacles, then will he [=buyer] return him [=Indra] to me?”
-
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

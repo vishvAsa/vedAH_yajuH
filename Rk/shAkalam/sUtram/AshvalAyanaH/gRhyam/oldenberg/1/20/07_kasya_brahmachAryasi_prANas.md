@@ -1,5 +1,0 @@
-+++
-title = "07 कस्य ब्रह्मचार्यसि प्राणस्य"
-
-+++
-8. (And further the teacher says), 'Whose Brahmacārin art thou? The breath's Brahmacārin art thou. Who does initiate thee, and whom (does he initiate)? To whom shall I give thee in charge?'

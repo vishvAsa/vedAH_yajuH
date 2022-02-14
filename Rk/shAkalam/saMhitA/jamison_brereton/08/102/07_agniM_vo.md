@@ -1,6 +1,0 @@
-+++
-title = "07"
-
-+++
-Toward Agni, the strengthening one, best of many for your  ceremonies...  
-for the mighty child (of might)...  

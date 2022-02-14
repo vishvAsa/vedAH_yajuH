@@ -1,5 +1,0 @@
-+++
-title = "04"
-
-+++
-On subj. 2nd sg. vidā́ḥ see comm. ad IX.19.6. As noted there, I think this is the only actual example of vidā́ḥ. The other supposed exx. are actually 2nd sg. impv. vidā́with lengthened final; their sandhi position is ambiguous and so the forms could represent -ā́ḥ as well as -ā́, and the Pp. analyses them as the former. It is in fact not beyond the realm of possibility that the original reading here was also *vidā́. An impv. would fit the context better, with immediately preceding (4b) and following (5a) impv. ā́bhara. It is possible that the original sequence *vidā́sahasríṇīḥ was interpr. as having a degeminated double -s s- (*vidā́s s…), which was then restored. The meter would be unaffected. The almost identical pāda, IX.61.3 kṣárā sahasríṇīr íṣaḥ, is transmitted with an impv. with lengthened final. Note also impv. vardhayā in 5c. An alt. tr. here would then be “find refreshments …” Curiously, both Ge and Re tr. as impv., though they register no discomfort with the subjunctive.

@@ -1,6 +1,0 @@
-+++
-title = "07"
-
-+++
-Pāda d has another bad cadence: te (á)vidhat, with 4 light syllables, assuming the normal shortening of -e before vowel. The same cadence is found in 9c. I would be inclined to follow HvN in seeing this irregular cadence as characteristic of this particular hymn (see also 3b, 10a), save for the fact that ávidhat shows a remarkable tendency to position itself in bad cadences: see II.26.4, VIII.23.21, 27.15, 61.9. As IH points out to me, Arnold (p.129, §169.vi) suggests reading ā́vidhat with long augment. Though in all cases the Saṃhitā text transmits either short á or deleted abhinihita (á) and the Pp analyzes it as a in all cases, this seems a reasonable explanation - despite Old’s dismissive “recht zweifelhaft.” There is a tendency to lengthen vowels before elements beginning with v, not only the augment, but preverbs, and 1st cmpd. members, presumably spreading from forms that originally began *Hv. In most of the other occurrences of ávidhat (I.136.5, VI.54.4, IX.114.1) the augment has coalesced with a preceding a-vowel and its weight is therefore unrecoverable. Only in X.83.1 do we find an ávidhat that is not improved by a heavy reading: it occurs in the break after an early caesura. But even here ā́vidhat is a possible reading. Though ⏑ ⏑ - is the most preferred break, - ⏑ - is the next most common.
-

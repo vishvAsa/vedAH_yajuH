@@ -1,6 +1,0 @@
-+++
-title = "03"
-
-+++
-Klein (DGRV II.102) asserts that ádha in d “conjoins the second distich with the first, following an intervening participial phrase” (that is, conjoins ab with cd, the participial phrase occupying c); Klein tr. “And propping apart his broadly encompassing sunbeam he shall give mortal’s nourishment to us.” Although this seems roughly correct, the dislocated position of ádha, not only after the participial phrase of c but after the first, heavy word of d, martabhójanam, might have called for more comment. It would be possible to take c with ab -- there are no syntactic obstacles to this: the participial phrase can attach to the nom. subject of ab -- which would situation ádha closer to the beginning of the clause it’s conjoining (after only one word). But I favor a slightly richer semantics for ádha than Klein does: often ‘then’ rather than just ‘and’. And I think it likely here that positioning ádha in the last clause of the vs. and in fact in the last clause of the hymn proper) since vs. 4 is a meta-verse), is meant to emphasize Savitar’s last and most significant action, the actual delivery of his bounty to us mortals. The particle is found directly before the verb to stress the action of granting. With this analysis there is no need to attach c to ab.
-

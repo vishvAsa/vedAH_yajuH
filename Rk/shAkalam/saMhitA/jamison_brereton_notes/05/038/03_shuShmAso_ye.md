@@ -1,9 +1,0 @@
-+++
-title = "03"
-
-+++
-The WG interpr. becomes even more forced in this vs., which is summarized in their intro. by “Die Maruts lassen es regnen,” despite the absence of any reference to the Maruts or any verb for ‘rain’ -- the operative word for ‘rain’ is supposed to be the adverbial instr. mehánā generally taken as ‘in profusion’. The single word śúṣmāsaḥ is supposed to incorporate “Sturm, Drang, Blitz,” and the Maruts are supposed to be the other half of the dual expression ubhā́devāú “both you gods” -- that is, Indra and the Maruts -- a highly unlikely use of the dual. The distortion of the text to fit the interpretational preconceptions goes much too far.
-
-To stay closer to the actual wording, the question is how to distribute the various pādas in relation to each other. Ge takes ab as the subject of a clause whose object is in c, though with an unexpressed verb: “Deine Kräfte … (bringen) beide Götter zur Übermacht.” I prefer to take ab as an extension of vs. 2, adding another quality of Indra’s (his tempestuous force) that extends itself along with fame. Then the two gods of c can be the subject of rājathaḥ in d, with abhíṣṭaye an infinitival complement. A similar interpr. is given by Scar (598), who takes ab as a nominal clause, “Die ungestümen Kräfte, die dir [sind, sind] in Menge [vorhanden] und gehorchen deinem Willen,” and cd more or less as I do.
-
-As for who the other god is, besides Indra -- Old refuses to speculate, saying it’s an unknown ritual situation. Ge suggests Varuṇa, and this seems the likeliest possibility. Dual forms of √rāj generally have Varuṇa as one half of the subject, the other usually being Mitra; cf., e.g., in this maṇḍala V.63.2, 7. But VII.83.5, a hymn to Indra and Varuṇa, the verb has those two as subject: yuváṃ hí vásva ubháyasya rā́jathaḥ “For you two rule over goods of both sorts.”

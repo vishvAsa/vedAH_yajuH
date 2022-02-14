@@ -1,5 +1,0 @@
-+++
-title = "09 कलशात्सक्तूनान्दर्वीम् पूरयित्वा प्रागुपनिष्क्रम्य"
-
-+++
-9. Out of the jug he fills the spoon with flour, goes out (of the house) to the east, pours water on the ground on a clean spot, sacrifices with (the formula), 'To the divine hosts of the serpents svāhā!' and does reverence to them with (the formula), 'The serpents which are terrestrial, which are aerial, which are celestial, which dwell in the directions (of the horizon) - to them I have brought this Bali; to them I give over this Bali.'

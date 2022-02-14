@@ -1,6 +1,0 @@
-+++
-title = "01"
-
-+++
-The middle verses  instead have plural ritual participants:  “those of equal skill” who call on Indra  (vs. 2), ritual adepts (vs. 3), and the unidentified subject of “they speak” in verse  4. These middle verses may refer to the competing invocations of rival sacrificers,  a subject that is something of a preoccupation of this set of Indra hymns (see, e.g.,  VII.22.6, 27.4, 28.1). The fear is always that they will attract Indra to their sacri fice rather than to that of the current speaker. The position of the Vasiṣṭha verses  on both sides of these verses and enclosing them seems implicitly to assert that  Vasiṣṭha’s invocation has been successful. The parallelism of the last two verses,  “just in this way [evá] they speak...” (vs. 4) and “just in this way [evá] Vasiṣṭha  hymns...,” highlights this contrast.  
-The pleasing contrastive balance of both types of ring structures gives substance  to the poet’s boast in verse 1 that he is composing a “newer hymn that [Indra] will  enjoy.”  

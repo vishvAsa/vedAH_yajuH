@@ -1,8 +1,0 @@
-+++
-title = "03"
-
-+++
-As noted ad I.152.6, that verse contains both milk-cows (dhenávaḥ) and Aditi, though not identified with each other as here. In that verse the cows cause swelling, rather than swelling themselves. Nevertheless, I see thematic connections between the passages. áditi- ‘boundlessness’ (with one reading of the word in I.152.6d) perhaps qualifies the swelling milk-cow here: she swells without limit for the good sacrificer. Again, an emended tr. might read *“The milk-cow swells as boundlessness for …” All the standard tr. take ṛtā́ya as an adj. qualifying the jána- (e.g., Ge “für die rechtwandelnden Mann”), but adjectival uses of ṛtá- are rare to non-existent and the conjunction of an abstraction and an animate being is not rare. Cf. in one of the associated hymns, I.151.3 yád īm ṛtā́ya bháratho yád árvate, where the double yád shows that two entities are in question (“for truth and for the steed”). Again, in I.151.6a ā́vām ṛtā́ya keśínīr anūṣata, where the dat. ṛtā́ya is universally interpr. as the abstract ṛtá-.
-
-The standard tr. take d as a continuation of c, whose referent is still the man who gives offerings first met in b. Since this man is clearly human, it seems awkward to compare him to a human Hotar (mā́nuṣo ná hótā). I take d separately, with the initial sá signaling here a new, nominal clause, whose referent is Agni. The simile then makes sense, because Agni, though a god, regularly plays the role of Hotar at the sacrifice (and could in fact be the Hotar in 2c). Agni is elsewhere qualified as rātáhavya- (I.31.13, IV.7.7.), as are other gods (V.43.6, VII.35.1, VII.69.6), so this epithet does not require a human referent.
-

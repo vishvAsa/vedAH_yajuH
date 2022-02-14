@@ -1,5 +1,0 @@
-+++
-title = "07 स्थिरौ गावौ भवतां"
-
-+++
-7. 'May the two oxen be strong, the axle firm' (Rig-veda III, 53, i7) - with (this verse) he should touch (each) part of the chariot (alluded to in that verse).

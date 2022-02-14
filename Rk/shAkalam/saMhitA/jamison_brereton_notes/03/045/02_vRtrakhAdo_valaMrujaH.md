@@ -1,6 +1,0 @@
-+++
-title = "02"
-
-+++
-In the string of agentive phrases that entirely make up this vs. the poet manages a certain variety of syntactic patterns: standard tatpuruṣa with 1st member obj. (vṛtrakhā́dá-), tatpuruṣa with accusative 1st member (valaṃrujá- [note that without the acc. marker it would be a metrically unfavorable four light syllables]), agent noun with genitive (pāda bc, 4x with 3 separate agent noun types: purā́ṃ darmá-, apā́m ajá-, sthā́tar- ráthasya, háryor abhisvará-), agent noun with acc. (dṛḷhā́… ārujá-). The relentless repetition of nom. sg. agent phrases makes it quite certain that the Pp. loc. sg. reading abhisvaré should instead be taken as nom. sg. -aḥ, with Old. All standard tr. agree. The only argument against this that I can see is that háryor abhisvaráḥ would be the second GEN + simple -á-stem agent phrase (after apā́m ajáḥ in b), and if the poet was serious about producing the phraseological variety I have just catalogued he might have avoided a repetition by couching this phrase in the loc. (“at the calling of the two fallow bays”). The only other occurrence of abhisvará- is in the loc. (-e in sandhi, also pāda-final) and means ‘call’, not ‘caller’ (X.117.8). Still, I do not think this arg. is strong enough to counter-balance the pressure of the nom. sg. sequence.
-

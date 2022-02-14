@@ -1,8 +1,0 @@
-+++
-title = "18 लौहायसञ्च कौलालम्"
-
-+++
-19 [^4] . And the implements made of copper, iron, and earthenware.
-
-
-[^4]:  The statement in Śatapatha Brāhmaṇa XII, 5, 2, 14 is somewhat different.

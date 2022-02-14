@@ -1,8 +1,0 @@
-+++
-title = "02 पुरोदयादग्निं सहभस्मानं सहायतनन्"
-
-+++
-2 [^1] . Before sunrise they should carry their fire together with its ashes and with its receptacle to the south with the half-verse, 'I send far away the flesh-devouring Agni' (Rig-veda X, 16, 9).
-
-
-[^1]:  6, 2. According to Nārāyaṇa the fire means here not the sacred domestic fire, but a common kitchen fire. I doubt whether the p. 247 commentator is right. The ceremonies described in the following Sūtras seem to point rather to a renewal of the sacred Gṛhya fire, the old one having proved unlucky to the sacrificer. In the same way, in the Śrauta ritual, a sacrificer who, after having performed the Ādhāna, has bad luck, performs the Punarādheya.

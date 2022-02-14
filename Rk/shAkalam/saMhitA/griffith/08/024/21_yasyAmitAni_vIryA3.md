@@ -1,6 +1,0 @@
-+++
-title = "२१ यस्यामितानि वीर्या३"
-
-+++
-Whose hero powers are measureless, whose bounty ne'er may be surpassed,  
-     Whose liberality, like light, is over all.

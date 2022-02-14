@@ -1,5 +1,0 @@
-+++
-title = "05"
-
-+++
-The syntactic frame of dáyase here is wrong: it ordinarily takes an accusative of the material distributed and a dative of recipient on the rare occasions on which the recipient is made explicit. A clear example is found in the preceding verse, 4d … dáyase ví vā́jān, also nearby VII.21.7 maghā́ni dayate. The position of hí is also anomalous, though note that it exactly replicates the position of ví in the phrase in the preceding verse just cited and may well owe its position to this rhyme. 27 Despite the syntactic aberrancy I think that mártān must represent the recipient, and the parallelism of the dáyase phrases in the adjacent verses has imposed the accusative recipient. (There is also an apparent double accusative, of goods and recipient, in one other passage: VI.37.4 maghā́… dáyase ví sūrī́n “you apportion bounties to our patrons.”)

@@ -1,5 +1,0 @@
-+++
-title = "10 अभिवादनीयञ् च समीक्षेत"
-
-+++
-8. And let him also find out (for the child) a name to be used at respectful salutations (such as that due to the Ācārya at the ceremony of the initiation); that his mother and his father (alone) should know till his initiation.

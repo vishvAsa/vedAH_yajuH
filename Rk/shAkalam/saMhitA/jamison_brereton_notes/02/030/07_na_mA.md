@@ -1,6 +1,0 @@
-+++
-title = "07"
-
-+++
-tandran is, of course, a curious form. The Pp., not surprisingly, reads tandrat (with -t à -n before ná). Gr emends this to *tandat; Whitney (Rts) list the form thus, though with ?; and Old allows it as a possibility, without exactly endorsing it. IH suggests following the Saṃhitā reading and interpreting it as a 3rd pl. med. root aor., with ending -ran. The only other verbal form to this root, tandate, is medial. If this is correct, there would seem to be a change of no. in the subj. from the impersonal 3rd sgs. of the standard tr. to an unspecified 3rd pl.: “It will not tire nor weary me, and they will not flag.” Who the plural subject might be is unclear -- perhaps the 1st plural that is found in the next pāda. And in fact all three verbs could be 3rd pl.: the Pp. 3rd sgs. tamat and śramat also appear immediately before n-, with Saṃhitā -an. Under this interpretation the forms would not be impersonal but have unspecified plural subj.: “they will/do not tire or weary me nor do they flag.” If we prefer to accept the emendation to *tandat, the -r- can be explained, with Gr., as adopted from the nominal derivatives (á-)tandra- and tandra(yú-) (cf. also AV tandrī́-).
-

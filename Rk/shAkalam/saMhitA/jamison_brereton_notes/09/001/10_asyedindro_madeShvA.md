@@ -1,5 +1,0 @@
-+++
-title = "10"
-
-+++
-As just noted, the last pāda of vs. 9 seems to bring the hymn to a conclusion with a reprise of the end of the 1st vs., even though another vs. follows. Indeed vs. 10 does seem to stand apart from the rest of the hymn, while picking up various elements from it. First, note that though Indra was mentioned in the ring- compositional pādas, 1c índrāya pā́tave sutáḥ, 9c sómam índrāya pā́tave, he was absent from the rest of the hymn and his characteristics and deeds assigned to Soma instead. But here he reasserts his role as vṛtrá-smasher (b víśvā vṛtrā́ṇi jighnate), posited of Soma in 3b vṛtrahántamaḥ, and as giver of bounties (c maghā́ … maṃhate), also posited of Soma in 3b máṃhiṣṭhaḥ. The superlative mádiṣṭha- ‘most exhilarating’, describing the stream of soma in the first pāda of the hymn (1a), returns as the exhilarations of soma (asyá … mádeṣu)(10a) that spur Indra on to his exploits, the signature root √mad having been absent for all the rest of the hymn. (This particular ringcompositional effect is obscured in the publ. tr. by my use of ‘raptures’ for mádeṣu in 10a.)

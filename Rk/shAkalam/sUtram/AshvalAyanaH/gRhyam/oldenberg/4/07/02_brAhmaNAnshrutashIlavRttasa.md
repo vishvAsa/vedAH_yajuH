@@ -1,9 +1,0 @@
-+++
-title = "02 ब्राह्मणान्श्रुतशीलवृत्तसम्पन्नानेकेन वो काले"
-
-+++
-2. He causes Brāhmaṇas who are endowed with learning, moral character, and correct conduct, or with one of these (characteristics), who have been invited in time, who have taken a bath, washed their feet, and sipped water, to sit down, as representatives of the Fathers, with their faces turned to the north, one for each one of the Fathers, or two for each, or three for each.
-
-3. The larger their number is, the greater is the reward (which the sacrificer is entitled to expect).
-
-4. But in no case one (Brāhmaṇa) for all (the fathers).

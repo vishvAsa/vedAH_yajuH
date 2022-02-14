@@ -1,6 +1,0 @@
-+++
-title = "26"
-
-+++
-The syntax of this vs. is very difficult; Re even suggests that it consists of fragments “non syntaxisés” -- a coinage I would like to introduce to English. The standard interpr. take the NP in pāda a as acc. pl., more (Old) or less (Ge) parallel to havyā́ni in b and then either supply a verb to govern them (Ge: “bring [X to Y]”) or cobble together a very implausible syntactic bond between the verb ní satsi in c and the accusatives in ab (e.g., Re “En direction de tous ... assieds toi”). I take a very different route, first by interpr. maháḥ … satáḥ not as acc. pl. but gen./abl. sg. This phrase seems to have some special status: cf. I.36.3 mahás te satáḥ “since you are great,” same phrase in VIII.101.11 “of you who are great.” I take the referent of the abl./gen. phrase to be Agni, and I also interpr. abhí ṣatáḥ in the usual idiomatic meaning of abhí √as ‘be superior to’, construed here with the acc. víśvān. In b I simply supply a different form of the root √as, namely santu, to be construed with the abhí in the same meaning. The point of the sentence is that since Agni, who is superior to everything, is our Hotar and the conduit of our offerings to the gods, our oblations cannot help being superior as well.
-

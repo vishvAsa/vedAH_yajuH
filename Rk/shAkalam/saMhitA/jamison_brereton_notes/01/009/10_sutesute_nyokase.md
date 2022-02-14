@@ -1,5 +1,0 @@
-+++
-title = "10"
-
-+++
-As Thieme (Fremdling, pp. 11f.) points out, the verse sets up an implicit contrast between Indra, who is “at home” (nyòkas-) wherever soma is pressed, and the stranger - but this opposition also implicitly suggests that, despite being a stranger or foreigner, any man can offer soma and praise to Indra, who will make himself at home in those foreign parts. This contrast would be better expressed by “even the stranger chants…” rather than the published “the stranger himself chants…” The position and function of ā́(embedded in éd) in b are unclear. The verb √arc doesn’t take ā́and in any case preverbs don’t usually ended up stranded in the middle of a pāda (of course the etymological figure bṛhád bṛhaté could have been fronted around it); a mid-pāda position suggests a role as adposition, but as an adposition ā́doesn’t take a dative.

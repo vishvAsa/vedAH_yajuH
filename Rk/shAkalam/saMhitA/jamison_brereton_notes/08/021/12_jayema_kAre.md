@@ -1,8 +1,0 @@
-+++
-title = "12"
-
-+++
-Continues the thought of vs. 11, that with Indra on our side we can take on all challenges and challengers. I therefore tr. the 1st pl. optatives as potential “we could” rather than the voluntative “might we” (Ge “wir wollen”). The 2nd sg. verb aveḥ in d does not work well in this schema, at least in its ordinary interpretation as an optative to the 1st class pres. of √av ‘help’. Although “you should / might you help our visions” is possible, esp. given that dhī́- is not infrequently the object of √av (cf., e.g., I.117.23 víśvā dhíyaḥ … prā́vatam me), I have taken it instead as the imperfect of the root pres. of √vī ‘pursue’. Although ‘thought, vision’ is not a regular object of √vī, it does occur; cf. I.77.4 agnír gírò 'vasā vetu dhītím “let Agni with his help pursue our hymns, our visionary thought” (note the presence of ávasā ‘help’ as well).
-
-This aveḥ would pick up the subjunctive vayati of 10c, also with Indra as subject, also performing this action in our service, and the visions he pursues here are those announced in 6d. I interpret the word dhī́- in both places as referring to our fantasies about what we want out of Indra and how we could be victorious. In 12 Indra seems to have fulfilled these fantasies. Against the interpretation of aveḥ as belonging to √av we might note that the optative to the extremely well-attested thematic present ávati is almost non-existent. If the form here is otherwise analysed, the only secure form is avet in VI.47.15; ávet in V.34.8 I also take to √vī. However, I do not consider the standard interpretation of áveḥ here as belonging to √av entirely excluded.
-

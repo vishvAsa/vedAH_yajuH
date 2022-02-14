@@ -1,6 +1,0 @@
-+++
-title = "03"
-
-+++
-The them. adj. anarvá- is clearly derived from the well-attested bahuvrīhi - n-stem anarván- (cf. also the thematized anarváṇa-). The neut. NA to the n-stem should be *anarvá, which is not found. In two instances in which it should modify a neut. acc. (I.37.1, VI.48.15) we find instead the masc. anarvā́ṇam, an adjustment probably meant to make the form more transparent (see comm. on those two passages). As for the supposed them. stem anarvá-, in two of the occurrences listed by Gr. the referents are neut. (cakrám I.164.2, dātrám here). In both passages the neut. NA anarvám comes at the end of an odd pāda before an even pāda beginning with a consonant. I think it is at least arguable that the original reading in both cases was *anarvá, the expected neut. to the n-stem, which was redactionally altered to a thematic acc. The alternation has no metrical consequences. As for the other two forms that Gr lists to the them. stem, both (II.40.6, VII.40.4) qualify Aditi in the nom. sg. and have the form anarvā́. I suggest that both actually belong to the n-stem, whose nom. sg. has exactly that form, and that they are fem., but do not exhibit the fem. derivational suffix -ī (expect *anarváṇī-?).
-

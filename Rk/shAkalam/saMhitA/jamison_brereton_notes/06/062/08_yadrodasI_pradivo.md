@@ -1,8 +1,0 @@
-+++
-title = "08"
-
-+++
-The grammatical identity of bhū́mā (Pp. bhū́ma) is disputed. Ge considers it to belong to a (hapax) adj. stem *bhū́man- derived from bhūmán- ‘abundance’, used adverbially (“reichlich”). This does not seem to have much to recommend it. More appealing is to make it somehow related to a word for ‘earth’. Re tries an instr. of bhū́man- ‘earth’, but not with much conviction. Old rehearses -- mostly to firmly reject -- other possibilities, incl. the one that I favor: that it is the loc. of bhū́mi-. He objects that we should expect (and do indeed get) bhū́myām to this fem. stem, but at this period I don’t think this would be necessary for a fem. short-i-stem. His other object is more cogent, that to a short-i-stem we would expect bhū́mau pāda-final. I don’t have a clinching arg. against this, but would point out that there is some variation in these patterns. And this pāda seems to be playing with the heaven / earth distinction by other means: we first have the two world halves (rodasī), followed by (pra-)dívaḥ … bhū́mā, which distantly evokes dyā́vā-bhū́mī. The off-balance pairing is matched by the off-balance pairing of gods and mortals discussed immediately below.
-
-The conjoined NP devā́nām utá martyatrā́“of gods and among mortals” shows the familiar god / mortal opposition, but what Klein (DGRV I.311-12) calls “a peculiar absence of morphological parallelism.” It is tempting to make it mean “the anger of the gods towards mortals,” but I think utá is there precisely to block that reading, pace Scar (429) “Den Groll der Götter … der auch auf die Sterblichen gerichtet …ist.”
-

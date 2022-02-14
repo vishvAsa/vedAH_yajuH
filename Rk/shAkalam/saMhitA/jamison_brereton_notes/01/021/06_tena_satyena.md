@@ -1,7 +1,0 @@
-+++
-title = "06"
-
-+++
-The opening of this vs., téna satyéna, is of course the standard signal of the later truth formulation (satyakriyā). It is difficult to impose such a value here, but the phrase can be seen as a summary of the praise-hymn that precedes this final vs. and therefore as the grounds on which the poet asks for their vigilance and help.
-
-Ge (followed by WG) considers the padá- that is to be watched over the track or traces of something demonic or monstrous (“Die Spur der Unholde”), presumably the rákṣas- of the previous vs. But Re (XIV.121) points out that the root √gṛ ‘be watchful, wakeful’ always governs an object with favorable sense. Still, the exact reference of padá- is unclear. As the word is often used of the ritual ground (e.g., in the phrase iḷás padé “in the footprint of refreshment” [I.128.1, etc.]), I have interpreted it in this way in the transl. But it’s also possible to invoke another common use of the word, for the cosmogonic footsteps of Viṣṇu, an example of which is in the last verse of the next hymn, also close to a form of √gṛ (I.22.21): jāgrv̥ ā́ṃsaḥ ... víṣṇor yát paramám padám “watchful (over) what is the highest footstep of Viṣṇu.” These two views can in fact be reconciled. As noted below, the “highest footstep of Viṣṇu” in that verse is probably a reference to the sun, identified with the ritual fire, and therefore here “the footprint of discernment” can be both the ritual ground and Viṣṇu’s footprint in heaven.

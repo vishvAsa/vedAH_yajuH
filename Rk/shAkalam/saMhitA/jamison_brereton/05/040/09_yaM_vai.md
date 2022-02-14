@@ -1,7 +1,0 @@
-+++
-title = "09"
-
-+++
-Which sun Svarbhānu Āsura pierced with darkness,  
-that one the Atris found, for no others were able.  
-The following series of hymns to the All Gods / All the Gods (V.41–51) contains  some of the most complex and difficult poetry in the R̥gveda (along with some rest fully more straightforward hymns), including the hymn that Geldner called “the  hardest hymn in the R̥gveda” (“das schwierigste Lied des R̥V”), V.44. Although the  placement of this series within the Saṃhitā was dictated by the strict and mechani cal rules of numerical arrangement discussed before (see Intro. pp. 10–11), it is  sometimes difficult for us not to view this set of hymns as a type of omphalos in  the larger structure of the R̥gveda. They are found in more or less the middle of  Maṇḍala V (which has 87 hymns), which is more or less the middle maṇḍala of  the Family Books (II–VII—keeping in mind that, though V is preceded by three  maṇḍalas and followed by two, the preceding maṇḍalas are shorter: II–IV contain  163 hymns, VI–VII 179, remarkably close to equivalence). Just as the omphalos  verse in a hymn contains the enigma, the mysterious message of the hymn, so we  could view these All God hymns as the mystical center of the older R̥gveda.  

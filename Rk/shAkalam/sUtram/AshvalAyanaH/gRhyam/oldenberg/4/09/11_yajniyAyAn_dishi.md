@@ -1,8 +1,0 @@
-+++
-title = "11 यज्ञियायान् दिशि"
-
-+++
-11 [^4] . To a quarter (of the horizon) which is sacrificially pure,
-
-
-[^4]:  I.e. to the east or the north.

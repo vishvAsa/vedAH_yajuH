@@ -1,8 +1,0 @@
-+++
-title = "08 उत्तरपुरस्तादाहवनीयस्य जानुमात्रङ्गर्तङ् खात्वावकां"
-
-+++
-8 [^6] . To the north-east of the Āhavanīya fire he should have a knee-deep pit dug and should have an Avakā, i.e. (the water-plant called) Śīpāla put down into it. From that (pit) he (i.e. the deceased) goes out and together with the smoke he goes up to the heaven-world - thus it is understood (in the Śruti).
-
-
-[^6]:  Comp. above, II, 8, 14.

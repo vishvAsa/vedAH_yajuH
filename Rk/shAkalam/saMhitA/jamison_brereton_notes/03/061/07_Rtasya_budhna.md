@@ -1,9 +1,0 @@
-+++
-title = "07"
-
-+++
-This vs. offers a surprising number of small puzzles. The first is how to construe uṣásām iṣaṇyán. Most take gen. pl. uṣásām as the obj. of the participle, despite its unexpected case. (Others, like Pischel and Lü [for details see Lü 596-97], simply label uṣásām an acc. -- convenient but unconvincing.) I supply ‘cows’ (gā́s) as obj. on the basis of III.50.3 (in this maṇḍala) sám … gā́iṣaṇya and IX.96.8. That the bull (vṛ́ṣā) in the next pāda is the subject of ‘drive’ invites a bovine object. The cows, as often, can be the rays of the Dawn (the “dawn cows”). They are driven “on the foundation of truth” (ṛtásya budhné), that is, the earth and more specifically the ritual ground.
-
-The bull doing the driving is, in my view, the sun, which follows dawn and could therefore be conceived as driving the rays of dawn before him. His “entering the two world halves” is, of course, his rising above the horizon.
-
-The standard tr. take candréva in d to mean “like gold,” but if the reference is to the precious metal, it should be candrám iva, as they all acknowledge. With Gr and Old I instead take it as the fem. nom. sg. it appears to be, referring to Dawn. But who/what is the subj. of the frame? Most tr. take it to be the sun, who spreads his radiance (bhānúm) far and wide. This is certainly possible, but it leaves the māyā́of Mitra and Varuṇa announced in c rather orphaned. I therefore prefer to take māyā́as the subject of ví dadhe, in intransitive usage (“the magic power spreads/is spread”); the syntax of this frame is contrasted with the transitive but self-involved ví dadhe in the simile: “as shimmering (Dawn) has spread her own radiance,” with bhānúm belonging to the simile. This kind of syntactic disharmony is commonly exploited in similes, as I have discussed at length elsewhere ("Case disharmony in RVic similes", IIJ 24 [1982] 251-71).

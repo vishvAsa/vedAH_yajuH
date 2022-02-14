@@ -1,5 +1,0 @@
-+++
-title = "19"
-
-+++
-The augmented 3rd pl. avasran is listed as an aor. to √vas ‘shine’ by Whitney (Rts) and Gr and so tr. by Old (SBE), Re, and (somewhat attenuated) Ge. I take it rather as an impf. to the root pres. of √vas ‘wear’ (so listed by Lub., so interpr., more or less, by Kü, Stativ, 97-98); WG take it also to ‘wear’, but as an ingressive aorist. Since the root already has a root present and there are no other forms to a root aorist, this seems to multiply entities unnecessarily. What does it mean for the dawns to wear/clothe themselves in truth? Perhaps either that they are greeted by a (truly formulated) hymn that serves as their garment or that by dawning they display the truth of the orderly functioning cosmos as their clothing. Although I think that avasran belongs properly to √vas ‘wear’, this of course does not mean that there is not a pun on √vas ‘dawn, shine’.
