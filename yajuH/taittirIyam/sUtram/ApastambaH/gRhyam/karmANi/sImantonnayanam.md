@@ -24,7 +24,8 @@ unicode_script: devanagari
 न सर्वेषां ब्राह्मणानाम् अपि तु साल्वानाम्+++(=साल्व-देश-निवासिनाम्)+++ ॥
 
 +++(यमुनातीरवासिनाम्)+++  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/12_yaugandharireva_no.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_05_uttarayoH_pUrvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 +++(सर्वासां ब्राह्मणीनां प्रजानाम्)+++  
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_06_nadInirdeshashcha_yasyAm.md"  newLevelForH1="2" includeTitle="false"> </div>  
