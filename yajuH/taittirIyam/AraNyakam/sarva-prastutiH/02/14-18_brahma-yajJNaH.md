@@ -32,7 +32,7 @@ unicode_script: devanagari
 दक्षिणोत्त॒रौ पा॒णी कृ॒त्वा सप॒वित्रा॒व्,  
 ओमिति॒ प्रति॑पद्यत - ए॒तद् वै यजु॑स्, त्रयीव्ँ वि॒द्यां प्रत्य् ए॒षा वाग्, ए॒तत् प॑र॒मम् अ॒क्षर॒न्, तद् ए॒तद् ऋ॒चा ऽभ्यु॑क्तम् -  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/39_Rcho_axare.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/39_Rcho_axare.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 इति।  
 

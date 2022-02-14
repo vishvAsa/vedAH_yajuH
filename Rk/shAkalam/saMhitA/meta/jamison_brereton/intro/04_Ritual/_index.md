@@ -1,5 +1,0 @@
-+++
-title = "+04 Ritual"
-
-+++
-There have been a variety of approaches to the R̥gveda, by both ancient and modern scholars. Following the lead of the Br̥haddevatā, some interpreters have been  concerned primarily with the myths and legends of the R̥gveda. Others have sought  to understand the deities of the R̥gveda by exploring the meaning and derivation  of their names. And as early as the later Vedic period, still others understood the  R̥gvedic deities as the powers of the natural world or as symbols of microcosmic  processes. But the R̥gveda is first of all a liturgical text. The great majority of its  hymns were composed for rituals and, more specifically, for the soma rituals of  their period. After the collection of the R̥gveda, its verses were adapted to the recitations and chants of the classical soma ritual and employed in a variety of other  ritual contexts. Understanding the R̥gveda, therefore, first requires understanding  the Vedic rituals and, above all, the soma ritual. 
