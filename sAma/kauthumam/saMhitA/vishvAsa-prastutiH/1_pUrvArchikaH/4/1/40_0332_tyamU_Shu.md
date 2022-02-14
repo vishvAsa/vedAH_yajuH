@@ -1,6 +1,6 @@
 +++
 title = "40_0332 त्यमू षु"
-similar_rv = "/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/178/01_tyamU_Shu.md"
+similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/178/01_tyamU_Shu.md"
 edit_distance_to_rv = 0.01
 
 +++
@@ -10,4 +10,4 @@ edit_distance_to_rv = 0.01
 अ꣡रि꣢ष्ट-नेमिं+++(=परिरेखाम्)+++ पृत꣣ना꣡+++(=[पर]सेना)++++ऽज꣢मा꣢शु꣣ᳱ+++(अज गति-क्षेपणयोः)+++  
 स्व꣣स्त꣢ये꣣ ता꣡र्क्ष्य꣢म्+++(=तृक्षजम्)+++ इ꣣हा꣡ हु꣢वेम ॥ 40:0332 ॥
 
-<div class="js_include " url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/178/01_tyamU_Shu.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/178/01_tyamU_Shu.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>

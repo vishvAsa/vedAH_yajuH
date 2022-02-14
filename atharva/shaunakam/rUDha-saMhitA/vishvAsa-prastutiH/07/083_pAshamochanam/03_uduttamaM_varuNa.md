@@ -7,5 +7,5 @@ title = "०३ उदुत्तमं वरुण"
 अधा॑ व॒यम् आ॑दित्य व्र॒ते तवा  
 +ऽना॑गसो॒ अदि॑तये स्याम ॥३॥  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/15_uduttamaM_varuNa.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/15_uduttamaM_varuNa.md"  newLevelForH1="2" includeTitle="false"> </div>  
 

@@ -3,7 +3,7 @@ title = "०४ इह प्रियम्"
 
 +++
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/27_iha_priyaM.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/27_iha_priyaM.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 इ॒ह प्रि॒यं प्र॒जया॑ ते॒ समृ॑द्ध्यताम्,  

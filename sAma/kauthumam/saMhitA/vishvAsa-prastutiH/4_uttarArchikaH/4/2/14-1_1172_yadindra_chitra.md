@@ -1,9 +1,9 @@
 +++
 title = "14-1_1172 यदिन्द्र चित्र"
-similar_rv = "/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/039/01_yadindra_chitra.md"
+similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/039/01_yadindra_chitra.md"
 edit_distance_to_rv = 0.04
 
 +++
 य꣡दि꣢न्द्र चित्र म इ꣣ह꣢꣫ नास्ति꣣ त्वा꣡दा꣢तमद्रिवः। रा꣢ध꣣स्त꣡न्नो꣢ विदद्वस उभयाह꣣स्त्या꣡ भ꣢र ॥ 14-1:1172 ॥
 
-<div class="js_include " url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/039/01_yadindra_chitra.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/039/01_yadindra_chitra.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>

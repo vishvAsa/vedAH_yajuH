@@ -9,4 +9,4 @@ title = "०५ मेहनाद्वलङ्करणाल्लोमभ�
 तम् इ॒मं विवृ॑हामि ते ।  
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/05_mehanAdvanaMkaraNAllomabhyaste_nakhebhyaH.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/05_mehanAdvanaMkaraNAllomabhyaste_nakhebhyaH.md"  newLevelForH1="2" includeTitle="false"> </div>

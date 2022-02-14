@@ -1,9 +1,9 @@
 +++
 title = "01-2_1850 सङ्क्रन्दनेनानिमिषेण जिष्णुना"
-similar_rv = "/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md"
+similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md"
 edit_distance_to_rv = 0.0
 
 +++
 स꣣ङ्क्र꣡न्द꣢नेनानिमि꣣षे꣡ण꣢ जि꣣ष्णु꣡ना꣢ युत्का꣣रे꣡ण꣢ दुश्च्यव꣣ने꣡न꣢ धृ꣣ष्णु꣡ना꣢। त꣡दिन्द्रे꣢꣯ण जयत꣣ त꣡त्स꣢हध्वं꣣ यु꣡धो꣢ नर꣣ इ꣡षु꣢हस्तेन꣣ वृ꣡ष्णा꣢ ॥ 01-2:1850 ॥
 
-<div class="js_include " url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>

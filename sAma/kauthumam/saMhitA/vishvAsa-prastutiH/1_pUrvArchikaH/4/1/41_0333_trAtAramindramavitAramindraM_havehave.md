@@ -1,6 +1,6 @@
 +++
 title = "41_0333 त्रातारमिन्द्रमवितारमिन्द्रं हवेहवे"
-similar_rv = "/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/11_trAtAramindramavitAramindraM_havehave.md"
+similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/11_trAtAramindramavitAramindraM_havehave.md"
 edit_distance_to_rv = 0.171
 
 +++
@@ -10,4 +10,4 @@ edit_distance_to_rv = 0.171
 
 
 
-<div class="js_include " url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/11_trAtAramindramavitAramindraM_havehave.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/11_trAtAramindramavitAramindraM_havehave.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>

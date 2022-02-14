@@ -3,4 +3,4 @@ title = "०२ ग्रीवाभ्यस्त उष्णिहाभ्
 
 +++
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/02_grIvAbhyasta_uShNihAbhyaH.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/02_grIvAbhyasta_uShNihAbhyaH.md"  newLevelForH1="2" includeTitle="false"> </div>

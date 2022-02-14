@@ -9,4 +9,4 @@ title = "०७ परादेहि शाबल्यम्"
 जा॒याऽऽवि॑शते॒ पति॑म् ।
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/29_parA_dehi.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/29_parA_dehi.md"  newLevelForH1="2" includeTitle="false"> </div>

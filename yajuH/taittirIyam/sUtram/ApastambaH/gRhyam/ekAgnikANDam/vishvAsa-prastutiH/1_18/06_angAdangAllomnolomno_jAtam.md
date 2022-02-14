@@ -9,4 +9,4 @@ title = "०६ अङ्गादङ्गाल्लोम्नोलोम�
 तम् इ॒मं विवृ॑हामि ते ।  
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/06_angAdangAllomnolomno_jAtaM.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/06_angAdangAllomnolomno_jAtaM.md"  newLevelForH1="2" includeTitle="false"> </div>

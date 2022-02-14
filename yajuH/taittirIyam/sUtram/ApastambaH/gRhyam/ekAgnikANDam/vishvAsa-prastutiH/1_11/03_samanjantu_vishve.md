@@ -3,7 +3,7 @@ title = "०३ समञ्जन्तु विश्वे"
 
 +++
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/47_samanjantu_vishve.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/47_samanjantu_vishve.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 सम॑ञ्जन्तु॒ विश्वे॑ दे॒वास्  

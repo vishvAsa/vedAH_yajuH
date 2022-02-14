@@ -3,7 +3,7 @@ title = "०२ उदीर्ष्वातः पतिवती"
 
 +++
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/21_udIrShvAtaH_pativatI.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/21_udIrShvAtaH_pativatI.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 उ॒दी॒र्ष्वातः॒ पति॑वती॒ ह्य् ए॑षा  
