@@ -1,0 +1,41 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: भागाः
+contents:
+  - url: recdir://
+  - title: सङ्ग्रहान्तरम्
+    contents:
+      - title: ज्यौतिषम्
+        url: ../jyotiSham/
+      - title: संस्कृतम्
+        url: ../sanskrit/
+      - title: संस्कारः
+        url: ../devaH/
+      - title: आगमः
+        url: ../AgamaH/
+      - title: कल्पान्तरम्
+        url: ../kalpAntaram/
+      - title: Notes Home
+        url: ../notes/
+      - title: वेदाः
+        url: ../vedAH/
+      - title: पुराणम्
+        url: ../purANam/
+      - title: काव्यम्
+        url: ../kAvyam/
+      - title: मीमांसा
+        url: ../mImAMsA/
+      - title: त्रिपिटकम्
+        url: ../tipiTaka/
+      - title: पाळयः
+        url: ../pALi/
+      - title: भाषान्तरम्
+        url: ../bhAShAntaram/
+      - title: English Lit
+        url: ../english/
+  - title: Vishvas's home page
+    url: /../
+  - title: Blog
+    url: /assets/blog/
+  - title: <i class="fas fa-hand-holding-heart"></i>Donate Via Vishvas
+    url: https://vishvAsa.github.io/interests/dharma-via-vishvas/
