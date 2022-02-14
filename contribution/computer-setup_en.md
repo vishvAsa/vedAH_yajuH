@@ -23,20 +23,20 @@
 - Having followed "Going to the right place in your computer", doe the below
 
 ```
-git clone --single-branch --depth 1 --branch master https://github.com/XYZ/vedAH_yajuH.git vedAH-master
-cd vedAH-master
+git clone --single-branch --depth 1 --branch master https://github.com/XYZ/vedAH_yajuH.git vedAH_yajuH-master
+cd vedAH_yajuH-master
 git remote add upstream https://github.com/vishvAsa/vedAH_yajuH.git
 git submodule update --init  themes/sanskrit-documentation-theme-hugo
 cd ..
 
-git clone --single-branch --depth 1 --branch content https://github.com/XYZ/vedAH_yajuH.git vedAH-content
-cd vedAH-content
+git clone --single-branch --depth 1 --branch content https://github.com/XYZ/vedAH_yajuH.git vedAH_yajuH-content
+cd vedAH_yajuH-content
 git remote add upstream https://github.com/vishvAsa/vedAH_yajuH.git
 git pull upstream content
 cd ..
 
-git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/vedAH_yajuH.git vedAH-static
-cd vedAH-static
+git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/vedAH_yajuH.git vedAH_yajuH-static
+cd vedAH_yajuH-static
 git remote add upstream https://github.com/vishvAsa/vedAH_yajuH.git
 git pull upstream static_files
 cd ..
@@ -49,7 +49,7 @@ cd ..
   should).
 
 ```
-cd vedAH-master
+cd vedAH_yajuH-master
 git pull upstream master
 cd themes/sanskrit-documentation-theme-hugo/
 git pull origin master
@@ -59,12 +59,12 @@ hugo server --renderToDisk --config ./config_dev.toml
 
 ## Submitting file changes
 
-- If you're chaning files in `vedAH-content` :
+- If you're chaning files in `vedAH_yajuH-content` :
   - Make sure that you're working on the latest files by running: `git pull upstream content` .
   - Then, commit and push your changes (using atom editor, or github desktop or commands
     like `git commit -am "Some message"` and `git push`).
   - Then go to https://github.com/XYZ/vedAH_yajuH/tree/content and send a pull request .
-- If you're changing files in `vedAH-static` :
+- If you're changing files in `vedAH_yajuH-static` :
   - Make sure that you're working on the latest files by running: `git pull upstream static_files` .
   - Then, commit and push your changes (using atom editor, or github desktop or commands
     like `git commit -am "Some message"` and `git push`).

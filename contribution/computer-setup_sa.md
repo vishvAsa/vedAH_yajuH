@@ -18,20 +18,20 @@ unicode_script = "devanagari"
 - सङ्गणके समीचीनस्थानप्राप्तिः इति भागे यद् उक्तं तत् कृत्वा
 
 ```
-git clone --single-branch --depth 1 --branch master https://github.com/XYZ/vedAH_yajuH.git vedAH-master
-cd vedAH-master
+git clone --single-branch --depth 1 --branch master https://github.com/XYZ/vedAH_yajuH.git vedAH_yajuH-master
+cd vedAH_yajuH-master
 git remote add upstream https://github.com/vishvAsa/vedAH_yajuH.git
 git submodule update --init  themes/sanskrit-documentation-theme-hugo
 cd ..
 
-git clone --single-branch --depth 1 --branch content https://github.com/XYZ/vedAH_yajuH.git vedAH-content
-cd vedAH-content
+git clone --single-branch --depth 1 --branch content https://github.com/XYZ/vedAH_yajuH.git vedAH_yajuH-content
+cd vedAH_yajuH-content
 git remote add upstream https://github.com/vishvAsa/vedAH_yajuH.git
 git pull upstream content
 cd ..
 
-git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/vedAH_yajuH.git vedAH-static
-cd vedAH-static
+git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/vedAH_yajuH.git vedAH_yajuH-static
+cd vedAH_yajuH-static
 git remote add upstream https://github.com/vishvAsa/vedAH_yajuH.git
 git pull upstream static_files
 cd ..
@@ -41,7 +41,7 @@ cd ..
 - सङ्गणके समीचीनस्थानप्राप्तिः इति भागे यद् उक्तं तत् कृत्वा
 
 ```
-cd vedAH-master
+cd vedAH_yajuH-master
 git pull upstream master
 cd themes/sanskrit-documentation-theme-hugo/
 git pull origin master
@@ -50,10 +50,10 @@ hugo server --renderToDisk --config ./config_dev.toml
 ```
 
 ## सञ्चिकासु प्राप्तासु सत्सु कार्यम्
-- यदि कार्यम् vedAH-content इत्यस्मिन् क्रियते
+- यदि कार्यम् vedAH_yajuH-content इत्यस्मिन् क्रियते
     - `git pull upstream content` इति परिवर्तनानि लभ्यानि।
     - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/vedAH_yajuH/tree/content इत्यत्र गत्वा प्रेषणीयम्।
-- यदि कार्यम् vedAH-static इत्यस्मिन् क्रियते
+- यदि कार्यम् vedAH_yajuH-static इत्यस्मिन् क्रियते
     - `git pull upstream static_files` इति परिवर्तनानि लभ्यानि।
     - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/vedAH_yajuH/tree/static_files इत्यत्र गत्वा प्रेषणीयम्।
 
