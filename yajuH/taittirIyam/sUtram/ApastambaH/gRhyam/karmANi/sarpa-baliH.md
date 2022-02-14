@@ -37,7 +37,7 @@ practice_weight: 0
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_11_tUShNIM_sampuShkA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-### प्रत्येत्य गृहपरिषेचनमन्त्रौ
+
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_12_uttarairupasthAyApaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/19_01_dhAnAH_kumArAn.md"  newLevelForH1="2" includeTitle="false"> </div>  

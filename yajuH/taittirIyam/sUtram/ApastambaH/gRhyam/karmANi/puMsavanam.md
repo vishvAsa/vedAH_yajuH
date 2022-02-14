@@ -10,7 +10,6 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/12_puMsuvanam/14_10_nyagrodhasya_yA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 +++(दक्षिणे नासिकाछिद्रे न्यग्रोधशृङ्गारसमपि नयति)+++  
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/14_puMsuvanamasi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ### क्षिप्र-पुंसवनम्
 +++(यजुषाऽभिमर्शनम्)+++  
@@ -23,3 +22,8 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/12_puMsuvanam/14_11_anavasnAtayA_kumAryA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/12_puMsuvanam/14_12_pumA.Nsa~n_janayati.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+
+## जरायुपतने ऽवोक्षणम्
+
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/12_puMsuvanam/14_15_yadi_jarAyu.md"  newLevelForH1="2" includeTitle="false"> </div>
