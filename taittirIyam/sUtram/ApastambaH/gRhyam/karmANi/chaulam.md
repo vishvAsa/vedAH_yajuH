@@ -17,22 +17,6 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_05_sImantavad_agner.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-(ब्राह्मणान् भोजयित्वा ऽशिषो वाचयित्वा,  
-अग्नेर् उपसमाधानाद्य्-आज्यभागान्ते  
-कुमारम् अन्वारभ्य  
-उत्तरा आहुतीर् हुत्वा +++(= " धाता ददातु नो रयिम्" इति चतस्रो, "यस्त्वा हृदा कीरिणे"ति चतस्रः)+++  
-जयादि प्रतिपद्यते ॥  
-परिषेचनान्तं कृत्वा  
-)  
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="false"> </div>  
-
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/10_yastvA_hRdA.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/11_yasmai_tvaM.md"  newLevelForH1="2" includeTitle="false"> </div>  
-
-<div class="js_include" url="/devaH/hindukaH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="false"> </div>  
-
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_06_apareNAgnim_prAnchamupaveshya.md"  newLevelForH1="2" includeTitle="false"> </div>   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_07_yathA_vaiShAm.md"  newLevelForH1="2" includeTitle="false"> </div>  
