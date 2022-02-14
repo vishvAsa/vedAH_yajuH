@@ -12,9 +12,3 @@ title = "१४ १४ अनाप्रीतेन"
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/17_dasha_mAsAnChashayAno.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/18_AyamanIryamayata_garbhamApo.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-
-## जरायुपतने ऽवोक्षणम्
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/19_tilade-vapadyasva_na.md"  newLevelForH1="2" includeTitle="false"> </div>
-
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/20_sthavitryavapadyasva_na.md"  newLevelForH1="2" includeTitle="false"> </div>
