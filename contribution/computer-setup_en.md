@@ -71,7 +71,7 @@ hugo server --renderToDisk --config ./config_dev.toml
   - Then go to https://github.com/XYZ/vedAH_yajuH/tree/static_files and send a pull request .
 
 <script>
-module_ui_lib.replaceWithQueryParam("githubUserId", /XYZ(?=[^'’])/g);
+module_uiLib.replaceWithQueryParam("githubUserId", /XYZ(?=[^'’])/g);
 
 document.getElementById("transformId").onclick = function(e) {
   let userId = document.getElementById("input_githubUserId").value;
