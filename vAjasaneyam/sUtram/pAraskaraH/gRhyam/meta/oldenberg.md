@@ -24,18 +24,18 @@ TO THE
 
 PĀRASKARA-GRIHYA-SŪTRA.
 
-THE Gr̥hya-sūtra of Pāraskara, which belongs to the White Yagur-veda and forms an appendix to Kātyāyana's Srauta-sūtra, has been edited, with a German translation, by the scholar who was the first to make a Gr̥hya text accessible to Orientalists and to begin to grapple with the first and most serious difficulties that beset its interpretation, and who has continued since to do more than anyone else towards elucidating that important branch of Vedic literature. It would be very unbecoming in any one engaged in the study of Gr̥hya texts, not to acknowledge most warmly the debt of gratitude which he owes to Professor Stenzler. At the same time the respect due to the veteran editor and interpreter of Āsvalāyana and Pāraskara not only allows, but requires that one who proposes to himself the same task at which Prof. Stenzler has worked with so much learning, should state as clearly as possible what that distinguished scholar has left for others to do, and why one who prepares an English translation of Pāraskara has a very different task from merely translating into English the German translation of Prof. Stenzler.
+THE Gr̥hya-sūtra of Pāraskara, which belongs to the White Yajur-veda and forms an appendix to Kātyāyana's Srauta-sūtra, has been edited, with a German translation, by the scholar who was the first to make a Gr̥hya text accessible to Orientalists and to begin to grapple with the first and most serious difficulties that beset its interpretation, and who has continued since to do more than anyone else towards elucidating that important branch of Vedic literature. It would be very unbecoming in any one engaged in the study of Gr̥hya texts, not to acknowledge most warmly the debt of gratitude which he owes to Professor Stenzler. At the same time the respect due to the veteran editor and interpreter of Āśvalāyana and Pāraskara not only allows, but requires that one who proposes to himself the same task at which Prof. Stenzler has worked with so much learning, should state as clearly as possible what that distinguished scholar has left for others to do, and why one who prepares an English translation of Pāraskara has a very different task from merely translating into English the German translation of Prof. Stenzler.
 
 If I may venture to express in one word the difference between Prof. Stenzler's method, as I understand it, for getting at the meaning of a doubtful or obscure passage, and the method which I have endeavoured to follow, I should say that with Prof. Stenzler the first step and,
 
- I believe, in many cases also the last step is to ask how Gayarāma and Rāmakr̥shṇa understand the passage in question, while I hold that we ought rather to make ourselves independent from those commentators in the sense in which Prof. Max Müller once expressed himself [^fn_651], 'not that I ever despise the traditional interpretation which the commentators have preserved to us, but because I think that, after having examined it, we have a right to judge for ourselves.' There exists a commentary on the Pāraskara-Gr̥hya which far surpasses in trustworthiness Gayarāma's Sagganavallabha and Rāmakr̥shṇa's Saṁskāragaṇapati, and which is not composed by an author who, as says Goethe,
+ I believe, in many cases also the last step is to ask how Gayarāma and Rāmakr̥shṇa understand the passage in question, while I hold that we ought rather to make ourselves independent from those commentators in the sense in which Prof. Max Müller once expressed himself [^fn_651], 'not that I ever despise the traditional interpretation which the commentators have preserved to us, but because I think that, after having examined it, we have a right to judge for ourselves.' There exists a commentary on the Pāraskara-Gr̥hya which far surpasses in trustworthiness Gayarāma's Sajjanavallabha and Rāmakr̥shṇa's Saṁskāragaṇapati, and which is not composed by an author who, as says Goethe,
 
 [^fn_651]: Sacred Books of the East, vol. xv, p. 2, note 2.
 
       - im Auslegen ist munter;  
  Legt er nicht aus, so legt er unter.
 
- But the leaves of that commentary are scattered through a good many volumes. Here we find a few lines of it in the Satapatha Brāhmaṇa or in Kātyāyana's Srauta-sūtra; there Sāṅkhāyana or Āsvalāyana has preserved a word or a sentence that belongs to it; or the law-books of Manu or Yāgñavalkya help us to understand a difficult or doubtful aphorism of our text. In one word: the only true commentary on a work like Pāraskara's Gr̥hya is that which the ancient literature itself furnishes. No one will say that in Prof. Stenzler's translation and notes this commentary has not been consulted. But it has been consulted perhaps not quite as much as it ought to have been, and Rāmakr̥shṇa and Gayarāma have been consulted too much. They have been consulted and followed in many instances, where a continued consideration of what can be the meaning of a word and what can not, and of what the parallel texts say with regard to the subject in question, would have shown that those commentators, instead of interpreting Pāraskara's meaning, father on him vague opinions of their own.
+ But the leaves of that commentary are scattered through a good many volumes. Here we find a few lines of it in the Satapatha Brāhmaṇa or in Kātyāyana's Srauta-sūtra; there Sāṅkhāyana or Āśvalāyana has preserved a word or a sentence that belongs to it; or the law-books of Manu or Yājñavalkya help us to understand a difficult or doubtful aphorism of our text. In one word: the only true commentary on a work like Pāraskara's Gr̥hya is that which the ancient literature itself furnishes. No one will say that in Prof. Stenzler's translation and notes this commentary has not been consulted. But it has been consulted perhaps not quite as much as it ought to have been, and Rāmakr̥shṇa and Gayarāma have been consulted too much. They have been consulted and followed in many instances, where a continued consideration of what can be the meaning of a word and what can not, and of what the parallel texts say with regard to the subject in question, would have shown that those commentators, instead of interpreting Pāraskara's meaning, father on him vague opinions of their own.
 
 Perhaps it will not be out of place here to point our
 
@@ -49,19 +49,19 @@ Prof. Stenzler translates as follows:
 
 The two Sūtras which precede give a description of that ceremony from which evidently the opinion of the 'eke' mentioned in this Sūtra differs, or to which they find it necessary to add something. Those Sūtras run thus:
 
-3. After he has fetched fire from the house of a Vaisya who is rich in cattle - 
+3. After he has fetched fire from the house of a Vaiśya who is rich in cattle - 
 
-4. All ceremonies are performed as at the cooking of the kātushprāsya food [^fn_652].
+4. All ceremonies are performed as at the cooking of the cātushprāśya food [^fn_652].
 
 [^fn_652]: The food which is eaten by the four chief officiating priests of the Srauta ritual. For these priests a mess of food is prepared at the ceremony of the ādhāna of the Srauta fires.
 
-It seems evident that the Ākāryas to whom the opinion spoken of in Sūtra 5 belongs, add, or perhaps substitute, to the fetching of the fire which is to be worshipped as the sacrificer's domestic fire, from a rich Vaisya's house, another rite in which an araṇi, i.e. a stick for kindling the fire by attrition, is made use of in some way or other.
+It seems evident that the Ācāryas to whom the opinion spoken of in Sūtra 5 belongs, add, or perhaps substitute, to the fetching of the fire which is to be worshipped as the sacrificer's domestic fire, from a rich Vaiśya's house, another rite in which an araṇi, i.e. a stick for kindling the fire by attrition, is made use of in some way or other.
 
 Now if this may be accepted as a vague expression of the general purport of the Sūtra, what is the literal meaning of the words? 'Some (teachers),' it says, '(prescribe) the pradāna of the kindling stick (or, of the kindling sticks).'
 
 What does pradāna mean? Gayarāma says,
 
-'prasabda upasabdārthe. araṇyupādānakam eka ākāryā ikkḥanti.'
+'praśabda upaśabdārthe. araṇyupādānakam eka ācāryā iccḥanti.'
 
 That is: 'The word pra stands in the sense of the word upa. Some teachers desire that it (i.e. the fire) should have the kindling sticks as its physical basis [^fn_653].'
 
@@ -79,7 +79,7 @@ wife sit down to the west of the fire which has just been established, and then 
 
 [^fn_656]: See the commentary on IV, 7, 22, and the passages of the Karmapradīpa quoted there.
 
-[^fn_655]: IV, 7, 22: asvatthasamīgarbhāraṇī prayakkḥati.
+[^fn_655]: IV, 7, 22: aśvatthaśamīgarbhāraṇī prayaccḥati.
 
 Āpastamba likewise mentions, in his description of the Agnyādhāna [^fn_657], the handing over of the two Araṇis, and indicates a Mantra which the Adhvaryu recites in giving them to the sacrificer, and two other Mantras with the one of which the sacrificer receives them, while he recites the other over the Araṇis, after having taken them into his hands.
 
@@ -87,15 +87,15 @@ wife sit down to the west of the fire which has just been established, and then 
 
 Finally we may quote here, as bearing witness to the custom of the Araṇipradāna, a passage taken from Nārāyaṇa's commentary on the Sāṅkhāyana-Gr̥hya. Though the decisive words in that passage rest only on the authority of the commentator and not of the Sūtrakāra himself, they deserve to be taken notice of, as they are not subject to the suspicion that they could be influenced by a misunderstanding of that very Sūtra of Pāraskara of which we are treating. Nārāyaṇa says, in his explanation of Sāṅkhāyana I, 1, 10 [^fn_658]: 'To the west of the fire the sacrificer, and southwards (of him) the wife sits down. The
 
-[^fn_658]: Sāyamāhutisaṁskārodhvaryupratyaya ity ākāryāḥ.
+[^fn_658]: Sāyamāhutisaṁskārodhvaryupratyaya ity ācāryāḥ.
 
-handing over of the kindling sticks does not take place. For it is a fire fetched (from a Vaisya's house, &c.) which is inaugurated here [^fn_659].' Then the commentator goes on to quote a Sloka:
+handing over of the kindling sticks does not take place. For it is a fire fetched (from a Vaiśya's house, &c.) which is inaugurated here [^fn_659].' Then the commentator goes on to quote a Sloka:
 
-[^fn_659]: Agneh paskād yagamāno dakshiṇataḥ patnī ka upavisati. araṇipradānaṁ na kartavyaṁ. āhr̥tasyāgner eva saṁskārah.
+[^fn_659]: Agneh paścād yajamāno dakshiṇataḥ patnī ca upaviśati. araṇipradānaṁ na kartavyaṁ. āhr̥tasyāgner eva saṁskārah.
 
 'The handing over of the Araṇis which the Adhvaryu sometimes performs,
 
-'Is not in accordance with the opinion of Suyagña [^fn_660]; he does not approve of kindling the fire by attrition [^fn_661]:
+'Is not in accordance with the opinion of Suyajña [^fn_660]; he does not approve of kindling the fire by attrition [^fn_661]:
 
 [^fn_661]: 
 
