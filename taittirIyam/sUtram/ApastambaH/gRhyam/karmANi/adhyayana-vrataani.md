@@ -78,8 +78,8 @@ tags: [उपाकर्म, उत्सर्गः, वेदव्रता
 
 
 ## विस्तारः
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/04_vivAhaprakaraNam/08_02_sadasaspatirdvitIyaH.md"  newLevelForH1="3" includeTitle="सुदर्शन-मतम्"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/04_vivAhaprakaraNam/08_02_sadasaspatirdvitIyaH.md"  newLevelForH1="3" title="सुदर्शन-मतम्"> </div>  
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/08_02_sadasaspatirdvitIyaH.md"  newLevelForH1="3" includeTitle="हरदत्त-मतम्"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/08_02_sadasaspatirdvitIyaH.md"  newLevelForH1="3" title="हरदत्त-मतम्"> </div>  
 
