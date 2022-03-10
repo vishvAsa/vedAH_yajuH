@@ -1,5 +1,5 @@
 +++
-title = "01 पारस्करगृह्यसूत्रम् श्रीगणेशाय नमः"
+title = "०१ पारस्करगृह्यसूत्रम् श्रीगणेशाय नमः"
 
 +++
 1 [^1]  Now henceforth the performance of the domestic sacrifices of cooked food (will be explained).

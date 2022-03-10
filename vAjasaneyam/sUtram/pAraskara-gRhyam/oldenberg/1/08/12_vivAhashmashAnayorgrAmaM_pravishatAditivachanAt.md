@@ -1,5 +1,5 @@
 +++
-title = "12 विवाहश्मशानयोर्ग्रामं प्रविशतादितिवचनात्"
+title = "१२ विवाहश्मशानयोर्ग्रामं प्रविशतादितिवचनात्"
 
 +++
 12 [^6] . For it is said, 'At weddings and funerals he shall enter the village;'

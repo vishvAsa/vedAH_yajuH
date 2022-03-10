@@ -1,5 +1,5 @@
 +++
-title = "04 क्षपणं प्रवचनं च"
+title = "०४ क्षपणं प्रवचनं च"
 
 +++
 4 [^2] . Interruption (of the study) and (continuation of the) teaching as stated above.

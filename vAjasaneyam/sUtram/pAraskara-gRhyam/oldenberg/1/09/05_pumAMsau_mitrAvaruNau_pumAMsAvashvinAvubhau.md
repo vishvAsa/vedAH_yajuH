@@ -1,5 +1,5 @@
 +++
-title = "05 पुमांसौ मित्रावरुणौ पुमांसावश्विनावुभौ"
+title = "०५ पुमांसौ मित्रावरुणौ पुमांसावश्विनावुभौ"
 
 +++
 5 [^3] . 'Men are both Mitra and Varuṇa; men are both the Aśvins; men are Indra and Sūrya. May a man be born in me! Again svāhā!' - with (this verse) a wife who desires to conceive, (should offer) the first (oblation).

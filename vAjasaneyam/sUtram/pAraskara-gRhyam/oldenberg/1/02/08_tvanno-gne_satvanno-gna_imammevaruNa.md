@@ -1,5 +1,5 @@
 +++
-title = "08 त्वन्नोऽग्ने सत्वन्नोऽग्न इमम्मेवरुण"
+title = "०८ त्वन्नोऽग्ने सत्वन्नोऽग्न इमम्मेवरुण"
 
 +++
 8 [^8] . 'Thou, Agni' (Vāj. Saṃhitā XXI, 3); 'Thus thou, Agni' (Vāj. Saṃhitā XXI, 4); 'This, O Varuṇa' (XXI, 1); 'For this I entreat thee' (XXI, 2); 'Thy hundred' (Kāty.-Śraut. XXV, 1, 11); 'And quick, Agni' (Kāty. l.l.); 'The highest one' (Vāj. Saṃh. XII, 12); 'Be both to us' (ibid. V, 3) - with (these verses he sacrifices) eight (oblations) before (the oblations of cooked food).

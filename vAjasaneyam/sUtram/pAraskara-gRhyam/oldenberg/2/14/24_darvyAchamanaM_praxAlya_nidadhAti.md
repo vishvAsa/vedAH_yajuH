@@ -1,5 +1,5 @@
 +++
-title = "24 दर्व्याचमनं प्रक्षाल्य निदधाति"
+title = "२४ दर्व्याचमनं प्रक्षाल्य निदधाति"
 
 +++
 24 [^9] . With the Darvī (spoon) he rinses his mouth. Having washed it, he puts it away.

@@ -1,5 +1,5 @@
 +++
-title = "01 सांवत्सरिकस्य चूडाकरणम्"
+title = "०१ सांवत्सरिकस्य चूडाकरणम्"
 
 +++
 1 [^1] . When (the son) is one year old, the Cūḍākaraṇa (i.e. the tonsure of his head, should be performed),

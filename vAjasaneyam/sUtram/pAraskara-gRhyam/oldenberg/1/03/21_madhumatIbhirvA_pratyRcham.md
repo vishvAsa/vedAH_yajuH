@@ -1,5 +1,5 @@
 +++
-title = "21 मधुमतीभिर्वा प्रत्यृचम्"
+title = "२१ मधुमतीभिर्वा प्रत्यृचम्"
 
 +++
 21 [^12] . Or with (the verses) that contain the word 'honey,' verse by verse.

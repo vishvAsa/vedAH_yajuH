@@ -1,5 +1,5 @@
 +++
-title = "06 स्थालीपाकस्य जुहोति शान्ता"
+title = "०६ स्थालीपाकस्य जुहोति शान्ता"
 
 +++
 6 [^9] . He makes offerings of the mess of cooked food with (the verses):

@@ -1,5 +1,5 @@
 +++
-title = "11 सकुलमिति नकुलम्"
+title = "११ सकुलमिति नकुलम्"
 
 +++
 11. An ichneumon (nakula), sakula;

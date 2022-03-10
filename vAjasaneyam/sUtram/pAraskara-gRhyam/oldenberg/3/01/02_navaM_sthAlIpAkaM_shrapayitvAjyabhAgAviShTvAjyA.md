@@ -1,5 +1,5 @@
 +++
-title = "02 नवं स्थालीपाकं श्रपयित्वाज्यभागाविष्ट्वाज्याहुती"
+title = "०२ नवं स्थालीपाकं श्रपयित्वाज्यभागाविष्ट्वाज्याहुती"
 
 +++
 2 [^2] . He cooks a mess of fresh sacrificial food, sacrifices the two Ājya portions, and two Ājya oblations, (with the formulas),

@@ -1,5 +1,5 @@
 +++
-title = "01 उपयमनप्रभृत्यौपासनस्य परिचरणम्"
+title = "०१ उपयमनप्रभृत्यौपासनस्य परिचरणम्"
 
 +++
 1 [^1] . Beginning from the wedding the worshipping of the Aupāsana (i.e. sacred domestic) fire (is prescribed).

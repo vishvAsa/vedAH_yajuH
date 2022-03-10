@@ -1,5 +1,5 @@
 +++
-title = "04 दधिमधुघृतमिश्रममात्या अवेक्षन्त आयात्विन्द्र"
+title = "०४ दधिमधुघृतमिश्रममात्या अवेक्षन्त आयात्विन्द्र"
 
 +++
 4. The inmates of the house look at the mixture of curds, honey, and ghee, with the Anuvāka,

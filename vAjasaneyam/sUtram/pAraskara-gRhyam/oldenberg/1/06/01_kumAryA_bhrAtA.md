@@ -1,5 +1,5 @@
 +++
-title = "01 कुमार्या भ्राता"
+title = "०१ कुमार्या भ्राता"
 
 +++
 1 [^1] . The girl's brother pours out of his joined hands into her joined hands fried grain mixed with Śamī leaves.

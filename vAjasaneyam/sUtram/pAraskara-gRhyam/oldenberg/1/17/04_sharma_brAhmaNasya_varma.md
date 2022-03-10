@@ -1,5 +1,5 @@
 +++
-title = "04 शर्म ब्राह्मणस्य वर्म"
+title = "०४ शर्म ब्राह्मणस्य वर्म"
 
 +++
 4. (The name) of a Brāhmaṇa (should end in)

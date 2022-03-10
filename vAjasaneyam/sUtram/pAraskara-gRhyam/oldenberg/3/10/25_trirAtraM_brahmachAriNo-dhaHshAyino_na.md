@@ -1,5 +1,5 @@
 +++
-title = "25 त्रिरात्रं ब्रह्मचारिणोऽधःशायिनो न"
+title = "२५ त्रिरात्रं ब्रह्मचारिणोऽधःशायिनो न"
 
 +++
 25 [^8] . Through a period of three nights they should remain chaste, sleep on the ground, do no work and charge nobody (to do it for them).

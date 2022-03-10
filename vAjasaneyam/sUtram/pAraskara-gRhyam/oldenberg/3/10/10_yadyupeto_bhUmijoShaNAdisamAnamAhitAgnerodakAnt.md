@@ -1,5 +1,5 @@
 +++
-title = "10 यद्युपेतो भूमिजोषणादिसमानमाहिताग्नेरोदकान्तस्य"
+title = "१० यद्युपेतो भूमिजोषणादिसमानमाहिताग्नेरोदकान्तस्य"
 
 +++
 10 [^4] . If (the dead person) has received the initiation, (the rites) from the election of the site (for the Śmaśāna) down to their descending into water (in order to bathe themselves) are the same as those prescribed for persons who have set up the (sacred Śrauta) fires.

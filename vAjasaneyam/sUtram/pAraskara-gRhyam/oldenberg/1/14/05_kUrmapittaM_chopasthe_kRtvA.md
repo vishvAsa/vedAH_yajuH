@@ -1,5 +1,5 @@
 +++
-title = "05 कूर्मपित्तं चोपस्थे कृत्वा"
+title = "०५ कूर्मपित्तं चोपस्थे कृत्वा"
 
 +++
 5 [^3] . And he puts gall of a tortoise on her lap.

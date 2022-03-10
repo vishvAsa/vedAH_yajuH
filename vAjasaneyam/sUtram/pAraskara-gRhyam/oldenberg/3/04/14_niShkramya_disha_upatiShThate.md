@@ -1,5 +1,5 @@
 +++
-title = "14 निष्क्रम्य दिश उपतिष्ठते"
+title = "१४ निष्क्रम्य दिश उपतिष्ठते"
 
 +++
 14. He then goes out (of the house) and worships the quarters (of the horizon, the east) with (the formulas), 'May Ketā (i.e. will?) and Suketā (i.e. good-will?) protect me from the east.

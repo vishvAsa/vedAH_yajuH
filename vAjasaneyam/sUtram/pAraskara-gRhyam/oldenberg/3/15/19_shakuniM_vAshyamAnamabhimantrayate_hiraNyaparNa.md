@@ -1,9 +1,9 @@
 +++
-title = "19 शकुनिं वाश्यमानमभिमन्त्रयते हिरण्यपर्ण"
+title = "१९ शकुनिं वाश्यमानमभिमन्त्रयते हिरण्यपर्ण"
 
 +++
-19 [^2] . A howling jackal he addresses: 'Friendly by name' (Vāj. Saṃh. III, 63).
+20 [^3] . A shrieking bird he addresses: 'Golden-winged bird who goest where the gods send thee! Messenger of Yama, adoration be to thee! What has the Kārkāriṇa told thee?'
 
 
-[^2]:  The play on words is untranslatable; 'jackal' is śivā, 'friendly,' śivaḥ.
+[^3]:  I do not know the meaning of kārkāriṇaḥ. Jayarāma takes it for a genitive standing instead of an accusative, and explains it by asmadbādhakam.
 

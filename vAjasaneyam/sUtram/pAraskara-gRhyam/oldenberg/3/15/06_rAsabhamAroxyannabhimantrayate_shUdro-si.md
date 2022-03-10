@@ -1,5 +1,5 @@
 +++
-title = "06 रासभमारोक्ष्यन्नभिमन्त्रयते शूद्रोऽसि"
+title = "०६ रासभमारोक्ष्यन्नभिमन्त्रयते शूद्रोऽसि"
 
 +++
 6 [^1] . When he is going to mount a he-ass, he addresses it: 'A Śūdra art thou, a Śūdra by birth. To Agni thou belongest, with twofold sperm. Make me arrive safely.'

@@ -1,5 +1,5 @@
 +++
-title = "01 अथैनामुदीचीं सप्तपदानि प्रक्रामयति"
+title = "०१ अथैनामुदीचीं सप्तपदानि प्रक्रामयति"
 
 +++
 1 [^1] . Then he makes her step forward in a northern direction seven steps (with the words),

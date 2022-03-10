@@ -1,5 +1,5 @@
 +++
-title = "01 प्रोष्येत्य गृहानुपतिष्ठते पूर्ववत्"
+title = "०१ प्रोष्येत्य गृहानुपतिष्ठते पूर्ववत्"
 
 +++
 1 [^1] . When he returns from a journey, he approaches his house in the manner stated above.

@@ -1,5 +1,5 @@
 +++
-title = "03 परिपशव्ये हुत्वा तूष्णीमपराः"
+title = "०३ परिपशव्ये हुत्वा तूष्णीमपराः"
 
 +++
 3 [^3] . After he has sacrificed the two oblations before and after the killing of the animal, (he) silently (sacrifices) five other (oblations, directed to Prajāpati).

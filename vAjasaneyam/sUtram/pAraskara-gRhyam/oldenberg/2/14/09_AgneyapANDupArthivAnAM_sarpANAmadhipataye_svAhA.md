@@ -1,5 +1,5 @@
 +++
-title = "09 आग्नेयपाण्डुपार्थिवानां सर्पाणामधिपतये स्वाहा"
+title = "०९ आग्नेयपाण्डुपार्थिवानां सर्पाणामधिपतये स्वाहा"
 
 +++
 9. 'To the lord of the serpents belonging to Agni, of the yellowish, terrestrial ones, svāhā!

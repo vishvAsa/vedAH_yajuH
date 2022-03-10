@@ -1,5 +1,5 @@
 +++
-title = "04 प्राशनान्ते सक्तुशेषं शूर्पे"
+title = "०४ प्राशनान्ते सक्तुशेषं शूर्पे"
 
 +++
 4 [^2] . After he has eaten (of the sacrificial food), he throws the remainder of the flour into a basket, (and then follow the same rites that have been stated above) from (the sacrificer's) going out down to their cleaning themselves.

@@ -1,5 +1,5 @@
 +++
-title = "02 ऐन्द्री वैश्वदेवी प्राजापत्या"
+title = "०२ ऐन्द्री वैश्वदेवी प्राजापत्या"
 
 +++
 2 [^2] . (The Aṣṭakā is) sacred to Indra, to the Viśve devās, to Prajāpati, and to the Fathers.

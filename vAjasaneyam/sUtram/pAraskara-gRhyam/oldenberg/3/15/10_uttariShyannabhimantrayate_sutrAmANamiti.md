@@ -1,5 +1,5 @@
 +++
-title = "10 उत्तरिष्यन्नभिमन्त्रयते सुत्रामाणमिति"
+title = "१० उत्तरिष्यन्नभिमन्त्रयते सुत्रामाणमिति"
 
 +++
-10. When going on board a ship, he addresses her: 'The good ship' (Vāj. Saṃh. XXI, 7).
+11. When going to cross (the river), he addresses (the ship): 'The well-protecting' (Vāj. Saṃh. XXI, 6).

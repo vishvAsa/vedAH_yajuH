@@ -1,5 +1,5 @@
 +++
-title = "07 नभ्यस्थमभिमन्त्रयते मयोभूरित्यनुवाकशेषेण"
+title = "०७ नभ्यस्थमभिमन्त्रयते मयोभूरित्यनुवाकशेषेण"
 
 +++
 7 [^7] . When (the bull) stands in the midst of the cows, he recites over it (the texts beginning with) 'Bringing refreshment,' down to the end of the Anuvāka (Vāj. Saṃh. XVIII, 45-50).

@@ -1,5 +1,5 @@
 +++
-title = "11 अयास्यग्नेर्वषट् कृतं यत्कर्मणात्यरीरिचम्"
+title = "११ अयास्यग्नेर्वषट् कृतं यत्कर्मणात्यरीरिचम्"
 
 +++
 11 [^9] . With (the formulas), 'Into the quick one (has been put) Agni's (sacrificial portion) over which the word vaṣaṭ has been spoken;' 'What I have done too much;' 'O gods who know the way.'

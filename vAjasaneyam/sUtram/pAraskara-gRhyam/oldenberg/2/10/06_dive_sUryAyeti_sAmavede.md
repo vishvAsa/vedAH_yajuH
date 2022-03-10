@@ -1,5 +1,5 @@
 +++
-title = "06 दिवे सूर्यायेति सामवेदे"
+title = "०६ दिवे सूर्यायेति सामवेदे"
 
 +++
 6. To the Heaven and to the Sun, if the Sāma-veda,

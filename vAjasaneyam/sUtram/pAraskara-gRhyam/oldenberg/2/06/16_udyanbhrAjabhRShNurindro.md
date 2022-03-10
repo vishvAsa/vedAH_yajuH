@@ -1,5 +1,5 @@
 +++
-title = "16 उद्यन्भ्राजभृष्णुरिन्द्रो"
+title = "१६ उद्यन्भ्राजभृष्णुरिन्द्रो"
 
 +++
 16 [^7] . With (the formulas), 'Rising, bearing a shining spear, Indra stands with the Maruts; he stands with the gods who walk in the morning. Thou art a tenfold winner; make me a tenfold winner. Make me attain to renown.

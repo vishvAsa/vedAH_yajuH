@@ -1,5 +1,5 @@
 +++
-title = "02 ओषधीनां प्रादुर्भावे श्रवणेन"
+title = "०२ ओषधीनां प्रादुर्भावे श्रवणेन"
 
 +++
 2 [^1] . When the herbs appear, (when the moon stands in conjunction) with Śravaṇa, on the full-moon day of the Śrāvaṇa month, or on the fifth (Tithi) of the Śrāvaṇa month under (the Nakṣatra) Hasta;

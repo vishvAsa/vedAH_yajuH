@@ -1,5 +1,5 @@
 +++
-title = "11 पूर्वो ब्रूयात्प्राणेति"
+title = "११ पूर्वो ब्रूयात्प्राणेति"
 
 +++
 11 [^4] . The (Brāhmaṇa placed) to the east should say, Up-breathing!

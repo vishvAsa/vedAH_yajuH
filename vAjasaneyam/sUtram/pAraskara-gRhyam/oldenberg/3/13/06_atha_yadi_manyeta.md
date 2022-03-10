@@ -1,5 +1,5 @@
 +++
-title = "06 अथ यदि मन्येत"
+title = "०६ अथ यदि मन्येत"
 
 +++
 6 [^4] . But if he should think, 'This person will do evil to me,' he addresses him with (the words), 'I take away the speech in thy mouth, I take away (the speech) in thy heart. Wheresoever thy speech dwells, thence I take it away. What I say, is true. Fall down, inferior to me.'

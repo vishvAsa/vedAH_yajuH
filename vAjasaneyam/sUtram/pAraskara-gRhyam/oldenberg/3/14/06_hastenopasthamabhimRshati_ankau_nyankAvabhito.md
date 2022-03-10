@@ -1,5 +1,5 @@
 +++
-title = "06 हस्तेनोपस्थमभिमृशति अङ्कौ न्यङ्कावभितो"
+title = "०६ हस्तेनोपस्थमभिमृशति अङ्कौ न्यङ्कावभितो"
 
 +++
 6 [^1] . He touches the interior of the chariot with his hand (saying), 'The two Aṅkas, the two Nyaṅkas which are on both sides of the chariot, which move forward with the rushing wind, the far-darting one with keen senses, the winged one, may these fires, the promoters, promote us.'

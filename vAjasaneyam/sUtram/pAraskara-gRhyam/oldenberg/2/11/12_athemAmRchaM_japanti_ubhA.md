@@ -1,5 +1,5 @@
 +++
-title = "12 अथेमामृचं जपन्ति उभा"
+title = "१२ अथेमामृचं जपन्ति उभा"
 
 +++
 12 [^5] . They then mutter this Ṛc: 'Ye two young sages! The relation which has expired among us, the friendship we dissolve, (turning away) from the condition of friendship.'

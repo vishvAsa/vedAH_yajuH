@@ -1,5 +1,5 @@
 +++
-title = "05 चतुर्थं शूर्पकुष्ठया सर्वांल्लाजानावपति"
+title = "०५ चतुर्थं शूर्पकुष्ठया सर्वांल्लाजानावपति"
 
 +++
 5 [^3] . The fourth time she pours the whole fried grain by the neb of a basket (into the fire) with (the words), 'To Bhaga svāhā!'

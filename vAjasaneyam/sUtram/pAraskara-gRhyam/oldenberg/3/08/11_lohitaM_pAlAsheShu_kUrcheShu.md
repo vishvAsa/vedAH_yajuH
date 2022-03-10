@@ -1,5 +1,5 @@
 +++
-title = "11 लोहितं पालाशेषु कूर्चेषु"
+title = "११ लोहितं पालाशेषु कूर्चेषु"
 
 +++
 11 [^8] . The blood he offers in leaves, on (grass-) bunches, as a Bali to Rudra and to his hosts, with (the Mantras),

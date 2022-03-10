@@ -1,5 +1,5 @@
 +++
-title = "17 स्तनयित्नुमभिमन्त्रयते शिवा नो"
+title = "१७ स्तनयित्नुमभिमन्त्रयते शिवा नो"
 
 +++
-17. If the skirt (of his garment) is blown upon him (by the wind), he addresses (that skirt): 'A skirt art thou. Thou art not a thunder-bolt. Adoration be to thee. Do no harm to me!'
+18. The thunder he addresses: 'May the rains be friendly to us; may (Indra's) darts be friendly to us - may they be friendly to us which thou throwest, O killer of Vṛtra.'

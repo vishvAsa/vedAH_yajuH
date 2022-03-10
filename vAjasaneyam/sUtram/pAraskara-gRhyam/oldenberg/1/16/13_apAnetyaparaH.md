@@ -1,5 +1,5 @@
 +++
-title = "13 अपानेत्यपरः"
+title = "१३ अपानेत्यपरः"
 
 +++
 13. The one to the west, 'Down-breathing!'

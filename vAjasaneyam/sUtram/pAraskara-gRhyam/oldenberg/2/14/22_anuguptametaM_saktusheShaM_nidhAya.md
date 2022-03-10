@@ -1,5 +1,5 @@
 +++
-title = "22 अनुगुप्तमेतं सक्तुशेषं निधाय"
+title = "२२ अनुगुप्तमेतं सक्तुशेषं निधाय"
 
 +++
 22 [^7] . Having put away that remainder of flour in a hidden place, he should from that time daily till the Āgrahāyaṇī, after sunset, when he has performed the service to the fire, offer to the serpents a Bali of flour, picking out (portions of it) with the Darvī (spoon).

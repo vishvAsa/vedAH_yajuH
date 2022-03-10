@@ -1,5 +1,5 @@
 +++
-title = "06 तस्मादेवंविच्छ्रोत्रियस्य दारेण नोपहासमिच्छेदुत"
+title = "०६ तस्मादेवंविच्छ्रोत्रियस्य दारेण नोपहासमिच्छेदुत"
 
 +++
 6 [^3] . Therefore one should not wish for sport with the wife of a Śrotriya who knows this; for the other one is a person who knows this (and is thereby enabled to destroy a lover of his wife).

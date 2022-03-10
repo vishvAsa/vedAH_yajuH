@@ -1,5 +1,5 @@
 +++
-title = "07 अग्न्याधेयदेवताभ्यः स्थालीपाकम्"
+title = "०७ अग्न्याधेयदेवताभ्यः स्थालीपाकम्"
 
 +++
 7 [^7] . Having cooked a mess of sacrificial food for the deities of the Agnyādheya, and having sacrificed the two Ājya portions, he sacrifices (the following) Ājya oblations:

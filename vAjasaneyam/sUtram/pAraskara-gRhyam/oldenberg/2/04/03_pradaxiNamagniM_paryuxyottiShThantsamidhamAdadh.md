@@ -1,5 +1,5 @@
 +++
-title = "03 प्रदक्षिणमग्निं पर्युक्ष्योत्तिष्ठन्त्समिधमादधाति"
+title = "०३ प्रदक्षिणमग्निं पर्युक्ष्योत्तिष्ठन्त्समिधमादधाति"
 
 +++
 3 [^2] . Having sprinkled (water) round the fire from left to right, he stands up and puts a piece of wood on (the fire) with (the texts),

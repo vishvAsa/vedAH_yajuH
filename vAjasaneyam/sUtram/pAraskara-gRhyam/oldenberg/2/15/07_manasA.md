@@ -1,5 +1,5 @@
 +++
-title = "07 मनसा"
+title = "०७ मनसा"
 
 +++
 7. (This Mantra he repeats only) in his mind.

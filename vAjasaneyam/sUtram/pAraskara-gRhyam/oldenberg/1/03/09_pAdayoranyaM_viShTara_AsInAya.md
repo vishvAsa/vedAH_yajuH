@@ -1,5 +1,5 @@
 +++
-title = "09 पादयोरन्यं विष्टर आसीनाय"
+title = "०९ पादयोरन्यं विष्टर आसीनाय"
 
 +++
 9 [^5] . With the feet (he treads) on the other (bundle of grass).

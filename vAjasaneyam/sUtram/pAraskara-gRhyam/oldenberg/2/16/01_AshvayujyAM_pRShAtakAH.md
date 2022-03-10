@@ -1,5 +1,5 @@
 +++
-title = "01 आश्वयुज्यां पृषातकाः"
+title = "०१ आश्वयुज्यां पृषातकाः"
 
 +++
 1 [^1] . On the full-moon day of Āśvayuja the (offerings of) Pṛśhātakas (are made).

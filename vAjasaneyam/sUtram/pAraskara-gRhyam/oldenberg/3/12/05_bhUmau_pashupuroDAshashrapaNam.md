@@ -1,5 +1,5 @@
 +++
-title = "05 भूमौ पशुपुरोडाशश्रपणम्"
+title = "०५ भूमौ पशुपुरोडाशश्रपणम्"
 
 +++
 5 [^3] . The Puroḍāśa (or sacrificial cake), which belongs to the animal sacrifice, is cooked on the ground (and not in the Kapālas).

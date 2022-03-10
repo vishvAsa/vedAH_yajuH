@@ -1,5 +1,5 @@
 +++
-title = "08 नियुक्तामप्येके गाथामुपोदाहरन्ति सोम"
+title = "०८ नियुक्तामप्येके गाथामुपोदाहरन्ति सोम"
 
 +++
 8 [^5] . Here some also prescribe a certain stanza (to be sung by the lute-players): 'Soma alone is our king. May these human tribes dwell on thy banks, O (river) whose dominion is unbroken, N.N.!' - here he names the name of the river near which they dwell.

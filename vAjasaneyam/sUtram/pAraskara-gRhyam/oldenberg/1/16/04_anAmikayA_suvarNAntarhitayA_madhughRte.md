@@ -1,5 +1,5 @@
 +++
-title = "04 अनामिकया सुवर्णान्तर्हितया मधुघृते"
+title = "०४ अनामिकया सुवर्णान्तर्हितया मधुघृते"
 
 +++
 4 [^3] . (The medhājanana is performed in the following way:) With his fourth finger and with (an instrument of) gold he gives (to the child) honey and ghee, or ghee (alone), to eat with (the formulas), 'Bhūḥ I put into thee; bhuvaḥ I put into thee; svaḥ I put into thee. Bhūr bhuvaḥ svaḥ everything I put into thee.'

@@ -1,5 +1,5 @@
 +++
-title = "03 अथ परिक्रामतः तुभ्यमग्रे"
+title = "०३ अथ परिक्रामतः तुभ्यमग्रे"
 
 +++
 3. They then go round (the fire) with (the verse, which the bridegroom repeats,)

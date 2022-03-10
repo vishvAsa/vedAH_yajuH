@@ -1,5 +1,5 @@
 +++
-title = "13 अथोत्तरीयम् या अकृन्तन्नवयम्"
+title = "१३ अथोत्तरीयम् या अकृन्तन्नवयम्"
 
 +++
 13 [^4] . Then the upper garment with (the verse), 'The goddesses who spun, who wove, who spread out, and who drew out the threads on both sides, may those goddesses clothe thee for the sake of long life. Blessed with life put on this garment!'

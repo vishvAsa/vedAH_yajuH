@@ -1,5 +1,5 @@
 +++
-title = "08 नामान्येषामेतानीति श्रुतेः"
+title = "०८ नामान्येषामेतानीति श्रुतेः"
 
 +++
 8 [^6] . For the Śruti says, 'These are their names.'

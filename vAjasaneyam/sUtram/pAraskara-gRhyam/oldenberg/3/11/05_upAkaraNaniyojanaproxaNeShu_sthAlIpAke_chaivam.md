@@ -1,5 +1,5 @@
 +++
-title = "05 उपाकरणनियोजनप्रोक्षणेषु स्थालीपाके चैवम्"
+title = "०५ उपाकरणनियोजनप्रोक्षणेषु स्थालीपाके चैवम्"
 
 +++
 5 [^5] . (He should name that deity also) at the touching (of the animal with the grass-blade), at (its) being bound (to the branch), at its being sprinkled (with water), and at (the preparation and oblation) of the mess of cooked food.

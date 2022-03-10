@@ -1,5 +1,5 @@
 +++
-title = "03 निष्क्रमणप्रभृत्युदकुम्भं स्कन्धे कृत्वा"
+title = "०३ निष्क्रमणप्रभृत्युदकुम्भं स्कन्धे कृत्वा"
 
 +++
 3 [^2] . From the moment of their going away a man who holds a water-pot on his shoulder, stands silent to the south of the fire;

@@ -1,5 +1,5 @@
 +++
-title = "04 स्थालीपाकस्य जुहोति प्राणेनान्नमशीय"
+title = "०४ स्थालीपाकस्य जुहोति प्राणेनान्नमशीय"
 
 +++
 4. He then sacrifices (four oblations) of cooked food with (the formulas),

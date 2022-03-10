@@ -1,5 +1,5 @@
 +++
-title = "12 अथैनां वासः परिधापयति"
+title = "१२ अथैनां वासः परिधापयति"
 
 +++
 12 [^3] . He then makes her put on the (under) garment with (the verse), 'Live to old age; put on the garment! Be a protectress of the human tribes against imprecation. Live a hundred years full of vigour; clothe thyself in wealth and children. Blessed with life put on this garment!'

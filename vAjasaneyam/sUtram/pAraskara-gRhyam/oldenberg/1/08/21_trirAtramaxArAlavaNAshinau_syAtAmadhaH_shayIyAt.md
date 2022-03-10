@@ -1,5 +1,5 @@
 +++
-title = "21 त्रिरात्रमक्षारालवणाशिनौ स्यातामधः शयीयाताम्"
+title = "२१ त्रिरात्रमक्षारालवणाशिनौ स्यातामधः शयीयाताम्"
 
 +++
 21 [^10] . Through a period of three nights they shall eat no saline food; they shall sleep on the ground; through one year they shall refrain from conjugal intercourse, or through a period of twelve nights, or of six nights, or at least of three nights.

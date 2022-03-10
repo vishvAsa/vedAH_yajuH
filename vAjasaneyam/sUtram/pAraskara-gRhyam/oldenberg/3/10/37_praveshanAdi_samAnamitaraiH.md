@@ -1,5 +1,5 @@
 +++
-title = "37 प्रवेशनादि समानमितरैः"
+title = "३७ प्रवेशनादि समानमितरैः"
 
 +++
 37 [^12] . The entering and what follows after it is the same (for these persons) as for the others.

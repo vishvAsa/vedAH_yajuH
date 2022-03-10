@@ -1,5 +1,5 @@
 +++
-title = "05 नवाऽग्न्युपदेशाद्वपनानुषङ्गाच्च"
+title = "०५ नवाऽग्न्युपदेशाद्वपनानुषङ्गाच्च"
 
 +++
 5 [^3] . Or (he may) not (do so), because (that verse) has been prescribed for (the erection of) the Agni (-altar), and the act of sowing stands in connection (with it).

@@ -1,5 +1,5 @@
 +++
-title = "24 यदि कुमार उपद्रवेज्जालेन"
+title = "२४ यदि कुमार उपद्रवेज्जालेन"
 
 +++
 24 [^10] . If (the demon bringing disease) Kumāra attacks the boy, the father covers him with a net or with an upper garment, takes him on his lap, and murmurs: Kūrkura, Sukūrkura, Kūrkura, who holds fast children. Cet! cet! doggy! let him loose. Reverence be to thee, the Sīsara, barker, bender.

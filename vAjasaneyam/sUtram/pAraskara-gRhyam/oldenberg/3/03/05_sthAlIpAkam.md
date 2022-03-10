@@ -1,5 +1,5 @@
 +++
-title = "05 स्थालीपाकम्"
+title = "०५ स्थालीपाकम्"
 
 +++
 5 [^4] . Having cooked a mess of sacrificial food and having sacrificed the two Ājya portions, he sacrifices Ājya oblations with (the texts):

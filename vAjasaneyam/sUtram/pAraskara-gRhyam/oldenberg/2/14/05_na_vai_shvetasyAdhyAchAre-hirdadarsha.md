@@ -1,5 +1,5 @@
 +++
-title = "05 न वै श्वेतस्याध्याचारेऽहिर्ददर्श"
+title = "०५ न वै श्वेतस्याध्याचारेऽहिर्ददर्श"
 
 +++
 5 [^3] . 'Within the dominion of the white one, the Serpent has seen nobody. To the white one, the son of Vidarva, adoration! Svāhā!'

@@ -1,5 +1,5 @@
 +++
-title = "54 अहरहरन्नमस्मै ब्राह्मणायोदकुम्भं च"
+title = "५४ अहरहरन्नमस्मै ब्राह्मणायोदकुम्भं च"
 
 +++
 54 [^20] . Every day he shall give food to him (i.e. to the deceased person), and if he was a Brāhmaṇa, a vessel with water.

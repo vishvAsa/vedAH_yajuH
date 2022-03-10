@@ -1,5 +1,5 @@
 +++
-title = "02 दायाद्यकाल एकेषाम्"
+title = "०२ दायाद्यकाल एकेषाम्"
 
 +++
 2 [^2] . At the time of the division of the inheritance, according to some (teachers).

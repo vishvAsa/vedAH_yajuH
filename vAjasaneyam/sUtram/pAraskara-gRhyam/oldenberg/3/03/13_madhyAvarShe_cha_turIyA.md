@@ -1,5 +1,5 @@
 +++
-title = "13 मध्यावर्षे च तुरीया"
+title = "१३ मध्यावर्षे च तुरीया"
 
 +++
 13 [^10] . And in the middle of the rainy season (there is) a fourth Aṣṭakā on which vegetables are offered.

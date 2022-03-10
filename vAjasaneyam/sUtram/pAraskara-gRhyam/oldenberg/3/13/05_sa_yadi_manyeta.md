@@ -1,5 +1,5 @@
 +++
-title = "05 स यदि मन्येत"
+title = "०५ स यदि मन्येत"
 
 +++
 5 [^3] . Should he think, 'This person is angry with me,' he addresses him with (the verses), The destroying power of wrath and anger that dwells here on thy forehead, that the chaste, wise gods may take away.

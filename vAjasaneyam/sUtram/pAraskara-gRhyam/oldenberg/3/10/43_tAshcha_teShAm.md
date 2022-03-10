@@ -1,5 +1,5 @@
 +++
-title = "43 ताश्च तेषाम्"
+title = "४३ ताश्च तेषाम्"
 
 +++
 43 [^14] . And they for the (others).

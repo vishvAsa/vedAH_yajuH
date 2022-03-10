@@ -1,5 +1,5 @@
 +++
-title = "01 प्रदक्षिणमग्निं परीत्योपविशति"
+title = "०१ प्रदक्षिणमग्निं परीत्योपविशति"
 
 +++
 1 [^1] . Having walked round the fire with his right side turned towards it, he sits down.

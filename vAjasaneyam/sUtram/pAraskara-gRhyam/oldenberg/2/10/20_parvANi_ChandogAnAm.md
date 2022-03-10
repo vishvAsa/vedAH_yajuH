@@ -1,5 +1,5 @@
 +++
-title = "20 पर्वाणि छन्दोगानाम्"
+title = "२० पर्वाणि छन्दोगानाम्"
 
 +++
 20 [^6] . The Parvans, if they are Chandogas (i.e. if they study the Sāma-veda),

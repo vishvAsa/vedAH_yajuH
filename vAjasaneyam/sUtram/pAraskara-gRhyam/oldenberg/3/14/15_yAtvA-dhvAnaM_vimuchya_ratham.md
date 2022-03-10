@@ -1,5 +1,5 @@
 +++
-title = "15 यात्वाऽध्वानं विमुच्य रथम्"
+title = "१५ यात्वाऽध्वानं विमुच्य रथम्"
 
 +++
 15 [^5] . When he has finished his way, and has unyoked the horses, let him have grass and water given to them. 'For thus satisfaction is given to the beast that draws (the cart)' - says the Śruti.

@@ -1,5 +1,5 @@
 +++
-title = "17 विकृतं वासो नाच्छादयीत"
+title = "१७ विकृतं वासो नाच्छादयीत"
 
 +++
 17 [^9] . He should not wear a dyed garment.

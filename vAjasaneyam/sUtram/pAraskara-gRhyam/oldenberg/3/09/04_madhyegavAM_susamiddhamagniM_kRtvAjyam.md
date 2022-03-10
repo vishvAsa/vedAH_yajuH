@@ -1,5 +1,5 @@
 +++
-title = "04 मध्येगवां सुसमिद्धमग्निं कृत्वाज्यम्"
+title = "०४ मध्येगवां सुसमिद्धमग्निं कृत्वाज्यम्"
 
 +++
 4 [^4] . Having set a fire in a blaze in the midst of the cows, and having prepared Ājya, he sacrifices six (oblations) with (the Mantras), 'Here is delight' (Vāj. Saṃh. VIII, 51).

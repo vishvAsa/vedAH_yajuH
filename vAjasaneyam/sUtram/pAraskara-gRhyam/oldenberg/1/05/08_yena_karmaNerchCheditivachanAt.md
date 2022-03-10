@@ -1,5 +1,5 @@
 +++
-title = "08 येन कर्मणेर्च्छेदितिवचनात्"
+title = "०८ येन कर्मणेर्च्छेदितिवचनात्"
 
 +++
 8 [^3] . Because it has been said, 'By what sacrifice he wishes to attain success.'

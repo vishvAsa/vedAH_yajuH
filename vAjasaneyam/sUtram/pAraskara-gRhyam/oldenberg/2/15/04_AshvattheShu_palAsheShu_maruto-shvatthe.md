@@ -1,5 +1,5 @@
 +++
-title = "04 आश्वत्थेषु पलाशेषु मरुतोऽश्वत्थे"
+title = "०४ आश्वत्थेषु पलाशेषु मरुतोऽश्वत्थे"
 
 +++
 4 [^3] . (This Bali he offers) in Aśvattha leaves, because it is said, 'The Maruts stood in the Aśvattha tree.'

@@ -1,5 +1,5 @@
 +++
-title = "42 प्रत्तानामितरे कुर्वीरन्"
+title = "४२ प्रत्तानामितरे कुर्वीरन्"
 
 +++
 42 [^13] . For those who were married, the others should do it,

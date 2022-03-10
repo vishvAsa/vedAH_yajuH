@@ -1,5 +1,5 @@
 +++
-title = "06 त्रिवृतमाबध्नाति अयमूर्जावतो वृक्ष"
+title = "०६ त्रिवृतमाबध्नाति अयमूर्जावतो वृक्ष"
 
 +++
 6 [^3] . He ties (the Udumbara fruits, &c.) to a string of three twisted threads with (the words), 'Rich in sap is this tree; like the tree, rich in sap, be thou fruitful.'

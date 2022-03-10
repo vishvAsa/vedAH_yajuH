@@ -1,5 +1,5 @@
 +++
-title = "14 गां धयन्तीं परस्मै"
+title = "१४ गां धयन्तीं परस्मै"
 
 +++
 14 [^7] . A cow that suckles (her calf) he should not point out to another (person).

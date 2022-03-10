@@ -1,5 +1,5 @@
 +++
-title = "12 आग्नेयपाण्डुपार्थिवानां सर्पाणामधिपतेऽवनेनिक्ष्व"
+title = "१२ आग्नेयपाण्डुपार्थिवानां सर्पाणामधिपतेऽवनेनिक्ष्व"
 
 +++
 12. 'Lord of the serpents belonging to Agni, of the yellowish, terrestrial ones, wash thyself!

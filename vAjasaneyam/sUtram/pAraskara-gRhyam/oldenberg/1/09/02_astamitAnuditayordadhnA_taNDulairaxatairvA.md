@@ -1,5 +1,5 @@
 +++
-title = "02 अस्तमितानुदितयोर्दध्ना तण्डुलैरक्षतैर्वा"
+title = "०२ अस्तमितानुदितयोर्दध्ना तण्डुलैरक्षतैर्वा"
 
 +++
 2 [^2] . After sunset and before sunrise (the fire should be worshipped) with (oblations of) curds, (rice) grains, or fried grains.

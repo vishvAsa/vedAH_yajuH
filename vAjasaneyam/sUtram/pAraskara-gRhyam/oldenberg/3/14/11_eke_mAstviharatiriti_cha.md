@@ -1,5 +1,5 @@
 +++
-title = "11 एके मास्त्विहरतिरिति च"
+title = "११ एके मास्त्विहरतिरिति च"
 
 +++
 11 [^3] . Some add (the words), 'Here shall be no rest.'

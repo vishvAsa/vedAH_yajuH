@@ -1,5 +1,5 @@
 +++
-title = "19 अथास्य मातरमभिमन्त्रयत इडासि"
+title = "१९ अथास्य मातरमभिमन्त्रयत इडासि"
 
 +++
 19 [^7] . He then recites over his mother (the verse), 'Thou art Iḍā, the daughter of Mitra and Varuṇa; thou strong woman hast born a strong son. Be thou blessed with strong children, thou who hast blessed us with a strong son.'

@@ -1,5 +1,5 @@
 +++
-title = "05 शुक्रज्योतिरिति प्रतिमन्त्रम्"
+title = "०५ शुक्रज्योतिरिति प्रतिमन्त्रम्"
 
 +++
 5 [^4] . (He offers it) with (the texts), 'Brilliantly resplendent' (Var. Saṃh. XVII, 80-85), Mantra by Mantra,

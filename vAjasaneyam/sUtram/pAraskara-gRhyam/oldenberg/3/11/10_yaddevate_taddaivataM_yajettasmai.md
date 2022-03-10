@@ -1,5 +1,5 @@
 +++
-title = "10 यद्देवते तद्दैवतं यजेत्तस्मै"
+title = "१० यद्देवते तद्दैवतं यजेत्तस्मै"
 
 +++
 10 [^8] . At (a sacrifice) directed to a special deity he should sacrifice (an animal) belonging to that deity, should make a portion for that (god), and should say to him (i.e. to the messenger who is to convey that offering to a place sacred to that deity): 'Take care that this may reach that (god).'

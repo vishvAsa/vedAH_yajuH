@@ -1,5 +1,5 @@
 +++
-title = "06 तूष्णीं हन्तेति वा"
+title = "०६ तूष्णीं हन्तेति वा"
 
 +++
 6 [^2] . Silently or with (the word), 'Hanta' (i.e. Well!). For it is said in the Śruti, 'Men (live on) the word hanta.'

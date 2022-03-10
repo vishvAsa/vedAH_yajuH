@@ -1,5 +1,5 @@
 +++
-title = "15 अवनेज्य पूर्ववत्कङ्कतैः प्रलिखति"
+title = "१५ अवनेज्य पूर्ववत्कङ्कतैः प्रलिखति"
 
 +++
 15 [^6] . After he has made them wash themselves as above, he combs them with combs (with the formulas)

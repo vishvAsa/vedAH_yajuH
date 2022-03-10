@@ -1,5 +1,5 @@
 +++
-title = "04 आज्यमुद्वास्योत्पूयावेक्ष्य प्रोक्षणीश्च"
+title = "०४ आज्यमुद्वास्योत्पूयावेक्ष्य प्रोक्षणीश्च"
 
 +++
 4 [^3] . Having taken the Ājya from the fire, having purified it, having looked at it, and (having purified) the Prokṣaṇī water as above, having taken up the Kuśa blades with which he is to take hold (of the Ājya pot) by its under surface, having put pieces of wood on (the fire), and having sprinkled (water round it), he should sacrifice.

@@ -1,5 +1,5 @@
 +++
-title = "03 अन्वारब्ध आघारावाज्यभागौ महाव्याहृतयः"
+title = "०३ अन्वारब्ध आघारावाज्यभागौ महाव्याहृतयः"
 
 +++
 3 [^1] . While (the bride) touches him, (the following oblations are made:) the two Āghāra oblations, the two Ājya portions, the Mahāvyāhṛtis, the general expiation, the Prājāpatya oblation, and the Sviṣṭakṛt.

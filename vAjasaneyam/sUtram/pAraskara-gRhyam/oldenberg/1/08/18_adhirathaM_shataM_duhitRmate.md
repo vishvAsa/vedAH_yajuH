@@ -1,5 +1,5 @@
 +++
-title = "18 अधिरथं शतं दुहितृमते"
+title = "१८ अधिरथं शतं दुहितृमते"
 
 +++
 18 [^8] . A hundred (cows) with a chariot (he gives to a father) who has only daughters.

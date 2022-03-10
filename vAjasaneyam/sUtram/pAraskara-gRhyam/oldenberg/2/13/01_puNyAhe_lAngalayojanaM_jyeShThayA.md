@@ -1,5 +1,5 @@
 +++
-title = "01 पुण्याहे लाङ्गलयोजनं ज्येष्ठया"
+title = "०१ पुण्याहे लाङ्गलयोजनं ज्येष्ठया"
 
 +++
 1 [^1] . On an auspicious day the harnessing to the plough. Or under (the Nakṣatra) Jyeṣṭhā, (because that rite is) sacred to Indra.

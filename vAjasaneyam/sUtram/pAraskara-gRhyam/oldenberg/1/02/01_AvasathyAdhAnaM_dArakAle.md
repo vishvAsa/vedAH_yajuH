@@ -1,5 +1,5 @@
 +++
-title = "01 आवसथ्याधानं दारकाले"
+title = "०१ आवसथ्याधानं दारकाले"
 
 +++
 1 [^1] . The setting up of the Āvasathya (or sacred domestic) fire (is performed) at the time of his wedding.

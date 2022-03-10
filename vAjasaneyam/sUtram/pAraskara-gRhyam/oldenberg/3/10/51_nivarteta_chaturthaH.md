@@ -1,5 +1,5 @@
 +++
-title = "51 निवर्तेत चतुर्थः"
+title = "५१ निवर्तेत चतुर्थः"
 
 +++
 51 [^17] . The fourth one should be left out.

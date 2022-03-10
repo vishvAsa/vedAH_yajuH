@@ -1,5 +1,5 @@
 +++
-title = "11 उद्धृत्याग्रं ब्राह्मणायावनेज्य दद्याद्धन्तत"
+title = "११ उद्धृत्याग्रं ब्राह्मणायावनेज्य दद्याद्धन्तत"
 
 +++
 11 [^4] . Taking the Brāhmaṇa's portion (of the food which he is going to distribute), he should give it to a Brāhmaṇa, after he has made him wash himself, with (the words), 'Well! (this) to thee!'

@@ -1,5 +1,5 @@
 +++
-title = "53 न्यायस्तु न चतुर्थः"
+title = "५३ न्यायस्तु न चतुर्थः"
 
 +++
 53 [^19] . But there is a rule, 'There can be no fourth Piṇḍa' - for this is stated in the Śruti.

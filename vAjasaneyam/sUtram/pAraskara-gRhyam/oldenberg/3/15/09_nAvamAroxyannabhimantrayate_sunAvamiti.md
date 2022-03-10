@@ -1,5 +1,5 @@
 +++
-title = "09 नावमारोक्ष्यन्नभिमन्त्रयते सुनावमिति"
+title = "०९ नावमारोक्ष्यन्नभिमन्त्रयते सुनावमिति"
 
 +++
-9. When he intends to swim across a river, he addresses it: 'Adoration to Rudra who dwells in the waters. Make me arrive safely.'
+10. When going on board a ship, he addresses her: 'The good ship' (Vāj. Saṃh. XXI, 7).

@@ -1,5 +1,5 @@
 +++
-title = "01 पशुश्चेदाप्लाव्यागामग्रेणाग्नीन्परीत्य पलाशशाखाम्"
+title = "०१ पशुश्चेदाप्लाव्यागामग्रेणाग्नीन्परीत्य पलाशशाखाम्"
 
 +++
 1 [^1] . If an animal (is to be sacrificed), let him wash it, if it is not a cow; let him walk round the fires and drive in front (of them) a Palāśa branch into the ground.

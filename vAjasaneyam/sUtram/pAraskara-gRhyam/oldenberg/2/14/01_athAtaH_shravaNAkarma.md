@@ -1,5 +1,5 @@
 +++
-title = "01 अथातः श्रवणाकर्म"
+title = "०१ अथातः श्रवणाकर्म"
 
 +++
 1 [^1] . Now (follows) the Śravaṇa ceremony,

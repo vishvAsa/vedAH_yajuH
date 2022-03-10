@@ -1,5 +1,5 @@
 +++
-title = "03 प्राशनान्ते मरुद्भ्यो बलिम्"
+title = "०३ प्राशनान्ते मरुद्भ्यो बलिम्"
 
 +++
 3 [^2] . After he has eaten (his portion of the sacrificial food), he offers a Bali to the Maruts. For the Śruti says, 'The Maruts eat what is not-sacrificed.'

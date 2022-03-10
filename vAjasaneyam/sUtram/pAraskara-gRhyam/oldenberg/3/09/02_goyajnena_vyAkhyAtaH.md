@@ -1,5 +1,5 @@
 +++
-title = "02 गोयज्ञेन व्याख्यातः"
+title = "०२ गोयज्ञेन व्याख्यातः"
 
 +++
 2 [^2] . (The ceremony) has been declared in the cow-sacrifice.

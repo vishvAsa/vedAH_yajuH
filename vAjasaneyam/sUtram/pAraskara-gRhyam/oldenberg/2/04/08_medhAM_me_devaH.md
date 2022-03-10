@@ -1,5 +1,5 @@
 +++
-title = "08 मेधां मे देवः"
+title = "०८ मेधां मे देवः"
 
 +++
 8. Having warmed his two hands, he wipes his mouth with (the formulas):

@@ -1,5 +1,5 @@
 +++
-title = "02 अद्विवर्षे प्रेते मातापित्रोराशौचम्"
+title = "०२ अद्विवर्षे प्रेते मातापित्रोराशौचम्"
 
 +++
 2 [^1] . When (a child) that has not reached the age of two years dies, his father and mother become impure.

@@ -1,5 +1,5 @@
 +++
-title = "13 स यदि भ्रभ्यात्स्तम्भमुपस्पृश्य"
+title = "१३ स यदि भ्रभ्यात्स्तम्भमुपस्पृश्य"
 
 +++
 13 [^4] . If the horses run away with the chariot, he should touch the post (?) or the earth and should murmur, 'May this your chariot, O Aśvins, suffer no damage on bad ways or by being overthrown.'

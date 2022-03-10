@@ -1,5 +1,5 @@
 +++
-title = "06 अथ यवानामेतमुत्यं मधुना"
+title = "०६ अथ यवानामेतमुत्यं मधुना"
 
 +++
 6 [^5] . For barley, however, (he uses the Mantra), 'This barley, mixed with honey, they have ploughed through Sarasvatī under Manu. Indra was lord of the plough, the hundredfold wise one; ploughers were the Maruts, the exuberant givers.'

@@ -1,5 +1,5 @@
 +++
-title = "02 ताञ्जुहोति संहतेन तिष्ठती"
+title = "०२ ताञ्जुहोति संहतेन तिष्ठती"
 
 +++
 2 [^2] . This she sacrifices, with firmly joined hands, standing, (while the bridegroom recites the verses,)

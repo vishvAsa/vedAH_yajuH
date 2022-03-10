@@ -1,5 +1,5 @@
 +++
-title = "14 अथैनौ समञ्जयति समञ्जन्तु"
+title = "१४ अथैनौ समञ्जयति समञ्जन्तु"
 
 +++
 14 [^5] . (The bride's father?) anoints the two, (while the bridegroom recites the verse,) 'May the Viśve devās, may the waters unite our hearts. May Mātariśvan, may Dhātṛ, may Deṣṭrī (the 'showing' goddess) join us.'

@@ -1,5 +1,5 @@
 +++
-title = "07 नमो माणिचरायेति दक्षिणम्"
+title = "०७ नमो माणिचरायेति दक्षिणम्"
 
 +++
 7 [^2] . With (the words), 'Adoration to Māṇicara,' he drives on the beast on the right side.

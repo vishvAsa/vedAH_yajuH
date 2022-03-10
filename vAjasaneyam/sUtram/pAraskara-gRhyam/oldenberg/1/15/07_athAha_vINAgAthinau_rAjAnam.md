@@ -1,5 +1,5 @@
 +++
-title = "07 अथाह वीणागाथिनौ राजानम्"
+title = "०७ अथाह वीणागाथिनौ राजानम्"
 
 +++
 7 [^4] . (The husband) then says to two lute-players, 'Sing ye the king, or if anybody else is still more valiant.'

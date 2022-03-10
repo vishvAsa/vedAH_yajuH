@@ -1,5 +1,5 @@
 +++
-title = "13 मणिधनुरितीन्द्रधनुः"
+title = "१३ मणिधनुरितीन्द्रधनुः"
 
 +++
 13 [^6] . A rainbow (Indra-dhanu, Indra's bow), maṇidhanu (the jewelled bow).

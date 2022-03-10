@@ -1,5 +1,5 @@
 +++
-title = "17 स यस्मिन्देशे जातो"
+title = "१७ स यस्मिन्देशे जातो"
 
 +++
 17 [^5] . He recites over the place at which (the child) is born: 'I know, O earth, thy heart that dwells in heaven, in the moon. That I know; may it know me. May we see a hundred autumns; may we live a hundred autumns; may we hear a hundred autumns.'

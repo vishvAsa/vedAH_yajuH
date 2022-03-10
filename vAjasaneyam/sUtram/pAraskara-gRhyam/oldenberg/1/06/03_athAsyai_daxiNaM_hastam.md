@@ -1,5 +1,5 @@
 +++
-title = "03 अथास्यै दक्षिणं हस्तम्"
+title = "०३ अथास्यै दक्षिणं हस्तम्"
 
 +++
 3 [^3] . He then seizes her right hand together with the thumb, with (the verses),

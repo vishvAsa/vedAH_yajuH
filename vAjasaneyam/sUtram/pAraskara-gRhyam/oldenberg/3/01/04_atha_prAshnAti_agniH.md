@@ -1,5 +1,5 @@
 +++
-title = "04 अथ प्राश्नाति अग्निः"
+title = "०४ अथ प्राश्नाति अग्निः"
 
 +++
 4. He then eats (of the fresh fruits with the verses), 'May Agni eat first, for he knows how the Havis (is fit for sacrifice); may he, the friend of all human tribes, make the herbs blessed to us.

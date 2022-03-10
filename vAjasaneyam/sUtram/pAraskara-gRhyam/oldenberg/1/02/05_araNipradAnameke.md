@@ -1,5 +1,5 @@
 +++
-title = "05 अरणिप्रदानमेके"
+title = "०५ अरणिप्रदानमेके"
 
 +++
 5 [^5] . Some (say that) the handing over of the kindling sticks (should take place),

@@ -1,5 +1,5 @@
 +++
-title = "02 स्थालीपाकं श्रपयित्वा श्रवणवदाज्याहुती"
+title = "०२ स्थालीपाकं श्रपयित्वा श्रवणवदाज्याहुती"
 
 +++
 2 [^1] . He cooks a mess of sacrificial food, sacrifices two Ājya oblations as at the Śravaṇā sacrifice, and other oblations with (the following verses):

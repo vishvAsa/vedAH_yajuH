@@ -1,5 +1,5 @@
 +++
-title = "09 चित्तं च चित्तिश्चाकूतम्"
+title = "०९ चित्तं च चित्तिश्चाकूतम्"
 
 +++
 9 [^4] . (The Jaya formulas run thus): 'Thought and thinking. Intention and intending. The understood and understanding. The mind and the Śakvarī (verses). The new moon and the full moon. Bṛhat and Rathantara.

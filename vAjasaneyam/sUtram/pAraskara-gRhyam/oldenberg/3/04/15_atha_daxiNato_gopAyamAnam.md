@@ -1,5 +1,5 @@
 +++
-title = "15 अथ दक्षिणतो गोपायमानम्"
+title = "१५ अथ दक्षिणतो गोपायमानम्"
 
 +++
 15. Then to the south: 'May that which protects and that which guards, protect me from the south.

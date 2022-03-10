@@ -1,5 +1,5 @@
 +++
-title = "06 सर्वप्रायश्चित्तप्राजापत्यान्तरमेतदावापस्थानम्"
+title = "०६ सर्वप्रायश्चित्तप्राजापत्यान्तरमेतदावापस्थानम्"
 
 +++
 6 [^2] . The place for the insertion (of the peculiar oblations belonging to the different sacrifices) is the interval between the general expiation and the oblation to Prajāpati.

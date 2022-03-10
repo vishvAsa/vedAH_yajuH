@@ -1,5 +1,5 @@
 +++
-title = "18 निष्ठितां प्रपद्यते धर्मस्थूणा"
+title = "१८ निष्ठितां प्रपद्यते धर्मस्थूणा"
 
 +++
 18 [^6] . When (the house) is finished, he enters it with (the formulas),

@@ -1,5 +1,5 @@
 +++
-title = "06 नाभ्यां दक्षिणे वा"
+title = "०६ नाभ्यां दक्षिणे वा"
 
 +++
 6. Near his navel or his right ear he murmurs: 'Agni is long-lived; through the trees he is long-lived. By that long life I make thee long-lived.

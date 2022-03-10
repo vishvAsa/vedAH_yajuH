@@ -1,5 +1,5 @@
 +++
-title = "03 औपासनमरण्यं हृत्वा वितानम्"
+title = "०३ औपासनमरण्यं हृत्वा वितानम्"
 
 +++
 3 [^3] . Having taken the sacred domestic fire to the forest, and having performed the 'outspreading,' he should sacrifice the animal to Rudra.

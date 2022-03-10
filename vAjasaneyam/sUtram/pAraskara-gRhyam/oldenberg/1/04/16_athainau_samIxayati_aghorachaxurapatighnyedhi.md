@@ -1,5 +1,5 @@
 +++
-title = "16 अथैनौ समीक्षयति अघोरचक्षुरपतिघ्न्येधि"
+title = "१६ अथैनौ समीक्षयति अघोरचक्षुरपतिघ्न्येधि"
 
 +++
 16 [^6] . He then makes them look at each other (while the bridegroom repeats the verses), 'With no evil eye, not bringing death to thy husband, bring luck to the cattle, be full of joy and vigour. Give birth to heroes; be godly and friendly. Bring us luck, to men and animals.

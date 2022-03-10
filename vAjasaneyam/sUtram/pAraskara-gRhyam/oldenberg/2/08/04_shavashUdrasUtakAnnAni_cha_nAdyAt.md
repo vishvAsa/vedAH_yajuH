@@ -1,5 +1,5 @@
 +++
-title = "04 शवशूद्रसूतकान्नानि च नाद्यात्"
+title = "०४ शवशूद्रसूतकान्नानि च नाद्यात्"
 
 +++
 4 [^4] . He shall not eat funeral food, or food of a

@@ -1,5 +1,5 @@
 +++
-title = "01 अथ सीतायज्ञः"
+title = "०१ अथ सीतायज्ञः"
 
 +++
 1 [^1] . Now (follows) the sacrifice to Sītā.

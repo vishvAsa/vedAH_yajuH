@@ -1,5 +1,5 @@
 +++
-title = "02 पुंसवनवत्"
+title = "०२ पुंसवनवत्"
 
 +++
 2 [^1] . (it is performed) like the Puṃsavana;

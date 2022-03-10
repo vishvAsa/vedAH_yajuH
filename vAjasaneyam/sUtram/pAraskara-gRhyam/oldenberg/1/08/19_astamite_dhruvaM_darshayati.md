@@ -1,5 +1,5 @@
 +++
-title = "19 अस्तमिते ध्रुवं दर्शयति"
+title = "१९ अस्तमिते ध्रुवं दर्शयति"
 
 +++
 19 [^9] . After sunset he shows her the firm star (i.e. the polar-star) with (the words),

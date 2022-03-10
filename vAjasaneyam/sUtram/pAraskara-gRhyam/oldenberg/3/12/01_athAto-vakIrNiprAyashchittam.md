@@ -1,5 +1,5 @@
 +++
-title = "01 अथातोऽवकीर्णिप्रायश्चित्तम्"
+title = "०१ अथातोऽवकीर्णिप्रायश्चित्तम्"
 
 +++
 1 [^1] . Now (follows) the penance for a student who has broken the vow of chastity.

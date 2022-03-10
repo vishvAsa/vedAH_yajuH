@@ -1,5 +1,5 @@
 +++
-title = "09 इन्द्रं दैवीरिति जपति"
+title = "०९ इन्द्रं दैवीरिति जपति"
 
 +++
 9 [^7] . He murmurs, 'To Indra the divine' (Vāj. Saṃh. XVII, 86).

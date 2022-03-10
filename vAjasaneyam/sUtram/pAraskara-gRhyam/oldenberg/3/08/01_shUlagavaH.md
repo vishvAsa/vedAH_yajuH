@@ -1,5 +1,5 @@
 +++
-title = "01 शूलगवः"
+title = "०१ शूलगवः"
 
 +++
 1 [^1] . The spit-ox (sacrificed to Rudra).

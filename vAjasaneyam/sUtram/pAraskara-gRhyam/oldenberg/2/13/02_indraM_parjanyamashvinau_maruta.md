@@ -1,5 +1,5 @@
 +++
-title = "02 इन्द्रं पर्जन्यमश्विनौ मरुत"
+title = "०२ इन्द्रं पर्जन्यमश्विनौ मरुत"
 
 +++
 2 [^2] . To Indra, Parjanya, the two Aśvins, the Maruts, Udalākāśyapa, Svātikārī, Sītā, and Anumati, he offers curds, rice grains, perfumes, and fried grains, and then makes the bullocks eat honey and ghee.

@@ -1,5 +1,5 @@
 +++
-title = "23 तं हरन्तं नान्तरेण"
+title = "२३ तं हरन्तं नान्तरेण"
 
 +++
 23 [^8] . When he is offering (the Bali), let no one step between (the sacrificer and the Bali).

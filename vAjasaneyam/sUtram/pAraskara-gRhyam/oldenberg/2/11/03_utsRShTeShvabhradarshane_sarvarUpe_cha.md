@@ -1,5 +1,5 @@
 +++
-title = "03 उत्सृष्टेष्वभ्रदर्शने सर्वरूपे च"
+title = "०३ उत्सृष्टेष्वभ्रदर्शने सर्वरूपे च"
 
 +++
 3 [^2] . If the Utsarga ceremony has been performed, if clouds appear, . . . ., (it shall be interrupted) through a period of three nights or till twilight has thrice passed.

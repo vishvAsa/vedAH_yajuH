@@ -1,5 +1,5 @@
 +++
-title = "09 अथापरमाज्याहुती जुहोति"
+title = "०९ अथापरमाज्याहुती जुहोति"
 
 +++
 9 [^4] . After that time he sacrifices two Ājya oblations with (the formulas), 'O Lust, I have broken my vow of chastity. I have broken my vow of chastity, O Lust. To Lust svāhā!' - 'O Lust, I have done evil. I have done evil, O Lust. To Lust svāhā!'

@@ -1,5 +1,5 @@
 +++
-title = "02 सभामभ्येति सभाङ्गिरसि नादिर्नामासि"
+title = "०२ सभामभ्येति सभाङ्गिरसि नादिर्नामासि"
 
 +++
 2 [^1] . He approaches the court with (the words), Court! Thou that belongest to the Aṅgiras! Trouble art thou by name; vehemence art thou by name. Thus be adoration to thee!

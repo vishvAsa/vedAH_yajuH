@@ -1,5 +1,5 @@
 +++
-title = "05 इन्द्र श्रेष्ठानि द्रविणानि"
+title = "०५ अस्मे प्रयन्धि मघवन्नृजीषिन्निन्द्ररायोविश्ववारस्य"
 
 +++
 5 [^2] . In his right ear he murmurs, 'Bestow on us, O bountiful, onward-pressing Indra, plentiful, rich treasures. Give us a hundred autumns to live; give us many heroes, strong jawed Indra;'

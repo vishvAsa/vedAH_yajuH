@@ -1,5 +1,5 @@
 +++
-title = "04 अपश्वेतपदाजहि पूर्वेण चापरेण"
+title = "०४ अपश्वेतपदाजहि पूर्वेण चापरेण"
 
 +++
 4 [^2] . 'Beat away, O white one, with thy foot, with the fore-foot and with the hind-foot, these seven [children] of Varuṇa and all (daughters) of the king's tribe. Svāhā!'

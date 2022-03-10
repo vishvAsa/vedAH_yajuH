@@ -1,5 +1,5 @@
 +++
-title = "06 पञ्चमहायज्ञा इति श्रुतेः"
+title = "०६ पञ्चमहायज्ञा इति श्रुतेः"
 
 +++
 6 [^6] . Because the Śruti says, 'There are five great sacrifices.'

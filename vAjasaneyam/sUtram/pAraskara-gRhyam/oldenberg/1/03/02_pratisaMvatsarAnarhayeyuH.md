@@ -1,5 +1,5 @@
 +++
-title = "02 प्रतिसंवत्सरानर्हयेयुः"
+title = "०२ प्रतिसंवत्सरानर्हयेयुः"
 
 +++
 2 [^2] . They should honour them (with the Arghya reception) once a year.

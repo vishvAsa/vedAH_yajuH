@@ -1,5 +1,5 @@
 +++
-title = "10 एतदेव व्रतादेशनविसर्गेषु"
+title = "१० एतदेव व्रतादेशनविसर्गेषु"
 
 +++
 10 [^2] . The same (oblations are made) when the observances are imposed (on a student) or given up (by him, after having been kept through the prescribed period of time).

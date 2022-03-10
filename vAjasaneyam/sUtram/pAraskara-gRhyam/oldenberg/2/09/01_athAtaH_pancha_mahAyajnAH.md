@@ -1,5 +1,5 @@
 +++
-title = "01 अथातः पञ्च महायज्ञाः"
+title = "०१ अथातः पञ्च महायज्ञाः"
 
 +++
 1 [^1] . Now (follow) the five great sacrifices.

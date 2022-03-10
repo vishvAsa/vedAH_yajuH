@@ -1,5 +1,5 @@
 +++
-title = "08 स्थालीपाकमिश्राण्यवदानानि जुहोति"
+title = "०८ स्थालीपाकमिश्राण्यवदानानि जुहोति"
 
 +++
 8 [^7] . He sacrifices the Avadāna portions together with the mess of cooked food.

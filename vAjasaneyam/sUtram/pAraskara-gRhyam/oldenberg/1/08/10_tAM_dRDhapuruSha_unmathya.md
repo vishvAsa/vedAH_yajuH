@@ -1,5 +1,5 @@
 +++
-title = "10 तां दृढपुरुष उन्मथ्य"
+title = "१० तां दृढपुरुष उन्मथ्य"
 
 +++
 10 [^5] . A strong man snatches her up from the ground, and sets her down in an eastern or northern direction in an out-of-the-way house, on a red bull's hide, with (the words),

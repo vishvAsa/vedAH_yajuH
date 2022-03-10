@@ -1,5 +1,5 @@
 +++
-title = "05 अन्नपतीयया वा"
+title = "०५ अन्नपतीयया वा"
 
 +++
 5 [^4] . Or with the (verse) sacred to Annapati (the Lord of food).

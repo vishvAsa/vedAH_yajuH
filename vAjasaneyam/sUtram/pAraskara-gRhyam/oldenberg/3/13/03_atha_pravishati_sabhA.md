@@ -1,5 +1,5 @@
 +++
-title = "03 अथ प्रविशति सभा"
+title = "०३ अथ प्रविशति सभा"
 
 +++
 3 [^2] . He then enters (the court) with (the words), '(May) the court and the assembly, the two unanimous daughters of Prajāpati (protect me). May one who does not know me, be below me. May (all) people be considerate in what they say.'

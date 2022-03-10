@@ -1,5 +1,5 @@
 +++
-title = "13 अनुवातं पशुमवस्थाप्य रुद्रैरुपतिष्ठते"
+title = "१३ अनुवातं पशुमवस्थाप्य रुद्रैरुपतिष्ठते"
 
 +++
 13 [^10] . Having placed the animal so that the wind blows from himself to it, he approaches it with the Rudra hymns, or with the first and last Anuvāka.

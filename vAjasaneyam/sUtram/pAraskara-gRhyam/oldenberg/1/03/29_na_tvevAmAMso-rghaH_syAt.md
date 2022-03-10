@@ -1,5 +1,5 @@
 +++
-title = "29 न त्वेवामांसोऽर्घः स्यात्"
+title = "२९ न त्वेवामांसोऽर्घः स्यात्"
 
 +++
 29 [^16] . But let the Argha not be without flesh.

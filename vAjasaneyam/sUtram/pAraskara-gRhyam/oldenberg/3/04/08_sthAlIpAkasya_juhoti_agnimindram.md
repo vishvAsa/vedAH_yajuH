@@ -1,5 +1,5 @@
 +++
-title = "08 स्थालीपाकस्य जुहोति अग्निमिन्द्रम्"
+title = "०८ स्थालीपाकस्य जुहोति अग्निमिन्द्रम्"
 
 +++
 8. He makes offerings of the mess of cooked food (with the following Mantras):

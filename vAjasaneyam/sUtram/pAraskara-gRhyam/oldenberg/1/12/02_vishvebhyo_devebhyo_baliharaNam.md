@@ -1,5 +1,5 @@
 +++
-title = "02 विश्वेभ्यो देवेभ्यो बलिहरणम्"
+title = "०२ विश्वेभ्यो देवेभ्यो बलिहरणम्"
 
 +++
 2 [^2] . To the Viśve devās a Bali is offered, to the domestic deities, and to Ākāśa (i.e. the Ether).

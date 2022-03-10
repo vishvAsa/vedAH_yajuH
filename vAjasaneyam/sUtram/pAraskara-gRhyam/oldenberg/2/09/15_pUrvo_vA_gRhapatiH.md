@@ -1,5 +1,5 @@
 +++
-title = "15 पूर्वो वा गृहपतिः"
+title = "१५ पूर्वो वा गृहपतिः"
 
 +++
 15 [^5] . Or the householder (should eat) first, because the Śruti says, 'Therefore the householder should eat the sweetest food before his guests.'

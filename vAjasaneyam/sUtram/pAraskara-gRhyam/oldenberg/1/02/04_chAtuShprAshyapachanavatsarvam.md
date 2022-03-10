@@ -1,5 +1,5 @@
 +++
-title = "04 चातुष्प्राश्यपचनवत्सर्वम्"
+title = "०४ चातुष्प्राश्यपचनवत्सर्वम्"
 
 +++
 4 [^4] . All ceremonies are performed as at the cooking of the cātuṣprāśya food.

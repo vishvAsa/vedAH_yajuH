@@ -1,5 +1,7 @@
 +++
-title = "22 अथ यदि मन्थम्"
+title = "२२ अथ यदि मन्थम्"
 
 +++
-22. If he receives something (given to him), he accepts it with (the formula), 'May Heaven give thee; may the Earth accept thee.' Thus (the thing given) does not decrease to him who gives it, and what he receives increases.
+(23. If boiled rice is given to him, he accepts it with (the formula), 'May Heaven, &c.,' and he partakes thereof twice. with (the formulas), 'May Brahman eat thee!' - 'May Brahman partake of thee!')
+
+24. If gruel is given to him, (as above) . . . . three times with (the formulas), 'May Brahman eat thee! ' - 'May Brahman partake of thee!' - 'May Brahman drink thee!

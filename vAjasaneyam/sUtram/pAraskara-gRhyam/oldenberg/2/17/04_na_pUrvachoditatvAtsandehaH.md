@@ -1,5 +1,5 @@
 +++
-title = "04 न पूर्वचोदितत्वात्सन्देहः"
+title = "०४ न पूर्वचोदितत्वात्सन्देहः"
 
 +++
 4 [^3] . (There should be) no doubt (as to whether rice or barley is to be taken), as a rule thereon has been stated above.

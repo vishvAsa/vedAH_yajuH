@@ -1,5 +1,5 @@
 +++
-title = "09 यमगाथां गायन्तो यमसूक्तम्"
+title = "०९ यमगाथां गायन्तो यमसूक्तम्"
 
 +++
 9 [^3] . Singing the Yama song and murmuring the Yama hymn, according to some (teachers).

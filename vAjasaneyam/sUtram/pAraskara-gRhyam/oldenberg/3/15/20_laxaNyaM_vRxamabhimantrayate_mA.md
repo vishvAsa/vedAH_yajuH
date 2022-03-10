@@ -1,9 +1,5 @@
 +++
-title = "20 लक्षण्यं वृक्षमभिमन्त्रयते मा"
+title = "२० लक्षण्यं वृक्षमभिमन्त्रयते मा"
 
 +++
-20 [^3] . A shrieking bird he addresses: 'Golden-winged bird who goest where the gods send thee! Messenger of Yama, adoration be to thee! What has the Kārkāriṇa told thee?'
-
-
-[^3]:  I do not know the meaning of kārkāriṇaḥ. Jayarāma takes it for a genitive standing instead of an accusative, and explains it by asmadbādhakam.
-
+21. A tree that serves as a mark (of a boundary, &c.), he addresses: 'May neither the flash of lightning (destroy thee), nor axe nor wind nor punishment which the king sends. May thy shoots grow up; may rain fall on thee, in safety from the wind. May fire not destroy thy root. Blessing on thee, O lord of the forest! Blessing on me, O lord of the forest!'

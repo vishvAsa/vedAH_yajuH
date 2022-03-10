@@ -1,5 +1,5 @@
 +++
-title = "10 व्याघारणान्ते पत्नीः संयाजयन्तीन्द्राण्यै"
+title = "१० व्याघारणान्ते पत्नीः संयाजयन्तीन्द्राण्यै"
 
 +++
 10 [^7] . After the sprinkling has been performed, they sacrifice the Patnī-saṃyāja offerings to Indrāṇī, Rudrāṇī, Śarvāṇi, Bhavānī, and Agni Gṛhapati.

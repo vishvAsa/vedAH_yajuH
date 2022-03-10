@@ -1,5 +1,5 @@
 +++
-title = "07 स्थालीपाकस्य पूर्ववद्देवता यजेदुभयोर्व्रीहियवयोः"
+title = "०७ स्थालीपाकस्य पूर्ववद्देवता यजेदुभयोर्व्रीहियवयोः"
 
 +++
 7 [^4] . He should make oblations of cooked sacrificial food to the same deities as above, when sowing both rice and barley, and at the sacrifice to Sītā.

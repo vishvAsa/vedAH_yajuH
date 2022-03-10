@@ -1,5 +1,5 @@
 +++
-title = "08 सतानूनप्त्रिणि सब्रह्मचारिणि च"
+title = "०८ सतानूनप्त्रिणि सब्रह्मचारिणि च"
 
 +++
 8 [^4] . If one who has performed with him the Tānūnaptra ceremony, or a fellow-pupil (has died), for three nights.

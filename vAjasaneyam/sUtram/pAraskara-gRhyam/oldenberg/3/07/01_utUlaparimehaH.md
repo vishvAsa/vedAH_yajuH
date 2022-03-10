@@ -1,5 +1,5 @@
 +++
-title = "01 उतूलपरिमेहः"
+title = "०१ उतूलपरिमेहः"
 
 +++
 1 [^1] . (Now will be declared) the making water round about a servant who is disposed to run away.

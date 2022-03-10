@@ -1,5 +1,5 @@
 +++
-title = "18 अथैनमभिमृशत्यश्मा भव परशुर्भव"
+title = "१८ अथैनमभिमृशत्यश्मा भव परशुर्भव"
 
 +++
 18 [^6] . He then touches him with (the verse), 'Be a stone, be an axe, be imperishable gold. Thou indeed art the Self called son; thus live a hundred autumns.'

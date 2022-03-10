@@ -1,5 +1,5 @@
 +++
-title = "06 विमुखेन च"
+title = "०६ विमुखेन च"
 
 +++
 6 [^5] . And with the (Mantra called) Vimukha.

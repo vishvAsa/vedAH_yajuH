@@ -1,5 +1,5 @@
 +++
-title = "11 अग्निरैतु प्रथमो देवतानाम्"
+title = "११ अग्निरैतु प्रथमो देवतानाम्"
 
 +++
 11. (He then makes other oblations with the following texts:)

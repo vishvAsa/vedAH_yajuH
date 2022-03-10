@@ -1,5 +1,5 @@
 +++
-title = "12 उपेता जपन्ति सुहेमन्तः"
+title = "१२ उपेता जपन्ति सुहेमन्तः"
 
 +++
 12 [^5] . Those who have received the initiation murmur, 'May a good winter, a good spring, a good summer be bestowed on us. Blessed may be to us the rains; may the autumns be blessed to us.'

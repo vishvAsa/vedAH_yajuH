@@ -1,5 +1,5 @@
 +++
-title = "07 आज्यं संस्कृत्येहरतिरित्याज्याहुती हुत्वाऽपरा"
+title = "०७ आज्यं संस्कृत्येहरतिरित्याज्याहुती हुत्वाऽपरा"
 
 +++
 7 [^3] . Having prepared Ājya and sacrificed two Ājya oblations with (the two parts of the Mantra), 'Here is joy' (Vāj. Saṃh. VIII, 51 a), he sacrifices other oblations with (the verses):

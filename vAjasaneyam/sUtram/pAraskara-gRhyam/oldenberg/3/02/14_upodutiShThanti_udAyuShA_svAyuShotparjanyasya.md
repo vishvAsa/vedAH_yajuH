@@ -1,5 +1,5 @@
 +++
-title = "14 उपोदुतिष्ठन्ति उदायुषा स्वायुषोत्पर्जन्यस्य"
+title = "१४ उपोदुतिष्ठन्ति उदायुषा स्वायुषोत्पर्जन्यस्य"
 
 +++
 14 [^6] . They arise with (the verse), 'Up! with life, with blessed life. Up! with Parjanya's eye, with the seven spaces of the earth.'

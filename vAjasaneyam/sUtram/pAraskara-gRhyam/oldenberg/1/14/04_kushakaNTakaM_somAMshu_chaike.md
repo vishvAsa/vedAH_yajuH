@@ -1,5 +1,5 @@
 +++
-title = "04 कुशकण्टकं सोमांशु चैके"
+title = "०४ कुशकण्टकं सोमांशु चैके"
 
 +++
 4 [^2] . A Kuśa needle and a Soma stalk, according to some (teachers).

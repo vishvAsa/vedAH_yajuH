@@ -1,5 +1,5 @@
 +++
-title = "01 तिस्रो रात्रीर्व्रतं चरेत्"
+title = "०१ तिस्रो रात्रीर्व्रतं चरेत्"
 
 +++
 1 [^1] . Through a period of three nights (after the Samāvartana) he should keep (the following) observances.

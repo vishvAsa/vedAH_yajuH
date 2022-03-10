@@ -1,5 +1,5 @@
 +++
-title = "01 अनाहिताग्नेर्नवप्राशनम्"
+title = "०१ अनाहिताग्नेर्नवप्राशनम्"
 
 +++
 1 [^1] . (Now shall be explained) the partaking of the first-fruits (of the harvest), of a person who has not set up the (sacred Śrauta) fires.

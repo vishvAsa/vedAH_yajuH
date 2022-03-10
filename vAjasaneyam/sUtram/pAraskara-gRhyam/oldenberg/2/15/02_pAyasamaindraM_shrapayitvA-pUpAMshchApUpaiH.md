@@ -1,5 +1,5 @@
 +++
-title = "02 पायसमैन्द्रं श्रपयित्वाऽपूपांश्चापूपैः"
+title = "०२ पायसमैन्द्रं श्रपयित्वाऽपूपांश्चापूपैः"
 
 +++
 2 [^1] . Having cooked milk-rice for Indra and cakes, and having put cakes round (the fire), he sacrifices the two Ājya portions and Ājya oblations to Indra, to Indrāṇī, to Aja Ekapad, to Ahi Budhnya, and to the Proṣṭhapadās.

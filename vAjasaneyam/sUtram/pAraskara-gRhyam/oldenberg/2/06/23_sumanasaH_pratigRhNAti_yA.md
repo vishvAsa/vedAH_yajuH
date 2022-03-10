@@ -1,5 +1,5 @@
 +++
-title = "23 सुमनसः प्रतिगृह्णाति या"
+title = "२३ सुमनसः प्रतिगृह्णाति या"
 
 +++
 23 [^10] . He takes flowers with (the formula), '(The flowers) which Jamadagni has brought for the sake of faith (has brought to Śraddhā?), of love, of the senses, them I take with glory and with fortune.'

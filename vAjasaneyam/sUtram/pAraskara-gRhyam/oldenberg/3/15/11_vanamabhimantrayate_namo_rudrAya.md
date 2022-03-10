@@ -1,5 +1,5 @@
 +++
-title = "11 वनमभिमन्त्रयते नमो रुद्राय"
+title = "११ वनमभिमन्त्रयते नमो रुद्राय"
 
 +++
-11. When going to cross (the river), he addresses (the ship): 'The well-protecting' (Vāj. Saṃh. XXI, 6).
+12. A forest (through which he is wandering) he addresses: 'Adoration to Rudra who dwells in the forests. Make me arrive safely.'

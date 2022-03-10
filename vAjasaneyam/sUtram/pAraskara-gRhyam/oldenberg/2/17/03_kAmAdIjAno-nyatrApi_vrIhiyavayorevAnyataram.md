@@ -1,5 +1,5 @@
 +++
-title = "03 कामादीजानोऽन्यत्रापि व्रीहियवयोरेवान्यतरम्"
+title = "०३ कामादीजानोऽन्यत्रापि व्रीहियवयोरेवान्यतरम्"
 
 +++
 3 [^2] . One who has sacrificed may, if he likes, prepare elsewhere also a mess of cooked food, either of rice or of barley.

@@ -1,5 +1,5 @@
 +++
-title = "09 पृथिवी द्यौः प्रदिशो"
+title = "०९ पृथिवी द्यौः प्रदिशो"
 
 +++
 9. 'For whom earth and heaven, the intermediate points and the chief points (of the horizon) are veiled with light, that Indra I invoke here. May his weapons be friendly towards us. Svāhā!

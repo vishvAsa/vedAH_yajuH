@@ -1,5 +1,5 @@
 +++
-title = "12 गिरिमभिमन्त्रयते नमो रुद्राय"
+title = "१२ गिरिमभिमन्त्रयते नमो रुद्राय"
 
 +++
-12. A forest (through which he is wandering) he addresses: 'Adoration to Rudra who dwells in the forests. Make me arrive safely.'
+13. A mountain (which he is going to cross) he addresses: 'Adoration to Rudra who dwells on the mountains. Make me arrive śafely.'

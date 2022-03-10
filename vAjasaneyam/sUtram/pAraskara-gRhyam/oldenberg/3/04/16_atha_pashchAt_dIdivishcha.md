@@ -1,5 +1,5 @@
 +++
-title = "16 अथ पश्चात् दीदिविश्च"
+title = "१६ अथ पश्चात् दीदिविश्च"
 
 +++
 16. Then to the west: 'May the shining one and the waking one protect me from the west.

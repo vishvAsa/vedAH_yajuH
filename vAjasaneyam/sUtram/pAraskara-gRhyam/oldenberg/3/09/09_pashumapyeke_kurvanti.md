@@ -1,5 +1,5 @@
 +++
-title = "09 पशुमप्येके कुर्वन्ति"
+title = "०९ पशुमप्येके कुर्वन्ति"
 
 +++
 9 [^8] . Some also sacrifice an animal.

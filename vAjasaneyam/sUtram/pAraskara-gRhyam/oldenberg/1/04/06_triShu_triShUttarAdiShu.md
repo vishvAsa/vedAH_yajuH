@@ -1,5 +1,5 @@
 +++
-title = "06 त्रिषु त्रिषूत्तरादिषु"
+title = "०६ त्रिषु त्रिषूत्तरादिषु"
 
 +++
 6 [^2] . Under one of the (three times) three Nakṣatras of which a constellation designated as Uttara is first,

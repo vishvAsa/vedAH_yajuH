@@ -1,5 +1,5 @@
 +++
-title = "22 एकञ्चेत्पूर्वस्योत्तरवर्गेण प्रच्छादयीत"
+title = "२२ एकञ्चेत्पूर्वस्योत्तरवर्गेण प्रच्छादयीत"
 
 +++
 22 [^9] . If (he has only) one (garment), he should cover himself (with a part of that garment as if it were an upper garment) with the second part of the former (Mantra; Sūtra 20).

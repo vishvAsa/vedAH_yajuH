@@ -1,5 +1,5 @@
 +++
-title = "17 अथोत्तरतोऽस्वप्नश्च मानवद्राणश्चोत्तरतो"
+title = "१७ अथोत्तरतोऽस्वप्नश्च मानवद्राणश्चोत्तरतो"
 
 +++
 17. Then to the north: 'May the sleepless one and the not-slumbering one protect me from the north.
