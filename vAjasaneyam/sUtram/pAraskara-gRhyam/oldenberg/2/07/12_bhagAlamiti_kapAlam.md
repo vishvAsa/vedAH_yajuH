@@ -1,0 +1,9 @@
++++
+title = "12 भगालमिति कपालम्"
+
++++
+12 [^5] . A skull (kapāla), bhagāla;
+
+
+[^5]:  Gautama IX, 2 1.
+

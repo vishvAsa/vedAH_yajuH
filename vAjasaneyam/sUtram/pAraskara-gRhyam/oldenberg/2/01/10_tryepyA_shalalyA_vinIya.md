@@ -1,0 +1,9 @@
++++
+title = "10 त्र्येप्या शलल्या विनीय"
+
++++
+10 [^3] . Having unravelled (the hair) with a porcupine's quill that has three white spots, he puts three young Kuśa shoots into it with (the formula), 'Herb' (Vāj. Saṃh. IV, 1).
+
+
+[^3]:  This Sūtra is identical with Kātyāyana-Śraut. V, 2, 15.
+

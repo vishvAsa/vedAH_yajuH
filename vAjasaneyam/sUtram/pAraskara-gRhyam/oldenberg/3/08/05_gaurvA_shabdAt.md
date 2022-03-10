@@ -1,0 +1,9 @@
++++
+title = "05 गौर्वा शब्दात्"
+
++++
+5 [^4] . Or (it may be) a cow, on account of the designation.
+
+
+[^4]:  On account of the designation of the sacrifice as śūla-gava.
+

@@ -1,0 +1,5 @@
++++
+title = "03 जातस्य कुमारस्याच्छिन्नायां नाड्याम्"
+
++++
+3. When the boy is born, he performs for him, before the navel-string is cut off, the medhājanana (production of intelligence) and the āyuṣya (rite for procuring long life).
