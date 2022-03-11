@@ -1717,8 +1717,7 @@ The godless assailers cannot restrain him.
 ### III The Victim for Agni and Soma
 #### 01
 ##### a
-On the impulse of the god Savity, with the arms of the Aśvins, with the hands of Pusan, I take thee; thou art the spade, thou art the  
-woman.
+On the impulse of the god Savity, with the arms of the Aśvins, with the hands of Pusan, I take thee; thou art the spade, thou art the woman.
 ##### b
 The Raksas is encompassed, the evil spirits are encompassed, here do I cut off the neck of the Raksas.
 ##### c
