@@ -105,25 +105,7 @@ on the place of sacrifice, on the abode of the offering, rich in ghee; hail!
 
 
 #### मन्त्रः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-परि॑लिखित॒ꣳ॒+++(=परिनाशितं)+++ रख्ष॒ᳶ  
-परि॑लिखिता॒ अरा॑तयः ।  
-इ॒दम् अ॒हꣳ रख्ष॑सो ग्री॒वा अपि॑ कृन्तामि ।  
-यो᳚ऽस्मान् द्वेष्टि॒ यञ् च॑ व॒यन् द्वि॒ष्म- इ॒दम् अ॑स्य ग्री॒वा अपि॑ कृन्तामि ।
-</details>
-
-
-<details><summary>भास्करटीका</summary>
-
-</details>
-<details><summary>Keith</summary>
-
-The Raksas is enclosed,  
-the evil spirits are enclosed.  
-Thus I cut the neck of the Raksas.  
-Thus I cut the neck of him who hates us and whom we hate [1].
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/2/05_somakrayaNy-anugamanAdikam/parilikhitam.md"  newLevelForH1="4" includeTitle="false"> </div>  
 
 
 ## पांसुग्रहणम्

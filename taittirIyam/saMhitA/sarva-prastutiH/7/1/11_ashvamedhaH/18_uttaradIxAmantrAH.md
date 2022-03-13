@@ -60,4 +60,4 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 
 +++(उत्सृष्टे चतुर्षु पत्सु चतस्र आहुतीर्जुहोति)+++  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md"  newLevelForH1="2" includeTitle="false"> </div>  

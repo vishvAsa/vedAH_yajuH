@@ -6,9 +6,10 @@ title = "११ अश्वमेधमन्त्रेषु रशनाद
 ### भास्करोक्तविनियोगः
 रशनामादत्ते।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/3/devasya_tvA_savituH.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### मन्त्रः
+आ द॑दे ।
 
 ### विश्वासप्रस्तुतिः
 

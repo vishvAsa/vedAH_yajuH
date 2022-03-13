@@ -46,8 +46,17 @@ ____
 
 ____
 +++(निर्वपति)+++  
-- दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚+++(=अनुज्ञायां)+++, अ॒श्विनो᳚र् बा॒हुभ्या᳚म्, पू॒ष्णो हस्ता᳚भ्याम्  - अ॒ग्नये॒ जुष्ट॒न्निर्व॑पामि ।    
-- [दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚, अ॒श्विनो᳚र्बा॒हुभ्या᳚म्, पू॒ष्णो हस्ता᳚भ्याम्  ।] अ॒ग्नीषोमा᳚भ्यां [जुष्ट॒न्निर्व॑पामि] ।    
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+
+
+- अ॒ग्नये॒ जुष्ट॒न्निर्व॑पामि ।    
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+अ॒ग्नीषोमा᳚भ्यां [जुष्ट॒न्निर्व॑पामि] ।    
 
 ____
 +++(निरुप्तानभिमृशति)+++  
