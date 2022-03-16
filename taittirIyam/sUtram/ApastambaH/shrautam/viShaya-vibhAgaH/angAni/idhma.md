@@ -4,25 +4,23 @@ unicode_script: devanagari
 ---
 
 ## सङ्ख्यादिकम्
-खादिरं पालाशं वैकविंशतिदारुम् +++(तेष्वाघारौ २, परिध्यर्थाः ३, अनूयाज-समिच्च १)+++ इध्मं करोति ६  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/05/06_khAdiram_pAlAshaM_vaikaviMshatidArumidhma~N.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-+++(तेषु)+++ त्रयः परिधयः ७  
-+++(परिध्यर्थे -)+++ पलाश-कार्ष्मर्य-खदिर+उदुम्बर-बिल्व-रोहीतक+++(=वटजातीयो)+++-विकङ्कतानां ये वा यज्ञिया वृक्षाः ८
-आर्द्राः शुष्का वा सत्वक्काः ९  
-स्थविष्ठो मध्यमो,  
-ऽणीयान् द्राघीयान् दक्षिणार्ध्यो,  
-ऽणिष्ठो ह्रसिष्ठ उत्तरार्ध्यः १०
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/05/07_trayaH_paridhayaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-+++(पूर्वोक्त इध्मे)+++ द्वे आघारसमिधाव् अनूयाजसमिद् एकविंशीति ११
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/05/08_palAshakArShmaryakhadirodumbarabilvarohItakavikankatAnAM_ye_vA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/05/09_ArdrAH_shuShkA_vA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/05/10_staviShTho_madhyamo-NIyAndrAghIyAndaxiNArdhyo-NiShTho_hrasiShTha.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/05/11_dve_AghArasamidhAvanUyAjasamidekaviMshIti.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## आहरणम्
-समूलानामृते ऽमूलानां वा दर्भाणां पूर्ववच् +++(तूष्णीं)+++ छुल्बं कृत्वा, उदगग्रं वितत्य १२  
-"यत्कृष्णो रूपं कृत्वा प्राविशस्त्वं वनस्पतीन् ।  
-ततस्त्वामेकविंशतिधा संभरामि सुसंभृता ।  
-त्रीन् परिधींस् तिस्रः समिधो यज्ञायुर् अनुसंचरान् ।  
-उपवेषं+++(=लक्षणावृत्त्या +इध्मं)+++ मेक्षणं+++(=लक्षणावृत्त्या +इध्मं)+++  धृष्टिं+++(=लक्षणावृत्त्या +इध्मं)+++  संभरामि सुसंभृते"ति शुल्ब इध्मं संभरति १  
-"कृष्णो ऽस्याखरेष्ठो देव पुरश्चर सघ्यासं त्वे"ति संनह्यति ।  
-पुरस्तात् प्रत्यञ्चं ग्रन्थिम् उपगूहति, पश्चात्प्राञ्चं वा ।  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/05/12_samUlAnAmRtemUlAnAM_vA_darbhANAm.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-अनधो निदधाति +++(अगारे)+++२  
-इध्मप्रवश्चनानि +++(=इध्मच्छेदनप्रभवान् शकलान्)+++ निदधाति +++(क्व?)+++ ३  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/06/01_yatkRShNo_rUpa~N_kRtvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/06/02_kRShNo.asyAkhareShTho_deva.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/06/03_idhmapravashchanAni_nidadhAti.md"  newLevelForH1="2" includeTitle="false"> </div>  
