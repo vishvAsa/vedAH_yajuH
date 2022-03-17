@@ -12,6 +12,4 @@ title = "१२ ०१ वेदमधीत्य स्नास्यन्"
 "अथात उपाकरणोत्सर्जने व्याख्यास्यामः, इत्यादिकं व्रतपटलं नाम उपनयनानन्तरं व्याचक्षते ।
 नैतत् ; "उपाकरणे समापने च" (आप.गृ.८-१.) इत्यत्रैवानयोर्विध्योर्भाष्यकारेण सम्पूर्णमेव व्याख्यातत्वात्, व्रतपटलाध्ययनस्य च विप्रतिपन्नत्वात्, भाष्ये प्रसङ्गभावाच्च ॥
 
-<div class="js_include collapsed" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/09_samAvartanam/12_01_vedamadhItya_snAsyan.md"  newLevelForH1="4" title="हरदत्तः" > </div>
-
-<div class="js_include collapsed" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/09_samAvartanam/12_01_vedamadhItya_snAsyan.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+hugo-version: "0.94.2"hugo-version: "0.94.2"

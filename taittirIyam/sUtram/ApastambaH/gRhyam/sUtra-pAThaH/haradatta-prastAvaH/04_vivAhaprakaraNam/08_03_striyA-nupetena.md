@@ -8,6 +8,4 @@ title = "०८ ०३ स्त्रियाऽनुपेतेन"
 तथा वैश्वदेवस्य श्राद्धादिषु "अथ गृहमेधिनो यदशनीयस्य होमा बलयश्च" (आप.ध. २-३-१२.) इति वचनात्, सुवर्चका यवक्षाराभ्यां लवणेन चावरान्नेन च कोशधान्यापरनाम्ना माषादिना तिलव्यतिरिक्तेन संसृष्टस्यापि भवति हविषो होमे प्रसक्तिः ।
 तदुभयनिषेधार्थमाह—
 
-<div class="js_include collapsed" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/04_vivAhaprakaraNam/08_03_striyA-nupetena.md"  newLevelForH1="4" title="हरदत्तः" > </div>
-
-<div class="js_include collapsed" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/04_vivAhaprakaraNam/08_03_striyA-nupetena.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
+hugo-version: "0.94.2"hugo-version: "0.94.2"
