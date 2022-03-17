@@ -4,4 +4,4 @@ unicode_script: devanagari
 
 ---
 
-स्वाध्यायेऽनध्यायो मन्त्राणां, न कर्मण्यर्थान्तरत्वात् +++(=प्रयोजनान्तरत्वात्)+++ ३७
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/37_svAdhyAye-nadhyAyo_mantrANAn_na.md"  newLevelForH1="2" includeTitle="false"> </div>  

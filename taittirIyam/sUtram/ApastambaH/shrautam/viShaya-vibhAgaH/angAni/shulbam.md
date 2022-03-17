@@ -5,13 +5,19 @@ unicode_script: devanagari
 ---
 
 ## प्रमाणानि
-संनखं मुष्टिं लुनोति १५  
-स प्रस्तरः १६  
-कुल्मिमात्रो +++(=गोपुच्छम् गोग्रासो वा)+++, ऽरत्निः, +++(द्वादशाङ्गुलिविस्तारः)+++ प्रादेश, ऊर्वस्थि, जान्वस्थि, स्रुग्दण्ड इति वा तिर्यक्प्रमाणानि १७
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/03/15_sannakham_muShTiM_lunoti.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-अयुजो मुष्टील्ँ लुनोति २  
-तथा निधनानि+++(=मुष्टीनां राशयः)+++ +++(अयुञ्जि भवन्ति।)+++३  
-तेषां +++(निधनगतानां दर्भमुष्टीनाम्)+++ प्रस्तरो ऽयुगर्थ इत्येके (नाम तेषु प्रस्तरो ऽन्तर्भवतीति) ४ +++(आपस्तम्बस्तु -)+++ प्रस्तरे याथाकामी ५  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/03/16_sa_prastaraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/03/17_kulmimAtro-ratniH_prAdesha_Urvasthi.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/04/02_ayujo_muShTIMllunoti.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/04/03_tathA_nidhanAni.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/04/04_teShAm_prastaro-yugartha_ityeke.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/04/05_prastare_yAthAkAmI.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ## अगारः
