@@ -14,9 +14,17 @@ practice_weight: 0
 चलच्चित्राण्य् [अत्र](https://www.youtube.com/watch?v=nZYdXczveyY&list=PL63uIhJxWbggQQaTFV-5h2aroz8uGriDs&index=10&t=175s)।
 
 ## चोदनम्
-न राजन्यस्य जुहुयात् +++(किञ्च धार्यन्ते गतश्रियो ऽग्नयः।)+++१० होमकाले गृहेभ्यो ब्राह्मणायान्नं प्रहिणुयात्तेनो हैवास्य हुतं भवति ११ नित्यमग्न्युपस्थानं वाचयितव्यः १२ यो वा +++(राजन्यः)+++ सोमयाजी सत्यवादी तस्य जुहुयात् +++(इति विकल्पः)+++ १३
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/15/10_na_rAjanyasya_juhuyAt.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/15/11_homakAle_gRhebhyo_brAhmaNAyAnnam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-अहरहर्यजमानः स्वयमग्निहोत्रं जुहुयात् १४ पर्वणि वा १५ ब्रह्मचारी वा जुहुयाद् - ब्रह्मणा हि स परिक्रीतो भवति । क्षीरहोता +++(अग्निहोत्रशेषक्षीरभृत्, धनेन भृतो वा)+++ वा जुहुयाद् -धनेन हि स परिक्रीतो भवतीति बह्वृचब्राह्मणम् १६
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/15/12_nityamagnyupasthAnaM_vAchayitavyaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/15/13_yo_vA_somayAjI.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/15/14_aharaharyajamAnaH_svayamagnihotra~n_juhuyAt.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/15/15_parvaNi_vA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/15/16_brahmachArI_vA_juhuyAdbrahmaNA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 न प्रातरग्निमुप चन+++(=अपि)+++ +अवरोहेन्, +++(तर्हि)+++ न प्रातर् आहिताग्निश् +++(अस्मीति)+++ चन मन्येतेति वाजसनेयकम् ६ +++(अहुते न भोक्तव्यमित्यादीनि व्रतानि चरेत्।)+++
 
@@ -81,9 +89,10 @@ practice_weight: 0
 +++(रुद्र)+++ अनारमत्य् "अग्ने दुःशीततनो जुषस्व स्वाहे"ति द्वादशाहमाज्येन हुत्वा, तत ऊर्ध्वं न सूर्क्षेत्+++(=आद्रियेत, नैष्फल्यं पापभारवशाद् इत्यङ्गीकृत्य)+++ १३
 
 ## हविरन्तराणि
-पयसा पशुकामस्य जुहुयाद्, दध्नेन्द्रियकामस्य, यवाग्वा ग्रामकामस्य, ओदनेनान्नाद्यकामस्य, तण्डुलैरोजस्कामस्य - बलकामस्येत्येके, मांसेन यशस्कामस्य, सोमेन ब्रह्मवर्चसकामस्य, आज्येन तेजस्कामस्य १  
-आज्येन तण्डुलैरोदनेन सोमेन वा +++(न तु पयसा)+++ जुहुयाद् यस्याप्रतिषेक्यं स्यात् +++(अप्रतिषेक्यं स्यात् तेजस्कामस्य … इति सूत्रान्तरम्।)+++ ८
-आज्येन तेजस्कामः संवत्सरं जुहुयाद् द्वादशाहं वा ९
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/15/01_payasA_pashukAmasya_juhuyAddadhnendriyakAmasya.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/15/08_Ajyena_taNDulairodanena_somena.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/15/09_Ajyena_tejaskAmaH_saMvatsara~n.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### अमावास्याविशेषः
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/11/01_amAvAsyAyAM_rAtryAM_svayaM.md"  newLevelForH1="2" includeTitle="false"> </div>  
@@ -106,30 +115,26 @@ practice_weight: 0
 यो होमकालः सोऽङ्गानाम् १२
 
 ### पत्नी
-पत्नीवदस्याग्निहोत्रं भवति १  
-स्व आयतने+++(दर्शपूर्णमाससिद्धम् - देशाद्दक्षिणत उदीची)+++ पत्न्युपविशति २  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/05/01_patnIvadasyAgnihotram_bhavati.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/05/02_sva_Ayatane_patnyupavishati.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### आचमनम्
-अपरेणाहवनीयं दक्षिणातिक्रम्योपविश्य यजमानो "विद्युदसि विद्य मे पाप्मानमृतात्सत्यमुपैमि मयि श्रद्धे"त्यप आचामति ३
+<div class="js_include" url="/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/05/03_apareNAhavanIyan_daxiNAtikramyopavishya_yajamAno.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### परिषेचनम्
-"ऋतं त्वा सत्येन परिषिञ्चामी"ति सायं परिषिञ्चति । "सत्यं त्वर्तेन परिषिञ्चामी"ति प्रातः । आहवनीयमग्रे ऽथ गार्हपत्यमथ दक्षिणाग्निमपि वा गार्हपत्यमाहवनीयं दक्षिणाग्निं यथा वाहिताः ४
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/05/04_Rtan_tvA_satyena.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### सन्ततिधारा
-"यज्ञस्य संततिरसि यज्ञस्य त्वा संततिमनुसंतनोमी"ति गार्हपत्यात्प्रक्रम्य संततामुदकधारां स्रावयत्याहवनीयात् ५
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/05/05_yajnasya_santatirasi_yajnasya.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### हविर्व्यवस्था
 #### अपोहनम्
-"धृष्टिरसि ब्रह्म यच्छे"त्युपवेषमादाय  
-"भूतकृतस्थापोढं जन्यं भयमपोढाः सेना अभीत्वरीरि"ति गार्हपत्यादुदीचो ऽङ्गारान्निरूह्य  
-व्यन्तान्+++(=अपेतान् आयतनात्)+++ गार्हपत्येन कृत्वा  
-"सगरा स्थे"त्यभिमन्त्र्य  
-जपत्य् "अग्नय आदित्यं गृह्णाम्यह्ने रात्रिमि"ति सायम् । "आदित्यायाग्निं गृह्णामि रात्र्या अहरि"ति प्रातः ६
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/05/06_dhRShTirasi_brahma_yachChetyupaveShamAdAya.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 #### श्रपणम्
-"इडायाः पदं घृतवच् चराचरं जातवेदो हविरिदं जुषस्व । ये ग्राम्याः पशवो विश्वरूपा विरूपास् तेषां सप्तानामिह रन्तिरस्तु । रायस्पोषाय सुप्रजास्त्वाय सुवीर्याये"ति तेष्वग्निहोत्रम् अधिश्रयति ७  
-+++(दोहनस्थमपि पयो ऽग्निहोत्रस्थाल्याम् आनीय तामधिश्रयति)+++
-रेतो वा अग्निहोत्रम् । न सुशृतं+++(=सुपक्तम्)+++ कुर्याद्, रेतः कूलयेन्+++(दहेद्)+++। नो ऽशृतम्। अन्तरा+++(तयोर् मध्य)+++ +इवैव स्यात् १  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/05/07_iDAyAH_pada~N_ghRtavachcharAchara~n.md"  newLevelForH1="2" includeTitle="false"> </div>   
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/06/01_reto_vA_agnihotram.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 #### अवेक्षणम्
 "अदब्धेन त्वा चक्षुषावेक्ष" इति तृणेन ज्वलतावेक्षते ६
