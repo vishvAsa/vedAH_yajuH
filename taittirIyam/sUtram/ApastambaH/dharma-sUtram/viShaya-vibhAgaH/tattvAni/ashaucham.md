@@ -66,13 +66,14 @@ unicode_script: devanagari
   
 <div class="js_include " url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/10_itareShu_chaitadevaika_upadishanti.md"  newLevelForH1="4"  > </div>
   
-
+### अनध्यायः
 <div class="js_include " url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/03_tathA_sambandheShu_jnAtiShu.md"  newLevelForH1="4"  > </div>
   
 <div class="js_include " url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/04_mAtari_pitaryAchArya_iti.md"  newLevelForH1="4"  > </div>
   
 <div class="js_include " url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/05_teShu_chodakopasparshanan_tAvanta~N.md"  newLevelForH1="4"  > </div>
   
+### वपनम्
 <div class="js_include " url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/06_anubhAvinA~n_cha_parivApanam.md"  newLevelForH1="4"  > </div>
   
 <div class="js_include " url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/07_na_samAvRttA_vaperann.md"  newLevelForH1="4"  > </div>
