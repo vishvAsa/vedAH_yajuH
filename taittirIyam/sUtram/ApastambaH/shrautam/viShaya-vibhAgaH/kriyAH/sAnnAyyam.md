@@ -4,7 +4,7 @@ unicode_script: devanagari
 ---
 
 ## अधिकारी
-नासोमयाजी संनयेत्संनयेद्वा ८  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/14/08_upadhAya_kapAlAni_sAyandohavatprAtardohan.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## देवता
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/14/09_nAgatashrIrmahandraM_yajeta_trayo.md"  newLevelForH1="2" includeTitle="false"> </div>  

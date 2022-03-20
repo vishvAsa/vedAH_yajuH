@@ -6,16 +6,28 @@ unicode_script: devanagari
 
 ##‌ सञ्चारे
 
-नाग्नेरपपर्यावर्तेत (=पृष्ठं दर्शयन्) ११ न विहारात् १२ अन्तराणि यज्ञाङ्गानि (=दर्व्यादीनि) । बाह्याः कर्तारः १३ न मन्त्रवता यज्ञाङ्गेनात्मानमभिपरिहरेत् (=वेष्टयेत्) १४
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/11_nAgnerapaparyAvarteta.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-नान्तराग्नी +++(=गार्हपत्याहवनीययोर् मध्ये)+++ संचरति ७  
-यदि पूर्वोऽनुगतः संचर्यम् ८ पश्चाद्धि +++(गार्हपत्ये)+++ स तर्हि गतः ९  
-कामं हुते संचर्यमित्येके १०  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/12_na_vihArAt.md"  newLevelForH1="2" includeTitle="false"> </div>   
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/13_antarANi_yajnAngAni_bAhyAH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/14_na_mantravatA_yajnAngenAtmAnamabhipariharet.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/07_nAntarAgnI_sancharati.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/08_yadi_pUrvo-nugataH_sancharyam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/09_pashchAddhi_sa_tarhi.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/10_kAmaM_hute_sancharyamityeke.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## धारणम्
 
-नक्तमाहवनीयं धारयति +++(पक्षे, "प्राङ्मुखः प्रातर्" इति वचनात्।)+++ ११ नित्यो गतश्रियो ध्रियते +++(आहवनीयः)+++ १२  
-नित्यं गार्हपत्यम् १३  
-तथान्वाहार्यपचनं+++(=दक्षिणाग्निम्, यत्र ऋत्विजां कृत ओदनम् पच्यते)+++ यदि मथित्वाहितो भवति +++(दक्षिणाग्निः)+++ १४
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/11_naktamAhavanIyan_dhArayati.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/12_nityo_gatashriyo_dhriyate.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/13_nitya~N_gArhapatyam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/14_tathAnvAhAryapachanaM_yadi_mathitvAhito.md"  newLevelForH1="2" includeTitle="false"> </div>  

@@ -10,110 +10,106 @@ practice_weight: 0
 [स्वस्त्ययनवाचनम्](../svastyayana/) पृथग् उक्तम्।
 
 ## निर्गमनम्
-प्रवत्स्यन् +++(=ग्रामान्तरे रात्रिं वत्स्यन्)+++ +++(साहायकं कञ्चित्)+++ संप्रेष्यत्य् "अग्नीन् समाधेही"ति १  
-ज्वलत उपतिष्ठते २  
-"पशून्नः शंस्य पाहि, तान्नो गोपायास्माकं पुनरागमादि"त्याहवनीयम् ।  
-"प्रजां नो नर्य पाहि, तां नो गोपायास्माकं पुनरागमादि"ति गार्हपत्यम् ।  
-"अन्नं नो बुध्न्य पाहि, तन्नो गोपायास्माकं पुनरागमादि"त्यन्वाहार्यपचनम् ३  
-अन्तराग्नी तिष्ठञ् जपति +"इमान्नो मित्रावरुणा गृहान् गोपायतं युवम् । अविनष्टान् अविहृतान् पूषैनान् अभिरक्षत्वास्माकं पुनरागमादि"ति ४
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/24/01_pravatsyansampreShyatyagnInsamAdhehIti.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-पूर्ववद् विराट्क्रमैर् उपस्थायाशित्वा, प्रवसथमेष्यन्न् आह - "अग्नीन्समाधेही"ति ५  
-ज्वलत उपतिष्ठते - 
-"प्रजां मे नर्य पाहि तां मे गोपायास्माकं पुनरागमादि"ति गार्हपत्यम् ।  
-"अन्नं मे बुध्न्य पाहि तन्मे गोपायास्माकं पुनरागमादि"त्यन्वाहार्यपचनम् ।  
-"पशून्मे शंस्य पाहि तान्मे गोपायास्माकं पुनरागमादि"त्याहवनीयम् ६  
-"मम नाम प्रथमं जातवेद" इति च वाग्यतो ऽभिप्रव्रजति "मा प्रगाम पथो वयं मा यज्ञादिन्द्र सोमिनः । मान्तःस्थुर्नो अरातयः । उदस्माँ उत्तरान्नयाग्ने घृतेनाहुत । रायस्पोषेण संसृज प्रजया च बहून्कृधी"ति ८  
-आरादग्निभ्यो वाचं विसृजते ९  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/24/02_jvalata_upatiShThate.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/24/03_pashUnnaH_shaMsya_pAhi.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/24/04_antarAgnI_tiShThanjapatImAnno_mitrAvaruNA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/24/05_pUrvavadvirATkramairupasthAyAshitvA_pravasathameShyannAhAgnInsamAdhehIti.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/24/06_jvalata_upatiShThate_prajAm.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/24/07_mama_nAma_prathama~n.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/24/08_vAgyato-bhipravrajati_mA_pragAma.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/24/09_ArAdagnibhyo_vAchaM_visRjate.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## प्रयाणम्
-प्रवसन्काले विहारमभिमुखोऽग्न्युपस्थानं जपति १  
-"इहैव सन् तत्र सतो वो अग्नयः प्राणेन वाचा मनसा बिभर्मि ।  
-तिरो मा+++(ं)+++ सन्तमायुर्मा प्रहासीज्, ज्योतिषा वो वैश्वानरेणोपतिष्ठ" इति यद्यनुपस्थाय प्रवसेदेतयैवोपतिष्ठेत २  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/25/01_pravasankAle_vihAramabhimukho-gnyupasthAna~n_japati.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/25/02_ihaiva_santatra_sato.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## प्रत्यागतिः
-समिधः कृत्वा प्रत्येति ३  
-यथा ह वा इतं पितरं प्रोषिवांसं पुत्राः प्रत्याधावन्त्येवं ह वा एतमग्नयः प्रत्याधावन्ति । स शकलान् दारूणि वाहरन्नेति, यथैव तत्पुत्रेभ्य आहरन्नेति । तादृक्तदिति विज्ञायते ४  
-आरादग्निभ्यो वाचं यच्छति ५  
-यद्येनं राजा पिताचार्यो वान्तरेणाग्नीन्स्याच् +++(अगार)+++छदिर्दर्शे +++(स्थाने)+++ नैनमाद्रियेत ६  
-"विश्वदानीमाभरन्तोऽनातुरेण मनसा । अग्ने मा ते प्रतिवेशा रिषाम । नमस्ते अस्तु मीढुषे नमस्त उपसद्वने । अग्ने शुम्भस्व तन्वः सं मा रय्या सृजेत्यभ्यै"ति ७  
-"अग्नीन्समाधेही"ति +++(प्रेष्यति)+++८  
-ज्वलत उपतिष्ठते ९  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/25/03_samidhaH_kRtvA_pratyeti.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-"पशून्नः शंस्याजूगुपस्, तान्नः पुनर्देही"त्याहवनीयमभिप्राण्य+++(=उपर्युच्छ्वस्य)+++  
-"अग्ने सहस्राक्ष शतमूर्धञ्, छतं ते प्राणाः, सहस्रमपानाः ।  
-त्वं साहस्रस्य राय ईशिषे, सहस्रधारस्य पयसः ।  
-तस्य नो रास्व तस्य ते भक्षीय  
-तस्य ते वयं भूयिष्ठभाजो भूयास्मे"त्याहवनीयम् १०  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/25/04_yathA_ha_vA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-"प्रजां नो नर्याजूगुपस्, तां नः पुनर्देही"ति गार्हपत्यमभिप्राण्य+++(=उपर्युच्छ्वस्य)+++  
-"अग्ने गृहपते सुगृहपतिरहं त्वया गृहपतिना भूयासं,  
-सुगृहपतिर् मया त्वं गृहपतिना भूयाः ।  
-शतं हिमाद्वायू राधांसीत् संपृञ्चानावसंपृञ्चानौ तन्व" इति गार्हपत्यम् १
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/25/05_ArAdagnibhyo_vAchaM_yachChati.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-"अन्नं नो बुध्न्याजूगुपस्तन्नः पुनर्देही"त्यन्वाहार्यपचनमभिप्राण्यान्तराग्नी तिष्ठञ्जपति यथा प्रवत्स्यद् उपस्थाने २ "अजूगुपतम्, अभ्यराक्षीदि"ति मन्त्रं संनमति ३
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/25/06_yadyenaM_rAjA_pitAchAryo.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-"मम नाम तव च जातवेद" इति चतसृभिराहवनीयम् ४  
-"प्रजां मे नर्याजूगुपस् तां मे पुनर्देही"ति गार्हपत्यम् अभ्यपान्य+++(=उपरि निश्वस्य)+++  
-"अन्नं मे बुध्न्याजूगुपस्, तन्मे पुनर् देही"त्यन्वाहार्यपचनमभ्यपान्य  
-"पशून्मे शंस्याजूगुपस् तान्मे पुनर् देही"त्याहवनीयमभ्यपान्य पूर्ववद् विराट्क्रमैर् उपतिष्ठते । अजूगुप इति मन्त्रं संनमति ५  
-अग्न्युपस्थानवदत्र समिधो +++(="इन्धानास् त्वा शतं")+++ दिशां चोपस्थानम् ६
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/25/07_vishvadAnImAbharanto-nAtureNa_manasA_agne.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/25/08_agnInsamAdhehIti.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/25/09_jvalata_upatiShThate.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/25/10_pashUnnaH_shaMsyAjUgupastAnnaH_punardehItyAhavanIyamabhiprANyAgne.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/26/01_prajAn_no_naryAjUgupastAn.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/26/02_annan_no_buyAjUgupastannaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/26/03_ajUgupatamabhyarAxIditi_mantraM_sannamati.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/26/04_mama_nAma_tava.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/26/05_prajAm_me_naryAjUgupastAm.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/26/06_agnyupasthAnavadatra_samidho_dishA~n.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## दीर्घप्रवासः
-नवमीं चेद् अतिप्रवसेन् "मित्रो जनान्यातयति प्रजानन्नि"ति मैत्र्योपस्थाय  
-"मनो ज्योतिर्जुषतामि"त्याहुतिं जुहुयात् ७  
-समिध आहुतिमुपस्थानम् इत्येवमनुपूर्वाण्येके समामनन्ति ८
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/26/07_navamI~n_chedatipravasenmitro_janAnyAtayati.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/26/08_samidha_AhutimupasthAnamityevamanupUrvANyeke_samAmananti.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## सङ्क्षिप्तविधयः
-तदाहुर् नाग्निरुपस्थेयः- कः श्रेयांसं विषुप्तं बोधयिष्यतीति । +++(व्यक्तेषु त्वग्निषु तु)+++ "अभयंकराभयं मे कुरु+++(अकार्षीर् इति प्रत्यागमने)+++, स्वस्ति मेऽस्त्व्, अभयं मे अस्त्वि"त्येव ब्रूयात् - प्रवत्स्यदुपस्थानम् आगतोपस्थानं चाधिकृत्य वाजसनेयिनः समामनन्ति १ +++(वाङ्नियमः समिदाहरणम् प्रत्यागमने तु भवत्येव।)+++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/27/01_tadAhurnAgnirupastheyaH_kaH_shreyAMsaM.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-"नमो वो ऽस्तु प्रवत्स्यामि, नमो वोऽस्तु प्रावात्स्यमि"ति बृह्वृचाः २
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/27/02_namo_vo-stu_pravatsyAmi.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## पत्नीगृहगमनम्
-"गृहा मा बिभीत, मा वेपिढ्वम्, ऊर्जं बिभ्रत एमसि ।  
-ऊर्जं बिभ्रद्वः, सुवनिः सुमेधा गृहानैमि, मनसा मोदमानः ।  
-येषाम् अध्येति प्रवसन् येषु सौमनसो बहुः ।  
-गृहान् उपह्वयामहे, ते नो जानन्तु जानतः ।  
-उपहूता भूरिधनाः सखायः स्वादुसंमुदः ।  
-अरिष्टाः सर्वपूरुषा गृहा नः सन्तु सर्वदा ।  
-उपहूता इह गाव उपहूता अजावयः ।  
-अथो अन्नस्य कीलाल उपहूतो गृहेषु न" इति गृहानभ्येति ३
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/27/03_gRhA_mA_bibhIta.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-"क्षेमाय वः शान्त्यै प्रपद्ये, शिवं शग्मं शंयोः शंयोरि"ति प्रविशति ४  
-"ऊर्जं बिभ्रद्वः सुमनाः सुमेधा गृहानागां मनसा मोदमानः ।  
-इरां वहन्तो घृतमुक्षमाणास् तेष्वहं सुमनाः संविशामी"ति प्रविश्य जपति । संविशन्वा ५
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/27/04_xemAya_vaH_shAntyai.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/27/05_Urjam_bibhradvaH_sumanAH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## सगृह-यानम्
 ### निर्गमहोमः
 #### कालः
-सगृहः प्रयास्यन्वास्तोष्पतीयं +++(होमं)+++ जुहोति १
-अहुते यानेषु भण्डान्यारोपयन्ति २ न +++(होमात् पूर्वम् आरोपणे यद्)+++ हीनम् अन्वाहरेयुः ३  
-यद्यनो+++(=शकट)+++वाह्यं +++(धान्यादिकम्)+++ स्यात् पूर्वं तं प्रवहेयुर्, अप वोद्धरेयुः +++(नामान्यत्र स्थापयेयुर्वा पश्चान् नयनाय)+++ ४  
-यत्र संहिता रात्रीर्वसेत्पञ्च सप्त नव दश वा, तत्+++(=तस्मात्)+++ प्रयास्युञ्जुहुयात् +++(वास्तोष्पतीयम्)+++ ५  
-नवरात्रवास्तौ +++(सङ्कल्पितायाम्)+++ वा पुनरेत्यैकाम् +++(रात्रिम्)+++ उषित्वा प्रयास्यञ् जुहुयात् ६  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/01_sagRhaH_prayAsyanvAstoShpatIya~n_juhoti.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-+++(शकटानाम्)+++ दक्षिणो युक्तो भवति सव्यो ऽयुक्तः +++(यदा तदा होमकालः)+++। अपि वाग्निष्ठस्य+++(=अरणियुक्ते शकटे)+++ दक्षिणो युक्तः सव्यस्य योक्त्रं परिहृतम्  +++(यदा तदा होमकालः)+++। सर्वेषु वा युक्तेषु +++(होमकालः)+++७  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/02_ahute_yAneShu_bhaNDAnyAropayanti.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/03_na_hInamanvAhareyuH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/04_yadyanovAhyaM_syAtpUrvan_tam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/05_yatra_saMhitA_rAtrIrvasetpancha.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/06_navarAtravAstau_vA_punaretyaikAmuShitvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/07_daxiNo_yukto_bhavati.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 #### विवरणम्
-वास्तोष्पत इत्यनुद्रुत्योत्तरया +++(अग्नीन् प्रणीयेति केचित्)+++ गार्हपत्ये हुत्वा  
-अवक्षाणानि+++(=उल्मूकानि)+++ संप्र-क्षाप्य+++(=पूर्णं दाहयित्वा)+++ पृथग् अरणीष्व् अग्नीन् समारोपयते ये धार्यन्ते ८  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/08_vAstoShpata_ityanudrutyottarayA_gArhapatye.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### आरोपणम्
-उपर्यग्नावरणी धारयञ् जपत्य् "अयं ते योनिरृत्विय" इति ९
-+++(अ॒यं ते॒ योनि॑र्‌ऋ॒त्वियः॑ । यतो॑ जा॒तो अरो॑चथाः । तं जा॒नन्न॑ग्न॒ आरो॑ह । अथा॑ नो वर्धया र॒यिम् । )+++  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/09_uparyagnAvaraNI_dhArayanjapatyayan_te.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-अपि वा यजमान एवात्मन्समारोपयते १०  
-"या ते॑ अग्ने य॒ज्ञिया॑ त॒नूस्तयेह्यारो॑हा॒त्माऽऽत्मान॑म् । अच्छा॒ वसू॑नि कृ॒ण्वन्न॒स्मे नर्या॑ पु॒रूणि॑ ।  
-य॒ज्ञो भू॒त्वा य॒ज्ञमा सी॑द॒ स्वां योनि॑म् । जात॑वेदो॒ भुव॒ आ जाय॑मान॒स्सक्ष॑य॒ एहि॑" + इति हस्तं प्रताप्य मुखायाहरते ११  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/10_api_vA_yajamAna.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/11_yA_te_agne.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### अवारोपः
-वास+++(य्)+++ "उपावरोह जातवेदः पुनस् त्वं, देवेभ्यो हव्यं वह नः प्रजानन् ।  
-आयुः प्रजां रयिमस्मासु धेह्य्, अजस्रो दीदिहि नो दुरोण" इति लौकिकेऽग्नावुपावरोहयति १२  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/12_vAsa_upAvaroha_jAtavedaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-अरण्योर्वोपावरोह्य मन्थेत् १३  
-यदरण्योः समारूढः स्यान्, निर्वर्तमान एतं मन्त्रं जपेत् १४  
-+++("उ॒पाव॑रोह जातवेद॒ᳶ पुन॒स्त्वम्, दे॒वेभ्यो॑ ह॒व्यं व॑ह नᳶ प्रजा॒नन्न् । आयु॑ᳶ प्र॒जाꣳ र॒यिम॒स्मासु॑ धेहि । अज॑स्रो दीदिहि नो दुरो॒णे ।")+++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/13_araNyorvopAvarohya_manthet.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/28/14_yadaraNyoH_samArUDhaH_syAnnirvartamAna.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ### प्राप्तौ होमः
-"इदं श्रेयोऽवसानं यदागां, स्योने मे द्यावापृथिवी अभूताम् ।  
-अनमीवाः प्रदिशः सन्तु मह्यम्, गोमद्धनवद् अश्ववत् पुरुषवद् धिरण्यवत् सुवीरवत् स्वाहे"त्यवसिते +++(प्रयाणे)+++ जुहोति +++(आहवनीये)+++१
-
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/29/01_idaM_shreyo-vasAnaM_yadAgAM.md"  newLevelForH1="2" includeTitle="false"> </div>  
