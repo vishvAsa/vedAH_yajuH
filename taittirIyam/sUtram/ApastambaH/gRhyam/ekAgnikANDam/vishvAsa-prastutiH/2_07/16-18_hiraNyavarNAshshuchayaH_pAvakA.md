@@ -4,7 +4,7 @@ title = "१६-१८ हिरण्यवर्णाश्शुचयः �
 +++
 
 
-<div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033/01_hiraNyavarNAH_shuchayaH.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
 हिर॑ण्य-वर्णा॒श् शुच॑यः पाव॒का  
