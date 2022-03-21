@@ -84,11 +84,76 @@ The (sacrifices) last five nights
 
 
 </details>
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/panchatA-mahimA.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/panchatA-mahimA.md">
+<details open><summary><h3>पञ्चता-महिमा ...{Loading}...</h3></summary>
+
+
+##### वाक्यानि
+पञ्च॒ वा ऋ॒तव॑स् सव्ँवथ्स॒रः +++(हेमन्त-शिशिरयोर् एकत्वात्, अथवा ऽन्धसि वर्षर्तोर् अभावात्)+++।[38]  
+ऋ॒तुष्वे॒व स॑व्ँवथ्स॒रे प्रति॑ तिष्ठति ।
+
+<details><summary>Keith</summary>
+
+the year consists of five seasons [3];  
+verily he stands firm in the year with its five seasons.
+</details>
+
+
+
+##### वाक्यानि
+अथो॒ पञ्चा᳚ख्षरा प॒ङ्क्तिः ।
+पाङ्क्तो॑ य॒ज्ञो, य॒ज्ञम् ए॒वाव॑ रुन्धे ।
+
+<details><summary>Keith</summary>
+
+Again the Pankti has five elements,  
+the sacrifice is fivefold; verily he wins the sacrifice.
+</details>
+</details>
+</div>  
 
 ## भिन्नदिनेष्व् अङ्गानि
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
+<details open><summary><h3>९-१५-१७-विधानम् ...{Loading}...</h3></summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/25-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+त्रि॒वृद्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अ॑ग्निष्टो॒मो +++(यागो रथन्तरसामा)+++ भ॑वति +++("अग्न॒ आ या॑हि" इत्यादेस् त्र्यर्चस्य)+++ । तेज॑ ए॒वाव॑ रुन्धते ।  
+प॒ञ्च॒द॒शो +++(बृहत्सामा +उक्थ्यो?)+++ भ॑वति । इ॒न्द्रि॒यम् ए॒वाव॑ रुन्धते ।  
+स॒प्त॒द॒शो +++(वैरूपसामा +उक्थ्यो?)+++ भवति। [2] अ॒न्नाद्य॒स्याव॑रुद्ध्यै । अथो॒ प्रैव तेन॑ जायन्ते ।  
+
+<details><summary>Keith</summary>
+
+There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilliance.  
+There is a Pañcadaça (Stoma); verily he wins power.  
+There is a Saptadaça (Stoma), for the obtainment of food; verily also he gains offspring by reason of it.
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
+<details open><summary><h3>२५-विधानम् ...{Loading}...</h3></summary>
+
+
+##### वाक्यानि
+प॒ञ्च॒वि॒ꣳ॒शो᳚ ऽग्निष्टो॒मो +++(यागः)+++ भ॑वति॒ प्र॒जाप॑ते॒र् आप्त्यै॑ ।  
+म॒हा॒व्र॒त॒वा॑न् +++(=ये महाव्रतधर्माः 'स्तुवन्त्यनुश्नोकेन' इत्याद्याः तद्वान्)+++ अ॒न्नाद्य॑स्य अव॑रुद्ध्यै । +++(यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।)+++
+
+<details><summary>Keith</summary>
+
+There is an Agnistoma with the Pañcadaça (Stoma), for the gaining of Prajapati;  
+(it has) the characteristics of the Mahavrata, for the gaining of food.
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
+<details open><summary><h3>विश्वजित्-विधानम् ...{Loading}...</h3></summary>
+
+
+##### वाक्यानि
+वि॒श्व॒जिथ् +++(सहस्रदक्षिणत्वादिधर्मः)+++ सर्व॑पृष्ठो+++(=रथन्तर-बृहद्-वैरूप-वैराज-शाक्वर-रैवत-पृष्ठः)+++ ऽतिरा॒त्रो भ॑वति॒, सर्व॑स्या॒भिजि॑त्यै ॥ 
+
+<details><summary>Keith</summary>
+
+There is a Viçvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
+</details>
+</details>
+</div>

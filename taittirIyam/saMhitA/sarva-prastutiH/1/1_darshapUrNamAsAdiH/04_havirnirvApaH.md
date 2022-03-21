@@ -47,14 +47,62 @@ ____
 ____
 +++(निर्वपति)+++  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md">
+<details open><summary><h2>देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚+++(=अनुज्ञायां)+++,
+ऽश्विनो᳚र् बा॒हुभ्या᳚म्,
+पू॒ष्णो हस्ता᳚भ्यां॒…
+</details>
+<details><summary>मूलम्</summary>
+
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚ऽश्विनो᳚र् बा॒हुभ्या᳚म्,
+पू॒ष्णो हस्ता᳚भ्यां॒…
+</details>
+<details><summary>भट्टभास्करटीका</summary>
+
+**सवितुस्** सर्वप्रेरकस्य **देवस्य** **प्रसवे** प्रेरणायां तेनैव प्रेरितोहं (**त्वाम् अग्नये** अग्न्यर्थं **जुष्टं** प्रियं **निर्वपामि** निष्कृष्य शूर्पे निक्षिपामि । …) 'थाथघञ्क्ताजबित्रकाणाम्' (पा.सू. 6.2.144) इति सूत्रेण प्रसवशब्दोन्तोदात्तः । **अश्विनोर्बाहुभ्यां** नत्वात्मीयाभ्यामिति स्तुतिः । 'अश्विनौ हि देवानामध्वर्यू आस्ताम्' (तै.ब्रा. 3.2.4) । तथा **पूष्ण** एव **हस्ताभ्यां** पाणितलाभ्याम् । उदात्तनिवृत्तिस्वरेण षष्ठ्या उदात्तत्वम्॥
+</details>
+<details><summary>Keith</summary>
+
+On the instigation of god Savitr,  
+I take thee with the arms of the Açvins,  
+with the hands of Pusan.
+</details>
+</details>
+</div>  
 
 
 
 - अ॒ग्नये॒ जुष्ट॒न्निर्व॑पामि ।    
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md">
+<details open><summary><h2>देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚+++(=अनुज्ञायां)+++,
+ऽश्विनो᳚र् बा॒हुभ्या᳚म्,
+पू॒ष्णो हस्ता᳚भ्यां॒…
+</details>
+<details><summary>मूलम्</summary>
+
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚ऽश्विनो᳚र् बा॒हुभ्या᳚म्,
+पू॒ष्णो हस्ता᳚भ्यां॒…
+</details>
+<details><summary>भट्टभास्करटीका</summary>
+
+**सवितुस्** सर्वप्रेरकस्य **देवस्य** **प्रसवे** प्रेरणायां तेनैव प्रेरितोहं (**त्वाम् अग्नये** अग्न्यर्थं **जुष्टं** प्रियं **निर्वपामि** निष्कृष्य शूर्पे निक्षिपामि । …) 'थाथघञ्क्ताजबित्रकाणाम्' (पा.सू. 6.2.144) इति सूत्रेण प्रसवशब्दोन्तोदात्तः । **अश्विनोर्बाहुभ्यां** नत्वात्मीयाभ्यामिति स्तुतिः । 'अश्विनौ हि देवानामध्वर्यू आस्ताम्' (तै.ब्रा. 3.2.4) । तथा **पूष्ण** एव **हस्ताभ्यां** पाणितलाभ्याम् । उदात्तनिवृत्तिस्वरेण षष्ठ्या उदात्तत्वम्॥
+</details>
+<details><summary>Keith</summary>
+
+On the instigation of god Savitr,  
+I take thee with the arms of the Açvins,  
+with the hands of Pusan.
+</details>
+</details>
+</div>
 
 अ॒ग्नीषोमा᳚भ्यां [जुष्ट॒न्निर्व॑पामि] ।    
 

@@ -2,9 +2,17 @@
 title: ०५ हविःप्रोक्षणादिः
 
 ---
-
 +++(अप उत्पुनाति)+++  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/Rk/1/1_darshapUrNamAsAdiH/devo_vas_savitotpunAtu.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/Rk/1/1_darshapUrNamAsAdiH/devo_vas_savitotpunAtu.md">
+<details open><summary><h4>देवो वस् सविता ...{Loading}...</h4></summary>
+
+दे॒वो व॑स् सवि॒तोत्पु॑ना॒त्व्  
+अच्छि॑द्रेण प॒वित्रे॑ण +++(सूर्येण)+++ ।   
+वसो॒स्+++(=वासहेतोः)+++ सूर्य॑स्य र॒श्मिभिः॑  ॥+++(५)+++
+
++++('असौ वा आदित्योच्छिद्रं पवित्रम्' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ।)+++
+</details>
+</div>  
 
 ____
 +++(उन्महयन्न् उपोत्तिष्ठति)+++  

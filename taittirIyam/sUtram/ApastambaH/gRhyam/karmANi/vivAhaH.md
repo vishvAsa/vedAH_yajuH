@@ -469,7 +469,16 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
 <details open=""><summary><h4>०७ आशासाना सौमनसम् ...{Loading}...</h4></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/14/001/42_AshAsAnA_saumanasaM.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/14/001_vivAha-_prakaraNam/42_AshAsAnA_saumanasaM.md">
+<details open=""><summary><h6>४२ आशासाना सौमनसं ...{Loading}...</h6></summary>
+
+आ॒शासा॑ना सौमन॒सं  
+प्र॒जां सौभा॑ग्यं तनूम्।  
+अ॒ग्नेर् अनु॑व्रता भू॒त्वा +++(तिष्ठति)+++,  
++++(तां)+++ सं न॑ह्ये सुकृ॒ताय॒ कम् +++(पादपूरणे)+++।
+
+</details>
+</div>
 </details>
 </div>
 </details>
@@ -1176,7 +1185,24 @@ unicode_script: devanagari
 </div>  
 
 ## अनुगतस्यौपासनाग्नेस् समाधानमन्त्रः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_20_anugate-pi_vottarayA.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_20_anugate-pi_vottarayA.md">
+<details open><summary><h2>०५ २० अनुगतेऽपि वोत्तरया ...{Loading}...</h2></summary>
+
+अनुगते ऽपि वोत्तरया +++(=अयाश्चाग्ने)+++ जुहुयान् नोपवसेत् +++(- प्रायश्चित्तं त्वत्राप्य् अस्त्य् एव)+++॥  
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md">
+<details open=""><summary><h4>१८ अयाश्चाग्नेऽस्यनभिशस्तीश्च सत्यमित्त्वमया ...{Loading}...</h4></summary>
+
+अ॒याश्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चा॒ग्ने ऽस्य् अ॑नभिश॒स्तीश्च॑+++(=अनवद्यः)+++  
+स॒त्यम् इ॑त् त्वम् अ॒या अ॑सि ।  
+अय॑सा॒+++(=प्रतिगन्त्रा)+++ मन॑सा धृ॒तो॑  
+ऽयसा॑ ह॒व्यम् ऊ॑हिषे॒+++(=वहस्व)+++  
+ऽया नो॑ धेहि भेष॒जम् ।।+++(५)+++
+
+</details>
+</div>
+</details>
+</div>  
 
 
 ##### युग्ययोः योजनप्रकारः
@@ -1695,7 +1721,17 @@ _____________
 
 ##### मन्त्रः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/01_tena_bhUtena.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/01_tena_bhUtena.md">
+<details open=""><summary><h6>०१ तेन भूतेन ...{Loading}...</h6></summary>
+
+
+तेन॑ भू॒तेन॑ +++(हितेन)+++ ह॒विषा॒  
+ऽयम् आ प्या॑यतां॒ पुनः॑ ।  
+जा॒यां याम् अ॑स्मा॒ +++(मह्यं)+++ आवा॑क्षु॒स्+++(=आवहन्)+++  
+ताꣳ रसे॑ना॒भि व॑र्द्ध+++(य)+++ताम् ।+++(४)+++  
+
+</details>
+</div>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/07_abhivarddhatAm_payasA-bhi.md">
@@ -1892,7 +1928,40 @@ __________________
 </div>
 
 ## तारादर्शनम्  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_12_uditeShu_naxatreShu.md"></div>   
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/06_12_uditeShu_naxatreShu.md">
+<details open><summary><h2>०६ १२ उदितेषु नक्षत्रेषु ...{Loading}...</h2></summary>
+
+उदितेषु नक्षत्रेषु प्राचीमुदीचीं वा दिशम् उपनिष्क्रम्योत्तराभ्यां +++(=ध्रुवक्षितिर् ध्रुवयोनिः)+++ यथालिङ्गं +++(=तेनोत्तरस्याम् ऋचि सर्वेषां सप्तर्षीणां कृत्तिकादिनाम् अरून्धत्याश्च सहदर्शनम्)+++ ध्रुवम् अरुन्धतीं च दर्शयति॥  
+
++++(ध्रुवं दर्शयति)+++  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/06_dhruvaxitirddhruvayonirddhruvamasi_ddhruvatassthitam.md">
+<details open=""><summary><h4>०६ ध्रुवक्षितिर्द्ध्रुवयोनिर्द्ध्रुवमसि द्ध्रुवतस्स्थितम् ...{Loading}...</h4></summary>
+
+
+ध्रु॒व-क्षि॑तिर् ध्रु॒व-यो॑निर्  
+ध्रु॒वम् अ॑सि ध्रु॒वत॑स् स्थि॒तम् ।  
+त्वन् नक्ष॑त्राणां मे॒थ्य्+++(=खलेवाली, खले धान्य-पेषण-स्थाने वाल्यन्ते वृषा इति)+++ असि॒  
++++(अन्यत्र ध्रुवसम्बन्धे मेढीकृत इति शब्दः प्रयुज्यते पुराणेषु।)+++  
+स मा॑ पाहि पृतन्य॒तः+++(=योद्धुकामात्)+++ ।  
+
+</details>
+</div>
+
+__________________
++++(अरुन्धतीं दर्शयति। ६ कृत्तिकाः + अरुन्धती = ७ कृत्तिकाः सप्तऋषिपन्त्यः। अरुन्धती स्थिरा, शिष्टास् त्यक्ताः शङ्कया।)+++  
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/07_saptaRShayaH_prathamAm.md">
+<details open=""><summary><h4>०७ सप्तऋषयः प्रथमाम् ...{Loading}...</h4></summary>
+
+
+
+स॒प्त॒ऋ॒षयः॑ प्रथ॒मां कृत्ति॑कानाम् अरुन्ध॒तीम् यद् ध्रु॒वता॒ꣳ॒ ह नि॒न्युः। षट्कृत्ति॑कामुख्ययो॒गं वह॑न्ति +++(तस्याम्)+++।  
++++(वधूर्)+++ इयम् अ॒स्माक॑म् एधत्व् अष्ट॒मी ।+++(र५)+++  
+
+</details>
+</div>
+</details>
+</div>   
 
 
 ## होमविशेषाः

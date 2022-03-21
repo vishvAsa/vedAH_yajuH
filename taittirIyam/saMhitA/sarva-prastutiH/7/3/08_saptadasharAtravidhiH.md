@@ -19,7 +19,18 @@ title = "०८ सप्तदशरात्रविधिः"
 +++(पङ्क्तिप्रभवत्वाद्वा धानादिपञ्चकसाधनत्वाद्वा)+++ पाङ्क्तो॑ य॒ज्ञः । य॒ज्ञम् ए॒वाव॑ रुन्धते ।
 
 +++(द्वादशाहस्य दशाहानि विदधाति -)+++  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md">
+<details open><summary><h3>असत्रम् अछन्दोमम् ...{Loading}...</h3></summary>
+
+
++++(छन्दोमवतः प्रशंसार्थं वक्ति - )+++ अस॑त्त्र॒व्ँ वा ए॒तद् यद् अ॑छन्दो॒मम् ।
+यच् छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रम् ।  
+दे॒वता॑ ए॒व पृ॒ष्ठैर् अव॑ रुन्धते प॒शूञ् छ॑न्दो॒मैः ।  
+ओजो॒ वा वी॒र्य॑म् पृ॒ष्ठानि॑, प॒शव॑श् छन्दो॒मा ।  
+ओज॑स्य् ए॒व वी॒र्ये॑, प॒शुषु॒ +++(च)+++ प्रति॑ तिष्ठन्ति ।  
+
+</details>
+</div>  
 
 स॒प्त॒द॒श॒रा॒त्रो भ॑वति ।  
 स॒प्त॒द॒शᳶ प्र॒जाप॑तिः ।

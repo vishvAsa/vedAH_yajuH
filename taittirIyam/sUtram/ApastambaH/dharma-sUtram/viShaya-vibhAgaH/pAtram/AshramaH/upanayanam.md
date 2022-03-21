@@ -167,10 +167,74 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067__22-27__pavamAnas_so.md"></div>
+<div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067__22-27__pavamAnas_so/">
+<details open=""><summary><h7>०६७ २२-२७ ...{Loading}...</h7></summary>
+<div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/22_pavamAnaH_so.md">
+<details open=""><summary><h10>२२ पवमानः सो ...{Loading}...</h10></summary>
+
+
+पव॑मानः॒ सो अ॒द्य नः॑  
+प॒वित्रे॑ण॒ विच॑र्षणिः ।  
+यः पो॒ता, स पु॑नातु नः ॥
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/23_yatte_pavitramarchiShyagne.md">
+<details open=""><summary><h10>२३ यत्ते पवित्रमर्चिष्यग्ने ...{Loading}...</h10></summary>
+
+
+यत् ते॑ प॒वित्र॑म् अ॒र्चिष्य्  
+अग्ने॒ वित॑तम् अ॒न्तरा ।  
+ब्रह्म॒ तेन॑ पुनीहि नः ॥
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/24_yatte_pavitramarchivadagne.md">
+<details open=""><summary><h10>२४ यत्ते पवित्रमर्चिवदग्ने ...{Loading}...</h10></summary>
+
+
+यत् ते॑ प॒वित्र॑म् अर्चि॒वद्+++(=अर्चिष्मत्)+++  
+अग्ने॒ तेन॑ पुनीहि नः ।  
+ब्र॒ह्म॒-स॒वैः पु॑नीहि नः ॥
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/25_ubhAbhyAM_deva.md">
+<details open=""><summary><h10>२५ उभाभ्यां देव ...{Loading}...</h10></summary>
+
+
+उ॒भाभ्यां॑ देव सवितः  
+प॒वित्रे॑ण स॒वेन॑ च ।  
+मां पु॑नीहि वि॒श्वतः॑ ॥
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/26_tribhiShTvaM_deva.md">
+<details open=""><summary><h10>२६ त्रिभिष्ट्वं देव ...{Loading}...</h10></summary>
+
+
+त्रि॒भिष् - ट्वं दे॑व सवित॒र्  
+वर्षि॑ष्ठैः, सोम॒ धाम॑भिः ।  
+अग्ने॒ दक्षैः॑ - पुनीहि नः ॥
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/27_punantu_mAM.md">
+<details open=""><summary><h10>२७ पुनन्तु मां ...{Loading}...</h10></summary>
+
+
+पु॒नन्तु॒ मां दे॑व-ज॒नाः  
+पु॒नन्तु॒ वस॑वो धि॒या ।  
+विश्वे॑ देवाः पुनी॒त मा॒  
+जात॑वेदः पुनी॒हि मा॑ ॥
+
+</details>
+</div>
+</details>
+</div>
 
 ##### यजुष्-पवित्रम्
-
+'आपो अस्मान्मातरः शुन्धन्त्वि'त्यनेन Taitt. Saṃh. I, 2, 1, 1 +++(पूरणीयम्??)+++
 
 ##### साम-पवित्रम्
 <div class="js_include" includetitle="false" newlevelforh1="1" unfilled="" url="/vedAH/sAma/paravastu-saama/devaH/indraH/vAmadevyam/">

@@ -22,7 +22,29 @@ ____
 ____
 +++(अन्तर्वेद्यूर्ध्वाग्रं बर्हिस्स्थापयित्वा प्रोक्षति)+++
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/11_havirAsanAdiH/dive_tvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/11_havirAsanAdiH/dive_tvA.md">
+<details open><summary><h2>दिवे त्वा ...{Loading}...</h2></summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+दि॒वे त्वा᳚  +++(प्रोक्षामि)+++ ।  
+अन्तरि॑ख्षाय त्वा  +++(प्रोक्षामि)+++ ।  
+पृ॒थि॒व्यै त्वा᳚ +++(प्रोक्षामि)+++ ।
+
+</details>
+<details><summary>मूलम्</summary>
+
+दि॒वे त्वा᳚ ।  
+अन्तरि॑ख्षाय त्वा।  
+पृ॒थि॒व्यै त्वा᳚।
+
+[संयुक्तमन्त्रः－ दि॒वे त्वा॒ऽन्तरि॑ख्षाय त्वा पृथि॒व्यै त्वा ]
+</details>
+<details><summary>Keith</summary>
+
+To sky thee, to atmosphere thee, to earth thee!
+</details>
+</details>
+</div>  
 
 
 

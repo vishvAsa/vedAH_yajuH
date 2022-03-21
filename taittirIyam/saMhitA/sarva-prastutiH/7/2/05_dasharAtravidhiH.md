@@ -78,4 +78,16 @@ title = "०५ दशरात्रविधिः"
 - त्रि॒ण॒वाव् अ॑ग्निष्टो॒माव् +++(त्रयस्त्रिंशस्य)+++ अ॒भित॑  ऐ॒न्द्रीषु॒ , विजि॑त्यै।
 - +++(अष्टमदिने ककुत्स्थाने)+++ त्र॒य॒स्त्रि॒ꣳ॒श उ॒क्थ्यो॑ वैश्वदे॒वीषु॒ प्रति॑ष्ठित्यै।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md"  newLevelForH1="4" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
+<details open><summary><h4>विश्वजित्-विधानम् ...{Loading}...</h4></summary>
+
+
+###### वाक्यानि
+वि॒श्व॒जिथ् +++(सहस्रदक्षिणत्वादिधर्मः)+++ सर्व॑पृष्ठो+++(=रथन्तर-बृहद्-वैरूप-वैराज-शाक्वर-रैवत-पृष्ठः)+++ ऽतिरा॒त्रो भ॑वति॒, सर्व॑स्या॒भिजि॑त्यै ॥ 
+
+<details><summary>Keith</summary>
+
+There is a Viçvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
+</details>
+</details>
+</div>

@@ -1,10 +1,9 @@
 ---
+practice_weight: 0
 title: अग्न्युपस्थानम्
 unicode_script: devanagari
 
-practice_weight: 0
 ---
-
 रुद्रदत्तटीखा [ऽत्र](https://archive.org/details/in.ernet.dli.2015.277413/page/n324)। धूर्तस्वाम्य् [अत्र](https://archive.org/details/in.ernet.dli.2015.495870/page/n318)।
 
 [तत्र](../../../../../../brAhmaNam/taittirIyam/kriyA/agni-upasthAna/) ब्राह्मणम्।
@@ -47,7 +46,7 @@ practice_weight: 0
 "ऊर्जा वः पश्याम्य्, ऊर्जा मा पश्यते"ति गृहान्प्रेक्षते पशून्वा ९
 
 ## आहवनीये
-<div class="js_include" url="../../kriyAH/svastyayana/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../kriyAH/svastyayana/"></div>  
 
 ### साधारणभागः
 "मा नः शंसो अररुषो  धूर्तिः प्रणङ् मर्त्यस्य । रक्षा णो ब्रह्मणस्पते ।" "यो रेवान्यो अमीवहा वसुवित् पुष्टिवर्धनः । स नः सिषक्तु यस्तुरः ।" "परि ते दूडभो रथोऽस्माँ अश्नोतु विश्वतः । येन रक्षसि दाशुषः" १२  

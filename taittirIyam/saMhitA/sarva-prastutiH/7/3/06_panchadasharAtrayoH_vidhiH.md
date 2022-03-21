@@ -17,11 +17,32 @@ title = "०६ पञ्चदशरात्रयोः विधिः"
 व्या॒वृत॑म् ए॒व पा॒प्मना॒ भ्रातृ॑व्येण गच्छन्ति ।  
 
 ## विधानम्
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md">
+<details open><summary><h3>ज्योतिर् गौर् आयुः ...{Loading}...</h3></summary>
+
+ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हो भ॑वति ।  
+इ॒यव्ँ वाव ज्योति॑र्, अ॒न्तरि॑ख्ष॒ङ् गौर्, अ॒साव् आयुः॑ ।  
+
+(ज्योतिस्स्वरूपम् ७.१ इत्यत्र प्रतिपादितम्। १९० स्तोत्रियम्।  
+गौः - खलु पञ्चदशो बहिष्पवमानः, त्रिवृन्त्य् आज्यानि, सप्तदशं माध्यन्दिनं सवनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २४१-स्तोत्रिया। क्थम्??  
+आयुः - त्रिवृत् बहिष्पवमानं, पञ्चदशाज्यानि, सर्वसप्तदशं माध्यन्दिनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २५९-स्तोत्रियम्। कथम्??)
+</details>
+</div>  
 ए॒ष्वे॑व लो॒केषु॒ प्रति॑ तिष्ठ॒न्ति ।
 
 +++(द्वादशाहस्य दशाहानि विदधाति -)+++  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md">
+<details open><summary><h3>असत्रम् अछन्दोमम् ...{Loading}...</h3></summary>
+
+
++++(छन्दोमवतः प्रशंसार्थं वक्ति - )+++ अस॑त्त्र॒व्ँ वा ए॒तद् यद् अ॑छन्दो॒मम् ।
+यच् छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रम् ।  
+दे॒वता॑ ए॒व पृ॒ष्ठैर् अव॑ रुन्धते प॒शूञ् छ॑न्दो॒मैः ।  
+ओजो॒ वा वी॒र्य॑म् पृ॒ष्ठानि॑, प॒शव॑श् छन्दो॒मा ।  
+ओज॑स्य् ए॒व वी॒र्ये॑, प॒शुषु॒ +++(च)+++ प्रति॑ तिष्ठन्ति ।  
+
+</details>
+</div>  
 
 पञ्चदशरा॒त्रो भ॑वति, पञ्चद॒शो वज्रः॑।  
 वज्र॑मे॒व भ्रातृ॑व्येभ्य॒ᳶ प्र ह॑रन्ति ।

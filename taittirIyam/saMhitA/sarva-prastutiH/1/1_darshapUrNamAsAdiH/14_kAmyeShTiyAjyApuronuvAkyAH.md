@@ -66,7 +66,16 @@ ____
 ## दर्शपूर्णमासातिपातः
 +++('अग्नये पथिकृते पुरोडाशमष्टाकपालं निर्वपेद्यो दर्शपूर्णमासयाजी सन्नमावास्यां वा पौर्णमासीं वातिपादयेत्' (तै.सं. 2.2.2) इत्यस्य पुरोनुवाक्या)+++
 
-<div class="js_include" url="/devaH/hindukaH/agniH/Rk/agne_naya_supathA/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
+<details open><summary><h3>०१ अग्ने नय ...{Loading}...</h3></summary>
+
+अग्ने॒ नय॑ सु॒पथा॑ रा॒ये अ॒स्मान्  
+विश्वा॑नि देव व॒युना॑नि+++(=ज्ञानानि)+++ वि॒द्वान् ।  
+यु॒यो॒ध्य्+++(=अपनय)++++अ॑स्मज्-जुहुरा॒णम् एनो॒  
+भूयि॑ष्ठान् ते॒ नम॑उक्तिव्ँ विधेम ॥
+
+</details>
+</div>  
 
 ____
 +++(याज्या)+++  
@@ -86,7 +95,17 @@ ____
 ____
 +++(तत्रैव याज्या)+++  
 
-<div class="js_include" url="/devaH/hindukaH/agniH/Rk/agne_tvam_pAraya/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/02_agne_tvaM.md">
+<details open><summary><h2>०२ अग्ने त्वं ...{Loading}...</h2></summary>
+
+
+अग्ने॒ त्वं पा॑रया॒ नव्यो॑+++(=स्तोतव्यः/ नवः)+++ अ॒स्मान्त्  
+स्व॒स्तिभि॒र् अति॑ दु॒र्गाणि॒ विश्वा॑॑।  
+पूश्च॑+++(=पुरी[भूता])+++ पृ॒थ्वी ब॑हु॒ला न॑ उ॒र्वी  
+भवा॑ तो॒काय॒+++(=अपत्याय)+++ तन॑याय॒+++(=पौत्राय)+++ शं योः+++(=यापयिता /पृथक्कर्ता)+++॥
+
+</details>
+</div>  
 
 ____
 ## अहिताग्नाव् अव्रत्यमिव चरिते

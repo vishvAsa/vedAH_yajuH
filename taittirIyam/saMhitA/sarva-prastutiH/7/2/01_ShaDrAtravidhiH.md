@@ -20,11 +20,53 @@ title = "०१ षड्रात्रविधिः"
 पृ॒ष्ठैर् ए॒व ऋ॒र्तून् अ॒न्वारो॑हन्ति +ऋ॒तुभि॑स् सव्ँवथ्स॒रम् ।  
 ते स॑व्ँवथ्स॒र ए॒व प्रति॑ तिष्ठन्ति ।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
+<details open><summary><h3>बृहद्-रथन्तर-यानम् ...{Loading}...</h3></summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/2/01_ShaDrAtravidhiH/33-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+
++++(दिवसेषु एकान्तराभ्यां)+++ बृहद्रथन्त॒राभ्या᳚य्ँ यन्ति ।
+इ॒यव्ँ वाव र॑थन्त॒रम्, अ॒सौ बृ॒हत् +++(चास्ति)+++।  
+आ॒भ्यामे॒व य॒न्ति +++(प्रथमदिनयोः)+++ ।  
+
+अथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्ति ।  
+ए॒ते वै य॒ज्ञस्या᳚ञ्ज॒साय॑नी स्रु॒ती+++(=मार्गौ)+++ ।  
+ताभ्या॑म् ए॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
+<details open><summary><h3>९-१५-१७-विधानम् ...{Loading}...</h3></summary>
+
+
+त्रि॒वृद्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अ॑ग्निष्टो॒मो +++(यागो रथन्तरसामा)+++ भ॑वति +++("अग्न॒ आ या॑हि" इत्यादेस् त्र्यर्चस्य)+++ । तेज॑ ए॒वाव॑ रुन्धते ।  
+प॒ञ्च॒द॒शो +++(बृहत्सामा +उक्थ्यो?)+++ भ॑वति । इ॒न्द्रि॒यम् ए॒वाव॑ रुन्धते ।  
+स॒प्त॒द॒शो +++(वैरूपसामा +उक्थ्यो?)+++ भवति। [2] अ॒न्नाद्य॒स्याव॑रुद्ध्यै । अथो॒ प्रैव तेन॑ जायन्ते ।  
+
+<details><summary>Keith</summary>
+
+There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilliance.  
+There is a Pañcadaça (Stoma); verily he wins power.  
+There is a Saptadaça (Stoma), for the obtainment of food; verily also he gains offspring by reason of it.
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
+<details open><summary><h3>२१-२७ विधानम् ...{Loading}...</h3></summary>
+
+
+ए॒क॒वि॒ꣳ॒शो +++(वैराजसामा षोडशी यागः)+++ भ॑वति॒ प्रति॑ष्ठित्यै । अथो॒ रुच॑म् ए॒वात्मन् द॑धते ।  
+त्रि॒ण॒वो +++(शाक्वरसामा उक्थ्यः)+++ भ॑वति॒, विजि॑त्यै ।  
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/2/01_ShaDrAtravidhiH/33-vidhAnam.md">
+<details open><summary><h3>३३-विधानम् ...{Loading}...</h3></summary>
+
+
+त्र॒य॒स्त्रि॒ꣳ॒शो +++( रैवतसामा षष्ठम्)+++ भ॑वति, प्रति॑ष्ठित्यै ।
+
+</details>
+</div>  
 
 ## उपकरणविवेकः
 स॒दो॒-ह॒वि॒र्-धा॒निन॒ ए॒तेन॑ षड्रा॒त्रेण॑ यजेरन् ।  

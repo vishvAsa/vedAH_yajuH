@@ -15,10 +15,59 @@ title = "०२ सप्तरात्रविधिः"
 स॒प्त॒रा॒त्रो भ॑वति ।
 स॒प्त ग्रा॒म्याᳶ प॒शवः॑ +++(गोऽजाऽऽश्वाऽऽविक-पुरुष-गर्दभोष्ट्राः)+++ । स॒प्तार॒ण्याः +++(द्विखुर-श्वापद-पक्षि-सरीसृप-हस्ति-मर्कटादयः)+++। स॒प्त छन्दाꣳ॑सि +++(गायत्र्युष्णिगनुष्टुब्बृहतीपङ्क्तित्रिष्टुब्जगत्यः)+++। उ॒भय॒स्य +++(पशूनां छन्दसां च)+++ अव॑रुद्ध्यै ।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/25-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
+<details open><summary><h3>९-१५-१७-विधानम् ...{Loading}...</h3></summary>
+
+
+त्रि॒वृद्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अ॑ग्निष्टो॒मो +++(यागो रथन्तरसामा)+++ भ॑वति +++("अग्न॒ आ या॑हि" इत्यादेस् त्र्यर्चस्य)+++ । तेज॑ ए॒वाव॑ रुन्धते ।  
+प॒ञ्च॒द॒शो +++(बृहत्सामा +उक्थ्यो?)+++ भ॑वति । इ॒न्द्रि॒यम् ए॒वाव॑ रुन्धते ।  
+स॒प्त॒द॒शो +++(वैरूपसामा +उक्थ्यो?)+++ भवति। [2] अ॒न्नाद्य॒स्याव॑रुद्ध्यै । अथो॒ प्रैव तेन॑ जायन्ते ।  
+
+<details><summary>Keith</summary>
+
+There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilliance.  
+There is a Pañcadaça (Stoma); verily he wins power.  
+There is a Saptadaça (Stoma), for the obtainment of food; verily also he gains offspring by reason of it.
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
+<details open><summary><h3>२१-२७ विधानम् ...{Loading}...</h3></summary>
+
+
+ए॒क॒वि॒ꣳ॒शो +++(वैराजसामा षोडशी यागः)+++ भ॑वति॒ प्रति॑ष्ठित्यै । अथो॒ रुच॑म् ए॒वात्मन् द॑धते ।  
+त्रि॒ण॒वो +++(शाक्वरसामा उक्थ्यः)+++ भ॑वति॒, विजि॑त्यै ।  
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
+<details open><summary><h3>२५-विधानम् ...{Loading}...</h3></summary>
+
+
+##### वाक्यानि
+प॒ञ्च॒वि॒ꣳ॒शो᳚ ऽग्निष्टो॒मो +++(यागः)+++ भ॑वति॒ प्र॒जाप॑ते॒र् आप्त्यै॑ ।  
+म॒हा॒व्र॒त॒वा॑न् +++(=ये महाव्रतधर्माः 'स्तुवन्त्यनुश्नोकेन' इत्याद्याः तद्वान्)+++ अ॒न्नाद्य॑स्य अव॑रुद्ध्यै । +++(यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।)+++
+
+<details><summary>Keith</summary>
+
+There is an Agnistoma with the Pañcadaça (Stoma), for the gaining of Prajapati;  
+(it has) the characteristics of the Mahavrata, for the gaining of food.
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
+<details open><summary><h3>विश्वजित्-विधानम् ...{Loading}...</h3></summary>
+
+
+##### वाक्यानि
+वि॒श्व॒जिथ् +++(सहस्रदक्षिणत्वादिधर्मः)+++ सर्व॑पृष्ठो+++(=रथन्तर-बृहद्-वैरूप-वैराज-शाक्वर-रैवत-पृष्ठः)+++ ऽतिरा॒त्रो भ॑वति॒, सर्व॑स्या॒भिजि॑त्यै ॥ 
+
+<details><summary>Keith</summary>
+
+There is a Viçvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
+</details>
+</details>
+</div>  
 
 
 यत् प्र॒त्यख्ष॒म्+++(→अविकृतम्)+++ पूर्वे॒ष्व् अह॑स्सु पृ॒ष्ठान्य् उ॑पे॒युᳶ, प्र॒त्यख्ष॑व्ँ विश्व॒जिति -  

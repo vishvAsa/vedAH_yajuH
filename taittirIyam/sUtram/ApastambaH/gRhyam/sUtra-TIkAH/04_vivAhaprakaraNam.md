@@ -509,7 +509,16 @@ title = "०४ विवाहप्रकरणम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
 <details open=""><summary><h5>०७ आशासाना सौमनसम् ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/14/001/42_AshAsAnA_saumanasaM.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/14/001_vivAha-_prakaraNam/42_AshAsAnA_saumanasaM.md">
+<details open=""><summary><h7>४२ आशासाना सौमनसं ...{Loading}...</h7></summary>
+
+आ॒शासा॑ना सौमन॒सं  
+प्र॒जां सौभा॑ग्यं तनूम्।  
+अ॒ग्नेर् अनु॑व्रता भू॒त्वा +++(तिष्ठति)+++,  
++++(तां)+++ सं न॑ह्ये सुकृ॒ताय॒ कम् +++(पादपूरणे)+++।
+
+</details>
+</div>
 </details>
 </div>
 </details>
@@ -630,7 +639,16 @@ title = "०४ विवाहप्रकरणम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/02_somo-dadadgandharvAya_gandharvo-dadadagnaye.md">
 <details open=""><summary><h5>०२ सोमोऽददद्गन्धर्वाय गन्धर्वोऽदददग्नये ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH\Rk\shAkalam\saMhitA\vishvAsa-prastutiH\10\085\41_somo_dadadgandharvAya.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/41_somo_dadadgandharvAya.md">
+<details open=""><summary><h7>४१ सोमो ददद्गन्धर्वाय ...{Loading}...</h7></summary>
+
+सोमो॑ऽददद् गन्ध॒र्वाय॑  
+गन्ध॒र्वो ऽद॑दद् अ॒ग्नये॑ ।  
+र॒यिञ् च॑ पु॒त्राꣳश् चा॑दाद्  
+अ॒ग्निर् मह्य॒म् अथो॑ इ॒माम् ।  
+
+</details>
+</div>
 </details>
 </div>
 </details>
@@ -3067,7 +3085,17 @@ _____________
 
 ###### मन्त्रः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078/01_tena_bhUtena.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/01_tena_bhUtena.md">
+<details open=""><summary><h7>०१ तेन भूतेन ...{Loading}...</h7></summary>
+
+
+तेन॑ भू॒तेन॑ +++(हितेन)+++ ह॒विषा॒  
+ऽयम् आ प्या॑यतां॒ पुनः॑ ।  
+जा॒यां याम् अ॑स्मा॒ +++(मह्यं)+++ आवा॑क्षु॒स्+++(=आवहन्)+++  
+ताꣳ रसे॑ना॒भि व॑र्द्ध+++(य)+++ताम् ।+++(४)+++  
+
+</details>
+</div>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/07_abhivarddhatAm_payasA-bhi.md">
@@ -4576,6 +4604,10 @@ __________________
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/04_vivAhaprakaraNam/07_25_agniM_sviShTakRtam.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+
+
+
+having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 </details>
 </div>
 
