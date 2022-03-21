@@ -3,7 +3,6 @@ title: ब्रह्म-यज्ञः
 unicode_script: devanagari
 
 ---
-
 [तैत्तिरियारण्यके अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n145/mode/2up)।
 
 
@@ -32,7 +31,17 @@ unicode_script: devanagari
 दक्षिणोत्त॒रौ पा॒णी कृ॒त्वा सप॒वित्रा॒व्,  
 ओमिति॒ प्रति॑पद्यत - ए॒तद् वै यजु॑स्, त्रयीव्ँ वि॒द्यां प्रत्य् ए॒षा वाग्, ए॒तत् प॑र॒मम् अ॒क्षर॒न्, तद् ए॒तद् ऋ॒चा ऽभ्यु॑क्तम् -  
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/39_Rcho_axare.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/39_Rcho_axare.md">
+<details open><summary><h2>३९ ऋचो अक्षरे ...{Loading}...</h2></summary>
+
+
+ऋ॒चो अ॒क्षरे॑ पर॒मे व्यो॑म॒न्॒  
+यस्मि॑न्दे॒वा अधि॒ विश्वे॑ निषे॒दुः।  
+यस्तन्न वेद॒ किमृ॒चा क॑रिष्यति॒  
+य इत्तद्वि॒दुस् त इ॒मे समा॑सते॥
+
+</details>
+</div>
 
 इति।  
 
@@ -49,7 +58,18 @@ unicode_script: devanagari
 ### पर्यवसानम्
 स वा ए॒ष य॒ज्ञस्, स॒द्यः प्रता॑यते स॒द्यस् सन्ति॑ष्ठते। तस्य॒ प्राक् सा॒यम् अ॑वभृ॒थो -
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/02/namo_brahmaNe.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/02/namo_brahmaNe.md">
+<details open><summary><h3>नमो ब्रह्मणे ...{Loading}...</h3></summary>
+
+नमो॒ ब्रह्म॑णे॒+++(=वेदाय)+++, नमो॑ अस्त्व॒ग्नये॒  
+नमः॑ पृथि॒व्यै, नम॒ ओष॑धीभ्यः ।  
+नमो॑ वा॒चे, नमो॑ वा॒चस्पत॑ये॒,  
+नमो॒ विष्ण॑वे बृह॒ते क॑रोमि ॥  
++++(शतुरनुमो नद्यजादी ⇒ बृहन्महतोरुपसंख्यानम्। (वा॰) इति॑ बृहच्छ॒ब्दाद् अ॒नुमोऽजा॑दि॒र् विभ॑क्ति॒र् अस॑र्वनामस्थानम् उ॒दात्ता॑ भवति।)+++
+
+ॐ शान्तिः॒ शान्तिः॒ शान्तिः॒ ॥
+</details>
+</div>  
 
 ततो॒ यत् किञ् च॒ ददा॑ति॒ सा दक्षि॑णा । (16) ॥ 13 ।
 
@@ -77,4 +97,16 @@ unicode_script: devanagari
 
 तस्मा॑त् स्वाध्या॒यो ऽध्ये॑त॒व्यो॑ - यय्ँय॑ड्क्र॒तुमधी॑ते॒ तेन॑ तेनास्ये॒ष्टं भ॑वत्य्, अ॒ग्नेर्वा॒योरा॑दि॒त्यस्य॒ सायु॑ज्यङ्गच्छति॒ तदे॒षाऽभ्यु॑क्ता -
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/brAhmaNam/02/brAhmaNa-vandanam.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/brAhmaNam/02/brAhmaNa-vandanam.md">
+<details open><summary><h3>ये अर्वाङुत वा पुराणे ...{Loading}...</h3></summary>
+
+ये अ॒र्वाङु॒त वा॑ पुरा॒णे  
+वे॒दव्ँ वि॒द्वाँस॑म् अ॒भितो॑ वदन्त्य्,  
+आदि॒त्यम् ए॒व ते परि॑वदन्ति॒ सर्वे॑,  
+अ॒ग्निन् द्वि॒तीय॑न् तृ॒तीय॑ञ्च हँ॒सम्+++(→गमनशीलम् वायुम्)+++ इति॑।  
+
+याव॑ती॒र् वै दे॒वता॒स् - तास् सर्वा॑ वेद॒विदि॑ ब्राह्म॒णे व॑सन्ति।  
+तस्मा॑ ब्राह्म॒णेभ्यो॑ वेद॒-विद्भ्यो॑ दि॒वे-दि॑वे॒ नम॑स्-कुर्या॒त्।  
+नाश्ली॒लङ् की॑र्तयेत्। ए॒ता ए॒व दे॒वताः॑ प्रीणाति ।
+</details>
+</div>

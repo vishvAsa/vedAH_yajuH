@@ -5,8 +5,15 @@ title: सन्ध्यावन्दनम्
 unicode_script: devanagari
 
 ---
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/08_sandhyoshcha_bahirgrAmAdAsanaM_vAgyatashcha.md">
+<details open><summary><h4>08 सन्ध्योश्च बहिर्ग्रामादासनं वाग्यतश्च ...{Loading}...</h4></summary>
 
-<div class="js_include " url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/08_sandhyoshcha_bahirgrAmAdAsanaM_vAgyatashcha.md"  newLevelForH1="4"  > </div>
-   
-<div class="js_include " url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/09_vipratiShedhe_shrutilaxaNam_balIyaH.md"  newLevelForH1="4"  > </div>
-  
+संध्योश्च बहिर्ग्रामादासनं वाग्यतश्च ८
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/09_vipratiShedhe_shrutilaxaNam_balIyaH.md">
+<details open><summary><h4>09 विप्रतिषेधे श्रुतिलक्षणम् बलीयः ...{Loading}...</h4></summary>
+
+विप्रतिषेधे श्रुतिलक्षणं बलीयः ९
+</details>
+</div>

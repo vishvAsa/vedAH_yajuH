@@ -1,6 +1,7 @@
 +++
 title = "+०५ तैत्तिरीयोपनिषत्"
 unicode_script = "devanagari"
+
 +++
 
 ## प्रवेशः
@@ -8,7 +9,7 @@ unicode_script = "devanagari"
 तैत्तिरीयोपनिषत् २, वारुण्युपनिषत् १, ब्रह्मानन्दवल्ली  
 तैत्तिरीयोपनिषत् ३, वारुण्युपनिषत् २, भृगुवल्ली  
 
-<div class="js_include" url="01_shanno_mitraH_prArambhe.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="01_shanno_mitraH_prArambhe.md"></div>  
 
 
 ## शिक्षा
@@ -49,7 +50,21 @@ unicode_script = "devanagari"
 य एवम् एता महासꣳहिता व्याख्या॑ता वे॒द, सन्धीयते प्रज॑या प॒शुभिः,, ब्रह्मवर्चसेनान्नाद्येन सुवर्ग्येण॑ लोके॒न ॥ (6)
 
 ## प्रकीर्णम्
-<div class="js_include" url="/devaH/hindukaH/indraH/Rk/yash_ChandasAm/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/hindukaH/indraH/Rk/yash_ChandasAm/">
+<details open><summary><h2>यश्छन्दसाम् ...{Loading}...</h2></summary>
+
+यश् छन्द॑साम् ऋष॒भो वि॒श्वरू॑पः।  
+छन्दो॒भ्यो ऽध्य॒मृता॑थ् संब॒भूव॑।  
+स मेन्द्रो॑ मे॒धया॑ स्पृणोतु।  
+अ॒मृत॑स्य देव॒धार॑णो भूयासम्।  
+शरी॑रं मे॒ विच॑र्षणम्।  
+जि॒ह्वा मे॒ मधु॑मत्तमा।  
+कर्णा॑भ्यां॒ भूरि॒विश्रु॑वम्।  
+ब्रह्म॑णः को॒शो॑ऽसि मे॒धया पि॑हितः।  
+श्रु॒तं मे॑ गोपाय।  
+ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥
+</details>
+</div>  
 
 आ॒वह॑न्ती वितन्वा॒ना,,  
 कु॒र्वा॒णा चीर॑म् आ॒त्मनः॑ ।  
@@ -170,12 +185,9 @@ unicode_script = "devanagari"
 इति त्रिशङ्कोर् वेदा॑नुव॒चनम् । (17)
 
 
-<div class="js_include" url="18-21_veda-sAraH/"  newLevelForH1="2" includeTitle="true"> </div>  
-
-
-<div class="js_include" url="22_shanno_mitraH_samApanam.md"  newLevelForH1="2" includeTitle="true"> </div>  
-
-<div class="js_include" url="23_sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="18-21_veda-sAraH/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="22_shanno_mitraH_samApanam.md"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="23_sahanAvavatu/"></div>  
 
 ## ब्रह्मविद् आप्नोति
 ब्र॒ह्म॒विदा᳚प्नोति॒ पर᳚म् ।  

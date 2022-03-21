@@ -1,6 +1,7 @@
 +++
 title = "+०६ महानारायणोपनिषत्"
 unicode_script = "devanagari"
+
 +++
 
 ## 1.1
@@ -60,19 +61,54 @@ unicode_script = "devanagari"
 महादे॒वस्य॑ धीमहि ।  
 तन्नो॑ रुद्रः प्रचो॒दयात् ।  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//tatpuruShAya_vidmahe_rudraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//tatpuruShAya_vidmahe_rudraH.md">
+<details open><summary><h2>तत्पुरुषाय विद्महे - रुद्रः ...{Loading}...</h2></summary>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//dantiH_prachodayAt.md"  newLevelForH1="2" includeTitle="false"> </div>  
+तत्पुरु॑षाय  वि॒द्महे॑  
+महादे॒वाय॑ धीमहि ।  
+तन्नो॑ रुद्रः प्रचो॒दयात् । 
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//dantiH_prachodayAt.md">
+<details open><summary><h2>दन्तिः प्रचोदयात् ...{Loading}...</h2></summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//garuDaH_prachodayAt.md"  newLevelForH1="2" includeTitle="false"> </div>   
+तत्पुरु॑षाय वि॒द्महे॑  
+वक्रतु॒ण्डाय॑ धीमहि ।  
+तन्नो॑ दन्तिः  प्रचो॒दयात् । 
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//garuDaH_prachodayAt.md">
+<details open><summary><h2>गरुडः प्रचोदयात् ...{Loading}...</h2></summary>
+
+
+तत् पुरु॑षाय वि॒द्महे॑  
+सुवर्ण-प॒ख्षाय॑ धीमहि । (5)  
+तन् नो॑ गरुडः प्रचो॒दयात् । 
+</details>
+</div>   
 
 
 ## 1.6
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//kAtyAyanAya_vidmahe.md"  newLevelForH1="2" includeTitle="false"> </div>   
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//kAtyAyanAya_vidmahe.md">
+<details open><summary><h2>कात्यायनाय विद्महे ...{Loading}...</h2></summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//nArAyaNAya_vidmahe.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+का॒त्या॒य॒नाय॑ वि॒द्महे॑  
+कन्यकु॒मारि॑ धीमहि ।  
+तन्नो॑ दुर्गिः प्रचो॒दयात् ।
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//nArAyaNAya_vidmahe.md">
+<details open><summary><h2>नारायणाय विद्महे ...{Loading}...</h2></summary>
+
+
+ना॒रा॒य॒णाय॑ वि॒द्महे॑  
+वासुदे॒वाय॑ धीमहि ।  
+तन्नो॑ विष्णुः प्रचो॒दयात् । 
+</details>
+</div>  
 
 
 
@@ -170,14 +206,35 @@ unicode_script = "devanagari"
 र॒जो भूमि॑स् त्व॒मा रोद॑यस्व॒ प्रव॑दन्ति॒ धीराः ।  
 पु॒नन्तु॒ ऋष॑यः। पु॒नन्तु॒ वस॑वः। पु॒नातु॒ वरु॑णः। पु॒नात्व् अ॑घमर्ष॒णः । 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/097/40_akrAntsamudraH_prathame.md"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/097/40_akrAntsamudraH_prathame.md">
+<details open><summary><h3>४० अक्रान्त्समुद्रः प्रथमे ...{Loading}...</h3></summary>
+
+
+ऋग्वेदः  ९.९७.४०  
+ऋषिः  वासिष्ठ-शक्तिपुत्रः पराशरः  
+देवता  पवमानः सोमः  
+छन्दः  त्रिष्टुप्  
+सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart4/rv_sayanabhasya_part4#page/n323/mode/2up&sa=D&ust=1542425956308000), [अत्र](http://rigveda.sanatana.in/describe/rikMandala/009.097.040) च। भास्करस्य ब्रह्मपरार्थद्वयम् [अत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_02#page/n100/mode/1up)। अस्य स्नाने विनियोगो [ऽत्र](../../../misc-devas/yajuH/snAnam/)।
+
+अक्रा॑न्+++(=अतिक्रामति)+++ त्समु॒द्रः+++(=सम् + उन्द क्लेदने + रा + क)+++ प्र॑थ॒मे विध॑र्मञ् +++(=विधाराः)+++  
+ज॒नय॑न् प्र॒जा+++(ः)+++, भुव॑नस्य॒ राजा॑ +++(गोपाः इति साम्नि)+++ ।  
+वृषा॑ प॒वित्रे॒ अधि॒ सानो॒ +++(=समुच्छ्रिते)+++ अव्ये॑  
+बृ॒हत् सोमो॑ वावृधे सुवा॒न इन्दुः॑ +++(=अद्रिः इति साम्नि?)+++ ४०
+
+अ꣡क्रा꣢न्त्समु꣣द्रः꣡ प्र꣢थ꣣मे꣡ वि꣢꣫धर्म꣣न्  
+ज꣡न꣢य꣣न्प्र꣡जा भु꣢꣯वनस्य꣣ गो꣢पाः।  
+वृ꣡षा꣢ प꣣वि꣢त्रे꣣ अ꣢धि꣣ सा꣢नो꣣  
+अ꣡व्ये꣢ बृ꣣ह꣡त्सोमो꣢꣯ वावृधे स्वा꣣नो꣡ अद्रिः꣢꣯ ॥1 ॥
+
+</details>
+</div> 
 
 
 
 ## 1.11
 
 
-<div class="js_include" url="11_jAtavedase_sunavAma_taittirIyam/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="11_jAtavedase_sunavAma_taittirIyam/"></div>  
 
 
 ## 2.1
@@ -259,7 +316,52 @@ unicode_script = "devanagari"
 
 
 ## 11.1
-<div class="js_include" url="/devaH/hindukaH/brahma/Rk/sahasra-shIrSham/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/devaH/hindukaH/brahma/Rk/sahasra-shIrSham/">
+<details open><summary><h2>सहस्रशीर्षं देवं ...{Loading}...</h2></summary>
+
+आन्ध्रपाठे- (१०.१३.१ १०.१३.२)
+
+### विश्वोपजीव्यता
+स॒ह॒स्र॒शीर्॑षं दे॒वं॒ वि॒श्वाक्षं॑ वि॒श्वश॑म्भुवं ।  
+विश्वं॑ ना॒राय॑णं दे॒व॒म॒क्षरं॑ पर॒मं प॒दम् ।  
+वि॒श्वतः॒ पर॑मान्नि॒त्यं॒ वि॒श्वं ना॑राय॒णꣳ ह॑रिम् ।  
+विश्व॑मे॒वेदं पुरु॑ष॒स् *तद् वि॒श्वमुप॑जीवति* ।  
+पतिं॒ विश्व॑स्या॒त्मेश्व॑र॒ꣳ॒ शाश्व॑तꣳ शि॒वम॑च्युतम् ।  
+ना॒राय॒णं म॑हाज्ञे॒यं॒ वि॒श्वात्मा॑नं प॒राय॑णम् ।  
+
+ना॒राय॒णप॑रो ज्यो॒ति॒रा॒त्मा ना॑राय॒णः प॑रः ।  
+ना॒राय॒ण प॑रं ब्र॒ह्म॒ त॒त्वं ना॑राय॒णः प॑रः ।  
+ना॒राय॒णप॑रो ध्या॒ता॒ ध्या॒नम् ना॑राय॒णः प॑रः ।  
+यच्च॑ कि॒ञ्चिज्ज॑गत्स॒र्वं॒ दृ॒श्यते॑ श्रूय॒तेऽपि॑ वा ॥
+अन्त॑र्ब॒हिश्च॑ तत्स॒र्वं॒ व्या॒प्य ना॑राय॒णः स्थि॑तः ।  
+
+अन॑न्त॒मव्य॑यं क॒विꣳ स॑मु॒द्रेऽन्तं॑ वि॒श्वश॑म्भुवम् ।  
+प॒द्म॒को॒श प्र॑तीका॒श॒ꣳ॒ हृ॒दयं॑ चाप्य॒धोमु॑खम् ।  
+अधो॑ नि॒ष्ट्या वि॑तस्या॒न्ते॒ ना॒भ्यामु॑परि॒ तिष्ठ॑ति ।  
+ज्वा॒ल॒मा॒लाकु॑लं भा॒ति॒ वि॒श्वस्या॑यत॒नं म॑हत् ।  
+सन्त॑तꣳ शि॒लाभि॑स् तु॒ लम्ब॑त्य् आकोश॒सन्नि॑भम् ।+++(यतिस्थाने व्यत्ययः।)+++  
+
+तस्यान्ते॑ सुषि॒रꣳ सू॒क्ष्मं तस्मि॑न् स॒र्वं प्रति॑ष्ठितम् ।  
+तस्य॒ मध्ये॑ म॒हन॑गग्निर्वि॒श्वार्चि॑र्वि॒श्वतो॑मुखः ।  
+सोऽग्र॑भु॒ग् विभ॑जन् ति॒ष्ठ॒न्न् आहा॑रमज॒रः क॒विः ।  
+ति॒र्य॒गू॒र्ध्वम॑धश्शा॒यी॒ र॒श्मय॑स् तस्य॒ सन्त॑ता ।  
+स॒न्ता॒पय॑ति स्वं दे॒हम् आपा॑दतल॒मस्त॑कः ।  
+
+तस्य॒ मध्ये॒ वह्नि॑शिखा अ॒णीयो॑र्ध्वा व्य॒वस्थि॑तः ।  
+नी॒लतो॑यद॑मध्य॒स्था॒द् वि॒द्युल्ले॑खेव॒ भास्व॑रा ।  
+नी॒वार॒शूक॑वत्त॒न्वी॒ पी॒ता भा॑स्वत्य॒णूप॑मा ।  
+तस्याः॑ शिखा॒या म॑ध्ये प॒रमा॑त्मा व्य॒वस्थि॑तः ।  
+स ब्रह्म॒ स शिवः॒ स हरिः॒ सेन्द्रः॒ सोऽक्ष॑रः पर॒मः स्व॒राट् ॥
+
+ऋ॒तꣳ स॒त्यं प॑रं ब्र॒ह्म॒ पु॒रुषं॑ कृष्ण॒पिङ्ग॑लम् ।  
+ऊ॒र्ध्वरे॑तं वि॑रूपा॒क्षं॒ वि॒श्वरू॑पाय॒ वै नमो॒ नमः॑ ।  
+
+### द्राविडपाठः
+स॒ह॒स्र॒शीर्॑षन्दे॒व॒व्विँ॒श्वाक्ष॑व्विँ॒श्वशं॑भुवम् । विश्व॑न्ना॒राय॑णन्दे॒व॒म॒ख्षरं॑ पर॒मं प्र॒भुम् । वि॒श्वतः॒ पर॑मन्नि॒त्य॒व्विँ॒श्वन्ना॑राय॒ण ह॑रिम् । विश्व॑मे॒वेदं पुरु॑ष॒स्तद्विश्व॒मुप॑जीवति । पति॒व्विँश्व॑स्या॒त्मेश्व॑र॒॒ शाश्व॑त शि॒वम॑च्युतम् । ना॒राय॒णं म॑हाज्ञे॒य॒व्विँ॒श्वात्मा॑नं प॒राय॑णम् । ना॒राय॒णप॑रं ब्र॒ह्म॒ त॒त्वन्ना॑राय॒णः प॑रः । ना॒राय॒णप॑रो ज्यो॒ति॒रा॒त्मा ना॑राय॒णः प॑रः । यच्च॑ कि॒ञ्चिज्ज॑गत्य॒स्मि॒न्दृ॒श्यते श्रूय॒तेऽपि॑ वा । अन्त॑र्ब॒हिश्च॑ तथ्स॒र्व॒व्ँव्या॒प्य ना॑राय॒णस्स्थि॑तः । (25)
+
+अन॑न्त॒मव्य॑यङ्क॒वि स॑मु॒द्रेन्त॑व्विँ॒श्वशं॑भुवम् । प॒द्म॒को॒शप्र॑तीका॒श॒॒ हृ॒दय॑ञ्चाप्य॒धोमु॑खम् । अधो॑ नि॒ष्ट्या वि॑तस्त्या॒न्तु॒ ना॒भ्यामु॑परि॒ तिष्ठ॑ति । हृ॒दय॑न्तद्वि॑जानी॒या॒द्वि॒श्वस्या॑यत॒नं म॑हत् । सन्त॑त सि॒राभि॑स्तु॒ लंब॑त्याकोश॒सन्नि॑भम् । तस्यान्ते॑ सुषि॒र सू॒क्ष्मं तस्मिन्थ्स॒र्वं प्रति॑ष्ठितम् । तस्य॒ मद्ध्ये॑ म॒हान॑ग्निर्वि॒श्वार्चि॑र्वि॒श्वतो॑मुखः । सोऽग्र॑भु॒ग्विभ॑जन्ति॒ष्ठ॒न्नाहा॑रमज॒रः क॒विः । स॒न्ता॒पय॑ति स्वन्दे॒हमापा॑दतल॒मस्त॑कम् । तस्य॒ मद्ध्ये॒ वह्नि॑शिखा अ॒णीयोर्द्ध्वा व्य॒वस्थि॑तः । नी॒लतो॑यद॑मद्ध्य॒स्था॒ वि॒द्युल्ले॑खेव॒ भास्व॑रा । नी॒वार॒शूक॑वत्त॒न्वी॒ पी॒ताभास्यात्त॒नूप॑मा । तस्याश्शिखा॒या म॑द्ध्ये प॒रमात्मा व्य॒वस्थि॑तः । स ब्रह्मा॒ स शिव॒स्सेन्द्र॒स्सोऽक्ष॑रः पर॒मस्स्व॒राट् ।। (26)
+</details>
+</div>  
 
 
 ## 12.1
@@ -322,7 +424,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="js_include" url="22_Apo_vA_idam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="22_Apo_vA_idam/"></div>  
 
 
 
@@ -334,23 +436,66 @@ unicode_script = "devanagari"
 
 ## 24.1
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/06/24_agnish_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/24_agnish_cha/">
+<details open><summary><h2>२४ अग्निश् च ...{Loading}...</h2></summary>
+
+
+अग्निश्च मा मन्युश्च मन्युपतयश्च मन्यु॑कृते॒भ्यः।  
+पापेभ्यो॑ रक्ष॒न्ताम् ।  
+
+यद् अह्ना पाप॑म् अका॒र्षम् ।  
+मनसा वाचा॑ हस्ता॒भ्याम् ।  
+पद्भ्याम् उदरे॑ण शि॒श्ना ।  
+अह॒स् तद् अ॑वलु॒म्पतु ।
+
+यत्किञ् च॑ दुरि॒तं मयि॑ ।  
+इदम् अहं माम् अमृ॑त-यो॒नौ ।  
+सत्ये ज्योतिषि जुहो॑मि स्वा॒हा । 
+</details>
+</div>  
 
 
 ## 25.1
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/06/25_sUryash_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/25_sUryash_cha/">
+<details open><summary><h2>२५ सूर्यश् च ...{Loading}...</h2></summary>
+
+
+
+सूर्यश्च मा मन्युश्च मन्युपतयश्च मन्यु॑कृते॒भ्यः।  
+पापेभ्यो॑ रक्ष॒न्ताम् ।  
+
+यद् रात्रिया पाप॑म् अका॒र्षम्।  
+मनसा वाचा॑ हस्ता॒भ्याम् ।  
+पद्भ्याम् उदरे॑ण शि॒श्ना ।  
+रात्रि॒स् तद् अ॑वलु॒म्पतु । 
+
+यत् किञ्च॑ दुरि॒तं मयि॑ ।  
+इदम् अहं माम् अमृ॑तयो॒नौ ।  
+सूर्ये ज्योतिषि जुहो॑मि स्वा॒हा । (40)
+</details>
+</div>  
 
 
 ## 26.1
 
-<div class="js_include" url="26_AyAtu_varadA/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="26_AyAtu_varadA/"></div>  
 
 
 
 ## 27.1
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/prAchInA_prastutiH/03/aMshAHtat_savitur.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<details open><summary><h2>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h2></summary>
+
+तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  
++++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
+धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+
++++(सवित्राभ्यनुज्ञातो हि सर्वोपि कर्म करोति। सविता वै प्रसवानामीशे इति ब्राह्मणम् ॥  ऋचस्सामानि यजूंषि । सा हि श्रीरमृता सताम् । सर्वेभ्यो वै वेदेभ्यः सावित्र्यनूच्यते इति च ब्राह्मणम् ।)+++
+
+</details>
+</div>  
 
 ## 28.1
 
@@ -366,7 +511,7 @@ unicode_script = "devanagari"
 
 ## 30.1
 
-<div class="js_include" url="30_uttame_shikhare"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="30_uttame_shikhare"></div>  
 
 
 
@@ -382,7 +527,49 @@ unicode_script = "devanagari"
 
 
 ## 32.1
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/06/32-36_prANe_niviShTaH"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/32-36_prANe_niviShTaH">
+<details open><summary><h2>३४-३६ प्राणे निविष्टोऽहम् ...{Loading}...</h2></summary>
+
+### आन्ध्रपाठः
+अ॒मृ॒तो॒प॒स्तर॑णमसि । (47)
+
+
+- प्रा॒णे निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । प्रा॒णाय॒ स्वाहा॑ ।  
+- अ॒पा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । अ॒पा॒नाय॒ स्वाहा॑ ।  
+- व्या॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । व्यानाय॒ स्वाहा॑ । 
+- उ॒दा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । उ॒दा॒नाय॒ स्वाहा॑ । 
+- स॒मा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । स॒मा॒नाय॒ स्वाहा॑ । 
+- ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । 
+- अ॒मृ॒ता॒पि॒धा॒नम॑सि ।
+
+
+- श्र॒द्धायां॑ प्रा॒णे निवि॑श्या॒मृतꣳ॑ हु॒तम्, प्रा॒णम् अन्ने॑नाप्यायस्व । 
+- अ॒पा॒ने निवि॑श्या॒मृतꣳ॑ हु॒तम्, अ॑पा॒नम् अन्ने॑नाप्यायस्व । 
+- व्या॒ने निवि॑श्या॒मृतꣳ॑ हु॒तव्ँ, व्या॒नम् अन्ने॑नाप्यायस्व । 
+- उ॒दा॒ने निवि॑श्या॒मृतꣳ॑ हु॒तम्, उ॑दा॒नम् अन्ने॑नाप्यायस्व । 
+- स॒मा॒ने निवि॑श्या॒मृतꣳ॑ हु॒तꣳ, स॑मा॒नम् अन्ने॑नाप्यायस्व ।  
+- ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (51)
+
+### द्राविडपाठः
+अ॒मृ॒तो॒प॒स्तर॑णमसि । (47)
+
+प्रा॒णे निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । प्रा॒णाय॒ स्वाहा᳚ ।  
+अ॒पा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । अ॒पा॒नाय॒ स्वाहा᳚ ।  
+व्या॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । व्यानाय॒ स्वाहा᳚ ।  
+उ॒दा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । उ॒दा॒नाय॒ स्वाहा᳚ ।  
+स॒मा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । स॒मा॒नाय॒ स्वाहा᳚ ।  
+ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (48)
+
+प्रा॒णे निवि॑ष्टो॒ ऽमृत॑ञ्जुहोमि। शि॒वो मा॑ वि॒शा। प्र॑दाहाय प्रा॒णाय॒ स्वाहा᳚ ।  
+अ॒पा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि। शि॒वो मा॑ वि॒शा। प्र॑दाहायापा॒नाय॒ स्वाहा᳚ ।  
+व्या॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि। शि॒वो मा॑ वि॒शा। प्र॑दाहाय व्या॒नाय॒ स्वाहा᳚ ।  
+उ॒दा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि। शि॒वो मा॑ वि॒शा। प्र॑दाहायोदा॒नाय॒ स्वाहा᳚ ।  
+स॒मा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि। शि॒वो मा॑ वि॒शा। प्र॑दाहाय समा॒नाय॒ स्वाहा᳚ ।  
+ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (49)
+
+अ॒मृ॒ता॒पि॒धा॒नम॑सि । (50)
+</details>
+</div>  
 
 
 
@@ -400,35 +587,154 @@ unicode_script = "devanagari"
 
 ## 39.1
 
-<div class="js_include" url="39_medhA_devI/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="39_medhA_devI/"></div>  
 
 ## 43.1
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/06/43_sadyojAtam_prapadyAmi"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/43_sadyojAtam_prapadyAmi">
+<details open><summary><h2>४३ सद्योजातम् प्रपद्यामि ...{Loading}...</h2></summary>
+
+
+स॒द्योजा॒तं प्र॑पद्या॒मि॒  
+स॒द्योजा॒ताय॒ वै नमः॑ ।  
+भ॒वेभ॑वे॒ नाति॑भवे  
+भजस्व॒ मां भ॒वोद्भ॑वाय॒ नमः॑ । (58)  
++++(भवोद्भवेत्य् अन्तिमपादस्य साध्वन्ते सति। "भवोद्भवाय नम" इति कर्षणं रुचिरम्। भवोद्भवसुब्रह्मण्यपरम् अपीयम् इति केचित्।)+++
+
+### पाठान्तराणि
+लिङ्गपुराणादाव् एवम् एव तैत्तिरीयारण्यकवद् दृश्यते।
+क्वचित्तु "भवस्व" इत्यपि दृश्यते - तदयुक्ततमम् भाति।
+
+#### निःश्वासे
+सद्योजातं प्रपद्यामि  
+सद्योजाताय वै नमः ।  
+भवेनाति भवे भजस्व  
+मां भवोद्भवाय नमः ।
+
+सद्योजातं प्रपद्यामि  
+सद्योजाताय वै नमः ।  
+भवे ऽभवेनादिभवे  
+भजस्व मां भवोद्भवाय नमः ॥
+
+ॐ सद्योजातं प्रपद्यामि नमः । ॐ सद्योजाताय वै नमः ।  
+ॐ भवे नमः । ॐ अभवे नमः । ॐ अनादि भवे नमः ।  
+ॐ भजस्व मान्नमः । ॐ भव नमः । ॐ उद्भवाय नमः ।
+
+#### कौलावलीनिर्ण्यये
+सद्योजातं प्रपद्यामि सद्योजाताय वै नमः ।  
+भवेऽभवेऽनादिभवे भजस्व मां भवोद्भवाय नमः ॥
+</details>
+</div>  
 
 
 
 ## 44.1
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/06/44_vAmadevAya_namaH"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/44_vAmadevAya_namaH">
+<details open><summary><h2>४४ वामदेवाय नमः ...{Loading}...</h2></summary>
+
+
+
+वा॒म॒दे॒वाय॒ नमो᳚  
+ज्ये॒ष्ठाय॒ नमो॑  
+रु॒द्राय॒ नमः॒  
+काला॑य॒ नमः॒  
+कल॑विकरणाय॒ नमो॒  
+बल॑विकरणाय॒ नमो॒  
+बल॑प्रमथनाय॒ नम॒स्  
+सर्व॑भूतदमनाय॒ नमो॑  
+म॒नोन्म॑नाय॒ नमः॑ । (59)
+
+
+</details>
+</div>  
 
 
 
 ## 45.1
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/06/45_aghorebhyo_atha"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/45_aghorebhyo_atha">
+<details open><summary><h2>४५ अघोरेभ्यो ऽथ ...{Loading}...</h2></summary>
+
+अ॒घोरे᳚भ्योऽथ॒ घोरे᳚भ्यो॒  
+घोर॒ घोर॑तरेभ्यः ।+++(एकाक्षरनैयून्यम्।)+++   
+स॒र्वतः॑ शर्व॒! सर्वे᳚भ्यो॒  
+नम॑स् ते अस्तु रु॒द्ररू॑पेभ्यः +++(द्व्यक्षराधिक्यम्।)+++॥
+
++++(इत्यस्य मन्त्रस्य तैत्तिरीयक-द्राविड-पाठः। आरण्यकस्वरा दत्ताः।)+++
+
+### परिचयः
+- बहुरूपीत्युच्यते।
+- नानासंहितासु नानारूपैर् दृश्यते। 
+- "bahurUpI was archaic but popular para-vedic mantra used outside of core saMhitA ritual, likely among the earliest shaiva-s. It was incorporated once, relatively late into the saMhitA of the maitrAyaNIya-s in the context of the raudra shrauta rituals and independently into mahAnArAyaNopaniShat traditions. In that later class of traditions, it was likely an independent transfer from the shaiva traditions (by now early pAshupata). The mantramArga inherited from pAshupata where it was already polymorphic with saiddhAntika-s and dakShiNa-s inheriting alternative variants." 
+
+#### रूपान्तराणि
+याज्ञिय्-उपनिषदि द्राविडपाठवत्।
+
+##### आन्ध्रपाठे तैत्तिरीयारण्यकस्य
+अ॒घोरे᳚भ्योऽथ॒ घोरे᳚भ्यो॒  
+घोर॒ घोर॑तरेभ्यः ।  
+सर्वे᳚भ्यस् सर्व॒ शर्वे᳚भ्यो॒  
+नम॑स्ते अस्तु रु॒द्ररू॑पेभ्यः ॥ 
+
+##### अथर्ववेद-महानारायणोपनिषदि
+अघोरेभ्योऽथ घोरेभ्यो  
+घोर घोरतरेभ्यः ।  
+सर्वतः शर्व सर्वशर्वेभ्यो  
+नमस्ते अस्तु रुद्ररूपेभ्यः ॥
+
++++(क्वचित् सर्वसर्वेभ्य इति पाठः।)+++
+
+##### पाशुपतसूत्रेषु मेरुतन्त्रे कामरन्ततन्त्रे कालोत्तरे
+अघोरेभ्योऽथ घोरेभ्यो घोरघोरतरेभ्यः ।  
+सर्वतः सर्वशर्वेभ्यो नमस्तेऽस्तु रुद्ररूपेभ्यः ॥
+
+##### निःश्वासकारिकायाम् हहारवतन्त्रे
+अघोरेभ्योऽथ घोरेभ्यो घोरघोरतरेभ्यः।  
+सर्वतस् सर्वसर्वेभ्यो नमस्तेऽस्तु रुद्ररूपेभ्यः ।
+
+एवं यामुनाचार्यकृत आगमप्रामाण्ये ऽपि!
+
+##### लिङ्गपुराणे
+अघोरेभ्योऽथ घोरेभ्यो  
+घोरघोरतरेभ्यः।  
+शर्वेभ्यः सर्वशर्वेभ्यो  
+नमस्ते अस्तु रुद्ररूपेभ्यः  ॥ २,२६.६ ॥  
+
+
+##### मैत्रायणीय-संहितायाम्
+अघोरेभ्यो अथ घोरेभ्यो  
+अघोर-घोरतरेभ्यश् च ।  
+सर्वतः शर्वशर्वेभ्यो  
+नमस् ते रुद्र रूपेभ्यो नमः ॥  
+
+##### पश्चिमाम्नायसम्प्रदाये
+Used to invoke the bhairavI (as the shakti of navAtman bhairava), followed by the vyomavyApin & aghorAstra
+
+ॐ अघोरे-ऐम् अथ घोरे-ह्रीं घोरघोरतरे-श्रीं सर्वतः सर्वशर्वे-फ्रें रुद्ररूपे-ह्स्फ्रें नमस् ते ॥
+
+</details>
+</div>  
 
 
 
 ## 46.1
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//tatpuruShAya_vidmahe_rudraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/Rk/06//tatpuruShAya_vidmahe_rudraH.md">
+<details open><summary><h2>तत्पुरुषाय विद्महे - रुद्रः ...{Loading}...</h2></summary>
+
+
+तत्पुरु॑षाय  वि॒द्महे॑  
+महादे॒वाय॑ धीमहि ।  
+तन्नो॑ रुद्रः प्रचो॒दयात् । 
+</details>
+</div>  
 
 
 
 ## 47.1
 
-<div class="js_include" url="47_IshAnas_sarvabhUtAnAm"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="47_IshAnas_sarvabhUtAnAm"></div>  
 
 
 

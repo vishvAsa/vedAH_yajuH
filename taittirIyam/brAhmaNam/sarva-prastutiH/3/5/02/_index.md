@@ -1,13 +1,12 @@
 +++
 title = "+०२ पुण्यनक्षत्रम्"
 unicode_script = "devanagari"
+
 +++
 
-<div class="js_include" url="yat_puNyam/"  newLevelForH1="2" includeTitle="true"> </div>  
-
-<div class="js_include" url="naxatriya-prajApatiH/"  newLevelForH1="2" includeTitle="true"> </div>  
-
-<div class="js_include" url="puNya-naxatram/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="yat_puNyam/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="naxatriya-prajApatiH/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="puNya-naxatram/"></div>  
 
 
 ## विस्वरपाठः

@@ -1,18 +1,48 @@
 +++
 title = "जातवेदसे सुनवाम (तैत्तिरीयकम्)"
 unicode_script = "devanagari"
+
 +++
 
 टीका [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n361/mode/2up)।
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099_jAtavedase"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099_jAtavedase">
+<details open><summary><h2>०९९ जातवेदसे ...{Loading}...</h2></summary>
+
+
++++(एकैव ऋग् अत्र।)+++
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099/01_jAtavedase_sunavAma.md">
+<details open=""><summary><h4>०१ जातवेदसे सुनवाम ...{Loading}...</h4></summary>
+
+
+
+जा॒तवे॑द से+++(=जातज्ञानाय)+++ सुनवाम॒ सोम॑म्  
+अरातीय॒तो+++(=शत्रुकामाय)+++ निद॑हाति॒ वेदः॑+++(=वेत्तीति)+++।  
+स नः॑ पर्ष॒द्+++(=अपारयत्)+++ अति॑ दु॒र्गाणि॒ विश्वा॑  
+ना॒वेव॒ सिन्धुं॑ दुरि॒ताऽत्य॒ग्निः॥
+
+</details>
+</div>
+</details>
+</div>  
 
 ताम् अ॒ग्निव॑र्णां॒ तप॑सा ज्वल॒न्तीं  
 वै॑रोच॒नीं क॑र्मफ॒लेषु॒ जुष्टा॑॑म्।  
 दु॒र्गां दे॒वीꣳ शर॑णम् अ॒हं प्रप॑द्ये  
 सु॒तर॑सि+++(=सुतारयित्रि!)+++ तरसे॒+++(=तारयित्र्यै)+++ नमः॑॥
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/02_agne_tvaM.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/02_agne_tvaM.md">
+<details open><summary><h2>०२ अग्ने त्वं ...{Loading}...</h2></summary>
+
+
+अग्ने॒ त्वं पा॑रया॒ नव्यो॑+++(=स्तोतव्यः/ नवः)+++ अ॒स्मान्त्  
+स्व॒स्तिभि॒र् अति॑ दु॒र्गाणि॒ विश्वा॑॑।  
+पूश्च॑+++(=पुरी[भूता])+++ पृ॒थ्वी ब॑हु॒ला न॑ उ॒र्वी  
+भवा॑ तो॒काय॒+++(=अपत्याय)+++ तन॑याय॒+++(=पौत्राय)+++ शं योः+++(=यापयिता /पृथक्कर्ता)+++॥
+
+</details>
+</div>  
 
 विश्वा॑नि नो दु॒र्गहा॑ जातवेदः॒  
 सिन्धुं॒ न ना॒वा दु॑रि॒ताऽति॑ पर्षि।  
