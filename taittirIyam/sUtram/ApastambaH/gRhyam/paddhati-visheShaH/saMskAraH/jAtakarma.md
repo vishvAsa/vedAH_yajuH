@@ -1,10 +1,10 @@
 ---
 title: जातकर्म
 unicode_script: devanagari
----
 
+---
 ## आपस्तम्बोक्तिः
-<div class="js_include" url="../../../karmANi/jAtakarma/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="../../../karmANi/jAtakarma/"></div>  
 
 
 ## पूर्वाङ्गम्
@@ -55,4 +55,4 @@ unicode_script: devanagari
 
 स्त्रीनामप्राप्तिः - स्त्रीविषये आबन्तता, स्वातिपुनर्वस्वोः पुंवत्। तत्र सञ्जीविनीव्याख्या - ""स्त्रीविषये पचविंशतिनक्षत्राणामपि आबन्तता, न तु अकारान्तता । आदिवृद्धिस्तु स्यादेव ॥""
 
-<div class="js_include" url="../../../karmANi/jAtakarma/"  newLevelForH1="1" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../../../karmANi/jAtakarma/"></div> 
