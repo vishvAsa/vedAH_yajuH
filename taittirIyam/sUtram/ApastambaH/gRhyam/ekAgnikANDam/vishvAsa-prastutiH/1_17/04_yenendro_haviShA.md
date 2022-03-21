@@ -9,7 +9,21 @@ title = "०४ येनेन्द्रो हविषा"
 देवा असप॒त्ना किला॑ऽभवम् ।  
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/159/04_yenendro_haviShA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/159/04_yenendro_haviShA.md">
+<details open><summary><h2>०४ येनेन्द्रो हविषा ...{Loading}...</h2></summary>
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/174/04_yenendro_haviShA.md"  newLevelForH1="2" includeTitle="false"> </div>
+येनेन्द्रो॑ ह॒विषा॑ कृ॒त्व्यभ॑वद्द्यु॒म्न्यु॑त्त॒मः ।  
+इ॒दं तद॑क्रि देवा असप॒त्ना किला॑भुवम् ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/174/04_yenendro_haviShA.md">
+<details open><summary><h2>०४ येनेन्द्रो हविषा ...{Loading}...</h2></summary>
+
+
+येनेन्द्रो॑ ह॒विषा॑ कृ॒त्व्यभ॑वद्द्यु॒म्न्यु॑त्त॒मः ।  
+इ॒दं तद॑क्रि देवा असप॒त्नः किला॑भुवम् ॥
+
+</details>
+</div>

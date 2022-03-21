@@ -4,4 +4,19 @@ title = "०४ १५ अथैनामुत्तेरणाग्निन
 +++
 अथैनामुत्तेरणाग्निं - दक्षिणेन पदा प्राचीमुदीचीं वा दिशमभि प्रक्रमयत्य् "एकमिष" इति ॥
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/07-13_ekamiShe_viShNustvA-nvetu.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/07-13_ekamiShe_viShNustvA-nvetu.md">
+<details open><summary><h2>०७-१३ एकमिषे विष्णुस्त्वाऽन्वेतु ...{Loading}...</h2></summary>
+
+एक॑म् - इ॒षे+++(=अन्नाय)+++ विष्णु॒स्त्वाऽन्वे॑तु ।+++(५)+++  
+द्वे - ऊ॒र्जे+++(=बलाय)+++ विष्णु॒स्त्वाऽन्वे॑तु ।  
+त्रीणि॑ - व्र॒ताय॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
+च॒त्वारि॒ - मायो॑+++(=सुख)+++भवाय॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
+पञ्च॑ - प॒शुभ्यो॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
+षड् - रा॒यस्पोषा॑य॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
+स॒प्त - +++(यज्ञेषु)+++ स॒प्तभ्यो॒ होत्रा॑भ्यो॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
++++(होता प्रशास्ता ब्राह्मणाच्छंसी पोता नेष्टाच्छावाक आग्नीध्र इत्येतास्सप्त होत्राः)+++  
+सखा॑यस् स॒प्तप॑दा अभूम ।  
+स॒ख्यन्ते॑ गमेयम् ।
+
+</details>
+</div>

@@ -8,6 +8,42 @@ title = "२० ०४ यथोढमुदकानि प्रदाय"
 उत्तरैर् यथास्वम् ओदनेभ्यो हुत्वा  
 सर्वतस् समवदायोत्तरेण यजुषाग्निं स्विष्टकृतम् ।  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/11_-30_upaspRshatu_mIDhvAnmIDhuShe.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/11_-30_upaspRshatu_mIDhvAnmIDhuShe.md">
+<details open><summary><h2>११ -३० उपस्पृशतु मीढ्वान्मीढुषे ...{Loading}...</h2></summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/31_agnaye_sviShTakRte.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+उप॑स्पृशतु मी॒ढ्वान्, मी॒ढुषे॒ स्वाहा।  
+उप॑स्पृशतु मी॒ढुषी॑ मी॒ढुष्यै॒ स्वाहा॑ ।  
+ज॒य॒न्तोप॑स्पृश जय॒न्ताय॒+++(=स्कन्दाय)+++ स्वाहा॑ ।  
+
+### हवनम्
+भ॒वाय॑ दे॒वाय॒ स्वाहा॑।  
+श॒र्वाय॑ दे॒वाय॒ स्वाहा।  
+ईशा॑नाय दे॒वाय॒ स्वाहा॑।  
+पशु॒पत॑ये दे॒वाय॒ स्वाहा॑।  
+रु॒द्राय॑+++(=रोदयित्रे)+++ दे॒वाय॒ स्वाहा।  
+उग्राय॑ दे॒वाय॒ स्वाहा॑।  
+भी॒माय॑ दे॒वाय॒ स्वाहा॑।  
+मह॒ते दे॒वाय॒ स्वाहा॑ ।  
+
+भ॒वस्य॑ दे॒वस्य॒ पत्न्यै॒ स्वाहा॑।  
+श॒र्वस्य॑ दे॒वस्य॒ पत्न्यै॒ स्वाहा।  
+ईशा॑नस्य दे॒वस्य॒ पत्न्यै॒ स्वाहा॑।  
+पशु॒पते॑र्दे॒वस्य॒ पत्न्यै॒ स्वाहा॑।  
+रु॒द्रस्य॑ दे॒वस्य॒ पत्न्यै॒ स्वाहा॑।  
+उ॒ग्रस्य॑ दे॒वस्य॒ पत्न्यै॒ स्वाहा॑।  
+भी॒मस्य॑ दे॒वस्य॒ पत्न्यै॒ स्वाहा॑।  
+मह॒तो दे॒वस्य॒ पत्न्यै॒ स्वाहा॑ ।  
+
+ज॒य॒न्ताय॒ स्वाहा॑ ।  
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/31_agnaye_sviShTakRte.md">
+<details open><summary><h2>३१ अग्नये स्विष्टकृते ...{Loading}...</h2></summary>
+
+
+अ॒ग्नये॑ स्विष्ट॒कृते॒ सुहु॑तहुत॒ आहु॑तीनां॒ कामा॑नाꣳ समर्द्धयि॒त्रे स्वाहा॑ ।  
+
+</details>
+</div>

@@ -4,7 +4,26 @@ title = "११ १७ स्मृतञ् च"
 +++
 "स्मृतं च म" इत्य् एतद्वाचयित्वा
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md">
+<details open><summary><h2>०२-१० स्मृतञ्च मे ...{Loading}...</h2></summary>
+
+
+स्मृ॒तञ् च॒ मे, ऽस्मृ॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
+नि॒न्दा च॒ मे ऽनि॑न्दा च मे॒ - तन् म॑ उ॒भयं॑ व्र॒त२ꣳ,  
+श्र॒द्धा च॒ मे ऽश्र॑द्धा च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
+वि॒द्या च॒ मे ऽवि॑द्या च मे॒ - तन् म॑ उ॒भयं॑ व्र॒त२ꣳ,  
+श्रु॒तञ् च॒ मे ऽश्रु॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तꣳ,  
+स॒त्यञ् च॒ मे ऽनृ॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
+तप॑श् च॒ मे ऽत॑पश्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
+व्र॒तञ् च॒ मे ऽव्र॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
+
+यद् ब्रा॑ह्म॒णानां॒ ब्रह्म॑णि+++(=वेदविषये)+++ व्र॒तम्,  
+यद् अ॒ग्नेस् +++(→यातृत्वं)+++ सेन्द्र॑स्य॒ +++(→प्राधान्यम्)+++ सप्र॑जापतिकस्य॒ +++(→स्रष्टृत्वं)+++ सदे॑वस्य॒ +++(→दातृत्वादि)+++ सदे॑वराजस्य॒ सम॑नुष्यस्य॒ +++(→प्रियवचनादि)+++ सम॑नुष्यराजस्य॒ +++(→प्रजारक्षणम्)+++ सपि॑तृकस्य॒ +++(→पुत्रोत्पत्ति)+++ सपि॑तृराजस्य॒ +++(यमस्य → सर्वसमत्वं)+++ सग॑न्धर्वाप्सर॒स्कस्य॑ +++(→परिचरणकौशलम्)+++,  
+यन् म॑ आ॒त्मन॑ आ॒त्मनि॑ व्र॒तन्,  
+तेना॒हꣳ सर्व॑व्रतो भूयासम् ।  
+
+</details>
+</div>
 
 
 ## वरदानम्
@@ -15,10 +34,40 @@ title = "११ १७ स्मृतञ् च"
 
 +++(कुमारो वदति -)+++  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md">
+<details open><summary><h2>११ उदायुषा स्वायुषोदोषधीनाम् ...{Loading}...</h2></summary>
+
+
+उद् आयु॑षा स्वा॒युषा,  
++उद् ओष॑धीना॒ꣳ॒ रसे॒न,  
++उत् प॒र्जन्य॑स्य॒ शुष्मे॒ण॒+++(=बलेन)+++  
++उद् अ॑स्थाम्,  
+अ॒मृता॒ꣳ॒+++(=देवान्)+++ अनु॑ ।  
+
+</details>
+</div>
 
 
 ## आदित्योपस्थानम्
 उत्तरैर् +++("तच्चक्षुर्देव हितम्")+++ आदित्यम् उपतिष्ठते १७  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
+<details open><summary><h2>१२ तच्चक्षुर्देवहितम् पुरस्ताच्छुक्रमुच्चरत् ...{Loading}...</h2></summary>
+
+
++++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् ।  
+
+
+
+पश्ये॑म श॒रद॑श् श॒तं  
+जीवे॑म श॒रद॑श् श॒तं  
+नन्दा॑म श॒रद॑श् श॒तं  
+मोदा॑म श॒रद॑श् श॒तं  
+भवा॑म श॒रद॑श् श॒तꣳ  
+शृ॒णवा॑म श॒रद॑श् श॒तं  
+प्रब्र॑वाम श॒रद॑श् श॒तम्  
+अजी॑ताः स्याम श॒रद॑श् श॒तं  
+ज्योक्+++(=दीर्घकालं)+++ च॒ सूर्य॑न् दृ॒शे ।  
+
+</details>
+</div>

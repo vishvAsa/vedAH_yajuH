@@ -3,7 +3,17 @@ title = "०२ उदीर्ष्वातः पतिवती"
 
 +++
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/21_udIrShvAtaH_pativatI.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/21_udIrShvAtaH_pativatI.md">
+<details open><summary><h2>२१ उदीर्ष्वातः पतिवती ...{Loading}...</h2></summary>
+
+
+उदी॒र्ष्व+++(=उद्गच्छ)+++ +अतः॒ पति॑वती॒ ह्ये॒३॒॑षा  
+वि॒श्वाव॑सुं॒ नम॑सा गी॒र्भिर् ई॑ळे ।  
+अ॒न्याम् इ॑च्छ पितृ॒षदं॒ व्य॑क्तां॒  
+स ते॑ भा॒गो ज॒नुषा॒ तस्य॑ विद्धि ॥२१
+
+</details>
+</div>
 
 
 उ॒दी॒र्ष्वातः॒ पति॑वती॒ ह्य् ए॑षा  

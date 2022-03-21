@@ -55,9 +55,6 @@ title = "१७ ०७ पालाशं शमीमयम्"
 भार्यादीनां च तदैव प्रवेशः ॥७॥
 ________________________
 
-<div class="js_include collapsed" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/18_gRhapraveshavidhiH/17_07_pAlAshaM_shamImayam.md"  newLevelForH1="4" title="सुदर्शनः" > </div>
-
-
 ## प्रतिष्ठापनम्
 **उत्तरेण** "इन्द्रस्य गृहाः" इति **यजुषा** ।
 उद्धृतम् अग्निम् **अगारं** प्रपाद्य, अनन्तरं विधिवत् संस्कृते उत्तर-पूर्वदेशे ऽगारस्य **तम् अग्निम् उत्तरया** अमृताहुतिम्" इत्य् एतया **प्रतिष्ठापयति** ।

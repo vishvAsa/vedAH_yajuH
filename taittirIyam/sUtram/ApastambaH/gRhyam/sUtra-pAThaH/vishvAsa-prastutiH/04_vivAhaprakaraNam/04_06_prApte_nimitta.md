@@ -5,4 +5,13 @@ title = "०४ ०६ प्राप्ते निमित्त"
 प्राप्ते निमित्त +++(=वध्वा स्वबन्धूनां च रोदनं)+++ उत्तरां जपेत् +++("जीवारुदन्ती")+++ ६ +++(निमित्तावृत्तौ मन्त्र आवर्तते ।)+++  
 
 +++(कन्याया एव रोदन इत्याश्वलायनः । यथाह - जीवां रुदन्तीति रुदत्याम् इति ।)+++  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/06_jIvAM_rudanti.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/06_jIvAM_rudanti.md">
+<details open><summary><h2>०६ जीवां रुदन्ति ...{Loading}...</h2></summary>
+
++++(हर्षस्थाने)+++ जी॒वाꣳ रु॑दन्ति॒ वि+++(नि)+++म॑यन्ते अद्ध्व॒रे  
+दी॒र्घाम् अनु॒ +++(भाव)+++प्रसि॑तिं+++(=बन्धं)+++ दीधियु॒र्+++(=ध्यायन्तु)+++ नरः॑+++(बहुवचनम्)+++ ।  
+वा॒मं पि॒तृभ्यो॒ य इ॒दꣳ स॑मेरि॒रे+++(=प्रवर्तयन्ति)+++  
+मयः॒+++(=सुखदं)+++ पति॑भ्यो॒, जन॑यः+++(=जन्याः [वध्वाः])+++ परि॒ष्वजे॑ ।  
+
+</details>
+</div>
