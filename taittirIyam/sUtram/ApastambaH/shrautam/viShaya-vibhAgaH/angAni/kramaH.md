@@ -12,7 +12,8 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/16/06_sarvatra_prasava_ukte.md">
 <details open><summary><h2>06 सर्वत्र प्रसव उक्ते ...{Loading}...</h2></summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/16/06_sarvatra_prasava_ukte.md"  newLevelForH1="2" includeTitle="false"> </div>  
+सर्वत्र प्रसव+++(=अनुज्ञा, यथा "ॐ प्रणय!")+++ उक्ते करोति ६  
+
 
 </details>
 </div>
