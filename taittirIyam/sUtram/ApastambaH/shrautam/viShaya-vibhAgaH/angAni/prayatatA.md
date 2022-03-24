@@ -4,4 +4,4 @@ unicode_script: devanagari
 
 ---
 
-रौद्र-राक्षस-नैरृत-पैतृक-च्छेदन-भेदन-निरसनात्माभिमर्शनानि च कृत्वाप उपस्पृशेत् ९
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/09_raudrarAxasanairRtapaitRkachChedanabhedananirasanAtmAbhimarshanAni_cha_kRtvApa.md"  newLevelForH1="2" includeTitle="false"> </div>  
