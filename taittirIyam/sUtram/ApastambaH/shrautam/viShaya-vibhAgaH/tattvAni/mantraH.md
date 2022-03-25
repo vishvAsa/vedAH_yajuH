@@ -5,19 +5,55 @@ unicode_script: devanagari
 ---
 
 ##‌ अभिज्ञानम्
-कर्मचोदना ब्राह्मणानि ३२ ब्राह्मणशेषोऽर्थवादो निन्दा प्रशंसा परकृतिः पुराकल्पश्च ३३ अतोऽन्ये मन्त्राः ३४ अनाम्नातास् त्वमन्त्रा यथा प्रवर+ऊह-नामधेयग्रहणानीति ३५ रथशब्दो दुन्दुभिशब्दश्च ३६ 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/32_karmachodanA_brAhmaNAni.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-आदिप्रदिष्टा +++(=मन्त्रादिनोपदिष्टा)+++ मन्त्राः ३ उत्तरस्यादिना पूर्वस्यावसानं विद्यात् ४
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/33_brAhmaNasheSho-rthavAdo_nindA_prashaMsA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/34_ato-nye_mantrAH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/35_anAmnAtAstvamantrA_yathA_pravarohanAmadheyagrahaNAnIti.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/36_rathashabdo_dundubhishabdashcha.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/03_AdipradiShTA_mantrAH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/04_uttarasyAdinA_pUrvasyAvasAnaM_vidyAt.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ##‌ वचनम्
-उच्चैरृग्वेदसामवेदाभ्यां क्रियते ८ उपांशु यजुर्वेदेन ९ अन्यत्राश्रुतप्रत्याश्रुतप्रवरसंवादसंप्रैषैश्च १० अन्तरा सामिधेनीष्वनूच्यम् ११ मन्द्रेण प्रागाज्यभागाभ्यां प्रातःसवने च १२ मध्यमेन प्राक् स्विष्टकृतो माध्यंदिने च १३ क्रुष्टेन शेषे तृतीयसवने च १४ वाक्संद्रवश्च तद्वत् +++(=मन्द्रस्वरोक्ता मन्दा, कृष्टेनोक्ता वेगवती …)+++ १५
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/08_uchchairRgvedasAmavedAbhyA~N_kriyate.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-?? - होत्रायाजमानेषु समुच्चयः ५ विकल्पो याज्यानुवाक्यासु ६ संख्यासु च तद्वत् ७ क्रयपरिक्रयसंस्कारेषु द्रव्यसमुच्चयः ८
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/09_upAMshu_yajurvedena.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/10_anyatrAshrutapratyAshrutapravarasaMvAdasampraiShaishcha.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/11_antarA_sAmidhenIShvanUchyam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/12_mandreNa_prAgAjyabhAgAbhyAm_prAtaHsavane.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/13_madhyamena_prAk_sviShTakRto.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/14_kruShTena_sheShe_tRtIyasavane.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/15_vAksandravashcha_tadvat.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/05_hotrAyAjamAneShu_samuchchayaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/06_vikalpo_yAjyAnuvAkyAsu.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/07_sankhyAsu_cha_tadvat.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/08_krayaparikrayasaMskAreShu_dravyasamuchchayaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ##‌ प्रयोगः
 
-स्वाध्यायेऽनध्यायो मन्त्राणां, न कर्मण्यर्थान्तरत्वात् +++(=प्रयोजनान्तरत्वात्)+++ ३७
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/37_svAdhyAye-nadhyAyo_mantrANAn_na.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-एकमन्त्राणि कर्माणि ३८ अपि संख्या-युक्त-चेष्टा-पृथक्त्व-निर्वर्तीनि +++(= सङ्ख्यायुक्तानि यथा ""त्रिः प्रोक्षति""। चेष्टा-पृथक्त्वनिर्वर्तीनि यथा मुसलाहरण-प्रहरणादिना सहावहननम्)३९ कण्डूयन-स्वप्न-नदीतर+अववर्षणामेध्य-प्रतिमन्त्रणेषु च तद्वत् कालाव्यवेतेषु ४० +++(एकमन्त्राणि)+++ प्रयाणे त्वार्थनिर्वृत्तेः (=प्रयोजननिवृत्तेः यावत्, यथा सकृदेव प्रयाणमन्त्रः क्वचित्) ४१ असंनिपातिकर्मसु (=द्रव्येषु यानि विकारान् न जनयन्ति)+++ च तद्वत् ४२ हविष्कृद्-अध्रिगु-पुरोऽनुवाक्यामनोतस्यावृत्तिर् भिन्नकालेषु ४३ वचनादेकं कर्म बहुमन्त्रम् ४४
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/38_ekamantrANi_karmANi.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-मन्त्रान्ते कर्मादीन् संनिपातयेत् ++++++(अन्तरं विना)++++++ १ आघारे धारायां चादिसंयोगः २ 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/39_api_sankhyAyuktacheShTApRthaktvanirvartIni.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/40_kaNDUyanasvapnanadItarAvavarShaNAmedhyapratimantraNeShu_cha_tadvatkAlAvyaveteShu.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/41_prayANe_tvArthanirvRtteH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/42_asannipAtikarmasu_cha_tadvat.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/43_haviShkRdadhrigupuro-nuvAkyAmanotasyAvRttirbhinnakAleShu.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/44_vachanAdeka~N_karma_bahumantram.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/01_mantrAnteH_karmAdInsannipAtayet.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/02_AghAre_dhArAyA~n_chAdisaMyogaH.md"  newLevelForH1="2" includeTitle="false"> </div>  

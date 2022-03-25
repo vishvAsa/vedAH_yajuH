@@ -5,4 +5,13 @@ unicode_script: devanagari
 
 ---
 
-अमावास्यायाम् +++(=पर्वसन्धिः, तद्युक्तय् अहनी)+++  अमावास्यया यजेत +++(यदि पूर्वाह्णापराह्णदृष्ट्या शक्यम् अमावास्याक्षणं कर्ममध्ये स्यादिति हरदत्तः!)+++‌ १९ पौणमास्यां +++(=पर्वसन्धिः, तद्युक्तय् अहनी)+++ पौर्णमास्या २० यदहः +++(रात्रौ वा)+++ पुरस्ताच् +++(=पूर्वायाम्)+++ चन्द्रमाः पूर्ण +++(=पूर्णप्राय)+++ उत्सर्पेत् +++(=उदेति)+++ तां पौर्णमासीमुपवसेत्, +++(परेद्युर् इष्टिः)+++। २१ श्वः +++(पूर्वाह्णे)+++ पूरितेति वा २२ खर्विकां +++(=अल्पसंज्ञाम्)+++ तृतीयां +++(पौर्णमासीम् = पूर्वाह्णे यदा पर्व, रात्रेरन्तिमे १/१२-भागे वा)+++ वाजसनेयिनः समामनन्ति +++(अतो ऽनुकल्पः - तद्दिनय् उपवासः, परेद्युरिष्टिः)+++ २३ यदहर्  +++(रात्रौ)+++ न दृश्यते तदहरमावास्या +++(उपवसेत्)+++ २४ श्वो न द्रष्टार इति वा २५ 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/19_amAvAsyAyAmamAvAsyayA_yajeta.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/20_pauNamAsyAm_paurNamAsyA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/21_yadahaH_purastAchchandramAH_pUrNa.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/22_shvaH_pUriteti_vA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/23_kharvikAn_tRtIyAM_vAjasaneyinaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/24_yadaharna_dRshyate_tadaharamAvAsyA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/25_shvo_na_draShTAra.md"  newLevelForH1="2" includeTitle="false"> </div>  

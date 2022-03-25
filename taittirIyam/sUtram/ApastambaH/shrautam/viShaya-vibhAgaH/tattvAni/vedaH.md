@@ -5,4 +5,9 @@ unicode_script: devanagari
 
 ---
 
-मन्त्रब्राह्मणयोर् वेदनामधेयम् ३१ कर्मचोदना ब्राह्मणानि ३२ ब्राह्मणशेषोऽर्थवादो निन्दा प्रशंसा परकृतिः पुराकल्पश्च ३३ अतोऽन्ये मन्त्राः ३४
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/31_mantrabrAhmaNayorvedanAmadheyam.md"  newLevelForH1="2" includeTitle="false"> </div>   
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/32_karmachodanA_brAhmaNAni.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/33_brAhmaNasheSho-rthavAdo_nindA_prashaMsA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/34_ato-nye_mantrAH.md"  newLevelForH1="2" includeTitle="false"> </div>
