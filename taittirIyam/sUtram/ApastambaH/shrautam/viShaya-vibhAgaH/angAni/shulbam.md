@@ -99,4 +99,4 @@ unicode_script: devanagari
 वारणान्य्+++(=वरणकृतानि)+++ अहोमार्थानि भवन्ति १४
 
 </details>
-</div> 
+</div>

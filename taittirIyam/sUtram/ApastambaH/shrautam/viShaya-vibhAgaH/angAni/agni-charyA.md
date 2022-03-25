@@ -31,12 +31,14 @@ unicode_script: devanagari
 
 न मन्त्रवता यज्ञाङ्गेनात्मानमभिपरिहरेत् (=वेष्टयेत्) १४  
 
+
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/07_nAntarAgnI_sancharati.md">
 <details open><summary><h2>07 नान्तराग्नी सञ्चरति ...{Loading}...</h2></summary>
 
 नान्तराग्नी +++(=गार्हपत्याहवनीययोर् मध्ये)+++ संचरति ७  
+
 
 </details>
 </div>
@@ -45,6 +47,7 @@ unicode_script: devanagari
 
 यदि पूर्वोऽनुगतः संचर्यम् ८  
 
+
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/09_pashchAddhi_sa_tarhi.md">
@@ -52,12 +55,14 @@ unicode_script: devanagari
 
 पश्चाद्धि +++(गार्हपत्ये)+++ स तर्हि गतः ९  
 
+
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/10_kAmaM_hute_sancharyamityeke.md">
 <details open><summary><h2>10 कामं हुते सञ्चर्यमित्येके ...{Loading}...</h2></summary>
 
 कामं हुते संचर्यमित्येके १०  
+
 
 </details>
 </div>  
@@ -69,12 +74,14 @@ unicode_script: devanagari
 
 नक्तमाहवनीयं धारयति +++(पक्षे, "प्राङ्मुखः प्रातर्" इति वचनात्।)+++ ११  
 
+
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/12_nityo_gatashriyo_dhriyate.md">
 <details open><summary><h2>12 नित्यो गतश्रियो ध्रियते ...{Loading}...</h2></summary>
 
 नित्यो गतश्रियो ध्रियते +++(आहवनीयः)+++ १२  
+
 
 </details>
 </div>
@@ -83,6 +90,7 @@ unicode_script: devanagari
 
 नित्यं गार्हपत्यम् १३  
 
+
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/14_tathAnvAhAryapachanaM_yadi_mathitvAhito.md">
@@ -90,5 +98,6 @@ unicode_script: devanagari
 
 तथान्वाहार्यपचनं+++(=दक्षिणाग्निम्, यत्र ऋत्विजां कृत ओदनम् पच्यते)+++ यदि मथित्वाहितो भवति +++(दक्षिणाग्निः)+++ १४  
 
+
 </details>
-</div> 
+</div>
