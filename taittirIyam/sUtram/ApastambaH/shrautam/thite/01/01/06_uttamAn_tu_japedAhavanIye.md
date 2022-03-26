@@ -2,4 +2,4 @@
 title = "06 उत्तमान् तु जपेदाहवनीये"
 
 +++
-उत्तमां तु जपेदाहवनीये वादध्यात् ६
+21. He may, however, (simply) mutter the last verse or may put (fuel-sticks) in the Ahavaniya (with that verse).  

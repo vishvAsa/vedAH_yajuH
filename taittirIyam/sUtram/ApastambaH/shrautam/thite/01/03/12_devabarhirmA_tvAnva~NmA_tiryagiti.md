@@ -2,4 +2,5 @@
 title = "12 देवबर्हिर्मा त्वान्वङ्मा तिर्यगिति"
 
 +++
-देवबर्हिर्मा त्वान्वङ्मा तिर्यगिति संयच्छति १२
+65. With devabarhirmā tvānvan mā tiryak he holds together (the Darbha-blades with his left hand).
+PR  

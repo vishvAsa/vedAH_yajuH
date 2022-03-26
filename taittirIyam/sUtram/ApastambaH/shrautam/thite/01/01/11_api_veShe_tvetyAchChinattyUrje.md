@@ -2,4 +2,4 @@
 title = "11 अपि वेषे त्वेत्याच्छिनत्त्यूर्जे"
 
 +++
-अपि वेषे त्वेत्याच्छिनत्त्यूर्जे त्वेति सन्नमयत्यनुमार्ष्टि वा ११
+32. Or with ise tvā he cuts, with urje tvā he makes it straight or moves his hand from the thick side towards thin side. 
