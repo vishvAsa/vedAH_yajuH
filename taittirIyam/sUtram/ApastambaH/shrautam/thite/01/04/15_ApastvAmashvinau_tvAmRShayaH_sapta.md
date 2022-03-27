@@ -2,4 +2,10 @@
 title = "15 आपस्त्वामश्विनौ त्वामृषयः सप्त"
 
 +++
-आपस्त्वामश्विनौ त्वामृषयः सप्त मामृजुः । बर्हिः सूर्यस्य रश्मिभिरुषसां केतुमारभ इति बर्हिरारभते । इन्द्रस्य त्वा बाहुभ्यामुद्यच्छ इत्युद्यच्छते । बृहस्पतेर्मूर्ध्ना हरामीति शीर्षन्नधिनिधत्ते १५
+15. With āpas tvām aśvinau tvām...[^1] he touches the sacrificial grass; with indrasya tvā bāhubhyām...[^2] he lifts up the bundle, with br̥haspater mūrdhnā harāmi[^3] he keeps (the bundle) on the head (and returns to the place of sacrifice).  
+
+[^1]: MS IV. 1.2.  
+
+[^2]: TS I.1.2.0.  
+
+[^3]: TS I.1.2.0. 
