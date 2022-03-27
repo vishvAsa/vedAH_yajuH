@@ -118,99 +118,77 @@ NEW AND FULL-MOON-SACRIFICES
 
 
 देवबर्हिर्मा त्वान्वङ्मा तिर्यगिति संयच्छति॥१२॥
-65. With devabarhirmā tvānvan mā tiryak he holds together (the Darbha-blades with his left hand).
-PR
+
 
 
 पर्व ते राध्यासमित्यसिदमधिनिदधाति॥१३॥
-66. With parva te rādhyāsam...' he places the sickle on (the Darbha-blades)
-67. TS I. 1.2.g.
+
 
 आच्छेत्ता ते मा रिषमित्याच्छिनत्ति॥१४॥
-68. With acchettā te mā risam...' he cuts (the Darbha blades).
-69. TS I. 1.2.h.
+
 
 संनखं मुष्टिं लुनोति॥१५॥
-70. He cuts a handful of grass making his fist in such a manner that the nail of the index finger touches the nail (of the thumb).
+
 
 
 स प्रस्तरः॥१६॥
-16. This (handful of grass is called) Prastara.'
-71. For the use of Prastara see e.g. II. 9.13ff.
+
 
 
 कुल्मिमात्रो ऽरनिः प्रादेश ऊर्वस्थि जान्वस्थि त्रुग्दण्ड इति वा तिर्यक् प्रमाणानि॥१७॥
-72. Or as broad as the tail of a cow, a cubit, a span, bone of the thigh, bone of knee or the handle of a ladle-these are the measurements for the breadth (of the Prastara).
+
 ## 01.04
 
 
 पृथिव्याः संपृचः पाहीत्यनधो निदधाति॥१॥
-73. With prthivyāh samprcah pāhi' (the Adhvaryu) keeps down (the Prastara) not (directly) upon the ground.”
-74. TS I.1.2.k. 2. Thus he keeps some grass on the ground and on it he keeps down
-____the Prastara.
+
 
 अयुजो मुष्टील्लुनोति॥२॥
-2. He cuts an odd number of handfuls of grass.
+
 
 तथा निधनानि॥३॥
-75. In the same way the bundle (nidhana)' (Should be odd in number).
-76. The handfuls are bound together and bundles are made.
+
 
 
 तेषां प्रस्तरो ऽयुगर्थ इत्येके॥४॥
-77. According to some (ritualists) the Prastara is for the sake of making their (=of the bundles) number odd.
+
 
 
 प्रस्तरे याथाकामी॥५॥
-78. In connection with the Prastara he can do according to ____his desire.'
-79. i.e. the Adhvaryu is free to include or not to include the Prastara in
-the number of bundles.
+
 
 यदन्यत्परिषवणादुत्सर्जनाच्च तत्सर्वत्रावर्तते॥६॥
-80. Whatever is other than “tracing an outline”' and “leaving out”2 that is repeated everywhere (i.e. in connection with every handful of grass).
-81. See I. 3.6. 2. See I. 3.8. Thus the ritual mentioned in I. 3.11-15 is repeated in
-connection with every handful of grass.
+
 
 प्रस्तरमेव मन्त्रेण दाति तूष्णीमितरदिति वाजसनेयकम्॥७॥
-82. The view of Vājasaneyins' is that he cuts only the Prastara along with a formula; and all the other silently (without any formula).
-___ 1. This view cannot be found in any available text of the Vajasaneyins.
+
 
 सर्वं लुत्वा देवबर्हिः शतवल्शं विरोहेत्यालवानभिमृशति॥८॥
-83. Having cut all the grass (that is necessary), he touches the stumps' with devabarhiḥ śatavalíaṁ vi roha?
-84. The remaining parts of the cut out grass.
-85. TS I. 1.2.i.a.
+
 
 सहस्त्रवल्शा वि वयं रुहेमेत्यात्मानम्॥९॥
-86. With sahasravalśā vi vayaṁ ruhema' he touches himself.
-87. TS I. 1.2.i.b..
+
 
 अदित्यै रास्नासीति त्रिधातु पञ्चधातु वा शुल्बं करोति॥१०॥
-88. With adityai rāsnāsi' he prepares a cord of three or five strands.
-89. TS I. 1.2.m.
+
 
 
 आयुपिता योनिरिति प्रतिदधाति॥११॥
-90. With ayupitā yonih he twists (the strands) with one another.
-___ 1. Cp. MS I. 1.2 where we read ayupita instead of ayupita.
+
 
 
 अदित्यै रास्तासीत्युदगग्रं वितत्य सुसंभृता त्वा संभरामीति तस्मिन्निधनानि संभृत्यालुभिता योनिरित्युत्तमे निधने प्रस्तरमत्याधायेन्द्राण्यै संनहनमिति संनयति॥१२॥
-91. With adityai rāsnāsi' having spread out the cord on the ground with its end towards the north, with susambhrtā tvā sambharâmi' having piled up the bundles on it with alubhitā yonih having kept, with indrānyai samnahanam he ties (the heap).
-92. TS I. 1.2.m. 2. TS I. 1.2.1. 3. See I. 4.3. 4. The formula is found only here.
-93. TS I. 1.1.2.m.
+
 
 पूषा ते ग्रन्थिं ग्रथनात्विति ग्रन्थिं करोति॥१३॥
-13. With pusā te granthim grathnātu' he fixes up the knot.
-94. TS I. 1.2.n. .
+
 
 स ते मास्थादिति पुरस्तात्प्रत्यञ्चं ग्रन्थिमुपगृहति पञ्चात्प्राञ्चं वा॥१४॥
-95. With sa te mā sthāt' he conceals the knot from the east to the west or from the west to the east.
-96. TS I. 1.2.n.
-97. Only this alternative is prescribed by TB III. 2.2.8.
 
 
-आपस्त्वामश्विनौ त्वामृषयः सप्त मामृजुः। बर्हिःसूर्यस्य रश्मिभिरुषसां केतुमारभ इति बर्हिरारभते। इन्द्रस्य त्वा बाहुभ्यामुद्यच्छ इत्युद्यच्छते। बृहस्पतेर्मूर्जा हरामीति शीर्षनधिनिधत्ते॥१५॥ ____15. With āpas tvām asvinau tvām...' he touches the sacrificial grass; with indrasya tva bāhubhyām...' he lifts up the bundle, with brhaspater murdhna harami' he keeps (the bundle) on the head (and returns to the place of sacrifice).
-98. MS IV. 1.2. 2. TS I.1.2.0. 3. TS I.1.2.0.
+
+आपस्त्वामश्विनौ त्वामृषयः सप्त मामृजुः। बर्हिःसूर्यस्य रश्मिभिरुषसां केतुमारभ इति बर्हिरारभते। इन्द्रस्य त्वा बाहुभ्यामुद्यच्छ इत्युद्यच्छते। बृहस्पतेर्मूर्जा हरामीति शीर्षनधिनिधत्ते॥१५॥  
+
 ## 01.05
  प्रेयमगादुर्वन्तरिक्षमन्विहीति यौ गमनौ तौ प्रत्यायनौ॥१॥
 99. The same formulae preyanagād... and urvantariks amanvihi which were used at the time going out' should be used for returning
