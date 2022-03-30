@@ -4,23 +4,43 @@ unicode_script: devanagari
 
 ---
 
-यज्ञं व्याख्यास्यामः १ स त्रयाणां वर्णानां ब्राह्मणराजन्ययोर्वैश्यस्य च २
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/01_yajnaM_vyAkhyAsyAmaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/02_sa_trayANAM_varNAnAm.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## प्रमाणानि
-स त्रिभिर्वेदैर्विधीयते ३ ऋग्वेदयजुर्वेदसामवेदैः ४  
-ऋग्वेदयजुर्वेदाभ्यां दर्शपूर्णमासौ ५ यजुर्वेदेनाग्निहोत्रम् ६ सर्वैरग्निष्टोमः ७  
-… मन्त्रब्राह्मणे यज्ञस्य प्रमाणम् ३० मन्त्रब्राह्मणयोर् वेदनामधेयम् ३१ कर्मचोदना ब्राह्मणानि ३२ ब्राह्मणशेषोऽर्थवादो निन्दा प्रशंसा परकृतिः पुराकल्पश्च ३३ अतोऽन्ये मन्त्राः ३४
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/03_sa_tribhirvedairvidhIyate.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/04_RgvedayajurvedasAmavedaiH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-एक-प्रकरणे चोद्यमानानि प्रधानानि समानविधानानि २६
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/05_RgvedayajurvedAbhyAn_darshapUrNamAsau.md"  newLevelForH1="2" includeTitle="false"> </div>   <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/06_yajurvedenAgnihotram.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/07_sarvairagniShTomaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/30_mantrabrAhmaNe_yajnasya_pramANam.md"  newLevelForH1="2" includeTitle="false"> </div>   
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/31_mantrabrAhmaNayorvedanAmadheyam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/32_karmachodanA_brAhmaNAni.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/33_brAhmaNasheSho-rthavAdo_nindA_prashaMsA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/34_ato-nye_mantrAH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/26_ekaprakaraNe_chodyamAnAni_pradhAnAni.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## ऋत्विजः
-ऋग्वेदेन होता करोति १६ सामवेदेनोद्गाता १७ यजुर्वेदेनाध्वर्युः १८ सर्वैर्ब्रह्मा १९ वचनाद्विप्रतिषेधाद्वान्यः कुर्यात् २० ब्राह्मणानामार्त्विज्यम् २१
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/16_Rgvedena_hotA_karoti.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/17_sAmavedenodgAtA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/18_yajurvedenAdhvaryuH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/19_sarvairbrahmA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/20_vachanAdvipratiShedhAdvAnyaH_kuryAt.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/21_brAhmaNAnAmArtvijyam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ##‌  आधानम्
-सर्वक्रतूनामग्नयः सकृदाहिताः २२ 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/22_sarvakratUnAmagnayaH_sakRdAhitAH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## पात्राणि
-… आधानप्रभृति यावज्जीवं पात्राणि धार्यन्ते २८ तेषां प्रतितन्त्रं संस्कारः २९
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/28_AdhAnaprabhRti_yAvajjIvam_pAtrANi.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/29_teShAm_pratitantraM_saMskAraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ##‌ हवनम्
-जुहोतीति चोद्यमाने सर्पिराज्यं प्रतीयात् +++(=जानीयात्)+++ २३ अध्वर्युं कर्तारम् २४ जुहूं पात्रम् २५ व्यापृतायां स्रुवेण २६ आहवनीये प्रदानम् २७
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/23_juhotIti_chodyamAne_sarpirAjyam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/24_adhvaryuta~N_kartAram.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/25_juhUm_pAtram.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/26_vyApRtAyAM_sruveNa.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/27_AhavanIye_pradAnam.md"  newLevelForH1="2" includeTitle="false"> </div>  

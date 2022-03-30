@@ -4,5 +4,5 @@ unicode_script: devanagari
 
 ---
 
-प्रागपवर्गाण्य् उदगपवर्गाणि वा यज्ञोपवीती प्रदक्षिणं दैवानि कर्माणि करोति १५
-प्राचीनावीती प्रसव्यं दक्षिणापवर्गाणि पित्र्याणि १६
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/15_prAgapavargANyudagapavargANi_vA_yajnopavItI.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/16_prAchInAvItI_prasavyan_daxiNApavargANi.md"  newLevelForH1="2" includeTitle="false"> </div>  
