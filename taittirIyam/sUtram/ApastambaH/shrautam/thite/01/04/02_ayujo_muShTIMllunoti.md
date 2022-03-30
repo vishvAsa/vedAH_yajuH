@@ -2,4 +2,4 @@
 title = "02 अयुजो मुष्टींल्लुनोति"
 
 +++
-अयुजो मुष्टींल्लुनोति २
+2. He cuts an odd number of handfuls of grass.  

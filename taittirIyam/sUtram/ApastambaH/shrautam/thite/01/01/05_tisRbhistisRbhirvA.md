@@ -2,4 +2,4 @@
 title = "05 तिसृभिस्तिसृभिर्वा"
 
 +++
-तिसृभिस्तिसृभिर्वा ५
+5. Or (he enkindles the fires) each with three (verses). 

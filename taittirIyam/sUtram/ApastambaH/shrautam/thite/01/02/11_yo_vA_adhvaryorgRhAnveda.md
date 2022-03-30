@@ -2,4 +2,4 @@
 title = "11 यो वा अध्वर्योर्गृहान्वेद"
 
 +++
-यो वा अध्वर्योर्गृहान्वेद गृहवान्भवति । आ चतुर्थात्कर्मणोऽभिसमीक्षेतेदं करिष्यामीदं करिष्यामीत्येते वा अध्वर्योर्गृहाः । य एवं वेद गृहवान्भवतीति विज्ञायते ११
+11. “He who knows the house of the Adhvaryu becomes a possessor of house. Upto the fourth ritual activity, he (the sacrificer) considers, 'I shall do this, I shall do this'. This is the house of the Adhvaryu. He who knows thus becomes a possessor of a house-" thus is known from a Brahmana-text.  

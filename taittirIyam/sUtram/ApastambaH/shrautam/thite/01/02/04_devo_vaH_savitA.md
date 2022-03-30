@@ -2,4 +2,6 @@
 title = "04 देवो वः सविता"
 
 +++
-देवो वः सविता प्रार्पयत्विति शाखया गोचराय गाः प्रस्थापयति ४
+4. With devo vaḥ savità prārpayatu' he sends forth the cows towards the pasture by means of the branch.  
+
+1. TS I. 1.1.d-e. 

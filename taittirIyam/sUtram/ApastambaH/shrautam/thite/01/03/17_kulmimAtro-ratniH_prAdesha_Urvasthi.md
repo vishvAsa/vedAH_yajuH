@@ -2,4 +2,4 @@
 title = "17 कुल्मिमात्रोऽरत्निः प्रादेश ऊर्वस्थि"
 
 +++
-कुल्मिमात्रोऽरत्निः प्रादेश ऊर्वस्थि जान्वस्थि स्रुग्दण्ड इति वा तिर्यक्प्रमाणानि १७
+17. Or as broad as the tail of a cow, a cubit, a span, bone of the thigh, bone of knee or the handle of a ladle-these are the measurements for the breadth (of the Prastara).  

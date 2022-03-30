@@ -2,4 +2,4 @@
 title = "08 एकं वा स्तम्बम्"
 
 +++
-एकं वा स्तम्बं परिषूय तं सर्वं दाति ८
+8. Or, having traced a line only round one cluster, he cuts it completely.  

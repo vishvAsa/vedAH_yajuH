@@ -2,4 +2,6 @@
 title = "11 देवस्य त्वा सवितुः"
 
 +++
-देवस्य त्वा सवितुः प्रसवे ऽश्विनोर्बाहुभ्यां पूष्णो हस्ताभ्यां बर्हिर्देवसदनमारभ इति विशाखेषु दर्भानारभते ११
+11. With devasya tvā savituḥ...[^1] he holds the Darbha-blades at the point where they sprout out.  
+
+[^1]: Cf. MS I. 1.2. 

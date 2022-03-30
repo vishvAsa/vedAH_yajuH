@@ -2,4 +2,6 @@
 title = "09 ध्रुवा अस्मिन्गोपतौ स्यात"
 
 +++
-ध्रुवा अस्मिन्गोपतौ स्यात बह्वीरिति यजमानस्य गृहानभिपर्यावर्तते ९
+9. With dhruva asmin gopatau syāta bahvih...[^1] he returns to the house of the sacrificer.  
+
+[^1]: TS I. 1.1.g.  
