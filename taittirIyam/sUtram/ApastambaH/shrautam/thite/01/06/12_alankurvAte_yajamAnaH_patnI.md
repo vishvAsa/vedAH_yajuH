@@ -2,4 +2,4 @@
 title = "12 अलङ्कुर्वाते यजमानः पत्नी"
 
 +++
-अलङ्कुर्वाते यजमानः पत्नी च १२
+12. The sacrificer and the wife of the sacrificer adorn themselves.  

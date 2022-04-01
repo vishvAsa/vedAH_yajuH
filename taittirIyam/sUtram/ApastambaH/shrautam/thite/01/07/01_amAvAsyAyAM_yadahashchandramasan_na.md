@@ -2,4 +2,4 @@
 title = "01 अमावास्यायां यदहश्चन्द्रमसन् न"
 
 +++
-अमावास्यायां यदहश्चन्द्रमसं न पश्यन्ति तदहः पिण्डपितृयज्ञङ्कुरुते १
+1. One performs the Piṇḍapitr̥yajña on the new-moon day when one cannot see the moon.
