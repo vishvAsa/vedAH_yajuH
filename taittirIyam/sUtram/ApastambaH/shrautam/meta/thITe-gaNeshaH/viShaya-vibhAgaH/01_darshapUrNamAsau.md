@@ -191,136 +191,108 @@ NEW AND FULL-MOON-SACRIFICES
 
 ## 01.05
  प्रेयमगादुर्वन्तरिक्षमन्विहीति यौ गमनौ तौ प्रत्यायनौ॥१॥
-99. The same formulae preyanagād... and urvantariks amanvihi which were used at the time going out' should be used for returning
-___1. See I. 3.5.
 
 अदित्यास्त्वोपस्थे सादयामीत्यन्तर्वेदि परिधिदेशे ऽनधः सादयति॥२॥
-100. With adityāstvopasthe sādayami' (the Adhvaryu) keeps down (the bundle of the sacrificial grass within the altar? (but) not directly upon the ground (but on some grass) near the place (where afterwards) the Paridhis (enclosing sticks) (are going to be kept).'
-101. TS I. 1.4.s. 2. i.e. the place where afterwards the altar will be prepared. 3. Cp. I. 4.1. Cf. TB III. 2.2.9.
-102. See II. 9.5.
+
 
 बर्हिरसि देवंगममित्यासन्नमभिमन्त्रयते॥३॥
-103. With barhirasi devamgamam...' he addresses the (sacrificial grass) kept down.
-104. MS IV. 1.2.
+
 
 देवंगममसीत्यनधो निदधाति यथा प्रागुपसादयेत्॥४॥
-105. (Having taken up the grass again) with devamgama masi' he puts it down not directly upon the ground (but on
-some grass) in such a manner that he can lay it down towards the east (i.e. it is near from the east).
-____1. TS I. 1.2.q.
+
 
 
 या जाता ओषधयो देवेभ्यस्त्रियुगं पुरा। तासां पर्व राध्यासं परिस्तरमाहरन्॥ अपां मेध्यं यज्ञियं सदेवं शिवमस्तु मे। आच्छेत्ता यो मा रिष जीवानि शरदः शतम्॥ अपरिमिताना परिमिताः संनद्ये सुकृताय कम्। एनो मा निगां कत मच्चनाहं पुनरुत्थाय बहुला भवन्विति परिस्तरणानामधि निधान्याच्छेदनी संनहनीति यथालिङ्गम्॥५॥
-106. The verses ya jata osadhayah...' apān medhyan...',I.5]
-ApSs Translation : THITE
-aparimitānām parimitāh...' are to be used in accordance with the characteristic marks (words in them) at the time of keeping the sickle upon, at the time of cutting, and at the time of tying up into a bundle of the (grass) to be scattered.
-107. TB III. 7.4.9. 2. TB III. 7.4.9. 3. TB III. 7.4.10.
-108. Instead of the formulae mentioned in I. 3.13, 14 and I.4.12.152
+
+
 
 खादिरं पालाशं वैकविंशतिदारुमिमं करोति॥६॥
-109. He prepares the fuel consisting of twenty one sticks either of Khadira or Palāśa tree?.
-110. Thus 15 for Sāmidhenis (enkindling) (see II. 12.2ff), 3 for Paridhis (enclosing) (see I.5.7; II 9.5.ff); 2 for Aghāras (see I. 5.11; II.
-9.9); and 1 for the Anuyāyas (see I.5.11; III. 4.6).
+
 
 मा
-111. see I.5.11; III.4.6. त्रयः प्ररिधयः॥७॥
+ त्रयः प्ररिधयः॥७॥
 पलाशकार्मर्यखदिरौदुम्बरबिल्वरोहीतकविकतानां ये वा यज्ञिया वृक्षाः ॥८॥
-7-8. There should be three enclosing sticks of Palasa, Kar ṣmarya, Khadira, Udumbara, Bilva, Rohitaka, Vikankata or of any other trees worthy to be used in sacrifices.'y
-112. Cf. SB I.3.3.19-20.
 
 
 आर्द्राः शुष्का वा सत्वक्काः ॥९॥10) (10) )
-113. They may be either wet or dry (but) with their skin (undamaged).
+
 स्थविष्ठो मध्यमो ऽणीयान्द्राधीयान्दक्षिणायॊ ऽणिष्ठो हसिष्ठ उत्तरार्ध्यः॥१०॥
-114. The Middle' (should be) the broadest; the southern (should be) thinner (but) longer, the northern (should be) the tninnest (and) smallest. 111111 I n E {{{) yj} ita })( i)
-115. i.e. the one which is kept to the west of the Ahavaniya-fire.
+
 
 
 द्वे आघारसमिधावनूयाजसमिदेकविंशति॥११॥
-116. (There should be) two Āghāra-sticks, one Anūyāja (after-offering)-stick--thus twentyone (in all).
+
 
 
 समूलानामृतेमूलानां वा दर्भाणां पूर्ववच्छुल्बं कृत्वोदगग्रं वितत्य॥१२॥
-117. Having prepared a cord out of those Darbha-blades which are either accompanied by roots or without roots, in the same manner as described earlier', (then) having spread it (on the ground) with its end towards the north?,
-2012
-118. See I.4.10-12. 2. The sentence is incomplete. See the next Sūtra.
-183001
-__I.6 12.15522
 
 
-यत्कृष्णो रूपं कृत्वां प्राविशस्त्वं वनस्पतीन्। ततस्त्वामेकविंशतिधा संभरामि सुसंभृता॥ त्रीपरिधीस्तिस्त्रः समिधो यज्ञायुरनुसंचरान्। उपवेषं मेक्षणं धृष्टिं संभरामि सुसंभृतेति शुल्ब इध्मं संभरति॥१॥ PER Twith yatrikrsno rupam krtvā.........1, trin paridhin ..........' the Adhvaryu piles the fuel on the cord. -- M.S.1-2: TB JII.7:4.8-9.
-10 ? कृष्णो ऽस्याखरेठो देव पुरश्चर सध्यासं त्वेति संनयति। पुरस्तात्प्रत्यञ्चं ग्रन्थिमुपगृहति पञ्चात्याचे वा। अनधो निदधाति॥२॥ __2. With krsnosyakharesthah.........' he ties up (the fuel by means of a cord). He conceals the knot either from east to west or from west to east.? He keeps it dowm not directly upon the ground (but on some grass spread on the ground).'
-____1. TS I.1.11.9; TA IV.3.3; See Xv.4.12. हामी fir Ste IA.14:12.10TTP)
-119. Cp. I.4.1. इध्मप्रवचनानि निदधाति॥३॥ bliuonle) on 30 He keeps chips of wood! (whichi mere fallen at the time of cutting) of the fuel (in a well-marked place).
-9... For the use of these see, 111.9!?ritw 900 s
-1.6]
-ĀPŚS Translation : THITE त्वया वेदि विविदुः पृथिवीं त्वया यज्ञो जायते विश्वदानिः। अच्छिद्रं यज्ञमन्वेषि विद्वांस्त्वया होता संतनोत्यर्धमासानिति दर्भाणां वेदं करोति।।४॥
-120. With tvayā vedim vividuh......' he prepares Veda (grass brush)2 out of Darbha (grass).
-121. TB III.7.4.12.
-122. For the use of Veda see I.24.5; 25.12; II.1.3 etc.
+## 01.06
+यत्कृष्णो रूपं कृत्वां प्राविशस्त्वं वनस्पतीन्। ततस्त्वामेकविंशतिधा संभरामि सुसंभृता॥ त्रीपरिधीस्तिस्त्रः समिधो यज्ञायुरनुसंचरान्। उपवेषं मेक्षणं धृष्टिं संभरामि सुसंभृतेति शुल्ब इध्मं संभरति॥१॥
+
+
+कृष्णो ऽस्याखरेठो देव पुरश्चर सध्यासं त्वेति संनयति। पुरस्तात्प्रत्यञ्चं ग्रन्थिमुपगृहति पञ्चात्याचे वा। अनधो निदधाति॥२॥ __
+
+
+इध्मप्रवचनानि निदधाति॥३॥  
+
+
+
+त्वया वेदि विविदुः पृथिवीं त्वया यज्ञो जायते विश्वदानिः। अच्छिद्रं यज्ञमन्वेषि विद्वांस्त्वया होता संतनोत्यर्धमासानिति दर्भाणां वेदं करोति।।४॥
+
 
 वत्सर्जु पशुकामस्य मूतकार्यमन्नाद्यकामस्य त्रिवृच्छिरसं ब्रह्मवर्चसका मस्य॥५॥
-123. (He prepares the Veda) of the size of the knee of a calf in the case of a (sacrificer) desirous of cattle; of the size of a winnowing basket in the case of a (sacrifier) desirous of food; one with three heads in the case of a (sacrificer) desirous of Brahman-lustre.
+
 
 
 शुल्बात्प्रादेशे परिवास्य वेदपरिवासनानि निदधाति॥६॥
-124. Having cut the Veda at the length of one span (up wards) from the cord he keeps the cuttings of the Veda (in a well-marked place).
-____ 1. For the use of these see II.4.2.
+
 
 
 अन्तर्वेदि शाखायाः पलाशान्यसर्वाणि प्रशात्य मूलतः शाखां परिवास्योपवेषं करोत्युपवेषो ऽसि यज्ञाय त्वां परिवेषमधारयन्। इन्द्राय हविः कृण्वन्तः शिवः शग्मो भवासि न इति॥७॥
-_____7. Inside the alter, having cut the leaves of the branchi having left some leaves, having cut the branch towards the root, he prepares Upaveṣa (fire-stirring stick)2 with upaveṣo'si yajñāya tvām......?
-125. Mentioned in I.2.10. 2. For the use of it see I.12.1.
-126. TB III.7.4.13. तृतीयस्यै दिवो गायत्रिया सोम आभृतः। सोमपीथाय संनयितुं वकल मन्तरमादद इति परिवासनशकलमादाय प्रज्ञातं निदधाति॥८॥
-127. With trtiyasyai divo gāyatriyāh.......! having taken the cut part (of the Upavesa), he keeps it in a well-marked place.2
-128. TB III.7.4.1. 2. For the use of it see I.13.15.
-14
+
+
+
+तृतीयस्यै दिवो गायत्रिया सोम आभृतः। सोमपीथाय संनयितुं वकल मन्तरमादद इति परिवासनशकलमादाय प्रज्ञातं निदधाति॥८॥
+
 
 
 त्रिवददर्भमयं पवित्रं कृत्वा वसूनां पवित्रमसीति शाखायां शिथिलमवसनकि मूले मूलान्यग्रे ऽग्राणि। न ग्रन्थिं करोति॥९॥
-129. Having prepared a strainer of three Darbha(-blade)s with vasūnāṁ pavitramasi he joins it to the branch with its roots on the root-part (of the branch) and the tips on the tip part (of the branch). He does not make a knot.
-130. TS I.1.3f.
-131. This is then called sākhāpavitra for the use of which see I. 12.3ff.
+
 
 त्रिवृत्पलाशे दर्भ इयान्प्रादेशसंमितः। यज्ञे पवित्रं पोतृतमं पयो हव्यं करोतु मे॥ इमौ प्राणापानौ यज्ञस्याङ्गानि सर्वशः। आप्याययन्तौ संचरतां पवित्रे हव्यशोधन इति क्रियमाणे यजमानो ऽनुमन्त्रयते॥१०॥
-132. With trivrtpalase darbhe......' and imau prānāpānau ....... the sacrificer addresses (the sakhāpavitra) being pre pared.
-_1-2. TB III.7.4.11.
+
 
 समूहन्त्यग्न्यगारमुपलिम्पन्त्यायतनानि॥११॥
-133. They cleanse the fire-chamber; besmear the places of fires (with water mixed with cow-dung).
-134. The ends of the fire-places.
+
 
 अलंकुर्वाते यजमानः पत्नी च॥१२॥
-135. The sacrificer and the wife of the sacrificer adorn themselves.
+
 
 
 नवे सांनाय्यकुम्भ्यौ यावच्छर्करं गोमयेनालिप्ते भवतः॥१३॥
-136. There are two new jars for Sāṁnāyya which should be besmeared by means of cow-dung upto the sandy-parts of them.
-137. Rough, unpolished part near the bottom.
+
+
 ## 01.07
 .
 
 
 अमावास्यायां यदहश्चन्द्रमसं न पश्यन्ति तदहः पिण्डपितृयज्ञं कुरुते॥१॥
-138. One performs the Pindapitryajna on the new-moon day when one cannot see the moon.
-15
+
 
 अपराह्ने ऽधिवृक्षसूर्ये वा पिण्डपितृयज्ञेन चरन्ति॥२॥
-139. They perform the Piṇdapitļyajña in the afternoon or when the rays of the sun are resting on the tree-tops.
+
 
 
 अपां मेध्यं यज्ञियमिति समूलं सकृदाच्छिन्नं बर्हिराहरति॥३॥ सकृदाच्छिन्नानि वा तृणान्युपमूलं दिनानि॥४॥
-3-4. With apām_medhyam yajniyam.......... (the Adharvyu) fetches Barhis-grass accompanied by roots and cut in one stroke (by means of the cutting instrument). Or (he fetches) grass-blades cut in one stroke (by the cutting instru ment) struck at the roots.
-____ 1. TB III.7.4.9.
+
 
 
 दक्षिणाप्रागौर्दभैर्दक्षिणमग्निं परिस्तीर्य दक्षिणतः पश्चाद्वा दर्भान्संस्तीर्य दक्षिणाप्राञ्च्येकैकशः पिण्डपितृयज्ञपात्राणि प्रयुनक्ति स्फ्यं मेक्षणं कृष्णा जिनमुलूखलं मुसलं शूर्पमाज्यस्थाली चरुस्थाली येन चान्येनार्थी भवति॥५॥
-140. Having spread Darbha-grass pointing to the south-east' round the southern fire, having strewn Darbha-grass to the south or to the west, (the Adhvaryu) arranges the utensils of the Pindapitryajna on it singly (from northwest) to the south east; wooden sword, spatula (meksana), black antelope's skin, morter, pestle, winnowing basket, pot for ghee, pot for cooked rice, and whatever else that he requires.
-1.Contrast I.14.14.
-141. Contrast I.15.6. For this rule cf.TS I.6.8.2.
+
 
 दक्षिणतः प्रागीषं व्रीहिमच्छकटमवस्थितं भवति॥६॥
-142. The cart containing ricegrains is situated towards the south', with its yoke pointing to the east...
-143. Contrast I.17.5.
+
 
 
 अध्वर्युरुपवीती स्थालीमेकपवित्रेणान्तर्धाय तया दक्षिणतः शकटादधि निर्वपत्युत्तरतो वा॥७॥
