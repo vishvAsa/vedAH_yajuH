@@ -191,8 +191,6 @@ NEW AND FULL-MOON-SACRIFICES
 
 ## 01.05
  प्रेयमगादुर्वन्तरिक्षमन्विहीति यौ गमनौ तौ प्रत्यायनौ॥१॥
-99. The same formulae preyanagād... and urvantariks amanvihi which were used at the time going out' should be used for returning
-___1. See I. 3.5.
 
 अदित्यास्त्वोपस्थे सादयामीत्यन्तर्वेदि परिधिदेशे ऽनधः सादयति॥२॥
 100. With adityāstvopasthe sādayami' (the Adhvaryu) keeps down (the bundle of the sacrificial grass within the altar? (but) not directly upon the ground (but on some grass) near the place (where afterwards) the Paridhis (enclosing sticks) (are going to be kept).'
