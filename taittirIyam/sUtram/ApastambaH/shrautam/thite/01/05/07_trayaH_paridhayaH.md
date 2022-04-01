@@ -2,4 +2,4 @@
 title = "07 त्रयः परिधयः"
 
 +++
-त्रयः परिधयः ७
+7. There should be three enclosing sticks- 

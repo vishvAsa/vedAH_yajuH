@@ -2,4 +2,12 @@
 title = "05 या जाता ओषधयो"
 
 +++
-या जाता ओषधयो देवेभ्यस्त्रियुगं पुरा । तासां पर्व राध्यासं परिस्तरमाहरन् । अपां मेध्यं यज्ञियं सदेवं शिवमस्तु मे । आच्छेत्ता वो मा रिषं जीवानि शरदः शतम् । अपरिमितानां परिमिताः सन्नह्ये सुकृताय कम् । एनो मा निगां कतमच्चनाहं पुनरुत्थाय बहुला भवन्त्विति परिस्तरणानामधि निधान्याच्छेदनी सन्नहनीति यथालिङ्गम् ५
+5. The verses yā jātā oṣadhayaḥ...[^1] apāṁ medhyam...[^2] aparimitānām parimitāh...[^3] are to be used[^4] in accordance with the characteristic marks (words in them) at the time of keeping the sickle upon, at the time of cutting, and at the time of tying up into a bundle of the (grass) to be scattered.  
+
+[^1]: TB III. 7.4.9.  
+
+[^2]: TB III. 7.4.9.  
+
+[^3]: TB III. 7.4.10.  
+
+[^4]: Instead of the formulae mentioned in I. 3.13, 14 and I. 4.12.
