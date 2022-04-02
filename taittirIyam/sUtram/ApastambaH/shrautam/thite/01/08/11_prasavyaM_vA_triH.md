@@ -2,4 +2,4 @@
 title = "11 प्रसव्यं वा त्रिः"
 
 +++
-प्रसव्यं वा त्रिः परिषिञ्चति ११
+11. Or he pours water, three times by the left.  
