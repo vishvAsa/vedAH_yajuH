@@ -2,4 +2,4 @@
 title = "09 यजमानो ऽत ऊर्ध्वम्"
 
 +++
-यजमानो ऽत ऊर्ध्वं प्राचीनावीती कर्माणि करोति ९
+9. Afterwards it is the sacrificer who performs the activities with his garment (sacred thread) suspending on the right shoulder.  

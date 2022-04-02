@@ -2,4 +2,10 @@
 title = "10 अपरेणान्वाहार्यपचनम् प्रत्यगुदग्ग्रीवे कृष्णाजिन"
 
 +++
-अपरेणान्वाहार्यपचनं प्रत्यगुदग्ग्रीवे कृष्णाजिन उलूखले प्रतिष्ठिते दक्षिणाप्राची तिष्ठन्ती पत्न्यवहन्ति परापावमविवेकम् १०
+10. In the mortar established on the black antelope's skin which is spread to the west of the Anvāhāryapacana (Dakṣiṇa-fire)[^1] with its neck to the north-west[^2], the wife of the sacrificer standing with her face to the south-east, threshes the rice-grains winnowing[^3] again and again but without sifting them.  
+
+[^1]: Contrast I.20.7  
+
+[^2]: Contrast I.19.4.  
+
+[^2]: Contrast I.20.11.  

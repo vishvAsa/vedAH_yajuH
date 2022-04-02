@@ -2,4 +2,14 @@
 title = "13 अपहता असुरा रक्षांसि"
 
 +++
-अपहता असुरा रक्षांसि पिशाचा वेदिषद इत्यन्तरा गार्हपत्यान्वाहार्यपचनौ दक्षिणपूर्वेण वान्वाहार्यपचनं दक्षिणाप्राचीमेकस्प्यां पराचीं वेदिमुद्धत्य शुन्धन्तां पितर इत्यद्भिरवोक्ष्यायन्तु पितरो मनोजवस इत्यभिमन्त्र्य सकृदाच्छिन्नं बर्हिरूर्णामृदु स्योनं पितृभ्यस्त्वा भराम्यहम् । अस्मिन्सीदन्तु मे पितरः सोम्याः पितामहाः प्रपितामहाश्चानुगैः सहेति सकृदाच्छिन्नेन बर्हिषा वेदिं स्तृणाति १३
+13. With apahatā asurā rakṣāṁsi[^1] between the Gārhapatya and the Anvāhāryapacana (fires)[^2] or to the south-east of the Anvāhāryapacana-fire having dug out (i.e. prepared) the altar in the form of a single line drawn by means of the Sphya (wooden sword), (from north-west) to the south-east,[^3] in a forward direction, with śundhantāṁ pitaraḥ having sprinkled water with his palm turned downwards), with āyantu pitaro manojavāsaḥ.... having addressed the altar, with sakr̥dācchinnaṁ barhiḥ (the sacrificer) scatters the sacrificial grass cut in one stroke[^4] on the altar.[^5]  
+
+[^1]: Cp. VS. II.29.  
+
+[^2]: Contrast II.2.7.  
+
+[^3]: Contrast II.2.7ff.  
+
+[^4]: See I.7.3.  
+
+[^5]: Cp. II.9.2ff.  

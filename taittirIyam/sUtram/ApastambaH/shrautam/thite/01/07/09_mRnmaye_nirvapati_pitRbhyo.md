@@ -2,4 +2,4 @@
 title = "09 मृन्मये निर्वपति पितृभ्यो"
 
 +++
-मृन्मये निर्वपति पितृभ्यो वो जुष्टं निर्वपामीति तूष्णीं वा ९
+9. With pitr̥bhyo vo juṣṭaṁ nirvapāmi or silently (without any formula) he pours out (the rice grains) in an earthen pot.

@@ -2,4 +2,4 @@
 title = "02 तूष्णीञ् चतुर्थम्"
 
 +++
-तूष्णीं चतुर्थम् २
+2. He gives the fourth silently (without any formula).  
