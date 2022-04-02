@@ -296,117 +296,93 @@ NEW AND FULL-MOON-SACRIFICES
 
 
 अध्वर्युरुपवीती स्थालीमेकपवित्रेणान्तर्धाय तया दक्षिणतः शकटादधि निर्वपत्युत्तरतो वा॥७॥
-144. The Adhvarya with his garment (sacred thread) rest ing on the left shoulder and under the right arm-pit having
-16
-held a single strainer on the earthen poté pours out the rice grains from the cart into it either from the south or the north.
-__ 1. Contrast I.17.10
-145. See Sutra 9.
+
 
 तां पूरयित्वा निमाष्टि।८॥
-146. Having filled it with rice grains he moves the hand (on the grains in order to level out the rice grains to the brim of the pot).
+
 
 
 मृन्मये निर्वपति पितृभ्यो वो जुष्टं निर्वपामीति तूष्णीं वा॥९॥
-147. With pitrblryo vo justam nirvapāmi or silently (without any formula) he pours out (the rice grains) in an earthen pot. ___
+
 
 अपरेणान्वाहार्यपचनं प्रत्यगुदग्ग्रीवे कृष्णाजिन उलूखले प्रतिष्ठिते दक्षिणाप्राची तिष्ठन्ती पल्यवहन्ति परापावमविवेकम्॥१०॥
-148. In the mortar established on the black antelope's skin which is spread to the west of the Anvāhāryapacana (Dakṣiṇa fire)' with its neck to the north-west?, the wife of the sacrificer standing with her face to the south-east, threshes the rice-grains winnowings again and again but without sifting them.
-1.Contrast I.20.7 2. Contrast I.19.4.
-149. Contrast I.20.11.
+
 
 सकृत्फलीकरोति॥११॥
-11. She husks (them) once (only).'
-150. Contrast I.20.11. Cf. SB II.4.2.9.
+
 
 दक्षिणाग्नौ जीवतण्डुलं अपयति॥१२॥
-151. (The Adhvaryu) cooks (the rice-pap) on the Daksina firel in such a manner that after the rice-pap is cooked the individual grains remain distinct from each other.
-1.Contrast I.22.1.
+
 
 
 अपहता असुरा रक्षांसि पिशाचा वेदिषद इत्यन्तरा गार्हपत्यान्वाहार्यपचनौ दक्षिणापूर्वेण वान्वाहार्यपचनं दक्षिणाप्राचीमेकस्फ्यां पराची वेदिमुद्धत्य शुन्धन्तां पितर इत्यभिरवोक्ष्यायन्तु पितरो मनोजवस इत्यभिमन्त्र्य सकृदाच्छिन्न
 17
 बर्हिरूर्णामृदु स्योनं पितृभ्यस्त्वा भराम्यहम्। अस्मिन्सीदन्तु मे पितरः सोम्याः पितामहाः प्रपितामहाश्चानुगैः सहेति सकृदाच्छिन्नेन बर्हिषा वेदिं स्तृणाति॥१३॥
-152. With apahatā asurā rakṣāínsi' between the Gārhapatya and the Anvāhāryapacana (fires)? or to the south-east of the Anvāhāryapacana-fire having dug out (i.e. prepared) the altar in the form of a single line drawn by means of the Sphya (wooden sword), (from north-west) to the south-east, in a forward di rection, with sundhantām pitaraḥ having sprinkled water with his palm turned downwards), with āyantu pitaro mano javāsah.... having addressed the altar, with sakrdācchinnam barhih (the sacrificer) scatters the sacrificial grass cut in one stroke' on the altar.s
-153. Cp. VS. II.29. 2. Contrast II.2.7. 3. Contrast II.2.7ff. 4. See I.7.3. 5. Cp. II.9.2ff.
+
+
 ## 01.08
 
 
 
 उत्पूतेन नवनीतेनानुत्पूतेन वा सर्पिषा स्थालीपाकमभिघायॆकस्फ्यायां मेक्षणमासाद्य स्थालीपाकमासादयति॥१॥
-___1. On the cooked rice-pap in the vessel, having poured butter which is either purified or not purified, having placed the spatula on the single line drawn by means of the Sphya, the sacrificer places the cooked rice-pap in the vessel.2
-154. For the way of purification See II.6.7.
-155. cf. SB II.4.2. 10. दक्षिणतः कशिपूपबहणमाञ्जनमभ्यञ्जनमुदकुम्भमित्येवैकश आसादयति॥२॥
-156. He places a bed, cussion, collyrium, ointment, jar of water singly' to the south on the altar.
-157. Not in pairs.
+
+
+
+दक्षिणतः कशिपूपबहणमाञ्जनमभ्यञ्जनमुदकुम्भमित्येवैकश आसादयति॥२॥
+
 
 
 अध्वर्युरुपवीती दक्षिणं जान्वाच्य मेक्षण उपस्तीर्य तेनावदायाभिघार्य सामाय पितृपीताय स्वधा नम इति दक्षिणाग्नौ जुहोति॥३॥
-158. Having bent his right knee, having spread an underlayer
-.
-(of ghee) in the stapula, having taken rice portions by means of it, having poured ghee in the rice-portion with his upper gar ment (sacred thread) on the left shoulder and under the right armpit, the Adhvaryu offers (the rice) in the southern fire with somāya pitrpitāya svadha namaḥ.2
-159. i.e. having kept his left leg upon the right thigh.
-160. TB I.3.10.2.
+
 
 यमायाङ्गिरस्वते पितृमते स्वधा नम इति द्वितीयाम्। अग्नये कव्यवाहनाय स्वधा नम इति तृतीयाम्॥४॥
-161. (He makes) the second offering with yamāyāngirasvate pitsmate svadhā namaḥ,' .... the third with agnaye kavyavāha näya svadh, namaḥ.?
-162. Not in TB.
-163. TB I.3.10.3.
+
 
 ये मेक्षणे तण्डुलास्तान्हुत्वा तूष्णीं मेक्षणमादधाति॥५॥
-164. Having offered the rice-grains from the rice-pap stick ing in the stapula, he keeps down the stapula silently (without any formula).
+
 
 
 न यमाय जुहोतीत्येके॥६॥
-6. According to some ritualists he does not offer to Yama. ___ 1. See TB II.4.2.12.
+
 
 
 अपयन्त्वसुराः पितृरूपा ये रूपाणि प्रतिमुच्याचरन्ति। परापुरो निपुरो ये भरन्त्यग्निष्टांसोकात्प्रणुदात्यस्मात्॥ ये देवाः पितरो ये च मानुषा ये गर्भे मगुरुत ये परास्ताः। य उद्धता उत ये निखातास्ते सम्यञ्च इह मादयन्ताम्॥ ये रूपाणि प्रतिमुञ्चमाना असुराः सन्तः स्वधया चरन्ति। परापुरो निपुरो ये भरन्त्यग्निष्टांल्लोकात्प्रणुदात्यस्मात्॥ ये ज्ञातीनां प्रतिरूपाः पितृन्माययासुराः . प्रविष्टः। परापुरो निपुरो ये भरन्त्यग्ने तानस्मात्प्रणुदस्व लोकादिति दक्षिणाग्ने रेकोल्मुकं धूपायद्धरति।७॥
-165. With the four verses beginning with apayantvasura! pitsrūpāh', ye devāḥ pitarah, ye rūpāṇi pratimuscamande, and ye jnatinām .... (the Adhvaryu) takes a smoking fire-brana from the Dakṣina-fire. S
-166. CP. Mass I.1.2.8. 2. This verse is found only here.
 
-167. VS II.30. 4. This verse is found only liere.
-168. Cp. VIII.17.8.
+
 
 दक्षिणपूर्वमवान्तरदेशं सकृत्स्फ्येनोल्लिख्योदीरतामवर इत्यद्भिरवोक्ष्यो लिखितान्ते निदधाति॥८॥
-169. Having dug out the south-eastern corner once by means of the Sphya, with udiratāmavaraḥ ... having sprinkled water with his palm turned downwards, he keeps the fire-brand on the outer end of the dug out (line).
+
 
 
 यजमानो ऽत ऊर्ध्वं प्राचीनावीती कर्माणि करोति॥९॥
-170. Afterwards it is the sacrificer who performs the activi ties with his garment (sacred thread) suspending on the right shoulder.
+
 
 
 मार्जयन्तां मम पितरो मार्जयन्तां मम पितामहा मार्जयन्तां मम प्रपितामहा इत्येकस्फ्यायां त्रीनुदकाञ्जलीनिनयति॥१०॥
-____10. With mārjayantām mama pitarah ... he pours three handfuls of water on the single line drawn by means of the Sphya.
-प्रसव्यं वा त्रिः परिषिञ्चति॥११॥
-11. Or he pours water, three times by the left.
+
+
+प्रसव्यं वा त्रिः परिषिञ्चति॥११॥  
+
 
 त्रीनुदपात्रान्वाजसनेयिनः समामनन्ति॥१२॥
-171. According to the opinion of the Vājasaneyins' three potfuls of water (should be poured).
-___1. The now available texts of the Vājasaneyins do not contain this.
+
 mamanetarawn buning
 
 
 सव्यं जान्वाच्यावाचीनपाणिः सकृदाच्छिन्ने बर्हिषि दक्षिणापवर्गान्पि ण्डान्ददात्येतत्ते ततासौ ये च त्वामन्वित्येतैः प्रतिमन्त्रम्॥१॥
-172. Having bent his left kneel, with his palm turned down wards, (the sacrificer) gives three rice-balls on the sacrificial grass cut in one stroke, from north to south, one by one, with
-20 one of the formulae in the sequence, beginning with etat te tatāsau ye ca tvām anu.?
-__ 1. i.e. having kept his left leg on the right thigh.
-173. TS I.8.5.c.
+
 
 तूष्णीं चतुर्थम्॥२॥
-2. He gives the fourth silently (without any formula).
+
 
 स कृताकृतः॥३॥
-3. This is optional.1
-174. TB 1.3.10.4 mentions only three rice balls.
+
 
 प्रपितामहप्रभृतीन्वा॥४॥
-175. Or (he may give rice-balls) starting from the great grand father.1
-176. Cf. Kau. Sū 88.8-10. Contrast Sūtra 1 above where it is pre
-scribed to give rice balls to the father, grand father, great grand
-father.
+
 
 नानामगृहीतं गच्छति॥५॥
-177. That in connection with which no name is ultered, does not go (to the ancestor concerned).
+
 
 
 यदि बन्धून विद्यात्स्वधा पितृभ्यः पृथिविषद्भ्य इति प्रथमं पिण्डं दद्यात्। स्वधा पितृभ्यो ऽन्तरिक्षसभ्य इति द्वितीयम्। स्वधा पितृभ्यो दिविषद्भ्य इति तृतीयम्॥६॥
