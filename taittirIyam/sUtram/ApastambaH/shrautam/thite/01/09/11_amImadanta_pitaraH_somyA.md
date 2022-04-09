@@ -2,4 +2,6 @@
 title = "11 अमीमदन्त पितरः सोम्या"
 
 +++
-अमीमदन्त पितरः सोम्या इति व्यावृत्त ऊष्मण्यभिपर्यावर्ततेऽव्यावृत्ते वा ११
+11. After the steam is ceased or before it is ceased, he turns his face towards the balls with amīmadanta pitaraḥ somyāḥ.[^1]  
+
+[^1]: Cp. TB I. 6.9.9. 

@@ -2,4 +2,8 @@
 title = "14 अभून्नो दूतो हविषो"
 
 +++
-अभून्नो दूतो हविषो जातवेदा अवाड्ढव्यानि सुरभीणि कृत्वा । प्रादाः पितृभ्यः स्वधया ते अक्षन्प्रजानन्नग्ने पुनरप्येहि देवानित्येकोल्मुकं प्रत्यपिसृज्य प्रोक्ष्य पात्राणि द्वन्द्वमभ्युदाहरति १४
+14. With abhūnno dūtaḥ...[^1] having thrown back the burning fire brand[^2] (into the fire), having washed the utensils, he puts them back in pair.  
+
+[^1]: Cp. TS II.6.12.n.  
+
+[^2]: See I.8.7.  

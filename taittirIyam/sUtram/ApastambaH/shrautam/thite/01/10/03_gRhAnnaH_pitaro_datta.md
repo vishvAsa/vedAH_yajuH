@@ -2,4 +2,4 @@
 title = "03 गृहान्नः पितरो दत्त"
 
 +++
-गृहान्नः पितरो दत्त सदो वः पितरो देष्मेति पितॄनुपतिष्ठते ३
+3. With uttiṣthata pitaraḥ preta....he stands praising the ancestors.  

@@ -2,4 +2,4 @@
 title = "17 यदि नामानि न"
 
 +++
-यदि नामानि न विद्यादाञ्जतां मम पितर आञ्जतां मम पितामहा आञ्जतां मम प्रपितामहा इत्याञ्जनम् । एवमभ्यञ्जनमभ्यञ्जतामिति मन्त्रं सन्नमति १७
+17. If he does not know the names of his ancestors he should give the collynium with āñjatāṁ mama pitaraḥ .... In the same manner he gives the ointment, he modifies the formula with the words abhyañjatām...
