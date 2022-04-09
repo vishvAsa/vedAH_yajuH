@@ -2,4 +2,6 @@
 title = "09 यन्मे माता प्रममाद"
 
 +++
-यन्मे माता प्रममाद यच्चचाराननुव्रतम् । तन्मे रेतः पिता वृङ्क्तामाभुरन्योपपद्यतां पितृभ्यः स्वधा विभ्यः स्वधा नमः पितामहेभ्यः स्वधा विभ्यः स्वधा नमः प्रपितामहेभ्यः स्वधा विभ्यः स्वधा नम इत्युपस्थायात्र पितरो यथाभागं मन्दध्वमित्युक्त्वा पराङावर्तते ९
+9. Having stood near the balls praising the ancestors with yan me mātā pramamāda... having uttered atra pitaro yathābhāgam mandadhvam[^1] he turns away his face away from the balls.  
+
+[^1]: TB I.8.5.b.b.  

@@ -2,4 +2,6 @@
 title = "06 उत्तिष्ठत पितरः प्रेत"
 
 +++
-उत्तिष्ठत पितरः प्रेत शूरा यमस्य पन्थामनुवेता पुराणम् । धत्तादस्मासु द्रविणं यच्च भद्रं प्र णो ब्रूताद्भागधां देवतास्विति पितॄनुत्थापयति ६
+6. With uttiṣthata.....[^1] he causes the ancestors to stand up.  
+
+[^1]: The verse only in Āpastamba and Hraṇyakeśi-śratasūtras.  

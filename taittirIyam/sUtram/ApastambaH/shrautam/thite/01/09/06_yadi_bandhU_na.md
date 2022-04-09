@@ -2,4 +2,6 @@
 title = "06 यदि बन्धू न"
 
 +++
-यदि बन्धू न विद्यात्स्वधा पितृभ्यः पृथिविषद्भ्य इति प्रथमं पिण्डं दद्यात् । स्वधा पितृभ्योऽन्तरिक्षसद्भ्य इति द्वितीयम् । स्वधा पितृभ्यो दिविषद्भ्य इति तृतीयम् ६
+6. If he does not know the (names of the) relatives[^1] (fore-fathers), he should give the first rice-ball with svadhā pitṛbhyaḥ pṛthiviṣadbhyah, the second with svadhā pitṛbhyo'ntarikṣasadbhyaḥ; the third with svadhā pitṛbhyo diviṣadbhyaḥ.  
+
+[^1]: We have to read bandhūnna instead of bandhū na.

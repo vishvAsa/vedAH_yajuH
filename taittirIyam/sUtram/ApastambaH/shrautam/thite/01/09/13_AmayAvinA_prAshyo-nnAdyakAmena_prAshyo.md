@@ -2,4 +2,4 @@
 title = "13 आमयाविना प्राश्योऽन्नाद्यकामेन प्राश्यो"
 
 +++
-आमयाविना प्राश्योऽन्नाद्यकामेन प्राश्यो योऽलमन्नाद्याय सन्नाद्यात्तेन वा प्राश्यः १३
+13. It should be eaten by a sacrificer who is diseased, by a (sacrificer who is desirous) food, or by a (sacrificer who) being able to eat food, does not eat.  
