@@ -2,4 +2,16 @@
 title = "01 निष्टप्तं रक्षो निष्टप्तोऽघशंस"
 
 +++
-निष्टप्तं रक्षो निष्टप्तोऽघशंस इति गार्हपत्ये सान्नाय्यपात्राणि प्रतितय्य धृष्टिरसि ब्रह्म यच्छेत्युपवेषमादाय निरूढं जन्यं भयं निरूढाः सेना अभीत्वर्रारिति गार्हपत्यादुदीचोऽङ्गारान्निरूह्य मातरिश्वनो घर्मोऽसीति तेषु कुम्भीमधिश्रयति १
+1. With niṣṭapataṁ rakṣo niṣṭapta arātayaḥ[^1] having heated the utensils of Sāṁnāyya on the Gārhapatya (fire), with dhṛṣṭirasi brahma yaccha[^2] having taken the fire-stirring stick in his hand, with nirūḍhaṁ janyaṁ...[^3]: having taken out embers from the Gārhapatya fire to the north,[^4] with mātariśvano gharmo'si[^5] the Adhvaryu places the (earthen) pitcher[^6] on them (embers).  
+
+[^1]: VS I.7.  
+
+[^2]: TS I.1.7.a.  
+
+[^3]: Cp. JB I.39.  
+
+[^4]: The embers are to be taken away within the Gārhapatya fire only.  
+
+[^5]:. TS 1.1.3.b-e.  
+
+[^6]: See I.11.5.  

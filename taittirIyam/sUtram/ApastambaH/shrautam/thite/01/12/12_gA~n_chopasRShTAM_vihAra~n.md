@@ -2,4 +2,4 @@
 title = "12 गाञ् चोपसृष्टां विहारञ्"
 
 +++
-गां चोपसृष्टां विहारं चान्तरेण मा सञ्चारिष्टेति सम्प्रेष्यति १२
+12. "Do you not pass between the sacrificial place and the cow near which the calf has been brought" the Adhvarvu orders.  

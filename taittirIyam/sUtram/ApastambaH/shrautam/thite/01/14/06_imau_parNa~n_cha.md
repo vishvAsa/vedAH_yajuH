@@ -2,4 +2,6 @@
 title = "06 इमौ पर्णञ् च"
 
 +++
-इमौ पर्णं च दर्भं च देवानां हव्यशोधनौ । प्रातर्वेषाय गोपाय विष्णो हव्यं हि रक्षसीति प्रज्ञातं शाखापवित्रं निदधाति ६
+6. With imau parṇaṁ ca darbhaṁ ca...[^1] he keeps the branch-strainer at a well-marked place.  
+
+[^1]: TB III.7.4.18.  

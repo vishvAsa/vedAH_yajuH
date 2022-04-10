@@ -2,4 +2,8 @@
 title = "06 देवस्त्वा सविता पुनातु"
 
 +++
-देवस्त्वा सविता पुनातु वसोः पवित्रेण शतधारेण सुपुवेति कुम्भ्यां तिरः पवित्रमासिञ्चति ६
+6. With devastvā savitā punātu...[^1] (the Adhvaryu) pours (the milk into the pitcher) through the branch-strainer.[^2]  
+
+[^1]: VS I.13.  
+
+[^2]: Cf. TB III.2.3.6.  

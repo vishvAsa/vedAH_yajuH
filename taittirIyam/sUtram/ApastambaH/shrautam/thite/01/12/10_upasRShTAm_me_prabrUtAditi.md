@@ -2,4 +2,6 @@
 title = "10 उपसृष्टाम् मे प्रब्रूतादिति"
 
 +++
-उपसृष्टां मे प्रब्रूतादिति सम्प्रेष्यति १०
+10. The Adhvaryu orders the milker "Do you announce (the cow) when the cow is near the calf".[^1]  
+
+[^1]: SB 1.7.1.10.  

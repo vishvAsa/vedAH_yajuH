@@ -2,4 +2,12 @@
 title = "15 यज्ञस्य सन्ततिरसि यज्ञस्य"
 
 +++
-यज्ञस्य सन्ततिरसि यज्ञस्य त्वा सन्ततिमनुसन्तनोमीत्यग्निहोत्रोच्छेषणमन्ववधायायं पयः सोमं कृत्वा स्वां योनिमपिगच्छतु । पर्णवल्कः पवित्रं सौम्यः सोमाद्धि निर्मित इति परिवासनशकलमन्ववदधाति १५
+15. With yajñasya santatirasi...[^1] having poured the remaining material of the Agnihotra[^2] into (the curdled milk), with ayaṁ payaḥ somaṁ kṛtvā...[^3] he puts the splinter of (Palāśabranch) which has fallen out (while the upaveṣa (fire stiring stick) was cut).[^4]  
+
+[^1]: TB III.7.4.17.  
+
+[^2]: See I.11.1; TS II.5.3.6.  
+
+[^3]: TB III.7.4.17.  
+
+[^4]: See I.6.8.  

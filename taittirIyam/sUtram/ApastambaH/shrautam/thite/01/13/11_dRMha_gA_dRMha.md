@@ -2,4 +2,6 @@
 title = "11 दृंह गा दृंह"
 
 +++
-दृंह गा दृंह गोपतिं मा वो यज्ञपती रिषदिति वर्त्म कुर्वन्प्रागुद्वासयत्युदक् प्रागुदग्वा ११
+ll. With dṛṁha gā dṛṁha gopatim... (the Adhvaryu) removes the pitcher (from the embers) towards the east, or the north or towards the north-east, dragging[^1] as it were.  
+
+[^1]: Literally "making a path". Thus he should not lift the pitcher from the embers, but horizontally remove it away from the embers.
