@@ -2,4 +2,6 @@
 title = "09 पूषासीति वत्समभिदधाति"
 
 +++
-पूषासीति वत्समभिदधाति ९
+9. With pūṣāsi[^1] the milker tethers the calf.  
+
+[^1]: Cp. TB III.7.4.15.  

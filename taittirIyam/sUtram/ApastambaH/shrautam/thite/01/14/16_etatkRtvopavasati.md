@@ -2,4 +2,4 @@
 title = "16 एतत्कृत्वोपवसति"
 
 +++
-एतत्कृत्वोपवसति १६
+16. After this much is done (the sacrificer) starts observing fast.  

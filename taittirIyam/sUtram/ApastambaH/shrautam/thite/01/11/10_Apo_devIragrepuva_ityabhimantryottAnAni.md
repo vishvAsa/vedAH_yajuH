@@ -2,4 +2,14 @@
 title = "10 आपो देवीरग्रेपुव इत्यभिमन्त्र्योत्तानानि"
 
 +++
-आपो देवीरग्रेपुव इत्यभिमन्त्र्योत्तानानि पात्राणि पर्यावर्त्य शुन्धध्वं दैव्याय कर्मण इति त्रिः प्रोक्ष्य प्रज्ञाते पवित्रे निदधाति । आपो देवीः शुद्धा स्थेमा पात्राणि शुन्धत । उपातङ्क्याय देवानां पर्णवल्कमुत शुन्धत । देवेन सवित्रोत्पूता वसोः सूर्यस्य रश्मिभिः । गां दोहपवित्रे रज्जुं सर्वा पात्राणि शुन्धतेति प्रोक्ष्यमाणान्यभिमन्त्र्यैता आचरन्ति मधुमद्दुहानाः प्रजावतीर्यशसो विश्वरूपाः । बह्वीर्भवन्तीरुपजायमाना इह व इन्द्रो रमयतु गाव इति गा आयतीः प्रतीक्षते यजमानः १०
+10. With āpo deviragrepuvah[^1] having addressed the utensils, having then turned them with upside up,[^2] with śundhadhvaṁ daivyāya karmaṇe[^3] having thrice sprinkled water on them, he keeps them on the known strainer. Having addressed the utensils on which water is being sprinkled with apo deviḥ śuddhā stha...[^4] the sacrificer looks at the returning cows with etā ācaranti madhumadduhānāḥ ....[^5]  
+
+[^1]: TS I.1.5.b-d.  
+
+[^2]: See I.11.4.  
+
+[^3]: TS I.1.5.e   
+
+[^4]: TB III.7.4.2. see I.6.8.  
+
+[^5]: TB III. 7.4.14.  

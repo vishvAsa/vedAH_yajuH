@@ -2,4 +2,4 @@
 title = "08 न नखेन"
 
 +++
-न नखेन ८
+8. He does not cut by means of his nail.  

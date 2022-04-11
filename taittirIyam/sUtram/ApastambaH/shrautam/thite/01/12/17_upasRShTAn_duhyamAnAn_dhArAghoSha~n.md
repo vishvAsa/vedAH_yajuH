@@ -2,4 +2,11 @@
 title = "17 उपसृष्टान् दुह्यमानान् धाराघोषञ्"
 
 +++
-उपसृष्टां दुह्यमानां धाराघोषं च यजमानोऽनुमन्त्रयते । अयक्ष्मा वः प्रजया संसृजामीत्युपसृष्टाम् । द्यौश्चेमं यज्ञं पृथिवी च सन्दुहाताम् । धाता सोमेन सह वातेन वायुः । यजमानाय द्रविणं दधात्विति दुह्यमानाम् १७
+17. The sacrificer addresses the cow near which the calf has been brought, when she is being milked, and the sound of the streams of milk. With ayakṣmā vaḥ prajayā saṁsṛjāmi[^1] he addresses the cow near which the calf has been brought; with dyauścemaṁ yajñam...[^2] he addresses the cow being milked.[^3]  
+
+
+[^1]: TB III.7.4.15%; cp.I.12.11.  
+
+[^2]: TB III.7.4.15.  
+
+[^3]: The sentence is incomplete; see the next Sūtra.
