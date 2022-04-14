@@ -2,4 +2,4 @@
 title = "11 व्रीहीन्यवान्वा"
 
 +++
-व्रीहीन्यवान्वा ११
+11. (He pours out) either rice-grains or barley-grains.

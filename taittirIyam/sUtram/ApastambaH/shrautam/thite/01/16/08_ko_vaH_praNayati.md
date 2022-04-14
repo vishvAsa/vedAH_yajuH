@@ -2,4 +2,4 @@
 title = "08 को वः प्रणयति"
 
 +++
-को वः प्रणयति स वः प्रणयत्वपो देवीः प्रणयानि यज्ञं संसादयन्तु नः । इरं मदन्तीर्घृतपृष्ठा उदाकुः सहस्रपोषं यजमाने न्यञ्चतीरिति समं प्राणैर्धारयमाणः स्फेनोपसङ्गृह्याविषिञ्चन्हरति ८
+8. Having supported the goblet by means of the wooden sword, holding the goblet at the level of his nose, and without spilling (any water) out, he carries (the goblet containing water) with ko vaḥ praṇayati...  

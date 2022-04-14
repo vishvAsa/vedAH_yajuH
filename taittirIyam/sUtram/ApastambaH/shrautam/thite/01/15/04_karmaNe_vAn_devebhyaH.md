@@ -2,4 +2,10 @@
 title = "04 कर्मणे वान् देवेभ्यः"
 
 +++
-कर्मणे वां देवेभ्यः शकेयमिति हस्ताववनिज्य यज्ञस्य सन्ततिरसि यज्ञस्य त्वा सन्तत्यै स्तृणामि सन्तत्यै त्वा यज्ञस्येति गार्हपत्यात्प्रक्रम्य सन्ततामुलपराजीं स्तृणात्याहवनीयात्तूष्णीं दक्षिणामुत्तरां च ४
+4. With karmaṇe vāṁ devebhyaḥ[^1] śakeyam... having washed his hands, with yajñasya santatirasi...[^2] he spreads a continuous line of Darbha-blades, starting from the Gārhapatya. upto the Āhavanīya.[^3] He then scatters an unbroken line of grass to the south and the north (of the first line) silently (i.e. without any formula).  
+
+[^1]: TS I.1.4.a; Cp. KS XXXI.3.  
+
+[^2]: TB III.2.4.1.  
+
+[^3]: Cf. TB III. 2.4.1.  
