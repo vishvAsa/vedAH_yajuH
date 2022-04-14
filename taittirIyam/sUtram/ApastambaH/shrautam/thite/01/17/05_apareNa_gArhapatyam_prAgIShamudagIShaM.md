@@ -2,4 +2,4 @@
 title = "05 अपरेण गार्हपत्यम् प्रागीषमुदगीषं"
 
 +++
-अपरेण गार्हपत्यं प्रागीषमुदगीषं वा नद्धयुगं शकटमवस्थितं भवति व्रीहिमद्यवमद्वा ५
+5. The cart containing rice grains or barley with its pole towards the east or towards the north and its yoke tied, stands behind the Garhapatya (-fire).  

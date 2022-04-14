@@ -2,4 +2,10 @@
 title = "09 उरु वातायेति परीणाहमपच्छाद्य"
 
 +++
-उरु वातायेति परीणाहमपच्छाद्य मित्रस्य त्वा चक्षुषा प्रेक्ष इति पुरोडाशीयान्प्रेक्षते ९
+9. With uru vātāya...[^1] having removed the covering mat, with mitrsya tvā cakṣuṣā prekṣe[^2] he looks[^3] at the grains out of which the sacrificial bread is to be prepared.  
+
+[^1]: TS I.1.4.1.  
+
+[^2]: TS I.1.4.i,k.  
+
+[^3]: Cf SB I.1.2.14.

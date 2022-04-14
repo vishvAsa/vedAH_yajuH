@@ -2,4 +2,6 @@
 title = "12 संविशन्तान् दैवीर्विशः पात्राणि"
 
 +++
-संविशन्तां दैवीर्विशः पात्राणि देवयज्याया इति सपवित्रेण पाणिना पात्राणि सम्मृश्य १२
+12. With saṁvisantāṁ daivīrviśaḥ.... having touched the utensils by means of hand containing a strainer,[^1]   
+
+[^1]: The sentence in incomplete. See the next Sūtra.  

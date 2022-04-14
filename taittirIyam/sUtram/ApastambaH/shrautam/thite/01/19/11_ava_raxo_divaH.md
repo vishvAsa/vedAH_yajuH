@@ -2,4 +2,4 @@
 title = "11 अव रक्षो दिवः"
 
 +++
-अव रक्षो दिवः सपत्नं वध्यासमित्यवहन्ति ११
+11. With ava rakṣo divaḥ sapatnaṁ vadhyāsam... he strikes (pounds) (the rice or barley-grains).

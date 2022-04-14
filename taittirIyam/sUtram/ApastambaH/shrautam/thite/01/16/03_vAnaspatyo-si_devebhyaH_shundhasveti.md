@@ -2,4 +2,6 @@
 title = "03 वानस्पत्योऽसि देवेभ्यः शुन्धस्वेति"
 
 +++
-वानस्पत्योऽसि देवेभ्यः शुन्धस्वेति प्रणीताप्रणयनं चमसमद्भिः परिक्षालयति तूष्णीं कंसं मृन्मयं च । कंसेन प्रणयेद्ब्रह्मवर्चसकामस्य मृन्मयेन प्रतिष्ठाकामस्य गोदोहनेन पशुकामस्य । अपरेण गार्हपत्यं पवित्रान्तर्हितं चमसं निधाय तस्मिन्को वो गृह्णाति स वो गृह्णातु कस्मै वो गृह्णामि तस्मै वो गृह्णामि पोषाय व इत्यप आनयति ३
+3. With vānaspatyosi...[^1] he washes the (wooden) goblet to be used for carrying forward of the Praṇītā-water by means of water; in case, however, if the goblet is metal or earthen he washes it silently (without any formula). In the case of sacrificer desirous of Brahman-lustre, he should carry the water forward by means of a metal (goblet); ...desirous of firm establishment an earthen (goblet); ...desirous of cattle by means of a pot for milking cows. Having kept the goblet to the west of the Gārhapatya on the ground on which strainers have been kept, he pours water in it with ko vo gṛhṇāti....  
+
+[^1]: Cp. TS 1.2.12.h.a.

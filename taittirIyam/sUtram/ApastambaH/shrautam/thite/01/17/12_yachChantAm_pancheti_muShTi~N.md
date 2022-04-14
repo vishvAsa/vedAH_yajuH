@@ -2,4 +2,8 @@
 title = "12 यच्छन्ताम् पञ्चेति मुष्टिङ्"
 
 +++
-यच्छन्तां पञ्चेति मुष्टिं गृहीत्वा स्रुचि मुष्टिमोप्य देवस्य त्वेत्यनुद्रुत्याग्नये जुष्टं निर्वपामीति त्रिर्यजुषा तूष्णीं चतुर्थम् १२
+12. Having taken five handfuls of grains with yacchantām panca[^1] having poured the handful (of grains) in the ladle, hav ing recited, devasya tvā...[^1] he takes the grains thrice; silently (without any formula) he takes the fourth handful of grains.[^2]  
+
+[^1]: TS I.1.4.m.  
+
+[^2]: Cf. TB III.2.4.6.  

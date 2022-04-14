@@ -2,4 +2,4 @@
 title = "11 एतेषां वा वृक्षाणामेकस्य"
 
 +++
-एतेषां वा वृक्षाणामेकस्य स्रुचः कारयेत् ११
+11. Or he may get (all) the ladles made out of any one of these trees.
