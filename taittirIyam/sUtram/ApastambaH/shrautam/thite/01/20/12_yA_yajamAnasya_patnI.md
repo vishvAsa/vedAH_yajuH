@@ -2,4 +2,4 @@
 title = "12 या यजमानस्य पत्नी"
 
 +++
-या यजमानस्य पत्नी साभिद्रुत्यावहन्ति १२
+12. Having run towards, she who is the wife of the sacrificer, strikes.  

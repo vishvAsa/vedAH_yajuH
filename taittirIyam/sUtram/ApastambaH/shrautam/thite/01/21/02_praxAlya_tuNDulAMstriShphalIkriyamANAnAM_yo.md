@@ -2,4 +2,6 @@
 title = "02 प्रक्षाल्य तुण्डुलांस्त्रिष्फलीक्रियमाणानां यो"
 
 +++
-प्रक्षाल्य तुण्डुलांस्त्रिष्फलीक्रियमाणानां यो न्यङ्गो अवशिष्यते । रक्षसां भागधेयमापस्तत्प्रवहतादित इत्युत्करे त्रिर्निनयति २
+2. Having washed the grains, with triṣphalīkriyamāṇānām ...[^1] the Adhvaryu pours the wash-water on the rubbish-heap.  
+
+[^1]: TB III.7.6.20.

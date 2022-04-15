@@ -2,4 +2,6 @@
 title = "01 उच्चैः समाहन्तवा इति"
 
 +++
-उच्चैः समाहन्तवा इति सम्प्रेष्यति १
+1. The Adhvaryu orders (Āgnīdhra) for striking heavily.[^1]  
+
+[^1]: Cf. TB III.2.5.9

@@ -2,4 +2,7 @@
 title = "05 अंशव स्थ मधुमन्त"
 
 +++
-अंशव स्थ मधुमन्त इति तण्डुलानभिमन्त्र्य देवस्य त्वेत्यनुद्रुत्याग्नये जुष्टमधिवपामीति यथादेवतं दृषदि तण्डुलानधिवपति त्रिर्यजुषा तूष्णीं चतुर्थम् ५
+5. With aṁśava stha madhumantaḥ having addressed the rice-grains, having recited devasya tvā...[^1], with agnaye juṣtamadhivapāmi he pours the rice-grains on the lower stone in accordance with the deity,--thrice with the formula; once silently (without any formula).
+
+
+[^1]: TS I.1.6.f-g.

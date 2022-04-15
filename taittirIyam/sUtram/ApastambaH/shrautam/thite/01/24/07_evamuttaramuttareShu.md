@@ -2,4 +2,4 @@
 title = "07 एवमुत्तरमुत्तरेषु"
 
 +++
-एवमुत्तरमुत्तरेषु ७
+7. In the same manner, he puts the northern (sacrificial bread) on the northern potsherds.  

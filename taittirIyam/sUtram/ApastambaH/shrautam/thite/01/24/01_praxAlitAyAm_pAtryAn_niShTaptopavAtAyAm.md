@@ -2,4 +2,10 @@
 title = "01 प्रक्षालितायाम् पात्र्यान् निष्टप्तोपवातायाम्"
 
 +++
-प्रक्षालितायां पात्र्यां निष्टप्तोपवातायां पवित्रवत्यां पिष्टानि संवपति देवस्य त्वेत्यनुद्रुत्याग्नये जुष्टं संवपामीति यथादेवतं त्रिर्यजुषा तूष्णीं चतुर्थम् १
+1. Having recited devasya tvā...[^1] with agnaye juṣtaṁ etc. in accordance with the deity (the Adhvaryu) thrice pours[^2] flour in the pan[^3] which has been washed, heated and then has become cool, and which contains strainers; silently, (he pours the flour) for the fourth time.  
+
+[^1]: TS I.1.8.a.  
+
+[^2]: From the balck-antelope's skin. See I.21.7.  
+
+[^3]: For Pātrī see I.15.7. 

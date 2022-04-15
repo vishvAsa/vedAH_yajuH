@@ -2,4 +2,4 @@
 title = "08 नैता मात्रा अतिखनति"
 
 +++
-नैता मात्रा अतिखनति ८
+8. He does not dig beyond these measures.  

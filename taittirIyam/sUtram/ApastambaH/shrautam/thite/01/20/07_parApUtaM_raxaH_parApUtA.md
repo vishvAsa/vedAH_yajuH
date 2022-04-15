@@ -2,4 +2,6 @@
 title = "07 परापूतं रक्षः परापूता"
 
 +++
-परापूतं रक्षः परापूता अरातय इत्युत्करे परापुनाति ७
+7. With parāpūtaṁ rakṣaḥ parāpūtā arātayaḥ[^1] he winnows out (the husks from the grains) on the Utkara (rubbish heap).  
+
+[^1]: TS I.1.5.t.

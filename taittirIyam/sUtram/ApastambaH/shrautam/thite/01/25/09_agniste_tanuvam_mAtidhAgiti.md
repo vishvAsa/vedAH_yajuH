@@ -2,4 +2,6 @@
 title = "09 अग्निस्ते तनुवम् मातिधागिति"
 
 +++
-अग्निस्ते तनुवं मातिधागिति दर्भैरभिज्वलयति ज्वालैर्वा ९
+9. With agniste tanuvaṁ mātidhāk[^1] he enlightens (the breads) by means of (burning) darbha-blades or (any other) burning (objects).  
+
+[^1]: TS I.1.8.n-0.  

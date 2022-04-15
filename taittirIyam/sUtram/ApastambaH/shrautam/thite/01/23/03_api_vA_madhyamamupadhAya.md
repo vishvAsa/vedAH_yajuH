@@ -2,4 +2,4 @@
 title = "03 अपि वा मध्यममुपधाय"
 
 +++
-अपि वा मध्यममुपधाय सव्यस्य पाणेरङ्गुल्याभिनिधाय निर्दग्धं रक्षो निर्दग्धा अरातय इति कपालेऽङ्गारमत्याधाय धर्त्रमसीति तस्मादपरं धरुणमसीति तस्मात्पूर्वं यथायोगमितराणि ३
+3. Or, rather, having placed the central (potsherd), having put the forefinger of the left hand upon it, with nirdagdhaṁ rakṣaḥ... having kept an ember (by means of the fire-stirring stick in his right hand) upon that potsherd, with dhartramasi (he places) the second to the west (of the central potsherd), with dharuṇamasi (he places) the third to the east (of the central potsherd) and (he places) the other potsherds in accordance with the suitability.  

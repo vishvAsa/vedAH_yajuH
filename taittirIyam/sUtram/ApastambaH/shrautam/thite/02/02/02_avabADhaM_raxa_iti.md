@@ -2,4 +2,6 @@
 title = "02 अवबाढं रक्ष इति"
 
 +++
-अवबाढं रक्ष इति द्वितीये निवपन आग्नीध्रोऽभिगृह्णात्यवबाढोऽघशंस इति तृतीयेऽवबाढा यातुधाना इति चतुर्थे २
+2. (The formula to be recited) at the (time of) the second throwing (should be) avabāḍhaṁ rakṣaḥ[^1] and at the time of the third (throwing should be) avabādḥā yātudhānāḥ[^2]  
+
+[^1]: These formulae are not found in any Samhita-text.  

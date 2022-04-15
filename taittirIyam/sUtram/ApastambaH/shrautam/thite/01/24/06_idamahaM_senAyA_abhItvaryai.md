@@ -2,4 +2,10 @@
 title = "06 इदमहं सेनाया अभीत्वर्यै"
 
 +++
-इदमहं सेनाया अभीत्वर्यै मुखमपोहामीति वेदेन कपालेभ्योऽङ्गारानपोह्य घर्मोऽसि विश्वायुरित्याग्नेयं पुरोडाशमष्टासु कपालेष्वधिश्रयति ६
+6. With idamahaṁ senāyā abhītvaryai mukhamapohāmi[^1] having taken away embers, from potsherds[^2] by means of the grass-brush, with gharmo’si viśvāyuḥ[^3] he puts the sacrificial bread for Agni on the eight potsherds.  
+
+[^1]: TS III.7.5.1.  
+
+[^2]: See I.23.6  
+
+[^3]: TS I.1.8.h.  
