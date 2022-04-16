@@ -2,4 +2,4 @@
 title = "08 प्रविद्धं रक्षः पराध्माता"
 
 +++
-प्रविद्धं रक्षः पराध्माता अमित्रा इति तुषान्प्रस्कन्दतोऽनुमन्त्रयते ८
+8. He addresses with praviddhaṁ rakṣaḥ parādhmātā amitrāḥ the husks falling down from the grains.  

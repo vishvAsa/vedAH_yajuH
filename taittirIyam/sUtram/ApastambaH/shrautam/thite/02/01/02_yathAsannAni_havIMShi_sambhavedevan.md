@@ -2,4 +2,4 @@
 title = "02 यथासन्नानि हवींषि सम्भवेदेवन्"
 
 +++
-यथासन्नानि हवींषि सम्भवेदेवं तिरश्चीम् २
+2. (He prepares the altar) so much broad that it could accommodate all the utensils which are placed there.  

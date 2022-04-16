@@ -2,4 +2,10 @@
 title = "03 वेदेन वेदिं विविदुः"
 
 +++
-वेदेन वेदिं विविदुः पृथिवीं सा पप्रथे पृथिवी सार्थिवानि । गर्भं बिभर्ति भुवनेष्वन्तस्ततो यज्ञो जायते विश्वदानिरिति पुरस्तात्स्तम्बयजुषो वेदेन वेदिं त्रिः सम्मार्ष्ट्युपरिष्टाद्वा ३
+3. Before[^1] carrying away the Stambayajus[^2] he sweeps the altar thrice by means of the grass-brush (Veda) with vedena vedim...[^3] Or he does this after carrying away the Stambayajus.  
+
+[^1]: Cf. TB III.3.9.10.  
+
+[^2]: i.e. throwing of grass and dust from the place of Vedi by means of the Sphya.  
+
+[^3]: TB III.3.9.10.  

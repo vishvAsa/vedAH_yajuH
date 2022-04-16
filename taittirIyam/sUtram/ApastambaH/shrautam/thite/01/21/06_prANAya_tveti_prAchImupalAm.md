@@ -2,4 +2,6 @@
 title = "06 प्राणाय त्वेति प्राचीमुपलाम्"
 
 +++
-प्राणाय त्वेति प्राचीमुपलां प्रोहत्यपानाय त्वेति प्रतीचीं व्यानाय त्वेति मध्यदेशे व्यवधारयति प्राणाय त्वापानाय त्वा व्यानाय त्वेति सन्ततं पिनष्टि ६
+6. With prāṇāya tvā[^1] he moves forward the upper-stone; with apānāya tvā[^2] backward; with vyānāya tvā[^3] he holds it in the middle part (of the lower-stone). Then with prānāya tvā apānāya tvā vyānāya tvā[^4] he crushes (the grains) continuously.  
+
+[^1-4]: TS I.1.6.h.  

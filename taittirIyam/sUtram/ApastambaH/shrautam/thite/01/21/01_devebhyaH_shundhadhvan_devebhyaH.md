@@ -2,4 +2,4 @@
 title = "01 देवेभ्यः शुन्धध्वन् देवेभ्यः"
 
 +++
-देवेभ्यः शुन्धध्वं देवेभ्यः शुन्ध्यध्वं देवेभ्यः शुम्भध्वमिति सुफलीकृतान्करोति । तूष्णीं वा १
+1. (The wife of the sacrificer) makes the rice grains properly white with devebhyaḥ śundhadhvam... Or she does it silently (i.e. without any formula).  

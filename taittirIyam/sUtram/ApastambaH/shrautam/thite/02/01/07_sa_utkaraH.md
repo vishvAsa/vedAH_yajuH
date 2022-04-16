@@ -2,4 +2,4 @@
 title = "07 स उत्करः"
 
 +++
-स उत्करः ७
+7. That is the (place of Utkara) rubbish-heap.  

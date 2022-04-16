@@ -2,4 +2,12 @@
 title = "11 अद्भिः कपालं संस्पर्श्य"
 
 +++
-अद्भिः कपालं संस्पर्श्य प्रज्ञातं निधायाप उपस्पृश्य वायुर्वो वि विनक्त्विति विविच्य देवो वः सविता हिरण्यपाणिः प्रतिगृह्णात्विति पात्र्यां तण्डुलान्प्रस्कन्दयित्वादब्धेन वश्चक्षुषावपश्यामि रायस्पोषाय वर्चसे सुप्रजास्त्वाय चक्षुषो गोपीथायाशिषमाशास इत्यवेक्ष्य त्रिष्फलीकर्तवा इति सम्प्रेष्यति ११
+11. Having caused the potsherd to be touched by means of water, having kept it on some marked place, having touched water, with vāyur vo vivinaktu...[^1] having separated the husked grains (out of the unhusked ones), with devo vaḥ savitā hiraṇyapāṇiḥ pratigr̥hṇātu[^2] having poured the grains in a vessel, with adabdhena vaścakṣuṣāvapasyāmi...[^3] having looked at them, he orders (the preparer of the oblation material) with triṣphalīkartavai (to be pounded thrice)..[^4]  
+
+[^1]: TS I.1.5.v.  
+
+[^2]: TS I.1.1.w.  
+
+[^3]: Cp. TS I.1.10.k.b.  
+
+[^4]: Cf. TB III.2.5.11.  

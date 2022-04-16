@@ -2,4 +2,4 @@
 title = "14 अङ्गुलिप्रक्षालनम् पात्रीनिर्णेजनञ् चोल्मुकेनाभितप्य"
 
 +++
-अङ्गुलिप्रक्षालनं पात्रीनिर्णेजनं चोल्मुकेनाभितप्य स्फ्येनान्तर्वेदि तिस्रो लोखा लिखति प्राचीरुदीचीर्वा १४
+14. Having heated the water with which he has washed his fingers and water with which he has washed the pan, by means of a burning fire-brand, he draws three lines within the altar from west to the east or from south to the north by means of the Sphya (wooden sword).  

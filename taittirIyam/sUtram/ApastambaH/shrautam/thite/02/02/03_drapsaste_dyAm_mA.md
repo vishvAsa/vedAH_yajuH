@@ -2,4 +2,11 @@
 title = "03 द्रप्सस्ते द्याम् मा"
 
 +++
-द्रप्सस्ते द्यां मा स्कानिति खनिं प्रत्यवेक्ष्य स्फ्येन वेदिं परिगृह्णाति वसवस्त्वा परिगृह्णन्तु गायत्रेण छन्दसेति दक्षिणतो रुद्रा इति पश्चादादित्या इत्युत्तरतः ३
+3. With drapsaste dyāṁ mā skān[^1] having looked at the pit (i.e. place from where the earth was taken) the Adhvaryu traces out the altar with vasavastvā parigr̥hṇantu gāyatrena cchandasai on the south, with rudrāh... on the west, and with ādityāh.... on the north.[^5]  
+
+[^1]: MS I.1.10.  
+
+[^2-4]: TS I.1.9.s.  
+
+[^5]: This is the first tracing (purva parigrāha). For the second tracing
+(uttara parigraha) sce II.3.7.  
