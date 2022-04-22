@@ -2,4 +2,6 @@
 title = "08 रूपं वर्णम् पशूनाम्"
 
 +++
-रूपं वर्णं पशूनां मा निर्मृक्षं वाजि त्वा सपत्नसाहं सम्मार्ज्मीति प्राशित्रहरणं तूष्णीं वा ८
+8. He cleanses the Prāśitraharaṇa either with rūpaṁ varṇam...[^1] or silently (without any formula).  
+
+[^1]: Cp. TS I.1. 10.c-d.

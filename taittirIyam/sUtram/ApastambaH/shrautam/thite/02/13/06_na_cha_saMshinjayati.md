@@ -2,4 +2,6 @@
 title = "06 न च संशिञ्जयति"
 
 +++
-न च संशिञ्जयति नाभिदेशे च स्रुचौ धारयति ६
+6. He does not cause the two ladles produce any sound and holds them at the level of his naval."  
+
+[^1]: Cf. SB XI.4.2.2; 4.  

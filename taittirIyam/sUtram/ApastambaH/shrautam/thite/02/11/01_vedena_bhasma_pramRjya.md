@@ -2,4 +2,6 @@
 title = "01 वेदेन भस्म प्रमृज्य"
 
 +++
-वेदेन भस्म प्रमृज्य तस्मिन्सीदामृते प्रतितिष्ठ व्रीहीणां मेध सुमनस्यमान इति पात्र्यां प्रतिष्ठापयति १
+1. having removed the ashes sticking to it by means of the Veda (grass-brush), with tasmin sīdāmr̥te patitiṣṭha...[^1] (the Adhvaryu) places it in the pan.  
+
+[^1]: TB III.7.5.3.  

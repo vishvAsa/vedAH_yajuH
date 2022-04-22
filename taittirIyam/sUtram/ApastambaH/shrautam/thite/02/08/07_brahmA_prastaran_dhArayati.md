@@ -2,4 +2,6 @@
 title = "07 ब्रह्मा प्रस्तरन् धारयति"
 
 +++
-ब्रह्मा प्रस्तरं धारयति यजमानो वा ७
+7. Either the Brahman or the sacrificer holds the Prastara.[^1]  
+
+[^1]: Upto II.9.5.  

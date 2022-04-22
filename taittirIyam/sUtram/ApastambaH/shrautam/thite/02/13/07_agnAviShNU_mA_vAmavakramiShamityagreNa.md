@@ -2,4 +2,6 @@
 title = "07 अग्नाविष्णू मा वामवक्रमिषमित्यग्रेण"
 
 +++
-अग्नाविष्णू मा वामवक्रमिषमित्यग्रेण स्रुचोऽपरेण मध्यमं परिधिमनवक्रामं प्रस्तरं दक्षिणेन पदा दक्षिणातिक्रामत्युदक् सव्येन ७
+7. With agnāviṣṇū mā vām...[^1] he steps to the front of the ladles and behind the middle enclosing stick without stepping (upon the Prastara), to the right side with the right foot and to the left side with the left foot.  
+
+[^1]: TS T.1.12.e,f,g.  

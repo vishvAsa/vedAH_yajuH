@@ -2,4 +2,4 @@
 title = "09 अपि वा मध्ये"
 
 +++
-अपि वा मध्ये वेद्याः सान्नाय्यकुम्भ्यौ सन्दधाति पूर्वं शृतमपरं दधि । अथैने व्युदूहति दक्षिणस्यां श्रोण्यां शृतमासादयत्युत्तरस्यां दधि ९
+9. Or he places together the Sāṁnāyya-jars in the central part of the altar-(the vessel of) boiled milk towards the east and (that of) the curds towards the west. Then he separates them (and) places (the vessels of) boiled milk on the south western corner and the (vessel of) curds on the north-western corner.  

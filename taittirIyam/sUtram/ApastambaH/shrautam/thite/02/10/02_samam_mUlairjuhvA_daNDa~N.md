@@ -2,4 +2,4 @@
 title = "02 समम् मूलैर्जुह्वा दण्डङ्"
 
 +++
-समं मूलैर्जुह्वा दण्डं करोति । उत्तरेण जुहूमुपभृतं प्रतिकृष्टतरामिवाधस्ताद्विधृत्योः । उत्तरेणोपभृतं ध्रुवां प्रतिकृष्टतरामिवोपरिष्टाद्विधृत्योः २
+2. He makes the handle of Juhû reach the ends of the roots (of the Prastara). (He places) Upabhr̥t to the north of Juhū somewhat towards the west, and below the Vidhr̥tis and Dhruvā to the north of Upabhr̥t somewhat towards the west, and upon the Vidhr̥tis.

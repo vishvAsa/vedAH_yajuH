@@ -2,4 +2,8 @@
 title = "09 पञ्चानान् त्वा दिशाम्"
 
 +++
-पञ्चानां त्वा दिशां पञ्चानां त्वा पञ्चजनानां पञ्चानां त्वा सलिलानां धर्त्राय गृह्णामि पञ्चानां त्वा पृष्ठानां धर्त्राय गृह्णामि धामासि प्रियं देवानामनाधृष्टं देवयजनं देववीतये त्वा गृह्णामीति चरोस्त्वा पञ्चबिलस्येति च पञ्चभिरुपभृत्यष्टकृत्वो दशकृत्वो वा प्रतिमन्त्रम् ९
+9. (He scoops ghee) in the Upabhr̥t with pancānām tvā...[^1] and with five (formulae beginning with) carostvā pañcabilasya ca[^2], for eight times or ten times[^3] each time using one (of these) formula(e).  
+
+[^1-2]: Cp. TS I.6.1.0-1.  
+
+[^3]: Ten times if the sacrificer is a Pañcāvattin.  

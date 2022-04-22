@@ -2,4 +2,8 @@
 title = "03 इरा भूतिः पृथिव्यै"
 
 +++
-इरा भूतिः पृथिव्यै रसो मोत्क्रमीदिति स्रुवेण कपालानि प्रत्यज्य देवस्त्वा सविता मध्वानक्त्विति स्रुवेण कपालानि प्रत्यज्य देवस्त्वा सविता मध्वानक्त्विति स्रुवेण पुरोडाशमनक्ति स्वक्तमकूर्मपृषन्तमपरिवर्गमणिकाषम् ३
+3. With irā bhūtiḥ...[^1] having besmeard the potsherds (with ghee), with devastvā savitā madhvānaktu[^2] he besmears the sacrificial bread by means of the spoon in such a manner that it would be well-besmeared, it will not have spots like a tortoise, no part will be excluded, and there will not be any scratch on it.  
+
+[^1]: TB III.7.5.3.  
+
+[^2]: TS I.3.5.d.  
