@@ -2,4 +2,8 @@
 title = "05 यस्त आत्मा पशुषु"
 
 +++
-यस्त आत्मा पशुषु प्रविष्टो देवानां निष्ठामनु यो वितस्थे । आत्मन्वान्सोम घृतवान्हि भूत्वा देवान्गच्छ सुवर्विन्द यजमानाय मह्यमिति प्रातर्दोहम् ५
+5. With yasta ātmā paśuṣu praviśṭaḥ...[^1] (he pours ghee) on the morning-milk (boiled for being used in the Sāṁnāyya).[^2]  
+
+[^1]: TB III.7.5.3.  
+
+[^2]: In case Sāṁnāyya is being prepared.

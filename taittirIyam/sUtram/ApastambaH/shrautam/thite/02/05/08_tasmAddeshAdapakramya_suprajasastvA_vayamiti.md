@@ -2,4 +2,6 @@
 title = "08 तस्माद्देशादपक्रम्य सुप्रजसस्त्वा वयमिति"
 
 +++
-तस्माद्देशादपक्रम्य सुप्रजसस्त्वा वयमिति दक्षिणत उदीच्युपविशति ८
+8. Having gone away from that place, to the south, she sits with her face to the north, with suprajasastvā vayam....[^1]  
+
+[^1]: TS I.1.10f  

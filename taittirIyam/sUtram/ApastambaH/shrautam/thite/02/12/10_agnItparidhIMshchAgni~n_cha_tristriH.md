@@ -2,4 +2,4 @@
 title = "10 अग्नीत्परिधींश्चाग्निञ् च त्रिस्त्रिः"
 
 +++
-अग्नीत्परिधींश्चाग्निं च त्रिस्त्रिः सम्मृड्ढीति सम्प्रेष्यति १०
+10. “O Agnīdh, cleanse the enclosing sticks and the fire thrice each” –thus he orders.  

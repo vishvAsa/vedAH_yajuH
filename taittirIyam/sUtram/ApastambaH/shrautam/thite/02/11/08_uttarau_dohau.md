@@ -2,4 +2,6 @@
 title = "08 उत्तरौ दोहौ"
 
 +++
-उत्तरौ दोहौ ८
+8. (He places) the two milks[^1] to the north (of the ladles).  
+
+[^1]: Vessels containing boiled milk and curds (sour milk) respectively.  

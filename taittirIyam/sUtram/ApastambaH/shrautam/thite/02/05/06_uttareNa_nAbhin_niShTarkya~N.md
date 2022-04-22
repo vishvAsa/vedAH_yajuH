@@ -2,4 +2,6 @@
 title = "06 उत्तरेण नाभिन् निष्टर्क्यङ्"
 
 +++
-उत्तरेण नाभिं निष्टर्क्यं ग्रन्थिं कृत्वा प्रदक्षिणं पर्यूह्य दक्षिणेन नाभिमवस्थाप्योपोत्थायाग्ने गृहपत उप मा ह्वयस्वेति गार्हपत्यमुपतिष्ठते ६
+6. Towards the left of the navel (after the Adhvaryu) has made a knot that can be easily loosened, has shifted (the end of the girdle) to the south, and has placed (it) to the right of the navel, having stood up, (the wife of the sacrificer) stands near the Gārhapatya praising it with agne gr̥hapate...[^1]  
+
+1. KS I.10.

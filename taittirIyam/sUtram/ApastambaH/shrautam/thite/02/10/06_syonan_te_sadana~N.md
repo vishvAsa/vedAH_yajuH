@@ -2,4 +2,11 @@
 title = "06 स्योनन् ते सदनङ्"
 
 +++
-स्योनं ते सदनं करोमि घृतस्य धारया सुशेवं कल्पयामि त इति पात्र्यामुपस्तीर्यार्द्रः प्रथस्नुर्भुवनस्य गोपाः शृत उत्स्नाति जनिता मतीनामित्यपर्यावर्तयन्पुरोडाशमुद्वास्य ६
+6. With syonaṁ te sadanaṁ karomi...[^1] having spread ghee in the pan, with ārdraḥ prathasnuḥ...[^2] having taken down the sacrificial bread (from the potsherds), without allowing it be turned up and down,[^3]  
+
+
+[^1]: TB III.7.5.2-3.  
+
+[^2]: TB III.7.5.3.  
+
+[^3]: The sentence is incomplete. See the next Sutra.

@@ -2,4 +2,4 @@
 title = "01 अपि वा जुहूमेव"
 
 +++
-अपि वा जुहूमेव प्रस्तरे १
+1. Or the Adhravyu places only Juhū on the Prastara.  

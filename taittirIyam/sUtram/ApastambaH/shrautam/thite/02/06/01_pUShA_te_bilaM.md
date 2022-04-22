@@ -2,4 +2,12 @@
 title = "01 पूषा ते बिलं"
 
 +++
-पूषा ते बिलं विष्यत्विति सर्पिर्धानस्य बिलमपावर्त्य दक्षिणाग्नावाज्यं विलाप्यादितिरस्यच्छिद्रपत्त्रेत्याज्यस्थालोमादाय महीनां पयोऽस्योषधीनां रसस्तस्य तेऽक्षीयमाणस्य निर्वपामि देवयज्याया इति तस्यां पवित्रान्तर्हितायामाज्यं निरुप्येदं विष्णुर्विचक्रम इति दक्षिणाग्नावधिश्रित्येषे त्वेति दक्षिणार्धे गार्हपत्यस्याधिश्रित्योर्जे त्वेत्यपादाय वेदेनोपयम्य पत्न्या उपहरति १
+1. With pūṣā te bilam[^1]....having opened the mouth of the pitcher of ghee, having melted the ghee on the Dakṣiṇa-fire, with "aditirasyachhidrapatrā[^2]” having taken the pot of ghee with mahīnāṁ payo'si[^3]...having poured ghee in it (ghee-pot) on which two strainers have been kept, with “idaṁ viṣnur vicakrame[^4]..., having kept the ghee-pot on the Dakṣina-fire, then with iṣe tva[^5] having kept (the ghee-pot) on the southern part of the Gārhapatya (-fire), with ūrje tvã[^6] having removed (the ghee-pot from the fire), having supported (the ghee-pot) with grass-brush (Veda), (the Adhvaryu) brings (the ghee-pot) to the wife of the sacrificer.  
+
+[^1-2]: These formulae are not found in any Saṁhitā-text.  
+
+[^3]: TS I.1.10.i  
+
+[^4]: TS I.2.13.e  
+
+[^5-6]: TS I.1.1.a

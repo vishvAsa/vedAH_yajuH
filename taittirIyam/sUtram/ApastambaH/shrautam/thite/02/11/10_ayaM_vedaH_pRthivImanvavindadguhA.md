@@ -2,4 +2,6 @@
 title = "10 अयं वेदः पृथिवीमन्वविन्दद्गुहा"
 
 +++
-अयं वेदः पृथिवीमन्वविन्दद्गुहा सतीं गहने गह्वरेषु । स विन्दतु यजमानाय लोकमच्छिद्रं यज्ञं भूरिकर्मा करोत्वित्यग्रेणोत्तरेण वा ध्रुवां वेदं निधाय वेद्यन्तान्परिस्तीर्य होतृषदनं कल्पयित्वा सामिधेनीभ्यः प्रतिपद्यते १०
+10. With ayaṁ vedaḥ pr̥thivīmanvavindat...[^1] having placed the Veda (grass-brush) either to the east or to the north of the altar, having strewn sacrificial grass at the ends of the altar, having prepared the Hotr̥'s seat, he starts ritual of the Samidhenīs.  
+
+[^1]: TB III.7.6.13.  
