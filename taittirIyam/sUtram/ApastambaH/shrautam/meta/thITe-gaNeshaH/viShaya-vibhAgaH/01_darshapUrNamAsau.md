@@ -873,579 +873,536 @@ ranslation : THITE
 
 ## 01.20
 
-उच्चैः समाहन्तवा इति संप्रेष्यति॥१॥ 1. The Adhvaryu orders (Āgnīdhra) for striking heavily.'
-1. Cf. TB III.2.5.9
+उच्चैः समाहन्तवा इति संप्रेष्यति॥१॥
 40
 कुटरुरसि मधुजिह्व इत्याग्नीध्रो ऽश्मानमादायेषमावदोर्जमावदेति दृषदुपले समाहन्ति॥२॥
-2. With kutarurasi madlujihvah', having taken the stone, with iṣamāvadorjamävadathe Āgnidhrastrikes the upper and the lower stone (by means of that stone).
-1. MS I.1.6.
-2. TS I.1.5.0, p,q. द्विदृषदि सकृदुपलायां त्रिः संचारयन्नवकृत्वः संपादयति॥३॥
-3. Twice on the upper stone and once on the lower stone (he strikes). (In this way) doing (the act of stiking) for three times he makes (the total number of striking) nine times.
+
+
+द्विदृषदि सकृदुपलायां त्रिः संचारयन्नवकृत्वः संपादयति॥३॥
+
+
 सावित्रेण वा शम्यामादाय तया समाहन्ति॥४॥
-4. Or having taken a wooden peg (yoke-pin) he strikes with the Savitr-formula by means of it (peg).1
-1.Cf. SB I.2.1.17. वर्षवृद्धमसीति पुरस्ताच्छूर्यमुपोहत्युत्तरतो वा॥५॥
-5. With varṣavrddhamasi...' the Adhvaryu keeps the win nowing basket (containing the grains) to the east or to the north (of the mortar).
-1. TS I.1.5.r. वर्षवृद्धा स्थेत्यभिमन्त्र्य प्रति त्वा वर्षवृद्धं वेत्त्वित्युद्वपति॥६॥
-6. With varsayrddha sthal having addressed the grains in the winnoing basket, with varsayrddham tvā he scatters them.
-1-2. TS I.1.5.s. परापूतं रक्षः परपूता अरातय इत्युत्करे परापुनाति॥७॥
-7. With parāpatam raksah pardputa arātayaht he win nows out (the husks from the grains) on the Utkara (rubbish heap).
-1. TS I.1.5.t. प्रविद्धं रक्षः पराध्माता अमित्रा इति तुषान्प्रस्कन्दतो ऽनुमन्त्र्यते॥८॥
-8. He addresses with praviddhaṁ rakṣaḥ parādhmātā amitraḥ the husks falling down from the grains.
+
+वर्षवृद्धमसीति पुरस्ताच्छूर्यमुपोहत्युत्तरतो वा॥५॥
+
+
+वर्षवृद्धा स्थेत्यभिमन्त्र्य प्रति त्वा वर्षवृद्धं वेत्त्वित्युद्वपति॥६॥
+
+परापूतं रक्षः परपूता अरातय इत्युत्करे परापुनाति॥७॥
+
+
+प्रविद्धं रक्षः पराध्माता अमित्रा इति तुषान्प्रस्कन्दतो ऽनुमन्त्र्यते॥८॥
+
 मध्यमे पुरोडाशकपाले तुषानोप्य रक्षसां भागो ऽसीत्यधस्तात्कृष्णा जिनस्योपवपत्युत्तरमपरमवान्तरदेशम्॥९॥
-9. having poured out the husks on the middle potsherd (out of the potsherds to be used afterwards for baking) the sacrificial bread, with rakṣasāṁ bhāgo'si' he scatters (the husks) under the black-antelope's skin towards the north-west.
-1. TS I.1.5.u. For this Sutra cf. TB III.2.5.10; SB I.9.2.33. हस्तेनोपवपतीति बृह्वचब्राह्मणम्॥१०॥
-10. According to a Brāhmaṇa-text of the R̥gveda,' he scat ters the husks by means of (his) hand (instead of by means of the potsherd).2
-1-2. Neither the AB nor KB mentions this.
+
+हस्तेनोपवपतीति बृह्वचब्राह्मणम्॥१०॥
+
 अद्भिः कपालं संस्पर्ध्य प्रज्ञातं निधायाप उपस्पृश्य वायुर्वो विविन क्त्विति विविच्य देवो वः सविता हिरण्यपाणिः प्रतिगृह्णात्विति पात्र्यां तण्डुलान्प्रस्कन्दयित्वादब्धेन वश्चक्षुषावपश्यामि रायस्पोषाय वर्चसे सुप्रजास्त्वाय चक्षुषो गोपीथायाशिषमाशास इत्यवेक्ष्य त्रिष्फलीकर्तवा इति संप्रेष्यति॥११॥
-11. Having caused the potsherd to be touched by means of water, having kept it on some marked place, having touched water, with vāyur vo vivinaktu...1 having separated the husked grains (out of the unhusked ones), with devo vah savita hiranyapāṇiḥ pratigshṇātu? having poured the grains in a ves sel, with adabdhena vascakṣuṣāvapasyāmi...? having looked at them, he orders (the preparer of the oblation material) with trisphalikartavai (to be pounded thrice)..
-1. TS I.1.5.v. 2. TS I.1.1.w. 3. Cp. TS I.1.10.k.b.
-4. Cf. TB III.2.5.11. या यजमानस्य पत्नी साभिद्रुत्यावहन्ति॥१२॥
-12. Having run towards, she who is the wife of the sacri ficer, strikes.
-यो वा कश्चिदविद्यमानायाम्॥१३॥ 13. In her absence' anyone else does this work.
-1. e.g. on account of her monthly course.Translation : THITE
-I.21]
+
+
+या यजमानस्य पत्नी साभिद्रुत्यावहन्ति॥१२॥
+
+यो वा कश्चिदविद्यमानायाम्॥१३॥
+
+
 ## 01.21
  देवेभ्यः शुन्धध्वं देवेभ्यः शुन्ध्यध्वं देवेभ्यः शुम्भध्वमिति सुफली कृतान्करोति। तूष्णीं वा॥१॥
-1. (The wife of the sacrificer) makes the rice grains prop erly white with devebhyaḥ śundhadhvam... Or she does it si lently (i.e. without any formula).
+
+
 प्रक्षाल्य तुण्डुलांस्त्रिष्फलीक्रियमाणानां यो न्यङ्गो अवशिष्यते। रक्षसां भागधेयमापस्तत्प्रवहतादित इत्युत्करे त्रिर्निनयति॥२॥
-2. Having washed the grains, with trisphalikriyamāṇānām ...! the Adhvaryu pours the wash-water on the rubbish-heap.
-1. TB III.7.6.20. अत्र कृष्णाजिनस्यादानादि प्रागधिवर्तनात्कृत्वा दिव स्कम्भनिरसीति कृष्णाजिन उदीचीनकुम्बां शम्यां निधाय धिषणासि पार्वत्येति शम्यायां दृषदमत्याधाय धिषणासि पार्वतेयीति दृषधुपलामत्यादधाति॥३॥
-3. At this stage, having done (the work) beginning with taking of the black antelope's skin upto the placing (of mortar on the black antelope's skin),1 with diva skambhanirasi- hav ing placed the wooden peg with its thicker part pointing to the north, on the skin, with dhiṣaṇāsi pārvatyā having placed the lower stone on the wooden peg, with dhiṣaṇāsi pārvateyit he places the upper stone on the lower stone.
-1. Thus the work mentioned in I.19.3-6. 2. TS I.1.6.c. 3. TS I.1.6.d.
-4. TS I.1.6.e. पूर्ववदनुत्सर्गः।।४॥
-4. The detail “without leaving the contact" is (applicable here) as previously.'
-___1. See I.19.6-7.
+
+
+अत्र कृष्णाजिनस्यादानादि प्रागधिवर्तनात्कृत्वा दिव स्कम्भनिरसीति कृष्णाजिन उदीचीनकुम्बां शम्यां निधाय धिषणासि पार्वत्येति शम्यायां दृषदमत्याधाय धिषणासि पार्वतेयीति दृषधुपलामत्यादधाति॥३॥
+
+
+पूर्ववदनुत्सर्गः।।४॥
+
 अंशव स्थ मधुमन्त इति तण्डुलानभिमन्त्र्य देवस्य त्वेत्यनुद्रुत्याग्नये जुष्टमधिवपामीति यथादेवतं दृषदि तण्डुलानधिवपति निर्यजुषा तूष्णीं चतुर्थम्।।५॥
-5. With aṁśava stha madhumantaḥ having addressed the rice-grains, having recited devasya tva...', with agnaye just amadhivapāmi he pours the rice-grains on the lower stone in
-52
-accordance with the deity,--thrice with the formula; once si lently (without any formula).
-1. TS I.1.6.f-g. प्राणाय त्वेति प्राचीमुपलां प्रोहत्यपानाय त्वेति प्रतीची व्यानाय त्वेति मध्यदेशे व्यवधारयति प्राणाय त्वापानाय त्वा व्यानाय त्वेति संततं पिनष्टि॥६॥
-6. With prāṇāya tvāl he moves forward the upper-stone; with apānāya tvā backward; with vyānāya tvā he holds it in the middle part (of the lower-stone). Then with prānāya tvā apānāya tvā vyānāya tvā* he crushes (the grains) continuously.
-___1-4. TS I.1.6.h.
+
+
+प्राणाय त्वेति प्राचीमुपलां प्रोहत्यपानाय त्वेति प्रतीची व्यानाय त्वेति मध्यदेशे व्यवधारयति प्राणाय त्वापानाय त्वा व्यानाय त्वेति संततं पिनष्टि॥६॥
+
+
 दीर्घामनु प्रसितिमायुषे धामिति प्राचीमन्ततो ऽनुप्रोह्य देवो वः सविता हिरण्यपाणिः प्रतिगृह्णात्विति कृष्णाजिने पिष्टानि प्रस्कन्दयित्वादब्धेन वश्चक्षुषावेक्ष इत्यवेक्ष्यासंवपन्ती पिंषाणूनि कुरुतादिति संप्रेष्यति॥७॥
-7. With dirghāmanu prasitimāyuse...1 having moved for ward at the end, with devo vah savitā...2 having caused the flour fall upon the black-antelope's skin, with adabdhena vas caksuavekses having looked at, he orders (the wife of the sac rificer or the crusher-woman). “Do you crush (these grains further) without allowing (any particle) to fall out”.
-1. TSI.1.6.i. 2. TS I.1.6.k. 3.Cp. TS I.1.10.k.b.
-4. For the order cf. TB III.2.6.4. दासी पिनष्टि पत्नी वा॥८॥
-8. A slave women or the wife (of the sacrificer) crushes (the grains).
+
+
+दासी पिनष्टि पत्नी वा॥८॥
+
 अपि वा पल्यवहन्ति शूद्रा पिनष्टि।।९॥
-9. Or rather, the wife (of the sacrificer) pounds' the grains, the slave woman crushes them.
-ISee I.20.2.
+
+
 ## 01.22
  आहवनीये गार्हपत्ये वा हवींषि अपयति॥१॥
-1. The Adhvaryu bakes the oblations' (sacrificial breads) either over the Āhavaniya fire or over the Gārhapatya fire.
-1. For the Samnayya, however, only Garhapatya is used. See I.12.1.
+
 maina
 53 धृष्टिरसि ब्रह्म यच्छेत्युपवेषमादाय रक्षसः पाणिं दहाहिरसि बुध्निय इत्यभिमन्त्र्यापाग्ने ऽग्निमामादं जहीति गार्हपत्यात्प्रत्यञ्चावङ्गारौ निवर्त्य निष्क्रव्याद सेधेति तयोरन्यतरमुत्तरमपरमवान्तरदेशं निरस्या देवयजं वहेति दक्षिणमवस्थाप्य ध्वमसीति तस्मिन्मध्यमं पुरोडाशकपालमुपदधाति॥२॥
-2. With dhrstirasi brahma yacchal having taken the stir ring stick (Upavesa), with raksasah pānim dahāhirasi budhniya having addressed it, with apāgne agnimāmādam jahil having drawn towards the west two embers from the Gārhapatya (fire), with niṣkravyādam sedha having thrown one (of the embers Stowards the north-west, with a devayajaṁ vaha having estab lished (the other embers) towards the south (on the place, in the fire-hearth where the sacrificial breads are to be baked), with dhruvamasi... 8 he places the central one (out of the) pot sherds on which sacrificial bread is to be baked.
-1. TS I.1.7.a. 2. Only the latter part of the formula is found in TS I.3.3.q. 3. TS I.1.7.b.a. 4. within the Gārhapatya-hearth only. 5. TS I.1.7.b.b. 6. TS I.1.7.b.c. 7. There are two breads one for Agni and the other for Agni-soma or
-Indra-Agni.
-8. TS I.1.7.d. निर्दग्धं रक्षो निर्दग्धा अरातय इति कपाले ऽङ्गारमत्याधाय धमसीति पूर्वं द्वितीयं संस्पृष्टम्। धरुणमसीति पूर्वं तृतीयम्। चिदसि विश्वासु दिक्षु सीदेति मध्यमाद्दक्षिणम्। परिचिदसि विश्वासु दिक्षु सीदेति मध्यमादुत्तरम्॥३॥
-3. With nirdagdham raksah...' having placed an ember on the potsherd, with dhartramasi...2 (he places) the second (potsherd) to the east (of the first one) close to it; with dharunamasis (.....) the third to the east (.....); with cidasi visvāsu... (he places the fourth one) to the south of the middle (potsherd); with paricidasis (he places) the fifth one to the north (of the middle potsherd).
-1. TS I.1.7.c. 2. TS I.1.7.e. 3. TS I.1.7.f. 4-5. MS I.1.8.
-.
+
+
+निर्दग्धं रक्षो निर्दग्धा अरातय इति कपाले ऽङ्गारमत्याधाय धमसीति पूर्वं द्वितीयं संस्पृष्टम्। धरुणमसीति पूर्वं तृतीयम्। चिदसि विश्वासु दिक्षु सीदेति मध्यमाद्दक्षिणम्। परिचिदसि विश्वासु दिक्षु सीदेति मध्यमादुत्तरम्॥३॥
 .
 Translation : THITE
 [I.23
 यथायोगमितराणि॥४॥
-4. He places the other potsherds in accordance with the suitability (and with the following formulae).
+
 ## 01.23
  मरुतां शर्धो ऽसीति षष्ठम्। धर्मासीति सप्तमम्। चित स्थेत्यष्टमम्॥१॥
-1. With marutam sardho'si (the Adhvaryu) places the sixth (potsherd); with dharmāsi (.....) the seventh; with cita sthan (.....)the eighth.
-1. TS I.1.7.g.
-2. TS I.1.7.h. एवमुत्तरं कपालयोगमुपदधाति॥२॥
-2. In the same manner' he places (the potsherds) to the north of the set (of potsherds for the first sacrificial bread).2
-1. See I.22.2.ff.
-2. See n.7 of I.22.2.
+
+
+एवमुत्तरं कपालयोगमुपदधाति॥२॥
+
+
 अपि वा मध्यममुपधाय सव्यस्य पाणेरडल्याभिनिधाय निर्दग्धं रक्षो निर्दग्धा अरातय इति कपाले ऽङ्गारमत्याधाय धमसीति तस्मादपरं धरुण मसीति तस्मात्पूर्वं यथायोगमितराणि॥३॥
-3. Or, rather, having placed the central (potsherd), hav ing put the forefinger of the left hand upon it, with nirdagdham rakṣaḥ... having kept an ember (by means of the fire-stirring stick in his right hand) upon that potsherd, with dhartramasi (he places) the second to the west (of the central potsherd), with dharunamasi (he places) the third to the east (of the cen tral potsherd) and (he places) the other potsherds in accord ance with the suitability.
+
+
 तस्य तस्याङ्गल्याभिनिधानमगाराधिवर्तनं च वाजसनेयिनः समामनन्ति॥४॥
-4. According to the opinion of the Vajasaneyinst the putting of the fore-finger and keeping of the ember (should be done) in connection with each (potsherd).
-1. Cp. ŚB I.2.1.7. Only putting of the forefinger is mentioned there.
-55
+
+
 चित स्थोचित इत्यूर्ध्वमष्टाभ्य उपदधाति तूष्णीं वा॥५॥
-5. With cita sthordhvacitaḥł or silently (without any for mula) he places (all the potsherds) in addition to eight.2
-1. VS I. 18.
-2. Cf. SB I.2.1.12. भृगूणामङ्गिरसां तपसा तप्यध्वमिति वेदेन कपालेष्वङ्गारानध्यूह्य मदन्तीरधि श्रयति॥६॥
-6. With bhrgūnāmangirasāṁ tapasā tapyadhvam...' hav ing covered (the potsherds with embers)2 he keeps madanti water on the fire.3
-1. Vs I.18. 2. On these potsherds the sacrificial bread is to be baked. 3. This water is to be used for the preparation of the sacrificial bread.
+
+
+भृगूणामङ्गिरसां तपसा तप्यध्वमिति वेदेन कपालेष्वङ्गारानध्यूह्य मदन्तीरधि श्रयति॥६॥
+
+
 ## 01.24
- प्रक्षालितायां पात्र्यां निष्टप्तोपवातायां पवित्रवत्यां पिष्टानि संवपति देवस्य त्वेत्यनुद्रुत्याग्नये जुष्टं संवपामीति यथादेवतं त्रिर्यजुषा तूष्णीं चतुर्थम्॥१॥ __1. Having recited devasye tvā...1 with agnaye justam etc. in accordance with the deity (the Adhvaryu) thrice pours2 flour in the pan3 which has been washed, heated and then has be come cool, and which contains strainers; silently, (he pours the flour) for the fourth time.
-1. TS I.1.8.a. 2. From the balck-antelope's skin. See I.21.7.
-3. For Patri see I.15.7. संवपन्वाचं यच्छति तामभिवासयन्विसृजते॥२॥
-2. While pouring, he restrains his speech; while covering (the sacrificial bread by means of ashes)' he releases it.
-____1. See I.25.12-13; I.25.10. प्रोक्षणीवत्पिष्टान्युत्पूय प्रणीताभिः संयौति॥३॥
-3. Having purified the flour in the same manner as that of the (purification of the sprinkling water)' he mixes (the flour with the water) which has been carried forth.2
-1. See I.11.9. 2. Pranita-water. See I.16.5ff.
-56
+ प्रक्षालितायां पात्र्यां निष्टप्तोपवातायां पवित्रवत्यां पिष्टानि संवपति देवस्य त्वेत्यनुद्रुत्याग्नये जुष्टं संवपामीति यथादेवतं त्रिर्यजुषा तूष्णीं चतुर्थम्॥१॥
+
+
+संवपन्वाचं यच्छति तामभिवासयन्विसृजते॥२॥
+
+प्रोक्षणीवत्पिष्टान्युत्पूय प्रणीताभिः संयौति॥३॥
+
+
 अन्या वा यजुषोत्पूय यदि प्रणीता नाधिगच्छेत्॥४॥
-4. Or rather any other water after having purified it, in case, when he does not get the Praṇītā (carried forth water)."
-1. Thus at the time of preparing a sacrificial bread in connection with
-preparation of animal sacrificial bread in a Soma-sacrifice. नुवेण प्रणीताभ्य आदाय वेदेनोपयम्य समापो अद्भिरग्मतेति पिष्टेष्वा नीयाद्भिः परि प्रजाता इति तप्ताभिरनुपरिप्लाव्य जनयत्यै त्वा संयौमीति संयुत्य मखस्य शिरो ऽसीति पिण्डं कृत्वा यथाभागं व्यावर्तेथामिति विभज्य समौ पिण्डौ कृत्वा यथादेवतमभिमशतीदमग्नेरित्याग्नेयम्। इदमग्नीषोम योरित्यग्नीषोमीयम्॥५॥
-5. Having taken (water) from the carried forth (water) by means of the spoon, having supported it (the spoon containing water) by means of the grass-brush, with samāpo adbhirag mata,' having poured (the water in the spoon) in the flour (in the pan), with adbhiḥ pari prajātāḥ2 having poured the hot watery in a circumambulatory manner, with janayatyai tvā samyaumit having kneaded (the water and flour), with makhasya siro'sis having prepared a dough, with yathābhāgam vartethāmo having divided (the dough and) having prepared two equal doughs, he touches (each of them) in accordance with the deity: (thus he touches) the dough for Agni with idam āgneyam; the dough for Agni-soma with idamagniṣomayoḥ.
-1. TS I.1.8.b-c. 2. TS I.1.8.d. 3. See I.23.6. 4. TS I.1.8.e. 5. TS I.1.8.g.
-6. This formula is not found in any Samhita-text. इदमहं सेनाया अभीत्वर्यै मुखमपोहामीति वेदेन कपालेभ्यो ऽङ्गारानपोह्य धर्मो ऽसि विश्वायुरित्याग्नेयं पुरोडाशमष्टासु कपालेष्वधिश्रयति॥६॥
-6. With idamahaṁ senāya abhītvaryai mukhamapohāmil having taken away embers, from potsherds? by means of the
-___57
-grass-brush, with gharmo’si viśvāyuḥ he puts the sacrificial bread for Agni on the eight potsherds.
-1. TS III.7.5.1. 2. See I.23.6
-3. TS I.1.8.h. एवमुत्तरमुत्तरेषु।॥७॥
-7. In the same manner, he puts the northern (sacrificial bread) on the northern potsherds.
+
+
+नुवेण प्रणीताभ्य आदाय वेदेनोपयम्य समापो अद्भिरग्मतेति पिष्टेष्वा नीयाद्भिः परि प्रजाता इति तप्ताभिरनुपरिप्लाव्य जनयत्यै त्वा संयौमीति संयुत्य मखस्य शिरो ऽसीति पिण्डं कृत्वा यथाभागं व्यावर्तेथामिति विभज्य समौ पिण्डौ कृत्वा यथादेवतमभिमशतीदमग्नेरित्याग्नेयम्। इदमग्नीषोम योरित्यग्नीषोमीयम्॥५॥
+
+
+इदमहं सेनाया अभीत्वर्यै मुखमपोहामीति वेदेन कपालेभ्यो ऽङ्गारानपोह्य धर्मो ऽसि विश्वायुरित्याग्नेयं पुरोडाशमष्टासु कपालेष्वधिश्रयति॥६॥
+
+
+एवमुत्तरमुत्तरेषु।॥७॥
+
 एवमनुपूर्वाण्येवैष्वत ऊर्ध्वं कर्माणि क्रियन्ते॥८॥
-8. Henceforth the actions are (to be) done in the same manner (order).
+
 ## 01.25
- समानजातीयेन कर्मणैकैकमपवर्जयति॥१॥
-1. By means of a rite of the same type (the Adhvaryu) completes (the similar rites) one by one.1
-1. Thus the act of spreading of the bread (I.25.3) on the potsherds is
-to be done first in connection with southern bread; then in con
-nection with the northern. यानि विभवन्ति सकृत्तानि क्रियन्ते॥२॥
-2. Those rites which can be performed once onlyl are to be performed once only.
-___ 1. e.g. carrying fire round the breads (see I.25.8).
+समानजातीयेन कर्मणैकैकमपवर्जयति॥१॥
+
+यानि विभवन्ति सकृत्तानि क्रियन्ते॥२॥
+
 उरु प्रथस्वोरु ते यज्ञपतिः प्रथतामिति पुरोडाशं प्रथयन्सर्वाणि कपा लान्यभिप्रथयति॥३॥
-3. With uru prathasvoru te yajñapatiḥ prathatām' spread ing the sacrificial bread he spreads it over all the potsherds.2
-1. TS I.1.8.i.
-2. Cf. TS II.6.3.4. अतुङ्गमनपूपाकृति कूर्मस्येव प्रतिकृतिमश्वशफमात्रं करोति॥४॥
-4. He makes the sacrificial bread which is not very high, not of the form of an apūpa (a kind of pan-cake) but which is
-of the shape of a tortoise as it were, and of the size of a horse's hoof.2
-1. Cf. TS II.6.3.2.-3.
-2. Cf. SB I.2.2.10. यावन्तं वा मन्यते॥५॥
-5. Or (he makes it) as big as he considers (to be adequate for the use in the ritual).!
-1. Cf. SB I.2.2.10. तं न सत्रा पृथु करोतीत्येके॥६॥
-6. According to some ritualists,' he does not make it very broad.
-__ 1. Cf. SB I.2.2.9. त्वचं गृह्णीष्वेत्यद्भिः श्लक्ष्णीकरोत्यनतिक्षारयन्॥७॥
-7. With tvacam grhnisval he makes (them) smooth with out letting (water) flow.
-1. TS I.1.8.k.
+
+
+अतुङ्गमनपूपाकृति कूर्मस्येव प्रतिकृतिमश्वशफमात्रं करोति॥४॥
+
+
+यावन्तं वा मन्यते॥५॥
+
+
+तं न सत्रा पृथु करोतीत्येके॥६॥
+
+
+त्वचं गृह्णीष्वेत्यद्भिः श्लक्ष्णीकरोत्यनतिक्षारयन्॥७॥
+
+
 अन्तरितं रक्षो ऽन्तरिता अरातय इति सर्वाणि हवींषि त्रिः पर्षग्नि कृत्वा देवस्त्वा सविता श्रपयत्वित्युल्मुकैः परितपति॥८॥
-8. With antaritam raksah...1 having thrice moved fire (burning darbha-blades) around all the oblation substances with devastvā savitā śrapayatuhe heats (bakes) (the sacrificial breads).
-__ 1. TS I.1.8.1.
-2. TS I.1.8.m. अग्निस्ते तनुवं मातिधागिति दभैरभिज्वलयति ज्वालैर्वा॥९॥
-9. With agniste tanuvam mātidhāki he enlightens (the breads) by means of (burning) darbha-blades or (any other) burning (objects).
-____1. TS I.1.8.n-0. अविदहन्तः श्रपयतेति वाचं विसृजते॥१०॥
-10. With (the words) “Do you bake (the breads) without burning (them)" he releases his speech.2
-1. TB HI.2.8.7. 2. See I.24.2; TB III.2.8.7.
-59
-आग्नीध्रो हवींषि सुशृतानि करोति॥११॥ 11. The Āgnīdhra bakes the oblations (the breads) prop
-erly.'
-1.Cp. TS II.6.3.4 where the importance of proper baking is empha
-sized. सं ब्रह्मणा पृच्यस्वेति वेदेन पुरोडाशे साङ्गारं भस्माध्यूहति॥१२॥
-12. With sam brahmanā prcyasval the Adhvaryu spreads ashes mixed with embers over (the breads) by means of the grassbrush (Veda)2
-1. TS I.1.8.p.
-2. Cf. TS II.6.3.4. अत्र वा वाचं विसृजेत्॥१३॥ 13. Or rather, he may release his speech at this stage.
-1. See for the other alternative 1.25.10. अङ्गलिप्रक्षालनं पात्रीनिर्णेजनं चोल्मुकेनाभितप्य स्फ्येनान्तर्वेदि तिस्रो लेखा लिखति प्राचीरुदीची॥१४॥
-14. Having heated the water with which he has washed his fingers and water with which he has washed the pan, by means of a burning fire-brand, he draws three lines within the altar from west to the east or from south to the north by means of the Sphya (wooden sword).
+
+
+अग्निस्ते तनुवं मातिधागिति दभैरभिज्वलयति ज्वालैर्वा॥९॥
+
+
+अविदहन्तः श्रपयतेति वाचं विसृजते॥१०॥
+
+
+आग्नीध्रो हवींषि सुशृतानि करोति॥११॥
+
+सं ब्रह्मणा पृच्यस्वेति वेदेन पुरोडाशे साङ्गारं भस्माध्यूहति॥१२॥
+
+
+अत्र वा वाचं विसृजेत्॥१३॥
+
+
+अङ्गलिप्रक्षालनं पात्रीनिर्णेजनं चोल्मुकेनाभितप्य स्फ्येनान्तर्वेदि तिस्रो लेखा लिखति प्राचीरुदीची॥१४॥
+
 तास्वसंस्यन्दयंस्त्रिर्निनयति प्रत्यगपवर्गमेकताय स्वाहेत्येतैः प्रतिमन्त्रम्॥१५॥
-1.5. In these lines, he pours (that wash-water mixed to gether) in each line with one of the formulae (in sequence) beginning with ekatāya Svāhāl without letting the water flow.
-1. TS I.1.8.q. निनीय वाभितपेदभितपेत्॥१६॥
-16. Or rather he may heat (the water) after having poured it.!
-1. Alternative to what is mentioned in Sūtra 14 above.
+
+
+निनीय वाभितपेदभितपेत्॥१६॥
+
 60
 ## 02.01
  देवस्य त्वा सवितुः प्रसव इति स्फ्यमादायेन्द्रस्य बाहुरसि दक्षिण इत्यभिमन्त्र्य हरस्ते मा प्रतिगामिति दर्भेण संमृज्यापरेणाहवनीयं यजमान मात्रीमपरिमितां वा प्राची वेदिं करोति॥१॥
-1. With devasya tvā savituḥ prasave...' having taken the wooden sword (Sphya), with indrasya bāhurasi dakṣiṇaḥ2 hav ing addressed it, with haraste mā prati gāmhaving rubbed it by means of a Darbha blade, (the Adhvaryu) prepares altar of the length equal to the height of the sacrificer or of unfixed measurement, beginning in the west and ending in the east.
-1. TS I.1.9.q. 2. TS I.1.9.6.
-3. This formula is found only here. यथासन्नानि हवींषि संभवेदेवं तिरश्चीम्॥२॥
-2. (He prepares the altar) so much broad that it could accommodate all the utensils which are placed there.
-वेदेन वेदिं विविदुः पृथिवीं सा पप्रथे पृथिवी पार्थिवानि गर्भ बिभर्ति भुवनेष्वन्तस्ततो यज्ञो जायते विश्वदानिरिति पुरस्तात्स्तम्बयजुषो वेदेन वेदिं त्रिः संमायुपरिष्टाद्वा॥३॥ ____3. Beforel carrying away the Stambayajus he sweeps the altar thrice by means of the grass-brush (Veda) with vedena vedim...? Or he does this after carrying away the Stambayajus.
-1. Cf. TB III.3.9.10. 2. i.e. throwing of grass and dust from the place of Vedi by means of
-the Sphya.
-3. TB III.3.9.10. पूर्वार्धाद्वैदेवितृतीयदेशात्स्तम्बयजुर्हरति॥४॥
-4. From the eastern part of the place of vedi (altar) leav ing away one third (front) portion, he carries away the Stambayajus (grass).
+
+
+
+यथासन्नानि हवींषि संभवेदेवं तिरश्चीम्॥२॥
+
+
+वेदेन वेदिं विविदुः पृथिवीं सा पप्रथे पृथिवी पार्थिवानि गर्भ बिभर्ति भुवनेष्वन्तस्ततो यज्ञो जायते विश्वदानिरिति पुरस्तात्स्तम्बयजुषो वेदेन वेदिं त्रिः संमायुपरिष्टाद्वा॥३॥
+
+
+पूर्वार्धाद्वैदेवितृतीयदेशात्स्तम्बयजुर्हरति॥४॥
+
+
 पृथिव्यै वर्मासीति तत्रोदगग्रं प्रागग्रं वा दर्भ निधाय पृथिवि देवयजनीति तस्मिन्स्फ्येन प्रहृतयापहतो ऽररुः पृथिव्या इति स्फ्येन सतृणान्पांसूनपादाय11.1]
 ĀPŚS Translation : THITE
 61 व्रजं गच्छ गोस्थानमिति हरति। वर्षतु ते द्यौरिति वेदिं प्रत्यवेक्षते यजमानं AT11411
-5. With prthivyai varmāsi' having placed a darbha-blade? there with its point to the north or to the east, with prihi vi devayajani having struck upon it (the darbha-blade) by means of the Sphya (wooden sword), with apahato’raruh prthivyāḥ4 having taken earth together with the darbha-blades by means of the Sphya, with vrajam gaccha gosthānam he carries it. With varṣatu te dyau?“ he looks at the sacrificial altar (vedi) or at the sacrificer.
-1. VSK 1.9.2. 2. viz. on the place mentioned in Sūtra 4. 3. TS 1.1.9.d. 4. TS 1.1.9.e. 5. TS 1.1.9.f.
-6. TS 1.1.9.g.
+
+
 बधान देव सवितरित्युत्तरतः पुरस्ताद्वितृतीयदेश उदग्द्विपदे ऽपरिमिते a agfiaufanie 11
-6. With badhāna deva savitaḥ...' he, facing the north throws (the earth together with the darbha-blade) at (a distance of) two steps or at an unmeasured (distance) towards the north of the eastern part of the altar leaving out the front one third portion.
-1. TS 1.1.9.h. # Front: 11911 7. That is the (place of Utkara) rubbish-heap. अररुस्ते दिवं मा स्कानिति न्युप्तमाग्नीध्रो ऽञ्जलिनाभिगृह्णाति॥८॥
-8. With araruste divam mā skān...' the Āgnīdhra takes (the earth together with the darbha-blade) within his folded hands.
-1. TS 1.1.9.r. एवं द्वितीयं तृतीयं च हरति॥९॥
-9. In the same manner' he carries earth for the second and the third time.
-1. See, however, I.2.1. There is a different formula for the second
-and third time.
+
+
+अररुस्ते दिवं मा स्कानिति न्युप्तमाग्नीध्रो ऽञ्जलिनाभिगृह्णाति॥८॥
+
+
+एवं द्वितीयं तृतीयं च हरति॥९॥
+
 तूष्णीं चतुर्थं हरन्सर्वं दर्भशेषं हरति॥१०॥
-10. Carrying (the earth) silently for the fourth time, he carries the entire remaining part of the darbha-blade.
+
 ## 02.02
- अपाररुमदेवयजनं पृथिव्या इति द्वितीये प्रहरणो ऽररुघाद्यां मा पप्तदिति तृतीये। अपहतो ऽररुः पृथिव्यै देवयजन्या इति द्वितीये ऽपादानो ऽपहतो ऽररुः पृथिव्या अदेवयजन इति तृतीये॥१॥
-la. (The formula to be recited) at the (time of the) second (striking) (should be) apararumadevayajanam prthivyai devayajanyai' and at the time of the third (striking) should be ararur dyāṁ mā paptat?.
-___ 1. KSI.9.
-2. KS I.9. 1b. (The formula to be recited) at the time of the second carrying away (should be) apahatorarvh prthivyai deva yajanyail and at the (time of the) third (carrying should be) apahato'raruḥ prthivyā adevayajane.?
-1.TS I.1.9.1.
-2. TS I.1.9.n.
+अपाररुमदेवयजनं पृथिव्या इति द्वितीये प्रहरणो ऽररुघाद्यां मा पप्तदिति तृतीये। अपहतो ऽररुः पृथिव्यै देवयजन्या इति द्वितीये ऽपादानो ऽपहतो ऽररुः पृथिव्या अदेवयजन इति तृतीये॥१॥
+
+
 अपबाढं रक्ष इति द्वितीये निवपन आग्नीध्रो ऽभिगृह्णात्यवबाढो ऽघशंस इति तृतीये ऽवबाढा यातुधाना इति चतुर्थे ॥२॥
-2. (The formula to be recited) at the (time of) the second throwing (should be) avabāờhaṁ rakṣaḥ' and at the time of the third (throwing should be) avabādḥā yātudhānäh2
-____ 1. These formulae are not found in any Samhita-text.
+
+
 द्रप्सस्ते द्यां मा स्कानिति खनिं प्रत्यवेक्ष्य स्फ्येन वेदिं परिगृह्णाति वसवस्त्वा परिगृह्णन्तु गायत्रेण छन्दसेति दक्षिणतो रुद्रा इति पश्चादादित्या इत्युत्तरतः॥३॥
-3. With drapsaste dyāṁ mā skān' having looked at the pit (i.e. place from where the earth was taken) the Adhvaryu traces out the altar with vasavastvā parigshṇantu gayatrena cchan dasai on the south, with rudrāh... on the west, and with ādityāh.... on the north.s
-1. MS I.1.10. 2-4. TS I.1.9.s.
-63
-5. This is the first tracing (purva parigrāha). For the second tracing
-(uttara parigraha) sce II.3.7. अपाररुमदेवयजनं पृथिव्या अदेवयजनो जहीति स्फ्येनोत्तमां त्वचमुद् धन्ति ॥४॥
-4. With apārarumadvayajanaṁ...' he digs out the upper layer (of the ground of the altar) by means of the Sphya (wooden sword).
-___ 1. Cp. KS I.9. समुद्धतस्याग्नीध्र उत्करे त्रिर्निवपति॥५॥
-5. Out of the dug out (earth), the Āgnīdhra throws away some (earth) upon the rubbish-heap three times.
-इमां नराः कृणुत वेदिमेत देवेभ्यो जुष्टामदित्या उपस्थे। इमां देवा अजुषन्त विश्वे रायस्पोषा यजमानं विशन्त्विति संप्रेष्यति॥६॥ 6. The Adhvaryu orders with imāṁ narāḥ...!
-1. Cp. KS I.9. देवस्य सवितुः सव इति खनति व्यङ्गलां व्यङ्गलां चतुरङ्गलां यावत्पाष्र्याः शुक्लं तावती पृथमात्री रथवर्ममात्रीं प्रादेशमात्री वा पुरीषवतीम्॥७॥
-____7. With devasya savituh save...' he digs out the altar two angulas or three angulas or four angulas deep or as deep as the white portion of the heal, a prtha (flat palm i.e. thirteen angulas) deep, or as deep as the rut of a chariot, or as deep as a furrow, or as deep as a span and it should be containing loose soil.
-1. TS I.1.9.t. नैता मात्रा अतिखनति॥८॥ 8. He does not dig beyond these measures. दक्षिणतो वर्षीयसी प्राक्प्रवणां प्रागुक्प्रवणां वा॥९॥
-9. Or rather he digs the altar in such a way that it will be elevated towards the south,' sloping towards the east or sloping towards the north-east.2
-1. Cf. TS II.6.4.3. 2. Cf. TB III.2.9.8.
-64
+
+
+अपाररुमदेवयजनं पृथिव्या अदेवयजनो जहीति स्फ्येनोत्तमां त्वचमुद् धन्ति ॥४॥
+
+
+समुद्धतस्याग्नीध्र उत्करे त्रिर्निवपति॥५॥
+
+इमां नराः कृणुत वेदिमेत देवेभ्यो जुष्टामदित्या उपस्थे। इमां देवा अजुषन्त विश्वे रायस्पोषा यजमानं विशन्त्विति संप्रेष्यति॥६॥
+
+
+देवस्य सवितुः सव इति खनति व्यङ्गलां व्यङ्गलां चतुरङ्गलां यावत्पाष्र्याः शुक्लं तावती पृथमात्री रथवर्ममात्रीं प्रादेशमात्री वा पुरीषवतीम्॥७॥
+
+
+नैता मात्रा अतिखनति॥८॥
+
+दक्षिणतो वर्षीयसी प्राक्प्रवणां प्रागुक्प्रवणां वा॥९॥
+
 ## 02.03
  प्राञ्चौ वेद्यंसावुन्नयति प्रतीची श्रोणी॥१॥
-1. The Adhvaryu elevates the shoulders' of the altar to wards the east and the buttocks? towards the west.3
-1. For this Sūtra cf. TB III.2.9.9. 2. The north-eastern and south-eastern corners.
-3. The north-western and south-western corners. पुरस्तादंहीयसी पञ्चात्प्रथीयसी मध्ये संनततरा भवति॥२॥
-2. The altar is narrower in the east, broader on the west and rather contracted in the middle.
-____ 1. Cp. SB I.2.5.16. यन्मूलमतिशेते स्फ्येन तच्छिनत्ति न नखेन॥३॥
-3. Whatever root remains (on the altar) he cuts it by means of the wooden sword (Sphya) (and) not by means of his nail.1
-____ 1. Cf. TB III.2.9.10; cp. MS IV.1.10; KS XXI.8. यत्पुरीषमतिशेत उत्करे तन्निवपति॥४॥
-4. Whatever loose soil remains, he throws it on the rub bish-heap.
+
+
+पुरस्तादंहीयसी पञ्चात्प्रथीयसी मध्ये संनततरा भवति॥२॥
+
+
+यन्मूलमतिशेते स्फ्येन तच्छिनत्ति न नखेन॥३॥
+
+
+यत्पुरीषमतिशेत उत्करे तन्निवपति॥४॥
+
 आहार्यपुरीषां पशुकामस्य कुर्यात्॥५॥
-5. In the case of (a sacrificer) desirous of cattle, he should prepare (the altar) by means of the loose soil which is to be brought from another place).
+
 यत्प्राक् खननात्तत्कृत्वा यदाहरेत्तन्मन्त्रेण खनेत्॥६॥
-6. Having done whatever is before the act of digging," he should dig with a formula' that (i.e. the loose soil) which he brings (from another place).
-1. Thus from II.1.1 to II.2.6.
-2. viz. TS I.1.9.t. ब्रह्मनुत्तरं परिग्राहं परिग्रहीष्यामीति ब्रह्माणमामन्त्र्य स्फ्येन वेदि परिगृह्णात्य॒तमसीति दक्षिणतः। ऋतसदनमसीति पश्चात्। ऋतश्रीरसीत्युत्तरतः॥७॥
-7. Having called the Brahman, with “O Brahman I shall now do the second tracing out (of the altar)” he traces out the
-65
-altar by means of the Sphya (wooden sword)2 with amstamasi at the south; with stasadanamasi4 at the west; with staśrirasis at the north.
-1. For the first tracing cp. II.2.3. For Brahman's role here see III. 19.3. 2. Cp. II.2.3.
-3-5. TS 1.1.9.u. विपरीतौ परिग्राहावेके समामनन्ति॥८॥
-8. According to the opinion of some ritualists (the order of these two) tracing-outs should be reverse.'
-1. i.e. the formulae of the first tracing out should be used for the
-second tracing out and the formulae of the second tracing out should be used for the first tracing out (see II.2.3 and II.3.7). ŚB 1.2.5.5. and 11 we find that the formulae of the second tracing out according to the Black YV are given for the first tracing out. For
-the second the ŚB gives different formulae altogether. धा असि स्वधा असीति प्रतीची वेदिं स्फ्येन योयुप्यते॥९॥
-9. With dhāasi svadhāasi' he levels up the altar by means of the Sphya from the east to the west.?
-1. TS 1.1.9.v-w; x.a.
-2. Cf. TS II.6.4. 3-4. उदादाय पृथिवीं जीरदानुरिति वेदिमनुवीक्षते॥१०॥
-10. With udādāya prthivīm jiradānuḥ...' he looks along the altar.
-1. TS 1.1.9.x.c-d. पश्चार्धे वेदेवितृतीयदेशे स्फ्यं तिर्यञ्चं स्तब्ध्वा संप्रेष्यति प्रोक्षणीरासा दयेध्माबर्हिरुपसादय नुवं च स्रुचञ्च संमृढि पत्नी संनद्याज्येनोदेहीति॥११॥
-11. In the western half, at the distance of one third of the altar, having kept the Sphya erect crosswise', he orders? the Agnīdhra: "Do you put down the ladle of the Prokṣaṇī (sprin kling-waters)3; bring forth the sacrificial fuel and the barhis (grass).“ cleanse the spoon and the ladles;; string round the waist of the wife of the sacrificer;ó come up with ghee”.?
-1. In such a manner that its upper part will be pointed towards the
-north. 2. See TB III.2.9.14.
-66
-3. See II.3.13. 4. See II.3.17. 5. See II.4.2ff. 6. See II.5.2ff.
-7. Sce II.6.5. अपि वा न संप्रैषं ब्रूयात्॥१२॥ 12. Or, rather, he should not utter the order.'
-1. In the first alternative (see Sutra 11) the Agnidhra does as per the
-orders. In the second alternative, the Adhvaryu, himself, should do all he activities. The optionality of the order is based upon ŚB
-I.2.5.21. प्रोक्षणीरभिपूर्योदञ्चं स्फ्यमपोह्य दक्षिणेन स्फ्यमसंस्पृष्टा उपनिनीय स्फ्यस्य वर्मन्सादयत्तसधस्थेति द्वेष्यं मनसा ध्यायन्॥१३॥
-13. Having filled the sprinkling waters, having removed the Sphya towards the north, having poured water to the south (on the place where the Sphya was fixed), in such a manner that the water does not touch the Sphya, while thinking about the enemy in the mind' he places the waters on the trace made by means of the Sphya with stasadha stha.?
-1. Cf. TS II.6.4.4.
-2. Not found in any Samhitā-text.
+
+
+ब्रह्मनुत्तरं परिग्राहं परिग्रहीष्यामीति ब्रह्माणमामन्त्र्य स्फ्येन वेदि परिगृह्णात्य॒तमसीति दक्षिणतः। ऋतसदनमसीति पश्चात्। ऋतश्रीरसीत्युत्तरतः॥७॥
+
+
+विपरीतौ परिग्राहावेके समामनन्ति॥८॥
+
+
+धा असि स्वधा असीति प्रतीची वेदिं स्फ्येन योयुप्यते॥९॥
+
+
+उदादाय पृथिवीं जीरदानुरिति वेदिमनुवीक्षते॥१०॥
+
+
+पश्चार्धे वेदेवितृतीयदेशे स्फ्यं तिर्यञ्चं स्तब्ध्वा संप्रेष्यति प्रोक्षणीरासा दयेध्माबर्हिरुपसादय नुवं च स्रुचञ्च संमृढि पत्नी संनद्याज्येनोदेहीति॥११॥
+
+
+अपि वा न संप्रैषं ब्रूयात्॥१२॥
+
+प्रोक्षणीरभिपूर्योदञ्चं स्फ्यमपोह्य दक्षिणेन स्फ्यमसंस्पृष्टा उपनिनीय स्फ्यस्य वर्मन्सादयत्तसधस्थेति द्वेष्यं मनसा ध्यायन्॥१३॥
+
+
 शतभृष्टिरसि वानस्पत्यो द्विषतो वध इति पुरस्तात्प्रत्यञ्चमुत्करे स्फ्यमुदस्यति द्वेष्यं मनसा ध्यायन्॥१४॥
-14. With śatabhrṣṭirasi vānaspatyaḥ...' he throws the Sphya from the east to the west on the rubbish-heap, while thinking about the enemy in the mind."
-1. TS II.6.4.1. Here however the formula is prescribed for being
-used in another rite. 2. That is, standing to the east of the rubbish-heap, he throws the
-Sphya. .
-3. Cf. TB III.2.9.15; III.2.10.1. नानवनिग्य हस्तौ पात्राणि पराहन्ति॥१५॥
-15. Without washing his hands he should not touch the utensils.'
-1. Cr. TB III.2.10.2.
+
+
+नानवनिग्य हस्तौ पात्राणि पराहन्ति॥१५॥
+
 67
 हस्ताववनिज्य स्फ्यं प्रक्षालयत्यग्रमप्रतिमृशन्॥१६॥
-16. Having washed his hands he washes the Sphya with out touching its end.1
-____1. Cf. TB III.2.10.2. उत्तरेणाहवनीयं प्रागग्रमिध्माबर्हिरुपसादयति दक्षिणमिध्यमुत्तरं बर्हिः॥१७॥
-17. To the north of the Ahavaniya-fire he places the fuel and sacrificial grass-fuel to the south, sacrificial grass to the north.
+
+
+उत्तरेणाहवनीयं प्रागग्रमिध्माबर्हिरुपसादयति दक्षिणमिध्यमुत्तरं बर्हिः॥१७॥
+
 ## 02.04
  पत्नीसंनहनमेके पूर्वं समामनन्ति नुक्संमार्जनमेके॥१॥
-1. According to the opinion of some ritualists the girding of the wife of the sacrificer should be done first'; according to some others cleansing of the ladles.
-1. It is not known who are these ritualists who hold this view.
+
 घृताचीरेताग्निो ह्वयति देवयज्याया इति स्रुच आदाय प्रत्युष्टं रक्षः प्रत्युष्टा अरातय इत्याहवनीये गार्हपत्ये वा प्रतितप्यानिशिता स्थ सपत्न क्षयणीरित्यभिमन्त्र्य वेदाग्राणि प्रतिविभज्याप्रतिविभज्य वा तैः सुचः संमार्टि प्राचीरुदीचीर्वोत्ताना धारयमाणः॥२॥
-2. With ghrtācireta...' having taken up the ladles, with pratyuṣtaṁ rakṣaḥ pratyuṣtā arātayaḥ2 having heated them ei ther on the Āhavanīya or gārhapatya with anisitā stha sapatnak ayiṇiḥ3 having addressed them, having either divided the tips of the Veda in parts according to the number of ladles or not, he cleanses the ladles by means of them (tips) holding them (the ladles) with their openings turned upwards, with their points either to the east or to the north.
-1. Formula not found in any Samhita-text. 2. TS I.1.10.a-b. 3. MS IV.1.12; KS I.10.
-4. See I.6.6. उपभृतमेवोदीचीमित्येके॥३॥
-3. According to some' (ritualists) he should hold only the Upabhệt pointing to the north.
-1. Not identified.
+
+
+उपभृतमेवोदीचीमित्येके॥३॥
+
 गोष्ठं मा निर्मक्षमिति स्वमग्रैरन्तरतो ऽभ्याकारं सर्वतो बिलमभिसमाहारण मूलैर्दण्डम्॥४॥
-4. With gostham mā nirmrksan...1 (he cleanses) the spoon by means of the tips (of the Veda-cuttings), internally, again and again, on all sides of the bowl, and always bringing back2; (he cleanses) the handle by means of the root-parts (of the Veda cuttings).
-1. TS I.1.10.c. 2. Thus every time he cleanses from west to the east and never from
-the east to the west. वाचं प्राणमिति जुहूमग्रैरन्तरतो ऽभ्याकारं प्राची मध्यैर्बाह्यतः प्रतीचीम्। मूलैर्दण्डम्॥५॥
-5. With vācam prāṇam...' (he cleanses) the Juhū (-ladle )by means of the tips (of the Veda-cuttings) internally, again and again from the west to the east (and he cleanses it) by means of the middle parts (of the Veda-cuttings) externally, from the east to the west; (he cleanses) the handle by means (of the root-parts of the Veda-cuttings).
-___1. TS I.1.10.d.
+
+वाचं प्राणमिति जुहूमग्रैरन्तरतो ऽभ्याकारं प्राची मध्यैर्बाह्यतः प्रतीचीम्। मूलैर्दण्डम्॥५॥
+
 चक्षुः श्रोत्रमित्युपभृतमुदीचीमग्रैरन्तरतो ऽभ्याकारं प्रतीची मध्यैर्बाह्यतः प्राचीम्। मूलैर्दण्डम्॥६॥
-6. With caksuh srotram...1 (he cleanses) the Upabhrt ( ladle) pointing to the north by means of the tips (of the Veda cutting) internally again and again from east to the west, (he cleanses) it externally by means the middle parts (of the Veda cuttings), from the east to west; (he cleanses) the handle by means of the root-parts (of the Veda-cuttings).
-1. TS I.1.10.d.
-2. See II.4.3. प्रजां योनिमिति यथा स्रुवमेवं ध्रुवाम्॥७॥
-7. With prajaim yonim....' (he cleanses) the Dhruvā (-la dle) in the same manner as that of the spoon.2
-1. TS I.1.10.d. 2. See II.4.4.
-69
+
+
+प्रजां योनिमिति यथा स्रुवमेवं ध्रुवाम्॥७॥
+
 रूपं वर्णं पशूनां मा निर्मक्षं वाजि त्वा सपत्नसाहं संमार्फीति प्राशिवहरणं तूष्णीं वा॥८॥
-8. He cleanses the Prāśitraharana either with rūpam varnam...' or silently (without any formula).
-1. Cp. TS I.1. 10.c-d. न संमृष्टान्यसंमृष्टैः संस्पर्शयति॥९॥
-9. He does not allow the cleansed (utensils) be touched by the uncleansed.
+
+
+न संमृष्टान्यसंमृष्टैः संस्पर्शयति॥९॥
+
 अग्नेर्वस्तेजिष्ठेन तेजसा निष्टपामीति पुनः प्रतितप्य प्रोच्याओणोत्करं दर्भेषु सादयति जघनेन वा॥१०॥
-10. With agner vastejisthena tejasā..1 having heated (the cleansed utensils on the fire), having sprinkled (water upon them), he places them on the darbha-blades either to the east or the west of the rubbish-heap.
-1. TS I.1.10.b. शुक्संमार्जनान्यद्भिः संस्पय॥११॥
-11. Having sprinkled water on the (Veda-cuttings used) for cleansing of the ladles,
-___1. The sentence is incomplete. See the next Sutra.
+
+
+शुक्संमार्जनान्यद्भिः संस्पय॥११॥
+
 ## 02.05
- दिवः शिल्पमवततं पृथिव्याः ककुभिः श्रितं तेन वयं सहस्रवल्शेन सपलं नाशयामसि स्वाहेत्यग्नौ प्रहरति यस्मिन्प्रतितपत्युत्करे वा न्यस्यति॥१॥
-1. with divaḥ śilpam...' (the Adhvaryu) throws them on the fire on which he has heated (the ladles)? or throws them on the rubbish-heap.3
-1. TB III. 3.2.1. 2. See II.4.2.
-3. TB III.3.2.3 allows both the alternatives.
+दिवः शिल्पमवततं पृथिव्याः ककुभिः श्रितं तेन वयं सहस्रवल्शेन सपलं नाशयामसि स्वाहेत्यग्नौ प्रहरति यस्मिन्प्रतितपत्युत्करे वा न्यस्यति॥१॥
+
+
 आशासाना सौमनसमित्यपरेण गार्हपत्यमूर्ध्वजुमासीनां पत्नी संनयति तिष्ठन्तीं वा॥२॥
 70 .
-2. With āsāsānā...1 he girds the wife of the sacrificer who is sitting with knees raised or is standing (with a yoke-halter).
-1. TS I.1.10.e.
-2. According to TB III.3.3.1 she should be sitting. वाचयतीत्येके॥३॥
-3. According to some (ritualists) he makes her recite (the verse).
+
+वाचयतीत्येके॥३॥
+
 मौञ्जेन दाम्नान्यतरतः पाशेन योक्त्रेण वाभ्यन्तरं वाससः॥४॥
-4. (He girds her) by means of (girdle) made out of a string of Muñja-grass having a noose at one end or with a yoke-halter,' under the lower garment.
-1. See SB I.3.1.13. न वासो ऽभिसंनयति। अभिसंनह्यतीत्येके॥५॥
-5. He should not tie it over the garment. According to some (ritualists)' he should tie it over the garment.
-___ 1.cf. SB I.3.1.14; TB III.3.3.3.
+
+न वासो ऽभिसंनयति। अभिसंनह्यतीत्येके॥५॥
+
 उत्तरेण नाभिं निष्टयं ग्रन्थिं कृत्वा प्रदक्षिणं पर्दूह्य दक्षिणेन नाभिमवस्थाप्योपोत्थायाग्ने गृहपत उप मा ह्वयस्वेति गार्हपत्यमुपतिष्ठते॥६॥
-6. Towards the left of the navel (after the Adhvaryu) has made a knot that can be easily loosened, has shifted (the end of the girdle) to the south, and has placed (it) to the right of the navel, having stood up, (the wife of the sacrificer) stands near the Gärhapatya praising it with agne gshapate...!
-1. KS I.10.
+
 देवानां पत्लीरुप मा ह्वयध्वं पलि पल्येष ते लोको नमस्ते अस्तु मा मा हिंसीरिति देवपत्तीरुपतिष्ठते॥७॥
-7. She stands praising the wives of the gods with devānāṁ patnth.....
-____ 1. Cp. KS I.10; MS I.1.11; TS IV.7.13. d.a. तस्माद्देशादपक्रम्य सुप्रजसस्त्वा वयमिति दक्षिणत उदीच्युपविशतिम्॥
-8. Having gone away from that place, to the south, she sits with her face to the north, with suprajasastvā vayam....!
-1. TS I.1.10f.II.6]
+
+
+ d.a. तस्माद्देशादपक्रम्य सुप्रजसस्त्वा वयमिति दक्षिणत उदीच्युपविशतिम्॥
+
+.II.6]
 ApSs Translation : THITE
 71
 इन्द्राणीवाविधवा भूयासमदितिरिव सुपुत्रा। अस्थूरि त्वा गार्हपत्योपनिषदे सुप्रजास्त्वायेति जपति॥९॥
-9. She mutters indrānīvāvidhavā...! ___1. TB III.7.5.10. युक्ता मे यज्ञमन्वासाता इति यजमानः संप्रेष्यति॥१०॥
-10. The sacrificer orders “Girded one she should remain sitting through my sacrifice."1
-__1. Cf. SB I.3.1.12.
+
+
+युक्ता मे यज्ञमन्वासाता इति यजमानः संप्रेष्यति॥१०॥
+
 बह्वाज्याभ्यां दर्शपूर्णमासाभ्यां यजत इति विज्ञायते॥११॥
-11. “He performs the New and Full-moon-sacrifices with ample ghee"-This is known (from a Brāhmana-text).
-'The Brahmana-text is not known.
-II. 6 पूषा ते बिलं विष्यत्विति सर्पिर्धानस्य बिलमपावर्त्य दक्षिणाग्नावाज्यं विलाप्यादितिरस्यच्छिद्रपत्रेत्याज्यस्थालीमादाय महीनां पयो ऽस्योषधीनां रसस्तस्य ते ऽक्षीयमाणस्य निर्वपामि देवयज्याया इति तस्यां पवित्रान्तर्हिता- यामाज्यं निरुप्येदं विष्णुर्विचक्रम इति दक्षिणाग्नावधिश्रित्येषे त्वेति दक्षिणार्धे गार्हपत्यस्याधिश्रित्योर्जे त्वेत्यपादाय वेदेनोपयम्य पल्या उपहरति॥१॥
-1. With pūṣā te bilam....having opened the mouth of the pitcher of ghee, having melted the ghee on the Daksina-fire, with "aditirasyachhidrapatrãe” having taken the pot of ghee with mahināṁ payo'si'...having poured ghee in it (ghee-pot) on which two strainers have been kept, with “idaṁ viṣnur vicakrame'..., having kept the ghee-pot on the Daksina-fire, then with iṣe tvas having kept (the ghee-pot) on the southern part of the Gārhapatya (-fire), with ūrje tvão having removed (the ghee-pot from the fire), having supported (the ghee-pot) with grass-brush (Veda), (the Adhvaryu) brings (the ghee-pot) to the wife of the sacrificer.
-1-2. These formulae are not found in any Samhita-text. 3. TS I.1.10.i
-4. TS I.2.13.e
-5-6. TS I.1.1.a तत्सा निमील्य वीक्ष्यानुच्छ्वसन्त्यवेक्षते महीनां पयो ऽसीति॥२॥
-2. Having closed her eyes, then (having opened them) ,then having looked at it (the ghee), she gazes it without breath ing out, with mahinam payo'si.1
-___1. TS I.1.10.k. For Sutras 1 and 2 cf. MS IV.1.12. तेजो ऽसीत्युत्तरार्धे गार्हपत्यस्याधिश्रयति॥३॥
-3. With tejo'sil (the Adhvaryu) keeps (the pot of ghee) on the northern part of the Gärhapatya (-fire).
-_1. TS I.1.10.1.a. पल्यभावे तेजआदि लुप्यते गार्हपत्येऽधिश्रयणम्॥४॥
-4. In the absence of the wife (the rite of) keeping (the ghee-pot) over the garhapatya-fire beginning with tejo'si is dropped.
+
+## 02-06
+पूषा ते बिलं विष्यत्विति सर्पिर्धानस्य बिलमपावर्त्य दक्षिणाग्नावाज्यं विलाप्यादितिरस्यच्छिद्रपत्रेत्याज्यस्थालीमादाय महीनां पयो ऽस्योषधीनां रसस्तस्य ते ऽक्षीयमाणस्य निर्वपामि देवयज्याया इति तस्यां पवित्रान्तर्हिता- यामाज्यं निरुप्येदं विष्णुर्विचक्रम इति दक्षिणाग्नावधिश्रित्येषे त्वेति दक्षिणार्धे गार्हपत्यस्याधिश्रित्योर्जे त्वेत्यपादाय वेदेनोपयम्य पल्या उपहरति॥१॥
+
+
+तत्सा निमील्य वीक्ष्यानुच्छ्वसन्त्यवेक्षते महीनां पयो ऽसीति॥२॥
+
+
+तेजो ऽसीत्युत्तरार्धे गार्हपत्यस्याधिश्रयति॥३॥
+
+पल्यभावे तेजआदि लुप्यते गार्हपत्येऽधिश्रयणम्॥४॥
+
 तेजसे त्वेत्यपादाय तेजो ऽसि तेजो ऽनुप्रेहीति हरति। अग्निस्ते तेजो मा विनैदित्याहवनीये ऽधिश्रित्याग्नेर्जिह्वासीति स्फ्यस्य वर्त्मन्सादयति॥५॥
-5. With tejase tvā having taken away (the ghee-pot from over the fire), with tejo'si tejo'nuprehil he carries it away. With agniste tejo mā vinaiti having kept (the ghee-pot) on the Ahavaniya (fire), with agner jihvāsi' he keeps (the ghee-pot) on the line drawn by means of the Sphya.
-1. TS I.1.10.1.a. 2. TS I.1.10.c.1. 3. TS I.1.10.c.m-n.
-4. See II.3.13.
+
 आज्यमसि सत्यमसीत्यध्वर्युर्यजमानश्च निमील्य वीक्ष्यानुच्छ्वसन्तावाज्य मवेक्षेते॥६॥
-6. With ājyamasi...1 having closed (and then opened the eyes), then having looked at (the ghee), the Adhvaryu and the sacrificer gaze at the ghee without breathing out.?
-1. TS I.6.1.6. 2. Cf. TB III.3.6.1.
+
 ranslation : THITE
 II.7]
 73
 अथैनदुदगग्राभ्यां पवित्राभ्यां पुनराहारमुत्पुनाति॥७॥
-7. Then (the Adhvaryu) purifies it (the ghee) by means two strainers with their points to the north (thrice) every time having moved forward and backward.'
-___ 1. Cf. TB III.3.4.4
+
 ## 02.07
 . शुक्रमसीति प्रथमं ज्योतिरसीति द्वितीयं तेजो ऽसीति तृतीयम्॥१॥
-1. (The Adhvaryu purifies the ghee) first with sukramasil second with jyotirasi, third with tejo’si.3
-1-3. TS I.1.10.0. पूर्ववदायलिप्ताभ्यां प्रोक्षणीरुत्पूयानिष्कासिना वेण वेदमुपभृतं कृत्वान्तवेद्याज्यानि गृह्णाति॥२॥
-2. Having purified the sprinkling water by means of two (strainers) besmeared with gheel in the same manner (de scribed) earlier, within the altar, he scoops ghee(portion)s (in the ladles) by means of spoon in which he does not allow any remain of the earlier scooping, after having suppported (the spoon) with the grass-brush.
-1. Cf. TB III.3.4.5.
-2. See I.11.9; see also TS I.1.10.p. समंबिलं धारयमाणो जुह्वां मध्यदेश उपभृति भूमौ प्रतिष्ठितायां ध्रुवायाम्॥३॥
-3. (He scoops the ghee) in the Juhū (-ladle) holding the bowl of the ladle at the level of the mouth of the ghee-pot, in the Upabhrt (-ladle) (holding it at the level of) the middle-region (of the ghee-pot) (and) in the Dhruvā (-ladle) which is placed on the ground (upon the grass-brush).
+
+
+पूर्ववदायलिप्ताभ्यां प्रोक्षणीरुत्पूयानिष्कासिना वेण वेदमुपभृतं कृत्वान्तवेद्याज्यानि गृह्णाति॥२॥
+
+
+समंबिलं धारयमाणो जुह्वां मध्यदेश उपभृति भूमौ प्रतिष्ठितायां ध्रुवायाम्॥३॥
+
 चतुर्जुह्वामष्टावुपभृति चतुर्बुवायाम्॥४॥
-4. (He scoops ghee) four times in the Juhū, eight times in the Upabhst and four times in the Dhruvā.'
-1. Cf. TB III.3.5.3. पशुकामस्य वा पञ्चगृहीतं ध्रुवायां यथाप्रकृतीतरयोः॥५॥ 5. Or, in the case of a (sacrificer) desirous of cattle (he
-scoops ghee) five times in the Dhruvā and in the other two (ladles) in accordance with the basic paradigm.'
-1. As described in Sätra four. दशगृहीतमुपभृति पञ्चगृहीतमितरयोरित्येके॥६॥
-6. According to some (ritualists', he takes ghee) in the Upabhrt scooping ten times; and in the other (two ladles) scoop ing five times (each).
-___ 1. Not known. भूयो जुह्वामल्पीय उपभृति भूयिष्ठं ध्रुवायाम्॥७॥
-7. (He scoops) more (quantity of ghee) in the Juhū (-la dle), less (quantity of ghee) in the Upabhrt (-ladle) (and) the
-most (quantity of ghee) in the Dhruva (-ladle).1
-1. The quantity of the ghee should be taken more or less in the spoon
-while scooping. The total number of scooping is to be in accor
-dance with the Sūtras 4-6. शुक्रं त्वा शुक्रायामिति त्रिभिः पञ्चानां त्वा वातानामिति च द्वाभ्यां । जुह्वां चतुः पञ्चकृत्वो वा प्रतिमन्त्रम्॥८॥
-8. With the three (formulae beginning with) śukraṁ tvā śukrāyām' and with the two (formulae beginning with) pancānāṁ tvā vātānām? (he scoops ghee) in the Juhū (-ladle) either four or five times; each time using one of the formulae.
-1. TS I.1.10.q-r. 2. TS I.6.1.c-d.
-3. Five times, if the sacrificer is a Pañcāvattin (See II. 18.1. पञ्चानां त्वा दिशां पञ्चानां त्वा पञ्चजनानां पञ्चानां त्वा सलिलानां धाय गृह्णामि पञ्चानां त्वा पृष्ठानां धाय गृह्णामि धामासि प्रियं देवानामना धृष्टं देवयजनं देववीतये त्वा गृहामीति चरोस्त्वा पञ्चबिलस्येति च पञ्चभिरुपभृत्यष्टकृत्वो दशकृत्वो वा प्रतिमन्त्रम्॥९॥
-9. (He scoops ghee) in the Upabhrt with pancānām tvā...' and with five (formulae beginning with) carostvā pañcabilasya cai, for eight times or ten times' each time using one (of these) formula(e).
-1-2. Cp. TS I.6.1.0-1. 3. Ten times if the sacrificer is a Pancavattin.
-11.8)
+
+
+पशुकामस्य वा पञ्चगृहीतं ध्रुवायां यथाप्रकृतीतरयोः॥५॥
+
+दशगृहीतमुपभृति पञ्चगृहीतमितरयोरित्येके॥६॥
+
+भूयो जुह्वामल्पीय उपभृति भूयिष्ठं ध्रुवायाम्॥७॥
+
+
+शुक्रं त्वा शुक्रायामिति त्रिभिः पञ्चानां त्वा वातानामिति च द्वाभ्यां । जुह्वां चतुः पञ्चकृत्वो वा प्रतिमन्त्रम्॥८॥
+
+
+पञ्चानां त्वा दिशां पञ्चानां त्वा पञ्चजनानां पञ्चानां त्वा सलिलानां धाय गृह्णामि पञ्चानां त्वा पृष्ठानां धाय गृह्णामि धामासि प्रियं देवानामना धृष्टं देवयजनं देववीतये त्वा गृहामीति चरोस्त्वा पञ्चबिलस्येति च पञ्चभिरुपभृत्यष्टकृत्वो दशकृत्वो वा प्रतिमन्त्रम्॥९॥
+
 ĀpsS Translation : THITE शेषेण ध्रुवायां चतुः पञ्चकृत्वो वा प्रतिमन्त्रम्॥१०॥
-10. With the remaining (part of the section of the formu Jae) che scoops ghee) in the Dhruvā either for four or five times each time using one (of these) formula(e).
-1. viz. TS 1.6.1. Thus TS 1.6.1.m-n are to be used. नोत्कर आज्यानि सादयति॥११॥
-11. He does not deposit the ghees (i.e. the ladles contain ing ghee) on the Utkara.
+
+
+नोत्कर आज्यानि सादयति॥११॥
+
 नान्तर्वेदि गृहीतस्य प्रतीचीनं हरन्ति॥१२॥
-12. They do not carry anything out of that which has been scooped within the altar,' towards the west.
-1. Thus the ghee scooped in the ladles is to be used for the libations
-to be performed in the Ahavaniya-fire and not for the Patnīsamyāja libations, which are to be made in the Gärhapatya- fire (see III.8.1ff).
+
 ## 02.08
  पूर्ववत्प्रोक्षणीरभिमन्व्य ब्रह्माणमामन्त्र्य विस्रस्येध्मं कृष्णो ऽस्याखरेष्ठ इति त्रिः प्रोक्षति। वेदिरसीति त्रिर्वेदिं बर्हिरसीति त्रिर्बर्हिः। अन्तर्वेदि पुरोग्रन्थि बहिरासाद्य दिवे त्वेत्यग्रं प्रोक्षत्यन्तरिक्षाय त्वेति मध्यं पृथिव्यै त्वेति मूलम्॥१॥
-1. Having addressed the sprinkling waters in the same manner as mentioned earlier?, having called the Brahman”, having untied (the bundle of) fuel," (the Adhvaryu) thrice sprin kles water on it with krsno'syākhareṣthaḥ.... With vedirasi...? (he sprinkles water on) the altar thrice; with barhirasi... 8 (he sprinkles water) on the grass thrice; having placed the grass with the knot towards the east within the altar he sprinkles wa ter on the top part with dive tvão, on the middle part with antarik saya tvālo and on the root part with prthi vyai tvā. "
-1. Which is lying within the Vedi on the line of Sphya (See II.3.13). 2. See 1.10.11. 3. In the manner described in 1.19.1. 4. See 1.6.1. 5. See II.3.17.
-76
-6. TS I.1.11.a. 7. TS I.1.11.b. 8. TS I.1.11.c. 9-11.TS I.1.11.d.
+
 स्रुच्यग्राण्युपपाय्य मूलान्युपपाययति॥२॥
-2. Having moistened the points (of the grass) in the ladlel he moistens the roots (of the grass in it)2.
-1. In the water in the Agnihotrahavani i.e. the ladle with which the ___Agnihotra-libation is offered.
-2. Cf. SB I.3.3.4. पोषाय त्वेति सहस्रुचा पुरस्तात्प्रत्यञ्चं ग्रन्थिं प्रत्युक्ष्य प्रोक्षणीशेषं स्वधा पितृभ्य इति दक्षिणायै श्रोणेरोत्तरस्याः संततं निनीय पूषा ते ग्रन्थिं विष्यत्विति ग्रन्थिं विस्त्रंसयति॥३॥
-3. With posāya tva...1 having sprinkled water on the knot of the cord from the east to the west, with svadhā pitļbhyaḥ... having poured the remaining sprinkling-water in a continuous line from the south-western corner upto the north-western cor ner of the altar, with pūṣā te granthis viṣyatuhe unties the knot.
-wie van het uhlies the
-1. The formula is not found in any Samhita-text. 2. TS I.1.11.e-f.
-3. MS I.18.12 प्राञ्चमुद्गूढं प्रत्यञ्चमायच्छति॥४॥
-4. He pulls out towards the west the portion of the knot which was set from the east.'
-' See I.6.2, see also TB III.3.6.5 विष्णो स्तूपो ऽसीति कर्षनिवाहवनीयं प्रति प्रस्तरमपादत्ते नोद्यौति न प्रयौति न प्रतियौति न विक्षिपति न प्रमाष्टिं न प्रतिमाष्टिं नानुमाटि।५॥
-5. With viṣṇostūpo'si' he draws out the Prastara, drag ging it as it were, towards the Āhavanīya (from the Barhis). He does not lift (it) up. He does not push it forward nor back
-wards, he does not throw it; he does not pass his hand (over the Prastara) either obliquely or backwards or forwards.
-1. TS I.1.11.g. 2. The first cut handful of grass. See 1.3.16.
-3. Cp. MS IV.1.13; KS XXXI. 10; see also III.6.8.
+
+पोषाय त्वेति सहस्रुचा पुरस्तात्प्रत्यञ्चं ग्रन्थिं प्रत्युक्ष्य प्रोक्षणीशेषं स्वधा पितृभ्य इति दक्षिणायै श्रोणेरोत्तरस्याः संततं निनीय पूषा ते ग्रन्थिं विष्यत्विति ग्रन्थिं विस्त्रंसयति॥३॥
+
+
+प्राञ्चमुद्गूढं प्रत्यञ्चमायच्छति॥४॥
+
+
+विष्णो स्तूपो ऽसीति कर्षनिवाहवनीयं प्रति प्रस्तरमपादत्ते नोद्यौति न प्रयौति न प्रतियौति न विक्षिपति न प्रमाष्टिं न प्रतिमाष्टिं नानुमाटि।५॥
+
+
 अयं प्राणश्चापानश्च यजमानमपिगच्छताम्। यज्ञे ह्यभूतां पोतारौ पवित्रे हव्यशोधने। यजमाने प्राणापानौ दधामीति तस्मिन्पवित्रे अपिसृज्य प्राणापानाभ्यां त्वा सतनुं करोमीति यजमानाय प्रयच्छति। यजमानो ब्रह्मणे॥६॥
-6. With ayam prānascāpānasca...I having mixed the two strainers into the Prastara, with prānāpānābhyām...2 he gives the Prastara to the sacrificer; the sacrificer (gives) it to the Brahman.
-1. TB III.7.4.12.
-2. The formula is not found in any Samhita-text. ब्रह्मा प्रस्तरं धारयति यजमानो वा॥७॥ 7. Either the Brahman or the sacrificer holds the Prastara.1
-1. Upto II.9.5.
+
+
+ब्रह्मा प्रस्तरं धारयति यजमानो वा॥७॥
+
 ## 02.09
 
 दःर्वेदिमन्तर्धाय दक्षिणतः संनहनं स्तृणात्यक्ष्णया वा॥१॥
-1. Having covered the altar with Darbha-blades, (the Adhvaryu) spreads out the cord tied round the Barhis' on the southern (border of the altar)' or obliquely (from the south western corner to the north-eastern corner.)
-1. See I.4.12.
-2. Cf. KS XXXI. 10. ऊर्णाप्रदसं त्वा स्तृणामीति बर्हिषा वेदिं स्तृणाति बहुलमनतिदृश्यं प्रागपवर्ग वा त्रिधातु पञ्चधातु वा॥२॥
-2. With urnāmradasain tvā strnāmil he spreads sacred grass on the altar. He spreads ample grass, three or five bun dles of them ending either in the east or in the west, in such a
-manner that nothing beyond can be seen (i.e. thickly).
-1. TS I.1.11.h.
+
+
+ऊर्णाप्रदसं त्वा स्तृणामीति बर्हिषा वेदिं स्तृणाति बहुलमनतिदृश्यं प्रागपवर्ग वा त्रिधातु पञ्चधातु वा॥२॥
+
 78
 अग्रैर्मूलान्यभिच्छादयति॥३॥
-3. He covers the roots of the darbha-blades (of the earlier spread out grass) with the ends (of those in the bundel spread out later).
-धातौधातौ मन्त्रमावर्तयति॥४॥ 4. At each bundle he repeats the formula.
+
+धातौधातौ मन्त्रमावर्तयति॥४॥
+
+
 प्रस्तरपाणिः संस्पृष्टान्परिधीन्परिदधाति गन्धर्वोऽसि विश्वावसुरित्यतैः प्रतिमन्त्रमुदगग्रं मध्यमं प्रागनावितरौ॥५॥
-5. With the Prastara in his hand' he keeps the enclosing sticks in such a manner that they touch each other; (he keeps them) with one of these formulae beginning with gandharvo'si viśvāvasuḥ.? (He keeps) the middle one with its point to the north; the other ones with their points to the east.
-1. Cf. TB III.3.6.8.
-2. TS I.1.11.2-1.. आहवनीयमभ्यग्रं दक्षिणमवाग्रमुत्तरम्॥६॥
-6. (He keeps) the southern enclosing stick in such a way that its end would protrude beyond the Āhavanīya (fire-place) and the northern (enclosing stick) in such a way that its end would be slightly behind (the Ahavaniya-fire-place).
+
+
+आहवनीयमभ्यग्रं दक्षिणमवाग्रमुत्तरम्॥६॥
+
+
 सूर्यस्त्वा पुरस्तात्पात्वित्याहवनीयमभिमन्त्र्योपर्याहवनीये प्रस्तरं धारयन्नग्नि कल्पयति॥७॥
-7. With suryastvā purastāt pātul having addressed the Ahavaniya (-fire), holding the Prastara on the Ahavaniya (fire), he makes the fire flare up (by adding fuel to it).
-1. TS I.1.11.m. अनूयाजार्थे प्राची उल्मुके उदूहतीति वाजसनेयकम्॥८॥
-8. The view of the Vājasaneyins' is that he draws out two burning fire-brands (from the Ahavaniya-fire) towards the east. (within the fire itself) for the sake of after-offerings.2
-1. See SB I.8.2.1. 2. For these see III.5.1ff.
-79
+
+
+अनूयाजार्थे प्राची उल्मुके उदूहतीति वाजसनेयकम्॥८॥
+
+
 मध्यम परिधिमुपस्पृश्योर्चे आधारसमिधावादधाति॥९॥
-9. Having touched the middle enclosing stick' he places (offers) two fuel-sticks connected with the āghāra-libations? with their points upwards.
-1. Cf. SB I.3.4.5.
-2. See I.5.11, II.12.7, II.14.1. वीतिहोत्रं त्वा कव इति दक्षिणां समिदस्यायुषे त्वेत्युत्तराम्॥१०॥
-10. With vitihotram tvā kave...1 he offers the southern fuel stick and with samidasyāyuṣe tvā...the northern.
-1. TS I.1.11.n.
-2. VS II.5. तूष्णीं वा॥११॥ 11. Or (he offers the northern fuel-stick) silently.1 ____ 1. Cf. TS. II.6.6.3. समावनन्तर्गभी दीं विधृती कुरुते॥१२॥
-12. Out of two equal-sized Darbha-blades which do not contain any shoots inside, he prepares two Vidhrtis (separat ing blades).
+
+
+वीतिहोत्रं त्वा कव इति दक्षिणां समिदस्यायुषे त्वेत्युत्तराम्॥१०॥
+
+
+तूष्णीं वा॥११॥
+
+समावनन्तर्गभी दीं विधृती कुरुते॥१२॥
+
 विशो यन्त्रे स्थ इत्यन्तर्वेधुदगग्रे निधाय वसूनां रुद्राणामादित्यानां सदसि सीदेति तयोः प्रस्तरमत्यादधाति॥१३॥
-_13. With viso yantre stha... having kept the two Vidhrtis with their points to the north,2 within the altar, with vasūnāṁ rudrānām..... he keeps the Prastara upon them.
-1. TS I.1.11.0. 2. Cf.TS III.3.6.10.
-3. TS I.1.11.p. अभिहततराणि प्रस्तरमूलानि बर्हिर्मूलेभ्यः॥१४॥
-14. (The Prastara should be placed in such a manner that) Is roots will be a little more brought forward (towards the Ahavaniya) than the roots of the Barhis.
+
+अभिहततराणि प्रस्तरमूलानि बर्हिर्मूलेभ्यः॥१४॥
+
 ĀpsS Translation : THITE
 [II. 10
 80
 जुहूरसि घृताचीत्येतैः प्रतिमन्त्रमनूचीरसंस्पृष्टाः सुचः प्रस्तरे सादयति॥१५॥
-15. With one of the each of these formulae beginning with juhūrasi ghrtācil he places the ladles pointing to the east, with out touching each other, on the Prastara.
-1. TS I.1.11.q.
+
 ## 02.10
- अपि वा जुहूमेव प्रस्तरे॥१॥ 1. Or the Adhravyu places only Juhū on the Prastara.
+अपि वा जुहूमेव प्रस्तरे॥१॥
+
 समं मूलैर्जुह्वा दण्डं करोति। उत्तरेण जुहूमुपभृतं प्रतिकृष्टतरामिवा धस्ताद् विधृत्योः उत्तरेणोपभृतं ध्रुवां प्रतिकृष्टतरामिवोपरिष्टाद् विधृत्योः॥२॥
-2. He makes the handle of Juhû reach the ends of the roots (of the Prastara). (He places) Upabhrt to the north of Juhū somewhat towards the west, and below the Vidhịtis and Dhruvā to the north of Upabhịt somewhat towards the west, and upon the Vidhịtis.
+
+
 ऋषभोऽसि शाक्वरो घृताचीनां सूनुः प्रियेण नाम्ना प्रिये सदसि सीदेति दक्षिणेन जुहूं मुवं सादयत्युत्तरेणोत्तरेण वा ध्रुवाम्॥३॥
-3. With rsabhosi Sakvarah.... he places the spoon to the south of Juhū or to the north of the Dhruvā.
-1. TB III.1.6.10. एता असदन्निति स्रुचोऽभिमत्र्य विष्णूनि स्थ वैष्णवानि धामानि स्थ प्राजापत्यानीत्याज्यानि कपालवत्पुरोडाशादङ्गारानपोह्य सूर्य ज्योतिर्विभाहि महत इन्द्रियायेत्यभिमत्र्याप्यायतां घृतयोनिरग्निर्हव्यानुमन्यताम्। खमद्भव सुरूपं त्वा वसुविदं पशूनां तेजसाग्नये जुष्टमभिधारयामीत्याग्नेयं पुरोडाशम भिधारयति तूष्णीमुत्तरम्॥४॥
-4. With etā asadan...1 having addressed the ladles, with visnāni stha... having removed burning coals, from the sac rificial bread upon the ghee (in the ladles) in the same manner as he has done in connection with the potsherds, 4 with sūrya jyotir vibhāhi... having addressed (the sacrificial bread), with āpyāyatāṁ ghṛtayoṇiḥ..he pours ghee on the sacrificial breadII. 11]
-ApSs Translation : THITE
-for Agni, he pours ghee on the next breads silently (without reciting any formula).
-1. TB I.1.11.r-t. 2. MS I.1.12. 3. See I.25.12. 4. See I.24.6. 5. TB III.7.5.2. 6. TB III.7.5.2. 7. See TS II.6.3.5.
-8. See I.23.2; I.24.5. यस्त आत्मा पशुषु प्रविष्टो देवानां निष्ठामनु यो वितस्थे। आत्मन्वान्सोम घृतवान्हि भूत्वा देवानगच्छ सुवर्विन्द यजमानाय मह्यमिति प्रातर्दोहम्॥५॥
-5. With yasta ātmā pasusu pravistah...1 (he pours ghee) on the morning-milk (boiled for being used in the Sāṁnāyya).2
-1. TB III.7.5.3.
-2. In case Sāṁnāyya is being prepared. स्योनं ते सदनं करोमि घृतस्य धारया सुशेवं कल्पयामि त इति पात्र्यामुपस्तीर्याः प्रथस्तुर्भुवनस्य गोपाः शृत उत्स्नाति जनिता मतीनामित्यपर्या वर्तयन्पुरोडाशंमुद्वास्य॥६॥
-6. With syonam te sadanam karomi...' having spread ghee in the pan, with ardrah prathasnuh...2 having taken down the sacrificial bread (from the potsherds), without allowing it be turned up and down,'
-1. TB III.7.5.2-3. 2. TB III.7.5.3. 3. The sentence is incomplete. See the next Sutra.
+
+
+एता असदन्निति स्रुचोऽभिमत्र्य विष्णूनि स्थ वैष्णवानि धामानि स्थ प्राजापत्यानीत्याज्यानि कपालवत्पुरोडाशादङ्गारानपोह्य सूर्य ज्योतिर्विभाहि महत इन्द्रियायेत्यभिमत्र्याप्यायतां घृतयोनिरग्निर्हव्यानुमन्यताम्। खमद्भव सुरूपं त्वा वसुविदं पशूनां तेजसाग्नये जुष्टमभिधारयामीत्याग्नेयं पुरोडाशम भिधारयति तूष्णीमुत्तरम्॥४॥
+
+
+यस्त आत्मा पशुषु प्रविष्टो देवानां निष्ठामनु यो वितस्थे। आत्मन्वान्सोम घृतवान्हि भूत्वा देवानगच्छ सुवर्विन्द यजमानाय मह्यमिति प्रातर्दोहम्॥५॥
+
+स्योनं ते सदनं करोमि घृतस्य धारया सुशेवं कल्पयामि त इति पात्र्यामुपस्तीर्याः प्रथस्तुर्भुवनस्य गोपाः शृत उत्स्नाति जनिता मतीनामित्यपर्या वर्तयन्पुरोडाशंमुद्वास्य॥६॥
+
 ## 02.11
  वेदेन भस्म प्रमृज्य तस्मिन्सीदामृते प्रतितिष्ठ व्रीहीणां मेध सुमनस्यमान इति पात्र्यां प्रतिष्ठापयति॥१॥
-1. having removed the ashes sticking to it by means of the Veda (grass-brush), with tasmin sidāmrte patitistha...1 (the Adhvaryu) places it in the pan.
-1. TB III.7.5.3.
+
 ApSs Translation : THITE
 [II. 11.
 तूष्णीं यवमयम्॥२॥
-2. He places the (sacrificial bread) made of barley' si lently (without reciting any formula).
-1. See I.17.5. इरा भूतिः पृथिव्यै रसो मोत्क्रमीदिति स्रवेण कपालानि प्रत्यज्य देवस्त्वा सविता मध्वानक्त्विति स्रवेण पुरोडाशमनक्ति स्वक्तमकूर्मपृषन्त मपरिवर्गममणिकाषम्॥३॥
-3. With irā bhūtiḥ...' having besmeard the potsherds (with ghee), with devastvā savitā madhvānaktu2 he besmears the sacrificial bread by means of the spoon in such a manner that it would be well-besmeared, it will not have spots like a tortoise, no part will be excluded, and there will not be any scratch on it.
-1. TB III.7.5.3.
-2. TS I.3.5.d. उपरिष्टादभ्यज्याधस्तादुपानक्ति।।४॥
-4. Having besmeard (ghee to the sacrificial bread) on the upper side he besmears it on the lower side' (without turning it upside down).
-1. Cf. TS II.6.3.4. चतुर्होत्रा पौर्णामास्यां हवींष्यासादयेत्पञ्चहोत्रामावास्यायाम्॥५॥
-5. He places the oblations with the Caturhotr-formula' on the full-moon-day and with the Pancahotr-formula on the new
-moon-day.
-1. TA III.2. 2. TA III.3.
-3. Cf. KS IX.14. प्रियेण नाम्ना प्रियं सद आसीदेति यदन्यद्धविर्शपूर्णमासिकेभ्यस्तदेते नासादयेदिति विज्ञायते॥६॥
-___6. It is known (from a Brāhmana-text) that he should place whatever oblation other than that of the New and Full-moon sacrifices with this formula namely priyeṇa namnā priyam sada āsida.i
-1. TS I.1.11.q.b. For this Sutra cf. SB I.3.4.14.
+
+इरा भूतिः पृथिव्यै रसो मोत्क्रमीदिति स्रवेण कपालानि प्रत्यज्य देवस्त्वा सविता मध्वानक्त्विति स्रवेण पुरोडाशमनक्ति स्वक्तमकूर्मपृषन्त मपरिवर्गममणिकाषम्॥३॥
+
+
+उपरिष्टादभ्यज्याधस्तादुपानक्ति।।४॥
+
+
+चतुर्होत्रा पौर्णामास्यां हवींष्यासादयेत्पञ्चहोत्रामावास्यायाम्॥५॥
+
+प्रियेण नाम्ना प्रियं सद आसीदेति यदन्यद्धविर्शपूर्णमासिकेभ्यस्तदेते नासादयेदिति विज्ञायते॥६॥
+
+
 अपरेण स्रुचः पुरोडाशावासादयति॥७॥
-7. He places the two sacrificial breads to the west of the ladles.'
-__ 1. Which are situated on the Vedi upon the Prastara. उत्तरौ दौहौ॥८॥ 8. (He places) the two milks' to the north (of the ladles).
-1. Vessels containing boiled milk and curds (sour milk) respectively.
+
+उत्तरौ दौहौ॥८॥
+
+
 अपि वा मध्ये वेद्याः सानाय्यकुम्भ्यौ संदधाति पूर्वं शृतमपरं दधि। अथैने व्युदूहति दक्षिणस्यां श्रोण्यां शृतमासादयत्युत्तरस्यां दधि॥९॥
-9. Or he places together the Sāṁnāyya-jars in the centreal part of the altar-(the vessel of) boiled milk towards the east and (that of) the curds towards the west. Then he separates them (and) places (the vessels of) boiled milk on the south
-western corner and the (vessel of) curds on the rorth-western corner. ___ अयं वेदः पृथिवीमन्वविन्ददगुहा सती गहने गह्वरेषु। स विन्दतु यजमानाय लोकमच्छिद्रं यज्ञं भूरिकर्मा करोत्वित्यग्रेणोत्तरेण वा ध्रुवां वेदं निधाय वेद्यन्तान्परिस्तीर्य होतृषदनं कल्पयित्वा सामिधेनीभ्यः प्रतिपद्यते॥१०॥
-__10. With ayam vedah prhivimanvavindat...1 having placed the Veda (grass-brush) either to the east or to the north of the altar, having strewn sacrificial grass at the ends of the altar, having prepared the Hotr̥'s seat, he starts ritual of the Samidhenis.
-1. TB III.7.6.13.
+
+
+अयं वेदः पृथिवीमन्वविन्ददगुहा सती गहने गह्वरेषु। स विन्दतु यजमानाय लोकमच्छिद्रं यज्ञं भूरिकर्मा करोत्वित्यग्रेणोत्तरेण वा ध्रुवां वेदं निधाय वेद्यन्तान्परिस्तीर्य होतृषदनं कल्पयित्वा सामिधेनीभ्यः प्रतिपद्यते॥१०॥
+
+
 ## 02.12
 
 अग्नये समिध्यमानायानुब्रूहीति संप्रेष्यति समिध्यमानायानुब्रूहीति वा॥१॥
-1. The Adhvaryu orders the Hotr̥ agnaye samidhyamānā yānubrūhi (“do you recite verses for Agni being enkindled”) or samidhyamānāyānubrūhi (“do you recite verses for being enkindled").1
-1. For the work of the Hotr at this stage see XXIV.11.16.
-पञ्चदश सामिधेनीरन्वाह॥२॥ 2. (The Hour) recites fifteen Samidheni verses.! ___1. See TS II.5.8.2-3. त्रीस्तृचानित्युक्तम्॥३॥
-3. It is said in a Brahmana-text,1 “(he recites) three tristis ches”.2
-1. TS II.5.10.
-2. viz. RV III.27.1 (thrice), VI.16. 10-12; VII.12.3 (thrice). प्रणवेप्रणवे समिधमादधाति॥४॥ 4. The Adhvaryu puts one fuel-stick at each om (-sound).'
-1. The last syllable of every verse is to be changed into om-sound of
-___three moras. सामिधेनीविवृद्धौ काष्ठानि विवर्धन्ते। प्रतिहसमानासु प्रकृतिवत्॥५॥
-5. If the Sāmidheni-verses are increased, the fuel-sticks also increase; when they are reduced the fuel-sticks remain so many as in the normal paradigm."
-1. The normal paradigm is that of the new and full-moon sacrifices
-in which fifteen Samidhenīs are used. In the Pitryā-iṣṭi only three Sāmidheni-verses are to be used. In it five sticks are thrown in fire after every verse or one stick is thrown at every verse and at the last verses all the remaining sticks are thrown in the fire (see
-Sutra6). समिद्धो अग्न आहुतेत्यभिज्ञायैकामनूयाजसमिधमवशिष्य सर्वमिध्म शेषमभ्यादधाति परिधानीयायां वा॥६॥
-6. Having come to know that the Hotr̥ is reciting samiddho agna āhutaḥ...' having reserved one fuel stick for the Anūyāja (after-offering), (the Adhvaryu) puts all the remaining fuel sticks (on the fire) or (he does so) when (the Hotr is reciting )the concluding verse (viz. ā juhotā duvasyata).
-1. i.e. the 12th Sāmidheni-verse.
-2. See III.4.5;1.5.11. वेदेनाग्निं त्रिरुपवाज्य स्रवेण ध्रुवाया आज्यमादाय वेदेनोपयम्यासीन
+
+
+पञ्चदश सामिधेनीरन्वाह॥२॥
+
+त्रीस्तृचानित्युक्तम्॥३॥
+
+
+प्रणवेप्रणवे समिधमादधाति॥४॥
+
+सामिधेनीविवृद्धौ काष्ठानि विवर्धन्ते। प्रतिहसमानासु प्रकृतिवत्॥५॥
+
+
+समिद्धो अग्न आहुतेत्यभिज्ञायैकामनूयाजसमिधमवशिष्य सर्वमिध्म शेषमभ्यादधाति परिधानीयायां वा॥६॥
+
+
+वेदेनाग्निं त्रिरुपवाज्य स्रवेण ध्रुवाया आज्यमादाय वेदेनोपयम्यासीन
 उत्तरं परिधिसंधिमन्ववहृत्य प्रजापतिं मनसा ध्यायन्दक्षिणाप्राञ्चमृजु संततं ज्योतिष्मत्याघारमाघारयन्सर्वाणीध्मकाष्ठानि संस्पर्शयति॥७॥
-7. Having fanned the fire thrice by means of the Veda (grass-brush), having taken ghee by means of the spoon from the Dhruvā (-ladle) having supported (the spoon) by means of the Veda, remaining seated,' having brought (the spoon) to wards the northern joining place of the enclosing sticks, think ing about Prajāpati in the mind, pouring Āghāra-libation (of ghee) in a straight and continous line (from the north-west) to the south east, on the bright (part of the fire) he causes (the Āghāra-libation) touch all the fuel sticks.
-1. Contrast II. 13.11. Cf. TB III.3.7.4-5. 2. This is the first Āghāra called srauva and Prājāpatya. For the
-second see II.14.1.
+
+
 आघारयोर्वदत्यजू प्राञ्चौ होतव्यौ तिर्यञ्चौ वा व्यषिक्तावव्यतिषक्तौ वा॥८॥
-8. In connection with the Āghāra libations (a Brāhmaṇa text)' says: “They should be poured in straight lines either to wards the east or cross-wise and either inter-linked or non interlinkd."2
-1. Cp. TS II.5.11.7. 2. Thus the Āghāras may be offered in the following three alternative
-ways: (1) From the south-west to the south-east and from the north-west upto the north-east. (2) From the middle of the west ern boundary of the fire place to the middle of the eastern bound ary and from the middle of the southern boundary upto the middle of the northern boundary. (3) From the southwest upto the north west, and from the south-east upto the north-east. The fourth
-alternative is mentioned in II. 12.7 and II. 14.1.
+
+
 वेणाज्यस्थाल्या आज्यमादायाप्यायतां ध्रुवा घृतेनेत्यवदायावदाय ध्रुवामाप्याययतीति सार्वत्रिकम्॥९॥
-9. Having taken ghee from the ghee-pot by means of the spoon, with āpyāyataṁ dhruvā ghrtena...' he replenishes the Dhruvā after having each time taken ghee (from the Dhruvā). This is a general rule (applicable to all cases of taking ghee from the Dhruvā).
-1. TS 1.6.5.a.
+
 86
 अग्नीत्परिधींश्चाग्निं च त्रिस्त्रिः संमृड्ढीति संप्रेष्यति॥१०॥
-10. “O Agnidh, cleanse the enclosing sticks and the fire thrice each” --thus he orders.
-___ II.13 इध्मसंनहनैः सहस्फ्यैर्ऋतेस्फ्यैर्वाग्नीध्रो ऽनुपरिक्रामं परिधीन्यथापरि धितमन्वग्रं त्रिस्त्रिः संमृज्याग्ने वाजजिद्वाजं त्वा सरिष्यन्तं वाजं जेष्यन्तं वाजिनं वाजजितं वाजजित्यायै संमार्जुम्यग्निमन्नादमन्नाधायेति त्रिरग्निं प्राञ्चम्॥१॥
-1. By means of the strings used for binding the fuel along with the sword, or without it, having thrice cleansed the en closing sticks (from the root-part) to the top-part, in the same order in which they have been placed,' each time having moved around, with agne vājajid...the Āgnidhra cleanses the fire (from the west) to the east.
-___1. Thus first the western then the southern and then the northern.
-See II.9.5. भुवनमसीत्यग्रेण ध्रुवां जुहूं वाञ्जलिं कृत्वा जुह्वेहीति जुहूमादत्त उपभृदेहीत्युपभृतम्॥२॥
-2. With bhuvanamasi...1 having folded his hands in front of the Dhruvā or Juhū,2 with juhvehi...? he takes the Juhū; with upabhrdehi...' he takes the Upabhrt.
-1. TS I.1.12.a-b. 2. See TB III.3.7.6; cp. also SB I.4.5.1. 3. TS I.1.12.c.
-4. TS I.1.12.d. सुयमे मे अद्य घृताची भूयास्तं स्वावृतौ सूपावृतावित्युपभृति जुहूमत्याद धाति॥३॥
-| 3. With suyame me adya...' he places the Juhū upon the Upabhrt.
-_1. MS I.1.13. मुखतोऽभिहृत्य मुखत उपावहरति॥४॥
-4. Having brought (the Juhu) along the bowl of the Upabhrt he takes it away (also) along the bowl of the Upabhrt.'
-1. i.e. the bowl of the Juhu is placed on the top of the bowl of the
-Após Translation : THITE
-87 II.13]
-Upabhrt lengthwise. Similarly while lifiing it, it is done length
-wise. The taking away is done at the time of making the libations. सर्वत्रैवमत्याधानोपावहरणे भवतः॥५॥
-5. In this manner only do the act of placing upon and the act of taking away occur.
+
+## 02.13
+इध्मसंनहनैः सहस्फ्यैर्ऋतेस्फ्यैर्वाग्नीध्रो ऽनुपरिक्रामं परिधीन्यथापरि धितमन्वग्रं त्रिस्त्रिः संमृज्याग्ने वाजजिद्वाजं त्वा सरिष्यन्तं वाजं जेष्यन्तं वाजिनं वाजजितं वाजजित्यायै संमार्जुम्यग्निमन्नादमन्नाधायेति त्रिरग्निं प्राञ्चम्॥१॥
+
+भुवनमसीत्यग्रेण ध्रुवां जुहूं वाञ्जलिं कृत्वा जुह्वेहीति जुहूमादत्त उपभृदेहीत्युपभृतम्॥२॥
+
+सुयमे मे अद्य घृताची भूयास्तं स्वावृतौ सूपावृतावित्युपभृति जुहूमत्याद धाति॥३॥
+
+
+मुखतोऽभिहृत्य मुखत उपावहरति॥४॥
+
+सर्वत्रैवमत्याधानोपावहरणे भवतः॥५॥
+
 न च संशिञ्जयति नाभिदेशे च स्रुचौ धारयति॥६॥
-6. He does not cause the two ladles produce any sound and holds them at the level of his naval."
-1. Cf. SB XI.4.2.2; 4.
+
 अग्नाविष्णू मा वामवक्रमिषमित्यग्रेण स्रुचोऽपरेण मध्यमं परिधिमनवक्रामं प्रदक्षिणेन पदा दक्षिणातिक्रामत्युदक् सव्येन॥७॥
-7. With agnāviṣṇā mā vām...' he steps to the front of the ladles and behind the middle enclosing stick without stepping (upon the Prastara), to the right side with the right foot and to the left side with the left foot.
-____ 1. TS T.1.12.e,f,g. एतद्वा विपरीतम्॥८॥ 8. Or, he does so in a reverse manner.
-1. See SE XI.4.2.3. विष्णो स्थानमसीत्यवतिष्ठते॥९॥ 9. With viṣno sthānamasi...' he remains there. 2
-1. TS I.1.12.h-i. 2. At the south-western corner of the Ahavaniya, with his face to the
-_north-east. अन्तर्वेदि दक्षिणः पादो भवत्यवघ्रः सव्यः॥१०॥
-10. His right foot should be within the altar, his left foot should be with its fingers touching the heel of the right foot.
-अथोर्ध्वस्तिष्ठन्दक्षिणं परिधिसंधिमन्ववहृत्य॥११॥ 11. Then standing erect (near the south-west-corner of
-| reverse manner.
-88
-the fire), having brought (the Juhū) towards the southern inime of the enclosing sticks, 2
-1. Contrast II. 12.7. 2. The sentence is incomplete. See the next Sūtra.
+
+
+एतद्वा विपरीतम्॥८॥
+
+विष्णो स्थानमसीत्यवतिष्ठते॥९॥
+
+अन्तर्वेदि दक्षिणः पादो भवत्यवघ्रः सव्यः॥१०॥
+
+अथोर्ध्वस्तिष्ठन्दक्षिणं परिधिसंधिमन्ववहृत्य॥११॥
+
 ## 02.14
  समारभ्योो अध्वर इति प्राञ्चमुदञ्चमृजु संततं ज्योतिष्मत्याघारमाघार यन्सर्वाणीध्मकाष्ठानि संस्पर्शयति॥१॥
 1. with samārabhyordhvo adhvaraḥ... pouring a straight, continous Aghāra-libation (of ghee) (from the south-west) to the north-east, on the inflamed fire, (the Adhvaryu) causes (the ghee) to touch all the fuel-woods.
