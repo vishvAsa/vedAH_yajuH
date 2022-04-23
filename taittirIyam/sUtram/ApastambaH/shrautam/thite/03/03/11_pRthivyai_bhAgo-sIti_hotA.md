@@ -2,4 +2,4 @@
 title = "11 पृथिव्यै भागोऽसीति होता"
 
 +++
-पृथिव्यै भागोऽसीति होता भक्षयत्यन्तरिक्षस्य भागो ऽसीत्यध्वर्युर्दिवो भागोऽसीति ब्रह्मा ११
+11. With pr̥thivyai bhāgosi the Hotr̥ eats his portion; with antarikṣasya bhāgosi the Adhvaryu eats his portion; with divo bhāgosi the Brahman eats his portion.

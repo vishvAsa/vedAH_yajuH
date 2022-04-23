@@ -2,4 +2,4 @@
 title = "08 अपि वा नाघारयेत्पूर्वार्धे"
 
 +++
-अपि वा नाघारयेत्पूर्वार्धे मध्ये पश्चार्धे वा जुहुयात् ८
+8. Or he should not offer it in the manner of prescribed Āghâra-libation but rather offer a libation (of ghee) in the eastern half or in the middle or in the western half.

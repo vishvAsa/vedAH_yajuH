@@ -2,4 +2,4 @@
 title = "03 एवम् पुनः"
 
 +++
-एवं पुनः ३
+3. (He does this) in the same manner again.  

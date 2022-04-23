@@ -2,4 +2,4 @@
 title = "04 व्याहृतीर्वा जपेत्"
 
 +++
-व्याहृतीर्वा जपेत् ४
+4. or should mutter the Vyāhr̥tis (sacred uterances viz. bhūḥ bhuvaḥ svaḥ). 

@@ -2,4 +2,4 @@
 title = "06 ब्रह्म देवा अवीवृधन्निति"
 
 +++
-ब्रह्म देवा अवीवृधन्निति प्राचीं जुहूं प्रोहति ६
+6. With brahma devā avīvr̥dhan... he moves the Juhū to the east.  

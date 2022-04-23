@@ -2,4 +2,4 @@
 title = "01 दक्षिणसद्भ्य उपहर्तवा इति"
 
 +++
-दक्षिणसद्भ्य उपहर्तवा इति सम्प्रेष्यति १
+1. the sacrificer orders “(The Anvāhārya-rice-pap) is to be carried to those sitting towards the south.”

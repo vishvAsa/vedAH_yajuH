@@ -2,4 +2,6 @@
 title = "05 उद्ग्राभञ् चेति जुहूमुद्यच्छति"
 
 +++
-उद्ग्राभं चेति जुहूमुद्यच्छति निग्राभं चेत्युपभृतं नियच्छति ५
+5. With udgrābhaṁ ca...[^1] he lifts up the Juhū; with nigrābham ca...[^2] he puts down the Upabhr̥t.  
+
+[^1-2]: TS 1.13.6.  

@@ -2,4 +2,4 @@
 title = "05 अथ यदि पुरोहितः"
 
 +++
-अथ यदि पुरोहितः पुरोधाकामो वा यजेत पूर्वार्धात्प्रथममवदानमवदाय पूर्वार्धे स्रुचो निधाय पूर्वार्धेऽग्नेर्जुहुयात् ५
+5. Now if a chaplain or one who desires chaplainship performs a sacrifice, having taken the first portion from the eastern part, having kept it in the eastern part of the ladle, he should offer in the eastern half of the fire.

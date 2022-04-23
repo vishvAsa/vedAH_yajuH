@@ -2,4 +2,4 @@
 title = "09 पूर्वार्धाच्च यजमानभागमणुमिव दीर्घम्"
 
 +++
-पूर्वार्धाच्च यजमानभागमणुमिव दीर्घम् ९
+9. From the eastern part he cuts the sacrificer's portion somewhat thin (and) long.  

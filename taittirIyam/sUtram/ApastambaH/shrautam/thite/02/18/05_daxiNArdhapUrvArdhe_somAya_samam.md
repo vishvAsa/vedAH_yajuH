@@ -2,4 +2,4 @@
 title = "05 दक्षिणार्धपूर्वार्धे सोमाय समम्"
 
 +++
-दक्षिणार्धपूर्वार्धे सोमाय समं पूर्वेण ५
+5. horizontally in the same line in the south-eastern part he offers (the ghee-portion) to Soma.

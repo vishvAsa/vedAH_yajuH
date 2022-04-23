@@ -2,4 +2,8 @@
 title = "02 आग्नेयम् पुरोडाशम् प्राञ्चन्"
 
 +++
-आग्नेयं पुरोडाशं प्राञ्चं तिर्यञ्चं वा विरुज्याङ्गुष्ठेनोपमध्यमया चाङ्गुल्या व्यूह्य मध्यात्प्राशित्रमवद्यति यवमात्रं पिप्पलमात्रं वाज्यायो यवमात्रादाव्याधात्कृत्यतामिदम् । मा रूपुपाम यज्ञस्य शुद्धं स्विष्टमिदं हविरिति २
+2. Having divided the sacrificial bread prepared for Agni either (lengthwise from the westwards) to the east or breadthwise (from south towards the north), having separated (the two parts) by means of the thumb and ring-finger, (the Adhvaryu) cuts out from the middle, the (Prāśitra-portion)[^1] of the size of a barleygrain, or of Pippala(-fruit) with ajyāyaḥ yavamātrāt...[^2]  
+
+[^1]: The portion of the bread to be eaten (pra-aś-)by the Brahman.  
+
+[^2]: TB III.7.5.6.  

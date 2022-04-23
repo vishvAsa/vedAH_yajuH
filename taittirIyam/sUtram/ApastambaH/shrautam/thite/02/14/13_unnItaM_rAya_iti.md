@@ -2,4 +2,8 @@
 title = "13 उन्नीतं राय इति"
 
 +++
-उन्नीतं राय इति स्रुवेण ध्रुवाया आज्यमादाय सुवीराय स्वाहेति जुहूमभिघार्य जुह्वोऽपादाय यज्ञेन यज्ञः सन्तत इति ध्रुवां प्रत्यभिघार्यायतने स्रुचौ सादयित्वा १३
+13. With unnītam rāye...[^1] having taken ghee from the Dhruvā (ladle) by means of the spoon, with suvirāya svāha[^2] having poured ghee in the Juhū, having taken some quantity of ghee from the Juhū and with yajñena yajñaḥ santataḥ, having poured it again into the Dhruvā, having (then) placed the ladles on their place,[^4]  
+
+[^1-3]: These mantras are not found in any Samihitā or Brāhmaṇa-text.  
+
+[^4]: See II. 10.2. The sentence is not complete. See the next Sūtra.

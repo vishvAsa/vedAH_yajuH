@@ -2,4 +2,8 @@
 title = "07 अथा सपत्नानिति सव्येनोपभृतम्"
 
 +++
-अथा सपत्नानिति सव्येनोपभृतं प्रतीचीं बहिर्वेदि निरसित्वा प्रोक्ष्यैनामभ्युदाहृत्य जुह्वा परिधीननक्ति वसुभ्यस्त्वेति मध्यमं रुद्रेभ्यस्त्वेति दक्षिणमादित्येभ्यस्त्वेत्युत्तरम् ७
+7. With athā sapatnān...[^1] by means of his left (hand) having thrown the Upabhr̥t to the west, outside the altar, having sprinkled water on it, having placed it on its place, he anoints the enclosing sticks by means of the Juhū with vasubhyastvā[^2] the middle enclosing stick, with rudrebhyastvā[^3] the southern, with ādityebhyestvā[^4] the northern.  
+
+[^1]: TS I.13.b.c-d.  
+
+[^2-4]: TSI.1.13.c.  

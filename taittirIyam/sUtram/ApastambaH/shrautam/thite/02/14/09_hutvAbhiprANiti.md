@@ -2,4 +2,4 @@
 title = "09 हुत्वाभिप्राणिति"
 
 +++
-हुत्वाभिप्राणिति ९
+9. After having offered he breaths over (the place where he has offered the ghee).  

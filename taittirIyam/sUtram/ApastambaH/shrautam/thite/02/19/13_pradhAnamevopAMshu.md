@@ -2,4 +2,4 @@
 title = "13 प्रधानमेवोपांशु"
 
 +++
-प्रधानमेवोपांशु १३
+13. (In it) only the main (oblation is offered) with inaudible formula.

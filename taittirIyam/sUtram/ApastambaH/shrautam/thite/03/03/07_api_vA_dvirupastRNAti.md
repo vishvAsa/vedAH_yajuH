@@ -2,4 +2,4 @@
 title = "07 अपि वा द्विरुपस्तृणाति"
 
 +++
-अपि वा द्विरुपस्तृणाति द्विरादधाति द्विरभिघारयति ७
+7. Or twice he spreads underlayers of ghee; twice keeps the portions and twice pours ghee on them.

@@ -2,4 +2,9 @@
 title = "11 प्राशितायामिडे भागञ् जुषस्व"
 
 +++
-प्राशितायामिडे भागं जुषस्व नो जिन्व गा जिन्वार्वतः । तस्यास्ते भक्षिवाणः स्याम सर्वात्मानः सर्वगणा इति यजमानपञ्चमा इडां प्राश्य ११
+11. After (the Iḍā has been) eaten (by the Hotr̥) after the (four priests)[^1] with the sacrificer as the fifth have eaten the Iḍā with içe bhāgaṁ juṣasva...[^2],  
+
+
+[^1]: Hotr̥, Adhvaryu, Brahman, Āgnīdhra.  
+
+[^2]: TB III.7.5.7. The Sūtra is not complete. See the next Sūtra.

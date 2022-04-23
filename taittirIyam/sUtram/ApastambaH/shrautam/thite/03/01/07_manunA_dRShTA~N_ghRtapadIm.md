@@ -2,4 +2,6 @@
 title = "07 मनुना दृष्टाङ् घृतपदीम्"
 
 +++
-मनुना दृष्टां घृतपदीं मित्रावरुणसमीरिताम् । दक्षिणार्धादसम्भिन्दन्नवद्याम्येकतोमुखामित्याग्नेयस्य पुरोडाशस्य दक्षिणार्धात्प्रथममवदानमवद्यति ७
+7. With manunā dr̥ṣtām...[^1] he takes the first portion from the southern part of the sacrificial bread prepared for Agni.  
+
+[^1]: TB III.7.5.6.

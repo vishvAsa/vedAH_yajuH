@@ -2,4 +2,4 @@
 title = "03 अपि वा प्राचीमिडामपोह्य"
 
 +++
-अपि वा प्राचीमिडामपोह्य दक्षिणत आसीनः स्रुवेण होतुरङ्गुलिपर्वणी अनक्ति ३
+3. Or rather having pushed (the Iḍā-pot) towards the east, sitting towards the south (of the Hotr̥), (the Adhvaryu) anoints (with ghee) the (first) two phalanxes of the right fore-finger of the Hotr̥ by means of the spoon.  

@@ -2,4 +2,4 @@
 title = "02 प्रतिदिशं वा समिधः"
 
 +++
-प्रतिदिशं वा समिधः पुरस्तात्तनूनपातं दक्षिणत इडः पश्चाद्बर्हिरुत्तरतः स्वाहाकारं मध्ये २
+2. Or (he offers them) in each direction: thus (he offers) to Samidhs in the east; to Tanūnapat in the South, to Iḍs in the west; to Barhis in the north, to Svāhākāra in the centre-
