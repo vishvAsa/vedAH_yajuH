@@ -2,4 +2,4 @@
 title = "01 अनपव्याहरन्तः प्रचरन्ति"
 
 +++
-अनपव्याहरन्तः प्रचरन्ति १
+1. They perform the ritual without uttering any (profane) word.

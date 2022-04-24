@@ -2,4 +2,8 @@
 title = "01 क इदमध्वर्युर्भविष्यति स"
 
 +++
-क इदमध्वर्युर्भविष्यति स इदमध्वर्युर्भविष्यति यज्ञो यज्ञस्य वागार्त्विज्यं करोतु मन आर्त्विज्यं करोतु वाचं प्रपद्ये भूर्भुवः सुवर्विष्णो स्थाने तिष्ठामीतीध्मसन्नहनानि स्फ्य उपसङ्गृह्य वेद्याश्च तृणमव्यन्तमादायोत्तरतः प्रवरायावतिष्ठेते पूर्वोऽध्वर्युरपर आग्नीध्रः १
+1. With ka idamadhvaryur bhaviṣyati...[^1] (after the Adhvaryu) has taken the strings used for tying the fuel-sticks),[^2] together with the Sphya (wooden sword), and has taken a blade of grass which does not belong to the end of the Vedi (i.e. the blade situated in the middle part of the Vedi), the Adhvaryu and the Āgnīdhra stand to the north of the Vedi (to the west of the rubbish-heap) for the Pravara—the Adhvaryu to the east and the Āgnīdhra to the west.  
+
+[^1]: See II.13.1.  
+
+[^2]: Cf. ŚB I.5.1.3.

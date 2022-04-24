@@ -2,4 +2,4 @@
 title = "11 एते एवाक्रमणप्रत्याक्रमणे मन्त्रवती"
 
 +++
-एते एवाक्रमणप्रत्याक्रमणे मन्त्रवती भवतः ११
+11. In the same way the stepping towards and stepping backwards accompanied by a formula take place (everywhere).

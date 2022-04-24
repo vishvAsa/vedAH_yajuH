@@ -2,4 +2,8 @@
 title = "12 मखस्य शिरोऽसीति जुह्वा"
 
 +++
-मखस्य शिरोऽसीति जुह्वा ध्रुवां द्विस्त्रिर्वा समनक्ति १२
+12. With makhasya śiro'si...[^1] twice[^2] or thrice[^3] he anoints the Dhruvā by means (of the ghee in the) Juhū.  
+
+[^1]: TS I.1.12.p.  
+
+[^2-3]: Cf. TB III.3.7.11.  

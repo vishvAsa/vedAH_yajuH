@@ -2,4 +2,4 @@
 title = "06 अध्वर्युः प्रथममवदानमवद्यति स्वयं"
 
 +++
-अध्वर्युः प्रथममवदानमवद्यति स्वयं होतोत्तरम् एतद्वा विपरीतम् ६
+6. The Adhvaryu cuts the first portion, the Hotr̥ himself cuts the second; or in a reverse manner.  

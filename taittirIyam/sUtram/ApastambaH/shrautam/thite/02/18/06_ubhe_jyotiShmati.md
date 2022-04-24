@@ -2,4 +2,4 @@
 title = "06 उभे ज्योतिष्मति"
 
 +++
-उभे ज्योतिष्मति ६
+6. He offers both the ghee-portions on the inflamed (part).

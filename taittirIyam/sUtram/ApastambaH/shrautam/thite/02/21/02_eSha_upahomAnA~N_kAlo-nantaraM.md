@@ -2,4 +2,4 @@
 title = "02 एष उपहोमानाङ् कालोऽनन्तरं"
 
 +++
-एष उपहोमानां कालोऽनन्तरं वा प्रधानात्प्राग्वा समिष्टयजुषः २
+2. This is the time of Upahomas (by-offerings) viz. after the principal offerings or before the Saṁiṣṭayajus-offering.

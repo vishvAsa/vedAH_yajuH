@@ -2,4 +2,4 @@
 title = "04 अथापरम् पृथिव्यै त्वेति"
 
 +++
-अथापरम् । पृथिव्यै त्वेति ध्रुवायां मूलमन्तरिक्षाय त्वेत्युपभृति मध्यं द्विवे त्वेति जुह्वामग्रम् ४
+4. Now another (way of performance of the same): with pr̥thivyai tvā (he anoints) the top (part of the Prastara) in the Dhruvā; with antarikṣāya tvā (he anoints) the middle (part of the Prastara) in the Upabhr̥t; with dive tvā... (he anoints) the root (part of the Prastara) in the Upabhr̥t.  

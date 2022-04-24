@@ -2,4 +2,4 @@
 title = "11 ब्रह्मण्वदा च वक्षद्ब्राह्मणा"
 
 +++
-ब्रह्मण्वदा च वक्षद्ब्राह्मणा अस्य यज्ञस्य प्राबितार इति प्रवरशेषमाह ११
+11. He recites the remaining part of the Pravara formula as follows: brahmaṇvadā ca vakṣat....
