@@ -166,7 +166,7 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/hindukaH/jalam/Rk/Apo_hi_ShThA/">
+<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/jalam/Rk/Apo_hi_ShThA/">
 <details open=""><summary><h7>आपो हि ष्ठा ...{Loading}...</h7></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
 <details open=""><summary><h9>०१ आपो हि ...{Loading}...</h9></summary>
@@ -199,7 +199,7 @@ unicode_script: devanagari
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/hindukaH/AdityaH/Rk/vAruNyaH/">
+<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/AdityaH/Rk/vAruNyaH/">
 <details open=""><summary><h7>वारुण्यः ...{Loading}...</h7></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/14_ava_te.md">
 <details open=""><summary><h9>१४ अव ते ...{Loading}...</h9></summary>
@@ -245,7 +245,7 @@ unicode_script: devanagari
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/hindukaH/jalam/Rk/hiraNyavarNAsh_shuchayaH/">
+<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/jalam/Rk/hiraNyavarNAsh_shuchayaH/">
 <details open=""><summary><h7>हिरण्यवर्णाश् शुचयः ...{Loading}...</h7></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
 <details open=""><summary><h9>०१ हिरण्यवर्णाश्शुचयः पावकाः ...{Loading}...</h9></summary>

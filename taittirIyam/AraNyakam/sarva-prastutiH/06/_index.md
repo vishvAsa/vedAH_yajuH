@@ -316,7 +316,7 @@ unicode_script = "devanagari"
 
 
 ## 11.1
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/devaH/hindukaH/brahma/Rk/sahasra-shIrSham/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/brahma/Rk/sahasra-shIrSham/">
 <details open><summary><h2>सहस्रशीर्षं देवं ...{Loading}...</h2></summary>
 
 आन्ध्रपाठे- (१०.१३.१ १०.१३.२)

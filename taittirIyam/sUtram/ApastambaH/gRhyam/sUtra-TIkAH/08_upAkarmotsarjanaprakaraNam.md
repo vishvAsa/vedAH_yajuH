@@ -216,7 +216,7 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/hindukaH/jalam/Rk/Apo_hi_ShThA/">
+<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/jalam/Rk/Apo_hi_ShThA/">
 <details open=""><summary><h8>आपो हि ष्ठा ...{Loading}...</h8></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
 <details open=""><summary><h10>०१ आपो हि ...{Loading}...</h10></summary>
@@ -249,7 +249,7 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/hindukaH/AdityaH/Rk/vAruNyaH/">
+<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/AdityaH/Rk/vAruNyaH/">
 <details open=""><summary><h8>वारुण्यः ...{Loading}...</h8></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/14_ava_te.md">
 <details open=""><summary><h10>१४ अव ते ...{Loading}...</h10></summary>
@@ -295,7 +295,7 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/hindukaH/jalam/Rk/hiraNyavarNAsh_shuchayaH/">
+<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/jalam/Rk/hiraNyavarNAsh_shuchayaH/">
 <details open=""><summary><h8>हिरण्यवर्णाश् शुचयः ...{Loading}...</h8></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
 <details open=""><summary><h10>०१ हिरण्यवर्णाश्शुचयः पावकाः ...{Loading}...</h10></summary>

@@ -50,7 +50,7 @@ unicode_script = "devanagari"
 य एवम् एता महासꣳहिता व्याख्या॑ता वे॒द, सन्धीयते प्रज॑या प॒शुभिः,, ब्रह्मवर्चसेनान्नाद्येन सुवर्ग्येण॑ लोके॒न ॥ (6)
 
 ## प्रकीर्णम्
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/hindukaH/indraH/Rk/yash_ChandasAm/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/indraH/Rk/yash_ChandasAm/">
 <details open><summary><h2>यश्छन्दसाम् ...{Loading}...</h2></summary>
 
 यश् छन्द॑साम् ऋष॒भो वि॒श्वरू॑पः।  
