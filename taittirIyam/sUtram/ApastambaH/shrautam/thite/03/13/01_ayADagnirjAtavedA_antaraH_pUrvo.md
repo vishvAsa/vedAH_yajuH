@@ -2,4 +2,11 @@
 title = "01 अयाडग्निर्जातवेदा अन्तरः पूर्वो"
 
 +++
-अयाडग्निर्जातवेदा अन्तरः पूर्वो अस्मन्निषद्य । सन्वन्सनिं सुविमुचा विमुञ्च धेह्यस्मासु द्रविणं जातवेदो यच्च भद्रम् ॥ ये ते शतं वरुण ये सहस्रं यज्ञियाः पाशा वितता पुरुत्रा । तेभ्यो न इन्द्रः सवितोत विष्णुर्विश्वे देवा मुञ्चन्तु मरुतः स्वस्त्या । यो भूतानामुद्बुध्यस्वाग्न उदुत्तममिति व्याहृतिभिर्विहृताभिः समस्ताभिश्च हुत्वा १
+1. ayāḍagnirjātavedāḥ... After having offered (the all expiation-libations) with these formulae and with the sacred utterances[^1] severally[^2] and jointly,[^3]  
+
+
+[^1]: bhūḥ, bhuvaḥ, svaḥ  
+
+[^2]: Thus bhūḥ svāhā, bhūaḥ svāhā, svaḥ svāhā,  
+
+[^3]: bhur bhuvaḥ svaḥ svāhā. The sentnence in this Sūtra is incomplete. See the next Sūtra.  

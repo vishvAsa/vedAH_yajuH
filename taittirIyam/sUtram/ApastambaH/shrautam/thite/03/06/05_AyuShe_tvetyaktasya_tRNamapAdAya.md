@@ -2,4 +2,13 @@
 title = "05 आयुषे त्वेत्यक्तस्य तृणमपादाय"
 
 +++
-आयुषे त्वेत्यक्तस्य तृणमपादाय प्रज्ञातं निधाय दक्षिणोत्तराभ्यां पाणीभ्यां क्प्रस्तरं गृहीत्वा जुह्वां प्रतिष्ठाप्यासीन आश्राव्य प्रत्याश्राविते सम्प्रेष्यतीषिता दैव्या होतारो भद्रवाच्याय प्रेषितो मानुषः सूक्तवाकाय सूक्ता ब्रूहीति ५
+5. With āyuṣe tvā[^1] having taken away a grass-blade from the anointed (Prastara) having kept it in a known place,[^2] having taken the Prastara with both the hands—the right hand above the left-, having placed the (Prastara) on Juhū, having
+made (the Āgnīdhra) to say astu śrauṣaṭ, after the response has been made (by the Āgnīdhra),[^3] he orders, iṣitā daivyā hotāraḥ....[^4]  
+
+[^1]: This formula is not found in any earlier text.  
+
+[^2]: For the ritual cf.III.7.5.  
+
+[^3]: See II.15.3-4.  
+
+[^4]: TB III.3.8.11.

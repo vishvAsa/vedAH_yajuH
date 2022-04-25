@@ -2,4 +2,4 @@
 title = "10 मध्यमम् परिधिमन्वारभ्य सम्प्रेष्यति"
 
 +++
-मध्यमं परिधिमन्वारभ्य सम्प्रेष्यति स्वगा दैव्याहोतृभ्यः स्वस्तिर्मानुषेभ्यः शंयोर्ब्रूहीति १०
+10. Having held the middle enclosing stick, the Adhvaryu orders: svagā daivyā hotr̥bhyaḥ svastir mānuṣebhyaḥ śaṁyor brūhi.  

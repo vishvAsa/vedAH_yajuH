@@ -2,4 +2,6 @@
 title = "07 इन्द्राय त्रात्रे चरुन्"
 
 +++
-इन्द्राय त्रात्रे चरुं द्वितीयं वैमृधस्य कुर्याद्यो मृत्योर्ज्यान्या वा बिभीयात् । मुष्करो दक्षिणा ७
+7. One who may be afraid of death or of disease should add the rice-pap for Indra Trātr̥[^1] to the sacrificial bread to be offered to Indra Vaimr̥dha. A bull with his testicles intact should be given as the sacrificial gift.  
+
+[^1]: Cf. MS II.2.10.  

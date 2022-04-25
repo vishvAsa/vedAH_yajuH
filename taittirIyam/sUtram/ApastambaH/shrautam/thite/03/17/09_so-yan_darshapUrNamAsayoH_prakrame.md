@@ -2,4 +2,6 @@
 title = "09 सोऽयन् दर्शपूर्णमासयोः प्रक्रमे"
 
 +++
-सोऽयं दर्शपूर्णमासयोः प्रक्रमे विकल्पोऽनेन दर्शपूर्णमासाभ्यां वा यजेत ९
+9. (This sacrifice is) optional in the beginning.[^1] Thus one should perform this (Dākṣāyaṇa-sacrifice) or the New and Full moon-sacrifices.  
+
+[^1]: Cp. III.15.3; in connection with the Vaimr̥dha sacrifice.  

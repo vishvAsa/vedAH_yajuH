@@ -2,4 +2,4 @@
 title = "13 सायं सायन्दोहाभ्याम् प्रचरन्ति"
 
 +++
-सायं सायन्दोहाभ्यां प्रचरन्ति प्रातः प्रातर्दोहाभ्याम् १३
+13. In the evening they perform the offerings by means of the evening-milkings, in the morning by means of the morning-milkings.  

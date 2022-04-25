@@ -2,4 +2,8 @@
 title = "06 उभावग्नी उपस्तृणते देवता"
 
 +++
-उभावग्नी उपस्तृणते देवता उपवसन्तु मे । अहं ग्राम्यानुपवसामि मह्यं गोपतये पशूनिति सायं परिस्तीर्यमाणेषु जपति ६
+6. In the evening while (sacred grass) is being scattered around the fires[^1] he mutters ubhāvagnī upastr̥ṇate...[^2]  
+
+[^1]: See I.11.4.  
+
+[^2]: TB III.7.4.18.

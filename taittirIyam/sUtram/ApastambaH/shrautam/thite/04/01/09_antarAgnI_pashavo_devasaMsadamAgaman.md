@@ -2,4 +2,6 @@
 title = "09 अन्तराग्नी पशवो देवसंसदमागमन्"
 
 +++
-अन्तराग्नी पशवो देवसंसदमागमन् । तान्पूर्वः परिगृह्णामि स्व आयतने मनीषयेत्यन्तराग्नी तिष्ठञ्जपति ९
+9. Standing in between the two fires he mutters antarāgni paśavo devasaṁsadamāgaman....[^1]   
+
+[^1]: TB III.7.4.  

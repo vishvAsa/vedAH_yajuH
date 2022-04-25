@@ -2,4 +2,4 @@
 title = "02 समानतन्त्रमेके समामनन्ति"
 
 +++
-समानतन्त्रमेके समामनन्ति २
+2. According to the opinion of some ritualists the aobve mentioned offering to Indra Vaimr̥dha should be performed in a joint procedure with the full-moon-offering.

@@ -2,4 +2,6 @@
 title = "04 देवता वर्धय त्वमिति"
 
 +++
-देवता वर्धय त्वमिति सर्वत्रानुषजति ४
+4. Everywhere he adds the words devatā vardhaya tvam...[^1]  
+
+[^1]: As in III.19.1.  

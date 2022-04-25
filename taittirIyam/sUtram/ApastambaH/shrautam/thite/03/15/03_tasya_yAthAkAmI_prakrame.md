@@ -2,4 +2,4 @@
 title = "03 तस्य याथाकामी प्रक्रमे"
 
 +++
-तस्य याथाकामी प्रक्रमे । प्रक्रमात्तु नियम्यते ३
+3. In the beginning of it one is free; but after the beginning it is regular.

@@ -2,4 +2,4 @@
 title = "08 अपि वा काममा"
 
 +++
-अपि वा काममा मार्गादा मधुन आ प्राशातिकात् ८
+8. Or (he may eat) upto the flesh of antelope, upto honey, upto legume. 

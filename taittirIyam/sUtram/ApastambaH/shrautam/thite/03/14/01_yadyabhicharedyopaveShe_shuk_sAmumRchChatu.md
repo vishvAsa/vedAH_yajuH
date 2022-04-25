@@ -2,4 +2,6 @@
 title = "01 यद्यभिचरेद्योपवेषे शुक् सामुमृच्छतु"
 
 +++
-यद्यभिचरेद्योपवेषे शुक् सामुमृच्छतु यं द्विष्म इत्यथास्मै नामगृह्य प्रहरति १
+1. If the Adhvaryu is practising sorcery, he throws the Upaveṣa with yopaveṣe śuk uttering the name of the enemy (instead of the word amum in the formula).[^1]  
+
+[^1]: See for this Sūtra TB III.3.11.2-3.  

@@ -2,4 +2,4 @@
 title = "11 अनूच्यमाने शंयुवाक आहवनीये"
 
 +++
-अनूच्यमाने शंयुवाक आहवनीये परिधीन्प्रहरति ११
+11. While the Śaṁyuvāka is being recited by the Hotr̥, the Adhvaryu throws the enclosing sticks in the Āhavanīya.  

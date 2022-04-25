@@ -2,4 +2,4 @@
 title = "03 वृतो जपति"
 
 +++
-वृतो जपति ३
+3. (After becoming) chosen (the Brahman) mutters, 

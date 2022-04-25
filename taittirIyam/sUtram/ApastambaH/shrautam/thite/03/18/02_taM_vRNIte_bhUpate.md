@@ -2,4 +2,8 @@
 title = "02 तं वृणीते भूपते"
 
 +++
-तं वृणीते भूपते भुवनपते महतो भूतस्य पते ब्रह्माणं त्वा वृणीमह इति २
+2. (The sacrificer) chooses[^1] him with bhūpate bhuvanapate...[^2]   
+
+[^1]: See IV.4.2.  
+
+[^2]: TS III.7.6.1.

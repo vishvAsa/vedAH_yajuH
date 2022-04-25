@@ -2,4 +2,4 @@
 title = "01 याजमानं व्याख्यास्यामः"
 
 +++
-याजमानं व्याख्यास्यामः १
+1. We shall explain the duties of a sacrificer. 

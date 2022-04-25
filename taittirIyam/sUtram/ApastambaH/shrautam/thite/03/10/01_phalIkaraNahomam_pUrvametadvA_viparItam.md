@@ -2,4 +2,8 @@
 title = "01 फलीकरणहोमम् पूर्वमेतद्वा विपरीतम्"
 
 +++
-फलीकरणहोमं पूर्वमेतद्वा विपरीतम् । चतुर्गृहीत आज्ये फलीकरणानोप्याग्नेऽदभ्धायोऽशीततनो इति जुहोति । एवं पिष्टलेपानुलूखले मुसले यच्च शूर्प आशिश्लेष दृषदि यत्कपाले । अवप्रुषो विप्रुषः संयजामि विश्वे देवा हविरिदं जुषन्ताम् । यज्ञे या विप्रुषः सन्ति बह्वीरग्नौ ताः सर्वाः स्विष्टाः सुहुता जुहोमि स्वाहेति १
+1. (The Adhvaryu peforms) the oblation of the chaff of grains first (and then oblation of the stickings of the flour) or in the reverse order. Having poured the grains of chaff in the four-times scooped ghee in the ladle he offers it with adabdhāyoṣītatano...[^1] In the same manner (having poured) the stickings of flour (into the four times-scooped ghee in the ladel), he offers them with ulūkhale musale yacca śūrpe....[^2]  
+
+[^1]: TS I. 1.13.s-t.  
+
+[^2]: TB III.7.6.21.  

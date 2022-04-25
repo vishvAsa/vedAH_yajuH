@@ -2,4 +2,4 @@
 title = "09 अगानग्नीदित्यध्वर्युराह अगन्नित्याग्नीध्रः श्रावयेत्यध्वर्युः"
 
 +++
-अगानग्नीदित्यध्वर्युराह । अगन्नित्याग्नीध्रः । श्रावयेत्यध्वर्युः । श्रौषडित्याग्नीध्रः ९
+9. The Adhvaryu asks agānagnīd; the Agnidhra says agan the Adhvaryu says śrāvaya; the Āgnīdhra says śrauṣaṭ.  

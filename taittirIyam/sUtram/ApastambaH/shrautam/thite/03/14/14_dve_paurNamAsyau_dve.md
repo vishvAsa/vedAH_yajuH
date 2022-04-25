@@ -2,4 +2,7 @@
 title = "14 द्वे पौर्णमास्यौ द्वे"
 
 +++
-द्वे पौर्णमास्यौ द्वे अमावास्ये यजेत यः कामयेतर्ध्रु यामित्युक्त्वाहैकामेव यजेतेति १४
+14. “One who desires “may I prosper”, should perform two full-moon sacrifices and two New-moon sacrifices”. Having said this a Brāhmaṇa-text says, “One should perform only
+one".[^1]  
+
+[^1]: Cf. TS II.5.3.1;II5.4.1.

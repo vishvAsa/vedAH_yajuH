@@ -2,4 +2,4 @@
 title = "06 कर्मणिकर्मणि वाचं यच्छति"
 
 +++
-कर्मणिकर्मणि वाचं यच्छति ६
+6. At the time of each action he restrains his speech.

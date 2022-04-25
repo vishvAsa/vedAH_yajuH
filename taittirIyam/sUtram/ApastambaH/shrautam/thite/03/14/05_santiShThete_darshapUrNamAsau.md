@@ -2,4 +2,4 @@
 title = "05 सन्तिष्ठेते दर्शपूर्णमासौ"
 
 +++
-सन्तिष्ठेते दर्शपूर्णमासौ ५
+5. The New and Full-moon-sacrifices stand (hereby) completely estalished (i.e. concluded).  

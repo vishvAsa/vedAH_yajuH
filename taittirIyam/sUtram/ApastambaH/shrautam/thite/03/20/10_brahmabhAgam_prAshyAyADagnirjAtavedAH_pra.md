@@ -2,4 +2,4 @@
 title = "10 ब्रह्मभागम् प्राश्यायाडग्निर्जातवेदाः प्र"
 
 +++
-ब्रह्मभागं प्राश्यायाडग्निर्जातवेदाः प्र णो यक्ष्यभि वस्यो अस्मान्सं नः सृज सुमत्या वाजवत्येत्याहवनीयमुपस्थाय यथेतं प्रतिनिष्क्रामति १०
+10. Having consumed the Brahman's portion, with ayāḍagnirjātvedāḥ... having stood near the Āhavanīya while praising it, he goes back by the same way by which he had come.  

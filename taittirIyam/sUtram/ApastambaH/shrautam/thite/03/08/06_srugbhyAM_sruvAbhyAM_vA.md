@@ -2,4 +2,4 @@
 title = "06 स्रुग्भ्यां स्रुवाभ्यां वा"
 
 +++
-स्रुग्भ्यां स्रुवाभ्यां वा पत्नीः संयाजयन्ति ६
+6. They offer the Patni-saṁyāja-offerings either by means of the two ladles or by means of two spoons.

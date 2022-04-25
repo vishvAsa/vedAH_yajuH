@@ -2,4 +2,18 @@
 title = "05 यदुद्घ्नन्तो जिहिंसिम पृथिवीमोषधीरपः"
 
 +++
-यदुद्घ्नन्तो जिहिंसिम पृथिवीमोषधीरपः । अध्वर्यवः स्फ्यकृतः स्फ्येनान्तरिक्षं मोरु पातु तस्मात् । यदुद्घ्नन्तो जिहिंसिम क्रूरमस्या वेदिं चकृमा मनसा देवयन्तः । मा तेन हेड उपगाम भूम्याः शिवो नो विश्वैर्भुवनेभिरस्त्वित्युद्धन्यमानाम् । भूमिर्भूत्वा महिमानं पुपोष ततो देवो वर्धयते पयांसि । यज्ञिया यज्ञं विचयन्ति शं चौषधीराप इह शक्वरीश्चेति क्रियमाणाम् । इडेन्यक्रतूरहमपो देवीरुपब्रुवे । दिवा नक्तं च सस्रुषीरपस्वरीरिति प्रोक्षणीरासाद्यमानाः । ऊर्णामृदु प्रथमानं स्योनं देवेभ्यो जुष्टं सदनाय बर्हिः । सुवर्गे लोके यजमानं हि धेहि मां नाकस्य पृष्ठे परमे व्योमन्निति बर्हिरासाद्यमानम् ५
+5. With yadudghnanto jihiṁsima...[^1] he addresses the altar being dug up.[^1] with bhumir bhutvā...[^2] he addresses the (altar) being prepared;} with iḍenyakratūraham.... he addresses the sprinkling water, being placed on the trace made by means of the Sphya[^5]; with ūrṇamr̥du prathamānam...[^6] he addresses the sacred grass being placed (to the north of the Āhavanīya).[^7]  
+
+[^1]: See II.2.4.  
+
+[^2]: TB II.7.6.4.  
+
+[^3]: See II.2.6ff.  
+
+[^4]: Cp. AV VI.23.1.  
+
+[^5]: See II.3.13.  
+
+[^6]: TB III.7.6.5.  
+
+[^7]: See II.3.17.
