@@ -2,4 +2,10 @@
 title = "05 तन्तुन् तन्वन्निति वेदं"
 
 +++
-तन्तुं तन्वन्निति वेदं होता गार्हपत्यात्प्रक्रम्य सन्ततमाहवनीयात्स्तृणात्या वा वेदेः ५
+5. With tantuṁ tanvan...[^1] the Hotr̥ spreads the Darbha blades from the grass-brush in an unbroken line starting from the Gārhaptya upto the Āhavanīya-fire[^2] or upto the altar.[^3]  
+
+[^1]: TB III.4.2.e.  
+
+[^2]: Only this is found in TB III. 9.9.11.  
+
+[^3]: For this altarnative see ŚB I.9.2.4. 

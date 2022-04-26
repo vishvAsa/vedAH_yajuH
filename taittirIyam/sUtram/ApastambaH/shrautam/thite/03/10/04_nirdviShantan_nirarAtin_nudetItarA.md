@@ -2,4 +2,7 @@
 title = "04 निर्द्विषन्तन् निररातिन् नुदेतीतरा"
 
 +++
-निर्द्विषन्तं निररातिं नुदेतीतरा प्रास्तम्प्रास्तं प्रतिनिरस्यति ४
+4. With nir dviṣantaṁ niraratiṁ nuda[^1] the other (i.e. the wife) throws (the grass-brush) back after every time it has been
+thrown.  
+
+[^1]: Cp. MS I.4.3.

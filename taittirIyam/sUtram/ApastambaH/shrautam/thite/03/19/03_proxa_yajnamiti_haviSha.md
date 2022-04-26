@@ -2,4 +2,15 @@
 title = "03 प्रोक्ष यज्ञमिति हविष"
 
 +++
-प्रोक्ष यज्ञमिति हविष इध्माबर्हिषश्च प्रोक्षे । बृहस्पते परिगृहाण वेदिं स्वगा वो देवाः सदनानि सन्तु । तस्यां बर्हिः प्रथतां साध्वन्तरहिंस्रा नः पृथिवी देव्यस्त्वित्युरस्मिन्परिग्राहे । प्रजापतेऽनुब्रूहि यज्ञमिति सामिधेनीरनुवक्ष्यन्तम् । वाचस्पते वाचमाश्रावयैतामाश्रावय यज्ञं देवेषु मां मनुष्येष्टिति प्रवरे ३
+3. He utters proksa yajnam... at the time of sprinkling water on the oblation-material[^1] and fuel and barhis-grass;[^2] He utters br̥haspate parigr̥hāṇa... at the time of second tracing of the altar. He impells with prajāpate'nubrūhi... the Hotr̥ (who) is going to recite the Samidheni (enkindling verses)[^4]; at the time of Pravara[^5] he utters vacaspate vācamāśrāvayaitām...  
+
+
+[^1]: See I.19.1  
+
+[^2]: See II.18.1.  
+
+[^3]: See II.3.7.  
+
+[^4]: See II. 11.10.  
+
+[^5]: See II.15.3.  

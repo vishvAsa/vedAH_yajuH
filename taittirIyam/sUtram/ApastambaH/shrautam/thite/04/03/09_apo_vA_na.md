@@ -2,4 +2,4 @@
 title = "09 अपो वा न"
 
 +++
-अपो वा । न वा किञ्चित् ९
+9. Or (he may consume only) water or rather nothing. 

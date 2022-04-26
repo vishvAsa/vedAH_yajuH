@@ -2,4 +2,4 @@
 title = "03 पूर्वो ब्रह्मापरो यजमानः"
 
 +++
-पूर्वो ब्रह्मापरो यजमानः ३
+3. The Brahman (sits) to the east; the sacrificer to the west. 

@@ -2,4 +2,8 @@
 title = "05 शर्धवत्यौ संयाज्ये अग्ने"
 
 +++
-शर्धवत्यौ संयाज्ये । अग्ने शर्ध महते सौभगाय तव द्युम्नान्युत्तमानि सन्तु । सं जास्पत्यं सुयममाकृणुष्ठ्य शत्रूयतामभितिष्ठा महांसि । वातोपधूत इषिरो वशाँ अनु तृषु यदन्ना वेविषद्वितिष्ठसे । आ ते यतन्ते रथ्यो यथा पृथक् शर्धांस्यग्ने अजराणि धक्ष्यस इति ५
+5. The invitatory and offering-verses of the Sviṣṭakr̥t-offering of the Vaimr̥dha-rite (should be) containing the word śardha: agne śardha mahate...[^1] and vātopadhūta...[^2]  
+
+[^1]: RV V.28.3.  
+
+[^2]: Cp. RV X.91.7.  

@@ -2,4 +2,4 @@
 title = "13 अमावास्यां रात्रिञ् जागर्ति"
 
 +++
-अमावास्यां रात्रिं जागर्ति १३
+13. He remains awake on the night of the New-moon. 

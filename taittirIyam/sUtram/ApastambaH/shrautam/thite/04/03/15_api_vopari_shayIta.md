@@ -2,4 +2,4 @@
 title = "15 अपि वोपरि शयीत"
 
 +++
-अपि वोपरि शयीत ब्रह्मचारी त्वेव स्यात् १५
+15. Or he may sleep on a high level but should remain celibate. 

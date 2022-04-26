@@ -2,4 +2,4 @@
 title = "06 आग्नेयोऽष्टाकपालो ऽग्नीषोमीय एकादशकपालः"
 
 +++
-आग्नेयोऽष्टाकपालो ऽग्नीषोमीय एकादशकपालः पूर्वस्यां पौर्णमास्यामाग्नेयोऽष्टाकपाल ऐन्द्रं दध्युत्तरस्याम् । आग्नेयोऽष्टाकपाल ऐन्द्राग्न एकादशकपालः पूर्वस्याममावास्यायामाग्नेयोऽष्टाकपालो मैत्रावरुण्यामिक्षा द्वितीयोत्तरस्याम् ६
+6. On the first Full-moon-day (there should be) a sacrificial bread on eight potsherds for Agni, and a sacrificial bread on eleven potsherds for Agni-and-Soma; on the second (Full moon day there should be) a sacrificial bread on eight pot sherds and curds for Indra. On the first New-moon-day (there should be) a sacrificial bread on eight potsherds for Agni and a sacrificial bread on eleven potsherds for Indra-and-Agni; on the second New-moon-day (there should) be a sacrificial bread on eight potsherds for Agni and Āmikṣā (cheese) for Mitra and-Varuṇa.

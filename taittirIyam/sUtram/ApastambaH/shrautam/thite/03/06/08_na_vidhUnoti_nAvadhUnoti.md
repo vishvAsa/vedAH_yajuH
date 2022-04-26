@@ -2,4 +2,6 @@
 title = "08 न विधूनोति नावधूनोति"
 
 +++
-न विधूनोति नावधूनोति न विक्षिपति न प्रमार्ष्टि न प्रतिमार्ष्टि नानुमार्ष्टि नोदञ्चं प्रहरेत् ८
+8. (While throwing the Prastara on the Āhavanīya) he does not move it from the left to right, nor move it downwards, nor scatter, nor rub it with the hand crosswise, downwards or up wards, nor should he throw it with its points to the north.[^1]   
+
+[^1]: See 11.8.5.

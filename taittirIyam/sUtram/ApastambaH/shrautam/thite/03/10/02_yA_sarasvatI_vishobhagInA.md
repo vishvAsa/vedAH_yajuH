@@ -2,4 +2,4 @@
 title = "02 या सरस्वती विशोभगीना"
 
 +++
-या सरस्वती विशोभगीना तस्यै स्वाहा या सरस्वती वेशभगीना तस्यै स्वाहेन्द्रोपानस्यकेहमनसो वेशान्कुरु सुमनसः सजातान्स्वाहेति दक्षिणाग्नौ प्रतिमन्त्रं जुहोति २
+2. With each one of the following formulae yā sarasvati viśobhagīnā tasyai svāhā, ya sarasvati veśabhagīnā tasyai svāhā, indropānasya...' he offers a libation in the Dakṣiṇa-fire.  

@@ -2,4 +2,8 @@
 title = "05 अभिस्तृणीहि परिधेहि वेदिञ्"
 
 +++
-अभिस्तृणीहि परिधेहि वेदिं जामिं मा हिंसीरमुया श्याना । होतृषदना हरिताः सुवर्णा निष्का इमे यजमानस्य ब्रध्न इति होतृषदनैर्वेदिमभिस्तीर्य को वोऽयोक्षीत्स वो विमुञ्चत्वित्यन्तर्वेदि प्रणीता आसाद्य विमुञ्चति ५
+5. With abhistr̥ṇīhi paridhehi...[^1] having spread the grass blades from the Hotr̥'s seat on the altar, with ko vo'yokṣīt... having placed the Praṇītā (brought forward) water within the altar, he unyokes (it).[^2]  
+
+[^1]: TB III.7.5.13.  
+
+[^2]: Contrast I.16.10.  

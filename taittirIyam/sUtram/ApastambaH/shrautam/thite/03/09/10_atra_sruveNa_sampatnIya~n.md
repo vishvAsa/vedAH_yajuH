@@ -2,4 +2,6 @@
 title = "10 अत्र स्रुवेण सम्पत्नीयञ्"
 
 +++
-अत्र स्रुवेण सम्पत्नीयं जुहोति पत्न्यामन्वारब्धायां सं पत्नी पत्या सुकृतेन गच्छतां यज्ञस्य युक्तौ धुर्यावभूताम् । सञ्जानानौ विजहतामरातीर्दिवि ज्योतिरजरमारभेतां स्वाहेति १०
+10. At this stage (the Adhvaryu) offers the Saṁpatnīya-libation. (In it) while the wife of the sacrificer is touching him (the Adhvaryu) he offers a libation of ghee with sam patnī patyā...[^1]  
+
+[^1]: TB III.7.5.11.  

@@ -2,4 +2,6 @@
 title = "16 तेषाञ् जुहूवत्कल्पः"
 
 +++
-तेषां जुहूवत्कल्पः १६
+16. The procedure (of cleansing etc.) in connection with these (four vessels) should be similar to that of Juhū.[^1]  
+
+[^1]: See II.4.5. etc.

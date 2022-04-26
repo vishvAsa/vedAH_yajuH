@@ -2,4 +2,8 @@
 title = "02 भूपते भुवनपते महतो"
 
 +++
-भूपते भुवनपते महतो भूतस्य पते ब्रह्माणं त्वा वृणीमह इत्युक्त्वापरेणाहवनीयं दक्षिणातिक्रम्योपविशति २
+2. Having uttered bhūpate bhuvanapate...[^1] having stepped towards the couth the sacrificer sits down.[^2]  
+
+[^1]: Cp. III.18.2;  
+
+[^2]: Both the sacrificer and brahman go to the south of the Āhavanīya fire and sit dawn there. 
