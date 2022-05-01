@@ -2,4 +2,4 @@
 title = "08 एको ममैका तस्य"
 
 +++
-एको ममैका तस्य योऽस्मान्द्वेष्टि यं च वयं द्विष्मो द्वौ मम द्वे तस्य त्रयो मम तिस्रस्तस्य चत्वारो मम चतस्रस्तस्य पञ्च मम न तस्य किञ्चन यो ऽस्मान्द्वेष्टि यं च वयं द्विष्म इत्येतैश्च प्रतिमन्त्रम् ८
+8. And with each of the formulae (in sequence) beginning with eko mamaikā tasya[^1] (he addresses) each of the fore offerings (after it has been offered).  

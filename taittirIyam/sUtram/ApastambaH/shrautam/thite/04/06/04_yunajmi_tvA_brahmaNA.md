@@ -2,4 +2,10 @@
 title = "04 युनज्मि त्वा ब्रह्मणा"
 
 +++
-युनज्मि त्वा ब्रह्मणा दैव्येनेत्याहवनीयम् । तेजिष्ठा ते तपना या च रोचना प्रत्योषन्तीस्तज्वो यास्ते अग्ने । ताभिर्वर्माण्यभितो व्ययस्व मा त्वा दभन्यज्ञहनः पिशाचा इति च ४
+4. He addresses the Āhavanīya (when enclosing sticks are placed around it)[^1] with yunajmi tvā brahmaṇā...[^2] and with tejiṣṭhā te tapanā yā ca...[^3]  
+
+[^1]: And when the Adhvaryu has addressed the Āhavanīya with a formula: see II.9.7.  
+
+[^2]: TS I.6.2.d.  
+
+[^3]: TS I.6.2.e.  

@@ -2,4 +2,6 @@
 title = "02 राकाया अहन् देवयज्यया"
 
 +++
-राकाया अहं देवयज्यया प्रजावान्भूयासं सिनीवाल्या अहं देवयज्यया पशुमान्भूयासं कुह्वा अहं देवयज्यया पुष्टिमान्पशुमान्भूयासमिति काम्याः २
+2. These formulae are optional: rākāya aham..., sinivālyā aham..., kuhvā aham....[^1]  
+
+[^1]: Thus if the optional offerings mentioned in III. 9.4 are offered then these formulae are to be recited.

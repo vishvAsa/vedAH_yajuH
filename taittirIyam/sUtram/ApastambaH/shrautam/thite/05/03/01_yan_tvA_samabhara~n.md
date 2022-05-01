@@ -2,4 +2,6 @@
 title = "01 यन् त्वा समभरञ्"
 
 +++
-यं त्वा समभरं जातवेदो यथा शरीरं भूतेषु न्यक्तम् । स सम्भृतः सीद शिवः प्रजाभ्य उरुं नो लोकमनुनेषि विद्वानिति सम्भृत्य निदधाति १
+1. After having collected all the materials, the Adhvaryu keeps them in a safe place with yaṁ tvā samabharam...[^1]   
+
+[^1]: I TB I.2.1.9. 

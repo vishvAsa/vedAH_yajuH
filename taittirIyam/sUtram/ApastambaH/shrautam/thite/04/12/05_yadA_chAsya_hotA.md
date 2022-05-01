@@ -2,4 +2,7 @@
 title = "05 यदा चास्य होता"
 
 +++
-यदा चास्य होता नाम गृह्णीयादथ ब्रूयादेमा अग्मन्नाशिषो दोहकामा इति ५
+5. And when the Hotr̥ will utter his (sacrificer's) name in the Sūktavāka, then he (the sacrificer) should utter emā agmannāśiṣo dohakāmāḥ....[^1]  
+
+
+[^1]: TS I.6.4.0.

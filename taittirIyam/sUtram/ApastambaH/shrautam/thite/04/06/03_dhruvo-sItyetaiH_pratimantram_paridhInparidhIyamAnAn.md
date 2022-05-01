@@ -2,4 +2,10 @@
 title = "03 ध्रुवोऽसीत्येतैः प्रतिमन्त्रम् परिधीन्परिधीयमानान्"
 
 +++
-ध्रुवोऽसीत्येतैः प्रतिमन्त्रं परिधीन्परिधीयमानान् । अस्मिन्यज्ञ उप भूय इन्नु मेऽविक्षोभाय परिधीन्दधामि । धर्ता धरुणो धरीयानग्निर्द्वेषांसि निरितो नु दाता इति च ३
+3. He addresses the enclosing sticks being placed[^1] each one with one of the formulae, in sequence: dhruvosi...[^2], and after all the enclosing sticks are placed, with asmin yajñe upa bhūyaḥ[^3].  
+
+[^1]: See II.9.5.  
+
+[^2]: TS I.6.2.ac.  
+
+[^3]: TB III.7.6.7.  

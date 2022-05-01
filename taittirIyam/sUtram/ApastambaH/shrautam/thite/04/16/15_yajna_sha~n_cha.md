@@ -2,4 +2,4 @@
 title = "15 यज्ञ शञ् च"
 
 +++
-यज्ञ शं च म उप च म आयुश्च मे बलं च मे यज्ञ शिवो मे सन्तिष्ठस्व यज्ञ स्विष्टो मे सन्तिष्ठस्व यज्ञारिष्टो मे सन्तिष्ठस्वेति दर्शपूर्णमासाभ्यां सोमेन पशुना वेष्ट्वा जपति १५
+15. After having performed the New and Full-moon-sacrifices or a Soma-sacrifice or an animal sacrifice, he mutters yajña śaṁ ca me....

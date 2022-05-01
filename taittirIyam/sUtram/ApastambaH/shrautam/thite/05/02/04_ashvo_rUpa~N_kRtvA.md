@@ -2,4 +2,8 @@
 title = "04 अश्वो रूपङ् कृत्वा"
 
 +++
-अश्वो रूपं कृत्वा यदश्वत्थेऽतिष्ठः संवत्सरं देवेभ्यो निलाय । तत्ते न्यक्तमिह सम्भरन्तः शतं जीवेम शरदः सुवीरा इत्यश्वत्थम् । ऊर्जः पृथिव्या अध्युत्थितोऽसि वनस्पते शतवल्शो विरोह । त्वया वयमिषमूर्जं मदन्तो रायस्पोषेण समिषा मदेमेत्युदुम्बरम् । गायत्रिया ह्रियमाणस्य यत्ते पर्णमपतत्तृतीयस्यै दिवोऽधि । सोऽयं पर्णः सोमपर्णाद्धि जातस्ततो हरामि सोमपीथस्यावरुद्ध्यै । देवानां ब्रह्मवादं वदतां यदुपाशृणोः सुश्रवा वै श्रुतोऽसि । ततो मामाविशतु ब्रह्मवर्चसं तत्सम्भरंस्तदवरुन्धीय साक्षादित्येताभ्यां पर्णम् । यया ते सृष्टस्याग्नेर्होतिमशमयत्प्रजापतिः । तामिमामप्रदाहाय शमीं शान्त्यै हराम्यहमिति शमीम् । यत्ते सृष्टस्य यतो विकङ्कतं भा आर्छज्जातवेदः । तया भासा सम्मित उरुं नो लोकमनुप्रभाहीति विकङ्कतम् । यत्ते तान्तस्य हृदयमाच्छिन्दञ्जातवेदो मरुतो अद्भिस्तमयित्वा । एतत्ते तदशनेः सम्भरामि सात्मा अग्ने सहृदयो भवेहेत्यशनिहतस्य वृक्षस्य । यत्पर्यपश्यत्सरिरस्य मध्य उर्वीमपश्यज्जगतः प्रतिष्ठाम् । तत्पुष्करस्यायतनाद्धि जातं पर्णं पृथिव्याः प्रथनं हरामीति पुष्करपर्णम् । इति वानस्पत्याः ४
+4. With aśvo rūpaṁ kr̥tvā... (he collects the wood of) Aśvattha (ficus religiosa-tree); with úrjaḥ pr̥thivyāḥ...[^1] (he collects the wood of) Udumbara (ficus glomerata-tree); with these two verses beginning with gāyatriyā hriyamāṇasya[^2] and devānāṁ brahmavādam vadatām.[^3] (he collects the wood of) Parṇa (butea frondosa-tree); with yayā te sr̥ṣṭasya...[^4] (he collects the wood of) Śami (prosopis spicigera-tree); with yat te sr̥ṣṭasya...[^5] (he collects the wood) of a tree struck by lightning; with yat paryapaśyat sarirasya madhye...[^6] (he collects) a lotus-leaf,-these (are the materials) of tree (type).   
+
+[^1-5]: For all these verses see TB I.2.1.5-7.
+
+[^6]: TB I.2.1.4.  

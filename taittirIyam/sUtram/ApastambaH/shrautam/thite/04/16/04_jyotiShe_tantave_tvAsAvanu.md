@@ -2,4 +2,6 @@
 title = "04 ज्योतिषे तन्तवे त्वासावनु"
 
 +++
-ज्योतिषे तन्तवे त्वासावनु मा तन्वच्छिन्नो दैव्यस्तन्तुर्मा मनुष्यश्छेदि दिव्याद्धाम्नो मा च्छित्सि मा मानुषादिति प्रियस्य पुत्रस्य नाम गृह्णाति ४
+4. (In the formula to be uttered immediately afterwards beginning with) jyotiṣe tantave tvā...[^1] he utters the name of his dear son.  
+
+[^1]: MS I.4.2.  

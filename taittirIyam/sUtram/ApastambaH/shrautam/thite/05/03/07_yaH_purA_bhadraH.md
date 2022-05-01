@@ -2,4 +2,4 @@
 title = "07 यः पुरा भद्रः"
 
 +++
-यः पुरा भद्रः सन्पापीयान्स्यात्पुनर्वस्वोः ७
+7. (The performer) who being auspicious (rich) earlier will be poor, (should establish fires) under Punarvasū. 

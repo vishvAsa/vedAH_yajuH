@@ -2,4 +2,9 @@
 title = "04 पुण्या भवन्तु या"
 
 +++
-पुण्या भवन्तु या लक्ष्मीः पराभवन्तु याः पापीरित्युक्त्वा समहं प्रजया सं मया प्रजेति पुनरुपावर्तते ४
+4. Having uttered puṇyā bhavantu yā lakṣmiīh...[^1] he turns (to the Āhavanīya) back (by the left) with samahaṁ prajayā saṁ mayā...[^2]  
+
+
+[^1]: Cp. AV VIII. 115.4.  
+
+[^2]: TS I.6.6.g-h.

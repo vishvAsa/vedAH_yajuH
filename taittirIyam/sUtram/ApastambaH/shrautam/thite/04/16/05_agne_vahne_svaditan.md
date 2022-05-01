@@ -2,4 +2,4 @@
 title = "05 अग्ने वह्ने स्वदितन्"
 
 +++
-अग्ने वह्ने स्वदितं नस्तनये पितुं पच । शं तोकाय तनुवे स्योन इति दक्षिणाग्निम् ५
+5. With agne vahne svaditaṁ nastanaye... he stands near the Dakṣiṇāgni praising it.

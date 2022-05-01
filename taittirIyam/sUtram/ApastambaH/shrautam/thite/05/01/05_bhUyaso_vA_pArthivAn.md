@@ -2,4 +2,4 @@
 title = "05 भूयसो वा पार्थिवान्"
 
 +++
-भूयसो वा पार्थिवान् ५
+5. Or (he may bring) more materials derived from earth. 

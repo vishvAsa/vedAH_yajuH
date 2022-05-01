@@ -2,4 +2,6 @@
 title = "01 तृप्तिरसि गायत्रञ् छन्दस्तर्पय"
 
 +++
-तृप्तिरसि गायत्रं छन्दस्तर्पय मा तेजसा ब्रह्मवर्चसेन तृप्तिरसि त्रैष्टुभं छन्दस्तर्पय मौजसा वीर्येण तृप्तिरसि जागतं छन्दस्तर्पय मा प्रजया पशुभिरिति पुरोडाशानज्यमानान् १
+1. With tr̥ptirasi gāytram chandaḥ.. (the sacrificer) addresses the sacrificial breads being anointed (with ghee by the Adhvaryu).[^1]  
+
+[^1]: See II. 10.4.

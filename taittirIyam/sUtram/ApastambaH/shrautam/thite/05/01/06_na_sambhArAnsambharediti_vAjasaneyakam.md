@@ -2,4 +2,4 @@
 title = "06 न सम्भारान्सम्भरेदिति वाजसनेयकम्"
 
 +++
-न सम्भारान्सम्भरेदिति वाजसनेयकम् ६
+6. “One should not collect the materials”—this is view of the Vājasaneyins.
