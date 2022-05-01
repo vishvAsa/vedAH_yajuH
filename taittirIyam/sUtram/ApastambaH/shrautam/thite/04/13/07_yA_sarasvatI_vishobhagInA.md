@@ -2,4 +2,8 @@
 title = "07 या सरस्वती विशोभगीना"
 
 +++
-या सरस्वती विशोभगीना तस्यां मे रास्व तस्यास्ते भक्तिवानो भूयास्मेति फलीकरणहोमे हुते मुखं विमृष्टे ७
+7. With yā sarasvatī viśobhagīnā...[^1] he wipes his face after the oblation of chaff of grains.[^2]  
+
+[^1]: Cp. MS I.4.3.  
+
+[^2]: See III. 10.1-2.

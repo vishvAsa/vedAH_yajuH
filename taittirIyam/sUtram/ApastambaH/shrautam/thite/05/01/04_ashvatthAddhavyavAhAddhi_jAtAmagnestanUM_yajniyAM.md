@@ -2,4 +2,11 @@
 title = "04 अश्वत्थाद्धव्यवाहाद्धि जातामग्नेस्तनूं यज्ञियां"
 
 +++
-अश्वत्थाद्धव्यवाहाद्धि जातामग्नेस्तनूं यज्ञियां सम्भरामि । शान्तयोनिं शमीगर्भमग्नये प्रजनयितवे । आयुर्मयि धेह्याहुर्यजमान इत्यरणी अभिमन्त्र्य सप्त पार्थिवान्सम्भारानाहरति । एवं वानस्पत्यान् । पञ्चपञ्च वा ४
+4. With aśvatthāddhavyavāhād...[^1] and with āyur mayi dhehi... having addressed the churning sticks, (the Adhvaryu) brings seven materials derived from earth[^2]; similarly (he brings) the materials derived form the tree; or five from each.[^3]  
+
+[^1]: TB I.2.1-8  
+
+[^2]: See V. 1.7-8.2.
+
+
+[^2]: Cf. KS VIII.2.

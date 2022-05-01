@@ -2,4 +2,8 @@
 title = "06 वेदिर्बर्हिः शृतं हविरिध्मः"
 
 +++
-वेदिर्बर्हिः शृतं हविरिध्मः ह्परिधयः स्रुचः । आज्यं यज्ञ ऋचो यजुर्याज्याश्च वषट्काराः । सं मे सन्नतयो नमन्तामिध्मसन्नहने हुत इति सम्मार्गान्हुतान् ६
+6. With vedirbarhiḥ śrutaṁ haviḥ...[^1] (he addresses) the strings used for binding the fuel after they have been offered (in fire).[^2]  
+
+[^1]: TB III.7.6.18.  
+
+[^2]: See III.4.8.  

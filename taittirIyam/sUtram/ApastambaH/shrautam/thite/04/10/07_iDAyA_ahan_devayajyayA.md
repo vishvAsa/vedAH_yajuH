@@ -2,4 +2,8 @@
 title = "07 इडाया अहन् देवयज्यया"
 
 +++
-इडाया अहं देवयज्यया पशुमान्भूयासमित्युपहूताम् । इडा धेनुः सहवत्सा न आगादूर्जं दुहाना पयसा प्रपीना । सा नो अन्नेन हविषोत गोभिरिडाभ्यस्माँ आगादिति भक्षायाह्रियमाणाम् ७
+7. With idāyā ahaṁ devayajyayā... (he should address) the invoked Iḍā;[^1] with iḍā dhenuḥ sahavatsā... (he should address Iḍā) being brought near for the sake of eating.[^2]  
+
+[^1]: See III.2.8.  
+
+[^2]: See III.2.10.

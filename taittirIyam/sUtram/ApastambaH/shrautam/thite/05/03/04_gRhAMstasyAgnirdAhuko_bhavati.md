@@ -2,4 +2,4 @@
 title = "04 गृहांस्तस्याग्निर्दाहुको भवति"
 
 +++
-गृहांस्तस्याग्निर्दाहुको भवति ४
+4. Agni(-fire) (however), is likely to burn his house. 

@@ -2,4 +2,13 @@
 title = "04 भूयस्येहि श्रेयस्येहि वसीयस्येहि"
 
 +++
-भूयस्येहि श्रेयस्येहि वसीयस्येहि चित्त एहि दधिष एहीड एहि सूनृत एहीतीडाया उपांश्रूपहवे सप्त देवगवीर्जपति । चिदसि मनासि धीरसि रन्ती रमतिः सूनुः सूनरीत्युच्चैरुपहवे सप्त मनुष्यगवीः । देवीर्देवैरभि मा निवर्तध्वं स्योनाः स्योनेन घृतेन मा समुक्षत नम इदमुदं भिषगृषिर्ब्रह्मा यद्ददे समुद्रादुदचन्निव स्रुचा वागग्रे विप्रस्य तिष्ठति शृङ्गेभिर्दशभिर्दिशन्निति च ४
+4. By means of the formulae (called) Saptagavī beginning with bhūyasyehi śreyasyehi[^1] (he addresses the Iḍā -portion) at the time of its inaudible invocation.[^2] By means of the formulae called Munuṣyagavī beginning with cidasi manāsi...[^3] and by means of the formulae beginning with devīrdevairabhi mā nivartadhvam (he addresses the Iḍā-portion) at the time of its loud invocation.  
+
+
+[^1]: MS IV.2.5.  
+
+[^2]: See III.2.8.  
+
+[^3]: MS IV.2.5.  
+
+[^4]: See III.2.8.  

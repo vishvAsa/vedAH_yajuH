@@ -2,4 +2,9 @@
 title = "04 प्राच्यान् दिशि देवा"
 
 +++
-प्राच्यां दिशि देवा ऋत्विजो मार्जयन्तामित्येतैर्यथालिङ्गं व्युत्सि च्य समुद्रं वः प्रहिणोमि स्वां योनिमपिगच्छत । अच्छिद्रः प्रजया भूयासं मा परासेचि मत्पय इत्यन्तर्वेदि शेषं निनीय यदप्सुते सरस्वति गोष्ठश्वेषु यन्मधु । तेन मे वाजिनीवति मुखमङ्ग्ध सरस्वति । या सरस्वती वैशम्बल्या तस्यां मे रास्व तस्यास्ते भक्षीय तस्यास्ते भूयिष्ठभाजो भूयास्मेति मुखं विमृष्टे ४
+4. Having poured the Praṇītā-water (in different directions) with one of the formulae (in sequence) beginning with prācyāṁ diśi devāḥ in accordance with the characteristic mark (in the formula i.e. the word referring to a particular direction), with samudraṁ vaḥ prahiṇomi... having poured the remaining water within the altar, with yadapsu te sarasvati...[^2] (the sacrificer) wipes his face.  
+
+
+[^1]: TS I.6.5.d.  
+
+[^2]: TB II.5.8.6-7.  

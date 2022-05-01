@@ -2,4 +2,4 @@
 title = "07 नाहवनीयमतिक्रामति"
 
 +++
-नाहवनीयमतिक्रामति ७
+7. (At that time) he does not step beyond the Āhavanīya( fire).

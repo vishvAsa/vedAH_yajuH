@@ -2,4 +2,4 @@
 title = "08 अवस्थाय चतुर्थञ् जपति"
 
 +++
-अवस्थाय चतुर्थं जपति ८
+8. Having stood up after the third step, he mutters the fourth (formula).

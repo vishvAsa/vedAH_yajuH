@@ -2,4 +2,7 @@
 title = "16 वृष्टिरसि वृश्च मे"
 
 +++
-वृष्टिरसि वृश्च मे पाप्मानमृतात्सत्यमुपागामितीष्ट्वाप उपस्पृशति । तदिदं सर्वयज्ञेषूपस्पर्शनं भवति १६
+16. After having performed (any sacrifice) he touches water with vr̥ṣṭirasi vr̥śca me pāpmānam...[^1] This act of touch ing (water) takes place in all the sacrifices.  
+
+
+[^1]: TB III. 10.9.2.

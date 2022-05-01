@@ -2,4 +2,4 @@
 title = "05 रोहिण्यामाधाय सर्वान्रोहान्रोहति"
 
 +++
-रोहिण्यामाधाय सर्वान्रोहान्रोहति ५
+5. Having established (fires) under Rohiṇi constellation he ascends on all the heights. 

@@ -2,4 +2,4 @@
 title = "01 इन्द्रस्य वैमृधस्याहन् देवयज्ययासपत्नो"
 
 +++
-इन्द्रस्य वैमृधस्याहं देवयज्ययासपत्नो वीर्यवान्भूयासमिन्द्रस्य त्रातुरहं देवयज्यया त्रातो भूयासं द्यावापृथिव्योरहं देवयज्ययोभयोर्लोकयोरृध्यासं । भूमानं प्रतिष्ठां गमेयमित्येके । पूष्णोऽहं देवयज्यया प्रजनिषीय प्रजया पशुभिः सरस्वत्या अहं देवयज्यया वाचमन्नाद्यं पुषेयं विश्वेषां देवानामहं देवयज्यया प्राणैः सायुज्यं गमेयमर्यम्णोऽहं देवयज्यया स्वर्गं लोकं गमेयमदित्या अहं देवयज्यया प्र प्रजया च पशुभिश्च जनिषीयेन्द्रस्येन्द्रियावतोऽहं देवयज्ययेन्द्रियाव्यन्नादो भूयासमिति यथालिङ्गं वैकृतीः १
+1. (The sacrificer) addresses the modificatory offerings with one of the following formulae in accordance with the characteristic mark (i.e. mention of the deity to which the offering is made): indrasya vaimr̥dhasyāhaṁ...; indrasya trātuh... dyāvāpr̥thivyorahaṁ devayajyayobhayor lokayorr̥ddhyāsam or according to some (ritualists) dyāvāpr̥thivyoḥ... bhūmānaṁ pratiṣṭhāṁ gameyam; pūṣṇaḥ...; Sarasvatyāḥ..., viśveṣāṁ devānām..., aryamṇaḥ...., adityāḥ...; indrasya indriyāvataḥ.... 

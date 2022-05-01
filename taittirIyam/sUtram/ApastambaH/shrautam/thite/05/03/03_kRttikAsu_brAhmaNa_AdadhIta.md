@@ -2,4 +2,4 @@
 title = "03 कृत्तिकासु ब्राह्मण आदधीत"
 
 +++
-कृत्तिकासु ब्राह्मण आदधीत मुख्यो ब्रह्मवर्चसी भवति ३
+3. A Brāhmaṇa (performer) should establish (fires) under Kr̥ttikā (constellation ); he becomes the chief (among his relatives) and possessor of Brahman-splendor. 
