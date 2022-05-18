@@ -2,4 +2,4 @@
 title = "10 क्षौमे वसानौ जायापती"
 
 +++
-क्षौमे वसानौ जायापती अग्निमादधीयाताम् १०
+10. Wearing silk garments the husband and the wife should establish fires;

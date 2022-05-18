@@ -2,4 +2,4 @@
 title = "14 विशाखयोः प्रजाकामोऽनुराधेष्ठृद्धिकामः श्रवणे"
 
 +++
-विशाखयोः प्रजाकामोऽनुराधेष्ठृद्धिकामः श्रवणे पुष्टिकाम उत्तरेषु प्रोष्ठपदेषु प्रतिष्ठाकामः १४
+14. (A performer) desirous of progeny (should establish fires) under Viśākhās, ...desirous of growth under Anurādhās... desirous of prosperity... under Śravaṇa....; desirous of firm establishment under Uttara Proṣṭhapadas.

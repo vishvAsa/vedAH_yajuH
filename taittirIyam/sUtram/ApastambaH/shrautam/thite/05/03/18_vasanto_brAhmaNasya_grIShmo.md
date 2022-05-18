@@ -2,4 +2,4 @@
 title = "18 वसन्तो ब्राह्मणस्य ग्रीष्मो"
 
 +++
-वसन्तो ब्राह्मणस्य ग्रीष्मो राजन्यस्य हेमन्तो वा शरद्वैश्यस्य वर्षा रथकारस्य १८
+18. Spring (is the season) of a Brāhmin; summer... of a Kṣatriya; or winter; autumn of a Vaiśya and rainy season of chariot-maker. Therefore these seasons are prescribed to be the seasons for establishment of fires.

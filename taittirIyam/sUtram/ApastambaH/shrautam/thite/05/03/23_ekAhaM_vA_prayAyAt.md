@@ -2,4 +2,4 @@
 title = "23 एकाहं वा प्रयायात्"
 
 +++
-एकाहं वा प्रयायात् २३
+23. Or even a wanderer should go out of his house for one day before he establishes fires.

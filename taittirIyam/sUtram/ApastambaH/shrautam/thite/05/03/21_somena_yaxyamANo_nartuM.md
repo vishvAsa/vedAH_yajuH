@@ -2,4 +2,6 @@
 title = "21 सोमेन यक्ष्यमाणो नर्तुं"
 
 +++
-सोमेन यक्ष्यमाणो नर्तुं सूर्क्षेन्न नक्षत्रम् २१
+21. A performer who is going to perform a Soma-sacrifice may not heed either the season or constellation.[^1]  
+
+[^1]: Cp.KS VIII.1.
