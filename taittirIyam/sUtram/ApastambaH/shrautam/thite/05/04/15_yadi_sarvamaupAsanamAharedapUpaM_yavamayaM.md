@@ -2,4 +2,4 @@
 title = "15 यदि सर्वमौपासनमाहरेदपूपं यवमयं"
 
 +++
-यदि सर्वमौपासनमाहरेदपूपं यवमयं व्रीहिमयं चौदुम्बरपर्णाभ्यां सङ्गृह्यायतन उपास्येद्यवमयं पश्चाद्व्रीहिमयं पुरस्तात्तस्मिन्नादध्यात् १५
+15. In case he brings the entire Aupāsna-fire, having taken (separately) a cake of rice-flour, and a cake of barley-flour by means of leaves of Udumbara, he should throw the cake of barley to the west and that of rice to the east on the place (where the Gārhapatya-fire is going to be established) and then keep (the Aupāsana-fire on that place).

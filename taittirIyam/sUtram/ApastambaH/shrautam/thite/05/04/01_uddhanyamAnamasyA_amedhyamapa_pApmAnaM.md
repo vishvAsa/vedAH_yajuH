@@ -2,4 +2,8 @@
 title = "01 उद्धन्यमानमस्या अमेध्यमप पाप्मानं"
 
 +++
-उद्धन्यमानमस्या अमेध्यमप पाप्मानं यजमानस्य हन्तु । शिवा नः सन्तु प्रदिशश्चतस्रः शं नो माता पृथिवी तोकसातेति प्राचीनप्रवणं देवयजनमुद्धत्य शं नो देवीरभिष्टय आपो भवन्तु पीतये । शंयोरभिस्रवन्तु न इत्यद्भिरवोक्ष्य तस्मिन्नुदीचीनवंशं शरणं करोति १
+1. With uddhanyamānamasyāḥ...[^1] having dug the sacrificial place a little, sloping towards the east, with śaṁ no devīrabhiṣṭaye...[^2] having sprinkled water (on it) with his palm turned downwards, the Adhvaryu prepares a (fire) hall with the roof having bamboos pointing to the north, on it (sacrificial place).
+
+[^1]: TB I.2.1.1.  
+
+[^2]: TB I.2.1.1.

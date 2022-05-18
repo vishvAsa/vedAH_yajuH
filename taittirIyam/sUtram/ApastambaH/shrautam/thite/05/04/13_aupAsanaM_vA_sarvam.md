@@ -2,4 +2,4 @@
 title = "13 औपासनं वा सर्वम्"
 
 +++
-औपासनं वा सर्वम् १३
+13. Or rather he brings the entire Aupāsana (fire).
