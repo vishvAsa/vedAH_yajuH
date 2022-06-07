@@ -18,7 +18,7 @@ unicode_script: devanagari
 - इमं मे वरुण इत्यादिः [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_4_-_Kasinath_Sastri_Agase_1946#page/n57/mode/2up)।  TS.2.1.11.6a
 
 ## वेदादीन् जपति।
-- ऋगादिः "अग्निमीळे" इति [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart1/rv_sayanabhasya_part1#page/n59/mode/2up)।
+- ऋगादिः "अग्निमीले" इति [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart1/rv_sayanabhasya_part1#page/n59/mode/2up)।
 - यजुरादिः "ईषे त्वोर्जे त्वा" इति [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n9/mode/2up)।
 - सामादिः "अग्न आयाहि वीतये" (ऋचः [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n145/mode/1up))।
 - अथर्वणादिः "शं नो देवीर् अभिष्टय" (ऋचः [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart4/rv_sayanabhasya_part4#page/n399/mode/2up))।
