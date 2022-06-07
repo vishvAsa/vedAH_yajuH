@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 
 +++
 ## शिरः
-ओं भूः । ओं भुवः॑ । ओ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओ स॒त्यम् ।  
+ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।  
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h3>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h3></summary>
