@@ -1,15 +1,15 @@
 ---
-title: उदकशान्त्यर्थः
+title: टीका-सङ्केताः
 unicode_script: devanagari
 ---
 
- ## परिचयः
-- बोधायनीयविधौ[अत्र](https://archive.org/stream/Bodhayana-Grihya-Sutra-shyAma-shAstrI-ed/bodhayana%20grihya%20sutra#page/n215/mode/2up)। परिचयः [अत्र](https://archive.org/details/udakashAnti-vidhi-mantra-bhAShya-parichayaH)।
+## परिचयः
+- बोधायनीयविधौ[अत्र](https://archive.org/stream/Bodhayana-Grihya-Sutra-shyAma-shAstrI-ed/bodhayana%20grihya%20sutra#page/n215/mode/2up)। काप्रे-नरेन्द्र-परिचयो [ऽत्र भाषितः](https://archive.org/details/udakashAnti-vidhi-mantra-bhAShya-parichayaH)।
 
- ### सङ्ग्रहः
+### सङ्ग्रहः
 - केनचित् श्रीवैष्णवेन [अत्र](http://home.comcast.net/~prasadmail/udakashanti-sanskrit-bw.pdf)। नन्दुजालक्षेत्रे [ऽत्र](http://sanskritdocuments.org/doc_veda/udakashaanti.html?lang=sa)। \[ [link](https://archive.org/stream/prasiddha-veda-mantra-sangrahaH/yajusha_mantra-ratnAkaraH_2012_07_26#page/n0/mode/2up) \] याजुष-मन्त्र-रत्नाकरः अजितस्य। कार्त्तिक[स्यात्र](https://github.com/stotrasamhita/vedamantra-book/blob/master/mantras-pdf/UdakaShanti.pdf)।
 
- ## कलशस्थापनम्
+## कलशस्थापनम्
 - चलच्चित्रम् [अत्र](https://youtu.be/ge_Chw7MeJo?t=345)।
 - आपो वा इदम् इत्यादिः [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n287/mode/2up)।
 - अपः प्रणयति। इत्यादिः [अत्र](https://archive.org/stream/taittiriya/taittiriya_brahmana_bhaskara_03_1-7#page/n77/mode/2up)। [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n305/mode/2up) भाष्यं विना।
@@ -17,25 +17,25 @@ unicode_script: devanagari
 - स हि रत्नानि दाशुषे इत्यादिः [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n1035/mode/2up)। RV.5.82.3a
 - इमं मे वरुण इत्यादिः [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_4_-_Kasinath_Sastri_Agase_1946#page/n57/mode/2up)।  TS.2.1.11.6a
 
- ## वेदादीन् जपति।
+## वेदादीन् जपति।
 - ऋगादिः "अग्निमीळे" इति [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart1/rv_sayanabhasya_part1#page/n59/mode/2up)।
 - यजुरादिः "ईषे त्वोर्जे त्वा" इति [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n9/mode/2up)।
 - सामादिः "अग्न आयाहि वीतये" (ऋचः [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n145/mode/1up))।
 - अथर्वणादिः "शं नो देवीर् अभिष्टय" (ऋचः [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart4/rv_sayanabhasya_part4#page/n399/mode/2up))।
 
- ## संहितांशः
+## संहितांशः
 - कृणुष्व पाजः इत्यनुवाकम्। रक्षोघ्नम।
     - सायणः \- तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n325/mode/2up)। ऋग्भाष्ये [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n573/mode/2up)।
     - तत्रैव 'मदे चिदस्य ’ इत्यर्धर्चम् एवोद्धृत्य। तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n327/mode/2up)। 
 - 'इन्द्रं वो विश्वतस्परिहवामहे जनेभ्यः ’ इत्येतमनुवाकं
     - सायणः - [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_2_-_Kasinath_Sastri_Agase_1940#page/n313/mode/2up)।
 
- ## आरण्यकांशः
+## आरण्यकांशः
 - ‘यत इन्द्रभयामहे, स्वस्ति-दा विशस्पतिः ’ इति द्वाभ्यां । [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n349/mode/2up)।
 - ‘ महां इन्द्रः ' इति। [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n353/mode/2up)। TA.10.1.10a
 - "सजोषा इन्द्र " इत्यादिर् [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n355/mode/2up)।
 
- ## संहितांशः
+## संहितांशः
 - ‘ ये देवाः पुरस्सदः " इति पञ्चभिः पर्यायैः। [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_3_-_Kasinath_Sastri_Agase_1947#page/n91/mode/2up)। 'अग्नये रक्षोघे ' इात पञ्च।[अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_3_-_Kasinath_Sastri_Agase_1947#page/n93/mode/2up)।
 - ’अग्निरायुष्मान् " इात पञ्च। [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_4_-_Kasinath_Sastri_Agase_1946#page/n145/mode/2up)।
 - ‘या वामिन्द्रावरुणा ' इति चतस्रः। [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_4_-_Kasinath_Sastri_Agase_1946#page/n157/mode/2up)। ‘ यो वामिन्द्रावरुणौ’ इत्यष्ठौ। [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_4_-_Kasinath_Sastri_Agase_1946#page/n157/mode/2up)।
