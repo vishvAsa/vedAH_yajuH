@@ -78,7 +78,7 @@ title = "०५ दशरात्रविधिः"
 - त्रि॒ण॒वाव् अ॑ग्निष्टो॒माव् +++(त्रयस्त्रिंशस्य)+++ अ॒भित॑  ऐ॒न्द्रीषु॒ , विजि॑त्यै।
 - +++(अष्टमदिने ककुत्स्थाने)+++ त्र॒य॒स्त्रि॒ꣳ॒श उ॒क्थ्यो॑ वैश्वदे॒वीषु॒ प्रति॑ष्ठित्यै।
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
 <details open><summary><h4>विश्वजित्-विधानम् ...{Loading}...</h4></summary>
 
 

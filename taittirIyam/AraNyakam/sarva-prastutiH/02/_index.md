@@ -316,7 +316,7 @@ unicode_script = "devanagari"
 
 तस्मा॑त् स्वाध्या॒यो ऽध्ये॑त॒व्यो॑ - यय्ँय॑ड्क्र॒तुमधी॑ते॒ तेन॑ तेनास्ये॒ष्टं भ॑वत्य्, अ॒ग्नेर्वा॒योरा॑दि॒त्यस्य॒ सायु॑ज्यङ्गच्छति॒ तदे॒षाऽभ्यु॑क्ता -
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/brAhmaNam/02/brAhmaNa-vandanam.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/brAhmaNam/sarva-prastutiH/02/brAhmaNa-vandanam.md">
 <details open=""><summary><h5>ये अर्वाङुत वा पुराणे ...{Loading}...</h5></summary>
 
 ये अ॒र्वाङु॒त वा॑ पुरा॒णे  
@@ -341,7 +341,7 @@ unicode_script = "devanagari"
 या॒जयि॑त्वा प्रतिगृ॒ह्य वा ऽन॑श्न॒न् त्रिः स्वा॑ध्या॒यव्ँ वे॒दम् अधी॑यीत।  
 त्रिरा॒त्रव्ँ वा॑ सावि॒त्रीङ् गा॑य॒त्रीम् अ॒न्वाति॑रेचयति।  
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/brAhmaNam/02/vara-prashaMsA.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/brAhmaNam/sarva-prastutiH/02/vara-prashaMsA.md">
 <details open=""><summary><h4>वरः ...{Loading}...</h4></summary>
 
 वरो॒+++(=महार्हो गौरिव)+++ दक्षि॑णा। वरे॑णै॒व वर२ꣳ॑+++(=श्रेष्ठं)+++ स्पृणोति+++(=प्रीणाति)+++।  

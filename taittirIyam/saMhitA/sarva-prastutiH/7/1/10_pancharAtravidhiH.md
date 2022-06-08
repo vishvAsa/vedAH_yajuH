@@ -84,7 +84,7 @@ The (sacrifices) last five nights
 
 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/panchatA-mahimA.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/panchatA-mahimA.md">
 <details open><summary><h3>पञ्चता-महिमा ...{Loading}...</h3></summary>
 
 
@@ -113,7 +113,7 @@ the sacrifice is fivefold; verily he wins the sacrifice.
 </div>  
 
 ## भिन्नदिनेष्व् अङ्गानि
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
 <details open><summary><h3>९-१५-१७-विधानम् ...{Loading}...</h3></summary>
 
 
@@ -129,7 +129,7 @@ There is a Saptadaça (Stoma), for the obtainment of food; verily also he gains 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
 <details open><summary><h3>२५-विधानम् ...{Loading}...</h3></summary>
 
 
@@ -144,7 +144,7 @@ There is an Agnistoma with the Pañcadaça (Stoma), for the gaining of Prajapati
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
 <details open><summary><h3>विश्वजित्-विधानम् ...{Loading}...</h3></summary>
 
 

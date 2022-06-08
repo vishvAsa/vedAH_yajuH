@@ -17,7 +17,7 @@ title = "०६ पञ्चदशरात्रयोः विधिः"
 व्या॒वृत॑म् ए॒व पा॒प्मना॒ भ्रातृ॑व्येण गच्छन्ति ।  
 
 ## विधानम्
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md">
 <details open><summary><h3>ज्योतिर् गौर् आयुः ...{Loading}...</h3></summary>
 
 ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हो भ॑वति ।  
@@ -31,7 +31,7 @@ title = "०६ पञ्चदशरात्रयोः विधिः"
 ए॒ष्वे॑व लो॒केषु॒ प्रति॑ तिष्ठ॒न्ति ।
 
 +++(द्वादशाहस्य दशाहानि विदधाति -)+++  
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md">
 <details open><summary><h3>असत्रम् अछन्दोमम् ...{Loading}...</h3></summary>
 
 

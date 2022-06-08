@@ -32,7 +32,7 @@ title = "०७ अन्यः पञ्चदशरात्रः"
 स॒व्ँव॒थ्स॒रस् सु॑व॒र्गो लो॒कः । तस्मा᳚थ् सुव॒र्ग्याः᳚ ।
 
 ## विधानम्
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md">
 <details open><summary><h3>ज्योतिर् गौर् आयुः ...{Loading}...</h3></summary>
 
 ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हो भ॑वति ।  
@@ -46,7 +46,7 @@ title = "०७ अन्यः पञ्चदशरात्रः"
 
 इ॒मान् ए॒व लो॒कान॒भ्यारो॑हन्ति ।
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/madhye_pRShThAni.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/madhye_pRShThAni.md">
 <details open><summary><h3>मध्ये पृष्ठानि ...{Loading}...</h3></summary>
 
 
@@ -56,7 +56,7 @@ title = "०७ अन्यः पञ्चदशरात्रः"
 ओज॑ ए॒व वी॒र्य॑म् मध्य॒तो द॑धते ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
 <details open><summary><h3>बृहद्-रथन्तर-यानम् ...{Loading}...</h3></summary>
 
 
@@ -70,7 +70,7 @@ title = "०७ अन्यः पञ्चदशरात्रः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/pratyaN_tryahaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/pratyaN_tryahaH.md">
 <details open><summary><h3>प्रत्यङ् त्र्यहः ...{Loading}...</h3></summary>
 
 

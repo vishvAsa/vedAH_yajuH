@@ -20,7 +20,7 @@ title = "०१ षड्रात्रविधिः"
 पृ॒ष्ठैर् ए॒व ऋ॒र्तून् अ॒न्वारो॑हन्ति +ऋ॒तुभि॑स् सव्ँवथ्स॒रम् ।  
 ते स॑व्ँवथ्स॒र ए॒व प्रति॑ तिष्ठन्ति ।
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
 <details open><summary><h3>बृहद्-रथन्तर-यानम् ...{Loading}...</h3></summary>
 
 
@@ -34,7 +34,7 @@ title = "०१ षड्रात्रविधिः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
 <details open><summary><h3>९-१५-१७-विधानम् ...{Loading}...</h3></summary>
 
 
@@ -50,7 +50,7 @@ There is a Saptadaça (Stoma), for the obtainment of food; verily also he gains 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
 <details open><summary><h3>२१-२७ विधानम् ...{Loading}...</h3></summary>
 
 
@@ -59,7 +59,7 @@ There is a Saptadaça (Stoma), for the obtainment of food; verily also he gains 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/2/01_ShaDrAtravidhiH/33-vidhAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/33-vidhAnam.md">
 <details open><summary><h3>३३-विधानम् ...{Loading}...</h3></summary>
 
 

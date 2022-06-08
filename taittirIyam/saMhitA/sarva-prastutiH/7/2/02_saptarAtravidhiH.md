@@ -15,7 +15,7 @@ title = "०२ सप्तरात्रविधिः"
 स॒प्त॒रा॒त्रो भ॑वति ।
 स॒प्त ग्रा॒म्याᳶ प॒शवः॑ +++(गोऽजाऽऽश्वाऽऽविक-पुरुष-गर्दभोष्ट्राः)+++ । स॒प्तार॒ण्याः +++(द्विखुर-श्वापद-पक्षि-सरीसृप-हस्ति-मर्कटादयः)+++। स॒प्त छन्दाꣳ॑सि +++(गायत्र्युष्णिगनुष्टुब्बृहतीपङ्क्तित्रिष्टुब्जगत्यः)+++। उ॒भय॒स्य +++(पशूनां छन्दसां च)+++ अव॑रुद्ध्यै ।
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
 <details open><summary><h3>९-१५-१७-विधानम् ...{Loading}...</h3></summary>
 
 
@@ -31,7 +31,7 @@ There is a Saptadaça (Stoma), for the obtainment of food; verily also he gains 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
 <details open><summary><h3>२१-२७ विधानम् ...{Loading}...</h3></summary>
 
 
@@ -40,7 +40,7 @@ There is a Saptadaça (Stoma), for the obtainment of food; verily also he gains 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
 <details open><summary><h3>२५-विधानम् ...{Loading}...</h3></summary>
 
 
@@ -55,7 +55,7 @@ There is an Agnistoma with the Pañcadaça (Stoma), for the gaining of Prajapati
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/brAhmaNam/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
 <details open><summary><h3>विश्वजित्-विधानम् ...{Loading}...</h3></summary>
 
 
