@@ -22,7 +22,7 @@ ____
 ____
 +++(अन्तर्वेद्यूर्ध्वाग्रं बर्हिस्स्थापयित्वा प्रोक्षति)+++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/11_havirAsanAdiH/dive_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/11_havirAsanAdiH/dive_tvA.md">
 <details open><summary><h2>दिवे त्वा ...{Loading}...</h2></summary>
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 

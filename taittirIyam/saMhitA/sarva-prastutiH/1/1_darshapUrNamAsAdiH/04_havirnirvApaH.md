@@ -47,7 +47,7 @@ ____
 ____
 +++(निर्वपति)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h2>देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -78,7 +78,7 @@ with the hands of Pusan.
 - अ॒ग्नये॒ जुष्ट॒न्निर्व॑पामि ।    
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h2>देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 

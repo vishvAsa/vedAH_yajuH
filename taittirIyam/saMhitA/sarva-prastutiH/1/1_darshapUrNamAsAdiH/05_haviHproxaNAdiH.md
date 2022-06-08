@@ -3,7 +3,7 @@ title: ०५ हविःप्रोक्षणादिः
 
 ---
 +++(अप उत्पुनाति)+++  
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/Rk/1/1_darshapUrNamAsAdiH/devo_vas_savitotpunAtu.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarva-prastutiH/1/1_darshapUrNamAsAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h4>देवो वस् सविता ...{Loading}...</h4></summary>
 
 दे॒वो व॑स् सवि॒तोत्पु॑ना॒त्व्  

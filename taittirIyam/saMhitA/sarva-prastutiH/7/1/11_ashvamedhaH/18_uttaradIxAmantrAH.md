@@ -114,7 +114,7 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 
 +++(उत्सृष्टे चतुर्षु पत्सु चतस्र आहुतीर्जुहोति)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/yajuH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
 <details open><summary><h2>इह धृतिः ...{Loading}...</h2></summary>
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
