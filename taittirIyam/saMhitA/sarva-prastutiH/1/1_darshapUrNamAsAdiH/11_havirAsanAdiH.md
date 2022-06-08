@@ -37,8 +37,14 @@ ____
 अन्तरि॑ख्षाय त्वा।  
 पृ॒थि॒व्यै त्वा᳚।
 
-[संयुक्तमन्त्रः－ दि॒वे त्वा॒ऽन्तरि॑ख्षाय त्वा पृथि॒व्यै त्वा ]
 </details>
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+－ दि॒वे त्वा॒ऽन्तरि॑ख्षाय त्वा पृथि॒व्यै त्वा 
+</details>
+
+
 <details><summary>Keith</summary>
 
 To sky thee, to atmosphere thee, to earth thee!
