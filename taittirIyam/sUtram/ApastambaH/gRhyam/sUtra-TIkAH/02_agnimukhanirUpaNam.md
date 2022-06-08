@@ -1,12 +1,12 @@
 +++
-title = "०२ अग्निमुख्निरूपणम्"
+title = "०२ अग्निमुखनिरूपणम्"
 
 +++
 
 
 ## ०१ १२ अग्निमिध्वा
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_12_agnimidhvA.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_12_agnimidhvA.md">
 <details open><summary><h3>०१ १२ अग्निमिध्वा ...{Loading}...</h3></summary>
 
 
@@ -14,14 +14,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_12_agnimidhvA.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/01_12_agnimidhvA.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_12_agnimidhvA.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/01_12_agnimidhvA.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 एवं प्रयोगानुबन्धं कालादिकम् उक्त्त्वा, इदानीं सर्व-गार्ह्य-प्रधान-होमानां साधारण-तन्त्र-नामानं प्राच्योदीच्याङ्ग-समुदायं प्रयोज्य-भेदम् आह– "अग्निमिध्वा"इत्यादि" मन्त्र सन्नामः" (आप.गृ.२–८. ) इत्यन्तेन ।
@@ -29,7 +29,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/01_12_agnimidhvA.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/01_12_agnimidhvA.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 12. [^3]  Having set the fire in a blaze, he strews eastward-pointed Darbha grass around it,
@@ -42,14 +42,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०१ १३ प्रागुदगग्रैर्वा उक्ताः
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_13_prAgudagagrairvA_uktAH.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_13_prAgudagagrairvA_uktAH.md">
 <details open><summary><h3>०१ १३ प्रागुदगग्रैर्वा उक्ताः ...{Loading}...</h3></summary>
 
 प्रागुदगग्रैर्वा।
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_13_prAgudagagrairvA_uktAH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/01_13_prAgudagagrairvA_uktAH.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 उक्ताः पाकयज्ञपरिभाषाः अथ तेषां साधारणतन्त्रं वक्ष्यते– अग्निमिध्वेति ।
@@ -69,7 +69,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_13_prAgudagagrairvA_uktAH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/01_13_prAgudagagrairvA_uktAH.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 अत्र च अग्निपदार्थविशेषप्रतिपत्त्यर्थं स्मार्तेष्वग्निर्निरूप्यते ।
@@ -121,7 +121,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 केचित्–अतन्त्रकेष्वपि कर्मस्वग्निः परिस्तीर्य एवेति नियमार्थमिति ॥१३॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/01_13_prAgudagagrairvA_uktAH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/01_13_prAgudagagrairvA_uktAH.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 13. Or eastward-pointed and northward-pointed (grass);
@@ -131,27 +131,27 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०१ १४ दक्षिणाग्रैः पित्र्येषु
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_14_daxiNAgraiH_pitryeShu.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_14_daxiNAgraiH_pitryeShu.md">
 <details open><summary><h3>०१ १४ दक्षिणाग्रैः पित्र्येषु ...{Loading}...</h3></summary>
 
 दक्षिणाग्रैः पित्र्येषु।
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_14_daxiNAgraiH_pitryeShu.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/01_14_daxiNAgraiH_pitryeShu.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_14_daxiNAgraiH_pitryeShu.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/01_14_daxiNAgraiH_pitryeShu.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/01_14_daxiNAgraiH_pitryeShu.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/01_14_daxiNAgraiH_pitryeShu.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 14. Southward-pointed at sacrifices to the Fathers,
@@ -161,20 +161,20 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०१ १५ दक्षिणाप्रागग्रैर्वा तत्र
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md">
 <details open><summary><h3>०१ १५ दक्षिणाप्रागग्रैर्वा तत्र ...{Loading}...</h3></summary>
 
 दक्षिणाप्रागग्रैर्वा।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 तत्र दक्षिणाग्राः पश्चात् पुरस्ताच्च ॥१५॥
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 पित्र्येषु मासिश्राद्धादिषु कर्मसु सर्वासु दिक्षु दक्षिणाग्रैः परिस्तृणाति ॥ १४ ॥
@@ -184,7 +184,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 तथा प्रागुपक्रम्य प्रसव्यं परिस्तृणाति ॥१५॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/01_15_daxiNAprAgagrairvA_tatra.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 15. Or southward-pointed and eastward-pointed.
@@ -194,7 +194,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०१ १६ उत्तरेणाग्निन्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_16_uttareNAgnin.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_16_uttareNAgnin.md">
 <details open><summary><h3>०१ १६ उत्तरेणाग्निन् ...{Loading}...</h3></summary>
 
 
@@ -215,7 +215,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_16_uttareNAgnin.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/01_16_uttareNAgnin.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 परिस्तरणानन्तरं अग्नेरुत्तरतः पात्रप्रयोगार्थं दर्भान् प्रागग्रान् संस्तृणाति ।
@@ -237,7 +237,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_16_uttareNAgnin.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/01_16_uttareNAgnin.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 अग्नेरुत्तरतोऽदूरेण दर्भान् संस्तृणाति ।
@@ -256,7 +256,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 तत्रोभयत्रापि देवपात्राणां दध्यादीनां द्वन्द्वतासिद्ध्यर्थत्वात् ॥१६॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/01_16_uttareNAgnin.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/01_16_uttareNAgnin.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 16. To the north of the fire he strews Darbha grass and (on that) he places the vessels (required for sacrifice) upside-down, two by two, if referring to ceremonies directed to the gods,
@@ -266,14 +266,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०१ १७ सकृदेव मनुष्यसंयुक्तानि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_17_sakRdeva_manuShyasaMyuktAni.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_17_sakRdeva_manuShyasaMyuktAni.md">
 <details open><summary><h3>०१ १७ सकृदेव मनुष्यसंयुक्तानि ...{Loading}...</h3></summary>
 
 सकृदेव मनुष्यसंयुक्तानि।
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_17_sakRdeva_manuShyasaMyuktAni.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/01_17_sakRdeva_manuShyasaMyuktAni.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 यानि मनुष्यसंयुक्तानि पात्राणि तानि सकृदेव प्रयुनक्ति, न द्वन्द्वम् ।
@@ -285,14 +285,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_17_sakRdeva_manuShyasaMyuktAni.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/01_17_sakRdeva_manuShyasaMyuktAni.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 **मनुष्यसंयुक्तानि** मनुष्यद्वारा संयुक्तानि अश्मवासोमेखलादीनि सकृदेव क्रियाभ्यावृत्तिपरिहारेण प्रयुनक्ति, पात्रबहुत्वेऽप्युपायेन ।
 केचित्–मनुष्यसंस्कारकर्मसु दर्व्यादीन्यपि सकृदेवेति ॥१७॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/01_17_sakRdeva_manuShyasaMyuktAni.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/01_17_sakRdeva_manuShyasaMyuktAni.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 17. All at once, if to men,
@@ -302,27 +302,27 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०१ १८ एकैकशः पितृसंयुक्तानि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_18_ekaikashaH_pitRsaMyuktAni.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_18_ekaikashaH_pitRsaMyuktAni.md">
 <details open><summary><h3>०१ १८ एकैकशः पितृसंयुक्तानि ...{Loading}...</h3></summary>
 
 एकैकशः पितृसंयुक्तानि।
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_18_ekaikashaH_pitRsaMyuktAni.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/01_18_ekaikashaH_pitRsaMyuktAni.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 यानिपितृकर्मसंयुक्तानि तान्येकैकशः प्रयुनक्ति एकमेकमित्यर्थः ॥१८॥
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_18_ekaikashaH_pitRsaMyuktAni.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/01_18_ekaikashaH_pitRsaMyuktAni.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 पितृकर्मार्थानि दर्व्यादीनि स्वधापात्रादीनि च एकमेकं प्रयुनक्ति ॥१८॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/01_18_ekaikashaH_pitRsaMyuktAni.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/01_18_ekaikashaH_pitRsaMyuktAni.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 18. One by one, if to the Fathers.
@@ -332,14 +332,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०१ १९ पवित्रयोस्सँस्कार आयामतः
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_19_pavitrayossa.NskAra_AyAmataH.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_19_pavitrayossa.NskAra_AyAmataH.md">
 <details open><summary><h3>०१ १९ पवित्रयोस्सँस्कार आयामतः ...{Loading}...</h3></summary>
 
 पवित्रसृष्टिः - पवित्रयोस्संस्कारः, आयामतः +++(=दीर्घ्यतः)+++ परीमाणम्, … इति दर्शपूर्णमासवत्तूष्णीम्। +++(तयोरायामतो यत्परिमाणं दीर्घप्रमाणं प्रादेशमात्रौ।[आप.श्रौ.१११९.] )+++ +++(समावप्रच्छिन्नाग्रौ दर्भौ प्रादेशमात्रौ पवित्रे कुरुते, तृणं काष्ठं वान्तर्धाय छिनत्ति, न नखेन। ततोऽप उपस्पृशेत् - "रौद्रराक्षस" इति परिशिष्टवचना। ततस्तयोर्मूलादारभ्या ऽग्रादद्भिर्मार्जनम् ।)+++ +++(आज्यसंस्काराय प्रोक्षणीसंस्काराय प्रणीताप्रणयनाय च पवित्रयुगलौ अपेक्षितौ। अन्तत एकम् अग्नौ प्रह्रियते, अपरम् पाणौ ध्रियते।)+++
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_19_pavitrayossa.NskAra_AyAmataH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/01_19_pavitrayossa.NskAra_AyAmataH.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 पवित्रयोस्संस्कारः तृणं काष्ठं वेत्येवमादिः ।
@@ -360,7 +360,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_19_pavitrayossa.NskAra_AyAmataH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/01_19_pavitrayossa.NskAra_AyAmataH.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 पवित्रयोस्संस्कारो दर्शपूर्ममासाभ्यां तुल्यं मन्त्रवर्ज कार्यः ।
@@ -386,7 +386,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 उत्तानानि पात्राणि कृत्वेध्मं च विस्रस्य ताभिस्सपवित्रेण पाणिना त्रिः प्रोक्षेत् ॥१९॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/01_19_pavitrayossa.NskAra_AyAmataH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/01_19_pavitrayossa.NskAra_AyAmataH.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 19. [^4]  The preparation of the (blades used as) 'purifiers,' the measure of their length, the preparation of the Prokṣaṇī water, and the sprinkling of the vessels are the same here as at the sacrifices of the new and full moon, (but are performed) in silence.
@@ -399,7 +399,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०१ २० अपरेणाग्निम् पवित्रान्तर्हिते
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_20_apareNAgnim_pavitrAntarhite.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_20_apareNAgnim_pavitrAntarhite.md">
 <details open><summary><h3>०१ २० अपरेणाग्निम् पवित्रान्तर्हिते ...{Loading}...</h3></summary>
 
 
@@ -407,7 +407,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_20_apareNAgnim_pavitrAntarhite.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/01_20_apareNAgnim_pavitrAntarhite.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 पात्रप्रोक्षणानन्तरमपरेणाग्निं प्रणीतायां पवित्रं निधाय तस्मिन्नुदगग्रे पवित्रे अन्तर्धायाप आनीय्य पवित्राभ्यां उदगग्राभ्यां त्रिरुत्पुनाति प्रागपवर्गम् ।
@@ -422,7 +422,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_20_apareNAgnim_pavitrAntarhite.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/01_20_apareNAgnim_pavitrAntarhite.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 अग्नेरदूरेण पश्चात् पवित्रान्तर्हिते कस्मिंश्चित् पात्रेऽप आनीयोदगग्राभ्यां पवित्राभ्यां त्रिरुत्पुनाति ।
@@ -434,7 +434,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 "उत्तरेणाग्निम्" इति तु पात्रव्यवधाननिवृत्त्यर्तम् ॥२०॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/01_20_apareNAgnim_pavitrAntarhite.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/01_20_apareNAgnim_pavitrAntarhite.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 20. [^5]  To the west of the fire he pours water into a vessel over which he has laid (two grass blades called) purifiers, purifies (the water) three times with two northward-pointed purifiers, holds it on a level with his nose and mouth, places it to the north of the fire on Darbha grass, and covers it with Darbha grass.
@@ -447,14 +447,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०१ २१ ब्राह्मणन् दक्षिणतो
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_21_brAhmaNan_daxiNato.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_21_brAhmaNan_daxiNato.md">
 <details open><summary><h3>०१ २१ ब्राह्मणन् दक्षिणतो ...{Loading}...</h3></summary>
 
 ब्रह्म-वरणम् - ब्राह्मणं दक्षिणतो दर्भेषु निषाद्य २१
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_21_brAhmaNan_daxiNato.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/01_21_brAhmaNan_daxiNato.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 प्रकृतत्वादग्नेः दक्षिणतः ।
@@ -464,7 +464,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_21_brAhmaNan_daxiNato.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/01_21_brAhmaNan_daxiNato.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 अग्निमिध्वेति प्रकृतत्वातग्नेर्दक्षिणतो दर्भेषु कंचिद्ब्राह्मणमुपवेशयेत् ।
@@ -479,7 +479,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 "ब्राह्मणं दक्षिणतो निषाद्य" इत्यत्रानुक्तानां मन्त्रादीनां परिसंख्येयं चेति वदतां चोक्तरीत्या स्वार्थपरत्वे सम्भवति दोषत्रत्रययुक्तपरिसंख्याश्रयणं निर्हेतुकम् ॥२१॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/01_21_brAhmaNan_daxiNato.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/01_21_brAhmaNan_daxiNato.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 21. [^6]  On the south side he causes a Brāhmaṇa to sit down on Darbha grass.
@@ -492,14 +492,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०१ २२ आज्यं विलाप्यापरेणाग्निम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_22_AjyaM_vilApyApareNAgnim.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_22_AjyaM_vilApyApareNAgnim.md">
 <details open><summary><h3>०१ २२ आज्यं विलाप्यापरेणाग्निम् ...{Loading}...</h3></summary>
 
 आज्य-संस्कारः - आज्यं विलाप्य, अपरेणाग्निं पवित्रान्तर्हितायाम् आज्यस्थाल्याम् आज्यं निरुप्य, उदीचोऽङ्गारान्निरूह्य, तेष्वधिश्रित्य, ज्वलताऽवद्युत्य, द्वे दर्भाग्रे प्रत्यस्य +++(अनेन वज्रनिभाभ्यां रक्षोनाशः)+++, त्रिः पर्यग्नि कृत्वा +++(अनेन देवेभ्यः प्रतिजानति द्रव्यम्)+++, उदगुद्वास्याङ्गारान् प्रत्यूह्य, उदगग्राभ्यां पवित्राभ्यां पुनराहारं त्रिरुत्पूय +++(अनेन शोधनम्)+++, पवित्रे अनुप्रहृत्य २२
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/01_22_AjyaM_vilApyApareNAgnim.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/01_22_AjyaM_vilApyApareNAgnim.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 अथाज्यसंस्कार तत्र विलापनमाज्यस्य यस्मिन्कस्मिंश्चिदग्नौ भवति उत्तरत्राज्यग्रहणात् ।
@@ -526,7 +526,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/01_22_AjyaM_vilApyApareNAgnim.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/01_22_AjyaM_vilApyApareNAgnim.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 यद्यपि "सर्पिराज्यं प्रतीयात्" (आप.प.१-२५.) इति परिभाषासिद्धं विलापनं, तथापि विलीनमप्याज्यं होमार्थेऽग्नौ कर्मार्थं पुनर्विलापयेत् ।
@@ -553,7 +553,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 इत्यापस्तम्बीये गृह्यप्रश्ने प्रथमः खण्डः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/01_22_AjyaM_vilApyApareNAgnim.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/01_22_AjyaM_vilApyApareNAgnim.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 22. He melts the Ājya, pours it, to the west of the fire, into the Ājya-pot, over which he has laid two purifiers, draws coals (out of the sacrificial fire) towards the mirth, puts (the Ājya) on them, throws light on it by means of a burning (grass-blade), throws two Darbha points into it, moves a firebrand round it three times, takes it from the fire towards the north, sweeps the coals back (into the fire), purifies (the Ājya) three times with two northward-pointed purifiers, moving them backward and forward, and throws the purifiers into the fire.
@@ -563,14 +563,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०२ ०१ येन जुहोति
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_01_yena_juhoti.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_01_yena_juhoti.md">
 <details open><summary><h3>०२ ०१ येन जुहोति ...{Loading}...</h3></summary>
 
 दर्वी-संस्कारः - येन जुहोति, तदग्नौ प्रतितप्य, दर्भैः संमृज्य, पुनः प्रतितप्य, प्रोक्ष्य, निधाय, दर्भान् अद्भिस्संस्पृश्याग्नौ प्रहरति १
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_01_yena_juhoti.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/02_01_yena_juhoti.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 संमार्जनं सुग्वत् ।
@@ -597,7 +597,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/02_01_yena_juhoti.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/02_01_yena_juhoti.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 येन पात्रेण दर्व्या स्रुवेणाञ्जलिना वा जुहोति तदग्नौ प्रतितप्येत्यादि व्यक्तार्थम् ।
@@ -622,7 +622,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 ज्ञापनान्न संस्कार इति ॥१॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/02_01_yena_juhoti.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/02_01_yena_juhoti.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 1. He warms at the fire the implement with which he sacrifices, wipes it off with Darbha blades, warms it again, sprinkles it (with water), puts it down, touches the Darbha blades with water, and throws them into the fire.
@@ -632,14 +632,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०२ ०२ शम्याः परिध्यर्थे
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_02_shamyAH_paridhyarthe.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_02_shamyAH_paridhyarthe.md">
 <details open><summary><h3>०२ ०२ शम्याः परिध्यर्थे ...{Loading}...</h3></summary>
 
 शम्याः परिध्यर्थे परिधिः - शम्याः परिध्यर्थे विवाह+उपनयन-समावर्तन-सीमन्त-चौल-गोदान-प्रायश्चित्तेषु २ +++(अथ परिधीन् परिदधाति। तत आघारसमिधौ।)+++
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_02_shamyAH_paridhyarthe.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/02_02_shamyAH_paridhyarthe.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 अथ परिधीन् परिदधाति ।
@@ -658,7 +658,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/02_02_shamyAH_paridhyarthe.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/02_02_shamyAH_paridhyarthe.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 विवाहादिषु कर्मसु **परिध्यर्थे** परिधीनां कार्ये परिधीनां स्थान इति यावत्, **शम्याः** युगकीलका भवन्ति ।
@@ -674,7 +674,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 "परिधीन् परिदधाति" (तै.ब्रा.३-३-७.) इत्यादि विधानात् तूष्णीं परिदध्यादिति सूत्रकारस्याभिप्राय, "शम्याः परिध्यर्थे" इति सिद्धवत् परिधीनङ्गीकृत्य तत्स्थाने शम्याविधानात्, आचाराच्च ॥२॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/02_02_shamyAH_paridhyarthe.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/02_02_shamyAH_paridhyarthe.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 2. [^1]  As paridhis (or pieces of wood laid round the fire) yoke-pins are used at the marriage, the Upanayana, the Samāvartana, the parting of the (wife's) hair, the tonsure of the child's hair, the cutting of the beard, and at expiatory ceremonies.
@@ -687,7 +687,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०२ ०३ अग्निम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_03_agnim.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_03_agnim.md">
 <details open><summary><h3>०२ ०३ अग्निम् ...{Loading}...</h3></summary>
 
 परिषेचनम् - अग्निं परिषिञ्चत्य् - अदितेऽनुमन्यस्वेति दक्षिणतः प्राचीनम्, अनुमते ऽमुमन्यस्वेति पश्चादुदीचीनं, सरस्वतेऽनुमन्यस्वेत्युत्तरतः प्राचीनं, देव सवितः प्रसुवेति समन्तम् ३  
@@ -723,7 +723,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_03_agnim.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/02_03_agnim.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 परिषेचनमुदकेन पर्युक्षणम् ।
@@ -738,7 +738,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/02_03_agnim.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/02_03_agnim.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 अग्निमेवोदकेन परिषिञ्चति न परिध्याद्यङ्गमपि ।
@@ -756,7 +756,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 अत एवैते मन्त्राः वैश्वदेवकाण्डमुपाकृत्य प्रागुत्सर्जनादध्येतव्याः, ब्रह्मयज्ञपारायणयोश्च ॥३॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/02_03_agnim.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/02_03_agnim.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 3. He sprinkles water round the fire, on the south side from west to east with (the words), 'Aditi, give thy consent!' on the west side from south to north with 'Anumati, give thy consent!' on the north side from west to east with 'Sarasvatī [sic], give thy consent!' all around with 'God Sāvitrī, give thy impulse!'
@@ -766,14 +766,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०२ ०४ पैतृकेषु समन्तमेव
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_04_paitRkeShu_samantameva.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_04_paitRkeShu_samantameva.md">
 <details open><summary><h3>०२ ०४ पैतृकेषु समन्तमेव ...{Loading}...</h3></summary>
 
 पैतृकेषु समन्तमेव तूष्णीम्।
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_04_paitRkeShu_samantameva.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/02_04_paitRkeShu_samantameva.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 अक्रियमाण एवकारे समन्तपरिषेचने मन्त्रप्रतिषेधार्थमेतत् स्यात् ।
@@ -781,14 +781,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/02_04_paitRkeShu_samantameva.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/02_04_paitRkeShu_samantameva.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 पैतृकेषु कर्मसु समन्तमेव परिषिञ्चति, न दक्षिणतः प्राचीनम्' इत्यादि ।
 तच्च तूष्णीम् ॥४॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/02_04_paitRkeShu_samantameva.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/02_04_paitRkeShu_samantameva.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 4. At ceremonies belonging to the Fathers (water is sprinkled) only all round (the fire), silently.
@@ -798,14 +798,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०२ ०५ इध्ममाधायाघारावाघारयति
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_05_idhmamAdhAyAghArAvAghArayati.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_05_idhmamAdhAyAghArAvAghArayati.md">
 <details open><summary><h3>०२ ०५ इध्ममाधायाघारावाघारयति ...{Loading}...</h3></summary>
 
 इध्मः, आघारः - इध्ममाधाय +++(एकविंशतिदारुमिध्मम् [आप.१५.६])+++, आघाराव् +++(आघारनामकौ होमौ द्वौ)+++ आघारयति +++(= दीर्घधारया जुहोति)+++ दर्शपूर्णमासवत्तृष्णीम् ५ +++(उत्तरं परिधिसन्धिमन्ववहृत्य... दक्षिणाप्राञ्चं ऋजुं सन्ततं ज्योतिष्मत्याघारमाघारयन् सर्वाणीध्मकाष्ठानि संस्पर्शयक्ति [आप.श्रौ.२१२७]। दक्षिणं परिधिसन्धिमन्ववहृत्य प्राञ्चमुदञ्चम्ऽ[आप.श्रौ.२१४१] ऋजू प्राञ्चौ होतव्यौ तिर्यञ्चौ वा व्यतिषक्तावव्यातिषक्तौ वाऽ[आप.श्रौ.२१२८]। गार्ह्यपरिभाषामनुसृत्य प्रागपवर्गाभ्यामुदगपवर्गाभ्यां वा दीर्घधाराभ्यां जुहोति, न तु कोणदिगपवर्गाभ्याम् इति तु केचित्।)+++ +++(यत्तूष्णीम् तत्प्राजापत्यम् । (तै.ब्रा.२१४)+++ दर्शपूर्णमासवत्प्रथमस्य प्रजापतिः, द्वितीयस्येन्द्र इति केचित्। )
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_05_idhmamAdhAyAghArAvAghArayati.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/02_05_idhmamAdhAyAghArAvAghArayati.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 इध्म इति समुदायस्योपदेशात् पञ्चदशदारुमिध्मं सकृदेवादधाति ।
@@ -820,7 +820,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/02_05_idhmamAdhAyAghArAvAghArayati.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/02_05_idhmamAdhAyAghArAvAghArayati.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 इध्ममग्नावादधाति ।
@@ -864,7 +864,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 तेनेध्मसन्नहनं परिधिभिस्सहाष्टादशधा, विंशतिधा वा, न पुनरेकविंशतिधा ॥५॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/02_05_idhmamAdhAyAghArAvAghArayati.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/02_05_idhmamAdhAyAghArAvAghArayati.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 5. [^2]  Having put a piece of wood on the fire, he offers the two Āghāra oblations as at the sacrifices of the new and full moon, silently.
@@ -877,7 +877,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०२ ०६ अथाज्यभागौ जुहोत्यग्नये
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_06_athAjyabhAgau_juhotyagnaye.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_06_athAjyabhAgau_juhotyagnaye.md">
 <details open><summary><h3>०२ ०६ अथाज्यभागौ जुहोत्यग्नये ...{Loading}...</h3></summary>
 
 
@@ -885,7 +885,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_06_athAjyabhAgau_juhotyagnaye.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/02_06_athAjyabhAgau_juhotyagnaye.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 अग्नेरुत्तरभाग उत्तरार्धः, पूर्वभागः पूर्वाधः तयोरन्तरालं **उत्तरार्धपूर्वार्धः** ।
@@ -904,7 +904,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/02_06_athAjyabhAgau_juhotyagnaye.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/02_06_athAjyabhAgau_juhotyagnaye.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 अथ आघारानन्तरं अर्थकृत्यमप्यकृत्वाऽऽज्यभागनामकावपूर्वौ होमौ जुहोति ।
@@ -913,7 +913,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 **समं पूर्वेण** आघारसम्भेदमवधिं कृत्वाऽक्ष्णया रज्वा यावत्यन्तरे पूर्वो हुतः तावत्यन्तर एवोत्तरं जुहोति, न पुनस्सन्निकृष्टं विप्रकृष्टं वा ॥६॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/02_06_athAjyabhAgau_juhotyagnaye.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/02_06_athAjyabhAgau_juhotyagnaye.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 6. [^3]  Then he offers the two Ājyabhāga oblations, over the easterly part of the northerly part (of the fire) with (the words), 'To Agni Svāhā!' over the easterly part of the southerly part (another oblation) exactly like the preceding one, with (the words), 'To Soma Svāhā!'
@@ -926,7 +926,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०२ ०७ यथोपदेशम् प्रधानाहुतीर्हुत्वा
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
 <details open><summary><h3>०२ ०७ यथोपदेशम् प्रधानाहुतीर्हुत्वा ...{Loading}...</h3></summary>
 
 उपहोमाः - यथोपदेशं प्रधानाहुतीर्हुत्वा, जयाभ्यातानान् राष्ट्रभृतः प्राजापत्यां व्याहृतीर् विहृताः, सौविष्टकृतीम् इत्य् उपजुहोति - "यदस्य कर्मणोऽत्यरीरिचं यद्वा न्यूनमिहाकरम् । अग्निष्टकृत्स्विष्टकृद्विद्वान्त्सर्वँ स्विष्टं सुहुतं करोतु स्वाहे"ति ७  
@@ -934,7 +934,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 **यथोपदेशमिति** ।
@@ -970,7 +970,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 यथोपदेशं येन हविरादिना विवाहादिषु प्रधानाहुतय उपदिष्टास्तेन तेन विधानेन ता हुत्वा ।
@@ -1014,7 +1014,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 शम्याश्चेत्, अस्मिन् काले अपोह्याः ; "अथ शम्या अपोह्य" (बौ.गृ. १-४-३७.) इति बोधायनवचनात्, आचाराच्च ॥७॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 7. [^4]  Having offered the chief oblations (belonging to each sacrifice) according to prescription, he adds the following oblations, viz. the Jaya, Abhyātāna, Rāṣṭrabhṛt oblations, the oblation to Prajāpati, the Vyāhṛtis one by one, the oblation to (Agni) Sviṣṭakṛt with (the following formula), 'What I have done too much in this ceremony, or what I have done here too little, all that may Agni Sviṣṭakṛt, he who knows, make well sacrificed and well offered. Svāhā!'
@@ -1027,14 +1027,14 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०२ ०८ पूर्ववत् परिषेचनमन्वमँस्थाः
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md">
 <details open><summary><h3>०२ ०८ पूर्ववत् परिषेचनमन्वमँस्थाः ...{Loading}...</h3></summary>
 
 अग्नेरुत्तरं परिषेचनम् - पूर्ववत्परिषेचनमन्वमंस्थाः प्रासावीरिति मन्त्रसन्नामः ॥ +++(अत्र श्रौतवत्प्रणीता विमुञ्चति तूष्णीम् - कृतकार्याणामासां प्रतिपत्त्यपेक्षत्वात्। ब्राह्मणश्च यथाशक्ति दानमानादिना सत्कृतो गच्छेत् ॥)+++  
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 **पूर्ववदिति** ।
@@ -1053,7 +1053,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 अग्नि**परिषेचनं पूर्ववत्** ।
@@ -1080,7 +1080,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 पित्र्येषु तु "एकैकशः पितृसंयुक्तानि" (आप.गृ.१-१८.) इत्यादिविशेषविधानात् तन्त्रसिद्धिरिति ॥८॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 8. [^5]  The sprinkling (of water) round (the fire is repeated) as above; the Mantras are altered so as to say, 'Thou hast given thy consent,' 'Thou hast given thy impulse.'
@@ -1093,7 +1093,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०२ ०९ लौकिकानाम् पाकयज्ञशब्दः
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_09_laukikAnAm_pAkayajnashabdaH.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_09_laukikAnAm_pAkayajnashabdaH.md">
 <details open><summary><h3>०२ ०९ लौकिकानाम् पाकयज्ञशब्दः ...{Loading}...</h3></summary>
 
 लौकिकानां पाकयज्ञशब्दः ॥  
@@ -1102,7 +1102,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_09_laukikAnAm_pAkayajnashabdaH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/02_09_laukikAnAm_pAkayajnashabdaH.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 लोके भवा **लौकिकाः** लोकस्मृतिलक्षणा इत्यर्थः ।
@@ -1115,7 +1115,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/02_09_laukikAnAm_pAkayajnashabdaH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/02_09_laukikAnAm_pAkayajnashabdaH.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 लोकयन्ति वेदैर्वेदार्थानिति लोकाः त्रैविद्यवृद्धाः शिष्टाः द्विजन्मानः ।
@@ -1127,7 +1127,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 देवतास्तु तत्तन्मन्त्रप्रतिपाद्या एव ॥१०॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/02_09_laukikAnAm_pAkayajnashabdaH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/02_09_laukikAnAm_pAkayajnashabdaH.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 9. The designation 'Pākayajña' is used of ceremonies connected with worldly life.
@@ -1137,7 +1137,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०२ १० तत्र ब्राह्मणावेक्षो
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_10_tatra_brAhmaNAvexo.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_10_tatra_brAhmaNAvexo.md">
 <details open><summary><h3>०२ १० तत्र ब्राह्मणावेक्षो ...{Loading}...</h3></summary>
 
 तत्र ब्राह्मणावेक्षो विधिः। 
@@ -1146,20 +1146,20 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_10_tatra_brAhmaNAvexo.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/02_10_tatra_brAhmaNAvexo.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 +++(सम्पादकटिप्पनी - सूत्रमिदम् अग्रिमे व्याख्यातम् ।)+++
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/02_10_tatra_brAhmaNAvexo.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/02_10_tatra_brAhmaNAvexo.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 +++(सम्पादकटिप्पनी - सूत्रमिदम् अग्रिमे व्याख्यातम् ।)+++
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/02_10_tatra_brAhmaNAvexo.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/02_10_tatra_brAhmaNAvexo.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 10. [^6]  There the ritual based on the Brāhmaṇa (holds good),
@@ -1172,7 +1172,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 ## ०२ ११ द्विर्जुहोति द्विर्निमार्ष्टि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_11_dvirjuhoti_dvirnimArShTi.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_11_dvirjuhoti_dvirnimArShTi.md">
 <details open><summary><h3>०२ ११ द्विर्जुहोति द्विर्निमार्ष्टि ...{Loading}...</h3></summary>
 
 
@@ -1180,7 +1180,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhnirUpaNam/02_11_dvirjuhoti_dvirnimArShTi.md">
+<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/02_agnimukhanirUpaNam/02_11_dvirjuhoti_dvirnimArShTi.md">
 <details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
 
 तत्र तेषु पाकयज्ञेष्वपरो विधिर्ब्रह्मणावेक्ष इत्याचक्षते ।
@@ -1210,7 +1210,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhnirUpaNam/02_11_dvirjuhoti_dvirnimArShTi.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/02_agnimukhanirUpaNam/02_11_dvirjuhoti_dvirnimArShTi.md">
 <details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
 
 तत्र तेषु पाकयज्ञेषु मध्ये पार्वणादिषु पञ्चसु ब्राह्मणावेक्षो विधिर्भवति ।
@@ -1242,7 +1242,7 @@ title = "०२ अग्निमुख्निरूपणम्"
 तन्न ; तेषां मनुष्यसंस्कारार्थत्वेन अप्राधान्यात् प्रधानवाचियज्ञशब्दवाच्यत्वानुपपत्तेः ॥११॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhnirUpaNam/02_11_dvirjuhoti_dvirnimArShTi.md">
+<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/02_agnimukhanirUpaNam/02_11_dvirjuhoti_dvirnimArShTi.md">
 <details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
 
 11. [^7]  (To which the words allude), 'He sacrifices twice; he wipes off (his hand) twice; he partakes twice (of the sacrificial food); having gone away he sips (out of the Sruc) and licks off (the Sruc).'
