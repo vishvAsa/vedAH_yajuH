@@ -63,8 +63,6 @@ title = "१२ अश्वनामवाचनाद्यङ्गमन्�
 4सायमश्वस्य पत्सु चतस्रो धृतीर्जुहोति - इह धृतिरित्यादि ॥
 </details>
 
-### मन्त्रः
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
 <details open><summary><h2>इह धृतिः ...{Loading}...</h2></summary>
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
