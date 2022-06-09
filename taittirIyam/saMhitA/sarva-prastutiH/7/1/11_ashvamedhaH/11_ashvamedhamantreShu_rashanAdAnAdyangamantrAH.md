@@ -69,10 +69,12 @@ Thou art surrounding; thou art the world; thou art the restrainer; thou art the 
 </details>
 
 
-### मन्त्रः
+<details open><summary>विश्वासप्रस्तुतिः</summary>
+
 सो᳚ऽग्निव्ँ वै᳚श्वान॒रꣳ सप्र॑थसङ्+++(=सविस्तरं)+++ गच्छ॒ स्वाहा॑कृतः ।  
 पृ॒थि॒व्याय्ँ य॒न्ता राड्+++(=दीप्यमानः)+++ य॒न्ताऽसि॒  
 यम॑नो+++(=यमसाधनभूतः)+++, ध॒र्तासि॑ ध॒रुणः॑ ॥
+</details>
 
 <details><summary>Keith</summary>
 
