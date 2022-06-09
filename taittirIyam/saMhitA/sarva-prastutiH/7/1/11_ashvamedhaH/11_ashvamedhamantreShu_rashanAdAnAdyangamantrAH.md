@@ -34,8 +34,15 @@ with the hands of Pusan.
 </details>
 </div>  
 
-### मन्त्रः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आ द॑दे ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ द॑दे ।
+</details>
 
 <details open><summary>विश्वासप्रस्तुतिः</summary>
 
