@@ -1,4 +1,6 @@
 +++
-title = "+१"
-unicode_script = "devanagari"
+title = "+प्रपाठकः १"
+
 +++
+*सोममन्त्रब्राह्मणनिरूपणम्*
+
