@@ -1,4 +1,3 @@
-+++
-title = "+२"
-unicode_script = "devanagari"
-+++
+---
+title: +काण्डः २
+---
