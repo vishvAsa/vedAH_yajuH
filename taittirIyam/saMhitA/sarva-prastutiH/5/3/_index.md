@@ -1,4 +1,4 @@
 +++
-title = "+३"
-unicode_script = "devanagari"
+title = "+प्रपाठकः ३"
+
 +++

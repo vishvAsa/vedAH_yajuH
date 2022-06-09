@@ -1,4 +1,3 @@
-+++
-title = "+३"
-unicode_script = "devanagari"
-+++
+---
+title: +काण्डः 3
+---
