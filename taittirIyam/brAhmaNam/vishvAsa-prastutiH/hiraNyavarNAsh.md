@@ -1,4 +1,3 @@
-+++
 title = "०६ हिरण्यवर्णाश् शुचयः"
 unicode_script = "devanagari"
 
