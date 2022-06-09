@@ -51,7 +51,6 @@ May it guide us safely according as we will.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये दे॒वा मनो॑जाता मनो॒युज॑स्  
@@ -81,7 +80,6 @@ To them honour! to them hail!
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने॒ त्वꣳ सु जा॑गृहि।  
@@ -111,7 +109,6 @@ Grant to us to wake again.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वम् अ॑ग्ने व्रत॒पा अ॑सि  
@@ -140,7 +137,6 @@ _____
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वे॑ दे॒वा अ॒भि मा मा ऽव॑वृत्रन्+++(=अववर्तन्ताम्)+++ +++(- अपि तु प्रत्यावर्तन्ताम्)+++ -  
@@ -168,7 +164,6 @@ The god Savitr the giver of brightness.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रास्वेय॑थ्+++(त्)+++ सो॒मा ऽऽभूयो॑  
@@ -196,7 +191,6 @@ Let me not be parted with life.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च॒न्द्रम्+++(=ह्लादकम्)+++ अ॑सि ।  
@@ -222,7 +216,6 @@ be for my enjoyment.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वस्त्र॑म्+++(=आच्छादनम्)+++ असि।  
@@ -248,7 +241,6 @@ be for my enjoyment.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(क्षीरादिप्रदानेन)+++ उ॒स्रा+++(=वासहेतुः)+++ ऽसि॑ ।  
@@ -272,7 +264,6 @@ be for my enjoyment.
 
 </details>
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हयो॑ऽसि ।  
@@ -295,7 +286,6 @@ _____
 
 </details>
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे अज!)+++ छागो॑+++(=छेदगो)+++ ऽसि ।  
@@ -317,7 +307,6 @@ _____
 
 </details>
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मे॒षो॑ +++(=अभिभविता)+++ ऽसि ।  
@@ -341,7 +330,6 @@ Thou art a ram; be for my enjoyment.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒यवे᳚ त्वा +++(ऽनुदिशामि)+++।+++(र५)+++
@@ -364,7 +352,6 @@ To Vayu thee
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णाय त्वा  +++(ऽनुदिशामि)+++।
@@ -387,7 +374,6 @@ to Varuna thee
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्ऋ॑त्यै त्वा +++(ऽनुदिशामि)+++।
@@ -410,7 +396,6 @@ to Nirrti thee
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रु॒द्राय॑ त्वा  +++(ऽनुदिशामि)+++।+++(र५)+++
@@ -435,7 +420,6 @@ to Rudra thee!
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवी॑र् आपो अपान्नपा॒द्+++(=जलाग्निः, अपां नप्ता)+++ य ऊ॒र्मि-ह॑वि॒ष्यः॑ ।  
@@ -455,7 +439,6 @@ That stream of yours may I not step upon.
 
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(युष्मत्प्रसादाद् अहं यज्ञारूपम्)+++ अच्छि॑न्न॒न् तन्तु॑म् पृथि॒व्या +++(सेतुम्)+++ अनु॑ गेषम्+++(=गच्छेयम्)+++।  
@@ -482,7 +465,6 @@ Along an unbroken web of earth may I go.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भद्राद् अ॒भि श्रेय॒ᳶ प्रेहि॑  ।  
@@ -510,7 +492,6 @@ May Brhaspati be thy leader
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(देवयजनात् परम्)+++ अथ॑+ई॒म् अव॑स्य॒+++(=अवसितो भव)+++ वर॒ +++(प्रदेशे)+++ आ पृ॑थि॒व्याः।
@@ -533,7 +514,6 @@ Then set him free, on the chosen spot of earth.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒रे+++(=दूरे)+++ शत्रू᳚न् कृणुहि॒ सर्व॑वीर+++(<-बहुव्रीहिः)+++ ।
@@ -557,7 +537,6 @@ Drive afar the foes with all thy strength.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ+इ॒दम् अ॑गन्म देव॒यज॑नम् +++(स्थानं)+++ पृथि॒व्या   

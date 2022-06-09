@@ -12,7 +12,6 @@ short_title = "०४"
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(स्रुग्)+++ इ॒यन् ते॑ शुक्र+++(=शुद्ध [हिरण्य])+++-त॒नूः , इ॒दव्ँ वर्चः॑, तया॒ सम्भ॑व ।  
@@ -38,7 +37,6 @@ Win brightness.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जूर्+++(=गन्त्री [सोमक्रयणि वाग्-रूपे गौः])+++ अ॑सि, धृ॒ता मन॑सा, जुष्टा॒ विष्ण॑वे,   
@@ -64,7 +62,6 @@ In the impulse of thee, of true impulse, may I win a support for my speech. Hail
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शु॒क्रम्+++(=दीप्तिमान्)+++ अ॑सि ।  
@@ -91,7 +88,6 @@ thou art the sacrifice for all the gods.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूर्य॑स्य॒ चख्षु॒र् आ ऽरु॑हम्  
@@ -121,7 +117,6 @@ Blazing with the wise.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोमक्रयणि वाग्-रूपे।)+++  
@@ -151,7 +146,6 @@ thou art Aditi, double-headed.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा नः॑ +++(सोमक्रयणे)+++ सुप्रा॑ची॒ +++(ततः प्रत्यामननेन)+++ सुप्र॑तीची सम्भ॑व ।  
@@ -167,7 +161,6 @@ Be thou successful for us in going, successful in returning.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मि॒त्रस् त्वा॑ प॒दि+++(=पादे)+++ ब॑ध्नातु ।  
@@ -182,7 +175,6 @@ May Mitra bind thee by the foot.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पू॒षा ऽध्व॑नᳶ +++(भयहेतोः)+++ पातु ।  
@@ -197,7 +189,6 @@ May Pusan guard the ways.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रा॒याध्य॑ख्षा॒यानु॑ त्वा मा॒ता म॑न्यताम्, अनु॑+++(मन्यताम्)+++ पि॒ता, अनु॒+++(मन्यताम्)+++ भ्राता॒ सग॑र्भ्यः, अनु॒ +++(मन्यतां)+++ सखा॒ सयू᳚थ्यः।  
@@ -213,7 +204,6 @@ May thy mother approve thee, thy father, thy brother sprung of the same womb, th
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा दे॑वि दे॒वम् अच्छे॒हीन्द्रा॑य॒ सोम॑म् ।  
@@ -229,7 +219,6 @@ Go, goddess, to the god, to Soma for Indra's sake.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रु॒द्रस् त्वा ऽऽव॑र्तयतु +++(कृतकृत्यानस्मान्प्रति)+++ मि॒त्रस्य॑ प॒था।  
@@ -245,7 +234,6 @@ May Rudra guide thee hither in the path of Mitra.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व॒स्ति सोम॑-सखा॒ पुन॒र् एहि॑ स॒ह र॒य्या ॥+++(5)+++

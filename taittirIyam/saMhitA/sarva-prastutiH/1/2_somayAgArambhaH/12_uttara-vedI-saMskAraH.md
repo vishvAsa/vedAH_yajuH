@@ -13,7 +13,6 @@ short_title = "१२ उत्तरवेदीसंस्कारः"
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे भूमे!)+++ वि॒त्ताय॑नी मेऽसि।  
@@ -44,7 +43,6 @@ protect me when afflicted.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि॒देर् - अ॒ग्निर् नभो॒ +++(इति ते)+++ नाम॑+अग्ने॑ अङ्गिरो॒ यो᳚ ऽस्याम् पृ॑थि॒व्याम् असि ।
@@ -67,7 +65,6 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयु॑षा॒ नाम्नेहि॑ ।  
@@ -90,7 +87,6 @@ come with the name of Ayus
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् ते ऽना॑धृष्ट॒न् नाम॑ य॒ज्ञिय॒न् +++(नभ इति)+++ तेन॒ त्वा ऽऽद॑धे ।  
@@ -113,7 +109,6 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वि॒देर् - अ॒ग्निर् नभो॒ +++(इति ते)+++ नाम॑+] अग्ने॑ अङ्गिरो॒ यो द्वि॒तीय॑स्यां  [पृ॑थि॒व्याम् +++(अन्तरिक्षे)+++ असि ।  
@@ -139,7 +134,6 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second ea
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वि॒देर् - अ॒ग्निर् नभो॒ +++(इति ते)+++ नाम॑+] अग्ने॑ अङ्गिरो॒ यस् तृ॒तीय॑स्याम्  [पृ॑थि॒व्याम् +++(दिव्य्)+++ असि ।  
@@ -165,7 +159,6 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third ear
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे उत्तरवेदे!)+++ सि॒ꣳ॒हीर् अ॑सि ।  
@@ -190,7 +183,6 @@ thou art a buffalo.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उरु+++(=विस्तृतं)+++ प्र॑थस्वो॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथताम् ।
@@ -214,7 +206,6 @@ Extend wide; let the lord of the sacrifice extend wide for thee.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवाऽसि॑ ।
@@ -239,7 +230,6 @@ Thou art firm.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वेभ्य॑श् शुन्धस्व ।
@@ -263,7 +253,6 @@ Be pure for the gods.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वेभ्य॑श् शुम्भस्व+++(←शुभ शुम्भ शोभनार्थे)+++ ।
@@ -287,7 +276,6 @@ be bright for the gods.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(स्तनयित्नुः)+++ इ॒न्द्र॒-घो॒षस् त्वा॒ वसु॑भिᳶ +++(सह)+++ पु॒रस्ता᳚त् पातु ।
@@ -310,7 +298,6 @@ May the cry of Indra guard thee in front with the Vasus;
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यमः)+++ मनो॑जवास् त्वा पि॒तृभि॑र्  +++(सह)+++  दख्षिण॒तᳶ पा॑तु ।
@@ -333,7 +320,6 @@ may the swift of mind guard thee on the right with the Pitrs;
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रचे॑तास् त्वा रु॒द्रैᳶ  +++(सह)+++  प॒श्वात्पा॑तु ।
@@ -356,7 +342,6 @@ may the wise one guard thee behind with the Rudras;
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्वष्टा)+++ वि॒श्वक॑र्मा त्वा ऽऽदि॒त्यैर्  +++(सह)+++  उ॑त्तर॒तᳶ पा॑तु ।
@@ -380,7 +365,6 @@ may Viçvakarman guard thee on the left with the Adityas.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सि॒ꣳ॒हीर् अ॑सि, सपत्न-सा॒ही स्वाहा॑ ।
@@ -403,7 +387,6 @@ Thou art a lioness, overcoming rivals; hail!
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सि॒ꣳ॒हीर् अ॑सि, सुप्रजा॒-वनि॒स्+++(=काङ्क्षा)+++ स्वाहा॑ ।
@@ -426,7 +409,6 @@ Thou art a lioness, bestowing fair offspring; hail!
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सि॒ꣳ॒हीर् अ॑सि, रायस्+++(←छान्दसष् षष्ठ्या अलुक्)+++-पोष॒-वनि॒स्+++(=काङ्क्षा)+++ स्वाहा॑ ।
@@ -449,7 +431,6 @@ Thou art a lioness, [2] bestowing increase of wealth; hail!
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सि॒ꣳ॒हीर् अ॑स्य्, आदित्य॒-वनि॒स्+++(=काङ्क्षा)+++ स्वाहा॑ ।
@@ -472,7 +453,6 @@ Thou art a lioness, winning (the favour of) the Adityas hail!
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सि॒ꣳ॒हीर् अ॑सि । आ व॑ह दे॒वान् , देवय॒ते+++(=देवान् कामयमानाय)+++ यज॑मानाय॒ स्वाहा॑ ।
@@ -496,7 +476,6 @@ Thou art a lioness; bring the gods to the pious sacrificer; hail!
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू॒तेभ्य॑स् त्वा +++(उद्गृह्णामि)+++।
@@ -521,7 +500,6 @@ _____
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि॒श्वायु॑र् असि। पृथि॒वीन् दृꣳ॑ह+++(=दृढीकुरु)+++ ।
@@ -549,7 +527,6 @@ thou restest inviolable, strengthen the heaven.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नेर्  +++(भस भर्त्सनदीप्त्योः→)+++भस्मा᳚सि । अ॒ग्नेᳶ +++(भस्मवद् दीप्तिसाधनं)+++ पुरी॑षम् असि ॥

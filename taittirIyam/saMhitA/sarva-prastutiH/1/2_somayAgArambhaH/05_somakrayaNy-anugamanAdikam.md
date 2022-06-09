@@ -14,7 +14,6 @@ short_title = "०५"
 </details>
 
 
-#### मन्त्रः
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोमक्रयणि!)+++  
@@ -47,7 +46,6 @@ thou art Candra.
 </details>
 
 
-#### मन्त्रः
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृह॒स्पति॑स् त्वा सु॒म्ने+++(=सुखे)+++ र॑ण्वतु+++(=गमयतु)+++ ।  
@@ -67,9 +65,6 @@ May Rudra with the Vasus be favourable to thee.
 
 तस्मिन् पदे जुहोति।
 </details>
-
-
-#### मन्त्रः
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -153,7 +148,6 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 </details>
 
 
-#### मन्त्रः
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒स्मे+++(=अस्मासु)+++ रायः॑ ।  
@@ -173,7 +167,6 @@ With us be wealth.
 </details>
 
 
-#### मन्त्रः
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वे+++(=त्वयि)+++ रायः॑।
@@ -193,7 +186,6 @@ with thee be wealth.
 </details>
 
 
-#### मन्त्रः
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तोते॒+++(=त्वया ऊते/रक्षिते [गृहे])+++ रायः॑ ।
@@ -215,7 +207,6 @@ thine be wealth.
 </details>
 
 
-#### मन्त्रः
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सं+ दे॑वि +++(सोमक्रयणि!)+++ दे॒व्या+उ॒र्वश्या॑+++(=उरूणि श्रेयांसि अश्नुते या तया [दृष्ट्या])+++ पश्यस्व।
@@ -235,7 +226,6 @@ Gaze, O goddess, together with the goddess Urvaçi.
 </details>
 
 
-#### मन्त्रः
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वष्टी॑+++(=प्रजनन-नैशित्य)+++मती ते सपेय+++(=मिथुनीभवेयम्)+++  

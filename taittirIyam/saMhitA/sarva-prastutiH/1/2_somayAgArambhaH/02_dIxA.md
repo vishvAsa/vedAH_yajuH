@@ -11,7 +11,6 @@ title = "०२ दीक्षा"
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकू᳚त्यै+++(=सङ्कल्पाय)+++ प्र॒युजे॒ ऽग्नये॒ स्वाहा॑ ।  
@@ -41,7 +40,6 @@ To Sarasvati, to Prisan, to Agni, hail!
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपो॑ देवीर् बृहतीर् विश्व-शम्-भुवो॒  
@@ -69,7 +67,6 @@ May Brhaspati rejoice in our oblation, hail!
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वे॑ +++(सवितुः)+++ दे॒वस्य॑ ने॒तुर्,  
@@ -100,7 +97,6 @@ Let him choose glory that he may prosper, hail!
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋख्सा॒मयो॒श् शिल्पे᳚ स्थः।+++(५)+++  
@@ -129,7 +125,6 @@ do ye two [1] protect me until the completion of this sacrifice.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒मान् धिय॒ꣳ॒ शिख्ष॑माणस्य देव॒  
@@ -159,7 +154,6 @@ Whereby we' may pass over all our difficulties.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्ग्॑+++(=बलम्)+++ अस्य् आ॒ङ्गि॒र॒सी +ऊर्ण॑-म्रदा+++(=मृद्वी)+++।  
@@ -189,7 +183,6 @@ harm me not.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णो॒श्+++(=यज्ञस्य)+++ शर्मा॑सि॒, शर्म॒ यज॑मानस्य +++(असि)+++।  
@@ -214,7 +207,6 @@ grant me protection.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे वासः!)+++ नख्ष॑त्राणाम् मा ऽतीका॒शात् +++(छिद्रात्)+++ पा॒हि  ।+++(र४)+++
@@ -238,7 +230,6 @@ Guard me from the lustre of the Naksatras.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्र॑स्य॒ योनि॑र् असि ।  
@@ -263,7 +254,6 @@ Thou art the birthplace of Indra [2]; harm me not.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे पृथिवि!)+++ कृ॒ष्यै त्वा॑ सुस॒स्यायै॑ +++(उद्धरामि)+++।+++(र४)+++
@@ -287,7 +277,6 @@ For ploughing thee, for good crops,
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपिप्प॒लाभ्य॒स्+++(=सुफलेभ्यः)+++ त्वौष॑धीभ्यः +++(कण्डूये)+++।+++(र४)+++
@@ -311,7 +300,6 @@ For the plants with good berries thee!
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे दण्ड!)+++ सु+उ॒प॒स्था दे॒वो वन॒स्पति॑र् ऊ॒र्ध्वो +++(त्वम्)+++ मा॑ पा॒ह्य् ओदृचः+++(=आसमाप्तेः)+++।
@@ -327,7 +315,6 @@ Thou art of easy access, divine tree. Being erect, guard me until the completion
 _____
 </details>
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आर॑भे )+++ स्वाहा॑ ।  

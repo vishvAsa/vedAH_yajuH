@@ -14,7 +14,6 @@ short_title = "१३"
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यु॒ञ्जते॒ मन॑ उ॒त यु॑ञ्जते॒ धियो॒  
@@ -43,7 +42,6 @@ Great is the praise of the god Savitr.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु॒वाग् दे॑व॒ दुर्या॒ꣳ॒+++(=गृहान्)+++ आ व॑द। +++('वरुणो वा एष दुर्वागुभयतो बद्धो यदक्षः' इत्यादि ब्राह्मंणम् ।)+++  
@@ -68,7 +66,6 @@ Ye two, famed among the gods, make proclamation among the gods.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ नो॑ वी॒रो जा॑यताङ् कर्म॒ण्यो॑+++(=कर्मयोग्यः)+++  
@@ -93,7 +90,6 @@ Who shall be ruler over many.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ वि च॑क्रमे  
@@ -120,7 +116,6 @@ Thrice did he set down his foot;
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(द्यावापृथिव्यौ!)+++ इरा॑वती+++(=अन्नवत्यौ)+++ धेनु॒मती॒ हि **भू॒तꣳ**+++(=भवतं)+++  
@@ -149,7 +144,6 @@ He holdeth the earth on all sides with pegs.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे हविर्धाने!)+++ प्राची॒ प्रेत॑म्+++(=गच्छतम्)+++। अ-ध्व॒रङ् क॒ल्पय॑न्ती, ऊ॒र्ध्वय्ँ य॒ज्ञन् न॑यत॒म् - मा जी᳚ह्वरतम्+++(=कुटिलं कार्ष्टम्)+++ ।  
@@ -173,7 +167,6 @@ Come ye two then forward, ordaining the offering; bring upward the sacrifice; do
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र॑ रमेथा॒व्ँ वर्ष्म॑न् पृथि॒व्याः ।
@@ -196,7 +189,6 @@ There rest on the height of the earth.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि॒वो वा॑ +++(हे)+++ विष्णव् उ॒त वा॑ पृथि॒व्या  
@@ -225,7 +217,6 @@ Give to us [2] from right and from left.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णो॒र् नुक॑व्ँ वी॒र्या॑णि॒ प्र वो॑च॒य्ँ  
@@ -254,7 +245,6 @@ Stepping thrice, the far-goer.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णो॑ र॒राट॑म्+++(=ललाटम्)+++ असि ।
@@ -277,7 +267,6 @@ Thou art the forehead of Visnu.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णोः᳚ पृ॒ष्ठम् अ॑सि ।
@@ -300,7 +289,6 @@ Thou art the back of Visnu.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णो॒श् श्नप्त्रे᳚+++(=मुखकोणौ)+++ स्थः ।
@@ -323,7 +311,6 @@ Ye two are the corners' of Visnu's mouth.
 दक्षिणबाहौ कुशम् उपसङ्गृह्य स्यन्द्यां प्रवर्तयति - विष्णोस्स्यूरिति ॥
 </details>
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णो॒स् स्यूर्+++(=सूची)+++ अ॑सि ।
@@ -346,7 +333,6 @@ Thou art the thread of Visnu.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णो᳚र् ध्रु॒वम् अ॑सि ।
@@ -369,7 +355,6 @@ Thou art the fixed point of Visnu.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वै॒ष्ण॒वम् अ॑सि। विष्ण॑वे त्वा +++(अभिमृशामि)+++॥ [27]  

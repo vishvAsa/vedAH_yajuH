@@ -13,7 +13,6 @@ short_title = "०६ सोममानादिकम्"
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ꣳ॒शुना॑ ते अ॒ꣳ॒शुᳶ+++(=सूक्ष्मावयवः)+++ पृ॑च्यता॒म्, परु॑षा॒+++(=पर्वणा)+++ परुः॑+++(=पर्व)+++।  
@@ -46,7 +45,6 @@ thy libation is bright.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒भि त्यन्+++(=तन्)+++ दे॒वꣳ स॑वि॒तार॑म् ऊ॒ण्योः᳚+++(=अवित्र्योः [द्यावापृथिव्योः])+++ क॒विक्र॑तु॒म्  
@@ -76,7 +74,6 @@ The golden-banded sage hath measured the heaven with his form.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाभ्य॑स् त्वा +++(अवशिष्टम् उपसमूहामि)+++।
@@ -100,7 +97,6 @@ For offspring thee!
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा॒णाय॑ त्वा +++(सोमम् उपनह्यामि)+++।
@@ -123,7 +119,6 @@ For expiration thee!
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्या॒नाय॑ त्वा +++(अनुशृन्थामि)+++।
@@ -146,7 +141,6 @@ For cross-breathing thee!
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जास् त्वम् अनु॒ प्राणि॑हि ।  

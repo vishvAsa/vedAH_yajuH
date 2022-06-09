@@ -12,7 +12,6 @@ short_title = "०१ अग्निष्टोमे यजमानस्य
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आप॑ उन्दन्तु+++(=क्लेदयन्तु)+++ जी॒वसे॑ ।  
@@ -38,7 +37,6 @@ For length of days, for glory.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओष॑धे॒ त्राय॑स्वैनम्।  
@@ -62,7 +60,6 @@ O plant, protect him.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वधि॑ते॒+++(=क्षुर)+++! मैनꣳ॑ हिꣳसीः  ।+++(र४)+++  
@@ -86,7 +83,6 @@ Axe, hurt him not.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒व॒श्रूर्+++(=देवनापितः)+++ ए॒तानि॒ प्र व॑पे।  
@@ -111,7 +107,6 @@ Obedient to the gods I shear these.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व॒स्त्य् उत्त॑राण्य् +++(कर्माणि)+++ अशी॒य+++(=व्याप्नुयाम्)+++।+++(र४)+++
@@ -135,7 +130,6 @@ With success may I reach further days.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपो॑ अ॒स्मान् मा॒तर॑श् शुन्धन्तु।+++(र४)+++  
@@ -161,7 +155,6 @@ With ghee let those that purify our ghee purify us.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्व॑म् अ॒स्मत् प्र व॑हन्तु रि॒प्रम्+++(=पापम्)+++ ।+++(र५)+++
@@ -185,7 +178,6 @@ Let them bear from us all pollution.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद् +++(अद्भ्य)+++ आ᳚भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
@@ -210,7 +202,6 @@ Forth from these waters do I come bright, in purity.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोम॑स्य त॒नूर॑सि ।  
@@ -236,7 +227,6 @@ Thou art the body of Soma, guard my body.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मही॒नाम् +++(गवाम्)+++ पयो॑ऽसि ।  
@@ -264,7 +254,6 @@ splendour [1] place in me.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ॒त्रस्य॑ क॒नीनि॑का+++(=अक्षिस्थकृष्ण-मण्डलम्)+++ ऽसि ।    
@@ -292,7 +281,6 @@ guard my eye.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चि॒त्-पति॑स् त्वा पुनातु ।  
@@ -313,7 +301,6 @@ With the rays of the bright sun.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++('यद्धि मनसा ध्यायति तद्वाचा वदति' इति ब्राह्मणम् ।)+++  
@@ -335,7 +322,6 @@ With the rays of the bright sun.
 
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वस् त्वा॑ सवि॒ता पु॑ना॒त्व्  
@@ -363,7 +349,6 @@ With the rays of the bright sun.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य॑ ते पवित्र-पते प॒वित्रे॑ण॒ +++(रश्मिलक्षणेन)+++ यस्मै॒ +++(प्रयोजनाय)+++ कम्+++(=आत्मानम्)+++ पु॒ने, +++(कर्म)+++ तच् छ॑केयम् ।+++(र४)+++
@@ -388,7 +373,6 @@ O lord of the purifier, with thy purifier for whatsoever I purify myself, that m
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ वो॑ देवास ईमहे॒  
@@ -418,7 +402,6 @@ For that we ask you, O holy ones.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रा᳚ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः +++(अनुमन्यध्वम्!)+++।+++(र४)+++
@@ -442,7 +425,6 @@ Indra and Agni, heaven and earth, waters, plants.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वन् दी॒ख्षाणा॒म् अधि॑पतिरसि ।+++(र४)+++
@@ -465,7 +447,6 @@ Thou art the lord of consecrations
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒ह मा॒ सन्त॑म् पाहि ॥  

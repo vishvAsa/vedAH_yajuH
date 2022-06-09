@@ -11,7 +11,6 @@ title = "०७ सोमक्रयः"
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोम॑न् ते क्रीणा॒मि ।  
@@ -42,7 +41,6 @@ to match thy cow.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मे+++(=अस्माकमेव)+++ च॒न्द्राणि॑+++(=हिरण्यानि [न सोमविक्रयिणः])+++ । +++(चन्द्रेण क्रीणामीति तु छलमात्रम् उक्तम् इति । अस्मान् एव हिरण्यं पुनः प्राप्नोत्व् इत्य् अर्थः । )+++  
@@ -66,7 +64,6 @@ With us be the gold.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तप॑सस् त॒नूर् अ॑सि प्र॒जाप॑ते॒र् वर्णः॑+++(=स्वरूपम्)+++।  
@@ -91,7 +88,6 @@ I buy (Soma) with the last offspring of thee that hast a thousandfold prosperity
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒स्मे+++(=वयं)+++ ते॒ बन्धुः॑+++(=बन्धवः)+++ ।  
@@ -114,7 +110,6 @@ With us be union with thee.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयि॑ ते॒ राय॑श् श्रयन्ताम् ।
@@ -137,7 +132,6 @@ with me let thy wealth abide.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मे+++(=अस्माकम्)+++ ज्योतिः॑ ।    
@@ -160,7 +154,6 @@ With us be light.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोमविक्र॒यिणि॒ तमः॑ ।
@@ -186,7 +179,6 @@ darkness be on the Soma-seller.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मि॒त्रो न॒ एहि॒ सुमि॑त्रधाः ।
@@ -209,7 +201,6 @@ Come as a friend to us, creating firm friendships.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्र॑स्यो॒रुम् आ वि॑श॒ दख्षि॑णम्, उ॒शन्न् उ॒शन्त᳚म्+++(=कामयमानं)+++, स्यो॒नस्+++(=सुखस्)+++ स्यो॒नम्।  
@@ -233,7 +224,6 @@ Enter the right thigh of Indra, glad the glad, tender the tender.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(सोमस्य रक्षितारः देवाः!)+++ स्वान॒+++(=शब्दयितः)+++ भ्राजाङ्घा॑रे॒+++(=भ्राज + अघारे)+++ बम्भा॑रे॒+++(=बंभ्रम्यमाणारे)+++ हस्त॒ सुह॑स्त॒ कृशा॑नो  

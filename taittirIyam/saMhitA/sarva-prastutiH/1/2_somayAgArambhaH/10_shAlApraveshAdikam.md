@@ -10,7 +10,6 @@ title = "१० शालाप्रवेशादिकम्"
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नेर् आ॑ति॒थ्यम् अ॑सि॒, +++(सर्वदेवतात्मने)+++ विष्ण॑वे त्वा +++(निर्वपामि)+++ ।  
@@ -44,7 +43,6 @@ for the eagle, bringer of the Soma, thee, for Visnu thee!
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोम)+++ या ते॒ धामा॑नि ह॒विषा॒ यज॑न्ति॒  
@@ -69,7 +67,6 @@ May they all envelop the sacrifice!
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग॒य॒+++(=गृह)+++स्फान॑ᳶ+++(=वर्धयिता)+++ प्र॒तर॑णस् सु॒वीरो  
@@ -96,7 +93,6 @@ Slaying not heroes, O Soma, enter the dwellings.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदि॑त्या॒स् सदो॑ऽसि ।
@@ -119,7 +115,6 @@ Thou art the seat of Aditi.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदि॑त्या॒स् सद॒ आसीद ।
@@ -142,7 +137,6 @@ sit on the seat of Aditi [1]
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(तादात्म्येनाऽधुना)+++ वरु॑णोऽसि धृ॒तव्र॑तो, वारु॒णम् अ॑सि ।  
@@ -167,7 +161,6 @@ Thou art Varuna who guardeth law; thou art of Varuna.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श॒य्ँ+++(=शमनम्)+++ योर्+++(=बन्धनाद्)+++ दे॒वाना॑म् ।
@@ -190,7 +183,6 @@ Be prosperity ours from our friendship with the gods.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒ख्यान् मा दे॒वाना॑म् अ॒पस॑श्+++(=कर्मतः)+++ छिथ्स्महि ।
@@ -213,7 +205,6 @@ May we be not severed from our service of the gods.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे आज्य)+++ आप॑तये+++(आपतततीति→प्राणाय)+++ त्वा गृह्णामि ।  
@@ -244,7 +235,6 @@ for the mightiest in strength I seize thee.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अना॑धृष्टम् असि,   
@@ -269,7 +259,6 @@ the unapproachable might of the gods, guarding from imprecations, impervious to 
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनु॑ मे दी॒ख्षान् दी॒ख्षाप॑तिर् मन्यताम्,  

@@ -9,7 +9,6 @@ title = "११ उपसदाहुत्यन्तम्"
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ꣳ॒शुर् अꣳ॑शुस् ते +++(प्रत्येकः)+++ देव सो॒माऽऽप्या॑यताम् इन्द्रा॑यैक-धन॒विदे।  
@@ -36,7 +35,6 @@ Do thou swell for Indra.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आप्या॑यय॒ सखी᳚न् स॒न्या मे॒धया᳚ ।  
@@ -61,7 +59,6 @@ may I accomplish thy pressing, O god Soma.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे प्रस्तर)+++ एष्टा॒+++(=इच्छुक)+++ राय॒ᳶ प्र+इ॒षे भगा॑य +ऋ॒तम् ऋ॑तवा॒दिभ्यः॑ +++(भव)+++।
@@ -89,7 +86,6 @@ honour to the earth!
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने᳚ व्रतपते॒ - त्वव्ँ व्र॒ताना᳚व्ँ व्र॒तप॑तिर् असि ।  
@@ -118,7 +114,6 @@ Together, O lord of vows, be the vows of us two that keep vows.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या ते॑ अग्ने॒ रुद्रि॑या त॒नूस्, तया॑ नᳶ पाहि ।  
@@ -144,7 +139,6 @@ hail to that form of thine!
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या ते॑ अग्ने ऽया+++(=अयसि/अस्यां [भुवि])+++श॒या [ त॒नूर्  
@@ -165,7 +159,6 @@ the highest, that dwells in the cleft,
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [या ते॑ अग्ने] रजा+++(=रजते/ऽन्तरिक्षे)+++-श॒या [ त॒नूर्  
@@ -186,7 +179,6 @@ the highest, that dwells in the cleft,
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [या ते॑ अग्ने] हरा+++(=हिरण्ये‌‌/द्यवि)+++श॒या [ त॒नूर्  

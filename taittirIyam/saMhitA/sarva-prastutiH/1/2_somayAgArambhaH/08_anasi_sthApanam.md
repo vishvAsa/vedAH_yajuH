@@ -9,7 +9,6 @@ title = "०८ अनसि स्थापनम्"
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद् आयु॑षा स्वा॒युषा +++(सोमरूपेण)+++  
@@ -39,7 +38,6 @@ Up have I arisen along with the immortals.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒र्व् अ॑न्तरि॑ख्ष॒म् अन्वि॒हि +++(तेन निर्बाधं गच्छ)+++।  
@@ -62,7 +60,6 @@ Fare along the wide atmosphere.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदि॑त्या॒स् सदो॑ऽसि ।
@@ -85,7 +82,6 @@ Thou art the seat of Aditi.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदि॑त्या॒स् सद॒ आसीद ।
@@ -108,7 +104,6 @@ Sit on the seat of Aditi.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्त॑भ्ना॒द् द्याम् ऋ॑ष॒भो+++(=वर्षिता)+++ अ॒न्तरि॑ख्ष॒म्   
@@ -138,7 +133,6 @@ All these are Varuna's ordinances.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वने॑षु॒ व्य॑न्तरि॑ख्षन् ततान॒  
@@ -167,7 +161,6 @@ The sun in the sky, the Soma on the hill.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदु॒ त्यञ् जा॒तवे॑दसन्  
@@ -195,7 +188,6 @@ The sun for all to see.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उस्रा॒व्+++(=बलीवर्दौ)+++! एत॑न् धूर्षाहाव्  
@@ -220,7 +212,6 @@ Tearless, slaying not man, furthering the prayer.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
@@ -243,7 +234,6 @@ Thou art the pillar of Varuna.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णस्य +++(सोमस्य च)+++ स्कम्भ॒+++(=अविचलमवस्थानं)+++सर्ज॑नम् असि ।
@@ -266,7 +256,6 @@ Thou art the prop of Varuna's pillar.
 </details>
 
 
-### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्य॑स्तो॒+++(=उत्क्षिप्तः)+++ वरु॑णस्य॒ पाशः॑ ॥ [16]  

@@ -11,7 +11,6 @@ title = "०९ शकटात् सोमस्य ग्रहणम्"
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रच्य॑वस्व भुवस्पते॒  
@@ -37,7 +36,6 @@ Nor the Gandharva, Viçvavasu, injure thee.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्येनो भू॒त्वा परा॑ पत  
@@ -66,7 +64,6 @@ _____
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोम!)+++ यज॑मानस्य स्व॒स्त्यय॑न्य् अ॒सि  ।  
@@ -82,7 +79,6 @@ Thou art the good luck of the sacrificer.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि॒ पन्था॑म् अगस्महि  
@@ -111,7 +107,6 @@ and winneth wealth.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चख्ष॑से+++(!)+++  
@@ -141,7 +136,6 @@ The son of the sky, the sun, do ye sing.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णस्य॒ +++(ईषस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
@@ -164,7 +158,6 @@ Thou art the pillar of Varuna.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णस्य +++(ईषसहितस्य)+++ स्कम्भ॒+++(=अचलस्थान)+++सर्ज॑नमसि ।
@@ -187,7 +180,6 @@ Thou art the prop of Varuna's pillar.
 </details>
 
 
-#### मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उन् मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥
