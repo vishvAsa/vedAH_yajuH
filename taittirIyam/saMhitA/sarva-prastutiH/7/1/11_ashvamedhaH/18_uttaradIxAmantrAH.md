@@ -3,10 +3,12 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 
 +++
 ## विनियोगः
-### भास्करोक्तविनियोगः
-ऋतुदीक्षाः।
+<details><summary>भास्करोक्तविनियोगः</summary>
 
-### विश्वासप्रस्तुतिः
+ऋतुदीक्षाः।
+</details>
+
+<details open><summary>विश्वासप्रस्तुतिः</summary>
 
 +++(दीक्षे!)+++  
 भुवो॑ +++(उत्पद्यस्व)+++ - दे॒वाना॒ङ् कर्म॑णा॒, ऽप॑सा+++(=कर्मणा)+++ +ऋ॒तस्य॑+++(=यज्ञस्य)+++। प॒थ्या॑ऽसि ।
@@ -14,6 +16,8 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 **व॒स॒न्तेन॑** त्व॒र्तुना॑ ह॒विषा॑ दीख्षयामि ।  
 आ ऽहन् दी॒ख्षाम् अ॑रुहम् ऋ॒तस्य॒ पत्नी᳚म्।  
 गा॒य॒त्रेण॒ छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥
+</details>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/lokAntaram/Rk/mahIm_U_Shu/">
 <details open><summary><h2>महीम् ऊ षु ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/02_mahImU_Shu.md">
@@ -103,12 +107,15 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 </div>  
 
 ## विनियोगः
-### भास्करोक्तविनियोगः
-पत्स्व् आहुतयः।
+<details><summary>भास्करोक्तविनियोगः</summary>
 
-### विश्वासप्रस्तुतिः
+पत्स्व् आहुतयः।
+</details>
+
+<details open><summary>विश्वासप्रस्तुतिः</summary>
 
 +++(उत्सृष्टे चतुर्षु पत्सु चतस्र आहुतीर्जुहोति)+++  
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
 <details open><summary><h2>इह धृतिः ...{Loading}...</h2></summary>

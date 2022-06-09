@@ -3,8 +3,10 @@ title = "११ अश्वमेधमन्त्रेषु रशनाद
 
 +++
 ## विनियोगः
-### भास्करोक्तविनियोगः
+<details><summary>भास्करोक्तविनियोगः</summary>
+
 रशनामादत्ते।
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h2>देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
@@ -35,25 +37,31 @@ with the hands of Pusan.
 ### मन्त्रः
 आ द॑दे ।
 
-### विश्वासप्रस्तुतिः
+<details open><summary>विश्वासप्रस्तुतिः</summary>
 
 इ॒माम् अ॑गृभ्णन् रश॒नाम् ऋ॒तस्य॒+++(=यज्ञस्य)+++  
 पूर्व॒ आयु॑षि+++(षे)+++ वि॒दथे॑षु+++(=यज्ञेषु)+++ क॒व्या+++(=कवयः)+++ ।  
 तया॑ दे॒वास् सु॒तम् +++(सोमम्)+++ आ ब॑भूवुर् ,
 ऋ॒तस्य॒ साम᳚न्थ्+++(म्नि [समाप्तौ])+++ स॒रम्+++(=सरणं)+++ आ॒रप॑न्ती+++(=अभिवदन्ती)+++ ।
+</details>
 
+<details><summary>Keith</summary>
 This bond of order they grasped  
 At their assemblies in ages gone by, the sages;  
 Therewith the gods mastered the pressed (juice),  
 In the Saman of order declaring the stream.
+</details>
 
 ## विनियोगः
-### भास्करोक्तविनियोगः
-अश्वमभिदधाति।
+<details><summary>भास्करोक्तविनियोगः</summary>
 
-### विश्वासप्रस्तुतिः
+अश्वमभिदधाति।
+</details>
+
+<details open><summary>विश्वासप्रस्तुतिः</summary>
 
 अ॒भि॒धा अ॑सि । +++(यज्ञसाधनत्वेन)+++ भुव॑नम् असि । य॒न्तासि॑ । ध॒र्ताऽसि॑ ।
+</details>
 
 <details><summary>Keith</summary>
 
@@ -76,16 +84,19 @@ thou art the restrainer who dost restrain; thou art the supporter who dost suppo
 
 
 ## विनियोगः
-### भास्करोक्तविनियोगः
-अथैनम् अभिप्रोक्षणेन प्रोक्षति।
+<details><summary>भास्करोक्तविनियोगः</summary>
 
-### विश्वासप्रस्तुतिः
+अथैनम् अभिप्रोक्षणेन प्रोक्षति।
+</details>
+
+<details open><summary>विश्वासप्रस्तुतिः</summary>
+
 कृ॒ष्यै त्वा॒, ख्षेमा॑य त्वा, र॒य्यै त्वा॒, पोषा॑य त्वा ,  
 पृथि॒व्यै त्वा॒ , ऽन्तरि॑ख्षाय त्वा , दि॒वे त्वा॑,  
 स॒ते त्वा, ऽस॑ते त्वा॒ ,  
 ऽद्भ्यस् त्वौष॑धीभ्यस् त्वा॒ ,  
 विश्वे᳚भ्यस् त्वा भू॒तेभ्यः॑ +++(प्रोक्षामि)+++।
-
+</details>
 
 <details><summary>Keith</summary>
 
