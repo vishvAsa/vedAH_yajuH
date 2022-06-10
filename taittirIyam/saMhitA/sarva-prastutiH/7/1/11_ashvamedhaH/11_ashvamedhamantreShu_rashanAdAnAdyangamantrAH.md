@@ -44,7 +44,7 @@ with the hands of Pusan.
 आ द॑दे ।
 </details>
 
-<details open><summary>विश्वासप्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒माम् अ॑गृभ्णन् रश॒नाम् ऋ॒तस्य॒+++(=यज्ञस्य)+++  
 पूर्व॒ आयु॑षि+++(षे)+++ वि॒दथे॑षु+++(=यज्ञेषु)+++ क॒व्या+++(=कवयः)+++ ।  
@@ -65,7 +65,7 @@ In the Saman of order declaring the stream.
 अश्वमभिदधाति।
 </details>
 
-<details open><summary>विश्वासप्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒भि॒धा अ॑सि । +++(यज्ञसाधनत्वेन)+++ भुव॑नम् असि । य॒न्तासि॑ । ध॒र्ताऽसि॑ ।
 </details>
@@ -76,7 +76,7 @@ Thou art surrounding; thou art the world; thou art the restrainer; thou art the 
 </details>
 
 
-<details open><summary>विश्वासप्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳚ऽग्निव्ँ वै᳚श्वान॒रꣳ सप्र॑थसङ्+++(=सविस्तरं)+++ गच्छ॒ स्वाहा॑कृतः ।  
 पृ॒थि॒व्याय्ँ य॒न्ता राड्+++(=दीप्यमानः)+++ य॒न्ताऽसि॒  
@@ -98,7 +98,7 @@ thou art the restrainer who dost restrain; thou art the supporter who dost suppo
 अथैनम् अभिप्रोक्षणेन प्रोक्षति।
 </details>
 
-<details open><summary>विश्वासप्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृ॒ष्यै त्वा॒, ख्षेमा॑य त्वा, र॒य्यै त्वा॒, पोषा॑य त्वा ,  
 पृथि॒व्यै त्वा॒ , ऽन्तरि॑ख्षाय त्वा , दि॒वे त्वा॑,  
