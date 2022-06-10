@@ -5,8 +5,8 @@ title = "१४ कृणुष्व पाजः"
 काम्य(सामिधेनी)इष्टियाज्यापुरोनुवाक्याः।
 
 ## आह्वानम्
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md">
 <details open><summary><h2>०१ कृणुष्व पाजः ...{Loading}...</h2></summary>
 
 
@@ -30,8 +30,8 @@ Pierce the Raksases with thy keenest (darts).
 
 
 ## युद्धप्रार्थना
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md">
 <details open><summary><h2>०२ तव भ्रमास ...{Loading}...</h2></summary>
 
 
@@ -54,8 +54,8 @@ Unfettered, on all sides spread thy firebrands.
 
 
 
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/03_prati_spasho.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/03_prati_spasho.md">
 <details open><summary><h2>०३ प्रति स्पशो ...{Loading}...</h2></summary>
 
 
@@ -78,8 +78,8 @@ O Agni let no trouble from thee overwhelm us.
 
 
 
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/04_udagne_tiShTha.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/04_udagne_tiShTha.md">
 <details open><summary><h2>०४ उदग्ने तिष्ठ ...{Loading}...</h2></summary>
 
 
@@ -102,8 +102,8 @@ Do thou consume utterly like dry stubble.
 
 
 
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/05_Urdhvo_bhava.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/05_Urdhvo_bhava.md">
 <details open><summary><h2>०५ ऊर्ध्वो भव ...{Loading}...</h2></summary>
 
 
@@ -127,8 +127,8 @@ Crush our foes, kin or not kin.
 
 
 ## उपासकसौभाग्यम्
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md">
 <details open><summary><h2>०६ स ते ...{Loading}...</h2></summary>
 
 
@@ -151,8 +151,8 @@ All happy days for him, glory, and wealth
 
 
 
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/07_sedagne_astu.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/07_sedagne_astu.md">
 <details open><summary><h2>०७ सेदग्ने अस्तु ...{Loading}...</h2></summary>
 
 
@@ -176,8 +176,8 @@ May all days be happy for him; be that the will.
 
 
 ## प्रतिज्ञा
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md">
 <details open><summary><h2>०८ अर्चामि ते ...{Loading}...</h2></summary>
 
 
@@ -199,8 +199,8 @@ Maintain for us the lordly power as the days go by.
 </details>
 
 
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/09_iha_tvA.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/09_iha_tvA.md">
 <details open><summary><h2>०९ इह त्वा ...{Loading}...</h2></summary>
 
 
@@ -223,8 +223,8 @@ That dost surpass the glories of men.
 
 
 
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/10_yastvA_svashvaH.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/10_yastvA_svashvaH.md">
 <details open><summary><h2>१० यस्त्वा स्वश्वः ...{Loading}...</h2></summary>
 
 
@@ -247,8 +247,8 @@ Who duly offereth thee glad reception.
 
 
 
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/11_maho_rujAmi.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/11_maho_rujAmi.md">
 <details open><summary><h2>११ महो रुजामि ...{Loading}...</h2></summary>
 
 
@@ -272,8 +272,8 @@ O Hotr, most youthful, skilful, friend of the house.
 
 
 ### किरणकीर्तिः
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md">
 <details open><summary><h2>१२ अस्वप्नजस्तरणयः सुशेवा ...{Loading}...</h2></summary>
 
 
@@ -297,8 +297,8 @@ Protect us, O wise one.
 
 
 
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md">
 <details open><summary><h2>१३ ये पायवो ...{Loading}...</h2></summary>
 
 
@@ -325,8 +325,8 @@ The foes that were fain to deceive could not [5] deceive.
 
 
 ## प्रतिज्ञानुवर्तनम्
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md">
 <details open><summary><h2>१४ त्वया वयं ...{Loading}...</h2></summary>
 
 
@@ -349,8 +349,8 @@ Perform it forthwith, O fearless one.
 
 
 
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/15_ayA_te.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/15_ayA_te.md">
 <details open><summary><h2>१५ अया ते ...{Loading}...</h2></summary>
 
 
@@ -373,8 +373,8 @@ From the foe, the reviler, O rich in friends, from blame.
 
 
 
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/087/01_raxohaNaM_vAjinamA.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/087/01_raxohaNaM_vAjinamA.md">
 <details open><summary><h2>०१ रक्षोहणं वाजिनमा ...{Loading}...</h2></summary>
 
 
@@ -397,8 +397,8 @@ Guard us by day, [6] from harm and by night.
 
 
 ## रक्षोहाग्निध्यानम्
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
 <details open><summary><h2>०९ वि ज्योतिषा ...{Loading}...</h2></summary>
 
 
@@ -421,8 +421,8 @@ He sharpeneth his horns to pierce the Raksas.
 
 
 
-#### विश्वासप्रस्तुतिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/10_uta_svAnAso.md">
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/10_uta_svAnAso.md">
 <details open><summary><h2>१० उत स्वानासो ...{Loading}...</h2></summary>
 
 
