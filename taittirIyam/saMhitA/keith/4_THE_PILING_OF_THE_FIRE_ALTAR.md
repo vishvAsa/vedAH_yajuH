@@ -2,7 +2,7 @@
 title = "4 THE PILING OF THE FIRE ALTAR"
 
 +++
-## I The Placing of the Fire in the Fire-pan
+## 1 The Placing of the Fire in the Fire-pan
 ### 01
 #### a
 Yoking mind first,  
@@ -681,7 +681,7 @@ Health be they.
 #### w
 For each prize.
 
-## II The Preparation of the Ground for the Fire
+## 2 The Preparation of the Ground for the Fire
 ### 01
 #### a
 Thou art the step of Visnu, overcoming hostility, mount the Gayatri metre, step along the earth, excluded is he whom we hate. Thou art the step of Visnu, overcoming imprecations, mount the Tristubh metre, step along the atmosphere, excluded is he whom we hate. Thou art the step of Visnu, overcomer of the enemy, mount the Jagati metre, step along the sky, excluded is he whom we hate. Thou art the stop of Visnu [1], overcomer of the foe, mount the Anustubh metre, step along the quarters, excluded is he whom we hate.
@@ -1404,7 +1404,7 @@ Thou, O Agni.
 #### u
 Do thou to us, O Agni.
 
-## III The Five Layers of Bricks
+## 3 The Five Layers of Bricks
 ### 01
 #### a
 I place thee in the going of the waters; I place thee in the rising of the waters; I place thee in the ashes of the waters; I place thee in the light of the waters; I place thee in the movement of the waters.
@@ -1719,7 +1719,7 @@ ff Indra men.
 gg O Viśvakarman, waxing great with the oblation.  
 hh O Viśvakarman, with the oblation as strengthening.
 
-## IV The Fifth Layer of Bricks (continued)
+## 4 The Fifth Layer of Bricks (continued)
 ### 01
 #### a
 Thou art the ray; for dwelling thee! Quicken the dwelling. Thou art advance; for right thee! Quicken right. Thou art following; for sky thee! Quicken the sky. Thou art union; for atmosphere thee! Quicken the atmosphere. Thou art propping; for earth thee! Quicken earth. Thou art a prop; for rain thee! Quicken rain. Thou art blowing forward; for day thee! Quicken day.
@@ -2064,7 +2064,7 @@ With what to us radiant shall he be?
 #### u
 Who to-day yoketh?
 
-## V The Offerings to Rudra
+## 5 The Offerings to Rudra
 ### 01
 #### a
 Homage to thy wrath, O Rudra,  
@@ -2491,7 +2491,7 @@ At a thousand leagues.
 #### l,m,n
 Homage to the Rudras on the earth, in the atmosphere, in the sky, whose arrows are food, wind, and rain, to them ten eastwards, ten to the south, ten to the west, ten to the north, ten upwards; to them homage, be they merciful to us, him whom we hate and him who hateth us, I place him within your jaws.
 
-## VI The Preparation of the Fire
+## 6 The Preparation of the Fire
 ### 01
 #### a
 The strength resting on the stone, the bill,  
@@ -3113,7 +3113,7 @@ Men and sons, and every form of prosperity;
 May Aditi confer on us sinlessness;  
 Kingship for us may the horse rich in offering gain.
 
-## VII The Piling of the Fire Altar (Continued)
+## 7 The Piling of the Fire Altar (Continued)
 ### 01
 #### a
 O Agni and Visnu, may these songs gladden you in unison; come ye with radiance and strength.

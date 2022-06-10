@@ -2,7 +2,7 @@
 title = "7 THE EXPLANATION OF THE SOMA SACRIFICE (continued)"
 
 +++
-## I The One Day Sacrifices
+## 1 The One Day Sacrifices
 ### 01
 Production of offspring is light. Agni is the light of the gods; the Viraj is the light of the metres. The Viraj of speech ends in Agni; it is produced according to the Viraj. Therefore it is called light. Two Stomas bear the morning pressing, like expiration and inspiration; two the midday pressing, like eye and ear; two the third pressing, like speech and support. This sacrifice is commensurate with man, and is perfect [1]. Whatever desire a man has, he wins by it, for one wins all by that which is perfect. By means of the Agnistoma Prajapati created off spring; by means of the Agnistoma he grasped them. When he grasped them the mule escaped. Following it he took its seed, and placed it in the ass. Therefore the ass has double seed. They also say, 'He placed it in the mare.' Therefore the mare has double seed. They also say, 'In the plants [2] he placed it.' Therefore plants, though not anointed, glisten.' They also say, 'He placed it in offspring.' Therefore twins are born. Therefore the mule has no offspring, for his seed has been taken from him. Therefore he is not suitable for the sacrifice, but is suitable if there is a sacrifice when one gives (to the priests) all one's goods or a thousand, for he escaped. He who knowing thus sacrifices with the Agnistoma begets unborn offspring and grasps those that are born. Therefore they say, 'It is the best of sacrifices [3].' Prajapati indeed is the best, for he sacrificed with it first. Prajapati desired, 'May I have offspring.' He meted out the Trivrt from his mouth. After it the god Agni was created, the Gayatri metre, the Rathantara Saman, of men the Brahman, of cattle the goat; therefore are they the chief, for they were produced from the mouth. From the breast and arms he meted out the Pañcadaśa Stoma. After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of men the Rajanya, of cattle the sheep. There fore they are strong, for they were created from strength. From the middle he meted out the Saptadaśa Stoma. After it the All-gods as deities were created, the Jagati metre, the Vairupa Saman, of men the Vaiśya, of cattle cows. Therefore are they to be eaten, for they were created from the receptacle of food. Therefore are they more numerous than others, for they were created after the most numerous of the gods. From his feet he meted out the Ekavinśa Stoma. After it the Anustubh metre [5] was created, the Vairaja Saman, of men the Çudra, of cattle the horse. Therefore the two, the horse and the Çudra, are dependent on others. Therefore the Çudra is not fit for the sacrifice, for he was not created after any gods. Therefore they depend on their feet, for they were created from the feet. The Trivrt is the breaths; the Pañcadaśa the half-months; the Saptadaśa Prajapati; these worlds are three; the Ekavinśa is the sun yonder. In this they rest, in this they find support. He who knows thus rests on this, finds, support in this.
 ### 02
@@ -258,7 +258,7 @@ The folk of the sky vie with the sun;
 Choosing the waters the sage becometh pure,  
 Like a beast the busy guardian that goeth around.
 
-## II The Ahina Sacrifices (continued)
+## 2 The Ahina Sacrifices (continued)
 ### 01
 The Sadhya gods, desirous of heaven, saw this (rite) of six nights. They grasped it, and sacrificed with it. Then indeed did they go to the world of heaven. Those, who knowing thus perform (the rite) of six nights, go to the world of heaven. (The rite) of six nights is a Sattra of the gods, for these Prsthas are obvious. Those, who knowing thus perform (the rite) of six nights, mount evidently upon the gods. (The rite) is of six nights; the seasons are six, the Prsthas are six [1]; verily by the Prsthas they mount the seasons, by the seasons the year; verily in the year they find support. They
   
@@ -431,7 +431,7 @@ To heaven hail!
 To the world hail!  
 To all hail!
 
-## III The Sattras
+## 3 The Sattras
 ### 01
 They go swiftly in that it is the tenth day. In that it is the tenth day they loosen their sins. He who among men going swiftly falls in with a trackless way, he who strikes a post, and he who stumbles, are left out. So he, who on this tenth day, the Avivakya, comes to grief, is left out. If one points out (an error) to one who comes to grief, he seizes hold of him and comes out successfully, and then the one who pointed out (his error) is left out [1]. Therefore on the tenth day, the Avivakya, one should not point out (errors) to one who comes to grief. Or rather they say, 'By that which was successful in the sacrifice the gods went to the world of heaven, and overcame the Asuras by what was unsuccessful.' What is successful in the sacrifice belongs to the sacrificer, what is unsuccessful to his enemy. Now he, who comes to grief on the tenth day, the Avivakya, produces overmuch. Those who are outside as spectators [2] should point out (his error). If there be none there, then (the error) should be pointed out from within the Sadas. If there be none there, then it should be pointed out by the Grhapati. At any rate it should be pointed out. They sing the verses of the serpent queen on that day. The queen of what creeps is this (earth). Whatever on this (earth) they praise, whatever they have praised, through that is this (earth) the serpent queen. Now whatever they have praised with speech and what they will praise thereafter, (it is done thinking), 'Having won both and obtained them, let us stop.' They sing these (verses) with the mind. Neither a horse chariot nor a mule chariot can in one moment encompass this (earth), but mind can in one moment encompass it, mind can overcome it. Then they repeat the Brahman. The Rc verses are limited, the Samans are limited, and the Yajuses are limited, but of the Brahman there is no end, and that he should declare to the one who responds. That is the response.
 ### 02
@@ -655,7 +655,7 @@ To the one deprived along hail!
 To the one deprived altogether hail  
 To all hail!
 
-## IV The Sattras (continued)
+## 4 The Sattras (continued)
 ### 01
 Brhaspati desired, 'May the gods have faith in me, and may I become their Purohita.' He saw this (rite) of twenty-four nights; he grasped it, and sacrificed with it. Then the gods had faith in him, and he became their Purohita. In those who knowing thus perform the twenty four night (rite) men have faith, and they become their Purohitas. There are the three days Jyotis, Go, and Ayus. The Jyotis is this (earth), the Go the atmosphere, and the Ayus yonder (sky) [1]; verily they mount upon these worlds. The three days occur in order; verily in order do they mount upon the world of heaven. There can be no Sattra where there is no Chandoma; in that there are Chandomas, there is the Sattra. The gods they win by the Prsthas, the cattle by the Chandomas. The Prsthas are force and strength, the Chandomas cattle; verily in force and strength, and in cattle they find support. They proceed with the Brhat and the Rathantara (Samans). The Rathantara, is this (earth), the Brhat yonder (sky);
   
@@ -908,7 +908,7 @@ To that which riseth hail!
 To that which standeth hail!  
 To all hail!
 
-## V The Gavam Ayana
+## 5 The Gavam Ayana
 ### 01
 The cows performed that Sattra, being hornless, with the desire, 'May horns be born to us.' For ten months they performed it, and then horns were born, and they ceased (the rite), (saying), 'We have obtained (our desire).' Then those whose horns were not born ceased (the rite) after making up the year, (saying), 'We have obtained (our desire).' Both those which obtained horns and those which  
 did not ceased, (saying),'We have obtained (our desire).' The year is the cows' Sattra [1], and those
