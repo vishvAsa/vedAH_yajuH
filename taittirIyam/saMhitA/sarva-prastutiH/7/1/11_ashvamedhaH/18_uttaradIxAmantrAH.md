@@ -3,7 +3,7 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 
 +++
 ## विनियोगः
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 ऋतुदीक्षाः।
 </details>
@@ -107,7 +107,7 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 </div>  
 
 ## विनियोगः
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 पत्स्व् आहुतयः।
 </details>

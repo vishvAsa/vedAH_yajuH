@@ -3,7 +3,7 @@ title = "११ अश्वमेधमन्त्रेषु रशनाद
 
 +++
 ## विनियोगः
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 रशनामादत्ते।
 </details>
@@ -60,7 +60,7 @@ In the Saman of order declaring the stream.
 </details>
 
 ## विनियोगः
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 अश्वमभिदधाति।
 </details>
@@ -93,7 +93,7 @@ thou art the restrainer who dost restrain; thou art the supporter who dost suppo
 
 
 ## विनियोगः
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथैनम् अभिप्रोक्षणेन प्रोक्षति।
 </details>

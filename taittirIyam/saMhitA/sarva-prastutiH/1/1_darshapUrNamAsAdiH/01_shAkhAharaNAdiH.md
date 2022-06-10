@@ -4,7 +4,7 @@ title: ०१ शाखाहरणादिः
 ---
 
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 तत्रामावास्यायां सन्नयतश्शाखामाच्छिनत्यध्वर्युः - 
 </details>
@@ -16,7 +16,7 @@ title: ०१ शाखाहरणादिः
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 वत्सानपाकरोति
 </details>
@@ -27,7 +27,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 गोचराय गाः प्रस्थापयति
 </details>
@@ -37,7 +37,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रस्थाप्यमाना गा एव प्रार्थयते
 </details>
@@ -52,7 +52,7 @@ ____
 +++(एकपदा त्रिष्टुप्)+++
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानं ध्यायति ईक्षते वा
 </details>
@@ -61,7 +61,7 @@ ____
 +++(हे गावः!)+++ ध्रु॒वा अ॒स्मिन् गोप॑तौ स्यात ब॒ह्वीः।+++(र४)+++ 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 शाखामुपगूहति
 </details>

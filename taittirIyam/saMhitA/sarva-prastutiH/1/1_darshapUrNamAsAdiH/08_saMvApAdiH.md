@@ -5,7 +5,7 @@ title: ०८ संवापादिः
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 पिष्टानि संवपति
 </details>
@@ -15,7 +15,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रणीता मदन्तीरानीयमानाः प्रतिमन्त्रयते
 </details>
@@ -28,7 +28,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 अपः परिप्लावयति
 </details>
@@ -39,7 +39,7 @@ ____
 सम॒द्भिᳶ पृ॑च्यध्वम् ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 आलोडयति
 </details>
@@ -48,7 +48,7 @@ ____
 +++(प्रजानां)+++ जन॑यत्यै त्वा॒ सय्ँयौ᳚मि+++(=मिश्रीकरोमि)+++ ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 व्यूह्याभिमृशति
 </details>
@@ -58,7 +58,7 @@ ____
 अ॒ग्नीषोमा᳚भ्याम् [त्वा]  +++(ऽभिमृशामि)+++।  
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 पिण्डं करोति
 </details>
@@ -67,7 +67,7 @@ ____
 म॒खस्य॒ शिरो॑ऽसि ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 अधिश्रयति
 </details>
@@ -76,7 +76,7 @@ ____
 घ॒र्मो॑ ऽसि वि॒श्वायुः॑।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रथयति
 </details>
@@ -86,7 +86,7 @@ ____
 उ॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथताम् ।  
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 श्लक्ष्णीकरोति
 </details>
@@ -95,7 +95,7 @@ ____
 त्वच॑ङ् गृह्णीष्व ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 पर्यग्नि करोति
 </details>
@@ -105,7 +105,7 @@ ____
 ऽन्तरि॑ता॒ अरा॑तयः ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 श्रपयति
 </details>
@@ -116,7 +116,7 @@ ____
 अ॒ग्निस् ते॑ त॒नुव॒म् मा ऽति॑ धाक् ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 गार्हपत्यमभिमन्त्रयते
 </details>
@@ -125,7 +125,7 @@ ____
 अग्ने॑ ह॒व्यꣳ र॑ख्षस्व ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 भस्मनाभिवासयति
 </details>
@@ -134,7 +134,7 @@ ____
 सम् ब्रह्म॑णा पृच्यस्व ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 पात्रनिर्णेजनीरपो निनयति
 </details>

@@ -4,7 +4,7 @@ title: ०४ हविर्निर्वापः
 ---
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 यागदिवसे कर्मारम्भे हस्तौ सम्मृशति
 </details>
@@ -14,7 +14,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 शूर्पमादत्ते
 </details>
@@ -23,7 +23,7 @@ ____
 वेषा॑य+++(=विष्णवे [यज्ञाय])+++ त्वा।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 गार्हपत्ये प्रतितपति
 </details>
@@ -33,7 +33,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 धुरमभिमृशति
 </details>
@@ -47,7 +47,7 @@ ____
 तं योँ᳚ऽस्मान्धूर्व॑ति तन् धू᳚र्व॒ यव्ँ व॒यन् धूर्वा॑मः ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 अनोभिमन्त्रयते
 </details>
@@ -62,7 +62,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 पुरोडाशीयान् प्रेक्षते
 </details>
@@ -74,7 +74,7 @@ ____
 मा त्वा᳚ [5] हि॒ꣳ॒सि॒षम् ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 तृणानि निरस्यति
 </details>
@@ -85,7 +85,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 निर्वपति
 </details>
@@ -153,7 +153,7 @@ with the hands of Pusan.
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 निरुप्तानभिमृशति
 </details>
@@ -162,7 +162,7 @@ ____
 इ॒दन्दे॒वाना॑म् ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 निरुप्तशेषमभिमृशति
 </details>
@@ -172,7 +172,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 निरुप्ते कोष्ठादौ वाऽवशिष्टमावपति
 </details>
@@ -182,7 +182,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 आहवनीयमन्वीक्षते
 </details>
@@ -192,7 +192,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 गृहाननुवीक्षते
 </details>
@@ -202,7 +202,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 उद्गच्छति
 </details>
@@ -212,7 +212,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 हविस्सादयति
 </details>
@@ -222,7 +222,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 गार्हपत्यमभिमन्त्रयते
 </details>

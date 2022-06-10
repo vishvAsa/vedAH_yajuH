@@ -3,7 +3,7 @@ title: १० हविर्ग्रहणम्
 
 ---
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 गार्हपत्ये स्रुवादीन् प्रतितपति
 </details>
@@ -15,7 +15,7 @@ title: १० हविर्ग्रहणम्
 ____
 {{< figure src="/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/sruk-big-sruva-small.jpg" title="स्रुक्, स्रुवः" class="thumbnail">}}
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्रुवं सम्मार्ष्टि
 </details>
@@ -26,7 +26,7 @@ ____
 ____
 {{< figure src="/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/juhU.png" title="जुहू" class="thumbnail">}}
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 जुहूं सम्मार्ष्टि
 </details>
@@ -38,7 +38,7 @@ ____
 ____
 {{< figure src="/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/upabhRt.png" title="उपभृत्" class="thumbnail">}}
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 उपभृतं सम्मार्ष्टि
 </details>
@@ -49,7 +49,7 @@ ____
 ____
 {{< figure src="/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/dhruvA.png" title="ध्रुवा" class="thumbnail">}}
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 ध्रुवां सम्मार्ष्टि
 </details>
@@ -60,7 +60,7 @@ ____
 योनि॒म् [मा निर्मृ॑ख्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हꣳ+++(=अभिभवितारं)+++ सम्मा᳚र्ज्मि ।]  
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 पत्नीं योक्त्रेण सन्नह्यति, तदा पत्नी वदति-
 </details>
@@ -73,7 +73,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 पत्नी गार्हपत्यमुपसीदति
 </details>
@@ -85,7 +85,7 @@ ____
 अद॑ब्धासो॒ अदा॑᳚भ्यम् ॥  
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 योक्त्रं पत्नी विमुञ्चति यदा तदा -
 </details>
@@ -98,7 +98,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 सयोक्त्रेऽञ्जलौ उदपात्र आनीयमाने पत्नी गार्हपत्यमुपतिष्ठते
 </details>
@@ -111,7 +111,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 आज्यं निर्वपति
 </details>
@@ -123,7 +123,7 @@ ____
 
 __
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 पत्नी आज्यमवेक्षते
 </details>
@@ -136,7 +136,7 @@ __
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 गार्हपत्येधिश्रयति
 </details>
@@ -146,7 +146,7 @@ ____
 +++('अमेध्यं वा एतत्करोति' (तै.ब्रा. 3.3.4) इत्यादि ब्राह्मणम् ॥)+++
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 आहरति
 </details>
@@ -155,7 +155,7 @@ ____
 +++(आहवनीय-)+++तेजो ऽनु॒  प्रेहि॑ ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 आहवनीयेऽधिश्रयति
 </details>
@@ -165,7 +165,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 आज्यमवेक्षते
 </details>
@@ -175,7 +175,7 @@ ____
 सु॒भूर् दे॒वाना॒न्, धाम्ने॑धाम्ने+++(=धारणेधारणे)+++ दे॒वेभ्यो॒ यजु॑षेयजुषे भव ।  
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्पुनाति
 </details>
@@ -186,7 +186,7 @@ ____
 तेजो॑ऽसि ।
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रोक्षणीरुत्पुनाति
 </details>
@@ -205,7 +205,7 @@ ____
 
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 जुह्वामाज्यं गृह्णाति
 </details>
@@ -215,7 +215,7 @@ ____
 +++(आघारार्थत्वात्, प्रयाजार्थत्वाच्च 'धाम्नेधाम्ने' इत्याद्युपपद्यते ।)+++
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 उपभृति गृह्णाति
 </details>
@@ -224,7 +224,7 @@ ____
 ज्योति॑स् त्वा॒ ज्योति॑षि +++(उपभृति)+++ धाम्ने॑धाम्ने+++(=धारणेधारणे)+++ दे॒वेभ्यो॒ यजु॑षेयजुषे गृह्णामि।  
 ____
 
-<details><summary>भास्करोक्तविनियोगः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 ध्रुवायां गृह्णाति
 </details>
