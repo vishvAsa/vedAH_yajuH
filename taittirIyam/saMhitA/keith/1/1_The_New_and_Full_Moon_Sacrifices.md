@@ -2,37 +2,6 @@
 title = "1 The New and Full Moon Sacrifices"
 
 +++
-### a
-I pour together.
-### b
-The waters have joined with the waters, the plants with sap.
-### c
-Join ye rich ones with the moving ones, sweet ones with the sweet.
-### d
-From the waters ye are born, be united with the waters.
-### e
-For generation I unite thee.
-### f
-For Agni thee, for Agni and Soma.
-### g
-Thou art the head of Makha.
-### h
-Thou art the cauldron that contains all life.
-### i
-Be extended wide, let the lord of the sacrifice be extended wide.
-### k
-Grasp the skin.  
-I The Raksas is obstructed, the evil spirits are obstructed.
-### m
-Let the god Savitr make thee ready on the highest firmament.
-### n
-May Agni burn not too much thy body.
-### o
-O Agni, guard the offering.
-### p
-Be united with our prayer.
-### q
-Hail to Ekata, hail to Dvita, hail to Trita.
 ## 09
 
 ### b

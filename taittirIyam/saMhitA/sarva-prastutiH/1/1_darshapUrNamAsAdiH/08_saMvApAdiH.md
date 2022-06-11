@@ -12,9 +12,13 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्वँ॑पामि ।
+सव्ँ-व॑पामि ।
 </details>
 
+<details><summary>Keith</summary>
+
+I pour together.
+</details>
 
 
 ____
@@ -32,7 +36,11 @@ ____
 मधु॑मती॒र् मधु॑मतीभिस् सृज्यध्वम्  ॥
 </details>
 
+<details><summary>Keith</summary>
 
+The waters have joined with the waters, the plants with sap.  
+Join ye rich ones with the moving ones, sweet ones with the sweet.
+</details>
 
 ____
 
@@ -47,6 +55,10 @@ ____
 सम॒द्भिᳶ पृ॑च्यध्वम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+From the waters ye are born, be united with the waters.
+</details>
 
 ____
 
@@ -58,6 +70,11 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्रजानां)+++ जन॑यत्यै त्वा॒ सय्ँयौ᳚मि+++(=मिश्रीकरोमि)+++ ।
+</details>
+
+<details><summary>Keith</summary>
+
+For generation I unite thee.
 </details>
 
 
@@ -74,6 +91,10 @@ ____
 अ॒ग्नीषोमा᳚भ्याम् [त्वा]  +++(ऽभिमृशामि)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+For Agni thee, for Agni and Soma.
+</details>
 
 ____
 
@@ -87,6 +108,10 @@ ____
 म॒खस्य॒ शिरो॑ऽसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the head of Makha.
+</details>
 
 ____
 
@@ -100,6 +125,10 @@ ____
 घ॒र्मो॑ ऽसि वि॒श्वायुः॑।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the cauldron that contains all life.
+</details>
 
 ____
 
@@ -114,6 +143,10 @@ ____
 उ॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथताम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Be extended wide, let the lord of the sacrifice be extended wide.
+</details>
 
 ____
 
@@ -125,6 +158,11 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वच॑ङ् गृह्णीष्व ।
+</details>
+
+<details><summary>Keith</summary>
+
+Grasp the skin.  
 </details>
 
 
@@ -141,6 +179,10 @@ ____
 ऽन्तरि॑ता॒ अरा॑तयः ।
 </details>
 
+<details><summary>Keith</summary>
+
+I The Raksas is obstructed, the evil spirits are obstructed.
+</details>
 
 ____
 
@@ -156,12 +198,17 @@ ____
 अ॒ग्निस् ते॑ त॒नुव॒म् मा ऽति॑ धाक् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Let the god Savitr make thee ready on the highest firmament.  
+May Agni burn not too much thy body.
+</details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-गार्हपत्यमभिमन्त्रयते
+गार्हपत्यम् अभिमन्त्रयते
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -169,6 +216,11 @@ ____
 अग्ने॑ ह॒व्यꣳ र॑ख्षस्व ।
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, guard the offering.
+
+</details>
 
 ____
 
@@ -182,12 +234,16 @@ ____
 सम् ब्रह्म॑णा पृच्यस्व ।
 </details>
 
+<details><summary>Keith</summary>
+
+Be united with our prayer.
+</details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-पात्रनिर्णेजनीरपो निनयति
+पात्रनिर्णेजनीर् अपो निनयति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -195,9 +251,14 @@ ____
 ए॒क॒ताय॒ स्वाहा᳚ ।   
 द्वि॒ताय॒ स्वाहा᳚ ।    
 त्रि॒ताय॒ स्वाहा᳚ ।  
-+++('तत एकतोजायत' (तै.ब्रा. 3.2.8) इत्यादिब्राह्मणे प्रसिद्धाः तद्वाच्याः पित्रादयः अग्निष्वात्तादयः ।)+++
++++('तत एकतोजायत' (तै.ब्रा. 3.2.8) इत्यादिब्राह्मणे प्रसिद्धाः तद्-वाच्याः पित्रादयः अग्निष्वात्तादयः ।)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Hail to Ekata, hail to Dvita, hail to Trita.
+
+</details>
 
 
  इत्यष्टमोनुवाकः  
