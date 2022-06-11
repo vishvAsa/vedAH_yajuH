@@ -5,17 +5,11 @@ title = "1 The New and Full Moon Sacrifices"
 ## 09
 
 ### b
-Thou art Indra's right arm with a thousand spikes, a hundred edges.
 ### c
-Thou art the wind of sharp edge.
 ### d
-O earth whereon sacrifice is offered to the gods, let me harm not the root of thy plant.
 ### e
-Araru is smitten away from the earth.
 ### f
-Go to the fold where the cattle are.
 ### g
-May heaven rain for thee.
 ### h
 O god Savitr, bind thou in the furthest distance with a hundred fetters him who hateth us and whom we hate, thence let him not free.
 ### i

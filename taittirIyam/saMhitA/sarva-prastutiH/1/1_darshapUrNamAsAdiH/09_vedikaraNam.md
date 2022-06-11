@@ -19,16 +19,20 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-स्फ्यमनुमन्त्रयते
+स्फ्यम् अनुमन्त्रयते
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य बा॒हुर॑सि दख्षि॑णस्  
-+++(शत्रूणां)+++ स॒हस्र॑-भृष्टिश्+++(=पाकः)+++  
-श॒तते॑जाः ।
++++(स्फ्य!)+++ इन्द्र॑स्य बा॒हुर॑सि दख्षि॑णस्  
++++(शत्रूणां)+++ स॒हस्र॑-भृष्टिश्+++(=धारः)+++  
+श॒त-ते॑जाः ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art Indra's right arm with a thousand spikes, a hundred edges.
+</details>
 
 
 ____
@@ -40,9 +44,13 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒युर॑सि ति॒ग्मते॑जाः ।
+वा॒युर् अ॑सि ति॒ग्म-ते॑जाः ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the wind of sharp edge.
+</details>
 
 ____
 
@@ -53,9 +61,13 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे)+++ पृथि॑वि! देवयज॒न्य्! ओष॑ध्यास् ते॒ मूल॒म् मा हिꣳ॑सिषम् +++(स्फ्यप्रहारेण)+++।
++++(हे)+++ पृथि॑वि! देव-यज॒न्य्! ओष॑ध्यास् ते॒ मूल॒म् मा हिꣳ॑सिषम् +++(स्फ्यप्रहारेण)+++।
 </details>
 
+<details><summary>Keith</summary>
+
+O earth whereon sacrifice is offered to the gods, let me harm not the root of thy plant.
+</details>
 
 ____
 
@@ -70,6 +82,10 @@ ____
 +++('अररुर्वै नामासुर आसीत्' (तै.ब्रा. 3.2.9) इत्यादिब्राह्मणप्रसिद्धः असुरविशेषोऽररुः, अरणशीलः गूढचारी ।)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Araru is smitten away from the earth.
+</details>
 
 ____  
 
@@ -83,6 +99,10 @@ ____
 व्र॒जङ् ग॑च्छ गो॒स्थान॑म् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Go to the fold where the cattle are.
+</details>
 
 ____
 
@@ -96,6 +116,10 @@ ____
 वर्ष॑तु +++(स्फ्येन प्रहृतायाः)+++ ते॒ द्यौः ।
 </details>
 
+<details><summary>Keith</summary>
+
+May heaven rain for thee.
+</details>
 
 ____
 
