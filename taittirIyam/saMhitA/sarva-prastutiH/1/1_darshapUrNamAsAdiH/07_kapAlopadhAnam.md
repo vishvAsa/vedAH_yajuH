@@ -11,7 +11,12 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे उपवेष!)+++ धृष्टि॑र् सि॒ ब्रह्म॑ य॒च्छ ।
++++(हे उपवेष!)+++ धृष्टि॑र् असि॒, ब्रह्म॑ य॒च्छ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Bold art thou, support our prayer.
 </details>
 
 
@@ -24,9 +29,13 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपा᳚ ऽग्ने॒, ऽग्निम् आमा+++(=अपक्वा)+++द॑ञ् जहि +++(, पक्वादं रक्ष)+++ ।
+अपा᳚ ऽग्ने॒, ऽग्निम् आमा+++(=अपक्वा)+++-द॑ञ् जहि +++(, पक्वादं रक्ष)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, drive off the fire that eats raw flesh,
+</details>
 
 ____
 
@@ -40,12 +49,17 @@ ____
 निष् क्र॒व्यादꣳ॑ से॒ध+++(=गमय)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+send away the corpse-eating one
+</details>
+
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-अङ्गारमन्यमावर्तयति
+अङ्गारम् अन्यम् आवर्तयति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -53,12 +67,16 @@ ____
 आ दे॑व॒यज॑व्ँ वह ।
 </details>
 
+<details><summary>Keith</summary>
+
+bring hither the fire that sacrifices to the gods.
+</details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-अङ्गारमधिवर्तयति
+अङ्गारम् अधिवर्तयति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -67,23 +85,34 @@ ____
 निर्द॑ग्धा॒ अरा॑तयः ।
 </details>
 
+<details><summary>Keith</summary>
+
+The Raksas is burnt, the evil spirits are burnt.
+
+</details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-मध्यमं कपालमुपदधाति
+मध्यमं कपालम् उपदधाति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पुरोडाशस्य)+++ ध्रु॒वम॑सि ।  
++++(पुरोडाशस्य)+++ ध्रु॒वम् अ॑सि ।  
 पृ॒थि॒वीन् दृꣳ॑ह।  
 आयु॑र् दृꣳह ।  
 प्र॒जान् दृꣳ॑ह ।  
-सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह ।  
-+++('सजातानस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ।)+++
 </details>
+
+<details><summary>Keith</summary>
+
+Thou art firm; make firm the earth, make life firm, make offspring firm, 
+</details>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 
 ____
@@ -99,9 +128,14 @@ ____
 अ॒न्तरि॑ख्षन् दृꣳह ।    
 प्रा॒णन् दृꣳ॑ह ।  
 अपा॒नन् दृꣳ॑ह ।   
-सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art a supporter, make firm the atmosphere, make expiration firm, make inspiration firm
+</details>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ____
 
@@ -113,13 +147,17 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पुरोडाशस्य)+++ ध॒रुण॑म्+++(=धारकम्)+++ असि ।  
-दिव॑न्दृꣳह ।  
-चख्षु॑र्दृꣳह ।  
-श्रोत्र॑न्दृꣳह ।  
-सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह ।
+दिव॑न् दृꣳह ।  
+चख्षु॑र् दृꣳह ।  
+श्रोत्र॑न् दृꣳह ।  
 </details>
 
+<details><summary>Keith</summary>
 
+Thou are supporting, make the heaven firm, make the eye [1] firm, make the ear firm, 
+</details>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -133,15 +171,22 @@ ____
 दिशो॑ दृꣳह ।  
 योनि॑न् दृꣳह।  
 प्र॒जान् दृꣳ॑ह ।  
-सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art a support, make the quarters firm, make the organ firm, make offspring firm, 
+
+</details>
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-अन्यान्युपदधाति
+अन्यान्य् उपदधाति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -149,10 +194,16 @@ ____
 चित॑स् स्थ ।  
 +++(प्रत्येकमभिधानादेकवचनम्)+++  
 प्र॒जाम् अ॒स्मै [यज॑मानाय॒ पर्यू॑ह ] ।  
-र॒यिम॒स्मै  [यज॑मानाय॒ पर्यू॑ह ] ।  
-स॑जा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह ।  
+र॒यिम् अ॒स्मै  [यज॑मानाय॒ पर्यू॑ह ] ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Ye are gatherers, bring offspring to this sacrificer, wealth to him,
+</details>
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ____
 
@@ -166,6 +217,10 @@ ____
 भृगू॑णा॒म् अङ्गि॑रसा॒न् तप॑सा तप्यध्वम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Be ye heated with the heat of the Bhrgus and the Angirases.
+</details>
 
 ____
 
@@ -178,10 +233,16 @@ ____
 
 यानि॑ घ॒र्मे क॒पाला᳚न्य्  
 उपचि॒न्वन्ति॑ वे॒धसः॑+++(=अध्वर्यवः)+++ ।  
-पू॒ष्णस् तान्यपि॑ +++(श्रपण-)+++व्र॒त+++(य् समाप्ते)+++  
-इ॑न्द्रवा॒यू वि मु॑ञ्चताम् ॥ [11]   
-इति सप्तमोनुवाकः
+पू॒ष्णस् तान्य् अपि॑ +++(श्रपण-)+++व्र॒त+++(य् समाप्ते)+++  
+इ॑न्द्र-वा॒यू वि मु॑ञ्चताम् ॥ [11]   
+</details>
+
+<details><summary>Keith</summary>
+
+The potsherds which wise men collect for the cauldron, these are in Pusan's guardianship. Lot Indra and Vayu set them free.
+
 </details>
 
 
 
+इति सप्तमोनुवाकः

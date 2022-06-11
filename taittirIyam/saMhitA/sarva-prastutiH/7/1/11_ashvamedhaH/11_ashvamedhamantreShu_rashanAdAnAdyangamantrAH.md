@@ -28,7 +28,7 @@ title = "११ अश्वमेधमन्त्रेषु रशनाद
 <details><summary>Keith</summary>
 
 On the instigation of god Savitr,  
-I take thee with the arms of the Açvins,  
+with the arms of the Açvins,  
 with the hands of Pusan.
 </details>
 </details>
@@ -43,6 +43,12 @@ with the hands of Pusan.
 
 आ द॑दे ।
 </details>
+
+<details><summary>Keith</summary>
+
+I take thee 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

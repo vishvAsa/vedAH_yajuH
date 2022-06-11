@@ -119,35 +119,10 @@ ____
 कृष्णाजिनमवधूनोति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑धूत॒ꣳ॒ रख्षोऽव॑धूता॒ अरा॑त॒यः ।
-</details>
-
-<details><summary>Keith</summary>
-
-The Raksas is shaken off, the evil spirits are shaken off.
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/05_haviHproxaNAdiH/avadhUtaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-____
-
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-कृष्णाजिनमवस्तृणाति
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अदि॑त्या॒स् त्वग॑सि ।  
-प्रति॑ +++(तादृशीं)+++ त्वा॒+++(ं)+++ पृ॒थि॒वी +++(स्वस्या उपरि)+++ वे᳚त्तु ।
-</details>
-
-<details><summary>Keith</summary>
-
-Thou art the skin of Aditi, may the earth' recognize thee [1].
-
-</details>
 
 
 
@@ -179,12 +154,18 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे पुरोडाशीयसमूह!)+++ अ॒ग्नेस्त॒नूर॑सि ।  
-वा॒चो वि॒सर्ज॑नम् [असि] ।  
++++(हे पुरोडाशीयसमूह!)+++ अ॒ग्नेस् त॒नूर् अ॑सि  
+वा॒चो वि॒सर्ज॑नम् ।  
 +++( 'यदा हि प्रजा ओषधीनामश्नन्ति । अथ वाचं विसृजन्ते' (तै.ब्रा. 3.2.5) इति ब्राह्मणम् ।)+++  
 दे॒व-वी॑तये+++(=भोगाय)+++ त्वा गृह्णा॒मि ।  +++(दासीभारादित्वात् (पा.सू. 6.2.42) पूर्वपदप्रकृतिस्वरत्वम् ॥)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the body of Agni, loostener of speech.
+
+I grasp thee for the joy of the gods.
+</details>
 
 
 
@@ -192,15 +173,21 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-मुसलमवदधाति
+मुसलम् अवदधाति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अद्रि॑रसि वानस्प॒त्यः ।  
++++(मुसल!)+++ अद्रि॑र् असि वानस्प॒त्यः ।  
 स इ॒दन् दे॒वेभ्यो॑ ह॒व्यꣳ सु॒शमि॑+++(=सु शाम्यतीति)+++  शमि॒ष्व+++(=शामय)+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the stone of wood.
+
+Do thou with good labour elaborate this offering for the gods.
+</details>
 
 ____
 
@@ -211,34 +198,44 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इष॒मा  व॑द  +++(देवेभ्यः!)+++।  
+इष॒म् आ  व॑द  +++(देवेभ्यः!)+++।  
 ऊर्ज॒म्+++(=रसं)+++ आ व॑द  ।
-</details>
 
-
-____
-+++(हे यज्ञायुधानि!)+++ द्यु॒मद् +++(अन्नं)+++ व॑दत ।
-____
++++(हे यज्ञायुधानि!)+++ द्यु॒मद् +++(अन्नं)+++ व॑दत ।  
 व॒यꣳ +++(शत्रु)+++स॑ङ्घा॒तञ् जे᳚ष्म+++(=जयेम)+++ ।  
 +++('मनोश्श्रद्धा देवस्य' (तै.ब्रा. 3.2.5) इत्यादिब्राह्मणम् ॥)+++
+</details>
+
+<details><summary>Keith</summary>
+
+Utter food, utter strength;  
+Make ye glorious sounds.
+
+May we be victorious in contest.
+</details>
+
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-शूर्पमुपयच्छति
+शूर्पम् उपयच्छति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒र्षवृ॑द्धमसि ।
+व॒र्षवृ॑द्धम् असि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art increased by the rain.
+</details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-पुरोडाशीयानुद्वपति शूर्पे
+पुरोडाशीयान् उद्वपति शूर्पे
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +243,10 @@ ____
 प्रति॑ त्वा व॒र्षवृ॑द्धव्ँ वेत्तु ।
 </details>
 
+<details><summary>Keith</summary>
+
+May that which is increased by the rain recognize thee.
+</details>
 
 ____
 
@@ -258,23 +259,30 @@ ____
 
 परा॑पूत॒ꣳ॒ रख्ष॒ᳶ  
 परा॑पूता॒ अरा॑तयः  ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++('यज्ञꣳ रक्षाꣳस्यनुप्राविशन्' (तै.ब्रा. 3.2.5) इति ब्राह्मणम् ॥)+++
+</details>
+
+<details><summary>Keith</summary>
+
+The Raksas is cleared away, the evil spirits are cleared away.
 </details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-तुषान्निरस्यति
+तुषान् निरस्यति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रख्ष॑साम्भा॒गो॑ऽसि ।
+रख्ष॑साम् भा॒गो॑ऽसि ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the share of the Raksases.
 </details>
 
 
@@ -287,9 +295,13 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒युर्वो॒ +++(तण्डुलेभ्यः कणान्)+++ विवि॑नक्तु ।
+वा॒युर् वो॒ +++(तण्डुलेभ्यः कणान्)+++ विवि॑नक्तु ।
 </details>
 
+<details><summary>Keith</summary>
+
+Let the wind separate you.
+</details>
 
 ____
 
@@ -303,6 +315,10 @@ ____
 दे॒वो व॑स् सवि॒ता हिर॑ण्यपाणि॒ᳶ प्रति॑गृह्णातु ॥ [8]  
 </details>
 
+<details><summary>Keith</summary>
+
+Let the god Savitr of golden hands, seize you.
+</details>
 
 
 इति पञ्चमोनुवाकः ॥

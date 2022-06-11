@@ -178,7 +178,7 @@ ____
 <details><summary>Keith</summary>
 
 On the instigation of god Savitr,  
-I take thee with the arms of the Açvins,  
+with the arms of the Açvins,  
 with the hands of Pusan.
 </details>
 </details>
@@ -225,7 +225,7 @@ with the hands of Pusan.
 <details><summary>Keith</summary>
 
 On the instigation of god Savitr,  
-I take thee with the arms of the Açvins,  
+with the arms of the Açvins,  
 with the hands of Pusan.
 </details>
 </details>
@@ -257,7 +257,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दन्दे॒वाना॑म् ।
+इ॒दन् दे॒वाना॑म् ।
 </details>
 
 <details><summary>Keith</summary>
