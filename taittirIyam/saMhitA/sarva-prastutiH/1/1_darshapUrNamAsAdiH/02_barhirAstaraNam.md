@@ -40,38 +40,8 @@ ____
 गार्हपत्ये प्रतितपति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/pratyuShTam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
-</details>
-
-
-<details><summary>Keith</summary>
-
-The Raksas is burned up, the evil spirits are burned up.
-
-</details>
-
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
-</details>
-
-
-
-<details><summary>मूलम्</summary>
-
-प्रत्यु॑ष्ट॒ꣳ॒ रख्षः॑ ।  
-प्रत्यु॑ष्टा॒ अरा॑तयः ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-2गार्हपत्ये प्रतितपति - प्रत्युष्टमिति ॥ केचित्तु - 'प्रत्युष्टा अरातयः' इति गायत्र्येकपदा यजुरादिकेत्याहुः । रक्षेरसुनि अर्थविपर्यासः । 'क्षर मूर्छने' इत्यस्य वर्णविपर्यासो वा । यदत्र छिद्रान्वेषि रक्षस्तदनेन प्रतितपनेन प्रत्युष्टं प्रतिमुखीकृत्य दग्धमस्तु । उष दाहे । 'आदितश्च' (पा.सू. 7.2.16) इति चकारादाश्वस्तादिवदिट्प्रतिषेधः । 'गतिरनन्तरः' (पा.सू. 6.2.49) इति पूर्वपदप्रकृतिस्वरत्वम् ।
-
-किञ्च, अरातयोपि प्रत्युष्टास्सन्तु । रातयो धनस्य दातारस्सुहृदः । 'कृत्यल्युटो बहुळम्' (पा.सू. 3.3.113) इति बहुलवचनात्कर्तरि क्तिन् । अतोन्येऽरातयः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) ॥
-</details>
 
 ____
 
@@ -564,28 +534,7 @@ ____
 प्रत्यागच्छति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-उ॒र्व् अ॑न्तरि॑ख्ष॒म् अन्वि॑हि ।  
-+++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
-</details>
-
-<details><summary>Keith</summary>
-
-Fare along the wide atmosphere.
-</details>
-
-
-
-<details><summary>मूलम्</summary>
-
-उ॒र्व॑न्तरि॑ख्ष॒मन्वि॑हि ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-18प्रत्यागच्छति - उर्विति गायत्र्यैकपदया ॥ उरु विस्तीर्णमन्तरिक्षं अन्विहि अनुगच्छ । महान् पन्थाः, सुखेन गच्छेति भावः ॥
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/urvantarixam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ____

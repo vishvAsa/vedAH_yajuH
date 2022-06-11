@@ -18,7 +18,19 @@ title: ०५ हविःप्रोक्षणादिः
 
 +++('असौ वा आदित्योच्छिद्रं पवित्रम्' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ।)+++
 </details>
+
+
+<details><summary>Keith</summary>
+
+Let the god Savitr purify you,  
+with a filter that has no flaw,  
+with the rays of the bright sun.
+</details>
+
+
 </div>  
+
+
 
 ____
 
@@ -31,10 +43,17 @@ ____
 
 +++(हे)+++ आपो॑ देवीर् अग्रेपुवो, अ॒ग्रे॒गु॒वो+++(=अग्रेसराः)+++ ऽग्र॑ इ॒मय्ँ य॒ज्ञन् न॑यत ।  
 अग्रे॑ य॒ज्ञप॑तिन् धत्त ।  
-यु॒ष्मानिन्द्रो॑ऽवृणीत वृत्र॒तूर्ये॑+++(=वधे)+++  ।  
-यू॒यमिन्द्र॑म् अवृणीध्वव्ँ वृत्र॒तूर्ये॑  ।
+यु॒ष्मान् इन्द्रो॑ ऽवृणीत वृत्र॒तूर्ये॑+++(=वधे)+++  ।  
+यू॒यम् इन्द्र॑म् अवृणीध्वव्ँ वृत्र॒-तूर्ये॑  ।
 </details>
 
+<details><summary>Keith</summary>
+
+Ye divine waters, that go in front and first purify, forward lead this sacrifice, place in front the lord of the sacrifice.
+
+You Indra chose for the contest with Vrtra, ye chose Indra for the contest with Vrtra.
+
+</details>
 
 
 ____
@@ -49,6 +68,10 @@ ____
 प्रोख्षि॑तास् स्थ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Ye are sprinkled.
+</details>
 
 
 ____
@@ -64,6 +87,10 @@ ____
 अ॒ग्नीषोमा᳚भ्या॒म् [वो॒ जुष्ट॒म् प्रोख्षा᳚मि ] ।
 </details>
 
+<details><summary>Keith</summary>
+
+I sprinkle you agreeable to Agni, to Agni and Soma.
+</details>
 
 
 ____
@@ -76,6 +103,12 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुन्ध॑ध्व॒न् दैव्या॑य॒ कर्म॑णे देवय॒ज्यायै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Be ye pure for the divine rite, for the sacrifice to the gods.
+
 </details>
 
 
@@ -91,6 +124,10 @@ ____
 अव॑धूत॒ꣳ॒ रख्षोऽव॑धूता॒ अरा॑त॒यः ।
 </details>
 
+<details><summary>Keith</summary>
+
+The Raksas is shaken off, the evil spirits are shaken off.
+</details>
 
 
 ____
@@ -106,12 +143,19 @@ ____
 प्रति॑ +++(तादृशीं)+++ त्वा॒+++(ं)+++ पृ॒थि॒वी +++(स्वस्या उपरि)+++ वे᳚त्तु ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the skin of Aditi, may the earth' recognize thee [1].
+
+</details>
+
+
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-उलूखलमध्यूहति
+उलूखलम् अध्यूहति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,6 +164,11 @@ ____
 वानस्प॒त्यम् +++(सत्)+++ प्रति॑ त्वा+++(ं)+++ ऽदि॑त्या॒स् त्वग् वे᳚त्तु ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the plank' of wood, may the skin of Aditi recognize thee.
+
+</details>
 
 ____
 

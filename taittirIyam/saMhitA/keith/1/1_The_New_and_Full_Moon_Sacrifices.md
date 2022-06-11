@@ -3,64 +3,18 @@ title = "1 The New and Full Moon Sacrifices"
 
 +++
 
-## 04
-### a
-For the rite you two, for the gods may I be strong.
-### b
-Thee for accomplishment!
-### c
-The Raksas is burnt up, the evil spirits are burnt up.
-### d
-Thou art the yoke.
-### e
-Injure him who injures us, injure him whom we injure.
-### f
-Thou art of gods the most firmly jointed, the most richly filled, the most agreeable, the best of carriers, the best caller of the gods.
-### g
-Thou art the oblation-holder that wavers not.
-### h
-Be firm, waver not.
-### i
-I gaze on thee with the eye of Mitra.
-### k
-Be not afraid, be not troubled, let me harm thee [1] not.
-### l
-(Be thou) wide open to the wind.
-### m
-On the impulse of the god Savitr, with the arms of the Aśvins, with the hands of Pusan, I offer thee dear to Agni, to Agni and Soma.
-### n
-This of the gods, this of us too.
-### o
-For prosperity thee, not for misfortune.
-### p
-May I behold the light, the radiance for all men.
-### q
-May they that have doors stand firm in heaven and earth.
-### r
-Fare along the wide atmosphere.
-### s
-I place thee in the lap of Aditi.
+
 ### t
-O Agni, guard the offering.
 ## 05
 ### a
-Let the god Savitr purify you, with a filter that has no flaw, with the rays of the bright sun.
 ### b
-Ye divine waters, that go in front and first purify, forward lead this sacrifice, place in front the lord of the sacrifice.
 ### c
-You Indra chose for the contest with Vrtra, ye chose Indra for the contest with Vrtra.
 ### d
-Ye are sprinkled.
 ### e
-I sprinkle you agreeable to Agni, to Agni and Soma.
 ### f
-Be ye pure for the divine rite, for the sacrifice to the gods.
 ### g
-The Raksas is shaken off, the evil spirits are shaken off.
 ### h
-Thou art the skin of Aditi, may the earth' recognize thee [1].
 ### i
-Thou art the plank' of wood, may the skin of Aditi recognize thee.
 ### k
 Thou art the body of Agni, loostener of speech.
 ### l
