@@ -3,55 +3,8 @@ title = "1 The New and Full Moon Sacrifices"
 
 +++
 
-## 10
-### b
-
-### c
-May I not brush the place of the cattle, I brush thee that art strong and overcomest foes.
-### d
-Speech, breath, eye, ear, offspring, the organ of generation may I not brush, I brush thee that art strong and overcomest foes.
-### e
-Beseeching favour, offspring, prosperity, in devotion to Agni,  
-I gird my body for good action.
-### f
-With fair offspring, with noble husbands,  
-We are come to thee,  
-O Agni, to thee that deceivest the foe,  
-The undeceivable, we that are not deceived.
-### g
-I loosen this bond of Varuna,  
-Which Savitr the kindly hath bound,  
-And in the birthplace of the creator, in the place of good action,  
-I make it pleasant for me with my husband.
-### h
-With life, with offspring,  
-O Agni, with splendour again,  
-As wife with my husband I am united.  
-United be my spirit with my body.
-### i
-Of the great ones thou art the milk, of plants the sap. Of thee that art the imperishable I make the offering.
-### k
-Thou art the milk of the great ones, of plants the sap; with undeceived eye I gaze on thee for fair offspring.
-### l
-Thou art brilliance; follow thou brilliance; may Agni not take away the brilliance.
-
-### m
-Thou art the tongue of Agni, the good one of the gods.
-### n
-Be thou (good) for every sacrifice, for the gods, for every prayer.
-### o
-Thou art the shining, the radiance, the brilliance.
-### p
-May the god Savitr purify you  
-With a flawless strainer,  
-With the rays of the bright sun.
-### q
-I grasp thee shining in the shining, for every sacrifice, for the gods, for every prayer.
-### r
-I grasp thee radiance in the radiance, thee resplendent in the resplendence for every sacrifice, for the gods, for every prayer.
 ## 11
 ### a
-Thou I art a black deer, living in the lair, to Agni thee, hail!
 ### b
 Thou art the altar, to the strew thee, hail!
 ### c
