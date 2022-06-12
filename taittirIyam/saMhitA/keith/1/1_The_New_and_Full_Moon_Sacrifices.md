@@ -2,49 +2,7 @@
 title = "1 The New and Full Moon Sacrifices"
 
 +++
-## 09
 
-### b
-### c
-### d
-### e
-### f
-### g
-### h
-O god Savitr, bind thou in the furthest distance with a hundred fetters him who hateth us and whom we hate, thence let him not free.
-### i
-Araru is smitten away from the earth, the place of sacrifice.
-### k
-Go to the fold [1] where the cattle are.
-### l
-May heaven rain for thee.
-### m
-O god Savitr &c.
-### n
-Araru is smitten away from the earth, he that sacrifices not to the gods.
-### o
-Go to the fold where the cattle are.
-### p
-May heaven rain for thee.
-### q
-O god Savitr, &c. [2]
-### r
-Let not Araru mount the sky for thee.
-### s
-Let the Vasus grasp thee with the Gayatri metre, let the Rudras grasp thee with the Tristubb. metre, let the Adityas grasp thee with the Jagati metre.
-### t
-On the impulse of the god Savitr wise ones perform the rite.
-### u
-Thou art the right, thou art the seat of right, thou art the glory of right.
-### v
-Thou art the holder, thou art the self-holder.
-### w
-Thou art broad, and wealthy art thou.
-### x
-Before the cruel foe slips away, O glorious one,  
-Taking up the earth, with plenteous drops,  
-The earth which they place in the moon by their offerings,  
-Which wise men use to guide them in the sacrifice.
 ## 10
 ### a
 The Raksas is burnt up, the evil spirits are burnt up.

@@ -1,5 +1,5 @@
 ---
-title: ०९ वेदिकरणम्
+title: ०९ वेदि-करणम्
 
 ---
 ____
@@ -89,52 +89,22 @@ Araru is smitten away from the earth.
 
 ____  
 
-<details><summary>भास्करोक्त-विनियोगः</summary>
 
-??हरति
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/09_vedikaraNam/vrajaM_gachCha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒जङ् ग॑च्छ गो॒स्थान॑म् ।
+अप॑हतो॒ऽररु॑ᳶ पृथि॒व्यै दे॑व॒यज॑न्यै।  
++++(प्रथमप्रहारेण देवयजनीकृता सा।)+++
 </details>
+
 
 <details><summary>Keith</summary>
 
-Go to the fold where the cattle are.
-</details>
+Araru is smitten away from the earth, the place of sacrifice.
 
-____
-
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-वेदिं प्रत्यवेक्षते
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-वर्ष॑तु +++(स्फ्येन प्रहृतायाः)+++ ते॒ द्यौः ।
-</details>
-
-<details><summary>Keith</summary>
-
-May heaven rain for thee.
-</details>
-
-____
-
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-निवपति
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ब॒धा॒न दे॑व सवितᳶ पर॒मस्या᳚म् परा॒वति॑+++(=सुदूरस्थे)+++  
-श॒तेन॒+++(=शतैः)+++ पाशै॒र् यो᳚ ऽस्मान् द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।  
-तमतो॒  मा मौ᳚क् ।  
-अप॑हतो॒ ऽररु॑ᳶ पृथि॒व्यै।   
-+++('अररुर्वै नामासुर आसीत्' (तै.ब्रा. 3.2.9) इत्यादिब्राह्मणप्रसिद्धः असुरविशेषोऽररुः, अरणशीलः गूढचारी ।)+++
 </details>
 
 
@@ -146,12 +116,35 @@ ____
 </details>
 
 
-[व्र॒जङ्ग॑च्छ गो॒स्थानं … तमतो॒  मा मौ᳚क् ।]  
-अप॑हतो॒ऽररु॑ᳶ पृथि॒व्यै दे॑व॒यज॑न्यै। +++(प्रथमप्रहारेण देवयजनीकृता सा।)+++  
-[व्र॒जङ्ग॑च्छ गो॒स्थानं … तमतो॒  मा मौ᳚क् ।]  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/09_vedikaraNam/vrajaM_gachCha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+
 पृथि॒व्या+++(व्यै)+++ अदे॑वयजनः +++(असुरः)+++।  
+</details>
+
+<details><summary>Keith</summary>
+
+Araru is smitten away from the earth, he that sacrifices not to the gods.
+
+</details>
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/09_vedikaraNam/vrajaM_gachCha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒ररु॑स् ते॒ दिव॒म् मा ऽस्का॑न्+++(=गात्)+++ ।  
 +++('भ्रातृव्यो वा अररुः' (तै.ब्रा. 3.2.9) इत्यादि ब्राह्मणम् ॥)+++
+</details>
+
+<details><summary>Keith</summary>
+
+Let not Araru mount the sky for thee.
+</details>
+
+
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -161,12 +154,16 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(अष्टौ)+++ वस॑वस् त्वा॒ +++(दक्षिणतः)+++ परि॑गृह्णन्तु +++(अष्टाक्षरेण)+++ गाय॒त्रेण॒ छन्द॑सा ।  
++++(वेदे!)+++ +++(अष्टौ)+++ वस॑वस् त्वा॒ +++(दक्षिणतः)+++ परि॑गृह्णन्तु +++(अष्टाक्षरेण)+++ गाय॒त्रेण॒ छन्द॑सा ।  
 +++(एकादश)+++ रु॒द्रास् त्वा॒ परि॑गृह्णन्तु॒ +++(एकादशाक्षरेण)+++ त्रैष्टु॑भेन॒ छन्द॑सा ।  
 +++(द्वादश)+++ आदि॒त्यास्त्वा॒ +++(उत्तरतः)+++ परि॑गृह्णन्तु॒ +++(द्वादशाक्षरेण)+++ जाग॑तेन॒ छन्द॑सा ।  
 +++('असुराणां वा इयमग्र आसीत्' (तै.ब्रा. 3.2.9) इत्यादि ब्राह्मणम् ॥)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Let the Vasus grasp thee with the Gayatri metre, let the Rudras grasp thee with the Tristubh metre, let the Adityas grasp thee with the Jagati metre.
+</details>
 
 
 ____
@@ -183,6 +180,10 @@ ____
 +++(ततो मम नापराधः।)+++
 </details>
 
+<details><summary>Keith</summary>
+
+On the impulse of the god Savitr wise ones perform the rite.
+</details>
 
 ____
 
@@ -194,10 +195,14 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे वेदे!)+++ ऋ॒तम॑सि ।  
-ऋत॒सद॑नमसि ।   
-ऋत॒श्रीर॑सि ।  
+ऋत॒-सद॑नम् असि ।   
+ऋत॒-श्रीर् अ॑सि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the right, thou art the seat of right, thou art the glory of right.
+</details>
 
 ____
 
@@ -214,11 +219,33 @@ ____
 वस्वी॑ चासि ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the holder, thou art the self-holder.  
+Thou art broad, and wealthy art thou.
+
+</details>
 
 ____
+(विनियोगः??)
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पु॒रा क्रू॒रस्य॑ +++(अरुरोर् असुरस्य)+++ वि॒सृपो॑+++(=विसर्पणात्)+++ विरफ्शिन्न्+++(=विविधशब्दवति वेदे!)+++  
-उदा॒दाय॑ पृथि॒वीञ्+++(=प्रथितां)+++ जी॒र+++(=अग्नि/बुद्धि)+++दा॑नुः+++(=दात्री[म्])+++  ।  
-याम् ऐर॑यञ् च॒न्द्रम॑सि स्व॒धाभि॒स्  
+उदा॒दाय॑ पृथि॒वीञ्+++(=प्रथितां [त्वं])+++ जी॒र+++(=अग्नि/बुद्धि)+++-दा॑नुः+++(=दात्री)+++  ।  
+याम् +++(प्र-)+++ऐर॑यञ् च॒न्द्रम॑सि स्व॒धाभि॒स्,  
 तान् धीरा॑सो अनु॒दृश्य॑ यजन्ते ॥ [15]
+
+</details>
+
+
+<details><summary>Keith</summary>
+
+Before the cruel foe slips away, O glorious one,  
+Taking up the earth, with plenteous drops,  
+The earth which they place in the moon by their offerings,  
+Which wise men use to guide them in the sacrifice.
+</details>
+
 
 इति प्रथमे नवमोनुवाकः  
