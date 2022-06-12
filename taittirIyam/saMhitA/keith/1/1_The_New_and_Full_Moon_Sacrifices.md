@@ -4,10 +4,8 @@ title = "1 The New and Full Moon Sacrifices"
 +++
 
 ## 10
-### a
-The Raksas is burnt up, the evil spirits are burnt up.
 ### b
-With Agni's keenest flame I burn you.
+
 ### c
 May I not brush the place of the cattle, I brush thee that art strong and overcomest foes.
 ### d

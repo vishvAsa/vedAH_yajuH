@@ -8,11 +8,18 @@ title: १० हविर्ग्रहणम्
 गार्हपत्ये स्रुवादीन् प्रतितपति
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/pratyuShTam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ  
-प्रत्यु॑ष्टा॒ अरा॑तयः ।  
 अग्नेर् व॒स् तेजि॑ष्ठेन॒ तेज॑सा॒ निष्ट॑पामि ।  
+</details>
+
+<details><summary>Keith</summary>
+
+With Agni's keenest flame I burn you.
 </details>
 
 
