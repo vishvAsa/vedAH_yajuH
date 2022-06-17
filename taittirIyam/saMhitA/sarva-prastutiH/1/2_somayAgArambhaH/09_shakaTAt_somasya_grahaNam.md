@@ -10,7 +10,6 @@ title = "०९ शकटात् सोमस्य ग्रहणम्"
 शकटेन सोमं प्रच्यावयति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रच्य॑वस्व भुवस्पते॒  
@@ -20,8 +19,6 @@ title = "०९ शकटात् सोमस्य ग्रहणम्"
 मा त्वा॒ वृका॑ अघा॒यवः॑।      
 मा ग॑न्ध॒र्वो वि॒श्वाव॑सु॒र् आ द॑घत्+++(=आत्मसात् कार्षुः)+++ ।
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -33,15 +30,12 @@ Let not the evil-working wolves (find) thee;
 Nor the Gandharva, Viçvavasu, injure thee.
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्येनो भू॒त्वा परा॑ पत  
 यज॑मानस्य नो गृ॒हे +++(प्राग्वंशे)+++ ।  
 +++(ऋत्विक्प्रेरित)+++दे॒वैस् सꣵ॑स्कृ॒तम् +++(आसनम्)+++ ।  
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -59,19 +53,15 @@ _____
 अध्वर्यु-यजमानौ गच्छतः।।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोम!)+++ यज॑मानस्य स्व॒स्त्यय॑न्य् अ॒सि  ।  
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art the good luck of the sacrificer.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,8 +71,6 @@ Thou art the good luck of the sacrificer.
 वि॒न्दते॒ वसु॑ ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 We have reached the path  
@@ -91,13 +79,11 @@ Whereby a man defeateth all his foes
 and winneth wealth.
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 राजानं प्रत्य् उपतिष्ठते। ।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -108,8 +94,6 @@ and winneth wealth.
 +++(वरणात्मा कदाचित् सोम उपयाति - 'वरुणो वा एष यजमानमभ्यैति यत्क्रीतस्सोम उपनद्धः' इति। मित्रवान् अपि - 'मित्रो न एहि' इति सोम उच्यते ।)+++
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Honour to the radiance of Mitra and Varuna.  
@@ -118,26 +102,21 @@ To the far seeing, god-born, the banner,
 The son of the sky, the sun, do ye sing.
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शकटम् उदग् ईषम् उपस्तम्भयति।।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णस्य॒ +++(ईषस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art the pillar of Varuna.
 </details>
-
 
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -145,19 +124,15 @@ Thou art the pillar of Varuna.
 शम्याम् उद्-वृहति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णस्य +++(ईषसहितस्य)+++ स्कम्भ॒+++(=अचलस्थान)+++सर्ज॑नमसि ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art the prop of Varuna's pillar.
 </details>
-
 
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -165,13 +140,10 @@ Thou art the prop of Varuna's pillar.
 योक्त्रम् अपनयति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उन् मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥
 </details>
-
-
 
 <details><summary>Keith</summary>
 

@@ -8,15 +8,12 @@ title = "११ उपसदाहुत्यन्तम्"
 सोमम् आप्याययति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ꣳ॒शुर् अꣳ॑शुस् ते +++(प्रत्येकः)+++ देव सो॒माऽऽप्या॑यताम् इन्द्रा॑यैक-धन॒विदे।  
 आ तुभ्य॒म्+++(=त्वत्पानाय)+++ इन्द्र॑ᳶ प्यायताम् ।  
 आ त्वमिन्द्रा॑य प्याय॒स्व ।
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -25,13 +22,11 @@ May Indra swell for thee;
 Do thou swell for Indra.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानं वाचयति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -39,21 +34,17 @@ Do thou swell for Indra.
 स्व॒स्ति ते॑ देव सोम सु॒त्याम्+++(=अभिषवम्)+++ अ॑शीय+++(=आप्नुयाम्)+++ ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Make thy comrades to swell with wealth and skill; with good fortune  
 may I accomplish thy pressing, O god Soma.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रस्तरे पाणिं निधाय नमस्-कुर्वन्ति।।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -63,8 +54,6 @@ may I accomplish thy pressing, O god Soma.
 +++('द्यावापृथिवीभ्यामेव नमस्कृत्यास्मिन् लोके प्रतितिष्ठन्ति' इति ब्राह्मणम् ।)+++
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Desired are riches exceedingly for food, for prosperity. Be right to the proclaimers of right.  
@@ -72,13 +61,11 @@ Honour to the sky,
 honour to the earth!
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानम् अवान्तर-दीक्षाम् उपनयति।।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -88,8 +75,6 @@ honour to the earth!
 स॒ह नौ᳚ व्रतपते व्र॒तिनो᳚र् व्र॒तानि । +++(यन्मया कृतं तत्त्वयापि कृतं भवतीति ।)+++
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Agni, lord of vows, thou art the vow-lord of vows;  
@@ -98,13 +83,11 @@ that body of thine be in me.
 Together, O lord of vows, be the vows of us two that keep vows.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उपसत्सु व्रतयति।।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -112,15 +95,11 @@ Together, O lord of vows, be the vows of us two that keep vows.
 तस्या᳚स् ते॒ +++(पतिभूताय)+++ स्वाहा॑ ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thy dread form, O Agni, with that protect us;  
 hail to that form of thine!
 </details>
-
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -128,15 +107,12 @@ hail to that form of thine!
 ३ उपसदाहुतीर् जुहोति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या ते॑ अग्ने ऽया+++(=अयसि/अस्यां [भुवि])+++श॒या [ त॒नूर्  
 वर्षि॑ष्ठा+++(=वृद्धतमा)+++ गह्वरे॒ष्ठोग्रव्ँ वचो॒ अपा॑वधीम्+++(→अपहन्मि)+++,,  
 त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधी॒ꣳ॒ स्वाहा᳚ ॥ ] ।
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -146,15 +122,12 @@ the highest, that dwells in the cleft,
 (by it) I have driven away angry speech. Hail!
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [या ते॑ अग्ने] रजा+++(=रजते/ऽन्तरिक्षे)+++-श॒या [ त॒नूर्  
 वर्षि॑ष्ठा+++(=वृद्धतमा)+++ गह्वरे॒ष्ठोग्रव्ँ वचो॒ अपा॑वधीम्+++(→अपहन्मि)+++,,  
 त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधी॒ꣳ॒ स्वाहा᳚ ॥ ] ।
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -164,15 +137,12 @@ the highest, that dwells in the cleft,
 (by it) I have driven away angry speech. Hail!
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [या ते॑ अग्ने] हरा+++(=हिरण्ये‌‌/द्यवि)+++श॒या [ त॒नूर्  
 वर्षि॑ष्ठा+++(=वृद्धतमा)+++ गह्वरे॒ष्ठोग्रव्ँ वचो॒ अपा॑वधीम्+++(→अपहन्मि)+++,,  
 त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधी॒ꣳ॒ स्वाहा᳚ ॥ ] ।
 </details>
-
-
 
 <details><summary>Keith</summary>
 

@@ -13,7 +13,6 @@ short_title = "१३"
 शालामुखीये ऽग्नौ शामित्रं जुहोति - युञ्जत इति जगत्या ॥
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यु॒ञ्जते॒ मन॑ उ॒त यु॑ञ्जते॒ धियो॒  
@@ -21,8 +20,6 @@ short_title = "१३"
 +++(सवितृ-प्रामुख्यम् अभिलक्ष्य)+++ वि होत्रा॑+++(=स्तुतीर्)+++ दधे वयुना॒+++(=ज्ञान)+++-विद् एक॒  
 इन् म॒ही दे॒वस्य॑ सवि॒तुᳶ परि॑ष्टुतिः ॥
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -32,13 +29,11 @@ He alone, who knows the way, ordains their priestly functions;
 Great is the praise of the god Savitr.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अक्षोत्सर्जने जपति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -46,14 +41,11 @@ Great is the praise of the god Savitr.
 +++(हे अक्षौ!)+++ देव॒-श्रुतौ॑ दे॒वेष्व् आ घो॑षेथाम्।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 With fair voice, O god, do thou address the dwelling.  
 Ye two, famed among the gods, make proclamation among the gods.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -61,13 +53,11 @@ Ye two, famed among the gods, make proclamation among the gods.
 अक्ष-धुरम् अवाञ्जयति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ नो॑ वी॒रो जा॑यताङ् कर्म॒ण्यो॑+++(=कर्मयोग्यः)+++  
 यꣳ सर्वे॑ ऽनु॒जीवा॑म॒ यो ब॑हू॒नाम् अस॑द् व॒शी ।  
 </details>
-
 
 <details><summary>Keith</summary>
 
@@ -76,13 +66,11 @@ On whom we may all depend,
 Who shall be ruler over many.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणस्यां चक्रवर्तिन्यां जुहोति। यतः - इदं विष्णुरेव स्वयं विचक्रमे विक्रमते यद्धविर्धानं विक्रमते।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -91,8 +79,6 @@ Who shall be ruler over many.
 +++(तैर् आधारैः)+++ समू॑ढम् अस्य पाꣳसु॒रे +++(पादे)+++ ॥
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Over this Visnu strode;  
@@ -100,13 +86,11 @@ Thrice did he set down his foot;
 (All) is gathered [1] in its dust.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरस्यां वर्तन्यां जुहोति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -116,8 +100,6 @@ Thrice did he set down his foot;
 **दा॒धार॑** +++(अन्तरिक्षरूपिणीम्)+++ पृथि॒वीम् अ॒भितो॑ म॒यूखैः᳚+++(→कीलैः/ किरणैः)+++ ॥
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 So then be ye two rich in food, in cows,  
@@ -126,13 +108,11 @@ These two firmaments Visnu held asunder;
 He holdeth the earth on all sides with pegs.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 हविर्धाने प्रवर्तयन्ति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -140,13 +120,10 @@ He holdeth the earth on all sides with pegs.
 अत्र॑ रमेथा॒व्ँ वर्ष्म॑न् पृथि॒व्याः ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Come ye two then forward, ordaining the offering; bring upward the sacrifice; do not falter.  
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -154,26 +131,21 @@ Come ye two then forward, ordaining the offering; bring upward the sacrifice; do
 अध्वर्यू हविर्धाने स्थापयतः।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र॑ रमेथा॒व्ँ वर्ष्म॑न् पृथि॒व्याः ।
 </details>
-
-
 
 <details><summary>Keith</summary>
 
 There rest on the height of the earth.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अध्वर्यू हविर्धानयोर् मध्यौ निघ्नतः - दिव इति त्रिष्टुभा ॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -183,8 +155,6 @@ There rest on the height of the earth.
 आ प्र य॑च्छ दख्षि॑णा॒द् ओत स॒व्यात् ॥
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 From the sky, O Visnu, or from the earth,  
@@ -193,13 +163,11 @@ Fill thy hands with many good things,
 Give to us [2] from right and from left.  
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अध्वर्यू मेध्यौ बध्नीतः - विष्णोर्नुकमिति त्रिष्टुभा ॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,8 +177,6 @@ Give to us [2] from right and from left.
 विचक्रमा॒णस् त्रे॒धोरु॑-गा॒यः+++(=गीतः/‌गतिः)+++ ॥
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 I shall proclaim the mighty deeds of Visnu  
@@ -219,26 +185,21 @@ Who established the highest abode,
 Stepping thrice, the far-goer.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 रराटीम् आसञ्जयति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णो॑ र॒राट॑म्+++(=ललाटम्)+++ असि ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art the forehead of Visnu.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -246,19 +207,15 @@ Thou art the forehead of Visnu.
 मध्यमं छदिर् अधिनिदधाति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णोः᳚ पृ॒ष्ठम् अ॑सि ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art the back of Visnu.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -266,20 +223,15 @@ Thou art the back of Visnu.
 पार्श्वयोच् छदिषी+++(=??)+++ निदधाति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णो॒श् श्नप्त्रे᳚+++(=मुखकोणौ)+++ स्थः ।
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 Ye two are the corners' of Visnu's mouth.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -292,13 +244,10 @@ Ye two are the corners' of Visnu's mouth.
 विष्णो॒स् स्यूर्+++(=सूची)+++ अ॑सि ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art the thread of Visnu.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -306,19 +255,15 @@ Thou art the thread of Visnu.
 द्वारग्रन्थिं करोति - विष्णोर्ध्रुवमसीति ॥
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णो᳚र् ध्रु॒वम् अ॑सि ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art the fixed point of Visnu.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -326,13 +271,10 @@ Thou art the fixed point of Visnu.
 हविर्धान-मण्डपम् अभिमृशति - वैष्णवमिति ॥
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वै॒ष्ण॒वम् अ॑सि। विष्ण॑वे त्वा +++(अभिमृशामि)+++॥ [27]  
 </details>
-
-
 
 <details><summary>Keith</summary>
 

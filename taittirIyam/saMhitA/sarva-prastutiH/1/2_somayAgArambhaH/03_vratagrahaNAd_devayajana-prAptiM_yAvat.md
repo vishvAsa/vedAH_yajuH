@@ -12,7 +12,6 @@ short_title = "०३ व्रतग्रहणाद्"
 मध्यरात्रे प्रबुद्धो यजमान आचामति- दैवीं धियमित्यनुष्टुभा चतुष्पदया ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दैवी॒न् धिय॑म् मनामहे +++(=अभ्यस्यामः)+++  
@@ -20,7 +19,6 @@ short_title = "०३ व्रतग्रहणाद्"
 वर्चो॒धाय्ँ य॒ज्ञवा॑हसꣳ,  
 सुपा॒रा+++(=स्ववसाना)+++ नो॑ अस॒द् वशे᳚ ॥+++(र५)+++   
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -36,8 +34,6 @@ short_title = "०३ व्रतग्रहणाद्"
 यद्वा - पार तीर कर्मसमाप्तौ, सुष्ठु पारयित्री कर्मणः । पचाद्यच्, कृदुत्तरपदप्रकृतिस्वरत्वम्, थाथादिस्वरो वा । ईदृशी भूत्वा नोऽस्माकं वशे असत् अस्तु अस्मद्वशे वर्तताम् । अस्तेर्लेटि । 'लेटोडाटौ' इत्यडागमः, 'इतश्च लोपः परस्मैपदेषु' ॥
 </details>
 
-
-
 <details><summary>English</summary>
 
 The thought divine we meditate,  
@@ -46,13 +42,11 @@ That giveth glory, and carrieth the sacrifice.
 May it guide us safely according as we will.
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 व्रतयति। सुप्त्वा प्रबुद्ध्य चाचम्य व्रतयितव्यम् इति क्रमः ।  +++(र५।)+++
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -62,9 +56,6 @@ May it guide us safely according as we will.
 तेभ्यो॒ नमः॑ । तेभ्य॒स् स्वाहा॑ ।
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 The gods, mind-born, mind-using,  
@@ -73,13 +64,11 @@ May they guard us, may they protect us,
 To them honour! to them hail!
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 संविशति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,9 +78,6 @@ To them honour! to them hail!
 प्र॒बुधे॑+++(=प्रबोधनाय)+++ न॒ᳶ पुन॑र् ददः ॥+++(र५)+++   
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 O Agni, be thou wakeful;  
@@ -100,13 +86,11 @@ Guard us to prosperity;
 Grant to us to wake again.
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रबुद्धं यजमानं वाचयति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,15 +99,12 @@ Grant to us to wake again.
 त्वं य॒ज्ञेष्व् ईड्यः॑ ॥ +++(र५)+++
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou, O Agni, art the guardian of vows,  
 Among the gods and men.  
 Thou [1] art to be invoked at our sacrifices.
 </details>
-
 
 ## सनीहारः
 _____
@@ -133,16 +114,12 @@ _____
 सनि-हारान् वक्ष्यमाणान् प्रहिणोति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वे॑ दे॒वा अ॒भि मा मा ऽव॑वृत्रन्+++(=अववर्तन्ताम्)+++ +++(- अपि तु प्रत्यावर्तन्ताम्)+++ -  
 पू॒षा स॒न्या +++(=याच्ञालब्धेन हिरण्यादि-धनेन)+++ सोमो॒ राध॑सा +++(=देहप्रसाधकेन क्षौम-दुकूलादि-धनेन)+++     
 दे॒वस् स॑वि॒ता वसो᳚र् +++(सकाशात्)+++ +++(जीवद्धनात्मक-)+++वसु॒-दावा᳚+++(=दाता)+++। +++(र४)+++
 </details>
-
-
-
 
 <details><summary>Keith</summary>
 
@@ -151,13 +128,11 @@ Pusan with gain, Soma with a gift,
 The god Savitr the giver of brightness.
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 आहरन्तं दृष्ट्वा जपति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -166,9 +141,6 @@ The god Savitr the giver of brightness.
 विरा॑धि॒+++(=वियुक्तो ऽकारि)+++ मा ऽहम् आयु॑षा ॥
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 O Soma, give so much, and bear more hither.  
@@ -176,13 +148,11 @@ May he that filleth never miss of fullness.
 Let me not be parted with life.
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 हिरण्यं प्रतिगृह्णाति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -190,15 +160,11 @@ Let me not be parted with life.
 मम॒ भोगा॑य भव ।+++(र४)+++
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 Thou art gold;  
 be for my enjoyment. 
 </details>
-
 
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -206,15 +172,11 @@ be for my enjoyment.
 वस्त्रं प्रतिगृह्णाति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वस्त्र॑म्+++(=आच्छादनम्)+++ असि।  
 मम॒ भोगा॑य भव ।
 </details>
-
-
-
 
 <details><summary>Keith</summary>
 
@@ -222,13 +184,11 @@ Thou art raiment;
 be for my enjoyment. 
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उस्रां प्रतिगृह्णाति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -236,14 +196,11 @@ be for my enjoyment.
 मम॒ भोगा॑य भव ।  
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art a cow;  
 be for my enjoyment. 
 </details>
-
 
 ## अनुदेशनम्
 ### विनियोगः
@@ -256,8 +213,6 @@ be for my enjoyment.
 हयो॑ऽसि ।  
 मम॒ भोगा॑य भव ।
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -277,8 +232,6 @@ _____
 मम॒ भोगा॑य भव ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art a goat; be for my enjoyment. 
@@ -296,13 +249,10 @@ _____
 मम॒ भोगा॑य भव।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art a ram; be for my enjoyment.
 </details>
-
 
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -310,19 +260,15 @@ Thou art a ram; be for my enjoyment.
 नष्टां मृतां वानुदिशति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒यवे᳚ त्वा +++(ऽनुदिशामि)+++।+++(र५)+++
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 To Vayu thee
 </details>
-
 
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -330,19 +276,15 @@ To Vayu thee
 अप्सु वा पाशे वा मृताम् अनुदिशति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णाय त्वा  +++(ऽनुदिशामि)+++।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 to Varuna thee
 </details>
-
 
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -350,19 +292,15 @@ to Varuna thee
 या सं वा शीर्यते गर्तं वा पद्यते ताम् अनुदिशति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्ऋ॑त्यै त्वा +++(ऽनुदिशामि)+++।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 to Nirrti thee
 </details>
-
 
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -370,19 +308,15 @@ to Nirrti thee
 यामहिर्व्याघ्रो वा हन्ति तामनुदिशति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रु॒द्राय॑ त्वा  +++(ऽनुदिशामि)+++।+++(र५)+++
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 to Rudra thee!
 </details>
-
 
 ## अपाम् उत्तरणम्
 
@@ -392,14 +326,11 @@ to Rudra thee!
 दीक्षितो ऽप उत्तरति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवी॑र् आपो अपान्नपा॒द्+++(=जलाग्निः, अपां नप्ता)+++ य ऊ॒र्मि-ह॑वि॒ष्यः॑ ।  
 इन्द्रि॒यावा᳚न्+++(=वीर्यवान्)+++ म॒दिन्त॑म॒स्+++(=मादयितृतमः)+++ तव्ँ वो॒ माऽव॑क्रमिषम्॥+++(4)+++
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -408,31 +339,24 @@ Fit for oblation, mighty, most exhilarating,
 That stream of yours may I not step upon.
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(युष्मत्प्रसादाद् अहं यज्ञारूपम्)+++ अच्छि॑न्न॒न् तन्तु॑म् पृथि॒व्या +++(सेतुम्)+++ अनु॑ गेषम्+++(=गच्छेयम्)+++।  
 +++(तेन नानुक्रमणम् इति भावः। 'सेतुमेव कृत्वात्येति' इति ब्राह्मणम् ॥)+++
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Along an unbroken web of earth may I go.
 </details>
 
-
 ## देवयजन-प्राप्तिः
-
 
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रयाणे कर्तव्ये प्रयाति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -442,15 +366,11 @@ Along an unbroken web of earth may I go.
 +++('ब्रह्म वै देवानां बृहस्पतिस् तम् एवान्वारभते' इत्यादि ब्राह्मणम् ॥)+++
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 From good to better do thou advance.  
 May Brhaspati be thy leader
 </details>
-
 
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -458,19 +378,15 @@ May Brhaspati be thy leader
 देवयजनाद् अर्वाग् यत्र वत्स्यन् भवति तद् अवस्यति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(देवयजनात् परम्)+++ अथ॑+ई॒म् अव॑स्य॒+++(=अवसितो भव)+++ वर॒ +++(प्रदेशे)+++ आ पृ॑थि॒व्याः।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Then set him free, on the chosen spot of earth.
 </details>
-
 
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -478,27 +394,21 @@ Then set him free, on the chosen spot of earth.
 आदित्यम् उद्यन्तम् उपतिष्ठते।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒रे+++(=दूरे)+++ शत्रू᳚न् कृणुहि॒ सर्व॑वीर+++(<-बहुव्रीहिः)+++ ।
 </details>
-
-
-
 
 <details><summary>Keith</summary>
 
 Drive afar the foes with all thy strength.
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यत्र यक्ष्यमाणो भवति तद्-अभिप्रेतं देव-यजनम् अधितिष्ठति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -507,8 +417,6 @@ Drive afar the foes with all thy strength.
 ऋ॒ख्सा॒माभ्या॒य्ँ यजु॑षा +++(च यागं)+++ स॒न्तर॑न्तो  
 रा॒यस्पोषे॑ण॒+++(=धनपुष्टिभ्यां)+++ सम् इ॒षा म॑देम ॥ [8]
 </details>
-
-
 
 <details><summary>Keith</summary>
 

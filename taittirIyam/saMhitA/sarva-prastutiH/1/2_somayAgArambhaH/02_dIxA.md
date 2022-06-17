@@ -3,13 +3,11 @@ title = "०२ दीक्षा"
 
 +++
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्रुवेण चतस्रो दीक्षाहुतीर्जुहोति-।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19,9 +17,6 @@ title = "०२ दीक्षा"
 सर॑स्वत्यै पू॒ष्णे᳚ ऽग्नये॒ स्वाहा॑ ।
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 To the purpose, to the impulse, to Agni, hail!  
@@ -30,13 +25,11 @@ To consecration, to penance, to Agni, hail!
 To Sarasvati, to Prisan, to Agni, hail!
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्रुचा पञ्चमीं जुहोति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,9 +38,6 @@ To Sarasvati, to Prisan, to Agni, hail!
 नो ह॒विषा॑ वृधातु। स्वाहा᳚।  
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 O ye divine, vast, all-sootbing waters!  
@@ -55,13 +45,11 @@ Heaven and earth, wide atmosphere!
 May Brhaspati rejoice in our oblation, hail!
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्रुचैवोद्ग्रहणं जुहोति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,8 +61,6 @@ May Brhaspati rejoice in our oblation, hail!
 स्वाहा᳚ ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Let every man choose the companionship  
@@ -83,13 +69,11 @@ Every man prayeth for wealth;
 Let him choose glory that he may prosper, hail!
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनस्य शुक्लकृष्णे अङ्गुष्ठाङ्गुलिभ्यां सम्मृशति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -99,9 +83,6 @@ Let him choose glory that he may prosper, hail!
 ते मा᳚ पातम् आऽस्य य॒ज्ञस्यो॒दृचः॑+++(=आसमाप्तेः)+++।+++(र४)+++  
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 Ye are images of the Rc and the Saman.  
@@ -109,13 +90,11 @@ I grasp you two;
 do ye two [1] protect me until the completion of this sacrifice.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनम् अभिसर्पति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,9 +104,6 @@ do ye two [1] protect me until the completion of this sacrifice.
 सु॒तर्मा॑ण॒म्+++(=सुतारकम्)+++ अधि॒ नावꣳ॑ रुहेम॥+++(५)+++
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 O god,Varuna, do thou sharpen this prayer of him who implores thee,  
@@ -136,13 +112,11 @@ May we mount that safe ship
 Whereby we' may pass over all our difficulties.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मेखलां पर्यस्यति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -152,9 +126,6 @@ Whereby we' may pass over all our difficulties.
 मा मा॑ हिꣳसीः ।+++(र४)+++
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 Thou art the strength of the Angirases, soft as wool;  
@@ -163,13 +134,11 @@ guard me,
 harm me not.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वाससा यजमानं प्रोर्णोति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -177,14 +146,11 @@ harm me not.
 शर्म॑ मे यच्छ।  
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art the protection of Visnu, the protection of the sacrificer,  
 grant me protection.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -192,27 +158,21 @@ grant me protection.
 वसनच्छिद्रेषु यजमानं वाचयति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे वासः!)+++ नख्ष॑त्राणाम् मा ऽतीका॒शात् +++(छिद्रात्)+++ पा॒हि  ।+++(र४)+++
 </details>
-
-
-
 
 <details><summary>Keith</summary>
 
 Guard me from the lustre of the Naksatras.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्ण-विषाणे यजमानाय प्रयच्छति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -221,13 +181,10 @@ Guard me from the lustre of the Naksatras.
 मा मा॑ हिꣳसीः ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art the birthplace of Indra [2]; harm me not.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -235,20 +192,15 @@ Thou art the birthplace of Indra [2]; harm me not.
 तयान्तर्वेदि लोष्टम् उद्धन्ति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे पृथिवि!)+++ कृ॒ष्यै त्वा॑ सुस॒स्यायै॑ +++(उद्धरामि)+++।+++(र४)+++
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 For ploughing thee, for good crops,
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -256,20 +208,15 @@ For ploughing thee, for good crops,
 तया दक्षिणं गोदानं कण्डूयते।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपिप्प॒लाभ्य॒स्+++(=सुफलेभ्यः)+++ त्वौष॑धीभ्यः +++(कण्डूये)+++।+++(र४)+++
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 For the plants with good berries thee!
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -277,13 +224,10 @@ For the plants with good berries thee!
 औदुम्बरं दण्डं यजमानाय प्रयच्छति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे दण्ड!)+++ सु+उ॒प॒स्था दे॒वो वन॒स्पति॑र् ऊ॒र्ध्वो +++(त्वम्)+++ मा॑ पा॒ह्य् ओदृचः+++(=आसमाप्तेः)+++।
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -299,8 +243,6 @@ _____
 उ॒रोर् अ॒न्तरि॑ख्षात् [आर॑भे ] स्वाहा॑ । +++('अन्तरिक्षे हि यज्ञः' इति च ब्राह्मणम् ।)+++  
 य॒ज्ञव्ँ वाता॒द् आ र॑भे ॥
 </details>
-
-
 
 <details><summary>Keith</summary>
 

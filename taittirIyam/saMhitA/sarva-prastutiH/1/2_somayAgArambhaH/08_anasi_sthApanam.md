@@ -8,7 +8,6 @@ title = "०८ अनसि स्थापनम्"
 सोमम् आदायोत्तिष्ठति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद् आयु॑षा स्वा॒युषा +++(सोमरूपेण)+++  
@@ -16,9 +15,6 @@ title = "०८ अनसि स्थापनम्"
 उत् प॒र्जन्य॑स्य॒ शुष्मे॑ण+++(=बलेन)+++  
 उद् अ॑स्थाम्+++(=अतिष्ठम्)+++ अ॒मृता॒ꣳ॒ अनु॑॥+++(5)+++
 </details>
-
-
-
 
 <details><summary>Keith</summary>
 
@@ -28,26 +24,21 @@ Up with the force of Parjanya,
 Up have I arisen along with the immortals.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमवाहनम् अनो ऽभिप्रैति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒र्व् अ॑न्तरि॑ख्ष॒म् अन्वि॒हि +++(तेन निर्बाधं गच्छ)+++।  
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Fare along the wide atmosphere.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -55,19 +46,15 @@ Fare along the wide atmosphere.
 नीडे कृष्णाजिनमास्तृणाति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदि॑त्या॒स् सदो॑ऽसि ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art the seat of Aditi.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -75,26 +62,21 @@ Thou art the seat of Aditi.
 तस्मिन् सोमं निदधाति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदि॑त्या॒स् सद॒ आसीद ।
 </details>
-
-
 
 <details><summary>Keith</summary>
 
 Sit on the seat of Aditi.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमम् उपतिष्ठते।।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -104,9 +86,6 @@ Sit on the seat of Aditi.
 विश्वेत् तानि॒ वरु॑णस्य+++(=वारकस्य)+++ व्र॒तानि॑॥
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 The bull hath stablished the sky, the atmosphere;  
@@ -115,13 +94,11 @@ Hath set him in all worlds as king.
 All these are Varuna's ordinances.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमं वाससा वेष्टयति।+++(4)+++
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -131,8 +108,6 @@ All these are Varuna's ordinances.
 दि॒वि सूर्य॑म् अदधा॒थ् सोम॒म् अद्रौ॑ ॥
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 He hath stretched out the sky over the woods;  
@@ -141,13 +116,11 @@ Varuna hath set skill in the heart [1], Agni in dwellings,
 The sun in the sky, the Soma on the hill.
 </details>
 
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सौर्यर्चा कृष्णाजिनं पुरस्तात् प्रत्यानह्यत्य् ऊर्ध्व-ग्रीवम्।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -156,8 +129,6 @@ The sun in the sky, the Soma on the hill.
 दृ॒शे विश्वा॑य॒ सूर्य᳚म् ॥
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thee, all-knowing god,
@@ -165,14 +136,11 @@ Thy rays bear upwards,
 The sun for all to see.
 </details>
 
-
-
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोम-वाहनाव् आनीयमानौ प्रतिमन्त्रयते।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -180,14 +148,11 @@ The sun for all to see.
 अन॒श्रू अवी॑रहणौ ब्रह्म॒चोद॑नौ   ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Come hither, ye oxen, strong to bear the yoke,
 Tearless, slaying not man, furthering the prayer.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -195,19 +160,15 @@ Tearless, slaying not man, furthering the prayer.
 दक्षिणं युनक्ति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art the pillar of Varuna.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -215,19 +176,15 @@ Thou art the pillar of Varuna.
 शम्याम् अवगूहति ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णस्य +++(सोमस्य च)+++ स्कम्भ॒+++(=अविचलमवस्थानं)+++सर्ज॑नम् असि ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Thou art the prop of Varuna's pillar.
 </details>
-
 
 ## विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -235,12 +192,10 @@ Thou art the prop of Varuna's pillar.
 योक्त्रेण बध्नाति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्य॑स्तो॒+++(=उत्क्षिप्तः)+++ वरु॑णस्य॒ पाशः॑ ॥ [16]  
 </details>
-
 
 <details><summary>Keith</summary>
 

@@ -5,14 +5,12 @@ short_title = "०५"
 +++
 ०५ सोमक्रयण्य्-अनुगमनादिकम्
 
-
 ## सोमक्रयण्य्-अनुगमनम्
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 षट्पदान्यनु निक्रामति सोमक्रयणीं गच्छन्तीम् अनुगच्छति। षट्सु पदेषु षण्मन्त्राः ॥।
 </details>
-
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -36,14 +34,12 @@ thou art Çukra,
 thou art Candra.
 </details>
 
-
 ## सप्तमपदे कर्म
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सप्तमं पदम् अभिगृह्णाति।
 </details>
-
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -57,13 +53,11 @@ May Brhaspati make thee rejoice in happiness.
 May Rudra with the Vasus be favourable to thee.
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मिन् पदे जुहोति।
 </details>
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -71,7 +65,6 @@ May Rudra with the Vasus be favourable to thee.
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
-
 
 पृथि॒व्यास् त्वा॑ मू॒र्धन्न्+++(नि)+++ आ जि॑घर्मि+++(=क्षारयामि)+++  
 देव॒यज॑न॒+++(य्)+++ इडा॑याᳶ+++(=सोमक्रयण्याः [सप्तमे])+++ प॒दे घृ॒तव॑ति  
@@ -85,13 +78,11 @@ I pour thee on the head of the earth,
 on the place of sacrifice, on the abode of the offering, rich in ghee; hail!
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पदं परिलिखति।
 </details>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
 <details open><summary><h4>परिलिखितम् ...{Loading}...</h4></summary>
@@ -115,7 +106,6 @@ on the place of sacrifice, on the abode of the offering, rich in ghee; hail!
  － परि॑लिखित॒ꣳ॒ रख्ष॒ᳶ परि॑लिखिता॒ अरा॑तय इ॒दम॒हꣳ रख्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒ यो᳚ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्म इ॒दम॑स्य ग्री॒वाः [11] अपि॑ कृन्तामि
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 9पदं परिलिखति - परिलिखितमिति ॥ परिलिखितं परितो नाशितं रक्षोस्तु यदत्र छिद्रान्वेषि । 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् । किच्च अरातयो धनस्यादातारः शत्रवः । वहुळवचनात्कर्तरि क्तिन् । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । तेपि परिलिखितास्सन्तु अनेन पदविलेखनेन ।
@@ -134,7 +124,6 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 </details>
 </div>  
 
-
 ## पांसुग्रहणम्
 
 ### विनियोगः
@@ -142,7 +131,6 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 
 पदपांसून् धरण्यां संवपति।।
 </details>
-
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -154,13 +142,11 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 With us be wealth.
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानाय प्रयच्छति।।
 </details>
-
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -172,13 +158,11 @@ With us be wealth.
 with thee be wealth.
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानः पत्न्यै प्रयच्छति।
 </details>
-
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -190,7 +174,6 @@ with thee be wealth.
 thine be wealth.
 </details>
 
-
 ## पत्नीकर्म
 
 ### विनियोगः
@@ -198,7 +181,6 @@ thine be wealth.
 
 पत्नीं सोमक्रयण्या समीक्षयति।
 </details>
-
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,13 +192,11 @@ thine be wealth.
 Gaze, O goddess, together with the goddess Urvaçi.
 </details>
 
-
 ### विनियोगः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पत्नी यजमानमीक्षते।
 </details>
-
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
