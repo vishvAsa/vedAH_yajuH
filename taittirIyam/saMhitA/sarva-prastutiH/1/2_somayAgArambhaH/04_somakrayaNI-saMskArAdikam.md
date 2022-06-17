@@ -5,7 +5,7 @@ short_title = "०४"
 +++
 ०४ सोमक्रयणी-संस्कारादिकम्
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 हिरण्यं स्रुच्यवदधाति।
@@ -23,7 +23,7 @@ This is thy body, O pure one. This is thy splendour. With it be united.
 Win brightness.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तदाज्यम् आहवनीये जुहोति।
@@ -41,7 +41,7 @@ Thou art the strong, grasped by mind, acceptable to Visnu.
 In the impulse of thee, of true impulse, may I win a support for my speech. Hail!
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अपरं चतुर्गृहीतं गृहीत्वा तद् यजमानम् अवेक्षयति।
@@ -61,7 +61,7 @@ thou art nectar,
 thou art the sacrifice for all the gods.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 हिरण्यम् अन्तर्धाय यजमानम् आदित्यम् उदीक्षयति।
@@ -84,7 +84,7 @@ When thou goest with thy steeds,
 Blazing with the wise.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमक्रयणीम् अनुमन्त्रयते।

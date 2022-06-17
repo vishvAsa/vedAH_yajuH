@@ -6,7 +6,7 @@ short_title = "०३ व्रतग्रहणाद्"
 ०३ व्रतग्रहणाद् देवयजन-प्राप्तिं यावत्
 
 ## व्रतग्रहणम्
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मध्यरात्रे प्रबुद्धो यजमान आचामति- दैवीं धियमित्यनुष्टुभा चतुष्पदया ।
@@ -42,7 +42,7 @@ That giveth glory, and carrieth the sacrifice.
 May it guide us safely according as we will.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 व्रतयति। सुप्त्वा प्रबुद्ध्य चाचम्य व्रतयितव्यम् इति क्रमः ।  +++(र५।)+++
@@ -64,7 +64,7 @@ May they guard us, may they protect us,
 To them honour! to them hail!
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 संविशति।
@@ -86,7 +86,7 @@ Guard us to prosperity;
 Grant to us to wake again.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रबुद्धं यजमानं वाचयति।
@@ -108,7 +108,7 @@ Thou [1] art to be invoked at our sacrifices.
 
 ## सनीहारः
 _____
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सनि-हारान् वक्ष्यमाणान् प्रहिणोति।
@@ -128,7 +128,7 @@ Pusan with gain, Soma with a gift,
 The god Savitr the giver of brightness.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 आहरन्तं दृष्ट्वा जपति।
@@ -148,7 +148,7 @@ May he that filleth never miss of fullness.
 Let me not be parted with life.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 हिरण्यं प्रतिगृह्णाति।
@@ -166,7 +166,7 @@ Thou art gold;
 be for my enjoyment. 
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वस्त्रं प्रतिगृह्णाति।
@@ -184,7 +184,7 @@ Thou art raiment;
 be for my enjoyment. 
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उस्रां प्रतिगृह्णाति।
@@ -203,7 +203,7 @@ be for my enjoyment.
 </details>
 
 ## अनुदेशनम्
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 </details>
@@ -221,7 +221,7 @@ be for my enjoyment [2].
 _____
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 </details>
@@ -238,7 +238,7 @@ Thou art a goat; be for my enjoyment.
 _____
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 </details>
@@ -254,7 +254,7 @@ _____
 Thou art a ram; be for my enjoyment.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 नष्टां मृतां वानुदिशति।
@@ -270,7 +270,7 @@ Thou art a ram; be for my enjoyment.
 To Vayu thee
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अप्सु वा पाशे वा मृताम् अनुदिशति।
@@ -286,7 +286,7 @@ To Vayu thee
 to Varuna thee
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 या सं वा शीर्यते गर्तं वा पद्यते ताम् अनुदिशति।
@@ -302,7 +302,7 @@ to Varuna thee
 to Nirrti thee
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यामहिर्व्याघ्रो वा हन्ति तामनुदिशति।
@@ -320,7 +320,7 @@ to Rudra thee!
 
 ## अपाम् उत्तरणम्
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दीक्षितो ऽप उत्तरति।
@@ -352,7 +352,7 @@ Along an unbroken web of earth may I go.
 
 ## देवयजन-प्राप्तिः
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रयाणे कर्तव्ये प्रयाति।
@@ -372,7 +372,7 @@ From good to better do thou advance.
 May Brhaspati be thy leader
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 देवयजनाद् अर्वाग् यत्र वत्स्यन् भवति तद् अवस्यति।
@@ -388,7 +388,7 @@ May Brhaspati be thy leader
 Then set him free, on the chosen spot of earth.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 आदित्यम् उद्यन्तम् उपतिष्ठते।
@@ -404,7 +404,7 @@ Then set him free, on the chosen spot of earth.
 Drive afar the foes with all thy strength.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यत्र यक्ष्यमाणो भवति तद्-अभिप्रेतं देव-यजनम् अधितिष्ठति।

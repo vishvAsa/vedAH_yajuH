@@ -6,7 +6,7 @@ short_title = "०६ सोममानादिकम्"
 ०६ सोम-मानादिकम्
 
 ## अभिमर्शः
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स-हिरण्येन पाणिना राजानम् अभिमृशति।
@@ -32,7 +32,7 @@ thy libation is bright.
 
 ## मानम्, उपसमूहनम्
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अति-च्छन्दसा +ऋचा सोमं मिमीते।
@@ -54,7 +54,7 @@ He at whose impulse the resplendent light shone high,
 The golden-banded sage hath measured the heaven with his form.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अवशिष्टं सोमं मितेनोपसमूहति।
@@ -71,7 +71,7 @@ For offspring thee!
 </details>
 
 ## सन्नहनम्
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उष्णीषेणोपसन्नह्यति।
@@ -87,7 +87,7 @@ For offspring thee!
 For expiration thee!
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 बन्धनं शिथिलीकरोति।
@@ -103,7 +103,7 @@ For expiration thee!
 For cross-breathing thee!
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानम् अवेक्षयति सोमं।

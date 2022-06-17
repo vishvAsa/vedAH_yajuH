@@ -7,7 +7,7 @@ short_title = "१३"
 
 उत्तरवेदिसमीपवर्ति-हविर्धान-प्रवर्तनम्, हविर्धान-मण्टपनिर्माणम्।
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शालामुखीये ऽग्नौ शामित्रं जुहोति - युञ्जत इति जगत्या ॥
@@ -29,7 +29,7 @@ He alone, who knows the way, ordains their priestly functions;
 Great is the praise of the god Savitr.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अक्षोत्सर्जने जपति।
@@ -47,7 +47,7 @@ With fair voice, O god, do thou address the dwelling.
 Ye two, famed among the gods, make proclamation among the gods.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अक्ष-धुरम् अवाञ्जयति।
@@ -66,7 +66,7 @@ On whom we may all depend,
 Who shall be ruler over many.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणस्यां चक्रवर्तिन्यां जुहोति। यतः - इदं विष्णुरेव स्वयं विचक्रमे विक्रमते यद्धविर्धानं विक्रमते।
@@ -86,7 +86,7 @@ Thrice did he set down his foot;
 (All) is gathered [1] in its dust.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरस्यां वर्तन्यां जुहोति।
@@ -108,7 +108,7 @@ These two firmaments Visnu held asunder;
 He holdeth the earth on all sides with pegs.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 हविर्धाने प्रवर्तयन्ति।
@@ -125,7 +125,7 @@ He holdeth the earth on all sides with pegs.
 Come ye two then forward, ordaining the offering; bring upward the sacrifice; do not falter.  
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अध्वर्यू हविर्धाने स्थापयतः।  
@@ -141,7 +141,7 @@ Come ye two then forward, ordaining the offering; bring upward the sacrifice; do
 There rest on the height of the earth.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अध्वर्यू हविर्धानयोर् मध्यौ निघ्नतः - दिव इति त्रिष्टुभा ॥
@@ -163,7 +163,7 @@ Fill thy hands with many good things,
 Give to us [2] from right and from left.  
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अध्वर्यू मेध्यौ बध्नीतः - विष्णोर्नुकमिति त्रिष्टुभा ॥
@@ -185,7 +185,7 @@ Who established the highest abode,
 Stepping thrice, the far-goer.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 रराटीम् आसञ्जयति।
@@ -201,7 +201,7 @@ Stepping thrice, the far-goer.
 Thou art the forehead of Visnu.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मध्यमं छदिर् अधिनिदधाति।
@@ -217,7 +217,7 @@ Thou art the forehead of Visnu.
 Thou art the back of Visnu.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पार्श्वयोच् छदिषी+++(=??)+++ निदधाति।
@@ -233,7 +233,7 @@ Thou art the back of Visnu.
 Ye two are the corners' of Visnu's mouth.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणबाहौ कुशम् उपसङ्गृह्य स्यन्द्यां प्रवर्तयति - विष्णोस्स्यूरिति ॥
@@ -249,7 +249,7 @@ Ye two are the corners' of Visnu's mouth.
 Thou art the thread of Visnu.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 द्वारग्रन्थिं करोति - विष्णोर्ध्रुवमसीति ॥
@@ -265,7 +265,7 @@ Thou art the thread of Visnu.
 Thou art the fixed point of Visnu.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 हविर्धान-मण्डपम् अभिमृशति - वैष्णवमिति ॥

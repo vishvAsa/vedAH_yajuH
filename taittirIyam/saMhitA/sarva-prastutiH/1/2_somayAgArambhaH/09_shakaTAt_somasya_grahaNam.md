@@ -4,7 +4,7 @@ title = "०९ शकटात् सोमस्य ग्रहणम्"
 +++
 
 ## प्रच्यावनम्
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शकटेन सोमं प्रच्यावयति।
@@ -47,7 +47,7 @@ _____
 </details>
 
 ## उपस्थानादिकम्
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अध्वर्यु-यजमानौ गच्छतः।।
@@ -79,7 +79,7 @@ Whereby a man defeateth all his foes
 and winneth wealth.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 राजानं प्रत्य् उपतिष्ठते। ।
@@ -102,7 +102,7 @@ To the far seeing, god-born, the banner,
 The son of the sky, the sun, do ye sing.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शकटम् उदग् ईषम् उपस्तम्भयति।।
@@ -118,7 +118,7 @@ The son of the sky, the sun, do ye sing.
 Thou art the pillar of Varuna.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शम्याम् उद्-वृहति।
@@ -134,7 +134,7 @@ Thou art the pillar of Varuna.
 Thou art the prop of Varuna's pillar.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 योक्त्रम् अपनयति।

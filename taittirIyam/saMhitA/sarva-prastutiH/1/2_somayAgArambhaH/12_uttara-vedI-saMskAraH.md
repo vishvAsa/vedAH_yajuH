@@ -6,7 +6,7 @@ short_title = "१२ उत्तरवेदीसंस्कारः"
 १२ उत्तर-वेदी-संस्कारः
 
 ## मानम्
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शम्यया चात्वालं=उत्तरवेदीं परिमिमीते।
@@ -30,7 +30,7 @@ protect me when afflicted.
 
 ## स्फ्येन प्रहारः
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 चात्वाल-स्थे बर्हिषि स्फ्येन प्रहरति।।
@@ -46,7 +46,7 @@ protect me when afflicted.
 May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पुरीषम् आदत्ते।
@@ -62,7 +62,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
 come with the name of Ayus
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरवेद्यां निवपति।
@@ -78,7 +78,7 @@ come with the name of Ayus
 Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 चात्वाल-स्थे बर्हिषि स्फ्येन प्रहरति। ततः पूर्ववत् पुरिषादानम्, उत्तरवेद्यां च निवपनम्।
@@ -97,7 +97,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second ea
 +++(include-स्थापनम् इष्यते।)+++
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 चात्वाल-स्थे बर्हिषि स्फ्येन प्रहरति। ततः पूर्ववत् पुरिषादानम्, उत्तरवेद्यां च निवपनम्।
@@ -116,7 +116,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third ear
 +++(include-स्थापनम् इष्यते।)+++
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पुरीषं सम्प्रयौति।
@@ -134,7 +134,7 @@ Thou art a lioness;
 thou art a buffalo.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रथयति।।
@@ -150,7 +150,7 @@ thou art a buffalo.
 Extend wide; let the lord of the sacrifice extend wide for thee.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्फ्येन दृढीकरोति।।
@@ -168,7 +168,7 @@ Thou art firm.
 
 ## अवोक्षणादिकम्
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अद्भिर् अवोक्षति।
@@ -184,7 +184,7 @@ Thou art firm.
 Be pure for the gods.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सिकताभिर् अनुप्रकिरति।
@@ -200,7 +200,7 @@ Be pure for the gods.
 be bright for the gods.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरवेदेः प्राग्भागं प्रोक्षति।।
@@ -216,7 +216,7 @@ be bright for the gods.
 May the cry of Indra guard thee in front with the Vasus;
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणभागं प्रोक्षति।
@@ -232,7 +232,7 @@ May the cry of Indra guard thee in front with the Vasus;
 may the swift of mind guard thee on the right with the Pitrs;
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पश्चिमभागं प्रोक्षति।
@@ -248,7 +248,7 @@ may the swift of mind guard thee on the right with the Pitrs;
 may the wise one guard thee behind with the Rudras;
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरभागं प्रोक्षति।
@@ -265,7 +265,7 @@ may Viçvakarman guard thee on the left with the Adityas.
 </details>
 
 ## व्याघारादिकम्
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरवेदिम् अक्ष्णया=?? व्याघारयति।
@@ -281,7 +281,7 @@ may Viçvakarman guard thee on the left with the Adityas.
 Thou art a lioness, overcoming rivals; hail!
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरस्यां श्रोण्यां।
@@ -297,7 +297,7 @@ Thou art a lioness, overcoming rivals; hail!
 Thou art a lioness, bestowing fair offspring; hail!
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणस्यां श्रोण्यां।
@@ -313,7 +313,7 @@ Thou art a lioness, bestowing fair offspring; hail!
 Thou art a lioness, [2] bestowing increase of wealth; hail!
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरे ऽंसे।
@@ -329,7 +329,7 @@ Thou art a lioness, [2] bestowing increase of wealth; hail!
 Thou art a lioness, winning (the favour of) the Adityas hail!
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मध्ये।
@@ -345,7 +345,7 @@ Thou art a lioness, winning (the favour of) the Adityas hail!
 Thou art a lioness; bring the gods to the pious sacrificer; hail!
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्रुचम् उद्-गृह्णाति।
@@ -363,7 +363,7 @@ _____
 </details>
 
 ## परिधिस्थापनादिकम्
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पौतुद्रवान् = देवदारुभवान् परिधीन् परिदधाति।  तत्र मध्यमं परिदधाति।।
@@ -383,7 +383,7 @@ thou restest firm, strengthen the atmosphere;
 thou restest inviolable, strengthen the heaven.
 </details>
 
-### विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सम्भारान् निवपति।

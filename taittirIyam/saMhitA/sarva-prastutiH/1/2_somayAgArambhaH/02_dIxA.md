@@ -3,7 +3,7 @@ title = "०२ दीक्षा"
 
 +++
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्रुवेण चतस्रो दीक्षाहुतीर्जुहोति-।
@@ -25,7 +25,7 @@ To consecration, to penance, to Agni, hail!
 To Sarasvati, to Prisan, to Agni, hail!
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्रुचा पञ्चमीं जुहोति।
@@ -45,7 +45,7 @@ Heaven and earth, wide atmosphere!
 May Brhaspati rejoice in our oblation, hail!
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्रुचैवोद्ग्रहणं जुहोति।
@@ -69,7 +69,7 @@ Every man prayeth for wealth;
 Let him choose glory that he may prosper, hail!
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनस्य शुक्लकृष्णे अङ्गुष्ठाङ्गुलिभ्यां सम्मृशति।
@@ -90,7 +90,7 @@ I grasp you two;
 do ye two [1] protect me until the completion of this sacrifice.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनम् अभिसर्पति।
@@ -112,7 +112,7 @@ May we mount that safe ship
 Whereby we' may pass over all our difficulties.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मेखलां पर्यस्यति।
@@ -134,7 +134,7 @@ guard me,
 harm me not.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वाससा यजमानं प्रोर्णोति।
@@ -152,7 +152,7 @@ Thou art the protection of Visnu, the protection of the sacrificer,
 grant me protection.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वसनच्छिद्रेषु यजमानं वाचयति।
@@ -168,7 +168,7 @@ grant me protection.
 Guard me from the lustre of the Naksatras.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्ण-विषाणे यजमानाय प्रयच्छति।
@@ -186,7 +186,7 @@ Guard me from the lustre of the Naksatras.
 Thou art the birthplace of Indra [2]; harm me not.
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तयान्तर्वेदि लोष्टम् उद्धन्ति।
@@ -202,7 +202,7 @@ Thou art the birthplace of Indra [2]; harm me not.
 For ploughing thee, for good crops,
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तया दक्षिणं गोदानं कण्डूयते।
@@ -218,7 +218,7 @@ For ploughing thee, for good crops,
 For the plants with good berries thee!
 </details>
 
-## विनियोगः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 औदुम्बरं दण्डं यजमानाय प्रयच्छति।
