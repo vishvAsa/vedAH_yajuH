@@ -1,0 +1,20 @@
++++
+title = "07 सर्वेष्वेवापरपक्षस्याहस्सु क्रियमाणे पितॄन्प्रीणाति"
+
++++
+
+<details><summary>Bühler</summary>
+
+7. (A funeral-oblation) offered on any day of the latter half of the month gladdens the Manes. But it procures different rewards for the sacrificer according to the time observed. [^6] 
+
+
+[^6]:  Manu III, 277; Yājñ. I, 264, 265.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+## सूत्रम्
+सर्वेष्वेवाऽपरपक्षस्याऽहस्सु क्रियमाणे पितॄन् प्रीणाति । कर्तुस्तु कालाभिनियमात्फलविशेषः ॥ ६ ॥  
+### टिप्पनी
+सर्वेष्वेवाहस्सु पितॄणां तृप्तिरविशिष्टा । यस्तु कर्ता प्रतिपदादिके काले नियमेन श्राद्धं करोति सर्वेषु मासेषु प्रतिपद्येव द्वितीयायामेवेत्यादि तस्य कर्तुस्तस्मात्कालाभिनियमात् फलविशेषो भवति ॥६॥
+</details>

@@ -1,8 +1,0 @@
-+++
-title = "14 तथा तृणकाष्ठेषु निखातेषु"
-
-+++
-14. (The same rule applies, if he is seated) on grass or wood fixed in the ground. [^9] 
-
-
-[^9]:  Haradatta's commentary is of little use, and I am not quite certain that my translation is correct.
