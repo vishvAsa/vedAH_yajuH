@@ -4,27 +4,11 @@ title = "1 The New and Full Moon Sacrifices"
 +++
 
 ## 13
-
-### f
-Swell, ye waters and plants.
-### g
-Ye are the spotted steeds of the Maruts.
-### h
-Fare to the sky [1], thence bring us rain.
-### i
-Guardian of life art thou, O Agni, guard my life.
-### k
-Guardian of the eye art thou, O Agni, guard my eye.  
-I Thou art the secure one.
 ### m
-The fence which thou didst put round thee  
-When thou wast beset by the Panis, O god Agni,  
-That do I bring here to thee that thou mayst rejoice in it,  
-That it be not removed from thee.
 ### n
-Go ye two to the place of the gods.
 ### o
-Ye are sharers in the remains (of the oblation), well nourished, mighty Ye gods that are on the prastara and sit on the strew [2].  
+Ye are sharers in the remains (of the oblation), well nourished, mighty  
+Ye gods that are on the prastara and sit on the strew [2].  
 Accepting this supplication, do ye all,  
 Seated on this strew enjoy yourselves.
 ### p
