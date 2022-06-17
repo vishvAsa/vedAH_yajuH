@@ -146,7 +146,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑स्य त॒नूर॑सि ।  
+सोम॑स्य त॒नूर् अ॑सि ।  
 +++('सौम्यं वै क्षौमं देवतया' इति च ब्राह्मणम् ।  )+++  
 त॒नुव॑म् मे पाहि।+++(र४)+++
 </details>
@@ -202,7 +202,7 @@ ________
 दर्भपुञ्जीलैर् यजमानं पावयति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 चि॒त्-पति॑स् त्वा पुनातु ।  
 +++('मनो वै चित्पतिः' इति ब्राह्मणम् ।)+++  
@@ -217,7 +217,7 @@ With the flawless purifier,
 With the rays of the bright sun.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 +++('यद्धि मनसा ध्यायति तद्वाचा वदति' इति ब्राह्मणम् ।)+++  
 वा॒क्-पति॑स्त्वा पुनातु ।  
@@ -232,7 +232,7 @@ With the flawless purifier,
 With the rays of the bright sun.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 दे॒वस् त्वा॑ सवि॒ता पु॑ना॒त्व्  
 अच्छि॑द्रेण प॒वित्रे॑ण॒ +++(सूर्येण)+++ ।   
@@ -268,12 +268,12 @@ ________
 शालां यजमानम् आनयति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 आ वो॑ देवास ईमहे॒  
 सत्य॑-धर्माणो अध्व॒रे ।  
-यद् वो॑ देवास आगु॒रे+++(=उद्योगे)+++  
-यज्ञि॑यासो॒ हवा॑महे ॥
+यद् वो॑ देवास आगु॒रे+++(←गुर् उद्यमने)+++  
+यज्ञि॑यासो॒ हवा॑महे+++(=आह्वयामहे)+++ ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -308,7 +308,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वन् दी॒ख्षाणा॒म् अधि॑पतिरसि ।+++(र४)+++
+त्वन् दी॒ख्षाणा॒म् अधि॑पतिर् असि ।+++(र४)+++
 </details>
 
 <details><summary>Keith</summary>
