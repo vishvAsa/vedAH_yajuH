@@ -12,9 +12,9 @@ title = "१३ जातकर्म"
 जातं +++(=जातमात्रम्, "प्राङ्नाभिवर्धनात्पुंसो जातकर्म विधीयते")+++ वात्सप्रेण +++(=दिवसस्परीत्येषः)+++ +अभिमृश्य,  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/21_divas_pari.md">
-<details open=""><summary><h5>२१ दिवस् परि ...{Loading}...</h5></summary>
+<details open><summary><h5>२१ दिवस् परि ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/01_divaspari_prathamaM.md">
-<details open=""><summary><h7>०१ दिवस्परि प्रथमं ...{Loading}...</h7></summary>
+<details open><summary><h7>०१ दिवस्परि प्रथमं ...{Loading}...</h7></summary>
 
 
 दि॒वस् परि॑ प्रथ॒मं ज॑ज्ञे अ॒ग्निर्  
@@ -27,9 +27,9 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/22_vidmA_te.md">
-<details open=""><summary><h5>२२ विद्मा ते ...{Loading}...</h5></summary>
+<details open><summary><h5>२२ विद्मा ते ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/02_vidmA_te.md">
-<details open=""><summary><h7>०२ विद्मा ते ...{Loading}...</h7></summary>
+<details open><summary><h7>०२ विद्मा ते ...{Loading}...</h7></summary>
 
 
 +++(प्रतिज्ञा+ऋक्। अग्रिमायाम् उत्तरम्।)+++  
@@ -43,9 +43,9 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/23_samudre_tvA.md">
-<details open=""><summary><h5>२३ समुद्रे त्वा ...{Loading}...</h5></summary>
+<details open><summary><h5>२३ समुद्रे त्वा ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/03_samudre_tvA.md">
-<details open=""><summary><h7>०३ समुद्रे त्वा ...{Loading}...</h7></summary>
+<details open><summary><h7>०३ समुद्रे त्वा ...{Loading}...</h7></summary>
 
 
 +++(प्राक्तनाया विस्तारः!)+++
@@ -59,9 +59,9 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/24_akrandadagnisstanayanniva_dyauH.md">
-<details open=""><summary><h5>२४ अक्रन्ददग्निस्स्तनयन्निव द्यौः ...{Loading}...</h5></summary>
+<details open><summary><h5>२४ अक्रन्ददग्निस्स्तनयन्निव द्यौः ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md">
-<details open=""><summary><h7>०४ अक्रन्ददग्निः स्तनयन्निव ...{Loading}...</h7></summary>
+<details open><summary><h7>०४ अक्रन्ददग्निः स्तनयन्निव ...{Loading}...</h7></summary>
 
 
 अक्र॑न्दद् अ॒ग्निः स्त॒नय॑न्निव॒ द्यौः  
@@ -74,9 +74,9 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/25_ushikpAvako_aratissumedhA.md">
-<details open=""><summary><h5>२५ उशिक्पावको अरतिस्सुमेधा ...{Loading}...</h5></summary>
+<details open><summary><h5>२५ उशिक्पावको अरतिस्सुमेधा ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/07_ushikpAvako_aratiH.md">
-<details open=""><summary><h7>०७ उशिक्पावको अरतिः ...{Loading}...</h7></summary>
+<details open><summary><h7>०७ उशिक्पावको अरतिः ...{Loading}...</h7></summary>
 
 
 उ॒शिक्पा॑व॒को अ॑र॒तिः सु॑मे॒धा मर्ते॑ष्व॒ग्निर॒मृतो॒ नि धा॑यि ।  
@@ -93,9 +93,9 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/26_vishvasya_keturbhuvanasya.md">
-<details open=""><summary><h5>२६ विश्वस्य केतुर्भुवनस्य ...{Loading}...</h5></summary>
+<details open><summary><h5>२६ विश्वस्य केतुर्भुवनस्य ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/06_vishvasya_keturbhuvanasya.md">
-<details open=""><summary><h7>०६ विश्वस्य केतुर्भुवनस्य ...{Loading}...</h7></summary>
+<details open><summary><h7>०६ विश्वस्य केतुर्भुवनस्य ...{Loading}...</h7></summary>
 
 
 विश्व॑स्य के॒तुर् भुव॑नस्य॒ गर्भ॒  
@@ -108,9 +108,9 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/27_shrINAmudAro_dharuNo.md">
-<details open=""><summary><h5>२७ श्रीणामुदारो धरुणो ...{Loading}...</h5></summary>
+<details open><summary><h5>२७ श्रीणामुदारो धरुणो ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/05_shrINAmudAro_dharuNo.md">
-<details open=""><summary><h7>०५ श्रीणामुदारो धरुणो ...{Loading}...</h7></summary>
+<details open><summary><h7>०५ श्रीणामुदारो धरुणो ...{Loading}...</h7></summary>
 
 
 श्री॒णाम् उ॑दा॒रो ध॒रुणो॑ रयी॒णाम्  
@@ -123,9 +123,9 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/28_yaste_adya.md">
-<details open=""><summary><h5>२८ यस्ते अद्य ...{Loading}...</h5></summary>
+<details open><summary><h5>२८ यस्ते अद्य ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/09_yaste_adya.md">
-<details open=""><summary><h7>०९ यस्ते अद्य ...{Loading}...</h7></summary>
+<details open><summary><h7>०९ यस्ते अद्य ...{Loading}...</h7></summary>
 
 
 यस् ते॑ अ॒द्य कृ॒णव॑द् भद्रशोचे  
@@ -138,9 +138,9 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/29_tambhaja_saushravaseShvagna.md">
-<details open=""><summary><h5>२९ तम्भज सौश्रवसेष्वग्न ...{Loading}...</h5></summary>
+<details open><summary><h5>२९ तम्भज सौश्रवसेष्वग्न ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/10_A_taM.md">
-<details open=""><summary><h7>१० आ तं ...{Loading}...</h7></summary>
+<details open><summary><h7>१० आ तं ...{Loading}...</h7></summary>
 
 
 आ तम् भ॑ज सौश्रव॒सेष्व् +++(स्वन्नेषु [यागेषु])+++ अ॑ग्न  
@@ -153,9 +153,9 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/30_tvAmagne_yajamAnA.md">
-<details open=""><summary><h5>३० त्वामग्ने यजमाना ...{Loading}...</h5></summary>
+<details open><summary><h5>३० त्वामग्ने यजमाना ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/11_tvAmagne_yajamAnA.md">
-<details open=""><summary><h7>११ त्वामग्ने यजमाना ...{Loading}...</h7></summary>
+<details open><summary><h7>११ त्वामग्ने यजमाना ...{Loading}...</h7></summary>
 
 
 त्वाम् अ॑ग्ने॒ यज॑माना॒ अनु॒ द्यून्  
@@ -168,9 +168,9 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/31_dRshAno_rukma.md">
-<details open=""><summary><h5>३१ दृशानो रुक्म ...{Loading}...</h5></summary>
+<details open><summary><h5>३१ दृशानो रुक्म ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md">
-<details open=""><summary><h7>०८ दृशानो रुक्म ...{Loading}...</h7></summary>
+<details open><summary><h7>०८ दृशानो रुक्म ...{Loading}...</h7></summary>
 
 
 दृ॒शा॒नो रु॒क्म +++(=रोचमानः)+++ उ॒र्व्या +++(=महत्या)+++ व्य॑द्यौद्,  
@@ -188,7 +188,7 @@ title = "१३ जातकर्म"
 उत्तरेण यजुषोपस्थ आधाय +++(="अस्मिन्नह"मित्यनेन)+++,  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/32_asminnahaM_sahasram.md">
-<details open=""><summary><h5>३२ अस्मिन्नहं सहस्रम् ...{Loading}...</h5></summary>
+<details open><summary><h5>३२ अस्मिन्नहं सहस्रम् ...{Loading}...</h5></summary>
 
 
 अ॒स्मिन्न॒हँस॒हस्रं॑ पुष्या॒म्येध॑मान॒स् स्वे वशे॑ ।
@@ -200,7 +200,7 @@ title = "१३ जातकर्म"
 उत्तराभ्याम् +++("अङ्गादङ्गाद्" इति)+++ अभिमन्त्रणं ,  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/33_angAdangAtsambhavasi_hRdayAdadhi.md">
-<details open=""><summary><h5>३३ अङ्गादङ्गात्सम्भवसि हृदयादधि ...{Loading}...</h5></summary>
+<details open><summary><h5>३३ अङ्गादङ्गात्सम्भवसि हृदयादधि ...{Loading}...</h5></summary>
 
 
 अङ्गा॑दङ्गा॒त्संभ॑वसि॒ हृद॑या॒दधि॑ जायसे ।  
@@ -214,7 +214,7 @@ title = "१३ जातकर्म"
 +++("अश्मा भवे"ति)+++  मूर्धन्यवघ्राणं,  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
-<details open=""><summary><h5>०१ अश्मा भव ...{Loading}...</h5></summary>
+<details open><summary><h5>०१ अश्मा भव ...{Loading}...</h5></summary>
 
 
 
@@ -229,7 +229,7 @@ title = "१३ जातकर्म"
 +++("मेधां त" इति)+++ दक्षिणे कर्णे जापः १  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/02_medhAnte_devassavitA.md">
-<details open=""><summary><h5>०२ मेधान्ते देवस्सविता ...{Loading}...</h5></summary>
+<details open><summary><h5>०२ मेधान्ते देवस्सविता ...{Loading}...</h5></summary>
 
 
 मे॒धान् ते॑ दे॒वस् स॑वि॒ता  
@@ -241,8 +241,16 @@ title = "१३ जातकर्म"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/13_jAtakarma/15_01_jAtaM_vAtsapreNAbhimRshyottareNa.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_01_jAtaM_vAtsapreNAbhimRshyottareNa.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+1. [^1]  After he has touched the new-born child with the Vātsapra hymn (Taitt. Saṃh. IV, 2, 2; M. II, 11, 20), and has taken him on his lap with the next Yajus (M. II, II, 21), with the next (three) (verses - II, 11, 22; 12, 1. 2 - one by one) he addresses the child, kisses him on his head, and murmurs (the third verse) into his right ear.
+
+
+[^1]:  15, 1. We ought to read uttarābhir, not uttarābhyām. Comp. below, Sūtra 12.
+</details>
+<details><summary>हरदत्तः</summary>
 
 जातमिति पुल्लिङ्गस्य विवक्षितत्वात् पुंस एवायं जातकर्माख्यः संस्कारः ।
 न स्त्रियाः ।
@@ -260,11 +268,8 @@ title = "१३ जातकर्म"
 केचित्तु उत्तराभ्यामिति द्विवचनान्तपाठमाश्रित्य द्वयोर्मन्त्रयोः त्रिष्वपि कर्मसु विनियोगं मन्यन्ते ।
 तेषामवघ्राणलिङ्गेनाभिमन्त्रणं कर्णयोर्जपश्च प्राप्नोति ।
 आश्वलायनश्चाह– कर्णयोरुपनिधाय मेधाजननं जपति मेधां ते देवस्सवितेति (आश्व.श्रौ.१-१३-२.) ॥१॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/13_jAtakarma/15_01_jAtaM_vAtsapreNAbhimRshyottareNa.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **जातं** जातमात्रम्, प्राङ्नाभिवर्धनात् पुंसो जातकर्म विधीयते ॥
 (मनु.२-२९.) इति वचनात् ।
@@ -281,14 +286,12 @@ title = "१३ जातकर्म"
 मधुघृतप्राशनं तु "त्वयि मेधाम्" इति यजुर्भिरेव त्रिभिरिति ।
 तन्न; अनधीयमानपाठाङ्गीकारे अतिप्रसङ्गात् ॥१॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/13_jAtakarma/15_01_jAtaM_vAtsapreNAbhimRshyottareNa.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_01_jAtaM_vAtsapreNAbhimRshyottareNa.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-1. [^1]  After he has touched the new-born child with the Vātsapra hymn (Taitt. Saṃh. IV, 2, 2; M. II, 11, 20), and has taken him on his lap with the next Yajus (M. II, II, 21), with the next (three) (verses - II, 11, 22; 12, 1. 2 - one by one) he addresses the child, kisses him on his head, and murmurs (the third verse) into his right ear.
-
-
-[^1]:  15, 1. We ought to read uttarābhir, not uttarābhyām. Comp. below, Sūtra 12.
+जातं वात्सप्रेणाभिमृश्योत्तरेण यजुषोपस्थ आधायोत्तराभ्यामभिमन्त्रणं मूर्धन्यवघ्राणं दक्षिणे कर्णे जापः ।
 
 </details>
 </div>
@@ -302,17 +305,19 @@ title = "१३ जातकर्म"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/13_jAtakarma/15_02_naxatranAma_cha.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_02_naxatranAma_cha.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+2. And he gives him a Nakṣatra name.
+</details>
+<details><summary>हरदत्तः</summary>
 
 अभिजिघ्राम्यसौ इत्यत्रासौशब्दस्य स्थाने नक्षत्रनामनिर्देशः ।
 तत्संबुध्या निर्दिशेत्–पशूनां त्वा हिंकारेणाभिजिघ्राम्याश्वयुजेत्यादि ।
 तत्र नक्षत्रशब्देषु जातार्थे रूपनिर्णयार्थः श्लोकः—
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/13_jAtakarma/15_02_naxatranAma_cha.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 कुमारस्व यन्नक्षत्रजननाद्यन्नाम तच्च रौहिण्येत्यादिसम्बुद्ध्या असौशब्दस्य स्थाने निर्दिशति । अत्र चायमशिक्षितव्याकरणशास्त्राणां रूपज्ञानाय सूत्रस्य श्लोकः—
 रोरेममृज्येचिषु वृद्धिरादौ ष्ठात्पे च वान्त्यश्रवशाश्वयुक्षु ।
@@ -346,11 +351,12 @@ title = "१३ जातकर्म"
 एवं सर्वेषां नक्षत्रनाम्नां प्रथमया निर्देशः सूक्तवाके ।
 जातकर्मणि पुनस्सम्बुद्ध्या ॥२॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/13_jAtakarma/15_02_naxatranAma_cha.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_02_naxatranAma_cha.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-2. And he gives him a Nakṣatra name.
+नक्षत्रनाम च निर्दिशति ।
 
 </details>
 </div>
@@ -364,24 +370,27 @@ title = "१३ जातकर्म"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/13_jAtakarma/15_03_tadrahasyam_bhavati.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_03_tadrahasyam_bhavati.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+3. That is secret.
+</details>
+<details><summary>हरदत्तः</summary>
 
 नक्षत्रनाम **रहस्यं** भवति ।
 यथा परे न जानन्ति तथा वक्तव्यमित्यर्थः । सूक्तवाकादिष्वप्येवमेव ॥३॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/13_jAtakarma/15_03_tadrahasyam_bhavati.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 नक्षत्रनाम च **रहस्यं** निर्देशेदिति सूत्रे प्रणेतव्ये सूत्रान्तरकरणात् यत् नामनक्षत्रनिबन्धनं, यच्च दशम्यां कृतं तदुभयं  सूक्तवाकान्नप्राशनाभिवादनादिषु नित्यं रहस्यमेव निर्देश्यं भवति ॥३॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/13_jAtakarma/15_03_tadrahasyam_bhavati.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_03_tadrahasyam_bhavati.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-3. That is secret.
+तद्रहस्यं भवति ।
 
 </details>
 </div>
@@ -398,7 +407,7 @@ title = "१३ जातकर्म"
 +उत्तरैर् मन्त्रैः +++("त्वयि मेधाम्" इति)+++ कुमारं प्राशयित्वा,   
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/03-05_tvayi_medhAm.md">
-<details open=""><summary><h5>०३-०५ त्वयि मेधाम् ...{Loading}...</h5></summary>
+<details open><summary><h5>०३-०५ त्वयि मेधाम् ...{Loading}...</h5></summary>
 
 
 त्वयि॑ मे॒धां त्वयि॑ प्र॒जां  
@@ -417,7 +426,7 @@ title = "१३ जातकर्म"
 उत्तराभिः पञ्चभिस् +++(="ऽक्षेत्रियै त्वे"त्यादिभिः)+++ स्नापयित्वा,  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/06_xetriyai_tvA.md">
-<details open=""><summary><h5>०६ क्षेत्रियै त्वा ...{Loading}...</h5></summary>
+<details open><summary><h5>०६ क्षेत्रियै त्वा ...{Loading}...</h5></summary>
 
 
 
@@ -432,7 +441,7 @@ title = "१३ जातकर्म"
 ###### शान्तिवचनम्  
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/07_shante_agnissahAdbhirastu.md">
-<details open=""><summary><h7>०७ शन्ते अग्निस्सहाद्भिरस्तु ...{Loading}...</h7></summary>
+<details open><summary><h7>०७ शन्ते अग्निस्सहाद्भिरस्तु ...{Loading}...</h7></summary>
 
 
 शन् ते॑ अ॒ग्निस् स॒हाद्भिर् अ॑स्तु॒  
@@ -443,7 +452,7 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/08_yA_daivIshchatasraH.md">
-<details open=""><summary><h7>०८ या दैवीश्चतस्रः ...{Loading}...</h7></summary>
+<details open><summary><h7>०८ या दैवीश्चतस्रः ...{Loading}...</h7></summary>
 
 
 या दैवी॒श् चत॑स्रः प्र॒दिशो॒ वात॑-पत्नीर्,  
@@ -457,7 +466,7 @@ title = "१३ जातकर्म"
 ###### अवर्तिनिवारणम्  
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/09_amochi_yaxmAdduritAdavartyai.md">
-<details open=""><summary><h7>०९ अमोचि यक्ष्माद्दुरितादवर्त्यै ...{Loading}...</h7></summary>
+<details open><summary><h7>०९ अमोचि यक्ष्माद्दुरितादवर्त्यै ...{Loading}...</h7></summary>
 
 
 अमो॑चि॒ यक्ष्मा॑द् दुरि॒ताद् अव॑र्त्यै +++(=आपत्तः)+++।  
@@ -471,7 +480,7 @@ title = "१३ जातकर्म"
 ###### सूर्यग्रहणमोक्षनिदर्शनम्  
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/10_sUryamRtantamaso_grAhyA.md">
-<details open=""><summary><h7>१० सूर्यमृतन्तमसो ग्राह्या ...{Loading}...</h7></summary>
+<details open><summary><h7>१० सूर्यमृतन्तमसो ग्राह्या ...{Loading}...</h7></summary>
 
 
 {{&lt; figure src="/devaH/lokAntaram/images/solar_eclipse_receeding.jpg" class="thumbnail"&gt;}}
@@ -494,7 +503,7 @@ title = "१३ जातकर्म"
 दधि घृतमिति संसृज्य कांस्येन पृषदाज्यं व्याहृतीभिरोङ्कारचतुर्थाभिः +++("भूः स्वाहेत्यादिभिः प्रतिमन्त्रम्")+++ कुमारं प्राशयित्वा, अद्भिश् शेषं संसृज्य गोष्ठे निनयेत् ४  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/11_bhUssvAhA_bhuvassvAhA.md">
-<details open=""><summary><h5>११ भूस्स्वाहा भुवस्स्वाहा ...{Loading}...</h5></summary>
+<details open><summary><h5>११ भूस्स्वाहा भुवस्स्वाहा ...{Loading}...</h5></summary>
 
 
 भूस्स्वाहा॒ भुव॒स्स्वाहा॒ सुव॒स्स्वाहा। ॐ स्वाहा॑ ॥  
@@ -503,8 +512,13 @@ title = "१३ जातकर्म"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/13_jAtakarma/15_04_madhu_ghRtamiti.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_04_madhu_ghRtamiti.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+4. He pours together honey and ghee; into this (mixture) he dips a piece of gold which he has tied with a noose to a Darbha blade. With the next (three) formulas (II, 12, 3-5) he gives the boy (by means of the piece of gold, some of the mixture) to eat. With the next five (verses, II, 12, 6-10) he bathes him. Then he pours curds and ghee together and gives him this (mixture which is called) 'sprinkled butter' (pṛṣadājya) to eat out of a brass vessel, with the Vyāhṛtis to which the syllable 'Om' is added as the fourth (II, 12, 11-14). The remainder he should mix with water and pour out in a cow-stable.
+</details>
+<details><summary>हरदत्तः</summary>
 
 मधुघृतमित्येतद्वयं विषमपरिमाणं कांस्यपात्रे संसृज्य तस्मिन् हिरण्यं दर्भेण, निष्टर्क्यं बध्वा ऽऽदधाति ।
 निष्टर्क्यमिति बन्धनविशेषो लोकप्रसिद्धः ।
@@ -516,11 +530,8 @@ title = "१३ जातकर्म"
 ततश् **शेषद्वयमद्भिस्संसृज्य गोष्ठे निनयेत्** ।
 कुमारग्रहणं असमर्थस्यापि कुमारस्यैव प्राशनमुपायेन यथा स्यादिति ।
 तेन यत्नाभावे "धानाः कुमारान् प्राशयन्ति" "क्षैत्रपत्त्यं च प्राशयन्ति" इत्यादौ प्राशनमसमर्थानां न भवति ॥४॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/13_jAtakarma/15_04_madhu_ghRtamiti.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **निष्टकर्यं** शिखाबन्धनवत् सरन्ध्रेण ग्रन्थिना निष्टर्क्यं बध्नाति; "प्रजानां प्रजननाय" इति लिङ्गात् ।
 **उत्तरैर्मन्त्रैः** "मेधां ते देवस्सविता" इत्यृचा, "त्वयि मेधान्" इति चतुर्भिर्यजुर्भिः ।
@@ -537,11 +548,12 @@ title = "१३ जातकर्म"
 केचित्—मधृघृतसंसर्गोऽपि कांस्ये नियतः ।
 प्राशनद्वयं स्नापनं च प्रतिमन्त्रमिति ॥४॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/13_jAtakarma/15_04_madhu_ghRtamiti.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_04_madhu_ghRtamiti.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-4. He pours together honey and ghee; into this (mixture) he dips a piece of gold which he has tied with a noose to a Darbha blade. With the next (three) formulas (II, 12, 3-5) he gives the boy (by means of the piece of gold, some of the mixture) to eat. With the next five (verses, II, 12, 6-10) he bathes him. Then he pours curds and ghee together and gives him this (mixture which is called) 'sprinkled butter' (pṛṣadājya) to eat out of a brass vessel, with the Vyāhṛtis to which the syllable 'Om' is added as the fourth (II, 12, 11-14). The remainder he should mix with water and pour out in a cow-stable.
+मधु घृतमिति सँसृज्य तस्मिन् दर्भेण हिरण्यं निष्टर्क्यं बध्वावदायोत्तरैर्मन्त्रैः कुमारं प्राशयित्वोत्तराभिः पञ्चभिस्स्नापयित्वा दधि घृतमिति सँसृज्य काँस्येन पृषदाज्यं व्याहृतीभिरोङ्कारचतुर्थाभिः कुमारं प्राशयित्वाद्भिः शेषँ सँसृज्य गोष्ठे निनयेत् ।
 
 </details>
 </div>
@@ -555,7 +567,7 @@ title = "१३ जातकर्म"
 उत्तरया +++(="मा ते कुमारम्")+++ मातुरुपस्थ आधाय,  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/01_mA_te.md">
-<details open=""><summary><h5>०१ मा ते ...{Loading}...</h5></summary>
+<details open><summary><h5>०१ मा ते ...{Loading}...</h5></summary>
 
 
 मा ते॑ कुमा॒रँ रक्षो॑वधी॒न्  
@@ -570,7 +582,7 @@ title = "१३ जातकर्म"
 ##### दक्षिणे स्तने प्रतिधाप्य  
 उत्तरया +++(="अयं कुमारः")+++ दक्षिणं स्तनं प्रतिधाप्य,  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/02_aya~N_kumAro.md">
-<details open=""><summary><h5>०२ अयङ् कुमारो ...{Loading}...</h5></summary>
+<details open><summary><h5>०२ अयङ् कुमारो ...{Loading}...</h5></summary>
 
 
 अ॒यं कु॑मा॒रो ज॒रां ध॑यतु दी॒र्घमायुः॑ ।  
@@ -585,7 +597,7 @@ title = "१३ जातकर्म"
 उत्तराभ्यां +++(="यद्भूमेर्हृदयम्")+++ पृथिवीमभिमृश्य,  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/03_yadbhUmerhRdayandivi_chandramasi.md">
-<details open=""><summary><h5>०३ यद्भूमेर्हृदयन्दिवि चन्द्रमसि ...{Loading}...</h5></summary>
+<details open><summary><h5>०३ यद्भूमेर्हृदयन्दिवि चन्द्रमसि ...{Loading}...</h5></summary>
 
 
 - यद्भूमे॒र्हृद॑यन्दि॒वि च॒न्द्रम॑सि श्रि॒तम् । तदु॑र्वि पश्यं॒ +++(=पश्येयम्)+++ माऽहं पौत्र॒मघꣳ॑ रुदम् ।
@@ -593,7 +605,7 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/04_yatte_susIme.md">
-<details open=""><summary><h5>०४ यत्ते सुसीमे ...{Loading}...</h5></summary>
+<details open><summary><h5>०४ यत्ते सुसीमे ...{Loading}...</h5></summary>
 
 
 - यत्ते॑ सुसी॒मे हृद॑यं॒ वेदा॒हं तत् प्र॒जाप॑तौ +++(=चन्द्रमसि [छायारूपेण])+++ । वेदा॑म॒ तस्य॑ ते व॒यं माऽहं पौत्र॒मघꣳ॑ रुदम् ।
@@ -606,7 +618,7 @@ title = "१३ जातकर्म"
 उत्तरेण यजुषा +++(="नामयति न रुदति")+++ संविष्टम् ॥  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/05_nAmayati_na.md">
-<details open=""><summary><h5>०५ नामयति न ...{Loading}...</h5></summary>
+<details open><summary><h5>०५ नामयति न ...{Loading}...</h5></summary>
 
 
 न +आम॑यति॒, न रु॑दति॒, यत्र॑ व॒यं व॑दामसि॒, यत्र॑ चा॒भिमृ॑शामसि ।
@@ -615,8 +627,13 @@ title = "१३ जातकर्म"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/13_jAtakarma/15_05_uttarayA_mAturupastha.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_05_uttarayA_mAturupastha.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+5. With the next (verse, M. II, 13, 1) he places (the child) in the mother's lap; with the next (II, 13, 2) he causes her to give him her right breast; with the next two (verses, II, 13, 3. 4) he touches the earth, and after (the child) has been laid down, (he touches him) with the next (formula, II, 13, 5).
+</details>
+<details><summary>हरदत्तः</summary>
 
 अथ तं कुमारं "मा ते कुमारम्" इत्येतया **मातुरुपस्थ** आदधाति ।
 एतावन्तं कालं स्वोपस्थे ।
@@ -624,11 +641,8 @@ title = "१३ जातकर्म"
 तत **उत्तरयर्चा** "अयं कुमार" इत्येतया **दक्षिणं स्तनं प्रतिधाप्य** तत **उत्तराभ्यां ऋग्भ्यां** "यद्भूमेर्हृदयम्" इत्येताभ्यां प्रतिमन्त्रं पृथिवीमभिमृशति ।
 ततः तं कुमारं अभिमृष्टायां भूमौ संवेशयति माता ।
 तं संविष्टम् **उत्तरेण यजुषा** "नामयति न रुदती"त्यनेनाभिमृशति ॥५॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/13_jAtakarma/15_05_uttarayA_mAturupastha.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **उत्तरया** "मा ते कुमारम्" इत्येतया कुमारं **मातुरुपस्थ** आदधाति ।
 इह च मातृग्रहणादितः पूर्वं स्वोपस्थ एव ।
@@ -643,11 +657,12 @@ title = "१३ जातकर्म"
 इष्टिस्तूक्तेन न्यायेन निमित्तस्वारस्यभङ्गस्य दुर्निवारत्वात् चोदकानुग्रहाच्चाशौचे ऽपगते पर्वण्येव कर्तव्या ।
 **उत्तराभ्यां** "यद्भूमेर्हृदयं" इत्येताभ्यां **पृथिवीं** सकृद् **अभिमृशति**, यत्र कुमारश्शतयिष्यते । ततस्तं कुमारं अभिमृष्टायां भूमौ माता संवेशयति । अथ तं **संविष्टं** "नामयति न रुदति" इति **यजुषा** अभिमृशति ॥५॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/13_jAtakarma/15_05_uttarayA_mAturupastha.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_05_uttarayA_mAturupastha.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-5. With the next (verse, M. II, 13, 1) he places (the child) in the mother's lap; with the next (II, 13, 2) he causes her to give him her right breast; with the next two (verses, II, 13, 3. 4) he touches the earth, and after (the child) has been laid down, (he touches him) with the next (formula, II, 13, 5).
+उत्तरया मातुरुपस्थ आधायोत्तरया दक्षिणं स्तनं प्रतिधाप्योत्तराभ्यां पृथिवीमभिमृश्योत्तरेण यजुषा संविष्टम् ।
 
 </details>
 </div>
@@ -661,7 +676,7 @@ title = "१३ जातकर्म"
 उत्तरेण यजुषा शिरस्य् उदकुम्भं निधाय,  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/06_ApassupteShu_jAgrata.md">
-<details open=""><summary><h5>०६ आपस्सुप्तेषु जाग्रत ...{Loading}...</h5></summary>
+<details open><summary><h5>०६ आपस्सुप्तेषु जाग्रत ...{Loading}...</h5></summary>
 
 
 आप॑स्सु॒प्तेषु॑ जाग्रत॒ रक्षाꣳ॑सि॒ निरि॒तो नु॑दद्ध्वम् ।  
@@ -680,7 +695,7 @@ title = "१३ जातकर्म"
 - +++(सर्षपान् फलीकरणमिश्रान् जुहोति।)+++  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/07_aya~N_kalim.md">
-<details open=""><summary><h5>०७ अयङ् कलिम् ...{Loading}...</h5></summary>
+<details open><summary><h5>०७ अयङ् कलिम् ...{Loading}...</h5></summary>
 
 
 
@@ -690,7 +705,7 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/08_shaNDerathashshaNDikera_ulUkhalaH.md">
-<details open=""><summary><h5>०८ शण्डेरथश्शण्डिकेर उलूखलः ...{Loading}...</h5></summary>
+<details open><summary><h5>०८ शण्डेरथश्शण्डिकेर उलूखलः ...{Loading}...</h5></summary>
 
 
 शण्डे॒रथ॒श्+++(शण्डो रथे यस्य)+++ शण्डि॑केर+++(शण्डिकम् बलम् ईरयति)+++ उलूख॒लः ।  
@@ -699,7 +714,7 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/09_ayashshaNDo_marka.md">
-<details open=""><summary><h5>०९ अयश्शण्डो मर्क ...{Loading}...</h5></summary>
+<details open><summary><h5>०९ अयश्शण्डो मर्क ...{Loading}...</h5></summary>
 
 
 अय॒श् शण्डो॒ मर्क॑  
@@ -709,7 +724,7 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/10_keshinIshshvalominIH_khajApo-jopa.md">
-<details open=""><summary><h5>१० केशिनीश्श्वलोमिनीः खजापोऽजोप ...{Loading}...</h5></summary>
+<details open><summary><h5>१० केशिनीश्श्वलोमिनीः खजापोऽजोप ...{Loading}...</h5></summary>
 
 
 के॒शिनी॒श् श्वलो॒मिनीः॒ खजा॑पो॒+++(=खञ्जा =पङ्ग्वयो भूत्वाप्नुवन्ति)+++  
@@ -719,7 +734,7 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/11_mishravAsasaH_kauberakA.md">
-<details open=""><summary><h5>११ मिश्रवाससः कौबेरका ...{Loading}...</h5></summary>
+<details open><summary><h5>११ मिश्रवाससः कौबेरका ...{Loading}...</h5></summary>
 
 
 मि॒श्रवा॑ससः कौबेर॒का  
@@ -730,7 +745,7 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/12_etAnghnataitAngRhNItetyayam.md">
-<details open=""><summary><h5>१२ एतान्घ्नतैतान्गृह्णीतेत्ययम् ...{Loading}...</h5></summary>
+<details open><summary><h5>१२ एतान्घ्नतैतान्गृह्णीतेत्ययम् ...{Loading}...</h5></summary>
 
 
 ए॒तान् घ्न॑तै॒तान् गृ॑ह्णी॒ते-  
@@ -744,7 +759,7 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/01_naktanchAriNa_uraspeshAnChUlahastAnkapAlapAn.md">
-<details open=""><summary><h5>०१ नक्तञ्चारिण उरस्पेशाञ्छूलहस्तान्कपालपान् ...{Loading}...</h5></summary>
+<details open><summary><h5>०१ नक्तञ्चारिण उरस्पेशाञ्छूलहस्तान्कपालपान् ...{Loading}...</h5></summary>
 
 
 न॒क्त॒ञ्चा॒रिण॑ उरस्पे॒शाञ्+++(=उरस्युज्ज्वलान्)+++  
@@ -757,7 +772,7 @@ title = "१३ जातकर्म"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/02_nishIthachAriNI_svasA.md">
-<details open=""><summary><h5>०२ निशीथचारिणी स्वसा ...{Loading}...</h5></summary>
+<details open><summary><h5>०२ निशीथचारिणी स्वसा ...{Loading}...</h5></summary>
 
 
 नि॒शी॒थ॒चा॒रिणी॒ स्वसा॑  
@@ -776,8 +791,13 @@ title = "१३ जातकर्म"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/13_jAtakarma/15_06_uttareNa_yajuShA.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_06_uttareNa_yajuShA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+6. With the next Yajus (II, 13, 6) he places a water-pot at (the child's) head, sacrifices mustard seeds and rice-chaff with his joined hands three times with each of the next (formulas, II, 13, 7-14, 2), repeating each time the word Svāhā, and says (to the people who are accustomed to enter the room in which his wife lies), 'Whenever you enter, strew silently (mustard seeds with rice-chaff) on the fire.'
+</details>
+<details><summary>हरदत्तः</summary>
 
 ततस्तस्य शिरस्समीपे **उत्तरेण यजुषा** "आपस्सुप्तेष्वि"त्यनेन उदकुम्भं निदधाति ।
 ततस् **सर्षपान् फलीकरणमिश्रान्** अञ्जलिना जुहोति **उत्तरैर्मन्त्रैः** अष्टाभिः "अयं कलिम्" इत्यादिभिः ।
@@ -799,11 +819,8 @@ title = "१३ जातकर्म"
 तेन यद्यपि "यस्यै विजातायां मन" इति मातुरपि रक्षा प्रतीयते तथापि
 तदर्थो होमो न भवति ।
 ततश्च स्त्रीप्रसवे दशाहमध्ये पुत्रमृतौ च न भवति ॥६॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/13_jAtakarma/15_06_uttareNa_yajuShA.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **उत्तरेण** "आपस्सुप्तेषु" इत्यनेन **यजुषा** कुमारस्य शिरस्समीपे उदकस्य पूर्णकुम्भं निधाय अथ "यत्र क्व ताग्निम्" (आप.ध.२-१-२३.) इत्यादिविधिना श्रोत्रियागारादग्निमाहृत्य तमुपनिधाय **फलीकरणमिश्रान् सर्षपान् उत्तरैः** "अयं कलिम्" इत्यादिभिरष्टभिर्मन्त्रैः अञ्जलिना प्रतिमन्त्रं **त्रिस्रिर्** जुहोति ।
 तत्र तु द्विस्तूष्णीम् ।
@@ -815,11 +832,12 @@ title = "१३ जातकर्म"
 केचित् एवकार एवमित्यर्थे ।
 तूष्णीमिति चातिदेशप्राप्तमन्त्रप्रतिषेधार्थमिति ॥६॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/13_jAtakarma/15_06_uttareNa_yajuShA.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_06_uttareNa_yajuShA.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-6. With the next Yajus (II, 13, 6) he places a water-pot at (the child's) head, sacrifices mustard seeds and rice-chaff with his joined hands three times with each of the next (formulas, II, 13, 7-14, 2), repeating each time the word Svāhā, and says (to the people who are accustomed to enter the room in which his wife lies), 'Whenever you enter, strew silently (mustard seeds with rice-chaff) on the fire.'
+उत्तरेण यजुषा शिरस्त उदकुम्भं निधाय सर्षपान् फलीकरणमिश्रानञ्जलिनोत्तरैस्त्रिस्त्रि प्रतिस्वाहाकारं हुत्वा संशास्ति–प्रविष्ट प्रविष्ट एव तूष्णीमग्नावावपतेति ।
 
 </details>
 </div>
@@ -833,8 +851,13 @@ title = "१३ जातकर्म"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/13_jAtakarma/15_07_evamaharaharAnirdashatAyAH.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_07_evamaharaharAnirdashatAyAH.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+7. This is to be done until the ten days (after the child's birth) have elapsed.
+</details>
+<details><summary>हरदत्तः</summary>
 
 विजननप्रभृति यावत् दशाहानि न निर्गच्छन्ति तावदेव होमः कर्तव्यः संशानञ्चेत्यर्थः ।
 सकृच्चहोमाः, न सायम् ।
@@ -842,22 +865,20 @@ title = "१३ जातकर्म"
 तस्य होमशेषत्वात् ।
 नापि वात्सप्रादेः ।
 कृत्स्नस्य कल्पान्तरेषु सर्वेष्वप्रसिद्धत्वात् ॥७॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/13_jAtakarma/15_07_evamaharaharAnirdashatAyAH.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 यथैतदनन्करोक्तं तूष्णीमापवनं **एवमहरहः आनिर्दशतायास्** सूतिकागृहपालैः कर्तव्यम् ।
 आङ् मर्यादायाम् ।
 **निर्दशा** निर्गता दशभ्योऽहोरात्रेभ्यो या रात्रिस्सा ।
 आदशम्या रात्रेरित्यर्थः ॥७॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/13_jAtakarma/15_07_evamaharaharAnirdashatAyAH.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_07_evamaharaharAnirdashatAyAH.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-7. This is to be done until the ten days (after the child's birth) have elapsed.
+एवमहरहरानिर्दशतायाः।
 
 </details>
 </div>

@@ -13,8 +13,13 @@ title = "०५ ऋतुसमवेशनम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+13. After the appearance of her monthly illness, he should, when going to cohabit with her after her illness, recite over her, after she has bathed, the next verses (M. I, 12, 1-13, 4).
+</details>
+<details><summary>हरदत्तः</summary>
 
 **रजसः** लोहितस्य ।
 **ऋतौ** यत् **समावेशनं** तत्र कर्तव्ये, **उत्तराभिर्** ऋग्भिः "विष्णुर्योनिम्" इत्यादिभिः त्रयोदशभिर् **अभिमन्त्रयेत** ।
@@ -25,11 +30,8 @@ title = "०५ ऋतुसमवेशनम्"
 तेनाञ्जनाभ्यञ्जनान्यपि भवति ॥१३॥
 
 इति श्रीहरहरदत्तविरचितायां गृह्यसूत्रवृत्तावनाकुलायामष्टमः खण्डः ॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **रजसः** शोणितस्य ।
 **प्रादुर्भावात्** काले निर्गमात्कारणात्, न मालिन्यादेः ।
@@ -41,11 +43,12 @@ title = "०५ ऋतुसमवेशनम्"
 
 इति श्री सुदर्शनाचार्यविरचिते गृह्यतात्पर्यदर्शनेऽष्टमः खण्डः॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/05_Rtusamaveshanam/08_13_rajasaH_prAdurbhAvAt.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-13. After the appearance of her monthly illness, he should, when going to cohabit with her after her illness, recite over her, after she has bathed, the next verses (M. I, 12, 1-13, 4).
+रजसः प्रादुर्भावात् स्नातामृतुसमावेशने उत्तराभिरभिमन्त्रयते ।
 
 </details>
 </div>
@@ -59,8 +62,13 @@ title = "०५ ऋतुसमवेशनम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+1. Each following night with an even number, from the fourth (after the beginning of her monthly illness) till the sixteenth, brings more excellent offspring to them, if chosen for the (first) cohabiting after her illness; thus it is said.
+</details>
+<details><summary>हरदत्तः</summary>
 
 **षोडशीम्** इति पञ्चम्यर्थे द्वितीया ।
 आषोडश्या इत्यर्थः ।
@@ -75,11 +83,8 @@ title = "०५ ऋतुसमवेशनम्"
 तत्र पूर्वमृतुगमनमन्त्राः ।
 पश्चात् समावेशनमन्त्राः ।
 विपरीतमन्ये ॥१॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 चतुर्थीप्रभृतीति दीर्घेणार्थपाठः ।
 **चतुर्थी** रात्रिमारभ्य् **आषोडशीं;** आङ् अभिविधौ, द्वितीया च पञ्चम्यर्थे; आषोडश्या इति यावत् ।
@@ -87,11 +92,12 @@ title = "०५ ऋतुसमवेशनम्"
 एतदुक्तं भवति–त्रयोदशसु रात्रिषु ऋतुगमने शुक्लाधिक्ये सति पुत्रा जायन्ते ।
 उत्तरोत्तरासु च युग्मासु यथाक्रमं तरतमभावेन ते सद्गुणाधिका भवन्ति ॥१॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/05_Rtusamaveshanam/09_01_chaturthIprabhRtyAShoDashImuttarAmuttarAM.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-1. Each following night with an even number, from the fourth (after the beginning of her monthly illness) till the sixteenth, brings more excellent offspring to them, if chosen for the (first) cohabiting after her illness; thus it is said.
+चतुर्थीप्रभृत्याषोडशीमुत्तरामुत्तरां युग्मां प्रजानिश्श्रेयसमृतुगमन इत्युपदिशन्ति ।
 
 </details>
 </div>

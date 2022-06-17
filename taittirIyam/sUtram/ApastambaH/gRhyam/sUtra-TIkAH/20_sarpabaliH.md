@@ -13,8 +13,20 @@ title = "२० सर्पबलिः"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/18_05_shrAvaNyAm.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/18_05_shrAvaNyAm.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+5. [^3]  On the day of the full moon of (the month) Śrāvaṇa after sunset a Sthālīpāka (is offered).
+
+
+[^3]:  Here follows a description of the Sarpabali.
+</details>
+<details><summary>हरदत्त-प्रस्तावः</summary>
+
+अथ सर्पबलेर्यस्मिन् काले येन विधिनोपक्रमस्तमाह—
+</details>
+<details><summary>हरदत्तः</summary>
 
 अथ सर्पबलिर् नाम कर्म नित्यं संवत्सरे संवत्सरे कर्तव्यम् उपदिश्यते। तस्य श्रावण्यां पौर्णमास्याम् आरम्भः
 मार्गशीर्ष्याम् उत्सर्गः । तस्योपक्रमे - **श्रावण्यां पौर्णमास्यां अस्तमिते** आदित्ये **स्थालीपाको** भवति ।
@@ -31,11 +43,8 @@ title = "२० सर्पबलिः"
 
 तत्र सायम् आहुतिं हुत्वा स्थाली-पाक-कर्म प्रतिपद्यते - पार्वणेनातोऽन्यानीत्युक्तं, पौर्णमास्यां पौर्णमासीति च ।
 श्रावण्यै पौर्णमास्यै सङ्कल्पितान् व्रीहिन् यवान् वा निरुप्य प्रतिष्ठिताभिधारणान्तं कृत्वाग्नेरुपसमाधानादि द्वन्द्वं न्यञ्चि पात्राणि किंशुक-पुष्पैर् आरग्वध-मय-समिद्भिश् च सह ॥५॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/18_05_shrAvaNyAm.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 श्रवणेन नक्षत्रेण युक्ता पौर्णमासी **श्रावणी** । +++(श्रवणेन नक्षत्रेण)+++ अयुक्तापीह +++(पौर्णमासी)+++ विवक्षिता, नित्यत्वात् सर्पबलेः । श्रावणमासस्य पौर्णमासीत्यर्थः । न तु श्रावणमासस्य श्रवणनक्षत्रम्, श्रवणस्य पौर्णमासी-विशेषणार्थत्वात्, "पौर्णमास्यां" (आप.प.२-२०.) इति वचनाच् च । अथ चान्द्रमसमासानां चैत्रादीनां, पौर्णमासीनां च चैत्र्यादीनां निर्णयार्थौ श्लोकौ—
 
@@ -48,14 +57,12 @@ title = "२० सर्पबलिः"
 
 तस्यां **श्रावण्यां** पौर्णमास्यां, **अस्तमिते** आदित्ये, सायं होमान्ते "पत्न्यवहन्ति" (आप.गृ.७-२.) इति विधिना प्रतिष्ठिताभिघारणान्तस् **स्थालीपाकः** कर्तव्यः ॥५॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/18_05_shrAvaNyAm.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/18_05_shrAvaNyAm.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-5. [^3]  On the day of the full moon of (the month) Śrāvaṇa after sunset a Sthālīpāka (is offered).
-
-
-[^3]:  Here follows a description of the Sarpabali.
+श्रावण्यां पौर्णमास्यामस्तमिते स्थालीपाकः ।
 
 </details>
 </div>
@@ -69,7 +76,7 @@ title = "२० सर्पबलिः"
 ऽञ्जलिनोत्तरैः प्रतिमन्त्रं +++(३)+++ किंशुकानि जुहोति ६  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/13-15_jagdho_mashako.md">
-<details open=""><summary><h5>१३-१५ जग्धो मशको ...{Loading}...</h5></summary>
+<details open><summary><h5>१३-१५ जग्धो मशको ...{Loading}...</h5></summary>
 
 
 ज॒ग्धो मश॑को, ज॒ग्धा वितृ॑ष्टिर्, ज॒ग्धो व्य॑द्ध्व॒रः स्वाहा॑ ।  
@@ -80,8 +87,16 @@ title = "२० सर्पबलिः"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/18_06_pArvaNavadAjyabhAgAnte.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/18_06_pArvaNavadAjyabhAgAnte.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+6. [^4]  After the ceremonies down to the Ājyabhāga oblations have been performed in the same way as at the fortnightly sacrifices, he sacrifices of the Sthālīpāka, and with each of the next (formulas, II, 16, 15-17) he offers with his joined hands Kiṃśuka flowers.
+
+
+[^4]:  Comp. above, III, 7, 2-3.
+</details>
+<details><summary>हरदत्तः</summary>
 
 सर्वं पार्वणवदित्त्युच्यते– स्थालीपाकादेव पार्वणवज् जुहोति, न किंशुकानीति । तेन तेष्व् अवदानकल्पो न भवति । स्विष्टकृतश् चावदानं तेभ्यो न भवति ।
 
@@ -96,11 +111,8 @@ title = "२० सर्पबलिः"
 
 प्रतिमन्त्रम् इत्त्य् उच्यते प्रतिमन्त्रं किंशुकानां बहुत्वं यथा स्याद् इति ।
 अन्यथा एकैकस्य किंशुकस्य होमः प्राप्नोति, यथा समिधाम् ॥६॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/18_06_pArvaNavadAjyabhAgAnte.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 ततः **पार्वण**वद् अग्नेर् उपसमाधाना**द्य्-आज्यभागान्ते** अग्निम-ुखान्त इत्यर्थः ; सर्वेष्व् औषध-हविष्केषु तन्त्रवत्सु कर्मसु अग्नि-मुखस्य विहितत्वात् ।
 
@@ -110,14 +122,12 @@ title = "२० सर्पबलिः"
 
 केचित्— अञ्जलिहोमा लाजहोमवद् यावद्-उक्त-धर्माण एवेति ॥६॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/18_06_pArvaNavadAjyabhAgAnte.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/18_06_pArvaNavadAjyabhAgAnte.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-6. [^4]  After the ceremonies down to the Ājyabhāga oblations have been performed in the same way as at the fortnightly sacrifices, he sacrifices of the Sthālīpāka, and with each of the next (formulas, II, 16, 15-17) he offers with his joined hands Kiṃśuka flowers.
-
-
-[^4]:  Comp. above, III, 7, 2-3.
+पार्वणवदाज्यभागान्ते स्थालीपाकाद्धुत्वाञ्जलिनोत्तरैः प्रतिमन्त्रं किंशुकानि जुहोति ।
 
 </details>
 </div>
@@ -130,7 +140,7 @@ title = "२० सर्पबलिः"
 उत्तराभिस् तिसृभिर् आरग्वध-मय्यस् समिधः ७  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/01_indra_jahi.md">
-<details open=""><summary><h5>०१ इन्द्र जहि ...{Loading}...</h5></summary>
+<details open><summary><h5>०१ इन्द्र जहि ...{Loading}...</h5></summary>
 
 
 इन्द्र॑ जहि दन्द॒शूकं॑  
@@ -141,7 +151,7 @@ title = "२० सर्पबलिः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/02_apsujAta_sarevRddha.md">
-<details open=""><summary><h5>०२ अप्सुजात सरेवृद्ध ...{Loading}...</h5></summary>
+<details open><summary><h5>०२ अप्सुजात सरेवृद्ध ...{Loading}...</h5></summary>
 
 
 अ॒प्सु-जा॑त॒ सरे॑वृद्ध  
@@ -152,7 +162,7 @@ title = "२० सर्पबलिः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/03_trANamasi_paritrANamasi.md">
-<details open=""><summary><h5>०३ त्राणमसि परित्राणमसि ...{Loading}...</h5></summary>
+<details open><summary><h5>०३ त्राणमसि परित्राणमसि ...{Loading}...</h5></summary>
 
 
 त्राण॑म् असि।  
@@ -164,19 +174,21 @@ title = "२० सर्पबलिः"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/18_07_uttarAbhistisRbhirAragvadhamayyassamidhaH.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/18_07_uttarAbhistisRbhirAragvadhamayyassamidhaH.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+7. With the next (three) verses (II, 17, 1-3) (he offers) pieces of Āragvadha wood (Cathartocarpus fistula);
+</details>
+<details><summary>हरदत्तः</summary>
 
 **आरग्वधो** राजवृक्षः ।
 यस्य सुवर्णवर्णानि पुष्पाणि अरत्निमात्राणि फलानि ।
 उत्तराभिस्तिसृभिः ऋग्भिः "इन्द्र जहि दन्दशूकम्" इत्यादिभिः ।
 समिध आदधाति जुहोति वा ।
 सर्वथा स्वाहाकारान्ता मन्त्राः ॥७॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/18_07_uttarAbhistisRbhirAragvadhamayyassamidhaH.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 अथो**त्तराभिस्तिसृभिः** "इन्द्र जहि दन्दशूकं "इत्यादिभिः प्रत्यृचम् ।
 **आरग्वधमय्यस्समिधः**, आरग्वधविकारास्समिधः ।
@@ -184,11 +196,12 @@ title = "२० सर्पबलिः"
 जुहोतीति सम्बन्धः ।
 तेनात्र समिधां मान्त्रवर्णिकदेवतोद्देशेन त्यागः कर्तव्य एव ॥७॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/18_07_uttarAbhistisRbhirAragvadhamayyassamidhaH.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/18_07_uttarAbhistisRbhirAragvadhamayyassamidhaH.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-7. With the next (three) verses (II, 17, 1-3) (he offers) pieces of Āragvadha wood (Cathartocarpus fistula);
+उत्तराभिस्तिसृभिरारग्वधमय्यस्समिधः ।
 
 </details>
 </div>
@@ -201,7 +214,7 @@ title = "२० सर्पबलिः"
 आज्याहुतीर् उत्तराः ८  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/04_tatsatyaM_yatte-mAvAsyAyAncha.md">
-<details open=""><summary><h5>०४ तत्सत्यं यत्तेऽमावास्यायाञ्च ...{Loading}...</h5></summary>
+<details open><summary><h5>०४ तत्सत्यं यत्तेऽमावास्यायाञ्च ...{Loading}...</h5></summary>
 
 
 +++(सर्पाधिपते!)+++ तत् स॒त्यं यत् ते॑ ऽमावा॒स्या॑याञ् च पौर्णमा॒स्याञ् च॒ विष॑ब॒लिꣳ हर॑न्ति॒।  
@@ -212,13 +225,13 @@ title = "२० सर्पबलिः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/namo_astu_sarpebhyaH/">
-<details open=""><summary><h5>नमो ऽस्तु सर्पेभ्यः ...{Loading}...</h5></summary>
+<details open><summary><h5>नमो ऽस्तु सर्पेभ्यः ...{Loading}...</h5></summary>
 
 हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n173/mode/2up) ।
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/05_namo_astu.md">
-<details open=""><summary><h7>०५ नमो अस्तु ...{Loading}...</h7></summary>
+<details open><summary><h7>०५ नमो अस्तु ...{Loading}...</h7></summary>
 
 
 नमो॑ अस्तु स॒र्पेभ्यो॑  
@@ -229,7 +242,7 @@ title = "२० सर्पबलिः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/06_ye-do_rochane.md">
-<details open=""><summary><h7>०६ येऽदो रोचने ...{Loading}...</h7></summary>
+<details open><summary><h7>०६ येऽदो रोचने ...{Loading}...</h7></summary>
 
 
 
@@ -241,7 +254,7 @@ title = "२० सर्पबलिः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/07_yA_iShavo.md">
-<details open=""><summary><h7>०७ या इषवो ...{Loading}...</h7></summary>
+<details open><summary><h7>०७ या इषवो ...{Loading}...</h7></summary>
 
 
 या इष॑वो यातु॒धाना॑नां॒  
@@ -255,23 +268,26 @@ title = "२० सर्पबलिः"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/18_08_AjyAhutIruttarAH.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/18_08_AjyAhutIruttarAH.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+8. Then the Ājya oblations (indicated by the) next (Mantras, II, 17, 4-7).
+</details>
+<details><summary>हरदत्तः</summary>
 
 **उत्तराश्** चतस्र **आज्याहुतीर्** जुहोति तत्सत्यं यत्तेऽमावास्यायां, "नमो अस्तु सर्पेभ्य" इति तिस्रः ॥८॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/18_08_AjyAhutIruttarAH.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **उत्तराश्** चतस्रः "तत्सत्यं यत्तेऽमावास्यायाम्" इत्येका, "नमो अस्तु सर्पेभ्यः" इति तिस्रश्च ॥८॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/18_08_AjyAhutIruttarAH.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/18_08_AjyAhutIruttarAH.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-8. Then the Ājya oblations (indicated by the) next (Mantras, II, 17, 4-7).
+आज्याहुतीरुत्तराः ।
 
 </details>
 </div>
@@ -285,27 +301,29 @@ title = "२० सर्पबलिः"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/18_09_jayAdi_pratipadyate.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/18_09_jayAdi_pratipadyate.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+9. Then he enters upon the performance of the Jaya and following oblations.
+</details>
+<details><summary>हरदत्तः</summary>
 
 एवमेता एकादश प्रधानाहुतीर्हुत्वा सौविष्टकृतं च स्थालीपाकादेव हुत्वा ततो जयादि प्रतिपद्यते किंशुकप्रभृतीनामप्याहुतीनां प्राधान्यज्ञापनार्थमिदं वचनम् ।
 अन्यथा पौर्णमास्यामस्तमिते स्थालीपाक इति विहितत्वात् पौर्ममास्यां पौर्णमासीति च तस्य देवताभिधानादर्शकर्मकत्वाच्च किंशुकानां प्रधानत्वं न गम्येत ।
 ततश्च पार्वणवदुपहोमान्तं कृत्वा ततः किंशुकादीनां हेमः प्राप्नोति ॥९॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/18_09_jayAdi_pratipadyate.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 एतच्च वचनं जयादिप्राप्यर्थम्, स्थालीपाककिंशुकसमिदाज्याहुतीनामेकदशानां प्राधान्यज्ञापनार्थं च ।
 जयाद्यनन्तरं स्विष्टकृदित्युक्तमेव ॥९॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/18_09_jayAdi_pratipadyate.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/18_09_jayAdi_pratipadyate.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-9. Then he enters upon the performance of the Jaya and following oblations.
-
+जयादि प्रतिपद्यते।
 </details>
 </div>
 
@@ -325,7 +343,7 @@ title = "२० सर्पबलिः"
 तासूत्तरया सक्तून्+++(=भृष्ठयवादिचूर्णानि)+++ निवपति +++(ताः सर्वा लेखाः यथा बलिर्व्याप्नुयात्)+++ १०  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/08_namo_astu.md">
-<details open=""><summary><h5>०८ नमो अस्तु ...{Loading}...</h5></summary>
+<details open><summary><h5>०८ नमो अस्तु ...{Loading}...</h5></summary>
 
 
 नमो॑ अस्तु स॒र्पेभ्यो॒  
@@ -337,8 +355,13 @@ title = "२० सर्पबलिः"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/18_10_pariShechanAnta~N_kRtvA.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/18_10_pariShechanAnta~N_kRtvA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+10. Having performed (the rites) down to the sprinkling (of water) round (the fire), he silently takes the objects required (for the rites which he is going to perform), goes out in an easterly or northerly direction, prepares a raised surface, draws on it three lines directed towards the east and three towards the north, pours water on the (lines), and lays (an offering of) flour (for the serpents) on them, with the next (formula, II, 17, 8).
+</details>
+<details><summary>हरदत्तः</summary>
 
 परिषेचनान्तवचनमानन्तर्यार्थम् ।
 परिषेचनान्ते उपनिष्क्रमणमेव नान्यदिति किं सिद्धं भवति ? तेन सर्पिष्मता ब्राह्मणं भोजयेत्" इत्यादेरुत्कर्षस्सिद्धो भवति ।
@@ -358,22 +381,20 @@ title = "२० सर्पबलिः"
 एवं लेखा लिखित्वाऽद्भिरुपनिनयति तासां समीपे अपो निनयति सर्वदेवजनेभ्यो ददाति यथा पितृभ्यः पिण्डदाने ।
 ततस्तासु लेखासु **उत्तरयर्चा** "नमोऽस्तु सर्पेभ्यो ये पार्थिवा" इत्येतया सक्तून्निवपति हस्तेन दर्व्या वा, आश्वलायनके दर्शनात् ।
 तास्विति वचनं ताः सर्वा लेखाः यथा बलिर्व्याप्नुयादित्येवमर्थम् ॥१०॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/18_10_pariShechanAnta~N_kRtvA.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 अथ तन्त्रशेषं समाप्य, **सम्भारान्** उत्तरत्रोपयोक्ष्यमाणान् सक्त्वादीनादाय, **वाग्यतः प्राचीमुदीचीं वा दिशमुपनिष्क्रम्य, स्थणडिलं** पीठं **कल्पयित्वा तत्र** पीठे दक्षिणस्या आरभ्य **प्राचीस्तिस्रः**, प्रतीच्या आरभ्य **उदीचीस्तिस्रश्च रेखा लिखित्वाद्भिरुपनिनीय तासु** षट्सु लेखासु लेखनक्रमेणो**त्तरया** "नमो अस्तु सर्पेभ्यो ये पार्थिवाः" इत्यादिकया "बलिं हरिष्यामि" इत्यन्तया **सक्तून्निन्निवपति** ।
 सकृदेव मन्त्रः ।
 न च स्वाहाकारः ; अजुहोति चेदितत्वात्, नमस्कारस्यापि प्रदानार्थतत्वादित्युक्तत्वाच्च ।
 केचित्— सर्वासु रेखासु यथा युगपत्प्राप्नुयाद्बलिः तथा निवपति ॥१०॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/18_10_pariShechanAnta~N_kRtvA.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/18_10_pariShechanAnta~N_kRtvA.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-10. Having performed (the rites) down to the sprinkling (of water) round (the fire), he silently takes the objects required (for the rites which he is going to perform), goes out in an easterly or northerly direction, prepares a raised surface, draws on it three lines directed towards the east and three towards the north, pours water on the (lines), and lays (an offering of) flour (for the serpents) on them, with the next (formula, II, 17, 8).
+परिषेचनान्तं कृत्वा वाग्यतस्सम्भारानादाय प्राचीमुदीचीं वा दिशमुपनिष्क्रम्य स्थण्डिलं कल्पयित्वा तत्र प्राचीरुदीचीश्च तिस्रस्तिस्रो लेखा लिखित्वाऽद्भिरुपनिनीय तासूत्तरया सक्तून्निवपति ।
 
 </details>
 </div>
@@ -387,8 +408,13 @@ title = "२० सर्पबलिः"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/18_11_tUShNIM_sampuShkA.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/18_11_tUShNIM_sampuShkA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+11. Silently (he lays down) unground (?) grain, roasted grain, collyrium, ointment, (the fragrant substance called) Sthagara, and Uśīra root.
+</details>
+<details><summary>हरदत्तः</summary>
 
 **संपुष्का** अक्षता अखण्डितैस् तण्डुलैः कृताः  
 स्थगरञ् चोशीरञ् च गन्धद्रव्ये  
@@ -396,11 +422,8 @@ title = "२० सर्पबलिः"
 इति शब्दः समुच्चयार्थः । 
 
 तेन सर्वत्र पूर्वेण मन्त्रेणैव निवपने प्राप्ते तूष्णीमिति मन्त्रप्रतिषेधः ॥११॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/18_11_tUShNIM_sampuShkA.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **सम्पुष्काः** सम्पुष्टा इति धानाविशेषणं अखण्डिततण्डुलैः कृता **धाना** इत्यर्थः ।
 **स्थगरम्** आपणस्थं गन्धगद्रव्यम् ।
@@ -409,11 +432,12 @@ title = "२० सर्पबलिः"
 
 एतानि षट् द्रव्याणि **तूष्णीं** रेखास्व् एव निवपति ॥११॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/18_11_tUShNIM_sampuShkA.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/18_11_tUShNIM_sampuShkA.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-11. Silently (he lays down) unground (?) grain, roasted grain, collyrium, ointment, (the fragrant substance called) Sthagara, and Uśīra root.
+तूष्णीं सम्पुष्का धाना लाजानाञ्जनाभ्यञ्जने स्थगरोशीरमिति ।
 
 </details>
 </div>
@@ -430,7 +454,7 @@ title = "२० सर्पबलिः"
 ##### उपस्थानमन्त्राः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/09-10_taxaka_vaishAleya.md">
-<details open=""><summary><h5>०९-१० तक्षक वैशालेय ...{Loading}...</h5></summary>
+<details open><summary><h5>०९-१० तक्षक वैशालेय ...{Loading}...</h5></summary>
 
 
 
@@ -441,7 +465,7 @@ title = "२० सर्पबलिः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/11_-12_ahiMsAtibalaste_jIvAstvayi.md">
-<details open=""><summary><h5>११ -१२ अहिंसातिबलस्ते जीवास्त्वयि ...{Loading}...</h5></summary>
+<details open><summary><h5>११ -१२ अहिंसातिबलस्ते जीवास्त्वयि ...{Loading}...</h5></summary>
 
 
 अ॒हि॒ꣳ॒सा॒ति॒ब॒लस्ते जी॑वा॒स् …।  
@@ -450,7 +474,7 @@ title = "२० सर्पबलिः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/13_ye_dandashUkAH.md">
-<details open=""><summary><h5>१३ ये दन्दशूकाः ...{Loading}...</h5></summary>
+<details open><summary><h5>१३ ये दन्दशूकाः ...{Loading}...</h5></summary>
 
 
 ये द॑न्द॒शूकाः॒ पार्थि॑वा॒स्- ताꣳस् त्वम् इ॒तः प॒रो गव्यू॑तिं॒ निवे॑शय ।  
@@ -462,7 +486,7 @@ title = "२० सर्पबलिः"
 +++(प्रतिदिशम् मन्त्राः।)+++
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/14_samIchI_nAmAsi.md">
-<details open=""><summary><h5>१४ समीची नामासि ...{Loading}...</h5></summary>
+<details open><summary><h5>१४ समीची नामासि ...{Loading}...</h5></summary>
 
 
 स॒मीची॒ नामा॑सि॒ प्राची॒ दिक्। तस्या॑स् ते॒ ऽग्निर् अधि॑पतिर्, असि॒तो र॑क्षि॒ता।  
@@ -472,7 +496,7 @@ title = "२० सर्पबलिः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/15_-19_ojasvinI_nAmAsi.md">
-<details open=""><summary><h5>१५ -१९ ओजस्विनी नामासि ...{Loading}...</h5></summary>
+<details open><summary><h5>१५ -१९ ओजस्विनी नामासि ...{Loading}...</h5></summary>
 
 ###### मन्त्रः
 
@@ -501,7 +525,7 @@ title = "२० सर्पबलिः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/20_-25_hetayo_nAmastha.md">
-<details open=""><summary><h7>२० -२५ हेतयो नामस्थ ...{Loading}...</h7></summary>
+<details open><summary><h7>२० -२५ हेतयो नामस्थ ...{Loading}...</h7></summary>
 
 
 हे॒तयो॒ नाम॑ स्थ॒, तेषां॑ वः पु॒रो गृ॒हा, अ॒ग्निर् व॒ इष॑वः, सलि॒लो वा॑त-ना॒मम्।  
@@ -526,7 +550,7 @@ title = "२० सर्पबलिः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/26_apashvetapadA_jahi.md">
-<details open=""><summary><h5>२६ अपश्वेतपदा जहि ...{Loading}...</h5></summary>
+<details open><summary><h5>२६ अपश्वेतपदा जहि ...{Loading}...</h5></summary>
 
 
 
@@ -538,7 +562,7 @@ title = "२० सर्पबलिः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/27_na_vai.md">
-<details open=""><summary><h5>२७ न वै ...{Loading}...</h5></summary>
+<details open><summary><h5>२७ न वै ...{Loading}...</h5></summary>
 
 
 न वै श्वे॒तस्या॑ऽध्याचा॒रे+++(=आधिपत्ये)+++  
@@ -553,8 +577,13 @@ title = "२० सर्पबलिः"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/18_12_uttarairupasthAyApaH.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/18_12_uttarairupasthAyApaH.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+With the next (formulas, II, 17, 9-26) he should worship (the serpents), should sprinkle water round (the oblations), should return (to his house) silently without looking back, should sprinkle (water) with a water-pot from left to right, thrice around the house or the resting-place on the inside, with the two verses, 'Beat away O white one, with thy foot' (II, 17, 27. 28), and should offer food to the Brāhmaṇas.
+</details>
+<details><summary>हरदत्तः</summary>
 
 एवमेवैतं बलिं सप्तभिर्द्रव्यैर्दत्वा ततस्तां बलिदेवतामुपतिष्ठते ।
 **उत्तरैर्**मन्त्रैः "तक्षक वेशालेये"त्यादिभिः
@@ -567,11 +596,8 @@ title = "२० सर्पबलिः"
 प्रत्येत्य "अपश्वेत पदा" इत्येताभ्यां ऋग्भ्यां उदकुंभेन **अन्तरतोऽगारं** निवेशनं वा परिषिच्य **ब्रह्मणान् युग्मान् भोजयेत्** स्थालीपाकशेषादिभिः ॥१२॥
 
 इति श्रीहरदत्तविरचितायां गृह्यवृत्तावनाकुलायामष्टादशः खण्डः ॥१७॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/18_12_uttarairupasthAyApaH.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 अथ **उत्तरैर्** मन्त्रैः "तक्षक वेशालेय" इत्यादिभिरष्टादशभिः मान्त्रवर्णिकीं बलिदेवतामुपतिष्ठते ।
 तत्र च "ओजस्विनी नामासि" इत्यादिषु चतुर्षु पर्यायेषु दशभ्यः पदेभ्य ऊर्ध्वं "रक्षिता यश्चाधिपतिः" इत्यादेरनुषङ्गः ।
@@ -583,11 +609,12 @@ title = "२० सर्पबलिः"
 
 इति श्रीसुदर्शनाचार्यविरचिते गृह्यतात्पर्यदर्शने अष्टादशः खण्डः ॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/18_12_uttarairupasthAyApaH.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/18_12_uttarairupasthAyApaH.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-With the next (formulas, II, 17, 9-26) he should worship (the serpents), should sprinkle water round (the oblations), should return (to his house) silently without looking back, should sprinkle (water) with a water-pot from left to right, thrice around the house or the resting-place on the inside, with the two verses, 'Beat away O white one, with thy foot' (II, 17, 27. 28), and should offer food to the Brāhmaṇas.
+उत्तरैरुपस्थायापः परिषिच्याप्रतीक्षस्तूष्णीमेत्या "पश्वेत पदे"त्येताभ्यामुदकुम्भेन त्रिःप्रदक्षिणमन्तरतोऽगारं निवेशनं वा परिषिच्य ब्राह्मणान् भोजयेत् ।
 
 </details>
 </div>
@@ -601,25 +628,28 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/19_01_dhAnAH_kumArAn.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/19_01_dhAnAH_kumArAn.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+1. The unground grain (which is left over, see above, VII, 18, 11) they give to the boys to eat.
+</details>
+<details><summary>हरदत्तः</summary>
 
 बलिहरणशिष्टाः **धानाः कुमारान् प्राशयन्ति** ये प्राशने समर्थाः ।
 कुमारीणाम् अपि प्राशनमेकशेषनिर्देशात् ॥ १ ॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/19_01_dhAnAH_kumArAn.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **धानाः** या बलिहरणशिष्टाः **कुमारान् प्राशयन्ति** ।
 के? शिष्टास् सामर्थ्यात् ॥१॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/19_01_dhAnAH_kumArAn.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/19_01_dhAnAH_kumArAn.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-1. The unground grain (which is left over, see above, VII, 18, 11) they give to the boys to eat.
+धानाः कुमारान् प्राशयन्ति।
 
 </details>
 </div>
@@ -633,8 +663,13 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/19_02_evam_ata.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/19_02_evam_ata.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+2. Let him repeat in the same way this Bali-offering of whatever food he has got or of flour, from that day to full moon of (the month) Mārgaśīrṣa.
+</details>
+<details><summary>हरदत्तः</summary>
 
 यद् इदं बलिहरणं वाग्यतस् संभारान् आदायेत्याद्य् अप्रतीक्षमाणस् तूष्णीम् इत्येतदन्तं (आप.गृ.१८-१०-१२.) तद् अस्मात् कर्मण **ऊर्ध्वम् आमार्गशीर्ष्याः पर्वणश् चतुर्षु मासेषु यद् अशनीयस्या**न्न-विशेषस्य **सक्तूनां वा** ऽहरहः कर्तव्यम् । यद् यद् अन्नम् अशनार्थं गृहे क्रियते तदशनीयम् ।
 
@@ -670,11 +705,8 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 अत्रैनमुत्सृजतीति (आप.गृ.१९-५.)
 वक्ष्यति ।
 प्रयोजनमस्य तत्रैव वक्ष्यामः ॥२॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/19_02_evam_ata.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **अत ऊर्ध्वं** अस्माच् छ्रावण्यां कृतात् कर्मण ऊर्ध्वम् ।
 **आमार्गशीर्ष्याः** यावन् मार्गशीर्षी यावद् उत्सर्जनं तावद् इत्यर्थः ।
@@ -687,11 +719,12 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 तथा एतमितिशब्दस्यैव अपेक्षितकृत्स्नधर्मप्रापकत्वात् एवमिति शब्द उत्तरसूत्रार्थ इति ।
 तन्न; समभिव्याहृतसकलपदानां सम्भूयैकार्थप्रत्ययविरोधात् ॥२॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/19_02_evam_ata.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/19_02_evam_ata.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-2. Let him repeat in the same way this Bali-offering of whatever food he has got or of flour, from that day to full moon of (the month) Mārgaśīrṣa.
+एवम् अत ऊर्ध्वं यदशनीयस्य सक्तूनां वैतं बलिं हरेदामार्गशीर्ष्याः।
 
 </details>
 </div>
@@ -705,8 +738,13 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/19_03_mArgashIrShyAm.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/19_03_mArgashIrShyAm.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+3. On the day of the full moon of Mārgaśīrṣa after sunset a Sthālīpāka (is offered as above, VII, 18, 5).
+</details>
+<details><summary>हरदत्तः</summary>
 
 श्रावण्यां पौर्णमास्याम् इत्यनेनैतत् व्याख्यातम् ।
 एवं शब्दश् चात्रानुवर्तते ।
@@ -726,22 +764,19 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 एवञ्च यदशनीयवचनेनोभयोः कालयोर्बलिहरणमिति यदुक्तं तदेव स्थितं भवति ।
 अस्तमित इत्त्युच्यते– अहनि मा भूदिति ।
 एवमित्यस्य धर्मप्रापणे कालविधौ चोभयत्र शक्तिर्नास्तीत्युक्तम् ॥३॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/19_03_mArgashIrShyAm.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 साकाङ्क्षत्वाद् **एवं**-शब्दोऽनुवर्तते ।
 यथा श्रावण्यां **स्थालीपाकः** कृतः, एवं **मार्गशीर्ष्याम् अप्य् अस्तमिते** कर्तव्यः ।
 "पत्न्य् अवहन्तीत्य्" आदि धाना-प्रशनान्तं कृत्स्नं कर्मानुष्ठेयम् इत्य् अर्थः। स्थालीपाकहोमे तु "मार्गशीर्ष्यै पौर्णमास्यै स्वाहे"ति विशेषः ॥३॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/19_03_mArgashIrShyAm.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/19_03_mArgashIrShyAm.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-3. On the day of the full moon of Mārgaśīrṣa after sunset a Sthālīpāka (is offered as above, VII, 18, 5).
-
+मार्गशीर्ष्यां पौर्णमास्यामस्तमिते स्थालीपाकः।
 </details>
 </div>
 
@@ -754,8 +789,13 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/19_04_ahArShamiti_balimantrasya.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/19_04_ahArShamiti_balimantrasya.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+4. In the Mantra for the Bali-offering he changes (the word 'I shall offer' into) 'I have offered.'
+</details>
+<details><summary>हरदत्तः</summary>
 
 **सन्नामः** ऊहः—हरिष्यामीत्यस्य स्थाने अहार्षमिति ।
 यद्यप्ययं सन्नामस्तस्मिन्नेव मन्त्रे पठितः तथाप्यसत्यस्मिन् वचने बलिहरणमन्त्रे चतुर्थपादस्य पृथग्विनियोगाभावात् चतुष्पादा सा विज्ञायेत ।
@@ -763,19 +803,17 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 त्रिपदैव सा तस्या एव तृतीयस्य पादस्य सन्नामोऽयमुत्तमः पठितः तस्यैव विनियोगकालो न प्रागिति ।
 किञ्च कृत्स्नमेवैतत् कर्म धानाप्राशनान्तं स्थालीपाकशब्देन गृह्यते एतच्च दर्शितं भवति ।
 बलिहरणस्योत्तरसूत्रे प्रयोजनम् ॥४॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/19_04_ahArShamiti_balimantrasya.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 उक्तार्थमेतत् ॥४॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/19_04_ahArShamiti_balimantrasya.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/19_04_ahArShamiti_balimantrasya.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-4. In the Mantra for the Bali-offering he changes (the word 'I shall offer' into) 'I have offered.'
+अहार्षमिति बलिमन्त्रस्य सन्नामः ।
 
 </details>
 </div>
@@ -789,8 +827,13 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/20_sarpabaliH/19_05_atrainamutsRjati.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/19_05_atrainamutsRjati.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+5. Then he does not offer (the Bali) any longer.
+</details>
+<details><summary>हरदत्तः</summary>
 
 **अत्र** मार्गशीर्ष-संज्ञके कर्मण्य् **एनं** बलिम् उत्सृजति ।
 +++("एवम् अत" इति सूत्रय्)+++ **एवम्** इत्य् अनेन वचनेन श्रावणी-विधानस्य कृत्स्नस्यातिदिष्टत्वाद् अस्यापि स्थालीपाकस्य शेषत्वेन बलि-हरण-प्राप्तिः ।
@@ -798,20 +841,18 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 तस्मात् मार्गशीर्ष-शेषस्य **अहार्षम्** इत्येव विधिः ।
 शिष्टस्य बलेः प्रतिषेधार्थम् इदम् ।
 आमार्गशीर्ष्या इत्य् एतत्तु श्रावण-शेषस्य बलेर् अवसान-विधानार्थम् ॥५॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/20_sarpabaliH/19_05_atrainamutsRjati.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **अत्र** अस्मिन्न् उत्सर्जने कृते, **एनम्** अहर् अहः क्रियमाणं बलिम् **उत्सृजति** ।
 न चायम् आत्यन्तिक उत्सर्गः - नित्यत्वेन सर्प-बलेस् संवत्सरे सम्वत्सरे कर्तव्यत्वात् ॥५॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/20_sarpabaliH/19_05_atrainamutsRjati.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/20_sarpabaliH/19_05_atrainamutsRjati.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-5. Then he does not offer (the Bali) any longer.
+अत्रैनमुत्सृजति ।
 
 </details>
 </div>

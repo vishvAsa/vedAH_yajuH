@@ -12,8 +12,13 @@ title = "२१ आग्रयणस्थालीपाकः"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/21_AgrayaNasthAlIpAkaH/19_06_anAhitAgnerAgrayaNam.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/21_AgrayaNasthAlIpAkaH/19_06_anAhitAgnerAgrayaNam.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+6. (Now follows) the Āgrayaṇa sacrifice (or partaking of the first-fruits) of one who has not set up the (Śrauta) fires.
+</details>
+<details><summary>हरदत्तः</summary>
 
 +++(आग्रयण-शब्दय्)+++ **एतिर्** अत्र प्राशनार्थः । अग्रे प्रथमं अयनं यत्र तद् **आग्रयणम्** । अग्रायणम् इति प्राप्ते छान्दसो दीर्घ-व्यत्ययः ।
 
@@ -25,11 +30,8 @@ title = "२१ आग्रयणस्थालीपाकः"
 नानिष्ट्वाग्रयणेनाऽऽहिताग्निर् नवस्याश्नीयाद् इति । (आप.श्रौ.६-२९-२.) 
 
 वर्षासु श्यामाकैर् यजेत, शरदि व्रीहिभिः, वसन्ते यवैः, यथुर्तु वेणु-यवैर् इति च ॥६॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/21_AgrayaNasthAlIpAkaH/19_06_anAhitAgnerAgrayaNam.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 उपदिश्यत इति शेषः ।
 
@@ -55,11 +57,12 @@ title = "२१ आग्रयणस्थालीपाकः"
 आग्रयणम् इति कर्मनामधेयम्, येन कर्मणा अग्रे नवद्रव्यं देवान् प्रापयतीति ।
 यत्-कर्म कृत्वेैव वाग्रयणं प्रथमायनं नवान्न-प्राशन-प्राप्तिर् भवतीति ॥६॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/21_AgrayaNasthAlIpAkaH/19_06_anAhitAgnerAgrayaNam.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/21_AgrayaNasthAlIpAkaH/19_06_anAhitAgnerAgrayaNam.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-6. (Now follows) the Āgrayaṇa sacrifice (or partaking of the first-fruits) of one who has not set up the (Śrauta) fires.
+अनाहिताग्नेराग्रयणम् ।
 
 </details>
 </div>
@@ -76,7 +79,7 @@ title = "२१ आग्रयणस्थालीपाकः"
 +उत्तरेण यजुषा+++(प॒र॒मे॒ष्ठ्य् असि॑ पर॒मां मा॒ꣳ॒ श्रियं॑ गमय ।)+++ ऽऽगार-स्तूप उद्विद्धेत्+++(=उद्-विध्येत्)+++ ७  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/01_parameShThyasi_paramAm.md">
-<details open=""><summary><h5>०१ परमेष्ठ्यसि परमाम् ...{Loading}...</h5></summary>
+<details open><summary><h5>०१ परमेष्ठ्यसि परमाम् ...{Loading}...</h5></summary>
 
 
 
@@ -87,8 +90,13 @@ title = "२१ आग्रयणस्थालीपाकः"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/21_AgrayaNasthAlIpAkaH/19_07_navAnA.N_sthAlIpAka.N.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/21_AgrayaNasthAlIpAkaH/19_07_navAnA.N_sthAlIpAka.N.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+7. He prepares a Sthālīpāka of the fresh fruits, sacrifices to the deities of the (Śrauta) Āgrayaṇa sacrifice with (Agni) Sviṣṭakṛt as the fourth, fills his mouth with grains, swallows them, sips water, forms a lump of the boiled (sacrificial) food, and throws it up with the next Yajus (II, 18, 1) to the summit of the house.
+</details>
+<details><summary>हरदत्तः</summary>
 
 - **नवानां** व्रीहीणां यवानां वा औपासने श्रपयित्वा  
 - प्रतिष्ठितम् अभिघार्याग्निम् उपसमाधाय  
@@ -117,11 +125,8 @@ title = "२१ आग्रयणस्थालीपाकः"
 स्विष्टकृच्-चतुर्थ-वचनं सोम-निवृत्य्-अर्थम् ।
 
 तेन+++(←केन??)+++ श्यामाकानां वेणुयवानां चाग्रयणं अनाहिताग्नेर् भवति ॥७॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/21_AgrayaNasthAlIpAkaH/19_07_navAnA.N_sthAlIpAka.N.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **नवानां** व्रीहीणां यवानां वा सम्बन्धिनां पत्न्य् अवहन्तीत्यादि-विधिना **स्थालीपाकम्** एव श्रपयित्वा  
 ऽग्नेर् उपसमाधानाद्य्-अग्नि-मुखान्ते कृते  
@@ -157,11 +162,12 @@ title = "२१ आग्रयणस्थालीपाकः"
 ततस्तं पिण्डमुत्तरेण यजुषा "परमेष्ठ्यसि" इत्यनेन **उद्विद्धेत्** ऊर्ध्वं विक्षिपेत् ।  
 यथागारस्तूपे पृष्ठवंशे पतति तथा विद्धेत् । यकार-लोपश् छान्दसः ॥७॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/21_AgrayaNasthAlIpAkaH/19_07_navAnA.N_sthAlIpAka.N.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/21_AgrayaNasthAlIpAkaH/19_07_navAnA.N_sthAlIpAka.N.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-7. He prepares a Sthālīpāka of the fresh fruits, sacrifices to the deities of the (Śrauta) Āgrayaṇa sacrifice with (Agni) Sviṣṭakṛt as the fourth, fills his mouth with grains, swallows them, sips water, forms a lump of the boiled (sacrificial) food, and throws it up with the next Yajus (II, 18, 1) to the summit of the house.
+नवानाँ स्थालीपाकँ श्रपयित्वाऽऽग्रयणदेवताभ्यः स्विष्टकृच्चतुर्थाभ्यो हुत्वा तण्डुलानां मुखं पूरयित्वा गीर्त्वाचम्यौदनपिण्डँ संवृत्त्योत्तरेण यजुषागारस्तूप उद्विद्धेत् ।
 
 </details>
 </div>

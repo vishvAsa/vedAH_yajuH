@@ -12,7 +12,7 @@ title = "१२ पुंसुवनम्"
 पुँसवनं व्यक्ते गर्भे तिष्येण ।
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/14_puMsuvanamasi.md">
-<details open=""><summary><h5>१४ पुंसुवनमसि ...{Loading}...</h5></summary>
+<details open><summary><h5>१४ पुंसुवनमसि ...{Loading}...</h5></summary>
 
 
 पु॒ꣳ॒ सु॒वन॑म् असि ।  
@@ -21,8 +21,13 @@ title = "१२ पुंसुवनम्"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/12_puMsuvanam/14_09_pu.NsavanaM_vyakte.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/12_puMsuvanam/14_09_pu.NsavanaM_vyakte.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+9. The Puṃsavana (i.e. the ceremony to secure the birth of a male child) is performed when the pregnancy has become visible, under the constellation Tiṣya.
+</details>
+<details><summary>हरदत्तः</summary>
 
 पुमान् येन सूयते **तत्पुंसुवनं** नाम कर्म ।
 उवङादेशश्छान्दसः ।
@@ -35,11 +40,8 @@ title = "१२ पुंसुवनम्"
 पश्चादुपदेशस्य तु प्रयोजनं वक्ष्यामः ।
 **तिष्येण** तच्च तिष्ये कर्तव्यम् ।
 "नक्षत्रे च लुपी"ति अधिकरणे तृतीया ॥९॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/12_puMsuvanam/14_09_pu.NsavanaM_vyakte.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **पुंसुवनम्** इत्यपि कर्मनामधेयम्। येन कर्मणा निमित्तेन गर्भिणी पुमांसम् एव सूते तत् **पुंसवनम्** ।  
 व्याख्यायत इति शेषः ।
@@ -60,11 +62,13 @@ title = "१२ पुंसुवनम्"
 **तिष्येण** - तिष्य-नक्षत्रे पुंसवनं कर्तव्ययम् इति व्यवहितेन सम्बन्धः ; "प्रकरणात् प्रधानस्य" इति न्यायात् ।
 शुङ्गाहरणे त्वनियमः ॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/12_puMsuvanam/14_09_pu.NsavanaM_vyakte.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/12_puMsuvanam/14_09_pu.NsavanaM_vyakte.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-9. The Puṃsavana (i.e. the ceremony to secure the birth of a male child) is performed when the pregnancy has become visible, under the constellation Tiṣya.
+पुँसवनं व्यक्ते गर्भे तिष्येण ।
+
 
 </details>
 </div>
@@ -78,8 +82,13 @@ title = "१२ पुंसुवनम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/12_puMsuvanam/14_10_nyagrodhasya_yA.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/12_puMsuvanam/14_10_nyagrodhasya_yA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+10. From a branch of a Nyagrodha tree, which points eastward or northward, he takes a shoot with two (fruits that look like) testicles. The putting (of wood) on the fire, &c., is performed as at the Sīmantonnayana (Sūtra 2).
+</details>
+<details><summary>हरदत्तः</summary>
 
 **न्यग्रोधस्य** वृक्षस्य **या प्राची शाखोदीची वा** तस्याः **शुङ्गाम्** अग्राङ्कुरं **सवृषणां** फलं वृषणमिति व्यपदिश्यते सादृश्यादेव ।
 तद्वतीं शुङ्गामाहृत्य सीमन्तवदग्नेरुपसमाधानादि परिषेचनान्तं कर्म प्रतिपद्यते ।
@@ -92,11 +101,8 @@ title = "१२ पुंसुवनम्"
 शुङ्गया सह परिधय एव, न शम्याः ।
 आज्यभागान्ते ऽन्वारब्धायां "धाता ददातु नो रयिम्" इति चतस्रो यस्त्वा हृदा कीरिणेति चतस्रः । जयादि प्रतिपद्यते ।
 परिषेचनान्ते ततो वक्ष्यमाणं कर्म ॥१०॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/12_puMsuvanam/14_10_nyagrodhasya_yA.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **सवृषणां** वृषणाकृतिकेन फलद्वयेन संयुक्तां, **शुङ्गां** अग्राङ्कुरम् ।
 व्यक्तमन्यत् ।
@@ -108,11 +114,12 @@ title = "१२ पुंसुवनम्"
 तथात्र परिधय एव, न तु शम्याः ; "शम्याः परिध्यर्थे" इति चौलगोदानग्रहणात् ।
 तथैव "सीमन्तवदग्नेरुपसमाधानादि" इत्यादिना परिषेचनान्तकल्पातिदेशस्य विवक्षितत्वादिहापि त एवाष्टौ प्रधानहोमाः ॥१०॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/12_puMsuvanam/14_10_nyagrodhasya_yA.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/12_puMsuvanam/14_10_nyagrodhasya_yA.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-10. From a branch of a Nyagrodha tree, which points eastward or northward, he takes a shoot with two (fruits that look like) testicles. The putting (of wood) on the fire, &c., is performed as at the Sīmantonnayana (Sūtra 2).
+न्यग्रोधस्य या प्राच्युदीची वा शाखा ततस्सवृषणां शुङ्गामाहृत्य सीमन्तवदग्नेरुपसमाधानादि ।
 
 </details>
 </div>
@@ -126,8 +133,17 @@ title = "१२ पुंसुवनम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/12_puMsuvanam/14_11_anavasnAtayA_kumAryA.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/12_puMsuvanam/14_11_anavasnAtayA_kumAryA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+11. He causes a girl who has not yet attained maturity to pound (the Nyagrodha shoot) on an upper mill-stone with another upper mill-stone, and to pour water on it; then he makes his wife lie down on her back to the west of the fire, facing the east, and inserts (the pounded substance) with his thumb into her right nostril, with the next Yajus (II, 11, 13).
+</details>
+<details><summary>हरदत्त-प्रस्तावः</summary>
+
+अथ समाप्ते तन्त्रशेषे कर्तव्यमाह—
+</details>
+<details><summary>हरदत्तः</summary>
 
 यस्याः प्रादुर्भूतं रजः सा अवस्नाता ।
 तद्विपरीता **अनवस्नाता** ।
@@ -138,21 +154,19 @@ title = "१२ पुंसुवनम्"
 तत्र शुङ्गां पेषयित्वा वस्त्रेण परिप्लाव्य अपरेणाग्निं **प्राचीं** प्राङ्मुखीं **उत्तानां** ऊर्ध्वमुखीं, निपात्य शाययित्वा **उत्तरेण यजुषा** "पुंसुवनमसी"त्यनेन तं रसं अङ्गुष्ठेन तस्या नासिकाच्छिद्रे दक्षिणे **अपिनयति** अपिगमयति ।
 प्राङ्मुख एव ।
 (पिधाय नयनं स्वयं च प्राङ्मुखः) ॥११॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/12_puMsuvanam/14_11_anavasnAtayA_kumAryA.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 स्नाननिमित्तस्य रजसोऽनुत्पन्नत्वात् या न स्नाता तया **अनवस्नातया** कन्यया दृषदर्थापन्ने **दुषत्पुत्रे** शुङ्गां निधाप्य **दृषत्पुत्रान्तरेण** पेषयित्वा तद्रसं वस्त्रेण **प्लावयित्वा** ततो जायामपरेणाग्निं **प्राचीं** प्राक्छिरसं **उत्तानाम्** ऊर्ध्वमूखीं, **निपात्य** शाययित्वा ।
 "पुंसुवनमसि" इति यजुषा **दक्षिण नासिकाछिद्रे अङ्गुष्ठेन** करणभूतेन तद्रसम् **अपिनयति** गर्भं प्रापयति ।
 सा रसं न निष्ठीवेदित्यर्थः ॥११॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/12_puMsuvanam/14_11_anavasnAtayA_kumAryA.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/12_puMsuvanam/14_11_anavasnAtayA_kumAryA.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-11. He causes a girl who has not yet attained maturity to pound (the Nyagrodha shoot) on an upper mill-stone with another upper mill-stone, and to pour water on it; then he makes his wife lie down on her back to the west of the fire, facing the east, and inserts (the pounded substance) with his thumb into her right nostril, with the next Yajus (II, 11, 13).
+अनवस्नातया कुमार्या दृषत्पुत्रे दृषत्पुत्रेण पेषयित्वा परिप्लाव्यापेरणाग्निं प्राचीमुत्तानां निपात्योत्तरेण यजुषाऽङ्गुष्ठेन दक्षिणे नासिकाच्छिद्रेऽपि नयति ।
 
 </details>
 </div>
@@ -166,8 +180,13 @@ title = "१२ पुंसुवनम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/12_puMsuvanam/14_12_pumA.Nsa~n_janayati.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/12_puMsuvanam/14_12_pumA.Nsa~n_janayati.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+12. Then she will give birth to a son.
+</details>
+<details><summary>हरदत्तः</summary>
 
 एवमनेन कर्मणा संस्कृता स्त्री **पुमासं जनयति ।**
 
@@ -185,11 +204,8 @@ title = "१२ पुंसुवनम्"
 
 प्रथम-ग्रहणं च नानुवर्तते, पुनर्-गर्भ-ग्रहणात् ।
 पुंसवनस्य तु पश्चाद् उपदेशो यथा चतुर्थे मासि तत्क्रियते तस्य पश्चात् प्रयोगार्थ इति ॥१२॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/12_puMsuvanam/14_12_pumA.Nsa~n_janayati.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 कर्मणानेन संस्कृता अन्तर्वत्नी **पुमांसं जनयति** इत्य् अर्थवादः - नित्यत्वात् पुंसुवनस्य ।
 
@@ -202,11 +218,12 @@ title = "१२ पुंसुवनम्"
 
 अन्ये तु– पुमांसं जनयतीत्य् एतद्-वचनं गर्भे गर्भेऽस्य कर्तव्यता-परम् इति ॥१२॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/12_puMsuvanam/14_12_pumA.Nsa~n_janayati.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/12_puMsuvanam/14_12_pumA.Nsa~n_janayati.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-12. Then she will give birth to a son.
+पुमाँसं जनयति ।
 
 </details>
 </div>
@@ -220,23 +237,26 @@ title = "१२ पुंसुवनम्"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/12_puMsuvanam/14_13_xipra.N_suvanam.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/12_puMsuvanam/14_13_xipra.N_suvanam.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+13. Here follows the ceremony to secure a quick deliverance.
+</details>
+<details><summary>हरदत्तः</summary>
 
 येन कर्मणा क्षिप्रं सूयते तत् **क्षिप्रंसुवनं** नाम कर्मोच्यते ॥१३॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/12_puMsuvanam/14_13_xipra.N_suvanam.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 येन **क्षिप्रं** शीघ्रं सूतेऽन्तर्वत्नी न चिरं कालं पीड्यते तत् **क्षिप्रंसुवनं** नाम इति कर्मोपदिश्यते ॥१३॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/12_puMsuvanam/14_13_xipra.N_suvanam.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/12_puMsuvanam/14_13_xipra.N_suvanam.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-13. Here follows the ceremony to secure a quick deliverance.
+क्षिप्रँ सुवनम् ।
 
 </details>
 </div>
@@ -249,7 +269,7 @@ title = "१२ पुंसुवनम्"
 अनाप्रीतेन शरावेणानुस्रोतसम् उदकम् आहृत्य, पत्तस् +++(=पादयोः)+++ तूर्यन्तीं +++(=ओषधिविशेषं)+++ निधाय, मूर्धञ् +शोष्यन्तीम् उत्तरेण यजुषा+++(आभिष्ट्वाहं दशभिरभिमृशामि)+++ ऽऽभिमृश्य+, एताभिर् अद्भिरुत्तराभिर्+++(यथैव सोमः पवते)+++ अवोक्षेत् ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/15_AbhiShTvAhan_dashabhirabhimRshAmi.md">
-<details open=""><summary><h5>१५ आभिष्ट्वाहन् दशभिरभिमृशामि ...{Loading}...</h5></summary>
+<details open><summary><h5>१५ आभिष्ट्वाहन् दशभिरभिमृशामि ...{Loading}...</h5></summary>
 
 
 +++(अङ्गुलीभिर्)+++ आ॒भिष् ट्वा॒ ऽहं द॒शभि॑र् अ॒भिमृ॑शामि॒ - दश॒मास्या॑य॒ सूत॑वे ।+++(र४)+++  
@@ -257,7 +277,7 @@ title = "१२ पुंसुवनम्"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/16_yathaiva_somaH.md">
-<details open=""><summary><h5>१६ यथैव सोमः ...{Loading}...</h5></summary>
+<details open><summary><h5>१६ यथैव सोमः ...{Loading}...</h5></summary>
 
 ###### मन्त्रः
 
@@ -273,7 +293,7 @@ title = "१२ पुंसुवनम्"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/17_dasha_mAsAnChashayAno.md">
-<details open=""><summary><h5>१७ दश मासाञ्छशयानो ...{Loading}...</h5></summary>
+<details open><summary><h5>१७ दश मासाञ्छशयानो ...{Loading}...</h5></summary>
 
 
 दश॒ मासा॒ञ् छश॑यानो  
@@ -284,7 +304,7 @@ title = "१२ पुंसुवनम्"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/18_AyamanIryamayata_garbhamApo.md">
-<details open=""><summary><h5>१८ आयमनीर्यमयत गर्भमापो ...{Loading}...</h5></summary>
+<details open><summary><h5>१८ आयमनीर्यमयत गर्भमापो ...{Loading}...</h5></summary>
 
 
 आ॒यम॑नीर् यमयत॒ गर्भ॒म्  
@@ -296,8 +316,13 @@ title = "१२ पुंसुवनम्"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/12_puMsuvanam/14_14_anAprItena.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/12_puMsuvanam/14_14_anAprItena.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+14. With a shallow cup that has not been used before, he draws water in the direction of the river's current; at his wife s feet he lays down a Tūryantī plant; he should then touch his wife, who is soon to be delivered, on the head, with the next Yajus (II, 11, 14), and should sprinkle her with the water, with the next (three) verses (II, 11, 15-17).
+</details>
+<details><summary>हरदत्तः</summary>
 
 **अनाप्रीतेना**स्पृष्टोदकेनानु**स्रोतसं** उदकस्य प्रस्रवतो न प्रतीपम् ।
 **पत्तः** पादयोरधस्तात् यस्याः श्वेतोपमानि पत्राणि पीतोपमानि पुष्पाणि या च मध्याह्ने पुष्यति सा तूर्यन्ती वनेषु जायते ।
@@ -308,11 +333,8 @@ title = "१२ पुंसुवनम्"
 अथ **तामुत्तरेण यजुषा** "आभिष्ट्वाहं दशभिरभिमृशामि" इत्यनेनाभिमृशति ।
 दशभिरिति लिङ्गादुभाभ्यां पाणिभ्यामभिमर्शनम् अनुलोमं मुखादारभ्य तत एताभिराहृताभिरेवाद्भिस्तामवोक्षेत् ।
 उत्तराभिस्तिसृभिः ऋग्भिः "यथैव सोमः पर्वत" इत्येताभिः प्रतिमन्त्रमवोक्षणम् ॥१४॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/12_puMsuvanam/14_14_anAprItena.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **अनाप्रीतेन** अनुदकलिप्तेन अस्पृष्टोदकेनेत्यर्थः ।
 तथाभूतेन **शरावेण ।**
@@ -338,11 +360,12 @@ title = "१२ पुंसुवनम्"
 न च तथा दृश्यते ।
 तस्माद्वरं पूर्वोक्तमेव व्याख्यानमिति ॥१४॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/12_puMsuvanam/14_14_anAprItena.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/12_puMsuvanam/14_14_anAprItena.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-14. With a shallow cup that has not been used before, he draws water in the direction of the river's current; at his wife s feet he lays down a Tūryantī plant; he should then touch his wife, who is soon to be delivered, on the head, with the next Yajus (II, 11, 14), and should sprinkle her with the water, with the next (three) verses (II, 11, 15-17).
+अनाप्रीतेन शरावेणानुस्रोतसमुदकमाहृत्य पत्तस्तूर्यन्तीं निधाय मूर्धञ्छोष्यन्तीमुत्तरेण यजुषाऽभिमृश्यैताभिरद्भिरुत्तराभिरवोक्षेत् ।
 
 </details>
 </div>
@@ -355,7 +378,7 @@ title = "१२ पुंसुवनम्"
 यदि जरायु न पतेदेवंविहिताभिरेवाद्भिरुत्तराभ्यामवोक्षेत् ।
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/19_tilade-vapadyasva_na.md">
-<details open=""><summary><h5>१९ तिलदेऽवपद्यस्व न ...{Loading}...</h5></summary>
+<details open><summary><h5>१९ तिलदेऽवपद्यस्व न ...{Loading}...</h5></summary>
 
 
 तिल॒दे +++(जरायो!)+++ ऽव॑पद्यस्व॒+++(=अवपत)+++, न मा॒ꣳ॒सम् अ॑सि॒, नोदल॑+++(र)+++म् ।+++(र४)+++  
@@ -363,7 +386,7 @@ title = "१२ पुंसुवनम्"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/20_sthavitryavapadyasva_na.md">
-<details open=""><summary><h5>२० स्थवित्र्यवपद्यस्व न ...{Loading}...</h5></summary>
+<details open><summary><h5>२० स्थवित्र्यवपद्यस्व न ...{Loading}...</h5></summary>
 
 
 
@@ -374,18 +397,20 @@ title = "१२ पुंसुवनम्"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="हरदत्तः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/haradattaH/12_puMsuvanam/14_15_yadi_jarAyu.md">
-<details><summary><h4>हरदत्तः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/12_puMsuvanam/14_15_yadi_jarAyu.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Oldenberg</summary>
+
+15. Yadi jarāyu na pated evaṃvihitābhir evādbhir uttarābhyām (II, 11, 18. 19) avokṣet.
+</details>
+<details><summary>हरदत्तः</summary>
 
 **जरायु** गर्भावेष्ठनं,** तद् **यदि न पतेत्**, तत उत्तरो विधिः कर्तव्यः ।
 कः पुनरसौ? क्षिप्रंसुवने यो विधिश्चोदितः "अनाप्रीतेन शरावेणे"त्यादि ( **एवं विहिताभिरद्भिः उत्तराभ्यां** मन्त्राभ्यां "तिलदेव पद्यस्व, निरै तु पृश्नि शेवलम्" इत्येताभ्यां प्रतिमन्त्रम् **अवोक्षेत्** ।
 एते च कर्मणी स्वभार्याविषयौ ) यक्ष्मगृहीतामन्यां वेति कर्मान्तरे यत्नकरणात् ।
 अन्ये पुनरविशेषेणेच्छन्ति ॥१५॥
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshanaH/12_puMsuvanam/14_15_yadi_jarAyu.md">
-<details><summary><h4>सुदर्शनः ...{Loading}...</h4></summary>
+<details><summary>सुदर्शनः</summary>
 
 **यदि** प्रसूतायास्तस्या **जरायु** गर्भप्रावरणं **न पतेत्** तदा "अनाप्रीतेन शरावेण" इत्यादिविधिनाऽहृताभिर् **अद्भिः** "ऐतु गर्भो अक्षितः"
 इत्येताभ्यामृग्भ्यां ताम् **अवोक्षेत्** ।
@@ -395,11 +420,12 @@ title = "१२ पुंसुवनम्"
 
 इति श्रीसुदर्शनाचार्यविरचिते गृह्यतात्पर्यदर्शने चतुर्दशः खण्डः समाप्तः ॥
 </details>
+</details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="Oldenberg" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/oldenberg/12_puMsuvanam/14_15_yadi_jarAyu.md">
-<details><summary><h4>Oldenberg ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/12_puMsuvanam/14_15_yadi_jarAyu.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-15. Yadi jarāyu na pated evaṃvihitābhir evādbhir uttarābhyām (II, 11, 18. 19) avokṣet.
+यदि जरायु न पतेदेवंविहिताभिरेवाद्भिरुत्तराभ्यामवोक्षेत् ।
 
 </details>
 </div>
