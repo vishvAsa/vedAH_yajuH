@@ -8,12 +8,20 @@ title: १३ स्रुग्-व्यूहनादिः
 स्रुचौ व्यूहति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-वाज॑स्य+++(=अन्नस्य)+++ मा प्रस॒वेन᳚+++(=योनिना)++++उद्ग्रा॒भेण+++(=ग्रहेण [जुह्वा])++++उद॑ग्रभीत् ।  
-अथा॑ स॒पत्ना॒ꣳ॒ इन्द्रो॑ मे निग्रा॒भेणाध॑राꣳ अकः+++(=करोतु)+++ ॥
+वाज॑स्य+++(=अन्नस्य)+++ मा प्रस॒वेन᳚+++(=योनिना)++++उद्ग्रा॒भेण+++(=ग्रहेण [जुह्वा])+++ +उद॑ग्रभीत् ।  
+अथा॑ स॒पत्ना॒ꣳ॒ इन्द्रो॑ मे  
+निग्रा॒भेणाध॑राꣳ अकः+++(=करोतु)+++ ॥
 </details>
 
+<details><summary>Keith</summary>
+
+With the impulse of strength,  
+With elevation he hath lifted me up;  
+Then Indra hath made my enemies  
+Humble by depression.
+</details>
 
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -21,13 +29,23 @@ title: १३ स्रुग्-व्यूहनादिः
 एवं जुहूपभृतोः उद्ग्रहणनिग्रहणे कृत्वा प्राचीं जुहूं व्यूहति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-+++(जुहूः)+++ उ॒द्ग्रा॒भञ्च॑ +++(उपभृत्)+++ निग्रा॒भञ्च॒ ब्रह्म॑+++(=परिवृढम्)+++ दे॒वा अ॑वीवृधन्+++(=वर्धयन्तु)+++ ।  
-अथा॑ स॒पत्ना॑निन्द्रा॒ग्नी मे॑ विषू॒चीना॒न्+++(=विष्वग्गतान्)+++ व्य॑स्यताम् ॥
++++(जुहूः)+++ उ॒द्ग्रा॒भञ् च॑ +++(उपभृत्)+++ निग्रा॒भञ् च॒ ब्रह्म॑+++(=परिवृढम्)+++ दे॒वा अ॑वीवृधन्+++(=वर्धयन्तु)+++ ।  
+अथा॑ स॒पत्ना॑न् इन्द्रा॒ग्नी  
+मे॑ विषू॒चीना॒न्+++(=विष्वग्-गतान्)+++ व्य॑स्यताम् ॥
 
 +++( 'अथ स्रुचावनुष्टुग्भ्यां वाजवतीभ्याम्' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणम् ॥)+++
 </details>
+
+<details><summary>Keith</summary>
+
+The gods have increased my prayer.  
+What is elevation and depression;  
+Then do ye, O Indra and Agni,  
+Scatter my foes on every side.
+</details>
+
 
 ____
 
@@ -43,19 +61,17 @@ ____
 आ॒दि॒त्येभ्य॑स्त्वा +++(अनज्मि)+++।  
 </details>
 
+<details><summary>Keith</summary>
+
+To the Vasus thee, to the Rudras thee, to the Adityas thee!
+</details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-स्रुक्षु प्रस्तरमनक्ति।
-</details>
-
-
-
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-तत्र जुह्वामग्राण्यनक्ति।
+स्रुक्षु प्रस्तरम् अनक्ति।  
+तत्र जुह्वाम् अग्राण्य् अनक्ति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,6 +79,10 @@ ____
 अ॒क्तꣳ +++(प्रस्तरं)+++ रिहा॑णा+++(=लिहाना)+++  
 </details>
 
+<details><summary>Keith</summary>
+
+Licking the anointed lot the birds go asunder.
+</details>
 
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -72,14 +92,18 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒यन्तु॒+++(=जायन्तां [पादादित्वान्न निहन्यते स्वरः])+++ वयः॑+++(=प्रजनिष्णवः [आदित्यरश्मयः])+++ ।  
+वि॒यन्तु॒+++([पादादित्वान्न निहन्यते स्वरः])+++ वयः॑+++(=पक्षिणः [आदित्य-रश्मयः])+++ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+let the birds go asunder.
+</details>
 
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-ध्रुवायां मूलमनक्ति
+ध्रुवायां मूलम् अनक्ति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -87,6 +111,10 @@ ____
 प्र॒जाय्ँ योनि॒म् मा निर्मृ॑ख्ष॒म्+++(=विनीनशं)+++ ॥  
 </details>
 
+<details><summary>Keith</summary>
+
+May I not brush offspring and the organ.
+</details>
 
 ____
 

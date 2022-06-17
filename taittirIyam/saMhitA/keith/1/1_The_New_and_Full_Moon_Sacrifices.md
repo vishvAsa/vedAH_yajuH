@@ -3,58 +3,8 @@ title = "1 The New and Full Moon Sacrifices"
 
 +++
 
-## 11
-
-## 12
-
-### a
-Thou art the world, be extended.
-### b
-O Agni, sacrificer, this reverence.
-### c
-O juhu, come hither, Agni summons thee for the sacrifice to the gods.
-### d
-O upabhrt, come hither, the god Savitr summons thee for the sacrifice  
-to the gods.
-### e
-O Agni and Visnu, let me not step down upon you.
-### f
-Be ye parted, consume me not.
-### g
-Make ye a place for me, ye place-makers.
-### h
-Thou art the abode of Visnu.
-### i
-Hence Indra wrought mighty deeds.'
-### k
-Great, grasping the sky, imperishable.  
-1 The sacrifice of the lord of the sacrifice is undisturbed.
-### m
-Offered to Indra, hail!
-### n
-Great light.
-### o
-Guard me, O Agni, from misfortune, place me in good fortune.
-### p
-Thou art the head of Makha, be light united with light.
-
 ## 13
-### a
-With the impulse of strength,  
-With elevation he hath lifted me up;  
-Then Indra hath made my enemies  
-Humble by depression.
-### b
-The gods have increased my prayer.  
-What is elevation and depression;  
-Then do ye, O Indra and Agni,  
-Scatter my foes on every side.
-### c
-To the Vasus thee, to the Rudras thee, to the Adityas thee!
-### d
-Licking the anointed lot the birds go asunder.
-### e
-May I not brush offispring and the organ.
+
 ### f
 Swell, ye waters and plants.
 ### g
