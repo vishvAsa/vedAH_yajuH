@@ -232,6 +232,13 @@ ____
 आ॒सद्या॒स्मिन् ब॒र्हिषि॑ मादयध्वम् ॥  
 </details>
 
+<details><summary>Keith</summary>
+
+Ye are sharers in the remains (of the oblation), well nourished, mighty  
+Ye gods that are on the prastara and sit on the strew [2].  
+Accepting this supplication, do ye all,  
+Seated on this strew enjoy yourselves.
+</details>
 
 
 ____
@@ -248,23 +255,42 @@ ____
 +++(याग-)+++धु॒रि धु॒र्यौ॑ +++(पत्नीयजमानौ)+++ पातम् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+I set thee in the seat of Agni whose abode is secure.  
+For goodwill, O ye two with goodwill, place me in goodwill.  
+Guard ye the yoke-horses at the yoke.
+</details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-अन्वाहार्यपचने फलीकरणहोमं जुहोति
+अन्वाहार्य-पचने फली-करण-होमं जुहोति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ ऽदब्धाऽऽयो ऽशीततनो पा॒हि मा॒ऽद्य दि॒वः।
+अग्ने॑ ऽदब्धा-ऽऽयो ऽशीत-तनो पा॒हि मा॒ऽद्य दि॒वः।
 पा॒हि प्रसि॑त्यै+++(=कर्मनाशात्)+++ ।  
 पा॒हि दुरि॑ष्ट्यै ।   
 पा॒हि दु॑र्-अद्म॒न्यै+++(=भुक्त्यै)+++ ।  
 पा॒हि दुश्च॑रितात् ।  
 अवि॑षन् नᳶ पि॒तुङ्+++(=अन्नं)+++ कृ॑णु । +++(गायत्री－एकपदा)+++
-सु॒षदा॒ +++(हेतुना)+++ योनि॒ꣵ॒ +++(तुभ्यम् इदं)+++ स्वाहा᳚ +++(=इति सरस्वत्यपि स्वयमेवाह (नि. 8.20))+++ ।
+सु॒-षदा॒ +++(हेतुना)+++ योनि॒ꣵ॒ +++(तुभ्यम् इदं)+++ स्वाहा᳚ +++(=इति सरस्वत्यपि स्वयमेवाह (नि. 8.20))+++ ।
+</details>
+
+
+<details><summary>Keith</summary>
+
+O Agni, with life unhurt, with not-cool body, guard me this day from the sky,   
+guard from bondage,  
+guard from error in sacrifice,  
+guard from evil food,  
+guard from ill deed.
+
+Make our food free from poison,  
+the lap pleasant to sit in; hail!
 </details>
 
 
@@ -277,12 +303,19 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवा॑ गातुविदो+++(=गतिज्ञाः)+++ गा॒तुव्ँ+++(=मार्गं)+++ वि॒त्वा+++(=लब्ध्वा)+++ गा॒तुमि॑त +++(=प्रतिनिवर्तध्वम्)+++।
+देवा॑ गातुविदो+++(=गतिज्ञाः)+++ गा॒तुव्ँ+++(=मार्गं)+++ वि॒त्वा+++(=लब्ध्वा)+++ गा॒तुम् इ॑त +++(=गच्छत)+++।
 मन॑सस्पत इ॒मन् नो॑ देव दे॒वेषु॑ य॒ज्ञं [धाः] स्वाहा॑ ।  
 +++(य॒ज्ञं)+++ वा॒चि [धाः] स्वाहा᳚  ।  
 वाते॑ धाः ॥ [24]  
 </details>
 
+<details><summary>Keith</summary>
+
+O ye gods that know the way, knowing the way, go ye the way.  
+O lord of mind, this sacrifice for us place among the gods, O god, hail!  
+in speech, hail!  
+in the wind, hail!
+</details>
 
 
 इति त्रयोदशोनुवाकः ।  

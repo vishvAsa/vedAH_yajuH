@@ -2,30 +2,6 @@
 title = "1 The New and Full Moon Sacrifices"
 
 +++
-
-## 13
-### m
-### n
-### o
-Ye are sharers in the remains (of the oblation), well nourished, mighty  
-Ye gods that are on the prastara and sit on the strew [2].  
-Accepting this supplication, do ye all,  
-Seated on this strew enjoy yourselves.
-### p
-I set thee in the seat of Agni whose abode is secure.
-### q
-For goodwill, O ye two with goodwill, place me in goodwill.
-### r
-Guard ye the yoke-horses at the yoke.
-### s
-O Agni, with life unhurt, with not-cool body, guard me this day from the sky, guard from bondage, guard from error in sacrifice, guard from evil food, guard from ill deed.
-### t
-Make our food free from poison, the lap pleasant to sit in; hail!
-### u
-O ye gods that know the way, knowing the way, go ye the way.
-### v
-O lord of mind, this sacrifice for us place among the gods, O god,  
-hail! in speech, hail! in the wind, hail!
 ## 14
 ### a
 Ye twain shall be summoned, O Indra and Agni.  
