@@ -4,46 +4,7 @@ title = "1 The New and Full Moon Sacrifices"
 +++
 
 ## 11
-### a
-### b
-Thou art the altar, to the strew thee, hail!
-### c
-Thou art the strew,' to the ladles thee, hail
-### d
-To the sky thee, to the atmosphere thee, to the earth thee!
-### e
-Be thou refreshment to the fathers, strength to those that sit on  
-the strew.
-### f
-With strength go ye to the earth.
-### g
-Thou art the hair-knot of Visnu.
-### h
-Soft as wool I strew thee, offering a good seat to the gods.
-### i
-Thou art the Gandharva, Viśvavasu (possessing all wealth), the fence of the sacrificer from every attacker, praised and to be praised.
-### k
-Thou art the right arm of Indra, the fence of the sacrificer, praised and to be praised.
-### l
-May Mitra and Varuna lay thee around in the north with firm law, thou art the fence of the sacrificer, praised and to be praised.
-### m
-May the sun in the east protect thee from all evil.
-### n
-May we kindle thee, O wise one,  
-That dost invite to the sacrifice, the radiant one,  
-O Agni, thee that art mighty at the sacrifice.
-### o
-Ye two are the props of the people.
-### p
-Sit on the seat of the Vasus, Rudras, Adityas.
-### q
-Thou art named juhu, upabhrt, dhruva, loving the ghee, sit on thy dear seat with thy dear name.
-### r
-These have sat down in the world of good action.
-### s
-Protect them, O Visnu.
-### t
-Protect the sacrifice, protect the lord of the sacrifice, protect me that conduct the sacrifice.
+
 ## 12
 
 ### a

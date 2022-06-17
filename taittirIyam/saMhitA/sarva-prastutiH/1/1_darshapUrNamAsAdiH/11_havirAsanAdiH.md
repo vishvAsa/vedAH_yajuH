@@ -36,6 +36,10 @@ ____
 ब॒र्हिषे᳚ त्वा॒ +++(प्रोक्षामि +इत्याह)+++ स्वाहा᳚ +++(=सरस्वती)+++ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the altar, to the strew thee, hail!
+</details>
 
 
 ____
@@ -47,9 +51,14 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिर॑सि ।  
+ब॒र्हिर् अ॑सि ।  
 स्रु॒ग्भ्यस्त्वा॒ +++(प्रोक्षामि +इत्याह)+++ स्वाहा᳚ +++(=सरस्वती)+++ ।  
 +++('प्रजा वै बर्हिः । यजमानस्स्रुचः' (तै.ब्रा. 3.3.6) इत्यादि ब्राह्मणम् ॥)+++
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art the strew, to the ladles thee, hail
 </details>
 
 
@@ -59,7 +68,6 @@ ____
 
 अन्तर्वेद्यूर्ध्वाग्रं बर्हिस्स्थापयित्वा प्रोक्षति
 </details>
-
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/11_havirAsanAdiH/dive_tvA.md">
@@ -103,9 +111,15 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व॒धा+++(=अन्नं)+++ +++(मासनाम-)+++पि॒तृभ्यः॒ ऊर्ग्+++(=बलप्राणनयोरुद्दीपकं)+++ भ॑व बर्हि॒षद्भ्यः॑ ।  
++++(प्रोक्षणीशेष!)+++ स्व॒धा+++(=अन्नं)+++ +++(मासनाम-)+++पि॒तृभ्यः॒ ऊर्ग्+++(=बलप्राणनयोरुद्दीपकं)+++ भ॑व बर्हि॒षद्भ्यः॑ ।  
 +++('मासा वै पितरो बर्हिषदः' (तै.ब्रा. 3.3.6) इत्यादिब्राह्मणप्रसिद्धाः।)+++  
 +++(हे आपः!)+++ ऊ॒र्जा+++(=रसेन सह)+++ पृ॑थि॒वीङ् ग॑च्छत ।
+</details>
+
+<details><summary>Keith</summary>
+
+Be thou refreshment to the fathers, strength to those that sit on the strew.  
+With strength go ye to the earth.
 </details>
 
 
@@ -118,23 +132,31 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒स् +++(यज्ञस्य)+++ स्तूपो॑ ऽसि।  
++++(प्रस्तर!)+++ विष्णो॒स् +++(यज्ञस्य)+++ स्तूपो॑ ऽसि।  
 +++('यज्ञो वै विष्णुः' (तै.ब्रा. 3.3.6) इति ब्राह्मणम् ।)+++
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the hair-knot of Visnu.
+</details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-बर्हिस्स्तृणाति
+बर्हिस् स्तृणाति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्णा᳚-म्रदसन्+++(=मृदुं)+++ त्वा स्तृणामि स्व्+आ॒स॒-स्थन् दे॒वेभ्यः॑।
++++(बर्हिः!)+++ ऊर्णा᳚-म्रदसन्+++(=मृदुं)+++ त्वा स्तृणामि स्व्+आ॒स॒-स्थन् दे॒वेभ्यः॑।
 </details>
 
+<details><summary>Keith</summary>
+
+Soft as wool I strew thee, offering a good seat to the gods.
+</details>
 
 
 ____
@@ -146,9 +168,15 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गन्ध॒र्वो॑ऽसि वि॒श्वाव॑सुर्, विश्व॑स्मा॒द् ईष॑तो+++(=ईषमानात् = हिंसकाद्)+++ यज॑मानस्य परि॒धिर्, इ॒ड+++(=इड्-वान् = अन्नवान्)+++ ई॑डि॒तः+++(=स्तुतः)+++। 
++++(मध्यम-परिधे!)+++ गन्ध॒र्वो॑ऽसि वि॒श्वाव॑सुर्, विश्व॑स्मा॒द् ईष॑तो+++(=ईषमानात् = हिंसकाद्)+++ यज॑मानस्य परि॒धिर्, इ॒ड+++(=इड्-वान् = अन्नवान्)+++ ई॑डि॒तः+++(=स्तुतः)+++। 
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the Gandharva, Viśvavasu (possessing all wealth),  
+the fence of the sacrificer from every attacker,  
+praised and to be praised.
+</details>
 
 
 ____
@@ -160,9 +188,13 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य बा॒हुर॑सि दख्षि॑णः, यज॑मानस्य परि॒धिः, इ॒ड+++(=इड्-वान् = अन्नवान्)+++  ई॑डि॒तः ।  
++++(दक्षिण-परिधे!)+++ इन्द्र॑स्य बा॒हुर॑सि दख्षि॑णः, यज॑मानस्य परि॒धिः, इ॒ड+++(=इड्-वान् = अन्नवान्)+++  ई॑डि॒तः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the right arm of Indra,  the fence of the sacrificer, praised and to be praised.
+</details>
 
 ____
 
@@ -173,8 +205,14 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे कुण्ड!)+++ मि॒त्रावरु॑णौ त्वोत्तर॒तᳶ परि॑धत्ताम्।  
-ध्रु॒वेण॒ धर्म॑णा॒ यज॑मानस्य परि॒धिर्, इ॒ड+++(=इड्-वान् = अन्नवान्)+++  ई॑डि॒तः ।  
++++(हे कुण्ड!)+++ मि॒त्रावरु॑णौ त्वोत्तर॒तᳶ परि॑धत्तां ध्रु॒वेण॒ धर्म॑णा।  
+यज॑मानस्य +++(उत्तर-)+++परि॒धिर्, इ॒ड+++(=इड्-वान् = अन्नवान्)+++  ई॑डि॒तः ।  
+</details>
+
+<details><summary>Keith</summary>
+
+May Mitra and Varuna lay thee around in the north with firm law,  
+thou art the fence of the sacrificer, praised and to be praised.
 </details>
 
 
@@ -187,25 +225,34 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे कुण्ड!)+++ सूर्य॑स्त्वा पु॒रस्ता᳚त् पातु कस्या᳚श्चिद् अ॒भिश॑स्त्याः ।
++++(हे कुण्ड!)+++ सूर्य॑स् त्वा पु॒रस्ता᳚त् पातु कस्या᳚श्चिद् अ॒भिश॑स्त्याः ।
 </details>
 
+<details><summary>Keith</summary>
 
+May the sun in the east protect thee from all evil.
+</details>
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-ऊर्ध्वे समिधावादधाति
+ऊर्ध्वे समिधाव् आदधाति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-वी॒ति+++(=इष्ट)+++हो᳚त्रन्+++(=स्तोत्रं)+++ त्वा कवे  
+वी॒ति+++(=इष्ट)+++हो᳚त्रन्+++(=ह्वानं)+++ त्वा कवे  
 द्यु॒मन्त॒ꣳ॒ समि॑धीम॒हि ।  
 +++(हे)+++ अग्ने॑! बृ॒हन्त॑म् अध्व॒रे ॥
 </details>
 
+<details><summary>Keith</summary>
+
+May we kindle thee, O wise one,    
+That dost invite to the sacrifice, the radiant one,    
+O Agni, thee that art mighty at the sacrifice.
+</details>
 
 ____
 
@@ -216,9 +263,13 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒शो य॒न्त्रे+++(=यमने)+++ स्थः॑।
++++(दर्भद्वय!)+++ वि॒शो य॒न्त्रे+++(=यमने)+++ स्थः॑।
 </details>
 
+<details><summary>Keith</summary>
+
+Ye two are the props of the people.
+</details>
 
 ____
 
@@ -229,9 +280,13 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वसू॑नाꣳ रु॒द्राणा॑मादि॒त्याना॒ꣳ॒ सद॑सि सीद ।
++++(प्रस्तर)+++ वसू॑नाꣳ रु॒द्राणा॑म् आदि॒त्याना॒ꣳ॒ सद॑सि सीद ।
 </details>
 
+<details><summary>Keith</summary>
+
+Sit on the seat of the Vasus, Rudras, Adityas.
+</details>
 
 ____
 
@@ -242,10 +297,14 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जु॒हूर॑सि ।  
+जु॒हूर् अ॑सि ।  
 [घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद] ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art named juhu
+</details>
 
 ____
 
@@ -256,10 +315,14 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒भृद॑सि ।   
+उ॒प॒भृद् अ॑सि ।   
 [घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद ] ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art named upabhrt
+</details>
 
 ____
 
@@ -273,6 +336,11 @@ ____
 ध्रु॒वाऽसि॑। घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art named dhruva.  
+Loving the ghee, sit on thy dear seat with thy dear name.
+</details>
 
 ____
 
@@ -283,13 +351,19 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ता अ॑सदन्थ् सुकृ॒तस्य॑ +++(यागस्य)+++ लो॒के ।  
+ए॒ता +++(स्रुचः)+++ अ॑सदन्थ् सुकृ॒तस्य॑ +++(यागस्य)+++ लो॒के ।  
 ता वि॑ष्णो पाहि ।  
 पा॒हि य॒ज्ञम् ।  
 पा॒हि य॒ज्ञप॑तिम् ।  
 पा॒हि माय्ँ य॑ज्ञ॒निय᳚म् ॥ [20]
 </details>
 
+<details><summary>Keith</summary>
+
+These have sat down in the world of good action.  
+Protect them, O Visnu.  
+Protect the sacrifice, protect the lord of the sacrifice, protect me that conduct the sacrifice.
+</details>
 
 
 इति एकादशोनुवाकः  ।
