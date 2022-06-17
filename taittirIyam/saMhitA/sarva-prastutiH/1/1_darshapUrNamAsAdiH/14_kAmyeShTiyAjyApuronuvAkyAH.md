@@ -129,8 +129,8 @@ ____
 
 प॒थस्प॑थ॒ᳶ+++(=मार्गस्य मार्गस्य)+++ परि॑पतिव्ँ+++(=परिपं)+++ वच॒स्या+++(सा)+++  
 कामे॑न कृ॒तो +++(जनः)+++ अ॒भ्या॑नड्+++(=अभिप्राप्नोति)+++ अ॒र्कम्+++(=स्तोतव्यम्)+++ ।  
-स नो॑ रासच् छु॒+++(=शोक)+++रुध॑श् च॒न्द्राग्रा॒ +++(=ओषधीः)+++,  
-धिय॑न्धियꣳ सीषधाति॒ प्र पू॒षा ॥   
+स नो॑ रासच् छु॒+++(=शोक)+++-रुध॑श् च॒न्द्राग्रा॒ +++(→ओषधीः)+++,  
+धिय॑न्-धियꣳ सीषधाति॒ प्र पू॒षा ॥   
 </details>
 
 <details><summary>Keith</summary>
@@ -153,11 +153,17 @@ May Pusan further our every prayer.
 
 ख्षेत्र॑स्य॒ पति॑ना व॒यꣳ  
 +++(बन्धुमित्रादि)+++हि॒तेने॑व जयामसि ।  
-गाम् अश्व॑म् पोषयि॒त्न्व् आ  
+गाम् अश्व॑म् पोषयि॒त्न्वा  
 स नः॑ [26]  मृ॒डा॒ती॒दृशे᳚ +++(ऽर्थे)+++॥    
 </details>
 
+<details><summary>Keith</summary>
 
+By the lord of the field  
+As by a friend may we win  
+What nourishes our kine and horses;  
+May he be [2] favourable to such as we are.
+</details>
 
 ____
 
@@ -168,12 +174,19 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-ख्षेत्र॑स्य पते॒ मधु॑मन्तम् ऊ॒र्मिन्+++(=अरणशीलं [गवादि])+++  
+ख्षेत्र॑स्य पते॒ मधु॑मन्तम् ऊ॒र्मिन्  
 धे॒नुर् इ॑व॒ पयो॑ अ॒स्मासु॑ धुख्ष्व ।   
-म॒धु॒श्चुत॑ङ्+++(=मधुरसिञ्चकं)+++ घृ॒तमि॑व॒ सुपू॑तम्  
+म॒धु॒श्चुत॑ङ्+++(=मधुरसिञ्चकं)+++ घृ॒तम् इ॑व॒ सुपू॑तम्  
 ऋ॒तस्य॑ +++(यज्ञसहितस्य)+++ न॒ᳶ पत॑यो मृडयन्तु ॥  
 </details>
 
+<details><summary>Keith</summary>
+
+O lord of the field, the honey-bearing wave,  
+As a cow milk, so for us milk;  
+May the lords of right graciously accord us  
+That which drops honey and is well purified like ghee.
+</details>
 
 
 ____
@@ -192,12 +205,14 @@ ____
 
 अग्ने॒ नय॑ सु॒पथा॑ रा॒ये अ॒स्मान्  
 विश्वा॑नि देव व॒युना॑नि+++(=ज्ञानानि)+++ वि॒द्वान् ।  
-यु॒यो॒ध्य्+++(=अपनय)++++अ॑स्मज्-जुहुरा॒णम् एनो॒  
+यु॒यो॒ध्य्+++(=अपनय)++++अ॑स्मज्-जुहुरा॒णम्+++(=कुटिलकारि)+++ एनो॒  
 भूयि॑ष्ठान् ते॒ नम॑उक्तिव्ँ विधेम ॥
 
 </details>
 </div>  
 
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/189/01_agne_naya.md">
+</div>  
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -205,14 +220,9 @@ ____
 याज्या
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/002/03_A_devAnAmapi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-+++(कर्ममार्गात् प्रच्युताः)+++ आ दे॒वाना॒मपि॒ पन्था॑म् अगन्म॒  
-यच् छ॒क्नवा॑म॒ तदनु॒ प्रवो॑ढुम् ।     
-अ॒ग्निर् वि॒द्वान्थ् स य॑जात्+++(=यजेत्)+++ [27] सेदु॒ होता॒  
-सो अ॑ध्व॒रान्थ्+++(=अदुष्टान्)+++ स ऋ॒तून्+++(=क्रतून्/ कालावयवान् [सूर्यरूपेण])+++ क॑ल्पयाति ॥  
-+++(देवाः खल्वग्निना हूयमानाः कर्मणो वैगुण्यमनादृत्य आगमिष्यन्तीति ।)+++   
-</details>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/002/03_A_devAnAmapi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ____
@@ -222,13 +232,9 @@ ____
 तत्रैव स्विष्टकृतः पुरोनुवाक्या
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/025/07_yadvAhiShThaM_tadagnaye.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-यद् +++(प्रीतेर्)+++ वाहि॑ष्ठ॒न्+++(=वाहयितृतमं)+++ तद् +++(स्तोत्रम्)+++  
-अ॒ग्नये॑ बृ॒हद् अ॑र्च+++(=बहुमन्यस्व)+++ विभा+++(=तेजो)+++वसो+++(=धन)+++ ।  
-महि॑षीव॒ त्वद्+++(=त्वत्तः)+++ र॒यिस् त्वद् वाजा॒ उदी॑रते ॥  
-</details>
-
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/025/07_yadvAhiShThaM_tadagnaye.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ____
@@ -251,6 +257,8 @@ ____
 
 </details>
 </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/189/02_agne_tvaM.md">
+</div>  
 
 ____
 ## अहिताग्नाव् अव्रत्यमिव चरिते
@@ -260,12 +268,9 @@ ____
 3'अग्नये व्रतपतये पुरोडाशमष्टाकपालं निर्वपेद्य आहिताग्निस्सन्नव्रत्यमिव चरेत्' (तै.सं. 2.2.2) इत्यस्य पुरोनुवाक्या
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/011/01_tvamagne_vratapA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-त्वम॑ग्ने व्रत॒पा अ॑सि  
-दे॒व आ मर्त्ये॒ष्वा ।  
-त्वय्ँ य॒ज्ञेष्वीड्यः॑ ॥  
-</details>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/011/01_tvamagne_vratapA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ____
@@ -275,13 +280,8 @@ ____
 याज्या
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/002/04_yadvo_vayaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-यद् वो॑ व॒यम् प्र॑मि॒नाम॑+++(=हिंसितवन्तः)+++ व्र॒तानि॑  
-वि॒दुषा᳚न् देवा॒ अवि॑दुष्टरासः+++(=अविद्वत्तराः)+++ ।  
-अ॒ग्निष् टद् विश्व॒मा पृ॑णाति+++(=पूरयति)+++ वि॒द्वान्  
-येभि॑र् दे॒वाꣳ+++(=देवहवींषि)+++ ऋ॒तुभि॑ᳵ क॒ल्पया॑ति +++(सूर्यरूपेण)+++॥ [28]    
-</details>
-
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/002/04_yadvo_vayaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
