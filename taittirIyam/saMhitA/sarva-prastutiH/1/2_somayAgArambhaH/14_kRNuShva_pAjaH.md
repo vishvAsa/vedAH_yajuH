@@ -17,8 +17,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 Put forth thy strength like a spreading net;  
@@ -42,8 +41,7 @@ Pierce the Raksases with thy keenest (darts).
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 Swiftly thy whirling flames descend;  
@@ -66,8 +64,7 @@ Unfettered, on all sides spread thy firebrands.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 Send forth thy spies, swiftest in thy motion;  
@@ -90,8 +87,7 @@ O Agni let no trouble from thee overwhelm us.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 Arise, O Agni; spread thyself out;  
@@ -114,8 +110,7 @@ Do thou consume utterly like dry stubble.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 Arise; drive from us (our foes);  
@@ -139,8 +134,7 @@ Crush our foes, kin or not kin.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 He knows thy [2] loving kindliness, O most youthful one,  
@@ -163,8 +157,7 @@ All happy days for him, glory, and wealth
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 Let him, O Agni, be fortunate and munificent,  
@@ -188,8 +181,7 @@ May all days be happy for him; be that the will.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 I praise thy loving kindness; loud sounding (thou singest) a reply;  
@@ -211,8 +203,7 @@ Maintain for us the lordly power as the days go by.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 Here let each serve thee readily,  
@@ -235,8 +226,7 @@ That dost surpass the glories of men.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 He who with good steeds and rich in gold  
@@ -259,8 +249,7 @@ Who duly offereth thee glad reception.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 The great I overcome [4] through kinship and my songs;  
@@ -284,8 +273,7 @@ O Hotr, most youthful, skilful, friend of the house.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 Sleepless, speedy, propitious,  
@@ -312,8 +300,7 @@ Protect us, O wise one.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 In Thy guardians, O Agni, who seeing,  
@@ -337,8 +324,7 @@ The foes that were fain to deceive could not [5] deceive.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 In unison with thee, aided by thee,  
@@ -361,8 +347,7 @@ Perform it forthwith, O fearless one.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 With this fuel, O Agni, will we serve thee;  
@@ -385,8 +370,7 @@ From the foe, the reviler, O rich in friends, from blame.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 I touch the steed that slayeth the Raksases;  
@@ -409,8 +393,7 @@ Guard us by day, [6] from harm and by night.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 With great radiance Agni shineth;  
@@ -433,8 +416,7 @@ He sharpeneth his horns to pierce the Raksas.
 
 </details>
 </div>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 Let the roarings of Agni rise to the heaven,  

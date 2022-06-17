@@ -20,9 +20,7 @@ short_title = "०४"
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 This is thy body, O pure one. This is thy splendour. With it be united.  
@@ -45,9 +43,7 @@ Win brightness.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the strong, grasped by mind, acceptable to Visnu.  
@@ -70,9 +66,7 @@ In the impulse of thee, of true impulse, may I win a support for my speech. Hail
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art pure,  
@@ -98,9 +92,7 @@ thou art the sacrifice for all the gods.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 I have mounted the eye of the sun.  
@@ -131,9 +123,7 @@ Blazing with the wise.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art thought,  
@@ -152,9 +142,7 @@ thou art Aditi, double-headed.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Be thou successful for us in going, successful in returning.
@@ -166,9 +154,7 @@ Be thou successful for us in going, successful in returning.
 मि॒त्रस् त्वा॑ प॒दि+++(=पादे)+++ ब॑ध्नातु ।  
 </details>
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 May Mitra bind thee by the foot.
@@ -180,9 +166,7 @@ May Mitra bind thee by the foot.
 पू॒षा ऽध्व॑नᳶ +++(भयहेतोः)+++ पातु ।  
 </details>
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 May Pusan guard the ways.
@@ -194,9 +178,7 @@ May Pusan guard the ways.
 इन्द्रा॒याध्य॑ख्षा॒यानु॑ त्वा मा॒ता म॑न्यताम्, अनु॑+++(मन्यताम्)+++ पि॒ता, अनु॒+++(मन्यताम्)+++ भ्राता॒ सग॑र्भ्यः, अनु॒ +++(मन्यतां)+++ सखा॒ सयू᳚थ्यः।  
 </details>
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 For Indra, the overseer!  
@@ -210,9 +192,7 @@ May thy mother approve thee, thy father, thy brother sprung of the same womb, th
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Go, goddess, to the god, to Soma for Indra's sake.
@@ -225,9 +205,7 @@ Go, goddess, to the god, to Soma for Indra's sake.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 May Rudra guide thee hither in the path of Mitra.
@@ -240,9 +218,7 @@ May Rudra guide thee hither in the path of Mitra.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Hail! Return with Soma as thy comrade, with wealth.

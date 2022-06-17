@@ -22,9 +22,7 @@ short_title = "१२ उत्तरवेदीसंस्कारः"
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou I art the abode of riches for me;  
@@ -49,9 +47,7 @@ protect me when afflicted.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
@@ -71,9 +67,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 come with the name of Ayus
@@ -93,9 +87,7 @@ come with the name of Ayus
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
@@ -117,9 +109,7 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second earth.  
@@ -142,9 +132,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second ea
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third earth.  
@@ -166,9 +154,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third ear
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art a lioness;  
@@ -190,9 +176,7 @@ thou art a buffalo.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Extend wide; let the lord of the sacrifice extend wide for thee.
@@ -212,9 +196,7 @@ Extend wide; let the lord of the sacrifice extend wide for thee.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art firm.
@@ -237,9 +219,7 @@ Thou art firm.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Be pure for the gods.
@@ -260,9 +240,7 @@ Be pure for the gods.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 be bright for the gods.
@@ -282,9 +260,7 @@ be bright for the gods.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 May the cry of Indra guard thee in front with the Vasus;
@@ -304,9 +280,7 @@ May the cry of Indra guard thee in front with the Vasus;
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 may the swift of mind guard thee on the right with the Pitrs;
@@ -326,9 +300,7 @@ may the swift of mind guard thee on the right with the Pitrs;
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 may the wise one guard thee behind with the Rudras;
@@ -348,9 +320,7 @@ may the wise one guard thee behind with the Rudras;
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 may Viçvakarman guard thee on the left with the Adityas.
@@ -371,9 +341,7 @@ may Viçvakarman guard thee on the left with the Adityas.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art a lioness, overcoming rivals; hail!
@@ -393,9 +361,7 @@ Thou art a lioness, overcoming rivals; hail!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art a lioness, bestowing fair offspring; hail!
@@ -415,9 +381,7 @@ Thou art a lioness, bestowing fair offspring; hail!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art a lioness, [2] bestowing increase of wealth; hail!
@@ -437,9 +401,7 @@ Thou art a lioness, [2] bestowing increase of wealth; hail!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art a lioness, winning (the favour of) the Adityas hail!
@@ -460,9 +422,7 @@ Thou art a lioness, winning (the favour of) the Adityas hail!
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art a lioness; bring the gods to the pious sacrificer; hail!
@@ -483,9 +443,7 @@ Thou art a lioness; bring the gods to the pious sacrificer; hail!
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 To beings thee!
@@ -509,9 +467,7 @@ _____
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou containest all life, strengthen the earth;  
@@ -533,9 +489,7 @@ thou restest inviolable, strengthen the heaven.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the ashes of Agni; thou art the rubble of Agni.

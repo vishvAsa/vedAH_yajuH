@@ -64,9 +64,7 @@ May it guide us safely according as we will.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 The gods, mind-born, mind-using,  
@@ -93,9 +91,7 @@ To them honour! to them hail!
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 O Agni, be thou wakeful;  
@@ -120,9 +116,7 @@ Grant to us to wake again.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou, O Agni, art the guardian of vows,  
@@ -149,9 +143,7 @@ _____
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 All the gods have surrounded me,  
@@ -176,9 +168,7 @@ The god Savitr the giver of brightness.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 O Soma, give so much, and bear more hither.  
@@ -202,9 +192,7 @@ Let me not be parted with life.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art gold;  
@@ -227,9 +215,7 @@ be for my enjoyment.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art raiment;  
@@ -251,9 +237,7 @@ be for my enjoyment.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art a cow;  
@@ -274,9 +258,7 @@ be for my enjoyment.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art a horse;  
@@ -296,9 +278,7 @@ _____
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art a goat; be for my enjoyment. 
@@ -317,9 +297,7 @@ _____
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art a ram; be for my enjoyment.
@@ -339,9 +317,7 @@ Thou art a ram; be for my enjoyment.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 To Vayu thee
@@ -361,9 +337,7 @@ To Vayu thee
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 to Varuna thee
@@ -383,9 +357,7 @@ to Varuna thee
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 to Nirrti thee
@@ -405,9 +377,7 @@ to Nirrti thee
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 to Rudra thee!
@@ -430,9 +400,7 @@ to Rudra thee!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 O divine waters, son of the waters, the stream  
@@ -449,9 +417,7 @@ That stream of yours may I not step upon.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Along an unbroken web of earth may I go.
@@ -478,9 +444,7 @@ Along an unbroken web of earth may I go.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 From good to better do thou advance.  
@@ -501,9 +465,7 @@ May Brhaspati be thy leader
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Then set him free, on the chosen spot of earth.
@@ -524,9 +486,7 @@ Then set him free, on the chosen spot of earth.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Drive afar the foes with all thy strength.
@@ -549,9 +509,7 @@ Drive afar the foes with all thy strength.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 We have come to the place on earth for sacrifice to the gods,  

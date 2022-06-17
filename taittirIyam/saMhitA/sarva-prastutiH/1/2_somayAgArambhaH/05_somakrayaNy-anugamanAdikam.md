@@ -25,8 +25,7 @@ short_title = "०५"
 च॒न्द्रा+++(=ह्लादनवती/ हिरण्यवती)+++ ऽसि॑ ।  
 +++(वसुरुद्रादित्याः सवनत्रयस्य देवताः । अदितिः प्रायणीयोदयनीययोः । वस्वादिमतो यज्ञस्य साधनत्वात् सोमक्रयण्यपि तद्वतीत्युच्यते ।)+++  
 </details>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 Thou art a Vasvi,  
@@ -51,8 +50,7 @@ thou art Candra.
 बृह॒स्पति॑स् त्वा सु॒म्ने+++(=सुखे)+++ र॑ण्वतु+++(=गमयतु)+++ ।  
 रु॒द्रो वसु॑भि॒र् आ चि॑केतु+++(=जानातु)+++ ।
 </details>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 May Brhaspati make thee rejoice in happiness.  
@@ -80,8 +78,7 @@ May Rudra with the Vasus be favourable to thee.
 +++('पृथिव्या ह्येष मूर्धा यद्देवयजनम्' इत्यादि ब्राह्मणम् ।)+++  
 स्वाहा᳚+++(=स्वाहुतं भव/ इत्थं सरस्वत्याह)+++ ।
 </details>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 I pour thee on the head of the earth,  
@@ -151,8 +148,7 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 
 अ॒स्मे+++(=अस्मासु)+++ रायः॑ ।  
 </details>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 With us be wealth.
@@ -170,8 +166,7 @@ With us be wealth.
 
 त्वे+++(=त्वयि)+++ रायः॑।
 </details>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 with thee be wealth.
@@ -189,8 +184,7 @@ with thee be wealth.
 
 तोते॒+++(=त्वया ऊते/रक्षिते [गृहे])+++ रायः॑ ।
 </details>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 thine be wealth.
@@ -210,8 +204,7 @@ thine be wealth.
 
 सं+ दे॑वि +++(सोमक्रयणि!)+++ दे॒व्या+उ॒र्वश्या॑+++(=उरूणि श्रेयांसि अश्नुते या तया [दृष्ट्या])+++ पश्यस्व।
 </details>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 Gaze, O goddess, together with the goddess Urvaçi.
@@ -232,8 +225,7 @@ Gaze, O goddess, together with the goddess Urvaçi.
 वी॒रव्ँ वि॑देय॒ तव॑ स॒न्दृशि+++(=सन्दर्शने)+++  
 माऽहꣳ रा॒यस्पोषे॑ण॒ वि यो॑षम् ॥
 </details>
-<details><summary>भास्करटीका</summary>
-</details>
+
 <details><summary>Keith</summary>
 
 Let me attend on thee, with Tvastr's aid;  

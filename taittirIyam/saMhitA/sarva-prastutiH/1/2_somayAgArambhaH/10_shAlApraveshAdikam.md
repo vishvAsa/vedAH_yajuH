@@ -23,9 +23,7 @@ _____
 श्ये॒नाय॑ त्वा सोम॒भृते॒ विष्ण॑वे +++(च)+++ त्वा +++(निर्वपामि)+++।
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the hospitality of Agni. For Visnu thee!  
@@ -50,9 +48,7 @@ for the eagle, bringer of the Soma, thee, for Visnu thee!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thy powers which they honour with oblation,  
@@ -74,9 +70,7 @@ May they all envelop the sacrifice!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Giver of wealth, impeller, rich in heroes,  
@@ -99,9 +93,7 @@ Slaying not heroes, O Soma, enter the dwellings.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the seat of Aditi.
@@ -121,9 +113,7 @@ Thou art the seat of Aditi.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 sit on the seat of Aditi [1]
@@ -144,9 +134,7 @@ sit on the seat of Aditi [1]
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art Varuna who guardeth law; thou art of Varuna.
@@ -167,9 +155,7 @@ Thou art Varuna who guardeth law; thou art of Varuna.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Be prosperity ours from our friendship with the gods.
@@ -188,9 +174,7 @@ Be prosperity ours from our friendship with the gods.
 स॒ख्यान् मा दे॒वाना॑म् अ॒पस॑श्+++(=कर्मतः)+++ छिथ्स्महि ।
 </details>
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 May we be not severed from our service of the gods.
@@ -215,9 +199,7 @@ May we be not severed from our service of the gods.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 For him who rushes on I seize thee;  
@@ -242,9 +224,7 @@ for the mightiest in strength I seize thee.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art unapproached,  
@@ -268,9 +248,7 @@ the unapproachable might of the gods, guarding from imprecations, impervious to 
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 May the lord of consecration approve my consecration,  

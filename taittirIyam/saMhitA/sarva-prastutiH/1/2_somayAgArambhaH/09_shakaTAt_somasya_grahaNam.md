@@ -22,9 +22,7 @@ title = "०९ शकटात् सोमस्य ग्रहणम्"
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Move forward, O lord of the world,  
@@ -44,9 +42,7 @@ Nor the Gandharva, Viçvavasu, injure thee.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Become an eagle and fly away   
@@ -70,9 +66,7 @@ _____
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the good luck of the sacrificer.
@@ -88,9 +82,7 @@ Thou art the good luck of the sacrificer.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 We have reached the path  
@@ -117,9 +109,7 @@ and winneth wealth.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Honour to the radiance of Mitra and Varuna.  
@@ -142,9 +132,7 @@ The son of the sky, the sun, do ye sing.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the pillar of Varuna.
@@ -164,9 +152,7 @@ Thou art the pillar of Varuna.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the prop of Varuna's pillar.
@@ -186,9 +172,7 @@ Thou art the prop of Varuna's pillar.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Varuna's noose is loosened.

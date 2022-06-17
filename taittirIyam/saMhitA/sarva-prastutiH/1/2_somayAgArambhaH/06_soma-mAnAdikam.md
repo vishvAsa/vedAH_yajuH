@@ -23,9 +23,7 @@ short_title = "०६ सोममानादिकम्"
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Let thy shoot be joined with shoot, joint with joint,  
@@ -55,9 +53,7 @@ thy libation is bright.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Unto that god, Savitr, within the two bowls, The sage,  
@@ -80,9 +76,7 @@ The golden-banded sage hath measured the heaven with his form.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 For offspring thee!
@@ -103,9 +97,7 @@ For offspring thee!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 For expiration thee!
@@ -125,9 +117,7 @@ For expiration thee!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 For cross-breathing thee!
@@ -148,9 +138,7 @@ For cross-breathing thee!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Breathe thou after offspring. 

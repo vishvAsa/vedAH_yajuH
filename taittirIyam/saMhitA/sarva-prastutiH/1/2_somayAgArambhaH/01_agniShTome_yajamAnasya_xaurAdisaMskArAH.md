@@ -20,9 +20,7 @@ short_title = "०१ अग्निष्टोमे यजमानस्य
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 May I the waters wet (thee) for life,
@@ -44,9 +42,7 @@ For length of days, for glory.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 O plant, protect him.
@@ -67,9 +63,7 @@ O plant, protect him.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Axe, hurt him not.
@@ -91,9 +85,7 @@ Axe, hurt him not.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Obedient to the gods I shear these.
@@ -114,9 +106,7 @@ Obedient to the gods I shear these.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 With success may I reach further days.
@@ -138,9 +128,7 @@ With success may I reach further days.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Let the waters, the mothers, purify us,
@@ -162,9 +150,7 @@ With ghee let those that purify our ghee purify us.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Let them bear from us all pollution.
@@ -185,9 +171,7 @@ Let them bear from us all pollution.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Forth from these waters do I come bright, in purity.
@@ -211,9 +195,7 @@ Forth from these waters do I come bright, in purity.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the body of Soma, guard my body.
@@ -236,9 +218,7 @@ Thou art the body of Soma, guard my body.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the milk of the great ones,  
@@ -263,9 +243,7 @@ splendour [1] place in me.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the pupil of Vrtra's eye,  
@@ -290,9 +268,7 @@ guard my eye.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Let the lord of thought purify thee, let the lord of speech purify thee, let the god Savitr purify thee  
@@ -310,9 +286,7 @@ With the rays of the bright sun.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 let the lord of speech purify thee  
@@ -331,9 +305,7 @@ With the rays of the bright sun.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 let the god Savitr purify thee  
@@ -356,9 +328,7 @@ With the rays of the bright sun.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 O lord of the purifier, with thy purifier for whatsoever I purify myself, that may I have strength to accomplish.
@@ -383,9 +353,7 @@ O lord of the purifier, with thy purifier for whatsoever I purify myself, that m
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 We approach you, O gods,  
@@ -409,9 +377,7 @@ For that we ask you, O holy ones.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Indra and Agni, heaven and earth, waters, plants.
@@ -431,9 +397,7 @@ Indra and Agni, heaven and earth, waters, plants.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the lord of consecrations
@@ -453,9 +417,7 @@ Thou art the lord of consecrations
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Guard me that am here.

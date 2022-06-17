@@ -19,9 +19,7 @@ title = "०८ अनसि स्थापनम्"
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Up with life, with fair life,  
@@ -44,9 +42,7 @@ Up have I arisen along with the immortals.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Fare along the wide atmosphere.
@@ -66,9 +62,7 @@ Fare along the wide atmosphere.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the seat of Aditi.
@@ -88,9 +82,7 @@ Thou art the seat of Aditi.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Sit on the seat of Aditi.
@@ -114,9 +106,7 @@ Sit on the seat of Aditi.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 The bull hath stablished the sky, the atmosphere;  
@@ -142,9 +132,7 @@ All these are Varuna's ordinances.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 He hath stretched out the sky over the woods;  
@@ -169,9 +157,7 @@ The sun in the sky, the Soma on the hill.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thee, all-knowing god,
@@ -195,9 +181,7 @@ The sun for all to see.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Come hither, ye oxen, strong to bear the yoke,
@@ -218,9 +202,7 @@ Tearless, slaying not man, furthering the prayer.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the pillar of Varuna.
@@ -240,9 +222,7 @@ Thou art the pillar of Varuna.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the prop of Varuna's pillar.
@@ -261,9 +241,7 @@ Thou art the prop of Varuna's pillar.
 प्रत्य॑स्तो॒+++(=उत्क्षिप्तः)+++ वरु॑णस्य॒ पाशः॑ ॥ [16]  
 </details>
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Varuna's noose is tied.

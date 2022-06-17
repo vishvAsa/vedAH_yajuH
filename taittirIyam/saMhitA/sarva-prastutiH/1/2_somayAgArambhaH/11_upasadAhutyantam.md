@@ -17,9 +17,7 @@ title = "११ उपसदाहुत्यन्तम्"
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 May thy every shoot, O god Soma, swell, For Indra who gaineth the chiefest wealth;  
@@ -42,9 +40,7 @@ Do thou swell for Indra.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Make thy comrades to swell with wealth and skill; with good fortune  
@@ -68,9 +64,7 @@ may I accomplish thy pressing, O god Soma.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Desired are riches exceedingly for food, for prosperity. Be right to the proclaimers of right.  
@@ -95,9 +89,7 @@ honour to the earth!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Agni, lord of vows, thou art the vow-lord of vows;  
@@ -121,9 +113,7 @@ Together, O lord of vows, be the vows of us two that keep vows.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thy dread form, O Agni, with that protect us;  
@@ -147,9 +137,7 @@ hail to that form of thine!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 That form of thine, O Agni, which rests in iron  
@@ -167,9 +155,7 @@ the highest, that dwells in the cleft,
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 That form of thine, O Agni, which rests in silver  
@@ -187,9 +173,7 @@ the highest, that dwells in the cleft,
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 That form of thine, O Agni, which rests in gold  

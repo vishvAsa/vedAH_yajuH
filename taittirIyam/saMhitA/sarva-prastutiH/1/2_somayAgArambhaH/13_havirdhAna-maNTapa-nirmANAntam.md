@@ -23,9 +23,7 @@ short_title = "१३"
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 They yoke their minds, and yoke their thoughts,
@@ -49,9 +47,7 @@ Great is the praise of the god Savitr.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 With fair voice, O god, do thou address the dwelling.  
@@ -72,9 +68,7 @@ Ye two, famed among the gods, make proclamation among the gods.
 यꣳ सर्वे॑ ऽनु॒जीवा॑म॒ यो ब॑हू॒नाम् अस॑द् व॒शी ।  
 </details>
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 For us be born a hero of great deeds,  
@@ -98,9 +92,7 @@ Who shall be ruler over many.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Over this Visnu strode;  
@@ -125,9 +117,7 @@ Thrice did he set down his foot;
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 So then be ye two rich in food, in cows,  
@@ -151,9 +141,7 @@ He holdeth the earth on all sides with pegs.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Come ye two then forward, ordaining the offering; bring upward the sacrifice; do not falter.  
@@ -173,9 +161,7 @@ Come ye two then forward, ordaining the offering; bring upward the sacrifice; do
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 There rest on the height of the earth.
@@ -198,9 +184,7 @@ There rest on the height of the earth.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 From the sky, O Visnu, or from the earth,  
@@ -226,9 +210,7 @@ Give to us [2] from right and from left.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 I shall proclaim the mighty deeds of Visnu  
@@ -251,9 +233,7 @@ Stepping thrice, the far-goer.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the forehead of Visnu.
@@ -273,9 +253,7 @@ Thou art the forehead of Visnu.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the back of Visnu.
@@ -296,9 +274,7 @@ Thou art the back of Visnu.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Ye two are the corners' of Visnu's mouth.
@@ -317,9 +293,7 @@ Ye two are the corners' of Visnu's mouth.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the thread of Visnu.
@@ -339,9 +313,7 @@ Thou art the thread of Visnu.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the fixed point of Visnu.
@@ -361,9 +333,7 @@ Thou art the fixed point of Visnu.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art of Vishu; to Visnu thee!

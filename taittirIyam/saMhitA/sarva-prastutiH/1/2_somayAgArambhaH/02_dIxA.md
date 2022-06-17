@@ -21,9 +21,7 @@ title = "०२ दीक्षा"
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 To the purpose, to the impulse, to Agni, hail!  
@@ -49,9 +47,7 @@ To Sarasvati, to Prisan, to Agni, hail!
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 O ye divine, vast, all-sootbing waters!  
@@ -78,9 +74,7 @@ May Brhaspati rejoice in our oblation, hail!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Let every man choose the companionship  
@@ -107,9 +101,7 @@ Let him choose glory that he may prosper, hail!
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Ye are images of the Rc and the Saman.  
@@ -135,9 +127,7 @@ do ye two [1] protect me until the completion of this sacrifice.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 O god,Varuna, do thou sharpen this prayer of him who implores thee,  
@@ -164,9 +154,7 @@ Whereby we' may pass over all our difficulties.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the strength of the Angirases, soft as wool;  
@@ -190,9 +178,7 @@ harm me not.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the protection of Visnu, the protection of the sacrificer,  
@@ -214,9 +200,7 @@ grant me protection.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Guard me from the lustre of the Naksatras.
@@ -238,9 +222,7 @@ Guard me from the lustre of the Naksatras.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the birthplace of Indra [2]; harm me not.
@@ -261,9 +243,7 @@ Thou art the birthplace of Indra [2]; harm me not.
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 For ploughing thee, for good crops,
@@ -284,9 +264,7 @@ For ploughing thee, for good crops,
 
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 For the plants with good berries thee!
@@ -306,9 +284,7 @@ For the plants with good berries thee!
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art of easy access, divine tree. Being erect, guard me until the completion (of the sacrifice).
@@ -325,9 +301,7 @@ _____
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Hail!  

@@ -21,9 +21,7 @@ title = "०७ सोमक्रयः"
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 I buy Soma from thee,  
@@ -47,9 +45,7 @@ to match thy cow.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 With us be the gold.
@@ -71,9 +67,7 @@ With us be the gold.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Thou art the bodily form of penance, Prajapati's kind,  
@@ -94,9 +88,7 @@ I buy (Soma) with the last offspring of thee that hast a thousandfold prosperity
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 With us be union with thee.
@@ -116,9 +108,7 @@ With us be union with thee.
 </details>
 
 _____   
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 with me let thy wealth abide.
@@ -138,9 +128,7 @@ with me let thy wealth abide.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 With us be light.
@@ -160,9 +148,7 @@ With us be light.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 darkness be on the Soma-seller.
@@ -185,9 +171,7 @@ darkness be on the Soma-seller.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Come as a friend to us, creating firm friendships.
@@ -208,9 +192,7 @@ Come as a friend to us, creating firm friendships.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 Enter the right thigh of Indra, glad the glad, tender the tender.
@@ -232,9 +214,7 @@ Enter the right thigh of Indra, glad the glad, tender the tender.
 </details>
 
 
-<details><summary>भास्करटीका</summary>
 
-</details>
 <details><summary>Keith</summary>
 
 O Svana, Bhraja, Anghari, Bambhari, Hasta, Suhasta, and Krçanu,  
