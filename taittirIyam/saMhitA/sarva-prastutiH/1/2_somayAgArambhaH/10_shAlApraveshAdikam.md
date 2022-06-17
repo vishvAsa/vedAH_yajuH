@@ -3,7 +3,7 @@ title = "१० शालाप्रवेशादिकम्"
 
 +++
 ## राज्ञः शालायम् प्रवेशः
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 आतिथ्यं निर्वपति।।
@@ -30,7 +30,7 @@ For Agni thee, giver of wealth, for Visnu thee;
 for the eagle, bringer of the Soma, thee, for Visnu thee!
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानस् सोमम् आदत्ते।
@@ -48,7 +48,7 @@ Thy powers which they honour with oblation,
 May they all envelop the sacrifice!
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शालां प्रवेशयति।
@@ -66,7 +66,7 @@ Giver of wealth, impeller, rich in heroes,
 Slaying not heroes, O Soma, enter the dwellings.  
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 नीडे कृष्णाजिनम् आस्तृणाति।
@@ -82,7 +82,7 @@ Slaying not heroes, O Soma, enter the dwellings.
 Thou art the seat of Aditi.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मिन् सोमं निदधाति।
@@ -98,7 +98,7 @@ Thou art the seat of Aditi.
 sit on the seat of Aditi [1]
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमम् उपतिष्ठते।।
@@ -115,7 +115,7 @@ sit on the seat of Aditi [1]
 Thou art Varuna who guardeth law; thou art of Varuna.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वंशे बध्नाति।
@@ -131,7 +131,7 @@ Thou art Varuna who guardeth law; thou art of Varuna.
 Be prosperity ours from our friendship with the gods.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमस्य पादौ प्रक्षालयति।
@@ -148,7 +148,7 @@ May we be not severed from our service of the gods.
 </details>
 
 ## आज्यग्रहणादिकम्
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तानूनप्त्रम् आज्यं गृह्णाति, यत् सर्वैः स्प्रक्ष्यत ऋत्विग्भिः। अयम् एक-कार्यानुवृत्त्य्-अर्थं समयः क्रियते तेषु।।
@@ -172,7 +172,7 @@ for the mighty I seize thee;
 for the mightiest in strength I seize thee.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अव-मृशाति।।
@@ -190,7 +190,7 @@ Thou art unapproached,
 the unapproachable might of the gods, guarding from imprecations, impervious to imprecations.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानं वाचयति।।

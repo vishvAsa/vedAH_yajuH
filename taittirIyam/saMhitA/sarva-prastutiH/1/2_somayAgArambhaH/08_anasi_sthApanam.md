@@ -2,7 +2,7 @@
 title = "०८ अनसि स्थापनम्"
 
 +++
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमम् आदायोत्तिष्ठति।
@@ -24,7 +24,7 @@ Up with the force of Parjanya,
 Up have I arisen along with the immortals.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमवाहनम् अनो ऽभिप्रैति।
@@ -40,7 +40,7 @@ Up have I arisen along with the immortals.
 Fare along the wide atmosphere.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 नीडे कृष्णाजिनमास्तृणाति।
@@ -56,7 +56,7 @@ Fare along the wide atmosphere.
 Thou art the seat of Aditi.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मिन् सोमं निदधाति।
@@ -72,7 +72,7 @@ Thou art the seat of Aditi.
 Sit on the seat of Aditi.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमम् उपतिष्ठते।।
@@ -94,7 +94,7 @@ Hath set him in all worlds as king.
 All these are Varuna's ordinances.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमं वाससा वेष्टयति।+++(4)+++
@@ -116,7 +116,7 @@ Varuna hath set skill in the heart [1], Agni in dwellings,
 The sun in the sky, the Soma on the hill.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सौर्यर्चा कृष्णाजिनं पुरस्तात् प्रत्यानह्यत्य् ऊर्ध्व-ग्रीवम्।
@@ -136,7 +136,7 @@ Thy rays bear upwards,
 The sun for all to see.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोम-वाहनाव् आनीयमानौ प्रतिमन्त्रयते।
@@ -154,7 +154,7 @@ Come hither, ye oxen, strong to bear the yoke,
 Tearless, slaying not man, furthering the prayer.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणं युनक्ति।
@@ -170,7 +170,7 @@ Tearless, slaying not man, furthering the prayer.
 Thou art the pillar of Varuna.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शम्याम् अवगूहति ।
@@ -186,7 +186,7 @@ Thou art the pillar of Varuna.
 Thou art the prop of Varuna's pillar.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 योक्त्रेण बध्नाति।

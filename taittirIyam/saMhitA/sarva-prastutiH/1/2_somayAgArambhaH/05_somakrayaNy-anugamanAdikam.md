@@ -6,7 +6,7 @@ short_title = "०५"
 ०५ सोमक्रयण्य्-अनुगमनादिकम्
 
 ## सोमक्रयण्य्-अनुगमनम्
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 षट्पदान्यनु निक्रामति सोमक्रयणीं गच्छन्तीम् अनुगच्छति। षट्सु पदेषु षण्मन्त्राः ॥।
@@ -35,7 +35,7 @@ thou art Candra.
 </details>
 
 ## सप्तमपदे कर्म
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सप्तमं पदम् अभिगृह्णाति।
@@ -53,7 +53,7 @@ May Brhaspati make thee rejoice in happiness.
 May Rudra with the Vasus be favourable to thee.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मिन् पदे जुहोति।
@@ -78,7 +78,7 @@ I pour thee on the head of the earth,
 on the place of sacrifice, on the abode of the offering, rich in ghee; hail!
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पदं परिलिखति।
@@ -126,7 +126,7 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 
 ## पांसुग्रहणम्
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पदपांसून् धरण्यां संवपति।।
@@ -142,7 +142,7 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 With us be wealth.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानाय प्रयच्छति।।
@@ -158,7 +158,7 @@ With us be wealth.
 with thee be wealth.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानः पत्न्यै प्रयच्छति।
@@ -176,7 +176,7 @@ thine be wealth.
 
 ## पत्नीकर्म
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पत्नीं सोमक्रयण्या समीक्षयति।
@@ -192,7 +192,7 @@ thine be wealth.
 Gaze, O goddess, together with the goddess Urvaçi.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पत्नी यजमानमीक्षते।

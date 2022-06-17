@@ -5,7 +5,7 @@ short_title = "०१ अग्निष्टोमे यजमानस्य
 +++
 ०१ अग्निष्टोमे यजमानस्य क्षौरादिसंंस्काराः
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमः काण्डऋषिः। दीक्षिष्यमाणस्य यजमानस्य दक्षिणं गोदानम् उनत्ति।।
@@ -23,7 +23,7 @@ May I the waters wet (thee) for life,
 For length of days, for glory.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ऊर्ध्वाग्रं बर्हिर् अनुच्छ्रयति।।
@@ -39,7 +39,7 @@ For length of days, for glory.
 O plant, protect him.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मिन् बर्हिषि स्वधितिं तिर्यञ्चं निदधाति।
@@ -55,7 +55,7 @@ O plant, protect him.
 Axe, hurt him not.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रवपति।
@@ -72,7 +72,7 @@ Axe, hurt him not.
 Obedient to the gods I shear these.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उप्तदेशं यजमानोभिमृशति।
@@ -88,7 +88,7 @@ Obedient to the gods I shear these.
 With success may I reach further days.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानमभिषिञ्चति, 'अप्सु दीक्षातपसी' इत्यादि ब्राह्मणम् ॥।
@@ -106,7 +106,7 @@ Let the waters, the mothers, purify us,
 With ghee let those that purify our ghee purify us.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सम्प्रधाव्य रजः प्लावयति।।
@@ -122,7 +122,7 @@ With ghee let those that purify our ghee purify us.
 Let them bear from us all pollution.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 एति यजमानः।
@@ -138,7 +138,7 @@ Let them bear from us all pollution.
 Forth from these waters do I come bright, in purity.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वासः परिधत्ते।
@@ -156,7 +156,7 @@ Forth from these waters do I come bright, in purity.
 Thou art the body of Soma, guard my body.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 नवनीतेन मुखमभ्यङ्क्ते।
@@ -176,7 +176,7 @@ thou art the giver of splendour;
 splendour [1] place in me.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अञ्जनेनाङ्क्ते।
@@ -196,7 +196,7 @@ thou art the guardian of the eye,
 guard my eye.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दर्भपुञ्जीलैर् यजमानं पावयति।
@@ -246,7 +246,7 @@ With the flawless purifier,
 With the rays of the bright sun.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानं वाचयति, स च ब्रूते।
@@ -262,7 +262,7 @@ With the rays of the bright sun.
 O lord of the purifier, with thy purifier for whatsoever I purify myself, that may I have strength to accomplish.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शालां यजमानम् आनयति।
@@ -284,7 +284,7 @@ What O gods ye can assent to,
 For that we ask you, O holy ones.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शालां यजमानं प्रवेशयति।
@@ -300,7 +300,7 @@ For that we ask you, O holy ones.
 Indra and Agni, heaven and earth, waters, plants.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 आहवनीयम् अन्वीक्षयति।
@@ -316,7 +316,7 @@ Indra and Agni, heaven and earth, waters, plants.
 Thou art the lord of consecrations
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमान आत्मानमीक्षते।

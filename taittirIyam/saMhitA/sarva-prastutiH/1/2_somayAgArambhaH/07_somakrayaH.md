@@ -4,7 +4,7 @@ title = "०७ सोमक्रयः"
 +++
 
 ## हिरण्य-पणः
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 हिरण्येन पणते।
@@ -28,7 +28,7 @@ the bright with the bright, the immortal with the immortal,
 to match thy cow.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानाय प्रयच्छति हिरण्यं।
@@ -45,7 +45,7 @@ With us be the gold.
 </details>
 
 ## अजया क्रयणम्
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अजया क्रीणाति।
@@ -63,7 +63,7 @@ Thou art the bodily form of penance, Prajapati's kind,
 I buy (Soma) with the last offspring of thee that hast a thousandfold prosperity.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानम् ईक्षते।
@@ -79,7 +79,7 @@ I buy (Soma) with the last offspring of thee that hast a thousandfold prosperity
 With us be union with thee.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 आत्मानमीक्षते।
@@ -97,7 +97,7 @@ _____
 with me let thy wealth abide.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानं शुक्लोर्णुकया क्षिपति।
@@ -113,7 +113,7 @@ with me let thy wealth abide.
 With us be light.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णोर्णया सोम-विक्रयिणं विध्यति।
@@ -131,7 +131,7 @@ darkness be on the Soma-seller.
 
 ## सोमग्रहणम्
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमविक्रयिणस् सोमम् आदत्ते।
@@ -147,7 +147,7 @@ darkness be on the Soma-seller.
 Come as a friend to us, creating firm friendships.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानस्य दक्षिण ऊराव् आसादयति।
@@ -164,7 +164,7 @@ Come as a friend to us, creating firm friendships.
 Enter the right thigh of Indra, glad the glad, tender the tender.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्वानाऽऽदिभ्यः सोमक्रयणान् रक्षार्थम् परिददाति।

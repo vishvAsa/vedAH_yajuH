@@ -2,7 +2,7 @@
 title = "११ उपसदाहुत्यन्तम्"
 
 +++
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमम् आप्याययति।
@@ -22,7 +22,7 @@ May Indra swell for thee;
 Do thou swell for Indra.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानं वाचयति।
@@ -40,7 +40,7 @@ Make thy comrades to swell with wealth and skill; with good fortune
 may I accomplish thy pressing, O god Soma.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रस्तरे पाणिं निधाय नमस्-कुर्वन्ति।।
@@ -61,7 +61,7 @@ Honour to the sky,
 honour to the earth!
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानम् अवान्तर-दीक्षाम् उपनयति।।
@@ -83,7 +83,7 @@ that body of thine be in me.
 Together, O lord of vows, be the vows of us two that keep vows.
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उपसत्सु व्रतयति।।
@@ -101,7 +101,7 @@ Thy dread form, O Agni, with that protect us;
 hail to that form of thine!
 </details>
 
-
+________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ३ उपसदाहुतीर् जुहोति।
