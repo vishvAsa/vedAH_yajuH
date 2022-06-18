@@ -2,77 +2,7 @@
 title = "2 The Soma Sacrifice"
 
 +++
-## 01
-### a
-May I the waters wet (thee) for life,  
-For length of days, for glory.
-### b
-O plant, protect him.
-### c
-Axe, hurt him not.
-### d
-Obedient to the gods I shear these.
-### e
-With success may I reach further days.
-### f
-Let the waters, the mothers, purify us,  
-With ghee let those that purify our ghee purify us, Let them bear from us all pollution,  
-Forth from these waters do I come bright, in purity.
 
-### g
-Thou art the body of Soma, guard my body.
-### h
-Thou art the milk of the great ones, thou art the giver of splendour; splendour [1] place in me.
-### i
-Thou art the pupil of Vrtra's eye, thou art the guardian of the eye, guard my eye.
-### k
-Let the lord of thought purify thee, let the lord of speech purify thee, let the god Savitr purify thee With the flawless purifier,  
-With the rays of the bright sun.
-### l
-O lord of the purifier, with thy purifier for whatsoever I purify myself, that may I have strength to accomplish.
-### m
-We approach you, O gods,  
-Ye that have true ordinances at the sacrifice  
-What O gods ye can assent to,  
-For that we ask you, O holy ones.'
-### n
-Indra and Agni, heaven and earth, waters, plants.
-### o
-Thou art the lord of consecrations, guard me that am here.
-## 02
-### a
-To the purpose, to the impulse, to Agni, hail! To wisdom, to thought, to Agni, hail! To consecration, to penance, to Agni, hail! To Sarasvati, to Prisan, to Agni, hail!
-### b
-O ye divine, vast, all-sootbing waters!  
-Heaven and earth, wide atmosphere! May Brhaspati rejoice in our oblation, hail!
-### c
-Let every man choose the companionship  
-Of the god who leadeth.  
-Every man prayeth for wealth;  
-Let him choose glory that he may prosper, hail!
-### d
-Ye are images of the Rc and the Saman. I grasp you two; do ye two [1] protect me until the completion of this sacrifice.
-### e
-O god,Varuna, do thou sharpen this prayer of him who implores thee,  
-Sharpen his strength, his insight;  
-May we mount that safe ship  
-Whereby we' may pass over all our difficulties.
-### f
-Thou art the strength of the Angirases, soft as wool; grant me strength, guard me, harm me not.
-### g
-Thou art the protection of Visnu, the protection of the sacrificer, grant me protection.
-### h
-Guard me from the lustre of the Naksatras.
-### i
-Thou art the birthplace of Indra [2]; harm me not.
-### k
-For ploughing thee, for good crops,
-### l
-For the plants with good berries thee!
-### m
-Thou art of easy access, divine tree. Being erect, guard me until the completion (of the sacrifice).
-### n
-Hail! with my mind the sacrifice (I grasp); hail! from heaven and earth, bail! from the broad atmosphere, hail! from the wind the sacrifice I grasp.
 ## 03
 ### a
 The thought divine we meditate,  

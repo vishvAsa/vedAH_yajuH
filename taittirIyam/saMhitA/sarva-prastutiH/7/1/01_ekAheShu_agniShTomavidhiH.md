@@ -188,8 +188,8 @@ Prajapati desired, 'May I have offspring.'
 He meted out the Trivrt from his mouth.  
 After it the god Agni was created, the Gayatri metre, the Rathantara Saman, of men the Brahman, of cattle the goat; therefore are they the chief, for they were produced from the mouth. 
 
-_____________
 </details>
+_____
 
 ### वाक्यानि
 
@@ -206,8 +206,8 @@ _____________
 From the breast and arms he meted out the Pañcadaça Stoma.  
 After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of men the Rajanya, of cattle the sheep.  There fore they are strong, for they were created from strength.
 
-_____________
 </details>
+_____
 
 ### वाक्यानि
 
@@ -230,8 +230,8 @@ After it the All-gods as deities were created, the Jagati metre, the Vairupa Sam
 
 Therefore are they to be eaten, for they were created from the receptacle of food.  
 Therefore are they more numerous than others, for they were created after the most numerous of the gods. 
-_____________
 </details>
+_____
 
 
 ### वाक्यानि
@@ -254,8 +254,8 @@ After it the Anustubh metre [5] was created, the Vairaja Saman, of men the Çudr
 Therefore the two, the horse and the Çudra, are dependent on others.  
 Therefore the Çudra is not fit for the sacrifice, for he was not created after any gods.   
 Therefore they depend on their feet, for they were created from the feet. 
-_____________
 </details>
+_____
 
 
 ### वाक्यानि

@@ -43,7 +43,6 @@ Become an eagle and fly away
 to the place in the house of the sacrificer  
 which we have prepared with the gods (for thee). 
 
-_____
 </details>
 
 ## उपस्थानादिकम्
