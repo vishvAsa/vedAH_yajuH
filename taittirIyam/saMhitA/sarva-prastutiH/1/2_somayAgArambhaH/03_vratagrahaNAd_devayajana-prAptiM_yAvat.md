@@ -630,6 +630,12 @@ That stream of yours may I not step upon.
 Along an unbroken web of earth may I go.
 </details>
 
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+देवी॑रापो अपान्नपा॒द्य ऊ॒र्मिर्ह॑वि॒ष्य॑ इन्द्रि॒यावा᳚न्म॒दिन्त॑म॒स्तव्ँवो॒ माऽव॑क्रमिष॒मच्छि॑न्न॒न्तन्तु॑म्पृथि॒व्या अनु॑ गेषम्
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवी॑रापो अपान्नपा॒द् य ऊ॒र्मिह॑वि॒ष्यः॑ ।  
