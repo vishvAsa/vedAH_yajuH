@@ -251,9 +251,9 @@ the highest, that dwells in the cleft,
 6उपसदाहुतीर्जुहोति - तिसृषूपसत्सु अनुक्रमेण या त इति तिसृभिरनुष्टुग्भिः । तत्र प्रथमायां 'या ते अग्नेयाशया' इति ॥  
 'तनूर्वर्षिष्ठा' इत्यादि तिसृष्वपि सम्बध्यते । हे अग्ने या ते त्वदीयां तनूः अयाशया अस्यां पृथिव्यां शेत इत्ययाशया । इदमस्सप्तम्येकवचनस्य `सुपां सुलुक्' इति यादेशः, 'हलि लोपः' इतीद्रूपस्य लोपः, त्यदाद्यत्वम्, अस्यां शेत इति 'अधिकरणे शेतेः' इत्यच्, 'शवासवासिष्वकालात्' इत्यलुक्, कृदुत्तरपदप्रकृतिस्वरत्वम् । 
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2/11_upasadAhutyantam/varshiShThA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2/11_upasadAhutyantam/varshiShThA.md"  newLevelForH1="5" title="भट्टभास्करटीका"> </div>  
 
 
 
@@ -281,9 +281,10 @@ the highest, that dwells in the cleft,
 
 7द्वितीयस्यां जुहोति - या ते अग्ने रजाशया तनूरित्यादि ॥  
 रजोन्तरिक्षं तस्मिन् शेत इति रजाशया मध्यमात्मिका । रजश्शब्दात्परस्यास्सप्तम्या डादेशः, पूर्ववदलुक् । शेषं समानम् ॥
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2/11_upasadAhutyantam/varshiShThA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2/11_upasadAhutyantam/varshiShThA.md"  newLevelForH1="5" title="भट्टभास्करटीका"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,9 +319,9 @@ the highest, that dwells in the cleft,
 शाखान्तरे च अपावधीदिति पाठः ।   
 'तेषामसुराणां तिस्रः पुरआसन्नयस्मय्यवमाथ रजताऽथ हरिणी' इति ब्राह्मणानुसारेणान्यथा व्याख्यायते । अयसि अयस्मय्यां पुरि शेत इत्ययाशया । डादेशादि समानम् । रजतं रजस्तन्मय्यां पुरि शेत इति रजाशया । हरितं हरस्तन्मय्यां पुरि शेत इति हराशया । गतमन्यत् ॥
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2/11_upasadAhutyantam/varshiShThA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2/11_upasadAhutyantam/varshiShThA.md"  newLevelForH1="5" title="भट्टभास्करटीका"> </div>  
 
 
 
