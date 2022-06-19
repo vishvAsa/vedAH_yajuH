@@ -3,12 +3,14 @@ title = "१२ उत्तरवेदिनिर्माणम्"
 
 +++
 
-सोमऋषिः
-
--  मध्यमोपसद्दिने स्वीकृतषट्त्रिशंत्पदपरिमितवेदिप्रवेशपूर्वभाग उत्तरवेद्यभिधानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒त्ताय॑नी मेऽसि।
++++(हे भूमे!)+++ वि॒त्ताय॑नी मेऽसि।  
+</details>
+
+<details><summary>Keith</summary>
+
+Thou I art the abode of riches for me;  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -23,7 +25,11 @@ title = "१२ उत्तरवेदिनिर्माणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ति॒क्ताय॑नी मे॒ऽसि ।
+ति॒क्ताय॑नी+++(←तिज निशातने)+++ मे॒ऽसि ।
+</details>
+<details><summary>Keith</summary>
+
+thou art the resort of the afflicted for me;  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -38,7 +44,11 @@ title = "१२ उत्तरवेदिनिर्माणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑तान्मा नाथि॒तम् ।
+अव॑तान् मा+++(मां→मम)+++ नाथि॒तम्+++(=याचितम्)+++ ।
+</details>
+<details><summary>Keith</summary>
+
+protect me when in want;  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -54,6 +64,11 @@ title = "१२ उत्तरवेदिनिर्माणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव॑तान्मा व्यथि॒तम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+protect me when afflicted.
 </details>
 
 <details><summary>मूलम्</summary>
