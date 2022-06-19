@@ -76,25 +76,7 @@ ________
 नीडे कृष्णाजिनमास्तृणाति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अदि॑त्या॒स् सदो॑ऽसि ।
-</details>
-
-<details><summary>Keith</summary>
-
-Thou art the seat of Aditi.
-</details>
-
-<details><summary>मूलम्</summary>
-
-अदि॑त्या॒स्सदो॑ऽसि ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-3नीडे कृष्णाजिनमास्तृणाति - अदित्या इति ॥ अदित्याः देवमातुः सदः सदनं लोकलक्षणं त्वमसि ॥
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/08_anasi_sthApanam/adityAs_sadaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ________
@@ -103,25 +85,7 @@ ________
 तस्मिन् सोमं निदधाति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अदि॑त्या॒स् सद॒ आसीद ।
-</details>
-
-<details><summary>Keith</summary>
-
-Sit on the seat of Aditi.
-</details>
-
-<details><summary>मूलम्</summary>
-
-अदि॑त्या॒स्सद॒ आसीद ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-4तस्मिन्सोमं निदधाति - अदित्या इति ॥ अदित्यास्सदः सदन स्थानीयमेतत् कृष्णाजिनमासीद उपविश अस्मिन् ॥
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/08_anasi_sthApanam/adityAs_sada_AsIda.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ________
@@ -270,25 +234,13 @@ ________
 दक्षिणं युनक्ति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
-</details>
-
-<details><summary>Keith</summary>
-
-Thou art the pillar of Varuna.
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/08_anasi_sthApanam/varuNasya_skambhanam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details><summary>मूलम्</summary>
-
-वरु॑णस्य॒ स्कम्भ॑नमसि ।
-</details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-9दक्षिणं युनक्ति - वरुणस्येति ॥ वरुणस्य स्कम्भनं स्तम्भनमुत्पादयिता त्वमसि यागद्वारेण । यद्वा - वरुणस्य वरणीयस्य वारयितुर्वा सोमस्य स्कम्भनं धारायिता असि ॥
+9दक्षिणं युनक्ति - वरुणस्येति ॥
 </details>
 
 
@@ -298,24 +250,13 @@ ________
 शम्याम् अवगूहति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/08_anasi_sthApanam/varuNasya_skambhanam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-वरु॑णस्य +++(सोमस्य च)+++ स्कम्भ॒+++(=अविचलमवस्थानं)+++सर्ज॑नम् असि ।
-</details>
 
-<details><summary>Keith</summary>
-
-Thou art the prop of Varuna's pillar.
-</details>
-
-<details><summary>मूलम्</summary>
-
-वरु॑णस्य स्कम्भ॒सर्ज॑नमसि ।
-</details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-10शम्यामवगूहति - वरुणस्येति ॥ वरुणस्य सोमस्य स्कम्भनं स्कम्भः अविचलिमवस्थानं, तस्य सर्जनमुत्पादयिता चासि, त्वदधीनत्वात् स्कम्भनस्य ॥
+10शम्यामवगूहति - वरुणस्येति ॥ 
 </details>
 
 
