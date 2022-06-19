@@ -10,6 +10,13 @@ unicode_script = "devanagari"
 यो᳚ऽस्मान् द्वेष्टि॒ यञ् च॑ व॒यन् द्वि॒ष्म- इ॒दम् अ॑स्य ग्री॒वा अपि॑ कृन्तामि ।
 </details>
 
+<details><summary>Keith</summary>
+
+The Raksas is enclosed,  
+the evil spirits are enclosed.  
+Thus I cut the neck of the Raksas.  
+Thus I cut the neck of him who hates us and whom we hate [1].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -29,17 +36,3 @@ unicode_script = "devanagari"
 
 तथा योऽस्मान् द्वेष्टि यं च वयं द्विष्मः तस्य द्वेष्टुः द्वेष्यस्य शत्रोः ग्रीवाः इदमपि कृन्तामि यदेतत्परिलिखामि । 'द्वौ वाव पुरुषौ' इत्यादि ब्राह्मणम् । इदमिति क्रियाविषेणत्वान्नपुंसकत्वम् ॥
 </details>
-
-<details><summary>Keith</summary>
-
-The Raksas is enclosed,  
-the evil spirits are enclosed.  
-Thus I cut the neck of the Raksas.  
-Thus I cut the neck of him who hates us and whom we hate [1].
-</details>
-
-
-
-
-
-
