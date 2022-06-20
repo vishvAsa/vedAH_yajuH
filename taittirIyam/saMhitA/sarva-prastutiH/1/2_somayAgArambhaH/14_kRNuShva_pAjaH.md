@@ -11,6 +11,13 @@ title = "१४ कृणुष्व पाजः"
   - पुरोनुवाक्या १६ मन्त्रः
   - याज्ये द्वे १७-१८  मन्त्रौ
 
+<details><summary>भट्टभास्करटीका</summary>
+
+14'अग्नये रक्षोघ्ने पुरोडाशमष्टाकपालं निर्वपेद्यं रक्षांसि सचेरन्' इत्यस्या इष्टेः पञ्चदश सामिधेन्यः । ततः परे याज्यानुवाक्ये । उपहोमार्था ततः परा याज्याविकल्पो वा । सर्वा अग्निदेवत्याः, 'तपूष्यग्ने' इत्यादिदर्शनात् । वैश्वदेवं काण्डम् । त्रैष्टुभस्सर्वोनुवाकः । तत्र प्रथमा - कृणुम्ष्व पाज इति ॥   
+</details>
+
+
+
 ## आह्वानम्
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md">
@@ -24,13 +31,11 @@ title = "१४ कृणुष्व पाजः"
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/01_kRNuShva_pAjaH.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-Put forth thy strength like a spreading net;  
-Come like a mighty king with thy retainers;  
-Hurling thy swift net thou shootest arrows;  
-Pierce the Raksases with thy keenest (darts).
-</details>
+
+
+
 
 ## युद्धप्रार्थना
 
@@ -45,13 +50,9 @@ Pierce the Raksases with thy keenest (darts).
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/02_tava_bhramAsa.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-Swiftly thy whirling flames descend;  
-bring upward Follow them, glowing in thy fury;  
-Thy heat, O Agni, thy winged (flames) with thy tongue,  
-Unfettered, on all sides spread thy firebrands.
-</details>
+
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/03_prati_spasho.md">
 <details open><summary><h2>०३ प्रति स्पशो ...{Loading}...</h2></summary>
@@ -64,13 +65,9 @@ Unfettered, on all sides spread thy firebrands.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/03_prati_spasho.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-Send forth thy spies, swiftest in thy motion;  
-Be an unfailing guardian to this folk,  
-From him who afar plans evil [1], from him who near;  
-O Agni let no trouble from thee overwhelm us.
-</details>
+
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/04_udagne_tiShTha.md">
 <details open><summary><h2>०४ उदग्ने तिष्ठ ...{Loading}...</h2></summary>
@@ -83,13 +80,8 @@ O Agni let no trouble from thee overwhelm us.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/04_udagne_tiShTha.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-Arise, O Agni; spread thyself out;  
-Burn up our foes, O thou of keen dart;  
-Him who hath wrought evil for us, O blazing one,  
-Do thou consume utterly like dry stubble.
-</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/05_Urdhvo_bhava.md">
 <details open><summary><h2>०५ ऊर्ध्वो भव ...{Loading}...</h2></summary>
@@ -102,13 +94,9 @@ Do thou consume utterly like dry stubble.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/05_Urdhvo_bhava.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-Arise; drive from us (our foes);  
-Reveal thy heavenly strength, O Agni,  
-Slacken the strung (weapon) of the demon-driven;  
-Crush our foes, kin or not kin.
-</details>
+
 
 ## उपासकसौभाग्यम्
 
@@ -123,13 +111,9 @@ Crush our foes, kin or not kin.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/06_sa_te.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-He knows thy [2] loving kindliness, O most youthful one,  
-Who hath given furtherance to this devotion;  
-All happy days for him, glory, and wealth  
---Opening the doors of the miser--he hath revealed.'
-</details>
+
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/07_sedagne_astu.md">
 <details open><summary><h2>०७ सेदग्ने अस्तु ...{Loading}...</h2></summary>
@@ -142,13 +126,9 @@ All happy days for him, glory, and wealth
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/07_sedagne_astu.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-Let him, O Agni, be fortunate and munificent,  
-Who with constant oblation, who with praise,  
-Seeks to delight thee in his life in his house;  
-May all days be happy for him; be that the will.
-</details>
+
 
 ## प्रतिज्ञा
 
@@ -163,13 +143,9 @@ May all days be happy for him; be that the will.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/08_archAmi_te.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-I praise thy loving kindness; loud sounding (thou singest) a reply;  
-Let this song of mine, beloved of thee, sing with thee [3]  
-With good steeds and fair chariots may we adorn thee;  
-Maintain for us the lordly power as the days go by.
-</details>
+
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/09_iha_tvA.md">
 <details open><summary><h2>०९ इह त्वा ...{Loading}...</h2></summary>
@@ -182,13 +158,9 @@ Maintain for us the lordly power as the days go by.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/09_iha_tvA.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-Here let each serve thee readily,  
-That shinest in the darkness, as the days go by;  
-Happy and joyous may we attend thee 
-That dost surpass the glories of men.  
-</details>
+
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/10_yastvA_svashvaH.md">
 <details open><summary><h2>१० यस्त्वा स्वश्वः ...{Loading}...</h2></summary>
@@ -201,13 +173,9 @@ That dost surpass the glories of men.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/10_yastvA_svashvaH.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-He who with good steeds and rich in gold  
-Approacheth thee, O Agni, with a rich chariot,  
-His protector thou art, the comrade of him  
-Who duly offereth thee glad reception.
-</details>
+
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/11_maho_rujAmi.md">
 <details open><summary><h2>११ महो रुजामि ...{Loading}...</h2></summary>
@@ -220,13 +188,9 @@ Who duly offereth thee glad reception.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/11_maho_rujAmi.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-The great I overcome [4] through kinship and my songs;  
-That hath descended to me from Gotama, my sire;  
-Pay heed to this song of ours,  
-O Hotr, most youthful, skilful, friend of the house.
-</details>
+
 
 ### किरणकीर्तिः
 
@@ -241,13 +205,9 @@ O Hotr, most youthful, skilful, friend of the house.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/12_asvapnajastaraNayaH_sushevA.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-Sleepless, speedy, propitious,  
-Unwearied, never hostile, unexhausted,  
-May thy guardians, O Agni, taking their places here united,  
-Protect us, O wise one.
-</details>
+
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md">
 <details open><summary><h2>१३ ये पायवो ...{Loading}...</h2></summary>
@@ -262,13 +222,9 @@ Protect us, O wise one.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/13_ye_pAyavo.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-In Thy guardians, O Agni, who seeing,  
-Guarded from ill the blind Mamateya,  
-He of all wisdom guarded these kindly ones;  
-The foes that were fain to deceive could not [5] deceive.
-</details>
+
 
 ## प्रतिज्ञानुवर्तनम्
 
@@ -283,13 +239,8 @@ The foes that were fain to deceive could not [5] deceive.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/14_tvayA_vayaM.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-In unison with thee, aided by thee,  
-Under thy leadership, let us gain strength;  
-Fulfil both our desires, O truthful one;  
-Perform it forthwith, O fearless one.
-</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/15_ayA_te.md">
 <details open><summary><h2>१५ अया ते ...{Loading}...</h2></summary>
@@ -302,13 +253,8 @@ Perform it forthwith, O fearless one.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/15_ayA_te.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-With this fuel, O Agni, will we serve thee;  
-Accept the song of praise recited for thee;  
-Burn those that revile, the Raksases; guard us,  
-From the foe, the reviler, O rich in friends, from blame.
-</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/087/01_raxohaNaM_vAjinamA.md">
 <details open><summary><h2>०१ रक्षोहणं वाजिनमा ...{Loading}...</h2></summary>
@@ -321,13 +267,9 @@ From the foe, the reviler, O rich in friends, from blame.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/087/01_raxohaNaM_vAjinamA.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-I touch the steed that slayeth the Raksases;  
-I go for shelter to the friend most spreading;  
-May Agni, enkindled with our offerings, sharpening (his dart)  
-Guard us by day, [6] from harm and by night.
-</details>
+
 
 ## रक्षोहाग्निध्यानम्
 
@@ -342,13 +284,8 @@ Guard us by day, [6] from harm and by night.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/09_vi_jyotiShA.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-With great radiance Agni shineth;  
-All things doth he reveal by his might;  
-He overcometh godless and malign enchantments  
-He sharpeneth his horns to pierce the Raksas.
-</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/10_uta_svAnAso.md">
 <details open><summary><h2>१० उत स्वानासो ...{Loading}...</h2></summary>
@@ -361,11 +298,10 @@ He sharpeneth his horns to pierce the Raksas.
 </details>
 </div>
 
-<details><summary>Keith</summary>
+<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/10_uta_svAnAso.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-Let the roarings of Agni rise to the heaven,  
-Sharp weapons to slay the Raksas;  
-In the carouse his radiance bursteth forth  
-The godless assailers cannot restrain him.
 
-</details>
+इति श्रीभट्टभास्करमिश्रविरेचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये प्रथमे काण्डे द्वितीयप्रपाठके चतुर्दशोनुवाकः ॥
+
+प्रथमकाण्डे द्वितीयप्रपाठकः समाप्तः ॥
+
