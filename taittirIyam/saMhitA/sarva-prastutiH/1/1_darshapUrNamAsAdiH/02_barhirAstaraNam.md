@@ -145,29 +145,11 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-दर्भस्तम्बम् उन्मार्ष्टि
+5दर्भस्तम्बमुन्मार्ष्टि - वर्षवृद्धमसीति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/varSha-vRddham.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-+++(हे दर्भस्तम्ब!)+++ व॒र्ष-वृ॑द्धम् असि। 
-</details>
-
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
-
-Thou art made to grow by the rains.
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-व॒र्षवृ॑द्धमसि ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-5दर्भस्तम्बमुन्मार्ष्टि - वर्षवृद्धमसीति ॥ वर्षेण वर्धितमसि । पूर्ववण्णिलुक् (उ.सू. 190) । 'तृतीया कर्मणि' (पा.सू. 6.2.48) इति पूर्वपदप्रकृतिस्वरत्वम् । वर्षशब्द उञ्छादित्वादन्तोदात्तः (पा.सू. 6.1.160) ॥
-</details>
 
 ____
 

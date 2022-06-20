@@ -3,10 +3,17 @@ title: ०६ व्रीहिपेषणम्
 
 ---
 
+१० एकपदा त्रिष्टुप्  प्रजापतिर्ऋषिः
+
 ____
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/05_haviHproxaNAdiH/avadhUtaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+
+<details><summary>भट्टभास्करटीका</summary>
+
+1-2अवधूननोपस्तरणमन्त्रौ व्याख्यातौ (तै.सं. 1.1.5) ॥
+</details>
 
 
 ____
@@ -27,6 +34,7 @@ ____
 
 Thou art a bowl of rock, may the supporter of the sky recognize thee.
 </details>
+
 
 ____
 
