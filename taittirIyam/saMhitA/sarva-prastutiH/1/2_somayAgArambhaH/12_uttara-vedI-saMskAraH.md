@@ -168,7 +168,7 @@ come with the name of Ayus
 
 <details><summary>भट्टभास्करटीका</summary>
 
-6पुरीषमादत्ते - आयुषेति ॥ हे अग्ने पार्थिव! आयुषा ऽस्मभ्यं देयस्यायुषस्साधनेन नाम्ना नभ इत्यनेन त्वया विदितेनोपलक्षितः एहि आगच्छ, त्वामहं ग्रहीतुमारभ इति ॥
+6पुरीषमादत्ते - आयुषेति ॥ हे अग्ने (पार्थिव …)! आयुषा ऽस्मभ्यं देयस्यायुषस्साधनेन नाम्ना नभ इत्यनेन त्वया विदितेनोपलक्षितः एहि आगच्छ, त्वामहं ग्रहीतुमारभ इति ॥
 </details>
 
 
@@ -178,35 +178,17 @@ ________
 उत्तरवेद्यां निवपति।
 </details>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-－यत्तेऽना॑धृष्ट॒न्नाम॑ य॒ज्ञिय॒न्तेन॒ त्वाऽऽद॒धेऽग्ने॑ अङ्गिरो॒ यो द्वि॒तीय॑स्यान्तृ॒तीय॑स्याम्पृथि॒व्यामस्यायु॑षा॒ नाम्नेहि॒ यत्तेऽना॑धृष्ट॒न्नाम॑ [22]य॒ज्ञिय॒न्तेन॒ त्वाऽऽद॑धे
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarvASh_TIkAH/1/2/12_uttara-vedI-saMskAraH/yatte.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-यत् ते ऽना॑धृष्ट॒न् नाम॑ य॒ज्ञिय॒न् +++(नभ इत्यादि)+++ तेन॒ त्वा ऽऽद॑धे ।  
-</details>
-
-<details><summary>Keith</summary>
-
-Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-यत्तेऽना॑धृष्ट॒न्नाम॑ य॒ज्ञिय॒न्तेन॒ त्वाऽऽद॑धे ।
-</details>
 
 <details><summary>भट्टभास्करटीका</summary>
-
-7-9उत्तरवेद्यां निवपति - यत्त इति ॥ हे अग्ने यत्ते तव अनाधृष्टमनभिभूतं केनचिदपि राक्षसादिना, यज्ञियं यज्ञार्हं यज्ञसम्पादनसमर्थं नाम नभ इत्येतत् । तेन त्वामादधे स्थापयामि । उत्तरवेद्यामाहवनीयधारणार्थं पुरीषात्मना त्वयैवायं धारयितुं शक्यते न हि त्वदन्यस्तद्धारयितुं समर्थः । तस्मादेतन्नाम बिभ्रदुत्तरवेद्यामात्मनो महिमानम् आहवनीयं धारयितुं सन्निहितो भूत्वा यज्ञं सम्पादयेति भावः ।
 
 एवं द्वितीयं तृतीयं च करोति ।    
 विदेरग्निर्नभो नामेत्यादिकं सर्वत्रानुवर्तते ।
 </details>
+
+
 
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -217,15 +199,30 @@ ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वि॒देर् - अ॒ग्निर् नभो॒ +++(इति ते)+++ नाम॑+] अग्ने॑ अङ्गिरो॒ यो द्वि॒तीय॑स्यां  [पृ॑थि॒व्याम् +++(अन्तरिक्षे)+++ असि ।  
-+++(include-स्थापनम् इष्यते।)+++ [आयु॑षा॒ नाम्नेहि॑ ।
-यत् ते ऽना॑धृष्ट॒न् नाम॑ य॒ज्ञिय॒न् +++(नभ इति)+++ तेन॒ त्वा ऽऽद॑धे । ]
 </details>
 
 <details><summary>Keith</summary>
 
 May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second earth.  
-+++(include-स्थापनम् इष्यते।)+++
 </details>
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+－यत्तेऽना॑धृष्ट॒न्नाम॑ य॒ज्ञिय॒न्तेन॒ त्वाऽऽद॒धेऽग्ने॑ अङ्गिरो॒ यो द्वि॒तीय॑स्यान्तृ॒तीय॑स्याम्पृथि॒व्यामस्यायु॑षा॒ नाम्नेहि॒ यत्तेऽना॑धृष्ट॒न्नाम॑ [22]य॒ज्ञिय॒न्तेन॒ त्वाऽऽद॑धे
+</details>
+
+<details><summary>मूलम्</summary>
+[ वि॒देर॒ग्निर्नभो॒ नाम] अग्ने॑ अङ्गिरो॒ यो द्वि॒तीय॑स्यां  
+</details>
+
+<details><summary>भट्टभास्करटीका</summary>
+
+अयं तु विशेषः, द्वितीयपर्याये 'अग्ने अङ्गिरो यो द्वितीयस्यां पृथिव्यामसि' इति भवति । द्वितीया पृथिवी अन्तरिक्षम् ।
+</details>
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarvASh_TIkAH/1/2/12_uttara-vedI-saMskAraH/yatte.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -236,15 +233,25 @@ ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वि॒देर् - अ॒ग्निर् नभो॒ +++(इति ते)+++ नाम॑+] अग्ने॑ अङ्गिरो॒ यस् तृ॒तीय॑स्याम्  [पृ॑थि॒व्याम् +++(दिव्य्)+++ असि ।  
-+++(include-स्थापनम् इष्यते।)+++ [आयु॑षा॒ नाम्नेहि॑ ।
-यत् ते ऽना॑धृष्ट॒न् नाम॑ य॒ज्ञिय॒न् +++(नभ इति)+++ तेन॒ त्वा ऽऽद॑धे । ]
 </details>
 
 <details><summary>Keith</summary>
 
 May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third earth.  
-+++(include-स्थापनम् इष्यते।)+++
 </details>
+
+<details><summary>मूलम्</summary>
+
+[ वि॒देर॒ग्निर्नभो॒ नाम अग्ने॑ अङ्गिरो॒ ] यस्तृ॒तीय॑स्याम् पृथि॒व्यामस्यायु॑षा॒ नाम्नेहि॑ । यत्तेऽना॑धृष्ट॒न्नाम॑ य॒ज्ञिय॒न्तेन॒ त्वाऽऽद॑धे ।
+</details>
+
+<details><summary>भट्टभास्करटीका</summary>
+
+तृतीये तु, 'अग्ने अङ्गिरो यस्तृतीयस्यां पृथिव्यामसि' इति । तृतीया पृथिवी द्युलोकः पृथुत्वात्पृथिवी । समानमन्यत् । 'विदेरग्निर्नभो नामाग्ने अङ्गिर इति त्रिर्हरति' इति ब्राह्मणम् ॥
+</details>
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarvASh_TIkAH/1/2/12_uttara-vedI-saMskAraH/yatte.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -264,21 +271,32 @@ Thou art a lioness;
 thou art a buffalo.
 </details>
 
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+सि॒ꣳ॒हीर॑सि महि॒षीर॑सि
+</details>
+
+<details><summary>मूलम्</summary>
+
+सि॒ꣳ॒हीर॑सि ।  
+महि॒षीर॑सि ।
+</details>
+
+<details><summary>भट्टभास्करटीका</summary>
+
+10पुरीषं सम्प्रयौति - सिंहीरिति ॥ हे उत्तरवेदे सिंहीरसि सहनात्सिंही शत्रूणामभिभवित्रीति । हिनस्तेर्वाद्यन्तविपर्ययः । सिंहीरूपं कृत्वा वा सिंही । ब्राह्मणं च भवति - 'तेभ्य उत्तरवेदिस्सिंहीरूपं कृत्वा' इत्यादि । व्यत्ययेन 'हल्ङ्याभ्यः' इति सुलोपो न प्रवर्तते ।
+
+किञ्च - महिषीरसि महती महनीया वा । 'अविमह्योष्टिषच्' । महति वा यागे सीदतीति महिषी । पृषोदरादिः, पूर्ववत्सुलोपाभावः । यस्मादीदृशी त्वमसि, तस्मात्त्रिलोकाग्निभिः पुरीषरूपैस्त्वां सम्प्रयौमीति ॥
+</details>
+
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-प्रथयति।।
+प्रथयति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/08_saMvApAdiH/uru.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-उरु+++(=विस्तृतं)+++ प्र॑थस्वो॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथताम् ।
-</details>
-
-<details><summary>Keith</summary>
-
-Extend wide; let the lord of the sacrifice extend wide for thee.
-</details>
 
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
