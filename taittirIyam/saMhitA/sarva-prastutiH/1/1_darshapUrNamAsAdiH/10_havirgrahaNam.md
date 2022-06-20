@@ -2,6 +2,8 @@
 title: १० हविर्ग्रहणम्
 
 ---
+७, ८. १० अनुष्टुप्, ९ त्रिष्टुप्, २० गायत्री ।  
+प्रजापतिर्ऋषिः
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -10,6 +12,11 @@ title: १० हविर्ग्रहणम्
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/pratyuShTam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+
+<details><summary>भट्टभास्करटीका</summary>
+
+1गार्हपत्ये स्रुवादीन् प्रतितपति - प्रत्युष्टमिति ॥ व्याख्यातम् (तै.सं. 1.1.2)
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -21,7 +28,6 @@ title: १० हविर्ग्रहणम्
 
 With Agni's keenest flame I burn you.
 </details>
-
 
 ____
 {{< figure src="/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/sruk-big-sruva-small.jpg" title="स्रुक्, स्रुवः" class="thumbnail">}}
