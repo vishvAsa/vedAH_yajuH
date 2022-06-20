@@ -7,13 +7,22 @@ short_title = "१३"
 
 उत्तरवेदिसमीपवर्ति-हविर्धान-प्रवर्तनम्, हविर्धान-मण्टपनिर्माणम्।
 
+३ विराट्गायत्री
+१ जगती
+६ द्विपदा त्रिष्टुप्
+४ गायत्री
+५, ८-९ त्रिष्टुप्
+एकपदा विराट्   
+सोमऋषिः
+
+
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-शालामुखीये ऽग्नौ शामित्रं जुहोति - युञ्जत इति जगत्या ॥
+शाला-मुखीये ऽग्नौ शामित्रं जुहोति - युञ्जत इति जगत्या ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 यु॒ञ्जते॒ मन॑ उ॒त यु॑ञ्जते॒ धियो॒  
 विप्रा॒ विप्र॑स्य +++(यजमानस्य)+++ बृह॒तो वि॑प॒श्चितः॑ ।  
@@ -28,6 +37,8 @@ The priests of the mighty wise priest;
 He alone, who knows the way, ordains their priestly functions;
 Great is the praise of the god Savitr.
 </details>
+
+
 
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
