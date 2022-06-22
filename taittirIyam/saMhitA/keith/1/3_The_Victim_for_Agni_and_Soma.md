@@ -3,32 +3,12 @@ title = "3 The Victim for Agni and Soma"
 
 +++
 ## 01
-### a
-On the impulse of the god Savity, with the arms of the Aśvins, with the hands of Pusan, I take thee; thou art the spade, thou art the woman.
-### b
-The Raksas is encompassed, the evil spirits are encompassed, here do I cut off the neck of the Raksas.
-### c
-He who hates us and whom we hate, here do I cut off his neck.
-### d
-To sky thee, to atmosphere thee, to earth thee!
-### e
-Pure be the world where the Pitrs sit.
-### f
-Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
-### g
-Thou art the seat of the Pitrs.
 ### h
-Support the sky, fill the atmosphere, make firm the earth.
 ### i
-May Dyutana Maruta set thee up according to the established law of Mitra and Varuna.
 ### k
-Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, winner of increase of wealth, I close in.
 ### l
-Strengthen the Brahmans, strengthen the nobles, strengthen offspring, strengthen increase of wealth.
 ### m
-With ghee, O sky and earth, be filled.
 ### n
-Thou art the seat of Indra, the shade of all folk.
 ### o
 May these our songs, O lover of song,
   

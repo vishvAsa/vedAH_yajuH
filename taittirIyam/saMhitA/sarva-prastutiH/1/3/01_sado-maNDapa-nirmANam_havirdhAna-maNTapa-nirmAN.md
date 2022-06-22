@@ -7,7 +7,7 @@ title = "०१ सदो-मण्डप-निर्माणम्, हवि
 
 
 
-## विनियोगः
+________
 <details><summary>भट्टभास्करटीका</summary>
 
 तत्रौदुम्बर्य-वट-परिलेखनार्थम् अभ्रिम्+++(=अग्नीध्र-खनित्रम्)+++ आदत्ते - देवस्य त्वेति ॥
@@ -46,7 +46,7 @@ with the hands of Pusan.
 </details>
 
 
-## विनियोगः
+________
 <details><summary>भट्टभास्करटीका</summary>
 
 तामभिमन्त्रयते - अभ्रिरसीति ॥ 
@@ -56,6 +56,11 @@ with the hands of Pusan.
 
 अभ्रि॑र्+++(=अग्नीध्र-खनित्रम्)+++ असि ।
 </details>
+<details><summary>English</summary>
+
+thou art the spade
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभ्रि॑रसि ।
@@ -67,13 +72,14 @@ with the hands of Pusan.
 यद् वा - अपो बिभर्तीत्य् **अभ्रिः**, यागसाधन-द्वारेण वृष्टिहेतुत्वात्, तीक्ष्णीकरणाय कर्मकारेण पायितोदकत्वाद्वा ।  
 अप्छब्द उपपदे बिभर्तेः 'अचः' इतीप्रत्ययः, बहुलवचनाद्गुणो न क्रियते, स्वरानवग्रहौ चिन्त्यौ । व्यत्ययो वा ।
 </details>
-<details><summary>English</summary>
 
-thou art the spade
-</details>
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नारि॑र् असि।
+</details>
+<details><summary>English</summary>
+
+thou art the woman.
 </details>
 <details><summary>मूलम्</summary>
 
@@ -83,14 +89,10 @@ thou art the spade
 
 कथं पुनरियं तीक्ष्णेति ज्ञायते? इत्याह - नारिरसि । नॄ नये, 'पुंसि संज्ञायां घः' । नरः नेता निपुणः कर्मकारः, तस्यापत्यमसि, तेनोत्पादतत्वात् । यद्वा - 'नयतेष्टिलोपश्च' इति ऋप्रत्यये ना, तस्यापत्यमिति बाह्वादेराकृतिगणत्वात् इञ्प्रत्ययः । एवं वा - यद्यपि तीक्ष्णतया हिंसिकासि, तथापि त्वं मम नारिरसि अरिर्न भवसि मित्रमेवासि ॥ 'सुप्सुपा' इति प्रतिषेधवचनो नशब्दस्समस्यते, सानुबन्धकश्चेन्नलोपेन भाव्यम्, अव्ययपूर्वपदप्रकृतिस्वरत्वं व्यत्ययेन, 'अव्यये नञ्कुनिपातानाम्' इति वचनात् । शान्त्यर्थं चैवमियमुच्यते, 'वज्र इव वा एषा यदभ्रिरभ्रिरसि नारिरसीत्याह शान्त्यै' इति ब्राह्मणम् ॥
 </details>
-<details><summary>English</summary>
-
-thou art the woman.
-</details>
 
 
 
-## विनियोगः
+________
 <details><summary>भट्टभास्करटीका</summary>
 
 तयावटं परिलिखति - परिलिखितमिति ॥ 
@@ -106,6 +108,13 @@ thou art the woman.
 परि॑लिखिता॒ अरा॑तयः ।  
 इ॒दम् अ॒हꣳ रख्ष॑सो ग्री॒वा अपि॑ कृन्तामि ।  
 यो᳚ऽस्मान् द्वेष्टि॒ यञ् च॑ व॒यन् द्वि॒ष्म- इ॒दम् अ॑स्य ग्री॒वा अपि॑ कृन्तामि ।
+</details>
+<details><summary>Keith</summary>
+
+The Raksas is enclosed,  
+the evil spirits are enclosed.  
+Thus I cut the neck of the Raksas.  
+Thus I cut the neck of him who hates us and whom we hate [1].
 </details>
 <details><summary>मूलम्</summary>
 
@@ -129,13 +138,6 @@ thou art the woman.
 
 तथा योऽस्मान् द्वेष्टि यं च वयं द्विष्मः तस्य द्वेष्टुः द्वेष्यस्य शत्रोः ग्रीवाः इदमपि कृन्तामि यदेतत्परिलिखामि । 'द्वौ वाव पुरुषौ' इत्यादि ब्राह्मणम् । इदमिति क्रियाविषेणत्वान्नपुंसकत्वम् ॥
 </details>
-<details><summary>Keith</summary>
-
-The Raksas is enclosed,  
-the evil spirits are enclosed.  
-Thus I cut the neck of the Raksas.  
-Thus I cut the neck of him who hates us and whom we hate [1].
-</details>
 </details>
 </div>
 <details><summary>भट्टभास्करटीका</summary>
@@ -145,7 +147,7 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 
 
 
-## विनियोगः
+________
 <details><summary>भट्टभास्करटीका</summary>
 
 अग्रादारभ्यौदुम्बरीं प्रोक्षति - दिवे त्वेति ॥
@@ -159,6 +161,10 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 अन्तरि॑ख्षाय त्वा  +++(प्रोक्षामि)+++ ।  
 पृ॒थि॒व्यै त्वा᳚ +++(प्रोक्षामि)+++ ।
 
+</details>
+<details><summary>Keith</summary>
+
+To sky thee, to atmosphere thee, to earth thee!
 </details>
 <details><summary>मूलम्</summary>
 
@@ -174,10 +180,6 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 </details>
 
 
-<details><summary>Keith</summary>
-
-To sky thee, to atmosphere thee, to earth thee!
-</details>
 </details>
 </div>
 <details><summary>भट्टभास्करटीका</summary>
@@ -185,7 +187,7 @@ To sky thee, to atmosphere thee, to earth thee!
 4-6 बर्हिःप्रोक्षणे व्याख्यातम् द्युलोकादिस्थित्यर्थं त्वां प्रोक्षामीत्यौदुम्बर्या अग्रमध्यमूलानि पृथक्पृथक्प्रोक्ष्यन्ते । 'परस्तादर्वाचीम्' इत्यादि ब्राह्मणम् ॥
 </details>
 
-## विनियोगः
+________
 <details><summary>भट्टभास्करटीका</summary>
 
 7अवटे अपोवनयति - शुन्धतामिति ॥ 
@@ -195,6 +197,11 @@ To sky thee, to atmosphere thee, to earth thee!
 
 शुन्ध॑ताल्ँ लो॒कᳶ पि॑तृ॒-षद॑नः ।
 </details>
+<details><summary>Keith</summary>
+
+Pure be the world where the Pitrs sit.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शुन्ध॑ताल्ँलो॒कᳶ पि॑तृ॒षद॑नः ।
@@ -203,13 +210,8 @@ To sky thee, to atmosphere thee, to earth thee!
 
 पितरस्सीदन्त्यस्मिन्निति पितृषदनः । अधिकरणे ल्युट्, कृदुत्तरपदप्रकृतिस्वरत्वम्, लित्स्वरेण सदनशब्द आद्युदात्तः, सुषामादित्वात्षत्वम् । ईदृशोयं लोकः अवटाख्योवकाशश्शुन्धताम् शुद्धो भवतु । व्यत्ययेनात्मनेपदम्, 'अदुपदेशात्' इति लसार्वधातुकानुदात्तत्वे धातुस्वरः । 'क्रूरमिव वा एतत्करोति यत्खनत्यपोवनयति शान्त्यै' `इति ब्राह्मणम् ॥
 </details>
-<details><summary>Keith</summary>
 
-Pure be the world where the Pitrs sit.
-</details>
-
-
-## विनियोगः
+________
 <details><summary>भट्टभास्करटीका</summary>
 
 8अवटे यवान्प्रक्षिपति - यवोसीति ॥ 
@@ -223,15 +225,21 @@ Pure be the world where the Pitrs sit.
 य॒वय॑+++(=अपनय)+++ +अ॒स्मद्-द्वेषः॑ ।    
 य॒वय॒ +अरा॑तीः ।
 </details>
-<details><summary>मूलम्</summary>
 
+<details><summary>Keith</summary>
 
+Thou art barley (yava);  
+bar (yavaya) from us foes,  
+bar evil spirits.
+</details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यवो॑ऽसि य॒वया॒स्मद्द्वेषः॑ [1] य॒वयारा॑तीः ।
 </details>
 
+
+<details><summary>मूलम्</summary>
 
 यवो॑ऽसि।  
 य॒वया॒स्मद्द्वेषः॑ ।    
@@ -248,13 +256,9 @@ Pure be the world where the Pitrs sit.
 
 किञ्च - अरातीः अदातॄन् शत्रूञ्श्च यवय । रातेः कर्तरि क्तिनि क्तिचि वा नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वम् । अस्मदीयांश्च शत्रून्नाशयेत्यर्थः । अपदात्परत्वादिदमाख्यार्तं न निहन्यते । 'ऊर्ग्वै यवः' इत्यादि बाह्मणम् ॥
 </details>
-<details><summary>Keith</summary>
-
-Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
-</details>
 
 
-## विनियोगः
+________
 <details><summary>भट्टभास्करटीका</summary>
 
 9तस्मिन् व्यतिषज्य बर्हिर्-मुष्टिं निदधाति - पितृणामिति ॥ 
@@ -266,6 +270,12 @@ Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
 पि॒तृ॒णाꣳ+++(=पितॄणाम्)+++ सद॑नमसि।  
 +++('नामन्यतरस्याम्' इति षष्ठीबहुवचनस्योदात्तत्वम्। )+++
 </details>
+
+<details><summary>Keith</summary>
+
+Thou art the seat of the Pitrs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पि॒तृ॒णाꣳ सद॑नम् असि।
@@ -276,28 +286,29 @@ Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
 </details>
 
 
-## विनियोगः
+________
 <details><summary>भट्टभास्करटीका</summary>
 
-10औदुम्बरीमुच्छ्रयति - उद्दिवमिति ॥ 
+10औदुम्बरीम् उच्छ्रयति - उद्दिवमिति ॥ 
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद् दिवꣵ॑ स्तभान   ।  
-आ +अ॒न्तरि॑ख्षम् पृण ।   
-पृ॒थि॒वीन् दृꣳ॑ह ।
-
+आ +अ॒न्तरि॑ख्षम् पृण+++(=पूरय)+++ ।   
+पृ॒थि॒वीन् दृꣳ॑ह ।+++(5)+++
 </details>
-<details><summary>मूलम्</summary>
 
+<details><summary>Keith</summary>
 
+Support the sky, fill the atmosphere, make firm the earth.
+</details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-उद्दिवꣵ॑ स्तभा॒नाऽन्तरि॑ख्षम्पृण पृथि॒वीन्दृꣳ॑ह 
+उद्दिवꣵ॑ स्तभा॒नाऽन्तरि॑ख्षम्पृण पृथि॒वीन्दृꣳ॑ह
 </details>
-
+<details><summary>मूलम्</summary>
 
 उद्दिवꣵ॑ स्तभान   ।  
 आन्तरि॑ख्षम्  पृण ।   
@@ -310,42 +321,50 @@ Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
 हे औदुम्बरि दिर्वं दिविष्ठानुत्तभान उत्तम्भय धारय । स्तन्भुस्सौत्रो धातुः, 'स्तन्भु स्तुन्भु' इति श्नाप्रत्ययः । 'हलश्श्नश्शानज्झौ' इति शानजादेशः । तथा अन्तरिक्षमन्तरिक्षस्थान् पृण प्रीणय । पृण प्रीणने इति तौदादिकः । तथा पृथिवीं पृथिवीस्थान् दृंह वर्धय । दृह दृहि वृद्धौ । पृथिवीशब्दो ङीषन्तोन्तोदात्तः ॥
 </details>
 
-## विनियोगः
+________
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+11प्राचनिकर्णामौदुम्बरीम् मिनोति - द्युतानस्त्वेति द्विपदया विराजा जगत्या वा ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्यु॒ता॒नस्त्वा॑ मारु॒तो मि॑नोतु ...
+द्यु॒ता॒नस्+++(=द्योतनशीलास्)+++ त्वा॑ मारु॒तो **मि॑नोतु**  
+मि॒त्रावरु॑णयोर् ध्रु॒वेण॒ धर्म॑णा।
+</details>
+<details><summary>Keith</summary>
+
+May Dyutana Maruta set thee up according to the established law of Mitra and Varuna.
 </details>
 
 <details><summary>मूलम्</summary>
 
 द्यु॒ता॒नस्त्वा॑ मारु॒तो मि॑नोतु ...
+मि॒त्रावरु॑णयोर्ध्रु॒वेण॒ धर्म॑णा ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
 11प्राचनिकर्णामौदुम्बरीम्मिनोति - द्युतानस्त्वेति द्विपदया विराजा जगत्या वा ॥ द्योतनशीलो द्युतानः । द्युतेस्ताच्छीलिकश्चानश् । 'बहुलं छन्दसि' इति शपो लुक् । यद्वा - ' युधिबुधिदृशां किच्च' इति विधीयमान आनच्प्रत्ययो बहुलवचनाद्द्युतेरपि भवति । सर्वथा सार्वधातुकत्वाभावात् 'अनुदात्तेतः' इति लसार्वधातुकानुदात्तत्वस्याप्रवृत्तेः 'चितः' इत्यन्तोदात्तत्वमेव प्रवर्तते । हे औदुम्बरि द्युतानो मारुतस्त्वां मिनोतु अवटे प्रक्षिपतु; द्युताननामा वा मारुतस्त्वां मिनोतु ॥ 'द्युतानो ह स्म वै' इत्यादि ब्राह्मणम् । डु मिञ् प्रक्षेपणे, सौवादिकः । मरुच्छब्दात्प्रज्ञादित्वात् स्वार्थिकोण्प्रत्ययः ।  
-</details>
-
-## विनियोगः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-मि॒त्रावरु॑णयोर्ध्रु॒वेण॒ धर्म॑णा  +++(मिनोतु)+++ ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-मि॒त्रावरु॑णयोर्ध्रु॒वेण॒ धर्म॑णा  +++(मिनोतु)+++ ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
 
 मित्रावरुणसम्बन्धिना ध्रुवेण नित्येन धर्मणा कर्मणा धारणेन वा त्वां मिनोतु । 'देवताद्वनेद्व च' मित्रावरुणशब्दे पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । 'उदरं वै सदः' इत्यादि ब्राह्मणम् ॥
 </details>
 
-## विनियोगः
+________
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+12पुरीषेणौदुम्बरीं प्रदक्षिर्णं पर्यूहति - ब्रह्मवनिमिति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वनि॑न्त्वा  ख्षत्र॒वनिꣳ॑ सुप्रजा॒वनिꣳ॑ रायस्पोष॒वनि॒म्पर्यू॑हामि।
+ब्र॒ह्म॒-वनि॑न् त्वा  ख्षत्र॒-वनिꣳ॑ सुप्रजा॒-वनिꣳ॑ रायस्-पोष॒-वनि॒म् पर्यू॑हामि।
+</details>
+
+<details><summary>Keith</summary>
+
+Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, winner of increase of wealth, I close in.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -358,7 +377,12 @@ Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
 12पुरीषेणौदुम्बरीं प्रदक्षिर्णं पर्यूहति - ब्रह्मवनिमिति ॥ ब्रह्म ब्राह्मणान्वनति सम्भजत इति ब्रह्मवनिः । 'छन्दसि वनसनरक्षिमथाम्' इतीन्प्रत्ययः, कृदुत्तरपदप्रकृतिस्वरत्वम् । एवं क्षत्रवनिं सप्रजावनिं रायस्पोषवनिमिति । 'षष्ठ्या आक्रोशे' इत्यनाक्रोशेपि बहुलवचनात् षष्ठ्या अलुक्, 'षष्ठ्याः पतिपुत्र' इति विसर्जनीयस्य सत्वम् । एवंगुणां त्वामौदुम्बरीं परितस्सर्वत ऊहामि स्थापयामि, पुरीषेणावटं पूरयित्वा स्थिरां करोमीत्यर्थः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' इति परस्मैपदम् ॥
 </details>
 
-## विनियोगः
+________
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+13 मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥
+</details>
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -374,6 +398,12 @@ Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
 रा॒यस्पोष॑न्दृꣳह ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Strengthen the Brahmans, strengthen the nobles, strengthen offspring, strengthen increase of wealth.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑ दृꣳह ।  
@@ -387,10 +417,19 @@ Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
 13 मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥ हे मैत्रावरुणदण्ड ब्राह्मणादीन् दृंह वर्धय । प्रजाशब्दः कृदुत्तरपदप्रकृतिस्वेरणान्तोदात्तः । रैशब्दात्परस्याः षष्ठ्याः 'ऊडिदम्' इत्यादिनोदात्तत्वम् ॥
 </details>
 
-## विनियोगः
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+14औदुम्बरी-विशाखयोर् मध्ये विशाखाग्रयोर् वा हिरण्यं निधाय स्रुवेणाभिजुहोति - घृतेनेति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृ॒तेन॑ द्यावापृथिवी॒ आ पृ॑णेथाम् ।
+</details>
+<details><summary>Keith</summary>
+
+With ghee, O sky and earth, be filled.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -400,13 +439,22 @@ Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
 
 <details><summary>भट्टभास्करटीका</summary>
 
-14औदुम्बरीविशाखयोर्मध्ये विशाखाग्रयोर्वा हिरण्यं निधाय स्रुवेणाभिजुहोति - घृतेनेति ॥ हे द्यावापृथिवीस्थनीये औदुम्बरीमूलाग्रे घृतेनात्मानमापृणेथां प्रीणयतं । द्यावापृथिव्यामेव वा उदकन प्रीणयतम् । 'द्यावापृथिवी एव रसेनानक्ति' `इति ब्राह्मणम् । पृणातेर्व्यत्ययेनात्मनेपदम् ॥
+14औदुम्बरी-विशाखयोर् मध्ये विशाखाग्रयोर् वा हिरण्यं निधाय स्रुवेणाभिजुहोति - घृतेनेति ॥ हे द्यावापृथिवीस्थनीये औदुम्बरीमूलाग्रे घृतेनात्मानमापृणेथां प्रीणयतं । द्यावापृथिव्यामेव वा उदकन प्रीणयतम् । 'द्यावापृथिवी एव रसेनानक्ति' `इति ब्राह्मणम् । पृणातेर्व्यत्ययेनात्मनेपदम् ॥
 </details>
 
-## विनियोगः
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+15मध्यम छदिर्निदधाति - इन्द्रस्येति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्र॑स्य॒ सदो॑ऽसि ।
+</details>
+<details><summary>Keith</summary>
+
+Thou art the seat of Indra, the shade of all folk.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -419,7 +467,7 @@ Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
 15मध्यम छदिर्निदधाति - इन्द्रस्येति ॥ इन्द्रस्य सदः सदनं गृह असि । 'ऐन्द्रं हि देवतया सदः' `इति ब्राह्मणम् ॥
 </details>
 
-## विनियोगः
+________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि॒श्व॒ज॒नस्य॑ छा॒या ।
@@ -453,7 +501,7 @@ Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
 किञ्च - वृद्धायुर्दीर्घायुः । 'छन्दसणिः' इत्युण्प्रत्ययान्तेन बहुव्रीहिः । ईदृशं त्वामनु वृद्धयस्समृद्धयो भवन्तु । अनोर्लक्षणे भागे वा कर्मप्रवचनीयत्वम् । यत्र त्वं तत्र समृद्धयो भवन्त्विति यावत् । त्वामेव भजन्तामिति वा । सदसि हि सर्वाः स्तुतयः क्रियन्ते सर्वाश्च समृद्धयस्सम्पद्यन्ते । अपि च जुष्टयस्सेवा अस्माभिः क्रियमाणास्तव जुष्टा इष्टा भवन्तु । 'नित्यं मन्त्रे' इति जुष्टशब्दआद्युदात्तः ॥
 </details>
 
-## विनियोगः
+________
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -478,7 +526,7 @@ Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
   - [दक्षिणबाहौ कुशमुपसङ्गृह्य स्यन्द्यां प्रवर्तयति - विष्णोस्स्यूरिति ॥ विष्णोः स्यूः सेवनी त्वमसि यज्ञस्य । षिवु तन्तुसन्ताने, 'क्विप्च' इति क्विप् 'छ्वोश्शूडनुनासिके च' इत्यूठ् ॥]
 </details>
 
-## विनियोगः
+________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्र॑स्य ध्रु॒वम॑सि ।
@@ -496,7 +544,7 @@ Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
   - [ द्वारग्रन्थिं करोति - विष्णोर्ध्रुवमसीति ॥ विष्णुना भ्रुवमचलितं करणीयमसि ॥]
 </details>
 
-## विनियोगः
+________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐ॒न्द्रम॑सि ।  

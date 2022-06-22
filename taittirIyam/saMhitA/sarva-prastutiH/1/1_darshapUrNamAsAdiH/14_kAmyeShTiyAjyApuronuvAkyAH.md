@@ -181,8 +181,7 @@ ____
 
 </details>
 </div>  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/189/02_agne_tvaM.md">
-</div>  
+ </div>  
 
 ____
 ## अहिताग्नाव् अव्रत्यमिव चरिते
