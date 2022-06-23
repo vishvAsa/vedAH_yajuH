@@ -440,23 +440,23 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 </div>  
 
 _____________________________
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/01_pavamAnas_suvarjanaH.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/02_punantu_mA.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/03_jAtavedapH_pavitravat.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/04_yat_te.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/05_ubhAbhyAn_deva.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/06_vaishvadevI_punatI.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/07_vaishvAnaro_rashmibhir.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/08_bRhadbhis_savitas.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/09_yena_devA.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/10_yapH_pAvamAnIr.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/11_pAvamAnIr_yo.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/12_pAvamAnIs_svastyayanIH.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/13_pAvamAnIr_dishantu.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/14_pAvamAnIs_svastyayanIH.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/15_yena_devApH.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/16_prAjApatyam_pavitram.md"></div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/17_indras_sunItI.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/01_pavamAnas_suvarjanaH.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/02_punantu_mA.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/03_jAtavedapH_pavitravat.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/04_yat_te.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/05_ubhAbhyAn_deva.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/06_vaishvadevI_punatI.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/07_vaishvAnaro_rashmibhir.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/08_bRhadbhis_savitas.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/09_yena_devA.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/10_yapH_pAvamAnIr.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/11_pAvamAnIr_yo.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/12_pAvamAnIs_svastyayanIH.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/13_pAvamAnIr_dishantu.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/14_pAvamAnIs_svastyayanIH.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/15_yena_devApH.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/16_prAjApatyam_pavitram.md"></div>
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/17_indras_sunItI.md"></div>
 
 _____________________________
 

@@ -2,56 +2,16 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-### i
-Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
-### k
-I bestrew those which slay the Raksas, which slay the spell, and which are of Visnu.
-### l
-I pour the libation over those which slay the Raksas, which slay the spell, and which are of Visnu.
+
 ### m
-I lay down the two Which slay the Raksas, which slay the spell, and which are of Visnu.
 ### n
-I surround the two which slay the Raksas, which slay the spell, and which are of Visnu.
 ### o
-I bestrew the two which slay the Raksas, which slay the spell, and which are of Visnu.
+
 ### p
-The two which slay the Raksas, which slay the spell, and which are of Visnu.
-### q
-Thou art great, with a great pressing stone; call forth to Indra with a great voice.
-## 03
-### a
-Thou I art the expanding, the carrier.
-### b
-Thou art the bearer which carrieth the offering.
-### c
-Thou art the savoury, the wise.
-### d
-Thou art Tutha, the all-knower.
-### e
-Thou art Uśij, the wise.
-### f
-Thou art Anghari, Bamhhari.
-### g
-Thou art the seeker of aid, the worshipper.
-### h
-Thou art the bright, the Marjaliya.
-### i
-Thou art the king, Kyśanu.
-### k
-Thou art the purifying, around which men must sit.  
-1 Thou art the impetuous, the cloudy.
-### m
-Thou art the untouched, the preparer of the offering.
-### n
-Thou art be whose home is right, whose light is the heaven.
-### o
-Thou art be whose light is the Brahman, whose home is the heaven.
-### p
-Thou art the goat with one foot.
+
 ### q
 Thou art the dragon of the deep.
 ### r
-With thy dread countenance guard me, Agni; content me; hurt me not.
 ## 04
 ### a
 Thou, O Soma, art the giver of wide protection from hostility, brought about by ourselves or by others; hail!
