@@ -2,38 +2,14 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-## 01
-### h
-### i
-### k
-### l
-### m
-### n
-### o
-May these our songs, O lover of song,
-  
-Encompass thee on all sides,  
-Strengthening thee whose life is strong;  
-May they be dear delights.
-### p
-Thou art the string of Indra; thou art the fixed point of Indra.
-### q
-Thou art of Indra.
-### r
-To Indra thee!
 ## 02
+
 ### a
-I dig those which slay the Raksas, which slay the spell, which  
-are of Visnu.
 ### b
-Here do I cast out the spell which an equal or an unequal hath  
-buried against us.
 ### c
-Here do I overthrow him who equal or unequal is ill-disposed to us.
 ### d
-The spell is overcome by the Gayatri metre.
 ### e
-What is here? Good. Let it be ours.
+ Let it be ours.
 ### f
 Thou art Viraj, slaying our rivals; thou art Samraj, slaying our foes; thou art Svaraj, slaying the enemy; thou art Viśvaraj, slayer of all destructive things [1].
 ### g
