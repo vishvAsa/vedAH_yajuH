@@ -2,17 +2,6 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-
-### m
-### n
-### o
-
-### p
-
-### q
-
-### r
-## 04
 ### a
 Thou, O Soma, art the giver of wide protection from hostility, brought about by ourselves or by others; hail!
 ### b
