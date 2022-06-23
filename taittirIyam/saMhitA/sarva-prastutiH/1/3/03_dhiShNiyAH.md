@@ -440,7 +440,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒जो᳚ऽस्येक॑पात् ।
+अ॒जो᳚ऽस्येक॑पात् ।  
++++(पूर्वप्रोष्ठपद-नक्षत्र-दैवतम्। ३५००BCE इति समये सूर्यस्य +उत्तरायणारम्भस्थानम्। )+++
 </details>
 
 <details><summary>Keith</summary>
@@ -462,10 +463,21 @@ Thou art the goat with one foot.
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/03_dhiShNiyAH/raudreNa.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-________
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+16पुराणगार्हपत्यम् उपतिष्ठते, यं प्रहास्यन्तो भवन्ति - अहिरसीति ॥
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहि॑रसि बु॒ध्नियः॑ ।  
++++(उत्तरप्रोष्ठपदानां देवो ऽहिर् बुध्नियः।)+++
+</details>
+<details><summary>Keith</summary>
+
+Thou art the dragon of the deep.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -480,4 +492,8 @@ ________
 रौद्रेणेत्यादि व्याख्यातं सर्वत्रानुषज्यते ॥
 
 </details>
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/03_dhiShNiyAH/raudreNa.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 इति तृतीये तृतीयोनुवाकः ॥  

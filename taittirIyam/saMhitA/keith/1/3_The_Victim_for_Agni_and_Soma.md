@@ -10,7 +10,7 @@ title = "3 The Victim for Agni and Soma"
 ### p
 
 ### q
-Thou art the dragon of the deep.
+
 ### r
 ## 04
 ### a
