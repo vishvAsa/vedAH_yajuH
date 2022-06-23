@@ -2,20 +2,6 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-## 02
-
-### a
-### b
-### c
-### d
-### e
- Let it be ours.
-### f
-Thou art Viraj, slaying our rivals; thou art Samraj, slaying our foes; thou art Svaraj, slaying the enemy; thou art Viśvaraj, slayer of all destructive things [1].
-### g
-I sprinkle those which slay the Raksas, which slay the spell, and which are of Visnu.
-### h
-I pour down those which slay the Raksas, which slay the spell, and which are of Visnu.
 ### i
 Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
 ### k
