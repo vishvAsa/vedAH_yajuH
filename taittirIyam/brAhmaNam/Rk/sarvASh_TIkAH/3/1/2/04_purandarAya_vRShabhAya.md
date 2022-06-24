@@ -4,8 +4,8 @@ title = "04 पुरन्दराय वृषभाय"
 +++
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/anUrAdhAH.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/anUrAdhAH.png)
 +++(α, σ, and τ Scorpionis इति केचित्। Antares इत्यन्ये - द्वितीया रोहिणीवेति ब्राह्मणम्।)+++
 </details>
 

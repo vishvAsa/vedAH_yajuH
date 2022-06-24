@@ -4,8 +4,8 @@ title = "10 एवा न"
 +++
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/punarvasU.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/punarvasU.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/punarvasU.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/punarvasU.png)
 +++(α , β Geminorum - Castor and Pollux)+++
 </details>
 

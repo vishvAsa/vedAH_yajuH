@@ -5,8 +5,8 @@ title = "28 नख्षत्राणामधिपत्नी"
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/vishAkhA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/vishAkhA.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/vishAkhA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/vishAkhA.png)
 
 α, β Librae। रामायणानुसारम् इक्ष्वाकूणां नक्षत्रम् - 6.4.51
 </details>

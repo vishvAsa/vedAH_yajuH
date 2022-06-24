@@ -5,8 +5,8 @@ title = "12 उभौ लोकौ"
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/abhijit.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/abhijit.png"  class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/abhijit.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/abhijit.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/abhijit.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/abhijit.png)
 +++(Vega)+++
 </details>
 

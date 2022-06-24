@@ -4,8 +4,8 @@ title = "06 अहर्नो अद्य"
 +++
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/mUlam.png"  class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/mUlam.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/mUlam.png)
 
 +++(ζ, η, θ, ι, κ, λ, and ν Scorpionis। मूलायाङ्खल्व् आकाशगङ्गाकेन्द्रम् अपि वर्तते!)+++
 </details>

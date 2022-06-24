@@ -4,8 +4,8 @@ title = "22 चत्वार एकमभिकर्म"
 +++
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/proShThapada.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png"  class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/proShThapada.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/proShThapada.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png)
 +++(γ Pegasi and α Andromedae)+++
 
 - यदा मृगशीर्षे बभूव विषुवस्थानम्, अत्रासीद् दक्षिणायनारम्भः। विश्व-स्कम्भमूलस्थो ऽहिर्बुध्नियः। स च प्रोष्ठपदास्व् अपि कल्पितः प्रायेण तेनैव कारणेन।

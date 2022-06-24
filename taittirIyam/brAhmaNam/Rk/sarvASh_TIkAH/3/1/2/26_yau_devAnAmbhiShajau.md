@@ -5,8 +5,8 @@ title = "26 यौ देवानाम्भिषजौ"
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/ashvinau.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/ashvinau.png"  class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/ashvinau.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/ashvinau.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/ashvinau.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/ashvinau.png)
 +++(β and α Arietis)+++
 
 - "अश्विनौ व्यात्तम्" इत्युत्तरनारयणे। भरणीविषुवकाले। विवरणानि [अत्र](/jyotiSham/naxatram/chAndra-naxatram/)।

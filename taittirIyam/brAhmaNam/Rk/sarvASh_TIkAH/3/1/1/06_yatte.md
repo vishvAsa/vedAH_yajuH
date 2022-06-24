@@ -4,9 +4,9 @@ title = "06 यत्ते"
 +++
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/mRgashIrSha.png" title="मृगशीर्षम्" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/mRgashIrSham.png" title="मृगशीर्षम्" class="thumbnail">}}  
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/mRgashiras-tilak.png" title="मृगशीर्षम् (Tilak)" class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/mRgashIrSha.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/mRgashIrSha.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/mRgashIrSham.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/mRgashIrSham.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/mRgashiras-tilak.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/mRgashiras-tilak.png)
 +++(Orion belt)+++
 
 - पुरा प्रजापतिना सम्बद्धम्। "प्रजापतेर् यत् सहजम् पुरस्तात्" इत्यनेन मृगशीर्षे ऽव्यङ्गस्योल्लेखो विशुवकाल इति केचित् - (~Apr 26 Julian 4500 BCE  [TW](https://twitter.com/blog_supplement/status/664525633217830915))।

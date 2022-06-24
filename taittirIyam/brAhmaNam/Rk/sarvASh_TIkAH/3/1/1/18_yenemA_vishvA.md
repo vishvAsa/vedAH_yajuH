@@ -4,8 +4,8 @@ title = "18 येनेमा विश्वा"
 +++
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-phAlgunyau.png" title="फल्गु॑न्यः" class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-phAlgunyau.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-phAlgunyau.png)
 +++(=δ, θ Leonis)+++
 
 - अत्र वै यदा चन्द्रमा ऽवर्तत ३००० BCE इति वर्षे, तदाभूद् वत्सरारम्भः।

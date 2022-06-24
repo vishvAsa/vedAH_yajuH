@@ -5,8 +5,8 @@ title = "18 यज्ञन्नो राजा"
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/shatabhiShaj.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/shatabhiShaj.png"  class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/shatabhiShaj.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/shatabhiShaj.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/shatabhiShaj.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/shatabhiShaj.png)
 +++(Sadachbia = γ Aquarii इति केचित्। Fomalhaut स्याद् इत्यन्ये।)+++
 </details>
 

@@ -4,8 +4,8 @@ title = "24 तन्नस्त्वष्टा तदु"
 +++
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/chitrA.png" title="चित्रा" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/chitrA.png" title="चित्रा" class="thumbnail">}}
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/chitrA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/chitrA.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/chitrA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/chitrA.png)
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>

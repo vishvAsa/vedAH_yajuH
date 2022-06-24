@@ -5,8 +5,8 @@ title = "16 ये अग्निदग्धा"
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" title="मघा" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/maghAH.png" title="मघा" class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/maghAH.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/maghAH.png)
 
 - Regulus इति केचित्। " 6 stars - entire sickle of Leo" इत्यन्ये।
 </details>

@@ -5,8 +5,8 @@ title = "08 हेती रुद्रस्य"
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/mRgashIrSha.png" title="आ॒र्द्रा" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/ArdrA.png" title="आ॒र्द्रा" class="thumbnail">}}
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/mRgashIrSha.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/mRgashIrSha.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/ArdrA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/ArdrA.png)
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>

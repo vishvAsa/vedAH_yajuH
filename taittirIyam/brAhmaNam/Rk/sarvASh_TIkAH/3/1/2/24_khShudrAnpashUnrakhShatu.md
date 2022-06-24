@@ -5,8 +5,8 @@ title = "24 ख्षुद्रान्पशून्रख्षतु"
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/revatI.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/revatI.png"  class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/revatI.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/revatI.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/revatI.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/revatI.png)
 +++(ζ Piscium)+++
 </details>
 

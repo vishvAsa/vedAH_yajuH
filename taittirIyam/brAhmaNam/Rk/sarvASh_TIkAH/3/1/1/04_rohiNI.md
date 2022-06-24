@@ -4,8 +4,8 @@ title = "04 रोहिणी"
 +++
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/kRttikA.png" title="रोहि॒णी" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/rohiNI.png" title="रोहि॒णी" class="thumbnail">}}  
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/kRttikA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/kRttikA.png)
+[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/rohiNI.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/rohiNI.png)
 +++(Aldebaran। )+++
 
 - रोहिद्वर्णा नाम्नैव। ब्रह्महृदयं = capella = β taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।
