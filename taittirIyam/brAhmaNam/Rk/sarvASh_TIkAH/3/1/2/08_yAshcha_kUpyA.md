@@ -2,6 +2,16 @@
 title = "08 याश्च कूप्या"
 
 +++
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/aShADhAH.png"  class="thumbnail">}}  
+{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-aShADhAH.png"  class="thumbnail">}}  
+
++++(δ, γ, η and ε Sagittarii। जलरूपाया आकाशङ्गङ्गायाः केन्द्रम् अस्य पार्श्वे।)+++
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 याश्च॒ कूप्या॒ याश्च॑ ना॒द्या᳚स्समु॒द्रियाः᳚ ।   

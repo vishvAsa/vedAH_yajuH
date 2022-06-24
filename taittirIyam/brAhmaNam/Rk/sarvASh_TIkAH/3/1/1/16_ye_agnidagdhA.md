@@ -2,6 +2,22 @@
 title = "16 ये अग्निदग्धा"
 
 +++
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" title="मघा" class="thumbnail">}}
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/maghAH.png" title="मघा" class="thumbnail">}}  
+
+- Regulus इति केचित्। " 6 stars - entire sickle of Leo" इत्यन्ये।
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+- "Atharvaveda Nakṣatra sūkta states that the summer solstice happened in this asterism pointing to a period of ~4400 YBP"
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 ये अ॑ग्निद॒ग्धा येऽन॑ग्निदग्धाः ।  

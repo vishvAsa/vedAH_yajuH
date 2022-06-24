@@ -2,6 +2,23 @@
 title = "14 ये रोचने"
 
 +++
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/AshreShA.png" title="आश्रेषाः" class="thumbnail">}}
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/AshreShAH.png" title="आश्रेषाः" class="thumbnail">}}  
+
+- δ, ε, η, ρ, σ, θ Hydrae
+- वेदाङ्गज्योतिषानुसारम् अस्य मध्य आसीद् अयनारम्भः ~ ११०० BCE इत्यस्मिन्।
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+- "It corresponds to the head of the Greek constellation of Hydra, suggesting that the link to a snake goes back to early Indo-European times. Āśleṣā is specifically associated with the head of the snake. Hence, the 6 stars should correspond to θ , ζ , ε , δ , σ , η Hydrae."
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 ये रो॑च॒ने सूर्य॒स्यापि॑ स॒र्पाः ।   

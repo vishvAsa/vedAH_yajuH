@@ -2,6 +2,17 @@
 title = "20 भगो ह"
 
 +++
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" title="फल्गुन्यः" class="thumbnail">}}
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-phAlgunyau.png" title="फल्गुन्यः" class="thumbnail">}}  
+
+Denebola - β, 93 Leonis
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 भगो॑ ह दा॒ता भग॒ इत्प्र॑दा॒ता ।  

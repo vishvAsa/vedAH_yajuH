@@ -2,6 +2,22 @@
 title = "06 अहर्नो अद्य"
 
 +++
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png"  class="thumbnail">}}  
+{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/mUlam.png"  class="thumbnail">}}  
+
++++(ζ, η, θ, ι, κ, λ, and ν Scorpionis। मूलायाङ्खल्व् आकाशगङ्गाकेन्द्रम् अपि वर्तते!)+++
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+"In the Rāmāyaṇa it is associated with Rākṣasa-s who are supposed to have emanated from Nirṛtti."
+</details>
+
+
+
+
 <details><summary>मूलम्</summary>
 
 अह॑र्नो अ॒द्य सु॑वि॒ते द॑धातु ।   

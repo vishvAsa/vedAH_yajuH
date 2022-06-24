@@ -2,6 +2,20 @@
 title = "04 पुरन्दराय वृषभाय"
 
 +++
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}  
++++(α, σ, and τ Scorpionis इति केचित्। Antares इत्यन्ये - द्वितीया रोहिणीवेति ब्राह्मणम्।)+++
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+- "The TB describes this star as a second Rohiṇī keeping with the red color of the star."
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 पु॒र॒न्द॒राय॑ वृष॒भाय॑ धृ॒ष्णवे᳚ ।  

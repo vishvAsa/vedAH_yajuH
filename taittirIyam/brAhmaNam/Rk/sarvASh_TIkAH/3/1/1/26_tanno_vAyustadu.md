@@ -2,6 +2,14 @@
 title = "26 तन्नो वायुस्तदु"
 
 +++
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/niShTyA.png" title="निष्ट्या॑" class="thumbnail">}}
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/niShTyA_svAtiH.png" title="निष्ट्या॑" class="thumbnail">}}  
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 तन्नो॑ वा॒युस्तदु॒ निष्ट्या॑ शृणोतु ।   

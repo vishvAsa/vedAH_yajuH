@@ -2,6 +2,23 @@
 title = "28 नख्षत्राणामधिपत्नी"
 
 +++
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}  
+
+α, β Librae। रामायणानुसारम् इक्ष्वाकूणां नक्षत्रम् - 6.4.51
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+- "The constellation of the Ikṣvāku-s according to the Rāmāyaṇa."
+- "Observationally, one may attempt to see if 1 perceives beta Librae as having a green hue. Some people say so making it the only naked eye star with a greenness to it."
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 नख्ष॑त्राणा॒मधि॑पत्नी॒ विशा॑खे ।   

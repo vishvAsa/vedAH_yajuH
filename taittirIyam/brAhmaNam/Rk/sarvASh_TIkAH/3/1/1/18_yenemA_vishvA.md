@@ -2,6 +2,18 @@
 title = "18 येनेमा विश्वा"
 
 +++
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-phAlgunyau.png" title="फल्गु॑न्यः" class="thumbnail">}}  
++++(=δ, θ Leonis)+++
+
+- अत्र वै यदा चन्द्रमा ऽवर्तत ३००० BCE इति वर्षे, तदाभूद् वत्सरारम्भः।
+    - विवरणानि [सौर-चान्द्र-मान-पृष्ठे](/devaH/AryaH/hindukaH/worlds/Rk/naxatra-suuktam/)।
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 येने॒मा विश्वा॒ भुव॑नानि॒ सञ्जि॑ता ।  

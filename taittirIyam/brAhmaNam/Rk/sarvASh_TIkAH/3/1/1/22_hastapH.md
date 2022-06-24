@@ -2,6 +2,15 @@
 title = "22 हस्तᳶ"
 
 +++
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/hasta.png" title="हस्तः" class="thumbnail">}}
+{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/hastaH.png" title="हस्तः" class="thumbnail">}}  
+Corvus- α , β , γ , δ , ε Corvi.
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 हस्त॒ᳶ प्रय॑च्छत्व॒मृत॒व्ँवसी॑यः ।   
