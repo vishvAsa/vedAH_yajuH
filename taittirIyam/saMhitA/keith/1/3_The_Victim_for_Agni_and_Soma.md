@@ -3,7 +3,6 @@ title = "3 The Victim for Agni and Soma"
 
 +++
 ### a
-Thou, O Soma, art the giver of wide protection from hostility, brought about by ourselves or by others; hail!
 ### b
 May the active one gladly partake of the ghee.
 ### c
