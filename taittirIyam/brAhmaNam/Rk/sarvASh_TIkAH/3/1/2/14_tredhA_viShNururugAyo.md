@@ -2,6 +2,20 @@
 title = "14 त्रेधा विष्णुरुरुगायो"
 
 +++
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/shroNA.png"  class="thumbnail">}}  
+{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/shroNA.png"  class="thumbnail">}}  
++++(α, β and γ Aquilae)+++
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+- " A dense part of the Milky Way with excellent sights of star fields, with globular NGC 6760 eta Aquilae in the wing of the Eagle is a Cepheid variable that varies clearly enough to be perceived by the naked eye under good skies over a period of ~ 1 week. .. This star is < 30 Myr old"
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 त्रे॒धा विष्णु॑रुरुगा॒यो विच॑क्रमे ।   

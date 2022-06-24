@@ -2,16 +2,21 @@
 title = "28 यस्मिन्नख्षत्रे यम"
 
 +++
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/bharaNI.png"  class="thumbnail">}}  
+{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/bharaNI.png"  class="thumbnail">}}  
++++(35, 39, and 41 Arietis)+++
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 यस्मि॒न्नख्ष॑त्रे य॒म एति॒ राजा᳚ ।  
 यस्मि॑न्नेनम॒भ्यषि॑ञ्चन्त दे॒वाः ।  
-तद॑स्य चि॒त्रꣳ ह॒विषा॑ यजाम ।     
-
+तद॑स्य चि॒त्रꣳ ह॒विषा॑ यजाम ।  
 अप॑ पा॒प्मान॒म्भर॑णीर्भरन्तु ।
-
-
-
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
