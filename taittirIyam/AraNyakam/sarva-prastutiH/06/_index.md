@@ -61,7 +61,7 @@ unicode_script = "devanagari"
 महादे॒वस्य॑ धीमहि ।  
 तन्नो॑ रुद्रः प्रचो॒दया᳚त् ।  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarva-prastutiH/06//tatpuruShAya_vidmahe_rudraH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/06//tatpuruShAya_vidmahe_rudraH.md">
 <details open><summary><h2>तत्पुरुषाय विद्महे - रुद्रः ...{Loading}...</h2></summary>
 
 
@@ -70,7 +70,7 @@ unicode_script = "devanagari"
 तन्नो॑ रुद्रः प्रचो॒दया᳚त् । 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarva-prastutiH/06//dantiH_prachodayAt.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/06//dantiH_prachodayAt.md">
 <details open><summary><h2>दन्तिः प्रचोदयात् ...{Loading}...</h2></summary>
 
 तत्पुरु॑षाय वि॒द्महे॑  
@@ -78,7 +78,7 @@ unicode_script = "devanagari"
 तन्नो॑ दन्तिः  प्रचो॒दया᳚त् । 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarva-prastutiH/06//garuDaH_prachodayAt.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/06//garuDaH_prachodayAt.md">
 <details open><summary><h2>गरुडः प्रचोदयात् ...{Loading}...</h2></summary>
 
 
@@ -91,7 +91,7 @@ unicode_script = "devanagari"
 
 ## 1.6
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarva-prastutiH/06//kAtyAyanAya_vidmahe.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/06//kAtyAyanAya_vidmahe.md">
 <details open><summary><h2>कात्यायनाय विद्महे ...{Loading}...</h2></summary>
 
 
@@ -100,7 +100,7 @@ unicode_script = "devanagari"
 तन्नो॑ दुर्गिः प्रचो॒दया᳚त् ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarva-prastutiH/06//nArAyaNAya_vidmahe.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/06//nArAyaNAya_vidmahe.md">
 <details open><summary><h2>नारायणाय विद्महे ...{Loading}...</h2></summary>
 
 
@@ -720,7 +720,7 @@ Used to invoke the bhairavI (as the shakti of navAtman bhairava), followed by th
 
 ## 46.1
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarva-prastutiH/06//tatpuruShAya_vidmahe_rudraH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/06//tatpuruShAya_vidmahe_rudraH.md">
 <details open><summary><h2>तत्पुरुषाय विद्महे - रुद्रः ...{Loading}...</h2></summary>
 
 
