@@ -2,39 +2,11 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-### a
-### b
-### c
-May Agni here make room for us;
-  
-May he go before us cleaving the foe;  
-Joyously may he conquer our foes;  
-May he win booty in the contest for booty.
-### d
-Step widely, O Visnu;  
-Give us broad space for dwelling in;  
-Drink the ghee, thou whose birthplace is in the ghee;  
-Lengthen (the years) of the lord of the sacrifice.
-### e
-Soma goeth, who knoweth the way;  
-He approacheth the place of the gods,  
-To sit on the birthplace of Order .
-### f
-Thou art the seat of Aditi.
-### g
-Do thou sit on the seat of Aditi.
 ### h
-This, god Savitr, is the Soma of you (gods); guard it; let it escape you not.
 ### i
-So, O Soma, god to the gods, hast thou gone, and I here man to man, with offspring, with increase of wealth.
 ### k
-Honour to the gods I Homage to the Pitrs!  
-1 Here (may) I (be free) from Varuna's noose; may I gaze on the heaven, on the light that is for all men,  
-M Agni, lord of vows, thou art the vow-lord of vows.
-### n
-May my body that bath been in thee be here in me; may thy body that hath been in me be there in thee.
-### o
-Be aright the vows, O vow-lord, of both of us votaries.
+  
+
 ## 05
 ### a
 I have passed by some, I have not approached others.
