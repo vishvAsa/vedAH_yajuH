@@ -2,13 +2,6 @@
 title = "02 चित्रन्नख्षत्रमुदगात्पुरस्तात्"
 
 +++
-<details open><summary>विश्वास-टिप्पनी</summary>
-
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png)
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/anUrAdhAH.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/anUrAdhAH.png)
-
-β, δ, η, ρ Scorpionis
-</details>
 
 <details><summary>मूलम्</summary>
 

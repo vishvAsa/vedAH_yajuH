@@ -3,14 +3,6 @@ title = "10 शुभ्राᳵ कन्या"
 
 +++
 
-<details open><summary>विश्वास-टिप्पनी</summary>
-
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/aShADhAH.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/aShADhAH.png)
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-aShADhAH.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-aShADhAH.png)
-+++(φ, ζ, tau and σ Sagittarii)+++
-</details>
-
-
 
 <details><summary>मूलम्</summary>
 
