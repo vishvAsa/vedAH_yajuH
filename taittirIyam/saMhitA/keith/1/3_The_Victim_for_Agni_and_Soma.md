@@ -4,7 +4,6 @@ title = "3 The Victim for Agni and Soma"
 +++
 ### a
 ### b
-May the active one gladly partake of the ghee.
 ### c
 May Agni here make room for us;
   
