@@ -4,12 +4,8 @@ title = "3 The Victim for Agni and Soma"
 +++
 ## 05
 ### g
-With thy top graze not the sky, with thy middle harm not the atmosphere, with earth be united.
 ### h
-O tree, grow with a hundred shoots; may we grow with a thousand shoots.
 ### i
-Thou, whom this sharp axe hath brought forward for great good  
-fortune, uncut, with wealth of heroes, (give us) riches.
 ## 06
 ### a
 To I earth thee! To atmosphere thee! To sky thee!

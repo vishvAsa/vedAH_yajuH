@@ -262,27 +262,9 @@ O divine straw, rise with a hundred shoots,
 आत्मानं प्रत्यभिमृशति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स॒हस्र॑-वल्शाः॒+++(=प्ररोहाः)+++ [2] वि व॒यꣳ रु॑हेम ।  
-</details>
-
-<details><summary>Keith</summary>
-
-Let us rise with a thousand shoots.
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/sahasra-valshAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details><summary>मूलम्</summary>
-
-स॒हस्र॑वल्शाः॒ [2] विव॒यꣳ रु॑हेम ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-9आत्मानं प्रत्यभिमृशति - सहस्रवल्शा इति त्रिष्टुभैकपदया ॥   
-वयमपि सहस्रवल्शाः पुत्रपौत्राद्यनेकप्ररोहवन्तो विरुहेम विरूढा भूयास्म । 'लिङ्याशिष्यङ्' (पा.सू. 3.1.86) इत्यङ्प्रत्ययः । यासुडादि (पा.सू. 3.4.103) । 'छन्दस्युभयथा' (पा.सू. 3.4.117) इति सार्वधातुकत्वादिय् । यस्य लोपः (पा.सू. 6.1.66) ॥
-</details>
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
