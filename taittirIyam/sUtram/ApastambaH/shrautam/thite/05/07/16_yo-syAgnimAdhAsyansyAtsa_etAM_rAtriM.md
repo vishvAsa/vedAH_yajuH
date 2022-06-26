@@ -2,4 +2,7 @@
 title = "16 योऽस्याग्निमाधास्यन्स्यात्स एतां रात्रिं"
 
 +++
-योऽस्याग्निमाधास्यन्स्यात्स एतां रात्रिं व्रतं चरति न मांसमश्नाति न स्त्रियमुपैति १६
+16. He (the Adhvaryu) who is going to establish fires (for the performer) observes vow on this night; he does not eat flesh; does not aproach a woman.[^1]  
+
+
+[^1]: Cf. KS VIII.12.  

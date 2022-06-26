@@ -2,4 +2,4 @@
 title = "04 चन्द्रमग्निञ् चन्द्ररथं हरित्वचं"
 
 +++
-चन्द्रमग्निं चन्द्ररथं हरित्वचं वैश्वानरमप्सुषदं सुवर्विदम् । विगाहं तूर्णिं तविषीभिरावृतं भूर्णिं देवास इह सुश्रियं दधुरित्युपास्तमभिमन्त्रयते । द्वेष्याय रजतं प्रयच्छति ४
+4. With candramagnim... he addresses (the gold which is) thrown near the materials; he gives the silver to the enemy.

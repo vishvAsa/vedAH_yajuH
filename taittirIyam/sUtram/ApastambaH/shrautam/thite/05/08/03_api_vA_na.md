@@ -2,4 +2,4 @@
 title = "03 अपि वा न"
 
 +++
-अपि वा न जागर्ति न वाचं यच्छति ३
+3. Or, rather, he does not remain awake, does not restrain speech.

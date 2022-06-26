@@ -2,4 +2,4 @@
 title = "05 यदि द्वेष्यन् नाधिगच्छेद्यान्"
 
 +++
-यदि द्वेष्यं नाधिगच्छेद्यां दिशं द्वेष्यः स्यात्तेन निरस्येत् ५
+5. If he does not get an enemy, he should throw (the silver) towards the direction in which there may be the enemy.

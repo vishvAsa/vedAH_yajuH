@@ -2,4 +2,6 @@
 title = "05 तस्मिन्नुपव्युषमरणी निष्टपति जातवेदो"
 
 +++
-तस्मिन्नुपव्युषमरणी निष्टपति जातवेदो भुवनस्य रेत इह सिञ्च तपसो यज्जनिष्यते । अग्निमश्वत्थादधि हव्यवाहं शमीगर्भाज्जनयन्यो मयोभूः । अयं ते योनिरृत्विय इत्येताभ्याम् ५
+5. At the time of that dawn, (the Adhvaryu) heats the churning sticks with these (verses beginning with) jātavedo bhuvanasya retaḥ and ayam te yoniḥ.  
+
+[^1]: For these verses see TB I.2.1.15-16.

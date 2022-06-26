@@ -2,4 +2,4 @@
 title = "02 एवन् दक्षिणाग्नेराहवनीयस्य सभ्यावसथ्ययोश्च"
 
 +++
-एवं दक्षिणाग्नेराहवनीयस्य सभ्यावसथ्ययोश्च २
+2. In the same manner he sprinkles water on the places of Dakṣiṇa-fire, of Āhavanīya and of Sabhya and of Āvasathya.  
