@@ -2,4 +2,4 @@
 title = "03 एवमनुपूर्वण्येवैष्टत ऊर्ध्वङ् कर्माणि"
 
 +++
-एवमनुपूर्वण्येवैष्टत ऊर्ध्वं कर्माणि क्रियन्ते ३
+3. Henceforth the rites are performed in this order. 

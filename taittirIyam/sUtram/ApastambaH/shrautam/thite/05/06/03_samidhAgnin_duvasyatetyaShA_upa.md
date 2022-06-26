@@ -2,4 +2,7 @@
 title = "03 समिधाग्निन् दुवस्यतेत्यषा उप"
 
 +++
-समिधाग्निं दुवस्यतेत्यषा । उप त्वाग्ने हविष्मतीर्घृताचीर्यन्तु हर्यत । जुषस्व समिधो मम । तं त्वा समिद्भिरङ्गिरो घृतेन वर्धयामसि । बृहच्छोचा यविष्ठ्येति ब्राह्मणस्य । समिध्यमानः प्रथमो नु धर्मः समक्तुभिरज्यते विश्ववारः । शोचिष्केशो घृतनिर्णिक् पावकः सुयज्ञो अग्निर्यजथाय देवान् । घृतप्रतीको घृतयोनिरग्निर्घृतैः समिद्धो घृतमस्यान्नम् । घृतप्रुषस्त्वा सरितो वहन्ति घृतं पिबन्सुयजा यक्षि देवान् । आयुर्दा अग्न इति राजन्यस्य । त्वामग्ने समिधानं यविष्ठ देवा दूतं चक्रिरे हव्यवाहम् । उरुज्रयसं घृतयोनिमाहुतं त्वेषं चक्षुर्दधिरे चोदयन्वति । त्वामग्ने प्रदिव आहुतं घृतेन सुम्नायवः सुषमिधा समीधिरे । स वावृधान ओषधीभिरुक्षित उरु ज्रयांसि पार्थिवा वितिष्ठसे । घृतप्रतीकं व ऋतस्य धूर्षदमग्निं मित्रं न समिधान ऋञ्जते । इन्धानो अक्रो विदथेषु दीद्यच्छुक्रवर्णामुदु नो यंसते धियमिति वैश्यस्य ३
+3. For a Brāhmaṇa samidhāgniṁ duvasyata... this is one verse; upa tvāgne..., juṣasva samidho mama..., and taṁ tvā samidbhiraṅgiraḥ these are the other verses to be used; For a Kṣatriya Samidhyamānaḥ prathamaḥ...; ghr̥tapratīko ghr̥tayoniḥ... and ayurdā agne... these are the verses to be used; For a Vaiśya tvamagne samidhānam...; tvāmagne pradiva āhutam...; and ghr̥tapratīkaṁ va r̥tasya... these are the verses to be used.[^1]  
+
+
+[^1]: For all these verses see TB I.2.1.9-13. For the first see also TS IV.2.3.d; for the sixth see also TS I.3.14.m.  

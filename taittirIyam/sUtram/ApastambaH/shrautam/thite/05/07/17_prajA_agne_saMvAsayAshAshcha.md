@@ -2,4 +2,11 @@
 title = "17 प्रजा अग्ने संवासयाशाश्च"
 
 +++
-प्रजा अग्ने संवासयाशाश्च पशुभिः सह । राष्ट्राण्यस्मा आधेहि यान्यासन्सवितुः सव इत्युत्तरेण गार्हपत्यायतनं कल्माषमजं बध्नाति १७
+17. With prajā agne saṁvāsayāśāśca paśubhiḥ saha[^1] (the Adhvaryu) binds a black-white he-goat[^2] to the north of the place of Gārhapatya.[^3]  
+
+
+[^1]: TB I.2.1.3.  
+
+[^2]: Cf. KS VIII.12.  
+
+[^3]: i.e. to the place where Gārhapatya is going to be established.  

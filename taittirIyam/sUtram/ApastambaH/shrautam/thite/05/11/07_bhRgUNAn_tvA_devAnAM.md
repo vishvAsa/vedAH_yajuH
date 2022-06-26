@@ -2,4 +2,7 @@
 title = "07 भृगूणान् त्वा देवानां"
 
 +++
-भृगूणां त्वा देवानां व्रतपते व्रतेनादधामीति भार्गवस्यादध्यात् । अङ्गिरसां त्वा देवानां व्रतपते व्रतेनादधामीति यो ब्राह्मण आङ्गिरसः स्यात् । आदित्यानां त्वा देवानां व्रतपते व्रतेनादधामीत्यन्यासां ब्राह्मणीनां प्रजानाम् । वरुणस्य त्वा राज्ञो व्रतपते व्रतेनादधामीति राज्ञः । इन्द्रस्य त्वेन्द्रियेण व्रतपते व्रतेनादधामीति राजन्यस्य । मनोस्त्वा ग्रामण्यो व्रतपते व्रतेनादधामीति वैश्यस्य । ऋभूणां त्वा देवानां व्रतपते व्रतेनादधामीति रथकारस्येति यथर्ष्याधानानि ७
+7. With bhr̥gūṇām tvā devānāṁ vratapate vratenādadhāmi he should place (the fire) of (a sacrificer) belonging to Bhr̥gu's family; with angirasāṁ... he should place... who belongs to Āṅgirasa family; with ādityānāṁ... (he should place...) of other Brāhmaṇa-people; with varuṇasya... (he should place...) of a king; with indrasya... (he should place...) of a Kṣatriya; with
+manoḥ... (he should place...) of a Vaiśya; with r̥bhūṇāṁ...[^1] (he should place...) of a chariot-maker-these are the (formulae for) establishment (of fire) in accordance with the sages.  
+
+[^1]: TB I.1.4.8.  

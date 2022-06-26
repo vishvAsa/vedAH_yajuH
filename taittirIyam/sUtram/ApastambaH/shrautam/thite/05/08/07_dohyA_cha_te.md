@@ -2,4 +2,6 @@
 title = "07 दोह्या च ते"
 
 +++
-दोह्या च ते दुग्धभृच्चोर्वरी ते ते भागधेयं प्रयच्छामीति यजमानाय प्रयच्छति ७
+7. With dohyā ca te dugdhabhr̥ccorvarī te...[^1] (the Adhvaryu) gives the churning sticks to the sacrificer.  
+
+[^1]: MS I.6.1.

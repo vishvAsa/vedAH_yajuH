@@ -2,4 +2,7 @@
 title = "01 अथ यजमानो व्रतमुपैति"
 
 +++
-अथ यजमानो व्रतमुपैति वाचं च यच्छत्यनृतसत्यमुपैमि मानुषाद्दैव्यमुपैमि दैवीं वाचं यच्छामीति १
+1. Then the sacrificer enters into vow and restrains his speech with anr̥tāt satyamupaimi mānuṣād daivyam upaimi daivīṁ vācaṁ yacchāmi.[^1]   
+
+
+[^1]: TB I.2.1.15.  
