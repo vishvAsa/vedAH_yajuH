@@ -2,24 +2,7 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-### h
-### i
-### k
-  
-
 ## 05
-### a
-I have passed by some, I have not approached others.
-### b
-I have found thee nearer than the farther, farther than the near.
-### c
-So I welcome thee, that art of Visnu, for the sacrifice to the gods.
-### d
-Let the god Savitr anoint thee with honey.
-### e
-O plant, guard it.
-### f
-O axe, harm it not.
 ### g
 With thy top graze not the sky, with thy middle harm not the atmosphere, with earth be united.
 ### h

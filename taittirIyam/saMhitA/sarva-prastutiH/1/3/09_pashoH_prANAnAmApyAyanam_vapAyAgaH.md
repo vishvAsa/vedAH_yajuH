@@ -181,39 +181,33 @@ ________
 </details>
 
 ________
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-ओष॑धे॒ त्राय॑स्वैनम् ।
+10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
 </details>
 
-<details><summary>मूलम्</summary>
 
-ओष॑धे॒ त्राय॑स्वैनम् ।
-</details>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>भट्टभास्करटीका</summary>
 
 10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
-
-  - [ ऊर्ध्वाग्रं बर्हिरनुच्छ्रयति - ओषध इति ॥ हे ओषधे बर्हिरात्मिके । आमन्त्रिताद्युदात्तत्वम् । एनं यजमानं त्रायस्व रक्ष । स्वधितिव्यवधानमेव रक्षणं बर्हिषा ॥]
 </details>
 
-________
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः ।
+11स्वधितिं निदधाति - स्वधिते मैनं हिंसीरिति ॥ व्याख्यातमेव ॥
+
 </details>
 
-<details><summary>मूलम्</summary>
-
-स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः ।
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>भट्टभास्करटीका</summary>
 
 11स्वधितिं निदधाति - स्वधिते मैनं हिंसीरिति ॥ व्याख्यातमेव ॥
-
-  - [ तस्मिन् बर्हिषि स्वधितिं तिर्यञ्चं निदधाति - स्वधित इति ॥ स्वस्मिन् प्रयोजने धितिरवस्थानमस्येति स्वधितिः स्वकार्यसमर्थः । धाञः आकारस्येकारः, बहुव्रीहित्वात्पूर्वपदप्रकृतिस्वरत्वम्, इह त्वामन्त्रिताद्युदात्तत्वम् । हे स्वधिते क्षुर एनं यजमानं मा हिंसीः । हिंसाप्रतिषेधो वप्तुरप्रमादाय॥]
 </details>
 
 ________

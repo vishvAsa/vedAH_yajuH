@@ -61,34 +61,11 @@ For length of days, for glory.
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-ऊर्ध्वाग्रं बर्हिर् अनुच्छ्रयति।।
+2ऊर्ध्वाग्रं बर्हिरनुच्छ्रयति - ओषध इति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-ओष॑धे॒ त्राय॑स्वैनम्।  
-</details>
-
-<details><summary>Keith</summary>
-
-O plant, protect him.
-</details>
-
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-ओष॑धे॒ त्राय॑स्वैन॒ꣵ॒ स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः
-</details>
-
-<details><summary>मूलम्</summary>
-
-ओष॑धे॒ त्राय॑स्वैनम्।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-2ऊर्ध्वाग्रं बर्हिरनुच्छ्रयति - ओषध इति ॥ हे ओषधे बर्हिरात्मिके । आमन्त्रिताद्युदात्तत्वम् । एनं यजमानं त्रायस्व रक्ष । स्वधितिव्यवधानमेव रक्षणं बर्हिषा ॥
-</details>
 
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -96,25 +73,7 @@ ________
 तस्मिन् बर्हिषि स्वधितिं तिर्यञ्चं निदधाति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स्वधि॑ते॒+++(=क्षुर)+++! मैनꣳ॑ हिꣳसीः  ।+++(र४)+++  
-</details>
-
-<details><summary>Keith</summary>
-
-Axe, hurt him not.
-</details>
-
-<details><summary>मूलम्</summary>
-
-स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः  ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-3तस्मिन् बर्हिषि स्वधितिं तिर्यञ्चं निदधाति - स्वधित इति ॥ स्वस्मिन् प्रयोजने धितिरवस्थानमस्येति स्वधितिः स्वकार्यसमर्थः । धाञः आकारस्येकारः, बहुव्रीहित्वात्पूर्वपदप्रकृतिस्वरत्वम्, इह त्वामन्त्रिताद्युदात्तत्वम् । हे स्वधिते क्षुर एनं यजमानं मा हिंसीः । हिंसाप्रतिषेधो वप्तुरप्रमादाय ॥
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ________
