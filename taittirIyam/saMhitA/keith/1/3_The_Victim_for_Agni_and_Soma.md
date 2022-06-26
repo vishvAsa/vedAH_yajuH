@@ -2,24 +2,7 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-## 05
-### g
-### h
-### i
-## 06
-### a
-To I earth thee! To atmosphere thee! To sky thee!
-### b
-Pure be the world where the Pitrs sit.
-### c
-Thou art barley (yava); bar (yavaya) from us foes, bar evil spirits.
-### d
-Thou art the seat of the Pitrs.
 ### e
-Thou art easy of approach, first among leaders; the tree will mount thee, be aware of it.
-### f
-Let the god Savitr anoint thee with honey.
-### g
 For the plants with good berries thee!
 ### h
 Support the sky, fill the atmosphere, with thy base make firm the earth.

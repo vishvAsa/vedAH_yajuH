@@ -231,7 +231,7 @@ ________
 +++(इषा = शकटस्य महादण्डो यस्यैकस्मिन् भागे वृषो युज्यते, अपरस्मिन् च शकटम्।)+++
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/08_anasi_sthApanam/varuNasya_skambhanam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -250,7 +250,7 @@ ________
 शम्याम् उद्-वृहति।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/08_anasi_sthApanam/varuNasya_skambhanam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>भट्टभास्करटीका</summary>
 

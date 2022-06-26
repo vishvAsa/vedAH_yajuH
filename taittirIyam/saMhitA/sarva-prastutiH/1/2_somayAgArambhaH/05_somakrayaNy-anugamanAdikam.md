@@ -151,7 +151,7 @@ ________
 पदं परिलिखति।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
 <details open><summary><h4>परिलिखितम् ...{Loading}...</h4></summary>
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 

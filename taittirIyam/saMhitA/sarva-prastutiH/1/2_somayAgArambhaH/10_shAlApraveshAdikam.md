@@ -202,7 +202,7 @@ ________
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/08_anasi_sthApanam/adityAs_sadaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ________
@@ -211,7 +211,7 @@ ________
 तस्मिन् सोमं निदधाति।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/08_anasi_sthApanam/adityAs_sada_AsIda.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>

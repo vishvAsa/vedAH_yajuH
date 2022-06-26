@@ -100,7 +100,7 @@ ________
 
 
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
 <details open><summary><h4>परिलिखितम् ...{Loading}...</h4></summary>
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -193,23 +193,8 @@ ________
 7अवटे अपोवनयति - शुन्धतामिति ॥ 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/shundhantAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-शुन्ध॑ताल्ँ लो॒कᳶ पि॑तृ॒-षद॑नः ।
-</details>
-<details><summary>Keith</summary>
-
-Pure be the world where the Pitrs sit.
-</details>
-
-<details><summary>मूलम्</summary>
-
-शुन्ध॑ताल्ँलो॒कᳶ पि॑तृ॒षद॑नः ।
-</details>
-<details><summary>भट्टभास्करटीका</summary>
-
-पितरस्सीदन्त्यस्मिन्निति पितृषदनः । अधिकरणे ल्युट्, कृदुत्तरपदप्रकृतिस्वरत्वम्, लित्स्वरेण सदनशब्द आद्युदात्तः, सुषामादित्वात्षत्वम् । ईदृशोयं लोकः अवटाख्योवकाशश्शुन्धताम् शुद्धो भवतु । व्यत्ययेनात्मनेपदम्, 'अदुपदेशात्' इति लसार्वधातुकानुदात्तत्वे धातुस्वरः । 'क्रूरमिव वा एतत्करोति यत्खनत्यपोवनयति शान्त्यै' `इति ब्राह्मणम् ॥
-</details>
 
 ________
 <details><summary>भट्टभास्करटीका</summary>
@@ -229,26 +214,8 @@ ________
 9तस्मिन् व्यतिषज्य बर्हिर्-मुष्टिं निदधाति - पितृणामिति ॥ 
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam_havirdhAna-maNTapa-nirmAN/pitRNAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
-
-पि॒तृ॒णाꣳ+++(=पितॄणाम्)+++ सद॑नमसि।  
-+++('नामन्यतरस्याम्' इति षष्ठीबहुवचनस्योदात्तत्वम्। )+++
-</details>
-
-<details><summary>Keith</summary>
-
-Thou art the seat of the Pitrs.
-</details>
-
-<details><summary>मूलम्</summary>
-
-पि॒तृ॒णाꣳ सद॑नम् असि।
-</details>
-<details><summary>भट्टभास्करटीका</summary>
-
-सीदन्त्यस्मिन्निति सदनं आसनम् । अधिकरणए ल्युट्, लित्स्वरेणाद्युदात्तत्वम् । पितॄणामासनमसि । 'नामन्यतरस्याम्' इति षष्ठीबहुवचनस्योदात्तत्वम्, 'छन्दस्युभयथा' इति 'नामि' इति दीर्घत्वं न क्रियते । 'पितृदेवत्यं ह्येतत्' इत्यादि ब्राह्मणम् ॥
-</details>
 
 
 ________
@@ -286,7 +253,6 @@ Support the sky, fill the atmosphere, make firm the earth.
 हे औदुम्बरि दिर्वं दिविष्ठानुत्तभान उत्तम्भय धारय । स्तन्भुस्सौत्रो धातुः, 'स्तन्भु स्तुन्भु' इति श्नाप्रत्ययः । 'हलश्श्नश्शानज्झौ' इति शानजादेशः । तथा अन्तरिक्षमन्तरिक्षस्थान् पृण प्रीणय । पृण प्रीणने इति तौदादिकः । तथा पृथिवीं पृथिवीस्थान् दृंह वर्धय । दृह दृहि वृद्धौ । पृथिवीशब्दो ङीषन्तोन्तोदात्तः ॥
 </details>
 
-________
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

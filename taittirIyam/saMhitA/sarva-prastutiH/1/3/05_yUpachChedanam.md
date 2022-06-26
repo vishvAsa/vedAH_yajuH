@@ -51,26 +51,8 @@ _______
 2यूपमाज्येनानक्ति - देवस्त्वेति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/05_yUpachChedanam/devas_tvA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-दे॒वस् त्वा॑ सवि॒ता मध्वा॑ऽनक्तु ।
-</details>
-
-<details><summary>Keith</summary>
-
-Let the god Savitr anoint thee with honey.
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-दे॒वस्त्वा॑ सवि॒ता मध्वा॑ऽनक्तु ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-2यूपमाज्येनानक्ति - देवस्त्वेति ॥ हे वृक्ष देवस्सविता सर्वस्य प्रेरकस्त्वां मध्वा मदनीयेन मधुरेणाज्येन अनक्तु स्निग्धं करोतु । 'फलिपाटिनमिमनिजनाङ्गुक्पाटिनाकिधतश्च' इति मन्यतेरुप्रत्ययः, धकारश्चान्तादेशः, तत्र च उरित्यनुवर्तते । 'जसादिषु वा वचनं छन्दसि प्राङ्णौ चड्युपधायाः' इति नाभावाभावः । मधुशब्देन चाज्यमुच्यते, 'तेजसैवैनमनक्ति' इति ब्राह्मणदर्शनात् । `तेजो वा आज्यम्' इति ॥
-</details>
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -78,7 +60,7 @@ _______
 ऊर्ध्वाग्रं बार्हिर् अनूच्छ्रयति - ओषधे त्रायस्वैनमिति ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -92,7 +74,7 @@ _______
 स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>

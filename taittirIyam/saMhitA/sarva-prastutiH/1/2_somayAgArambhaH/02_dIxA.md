@@ -537,29 +537,10 @@ For ploughing thee, for good crops,
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-तया दक्षिणं गोदानं कण्डूयते।
+14 तया दक्षिणं गोदानं कण्डूयते - सुपिप्पलाभ्य इति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सुपिप्प॒लाभ्य॒स्+++(=सुफलेभ्यः)+++ त्वौष॑धीभ्यः +++(कण्डूये)+++।+++(र४)+++
-</details>
-
-<details><summary>Keith</summary>
-
-For the plants with good berries thee!
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-सुपिप्प॒लाभ्य॒स्त्वौष॑धीभ्यः ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-14 तया दक्षिणं गोदानं कण्डूयते - सुपिप्पलाभ्य इति ॥ यास्सुपिप्पलाः शोभनफलाः शोभनकरणिका ओषधयः, तदर्थं त्वां कण्डूये इति शेषः । पूर्ववत्स्वरः । ओषधिशब्दे तु दासीभारादित्वात् पूर्वपदप्रकृतिस्वरत्वम् । 'ओषधेश्च विभक्तावप्रथमायाम्' इति दीर्घः । 'यद्धस्तेन कण्डूयत' इत्यादि ब्राह्मणम् ॥
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/02_dIxA/supippalAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ________
