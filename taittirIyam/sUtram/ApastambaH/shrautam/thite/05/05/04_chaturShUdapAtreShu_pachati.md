@@ -2,4 +2,4 @@
 title = "04 चतुर्षूदपात्रेषु पचति"
 
 +++
-चतुर्षूदपात्रेषु पचति ४
+4. He cooks (the rice-pap) in four potfuls of water.

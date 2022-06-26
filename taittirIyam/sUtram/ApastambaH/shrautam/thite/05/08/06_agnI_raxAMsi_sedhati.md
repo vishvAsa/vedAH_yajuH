@@ -2,4 +2,8 @@
 title = "06 अग्नी रक्षांसि सेधति"
 
 +++
-अग्नी रक्षांसि सेधति शुक्रशोचिरमर्त्यः । शुचिः पावक ईड्य इत्यरणी अभिमन्त्र्य मही विश्पत्नी सदने ऋतस्यार्वाची एतं धरुणे रयीणाम् । अन्तर्वत्नी जन्यं जातवेदसमध्वराणां जनयथः पुरोगामित्यरणी आह्रियमाणे यजमानः प्रतीक्षते ६
+6. With agni rakṣāṁsi...[^1] having addressed them, with antarvatnī janyam...[^2] the sacrificer looks at the churning sticks while they are being brought.  
+
+[^1]: TB II.4.1.6.  
+
+[^2]: TB I.2.1.13.  

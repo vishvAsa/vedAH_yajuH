@@ -2,4 +2,4 @@
 title = "09 न प्रयायात्"
 
 +++
-न प्रयायात् ९
+9. (The performer) should not go away (from the fire place).

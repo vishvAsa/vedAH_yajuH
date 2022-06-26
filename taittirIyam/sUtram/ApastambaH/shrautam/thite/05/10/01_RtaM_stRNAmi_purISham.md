@@ -2,4 +2,4 @@
 title = "01 ऋतं स्तृणामि पुरीषम्"
 
 +++
-ऋतं स्तृणामि पुरीषं पृथिव्यामृतेऽध्यग्निमादधे सत्येऽध्यग्निमादध इत्यायतनेषु सम्भाराननुव्यूहति १
+1. With r̥tam str̥ṇāmi purīṣam... (the Adhvaryu) spreads the materials on the places of fires.

@@ -2,4 +2,4 @@
 title = "03 तूष्णीं वा सर्वाणि"
 
 +++
-तूष्णीं वा सर्वाणि ३
+3. Or (he pours out all the measures) silently (without any formula).

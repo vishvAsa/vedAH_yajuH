@@ -2,4 +2,4 @@
 title = "11 यदि प्रयायादनु वा"
 
 +++
-यदि प्रयायादनु वा गच्छेद्ब्रह्मौदनं पक्त्वैतयैवावृता समिध आदध्यात् ११
+11. If (the performer) goes away or if (the Brāhmaudanika fire) is extinguished, having cooked rice-pap for Brāhmaṇas, (the perforemer) should put fuel-sticks in it in this same manner.  

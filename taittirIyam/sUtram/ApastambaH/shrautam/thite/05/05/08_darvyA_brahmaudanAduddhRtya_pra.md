@@ -2,4 +2,6 @@
 title = "08 दर्व्या ब्रह्मौदनादुद्धृत्य प्र"
 
 +++
-दर्व्या ब्रह्मौदनादुद्धृत्य प्र वेधसे कवये मेध्याय वचो वन्दारु वृषभाय वृष्णे । यतो भयमभयं तन्नो अस्त्वव देवान्यजेहेह्यानिति जुहोत्यभि वा मन्त्रयते ८
+8. Having taken out (some rice-pap) by means of a ladle, with pra vedhase kavaye...[^1] he offers (that rice pap in the Brahmaudanika-fire) or addresses it.  
+
+[^1]: TB I.2.1.9.

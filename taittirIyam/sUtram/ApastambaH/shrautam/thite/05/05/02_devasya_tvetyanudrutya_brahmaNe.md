@@ -2,4 +2,4 @@
 title = "02 देवस्य त्वेत्यनुद्रुत्य ब्रह्मणे"
 
 +++
-देवस्य त्वेत्यनुद्रुत्य ब्रह्मणे प्राणाय जुष्टं निर्वपामीति प्रथममपानायेति द्वितीयं व्यानायेति तृतीयं ब्रह्मणे जुष्टमिति चतुर्थम् २
+2. Having recited devasya tvā... he pours first measure with brahmaṇe prāṇāya juṣṭam nirvapāmi,... the second with apānāya...; then third with vyānāya...; the fourth with brahmaṇe juṣṭam.

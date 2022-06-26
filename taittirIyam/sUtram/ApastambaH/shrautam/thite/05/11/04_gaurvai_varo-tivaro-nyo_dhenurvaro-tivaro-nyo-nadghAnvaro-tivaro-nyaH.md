@@ -2,4 +2,4 @@
 title = "04 गौर्वै वरोऽतिवरोऽन्यो धेनुर्वरोऽतिवरोऽन्योऽनद्घान्वरोऽतिवरोऽन्यः"
 
 +++
-गौर्वै वरोऽतिवरोऽन्यो धेनुर्वरोऽतिवरोऽन्योऽनद्घान्वरोऽतिवरोऽन्यः पष्ठौही वरो ऽतिवरोऽन्यः ४
+4. A bull is indeed a boon; any other (animal) is a redundant boon; a milch-cow is a boon; any other (animal) is a redundant boon; an ox is a boon; any other (animal) is a redundant boon; a cow pregnant for the first time is a boon, any other (animal) is a redundant boon.
