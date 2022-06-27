@@ -67,7 +67,7 @@ _______
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam_havirdhAna-maNTapa-nirmAN/yavosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam/yavosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>भट्टभास्करटीका</summary>
 
@@ -81,7 +81,7 @@ _______
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam_havirdhAna-maNTapa-nirmAN/pitRNAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam/pitRNAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -277,7 +277,7 @@ _______
 ब्र॒ह्म॒वनि॑न्त्वा ख्षत्त्र॒वनिꣳ॑ सुप्रजा॒वनिꣳ॑ रायस्पोष॒वनि॒म्पर्यू॑हामि ।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam_havirdhAna-maNTapa-nirmAN/brahma-vanim.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam/brahma-vanim.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -293,7 +293,7 @@ _______
 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam_havirdhAna-maNTapa-nirmAN/brahma_dRMha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam/brahma_dRMha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details><summary>भट्टभास्करटीका</summary>
