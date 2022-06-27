@@ -2,20 +2,8 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-### i
-### k
-### l
-### m
-Thee that art winner of Brahmans, winner of nobles, winner of fair  
-offspring, winner of increase of wealth, I close in.
-### n
-Strengthen the Brahmans, strengthen the nobles, strengthen offspring,  
-strengthen increase of wealth,
 ### o
-Thou art invested; lot the clans of the gods invest thee; let increase  
-of wealth, let (the clans) of men invest the sacrificer here.
 ### p
-On the slope of the atmosphere I conceal thee.
 ## 07
 ### a
 For striving thee!

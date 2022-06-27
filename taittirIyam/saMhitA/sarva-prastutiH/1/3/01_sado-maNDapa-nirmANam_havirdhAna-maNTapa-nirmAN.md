@@ -288,25 +288,8 @@ ________
 12पुरीषेणौदुम्बरीं प्रदक्षिर्णं पर्यूहति - ब्रह्मवनिमिति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam_havirdhAna-maNTapa-nirmAN/brahma-vanim.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-ब्र॒ह्म॒-वनि॑न् त्वा  ख्षत्र॒-वनिꣳ॑ सुप्रजा॒-वनिꣳ॑ रायस्-पोष॒-वनि॒म् पर्यू॑हामि।
-</details>
-
-<details><summary>Keith</summary>
-
-Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, winner of increase of wealth, I close in.
-</details>
-
-<details><summary>मूलम्</summary>
-
-ब्र॒ह्म॒वनि॑न्त्वा  ख्षत्र॒वनिꣳ॑ सुप्रजा॒वनिꣳ॑ रायस्पोष॒वनि॒म्पर्यू॑हामि।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-ब्रह्म ब्राह्मणान्वनति सम्भजत इति ब्रह्मवनिः । 'छन्दसि वनसनरक्षिमथाम्' इतीन्प्रत्ययः, कृदुत्तरपदप्रकृतिस्वरत्वम् । एवं क्षत्रवनिं सप्रजावनिं रायस्पोषवनिमिति । 'षष्ठ्या आक्रोशे' इत्यनाक्रोशेपि बहुलवचनात् षष्ठ्या अलुक्, 'षष्ठ्याः पतिपुत्र' इति विसर्जनीयस्य सत्वम् । एवंगुणां त्वामौदुम्बरीं परितस्सर्वत ऊहामि स्थापयामि, पुरीषेणावटं पूरयित्वा स्थिरां करोमीत्यर्थः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' इति परस्मैपदम् ॥
-</details>
 
 ________
 _______
@@ -315,38 +298,8 @@ _______
 13 मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam_havirdhAna-maNTapa-nirmAN/brahma_dRMha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-ब्रह्म॑ दृꣳह ख्ष॒त्रन्दृꣳ॑ह प्र॒जान्दृꣳ॑ह रा॒यस्पोष॑न्दृꣳह  
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ब्रह्म॑ दृꣳह ।  
-ख्ष॒त्रन्दृꣳ॑ह ।  
-प्र॒जान्दृꣳ॑ह।  
-रा॒यस्पोष॑न्दृꣳह ।  
-</details>
-
-<details><summary>Keith</summary>
-
-Strengthen the Brahmans, strengthen the nobles, strengthen offspring, strengthen increase of wealth.
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-ब्रह्म॑ दृꣳह ।  
-ख्ष॒त्रन्दृꣳ॑ह ।  
-प्र॒जान्दृꣳ॑ह।  
-रा॒यस्पोष॑न्दृꣳह ।  
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-13 मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥ हे मैत्रावरुणदण्ड ब्राह्मणादीन् दृंह वर्धय । प्रजाशब्दः कृदुत्तरपदप्रकृतिस्वेरणान्तोदात्तः । रैशब्दात्परस्याः षष्ठ्याः 'ऊडिदम्' इत्यादिनोदात्तत्वम् ॥
-</details>
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
