@@ -2,24 +2,9 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-### e
-For the plants with good berries thee!
-### h
-Support the sky, fill the atmosphere, with thy base make firm the earth.
 ### i
-To these dwellings of thine are we fain to go,  
-Where are the many-horned active kine;  
-There is resplendent the highest step  
-Of the wide-stepping Visnu, the mighty!
 ### k
-Behold the deeds of Visnu  
-Wherein he displayed his laws,  
-Indra's true friend.
 ### l
-That highest step of Visnu  
-The singers ever gaze upon
-  
-Like an eye stretched in the sky.
 ### m
 Thee that art winner of Brahmans, winner of nobles, winner of fair  
 offspring, winner of increase of wealth, I close in.
