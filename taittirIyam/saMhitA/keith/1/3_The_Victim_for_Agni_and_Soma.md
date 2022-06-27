@@ -10,8 +10,7 @@ For striving thee!
 ### b
 Thou art the impeller.
 ### c
-To the gods the servants of the gods have come, the priests, the eager  
-ones.
+To the gods the servants of the gods have come, the priests, the eager ones.
 ### d
 O Bihaspati, guard wealth.
 ### e
