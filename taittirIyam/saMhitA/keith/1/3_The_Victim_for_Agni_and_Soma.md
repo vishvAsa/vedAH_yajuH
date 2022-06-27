@@ -2,43 +2,9 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-### o
-### p
-## 07
-### a
-For striving thee!
-### b
-Thou art the impeller.
-### c
-To the gods the servants of the gods have come, the priests, the eager ones.
-### d
-O Bihaspati, guard wealth.
-### e
-Let thy oblations taste sweet.
-### f
-O god Tvastr make pleasant our possessions.
-### g
-Stay, ye wealthy ones,
-### h
-Thou art the birthplace of Agni.
-### i
-Ye are the two male ones.
-### k
-Thou art Urvaśi, thou art Ayu, thou art Pururavas.
-### l
-Anointed with ghee, do ye produce a male.
-### m
-Be born with the Gayatri metre, with the Tristubh metre, be born with the Jagati metre.
 ### n
-Be ye of one mind for us, one dwelling, spotless.
 ### o
-Harm not the sacrifice nor the lord of the sacrifice, O all-knowing;  
-be ye two auspicious to-day with us.
 ### p
-The fire moveth entering into the fire,  
-The son of the Rsis, the overlord he;  
-With the cry of Hail! I offer to thee with devotion;  
-Do thou not spoil the share of the gods.
 ## 08
 ### a
 I grasp thee.
