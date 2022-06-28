@@ -2,43 +2,6 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-## 08
-### m
-### n
-### o
-## 09
-
-### a
-Let thy speech swell, let thy breath swell, let thine eye swell, let  
-thine ear swell.
-### b
-The pain that hath reached thy vital airs, that (hath reached) thine eye, that (hath reached) thine ear, what is harsh in thee, what is in its place,--let that swell, let that hereby be pure.
-### c
-Lot thy navel swell, let thine anus swell.
-### d
-Be thy feet pure.
-### e
-Hail to the waters [1]! Hail to the plants! Hail to earth! Hail to night and day!
-### f
-O plant, protect him.
-### g
-O axe, harm him not.
-### h
-Thou art the share of the Raksases.
-### i
-This Raksas here I lead to the lowest darkness.
-### k
-Him who hateth us and whom we hate, here him I lead to the lowest darkness. I For food thee!
-### m
-In ghee, O sky and earth, be covered.
-### n
-Uncut, with wealth of heroes, (give us) riches.
-### o
-Fare along the broad atmosphere.
-### p
-O Vayu, taste the drops.
-### q
-Hail! go to Urdhvanabhas, offspring of the Maruts.
 ## 10
 ### a
 Let thy mind with the mind, let thy breath with the breath (of the gods be united).
