@@ -16,7 +16,7 @@ ________
 
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h2>देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -154,7 +154,7 @@ ________
 अग्रादारभ्यौदुम्बरीं प्रोक्षति - दिवे त्वेति ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/11_havirAsanAdiH/dive_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
 <details open><summary><h2>दिवे त्वा ...{Loading}...</h2></summary>
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -205,7 +205,7 @@ ________
 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam/yavosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_sado-maNDapa-nirmANam/yavosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -215,7 +215,7 @@ ________
 9तस्मिन् व्यतिषज्य बर्हिर्-मुष्टिं निदधाति - पितृणामिति ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam/pitRNAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_sado-maNDapa-nirmANam/pitRNAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -289,7 +289,7 @@ ________
 12पुरीषेणौदुम्बरीं प्रदक्षिर्णं पर्यूहति - ब्रह्मवनिमिति ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam/brahma-vanim.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_sado-maNDapa-nirmANam/brahma-vanim.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ________
@@ -299,7 +299,7 @@ _______
 13 मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3/01_sado-maNDapa-nirmANam/brahma_dRMha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_sado-maNDapa-nirmANam/brahma_dRMha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 _______

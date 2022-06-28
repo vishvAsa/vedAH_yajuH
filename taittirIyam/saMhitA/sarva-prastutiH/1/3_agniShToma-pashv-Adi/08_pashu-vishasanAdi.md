@@ -425,7 +425,7 @@ _______
 पृ॒थि॒व्यास् स॒म्पृच॑ᳶ पाहि ।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/pRthivyAH.md"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md"  newLevelForH1="5" includeTitle="false"> </div>
 
 
 <details><summary>मूलम्</summary>

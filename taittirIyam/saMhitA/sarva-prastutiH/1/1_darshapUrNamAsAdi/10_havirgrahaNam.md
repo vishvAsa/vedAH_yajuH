@@ -10,7 +10,7 @@ title: १० हविर्ग्रहणम्
 गार्हपत्ये स्रुवादीन् प्रतितपति
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/pratyuShTam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -345,7 +345,7 @@ ____
 म॒ही॒नाम्पयो॒ऽस्योष॑धीना॒ꣳ॒ रस॒स्तस्य॒ तेऽख्षी॑यमाणस्य॒ निः [17]व॒पा॒मि
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/10_havirgrahaNam/mahInAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -378,7 +378,7 @@ __
 पत्नी आज्यमवेक्षते
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/10_havirgrahaNam/mahInAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -658,7 +658,7 @@ I grasp thee shining in the shining,
 आघारार्थत्वात्, प्रयाजार्थत्वाच्च 'धाम्नेधाम्ने' इत्याद्युपपद्यते । एवमुपभृद्ध्रुवयोरपि वेदितव्यम्॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/10_havirgrahaNam/dhAmne_dhAmne.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -696,7 +696,7 @@ I grasp thee radiance in the radiance,
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/10_havirgrahaNam/dhAmne_dhAmne.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ____
@@ -728,6 +728,6 @@ I grasp thee resplendent in the resplendence
 
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/10_havirgrahaNam/dhAmne_dhAmne.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 इति दशमोनुवाकः

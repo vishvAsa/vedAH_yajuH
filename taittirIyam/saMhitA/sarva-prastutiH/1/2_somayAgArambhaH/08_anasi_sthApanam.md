@@ -61,7 +61,7 @@ ________
 सोमवाहनम् अनो ऽभिप्रैति।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/urvantarixam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 <details><summary>भट्टभास्करटीका</summary>

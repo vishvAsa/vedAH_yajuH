@@ -145,7 +145,7 @@ The Raksas is burnt, the evil spirits are burnt.
 5अङ्गारमधिवर्तयति - निर्दग्धमिति ॥ प्रत्युष्टादिना व्याख्यातम् (तै.सं. 1.1.2) ।  
 'अग्निवत्युपदधाति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ॥
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/raxorAtI.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/raxorAtI.md"  newLevelForH1="5" includeTitle="false"> </div>  
 </details>
 
 ____
@@ -192,7 +192,7 @@ Thou art firm; make firm the earth, make life firm, make offspring firm,
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -239,7 +239,7 @@ Thou art a supporter, make firm the atmosphere, make expiration firm, make inspi
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ____
 
@@ -282,7 +282,7 @@ Thou are supporting, make the heaven firm, make the eye [1] firm, make the ear f
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -327,7 +327,7 @@ Thou art a support, make the quarters firm, make the organ firm, make offspring 
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ____
 
@@ -369,7 +369,7 @@ Ye are gatherers, bring offspring to this sacrificer, wealth to him,
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ____
 

@@ -11,7 +11,7 @@ ____
 सान्नाय्य-पात्राणि प्रोक्षति
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -90,7 +90,7 @@ Thou art the all-supporting with the highest support.
 
 
 ____
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/03_sAnnAyyaM_-_pAtraproxaNAdi/dRMhasva.md"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/dRMhasva.md"  newLevelForH1="5" includeTitle="false"> </div>
 
 ____
 

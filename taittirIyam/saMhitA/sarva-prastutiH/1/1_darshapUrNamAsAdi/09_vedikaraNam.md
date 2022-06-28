@@ -150,7 +150,7 @@ Araru is smitten away from the earth.
 ____  
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/09_vedikaraNam/vrajaM_gachCha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -200,7 +200,7 @@ Araru is smitten away from the earth, he that sacrifices not to the gods.
 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/09_vedikaraNam/vrajaM_gachCha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

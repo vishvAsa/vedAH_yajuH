@@ -1,5 +1,0 @@
----
-title: +१ दर्शपूर्णमासादिः
-unicode_script: devanagari
-
----

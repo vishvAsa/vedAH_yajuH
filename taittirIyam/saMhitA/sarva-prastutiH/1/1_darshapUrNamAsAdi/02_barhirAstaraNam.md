@@ -40,7 +40,7 @@ ____
 गार्हपत्ये प्रतितपति
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/pratyuShTam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ____
@@ -148,7 +148,7 @@ ____
 5दर्भस्तम्बमुन्मार्ष्टि - वर्षवृद्धमसीति ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/varSha-vRddham.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/varSha-vRddham.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ____
@@ -262,7 +262,7 @@ O divine straw, rise with a hundred shoots,
 आत्मानं प्रत्यभिमृशति
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/sahasra-valshAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/sahasra-valshAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ____
@@ -272,7 +272,7 @@ ____
 10प्रस्तरं निदधाति - पृथिव्या इति ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/pRthivyAH.md"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md"  newLevelForH1="5" includeTitle="false"> </div>
 
 ____
 
@@ -479,7 +479,7 @@ ____
 प्रत्यागच्छति
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/urvantarixam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ____

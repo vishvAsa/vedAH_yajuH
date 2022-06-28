@@ -200,7 +200,7 @@ ____
 पात्राणि प्रोक्षति
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>भट्टभास्करटीका</summary>
 
@@ -215,7 +215,7 @@ ____
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/05_haviHproxaNAdiH/avadhUtaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/05_haviHproxaNAdiH/avadhUtaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -444,7 +444,7 @@ ____
 शूर्पम् उपयच्छति
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/02_barhirAstaraNam/varSha-vRddham.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/varSha-vRddham.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -574,7 +574,7 @@ ____
 तण्डुलान् [कृष्णाजिने?] प्रस्कन्दयति
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1/05_haviHproxaNAdiH/devo_vas_savitA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 इति पञ्चमोनुवाकः ॥
