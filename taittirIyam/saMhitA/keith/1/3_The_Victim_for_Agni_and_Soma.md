@@ -2,29 +2,13 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-### n
-### o
-### p
 ## 08
-### a
-I grasp thee.
-### b
-Offering to the gods, I seize thee with the noose of sacred order.
-### c
-Fear not men.
-### d
-For the waters thee, for the plants thee, I sprinkle.
-### e
-Thou art a drinker of the waters.
 ### f
-Ye divine waters, make it palatable, a very palatable offering for the  
-gods.
 ### g
-Let thy breath be united with the wind, thy limbs with the sacrificial, the lord of the sacrifice with his prayer.
 ### h
-Anointed with ghee, do ye guard the beast.
+
 ### i
-Ye wealthy ones, do ye kindly I resort to the lord of the sacrifice.
+
 ### k
 O broad atmosphere, in unison with the god [1] wind, sacrifice with the life of this offering; be united with its body; extending more broadly, make the sacrifice of the lord of the sacrifice most successful.
 ### l
