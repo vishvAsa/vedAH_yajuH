@@ -3,18 +3,7 @@ title = "3 The Victim for Agni and Soma"
 
 +++
 ## 10
-### a
-Let thy mind with the mind, let thy breath with the breath (of the gods be united).
-### b
-Be this offering rich in ghee pleasing to the gods; hail!
 ### c
-May Indra's expiration be set in every limb;  
-May Indra's inspiration be in every limb.
-### d
-O god Tvastr, let mind be united for thee,  
-When ye that are various become of one form;  
-Over thee as thou goest among the gods for help let thy comrades  
-And thy father and mother rejoice.
 ### e
 Thou art fortune (śri).
 ### f
