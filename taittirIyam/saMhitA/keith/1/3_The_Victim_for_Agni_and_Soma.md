@@ -3,22 +3,9 @@ title = "3 The Victim for Agni and Soma"
 
 +++
 ## 08
-### f
-### g
-### h
-
-### i
-
-### k
-O broad atmosphere, in unison with the god [1] wind, sacrifice with the life of this offering; be united with its body; extending more broadly, make the sacrifice of the lord of the sacrifice most successful.
-### l
-Guard from contact with earth.
 ### m
-Homage to thee, O extended one.
 ### n
-Come forward, irresistible, along the stream of ghee, with offspring, with increase of wealth.
 ### o
-O ye waters, goddesses, purifying and pure, do ye bring the gods; may we, pure and served (by you), be servers upon you.
 ## 09
 
 ### a
