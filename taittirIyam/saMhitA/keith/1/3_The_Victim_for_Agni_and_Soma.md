@@ -5,13 +5,8 @@ title = "3 The Victim for Agni and Soma"
 ## 10
 ### c
 ### e
-Thou art fortune (śri).
-### f
-Let Agni cook (śrinatu) thee.
 ### g
-The waters are come together.
 ### h
-For the whirl of the wind [1] thee, for the rush of Pusan, for the growth of the waters, of the plants.
 ### i
 Drink ghee, ye drinkers of ghee; drink fat, ye drinkers of fat.
 ### k
