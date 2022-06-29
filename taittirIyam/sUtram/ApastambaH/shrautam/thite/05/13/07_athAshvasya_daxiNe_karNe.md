@@ -2,4 +2,9 @@
 title = "07 अथाश्वस्य दक्षिणे कर्णे"
 
 +++
-अथाश्वस्य दक्षिणे कर्णे यजमानमग्नितनूर्वाचयति या वजिन्नग्नेः पशुषु पवमाना प्रिया तनूस्तामावह या वजिन्नग्नेरप्सु पावका प्रिया तनूस्तामावह या वाजिन्नग्नेः सूर्ये शुचिः प्रिया तनूस्तामावहेति । धारयत्येवाग्निम् ७
+7. Then he makes the sacrificer recite the (formulae called) “Bodies of Agni” beginning with yā vājinnagneḥ[^1] in the right ear of the horse.[^2] (At that time) he continues to hold the fire up.  
+
+
+[^1]: Cp. KS VIII.13. and MS I.6.2.  
+
+[^2]: For this horse sec V.10.9.  

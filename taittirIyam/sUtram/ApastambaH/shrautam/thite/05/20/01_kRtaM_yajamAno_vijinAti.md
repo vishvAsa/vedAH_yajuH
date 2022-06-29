@@ -2,4 +2,6 @@
 title = "01 कृतं यजमानो विजिनाति"
 
 +++
-कृतं यजमानो विजिनाति १
+1. The sacrificer wins the Kr̥ta.[^1]  
+
+[^1]: This signifies victory.  

@@ -2,4 +2,6 @@
 title = "06 दक्षिणतो ब्रह्मा रथं"
 
 +++
-दक्षिणतो ब्रह्मा रथं रथचक्रं वा वर्तयति यावच्चक्रं त्रिः परिवर्तते ६
+6. Towards the south (of the sacrificial place), the Brahman causes a chariot or wheel of chariot[^1] to role as long as the wheel roles thrice.  
+
+[^1]: Cf. TB I.1.6.8.

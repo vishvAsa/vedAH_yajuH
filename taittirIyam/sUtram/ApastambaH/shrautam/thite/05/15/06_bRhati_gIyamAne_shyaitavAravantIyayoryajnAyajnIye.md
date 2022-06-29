@@ -2,4 +2,20 @@
 title = "06 बृहति गीयमाने श्यैतवारवन्तीययोर्यज्ञायज्ञीये"
 
 +++
-बृहति गीयमाने श्यैतवारवन्तीययोर्यज्ञायज्ञीये च यथर्ष्याधानेन सर्वाभिर्व्याहृतीभिः सर्वाभिः सर्पराज्ञीभिस्तृतीयेन च घर्मशिरसा यास्ते शिवास्तनुवो जातवेदो या अन्तरिक्ष उत पार्थिवीर्याः । ताभिः सम्भूय सगणः सजोषा हिरण्ययोनिर्वह हव्यमग्ने । अपानं त्वामृत आदधाम्यन्नादमन्नाद्याय गोप्तारं गुप्त्यै । दिवस्त्वा वीर्येण पृथिव्यै महिम्नान्तरिक्षस्य पोषेण पशूनां तेजसा सर्वपशुमादधे । अग्ने सम्राडजैकपादाहवनीय दिवः पृथिव्याः ह्पर्यन्तरिक्षाल्लोकं विन्द यजमानाय । पृथिव्यास्त्वा मूर्धन्सादयामि यज्ञिये लोके । यो नो अग्ने निष्ट्यो योऽनिष्ट्यो ऽभिदासतीदमहं तं त्वयाभिनिदधामीति सम्भारेषु निदधाति ६
+6. While the Br̥hat[^1], Śyeta[^2] Vāravantīya[^3] and Yajñāyajñiya[^4] (melodies are) being sung, with the placing formula in accordance with the sages,[^5] with all the sacred utterances,[^6] with all the Sārparājñī-verses, and with the third Gharmaśiras-formula, and with the verses beginning with yāste tanuvo jātavedaḥ, apānaṁ tvāmr̥te, agne samrāḍajaikapādāhavanīya, he places (the fuel-stick from the Gārhapatya) on the materials (on the place of the Āhavanīya).  
+
+[^1]: Araṇyagāna I.1.27.  
+
+[^2]: Grāmagāna VI.1.32.  
+
+[^3]: Grāmagāna I.1.30.  
+
+[^4]: Araṇyagāna I.2.25.  
+
+[^5]: See V.11.7.  
+
+[^6]: See V.12.1.
+
+[^7]: See V.12.1.  
+
+[^8]: See V.12.2.  

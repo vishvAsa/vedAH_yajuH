@@ -2,4 +2,6 @@
 title = "07 प्रतिषिद्धान्येकेषाम्"
 
 +++
-प्रतिषिद्धान्येकेषाम् ७
+7. According to some[^1] (ritualists the Sāmans are) prohibited (in the Agnyādheya-ritual).  
+
+[^1]: The Kaṭhas in the Agnyādheya-Brāhmaṇa.

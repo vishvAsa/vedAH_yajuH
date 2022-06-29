@@ -2,4 +2,4 @@
 title = "04 तञ् चत्वार आर्षेयाः"
 
 +++
-तं चत्वार आर्षेयाः प्राश्नन्ति ४
+4. Four priests whose ancestors are R̥ṣis, eat that rice-pap.

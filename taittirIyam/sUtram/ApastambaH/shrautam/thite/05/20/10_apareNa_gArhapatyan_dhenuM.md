@@ -2,4 +2,6 @@
 title = "10 अपरेण गार्हपत्यन् धेनुं"
 
 +++
-अपरेण गार्हपत्यं धेनुं होत्रे १०
+10. a milch-cow[^3] to the Hotr̥ (situated in west of the Gārhapatya(-fire).  
+
+[^3]: TB I.1.6.10.  

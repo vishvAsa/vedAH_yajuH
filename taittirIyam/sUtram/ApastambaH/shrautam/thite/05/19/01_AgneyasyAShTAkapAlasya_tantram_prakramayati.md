@@ -2,4 +2,4 @@
 title = "01 आग्नेयस्याष्टाकपालस्य तन्त्रम् प्रक्रमयति"
 
 +++
-आग्नेयस्याष्टाकपालस्य तन्त्रं प्रक्रमयति १
+1. The Adhvaryu starts the paradigm of the (sacrificial bread prepared) on eight potsherds, for Agni.

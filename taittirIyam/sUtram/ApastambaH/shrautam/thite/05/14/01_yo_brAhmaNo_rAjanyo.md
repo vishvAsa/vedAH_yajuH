@@ -2,4 +2,6 @@
 title = "01 यो ब्राह्मणो राजन्यो"
 
 +++
-यो ब्राह्मणो राजन्यो वैश्यः शूद्रो वासुर इव बहुपुष्टः स्यात्तस्य गृहादाहृत्यादध्यात्पुष्टिकामस्य १
+1. Having brought from the house of a Brāhmaṇa, or a Kśatriya, or a Vaiśya or a Śūdra who will be very prosperous like an Asura, the Āgnīdhra should place the Dakṣīṇāgni in the case of a (sacrificer) desirous of prosperity.[^1]  
+
+[^1]: For this Sūtra cf. KS VIII. 12. MS 1.6.10.

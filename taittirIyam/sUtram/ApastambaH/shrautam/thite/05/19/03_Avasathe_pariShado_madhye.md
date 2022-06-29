@@ -2,4 +2,6 @@
 title = "03 आवसथे परिषदो मध्ये"
 
 +++
-आवसथे परिषदो मध्ये हिरण्यं निधाय मन्त्रवत्या हिरण्ये जुहोति प्र नूनं ब्रह्मणस्पतिर्मन्त्रं वदत्युक्थ्यम् । यस्मिन्निन्द्रो वरुणो मित्रो अर्यमा देवा ओकांसि चक्रिर इति ३
+3. In the Guest-house, having kept gold in the middle of the gathering, he offers a libation of ghee on the gold with a verse containing the word mantra viz. pra nūnaṁ brahmaṇa-spatiḥ...[^1]  
+
+[^1]: For this Sūtra as well as the verse cf. KS VIII.7. 

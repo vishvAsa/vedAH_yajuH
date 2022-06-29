@@ -2,4 +2,4 @@
 title = "05 समिध आदधातीत्येके"
 
 +++
-समिध आदधातीत्येके ५
+5. According to some (ritualists) he offers fuel-sticks (with these formulae).

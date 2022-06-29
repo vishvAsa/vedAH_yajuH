@@ -2,4 +2,6 @@
 title = "05 एवन् नानावृक्षीयाः प्रेद्धो"
 
 +++
-एवं नानावृक्षीयाः । प्रेद्धो अग्ने दीदिहि पुरो न इत्यौदुम्बरीं समिधमादधाति । विधेम ते परमे जन्मन्नग्न इति वैकङ्कतीम् । तां सवितुर्वरेण्यस्य चित्रामिति शमीमयीम् ५
+5. In the same manner he puts fuel-sticks of different trees in fires; with preddho agne didihi...[^1] (he puts fuel-stick) of Udumbara-tree; with vidhema te parame janman...[^2] (...) Vikaṅkata-tree; with tāṁ savitur vareṇyasya...[^3] (...) Śamī-tree.  
+
+[1-3]: TS IV.6.5.k-m.
