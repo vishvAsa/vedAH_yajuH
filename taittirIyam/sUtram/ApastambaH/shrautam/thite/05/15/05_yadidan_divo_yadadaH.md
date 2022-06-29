@@ -2,4 +2,9 @@
 title = "05 यदिदन् दिवो यददः"
 
 +++
-यदिदं दिवो यददः पृथिव्याः संविदाने रोदसी सम्बभूवतुः । तयोः पृष्ठे सीदतु जातवेदाः शम्भूः प्रजाभ्यस्तनुवे स्योन इत्यभिमन्त्र्य पुरस्तात्प्रत्यङ् तिष्ठन्नाहवनीयमादधाति ५
+5. Having addressed (the place of the Āhavanīya) with yadidam divaḥ...[^1] (the Adhvaryu) standing[^2] towards the east, with his face to the west, places the Āhavanīya-fire (on the materials).   
+
+
+[^1]: TB I.2.1.23-24.
+
+[^2]: Contrast V.11.6;V.13.8.  

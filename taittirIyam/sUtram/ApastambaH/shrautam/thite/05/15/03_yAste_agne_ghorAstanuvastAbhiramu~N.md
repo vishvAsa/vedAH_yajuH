@@ -2,4 +2,9 @@
 title = "03 यास्ते अग्ने घोरास्तनुवस्ताभिरमुङ्"
 
 +++
-यास्ते अग्ने घोरास्तनुवस्ताभिरमुं गच्छेति यजमानो द्वेष्याय प्रहिणोति ताभिरेनं पराभावयति ३
+3. With yaste agne ghorāstanuvastābhiramum gaccha[^1] the sacrificer sends (the dangerous forms of Agni) to the hated enemy. With them be causes his defeat.[^2]  
+
+
+[^1]: TB I.1.7.3.   
+
+[^2]: TB I.1.8.6.

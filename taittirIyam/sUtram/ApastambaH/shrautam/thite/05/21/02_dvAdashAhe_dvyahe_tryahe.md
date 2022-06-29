@@ -2,4 +2,7 @@
 title = "02 द्वादशाहे द्व्यहे त्र्यहे"
 
 +++
-द्वादशाहे द्व्यहे त्र्यहे चतुरहेऽर्धमासे मास्यृतौ संवत्सरे वा २
+2. Or he may do so after twelve days,[^1] two days, three ways, four days, half a month, one month, one season, or one year.  
+
+
+[^1]: Cf. TB I.1.6.7; cp. also KS VIII.8.  

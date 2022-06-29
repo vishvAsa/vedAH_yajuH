@@ -2,4 +2,4 @@
 title = "05 यदि निर्वपेदग्नये पवमानायाग्नये"
 
 +++
-यदि निर्वपेदग्नये पवमानायाग्नये पावकायाग्नये शुचय इति तिस्र आज्याहुतीः सोमदेवताभ्यो वा हुत्वा निर्वपेत् ५
+5. If he pours out (i.e. performs the offering) having offered three libations of ghee to Agni Pavanāna, Agni Pāvaka and Agni Śuci or to the Soma-deities.
