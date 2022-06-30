@@ -2,4 +2,8 @@
 title = "08 अथाग्नीध्रो लौकिकमग्निमाहृत्य मथित्वा"
 
 +++
-अथाग्नीध्रो लौकिकमग्निमाहृत्य मथित्वा वोर्ध्वज्ञुरासीनो दक्षिणमग्निमादधाति यज्ञायज्ञीये गीयमाने यथर्ष्याधानेन द्वितीयया व्याहृत्या तिसृभिः सर्पराज्ञीभिर्द्वितीयेन च घर्मशिरसा । यास्ते शिवास्तनुवो जातवेदो या अन्तरिक्ष उत पार्थिवीर्याः । ताभिः संभूय सगणः सजोषा हिरण्ययोनिर्वह हव्यमग्ने । व्यानं त्वामृत आदधाम्यन्नादमन्नाद्याय गोप्तारं गुप्त्यै । दिवस्त्वा वीर्येण पृथिव्यै महिम्नान्तरिक्षस्य पोषेण पशूनां तेजसा सर्वपशुमादधे । अग्नेऽन्नपा मयोभुव सुशेव दिवः पृथिव्याः पर्यन्तरिक्षाल्लोकं विन्द यजमानाय । पृथिव्यास्त्वा मूर्धन्सादयामि यज्ञिये लोके । यो नो अग्ने निष्ठ्यो योऽनिष्ठ्योऽभिदासतीदमहं तं त्वयाभिनिदधामीति सम्भारेषु निदधाति ८
+8. Either having brought the wordly (i.e. profane) fire or having churned it out, the Āgnīdhra, sitting with his knees up, places the Dakṣiṇa-fire while the Yajñāyajñiya-melody is being sung[^1], with the formula of placing in accordance with the sage, with second sacred utterance, with three Sārparājñī-verses, with the second Gharmaśiras-verse, and with verses and formulae beginning with yāste śivāstanuvo jātavedaḥ he keeps the fire on the materials (on the place of the Dakśiṇa fire).[^2]  
+
+[^1]: Contrast V.11.6.
+
+[^2]: For the melody, verses etc. see and cp. V.12.1

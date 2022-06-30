@@ -2,4 +2,4 @@
 title = "07 अपि वा द्वादशगृहीतेन"
 
 +++
-अपि वा द्वादशगृहीतेन स्रुचं पूरयित्वा प्रजापतिं मनसा ध्यायञ्जुहोति । साग्निहोत्रस्य स्थाने भवति ७
+7. Or having filled the ladle with twelve-time-scooped ghee he offers it while mentally thinking about Prajāpati. This (offering) is in the place of (morning-)Agnihotra.

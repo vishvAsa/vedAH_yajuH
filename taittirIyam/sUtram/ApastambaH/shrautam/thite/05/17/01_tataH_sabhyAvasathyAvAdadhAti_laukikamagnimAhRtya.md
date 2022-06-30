@@ -2,4 +2,8 @@
 title = "01 ततः सभ्यावसथ्यावादधाति लौकिकमग्निमाहृत्य"
 
 +++
-ततः सभ्यावसथ्यावादधाति लौकिकमग्निमाहृत्य मथित्वाहवनीयाद्वा यथर्ष्याधानेन १
+1. Then (the Adhvaryu) places the Sabhya[^1] and Āvasathya[^2]-(fires) having either brought the profane fire or having churned out or (having taken them) from the Āhavanīya with the formulae of placing in accordance with the sages.  
+
+[^1]: See V.11.7.  
+
+[^2]: See V.4.7-8.  

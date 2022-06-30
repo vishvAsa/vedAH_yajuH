@@ -2,4 +2,4 @@
 title = "10 येन हिरण्यम् मिमते"
 
 +++
-येन हिरण्यं मिमते तेन मीत्वा ददाति १०
+10. Having measured the gold with that weight with which (the merchants) measure it, (the sacrificer) gives it.

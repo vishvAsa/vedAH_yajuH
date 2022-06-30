@@ -2,4 +2,4 @@
 title = "02 सप्तदश सामिधेन्य"
 
 +++
-सप्तदश सामिधेन्य २
+2. (In this offering there should be) seventeen enkindling verses.

@@ -2,4 +2,4 @@
 title = "16 दित्यौहीन् दद्याद्दित्यवाहञ् च"
 
 +++
-दित्यौहीं दद्याद्दित्यवाहं च मुष्करम् १६
+16. He should give a two-year old cow and two year old uncastrated bull.

@@ -2,4 +2,6 @@
 title = "02 गृहे त्वस्य ततो"
 
 +++
-गृहे त्वस्य ततो नाश्नीयात् २
+2. Afterwards, however, the sacrificer should not eat in his house.[^1]
+
+[^1]: cf. KS VIII.12.  
