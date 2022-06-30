@@ -3,16 +3,8 @@ title = "3 The Victim for Agni and Soma"
 
 +++
 ## 11
-### a
-
-### b
-### d
-May I acquire body, skin, son, and grandson.
 ### e
-Thou art pain; pain him who hateth us and whom we hate.
 ### f
-From every rule of thine, O King Varuna, set us free;  
-From whatever oath by the waters, by the kine, by Varuna, we have sworn, From that, O Varuna, set us free.
 
 ## 12
 ### a
