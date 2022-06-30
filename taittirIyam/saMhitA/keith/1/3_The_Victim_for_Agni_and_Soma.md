@@ -2,9 +2,6 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-## 11
-### e
-### f
 
 ## 12
 ### a
