@@ -5,10 +5,6 @@ title = "3 The Victim for Agni and Soma"
 
 ## 12
 ### a
-These waters are rich in oblation,  
-Rich in oblation is the divine sacrifice,  
-Rich in oblation he seeks to win (the gods?),  
-Rich in oblation be the sun.
 ### b
 In the seat of Agni whose home is abiding I set you down, kindly for kindness, accord to me kindness.
 ### c
