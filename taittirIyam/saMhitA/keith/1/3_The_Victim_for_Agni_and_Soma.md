@@ -7,7 +7,6 @@ title = "3 The Victim for Agni and Soma"
 ### l
 ## 14
 ### a
-Thou, O Agni, art Rudra, the Asura of the mighty sky, Thou art the host of the Maruts, thou art lord of food; Thou farest with ruddy winds, blessing the household; Thou, as Pasan dost, protectest thy worshippers with thyself.
 ### b
 Rudra, king of the sacrifice,  
 True offerer, priest of both worlds,  
