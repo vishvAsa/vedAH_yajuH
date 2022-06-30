@@ -3,41 +3,8 @@ title = "3 The Victim for Agni and Soma"
 
 +++
 
-## 12
-### a
-### b
-In the seat of Agni whose home is abiding I set you down, kindly for kindness, accord to me kindness.
-### c
-Ye are the share of Indra and Agni; ye are the share of Mitra and Varuna; ye are the share of the all-gods.
-### d
-Be watchful over the sacrifice.
-## 13
-### a
-To the heart thee! To mind thee! To the sky thee! To the sun thee!
-### b
-Raise aloft the sacrifice; in the sky guide to the gods the prayers.
-### c
-O King Soma, come hither, descend.
-### d
-Fear not, tremble not.
-### e
-Lot me not harm thee.
-### f
-Do thou descend to creatures; let creatures descend to thee.
-### g
-Let Agni (kindled) with the kindling-stick hear my appeal, Let the waters hear, and the divine Dhisanas;  
-Hearken, ye pressing stones, to the sacrifice of me the wise one, Let the god Savitr hearken to my appeal.
-### h
-Ye divine waters, child of the waters, that wave,  
-Which is rich in oblation, powerful and sweetest,  
-Give to the gods among the gods,  
-Pure to the drinkers of the pure, (to them) whose share ye are; hail
-### i
-Thou art the dragger; do thou (drag) away the foe of the waters.
-### k
-I draw you for the sustenance of the waters.
+
 ### l
-That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast strengthened in the contest for booty, He winneth I abiding strength.
 ## 14
 ### a
 Thou, O Agni, art Rudra, the Asura of the mighty sky, Thou art the host of the Maruts, thou art lord of food; Thou farest with ruddy winds, blessing the household; Thou, as Pasan dost, protectest thy worshippers with thyself.
