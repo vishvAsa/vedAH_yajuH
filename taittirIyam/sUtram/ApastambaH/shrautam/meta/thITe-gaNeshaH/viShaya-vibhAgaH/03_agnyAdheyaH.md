@@ -499,641 +499,540 @@ nt boo boon; CW Pregundo
 ## 05.13
 
 
-अर्थोदिते सूर्य आहवनीयमादधाति॥१॥ ___ 1. (The Adhvaryu) places the Ahavaniya while the sun is half risen.1
-1. Cf. TB I.1.4.2. उदिते ब्रह्मवर्चसकामस्य॥२॥
-2. (He places the Āhavanīya) after (the sun has) risen for the (sacrificer) desirous of Brahman-splendour.
+अर्थोदिते सूर्य आहवनीयमादधाति॥१॥ ___
+
+
+उदिते ब्रह्मवर्चसकामस्य॥२॥
+
 
 
 गार्हपत्ये प्रणयनीयमाश्वत्थमिध्ममादीपयति सिकताश्चोपयमनीरुपकल्प यते॥३॥
-3. The Adhvaryu enkindles the fuel-stick of Asvattha-tree which is to be carried forward (towards the Ahavaniya-place) and keeps ready (i.e. takes by means of a vessel) the sand to be used as an underlayer.'
-__ 1. Thus a vessel is filled with sand and on it the burning Asvattha
-stick is to be kept and then taken to the place of the Āhavanīya.
+
 
 तमुद्यच्छत्योजसे बलाय त्वोद्यच्छे वृष्णे शुष्मायायुषे वर्चसे। सपत्नतूरसि वृत्रतूः॥ यस्ते देवेषु महिमा सुवर्गो यस्त आत्मा पशुषु प्रविष्टः। पुष्टिर्या ते मनुष्येषु पप्रथे तया नो अग्ने जुषमाण एहि॥ दिवः पृथिव्याः पर्यन्तरिक्षाद्वातात्पशुभ्यो अध्योषधीभ्यः। यत्रयत्र जातवेदः संबभूथ ततो नो
 अग्ने जुषमाण एहि॥ उदु त्वा विश्वे देवा इत्येताभिश्चतसृभिः॥४॥
-4. He lifts it up with four verses beginning with ojase balāya tvā...; yaste deveshu mahima...2 divah prthivyāh...' and yatra yatra jatavedah...4
-1-3. TB I.2.1.21-22. 4: TS IV.2.3.
+
+
 195
 
 
 उपरीवाग्निमुद्यच्छति॥५॥
-5. He lifts up the fire (i.e. the burning ASvattha-stick) a little high' as it were.
-1. See TB I.1.5.4.
+
+
 
 उद्यतमुपयतं धारयति॥६॥
-6. He holds it raised and supported (by the sand).
+
 
 
 अथाश्वस्य कर्णे यजमानमग्नितनूचयति या वाजिन्नग्नेः पशुषु पवमाना प्रिया तनूस्तामावह या वाजिन्नग्नेरप्सु, पावका प्रिया तनूस्तामावह या वाजिन्नग्नेः सर्ये शुचिः प्रिया तनूस्तामावहेति। धारयत्येवाग्निम्॥७॥
-7. Then he makes the sacrificer recite the (formulae called) “Bodies of Agni” beginning with yā vājinnagneḥ' in the right ear of the horse.2 (At that time) he continues to hold the fire up.
-1. Cp. KS VIII.13. and MS I.6.2.
-2. For this horse sec V.10.9.
+
 
 अथाग्नीध्रो लौकिकमग्निमाहृत्य मथित्वा वोर्ध्वजुरासीनो दक्षिणमग्नि मादधाति यज्ञायज्ञीये गीयमाने यथाधानेन द्वितीयया व्याहृत्या तिसृभिः सर्पराज्ञीभिद्वितीयेन च धर्मशिरसा॥ यास्ते शिवास्तनुवो जातवेदो या अन्तरिक्ष उत पार्थिवीर्याः। ताभिः संभूय सगणः सजोषा हिरण्योनिर्वह हव्यमग्ने॥ व्यानं त्वामृत आदधाम्यन्नादमन्नाधाय गोप्तारं गुप्त्यै। दिवस्त्वा वीर्येण पृथिव्यै महिम्नान्तरिक्षस्य पोषेण पशूनां तेजसा सर्वपशुमादधे॥ अग्नेऽन्नपा मयोभुव सुशेव दिवः पृथिव्याः पर्यन्तरिक्षाल्लोकं विन्द यजमानाय। पृथिव्यास्त्वा मूर्धन्सादयामि यज्ञिये लोके। यो नो अग्ने निष्टयो यो ऽनिष्ट्यो ऽभिदासतीमहं तं त्वयाभिनिदधामीति संभारेषु निदधाति॥८॥
-8. Either having brought the wordly (i.e. profane) fire or having churned it out, the Agnidhra, sitting with his knees up, places the Dakṣiṇa-fire while the Yajñāyajñiya-melody is be ing sung, with the formula of placing in accordance with the sage, with second sacred utterance, with three Sarparajni verses, with the second Gharmasiras-verse, and with verses
-196
-and formulae beginning with yāste śivāstanuvo jātavedah h. keeps the fire on the materials (on the place of the Daksina fire).2
-1. Contrast V.11.6. 2. For the melody, verses etc. see and cp. V.12.1
+
+
 ## 05.14
 
 
 यो ब्राह्मणो राजन्यो वैश्यः शूद्रो वासुर इव बहुपुष्टः स्यात्तस्य गृहादाहृत्या दध्यात्पुष्टिकामस्य॥१॥
-1. Having brought from the house of a Brāhmaṇa, or a Ksatriya, or a Vaiśya or a Sūdra who will be very prosperous like an Asura, the Āgnīdhra should place the Dakṣīṇāgni in the case of a (sacrificer) desirous of prosperity.1
-1. For this Sūtra cf. KS VIII. 12. MS 1.6.10.
+
 
 
 गृहे त्वस्य ततो नाश्नीयात्॥२॥ अम्बरीषादनकामस्य वृक्षाग्राज्ज्वलतो ब्रह्मवर्चसकामस्य॥३॥
-2-3. Afterwards, however, the sacrificer should not eat in his house.1 (The Agnidhra should bring the fire for establish ing as the Daksina-fire) from the fire-pan in the case of (a sac rificer) desirous of food; from the burning top of a tree in the case of (a sacrificer) desirous of Brahman-splendor.
-i. cf. KS VIII.12.
-2. Cf. KS XIX.10.
+
+
 
 वामदेव्यमभिगायत आहवनीय उद्धियमाणे॥४॥
-4. (The Brahman') sings the Vāmadevya-sāman? while the Ahavaniya-fire is being held up (by the Adhvaryu)'.
-1. See V.16.6. 2. Grāmageyagana V.1.25. 3. The Adhvaryu is holding up the Ahavaniya fire since V.13.7. For
-this Sutra cf. TB I.1.8.2.
+
 
 प्राचीनमनु प्रदिशमित्येषा। विक्रमस्व महाँ असि वेदिषन्मानुषेभ्यः। त्रिषु लोकेषु जागृहि प्रजया च धनेन च॥ इमा उ मामुपतिष्ठन्तु राय आभिः प्रजाभिरिह
 197
 संवसेय। इहो इडा तिष्ठतु विश्वरूपी मध्ये वसोर्दीदिहि जातवेद इति प्राञ्चो ऽश्वप्रथमा अभिप्रव्रजन्ति॥५॥
-5. With prācimanu pradiśam..' this verse, and with a for mula and a verse beginning with vikramasva mahan asi and imā u mama patisthante rāye' with horse in front, they go
-towards the east.
-1. TS IV.6.5.a=TB I.2.1.22. 2. Cp. TB I.2.1.23. 3. TB I.2.1.21.
-4. The sacrificer and the priests.
+
+
 
 दक्षिणतो ब्रह्मा रथं रथचक्रं वा वर्तयति यावच्चक्रं त्रिः परिवर्तते॥६॥
-6. Towards the south (of the sacrificial place), the Brah man causes a chariot or wheel of chariotl to role as long as the wheel roles thrice.
-1. Cf. TB I.1.6.8.
 
-षट्कृत्वो द्वेष्यस्य॥७॥ . 7. Six times for an enemy.'
-1. Cf. MS I.6.6.
+
+षट्कृत्वो द्वेष्यस्य॥७॥ .
+
+
 जानुदने धारयमाणस्तृतीयमध्वनो ऽग्निं हरति नाभिने तृतीयमास्यदने तृतीयम्। न कर्णदनमत्युद्गृह्णाति॥८॥
-8. Holding at the level of his knees, (the Adhvaryu) car ries the fire for one third of the path;' ... at the level of his navel (another) one third; ....at the level of his mouth (the last) one third (...); he does not hold more than the level of ears.2
-1. From the Gārhapatya to the place of Āhavanīya.
-2. Cf. TB I.1.5.7.
+
+
 
 यद्युद्गृह्य निगृह्णीयान्मुखेन संमायादध्यात्॥९॥
-9. Having lifted up (the fire upto the level of knees etc.) if he brings it down' then having measureda it equal to the level his mouth, he should place it.
-1. by mistake.
-2. having brought.
+
 
 नाग्निामदित्यं च व्ययेयात्॥१०॥
-10. He should not go between the fire and the Sun.
+
 198
 
 
 दक्षिणतः परिगृह्य हरति॥११॥
-11. He carries it after having taken it to the right side 1
-1. Cf. MS 1.6.6. Thus the Adhvaryu keeps his hands turned to his
-right while carrying the fire.
+
 
 अर्धाध्वे यजमानो वरं ददाति॥१२॥
-12. At the half distance, the sacrificer gives a boon (cho sen gift) (to the Adhvaryu).1
-1. Cf. MS I.6.6.
+
 
 अर्धाध्वे हिरण्यं निधाय नाको ऽसि ब्रधनः प्रतिष्ठा संक्रमण इत्यतिक्रामति॥१३॥
-13. At the half distance, after having kept down gold (on the ground) with nāko'si bradhnah... the Adhvaryu steps be yond it.
-1. Cp. KS VII.13.
+
+
 
 प्राञ्चमश्वमभ्यस्थाद्विश्वा इति दक्षिणेन पदोत्तरतः संभारानाक्रमयति यथाहितस्याग्नेरङ्गाराः पदमभ्यववर्तेरन्निति॥१४॥
-14. With abhyasthād visvāh...' he makes the horse which is facing the east to step upon the materials (on the place of the Āhavanīya) from the north with its right foot in such a way that the coals of the fire (after it has been placed there) would fall upon the foot-print (of the horse).2
-1. TS IV. 2.8.1.
-2. Cf. TB I.1.5.8-9.
+
+
 
 प्रदक्षिणमावर्तयित्वा यदक्रन्द इति पुनरेवाक्रमयति॥१५॥
-15. Having made the horse to turn from the left to the right (i.e. in a clockwise manner), he makes it step upon (the same place) with yadakrandah...1
-1. TS IV.2.8.b. For this Sutra cf. TB I.1.5.5-6.
+
 
 पुरस्तात्प्रत्यञ्चमश्वं धारयति॥१६॥
-16. He holds the horse to the east (of the place of the Ahavaniya), with its face to the west.
+
+
 199
 ApSs Translation : THITE V.15]
 
 
 पूर्ववाडश्वो भवति॥१७॥
-17. The horse is one which is yoked for the first time (i.e.
-young one).
+
 
 
 तदभावे ऽनड्वान्पूर्ववाडेतानि कर्माणि करोतीति पैङ्गायनिब्राह्मणं भवति॥१८॥
-18. “In the absence of it a young ox does all these works” —Thus is (said in) the Paingāyani-Brāhmaṇa.'
-1. This work is not available. ŚB II.1.4.17 allows an ox instead of
-Horse.
+
+
 ## 05.15
 
 
 कमण्डलुपद आदधीतेति बढ्चब्राह्मणम्। अजस्य पद आदधीतेति वाजसनेयकम्॥१॥
-1. According to a Brahmana-text of the R̥gveda (the Adhvaryu) should place (the Āhavanīya-fire) on the foot-print of a Kamandalu.' According to the (view of) Vājasaneyaka? (he should place) on the foot-print of a he-goat.
-1. An unknown animal.
-2. This view is not found in the ŚB known to us.
+
 
 
 अथ यजमानः शिवा जपति ये ते अग्ने शिवे तनुवौ विराट्च स्वराट्च ते मा विशतां ते मा जिन्वताम्। ये ते अग्ने शिवे तनुवौ सम्राट्चाभिभूश्च ते मा विशतां ते मा जिन्वताम्। ये ते अग्ने शिवे तनुवौ विभूश्च परिभूश्च ते मा विशतां ते मा जिन्वताम्। ये ते अग्ने शिवे तनुवौ प्रभ्वी च प्रभूतिश्च ते मा विशतां ते मा जिन्वताम्। यास्ते अग्ने शिवास्तनुवस्ताभिस्त्वादध इति॥२॥
-2. At this stage the sacrificer mutters the auspicious (forms of Agni) with ye te agne sive tanvau....1
-1. TB I.1.7.2-3. ___
+
+
 
 यास्ते अग्ने घोरास्तनुवस्ताभिरमुं गच्छेति यजमानो द्वेष्याय प्रहिणोति ताभिरेनं पराभावयति॥३॥
-3. With yaste agne ghorāstanuvastābhiramum gacchal e sacrificer sends (the dangerous forms of Agni) to the hated enemy. With them be causes his defeat.?
-1. TB I.1.7.3. 2. TB I.1.8.6.
+
+
 200
 
 
 अरण्येऽनुवाक्या भवन्ति॥४॥
-4. There are also Aranye' nuvākya (chapters from the Aranyaka) (which the sacrificer should recite).1 '
-1. TA IV.22;23.
+
+
 
 यदिदं दिवो यददः पृथिव्याः संविदाने रोदसी संबभूवतुः। तयोः पृष्ठे सीदतु जातवेदाः शंभूः प्रजाभ्यस्तनुवे स्योन इत्यभिमन्त्र्य पुरस्तात्प्रत्यङ तिष्ठन्नाहवनीयमादधाति॥५॥
-5. Having addressed (the place of the Ahavaniya) with yadidam divah...' (the Adhvaryu) standing towards the east, with his face to the west, places the Āhavanīya-fire (on the
-materials).
-1. TB I.2.1.23-24.
-2. Contrast V.11.6;V.13.8.
+
 
 
 बृहति गीयमाने श्यैतवारवन्तीययोर्यज्ञायज्ञीये च यथाधानेन सर्वाभिर्व्याहतीभिः सर्वाभिः सर्पराज्ञीभिस्तृतीयेन च धर्मशिरसा यास्ते शिवास्तनुवो जातवेदो या अन्तरिक्ष उत पार्थिवीर्याः। ताभिः संभूय सगणः सजोषा हिरण्य योनिर्वह हव्यमने॥ अपानं त्वामृत आदधाम्यन्नादमन्नाधाय गोप्तारं गुप्त्यै। दिवस्त्वा वीर्येण पृथिव्यै महिम्नान्तरिक्षस्य पोषेण पशूनां तेजसा सर्वपशुमादधे॥
 अग्ने सम्राडजैकपादाहवनीय दिवः पृथिव्याः पर्यन्तरिक्षाल्लोकं विन्द यजमानाय। पृथिव्यास्त्वा मूर्धन्सादयामि यज्ञिये लोके। यो नो अग्ने निष्टयो यो ऽनिष्ट्यो ऽभिदासतीदमहं तं त्वयाभिनिदधामीति संभारेषु निदधाति॥६॥
-6. While the BỊhat', Śyeta? Vāravantīyaand Yajñāyajñiya (melodies are) being sung, with the placing formula in accord ance with the sages, with all the sacred utterances, 6 with all the Sārparājñī-verses, and with the third Gharmasiras-formula, and with the verses beginning with yāste tanuvo jātavedaḥ, apānaṁ tvāmste, agne samrādajaikapādāhavanīya, he places (the fuel-stick from the Gārhapatya) on the materials (on the place of the Ahavaniya).
-1. Aranyagana I.1.27. 2. Grāmagana VI.1.32. 3. Grāmagana I.1.30. 4. Aranyagana I.2.25.ApSs Translation : THITE
-V.16]
-201
-5. See V.11.7. 6. See V.12.1. 7. See V.12.1. 8. See V.12.2.
+
+
 ## 05.16
 
 
 आनशे व्यानशे सर्वमायुानशे। अहं त्वदस्मि मदसि त्वमेतन्ममासि निस्तव योनिरस्मि। ममैव सन्वह हव्यान्यग्ने पुत्रः पित्रे लोककृज्जातवेद इत्याधीयमानमभिमन्त्रयते यजमानः॥१॥
-1. With ānase vyānase... and with aham tvadasmi...2 the sacrificer addresses the (fire) being placed.
-1. TB I.2.1.24.
-2. TB I.2.1.20.
+
 
 व्याहृतीः सर्पराज्ञीर्घर्मशिरांसीति सर्वेष्वाधानेषु यजमानो ऽनुवर्तयते येनयेनादधाति॥२॥
-2. In all the placings (of the fires) the sacrificer repeats the sacred utterances, Sarparājñī-verses, and Ghramaģiras-for mulae with which (the Adhraryu) places (the fires).
 
 
-नाहितमनभिहुतमग्निमुपस्पृशति। आज्येनौषधीभिश्च शमयितव्यः॥३॥ ____3. He does not touch the fire which has been established and in which no offering has been madel. The fire should be pacified by means of ghee and herbs2.
-1. The newly established fire is dangerous as it were.
-2. Cf. KS VIII. 11. या ते अग्ने पशुषु पवमाना प्रिया तनूर्या पृथिव्यां याग्नौ या रथन्तरे या गायत्रे छन्दसि तां त एतेनावयजे स्वाहा। या ते अग्ने ऽप्सु पावका प्रिया तनूयोन्तरिक्षे या वायौ या वामदेव्ये या त्रैष्टुभे छन्दसि तां त एतेनावयजे स्वाहा। या ते अग्ने सर्ये शचिः प्रिया दर्या दिवि यादित्ये या बृहति या गत छन्दसि तां त एतेनावयजे स्वाहेत्येतैः प्रतिमन्त्रमाज्यमोषधीश्च जुहोति॥४॥
-4. With each one of the following formulae (the sacri > offers ghee and herbs in the three fires: yā te agne
-ficer) offers ghee : pasusu...
+
+नाहितमनभिहुतमग्निमुपस्पृशति। आज्येनौषधीभिश्च शमयितव्यः॥३॥  
+
+
+
+या ते अग्ने पशुषु पवमाना प्रिया तनूर्या पृथिव्यां याग्नौ या रथन्तरे या गायत्रे छन्दसि तां त एतेनावयजे स्वाहा। या ते अग्ने ऽप्सु पावका प्रिया तनूयोन्तरिक्षे या वायौ या वामदेव्ये या त्रैष्टुभे छन्दसि तां त एतेनावयजे स्वाहा। या ते अग्ने सर्ये शचिः प्रिया दर्या दिवि यादित्ये या बृहति या गत छन्दसि तां त एतेनावयजे स्वाहेत्येतैः प्रतिमन्त्रमाज्यमोषधीश्च जुहोति॥४॥
+
 202
 
 
 समिध आदधातीत्येके॥५॥
-5. According to some (ritualists) he offers fuel-sticks (with these formulae).
+
 
 
 ब्रह्माग्न्याधेये सामानि गायति॥६॥
-6. In the Agnyādheya (-ritual) the Brhaman sings Sāmans 1
-1. According Lātyāss IV.10.1ff and Drāhyass XII.1. 29ff either the
-Brahman or the Udgātr̥ should sing sāmans in the Agnyādheya (fire-establishment-)ritual. According to Jaminīyaśs 22 the Udgātr should sing the Sāmans. It mentions a view according to which the Brahman may sing them. According to Kātyāss IV.9.1-9, ei
-ther Adhvaryu or the Brahman should sing the Sāmans.
+
+
 
 प्रतिषिद्धान्येकेषाम्॥७॥
-7. According to somel (ritualists the Sāmans are) prohib ited (in the Agnyādheya-ritual).
-1. The Kathas in the Agnyādheya-Brāhmaṇa.
+
 
 व्याहृतीभिरेवोद्गीथं भवतीति वाजसनेयकम्॥८॥
-8. The Vājasaneyaka (opinion is that the work of) Udgitha (singing) is done by the sacred utterances (Vyāhịtis) them selves.
-1. This opinion is not found in either ŚB or Kātyāśs. See, however,
-ŚB II.1.4.14, 25.
+
+
 ## 05.17
 
 
 ततः सभ्यावसथ्यावादधाति लौकिकमग्निमाहृत्य मथित्वाहवनीयाद्वा यथाधानेन॥१॥
-1. Then (the Adhvaryu) places the Sabhyal and Āvasathya--(fires) having either brought the profane fire or having churned out or (having tiken them) from the Ahavaniya with the formulae of placing in accordance with the sages.
-1. See V.11.7. 2. See V.4.7-8.
+
+
 LUJ
 ĀPŚS Translation : THITE V.17]
 
 
-अग्न आयूंषि पवसे ऽग्ने पवस्व स्वपाः। अग्निऋषिः पवमानः पाञ्चजन्यः परोहितः। तमीमहे महागयमिति तिस्त्र आश्वत्थ्यः समिध एकैकस्मिन्नादधाति॥२॥
-2. With agna ayumsi pavase...', agnir rsih pavamānah...2 and tamimahe mahāgayam... 3 he puts three fuel-sticks of Aśvattha-tree in each of these fires.
-1-2. TS I.6.6.1-m.
-3. MS I.5.1.
+अग्न आयूंषि पवसे ऽग्ने पवस्व स्वपाः। अग्निऋषिः पवमानः पाञ्चजन्यः परोहितः। तमीमहे महागयमिति तिस्त्र आश्वत्थ्यः समिध एकैकस्मिन्नादधाति॥२॥  
+
 
 आहवनीये वा तिस्रः॥३॥
-3. Or (he offers) three (fuel-sticks) in the Ahavaniya ( fire)."
-1. Cf. MS I.6.5.
+
 
 समुद्रादूर्मिर्मधुमाँ उदारदुपांशुना सममृतत्वमानट। घृतस्य नाम गुह्यं यदस्ति जिह्वा देवानाममृतस्य नाभिः॥ वयं नाम प्रब्रवामा घृतेनास्मिन्यज्ञे धारयामा नमोभिः। उप ब्रह्मा शृणवच्छस्यमानं चतुः शृङ्गोऽवमीद्गौर एतत्॥ चत्वारि शृङ्गा त्रयो अस्य पादा द्वे शीर्षे सप्त हस्तासो अस्य। त्रिधा बद्धो वृषभो रोरवीति महो देवो मत्याँ आविवेशेति शमीमय्यो घृतान्वक्तास्तिसृभिस्तिस्त्र एकैक स्मिन्नादधाति। आहवनीये वा तिस्त्रः॥४॥
-4. With three verses viz. samudrādūrmir madhumān...!, vayam nāma prabravāma...2 catvari Friga...3 he puts three (fuel-sticks) of Sami(-tree) soaked in ghee in each (fire) or he puts three sticks in the Āhavanīya.
-1-3. Cp. MS I.6.2. ___
+
 
 एवं नानावृक्षीयाः। प्रेद्धो दीदिहि पुरो न इत्यौदुम्बरी समिधमादधाति। विधेम ते परमे जन्मन्नग्न इति वैकडूतीम्। तां सवितुर्वरेण्यस्य चित्रामिति
 शमीमयीम्॥५॥
-5. In the same manner he puts fuel-sticks of different trees in fires; with preddho agne didihi...' (he puts fuel-stick) of Udumbara-tree; with vidhema te parame janman...2 (...) Vikankata-tree; with tām savitur varenyasya...3 (...) Sami-tree.
-1-3. TS IV.6.5.k-m.
+
+
 204
 ouras. There
 
 हो जुहोति
 ततस्तूष्णीमग्निहोत्रं जुहोति॥६॥
-6. Then he performs the morning-Agnihotra silently (with. out any formula).'
-___ 1. Ct. TB I.1.6.9.
+
 
 
 अपि वा द्वादशगृहीतेन त्रुचं पूरयित्वा प्रजापतिं मनसा ध्यायञ्जहोति साग्निहोत्रस्य स्थाने भवति॥७॥
-7. Or having filled the ladle with twelve-time-scooped ghee he offers it while mentally thinking about Prajapati. This (of fering) is in the place of (morning-)Agnihotra.
+
 
 
 यास्ते अग्ने घोरास्तनुवस्ताभिरमुं गच्छेति यजमानो द्वेष्याय प्रहिणोति ताभिरेनं नितमयति। अरण्येऽनुवाक्या भवन्ति॥८॥
-8. With yaste agne ghorāstanuvah...1 the sacrificer sends (the dangerous forms of Agni) to the enemy; with them he causes trouble to him. There are (also) the Aranye' nuvākya (-formulae).1
-1. Cp. V.15.3-4.
+
+
 ## 05.18
 
 
 
 द्वादशगृहीतेन स्रुचं पूरयित्वा सप्त ते अग्ने समिधः सप्त जिह्वा इति सप्तवत्या पूर्णाहुतिं जुहोति। हुतायां यजमानो वरं दत्त्वा शिवा जयति। ये अग्नयो दिवो ये पृथिव्याः समागच्छन्तीषमूर्जं दुहानाः। ते अस्मा अग्नयो द्रविणं दत्त्वेष्टाः प्रीता आहुतिभाजो भूत्वा यथालोकं पुनरस्तं परेत स्वाहेति जुहोति॥१॥
-___ 1. By means of the ladle (viz. Juhā) filled with twelve times-scooped ghee (the Adhvaryu) offers a full-spoon liba tion with a verse containing the word sapta (seven) beginning with sapta te agne samidhah' After (this libation) is offered, the sacrificer having given a boon (chosen gift) (to the Adhva ryu), mutters (the formulae mentioning) the auspicious (forms of Agni).2 Then (the Adhvaryu) offers (another) libation with ye agnayo divah....
-1. TS I.5.3.h 2. See V.15.2. 3. Cp. MS I.6.7.
-205 ___अथ विराटक्रमैर्यजमान उपतिष्ठते ऽथर्व पितुं मे गोपायानं प्राणेन मितम। त्वया गुप्ता इषमूर्जं मदन्तो रायस्पोषेण समिषा मदेमेत्यन्वाहार्यपचनम। नर्य प्रजां मे गोपाय मूलं लोकस्य संततिम्। आत्मनो हृदयान्निर्मितां तां ते परिददाम्यहमिति गार्हपत्यम्॥ शंस्य पशून्मे गोपाय विश्वरूपं धनं वसु। गृहाणां पष्टिमानन्दं तांस्ते परिदाम्यहमित्याहवनीयम्॥ सप्रथ सभा मे गोपायेन्द्रियं भतिवर्धनम्। विश्वजनस्य छायां तां ते परिददाम्यहमिति सभ्यम्॥ अहे बुध्निय मन्त्रं मे गोपाय श्रियं च यशसा सह। अहये बुध्नियाय मन्त्रं श्रियं यशः परिद दाम्यहमित्यावसथ्यम्॥ पञ्चधाग्नीव्यक्रामद्विराट् सृष्टा प्रजापतेः। ऊर्ध्वारो हद्रोहिणी योनिरग्नेः प्रतिष्ठितिरिति सर्वान्॥२॥
-2. Then the sacrificer stands near the fires praising with verses called Viratkramal with atharva pitum me...2 (near) the Daksina-fire; with narya prajām me... near the Garhapatya ( fire); with samsya pasun me ...4 (near) the Ahavaniya (-fire); with sapratha sabham me gopāya...5 (near) the Sabhya(-fire); with ahe budhniya mantram me gopāya...' (near) the Avasathya (-fire); with pancadhāgnin vyakrāmad virāt...' near all the fires.
-1. See TB I.1.10.1-3;6. 2-6. Cp. TB I.2.1.25-26. 7. TB I.2.1.27.
+
+
+अथ विराटक्रमैर्यजमान उपतिष्ठते ऽथर्व पितुं मे गोपायानं प्राणेन मितम। त्वया गुप्ता इषमूर्जं मदन्तो रायस्पोषेण समिषा मदेमेत्यन्वाहार्यपचनम। नर्य प्रजां मे गोपाय मूलं लोकस्य संततिम्। आत्मनो हृदयान्निर्मितां तां ते परिददाम्यहमिति गार्हपत्यम्॥ शंस्य पशून्मे गोपाय विश्वरूपं धनं वसु। गृहाणां पष्टिमानन्दं तांस्ते परिदाम्यहमित्याहवनीयम्॥ सप्रथ सभा मे गोपायेन्द्रियं भतिवर्धनम्। विश्वजनस्य छायां तां ते परिददाम्यहमिति सभ्यम्॥ अहे बुध्निय मन्त्रं मे गोपाय श्रियं च यशसा सह। अहये बुध्नियाय मन्त्रं श्रियं यशः परिद दाम्यहमित्यावसथ्यम्॥ पञ्चधाग्नीव्यक्रामद्विराट् सृष्टा प्रजापतेः। ऊर्ध्वारो हद्रोहिणी योनिरग्नेः प्रतिष्ठितिरिति सर्वान्॥२॥
+
 ## 05.19
 
 
 आग्नेयस्याष्टाकपालस्य तन्त्रं प्रक्रमयति॥१॥
-1. The Adhvaryu starts the paradigm of the (sacrificial bread prepared) on eight potsherds, for Agni.
+
 
 
 निरुप्तं हविरुपसन्नमप्रोक्षितं भवति। अथ सभाया मध्येऽधिदेवनमुद्धत्या वोक्ष्याक्षान्युप्याक्षेषु हिरण्यं निधाय समूह्य व्यूह्य प्रथयित्वा निषसाद धृतव्रत इति मध्ये ऽधिदेवने राजन्यस्य जुहोति॥२॥
-. 2. While (the material for the above-mentioned) oblation has been poured out, kept ready but (water) is not sprinkled upon it,' then having dug out gambling-place in the middle of the hall (by means of the wooden sword i.e. Sphya), having sprinkled water with the palm downwards, upon it, having thrown dice, having placed gold upon the dice, having brought
-206
-the dice together and then having separated them, having som
-read them, he offers a libation for a Kṣatriya-sacrificer? on the mid dle of the gambling-place with ni ṣasāda dhytavratah...3
-1. Thus the activities upto 1.18.5 have been performed. 2. i.e. if the sacrificer is a Kṣatriya. For this cf. MS 1.6.11.
-3. TS I.6.16.a. . आवसथे परिषदो मध्ये हिरण्यं निधाय मन्त्रवत्या हिरण्ये जहोति । नूनं ब्रह्मणस्पतिर्मन्त्रं वदत्युक्थ्यम्। यस्मिन्निन्द्रो वरुणो मित्रो अर्यमा देवा ओकांसि चक्रिर इति॥३॥
-3. In the Guest-house, having kept gold in the middle of the gathering, he offers a libation of ghee on the gold with a verse containing the word mantra viz. pra nūnaṁ brahmana spatih...1
-___ 1. For this Sutra as well as the verse cf. KS VIII.7.
+
+
+
+आवसथे परिषदो मध्ये हिरण्यं निधाय मन्त्रवत्या हिरण्ये जहोति । नूनं ब्रह्मणस्पतिर्मन्त्रं वदत्युक्थ्यम्। यस्मिन्निन्द्रो वरुणो मित्रो अर्यमा देवा ओकांसि चक्रिर इति॥३॥
+
 
 
 उत नो ऽहिर्बुध्यः शृणोत्वज एकपात्पृथिवी समुद्रः। विश्वे देवा ऋतावृधो हुवानाः स्तुता मन्त्राः कविशस्ता अवन्तु न इत्युक्त्वा शतमक्षान्यजमानाय प्रयच्छन्नाह व्रीहिभ्यो गां दीव्यताहिंसन्तः परूंषि विशसतेति॥४॥
-4. Having said uta no'hir budhnyaḥ śrṇotu...' giving a hundred dice to the sacrificer, he says (to the gamblers) “Do you gamble away the cow for the sake of rice-grains; without killing (the cow) divide its limbs”. 3
-1. Cp. RV VI.50.14. 2. Cf. MS I.6.11. 3. Cf. MS 1.6.11. The cow is not killed. But the limbs of it won by ___the gamblers are substituted by rice-portions.
+
 
 संप्रैषवत्कुर्वन्तिा५॥
-5. (The gamblers) do as per the order.
-1. The sacrificer is included among these.
+
 ## 05.20
 
 
-कृतं यजमानो विजिनाति॥१॥ , The sacrificer wins the Krtali
-1. This signifies victory.
+कृतं यजमानो विजिनाति॥१॥  
+
 A
 207
 तया यज्जयन्ति तदन्नं संस्कृत्य सभासद्भय उपहरन्ति॥२॥
-2. What they2 win by means it (cow) having prepared and out of it they give it to those sitting in the hall.”
-1. Rice-grains. 2. The gamblers.
-3. Cf. KS VIII.7; MS I.6.11.
+
+
 ·
 
 आवसथे भुञ्जते॥३॥
-3. They eat (the rice-pap) in the guest-house.'
-1. Cf. TB I.1.10.6.
+
+
 
 क्लुप्तिसामनसीभ्यामग्नीन्यजमान उपतिष्ठते कल्पेतांद्यावापृथिवी येऽग्नयः समनस इति॥४॥
-4. With the verse called K!pti and Sāmanasi beginning with kalpetāṁ dyāvāpsthivi and ye'gnayaḥ samanasaḥ,' the sacrificer stands near the fires praising them.
-1. TS IV.4.11.g; cp. TB I.2.1.18.
+
 
 प्रोक्षादि कर्म प्रतिपद्यते॥५॥
-5. (The Adhvaryu) starts the work like sprinkling (water)
-etc. 1
-।
-1. Now the work of the offering interrupted at V.19.2 is continued ____ and the rites mentioned in I.19.1-III.4.1. are performed.
+
+
 
 आग्नेयस्य दक्षिणाकाले दक्षिणा ददाति॥६॥
-6. At the time of the gifts in connection with the sacrificial bread for Agni, (the sacrificer gives gifts connected with the fire-establishment).
+
 
 
 अजं पूर्णपात्रमुपबहणं सार्वसूत्रमित्यग्नीधे॥७॥ वहिनमश्वं ब्रह्मणे ऽध्वर्यवे ८॥ आहवनीयदेशे ऽनड्वाहमध्वर्यवे॥९॥अपरेण गार्हपत्यं धेनुं होने॥१०॥
-1-10. (He gives) a he-goat, a full-pot', a pillow prepared uthreads of all (colours) to the Agnidhra(-priest); a horse ble of carrying (a chariot) to the Brahman or to the ayu, an ox. to the Adhvaryu (situated) near the place of
-Adhvaryu; an ox
-[V.20
-208
-ĀPŚS Translation : THITE the Ahavaniya(-fire); a milch-cow' to the Hotr (situated in west of the Gārhapatya(-fire).
-1. i.e. a particular measurement of rice. 2. Cf. TB I.1.6.10.
-3. TB I.1.6.10.
+
+
 
 वासो मिथुनौ गावौ नवं च रथं ददाति। तानि साधारणानि सर्वेषामा
-11. (He gives) a garment,' a cow and a bull, a new chariot 2 These are common to all (the priests i.e. to every one).
-1. Cf. TB I.1.6.11.
-2. Cf. KS VIII.8.
+
+
+
 आ द्वादशभ्यो ददातीत्युक्त्वाह काममूर्ध्वं देयमपरिमितस्यावरुद्धय इति विज्ञायते॥१२॥
-12. Having said, “He gives upto twelve gifts” a Braha maṇa-text' says, “Let more be given, in order to obtain unmeasurable (prosperity)" -thus is known.
-____ 1. TB I.1.6.11.
+
 
 
 ऊर्ध्वमादिष्टदक्षिणाभ्यो वदति षड् देया द्वादश देयाश्चतुर्विंशतिर्देया इति॥१३॥
-13. About the gifts more than twelve (the Brāhmaṇa-text)' says six (gifts) be given twelve be given, twenty-four be given.
-__ 1. KS VIII.8; cp. SB II.2.2.3-5.
+
 
 ता विकल्पन्ते॥१४॥
-14. They are optional.1
-1. The numbers mentioned in Sūtra 13 can be applicable to the gifts
-mentioned in Sūtra 7-11.
+
 
 येषां पशूनां पुष्टिं भूयसी कामयेत तेषां वयसाम्॥१५॥
-15. (He should give cows) of that age' prosperity of cows of which are among his cattle he may desire.?
-1. Cows are divided into various groups on the basis of their age as
-follows 1. six months old. 2. one year old (ekahāyanī). 3. 11h years old (tryavi). 4. 2 years old dityavāh/dityauhi. 5. 21/2 years
-old pañcāvi. 6. 3 years old trivatsā. 7.312 years old turyaväh. 8. __4 years old (pasthavahlpasthauhi). 2. Cr. MS. I.6.4.
+
 209
 ApSs Translation : THITE v.21]
 
 
 दित्यौहीं दद्याद् दित्यवाहं च मुष्करम्॥१६॥
-16. He should give a two-year old cow and two year old
-uncastrated bull.
+
 
 
 वर्धमानां दक्षिणां ददाति॥१७॥
-17. He should give gifts in an increasing manner.'
-1. Cf. KS VIII.8.
+
 
 यद्यनाढ्यो ऽग्नीनादधीत काममेवैकां गां दद्यात्सा गवां प्रत्याम्नायो भवतीति विज्ञायते॥१८॥ .
-18. “If a (sacrificer who is) not rich establishes fies, he may at will give only one cow (as a gift). That (cow) becomes the representative of (all) the cows"—thus is known from a Brāhmaṇa-text.
-1. This is the view of Paingaka Brāhmaṇa (cf. Jamini-śrautasūtra
-XXII; cf. also Baudhāśs II.7) which is not available. 19. The Isti (offering of sacrificial bread to Agni) stands completely established (i.e. concluded) in accordance with the usual paradigm.1
-1. Thus the rites mentioned in III.4.1 ff are to be performed.
+
+
+सिद्धमिष्टिः सन्तिष्ठते १९
+
 ## 05.21
 
 पवमानहवींषि सद्यो निर्वपेत्॥१॥
-1. On the same day (the Adhvaryu) pours out the material for the sacrificial oblations called Pavamānahavīsṣi.
-____1. These oblations are to be offered to Agni Pavamāna, Agni Pavaka
-and Agni Suci. Cf. TB I.1.5.10;I.1.6.1-3.
+
 
 द्वादशाहे द्वयहे त्र्यहे चतुरहे ऽर्धमासे मास्यूतौ संवत्सरे वा॥२॥
-2. Or he may do so after twelve days, two days, three ways, four days, half a month, one month, one season, or one
-year.
-1. Cf. TB I.1.6.7; cp. also KS VIII.8.
+
+
 
 न सोमेनायक्ष्यमाणः पुरा संवत्सरान्निर्वपेत्॥३॥
-• A (sacrificer who) is not going to perform a Soma
--
-210
-sacrifice should not pour out the material (for the above- men. tioned offering) before one year.1
-1. Cf. MS I.6.10. निर्वपेदित्येके॥४॥
-4. According to some (ritualists) he (also) may pour out (i.e. perform the above-mentioned offering).
+
+निर्वपेदित्येके॥४॥
+
 
 
 यदि निर्वपेदग्नये पवमानायाग्नये पावकायाग्नये शुचय इति तिस्त्र आज्याहुतीः सोमदेवताभ्यो वा हुत्वा निर्वपेत्॥५॥
-5. If he pours out (i.e. performs the offering) having of fered three libations of ghee to Agni Pavanāna, Agni Pāvaka and Agni Suci or to the Soma-deities.
+
 
 
 समानतन्त्राणि वाग्नेयेन वा समानतन्त्राणि॥६॥
-6. The oblations viz. Pavamanahavimsi should be per formed in a common procedure, or with different procedures (for each one of them) or with a common procedure with that of the sacrificial bread to Agni.
+
 
 
 यं कामयेत पापीयान्स्यादिति तस्यैकमेकमेतानि हवींषि निर्वपेत्। न वसीयान्न पापीयानिति तस्य साकं सर्वाणि। यं कामयेतोत्तरं वसीयाञ्छ्यान्स्या दिति तस्याग्नये पवमानाय निरुप्य पावकशुचिभ्यां समानबर्हिषी निर्वपेत्॥७॥
-7. In the case of a (sacrificer) about whom (the Adhvaryu) desires, “May he be poorer” for him he should pour out the material of these oblations one by one;' In the case of a (sacri ficer) (about whom the Adhvaryu desires) “May he not be richer, not poorer”, for him (he should pour out) all the mate rials together;2 (In the case of a sacrificer) about whom (the Adhvaryu desires) “May he be richer, better in future” for him, having poured out material for Agni Pavamāna, he should pour out the materials for Agni Pāvaka and Agni Suci (for the offering to be performed) on a common Barhis (i.e. in a com mon procedure).3
-1. i.e. he should offer the three oblations each separately. 2. i.e. he should offer all the three oblations in a common procedure. 3. For these details cf. MS I.6.7ff.V.22]
+
+V.22
+
 ApSs Translation : THITE
 211
 
 
 शतमानं हिरण्यं दक्षिणा।८॥
-& Gold weighing hundred Mānas (should be given) as a gift for this offering.
-1. Māna=Guñjā-fruit used for weighing gold. पर्वयोर्हविषोझै त्रिंशन्माने उत्तरस्मिंश्चत्वारिंशन्मानम्॥९॥
-9. In the first two oblations two goden pieces of thirty Mānas each; in the next one golden piece of forty Mānas should be given.
-'For Sūtras 8-9, cf. MS 1.6.4.; cp. KS VII.5.
+
+
+पर्वयोर्हविषोझै त्रिंशन्माने उत्तरस्मिंश्चत्वारिंशन्मानम्॥९॥
+
+
 
 येन हिरण्यं मिमते तेन मीत्वा ददाति॥१०॥
-10. Having measured the gold with that weight with which (the merchants) measure it, (the sacrificer) gives it.
+
 
 
 सिद्धमिष्टिः संतिष्ठते॥११॥
-11. The offering stands completely established in the usual manner.
-1. Concluded.
+
+
 ## 05.22
 
 
 
 ऐन्द्राग्नमेकादशकपालमनुनिर्वपत्यादित्यं च घृते चरुम्॥१॥
-1. (The Adhvaryu) takes out the material for a (sacrificial bread) on eleven potsherds for Indra-and-Agni and for a rice pap for Aditi.
+
 
 
 सप्तदश सामिधेन्यः॥२॥
-2. (In this offering there should be) seventeen enkindling verses.
+
 
 
 चतुर्धाकरणकाल आदित्यं ब्रह्मणे परिहरति॥३॥
-3. At the time of division into four (parts of the sacrificial bread') (the Adhvaryu) brings the rice-pap for Aditi to the Brah
-man.2
-1. See III.3.2. 2. Cr. MS I.6.8.
+
 212
 
 
 तं चत्वार आर्षेयाः प्राश्नन्ति॥४॥
-4. Four priests whose ancestors are Rṣis, eat that rice. pap.
+
 
 
 प्राशितवद्भयः समानं वरं ददाति। धेन्वनुडुहोर्दानमेके समामननि सिद्धमिष्टिः संतिष्ठते॥५॥
-5. (The sacrificer) gives the same boon (chosen gift) to each of them after they have eaten.' According to the opinion of some (ritualists) the gift should consist of a milch-cow and an ox. The offering stands completely established in the usual manner.
-___ 1. Cf. MS I.6.6.
+
 
 
 आग्नावैष्णवमेकादशकपालमनुनिर्वपत्यग्नीषोमीयमेकादशकपालं विष्णवे शिपिविष्टाय ज्युद्धौ घृते चरुम्॥६॥
-6. (The Adhvaryu) pours out material for (sacrificial bread) on eleven potsherds for Agni-and-Visnu; for (sacrifi cial bread) on eleven potsherds for Agni-and-Soma, and for rice-pap to be cooked, in ghee in a vessel with three proturberances for Viṣṇu Sipivista."
-1. Cf. MS I.6.8;KS VIII. 10.
+
 
 सिद्धमिष्टिः संतिष्ठते॥७॥
-7. The offering stands completely established in the usual manner.
+
 
 
 आदित्यं घृते चळं सप्तदशसामिधेनीकं धेनुदक्षिणां सर्वेषामनुनिर्वाप्याणां स्थाने वाजसनेयिनः समामनन्ति॥८॥
-8. In the opinion of Vājasaneyins in the place of all the offerings to be performed after (the Tanuhavis-offering) (an offering of) rice-pap cooked in ghee for Aditi, with seventeen enkindling verses and a with a milch-cow as a sacrificial gift (should be performed).'
-1. See SB II.2.1.18-20. Only the mention of seventeen enkindling
-verses does not find support here.
-V.22)
+
+
+V.22
 ranslation : THITE
 213
 
 
 सिद्धमिष्टिः संतिष्ठते॥९॥
-9. The offering stands completely established in the usual
-manner.'
-1. This indicates that Āpastamba accepts the view of ŚB as an alter
-native.
+
 
 अग्निहोत्रमारप्स्यमानो दशहोतारं मनसानुद्रुत्याहवनीये सग्रहं हुत्वाथ सायमग्निहोत्रं जुहोति॥१०॥
-10. When the sacrificer is about to start performing Agnihotra, having mentally recited the Daśahotf-formula, having offered a libation (of ghee in the Āhavanīya) by means of Darvi(-Iadle) with the (portion called) Graha? (in the Daśahotr̥-formula), in the Āhavaniya(-fire), then offers the evening-Agnihotra.3
-1. TĀ III.1;cf. TB II.2.2.1. 2. TĀ III.1.b. 3. After the ritual mentioned in VI.10.8. For the morning-Agnihotra
-on this day see V.17.6ff.
+
+
 
 व्याहृतीभिरुपसादयेत्॥११॥
-11. (In the evening-Agnihotra) he should keep (the Agnihotra-milk to the west of the Āhavanīya-fire on the sacred grass) with sacred utterances (viz. bhūḥ bhuvaḥ svah).'
-1. Instead of the usual formula. See VI. 8.11.
+
+
 
 संवत्सरे पर्यागत एताभिरेवोपसादयेत्॥१२॥
-12. After one year is over, (in the evening-Agnihotra at that time also) he should keep (the Agnihotra-milk...) with the same sacred utterances.
-1. Cf. TS 1.6.10.3.
+
+
 
 द्वादशाहमजनेष्वग्निषु यजमानः स्वयमग्निहोत्रं जुहुयादप्रवसन्नहतं वासो farufaf118711
-13. In continuously burning fires' for twelve days, the sac rificer himselfshould offer the Āgnihotra(-libation) without staying away. (During this period) he wears a new garment.
-1. On other days only Gārhapatya is continuously burning, see
-VI.2.13. 2. in contrast to the other days during which it is the Adhvaryu who
-does this work.
+
+
 214
 [V.23
-___ApSs Translation : THITE
+ApSs Translation : THITE
 ## 05.23
- यां प्रथमामग्निहोत्राय दोग्धि तां दक्षिणां ददाति॥१॥
-1. (The sacrificer) gives that cow which he milks first for the sake of the Agnihotra as a gift (to any one whom he likes to give).
+यां प्रथमामग्निहोत्राय दोग्धि तां दक्षिणां ददाति॥१॥
+
 
 
 अथैकेषाम्। अग्नीनाधाय हस्ताववनिग्य संवत्सरमग्निहोत्रं हत्वाथ दर्शपूर्णमासावारभते ताभ्यां संवत्सरमिष्ट्वा सोमेन पशुना वा यजते तत ऊर्ध्व मन्यानि कर्माणि कुरुते॥२॥
-2. Now according some (ritualists): Having established fires, having washed his hands, having performed the Agnihotra for one year, (the sacrificer) starts performing New and Full moon sacrifices. Having performed them for one year he per forms a Soma-sacrifice or an animal-sacrifice. Thereafter he performs other rituals.
+
 
 
 त्रयोदशरात्रमहतवासा यजमानः स्वयमग्निहोत्रं जुहुयादप्रवसन्नत्रैव सोमेन पशुना वेष्ट्वाग्नीनृत्सुजति यथा सुयवसान्कृत्वा प्राध्यात्तादृक्तदिति शाट्यायनिब्राह्मणं भवति॥३॥
-3. There is the Satyayani-Brahmana as follows: “Wearing new garment the sacrificer without staying away should him self perform the Agnihotra for thirteen days. At that time itself having performed a Soma-sacrifice or an animal-sacrifice he gives up (the act of keeping) the fires (always burning). Just as having made (one's animals) wellfed (with grass) one may drive them (i.e. yoke them to vehicles) this is like thatl.1
-1. cp.JB.
+
+
 
 पूर्णा पश्चाद्यत्ते देवा अदधुरिति सारस्वतौ होमौ हुत्वान्वारम्भणीयामिष्टिं निर्वपति॥४॥
-4. With purṇā paścāt' and yat te devā adadhuḥ2 having offered the two offerings to Sarasvat, he performs the Anvāram bhṇīyā-offering (which marks the beginning of the New and Full-moon-sacrifices). 3
-1-2. TS III.5.1.a-b. 3. Cf. TS III.5.1.4.
+
 215
 
 आग्नावैष्णवमेकादशकपालं सरस्वत्यै चरुं सरस्वते द्वादशकपालम्॥५॥
-5 (He offers a sacrificial bread) on eleven potsherds to Mani-and-Viṣṇu, rice-pap to Sarasvatī, (and a sacrificial bread) on twelve potsherds to Sarasvat. 1
-1. These are the details of the Anvārambhaniyā-offering.
+
 
 अग्नये भगिनेऽष्टाकपालं यः कामयेत भग्यन्नादः स्यामिति॥६॥
-6. A (sacrificer) who desires, “May I be lucky, eater of food”. (should offer a sacrificial bread) on eight potsherds to Agni Bhagin.1
-1. Cf. MS I.4.15.
+
 
 नित्यवदेके समामनन्ति॥७॥
-7. According to the opinion of some (ritualists) this offer ing is as good as obligatory.
+
 
 
 नानातन्त्रमेके॥८॥
-8. According to some other (ritualists) (this offering should be performed) with separate procedure.
-1. Thus when the offering to Agni Bhagin is considered to be obliga
-tory it should be performed separately.
+
 
 त्वद्विश्वा सुभग सौभगान्यग्ने वि यन्ति वनिनो न वयाः। श्रुष्टी रयिर्वाजो वृत्रतूर्ये दिवो वृष्टिरीह्यो रीतिरपाम्॥ त्वं भगो न आ हि रलमिषे परिज्मेव क्षयसि दस्मवर्चाः। अग्ने मित्रो न बृहत ऋतस्यासि क्षत्ता वामस्य देव भूरेरिति याज्यानु वाक्ये॥९॥
-9. The verses beginning with tvadviśvā subhagal and tvam bhago na ā hi ratnam2 should be used as invitatory and offer ing-verses in the offering to Agni Bhagin.
-1-2. RV VI. 13.1-2.
+
 ## 05.24
 
 
 चित्तं च चित्तिश्चेति पुरस्तास्विष्टकृतो जयाञ्जुहोति॥१॥
-1. With cittam ca cittiscal (the Adhvaryu) offers the (two) Jaya-libations before the Svistakrt offering.
-1. TS III.4.4.9. 2. Thus immediately after the main-offering. For this Sūtra cf. MS
-I.4.14.
+
 216
 
 
 चित्ताय स्वाहा चित्त्यै स्वाहेत्येके समामनन्ति॥२॥
-2. In the opinion of some (ritualists he offers the above. mentioned libations) with cittaya svähä сittyai svāhā.
+
 
 
 प्रजापति यानिति त्रयोदशीम्॥३॥
-3. With prajāpatir jayān...' he offers the thirteenth liba tion.
-1. TS III. 4.4.b; cf. MS I.4.14.
+
 
 
 अग्ने बलद सह ओजः क्रममाणाय मे दाः। अभिशस्तिकृते ऽनभिशस्तेन्यायास्यै जनतायै श्रेष्ठ्यायेति चतुर्दशी यः कामयेत चित्रं जनतायां स्यामिति। चित्रं भवति शबलं त्वस्य मुखे जायते॥४॥
-4. With agne balada saha ojah... he who desires, “May I be distinguished among the people”, should offer the four teenth libation-he becomes distinguished; but mixed colour is produced on his face.
+
 
 
 मिथुनौ गावौ दक्षिणा॥५॥
-5. A bull and a cow are the sacrificial gifts.1
-1. Cf. TS III.5.1.4.
+
 
 सिद्धमिष्टिः संतिष्ठते॥६॥
-6. The offering stands completely established in the usual manner.
+
 
 
 दर्शपूर्णमासावारप्स्यमानश्चतुर्होतारं मनसान्द्रुत्याहवनीये सग्रहं हुत्वाथ दर्शपूर्णमासावारभते॥७॥
-7. When the sacrificer is about to perform the New and Full-moon-sacrifices, having mentally recited the Caturhotr formula,' having offered a libation of ghee in the Āhavaniya by means of Darvi (ladle), with (the portion called) Graha (in the Caturhotf-formula)2 he starts the New and Full-moon-sacri fices.
-1. TA III.2.1. 2. TA III.2.2. 3. Cp. V.22.10.
+
 217
 
 व्याहृतीभिर्हवींष्यासादयेत्संवत्सरे पर्यागत एताभिरेवासादयेत्॥८॥
-8. He should keep the oblation-substances near (the Carhapatya, to the west of it) with sacred utterances.? After
-ne vear is over he should keep them with these (sacred utter ances) only. 3
-1. The Adhvaryu. 2. viz. bhūḥ, bhuvaḥ, svaḥ, contrast II. 4.5.
-3. Cf. TS 1.6.10.3.
+
 
 
 अमावास्यायामादधानस्यैतत्। पौर्णमास्यां तु पूर्वस्मिन्पर्वणि सेष्टि सान्वारम्भ णीयमाधानमपवृज्य॥९॥
-9. This is valid (only) in connection with (the sacrificer who) establishes (fires) on the New-moon-day. (In the case of him who establishes fires) on the Full-moon-day, however, af ter he has completed the establishment-rite along with the of fering (viz. Tanūhavis) and the Anvārambhaṇīyās-beginning offering),
-1. The file-establishment can be done on the New or Full-moon day
-see V.3.17. If it is done on the New-moon-day, (as is described here) following rites will have to be performed: Ādhāna, Tanūhavis on the day of establishment and Anvārambhanīyā on the first coming full-moon-day. If the Adhāna is done on the Full-moon day, these rituals will have to be done on the day preceding the Full-moon-day. In the sūtra no. 8 the sentence is incomplete. See the next sūtra.
+
 ## 05.25
 
 
 श्वोभूते पौर्णमासेन यजते॥१॥
-1. on the next day he performs the Full-moon-sacrifice.
+
 
 अनन्तरमाधानादाहिताग्निव्रतानि॥२॥
-2. Immediately after the fire-establishment following are ne vows for (the person who) has established fires.
-hari aanz11 3. He should not speak untruth.
+
+नानृतं वदेत् ३
 218
 
 
 नास्य ब्राह्मणो ऽनाश्वान्गृहे वसेत्॥४॥
-4. No Brahmin without having eaten should stay in his house.1
-___1. For Sutras 3 and 4 cf. TB I.1.4.2.
+
 
 सूर्योढमतिथिं वसत्यै नापरुन्धीत॥५॥
-5. He should not deny .residence to a guest arrived after sun-set.
+
 
 
 न/सपक्वस्याश्नीयात्॥६॥
-6. He should not eat (food) cooked on the fire (kept in the) crevice of earth.
+
 
 
 क्लिन्नं दारु नादध्यात्॥७॥
-7. He should not put wet wood (on the fire).
+
 
 अन्तर्नाव्यपां नाश्नीयात्॥८॥
-8. (While sitting) in a boat he should not drink water.!
+
 
 स्वकृत इरिणे नावस्येत्॥९॥
-9. He should not stay in a place with naturally porous land.
-1. For Sūtras 5-9 cf. Kāṭhaka-Agnyādheya-Brāhmaṇa.
+
 
 पुण्यः स्यात्॥१०॥
-10. He should (always) be auspicious (doing meritorious activities).
+
 
 
 हिङ्कृत्य वाग्यतः स्त्रियमुपेयात्॥११॥
-11. Restraining his speech,' having produced the sound him, he should aproach the wife.2
-____1. i.e. without uttering any profane word.
-2. Cp. MS I.8.7.
+
 
 व्याहरेद्वा॥१२॥
-12. Or he may speak.
+
 
 न सायमाहुतावहुतायामश्नीयात्॥१३॥
-13. In the evening he should not eat anything before the evening-libation is offered.
+
 219
 
 
 एवं प्रातः॥१४॥
-14. Similarly in the morning.1
-1. For Sūtras 13-14 see Kāṭhaka-Āgnyhādheya-Brāhmaṇa.
+
 
 आहिताग्नेगुहे न सायमहुते भोक्तव्यं तथा प्रातरित्यन्येषां व्रतम्॥१५॥
-15. In the house of a (sacrificer) who has established fires, no food should be eaten in the evening before the libation is offered and similarly in the morning—this is the vow for other (members) (in the house).
+
 
 
 नक्तं नान्यदन्नाद्दद्यात्॥१६॥
-16. In the night he should not give anything other than food.
+
 
 
 दद्यादित्येके॥१७॥
-17. According to some (ritualists) he may give (any other thing like gold etc.)
+
 
 
 अन्नं तु ददन्नदयीत॥१८॥
-18. While giving food he should cause (the person ac cepting it) to eat (it at the same place and at the same-time).1
-1. Cf. Rudradatta's commentary. He takes dadan as a present parti
-ciple (instead of dadat) and adayīta as a causal potential third
-person singular.
+
 
 नैतस्मिन्संवत्सरे पशुनानिष्ट्वा मांसं भक्षयेत्॥१९॥
-19. During this year without having performed an ani mal-sacrifice, he should not eat flesh.
+
 
 
 मनसाग्निभ्यः प्रहिणोमि भक्षं मम वाचा तं सह भक्षयन्तु। अप्रमाद्यन्न प्रमत्तश्चरामि शिवेन मनसा सह भक्षयतेति यद्यादिष्टो भक्षयेदेतं मन्त्रमुक्त्वा भक्षयेत्॥२०॥
-20. If it is necessary he may eat (flesh) after having re cited the verse manasägnibhyaḥ prahiṇomi...
