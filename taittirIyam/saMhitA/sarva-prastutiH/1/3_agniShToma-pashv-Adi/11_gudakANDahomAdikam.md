@@ -1,16 +1,29 @@
 +++
-title = "११ गुदकाण्डकरणक-उपयट्संज्ञका होमाः"
+title = "११ गुदकाण्डहोमादिकम्"
 
 +++
 
- सोमऋषिः
+गुदकाण्डकरणक-उपयट्संज्ञका होमाः  
+सोमऋषिः
 
 
-________
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+1उपयष्टोपयनति गुदस्य प्रच्छेदात् - समुद्रं गच्छ स्वाहेत्येकादशभिर्मन्त्रैः ॥
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒मु॒द्रङ्ग॑च्छ॒ स्वाहा॑ ।
 </details>
+
+<details><summary>Keith</summary>
+
+Go to the ocean, hail! 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -26,6 +39,11 @@ ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरि॑ख्षङ्गच्छ॒ स्वाहा॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+Go to the atmosphere, hail! 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -44,6 +62,12 @@ ________
 दे॒वꣳ स॑वि॒तार॑ङ्गच्छ॒ स्वाहा॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Go to god Savitr, hail! 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 दे॒वꣳ स॑वि॒तार॑ङ्गच्छ॒ स्वाहा॑ ।
@@ -59,6 +83,12 @@ ________
 
 अ॒हो॒रा॒त्रे ग॑च्छ  स्वाहा॑ ।
 </details>
+
+<details><summary>Keith</summary>
+
+Go to day and night, hail! 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -76,6 +106,12 @@ ________
 मि॒त्रावरु॑णौ गच्छ॒ स्वाहा᳚  ।
 </details>
 
+<details><summary>Keith</summary>
+
+Go to Mitra and Varuna, hail! 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रावरु॑णौ गच्छ॒ स्वाहा᳚  ।
@@ -91,6 +127,12 @@ ________
 
 सोम॑ङ्गच्छ॒ स्वाहा॑ ।
 </details>
+
+<details><summary>Keith</summary>
+
+Go to Soma, hail! 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -108,6 +150,12 @@ ________
 य॒ज्ञङ्ग॑च्छ॒ स्वाहा॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Go to the sacrifice, hail! 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञङ्ग॑च्छ॒ स्वाहा॑ ।
@@ -123,6 +171,12 @@ ________
 
 छन्दाꣳ॑सि गच्छ॒ स्वाहा॑ ।
 </details>
+
+<details><summary>Keith</summary>
+
+Go to the meters, hail! 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -140,6 +194,12 @@ ________
 द्यावा॑पृथि॒वी ग॑च्छ॒ स्वाहा॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Go to the sky and the earth, hail! 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 द्यावा॑पृथि॒वी ग॑च्छ॒ स्वाहा॑ ।
@@ -155,6 +215,12 @@ ________
 
 नभो॑ दि॒व्यङ्ग॑च्छ॒ स्वाहा॑ ।
 </details>
+
+<details><summary>Keith</summary>
+
+Go to the clouds of the sky, hail! 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -172,6 +238,12 @@ ________
 अ॒ग्निव्ँवै᳚श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+Go to Agni Vaiśvanara, hail!
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निव्ँवै᳚श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
@@ -182,8 +254,11 @@ ________
 11विश्वेषां नराणाम् सम्बन्धी अग्निर्वैश्वानरो जाठर उच्यते । तेन 'प्रजा एव प्रजाता अस्यां प्रतिष्ठापयति' इति । आयुष्मतीः करोति । 'नरे संज्ञायाम्' इति पूर्वपदस्य दीर्घत्वम् ॥
 </details>
 
-________
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
+12बर्हिषि हस्तौ निमार्ष्टि - अद्भ्यस्त्वेति ॥ 
+</details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -192,8 +267,14 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒द्भ्यस्त्वौष॑धीभ्यः।  
++++(गुदावदानलेप!)+++ अ॒द्भ्यस् त्वौष॑धीभ्यः +++(निमार्ज्मि)+++।  
 मनो॑ मे॒ हार्दि॑ यच्छ ।
+</details>
+
+<details><summary>Keith</summary>
+
+To the waters thee! To the plants thee!  
+Give me mind and heart!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -204,7 +285,9 @@ ________
 
 <details><summary>भट्टभास्करटीका</summary>
 
-12बर्हिषि हस्तौ निमार्ष्टि - अद्भ्यस्त्वेति ॥ हस्तगतो गुदावदानलेपः उच्यते । अपामोषधीनां च सिद्धिर्यजमानस्य स्यादिति त्वां निमार्ज्मीति शेषः । बार्हिष्युदकेन शोधयामीत्यर्थः । उक्तस्वरौ चैतौ । स त्वं मे हार्दि हर्षवन्मनो यच्छ देहि मदीयं मनो हृष्टं कुर्व्विति यावत् । हृदि भवो हार्दः हृदयविकारः प्रार्थनीयः, स च हर्षः प्रसादो वा, सोस्यास्तीति हार्दि । 'हृदयस्य हृल्लेखयदणलासेषु' इति हृद्भावः, वृषादित्वादाद्युदात्तत्वं द्रष्टव्यम् । 'प्राणानां वा एषोऽवद्यति योऽवद्यति गुदस्य मनो मे' इत्यादि ब्राह्मणम् ॥
+12बर्हिषि हस्तौ निमार्ष्टि - अद्भ्यस्त्वेति ॥ हस्तगतो गुदावदानलेपः उच्यते । अपामोषधीनां च सिद्धिर् यजमानस्य स्यादिति त्वां निमार्ज्मीति शेषः । बार्हिष्युदकेन शोधयामीत्यर्थः । उक्तस्वरौ चैतौ । 
+
+स त्वं मे **हार्दि** हर्षवन् **मनो यच्छ** देहि मदीयं मनो हृष्टं कुर्व्विति यावत् । हृदि भवो हार्दः हृदयविकारः प्रार्थनीयः, स च हर्षः प्रसादो वा, सोस्यास्तीति हार्दि । 'हृदयस्य हृल्लेखयदणलासेषु' इति हृद्भावः, वृषादित्वादाद्युदात्तत्वं द्रष्टव्यम् । 'प्राणानां वा एषोऽवद्यति योऽवद्यति गुदस्य मनो मे' इत्यादि ब्राह्मणम् ॥
 </details>
 
 ________

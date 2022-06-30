@@ -2,30 +2,10 @@
 title = "3 The Victim for Agni and Soma"
 
 +++
-## 10
-### c
-### e
-### g
-### h
-### i
-Drink ghee, ye drinkers of ghee; drink fat, ye drinkers of fat.
-### k
-Thou art the oblation of the atmosphere.
-### l
-Hail! thee to the atmosphere!
-### m
-The quarters, the Pradiśes, the Adiśes, the Vidiśes, the Uddiśes.
-### n
-Hail to the quarters!
-### o
-Homage to the quarters.
 ## 11
 ### a
-Go to the ocean, hail! Go to the atmosphere, hail! Go to god Savitr, hail! Go to day and night, hail! Go to Mitra and Varuna, hail! Go to Soma, hail! Go to the sacrifice, hail! Go to the metes, hail! Go to the sky and the earth, hail! Go to the clouds of the sky, hail! Go to Agni Vaiśvanara, hail!
+
 ### b
-To the waters thee! To the plants thee!
-### c
-Give me mind and heart!
 ### d
 May I acquire body, skin, son, and grandson.
 ### e
