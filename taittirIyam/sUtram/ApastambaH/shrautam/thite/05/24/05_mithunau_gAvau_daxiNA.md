@@ -2,4 +2,7 @@
 title = "05 मिथुनौ गावौ दक्षिणा"
 
 +++
-मिथुनौ गावौ दक्षिणा ५
+5. A bull and a cow are the sacrificial gifts.[^1]  
+
+
+[^1]: Cf. TS III.5.1.4.

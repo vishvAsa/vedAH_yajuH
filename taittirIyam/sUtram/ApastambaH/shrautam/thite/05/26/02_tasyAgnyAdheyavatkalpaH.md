@@ -2,4 +2,4 @@
 title = "02 तस्याग्न्याधेयवत्कल्पः"
 
 +++
-तस्याग्न्याधेयवत्कल्पः २
+2. Its procedure is similar to that of Agnyādhāna. 

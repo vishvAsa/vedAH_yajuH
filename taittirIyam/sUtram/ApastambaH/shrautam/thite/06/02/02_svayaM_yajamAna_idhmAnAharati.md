@@ -2,4 +2,4 @@
 title = "02 स्वयं यजमान इध्मानाहरति"
 
 +++
-स्वयं यजमान इध्मानाहरति विश्वदानीमाभरन्तो नातुरेण मनसा । अग्ने मा ते प्रतिवेशा रिषामेत्येतया २
+2. With this verse viz. viśvadānīmābharantaḥ... the sacrificer himself brings the fuel-sticks.  

@@ -2,4 +2,4 @@
 title = "03 नानृतं वदेत्"
 
 +++
-नानृतं वदेत् ३
+3. He should not speak untruth.

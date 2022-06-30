@@ -2,4 +2,7 @@
 title = "07 नान्तराग्नी सञ्चरति"
 
 +++
-नान्तराग्नी सञ्चरति ७
+7. The Adhvaryu does not walk through the two fires[^1].  
+
+
+[^1]: Gārhapatya and Āhavanīya.

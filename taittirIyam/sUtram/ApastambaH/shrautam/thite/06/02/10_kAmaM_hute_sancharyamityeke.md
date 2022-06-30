@@ -2,4 +2,4 @@
 title = "10 कामं हुते सञ्चर्यमित्येके"
 
 +++
-कामं हुते सञ्चर्यमित्येके १०
+10. According to some (ritualists) after the (Agnihotra) libation is offered one may walk through, at will.

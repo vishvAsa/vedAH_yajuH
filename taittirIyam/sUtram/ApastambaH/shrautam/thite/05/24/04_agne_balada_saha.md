@@ -2,4 +2,4 @@
 title = "04 अग्ने बलद सह"
 
 +++
-अग्ने बलद सह ओजः क्रममाणाय मे दाः । अभिशस्तिकृतेऽनभिशस्तेन्यायास्यै जनतायै श्रैष्ठ्यायेति चतुर्दशीं यः कामयेत चित्रं जनतायां स्यामिति । चित्रं भवति शबलं त्वस्य मुखे जायते ४
+4. With agne balada saha ojaḥ... he who desires, “May I be distinguished among the people”, should offer the fourteenth libation-he becomes distinguished; but mixed colour is produced on his face.

@@ -2,4 +2,4 @@
 title = "15 आहिताग्नेर्गृहे न सायमहुते"
 
 +++
-आहिताग्नेर्गृहे न सायमहुते भोक्तव्यं तथा प्रातरित्यन्येषां व्रतम् १५
+15. In the house of a (sacrificer) who has established fires, no food should be eaten in the evening before the libation is offered and similarly in the morning—this is the vow for other (members) (in the house).

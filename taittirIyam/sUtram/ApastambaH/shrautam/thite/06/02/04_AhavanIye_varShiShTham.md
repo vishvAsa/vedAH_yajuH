@@ -2,4 +2,4 @@
 title = "04 आहवनीये वर्षिष्ठम्"
 
 +++
-आहवनीये वर्षिष्ठम् ४
+4. the biggest fuel-stick in the Āhavanīya.  

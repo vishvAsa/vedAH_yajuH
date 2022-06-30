@@ -2,4 +2,4 @@
 title = "01 अग्ने सम्राडजैकपादाहवनीय दिवः"
 
 +++
-अग्ने सम्राडजैकपादाहवनीय दिवः पृथिव्याः पर्यन्तरिक्षाल्लोकं विन्द यजमानाय । पृथिव्यास्त्वा मूर्धन्सादयामि यज्ञिये लोके । यो नो अग्ने निष्ठो योऽनिष्ट्योऽभिदासतादमहं तं त्वयाभिनिदधामीति पुरस्तात्परिक्रम्योदङ्मुखः प्रत्यङ्मुखो वा सायमायतनेऽग्निं प्रतिष्ठापयति । प्राङ्मुखः प्रातः १
+1. (and with) agne samrāḍajaikapādāhavanīya... having turned towards the east, with his face to the north or to the west (the Adhvaryu) places (the Āhavanīya-fire) in its place in the evening... with his face to the east in the morning.  

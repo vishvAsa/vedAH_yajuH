@@ -2,4 +2,4 @@
 title = "07 क्लिन्नन् दारु नादध्यात्"
 
 +++
-क्लिन्नं दारु नादध्यात् ७
+7. He should not put wet wood (on the fire).

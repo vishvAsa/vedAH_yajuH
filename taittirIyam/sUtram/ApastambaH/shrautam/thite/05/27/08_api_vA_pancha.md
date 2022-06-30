@@ -2,4 +2,7 @@
 title = "08 अपि वा पञ्च"
 
 +++
-अपि वा पञ्च पार्थिवान्सम्भारानाहरति एवं वानस्पत्यान् ८
+8. Or rather he brings five materials connected with earth and similarly those connected with trees.[^1]  
+
+
+[^1]: See V. 1.4. 
