@@ -8,28 +8,11 @@ title = "3 The Victim for Agni and Soma"
 ## 14
 ### a
 ### b
-Rudra, king of the sacrifice,  
-True offerer, priest of both worlds,  
-Agni before the dreadful thunder,'  
-Of golden colour, win ye for help.
 ### c
-Agni hath set him down as priest, good sacrificer, On the lap of his mother, in the fragrant place,  
-The youthful, the wise, pre-eminent among men [1], righteous, Supporter of the folk in whose midst he is kindled.
 ### d
-Good hath he made our sacrifice this day;  
-The hidden tongue of the sacrifice have we found  
-He hath come, fragrant, clothed in life;  
-He hath made our sacrifice this day to prosper.
 ### e
-Agni hath cried like Dyaus thundering,  
-Licking the earth, devouring the plants;  
-Straightway on birth he shone aflame;
 
 ### f
-He blazeth with his light within the firmaments.  
-In thee, O many-faced sacrificer [2],  
-Morning and evening, the sacrificers place their treasures,  
-In whom, purifying, good things are placed, even as the heaven and earth (support) all beings. 
 ### g
 To thee, best of Angirases,  
 All folk with fair dwellings severally,  
