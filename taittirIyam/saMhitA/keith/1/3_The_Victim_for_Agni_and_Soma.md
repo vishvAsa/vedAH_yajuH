@@ -4,25 +4,7 @@ title = "3 The Victim for Agni and Soma"
 +++
 
 
-### l
-## 14
-### a
-### b
-### c
-### d
-### e
 
-### f
-### g
-### h
-### i
-### k
-### l
-### m
-### n
-### o
-### p
-### q
 ### r
 What time his glory urged the lord to strength,  
 Then (did) Dyaus (let) the pure seed be sprinkled openly;  
