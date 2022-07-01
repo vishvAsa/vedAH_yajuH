@@ -14,18 +14,8 @@ title = "3 The Victim for Agni and Soma"
 
 ### f
 ### g
-To thee, best of Angirases,  
-All folk with fair dwellings severally,  
-O Agni, have turned to gain their wish.
 ### h
-May we win by thy help, O Agni, our wish,  
-Wealth with fair offspring, O wealthy one:  
-May we win booty, seeking for booty;  
-May we win, O deathless, undying glory.
 ### i
-O Agni, of the Bharatas, youngest,  
-Bear to us excellent, glorious wealth, [3]  
-O bright one, wealth which many desire.
 ### k
 White robed is he, thundering, standing in the firmament.  
 Youngest, with loud-sounding immortal ones,  
