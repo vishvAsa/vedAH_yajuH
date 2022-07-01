@@ -6,10 +6,6 @@ title = "3 The Victim for Agni and Soma"
 
 
 ### r
-What time his glory urged the lord to strength,  
-Then (did) Dyaus (let) the pure seed be sprinkled openly;  
-Agni begot the host, the blameless, the youthful,  
-The worshipping, and gave it impulse.
 ### s
 He (flourishes) with keener mind, aided by thee.  
 O giver! give (us wealth) in good offspring;  
