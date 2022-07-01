@@ -17,24 +17,9 @@ title = "3 The Victim for Agni and Soma"
 ### h
 ### i
 ### k
-White robed is he, thundering, standing in the firmament.  
-Youngest, with loud-sounding immortal ones,  
-Who, purifying, most manifold,  
-Agni, marcheth devouring many broad (forests).
 ### l
-May he give thee life on every side,  
-Agni here, the desirable.  
-Let thy breath come back to thee;  
-I drive away the disease from thee.
 ### m
-Giving life, O Agni, rejoicing in the oblation  
-Be thou faced with ghee, and with birthplace of ghee  
-Having drunk the ghee, the sweet, the delightful product of the cow,  
-As a father his son [4], do thou protect him.
 ### n
-To thee, the eager one,  
-O knower of all, O active one,  
-Agni, I offer this fair praise.
 ### o
 From the sky was Agni first born,  
 From us secondly he who knoweth all,  
