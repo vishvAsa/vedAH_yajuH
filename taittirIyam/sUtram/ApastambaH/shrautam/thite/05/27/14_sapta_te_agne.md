@@ -2,4 +2,6 @@
 title = "14 सप्त ते अग्ने"
 
 +++
-सप्त ते अग्ने समिधः सप्त जिह्वा इत्यग्निहोत्रं जुहोति १४
+14. With sapta te agne samidhaḥ[^1]... he performs the Agnihotra.  
+
+[^1]: TS I.5.3.h.  

@@ -2,4 +2,7 @@
 title = "09 सिद्धमिष्टिः सन्तिष्ठते"
 
 +++
-सिद्धमिष्टिः सन्तिष्ठते ९
+9. The offering stands completely established in the usual manner.[^1]  
+
+
+[^1]: This indicates that Āpastamba accepts the view of ŚB as an alternative.

@@ -2,4 +2,6 @@
 title = "08 दक्षिणेन विहारमग्निहोत्री तिष्ठति"
 
 +++
-दक्षिणेन विहारमग्निहोत्री तिष्ठति तां यजमानोऽभिमन्त्रयत इडासि व्रतभृदहं नावुभयोर्व्रतं चरिष्यामि सुरोहिष्यहं नावुभयोर्व्रतं चरिष्यामीड एहि मयि श्रयस्वेर एह्यदित एहि गौरेहि श्रद्ध एहि सत्येन त्वाह्वयामीति ८
+8. To the south of the sacrificial place the cow yielding milk for Agnihotra stands; the sacrificer addresses her with iḍāsi vratabhr̥daham...[^1]   
+
+[^1]: Cp. MS I. 5.3.

@@ -2,4 +2,4 @@
 title = "06 वर्षासु शरदि वादधीत"
 
 +++
-वर्षासु शरदि वादधीत ६
+6. In the rainy season or in the autumn he should establish (fires) again. 

@@ -2,4 +2,4 @@
 title = "09 अथ वेदिदेशमभिमृशतीयमसि तस्यास्तेऽग्निर्वत्सः"
 
 +++
-अथ वेदिदेशमभिमृशतीयमसि तस्यास्तेऽग्निर्वत्सः सा मे स्वर्गं च लोकममृतं च धुक्ष्वेति ९
+9. Then he (the sacrificer) touches the place of Vedi (altar) with iyamasi tasyāste'gnirvatsah...  

@@ -2,4 +2,4 @@
 title = "07 भूर्भुवः सुवरुद्ध्रियमाण उद्धर"
 
 +++
-भूर्भुवः सुवरुद्ध्रियमाण उद्धर पाप्मनो मा यदविद्वान्यच्च विद्वांश्चकार । अन्हा यदेनः कृतमस्ति पापं सर्वस्मान्मोद्धृतो मुञ्च तस्मादित्युद्ध्रियमाणमभिमन्त्रयते यजमानः सायम् । रात्र्या यदेनः कृतमस्ति पापं सर्वस्मान्मोद्धृतो मुञ्च तस्मादिति प्रातः ७
+7. In the evening when the fire is being taken up the sacrificer addresses it with bhūr bhuvaḥ svaḥ uddhriyamāṇam uddhara... ahnā yadenaḥ...; in the morning with bhūrbhuvaḥ svaḥ... rātryā yadenaḥ...  

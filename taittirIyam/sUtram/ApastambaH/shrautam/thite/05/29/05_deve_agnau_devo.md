@@ -2,4 +2,7 @@
 title = "05 देवे अग्नौ देवो"
 
 +++
-देवे अग्नौ देवो अग्निरिति द्वयोरनूयाजयोर्विभक्ती दधाति ५
+5. In the (offering-verses of the first) two after-offerings he puts the case-forms (of the word agni) in the following manner; deva agnau... and devo agniḥ...[^1]  
+
+
+[^1]: Thus deva agnau barhiḥ... and devo agnir narāśamsaḥ... 

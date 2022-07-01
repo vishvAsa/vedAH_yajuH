@@ -2,4 +2,4 @@
 title = "07 उच्चैरुत्तमं सम्प्रेष्यति"
 
 +++
-उच्चैरुत्तमं सम्प्रेष्यति ७
+7. At (the time of) the last (after-offering) the Adhvaryu orders loudly. 

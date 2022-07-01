@@ -2,4 +2,4 @@
 title = "08 अन्तर्नाव्यपान् नाश्नीयात्"
 
 +++
-अन्तर्नाव्यपां नाश्नीयात् ८
+8. (While sitting) in a boat he should not drink water.[^1]  

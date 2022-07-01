@@ -2,4 +2,9 @@
 title = "01 चित्तञ् च चित्तिश्चेति"
 
 +++
-चित्तं च चित्तिश्चेति पुरस्तात्स्विष्टकृतो जयाञ्जुहोति १
+1. With cittaṁ ca cittiśca[^1] (the Adhvaryu) offers the (two) Jaya-libations before the Sviṣṭakr̥t offering.[^1]  
+
+
+[^1]: TS III.4.4.9.  
+
+[^2]: Thus immediately after the main-offering. For this Sūtra cf. MS I.4.14.

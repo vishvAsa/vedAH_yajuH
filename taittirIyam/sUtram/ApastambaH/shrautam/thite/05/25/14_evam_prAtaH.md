@@ -2,4 +2,7 @@
 title = "14 एवम् प्रातः"
 
 +++
-एवं प्रातः १४
+14. Similarly in the morning.[^1]  
+
+
+[^1]: For Sūtras 13-14 see Kāṭhaka-Āgnyhādheya-Brāhmaṇa.
