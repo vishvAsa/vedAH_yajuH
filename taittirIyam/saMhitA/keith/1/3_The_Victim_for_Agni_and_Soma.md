@@ -21,19 +21,8 @@ title = "3 The Victim for Agni and Soma"
 ### m
 ### n
 ### o
-From the sky was Agni first born,  
-From us secondly he who knoweth all,  
-In the waters thirdly the manly;  
-The pious man singeth of him, the undying, as he kindleth him.
 ### p
-Pure, O purifying one, to be lauded,  
-O Agni, mightily thou shinest,  
-To whom offering is made with ghee.
 ### q
-Shining like gold, he hath become widely resplendent,  
-For glory shining with immortal life;  
-Agni became immortal in his strength [5],  
-What time prolific Dyaus begat him.
 ### r
 What time his glory urged the lord to strength,  
 Then (did) Dyaus (let) the pure seed be sprinkled openly;  
