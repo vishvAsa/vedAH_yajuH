@@ -7,25 +7,9 @@ title = "3 The Victim for Agni and Soma"
 
 ### r
 ### s
-He (flourishes) with keener mind, aided by thee.  
-O giver! give (us wealth) in good offspring;  
-O Agni, may we enjoy wealth richest in heroes;  
-(Wealth) that is excellent, uttering praises to thee.,'
 ### t
-O Agni, bring us strong wealth,  
-By the force of thy glory,  
-That is above [6] all men  
-And openly prevaileth in contests for booty.
 ### u
-O Agni, mighty one, bring to us  
-That wealth which prevaileth in contests;
-  
-For thou art true, wondrous,  
-The giver of booty of kine.
 ### v
-To Agni let us make service with hymns,  
-Who feedeth on bull and cow,  
-The disposer, backed with Soma.
 ### w
 For thou art, O son, a singer, seated at the feast;  
 Agni made at birth a path and food;  
