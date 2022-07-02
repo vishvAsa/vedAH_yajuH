@@ -27,8 +27,10 @@ Giving increase and wealth to me.
 O Agni the purifying, with thy light,  
 0 god, with thy pleasant tongue,  
 Bring hither the gods and sacrifice.  
+
 aa Do thou, O shining and purifying one,  
 O Agni, bring hither the gods  
+
 To our sacrifice and our oblation.  
 bb Agni, of purest vows,  
 Pure sage, pure poet,  
