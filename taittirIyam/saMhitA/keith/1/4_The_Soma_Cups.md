@@ -5,12 +5,10 @@ title = "4 The Soma Cups"
 ## 01
 ### c
 ### f
-Forward, backward, upward, downward, let these quarters speed to you; O mother, come forth.
 ### g
-Thy unerring, watchful name, O Soma, to that of thee, O Soma, to Soma, hail!
 ## 02
 ### a
-Be pure for the lord of speech, O strong one; male, purified by the arms with the shoots of the male; thou art the god purifier of gods; to those thee whose portion thou art!
+thou art the god purifier of gods; to those thee whose portion thou art!
 ### b
 Thou art he who is appropriated; make our food full of sweetness for us; to all the powers of sky
   
