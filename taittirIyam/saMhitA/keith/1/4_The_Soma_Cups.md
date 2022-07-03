@@ -3,23 +3,6 @@ title = "4 The Soma Cups"
 
 +++
 
-## 03
-### a
-Thou art taken with a support.
-### b
-O bounteous one, restrain (it), protect Soma, guard wealth, win food by sacrifice, I place within thee sky and earth, within thee the broad atmosphere; in unison with the gods, the lower and the higher, O bounteous one, do thou rejoice in the Antaryama (cup).
-### e
-Thou art he who is appropriated; make our food full of sweetness for us; to all the powers of sky and earth thee!
-### d
-May mind enter thee.
-### e
-Fare along the broad atmosphere.
-### f
-Hail! Thee, of kindly nature, to the sun!
-### g
-To the gods that drink the rays thee!
-### h
-This is thy birthplace; to inspiration thee!
 ## 04
 ### a
 O Vayu, drinker of the pure, come to us;  
