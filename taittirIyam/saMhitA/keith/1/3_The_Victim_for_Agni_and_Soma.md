@@ -11,10 +11,6 @@ title = "3 The Victim for Agni and Soma"
 ### u
 ### v
 ### w
-For thou art, O son, a singer, seated at the feast;  
-Agni made at birth a path and food;  
-Do thou, O giver of strength, bestow strength upon us;  
-Be victorious like a king; thou rulest within without a foe.
 ### x
 O Agni, thou purifiest life [7];  
 Do thou give food and strength to us;  
