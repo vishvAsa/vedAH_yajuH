@@ -13,6 +13,8 @@ ____
 स्फ्यमादत्ते
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ द॑दे ।
@@ -27,8 +29,6 @@ ____
 
 1स्फ्यमादत्ते - आदद इति ॥ सावित्रशेषोऽयम् (तै.सं. 1.1.4) ॥
 </details>
-
-
 
 ____
 

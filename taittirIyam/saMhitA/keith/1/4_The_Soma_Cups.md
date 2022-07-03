@@ -3,18 +3,7 @@ title = "4 The Soma Cups"
 
 +++
 ## 01
-### a
-I take thee. Thou art the stone which maketh the sacrifice for the gods; make this sacrifice deep, with thy highest edge, (make) the Soma well pressed for Indra, rich in sweetness, in milk, bringing rain.
-### b
-To Indra, slayer of Vrtra, thee! To Indra, conqueror of Vrtra, thee! To Indra, slayer of foes, thee! To Indra with the Adityas, thee! To Indra with the all-gods, thee!
 ### c
-Ye are savoury, conquerors of Vrtra, delightful through your gifts, spouses of immortality, Do ye, O goddesses, place this sacrifice among the gods  
-Do ye, invoked, drink the Soma;  
-Invoked by you [1] let Soma drink.
-### d
-With thy light which is in the sky, on the earth, in the broad atmosphere, do thou for this sacrificer spread wealth broadly; be favour able to the giver.
-### c
-Ye Dhisanas, that are strong, be strengthened; gather strength, and give me strength; let me not harm you, harm me not.
 ### f
 Forward, backward, upward, downward, let these quarters speed to you; O mother, come forth.
 ### g

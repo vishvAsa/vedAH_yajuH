@@ -14,6 +14,10 @@ _______
 1अथ पशुरशनाम् आदत्ते - आ दद इति ॥
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
