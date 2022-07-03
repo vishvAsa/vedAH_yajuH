@@ -2,20 +2,7 @@
 title = "4 The Soma Cups"
 
 +++
-## 01
-### c
-### f
-### g
-## 02
-### a
-### b
-### c
-### d
-### e
-### f
-To the gods that drink the rays thee f
-### g
-This is thy birthplace; to expiration thee!
+
 ## 03
 ### a
 Thou art taken with a support.
