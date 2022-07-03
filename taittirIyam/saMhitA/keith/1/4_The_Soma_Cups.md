@@ -8,17 +8,10 @@ title = "4 The Soma Cups"
 ### g
 ## 02
 ### a
-thou art the god purifier of gods; to those thee whose portion thou art!
 ### b
-Thou art he who is appropriated; make our food full of sweetness for us; to all the powers of sky
-  
-and earth thee!
 ### c
-May mind enter thee.
 ### d
-Fare along the broad atmosphere.
 ### e
-Hail! Thee, of kindly nature, to the sun!
 ### f
 To the gods that drink the rays thee f
 ### g
