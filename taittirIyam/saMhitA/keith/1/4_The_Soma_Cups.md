@@ -4,20 +4,7 @@ title = "4 The Soma Cups"
 +++
 
 ## 04
-### a
-O Vayu, drinker of the pure, come to us;  
-A thousand are thy teams, O thou that hast all choice boons.  
-For thee this sweet drink hath been drawn,  
-Whereof, O god, thou hast the first drink.
-### b
-Thou art taken with a support; to Vayu thee!
-### c
-O Indra and Vayu, these draughts are ready;  
-Come ye for the libations,  
-For the drops desire you.
 ### d
-Thou art taken with a support; to Indra and Vayu thee! This is  
-thy birthplace; to the comrades thee!
 ## 05
 ### a
 This Soma is pressed for you, O Mitra and Varuna,  

@@ -103,7 +103,7 @@ _______
 4प्रतिप्रस्थातुर् हस्ताद् ग्रहम् आदत्ते - स्वां कृतोसीति ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
