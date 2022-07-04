@@ -11,11 +11,8 @@ title = "4 The Soma Cups"
 
 ## 06
 ### a
-That I whip of yours which is rich in sweetness  
-And full of mercy, O Aśvins,  
-With that touch the sacrifice.
 ### b
-Thou art taken with a support; to the Aśvins thee! This is thy birthplace; to the sweet thee!
+
 ## 7
 
 ### a
