@@ -7,12 +7,8 @@ title = "4 The Soma Cups"
 ### d
 ## 05
 ### a
-This Soma is pressed for you, O Mitra and Varuna,  
-Who prosper holy order;  
-Hearken ye now to my supplication.
 ### b
-Thou art taken with a support; to Mitra and Varuna thee! This is  
-thy birthplace; to the righteous thee!
+
 ## 06
 ### a
 That I whip of yours which is rich in sweetness  
