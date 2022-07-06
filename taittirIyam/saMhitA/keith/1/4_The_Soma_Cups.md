@@ -7,7 +7,7 @@ title = "4 The Soma Cups"
 ## 08
 ### a
 ### b
-Thou art taken with a support; to Çanda thee! This is thy birthplace; guard the folk.
+
 ## 9
 
 ### a
