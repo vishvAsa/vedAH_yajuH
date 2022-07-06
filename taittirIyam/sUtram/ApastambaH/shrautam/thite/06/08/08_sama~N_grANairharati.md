@@ -2,4 +2,4 @@
 title = "08 समङ् ग्राणैर्हरति"
 
 +++
-समं ग्राणैर्हरति ८
+8. He carries the Agnihotra-ladle at the level of his nose.

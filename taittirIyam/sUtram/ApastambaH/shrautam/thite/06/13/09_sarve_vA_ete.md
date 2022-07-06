@@ -2,4 +2,6 @@
 title = "09 सर्वे वा एते"
 
 +++
-सर्वे वा एते होमार्था आधीयन्ते । चतस्रो गार्हपत्ये जुहोति चतस्रोऽन्वाहार्यपचने द्वे आहवनीये । दश सम्पद्यन्ते । दशाक्षरा विराड्विराजा यज्ञः सम्मित इति बह्वृचब्राह्मणं भवति ९
+9. "All these (fires) are established for the sake of offerings. He offers four (libations) in the Garhapatya-fire, four in the Dakṣiṇa (fire), two in the Āhavanīya (fire). They become ten. The Virāj-metre consists of ten syllables. The sacrifice is measured by means of Vijāj"--Thus (is said) in a Brāhmaṇa of the R̥gveda.[^1]  
+
+[^1]: Cp KB II.3.  

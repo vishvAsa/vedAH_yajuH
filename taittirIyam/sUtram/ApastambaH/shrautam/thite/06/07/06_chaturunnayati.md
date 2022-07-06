@@ -2,4 +2,6 @@
 title = "06 चतुरुन्नयति"
 
 +++
-चतुरुन्नयति ६
+6. (The Adhvaryu) scoops the milk for four times.[^1]  
+
+[^1]: By means of the spoon into the ladle.

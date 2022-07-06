@@ -2,4 +2,13 @@
 title = "06 धृष्टिरसि ब्रह्म यच्छेत्युपवेषमादाय"
 
 +++
-धृष्टिरसि ब्रह्म यच्छेत्युपवेषमादाय भूतकृत स्थापोढं जन्यं भयमपोढाः सेना अभीत्वरीरिति गार्हपत्यादुदीचोऽङ्गारान्निरूह्य व्यन्तान्गार्हपत्येन कृत्वा सगरा स्थेत्यभिमन्त्र्य जपत्यग्नय आदित्यं गृह्णाम्यह्ने रात्रिमिति सायम् । आदित्यायाग्निं गृह्णामि रात्र्या अहरिति प्रातः ६
+6. With dhr̥ṣṭirasi brahma yaccha...[^1] having taken at poking stick in his hand, with bhūtakr̥ta stha...[^2] having pushed away some burning coals from the Gārhapatya towards the north having them taken out of the Gārhapatya-fire-place, with sagarā stha[^3] having addressed them, he mutters agnaya ādityaṁ gr̥hṇāmi ahne rātrim in the evening; ādityāyāgniṁ gr̥hṇāmi rātryā ahaḥ[^4]-in the morning.  
+
+
+[^1]: TB III.7.4.13.  
+
+[^2]: JB  
+
+[^3]: This formula occurs only in Āp.  
+
+[^4]: This formula also occurs only in Āp.  

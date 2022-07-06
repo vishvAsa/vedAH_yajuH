@@ -2,4 +2,4 @@
 title = "01 पत्नीवदस्याग्निहोत्रम् भवति"
 
 +++
-पत्नीवदस्याग्निहोत्रं भवति १
+1. His (sacrificer's) Agnihotra is accompanied by his wife.

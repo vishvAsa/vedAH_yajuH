@@ -2,4 +2,4 @@
 title = "02 स्व आयतने पत्न्युपविशति"
 
 +++
-स्व आयतने पत्न्युपविशति २
+2. The wife of the sacrificer sits on her seat.

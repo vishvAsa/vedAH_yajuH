@@ -2,4 +2,4 @@
 title = "03 समभ्युच्चयवदेके"
 
 +++
-समभ्युच्चयवदेके ३
+3. According to some others these two formulae should be used, jointly (in order to offer, either one or two libations).

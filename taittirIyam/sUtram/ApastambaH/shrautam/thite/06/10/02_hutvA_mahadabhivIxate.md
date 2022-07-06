@@ -2,4 +2,4 @@
 title = "02 हुत्वा महदभिवीक्षते"
 
 +++
-हुत्वा महदभिवीक्षते २
+2. Having offered (the Agnihotra-libation) he looks at (the libation) with widely opened eyes.

@@ -2,4 +2,6 @@
 title = "02 यङ् कामयेत पापीयान्स्यादिति"
 
 +++
-यं कामयेत पापीयान्स्यादिति भूयस्तस्य पूर्वं हुत्वोत्तरं कनीयो हुहुयात् २
+2. In the case of a (sacrificer) about whom he desires that he (the sacrificer) should be worse, having offered more (quantity of milk in the) first libation, he should offer less in the second libation.[^1]  
+
+[^1]: Cf. TB II.1.4.2.  

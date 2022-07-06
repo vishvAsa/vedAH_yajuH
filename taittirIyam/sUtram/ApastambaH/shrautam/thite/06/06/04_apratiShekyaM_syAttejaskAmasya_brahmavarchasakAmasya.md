@@ -2,4 +2,7 @@
 title = "04 अप्रतिषेक्यं स्यात्तेजस्कामस्य ब्रह्मवर्चसकामस्य"
 
 +++
-अप्रतिषेक्यं स्यात्तेजस्कामस्य ब्रह्मवर्चसकामस्य पाप्मानं तुस्तूर्षमाणस्याथो सर्वेभ्यः कामेभ्यो ऽथो यः कामयेत वीरो म आजायेतेति ४
+4. In the case of a (sacrificer) desirous of lustre, desirous of Brahman-splendour, of one desirous to cross the evil, for the sake of all the desires, moreover in the case of a (sacrificer) who desires, “May a heroic son be born to me” water should not be poured.[^1]   
+
+
+[^1]: Cp. MS I.8.3.  

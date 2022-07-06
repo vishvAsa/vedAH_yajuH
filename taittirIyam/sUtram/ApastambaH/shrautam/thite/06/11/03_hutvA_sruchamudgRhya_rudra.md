@@ -2,4 +2,4 @@
 title = "03 हुत्वा स्रुचमुद्गृह्य रुद्र"
 
 +++
-हुत्वा स्रुचमुद्गृह्य रुद्र मृडानार्भव मृड धूर्त नमस्ते अस्तु पशुपते त्रायस्वैनमिति त्रिः स्रुचाग्निमुदञ्चमतिवल्गयति ३
+3. Having offered (the second libation), having raised the ladle, with rudra mr̥dānārbhava... he thrice moves the ladle from south to north upon the (Āhavanīya)-fire.

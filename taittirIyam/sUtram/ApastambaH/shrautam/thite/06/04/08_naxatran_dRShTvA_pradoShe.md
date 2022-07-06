@@ -2,4 +2,4 @@
 title = "08 नक्षत्रन् दृष्ट्वा प्रदोषे"
 
 +++
-नक्षत्रं दृष्ट्वा प्रदोषे निशायां वा सायम् ८
+8. Or in the evening (the Agnihotra may be offered) after an asterism is seen, when the night starts or at night.

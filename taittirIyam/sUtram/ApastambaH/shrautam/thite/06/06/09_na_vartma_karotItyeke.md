@@ -2,4 +2,4 @@
 title = "09 न वर्त्म करोतीत्येके"
 
 +++
-न वर्त्म करोतीत्येके ९
+9. According to some (ritualists) he does not drag.

@@ -2,4 +2,7 @@
 title = "01 यस्याग्नावुद्ध्रियमाणे हूयते वसुषु"
 
 +++
-यस्याग्नावुद्ध्रियमाणे हूयते वसुषु हुतं भवति । निहितो धूपायच्छेते रुद्रेषु । प्रथममिध्ममर्चिरालभत आदित्येषु । सर्व एव सर्वश इध्म आदीप्तो भवति विश्वेषु देवेषु । नितरामर्चिरुपावैति लोहनीकेव भवतीन्द्रे हुतं भवति । अङ्गारा भवन्ति तेभ्योऽङ्गारेभ्योऽर्चिरुदेति प्रजापतावेव । शरोऽङ्गारा अध्यूहन्ते ततो नीलोपकाशोऽर्चिरुदेति ब्रह्मणि हुतं भवति १
+1. (The sacrificer) in the case of whom (the Agnihotra libation) is offered while fire is being taken up, it becomes offered in Vasus; if it is kept (on the Āhavanīya) it remains smoking it becomes offered in Rudras; (if it is offered) while the flame is touching the fuel for the first time, ...in Ādityas (if it is offered when) the whole fuel becomes completely ablaze it becomes offered in Viśve Devas; (if it is offered when) the flame goes down and becomes red as it were it bcomes offered in Indra; if (it is offered when) there are burning coals, and from them flame comes up, it becomes offered in Prajāpati only; (if it is offered when) ash gathers on burning coals and from them blackish flame comes up, it becomes offered in ... Brahman.[^1]   
+
+
+[^1]: Cf TB II.1.10; cp. ŚB II.3.2.9-13.

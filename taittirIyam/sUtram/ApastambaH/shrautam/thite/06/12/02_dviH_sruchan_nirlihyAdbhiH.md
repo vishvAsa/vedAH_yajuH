@@ -2,4 +2,4 @@
 title = "02 द्विः स्रुचन् निर्लिह्याद्भिः"
 
 +++
-द्विः स्रुचं निर्लिह्याद्भिः पूरयित्वोच्छिष्टभाजो जिन्वेति पराचीनं निनीयाचम्याग्रेणाहवनीयं दर्भैरग्निहोत्रहवणीं प्रक्षालयति २
+2. Having licked the ladel twice, having filled it with water, with ucchiṣṭabhājo jinva having poured the water in the direction away from himself, having sipped water, he washes the Agnihotra-ladle rubbing it by means of the Darbha-grass blades.  

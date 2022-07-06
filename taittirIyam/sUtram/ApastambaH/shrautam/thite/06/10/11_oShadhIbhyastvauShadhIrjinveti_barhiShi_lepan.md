@@ -2,4 +2,13 @@
 title = "11 ओषधीभ्यस्त्वौषधीर्जिन्वेति बर्हिषि लेपन्"
 
 +++
-ओषधीभ्यस्त्वौषधीर्जिन्वेति बर्हिषि लेपं निमृज्य वर्चो मे यच्छेति स्रुचं सादयित्वाग्ने गृहपते मा मा सन्ताप्सीरात्मन्नमृतमधिषि प्रजा ज्योतिरदब्धेन त्वा चक्षुषा प्रतीक्ष इति गार्हपत्यं प्रतीक्ष्य भूर्भुवः सुवरित्युत्तरामाहुतिं पूर्वार्धे समिधि जुहोति तूष्णीं वा ११
+11. With oṣadhībhyastvauṣadhīrjinva[^1] having wiped the sticking (milk) on the barhis(-grass), with varco me yaccha[^2] having kept down the ladel, with agne gr̥hapate mā mā saṁtāpsīḥ... having looked at the Gārhapatya(fire),[^3] with bhúrbhuvaḥ svaḥ he offers the next libation on the eastern half of the fuel-stick or rather he offers it silently (without any utterance).[^4]   
+
+
+[^1]: TS III.5.2.4.; Cf. TB II.1.4.7.  
+
+[^2]: MS I.8.4.  
+
+[^3]: Cf. TB II.1.4.3; cp. MS I.8.5.  
+
+[^4]: Cf. TB II.1.2.12; cp MS I.8.7; KS VI.6.  
