@@ -166,45 +166,38 @@ ranslation : THITE
 
 
 न स्तनान्संमृशति॥२॥
-2. He does not touch the teats.1 - 1. Cf. TB II.1.8.2. Thus he does not apply oil etc. to the teats for
-making the cow yield more milk (Caland). Or, rather while milk
-ing one teat, he should not touch the other teats.
+
 
 यथोपलम्भं नित्ये कल्पे दोग्धि॥३॥
-3. In the regular ritual he milks the teats as he gets them'.
-1. i.e. the rules mentioned in the Sūtra No. 1 are not to be followed.
+
 
 पूर्ववदुपसृष्टां दुह्यमानां धाराघोषं च यजमानो ऽनुमन्त्रयते॥४॥
-4. In the same manner as described earlier,' the sacri ficer addresses (the cow) when the calf is sent near her and when she is being milked, and (also) the sound of stream (of
-milk).
-1. See I.12.17-13.1.
+
 
 अस्तमिते दोग्धि॥५॥ अम्नरस्तमिते होतव्यम्॥६॥
-5-6. He milks (the cow) after (the sun) is set down; imme diately after the sun is set, (the Agnihotra) libation should be offered.1
-1. Cf. KS VI.5.
+
 
 समुद्रो वा एष यदहोरात्रस्तस्यैते गाधे तीर्थे यत्संधी तस्मात्संधौ होतव्यमिति शैलालिब्राह्मणं भवति॥७॥
-1. “The day and night are like an ocean indeed; the junc
-236
-ture (twilight)-times of it are like shallow fords; therefore the Agnighotra-libation) should be offered at the time of) in tures (twilight times)"- thus is said in the Saiali-Brahmanai
-1. Cp. KB II.9.
+
 
 नक्षत्रं दृष्ट्वा प्रदोषे निशायां वा सायम्॥८॥
-8. Or in the evening (the Agnihotra may be offered) after an asterism is seen, when the night starts or at night.
+
 
 
 उषस्युपोदयं समयाविषित उदिते वा प्रातः॥९॥
-9. In the morning (the Agnihotra may be offered) at the dawn, before the sun-rise, when the sun is half-risen or when it is (fully) risen.
+
 
 
 यदुदिते जुहोत्यग्निष्टोमं तेनावरुद्धे यन्मध्यंदिने जुहोत्युक्थ्यं तेनावरुद्ध यदपराह्ने जुहोति षोडशिनं तेनावरुद्धे यत्पूर्वराने जुहोति प्रथमं तेन रात्रिपर्याय माप्नोति यदपररात्रे जुहोति जघन्यं तेन रात्रिपर्यायमाप्नोति॥१०॥
-___ 10. If one offers after (the sun is fully) risen, one obtains the Agnistoma thereby; if one offers at the midday,... Ukthya thereby; if in the afternoon... Sodasin thereby; if in the first part of night...., one obtains the first night-round thereby; if one offers at the midnight one obtains the middle night-round thereby. If one offers in the last part of the night, one obtains the last night-round thereby.
-___ स न मन्येत सर्वेष्वेतेषु कालेषु होतव्यमापदि हुतमित्येव प्रतीयादिति विज्ञायते॥११॥
-11. He should not think that offering can be made in all these timings; one should understand that at the time of emer gency libation offered in any of these timings also is equally good)-thus is known (from a Brahmana-text).
+
+
+
+स न मन्येत सर्वेष्वेतेषु कालेषु होतव्यमापदि हुतमित्येव प्रतीयादिति विज्ञायते॥११॥
+
 
 
 यो होमकालः सोऽङ्गानाम्॥१२॥
-12. Whatever is the time of the offering (proper) that (same is the time) of the subsidiary (rites).
+
 237
 ĀPŚS Translation : THITE
 237 VI.5]
@@ -212,403 +205,345 @@ ___ स न मन्येत सर्वेष्वेतेषु काल
 
 
 पत्नीवदस्याग्निहोत्रं भवति॥१॥
-1. His (sacrificer's) Agnihotra is accompanied by his wife.
+
 
 स्व आयतने पन्युपविशति॥२॥
-2. The wife of the sacrificer sits on her seat.
+
 
 
 अपरेणाहवनीयं दक्षिणातिक्रम्योपविश्य यजमानो विद्युदसि विद्य मे पाप्मानममृतात्सत्यमुपैमि मयि श्रद्धेत्यप आचामति॥३॥
-3. Having stepped towards the west of the Āhavanīya by the right, then having sat down (on his seat)' the sacrificer sips water with vidyudasi vidya me pamānam..
-___1. See IV.4.3.
+
 
 
 ऋतं त्वा सत्येन परिषिञ्चामीति सायं परिषिञ्चति। सत्यं त्वर्तेन परिषिञ्चामीति प्रातः। आहवनीयमग्रेऽथ गार्हपत्यमथ दक्षिणाग्निमपि वा गार्हपत्यमाहवनीयं दक्षिणाग्निं यथा वाहिताः॥४॥
-4. With rtam tvā satyena parisincāmil (the Adhvaryu) sprinkles water (around the fires) in the evening; with satyam tvartena pariṣiñcāmia in the morning. (He sprinkles water in the following order): first Ahavaniya, (then) Garhapatya (then) Daksina-fire; or first Garhapatya, (then) Ahavaniya, (then) Dak sina; or the order in which they were established.3
-1-2. TB II.1.11.1.
-3. viz. Garhapatya, Daksina, Ahavaniya. Cp. VI.2.5.
+
+
 
 यज्ञस्य संततिरसि यज्ञस्य त्वा सतंतिमनुसंतनोमीति गार्हपत्यात्प्रक्रम्य संततामुदकधारां स्रावयत्याहवनीयात्॥५॥
-5. With yajñasya santatirasi... he causes to fall a con tinuous line of water starting from the Gārhapatya upto the Ahavaniya.
-1. TB III.7.4.17; cp. I.1.5.4.
+
 
 धृष्टिरसि ब्रह्म यच्छेत्युपवेषमादाय भूतकृत स्थापोढं जन्यं भयमपोढाः सेना अभीत्वरीरिति गार्हपत्यादुदीचो ऽङ्गारान्निरूह्य व्यन्तान् गार्हपत्येन कृत्वा
 238
-सगरा स्थेत्यभिमन्त्र्य जपत्यग्नय आदित्यं गृह्णाम्यते रात्रिमिति सायमा याग्निं गृह्णामि रात्र्या अहरिति प्रातः॥६॥
-6. With dhrstirasi brahma yaccha...1 having taken at poking stick in his hand, with bhūtaksta stha...2 having pusher away some burning coals from the Gārhapatya towards the north having them taken out of the Gārhapatya-fire-place, with sagarā stha; having addressed them, he mutters agnaya ādityam gļhṇāmi ahne rätrim in the evening; adityāyāgnis grhnāmi rätrya ahaḥ-in the morning.
-1. TB III.7.4.13. 2. JB 3. This formula occurs only in Ap.
-4. This formula also occurs only in Āp.
+सगरा स्थेत्यभिमन्त्र्य जपत्यग्नय आदित्यं गृह्णाम्यते रात्रिमिति सायमा याग्निं गृह्णामि रात्र्या अहरिति प्रातः॥६॥  
+
+
 
 इडायाः पदं घृतवच्चराचरं जातवेदो हविरिदं जुषस्व। ये ग्राम्याः पशवो विश्वरूपा विरूपास्तेषां सप्तानामिह रन्तिरस्तु। रायस्पोषाय सुप्रजास्त्वाय सुवीर्या येति तेष्वग्निहोत्रमधिश्रयति॥७॥
-7. With idāyāh padam ghrravat...1 and with rāyasposāya suprajāstvāya...? he keeps the Agnihotra-milk on those burn ing coals.
-1. Cp. AV III. 10.6. 2. TS V.7.1.1.
+
+
 ## 06.06
 
 
 
 रेतो वा अग्निहोत्रम्। न सुशृतं कुर्याद्रेतः कूलयेन्नोऽशृतमन्तरेवैवस्यात्॥१॥
-1. The Agnihotra (milk) is verily semen. (The Adhvaryu) should not make it (too) well-cooked, lest he would burn it; he should also not keep it uncooked; it should be, rather, in be tween (these two stages)"1.
-1. KS VI.7.
 
-समुदन्तं होतव्यम्॥२॥
-2. The (Agnihotra-milk which has) come up to the brim of the vessel should be offered.'
-1. Cf.MS I.8.2. contrast SB II.3.1.14.
+
+समुदन्तं होतव्यम्॥२॥  
+
 239
 
 
 उदन्तीकृत्य प्रतिषिच्यम्॥३॥
-3. Having casued to reach (the milk) upto the brim, he should pour (water in the milk).1
-1. See Sūtra 7.
+
 
 
 अप्रतिषेक्यं स्यात्तेजस्कामस्य ब्रह्मवर्चसकामस्य पाप्मानं तुस्तूर्षमाणस्याथो सर्वेभ्यः कामेभ्यो ऽथो यः कामयेत वीरो म आजायेतेति॥४॥
-4. In the case of a (sacrificer) desirous of lustre, desirous of Brahman-splendour, of one desirous to cross the evil, for the sake of all the desires, moreover in the case of a (sacrificer) who desires, “May a heroic son be born to me” water should not be poured.1
-1. Cp. MS I.8.3.
+
 
 अम्नरधिश्रितं वा॥५॥
-5. Or immediately after the milk is kept on the fire (water should be poured).1
-1. This is an alternative to Sūtra 3.
+
 
 अदब्धेन त्वा चक्षुषावेक्ष इति तृणेन ज्वलतावेक्षते॥६॥
-6. With adabdhena tvā caksusavekse...' he looks (towards the milk) by means of (the light of) burning grass.
-1. TS I.1.10.3
+
 
 दोहनसंक्षालनं त्रुव आनीय हरस्ते मा विनैषमिति तेन प्रतिषिञ्चत्यपां वा स्तोकेन।७॥
-7. Having poured the water with which the milking pot was washed, into the spoon, he pours it in the (Agnihotra) milk or a little quantity of water with haraste mā vinaiṣam.''
-_1. MS I.8.3.
+
 
 
 उद्भव स्थोदहं प्रजया प्र पशुभिर्भूयासं हरस्ते मा विगादुद्यन्सुवर्गों लोक स्त्रिषु लोकेषु रोचयेति पुनरेवावेक्ष्यान्तरितं रक्षोऽन्तरिता अरालयोऽ पहता व्यद्विरपहतं पापं कर्मापहतं पापस्य पापकृतः पापं कर्म यो नः पापं कर्म चिकीर्षति प्रत्यगेनमृच्छेति त्रिः पर्यग्नि कृत्वा घर्मोऽसि रायस्पो- षवनिरिहोर्ज इंहेति वर्त्म कुर्वन्प्रागुद्वासयत्युदक् प्रागुदग्वा॥८॥
-8. With udbhava sthodahaṁ prajaya paśubhir bhūyāsam ...' having again looked at the milk, with antaritam raks
--
-240
-o'ntaritā arātayaḥ: having thrice moved fire4 around (the mim with gharmo'si rāyasposavanih... he removes (the milk , the fire) towards the north or towards the north-east. do ging it (as it were).6
-1. Cp. MS I.8.4; KS 6.7. 2. As described in Sutra 6. 3. TS I.1.8.1. 4. i.e. a burning fire-brand. 5. Cf. TB II.1.3.4-5.
-6. Thus he does not lift up the vessel from the fire, but drags it away.
+
+
+
 
 न वर्त्म करोतीत्येके॥९॥
-9. According to some (ritualists) he does not drag.
 
 
 इह प्रजां पशून्दूहेति त्रिभूमौ प्रतिष्ठाप्य सुभूतकृत स्थ प्रत्यूढं जन्यं भयं प्रत्यूढाः सेना अभीत्वरीरिति गार्हपत्ये ऽङ्गारान्प्रत्यूह्य॥१०॥
-10. With iha prajām pasun drmha... having kept (milk vessel) thrice on the ground,2 with subhutakrta stha . pratyudham janyam bhayam... having thrown back the burn
-ing coals into the Garhapatya(-fire),
-1. The formula only in Āp. 2. Cp. KB II.1; cp. also Katyass IV.14.5. 3. The sentence is incomplete. See the next Sutra.
-___VI.7
+
+
+VI.7
 
 देवस्य त्वा सवितुः प्रसव इति स्रुनुवमादाय प्रत्युष्टं रक्षः प्रत्युष्टा अरातय इत्याहवनीये गार्हपत्ये वा प्रतितप्यारिष्टो यजमानः पत्नी चेति संमृश्य हिरण्ययष्टिरस्यमृतपलाशा स्रोतो यज्ञानामित्यग्निहोत्रवहणीमभिमन्व्योमुन्नेष्यामि हव्यं देवेभ्यः पाप्मनो यजमानमिति सायमाह। ओमुन्नयामीति प्रातः॥१॥
-1. with devasya tvā...' having taken the ladle and spoon in his hands, with pratyustam raksah pratyustā arātayah hav ing heated them over the Āhavanīya or the Gārhapatya, with aristo yajamānah... having touched them, with hiranyayast irasyamstapalāśa śroto yajñānāṁ having addressed the ladle241
-to be used for offering the Agnihotra-libation, in the evening the Adhvaryu says, om unneṣyāmi havyaṁ devebhyaḥ pāpmano yajamānam; in the morning om unnayāmi...
-1. TS I.3.1.4. 2. TS I.1.4.c.
-3. JB.
+
+
 
 हविर्देवानामसि मृत्योर्मे ऽभयं स्वस्ति मे ऽस्त्वभयं मे अस्त्वित्युपां शूक्त्वोमुन्नयेत्युच्चैरनुजानाति। अपचारे यजमानस्य स्वयमात्मानमनुजानीयात्॥२॥
-2. Having inaudibly uttered havir devānāmasi mstyor me'bhayam... (the sacrificer) loudly allows (the Adhvaryu to scoop the milk) with om unnaya. When the sacrificer is away, the Adhvaryu should allow himself.
+
 
 
 उन्नीयमान उभौ वाचं यच्छत आ होमात्॥३॥
-3. While the milk is being scooped, both the sacrificer and the Adhvaryu restrain their speech upto the libation."
-1. For the Agnihotra-libation see VI. 10.8. For this Sūtra cf. KS
-VI.7; cp. MS I.8.4.
+
 
 न चाभिमीलते तिष्ठति च यजमानः॥४॥
-4. The sacrificer does not close his eyes! and remains standing (while the Adhvaryu is scooping the milk).
-__1. He should look at the process of scooping.
+
 
 उन्नीत उपविशति॥५॥
-5. After the scooping is over, he sits down.
+
 
 चतुरुन्नयति॥६॥
-6. (The Adhvaryu) scoops the milk for four times.1
-1. By means of the spoon into the ladle.
+
 
 यं कामयेत पुत्राणामयमृनुयादिति तं प्रति पूर्णमुन्नयेत्॥७॥
-7. In connection with whom among the sons (of the sacri ficer) (the Adhvaryu) desires that he should prosper, for him', he should scoop fully.2
-1. i.e. he should think about that son at that time. 2. Cf. TB II.1.3.8.
+
+
 242
 
 
 यदि कामयेत ज्येष्ठतो ऽस्य प्रजाधुका स्यादिति पूर्ण प्रथममनल ऊनतरमूनतरम्। कनिष्ठत इत्येतद्विपरीतम्। सर्वे समावीद्वीर्या इति समय
-8. If (the Adhvaryu) desires, “May his (sacrificer's) sons should be prosperous senioritywise,' then he should scoop full, first and then less and less; if juniority-wise2 then the other way round; if “all should be of equal power”, then equally» 3
-1. i.e. more the senior more the prosperous. 2. i.e. more the junior more the prosperous.
-3. Cf. for the Sutra MS I.8.4; KS VI.4. यथोपलम्भं नित्ये कल्प उन्नयति॥९॥
-9. In the regular ritual,' he scoops in accordance with whatever he obtains (in the spoon).
-1. i.e. when there is no specific desire.
+
+
+
+यथोपलम्भं नित्ये कल्प उन्नयति॥९॥
+
+
+
 ## 06.08
 
 
 अग्नये च त्वा पृथिव्यै चोन्नयामीति प्रथमं वायवे च त्वान्तरिक्षाय चेति द्वितीयं सूर्याय च त्वा दिवे चेति तृतीयं चन्द्रमसे च त्वा नक्षत्रेभ्यश्चेति चतुर्थम्॥१॥
-1. (The Adhvaryu) scoops first with agnaye ca tva prthivyai connayāmi, second with vāyave ca tvāntarikṣāya ca, third with súryaya ca tvā dive ca..., fourth with candramase ca tvā naksatrebhyasca.....
+
 
 
 अद्भयश्च त्वौषधीभ्यश्चेति पञ्चमं जमदग्नीनाम्॥२॥
-2. In the case of (sacrificers) belonging to Jamadgni-fam ily, fifth with adbhyaśca tvāuṣadhibhyaḥ.'
-1. See II.18.2.
+
 
 भूरिडा भुव इडा सुवरिडा करदिडा वृधदिडेति वा प्रतिमन्त्रम्॥३॥
-3. Or with each one of the formulae viz. bhūrida, bhuva idā, suvarida, karadida, prthagida.
-.
+
+
 
 पशून्मे यच्छेत्यपरेण गार्हपत्यमुन्नयनदेशे ऽभितरां वा सादयित्वा गार्हपत्ये हस्तं प्रताप्य संमृशति सतर्देवैः सायंयावभिः सायंयावानो देवाः स्वस्ति संपार
 VI.8]
 ranslation : THITE
 243 यन्त पशुभिः संपृचीय प्रजां ,हेति सायम्। सर्देवैः प्रातर्यावभिः प्रातर्यावाणो देवाः स्वस्ति संपारयन्तु पशुभिः संपृचीय प्रजां दूंहेति प्रातः॥४॥
-4. With pasun me pahil having kept the Agnihotra-ladle containing the scooped milk either to the west of the Gārhapatya-fire where the scooping was done? or near the Garhapatya, having heated his hand on the Garhapatya, he touches the ladle with sajūrdevaiḥ sāyasyāvabhiḥ... in the evening; with sajūrdevaiḥ prātaryāvabhiḥ.., in the morning.
-1. KS VI.4. 2. Cf. KS VI.4. 3. Cf. MS I.8.4.
-4. Cp.TB II.1.5.10.
+
+
 
 दशहोत्रा चाभिमृश्य पालाशी समिधं प्रादेशमात्रीमुपरि धारयन्गार्हपत्यस्य समयार्चिहरति॥५॥
-5. And having touched (the Agnihotra-ladle) also with the Daśahotr-formula,' holding a one-span long fuel-stick of Palāśa-wood upon the Gārhapatya, he carries it near the flame (in the fire).
-1. TA III.1.
-2. Cf. MS I.8.4; KS VI.4.
+
 
 उर्वन्तरिक्षं वीहीत्युदद्रवति॥६॥
-6. With urvantariksaṁ vihi' he runs from Gārhapatya to wards the Āhavanīya.
-1. MS I.1.2.; KS I.2.4; VS XI.15.
+
 
 उद्वन्दश होतारं व्याचष्टे॥७॥
-7. While running he mutters the Dasahotr-formula.1 __1. TA III.1.For this Sutra cf. TB II.2.1.6. .
+
 
 
 समं प्राणैर्हरति॥८॥
-8. He carries the Agnihotra-ladle at the level of his nose.
+
+
 
 स्वाहाग्नये वैश्वानरायेति मध्यदेशे नियच्छति॥९॥
-9. At the half of the distance (between the Gārhaptya and Ahavaniya) he lowers (the Agnihotra-ladle) with svāhāgnaye vaiśvānaraya.
+
 ApSs Translation : THITE
 244
 [VI.9
 
 
 वाताय त्वेत्युद्गृह्णाति॥१०॥
-10. With vātāya tvä he takes up the Agnihotra-ladle at the level of nose.
+
 
 
 उपप्रेत संयतध्वं मान्तर्गात भागिनं भागधेयात्सप्तर्षीणां सकतांग लोकस्तत्रेमं यज्ञं यजमानं च धेयुप प्रत्नमुप भूर्भुवः सुवरायुर्मे यच्छेत्यपरेणा हवनीयं दर्भेषु सादयति॥११॥
-11. With upapreta saṁyatadhvam... upa pratnam upa. bhūḥ bhuvaḥ svaḥ. ayur me yaccha he keeps the Agnihotra ladle on the Darbha-grass, to the west of the Ahavaniya.
+
 .
-___VI.9
+__VI.9
 
 यस्याग्नावुद्धियमाणे हूयते वसुषु हुतं भवति। निहितो धूपायञ्छेते रुद्रेषु। प्रथममिध्ममर्चिरालभत आदित्येषु। सर्व एव सर्वश इध्म आदीप्तो भवति विश्वेषु देवेषु। नितरामर्चिरुपावैति लोहिनीकेव भवतीन्द्रे हुतं भवति। अङ्गारा भवन्ति तेभ्यो ऽङ्गारेभ्यो ऽर्चिरुदेति प्रजापतावेव। शरो ऽङ्गारा अध्यूहन्ते ततो नीलोपकाशो ऽर्चिरुदेति ब्रह्मणि हुतं भवति॥१॥
-___ 1. (The sacrificer) in the case of whom (the Agnihotra libation) is offered while fire is being taken up, it becomes offered in Vasus; if it is kept (on the Ahavaniya) it remains smoking it becomes offered in Rudras; (if it is offered) while the flame is touching the fuel for the first time, ...in Adityas (if it is offered when) the whole fuel becomes completely ablaze it becomes offered in Viśve Devas; (if it is offered when) the flame goes down and becomes red as it were it bcomes offered in Indra; if (it is offered when) there are burning coals, and from them flame comes up, it becomes offered in Prajāpati only; (if it is offered when) ash gathers on burning coals and from them blackish flame comes up, it becomes offered in ... Brahman.
-1. Cf TB II.1.10; cp. SB II.3.2.9-13. यदङ्गारेषु व्यवशान्तेषु लेलायद्वीव भाति तदेवानामास्यं तस्मात्तथा होतव्यं यथास्येऽपिदधात्येवं तदिति विज्ञायते॥२॥
-2. After the burning coals have calmed down when a flick ering glow appears, that is the mouth of the gods; therefore
-245
-offering should be made in such a manner that he puts the offering in the mouth-it is like this-thus is known (from a Brahmana-text).1
-1. Cp. MS I.8.6.
+
+
+
+यदङ्गारेषु व्यवशान्तेषु लेलायद्वीव भाति तदेवानामास्यं तस्मात्तथा होतव्यं यथास्येऽपिदधात्येवं तदिति विज्ञायते॥२॥
+
+
 
 विद्युदसि विद्य मे पाप्मानमृतासत्यमुपैमीति होष्यन्नप उपस्पृश्य पालाशी समिधमादधात्येकां द्वे तिस्रो वा॥३॥
-3. When the Adhvaryu is about to offer, having touched water, with vidyudasi vidya me pāpmānam...' he puts one fuel stick of Palasa-wood (in fire)-or two or three (fuel-sticks)
-1. TB III. 10.9.2. 2. TB II.1.3.9. rejects the second fuel-stick. MS I.8.4 first allows
-___two fuel-sticks but then rejects this practice.
+
 
 
 एषा ते अग्ने समिदिति। हिरण्ययं त्वां वंशं स्वर्गस्य लोकस्य संक्रमणं दधामीति द्वितीयाम्। रजतां त्वा हरितगर्भामग्निज्योतिषमक्षितिं कामदुघां स्वर्यां स्वर्गाय लोकाय रात्रिमिष्टकामुपदधे तया देवतयाङ्गिरस्वद्धवा सीदेति सायं तृतीयाम्। हरिणीं त्वा रजतगर्भा सूर्यज्योतिषमक्षितिं कामदुधां स्वाँ स्वर्गाय लोकायाहरिष्टकामुपदध इति प्रातः॥४॥
-4. He puts the fuel-stick in fire with eṣā te agne samid.... 1; the second with hiranyayan tvā vamsam...2; the third with rajatām tvā haritagarbhām...3 in the evening; with harinim tvā rajatagarbhām...4 in the morning.
-1. Cp. VS 2.14. 2. Cp. JB. 3-4. Cp. Asvss II.3.15.
+
+
 _VI.10
 
 
 समिधमाधाय प्राण्यापान्य निमील्य वीक्ष्य हुत्वा ध्यायेद्यत्कामः स्यात्॥१॥
-1. Having put the fuel stick (in fire), having taken breath and released it, having closed his eyes, having offered (the Agnihotra-libation), (the Adhvaryu) should think about that what (the sacrificer) is desirous of.
+
 
 
 हुत्वा महदभिवीक्षते॥२॥
-2. Having offered (the Agnihotra-libation) he looks at (the libation) with widely opened eyes.
+
 246
 
 
 आदीप्तायां जुहोति श्यावायां वा यदा वा समतीतार्चिनेलायतीव। यत्यां ग्रामकामस्य ज्वलत्यां ब्रह्मवर्चसकामस्याङ्गारेषु तेजस्कामस्य॥३॥
-3. He offers (the Agnihotra-libation) when the fuel-stick is burning' or when it is black-brown, or when the flame has gone away and when it is flickering as it were. (He offers the Agnihotra libation), when (the fuel-stick) is producing smoke in the case of a (sacrificer) desirous of a village; ....when it is burning; in the case of a (sacrificer) desirous of Brahman-splen dour; ... on the burning coals in the case of a (sacrificer) de sirous of lustre.1
-1. Cf. TB II.1.3.9.
-2. Cf. KB III.2.
+
 
 व्यङ्गले मूलात्समिधमभि जुहोति॥४॥
-4. He offers on the fuel-stick on a place two inches away from its root-side.1
-1. Cf. KB III.2.
+
 
 अभिक्रामं सायं जुहोत्यपक्रामं प्रातः॥५॥
-5. Stepping forward' he offers (the libation) in the evening; stepping backward? in the morning. 3
-1-2. i.e. keeping his right foot forward or backward.
-3. Cf. KS VI.5.
+
 
 उभयत्र वाभिक्रामम् ॥६॥
-6. Or rather, stepping forward in both the cases. 1 ____1. Cf. KS VI.5.
+
+
 
 भूर्भुवः सुवरिति होष्यञ्जपति॥७॥
-7. When he is about to offer he mutters bhurbhuvah svah.' ___1. MS I.8.5.
+
 
 
 अग्निर्कोतिर्कोतिरग्निः स्वाहेति सायमग्निहोत्रं जुहोति। सूर्यो ज्योतिर्योतिः सूर्यः स्वाहेति प्रातः॥८॥ संसृष्टहोमं वाग्निर्कोतिर्योतिः सूर्यः स्वाहेति सायम्। सूर्यो ज्योतिर्योतिरग्निः स्वाहेति प्रातः॥९॥
-8-9. With agnir jyotirjyotiragniḥ svāhā he offers the evening Agnihotra(-libation); with sūryo jyotir jyotiḥ sūryaḥ
-247
-svāhā the morning...' Or he offers in a mixed manner of offer ing, with agnirjyotir jyotiḥ sūryaḥ in the evening; with sūryo ivotir jyotiragniḥ in the morning.2
-1. Cf. TB II.1.9.2.
-2. Cf. TB II.1.2.10.
+
+
 
 इषे त्वेति सुमुखादवाचीनं सायं लेपमवमाष्टयूंजे त्वेति ऊर्ध्वं प्रातः॥१०॥
-10. With ise tvā he wipes the milk sticking to the mouth of the ladel from top to bottom, in the evening; with urje tvā...2 from bottom to top in the morning. 3
-1-2. TS I.1.1.a.
-3. For the act in this Sūtra cf. TB II.1.4.4; cp. also MS 1.8.5.
+
 
 
 ओषधीभ्यस्त्वौषधीर्जिन्वेति बर्हिषि लेपं निमृज्य वर्गों मे यच्छेति स्रुचं सादयित्वाग्ने गृहपते मा मा संताप्सीरामत्मन्नमृतमधिषि प्रजा ज्योतिरदब्धेनत्वा चक्षुषा प्रतीक्ष इति गार्हपत्यं प्रतीक्ष्य भूर्भुवः सुवरित्युत्तरामाहुतिं पूर्वार्धे समिधि जुहोति तूष्णीं वा॥११॥
-11. With oṣadhībhyastvauṣadhirjinval having wiped the sticking (milk) on the barhis(-grass), with varco me yacchar having kept down the ladel, with agne grhapate mā mā samtapsih... having looked at the Garhapatya(fire), with bhúrbhuvaḥ svaḥ he offers the next libation on the eastern half of the fuel-stick or rather he offers it silently (without any ut terance). 4
-1. TS III.5.2.4.; Cf. TB II.1.4.7. 2. MS I.8.4. 3. Cf. TB II.1.4.3; cp. MS I.8.5.
-4. Cf. TB II.1.2.12; cp MS I.8.7; KS VI.6.
+
+
+
 
 न समिदभिहोतवा इत्येके॥१२॥
-12. According to some (ritualists)1 “(the second libation) should not be offered on the fuel-stick."
-1. Cf. MS I.8.6.
+
+
 ## 06.11
 
 
 वर्षीयसीमुत्तरामाहुति हुत्वा भूयो भक्षायावशिनष्टि॥१॥
-1. Having offered a bigger' (quantity of milk in the) sec
-248
-ond libation (the Adhvaryu) keeps still more quantity of milk for consuming.3
-1. Than the first libation. 2. Cf. TB II.1.4.1.; MS I.8.5.
-3. Cf. VI.11.4-5.
+
 
 यं कामयेत पापीयान्स्यादिति भूयस्तस्य पूर्व हुत्वोत्तरं कनीयो जुहुयात्॥२॥
-2. In the cace of a (sacrificer) about whom he desires that he (the sacrificer) should be worse, having offered more (quan tity of milk in the) first libation, he should offer less in the second libation.1
-____ 1. Cf. TB II.1.4.2.
+
+
 
 
 हुत्वा सुचमुद्गृह्य रुद्र मृडानार्भव मृड धूर्त नमस्ते अस्तु पशुपते त्रायस्वैन मिति त्रिः स्युचाग्निमुदञ्चमति वल्गयति॥३॥
-___3. Having offered (the second libation), having raised the ladle, with rudra mrdānārbhava... he thrice moves the ladle form south to north upon the (Ahavaniya)-fire.
+
+
+
 पूर्ववल्लेपमवमृज्य प्राचीनावीती स्वधा पितृभ्यः पितृञ्जिन्वेति दक्षिणेन वेदिं भूम्या लेपं निमृज्य प्रजां मे यच्छेति त्रुचं सादयित्वा वृष्टिरसि वृश्च मे पाप्मानमृतात्सत्यमुपागामिति हुत्वाप उपस्पृश्यान्तर्वेदि शुक्। अथाङ्गुल्यापादाय पूषासीति लेपं प्राश्नात्यशब्दं कुर्वन्नतिहाय दतः॥४॥
-___4. Having wiped! the sticking milk, (from the ladle) in the same manner as (described) before?, with his sacred thread on the right shoulder and under left armpit, with svadha pitȚbhyaḥ pitřñ jinva; having wiped the sticking (milk) on the ground towards the south of the altar, with prajāṁ me yacchao having kept down the ladel, with vrstirasi vrsca mepāpmānam... having touched the water after having offered the libation, while the ladel is within the altar, then having taken the milk sticking to the ladle he consumes it without making sound and without any contact with teeth, with pūṣāsi.
-. 1. TB III. 10.9.2. 2. See VI.10.10. 3. TS III.5.2.3. . 4. KS VI.5;VII.14. 5. Just as he did before the libation; see VI.9.3. 6. Cf. MS I.8.5.
--
-249 अप आचम्यैवं पुनः प्राश्याचम्य बर्हिषोपयम्योदडावृत्योत्सृप्य गर्भेभ्य स्त्वा गर्भान्प्रीणीह्याग्नेयं हविः प्रजननं मे अस्तु दशवीरं सर्वगणं स्वस्तये। आत्मसनि प्रजासनि पशुसन्यभयसनि लोकसनि वृष्टिसनि। अग्निः प्रजां बहुलां मे करोत्वनं पयो रेतो अस्मासु धेहि। रायस्पोषमिषमूर्जमस्मासु दीधरत्स्वाहेत्यु दग्दण्डया प्राग्दण्डया वा सुचाचामति॥५॥
-5. Having sipped water, and in the same manner, having drunk it again and sipped it, having supported (the ladle) by means of the barhis-grass, having turned with his face to the north and moved (a little) away from the altar, with garbhebhya stvā garbhān prinihi... he sips (the milk in the ladle) by means of the ladel with its handle pointing to the north or to the east.3
-1. Cf. SB II.3.1.21. 2. Cp. TB II.6.3.5. 3. For this Sutra cp. TB II.1.4.7.
+
+
+
+अप आचम्यैवं पुनः प्राश्याचम्य बर्हिषोपयम्योदडावृत्योत्सृप्य गर्भेभ्य स्त्वा गर्भान्प्रीणीह्याग्नेयं हविः प्रजननं मे अस्तु दशवीरं सर्वगणं स्वस्तये। आत्मसनि प्रजासनि पशुसन्यभयसनि लोकसनि वृष्टिसनि। अग्निः प्रजां बहुलां मे करोत्वनं पयो रेतो अस्मासु धेहि। रायस्पोषमिषमूर्जमस्मासु दीधरत्स्वाहेत्यु दग्दण्डया प्राग्दण्डया वा सुचाचामति॥५॥  
+
+
+
 ## 06.12
 
 
 
 सौर्यं हविरिति प्रातर्मन्त्रं संनमति॥१॥
-1. In the morning (the Adhvaryu) modifies the words . āgneyaṁ haviṇ (in the formula garbhebhyastvā garbhān priṇihi
-mentioned in VI. 11.5) with the words sauryam havih.
+
+
 
 
 द्विः स्युचं निर्लिह्याद्भिः पूरयित्वोच्छिष्टभाजो जिन्वेति पराचीनं निनीया चम्याग्रेणाहवनीयं दभैरग्निहोत्रहवणीं प्रक्षालयति॥२॥
-___2. Having licked the ladel twice, having filled it with wa ter, with ucchiṣtabhājo jinva having poured the water in the direction away from himself, having sipped water, he washes the Agnihotra-ladle rubbing it by means of the Darbha-grass blades.
+
+
+
 न मांसधौतस्य देवा भुञ्जत इति विज्ञायते॥३॥
-3. “The gods do not eat that which is washed with flesh, (i.e. hand)" this is known from a Brahmana-text.!
-1. not known.
+
 
 अद्भिः स्युचं पूरयित्वा सर्पेभ्यस्त्वा सञ्जिन्वेति प्रतिदिशं व्युत्सिच्य सपोन्पिपीलिका जिन्व सतरजनाञ्जिन्व सर्पदेवजनाञ्जिन्वेति तिस्त्रः उच
 250
 उत्सिच्य चतुर्थी पूरयित्वा पृथिव्याममृतं जुहोमि स्वाहेत्यपरेणाहवनीयं निनीय शेषं पल्या अञ्जलौ गृहेभ्यस्त्वा गृहान् जिन्वेति॥४॥
-4. Having filled the ladle with water, with sarpebhyastva sarpāñjinva having poured (the water) in every direction, with sarpān pipilika jinva... having poured three ladle(ful water), having filled the ladle for the fourth time, with pṣthivyämamrtam juhomi svähä having poured it to the west of the Āhavaniya, with grhebhyastvā gļhän jinva he pours the remaining (water) on the folded hands of the wife of (the sacrificer).
+
 
 
 यदि पत्नी नानुष्यादेवानां पत्नीभ्यो ऽमृतं जुहोमि स्वाहेति पल्यायतने निनयेत्॥५॥
-5. In case the wife is not present there,' with devānāṁ patnībhyo 'mrtaṁ juhomi svāhā he should pour it on the place (where she normally sits at the time of the Agnihotra-ritual).
-1. Due to her monthly period.
+
 
 
 अपरं त्रुच्यानीय विग्रुषां शान्तिरसीत्युन्नयनदेशे निनीयाहवनीये त्रुचं प्रताप्य हस्तोऽवधेयो हस्तो वा प्रताप्य त्रुच्यवधेयः॥६॥
-6. Having poured another water in the ladle, with vipruṣ añ śāntiḥ having poured it on the place where scooping (of milk was done), either having heated the ladle on the Āhavanīya he should keep his hand on it or having heated the hand on the Āhavanīya he should keep it on the ladle.2
-1. See VI.7.1.
-2. Cf. MS I.8.5.
+
+
 
 तयोदगुद्दिशति सप्तर्षिभ्यस्त्वा सप्तर्षीजिन्वेति॥७॥
-7. With saptarsibhistvā saptarsin jinva he directs towards the north by means it (ladle).
-__ 1. See TB II.1.4.8.
+
+
 VI.13
 ## 06.13
 
 
 अग्ने गृहपते परिषद्य जुषस्व स्वाहेति स्त्रवेण गार्हपत्ये जुहोत्येकां द्वे तिस्त्रश्चतस्रो वा॥१॥
-1. With agne grhapate parisadya jusasva svāhāl (theVI.13]
-ApSs Translation : THITE
-SI
-Adhvaryu) offers one or two or three or four (libations) in the Garhapatya(-fire) by means of the spoon (Sruva).
-1. MS I.8.5; KS VI.8.
+
+
 
 
 अग्नये गृहपतये रयिपतये पुष्टिपतये कामायान्नाधाय स्वाहेत्येतामेके समामनन्ति॥२॥
-2. According to the opinion of some (ritualists)' there should be this libation (which should be offered) with agnaye grhapataye...
-1. Perhaps Kanvas. In VSK III.2.5. a similar formula occurs. SBK
-does not mention this libation.
+
 
 समभ्युच्चयवदेके॥३॥
-3. According to some others these two formulae should be used, jointly (in order to offer, either one or two libations).
+
 
 
 अग्ने ऽदाभ्य परिषद्य जुषस्व स्वाहेति सुवेणान्वाहार्यपचने जुहोत्येकां द्वे तिस्त्रश्चतस्रो वा॥४॥
-4. With agne’dābya pariṣadya juṣasva svāhal he offers one or two or three or four (libations) in the Anvāhāryapacana (i.e. Daksina-fire) by means of spoon.
-1. KS VI.8. The purpose of this formula in KS is, however, differ
-ent.
+
+
 
 अन्नपते ऽन्नस्य नो देहीति द्वितीयाम्॥५॥
-5. With annapate' nnasya no dhehi he offers the second libation.
-__1. Cp. Katyāss IV. 14.25.
+
 
 अप्राश्य वापरयोर्जुहुयात्॥६॥
-6. Or he may offer (the libations) in the two western fires! without having consumed the milk.2
-1. viz. Gārhapatya and Dakṣiṇa. 2. i.e. he may first offer the libations in these two fires and then
-consume the milk. For consuming milk see VI.11.4ff.
+
 252
 
 
 आहवनीये होमो नापरयोः॥७॥
-7. There should be offering only in the Ahavaniya and not in the two western fires' at all.
-1. viz. Gārhapatya and Dakṣiṇa. Thus according to this opinion th.
-libations mentioned in VI. 13.1-5. should not be offered at all
+
 
 यदावहनीये हुत्वापरयोर्जुहुयाद्यथा स्वर्गाल्लोकात्प्रत्यवरोहेत्तादक्तालिन विज्ञायते॥८॥
-8. “Having offered in the Ahavaniya if one offers in the two western fires that will be as if some one decended from the heavenly world”—Thus is known (from a Brāhmaṇa-text).1
-___ 1. Not identified.
+
 
 
 सर्वे वा एते होमार्था आधीयन्ते। चतस्रो गार्हपत्ये जुहोति चतस्रो ऽन्वाहार्यपचने द्वे आहवनीये। दश संपद्यन्ते। दशाक्षरा विराड् विराजा यज्ञः संमित इति बढ्चब्राह्मणं भवति॥९॥
-9. "All these (fires) are established for the sake of offer ings. He offers four (libations) in the Garhapatya-fire, four in the Daksina (fire), two in the Ahavaniya (fire). They become ten. The Viraj-metre consists of ten syllables. The sacrifice is
-measured by means of Vijaj"--Thus (is said) in a Brahmana of the R̥gveda.1
-1. Cp KB II.3.
+
+
 
 दीदिहि दीदिदासि दीदायेत्येषो ऽग्न्युपसमिन्धन आम्नातः॥१०॥
-10. The formula transmitted for enkindling the fires is this-didihi dididasi didāya.
+
 
 
 दीदिहि दीदिदासि दीदाय दीद्यासं दीद्यस्वेति वा प्रतिमन्त्रम्॥११॥
-11. Or he enkindles, each one of the fires with each one of the formulae didihii, dididasi, didāya, didyāsam, didyasva.
+
 
 
 यथाहितास्तेनानुपूर्येणाहवनीयाद्वा प्रक्रम्य॥१२॥
-12. (He enkindles the fires in the order) in which they were established or having started with the Āhavanīya.'
-1. See VI.2.5.
+
 253
 
 
 अन्तर्वेद्यपो निनीय॥१३॥
-13. Having poured some water within the altar,'
-1. The sentence is incomplete. see the next Sutra.
+
+
 ## 06.14
 
 
 पूर्ववदग्नीन्परिषिञ्चति। न धाराम्॥१॥
-1. (the Adhvaryu) sprinkles water around the fires in the same manner (as described) earlier but he does not cause line of water (to flow).2
-1. See VI.5.4.
-2. See VI.5.5.
+
 
 
 अपिप्रेरग्ने स्वां तन्वमयाड् द्यावापृथिवी ऊर्जमस्मासु धेहीत्यग्निहोत्रस्थाल्यां तृणमङ्क्त्वानुप्रहरति॥२॥
-2. With apipreragne svām tanvam...1 having besmeared a blade of grass in the vessel of Agnihotra(-milk), he throws it (into the Ahavaniya-fire).2
-1. KS VI.8. 2. Cf. KS VI.8; cp. MS.I.8.7.
-van.. MSL8.7.
+
 
 सा ह्यग्निहोत्रस्य संस्थितिः॥३॥
-3. This is the complete establishment of the Agnihotra (ritual).2
-1. End. 2. Cp. similar things in connection with the New and Full-moon
-___sacrifices. III.7.4.
+
 
 न बर्हिरनुप्रहरेत्। असंस्थितो वा एष यज्ञो यदग्निहोत्रमित्युक्तम्॥४॥
-4. “He should not throw the blade of grass (into the fire); not completely established (unending) indeed is this sacrifice namely Agnihotra"--This has been said (by a Brāhmaṇa-text).'
-1. TB II.1.4.9.
+
 
 
 अग्निहोत्रस्थाली प्रक्षाल्याक्षितमक्षित्यै जुहोमि स्वाहेत्युन्नयनदेशे निनयति। अन्तर्वेदि वा॥५॥ ____5. Having washed the Agnihotra-milk-vessel, with aks
