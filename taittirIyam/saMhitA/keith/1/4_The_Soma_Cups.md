@@ -3,32 +3,9 @@ title = "4 The Soma Cups"
 
 +++
 
-## 04
-### d
-## 05
-### a
-### b
-
-## 06
-### a
-### b
-
-## 7
-
-### a
-Ye that yoke early be unloosed  
-O Aśvins, come ye hither,  
-To drink this Soma.
-### b
-Thou art taken with a support; to the Aśvins thee! This is thy  
-birthplace; to the Aśvins thee!
 
 ## 08
 ### a
-Vena hath stirred those born of Prśni,  
-He enveloped in light, in the expanse of the welkin;  
-Him in the meeting-place of the waters, of the sun,  
-Like a child, the priests tend with their songs.
 ### b
 Thou art taken with a support; to Çanda thee! This is thy birthplace; guard the folk.
 ## 9
