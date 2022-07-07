@@ -2,22 +2,6 @@
 title = "4 The Soma Cups"
 
 +++
-## 12
-### a
-
-
-
-## 13
-### a
-The head of the sky, the messenger of earth,  
-Vaiśvanara, born for holy order, Agni,  
-The sage, the king, the guest of men,  
-The gods have produced as a cup for their mouths.
-### b
-Thou art taken with a support; to Agni Vaiśvanara thee! Thou art  
-secure, of secure foundation, most secure of the secure, with securest  
-foundation of those which are secure. This is thy birthplace; to Agni  
-Vaiśvanara thee!
 
 ### a
 Thou art Madhu and Madhava; thou art Çukra and Çuci; thou art Nabha and Nabbasya; thou art Isa and Urja; thou art Saha and Sahasya; thou art Tapa and Tapasya.
