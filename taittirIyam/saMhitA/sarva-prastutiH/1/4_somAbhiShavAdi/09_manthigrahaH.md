@@ -16,30 +16,52 @@ _______
 तम्प्र॒त्नथा॑ पू॒र्वथा॑ वि॒श्वथे॒मथा᳚ ज्ये॒ष्ठता॑तिम्बर्हि॒षदꣳ॑ सुव॒र्विद॑म्प्र तीची॒नव्ँवृ॒जन॑न्दोहसे गि॒राऽऽशुञ्जय॑न्त॒मनु॒ यासु॒ वर्ध॑से 
 </details>
 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/044/01_taM_pratnathA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/044/01_taM_pratnathA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-उ॒प॒या॒मगृ॑हीतोऽसि, मर्का॑य त्वा ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-उ॒प॒या॒मगृ॑हीतोऽसि, मर्का॑य त्वा ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोसि मर्काय त्वेति गृह्णाति ॥
 
--  [उदित आदित्येन्तर्यामं गृह्णाति अतिधारया पवमानस्य राज्ञः - उपयामगृहीतोसि ॥ उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
-ननु 'स्वाहा त्वा सुभवस्सूर्याय' इति मन्त्रवर्णनात् सूर्यदेवत्यः कथं पृथिवीदेवत्यः स्यात् ? नैतद्देवताभिधानं ; पृथिवीवासिनां प्रजानां यागद्वारेण स्थित्यर्थं गृहीतोसीति स्तूयते । यद्वा - पृथिव्यपि देवतैवास्य 'उपयामगृहीतोसीत्याहादितिदेवत्यास्तेन' इति, अदितिः पृथ्वी । 'चतुर्थी' इति योगविभागात्समासः । 'क्ते च' इति पूर्वपदप्रकृतिस्वरत्वम् । 'इयं वा उपयामस्तस्मादिमां प्रजा अनु प्रजायन्ते' इति ब्राह्मणम् ॥ ]
 </details>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते᳚ योनि॑ᳶ प्र॒जाᳶ पा॑हि ॥ [10]  
+मर्का॑य त्वा ।
 </details>
+
+<details><summary>Keith</summary>
+
+to Marka thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+मर्का॑य त्वा ।
+</details>
+
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+2एष ते योनिः प्रजाः पाहीति सादयति ॥ 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए॒ष ते᳚ योनि॑ᳶ, प्र॒जाᳶ पा॑हि ॥ [10]  
+</details>
+
+<details><summary>Keith</summary>
+
+This is thy birth place; guard offspring.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -48,7 +70,7 @@ _______
 
 <details><summary>भट्टभास्करटीका</summary>
 
-2एष ते योनिः प्रजाः पाहीति सादयति ॥ प्रजाः यजमानस्य स्वभूतास्सर्वा वा ॥
+प्रजाः यजमानस्य स्वभूतास्सर्वा वा ॥
 
 इति चतुर्थे नवमः ॥  
 </details>

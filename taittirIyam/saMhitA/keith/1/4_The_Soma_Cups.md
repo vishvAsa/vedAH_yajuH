@@ -3,29 +3,6 @@ title = "4 The Soma Cups"
 
 +++
 
-
-## 08
-### a
-### b
-
-## 9
-
-### a
-Him, as aforetime, as of old, as always, as now,  
-The prince, who hath his seat on the strew and knoweth the heaven,  
-The favouring, the strong, thou milkest with thy speech,  
-The swift who is victor in those among whom thou dost wax.
-### b
-Thou art taken with a support; to Marka thee! This is thy birth.  
-place; guard offspring.
-## 10
-### a
-Ye gods that are eleven in the sky,  
-Eleven on the earth,  
-Who sit mightily in the waters, eleven in number,  
-Do ye accept this saerifice.
-### b
-Thou art taken with a support; thou art the leader, thou art the good leader; quicken the sacrifice, quicken the lord of the sacrifice; guard the pressings; let Visnu guard thee, do thou guard the folk with thy power; this is thy birthplace; to the All-gods thee!
 ## 11
 ### a
 Three and thirty in troops the Rudras  
