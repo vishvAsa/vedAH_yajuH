@@ -4,13 +4,8 @@ title = "4 The Soma Cups"
 +++
 
 ### a
-Thou art Madhu and Madhava; thou art Çukra and Çuci; thou art Nabha and Nabbasya; thou art Isa and Urja; thou art Saha and Sahasya; thou art Tapa and Tapasya.
-### b
-Thou art taken with a support.
-### c
-Thou art Samsarpa.
-### d
-To Anhaspatva thee!
+
+
 ## 15
 ### a
 O Indra and Agni, come  
