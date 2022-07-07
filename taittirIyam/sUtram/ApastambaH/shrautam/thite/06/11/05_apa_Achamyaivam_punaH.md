@@ -2,4 +2,11 @@
 title = "05 अप आचम्यैवम् पुनः"
 
 +++
-अप आचम्यैवं पुनः प्राश्याचम्य बर्हिषोपयम्योदङ्ङावृत्योत्सृप्य गर्भेभ्यस्त्वा गर्भान्प्रीणीह्याग्नेयं हविः प्रजननं मे अस्तु दशवीरं सर्वगणं स्वस्तये । आत्मसनि प्रजासनि पशुसन्यभयसनि लोकसनि वृष्टिसनि । अग्निः प्रजां बहुलां मे करोत्वन्नं पयो रेतो अस्मासु धेहि । रायस्पोषमिषमूर्जमस्मासु दीधरत्स्वाहेत्युदग्दण्डया प्राग्दण्डया वा स्रुचाचामति ५
+5. Having sipped water, and in the same manner, having drunk it again and sipped it, having supported (the ladle) by means of the barhis-grass, having turned with his face to the north and moved (a little) away from the altar, with garbhebhya-stvā garbhān prīṇīhi... he sips (the milk in the ladle) by means of the ladel with its handle pointing to the north or to the east.[^3]  
+
+
+[^1]: Cf. ŚB II.3.1.21.  
+
+[^2]: Cp. TB II.6.3.5.  
+
+[^3]: For this Sūtra cp. TB II.1.4.7.  

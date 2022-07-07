@@ -2,4 +2,11 @@
 title = "01 देवस्य त्वा सवितुः"
 
 +++
-देवस्य त्वा सवितुः प्रसव इति स्रुक्स्रुवमादाय प्रत्युष्टं रक्षाः प्रत्युष्टा अरातय इत्याहवनीये गार्हपत्ये वा प्रतितप्यारिष्टो यजमानः पत्नी चेति सम्मृश्य हिरण्ययष्टिरस्यमृतपलाशा स्रोतो यज्ञानामित्यग्निहोत्रहवणीमभिमन्त्र्योमुन्नेष्यामि हव्यं देवेभ्यः पाप्मनो यजमानमिति सायमाह । ओमुन्नयामीति प्रातः १
+1. with devasya tvā...[^1] having taken the ladle and spoon in his hands, with pratyuṣṭaṁ rakṣaḥ pratyuṣṭā arātayaḥ[^2] having heated them over the Āhavanīya or the Gārhapatya, with ariṣṭo yajamānaḥ... having touched them, with hiraṇyayaṣṭirasyamr̥tapalāśa śroto yajñānāṁ[^3] having addressed the ladle to be used for offering the Agnihotra-libation, in the evening the Adhvaryu says, om unneṣyāmi havyaṁ devebhyaḥ pāpmano yajamānam; in the morning om unnayāmi...  
+
+
+[^1]: TS I.3.1.4.  
+
+[^2]: TS I.1.4.c.  
+
+[^3]: JB.  

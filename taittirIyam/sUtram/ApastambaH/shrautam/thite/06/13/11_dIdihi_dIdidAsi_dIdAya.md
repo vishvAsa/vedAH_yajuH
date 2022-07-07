@@ -2,4 +2,4 @@
 title = "11 दीदिहि दीदिदासि दीदाय"
 
 +++
-दीदिहि दीदिदासि दीदाय दीद्यासं दीद्यस्वेति वा प्रतिमन्त्रम् ११
+11. Or he enkindles, each one of the fires with each one of the formulae dīdihi, dīdidāsi, dīdāya, dīdyāsam, dīdyasva.

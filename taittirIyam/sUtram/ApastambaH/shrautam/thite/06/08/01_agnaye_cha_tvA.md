@@ -2,4 +2,4 @@
 title = "01 अग्नये च त्वा"
 
 +++
-अग्नये च त्वा पृथिव्यै चोन्नयामीति प्रथमं वायवे च त्वान्तरिक्षाय चेति द्वितीयं सूर्याय त्वा दिवे चेति तृतीयं चन्द्रमसे च त्वा नक्षत्रेभ्यश्चेति चतुर्थम् १
+1. (The Adhvaryu) scoops first with agnaye ca tvā prthivyai connayāmi, second with vāyave ca tvāntarikṣāya ca, third with sūryāya ca tvā dive ca..., fourth with candramase ca tvā nakṣatrebhyaśca.....

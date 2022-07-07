@@ -2,4 +2,4 @@
 title = "04 अद्भिः स्रुचम् पूरयित्वा"
 
 +++
-अद्भिः स्रुचं पूरयित्वा सर्पेभ्यस्त्वा सर्पाञ्जिन्वेति प्रतिदिशं व्युत्सिच्य सर्पान्पिपीलिका जिन्व सर्पेतरजनाञ्जिन्व सर्पदेवजनाञ्जिन्वेति तिस्रः स्रुच उत्सिच्य चतुर्थीं पूरयित्वा पृथिव्याममृतं जुहोमि स्वाहेत्यपरेणाहवनीयं निनीय शेषं पत्न्या अञ्जलौ गृहेभ्यस्त्वा गृहाञ्जिन्वेति ४
+4. Having filled the ladle with water, with sarpebhyastvā sarpāñjinva having poured (the water) in every direction, with sarpān pipīlika jinva... having poured three ladle(ful water), having filled the ladle for the fourth time, with pr̥thivyāmamr̥taṁ juhomi svāhā having poured it to the west of the Āhavanīya, with gr̥hebhyastvā gr̥hān jinva he pours the remaining (water) on the folded hands of the wife of (the sacrificer).

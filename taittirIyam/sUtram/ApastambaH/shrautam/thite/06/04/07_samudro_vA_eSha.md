@@ -2,4 +2,7 @@
 title = "07 समुद्रो वा एष"
 
 +++
-समुद्रो वा एष यदहोरात्रस्तस्यैते गाधे तीर्थे यत्सन्धी तस्मात्सन्धौ होतव्यमिति शैलालिब्राह्मणं भवति ७
+1. “The day and night are like an ocean indeed; the juncture (twilight)-times of it are like shallow fords; therefore the Agnighotra-libation) should be offered at the time of) in tures (twilight times)"- thus is said in the Śaiāli-Brāhmaṇa.[^1]  
+
+
+[^1]: Cp. KB II.9. 

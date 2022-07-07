@@ -2,4 +2,7 @@
 title = "04 न चाभिमीलते तिष्ठति"
 
 +++
-न चाभिमीलते तिष्ठति च यजमानः ४
+4. The sacrificer does not close his eyes[^1] and remains standing (while the Adhvaryu is scooping the milk).  
+
+
+[^1]: He should look at the process of scooping.

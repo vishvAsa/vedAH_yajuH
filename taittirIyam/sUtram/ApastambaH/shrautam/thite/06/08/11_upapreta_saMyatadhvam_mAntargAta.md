@@ -2,4 +2,4 @@
 title = "11 उपप्रेत संयतध्वम् मान्तर्गात"
 
 +++
-उपप्रेत संयतध्वं मान्तर्गात भागिनं भागधेयात्सप्तर्षीणां सुकृतां यत्र लोकस्तत्रेमं यज्ञं यजमानं च धेह्युप प्रत्नमुप भूर्भुवः सुवरायुर्मे यच्छेत्यपरेणाहवनीयं दर्भेषु सादयति ११
+11. With upapreta saṁyatadhvam... upa pratnam upa, bhūḥ bhuvaḥ svaḥ. āyur me yaccha he keeps the Agnihotra-ladle on the Darbha-grass, to the west of the Āhavanīya.  

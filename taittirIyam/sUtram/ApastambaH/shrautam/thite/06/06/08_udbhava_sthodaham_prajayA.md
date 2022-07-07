@@ -2,4 +2,17 @@
 title = "08 उद्भव स्थोदहम् प्रजया"
 
 +++
-उद्भव स्थोदहं प्रजया प्र पशुभिर्भूयासं हरस्ते मा विगादुद्यन्सुवर्गो लोकस्त्रिषुलोकेषु रोचयेतिपुनरेवावेक्ष्यान्तरितं रक्षोऽन्तरिता अरातयोऽपहता व्यृद्धिरपहतं पापं कर्मापहतं पापस्य पापकृतः पापं कर्म यो नः पापं कर्म चिकीर्षति प्रत्यगेनमृच्छेति त्रिः पर्यग्नि कृत्वा घर्मोऽसि रायस्पोषवनिरिहोर्जं दृंहेति वर्त्म कुर्वन्प्रागुद्वासयत्युदक् प्रागुदग्वा ८
+8. With udbhava sthodahaṁ prajayā paśubhir bhūyāsam...[^1] having again looked at the milk, with antaritaṁ rakṣo'ntaritā arātayaḥ[^3] having thrice moved fire[^4] around (the milk), with gharmo'si rāyaspoṣavaṇiḥ... he removes (the milk from the fire) towards the north[^5] or towards the north-east, dragging it (as it were).[^6]  
+
+
+[^1]: Cp. MS I.8.4; KS 6.7.  
+
+[^2]: As described in Sūtra 6.
+
+[^3]: TS I.1.8.1.  
+
+[^4]: i.e. a burning fire-brand.  
+
+[^5]: Cf. TB II.1.3.4-5.  
+
+[^6]: Thus he does not lift up the vessel from the fire, but drags it away.  

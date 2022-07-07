@@ -2,4 +2,7 @@
 title = "09 संसृष्टहोमं वाग्निर्ज्योतिर्ज्योतिः सूर्यः"
 
 +++
-संसृष्टहोमं वाग्निर्ज्योतिर्ज्योतिः सूर्यः स्वाहेति सायम् । सूर्यो ज्योतिर्ज्योतिरग्निः स्वाहेति प्रातः ९
+9. Or he offers in a mixed manner of offering, with agnirjyotir jyotiḥ sūryaḥ in the evening; with sūryo jyotir jyotiragniḥ in the morning.[^1]  
+
+
+[^1]: Cf. TB II.1.2.10.  

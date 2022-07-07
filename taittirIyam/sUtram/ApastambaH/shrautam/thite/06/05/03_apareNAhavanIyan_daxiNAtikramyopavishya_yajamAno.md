@@ -2,4 +2,6 @@
 title = "03 अपरेणाहवनीयन् दक्षिणातिक्रम्योपविश्य यजमानो"
 
 +++
-अपरेणाहवनीयं दक्षिणातिक्रम्योपविश्य यजमानो विद्युदसि विद्य मे पाप्मानमृतात्सत्यमुपैमि मयि श्रद्धेत्यप आचामति ३
+3. Having stepped towards the west of the Āhavanīya by the right, then having sat down (on his seat)[^1] the sacrificer sips water with vidyudasi vidya me pamānam.
+
+[^1]: See IV.4.3.

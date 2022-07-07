@@ -2,4 +2,4 @@
 title = "09 उपस्युपोदयं समयाविषित उदिते"
 
 +++
-उपस्युपोदयं समयाविषित उदिते वा प्रातः ९
+9. In the morning (the Agnihotra may be offered) at the dawn, before the sun-rise, when the sun is half-risen or when it is (fully) risen.

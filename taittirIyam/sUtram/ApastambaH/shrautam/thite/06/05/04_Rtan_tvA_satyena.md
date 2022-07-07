@@ -2,4 +2,9 @@
 title = "04 ऋतन् त्वा सत्येन"
 
 +++
-ऋतं त्वा सत्येन परिषिञ्चामीति सायं परिषिञ्चति । सत्यं त्वर्तेन परिषिञ्चामीति प्रातः । आहवनीयमग्रे ऽथ गार्हपत्यमथ दक्षिणाग्निमपि वा गार्हपत्यमाहवनीयं दक्षिणाग्निं यथा वाहिताः ४
+4. With r̥tam tvā satyena pariśincāmi[^1] (the Adhvaryu) sprinkles water (around the fires) in the evening; with satyam tvartena pariṣiñcāmi[^2] in the morning. (He sprinkles water in the following order): first Āhavanīya, (then) Gārhapatya (then) Dakṣiṇa-fire; or first Gārhapatya, (then) Āhavanīya, (then) Dakṣiṇa; or the order in which they were established.[^3]  
+
+
+[^1-2]: TB II.1.11.1.   
+
+[^3]: viz. Gārhapatya, Dakṣiṇa, Āhavanīya. Cp. VI.2.5.  

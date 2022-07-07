@@ -2,4 +2,4 @@
 title = "03 भूरिडा भुव इडा"
 
 +++
-भूरिडा भुव इडा सुवरिडा करदिडा पृथगिडेति वा प्रतिमन्त्रम् ३
+3. Or with each one of the formulae viz. bhūriḍā, bhuva-iḍā, suvariḍa, karadiḍā, pr̥thagiḍa.

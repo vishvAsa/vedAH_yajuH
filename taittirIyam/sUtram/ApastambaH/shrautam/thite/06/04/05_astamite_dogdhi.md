@@ -2,4 +2,4 @@
 title = "05 अस्तमिते दोग्धि"
 
 +++
-अस्तमिते दोग्धि ५
+5. He milks (the cow) after (the sun) is set down; 

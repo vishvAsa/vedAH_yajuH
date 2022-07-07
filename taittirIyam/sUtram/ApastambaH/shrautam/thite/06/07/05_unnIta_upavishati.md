@@ -2,4 +2,4 @@
 title = "05 उन्नीत उपविशति"
 
 +++
-उन्नीत उपविशति ५
+5. After the scooping is over, he sits down.
