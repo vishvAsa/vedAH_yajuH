@@ -2,23 +2,11 @@
 title = "4 The Soma Cups"
 
 +++
-
-## 11
-### a
-Three and thirty in troops the Rudras  
-Frequent the sky and earth, the destructive ones,  
-Eleven seated on the waters;  
-May all of them accept the Soma pressed for the pressing.
-### b
-Thou art taken with a support; thou art the leader, thou art the good leader; quicken the sacrifice, quicken the lord of the sacrifice; guard the pressings; let Visnu guard thee, do thou guard the folk with thy power; this is thy birthplace; to the all-gods thee!
 ## 12
 ### a
-Thou art taken with a support.  
-To Indra thee, to him of the Brhat (Saman),  
-The strong, eager for praise.  
-Thy great strength, O Indra,  
-To that thee!  
-To Visnu thee! This is thy birthplace; to Indra, eager for praise, thee!
+
+
+
 ## 13
 ### a
 The head of the sky, the messenger of earth,  
