@@ -12,9 +12,6 @@ title = "4 The Soma Cups"
 
 ## 16
 ### a
-Ye dread ones, guardians of men,  
-O All-gods, come ye,  
-Generous, to the pressed drink of the generous one.
 ### b
 Thou art taken with a support; to the All-gods thee! This is thy birthplace; to the All-gods thee!
 ## 17
