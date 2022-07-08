@@ -2,45 +2,13 @@
 title = "4 The Soma Cups"
 
 +++
-
-### a
-
-
-## 15
-### a
-### b
-
-## 16
-### a
-### b
-Thou art taken with a support; to the All-gods thee! This is thy birthplace; to the All-gods thee!
-## 17
-
-### a
-Him with the Maruts, the mighty bull,  
-The bountiful, the divine ruler, Indra,  
-All-powerful, the dread, giver of strength,  
-For present aid let us invoke.
-### b
-Thou art taken with a support; to Indra with the Maruts thee! This is thy birthplace; to Indra with the Maruts thee!
-## 18
-### a
-O Indra with the Maruts drink here the Soma,  
-As thou didst drink the pressed drink with Çaryata  
-Under thy guidance, in thy protection, O hero,  
-The singers skilled in sacrifice are fain to serve.
-### b
-Thou art taken with a support; to Indra with the Maruts thee!  
-This is thy birthplace; to Indra with the Maruts thee!
 ## 19
 ### a
 Indra with the Maruts, the bull, for gladness,  
 Drink the Soma, for joy, to thy content;  
 Pour within thy belly the wave of sweetness;  
 Thou art from of old the king of the pressed drinks.
-### b
-Thou art taken with a support; to Indra with the Maruts thee,  
-This is thy birthplace; to Indra with the Maruts thee!
+
 ## 20
 ### a
 Great is Indra who through his might  

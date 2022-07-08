@@ -29,6 +29,12 @@ _______
 विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+to the All-gods thee! 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ।
@@ -45,6 +51,12 @@ _______
 
 ए॒ष ते॒ योनि॒र्, विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]  
 </details>
+
+<details><summary>Keith</summary>
+
+This is thy birthplace; to the All-gods thee!
+</details>
+
 
 <details><summary>मूलम्</summary>
 
