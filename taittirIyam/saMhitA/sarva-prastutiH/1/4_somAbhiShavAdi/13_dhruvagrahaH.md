@@ -24,7 +24,7 @@ _______
 इमाम् अनुद्रुत्य उपयाम-गृहीतोस्य् अग्नये त्वा वैश्वानरायेति गृह्णाति ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/007/01_mUrdhAnaM_divo.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>
 
 
 

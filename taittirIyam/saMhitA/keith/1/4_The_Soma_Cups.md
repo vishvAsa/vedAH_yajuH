@@ -8,11 +8,8 @@ title = "4 The Soma Cups"
 
 ## 15
 ### a
-O Indra and Agni, come  
-For our prayers to the pressed drink, the delightful fumes  
-Drink ye of it, impelled by our prayer.
 ### b
-Thou art taken with a support; to Indra and Agni thee! This is thy birthplace; to Indra and Agni thee!
+
 ## 16
 ### a
 Ye dread ones, guardians of men,  
