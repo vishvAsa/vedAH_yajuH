@@ -2,4 +2,7 @@
 title = "11 यङ् कामयेत स्वस्ति"
 
 +++
-यं कामयेत स्वस्ति पुनरागच्छेदिति तमेताभिरन्वीक्षेत । स्वस्त्येव पुनरागच्छतीत्ययज्ञसंयुक्तः कल्पः ११
+11. He should look at him about whom he desires that he should return safely, with these verses (when he is going on journey). He indeed returns safely-this is a ritual not conected with the sacrifice.[^1]  
+
+
+[^1]: cf. KS VIII.9.

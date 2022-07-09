@@ -2,4 +2,7 @@
 title = "02 इहैव सन्तत्र सतो"
 
 +++
-इहैव सन्तत्र सतो वो अग्नयः प्राणेन वाचा मनसा बिभर्मि । तिरो मा सन्तमायुर्मा प्रहासीज्ज्योतिषा वो वैश्वानरेणोपतिष्ठ इति यद्यनुपस्थाय प्रवसेदेतयैवोपतिष्ठेत २
+2. If without having stood near (the fires while praising them) he is staying away then he should praise the fires only with this verse viz. ihaiva san tatra sato vaḥ...[^1]  
+
+
+[^1]: TB I.2.1.27.  

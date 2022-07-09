@@ -2,4 +2,6 @@
 title = "02 अम्भः स्थाम्भो वो"
 
 +++
-अम्भः स्थाम्भो वो भक्षीयेति गोष्ठमुपतिष्ठते २
+2. With ambha sthāmbho vo bhakṣīya...[^1] he stands near the cow-stall praising it.
+
+[^1]: TS I.5.6.b.

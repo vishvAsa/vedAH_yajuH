@@ -2,4 +2,6 @@
 title = "06 ज्वलत उपतिष्ठते प्रजाम्"
 
 +++
-ज्वलत उपतिष्ठते प्रजां मे नर्य पाहि तां मे गोपायास्माकं पुनरागमादिति गार्हपत्यम् । अन्नं मे बुÞय पाहि तन्मे गोपायास्माकं पुनरागमादित्यन्वाहार्यपचनम् । पशून्मे शंस्य पाहि तान्मे गोपायास्माकं पुनरागमादित्याहवनीयम् ६
+6. When the fires are ablaze, he stands near them praising the Gārhapatya with prajām me narya pāhi...,[^1] the Dakṣiṇa with annaṁ me buddhnya pāhi...,[^2]; the Āhavanīya with paśūn me śaṁsya pāhi...[^3],
+
+[^1-3]: MS I.5.14.  

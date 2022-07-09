@@ -2,4 +2,8 @@
 title = "07 मम नाम प्रथमञ्"
 
 +++
-मम नाम प्रथमं जातवेद इति च ७
+
+7. and with mama nāma prathamaṁ jātavedaḥ...[^1]
+
+
+[^1]: TS I.5.10.a.  

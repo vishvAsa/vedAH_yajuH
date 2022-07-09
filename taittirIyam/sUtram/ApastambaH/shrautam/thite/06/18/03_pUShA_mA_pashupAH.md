@@ -2,4 +2,11 @@
 title = "03 पूषा मा पशुपाः"
 
 +++
-पूषा मा पशुपाः पातु पूषा मा पथिपाः पातु पूषा माधिपाः पातु पूषा माधिपतिः पात्विति लोकानुपस्थाय प्राची दिगग्निर्देवताग्निं स ऋच्छतु यो मैतस्यै दिशोऽभिदासति । दक्षिणा दिगिन्द्रो देवतेन्द्रं स ऋच्छतु यो मैतस्यै दिशोऽभिदासति । प्रतीची दिक् सोमो देवता सोमं स ऋच्छतु यो मैतस्यै दिशोऽभिदासति । उदीची दिङ्मित्रावरुणौ देवता मित्रावरुणौ स ऋच्छतु यो मैतस्यै दिशोऽभिदासति । ऊर्ध्वा दिग्बृहस्पतिर्देवता बृहस्पतिं स ऋच्छतु यो मैतस्यै दिशोऽभिदासति । इयं दिगदितिर्देवतादितिं स ऋच्छतु यो मैतस्यै दिशोऽभिदासतीति यथालिङ्गं दिश उपस्थाय ३
+3. With the formulae beginning with pūṣā mā pātu...[^1] having praised the worlds, with formulae beginning with prācī digagnir devatā[^2] having praised the quarters in accordance with the characteristic mark (word, indicating the quarter),[^3]   
+
+
+[^1]: Cp. MS I.5.4.  
+
+[^2]: Cp. KS VII.9.  
+
+[^3]: The sentence is incomplete. See the next Sūtra.

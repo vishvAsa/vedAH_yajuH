@@ -2,4 +2,7 @@
 title = "10 महि त्रीणामवोऽस्तु द्युक्षम्"
 
 +++
-महि त्रीणामवोऽस्तु द्युक्षं मित्रस्यार्यम्णः । दुराधष वरुणस्य । नहि तेषाममा चन नाध्वसु वारणेष्वा । ईशे रिपुरघशंसः । ते हि पुत्रासो अदितेश्छर्दिर्यच्छन्त्यजस्रम् । वि दाशुषे वार्याणीति प्राजापत्येन तृचेनोपतिष्ठते १०
+10. With a group of three verses connected with Prajāpati beginning with mahi trīṇāmavo'stu, na hi teṣāmamā cana, and te hi putrāso aditeḥ he stands near (the Āhavanīya) praising it.[^1]  
+
+
+[^1]: Cf. MS I.5.11; KS VII.9.

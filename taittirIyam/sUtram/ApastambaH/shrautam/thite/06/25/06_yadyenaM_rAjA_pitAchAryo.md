@@ -2,4 +2,6 @@
 title = "06 यद्येनं राजा पिताचार्यो"
 
 +++
-यद्येनं राजा पिताचार्यो वान्तरेणाग्नीन्स्याच्छदिर्दर्शे नैनमाद्रियेत ६
+6. From the place where the roof (of his) house is being seen, even if the king or his father or his teacher will be between him and the fires, he should not show his respect towards him.[^1]  
+
+[^1]: Cp SB II.4.1.6.271

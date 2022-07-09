@@ -2,4 +2,14 @@
 title = "02 अधिश्रित उन्नीयमाने वा"
 
 +++
-अधिश्रित उन्नीयमाने वा ममाग्ने वर्चो विहवेष्वस्त्विति चतस्रो जपित्वापां पते योऽपां भागः स त एष प्रतिषिक्ता अरातयः प्रतिषिक्ता अरातयः प्रतिषिक्ता अरातय इति त्रिर्भूमौ प्रतिषिच्य कालाय वां जैत्रियाय वामौद्भेत्त्रियाय वामन्नाद्याय वामवनेनिजे सुकृताय वाम् । इदमहं दुरद्मन्यां निष्प्लावयामि भ्रातृव्याणां सपत्नानामहं भूयासमुत्तमः । अपां मैत्रादिवोदकमिति हस्तौ प्रक्षाल्य श्रियं धातर्मयि धेहि श्रियो माधिपतिं कुरु । विशामीशानो मघवेन्द्रो मा यशसा नयदिति जपित्वाथर्व्युष्टा देवजूता वीडु छपथजम्भनीः । आपो मलमिव प्राणिजन्नस्मत्सु शपथाँ अधीत्याचम्येन्द्रियावतीमद्याहं वाचमुद्यासं दीर्घप्राणोऽच्छिन्नो ऽदब्धो गोपाः । अजस्रं दैव्यं ज्योतिः सौपर्णं चक्षुः सुश्रुतौ कर्णौ देवश्रुतौ कर्णौ केशा बर्हिः शिखा प्रस्तरो यथास्थानं कल्पयध्वं शं हृदयायादो मा मा हासिष्टेति यथालिङ्गमङ्गानि सम्मृश्य २
+2. After the Agnihotra-miik is kept on fire[^1] or while it is being scooped out,[^2] having muttered four verses beginning with mamāgne varco vihaveṣvastu,[^3] having thrice poured water on the ground with apāṁ pate yo’pāṁ bhāgaḥ..., having washed the hands with kālāya vāṁ jaitriyāya... having muttered śriyaṁ dhātar mayi dhehi.., having sipped water with atharvyajuṣṭā devajūtā...,[^4] having touched the limbs in accordance with the characteristic mark (indicating the limb, in the formula) with indriyāvatīmadyāham...[^5],
+
+[^1]: See VI.5.7.  
+
+[^2]: See VI.7.1-3.  
+
+[^3] TS IV.7.14.a.  
+
+[^4]: Cp. AV II.7.1.   
+
+[^5]: Cp. AV XVI.2.4-6. The sentence is incomplete. See the next Sūtra.

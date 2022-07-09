@@ -2,4 +2,4 @@
 title = "02 ज्वलत उपतिष्ठते"
 
 +++
-ज्वलत उपतिष्ठते २
+2. He stands near the fires, which are burning, 

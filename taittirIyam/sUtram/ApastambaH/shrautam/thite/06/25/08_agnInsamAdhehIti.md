@@ -2,4 +2,4 @@
 title = "08 अग्नीन्समाधेहीति"
 
 +++
-अग्नीन्समाधेहीति ८
+8. (He orders the Adhvaryu)! “Do you enkindle the fires".
