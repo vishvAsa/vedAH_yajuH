@@ -2,4 +2,8 @@
 title = "07 आपो ह श्लेष्म"
 
 +++
-आपो ह श्लेष्म प्रथमं सम्बभूव येन धृतो वरुणो येन मित्रः । येनेन्द्रं देवा अभ्यषिञ्चन्त राज्याय तेनाहं मामभिषिञ्चामि वर्चस इति शिरस्यप आनयते ७
+7. With āpo ha śleṣma prathamam sambabhūva... he pours water on his own head.[^1]   
+
+
+[^1]: The formula and action only in Āpaśs. Here the description of Agnihotra is concluded. Now follow some special types of
+Agnihotra.  

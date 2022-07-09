@@ -2,4 +2,6 @@
 title = "04 यथा ह वा"
 
 +++
-यथा ह वा इतं पितरं प्रोषिवांसं पुत्राः प्रत्याधावन्त्येवं ह वा एतमग्नयः प्रत्याधावन्ति । स शकलान्दारूणि वाहरन्नेति यथैव तत्पुत्रेभ्य आहरन्नेति । तादृक्तदिति विज्ञायते ४
+4. It is known (from a Brāhmaṇa-text)[^1]. “Just as the sons run towards the father who had gone (and) was staying away, in the same way the fires run towards him (the sacrificer). He comes back while carrying some pieces (of wood) or (wooden sticks), just as (a father) carrying something comes towards his sons, it is like this”.  
+
+[^1]: The text is not known.

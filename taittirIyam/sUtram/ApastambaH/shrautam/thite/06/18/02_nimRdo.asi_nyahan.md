@@ -2,4 +2,6 @@
 title = "02 निमृदो ऽसि न्यहन्"
 
 +++
-निमृदो ऽसि न्यहं तं मृद्यासं योऽस्मान्द्वेष्टि यं च वयं द्विष्म इति दक्षिणस्य पदः पार्ष्ण्या निमृद्गीयाद्यदि पापीयसा स्पर्धेत । प्रभूरसि प्राहं तमभिभूयासं यो ऽस्मान्द्वेष्टि यं च वयं द्विष्म इति दक्षिणतः पदो निगृह्णीयाद्यदि सदृशेन । अभिभूरस्यभ्यहं तं भूयासं योऽस्मान्द्वेष्टि यं च वयं द्विष्म इति प्रपदेन यदि श्रेयसा २
+2. with nimr̥do'si nyahaṁ tam... he should press (the ground) with the heel of the right foot in case he vies with an inferior enemy; with prabhūrasi prāhaṁ tamabhibhūyāsam... if with an equal (enemy); and with abhibhūrasyabhyahaṁ tam bhūyāsam... if with a superior (enemy).[^1]  
+
+[^1]: Cf. MS I.5.11; KS VII.9. 

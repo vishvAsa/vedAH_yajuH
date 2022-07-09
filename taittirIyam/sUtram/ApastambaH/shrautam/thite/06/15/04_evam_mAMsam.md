@@ -2,4 +2,4 @@
 title = "04 एवम् मांसम्"
 
 +++
-एवं मांसम् ४
+4. (He cooks) the flesh in the same manner.

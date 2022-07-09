@@ -2,4 +2,4 @@
 title = "06 वृष्टिरसि वृश्च मे"
 
 +++
-वृष्टिरसि वृश्च मे पाप्मानमृतात्सत्यमुपागामप्सु श्रद्धेत्यप आचम्य यजमानोऽन्तर्वेदि मार्जयतेऽन्नादाः स्थान्नादो भूयासं यशः स्थ यशस्वी भूयासं श्रद्धा स्थ श्रद्धिषीयेति ६
+6. With vr̥ṣṭirasi vr̥śca me pāpmānam... having sipped water, the sacrificer cleanses himself within the altar with annādāḥ sthānnādo bhūyāsam...

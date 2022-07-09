@@ -2,4 +2,9 @@
 title = "05 अग्नीषोमाविमं सु म"
 
 +++
-अग्नीषोमाविमं सु म इति सप्तम्या पूर्वपक्षे । ऐन्द्राग्न्या सप्तम्यापरपक्षे ५
+5. In the first fortnight with agnīṣomāvimaṁ su me...[^1] as the seven verse. In the second fortnight with a verse referring to Indra and Agni.  
+
+
+[^1]: TS II.3.14.1.  
+
+[^2]: Namely TS I.5.5.e.

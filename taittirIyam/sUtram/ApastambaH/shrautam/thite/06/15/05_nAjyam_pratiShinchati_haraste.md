@@ -2,4 +2,4 @@
 title = "05 नाज्यम् प्रतिषिञ्चति हरस्ते"
 
 +++
-नाज्यं प्रतिषिञ्चति हरस्ते मा विनैषमिति । द्वे दर्भाग्रे प्रत्यस्यत्येकं वा ५
+5. He does not pour water on ghee. With haraste mā vinaiṣam... he throws two upper parts of Darbha-grass-blades or one (upper part...) in it.

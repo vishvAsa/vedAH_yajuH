@@ -2,4 +2,4 @@
 title = "02 प्रतिषेकं यवागूं श्रपयति"
 
 +++
-प्रतिषेकं यवागूं श्रपयति २
+2. He cooks the rice-gruel pouring water in it again and again.

@@ -2,4 +2,7 @@
 title = "08 अग्न आयूंषि पवस"
 
 +++
-अग्न आयूंषि पवस इति षड्भिः संवत्सरेसंवत्सरे सदा वा ८
+8. Either once in every year or always (he should stand near the Āhvanīya praising it with) six verses beginning with agna āyūṁṣi pavase.[^1]
+
+
+[^1]: TS I.5.5.g.

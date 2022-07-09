@@ -2,4 +2,6 @@
 title = "09 ऊर्जा वः पश्याम्यूर्जा"
 
 +++
-ऊर्जा वः पश्याम्यूर्जा मा पश्यतेति गृहान्प्रेक्षते पशून्वा ९
+9. With urjā vah paśyāmyurjā mā paśyata...[^1] he looks at the house or at the cattle.  
+
+[^1]: TS I.5.6.k-l.  
