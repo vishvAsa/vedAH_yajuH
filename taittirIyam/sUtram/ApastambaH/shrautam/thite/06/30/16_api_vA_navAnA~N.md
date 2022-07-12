@@ -2,4 +2,6 @@
 title = "16 अपि वा नवानाङ्"
 
 +++
-अपि वा नवानां गार्हपत्ये स्थालीपाकं श्रपयित्वाहवनीये जुहुयादाग्रयणदेवताभ्यः स्विष्टकृच्चतुर्थाभ्यः १६
+16. Or having cooked a Sthālipāka (cooked pap-vessel) out of new (grains) one should offer that pap to the deities of the Āgrayaṇa[^1] with Agni Sviṣṭakr̥t as the fourth.  
+
+[^1]: viz. Indrāgni, Viśve devāḥ, Dyāvāpr̥thivī see VI.29.10. 

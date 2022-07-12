@@ -2,4 +2,4 @@
 title = "13 अरण्योर्वोपावरोह्य मन्थेत्"
 
 +++
-अरण्योर्वोपावरोह्य मन्थेत् १३
+13. Or having caused the fire descend upon the fire-sticks, he should churn it out.

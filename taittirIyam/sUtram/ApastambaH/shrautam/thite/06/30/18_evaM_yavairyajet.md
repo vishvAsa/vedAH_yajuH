@@ -2,4 +2,4 @@
 title = "18 एवं यवैर्यजेत्"
 
 +++
-एवं यवैर्यजेत् १८
+18. In the same manner one should offer the barley-grains. 

@@ -2,4 +2,4 @@
 title = "02 अन्नन् नो बुÞयाजूगुपस्तन्नः"
 
 +++
-अन्नं नो बुÞयाजूगुपस्तन्नः पुनर्देहीत्यन्वाहार्यपचनमभिप्राण्यान्तराग्नी तिष्ठञ्जपति यथा प्रवत्स्यदुपस्थाने २
+2. Having breathed out over the Dakṣiṇāgni with annaṁ no budhnyājugupaḥ... standing between the two fires viz. Āhavanīya and Gārhapatya he mutters in the same manner as he did at the time of standing near the fires praising them when he was about to stay away.  

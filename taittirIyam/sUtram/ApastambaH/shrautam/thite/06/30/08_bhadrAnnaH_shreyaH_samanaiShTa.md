@@ -2,4 +2,6 @@
 title = "08 भद्रान्नः श्रेयः समनैष्ट"
 
 +++
-भद्रान्नः श्रेयः समनैष्ट देवा इति यजमानभागं प्राश्नाति ८
+8. With bhadrānnaḥ śreyaḥ samanaiṣṭa devāḥ...[^1] the sacrificer eats his portion.  
+
+[^1]: TB V.7.2.h.  

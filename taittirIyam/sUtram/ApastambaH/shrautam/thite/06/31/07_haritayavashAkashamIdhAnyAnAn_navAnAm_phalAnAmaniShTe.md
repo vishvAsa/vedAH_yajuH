@@ -2,4 +2,6 @@
 title = "07 हरितयवशाकशमीधान्यानान् नवानाम् फलानामनिष्टे"
 
 +++
-हरितयवशाकशमीधान्यानां नवानां फलानामनिष्टे ऽपि प्राश्ने याथाकामी ७
+7. One is free to eat even without offering the new fruits (i.e. products) of green barley, new vegetables, and Śami-corns.  
+
+[^1]: Hulsenfrūchte (Caland). 

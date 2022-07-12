@@ -2,4 +2,6 @@
 title = "03 आग्नावैष्णवमेकादशकपालन् निर्वपति"
 
 +++
-आग्नावैष्णवमेकादशकपालं निर्वपति ३
+3. (The Adhvaryu) takes out the material for the (sacrificial bread) on eleven-potsherds to Agni-and-Viṣṇu.[^1]  
+
+[^1]: Cp. the similar bread in a Soma-sacrifice. X.4.2
