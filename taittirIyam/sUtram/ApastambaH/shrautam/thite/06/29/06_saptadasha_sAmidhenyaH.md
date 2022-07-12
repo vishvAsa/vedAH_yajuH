@@ -2,4 +2,4 @@
 title = "06 सप्तदश सामिधेन्यः"
 
 +++
-सप्तदश सामिधेन्यः ६
+6. (There should be) seventeen enkindling verses. 

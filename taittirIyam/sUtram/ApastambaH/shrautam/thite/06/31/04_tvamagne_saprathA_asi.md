@@ -2,4 +2,12 @@
 title = "04 त्वमग्ने सप्रथा असि"
 
 +++
-त्वमग्ने सप्रथा असि जुष्टो होता वरेण्यः । त्वया यज्ञं वितन्वते । सोम यास्ते मयोभुव इति सद्वन्तौ । प्रेद्धो अग्न इमो अग्न इति विराजौ ४
+4. The verses tvamagne saprathā asi...[^1] and soma yāste mayobhuvaḥ...[^2] are the verses containing the words sad. The verses preddho agne...[^3] and imo agne...[^4] are the verses in Virāj-metre.  
+
+[^1]: TB II.4.1.6.  
+
+[^2]: TS IV.1.11.b.  
+
+[^3]: TS IV.6.5.k.  
+
+[^4]: TS IV.3.13.v.  

@@ -2,4 +2,6 @@
 title = "17 अपि वा नवानाञ्"
 
 +++
-अपि वा नवानां चतुःशरावमोदनं पक्त्वा चतुरो ब्राह्मणान्भोजयेत् १७
+17. Or having cooked pap out of four Śarāvas (plates) one should feed the Brāhmaṇas by means of it.[^1]  
+
+[^1]: Cf. SB II.4.3.13. 

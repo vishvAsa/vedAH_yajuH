@@ -2,4 +2,4 @@
 title = "10 अपि वा यजमान"
 
 +++
-अपि वा यजमान एवात्मन्समारोपयते १०
+10. Or the sacrificer himself causes (the fires) to mount upon himself. 

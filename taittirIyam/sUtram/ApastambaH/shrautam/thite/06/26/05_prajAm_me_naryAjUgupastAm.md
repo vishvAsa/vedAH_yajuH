@@ -2,4 +2,7 @@
 title = "05 प्रजाम् मे नर्याजूगुपस्ताम्"
 
 +++
-प्रजां मे नर्याजूगुपस्तां मे पुनर्देहीति गार्हपत्यमभ्यपान्यान्नं मे बुÞयाजूगुपस्तन्मे पुनर्देहीत्यन्वाहार्यपचनमभ्यपान्य पशून्मे शंस्याजूगुपस्तान्मे पुनर्देहीत्याहवनीयमभ्यपान्य पूर्ववद्विराट्क्रमैरुपतिष्ठते । अजूगुप इति मन्त्रं सन्नमति ५
+5. With prajām me naryājūgupah... having breathed in over the Gārhapatya, with annaṁ me buddhnyājūgupaḥ... having breathed in over the Dakṣiṇa(-fire), with paśūn me Śaṁsyājugupaḥ... having breathed in over the Āhavanīya, he stands (near the Āhavanīya), with (the formulae called) Virāṭkrama as described earlier.[^1] He modifies the formula with the word ajūgupaḥ (instead of the word gopāya).  
+
+
+[^1]: See V.18.2.

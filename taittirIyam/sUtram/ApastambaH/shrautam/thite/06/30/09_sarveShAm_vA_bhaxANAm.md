@@ -2,4 +2,4 @@
 title = "09 सर्वेषाम् वा भक्षाणाम्"
 
 +++
-सर्वेषाम् वा भक्षाणां मन्त्रवतां प्रत्याम्नायः स्यात् ९
+9. Or rather this verse may be a substitute for the formulae in all the acts of eating accompanied with a formula. 

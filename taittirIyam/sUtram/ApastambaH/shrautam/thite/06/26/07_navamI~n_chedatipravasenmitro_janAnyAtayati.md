@@ -2,4 +2,10 @@
 title = "07 नवमीञ् चेदतिप्रवसेन्मित्रो जनान्यातयति"
 
 +++
-नवमीं चेदतिप्रवसेन्मित्रो जनान्यातयति प्रजानन्निति मैत्र्योपस्थाय मनो ज्योतिर्जुषतामित्याहुतिं जुहुयात् ७
+7. If (the sacrificer) stays away (from his house, than nine (nights), then (the Adhvaryu) having stood Āhavanīya-fire) and praised it with the verse connected with the god Mitra, beginning with mitro janān yātayati...[^1] should offer a libation of ghee with mano jyotir juṣatām...[^2]   
+
+
+[^1]: TB III.4.11.9.  
+
+
+[^2]: TS 1.5.10.f.  

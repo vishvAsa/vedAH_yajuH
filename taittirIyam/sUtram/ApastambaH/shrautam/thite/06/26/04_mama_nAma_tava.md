@@ -2,4 +2,6 @@
 title = "04 मम नाम तव"
 
 +++
-मम नाम तव च जातवेद इति चतसृभिराहवनीयम् ४
+4. With the four verses beginning with mama nāma tava ca jātavedaḥ...[^1] (he stands near) the Āhavanīya (praising it).  
+
+[^1]: TS I.5.10.b-e.  

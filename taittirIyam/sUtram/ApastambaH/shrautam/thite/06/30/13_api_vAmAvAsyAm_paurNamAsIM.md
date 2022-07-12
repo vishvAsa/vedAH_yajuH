@@ -2,4 +2,4 @@
 title = "13 अपि वामावास्याम् पौर्णमासीं"
 
 +++
-अपि वामावास्यां पौर्णमासीं वा नवैर्यजेत् १३
+13. Or he may perform the New-moon-sacrifice or Full moon-sacrifice by means of the new (grains). 
