@@ -2,4 +2,7 @@
 title = "06 यावदुत्तममङ्गुलिकाण्डन् तावदूर्ध्वञ् चषालाद्यूपस्यातिरिक्तन्"
 
 +++
-यावदुत्तममङ्गुलिकाण्डं तावदूर्ध्वं चषालाद्यूपस्यातिरिक्तं द्व्यङ्गुलं त्र्यङ्गुलं चतुरङ्गुलं वा ६
+6. As much as the last part of the finger[^1] should be kept additionally over the Caṣāla from the sacrificial post or it may be two fingers or three fingers or four fingers (in length).  
+
+
+[^1]: Cp. KS XXVI.4; cp. MS III.9.4.

@@ -2,4 +2,4 @@
 title = "09 अरत्निर्भिर्वा चतुर्भिः पश्चात्"
 
 +++
-अरत्निर्भिर्वा चतुर्भिः पश्चात् षड्भिः प्राची त्रिभिः पुरस्तात् ९
+9. Or (the altar) should be six cubits in length from the east to the west, four cubits broad towards the west, and three cubits broad towards the east.

@@ -2,4 +2,11 @@
 title = "14 देवो वां सविता"
 
 +++
-देवो वां सविता मध्वानक्त्वित्याज्यस्थाल्या बिलेऽङ्क्त्वा घृतेनाक्ते वृषणं दधाथामित्युभे अभिमन्त्र्यायुरसीति समवधाय १४
+14. With devo vāṁ savitā madhvānaktu having anointed ghee (to the lower and upper churning sticks, holding them) over the cavity of the ghee-pot, with ghr̥tenākte vr̥ṣanaṁ dadhātham...[^1] having addressed them both, with āyurasi[^2] having placed the upper churning stick over the lower churning stick,  
+
+
+[^1]: TSI.3.7.1.   
+
+[^2]: TS I.3.7.k.  
+
+[^3]: The Sentence is incomplete. See the next Sūtra.

@@ -2,4 +2,10 @@
 title = "01 अग्नेः पुरीषमसीत्युत्तरत उपयमनीर्न्युप्य"
 
 +++
-अग्नेः पुरीषमसीत्युत्तरत उपयमनीर्न्युप्य मनुष्वत्त्वा निधीमहि मनुष्वत्समिधीमहि । अग्ने मनुष्वदङ्गिरो देवान्देवायते यजेत्युपसमिध्य द्वादशगृहीतेन स्रुचं पूरयित्वा सप्त ते अग्ने समिधः सप्त जिह्वा इति सप्तवत्या पूर्णाहुतिं जुहोति १
+1. with agneḥ purīṣamasi...[^1] having thrown the supporting sand towards the north of the fire, with manuṣvattvā nidhīmahi...[^2] having added fuel to the fire, having filled the Juhū(-ladle) with twelve times scooped ghee, (the Adhvaryu) offers a full-libation (of the ghee) with a verse containing the word sapta (seven) viz. sapta te agne samidhaḥ[^3].  
+
+[^1]: TS I.2.12.3b.  
+
+[^2]: TB III.11.6.3; KS II.9.  
+
+[^3]: TS I.5.3.h; cp. V.18.1  

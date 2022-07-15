@@ -2,4 +2,12 @@
 title = "03 ऐन्द्रमसीति चषालमक्त्वा सुपिप्पलाभ्यस्त्वौषधीभ्य"
 
 +++
-ऐन्द्रमसीति चषालमक्त्वा सुपिप्पलाभ्यस्त्वौषधीभ्य इति प्रतिमुच्य देवस्त्वा सविता मध्वानक्त्विति स्रुवेण सन्ततमविच्छिन्दन्नग्निष्ठामश्रिमनक्त्योपरात् ३
+3. With aindramasi[^1] having anointed the Caṣāla (top-cap), With supippalābhyastvauṣadhībhyaḥ[^2] having fixed it on the post With devastvā savitā madhvānaktu[^3] (the Adhvaryu) continously (without break) anoints that side (of the sacrificial post which will) stand in front of the fire, by means of the spoon upto the Upara(-part).[^4]  
+
+[^1]: TS I.3.1.9.  
+
+[^2]: TS 1.3.6.g.  
+
+[^3]: TS 1.3.6.f.  
+
+[^4]: That part which remains under the ground when the post is fixed.  

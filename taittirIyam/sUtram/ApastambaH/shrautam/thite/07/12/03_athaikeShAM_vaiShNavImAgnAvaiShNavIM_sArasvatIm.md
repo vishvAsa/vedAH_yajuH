@@ -2,4 +2,4 @@
 title = "03 अथैकेषां वैष्णवीमाग्नावैष्णवीं सारस्वतीम्"
 
 +++
-अथैकेषां वैष्णवीमाग्नावैष्णवीं सारस्वतीं बार्हस्पत्यामिति च हुत्वा प्रयोजयेत् ३
+3. then according to some (ritualists) having offered four libations of ghee to Viṣṇu, Agni-and-Viṣṇu, Sarasvati, and to Br̥haspati (the Adhvaryu) may employ it.  

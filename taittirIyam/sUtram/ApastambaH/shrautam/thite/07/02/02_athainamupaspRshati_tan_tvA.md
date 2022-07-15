@@ -2,4 +2,6 @@
 title = "02 अथैनमुपस्पृशति तन् त्वा"
 
 +++
-अथैनमुपस्पृशति तं त्वा जुषे वैष्णवं देवयज्याया इति २
+2. Then (the Adhvaryu) touches it (the tree) with taṁ tvā juṣe...[^1]  
+
+[^1]: TS I.3.5.c.

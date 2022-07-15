@@ -2,4 +2,8 @@
 title = "09 अग्रेणावटम् प्राञ्चं यूपन्"
 
 +++
-अग्रेणावटं प्राञ्चं यूपं निधाय यत्ते शिक्वः परावधीत्तक्षा हस्तेन वास्या । आपस्तत्सर्वं जीवलाः शुन्धन्तु शुचयः शुचिमिति यूपं प्रक्षाल्याथैनं यवमतीभिः प्रोक्षति । पृथिव्यै त्वेति मूलमन्तरिक्षाय त्वेति मध्यं दिवे त्वेत्यग्रम् ९
+9. Having kept down the sacrificial post in front of the pit, with yatte parāvadhīt takṣā...[^1] having washed the sacrificial post, he sprinkles water containing barley-grains on it-with pr̥thivyai tvā[^2] (he sprinkles upon) the root(-part) of the post; with antarikṣāya tvā[^3]... the middle(-part of the post); with dive tvā[^4]... the top(-part of the post).  
+
+[^1]: CP. AV.  
+
+[^2-4]: TS I.3.6.a.  
