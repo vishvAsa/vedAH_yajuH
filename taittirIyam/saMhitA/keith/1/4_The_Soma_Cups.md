@@ -2,36 +2,11 @@
 title = "4 The Soma Cups"
 
 +++
-## 23
-### a
-Prosperity to-day, O Savitr, prosperity to-morrow,  
-Day by day prosperity mayst thou procure for us;  
-Through this prayer may be won the prosperity  
-Of many a prosperous dwelling, O god.
-### b
-Thou art taken with a foundation; to the god Savitr thee!
-## 24
-### a
-O Savitr with unfailing guardians,  
-Propitious, do thou to-day guard our house;  
-Golden-tongued do thou protect us for new prosperity;  
-May no plotter of evil overpower us.
-### b
-Thou art taken with a support; to the god Savity thee
-## 25
-### a
-To help us I summon  
-The golden-handed Savitr  
-He as a god knoweth the place.
-### b
-Thou art taken with a support; to the god Savitr thee!
+
 ## 26
 ### a
-Thou givest good protection, and art well established.
-### b
-Homage to the great bull!
 ### c
-This is thy birthplace; to the All-gods thee!
+
 
 ## 27
 ### a
