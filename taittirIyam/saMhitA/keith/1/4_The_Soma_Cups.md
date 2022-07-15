@@ -2,28 +2,12 @@
 title = "4 The Soma Cups"
 
 +++
-## 21
-### a
-Great is Indra, manfully controlling men,  
-Unfailing in strength, of double force;  
-Towards us for strength doth he wax;  
-Broad and wide hath he been adorned by the offerers.
-### b
-Thou art taken with a foundation; to Mahendra thee! This is thy birthplace; to Mahendra thee!
 ## 22
 
 ### a
-Never art thou barren, O Indra,  
-Never dost thou fail thy worshipper;  
-Now more and more is thy divine gift increased,  
-O bountiful one.
 ### b
-Thou art taken with a support; to the Adityas thee!
+
 ### c
-At no time art thou heedless,  
-But dost guard the two generations;  
-The pressing is thy strength, O fourth Aditya  
-The ambrosia is ready in the sky.
 ### d
 The sacrificer seeketh the favour of the gods;  
 Be ye kindly, O Adityas;  

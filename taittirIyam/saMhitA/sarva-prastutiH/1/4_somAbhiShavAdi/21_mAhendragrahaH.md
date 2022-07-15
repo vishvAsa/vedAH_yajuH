@@ -11,44 +11,24 @@ _______
 1बृहत्पृष्ठपक्षे माहेन्द्रं गृह्णाति - महाꣳइन्द्रो नृवदिति चतुष्पदया त्रिष्टुभा ॥
 </details>
 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/019/01_mahA_N_indro.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/019/01_mahA_N_indro.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-म॒हाꣳ इन्द्रो॑ नृ॒वदा च॑र्षणि॒प्रा उ॒त द्वि॒बर्हा॑ अमि॒नस्सहो॑भिः ।  
-अ॒स्म॒द्रिय॑ग् वावृधे वी॒र्या॑यो॒रुᳶ पृ॒थुस्सुकृ॑तᳵ क॒र्तृभि॑र्भूत् ॥
+
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+2 ग्रहणसादने पूर्ववदेव ॥
+
 </details>
 
-<details><summary>मूलम्</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-म॒हाꣳ इन्द्रो॑ नृ॒वदा च॑र्षणि॒प्रा उ॒त द्वि॒बर्हा॑ अमि॒नस्सहो॑भिः ।  
-अ॒स्म॒द्रिय॑ग्वावृधे वी॒र्या॑यो॒रुᳶ पृ॒थुस्सुकृ॑तᳵ क॒र्तृभि॑र्भूत् ॥
-</details>
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा म॒रुत्व॑त ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥  [22]
+उ॒प॒या॒मगृ॑हीतोऽसि महे॒न्द्राय॑ त्वै॒ष ते॒ योनि॑र्महे॒न्द्राय॑ त्वा ॥ [22]
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-उ॒प॒या॒मगृ॑हीतो॒ऽसि ...
-इन्द्रा॑य त्वा म॒रुत्व॑ते ।
-ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥  
-</details>
-
-<details><summary>मूलम्</summary>
-
-उ॒प॒या॒मगृ॑हीतो॒ऽसि ...
-इन्द्रा॑य त्वा म॒रुत्व॑ते ।
-ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥  
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-2 ग्रहणसादने पूर्ववदेव ॥
-
-  -  [आग्रयणस्थाल्याः ग्रहस्य संस्रावमपनयति - एष ते योनिरिति ॥ हे उपांशुसंस्राव एष आग्रयणस्थाल्याख्यस्ते तव योनिः स्थानम्, यत्र निहितस्त्वं यागसिद्ध्यै सम्पत्स्यसे । अतस्तं प्रविशेति शेषः ॥]
-
-इति चतुर्थे एकविंशोनुवाकः ॥
-</details>
