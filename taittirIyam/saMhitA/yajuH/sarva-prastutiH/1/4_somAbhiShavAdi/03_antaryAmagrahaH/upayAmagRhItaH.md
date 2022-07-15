@@ -10,7 +10,7 @@ unicode_script = "devanagari"
 
 <details><summary>Keith</summary>
 
-Thou art taken with a support.
+Thou art taken with a support/ foundation.
 </details>
 
 
