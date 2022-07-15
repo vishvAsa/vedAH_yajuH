@@ -2,4 +2,4 @@
 title = "05 यत्र संहिता रात्रीर्वसेत्पञ्च"
 
 +++
-यत्र संहिता रात्रीर्वसेत्पञ्च सप्त नव दश वा तत्प्रयास्युञ्जुहुयात् ५
+5. Going away to that place where he may stay continuously for five, seven, nine or ten nights the sacrificer should offer the libation to Vāstoṣpati.

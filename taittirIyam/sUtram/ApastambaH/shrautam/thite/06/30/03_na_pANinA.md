@@ -2,4 +2,4 @@
 title = "03 न पाणिना"
 
 +++
-न पाणिना ३
+3. Not by means of hand. 

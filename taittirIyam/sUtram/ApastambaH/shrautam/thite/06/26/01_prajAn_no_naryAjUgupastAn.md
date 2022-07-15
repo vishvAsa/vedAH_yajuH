@@ -2,4 +2,7 @@
 title = "01 प्रजान् नो नर्याजूगुपस्तान्"
 
 +++
-प्रजां नो नर्याजूगुपस्तां नः पुनर्देहीति गार्हपत्यमभिप्राण्याग्ने गृहपते सुगृहपतिरहं त्वया गृहपतिना भूयासं सुगृहपतिर्मया त्वं गृहपतिना भूयाः । शतं हिमा द्वा यू राधांसीत्सम्पृञ्चानावसम्पृञ्चानौ तन्व इति गार्हपत्यम् १
+1. Having breathed out over the Gārhapatya with prajāṁ no naryājūgupaḥ .... the sacrificer stands near it praising with agne gr̥hapate sugr̥hapatiḥ...[^1]  
+
+
+[^1]: Cp. TS I.5.6.q. or I.6.6.n. with addition from ŚB III.7.4.10-11; cp. MS I.4.2.  

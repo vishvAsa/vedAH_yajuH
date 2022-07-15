@@ -2,4 +2,6 @@
 title = "02 नमो वोऽस्तु प्रवत्स्यामि"
 
 +++
-नमो वोऽस्तु प्रवत्स्यामि नमो वोऽस्तु प्रावात्स्यमिति बृह्वृचाः २
+2. According to the followers of the R̥gveda, (one should use the formula namo vo'stu pravatsyāmi[^1] before going on journey and the formula namo vo'stu prāvātsyam[^2] after having returned.   
+
+[^1-2]: These formulae are not found in any text belonging to the R̥V.  

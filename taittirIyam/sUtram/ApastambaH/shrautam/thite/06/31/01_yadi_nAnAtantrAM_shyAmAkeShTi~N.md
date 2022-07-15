@@ -2,4 +2,8 @@
 title = "01 यदि नानातन्त्रां श्यामाकेष्टिङ्"
 
 +++
-यदि नानातन्त्रां श्यामाकेष्टिं कुर्वीत श्यामाकानुद्धर्तवा इति सम्प्रेष्यति १
+1. If (the sacrificer) may perform an offering of Śyāmāka -(grains)[^1] in a separate procedure, he should order “to take out the Syāmāka-grains".[^2]   
+
+[^1]: In rainy season.  
+
+[^2]: Cf. KB IV.12. 
