@@ -2,20 +2,6 @@
 title = "4 The Soma Cups"
 
 +++
-## 22
-
-### a
-### b
-
-### c
-### d
-The sacrificer seeketh the favour of the gods;  
-Be ye kindly, O Adityas;  
-May thy lovingkindness come hither,  
-That it may the more free us from affliction.
-### e
-O bright Aditya, this is thy Soma drink,  
-Delight in it, have gladness in it; may we that gladden thee have gladness; With the rain of the sky I mix thee.
 ## 23
 ### a
 Prosperity to-day, O Savitr, prosperity to-morrow,  
