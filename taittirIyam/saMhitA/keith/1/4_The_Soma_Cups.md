@@ -2,22 +2,6 @@
 title = "4 The Soma Cups"
 
 +++
-## 19
-### a
-Indra with the Maruts, the bull, for gladness,  
-Drink the Soma, for joy, to thy content;  
-Pour within thy belly the wave of sweetness;  
-Thou art from of old the king of the pressed drinks.
-
-## 20
-### a
-Great is Indra who through his might  
-Is like Parjanya with the rain;  
-He waxeth with the praises of Vatsa.
-### b
-Thou art taken with a foundation; to Mahendra thee! This is thy  
-birthplace; to Mahendra thee!
-
 ## 21
 ### a
 Great is Indra, manfully controlling men,  
