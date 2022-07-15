@@ -3,15 +3,8 @@ title = "4 The Soma Cups"
 
 +++
 
-## 26
-### a
-### c
-
-
 ## 27
 ### a
-Of thee, O drop, pressed by Brhaspati, and possessing power, I draw  
-the cup connected with the wives.
 ### b
 O Agni, with the wives, in unison with the god Tvastr, drink the Soma, hail.
 ## 28
