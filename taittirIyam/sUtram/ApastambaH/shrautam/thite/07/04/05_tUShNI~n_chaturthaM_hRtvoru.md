@@ -2,4 +2,16 @@
 title = "05 तूष्णीञ् चतुर्थं हृत्वोरु"
 
 +++
-तूष्णीं चतुर्थं हृत्वोरु प्रथस्वोरु ते यज्ञपतिः प्रथतामिति प्रथयित्वा ध्रुवासीति शम्यया संहत्य देवेभ्यः कल्पस्वेत्यभिमन्त्र्य देवेभ्यः शुन्धस्वेत्यद्भिरवोक्ष्य देवेभ्यः शुम्भस्वेति सिकताभिरवकीर्य प्रोक्षणीशेषमुत्तरत उत्तरवेद्यै निनीयापो रिप्रं निर्वहतेति स्फ्येनोदीचीमेकस्फ्यां निःसार्य विभ्राड्बृहत्पिबतु सोम्यं मध्वायुर्दधद्यज्ञपतावविह्रुतम् । वातजूतो यो अभिरक्षति त्मना प्रजाः पिपर्ति बहुधा विराजतीत्युत्तरवेद्या अन्तान्कल्पयति ५
+5. Having carried the soil silently for the fourth time with uru prathasva...[^1] having spread it, with dhruvāsi...[^2] having pressed it by means of the yoke-pin, with devebhyaḥ kalpasva[^3] having addressed it, with devebhyaḥ śundhasva having sprinkled water over it, with devebhyaḥ śumbhasva having scattered sand over it, having poured the remaining sprinkling-water towards the north of the Uttaravedi, with apo ripraṁ nirvahata[^5] having caused that water to drain through a single line (drawn from south) to the north by means of the wooden sword, with vibhrāḍ br̥hat pibatu.[^6] fixes the ends of the Uttaravedi.  
+
+[^1]: TS I.2.12.f.  
+
+[^2]: TS I.2.12.g.  
+
+[^3]: KS II.9.  
+
+[^4]: TS I.2.12.h.  
+
+[^5]: KS XXV.6; MS III.8.5.
+
+[^6]: KS XXV.6.

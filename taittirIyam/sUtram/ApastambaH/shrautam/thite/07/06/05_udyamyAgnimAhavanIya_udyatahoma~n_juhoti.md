@@ -2,4 +2,7 @@
 title = "05 उद्यम्याग्निमाहवनीय उद्यतहोमञ् जुहोति"
 
 +++
-उद्यम्याग्निमाहवनीय उद्यतहोमं जुहोति यत्ते पावक चकृमा कच्चिदागः पूर्वो यत्सन्नपरो भवासि । घृतेन त्वं तन्वं वर्धयस्व मा मा हिंसीरधिगतं पुरस्तात्स्वाहेति ५
+5. Having lifted the fire (i.e. burning fuel-stick), he offers a libation (of ghee) in the Āhavanīya for the lifted up (fire) with yat te pāvaka cakr̥mā......[^1]  
+
+
+[^1]: This verse is not found in any Saṁhitā-text. 

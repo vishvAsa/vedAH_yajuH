@@ -2,4 +2,7 @@
 title = "07 दिवमग्रेण मा लेखीरिति"
 
 +++
-दिवमग्रेण मा लेखीरिति प्राञ्चं पातयत्युदञ्चं प्राञ्चमुदञ्चं वा ७
+7. With divamagreṇa mā lekhīḥ[^1] (the Adhvaryu) causes the tree to fall towards the east or towards the north or towards the north-east.  
+
+
+[^1]: TS I.3.5.g.

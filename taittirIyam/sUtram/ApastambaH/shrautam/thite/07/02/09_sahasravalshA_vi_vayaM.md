@@ -2,4 +2,8 @@
 title = "09 सहस्रवल्शा वि वयं"
 
 +++
-सहस्रवल्शा वि वयं रुहेमेत्यात्मानं प्रत्यभिमृश्य यं त्वायं स्वधितिरित्यन्वग्रमद्गांश्छिनत्ति ९
+9. With sahasravalśā vi vayaṁ ruhema...[^1] having touched himself, with yaṁ tvāyaṁ svadhitiḥ...[^2] he cuts the branches (of the tree from the bottom) towards the top.  
+
+[^1]: TS I.3.5.h.  
+
+[^2]: TS I.3.5.i.

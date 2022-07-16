@@ -2,4 +2,4 @@
 title = "01 अग्नये मथ्यमानायानुब्रूहीति सम्प्रेष्यति"
 
 +++
-अग्नये मथ्यमानायानुब्रूहीति सम्प्रेष्यति । मथ्यमानायानुब्रूहीति वा १
+1. The Adhvaryu orders (the Hotr̥) “Do you recite for the fire being churned out” or “For (fire) being churned out".
