@@ -6,11 +6,9 @@ title = "4 The Soma Cups"
 ## 27
 ### a
 ### b
-O Agni, with the wives, in unison with the god Tvastr, drink the Soma, hail.
 ## 28
 
 ### a
-Thou art a bay, yoker of bays, mounter on the bays, bearer of the bolt, lover of Prśni; to thee, O god Soma, for whom the formula of sacrifice is uttered, the song sung, the hymn recited, I draw the cup connected with the bays.
 ### b
 Ye two are bays; ye are the grains for the bays, mixed with Soma.
 ### c
