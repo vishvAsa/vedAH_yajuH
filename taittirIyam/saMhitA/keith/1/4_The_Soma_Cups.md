@@ -3,24 +3,6 @@ title = "4 The Soma Cups"
 
 +++
 
-## 27
-### a
-### b
-## 28
-
-### a
-### b
-Ye two are bays; ye are the grains for the bays, mixed with Soma.
-### c
-To Indra hail!
-## 29
-### a
-O Agni, thou purifiest life;  
-Do thou give food and strength to us;  
-Far away drive ill fortune.
-### b
-Thou art taken with a support; to Agni the radiant thee! This is  
-thy birthplace; to Agni the radiant thee!
 ## 30
 ### a
 Arising in might,  
