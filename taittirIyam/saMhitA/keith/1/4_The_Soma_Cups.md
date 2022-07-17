@@ -3,22 +3,10 @@ title = "4 The Soma Cups"
 
 +++
 
-## 30
-### a
-Arising in might,  
-Thou didst move thy jaws, O Indra,  
-When thou hadst drunk the cup-pressed Soma.
-### b
-Thou art taken with a support; to Indra the mighty thee! This  
-is thy birthplace; to Indra the mighty thee!
 ## 31
 ### a
-Overcoming, seen of all,  
-Light-making art thou, Surya;  
-Thou dost illumine all the firmament.
 ### b
-Thou art taken with a support; to Surya the radiant thee! This  
-is thy birthplace; to Surya the radiant thee!
+
 ## 32
 ### a
 Swell, O sweetest Soma,  
