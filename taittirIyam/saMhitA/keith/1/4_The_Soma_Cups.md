@@ -3,8 +3,7 @@ title = "4 The Soma Cups"
 
 +++
 
-## 32
-### a
+
 ## 33
 ### a
 Departed are those mortals who in days gone by behold  
