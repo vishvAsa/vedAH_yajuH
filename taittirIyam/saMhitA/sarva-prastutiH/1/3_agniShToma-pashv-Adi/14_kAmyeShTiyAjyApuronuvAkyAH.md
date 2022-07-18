@@ -35,7 +35,7 @@ _______
 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/001/06_tvamagne_rudro.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/001/06_tvamagne_rudro.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/001/06_tvamagne_rudro.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -45,7 +45,7 @@ _______
 2तस्यैव याज्या - आ व इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/003/01_A_vo.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -94,7 +94,7 @@ _______
 4तत्रैव याज्या - साध्वीमिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/03_sAdhvImakardevavItiM_no.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/03_sAdhvImakardevavItiM_no.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/053/03_sAdhvImakardevavItiM_no.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -109,7 +109,7 @@ _______
 5'अग्नये क्षामवते पुरोडाशम् अष्टाकपालं निर्वपेत् सङ्ग्रामे संयत्ते' इत्यस्य परोनुवाक्या - अक्रन्ददिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/045/04_akrandadagniH_stanayanniva.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -121,7 +121,7 @@ _______
 6तेषु त्रिष्वपि याज्या - त्वे वसूनीति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/005/02_tve_vasUni.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/005/02_tve_vasUni.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/005/02_tve_vasUni.md"  newLevelForH1="5" includeTitle="false"> </div>
 
@@ -169,7 +169,7 @@ _______
 8तत्रैव याज्या - अश्यामेति त्रिष्टुप् । 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/005/07_ashyAma_taM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/005/07_ashyAma_taM.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/005/07_ashyAma_taM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -185,7 +185,7 @@ _______
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/01_shreShThaM_yaviShTha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/01_shreShThaM_yaviShTha.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/007/01_shreShThaM_yaviShTha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -195,7 +195,7 @@ _______
 10तत्रैव याज्या - स श्वितान  इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/006/02_sa_shvitAnastanyatU.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/006/02_sa_shvitAnastanyatU.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/006/02_sa_shvitAnastanyatU.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -305,7 +305,7 @@ _______
 </details>
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/01_divaspari_prathamaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/01_divaspari_prathamaM.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/045/01_divaspari_prathamaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
@@ -314,7 +314,7 @@ _______
 ## रुक्मवद्-यागः
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/04_shuchiH_pAvaka.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/04_shuchiH_pAvaka.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/007/04_shuchiH_pAvaka.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -327,7 +327,7 @@ _______
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/045/08_dRshAno_rukma.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -343,7 +343,7 @@ _______
 17अग्नये तेजस्वते पुरोडाशम् अष्टाकपालं निर्वपेत्तेजस्कामः' इत्यस्य पुरोनुवाक्या - आ यदिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/071/08_A_yadiShe.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/071/08_A_yadiShe.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/071/08_A_yadiShe.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -355,7 +355,7 @@ _______
 18तत्रैव याज्या - स तेजीयसेति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/019/03_sa_tejIyasA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/019/03_sa_tejIyasA.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/019/03_sa_tejIyasA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -371,7 +371,7 @@ _______
 </details>
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/023/01_agne_sahantamA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/023/01_agne_sahantamA.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/023/01_agne_sahantamA.md"  newLevelForH1="5" includeTitle="false"> </div>  
@@ -384,7 +384,7 @@ _______
 20तत्रैव याज्या - तमग्ने पृतनासहमित्यनुष्टुप् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/023/02_tamagne_pRtanAShahaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/023/02_tamagne_pRtanAShahaM.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/023/02_tamagne_pRtanAShahaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -398,7 +398,7 @@ _______
 21'अग्नयेन्नवते पुरोडाशम् अष्टाकपालं निर्वपेद् यः कामयेतान्नवान् स्याम्' इत्यस्य पुरोनुवाक्या - उक्षान्नायेति गायत्री ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/043/11_uxAnnAya_vashAnnAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/043/11_uxAnnAya_vashAnnAya.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/043/11_uxAnnAya_vashAnnAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -474,7 +474,7 @@ _______
 </details>
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/066/19_agna_AyUMShi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -484,7 +484,7 @@ _______
 24तत्रैव याज्या - अग्ने पवस्वेति गायत्री ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/066/21_agne_pavasva.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -498,7 +498,7 @@ _______
 </details>
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/026/01_agne_pAvaka.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/026/01_agne_pAvaka.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/026/01_agne_pAvaka.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -554,7 +554,7 @@ _______
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/21_agniH_shuchivratatamaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/21_agniH_shuchivratatamaH.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/044/21_agniH_shuchivratatamaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -566,7 +566,7 @@ _______
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/17_udagne_shuchayastava.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/17_udagne_shuchayastava.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/044/17_udagne_shuchayastava.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

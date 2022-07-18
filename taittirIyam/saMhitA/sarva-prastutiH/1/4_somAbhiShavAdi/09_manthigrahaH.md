@@ -16,7 +16,7 @@ _______
 तम्प्र॒त्नथा॑ पू॒र्वथा॑ वि॒श्वथे॒मथा᳚ ज्ये॒ष्ठता॑तिम्बर्हि॒षदꣳ॑ सुव॒र्विद॑म्प्र तीची॒नव्ँवृ॒जन॑न्दोहसे गि॒राऽऽशुञ्जय॑न्त॒मनु॒ यासु॒ वर्ध॑से 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/044/01_taM_pratnathA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/044/01_taM_pratnathA.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/044/01_taM_pratnathA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

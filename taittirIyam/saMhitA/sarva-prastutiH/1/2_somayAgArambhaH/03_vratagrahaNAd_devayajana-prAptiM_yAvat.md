@@ -151,7 +151,7 @@ ________
 </details>
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/011/01_tvamagne_vratapA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/011/01_tvamagne_vratapA.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/011/01_tvamagne_vratapA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

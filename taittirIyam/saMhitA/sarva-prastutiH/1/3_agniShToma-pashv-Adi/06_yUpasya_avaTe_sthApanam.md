@@ -248,7 +248,7 @@ Of the wide-stepping Visnu, the mighty!
 धामानि पुनर्विशेष्यन्ते - अत्राह अत्रैव । अहेत्यवधारणे । येष्वेव धामसु उरुगायस्य उरुभिर्महात्माभिर्गीयत इत्युरिगायः । गायतेः कर्मणि घञ्, थाथादिस्वरेणोत्तरपदान्तोदात्तत्वम् । भूरेः महतो महाबलस्य विष्णोः विश्वं व्याप्नुवतः । 'विशेः किच्च' इति नुप्रत्ययः, तत्र हि निदिति वर्तते । यस्त्वं महाबलो महात्मभिस्स्तूयमानो विश्वं व्याप्नुवन्नभूः 'विचक्रमाणस्त्रेधोरुगायः' इति मन्त्रप्रसिद्धः तस्य तव तत्तादृशविक्रमकृत् परममुत्तमं पदंम् तदप्येष्वेव धामसु अवभाति दीप्यते, तस्मात्तानि धामानि गन्तुमुश्म इति । एवं प्रत्यक्षकृतोयं मन्त्रः । द्वितीयस्तेशब्दोस्मिन्पक्षे युष्मदादेशः । यद्वा - परोक्षकृत एवायम् । ते ते इति वीप्सा । तानि तानि धामानि गन्तुमुश्मः । 'नित्यवीप्सयोः' इति शेप्रत्ययान्तस्य द्विर्व- चनम्, ' अनुदात्तं च` इति द्वितीयस्यानुदात्तत्वम् । स्पष्टमन्यत् ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/19_viShNoH_karmANi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/19_viShNoH_karmANi.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/19_viShNoH_karmANi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
@@ -260,7 +260,7 @@ _______
 </details>
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/20_tadviShNoH_paramaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/20_tadviShNoH_paramaM.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/20_tadviShNoH_paramaM.md"  newLevelForH1="5" includeTitle="false"> </div>
 

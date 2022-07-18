@@ -11,7 +11,7 @@ _______
 1सावित्रस्यैव ग्रहणविकल्पः पूर्वेण सह विकृत्यर्थः- अदब्धेभिरिति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/071/03_adabdhebhiH_savitaH.md"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/071/03_adabdhebhiH_savitaH.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/071/03_adabdhebhiH_savitaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

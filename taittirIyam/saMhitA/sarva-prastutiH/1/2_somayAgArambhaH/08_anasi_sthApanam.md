@@ -179,7 +179,7 @@ ________
 7सौर्यर्चा कृष्णाजिनं पुरस्तात्प्रत्यानह्यत्यूर्ध्वग्रीवम् - उदुत्यमिति गायत्र्या ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/01_udu_tyaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

@@ -10,7 +10,7 @@ _______
 1मैत्रावरुणं गृह्णाति - अयं वामिति गायत्र्या त्रिपदया ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/041/04_ayaM_vAM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/041/04_ayaM_vAM.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/041/04_ayaM_vAM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
