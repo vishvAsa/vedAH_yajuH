@@ -3,12 +3,6 @@ title = "4 The Soma Cups"
 
 +++
 
-## 35
-### a
-
-## 36
-### a
-Çitta with the sinew, Bhava with the liver, Rudra with the taniman, Paśupati with the thick heart, Agni with the heart, Rudra with the blood, Çarva with the kidneys, Mahadeva with the intestinal flesh, him that slayest most quickly with the entrails.
 ## 37
 ### a
 Mount thy car, O slayer of Vrtra;  
