@@ -3,7 +3,8 @@ title: सहस्र शीर्षा
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090_sahasra-shIrShA/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/090">
+
 <details open><summary><h2>०१२ सहस्रशीर्षा ...{Loading}...</h2></summary>
 
 

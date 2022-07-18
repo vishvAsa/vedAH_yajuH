@@ -3,38 +3,9 @@ title = "4 The Soma Cups"
 
 +++
 
-
-## 33
-### a
-## 34
-### a
-I place thee that hast light.
-### b
-I place thee that makest light.
-### c
-I place thee that findest light.
-### d
-I place thee that shinest.
-
-### e
-I place thee that burnest.
-### f
-I place thee that flashest.
-### g
-I place thee that art aflame.
-### h
-I place thee that blazest.
-### i
-I place thee that art immortal.
-### k
-I place thee that hast great light.
-### l
-I place thee that awakenest.
-### m
-I place thee that art awake.
 ## 35
 ### a
-To energy hail! To effort hail! To distraction hail! To attempt hail! To endeavour hail! To striving hail! To heat hail! To burning hail! To heating hail! To the hot hail! To the slaying of a Brahmin hail! To all hail!
+
 ## 36
 ### a
 Çitta with the sinew, Bhava with the liver, Rudra with the taniman, Paśupati with the thick heart, Agni with the heart, Rudra with the blood, Çarva with the kidneys, Mahadeva with the intestinal flesh, him that slayest most quickly with the entrails.
