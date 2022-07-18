@@ -2,4 +2,6 @@
 title = "07 त्रयोविंशतिदारुरिध्म आश्ववालः प्रस्तर"
 
 +++
-त्रयोविंशतिदारुरिध्म आश्ववालः प्रस्तर ऐक्षवो विधृती कार्ष्मर्यमयाः परिधयः ७
+7. The fuel consists of twenty-three woods; the Prastara of Āśvavāla(-grass); the Vidhr̥tis (separating grass-blades)[^1] of sugar-cane; the enclosing sticks of Kārṣmarya(-wood).  
+
+[^1]: See II.9.12.

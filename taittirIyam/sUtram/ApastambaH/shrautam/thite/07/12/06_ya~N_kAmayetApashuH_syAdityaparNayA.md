@@ -2,4 +2,6 @@
 title = "06 यङ् कामयेतापशुः स्यादित्यपर्णया"
 
 +++
-यं कामयेतापशुः स्यादित्यपर्णया तस्य शुष्काग्रयोपाकुर्यात् ६
+6. If he desires: "May the sacrificer be devoid of cattle, (the Adhvaryu) should dedicate (the animal) by means of a (branch) with dry top".[^1]  
+
+[^1]: KS XXVI. 7.

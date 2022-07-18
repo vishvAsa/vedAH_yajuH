@@ -2,4 +2,13 @@
 title = "07 ऊर्णावन्तम् प्रथमः सीद"
 
 +++
-ऊर्णावन्तं प्रथमः सीद योनिमिति होतुरभिज्ञायाग्ने बाधस्व विमृधो नुदस्वापामीवा अप रक्षांसि सेध । अस्मात्समुद्राद्बृहतो दिवो नोऽपां भूमानमुप नः सृजेह । यज्ञ प्रतितिष्ठ सुमतौ सुशेवा आ त्वा वसूनि पुरुधा विशन्तु । दीर्घमायुर्यजमानाय कृण्वन्नथामृतेन जरितारमङ्ग्धीह यज्ञः प्रत्यष्ठादिति सम्भारेषु प्रतिष्ठाप्य ७
+7. Having recognised that the Hotr̥ is reciting urṇāvantam prathamaḥ sīda...[^1] with agne bādhasva vi mr̥dhaḥ...[^2] and yajña prati tiṣṭha sumatau...[^3] and iha yajñaḥ pratyaṣṭhāt[^4] having placed (the burning fuel-stick) on the materials on the Uttaravedi,[^5]  
+
+
+[^1]: RV VI.15.16.  
+
+[^2-3]: TB II.5.8.11-12.  
+
+[^4]: Cp. KS
+
+[^5]: The sentence is incomplete. See the next Sūtra.

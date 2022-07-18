@@ -2,4 +2,6 @@
 title = "09 नैतस्य दध्नः संस्कारो"
 
 +++
-नैतस्य दध्नः संस्कारो विद्यत इत्यपरम् ९
+9. There is another (view) that there is no sanctification of this curds.[^1]  
+
+[^1]: Thus profane curds is to be used.

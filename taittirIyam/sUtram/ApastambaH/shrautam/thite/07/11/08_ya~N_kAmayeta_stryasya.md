@@ -2,4 +2,4 @@
 title = "08 यङ् कामयेत स्त्र्यस्य"
 
 +++
-यं कामयेत स्त्र्यस्य जायेतेत्युपान्ते तस्य व्यतिषज्य न प्रवेष्टयेत् ८
+8. In the case of (a sacrificer) about whom he desires, "May a female child be born to him", having tied (only) a knot, he should not intervene the two ends.

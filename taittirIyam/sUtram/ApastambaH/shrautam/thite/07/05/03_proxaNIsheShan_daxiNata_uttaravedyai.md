@@ -2,4 +2,6 @@
 title = "03 प्रोक्षणीशेषन् दक्षिणत उत्तरवेद्यै"
 
 +++
-प्रोक्षणीशेषं दक्षिणत उत्तरवेद्यै निनयेच्छुचा त्वार्पयामीति द्वेष्यं मनसा ध्यायन् ३
+3. With śucā tvārpayāmi...[^1] thinking about the enemy, he should pour the remaining sprinkling water to the south of the Uttaravedi.  
+
+[^1]: TS VI.2.7.5.
