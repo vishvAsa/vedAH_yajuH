@@ -833,139 +833,113 @@ VII.20]
 
 
 वषट्कृते हुत्वा प्रत्याक्रम्य शेषेण ध्रुवामभिघार्य पृषदाज्यमभिधारयत्यथ वपाम्। एतद्वा विपरीतम्॥५॥
-5. After the word vaṣat (has been uttered by the Hotr̥) having offered the (eleventh) Prayāja (fore-offering), having stepped back, having poured the remaining ghee in the Dhruvā, he pours that (remaining ghee) on the clotted ghee and then on the omentum;? or in the reverse order(: first on the omentum and then on the clotted ghee). 4
-1. At the end of the verse RV X. 110.11. 2. Cp.11.17.6. 3. Cf. TS VI.3.9.6.
-4. This order is prescribed by ŚB III.8.2.24.
+
 
 नोपभृतम्॥६॥
-6. He does not pour ghee in the Upabhst.'
-1. As he does in the normal basic paradigm see II.17.6.
+
 
 आज्यभागौ यजति॥७॥
-7. He offers the two Ājyabhāgas (ghee-portions)."
-1. As he does in the normal basic paradigm see II.18.1-8.331
+
 
 
 तौ न पशौ करोति। न सोम इत्येके॥८॥
-8. He does not offfer these two in the animal-sacrifice (performed independently); according to some (ritualists)' he does not offer (the Ajyabhāgas) in the (animal-sacrifice form ing part of a) Soma-sacrifice.
-___ 1. viz. followers of the Sukla Yajurveda. See $B I.6.3.19.
+
 
 
 स्वाहा देवेभ्य इति पूर्वं परिवयं हुत्वा जुह्वामुपस्तीर्य हिरण्यशकलमव धाय कृत्स्नां वपामवदाय हिरण्यशकलमुपरिष्टात्कृत्वाभिघारयति॥९॥
-9. With svāhā devebhyahi having offered the first peri omentum-libation, having made an under-layer (of ghee) in the Juhū, having kept a piece of gold on it, having taken the entire omentum and (kept it on the piece of gold), having kept another piece of gold on it, he pours ghee on it.
-1. TS III.1.4.0. 2. For the other peri-omentum-libation see VII.21.2. Cf. for these ___TS III.1.5.2.
-3. Cf. for this $B III.8.2.26; XI.7.4.4.
+
+
 
 एवं पञ्चावत्ता भवति॥१०॥
-10. In this way (the omentum) becomes five-portioned.
-1. See II.18.2. The five portions are as follows: 1. underlayer of
-ghee; 2. gold; 3. omentum; 4. gold; 5. upper layer of ghee. cf.
-SB XI.7.4.4.
+
 
 चतुरवत्तिनो ऽपि पञ्चावत्तैव स्यात्॥११॥
-11. Even for a (sacrificer for whom the other offerings are offered)1 in four portions, (the omentum) should be five portioned only.
-1. i.e. even for the sacrificers other than the those belonging to the
-family of Jamadagni also.
+
 ## 07.21
 
 
 इन्द्राग्निभ्यां छागस्य वपाया मेदसो ऽनुब्रहीन्द्राग्निभ्यां छागस्य वपाया मेदसः प्रेष्येति संप्रैषौ॥१॥
-1. The orders of Adhvaryu to the Maitrāvaruna at the time of offering of the omentum are: “Do you recite the invitaroy
-ith the offering) of
-rdar
-332
-verse for Indra-and-Agni (in connection with the offeri the fat, of the omentum of the he-goat”, and “Do von (the Hotr̥ to recite the offering-verse) for Indra-and-Aon connection with the offering) of the fat, of the omentum of he-goat”.
-1. The Maitrāvaruṇa then recites RV VI.60.3; see Āśvass III 2. 2. The Maitravaruṇa orders with the order mentioned in MS TV
-13.5. The Hotr̥ recites ķV VIII.93.1; see Āśvass III.7.13.
+
+
 
 जातवेदो वपया गच्छ देवानिति वषट्कृते हुत्वा प्रत्याक्रम्य देवेभ्यः स्वाहेत्युत्तरं परिवप्यं हुत्वा वपोद्धरणमभिघारयत्युत्तरतस्तिष्ठन्॥२॥
-2. After (the Hotr̥) has uttered vaṣaṭ (at the end of his verse), with jātavedo vapayā gaccha devān...' having offered (the omentum), having stepped back, with devebhyaḥ svāha' having offered the second peri-omentum-libation standing to the north, he pours ghee on that opening (on the body of the animal) from where the omentum was extracted. 4
-1. TS III.1.4.n. 2. TS III.1.4.0. 3. See VII.20.9.
-4. See VII.19.3.
+
+
 
 प्रतिप्रस्थाताहवनीये वपाश्रपणी प्रहरति स्वाहोर्ध्वनभसं मारुतं गच्छतमिति प्राची द्विशूलां प्रतीचीमेकशूलाम्। एतद्वा विपरीतम्॥३॥
-3. The Pratiprasthātṇ throws the omentum-roasting sticks in the Āhavanīya with svāhordhvanabhasaṁ mārutam gacchatam?—he throws the two-pronged (stick) with its point to the east;2 the one-pronged (stick) with its point to the west; or in the round about manner.
-1. TS 1.3.9.9. 2-3. Cf. TS VI.3.9.6; MS III. 10.1.
-4. See Māós 1.8.4.38.
+
 
 अथैने अध्वर्युः संस्त्रावेणाभिजुहोति॥४॥
-4. The Adhvaryu offers the remnant ghee (in the Juhu) upon both these (viz. the omentum-roasting-sticks).
+
+
 333
 
 
 अत्र यजमानो वरं ददात्यनड्वाहं तिस्रो वा धेनूस्तिस्रो वा दक्षिणाः।।५।।
-5. At this stage' the sacrificer gives a chosen gift to the priests: an ox, or three milch-cows, or three (other) cows as the gifts.
-1. ŚB XI.7.2.4 mentions this as the view of some ritualists to give
-gifts at this stage; but it does not support this view. समुत्क्रम्य सहपत्नीकाः पञ्चभिश्चात्वाले मार्जयन्ते॥ आपो हि ष्ठा मयोभुव इति तिस्त्रः॥ इदमापः प्रवहतावद्यं च मलं च यत्। यद्वाभिदुद्रोहानृतं यद्वा शेपे अभीरुणम्॥ आपो मा तस्मादेनसो विश्वान्मुञ्चत्वंहसः। निर्मा मुञ्चामि शपथान्निर्मा वरुणादधि। निर्मामस्य पड्बीशात्सर्वस्माद्देवकिल्बिषादयो मनुष्यकिल्बिषादिति॥६॥ ____6. Having gone there, the priests along with the wife of the sacrificer cleanse themselves near the pit, with five (verses) äpo hi ṣthā mayobhuvaḥ... these three;' idamāpaḥ pravahata...2 nir mā muñcāmi sapathāt... (and these two).3
-1. TS IV.1.5.b-d. 2. Cp. VS VI.17. 3. Cp. RV. X.97.16.
-_VII.22 पशुपरोडाशस्य पात्रसंसादनादि कर्म प्रतिपद्यते॥१॥
-1. (The Adhvaryu) undertakes the work' beginning with the placing of the utensils for the (offering of the) animal-sacri ficial-bread.
-__1. Thus I.15.6-14.
+
+
+
+समुत्क्रम्य सहपत्नीकाः पञ्चभिश्चात्वाले मार्जयन्ते॥ आपो हि ष्ठा मयोभुव इति तिस्त्रः॥ इदमापः प्रवहतावद्यं च मलं च यत्। यद्वाभिदुद्रोहानृतं यद्वा शेपे अभीरुणम्॥ आपो मा तस्मादेनसो विश्वान्मुञ्चत्वंहसः। निर्मा मुञ्चामि शपथान्निर्मा वरुणादधि। निर्मामस्य पड्बीशात्सर्वस्माद्देवकिल्बिषादयो मनुष्यकिल्बिषादिति॥६॥
+
+
+VII.22
+पशुपरोडाशस्य पात्रसंसादनादि कर्म प्रतिपद्यते॥१॥
+
 
 यथार्थं पात्रयोगः॥२॥
-2. The arrangement should be in accordance with require ment." __ 1. Thus it is to be done as much as has not been already done
-according to VII.8.2-3.
+
+
 
 निर्वपणकाले व्रीहिमयं पशुपरोडाशं निर्वपत्येकादशकपालं द्वादशकपालं
 वा॥३॥
-3. At the time of pouring out the material," he pours out
-[VII.22
-334
-ApSs Translation : THITE the material (rice-grains) for animal-sacrificial-bread ne grains to be prepared on eleven' or twelve potsherde
-1. See I.17.5. 2. Not barley as is allowed elsewhere. For this cf. MS III. 10.2.
-3-4. Cf. MS III. 10.2.
+
+
 
 यदेवतः पशुस्तदेवतो भवति॥४॥
-4. (The animal-sacrificial bread is) to be offered to that deity to which the animal is offered.
+
 
 
 हविष्कृता वाचं विसृज्य पशुं विशास्ति॥५॥
-5. After (the Adhvaryu) has released his speech by means of the order to the preparer of the oblation-material,' the Samits dissects the animal.
-1. See I.19.8.
+
 
 हृदयं जिह्वा वक्षो यकृद्वक्यौ सव्यं दोरुभे पार्श्वे दक्षिणा श्रोणि गुदतृतीयमिति दैवतानि। दक्षिणं दोः सव्या श्रोणिर्गुदतृतीयमिति सौविष्टकृतानि। क्लोमानं प्लीहानं पुरीततं वनिष्ठुमध्यूनी मेदो जाघनीमित्युद्धरति॥६॥
-___6. Heart, tongue, sternum, liver, the two kidneys, left arm (=fore-foot),' both the two thoracic walls, the right buttock, one third of the rectum,-(these are the limbs which are to be offered) to deities (as the chief offerings),2 the right arm (=fore foot), the left buttock, and one-third of the rectum-these are the limbs to be offered to Agni Svistakrt; the pancreas, spleen, pericardium, inside of the larger intestine, testis with penis, fat and the tails-these he extracts.
-1. This order is based upon TS VI.3.10.6. 2. See VII.24.2,5.
-3. See VII.25.17. This limb is meant for Ida: see VII.24.10-12. गुदं मा निर्लेषीरिति संप्रेष्यति॥७॥
-7. He orders: “Do not cause the rectum turn outside."
+
+
+
+गुदं मा निर्लेषीरिति संप्रेष्यति॥७॥
+
 
 मा विपर्यास्त इत्यर्थों भवति॥८॥
-8. This means, “Do not make it topsy-turvy.'
+
 335
 
 उदक पवित्रे कुम्भ्यां पशुमवधाय शूले प्रणीक्ष्य हृदयं शमित्रे श्रपयति॥९॥
-9. Having put (the limbs of the) animal into a pitcher across the strainer' placed upon it pointing to the north, having pierced the heart into spit (the samits)ề cooks these on the Sāmitra (-fire)
-1. See VII.8.3. 2. See VII.23.3.
-3. See VII.16.3.
+
+
 
 अवहननादि कर्म प्रतिपद्यते॥१०॥
-10. The Adhvaryu starts the work beginning with pound
-ing."
-1. See 1.19.11-1.25.26.
+
 
 वपया प्रचर्य पुरोडाशेन प्रचरति। शृते वा पशौ॥११॥
-11. Having performed the ritual of the omentum immedi ately he performs the ritual of the animal-sacrificial bread,' or after (the limbs of) the animal are cooked.
-1. Cf. TS VI.3.10.1
+
 
 इन्द्राग्निभ्यां पुरोडाशस्यानुब्रूहीन्द्राग्निभ्यां पुरोडाशस्य प्रेष्येति संप्रैषौ॥ इन्द्राग्निभ्यां पुरोडाशस्यावदीयमानस्यानुब्रूहीन्द्राग्निभ्यां पुरोडाशस्य प्रेष्यति arig?11
-12. The orders to be given (by the Adhvaryu to the Maitrāvaruṇa are as follows): “Do you recite the invitatory verses for Indra-and-Agni in connecction with the sacrificial bread” and “Do you order (Hotr) (to recite the offering verse) for Indra-and-Agni in connection with the sacrificial bread”.? or “Do you recite invitatory verses for Indra-and-Agni in con nection with the sacrificial bread being cut (for taking the por tions)” and “Do you order (the Hotr̥) (to recite the offering verse) for Indra-and-Agni in connection with the sacrificial bread.
-1. The Maitrāvaruṇa recites RV I. 109.7. Cf. Āśvass III.7.13. 2. The Hotr̥ recites ķV VII.93.4. (Cf. Āśvass III.7.13).
+
+
 336
 अग्नये ऽनुब्रह्यग्नये प्रेष्येति स्विष्टकृतः संप्रेषो॥१३॥
-13. The orders (to be given by the Adhvaryu to Mair varuṇa) in connection with the offering to Agni Svistaket (as follows): “Do you recite invitatory verse for Agni Svisisk and “Do you order the Hotr̥ to recite the offering-verse to Agni Sviṣtakst”.2
-1. The Maitrāvaruna recites RV III.1.23. (Cf. ĀśvŚs III.5.9). 2. The Hotr̥ recites RV III.54.22. (Cf. Āśvass III.5.9).
+
+
 ## 07.23
 
 
 
 प्राशित्रमवदायेडां न यजमानभागम्॥१॥
-1. Having cut the Prāśitral (the Adhvaryu cuts) the Idā( portion)2 but not the portion of the sacrificer”.
-1. See III.1.1-5. 2. See III.1.6-12.
-3. See III.1.9.
+
 
 हविराहुतिप्रभृतीडान्तः संतिष्ठते॥२॥
-2. Beginning with the offering of the oblation and ending with the Iļā-rite,' (the ritual of the animal-sacrificial-bread) stands completely established (i.e. concluded).
-1. i.e. from II.18.8 upto III.3.1.
+
+
 
 उपहूतां मैत्रावरुणाषष्ठा भक्षयित्वा पूर्ववत्प्रस्तरे मार्जयित्वा स्वेण पृषदाज्य स्योपहत्य वेदेनोपयम्य त्रिः पृच्छति शृतं हवीः३ शमितरिति॥३॥
 3. After the sacrificer and the Maitrāvaruṇa as the sixth' have eaten the invoked Iļā-portion, and they have cleansed themselves near the Prastarain the same manner as described earlier, having taken the clotted gheet by means of the spoon and having supported it by means of the grass-brush (Veda) the Adhvaryu asks, “O samits! is the oblation cooked?.”
