@@ -2,4 +2,6 @@
 title = "05 दैवञ् च मानुषञ्"
 
 +++
-दैवं च मानुषं च होतारौ वृत्वा पुनराश्राव्य मैत्रावरुणं प्रवृणीते मित्रावरुणौ प्रशास्तारौ प्रशास्त्रादिति ५
+5. Having selected the divine and the human Hotr̥s[^1], having again made (the Āgnīdhra say) astu śrauṣaṭ, he selects the Maitrāvaruṇa with mitrāvaruṇau praśāstārau praśāstrāt...  
+
+[^1]: See II.16.5.

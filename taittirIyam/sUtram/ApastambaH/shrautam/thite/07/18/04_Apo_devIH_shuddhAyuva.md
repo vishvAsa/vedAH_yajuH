@@ -2,4 +2,6 @@
 title = "04 आपो देवीः शुद्धायुव"
 
 +++
-आपो देवीः शुद्धायुव इति चात्वाले पत्न्यपोऽवमृशत्यृत्विजो यजमानश्च ४
+4. With āpo devīḥ śuddhāyuvaḥ...[^1] the wife of the sacrificer, the priests and the sacrificer touch water near the Cātvāla.  
+
+[^1]: TS I.3.8.0.  

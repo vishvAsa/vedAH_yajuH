@@ -2,4 +2,7 @@
 title = "05 पशोः पाशम् प्रमुञ्चत्यदितिः"
 
 +++
-पशोः पाशं प्रमुञ्चत्यदितिः पाशं प्रमुमोक्त्वेतमिति ५
+5. With aditiḥ pāśaṁ pramumoktvetam[^1] the Adhvaryu releases the noose of the animal.  
+
+
+[^1]: TS III.1.4.1 a-b.

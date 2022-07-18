@@ -2,4 +2,6 @@
 title = "11 वपया प्रचर्य पुरोडाशेन"
 
 +++
-वपया प्रचर्य पुरोडाशेन प्रचरति । शृते वा पशौ ११
+11. Having performed the ritual of the omentum immediately he performs the ritual of the animal-sacrificial bread,[^1] or after (the limbs of) the animal are cooked.  
+
+[^1]: Cf. TS VI.3.10.1  

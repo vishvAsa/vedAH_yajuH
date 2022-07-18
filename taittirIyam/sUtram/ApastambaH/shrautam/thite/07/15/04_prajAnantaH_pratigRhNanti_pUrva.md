@@ -2,4 +2,9 @@
 title = "04 प्रजानन्तः प्रतिगृह्णन्ति पूर्व"
 
 +++
-प्रजानन्तः प्रतिगृह्णन्ति पूर्व इति पर्यग्नौ क्रियमाणेऽपाव्यानि जुहोत्येकं द्वे त्रीणि चत्वारि वा ४
+4. While fire is being carried round by the Āgnīdhra, the Adhvaryu offers one, two, three or four Apāvya[^1](-libations) with prajānantaḥ pratigr̥hṇanti pūrve.[^2]   
+
+
+[^1]: For this word cf. KS XXX.9.  
+
+[^2]: TS III. 1.4;cp. VII. 12.10.  

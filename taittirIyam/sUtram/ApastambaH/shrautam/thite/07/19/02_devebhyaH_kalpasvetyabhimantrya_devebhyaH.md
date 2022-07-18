@@ -2,4 +2,9 @@
 title = "02 देवेभ्यः कल्पस्वेत्यभिमन्त्र्य देवेभ्यः"
 
 +++
-देवेभ्यः कल्पस्वेत्यभिमन्त्र्य देवेभ्यः शून्धस्वेत्यद्भिरवोक्ष्य देवेभ्यः शूम्भस्वेति स्वधितिना वपां निमृज्याच्छिन्नो रायः सुवीर इन्द्राग्निभ्यां त्वा जुष्टामुत्कृन्तामीत्युत्कृन्तति २
+2. Having addressed the omentum with devebhyaḥ kalpasva,[^1] having sprinkled water on it with devebhyaḥ Śundhasva,[^2] having wiped over the omentum by means of the knife with devebhyaḥ śumbhasva[^3], he cuts it on all sides with acchinno rāyaḥ suvīra indrāgnibhyāṁ tvā juṣṭamutkr̥ntāmi.[^4]  
+
+
+[^1-3]: MS I.2.15., KS XXVI.6.  
+
+[^4]: Cp. TS I.3.9.n.; MS I.2.15.
