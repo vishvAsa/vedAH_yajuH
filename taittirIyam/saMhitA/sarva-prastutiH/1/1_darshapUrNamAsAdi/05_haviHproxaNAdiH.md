@@ -12,8 +12,8 @@ title: ०५ हविःप्रोक्षणादिः
 </details>
 
 
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
-<details open><summary><h4>देवो वस् सविता ...{Loading}...</h4></summary>
+<div class="js_include"  includeTitle="plain" unfilled title="विश्वास-प्रस्तुतिः" newlevelforh1="4" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वो व॑स् सवि॒तोत्पु॑ना॒त्व्  
 अच्छि॑द्रेण प॒वित्रे॑ण +++(सूर्येण)+++ ।   

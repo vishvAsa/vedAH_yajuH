@@ -248,7 +248,7 @@ _______
 12तत्रैव याज्या - आयुर्दा इति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/AyurdA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/AyurdA.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/AyurdA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

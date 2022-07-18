@@ -3,15 +3,8 @@ title = "4 The Soma Cups"
 
 +++
 
-## 31
-### a
-### b
-
 ## 32
 ### a
-Swell, O sweetest Soma,  
-With all thy aids,  
-Be fullest of help for us.
 ## 33
 ### a
 Departed are those mortals who in days gone by behold  
