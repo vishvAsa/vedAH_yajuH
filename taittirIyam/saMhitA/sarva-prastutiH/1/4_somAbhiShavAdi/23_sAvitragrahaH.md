@@ -11,7 +11,7 @@ _______
 1अन्तर्यामपात्रेण सावित्रम् आग्रयणाद् गृह्णाति - वाममद्य सवितरिति चातुष्पदया त्रिष्टुभा ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/071/06_vAmamadya_savitarvAmamu.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/071/06_vAmamadya_savitarvAmamu.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/071/06_vAmamadya_savitarvAmamu.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

@@ -11,7 +11,7 @@ _______
 1द्वितीयं मरुत्वतीयं गृह्णाति - इन्द्र मरुत्व इति चतुष्पदया त्रिष्टुभा । 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/051/07_indra_marutva.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/051/07_indra_marutva.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/051/07_indra_marutva.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

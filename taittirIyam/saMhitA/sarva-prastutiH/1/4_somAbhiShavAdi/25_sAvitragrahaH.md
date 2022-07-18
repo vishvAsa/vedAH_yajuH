@@ -11,7 +11,7 @@ _______
 1पुनश्च सावित्रं गृह्णाति - हिरण्यपाणिमिति त्रिपदया गायत्र्या ॥ पूर्ववद्विकल्प एव । 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/05_hiraNyapANimUtaye_savitAramupa.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/05_hiraNyapANimUtaye_savitAramupa.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/05_hiraNyapANimUtaye_savitAramupa.md"  newLevelForH1="5" includeTitle="false"> </div>
 

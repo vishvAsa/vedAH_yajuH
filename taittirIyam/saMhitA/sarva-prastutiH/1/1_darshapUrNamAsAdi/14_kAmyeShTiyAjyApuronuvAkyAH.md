@@ -20,7 +20,7 @@ title: १४ काम्येष्टि-याज्या-पुरोन�
 'ऐन्द्राग्नमेकादशकपालं निर्वपेत्प्रजाकामः' इति प्रथमा । तस्यामियं पुरोनुवाक्या
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/060/13_ubhA_vAmindrAgnI.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/060/13_ubhA_vAmindrAgnI.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/060/13_ubhA_vAmindrAgnI.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -31,7 +31,7 @@ ____
 तत्रैव याज्या
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/109/02_ashravaM_hi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/109/02_ashravaM_hi.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/109/02_ashravaM_hi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ____
@@ -42,7 +42,7 @@ ____
 अथ 'ऐन्द्राग्नमेकादशकपालं निर्वपेत्सङ्ग्रामं जित्वा' (तै.सं. 2.2.1) इत्यस्य पुरोनुवाक्या
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/012/06_indrAgnI_navatiM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/012/06_indrAgnI_navatiM.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/012/06_indrAgnI_navatiM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -56,7 +56,7 @@ ____
 4तत्रैव याज्या - शुचिमिति चतुष्पदा त्रिष्टुप् ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/093/01_shuchiM_nu.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/093/01_shuchiM_nu.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/093/01_shuchiM_nu.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -69,7 +69,7 @@ ____
 5अथ सङ्ग्रामं जित्वा जनतामेष्यतः 'पौष्णं चरुमनु निर्वपेत्' (तै.सं. 2.2.1) इति पौष्णश्चरुः अनुनिर्वाप्यत्वेनाम्नातः । तत्र पुरोनुवाक्या - वयमिति गायत्री त्रिपदा ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/053/01_vayamu_tvA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/053/01_vayamu_tvA.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/053/01_vayamu_tvA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -81,7 +81,7 @@ ____
 6तत्रैव याज्या - पथस्पथ इति चतुष्पदा त्रिष्ठुप् ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/049/08_pathaspathaH_paripatiM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/049/08_pathaspathaH_paripatiM.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/049/08_pathaspathaH_paripatiM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -93,7 +93,7 @@ ____
 7'क्षैत्रपत्यं चरुं निर्वपेज्जनतामागत्य' (तै.सं. 2.2.1) इत्यस्य पुरोनुवाक्या - चतुष्पदानुष्टुप् ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/057/01_xetrasya_patinA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/057/01_xetrasya_patinA.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/057/01_xetrasya_patinA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -105,7 +105,7 @@ ____
 8तत्रैव याज्या - क्षेत्रस्य पत इति चतुष्पदा त्रिष्टुप् ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/057/02_xetrasya_pate.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/057/02_xetrasya_pate.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/057/02_xetrasya_pate.md"  newLevelForH1="5" includeTitle="false"> </div>  
@@ -144,7 +144,7 @@ ____
 10तत्रैव याज्या - आ देवानामिति चतुष्पदा त्रिष्टुप् ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/002/03_A_devAnAmapi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/002/03_A_devAnAmapi.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/002/03_A_devAnAmapi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -156,7 +156,7 @@ ____
 11तत्रैव स्विष्टकृतः पुरोनुवाक्या - यद्वाहिष्ठमिति चतुष्पदानुष्टुप् ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/025/07_yadvAhiShThaM_tadagnaye.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/025/07_yadvAhiShThaM_tadagnaye.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/025/07_yadvAhiShThaM_tadagnaye.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -191,7 +191,7 @@ ____
 13'अग्नये व्रतपतये पुरोडाशमष्टाकपालं निर्वपेद्य आहिताग्निस्सन्नव्रत्यमिव चरेत्' (तै.सं. 2.2.2) इत्यस्य पुरोनुवाक्या - त्वमग्ने इति त्रिपदा गायत्री, अष्टकसप्तकषट्कपदा प्रतिष्ठानाम्नी, 'षट्सप्तकाष्टकैर्वर्धमाना । विपरीता प्रतिष्ठा' (पि.छ.सू. 3.14.15) इति वचनात् ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/011/01_tvamagne_vratapA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/011/01_tvamagne_vratapA.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/011/01_tvamagne_vratapA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -203,7 +203,7 @@ ____
 14तत्रैव याज्या - यद्व इति चतुष्पदा त्रिष्टुप् ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/002/04_yadvo_vayaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/002/04_yadvo_vayaM.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/002/04_yadvo_vayaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

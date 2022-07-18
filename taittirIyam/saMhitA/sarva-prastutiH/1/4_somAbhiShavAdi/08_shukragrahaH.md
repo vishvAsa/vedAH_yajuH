@@ -11,7 +11,7 @@ _______
 1शुक्रं गृह्णाति - अयं वेन इति त्रिष्टुभा चतुष्पदया ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

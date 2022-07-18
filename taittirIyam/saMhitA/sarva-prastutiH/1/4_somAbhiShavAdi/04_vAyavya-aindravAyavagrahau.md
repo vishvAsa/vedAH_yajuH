@@ -11,7 +11,7 @@ _______
 </details>
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/092/01_A_vAyo.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/092/01_A_vAyo.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/092/01_A_vAyo.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -52,7 +52,7 @@ _______
 2तस्मिन्नैन्द्रवायवं गृह्णाति - इन्द्रवायू इति गायत्र्या ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/002/04_indravAyU_ime.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/002/04_indravAyU_ime.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/002/04_indravAyU_ime.md"  newLevelForH1="5" includeTitle="false"> </div>  

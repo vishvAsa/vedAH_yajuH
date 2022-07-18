@@ -11,7 +11,7 @@ _______
 1शुक्रपात्रेण वैश्वदेवं कलशाद् गृह्णाति - ओमास इति त्रिपदया गायत्र्या ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/003/07_omAsashcharShaNIdhRto_vishve.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/003/07_omAsashcharShaNIdhRto_vishve.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/003/07_omAsashcharShaNIdhRto_vishve.md"  newLevelForH1="5" includeTitle="false"> </div>
 

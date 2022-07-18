@@ -11,7 +11,7 @@ _______
 1बृहत्पृष्ठपक्षे माहेन्द्रं गृह्णाति - महाꣳइन्द्रो नृवदिति चतुष्पदया त्रिष्टुभा ॥
 </details>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/019/01_mahA_N_indro.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/019/01_mahA_N_indro.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/019/01_mahA_N_indro.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

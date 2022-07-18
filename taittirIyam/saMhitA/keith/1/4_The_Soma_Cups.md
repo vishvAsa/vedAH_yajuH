@@ -6,10 +6,6 @@ title = "4 The Soma Cups"
 
 ## 33
 ### a
-Departed are those mortals who in days gone by behold  
-An earlier dawn of morning;  
-Dawn now hath become visible to us;  
-They come who shall behold her in days to come.
 ## 34
 ### a
 I place thee that hast light.
