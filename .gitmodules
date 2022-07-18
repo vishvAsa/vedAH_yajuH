@@ -1,5 +1,3 @@
-[submodule "origin"]
-	url = https://github.com/vishvAsa/vedAH_yajuH.git
 [submodule "static"]
 	path = static
 	url = https://github.com/vishvAsa/vedAH_yajuH
