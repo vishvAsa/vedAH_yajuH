@@ -2,4 +2,4 @@
 title = "03 ततो यथा प्राशु"
 
 +++
-ततो यथा प्राशु मन्थति ३
+3. Thereafter he churns as quickly as possible.

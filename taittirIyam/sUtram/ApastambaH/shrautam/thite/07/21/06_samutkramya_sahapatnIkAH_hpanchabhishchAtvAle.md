@@ -2,4 +2,11 @@
 title = "06 समुत्क्रम्य सहपत्नीकाः ह्पञ्चभिश्चात्वाले"
 
 +++
-समुत्क्रम्य सहपत्नीकाः ह्पञ्चभिश्चात्वाले मार्जयन्ते । आपो हि ष्ठा मयोभुव इति तिस्रः । इदमापः प्रवहतावद्यं च मलं च यत् । यद्वाभिदुद्रोहानृतं यद्वा शेपे अभीरुणम् । आपो मा तस्मादेनसो विश्वान्मुञ्चत्वंहसः । निर्मा मुञ्चामि शपथान्निर्मा वरुणादधि । निर्मा यमस्य पड्बीशात्सर्वस्माद्देवकिल्बिषादथो मनुष्यकिल्बिषादिति ६
+6. Having gone there, the priests along with the wife of the sacrificer cleanse themselves near the pit, with five (verses) āpo hi ṣṭhā mayobhuvaḥ... these three;[^1] idamāpaḥ pravahata...[^2] nir mā muñcāmi śapathāt... (and these two).[^3]  
+
+
+[^1]: TS IV.1.5.b-d.  
+
+[^2]: Cp. VS VI.17.  
+
+[^3]: Cp. RV. X.97.16.  

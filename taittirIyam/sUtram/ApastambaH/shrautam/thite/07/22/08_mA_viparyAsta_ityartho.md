@@ -2,4 +2,4 @@
 title = "08 मा विपर्यास्त इत्यर्थो"
 
 +++
-मा विपर्यास्त इत्यर्थो भवति ८
+8. This means, “Do not make it topsy-turvy."

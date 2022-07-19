@@ -2,4 +2,4 @@
 title = "07 गुदम् मा निर्व्लेषीरिति"
 
 +++
-गुदं मा निर्व्लेषीरिति सम्प्रेष्यति ७
+7. He orders: “Do not cause the rectum turn outside."

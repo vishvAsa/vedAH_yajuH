@@ -2,4 +2,9 @@
 title = "07 यद्यभिचरेदरातीयन्तमधरङ् कृणोमि यन्"
 
 +++
-यद्यभिचरेदरातीयन्तमधरं कृणोमि यं द्विष्मस्तस्मिन्प्रतिमुञ्चामि पाशमिति तया वृक्षं स्थाणुं स्तम्भं वापिदध्यात् ७
+7. If he wants to practice black magic (against his enemy), he may place it on a tree or a post or stump[^1] with arātīyant-amadharaṁ kr̥ṇomi...[^2]  
+
+
+[^1]: Cf. KS XXX.9.  
+
+[^2]: TS III.1.4.1. c-d.  
