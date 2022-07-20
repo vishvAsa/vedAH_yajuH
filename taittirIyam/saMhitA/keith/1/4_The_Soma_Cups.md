@@ -5,12 +5,8 @@ title = "4 The Soma Cups"
 
 ## 37
 ### a
-Mount thy car, O slayer of Vrtra;  
-Thy steeds are yoked by our prayer;  
-May the pressing-stone with its voice  
-Incline thy mind towards us.
 ### b
-Thou art taken with a support; to Indra of the Sodaśin thee! This is thy birthplace; to Indra of the Sodaśin thee!
+
 ## 38
 ### a
 Indra his two steeds bear,  

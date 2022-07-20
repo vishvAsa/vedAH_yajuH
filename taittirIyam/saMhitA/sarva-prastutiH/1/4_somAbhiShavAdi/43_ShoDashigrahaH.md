@@ -22,27 +22,6 @@ title = "४३ षोडशिग्रहः"
 </details>
 
 
+_______
+<div class="js_include" url="taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने᳚ ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-उ॒प॒या॒मगृ॑हीतो॒ऽसि, इन्द्रा॑य त्वा षो॒ड॒शिने᳚   +++(ग्रहणमन्त्रः)+++  ।  
-ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने᳚ ॥ [43]  +++(सादनमन्त्रः)+++
-</details>
-
-<details><summary>मूलम्</summary>
-
-उ॒प॒या॒मगृ॑हीतो॒ऽसि, इन्द्रा॑य त्वा षो॒ड॒शिने᳚   +++(ग्रहणमन्त्रः)+++  ।  
-ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने᳚ ॥ [43]  +++(सादनमन्त्रः)+++
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-2-3ग्रहणसादने प्रसिद्धे ॥
-
-इति चतुर्थे षट्त्रिंशोनुवाकः ॥  
-</details>
