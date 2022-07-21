@@ -3,10 +3,6 @@ title = "4 The Soma Cups"
 
 +++
 
-## 37
-### a
-### b
-
 ## 38
 ### a
 Indra his two steeds bear,  
