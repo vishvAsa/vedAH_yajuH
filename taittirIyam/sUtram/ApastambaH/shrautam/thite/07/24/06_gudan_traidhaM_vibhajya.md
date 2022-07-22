@@ -2,4 +2,9 @@
 title = "06 गुदन् त्रैधं विभज्य"
 
 +++
-गुदं त्रैधं विभज्य स्थविमदुपयड्भ्यो निधाय मध्यमं द्वैधं विभज्य दैवतेष्ववदधाति । अणिमत्सौविष्टकृतेषु ६
+6. Having cut the rectum in three (unequal) parts,[^1] having kept aside the thick (part) for the by-offerings,[^2] having divided the middle into two pieces, he keeps the two pieces among the limbs meant for the deities (of the chief-offering); he keeps the thin (part) among the limbs meant for the offering to Agni Sviṣṭakr̥t.  
+
+
+[^1]: Cf. TS VI.4.1.1.  
+
+[^2]: See VII.26.13.  

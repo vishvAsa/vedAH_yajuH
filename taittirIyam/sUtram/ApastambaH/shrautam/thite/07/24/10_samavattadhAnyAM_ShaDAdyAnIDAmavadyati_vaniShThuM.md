@@ -2,4 +2,6 @@
 title = "10 समवत्तधान्यां षडाद्यानीडामवद्यति वनिष्ठुं"
 
 +++
-समवत्तधान्यां षडाद्यानीडामवद्यति वनिष्ठुं सप्तमम् । षड्भ्यो वा वनिष्ठोः सप्तमात् १०
+10. He takes (all the) the (first) six (limbs) into the Samavattadhānī for Iḍā; (and takes) the larger intestine as the seventh (in it); or he takes some portions from the (first) six (limbs) and from the larger intestine as the seventh.  
+
+[^1]: See VII.22.6.
