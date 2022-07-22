@@ -2,4 +2,9 @@
 title = "07 तानि शृतैः सन्निधाय"
 
 +++
-तानि शृतैः सन्निधाय सम्मृशत्यैन्द्रः प्राणो अङ्गेअङ्ग इति ७
+7. Having placed these limbs near the cooked (limbs) he touches them[^1] with aindraḥ prāṇo aṅge aṅge...[^2]  
+
+
+[^1]: Cf. MS III. 10.4.  
+
+[^2]: TS I.3.10.d-e.  

@@ -2,4 +2,4 @@
 title = "08 त्रधा मेदोऽवद्यति द्विभागं"
 
 +++
-त्रधा मेदोऽवद्यति द्विभागं स्रुचोस्तृतीयं समवत्तधात्याम् ८
+8. He divides the fat into three parts (and puts) two parts in the two ladles, and the third in the Samavattadhānī.
