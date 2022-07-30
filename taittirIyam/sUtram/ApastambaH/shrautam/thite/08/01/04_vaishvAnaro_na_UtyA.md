@@ -2,4 +2,13 @@
 title = "04 वैश्वानरो न ऊत्या"
 
 +++
-वैश्वानरो न ऊत्या पृष्टो दिवीति वैश्वानरस्य याज्यानुवाक्ये । पर्जन्याय प्रगायत दिवस्पुत्राय मीढुषे । स नो यवसमिच्छतु । अच्छा वद तवसं गीर्भिराभिः स्तुहि पर्जन्यं नमसाविवास । कनिक्रदद्वृषभो जीरदानू रेतो दधात्वोषधीषु गर्भमिति पार्जन्यस्य । हिरण्य वैश्वानरे ददाति धेनुं पार्जन्ये । सिद्धमिष्टिः सन्तिष्ठते ४
+4. (The verses beginning with) vaiśvānaro na ūtyā[^1] and pr̥ṣṭo divi[^2] (are to be used as) the invitatory and offering verses (respectively, for the offering) to Vaiśvānara. (The verses beginning with) parjanyāya pragāyata[^3] and acchā vada tavasam[^4] (are to be used as) the invitatory and offering verses (respectively for the offering) to Parjanya. (The sacrificer) gives gold at the time of the Vaiśvānara (offering) and cow at the time of the Pārjanya (-offering). The offering becomes completely established in accordance with the basic paradigm.  
+
+
+[^1]: TS I.5.11.a  
+
+[^2]: TS I.5.11.d.  
+
+[^3]: TB II.4.5.5. (R̥V VII.10.2.1.  
+
+[^4]: R̥V V.8.3.1. 

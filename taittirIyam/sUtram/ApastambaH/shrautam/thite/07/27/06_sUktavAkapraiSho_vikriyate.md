@@ -2,4 +2,4 @@
 title = "06 सूक्तवाकप्रैषो विक्रियते"
 
 +++
-सूक्तवाकप्रैषो विक्रियते ६
+6. The order for recitation of Sūktavāka is modified. 

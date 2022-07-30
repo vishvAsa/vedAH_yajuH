@@ -2,4 +2,7 @@
 title = "03 उपस्थाय यज्ञ शञ्"
 
 +++
-उपस्थाय यज्ञ शं च म इति जपति ३
+3. After having stood near while praising (the sacrificial post) he mutters yajña śaṁ ca me...[^1]  
+
+
+[^1]: Cp. IV. 16.15.

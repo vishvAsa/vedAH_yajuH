@@ -2,4 +2,4 @@
 title = "02 फाल्गुन्याम् पौर्णमास्याञ् चैत्र्यां"
 
 +++
-फाल्गुन्यां पौर्णमास्यां चैत्र्यां वा वैश्वदेवेन यजते २
+2. One should perform the Vaiśvadeva (part of the Cāturmāsya-sacrifices) on the full-moon-day of Phālguna or of Caitra. 
