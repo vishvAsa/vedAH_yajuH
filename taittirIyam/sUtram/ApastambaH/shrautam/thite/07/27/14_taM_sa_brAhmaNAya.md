@@ -2,4 +2,7 @@
 title = "14 तं स ब्राह्मणाय"
 
 +++
-तं स ब्राह्मणाय यद्यब्राह्मणो भवति १४
+14. If he (the Śamitr̥) is not a Brāhmaṇa, he gives it to a Brāhmaṇa.[^1]  
+
+
+[^1]: Cf. AB VII.1.  

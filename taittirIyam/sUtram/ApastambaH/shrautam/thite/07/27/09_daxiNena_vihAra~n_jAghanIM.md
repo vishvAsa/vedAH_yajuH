@@ -2,4 +2,6 @@
 title = "09 दक्षिणेन विहारञ् जाघनीं"
 
 +++
-दक्षिणेन विहारं जाघनीं हृत्वा तया पत्नीः संयाजयन्ति ९
+9. Having brought the tail towards the south of the sacrificial place, they offer to the wives of gods[^1] by means of it.  
+
+[^1]: viz. the Patnisaṁyāja-offerings: see III.8.1-9.6.
