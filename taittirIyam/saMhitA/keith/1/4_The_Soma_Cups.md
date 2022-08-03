@@ -5,15 +5,7 @@ title = "4 The Soma Cups"
 
 ## 44
 ### a
-May Dhatr the giver, may Savitr, rejoice in this,  
-Prajapati, the lord of treasures, and Agni, for our sake;  
-May Tvastr, Visnu, accord generously  
-Wealth with offspring to the sacrificer.
 ### b
-O Indra, unite us in heart, with cattle,  
-O bountiful one, with generous ones, with prosperity;  
-With the holy power that is made by the gods,  
-With loving kindness of the gods to whom sacrifice is made.
 
 ### c
 With glory, with milk, with ourselves,  

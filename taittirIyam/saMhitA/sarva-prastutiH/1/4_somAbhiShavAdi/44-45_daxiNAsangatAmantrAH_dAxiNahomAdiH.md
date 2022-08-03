@@ -12,7 +12,7 @@ The Daksina Offerings
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-1अथ दाक्षिणं काण्डं सौम्यमेव । तत्र शौरीभ्याम् ऋग्भ्यां गार्हपत्ये जुहोति - उदुत्यमिति प्रथमा गायत्री, द्वितीया त्रिष्टुप् ॥   
+1अथ दाक्षिणं काण्डं सौम्यमेव । तत्र शौरीभ्याम् ऋग्भ्यां गार्हपत्ये जुहोति - उदुत्यमिति प्रथमा गायत्री, द्वितीया त्रिष्टुप् ॥  तत्र प्रथमा -
 
 </details>
 
@@ -25,10 +25,16 @@ _______
 
 <details><summary>भट्टभास्करटीका</summary>
 
-तत्र प्रथमा - 'उदायुषा' इत्यत्र व्याख्याता । …  'सुवर्गाय वा एतानि लोकाय हूयन्ते यद्दाक्षिणानि' इत्यादि ब्राह्मणम् ॥
+'उदायुषा' इत्यत्र व्याख्याता । …  'सुवर्गाय वा एतानि लोकाय हूयन्ते यद्दाक्षिणानि' इत्यादि ब्राह्मणम् ॥
 </details>
 
-__________
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+2अथ द्वितीया।  … 
+</details>
+
+
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/115/01_chitraM_devAnAmudagAdanIkaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
@@ -36,7 +42,7 @@ __________
 
 <details><summary>भट्टभास्करटीका</summary>
 
-2अथ द्वितीया।  … ईदृशो भगवाननेन होमेनास्माकमभिमतं साधयत्विति ॥
+ईदृशो भगवाननेन होमेनास्माकमभिमतं साधयत्विति ॥
 </details>
 
 
