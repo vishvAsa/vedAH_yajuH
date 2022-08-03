@@ -3,40 +3,6 @@ title = "4 The Soma Cups"
 
 +++
 
-
-
-## 43
-### a
-### b
-
-### c
-O Agni, lead us by a fair path to wealth,  
-O god, knowing all the ways;  
-Drive from us the sin that maketh us wander;  
-We will accord to thee most abundant honour.
-### d
-Go to the sky, fly to heaven.
-### c
-With my form [1] I approach your form; with my age your age.
-### f
-May Tutha, all knowing, allot to you in the highest firmament.
-### g
-This gift of thine, Agni, cometh, impelled by the Soma.
-### h
-Lead it by the path of Mitra.
-### i
-Go ye on by the path of holy order, of brilliant gifts,  
-Leading prosperity by the path of the sacrifice.
-### k
-May I win a Brahman to-day, a seer and sprung from seers, of (famous) father and grandfather, fit for the sacrificial gift.
-### l
-Gaze on the heaven, gaze on the atmosphere.
-### m
-Join those in the seat.
-### n
-Given by us, go to the gods, full of sweetness; enter the giver; without leaving us fare by the path leading to the gods; sit in the world of the righteous.
-### o
-Be this complete for us.
 ## 44
 ### a
 May Dhatr the giver, may Savitr, rejoice in this,  
