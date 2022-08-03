@@ -4,24 +4,12 @@ title = "४३ षोडशिग्रहः"
 +++
 
 त्रिष्टुप्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒जोषा॑ इन्द्र॒ सग॑णो म॒रुद्भि॒स्सोम॑म्पिब वृत्रहञ्छूर वि॒द्वान् ।  
-ज॒हि शत्रू॒ꣳ॒ रप॒ मृधो॑ नुद॒स्वाऽथाभ॑यङ्कृणुहि वि॒श्वतो॑ नः ॥
-</details>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/02_sajoShA_indra.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details><summary>मूलम्</summary>
-
-स॒जोषा॑ इन्द्र॒ सग॑णो म॒रुद्भि॒स्सोम॑म्पिब वृत्रहञ्छूर वि॒द्वान् ।  
-ज॒हि शत्रू॒ꣳ॒ रप॒ मृधो॑ नुद॒स्वाऽथाभ॑यङ्कृणुहि वि॒श्वतो॑ नः ॥
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-1सजोषा इत्यादि त्रिष्तुप् ॥ हे इन्द्र सगणः सर्वैर्गणैस्सहितः मरुद्भिस्सजोषाः समानप्रीतिः । पूर्ववदुत्तरपदाद्युदात्तत्वम् । हे इन्द्र वृत्रहन् वृत्रहन्तः शूर महाबल विद्वान् स्वमधिकारं जानन्, सर्वविशेषज्ञानदक्षो वा । ईदृशस्त्वं सोमं पिब । पीत्वा चास्मदीयान् शत्रून् जहि नाशय । मृधश्च सङ्ग्रामान् कर्तुकामानपनुदस्व । अथानन्तरमस्मभ्यं विश्वतस्सर्वतोप्यभयं कृणुहि कुरु । 'उतश्च प्रत्ययाच्छन्दो दो वा वचनम्' इति हिलोपाभावः । शत्रूनित्यस्य संहितायां 'दीर्घादटि समानपादे' इति रुत्वम्, पूर्ववदनुनासिकत्वम् ॥
-</details>
-
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/02_sajoShA_indra.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 _______
+
 <div class="js_include" url="taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

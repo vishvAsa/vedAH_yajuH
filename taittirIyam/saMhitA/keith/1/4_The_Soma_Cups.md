@@ -3,57 +3,12 @@ title = "4 The Soma Cups"
 
 +++
 
-## 38
-### a
-Indra his two steeds bear,  
-Him of unequalled strength,  
-To the praises of the Rsis and the sacrifice of men.
-### b
-Thou art taken with a support; to Indra of the Sodaśin thee! This is thy birthplace; to Indra of the Sodaśin thee!
-## 39
-### a
-The Soma hath been pressed for thee O Indra;  
-O most strong, O impetuous one, come hither;  
-Let power encompass thee,  
-Even as the sun encompasses the atmosphere with its rays.
-### b
-Thou art taken with a support; to Indra of the Sodaśin thee! This is thy birthplace; to Indra of the Sodaśin thee!
-## 40
-### a
-Earth, covering all,  
-Hath placed thee in her lap;  
-Be gentle and rest kindly on him  
-Grant him protection, extending wide.
-### b
-Thou art taken with a support; to Indra of the Sodaśin thee! This is thy birthplace; to Indra of the Sodaśin thee!
-## 41
 
-### a
-Great is Indra of the Sodaśin,  
-With the bolt in his arm, may he grant protection;  
-May the bountiful give us prosperity,  
-May he smite him who hateth us.
-### b
-Thou art taken with a support; to Indra of the Sodaśin thee! This is thy birthplace; to Indra of the Sodaśin thee!
-## 42
-### a
-In unison and in fellowship with the Maruts, Indra,  
-Drink the Soma, O slayer of Vrtra, O hero, O wise one;  
-Slay our foes, drive away the enemies,  
-And thus make for us on all sides security.
-### b
-Thou art taken with a support; to Indra of the Sodaśin thee! This is thy birthplace; to Indra of the Sodaśin thee!  
-The Daksina Offerings
+
 ## 43
 ### a
-His rays bear up the god  
-Who knoweth all,  
-The sun for all to see.
 ### b
-The radiant countenance of the gods hath risen,  
-The eye of Mitra, Varuna, Agni;  
-He hath filled the sky and earth and atmosphere;  
-The sun is the self of all that moveth and standeth.
+
 ### c
 O Agni, lead us by a fair path to wealth,  
 O god, knowing all the ways;  

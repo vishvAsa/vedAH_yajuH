@@ -6,9 +6,20 @@ title = "४२ षोडशिग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒हाꣳ इन्द्रो॒ वज्र॑बाहुष्षोड॒शी शर्म॑ यच्छतु ।  
-स्व॒स्ति नो॑ म॒घवा॑ करोतु॒ हन्तु॑ पा॒प्मान॒य्ँयो᳚ऽस्मान्द्वेष्टि॑ ॥
+म॒हाꣳ इन्द्रो॒ वज्र॑बाहुष्  
+षोड॒शी **शर्म॑ यच्छतु** ।  
+**स्व॒स्ति** नो॑ म॒घवा॑ **करोतु॒**  
+**हन्तु॑** पा॒प्मान॒य्ँ यो᳚ऽस्मान् द्वेष्टि॑ ॥
 </details>
+
+<details><summary>Keith</summary>
+
+Great is Indra of the Sodaśin,  
+With the bolt in his arm, may he grant protection;  
+May the bountiful give us prosperity,  
+May he smite him who hateth us.
+</details>
+
 
 <details><summary>मूलम्</summary>
 

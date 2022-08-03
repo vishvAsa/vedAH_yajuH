@@ -71,7 +71,8 @@ _______
 
 <details><summary>Keith</summary>
 
-This is thy birthplace; to Indra the mighty thee!
+This is thy birthplace;  
+to Indra the mighty thee!
 </details>
 
 
