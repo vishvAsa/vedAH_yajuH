@@ -12,8 +12,7 @@ unicode_script = "devanagari"
 <details><summary>Keith</summary>
 
 O ye gods that know the way, knowing the way, go ye the way.  
-O lord of mind, this sacrifice for us place among the gods, O god, hail!  
-in speech, hail!
+O lord of mind, this sacrifice for us (place) among the gods, O god, hail!  
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -58,7 +57,7 @@ ___________
 
 <details><summary>Keith</summary>
 
-In/ or speech, hail!
+In speech, hail!
 </details>
 
 
@@ -93,5 +92,4 @@ in/or the wind, hail!
 <details><summary>भट्टभास्करटीका</summary>
 
 ततः पश्चादिमं यज्ञं वाते सर्वक्रियाधारे धाः स्थापय । यस्मादयं यज्ञः प्रयुक्तः तत्रैव वाते स्थापय । 'वाताद्वा अध्वर्युर्यज्ञं प्रयुङ्क्ते' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणम् । दधातेः लेटि 'बहुलं छन्दसि' (पा.सू. 2.4.73) इति शपो लुक्, 'इतश्च लोपः परस्मैपदेषु' (पा.सू. 3.4.98) इतीकारलोपः ॥
-
 </details>
