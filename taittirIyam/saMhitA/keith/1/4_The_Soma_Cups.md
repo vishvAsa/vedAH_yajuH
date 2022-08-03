@@ -5,18 +5,12 @@ title = "4 The Soma Cups"
 
 ## 44
 ### f
-The gods whom eager thou didst bring hither, O god,  
-Them [2], O Agni, do thou incite in their own abode;  
-Bearing and bringing oblations,  
-The rich draught, do ye mount the sky.
 ### g
-O sacrifice, go to the sacrifice; go to the lord of the sacrifice; go to thine own birthplace; hail!
 ### h
-This is thy sacrifice, O lord of the sacrifice, with its utterance of hymns and producing noble heroes; hail!
 ### i
 Ye gods that find the way, finding the way, go on the way.
 ### k
-O lord of mind, place this sacrifice, O god, for us among the gods, hail! or speech, hail! or the wind, hail!
+O lord of mind, place this sacrifice, O god, for us among the gods, hail!or the wind, hail!
 ## 45
 ### a
 King Varuna hath made a broad path  
