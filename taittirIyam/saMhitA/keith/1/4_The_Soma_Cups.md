@@ -4,25 +4,6 @@ title = "4 The Soma Cups"
 +++
 
 ## 44
-### a
-### b
-
-### c
-With glory, with milk, with ourselves,  
-Are we united, with auspicious hearts;  
-May Tvastr make fortune for us [1];  
-May he set right whatever is amiss in our bodies.
-### d
-In that to-day, O Agni, we choose thee  
-As Hotr as our sacrifice proceeded,  
-Prosperously hast thou sacrificed,  
-Prosperously hast thou laboured;  
-Come wise and foreseeing one to the sacrifice.
-### e
-With Hail! to you, O gods, have we made this seat,  
-Ye who have come hither rejoicing in this as the pressing;  
-When ye have eaten and drunken,  
-Ye all, give to us, wealthy ones, wealth.
 ### f
 The gods whom eager thou didst bring hither, O god,  
 Them [2], O Agni, do thou incite in their own abode;  
