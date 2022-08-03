@@ -8,16 +8,11 @@ title = "4 The Soma Cups"
 
 ### g
 ### h
-Ye divine waters, this is thy foetus, glad and well tended have we made it for you; proclaim us as doers of good deeds among the gods.
 ### i
-The noose of Varuna is tied, the noose of Varuna is loosed.
 ### k
-Thou art fuel; may we prosper; thou art kindling; thou art brilliance, grant me brilliance.
+ 
 ### l
-I have penetrated to the waters;  
-We are united with the sap;  
-I have come rich in milk, O Agni;  
-Do thou unite me with radiance.
+
 
 ## 46
 ### a

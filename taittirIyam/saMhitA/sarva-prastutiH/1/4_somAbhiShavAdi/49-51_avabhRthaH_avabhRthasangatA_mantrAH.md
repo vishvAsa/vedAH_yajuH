@@ -344,8 +344,16 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवी॑राप ए॒ष वो॒ गर्भ॒स्तव्ँव॒स्सुप्री॑त॒ꣳ॒ सुभृ॑तमकर्म दे॒वेषु॑ नस्सु॒कृतो᳚ ब्रूतात् ।
+देवी॑र् आप **ए॒ष वो॒ गर्भ॒स्** -  
+तव्ँ व॒स् सुप्री॑त॒ꣳ॒ **सुभृ॑तम् अकर्म**।  
+दे॒वेषु॑ नस् **सु॒कृतो᳚ ब्रूतात्** ।
 </details>
+
+<details><summary>Keith</summary>
+
+Ye divine waters, this is thy foetus, glad and well tended have we made it for you; proclaim us as doers of good deeds among the gods.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -357,10 +365,24 @@ _______
 हे देवीः देव्यः पः । पूर्ववद्दीर्घः, 'विभाषितं विशेषवचने बहुवचनम्' इति प्रथमस्याविद्यमानवत्त्वनिषेधाद्द्वितीयं निहन्यते । एष ऋजीषाख्यो वो युष्माकं गर्भः युष्मत्प्रभवः । अतस्तं वः युष्मदर्थं सुप्रीतं युष्माकं सर्वलोकस्य अतिशयेन प्रीतिकरं सुभृतं सुष्ठु गुप्तं च अकर्म कृतवन्तो वयम् । 'मन्त्रे घस' इति च्लेर्लुक्, 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । अतोस्मानपि यूयं देवेषु सुकृतस्स्ष्ठुकर्म कृतवन्तो ब्रूतात् ब्रूत । 'तस्य तात्' इति तादादेशः ॥
 </details>
 
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+13अपामन्तं प्रतियौति - प्रतियुत इति ॥ 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रति॑युतो॒ वरु॑णस्य॒ पाश॒ᳶ प्रत्य॑स्तो॒ वरु॑णस्य॒ पाशः ।
+प्रति॑-युतो॒+++(←यु विश्लेषणे)+++ वरु॑णस्य॒ पाश॒ᳶ  
+प्रत्य्-अ॑स्तो॒ वरु॑णस्य॒ पाशः ।
 </details>
+
+<details><summary>Keith</summary>
+
+The noose of Varuna is tied,  
+the noose of Varuna is loosed.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -369,22 +391,25 @@ _______
 
 <details><summary>भट्टभास्करटीका</summary>
 
-13अपामन्तं प्रतियौति - प्रतियुत इति ॥ प्रतियुतः प्रत्येकं पृथक्कृतः वरुणस्य पाशः । पृथक्कृत्य च प्रत्यस्तः प्रतिक्षिप्तः विनाशित इत्यर्थः । पूर्ववद्गतेः प्रकृतिस्वरत्वम् ॥
+प्रतियुतः प्रत्येकं पृथक्कृतः वरुणस्य पाशः ।  
+पृथक्कृत्य च प्रत्यस्तः प्रतिक्षिप्तः विनाशित इत्यर्थः । पूर्ववद्गतेः प्रकृतिस्वरत्वम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-एधो᳚ऽस्येधिषी॒महि॑ ।
+14प्रपथे समिधः कुर्वते - एधोसीति ॥ 
 </details>
 
-<details><summary>मूलम्</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/03_edho-syedhiShImahi_svAhA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-एधो᳚ऽस्येधिषी॒महि॑ ।
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/03_edho-syedhiShImahi_svAhA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details><summary>भट्टभास्करटीका</summary>
 
-14प्रपथे समिधः कुर्वते - एधोसीति ॥ हे समित् एधोसि एधनी वर्धनी त्वमस्यग्नेः । अतस्तादृश्या त्वया वयमपि एधिषीमहि वृद्धिं प्राप्नुयामः । यद्वा - तादृश्या त्वया अग्निं वर्धयेम ॥
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+15आहवनीये समिधमभ्यादधाति - समिदिति ॥ 
 </details>
 
 
@@ -394,40 +419,28 @@ _______
 स॒मिद॑सि॒ तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-स॒मिद॑सि ।
-तेजो॑ऽसि ।
-तेजो॒ मयि॑ धेहि ।
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/04_samidasi_samedhiShImahi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/05_tejosi_tejo.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+16आहवनीयमुपतिष्ठते - अप इत्यनुष्टुभा ॥ 
 </details>
 
-<details><summary>मूलम्</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-स॒मिद॑सि ।
-तेजो॑ऽसि ।
-तेजो॒ मयि॑ धेहि ।
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/06_apo_adyAnvachAriSham.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details><summary>भट्टभास्करटीका</summary>
 
-15आहवनीये समिधमभ्यादधाति - समिदिति ॥ समित्समिन्धनी सन्दीपनी त्वमग्नेरसि । तस्मात्तेजोसि तेजस्साधनमग्नेरसि । तादृशी सा त्वम्मय्यपि तेजो धेहि स्थापय ॥
-</details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-आपो अन्व॑चारिष॒ꣳ॒ रसे॑न॒ सम॑सृख्ष्महि ।  
-पय॑स्वाꣳ अग्न॒ आऽग॑म॒न्तम्मा॒ सꣳ सृ॑ज॒ वर्च॑सा ॥ [51]  
-</details>
-
-<details><summary>मूलम्</summary>
-
-आपो अन्व॑चारिष॒ꣳ॒ रसे॑न॒ सम॑सृख्ष्महि ।  
-पय॑स्वाꣳ अग्न॒ आऽग॑म॒न्तम्मा॒ सꣳ सृ॑ज॒ वर्च॑सा ॥ [51]  
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-16आहवनीयमुपतिष्ठते - अप इत्यनुष्टुभा ॥ हे अग्ने अपः कर्म । व्यत्ययेनान्तोदात्तत्वम् । अप्शब्द एव वा कर्मणि वर्तते । 'ऊडिदम्' इति शस उदात्तत्वम् । अपोवभृथाख्यं कर्मान्वचारिषमानुपूर्व्येण कृतवानस्मि । अतो वयं सर्वेपि रसेन फलेन समसृक्ष्महि सङ्गतास्स्मः । वचनव्यत्ययो वा, समसृक्ष्महि । सङ्गतोस्मि । 'लिङ्सिचावात्मनेपदेषु' इति सिचः कित्वम् । हे अग्ने पयस्वानन्नवान् हविर्भिस्तद्वान् त्वामागममागतोस्मि । 'आतोटि नित्यम्' इति संहितायां रुत्वम् । तस्मात्त्वां प्राप्तं मा संसृज संयोजय वर्चसा बलेन ॥
 
 इति चतुर्थे एकोनचत्वारिंशोनुवाकः॥
-</details>
