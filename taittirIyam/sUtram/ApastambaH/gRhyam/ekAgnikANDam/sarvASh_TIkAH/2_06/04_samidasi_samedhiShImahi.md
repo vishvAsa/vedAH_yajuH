@@ -2,6 +2,11 @@
 title = "०४ समिदसि समेधिषीमहि"
 
 +++
+<details><summary>Keith</summary>
+
+thou art kindling; (may we prosper;)
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मिद॑सि समेधिषी॒महि॒ स्वाहा॑ ।  
@@ -10,3 +15,9 @@ title = "०४ समिदसि समेधिषीमहि"
 
 समिदसीति ॥ निगदव्याख्यातमेतत् ॥
 </details>
+
+<details><summary>भट्टभास्करटीका</summary>
+
+समित्समिन्धनी सन्दीपनी त्वमग्नेरसि । 
+</details>
+
