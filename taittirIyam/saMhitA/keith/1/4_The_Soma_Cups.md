@@ -4,21 +4,9 @@ title = "4 The Soma Cups"
 +++
 
 ## 45
-### a
-### b
-### c
-
-### d
-
-### e
-In the sea is thy heart, within the waters;  
-Let the plants and the waters enter thee;  
-With the offerings of the sacrifice, O lord of the sacrifice,  
-Let us worship at the utterance of the hymn, at the utterance of homage.
 ### f
-O bath, O flood, thou glidest, O flood; thou hast removed by sacrifice the sin committed by the gods, through the gods, the sin committed by mortals, through mortals; guard us, O god, from wide hostility.
+
 ### g
-Be the water and plants friendly to us [2]; be they hostile to him who hateth us and whom we hate.
 ### h
 Ye divine waters, this is thy foetus, glad and well tended have we made it for you; proclaim us as doers of good deeds among the gods.
 ### i
