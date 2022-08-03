@@ -3,32 +3,13 @@ title = "4 The Soma Cups"
 
 +++
 
-## 44
-### f
-### g
-### h
-### i
-Ye gods that find the way, finding the way, go on the way.
-### k
-O lord of mind, place this sacrifice, O god, for us among the gods, hail!or the wind, hail!
 ## 45
 ### a
-King Varuna hath made a broad path  
-For the sun to travel;  
-He hath made him set his feet in the pathless way;  
-He driveth away whatever woundeth the heart.
 ### b
-A hundred remedies are thine, O king, a thousand;  
-Broad and deep be thy loving kindness.  
-Overcome the enmity, the hostility;  
-Remove from us whatever sin hath been committed.
 ### c
-The noose of Varuna is overcome.
+
 ### d
-The face of Agni hath entered the waters,  
-The child of the waters guarding against the demons' power,  
-In each home [1] do thou offer the kindling-stick, O Agni;  
-Let thy tongue seek the ghee.
+
 ### e
 In the sea is thy heart, within the waters;  
 Let the plants and the waters enter thee;  
