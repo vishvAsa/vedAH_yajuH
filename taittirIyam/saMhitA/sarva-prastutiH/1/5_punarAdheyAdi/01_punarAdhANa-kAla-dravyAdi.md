@@ -19,7 +19,7 @@ title = "०१ पुनराधान-कालद्रव्यादि"
 </details>
 
 
-
+## कथामुखम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आस॒न्ते दे॒वा वि॑ज॒यमु॑प॒यन्तो॒ऽग्नौ वा॒मव्ँवसु॒ सन्न्य॑दधत
@@ -142,6 +142,8 @@ The gods having defeated (the Asuras) pursued (Agni) desirous of recovering it.
 अथ देवा असुरान्विजित्य तद्वामं वस्ववरुरुत्समानाः आत्मसात्कर्तुमिच्छन्तः अग्निमन्वायन् अन्वगच्छन् ।
 </details>
 
+## रुद्रत्वम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद॑स्य॒ सह॒साऽऽदि॑थ्सन्त ।  
@@ -184,7 +186,7 @@ He wept; in that he wept (arodit), that is why Rudra has his name.
 ततःप्रभृत्यग्निं रुद्रमाचक्षते रोदनेन निमित्तेन । 'रोदेर्णिलुक्च' इति ण्यन्ताद्विधीयमानो रक्प्रत्ययो बाहुलकात्केवलादपि भवति ।
 </details>
 
-
+## रजतम् अदक्षिणा
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -233,7 +235,7 @@ therefore silver is not a suitable gift, for it is born of tears.
 तदिदानीं रजतेन विशेष्यते - हिरण्यशब्दाभिधानं तु प्रशंसार्थम् । तस्माद्रजतमदक्षिण्यं अदक्षिणार्हं अश्रुजम् । हीति हेतौ । हिरण्यमप्यदक्षिणार्हमिति प्रतिपादनार्थं पुनरपि हिरण्यग्रहणम् । 'कडङ्करदक्षि- णाछ्व च' इति यत्प्रत्ययः, 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
 
-
+## बर्हिष्य् अदानम्
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -242,7 +244,7 @@ therefore silver is not a suitable gift, for it is born of tears.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो ब॒र्हिषि॒ ददा॑ति - पु॒राऽस्य॑ सव्ँवथ्स॒राद्गृ॒हे रु॑दन्ति ।  
+यो ब॒र्हिषि॒ +++(अग्निर् इव)+++ ददा॑ति - पु॒राऽस्य॑ सव्ँवथ्स॒राद् गृ॒हे रु॑दन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -282,7 +284,7 @@ therefore one should not give on the strew.
 तस्मात् बर्हिषि रजतं न दद्यादिति । इदं प्रास्सङ्गिकमुक्तम् ॥
 </details>
 
-
+## पुनराधाने देवता
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -365,7 +367,7 @@ They replied, 'The re-establishing shall be thine alone.'
 कः इत्थं यो मद्देवत्यं मदेकदेवत्यमग्निमादधातै आदधीतेति द्वितीयामग्न्याधेयततिं करोतीत्यर्थः । एवमाधातुरभ्युदयमाशास्ते [सै] इति । ऋध्नोतेर्लेटि 'लेटोडाटौ इत्यडागमः । 'देवतान्तात्तादर्थ्ये यत्' । दधातेर्लेटि 'वैतोन्यत्र' इत्यैकारः । तच्च तथा देवैः प्रतिश्रुतमिति गम्यते । तस्मात् पुनराधेयं कर्तव्यमिति विधिश्चानुमीयते ।
 </details>
 
-
+### फल-स्तुतिः
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -385,14 +387,11 @@ They replied, 'The re-establishing shall be thine alone.'
 तम् मनु॒र् आऽध॑त्त ।  
 तेन॒ मनु॑र् आर्ध्नोत् ।   
 तस्मा᳚न् मान॒व्य॑ᳶ प्र॒जा उ॑च्यन्ते ।  
-
-तन्धा॒ताऽऽध॑त्त ।  
-तेन॑ धा॒ताऽऽर्ध्नो᳚त् ।
 </details>
 
 <details><summary>Keith</summary>
 
-Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said to be Pusan's. Tvastr established it; therefore did Tvastr prosper; therefore cattle are said to be Tvastr's. Manu established it; therefore did Manu prosper; therefore offspring are said to be Manu's. Dhatr established it; therefore Dhatr prospered; 
+Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said to be Pusan's. Tvastr established it; therefore did Tvastr prosper; therefore cattle are said to be Tvastr's. Manu established it; therefore did Manu prosper; therefore offspring are said to be Manu's. 
 </details>
 
 
@@ -407,8 +406,6 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 तम्मनु॒राऽध॑त्त ।  
 तेन॒ मनु॑रार्ध्नोत् ।   
 तस्मा᳚न्मान॒व्य॑ᳶ प्र॒जा उ॑च्यन्ते ।  
-तन्धा॒ताऽऽध॑त्त ।  
-तेन॑ धा॒ताऽऽर्ध्नो᳚त् ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -416,14 +413,26 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 अनन्तरं च ऋद्धिकामाः पूषादयः तादृशेन पुनराधेयेन ऋद्धिं प्राप्ता इति दर्शयति - पूषेत्यादि । गतम् । पूष्णः स्वभूताः पौष्णाः पशवः ।
 </details>
 
+## सांवत्सरिकता-ज्ञानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+तन्धा॒ताऽऽध॑त्त ।  
+तेन॑ धा॒ताऽऽर्ध्नो᳚त् ।
 सव्ँवथ्स॒रो वै धा॒ता ।  
-तस्मा᳚त् सव्ँवथ्स॒रम्प्र॒जाᳶ प॒शवोऽनु॒ प्र जा॑यन्ते ।
+तस्मा᳚त् सव्ँवथ्स॒रम् प्र॒जाᳶ प॒शवोऽनु॒ प्र जा॑यन्ते ।
 </details>
+
+<details><summary>Keith</summary>
+
+Dhatr established it; therefore Dhatr prospered;  
+Dhatr is the year; therefore offspring and cattle are born in the course of the year. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
+तन्धा॒ताऽऽध॑त्त ।  
+तेन॑ धा॒ताऽऽर्ध्नो᳚त् ।
 सव्ँवथ्स॒रो वै धा॒ता ।  
 तस्मा᳚त् सव्ँवथ्स॒रम्प्र॒जाᳶ प॒शवोऽनु॒ प्र जा॑यन्ते ।
 </details>
@@ -442,10 +451,17 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वम्पु॑नरा॒धेय॒स्यर्द्धि॒व्ँवेद॑  ऋ॒ध्नोत्ये॒व ।  
+य ए॒वम् पु॑नर्-आ॒धेय॒स्यर्द्धि॒व्ँ वेद॑  ऋ॒ध्नोत्य् ए॒व ।  
 
-यो᳚ऽस्यै॒वम्ब॒न्धुता॒व्ँवेद॒ बन्धु॑मान्भवति ।
+यो᳚ऽस्यै॒वम् ब॒न्धुता॒व्ँ वेद॒ बन्धु॑मान् भवति ।
 </details>
+
+<details><summary>Keith</summary>
+
+He who knows thus the prosperity of the re-establishing [3] prospers.  
+He who knows his connexions becomes possessed of connexions himself.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -459,10 +475,17 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 3य एवमित्यादि ॥ गतम् । बन्धुतां बन्धुसमूहं पूषादीनाम् । 'ग्रामजनबन्धुसहायेभ्यस्तल्' ॥
 </details>
 
+## उद्वास्य पुनराधानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भाग॒धेय॒व्ँवा अ॒ग्निराहि॑त इ॒च्छमा॑नᳶ प्र॒जाम्प॒शून् यज॑मान॒स्योप॑ दोद्राव ।
+भाग॒धेय॒व्ँ वा अ॒ग्निर् आहि॑त इ॒च्छमा॑नᳶ प्र॒जाम् प॒शून् यज॑मान॒स्योप॑ दोद्राव ।
 </details>
+
+<details><summary>Keith</summary>
+
+Agni desiring a share after being established assailed the offspring and cattle of the sacrifice. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -471,7 +494,7 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 
 <details><summary>भट्टभास्करटीका</summary>
 
-4भागधेयं वा इत्यादि ॥ गतम् । आत्मन एवासाधारणं भागमिच्छन् प्रजां पशूंश्च यजमानस्योपदोद्राव भृशमुपद्रुतान् करोति स्म । द्रवतेर्यङ्लुगन्ताच्छान्दसो लिट् ।
+4भागधेयं वा इत्यादि ॥ गतम् । आत्मन एवासाधारणं भागमिच्छन् प्रजां पशूंश्च यजमानस्योपदोद्राव भृशमुपद्रुतान् करोति स्म । द्रवतेर् यङ्लुगन्ताच् छान्दसो लिट् ।
 </details>
 
 
@@ -486,6 +509,12 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 उ॒द्वास्य॒ पुन॒रा द॑धीत ।
 </details>
 
+<details><summary>Keith</summary>
+
+Having removed it, one should re-establish it; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 उ॒द्वास्य॒ पुन॒रा द॑धीत ।
@@ -493,28 +522,41 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 
 <details><summary>भट्टभास्करटीका</summary>
 
-तस्मादुद्वास्याग्निं पुनरादधीत ।
+तस्माद् उद्वास्याग्निं पुनरादधीत ।
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भा॒ग॒धेये॑नै॒वैन॒ꣳ॒ सम॑र्धयति ।  +++(समर्थयति इति भाष्ये पाठः विचारणीयः)+++
+भा॒ग॒धेये॑नै॒वैन॒ꣳ॒ सम॑र्धयति ।
 </details>
+
+<details><summary>Keith</summary>
+
+thus he unites him with his own portion;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-भा॒ग॒धेये॑नै॒वैन॒ꣳ॒ सम॑र्धयति ।  +++(समर्थयति इति भाष्ये पाठः विचारणीयः)+++
+भा॒ग॒धेये॑नै॒वैन॒ꣳ॒ सम॑र्धयति ।  
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-भागधेयेनाभीप्सितेन एनमग्निं समर्थयति सुप्रीतं करोति ।  
+भागधेयेनाभीप्सितेन एनमग्निं समर्थयति सुप्रीतं करोति । +++(समर्थयति इति भाष्ये पाठः ??)+++  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ शान्ति॑रे॒वास्यै॒षा ।
+अथो॒ शान्ति॑र् ए॒वास्यै॒षा ।
 </details>
+
+<details><summary>Keith</summary>
+
+verily he is appeased. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -523,28 +565,39 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 
 <details><summary>भट्टभास्करटीका</summary>
 
-अथो आपि च शान्तिरेवैषास्य येनोपद्रवकारी न भवति उद्वासन्येष्ट्येष्ट्वाग्नीन् परोप्य पुनरग्न्यगारं यज्ञपात्राणि च संस्कृत्यान्यानि वा कृत्वा पुनरादधीताग्नीनग्न्याधेयकल्पेनेति ॥
+**अथो** आपि च **शान्तिर् एवैषा** ऽस्य येनोपद्रवकारी न भवति।  
+उद्वासन्येष्ट्येष्ट्वा  
+ऽग्नीन् परोप्य  
+पुनर्-अग्न्यगारं यज्ञपात्राणि च संस्कृत्य   
++अन्यानि वा कृत्वा  
+पुनर्-आदधीताग्नीन् अग्न्याधेय-कल्पेनेति ॥
 </details>
 
-
+## पुनर्वस्वोः
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-पुन॑र्वस्वो॒रा द॑धीतै॒तद्वै पु॑नरा॒धेय॑स्य॒ नख्ष॑त्र॒य्ँयत्पुन॑र्वसू॒ स्वाया॑मे॒वैन॑न्दे॒वता॑यामा॒धाय॑ ब्रह्मवर्च॒सी भ॑वति 
+पुन॑र्वस्वो॒राद॑धीतै॒तद्वै पु॑नरा॒धेय॑स्य॒ नख्ष॑त्र॒य्ँयत्पुन॑र्वसू॒ स्वाया॑मे॒वैन॑न्दे॒वता॑यामा॒धाय॑ ब्रह्मवर्च॒सी भ॑वति 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुन॑र्वस्वो॒रा द॑धीत ।  
-ए॒तद्वै पु॑नरा॒धेय॑स्य॒ नख्ष॑त्र॒य्ँयत्पुन॑र्वसू॒ स्वाया॑मे॒व ।  
-एन॑न्दे॒वता॑यामा॒धाय॑ ब्रह्मवर्च॒सी भ॑वति ।
+पुन॑र्वस्वो॒र् आद॑धीत ।  
+ए॒तद् वै पु॑नरा॒धेय॑स्य॒ नख्ष॑त्र॒य्ँ यत् पुन॑र्वसू॒ ।  
+स्वाया॑म् ए॒वैन॑न् दे॒वता॑याम् आ॒धाय॑ ब्रह्मवर्च॒सी भ॑वति ।
 </details>
+
+<details><summary>Keith</summary>
+
+He should establish under Punarvasu; Punarvasu is the Naksatra for the re-establishing; verily by establishing it under its own deity he becomes resplendent.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 पुन॑र्वस्वो॒रा द॑धीत ।  
-ए॒तद्वै पु॑नरा॒धेय॑स्य॒ नख्ष॑त्र॒य्ँयत्पुन॑र्वसू॒ स्वाया॑मे॒व ।  
-एन॑न्दे॒वता॑यामा॒धाय॑ ब्रह्मवर्च॒सी भ॑वति ।
+ए॒तद्वै पु॑नरा॒धेय॑स्य॒ नख्ष॑त्र॒य्ँयत्पुन॑र्वसू॒।  
+स्वाया॑मे॒वैन॑न्दे॒वता॑यामा॒धाय॑ ब्रह्मवर्च॒सी भ॑वति ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -552,6 +605,7 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 5पुनर्वस्वोरिति ॥ पुनरावर्तते वामं वस्वेतयोरिति पुनर्वसू देवतायाम् । ब्रह्मवर्चसी ब्राह्मणस्येयमेव ऋद्ध्यिरिति ॥
 </details>
 
+## दर्द्भैः
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -561,9 +615,15 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒र्भैरा द॑धा॒ति अया॑तयामत्वाय ।  
-द॒र्भैरा द॑धात्य॒द्भ्य ए॒वैन॒मोष॑धीभ्योऽव॒रुध्याऽऽध॑त्ते ।
+द॒र्भैर् आद॑धा॒ति अ-या॑त-यामत्वाय ।  
+द॒र्भैरा द॑धात्य् - अ॒द्भ्य ए॒वैन॒म् +++(अग्निम्)+++ ओष॑धीभ्यो ऽव॒रुध्याऽऽध॑त्ते ।
 </details>
+
+<details><summary>Keith</summary>
+
+ He establishes with Darbha grass, for variety. He establishes with Darbha; verily winning it from the waters and the plants he establishes it. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -589,6 +649,12 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 पञ्च॑कपालᳶ पुरो॒डाशो॑ भवति ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The sacrificial cake is offered on five potsherds; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 पञ्च॑कपालᳶ पुरो॒डाशो॑ भवति ।  
@@ -601,8 +667,14 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्च॒ वा ऋ॒तव॑ ऋ॒तुभ्य॑ ए॒वैन॑मव॒रुध्याऽऽध॑त्ते ॥
++++(अन्धसि पृथग् वर्षर्तोर् अभावात्)+++ पञ्च॒ वा ऋ॒तव॑ - ऋ॒तुभ्य॑ ए॒वैन॑म् +++(अग्निम्)+++ अव॒रुध्याऽऽध॑त्ते ॥
 </details>
+
+<details><summary>Keith</summary>
+
+the seasons are five; verily he wins it from the seasons and establishes it.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -612,6 +684,6 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 <details><summary>भट्टभास्करटीका</summary>
 
 पञ्च वा इति ॥ हेमन्तशिशिरयोरेकत्वाभिप्रायमिदम, 'हेमन्तशिशिरावृतूनाम्' इति सहनिर्देशात् ॥
+</details>
 
 इति पञ्चमे प्रथमोनुवाकः ॥  
-</details>
