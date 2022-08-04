@@ -3,17 +3,6 @@ title = "4 The Soma Cups"
 
 +++
 
-## 45
-### f
-
-### g
-### h
-### i
-### k
- 
-### l
-
-
 ## 46
 ### a
 I who deeming thee immortal,  
