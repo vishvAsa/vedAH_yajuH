@@ -4,19 +4,9 @@ title = "5 The Rekindling of the Fire"
 +++
 
 ## 03
-### a
-(Thou I art) earth in depth, sky in breadth, atmosphere in greatness;  
-In thy lap, O goddess Aditi, Agni  
-I place, food-eater for the eating of food.
 ### b
-The spotted bull hath come  
-And reached again the mother
-  
-And the father, faring to the heaven.
+
 ### c
-Thirty places be ruleth;  
-Speech resorteth to the bird  
-Bear it with the days.
 ### d
 With her inspiration from his expiration,  
 She wandereth between the worlds;  
