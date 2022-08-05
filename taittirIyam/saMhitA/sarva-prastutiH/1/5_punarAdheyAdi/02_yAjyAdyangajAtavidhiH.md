@@ -272,6 +272,7 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 </details>
 
 
+## उपांशुयागः
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -280,8 +281,14 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒पा॒ꣳ॒शु  य॑जति ।
++++(ओत्तमादनूयाजात्)+++ उ॒पा॒ꣳ॒शु  य॑जति ।
 </details>
+
+<details><summary>Keith</summary>
+
+He speaks the Yajus, muttering; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -298,6 +305,12 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 यथा॑ वा॒मव्ँवसु॑ विविदा॒नो गूह॑ति ता॒दृगे॒व तत्।
 </details>
 
+<details><summary>Keith</summary>
+
+it is as if one who has found a rich treasure hides it. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 यथा॑ वा॒मव्ँवसु॑ विविदा॒नो गूह॑ति ता॒दृगे॒व तत्।
@@ -308,10 +321,17 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 यथेति । यथा वामं वननीयं वरिष्ठं धनं मुषितं विविदानः लभमानः लब्धुं यतमानः तत् गूहति संवृणोति तादृक्तदुपांशुकरणम् । छान्दसस्य लिटः कानजादेशः ॥
 </details>
 
+## स्विष्टकृद् उच्चैः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निम्प्रति॑ स्विष्ट॒कृत॒न्निरा॑ह ।
+अ॒ग्निम् प्रति॑ स्विष्ट॒कृत॒न् निरा॑ह+++(=उच्चैर् आह)+++ ।
 </details>
+
+<details><summary>Keith</summary>
+
+To Agni Svistakrt he speaks aloud; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -325,8 +345,14 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा॑ वा॒मव्ँवसु॑ विविदा॒नᳶ प्र॑का॒शञ्जिग॑मिषति ता॒दृगे॒व तत् ।
+यथा॑ वा॒मव्ँवसु॑ विविदा॒नᳶ प्र॑का॒शञ् जिग॑मिषति ता॒दृग् ए॒व तत् ।
 </details>
+
+<details><summary>Keith</summary>
+
+it is as if one who has found a rich treasure is fain to go openly. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -338,9 +364,18 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 यथेति । यथा वामं वसु विविदानः अन्विष्य लब्धवान् तत्प्रकाशं विवृतं जिगमिषति ख्यापयितुमिच्छति । अहो इदं दृष्टं पश्यतेति तादृक् तदुच्चैर्वचनम् । परोक्षे लिटः कानजादेशः ।
 </details>
 
+## वषट्कारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विभ॑क्तिमु॒क्त्वा प्र॑या॒जेन॒ वष॑ट्करोत्या॒यत॑नादे॒व नैति॑।
++++("ये यजामह" इत्य् अस्यानन्तरं)+++  
+विभ॑क्तिम् उ॒क्त्वा  
+प्र॑या॒जेन॒ +++(मन्त्रेण हविर् ददन्)+++ वष॑ट्करोत्य्  
+- आ॒यत॑नाद् ए॒व नैति॑।
+</details>
+
+<details><summary>Keith</summary>
+
+Uttering the discrimination he makes the Vasat cry with the foresacrifice; verily he leaves not his abode. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -350,11 +385,11 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 
 <details><summary>भट्टभास्करटीका</summary>
 
-विभक्तिमिति । ये यजामह इत्यस्यानन्तरं विभक्तिमुक्त्वा ततः प्रयाजमन्त्रेण वषट्करोति हविर्ददाति । अनेन कर्मणा स्वस्मादायतनान्नैति न गच्छति । अनुष्ठेयवचनः स्व आयतने निवसति ॥
+विभक्तिमिति । "ये यजामह" इत्य् अस्यानन्तरं **विभक्तिम् उक्त्वा** ततः **प्रयाज-मन्त्रेण वषट्-करोति** हविर् ददाति । अनेन कर्मणा स्वस्माद् **आयतनान् नैति** न गच्छति । अनुष्ठेयवचनः स्व आयतने निवसति ॥
 </details>
 
 
-
+## आहुतिस्थाने
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यज॑मानो॒ वै पु॑रो॒डाश॑ᳶ प॒शव॑ ए॒ते आहु॑ती॒ यद॒भित॑ᳶ पुरो॒डाश॑मे॒ते आहु॑ती [7]जु॒होति॒ यज॑मानमे॒वोभ॒यत॑ᳶ प॒शुभि॒ᳶ परि॑ गृह्णाति 
@@ -362,7 +397,7 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानो॒ वै पु॑रो॒डाशः॑ ।
+यज॑मानो॒ वै पु॑रो॒डाशः॑ +++(प्राधान्यात्)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -370,20 +405,32 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 यज॑मानो॒ वै पु॑रो॒डाशः॑ ।
 </details>
 
+<details><summary>Keith</summary>
+
+The sacrificial cake is the sacrificer, 
+</details>
+
+
 <details><summary>भट्टभास्करटीका</summary>
 
-9यजमानो वा इत्यादि ॥ प्राधान्यात्ताद्धर्म्येण ताच्छब्द्यम् ।
+9यजमानो वा इत्यादि ॥ प्राधान्यात् ताद्-धर्म्येण ताच्-छब्द्यम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒शव॑ ए॒ते आहु॑ती।
+प॒शव॑ ए॒ते +++(द्वे)+++ आहु॑ती।
 </details>
 
 <details><summary>मूलम्</summary>
 
 प॒शव॑ ए॒ते आहु॑ती।
 </details>
+
+<details><summary>Keith</summary>
+
+the oblations are cattle; 
+</details>
+
 
 <details><summary>भट्टभास्करटीका</summary>
 
@@ -392,42 +439,60 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद॒भित॑ᳶ पुरो॒डाश॑मे॒ते आहु॑ती  जु॒होति॑ ।   
-यज॑मानमे॒वोभ॒यत॑ᳶ प॒शुभि॒ᳶ परि॑ गृह्णाति ।
+यद् अ॒भित॑ᳶ पुरो॒डाश॑म् +++(पुरस्ताद् उपरिष्टाच् च)+++ ए॒ते आहु॑ती  जु॒होति॒,   
+यज॑मानम् ए॒वोभ॒यत॑ᳶ प॒शुभि॒ᳶ परि॑ गृह्णाति ।
 </details>
+
+<details><summary>Keith</summary>
+
+in that he offers these libations on either side of the cake [3], he thus surrounds the sacrificer on either side with cattle.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-यद॒भित॑ᳶ पुरो॒डाश॑मे॒ते आहु॑ती  जु॒होति॑ ।   
+यद॒भित॑ᳶ पुरो॒डाश॑मे॒ते आहु॑ती  जु॒होति॒   
 यज॑मानमे॒वोभ॒यत॑ᳶ प॒शुभि॒ᳶ परि॑ गृह्णाति ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-यदभित इति । अभितः पुरस्तादुपरिष्टाच्च पुरोडाशहोमस्य । 'अभितःपरितः' इति द्वितीया । गतमन्यत् ॥
+यदभित इति । अभितः पुरस्ताद् उपरिष्टाच् च पुरोडाशहोमस्य । 'अभितःपरितः' इति द्वितीया । गतमन्यत् ॥
+</details>
+
+## सम्भारसम्भरणापेक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"+++(अग्न्याधेयेन)+++ कृ॒त-य॑जु॒स् सम्भृ॑त-सम्भार॒" इत्या॑हु॒र्, "न स॒म्भृत्याः᳚ सम्भा॒रा +++(पुनराधेये)+++, न यजु॑ᳶ क॒र्त॒व्य॑म्" इति॑ +++(च केचित्)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+'After performing the Yajus and collecting the apparatus', they say: 'the apparatus should not be collected, the Yajus should not be performed,' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कृ॒तय॑जु॒स्सम्भृ॑तसम्भार॒ इत्या॑हु॒र्न स॒म्भृत्याः᳚ सम्भा॒रा न यजु॑ᳶ  क॒र्त॒व्य॑मिति॑ ।
+</details>
+
+<details><summary>भट्टभास्करटीका</summary>
+
+10कृतयजुरिति ॥ कृतस्तम्बयजुर् अग्न्याधेयेन **सम्भृताश्च सम्भाराः** । तस्माद् अत्र **न सम्भृत्याः** न सम्भरणीयास् **सम्भाराः** न यजुः कर्तव्यमित्याहुरेके आचार्याः । 'बृञोसंज्ञायाम्' इति क्यप् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृ॒तय॑जु॒स्सम्भृ॑तसम्भार॒ इत्या॑हुः ।   
-न स॒म्भृत्याः᳚ सम्भा॒रा न यजु॑ᳶ  क॒र्त॒व्य॑मिति॑ ।
+अथो॒ खलु॑ "स॒म्भृत्या॑ ए॒व स॑म्भा॒राᳵ,  
+क॑र्त॒व्य॑य्ँ यजु॑र् - य॒ज्ञस्य॒ समृ॑द्ध्यै"  +++(इत्य् अस्मत्पक्षः)+++।
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Keith</summary>
 
-कृ॒तय॑जु॒स्सम्भृ॑तसम्भार॒ इत्या॑हुः ।   
-न स॒म्भृत्याः᳚ सम्भा॒रा न यजु॑ᳶ  क॒र्त॒व्य॑मिति॑ ।
+they say: the apparatus should be collected and the Yajus performed, for the prosperity of the sacrifice. 
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
-
-10कृतयजुरिति ॥ कृतस्तम्बयजुरग्न्याधेयेन सम्भृताश्च सम्भाराः । तस्मादत्र न सम्भृत्याः न सम्भरणीयास्सम्भाराः न यजुः कर्तव्यमित्याहुरेके आचार्याः । 'बृञोसंज्ञायाम्' इति क्यप् ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अथो॒ खलु॑ स॒म्भृत्या॑ ए॒व स॑म्भा॒राᳵ क॑र्त॒व्य॑य्ँयजु॑र्य॒ज्ञस्य॒ समृ॑द्ध्यै ।
-</details>
 
 <details><summary>मूलम्</summary>
 
@@ -436,11 +501,11 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 
 <details><summary>भट्टभास्करटीका</summary>
 
-11एतद्दूष्यति - अथो खलु वयं ब्रूमः सम्भृत्या एवेति ॥ गतम् ।
+11एतद् दूषयति - अथो खलु वयं ब्रूमः सम्भृत्या एवेति ॥ गतम् ।
 </details>
 
 
-
+## दक्षिणा
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पुनर्निष्कृ॒तो रथो॒ दख्षि॑णा पुनरुथ्स्यू॒तव्ँवास॑ᳶ पुनरुथ्सृ॒ष्टो॑ऽन॒ड्वान्पु॑नरा॒धेय॑स्य॒ समृ॑द्ध्यै 
@@ -448,16 +513,24 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पु॒न॒र्नि॒ष्कृ॒तो रथो॒ दख्षि॑णा ।  
-पु॒न॒रु॒थ्स्यू॒तव्ँवासः॑ ।    
-पु॒न॒रु॒थ्सृ॒ष्टो॑ऽन॒ड्वान्पु॑नरा॒धेय॑स्य॒ समृ॑द्ध्यै ।
+पु॒न॒र्-नि॒ष्कृ॒तो रथो॒ दख्षि॑णा,  
+पुनरुथ्स्यू॒तव्ँ वासः॑    
+पुनरुथ्सृ॒ष्टो॑ऽन॒ड्वान्  
+पु॑नरा॒धेय॑स्य॒ समृ॑द्ध्यै ।
 </details>
+
+<details><summary>Keith</summary>
+
+The sacrificial fee is a renovated chariot, a newly-sewn garment, a draught ox let loose again, for the prosperity of the re-establishing. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-पु॒न॒र्नि॒ष्कृ॒तो रथो॒ दख्षि॑णा ।  
-पु॒न॒रु॒थ्स्यू॒तव्ँवासः॑ ।    
-पु॒न॒रु॒थ्सृ॒ष्टो॑ऽन॒ड्वान्पु॑नरा॒धेय॑स्य॒ समृ॑द्ध्यै ।
+पु॒न॒र्-नि॒ष्कृ॒तो रथो॒ दख्षि॑णा,  
+पुनरुथ्स्यू॒तव्ँ वासः॑    
+पुनरुथ्सृ॒ष्टो॑ऽन॒ड्वान्  
+पु॑नरा॒धेय॑स्य॒ समृ॑द्ध्यै ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -465,7 +538,7 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 12पुनर्निष्कृत इत्यादि ॥ पुनर्निष्कृतः पुनस्संस्कृतः । पुनरुत्स्यूतं पुनस्संस्कृतमेव संहितच्छिद्रम् । षिवेर्निष्ठायां 'च्छ्वोश्शूडनुनासिके च' इत्यूठ् । पुनरुत्सृष्टः अवशीर्णगवः । एते पात्रे सम्मितादयो द्रष्टव्याः, उपपदसमासो वा । कृदुत्तरपदप्रकृतिस्वरत्वम् । पुनश्चनसौ छन्दसि' इति गतित्वात् गतिसमासो वा । प्रवृद्धादेराकृतिगणत्वादुत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
-
+## अग्निहोत्रविशेषः
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -475,9 +548,15 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्त ते॑ अग्ने स॒मिध॑स्स॒प्त जि॒ह्वा इत्य॑ग्निहो॒त्रञ्जु॑होति ।  
-यत्र॑यत्रै॒वास्य॒ न्य॑क्त॒न्तत॑  ए॒वैन॒मव॑ रुन्धे ।
+"स॒प्त ते॑ अग्ने स॒मिध॑स्स॒प्त जि॒ह्वा" इत्य॑ग्निहो॒त्रञ् जु॑होति ।  
+यत्र॑यत्रै॒वास्य॒ न्य॑क्त॒न् - तत॑  ए॒वैन॒म् अव॑ रुन्धे ।
 </details>
+
+<details><summary>Keith</summary>
+
+'Seven are thy kindling-sticks, O Agni, seven thy tongues'; (with these words) he offers the Agnihotra. Wherever there is anything of his nature, thence [4] does he win him. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -490,26 +569,36 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 13सप्त ते अग्ने इति ॥ न्यक्तिः [न्यक्तं न्यक्तिः] नियता अक्तिरनुगतिः ॥
 </details>
 
-
+## अग्नि-वारुणम्
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-वीर॒हा वा ए॒ष दे॒वाना॒य्ँयो᳚ऽग्निमु॑द्वा॒सय॑ते॒ तस्य॒ वरु॑ण ए॒वर्ण॒यादा᳚ग्निवारु॒णमेका॑दशकपाल॒मनु॒ निर्व॑पेद्यञ्चै॒व हन्ति॒ यश्चा᳚स्यर्ण॒यात्तौ भा॑ग॒धेये॑न प्रीणाति नाऽऽर्ति॒मार्च्छ॑ति॒ यज॑मानः ॥ [9]
+वी॒र॒हा वा ए॒ष दे॒वाना॒य्ँयो᳚ऽग्निमु॑द्वा॒सय॑ते॒ तस्य॒ वरु॑ण ए॒वर्ण॒यादा᳚ग्निवारु॒णमेका॑दशकपाल॒मनु॒ निर्व॑पेद्यञ्चै॒व हन्ति॒ यश्चा᳚स्यर्ण॒यात्तौ भा॑ग॒धेये॑न प्रीणाति नाऽऽर्ति॒मार्च्छ॑ति॒ यज॑मानः ॥ [9]
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वीर॒हा वा ए॒ष  दे॒वाना᳚म् ।  
-यो᳚ऽग्निमु॑द्वा॒सय॑ते॒ तस्य॒ वरु॑ण ए॒वर्ण॒यात् ।  
-आ॒ग्नि॒वा॒रु॒णमेका॑दशकपाल॒मनु॒ निर्व॑पेत् ।   
-यञ्चै॒व हन्ति॒ यश्चा᳚स्यर्ण॒यात् ।  
+वी॒र॒हा वा ए॒ष दे॒वाना॒य्ँ  
+यो᳚ऽग्निम् उ॑द्वा॒सय॑ते॒ तस्य॒ वरु॑ण ए॒व र्ण॒-यात्+++(=यातयिता)+++ ।  
+आ॒ग्नि॒-वा॒रु॒णम् एका॑दशकपाल॒म् अनु॒ निर्व॑पेत् ।   
+यञ् चै॒व हन्ति॒ यश् चा᳚स्यर्ण॒-यात्,  
 तौ भा॑ग॒धेये॑न प्रीणाति ।  
-नाऽऽर्ति॒मार्च्छ॑ति॒ यज॑मानः ॥
+नाऽऽर्ति॒म् आर्च्छ॑ति॒ यज॑मानः ॥
 </details>
+
+<details><summary>Keith</summary>
+
+Now he who removes the fire is the slayer of the hero among the gods,  
+Varuna is the exactor of the recompense;  
+he should make an offering on eleven potsherds to Agni and Varuna;  
+him whom he slays and him who exacts the recompense he delights with their own portion;  
+the sacrificer is not ruined.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-वीर॒हा वा ए॒ष  दे॒वाना᳚म् ।  
+वी॒र॒हा वा ए॒ष  दे॒वाना॒य्ँ  
 यो᳚ऽग्निमु॑द्वा॒सय॑ते॒ तस्य॒ वरु॑ण ए॒वर्ण॒यात् ।  
 आ॒ग्नि॒वा॒रु॒णमेका॑दशकपाल॒मनु॒ निर्व॑पेत् ।   
 यञ्चै॒व हन्ति॒ यश्चा᳚स्यर्ण॒यात् ।  
@@ -519,7 +608,7 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 
 <details><summary>भट्टभास्करटीका</summary>
 
-14वीरहेत्यादि ॥ पुनर्वचनं हविरन्तरविधानार्थम् । वरुण एव देवानां ये ऋणयात् ऋणेन यातयिता ऋणिनमिव तममुञ्चन् पीडयति । ण्यन्तात्क्विप् । ऋणमिच्छतीति क्यचि वा पूर्ववदीत्वाभावः, शतरि छान्दसो नुमभावः पररूपाभावश्च ॥
+14वीरहेत्यादि ॥ पुनर्वचनं हविरन्तरविधानार्थम् । वरुण एव देवानां ये **ऋणयात्** ऋणेन यातयिता ऋणिनमिव तममुञ्चन् पीडयति । ण्यन्तात्क्विप् । ऋणमिच्छतीति क्यचि वा पूर्ववदीत्वाभावः, शतरि छान्दसो नुमभावः पररूपाभावश्च ॥
 
 पञ्चमे द्वितीयोनुवाकः ॥  
 </details>

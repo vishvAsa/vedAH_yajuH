@@ -3,7 +3,6 @@ title = "5 The Rekindling of the Fire"
 
 +++
 
-He speaks the Yajus, muttering; it is as if one who has found a rich treasure hides it. To Agni Svistakrt he speaks aloud; it is as if one who has found a rich treasure is fain to go openly. Uttering the discrimination he makes the Vasat cry with the foresacrifice; verily he leaves not his abode. The sacrificial cake is the sacrificer, the oblations are cattle; in that he offers these libations on either side of the cake [3], he thus surrounds the sacrificer on either side with cattle. 'After performing the Yajus and collecting the apparatus', they say: 'the apparatus should not be collected, the Yajus should not be performed,' they say: the apparatus should be collected and the Yajus performed, for the prosperity of the sacrifice. The sacrificial fee is a renovated chariot, a newly-sewn garment, a draught ox let loose again, for the prosperity of the re-establishing. 'Seven are thy kindling-sticks, O Agni, seven thy tongues'; (with these words) he offers the Agnihotra. Wherever there is anything of his nature, thence [4] does he win him. Now he who removes the fire is the slayer of the hero among the gods, Varuna is the exactor of the recompense; he should make an offering on eleven potsherds to Agni and Varuna; him whom he slays and him who exacts the recompense he delights with their own portion; the sacrificer is not ruined.
 ## 03
 ### a
 (Thou I art) earth in depth, sky in breadth, atmosphere in greatness;  
