@@ -3,24 +3,7 @@ title = "5 The Rekindling of the Fire"
 
 +++
 
-## 03
-### b
 
-### c
-### d
-### e
-### f
-
-### g
-### h
-### i
-### k
-### l
-
-## 04
-Pure food did not come to the earth; she [1] beheld this Mantra; then food came to her. In that he establishes the Garhapatya with the verses of the serpent queen (it serves) for the winning of food; verily he establishes it firm in the (earth). 'If thee in anger I have scattered', he says; verily he conceals it from him. 'Again thee we relight', he says; verily he kindles him all together. 'Whatever of thee scattered in rage', he says; verily by means of the deities [2] he unites him. The sacrifice of him who removes the fire is split; he pays reverence with a verse containing the word Brhaspati; Brhaspati is the holy power (Brahman) of the gods; verily by holy power (Brahman) he unites the sacrifice. 'May he unite this scattered sacrifice', he says, for continuity, 'May the All-gods rejoice herein', he says; verily continuing the sacrifice he points it out to the gods. 'Seven are thy kindling-sticks, O Agni, seven thy tongues' [3], he says, for sevenfold in seven-wise are the dear forms of Agni; verily he wins them. 'Return with strength', 'Return with wealth', (with these words) he offers oblations on either side of the sacrificial cake; verily with strength and with wealth he surrounds on either side the sacrificer. The Adityas went from this world to yonder world, they were thirsty in yonder world, having returned to this world and having established the fire, they offered these oblations; they prospered, they went to the world of heaven. He, who establishes a fire after the second establishment, should offer these oblations; be prospers with the prosperity where with the Adityas prospered.
-  
-The Reverence of the Fire
 ## 05
 ### a
 As we approach the sacrifice,  

@@ -12,6 +12,13 @@ title = "०५ आहवनीयोपस्थानमन्त्राः"
 ६ अनुष्टुप्
 
 अग्निर्ऋषिः
+
+<details><summary>Keith</summary>
+
+The Reverence of the Fire
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒प्र॒यन्तो॑ अध्व॒रम्मन्त्र॑व्ँवोचेमा॒ग्नये᳚ ।   
