@@ -6,9 +6,7 @@ title = "5 The Rekindling of the Fire"
 
 ## 05
 ### a
-As we approach the sacrifice,  
-Let us utter a hymn to Agni,  
-Who heareth us, even from afar.
+
 ### b
 After his ancient splendour,  
 The bold ones have drawn the white milk  
