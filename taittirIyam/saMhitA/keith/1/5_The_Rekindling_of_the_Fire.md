@@ -8,29 +8,11 @@ title = "5 The Rekindling of the Fire"
 
 ### c
 ### d
-With her inspiration from his expiration,  
-She wandereth between the worlds;  
-The bull discerneth the heaven.
 ### e
-If thee [1] in anger I have scattered,  
-In rage or through misfortune,  
-That of thee, O Agni, be in good order,  
-Again thee we relight.
 ### f
-Whatever of thee scattered in rage  
-Was spread over the earth,  
-That the Adityas, the All-gods  
-And the Vasus gathered together.
+
 ### g
-Mind, light, rejoice in the oblation.  
-May be unite this scattered sacrifice;  
-May Brhaspati extend it;  
-May the All-gods rejoice herein.
 ### h
-Seven are thy kindling-sticks, O Agni, seven thy tongues;  
-Seven seers [2], seven dear abodes,  
-Seven priesthoods sevenfold sacrifice to thee;  
-Seven birthplaces with ghee do thou fill.
 ### i
 Return with strength, return,  
 O Agni, with food and life;  
