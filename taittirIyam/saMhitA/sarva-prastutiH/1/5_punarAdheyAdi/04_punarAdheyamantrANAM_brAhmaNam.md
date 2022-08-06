@@ -5,10 +5,25 @@ title = "०४ पुनराधेयमन्त्राणां ब्र
 
 अग्निर्ऋषिः
 
+## सर्पसादृश्यं नवीकरणे
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+1अथ सर्पराज्ञ्यादीनां मन्त्राणां ब्राह्मणं - भूमिरित्यादि ॥ 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूमि॑र्भू॒म्ना द्यौर्व॑रि॒णेत्या॑हा॒ऽऽशिषै॒वैन॒मा ध॑त्ते ।
+भूमि॑र् भू॒म्ना द्यौर् व॑रि॒णेत्य् आ॑हा॒ऽऽशिषै॒वैन॒म् +++(अग्निम्)+++ आ ध॑त्ते ।
 </details>
+
+<details><summary>Keith</summary>
+
+'Earth in depth, sky in breadth,' he says; with this benediction he establishes it. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -17,7 +32,7 @@ title = "०४ पुनराधेयमन्त्राणां ब्र
 
 <details><summary>भट्टभास्करटीका</summary>
 
-1अथ सर्पराज्ञ्यादीनां मन्त्राणां ब्राह्मणं - भूमिरित्यादि ॥ आशिषा अन्नाद्यं प्राप्तुमिच्छया ॥
+आशिषा अन्नाद्यं प्राप्तुमिच्छया ॥
 </details>
 
 
@@ -29,8 +44,14 @@ title = "०४ पुनराधेयमन्त्राणां ब्र
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒र्पा वै जीर्य॑न्तोऽमन्यन्त ।
+स॒र्पा वै जीर्य॑न्तो ऽमन्यन्त ।
 </details>
+
+<details><summary>Keith</summary>
+
+The serpents thought that they were growing worn out; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -44,8 +65,14 @@ title = "०४ पुनराधेयमन्त्राणां ब्र
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒तङ्क॑स॒र्णीर॑ᳵ काद्रवे॒यो मन्त्र॑मपश्यत् ।
+स ए॒तङ् क॑स॒र्णीर॑ᳵ काद्रवे॒यो मन्त्र॑म् अपश्यत् ।
 </details>
+
+<details><summary>Keith</summary>
+
+Kasarnira Kadraveya beheld this Mantra; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -59,8 +86,14 @@ title = "०४ पुनराधेयमन्त्राणां ब्र
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै ते जी॒र्णास्त॒नूरपा᳚घ्नत।
+ततो॒ वै ते जी॒र्णास् त॒नूर्+++(→चर्म)+++ अपा᳚घ्नत।
 </details>
+
+<details><summary>Keith</summary>
+
+then did they strike off their worn-out skins. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -74,8 +107,15 @@ title = "०४ पुनराधेयमन्त्राणां ब्र
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्परा॒ज्ञिया॑ ऋ॒ग्भिर्गार्ह॑पत्य॒मा द॑धाति ।
+सर्प-रा॒ज्ञिया॑ ऋ॒ग्भिर् +++(भूमिर्भूम्नेत्यादिभिः)+++ गार्ह॑पत्य॒म् आ द॑धाति ।  
++++(रोहिण्या विपरीतं नक्षत्रचक्रे ज्येष्ठा, यत्परिसरे hydra-सर्पः खे। रोहिणीस्थ-विषुव-सूर्य-स्मारका हि मन्त्रास् ते।)+++
 </details>
+
+<details><summary>Keith</summary>
+
+With the verses of the queen of serpents he establishes the Garhapatya, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -89,8 +129,14 @@ title = "०४ पुनराधेयमन्त्राणां ब्र
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पु॒न॒र्न॒वमे॒वैन॑म॒जर॑ङ्कृ॒त्वाऽऽध॑त्ते ।
+पु॒न॒र् न॒वम् ए॒वैन॑म् अ॒जर॑ङ् कृ॒त्वा ऽऽध॑त्ते ।
 </details>
+
+<details><summary>Keith</summary>
+
+and so renewing it he establishes it as immortal. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -157,7 +203,7 @@ title = "०४ पुनराधेयमन्त्राणां ब्र
 
 <details><summary>भट्टभास्करटीका</summary>
 
-अथो अपिच अस्यां पृथिव्यां प्रतिष्ठितमाधत्ते । 'उपस्थे ते देवि' इति मन्त्रपदम् । +++(इदं कुत्र वर्तते मूले इति न स्पष्टम् )+++
+अथो अपिच अस्यां पृथिव्यां प्रतिष्ठितमाधत्ते । 'उपस्थे ते देवि' इति मन्त्रपदम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
