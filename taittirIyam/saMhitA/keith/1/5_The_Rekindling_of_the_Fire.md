@@ -2,22 +2,9 @@
 title = "5 The Rekindling of the Fire"
 
 +++
-
-
-## 05
-Thou, O Agni, hast attained the radiance of the sun, the praises of the Rsis, thy beloved abode.
-### s
-Thou, O Agni, hast the radiance of the sun; grant me life, radiance, and offspring.
 ## 06
-
-Offspring of Ida, connected with Manu;  
-May they all be in our house.
-### b
-Ye are water; may I share your water. Ye are greatness, may I share your greatness; ye are might, may I share your might; ye are strength, may I share your strength.
-### c
-Ye wealthy ones, stay in this place, this fold, this dwelling, this birthplace; be ye here; go not hence; be many for me [1].
 ### d
-Thou art composed of every form; enter me with strength, with lordship of kine, with increase of wealth.
+
 ### e
 May I prosper with your thousandfold prosperity; may your wealth rest in me.
 ### f
