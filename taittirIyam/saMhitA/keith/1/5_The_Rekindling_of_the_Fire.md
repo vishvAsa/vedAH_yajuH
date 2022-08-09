@@ -8,32 +8,15 @@ title = "5 The Rekindling of the Fire"
 ### e
 
 ### f
-To thee, O Agni, day by day,  
-That shinest in the darkness, with our devotion,  
-We come bearing honour.
 ### g
-Lord of the sacrifices,  
-Guardian of holy order, shining,  
-Waxing in his own horne.
 ### h
-O Agni, be of easy access to us,  
-As a father to his son;  
-Befriend us for prosperity.
 ### i
-O Agni [2] be thou our nearest,  
-Our protector, kindly, a shield;  
-Thee, O shining and most radiant one,  
-We implore for favour, for our friends;  
-Agni, bright, of bright fame,  
-Come hither in thy greatest splendour and give us wealth.
 ### k
-With strength I gaze on you; gaze on me with strength. With increase of wealth I gaze on you; gaze on me with increase of wealth.
 ### l
-Ye are food, making sweetness; kindly enter me, nourishment and drink; may I prosper with your thousandfold prosperity [3], may your wealth rest on me,
 ### m
 That excellent glory of Savitr  
 The god we meditate,  
-That be may stimulate our prayers.'
+That be may stimulate our prayers.
 ### n
 Make famous the Soma-presser,  
 O lord of prayer,  
