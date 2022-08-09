@@ -3,17 +3,6 @@ title = "5 The Rekindling of the Fire"
 
 +++
 ## 06
-### d
-
-### e
-
-### f
-### g
-### h
-### i
-### k
-### l
-### m
 ### n
 Make famous the Soma-presser,  
 O lord of prayer,  
