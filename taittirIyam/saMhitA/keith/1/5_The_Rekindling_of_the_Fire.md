@@ -6,7 +6,7 @@ title = "5 The Rekindling of the Fire"
 ### d
 
 ### e
-May I prosper with your thousandfold prosperity; may your wealth rest in me.
+
 ### f
 To thee, O Agni, day by day,  
 That shinest in the darkness, with our devotion,  
