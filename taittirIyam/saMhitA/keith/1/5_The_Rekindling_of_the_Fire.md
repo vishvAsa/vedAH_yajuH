@@ -5,64 +5,6 @@ title = "5 The Rekindling of the Fire"
 
 
 ## 05
-### a
-
-### b
-After his ancient splendour,  
-The bold ones have drawn the white milk  
-From the seer who winneth a thousand.
-### c
-Agni is the head of the sky, the height,  
-Lord of the earth here,  
-He quickeneth the seed of the waters.
-### d
-Here hath he first been established by the establishers,  
-Youngest Hotr to be invoked at the sacrifices,  
-Whom Apnavana and the Bhrgus caused to shine,  
-Bright in the woods, spreading from house to house.
-### e
-Ye twain shall be summoned, O Indra and Agni [1],  
-Ye twain shall rejoice together in the offering  
-You both, givers of food and riches,  
-You both I summon for the winning of strength.
-### f
-This is thy due place of birth,  
-Whence born thou didst shine;  
-Mount it, O Agni, knowing it,  
-And make our wealth increase.
-### g
-O Agni, thou purifiest life;  
-Do thou give food and strength to us;  
-Far away drive ill-fortune.
-### h
-O Agni, good worker, purify for us  
-Glory in good heroes,  
-Giving increase of wealth [2] to me.
-### i
-O Agni, the purifying, with thy light,  
-O god, with thy pleasant tongue,  
-Bring hither the gods and sacrifice.
-### k
-Do thou, O shining and purifying one,  
-O Agni, bring hither the gods  
-To our sacrifice and our oblation.
-### l
-Agni, of purest vows,  
-Pure sage, pure poet,  
-Shineth in purity when offering is made.
-### m
-O Agni, thy pure,  
-Bright, flaming (rays) arise,  
-Thy lights, thy flames.
-### n
-Thou art giver of life, O Agni; give me life [3]. Thou art giver of radiance, O Agni; give me radiance. Thou art guardian of the body, O Agni; guard my body.
-### o
-O Agni, whatever is deficient in my body, do thou make that good for me.
-### p
-O thou of various splendour, in safety may I reach the end of thee.
-### q
-Kindling thee may we kindle thee for a hundred winters, in radiance, strong the giver of strength, famous the giver of fame, with good heroes, the undeceived, O Agni, the deceiver of foes in the highest firmament.
-### r
 Thou, O Agni, hast attained the radiance of the sun, the praises of the Rsis, thy beloved abode.
 ### s
 Thou, O Agni, hast the radiance of the sun; grant me life, radiance, and offspring.

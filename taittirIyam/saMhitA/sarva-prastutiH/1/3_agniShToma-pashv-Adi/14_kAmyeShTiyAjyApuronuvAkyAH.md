@@ -503,11 +503,6 @@ _______
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/026/01_agne_pAvaka.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details><summary>भट्टभास्करटीका</summary>
-
-हे अग्ने पावक शोधक । 'नामन्त्रिते समानाधिकरणे' इति पूर्वस्याविद्यमानवत्त्वनिषेधात्परमामन्त्रितं निहन्यते । रोचिषा रोचनशीलया मन्द्रया श्लक्ष्णया मदनशीलया वा हे देव जिह्वया त्वदीयया वाचा वा देवानावक्षि आवह आह्वय यक्षि च यज च । उभयत्रापि लेटि 'बहुलं छन्दसि' इति शपो लुक्, तिङः परत्वाद्यक्षीति न निहन्यते, 'चादिषु च' इति द्वितीया तिङ्विभक्तिर्न निहन्यते । इष्ट्वा च देवान्यजमानस्य अभिमतं रसं सम्पादयेति भावः । 'पूत एवास्मिन्नन्नाद्यं दधाति' ` इति च ब्राह्मणम् ॥
-</details>
-
 ## पावकयागः
 
 
@@ -517,32 +512,11 @@ _______
 26तत्रैव याज्या - स नः पावकेति गायत्री ॥ 
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/agne_naH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
-स न॑ᳶ पावक दीदि॒वो  
-ऽग्ने॑ **दे॒वाꣳ इ॒हा व॑ह** ।   
-+++(क्वेति -)+++ उप॑ य॒ज्ञꣳ ह॒विश् च॑ नः ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Do thou, O shining and purifying one,  
-O Agni, bring hither the gods  
-To our sacrifice and our oblation.
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/agne_naH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details><summary>मूलम्</summary>
-
-स न॑ᳶ पावक दीदि॒वोऽग्ने॑ दे॒वाꣳ इ॒हा व॑ह ।   
-उप॑ य॒ज्ञꣳ ह॒विश्च॑ नः ॥
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-हे अग्ने पावक शोधक दीदिवः दीप्यमानः । 'छन्दसि लुङ्लङ्लिटः' इति दिवेर्लिट् 'क्वसुश्च' इति क्वसुरादेशः, 'वस्वेकाजाद्घसाम्' इति नियमादिडभावः, वलि लोपः, तुजादित्वादभ्यासस्य दीर्घ', 'उगिदचाम्' इति नुम्, 'मतुवसोः' इति रुत्वम् । स त्वं नः अस्माकमिहास्मिन्कर्मणि देवानावह । आहूय च नः अस्माकमिमं यज्ञं च हविश्च उपावह देवेभ्य उपहर देवान्प्रापयेत्वर्थः । देवानित्यस्व नकारस्य संहितायां पूर्ववद्रुत्वानुनासिकानुस्वाराः ॥
-</details>
 
 ## शुचियागः
 
