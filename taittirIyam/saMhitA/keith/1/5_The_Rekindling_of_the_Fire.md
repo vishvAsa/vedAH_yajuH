@@ -14,9 +14,6 @@ title = "5 The Rekindling of the Fire"
 ### k
 ### l
 ### m
-That excellent glory of Savitr  
-The god we meditate,  
-That be may stimulate our prayers.
 ### n
 Make famous the Soma-presser,  
 O lord of prayer,  
