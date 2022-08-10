@@ -3,16 +3,7 @@ title = "5 The Rekindling of the Fire"
 
 +++
 ## 06
-### n
-Make famous the Soma-presser,  
-O lord of prayer,  
-Even as (thou did make famous) Kaksivant Auśija.
-### o
-Never art thou barren, O Indra,  
-Never dost thou fail thy worshipper;  
-Now more and more is thy divine gift increased,  
-O bountiful one.
-### p
+
 May we set thee around us, O Agni,  
 The sage, the strong, as a fort,  
 Of daring hue, day by day  
