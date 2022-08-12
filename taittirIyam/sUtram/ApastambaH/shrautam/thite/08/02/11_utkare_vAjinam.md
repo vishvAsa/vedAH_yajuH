@@ -2,4 +2,4 @@
 title = "11 उत्करे वाजिनम्"
 
 +++
-उत्करे वाजिनम् ११
+11. He places the Vājina on the Utkara.
