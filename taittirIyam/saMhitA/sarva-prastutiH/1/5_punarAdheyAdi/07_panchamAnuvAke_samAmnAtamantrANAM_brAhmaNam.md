@@ -115,10 +115,18 @@ verily he approaches cattle and offspring and this world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निर्मू॒र्धा दि॒वᳵ क॒कुदित्या॑ह।  
-मू॒र्धान॑मे॒वैनꣳ॑ समा॒नाना᳚ङ्करोति ।   
-अथो॑ देवलो॒कादे॒व म॑नुष्यलो॒के प्रति॑ तिष्ठति ।
+"अ॒ग्निर् मू॒र्धा दि॒वᳵ क॒कुद्" इत्य् आ॑ह।  
+मू॒र्धान॑म् ए॒वैनꣳ॑ समा॒नाना᳚ङ् करोति ।   
+अथो॑ देव-लो॒काद् ए॒व +++(आरभ्य)+++ म॑नुष्य-लो॒के प्रति॑ तिष्ठति ।
 </details>
+
+<details><summary>Keith</summary>
+
+'Agni is the head of the sky, the height', he says;  
+verily he makes him the head [1] of his equals,  
+and verily from the world of the gods he rests in the world of men. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -130,11 +138,11 @@ verily he approaches cattle and offspring and this world.
 <details><summary>भट्टभास्करटीका</summary>
 
 4अग्निरिति ॥ अग्नेर्मूर्धत्वाभिधानं यजमानस्य प्राधान्यार्थम् इति ।
-अथो अपि च देवलोकादागत्य मनुष्यलोके प्रतिष्ठितो भवति ॥
+**अथो** अपि च **देवलोकाद्** आगत्य **मनुष्यलोके** प्रतिष्ठितो भवति ॥
 
 </details>
 
-
+## अ॒यम् इ॒ह प्र॑थ॒मो धा॑यि धा॒तृभि॒र्
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -143,8 +151,14 @@ verily he approaches cattle and offspring and this world.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒यमि॒ह प्र॑थ॒मो धा॑यि धा॒तृभि॒रित्या॑ह ।  
-मुख्य॑मे॒वैन॑ङ्करोति ।  
+"अ॒यम् इ॒ह प्र॑थ॒मो धा॑यि धा॒तृभि॒र्" इत्य् आ॑ह ।  
+मुख्य॑म् ए॒वैन॑ङ् करोति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'Here hath he first been established by the establishers', he says;  
+verily he makes him the principal. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -155,15 +169,24 @@ verily he approaches cattle and offspring and this world.
 
 <details><summary>भट्टभास्करटीका</summary>
 
-+++( अत्र प्रतीकं नास्ति अर्थानुसारेण मन्त्रः योजितः)+++
-5पार्थीवस्याग्नेः पश्चादभिधानात् मुखमिति प्रथमत्ववचनादग्नेः मुखमिव मुखम् ॥
+5पार्थीवस्याग्नेः पश्चाद् अभिधानात्  
+**मुखम्** इति प्रथमत्व-वचनाद्  
+अग्नेः **मुखम्** इव **मुखम्** ॥
 </details>
 
+## उ॒भा वा॑मिन्द्राग्नी आहु॒वध्या॒
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒भा वा॑मिन्द्राग्नी आहु॒वध्या॒ इत्या॒ह ।
-ओजो॒ बल॑मे॒वाव॑ रुन्धे।  
+"उ॒भा वा॑मिन्द्राग्नी आहु॒वध्या॒" इत्या॒ह ।
++++(ओजो-बलात्मकत्वाद् इन्द्राग्न्योः)+++ ओजो॒ बल॑म् ए॒वाव॑ रुन्धे।  
 </details>
+
+<details><summary>Keith</summary>
+
+'Ye twain shall be summoned, O Indra and Agni', he says;  
+verily he wins might and force. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -173,19 +196,25 @@ verily he approaches cattle and offspring and this world.
 
 <details><summary>भट्टभास्करटीका</summary>
 
-6ओजोबलात्मकत्वादिन्द्राग्न्योः ॥ +++( अत्र प्रतीकं नास्ति । अर्थानुसारेण मन्त्रः योजितः ।)+++
+6ओजो-बलात्मकत्वाद् इन्द्राग्न्योः ॥
 </details>
 
+## अ॒यन्ते᳚ योनि॑र् ऋ॒त्विय॒
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒यन्ते᳚ योनि॑र्ऋ॒त्विय॒ इत्या॑ह ।
 प॒शवो॒ वै र॒यिᳶ प॒शूने॒वाव॑ रुन्धे ।
 </details>
 
+<details><summary>Keith</summary>
+
+'This is thy due place of birth', he says; wealth is cattle; verily he wins cattle.
+</details>
+
 <details><summary>मूलम्</summary>
 
-अ॒यन्ते᳚ योनि॑र्ऋ॒त्विय॒ इत्या॑ह ।
-प॒शवो॒ वै र॒यिᳶ प॒शूने॒वाव॑ रुन्धे ।
+"अ॒यन्ते᳚ योनि॑र् ऋ॒त्विय॒" इत्या॑ह ।
+प॒शवो॒ वै र॒यिᳶ - प॒शून् ए॒वाव॑ रुन्धे ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
