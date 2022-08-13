@@ -328,7 +328,7 @@ at the end of the year he pays reverence with (verses) containing the words Agni
 संवत्सरस्येत्यादि । 'अग्न आयूंषि पवसे' इत्येताभिः षड्भिः संवत्सरेर्सवत्सरे उपतिष्ठते । 'देवताद्वन्द्वे च' इत्युभयपदवृद्धिः उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वम् ॥
 </details>
 
-
+## उपस्थान-महत्त्वम्
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -338,43 +338,83 @@ at the end of the year he pays reverence with (verses) containing the words Agni
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु॒न॒र्न॒वम् ए॒वैन॑म् अ॒जर॑ङ् करो॒ति ।  
-अथो॑ पु॒नात्य् ए॒वोप॑ तिष्ठते ।  
-योग॑ ए॒वास्यै॒ष उप॑ तिष्ठते ।
+अथो॑ पु॒नात्य् ए॒व। 
 </details>
+
+<details><summary>Keith</summary>
+
+Verily he renews it and makes it unageing, and also purifies it.  
+He pays reverence; that is his union. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 पु॒न॒र्न॒वमे॒वैन॑म॒जर॑ङ्करो॒ति ।  
-अथो॑ पु॒नात्ये॒वोप॑ तिष्ठते ।  
-योग॑ ए॒वास्यै॒ष उप॑ तिष्ठते ।
+अथो॑ पु॒नात्ये॒व।  
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-10पुनर्नवमित्यादि ॥ आयुरादिलाभात् । अथो अपिच पुनात्येवाग्निं जरया नाभिभूयते, पवमानस्यायं महिमेति ।  
-उपतिष्ठते योग एवास्यैष उपतिष्ठत इति । यत् एषोग्निः योगस्संश्लेषस्सम्पद्यते । यत्रायुरादीनि स्वयमेव सम्पद्यन्त इति उपतिष्ठत इति यत् इदमग्नेरुपस्थानम् ।
+10पुनर्नवमित्यादि ॥ आयुरादिलाभात् । **अथो** अपिच **पुनात्य्** एवाग्निं जरया नाभिभूयते, पवमानस्यायं महिमेति ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दम॑ ए॒वास्यै॒ष उप॑ तिष्ठते।
+उप॑ तिष्ठते॒ योग॑ ए॒वास्यै॒ष। 
 </details>
+
+<details><summary>Keith</summary>
+
+He pays reverence; that is his union. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-दम॑ ए॒वास्यै॒ष उप॑ तिष्ठते।
+उप॑ तिष्ठते॒ योग॑ ए॒वास्यै॒ष।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-इदं दम एवास्यैष क्रियते । दमो निबन्ध[द्ध]स्तुतिकरपदैर्विधेयीकर्णम् । यथास्मै अभीष्टमकृत्वा स्थातुमपि न शक्नोति तथैनं दमयति । 'अग्निश्शुचिव्रततमश्शुचिर्विप्रश्शुचिः कविः' इत्यादि । उपतिष्ठत इति । उपस्थानव्याजेन स्वाभिमतानग्निं याचते 'आयूंषि पवस्व, ऊर्जमिषं चासुव, दुच्छुनां दूरे बाधस्व' इति ।
+**उपतिष्ठते योग** एवास्यैष उपतिष्ठत इति । यद् एषो ऽग्निः **योगस्** संश्लेषस् सम्पद्यते । यत्रायुर्-आदीनि स्वयमेव सम्पद्यन्त इति उपतिष्ठत इति यत् इदमग्नेरुपस्थानम् ।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उप॑ तिष्ठते॒ - दम॑ ए॒वास्यै॒ष।
+</details>
+
+<details><summary>Keith</summary>
+
+He pays reverence [3]; that is his bond. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उप॑ तिष्ठते॒ दम॑ ए॒वास्यै॒ष।
+</details>
+
+<details><summary>भट्टभास्करटीका</summary>
+
+इदं **दम एवास्यैष** क्रियते । दमो निबन्ध[द्ध]स्तुतिकरपदैर्विधेयीकर्णम् । यथास्मै अभीष्टमकृत्वा स्थातुमपि न शक्नोति तथैनं दमयति । 'अग्निश्शुचिव्रततमश्शुचिर्विप्रश्शुचिः कविः' इत्यादि । उपतिष्ठत इति । उपस्थानव्याजेन स्वाभिमतानग्निं याचते 'आयूंषि पवस्व, ऊर्जमिषं चासुव, दुच्छुनां दूरे बाधस्व' इति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या॒च्ञैवास्यै॒षोप॑ तिष्ठते ।  
-यथा॒ पापी॑या॒ञ्छ्रेय॑स आ॒हृत्य॑ नम॒स्यति॑ ता॒दृगे॒व तत् ।
+उप॑ तिष्ठते - या॒च्ञैवास्यै॒ष।  
+यथा॒ पापी॑या॒ञ् छ्रेय॑स आ॒हृत्य॑ नम॒स्यति॑ - ता॒दृगे॒व तत् ।
 </details>
+
+<details><summary>Keith</summary>
+
+He pays reverence; that is his appeal.  
+He pays reverence; that is as if an inferior brings (something) to a superior and pays him honour. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -388,7 +428,7 @@ at the end of the year he pays reverence with (verses) containing the words Agni
 </details>
 
 
-
+## यजूंषि
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॑यु॒र्दा अ॑ग्ने॒ऽस्यायु॑र्मे दे॒हीत्या॑हाऽऽयु॒र्दा ह्ये॑ष व॑र्चो॒दा अ॑ग्नेऽसि॒ वर्चो॑ मे दे॒हीत्या॑ह वर्चो॒दा ह्ये॑ष त॑नू॒पा अ॑ग्नेऽसि त॒नुव॑म्मे पा॒हीत्या॑ह [28] तनू॒पा ह्ये॑षोऽग्ने॒  यन्मे॑ त॒नुवा॑ ऊ॒नन्तन्म॒ आ पृ॒णेत्या॑ह 
@@ -396,13 +436,20 @@ at the end of the year he pays reverence with (verses) containing the words Agni
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒यु॒र्धा अ॑ग्ने॒ऽस्यायु॑र्मे दे॒हीत्या॑ह।  
+आ॒यु॒र्दा अ॑ग्ने॒ऽस्यायु॑र्मे दे॒हीत्या॑ह।  
 आयु॒र्दा ह्ये॑षः ।  
 व॒र्चो॒दा अ॑ग्नेऽसि॒ वर्चो॑ मे दे॒हीत्या॑ह ।   
 व॒र्चो॒दा ह्ये॑षः।    
 त॒नू॒पा अ॑ग्नेऽसि त॒नुव॑म्मे पा॒हीत्या॑ह ।    
 त॒नू॒पा ह्ये॑षः ।   
-अग्ने॒ यन्मे॑ त॒नुवा॑ ऊ॒नन्तन्म॒ आ पृ॒णेत्या॑ह।
+</details>
+
+<details><summary>Keith</summary>
+
+'Thou art giver of life, O Agni; give me life', he says, for he is a giver of life. 
+  
+'Thou art giver of radiance, O Agni; give me radiance', he says, for he is a giver of radiance.  
+I Thou art guardian of the body, O Agni; guard my body', he says [4], for he is a guardian of the body.  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -413,7 +460,6 @@ at the end of the year he pays reverence with (verses) containing the words Agni
 व॒र्चो॒दा ह्ये॑षः।    
 त॒नू॒पा अ॑ग्नेऽसि त॒नुव॑म्मे पा॒हीत्या॑ह ।    
 त॒नू॒पा ह्ये॑षः ।   
-अग्ने॒ यन्मे॑ त॒नुवा॑ ऊ॒नन्तन्म॒ आ पृ॒णेत्या॑ह।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -423,14 +469,21 @@ at the end of the year he pays reverence with (verses) containing the words Agni
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन्मे᳚ प्र॒जायै॑ पशू॒नामू॒नन्तन्म॒ आ पू॑र॒येति॒ वावैतदा॑ह ।   
-चित्रा॑वसो स्व॒स्ति ते॑ पा॒रम॑शी॒येत्या॑ह।
+अग्ने॒ यन्मे॑ त॒नुवा॑ ऊ॒नन् तन्म॒ आ पृ॒णेत्या॑ह।
+यन् मे᳚ प्र॒जायै॑ पशू॒नाम् ऊ॒नन् - तन् म॒ आ पू॑र॒येति॒ वावैतदा॑ह ।   
 </details>
+
+<details><summary>Keith</summary>
+
+'O Agni, whatever is deficient in my body, do thou make that good for me', he says.  
+'whatever is deficient in my offspring and cattle, do thou make that good for me', he says in effect.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
+अग्ने॒ यन्मे॑ त॒नुवा॑ ऊ॒नन् तन्म॒ आ पृ॒णेत्या॑ह।
 यन्मे᳚ प्र॒जायै॑ पशू॒नामू॒नन्तन्म॒ आ पू॑र॒येति॒ वावैतदा॑ह ।   
-चित्रा॑वसो स्व॒स्ति ते॑ पा॒रम॑शी॒येत्या॑ह।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -443,20 +496,31 @@ at the end of the year he pays reverence with (verses) containing the words Agni
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
+चित्रा॑वसो स्व॒स्ति ते॑ पा॒रम॑शी॒येत्या॑ह।
 रात्रि॒र्वै चि॒त्राव॑सु॒रव्यु॑ष्ट्यै॒ वा
 ए॒तस्यै॑ पु॒रा ब्रा᳚ह्म॒णा अ॑भैषु॒र्व्यु॑ष्टिमे॒वाव॑ रुन्धे 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रात्रि॒र्वै चि॒त्राव॑सु॒रव्यु॑ष्ट्यै॒ वा ।  
-ए॒तस्यै॑ पु॒रा ब्रा᳚ह्म॒णा अ॑भैषुः ।
-
-व्यु॑ष्टिमे॒वाव॑ रुन्धे।  
+चित्रा॑वसो स्व॒स्ति ते॑ पा॒रम् अ॑शी॒येत्या॑ह।  
+रात्रि॒र् वै चि॒त्राव॑सुः।  
+अ-व्यु॑ष्ट्यै॒+++(←उष्)+++ वा ए॒तस्यै॑ पु॒रा ब्रा᳚ह्म॒णा अ॑भैषुः +++(उत्तरहिमवृत्ते वसन्तः)+++।+++(5)+++  
+व्यु॑ष्टिम् ए॒वाव॑ रुन्धे।  
 </details>
+
+<details><summary>Keith</summary>
+
+'O thou of various splendour, in safety may I reach the end of thee', he says;  
+that of various splendour is the night.  
+The Brahmans aforetime feared its not dawning;  
+verily he wins the dawn. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
+चित्रा॑वसो स्व॒स्ति ते॑ पा॒रम॑शी॒येत्या॑ह।  
 रात्रि॒र्वै चि॒त्राव॑सु॒रव्यु॑ष्ट्यै॒ वा ।  
 ए॒तस्यै॑ पु॒रा ब्रा᳚ह्म॒णा अ॑भैषुः ।
 
@@ -477,17 +541,21 @@ at the end of the year he pays reverence with (verses) containing the words Agni
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्धा॑नास्त्वा श॒तम् [29] हिमा॒ इत्या॑ह ।
- +++(अत्र इन्धाना इत्यारभ्य मन्त्रः निर्दिष्टः । इन्धाना इत्ययं अत्रैव सम्बध्यते वा  नवेति परिशीलनीयम्)+++   
-
-श॒तायु॒ᳶ पुरु॑षश्श॒तेन्द्रि॑य॒ आयु॑ष्ये॒वेन्द्रि॒ये प्रति॑ तिष्ठति ।
+इन्धा॑नास् त्वा श॒तम् [29] हिमा॒ इत्या॑ह ।  
+श॒तायु॒ᳶ पुरु॑षश् श॒तेन्द्रि॑य॒ - आयु॑ष्य् ए॒वेन्द्रि॒ये प्रति॑ तिष्ठति ।
 </details>
 
+<details><summary>Keith</summary>
+
+'Kindling thee for a hundred winters' [5], he says;  
+man lives a hundred years and has a hundred powers;  
+verily he rests on life and power. 
+</details>
+
+## इन्धा॑नास्त्वा श॒तम्
 <details><summary>मूलम्</summary>
 
-इन्धा॑नास्त्वा श॒तम् [29] हिमा॒ इत्या॑ह ।
- +++(अत्र इन्धाना इत्यारभ्य मन्त्रः निर्दिष्टः । इन्धाना इत्ययं अत्रैव सम्बध्यते वा  नवेति परिशीलनीयम्)+++   
-
+इन्धा॑नास्त्वा श॒तम् [29] हिमा॒ इत्या॑ह ।  
 श॒तायु॒ᳶ पुरु॑षश्श॒तेन्द्रि॑य॒ आयु॑ष्ये॒वेन्द्रि॒ये प्रति॑ तिष्ठति ।
 </details>
 
@@ -498,17 +566,18 @@ at the end of the year he pays reverence with (verses) containing the words Agni
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒षा वै सू॒र्मी कर्ण॑कावती ...
+ए॒षा +++(ऋग्)+++ वै सू॒र्मी+++(=लोह-स्थूणा)+++ कर्ण॑कावती+++(=कण्टकवती)+++। 
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒षा वै सू॒र्मी कर्ण॑कावती ...
+ए॒षा वै सू॒र्मी कर्ण॑कावती। 
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-एषा वा इत्यादि । ज्वलन्ती लोहमयी स्थूणा सूर्मी । गौरादित्वान्ङीष् । कर्णकावती अन्तस्सुषिरवती अन्तर्बहिश्च ज्वलन्तीत्यर्थः । सांहितिकं दीर्घत्वम् । तत्सदृशा ऋगित्यर्थः ।
+**एषा वा** इत्यादि । ज्वलन्ती लोहमयी स्थूणा **सूर्मी** । गौरादित्वान्ङीष् ।  
+**कर्णकावती** - अन्तस् सुषिरवती अन्तर् बहिश्च ज्वलन्तीत्यर्थः । सांहितिकं दीर्घत्वम् । तत्-सदृशा ऋग् इत्यर्थः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

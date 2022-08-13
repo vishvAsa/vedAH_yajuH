@@ -628,7 +628,7 @@ O Agni, lord of the house, through thee as lord of the house, may I be a good lo
 
 For a hundred winters, this blessing I invoke,  
 bringing light for the race; this blessing I invoke,  
-bringing light for N. N.
+bringing light for N. N.+++(= nomina / names)+++
 </details>
 
 
