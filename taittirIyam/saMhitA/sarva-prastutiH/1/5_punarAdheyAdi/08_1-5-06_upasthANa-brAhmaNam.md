@@ -283,7 +283,7 @@ he pays reverence to the Garhapatya; verily he rests on this world, and also he 
 </details>
 
 
-
+### गायत्र्यः
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 गाय॒त्रीभि॒रुप॑ तिष्ठते॒ तेजो॒ वै गा॑य॒त्री तेज॑ ए॒वात्मन्ध॒त्तेऽथो॒ यदे॒तन्तृ॒चम॒न्वाह॒ सन्त॑त्यै 
@@ -291,38 +291,39 @@ he pays reverence to the Garhapatya; verily he rests on this world, and also he 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गा॒य॒त्रीभि॒रुप॑  तिष्ठते ।  
+गा॒य॒त्रीभि॒र् उप॑  तिष्ठते ।  
+तेजो॒ वै गा॑य॒त्री - तेज॑ ए॒वात्मन् ध॑त्ते ।
 </details>
+
+<details><summary>Keith</summary>
+
+He pays reverence with Gayatri verses;
+the Gayatri is brilliance; verily he confers brilliance upon himself; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 गा॒य॒त्रीभि॒रुप॑  तिष्ठते ।  
+तेजो॒ वै गा॑य॒त्री - तेज॑ ए॒वात्मन् ध॑त्ते ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
 10गायत्रीभिरिति ॥ 'उप त्वाग्ने दिवेदिवे' इत्येताभिस्तिसृभिः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तेजो॒ वै गा॑य॒त्री तेज॑ ए॒वात्मन्ध॑त्ते ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-तेजो॒ वै गा॑य॒त्री तेज॑ ए॒वात्मन्ध॑त्ते ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
 तेजो वा इति । पूर्ववत्ताच्छब्द्यम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ यदे॒तन्तृ॒चम॒न्वाह॒ सन्त॑त्यै।
+अथो॒ यद् ए॒तन् तृ॒चम् अ॒न्वाह॒ - सन्त॑त्यै +++(तत्)+++।
 </details>
+
+<details><summary>Keith</summary>
+
+moreover in that he repeats the triad (of verses), (it serves) for continuity. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -334,7 +335,7 @@ he pays reverence to the Garhapatya; verily he rests on this world, and also he 
 अथो अपि च एतस्य तृचस्यानुवचनं सन्तत्यै भवति । 'पितेव सूनवे' इति च मन्त्रपदम् । 'तादो च' इति गतेः प्रकृतिस्वरत्वम् । तिस्र ऋचस्समाहृताः । 'ऋक्पूरब्धूः' इति समासान्तः, 'ऋचि त्रेरुत्तरपदादिलोपश्च' इति सम्प्रसारणम् ॥
 </details>
 
-
+### द्विपदाः
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -343,32 +344,26 @@ he pays reverence to the Garhapatya; verily he rests on this world, and also he 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गार्ह॑पत्य॒व्ँवा अनु॑ द्वि॒पादो॑ वी॒राᳶ प्र जा॑यन्ते॒ य ए॒वव्ँवि॒द्वान्।
+गार्ह॑पत्य॒व्ँ वा अनु॑ द्वि॒पादो॑ वी॒राᳶ प्र जा॑यन्ते।  
+य ए॒व व्ँवि॒द्वान् द्वि॒पदा॑भि॒र् गार्ह॑पत्यम् उप॒तिष्ठ॑ते॒ -  
+आऽस्य॑ वी॒रो जा॑यते ।
 </details>
+
+<details><summary>Keith</summary>
+
+Because of the Garhapatya men are born with two feet; to him who knowing thus pays reverence to the Garhapatya with (verses) of two feet [3], a hero son is born. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-गार्ह॑पत्य॒व्ँवा अनु॑ द्वि॒पादो॑ वी॒राᳶ प्र जा॑यन्ते॒ य ए॒वव्ँवि॒द्वान्।
+गार्ह॑पत्य॒व्ँवा अनु॑ द्वि॒पादो॑ वी॒राᳶ प्र जा॑यन्ते॒ य ए॒वव्ँवि॒द्वान् द्वि॒पदा॑भि॒र् गार्ह॑पत्यम् उप॒तिष्ठ॑ते॒ -  
+आऽस्य॑ वी॒रो जा॑यते ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
 11गार्हपत्यं वा इत्यादि ॥ लक्षणेऽनोः कर्मप्रवचनीयत्वम् । द्विपाद इति । 'सङ्ख्या सुपूर्वस्य' इति लोपस्समासान्तः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-द्वि॒पदा॑भि॒र्गार्ह॑पत्यमुप॒तिष्ठ॑ते ।  
-आऽस्य॑ वी॒रो जा॑यते ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-द्वि॒पदा॑भि॒र्गार्ह॑पत्यमुप॒तिष्ठ॑ते ।  
-आऽस्य॑ वी॒रो जा॑यते ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
 
 द्विपदाभिरिति । 'अग्ने त्वं नः' इति तिसृभिर्द्विपदाभिर्विराड्गायत्रीभिरिति । पूर्ववत्समासान्तः, 'टावृचि' इति टापि, 'पादः पत्' इति पद्भावः, 'द्वित्रिभ्यां पाद्दन्' इत्युभयत्राप्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
@@ -382,10 +377,15 @@ he pays reverence to the Garhapatya; verily he rests on this world, and also he 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्जा व॑ᳶ पश्यामि ।  
-ऊ॒र्जा मा॑ पश्य॒तेत्या॑ह ।  
-आ॒शिष॑मे॒वैतामा शा᳚स्ते  ।
+"ऊ॒र्जा व॑ᳶ पश्यामि, ऊ॒र्जा मा॑ पश्य॒ते"त्या॑ह ।  
+आ॒शिष॑म् ए॒वैताम् आ शा᳚स्ते  ।
 </details>
+
+<details><summary>Keith</summary>
+
+'With strength I gaze upon you; gaze on me with strength', he says; verily he invokes this blessing. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
