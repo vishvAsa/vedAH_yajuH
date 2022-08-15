@@ -167,13 +167,19 @@ verily he makes cattle stay with himself.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒हैव स्ते॒तो माऽप॑ गा॒तेत्या॑ह ।
-ध्रु॒वा ए॒वैना॒ अन॑पगाᳵ कुरुतम् ।
+ध्रु॒वा ए॒वैना॒ अन॑पगाᳵ कुरुते ।
 </details>
+
+<details><summary>Keith</summary>
+
+'Be ye here; go not hence', he says; verily he makes them constant, departing not. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इ॒हैव स्ते॒तो माऽप॑ गा॒तेत्या॑ह ।
-ध्रु॒वा ए॒वैना॒ अन॑पगाᳵ कुरुतम् ।
+ध्रु॒वा ए॒वैना॒ अन॑पगाᳵ कुरुते ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -190,12 +196,20 @@ verily he makes cattle stay with himself.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ष्ट॒क॒॒चिद्वा अ॒न्यो᳚ऽग्निः ।  
-प॒शु॒चिद॒न्यः ।  
-स॒ꣳ॒हि॒तासि॑ विश्वरू॒पीरिति॑ व॒थ्सम॒भि मृ॑श॒ति ।  
-उपै॒वैन॑न्धत्ते।  
-प॒शु॒चित॑मेनङ्कुरुते ।
+इ॒ष्ट॒क॒॒चिद् वा अ॒न्यो᳚ ऽग्निः ।  
+प॒शु॒चिद् अ॒न्यः  +++(अग्निः)+++।  
+"स॒ꣳ॒हि॒तासि॑ विश्वरू॒पीर्" इति॑ व॒थ्सम् अ॒भि मृ॑श॒ति ।  
+उपै॒वैन॑न् धत्ते।  
+प॒शु॒चित॑म् एनङ् +++(अग्निं)+++ कुरुते ।
 </details>
+
+<details><summary>Keith</summary>
+
+Now one fire is piled with bricks, one with cattle.  
+'Thou art composed Of every form', (with these words) he strokes the calf;  
+verily he piles it up and makes it piled with cattle. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -208,11 +222,13 @@ verily he makes cattle stay with himself.
 
 <details><summary>भट्टभास्करटीका</summary>
 
-8इष्टकचिदित्यादि ॥ इष्टकाभिश्चीयत एकोऽग्निः । 'इष्टकेषीकामालानाम्' इति ह्रस्वत्वम् । पशुभिरेकोग्निश्चीयते । तत्र 'संहिता' इति मन्त्रेणाग्निहोत्रीवत्सस्याभिमर्शनेन उपधानस्थानीयेन एवं वत्समुपधत्ते । पशुचितमेनमग्निं कर्वाणो भवति ॥
+8इष्टकचिदित्यादि ॥ इष्टकाभिश् चीयत एको **ऽग्निः** । 'इष्टकेषीकामालानाम्' इति ह्रस्वत्वम् । 
+
+पशुभिर् एको ऽग्निश् चीयते । तत्र 'संहिता' इति मन्त्रेणाग्निहोत्रीवत्सस्याभिमर्शनेन उपधान-स्थानीयेन एवं वत्सम् उपधत्ते । पशुचितम् एनमग्निं कर्वाणो भवति ॥
 </details>
 
 
-
+## गार्हपत्यम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र [32]वा ए॒षो᳚ऽस्माल्लो॒काच्च्य॑वते॒ य आ॑हव॒नीय॑मुप॒तिष्ठ॑ते॒ गार्ह॑पत्य॒मुप॑ तिष्ठते॒ऽस्मिन्ने॒व लो॒के प्रति॑ तिष्ठ॒त्यथो॒ गार्ह॑पत्यायै॒व नि ह्नु॑ते  
@@ -220,13 +236,19 @@ verily he makes cattle stay with himself.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र वा ए॒षो᳚ऽस्माल्लो॒काच्च्य॑वते ।  
+प्र वा ए॒षो᳚ ऽस्माल् लो॒काच् च्य॑वते॒  
 य आ॑हव॒नीय॑मुप॒तिष्ठ॑ते ।  
 </details>
 
+<details><summary>Keith</summary>
+
+He falls away [2] from this world who pays reverence to the Ahavaniya; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-प्र वा ए॒षो᳚ऽस्माल्लो॒काच्च्य॑वते ।  
+प्र वा ए॒षो᳚ऽस्माल्लो॒काच्च्य॑वते॒  
 य आ॑हव॒नीय॑मुप॒तिष्ठ॑ते ।  
 </details>
 
@@ -238,13 +260,21 @@ verily he makes cattle stay with himself.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गार्ह॑पत्य॒मुप॑ तिष्ठते ।  
-अ॒स्मिन्ने॒व लो॒के प्रति॑ तिष्ठति ।
+अ॒स्मिन्न् ए॒व लो॒के प्रति॑ तिष्ठति ।  
+अथो॒ गार्ह॑पत्यायै॒व नि ह्नु॑ते +++(आहवनीय-वन्दनेनोपेक्षाम्)+++।
 </details>
+
+<details><summary>Keith</summary>
+
+he pays reverence to the Garhapatya; verily he rests on this world, and also he makes amends to the Garhapatya.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 गार्ह॑पत्य॒मुप॑ तिष्ठते ।  
-अ॒स्मिन्ने॒व लो॒के प्रति॑ तिष्ठति ।
+अ॒स्मिन्ने॒व लो॒के प्रति॑ तिष्ठति ।  
+अथो॒ गार्ह॑पत्यायै॒व नि ह्नु॑ते ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -256,18 +286,16 @@ verily he makes cattle stay with himself.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अथो॒ गार्ह॑पत्यायै॒व नि ह्नु॑ते गाय॒त्रीभि॒रुप॑ तिष्ठते॒ तेजो॒ वै गा॑य॒त्री तेज॑ ए॒वात्मन्ध॒त्तेऽथो॒ यदे॒तन्तृ॒चम॒न्वाह॒ सन्त॑त्यै 
+गाय॒त्रीभि॒रुप॑ तिष्ठते॒ तेजो॒ वै गा॑य॒त्री तेज॑ ए॒वात्मन्ध॒त्तेऽथो॒ यदे॒तन्तृ॒चम॒न्वाह॒ सन्त॑त्यै 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ गार्ह॑पत्यायै॒व नि ह्नु॑ते ।  
 गा॒य॒त्रीभि॒रुप॑  तिष्ठते ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-अथो॒ गार्ह॑पत्यायै॒व नि ह्नु॑ते ।  
 गा॒य॒त्रीभि॒रुप॑  तिष्ठते ।  
 </details>
 
