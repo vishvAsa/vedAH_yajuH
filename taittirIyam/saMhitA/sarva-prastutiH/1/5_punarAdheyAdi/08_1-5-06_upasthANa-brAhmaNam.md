@@ -377,7 +377,7 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ऊ॒र्जा व॑ᳶ पश्यामि, ऊ॒र्जा मा॑ पश्य॒ते"त्या॑ह ।  
+"ऊ॒र्जा व॑ᳶ पश्याम्य्, ऊ॒र्जा मा॑ पश्य॒ते"त्या॑ह ।  
 आ॒शिष॑म् ए॒वैताम् आ शा᳚स्ते  ।
 </details>
 
@@ -389,8 +389,7 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 
 <details><summary>मूलम्</summary>
 
-ऊ॒र्जा व॑ᳶ पश्यामि ।  
-ऊ॒र्जा मा॑ पश्य॒तेत्या॑ह ।  
+ऊ॒र्जा व॑ᳶ पश्याम्यू॒र्जा मा॑ पश्य॒तेत्या॑ह ।  
 आ॒शिष॑मे॒वैतामा शा᳚स्ते  ।
 </details>
 
@@ -424,7 +423,7 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॒मान॒ꣵ॒ स्वर॑ण॒मित्या॑ह ।  
+सो॒मान॒ꣵ॒ स्वर॑ण॒म् इत्या॑ह ।  
 सोमपी॒थमे॒वाव॑ रुन्धे ।  
 </details>
 
