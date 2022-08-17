@@ -4,7 +4,7 @@ title = "२० ०१ उत्तरया"
 +++
 उत्तरया दक्षिणस्याम् ईशानम् आवाहयति १  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
 <details open><summary><h2>१० आ त्वा ...{Loading}...</h2></summary>
 
 

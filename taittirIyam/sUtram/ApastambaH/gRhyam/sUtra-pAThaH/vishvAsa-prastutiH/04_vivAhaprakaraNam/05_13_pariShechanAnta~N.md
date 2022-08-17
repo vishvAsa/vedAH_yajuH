@@ -4,7 +4,7 @@ title = "०५ १३ परिषेचनान्तङ्"
 +++
 +++(=प्र त्वा मुञ्चामीति)+++ योक्त्रं विमुच्य, तां ततः प्र वा वाहयेत् +++(=रथादिभिर्नयनं)+++, प्र वा हारयेत् +++(=मनुष्यवाह्येन शिबिकादिना नयनम्)+++ ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/16_pra_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/16_pra_tvA.md">
 <details open><summary><h2>१६ प्र त्वा ...{Loading}...</h2></summary>
 
 प्र त्वा॑ मुञ्चामि॒ वरु॑णस्य॒ पाशा॒द् +++(योक्त्र-विमोकेन)+++  
@@ -15,7 +15,7 @@ title = "०५ १३ परिषेचनान्तङ्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/17_imaM_viShyAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/17_imaM_viShyAmi.md">
 <details open><summary><h2>१७ इमं विष्यामि ...{Loading}...</h2></summary>
 
 इ॒मं विष्या॑मि॒+++(=विस्रंसयामि)+++ वरु॑णस्य॒ पाशं॒  

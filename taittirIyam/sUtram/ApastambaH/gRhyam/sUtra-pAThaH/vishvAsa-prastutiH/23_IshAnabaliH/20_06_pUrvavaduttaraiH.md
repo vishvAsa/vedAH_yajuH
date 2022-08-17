@@ -4,7 +4,7 @@ title = "२० ०६ पूर्ववदुत्तरैः "
 +++
 पूर्ववद् उत्तरैः ६  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/42_-45_dvArApopaspRsha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/42_-45_dvArApopaspRsha.md">
 <details open><summary><h2>३३ -४५ गृहपोपस्पृश गृहपाय ...{Loading}...</h2></summary>
 
 - द्वा॒रा॒पोप॑स्पृश। द्वारा॒पाय॒ स्वाहा॑ ।  

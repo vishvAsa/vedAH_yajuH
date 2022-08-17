@@ -6,7 +6,7 @@ title = "०६ ११ अथास्याः पुँस्वोर्ज�
 
 __________________
 +++(अथ या पुमांसमेव सूतवती जीवपुत्रा च, तस्याः पुत्रं वध्वा अङ्के उपवेशयति।)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/02_somenAdityA_balinassomena.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/02_somenAdityA_balinassomena.md">
 <details open><summary><h2>०२ सोमेनादित्या बलिनस्सोमेन ...{Loading}...</h2></summary>
 
 
@@ -21,7 +21,7 @@ __________________
 
 __________________
 +++(तस्मै फलानि प्रयच्छति)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/03_pra_svassthaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/03_pra_svassthaH.md">
 <details open><summary><h2>०३ प्र स्वस्स्थः ...{Loading}...</h2></summary>
 
 ### मन्त्रः
@@ -34,9 +34,9 @@ __________________
 
 __________________
 +++(उत्तरे जपति)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/04_iha_priyam.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/04_iha_priyam.md">
 <details open><summary><h2>०४ इह प्रियम् ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/27_iha_priyaM.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/27_iha_priyaM.md">
 <details open=""><summary><h4>२७ इह प्रियं ...{Loading}...</h4></summary>
 
 
@@ -54,9 +54,9 @@ __________________
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/05_sumangalIriyaM_vadhUrimAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/05_sumangalIriyaM_vadhUrimAm.md">
 <details open><summary><h2>०५ सुमङ्गलीरियं वधूरिमाम् ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/33_sumangalIriyaM_vadhUrimAM.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/33_sumangalIriyaM_vadhUrimAM.md">
 <details open=""><summary><h4>३३ सुमङ्गलीरियं वधूरिमां ...{Loading}...</h4></summary>
 
 

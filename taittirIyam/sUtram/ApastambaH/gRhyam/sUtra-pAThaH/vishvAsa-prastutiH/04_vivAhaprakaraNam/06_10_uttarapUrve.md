@@ -4,7 +4,7 @@ title = "०६ १० उत्तरपूर्वे"
 +++
 उत्तरपूर्वे देशे ऽगारस्याग्नेर् उपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायाम् उत्तरा +++(="आगन्गोष्ठ"मित्याद्याः, लिङ्गविरोधे सत्यपि वर एव जुहोति, विधेर्बलीयस्त्वात् )+++ आहुतीर् हुत्वा जयादि प्रतिपद्यते  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/03_AgangoShTham_mahiShI.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/03_AgangoShTham_mahiShI.md">
 <details open><summary><h2>०३ आगन्गोष्ठम् महिषी ...{Loading}...</h2></summary>
 
 
@@ -18,7 +18,7 @@ title = "०६ १० उत्तरपूर्वे"
 
 +++(पुरा हिमवदृतुभिर् वर्षाणि गण्यन्ते स्मेति विस्मयः।)+++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/04_ayamagnirgRhapatissusaMsatpuShTivarddhanaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/04_ayamagnirgRhapatissusaMsatpuShTivarddhanaH.md">
 <details open><summary><h2>०४ अयमग्निर्गृहपतिस्सुसंसत्पुष्टिवर्द्धनः ...{Loading}...</h2></summary>
 
 
@@ -29,7 +29,7 @@ title = "०६ १० उत्तरपूर्वे"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/05_prajAyA_AbhyAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/05_prajAyA_AbhyAm.md">
 <details open><summary><h2>०५ प्रजाया आभ्याम् ...{Loading}...</h2></summary>
 
 
@@ -40,12 +40,12 @@ title = "०६ १० उत्तरपूर्वे"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/06_tena_bhUtena.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/06_tena_bhUtena.md">
 <details open><summary><h2>०६ तेन भूतेन ...{Loading}...</h2></summary>
 
 ### मन्त्रः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/01_tena_bhUtena.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/01_tena_bhUtena.md">
 <details open=""><summary><h4>०१ तेन भूतेन ...{Loading}...</h4></summary>
 
 
@@ -58,7 +58,7 @@ title = "०६ १० उत्तरपूर्वे"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/07_abhivarddhatAm_payasA-bhi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/07_abhivarddhatAm_payasA-bhi.md">
 <details open><summary><h2>०७ अभिवर्द्धताम् पयसाऽभि ...{Loading}...</h2></summary>
 
 
@@ -69,7 +69,7 @@ title = "०६ १० उत्तरपूर्वे"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/08_ihaiva_stam.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/08_ihaiva_stam.md">
 <details open><summary><h2>०८ इहैव स्तम् ...{Loading}...</h2></summary>
 
 
@@ -79,7 +79,7 @@ title = "०६ १० उत्तरपूर्वे"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/09_dhruvaidhi_poShyA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/09_dhruvaidhi_poShyA.md">
 <details open><summary><h2>०९ ध्रुवैधि पोष्या ...{Loading}...</h2></summary>
 
 
@@ -90,7 +90,7 @@ title = "०६ १० उत्तरपूर्वे"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/10_tvaShTA_jAyAmajanayat.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/10_tvaShTA_jAyAmajanayat.md">
 <details open><summary><h2>१० त्वष्टा जायामजनयत् ...{Loading}...</h2></summary>
 
 
@@ -102,9 +102,9 @@ title = "०६ १० उत्तरपूर्वे"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/11_-15_imam_me.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/11_-15_imam_me.md">
 <details open><summary><h2>११ -१५ इमम् मे ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open=""><summary><h4>१९ इमं मे ...{Loading}...</h4></summary>
 
 इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
@@ -113,7 +113,7 @@ title = "०६ १० उत्तरपूर्वे"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
 <details open=""><summary><h4>११ तत्त्वा यामि ...{Loading}...</h4></summary>
 
 
@@ -124,7 +124,7 @@ title = "०६ १० उत्तरपूर्वे"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
 <details open=""><summary><h4>०४ त्वं नो ...{Loading}...</h4></summary>
 
 त्वन् नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्  
@@ -133,7 +133,7 @@ title = "०६ १० उत्तरपूर्वे"
 विश्वा॒ द्वेषाँ॑सि॒ प्र मु॑मुग्ध्य् अ॒स्मत् ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
 <details open=""><summary><h4>०५ स त्वं ...{Loading}...</h4></summary>
 
 स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ भ॑व॒+ऊ॒ती+++(त्या)+++  
@@ -165,7 +165,7 @@ title = "०६ १० उत्तरपूर्वे"
 परिषेचनान्तं कृत्वोत्तरया +++(=इह गावः प्रजायध्वम्)+++ चर्मण्युपविशत उत्तरो वरः +++(प्राङ्मुखौ)+++ ।  
 
 +++(उत्तरया चर्मण्युपविशतः। आमन्त्रितनिघातः छान्दसत्वान्नभवति ।)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/01_iha_gAvaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/01_iha_gAvaH.md">
 <details open><summary><h2>०१ इह गावः ...{Loading}...</h2></summary>
 
 

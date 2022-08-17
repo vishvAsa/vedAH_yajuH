@@ -4,7 +4,7 @@ title = "११ ०२ प्रष्टम् परस्य"
 +++
 प्रष्टं परस्य प्रतिवचनं कुमारस्य २  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/27_ko_nAmAsi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/27_ko_nAmAsi.md">
 <details open><summary><h2>२७ को नामासि ...{Loading}...</h2></summary>
 
 

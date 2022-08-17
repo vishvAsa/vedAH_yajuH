@@ -5,7 +5,7 @@ title = "१५ १२ प्रवासादेत्य"
 
 प्रवासादेत्य पुत्रस्योत्तराभ्यामभिमन्त्रणं +++(=अङ्गादङ्गात्)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/03_angAdangAtsambhavasi_hRdayAdadhi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/03_angAdangAtsambhavasi_hRdayAdadhi.md">
 <details open><summary><h2>०३ अङ्गादङ्गात्सम्भवसि हृदयादधि ...{Loading}...</h2></summary>
 
 
@@ -18,9 +18,9 @@ title = "१५ १२ प्रवासादेत्य"
 मूर्धन्यवघ्राणं +++(=अश्मा भव)+++  दक्षिणे कर्ण  
 
 मूर्धन्यवघ्राणम् -
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/04_ashmA_bhavetyeShA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/04_ashmA_bhavetyeShA.md">
 <details open><summary><h2>०४ अश्मा भवेत्येषा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
 <details open=""><summary><h4>०१ अश्मा भव ...{Loading}...</h4></summary>
 
 
@@ -36,7 +36,7 @@ title = "१५ १२ प्रवासादेत्य"
 
 ### कर्णे जपः  
 उत्तरान्मन्त्रान् +++(=अग्निरायुष्मान् स वनस्पतिभिः)+++ जपेत् १२  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
 <details open><summary><h2>०५-०९ अग्निरायुष्मान्त्स वनस्पतिभिरायुष्मान्तेन ...{Loading}...</h2></summary>
 
 

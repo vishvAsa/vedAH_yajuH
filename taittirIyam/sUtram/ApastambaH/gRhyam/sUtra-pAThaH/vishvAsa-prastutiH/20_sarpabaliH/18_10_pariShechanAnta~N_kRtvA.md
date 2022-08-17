@@ -12,7 +12,7 @@ title = "१८ १० परिषेचनान्तङ् कृत्व�
 +++(तासां समीपे )+++  ऽद्भिर् उपनिनीय +++(- सर्वदेवजनेभ्यो ददाति यथापितृभ्यः पिण्डदाने ।)+++  
 तासूत्तरया सक्तून्+++(=भृष्ठयवादिचूर्णानि)+++ निवपति +++(ताः सर्वा लेखाः यथा बलिर्व्याप्नुयात्)+++ १०  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/08_namo_astu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/08_namo_astu.md">
 <details open><summary><h2>०८ नमो अस्तु ...{Loading}...</h2></summary>
 
 

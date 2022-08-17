@@ -4,9 +4,9 @@ title = "०४ ०९ अथैनामुत्तरया दक्षि�
 +++
 अथैनामुत्तरया  +++(=पूषात्वेत)+++दक्षिणे हस्ते गृहीत्वाग्निमभ्यानीयापरेणाग्निमुदगग्रं कटमास्तीर्य तस्मिन्नुपविशत+++(ः)+++। उत्तरो वरः ॥  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/08_pUShA_tveto.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/08_pUShA_tveto.md">
 <details open><summary><h2>०८ पूषा त्वेतो ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/26_pUShA_tveto.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/26_pUShA_tveto.md">
 <details open=""><summary><h4>२६ पूषा त्वेतो ...{Loading}...</h4></summary>
 
 पू॒षा त्वा+इ॒तो न॑यतु॒ हस्त॒-गृह्या॒  

@@ -4,7 +4,7 @@ title = "२२ ०६ पिष्टान्नमुत्तरया प�
 +++
 पिष्टान्नमुत्तरया ६  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/01_ukthyashchAsyatirAtrashcha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/01_ukthyashchAsyatirAtrashcha.md">
 <details open><summary><h2>०१ उक्थ्यश्चास्यतिरात्रश्च ...{Loading}...</h2></summary>
 
 

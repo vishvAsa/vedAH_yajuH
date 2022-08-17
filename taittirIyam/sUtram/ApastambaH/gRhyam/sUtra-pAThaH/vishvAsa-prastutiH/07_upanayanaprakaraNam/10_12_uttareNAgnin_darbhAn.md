@@ -7,7 +7,7 @@ title = "१० १२ उत्तरेणाग्निन् दर्भ�
 
 
 +++(प्रोक्षणमन्त्रः)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/02_samudrAdUrmirmadhumAM_udAradupAMshunA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/02_samudrAdUrmirmadhumAM_udAradupAMshunA.md">
 <details open><summary><h2>०२ समुद्रादूर्मिर्मधुमां उदारदुपांशुना ...{Loading}...</h2></summary>
 
 
@@ -25,7 +25,7 @@ title = "१० १२ उत्तरेणाग्निन् दर्भ�
 ### हस्तग्रहणम्
 उत्तरैर् +++(अग्निष्टे हस्तमग्रमीदित्यादिभिः)+++ दक्षिणे हस्ते गृहीत्वा +++(- प्रतिमन्त्रं ग्रहणावृत्तिः)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/03-12_agniShTe_hastamagrabhItsomaste.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/03-12_agniShTe_hastamagrabhItsomaste.md">
 <details open><summary><h2>०३-१२ अग्निष्टे हस्तमग्रभीत्सोमस्ते ...{Loading}...</h2></summary>
 
 
@@ -50,7 +50,7 @@ title = "१० १२ उत्तरेणाग्निन् दर्भ�
 उत्तरैर् +++("अग्नये त्वा परिददामी"त्यादिभिः)+++ देवताभ्यः परीदाय  
 
 +++(असौशब्दस्य स्थाने माणवकस्य नाम निर्देशः संबुद्ध्या ॥)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/13_-23_agnaye_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/13_-23_agnaye_tvA.md">
 <details open><summary><h2>१३ -२३ अग्नये त्वा ...{Loading}...</h2></summary>
 
 
@@ -73,7 +73,7 @@ title = "१० १२ उत्तरेणाग्निन् दर्भ�
 ## उपनयनम्
 उत्तरेण यजुषा +++("देवस्य त्वा सवितुः" इत्येतेन स्वसमीपं)+++ +उपनीय  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/24_devasya_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/24_devasya_tvA.md">
 <details open><summary><h2>२४ देवस्य त्वा ...{Loading}...</h2></summary>
 
 
@@ -86,7 +86,7 @@ title = "१० १२ उत्तरेणाग्निन् दर्भ�
 सुप्रजा इति +++("सुपोषः पोषै"रित्येवमन्तम्)+++ दक्षिणे कर्णे जपति १२  
 
 +++(कर्णे जपः)+++
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/25_suprajAH_prajayA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/25_suprajAH_prajayA.md">
 <details open><summary><h2>२५ सुप्रजाः प्रजया ...{Loading}...</h2></summary>
 
 

@@ -8,7 +8,7 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 ### प्रत्येत्य गृहपरिषेचनमन्त्रौ 
 ### उपस्थानमन्त्राः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/09-10_taxaka_vaishAleya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/09-10_taxaka_vaishAleya.md">
 <details open><summary><h2>०९-१० तक्षक वैशालेय ...{Loading}...</h2></summary>
 
 
@@ -19,7 +19,7 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/11_-12_ahiMsAtibalaste_jIvAstvayi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/11_-12_ahiMsAtibalaste_jIvAstvayi.md">
 <details open><summary><h2>११ -१२ अहिंसातिबलस्ते जीवास्त्वयि ...{Loading}...</h2></summary>
 
 
@@ -28,7 +28,7 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/13_ye_dandashUkAH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/13_ye_dandashUkAH.md">
 <details open><summary><h2>१३ ये दन्दशूकाः ...{Loading}...</h2></summary>
 
 
@@ -40,7 +40,7 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 
 +++(प्रतिदिशम् मन्त्राः।)+++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/14_samIchI_nAmAsi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/14_samIchI_nAmAsi.md">
 <details open><summary><h2>१४ समीची नामासि ...{Loading}...</h2></summary>
 
 
@@ -50,7 +50,7 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/15_-19_ojasvinI_nAmAsi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/15_-19_ojasvinI_nAmAsi.md">
 <details open><summary><h2>१५ -१९ ओजस्विनी नामासि ...{Loading}...</h2></summary>
 
 ### मन्त्रः
@@ -79,7 +79,7 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/20_-25_hetayo_nAmastha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/20_-25_hetayo_nAmastha.md">
 <details open><summary><h4>२० -२५ हेतयो नामस्थ ...{Loading}...</h4></summary>
 
 
@@ -104,7 +104,7 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/26_apashvetapadA_jahi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/26_apashvetapadA_jahi.md">
 <details open><summary><h2>२६ अपश्वेतपदा जहि ...{Loading}...</h2></summary>
 
 
@@ -116,7 +116,7 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/27_na_vai.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/27_na_vai.md">
 <details open><summary><h2>२७ न वै ...{Loading}...</h2></summary>
 
 

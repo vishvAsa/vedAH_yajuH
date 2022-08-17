@@ -8,7 +8,7 @@ title = "२० ०४ यथोढमुदकानि प्रदाय"
 उत्तरैर् यथास्वम् ओदनेभ्यो हुत्वा  
 सर्वतस् समवदायोत्तरेण यजुषाग्निं स्विष्टकृतम् ।  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/11_-30_upaspRshatu_mIDhvAnmIDhuShe.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/11_-30_upaspRshatu_mIDhvAnmIDhuShe.md">
 <details open><summary><h2>११ -३० उपस्पृशतु मीढ्वान्मीढुषे ...{Loading}...</h2></summary>
 
 
@@ -39,7 +39,7 @@ title = "२० ०४ यथोढमुदकानि प्रदाय"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/31_agnaye_sviShTakRte.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/31_agnaye_sviShTakRte.md">
 <details open><summary><h2>३१ अग्नये स्विष्टकृते ...{Loading}...</h2></summary>
 
 

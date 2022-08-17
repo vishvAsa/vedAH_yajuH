@@ -5,7 +5,7 @@ title = "१७ ०७ पालाशं शमीमयम्"
 
 पालाशं शमीमयं वेध्मम् +++(पाकाग्वाव्)+++ आदीप्योत्तरयर्चा +++("उद्ध्रियमाण"इत्येतया पञ्चपादया)+++ ऽग्निम् उद्धृत्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/12_uddhriyamANa_uddhara.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/12_uddhriyamANa_uddhara.md">
 <details open><summary><h2>१२ उद्ध्रियमाण उद्धर ...{Loading}...</h2></summary>
 
 
@@ -23,7 +23,7 @@ __________________
 #### अगारप्रतिपादनम्
 उत्तरेण यजुषा +++("इन्द्र स्य गृहा वसुमन्तो वरूथिनः")+++ ऽगारं प्रपाद्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/13_indrasya_gRhA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/13_indrasya_gRhA.md">
 <details open><summary><h2>१३ इन्द्रस्य गृहा ...{Loading}...</h2></summary>
 
 
@@ -37,7 +37,7 @@ __________________
 #### प्रतिष्ठापनम्
 उत्तरपूर्वदेशे ऽगारस्योत्तरया +++("अमृताहुति"मित्यनया)+++ ऽग्निं प्रतिष्ठापयति ७
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/14_amRtAhutimamRtAyAnjuhomyagnim_pRthivyAmamRtasya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/14_amRtAhutimamRtAyAnjuhomyagnim_pRthivyAmamRtasya.md">
 <details open><summary><h2>१४ अमृताहुतिममृतायाञ्जुहोम्यग्निम् पृथिव्याममृतस्य ...{Loading}...</h2></summary>
 
 

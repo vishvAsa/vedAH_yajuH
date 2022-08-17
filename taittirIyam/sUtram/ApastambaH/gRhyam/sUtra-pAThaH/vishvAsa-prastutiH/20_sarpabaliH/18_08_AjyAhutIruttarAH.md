@@ -4,7 +4,7 @@ title = "१८ ०८ आज्याहुतीरुत्तराः "
 +++
 आज्याहुतीर् उत्तराः ८  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/04_tatsatyaM_yatte-mAvAsyAyAncha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/04_tatsatyaM_yatte-mAvAsyAyAncha.md">
 <details open><summary><h2>०४ तत्सत्यं यत्तेऽमावास्यायाञ्च ...{Loading}...</h2></summary>
 
 
@@ -15,13 +15,13 @@ title = "१८ ०८ आज्याहुतीरुत्तराः "
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/namo_astu_sarpebhyaH/">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/namo_astu_sarpebhyaH/">
 <details open><summary><h2>नमो ऽस्तु सर्पेभ्यः ...{Loading}...</h2></summary>
 
 हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n173/mode/2up) ।
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/05_namo_astu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/05_namo_astu.md">
 <details open=""><summary><h4>०५ नमो अस्तु ...{Loading}...</h4></summary>
 
 
@@ -32,7 +32,7 @@ title = "१८ ०८ आज्याहुतीरुत्तराः "
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/06_ye-do_rochane.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/06_ye-do_rochane.md">
 <details open=""><summary><h4>०६ येऽदो रोचने ...{Loading}...</h4></summary>
 
 
@@ -44,7 +44,7 @@ title = "१८ ०८ आज्याहुतीरुत्तराः "
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/07_yA_iShavo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/07_yA_iShavo.md">
 <details open=""><summary><h4>०७ या इषवो ...{Loading}...</h4></summary>
 
 

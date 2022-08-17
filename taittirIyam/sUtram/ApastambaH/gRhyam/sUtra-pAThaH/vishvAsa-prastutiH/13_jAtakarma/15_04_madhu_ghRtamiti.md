@@ -8,7 +8,7 @@ title = "१५ ०४ मधु घृतमिति"
 ऽवदाय  
 +उत्तरैर् मन्त्रैः +++("त्वयि मेधाम्" इति)+++ कुमारं प्राशयित्वा,   
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/03-05_tvayi_medhAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/03-05_tvayi_medhAm.md">
 <details open><summary><h2>०३-०५ त्वयि मेधाम् ...{Loading}...</h2></summary>
 
 
@@ -27,7 +27,7 @@ title = "१५ ०४ मधु घृतमिति"
 #### प्रतिज्ञा  
 उत्तराभिः पञ्चभिस् +++(="ऽक्षेत्रियै त्वे"त्यादिभिः)+++ स्नापयित्वा,  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/06_xetriyai_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/06_xetriyai_tvA.md">
 <details open><summary><h2>०६ क्षेत्रियै त्वा ...{Loading}...</h2></summary>
 
 
@@ -42,7 +42,7 @@ title = "१५ ०४ मधु घृतमिति"
 
 #### शान्तिवचनम्  
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/07_shante_agnissahAdbhirastu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/07_shante_agnissahAdbhirastu.md">
 <details open><summary><h4>०७ शन्ते अग्निस्सहाद्भिरस्तु ...{Loading}...</h4></summary>
 
 
@@ -53,7 +53,7 @@ title = "१५ ०४ मधु घृतमिति"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/08_yA_daivIshchatasraH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/08_yA_daivIshchatasraH.md">
 <details open><summary><h4>०८ या दैवीश्चतस्रः ...{Loading}...</h4></summary>
 
 
@@ -67,7 +67,7 @@ title = "१५ ०४ मधु घृतमिति"
 
 #### अवर्तिनिवारणम्  
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/09_amochi_yaxmAdduritAdavartyai.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/09_amochi_yaxmAdduritAdavartyai.md">
 <details open><summary><h4>०९ अमोचि यक्ष्माद्दुरितादवर्त्यै ...{Loading}...</h4></summary>
 
 
@@ -81,7 +81,7 @@ title = "१५ ०४ मधु घृतमिति"
 
 #### सूर्यग्रहणमोक्षनिदर्शनम्  
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/10_sUryamRtantamaso_grAhyA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/10_sUryamRtantamaso_grAhyA.md">
 <details open><summary><h4>१० सूर्यमृतन्तमसो ग्राह्या ...{Loading}...</h4></summary>
 
 
@@ -104,7 +104,7 @@ title = "१५ ०४ मधु घृतमिति"
 ### दधि-घृत-प्राशनम्  
 दधि घृतमिति संसृज्य कांस्येन पृषदाज्यं व्याहृतीभिरोङ्कारचतुर्थाभिः +++("भूः स्वाहेत्यादिभिः प्रतिमन्त्रम्")+++ कुमारं प्राशयित्वा, अद्भिश् शेषं संसृज्य गोष्ठे निनयेत् ४  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/11_bhUssvAhA_bhuvassvAhA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/11_bhUssvAhA_bhuvassvAhA.md">
 <details open><summary><h2>११ भूस्स्वाहा भुवस्स्वाहा ...{Loading}...</h2></summary>
 
 

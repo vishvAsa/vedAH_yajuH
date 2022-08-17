@@ -5,9 +5,9 @@ title = "०४ १४ गृभ्णामि त"
 गृभ्णामि त इत्येताभिश्चतसृभिः ॥  
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/03_gRbhNAmi_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/03_gRbhNAmi_te.md">
 <details open><summary><h2>०३ गृभ्णामि ते ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/36_gRbhNAmi_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/36_gRbhNAmi_te.md">
 <details open=""><summary><h4>३६ गृभ्णामि ते ...{Loading}...</h4></summary>
 
 गृ॒भ्णा+++(ह्णा)+++मि॑ ते सुप्रजा॒स्त्वाय॒ हस्तं॒  
@@ -19,7 +19,7 @@ title = "०४ १४ गृभ्णामि त"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/04_te_ha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/04_te_ha.md">
 <details open><summary><h2>०४ ते ह ...{Loading}...</h2></summary>
 
 ते +++(भगादयः)+++ ह॒ पूर्वे॒ जना॑सो॒  
@@ -29,7 +29,7 @@ title = "०४ १४ गृभ्णामि त"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/05_sarasvati_predamava.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/05_sarasvati_predamava.md">
 <details open><summary><h2>०५ सरस्वति प्रेदमव ...{Loading}...</h2></summary>
 
 सर॑स्वति॒ प्रेदम् अ॑व॒  
@@ -39,7 +39,7 @@ title = "०४ १४ गृभ्णामि त"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/06_ya_eti.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/06_ya_eti.md">
 <details open><summary><h2>०६ य एति ...{Loading}...</h2></summary>
 
 य एति॑ प्र॒दिश॒स् सर्वा॒  

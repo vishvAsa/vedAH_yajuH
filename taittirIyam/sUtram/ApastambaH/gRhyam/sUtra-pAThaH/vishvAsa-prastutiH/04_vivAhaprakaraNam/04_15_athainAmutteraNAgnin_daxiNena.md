@@ -4,7 +4,7 @@ title = "०४ १५ अथैनामुत्तेरणाग्निन
 +++
 अथैनामुत्तेरणाग्निं - दक्षिणेन पदा प्राचीमुदीचीं वा दिशमभि प्रक्रमयत्य् "एकमिष" इति ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/07-13_ekamiShe_viShNustvA-nvetu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/07-13_ekamiShe_viShNustvA-nvetu.md">
 <details open><summary><h2>०७-१३ एकमिषे विष्णुस्त्वाऽन्वेतु ...{Loading}...</h2></summary>
 
 एक॑म् - इ॒षे+++(=अन्नाय)+++ विष्णु॒स्त्वाऽन्वे॑तु ।+++(५)+++  

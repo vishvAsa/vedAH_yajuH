@@ -4,7 +4,7 @@ title = "१४ ०५ उत्तरयोः पूर्वा"
 +++
 उत्तरयोः पूर्वा साल्वानां ब्राह्मणानामितरा ।
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/12_yaugandharireva_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/12_yaugandharireva_no.md">
 <details open><summary><h2>१२ यौगन्धरिरेव नो ...{Loading}...</h2></summary>
 
 

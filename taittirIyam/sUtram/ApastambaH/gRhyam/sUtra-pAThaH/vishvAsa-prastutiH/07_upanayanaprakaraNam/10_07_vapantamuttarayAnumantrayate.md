@@ -4,7 +4,7 @@ title = "१० ०७ वपन्तमुत्तरयानुमन्त
 +++
 वपन्तम् उत्तरया +++("यत् क्षुरेण" इत्य् एतया)+++ ऽनुमन्त्रयते दक्षिणतो माता ब्रह्मचारी वा ७  
 
-- <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/07_yatxureNa_marchayatA.md">
+- <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/07_yatxureNa_marchayatA.md">
 <details open><summary><h2>०७ यत्क्षुरेण मर्चयता ...{Loading}...</h2></summary>
 
 

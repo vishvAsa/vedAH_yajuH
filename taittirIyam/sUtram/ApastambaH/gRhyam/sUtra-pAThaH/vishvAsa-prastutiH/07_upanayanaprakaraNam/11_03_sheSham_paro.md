@@ -4,7 +4,7 @@ title = "११ ०३ शेषम् परो"
 +++
 शेषं +++("एष ते देव सूर्ये")+++ परो +++(आचार्यः)+++ जपति ३  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/28_eSha_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/28_eSha_te.md">
 <details open><summary><h2>२८ एष ते ...{Loading}...</h2></summary>
 
 

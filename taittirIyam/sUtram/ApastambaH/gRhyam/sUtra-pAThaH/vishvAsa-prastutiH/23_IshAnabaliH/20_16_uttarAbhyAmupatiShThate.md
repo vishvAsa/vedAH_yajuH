@@ -4,7 +4,7 @@ title = "२० १६ उत्तराभ्यामुपतिष्ठत
 +++
 उत्तराभ्याम् उपतिष्ठते १६  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/47_-48_xetrasya_patinA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/47_-48_xetrasya_patinA.md">
 <details open><summary><h2>४७ -४८ क्षेत्रस्य पतिना ...{Loading}...</h2></summary>
 
 

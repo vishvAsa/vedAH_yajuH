@@ -8,9 +8,9 @@ title = "११ ०६ अत्रैनमुत्तरा आहुती�
 
 +++(ते च सर्वे माणवकस्यैव । द्वितीयचतुर्थाव् आचार्यस्येत्येके ।)+++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/01_yogeyoge_tavastaram.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/01_yogeyoge_tavastaram.md">
 <details open><summary><h2>०१ योगेयोगे तवस्तरम् ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/07_yogeyoge_tavastaraM.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/07_yogeyoge_tavastaraM.md">
 <details open=""><summary><h4>०७ योगेयोगे तवस्तरं ...{Loading}...</h4></summary>
 
 
@@ -22,7 +22,7 @@ title = "११ ०६ अत्रैनमुत्तरा आहुती�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
 <details open><summary><h3>०२ इममग्न आयुषे ...{Loading}...</h3></summary>
 
 इ॒मम् अ॑ग्न॒ आयु॑षे॒ वर्च॑से कृधि  
@@ -31,9 +31,9 @@ title = "११ ०६ अत्रैनमुत्तरा आहुती�
 विश्वे॑ देवा॒ जर॑दष्टि॒र् यथाऽस॑त् +++(जनः)+++॥ 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/03_shataminnu_sharado.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/03_shataminnu_sharado.md">
 <details open><summary><h2>०३ शतमिन्नु शरदो ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/09_shataminnu_sharado.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/09_shataminnu_sharado.md">
 <details open=""><summary><h4>०९ शतमिन्नु शरदो ...{Loading}...</h4></summary>
 
 
@@ -46,7 +46,7 @@ title = "११ ०६ अत्रैनमुत्तरा आहुती�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/04_agniShTa_AyuH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/04_agniShTa_AyuH.md">
 <details open><summary><h2>०४ अग्निष्ट आयुः ...{Loading}...</h2></summary>
 
 
@@ -57,7 +57,7 @@ title = "११ ०६ अत्रैनमुत्तरा आहुती�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/05_medhAm_mahyamangiraso.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/05_medhAm_mahyamangiraso.md">
 <details open><summary><h2>०५ मेधाम् मह्यमङ्गिरसो ...{Loading}...</h2></summary>
 
 
@@ -68,7 +68,7 @@ title = "११ ०६ अत्रैनमुत्तरा आहुती�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/06_apsarAsu_yA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/06_apsarAsu_yA.md">
 <details open><summary><h2>०६ अप्सरासु या ...{Loading}...</h2></summary>
 
 
@@ -79,9 +79,9 @@ title = "११ ०६ अत्रैनमुत्तरा आहुती�
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/07-11_imam_me.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/07-11_imam_me.md">
 <details open><summary><h4>०७-११ इमम् मे ...{Loading}...</h4></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open=""><summary><h6>१९ इमं मे ...{Loading}...</h6></summary>
 
 इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
@@ -90,7 +90,7 @@ title = "११ ०६ अत्रैनमुत्तरा आहुती�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
 <details open=""><summary><h6>११ तत्त्वा यामि ...{Loading}...</h6></summary>
 
 
@@ -101,7 +101,7 @@ title = "११ ०६ अत्रैनमुत्तरा आहुती�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
 <details open=""><summary><h6>०४ त्वं नो ...{Loading}...</h6></summary>
 
 त्वन् नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्  
@@ -110,7 +110,7 @@ title = "११ ०६ अत्रैनमुत्तरा आहुती�
 विश्वा॒ द्वेषाँ॑सि॒ प्र मु॑मुग्ध्य् अ॒स्मत् ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
 <details open=""><summary><h6>०५ स त्वं ...{Loading}...</h6></summary>
 
 स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ भ॑व॒+ऊ॒ती+++(त्या)+++  

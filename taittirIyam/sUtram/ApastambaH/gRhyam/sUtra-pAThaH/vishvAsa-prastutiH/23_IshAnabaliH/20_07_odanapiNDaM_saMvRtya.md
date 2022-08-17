@@ -6,7 +6,7 @@ title = "२० ०७ ओदनपिण्डं संवृत्य"
 ओदनपिण्डं संवृत्य  
 पर्ण-पुटे ऽवधायोत्तरेण यजुषा वृक्ष आसजति+++(=अवलम्बयति)+++ ७  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/46_namo_niShangiNe.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/46_namo_niShangiNe.md">
 <details open><summary><h2>४६ नमो निषङ्गिणे ...{Loading}...</h2></summary>
 
 

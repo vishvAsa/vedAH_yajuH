@@ -4,9 +4,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 +++
 जातं +++(=जातमात्रम्, "प्राङ्नाभिवर्धनात्पुंसो जातकर्म विधीयते")+++ वात्सप्रेण +++(=दिवसस्परीत्येषः)+++ +अभिमृश्य,  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/21_divas_pari.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/21_divas_pari.md">
 <details open><summary><h2>२१ दिवस् परि ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/01_divaspari_prathamaM.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/01_divaspari_prathamaM.md">
 <details open=""><summary><h4>०१ दिवस्परि प्रथमं ...{Loading}...</h4></summary>
 
 
@@ -19,9 +19,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/22_vidmA_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/22_vidmA_te.md">
 <details open><summary><h2>२२ विद्मा ते ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/02_vidmA_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/02_vidmA_te.md">
 <details open=""><summary><h4>०२ विद्मा ते ...{Loading}...</h4></summary>
 
 
@@ -35,9 +35,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/23_samudre_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/23_samudre_tvA.md">
 <details open><summary><h2>२३ समुद्रे त्वा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/03_samudre_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/03_samudre_tvA.md">
 <details open=""><summary><h4>०३ समुद्रे त्वा ...{Loading}...</h4></summary>
 
 
@@ -51,9 +51,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/24_akrandadagnisstanayanniva_dyauH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/24_akrandadagnisstanayanniva_dyauH.md">
 <details open><summary><h2>२४ अक्रन्ददग्निस्स्तनयन्निव द्यौः ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md">
 <details open=""><summary><h4>०४ अक्रन्ददग्निः स्तनयन्निव ...{Loading}...</h4></summary>
 
 
@@ -66,9 +66,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/25_ushikpAvako_aratissumedhA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/25_ushikpAvako_aratissumedhA.md">
 <details open><summary><h2>२५ उशिक्पावको अरतिस्सुमेधा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/07_ushikpAvako_aratiH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/07_ushikpAvako_aratiH.md">
 <details open=""><summary><h4>०७ उशिक्पावको अरतिः ...{Loading}...</h4></summary>
 
 
@@ -85,9 +85,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/26_vishvasya_keturbhuvanasya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/26_vishvasya_keturbhuvanasya.md">
 <details open><summary><h2>२६ विश्वस्य केतुर्भुवनस्य ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/06_vishvasya_keturbhuvanasya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/06_vishvasya_keturbhuvanasya.md">
 <details open=""><summary><h4>०६ विश्वस्य केतुर्भुवनस्य ...{Loading}...</h4></summary>
 
 
@@ -100,9 +100,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/27_shrINAmudAro_dharuNo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/27_shrINAmudAro_dharuNo.md">
 <details open><summary><h2>२७ श्रीणामुदारो धरुणो ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/05_shrINAmudAro_dharuNo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/05_shrINAmudAro_dharuNo.md">
 <details open=""><summary><h4>०५ श्रीणामुदारो धरुणो ...{Loading}...</h4></summary>
 
 
@@ -115,9 +115,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/28_yaste_adya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/28_yaste_adya.md">
 <details open><summary><h2>२८ यस्ते अद्य ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/09_yaste_adya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/09_yaste_adya.md">
 <details open=""><summary><h4>०९ यस्ते अद्य ...{Loading}...</h4></summary>
 
 
@@ -130,9 +130,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/29_tambhaja_saushravaseShvagna.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/29_tambhaja_saushravaseShvagna.md">
 <details open><summary><h2>२९ तम्भज सौश्रवसेष्वग्न ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/10_A_taM.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/10_A_taM.md">
 <details open=""><summary><h4>१० आ तं ...{Loading}...</h4></summary>
 
 
@@ -145,9 +145,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/30_tvAmagne_yajamAnA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/30_tvAmagne_yajamAnA.md">
 <details open><summary><h2>३० त्वामग्ने यजमाना ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/11_tvAmagne_yajamAnA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/11_tvAmagne_yajamAnA.md">
 <details open=""><summary><h4>११ त्वामग्ने यजमाना ...{Loading}...</h4></summary>
 
 
@@ -160,9 +160,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/31_dRshAno_rukma.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/31_dRshAno_rukma.md">
 <details open><summary><h2>३१ दृशानो रुक्म ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md">
 <details open=""><summary><h4>०८ दृशानो रुक्म ...{Loading}...</h4></summary>
 
 
@@ -180,7 +180,7 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 ### उपस्थ आधानम्  
 उत्तरेण यजुषोपस्थ आधाय +++(="अस्मिन्नह"मित्यनेन)+++,  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/32_asminnahaM_sahasram.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/32_asminnahaM_sahasram.md">
 <details open><summary><h2>३२ अस्मिन्नहं सहस्रम् ...{Loading}...</h2></summary>
 
 
@@ -192,7 +192,7 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 ###  अभिमन्त्रणम्  
 उत्तराभ्याम् +++("अङ्गादङ्गाद्" इति)+++ अभिमन्त्रणं ,  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/33_angAdangAtsambhavasi_hRdayAdadhi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/33_angAdangAtsambhavasi_hRdayAdadhi.md">
 <details open><summary><h2>३३ अङ्गादङ्गात्सम्भवसि हृदयादधि ...{Loading}...</h2></summary>
 
 
@@ -206,7 +206,7 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 ### मूर्धन्यवघ्राणम्  
 +++("अश्मा भवे"ति)+++  मूर्धन्यवघ्राणं,  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
 <details open><summary><h2>०१ अश्मा भव ...{Loading}...</h2></summary>
 
 
@@ -221,7 +221,7 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 ###  दक्षिणकर्णे-जपः  
 +++("मेधां त" इति)+++ दक्षिणे कर्णे जापः १  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/02_medhAnte_devassavitA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/02_medhAnte_devassavitA.md">
 <details open><summary><h2>०२ मेधान्ते देवस्सविता ...{Loading}...</h2></summary>
 
 

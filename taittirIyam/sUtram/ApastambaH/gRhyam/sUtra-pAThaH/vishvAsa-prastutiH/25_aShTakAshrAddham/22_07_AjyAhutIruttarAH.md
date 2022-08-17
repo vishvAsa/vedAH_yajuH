@@ -4,7 +4,7 @@ title = "२२ ०७ आज्याहुतीरुत्तराः"
 +++
 आज्याहुतीरुत्तराः ७  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/02-04_bhUH_pRthivyagninarchAmum.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/02-04_bhUH_pRthivyagninarchAmum.md">
 <details open><summary><h2>०२-०४ भूः पृथिव्यग्निनर्चामुम् ...{Loading}...</h2></summary>
 
 
@@ -14,7 +14,7 @@ title = "२२ ०७ आज्याहुतीरुत्तराः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/05_janadadbhiratharvAngirobhiramum_mayi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/05_janadadbhiratharvAngirobhiramum_mayi.md">
 <details open><summary><h2>०५ जनदद्भिरथर्वाङ्गिरोभिरमुम् मयि ...{Loading}...</h2></summary>
 
 
@@ -23,7 +23,7 @@ title = "२२ ०७ आज्याहुतीरुत्तराः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/06-07_rochanAyAjirAyAgnaye_devajAtave.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/06-07_rochanAyAjirAyAgnaye_devajAtave.md">
 <details open><summary><h2>०६-०७ रोचनायाजिरायाग्नये देवजातवे ...{Loading}...</h2></summary>
 
 
@@ -32,7 +32,7 @@ title = "२२ ०७ आज्याहुतीरुत्तराः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/08-09_svadhA_svAhA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/08-09_svadhA_svAhA.md">
 <details open><summary><h2>०८-०९ स्वधा स्वाहा ...{Loading}...</h2></summary>
 
 

@@ -5,7 +5,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 प्राग्घोमात् प्रदक्षिणमग्निं कृत्वा, यथास्थानम् उपविश्यान्वारब्धायाम् उत्तरा +++(१६)+++ आहुतीर् जुहोति - "सोमाय जनिविदे स्वाहे"त्येतैः प्रतिमन्त्रम् ॥  
 
 ## षोडश प्रधानाहुतिमन्त्राः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/01-03_somAya_janivide.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/01-03_somAya_janivide.md">
 <details open><summary><h2>०१-०३ सोमाय जनिविदे ...{Loading}...</h2></summary>
 
 ### मन्त्रः
@@ -16,7 +16,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/04_kanyalA_pitRbhyo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/04_kanyalA_pitRbhyo.md">
 <details open><summary><h2>०४ कन्यला पितृभ्यो ...{Loading}...</h2></summary>
 
 क॒न्य॒ला+++(=कन्यैव, लशब्द उपजनः)+++ पि॒तृभ्यो॑ य॒ती+++(=गच्छन्ती)+++ प॑तिलो॒कम्  
@@ -25,7 +25,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/05_preto_munchAti.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/05_preto_munchAti.md">
 <details open><summary><h2>०५ प्रेतो मुञ्चाति ...{Loading}...</h2></summary>
 
 प्रेतो मु॒ञ्चाति॒, नाऽमुत॑स्+++(=पतिलोकात्)+++  
@@ -35,7 +35,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/06_imAntvamindra_mIDhvassuputrAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/06_imAntvamindra_mIDhvassuputrAm.md">
 <details open><summary><h2>०६ इमान्त्वमिन्द्र मीढ्वस्सुपुत्राम् ...{Loading}...</h2></summary>
 
 इ॒मान् त्वम् इ॑न्द्र मीढ्वस्+++(=वर्षक इन्द्र)+++  
@@ -45,7 +45,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/07_agniraitu_prathamo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/07_agniraitu_prathamo.md">
 <details open><summary><h2>०७ अग्निरैतु प्रथमो ...{Loading}...</h2></summary>
 
 अ॒ग्निर् ऐ॑तु प्रथ॒मो दे॒वता॑ना॒ꣳ॒  
@@ -55,7 +55,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/08_imAmagnistrAyatA~N_gArhapatyaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/08_imAmagnistrAyatA~N_gArhapatyaH.md">
 <details open><summary><h2>०८ इमामग्निस्त्रायताङ् गार्हपत्यः ...{Loading}...</h2></summary>
 
 इ॒माम् अ॒ग्निस् त्रा॑यतां॒ गार्ह॑पत्यः  
@@ -65,7 +65,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/09_mA_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/09_mA_te.md">
 <details open><summary><h2>०९ मा ते ...{Loading}...</h2></summary>
 
 मा ते॑ गृ॒हे नि॒शि +++(रोदन)+++घोष॒ उत्था॑द्  
@@ -75,7 +75,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/10_dyauste_pRShTham.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/10_dyauste_pRShTham.md">
 <details open><summary><h2>१० द्यौस्ते पृष्ठम् ...{Loading}...</h2></summary>
 
 द्यौस्ते॑ पृ॒ष्ठꣳ र॑क्षतु  
@@ -87,7 +87,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/11_aprajastAm_pautra.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/11_aprajastAm_pautra.md">
 <details open><summary><h2>११ अप्रजस्ताम् पौत्र ...{Loading}...</h2></summary>
 
 अ॒प्र॒ज॒स्तां पौ॑त्र मृ॒त्युं  
@@ -97,9 +97,9 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/12_imam_me.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/12_imam_me.md">
 <details open><summary><h2>१२ इमम् मे ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open=""><summary><h4>१९ इमं मे ...{Loading}...</h4></summary>
 
 इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
@@ -110,9 +110,9 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/13_tattvA_yAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/13_tattvA_yAmi.md">
 <details open><summary><h2>१३ तत्त्वा यामि ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
 <details open=""><summary><h4>११ तत्त्वा यामि ...{Loading}...</h4></summary>
 
 
@@ -125,9 +125,9 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/14_tvanno_agne.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/14_tvanno_agne.md">
 <details open><summary><h2>१४ त्वन्नो अग्ने ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
 <details open=""><summary><h4>०४ त्वं नो ...{Loading}...</h4></summary>
 
 त्वन् नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्  
@@ -138,9 +138,9 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/15_sa_tvanno.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/15_sa_tvanno.md">
 <details open><summary><h2>१५ स त्वन्नो ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
 <details open=""><summary><h4>०५ स त्वं ...{Loading}...</h4></summary>
 
 स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ भ॑व॒+ऊ॒ती+++(त्या)+++  
@@ -153,7 +153,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/16_tvamagne_ayA-syayA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/16_tvamagne_ayA-syayA.md">
 <details open><summary><h2>१६ त्वमग्ने अयाऽस्यया ...{Loading}...</h2></summary>
 
 

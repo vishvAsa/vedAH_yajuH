@@ -4,7 +4,7 @@ title = "०६ ०३ तीर्त्वोत्तराञ् जपे�
 +++
 तीर्त्वोत्तरां +++(=अस्य पारः)+++ जपेत् ॥  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/03_asya_pAre.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/03_asya_pAre.md">
 <details open><summary><h2>०३ अस्य पारे ...{Loading}...</h2></summary>
 
 

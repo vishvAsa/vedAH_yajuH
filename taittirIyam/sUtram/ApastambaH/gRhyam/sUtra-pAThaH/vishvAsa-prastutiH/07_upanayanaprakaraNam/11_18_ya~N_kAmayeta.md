@@ -4,7 +4,7 @@ title = "११ १८ यङ् कामयेत"
 +++
 यं कामयेत +++(मत्)+++ नायमाच्छिद्येतेति, तम् उत्तरया +++("यस्मिन् भूतमि"त्येतया)+++ दक्षिणे हस्ते गृह्णीयात् १८  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/13_yasminbhUtancha_bhavyancha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/13_yasminbhUtancha_bhavyancha.md">
 <details open><summary><h2>१३ यस्मिन्भूतञ्च भव्यञ्च ...{Loading}...</h2></summary>
 
 

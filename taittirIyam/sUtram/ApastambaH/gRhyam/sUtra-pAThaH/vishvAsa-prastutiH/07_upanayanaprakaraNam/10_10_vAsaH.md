@@ -4,7 +4,7 @@ title = "१० १० वासः"
 +++
 वासः सद्यःकृत्तोतम् +++(=सद्यः कृत्तम् ऊतं च - विनूतनम्)+++ उत्तराभ्याम् +++("रेवतीस्त्वे"त्येताभ्यां)+++ अभिमन्त्र्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md">
 <details open><summary><h2>०३-०४ रेवतीस्त्वा व्यक्ष्णन्कृत्तिकाश्चाकृन्त२म् ...{Loading}...</h2></summary>
 
 +++(नक्षत्रेषु)+++ रे॒वती॑स् त्वा॒ व्य॑क्ष्ण॒न्+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
@@ -25,7 +25,7 @@ title = "१० १० वासः"
 उत्तराभिस्तिसृभिः +++("या अकृन्त"न्नित्येताभिः)+++ परिधाप्य  
 
 +++(पूर्वमन्त्रस्योल्लेखो ऽत्र)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/05_yA_akRntannavayan.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/05_yA_akRntannavayan.md">
 <details open><summary><h2>०५ या अकृन्तन्नवयन् ...{Loading}...</h2></summary>
 
 
@@ -36,7 +36,7 @@ title = "१० १० वासः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md">
 <details open><summary><h2>०६ परिधत्त धत्त ...{Loading}...</h2></summary>
 
 
@@ -47,7 +47,7 @@ title = "१० १० वासः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md">
 <details open><summary><h2>०७ जराङ् गच्छासि ...{Loading}...</h2></summary>
 
 
@@ -63,7 +63,7 @@ title = "१० १० वासः"
 परिहितम् उत्तरयानुमन्त्रयते +++("परीदं वास")+++ १०  
 
 +++(परिहितवन्तं कुमारम् उत्तरयानुमन्त्रयते)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/08_parIdaM_vAso.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/08_parIdaM_vAso.md">
 <details open><summary><h2>०८ परीदं वासो ...{Loading}...</h2></summary>
 
 

@@ -4,7 +4,7 @@ title = "२१ ०४ आज्याहुतीरुत्तराः"
 +++
 आज्याहुतीरुत्तराः ४  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/08-13_svAhA_pitre.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/08-13_svAhA_pitre.md">
 <details open><summary><h2>०८-१३ स्वाहा पित्रे ...{Loading}...</h2></summary>
 
 

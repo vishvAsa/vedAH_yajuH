@@ -4,7 +4,7 @@ title = "१७ ११ दीर्घमुत्तरयाऽनुमन्
 +++
 +++(यदि उदधानं दीर्णम्,)+++ दीर्णम् उत्तरया +++("भूमिर्भूमिम् अगात्"इत्येतया)+++ ऽनुमन्त्रयते ११  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/17_bhUmirbhUmimagAnmAtA_mAtaramapyagAt.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/17_bhUmirbhUmimagAnmAtA_mAtaramapyagAt.md">
 <details open><summary><h2>१७ भूमिर्भूमिमगान्माता मातरमप्यगात् ...{Loading}...</h2></summary>
 
 

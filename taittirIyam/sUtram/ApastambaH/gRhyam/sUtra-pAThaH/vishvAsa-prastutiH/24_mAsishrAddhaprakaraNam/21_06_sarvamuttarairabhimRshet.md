@@ -4,7 +4,7 @@ title = "२१ ०६ सर्वमुत्तरैरभिमृशेत
 +++
 सर्वमुत्तरैरभिमृशेत् ६  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/16_eSha_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/16_eSha_te.md">
 <details open><summary><h2>१६ एष ते ...{Loading}...</h2></summary>
 
 

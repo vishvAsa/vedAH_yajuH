@@ -5,7 +5,7 @@ title = "०६ ०८ लोहितञ् चर्मानडुहम्"
 लोहितं चर्माऽऽनडुहं प्राचीनग्रीवम् उत्तर+++(=ऊर्ध्व)+++लोमम् मध्येऽगारस्योत्तरया +++(="शर्मा वर्मे"त्येतया)+++ ऽऽस्तीर्य, गृहान् प्रपादयन्न् उत्तरां +++(="गृहान् भद्रान्")+++ वाचयति, दक्षिणेन पदा +++(गृहान् प्रपादयन्)+++।   
 _____________
 +++(चर्मास्तरणम्)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/01_sharma_varmedamAharAsyai.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/01_sharma_varmedamAharAsyai.md">
 <details open><summary><h2>०१ शर्म वर्मेदमाहरास्यै ...{Loading}...</h2></summary>
 
 
@@ -19,7 +19,7 @@ _____________
 
 _____________
 +++(गृहान् प्रपादयन् वधूं वाचयति)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/02_gRhAnbhadrAntsumanasaH_prapadye-vIraghnI.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/02_gRhAnbhadrAntsumanasaH_prapadye-vIraghnI.md">
 <details open><summary><h2>०२ गृहान्भद्रान्त्सुमनसः प्रपद्येऽवीरघ्नी ...{Loading}...</h2></summary>
 
 

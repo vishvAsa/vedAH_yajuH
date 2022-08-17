@@ -5,7 +5,7 @@ title = "१५ ०६ उत्तरेण यजुषा"
 
 उत्तरेण यजुषा शिरस्य् उदकुम्भं निधाय,  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/06_ApassupteShu_jAgrata.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/06_ApassupteShu_jAgrata.md">
 <details open><summary><h2>०६ आपस्सुप्तेषु जाग्रत ...{Loading}...</h2></summary>
 
 
@@ -24,7 +24,7 @@ title = "१५ ०६ उत्तरेण यजुषा"
 
 - +++(सर्षपान् फलीकरणमिश्रान् जुहोति।)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/07_aya~N_kalim.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/07_aya~N_kalim.md">
 <details open><summary><h2>०७ अयङ् कलिम् ...{Loading}...</h2></summary>
 
 
@@ -34,7 +34,7 @@ title = "१५ ०६ उत्तरेण यजुषा"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/08_shaNDerathashshaNDikera_ulUkhalaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/08_shaNDerathashshaNDikera_ulUkhalaH.md">
 <details open><summary><h2>०८ शण्डेरथश्शण्डिकेर उलूखलः ...{Loading}...</h2></summary>
 
 
@@ -43,7 +43,7 @@ title = "१५ ०६ उत्तरेण यजुषा"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/09_ayashshaNDo_marka.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/09_ayashshaNDo_marka.md">
 <details open><summary><h2>०९ अयश्शण्डो मर्क ...{Loading}...</h2></summary>
 
 
@@ -53,7 +53,7 @@ title = "१५ ०६ उत्तरेण यजुषा"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/10_keshinIshshvalominIH_khajApo-jopa.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/10_keshinIshshvalominIH_khajApo-jopa.md">
 <details open><summary><h2>१० केशिनीश्श्वलोमिनीः खजापोऽजोप ...{Loading}...</h2></summary>
 
 
@@ -63,7 +63,7 @@ title = "१५ ०६ उत्तरेण यजुषा"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/11_mishravAsasaH_kauberakA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/11_mishravAsasaH_kauberakA.md">
 <details open><summary><h2>११ मिश्रवाससः कौबेरका ...{Loading}...</h2></summary>
 
 
@@ -74,7 +74,7 @@ title = "१५ ०६ उत्तरेण यजुषा"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/12_etAnghnataitAngRhNItetyayam.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/12_etAnghnataitAngRhNItetyayam.md">
 <details open><summary><h2>१२ एतान्घ्नतैतान्गृह्णीतेत्ययम् ...{Loading}...</h2></summary>
 
 
@@ -88,7 +88,7 @@ title = "१५ ०६ उत्तरेण यजुषा"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/01_naktanchAriNa_uraspeshAnChUlahastAnkapAlapAn.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/01_naktanchAriNa_uraspeshAnChUlahastAnkapAlapAn.md">
 <details open><summary><h2>०१ नक्तञ्चारिण उरस्पेशाञ्छूलहस्तान्कपालपान् ...{Loading}...</h2></summary>
 
 
@@ -101,7 +101,7 @@ title = "१५ ०६ उत्तरेण यजुषा"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/02_nishIthachAriNI_svasA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/02_nishIthachAriNI_svasA.md">
 <details open><summary><h2>०२ निशीथचारिणी स्वसा ...{Loading}...</h2></summary>
 
 

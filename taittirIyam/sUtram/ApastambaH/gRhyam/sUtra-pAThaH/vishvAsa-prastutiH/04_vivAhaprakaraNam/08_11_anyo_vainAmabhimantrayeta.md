@@ -4,7 +4,7 @@ title = "०८ ११ अन्यो वैनामभिमन्त्र�
 +++
 अन्यो वैनाम् अभिमन्त्रयेत  +++(अत्र सुदर्शनाचार्यः - इदं च "अहं गर्भमदधाम्" इत्यादि लिङ्गविरोधेऽपि श्रुतेर्बलीयस्त्वा)+++११  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/03_aha~N_garbhamadadhAmoShadhIShvaham.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/03_aha~N_garbhamadadhAmoShadhIShvaham.md">
 <details open><summary><h2>०३ अहङ् गर्भमदधामोषधीष्वहम् ...{Loading}...</h2></summary>
 
 
@@ -16,7 +16,7 @@ title = "०८ ११ अन्यो वैनामभिमन्त्र�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/04_putriNemA_kumAriNA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/04_putriNemA_kumAriNA.md">
 <details open><summary><h2>०४ पुत्रिणेमा कुमारिणा ...{Loading}...</h2></summary>
 
 
@@ -25,7 +25,7 @@ title = "०८ ११ अन्यो वैनामभिमन्त्र�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/05_dashasyantvA-mRtAya_kaMshamUdho.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/05_dashasyantvA-mRtAya_kaMshamUdho.md">
 <details open><summary><h2>०५ दशस्यन्त्वाऽमृताय कंशमूधो ...{Loading}...</h2></summary>
 
 

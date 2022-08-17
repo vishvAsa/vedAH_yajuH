@@ -5,7 +5,7 @@ title = "१८ ०६ पार्वणवदाज्यभागान्त
 पार्वणवद् आज्यभागान्ते स्थालीपाकाद् +धुत्वा  
 ऽञ्जलिनोत्तरैः प्रतिमन्त्रं +++(३)+++ किंशुकानि जुहोति ६  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/13-15_jagdho_mashako.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/13-15_jagdho_mashako.md">
 <details open><summary><h2>१३-१५ जग्धो मशको ...{Loading}...</h2></summary>
 
 

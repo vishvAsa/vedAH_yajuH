@@ -4,7 +4,7 @@ title = "०४ ०८ उत्तरेण यजुषा"
 +++
 उत्तरेण यजुषा +++(=अर्यम्णो अग्निं)+++ तस्याश्शिरसि दर्भेण्वं +++(=दर्भैः परिकल्पितमिण्वं निगलाकृतिं परिमण्डलाकारम् रोमककिरीटम् इव)+++ निधाय,  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/08_aryamNo_agnim.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/08_aryamNo_agnim.md">
 <details open><summary><h2>०८ अर्यम्णो अग्निम् ...{Loading}...</h2></summary>
 
 
@@ -18,7 +18,7 @@ title = "०४ ०८ उत्तरेण यजुषा"
 तस्मिन्नुत्तरया +++(=खेऽनस)+++ दक्षिणं युगच्छिद्रं प्रतिष्ठाप्य,  
 
 +++(तस्मिन्निण्वे दक्षिणं युगच्छिद्रं प्रतिष्ठापयति )+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/09_khe-nasaH_khe.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/09_khe-nasaH_khe.md">
 <details open><summary><h2>०९ खेऽनसः खे ...{Loading}...</h2></summary>
 
 खे+++(=छिन्द्रावकाशे)+++ ऽनसः॒+++(=शकटस्य)+++ खे रथः॒+++(थस्य)+++ खे युग॑स्य +++(अपो निस्सार्य प्रसन्न)+++ शचीपते ।  
@@ -32,7 +32,7 @@ title = "०४ ०८ उत्तरेण यजुषा"
 </div>
 
 छिद्रे सुवर्णमुत्तरया +++(=शं ते हिरण्यम्)+++ ऽन्तर्धाय,  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/10_shan_te_hiraNyam.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/10_shan_te_hiraNyam.md">
 <details open><summary><h2>शन् ते हिरण्यम् ...{Loading}...</h2></summary>
 
 
@@ -48,9 +48,9 @@ title = "०४ ०८ उत्तरेण यजुषा"
 
 ### स्नानम्  
 उत्तराभिः पञ्चभिस् +++(=हिरण्यवर्णा)+++ स्नापयित्वा,  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
 <details open><summary><h2>०१ हिरण्यवर्णाश्शुचयः पावकाः ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
 <details open=""><summary><h4>०१ हिरण्यवर्णाः शुचयः ...{Loading}...</h4></summary>
 
 
@@ -64,7 +64,7 @@ title = "०४ ०८ उत्तरेण यजुषा"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/02_hiraNyavarNAshshuchayaH_pAvakA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/02_hiraNyavarNAshshuchayaH_pAvakA.md">
 <details open><summary><h2>०२ हिरण्यवर्णाश्शुचयः पावका ...{Loading}...</h2></summary>
 
 हिर॑ण्य-वर्णा॒श् शुच॑यः पाव॒का  
@@ -74,9 +74,9 @@ title = "०४ ०८ उत्तरेण यजुषा"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/03_yAsAM_rAjA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/03_yAsAM_rAjA.md">
 <details open><summary><h2>०३ यासां राजा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
 <details open=""><summary><h4>०२ यासां राजा ...{Loading}...</h4></summary>
 
 यासा॒ꣳ॒ राजा॒ वरु॑णो॒ याति॒ मद्ध्ये॑  
@@ -88,9 +88,9 @@ title = "०४ ०८ उत्तरेण यजुषा"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/04_yAsAn_devA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/04_yAsAn_devA.md">
 <details open><summary><h2>०४ यासान् देवा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/03_yAsAM_devA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/03_yAsAM_devA.md">
 <details open=""><summary><h4>०३ यासां देवा ...{Loading}...</h4></summary>
 
 यासां॑ दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒क्षं  
@@ -102,7 +102,7 @@ title = "०४ ०८ उत्तरेण यजुषा"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/05_shivena_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/05_shivena_tvA.md">
 <details open><summary><h2>०५ शिवेन त्वा ...{Loading}...</h2></summary>
 
 शि॒वेन॑ त्वा॒ चक्षु॑षा पश्यन्त्व् आपश्  
@@ -116,9 +116,9 @@ title = "०४ ०८ उत्तरेण यजुषा"
 ### अहतस्य वाससः परिधानम्  
 उत्तरया +++(=परि त्वा गिर्वणो गिरः)+++ ऽहतेन वाससाच्छाद्य,  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/06_pari_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/06_pari_tvA.md">
 <details open><summary><h2>०६ परि त्वा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/010/12_pari_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/010/12_pari_tvA.md">
 <details open=""><summary><h4>१२ परि त्वा ...{Loading}...</h4></summary>
 
 परि॑ त्वा गिर्-वणो॒+++(=सम्भक्तः)+++  
@@ -135,9 +135,9 @@ title = "०४ ०८ उत्तरेण यजुषा"
 ## योक्त्रबन्धनम्  
 उत्तरया +++(=आशासाना सौमनसम्)+++ योक्त्रेण सन्नह्यति ८  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
 <details open><summary><h2>०७ आशासाना सौमनसम् ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/14/001_vivAha-_prakaraNam/42_AshAsAnA_saumanasaM.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/14/001_vivAha-_prakaraNam/42_AshAsAnA_saumanasaM.md">
 <details open=""><summary><h4>४२ आशासाना सौमनसं ...{Loading}...</h4></summary>
 
 आ॒शासा॑ना सौमन॒सं  

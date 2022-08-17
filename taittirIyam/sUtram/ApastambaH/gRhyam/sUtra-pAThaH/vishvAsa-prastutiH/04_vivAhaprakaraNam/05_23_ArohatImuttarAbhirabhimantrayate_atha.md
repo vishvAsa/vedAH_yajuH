@@ -9,7 +9,7 @@ title = "०५ २३ आरोहतीमुत्तराभिरभिम
 आरो॑ह वध्व् अ॒मृत॑स्य लो॒क२ꣳ +++(तत्सङ्केतत्वेन)+++  
 स्यो॒नं+++(=सुखं)+++ पत्ये॑ वह॒तुं+++(=स्त्रीधनं)+++ कृ॑णुष्व ।+++(४)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/05_uduttaramArohantI_vyasyantI.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/05_uduttaramArohantI_vyasyantI.md">
 <details open><summary><h2>०५ उदुत्तरमारोहन्ती व्यस्यन्ती ...{Loading}...</h2></summary>
 
 
@@ -20,9 +20,9 @@ title = "०५ २३ आरोहतीमुत्तराभिरभिम
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/06_samrAjnI_shvashure.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/06_samrAjnI_shvashure.md">
 <details open><summary><h2>०६ सम्राज्ञी श्वशुरे ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/46_samrAjnI_shvashure.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/46_samrAjnI_shvashure.md">
 <details open=""><summary><h4>४६ सम्राज्ञी श्वशुरे ...{Loading}...</h4></summary>
 
 
@@ -35,7 +35,7 @@ title = "०५ २३ आरोहतीमुत्तराभिरभिम
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/07_snuShANAM_shvashurANAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/07_snuShANAM_shvashurANAm.md">
 <details open><summary><h2>०७ स्नुषाणां श्वशुराणाम् ...{Loading}...</h2></summary>
 
 

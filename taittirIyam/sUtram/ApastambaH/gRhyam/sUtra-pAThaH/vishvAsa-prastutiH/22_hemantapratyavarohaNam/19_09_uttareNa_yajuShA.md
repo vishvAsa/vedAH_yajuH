@@ -4,7 +4,7 @@ title = "१९ ०९ उत्तरेण यजुषा"
 +++
 उत्तरेण यजुषा +++("प्रत्यवरूढो नो हेमन्तः"इत्यनेन)+++ प्रत्यवरुह्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/02_pratyavarUDho_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/02_pratyavarUDho_no.md">
 <details open><summary><h2>०२ प्रत्यवरूढो नो ...{Loading}...</h2></summary>
 
 
@@ -17,7 +17,7 @@ title = "१९ ०९ उत्तरेण यजुषा"
 उत्तरैर् +++("प्रतिक्षत्र"इत्यादिभिः पञ्चभिः)+++ दक्षिणैः पार्श्वैः नवस्वस्तरे+++(=तृणशय्यायाम्)+++ संविशन्ति ९  
 
 +++(नवस्वस्तरे संविशन् )+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03-07_pratixatre_pratitiShThAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03-07_pratixatre_pratitiShThAmi.md">
 <details open><summary><h2>०३-०७ प्रतिक्षत्रे प्रतितिष्ठामि ...{Loading}...</h2></summary>
 
 

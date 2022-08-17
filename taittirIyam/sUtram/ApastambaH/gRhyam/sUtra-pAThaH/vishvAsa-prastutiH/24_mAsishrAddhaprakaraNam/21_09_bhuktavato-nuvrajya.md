@@ -5,7 +5,7 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 तेषूत्तरैरपो दत्त्वा  
 
 +++(दर्भेष्व् अपो ददाति)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-07_mArjayantAm_mama.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-07_mArjayantAm_mama.md">
 <details open><summary><h2>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h2></summary>
 
 
@@ -19,7 +19,7 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 ### उत्तरैर्दक्षिणापवर्गान् पिण्डान्दत्वा  
 उत्तरैर् दक्षिणापवर्गान् पिण्डान्दत्त्वा  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08-19_etatte_tatAsau.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08-19_etatte_tatAsau.md">
 <details open><summary><h2>०८-१९ एतत्ते ततासौ ...{Loading}...</h2></summary>
 
 
@@ -38,7 +38,7 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 पूर्ववदुत्तरैरपो दत्त्वा  
 उत्तरैरुपस्थाय  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/20_-26_ye_cha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/20_-26_ye_cha.md">
 <details open><summary><h2>२० -२६ ये च ...{Loading}...</h2></summary>
 
 
@@ -56,7 +56,7 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 ### उभयान् पिण्डान् परिषिञ्चति  
 उत्तरयोदपात्रेण त्रिः प्रसव्यं परिषिच्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/27_-28_putrAnpautrAnabhi_tarpayantIrApo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/27_-28_putrAnpautrAnabhi_tarpayantIrApo.md">
 <details open><summary><h2>२७ -२८ पुत्रान्पौत्रानभि तर्पयन्तीरापो ...{Loading}...</h2></summary>
 
 
@@ -75,7 +75,7 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 द्वन्द्वमभ्युदाहृत्य  
 सर्वतस् समवदायोत्तरेण यजुषाशेषस्य ग्रासवरार्ध्यं प्राश्नीयात् ।  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/29_prANe_niviShTo-mRtam.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/29_prANe_niviShTo-mRtam.md">
 <details open><summary><h2>२९ प्राणे निविष्टोऽमृतम् ...{Loading}...</h2></summary>
 
 

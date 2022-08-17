@@ -6,7 +6,7 @@ title = "०६ ०६ गृहानुत्तरया सङ्काश�
 
 +++(गृहानुत्तरया संकाशयति, तत्र वहतुः पूर्वं प्रापयितव्यः।)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/13_sankAshayAmi_vahatum.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/13_sankAshayAmi_vahatum.md">
 <details open><summary><h2>१३ सङ्काशयामि वहतुम् ...{Loading}...</h2></summary>
 
 

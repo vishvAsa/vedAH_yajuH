@@ -4,7 +4,7 @@ title = "०४ १६ सखेति सप्तमे"
 +++
 सखेति सप्तमे पदे जपति ॥  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/14_sakhA_saptapadA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/14_sakhA_saptapadA.md">
 <details open><summary><h2>१४ सखा सप्तपदा ...{Loading}...</h2></summary>
 
 सखा॑ +++(हे)+++ स॒प्तप॑दा भव॒।  

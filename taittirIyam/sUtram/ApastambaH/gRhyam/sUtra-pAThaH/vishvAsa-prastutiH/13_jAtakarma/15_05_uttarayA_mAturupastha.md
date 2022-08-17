@@ -5,7 +5,7 @@ title = "१५ ०५ उत्तरया मातुरुपस्थ"
 
 उत्तरया +++(="मा ते कुमारम्")+++ मातुरुपस्थ आधाय,  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/01_mA_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/01_mA_te.md">
 <details open><summary><h2>०१ मा ते ...{Loading}...</h2></summary>
 
 
@@ -20,7 +20,7 @@ title = "१५ ०५ उत्तरया मातुरुपस्थ"
 
 ### दक्षिणे स्तने प्रतिधाप्य  
 उत्तरया +++(="अयं कुमारः")+++ दक्षिणं स्तनं प्रतिधाप्य,  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/02_aya~N_kumAro.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/02_aya~N_kumAro.md">
 <details open><summary><h2>०२ अयङ् कुमारो ...{Loading}...</h2></summary>
 
 
@@ -35,7 +35,7 @@ title = "१५ ०५ उत्तरया मातुरुपस्थ"
 ### पृथिव्या अभिमर्शः  
 उत्तराभ्यां +++(="यद्भूमेर्हृदयम्")+++ पृथिवीमभिमृश्य,  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/03_yadbhUmerhRdayandivi_chandramasi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/03_yadbhUmerhRdayandivi_chandramasi.md">
 <details open><summary><h2>०३ यद्भूमेर्हृदयन्दिवि चन्द्रमसि ...{Loading}...</h2></summary>
 
 
@@ -43,7 +43,7 @@ title = "१५ ०५ उत्तरया मातुरुपस्थ"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/04_yatte_susIme.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/04_yatte_susIme.md">
 <details open><summary><h2>०४ यत्ते सुसीमे ...{Loading}...</h2></summary>
 
 
@@ -56,7 +56,7 @@ title = "१५ ०५ उत्तरया मातुरुपस्थ"
 ### संविष्टस्याभिमर्शनम्  
 उत्तरेण यजुषा +++(="नामयति न रुदति")+++ संविष्टम् ॥  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/05_nAmayati_na.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/05_nAmayati_na.md">
 <details open><summary><h2>०५ नामयति न ...{Loading}...</h2></summary>
 
 

@@ -4,7 +4,7 @@ title = "२१ ०८ उत्तरेण यजुषोपस्पर्�
 +++
 उत्तरेण यजुषोपस्पर्शयित्वा ८  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/01_pRthivI_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/01_pRthivI_te.md">
 <details open><summary><h2>०१ पृथिवी ते ...{Loading}...</h2></summary>
 
 

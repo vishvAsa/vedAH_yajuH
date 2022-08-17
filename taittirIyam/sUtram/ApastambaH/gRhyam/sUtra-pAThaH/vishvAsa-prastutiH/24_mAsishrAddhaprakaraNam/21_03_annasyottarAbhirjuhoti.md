@@ -4,7 +4,7 @@ title = "२१ ०३ अन्नस्योत्तराभिर्जु
 +++
 अन्नस्योत्तराभिर् जुहोति ३  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/01_yanme_mAtA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/01_yanme_mAtA.md">
 <details open><summary><h2>०१ यन्मे माता ...{Loading}...</h2></summary>
 
 
@@ -15,7 +15,7 @@ title = "२१ ०३ अन्नस्योत्तराभिर्जु
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/02_yAstiShThanti_yA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/02_yAstiShThanti_yA.md">
 <details open><summary><h2>०२ यास्तिष्ठन्ति या ...{Loading}...</h2></summary>
 
 
@@ -29,7 +29,7 @@ title = "२१ ०३ अन्नस्योत्तराभिर्जु
 </div>
 
 #### पितामहाय
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/03_yanme_pitAmahI.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/03_yanme_pitAmahI.md">
 <details open><summary><h2>०३ यन्मे पितामही ...{Loading}...</h2></summary>
 
 
@@ -40,7 +40,7 @@ title = "२१ ०३ अन्नस्योत्तराभिर्जु
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/04_antardadhe_parvatairantarmahyA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/04_antardadhe_parvatairantarmahyA.md">
 <details open><summary><h2>०४ अन्तर्दधे पर्वतैरन्तर्मह्या ...{Loading}...</h2></summary>
 
 
@@ -54,7 +54,7 @@ title = "२१ ०३ अन्नस्योत्तराभिर्जु
 </div>
 
 #### प्रपितामहाय
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/05_yanme_prapitAmahI.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/05_yanme_prapitAmahI.md">
 <details open><summary><h2>०५ यन्मे प्रपितामही ...{Loading}...</h2></summary>
 
 
@@ -65,7 +65,7 @@ title = "२१ ०३ अन्नस्योत्तराभिर्जु
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/06_antardadha_RtubhirahorAtraishcha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/06_antardadha_RtubhirahorAtraishcha.md">
 <details open><summary><h2>०६ अन्तर्दध ऋतुभिरहोरात्रैश्च ...{Loading}...</h2></summary>
 
 
@@ -79,7 +79,7 @@ title = "२१ ०३ अन्नस्योत्तराभिर्जु
 </div>
 
 #### अन्येभ्यः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md">
 <details open><summary><h2>०७ ये चेह ...{Loading}...</h2></summary>
 
 

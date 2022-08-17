@@ -4,7 +4,7 @@ title = "१४ १५ यदि जरायु"
 +++
 यदि जरायु न पतेदेवंविहिताभिरेवाद्भिरुत्तराभ्यामवोक्षेत् ।
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/19_tilade-vapadyasva_na.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/19_tilade-vapadyasva_na.md">
 <details open><summary><h2>१९ तिलदेऽवपद्यस्व न ...{Loading}...</h2></summary>
 
 
@@ -12,7 +12,7 @@ title = "१४ १५ यदि जरायु"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/20_sthavitryavapadyasva_na.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/20_sthavitryavapadyasva_na.md">
 <details open><summary><h2>२० स्थवित्र्यवपद्यस्व न ...{Loading}...</h2></summary>
 
 

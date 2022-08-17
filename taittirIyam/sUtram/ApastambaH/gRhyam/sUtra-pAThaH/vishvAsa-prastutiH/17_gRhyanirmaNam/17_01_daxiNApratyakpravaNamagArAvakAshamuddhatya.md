@@ -4,7 +4,7 @@ title = "१७ ०१ दक्षिणाप्रत्यक्प्रव
 +++
 दक्षिणा-प्रत्यक्+++(=पश्चिम)+++-प्रवणम्+++(=निम्नम्)+++ अगरावकाशम् +++(खनित्रेण)+++ उद्धत्य, पालाशेन शमीमयेन वोदूहेनैतामेव दिशम् उत्तरया+++(="यद्भूमेः क्रूर"मित्येतया)+++ +उदूहति ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/01_yadbhUmeH_krUram.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/01_yadbhUmeH_krUram.md">
 <details open><summary><h2>०१ यद्भूमेः क्रूरम् ...{Loading}...</h2></summary>
 
 

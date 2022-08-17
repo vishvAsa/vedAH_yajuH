@@ -4,7 +4,7 @@ title = "१८ ०७ उत्तराभिस्तिसृभिरार
 +++
 उत्तराभिस् तिसृभिर् आरग्वध-मय्यस् समिधः ७  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/01_indra_jahi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/01_indra_jahi.md">
 <details open><summary><h2>०१ इन्द्र जहि ...{Loading}...</h2></summary>
 
 
@@ -15,7 +15,7 @@ title = "१८ ०७ उत्तराभिस्तिसृभिरार
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/02_apsujAta_sarevRddha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/02_apsujAta_sarevRddha.md">
 <details open><summary><h2>०२ अप्सुजात सरेवृद्ध ...{Loading}...</h2></summary>
 
 
@@ -26,7 +26,7 @@ title = "१८ ०७ उत्तराभिस्तिसृभिरार
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/03_trANamasi_paritrANamasi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/03_trANamasi_paritrANamasi.md">
 <details open><summary><h2>०३ त्राणमसि परित्राणमसि ...{Loading}...</h2></summary>
 
 

@@ -6,7 +6,7 @@ title = "०४ ०२ तानादितो द्वाभ्यामभ�
 
 +++(हे सुहृदः)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/01_prasugmantA_dhiyasAnasya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/01_prasugmantA_dhiyasAnasya.md">
 <details open><summary><h2>०१ प्रसुग्मन्ता धियसानस्य ...{Loading}...</h2></summary>
 
 प्र॒सु॒ग्मन्ता॑+++(=प्रकर्षेण सुष्ठु गन्तारः)+++ धि॒यसा॒नस्य॑+++(=ध्यायमानस्य)+++ स॒क्षणि॑+++(=समाने क्षणे)+++  
@@ -16,9 +16,9 @@ title = "०४ ०२ तानादितो द्वाभ्यामभ�
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/02_anRxarA_Rjavassantu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/02_anRxarA_Rjavassantu.md">
 <details open><summary><h2>०२ अनृक्षरा ऋजवस्सन्तु ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md">
 <details open=""><summary><h4>२३ अनृक्षरा ऋजवः ...{Loading}...</h4></summary>
 
 अ॒नृ॒क्ष॒रा+++(=कंटकशर्करादिरहिताः)+++ ऋ॒जव॑स् सन्तु॒ पन्था॒  

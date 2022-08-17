@@ -4,7 +4,7 @@ title = "११ १७ स्मृतञ् च"
 +++
 "स्मृतं च म" इत्य् एतद्वाचयित्वा
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md">
 <details open><summary><h2>०२-१० स्मृतञ्च मे ...{Loading}...</h2></summary>
 
 
@@ -34,7 +34,7 @@ title = "११ १७ स्मृतञ् च"
 
 +++(कुमारो वदति -)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md">
 <details open><summary><h2>११ उदायुषा स्वायुषोदोषधीनाम् ...{Loading}...</h2></summary>
 
 
@@ -51,7 +51,7 @@ title = "११ १७ स्मृतञ् च"
 ## आदित्योपस्थानम्
 उत्तरैर् +++("तच्चक्षुर्देव हितम्")+++ आदित्यम् उपतिष्ठते १७  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
 <details open><summary><h2>१२ तच्चक्षुर्देवहितम् पुरस्ताच्छुक्रमुच्चरत् ...{Loading}...</h2></summary>
 
 

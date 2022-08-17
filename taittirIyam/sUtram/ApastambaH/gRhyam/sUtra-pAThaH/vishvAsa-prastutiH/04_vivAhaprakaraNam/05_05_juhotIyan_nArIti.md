@@ -4,7 +4,7 @@ title = "०५ ०५ जुहोतीयन् नारीति"
 +++
 +++(वर एव तस्याः पाणिना)+++ जुहोति "इयं नारी"ति ॥  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/02_iyannAryupabrUte_kulpAnyAvapantikA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/02_iyannAryupabrUte_kulpAnyAvapantikA.md">
 <details open><summary><h2>०२ इयन्नार्युपब्रूते कुल्पान्यावपन्तिका ...{Loading}...</h2></summary>
 
 इ॒यन् ना॒र्य् उप॑ब्रूते॒  

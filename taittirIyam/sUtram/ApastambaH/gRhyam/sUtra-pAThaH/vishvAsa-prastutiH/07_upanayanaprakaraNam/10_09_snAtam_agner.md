@@ -5,7 +5,7 @@ title = "१० ०९ स्नातम् अग्नेर्"
 स्नातम् +++(शुचि-वाससं बद्ध-शिखं यज्ञोपवीतिनम्)+++ अग्नेर् उपसमाधानाद्य् आज्य-भागान्ते +++(शम्याः परिध्यर्थे, सकृत्पात्रप्रयोगः)+++  
 पालाशीं समिधम् उत्तरया +++("आयुर्दा देव"इत्येतया ऽऽचार्योक्तया)+++ ऽऽधाप्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/01_AyurdA_deva.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/01_AyurdA_deva.md">
 <details open><summary><h2>०१ आयुर्दा देव ...{Loading}...</h2></summary>
 
 
@@ -19,9 +19,9 @@ title = "१० ०९ स्नातम् अग्नेर्"
 
 उत्तरेण अग्निं, दक्षिणेन पदा ऽश्मानम् आस्थापयत्य् - आतिष्ठेति ९  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/02_AtiShThemamashmAnamashmeva_tva2m.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/02_AtiShThemamashmAnamashmeva_tva2m.md">
 <details open><summary><h2>०२ आतिष्ठेममश्मानमश्मेव त्व२म् ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md">
 <details open=""><summary><h4>०१ आतिष्ठेममश्मानमश्मेव त्व२म् ...{Loading}...</h4></summary>
 
 आति॑ष्ठे॒मम् अश्मा॑न॒म्  

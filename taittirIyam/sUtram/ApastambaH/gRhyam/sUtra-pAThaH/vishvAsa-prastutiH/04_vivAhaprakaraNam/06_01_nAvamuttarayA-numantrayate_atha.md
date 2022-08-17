@@ -4,7 +4,7 @@ title = "०६ ०१ नावमुत्तरयाऽनुमन्त्
 +++
 नावम् उत्तरयानुमन्त्रयते +++(=अयं नो मह्याः पारं स्वस्ति)+++ ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/02_ayanno_mahyAH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/02_ayanno_mahyAH.md">
 <details open><summary><h2>०२ अयन्नो मह्याः ...{Loading}...</h2></summary>
 
 

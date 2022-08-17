@@ -4,9 +4,9 @@ title = "१७ १२ अग्नेरुपसमाधानाद्या
 +++
 अग्नेर् उपसमाधानाद्य्-आज्यभागान्ते उत्तरा आहुतीर् +++("वास्तोष्पते प्रतिजानीहि, वास्तोष्पते शग्मया, वास्तोष्पते प्रतरणो न एधि, अमीवहा वास्तोष्पत")+++ हुत्वा जयादि प्रतिपद्यते १२  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/18_vAstoShpate_prati.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/18_vAstoShpate_prati.md">
 <details open><summary><h2>१८ वास्तोष्पते प्रति ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
 <details open=""><summary><h4>०१ वास्तोष्पते प्रति ...{Loading}...</h4></summary>
 
 
@@ -19,9 +19,9 @@ title = "१७ १२ अग्नेरुपसमाधानाद्या
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/19_vAstoShpate_shagmayA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/19_vAstoShpate_shagmayA.md">
 <details open><summary><h2>१९ वास्तोष्पते शग्मया ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
 <details open=""><summary><h4>०३ वास्तोष्पते शग्मया ...{Loading}...</h4></summary>
 
 
@@ -34,9 +34,9 @@ title = "१७ १२ अग्नेरुपसमाधानाद्या
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/20_vAstoShpate_prataraNo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/20_vAstoShpate_prataraNo.md">
 <details open><summary><h2>२० वास्तोष्पते प्रतरणो ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
 <details open=""><summary><h4>०२ वास्तोष्पते प्रतरणो ...{Loading}...</h4></summary>
 
 
@@ -49,9 +49,9 @@ title = "१७ १२ अग्नेरुपसमाधानाद्या
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/21_amIvahA_vAstoShpate.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/21_amIvahA_vAstoShpate.md">
 <details open><summary><h2>२१ अमीवहा वास्तोष्पते ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
 <details open=""><summary><h4>०१ अमीवहा वास्तोष्पते ...{Loading}...</h4></summary>
 
 
