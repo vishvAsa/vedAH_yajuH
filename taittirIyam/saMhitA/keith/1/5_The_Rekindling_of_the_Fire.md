@@ -2,9 +2,7 @@
 title = "5 The Rekindling of the Fire"
 
 +++
-## 08
 
-verily he makes him an eater of food. 'This blessing I invoke bringing light for the race', he should say, who has no son born; verily is born to him a son brilliant and resplendent. 'This blessing I invoke bringing light for N. N.', he should say who has a son born; verily he confers upon him brilliance and splendour.
 ## 09
 He offers the Agnihotra; whatever there is. of the Sacrificer's own, that is (still) his. In the generative organ he pours seed, for Agni is the generative organ. Then he burns at the end the plants; they then grow more numerous. In that he offers in the evening, he thus pours seed, and
   
