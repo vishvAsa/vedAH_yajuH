@@ -4,7 +4,7 @@ title = "5 The Rekindling of the Fire"
 +++
 ## 08
 
-'That excellent glory of Savitr', he says, for instigation. 'Famous the Soma-presser', he says; verily he wins the Soma draught. 'Make, O lord of prayer', he says; verily he wins splendour. 'Never art thou barren', be says; no barren night does he pass [4], who knowing thus pays reverence to the fire. May we (set) thee around, O Agni, as a fort', he says; verily he sets around a barrier, that nothing be spilt. 'O Agni, lord of the house', he says; that is according to the text. 'For a hundred winters', he says; 'for a hundred winters may I kindle thee', he says in effect. He utters the name of his son; verily he makes him an eater of food. 'This blessing I invoke bringing light for the race', he should say, who has no son born; verily is born to him a son brilliant and resplendent. 'This blessing I invoke bringing light for N. N.', he should say who has a son born; verily he confers upon him brilliance and splendour.
+verily he makes him an eater of food. 'This blessing I invoke bringing light for the race', he should say, who has no son born; verily is born to him a son brilliant and resplendent. 'This blessing I invoke bringing light for N. N.', he should say who has a son born; verily he confers upon him brilliance and splendour.
 ## 09
 He offers the Agnihotra; whatever there is. of the Sacrificer's own, that is (still) his. In the generative organ he pours seed, for Agni is the generative organ. Then he burns at the end the plants; they then grow more numerous. In that he offers in the evening, he thus pours seed, and
   

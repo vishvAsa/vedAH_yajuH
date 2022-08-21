@@ -70,7 +70,7 @@ verily he wins all the domesticated animals.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मह॑स् स्थ॒, महो॑ वो भख्षी॒येत्या॑ह॒।  महो॒ ह्ये॑ताः ।
+मह॑स् स्थ॒, महो॑ वो भख्षी॒येत्या॑ह।  महो॒ ह्ये॑ताः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -266,7 +266,8 @@ He falls away [2] from this world who pays reverence to the Ahavaniya;
 
 <details><summary>Keith</summary>
 
-he pays reverence to the Garhapatya; verily he rests on this world, and also he makes amends to the Garhapatya.
+he pays reverence to the Garhapatya;  
+verily he rests on this world, and also he makes amends to the Garhapatya.
 </details>
 
 
@@ -383,7 +384,9 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 
 <details><summary>Keith</summary>
 
-'With strength I gaze upon you; gaze on me with strength', he says; verily he invokes this blessing. 
+'With strength I gaze upon you;  
+gaze on me with strength', he says;  
+verily he invokes this blessing. 
 </details>
 
 
@@ -398,10 +401,17 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 12ऊर्जा व इत्यादि ॥ अयमपि ग्रहपशूपस्थानमन्त्रः । पुष्यासं श्रयन्तामित्येतामाशिषमाशास्ते ॥
 </details>
 
+## आहवनीयोपस्थानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथ्स॑वि॒तुर्वरे᳚ण्य॒मित्या॑ह॒ प्रसू᳚त्यै ।
+"तथ् स॑वि॒तुर् वरे᳚ण्य॒म्" इत्या॑ह॒ - प्रसू᳚त्यै ।
 </details>
+
+<details><summary>Keith</summary>
+
+'That excellent glory of Savitr', he says, for instigation. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -423,9 +433,16 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॒मान॒ꣵ॒ स्वर॑ण॒म् इत्या॑ह ।  
-सोमपी॒थमे॒वाव॑ रुन्धे ।  
+सो॒मान॒ꣵ॒ स्वर॑ण॒म् इत्य् आ॑ह ।  
+सोम-पी॒थम्+++(=पानम्)+++ ए॒वाव॑ रुन्धे ।  
 </details>
+
+<details><summary>Keith</summary>
+
+'Famous the Soma-presser', he says;  
+verily he wins the Soma draught. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -435,14 +452,22 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 
 <details><summary>भट्टभास्करटीका</summary>
 
-14सोमानमित्याहवनीयोपस्थानमेव ॥ सोमपीथमेव सोमपानमेव अनेनावरुन्धे । पिबतेरौणादिकस्थक्प्रत्ययः ॥
+14सोमानम् इत्याहवनीयोपस्थानम् एव ॥  
+**सोमपीथम् एव** सोम-पानम् एव अनेनावरुन्धे । पिबतेरौणादिकस्थक्प्रत्ययः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृणु॒हि ब्र॑ह्मणस्पत॒ इत्या॑ह  ।
-ब्र॒ह्म॒व॒र्च॒समे॒वाव॑ रुन्धे।
+"कृणु॒हि ब्र॑ह्मणस्पत॒" इत्या॑ह  ।
+ब्र॒ह्म॒व॒र्च॒सम् ए॒वाव॑ रुन्धे।
 </details>
+
+<details><summary>Keith</summary>
+
+'Make, O lord of prayer', he says;  
+verily he wins splendour. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -456,7 +481,7 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 </details>
 
 
-
+## रात्र्युपस्थानम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 क॒दा च॒न स्त॒रीर॒सीत्या॑ह न स्त॒रीꣳ रात्रि॑व्ँवसति [34]य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते 
@@ -464,38 +489,33 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क॒दा च॒न स्त॒रीर॒सीत्या॑ह ।  
-न स्त॒रीꣳ रात्रि॑व्ँवसति ।  
-य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते ।  
+क॒दा च॒न स्त॒रीर् अ॒सीत्य् आ॑ह ।  
+न स्त॒रीꣳ+++(=वन्ध्यां)+++ रात्रि॑व्ँ वसति॒  
+य ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑प॒तिष्ठ॑ते ।  
 </details>
+
+<details><summary>Keith</summary>
+
+'Never art thou barren', he says;  
+no barren night does he pass [4],  
+who knowing thus pays reverence to the fire. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 क॒दा च॒न स्त॒रीर॒सीत्या॑ह ।  
-न स्त॒रीꣳ रात्रि॑व्ँवसति ।  
-य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते ।  
+न स्त॒रीꣳ रात्रि॑व्ँवसति॒ य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते ।  
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
 16कदा चनेति रात्र्युपस्थानम् ॥
 
-- [क॒दा च॒न स्त॒रीर॑सि॒   
-नेन्द्र॑ सश्चसि दा॒शुषे᳚ ।  
-उपो॒पेन्नु म॑घव॒न्   
-भूय॒ इन्नु ते॒ ॥  +++(पञ्चपदा पथ्याछन्दः)+++   
-
-- तृतीयसवने आदित्यं गृह्णाति - कदा चन स्तरीरसीति पथ्यया पञ्चपदया । यथोक्तं - 'पथ्या पञ्चभिरष्टाक्षरैः' इति । इयं तु शङ्कुमतीनाम पथ्या, यथोक्तं - 'एकस्मिन् पञ्चके छन्दश्शङ्कुमती' इति । पथ्या बृहती वा जागततृतीयपादत्वात् ।  
-
-- हे इन्द्र न कदाचिदपि त्वं स्तरीरसि धनानां छादकोसि । 'अवितॄस्तृतन्त्रिम्य ईः' इतीप्रत्ययः । किमनाच्छादनमात्रमेव? नेत्याह - सश्चसि दाशुषे, सश्चतिर्गतिकमा, दाशुषे हवींषि दत्तवते सश्चसि दित्सया । 'क्रियाग्रहणं कर्तव्यम्' इति संप्रदानत्वम् । दातुमिति वा पदाध्याहारः । दाशुषे दातुं सश्चसि धनानि दातुं दाशुषस्सकाशं त्वमेव सश्चसि । किमुच्यते सकृद्ददासीति - हे मघवन् तव देवस्य देवनादिगुणयुक्तस्य दानं भूयोप्युपपृच्यते उपगृह्यते पुनः पुनरपि समुपपाद्यते । न सकृद्दत्तमिति स्मर्यते, किन्तु पुनः पुनर्दीयत एवेति । पृची सम्पर्के ।
-
-- अत्र भूय इन्नुत इति चतुर्थः पादः । 'प्रसमुपोदः पादपूरणे' इत्युपशब्दस्य द्विर्वचनम् । 'अनुदातं च' इति द्वितीयो निहन्यते । इच्छब्दोवधारणार्थः उपपृच्यत एव । नुशब्दः प्रसिद्धौ; नन्वेवं खलु सर्वदा क्रियते । नु इति पुराणवचनो वा, पुराणोयं तव स्वभावः । द्वितीय इच्छब्दोप्यर्थः, भूयोपि । द्वियीयो नुशब्दो हेतौ, यस्मादेवं तस्मान्न कदा चन स्तरीरसीति । तस्मादेवंप्रभावस्त्वमस्मानप्यनुगृहाणेत्याशिषा समाप्यते  ]
-
-
 य एवमस्य मन्त्रस्यार्थं विद्वानग्न्यात्मिकां रात्रिमुपतिष्ठते स स्तरीं छादयित्रीं विनाशयित्रीं रात्रिं न वसति, अपि तु सुखयित्रीमेवाधिवसति सुखहेतुरेव भवतीति यावत् । 'अवितृस्तृतन्त्रिभ्य ईः' इतीप्रत्ययः ॥
 </details>
 
-
+## गार्हपत्योपस्थानम्
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -504,16 +524,21 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परि॑ त्वाग्ने॒ पुर॑व्ँव॒यमित्या॑ह ।  
-परि॒धिमे॒वैतम्परि॑ दधा॒ति ।  
-अस्क॑न्दा॒य +++(भवति)+++ ।
+"परि॑ त्वा ऽग्ने॒ पुर॑व्ँ व॒यम्" इत्या॑ह ।  
+परि॒धिम् ए॒वैतम् परि॑ दधा॒त्य् +अस्क॑न्दा॒य।
 </details>
+
+<details><summary>Keith</summary>
+
+May we (set) thee around, O Agni, as a fort', he says;  
+verily he sets around a barrier, that nothing be spilt. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 परि॑ त्वाग्ने॒ पुर॑व्ँव॒यमित्या॑ह ।  
-परि॒धिमे॒वैतम्परि॑ दधा॒ति ।  
-अस्क॑न्दा॒य +++(भवति)+++ ।
+परि॒धिमे॒वैतम्परि॑ दधा॒त्यस्क॑न्दा॒य ।  
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -523,8 +548,14 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ गृहपत॒ इत्या॑ह यथा य॒जुरे॒वैतत् ।
+"अग्ने॑ गृहपत॒" इत्या॑ह यथा य॒जुर् ए॒वैतत् ।
 </details>
+
+<details><summary>Keith</summary>
+
+'O Agni, lord of the house', he says; that is according to the text. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -545,13 +576,19 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒तꣳ हिमा॒ इत्या॑ह  +++(अयं भागः कुत्र उचित इति ? प्रतीकं तु उत्तरमन्त्रस्य  अत्र वर्तते । अतः विचारणीयम्)+++
-श॒तन्त्वा॑ हेम॒न्तान् इ॑न्धिषी॒येति॒ वावैतदा॑ह ।
+"श॒तꣳ हिमा॒" इत्या॑ह -  
++++(तेन)+++ श॒तन् त्वा॑ हेम॒न्तान् इ॑न्धिषी॒येति॒ वावैतद् आ॑ह ।
 </details>
+
+<details><summary>Keith</summary>
+
+'For a hundred winters', he says; 'for a hundred winters may I kindle thee', he says in effect. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-श॒तꣳ हिमा॒ इत्या॑ह  +++(अयं भागः कुत्र उचित इति ? प्रतीकं तु उत्तरमन्त्रस्य  अत्र वर्तते । अतः विचारणीयम्)+++
+श॒तꣳ हिमा॒ इत्या॑ह  
 श॒तन्त्वा॑ हेम॒न्तान् इ॑न्धिषी॒येति॒ वावैतदा॑ह ।
 </details>
 
@@ -572,6 +609,12 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 पु॒त्रस्य॒ नाम॑ गृह्णाति ।
 </details>
 
+<details><summary>Keith</summary>
+
+He utters the name of his son; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 पु॒त्रस्य॒ नाम॑ गृह्णाति ।
@@ -579,20 +622,19 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 
 <details><summary>भट्टभास्करटीका</summary>
 
-20पुत्रस्येति ॥ अमुष्मा +++(अमुष्मै इति पदम्  उत्तरमूले उपलभ्यते । अत्र नोपलभ्यते)+++  इत्यत्र यथा नारायणाय केशवायेति ।
+20पुत्रस्येति ॥ अमुष्मा इत्यत्र यथा नारायणाय केशवायेति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्ना॒दमे॒वैन॑ङ्करोति ।  
-तामा॒शिष॒मा शा॑से॒ ।  
-तन्त॑वे॒ ज्योति॑ष्मती॒मिति॑ ब्रूयात् ।
+अ॒न्ना॒दम् ए॒वैन॑ङ् करोति ।  
+"ताम् आ॒शिष॒म् आ शा॑से॒ तन्त॑वे॒ ज्योति॑ष्मती॒म्" इति॑ ब्रूयात् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒न्ना॒दमे॒वैन॑ङ्करोति ।  
-तामा॒शिष॒मा शा॑से॒ ।  
+तामा॒शिष॒मा शा॑से॒   
 तन्त॑वे॒ ज्योति॑ष्मती॒मिति॑ ब्रूयात् ।
 </details>
 
