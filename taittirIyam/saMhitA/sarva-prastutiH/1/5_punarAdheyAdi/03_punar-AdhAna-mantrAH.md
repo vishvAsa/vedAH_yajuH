@@ -241,33 +241,11 @@ _______
 7अग्निहोत्रमन्त्राव् उपस्थानार्थौ - तत्र प्रथमा मन इति विराट् ॥ 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-मनो॒ ज्योति॑र् **जुषता॒म्**, आज्य॒व्ँ  
-विच्छि॑न्नय्ँ **य॒ज्ञꣳ सम्** इ॒मन् **द॑धातु** ।  
-**बृह॒स्पति॑स् तनुताम्** इ॒मन् नो॒,  
-विश्वे॑ दे॒वा इ॒ह **मा॑दयन्ताम्** ॥
-</details>
-
-<details><summary>Keith</summary>
-
-Mind, light, rejoice in the oblation.  
-May be unite this scattered sacrifice;  
-May Brhaspati extend it;  
-May the All-gods rejoice herein.
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md"  newLevelForH1="5" includeTitle="विश्वास-प्रस्तुतिः"> </div>  
 
 
-<details><summary>मूलम्</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-मनो॒ ज्योति॑र्जुषता॒माज्य॒व्ँविच्छि॑न्नय्ँय॒ज्ञꣳ समि॒मन्द॑धातु ।  
-बृह॒स्पति॑स्तनुतामि॒मन्नो॒ विश्वे॑ दे॒वा इ॒ह मा॑दयन्ताम्  ॥
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-हे अग्ने तव ज्योतिः कीदृशं मननीयम् । यद्वा - मनश्शेषमुद्वासितेन पीडितं यन्मननीयमेवासीत् नान्यत्वे[त्र]विद्यते तदिदमाज्यं जुषतां सेवतां अनेन कर्मणा पूर्ववत्समृद्धमस्तु । यद्वा - मनस्सदा मननीयं मनोहरं अग्न्याख्यं ज्योतिः उद्वासनापराधं चेतस्यकृत्वा जुषतामाज्यमिति । ततो विच्छिन्नमुद्वासने तव यज्ञमिमं सन्दधातु । बृहस्पतिश्च नः अस्माकमिमं यज्ञं तनुतां विश्वे देवाश्च इहास्मिन्कर्मणि मादयन्तां मोद(य)न्ताम् । मद तृप्तियोगे चुरादिः । बृहस्पतिशब्दश्च पारस्करादिः, वनस्पत्यादिश्च । तेन सुडागमः, पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं च ॥
-</details>
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>

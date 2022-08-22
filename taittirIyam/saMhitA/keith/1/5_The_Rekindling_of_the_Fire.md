@@ -3,40 +3,13 @@ title = "5 The Rekindling of the Fire"
 
 +++
 
-## 09
-
-
 ## 10
 ### a
-The name that first, O alI-knower,  
-My father and my mother bestowed upon me aforetime,  
-Do thou bear it until I return;  
-O Agni, may I bear thy name.
 ### b
-My name and thine, O all-knower,  
-Which like men changing garments we bear,  
-Let us exchange again,  
-Thou for life, and we to live.
 ### c
-Homage to Agni, the unpierced,  
-Homage to the unapproachable, homage to the king!  
-Irresistible is Agni [1], the very vigorous, all-conquering,  
-Powerful, the best, the Gandharva.
 ### d
-O Agni, the gods have thee for father,  
-Offer to thee oblations, and have thee as an umpire  
-With life, with lordship of cattle (endow) me  
-And bestow on me good fortune.
 ### e
-Agni here is of all the best,  
-He is most adorable,  
-Must ready to win (us) a thousand;  
-To him be all good strength.
 ### f
-Mind, light, rejoice in the oblation  
-May he unite the scattered sacrifice;  
-The offerings at dawn and evening  
-I unite with oblation and ghee.
 
 ### g
 Rich in milk are the plants [2],  
