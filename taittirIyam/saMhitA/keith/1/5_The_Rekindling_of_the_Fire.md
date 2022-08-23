@@ -6,20 +6,8 @@ title = "5 The Rekindling of the Fire"
 ## 11
 
 ### c
-A greater than the marvels of Vaiśvanara  
-By his craftsmanship the sage hath performed alone;  
-Magnifying both parents, sky and earth,  
-Rich in seed, was Agni born.
 ### d
-Desired in the sky, Agni, desired on earth,  
-Desired he entereth all the plants;  
-Agni Vaiśvanara eagerly desired,  
-May he by day [1] and night protect us from the foe.
 ### e
-In that, when born, O Agni, thou didst survey the worlds,  
-Like a busy herd that goeth around his flock,  
-Do thou, O Vaiśvanara, find a way for the Brahman;  
-Do ye protect us ever with your blessings.
 ### f
 Thou, O Agni, blazing with light,  
 Didst fill the firmament at thy birth;  
