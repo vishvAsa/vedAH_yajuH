@@ -4,14 +4,7 @@ title = "5 The Rekindling of the Fire"
 +++
 
 ## 11
-### a
-Let Vaiśvanara with succour for us  
-Come from afar,  
-Agni through the hymn which brings (him).
-### b
-The righteous Vaiśvanara,  
-Lord of right and of light,  
-The immortal cauldron we seek.'
+
 ### c
 A greater than the marvels of Vaiśvanara  
 By his craftsmanship the sage hath performed alone;  
