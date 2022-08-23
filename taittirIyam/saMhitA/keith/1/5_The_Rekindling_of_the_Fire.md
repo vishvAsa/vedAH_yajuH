@@ -3,43 +3,6 @@ title = "5 The Rekindling of the Fire"
 
 +++
 
-## 10
-### a
-### b
-### c
-### d
-### e
-### f
-
-### g
-Rich in milk are the plants [2],  
-The milk of the shoot is rich in milk,  
-With the milk of the milk of the waters,  
-O Indra, do thou unite me.
-### h
-O Agni, lord of vows, I shall perform this vow; may I accomplish it; may it be successful for me.
-### i
-Agni, the priest, I summon hither;  
-The gods worthy of sacrifice whom we invoke,  
-Let these gods come in kindly mind;  
-Let the gods enjoy this oblation of me.
-### k
-Who yoketh thee? Let him yoke thee.
-### l
-The potsherds for the cauldron [3],  
-Which wise men collect,  
-These are in Pusan's guardianship;  
-Indra and Vayu set them free.
-### m
-Unbroken is the cauldron, sprinkling abundantly,  
-It hath returned to that whence it came;  
-The kindling-wood, the Vedi, and all the enclosing-sticks  
-Attend the life of the sacrifice.
-### n
-The three and thirty threads that stretch,  
-That maintain in security the sacrifice,  
-Of these the broken one I restore; hail!  
-Let the cauldron go to the gods.
 ## 11
 ### a
 Let Vaiśvanara with succour for us  

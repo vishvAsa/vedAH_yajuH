@@ -241,7 +241,7 @@ _______
 7अग्निहोत्रमन्त्राव् उपस्थानार्थौ - तत्र प्रथमा मन इति विराट् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md"  newLevelForH1="5" includeTitle="विश्वास-प्रस्तुतिः"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md"  newLevelForH1="5" title="विश्वास-प्रस्तुतिः"> </div>  
 
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md"  newLevelForH1="5" includeTitle="false"> </div>  
