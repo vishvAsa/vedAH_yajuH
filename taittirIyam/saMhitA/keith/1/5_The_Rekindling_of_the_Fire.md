@@ -4,20 +4,7 @@ title = "5 The Rekindling of the Fire"
 +++
 
 ## 11
-
-### c
-### d
-### e
-### f
-Thou, O Agni, blazing with light,  
-Didst fill the firmament at thy birth;  
-Thou, O Vaiśvanara, wise one, by thy might  
-Didst free the gods from misfortune.'
 ### g
-O Agni, among our bountiful lords, preserve  
-The lordship, uninjured, unageing, rich in heroes;  
-May we win booty a hundred, a thousandfold,  
-O Vaiśvanara [2], O Agni, through thy help.
 ### h
 May we enjoy the loving kindness of Vaiśvanara,  
 For he is the king, the orderer of the worlds  
