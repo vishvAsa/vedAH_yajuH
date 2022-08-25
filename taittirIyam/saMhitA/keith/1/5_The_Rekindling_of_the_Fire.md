@@ -4,36 +4,11 @@ title = "5 The Rekindling of the Fire"
 +++
 
 ## 11
-### g
-### h
-May we enjoy the loving kindness of Vaiśvanara,  
-For he is the king, the orderer of the worlds  
-Hence born be discerneth all the (earth),  
-Vaiśvanara vieth with the sun.
-
-### i
-Thine anger, O Varuna, would we avert with reverence,  
-With sacrifices, with oblations  
-Ruling, O wise Asura, O king,  
-Do thou unloose the sins we have committed.
-### k
-Unloose from us, O Varuna, the highest,  
-The lowest, the midmost knot;  
-Then may we, O Aditya [3], in thy rule,  
-Be guiltless before Aditi.  
-I Of Dadhikravan have I sung,  
-The swift strong horse;  
-May he make our mouths fragrant;  
-May he lengthen our days.
 ### m
-Dadhikra with his glory hath overspread the five peoples,  
-As the sun with his light the waters;  
-May the strong steed, winning a hundred, a thousand,  
-Fill with boney these words of ours.
 ### n
-Agni, the head.
+
 ### o
-Thou art.
+
 ### p
 O Maruts, what time seeking your favour  
 We call on you from the sky,  

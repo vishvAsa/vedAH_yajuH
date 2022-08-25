@@ -49,6 +49,8 @@ _______
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/044/16_agnirmUrdhA_divaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
