@@ -1,11 +1,10 @@
 ---
+practice_weight: 0
+status: to_memorize
 title: आपन् त्वा
 unicode_script: devanagari
 
-status: to_memorize
-practice_weight: 0
 ---
-
 आपं॑ त्वाग्ने॒  
 मन॒सापं॑ त्वाग्ने॒  
 तप॒सापं॑ त्वाग्ने  
