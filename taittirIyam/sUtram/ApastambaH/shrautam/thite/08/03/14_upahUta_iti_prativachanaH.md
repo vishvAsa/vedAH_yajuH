@@ -2,4 +2,4 @@
 title = "14 उपहूत इति प्रतिवचनः"
 
 +++
-उपहूत इति प्रतिवचनः १४
+14. "(You are) invited" should be the answer (of the addressed).

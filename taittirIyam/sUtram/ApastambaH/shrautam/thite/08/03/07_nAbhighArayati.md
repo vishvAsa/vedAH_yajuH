@@ -2,4 +2,4 @@
 title = "07 नाभिघारयति"
 
 +++
-नाभिघारयति ७
+7. He does not pour ghee on the whey (which has been scooped).

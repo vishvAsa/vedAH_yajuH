@@ -2,4 +2,4 @@
 title = "13 यो वसन्तोऽभूत्प्रावृडभूच्छरदभूदिति यजते"
 
 +++
-यो वसन्तोऽभूत्प्रावृडभूच्छरदभूदिति यजते स ऋतुयाजी । अथ यश्चतुर्षुचतुर्षु मासेषु स चातुर्मास्ययाजी । वसन्ते वैश्वदेवेन यजते प्रावृषि वरुणप्रघासैः शरदि साकमेधैरिति विज्ञायते १३
+13. He who performs (taking into consideration) "It has become the spring; it has become the rainy season; it has become the autumn"-he is the performer of a sacrifice at a particular season. One who performs sacrifices every four months is the performer of Cāturmāsyas. It is known (from a Brāhmaṇa-text): One should perform the Vaiśvadeva in the spring; Varuṇapraghāsas in the rainy season, with the Sākamedhas in the Autumn.
