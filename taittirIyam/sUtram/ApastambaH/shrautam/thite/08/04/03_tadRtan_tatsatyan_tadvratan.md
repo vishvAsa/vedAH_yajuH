@@ -2,4 +2,9 @@
 title = "03 तदृतन् तत्सत्यन् तद्व्रतन्"
 
 +++
-तदृतं तत्सत्यं तद्व्रतं तच्छकेयं तेन शकेयं तेन राध्यासमिति यजमानो जपति । ब्राह्मण एकहोतेति चानुवाकम् ३
+3. The sacrificer mutters tadr̥taṁ tat satyam...[^1] and the Section beginning with brāhmaṇa ekahota.[^2]  
+
+
+[^1]: TB I.5.5.2.  
+
+[^2]: TA III.7.  

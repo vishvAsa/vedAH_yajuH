@@ -2,4 +2,4 @@
 title = "06 कामन् तु ततो"
 
 +++
-कामं तु ततो भूयो दद्यात् ६
+6. (The sacrificer) may give more than this according to his desire.

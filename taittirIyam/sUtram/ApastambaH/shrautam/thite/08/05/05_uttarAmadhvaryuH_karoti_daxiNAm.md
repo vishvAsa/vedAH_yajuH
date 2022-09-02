@@ -2,4 +2,4 @@
 title = "05 उत्तरामध्वर्युः करोति दक्षिणाम्"
 
 +++
-उत्तरामध्वर्युः करोति दक्षिणां प्रतिप्रस्थाता । उत्तरे विहारेऽध्वर्युश्चरति दक्षिणे प्रतिप्रस्थाता ५
+5. The Adhvaryu prepares the northern (left) altar; the Pratiprasthātr̥ prepares the southern (right) altar. On the northern place of performance the Adhvaryu performs his duties; on the southern place of performance the Pratiprasthātr̥ performs his duties.

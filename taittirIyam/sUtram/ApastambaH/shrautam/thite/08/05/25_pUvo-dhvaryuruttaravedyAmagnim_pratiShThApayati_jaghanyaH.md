@@ -2,4 +2,4 @@
 title = "25 पूवोऽध्वर्युरुत्तरवेद्यामग्निम् प्रतिष्ठापयति जघन्यः"
 
 +++
-पूवोऽध्वर्युरुत्तरवेद्यामग्निं प्रतिष्ठापयति । जघन्यः प्रतिप्रस्थाता दक्षिणस्याम् २५
+25. First the Adhvaryu should place the fire on the northern altar; then the Pratiprasthātr̥ should place the fire on the southern altar.

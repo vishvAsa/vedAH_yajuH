@@ -2,4 +2,4 @@
 title = "27 अपः प्रगाह्य तिष्ठन्तोऽवभृथेन"
 
 +++
-अपः प्रगाह्य तिष्ठन्तोऽवभृथेन चरन्ति २७
+27. Having entered into waters, standing they perform the Avabhr̥tha-ritual.

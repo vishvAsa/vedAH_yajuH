@@ -2,4 +2,6 @@
 title = "29 यदि वा पुरा"
 
 +++
-यदि वा पुरा तृणं स्यात्तस्मिञ्जुहुयात् २९
+29. If there is any grass in water in front of him he may offer (this ghee) on it.[^1]  
+
+[^1]: Cf. KS XXIX.3.

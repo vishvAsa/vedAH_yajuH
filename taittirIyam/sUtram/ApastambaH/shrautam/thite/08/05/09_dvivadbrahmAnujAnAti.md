@@ -2,4 +2,4 @@
 title = "09 द्विवद्ब्रह्मानुजानाति"
 
 +++
-द्विवद्ब्रह्मानुजानाति ९
+9. The Brahman gives permission (using) dual number.

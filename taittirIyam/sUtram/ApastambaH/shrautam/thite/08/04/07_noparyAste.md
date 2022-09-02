@@ -2,4 +2,4 @@
 title = "07 नोपर्यास्ते"
 
 +++
-नोपर्यास्ते ७
+7. He should not sit on something (e.g. chair etc.) but only on the earth.

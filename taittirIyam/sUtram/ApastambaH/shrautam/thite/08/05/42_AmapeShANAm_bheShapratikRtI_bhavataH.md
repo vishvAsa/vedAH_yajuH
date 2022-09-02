@@ -2,4 +2,4 @@
 title = "42 आमपेषाणाम् भेषप्रतिकृती भवतः"
 
 +++
-आमपेषाणां भेषप्रतिकृती भवतः ४२
+42. The figures of ram and ewe will be prepared out of the raw, dampened flour.

@@ -2,4 +2,4 @@
 title = "13 उत्करे निवपति"
 
 +++
-उत्करे निवपति १३
+13. Then he throws it on the rubbish-heap.

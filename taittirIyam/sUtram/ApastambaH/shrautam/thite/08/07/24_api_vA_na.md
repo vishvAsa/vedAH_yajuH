@@ -2,4 +2,4 @@
 title = "24 अपि वा न"
 
 +++
-अपि वा न वेदिः २४
+24. Or (there may be) no altar.

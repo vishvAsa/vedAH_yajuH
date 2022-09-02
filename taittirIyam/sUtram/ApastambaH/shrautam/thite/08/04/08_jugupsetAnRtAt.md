@@ -2,4 +2,4 @@
 title = "08 जुगुप्सेतानृतात्"
 
 +++
-जुगुप्सेतानृतात् ८
+8. He should have disgust for the untruth.

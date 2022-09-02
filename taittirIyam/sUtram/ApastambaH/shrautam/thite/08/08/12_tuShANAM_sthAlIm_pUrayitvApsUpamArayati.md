@@ -2,4 +2,9 @@
 title = "12 तुषाणां स्थालीम् पूरयित्वाप्सूपमारयति"
 
 +++
-तुषाणां स्थालीं पूरयित्वाप्सूपमारयति समुद्रे ते हृदयमप्स्वन्तरिति १२
+12. Having filled a pot with the husks (of barley) he drowns[^1] it with samudre te hr̥dayam.[^2]  
+
+
+[^1]: Cf. MS IV.8.5.  
+
+[^2]: TS I.4.45.e-f.  

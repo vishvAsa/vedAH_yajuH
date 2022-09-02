@@ -2,4 +2,9 @@
 title = "25 शतन् ते राजन्भिषजः"
 
 +++
-शतं ते राजन्भिषजः सहस्रमित्यपो दृष्ट्वा जपति २५
+25. Having seen waters[^1] (the Adhvaryu) should mutter Śataṁ te rājan...[^2]  
+
+
+[^1]: Cr. MS IV.8.5.  
+
+[^2]: TS I.4.45.b.  

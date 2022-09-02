@@ -2,4 +2,4 @@
 title = "13 अपि वा न"
 
 +++
-अपि वा न सौमिकोऽवभृथः । तूष्णीं तुषनिष्कासमप्सूपवपेत् १३
+13. Or rather there should not be the Avabhr̥tha-ritual of the Soma-sacrificial type. He should throw away the husks of barley and scrappings (of milk-mess) in the water without any formula.

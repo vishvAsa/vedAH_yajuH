@@ -2,4 +2,4 @@
 title = "24 अन्तरा वेदी प्रतिप्रस्थाता"
 
 +++
-अन्तरा वेदी प्रतिप्रस्थाता प्रतिपद्यते । उत्तरेणोत्तरां वेदिमध्वर्युः २४
+24. The Pratiprasthatr̥ goes between the two altars (while taking the fire to the Southern altar). the Adhvaryu (goes) by the north of the norther altar (while taking the fire to the northern altar).  
