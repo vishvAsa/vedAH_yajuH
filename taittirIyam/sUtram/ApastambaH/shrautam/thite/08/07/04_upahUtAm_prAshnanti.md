@@ -2,4 +2,7 @@
 title = "04 उपहूताम् प्राश्नन्ति"
 
 +++
-उपहूतां प्राश्नन्ति ४
+4. (The priests and the sacrificer) consume the (Iḍā which has been) invoked.[^1]  
+
+
+[^1]: See for details III.2.8.

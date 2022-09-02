@@ -2,4 +2,4 @@
 title = "02 पुंसः पुंव्यञ्जनानि"
 
 +++
-पुंसः पुंव्यञ्जनानि २
+2. there should be the signs of me the male (ram).

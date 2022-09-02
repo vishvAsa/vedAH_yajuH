@@ -2,4 +2,4 @@
 title = "30 अथ प्रचर्यारमति"
 
 +++
-अथ प्रचर्यारमति ३०
+30. Then after having performed (the offering of it he) stops.

@@ -2,4 +2,9 @@
 title = "15 देवीराप इत्यवभृथं यजमानो"
 
 +++
-देवीराप इत्यवभृथं यजमानो ऽभिमन्त्र्य सुमित्रा न आप ओषधय इत्यपः प्रगाह्य सशिरस्कावनुपमक्षन्तौ स्नातः पत्नी यजमानश्च १५
+15. After the sacrificer has addressed the Avabhr̥tha (i.e. the water in which this rite is being performed) with devīrāpaḥ...,[1] having entered into the water with sumitrā na āpa oṣadhayaḥ...[^2] the sacrificer and his wife take bath without dipping (bodies completely including their) heads i.e. simply sprinkle water on their heads.  
+
+
+[^1]: TS I.4.45.k.  
+
+[^2]: TS I.4.45.g.  

@@ -2,4 +2,7 @@
 title = "09 पृषदाज्ये विकारः महीनाम्"
 
 +++
-पृषदाज्ये विकारः । महीनां पयोऽसीति पृषदाज्यधान्यां सकृदाज्यं गृह्णाति । द्विर्दधि द्विराज्यम् ९
+9. At the time of (scooping of) the spotted ghee there should be modification with mahīnāṁ payosi... (the Adhvaryu) scoops ghee in the holding pot of spotted ghee; then curds twice and then twice ghee.[^1]  
+
+
+[^1]: See VIII.2.8.

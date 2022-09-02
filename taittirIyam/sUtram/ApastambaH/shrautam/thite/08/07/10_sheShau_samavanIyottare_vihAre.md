@@ -2,4 +2,7 @@
 title = "10 शेषौ समवनीयोत्तरे विहारे"
 
 +++
-शेषौ समवनीयोत्तरे विहारे पूर्ववद्भक्षयन्त्या मा विशन्त्विन्दव आ गल्गा धवनीनां रसेन मे रसं पृण । तस्य ते वाजोभिर्भक्षङ्कृतस्येति समानम् १०
+10. After the Adhvaryu has poured together both the remnants of his whey and the whey of Pratiprasthātr̥, (the priests and the sacrificer) consume (the remnants) in the northern (part of the) sacrificial place in the manner as (described) earlier[^1] (but) with ā mā viśantvindavaḥ; the words tasya te vājibhir... are cammon.  
+
+
+[^1]: See and cp. VIII.3.12-16.

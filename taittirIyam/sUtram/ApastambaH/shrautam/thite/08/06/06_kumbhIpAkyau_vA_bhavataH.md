@@ -2,4 +2,4 @@
 title = "06 कुम्भीपाक्यौ वा भवतः"
 
 +++
-कुम्भीपाक्यौ वा भवतः ६
+6. Or they are to be baked in an earthen pot.

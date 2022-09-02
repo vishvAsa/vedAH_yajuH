@@ -2,4 +2,7 @@
 title = "04 अत्रापि मेषम् मेषीञ्"
 
 +++
-अत्रापि मेषं मेषीं च करोतीति वाजसनेयकम् ४
+4. And at this stage only she prepares the (figures of) ram and ewe—this is the view of Vājasaneyins.[^1]  
+
+
+[^1]: Cp. SB II.5.2.14-15.  

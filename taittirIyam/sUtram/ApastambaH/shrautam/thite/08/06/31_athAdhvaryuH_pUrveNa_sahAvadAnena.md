@@ -2,4 +2,4 @@
 title = "31 अथाध्वर्युः पूर्वेण सहावदानेन"
 
 +++
-अथाध्वर्युः पूर्वेण सहावदानेन वारुण्याः सर्वं मेषमवद्यति । उत्तरेण शमीपर्णकरीराणि । अथ प्रचरति ३१
+31. Then the Adhvaryu cuts (takes) the entire portion of the ram along with the first portion of the (milk-mess) for Varuṇa; the leaves of Śamī and Karīra-fruits along with the later (portion). Then he performs (the offering of it).

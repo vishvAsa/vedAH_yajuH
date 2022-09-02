@@ -2,4 +2,4 @@
 title = "05 यः प्रवया इवर्षभः"
 
 +++
-यः प्रवया इवर्षभः स दक्षिणा ५
+3. A full-grown bull (should be given as) the sacrificial gift.
