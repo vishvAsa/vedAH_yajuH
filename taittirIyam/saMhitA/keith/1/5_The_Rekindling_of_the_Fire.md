@@ -4,20 +4,7 @@ title = "5 The Rekindling of the Fire"
 +++
 
 ## 11
-### m
-### n
-
-### o
-
-### p
-O Maruts, what time seeking your favour  
-We call on you from the sky,  
-Do ye come unto us [4].
 ### q
-The protections which ye have for the earnest worshipper,  
-Threefold do ye grant them to the generous giver,  
-To us, O Maruts, do ye accord them;  
-O strong ones, give us wealth rich in heroes:
 ### r
 Let Aditi save us,  
 Let Aditi give us protection,  
