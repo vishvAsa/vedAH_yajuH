@@ -2,42 +2,7 @@
 title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
-## 01
-### a
-By the Yajus I pour on thee  
-Offspring, life, and wealth.  
-Instigated by Brhaspati may the sacrificer here come to no harm.
-### b
-Thou art butter, thou art truth, thou art the overseer of truth, thou art the oblation of Vaiśvanara, of the All-gods, with pure strength, of true might; thou art power, overpowering; overpower hostility, overpower those who practise hostility; overpower enmity, overpower those who practise emnity; thou art of a thousandfold strength; do thou quicken me; thou art of butter the butter; thou art of truth the truth; thou hast true life [1]; thou hast true strength; with truth I besprinkle thee; may I share thee that art such.
 
-### c
-For a prop, a support, of the five winds I take thee.
-### d
-For a prop, a support, of the five seasons I take thee.
-### e
-For a prop, a support, of the five quarters I take thee.
-### f
-For a prop, a support, of the five five-peoples I take thee.
-### g
-For a prop, a support, of the pot with five holes I take thee.
-### h
-For the brilliance of the Brahman, for a prop, a support, I take thee.
-### i
-For the might of the ruling class, for a prop, a support, I take thee [2].
-### k
-For the people, for a prop, a support I take thee.
-### l
-For excellence of strength I take thee.
-### m
-For wealth of offspring I take thee.
-### n
-For increase of wealth I take thee.
-### o
-For splendour I take thee.
-### p
-The earth ours, the oblation the gods, the benedictions the sacrificers'; for the divinities of the gods I take thee.
-### q
-For desire I take thee.
 ## 02
 ### a
 Thou art secure; may I be secure among my equals, wise, a guardian, a granter of wealth.
