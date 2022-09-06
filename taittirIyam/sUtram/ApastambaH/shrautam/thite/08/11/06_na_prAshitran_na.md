@@ -2,4 +2,9 @@
 title = "06 न प्राशित्रन् न"
 
 +++
-न प्राशित्रं न यजमानभागम् ६
+6. (He does) not (take portion for) Prāśitra,[^1] nor for the portion of the sacrificer.[^2]   
+
+
+[^1]: Cf. ŚB II.5.3.17. For Prāśitra see III.1.2, 8.  
+
+[^2]: For the portion of the sacrificer see III.2.9-11.  

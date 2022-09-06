@@ -2,4 +2,13 @@
 title = "04 ऐन्द्रस्य चरोः स्थान"
 
 +++
-ऐन्द्रस्य चरोः स्थान इन्द्राय वृत्रघ्ने चरुमेके समामनन्ति । अग्ने वेर्होत्रं वेर्दूत्यमूर्ध्वो अध्वरे स्थात् । अवतां त्वा द्यावापृथिवी अव त्वं द्यावापृथिवी । स्विष्टकृदिन्द्राय देवेभ्यो भव जुषाणो अस्य हविषो घृतस्य वीहि स्वाहेति स्रुच्यमाघारयति । वागस्याग्नेयीत्यनुमन्त्रयते यजमानः ४
+4. According to the tradition of some[^1] (ritualists) there should be rice-pap for Indra Vr̥trahan instead of the rice-pap for Indra[^2]. He pours the ghee libation with the Juhū(-ladle) with agner ver hotraṁ[^3]... The sacrificer addresses that offering with vāgasyāgneyi.[^4]  
+
+
+[^1]: Cf. MS I. 10.1.  
+
+[^2]: Cp. II.14.1.  
+
+[^3]: Cp. KS IX.5  
+
+[^4]: Instead of TS I.6.2k.  

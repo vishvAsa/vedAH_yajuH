@@ -2,4 +2,4 @@
 title = "02 तस्य वारुणप्रघासिकेनोत्तरेण विहारेण"
 
 +++
-तस्य वारुणप्रघासिकेनोत्तरेण विहारेण कल्पो व्याख्यातः २
+2. The procedure of it is (as good as) explained by (the procedure of) the northern sacrificial place of Varuṇapraghāsa.
