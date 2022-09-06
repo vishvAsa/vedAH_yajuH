@@ -3,60 +3,7 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 
-## 02
-### a
-Thou art secure; may I be secure among my equals, wise, a guardian, a granter of wealth.
-### b
-Thou art dread; may I be dread among my equals, dread, a guardian, a granter of wealth.
-### c
-Thou art overcoming; may I be overcoming among my equals, overcoming, a guardian, a granter of wealth.
-### d
-I yoke thee with the divine Brahman,  
-To bear this oblation, O wise one;  
-Kindling thee, may we live long with good children,  
-With good heroes, bearing thee tribute.
-### e
-Whatever, O Agni, in this sacrifice of mine may be spoiled [1],  
-Whatever of the butter, O Visnu, may be spilt,  
-Therewith do I smite the rival who is hard to slay;  
-I place him on the lap of destruction.
-### f
-Bhur, Bhuvah, Suvar!
-### g
-O Agni, do thou strengthen the sacrificer; weaken him who plotteth evil.,
-### h
-O Agni, kindled by the gods, kindled by Manu, with sweet tongue,  
-I touch the head of thee, the immortal, O Hotr, for increase of wealth, good offspring, strength.
-### i
-Thou art mind, derived from Prajapati; with mind in true existence do thou enter me.
-### k
-Thou art speech, derived from Indra, destroying the foe [2]; do thou enter me with speech, with power (indriyena).
-### l
-Of the seasons spring I delight; delighted may it delight me.
-### m
-Of the seasons summer I delight; delighted may it delight me.
-### n
-Of the seasons the rains I delight; delighted may they delight me.
-### o
-Of the seasons the autumn I delight; delighted may it delight me.
-### p
-Of the seasons the winter and the cool I delight; delighted may they two delight me.
-### q
-By sacrifice to the gods, Agni and Soma, may I be possessed of sight.
-### r
-By sacrifice to the god Agni, may I be an eater of food [3].
-### s
-Thou art a deceiver; may I be undeceived, may I deceive N. N.
-### t
-By sacrifice to the gods, Agni and Soma, may I be a slayer of foes.
-### u
-By sacrifice to the gods, Indra and Agni, may I be powerful and an eater of food.
-### v
-By sacrifice to the god Indra, may I be powerful.
-### w
-By sacrifice tothe god Mahendra, may I attain superiority and greatness.
-### x
-By sacrifice to the god Agni Svistakrt, may I attain security through the sacrifice, enjoying long life.
+
 ## 03
 
 ### a
