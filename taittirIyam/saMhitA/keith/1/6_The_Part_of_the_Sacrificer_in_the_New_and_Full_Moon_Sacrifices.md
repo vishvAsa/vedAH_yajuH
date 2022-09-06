@@ -7,9 +7,7 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 ## 03
 
 ### a
-May I Agni protect me from evil sacrifice, Savitr from evil report.
 ### b
-Him who near or afar plots evil against me, with this may I conquer.
 ### c
 O thou of fair rain colour, come  
 To this blessed home,  
