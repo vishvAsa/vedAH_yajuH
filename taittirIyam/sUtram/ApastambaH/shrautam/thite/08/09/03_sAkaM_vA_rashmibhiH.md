@@ -2,4 +2,4 @@
 title = "03 साकं वा रश्मिभिः"
 
 +++
-साकं वा रश्मिभिः प्रचरन्ति ३
+3. Or they perform (the ritual of this offering) at the time of sun-rise.

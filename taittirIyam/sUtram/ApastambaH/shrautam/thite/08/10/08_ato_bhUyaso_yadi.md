@@ -2,4 +2,4 @@
 title = "08 अतो भूयसो यदि"
 
 +++
-अतो भूयसो यदि बहुरोदनो भवति ८
+8. (He scoops out) even more than this (quantity) if there is a lot of rice.

@@ -2,4 +2,7 @@
 title = "03 एवङ् कुर्वन्न ध्रुवायाङ्"
 
 +++
-एवं कुर्वन्न ध्रुवायां गृह्णीयात् ३
+3. When doing in this manner, he should not scoop the ghee into the Dhruvā(-ladle).[^1]  
+
+
+[^1]: Contrast VIII. 10.4.  

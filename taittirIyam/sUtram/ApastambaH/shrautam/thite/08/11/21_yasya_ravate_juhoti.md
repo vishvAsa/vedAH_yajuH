@@ -2,4 +2,4 @@
 title = "21 यस्य रवते जुहोति"
 
 +++
-यस्य रवते जुहोति तां दक्षिणां ददाति २१
+21. (The sacrificer) should give that bull as the sacrificial gift at the time of the roaring of which (the Adhvaryu) makes the offering.

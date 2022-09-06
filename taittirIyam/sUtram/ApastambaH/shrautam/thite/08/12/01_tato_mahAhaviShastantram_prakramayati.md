@@ -2,4 +2,4 @@
 title = "01 ततो महाहविषस्तन्त्रम् प्रक्रमयति"
 
 +++
-ततो महाहविषस्तन्त्रं प्रक्रमयति १
+1. Then the Adhvaryu causes to start the procedure of the Great offering (Mahāhavis).
