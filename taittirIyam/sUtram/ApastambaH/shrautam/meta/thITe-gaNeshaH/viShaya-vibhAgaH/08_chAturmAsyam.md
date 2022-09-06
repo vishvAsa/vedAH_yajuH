@@ -688,193 +688,147 @@ VIIL.8
 
 
 अन्योऽन्यस्य पृष्ठे प्रधावतः॥१६॥
-16. They wash each other's back.'
-1. Cf. SB IV.4.5.23.
+
 384
 
 
 काममेते वाससी यस्मै कामयेयातां तस्मै दद्याताम्। न हि दीक्षितवसने भवत इति वाजसनेयकम्॥१७॥
-17. “They may at will, give these garments (i.e. the garments they are wearing at the time of the Avabhrtha-bathi to whomsoever they may like. For, they are not the garments of the consecrated"-this has been said in the Brahmana-text of the Vājasaneyins.
-1. See SB II.5.2.47. In the Avabhrtha-bath in a Soma-sacrifice the
-garments are to be thrown away in water, see XIII.20.14.
+
 
 उद्वयं तमसस्परीत्यादित्यमुपस्थाय प्रतियुतो वरुणस्य पाश इत्युदकान्तं प्रत्यसित्वा समिधः कृत्वाप्रतीक्षास्तूष्णीमेत्यैधो ऽस्येधिषीमहीत्याहवनीये समिध आधायापो अन्वचारिषमित्युपतिष्ठन्ते॥१८॥
-18. (After the sacrificer) has stood near the sun praising it with ud vayaṁ tamasas pari,' and after (with his foot) he has kicked (pushed back) the margin of the water with pratiyuto varunasya pāśaḥ...?, (on their way back) the sacrificer and the priests having taken fuel-sticks in their hands, having returned without uttering any formula and without looking back, having put the fuels-ticks in the Ahavaniya fires with edhosyedhisi-mahi..." stand near (the fire) with apo anvaca riṣam...?
-1. RV I.50.10. 2. TS I.4.45.i. 3. Cf. JB I.68. 4. Cf. TS VI.6.3.5. 5. Cf. JB I.68. 6. TS I.4.45.k.
-7. TS I.4.45.1.
+
+
 
 अत्र पौर्णमास्येष्ट्वोन्दनादि पूर्ववन्निवर्तनम्॥१९॥
-19. At this stage after the full-moon-offering is performed, the act of cutting the hair beginning with the act of moistening (should be done) as (described) earlier'.
-1. See VIII.4.1.
+
 
 सर्वं वा वापयेत्॥२०॥
-20. Or he may cause all (the hair) to be shaved off.'
-1. instead of causing it to be trimmed. Cf. ŚB II.5.2.48.
+
 VIII.91
 385
 ĀPŚS Translation : THITE
 
 मन्त्रादिविक्रियते। यधर्मः पर्यवर्तयदन्तान्पृथिव्या दिवः। अग्निरीशान ओजसा वरुणो धीतिभिः सह। इन्द्रो मरुद्भिः सखिभिः सह। अग्निस्तिग्मेनेति समानम्॥२१॥
-21. The beginning of the formula should be modified as vad gharmaḥ paryavartayat... '; then agnistigmena... is the
-same.2
-1. Instead of nameva paramesthi... (see VIII.4.2), this verse (TB ____I.5.5.2.3) should be used.
-2. See VIII.4.2.
+
 
 
 अपि वा स्नानोप्त्वा केशश्मश्रूण्यरण्योरग्नीन्समारोप्योदवसाय निर्मथ्य पौर्णमासेन यजते॥२२॥
-22. Or rather (he should not perform the full-moon offering on the same sacrificial place but) having taken (the AvabhȚtha-) bath, having got the hair on the head and beard shaved off, having caused the fires to (mystically) mount the churning sticks,' having moved away (from that place and having gone to the home), having churned out (the fire), should perform the full-moon-sacrifice.?
-1. See VI.28.8-11.
-2. This is the view of ŚB II.5.2.48.
+
+
 
 यज्ञो ह वा एष यद्वरुणप्रघासा नह्यवकल्पते यदुत्तरवेद्यामग्निहोत्रं जुहुया दिति वाजसनेयकम्॥२३॥
-23. "The Varuṇapraghāsas are a (soma-)sacrifice indeed; it is not proper that (the sacrificer) should perform his Agnihotra on the Uttara-vedi"-this is the view of Vajasaneyins.!
-1. Cp. ŚB II.5.2.48. If the procedure mentioned in VIII.8.19 would
-be followed then the full-moon-offering and the Agnihotra connected thereby would be performed in the fire on the Uttaravedi.
+
 ## 3 Sākamedhaparva
 C. THE SĀKAMEDHA PARVAN
 ### 08.09
 
 
 ततश्चतुर्यु मासेषु पूर्वस्मिन्पर्वण्युपक्रम्य व्यहं साकमेधैर्यजते॥१॥
-1. Then after four months' (the sacrificer) should perform
-386
-the Sākamedha-rites (lasting) for two days starting on the preceding joint-day.2
-1. i.e. in the Kārttika or Mārgasirṣa.
-2. i.e. on the day preceding the full-moon-day. See VIII.1.3.
+
 
 अग्नये ऽनीकवते पुरोडाशमष्टाकपालं निर्वपति साकं सूर्यणोद्यतामा
-2. At the time of sun-rise (the Adhvaryu) takes out the material for the sacrificial bread on eight potsherds for Aoni
-Anikavat.
+
+
 साकं वा रश्मिभिः प्रचरन्ति॥३॥
-3. Or they perform (the ritual of this offering) at the time of sun-rise.
+
 
 
 सिद्धमिष्टिः संतिष्ठते॥४॥
-4. The offering stands completely established (i.e. completed) in the usual manner (of an Isti viz. like that of New and Full-moon).
+
 
 
 मरुद्भयः सांतपनेभ्यो मध्यंदिने चरुम्॥५॥
-5. At the time of mid-day, (the Adhvaryu offers) a rice pap for Maruts Sämtapanas.
-1..Cr. TB I.6.6.2.
+
 
 न बर्हिरनुप्रहरति॥६॥
-6. He does not throw the scattered grass' (in the fire) (as is done in the basic paradigm).2
-1. Cf. SB II.3.3.5.
-2. For the basic paradigm see III.13.3.
+
 
 सिद्धमिष्टिः संतिष्ठते॥७॥
-7. The offering stands completely established (i.e. completed) in the usual manner.'
-1. Cp. Sätra 4 above.
+
 
 मरुद्भयो गृहमेधिभ्यः सर्वासां दुग्धे सायं चरुम्॥८॥
-8. In the evening he offers a rice-pap cooked in the milk of all the cows for Maruts Grhamedhins."
-1. Cf. TB I.6.6.3.
+
 ApSs Translation : THITE
 387
 VIII.9]
 
 
 यत्सांतपनस्य बर्हिस्तद्गृहमेधीयस्य॥९॥
-9. The scatterd grass (Barhis) used for (the offering to Maruts) Samtapanas (should also serve the purpose) of the (offering to Maruts) Grhamedhins.
+
 
 
 अपि वा नेध्माबर्हिर्भवति। न सामिधेनीरन्वाह। न प्रयाजा इज्यन्ते नानू याजाः॥१०॥
-10. Or rather, in this offering there should not be any fuel; the Hotr does not recite the Samidheni-verses; neither fore-offerings are offered nor the after-offerings.'
-___1. Cf. TB I.7.1.1.
+
 
 अयजुष्केण वत्सानपाकृत्यापवित्रेण गा दोहयति॥११॥
-11. Having removed the calves (from the mother-cows for the milk to be used in cooking the rice-pap) without any formula,' (the Adhvaryu) should cause (the milker) to milk the cows without a strainer.2
-1. Contrast I.2.2.
-2. For details see 1.12.6.
+
 
 स वै खलु पर्णशाखया वत्सानपाकृत्य पवित्रवति संदोह्य यथैतदमा वास्यायां क्रियते तं चरुं श्रपयतीत्येके॥१२॥
-12. According to some (ritualists)' having removed the calves by means of a branch of Parna-tree (butea Frondosa) having caused the milker to milk (the cows) in a pot on which a strainer is kept, in the manner in which it is done at the time of a New-moon-sacrifice, he cooks the rice-pap (in that milk).
-___1. Cp. SB II.5.3.4.
+
 
 
 अग्नीनन्वाधाय वेदं कृत्वाग्नीन्परिस्तीर्य पाणिप्रक्षालनादि कर्म प्रतिपद्यते। यथार्थं पात्राणि प्रयुनक्ति॥१३॥
-13. Having added fuel to the fires,' having prepared the Veda (brush), having scattered grass around (the fires)," he does the work of washing the hands etc. He arranges the utensils in accordance with the requireinents.
-1. See I.1.2-7. 2. See I.6.4.
+
+
 388
 ApSs Translation : THITE
 (VIII. 10
-3. See I.11.4.; I.14.12-15. 4. See I.15.4-6.
-5. See I.15.6-14.
+
 
 स्थाली कपालानां स्थाने॥१४॥
-14. (He places) a vessel in stead of potsherds.!
-__1. Cp. I.15.7.
+
 
 निर्वपणकाले॥१५॥
-15. At the time of taking out material of the offering (paddy),'
-1. See I.17.12-18.2. The sentence in this Sūtra is incomplete. See the
-next Sutra.
+
 ### 08.10
 
 
 
 चतुरो मुष्टीन्निरुप्य बह्वन्वावपति॥१॥
-1. Having taken out four handfuls (of paddy) (the Adhvaryu) additionally pours out ample quantity (of it).
+
 
 
 कपालानामुपधानकाले प्रथमेन कपालमन्त्रेण चरुमुपदधाति। ध्रुवो ऽसीति मन्त्रं संनमति। पिष्टानामुत्पवनकाले तण्डुलानुत्पुनाति॥२॥
-2. At the time of placing the potsherds,' he places the pot of rice-pap (on the burning coals taken out from the fire) with the formula (which is used) for (placing) the first potsherd. He modifies that formula with dhruvo'si.? At the time of purifying
-the flour,” he purifies the rice-grains.
-1. See I.22.2. 2. Instead of dhruvamasi. See I.22.2.
-3. See I.24.3.
+
 
 
 अधिश्रयणकाले प्रातर्दोहवत्सर्वा यजमानस्य गा दोहयित्वा तस्मिञ्छू पयति॥३॥
-3. At the time of placing (the oblation material on the fire),' having caused (the milker) to milk all the cows of the sacrificer in the same manner as that of morning-milking“ he cooks (the rice-pap) in it (milk).;
-1. See I.24.6. 2. See I.14.7-8. 3. With TS 1.1.8. the rice-grains are to be put in the milk.
+
 389
 
 
 औषकाले यदन्यदिध्माबर्हिषस्तत्संप्रेष्यति। आज्यग्रहणकाले ध्रुवायामेव
 गृह्णाति॥४॥
-4. At the time of giving order' he gives order excluding m mention of the fuel and grass?. At the time of scooping gheehe scoops it only in the Dhruvā ladle.
-1. See II.3.11. 2. For, these two do not occur in this rite. See VIII.9.10.
-3. See II.7.2.
+
+
 
 प्रोक्षणीरभिमन्त्र्य ब्रह्माणमामन्य वेदिं प्रोक्षणीशेषं निनीय पवित्रे अपि सज्यान्तर्वेदि विधृती निधाय धुवां खुवं च सादयति॥५॥
-5. Having addressed the sprinkling water having called the brahman, having sprinkled (water) on the altar, having poured out the remaining sprinkling water," having thrown back the two strainers in the Prastara, having placed the two separating (grass-blades) inside the altar, he places the Dhruvā(-ladle) and the spoon (threre only).?
-1. See II.8.1, 2. See I.8.1. 3. See II.8.1. 4. See I.8.3. 5. See II.8.4. 6. See II.9.12.
-7. See II.9.15.
+
 
 एतावसदतामिति मन्त्रं संनमति॥६॥
-6. He modifies the formulal (to be used in connection with the placing the Dhruvā and the spoon) as follows: etāvasadatām
-1. See II.10.4.
-2. Instead of singular, the dual forms are to be used.
+
 
 उद्वासनकाले शरं निधाय यावन्तो यजमानस्यामात्यास्तावत ओदना नुद्धरति॥७॥
-7. At the time of removing the oblation-material from
-390
-ĀPŚS Translation : THITE
-(VIII. 10
-over the fire, having taken away the crust,2 he scoops out the cooked rice) in as many (pans) as there are the kinsmen of the sacrificer.
-1. i.e. rice cooked in milk. See II. 10.6. 2. For the use of this see VIII. 11.9
-3. For this see VIII. 11.8.
+
 
 अतो भूयसो यदि बहुरोदनो भवति॥८॥
-8. (He scoops out) even more than this (quantity) if there is a lot of rice.
+
 
 
 उद्धृतानुत्पूतानलंकृतानभिघारितानासादयति॥९॥
-9. He places the rice portions scooped out, purified, decorated, and the ones on which ghee is poured, on the altar.3
-1. See II. 10.6. 2. See II. 10.6. The decoration here consists of making an underlayer
-of ghee in the pots before the rice-pap is taken in them. 3. See II. 11.6.
+
 
 दक्षिणाग्नौ पल्याः प्रतिवेशमोदनं पचति॥१०॥
-10. In the neighbourhood i.e. on the Dakṣiṇa-fire he cooks rice-pap for the wife of the sacrificer.'
-1. Cf. TB 1.6.7.1.
+
 
 तं नाभिघारयति॥११॥
-11. He does not pour ghee on it.
+
 
 
 द्वयोरुद्धरणं वाजसनेयिनः समानन्ति। दक्षिणादेव मरुतो गृहमेधिनो erufali8711
-12. According to the tradition of the Vājasaneyins' the scooping of the rice-pap should be done in two pots only (and not in many).2 (In this case) from the rice-pap placed to the south of the altar he makes offerings to Maruts Gṣhamedhins.
-1. Cp. ŚB 11.5.3.5. 2. Contrast VIII. 10.7-8.ĀPŚS Translation : THITE
+
+
+ĀPŚS Translation : THITE
 VIII.11]
 391
 Com
@@ -882,148 +836,116 @@ Com
 
 meReme
 उत्तरस्मात्स्विष्टकृतम्॥१॥
-1. From the (rice-pap placed) to the north (of the altar) the Adhvaryu) makes the Svistakrt-offering.
+
 
 
 ओदनयोर्निम्ने कृत्वा तत्राज्यमानीय तत आज्यार्थान्कुरुत आज्यस्थाल्या वेति वाजसनेयकम्॥२॥
-2. Having made hollows in the two rice-paps, having poured ghee in them, he makes the libations of ghee either from there (i.e. the ghee in the hollows) or from the ghee-pots -this is the view of the Vājasaneyins."
-1. See SB II.5.3.9-11; 11-15.
+
 
 एवं कुर्वन्न ध्रुवायां गृह्णीयात्॥३॥
-3. When doing in this manner, he should not scoop the ghee into the Dhruva(-ladle).1
-1. Contrast VIII. 10.4.
+
 
 
 आज्यभागाभ्यां प्रचर्य जुह्वामुपस्तीर्य सर्वतः समवदाय मरुतो गृहमे धिनो यजति॥४॥
-4. Having performed the offerings called Ājya-bhāga (ghee portions), having made an underlayer of ghee in the Juhū (-ladle), having cut portions from all the rice-paps, he makes offerings to Maruts Gṣhamedhins.
-____1. See II.18.1-8; cf. TB II.6.6.6; cp. TS II.6.2.1.
+
 
 सर्वेषामुत्तरार्धात्सकृसकृदवदायाग्निं स्विष्टकृतम्॥५॥
-5. Having taken portion once from the northern part of all the rice-paps he offers them to Agni Sviṣṭakst.'
-1. Cf. TB II.6.6.6.
+
 
 न प्राशित्रं न यजमानभागम्॥६॥
-6. (He does) not (take portion for) Prāśitra,' nor for the portion of the sacrificer.?
-1. Cf. SB II.5.3.17. For Prāsitra see III.1.2, 8. 2. For the portion of the sacrificer see III.2.9-11.
+
 392
 
 
 इडान्तः संतिष्ठते॥७॥
-7. This offering stands completely established (i.e. completed) with the Ida-ritual.1
-1. Cf. TB II.6.6.66. For Ida-ritual see III.1.6ff.
+
 
 ये यजमानस्यामात्या हविरुच्छिष्टाशास्त ओदनशेषान्प्राश्नन्ति। ऋत्विको ऽन्ये वा ब्राह्मणाः॥८॥
-8. The relatives of the sacrificer who eat the remnants of the oblations,' eat the remnants of the rice-pap; also the priests or the other Brāhmaṇas (eat the rice-pap).?
-1. i.e. those who eat the remnants of the daily Vaiśvadeva-offering.
-2. Cf. SB II.5.3.17.
+
 
 प्राश्नन्ति ब्राह्मणा ओदनं यः स्थाल्याम्॥९॥
-9. The Brāhmaṇas eat the rice-pap which remains in the pot.
+
 
 
 सुहिता एतां रात्रि वसन्ति प्रतीता अनवर्तिमुखिनः॥१०॥
-10. Being well-satiated, happy, without anger on their face they remain on this night."
-___ 1. Cp. TB I.6.7.7.
+
 
 प्रतिवेशा अपि पचन्ते॥११॥
-11. Auxilliaryl (additional rice-paps) are also cooked.
-1. Prativesah.
+
 
 गा अभिजते॥१२॥
-12. They kill cows.
+
 
 आङ्कते ऽभ्यङ्कते॥१३॥
-13. They anoint their eyes with collyrium; they anoint their bodies.
+
 
 
 अनु वत्सान्वासयन्ति॥१४॥
-14. They cause the calves (to remain near their mother cows).!
-1. For Sutras 12-14, cp. TB I.6.7.2-3.
+
 393
 
 
 अनिष्कासितां स्थाली निदधाति॥१५॥
-15. (The Adhvaryu) keeps down the pot (in which the rice-pap for the Maruts was cooked) (on a marked place) without having removed the scrappings:
-1. Thus the remnants of the rice-pap sticking to the pot are let remain;
-cf. TB 1.6.7.3. The scrappings are to be used afterwards. For
-their use see the 19th sūtra.
+
 
 अप्रमृष्टं दय॒दायुवनमन्ववदधाति॥१६॥
-16. He (also) keeps that part of the ladle used for stirring (the rice-pap) without being wiped (in the pot of the rice-pap).
+
 ·
 
 पराचीनरात्रे ऽभिवान्याया अग्निहोत्र्यै च वत्सौ बध्नाति॥१७॥
-17. In the second part of the night he ties (separates from the mother cows) the two calves; one, of a cow which feeds the calf of another cowl and the other one of the Agnihotra
-cow.2
-1. Because her own calf is dead. For the use of the milk of this cow
-in the ancestral ritual, see VIII.14.14.
-2. i.e. the cow the milk of which is used for Agnihotra.
+
 
 व्युष्टायां पुराग्निहोत्रात्पूर्णदव्येण चरन्ति। हुते वा॥१८॥
-18. At dawn before the Agnihotra (ritual) they perform the full-spoon-libation; or (they perform it) after (the Agnihotra) has been offered.'
-1. This alternative is based upon ŚB II.5.3.17.
+
 
 
 शरनिष्कासस्य दर्वी पूरयित्वर्षभमाहूय तस्य रवथे पूर्णा दर्वि परापतेत्य नुद्रुत्योत्तरया गार्हपत्ये जुहुयात्॥१९॥
-19. Having filled the spoon with scrappings and the crust, having called a bull,2 having recited pārṇā darvi parā pata...", with the next verse4 he makes an offering of it in the Gārhapatya fires when the bull roars.
-1. See VIII. 11.15. 2. See VIII. 10.7. 3. TS 1.8.4.b. 4. TS 1.8.4.c. 5. Cf. TB 1.6.7.3.
+
 394
 
 
 यवृषभो न रूयादब्रह्मा ब्रूयाज्जुहुधीति॥२०॥
-20. If the bull does not roar, the Brahman should say "Do you make the offering".1
-1. Cf. SB III.5.3.18.
+
 
 यस्य रवथे जुहोति तां दक्षिणां ददाति॥२१॥
-21. (The sacrificer) should give that bull as the sacrificial gift at the time of the roaring of which (the Adhvaryu) makes the offering.
+
 
 
 मरुद्भय क्रीडिभ्यः स्वतवद्भयो वा पुरोडाशं सप्तकपालं निर्वपति। साकं सूर्येणोद्यता साकं वा रश्मिभिः प्रचरन्ति। सिद्धमिष्टिः संतिष्ठते॥२२॥
-22a. The Adhvaryu takes out the material for the sacrificial bread to be prepared on seven potsherds for the Maruts Kriļins or Maruts Svatavats. They perform the offering of it at the time of sun-rise? or at the time of first rays.
-1. Cf. TB I.6.7.4-5.
-2. Cf. TS I.8.4.3. 22b. The offering stands completely established (i.e. completed) in accordance with the established normal paradigm.
+
 ### 08.12
 
 
 
 ततो महाहविषस्तन्त्रं प्रक्रमयति॥१॥
-1. Then the Adhvaryu causes to start the procedure of the Great offering (Mahāhavis).
+
 
 
 तस्य वारुणप्रघासिकेनोत्तरेण विहारेण कल्पो व्याख्यातः॥२॥
-2. The procedure of it is (as good as) explained by (the procedure of) the northern sacrificial place of Varuṇapraghāsa.
+
 
 
 निर्वपणकाल आग्नेयमष्टाकपालमित्यष्टावुत्तराणि हवींषि निर्वपति॥३॥
-3. At the time of taking out the oblation material' (the Adhvaryu) takes out the oblation material of the next eight offerings like a sacrificial bread on eight potsherds for Agr...'
-1. See I.17.10 2. See TS 1.8.4. In addition to the five regularly repeating offerings
-ApSs Translation : THITE
-VIII.12]
-395
-(see VIII.2.3) there should be the following three: i sacrificial bread on eleven potsherds for Indra-Agni ii. rice pap for Indra
-ji, a sacrificial bread on one potsherd for Viśvakarman.
+
 
 सदस्य चरोः स्थान इन्द्राय वृत्रने चरुमेके समामनन्ति॥ अग्ने वेर्होत्रं
 नों अध्वरे स्थात्॥ अवतां त्वा द्यावापृथिवी अव त्वं धावापृथिवी। दिन्द्राय देवेभ्यो भव जुषाणो अस्य हविषो घृतस्य वीहि स्वाहेति माघारयति॥ वागस्याग्नेयीत्यनुमन्त्रयते यजमानः।।४॥
-4. According to the tradition of somel (ritualists) there should be rice-pap for Indra Vţtrahan instead of the rice-pap for Indra. He pours the ghee libation with the Juhū(-ladle) with aoner ver hotram'... The sacrificer addresses that offering with vāgasyāgneyi.4
-1. Cf. MS I. 10.1. 2. Cp. II.14.1. 3. Cp. KS IX.5
-4. Instead of TS I.6.2k.
+
 
 सहश्च सहस्यश्चेति चतुर्भिर्मासनामभिरेककपालमभिजुहोति। धेनुर्दक्षि णर्षभो वा प्रवयाः। इदावत्सरीणां स्वस्तिमाशास्ते। दिव्यं धामाशास्त इति सूक्त वाकस्याशिःषु होतानुवर्तयते। एवं यजमानो जपति। आशास इति मन्त्रं संन मति॥५॥
-5. With the four names of months sahasca sahasyasca... he offers ghee on the sacrificial bread on one potsherd (after it has been offered).2 A milk-cow or a full-grown bull (should be given as) the sacrificial gift. The Hotr̥ changes the words in the benedictions of the Sūktavāka as follows: idävatsariṇāṁ svastimāśāste divyaṁ dhāmāśāste. The sacrificer mutters in
-he same manner; he modifies the formula with the word āśāse insted of āsāste.4
-1. TS IV.4.11.e-f 2. Cp. VIII.2.18, VIII.7.2, VIII.20.. 3. Cp. VIII.7.5. 4. Cp. VIII.3.4-5; VIII.7.8; VIII.21.1.
+
 [VIII.13
 396
 ApSs Translation : THITE
 
 
 ऐन्द्राग्नतुषानप्सु प्रतिपादयति॥६॥
-6 He throws the chaff of the rice-grains in connection with the sacrificial bread for Indra-Agni, into water.
+
 
 
 सिद्धमिष्टिः संतिष्ठते॥७॥
-7. The offering stands completly established in completed) in accordance with the established paradigm.
+
+
 ### Pitr̥yajñaḥ
 PITR̥YAJÑA (ANCESTRAL RITUAL FORMING PART OF THE SĀKAMEDHA)
 #### 08.13
