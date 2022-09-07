@@ -5,7 +5,7 @@ title = "Gardner-परिचयः"
 Source: [TW](http://vedavid.org/index-sutra.html)
 
 ## Text history
-This text of the Shatapatha, Maadhyandina Shaakha, was encoded in 1971, partly funded by the National Endowment for the Humanities, by Dr. H. S. Ananthanarayana under the direction of Dr. W. P. Lehmann. It is painstakingly reconstructed and accessible in a multitude of ways.
+This text of the Shatapatha, Maadhyandina Shaakha, was encoded in 1971 +++(based on Weber)+++, partly funded by the National Endowment for the Humanities, by Dr. H. S. Ananthanarayana under the direction of Dr. W. P. Lehmann. It is painstakingly reconstructed and accessible in a multitude of ways.
 
 Revised site note January 24, 2010: I made a tribute page to their work which I preserve as-is as part of the palimpsest of this site, you can view that page here. And a note on what I mean by palimpsest can be found here.
 
