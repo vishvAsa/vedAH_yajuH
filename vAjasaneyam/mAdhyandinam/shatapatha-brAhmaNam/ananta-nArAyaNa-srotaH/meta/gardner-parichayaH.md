@@ -7,6 +7,19 @@ Source: [TW](http://vedavid.org/index-sutra.html)
 ## Text history
 This text of the Shatapatha, Maadhyandina Shaakha, was encoded in 1971 +++(based on Weber)+++, partly funded by the National Endowment for the Humanities, by Dr. H. S. Ananthanarayana under the direction of Dr. W. P. Lehmann. It is painstakingly reconstructed and accessible in a multitude of ways.
 
+<details><summary>Gretil note</summary>
+
+On the basis of the edition by Albrecht Weber, The Çatapatha-Brāhmaṇa in the Mādhyandina-Çākhā with extracts from the commentaries of Sāyaṇa, Harisvāmin and Dvivedānga, Berlin 1849 / Repr. Varanasi 1964 (Chowkhamba Sanskrit Ser., 96) entered (books 1-11, 13-14) by H.S. Anantanarayana
+(supervisor W.P. Lehmann), Austin, Texas, 1971;  
+reedited by J.R. Gardner, Iowa, 1998;  
+book 12 entered by Makoto Fushimi, Kyoto / Harvard 1999;  
+corrections by Matthias Ahlborn;  
+TITUS version by Jost Gippert,  
+Frankfurt a/M, 31.1.1997 / 28.2.1998 / 21.6.1998 / 14.10.1999 / 1.6.2000 / 7.12.2008 / 21.4.2012 
+</details>
+
+
+
 Revised site note January 24, 2010: I made a tribute page to their work which I preserve as-is as part of the palimpsest of this site, you can view that page here. And a note on what I mean by palimpsest can be found here.
 
 It has been extensively re-worked, as its original form reflected the early limits of technology at that time which were, nonetheless, transcended by the vision of the project directors. 
