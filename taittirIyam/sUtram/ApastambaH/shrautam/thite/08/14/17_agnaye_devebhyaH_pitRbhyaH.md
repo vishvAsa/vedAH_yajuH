@@ -2,4 +2,7 @@
 title = "17 अग्नये देवेभ्यः पितृभ्यः"
 
 +++
-अग्नये देवेभ्यः पितृभ्यः समिध्यमानायानुब्रूहीति सम्प्रेष्यति १७
+17. He gives the order to the Hotr̥: agnaye devebhyaḥ pitr̥bhyaḥ samidhyamānayānubrūhī.[^1]
+
+
+[^1]: See TB I.6.9.1.
