@@ -2,4 +2,4 @@
 title = "12 उपमूललूनं वा"
 
 +++
-उपमूललूनं वा १२
+12. Or it is to be cut near the root.

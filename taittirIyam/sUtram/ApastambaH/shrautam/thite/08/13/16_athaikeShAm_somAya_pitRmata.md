@@ -2,4 +2,6 @@
 title = "16 अथैकेषाम् सोमाय पितृमत"
 
 +++
-अथैकेषाम् । सोमाय पितृमत आज्यं पितृभ्यो बर्हिषद्भ्यः षट्कपालं पितृभ्यो ग्निष्वात्तेभ्यो धाना अग्नये कव्यवाहनाय यमाय वा मन्थं यमायाङ्गिरस्वते पितृमते १६
+16. According to some[^1] there should be offerings of ghee no Soma accompanied with ancestors, a sacrificial bread on six potsherds to ancestors sitting on the sacred grass, fried grains to ancestors consumed by fire and barley-flour stirred in milk to Agni Kavyavāhana or to Yama or to Yama accompanied by Aṅgirases and ancestors.  
+
+[^1]: Not identified. 

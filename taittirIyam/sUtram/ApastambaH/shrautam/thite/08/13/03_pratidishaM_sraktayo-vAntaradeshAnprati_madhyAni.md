@@ -2,4 +2,4 @@
 title = "03 प्रतिदिशं स्रक्तयोऽवान्तरदेशान्प्रति मध्यानि"
 
 +++
-प्रतिदिशं स्रक्तयोऽवान्तरदेशान्प्रति मध्यानि ३
+3. There should be corners towards each direction and the central parts should be towards the intermediary directions.

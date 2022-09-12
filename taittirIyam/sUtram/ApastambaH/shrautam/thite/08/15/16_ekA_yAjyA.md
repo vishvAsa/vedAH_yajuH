@@ -2,4 +2,4 @@
 title = "16 एका याज्या"
 
 +++
-एका याज्या १६
+16. One offering verse for each.
