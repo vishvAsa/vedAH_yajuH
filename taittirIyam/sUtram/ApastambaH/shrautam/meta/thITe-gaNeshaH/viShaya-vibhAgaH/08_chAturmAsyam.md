@@ -953,299 +953,223 @@ PITR̥YAJÑA (ANCESTRAL RITUAL FORMING PART OF THE SĀKAMEDHA)
 
 
 तदानीमेव पितृयज्ञस्य तन्त्रं प्रक्रमयति॥१॥
-1. At that time itself (the Adhvaryu) causes to begin the procedure for the Pitryajia (ancestral ritual).
+
 
 
 वेदं कृत्वाग्रेणान्वाहार्यपचनं यजमानमात्री चतुःस्त्रक्तिं वेदिं करोति॥२॥
-2. Having prepared the Veda(-brush)1 he prepares a rectangular2 altar of the measure of the sacrificer, in front of the Anvāhāryapacana (Dakṣiṇa)3-fire.
-1. See I.6.4-6. 2. Cf. TB I.6.8.5.
-3. In contrast to II.1.1.
+
 
 प्रतिदिशं सूक्तयो ऽवान्तरदेशान्प्रति मध्यानि॥३॥
-3. There should be corners towards each direction and the central parts should be towards the intermediary directions.
+
 
 
 उद्धताखाता भवति॥४॥
-4. The ground of it (the altar) should be (merely) scratched,' it should not be dug up. .
-1. Cp.. II.2.4.
-2. Contrast. II.2.7. Cf. TB I.6.8.5-6.
+
 
 न प्राची वेदिरुद्धत्या। पितृयज्ञो हि। न दक्षिणा। यज्ञो हि। उभे दिशा वन्तरेणोद्धत्या। उभये हि देवाश्च पितरश्चेज्यन्त इति विज्ञायते॥५॥
-5. The altar should not be scratched (from the west) towards the east, for (this is) an ancestral ritual. Not (from the
-397
-weth) towards the south, (for this) is a sacrifice (offered to the
-ds) It should be scratched in between both (these) directions; e sacrifice is offered (here to) both the gods and ancestors—this is known from a Brāhmaṇa-text.
-1. See MS 1.10.17. Cp. TB 1.6.8.5.
+
+
 
 ये के च देवसंयुक्ता मन्त्रा देवेभ्यः पितृभ्य इति तान्संनमति। यथा भवति पृथिवि देवपितृयजनीति॥६॥
-6. He modifies whatever formulae there are connected with the gods as directed to gods-fathers. As for example prthivi dévayajani? (O earth honouring gods) should be modified into prthivi devapitryajani (O Earth honouring gods and fathers).
-1. Cf. TB 1.6.9.1. In whatever case the word deva may be in the
-same case the word devapits is to be used. 2. TS 1.1.9.d, see II.1.5.
+
+
 
 अविकारो वा परवाक्यश्रवणात्॥७॥
-7. Or rather there should be no modification because another expression is heard."
-1. The Sūtra is obscure. Cp. however XXIV.3.50-51.
+
 
 प्रागुत्तरात्परिग्रहात्कृत्वा दक्षिणाग्नेरग्निमाहृत्य मध्ये वेद्या उपसमाद धाति॥८॥
-8. Having done (the ritual) upto the second tracing! (of the altar) having brought the fire from the Dakṣiṇa-fire, he places it in the middle of the altar and adds fuel to it.2
-1. See II.3.7.
-2. See TB 1.6.8.6.
+
 
 एतस्मिन्पितृयज्ञ आहवनीयकर्माणि क्रियन्ते॥९॥
-9. The activities (which are otherwise done) in the Ahavanīya fire are to be performed in this (fire) during the ancestral ritual.
+
 
 
 अग्नीनन्वाधायेध्माबहिराहरति॥१०॥
-10. After he has added fuel to the fires' he brings the fuel and sacred grass.?
-1. See 1.1.2ff. 2. See I.3.1-6.3.
+
 398
 Translation : THITE
 [VIII.13
 
 
 समूलं बर्हिति॥११॥
-11. He cuts the sacred grass along with the roots.
+
 
 उपमूललूनं वा॥१२॥
-12. Or it is to be cut near the root.
+
 
 वर्षीयानादिध्मो द्राधीयांश्च॥१३॥
-13. The fuel should be broader and longer than (what is required in the basic paradigm).
+
 
 
 अग्नीपरिस्तीर्य पाणिप्रक्षालनादि कर्म प्रतिपद्यते। यथार्थं पात्रप्रयोगः॥१४॥
-14. After having scattered grass around the fires! he undertakes the work like washing the hands.? etc. The arrangement of utensils should be done in accordance with the requirement.
-1. See I.15.3. 2. See I.15.4-5.
-3. See I.15.6-7.
+
 
 निर्वपणकाले सर्वतो वेदिं परिश्रित्योत्तेरण द्वारं कृत्वा दक्षिणतः प्राचीनावीती हवींषि निर्वपति। उत्तरतो वा। यज्ञोपवीती सोमाय पितृमत इति यथासमाम्नातम्॥१५॥
-15. At the time of taking out the oblation material' (rice grains) having enclosed? the altar on all sides (with the help of mat etc.), having made a door towards the north (to that enclosure), with his sacred thread on the right shoulder he takes out the material of the oblation, either from the south or from the north.3 With his sacred thread on the left shoulder (he takes out the oblation-material) for Soma accompanied by ancestors etc. as per the sacred tradition.5
-1. See I.17.10 2. Cp. TB I.6.8.6. 3. See I.7.7. 4. Cf. TB I.6.8.2. 5. Following are the offering materials:
-i. a sacrificial bread on six potsherds for Soma accompanied by ancestors; ii. roasted barley for the ancestors sitting on the sacred grass; iii. barley flour stirred in milk for the ancestors consumed by fire; see TB I.6.8.2ff.
+
+
 399 ।
 
 अथैकेषाम्। सोमाय पितृमत आज्यं पितृभ्यो बर्हिषद्भयः षटकपालं पितृभ्यो तनिष्वात्तेभ्यो धाना अग्नये कव्यवाहनाय यमाय वा मन्थं यमागिरस्वते पितृमते॥१६॥
-____16. According to somel there should be offerings of ghee no Soma accompanied with ancestors, a sacrificial bread on six potsherds to ancestors sitting on the sacred grass, fried orains to ancestors consumed by fire and barley-flour stirred in milk to Agni Kavyavāhana or to Yama or to Yama accompanied by Angirases and ancestors.
-1. Not identified. उदकुम्भः प्रोक्षणीभाजनं भवति॥१७॥
-17. A jar should be used as the container of the sprinkling waters.'
-1. In contrast to the basic paradigm in which the sprinkling waters ___ are consecrated in the Agnihotra-ladle; see I.19.9; cp. also
-__VIII.16.4.
+
+
+उदकुम्भः प्रोक्षणीभाजनं भवति॥१७॥
+
 
 प्रोक्षण्युरेकेण यवान्संयुत्य त्रिष्फलीकृतांस्तण्डुलान्विभागमन्त्रेण विभज्य धानार्थान्निधायेतरान्पिष्टानि कृत्वा दक्षिणार्धे गार्हपत्यस्य षट्कपालान्युप धाय दक्षिणाग्नौ प्रथमेन कपालमन्त्रेण धानार्थं कपालमधिश्रयति॥१८॥
-18. Having mixed the barley with the remnants of the sprinkling water, having divided the thrice-husked rice-grains with the formula of division,' having kept aside the rice-grains meant for the fried grains, having made flour of the other (rice grains),? having placed the six potsherds in the southern half of the Gārhapatya-fire, he places a potsherd on the Daksina fire with the formula of the first potsherd,' for the sake of preparing the fried grains.
-1. See I.24.5. 2. For making flour see 1.21.6-7.
-3. TS I.1.7.d See I.22.2.
 
 
-अधिश्रयणकाले ऽधिश्रयणमन्त्रेण तण्डुलानोप्य बहुरूपा धानाः करोति॥१९॥ ____19. At the time of placing (the oblation-material on the fire), having poured the rice-grains with the formula of placing
-400
-ApśS Translation : THITE
-(VIII. 14
-(the oblation-material on the fire),' he prepares fried-grains of varios appearances.?
-1. TS 1.1.8.h; See 1.24.6.
-2. Cf. TB 1.6.8.3. विदह्यमानाः परिशेरत इति विज्ञायते॥२०॥
-20. It is known from a Brāhmaṇa-text': (The fried grains remain (there) being burnt (upto the time of taking them from the fire).
-1. Not known. 2. See II. 10.6.
+
+अधिश्रयणकाले ऽधिश्रयणमन्त्रेण तण्डुलानोप्य बहुरूपा धानाः करोति॥१९॥
+
+विदह्यमानाः परिशेरत इति विज्ञायते॥२०॥
+
 #### 08.14
 
 
 
 संप्रेषकाले पत्नीवर्ज संप्रेष्यति॥१॥
-1. At the time of giving orders: the Adhvaryu gives orders excluding one connected with the wife of the sacrificer.2
-1. See II.3.11. 2. Thus he omits the words patniṁ saṁnahya "(having girdled the
-wife of the sacrificer)."
+
 
 आज्यग्रहणकाल उत्तरेण गार्हपत्यं चतुर्ग्रहीतान्याज्यानि गृह्णाति॥२॥
-2. At the time of scooping ghee, he takes the four-times scooped ghee to the north of the Gārhapatya-firel in each ladle.?
-1. In contrast to II.7.2. where it is said that the ghee is to be scooped
-"inside the altar (antarvedi)." 2. In the basic paradigm ghee is to be taken eight times in the Upabhột(
-ladle); see II.7.4.
+
 
 प्रोक्षणीनामभिमन्त्रणादि कर्म प्रतिपद्यते॥३॥
-3. Then he does the work beginning with addressing the sprinkling-waters.'
-1. Thus the work mentiond in II.8.1-11.9.1.
+
 
 स्तरणकले बर्हिषा त्रिः प्रसव्यं वेदिं स्तृणन्पर्येति॥४॥
-4. At the time of spreading (grass) on the altar he goes thrice around the altar (keeping the altar to his) left while spreading (the grass). 2
-1. See 11.9.2. 2. Cf. ŚB II.6.1.15.401
+
 
 
 औद्धवान्धारयमाणस्त्रिरस्तृणन्प्रति र्येति॥५॥
-5. Holding some remaining grass-blades he goes in a verse direction around (the altar) without spreading (the
-grass).
-1. Cf. TB 1.6.8.7.
+
 
 औद्धवः प्रस्तरः॥६॥
-6. These remaining grass-blades should serve as the Prastara'.
-1. See ŚB 11.6.1.15.
+
 
 प्रस्तरस्य ग्रहणसादने तूष्णीम्॥७॥
-7. The acts of taking and placing of the Prastara (are to be done) silently (without any formula).'
-1. At the time of taking (II.8.5) TS 1.1.11.g and at the time of placing
-(II.9.13) TS 1.1.11.p are used in the basic paradigm. For the Sūtra
-cp. TB 1.6.8.8.
+
 
 न विधृती॥८॥
-8. There should be no Vidhṣṭi (separating-blade)s.
-1. See II.9.12. For the Sūtra cf. ŚB 11.6.1.16
+
 
 द्वौ परिधी परिदधाति॥९॥
-9. He lays down two enclosing sticks.
-1. Cf. TB 1.6.8.8. FETHRIN 011
-10. (Thus he lays down) the middle and the left enclosing sticks.
-1. In this context where the altar is oriented to the south-east cf.
-(VIII. 13.5) the northern or left enclosing stick will be actually to
-the south-east. Harar118811 11. Or (he lays down) all the three enclosing sticks."
-1. Cf. ŚB II.6.1.16.
+
+
+ FETHRIN 011
+
+
+Harar118811
+
 402
 
 
 मम सर्वानावाहनकाले परिधी पोर्णिवति वाभिज्ञाय दक्षिणं शो परिधावुपसमस्येत्॥१२॥
-__12. If (he is going to lay down) all (the three enclosing sticks then in that case) he should place the southern (the riche enclosing stick) on the middle one either at the time of invocation of the gods by the Hotr̥ or having recognised the words paridhinraporṇu uttered by Hotr̥.
-1. RV IX.96.11 उद्वासनकाले धाना उद्धास्य विभागमन्त्रेण विभज्यार्धा आज्येन संयौति॥१३॥
-• 13. At the time of taking away (the oblation material from the fire),1 having taken away the fried grains, having divided (them) with the formula of division he mixes the half with ghee.
-1. See II. 10.6.
-2. See I.24.5, VIII.13.18. अर्धाः पिष्टानामावृता सक्तून्कृत्वाभिवान्यायै दुग्धस्यार्धशरावे सक्तू नोप्यैकयेक्षुशलकयेक्षुकाण्डेन वा दक्षिणामुखस्त्रिः प्रसव्यमनारभ्योप मन्थति॥१४॥
-14. Having prepared flour of half of the crushed fried grains in the usual procedure,' having poured the flour in a pot half full of milk of a cow suckling an adopted calf, facing the south he stirs (the mixture) by the left (anti-clockwise), by means of a stem or a section of a sugarcane, without touching it (mixture) with the hand.
-1. See I.21.6-7.
-2. Cp. MS I.10.17; cf. TB I.6.8.4-5.
+__
+
+
+उद्वासनकाले धाना उद्धास्य विभागमन्त्रेण विभज्यार्धा आज्येन संयौति॥१३॥
+
+
+अर्धाः पिष्टानामावृता सक्तून्कृत्वाभिवान्यायै दुग्धस्यार्धशरावे सक्तू नोप्यैकयेक्षुशलकयेक्षुकाण्डेन वा दक्षिणामुखस्त्रिः प्रसव्यमनारभ्योप मन्थति॥१४॥
+
 
 शलाकास्थं मन्थं कृत्वैकैकशो हवींष्यासादयति॥१५॥
-15. Having caused the mixture to stick to the stem (of the sugarcane), he keeps down the oblations one by one.'
-_1. Cp. TB I.6.8.9
+
 
 
 दक्षिणतः कशिपूपबहणमाञ्जनमभ्यञ्जनमुदकुम्भमित्यकैकश आसाद्य वेदं निधाय सामिधेनीभ्यः प्रतिपद्यते॥१६॥
-___16. Having placed a kushion and a pillow, collyrium and ointment, and a waterjarl one-by-one to the south of the
-ĀPŚS Translation : THITE
-403
-VIII.14]
-oblations, then h
-sions, then having kept down the brush (Veda) he starts the work of Sāmidheni verses.
-1. Cf. TB I.6.8.9; cp. also I.8.2. अग्नये देवेभ्यः पितृभ्यः समिध्यमानायानुब्रूहीति संप्रेष्यति॥१७॥
-17. He gives the order to the Hotr̥: agnaye devebhyaḥ pitrbhyaḥ samidhyamānayānubrūhi.
-___ 1. See TB I.6.9.1.
+
+
+अग्नये देवेभ्यः पितृभ्यः समिध्यमानायानुब्रूहीति संप्रेष्यति॥१७॥
+
+
 
 एकां सामिधेनी त्रिरन्वाह। उशन्तस्त्वा हवामह इत्येताम्॥१८॥
-18. (The Hotr) recites enklindling verse thricel (and then utters) this (verse) uśantastvā havāmahe....?
-1. Cf. TB I.6.9.1.
-2. TS II.6.12.9.
+
 
 एकामनूयाजसमिधमवशिष्य समश इध्मं त्रैधं विभज्य त्रिरादधाति॥१९॥
-19. Having reserved one fuel-stick for the after-offering, having divided the fuel(-sticks) equally, he puts (five sticks) thrice (in the fire).1
-1. Cp. II.12.5-6.
+
 
 समानमा प्रवरात्॥२०॥
-20. Upto Pravara everything is the same (as in the basic paradigm).
-1. Thus upto II.16.5.
+
 
 नार्षेयं वृणीते न होतारम्॥२१॥
-21. He does not perform the rite of the selection of (the Hotr) (alongwith the mention of) the Rsi-ancestors, nor does he select the Hotr (by mentioning his name).1
-1. Thus the ritual mentioned in II.16.5-14 is not to be done. For the
-___Sutra cp. TB I.6.7.1-2.
+
 
 आश्राव्याह सीद होतरिति। एतावान्प्रवरः॥२२॥
-22. Having called for Āgnīdhra to say astu srauṣaṭ he says "Sit, O Hotr." This much is the Pravara (selection of the
-Hotr).1
-1. The ritual mentioned in II.15.1-4 is performed but instead of the
-404
-words mentioned in II.16.5. the Adhvaryu should simply say "Sit
-O Hotr. For this Sutra see SB II.6.1.23.
+
 
 अपबर्हिषः प्रयाजानिष्ट्वा जीववन्तावाज्यभागौ यजति॥२३॥
-23. After the Adhvaryu has performed the Prayāja offerings except the one connected with Barhis,' (the Hotr). recites the offering-verses containing the word jiva2 for the (ghee-portions) Ājyabhāga.3
-1. Cp. VIII.8.6, TB I.6.9.2. 2. See the next Sutra.
-3. Cf. KB V.7.
+
 
 
 आ नो अग्ने सुकेतुना रयिं विश्वायुपोषसम्। मार्डीकं धेहि जीवसे॥ त्वं सोम महे भगं त्वं यून ऋतायते। दक्षं दधासि जीवस इति जीववन्तौ॥२४॥
-24. The verses containing the word jiva are: ā no agne...! and tvam soma mahe...2
-1. RV I.79.9.
-2. RV I.91.7.
+
 
 अत्र वेद्याः परिश्रयणमेके समामनन्ति॥२५॥
-25. According to the tradition of some ritualists the act of enclosing of the altar should be done at this stage (now).!
-1. Instead of what is mentioned VII.13.15. It is not clear who these
-ritualists are.
+
 #### 08.15
 
 
 
 वित्रस्य यज्ञोपवीतानि प्राचीनावीतानि कुर्वते। विपरिक्रामन्त्यत्विजः। विपरिहरन्ति स्रुचो हवींषि परिश्रयणानीति॥१॥
-1. Having losened their sacred threads (which were upto now on the left shoulder and under the right arm-pit) the performers put them on the right shoulder and under the left arm-pit. The priests (and also the sacrificer) exchange (their places). They transfer the places of ladles, oblations and the enclosures (curtains).3
-1. Thus the Brahman and sacrificer who were so far to the south of
-the altar, should sit to the north of it and the Hotr, the Adhvaryu,
-and the Agnidhra should now go to the south (cp. VIII.16.15). 2. The ladles Juhi, Uppbhrt, Dhruva were upto now (see II. 10.2).
-.
-Āpss Translation : THITE VIII.15)
-405
-behind the fire on the altar, should now be kept as follows: the Juhū, to the north of the Upabhịt, and to the north of it the Dhruvā. The three oblations (sacrificial bread, fried grains, and stirred flour) are placed to the west of the ladles (II. 11.7) in the
-north. See for details the next two Sūtras. 3. viz. the four mats which are to be used for enclosing the altar
-VII.13.15. should also undergo the change in their places. Thus the one which was so far in the west should be now in the east,
-the one in the south, in the north and vice versa.
+
 
 दक्षिणेन जुहूमुपभृतं सादयति। दक्षिणेनोपभृतं ध्रुवां दक्षिणेन पुरोडाशं धानास्ता दक्षिणेन मन्थम्॥२॥
-2. (The Adhvaryu) places the Upabhịt, to the south of (right of) the Juhū; Dhruvā to the south of the Upabhịt, the fried grains to the south of the sacrificial bread, and the stirred flour to the south of them (fried grains).
+
 
 
 समानत्र जुहूषट्कपालौ॥३॥
-3. The Juhū and the sacrifical bread on six potsherds remain on the same i.e. the earlier place.
+
 
 
 ब्रह्मयजमानावित्येके४॥
-4. According to some (ritualists)' the Brahman and the sacrificer also remain on their original place.
-1. The Bhāradvājas. See Bhārass VIII. 11.21.
+
 
 षडवत्तः पञ्चावत्तिनां पञ्चावत्तश्चतुरवत्तिनाम्॥५॥
-5. (In the case of those sacrificers) for whom the portions are cut (of the offering material) for five times in the basic paradigm)' the portions (should be cut) for six times (and in the case of the sacrificers) for whom the portions are cut for four times in the normal paradigm) the portions (should be cut) for five times.
-| 1. See II.18.2.
+
 
 संभिन्दपुरोडाशस्यावद्यति॥६॥
-6. He cuts the portions from the sacrificial bread connectingly.
-1. Contrast II.18.10. For the Sūtra cf. TB 1.6.9.3.
+
 406
 fa: 74RICE srafa:11911
-7. In the case of sacrificer for whom the portions are to be cut for five-times, he should cut (portions) twice form the first oblation material.
+
 
 
 जुह्वामुपस्तीर्य सोमाय पितृमते ऽनु स्वधेति संप्रेष्यति॥८॥
-8. Having made an underlayer of ghee in the Juhū he gives order to the Hotr̥ to recite the invitatory verse with the words somāya pitsmate anu svadhā.!
-1. The expression anu svadhā takes the place of the expression anu
-brūhi of the normal paradigm. सकृत्पुरोडाशस्यावद्यति सकृद्धानानां सकृन्मन्थस्य॥९॥
-9. Once he cuts portion from the sacrifical bread, once from the fried grains and once from the stirred flour.
+
+
+सकृत्पुरोडाशस्यावद्यति सकृद्धानानां सकृन्मन्थस्य॥९॥
+
+
 दक्षिणतो ऽवदायाभिघार्योदतिक्रम्य दक्षिणामुखस्तिष्ठन्ना स्वधेत्याश्रा qufarlig011
-10. Having cut the portions from the south (of the altar), having poured ghee on them, having stepped towards the north, while standing with his face to the south, he gives order to the Āgnīdhrāļ with the words ā svadhā.
-1. Cf. TB 1.6.9.4; contrast ĀPŚS II.18.3.
-2. Instead of āśrāvaya II.15.3,6.
+
+
 अस्तु स्वधेति प्रत्याश्रावयति। सोमं पितृमतं स्वधेति संप्रेष्यति। ये स्व धामह इति यजति। स्वधा नम इति वषट्करोति॥११॥
-11. The Āgnidhral responds with the words astu svadhā.? The Adhvaryu orders the Hotr̥ to recite the offering verse with somaṁ pitsmantaṁ svadhā.3 The Hotp recites the offering verse adding the words ye svadhāmahe4 (in the beginning). (The Hotr̥) utters the words svadhā namahs at the end of the verse.
-1. The Āgnidhrā stands here to the south of the altar with his face to
-the north. Cf. VIII.15.1. Contrast II.15.4. 2. Instead of astu śrauṣaṭ. 3. Instead of the word yaja (see II.18.3). 4. Instead of ye yajāmahe. 5. Instead of vaṣat (vauṣat).
+
+
+
 407
 स्वधाकारं तु प्रतिषिध्य बढचवाजसनेयिनामा श्रुतप्रत्याश्रुतान्येव विद धाति॥१२॥
-12. (The tradition) of the R̥gvedins' and Vājasaneyins,2 moving prohibited the svadha call, prescribes the same äśruta and response to äśruta as in the normal paradigm.
-1. In KB V.7. the custom is not mentioned and Sankhāss III.17.15 it ___ is made optional.
-2. The Vājasaneyins prescribes svadhā but an authority mentioned in
-ŚB II.6.1.25 prohibits it. द्वे पुरोऽनुवाक्ये अन्वाह॥१३॥
-13. (The Hotr) recites twol invitatory verses (for each oblation).
-1. Instead of one in the basic paradigm. Cf. for this Sūtra TB 1.6.9.4;
-___KB V.7. ऋचमुक्त्वा प्रणौति। अपरामुक्त्वा प्रणौति॥१४॥
-14. Having recited a verse he pronounces om; having recited another (verse) he pronounces om.
+
+
+
+द्वे पुरोऽनुवाक्ये अन्वाह॥१३॥
+
+
+ऋचमुक्त्वा प्रणौति। अपरामुक्त्वा प्रणौति॥१४॥
+
 त्वं सोम प्रचिकित इत्येता आम्नाता भवन्ति॥१५॥
-15. Tvam soma pracikitah... these verses are mentioned by the tradition (for being used as invitatory and offering verses).
-1. TS II.6.12.b-r. The verses b, c, d are for Soma Pitrmat; e for
-Agnisvatta Pitrs; f, g, h, for Barhisad Pitrs; i,k,l for Pitrs in
-general; m,n, for Agni Kavyavāhana, o,p,q, r for Yama Angirasvat. एका याज्या॥१६॥ 16. One offering verse for each.
+
+
+एका याज्या॥१६॥
+
+
 अग्निष्वात्ताः पितर इत्येषा। ये अग्निष्वात्ता येऽनग्निष्वात्ता अंहोमुचः पितरः सोम्यासः। परे ऽवरे मृतासो भवन्तोऽधिब्रुवन्तु ते अवन्त्वस्मान्॥ वान्यायै दुग्धे जुषमाणाः करम्भमुदीराणा अवरे परे च। अग्निष्वात्ता ऋतुभिः संविदाना इन्द्रवन्तो हविरिदं जुषन्तामिति पितृभ्यो ऽग्निष्वात्तेभ्यः॥१७॥
-17. For the Agnisvatta Pitrs this verse is used; agnisvāttah
--
-rinam ain
-JI
-408
-o with ye agniṣvāttāḥ and
-pitarah...', and the verses beginning with ye aon vānyāyai dugdhe jusamānāh...2 are to be used.
-1. TS II.6.12.e.
-2. TB II.6.16.1-2. उपांशु परिश्रिते पितृयज्ञेन चरन्ति॥१८॥
+
+
+
+उपांशु परिश्रिते पितृयज्ञेन चरन्ति॥१८॥
 18. They perform the ancestral ritual in an enclosed place and inaudibly.
 ____1. See VIII. 13.15; ref. 25; cp SB II.6.1.19.
 एतेनैव कल्पेन पितॄन्बर्हिषदो यजत्यग्निष्वात्तान्॥१९॥
