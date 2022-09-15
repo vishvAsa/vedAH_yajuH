@@ -170,7 +170,7 @@ with the hands of Pusan.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अधि॑वपामि।  
+… अधि॑वपामि।  
 </details>
 
 <details><summary>Keith</summary>

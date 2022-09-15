@@ -41,6 +41,21 @@ with the hands of Pusan.
 </details>
 </details>
 </div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ द॑दे ।
+</details>
+<details><summary>Keith</summary>
+
+I grasp thee.
+</details>
+<details><summary>मूलम्</summary>
+
+आ द॑दे ।
+</details>
+
+
 <details><summary>भट्टभास्करटीका</summary>
 
 अतः परमध्वरकाण्डं सोमार्षेयम् ।  व्याख्यातं चैतत् । **हे अभ्रे त्वामादद** इति सावित्रस्यैवायं शेषः ॥

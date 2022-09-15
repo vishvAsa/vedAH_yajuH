@@ -380,7 +380,7 @@ with the hands of Pusan.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… अ॒ग्नीषोमा᳚भ्यां [जुष्ट॒न्निर्व॑पामि] ।
+… अ॒ग्नीषोमा᳚भ्यां [जुष्ट॒न् निर्व॑पामि] ।
 </details>
 
 <details><summary>Keith</summary>
