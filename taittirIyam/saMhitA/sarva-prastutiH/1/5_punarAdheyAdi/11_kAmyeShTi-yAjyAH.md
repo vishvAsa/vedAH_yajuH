@@ -296,9 +296,9 @@ _______
 19पुनरपि तत्रैव याज्याविकल्पः - सुत्रामाणमिति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/03_sutrAmANaM_pRthivIM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>

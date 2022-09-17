@@ -33,7 +33,7 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIM.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
 <details open=""><summary><h4>०३ सुत्रामाणं पृथिवीं ...{Loading}...</h4></summary>
 
 
@@ -92,7 +92,7 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIM.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
 <details open=""><summary><h4>०३ सुत्रामाणं पृथिवीं ...{Loading}...</h4></summary>
 
 

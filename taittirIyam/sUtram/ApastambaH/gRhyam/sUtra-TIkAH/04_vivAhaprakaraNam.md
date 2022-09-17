@@ -534,7 +534,7 @@ title = "०४ विवाहप्रकरणम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
 <details open><summary><h5>०७ आशासाना सौमनसम् ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/14/001_vivAha-_prakaraNam/42_AshAsAnA_saumanasaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/14/001_vivAha-_prakaraNam/42_AshAsAnA_saumanasam.md">
 <details open><summary><h7>४२ आशासाना सौमनसं ...{Loading}...</h7></summary>
 
 आ॒शासा॑ना सौमन॒सं  
