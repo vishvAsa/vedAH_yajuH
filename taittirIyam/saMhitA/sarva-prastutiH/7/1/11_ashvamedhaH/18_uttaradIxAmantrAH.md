@@ -18,21 +18,12 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 गा॒य॒त्रेण॒ छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/lokAntaram/Rk/mahIm_U_Shu/">
-<details open><summary><h2>महीम् ऊ षु ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/02_mahImU_Shu.md">
-<details open=""><summary><h4>०२ महीमू षु ...{Loading}...</h4></summary>
 
-म॒हीमू॒ षु मा॒तरं॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हवामहे ।  
-तु॒वि॒क्ष॒त्राम॒जर॑न्तीमुरू॒चीं सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम्॥२॥  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>
 
--  म॒हीम् ऊ॒ षु मा॒तरꣳ॑ सुव्र॒ताना॑म्  
-ऋ॒तस्य॒ पत्नी॒म् अव॑से हुवेम ।  
-तु॒वि॒+++(=प्रवृद्ध)+++-ख्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीꣳ+++(=उरुगमनां)+++  
-सु॒शर्मा॑ण॒म् अदि॑तिꣳ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-</details>
-</div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
 <details open=""><summary><h4>०३ सुत्रामाणं पृथिवीं ...{Loading}...</h4></summary>
 

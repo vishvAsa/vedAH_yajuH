@@ -286,9 +286,10 @@ _______
 18तत्रैव याज्या - महीमूष्विति त्रिष्टुप् ॥ 
 </details>
 
-<div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/02_mahImU_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/02_mahImU_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
