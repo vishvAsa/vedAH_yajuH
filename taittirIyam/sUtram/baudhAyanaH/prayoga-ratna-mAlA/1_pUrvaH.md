@@ -1,5 +1,5 @@
 +++
-title = "प्रयोगरत्नमाला"
+title = "१ पूर्वः"
 unicode_script = "devanagari"
 +++
 
