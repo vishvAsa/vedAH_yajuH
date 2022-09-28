@@ -119,7 +119,10 @@ III. Rishitarpanam. Chamb. 606 b. 735. foll. 11. a sort of anukramani of the Mad
 ## Accentuation
 B. The accentuation in the manuscripts of the Catapatha Brahmana is rather strange, as there only one sign is made use of, an horizontal stroke beneath the line, for denoting the udátta as well as the svarita. The udatta has the stroke beneath itself: नृष॒दम्, the svarita beneath the preceding syllable: वी॒र्यम्. To avoid this ambiguity I have denoted the svarita in this edition by two horizontal strokes beneath the preceding syllable: वीॗर्यम्. 
 
-Before a following accented syllable the preceding udátta loses its denotation: 1) before an udátta: 
+### Udatta denotation loss
+Before a following accented syllable the preceding udátta loses its denotation: 
+
+1) before an udátta: 
 
 - केतपूः के॒तम् instead of पूः॒ के॒तम्, 
 - महो ये ध॒नम् i. of महो॒ ये॒ ध॒नम्. 
@@ -128,15 +131,30 @@ Before a following accented syllable the preceding udátta loses its denotation:
   
 but रथवाही सा हि न॒ स्त्री न पु॒मान् i. of रथवाही सा हि न स्त्री न पु॒मान् (५.५.४.३५.), as there would be wanting too many signs. 
 
-A _seeming_ exception only is यं॒ यम॒सुराणाम् १.६.३.२८., as the second यम् is not accented: see पाणिनि-सू ८.१.३.२ before a svarita: नेॗद्व्यृद्धम् , १.७.२.९, मानुषं नेॗद्व्यृद्धम्, यज्ञो वैॗ स्वः, देवा वैैॗ स्वः, देवा वैॗ स्वः . 
+A _seeming_ exception only is यं॒ यम॒सुराणाम् १.६.३.२८., as the second यम् is not accented: see पाणिनि-सू ८.१.३.२ 
 
+2) before a svarita: नेॗद्व्यृद्धम् , १.७.२.९, मानुषं नेॗद्व्यृद्धम्, यज्ञो वैॗ स्वः, देवा वैैॗ स्वः, देवा वैॗ स्वः . 
+
+### Svarita retention
 - The preceding svarita on the contrary retains its denotation before a following accented syllable: 
 
-  1) before an udatta: यज्ञो वैॗ स्वर॒हः, देवा
-वैॗ स्वर॒गन्म, एॗवैत॒त्. 
-  2) before a svarita: वोदा॒नीताॗन् ॥५॥ सोॗऽभ्युक्षति (\*) ५. १. ४. ६., इ॒तिॗ सैॗषैत॒म् १. ४. १.२६., देवाॗः सैॗषैत॒म् – The udatta changes into the svarita (and the original scarita remains unaltered: अनुवाक्येयम् १. ७. २. ११.) in all cases of crasis with a following unaccented vowel, see my Vajasaneyasanhitae specimen II p. 7 follow. (Berlin 1847 Asher) and Roth in his edition of Yáska's Nirukta I p. LX. (Göttingen 1848 Dieterich). The only continual exception is made by the praepositions या and प्र, which remain udatta: एहि ५.२.१.१०. प्राह, प्राधन्वन् १. ५. १. २०., प्रारोचत १. ६.२.८.: besides the udatta is occasionally retained (against पाणि ८. २. ४.) in the declension, but alternating even in the same words with the searita: दशम्या and दशम्या Instr. of दशमी. – The udatta is regular in all cases of crasis with a following accented vowel ति instead of एव था इति १.४. १.५., अाग्यज्यूहति i. of अग्वेि अध्यूदति १.५. ३. २०., सुष्वेति i. of सुष्वा इति १. ७. १. १६., याज्याथ i. of याज्या अथ १.७.२.
-७.
-(*) The denotation and the reciprocal influence of the accents does in general not undergo any alteration from the divisions of the pratikas, the kandikás or the brdhmanas, with the only exception that the underlineal stroke is changed into three dots in the manuscripts: तत् ॥१॥ स, and in this edition respectively also into six of them, if the following svarita is denoted: तत् ॥१॥ सोभि .
-Berlin March 1849.
+  1) before an udatta: यज्ञो वैॗ स्वर॒हः, देवा वैॗ स्वर॒गन्म, एॗवैत॒त्. 
+  2) before a svarita: वोदा॒नीताॗन् ॥५॥ सोॗऽभ्युक्षति (\*) ५. १. ४. ६., इ॒तिॗ सैॗषैत॒म् १. ४. १.२६., देवाॗः सैॗषैत॒म् 
+
+(\*) The denotation and the reciprocal influence of the accents does in general not undergo any alteration from the divisions of the pratikas, the kandikás or the brdhmanas, with the only exception that the underlineal stroke is changed into three dots in the manuscripts: तत् (… under त) ॥१॥ स॒, and in this edition respectively also into six of them, if the following svarita is denoted: तत् (…… under त)॥१॥ सोभि॒ .
+
+
+### Udatta to svarita
+– The udatta changes into the svarita (and the original svarita remains unaltered: अनुवाक्येयम् १. ७. २. ११.) in all cases of crasis with a following unaccented vowel, see my Vajasaneyasanhitae specimen II p. 7 follow. (Berlin 1847 Asher) and Roth in his edition of Yáska's Nirukta I p. LX. (Göttingen 1848 Dieterich). The only continual exception is made by the praepositions आ and प्र, which remain udatta: ए॒हि ५.२.१.१०. प्रा॒ह, प्रा॒धन्वन् १. ५. १. २०., प्रा॒रोचत १. ६.२.८.: besides the udatta is occasionally retained (against पाणि ८. २. ४.) in the declension, but alternating even in the same words with the svarita: दशम्या॒ and दशॗम्या Instr. of दशमी॒. 
+
+### Regular udatta
+– The udatta is regular in all cases of crasis with a following accented vowel: 
+
+- एवा॒हुतिम्, एवे॒ति instead of एव॒ आ॒ इ॒ति १.४. १.५., 
+- आद्ये॒ऽध्यूहति i. of आॗद्ये अ॒ध्यूदति १.५. ३. २०., 
+- सुप्वे॒ति i. of सुॗप्वा इ॒ति १. ७. १. १६., 
+- याज्या॒थ i. of याॗज्या अ॒थ १.७.२.
+
+Berlin March 1849.  
 The Editor.
 
