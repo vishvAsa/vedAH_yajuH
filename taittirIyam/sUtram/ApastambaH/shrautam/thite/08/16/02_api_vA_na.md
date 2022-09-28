@@ -2,4 +2,4 @@
 title = "02 अपि वा न"
 
 +++
-अपि वा न यजमानः २
+2. Or rather the sacrificer does not smell. 

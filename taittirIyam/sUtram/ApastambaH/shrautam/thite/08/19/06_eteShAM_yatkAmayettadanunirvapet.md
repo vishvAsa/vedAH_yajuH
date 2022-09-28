@@ -2,4 +2,4 @@
 title = "06 एतेषां यत्कामयेत्तदनुनिर्वपेत्"
 
 +++
-एतेषां यत्कामयेत्तदनुनिर्वपेत् ६
+6. One should offer whatever one desires out of these. 

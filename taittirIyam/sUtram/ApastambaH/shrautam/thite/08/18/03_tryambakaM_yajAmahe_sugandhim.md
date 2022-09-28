@@ -2,4 +2,4 @@
 title = "03 त्र्यम्बकं यजामहे सुगन्धिम्"
 
 +++
-त्र्यम्बकं यजामहे सुगन्धिं पतिवेदनम् । उर्वारुकमिव बन्धनादितो मुक्षीय मा पतेरिति यजमानस्य पतिकामा परीयात् ३
+3. The (daughter) of the sacrificer desirous to get husband should go round (the fire) with tryambakaṁ yajāmahe...

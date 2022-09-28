@@ -2,4 +2,4 @@
 title = "10 एतयैव परिश्रितम् प्रविशन्ति"
 
 +++
-एतयैव परिश्रितं प्रविशन्ति १०
+10. With the same (verse) they enter into the enclosed place.

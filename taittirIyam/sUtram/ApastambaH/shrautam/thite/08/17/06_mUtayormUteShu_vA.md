@@ -2,4 +2,4 @@
 title = "06 मूतयोर्मूतेषु वा"
 
 +++
-मूतयोर्मूतेषु वा ६
+6. Or in two or many baskets. 

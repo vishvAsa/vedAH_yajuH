@@ -2,4 +2,4 @@
 title = "22 स चावदानकल्पः"
 
 +++
-स चावदानकल्पः २२
+22. And this is the procedure of cutting the portions.
