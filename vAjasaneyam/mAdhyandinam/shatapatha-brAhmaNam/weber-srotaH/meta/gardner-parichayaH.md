@@ -16,6 +16,10 @@ book 12 entered by Makoto Fushimi, Kyoto / Harvard 1999;
 corrections by Matthias Ahlborn;  
 TITUS version by Jost Gippert,  
 Frankfurt a/M, 31.1.1997 / 28.2.1998 / 21.6.1998 / 14.10.1999 / 1.6.2000 / 7.12.2008 / 21.4.2012 
+
+
+[Book 12 edited by Makoto Fushimi. References are made to this editor (F), Weber's edition (W), and two other editions (Kāśi and Kalyan-Bombay). J.G.]
+
 </details>
 
 
