@@ -2,4 +2,9 @@
 title = "05 अथैकेषाम् पञ्च सञ्चराणि"
 
 +++
-अथैकेषाम् । पञ्च सञ्चराणि निरुप्य वायव्या यवागूः प्रतिधुग्वेन्द्राय शुनासीराय पुरोडाशो द्वादशकपालः । इन्द्राय शुनासीराय स्रुचा जुहुत नो हविः । जुषतां प्रति मेधिरः । प्र हव्यानि घृतवन्त्यस्मै हर्यश्वाय भरता स जोषाः । इन्द्रर्तुभिर्ब्रह्मणा वावृधानः शुनासीरी हविरिदं जुषस्वेति शुनासीरीयस्य याज्यानुवाक्ये । सौर्य एककपाल इति ५
+5. Now according some[^1] (the offerings in the Śunāsīrīya should be as follows): having taken out the material for the five common offerings, the Adhvaryu should prepare the following offering-materials: gruel or unboiled fresh milk for Vāyu, a sacrificial bread on twelve potsherds for Indra Śunāsīrīya—the invitatory and offering verses for the bread to Indra Śunāsīrīya should be as follows: indrāya śunāsīrāya...; and pra havyāni ghr̥tavanti...[^2]—and a sacrificial bread on one potsherd to Surya.  
+
+
+[^1]: viz. the Mānavas; see MS I. 10.1.  
+
+[^2]: TB II.5.8.2. The Mānavas prescribes different verses: MS IV.10.6.

@@ -2,4 +2,4 @@
 title = "12 अवघ्रेण सर्वभक्षाः"
 
 +++
-अवघ्रेण सर्वभक्षाः १२
+12. All the eatings (should be done in the form of) smelling.

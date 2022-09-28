@@ -2,4 +2,7 @@
 title = "18 सूक्तवाकम् प्रति निवीतानि"
 
 +++
-सूक्तवाकं प्रति निवीतानि कुर्वते १८
+18. At the time of the recitation of the Sūktavāka[^1]. the performers wear their sacred threads round the necks.  
+
+
+[^1]: See III.6.5.  
