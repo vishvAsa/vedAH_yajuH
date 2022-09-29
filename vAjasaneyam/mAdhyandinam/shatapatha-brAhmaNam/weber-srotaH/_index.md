@@ -17,11 +17,13 @@ unicode_script = "devanagari"
 - Some words are abbreviated. In adhyAya 12, they're expanded.
 - Some typos are fixed in adhyAya 12. Eg. uchóṣukā́ ha syus {Fn. emended. W: syas} tásmā́d etā́v ántareṇā́nyó ná dīkṣeta //
 
-## अनन्तनारयाणस्रोतसि दोषाः
+## अनन्तनारयणादि-स्रोतसि दोषाः
 - वर्तन्ते हि काश्चनाशुद्धयष् टङ्कनोद्भवाः 
   - यथा (!;/) इत्येतेषाम् अन्वेषणेन दृश्यन्ते
   - ऋ → ॠ, 
   - पितॄन्न᳘ → पितॄ᳘न्न᳘ 6.3.1.24 [Arch](https://archive.org/details/in.ernet.dli.2015.283077/page/n531/mode/2up), पितॄ᳘भ्यो १२.६
     - (Also transliteration error - `त्र्᳘̥̄ं`, पित्र्᳘̥̄णां)
+  - प्रस्ना᳘यु᳘स्
   - भुयास्तम् अ᳘ङ्घ्रणा
 - अनुनासिकचिह्नान्य् अनुस्वारायन्ते। 
+- १२-तमे बहुत्र रोमकमूल उदात्तचिह्नानि योजितानि, यानि भाषिकस्वररीत्यात्र दृश्यन्ते। 
