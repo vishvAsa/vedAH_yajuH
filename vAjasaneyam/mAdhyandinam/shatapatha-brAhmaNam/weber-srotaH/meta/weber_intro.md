@@ -141,7 +141,7 @@ A _seeming_ exception only is यं᳘ यम᳘सुराणाम् १.�
   1) before an udatta: यज्ञो वैॗ स्वर᳘हः, देवा वैॗ स्वर᳘गन्म, एॗवैत᳘त्. 
   2) before a svarita: वोदा᳘नीताॗन् ॥५॥ सोॗऽभ्युक्षति (\*) ५. १. ४. ६., इ᳘तिॗ सैॗषैत᳘म् १. ४. १.२६., देवाॗः सैॗषैत᳘म् 
 
-(\*) The denotation and the reciprocal influence of the accents does in general not undergo any alteration from the divisions of the pratikas, the kandikás or the brdhmanas, with the only exception that the underlineal stroke is changed into three dots in the manuscripts: त᳟त् ॥१॥ स᳘, and in this edition respectively also into six of them, if the following svarita is denoted: त᳟᳟त्॥१॥ सोभि᳘ .
+(\*) The denotation and the reciprocal influence of the accents does in general not undergo any alteration from the divisions of the pratikas, the kandikás or the brahmanas, with the only exception that the underlineal stroke is changed into three dots in the manuscripts: त᳟त् ॥१॥ स᳘, and in this edition respectively also into six of them, if the following svarita is denoted: त᳟᳟त्॥१॥ सोभि᳘ .
 
 
 ### Udatta to svarita
