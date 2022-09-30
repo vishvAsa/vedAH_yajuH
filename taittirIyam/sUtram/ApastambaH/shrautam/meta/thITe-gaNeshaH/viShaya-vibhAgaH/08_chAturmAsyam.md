@@ -1376,85 +1376,92 @@ VIII.19]
 
 
 नव प्रयाजानूयाजाः॥६॥
-6. There should be nine fore-offerings and nine after offerings.
+
+
 पञ्चप्रयाजं व्यनूयाजमित्येके॥७॥
-7. According to some there should be five fore-offerings and three after-offerings.
+
 संसर्पो ऽस्यहस्पत्याय त्वेति मासनाम्नैकपालमभिजुहोति॥८॥
-8. With a formula containing names of the months accompanied by saṁsarposyashaspatyāya tvāl he offers ghee on the sacrificial bread prepared on one potsherd.2
-1. TS I.4.14.c-d.
-2. Cp. VIII.2.18, VIII.7.2, VIII.12.5. द्वादशगवं सीरं दक्षिणा॥९॥
-9. A plough with twelve bulls (should be given) as the sacrificial gift.
-1. Cf. TS I.8.7.1.
+
+द्वादशगवं सीरं दक्षिणा॥९॥
+
 420
 ranslation : THITE
 [VIII.21
-षड्योगं वा ॥१०॥ 10. Or one with six bulls. उष्टारावित्येकेषाम्॥११॥
-11. According to some' two camels (should be given as the sacrificial gift).
-___ 1. See MS II.6.2; KS XV.2. उष्टारं वा॥१२॥ 12. Or one camel.
+षड्योगं वा ॥१०॥
+
+उष्टारावित्येकेषाम्॥११॥
+
+
+उष्टारं वा॥१२॥
+
 अश्वं श्वेतमेककपालस्य गां वा श्वेतम्॥१३॥
-13. Or a white horse or a white bull (should be given as the sacrificial gift) for the offering of the sacrificial bread made on one potsherd.
-__ 1. Cf. SB II.6.3.9.
-___VIII.21 अनुवत्सरीणां स्वस्तिमाशास्ते। दिव्यं धामाशास्त इति सूक्तवाकस्याशिःषु होतानुवर्तयते एवं यजमानो जपति। आशास इति मन्त्रं संनमति॥ सिद्धमिष्टिः संतिष्ठते। संतिष्ठन्ते चातुर्मास्यानि॥ अत्र पौर्णमास्येष्ट्वोन्दनादि पूर्ववन्निवर्तनम्। सर्वं वा वापयेत्॥ मन्त्रादिर्विक्रियते॥ एकं मासमुदसृजत्परमेष्ठी प्रजाभ्यः। तेनाभ्यो मह आवहदमृतं मया॑भ्यः॥ प्रजामनु प्रजायसे तदु ते मामृतम्। येन मासा अर्धमासा ऋतवः परिवत्सराः॥ येन ते ते प्रजापत ईजानस्य न्यवर्तयन्। तेनामहस्य ब्रह्मणा निवर्तयामि जीवसे। अग्निस्तिग्मेनेति समानम्॥१॥
-!. "The sacrificer prays for bliss for those which belong to the Anuvatsara;" the Hotp adds these words to the blessings of the Suktavaka; he also adds the words "(the sacrificer) prays for divine place." The sacrificer mutters in the correspondent manner. He modifies the formula with the word aśäse (I pray) instead of aśäste(= He prays). The offering stands completely established in the usual manner. The Cāturmāsya-sacrifices stand completly established. At this stage having performed the Full-moon-offering, the act of trimming the hair beginning with moistening the head should be done in the same mantic olier or he should get all the hair shaved.? The beginning are ne formula is to be modified as follows: ekaṁ māsamudasrjat
-ramesthi... (The formula) agnistigmena... is the same as
-nard
-above."
-1. Cp. VIII.3.4f., VIII.7.8, VIII. 12.5. 2. Cp. VIII.8.19f. 3. See TB 1.5.5.6-7; cp. Āpss VIII.4.2.
-4. See VIII.4.2.
+
+
+21 अनुवत्सरीणां स्वस्तिमाशास्ते। दिव्यं धामाशास्त इति सूक्तवाकस्याशिःषु होतानुवर्तयते एवं यजमानो जपति। आशास इति मन्त्रं संनमति॥ सिद्धमिष्टिः संतिष्ठते। संतिष्ठन्ते चातुर्मास्यानि॥ अत्र पौर्णमास्येष्ट्वोन्दनादि पूर्ववन्निवर्तनम्। सर्वं वा वापयेत्॥ मन्त्रादिर्विक्रियते॥ एकं मासमुदसृजत्परमेष्ठी प्रजाभ्यः। तेनाभ्यो मह आवहदमृतं मया॑भ्यः॥ प्रजामनु प्रजायसे तदु ते मामृतम्। येन मासा अर्धमासा ऋतवः परिवत्सराः॥ येन ते ते प्रजापत ईजानस्य न्यवर्तयन्। तेनामहस्य ब्रह्मणा निवर्तयामि जीवसे। अग्निस्तिग्मेनेति समानम्॥१॥
+
+
 ## 5 anubandhaḥ
 APPENDIX TO THE CĀTURMĀSYA-SACRIFICES
 चातुर्मास्यैरिष्ट्वा सोमेन पशुना वा यजते॥२॥
-2. After having performed the Cāturmāsya sacrifices, one should perform a Soma sacrifice or an independent animal sacrifice.'
-1. i.e. Nirūdhapaśubandha. फाल्गुन्या उद्दृष्टे सोमाय दीक्षते॥३॥
-3. (In case he performs a Soma sacrifice) he should consecrate himself for the Soma-sacrifice during the bright fortnight preceding the full moon day of Phālguna.
-i. Cp. ŚB II.6.3.11-12. तं ततो नानीजानमपरा फाल्गुनी पर्यवेयात्॥४॥
-4. The next Phālguna full moon day should not pass him who has not performed a Soma-sacrifice.
-1. Cp. SB II.6.3.11-12. इति वै खलुत्सृजमानस्य॥५॥
-5. This is so for one who abandons the performance of Cāturmāsya-sacrifices.
+
+
+फाल्गुन्या उद्दृष्टे सोमाय दीक्षते॥३॥
+
+
+तं ततो नानीजानमपरा फाल्गुनी पर्यवेयात्॥४॥
+
+इति वै खलुत्सृजमानस्य॥५॥
+
 अथ पुनरालभमानस्य फाल्गुन्याश्चतुर्दश्यां शुनासीरीयेणेष्ट्वा॥६॥
-6. Now in the case of one who begins to perform again (the Cāturmāsya-sacrifices), having performed the Sunāsīrīya on the fourteenth (day preceding the the Phālguna full moon day),
-1. The sentence is incomplete; see the next Sutra.
+
+
 422
 ### 08.22
 पञ्चदश्यां वैश्वदेवेन यजते॥१॥
-1. On the fifteenth day (the sacrificer) should perform Vaisvadeva.'
-1. Cp. SB II.6.3.13. एतेनैव पशुकामो यजेत यस्मिन्नस्यौ भूयिष्ठं गोषु पयः स्यात
-2. The sacrificer who desires cattle should perform the same i.e. the Vaiśvadeva-parvan in the season in which his cows yield the most milk.
+
+एतेनैव पशुकामो यजेत यस्मिन्नस्यौ भूयिष्ठं गोषु पयः स्यात
+
+
 एतेनैव प्रजाकामः पशुकामो वा यजेत॥३॥
-3. The sacrificer who desires progeny or cattle should perform merely this (Vaiśvadeva-parvan). !
-___1. Cf. KS XXXVI.3.
+
+
 अथैकेषाम्। वैश्वदेवेनेतरेषां पर्वणां स्थाने पशुकामो यजेत यावत्सहस्त्रं पशून्प्राप्नुयात्। अथेतरैः स्वकालैर्यजेत॥४॥
-4. Now according to some h(ritualists)' the sacrificer who desires cattle should perform Vaiśvadeva-parvan instead of the other Parvans until he gets one thousand cattle. Then he should perform the other (Parvans) at their own times.
-___ 1. KS XXXVI.3; MS I. 10.7; शुनासीरीयेण ग्रामकामो वर्ण्य उदके यजेत॥५॥
-5. The sacrificer who desires a village, should perform the Sunasiriya-rite when rain-water (is falling).
+
+
+शुनासीरीयेण ग्रामकामो वर्ण्य उदके यजेत॥५॥
+
+
 वर्ण्यमुदकमन्ववसाय तत उदकार्थान्कुरुते॥६॥
-6. Having stayed near rain-water, he should get the work with water done with it (water).
+
+
 एतेनैव प्रजाकामः पशुकामः पुष्टिकामो ब्रह्मवर्चसकामो ऽन्नाद्यकामा वा यजेत॥७॥
-7. The sacrificer who disires progeny, or cattle or pros perity or brahman-splendor, or food should perform the same viz. only the Sunasiriya-parvan.
+
+
 423
 पर्वभिश्चातुर्मास्येषु मासान्संचष्टे॥८॥
-e In the Cāturmāsya-sacrifices one should count the onths in accordance with the Parvans."
-1. Thus one should follow the lunar months. पञ्चसांवत्सरिकाणि व्याख्यास्यामः॥९॥
-9. We will (now) describe the (Cāturmāsya-sacrifices) of five-years.
+
+
+पञ्चसांवत्सरिकाणि व्याख्यास्यामः॥९॥
+
 त्रीनृतून्संवत्सरानिष्ट्वा मासं न यजते। द्वौ पराविष्ट्वा विरमति॥१०॥
-10. Having performed the Cāturmāsya-sacrifices for three continuous years one should not perform them for one month; then having performed (these sacrifices) for the next two years one should stop.
-1. read rujūn instead of stūn; cf. Caland under this Sūtra. चैत्र्यां तूपक्रम्य द्वाविष्ट्वा मासमनिष्ट्वा त्रीन्परानिष्ट्वा विरमति॥११॥
-11. Having started on the full-moon-day of Caitra,' one performs (these sacrifices) for two years then having not performed them for one month, then having performed these sacrifices for the next three (years) one should top.
-1. Cp. VIII.1.2. अथ पञ्चदशवार्षिकाणि॥१२॥
-12. Now (Cātramāsya-sacrifices) of fifteen years (and more).
+
+
+चैत्र्यां तूपक्रम्य द्वाविष्ट्वा मासमनिष्ट्वा त्रीन्परानिष्ट्वा विरमति॥११॥
+
+
+अथ पञ्चदशवार्षिकाणि॥१२॥
+
+
 एतान्येव द्विः॥१३॥
-13. These same (Cāturmāsya-sacrifices described in Sūtras 10 and 11 are to be performed) twice (in order to make up fifteen years).
+
+
 त्रिरपरिमितं वाभ्यस्येत्॥१४॥
-14. Or one may repeat these thrice or for any unspecified (number of years).
+
+
 विज्ञायते च स त्रिषुत्रिषु संवत्सरेषु मासंन चजत इत्येतद्वचनो ऽभ्यासः॥१५॥
-15. And it is known (from a Brāhmaṇa-text): "He should perform (the Cāturmāsya-sacrifices) for every three years, then
-424
-ĀPŚS Translation : THITE
-[18.1
-nth."1 On this sentence
-he should not perform (them) for one month."1 On thi the repetition is based.
-1. The text is not known. पञ्चसांवत्सरिकेषु वैश्वानरपार्जन्या पञ्चहोता च नाभ्यावर्तेत
-16. In the Cāturmāsya-sacrifices lasting for five years the offerings to Vaiśvānara and Parjanya and the recitation Pañcahotp-formula should not be repeated."
-1. For the offering to Vaiśvānara and Parjanya and the recitation of
-the Pañcahotr̥ formula see VII.1.3. एकोपक्रमत्वात्॥१७॥ यथान्वारम्भणीया यथान्वारम्भणीया॥१८॥
-17-18. For there can be only one beginning; and that offering (mentioned in Sūtra 16) is like introductory (beginning) offering.
+
+
+पञ्चसांवत्सरिकेषु वैश्वानरपार्जन्या पञ्चहोता च नाभ्यावर्तेत
+
+
+एकोपक्रमत्वात्॥१७॥ यथान्वारम्भणीया यथान्वारम्भणीया॥१८॥
