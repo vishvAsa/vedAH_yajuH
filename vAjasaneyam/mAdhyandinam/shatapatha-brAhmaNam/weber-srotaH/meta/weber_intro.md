@@ -18,7 +18,7 @@ There is exstant a very great number of old as well as recent copies of it: Thos
 
 I Haviryajna: begins व्रतमुपैष्यन्नन्तरेणाहवनीयम् (7 prapâthaka, 9 adhyâya, 37 brâhmana, 837 kandika). M foll 117. - Bodlei. Wils. 363 (=B.). Samyat 1709. foll. 152 (ten leaves are wanting from 8, 2, 10 - 9, 1, 12 incl.). nr. 368 (= C.) S. 1654. foll. 123. nr. 67. nr. 71. – E. I, H. 2143 (=I.). - Paris Bibl. Nationale D 161. -
 
-II. Ekapádikd begins स यद्वाऽइतश्चेतश्च (5 prap. 6 adhy. 24 brahm. 549 kand.) Chamb. 3 written S. 1681 in Kåçi by Gangårámamicra. foll. 116. nr. 39. - M. foll. 84. - Bodi. Wils. 366 foll. 62. nr. 67. nr. 71.-E.I.H. 2143. nr. 1977. nr. 583. foll. 27. - Paris D 147. -
+II. Ekapádika begins स यद्वाऽइतश्चेतश्च (5 prap. 6 adhy. 24 brahm. 549 kand.) Chamb. 3 written S. 1681 in Kåçi by Gangårámamicra. foll. 116. nr. 39. - M. foll. 84. - Bodi. Wils. 366 foll. 62. nr. 67. nr. 71.-E.I.H. 2143. nr. 1977. nr. 583. foll. 27. - Paris D 147. -
 
 III. Adhuara begins देवयजनं जोषयन्ते (7 prap. 9 adhy. 37 brâhm. 859 kand.) Chamb. 1. foll. 181 written by the same scribe as nr. 3. - nr. 39.- M. foll. 125. - Bodl. Wils. 359 S. 1585 foll. 116. nr. 383. S. 1688. foll. 333. nr. 67. nr. 71. - E.I.H. 1977. 2143. -
 
@@ -141,7 +141,7 @@ A _seeming_ exception only is यं᳘ यम᳘सुराणाम् १.�
   1) before an udatta: यज्ञो वैॗ स्वर᳘हः, देवा वैॗ स्वर᳘गन्म, एॗवैत᳘त्. 
   2) before a svarita: वोदा᳘नीताॗन् ॥५॥ सोॗऽभ्युक्षति (\*) ५. १. ४. ६., इ᳘तिॗ सैॗषैत᳘म् १. ४. १.२६., देवाॗः सैॗषैत᳘म् 
 
-(\*) The denotation and the reciprocal influence of the accents does in general not undergo any alteration from the divisions of the pratikas, the kandikás or the brdhmanas, with the only exception that the underlineal stroke is changed into three dots in the manuscripts: त᳟त् ॥१॥ स᳘, and in this edition respectively also into six of them, if the following svarita is denoted: त᳟᳟त्॥१॥ सोभि᳘ .
+(\*) The denotation and the reciprocal influence of the accents does in general not undergo any alteration from the divisions of the pratikas, the kandikás or the brahmanas, with the only exception that the underlineal stroke is changed into three dots in the manuscripts: त᳟त् ॥१॥ स᳘, and in this edition respectively also into six of them, if the following svarita is denoted: त᳟᳟त्॥१॥ सोभि᳘ .
 
 
 ### Udatta to svarita
