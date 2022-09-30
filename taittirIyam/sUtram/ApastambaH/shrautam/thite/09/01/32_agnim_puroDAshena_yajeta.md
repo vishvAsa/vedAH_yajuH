@@ -2,4 +2,4 @@
 title = "32 अग्निम् पुरोडाशेन यजेत"
 
 +++
-अग्निं पुरोडाशेन यजेत । इन्द्रं पञ्चशरावेण ३२
+32. He should offer the sacrificial bread to Agni and rice pap measuring five Śarāvas to Indra. 

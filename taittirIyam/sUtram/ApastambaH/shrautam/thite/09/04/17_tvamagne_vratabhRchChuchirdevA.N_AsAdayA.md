@@ -2,4 +2,11 @@
 title = "17 त्वमग्ने व्रतभृच्छुचिर्देवाँ आसादया"
 
 +++
-त्वमग्ने व्रतभृच्छुचिर्देवाँ आसादया इह । अग्ने हव्याय वोढवे । व्रतानुबिभ्रद्व्रतपा अदाभ्यो यजा नो देवाँ अजरः सुवीरः । दधद्रत्नानि सुविदानो अग्ने गोपाय नो जीवसे जातवेद इति याज्यानुवाक्ये । व्रातभृतीं प्रवास एके समामनन्ति व्रातपतीमश्रुकर्मणि १७
+17. The verses beginning with tvamagne vratabhr̥t...[^1] and vratānubibhrad vratapāḥ...[^2] should be used as invitatory and offering-verses respectively. According to some (one should perform an offering) to (Agni) Vratabhr̥t in the case of staying away and an offering to (Agni) Vratapati in the case of shedding tears.  
+
+
+[^1]: TS II.4.1.11.  
+
+[^2]: TS II.4.1.11.  
+
+[^3]: Atharvaveda-prayaścittāni V.5.

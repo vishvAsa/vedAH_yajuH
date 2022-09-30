@@ -2,4 +2,4 @@
 title = "09 यदि ब्राह्मणन् न"
 
 +++
-यदि ब्राह्मणं न विन्देद्दर्भस्तम्बे होतव्यम् ९
+9. If one does not get a Brāhmaṇa one should offer on a cluster of Darbha-grass. 

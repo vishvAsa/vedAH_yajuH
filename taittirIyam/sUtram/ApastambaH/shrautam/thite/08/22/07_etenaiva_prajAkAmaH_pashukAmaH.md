@@ -2,4 +2,4 @@
 title = "07 एतेनैव प्रजाकामः पशुकामः"
 
 +++
-एतेनैव प्रजाकामः पशुकामः पुष्टिकामो ब्रह्मवर्चसकामोऽन्नाद्यकामो वा यजेत ७
+7. The sacrificer who desires progeny, or cattle or prosperity or brahman-splendor, or food should perform the same viz. only the Śunasīrīya-parvan.

@@ -2,4 +2,7 @@
 title = "11 चैत्र्यान् तूपक्रम्य द्वाविष्ट्वा"
 
 +++
-चैत्र्यां तूपक्रम्य द्वाविष्ट्वा मासमनिष्ट्वा त्रीन्परानिष्ट्वा विरमति ११
+11. Having started on the full-moon-day of Caitra,[^1] one performs (these sacrifices) for two years then having not performed them for one month, then having performed these sacrifices for the next three (years) one should top.  
+
+
+[^1]: Cp. VIII.1.2.  
