@@ -1170,272 +1170,298 @@ fa: 74RICE srafa:11911
 
 
 उपांशु परिश्रिते पितृयज्ञेन चरन्ति॥१८॥
-18. They perform the ancestral ritual in an enclosed place and inaudibly.
-____1. See VIII. 13.15; ref. 25; cp SB II.6.1.19.
+
+
 एतेनैव कल्पेन पितॄन्बर्हिषदो यजत्यग्निष्वात्तान्॥१९॥
-19. In the same manner (the Adhvaryu) performs the ritual for Barhiṣad PitȚs and Agniṣvātta PitȚs.
+
+
 अग्निं कव्यवाहनं स्विष्टकृदर्थे यजति॥२०॥
-20. For the sake of the Svistakrt offering he offers a libation to Agni Kavyavāhana.'
-1. Cf. TB I.6.9.7; cp. MS I.10.18; KB V. 6. यां देवतां यजेत्तद्धविषः प्रथममवदानवमद्यति॥२१॥ स चावदानकल्पः ॥२२॥
-21-22. To whatsoever deity he offers the oblation, from the oblation-material of it, he cuts the portion first. And this is the procedure of cutting the portions.
+
+
+यां देवतां यजेत्तद्धविषः प्रथममवदानवमद्यति॥२१॥ स चावदानकल्पः ॥२२॥
+
 मन्थ इडामवद्यति मन्थं वैव॥२३॥
-23. He cuts the Ida-portion from the stirred flour or he takes the (entire remaining portion of) the stirred-flour (ION being used) as Ida.1
-1. Cp. VII.24.10. मन्थं होत्र आदधाति॥२४॥
-24. He places the stirred flour on the hand of the Holf. तं होतावजिघ्रति॥२५॥ 25. The Hotr smells it.!
-1. For Sutras 24-25, cf. SB II.6.1.33; cp. KB V.7.
+
+
+मन्थं होत्र आदधाति॥२४॥
+
+
+तं होतावजिघ्रति॥२५॥
+
+
 ApSs Translation : THITE
 409
 VIII.161
 #### 08.16
 
 ब्रह्माध्वर्युरग्नीद्यजमानश्च॥१॥
-1. And (then) the Brahman, Adhvaryu, Agnidhra and the sacrificer smell the stirred flour. 1
-1. Cf. SB II.6.1.33. अपि वा न यजमानः॥२॥ 2. Or rather the sacrificer does not smell. समशो वा प्रतिविभज्यावज्रेण भक्षयित्वा बर्हिषि लेपान्निमृजन्ते॥३॥
-3. Or having equally divided (the stirred flour) having consumed it by means of smelling they should wipe out upon the Barhis the portion (of the stirred flour sticking to their hand."
-1. Cp. SB II.6.1.33. उदकुम्भमादाय यजमानः शुन्धन्तां पितर इति त्रिः प्रसव्यं वेदिं परिषि ञ्चन्प्रतिपर्येति॥४॥
-.4. Having taken the water-jar' the sacrificer thrice moves around the altar keeping it to his left while pouring water with sundhantām etc.2
-1. See VIII.13.17. __2. Cp. TB I.6.99. निधाय कुम्भमया विष्ठा जनयन्कर्वराणीति त्रिरपरिषिञ्चन्प्रतिपर्येति॥५॥
-5. Having kept down the jar he moves in the opposite direction around the altar without pouring water with ayā vis thā janayan karvarāni...2
-1. i.e. keeping the altar to his right. 2. TS I.7.12.f. For the application of this verse cf. MS I. 10.19; KS
-XXXVI.13. हविःशेषान्सप्लोम्नाय पिण्डान्कृत्वा तिसृषु सक्तिषु निदधाति पूर्वस्या दक्षिणस्यामपरस्यामिति। एतत्ते ततासौ ये च त्वामन्वित्येतैः प्रतिमन्त्रम्॥६॥
-6. Having kneaded the remnants of all the oblation materials, having made balls out of them, he places down them on the three corners (of the altar) viz. eastern, southern and
-410
-ApśS Translation : THITE
-[VIIL.16
-northern each time with one of the formulae beginning with etat te tatāsau ye ca tvämanu.'
-1. Co. TS 1.9.5.b. cp. TB 1.6.9.7 according to which the names of . the ancestars are not to be uttered. त्रीन्परान्पितॄनन्वाचष्टे। षष्ठं प्रथमे पिण्डे। पञ्चमं द्वितीये। चतुर्थं तृतीये।।
-7. He mentions three further (than great-grand-father) ancestors, on the first ball the sixth, on the second the fifth. on the third the fourth.1
-___ 1. Cf. MS I. 10.18; KS XXXVI.13.
+
+
+अपि वा न यजमानः॥२॥
+
+समशो वा प्रतिविभज्यावज्रेण भक्षयित्वा बर्हिषि लेपान्निमृजन्ते॥३॥
+
+
+उदकुम्भमादाय यजमानः शुन्धन्तां पितर इति त्रिः प्रसव्यं वेदिं परिषि ञ्चन्प्रतिपर्येति॥४॥
+
+
+
+निधाय कुम्भमया विष्ठा जनयन्कर्वराणीति त्रिरपरिषिञ्चन्प्रतिपर्येति॥५॥
+
+
+हविःशेषान्सप्लोम्नाय पिण्डान्कृत्वा तिसृषु सक्तिषु निदधाति पूर्वस्या दक्षिणस्यामपरस्यामिति। एतत्ते ततासौ ये च त्वामन्वित्येतैः प्रतिमन्त्रम्॥६॥
+
+
+त्रीन्परान्पितॄनन्वाचष्टे। षष्ठं प्रथमे पिण्डे। पञ्चमं द्वितीये। चतुर्थं तृतीये।।
+
+
 उत्तरस्यां सक्त्यां रिप्तलेपं निमृज्यात्र पितरो यथाभागं मन्दध्वमित्यु क्त्वोदञ्चो निष्क्रम्य सुसंदृशं त्वा वयमित्यैन्द्रयर्चाहवनीयमुपतिष्ठन्त ऐन्द्रीणां वा॥८॥
-8. Having wiped the portion sticking to the hand on the northern corner and having recited (the formula) atra pitaro yathābhāgam mandadhvam having gone out the enclosed place with their faces to the north, they stand near the Ahavaniya fire praising with a verse addressed to Indra or two verses addressed to Indra (beginning with) susandrsam tvā vayam...'
-1. TS I.8.5. b.b. 2. Cf. SB II.6.1.38.
-3. TS I.8.5.c. The second verse is I.8.5.d. See the next Sutra. आ तमितोरुपस्थायाक्षन्नमीमदन्त हीति पङ्क्त्या गार्हपत्यमुपतिष्ठन्ते॥९॥
-9. Having stood near and praised the Āhavanīya while reciting the verse they hold the breath, they stand near the Gārhapatya-fire praising with a verse in Parkti beginning with aksannamimadanta hi...2
-1. Cp.TB I.6.9.8.
-2. TS I.8.5.d. एतयैव परिश्रितं प्रविशन्ति॥१०॥
-10. With the same (verse) they enter into the enclosed place.
-अत्रैके भक्षणपरिषेचने समामनन्ति॥११॥ 11. According to the tradition of some (ritualists) the actmaniaadmitaliationediarendramasan
-ĀPŚS Translation : THITE VIII.16]
-411
-ring (of the remants)' and pouring of water? (should take place) at this stage.'
-1. See VIII. 15.23-16.3. 2. See VIII.16.4-5. 3. According to TB 1.6.9.9-10 the pouring of water should take place
-now. About the eating of remnants the Brāhmaṇa does not say
-anything. अवघेण सर्वे भक्षाः॥१२॥
-12. All the eatings (should be done in the form of) smelling.
+
+
+आ तमितोरुपस्थायाक्षन्नमीमदन्त हीति पङ्क्त्या गार्हपत्यमुपतिष्ठन्ते॥९॥
+
+
+एतयैव परिश्रितं प्रविशन्ति॥१०॥
+
+अत्रैके भक्षणपरिषेचने समामनन्ति॥११॥
+
+
+अवघेण सर्वे भक्षाः॥१२॥
+
+
 आञ्जनादि पिण्डपितृयज्ञवदा पङ्क्तयाः॥१३॥
-13. The rites beginning with the act of anointing upto the (recitation of a verse in) Pankti(-meter) (is to be) done in the same manner as in the Piṇdapitsyajña.'
-1. See I.9.14--10.9. यदन्तरिक्षमिति पङ्क्तया पुनरेति॥१४॥
-14. With a verse in Pankti(-metre) beginning with yadantarikşam' (the Adhvaryu) comes back (to the enclosed place).2
-1. TS I.8.5.k. see also I.10.9.
-2. Cp. KS XXXVI.13, MS I.10.19. वित्रस्य प्राचीनावीतानि यज्ञोपवीतानि कुर्वते। विपरिक्रामन्त्य॒त्विजः। विपरिहरन्ति स्रुचः॥१५॥
-15. Having loosened their sacred threads which were upto now on their right shoulder and under the left armpit, (the performers) make them on the left shoulder and under the right armpit. The priests exchange their seats. They bring the ladles back to bring their original place.!
-1. Cp. VIII.15.1-3. अपकर्षन्ति परिश्रयणानि॥१६॥ 16. They draw away the enclosing curtains.1
-1. Cp. VIII.13.15. .. औपभृतं जुह्वामानीयापबर्हिषावनूयाजौ यजति. देवौ यजेति प्रथम संप्रेष्यति। यजेत्युत्तरम्॥१७॥
-17. Having brought the ghee from the Upabhịt into the
-412
-h Doha
-C
-the
-Juhū (the Adhvaryu) offers the after-offerings excludin one connected with Barhis.' For the first he orders the un with, "Recite the offering-verse for the two gods". fi second, "Recite the offering-verse". 2
-1. Cf. TB 1.6.9.10, cp. above VIII. 14.23.
-2. Cp. VIII.8.11. सूक्तवाकं प्रति निवीतानि कुर्वते॥१८॥
-18. At the time of the recitation of the Sūktavāka!. the performers wear their sacred threads round the necks.
-1. See III.6.5. न पलीः संयाजयन्ति॥१९॥ 19. They do not perform Patnīsasyājas."
-1. For this ritual see III.8.1--9.6. For this Sūtra cf. TB 1.6.9.10. न समिष्टयजुर्जुहोति॥२०॥
-20. (The Adhvaryu) does not offer the Samiṣṭayajus (-libations).
-1. For these see III. 13.2. Hofgeiicated 117811 21. Everything else is done. संतिष्ठते पितृयज्ञः॥२२॥ 22. The Pitryajña stands hearby completly established.
+
+
+यदन्तरिक्षमिति पङ्क्तया पुनरेति॥१४॥
+
+वित्रस्य प्राचीनावीतानि यज्ञोपवीतानि कुर्वते। विपरिक्रामन्त्य॒त्विजः। विपरिहरन्ति स्रुचः॥१५॥
+
+
+अपकर्षन्ति परिश्रयणानि॥१६॥
+
+औपभृतं जुह्वामानीयापबर्हिषावनूयाजौ यजति. देवौ यजेति प्रथम संप्रेष्यति। यजेत्युत्तरम्॥१७॥
+
+
+सूक्तवाकं प्रति निवीतानि कुर्वते॥१८॥
+
+
+न पलीः संयाजयन्ति॥१९॥
+
+न समिष्टयजुर्जुहोति॥२०॥
+
+
+संतिष्ठते पितृयज्ञः॥२२॥
+
+
 THE TRYAMBAKA-HAVIRYĀGA
 #### 08.17
 प्रतिपुरुषमेककपालान्निर्वपति यावन्तो यजमानस्यामात्याः सस्त्रीकास्तावत एकातिरिक्तान्॥१॥
-1. They pour out the material for the sacrificial breads to be prepared on one potsherd. The breads should be as many as the number of relatives of (the sacrificer) along with their wives-one for each member added by one.'
-1. Cp. VIII.5.41.
+
+
 VIII.17]]
 Pou
 ĀpsS Translation : THITE
 413 यावन्तो गृह्याः स्मस्तेभ्यः कमकरमिति निरुप्यमाणेषु यजमानो जपति॥२॥
-2. While the material (for these sacrificial breads is) being oured out, the sacrificer mutters yāvanto gļhyā smastebhyaḥ kamakaram.'
-1. TS I.8.6.5. तूष्णीमुपचरिता भवन्ति॥३॥ 3. (The sacrificial breads are) treated silently.1
-1. The ritual of offerings of these breads is to be done without
-uttering any formula. उत्तरार्धे गार्हपत्यस्याधिश्रयति॥४॥
-4. The Adhvaryu keeps (these breads) on the northern part of the Garhapatya(-fire).'
-___1. Cf. SB II.6.2.5.
+
+
+तूष्णीमुपचरिता भवन्ति॥३॥
+
+उत्तरार्धे गार्हपत्यस्याधिश्रयति॥४॥
+
+
 तानभिघार्यानभिघार्य वोद्वास्यान्तवेद्यासाद्य पशूनां शर्मासीति मूते समा वपति ॥
-5. Either having poured or not having poured' ghee on them, having taken them away form the fire, having placed them inside the altar, he puts them in one basket with pasūnām Śarmasi.2
-1. TB 1.6.10.1 prohibits the act of pouring.
-2. TS I.8.6.c. मूतयोर्मूतेषु वा॥६॥ 6. Or in two or many baskets. कोशापिधानेन हरन्तीत्येकेषाम्॥७॥
-7. According to some (ritualists) they carry (the sacrificial breads) by means of a lid of a box.
+
+
+मूतयोर्मूतेषु वा॥६॥
+
+कोशापिधानेन हरन्तीत्येकेषाम्॥७॥
+
 एक एव रुद्रो न द्वितीयाय तस्थ इति दक्षिणाग्नेरेकोल्मुकं धूपायद्धर
 ति॥८॥
-8. (The Adhvaryu) carries a single smouldering fire orand from the Daksina-fire with eka eva rudrah...!
-1. TS I.8.6.d.
+
+
 414
 [VIII.18
 414
 ApSs Translation : THITE उत्तरपर्वमवान्तरदेशं गत्वाखुस्ते रुद्र पशुरित्याखकर पवपति॥९॥
-9. Having gone to the intermediary region between the north and east (of the sacrificial ground) he throws sacrificial bread on the earth dug out by rats with ākhuste ruder pasuh...
-___ 1. TS I.8.6.e. असौ ते पशुरिति वा द्वेष्यं मनसा ध्यायन्॥१०॥
-10. Or with asau' te paśuḥ... while concentrating over the enemy in his mind.
-___ 1. Here one has to utter the name of one's enemy. यदि न द्विष्यादाखुस्ते पशुरिति ब्रुयात्॥११॥
-11. If one does not hate anyone one should say ākhuste paśuḥ...
+
+
+असौ ते पशुरिति वा द्वेष्यं मनसा ध्यायन्॥१०॥
+
+
+यदि न द्विष्यादाखुस्ते पशुरिति ब्रुयात्॥११॥
+
+
 चतुष्पथ एकोल्मुकमुपसाधाय संपरिस्तीर्य सर्वेषां पुरोडाशानामुत्तरा र्धात्सकृत्सकृदवदाय मध्यमेनान्तमेन वा पलाशपर्णेन जुहोति॥१२॥
-12. Having added fuel to the signle fire-brand on a cross way, having scattered sacred grass around it, having once taken a portion from the northern part of each of all the sacrificial breads, he offers ghee by means of the middle or the last leaf of the Palāśa-tri-leaf.
-___1. Cf. TB I.6.10.3.
+
+
 #### 08.18
 एष ते रुद्र भागः सह स्वस्त्राम्बिकया तं जुषस्व स्वाहेति भेषजं गव इत्येताभ्यां चातुष्पथमग्निं परिषिञ्चति। अवाम्ब रुद्रमदिमहीति यजमानो जपति॥१॥
-____ 1. (The Adhvaryu offers the ghee-libation mentioned above) with esa te rudra bhāgah... He sprinkles (water) round the fire on the cross-way with these two (verses beginning with): bhesajaṁ gave the sacrificer mutters avāmba rudramadimahi.'
-1. See TB I.6.10.4; TS I.8.6.f. 2. TS I.8.6. g and h. 3. TS I.8.6.h.
-415
+
+
+
 ध्यम्बकं यजामह इति त्रिः प्रदक्षिणमग्निं परियन्ति॥२॥
-2. (All the participants) go round the fire keeping it to the right with tryambakaṁ yajāmahe... 1
-1. TS I.8.6.i. त्र्यम्बकं यजामहे सुगन्धिं पतिवेदनम्। उर्वारुकमिव बन्धनादितो मुक्षीय मा पतेरिति यजमानस्य पतिकामा परीयात्॥३॥
-3. The (daughter) of the sacrificer desirous to get husband should go round (the fire) with tryambakaṁ yajāmahe...
+
+
+त्र्यम्बकं यजामहे सुगन्धिं पतिवेदनम्। उर्वारुकमिव बन्धनादितो मुक्षीय मा पतेरिति यजमानस्य पतिकामा परीयात्॥३॥
+
+
 ऊर्ध्वान्पुरोडाशानुदस्य प्रतिलभ्य त्र्यम्बकं यजामह इति यजमानस्याञ्जलौ समोप्य भग स्थ भगस्य वो लप्सीयेत्यपादायैतेनैव कल्पेन त्रिः समावपेयुः॥४॥
-4. Having thrown up the sacrificial breads,' having caught them in hands, having put down them in the folded hands of the sacrificer with bhaga stha... they should put down (the breads on the folded hands of the sacrificer) thrice in the same
-manner.
-1. Each of the participants should do the activites mentioned in this
-Sūtra with respect to his bread. TB 1.6.10.5 mentions only the act
-of throwing up. पतिकामा याश्चैवं समावपेयुस्तथैव मन्त्रं संनमयत्यः॥५॥
-5. And the daughters who are desirous to get husband' should put down (their breads) modifing the formula in the same manner (as mentioned in Sūtra 3).
-1. Patikāmāh yah ca evam... Rudradatta reads patikāmāyāh. Caland
-follows this. But then there will be the difficulty in understanding the word saṁ namayatyaḥ this is a feminine form and cannot be understood to be an adjective of the performers mentioned in
-Sūtra 4. परीत्यपरीत्य समावपन्तीत्येके॥६॥
-6. According to some, having turned round each time they put down the breads on the folded hands.
+
+
+पतिकामा याश्चैवं समावपेयुस्तथैव मन्त्रं संनमयत्यः॥५॥
+
+
+परीत्यपरीत्य समावपन्तीत्येके॥६॥
+
+
 तान्मूते समावपति मूतयोर्मूतेषु वा॥७॥
-7. The Adhvaryu puts down those in one basket, or two baskets or three baskets.
-1. Cf. TB I.6.10.5.
+
+
 416
 te ruudra
 एष ते रुद्र भाग इति वृक्ष आसजति वृक्षयोवृक्षेषु वाटा
-8. He hangs (the one basket or the two or many bas on one treel or two trees or three trees with esa te bhāgah...2
-1. Cr. TB I.6.10.5.
-2. TS I.8.6.k.
+
+
 अपि वा मूतयोः समोप्य विवधं कृत्वा शुष्के स्थाणौ वल्पीकवण वावधायावततधन्वा पिनाकहस्तः कृत्तिवासोमिति त्रिरवताम्यन्ति॥९॥
-9. Or rather after the Adhvaryu has put down the breads into two baskets and has tied them up by means of a stick to a wooden pole and then has placed them on a dried out tree or on an ant-hill,' all the performers should recite thrice avatatadhanvā pinakahastaḥ... holding the breath as long as they can.
-1. Cf. SB II.6.2.17.
+
+
 अपः परिषिच्याप्रतीक्षास्तूष्णीमेत्यैधो ऽस्येधिषीमहीत्याहवनीये समिध आधायापो अन्वचारिषमित्युपतिष्ठन्ते॥१०॥
-10. (After the Adhvaryu has thrice poured water round (the basket), (all the performers) having returned without any formula, having put fuel-sticks on the Āhavanīya(-fire)2 with edho'syedhisimahi...' stand (near the fire) praising it with apo anvacārişam..."
-1. Cf, TB I.6.10.5. 2. Cp. KS XXXVI.14; cp. also VIII.8.18. 3. TBI.4.45.k. 4. TS I.4.3.5.1.
+
+
 #### 08.19
 आदित्यं घृते चरुं पूर्ववनिर्वपति॥१॥
-1. (The Adhvaryu) takes out the material for the rice-pap to be cooked in ghee for Aditi,' in the same manner (as described) earlier.2
-1. Cf. TB I.6.10.5; cp. KS XXXVI.14, 2. See V.22.1-5.
+
+
 ApSs Translation : THITE
 417
 VIII.19]
-अश्वः श्वेतो दक्षिणा॥२॥ 2. A white horse (is to be given as a) sacrificial gift. गौर्वा श्वेतः श्वेतन्यङ्गो वा॥३॥
-3. Or a white bull or a bull with white spots (is to be given as a sacrificial gift).
+अश्वः श्वेतो दक्षिणा॥२॥
+
+गौर्वा श्वेतः श्वेतन्यङ्गो वा॥३॥
+
+
 सिद्धमिष्टिः संतिष्ठते॥४॥
-4. The offering stands completely established, in the usual manner.
+
+
 आग्नावैष्णवमेकादशकपालं निर्वपेच्चक्षुष्कामो बार्हस्पत्यं चरुं ब्रह्मव र्चसकाम ऐन्द्रं पशुकामः सारस्वतं प्रजाकामः पौष्णं प्रतिष्ठाकामः॥५॥
-5. One who desires eye-power should offer a sacrificial bread on eleven potsherds for Agni and Visnu; ... desires brahman-splendour.... rice-pap for Brhaspati; desires cattle... rice-pap for Indra; desires progeny... for Sarasvati; ... desires firm establishment... for Pūşan.
-एतेषां यत्कामयेत्तदनुनिर्वपेत॥६॥ 6. One should offer whatever one desires out of these. . सिद्धमिष्टिः संतिष्ठते॥७॥
-7. The offering stands completely established in the usual manner.
-संतिष्ठन्ते साकमेधाः॥८॥ 8. The Sākamedhas stand completely established (hereby).
+
+
+एतेषां यत्कामयेत्तदनुनिर्वपेत॥६॥
+
+सिद्धमिष्टिः संतिष्ठते॥७॥
+
+संतिष्ठन्ते साकमेधाः॥८॥
+
+
 अत्र पौर्णमास्येष्ट्वोन्दनादि पूर्ववन्निवर्तनम्। सर्वं वा वापयेत्॥ मन्त्रादिर्विक्रियते। यो अस्याः पृथिव्यास्त्वचि निवर्तयत्योषधीः। अग्निरीशान ओजसा वरुणो धीतिभिः सह। इन्द्रो मरुद्भिः सखिभिः सह॥ अग्निस्तिग्मेनेति समानम्॥९॥
-9. At this stage having performed the full-moon-offering, one should perform the rites like trimming the hair which begin with moistening (the head) in the same manner as earlier' or
-should get all (the hair) shaved. The beginning of the
-witi
-418
-tvaci
-formula? is to be modified as follows: yo asyāḥ prthivvastu (To this is added) agnistigmena...... (which is) the sa
-sames 1. See VIII.4.2; cp. VIII.8.19-20. 2. See VIII.4.2. 3. TB 1.5.5.4. 4. TB 1.5.5.2. 5. See VIII.4.2.
+
+
 ## 4 śunāsīriyaparva
 ŚUNĀSĪRĪYA-PARVAN
 ### 08.20
 ततो यहे व्यहे चतुरहे ऽर्धमासे मासि चतुर्पु वा मासेषु शुनासीरीयेण Yang 11
-1. Then after two days or three days or four days or a half month, one month or four months one should perform the sunāsiriya-offerings.
+
+
 तस्य वैश्वदेववत्कल्पः॥२॥
-2. The procedure of it should be similar to that of the Vaiśvadeva-offering.
+
+
 निर्वपणकाल आग्नेयमष्टाकपालमिति दशोत्तराणि हवींषि निर्वपति॥३॥
-3. At the time of taking out (the oblation-materials),' (the Adhvaryu) should take the next? ten oblation materials viz. a sacrificial bread on eight potsherds for Agni (etc)}.
-1. See I.17.10. 2. See VII.5.28. 3. In addition to the five regularly recurring oblations (for which see
-VIII.2.2) there should be the following ones: i. a sacrificial bread on twelve potsherds for Indra-Agni, ii. a rice-pap for the Viśvedevas, iii. a sacrificial bread on twelve potsherds for Indra Sunāsira, iv. milk for Väyu,
-V. a sacrificial bread on one potsherd for Sūrya. See TB 1.7.1.1. वायव्यस्य पयसः प्रातर्दोहवत्कल्पः॥४॥
-4. The procedure of the ritual of the milk for Vāyu should be similar to that of morning milking.'
-1. For details see I. 14.7-8.
+
+
+वायव्यस्य पयसः प्रातर्दोहवत्कल्पः॥४॥
+
+
 419 बोकेषाम्। पञ्च संचराणि निरुप्य वायव्या यवागूः प्रतिधुग्वेन्द्राय गाय परोडाशो द्वादशकपालः॥ इन्द्राय शुनासीराय स्त्रुचा जुहुत नो जषतां प्रति मेधिरः॥ प्र हव्यानि घृतवन्त्यस्मै हर्यश्वाय भरता सजोषाः। भिब्रह्मणा वावृधानः शुनासीरी हविरिदं जुषस्वेति शुनासीरीयस्य जयानवाक्ये॥ सौर्य एककपाल इति॥५॥
-5. Now according somel (the offerings in the Sunāsīrīya should be as follows): having taken out the matterial for the five common offerings, the Adhvaryu should prepare the following offering-materials: gruel or unboiled fresh milk for Vāyu, a sacrificial bread on twelve potsherds for Indra Śunāsīrīya—the invitatory and offering verses for the bread to Indra Śunāsīrīya should be as follows: indrāya sunāsirāya...; and pra havyāni ghstavanti...2—and a sacrificial bread on one potsherd to Surya.
-1. viz. the Mänavas; see MS I. 10.1.
-2. TB II.5.8.2. The Manavas prescribes different verses: MS IV.10.6. नव प्रयाजानूयाजाः॥६॥
-6. There should be nine fore-offerings and nine after offerings.
+
+
+नव प्रयाजानूयाजाः॥६॥
+
+
 पञ्चप्रयाजं व्यनूयाजमित्येके॥७॥
-7. According to some there should be five fore-offerings and three after-offerings.
+
 संसर्पो ऽस्यहस्पत्याय त्वेति मासनाम्नैकपालमभिजुहोति॥८॥
-8. With a formula containing names of the months accompanied by saṁsarposyashaspatyāya tvāl he offers ghee on the sacrificial bread prepared on one potsherd.2
-1. TS I.4.14.c-d.
-2. Cp. VIII.2.18, VIII.7.2, VIII.12.5. द्वादशगवं सीरं दक्षिणा॥९॥
-9. A plough with twelve bulls (should be given) as the sacrificial gift.
-1. Cf. TS I.8.7.1.
+
+द्वादशगवं सीरं दक्षिणा॥९॥
+
 420
 ranslation : THITE
 [VIII.21
-षड्योगं वा ॥१०॥ 10. Or one with six bulls. उष्टारावित्येकेषाम्॥११॥
-11. According to some' two camels (should be given as the sacrificial gift).
-___ 1. See MS II.6.2; KS XV.2. उष्टारं वा॥१२॥ 12. Or one camel.
+षड्योगं वा ॥१०॥
+
+उष्टारावित्येकेषाम्॥११॥
+
+
+उष्टारं वा॥१२॥
+
 अश्वं श्वेतमेककपालस्य गां वा श्वेतम्॥१३॥
-13. Or a white horse or a white bull (should be given as the sacrificial gift) for the offering of the sacrificial bread made on one potsherd.
-__ 1. Cf. SB II.6.3.9.
-___VIII.21 अनुवत्सरीणां स्वस्तिमाशास्ते। दिव्यं धामाशास्त इति सूक्तवाकस्याशिःषु होतानुवर्तयते एवं यजमानो जपति। आशास इति मन्त्रं संनमति॥ सिद्धमिष्टिः संतिष्ठते। संतिष्ठन्ते चातुर्मास्यानि॥ अत्र पौर्णमास्येष्ट्वोन्दनादि पूर्ववन्निवर्तनम्। सर्वं वा वापयेत्॥ मन्त्रादिर्विक्रियते॥ एकं मासमुदसृजत्परमेष्ठी प्रजाभ्यः। तेनाभ्यो मह आवहदमृतं मया॑भ्यः॥ प्रजामनु प्रजायसे तदु ते मामृतम्। येन मासा अर्धमासा ऋतवः परिवत्सराः॥ येन ते ते प्रजापत ईजानस्य न्यवर्तयन्। तेनामहस्य ब्रह्मणा निवर्तयामि जीवसे। अग्निस्तिग्मेनेति समानम्॥१॥
-!. "The sacrificer prays for bliss for those which belong to the Anuvatsara;" the Hotp adds these words to the blessings of the Suktavaka; he also adds the words "(the sacrificer) prays for divine place." The sacrificer mutters in the correspondent manner. He modifies the formula with the word aśäse (I pray) instead of aśäste(= He prays). The offering stands completely established in the usual manner. The Cāturmāsya-sacrifices stand completly established. At this stage having performed the Full-moon-offering, the act of trimming the hair beginning with moistening the head should be done in the same mantic olier or he should get all the hair shaved.? The beginning are ne formula is to be modified as follows: ekaṁ māsamudasrjat
-ramesthi... (The formula) agnistigmena... is the same as
-nard
-above."
-1. Cp. VIII.3.4f., VIII.7.8, VIII. 12.5. 2. Cp. VIII.8.19f. 3. See TB 1.5.5.6-7; cp. Āpss VIII.4.2.
-4. See VIII.4.2.
+
+
+21 अनुवत्सरीणां स्वस्तिमाशास्ते। दिव्यं धामाशास्त इति सूक्तवाकस्याशिःषु होतानुवर्तयते एवं यजमानो जपति। आशास इति मन्त्रं संनमति॥ सिद्धमिष्टिः संतिष्ठते। संतिष्ठन्ते चातुर्मास्यानि॥ अत्र पौर्णमास्येष्ट्वोन्दनादि पूर्ववन्निवर्तनम्। सर्वं वा वापयेत्॥ मन्त्रादिर्विक्रियते॥ एकं मासमुदसृजत्परमेष्ठी प्रजाभ्यः। तेनाभ्यो मह आवहदमृतं मया॑भ्यः॥ प्रजामनु प्रजायसे तदु ते मामृतम्। येन मासा अर्धमासा ऋतवः परिवत्सराः॥ येन ते ते प्रजापत ईजानस्य न्यवर्तयन्। तेनामहस्य ब्रह्मणा निवर्तयामि जीवसे। अग्निस्तिग्मेनेति समानम्॥१॥
+
+
 ## 5 anubandhaḥ
 APPENDIX TO THE CĀTURMĀSYA-SACRIFICES
 चातुर्मास्यैरिष्ट्वा सोमेन पशुना वा यजते॥२॥
-2. After having performed the Cāturmāsya sacrifices, one should perform a Soma sacrifice or an independent animal sacrifice.'
-1. i.e. Nirūdhapaśubandha. फाल्गुन्या उद्दृष्टे सोमाय दीक्षते॥३॥
-3. (In case he performs a Soma sacrifice) he should consecrate himself for the Soma-sacrifice during the bright fortnight preceding the full moon day of Phālguna.
-i. Cp. ŚB II.6.3.11-12. तं ततो नानीजानमपरा फाल्गुनी पर्यवेयात्॥४॥
-4. The next Phālguna full moon day should not pass him who has not performed a Soma-sacrifice.
-1. Cp. SB II.6.3.11-12. इति वै खलुत्सृजमानस्य॥५॥
-5. This is so for one who abandons the performance of Cāturmāsya-sacrifices.
+
+
+फाल्गुन्या उद्दृष्टे सोमाय दीक्षते॥३॥
+
+
+तं ततो नानीजानमपरा फाल्गुनी पर्यवेयात्॥४॥
+
+इति वै खलुत्सृजमानस्य॥५॥
+
 अथ पुनरालभमानस्य फाल्गुन्याश्चतुर्दश्यां शुनासीरीयेणेष्ट्वा॥६॥
-6. Now in the case of one who begins to perform again (the Cāturmāsya-sacrifices), having performed the Sunāsīrīya on the fourteenth (day preceding the the Phālguna full moon day),
-1. The sentence is incomplete; see the next Sutra.
+
+
 422
 ### 08.22
 पञ्चदश्यां वैश्वदेवेन यजते॥१॥
-1. On the fifteenth day (the sacrificer) should perform Vaisvadeva.'
-1. Cp. SB II.6.3.13. एतेनैव पशुकामो यजेत यस्मिन्नस्यौ भूयिष्ठं गोषु पयः स्यात
-2. The sacrificer who desires cattle should perform the same i.e. the Vaiśvadeva-parvan in the season in which his cows yield the most milk.
+
+एतेनैव पशुकामो यजेत यस्मिन्नस्यौ भूयिष्ठं गोषु पयः स्यात
+
+
 एतेनैव प्रजाकामः पशुकामो वा यजेत॥३॥
-3. The sacrificer who desires progeny or cattle should perform merely this (Vaiśvadeva-parvan). !
-___1. Cf. KS XXXVI.3.
+
+
 अथैकेषाम्। वैश्वदेवेनेतरेषां पर्वणां स्थाने पशुकामो यजेत यावत्सहस्त्रं पशून्प्राप्नुयात्। अथेतरैः स्वकालैर्यजेत॥४॥
-4. Now according to some h(ritualists)' the sacrificer who desires cattle should perform Vaiśvadeva-parvan instead of the other Parvans until he gets one thousand cattle. Then he should perform the other (Parvans) at their own times.
-___ 1. KS XXXVI.3; MS I. 10.7; शुनासीरीयेण ग्रामकामो वर्ण्य उदके यजेत॥५॥
-5. The sacrificer who desires a village, should perform the Sunasiriya-rite when rain-water (is falling).
+
+
+शुनासीरीयेण ग्रामकामो वर्ण्य उदके यजेत॥५॥
+
+
 वर्ण्यमुदकमन्ववसाय तत उदकार्थान्कुरुते॥६॥
-6. Having stayed near rain-water, he should get the work with water done with it (water).
+
+
 एतेनैव प्रजाकामः पशुकामः पुष्टिकामो ब्रह्मवर्चसकामो ऽन्नाद्यकामा वा यजेत॥७॥
-7. The sacrificer who disires progeny, or cattle or pros perity or brahman-splendor, or food should perform the same viz. only the Sunasiriya-parvan.
+
+
 423
 पर्वभिश्चातुर्मास्येषु मासान्संचष्टे॥८॥
-e In the Cāturmāsya-sacrifices one should count the onths in accordance with the Parvans."
-1. Thus one should follow the lunar months. पञ्चसांवत्सरिकाणि व्याख्यास्यामः॥९॥
-9. We will (now) describe the (Cāturmāsya-sacrifices) of five-years.
+
+
+पञ्चसांवत्सरिकाणि व्याख्यास्यामः॥९॥
+
 त्रीनृतून्संवत्सरानिष्ट्वा मासं न यजते। द्वौ पराविष्ट्वा विरमति॥१०॥
-10. Having performed the Cāturmāsya-sacrifices for three continuous years one should not perform them for one month; then having performed (these sacrifices) for the next two years one should stop.
-1. read rujūn instead of stūn; cf. Caland under this Sūtra. चैत्र्यां तूपक्रम्य द्वाविष्ट्वा मासमनिष्ट्वा त्रीन्परानिष्ट्वा विरमति॥११॥
-11. Having started on the full-moon-day of Caitra,' one performs (these sacrifices) for two years then having not performed them for one month, then having performed these sacrifices for the next three (years) one should top.
-1. Cp. VIII.1.2. अथ पञ्चदशवार्षिकाणि॥१२॥
-12. Now (Cātramāsya-sacrifices) of fifteen years (and more).
+
+
+चैत्र्यां तूपक्रम्य द्वाविष्ट्वा मासमनिष्ट्वा त्रीन्परानिष्ट्वा विरमति॥११॥
+
+
+अथ पञ्चदशवार्षिकाणि॥१२॥
+
+
 एतान्येव द्विः॥१३॥
-13. These same (Cāturmāsya-sacrifices described in Sūtras 10 and 11 are to be performed) twice (in order to make up fifteen years).
+
+
 त्रिरपरिमितं वाभ्यस्येत्॥१४॥
-14. Or one may repeat these thrice or for any unspecified (number of years).
+
+
 विज्ञायते च स त्रिषुत्रिषु संवत्सरेषु मासंन चजत इत्येतद्वचनो ऽभ्यासः॥१५॥
-15. And it is known (from a Brāhmaṇa-text): "He should perform (the Cāturmāsya-sacrifices) for every three years, then
-424
-ĀPŚS Translation : THITE
-[18.1
-nth."1 On this sentence
-he should not perform (them) for one month."1 On thi the repetition is based.
-1. The text is not known. पञ्चसांवत्सरिकेषु वैश्वानरपार्जन्या पञ्चहोता च नाभ्यावर्तेत
-16. In the Cāturmāsya-sacrifices lasting for five years the offerings to Vaiśvānara and Parjanya and the recitation Pañcahotp-formula should not be repeated."
-1. For the offering to Vaiśvānara and Parjanya and the recitation of
-the Pañcahotr̥ formula see VII.1.3. एकोपक्रमत्वात्॥१७॥ यथान्वारम्भणीया यथान्वारम्भणीया॥१८॥
-17-18. For there can be only one beginning; and that offering (mentioned in Sūtra 16) is like introductory (beginning) offering.
+
+
+पञ्चसांवत्सरिकेषु वैश्वानरपार्जन्या पञ्चहोता च नाभ्यावर्तेत
+
+
+एकोपक्रमत्वात्॥१७॥ यथान्वारम्भणीया यथान्वारम्भणीया॥१८॥
