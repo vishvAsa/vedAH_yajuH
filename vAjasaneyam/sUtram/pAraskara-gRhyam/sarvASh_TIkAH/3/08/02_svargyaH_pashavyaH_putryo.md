@@ -9,3 +9,9 @@ title = "०२ स्वर्ग्यः पशव्यः पुत्र�
 
 [^2]:  Āśvalāyana, loc. cit. § 35.
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+It procures heaven, cattle, sons, riches, renown, long life.
+</details>
+

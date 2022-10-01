@@ -9,3 +9,9 @@ title = "१२ ऊवध्यं लोहितलिप्तमग्नौ
 
 [^9]:  As to ūvadhya, comp. Āśvalāyana, § 28.
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+He casts the gut and the blood-smeared remains into the fire or buries them beneath.
+</details>
+

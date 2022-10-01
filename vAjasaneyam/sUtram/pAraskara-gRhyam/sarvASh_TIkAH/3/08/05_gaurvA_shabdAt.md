@@ -9,3 +9,10 @@ title = "०५ गौर्वा शब्दात्"
 
 [^4]:  On account of the designation of the sacrifice as śūla-gava.
 </details>
+
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Or a cow as the name \[of the ritual specifies\]
+</details>
+

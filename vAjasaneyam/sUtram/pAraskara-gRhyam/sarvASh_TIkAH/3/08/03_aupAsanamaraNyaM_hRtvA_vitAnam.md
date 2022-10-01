@@ -9,3 +9,9 @@ title = "०३ औपासनमरण्यं हृत्वा वित�
 
 [^3]:  The 'outspreading' is the establishing of the three sacred Śrauta fires, so that the Gṛhya fire is considered as the Gārhapatya, and the Āhavanīya and Dakṣiṇāgni are taken from it.
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Having taken the aupāsana fire to the forest, and having performed the spreading \[of grass\], he should obtain the animal for Rudra.
+</details>
+

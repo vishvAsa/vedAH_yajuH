@@ -9,3 +9,9 @@ title = "०६ वपां श्रपयित्वा स्थाली�
 
 [^5]:  Āśvalāyana, loc. cit. § 19.
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Having cooked the omentum, a plate of rice, and the cuts from \[the victim\], he offers the omentum to Rudra, the fat to the atmosphere, and the cuts of meat with the rice to Agni, Rudra, Śarva, Paśupati, Ugra, Aśani, Bhava, Mahādeva and Īśāna.
+</details>
+
