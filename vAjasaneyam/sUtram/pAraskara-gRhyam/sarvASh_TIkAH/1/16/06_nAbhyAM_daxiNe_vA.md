@@ -2,6 +2,8 @@
 title = "०६ नाभ्यां दक्षिणे वा"
 
 +++
+<details><summary>Oldenberg</summary>
+
 6. Near his navel or his right ear he murmurs: 'Agni is long-lived; through the trees he is long-lived. By that long life I make thee long-lived.
 
 'Soma is long-lived; through the herbs he is, &c.
@@ -17,3 +19,4 @@ title = "०६ नाभ्यां दक्षिणे वा"
 'Sacrifice is long-lived; through sacrificial fee it is, &c.
 
 'The ocean is long-lived; through the rivers it is long-lived. By that long life I make thee long-lived;'
+</details>

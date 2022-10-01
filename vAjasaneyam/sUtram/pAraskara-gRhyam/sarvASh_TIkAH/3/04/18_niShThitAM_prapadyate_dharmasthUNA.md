@@ -2,6 +2,8 @@
 title = "१८ निष्ठितां प्रपद्यते धर्मस्थूणा"
 
 +++
+<details><summary>Oldenberg</summary>
+
 18 [^6] . When (the house) is finished, he enters it with (the formulas),
 
 
@@ -13,3 +15,4 @@ title = "१८ निष्ठितां प्रपद्यते धर�
 'Indra's house is wealthy, protecting; that I enter with my children, with my cattle, with everything that is mine.
 
 'Hither is called the whole number (of relatives), the friends whose coming is good. Thus (I enter) thee, O house. May our dwellings be full of inviolable heroes from all sides!'
+</details>

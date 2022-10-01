@@ -2,6 +2,8 @@
 title = "०६ स्थालीपाकस्य जुहोति शान्ता"
 
 +++
+<details><summary>Oldenberg</summary>
+
 6 [^9] . He makes offerings of the mess of cooked food with (the verses):
 
 
@@ -13,3 +15,4 @@ title = "०६ स्थालीपाकस्य जुहोति शा�
 'May the waters, the rays protect us from all sides; may the creator, may the ocean turn away evil. The present and the future, may all be safe for me. Protected by Brahman, may I be well guarded. Svāhā!
 
 'May all Ādityas and the divine Vasus, may the Rudras and Maruts be our protectors. May Prajāpati, the highest lord, bestow on us vigour, offspring, immortality, long life. Svāhā!'
+</details>

@@ -2,6 +2,8 @@
 title = "०२ स्थालीपाकं श्रपयित्वा श्रवणवदाज्याहुती"
 
 +++
+<details><summary>Oldenberg</summary>
+
 2 [^1] . He cooks a mess of sacrificial food, sacrifices two Ājya oblations as at the Śravaṇā sacrifice, and other oblations with (the following verses):
 
 
@@ -15,3 +17,4 @@ title = "०२ स्थालीपाकं श्रपयित्वा �
 'To the Saṃvatsara, to the Parivatsara, to the Idāvatsara, to the Idāvatsara, to the Vatsara bring ye great adoration. May we, undecayed, unbeaten, long enjoy the favour of these (years) which are worthy of sacrifices. Svāhā!
 
 'May summer, winter and spring, the rains be friendly, and may autumn be free of danger to us. In the safe protection of these seasons may we dwell, (and) may (they) last (to us) through a hundred years. Svāhā!'
+</details>

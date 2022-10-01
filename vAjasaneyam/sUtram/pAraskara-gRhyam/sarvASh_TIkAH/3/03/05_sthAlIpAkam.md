@@ -2,6 +2,8 @@
 title = "०५ स्थालीपाकम्"
 
 +++
+<details><summary>Oldenberg</summary>
+
 5 [^4] . Having cooked a mess of sacrificial food and having sacrificed the two Ājya portions, he sacrifices Ājya oblations with (the texts):
 
 
@@ -43,3 +45,4 @@ title = "०५ स्थालीपाकम्"
 
 
 (k) 'The consort of the seasons, the first one has come to us, the leader of days, the producer of offspring. Being one, thou shinest manifold, Uṣas. Being free from old age, thou leadest to old age everything else. Svāhā!'
+</details>

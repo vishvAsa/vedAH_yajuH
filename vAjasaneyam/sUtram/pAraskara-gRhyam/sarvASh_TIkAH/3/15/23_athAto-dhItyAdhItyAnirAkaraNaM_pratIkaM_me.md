@@ -2,6 +2,8 @@
 title = "२३ अथातोऽधीत्याधीत्यानिराकरणं प्रतीकं मे"
 
 +++
+<details><summary>Oldenberg</summary>
+
 1 [^1] . Now each time after a lesson (of the Veda) is finished, in order to prevent his forgetting (the texts he has studied, the following prayer should be recited):
 
 
@@ -15,3 +17,4 @@ The Brahman's word art thou; the Brahman's stand art thou; the Brahman's store-h
 End of the Third Kāṇḍa.
 
 End of Pāraskara's Gṛhya-sūtra.
+</details>

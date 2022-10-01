@@ -2,6 +2,8 @@
 title = "१९ अस्तमिते ध्रुवं दर्शयति"
 
 +++
+<details><summary>Oldenberg</summary>
+
 19 [^9] . After sunset he shows her the firm star (i.e. the polar-star) with (the words),
 
 
@@ -11,3 +13,4 @@ title = "१९ अस्तमिते ध्रुवं दर्शयत�
 'Firm art thou; I see thee, the firm one. Firm be thou with me, O thriving one!
 
 'To me Bṛhaspati has given thee; obtaining offspring through me, thy husband, live with me a hundred autumns.'
+</details>

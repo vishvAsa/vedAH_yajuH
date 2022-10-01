@@ -2,6 +2,8 @@
 title = "०९ चित्तं च चित्तिश्चाकूतम्"
 
 +++
+<details><summary>Oldenberg</summary>
+
 9 [^4] . (The Jaya formulas run thus): 'Thought and thinking. Intention and intending. The understood and understanding. The mind and the Śakvarī (verses). The new moon and the full moon. Bṛhat and Rathantara.
 
 
@@ -9,3 +11,4 @@ title = "०९ चित्तं च चित्तिश्चाकूत�
 
 
 'Prajāpati, the powerful one in victorious battles, has given victories (or, the Gaya formulas) to manly Indra. To him all subjects bowed down; he has become powerful and worthy of sacrifice. Svāhā!
+</details>

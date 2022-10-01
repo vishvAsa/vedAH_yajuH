@@ -2,6 +2,8 @@
 title = "०५ कूर्मपित्तं चोपस्थे कृत्वा"
 
 +++
+<details><summary>Oldenberg</summary>
+
 5 [^3] . And he puts gall of a tortoise on her lap.
 
 
@@ -9,3 +11,4 @@ title = "०५ कूर्मपित्तं चोपस्थे कृ�
 
 
 If he desires; 'May (the son) become valiant,' he recites over him (i.e. over the embryo), modifying the rite (?), 'The Suparṇa art thou' (Vāj. Saṃh. XII, 4), (the Yajus) before (the formulas called) 'steps of Viṣṇu.'
+</details>

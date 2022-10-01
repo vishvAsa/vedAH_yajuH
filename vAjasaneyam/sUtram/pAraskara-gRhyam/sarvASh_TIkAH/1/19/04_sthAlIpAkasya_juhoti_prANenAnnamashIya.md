@@ -2,6 +2,8 @@
 title = "०४ स्थालीपाकस्य जुहोति प्राणेनान्नमशीय"
 
 +++
+<details><summary>Oldenberg</summary>
+
 4. He then sacrifices (four oblations) of cooked food with (the formulas),
 
 'Through up-breathing may I enjoy food. Svāhā!
@@ -11,3 +13,4 @@ title = "०४ स्थालीपाकस्य जुहोति प्�
 'Through my eye may I enjoy visible things. Svāhā!
 
 'Through my ear may I enjoy renown. Svāhā!'
+</details>

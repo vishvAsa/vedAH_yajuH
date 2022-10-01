@@ -2,6 +2,8 @@
 title = "०२ ताञ्जुहोति संहतेन तिष्ठती"
 
 +++
+<details><summary>Oldenberg</summary>
+
 2 [^2] . This she sacrifices, with firmly joined hands, standing, (while the bridegroom recites the verses,)
 
 
@@ -13,3 +15,4 @@ title = "०२ ताञ्जुहोति संहतेन तिष्�
 'This woman, strewing grains, prays thus, "May my husband live long; may my relations be prosperous." Svāhā!
 
 'These grains I throw into the fire: may this bring prosperity to thee, and may it unite me with thee. May Agni grant us that. N.N.! Svāhā!'
+</details>

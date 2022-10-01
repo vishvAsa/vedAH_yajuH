@@ -2,6 +2,8 @@
 title = "०७ आज्यं संस्कृत्येहरतिरित्याज्याहुती हुत्वाऽपरा"
 
 +++
+<details><summary>Oldenberg</summary>
+
 7 [^3] . Having prepared Ājya and sacrificed two Ājya oblations with (the two parts of the Mantra), 'Here is joy' (Vāj. Saṃh. VIII, 51 a), he sacrifices other oblations with (the verses):
 
 
@@ -15,3 +17,4 @@ title = "०७ आज्यं संस्कृत्येहरतिरि
 (c) 'Vāstoṣpati! Let us be in a fellowship with thee, which may be valiant, joyful, and well proceeding. Protect our wishes when we rest and when we do our work. Protect us always, ye (gods), and give us welfare. Svāhā!
 
 (d) 'Driving away calamity, Vāstoṣpati, assuming all shapes, be a kind friend to us. Svāhā!
+</details>

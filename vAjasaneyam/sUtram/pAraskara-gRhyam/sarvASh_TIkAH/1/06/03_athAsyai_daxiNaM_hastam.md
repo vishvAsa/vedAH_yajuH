@@ -2,6 +2,8 @@
 title = "०३ अथास्यै दक्षिणं हस्तम्"
 
 +++
+<details><summary>Oldenberg</summary>
+
 3 [^3] . He then seizes her right hand together with the thumb, with (the verses),
 
 
@@ -15,3 +17,4 @@ title = "०३ अथास्यै दक्षिणं हस्तम्"
 'Come! Let us marry. Let us unite our sperm. Let us beget offspring. Let us acquire many sons, and may they reach old age.
 
 'Loving, bright, with genial minds may we see a hundred autumns, may we live a hundred autumns, may we hear a hundred autumns!'
+</details>

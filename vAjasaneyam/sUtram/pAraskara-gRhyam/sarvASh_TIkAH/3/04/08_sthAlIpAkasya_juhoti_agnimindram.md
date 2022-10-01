@@ -2,6 +2,8 @@
 title = "०८ स्थालीपाकस्य जुहोति अग्निमिन्द्रम्"
 
 +++
+<details><summary>Oldenberg</summary>
+
 8. He makes offerings of the mess of cooked food (with the following Mantras):
 
 (a [^4] ) Agni, Indra, Bṛhaspati, the Viśve devās I invoke, Sarasvatī and Vājī. Give me a dwelling-place, ye vigorous ones. Svāhā!
@@ -23,3 +25,4 @@ title = "०८ स्थालीपाकस्य जुहोति अग�
 (e) 'To Dhātṛ and Vidhātṛ, and to the Lord of treasures together with them, to all these I apply. Give me a dwelling-place, ye vigorous ones. Svāhā!
 
 (f) 'As a lucky, a happy (place), give me this dwelling-place, Brahman and Prajāpati, and all deities. Svāhā!'
+</details>

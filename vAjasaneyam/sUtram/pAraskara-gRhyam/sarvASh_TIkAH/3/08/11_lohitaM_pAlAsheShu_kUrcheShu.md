@@ -2,6 +2,8 @@
 title = "११ लोहितं पालाशेषु कूर्चेषु"
 
 +++
+<details><summary>Oldenberg</summary>
+
 11 [^8] . The blood he offers in leaves, on (grass-) bunches, as a Bali to Rudra and to his hosts, with (the Mantras),
 
 
@@ -13,3 +15,4 @@ title = "११ लोहितं पालाशेषु कूर्चे�
 'The hosts, Rudra, which thou hast to the south . . . to the west . . . to the north . . . upwards . . .
 
 downwards, to them this Bali (is given). To them and to thee be adoration!'
+</details>
