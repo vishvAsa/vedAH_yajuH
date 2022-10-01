@@ -2,4 +2,7 @@
 title = "07 तान्मूते समावपति मूतयोर्मूतेषु"
 
 +++
-तान्मूते समावपति मूतयोर्मूतेषु वा ७
+7. The Adhvaryu puts down those in one[^1] basket, or two baskets or three baskets.  
+
+
+[^1]: Cf. TB I.6.10.5.

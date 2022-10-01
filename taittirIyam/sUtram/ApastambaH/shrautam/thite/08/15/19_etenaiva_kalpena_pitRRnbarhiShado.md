@@ -2,4 +2,4 @@
 title = "19 एतेनैव कल्पेन पितॄन्बर्हिषदो"
 
 +++
-एतेनैव कल्पेन पितॄन्बर्हिषदो यजत्यग्निष्वात्तान् १९
+19. In the same manner (the Adhvaryu) performs the ritual for Barhiṣad Pitr̥s and Agniṣvātta Pitr̥s.

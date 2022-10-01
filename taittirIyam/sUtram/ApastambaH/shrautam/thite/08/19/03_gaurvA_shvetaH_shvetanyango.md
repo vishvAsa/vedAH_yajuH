@@ -2,4 +2,4 @@
 title = "03 गौर्वा श्वेतः श्वेतन्यङ्गो"
 
 +++
-गौर्वा श्वेतः श्वेतन्यङ्गो वा ३
+3. Or a white bull or a bull with white spots (is to be given as a sacrificial gift).  

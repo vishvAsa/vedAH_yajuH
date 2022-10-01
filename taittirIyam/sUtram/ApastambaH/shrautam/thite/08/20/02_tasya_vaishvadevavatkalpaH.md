@@ -2,4 +2,4 @@
 title = "02 तस्य वैश्वदेववत्कल्पः"
 
 +++
-तस्य वैश्वदेववत्कल्पः २
+2. The procedure of it should be similar to that of the Vaiśvadeva-offering.
