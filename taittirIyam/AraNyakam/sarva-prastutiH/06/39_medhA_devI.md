@@ -3,7 +3,15 @@ title: मेधा देवी
 unicode_script: devanagari
 ---
 
-तैत्तिरीयारण्यके महानारायणोपनिषदि 3.6.39.1। सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n411/mode/2up) आन्ध्रपाठमवलम्बमानः, भास्करो द्राविडपाठमवलम्बमानो [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_02#page/n159/mode/2up) ।
+<details><summary>पाठभेदाः</summary>
+
+तैत्तिरीयारण्यके महानारायणोपनिषदि 3.6.39.1। 
+
+- सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n411/mode/2up) आन्ध्रपाठमवलम्बमानः
+- भास्करो द्राविडपाठमवलम्बमानो [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_02#page/n159/mode/2up) । रङ्गरामानुजभाष्यम् [अत्र](https://archive.org/details/UpanisadahRangaramanuja/Taittiriya_Aitareya_Chandogya_mula_Rangaramanuja-bhasya_UttamurViraraghavacarya_Karika_Madras_1973/page/n217/mode/2up?view=theater)।
+</details>
+
+ 
 
 
 मे॒धा दे॒वी जु॒षमा॑णा न॒ आगा॑द्  
@@ -13,7 +21,7 @@ unicode_script: devanagari
 
 त्वया॒ जुष्ट॑ ऋ॒षिर् भ॑वति देवि॒  
 त्वया॒ ब्रह्मा॑ ऽऽग॒तश्री॑र् उ॒त त्वया॑ ।  
-त्वया॒ जुष्ट॑श् चि॒त्रव्ँ वि॑न्दते वसु॒+++(स्वरः??)+++  
+त्वया॒ जुष्ट॑श् चि॒त्रव्ँ वि॑न्दते॒ वसु॒+++(←स्वरपरिष्कारः)+++  
 सा नो॑ जुषस्व॒ द्रवि॑णेन मेधे । (54)  
 +++(द्रवि॑णो न मेधे इति पाठान्तरम्।)+++
 
