@@ -1,5 +1,5 @@
 +++
-title = "+intros"
+title = "+Intros"
 
 +++
 
