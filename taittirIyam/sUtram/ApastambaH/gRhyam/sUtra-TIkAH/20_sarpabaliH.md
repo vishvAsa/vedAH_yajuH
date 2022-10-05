@@ -224,11 +224,6 @@ title = "२० सर्पबलिः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/namo_astu_sarpebhyaH/">
-<details open><summary><h5>नमो ऽस्तु सर्पेभ्यः ...{Loading}...</h5></summary>
-
-हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n173/mode/2up) ।
-
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/05_namo_astu.md">
 <details open><summary><h7>०५ नमो अस्तु ...{Loading}...</h7></summary>
@@ -266,8 +261,7 @@ title = "२० सर्पबलिः"
 </div>
 </details>
 </div>
-</details>
-</div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/20_sarpabaliH/18_08_AjyAhutIruttarAH.md">
 <details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Oldenberg</summary>

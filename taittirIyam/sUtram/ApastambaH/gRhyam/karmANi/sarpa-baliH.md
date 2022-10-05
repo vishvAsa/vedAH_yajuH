@@ -101,10 +101,8 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/namo_astu_sarpebhyaH/">
-<details open=""><summary><h4>नमो ऽस्तु सर्पेभ्यः ...{Loading}...</h4></summary>
 
-हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n173/mode/2up) ।
+
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/05_namo_astu.md">
@@ -143,8 +141,6 @@ unicode_script: devanagari
 </div>
 </details>
 </div>
-</details>
-</div>  
 
 ### उत्तराङ्गम्
 +++(अञ्जलेर् दर्व्याश् च लेपस्यार्पणं कर्म स्थालीपाकवत्। किंशुकशेषादपि स्विष्टकृते समवदानम् ।)+++
