@@ -15,11 +15,6 @@ title = "१८ ०८ आज्याहुतीरुत्तराः "
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/namo_astu_sarpebhyaH/">
-<details open><summary><h2>नमो ऽस्तु सर्पेभ्यः ...{Loading}...</h2></summary>
-
-हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n173/mode/2up) ।
-
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/05_namo_astu.md">
 <details open=""><summary><h4>०५ नमो अस्तु ...{Loading}...</h4></summary>
@@ -53,7 +48,5 @@ title = "१८ ०८ आज्याहुतीरुत्तराः "
 ये वा॑ऽव॒टेषु॒+++(→बिलेषु)+++ शेर॑ते॒  
 तेभ्यः॑ स॒र्पेभ्यो॒ नमः॑ ॥
 
-</details>
-</div>
 </details>
 </div>
