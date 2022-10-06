@@ -9,13 +9,11 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 ### a
 ### b
 ### c
-O thou of fair rain colour, come  
-To this blessed home,  
-Approach me in devotion.
+
+
 ### d
-Touch the heads.
 ### e
-O Ida, come hither; O Aditi, come hither; O Sarasvati, come hither.
+
 ### f
 Thou art delight, thou art delighting, thou art fair.
 ### g
