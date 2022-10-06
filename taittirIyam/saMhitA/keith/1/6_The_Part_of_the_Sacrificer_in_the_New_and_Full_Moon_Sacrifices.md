@@ -4,44 +4,9 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 +++
 
 ## 04
-### a
-
-### b
-By sacrifice to the god Naraśansa, may I be possessed of cattle.
-### c
-By sacrifice to the god Agni Svistakrt, may I attain security through the sacrifice, having long life.
-### d
-May I be victorious through the victory of Agni.
-### e
-May I be victorious through the victory of Soma.
-### f
-May I be victorious through the victory of Agni.
-### g
-May I be victorious through the victory of Agni and Soma.
-### h
-May I be victorious through the victory of Indra and Agni.
-### i
-May I be victorious through the victory of Indra [1].
-### k
-May I be victorious through the victory of Mahendra.  
-I May I be victorious through the victory of Agni Svistakrt.
-### m
-With the impulse of strength,  
-With elevation he hath seized me; then Indra hath made my enemies  
-Humble with depression.
-### n
-The gods have increased my prayer  
-Which is elevation and depression;  
-Then do ye, O Indra and Agni,  
-Scatter my foes on every side.
 ### o
-Hither these blessings have come, fain for milking,  
-Possessing Indra [2], may we win,  
-May we milk offspring and food.
 ### p
-With the red steed may Agni convey thee to the god; with the tawny ones may Indra convey thee
-  
-to the god; with Etaśa may Sarya convey thee to the god.
+
 ### q
 I unyoke thy head ropes, thy reins,  
 Thy yokings, thy harness;  
