@@ -1,5 +1,0 @@
-+++
-title = "29 आचार्येणाहूत उत्थाय प्रतिशृणुयात्"
-
-+++
-29. If the teacher calls him, he shall rise and then answer..

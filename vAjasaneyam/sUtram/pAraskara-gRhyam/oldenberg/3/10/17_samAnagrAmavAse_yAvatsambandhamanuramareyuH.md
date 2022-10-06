@@ -1,5 +1,0 @@
-+++
-title = "१७ समानग्रामवासे यावत्सम्बन्धमनुरमरेयुः"
-
-+++
-17. If dwelling in the same village, (all) as far as they can trace their relationship.
