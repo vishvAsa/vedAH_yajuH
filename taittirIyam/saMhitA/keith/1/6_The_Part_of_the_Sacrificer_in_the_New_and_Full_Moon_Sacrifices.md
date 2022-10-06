@@ -3,33 +3,6 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 
-## 04
-### o
-### p
-
-### q
-I unyoke thy head ropes, thy reins,  
-Thy yokings, thy harness;  
-Bestow upon us wealth and what is good;  
-Proclaim us sharers among the gods.
-### r
-By sacrifice to the god Visnu, by the sacrifice, may I attain health and wealth, and security.
-### s
-By sacrifice to the god Soma [3], possessing good seed, may I impregnate seed.
-### t
-By sacrifice to the god Tvastr, may I prosper the form of cattle.
-### u
-The wives of the gods, Agni lord of the house, are the pair of the sacrifice; by sacrifice to these deities, may I be propagated with a pair.
-### v
-Thou art the bundle, thou art gain, may I gain.
-### w
-Thou art action, thou art making, may I make.
-### x
-Thou art winning, thou art the winner, may I win.
-### y
-May the bundle bestow increase of wealth,  
-Rich in ghee, rich in houses,  
-A thousandfold, strong.
 ## 05
 ### a
 Let the Dhruva swell with ghee,  
