@@ -159,7 +159,7 @@ Touch the heads.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इड॒ एहि॑ ।  
+इड॒ एहि॑+++(=आ+इ॑हि)+++ ।  
 अदि॑त॒ एहि॑ ।
 </details>
 
@@ -183,7 +183,7 @@ O Ida, come hither; O Aditi, come hither;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑स्व॒त्य् एहि॑ ।
+सर॑स्व॒त्य् एहि॑+++(=आ+इ॑हि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -207,6 +207,11 @@ O Sarasvati, come hither.
 रन्ति॑र् असि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art delight, 
+</details>
+
 <details><summary>मूलम्</summary>
 
 रन्ति॑रसि ।
@@ -222,6 +227,11 @@ O Sarasvati, come hither.
 रम॑तिरसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+thou art delighting, 
+</details>
+
 <details><summary>मूलम्</summary>
 
 रम॑तिरसि ।
@@ -232,10 +242,17 @@ O Sarasvati, come hither.
 रमतिः रमणीया । 'रमेर्निन्' इत्यतिप्रत्ययः ।
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सू॒नर्य॑सि ।  
+सू॒-नर्य् अ॑सि ।  
 </details>
+
+<details><summary>Keith</summary>
+
+thou art fair.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -244,7 +261,9 @@ O Sarasvati, come hither.
 
 <details><summary>भट्टभास्करटीका</summary>
 
-सूनरी शोभनमनुष्या, मनुष्याणां सुखहेतुत्वात् । पृषोदरादिः । यद्वा - सुष्ठु नेत्री सूनरी । नृ नये, सुपूर्वात् 'अच इः' इतीप्रत्ययः, 'कृदिकारादक्तिनः' इति ङीष्, उपसर्गविकारश्छान्दसः, सर्वधानवधारणान्नावगृह्यते । यद्वा - रन्त्यादीन्यपि त्रीणि गवां नामधेयानि ।
+**सूनरी** शोभनमनुष्या, मनुष्याणां सुखहेतुत्वात् । पृषोदरादिः ।  
+यद्वा - सुष्ठु नेत्री सूनरी । नृ नये, सुपूर्वात् 'अच इः' इतीप्रत्ययः, 'कृदिकारादक्तिनः' इति ङीष्, उपसर्गविकारश्छान्दसः, सर्वधानवधारणान्नावगृह्यते ।  
+यद्वा - रन्त्यादीन्यपि त्रीणि गवां नामधेयानि ।
 </details>
 
 
@@ -256,7 +275,12 @@ O Sarasvati, come hither.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जुष्टे॒ जुष्टि॑न्तेऽशी॒य।
+जुष्टे॒ जुष्टि॑न् ते ऽशी॒य।
+</details>
+
+<details><summary>Keith</summary>
+
+O thou in whom joy is taken, may I attain joy from thee
 </details>
 
 <details><summary>मूलम्</summary>
@@ -274,6 +298,12 @@ O Sarasvati, come hither.
 उप॑हूत उपह॒वं ते॒ऽशी॒य ।
 </details>
 
+<details><summary>Keith</summary>
+
+O thou who art invoked, may I obtain invocation [1] from thee.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 उप॑हूत उपह॒वं ते॒ऽशी॒य ।
@@ -286,7 +316,12 @@ O Sarasvati, come hither.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा मे॑ स॒त्याशीर॒स्य य॒ज्ञस्य॑ भूयात् ।
+सा मे॑ स॒त्या ऽऽशीर् अ॒स्य य॒ज्ञस्य॑ भूयात् ।
+</details>
+
+<details><summary>Keith</summary>
+
+May the prayer of the sacrificer be fulfilled for me.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -296,19 +331,24 @@ O Sarasvati, come hither.
 
 <details><summary>भट्टभास्करटीका</summary>
 
-साऽस्य यज्ञस्याशीः अस्य यज्ञस्य फलं मम सत्या यथाश्रुतिसिद्धिः भूयात् । 'ऊडिदम्' इतीदमष्षष्ठ्या विभक्तेरुदात्तत्वम् ।
+**सा** ऽस्य यज्ञस्याशीः अस्य यज्ञस्य फलं मम **सत्या** यथाश्रुतिसिद्धिः भूयात् । 'ऊडिदम्' इतीदमष्षष्ठ्या विभक्तेरुदात्तत्वम् ।
 </details>
 
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अरे॑डता॒ मन॑सा॒ तच्छ॑केयय्ँय॒ज्ञो दिवꣳ॑ रोहतु  । 
+अरे॑डता॒ मन॑सा॒ तच्छ॑केयय्ँ य॒ज्ञो दिवꣳ॑ रोहतु  । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अरे॑डता॒ मन॑सा॒ तच्छ॑केयम् ।  
+अरे॑डता॒+++(←रेडृ अनादरे)+++ मन॑सा॒ तच् छ॑केयम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+With untroubled mind may I have strength for this.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -318,13 +358,20 @@ O Sarasvati, come hither.
 
 <details><summary>भट्टभास्करटीका</summary>
 
-अरेडतेत्येकपदा त्रिष्टुप् यजुरादिः यजुरन्ता - उक्तैर्वक्ष्यमाणैश्च अरेडता अनादरमकुर्वता मनसा । रेडृ अनादरे । तत्फलं शकेयं त्वत्प्रसादात्साधयितुं शक्तो भूयासम् । 'लिङ्याशिष्यङ्' ।
+अरेडतेत्येकपदा त्रिष्टुप् यजुरादिः यजुरन्ता -  
+उक्तैर्वक्ष्यमाणैश् च **अरेडता** अनादरमकुर्वता मनसा । रेडृ अनादरे । तत्फलं शकेयं त्वत्प्रसादात्साधयितुं शक्तो भूयासम् । 'लिङ्याशिष्यङ्' ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒ज्ञो दिवꣳ॑ रोहतु  ।
 </details>
+
+<details><summary>Keith</summary>
+
+May the sacrifice mount the sky, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -338,7 +385,12 @@ O Sarasvati, come hither.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञो दिव॑ङ्गच्छतु ।
+य॒ज्ञो दिव॑ङ् गच्छतु ।
+</details>
+
+<details><summary>Keith</summary>
+
+may the sacrifice reach the sky.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -353,7 +405,12 @@ O Sarasvati, come hither.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो दे॑व॒यान॒ᳶ पन्था॒स्तेन॑ य॒ज्ञो दे॒वाꣳ अप्ये᳚तु ।
+यो दे॑व॒यान॒ᳶ पन्था॒स्, तेन॑ य॒ज्ञो दे॒वाꣳ अप्य् ए᳚तु ।
+</details>
+
+<details><summary>Keith</summary>
+
+The path that leadeth to the gods, along it may the sacrifice go to the gods.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -368,9 +425,20 @@ O Sarasvati, come hither.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒स्मास्विन्द्र॑ इन्द्रि॒यन्द॑धात्व॒स्मान्राय॑ उ॒त य॒ज्ञास्स॑चन्ताम् ।   
-अ॒स्मासु॑ सन्त्वा॒शिष॒स्सा न॑ᳶ प्रि॒या सु॒प्रतू᳚र्तिर्म॒घोनी॒॥
+अ॒स्मास्व् इन्द्र॑ **इन्द्रि॒यन् द॑धात्व्**  
+अ॒स्मान् **राय॑** उ॒त +++(उत्तरा)+++ य॒ज्ञास् **स॑चन्ताम्** +++(←समवाये)+++ ।   
+अ॒स्मासु॑ **सन्त्व् आ॒शिष॒स्**,  
+सा न॑ᳶ प्रि॒या सु॒प्रतू᳚र्तिर् म॒घोनी॒॥
 </details>
+
+<details><summary>Keith</summary>
+
+On us may Indra bestow power;  
+Us may wealth and sacrifices attend  
+Ours be blessings;  
+To us be she dear, victorious, bountiful.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -380,12 +448,24 @@ O Sarasvati, come hither.
 
 <details><summary>भट्टभास्करटीका</summary>
 
-4अस्मास्विति त्रिपदोष्णिक् । त्रिष्टुप्ततः परा । यद्वा - मध्येज्योतिस्त्रिष्टुप् ॥ अस्मासु त्वत्प्तसादभाक्षु इन्द्र इन्द्रियं वीर्यं दधातु । अस्मान् रायो धनानि पश्वादीनि अपि च यज्ञाः उत्तरे च क्रतवः सचन्ताम् । षच समवाये । अस्मास्वाशिषः अभिप्रेतान्यपि फलानि सन्तु भूतानि सन्तु । सा च त्वमस्माकं प्रिया तृप्तिहेतुः सुप्रतूर्तिः सुष्ठु प्रतरणिर्दुःखानाम् । यद्वा - सुष्ठु प्रकर्षेण च हिंसिका शत्रूणाम् । 'नसत्तनिषत्त' इति निपातनं निष्ठावद्भावात्क्तिनोपि भवति, 'क्रत्वादयश्च' इत्युत्तरपदाद्युदात्तत्वम् । मघोनी धनवती । 'छन्दसीवनिपौ' इति मत्वर्थीयो वनिः, 'ऋन्नेभ्यः' इति ङीप्, 'श्वयुवमघोनाम्' इति सम्प्रसारणम् । एवङ्गुणोस्माकं भव ॥
+4अस्मास्विति त्रिपदोष्णिक् । त्रिष्टुप्ततः परा । यद्वा - मध्येज्योतिस्त्रिष्टुप् ॥  
+**अस्मासु** त्वत्-प्रसादभाक्षु **इन्द्र इन्द्रियं** वीर्यं **दधातु** । **अस्मान् रायो** धनानि पश्वादीनि अपि च **यज्ञाः** उत्तरे च क्रतवः **सचन्ताम्** । षच समवाये । अस्मास्व् आशिषः अभिप्रेतान्यपि फलानि सन्तु भूतानि सन्तु । **सा** च त्वम् अस्माकं **प्रिया** तृप्तिहेतुः **सुप्रतूर्तिः** सुष्ठु प्रतरणिर् दुःखानाम् । 
+
+यद्वा - सुष्ठु प्रकर्षेण च हिंसिका शत्रूणाम् । 'नसत्तनिषत्त' इति निपातनं निष्ठावद्भावात्क्तिनोपि भवति, 'क्रत्वादयश्च' इत्युत्तरपदाद्युदात्तत्वम् । मघोनी धनवती । 'छन्दसीवनिपौ' इति मत्वर्थीयो वनिः, 'ऋन्नेभ्यः' इति ङीप्, 'श्वयुवमघोनाम्' इति सम्प्रसारणम् । एवङ्गुणोस्माकं भव ॥
 </details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जुष्टि॑रसि जु॒षस्व॑ नो॒ जुष्टा॑ नः [9] अ॒सि॒ जुष्टि॑न्ते गमेय॒म् ।
+जुष्टि॑र् असि - जु॒षस्व॑ नः।  
+जुष्टा॑ नो ऽसि॒ - जुष्टि॑न् ते गमेय॒म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+Thou art joy, give joy to us;  
+thou art enjoyed by us [2], may I attain joy from thee.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -395,15 +475,14 @@ O Sarasvati, come hither.
 
 <details><summary>भट्टभास्करटीका</summary>
 
-+++(अत्र भाष्यपङ्क्तिः लुप्ता+इति भाति सम्पादकस्य लेखः)+++
++++(अत्र भाष्यपङ्क्तिः लुप्ता)+++
 </details>
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-5-6अवान्तरेडां प्राश्यमानाम् अनुमन्त्रयते
+5-6 अवान्तरेडां प्राश्यमानाम् अनुमन्त्रयते
 </details>
-
 
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md"  newLevelForH1="5" includeTitle="विश्वास-प्रस्तुतिः"> </div>  
@@ -414,19 +493,51 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रध्न॒ पिन्व॑स्व॒ दद॑तो मे॒ मा ख्षा॑यि कुर्व॒तो मे॒ मोप॑दसत्।
+ब्रध्न॒+++(=पिङ्गल!)+++ पिन्व॑स्व।  
+</details>
+
+<details><summary>Keith</summary>
+
+Swell, O ruddy one.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ब्रध्न॒ पिन्व॑स्व॒ दद॑तो मे॒ मा ख्षा॑यि कुर्व॒तो मे॒ मोप॑दसत्।
+ब्रध्न॒ पिन्व॑स्व … दद॑तो मे॒ मा ख्षा॑यि कुर्व॒तो मे॒ मोप॑दसत्।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-7 ------ब्रध्नेति ॥ हे ब्रध्न बन्धक मनसां, त्वय्येव हि मनोस्माकं सर्वदा बद्धम् । 'बन्धेर्ब्रधिबुधी च' इति नक्प्रत्ययः । परिबृढस्यैवेयं संज्ञा । पिन्वस्व प्रीणय अस्मानृत्विजश्च । ददतो मे मा क्षायि देयेन धनेन क्षयो मा गामि, अपि तूपचीयताम् । कुर्वतो मे मोपदसत् सामर्थ्यं श्रद्धा वा मोपक्षयं गमत्, अपि तु पुनःपुनर्वर्धताम् । दसु उपक्षये, लुङि पुषादित्वादङ् ॥
+7 ब्रध्नेति ॥ हे **ब्रध्न** बन्धक मनसां, त्वय्येव हि मनोस्माकं सर्वदा बद्धम् । 'बन्धेर् ब्रधिबुधी च' इति नक्प्रत्ययः । परिबृढस्यैवेयं संज्ञा । **पिन्वस्व** प्रीणय अस्मानृत्विजश्च । 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दद॑तो मे॒ मा ख्षा॑यि।  
+कुर्व॒तो मे॒ मोप॑दसत्।
+</details>
+
+<details><summary>Keith</summary>
+
+May (my act) as I give be not destroyed; may (my act) as I work not perish.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दद॑तो मे॒ मा ख्षा॑यि।  
+कुर्व॒तो मे॒ मोप॑दसत्।
+</details>
+
+<details><summary>भट्टभास्करटीका</summary>
+
+ददतो मे मा क्षायि देयेन धनेन क्षयो मा गामि, अपि तूपचीयताम् । कुर्वतो मे मोपदसत् सामर्थ्यं श्रद्धा वा मोपक्षयं गमत्, अपि तु पुनःपुनर्वर्धताम् । दसु उपक्षये, लुङि पुषादित्वादङ् ॥
+</details>
+
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+8अन्वाहार्यम् आसन्नम् अभिमन्त्रयते - प्रजापतेरिति ॥ 
+</details>
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -434,9 +545,14 @@ _______
 प्र॒जाप॑तेर्भा॒गो᳚ऽस्यूर्ज॑स्वा॒न्पय॑स्वान् प्राणापा॒नौ मे॑ पाहि 
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art the portion of Prajapati, 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तेर्भा॒गो᳚ऽसि ।
+प्र॒जाप॑तेर् भा॒गो᳚ ऽसि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -446,12 +562,18 @@ _______
 
 <details><summary>भट्टभास्करटीका</summary>
 
-8अन्वाहार्यमासन्नमभिमन्त्रयते - प्रजापतेरिति ॥ प्रजापतेर्भागोसि । 'स वा एष प्राजापत्यो यदन्वाहार्यः' इति । 'पत्यावैश्वर्ये' इति पतिशब्दे पूर्वपदप्रकृतिस्वरत्वम् । 'कर्षात्वतः' इति भागशब्दोन्तोदात्तः, 'स्वरितो वानुदात्ते पदादौ' इत्येकादेशस्य संहितायां स्वरितत्वम् ।
+प्रजापतेर्भागोसि । 'स वा एष प्राजापत्यो यदन्वाहार्यः' इति । 'पत्यावैश्वर्ये' इति पतिशब्दे पूर्वपदप्रकृतिस्वरत्वम् । 'कर्षात्वतः' इति भागशब्दोन्तोदात्तः, 'स्वरितो वानुदात्ते पदादौ' इत्येकादेशस्य संहितायां स्वरितत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्ज॑स्वा॒न्पय॑स्वान् प्राणापा॒नौ मे॑ पाहि ।
+ऊर्ज॑स्वा॒न् पय॑स्वान् प्राणापा॒नौ मे॑ पाहि ।
+</details>
+
+<details><summary>Keith</summary>
+
+full of strength and milk  
+Protect my expiration and inspiration;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -469,6 +591,12 @@ _______
 स॒मा॒न॒व्या॒नौ मे॑ पाहि ।
 </details>
 
+<details><summary>Keith</summary>
+
+protect my breathing together and cross-breathing; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 स॒मा॒न॒व्या॒नौ मे॑ पाहि ।
@@ -482,6 +610,11 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒दा॒न॒व्या॒नौ मे॑ पा॒हि ।
+</details>
+
+<details><summary>Keith</summary>
+
+protect my out-breathing and cross-breathing.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -506,6 +639,12 @@ _______
 अख्षि॑तो॒ऽसि ।
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art imperishable, 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अख्षि॑तो॒ऽसि ।
@@ -518,7 +657,12 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अख्षि॑त्यै त्वा ।
+अख्षि॑त्यै त्वा +++(ददामि)+++।
+</details>
+
+<details><summary>Keith</summary>
+
+for imperishableness thee; 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -533,8 +677,14 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
+मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न् लो॒के  ॥  [10]
 </details>
+
+<details><summary>Keith</summary>
+
+mayst thou not perish for me, yonder, in yonder world.
+</details>
+
 
 <details><summary>मूलम्</summary>
 

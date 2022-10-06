@@ -3,52 +3,6 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 
-
-## 03
-
-### a
-### b
-### c
-
-
-### d
-### e
-
-### f
-Thou art delight, thou art delighting, thou art fair.
-### g
-O thou in whom joy is taken, may I attain joy from thee; O thou who art invoked, may I obtain invocation [1] from thee.
-### h
-May the prayer of the sacrificer be fulfilled for me.
-### i
-With untroubled mind may I have strength for this.
-### k
-May the sacrifice mount the sky, may the sacrifice reach the sky.
-### l
-The path that leadeth to the gods, along it may the sacrifice go to the gods.
-### m
-On us may Indra bestow power;  
-Us may wealth and sacrifices attend  
-Ours be blessings;  
-To us be she dear, victorious, bountiful.
-### n
-Thou art joy, give joy to us; thou art enjoyed by us [2], may I attain joy from thee.
-### o
-Mind, light, rejoice in the sacrifice  
-May he unite this scattered sacrifice;  
-May Brhaspati extend this for us.  
-May the All-gods rejoice here.
-### p
-Swell, O ruddy one.
-### q
-May (my act) as I give be not destroyed; may (my act) as I work not perish.
-### r
-Thou art the portion of Prajapati, full of strength and milk.
-### s
-Protect my expiration and inspiration; protect my breathing together  
-and cross-breathing; protect my out-breathing and cross-breathing.
-### t
-Thou art imperishable, for imperishableness thee; mayst thou not perish for me, yonder, in yonder world.
 ## 04
 ### a
 By sacrifice to the divine straw, may I be possessed of children.
