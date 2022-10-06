@@ -5,7 +5,7 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 ## 04
 ### a
-By sacrifice to the divine straw, may I be possessed of children.
+
 ### b
 By sacrifice to the god Naraśansa, may I be possessed of cattle.
 ### c
