@@ -4,25 +4,7 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 +++
 
 ## 05
-### a
-Let the Dhruva swell with ghee,  
-For each sacrifice for the worshippers;  
-In the udder of the sun maiden, in the lap of Aditi,  
-Broad streamed be the earth at this sacrifice.
-### b
-Prajapati's is the world called Vibhan. In it I place thee along with the sacrificer.
-### c
-Thou art real, be real for me; thou art all, be all for me; thou art full, be full for me; thou art imperishable, perish not for me.
-### d
-In the eastern quarter may the gods, the priests, make (me) bright; in the southern [1] quarter may the months, the fathers, make (me) bright; in the western quarter may the houses, the cattle, make (me) bright; in the northern quarter may the waters, the plants, the trees make (me) bright; in the zenith may the sacrifice, the year, the lord of the sacrifice make (me) bright.
-### e
-Thou art the step of Visnu, smiting enmity; with the Gayatri metre I step across the earth; excluded is he whom we hate.
-### f
-Thou art the step of Visnu, smiting imprecations; with the Tristubh metre I step across the atmosphere; excluded is he whom we hate.
-### g
-Thou art the step of Visnu, smiter of him who practiseth evil; with the Jagati metre I step across the sky; excluded is he whom we hate.
 ### h
-Thou art the step of Visnu, smiter of the hostile one; with the Anustubh metre I stop across the quarters; excluded is he whom we hate.
 ## 06
 ### a
 We have come to the heaven; to the heaven we have come.
