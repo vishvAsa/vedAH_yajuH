@@ -2,4 +2,4 @@
 title = "06 यदि दुह्यमानं स्कन्देद्यदद्य"
 
 +++
-यदि दुह्यमानं स्कन्देद्यदद्य दुग्धं पृथिवीमसक्त यदोषधीरप्यसरद्यदापः । पयो गृहेषु पयो अघ्नियासु पयो वत्सेषु पयो अस्तु तन्मयीत्येनदभिमन्त्र्य समुद्रं वः प्रहिणोमीत्यद्भिरुपसृजेत् ६
+6. If the (Agnihotra-milk) spills out while (the cow) is being milked, having addressed it with yadadya dugdhaṁ pr̥thivīm... he should pour water in it with samudraṁ vaḥ prahiṇomi...[^1]

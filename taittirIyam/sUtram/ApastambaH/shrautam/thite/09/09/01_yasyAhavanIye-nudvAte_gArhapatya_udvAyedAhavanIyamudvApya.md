@@ -2,4 +2,11 @@
 title = "01 यस्याहवनीयेऽनुद्वाते गार्हपत्य उद्वायेदाहवनीयमुद्वाप्य"
 
 +++
-यस्याहवनीयेऽनुद्वाते गार्हपत्य उद्वायेदाहवनीयमुद्वाप्य गार्हपत्यं मन्थेदितः प्रथमं जज्ञे अग्निरित्येतया । अग्ने सम्राडिषे रय्यै रमस्व सहसे द्युम्नायोर्जपत्यायेत्यभिमन्त्र्य सम्राडसि विराडसि सारस्वतौ त्वोत्सौ समिन्धातामन्नादं त्वान्नपत्यायेत्युपसमिध्यान्वग्निरुषसामग्रमख्यदित्यन्यं प्रणीयाग्नये तपस्वते जनद्वते पावकवतेऽष्टाकपालं निर्वपेत् १
+1. While Āhavanīya fire is not extinguished if the Gārhapatya gets extinguished having extinguished the Āhavanīya one should churn out the Gārhapatya with this verse beginning with itaḥ prathamaṁ jañe agniḥ...[^1] Then having addressed the fire with agne samrāḍiṣe... then having added fuel with samrāḍasi virāḍasi... then having brought forward another (fire) with anvagniruṣasāmagram...[^2] one should offer a sacrificial bread to Agni Tapasvat, Agni Janadvat and Agni Pāvakavat.[^3]  
+
+
+[^1]: TS II.2.4.8.  
+
+[^2]: TS IV.1.2.k.  
+
+[^3]: TB I.4.4.6-10.  

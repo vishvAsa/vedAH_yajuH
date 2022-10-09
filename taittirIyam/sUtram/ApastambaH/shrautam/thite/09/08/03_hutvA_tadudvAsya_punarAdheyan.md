@@ -2,4 +2,7 @@
 title = "03 हुत्वा तदुद्वास्य पुनराधेयन्"
 
 +++
-हुत्वा तदुद्वास्य पुनराधेयं तस्य प्रायश्चित्तिरित्याश्मरथ्यः ३
+3. Having offered (the Agnihotra-milk), having removed it (the Agnihotra-milk) one should again establish (the fires) that is the expiation according to Āśmarathya.[^1]  
+
+
+[^1]: Cp. MS I.8.7.

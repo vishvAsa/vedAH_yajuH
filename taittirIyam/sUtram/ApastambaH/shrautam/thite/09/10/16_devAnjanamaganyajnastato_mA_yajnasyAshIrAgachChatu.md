@@ -2,4 +2,11 @@
 title = "16 देवाञ्जनमगन्यज्ञस्ततो मा यज्ञस्याशीरागच्छतु"
 
 +++
-देवाञ्जनमगन्यज्ञस्ततो मा यज्ञस्याशीरागच्छतु पितॄन्पञ्चजनान्दिश आप ओषधीर्वनस्पतीञ्जनमगन्यज्ञस्ततो मा यज्ञस्याशीरागच्छत्विति षडाहुतीर्हुत्वेदं विष्णुर्विचक्रम इति वर्त्म समूहेत् । पदं वा लोभयेत् १६
+16. Then having offered six libations of ghee with devān janam agamad yajñaḥ...[^1] one should sweep out the path (the place) or erase the footprints[^2] with idaṁ viṣṇur vicakrame...[^3]  
+
+
+[^1]: MS I.4.4.  
+
+[^2]: Cp.. MS I.8.9.  
+
+[^3]: TS I.2.13.e.  

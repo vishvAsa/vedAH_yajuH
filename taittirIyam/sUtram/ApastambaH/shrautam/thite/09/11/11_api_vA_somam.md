@@ -2,4 +2,4 @@
 title = "11 अपि वा सोमम्"
 
 +++
-अपि वा सोमं पितृमन्तं पूर्वस्यामाहुत्यामुपलक्षयेत् । अग्निं कव्यवाहनमुत्तरस्याम् ११
+11. Or in the first libation one may name Soma Pitr̥mat at the time of offering the first libation and Agni Kavyavāhana... second (libation).

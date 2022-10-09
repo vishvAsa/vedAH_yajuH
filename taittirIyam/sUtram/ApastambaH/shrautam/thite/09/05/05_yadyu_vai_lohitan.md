@@ -2,4 +2,7 @@
 title = "05 यद्यु वै लोहितन्"
 
 +++
-यद्यु वै लोहितं दुहीत व्युत्क्रामतेत्युक्त्वा दक्षिणमग्निं परिश्रित्य तस्मिन्नेतच्छ्रपयित्वा तस्मिन्व्याहृतीभिस्तूष्णीं वा हुत्वा तां ब्राह्मणाय दद्याद्यमनभ्यागमिष्यन्स्यात् ५
+5. If she yields blood having said, "Disperse", having enclosed the southern fire (with fuel-sticks), having cooked it on it, having offered it with sacred utterances or silently, one should give her to a Brāhmaṇa to whom he (should) not go afterwards.  
+
+
+[^1]: Cr. ŚB XII.4.2.1; cp. JB.I.60

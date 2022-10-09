@@ -2,4 +2,7 @@
 title = "03 आयाहि तपसा जनेष्वग्ने"
 
 +++
-आयाहि तपसा जनेष्वग्ने पावको अर्चिषा । उपेमां सुष्टुतिं मम । आ नो याहि तपसा जनेष्वग्ने पावक दीद्यत् । हव्या देवेषु नो दधदिति याज्यानुवाक्ये ३
+3. The verses āyāhi tapasā janeṣvagne... and ā no yāhi tapasā janeṣvagne... should be used as invitatory and offering verses.[^1]  
+
+
+[^1]: Cp. AB VII.8.

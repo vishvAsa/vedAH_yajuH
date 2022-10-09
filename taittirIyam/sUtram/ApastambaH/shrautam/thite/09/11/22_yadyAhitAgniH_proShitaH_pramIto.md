@@ -2,4 +2,6 @@
 title = "22 यद्याहिताग्निः प्रोषितः प्रमीतो"
 
 +++
-यद्याहिताग्निः प्रोषितः प्रमीतो न प्रज्ञायेत यां दिशमभिप्रस्थितः स्यात्तामस्याग्निभिः कक्षं दहेयुः २२
+22. The sacrificer who is staying away from his original place is not known to be dead,[^1] the relatives should burn a heap of grass with his fires in that direction towards which he had proceeded.  
+
+[^1]: Whether he is dead or living.  

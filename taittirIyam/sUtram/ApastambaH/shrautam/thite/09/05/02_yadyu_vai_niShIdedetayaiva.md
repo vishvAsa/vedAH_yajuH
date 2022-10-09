@@ -2,4 +2,7 @@
 title = "02 यद्यु वै निषीदेदेतयैव"
 
 +++
-यद्यु वै निषीदेदेतयैव यस्माभीषा न्यषद इत्यभिमन्त्र्योदस्थाद्देव्यदितिर्विश्वरूप्यायुर्यज्ञपतावधात् । इन्द्राय कृण्वती भागं मित्राय वरुणाय चेत्युपस्थाप्य तां दुग्ध्वा ब्राह्मणाय दद्याद्यस्यान्नं नाद्यात् । अवर्तिमेवास्मिन्पाप्मानं प्रतिमुञ्चतीति विज्ञायते २
+2. If (the cow) sits having addressed her with the same (verse) (but with a change in the first quarter viz.) yasmād bhīṣā nyaśadaḥ, then having caused her to stand up with Udasthāt devyaditiḥ.., having milked her, one should give it to a Brāhmaṇa whose food he may (should) not eat in the future. It is known from a Brāhmaṇa-text: "One thereby attaches her one's poverty, one's evil to him."[^1]  
+
+
+[^1]: Cf. TB I.4.3.1-3.  
