@@ -7,11 +7,11 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 ### h
 ## 06
 ### a
-We have come to the heaven; to the heaven we have come.
+
 ### b
-May I not be cut off from seeing thee; what heat is thine, to that of thee may I not be brought low.
+
 ### c
-Thou art good, the best of rays, thou art life-bestowing, bestow life  
+thou art life-bestowing, bestow life  
 upon me; thou art radiance-bestowing, bestow radiance upon me.
 ### d
 Here do I exclude my enemy, N. N., from these quarters, this sky, this atmosphere, this earth, this food. Excluded is he whom we hate [1].
