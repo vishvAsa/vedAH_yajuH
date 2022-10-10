@@ -2,4 +2,4 @@
 title = "26 यत्प्रातः स्यात्तच्छृतङ् कुर्यात्"
 
 +++
-यत्प्रातः स्यात्तच्छृतं कुर्यात् २६
+26. He gets boiled the milk obtained in the morning. 

@@ -2,4 +2,4 @@
 title = "19 अग्नये विपृचेऽष्टाकपालं यदि"
 
 +++
-अग्नये विपृचेऽष्टाकपालं यदि गार्हपत्याहवनीयौ १९
+19. If the Gārhapatya and the Āhavanīya get mixed, one should offer sacrificial bread on eight potsherds to Agni Vipr̥c. 

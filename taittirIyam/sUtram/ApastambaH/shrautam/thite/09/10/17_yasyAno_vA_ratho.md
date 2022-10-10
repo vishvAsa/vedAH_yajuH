@@ -2,4 +2,9 @@
 title = "17 यस्यानो वा रथो"
 
 +++
-यस्यानो वा रथो वान्तराग्नी यात्याहवनीयमुद्वाप्य गार्हपत्यादुद्धरेद्यदग्ने पूर्वं प्रभृतं पदं हि ते सूर्यस्यरश्मीनन्वाततान । तत्र रयिष्ठामनुसम्भरैतं सं नः सृज सुमत्या वाजवत्या । त्वमग्ने सप्रथा असीत्येताभ्याम् । ततः पाथिकृतीं पूर्ववन्निर्वपेत् १७
+17. If a cart or a chariot passes between the two fires, in that case having caused the Āhavanīya to be extinguished one should lift up fire from the Gārhapatya with these (verses) beginning with yadagne pūrvaṁ prabhr̥taṁ and tvamagne saprathā asi.[^1] Then one should perform an offering to Agni Pathikr̥t as described earlier.[^2]  
+
+
+[^1]: Cf.. TB I.4.4.10  
+
+[^2]: See IX I.19-21; IX.4.2.  

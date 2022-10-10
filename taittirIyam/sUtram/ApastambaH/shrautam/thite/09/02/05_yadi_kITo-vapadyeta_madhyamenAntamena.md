@@ -2,4 +2,7 @@
 title = "05 यदि कीटोऽवपद्येत मध्यमेनान्तमेन"
 
 +++
-यदि कीटोऽवपद्येत मध्यमेनान्तमेन वा पलाशपर्णेन मही द्यौः पृथिवी च न इति द्यावापृथिव्ययर्चान्तःपरिधि निनीयान्यां दुग्ध्वा पुनर्जुहुयात् । यदि सान्नाय्यमन्यदागमयेत् ५
+5. If an insect falls (in the Agnihotra/Samnayya-milk), having poured (the milk) inside the Paridhis (enclosing sticks) by means of a middle or outer leaf of Palāśa with a verse addressed to Dyāvāpr̥thivī beginning with mahī dyaḥ[^1] having milked another (cow) he should offer the libation once again.[^2] If it is Sāṁnāyya (in which an insect was fallen), he should cause another (Sāṁnāyya) to be prepared.  
+
+
+[^1]: TS III.3.10.h. 

@@ -2,4 +2,4 @@
 title = "12 अथ पञ्चदशवार्षिकाणि"
 
 +++
-अथ पञ्चदशवार्षिकाणि १२
+12. Now (Cātramāsya-sacrifices) of fifteen years (and more).

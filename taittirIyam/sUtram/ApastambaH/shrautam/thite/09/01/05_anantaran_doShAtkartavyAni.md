@@ -2,4 +2,4 @@
 title = "05 अनन्तरन् दोषात्कर्तव्यानि"
 
 +++
-अनन्तरं दोषात्कर्तव्यानि ५
+5. They are to be performed after a defect has occurred.

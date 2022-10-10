@@ -2,4 +2,9 @@
 title = "07 यदि पूर्वस्यामाहुत्यां हुतायामुत्तराहुतिः"
 
 +++
-यदि पूर्वस्यामाहुत्यां हुतायामुत्तराहुतिः स्कन्देद्यदि वोत्तरया पूर्वामभिजुहुयाद्यत्र वेत्थ वनस्पते देवानां गुह्या नामानि । तत्र हव्यानि गामयॐत वानस्पत्ययर्चा समिधमाधाय तत एव तूष्णीं हुत्वान्यां दुग्ध्वा पुनर्जुहुयात् ७
+7. If, after the first libation is made (the milk of the) second libation spills, or if one makes the second libation in the (place where the) first was made,[^1] having placed a fuel-stick in the fire with a verse referring to Vanaspati and beginning with yatra vettha vanaspate having then silently (without any formula) offered the second libation, having milked another cow, should perform the (Agnihotra-)offering once again.[^2]   
+
+
+[^1]: See VI. 10.11 where it is prohibited to do so.  
+
+[^2]: Cf.. TB III.7.2.4-5.

@@ -2,4 +2,4 @@
 title = "20 अग्निना विपृचा वयङ्"
 
 +++
-अग्निना विपृचा वयं गीर्भिः स्तोमं मनामहे । स नो रास्व सहस्रिणः । कविरग्निः समिध्यते विप्रो यज्ञस्य साधनः । विपृञ्चन्रास्व नो वस्विति याज्यानुवाक्ये २०
+20. (For this offering) agninā vipr̥cā vayam... and kaviragniḥ samidhyate... should be used as invitatory and offering verses. 

@@ -2,4 +2,7 @@
 title = "21 अग्नये वीतयेऽष्टाकपालं यदि"
 
 +++
-अग्नये वीतयेऽष्टाकपालं यदि गार्हपत्यदक्षिणाग्नी दक्षिणाग्न्याहवनीयौ वा २१
+21. If the Gārhapatya and Dakṣiṇa (-fires) or Dakşiṇāgni and Āhavanīya (-fires) get mixed one should offer a sacrificial bread on eight potsherds to Agni Vīti.[^1]  
+
+
+[^1]: Cp. AB VII.6.

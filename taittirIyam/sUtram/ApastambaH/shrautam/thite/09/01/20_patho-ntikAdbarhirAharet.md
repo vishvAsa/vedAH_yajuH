@@ -2,4 +2,4 @@
 title = "20 पथोऽन्तिकाद्बर्हिराहरेत्"
 
 +++
-पथोऽन्तिकाद्बर्हिराहरेत् २०
+20. One should bring the Barhis-grass from a place near the road. 

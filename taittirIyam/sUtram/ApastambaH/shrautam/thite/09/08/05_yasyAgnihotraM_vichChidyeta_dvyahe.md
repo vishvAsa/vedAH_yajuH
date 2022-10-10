@@ -2,4 +2,4 @@
 title = "05 यस्याग्निहोत्रं विच्छिद्येत द्व्यहे"
 
 +++
-यस्याग्निहोत्रं विच्छिद्येत द्व्यहे त्र्यहे चतुरहे वाग्नये तन्तुमते ऽष्टाकपालं निर्वपेत् ५
+5. One whose Agnihotra will be discontinued for two or three or four days should offer a sacrificial bread on eight potsherds to Agni Tantumat.

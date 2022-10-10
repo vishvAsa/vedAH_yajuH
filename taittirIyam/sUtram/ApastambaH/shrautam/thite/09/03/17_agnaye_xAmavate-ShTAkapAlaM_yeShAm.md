@@ -2,4 +2,7 @@
 title = "17 अग्नये क्षामवतेऽष्टाकपालं येषाम्"
 
 +++
-अग्नये क्षामवतेऽष्टाकपालं येषां पूर्वापरा अन्वञ्चः प्रमीयेरन् । गृहदाहे वा १७
+17. One whose elder and younger relatives die one after another, or one whose house is burnt,[^1]  
+
+
+[^1]: Cp. TS II.2.2.4-5. 

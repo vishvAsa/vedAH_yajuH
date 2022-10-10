@@ -2,4 +2,4 @@
 title = "13 अथ यस्य गृहीतं"
 
 +++
-अथ यस्य गृहीतं हविरभ्युदियात्सैव प्रायश्चित्तिः सा व्रतचर्या १३
+13. If the moon rises after the oblation-material has been taken out (then one should perform) the same expiation, the same vow. 

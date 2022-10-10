@@ -2,4 +2,7 @@
 title = "08 हव्यवाहमभिमातिषाहं रक्षोहणम् पृतनासु"
 
 +++
-हव्यवाहमभिमातिषाहं रक्षोहणं पृतनासु जिष्णुम् । ज्योतिष्मन्तं दीद्यतं पुरन्धिमग्निं स्विष्टकृतमाहुवेम । स्विष्टमग्ने अभि तत्पृणाहि विश्वा देव पृतना अभिष्य । उरुं नः पन्थां प्रदिशन्विभाहि ज्योतिष्मद्धेह्यजरं न आयुरिति संयाज्ये ८
+8. The verses beginning with havyavāhamabhimātiṣāham[^1] and sviṣṭagne abhi...[^1] should be used as the invitatory and offering verses of the Sviṣṭakr̥t offering.   
+
+
+[^1]: TB II.4.1.4.

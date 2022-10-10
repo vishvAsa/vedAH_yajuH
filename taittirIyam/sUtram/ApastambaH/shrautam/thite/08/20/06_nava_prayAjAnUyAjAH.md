@@ -2,4 +2,4 @@
 title = "06 नव प्रयाजानूयाजाः"
 
 +++
-नव प्रयाजानूयाजाः ६
+6. There should be nine fore-offerings and nine after offerings.

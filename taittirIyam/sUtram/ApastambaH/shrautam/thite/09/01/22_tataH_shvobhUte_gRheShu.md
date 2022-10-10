@@ -2,4 +2,4 @@
 title = "22 ततः श्वोभूते गृहेषु"
 
 +++
-ततः श्वोभूते गृहेषु प्रत्यवस्यति २२
+22. On the next day one stays in one's home. 
