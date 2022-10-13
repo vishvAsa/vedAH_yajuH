@@ -2,4 +2,6 @@
 title = "24 व्रातभृतीन् द्वितीयामेके समामनन्ति"
 
 +++
-व्रातभृतीं द्वितीयामेके समामनन्ति । व्रातपतीमुत्तमाम् २४
+24. According to some ritualists the offering to (Agni) Vratabhr̥t should be the second and the one to (Agni) Vratapati[^1] the last.  
+
+[^1]: For this see IX.3.16. 

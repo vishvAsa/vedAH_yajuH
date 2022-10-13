@@ -2,4 +2,5 @@
 title = "09 यदि सायं स्कन्देदा"
 
 +++
-यदि सायं स्कन्देदा होतोः प्रातर्नाश्नीयात् । यदि प्रातरा होतोः सायं नाश्नीयात् ९
+9. If (the milk) spills in the evening one should not eat anything upto the morning-offering; if (the milk spills in the morning), one should not eat anything upto the evening
+offering.

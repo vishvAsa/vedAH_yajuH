@@ -2,4 +2,4 @@
 title = "10 षड्योगं वा"
 
 +++
-षड्योगं वा १०
+10. Or one with six bulls.

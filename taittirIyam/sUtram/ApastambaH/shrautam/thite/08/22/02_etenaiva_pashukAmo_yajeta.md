@@ -2,4 +2,4 @@
 title = "02 एतेनैव पशुकामो यजेत"
 
 +++
-एतेनैव पशुकामो यजेत यस्मिन्नस्यर्तौ भूयिष्ठं गोषु पयः स्यात् २
+2. The sacrificer who desires cattle should perform the same i.e. the Vaiśvadeva-parvan in the season in which his cows yield the most milk.

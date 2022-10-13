@@ -2,4 +2,4 @@
 title = "06 अजस्य तु ततो"
 
 +++
-अजस्य तु ततो नाश्नीयात् ६
+6. (In that case), however one should not eat (the flesh) of a goat. 

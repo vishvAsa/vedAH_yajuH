@@ -2,4 +2,7 @@
 title = "12 यस्यागृहीतं हविरभ्युदियाद्द्रतचर्यां वा"
 
 +++
-यस्यागृहीतं हविरभ्युदियाद्द्रतचर्यां वा नोदाशंसीत । स त्रेधा तण्डुलानिति पूर्ववत् । अथोत्तरस्मै हविषे वत्सानपाकृत्योपवसेत् १२
+12. (If the moon rises) and the oblation-material has not yet been taken out and if (by way of expiation) one is unable to continue the vow, one (should divide) rice-grains as (described) earlier. Then having separated the calves from their mother cows, for the sake of the next oblation one should observe fast.  
+
+
+[^1]: See the note on Sūtra 6. 

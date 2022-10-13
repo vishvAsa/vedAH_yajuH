@@ -2,4 +2,4 @@
 title = "17 एकोपक्रमत्वात्"
 
 +++
-एकोपक्रमत्वात् १७
+17. For there can be only one beginning; 

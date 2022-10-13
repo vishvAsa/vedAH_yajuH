@@ -2,4 +2,6 @@
 title = "04 अथैकेषाम् वि वा"
 
 +++
-अथैकेषाम् । वि वा एतस्य यज्ञश्छिद्यते यस्य यज्ञे प्रततेऽन्तरेतामिष्टिं निर्वपन्ति । य एवासावाग्नेयोऽष्टाकपालः पौर्णमास्यां योऽमावास्यायां तमग्नये पथिकृते कुर्यात् । तेनैव पुनः पन्थामवैति न यज्ञं निच्छिनत्तीति विज्ञायते ४
+4. Now according to some (ritualists): "The sacrifice of him is indeed cut in whose sacrifice after it has been continued (started to be performed) they perform this offering in between. Whatever this sacrificial bread on eight potsherds for Agni is, the same should be made the one for Agni Pathikr̥t either on the Full-moon-day or New moon-day. By means of it one indeed finds out the path again, (and) does not cut the sacrifice." This is known (from a Vedic text).[^1]  
+
+[^1]: Cp. KS X.5.

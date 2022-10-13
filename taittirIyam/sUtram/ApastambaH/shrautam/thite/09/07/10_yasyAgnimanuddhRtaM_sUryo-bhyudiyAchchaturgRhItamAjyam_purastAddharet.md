@@ -2,4 +2,7 @@
 title = "10 यस्याग्निमनुद्धृतं सूर्योऽभ्युदियाच्चतुर्गृहीतमाज्यम् पुरस्ताद्धरेत्"
 
 +++
-यस्याग्निमनुद्धृतं सूर्योऽभ्युदियाच्चतुर्गृहीतमाज्यं पुरस्ताद्धरेत् । अन्वङ्ङार्षेयो ब्राह्मणो बहुविदग्निमुद्धरेत् । अन्वङ्ङग्निहोत्रेणानूद्द्रवेत् । आयतनेऽग्निं प्रतिष्ठाप्योषाः केतुना जुषतां यज्ञं देवेभिरन्वितम् । देवेभ्यो मधुमत्तमं स्वाहेति प्रत्यङ्गिषद्याज्येन जुहुयात् १०
+10. If the sun rises while the fire has not been yet lifted (from the Gārhapatya), one should carry four-times-scooped ghee to the east. A much knowing Brāhmaṇa from a (good family of a) sage should lift up the fire (and) follow one. (The Adhvaryu) should follow one (carrying) with (him) the Agnihotra(-milk). Having placed the fire in the place (of the fire) having sat with one's face to the west, one should offer ghee with uṣāḥ ketunā juṣantām....[^1]  
+
+
+[^1]: cf. TB I.4.4.3-5.  

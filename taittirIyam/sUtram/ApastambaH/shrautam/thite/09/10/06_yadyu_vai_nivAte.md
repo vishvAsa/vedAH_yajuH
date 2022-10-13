@@ -2,4 +2,9 @@
 title = "06 यद्यु वै निवाते"
 
 +++
-यद्यु वै निवाते मथित्वा विहारं साधयित्वापरेणाहवनीयं यजमान उपविश्य स्वयमग्निहोत्रं पिबेत् । अग्निहोत्रप्रत्याम्नायो भवतीति विज्ञायते ६
+6. If (all the fires get extinguished) when wind is still, in that case having churned out fire, then having prepared the sacrificial place (Vihāra), having sat dawn to the west of the Āhavanīya one should oneself drink the Agnihotra milk[^1]. It is known from a Brāhamṇa-text that this is the substitute of the Agnihotra-offering.  
+
+
+[^1]: For Sūtras I-6 cf. ŚB XI.5.3.8-12.  
+
+[^2]: Not identified.  

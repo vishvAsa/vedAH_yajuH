@@ -2,4 +2,4 @@
 title = "05 न तपस्वते"
 
 +++
-न तपस्वते ५
+5. (And) not to Agni Tapasvat (Agni Janadvat and Agni Pāvakavat).

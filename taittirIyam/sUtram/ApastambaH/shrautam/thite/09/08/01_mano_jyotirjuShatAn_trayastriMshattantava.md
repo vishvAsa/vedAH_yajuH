@@ -2,4 +2,9 @@
 title = "01 मनो ज्योतिर्जुषतान् त्रयस्त्रिंशत्तन्तव"
 
 +++
-मनो ज्योतिर्जुषतां त्रयस्त्रिंशत्तन्तव इति द्वे चतुर्गृहीते जुहुयात् १
+1. One should offer two libations of four-times see ghee with mano jyotir juṣatām...[^1] and trayastriṁśattantavaḥ...[^2]  
+
+
+[^1]: TS I.5.3-7.  
+
+[^2]: TS I.5.10.n.

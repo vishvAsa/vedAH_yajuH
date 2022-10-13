@@ -2,4 +2,4 @@
 title = "01 स्तोत्रे शस्त्रे वा"
 
 +++
-स्तोत्रे शस्त्रे वा मूढे १
+1. a singing of Stotra or recitation of a Śastra is confused.

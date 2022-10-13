@@ -2,4 +2,11 @@
 title = "22 अग्नये शुचयेऽष्टाकपालं यदि"
 
 +++
-अग्नये शुचयेऽष्टाकपालं यदि प्रदाव्येनाभ्यादाह्येन शवाग्निना वा । अग्नये सङ्कुसुकायाष्टाकपालं यदि सूतकाग्निना । सङ्कुसुको कुसुको विकिरो यश्च विष्किरः । माषाज्येन नलेध्मेन क्रव्यादं शमयामसि । अस्मिन्वयं सङ्कुसुकेऽग्नौ रिप्राणि मृज्महे । अभूम यज्ञियाः शुद्धाः प्र ण आयूंषि तारिषदिति याज्यानुवाक्ये । अग्नयेऽप्सुमतेऽष्टाकपालं यदि वैद्युतेन २२
+22. (One should offer) a sacrifical bread on eight potsherds to Agni Śuci if one's fires get mixed with forest-fire or house fire or cremation-fire;[^1] a sacrificial bread on eight potsherds if with puerperal fire. At that time saṁkusuko vikusuko vikiro yaśca... and asmin vayaṁ saṁkusukegnau...[^2] should be used as invitatory and offering verses. One should offer a sacrificial bread on eight potsherds if one's fires get mixed with lightning fire.[^3]  
+
+
+[^1]: Cf. AB VII.7; cp. also ŚB XII.4.4.5.  
+
+[^2]: AV XII.2.13.  
+
+[^3]: Cf. AB VII.2; ŚB XII.4.4.4. 

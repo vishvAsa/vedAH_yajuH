@@ -2,4 +2,4 @@
 title = "06 सर्वन् तूष्णीङ् क्रियेत"
 
 +++
-सर्वं तूष्णीं क्रियेत ६
+6. Everything should be done silently (without any formula).

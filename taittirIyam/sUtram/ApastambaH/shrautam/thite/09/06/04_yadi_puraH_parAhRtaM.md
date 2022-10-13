@@ -2,4 +2,7 @@
 title = "04 यदि पुरः पराहृतं"
 
 +++
-यदि पुरः पराहृतं स्कन्देदनूदाहृत्य चतुरभ्युन्नीय होतव्यमन्यया वाभिदोह्यम् ४
+4. If (the Agnihotra-milk after it is) carried forward, spills, then in that case, having brought (the pot), having taken (the milk) into the ladle for four times, one should offer (the
+Agnihotra-libation) or one may get another cow milked.[^1]  
+
+[^1]: Cp. MS I.8.3.  

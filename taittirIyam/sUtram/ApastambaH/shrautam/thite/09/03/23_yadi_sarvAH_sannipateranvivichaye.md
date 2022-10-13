@@ -2,4 +2,4 @@
 title = "23 यदि सर्वाः सन्निपतेरन्विविचये"
 
 +++
-यदि सर्वाः सन्निपतेरन्विविचये निरुप्य शुचये निर्वपेद्व्रातभृतीं तृतीयामप्सुमतीं चतुर्थीं क्षामवतीमन्तं परिक्रमयेत् २३
+23. If all the offerings require to occur simultaneously in that case having performed an offering for Agni Vivici, one should perform an offering to (Agni) Śuci, then the third offering to (Agni) Vratabhr̥t, fourth to Agni Apsumat, and lastly to Agni Kṣāmavat. 

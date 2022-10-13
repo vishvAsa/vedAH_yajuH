@@ -2,4 +2,4 @@
 title = "03 यदि गार्हपत्य उदानः"
 
 +++
-यदि गार्हपत्य उदानः प्राणमप्यगादित्याहवनीये ३
+3. If the Gārhapatya-fire (gets extinguished) one should offer a libation (of ghee) with udānaḥ prāṇamapyagāt in the Āhavanīya.  

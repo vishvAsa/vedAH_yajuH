@@ -2,4 +2,7 @@
 title = "06 यदि सायमहुतेऽग्निहोत्रे पूर्वोऽग्निरनुगच्छेदधिश्रित्याग्निहोत्रमुन्नीय"
 
 +++
-यदि सायमहुतेऽग्निहोत्रे पूर्वोऽग्निरनुगच्छेदधिश्रित्याग्निहोत्रमुन्नीय वाग्निना च सहाग्निहोत्रेण चानूद्द्रवेत् । यो ब्राह्मणो बहुवित्स उद्धरेत् । यत्पुरा धनमदायी स्यात्तद्दद्यात् । अच्युतेनैनं च्यावयतीति विज्ञायते ६
+6. After the evening-Agnihotra has been offered, if the fire in the east is extinguished, in that case, having kept the Agnihotra-milk on the fire or having taken the milk (into ladle) one should run towards the east (i.e. towards the Āhavanīya) along with the Agnihotra-milk. A much-knowing Brāhmaṇa should lift up the fire (from the Gārhapatya to the Āhavanīya). One should give that thing which one would not have given previously to a Brāhmaṇa as a gift. It is known from a Brāhmaṇa-text that one causes him to fall by means of something which is not fallen.[^1]  
+
+
+[^1]: Cp.. KS V.6; cp. MS I.8.8.

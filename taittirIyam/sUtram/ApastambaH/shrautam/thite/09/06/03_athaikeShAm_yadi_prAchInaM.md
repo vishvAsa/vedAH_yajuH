@@ -2,4 +2,4 @@
 title = "03 अथैकेषाम् यदि प्राचीनं"
 
 +++
-अथैकेषाम् । यदि प्राचीनं ह्रियमाणं स्कन्देत्प्रजापतेर्विश्वभृति तन्वं हुतमसि स्वाहेत्येनदभिमन्त्र्यैतदेवाग्निहोत्रं स्यादित्याश्मरथ्यः । अन्यां दुग्ध्वा पुनरोहोतव्यमित्यालेखनः ३
+3. According to some: If being carried forward (the Agnihotra-milk) spills, having addressed it with prajāpater viśvabhr̥ti tanvam... the same should be (used) as the Agnihotra-milk: this is the view of Āśmarathya, having milked another (cow), (Agnihotra) should be offered again; this is the view of Ālekhana.

@@ -2,4 +2,4 @@
 title = "25 यस्य सायन् दुग्धं"
 
 +++
-यस्य सायं दुग्धं हविरार्तिमार्छतीन्द्राय व्रीहीन्निरुप्योपवसेत् २५
+25. (The sacrificer) the oblation-material made out of the milk obtained in the evening of whom gets spoiled, should observe fast after having taken out the rice-grains. 

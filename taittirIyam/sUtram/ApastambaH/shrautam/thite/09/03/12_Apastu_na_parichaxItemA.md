@@ -2,4 +2,4 @@
 title = "12 आपस्तु न परिचक्षीतेमा"
 
 +++
-आपस्तु न परिचक्षीतेमा भोजनीया इमा अभोजनीया इति १२
+12. (In that case), however, one should not blame waters (saying), "These waters are worthy to be consumed by me; these waters are not worthy to be consumed by me." 
