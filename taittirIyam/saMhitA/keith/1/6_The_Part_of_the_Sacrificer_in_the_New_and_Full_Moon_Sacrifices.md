@@ -3,24 +3,12 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 
-## 05
-### h
-## 06
-### a
-
-### b
-
-### c
-thou art life-bestowing, bestow life  
-upon me; thou art radiance-bestowing, bestow radiance upon me.
-### d
-Here do I exclude my enemy, N. N., from these quarters, this sky, this atmosphere, this earth, this food. Excluded is he whom we hate [1].
 ### e
-I have been united with the light.
+
 ### f
-I turn the turning of Indra.
+
 ### g
-May I be united with offspring, offspring with me.
+offspring with me.
 ### h
 May I be united with increase of wealth, increase of wealth with me.
 ### i
