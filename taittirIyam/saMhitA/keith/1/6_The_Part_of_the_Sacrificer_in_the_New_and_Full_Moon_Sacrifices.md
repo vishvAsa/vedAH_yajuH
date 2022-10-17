@@ -3,43 +3,6 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 
-### e
-
-### f
-
-### g
-offspring with me.
-### h
-May I be united with increase of wealth, increase of wealth with me.
-### i
-Kindled, O Agni, shine for me; kindling thee, O Agni, may I shine.
-### k
-Be rich the sacrifice; may I be rich.  
-1 O Agni, thou purifiest life;  
-Do thou give food and strength to us;
-
-Far away drive ill-fortune.
-### m
-O Agni, good worker, purify for us  
-Glory in good heroes [2],  
-Giving increase and wealth to me.
-### n
-O Agni, lord of the house, through thee as lord of the house, may I be a good lord of the house; through me as lord of the house, mayst thou be a good lord of the house; for a hundred winters; this blessing I invoke bringing light for the race; this blessing I invoke bringiug light for N. N.
-### o
-Who yoketh thee? Let him set thee free.
-### p
-O Agni, lord of vows, I have performed my vow; for that I have had strength; that hath been accomplished by me.
-### q
-The sacrifice hath become, it hath [3] come into being,  
-It hath been born, it hath waxed great;  
-It hath become the overlord of the gods,  
-May it make us overlords,  
-May we be lords of wealth.
-### r
-Rich in cattle, in sheep, O Agni, in horses, is the sacrifice,  
-With manly companions, ever unalterable;  
-Rich in food is this, O Asura, rich in offspring,  
-Enduring wealth, deep based and rich in houses.
 ## 07
 Even as the Soma (sacrifices) come together in competition, so the new and full moon (sacrifices) are sacrifices which come together in competition. Whose sacrifice then do the gods approach and whose not? He, who among many sacrificers first appropriates the gods, sacrifices to them when the next day comes. The Ahavaniya is the abode of the gods, between the fires of cattle, the Garhapatya of men, the Anvaharya pacana of the fathers. He takes the fire; verily he appropriates [1] the gods in their own abode; to them he sacrifices when the next day comes. By means of a vow is Agni, lord of vows, pure, the Brahman is a supporter of vows. When about to undertake a vow he should say, 'O Agni, lord of vows, I shall perform the vow.' Agni is the lord of vows among the gods; verily after announcement to him he undertakes the vow. At the full moon be undertakes his vow with the (strewing of the) straw, with the (driving away of the) calves at new moon; for that is their abode. 'The fires, both in the front and at the back, must be bestrewed', they say; men [2] indeed desire what is bestrewed, and, how much more the gods whose is a new dwelling. With him, when sacrifice is to be made on the next day, do the gods dwell, who knowing this bestrews the fire. 'The sacrificer should win both beasts of the wild and of the village', they say; in that he refrains from those of the village, thereby be wins them; in that he eats of the wild, thereby he wins them of the wild. If be were to fast without eating, the Pitrs would be his divinity [3]; he eats of the wild, the wild is power, and so he bestows power upon himself. If he were to fast without eating, he would be hungry; if he were to eat, Rudra would plan evil against his cattle; he partakes of water; that is neither eaten nor not eaten; he is not hungry and Rudra does not plot evil against his cattle. The sacrificer is a bolt, the enemy of man is hunger; in that he fasts without eating, he straightway smites with the bolt the enemy, hunger.
 ## 08
