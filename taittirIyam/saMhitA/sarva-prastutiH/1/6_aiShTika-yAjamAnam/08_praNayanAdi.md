@@ -1,5 +1,5 @@
 +++
-title = "०८ प्रणयन-यज्ञायुधसम्भराणादिविधिः"
+title = "०८ प्रणयनादि"
 
 +++
 प्रणयन-यज्ञायुधसम्भराणादिविधिः  
@@ -300,12 +300,21 @@ _______
 
 यो वै दे॒वेभ्य॑ᳶ प्रति॒प्रोच्य॑ य॒ज्ञेन॒ यज॑ते -  
 जु॒षन्ते᳚ऽस्य दे॒वा ह॒व्यम् ।  
-ह॒विर् नि॑रु॒प्यमा॑णम् अ॒भि म॑न्त्रयेत ।  
-
-अ॒ग्निꣳ होता॑रम् इ॒ह तꣳ हु॑व॒ इति॑ ।  
+ह॒विर् नि॑रु॒प्यमा॑णम् अ॒भि म॑न्त्रयेत - "अ॒ग्निꣳ होता॑रम् इ॒ह तꣳ हु॑व॒" इति॑ ।  
 दे॒वेभ्य॑ ए॒व प्र॑ति॒प्रोच्य॑ य॒ज्ञेन॑ यजते ।  
 जु॒षन्ते᳚ऽस्य दे॒वा ह॒व्यम् ।
 </details>
+
+<details><summary>Keith</summary>
+
+If a man sacrifices after announcing the sacrifice to the gods,  
+they delight in his sacrifice.  
+He should as the oblation is being offered recite (the words),  
+'Agni, the priest, him I summon hither' [3].  
+Thus he announces the sacrifice to the gods and sacrifices,  
+and the gods delight in his sacrifice. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -326,8 +335,14 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै य॒ज्ञस्य॒ ग्रहो॑ गृही॒त्वैव य॒ज्ञेन॑ यजते ।   
+ए॒ष वै य॒ज्ञस्य॒ ग्रहो॑ - गृही॒त्वैव य॒ज्ञेन॑ यजते ।   
 </details>
+
+<details><summary>Keith</summary>
+
+This is the taking of the sacrifice and so after taking the sacrifice he sacrifices. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -339,9 +354,15 @@ _______
 एष वा इत्यादि । एष मन्त्रो यज्ञस्य ग्रहः गृह्यतेनेन यज्ञ इति । तस्माद्गृहीत्वैव यज्ञमनेनाभिमन्त्रणेन; ततो यागमारभते ।
 </details>
 
+## वाग्दानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदु॑दि॒त्वा वाच॑य्ँयच्छति य॒ज्ञस्य॒ धृत्यै᳚ ।  
+तद् उ॑दि॒त्वा वाच॑य्ँ यच्छति - य॒ज्ञस्य॒ धृत्यै᳚ ।  
+</details>
+
+<details><summary>Keith</summary>
+
+After speaking he remains silent, to support the sacrifice. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -356,9 +377,15 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ मन॑सा॒ वै प्र॒जाप॑तिर्य॒ज्ञम॑तनुत ।  
-मन॑सै॒व तद्य॒ज्ञन्त॑नुते॒ रख्ष॑सा॒मन॑न्ववचाराय ।
+अथो॒ मन॑सा॒ वै प्र॒जाप॑तिर् य॒ज्ञम् अ॑तनुत ।  
+मन॑सै॒व तद् य॒ज्ञन् त॑नुते॒ रख्ष॑सा॒म् अन्-अ॑न्व्-अवचाराय ।
 </details>
+
+<details><summary>Keith</summary>
+
+Now Prajapati performed the sacrifice with mind; verily he performs the sacrifice with mind to prevent the Raksases following. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -371,26 +398,46 @@ _______
 अथो अपि च प्रजापतिरिव मनसैवायं यज्ञं तनितुमर्हति किं वाचा । एवं हि क्रियमाणं रक्षसाम् अनन्ववचारायाननुप्रवेशाय भवति ॥
 </details>
 
+_______
+## यज्ञयोगः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+4अथ यज्ञयोगं विदधाति - यो वा इत्यादि ॥ 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै य॒ज्ञय्ँयोग॒ आग॑ते यु॒नक्ति॑ यु॒ङ्क्ते यु॑ञ्जा॒नेषु ।
+यो वै य॒ज्ञय्ँ योग॒ आग॑ते यु॒नक्ति॑ - यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ।
 </details>
+
+<details><summary>Keith</summary>
+
+He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among the yokers. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-यो वै य॒ज्ञय्ँयोग॒ आग॑ते यु॒नक्ति॑ यु॒ङ्क्ते यु॑ञ्जा॒नेषु ।
+यो वै य॒ज्ञय्ँयोग॒ आग॑ते यु॒नक्ति॑ यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-4अथ यज्ञयोगं विदधाति - यो वा इत्यादि ॥ योगे यागकाल आगते यज्ञं यो युनक्ति बध्नाति, अयमेव युञ्जानेषु यजमानेषु मध्ये युङ्क्ते युङ्क्त इति व्यपदेशमर्हति । यद्वा - युञ्जानेष्वात्मानं योजयति ।
+योगे यागकाल आगते यज्ञं यो युनक्ति बध्नाति, अयमेव युञ्जानेषु यजमानेषु मध्ये युङ्क्ते युङ्क्त इति व्यपदेशमर्हति । यद्वा - युञ्जानेष्वात्मानं योजयति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस्त्वा॑ युनक्ति॒ स त्वा॑ युन॒क्त्वित्या॑ह ।   
-प्र॒जाप॑ति॒र्वै कः ...  
-प्र॒जाप॑तिनै॒वैन॑य्ँयुनक्ति यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ॥ [28]
+"कस्त्वा॑ युनक्ति॒ स त्वा॑ युन॒क्त्व्" इत्य् आ॑ह ।   
+प्र॒जाप॑ति॒र् वै कः,  
+प्र॒जाप॑तिनै॒वैन॑य्ँ युनक्ति,  
+यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ॥ [28]
+</details>
+
+<details><summary>Keith</summary>
+
+'Who (ka) yoketh thee? Let him yoke thee', he says. Ka is Prajapati--verily by Prajapati he yokes it; he yokes indeed among the yokers.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -403,6 +450,6 @@ _______
 <details><summary>भट्टभास्करटीका</summary>
 
 मन्त्रपदमिदनीं व्याचष्टे - कस्त्वेति । गतम् ॥
+</details>
 
 इति षष्ठेष्टमोनुवाकः ॥  
-</details>
