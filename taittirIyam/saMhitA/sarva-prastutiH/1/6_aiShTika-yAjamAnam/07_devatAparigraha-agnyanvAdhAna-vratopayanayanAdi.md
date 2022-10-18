@@ -171,16 +171,22 @@ By means of a vow is Agni, lord of vows, pure, the Brahman is a supporter of vow
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒तमु॑पै॒ष्यन्ब्रू॑यात् ।  
-अग्ने᳚ व्रतपते व्र॒तञ्च॑रिष्या॒मीति॑ ।  
-अ॒ग्निर्वै दे॒वाना᳚व्ँव्र॒तप॑तिः ।  
-तस्मा॑ ए॒व प्र॑ति॒प्रोच्य॑ व्र॒तमाल॑भते  ।
+व्र॒तम् उ॑पै॒ष्यन् ब्रू॑या॒द्  
+"अग्ने᳚ व्रतपते व्र॒तञ्च॑रिष्या॒मी"ति॑ ।  
+अ॒ग्निर् वै दे॒वाना᳚व्ँ व्र॒तप॑तिः ।  
+तस्मा॑ ए॒व प्र॑ति॒-प्रोच्य॑ व्र॒तम् आल॑भते  ।
 </details>
+
+<details><summary>Keith</summary>
+
+When about to undertake a vow he should say, 'O Agni, lord of vows, I shall perform the vow.' Agni is the lord of vows among the gods; verily after announcement to him he undertakes the vow. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-व्र॒तमु॑पै॒ष्यन्ब्रू॑यात् ।  
-अग्ने᳚ व्रतपते व्र॒तञ्च॑रिष्या॒मीति॑ ।  
+व्र॒तमु॑पै॒ष्यन्ब्रू॑या॒द्  
+अग्ने᳚ व्रतपते व्र॒तञ् च॑रिष्या॒मीति॑ ।  
 अ॒ग्निर्वै दे॒वाना᳚व्ँव्र॒तप॑तिः ।  
 तस्मा॑ ए॒व प्र॑ति॒प्रोच्य॑ व्र॒तमाल॑भते  ।
 </details>
@@ -192,13 +198,19 @@ By means of a vow is Agni, lord of vows, pure, the Brahman is a supporter of vow
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिषा पू॒र्णमा॑से व्र॒तमुपै॑ति ।  
-व॒थ्सैर॑मावा॒स्या॑यामे॒तद्ध्ये॑तयो॑रा॒यत॑नम् ।
+ब॒र्हिषा पू॒र्णमा॑से व्र॒तम् उपै॑ति,  
+व॒थ्सैर् अ॑मावा॒स्या॑याम्।  
+ए॒तद् ध्य् ए॑तयो॑र् आ॒यत॑नम् ।
+</details>
+
+<details><summary>Keith</summary>
+
+At the full moon be undertakes his vow with the (strewing of the) straw, with the (driving away of the) calves at new moon; for that is their abode. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-ब॒र्हिषा पू॒र्णमा॑से व्र॒तमुपै॑ति ।  
+ब॒र्हिषा पू॒र्णमा॑से व्र॒तमुपै॑ति  
 व॒थ्सैर॑मावा॒स्या॑यामे॒तद्ध्ये॑तयो॑रा॒यत॑नम् ।
 </details>
 
@@ -207,10 +219,24 @@ By means of a vow is Agni, lord of vows, pure, the Brahman is a supporter of vow
 बर्हिषेत्यादि । बर्हिराहरणेन तत्कालेन सह, बर्हिराहरणानन्तरमिति यावत् । वत्सैर्वत्सानामपाकरणेन तत्कालेन सह वत्सेष्वपाकृतेष्वित्यर्थः । उक्तञ्च - 'वत्सं संयोगे व्रतचोदना स्यात्' । अयञ्च सन्नयतोसन्नयतश्च कालः । 'कालस्सन्नयनपक्षे तल्लिङ्गसंयोगात्' इति ॥
 </details>
 
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+3अथोपस्तरणं विधातुमाह - उपस्तीर्य इत्यादि ॥ 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उप॒स्तीर्य॒ᳶ  पूर्व॑श्चा॒ग्निरप॑र॒श्चेत्या॑हुः ।  
+उप॒स्तीर्य॒ᳶ पूर्व॑श् चा॒ग्निर् अप॑र॒श् चेत्या॑हुः ।  
 </details>
+
+<details><summary>Keith</summary>
+
+'The fires, both in the front and at the back, must be bestrewed', they say; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -219,7 +245,7 @@ By means of a vow is Agni, lord of vows, pure, the Brahman is a supporter of vow
 
 <details><summary>भट्टभास्करटीका</summary>
 
-13अथोपस्तरणं विधातुमाह - उपस्तीर्य इत्यादि ॥ उपस्तीर्यः उपस्तरितव्यः । छान्दसः क्यप् । दर्भैः पूर्वेद्युरेवोभावग्नी उपस्तृणुयात् तयोस्समीपे परितस्स्तृणुयात् ।
+उपस्तीर्यः उपस्तरितव्यः । छान्दसः क्यप् । दर्भैः पूर्वेद्युरेवोभावग्नी उपस्तृणुयात् तयोस्समीपे परितस्स्तृणुयात् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
