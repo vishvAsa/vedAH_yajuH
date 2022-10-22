@@ -2,4 +2,4 @@
 title = "09 यस्माद्भीषा निमेहसीति द्वितीयाम्"
 
 +++
-यस्माद्भीषा निमेहसीति द्वितीयां मूत्रं कुर्वति । यस्माद्भीषा शकृत्करोषीति द्वितीयां शकृत्कुर्वति ९
+9. (If the victim dedicated to a deity) urinates, one should offer the second libation with yasamād bhīṣā nimehasi... If it evacuates faces one should offer the second libation with yasmād bhīṣā śakre karoṣi....

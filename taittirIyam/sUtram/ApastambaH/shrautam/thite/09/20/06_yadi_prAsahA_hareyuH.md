@@ -2,4 +2,4 @@
 title = "06 यदि प्रासहा हरेयुः"
 
 +++
-यदि प्रासहा हरेयुः सर्वस्वं जीयेत । वैष्णव्याः स्थान ऐन्द्री । समानमुत्तरम् ६
+6. If (the sacrificial post) is forcefully carried off, (the sacrificer) will lose all his possession. In that case one should employ a verse addressed to Indra instead of one to Viṣṇu. The further ritual is the same as (described in the Sūtra 1).

@@ -2,4 +2,4 @@
 title = "03 आहवनीये दारुमयाणि"
 
 +++
-आहवनीये दारुमयाणि ३
+3. (One should throw the broken) wooden utensils in the Āhavanīya(-fire) (without any formula).  

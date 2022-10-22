@@ -2,4 +2,4 @@
 title = "08 निर्वीर्यतां वै पुरुष"
 
 +++
-निर्वीर्यतां वै पुरुष आशास्ते । अपशुतां गौः ८
+8. (A twin) human being expects (predicts) absence of progeny; a cow/bull (predicts) absence of cattle.

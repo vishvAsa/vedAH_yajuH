@@ -2,4 +2,8 @@
 title = "06 यज्ञस्य त्वा प्रमयाभिमया"
 
 +++
-यज्ञस्य त्वा प्रमयाभिमया प्रतिमयोन्मया परिगृह्णामीति तत्परिगृह्य भूपतये स्वाहेति प्राञ्चं प्रादेशं मिमीते । भुवनपतये स्वाहेति दक्षिणम् । भूतानां पतये स्वाहेति प्रत्यञ्चम् । भूत्यै स्वाहेत्युदञ्चम् । भूर्भुवः सुवरित्यूर्ध्वम् ६
+6. Having held that the spilled ghee with yajñasya tvā pramayā...[^1] one should measure it with bhūpataye svāhā with his span pointing to the east, with bhuvanapataye svāhā...[^2] pointing to the south, with bhūtānāṁ pataye svāhā...[^2] pointing to the west, with bhūtyai svāhā...[^2] pointing to the north (and) with bhūrbhuvaḥ suvaḥ... upwards.  
+
+[^1]: MS I.4.11.  
+
+[^2]: TS II.6.6.3-4.  

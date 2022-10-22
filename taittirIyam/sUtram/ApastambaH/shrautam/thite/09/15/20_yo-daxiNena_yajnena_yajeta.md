@@ -2,4 +2,4 @@
 title = "20 योऽदक्षिणेन यज्ञेन यजेत"
 
 +++
-योऽदक्षिणेन यज्ञेन यजेत स यज्ञः प्रक्षामोऽनायुः । उर्वरां दद्यात् २०
+20. If one performs a sacrifice without a sacrificial gift, that sacrifice is burnt (as it were) lifeless (as it were). In that case one should give a fertile land as a sacrificial gift (as an expiation).

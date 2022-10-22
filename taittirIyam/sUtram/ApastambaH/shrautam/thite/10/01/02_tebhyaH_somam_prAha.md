@@ -2,4 +2,4 @@
 title = "02 तेभ्यः सोमम् प्राह"
 
 +++
-तेभ्यः सोमं प्राह २
+2. He (the sacrificer) tells them (through Somapravāka) about the Soma(-sacrifice). 

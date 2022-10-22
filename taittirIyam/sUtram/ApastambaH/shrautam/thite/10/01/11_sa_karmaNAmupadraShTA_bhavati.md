@@ -2,4 +2,4 @@
 title = "11 स कर्मणामुपद्रष्टा भवति"
 
 +++
-स कर्मणामुपद्रष्टा भवति ११
+11. He (the Sadasya) should look after the sacrificial activities. 

@@ -2,4 +2,7 @@
 title = "04 यदि स्रुग्गतं यदस्य"
 
 +++
-यदि स्रुग्गतं यदस्य गृहे पुष्कलं स्यात्तद्दद्यात् । सं त्वा सिञ्चामीति तत्संसिञ्चेदभि वा मन्त्रयेत ४
+4. If the ghee in the ladle spills out he should give to the Adhvaryu whatever is ample in his house with saṁ tvā siñcāmi....[^1] He should pour the spilled ghee on the inspilled ghee or address (the ghee with that formula).  
+
+
+[^1]: TS 1.6.1.a.  

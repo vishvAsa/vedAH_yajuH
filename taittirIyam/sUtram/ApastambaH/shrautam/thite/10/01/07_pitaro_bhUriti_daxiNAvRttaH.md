@@ -2,4 +2,4 @@
 title = "07 पितरो भूरिति दक्षिणावृत्तः"
 
 +++
-पितरो भूरिति दक्षिणावृत्तः पितॄनुपतिष्ठते ७
+7. Having turned towards the south he should stand praising the ancestors with pitaro bhūḥ. 

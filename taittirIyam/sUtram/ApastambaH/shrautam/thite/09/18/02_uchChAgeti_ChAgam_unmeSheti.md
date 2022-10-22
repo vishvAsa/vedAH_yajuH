@@ -2,4 +2,4 @@
 title = "02 उच्छागेति छागम् उन्मेषेति"
 
 +++
-उच्छागेति छागम् । उन्मेषेति मेषम् । उद्वश इति वशाम् २
+2. (One should use the word) chāga (instead of the word usra if the victim is) a he-goat; meṣa (...) (...)a ram; vase (...) (...) a sterile cow.

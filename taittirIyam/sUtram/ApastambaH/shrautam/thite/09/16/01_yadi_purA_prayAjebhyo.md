@@ -2,4 +2,7 @@
 title = "01 यदि पुरा प्रयाजेभ्यो"
 
 +++
-यदि पुरा प्रयाजेभ्यो बहिःपरिध्याहुतिः स्कन्देदाग्नीध्रं ब्रूयादेतां सङ्कृष्य जुहुधीति । तां सोऽञ्जलिना जुहोति । तस्मै पूर्णपात्रो देयः १
+1. Before the fore-offering if the offering-material spills (from the ladle) outside the enclosing sticks, (the Adhvaryu) should tell the Āgnīdhra, "Having scratched it together, offer it". He (the Āgnīdhra) offers that offering by means of his folded hands. A pot filled (with rice or barley) should be given to him (by the sacrificer).[^1]  
+
+
+[^1]: For this Sūtra cp. MS 1.4.13.

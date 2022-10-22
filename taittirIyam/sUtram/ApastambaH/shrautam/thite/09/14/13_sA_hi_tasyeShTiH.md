@@ -2,4 +2,4 @@
 title = "13 सा हि तस्येष्टिः"
 
 +++
-सा हि तस्येष्टिः १३
+13. For this is (an offering) for him.

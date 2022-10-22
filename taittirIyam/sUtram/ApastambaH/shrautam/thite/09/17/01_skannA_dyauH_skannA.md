@@ -2,4 +2,11 @@
 title = "01 स्कन्ना द्यौः स्कन्ना"
 
 +++
-स्कन्ना द्यौः स्कन्ना पृथिवी स्कन्नं विश्वमिदं जगत् । स्कन्नादो विश्वा भूतानि प्र स्कन्नाज्जायतां हविः । इह गावः प्रजायध्वमिहाश्वा इह पूरुषाः । इहो सहस्रदक्षिणो रायस्पोषो निषीदतु । अयं यज्ञो वर्धतां गोभिरश्वैरियं वेदिः स्वपत्या सुवीरा । इदं बर्हिरति बर्हींष्यन्येमं यज्ञं विश्वे अवन्तु देवाः । पयस्वतीरोषधय इत्येताभिश्चतसृभिः पृषदाज्यं स्कन्नमभिमन्त्र्यापोऽभ्यवहृत्य निर्णिज्य स्रुचं शतमानं हिरण्यं स्रुच्यवधायेदं विष्णुर्विचक्रम इत्यन्यत्पृषदाज्यं गृहीत्वाश्वेनावघ्राप्यायतने सादयेत् १
+1. Having addressed the clotted ghee which has been spilled out, with these four verses beginning with skannā dyauḥ...[^1] having thrown it in water, having washed the ladle, having put gold of hundred Mānas (in weight) into the ladle, having scooped another clotted ghee (into the ladle) with idaṁ viṣṇur vi cakrame...[^2], having caused it to be smelled by a horse, he should place it on its place on the altar.[^3]  
+
+
+[^1]: KS XXXV.2.  
+
+[^2]: TS I.2.13.e.  
+
+[^3]: For the ritual in this Sūtra cf. TS III.2.6.2-3.  

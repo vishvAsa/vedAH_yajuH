@@ -2,4 +2,9 @@
 title = "01 यद्येककपालः स्कन्देत्परि वावर्तेत"
 
 +++
-यद्येककपालः स्कन्देत्परि वावर्तेत प्रजापतेर्वर्तनिमनुवर्तस्वानु वीरैरनुराध्याम गोभिः । अन्वश्वैरनु सर्वैरु पुष्टैरनु प्रजयान्विन्द्रियेण देवा नो यज्ञमृजुधा नयन्त्विति यथास्थानं कल्पयति १
+1. if a sacrificial bread on one potsherd falls out of the potsherd or turns about[^1] (the Adhvaryu) should keep it in its original place with prajāpater vartinam...[^2]  
+
+
+[^1]: According VI.30.1-2, this should not happen.  
+
+[^2]: TB III.7.10.2-3.  

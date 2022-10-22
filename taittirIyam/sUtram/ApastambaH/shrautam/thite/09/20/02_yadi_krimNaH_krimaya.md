@@ -2,4 +2,4 @@
 title = "02 यदि क्रिम्णः क्रिमय"
 
 +++
-यदि क्रिम्णः क्रिमय एनं भक्षयेयुः । पूर्ववत्प्रायश्चित्तम् २
+2. If the post is hollowed by worms, if worms may eat it, then (there should be) an expiation as above.

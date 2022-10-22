@@ -2,4 +2,7 @@
 title = "12 गर्भं स्रवन्तीमगदामकमाग्निर्होता पृथिव्यन्तरिक्षन्"
 
 +++
-गर्भं स्रवन्तीमगदामकमाग्निर्होता पृथिव्यन्तरिक्षं द्यौर्यतश्च्युतदग्नावेव तन्न तत्प्राप्नोति निरृतिं पराचैरिति पशूखां स्रवन्तीमभिमन्त्रयते १२
+12. If the pot (in which the limbs) of the victim (are going to be cooked) leaks, one should address it with garbhaṁ sravantīm...[^1] and then one should join it or take another pot.  
+
+
+[^1]: For the formula cp. IX.4.1.  

@@ -2,4 +2,4 @@
 title = "11 यस्य पुरोडाश उद्वा"
 
 +++
-यस्य पुरोडाश उद्वा पतेत्सं वा विजेत तमुद्वास्य बर्हिषदं कृत्वा किमुत्पतसि किमुत्प्रोष्ठाः शान्तः शान्तेरिहागहि । अघोरो यज्ञियो भूत्वासीद सदनं स्वमासीद सदनं स्वम् । मा हिंसीर्देव प्रेषित आज्येन तेजसाज्यस्व मा नः किञ्चन रीरिषः । योगक्षेमस्य शान्त्या अस्मिन्नासीद बर्हिषीत्येताभ्यामभिमन्त्रयेताभि च घारयेत् ११
+11. If a sacrificial bread (when kept on the potsherds) either jumps (goes away) or gets broken, having taken it away (from the potsherds) having kept it on the sacred grass, one should address it with these two (verses) kimutpatasi kimutproṣṭhāḥ... and (then) should pour ghee on it (with the same verses). 

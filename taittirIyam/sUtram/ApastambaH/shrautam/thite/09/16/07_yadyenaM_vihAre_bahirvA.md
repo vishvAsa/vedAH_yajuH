@@ -2,4 +2,9 @@
 title = "07 यद्येनं विहारे बहिर्वा"
 
 +++
-यद्येनं विहारे बहिर्वा भयं विन्देत्प्रजापतिर्विश्वकर्मा तस्य मनो देवं यज्ञेन राध्यासम् । अर्थेगा अस्य जहितोऽवसानपतेऽवसानं मे विन्देत्याहुतिं जुहुयात् ७
+7. If the sacrificer gets frightened[^1] either within the sacrificial place (Vihāra) or outside it, he should offer a libation (of ghee in the Āhavanīya) with prajapatir viśvakarmā...[^2]  
+
+
+[^1]: Cp. IX.12.8.  
+
+[^2]: TB III.7.9.7.  

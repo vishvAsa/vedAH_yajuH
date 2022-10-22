@@ -2,4 +2,7 @@
 title = "02 अथैकेषाम् पृषदाज्ये स्कन्ने"
 
 +++
-अथैकेषाम् । पृषदाज्ये स्कन्ने पृषदाज्युए पृषदाज्यमभिगृह्य मनो ज्योतिर्जुषतामित्याहुतिं जुहुयात् २
+2. Now according to some (ritualists), if the clotted ghee spills out, having poured some other clotted ghee in the (pot of the previous) clotted ghee one should make a libation (of the clotted ghee) with mano jyotir juṣatām...[^1]  
+
+
+[^1]: TS I.5.3.g.  
