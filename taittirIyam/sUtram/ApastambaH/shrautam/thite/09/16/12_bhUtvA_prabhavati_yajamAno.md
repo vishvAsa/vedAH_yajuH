@@ -2,4 +2,4 @@
 title = "12 भूत्वा प्रभवति यजमानो"
 
 +++
-भूत्वा प्रभवति यजमानो यस्यैतां यज्ञे प्रायश्चित्तिं कुर्वन्ति १२
+12. The sacrificer in whose sacrifice this expiation is done prospers after having become rich.

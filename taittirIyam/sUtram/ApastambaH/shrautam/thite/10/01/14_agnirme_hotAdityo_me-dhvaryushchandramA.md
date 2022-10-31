@@ -2,4 +2,4 @@
 title = "14 अग्निर्मे होतादित्यो मेऽध्वर्युश्चन्द्रमा"
 
 +++
-अग्निर्मे होतादित्यो मेऽध्वर्युश्चन्द्रमा मे ब्रह्मा पर्जन्यो म उद्गाताकाशो मे सदस्य आपो मे होत्राशंसिनो रश्मयो मे चमसाध्वर्यव इत्युपांशु देवतादेशनम् । असौ मानुष इत्युच्चैः १४
+14. agnirme hotādityo me' dhvaryu... the mention of the deity  should be made inaudibly. The words asau mānuṣaḥ should be added at the end of each of these formulae, the name particular person being uttered in the place of the word asau and it being pronounced loudly.  

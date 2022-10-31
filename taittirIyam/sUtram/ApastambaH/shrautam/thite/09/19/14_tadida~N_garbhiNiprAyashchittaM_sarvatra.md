@@ -2,4 +2,4 @@
 title = "14 तदिदङ् गर्भिणिप्रायश्चित्तं सर्वत्र"
 
 +++
-तदिदं गर्भिणिप्रायश्चित्तं सर्वत्र क्रियेतेत्याश्मरथ्यः । यत्रानाम्नातं तत्र क्रियेतेत्यालेखनः १४
+14. According to Āśmarathya, this expiation is to be performed in connection with every pregnant female victim; according to Ālekhana, it should be performed there where it is mentioned.

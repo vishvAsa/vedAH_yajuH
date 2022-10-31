@@ -2,4 +2,7 @@
 title = "10 ऊर्ध्व ऊ षु"
 
 +++
-ऊर्ध्व ऊ षु ण ऊतय इत्युच्छ्रयन्तमभिमन्त्रयते १०
+10. If the victim raises his fore-feet, one addresses it with ūrdhva uṣa ṇa ūtaye...[^1]  
+
+
+[^1]: TS IV.1.4.d. 

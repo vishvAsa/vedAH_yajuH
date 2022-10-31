@@ -2,4 +2,9 @@
 title = "15 यदि वपा हविरवदानं"
 
 +++
-यदि वपा हविरवदानं वा स्कन्देदा त्वा ददे यशसे वीर्याय चास्मास्वघ्निया यूयं दधायेन्द्रियं पय इत्यादाय यस्ते द्रप्सो यस्त उदर्षो दैव्यः केतुर्विश्वं भुवनमाविवेश । स नः पाह्यरिष्ट्यै स्वाहेत्याहुतिं जुहुयात् १५
+15. If the omentum or a portion (of the limbs of the victim) falls out (of the ladle), having taken it (back into the ladle) with a tvā dade yaśase viryāya...[^1] one should offer a libation (of ghee in the Āhavanīya with yaste drapso yasta udarṣaḥ....[^2]  
+
+
+[^1]: TB III.7.10.1.  
+
+[^2]: TB III.7.10.1-2.  

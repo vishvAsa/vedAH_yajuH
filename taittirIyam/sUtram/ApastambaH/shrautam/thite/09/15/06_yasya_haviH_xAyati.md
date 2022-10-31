@@ -2,4 +2,4 @@
 title = "06 यस्य हविः क्षायति"
 
 +++
-यस्य हविः क्षायति तं यज्ञं निरृतिर्गृह्णाति । तत्संस्थाप्यान्यद्धविस्तद्दैवतं निर्वपेत् ६
+6. Nirr̥ti takes, possession of one's sacrifice whose offering material gets burnt. Having caused that (ritual) to stand completely established (i.e. completed) (by means of the remaining offering-materials) he should perform an offering to the same deity to which the offering-material belongs.

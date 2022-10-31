@@ -2,4 +2,4 @@
 title = "09 यदि लोहिन्यो लेखाः"
 
 +++
-यदि लोहिन्यो लेखाः प्रसव्यं यूपं परिहरेयुर्न साहस्रं क्रतुमाहरिष्यतीति विद्यात् । श्वेताश्चेत्प्रदक्षिणं क्षिप्रं साहस्रं क्रतुमाहरिष्यतीति ९
+9. If there are red lines (on the stump of the tree) from right to left one should know that the sacrificer will not perform a sacrifice with one thousand cows as sacrificial gifts; if there are white lines (running on the stump of the tree) from left to right, (one should know that) soon the sacrificer will perform a sacrifice with one thousand cows as sacrificial gifts.

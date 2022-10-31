@@ -2,4 +2,4 @@
 title = "09 अध्वर्युम् प्रतिप्रस्थातारन् नेष्टारमुन्नेतारमित्यध्वर्यून्"
 
 +++
-अध्वर्युं प्रतिप्रस्थातारं नेष्टारमुन्नेतारमित्यध्वर्यून् । ब्रह्माणं ब्राह्मणाच्छंसिनमाग्नीध्रं पोतारमिति ब्रह्मणः । होतारं मैत्रावरुणमच्छावाकं ग्रावस्तुतमिति होतॄन् । उद्गातारं प्रस्तोतारं प्रतिहर्तारं सुब्रह्मण्यमित्युद्गातॄन् ९
+9. viz. Adhvaryu, Pratiprasthātr̥, Neṣṭr̥ and Unnetr̥ as Adhvaryus i.e. Adhvaryu and his associates; Brahman, Brāhmaṇā chaṁsin, Āgnīdhra and Potr̥ as the Brahmans i.e. the Brahman and his associates; Hotr̥, Maitrāvaruņa, Acchāvāka and Grāvastut as the Hotr̥s i.e. the Hotr̥ and his associates; Udgātr̥, Prastotr̥, and Subrahmaṇya as the Udgātr̥s i.e. Udgātr̥ and his associates.  

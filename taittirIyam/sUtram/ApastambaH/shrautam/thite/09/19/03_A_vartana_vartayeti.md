@@ -2,4 +2,10 @@
 title = "03 आ वर्तन वर्तयेति"
 
 +++
-आ वर्तन वर्तयेति प्रदक्षिणं गर्भमावृत्य वि ते भिनद्मि तकरीमित्युल्बमाछ्यति ३
+3. With āvartana vartaya...[^1] having turned around the foetus, with vi te bhinadmi takarīm...[^2] he cuts the womb.  
+
+
+[^1]: TS III.3.10.c.  
+
+
+[^2]: TS III.3.10.d.  

@@ -2,4 +2,4 @@
 title = "17 यदार्याणामभोजनीयं स्यान्न तेन"
 
 +++
-यदार्याणामभोजनीयं स्यान्न तेन यजेत १७
+17. One should not perform a sacrifice with something which is not worthy to be eaten by the Āryas.

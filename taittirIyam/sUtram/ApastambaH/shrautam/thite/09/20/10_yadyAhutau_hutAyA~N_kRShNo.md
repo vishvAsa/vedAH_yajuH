@@ -2,4 +2,7 @@
 title = "10 यद्याहुतौ हुतायाङ् कृष्णो"
 
 +++
-यद्याहुतौ हुतायां कृष्णो धूमो दक्षिणां दिशमभिनिहन्याद्वातो वा प्रसव्यं धूममावेष्टयेद्यजमानो म्रियेत । सर्वप्रायश्चित्तं जुहुयाज्जुहुयात् १०
+10. After a libation is offered, if black smoke will strike the southern direction or if wind will envelope the smoke from right to the left, the sacrificer will die. In that case one should offer the all-expiation-libation.[^1]  
+
+
+[^1]: For this see IX.1.11.

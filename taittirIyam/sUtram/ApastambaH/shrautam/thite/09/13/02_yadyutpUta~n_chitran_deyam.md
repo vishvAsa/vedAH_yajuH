@@ -2,4 +2,4 @@
 title = "02 यद्युत्पूतञ् चित्रन् देयम्"
 
 +++
-यद्युत्पूतं चित्रं देयम् २
+2. If the ghee spills out after it has been purified, a shining thing should be given.

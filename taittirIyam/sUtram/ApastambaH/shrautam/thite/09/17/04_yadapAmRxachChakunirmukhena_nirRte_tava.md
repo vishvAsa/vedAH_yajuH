@@ -2,4 +2,11 @@
 title = "04 यदपामृक्षच्छकुनिर्मुखेन निरृते तव"
 
 +++
-यदपामृक्षच्छकुनिर्मुखेन निरृते तव । अग्निष्टत्सर्वं शुन्धतु हव्यवाड् घृतसूदन इति कृष्णशकुन्यवमृष्टमभिमन्त्रयते । अभ्यवहरणादि पूर्ववत् । निर्लिख्यतेऽत्र पात्रम् ४
+4. One should address (the clotted ghee) touched by a black bird with yadapāmr̥kṣat...[^1] The act of throwing (into the water) etc. should be done as (described) earlier.[^2] The pot is scrubbed in this case[^3] (and used again).  
+
+
+[^1]: KS XXXV.4.  
+
+[^2]: See Sutra 1.  
+
+[^3]: Cf. TS III.2.6.2-3.  

@@ -2,4 +2,9 @@
 title = "03 तम् पृच्छति क"
 
 +++
-तं पृच्छति क ऋत्विजः के याजयन्ति कच्चिन्नाहीनः कच्चिन्न न्यस्तमार्त्विज्यं कच्चित्कल्याण्यो दक्षिणा इति छन्दोगब्राह्मणं भवति ३
+3. (One who has been invited to work as a priest) asks him, "Who are the priests? Who make the sacrificer perform the Soma-sacrifice? Is it by any chance a sacrifice abandoned by other pirests[^1] Is the priest-hood by any chance denied by other priests? Are the gifts (the cows) auspicious?"—this is said in Brāhmaṇa-text of the Sāmaveda.[^2]  
+
+
+[^1]: nāhīnaḥ is to be read as na hīnaḥ. The a in na seems to have been lengthened stylistically. Therefore I read kaccina hīnaḥ.  
+
+[^2]: Not known.  

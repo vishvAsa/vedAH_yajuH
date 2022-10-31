@@ -2,4 +2,4 @@
 title = "07 पशुपुरोडाशेन प्रचर्य गर्भपुरोडाशेन"
 
 +++
-पशुपुरोडाशेन प्रचर्य गर्भपुरोडाशेन प्रचरति भक्तीद्यावापृथिव्येनेति ७
+7. Having performed the ritual of the animal-sacrificial bread, he performs, the ritual of the embryo-bread for Bhakti and Dyāvāpr̥thivī.

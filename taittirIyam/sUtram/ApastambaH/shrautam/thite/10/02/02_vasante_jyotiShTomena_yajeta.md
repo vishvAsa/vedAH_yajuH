@@ -2,4 +2,4 @@
 title = "02 वसन्ते ज्योतिष्टोमेन यजेत"
 
 +++
-वसन्ते ज्योतिष्टोमेन यजेत २
+2. One should perform the Jyotiṣṭoma in spring. 

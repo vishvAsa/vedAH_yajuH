@@ -2,4 +2,7 @@
 title = "21 यद्यादिष्टान् दक्षिणामन्तरियादुर्वरा प्रतिष्ठिता"
 
 +++
-यद्यादिष्टां दक्षिणामन्तरियादुर्वरा प्रतिष्ठिता देया । सा प्रायश्चित्तिः २१
+21. If one does not give the promised sacrificial gift, then one should give a well-established (i.e. defectless) fertile land as a gift. That is the expiation[^1]  
+
+
+[^1]: For Sūtras 2-21 cp..MS.I.4.12.  

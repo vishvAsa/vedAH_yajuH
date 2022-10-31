@@ -2,4 +2,7 @@
 title = "11 अथैनमनुव्याहरन्ति मन उपावधीर्मनस्त्वा"
 
 +++
-अथैनमनुव्याहरन्ति । मन उपावधीर्मनस्त्वा हास्यतीति ब्रह्मा । वाचमुपावधीर्वाक्त्वा हास्यतीति होता । प्राणमुपावधीः प्राणस्त्वा हास्यतीत्यध्वर्युः । चक्षुरुपावधीश्चक्षुस्त्वा हास्यतीत्युद्गाता । आत्मानमुपावधीरात्मा त्वा हास्यतीति सदस्यः । प्रजातिमुपावधीः प्रजा त्वा हास्यतीति यजमानः । अङ्गान्युपावधीरङ्गानि त्वा हास्यन्तीति होत्रकाः । भूतान्युपावधीर्भूतानि त्वा हास्यन्तीति सर्व ऋत्विजः ११
+11. Then (the priests etc. also) curse the king. Thus the Brahman curses with mana upāvadhiḥ, ...; the Hotr̥ curses him with vācamupāvadhīḥ...; the Adhvaryu curses him with prāņamupāvadhiḥ...; the Udgātr̥ curses him with cakṣurupāvadhīḥ; the Sadasya curses him with ātmānamupāvadhīḥ...: the sacrificer curses him with prajāpatimupāvadhīḥ...; the hotrakas curse him with aṅgānyupāvadhīḥ...; all the priests curses him with bhūtānyupāvadhīḥ...[^1]   
+
+
+[^1]: All this is found to be given only by Āpastamba and Satyāṣāḍha.

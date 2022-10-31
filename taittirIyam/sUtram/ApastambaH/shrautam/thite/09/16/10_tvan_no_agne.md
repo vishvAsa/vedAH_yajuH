@@ -2,4 +2,9 @@
 title = "10 त्वन् नो अग्ने"
 
 +++
-त्वं नो अग्ने स त्वं नो अग्न इति सर्वत्रान्तरये विपर्यासे चैते आहुती जुहोतीत्येके १०
+10. According to some ritualists in all the cases of omission or exchange these libations of ghee should be offered with tvaṁ no agne...[^1] and sa vaṁ no agne...[^2]   
+
+
+[^1]: TB III.7.11.3.  
+
+[^2]: TB III.7.11.3   

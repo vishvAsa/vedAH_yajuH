@@ -2,4 +2,4 @@
 title = "14 यस्य सर्वाणि हवींषि"
 
 +++
-यस्य सर्वाणि हवींषि नश्येयुर्दुष्येयुरपहरेयुर्वाज्येनैता देवताः प्रतिसङ्ख्याय यजेत १४
+14. One whose all offering-materials get burnt or are defiled or are stolen should offer ghee to these deities (i.e. the deities of those offering-materials) after having counted them.
