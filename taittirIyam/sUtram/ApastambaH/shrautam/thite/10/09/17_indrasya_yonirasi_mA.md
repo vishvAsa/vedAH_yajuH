@@ -2,4 +2,9 @@
 title = "17 इन्द्रस्य योनिरसि मा"
 
 +++
-इन्द्रस्य योनिरसि मा मा हिंसीरिति कृष्णविषाणां यजमानाय प्रयच्छति १७
+17. With indrasya yonirasi...[^1] he gives the horn of black antelope to the sacrificer.[^2]  
+
+
+[^1]: TS I.2.1.i.  
+
+[^2]: Cf. TS VI.1.3.6.  

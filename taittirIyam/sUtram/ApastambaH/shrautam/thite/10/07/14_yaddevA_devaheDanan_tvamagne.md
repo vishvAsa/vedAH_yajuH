@@ -2,4 +2,7 @@
 title = "14 यद्देवा देवहेडनन् त्वमग्ने"
 
 +++
-यद्देवा देवहेडनं त्वमग्ने अयासीति च पूतः १४
+14. And when he becomes purified (he mutters) yaddevā devaheḍanam...[^1]  
+
+
+[^1]: TB III.7.12.1ff.

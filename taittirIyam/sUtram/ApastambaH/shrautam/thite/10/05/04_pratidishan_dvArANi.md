@@ -2,4 +2,4 @@
 title = "04 प्रतिदिशन् द्वाराणि"
 
 +++
-प्रतिदिशं द्वाराणि ४
+4. (There should be) doors towards every direction.

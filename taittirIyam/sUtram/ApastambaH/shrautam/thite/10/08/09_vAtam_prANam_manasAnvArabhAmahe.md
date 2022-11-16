@@ -2,4 +2,7 @@
 title = "09 वातम् प्राणम् मनसान्वारभामहे"
 
 +++
-वातं प्राणं मनसान्वारभामहे प्रजापतिं यो भुवनस्य गोपाः । स नो मृत्योस्त्रायतां पात्वंहसो ज्योग्जीवा जरामशीमहीति पूर्णाहुतिं हूयमानामनुमन्त्रयते ९
+9. When the full libation is being offered (the sacrificer) should follow it with vātaṁ prāņṁ manasānvārabhāmahe...[^1]  
+
+
+[^1]: TB III.7.7.2-3.

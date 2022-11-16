@@ -2,4 +2,11 @@
 title = "08 स्वे दक्षे दक्षपितेह"
 
 +++
-स्वे दक्षे दक्षपितेह सीद देवानां सुम्नो महते रणाय । स्वासस्थस्तनुवा संविशस्व पितेवैधि सूनव आ सुशेवः । शिवो मा शिवमाविश सत्यं म आत्मा श्रद्धा मेऽक्षितिस्तपो मे प्रतिष्ठा । सवितृप्रसूता मा दिशो दीक्षयन्तु सत्यमस्मीति पुरस्ताद्दीक्षणीयाया आहवनीयं यजमान उपतिष्ठते । सप्तहोतारं मनसानुद्रुत्याहवनीये सग्रहं हुत्वा ८
+8. Before the Dīkṣaṇīyā-offering, the sacrificer stands near the Āhavanīya-fire with sve dakṣe dakṣapiteha....[^1] Having mentally gone through the Saptahotr̥-formula,[^2] having offered (a ghee)-libation with the second part of the same formula called Graha,[^3]   
+
+
+[^1]: TB III.7.7.9.10.  
+
+[^2]: TĀ II.5.  
+
+[^3]: Cf. TB IV.2.2.5. The sentence is incomplete. See the next Sūtra.  
