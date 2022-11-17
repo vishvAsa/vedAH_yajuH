@@ -2,4 +2,4 @@
 title = "14 औदुम्बरेण दतो धावते"
 
 +++
-औदुम्बरेण दतो धावते लोहितमनभिगमयन् १४
+14. He should clean his teeth with a (twig) of Udumbara not causing any blood to come out (of the teeth).

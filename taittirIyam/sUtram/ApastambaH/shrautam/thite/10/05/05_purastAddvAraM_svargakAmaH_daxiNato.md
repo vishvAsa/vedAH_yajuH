@@ -2,4 +2,7 @@
 title = "05 पुरस्ताद्द्वारं स्वर्गकामः दक्षिणतो"
 
 +++
-पुरस्ताद्द्वारं स्वर्गकामः । दक्षिणतो यः कामयेत पितृलोक ऋध्रुयामिति । पश्चान्मनुष्यलोककामः । उत्तरतो यः कामयेत देवलोक ऋध्नुयामिति । उत्तरतः पुरस्ताद्यः कामयेतोभयोर्लोकयोरृध्नुयामिति । सर्वतो यः कामयेत सर्वासु दिक्ष्वृध्नुयामिति ५
+5. (A sacrificer) desirous of heaven (should have) a door (only towards) the east; one who desires, “May I prosper in the world of ancestors...."[^1] to the south; one desirous of the world of human beings... to the west; one who desires, “May I prosper in the world of gods..." to the north; one who desires, “May I prosper in both the worlds..." to the north-east; One who desires, “May I prosper in all the directions..." in all the directions.[^1]   
+
+
+[^1]: Cp. MS III.6.1.  

@@ -2,4 +2,7 @@
 title = "02 अपि वा न"
 
 +++
-अपि वा न देवयजनं याचेत् । देवता एवोपतिष्ठेत सक्षेदं पश्य विधर्तरिदं पश्य नाकेदं पश्य । रमतिः पनिष्ठर्तं वर्षिष्ठममृता यान्याहुः सूर्यो वरिष्ठो अक्षभिर्विभात्यनु द्यावापृथिवी देवपुत्रे इति २
+2. Or, rather, he should not beg the place of sacrifice. He should only stand while praising the deities with sakṣedam paśya....[^1]   
+
+
+[^1]: TB III.7.7.1.  

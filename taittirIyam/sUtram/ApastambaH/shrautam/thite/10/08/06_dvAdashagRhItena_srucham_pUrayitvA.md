@@ -2,4 +2,9 @@
 title = "06 द्वादशगृहीतेन स्रुचम् पूरयित्वा"
 
 +++
-द्वादशगृहीतेन स्रुचं पूरयित्वा विश्वे देवस्य नेतुरिति पूर्णाहुतिं षष्ठीम् ६
+6. Having filled the (Juhū-) ladle by means of twelve times scooped (ghee) he offers the sixth as a full libation[^1] with viśve devasya netuḥ...[^2]  
+
+
+[^1]: Cf. TS VI.1.2.7.  
+
+[^2]: TS 1.2.2.c.

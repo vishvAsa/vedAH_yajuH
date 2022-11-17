@@ -2,4 +2,4 @@
 title = "02 एष एवात ऊर्ध्वं"
 
 +++
-एष एवात ऊर्ध्वं यजमानस्य सञ्चरो भवति २
+2. From now onwards this is the passage for the sacrificer.

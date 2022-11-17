@@ -2,4 +2,4 @@
 title = "09 एवमुत्तरङ् गोदानम्"
 
 +++
-एवमुत्तरं गोदानम् ९
+9. He does the same in connection with the hair near the left ear.

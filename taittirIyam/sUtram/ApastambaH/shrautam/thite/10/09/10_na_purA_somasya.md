@@ -2,4 +2,7 @@
 title = "10 न पुरा सोमस्य"
 
 +++
-न पुरा सोमस्य क्रयादपोर्ण्वीतेत्युक्तम् १०
+10. It has been said (in a Brāhmaṇa-text)[^1] “(The sacrificer) should not uncover (his head) before the (ritual of the) purchase of the Soma (-plant) (is performed)".  
+
+
+[^1]: TS VI.1.3.2-3.

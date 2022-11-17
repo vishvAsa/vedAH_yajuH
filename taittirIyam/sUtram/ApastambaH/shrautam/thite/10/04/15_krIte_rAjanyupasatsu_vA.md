@@ -2,4 +2,4 @@
 title = "15 क्रीते राजन्युपसत्सु वा"
 
 +++
-क्रीते राजन्युपसत्सु वा १५
+15. or during the Upasad days after the (Soma-) king is purchased.

@@ -2,4 +2,4 @@
 title = "07 उपपक्षावग्रेऽथ श्मश्रूण्यथ केशान्"
 
 +++
-उपपक्षावग्रेऽथ श्मश्रूण्यथ केशान् । अपि वा श्मश्रूण्युपपक्षावथ केशान् ७
+7. first the hair in the armpits, then the beard, and then the hair on the head; or rather (first) beard, then the hair in the armpits and then the hair on the head.

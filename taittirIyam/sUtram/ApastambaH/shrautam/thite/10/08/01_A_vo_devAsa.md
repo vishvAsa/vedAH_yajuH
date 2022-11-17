@@ -2,4 +2,13 @@
 title = "01 आ वो देवास"
 
 +++
-आ वो देवास ईमह इति पूर्वया द्वारा प्राग्वंशं प्रविश्येन्द्राग्नी द्यावापृथिवी इत्यपरेणाहवनीयं दक्षिणातिक्रम्य त्वं दीक्षाणामधिपतिरसीत्याहवनीयमुपोपविशति १
+1. With ā vo devāsa īmahe[^1]... having entered into the Prāgavaṁśa through the eastern door, with indrāgnī dyāvā-pr̥thivī...[^2] having stepped beyond towards the south west of the Āhavanīya fire, with tvaṁ dikṣāṇāmadhipatirasi...[^3] (the sacrificer) sits near the Āhavanīya.  
+
+
+[^1]: TS 1.2.1.m.  
+
+
+[^2]: TS 1.2.1.0   
+
+
+[^3]: TS 1.2.1.9  

@@ -2,4 +2,9 @@
 title = "07 एकविंशत्या त्रेधा विभक्तया"
 
 +++
-एकविंशत्या त्रेधा विभक्तया सप्तभिःसप्तभिर्द्विरूर्ध्वं नाभेरुन्मार्ष्टि । सकृदवाक् ७
+7. He should purify him by means of twenty-one bunches of Darbha-grass,[^1] divided into three (groups of) seven bunches each-twice above the navel upwards and once (below the navel) downwards.[^2]  
+
+
+[^1]: Cf. SB III.1.3.22.  
+
+[^2]: MS III.6.3.

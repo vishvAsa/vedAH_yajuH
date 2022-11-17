@@ -2,4 +2,9 @@
 title = "01 इन्द्र शाक्वर गायत्रीम्"
 
 +++
-इन्द्र शाक्वर गायत्रीं प्रपद्ये तां ते युनज्मीन्द्र शाक्वर त्रिष्टुभं प्रपद्ये तां ते युनज्मीन्द्र शाक्वर जनतीं प्रपद्ये तां ते युनज्मीन्द्र शाक्वरानुष्टुभं प्रपद्ये तां ते युनज्मीन्द्र शाक्वर पङ्क्तिं प्रपद्ये तां ते युनज्मीत्येतैः प्रतिमन्त्रं प्रतिदिशं कृष्णाजिनममिमृशति । मध्य उत्तमेन १
+1. (The sacrificer) touches the skin in each direction[^1] with one of the formulae beginning with indra śākvara[^2] and touches it in the middle with the last formula.  
+
+
+[^1]: East, south, west and north.  
+
+[^2]: TB III.7.7.3-4.  

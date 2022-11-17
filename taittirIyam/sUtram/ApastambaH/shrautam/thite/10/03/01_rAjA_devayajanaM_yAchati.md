@@ -2,4 +2,7 @@
 title = "01 राजा देवयजनं याचति"
 
 +++
-राजा देवयजनं याचति । अग्निर्होता स मे होता होतर्देवयजनं मे देहीति होतारम् । आदित्योऽध्वर्युः स मेऽध्वर्युरध्वर्यो देवयजनं मे देहीत्यध्वर्युम् । चन्द्रमा ब्रह्मा स मे ब्रह्मा ब्रह्मन्देवयजनं मे देहीति ब्रह्माणम् । पर्जन्य उद्गाता स म उद्गातोद्गातर्देवयजनं मे देहीत्युद्गातारम् । आकाशः सदस्यः स मे सदस्यः सदस्य देवयजनं मे देहीति सदस्यम् । आपो होत्राशंसिनस्ते मे होत्राशंसिनो होत्राशंसिनो देवयजनं मे दत्तेति होत्रकान् । रश्मयश्चमसाध्वर्यवस्ते मे चमसाध्वर्यवश्चमसाध्वर्यवो देवयजनं मे दत्तेति चमसाध्वर्यून् १
+1. The king begs (of the priests) the place of sacrifice. Thus with agnirhota ... of the Hotr̥, with ādityo'dhvaryuḥ... of the Adhvaryu; with candramā brahmā ... of the Brahman; with parjanya udgātā... of the Udgātr̥; ākāśaḥ sadasyaḥ... Of the Sadasya; āpo hotrāśaṁsinaḥ... of the Hotrakas; with raśmayaścamasādhvaryavaḥ... of the Camasādhvaryus.[^1]  
+
+
+[^1]: Cp. ŚaḍB II. 10.8-9.
