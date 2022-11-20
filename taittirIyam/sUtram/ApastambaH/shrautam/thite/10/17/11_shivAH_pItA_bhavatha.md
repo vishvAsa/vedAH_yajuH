@@ -2,4 +2,4 @@
 title = "11 शिवाः पीता भवथ"
 
 +++
-शिवाः पीता भवथ यूयमापोऽस्माकं योनावुदरे सुशेवाः । इरावतीरनमीवा अनागसः शिवा नो भवथ जीवस इति व्रतयित्वा नाभिदेशमभिमृशते ११
+11. After having drunk the fast-milk, (the sacrificer) touches himself near the navel with śivāḥ pītā bhavatha...

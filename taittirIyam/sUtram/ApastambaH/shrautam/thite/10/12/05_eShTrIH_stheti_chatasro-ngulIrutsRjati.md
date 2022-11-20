@@ -2,4 +2,4 @@
 title = "05 एष्ट्रीः स्थेति चतस्रोऽङ्गुलीरुत्सृजति"
 
 +++
-एष्ट्रीः स्थेति चतस्रोऽङ्गुलीरुत्सृजति । द्वे अन्यतरतो द्वे अन्यतरतः ५
+5. With estrih stha... he opens the four fingers: two (the little finger and the ring finger) of one hand (and the same) two of the other.

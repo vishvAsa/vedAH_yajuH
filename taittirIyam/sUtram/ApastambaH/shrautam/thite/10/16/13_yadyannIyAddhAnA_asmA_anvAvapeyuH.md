@@ -2,4 +2,4 @@
 title = "13 यद्यन्नीयाद्धाना अस्मा अन्वावपेयुः"
 
 +++
-यद्यन्नीयाद्धाना अस्मा अन्वावपेयुः सक्तूनस्मा अन्वावपेयुर्घृतमस्मा अन्वानयेयुः १३
+13. If he desires to eat food (the assistants) should put parched barley-grains or the flour of parched barley-grains, in (the fast-milk) or should procure ghee for him.

@@ -2,4 +2,4 @@
 title = "10 न स्त्रिया न"
 
 +++
-न स्त्रिया न शूद्रेण सम्भाषेत १०
+10. He should not have a conversation with a woman or a Śūdra.

@@ -2,4 +2,4 @@
 title = "13 तूष्णीम् पत्नी स्व"
 
 +++
-तूष्णीं पत्नी स्व आयतने व्रतयति १३
+13. The wife of the sacrificer drinks (the fast-milk) silently (without any formula) in her own place.

@@ -2,4 +2,4 @@
 title = "03 एतद्वा विपरीतम्"
 
 +++
-एतद्वा विपरीतम् ३
+3. Or this should be in the reverse manner.

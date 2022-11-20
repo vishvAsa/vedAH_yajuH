@@ -2,4 +2,4 @@
 title = "07 तद्धैतदेके पयो व्रतयन्ति"
 
 +++
-तद्धैतदेके पयो व्रतयन्ति । तदु तथा न कुर्यात् । पयस्येव यवागूं श्रपयित्वा व्रतयेत् ७
+7. There are some who take only milk as the fast-food but one should not do this. Having cooked gruel in milk one should take it as the fast-food.

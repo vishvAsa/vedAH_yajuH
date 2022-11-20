@@ -2,4 +2,4 @@
 title = "02 अमावास्यायान् दीक्षा यजनीये"
 
 +++
-अमावास्यायां दीक्षा यजनीये वा । पौर्णमास्यां यजनीये वा सुत्यमहः २
+2. The Dikşā(consecration) (should-take place) either the new-moon-day or on any (other day) worthy for sacrifice. On the full-moon-day, or on any (other day) worthy for a sacrifice the soma-pressing day should take place.

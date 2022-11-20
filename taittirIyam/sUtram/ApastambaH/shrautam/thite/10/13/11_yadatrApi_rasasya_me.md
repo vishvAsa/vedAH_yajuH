@@ -2,4 +2,7 @@
 title = "11 यदत्रापि रसस्य मे"
 
 +++
-यदत्रापि रसस्य मे निरष्ठविषमस्मृतम् । अग्निष्टत्सोमः पृथिवी पुनरात्मन्दधातु म इति छर्दित्वा ष्ठुत्वा वा । यदन्नमद्य ते नक्तं न तत्प्रातः क्षुधोऽवति । मरं तदस्मान्मा हिंसीर्नहि तद्ददृशे दिवेति स्वप्नेऽन्नं भुक्त्वा । रुद्रियाभ्योऽद्भ्यः स्वाहेति लोहितमुत्पतितं दृष्ट्वा ११
+11. After having urinated or spat (he should recite) yadatrāpi rasasya me...[^1] Having eaten food in the dream (he should recite) yadannamadya te naktam.... Having seen blood which has gushed out (one should recite) rudriyābhyodbhyaḥ svāhā.  
+
+
+[^1]: Cp. GB I.2.7.

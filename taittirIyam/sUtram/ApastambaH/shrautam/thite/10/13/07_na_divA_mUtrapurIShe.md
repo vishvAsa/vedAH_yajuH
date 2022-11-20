@@ -2,4 +2,4 @@
 title = "07 न दिवा मूत्रपुरीषे"
 
 +++
-न दिवा मूत्रपुरीषे कुर्यात् ७
+7. He should not pass urine or excrements during the day time;

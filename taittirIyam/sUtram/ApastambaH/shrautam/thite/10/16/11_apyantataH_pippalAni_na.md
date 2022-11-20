@@ -2,4 +2,4 @@
 title = "11 अप्यन्ततः पिप्पलानि न"
 
 +++
-अप्यन्ततः पिप्पलानि । न त्वेव न व्रतयेदग्निहोत्रस्याविच्छेदायेति ११
+11. As the last alternative, one should take berries. (In any case) it should not happen (that the consecrated sacrificer) does not take any thing as the fast-food, so that the Agnihotra will not be discontinued.
