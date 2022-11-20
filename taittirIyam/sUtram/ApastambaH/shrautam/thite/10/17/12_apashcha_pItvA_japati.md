@@ -2,4 +2,4 @@
 title = "12 अपश्च पीत्वा जपति"
 
 +++
-अपश्च पीत्वा जपति १२
+12. And after having drunk water he mutters (the same verse).

@@ -2,4 +2,4 @@
 title = "13 कामं शूद्रेण सम्भाषेत"
 
 +++
-कामं शूद्रेण सम्भाषेत यः पापेन कर्मणानभिलक्षितः स्यादिति शाट्यायनकम् १३
+13. According to Śaṭyānaka, he should at will converse with a Śūdra who is not characterised by any evil activity.

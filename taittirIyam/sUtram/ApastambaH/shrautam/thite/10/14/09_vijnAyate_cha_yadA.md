@@ -2,4 +2,7 @@
 title = "09 विज्ञायते च यदा"
 
 +++
-विज्ञायते च । यदा वै दीक्षितः कृशो भवत्यथ मेध्यो भवति । यदास्मिन्नन्तर्न किञ्चन भवत्यथ मेध्यो भवति । यदास्य त्वचास्थि सन्धीयतेऽथ मेध्यो भवति । यदास्य कृष्णं चक्षुषोर्नश्यत्यथ मेध्यो भवति ९
+9. And it is known (from a sacred text): “When the consecrated (sacrificer) becomes lean, he becomes worthy or performing a sacrifice; when there is nothing in his inside, then he becomes worthy of performing a sacrifice; when his bone becomes stuck to his skin, then he becomes worthy of performing a sacrifice; when the black of his eye is lost, (i.e. when the pupil cannot be seen), then he becomes worthy of performing a sacrifice."[^1]  
+
+
+[^1]: Cp. MS III.6.6.  

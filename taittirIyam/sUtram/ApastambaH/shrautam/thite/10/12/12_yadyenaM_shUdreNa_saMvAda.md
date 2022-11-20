@@ -2,4 +2,7 @@
 title = "12 यद्येनं शूद्रेण संवाद"
 
 +++
-यद्येनं शूद्रेण संवाद उपपद्येत ब्राह्मणराजन्यवैश्यानामेकं ब्रूयादिममित्थं ब्रूहीति वाससनेयकम् १२
+12. According to Vājasaneyins, if a conversation with a Śūdra becomes necessary, he (the sacrificer) should as Brāhmaṇa or Kṣatriya or a Vaiśya: "Tell him thus.”[^1]  
+
+
+[^1]: Cf. ŚB III.1.1.10.

@@ -2,4 +2,4 @@
 title = "09 परिणयेन मानुषीं वाचं"
 
 +++
-परिणयेन मानुषीं वाचं वदति ९
+9. He speaks (even) the ordinary speech (also) politely.

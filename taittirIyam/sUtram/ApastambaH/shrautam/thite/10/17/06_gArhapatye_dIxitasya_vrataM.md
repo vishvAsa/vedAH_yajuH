@@ -2,4 +2,4 @@
 title = "06 गार्हपत्ये दीक्षितस्य व्रतं"
 
 +++
-गार्हपत्ये दीक्षितस्य व्रतं श्रपयति । दक्षिणाग्नौ पत्न्याः ६
+6. (The assistant) cooks the fast-milk for the consecrated on the Gārhapatya-fire; (and that) for the wife of the sacrificer on the Dakṣiṇa-fire.

@@ -2,4 +2,7 @@
 title = "07 देवः सविता वसोर्वसुदावेत्यन्यानि"
 
 +++
-देवः सविता वसोर्वसुदावेत्यन्यानि ७
+7. He accepts the other (materials) with devaḥ savitā....[^1]  
+
+
+[^1]: TS I.2.3.e, f, g.

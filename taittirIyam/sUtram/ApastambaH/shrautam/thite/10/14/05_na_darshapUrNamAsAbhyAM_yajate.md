@@ -2,4 +2,7 @@
 title = "05 न दर्शपूर्णमासाभ्यां यजते"
 
 +++
-न दर्शपूर्णमासाभ्यां यजते ५
+5. He does not perform the New and Full-moon-offerings.[^1]  
+
+
+[^1]: Cf. MS III.6.6. 

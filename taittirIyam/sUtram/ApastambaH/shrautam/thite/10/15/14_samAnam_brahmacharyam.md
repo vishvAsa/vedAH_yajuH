@@ -2,4 +2,4 @@
 title = "14 समानम् ब्रह्मचर्यम्"
 
 +++
-समानं ब्रह्मचर्यम् १४
+14. The rules regarding continance are comman (to both).

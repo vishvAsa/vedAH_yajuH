@@ -2,4 +2,7 @@
 title = "16 अपराह्णेऽधिवृक्षसूर्ये वा व्रतप्रदो"
 
 +++
-अपराह्णेऽधिवृक्षसूर्ये वा व्रतप्रदो वाचं यमयति । अग्नीञ्ज्योतिष्मतः कुरुत दीक्षित वाचं यच्छ पत्नि वाचं यच्छेति सम्प्रेष्यति १६
+16. In the afternoon or when the sun is on the top of the trees the (assistant) who gives the fast-food (to the consecrated) causes him to restrain his (=consecrated) speech. He gives the call with these words: “Do you make the fires full of flames; O consecrated! restrain the speech; O wife (of the consecrated)! restrain your speech.”[^1]
+
+
+[^1]: Cp. ŚB III.2.2.26.

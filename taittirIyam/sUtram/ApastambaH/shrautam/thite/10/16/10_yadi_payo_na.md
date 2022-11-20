@@ -2,4 +2,6 @@
 title = "10 यदि पयो न"
 
 +++
-यदि पयो न स्यादप्स्वेव यवागूं श्रपयित्वा व्रतयेत् १०
+10. If milk is not available, having cooked the gruel, in water only one should use it as the fast-food.[^1]  
+
+[^1]: Cp. ŚB III.2.2.14.

@@ -2,4 +2,7 @@
 title = "02 न चास्य नाम"
 
 +++
-न चास्य नाम गृह्णीयात् २
+2. And no one should utter his name.[^1]  
+
+
+[^1]: Cp. KS XXIII.6.  

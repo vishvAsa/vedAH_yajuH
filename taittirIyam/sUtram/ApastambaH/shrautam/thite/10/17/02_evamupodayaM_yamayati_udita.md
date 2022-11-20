@@ -2,4 +2,4 @@
 title = "02 एवमुपोदयं यमयति उदित"
 
 +++
-एवमुपोदयं यमयति । उदित आदित्ये विसृजते २
+2. In the same manner (the assistant) makes (the sacrificer) restrain (his speech) at the time of the sun-rise. After the sun has risen (the sacrificer) should release his speech.

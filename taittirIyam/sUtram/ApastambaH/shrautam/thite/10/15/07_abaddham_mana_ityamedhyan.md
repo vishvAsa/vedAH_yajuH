@@ -2,4 +2,7 @@
 title = "07 अबद्धम् मन इत्यमेध्यन्"
 
 +++
-अबद्धं मन इत्यमेध्यं दृष्ट्वा जपति ७
+7. Having seen anything unworthy of sacrifice, he mutters abaddhaṁ manaḥ....[^1]  
+
+
+[^1]: TS III.1.1.2.  

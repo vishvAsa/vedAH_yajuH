@@ -2,4 +2,4 @@
 title = "11 नैनमनुप्रपद्येत"
 
 +++
-नैनमनुप्रपद्येत ११
+11. He should not go after him (a Śūdra).

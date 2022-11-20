@@ -2,4 +2,6 @@
 title = "07 न पचते"
 
 +++
-न पचते ७
+7. does not cook food.[^1]
+
+[^1]: Cf. MS III.6.5.
