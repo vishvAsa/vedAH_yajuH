@@ -232,113 +232,191 @@ these are to be produced', they say.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व॒थ्सञ् चो॑पावसृ॒जति॑  ।  
+उ॒खाञ् चाधि॑ श्रय॒ति ।
+अव॑ च॒ हन्ति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+He lets the calf go free and puts the pot on the fire: 
 </details>
 
 <details><summary>मूलम्</summary>
 
 व॒थ्सञ्चो॑पावसृ॒जति॑  ।  
+उ॒खाञ्चाधि॑ श्रय॒ति ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
 3अथ तानि दर्शयति - वत्सं चेत्यादि ॥ एतैः क्रियाविशेषैः द्वन्द्वानि सम्पद्यन्ते; तेन द्वन्द्वबहुत्वेपि द्वन्द्वसम्पादनक्रियापेक्षं द्वादशत्वं वेदितव्यम् । वत्समुपावसृजति मातृसकाशं प्रापयाति । अनेनोपावसर्जनेन मातृवत्सयोः द्वन्द्वभावस्सम्पद्यते । एवं सर्वत्र  द्रष्टव्यम् । एतानि याजमानप्रकरणगतान्यपि अध्वर्युणैव कर्तव्यानि । उक्तं च - 'याजमाने समाख्यानात्कर्मणि याजमानं स्युः' इत्यत्र ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-उ॒खाञ्चाधि॑ श्रय॒ति ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-उ॒खाञ्चाधि॑ श्रय॒ति ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
 
 उखामधिश्रयति, अङ्गारेषु कुम्भीं स्थापयति ।
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव॑ च॒ हन्ति॑ ।
+दृ॒षदौ॑ च स॒माह॒न्ति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 अव॑ च॒ हन्ति॑ ।
+दृ॒षदौ॑ च स॒माह॒न्ति ।  
 </details>
+
+<details><summary>Keith</summary>
+
+he puts down (the rice), and beats the millstones together; 
+</details>
+
 
 <details><summary>भट्टभास्करटीका</summary>
 
-अवहन्ति व्रीहीनुलूखले ।
+अवहन्ति व्रीहीनुलूखले ।  
+दृषदौ च समाहन्ति शम्यया ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दृ॒षदौ॑ च स॒माह॒न्ति ।  
 अधि॑ च॒ वप॑ते ।  
 क॒पाला॑नि॒ चोप॑ दधाति ।  
-पुरो॒डाश॑ञ्च [31] अ॒धि॒श्रय॑ति।  
-आज्य॑ञ्च  +++(अधिश्रयति)+++  ।  
-स्तम्बय॒जुश्च॒ हर॑ति ।
 </details>
+
+<details><summary>Keith</summary>
+
+he scatters (the grains) and collects the potsherds; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-दृ॒षदौ॑ च स॒माह॒न्ति ।  
 अधि॑ च॒ वप॑ते ।  
 क॒पाला॑नि॒ चोप॑ दधाति ।  
-पुरो॒डाश॑ञ्च [31] अ॒धि॒श्रय॑ति।  
-आज्य॑ञ्च  +++(अधिश्रयति)+++  ।  
-स्तम्बय॒जुश्च॒ हर॑ति ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-दृषदौ च समाहन्ति शम्यया ।  
 अधिवपति दृषदि तण्डुलान् ।   
-कपालान्युपदधात्यङ्गारेषु ।  
+कपालान्य् उपदधात्य् अङ्गारेषु ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरो॒डाश॑ञ् च [31] +अ॒धि॒श्रय॑ति,  
+आज्य॑ञ्च  +++(अधिश्रयति)+++  ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the cake [3] he puts on the fire and the melted butter; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुरो॒डाश॑ञ्च [31] अ॒धि॒श्रय॑ति।  
+आज्य॑ञ्च  +++(अधिश्रयति)+++  ।  
+</details>
+
+<details><summary>भट्टभास्करटीका</summary>
+
 पुरोडाशं चाधिश्रयति कपालेषु ।  
 आज्यं चाधिश्रयतीत्येव ।   
-स्तम्बयजुर्हरति ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+स्तम्बय॒जुश् च॒ हर॑ति ।
++++(सतृणं पुरीषम्)+++ अ॒भि च॑ गृह्णाति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+he throws the clump of grass, and gathers it in; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्तम्बय॒जुश्च॒ हर॑ति ।
 अ॒भि च॑ गृह्णाति ।  
+</details>
+
+<details><summary>भट्टभास्करटीका</summary>
+
+स्तम्बयजुर्हरति ।  
+सतृणं पुरीषम् अभिगृह्णाति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वेदि॑ञ्च प॒रि॒गृ॒ह्णाति॑ ।  
 पत्नी᳚ञ्च॒ सन्न॑ह्यति ।  
-प्रोख्ष॑णीश्चाऽऽसा॒दय॑ति ।  
-आज्य॑ञ्च  +++(अवसादयति)+++  ।
+</details>
+
+<details><summary>Keith</summary>
+
+he surrounds the Vedi and he girds the wife (of the sacrificer); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वेदि॑ञ्च प॒रि॒गृ॒ह्णाति॑ ।  
+पत्नी᳚ञ्च॒ सन्न॑ह्यति ।  
+
+</details>
+
+<details><summary>भट्टभास्करटीका</summary>
+
+न्युप्तमञ्जलिनाग्नीध्रः वेदिं परिगृह्णाति ।    
+स्फ्येनोत्तरं परिग्राहम् ।  
+पत्नीं सन्नह्यति योक्त्रेण ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रोख्ष॑णीश् चाऽऽसा॒दय॑ति,  
+आज्य॑ञ्च ।
+</details>
+
+<details><summary>Keith</summary>
+
+he puts in place the anointing waters and the melted butter. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒भि च॑ गृह्णाति ।  
-वेदि॑ञ्च प॒रि॒गृ॒ह्णाति॑ ।  
-पत्नी᳚ञ्च॒ सन्न॑ह्यति ।  
 प्रोख्ष॑णीश्चाऽऽसा॒दय॑ति ।  
 आज्य॑ञ्च  +++(अवसादयति)+++  ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-सतृणं पुरीषमभिगृह्णाति ।  
-न्युप्तमञ्जलिनाग्नीध्रः वेदिं परिगृह्णाति ।  
-स्फ्येनोत्तरं परिग्राहम् ।  
-पत्नीं सन्नह्यति योक्त्रेण ।  
 प्रोक्षणीरप आसादयति ।   
-आज्यं चावसादयतीत्येव, स्रुग्गृहीतमित्यर्थः ॥
+आज्यं चावसादयतीत्येव, स्रुग्-गृहीतमित्यर्थः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तानि॒ वै द्वाद॑श द्व॒न्द्वानि॑ दर्शपूर्णमा॒सयो॒स्तानि॑  ।   
-य ए॒वꣳ स॒म्पाद्य॒ यज॑ते ।  
+ए॒तानि॒ वै द्वाद॑श द्व॒न्द्वानि॑ - दर्शपूर्णमा॒सयो॒स् तानि॑  ।   
+
+य ए॒वꣳ स॒म्पाद्य॒ यज॑ते॒  
 प्रजा॑तेनै॒व य॒ज्ञेन॑ यजते ।  
-प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते ॥ [32]
+प्र प्र॒जया॑ प॒शुभि॑र् मिथु॒नैर् जा॑यते ॥ [32]
 </details>
+
+<details><summary>Keith</summary>
+
+These are the twelve pairs in the new and full moon sacrifices.  
+He, who thus sacrifices with these, sacrifices with an abundant offering and is multiplied with offspring,  
+with cattle, with pairings.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
