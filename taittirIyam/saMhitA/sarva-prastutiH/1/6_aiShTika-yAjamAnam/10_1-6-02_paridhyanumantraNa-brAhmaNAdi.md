@@ -289,12 +289,18 @@ When the year is completed, he should thus with them (Vyahrtis) set down (the ob
 
 </details>
 
-
+## सामिधेनिषु व्याहृतयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् वै य॒ज्ञस्य॒ साम्ना᳚ क्रि॒यते॑,  
-रा॒ष्ट्रं [35] य॒ज्ञस्या॒ऽऽशीर्ग॑च्छति ।
+रा॒ष्ट्रं [35] य॒ज्ञस्या॒ऽऽशीर् ग॑च्छति ।
 </details>
+
+<details><summary>Keith</summary>
+
+To the kingly class falls the blessing of the part of the sacrifice which is performed with the Saman [3]; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -310,8 +316,14 @@ When the year is completed, he should thus with them (Vyahrtis) set down (the ob
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदृ॒चा विश॑य्ँ य॒ज्ञस्या॒ ऽऽशीर् ग॑च्छ॒ति ।
+यद् ऋ॒चा विश॑य्ँ य॒ज्ञस्या॒ऽऽशीर्ग॑च्छ॒ति ।
 </details>
+
+<details><summary>Keith</summary>
+
+to the people (falls) the blessing of what (is performed) with the Rc; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -325,8 +337,14 @@ When the year is completed, he should thus with them (Vyahrtis) set down (the ob
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॑ ब्राह्म॒णो॑ऽना॒शीर्के॑ण य॒ज्ञेन॑ यजते ।
+अथ॑ ब्राह्म॒णो॑ ऽना॒शीर्के॑ण य॒ज्ञेन॑ यजते ।
 </details>
+
+<details><summary>Keith</summary>
+
+now the Brahman sacrifices with an offering without a blessing; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -335,13 +353,28 @@ When the year is completed, he should thus with them (Vyahrtis) set down (the ob
 
 <details><summary>भट्टभास्करटीका</summary>
 
-अथेदानीमयं ब्राह्मणो वराकोऽनाशीर्केणाफलेन यज्ञेन यजते, किमेतद्युज्यते ? यद्वा - तिष्ठन्त्वन्ये; ब्राह्मणः किमनाशीर्केण यजेत यः प्रयोजनमन्तरेणाहितं निमेषमात्रमपि न करोतीति प्रतिपादनार्थं ब्राह्मणग्रहणम् । यजुषां प्रायेण करण(क)मन्त्रत्वान्न तत्र कदाचिदाशीरिति ऋक्सामयोरेव ग्रहणम् । नास्त्याशीरस्येति बहुव्रीहौ कप् । अयस्मयादित्वेन पदत्वाद्रुत्वम्, भत्वाद्विसर्जनीयाभावः, 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ।
+अथेदानीमयं **ब्राह्मणो** वराको **ऽनाशीर्केण** +अफलेन **यज्ञेन यजते**, किमेतद् युज्यते ?  
+यद्वा - तिष्ठन्त्व् अन्ये; **ब्राह्मणः** किम् **अनाशीर्केण यजेत**  
+यः प्रयोजनम् अन्तरेणाहितं निमेषमात्रम् अपि न करोतीति प्रतिपादनार्थं ब्राह्मणग्रहणम् ।  
+यजुषां प्रायेण करण(क)मन्त्रत्वान्  
+न तत्र कदाचिद् आशीर् इति ऋक्-सामयोर् एव ग्रहणम् ।  
+
+नास्त्याशीर् अस्येति बहुव्रीहौ कप् ।  
+अयस्मयादित्वेन पदत्वाद्रुत्वम्,  
+भत्वाद् विसर्जनीयाभावः,  
+'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सामिधे॒नीर॑नुव॒ख्ष्यन्ने॒ता व्याहृ॑तीᳶ पु॒रस्ता᳚द्दध्यात् ।
+सामिधे॒नीर् अ॑नुव॒ख्ष्यन्न् ए॒ता व्याहृ॑तीᳶ पु॒रस्ता᳚द् दध्यात् ।
 </details>
+
+<details><summary>Keith</summary>
+
+when he is about to recite the kindling-verses he should first insert the Vyahrtis;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -355,9 +388,16 @@ When the year is completed, he should thus with them (Vyahrtis) set down (the ob
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मै॒व प्र॑ति॒पद॑ङ्कुरुते ।
-तथा᳚ ब्राह्म॒णस्साशी᳚र्केण य॒ज्ञेन॑ यजते ।
+ब्रह्मै॒व प्र॑ति॒पद॑ङ् कुरुते ।
+तथा᳚ ब्राह्म॒णस् साशी᳚र्केण य॒ज्ञेन॑ यजते ।
 </details>
+
+<details><summary>Keith</summary>
+
+verily he makes the Brahman the commencement,  
+and thus the Brahman sacrifices with an offering which has a blessing. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -370,13 +410,23 @@ When the year is completed, he should thus with them (Vyahrtis) set down (the ob
 प्रतिपदं प्रारम्भं कुरुते । प्रथमतः पद्यत इति प्रतिपत् । सम्पदादित्वात्क्विप् ॥
 </details>
 
+## पुरोऽनुवाक्यायां न व्याहृतयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यङ्का॒मये॑त॒ यज॑मान॒म्भ्रातृ॑व्यमस्य य॒ज्ञस्या॒ऽऽशीर्ग॑च्छे॒दिति।  
-तस्यै॒ता व्याहृ॑तीᳶ पुरोऽनुवा॒क्या॑यान्दध्यात् ।  
-भ्रातृव्यदेव॒त्या॑ वै पु॑रोऽनुवा॒क्या᳚ ।  
-भ्रातृ॑व्यमे॒वास्य॑ य॒ज्ञस्य॑ [36] आ॒शीर्ग॑च्छति ।
+यङ् का॒मये॑त॒ यज॑मान॒म् भ्रातृ॑व्यम् अस्य य॒ज्ञस्या॒ऽऽशीर् ग॑च्छे॒द् इति,  
+तस्यै॒ता व्याहृ॑तीᳶ पुरोऽनुवा॒क्या॑यान् दध्यात् ।  
+भ्रातृव्य-देव॒त्या॑ वै पु॑रोऽनुवा॒क्या᳚ ।  
+भ्रातृ॑व्यम् ए॒वास्य॑ य॒ज्ञस्य॑ [36] +आ॒शीर् ग॑च्छति ।
 </details>
+
+<details><summary>English</summary>
+
+If he desire of a sacrificer, 'May the blessing of his sacrifice fall to his foe',  
+he should insert for him those Vyahrtis in the Puronuvakya (verse);  
+the Puronuvakya has the foe for its divinity;  
+verily the blessing of his sacrifice falls to his foe [4]. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -393,38 +443,34 @@ When the year is completed, he should thus with them (Vyahrtis) set down (the ob
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यान्का॒मये॑त॒ यज॑मानान्थ्स॒माव॑त्येनान् य॒ज्ञस्या॒ऽऽशीर्ग॑च्छे॒दिति
-तेषा॑मे॒ता व्याहृ॑तीᳶ  +++(दद्यात्)+++ ।  
+यान् का॒मये॑त॒ यज॑मानान्थ् "स॒माव॑त्य् एनान् य॒ज्ञस्या॒ऽऽशीर् ग॑च्छे॒द्" इति
+तेषा॑म् ए॒ता व्याहृ॑तीᳶ  
+पुरोऽनुवा॒क्या॑या अर्ध॒र्च एका᳚न् दध्याद्  
+या॒ज्या॑यै पु॒रस्ता॒द् एका᳚य्ँ  
+या॒ज्या॑या अर्ध॒र्च एका॑म्।  
+तथै॑नान् थ्स॒माव॑ती य॒ज्ञस्या॒ऽऽशीर्ग॑च्छति।
 </details>
+
+<details><summary>Keith</summary>
+
+If he desire of sacrificers,  
+'May the blessing of the sacrifice fall to them equally',  
+he should place for them one of the Vyahrtis at the half-verse of the Puronuvakya,  
+one before the Yajya,  
+and one at the half-verse of the Yajya,  
+and thus the blessing of the sacrifice falls to them equally. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-यान्का॒मये॑त॒ यज॑मानान्थ्स॒माव॑त्येनान् य॒ज्ञस्या॒ऽऽशीर्ग॑च्छे॒दिति
-तेषा॑मे॒ता व्याहृ॑तीᳶ  +++(दद्यात्)+++ ।  
+यान्का॒मये॑त॒ यज॑मानान्थ्स॒माव॑त्येनान् य॒ज्ञस्या॒ऽऽशीर्ग॑च्छे॒दिति॒ तेषा॑मे॒ता व्याहृ॑तीᳶ पुरोऽनुवा॒क्या॑या अर्ध॒र्च एका᳚न्दध्याद्या॒ज्या॑यै पु॒रस्ता॒देका᳚य्ँया॒ज्या॑या अर्ध॒र्च एका॒न्तथै॑नान्थ्स॒माव॑ती य॒ज्ञस्या॒ऽऽशीर्ग॑च्छति॒
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-8यानित्यादि ॥ समावती समा सर्वेषां तुल्या न कदाचिदपि भ्रातृव्यस्य । यद्वा - समा अविषमा सदा यजमानगामिनी । समादावतुप् ।
-</details>
+8यानित्यादि ॥ **समावती** समा सर्वेषां तुल्या न कदाचिदपि भ्रातृव्यस्य । यद्वा - समा अविषमा सदा यजमानगामिनी । समादावतुप् ।
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-पुरोऽनुवा॒क्या॑या अर्ध॒र्च एका᳚न्दध्यात् ।
-या॒ज्या॑यै पु॒रस्ता॒देकाँ᳚म्  +++(दद्यात्)+++ ।  
-या॒ज्या॑या अर्ध॒र्च एकाम्  +++(दद्यात्)+++ ।  
-तथै॑नान्थ्स॒माव॑ती य॒ज्ञस्या॒ऽऽशीर्ग॑च्छति ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-पुरोऽनुवा॒क्या॑या अर्ध॒र्च एका᳚न्दध्यात् ।
-या॒ज्या॑यै पु॒रस्ता॒देकाँ᳚म्  +++(दद्यात्)+++ ।  
-या॒ज्या॑या अर्ध॒र्च एकाम्  +++(दद्यात्)+++ ।  
-तथै॑नान्थ्स॒माव॑ती य॒ज्ञस्या॒ऽऽशीर्ग॑च्छति ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
 
 ऋचोर्धमर्धर्चः । 'अर्धं नपुंसकम्' इतिसमासः, 'ऋक्पूरब्धूः' इत्यादिना अप्रत्ययस्समासान्तः । इज्यतेनयेति याज्या । 'यज याच' इति कुत्वाभावः ।
 </details>
