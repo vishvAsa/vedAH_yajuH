@@ -465,7 +465,8 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 छन्दस्य इति । 'अक्षरसमूहे छन्दस उपसङ्ख्यानम्' इति यत् । आश्रावयादीनां छन्दसां वीर्यत्वात् यथोक्तम् - 'य एवं छन्दसां वीर्यम्' इत्यादि । तत्रैषां छन्दसां वीर्यत्वमुक्तम्, अत्र तु तत्समूहस्य प्रजापतित्वमिति विवेकः ।  +++(मूले एवंवेद इति वर्तते । पूर्वतनस्थलेष्वपि वेद- वित् इत्यनयोः पृथङ् निर्देशः दृश्यते । अत्र वेद इत्यस्य स्थाने वित् इति पाठः कथं घटत इति विचारणीयम्)+++ एवंविदनुष्ठाता पुण्यो भवति, न चेत्पापकृत् । यत्किञ्चित्पापकृदपीति केचित् ॥
 </details>
 
-## प्रयाजानुमन्त्रणविवरणम्
+## अनुमन्त्रणानि
+### प्रयाजः
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -475,11 +476,21 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस॒न्तम् [42] ऋतू॒नाम् प्री॑णा॒मीत्या॑ह ।  
-ऋ॒र्तवो॒ वै प्र॑या॒जा ऋ॒तूने॒व प्री॑णाति ।  
-ते᳚ऽस्मै प्री॒ता य॑थापू॒र्वङ्क॑ल्पन्ते ।  
-कल्प॑न्तेऽस्मा ऋ॒तवो॒ य ए॒वव्ँवेद ।  
+"वस॒न्तम् [42] ऋतू॒नाम् प्री॑णा॒मी"त्य् आ॑ह ।  
+ऋ॒र्तवो॒ वै प्र॑या॒जा - ऋ॒तून् ए॒व प्री॑णाति ।  
+ते᳚ऽस्मै प्री॒ता य॑थापू॒र्वङ् क॑ल्पन्ते ।  
+कल्प॑न्ते ऽस्मा ऋ॒तवो॒ य ए॒वव्ँ वेद ।  
 </details>
+
+<details><summary>Keith</summary>
+
+'Of the seasons spring [4] I delight', he says;  
+the fore-sacrifices are the seasons;  
+verily he delights the seasons;  
+they delighted place themselves in order for him;  
+the seasons are in order for him who knows thus. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -494,7 +505,7 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 7वसन्तमित्यादयः प्रयाजानुमन्त्रणमन्त्राः ॥ पञ्चत्वान्वयाल्लोकस्थितिहेतुत्वाच्च प्रयाजा ऋतवः । प्रथममिज्यन्त इति प्रयाजाः । 'प्रयाजानुयाजौ यज्ञाङ्गे' इति कुत्वाभावः, थाथादिना उत्तरपदान्तोदात्तत्वम् । कल्पन्ते अविपर्यासेन प्रवर्तन्ते ॥
 </details>
 
-## आज्यभागानुमन्त्रणविवरणं
+### आज्यभागौ
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -504,9 +515,18 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नीषोम॑योर॒हन्दे॑वय॒ज्यया॒ चख्षु॑ष्मान्भूयास॒मित्या॑ह ।  
-अग्नीषोमा᳚भ्या॒व्ँवै य॒ज्ञश्चख्षु॑ष्मा॒न्ताभ्या॑मे॒व चख्षु॑रा॒त्मन्ध॑त्ते ।
+"अ॒ग्नीषोम॑योर् अ॒हन् दे॑व-य॒ज्यया॒ चख्षु॑ष्मान् भूयास॒म्" इत्या॑ह ।  
+अग्नीषोमा᳚भ्या॒व्ँ वै य॒ज्ञश् चख्षु॑ष्मा॒न्,  
+ताभ्या॑म् ए॒व चख्षु॑र् आ॒त्मन् ध॑त्ते ।
 </details>
+
+<details><summary>Keith</summary>
+
+'By sacrifice to the gods, Agni and Soma, may I be possessed of sight', he says;  
+the sacrifice is possessed of sight through Agni and Soma;  
+verily by means of them he confers sight upon himself. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -519,38 +539,35 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 8अग्नीषोमयोरित्याज्यभागानुमन्त्रणम् ॥ 'ईदग्नेः' इतीत्वम्, 'अग्नेस्तुत्स्तोमसोमाः' इति षत्वम्, 'देवताद्वन्द्वे च' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
 
-## पुरोडाशानुमन्त्रणविवरणम्
+### पुरोडाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्नेर॒हन्दे॑वय॒ज्यया᳚न्ना॒दो भू॑यास॒मित्या॑ह ।
+"अ॒ग्नेर् अ॒हन् दे॑वय॒ज्यया᳚ ऽन्ना॒दो भू॑यास॒म्" इत्य् आ॑ह ।
+अ॒ग्निर् वै दे॒वाना॑म् अन्ना॒दस्, तेनै॒व [43] +अ॒न्नाद्य॑म् आ॒त्मन् ध॑त्ते ।
 </details>
+
+<details><summary>Keith</summary>
+
+'By sacrifice to the god Agni, may I be an eater of food', he says;  
+Agni is among the gods the eater of food;  
+verily by means of him [5] he confers the eating of food upon himself. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-अग्नेर॒हन्दे॑वय॒ज्यया᳚न्ना॒दो भू॑यास॒मित्या॑ह ।
+अ॒ग्नेर॒हन्दे॑वय॒ज्यया᳚न्ना॒दो भू॑यास॒मित्या॑ह ।
+अ॒ग्निर्वै दे॒वाना॑मन्ना॒दस्तेनै॒व [43] +अ॒न्नाद्य॑मा॒त्मन्ध॑त्ते ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
 9अग्नेरहमित्याग्नेयस्य पुरोडाशस्यानुमन्त्रणम् - अग्निर्वा इत्यादि ॥ देवानाम्मध्येग्निरन्नादः अन्नस्यात्ता, हविषां भोक्तृत्वात् । अणपवादः, पचाद्यच् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ॒ग्निर्वै दे॒वाना॑मन्ना॒दस्तेनै॒व [43] अ॒न्नाद्य॑मा॒त्मन्ध॑त्ते ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-अ॒ग्निर्वै दे॒वाना॑मन्ना॒दस्तेनै॒व [43] अ॒न्नाद्य॑मा॒त्मन्ध॑त्ते ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
 
 अन्नाद्यं अन्नस्यादनमन्नाद्यं अन्नादनसामर्थ्यम् । छान्दसो भावे क्यच् [प्] । यद्वा - अन्नात्मकमदनीयमन्नाद्यम् । 'गदमदचरयमश्च' इति चकारस्यानुक्तसमुच्चयार्थत्वाद्यत् ॥
 </details>
 
-## उपांशुयाजानुमन्त्रणविवरणम्
+### उपांशुयाजः
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -561,15 +578,21 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दब्धि॑र॒सि ।   
-अद॑ब्धो भूयासम॒मुन्द॑भेय॒मित्या॑ह ।  
-ए॒तया॒ वै दब्ध्या॑ दे॒वा असु॑रानदभ्नुव॒न्  ।  
-तयै॒व भ्रातृ॑व्यन्दभ्नोति ।  
+"दब्धि॑र् असि ।   
+अद॑ब्धो भूयासम्, अ॒मुन्+++(←नामनिर्देशः)+++ द॑भेय॒म्" इत्य् आ॑ह ।  
+ए॒तया॒ वै दब्ध्या॑ दे॒वा असु॑रान् अदभ्नुव॒न्  ।  
+तयै॒व भ्रातृ॑व्यन् दभ्नोति ।  
 </details>
+
+<details><summary>Keith</summary>
+
+'Thou art a deceiver; may I be undeceived; may I deceive N. N.', he says; by that deceit the gods deceived the Asuras; verily by this he deceives his foe. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-दब्धि॑र॒सि ।   
+दब्धि॑रसि ।   
 अद॑ब्धो भूयासम॒मुन्द॑भेय॒मित्या॑ह ।  
 ए॒तया॒ वै दब्ध्या॑ दे॒वा असु॑रानदभ्नुव॒न्  ।  
 तयै॒व भ्रातृ॑व्यन्दभ्नोति ।  
@@ -580,7 +603,7 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 10दब्धिरसीत्युपांशुयाजस्यानुमन्त्रणम् - एतया वा इत्यादि ॥ दब्ध्या दम्भनेन शत्रूणां दम्भनहेतुना । उपांशुयाजेन देवा असुरानदभ्नुवन् हिंसितवन्तः ॥
 </details>
 
-## अग्नीषोमीयानुमन्त्रणविवरणं
+### अग्नीषोमीयौ
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -591,10 +614,18 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नीषोम॑योर॒हन्दे॑वय॒ज्यया॑ वृत्र॒हा भू॑यास॒मित्या॑ह ।  
-अ॒ग्नीषोमा᳚भ्या॒व्ँवा
-इन्द्रो॑ वृ॒त्रम॑ह॒न्ताभ्या॑मे॒व भ्रातृ॑व्यꣵ स्तृणुते ।
+"अ॒ग्नीषोम॑योर् अ॒हन् दे॑व-य॒ज्यया॑ वृत्र॒-हा भू॑यास॒म्" इत्य् आ॑ह ।  
+अ॒ग्नीषोमा᳚भ्या॒व्ँ वा इन्द्रो॑ वृ॒त्रम् अ॑ह॒न्,  
+ताभ्या॑म् ए॒व भ्रातृ॑व्यꣵ स्तृणुते ।
 </details>
+
+<details><summary>Keith</summary>
+
+'By sacrifice to the gods, Agni and Soma, may I be a slayer of foes', he says;  
+by means of Agni and Soma Indra slew Vrtra;  
+verily by means of them he lays low his foe.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -603,7 +634,7 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 इन्द्रो॑ वृ॒त्रम॑ह॒न्ताभ्या॑मे॒व भ्रातृ॑व्यꣵ स्तृणुते ।
 </details>
 
-## ऐन्द्राग्नानुमन्त्रणविवरणं
+### ऐन्द्राग्नम्
 <details><summary>भट्टभास्करटीका</summary>
 
 11अग्नीषोमयोरित्यग्नीषोमीयस्यानुमन्त्रणम् ॥ स्तृणुते नाशयति ॥
@@ -618,60 +649,67 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्राग्नि॒योर॒हन्दे॑वय॒ज्यायै॑
-
-इन्द्रिया॒व्य॑न्ना॒दो भू॑यास॒मित्या॑ह ।  
+इन्द्राग्नि॒योर् अ॒हन् दे॑वय॒ज्यये᳚न्द्रिया॒व्य् अ॑न्ना॒दो भू॑यास॒म् इत्य् आ॑ह।  
+इ॒न्द्रि॒या॒व्य् ए॑वान्ना॒दो भ॑व॒ति।
 </details>
+
+<details><summary>Keith</summary>
+
+'By sacrifice to the gods, Indra and Agni, may I be powerful and an eater of food', he says; verily he becomes powerful and an eater of food. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-इन्द्राग्नि॒योर॒हन्दे॑वय॒ज्यायै॑
-
-इन्द्रिया॒व्य॑न्ना॒दो भू॑यास॒मित्या॑ह ।  
+इन्द्राग्नि॒योर् अ॒हन् दे॑वय॒ज्यये᳚न्द्रिया॒व्य् अ॑न्ना॒दो भू॑यास॒म् इत्य् आ॑ह।  
+इ॒न्द्रि॒या॒व्य् ए॑वान्ना॒दो भ॑व॒ति।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-12इन्द्राग्नियोरहमित्यैन्द्राग्नस्यानुमन्त्रणम् - इन्द्रियाव्येवेत्यादि ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इन्द्रिया॒व्ये॑वान्ना॒दो भ॑व॒तः ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-इन्द्रिया॒व्ये॑वान्ना॒दो भ॑व॒तः ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
+12इन्द्राग्नियोरहमित्यैन्द्राग्नस्यानुमन्त्रणम् - इन्द्रियाव्येवेत्यादि ॥  
 इन्द्रेणेन्द्रियावी, अग्निनान्नादश्च भवति । 'बहुलं छन्दसि' इति विनिः, 'अन्येभ्योपि दृश्यते' इति दीर्घत्वम् ॥
 </details>
 
+### ऐन्द्रम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्या॒हन्दे॑वय॒ज्यये᳚न्द्रिया॒वी भू॑यास॒मित्या॑ह
-इन्द्रिया॒व्ये॑व भ॑वति
+"इन्द्र॑स्य [44]+अ॒हन् दे॑वय॒ज्यये᳚न्द्रिया॒वी भू॑यास॒म्" इत्य् आ॑ह।  
+इ॒न्द्रिया॒व्ये॑व भ॑वति। 
+</details>
+
+<details><summary>Keith</summary>
+
+'By sacrifice to the god Indra, may I be powerful', he says;  
+verily he becomes powerful. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-इन्द्र॑स्या॒हन्दे॑वय॒ज्यये᳚न्द्रिया॒वी भू॑यास॒मित्या॑ह
-इन्द्रिया॒व्ये॑व भ॑वति
+"इन्द्र॑स्य [44]+अ॒हन् दे॑वय॒ज्यये᳚न्द्रिया॒वी भू॑यास॒म्" इत्य् आ॑ह।  
+इ॒न्द्रिया॒व्ये॑व भ॑वति।
 </details>
+
 
 <details><summary>भट्टभास्करटीका</summary>
 
 13इन्द्रस्येत्यैन्द्रस्य सान्नाय्यस्यानुमन्त्रणम् ॥
 </details>
 
+### माहेन्द्रम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महे॒न्द्रस्या॒हन्दे॑वय॒ज्यया॑ जे॒मान॑म्महि॒मान॑ङ्गमेय॒मित्या॑ह ।  
-जे॒मान॑मे॒व म॑हि॒मान॑ङ्गच्छति ।  
+"महे॒न्द्रस्या॒हन् दे॑वय॒ज्यया॑ जे॒मान॑म् महि॒मान॑ङ् गमेय॒म्" इत्य् आ॑ह ।  
+जे॒मान॑म् ए॒व म॑हि॒मान॑ङ् गच्छति ।  
 </details>
+
+<details><summary>Keith</summary>
+
+'By sacrifice to the god Mahendra, may I attain superiority and greatness', he says;  
+verily he attains superiority and greatness. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -684,7 +722,7 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 14महेन्द्रस्येति माहेन्द्रस्य ॥ जेमा जेतृत्वं सर्वोत्कृष्टत्वम् । 'तुश्छन्दसि' इति जेतृशब्दादिमनिच्, छान्दस इकारलोपः, 'तुरिष्ठेमेयस्सु' इति तृलोपः । जनयितृत्वं वा । जनेश्छान्दसो जाभावः । 'अन्येभ्योपि दृश्यन्ते' इति वा व्यत्ययेन भावे जयतेर्मनिन्प्रत्ययः, छान्दसमन्तोदात्तत्वम् । महिमानं महत्त्वम् । मह पूजायाम् । सर्वेषां पूजार्हत्वम् । पूवर्वन्मनिन्प्रत्ययस्स्वरश्च ॥
 </details>
 
-## स्विष्टकृदनुमन्त्रणविवरणं
+### स्विष्टकृत्
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -694,10 +732,17 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेस्स्वि॑ष्ट॒कृतो॒ऽहन्दे॑वय॒ज्ययाऽऽयु॑ष्मान् य॒ज्ञेन॑ प्रति॒ष्ठाङ्ग॑मेय॒मित्या॒ह ।  
-आयु॑रे॒वात्मन्ध॑त्ते ।  
+अ॒ग्नेस् स्वि॑ष्ट॒कृतो॒ ऽहन् दे॑वय॒ज्यया ऽऽयु॑ष्मान् य॒ज्ञेन॑ प्रति॒ष्ठाङ् ग॑मेय॒म् इत्य् आ॒ह ।  
+आयु॑र् ए॒वात्मन् ध॑त्ते ।  
 प्रति॑ य॒ज्ञेन॑ तिष्ठति ।
 </details>
+
+<details><summary>Keith</summary>
+
+'By sacrifice to the god Agni Svistakrt, may I attain security through the sacrifice, enjoying long life', he says;  
+verily he confers long life upon himself and attains security through the sacrifice.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -709,8 +754,6 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 <details><summary>भट्टभास्करटीका</summary>
 
 15अग्नेस्स्विष्टकृत इति स्विष्टकृतोनुमन्त्रणम् ॥ आयुष्मान्दीर्घायुः । आयुर्दीर्घमात्मनि स्थापयति । प्रतियज्ञेन तिष्ठतीति । यज्ञेन या प्रतिष्ठा यजमानस्य भवति, 'प्रति तिष्ठति प्रजया पशुभिर्यजमानः' इति तामपि प्रतिष्ठां गच्छतीति । यद्वा - प्रतिष्ठेति परमात्मोच्यते । यज्ञेन यजनेन तं प्रतितिष्ठति प्राप्नोतीति ॥
-
-  -[ स्विष्टकृतः - अग्नेस्स्विष्टकृत इति ॥ स्विष्टं करोर्तीति स्विष्टकृत्, तस्य देवयज्ययाहमायुष्मान्भूत्वा यज्ञेन प्रतिष्ठां गमेयम् । यज्ञेन या प्रतिष्ठा भवति 'यो यतो यज्ञं प्रयुङ्क्ते । तदेनं प्रतिष्ठापयतीति । प्रति तिष्ठति प्रजया पशुभिर्यजमानः' इति तामपि प्रतिष्ठां गमेयम् । 'लिङ्याशिष्यङ्' ॥]
 
 इति षष्ठे एकादशोनुवाकः ॥  
 </details>

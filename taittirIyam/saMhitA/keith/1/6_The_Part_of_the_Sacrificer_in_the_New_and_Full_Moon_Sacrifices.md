@@ -2,16 +2,9 @@
 title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
-
-
-## 11
-'Of the seasons spring [4] I delight', he says; the fore-sacrifices are the seasons; verily he delights the seasons; they delighted place themselves in order for him; the seasons are in order for him who knows thus. 'By sacrifice to the gods, Agni and Soma, may I be possessed of sight', he says; the sacrifice is possessed of sight through Agni and Soma; verily by means of them he confers sight upon himself. 'By sacrifice to the god Agni, may I be an eater of food', he says; Agni is among the gods the eater of food; verily by means of him [5] he confers the eating of food upon himself. 'Thou art a deceiver; may I be undeceived; may I deceive N. N.', he says; by that deceit the gods deceived the Asuras; verily by this he deceives his foe. 'By sacrifice to the gods, Agni and Soma, may I be a slayer of foes', he says; by means of Agni and Soma Indra slew Vrtra; verily by means of them he lays low his foe. 'By sacrifice to the gods, Indra and Agni, may I be powerful and an eater of food', he says; verily he becomes powerful and an eater of food. 'By sacrifice to the god Indra, may I be powerful', he says; verily he becomes powerful. 'By sacrifice to the god Mahendra, may I attain superiority and greatness', he says; verily he attains superiority and greatness. 'By sacrifice to the god Agni Svistakrt, may I attain security through the sacrifice, enjoying long life', he says; verily he confers long life upon himself and attains security through the sacrifice.
 ## 12
 
 ### a
-Indra for you we invoke  
-On all sides from other men;  
-Be he ours only.
 ### a
 Indra men call in reverence  
 That he may cause their prayers to be accomplished; Hero, men overpowering, delighting in strength, Do thou confer upon us a stall full of kine.
