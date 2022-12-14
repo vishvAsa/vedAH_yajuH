@@ -1,5 +1,5 @@
 +++
-title = "११ आश्रावणादिमन्त्रविधिः"
+title = "११ १-०६-९२ आश्रावणादिमन्त्रविधिः"
 
 +++
 
@@ -304,6 +304,7 @@ This is the milking of the generous one; he who knows thus milks her indeed.
 
 
 
+### देवस्त्राख्यानम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वै स॒त्रमा॑सत॒ तेषा॒न्दिशो॑ऽदस्य॒न्त ए॒तामा॒र्द्राम्प॒ङ्क्तिम॑पश्य॒न्ना श्रा॑व॒येति॑ पुरोवा॒तम॑जनय॒न्नस्तु॒ श्रौष॒डित्य॒ब्भ्रꣳ सम॑प्लावय॒न्॒यजेति॑ वि॒द्युत᳚म् [41]अ॒ज॒न॒य॒न्॒, ये यजा॑मह॒ इति॒ प्राव॑र्षयन्न॒भ्य॑स्तनयन्वषट्का॒रेण॒ ततो॒ वै तेभ्यो॒ दिश॒ᳶ प्राप्या॑यन्त॒ य ए॒वव्ँवेद॒ प्रास्मै॒ दिश॑ᳶ प्यायन्त 
@@ -320,7 +321,6 @@ The gods performed a sacrificial session;
 </details>
 
 
-### देवस्त्राख्यानम्
 <details><summary>मूलम्</summary>
 
 दे॒वा वै स॒त्रमा॑सत ।  
@@ -394,6 +394,7 @@ for him who knows thus the quarters are made to swell.
 आर्द्रामार्द्रयित्रीम् आ समन्ताद्रात्रीं लोकानां वर्षहेतुं अक्षरपङ्क्तिमपश्यन् । गतमन्यत् ॥
 </details>
 
+### छान्दसः प्रजापतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तिन् त्वो॒ वेद॑ ।  
@@ -443,9 +444,15 @@ whom Prajapati knows, he becomes pure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै छ॑न्द॒स्य॑ᳶ प्र॒जाप॑ति॒रा श्रा॑व॒यास्तु॒ श्रौष॒ड्यज॒ ये यजा॑महे वषट्का॒रः ।  
-य ए॒वव्ँवेद॒ पुण्यो॑ भवति ।
+ए॒ष वै छ॑न्द॒स्य॑ᳶ प्र॒जाप॑ति॒र् - आ श्रा॑व॒यास्तु॒ श्रौष॒ड्, यज॒, ये यजा॑महे, वषट्का॒रः ।  
+य ए॒वव्ँ वेद॒ पुण्यो॑ भवति ।
 </details>
+
+<details><summary>Keith</summary>
+
+This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utter', 'We that do utter', the Vasat call; he who knows thus becomes pure. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -468,7 +475,7 @@ whom Prajapati knows, he becomes pure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस॒न्तम् [42] ऋ॒तू॒नाम्प्री॑णा॒मीत्या॑ह ।  
+वस॒न्तम् [42] ऋतू॒नाम् प्री॑णा॒मीत्या॑ह ।  
 ऋ॒र्तवो॒ वै प्र॑या॒जा ऋ॒तूने॒व प्री॑णाति ।  
 ते᳚ऽस्मै प्री॒ता य॑थापू॒र्वङ्क॑ल्पन्ते ।  
 कल्प॑न्तेऽस्मा ऋ॒तवो॒ य ए॒वव्ँवेद ।  
