@@ -410,7 +410,7 @@ and thus the Brahman sacrifices with an offering which has a blessing.
 प्रतिपदं प्रारम्भं कुरुते । प्रथमतः पद्यत इति प्रतिपत् । सम्पदादित्वात्क्विप् ॥
 </details>
 
-## पुरोऽनुवाक्यायां न व्याहृतयः
+## व्याहृति-स्थानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यङ् का॒मये॑त॒ यज॑मान॒म् भ्रातृ॑व्यम् अस्य य॒ज्ञस्या॒ऽऽशीर् ग॑च्छे॒द् इति,  
@@ -475,13 +475,21 @@ and thus the blessing of the sacrifice falls to them equally.
 ऋचोर्धमर्धर्चः । 'अर्धं नपुंसकम्' इतिसमासः, 'ऋक्पूरब्धूः' इत्यादिना अप्रत्ययस्समासान्तः । इज्यतेनयेति याज्या । 'यज याच' इति कुत्वाभावः ।
 </details>
 
+## उदकग्रहणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा॒ वै प॒र्जन्य॒स्सुवृ॑ष्ट॒व्ँवर्ष॑ति ..   
-ए॒वय्ँय॒ज्ञो यज॑मानाय वर्षति ।  
-स्थल॑योद॒कम्प॑रिगृ॒ह्णन्ति ।   
-आ॒शिषा॑ य॒ज्ञय्ँयज॑मान॒ᳶ परि॑गृह्णाति ।
+यथा॒ वै प॒र्जन्य॒स् सुवृ॑ष्ट॒व्ँ वर्ष॑ति ..   
+ए॒वय्ँ य॒ज्ञो यज॑मानाय वर्षति ।  
+स्थल॑या +उ॒द॒कम् प॑रिगृ॒ह्णन्ति -   
+आ॒शिषा॑ य॒ज्ञय्ँ यज॑मान॒ᳶ परि॑गृह्णाति ।
 </details>
+
+<details><summary>Keith</summary>
+
+Even as Parjanya rains down good rain, so the sacrifice rains for the sacrificer;  
+they surround the water with a mound, the sacrificer surrounds the sacrifice with a blessing. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -493,30 +501,35 @@ and thus the blessing of the sacrifice falls to them equally.
 
 <details><summary>भट्टभास्करटीका</summary>
 
-यथेति । स्थलया कूलेन उदकं परिगृह्णन्ति निरुद्धन्ति । एवमाशिषा यज्ञं यजमानः परिगृह्णाति फलप्रदानैकव्यापारयन्त्रितमिव करोति, यथा न कदाचिदपि फलमददानस्तिष्ठति, दत्ते चेदं न याचते यजमानः, याचितेयाचिते ददाति यज्ञ इति ॥
+यथेति । **स्थलया** कूलेन उदकं परिगृह्णन्ति निरुद्धन्ति । एवमाशिषा यज्ञं यजमानः परिगृह्णाति फलप्रदानैकव्यापारयन्त्रितमिव करोति, यथा न कदाचिदपि फलमददानस्तिष्ठति, दत्ते चेदं न याचते यजमानः, याचितेयाचिते ददाति यज्ञ इति ॥
 </details>
 
+## आघाराभिमन्त्रणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मनो॑ऽसि ।  
-प्राजाप॒त्यं [37] मन॑सा मा भू॒तेनाऽऽवि॒शेत्या॑ह ।  
-मनो॒ वै प्रा॑जाप॒त्यम्  ।  
-प्रा॑जाप॒त्यो य॒ज्ञो मन॑ ए॒व य॒ज्ञमा॒त्मन्ध॑त्ते ।
+"मनो॑ऽसि प्राजाप॒त्यं [37], मन॑सा मा भू॒तेनाऽऽवि॒शे"त्या॑ह ।  
+मनो॒ वै प्रा॑जाप॒त्यम्,  
+प्राजाप॒त्यो य॒ज्ञो,  
+मन॑ ए॒व य॒ज्ञम् आ॒त्मन् ध॑त्ते ।
 </details>
+
+<details><summary>Keith</summary>
+
+'Thou art mind derived from Prajapati [5], with mind and true existence do thou enter me', he says; mind is derived from Prajapati, the sacrifice is derived from Prajapati;  
+verily he confers upon himself mind and the sacrifice. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-मनो॑ऽसि ।  
-प्राजाप॒त्यं [37] मन॑सा मा भू॒तेनाऽऽवि॒शेत्या॑ह ।  
-मनो॒ वै प्रा॑जाप॒त्यम्  ।  
-प्रा॑जाप॒त्यो य॒ज्ञो मन॑ ए॒व य॒ज्ञमा॒त्मन्ध॑त्ते ।
+मनो॑ऽसि प्राजाप॒त्यं [37], मन॑सा मा भू॒तेनाऽऽवि॒शेत्या॑ह ।  
+मनो॒ वै प्रा॑जाप॒त्यम्, प्रा॑जाप॒त्यो य॒ज्ञो, मन॑ ए॒व य॒ज्ञमा॒त्मन्ध॑त्ते ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
 9मनोसीति ॥ स्रौवाघाराभिमन्त्रणम् । प्राजापत्याविशेषान्मन इति यज्ञ उच्यते ॥
 </details>
-
 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -527,9 +540,17 @@ and thus the blessing of the sacrifice falls to them equally.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाग॑स्यै॒न्द्री स॑पत्न॒ख्षय॑णी
-वा॒चा मे᳚न्द्रि॒येणाऽऽवि॒शेत्या॑है॒न्द्री वै वाग्वाच॑मे॒वैन्द्रीमा॒त्मन्ध॑त्ते ॥ [38]
+"वाग॑स्य् ऐ॒न्द्री स॑पत्न॒-ख्षय॑णी,
+वा॒चा मे᳚न्द्रि॒येणाऽऽवि॒शे"त्य् आ॑ह।  
+ऐ॒न्द्री वै वाग्, वाच॑म् ए॒वैन्द्रीम् आ॒त्मन् ध॑त्ते ॥ [38]
 </details>
+
+<details><summary>Keith</summary>
+
+'Thou art speech, derived from Indra, destroying the foe; do thou enter me with speech, with power', he says; speech is derived from Indra;  
+verily he confers upon himself speech as connected with Indra.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -540,21 +561,6 @@ and thus the blessing of the sacrifice falls to them equally.
 <details><summary>भट्टभास्करटीका</summary>
 
 10वागसीति ॥ स्रुच्याघाराभिमन्त्रणम् । गतम् ॥
-
-- वाग॑सि ।
-  - स्रुच्यं - वागसीति यजुषा ॥ वागसि वाचा निर्वृत्तत्वात् वागेवासि त्वम् ।
-
-- ऐन्द्री +++(असि)+++  ।
-  -  ऐन्द्रीन्द्रदेवत्या । यद्वा - इन्द्रस्येयमैन्द्री वाक्, सैवासि ।
-
-- स॑पत्न॒ख्षय॑णी  +++(असि)+++  ।  
-
-  - सपत्नक्षयणी शत्रूणां क्षयकरी ।
-
-- वा॒चा मे᳚न्द्रि॒येणाऽऽवि॑श ।
-
-  -  तत्त्वया वाचेन्द्रियेण च । जातावेकवचनम् । तेनैवेन्द्रेण सृष्टैरिन्द्रियैश्चक्षुरादिभिश्च सह सुखं मामाविश । 'इन्द्रियमिन्द्रलिङ्गम्' इत्यादौ निपात्यते । 'सावेकाचः' इति वाचस्तृतीयोदात्ता ॥
-
 
 इति षष्ठे दशमोनुवाकः ॥  
 </details>
