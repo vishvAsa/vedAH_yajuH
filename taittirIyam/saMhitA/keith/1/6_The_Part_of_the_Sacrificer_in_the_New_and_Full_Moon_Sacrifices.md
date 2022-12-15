@@ -9,9 +9,6 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 ### f
 
 ### g
-Indra the singers aloud,  
-Indra with praises the praisers,  
-Indra the songs have praised.
 ### h
 The singers sing thee [2];  
 The praisers hymn thy praise;  

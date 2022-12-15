@@ -86,24 +86,17 @@ title = "१२ काम्येष्टिमन्त्राः"
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvaSh_TIkAH/08/089/07_AmAsu_pakvamairaya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-## अर्कवद्यागे 
+## अर्कवद्-यागे 
 ### पुरोनुवाक्या
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ ।   
-इन्द्र॒व्ँवाणी॑रनूषत  ॥
+7'इन्द्रायार्कवते पुरोडाशमेकादशकपालं निर्वपेदन्नकामः' इत्यस्य पुरोनुवाक्या - इन्द्रमिदिति गायत्री ॥ 
 </details>
 
-<details><summary>मूलम्</summary>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ ।   
-इन्द्र॒व्ँवाणी॑रनूषत  ॥
-</details>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvaSh_TIkAH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details><summary>भट्टभास्करटीका</summary>
-
-7'इन्द्रायार्कवते पुरोडाशमेकादशकपालं निर्वपेदन्नकामः' इत्यस्य पुरोनुवाक्या - इन्द्रमिदिति गायत्री ॥ इन्द्रमित् इन्द्रमेव गाथिनो गाथावन्तः गायका उद्गातारः । व्रीह्यादित्वादिनिप्रत्ययः । बृहत् बृहता साम्ना, अनूषतेति वक्ष्यते । 'सुपां सुलुक्' इति तृतीयाया लुक् । तथा अर्किणः अर्कवन्तः होतारः । ऋच स्तुतौ, घञ्, 'चजोः कु घिण्यतोः' इति कुत्वम् । अर्केभिरर्कैः ऋग्भिः इन्द्रमेवानूषत अस्तुवन् । छान्दस ऐसभावः । तथा वाणीः वाण्यः ऋग्यजुस्सामलक्षणाः । 'वा छन्दसि` इति पूर्वसवर्णदीर्घत्वम् । पारिशेष्यादध्वर्यूणां वाण्यश्चेन्द्रमेव अनूषत नुवन्ति । णू स्तवने, तौदादिकः, छान्दसो लुङ्, व्यत्ययेनात्मनेपदं, कुटादित्वाद्गुणाभावः, छान्दस इडभावः । तथा स इन्द्रोस्मभ्यमन्नं ददात्विति ॥
-</details>
 
 ### याज्या
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
