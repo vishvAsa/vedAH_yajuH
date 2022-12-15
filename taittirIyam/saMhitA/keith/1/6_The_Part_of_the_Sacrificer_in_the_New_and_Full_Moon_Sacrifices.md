@@ -4,10 +4,6 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 +++
 ## 12
 
-### d
-To thee hath been assigned for mighty power,  
-For ever, in the slaying of Vrtra,  
-All lordship, and all strength, O thou that art worthy of sacrifice In the overcoming of man, by the gods, O Indra [1].
 ### c
 In whom the seven Vasavas rest  
 As it were firm rooted,  
