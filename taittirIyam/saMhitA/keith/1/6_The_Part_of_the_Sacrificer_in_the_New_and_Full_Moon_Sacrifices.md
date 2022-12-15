@@ -5,10 +5,7 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 ## 12
 
 ### c
-In whom the seven Vasavas rest  
-As it were firm rooted,  
-The Rsi of farthest hearing,  
-The glowing pot is the guest of Indra.
+
 ### f
 In the raw thou didst produce the cooked,  
 And madest the sun to mount in the sky;  

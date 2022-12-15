@@ -141,7 +141,7 @@ _______
 11-13स्रुग्-व्यूहन-मन्त्रौ वाजस्येत्यनुष्टुभौ ॥ व्याख्याते चैते ।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarva-prastutiH/1_darshapUrNamAsAdiH/13_srug-vyUhanAdiH/vAjasya_mA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ## दोहः
 _______

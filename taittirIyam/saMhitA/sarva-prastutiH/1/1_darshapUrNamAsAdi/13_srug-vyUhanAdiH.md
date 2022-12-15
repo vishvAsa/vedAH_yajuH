@@ -7,7 +7,7 @@ title: १३ स्रुग्-व्यूहनादिः
 १४ त्रिष्टुप्  
 प्रजापतिर्ऋषिः  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarva-prastutiH/1_darshapUrNamAsAdiH/13_srug-vyUhanAdiH/vAjasya_mA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ____
