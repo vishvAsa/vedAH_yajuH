@@ -160,7 +160,7 @@ And Brhaspati, the Brahman (priest).
 ### h
 On the instigation of the god Savitr with the arms of the Aśvins, with the hands of Pusan, with the bond of Sarasvati, of speech, the binder, I anoint thee with the lordship of Agni, with the lordship of Indra of Brhaspati I anoint thee.
 ## 11
-Agni with one syllable won speech; the Aśvins with two syllables won expiration and inspiration; Visnu with three syllables won the three worlds; Soma with four syllables won four-footed cattle; Pusan with five syllables won the Parkti; Dhatr with six syllables won the six seasons; the Maruts with seven syllables won the seven-footed Çakvari; Brhaspati with eight syllables won the Gayatri;  
+Agni with one syllable won speech; the Aśvins with two syllables won expiration and inspiration; Visnu with three syllables won the three worlds; Soma with four syllables won four-footed cattle; Pusan with five syllables won the Parkti; Dhatr with six syllables won the six seasons; the Maruts with seven syllables won the seven-footed Śakvari; Brhaspati with eight syllables won the Gayatri;  
 Mitra with nine syllables won the threefold Stoma [1]; Varuna with ten syllables won the Viraj; Indra with eleven syllables won the Tristubh; the All-gods with twelve syllables won the Jagati; the Vasus with thirteen syllables won the thirteenfold Stoma; the Rudras with fourteen syllables won the fourteenfold Stoma; the Adityas with fifteen syllables won the fifteenfold Stoma; Aditi with sixteen syllables won the sixteen fold Stoma; Prajapati with seventeen syllables won the seventeenfold Stoma.
 ## 12
 

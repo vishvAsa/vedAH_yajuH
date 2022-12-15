@@ -4,14 +4,6 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 +++
 ## 12
 
-### a
-### a
-Indra men call in reverence  
-That he may cause their prayers to be accomplished; Hero, men overpowering, delighting in strength, Do thou confer upon us a stall full of kine.
-### c
-O Çatakratu, the strength of thine  
-That is in the five folks,  
-That do I choose of thee.
 ### d
 To thee hath been assigned for mighty power,  
 For ever, in the slaying of Vrtra,  
@@ -34,7 +26,7 @@ Indra the songs have praised.
 The singers sing thee [2];  
 The praisers hymn thy praise;  
 The Brahmans raise thee,  
-0 Çatakratu, like a pole.
+0 Śatakratu, like a pole.
 ### i
 Let us offer our praise to him who delivereth from trouble, Swiftest to give, celebrating his loving kindness; O Indra, accept this oblation;  
 May the desires of the sacrificer be fulfilled.
