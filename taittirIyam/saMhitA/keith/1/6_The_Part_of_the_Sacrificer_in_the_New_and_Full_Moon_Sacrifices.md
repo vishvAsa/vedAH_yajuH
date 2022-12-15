@@ -7,10 +7,7 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 ### c
 
 ### f
-In the raw thou didst produce the cooked,  
-And madest the sun to mount in the sky;  
-Like the glowing pot heat ye the Saman  
-With good prayers, delightful to the lover of song.
+
 ### g
 Indra the singers aloud,  
 Indra with praises the praisers,  
