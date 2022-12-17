@@ -3,33 +3,7 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 ## 12
-
-### c
-In whom the seven Vasavas rest  
-As it were firm rooted,  
-The Rsi of farthest hearing,  
-The glowing pot is the guest of Indra.
-### f
-In the raw thou didst produce the cooked,  
-And madest the sun to mount in the sky;  
-Like the glowing pot heat ye the Saman  
-With good prayers, delightful to the lover of song.
-### g
-Indra the singers aloud,  
-Indra with praises the praisers,  
-Indra the songs have praised.
-### h
-The singers sing thee [2];  
-The praisers hymn thy praise;  
-The Brahmans raise thee,  
-0 Śatakratu, like a pole.
-### i
-Let us offer our praise to him who delivereth from trouble, Swiftest to give, celebrating his loving kindness; O Indra, accept this oblation;  
-May the desires of the sacrificer be fulfilled.
 ### k
-That to which Dhisana impelled me have I produced; I shall praise Indra before the decisive day;  
-Him that goeth as with a ship  
-Both parties invoke that there he may rescue us.
 ### l
 First lord of sacrifices [3],  
 Freeing from trouble, the best of those worthy of offering, Son of the waters, the impeller, O ye Aśvins;  
