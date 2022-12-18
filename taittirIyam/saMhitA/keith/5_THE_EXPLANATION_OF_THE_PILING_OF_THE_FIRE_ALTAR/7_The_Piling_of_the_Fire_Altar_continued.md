@@ -72,7 +72,7 @@ The gods and the Asuras were in conflict; the Asuras sought to force them from t
 O Agni and Visnu,  
 May these songs gladden you in unison;  
 Come ye with radiance and strength.  
-The theologians say, 'Since they do not offer to any deity, then what deity has the stream of wealth?' Wealth is Agni, this stream is his; wealth is Visnu, this stream is his; with a verse addressed to Agni and Visnu he offers the stream of wealth; verily he unites them with their proper portions; verily also [2] he makes this libation to have an abode; he wins that for desire of which he makes this offering. The fire is Rudra; now two are his bodies, the dread the one, the auspicious the other; in that he offers the Çatarudriya, he soothes with it his dread form; in that he offers the stream of wealth, he delights with it his auspicious form. He, who knows the support of the stream of wealth [3], finds support. If there is any butter left over, in it he should cook a mess for the Brahmans, four Brahmans should eat it; the Brahman is Agni Vaiśvanara, Vaiśvanara, is the form dear to Agni; verily he establishes it in his dear form. He should give four cows; verily with them the sacrificer in yonder world milks the fire.
+The theologians say, 'Since they do not offer to any deity, then what deity has the stream of wealth?' Wealth is Agni, this stream is his; wealth is Visnu, this stream is his; with a verse addressed to Agni and Visnu he offers the stream of wealth; verily he unites them with their proper portions; verily also [2] he makes this libation to have an abode; he wins that for desire of which he makes this offering. The fire is Rudra; now two are his bodies, the dread the one, the auspicious the other; in that he offers the Śatarudriya, he soothes with it his dread form; in that he offers the stream of wealth, he delights with it his auspicious form. He, who knows the support of the stream of wealth [3], finds support. If there is any butter left over, in it he should cook a mess for the Brahmans, four Brahmans should eat it; the Brahman is Agni Vaiśvanara, Vaiśvanara, is the form dear to Agni; verily he establishes it in his dear form. He should give four cows; verily with them the sacrificer in yonder world milks the fire.
 ## 04
 ### a
 'To thought I offer with mind, with ghee', he says; the oblation to Viśvakarman is called the undeceivable; the foe cannot deceive him who has piled; verily also he wins the gods.
@@ -126,7 +126,7 @@ O Indra and Agni, with all of these
 Grant us brilliance, O Brhaspati.  
 Grant us brilliance [3] in our Brahmans,  
 Place brilliance in our princes,  
-Brilliance in Viśyas and Çudras;  
+Brilliance in Viśyas and Śudras;  
 With thy flame grant me brilliance.  
 The glory and power of him who has piled the fire go apart twofold, or to the fire which he has piled or to the man who has sacrificed. In that he offers these libations, he places in himself power and fame.
 ### e
@@ -251,7 +251,7 @@ For Pusan the rectum; for the blind serpent the large entrails; serpents with th
 ## 18
 Force with the neck; Nirrti with the bones; Indra with the hard-working bearing part; for Rudra the moving shoulder; for day and night the second (part); for the half-months the third; for the months the fourth; for the seasons the fifth; for the year the sixth.
 ## 19
-Joy with the delighter; love with the two Pratyasas; fear with the two Çitimans; command with the two Praśasas; sun and moon with the two kidney parts; the dark and the light with the two kidneys; the dawning with the form; the setting with the formless.
+Joy with the delighter; love with the two Pratyasas; fear with the two Śitimans; command with the two Praśasas; sun and moon with the two kidney parts; the dark and the light with the two kidneys; the dawning with the form; the setting with the formless.
 ## 20
 Day with the flesh; night with the fat; the waters with the juice; ghee with the sap; ice with the fat (vása); hail with the rheum of the eyes; with tears hoar-frost; sky with the form; the Naksatras with the shadow; earth with the hide; the skin with the skin; to it brought up hail! To it slaughtered hail! To it offered hail!
 ## 21

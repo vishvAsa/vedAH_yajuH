@@ -28,7 +28,7 @@ Rich in oblation are the Maruts whom our song praises.'
 ### d
 The wrong we have done in village or wild,  
 In the assembly, in our members,  
-The wrong to Çudra or Aryan,  
+The wrong to Śudra or Aryan,  
 The wrong contrary to the law of either,  
 Of that thou art the expiation; hail!
 ### e
@@ -42,7 +42,7 @@ To Agni Anikavant he offers a cake on eight potsherds as the sun rises, an oblat
 ### b
 O ladle, fly away filled,  
 And well filled do thou fly back;  
-Like wares, O Çatakratu,  
+Like wares, O Śatakratu,  
 Let us barter food and strength.
 ### c
 Give thou to me; I shall give to thee;  
@@ -133,7 +133,7 @@ With unstrung bow, thy club in thy hand, clad in skins.
 ## 07
 
 ### a
-(He I offers) to Indra and Agni on twelve potsherds, an oblation to the All-gods, a cake on twelve potsherds to Indra Çunasira, milk to Vayu, to Sarya on one potsherd; the sacrificial fee is a plough for twelve oxen.
+(He I offers) to Indra and Agni on twelve potsherds, an oblation to the All-gods, a cake on twelve potsherds to Indra Śunasira, milk to Vayu, to Sarya on one potsherd; the sacrificial fee is a plough for twelve oxen.
 ### b
 To Agni he offers on eight potsherds, to Rudra an oblation of Gavidhuka, to Indra curds, to Varuna an oblation made of barley; the sacrificial fee is a cow for draught purposes.
 ### c
@@ -232,7 +232,7 @@ Do thou mount the shining (quarter); let the Jagati of metres help thee, the Sap
 ### d
 Do thou mount the northern (quarter); let the Anustubh of metres help thee [1], the Ekavinśa Stoma, the Vairaja Saman, the deity Mitra and Varuna, the treasure the host.
 ### e
-Do thou mount the zenith; let the Pañkti of metres help thee, the Trinava, and Trayastrinśa Stomas, the Çakvara and Raivata Samans, the deity Brhaspati, the treasure radiance.
+Do thou mount the zenith; let the Pañkti of metres help thee, the Trinava, and Trayastrinśa Stomas, the Śakvara and Raivata Samans, the deity Brhaspati, the treasure radiance.
 ### f
 Such like, other like, thus like, similar, the measured, commensurate, harmonious,
 ### g
@@ -330,7 +330,7 @@ He offers to Agni on eight potsherds; the sacrificial fee is gold. (He offers) t
 On the same day they consecrate, on the same day they buy the Soma. He presents a lotus wreath. He buys the Soma with calves. There is a drink for ten. A hundred Brahmans drink. The Stotra is the Saptadaśa. The two ornaments he gives to the Adhvaryu, the garland to the Udgatr, the round  
 ornament to the Hotr, a horse to the Prastotr and Pratihartr, twelve heifers to the Brahman, a cow to the Maitravaruna, a bull to the Brahmanacchansin, garments to the Nestr and Potr, a wagon drawn by one ox laden with barley to the Achavaka, a draught ox to the Agnidh. The Hotr is a Bhargava;
   
-the Saman of the Brahman is the Çrayantiya; the Agnistoma Saman is the Varavantiya. He takes water of the Sarasvati.
+the Saman of the Brahman is the Śrayantiya; the Agnistoma Saman is the Varavantiya. He takes water of the Sarasvati.
 ## 19
 To Agni he offers on eight potsherds; the sacrificial fee is gold. To Indra (he offers) on eleven potsherds; the sacrificial fee is a bull. To the All-gods (he offers) an oblation; the sacrificial fee is a tawny heifer. To Mitra and Varuna (he offers) clotted curds; the sacrificial fee is a cow. To Brhaspati (he offers) an oblation; the sacrificial fee is a white-backed (ox). To the Adityas he sacrifices a sheep in young, to the Maruts a dappled heifer. To the Aśvins and Pusan he offers a cake on twelve potsherds; to Sarasvati of true speech an oblation; to Savitr of true instigation a cake on twelve potsherds; the sacrificial fee is a dry skin bag and a bow with three arrows.
 ## 20

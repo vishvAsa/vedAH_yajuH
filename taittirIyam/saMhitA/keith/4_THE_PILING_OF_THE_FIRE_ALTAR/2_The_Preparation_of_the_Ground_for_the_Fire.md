@@ -312,7 +312,7 @@ Plougheth up a cow, a sheep,
 And a fat blooming maid,  
 A chariot support with a platform.
 ### s
-With prosperity may our ploughs cleave the ground, With prosperity may the ploughers go round the yokes; Prosperity (may) Parjanya (give) with honey and milk, And do ye, O Çuna and Sira, accord prosperity to us.
+With prosperity may our ploughs cleave the ground, With prosperity may the ploughers go round the yokes; Prosperity (may) Parjanya (give) with honey and milk, And do ye, O Śuna and Sira, accord prosperity to us.
 ### t
 Wishes, O milker of wishes, do thou milk To Mitra and Varuna;  
 To Indra, to Agni, to Pusan,  
@@ -659,7 +659,7 @@ The goat was born from Agni as an embryo;
 She beheld her begetter before;  
 Thereby those worthy of sacrifice attained pre-eminence,  
 Thereby first the gods attained godhead;  
-I appoint for thee the Çarabha of the forest;  
+I appoint for thee the Śarabha of the forest;  
 Therewith piling thy forms, be seated.
 ## 11
 ### a

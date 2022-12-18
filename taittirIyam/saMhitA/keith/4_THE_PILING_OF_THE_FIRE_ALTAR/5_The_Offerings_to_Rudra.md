@@ -176,7 +176,7 @@ Homage to you dogs, and to you, lords of dogs, homage!
 ### a
 Homage to Bhava and to Rudra.
 ### b
-Homage to Çarva and to the lord of cattle.
+Homage to Śarva and to the lord of cattle.
 ### c
 Homage to the blue-necked one, and to the white-throated.
 ### d
@@ -184,7 +184,7 @@ Homage to the wearer of braids, and to him of shaven hair.
 ### e
 Homage to him of a thousand eyes, and to him of a hundred bows.
 ### f
-Homage to him who haunteth the mountains, and to Çipivista.
+Homage to him who haunteth the mountains, and to Śipivista.
 ### g
 Homage to the most bountiful, and to the bearer of the arrow.
 ### h
@@ -401,7 +401,7 @@ At a thousand leagues.
 The Bhavas in this great ocean,  
 The atmosphere--
 ### c
-The Çarvas of black necks, and white throats,  
+The Śarvas of black necks, and white throats,  
 Who wander below on the earth--
 ### d
 The Rudras who abide in the sky,  
