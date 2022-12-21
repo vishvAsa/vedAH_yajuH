@@ -22,8 +22,7 @@ Like a dread beast, evil, roaming the mountains, He hath come from the furthest 
 Sharpening thy lance, thy sharp edge, O Indra,  
 Smite the foes, drive away the enemy.
 ### p
-Drive away the foe, the enemy,
-  
+Drive away the foe, the enemy,  
 Smash the jaws of Vrtra;  
 In rage do thou avert the anger  
 Of him who is hostile to us.
