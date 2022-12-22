@@ -5,9 +5,6 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 ## 12
 ### k
 ### l
-First lord of sacrifices [3],  
-Freeing from trouble, the best of those worthy of offering, Son of the waters, the impeller, O ye Aśvins;  
-Do ye confer power and strength on this one.
 ### m
 Smite away our foes, O Indra;  
 Cast down the warriors;  
