@@ -3,21 +3,6 @@ title = "6 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 ## 12
-### k
-### l
-### m
-Smite away our foes, O Indra;  
-Cast down the warriors;  
-Make him low  
-Who is hostile to us.
-### n
-O Indra, thou wast born for rule, for prosperous strength Of the people, O strong one;  
-Thou didst smite away the unfriendly folk,  
-And madest wide room for the gods.
-### o
-Like a dread beast, evil, roaming the mountains, He hath come from the furthest place [4];  
-Sharpening thy lance, thy sharp edge, O Indra,  
-Smite the foes, drive away the enemy.
 ### p
 Drive away the foe, the enemy,  
 Smash the jaws of Vrtra;  
