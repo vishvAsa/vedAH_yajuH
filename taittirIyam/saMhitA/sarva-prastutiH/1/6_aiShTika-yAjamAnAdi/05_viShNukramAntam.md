@@ -346,7 +346,7 @@ Thou art the step of Visnu, smiting enmity; with the Gayatri metre I step across
 पूर्वं विष्णुना क्रान्तां **पृथिवीं** पश्चादिदानीम् अहं **विक्रम** इत्यनोरर्थः । 
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnam/05_viShNukramAntam/nirbhaktaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ## विष्णुक्रममन्त्रः २
@@ -372,7 +372,7 @@ Thou art the step of Visnu, smiting imprecations; with the Tristubh metre I step
 अभिशस्तिरभिशंसनं अकृतगर्होक्तिः । त्रिष्टुब्जगत्यनुष्टुप्शब्देभ्य उत्सादित्वादञ्, 'छन्दसः प्रत्ययविधाने' इत्यस्य प्राग्दीव्यतीयत्वात् ।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnam/05_viShNukramAntam/nirbhaktaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ## विष्णुक्रममन्त्रः ३
@@ -398,7 +398,7 @@ with the Jagati metre I step across the sky;
 अरातीयत इति द्वितीयाबहुवचनम् ।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnam/05_viShNukramAntam/nirbhaktaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
