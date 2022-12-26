@@ -172,7 +172,7 @@ he who knows thus reaches the end with a secure and uninjured sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै सू॒नृता॑यै॒ +++(→[यज्ञ-वाक्])+++ दोह॒व्ँ वेद॑ - दु॒ह ए॒वैनाँ᳚म् +++(स्वर्गादिप्राप्त्या)+++।
+यो वै सू॒नृता॑यै॒ +++(→[यज्ञ-वाक्])+++ दोह॒व्ँ वेद॑ - दु॒हय् +++(←"लोपस् त आत्मनेपदेषु")+++ ए॒वैनाँ᳚म् +++(स्वर्गादिप्राप्त्या)+++।
 </details>
 
 <details><summary>Keith</summary>
