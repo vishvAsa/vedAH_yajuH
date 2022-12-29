@@ -49,7 +49,7 @@ Of them thou art the highest;
 Do thou instigate us to life.  
 'Thee, O Agni, with the mind have I obtained; thee, O Agni, with the fervour have I obtained; thee, O Agni, with the consecration have I obtained; thee, O Agni, with the observances have I obtained; thee, O Agni, with the pressing-day have I obtained; thee, O Agni, with the sacrificial fees have I obtained; thee, O Agni, with the concluding bath have I obtained; thee, O Agni, with the barren cow have I obtained; thee, O Agni, with the cry of Godspeed I have I obtained', he says; I this is the obtaining of Agni verily therewith he obtains him.
 ## 08
-He pays reverence in front with the Gayatra (Saman); verily he confers breath upon him. (He reverences) the wings with the Brhat and the Rathantara; verily he confers might upon him. (He reverences) the tail with the seasonal Yajñayajñiya; verily he finds support in the seasons. He pays reverence with the Prstha (Stotras); the Prsthas are brilliance; verily he confers brilliance upon him. Prajapati created Agni; he, created, went away from him; him he checked (avarayata) by the Varavantiya, and that is why the Varavantiya has it name. By the Çyaita he congealed him, and that is why the Çyaita has its name [1]. In that he reverences, with the Varavantiya, he restrains him, and by the Çyaita he congeals him. At the joinings of the wings he reverences with the heart of Prajapati; verily he attains his affection.  
+He pays reverence in front with the Gayatra (Saman); verily he confers breath upon him. (He reverences) the wings with the Brhat and the Rathantara; verily he confers might upon him. (He reverences) the tail with the seasonal Yajñayajñiya; verily he finds support in the seasons. He pays reverence with the Prstha (Stotras); the Prsthas are brilliance; verily he confers brilliance upon him. Prajapati created Agni; he, created, went away from him; him he checked (avarayata) by the Varavantiya, and that is why the Varavantiya has it name. By the Śyaita he congealed him, and that is why the Śyaita has its name [1]. In that he reverences, with the Varavantiya, he restrains him, and by the Śyaita he congeals him. At the joinings of the wings he reverences with the heart of Prajapati; verily he attains his affection.  
 With the eastern quarter I place thee, with the Gayatri metre, with Agni as the deity; with the head of Agni I put down the head of Agni.  
 With the southern quarter I place thee, with the Tristubh metre, with Indra as the deity; with the wing of Agni I put down the wing of Agni.  
 With the western quarter I place thee [2], with the Jagati metre, with Savitr as the deity; with the tail of Agni I put down the tail of Agni.  
@@ -80,7 +80,7 @@ The breaths depart from him who piling the fire steps down on it; 'May speech be
 ### i
 The Rudra in the fire, in the waters, in the plants, the Rudra that hath entered all beings, to that Rudra be homage.
 ### k
-Some Rudras have shares in the libations (ahuti), others have shares in the oblations (havis) [3]; having offered the Çatarudriya, he should put down on the last brick an oblation of Gavidhuka; verily he soothes him with his portion. 'For him indeed is the Çatarudriya offered in truth', they say, 'for whom this (oblation) is made on the fire.'
+Some Rudras have shares in the libations (ahuti), others have shares in the oblations (havis) [3]; having offered the Śatarudriya, he should put down on the last brick an oblation of Gavidhuka; verily he soothes him with his portion. 'For him indeed is the Śatarudriya offered in truth', they say, 'for whom this (oblation) is made on the fire.'
 ### l
 May the Vasus, with the Rudras, protect thee on the east; may the Pitrs whose lord is Yama, with the Pitrs, protect thee on the south; may the Adityas, with the All gods, protect thee on the west; may Dyutana Maruta, with the Maruts, protect thee on the north [4]; may the gods, whose chief is Indra, protect thee from below and from above.
 ### m
@@ -117,7 +117,7 @@ The Horse Sacrifce (continued)
 ## 11
 To Indra, the king, a boar; to Varuna, the king, a black (antelope); to Yama, the king, a deer; to the bull, the king, a Gayal; to the tiger, the king, a Bos Gavaeus; to the king of men a monkey; for the swift falcon a quail; for the Nilangu (snake) a worm; for Soma, the king, a gazelle; for the ocean a crocodile; for the snowy mountain an elephant.
 ## 12
-The ape is for Prajapati; the owl, the Haliksna the cat, are for Dhatr; to Sarasvati the white starling, of human speech; the wild goat, the ichneumon, the Çaka, these are for Pusan; the curlew to speech.
+The ape is for Prajapati; the owl, the Haliksna the cat, are for Dhatr; to Sarasvati the white starling, of human speech; the wild goat, the ichneumon, the Śaka, these are for Pusan; the curlew to speech.
 ## 13
 To the offspring of waters a fish; the crocodile, the dolphin, the Kulikaya are for the ocean; to speech the Paingaraja; to Bhaga the sea-crow; the swan, the Vahasa, the woodpecker, these are for Vayu; to the quarters the Cakravaka.
 ## 14
@@ -130,9 +130,9 @@ For the sun the crane; the deer, the peacock, the hawk, these are for the Gandha
 ## 17
 The dappled (deer) is for the All-gods; the Pitva, Nyanku, the Kaśa, these are (to be offered) to Anumati; the cuckoo is for the half months; the tortoise for the months; the Kvayi, the Kutaru, the gallinule, these are (to be offered) to Sinivali; to Brhaspati the cat.
 ## 18
-The Çaka, is for earth; the field-rat, the Kaśa, the flying fox, these are for the fathers; the pole-cat for the seasons; the quail to the year; the pigeon, the owl, the hare, these are for Nirrti; the cock for Savitr.
+The Śaka, is for earth; the field-rat, the Kaśa, the flying fox, these are for the fathers; the pole-cat for the seasons; the quail to the year; the pigeon, the owl, the hare, these are for Nirrti; the cock for Savitr.
 ## 19
-The deer for Rudra; the chameleon, the bird, the Pippaka, these are (to be offered) to the arrow shot; the gazelle for the Maruts; the Çarga to the Brahman; the hyena, the black (deer), the dog of four eyes, the ass, these are for other men; to Agni the crow.
+The deer for Rudra; the chameleon, the bird, the Pippaka, these are (to be offered) to the arrow shot; the gazelle for the Maruts; the Śarga to the Brahman; the hyena, the black (deer), the dog of four eyes, the ass, these are for other men; to Agni the crow.
 ## 20
 The Alaja is for the atmosphere; the otter, the diver, the swimmer, these for the waters; to Aditi the Hansasaci; to Indrani the Kirśa; the vulture, the white-breasted, the Vardhranasa, these are for the sky; the hedgehog is for sky and earth.
 ## 21

@@ -23,7 +23,7 @@ Thou art the sovereign, the western quarter [1]; the Adityas, the deities, are t
 ### d
 Thou art the self-ruling, the northern quarter; the All-gods are thine overlords, Varuna stayeth missiles from thee; may the twenty-onefold Stoma support thee on earth, the Niskevalya Uktha establish thee, in firmness, the Vairaja Samana be thy support.
 ### e
-Thou art the lady paramount, the great quarter; the Maruts, the deities, are thine overlords [2], Brhaspati stayeth missiles from thee; may the twenty-sevenfold and the-thirty-threefold Stomas secure thee on earth, the Vaiśvadeva and the Agnimaruta hymns establish thee in firmness, the Çakvara and Raivata Samans be thy support.
+Thou art the lady paramount, the great quarter; the Maruts, the deities, are thine overlords [2], Brhaspati stayeth missiles from thee; may the twenty-sevenfold and the-thirty-threefold Stomas secure thee on earth, the Vaiśvadeva and the Agnimaruta hymns establish thee in firmness, the Śakvara and Raivata Samans be thy support.
 ### f
 For the atmosphere may the Rsis firstborn among the gods extend thee with the measure, the breadth, of the sky, and be that is disposer and overlord; let all of them in unison establish thee and the sacrificer on the ridge of the vault, on the world of heaven.
 ## 03
@@ -227,21 +227,21 @@ Be thou, O Agni, among those of the five races.
   
 (Thou I art) all overcoming through Agni; self-ruling through the sun; lord of strength through might; creator with the bull; bountiful through the sacrifice; heavenly through the sacrificial fee; slayer of enemies through rage; supporter of the body through kindliness; wealth through food; through the earth he hath won; (thou art) eater of food with verses; increased by the Vasat cry; protector of the body through the Saman; full of light with the Viraj; drinker of Soma through the holy power; with cows he supporteth the sacrifice; with lordly power men; with horse and car bearer of the bolt; lord with the seasons; enclosing with the year; unassailable through penance; the sun with bodies.
 ## 09
-(Thou art) Prajapati in mind, when come to the Soma; the creator in the consecration; Savitr in the bearing; Pusan in the cow for the purchase of the Soma; Varuna when bound (in the cloth); Asura in the being bought; Mitra when purchased; Çipivista when put in place; delighter of men when being drawn forward; the overlord on arrival; Prajapati being led on; Agni at the Agnidh's altar; Brhaspati on being led from the Agnidh's altar; Indra at the oblation-holder; Aditi when put in place; Visnu when being taken down; Atharvan when made wet; Yama when pressed out; drinker of unpurified (Soma) when being cleansed; Vayu when purifying; Mitra as mixed with milk; the Manthin when mixed with groats; that of the All-gods when taken out; Rudra when offered; Vayu when covered up; the gazer on men when revealed; the food when it comes; the famed of the fathers; life when taken; the river when going to the final bath; the ocean when gone; the water when dipped; the heaven when arrived at completion.
+(Thou art) Prajapati in mind, when come to the Soma; the creator in the consecration; Savitr in the bearing; Pusan in the cow for the purchase of the Soma; Varuna when bound (in the cloth); Asura in the being bought; Mitra when purchased; Śipivista when put in place; delighter of men when being drawn forward; the overlord on arrival; Prajapati being led on; Agni at the Agnidh's altar; Brhaspati on being led from the Agnidh's altar; Indra at the oblation-holder; Aditi when put in place; Visnu when being taken down; Atharvan when made wet; Yama when pressed out; drinker of unpurified (Soma) when being cleansed; Vayu when purifying; Mitra as mixed with milk; the Manthin when mixed with groats; that of the All-gods when taken out; Rudra when offered; Vayu when covered up; the gazer on men when revealed; the food when it comes; the famed of the fathers; life when taken; the river when going to the final bath; the ocean when gone; the water when dipped; the heaven when arrived at completion.
 ## 10
 ### a
 (Thou art) Krttikas, the Naksatra, Agni, the deity; ye are the radiances of Agni, of Prajapati, of the creator, of Soma; to the Re thee, to radiance thee, to the shining thee, to the blaze thee, to the light thee
 ### b
 (Thou art) Rohini the Naksatra, Prajapati the deity; Mrgaśirsa the Naksatra, Soma the deity; Ardra the Naksatra, Rudra the deity; the two Punarvasus the Naksatra, Aditi the deity; Tisya the Naksatra, Brhaspati the deity; the Aśresas the Naksatra, the serpents the deity; the Maghas the Naksatra, the fathers the deity; the two Phalgunis the Naksatra [1], Aryaman the deity; the two Phalgunis the Naksatra, Bhaga the deity; Hasta the Naksatra, Savitr the deity; Citra the Naksatra, Indra the deity; Svati the Naksatra, Vayu the deity; the two Viśakhas the Naksatra, Indra and Agni the deity; Anruradha the Naksatra, Mitra the deity; Rohini the Naksatra, Indra the deity; the two Viśrts the Naksatra; the fathers the deity; the Asadhas the Naksatra, the waters the deity; the Asadhas the
   
-Naksatra, the All-gods the deity; Çrona the Naksatra, Visnu the deity; Çravistha the Naksatra, the Vasus [2] the, deity; Çatabhisaj the Naksatra, Indra the deity; Prosthapadas the Naksatra, the goat of one foot the deity; the Prosthapadas the Naksatra, the serpent of the deep the deity; Revati the Naksatra, Pusan the deity; the two Aśvayujs the Naksatra, the Aśvins the deity; the Apabharanis the Naksatra, Yama the deity.
+Naksatra, the All-gods the deity; Śrona the Naksatra, Visnu the deity; Śravistha the Naksatra, the Vasus [2] the, deity; Śatabhisaj the Naksatra, Indra the deity; Prosthapadas the Naksatra, the goat of one foot the deity; the Prosthapadas the Naksatra, the serpent of the deep the deity; Revati the Naksatra, Pusan the deity; the two Aśvayujs the Naksatra, the Aśvins the deity; the Apabharanis the Naksatra, Yama the deity.
 ### c
 Full on the west; what the gods placed.
 ## 11
 ### a
 (Ye are) Madha and Madhava, the months of spring.
 ### b
-(Ye are) Çukra and Çuci, the months of summer.
+(Ye are) Śukra and Śuci, the months of summer.
 ### c
 (Ye are) Nabha and Nabhasya, the months of rain.
 ### d
@@ -312,7 +312,7 @@ This kingly power rich in friends, with dripping wet,
 Do ye, O Mitra and Varuna, guard through your overlordship.
 ### i
 May the victorious among quarters, with the Saman, the strong one, The season winter in order make us full;  
-May the great ones, the Çakvari (verses), with favouring winds [8] Aid this sacrifice, full of ghee.
+May the great ones, the Śakvari (verses), with favouring winds [8] Aid this sacrifice, full of ghee.
 ### k
 May the heavenly of the quarters, the easily milked, the rich in milk, The goddess aid us, full of ghee;  
 Thou art the protector, who goest in front and behind;  
