@@ -2,4 +2,4 @@
 title = "01 प्रायणीयायास्तन्त्रम् प्रक्रमयति"
 
 +++
-प्रायणीयायास्तन्त्रं प्रक्रमयति १
+1. (The Adhvaryu) starts the procedure of the Prāyaṇīyā (-offering).

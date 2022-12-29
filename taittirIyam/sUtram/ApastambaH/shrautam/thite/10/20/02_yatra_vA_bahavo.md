@@ -2,4 +2,7 @@
 title = "02 यत्र वा बहवो"
 
 +++
-यत्र वा बहवो ब्राह्मणाः संराधयेयुः २
+2. Or it should be one which may be praised by Brāhmaṇas.[^1]  
+
+
+[^1]: Cr. Ks XXV.3.

@@ -2,4 +2,10 @@
 title = "10 अच्छिन्नन् तन्तुम् पृथिव्या"
 
 +++
-अच्छिन्नं तन्तुं पृथिव्या अनुगेषमिति हस्तेन लोष्टं विमृद्नात्या पारात् १०
+10. With acchinnaṁ tantuṁ pr̥thivyāḥ...[^1] he crushes a clod of earth with his hand upto the bank[^2] (and scatters the loosened earth over the water).  
+
+
+[^1]: TS I.2.3.1.   
+
+
+[^2]: Cf. TS VI.1.4.9.

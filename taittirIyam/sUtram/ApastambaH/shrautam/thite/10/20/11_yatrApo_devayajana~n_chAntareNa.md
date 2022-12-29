@@ -2,4 +2,7 @@
 title = "11 यत्रापो देवयजनञ् चान्तरेण"
 
 +++
-यत्रापो देवयजनं चान्तरेण पन्था अभिविधावेत्तस्मिन्याजयेद्यं कामयेत नैनमुत्तरो यज्ञ उपनमेदिति ११
+11. In the case of a sacrificer about whom (the Adhvaryu) desires that no further sacrifice should be possible to him, he should make him perform a sacrifice on a place where a road runs between water and the place of sacrifice.[^1]  
+
+
+[^1]: Cf. KS XXV.2. 

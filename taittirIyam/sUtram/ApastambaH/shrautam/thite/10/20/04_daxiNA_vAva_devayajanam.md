@@ -2,4 +2,7 @@
 title = "04 दक्षिणा वाव देवयजनम्"
 
 +++
-दक्षिणा वाव देवयजनम् । दक्षिणाश्चेत्कल्याणीर्ददाति देवयजन एव यजत इत्येके ४
+4. “The sacrificial gifts indeed are the place of sacrifice. If one gives good sacrificial gifts, it is as good as one performs it on the (proper) place of sacrifice"-thus some[^1] (say).  
+
+
+[^1]: Not known. 

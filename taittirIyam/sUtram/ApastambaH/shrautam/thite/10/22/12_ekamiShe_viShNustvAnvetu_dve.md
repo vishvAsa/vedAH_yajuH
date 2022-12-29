@@ -2,4 +2,7 @@
 title = "12 एकमिषे विष्णुस्त्वान्वेतु द्वे"
 
 +++
-एकमिषे विष्णुस्त्वान्वेतु द्वे ऊर्जे विष्णुस्त्वान्वेतु त्रीणि व्रताय विष्णुस्त्वान्वेतु चत्वारि मयोभवाय विष्णुस्त्वान्वेतु पञ्च पशुभ्यो विष्णुस्त्वान्वेतु षड्रायस्पोषाय विष्णुस्त्वान्वेतु सप्त सप्तभ्यो होत्राभ्यो विष्णुस्त्वान्वेत्विति निक्रम्यमाणेषु यजमानोऽनुवर्तयित्वा १२
+12. While the foot-prints (of the cow) are being stepped into (by the Adhvaryu) the sacrificer having followed (the six formulae) respectively (with the six formulae beginning) with ekam ise viṣṇustvānvetu,[^1]  
+
+
+[^1]: TB III.7.7. The sentence in this Sūtra is incomplete. See the next Sūtra.

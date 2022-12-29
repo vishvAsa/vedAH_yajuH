@@ -2,4 +2,7 @@
 title = "07 क्षौमं वासो द्विगुणन्"
 
 +++
-क्षौमं वासो द्विगुणं त्रिगुणं वा प्राग्दशमुत्तरदशं चर्मण्यास्तृणाति । उदग्दशं वा ७
+7. Upon the skin (of black antelope) (the Adhvaryu) spreads out a linen garment folded twice or thrice with its fringes pointing to the east or to the north.[^1]  
+
+
+[^1]: Cp. ŚB III.3.2.9.

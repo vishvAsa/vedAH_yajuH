@@ -2,4 +2,7 @@
 title = "16 न साम्येक्षमुपेयात् न"
 
 +++
-न साम्येक्षमुपेयात् । न यजमानः सोमं विचिनुयात् १६
+16. He should not look at the Soma, having slightly turned (sāmyekṣa). The sacrificer should not select the soma.[^1]  
+
+
+[^1]: Cf. MS III.7.4.  
