@@ -2,4 +2,7 @@
 title = "06 सन् देवि देव्योर्वश्या"
 
 +++
-सं देवि देव्योर्वश्या पश्यस्वेति सोमक्रयण्या पत्नीं सङ्ख्यापयति ६
+6. (The Adhvaryu) causes the wife of the sacrificer to exchange a look with the Soma-purchasing cow with saṁ devi devyorvaśyā paśyasva.[^1]  
+
+
+[^1]: TS I.2.5.h. 

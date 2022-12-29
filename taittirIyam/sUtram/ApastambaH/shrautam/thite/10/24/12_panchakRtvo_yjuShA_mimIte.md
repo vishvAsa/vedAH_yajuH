@@ -2,4 +2,7 @@
 title = "12 पञ्चकृत्वो य्जुषा मिमीते"
 
 +++
-पञ्चकृत्वो य्जुषा मिमीते । पञ्चकृत्वस्तूष्णीम् १२
+12. Five times he measures with a Yajus (-formula); five times silently (without any formula).[^1]  
+
+
+[^1]: Cf. TS VI.1.9.6.  

@@ -2,4 +2,9 @@
 title = "10 मित्रस्त्वा पदि बध्नात्विति"
 
 +++
-मित्रस्त्वा पदि बध्नात्विति दक्षिणं पूर्वपादं प्रेक्षते । पूषाध्वनः पात्विति प्राचीं यतीमनुमन्त्रयते १०
+10. With mitrastvā padi badhnāta...[^1] (the Adhvaryu) looks at her right fore-leg, with pūṣādhvanaḥ pātu...[^1] he addresses her while going towards the east.  
+
+
+[^1]: TS I.2.4.h.  
+
+[^2]: TS I.2.4.i-m.  
