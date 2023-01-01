@@ -5,5 +5,5 @@ title = "08 शतेन वाजपेयस्य द्वाभ्यां
 
 <details><summary>थिते</summary>
 
-शतेन वाजपेयस्य । द्वाभ्यां राजसूयस्य ८
+8. In the Vājapeya(-sacrifice) (Soma should be purchased) for a hundred (cows); in the Rājasūya (sacrifice).... for two (hundred cows); 
 </details>

@@ -5,5 +5,5 @@ title = "02 भूयसा वा"
 
 <details><summary>थिते</summary>
 
-भूयसा वा २
+2. or for more (than ten things).  
 </details>

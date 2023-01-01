@@ -5,5 +5,5 @@ title = "06 यदि सोमविक्रयी प्रतिविवद
 
 <details><summary>थिते</summary>
 
-यदि सोमविक्रयी प्रतिविवदेत पृषतैनं वरत्राकाण्डेनावक्षायं नाशयेयुः ६
+6. If the Soma-vendor may quarrel (in connection with the offer for the purchase of Soma), the performers should drive him away (after) beating him up with a moistened leather strap.
 </details>

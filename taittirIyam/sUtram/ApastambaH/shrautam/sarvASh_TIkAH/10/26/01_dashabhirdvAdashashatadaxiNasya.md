@@ -5,5 +5,8 @@ title = "01 दशभिर्द्वादशशतदक्षिणस्�
 
 <details><summary>थिते</summary>
 
-दशभिर्द्वादशशतदक्षिणस्य १
+1. In (a sacrifice) in which one hundred and twelve (cows) (are given as) sacrificial gifts, (Soma should be purchased for ten (things)[^1], 
+
+
+[^1]: Mentioned in TS VI.1.10.1-7.
 </details>

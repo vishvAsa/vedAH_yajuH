@@ -5,5 +5,14 @@ title = "09 उदायुषा स्वायुषेति यजमान
 
 <details><summary>थिते</summary>
 
-उदायुषा स्वायुषेति यजमानो राजानमादायोत्थायोर्वन्तरिक्षमन्विहीति शकटायाभिप्रव्रजति ९
+9. With udāyuṣā svāyuṣā...[^1] having held the king (Soma), (and) having stood up,[^2] with urvantarikṣamanvihi....[^3] the sacrificer goes towards the cart.[^4]  
+
+
+[^1]: TS I.2.8.a.  
+
+[^2]: Cf. ŚB III.3.3.14-15.  
+
+[^3]: TS I.2.8.b.  
+
+[^4]: Cf. ŚB III.3.3.14-15.  
 </details>

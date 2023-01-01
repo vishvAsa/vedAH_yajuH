@@ -5,5 +5,5 @@ title = "07 सप्तविंशतिर्गा हिरण्यञ् 
 
 <details><summary>थिते</summary>
 
-सप्तविंशतिर्गा हिरण्यं छागा वास इति त्रिंशत् ७
+7. twenty-seven cows, gold, she-goat, and cloth-these are the thirty things.
 </details>

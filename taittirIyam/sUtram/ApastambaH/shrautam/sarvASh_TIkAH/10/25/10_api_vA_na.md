@@ -5,5 +5,8 @@ title = "10 अपि वा न"
 
 <details><summary>थिते</summary>
 
-अपि वा न गवेति ब्रूयात् । एषेति निर्दिश्य जपति तस्या आत्मा तस्या रूपं तस्याः प्रजा तस्याः पयस्तस्या बन्धुरिति १०
+10. Or rather, (the Adhvaryu) should not say "(Let me purchase your soma) for a (whole) cow". Having pointed to the cow) with "this here", he mutters tasyā ātmā tasya rūpam...[^1] 
+
+
+[^1]: Cf. KS XXIV.6.  
 </details>
