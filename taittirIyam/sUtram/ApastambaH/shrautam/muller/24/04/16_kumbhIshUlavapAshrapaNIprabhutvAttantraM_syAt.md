@@ -5,7 +5,7 @@ title = "16 कुम्भीशूलवपाश्रपणीप्रभ�
 
 The rule should stand on account of the fitness of the Kumbhi, a large pot, the Śūla, the spit for boiling the heart, and the two Vapāśrapaṇīs, the spits for roasting the vapā.
 
-## १ Commentary
+#####  Commentary
 
 Kumbhī is explained by sroṇyādipākasamarthā
 

@@ -5,6 +5,6 @@ title = "41 प्रयाणे त्वार्थनिर्वृत्�
 
 In case of a journey, however, one hymn is used till the object (of the journey) has been accomplished.
 
-## १ Commentary
+#####  Commentary
 
 I read prayāṇe tu-ā-arthanirvṛtteḥ. Another reading is arthani*v*rittiḥ.

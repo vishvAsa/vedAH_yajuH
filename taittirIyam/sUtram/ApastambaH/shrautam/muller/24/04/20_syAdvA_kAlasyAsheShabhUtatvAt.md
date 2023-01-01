@@ -5,7 +5,7 @@ title = "20 स्याद्वा कालस्याशेषभूतत�
 
 Or (according to others) the Anvārambhaṇīyā should take place (in the Vikṛtis also), because the time (of the Darśa-pūrṇamāsa) does not form an essential part.
 
-## १ Commentary
+#####  Commentary
 
 This Sūtra is not quite clear. It shows clearly enough that, according to some authorities, the Anvārambhaṇīyā or initiatory ceremony of the Darśa-pūrṇamāsa sacrifice should take place in the Vikṛtis also; but why? Because the time has not the character of a śeṣa, which is said to be a synonym of aṅga, an essential part of a sacrifice.
 

@@ -5,7 +5,7 @@ title = "23 जुहोतीति चोद्यमाने सर्पि
 
 If it is said, juhoti, 'he sacrifices,' it should be known that sarpir ājya, melted butter, is meant.
 
-## १ Commentary
+#####  Commentary
 
 Sarpis is here taken as an adjective, running; yad asarpat tat sarpir abhavat. Ājya is explained as navanītavikāradravyajātīyavacanaḥ sabdaḥ, i.e. a word signifying any kind of substance made of fresh butter.
 

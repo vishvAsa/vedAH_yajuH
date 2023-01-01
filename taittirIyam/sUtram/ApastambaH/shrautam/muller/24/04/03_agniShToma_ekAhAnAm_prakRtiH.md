@@ -5,6 +5,6 @@ title = "03 अग्निष्टोम एकाहानाम् प्र
 
 The Agniṣṭoma is the Prakṛti of the Ekāha sacrifices.
 
-## १ Commentary
+#####  Commentary
 
 The Ekāha are sacrifices accomplished in one day.

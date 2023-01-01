@@ -5,7 +5,7 @@ title = "35 नैन्द्राग्नः सन्नयतो वर्
 
 Without distinction of caste, the Aindrāgna offering is omitted for one who offers the Sāṃnāyya.
 
-## १ Commentary
+#####  Commentary
 
 Even though he be not a Somayājin, says the commentary.
 

@@ -5,7 +5,7 @@ title = "07 सर्वैरग्निष्टोमः"
 
 The Agniṣṭoma is prescribed by all.
 
-## १ Commentary
+#####  Commentary
 
 By saying all, the Atharva-veda is supposed to be included, at least according to one commentator.
 

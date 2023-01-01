@@ -5,7 +5,7 @@ title = "21 यदहः पुरस्ताच्चन्द्रमाः 
 
 Let a man observe that full-moon day as a day of abstinence on which the moon comes out full before.
 
-## १ Commentary
+#####  Commentary
 
 The full moon (paurṇamāsī) is really the very moment on which the moon is full and therefore begins to decrease. That moment on which sun and moon are, as the Hindus said, at the greatest distance from each other, is called the parva-sandhi, the juncture of the two phases of the moon. Thus the name of paurṇamāsī belongs to the last day of the one and to the first day (pratipad) of the other phase, and both days might be called paurṇamāsī. If therefore the moon is full on the afternoon, the evening, or the twilight of one day, that day should be observed as a fast-day, and the next day should be the day of sacrifice.
 

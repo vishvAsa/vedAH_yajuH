@@ -5,7 +5,7 @@ title = "43 हविष्कृदध्रिगुपुरोऽनुव�
 
 Repetition takes place in the case of the Havishkṛt, Adhrigu, Puronuvākyā, and Manotā hymns, (because they have to be used) at different times.
 
-## १ Commentary
+#####  Commentary
 
 Havishkṛt-adhrigu-puronuvākyā-manotam is to be taken as a Dvandva compound.
 

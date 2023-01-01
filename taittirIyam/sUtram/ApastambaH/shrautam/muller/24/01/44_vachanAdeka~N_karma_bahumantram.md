@@ -5,6 +5,6 @@ title = "44 वचनादेकङ् कर्म बहुमन्त्र
 
 When it is expressly stated, one sacrificial act may be accompanied by many hymns.
 
-## १ Commentary
+#####  Commentary
 
 Thus we read, 'He takes the Abhri, the hoe, with four Mantras.'

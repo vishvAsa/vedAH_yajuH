@@ -5,7 +5,7 @@ title = "08 क्रयपरिक्रयसंस्कारेषु द�
 
 But accumulation is meant in the buying (of Soma), in the redemption, and in initiation.
 
-## १ Commentary
+#####  Commentary
 
 When it is said that Soma is bought for a goat, gold, &c., that it is re-bought from the priests by means of a fee, or that at the time of the Dīkṣā, the purification and initiation of a sacrificer, clothes, gold, grain, &c., should be given, these are cases not of aut-aut but of et-et.
 

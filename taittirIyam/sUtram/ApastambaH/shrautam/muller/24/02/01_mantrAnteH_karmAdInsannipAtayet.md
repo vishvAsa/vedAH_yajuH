@@ -5,6 +5,6 @@ title = "01 मन्त्रान्तेः कर्मादीन्स�
 
 One ought to let the beginnings of a sacrificial act coincide with the end of the Mantras.
 
-## १ Commentary
+#####  Commentary
 
 The mantra which indicates the nature and purpose of a sacrificial act should come first, and as soon as it has been finished the act should follow. See Katy. I, 3, 5.
