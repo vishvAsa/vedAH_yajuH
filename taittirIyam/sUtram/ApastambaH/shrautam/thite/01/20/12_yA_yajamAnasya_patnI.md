@@ -1,5 +1,0 @@
-+++
-title = "12 या यजमानस्य पत्नी"
-
-+++
-12. Having run towards, she who is the wife of the sacrificer, strikes.  

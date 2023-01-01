@@ -1,5 +1,0 @@
-+++
-title = "03 कृत्तिकासु ब्राह्मण आदधीत"
-
-+++
-3. A Brāhmaṇa (performer) should establish (fires) under Kr̥ttikā (constellation ); he becomes the chief (among his relatives) and possessor of Brahman-splendor. 

@@ -1,5 +1,0 @@
-+++
-title = "01 अथातो दर्शपूर्णमासौ व्याख्यास्यामः"
-
-+++
-1. Now we shall explain the new and full moon-sacrifices. 

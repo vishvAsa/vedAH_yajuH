@@ -1,7 +1,0 @@
-+++
-title = "02 चत्वार ऋत्विजः"
-
-+++
-2. There should be four officiating priests for this sacrifice.[^1]  
-
-[^1]: viz. Hotr̥, Adhvaryu, Āgnidhra and Brahman.  

@@ -1,5 +1,0 @@
-+++
-title = "03 शीर्ष्णा गिरौ क्रीतं"
-
-+++
-3. (If the sacrificial place is) on a mountain they should carry the purchased (Soma) on their head.

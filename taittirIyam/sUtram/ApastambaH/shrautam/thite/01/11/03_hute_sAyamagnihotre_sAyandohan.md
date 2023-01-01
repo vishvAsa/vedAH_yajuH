@@ -1,5 +1,0 @@
-+++
-title = "03 हुते सायमग्निहोत्रे सायन्दोहन्"
-
-+++
-3. After the evening Agnihotra has been offered, he causes the evening-milking done.  
