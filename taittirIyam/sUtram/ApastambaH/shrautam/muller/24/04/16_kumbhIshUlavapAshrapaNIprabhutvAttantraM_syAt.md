@@ -3,10 +3,10 @@ title = "16 कुम्भीशूलवपाश्रपणीप्रभ�
 
 +++
 
-If there are fewer Mantras and more (sacrificial) acts, then after dividing them into equal parts, let him perform the former with the former, the latter with the latter.
+The rule should stand on account of the fitness of the Kumbhi, a large pot, the Śūla, the spit for boiling the heart, and the two Vapāśrapaṇīs, the spits for roasting the vapā.
 
-## Commentary
+## १ Commentary
 
-It happens, for instance, in certain iṣṭis that a pair of Yājyā and Anuvākyā mantras is given, but six acts. In that case one half of the mantras is used for one half of the acts, and the other half of the mantras for the other half of the acts.
+Kumbhī is explained by sroṇyādipākasamarthā
 
-
+bṛhatī sthālī; Śūla by hṛdayapākārthā yaṣṭiḥ, and Vapāśrapaṇī by vapāśrapaṇārthe yaṣṭī dve. The exact object of the Sūtra is not quite clear. Prabhutva is explained by samarthatva, that is, fitness. This would mean, that on account of their fitness, or because they can be used for the object for which they are intended, or, so long as they can be used, the rule applying to them should remain. The commentary explains tantram by tantratā or ekatā. It may mean that the same pots and spits should be used, so long as they fulfil their purpose. The next Sūtra would then form a natural limitation.

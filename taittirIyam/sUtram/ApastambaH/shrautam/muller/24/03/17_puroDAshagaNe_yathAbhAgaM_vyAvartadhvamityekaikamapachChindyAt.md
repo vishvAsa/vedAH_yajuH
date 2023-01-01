@@ -3,6 +3,4 @@ title = "17 पुरोडाशगणे यथाभागं व्याव
 
 +++
 
-And this is the norm for the Savanīya.
-
-
+When the two last are sliced off, he should say for each portion, vyāvartethām, separate ye two!

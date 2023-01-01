@@ -3,10 +3,8 @@ title = "09 रौद्रराक्षसनैरृतपैतृकच�
 
 +++
 
-Sacrificial utensils should be turned inside, the performers being outside.
+If one has performed an offering to Rudra, to the Rākṣasas, to Nirṛti, or to the Pitṛs, if one has cut or broken or thrown away anything, or rubbed oneself, &c., one should touch water.
 
-## Commentary
+## १ Commentary
 
-The meaning is that the priest should carry such things is spoons, vessels, &c., holding them towards the altar. The sacrificer and his wife should likewise be on the inside of the priest, and the priests should take precedence sideways according to their rank.
-
-
+The touching of water is for the sake of purification. Nirasana is left out in some MSS. The ca, inserted after abhimarśanāni, is explained, as usual, as including other acts also, corresponding to our etc.

@@ -3,6 +3,4 @@ title = "11 अपरेणाहवनीयन् दक्षिणाति�
 
 +++
 
-Without taking the caru (out of the sthālī) one puts it down.
-
-
+One pours out (juhoti) all āhutis, west of the Āhavanīya fire, passing (the altar) southward, and then turning to the north.

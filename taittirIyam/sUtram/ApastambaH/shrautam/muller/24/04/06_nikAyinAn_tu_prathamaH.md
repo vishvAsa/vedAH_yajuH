@@ -3,4 +3,8 @@ title = "06 निकायिनान् तु प्रथमः"
 
 +++
 
-For every object (new sacrifice) let him bring forward the fire (let him perform the Agnipraṇayana, the fetching of the Āhavanīya from the Gārhapatya fire). When the sacrifice is finished the fire becomes again ordinary fire, as when the (divine) fire has returned (to the firesticks).
+Of the Nikāyi sacrifices the first serves as Prakṛti.
+
+## १ Commentary
+
+Among the Nikāyi sacrifices, lit. those which consist of a number, all having the same name, but different rewards, the first is the prakṛti of the subsequent ones. The commentator calls them sādyaskra &c., and mentions as the first the Agniṣṭoma. See Sūtra CXLVI, and Weber, Ind. Stud. XIII, p. 218.

@@ -3,10 +3,8 @@ title = "29 निर्देशाद्व्यवतिष्ठन्त�
 
 +++
 
-In the case of one who sacrifices with Soma, the second principal act is the Sāṃnāyya (both at the full-moon and new-moon sacrifices).
+If a special instruction is given, they are restricted.
 
-## Commentary
+## १ Commentary
 
-The Sāṃnāyya is a mixture of dadhi and payas, sour and sweet milk, and is intended for Indra or Mahendra[^1]. It takes the place of the second Puroḍāśa at the new-moon sacrifice.
-
-
+Nirdeśa is explained as viśeṣa-śruti, and the meaning is supposed to be that unless such a special rule is given, the Aṅgas of all the Pradhāna acts remain the same, as, for instance, the Paryagnikaraṇa, the Prayājas, &c. Special instructions are when it is said: payasā maitravaruṇaṃ srīṇāti, sruveṇa puroḍāśam anakti, he cooks the Maitravaruṇa with milk, he anoints the Puroḍāśa with the spoon, &c.

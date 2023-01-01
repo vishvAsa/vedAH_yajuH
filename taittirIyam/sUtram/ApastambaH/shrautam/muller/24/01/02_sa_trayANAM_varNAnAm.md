@@ -5,7 +5,7 @@ title = "02 स त्रयाणां वर्णानाम्"
 
 The sacrifice is for the three colours or castes (varṇa), for Brāhmaṇas and Rājanyas, also for the Vaiśya.
 
-## Commentary
+## १ Commentary
 
 Though the sacrifice is meant for the three castes, here called varṇa, i.e. colour, the third caste, that of the Vaiśya or citizen, is mentioned by itself, while the two castes, the Brāhmaṇas and Rājanyas (the Kṣatriyas or nobles), are mentioned together. This is done because there are certain sacrifices (bahuyajamāna), performed by Brāhmaṇas and Rājanyas together, in which Vaiśyas take no part. In the Śāṅkhāyana-sūtras, I, 1, 3, also the Vaiśya is mentioned by himself. In Kātyāyana's Sūtras, however, no such distinction is made. and we read, I, 6, Brāhmaṇa-rājanya-vaiśyānāṃ śruteḥ. Women, if properly married, are allowed to participate in sacrifices, but no one is allowed to be accompanied by a Sūdrā woman, even though she be his wife. Properly a Brāhmaṇa should marry a wife of his own caste only. A Kṣatriya may marry a woman of his own or of the Brāhmaṇa caste. A Vaiśya's proper wife should be taken from his own caste. See, however, Manu III, 12 seq.
 
@@ -16,5 +16,3 @@ Another exception is made in favour of a Niṣādasthapati, a Niṣāda chieftai
 Again, although, as a rule, the sacrificer must have finished his study of the Veda and be married, a sacrifice is mentioned which a Brahmacārin, a student, may perform. The case thus provided for is, yo brahmacārī striyam upeyāt, sa gardabham paśum ālabheta. As these sacrificers are not upanīta, and therefore without the sacred fires, their sacrifices have to be performed with ordinary fires, and the sacrificial offerings, the puroḍāśas, are not cooked in kapālas, jars, but on the earth, while the avadānas (cuttings), heart, tongue, &c., are sacrificed in water, and not in fire. The Niṣāda chieftain has to learn the necessary Vedic verses by heart, without having passed through a regular course of Vedic study. The same applies to women, who have to recite certain verses during the sacrifice.
 
 That certain women are admitted to the sacrifice, is distinctly stated by Kātyāyana, I, 1, 7, strī kāviśeṣāt.
-
-

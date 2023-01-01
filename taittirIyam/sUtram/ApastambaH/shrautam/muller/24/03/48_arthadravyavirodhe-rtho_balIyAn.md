@@ -3,6 +3,8 @@ title = "48 अर्थद्रव्यविरोधेऽर्थो ब�
 
 +++
 
-One pours out (juhoti) all āhutis, west of the Āhavanīya fire, passing (the altar) southward, and then turning to the north.
+In a Prakṛti sacrifice there is no Ūha, modification of the mantras.
 
+## १ Commentary
 
+Certain mantras of the Veda have to be slightly altered, when their application varies. In the normal sacrifices, however, no such alteration takes place.

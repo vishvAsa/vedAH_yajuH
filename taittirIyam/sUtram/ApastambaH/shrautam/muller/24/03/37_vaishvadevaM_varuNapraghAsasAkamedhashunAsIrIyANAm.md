@@ -3,10 +3,8 @@ title = "37 वैश्वदेवं वरुणप्रघाससाक�
 
 +++
 
-If something is wanting in the measure, let him finish with the rest.
+The Vaiśvadevika Ekakapāla is the norm for all Ekakapālas.
 
-## Commentary
+## १ Commentary
 
-If it is said that a puroḍāśa should be as large as a horse's hoof, and there is not quite so much left, yet whatever is left should be used to finish the offering.
-
-
+The Ekakapāla is a puroḍāśa cake, baked in one kapāla. It is fully described in the Vaiśvadeva, and then becomes the norm of all Ekakapālas. An ekakapāla cake is not divided.

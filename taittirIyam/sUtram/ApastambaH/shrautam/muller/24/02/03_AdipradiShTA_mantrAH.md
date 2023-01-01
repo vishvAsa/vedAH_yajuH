@@ -3,16 +3,8 @@ title = "03 आदिप्रदिष्टा मन्त्राः"
 
 +++
 
-But accumulation is meant in the buying (of Soma), in the redemption, and in initiation.
+Mantras are indicated by their first words.
 
-## Commentary
+## १ Commentary
 
-When it is said that Soma is bought for a goat, gold, &c., that it is re-bought from the priests by means of a fee, or that at the time of the Dīkṣā, the purification and initiation of a sacrificer, clothes, gold, grain, &c., should be given, these are cases not of aut-aut but of et-et.
-
-The Soma-plant, which is supposed to be bought from northern barbarians, is botanically described in an Āyur-vedic extract, quoted in the Dhūrtasvāmi-bhāṣyaṭīkā (MS. E.I.H. 531, p. 3^(b)), as
-
-śyāmālāmlā ca niṣpatrā kṣīriṇī tvaci māṃsalā, śleshmalā vamanī vallī somākhyā chāgabhojanam. 'The creeper called Soma is dark, sour, without leaves, milky, fleshy on the surface, producing phlegm and vomiting, food for goats.'
-
-This passage, quoted from some Āyur-vedic text, is still the only one which gives an approximative description of the Soma-plant. Dr. Hooker says that the predicates 'sour and milky' point to Sarcostemma, but the question is not decided yet. For further information see George Watt, The Soma Plant, an extract from the third volume of the Dictionary of Economic Products of India, and Hillebrandt, Vedische Mythologie, pp. 14 seq.
-
-
+These first words are often called Pratīkas, and rules are given in Āśvalāyana's Śrauta-sūtras I, 1, 17-19, as to the number of words that should form such a pratīka, if it is meant for one verse, for three verses, or for a whole hymn. According to Āśvalāyana, if one foot is quoted, it is meant for a verse; if an imperfect foot of an initial verse is quoted, it is meant for a whole hymn; if more than a foot is quoted, it is meant for three verses.

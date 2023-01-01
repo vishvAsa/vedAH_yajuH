@@ -4,5 +4,3 @@ title = "31 मन्त्रब्राह्मणयोर्वेदन�
 +++
 
 The name Veda belongs both to the Mantras and Brāhmaṇas.
-
-

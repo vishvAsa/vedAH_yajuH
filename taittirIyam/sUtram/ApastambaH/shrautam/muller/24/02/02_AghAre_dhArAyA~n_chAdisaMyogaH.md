@@ -3,10 +3,4 @@ title = "02 आघारे धारायाञ् चादिसंयोग
 
 +++
 
-It is the same with numbers.
-
-## Commentary
-
-If we read that, as in the case of fees to be given to priests, two, seven, eleven, twelve, twenty-one, sixty, or a hundred, this means that either one or the other, not that all should be given at the same time.
-
-
+In the case of the āghāra, sprinkling of clarified butter, and of dhārā, pouring out of Soma, the beginning of the mantra and the act takes place at the same time.

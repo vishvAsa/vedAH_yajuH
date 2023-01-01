@@ -3,10 +3,4 @@ title = "22 अर्थायार्थायाग्निम् प्र�
 
 +++
 
-Substitution does not apply to the master, the altar-fire, the deity, the word, the act, and a prohibition.
-
-## Commentary
-
-The master is meant for the sacrificer himself and his wife. Their place cannot, of course, be taken by anybody else. The altar-fire is supposed to have a supernatural power, and cannot be replaced by any other fire. Nothing can take the place of the invoked deities, nor of the words used in the mantras addressed to them, nor can the sacrifice itself be replaced by any other act. Lastly, when it is said that māṣas, varakas, kodravas are not fit for sacrifice, or that a man ought not to sacrifice with what should not be eaten by Āryas, nothing else can be substituted for what is thus prohibited.
-
-
+For every object (new sacrifice) let him bring forward the fire (let him perform the Agnipraṇayana, the fetching of the Āhavanīya from the Gārhapatya fire). When the sacrifice is finished the fire becomes again ordinary fire, as when the (divine) fire has returned (to the firesticks).

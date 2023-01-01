@@ -3,10 +3,8 @@ title = "19 अमावास्यायाममावास्यया य�
 
 +++
 
-The Vājasaneyins mention a third, the Kharvikā full moon.
+Let a man sacrifice with the Amāvāsyā sacrifice at the time of the Amāvāsyā, new moon.
 
-## Commentary
+## १ Commentary
 
-Kharva means small. If one divides the night into twelve parts, and if in a portion of the twelfth part the greatest distance of sun and moon takes place, then the full moon is called kharvikā, also kṣīṇā. Or, if on the sixteenth day, the full moon takes place before noon, that also is called kharvikā paurṇamāsī. In that case abstinence or fasting takes place on the sixteenth day (tasyāṃ ṣoḍaśeऽhany upavāsaḥ). Both paurṇamāsīs are also called sadyaskālā.
-
-
+Amā-vāsyā is the dwelling together, i.e. the conjunction, of sun and moon, an astronomical expression which was adopted in the common language of the people at a very early time. It does not occur, however, in the Ṛg-veda. In our Sūtra amāvāsyā is used in the sense both of new moon and new-moon sacrifice.

@@ -3,10 +3,14 @@ title = "51 परवाक्यश्रवणादर्थवादः"
 
 +++
 
-With āhutis one should let the act (the pouring out) take place after the Vaṣaṭkāra has been made, or while it is being made.
+If what is prescribed is absent, a substitute is to be taken according to similarity.
 
-## Commentary
+## १ Commentary
 
-The Vaṣaṭkāra consists in the word Vaṣaṭ, to be uttered by the Hotṛ-priest. The five sacrificial interjections are, svāhā, srauṣaṭ, vauṣaṭ, vaṣaṭ, and svadhā.
+Here we have no longer modification, but substitution (pratinidhi). In cases where anything special that has been prescribed is wanting, a substitute must be chosen, as similar as possible, and producing a similar effect.
 
+According to Maṇḍana's Trikāṇḍa, the degrees of similarity are to be determined in the following order:
 
+> Kāryai rūpais tathā parṇaiḥ kṣīraiḥ puṣpaiḥ phalair api,  
+> Gandhai rasaiḥ sadṛg grāhyam pūrvālābhe paramparam. >
+> 'What is similar by effect, by shape, by leaves, by milk, by flowers, > and by fruit, By smell, or by taste is to be taken one after the > other, if the former cannot be found.'

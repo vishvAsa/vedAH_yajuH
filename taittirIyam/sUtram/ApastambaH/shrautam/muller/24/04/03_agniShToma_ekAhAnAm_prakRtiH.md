@@ -3,10 +3,8 @@ title = "03 अग्निष्टोम एकाहानाम् प्र
 
 +++
 
-As the Prakṛti has been told before, anything that has not been told before, should be at the end.
+The Agniṣṭoma is the Prakṛti of the Ekāha sacrifices.
 
-## Commentary
+## १ Commentary
 
-This seems to mean that anything new, peculiar to a Vikṛti, and not mentioned in the Prakṛti, should come in at the end, that is, after those portions of the sacrifice which are enjoined in the Prakṛti.
-
-
+The Ekāha are sacrifices accomplished in one day.

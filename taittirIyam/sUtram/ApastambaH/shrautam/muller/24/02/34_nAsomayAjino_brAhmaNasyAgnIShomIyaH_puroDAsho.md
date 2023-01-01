@@ -3,10 +3,8 @@ title = "34 नासोमयाजिनो ब्राह्मणस्य�
 
 +++
 
-A principal act (pradhāna) is accompanied by auxiliary acts (aṅga).
+In the case of a Brāhmaṇa, who does not sacrifice with Soma, the Agnīṣomīya cake is omitted.
 
-## Commentary
+## १ Commentary
 
-This Sūtra forms sometimes part of the preceding Sūtra, and would then refer to the Pitṛyajña only.
-
-
+This rule does not seem to be accepted by all schools. It is not found in Kātyāyana, and Hiraṇyakeśin observes: Nāsomayājino brāhmaṇasyāgnīṣomīyaḥ puroḍāśo vidyata ity ekeṣām. See Hillebrandt, l.c. p. iii.

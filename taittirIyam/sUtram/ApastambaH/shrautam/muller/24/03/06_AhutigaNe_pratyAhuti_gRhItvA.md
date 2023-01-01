@@ -3,8 +3,4 @@ title = "06 आहुतिगणे प्रत्याहुति गृह
 
 +++
 
-At the time of cooking (adhiśrapaṇa) one throws the grains in with the cooking verse.
-
-Commentary. This verse is gharmo'si.
-
-
+Or, if there are several Āhutis, taking (the butter) for each Āhuti.

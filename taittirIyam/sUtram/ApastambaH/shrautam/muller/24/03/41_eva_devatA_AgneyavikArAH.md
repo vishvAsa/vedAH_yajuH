@@ -3,6 +3,8 @@ title = "41 एव देवता आग्नेयविकाराः"
 
 +++
 
-They are ordered by the word juhoti, he pours out.
+Offerings for two deities are vikāras of the Agnīṣomīya.
 
+## १ Commentary
 
+They must, however, be vegetable offerings, because the puroḍāśa for Agnī-Shomau is a vegetable offering. As an instance, the Āgnāvaiṣṇava Ekādaśakapāla is quoted. Agnīṣomīya has a short a, but the first a in āgnavaiṣṇava is long.

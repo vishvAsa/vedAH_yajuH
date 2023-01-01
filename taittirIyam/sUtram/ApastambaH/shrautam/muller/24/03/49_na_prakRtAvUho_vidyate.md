@@ -3,10 +3,8 @@ title = "49 न प्रकृतावूहो विद्यते"
 
 +++
 
-When there is a number of Puroḍāśas, one should slice off one after another, saying for each portion vyāvartadhvam (separate)!
+In a Vikṛti sacrifice modification takes place, according to the sense, but not in an arthavāda.
 
-## Commentary
+## १ Commentary
 
-Puroḍāśa is a cake made of meal (pakvaḥ piṣṭapiṇḍaḥ), different from karu, which is more of a pulse consisting of grains of rice or barley, and clarified butter (ghṛtataṇḍulobhayātmakam). This puroḍāśa cake has to be divided for presentation to different deities. If there are more than two deities, the plural vyāvartadhvam, separate, has to be used.
-
-
+Some mantras remain the same in the Vikṛti as in the Prakṛti. Others have to be modified so as to be adapted to anything new that has to be. If, for instance, there is a Puroḍāśa for Agni in the Prakṛti, and in its place a Puroḍāśa for Sūrya in the Vikṛti, then we must place Sūrya instead of Agni in the dedicatory mantra.

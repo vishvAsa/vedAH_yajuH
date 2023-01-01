@@ -3,10 +3,8 @@ title = "18 स्विष्टकृद्विकारे वनस्प�
 
 +++
 
-This does not apply to the Sādyaskras, the Vājapeya, the Ṣoḍaśin, and the Sārasvata Sattra.
+At the Vanaspati sacrifice, which is a modification (vikāra) of the Sviṣṭakṛt, the addresses (nigama) of the deities should take place in the Yājyā, because they are included in the Prakṛti.
 
-## Commentary
+## १ Commentary
 
-With regard to the Ṣoḍaśin and its vikāra, the Vājapeya, the laying of the fire is not mentioned. In the case of the Sādyaskras, it becomes impossible, because they have to be quickly finished. In the case of the Sārasvata Sattra, there is the same difficulty on account of not remaining in the same place (anavasthāpān nāgniś cīyate).
-
-
+These nigamas of the deities are not mentioned in the rules of the Vanaspati sacrifice, but they are mentioned in the rules for the Sviṣṭakṛt sacrifice of the Darśapūrṇamāsa, which is the Prakṛti, and should therefore be taken over. Here again, because a reason is given, it is understood that the same reason would apply to other portions of Sviṣṭakṛt also, such as the Dvir abhighāraṇa, which is to be retained in the Vanaspati sacrifice.

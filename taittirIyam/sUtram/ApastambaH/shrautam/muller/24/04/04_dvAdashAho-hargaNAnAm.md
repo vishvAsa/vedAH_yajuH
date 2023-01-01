@@ -3,12 +3,8 @@ title = "04 द्वादशाहोऽहर्गणानाम्"
 
 +++
 
-The rule should stand on account of the fitness of the Kumbhi, a large pot, the Śūla, the spit for boiling the heart, and the two Vapāśrapaṇīs, the spits for roasting the vapā.
+The Dvādaśāha is the Prakṛti of the Ahargaṇas.
 
-## Commentary
+## १ Commentary
 
-Kumbhī is explained by sroṇyādipākasamarthā
-
-bṛhatī sthālī; Śūla by hṛdayapākārthā yaṣṭiḥ, and Vapāśrapaṇī by vapāśrapaṇārthe yaṣṭī dve. The exact object of the Sūtra is not quite clear. Prabhutva is explained by samarthatva, that is, fitness. This would mean, that on account of their fitness, or because they can be used for the object for which they are intended, or, so long as they can be used, the rule applying to them should remain. The commentary explains tantram by tantratā or ekatā. It may mean that the same pots and spits should be used, so long as they fulfil their purpose. The next Sūtra would then form a natural limitation.
-
-
+The Dvādaśāha lasts twelve days and is a Soma sacrifice. It is either an Ahīna or a Sattra. An Ahargaṇa is a series of daily and nightly sacrifices. Those which last from two nights to eleven nights are called Ahīna. Those which last from thirteen to one hundred nights or more are called Sattras.

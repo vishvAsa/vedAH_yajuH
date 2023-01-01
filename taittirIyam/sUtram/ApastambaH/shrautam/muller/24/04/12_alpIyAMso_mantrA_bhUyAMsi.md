@@ -3,10 +3,8 @@ title = "12 अल्पीयांसो मन्त्रा भूयां
 
 +++
 
-The Dvādaśāha is the Prakṛti of the Ahargaṇas.
+If there are fewer Mantras and more (sacrificial) acts, then after dividing them into equal parts, let him perform the former with the former, the latter with the latter.
 
-## Commentary
+## १ Commentary
 
-The Dvādaśāha lasts twelve days and is a Soma sacrifice. It is either an Ahīna or a Sattra. An Ahargaṇa is a series of daily and nightly sacrifices. Those which last from two nights to eleven nights are called Ahīna. Those which last from thirteen to one hundred nights or more are called Sattras.
-
-
+It happens, for instance, in certain iṣṭis that a pair of Yājyā and Anuvākyā mantras is given, but six acts. In that case one half of the mantras is used for one half of the acts, and the other half of the mantras for the other half of the acts.

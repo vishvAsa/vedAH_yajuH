@@ -3,10 +3,4 @@ title = "32 आग्नेयोऽष्टाकपाल ऐन्द्र�
 
 +++
 
-Also, because it is enumerated like the Darśapūrṇamāsa sacrifice.
-
-## Commentary
-
-This refers to such passages from the Brāhmaṇas as: There are four great sacrifices, the Agnihotram, the Darśapūrṇamāsau, the Cāturmāsyāni, and the Piṇḍa-pitṛyajñaḥ.
-
-
+The Aṣṭā-kapāla for Agni, the Ekādaśa-kapāla or Dvādaśa-kapāla for Indra-Agnī, form the principal acts at the Amāvāsyā, the new moon, in the case of one who does not sacrifice with Soma.

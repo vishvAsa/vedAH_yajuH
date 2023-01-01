@@ -3,10 +3,8 @@ title = "07 न वा समवद्येत्"
 
 +++
 
-All this applies also to Carus and Puroḍāśas which are separated.
+Or, doing as he likes in dividing (the butter).
 
-## Commentary
+## १ Commentary
 
-The commentary explains vyatishikta by anyonyaṃ vyavahita, though it is difficult to see how it can have that meaning. It is said that in the Vaiśvadeva the Carus and Puroḍāśas are vyatishikta, but that they also have to be divided before the adhivapana, and to be marked for each deity. Thus we read: Idam Agneḥ, Savituḥ, Pūṣṇo, Marutāṃ, Dyāvāpṛthivyoḥ, &c.
-
-
+These three Sūtras belong together. They teach that one slice (avadāna) of butter should be taken, melted, and poured on the Āhavanīya fire; or, if there are more than one āhuti, then one slice should be taken for each. This, however, is made optional again by the last Sūtra.

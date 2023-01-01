@@ -3,10 +3,8 @@ title = "36 पितृयज्ञः स्वकालविधानाद�
 
 +++
 
-One ought to let the beginnings of a sacrificial act coincide with the end of the Mantras.
+The Pitṛ-yajña, the sacrifice to the fathers, is not Aṅga (auxiliary) because its own time is prescribed.
 
-## Commentary
+## १ Commentary
 
-The mantra which indicates the nature and purpose of a sacrificial act should come first, and as soon as it has been finished the act should follow. See Katy. I, 3, 5.
-
-
+The text should be pitṛyajñaḥ svakālavidhānād anaṅgaḥ syāt. This sacrifice for the Manes, called also the Piṇḍa-pitṛyajña, falls under the new-moon sacrifice, but is to be considered as a pradhāna, a primary sacrifice, not as an aṅga, a member of the Darśa.

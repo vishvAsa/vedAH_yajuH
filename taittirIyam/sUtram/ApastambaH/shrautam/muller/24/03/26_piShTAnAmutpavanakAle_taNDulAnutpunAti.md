@@ -3,6 +3,6 @@ title = "26 पिष्टानामुत्पवनकाले तण्�
 
 +++
 
-Offerings for many deities are vikāras also of the Aindrāgna.
+At the time of cooking (adhiśrapaṇa) one throws the grains in with the cooking verse.
 
-
+Commentary. This verse is gharmo'si.

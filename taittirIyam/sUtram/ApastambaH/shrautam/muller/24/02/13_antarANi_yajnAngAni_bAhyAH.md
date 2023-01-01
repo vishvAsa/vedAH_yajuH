@@ -3,10 +3,8 @@ title = "13 अन्तराणि यज्ञाङ्गानि बाह
 
 +++
 
-Ropes which are not joined (single ropes), should be tied by the priest from left to right.
+Sacrificial utensils should be turned inside, the performers being outside.
 
-## Commentary
+## १ Commentary
 
-The exact process here intended is not quite clear. The ropes seem to have been made of vegetable fibres. See Katy. I, 3,15-17.
-
-
+The meaning is that the priest should carry such things is spoons, vessels, &c., holding them towards the altar. The sacrificer and his wife should likewise be on the inside of the priest, and the priests should take precedence sideways according to their rank.

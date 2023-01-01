@@ -3,10 +3,8 @@ title = "35 सवनीय ऐकादशिनानाम्"
 
 +++
 
-If there is nothing very like, something a little like may be substituted, only it must not be prohibited.
+And the Aikādaśinas are the norm for the Paśugaṇas.
 
-## Commentary
+## १ Commentary
 
-If in a caru of mudgas, kidney-beans, phaseolus mungo, these kidney-beans should fail, a substitute may be taken, but that substitute must not be māṣas, phaseolus radiatus, because these māṣas are expressly forbidden; for it is said, Ayajñiyā vai māṣāḥ, 'Māṣas are not fit for sacrifice.'
-
-
+The rules for the Paśugaṇas are therefore to be taken over from the Aikādaśinas, the Savanīya, the Agnīṣomīya-paśu, and the Darśa-pūrṇamāsa, so far as they have been modified in each particular case, and are finally determined by the rules of each Paśugaṇa, as, for instance, the Āditya-paśu.

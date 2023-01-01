@@ -3,10 +3,8 @@ title = "20 पौणमास्याम् पौर्णमास्या"
 
 +++
 
-Let a man observe that new-moon day (amāvāsyā) as a day of abstinence, on which the moon is not seen.
+And let a man sacrifice with the Paurṇamāsyā sacrifice at the time of the Paurṇamāsī, full moon, thus it is said.
 
-## Commentary
+## १ Commentary
 
-This Sūtra has to be connected with Sūtra LXV. The abstinence takes place on the day, if the actual new moon, the nearest approach of sun and moon, falls on the afternoon, at night, or at twilight. And this new moon, the junction of the fifteenth day and the pratipad, is called Kuhū. We should read amāvāsyām.
-
-
+Here the full moon is called paurṇamāsī, the sacrifice paurṇamāsyā. Satyavrata joins the two Sūtras in one, and leaves out yajeteti, which may have belonged to the commentary.

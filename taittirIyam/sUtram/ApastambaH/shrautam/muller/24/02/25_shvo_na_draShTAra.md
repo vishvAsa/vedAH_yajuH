@@ -3,10 +3,8 @@ title = "25 श्वो न द्रष्टार"
 
 +++
 
-The Aṣṭā-kapāla for Agni, the Ekādaśa-kapāla for Agnī-Shomau, and the Upāṃśuyāga (the muttered offering of butter), form the principal acts at the Paurṇamāsī, the full moon.
+Or the day when one says, To-morrow they will not see it.
 
-## Commentary
+## १ Commentary
 
-The Aṣṭā-kapāla is the cake baked in eight cups, the Ekādaśa-kapāla that baked in eleven cups, and respectively destined for Agni and Soma. What is meant are the sacrificial acts for which these cakes are used.
-
-
+In that case, when the real new moon takes place in the fore-noon, abstinence is observed on the day before, and the new moon is called Sinīvālī. Satyavrata reads śvo yukta iti vā instead of śvo na draṣṭāra iti vā. Draṣṭāraḥ should be explained as īkṣitāraḥ, 'they will not see it.' There is much difference of opinion on this subject among different Śākhās, Sūtrakāras, and their commentators; see Taitt. Saṃh. III, 4, 9; Weber, Ind. Stud., V, p. 228.

@@ -3,10 +3,8 @@ title = "24 कपालानामुपधानकाले प्रथम�
 
 +++
 
-Offerings for two deities are vikāras of the Agnīṣomīya.
+The verse is adapted and changed to dhruvo'si.
 
-## Commentary
+## १ Commentary
 
-They must, however, be vegetable offerings, because the puroḍāśa for Agnī-Shomau is a vegetable offering. As an instance, the Āgnāvaiṣṇava Ekādaśakapāla is quoted. Agnīṣomīya has a short a, but the first a in āgnavaiṣṇava is long.
-
-
+Saṃnāma means the same as ūha, i.e. the modification of a verse so as to adapt it to the object for which it is used. In our case, caru, being a masculine, dhṛṣṭi, a feminine, is replaced by dhruva, a masculine.

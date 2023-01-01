@@ -3,6 +3,8 @@ title = "01 मन्त्रान्तेः कर्मादीन्स�
 
 +++
 
-In the case of the Yājyās and Anuvākyās this (the aggregation) is optional.
+One ought to let the beginnings of a sacrificial act coincide with the end of the Mantras.
 
+## १ Commentary
 
+The mantra which indicates the nature and purpose of a sacrificial act should come first, and as soon as it has been finished the act should follow. See Katy. I, 3, 5.

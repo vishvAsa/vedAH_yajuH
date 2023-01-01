@@ -3,6 +3,8 @@ title = "13 आश्रुतप्रत्याश्रुते याज�
 
 +++
 
-When it is said that wishful iṣṭis are performed in a murmur, this means that the names of the chief deities are pronounced in a murmur (likewise the yājyā and anuvākyā).
+With āhutis one should let the act (the pouring out) take place after the Vaṣaṭkāra has been made, or while it is being made.
 
+## १ Commentary
 
+The Vaṣaṭkāra consists in the word Vaṣaṭ, to be uttered by the Hotṛ-priest. The five sacrificial interjections are, svāhā, srauṣaṭ, vauṣaṭ, vaṣaṭ, and svadhā.

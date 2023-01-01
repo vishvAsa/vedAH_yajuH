@@ -3,10 +3,8 @@ title = "14 वषट्कृते वषट्कारेण वाहुत
 
 +++
 
-The Darśa-pūrṇamāsa sacrifice is the Prakṛti or norm for all iṣṭis.
+With the Grahas the act should be made to coincide with the Upayāma.
 
-## Commentary
+## १ Commentary
 
-The Sūtras, in describing the performance of certain sacrifices, treat some of them in full detail. These are called prakṛti. Prakṛyante'smin dharmā iti prakaraṇam prakṛtiḥ. They form the type of other sacrifices, which are therefore looked upon as mere modifications, vikṛti, and in describing them those points only are fully described in which they differ from their prakṛti. A sacrifice which is a vikṛti, may again become the prakṛti of another sacrifice. This system is no doubt compendious, but it is not free from difficulty, and, in some cases, from uncertainty. It shows how much system there is in the Indian sacrifices, and how fully and minutely that system must have been elaborated, before it assumed that form in which we find it in the Brāhmaṇas and Sūtras. It must not be supposed that the sacrifices which serve as prakṛti, are therefore historically the most ancient.
-
-
+Grahas are offerings of Soma, and likewise the vessels (kamasa) in which the Soma is offered. The Soma is offered with the words upayāma-gṛhīto^(ऽ)si, and while these words are being uttered, the fluid should be poured out (dhārāṃ srāvayet).

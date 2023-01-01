@@ -3,10 +3,8 @@ title = "02 अपूर्वो दर्विहोमः"
 
 +++
 
-For these two last portions he makes the indication of the deity.
+The Darvi-homa (libation from a ladle) stands by itself.
 
-## Commentary
+## १ Commentary
 
-With the earlier portions, there is a rule which of two gods should have the first or the second portion. With the last couple, however, the priest may himself assign whichever portion he likes to one or the other god. The commentary says, svayam eva idam asyā iti saṅkalpayet.
-
-
+Apūrva is explained by the commentator, not in its usual sense of miraculous, but as not being subject to the former regulations.

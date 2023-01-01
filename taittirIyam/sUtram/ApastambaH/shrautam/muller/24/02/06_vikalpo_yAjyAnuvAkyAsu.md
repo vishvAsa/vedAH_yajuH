@@ -3,6 +3,4 @@ title = "06 विकल्पो याज्यानुवाक्यास�
 
 +++
 
-Sacrificial acts intended for the gods, should be performed by the priest towards the east or towards the north, after he has placed the Brahmanic cord over the left and under the right arm (yajñopavītin), and turning towards the right.
-
-
+In the case of the Yājyās and Anuvākyās this (the aggregation) is optional.

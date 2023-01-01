@@ -3,10 +3,8 @@ title = "05 गवामयनं सांवत्सरिकाणाम्"
 
 +++
 
-But if there is a different kind of animal, there is difference (in pots and spits), owing to the diversity of cooking.
+The Gavāmayana is the Prakṛti of the Sāṃvatsarikas.
 
-## Commentary
+## १ Commentary
 
-If different animals are to be cooked, then there must be different pots for each (pratipaśum), because each requires a different kind of cooking. The commentary adds that, as the reason for using different pots is given, that reason applies also to young and old animals of the same kind (jāti), i, e. the young and small animal would require a different pot and a different kind of cooking.
-
-
+The Gavāmayana lasts three years, and it is the type of all Sāṃvatsarika sacrifices, whether they last one, two, three or more years. They all belong to the class of Sattras.

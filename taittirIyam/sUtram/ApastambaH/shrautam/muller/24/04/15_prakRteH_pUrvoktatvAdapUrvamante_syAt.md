@@ -3,10 +3,8 @@ title = "15 प्रकृतेः पूर्वोक्तत्वाद�
 
 +++
 
-At the Agniṣṭoma there is the Uttara-vedi.
+As the Prakṛti has been told before, anything that has not been told before, should be at the end.
 
-## Commentary
+## १ Commentary
 
-The commentator explains this by saying that at the Soma sacrifices, i.e. at the Agniṣṭoma, Ukthya, Ṣoḍaśin, and Atirātra, the fire is carried from the Āhavanīya to the Uttara-vedi, which is also called the Soma altar.
-
-
+This seems to mean that anything new, peculiar to a Vikṛti, and not mentioned in the Prakṛti, should come in at the end, that is, after those portions of the sacrifice which are enjoined in the Prakṛti.

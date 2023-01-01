@@ -3,10 +3,8 @@ title = "22 इदंशब्दस्तन्त्रं स्यात्"
 
 +++
 
-Here the Vikāra, the modification, is perceived from similarity.
+All this applies also to Carus and Puroḍāśas which are separated.
 
-## Commentary
+## १ Commentary
 
-If it has once been laid down that the Darśa-pūrṇamāsa is the prakṛti or norm for all iṣṭis, then similarity determines the modification in all details, such as the offerings and the gods to whom offerings are made. Thus Karu, being a vegetable offering, would rank as a vikāra of puroḍāśa, which occurs in the Darśa-pūrṇamāsa sacrifice, and is likewise vegetable. Honey and water would be looked upon as most like the Ājya in the Darśa-pūrṇamāsa. Āmikṣā, a preparation of milk, would come nearest to the Sāṃnāyya, which is a mixture of sour and sweet milk.
-
-
+The commentary explains vyatishikta by anyonyaṃ vyavahita, though it is difficult to see how it can have that meaning. It is said that in the Vaiśvadeva the Carus and Puroḍāśas are vyatishikta, but that they also have to be divided before the adhivapana, and to be marked for each deity. Thus we read: Idam Agneḥ, Savituḥ, Pūṣṇo, Marutāṃ, Dyāvāpṛthivyoḥ, &c.

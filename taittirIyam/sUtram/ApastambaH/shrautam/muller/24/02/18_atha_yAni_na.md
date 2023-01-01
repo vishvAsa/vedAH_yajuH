@@ -3,10 +3,8 @@ title = "18 अथ यानि न"
 
 +++
 
-Or the day when one says, To-morrow it will be full.
+Ropes which are not joined (single ropes), should be tied by the priest from left to right.
 
-## Commentary
+## १ Commentary
 
-In that case the day before should be observed as a day of abstinence. The real full moon would then take place in the fore-noon, pūrvāhṇe, of the next day. Abstinence, upavāsa, consists in abstaining from meat and from maithuna, in shaving beard and head, cutting the nails, and, what seems a curious provision, in speaking the truth. See Kāty.-Śrauta-sūtras II, I, 8-12.
-
-
+The exact process here intended is not quite clear. The ropes seem to have been made of vegetable fibres. See Katy. I, 3,15-17.

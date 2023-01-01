@@ -3,10 +3,8 @@ title = "19 तयोरेव देवतोपदेशनङ् करोत
 
 +++
 
-And the Aikādaśinas are the norm for the Paśugaṇas.
+When there is a number of Carus and Puroḍāśas, one separates what belongs to the Carus and what belongs to the Puroḍāśas, before the strewing.
 
-## Commentary
+## १ Commentary
 
-The rules for the Paśugaṇas are therefore to be taken over from the Aikādaśinas, the Savanīya, the Agnīṣomīya-paśu, and the Darśa-pūrṇamāsa, so far as they have been modified in each particular case, and are finally determined by the rules of each Paśugaṇa, as, for instance, the Āditya-paśu.
-
-
+Prāg adhivapanāt, before the strewing, is explained by prāg adhivapanārthakṛṣṇājinādānāt, before one takes the black skin which is used for the strewing.

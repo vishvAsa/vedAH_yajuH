@@ -5,8 +5,6 @@ title = "20 वचनाद्विप्रतिषेधाद्वान�
 
 When it is expressly said, or when it is rendered impossible, another priest also may act.
 
-## Commentary
+## १ Commentary
 
 Vipratishedha is explained by asambhava and aśakti.
-
-

@@ -3,10 +3,8 @@ title = "17 जातिभेदे तु भिद्येत"
 
 +++
 
-The fire is valid for the successive sacrifices.
+But if there is a different kind of animal, there is difference (in pots and spits), owing to the diversity of cooking.
 
-## Commentary
+## १ Commentary
 
-This fire refers to the fire on the Uttara-vedi, mentioned in the preceding Sūtra, and the object of the Sūtra seems to be to include the act of lighting the fire on the Uttara-vedi in the Prakṛti, though properly speaking it does not form part of the Agniṣṭoma. But I cannot quite understand the argument of the commentator.
-
-
+If different animals are to be cooked, then there must be different pots for each (pratipaśum), because each requires a different kind of cooking. The commentary adds that, as the reason for using different pots is given, that reason applies also to young and old animals of the same kind (jāti), i, e. the young and small animal would require a different pot and a different kind of cooking.

@@ -3,10 +3,8 @@ title = "08 उत्तरेषु क्रतुष्वग्निः"
 
 +++
 
-The Anvārambhaṇīyā or initiatory ceremony does not take place in a Vikṛti, because the Vikṛtis would fall within the time of the Prakṛti, and the Anvārambhaṇīyā has but one object, namely (the initiation of) the Darśa-pūrṇamāsa sacrifice.
+The fire is valid for the successive sacrifices.
 
-## Commentary
+## १ Commentary
 
-The Anvārambhaṇīyā ceremony has to be performed by those who begin the Darśa-pūrṇamāsa sacrifice. It has thus one object only, and is never enjoined for any other cause. It is not therefore transferred to any Vikṛti, such as the Saurya ceremony, &c. The Darśa-pūrṇamāsa sacrifice having to be performed during the whole of life, or during thirty years, the Vikṛtis would necessarily fall within the same space of time. The initiatory ceremony has reference to the Darśa-pūrṇamāsa sacrifice only, and thus serves as an introduction to all the Vikṛtis, without having to be repeated for each.
-
-
+This fire refers to the fire on the Uttara-vedi, mentioned in the preceding Sūtra, and the object of the Sūtra seems to be to include the act of lighting the fire on the Uttara-vedi in the Prakṛti, though properly speaking it does not form part of the Agniṣṭoma. But I cannot quite understand the argument of the commentator.

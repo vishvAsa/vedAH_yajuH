@@ -3,10 +3,8 @@ title = "45 अन्यत्र प्रकृतिदेवताभ्य�
 
 +++
 
-There is no fuel (in the Darvi-homa), except at the Agnihotra.
+If there is sameness both in the offering and in the deity, then the offering prevails.
 
-## Commentary
+## १ Commentary
 
-In the case of the Agnihotra it is distinctly stated, dve samidhāv ādadhyāt, let him lay down two sticks.
-
-
+If a caru for Prajāpati occurs in a vikṛti sacrifice, it would follow that, being offered to Prajāpati, it should be offered with murmuring, but, as it is a vegetable offering, it follows the norm of the puroḍāśa, though the puroḍāśa is intended for Agni.

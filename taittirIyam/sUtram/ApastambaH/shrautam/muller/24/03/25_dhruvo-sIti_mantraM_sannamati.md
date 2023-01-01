@@ -3,10 +3,8 @@ title = "25 ध्रुवोऽसीति मन्त्रं सन्न
 
 +++
 
-If there is contradiction with regard to the substance and the preparation of an offering, the substance prevails.
+At the time when the meal is to be cleansed, one cleanses the grains.
 
-## Commentary
+## १ Commentary
 
-A puroḍāśa may be made of vrīhi, rice, or of nīvāra, wild growing rice. The wild rice has to be pounded, but not the good rice. The preparation, however, has to yield in a vikṛti, the important point being the substance.
-
-
+This takes place after the caru-pot has been put on. The taṇḍulas are the unhusked grains, piṣṭa is the ground flour. In Sanskrit a distinction is made between śasya, the corn in the field, dhānya, corn with the husk, taṇḍula, grains without husks, anna, roasted grains.

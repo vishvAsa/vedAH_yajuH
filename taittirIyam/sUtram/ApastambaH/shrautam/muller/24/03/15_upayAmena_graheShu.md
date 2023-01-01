@@ -3,10 +3,8 @@ title = "15 उपयामेन ग्रहेषु"
 
 +++
 
-The Vaiśvadeva is the norm for the Varuṇa-praghāsa, Sākamedha, and Sīra.
+With the Iṣṭakās, the act should be made to coincide with the words tayā deva tena.
 
-## Commentary
+## १ Commentary
 
-The Vaiśvadeva, beginning, like the Darśa-pūrṇamāsa, with an Āgneya aṣṭakapāla, takes certain rules from the Darśa-pūrṇamāsa, and transfers these, together with its own, as, for instance, the nine prayājas, to the Varuṇa-praghāsa, &c.
-
-
+When the different iṣṭakās or bricks are placed together for building an altar, &c., the act itself begins with the first and ends with the last words of the accompanying verse.
