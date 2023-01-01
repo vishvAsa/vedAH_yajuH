@@ -3,6 +3,16 @@ title = "36 पितृयज्ञः स्वकालविधानाद�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Pitṛ-yajña, the sacrifice to the fathers, is not Aṅga (auxiliary) because its own time is prescribed.

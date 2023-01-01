@@ -3,6 +3,16 @@ title = "42 असन्निपातिकर्मसु च तद्वत
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 It is the same also with regard to acts which do not produce an immediate effect.

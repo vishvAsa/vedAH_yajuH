@@ -3,6 +3,16 @@ title = "33 ब्राह्मणशेषोऽर्थवादो नि�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The rest of the Brāhmaṇa, that which does not contain precepts, consists of explanations, i.e. reproof, praise, stories, and traditions.

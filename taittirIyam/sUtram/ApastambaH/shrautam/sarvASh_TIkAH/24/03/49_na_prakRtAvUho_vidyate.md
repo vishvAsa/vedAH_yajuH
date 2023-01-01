@@ -3,6 +3,16 @@ title = "49 न प्रकृतावूहो विद्यते"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 In a Vikṛti sacrifice modification takes place, according to the sense, but not in an arthavāda.

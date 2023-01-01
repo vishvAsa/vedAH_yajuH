@@ -3,6 +3,16 @@ title = "12 अल्पीयांसो मन्त्रा भूयां
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 If there are fewer Mantras and more (sacrificial) acts, then after dividing them into equal parts, let him perform the former with the former, the latter with the latter.

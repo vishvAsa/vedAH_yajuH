@@ -3,6 +3,16 @@ title = "44 वचनादेकङ् कर्म बहुमन्त्र
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 When it is expressly stated, one sacrificial act may be accompanied by many hymns.

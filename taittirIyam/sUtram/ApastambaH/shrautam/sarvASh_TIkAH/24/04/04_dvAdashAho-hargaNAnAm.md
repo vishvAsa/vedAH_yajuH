@@ -3,6 +3,16 @@ title = "04 द्वादशाहोऽहर्गणानाम्"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Dvādaśāha is the Prakṛti of the Ahargaṇas.

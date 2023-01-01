@@ -3,6 +3,16 @@ title = "03 आदिप्रदिष्टा मन्त्राः"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Mantras are indicated by their first words.

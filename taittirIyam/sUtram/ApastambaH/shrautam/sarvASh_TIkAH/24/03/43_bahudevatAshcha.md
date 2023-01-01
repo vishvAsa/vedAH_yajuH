@@ -3,6 +3,16 @@ title = "43 बहुदेवताश्च"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 They are optionally vikāras of the Aindrāgna.

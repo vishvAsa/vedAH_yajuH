@@ -3,6 +3,16 @@ title = "48 अर्थद्रव्यविरोधेऽर्थो ब�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 In a Prakṛti sacrifice there is no Ūha, modification of the mantras.

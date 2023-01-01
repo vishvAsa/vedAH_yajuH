@@ -3,6 +3,16 @@ title = "38 एकमन्त्राणि कर्माणि"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Sacrificial acts are accompanied by one Mantra.

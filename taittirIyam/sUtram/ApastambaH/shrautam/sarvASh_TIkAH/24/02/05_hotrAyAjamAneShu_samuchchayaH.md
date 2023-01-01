@@ -3,6 +3,16 @@ title = "05 होत्रायाजमानेषु समुच्चय�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 In the case of Hotrā and Yājamāna-mantras, an aggregation takes place.

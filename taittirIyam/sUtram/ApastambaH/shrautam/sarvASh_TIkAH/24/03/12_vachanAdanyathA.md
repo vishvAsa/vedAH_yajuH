@@ -3,6 +3,16 @@ title = "12 वचनादन्यथा"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Āśruta and Pratyāśruta, the Yājyā and Anuvākyā, the Upastaraṇa and Abhighāraṇa, with the slicings, the Caturgṛhīta also, and the Vaṣaṭkāra constitute the Darvi-homas.

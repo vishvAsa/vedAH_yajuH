@@ -3,6 +3,16 @@ title = "40 तत्र सामान्याद्विकारो गम
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Offerings for one deity are vikāras of the Āgneya.

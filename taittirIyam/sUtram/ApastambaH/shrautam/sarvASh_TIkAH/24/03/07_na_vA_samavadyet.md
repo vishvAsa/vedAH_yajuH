@@ -3,6 +3,16 @@ title = "07 न वा समवद्येत्"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Or, doing as he likes in dividing (the butter).

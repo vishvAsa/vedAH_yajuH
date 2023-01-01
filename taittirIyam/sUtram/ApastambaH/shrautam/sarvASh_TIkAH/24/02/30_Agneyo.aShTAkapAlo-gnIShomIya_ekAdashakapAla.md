@@ -3,6 +3,16 @@ title = "30 आग्नेयो ऽष्टाकपालोऽग्नी�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Aṣṭā-kapāla for Agni, the Ekādaśa-kapāla for Agnī-Shomau, and the Upāṃśuyāga (the muttered offering of butter), form the principal acts at the Paurṇamāsī, the full moon.

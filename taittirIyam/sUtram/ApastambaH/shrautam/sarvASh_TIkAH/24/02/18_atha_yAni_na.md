@@ -3,6 +3,16 @@ title = "18 अथ यानि न"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Ropes which are not joined (single ropes), should be tied by the priest from left to right.

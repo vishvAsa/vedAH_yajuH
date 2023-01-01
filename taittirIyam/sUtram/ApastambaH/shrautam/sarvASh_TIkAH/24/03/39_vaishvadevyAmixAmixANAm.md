@@ -3,6 +3,16 @@ title = "39 वैश्वदेव्यामिक्षामिक्ष�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Here the Vikāra, the modification, is perceived from similarity.

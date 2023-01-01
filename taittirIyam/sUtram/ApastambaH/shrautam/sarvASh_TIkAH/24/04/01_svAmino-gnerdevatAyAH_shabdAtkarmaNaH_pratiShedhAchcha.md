@@ -3,6 +3,16 @@ title = "01 स्वामिनोऽग्नेर्देवताया�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Substitution does not apply to the master, the altar-fire, the deity, the word, the act, and a prohibition.

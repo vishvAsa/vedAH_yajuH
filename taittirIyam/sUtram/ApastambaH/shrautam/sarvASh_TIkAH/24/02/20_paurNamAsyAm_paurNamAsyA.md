@@ -3,6 +3,16 @@ title = "20 पौणमास्याम् पौर्णमास्या"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 And let a man sacrifice with the Paurṇamāsyā sacrifice at the time of the Paurṇamāsī, full moon, thus it is said.

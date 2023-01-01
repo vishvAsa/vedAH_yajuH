@@ -3,6 +3,16 @@ title = "33 सान्नाय्यन् द्वितीयं सोम
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 In the case of one who sacrifices with Soma, the second principal act is the Sāṃnāyya (both at the full-moon and new-moon sacrifices).

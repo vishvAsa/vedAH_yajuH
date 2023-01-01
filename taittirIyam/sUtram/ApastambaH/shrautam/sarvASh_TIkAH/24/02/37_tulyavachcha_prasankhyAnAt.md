@@ -3,6 +3,16 @@ title = "37 तुल्यवच्च प्रसङ्ख्यानात�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Also, because it is enumerated like the Darśapūrṇamāsa sacrifice.

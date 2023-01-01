@@ -3,6 +3,16 @@ title = "25 श्वो न द्रष्टार"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Or the day when one says, To-morrow they will not see it.

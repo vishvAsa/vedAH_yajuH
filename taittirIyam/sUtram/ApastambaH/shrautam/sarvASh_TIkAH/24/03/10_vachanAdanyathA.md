@@ -3,6 +3,16 @@ title = "10 वचनादन्यथा"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 If it is distinctly stated, it is done in a different way.

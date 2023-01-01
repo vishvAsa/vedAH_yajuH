@@ -3,6 +3,16 @@ title = "22 श्वः पूरितेति वा"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Or the day when one says, To-morrow it will be full.

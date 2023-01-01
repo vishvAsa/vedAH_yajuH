@@ -3,6 +3,16 @@ title = "13 अन्तराणि यज्ञाङ्गानि बाह
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Sacrificial utensils should be turned inside, the performers being outside.

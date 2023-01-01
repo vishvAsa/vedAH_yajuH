@@ -3,6 +3,16 @@ title = "43 हविष्कृदध्रिगुपुरोऽनुव�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Repetition takes place in the case of the Havishkṛt, Adhrigu, Puronuvākyā, and Manotā hymns, (because they have to be used) at different times.

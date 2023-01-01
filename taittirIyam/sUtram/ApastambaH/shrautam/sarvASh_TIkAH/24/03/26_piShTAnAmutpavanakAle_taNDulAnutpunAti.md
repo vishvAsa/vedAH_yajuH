@@ -3,6 +3,16 @@ title = "26 पिष्टानामुत्पवनकाले तण्�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 At the time of cooking (adhiśrapaṇa) one throws the grains in with the cooking verse.

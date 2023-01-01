@@ -3,6 +3,16 @@ title = "11 अन्तरा सामिधेनीष्वनूच्य�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 In the Sāmidhenī hymns the recitation is to be between (the high and the low tone).

@@ -3,6 +3,16 @@ title = "06 आहुतिगणे प्रत्याहुति गृह
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Or, if there are several Āhutis, taking (the butter) for each Āhuti.

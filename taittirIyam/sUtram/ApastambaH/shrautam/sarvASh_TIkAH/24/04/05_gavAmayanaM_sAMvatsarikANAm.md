@@ -3,6 +3,16 @@ title = "05 गवामयनं सांवत्सरिकाणाम्"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Gavāmayana is the Prakṛti of the Sāṃvatsarikas.

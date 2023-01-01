@@ -3,6 +3,16 @@ title = "21 यथादेवतमुपलक्षयति"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Let the word idam be the rule.

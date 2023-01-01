@@ -3,6 +3,16 @@ title = "20 स्याद्वा कालस्याशेषभूतत�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Or (according to others) the Anvārambhaṇīyā should take place (in the Vikṛtis also), because the time (of the Darśa-pūrṇamāsa) does not form an essential part.

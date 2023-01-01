@@ -3,6 +3,16 @@ title = "47 द्रव्यसंस्कारविरोधे द्र�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 If there is contradiction with regard to the substance, the object prevails.

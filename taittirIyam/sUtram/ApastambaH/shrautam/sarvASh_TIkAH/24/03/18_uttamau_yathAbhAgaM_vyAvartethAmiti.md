@@ -3,6 +3,16 @@ title = "18 उत्तमौ यथाभागं व्यावर्ते
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 For these two last portions he makes the indication of the deity.

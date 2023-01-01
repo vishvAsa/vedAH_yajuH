@@ -3,6 +3,16 @@ title = "32 आग्नेयोऽष्टाकपाल ऐन्द्र�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Aṣṭā-kapāla for Agni, the Ekādaśa-kapāla or Dvādaśa-kapāla for Indra-Agnī, form the principal acts at the Amāvāsyā, the new moon, in the case of one who does not sacrifice with Soma.

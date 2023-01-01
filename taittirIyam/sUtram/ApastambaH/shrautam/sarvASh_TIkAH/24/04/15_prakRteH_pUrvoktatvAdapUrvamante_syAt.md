@@ -3,6 +3,16 @@ title = "15 प्रकृतेः पूर्वोक्तत्वाद�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 As the Prakṛti has been told before, anything that has not been told before, should be at the end.

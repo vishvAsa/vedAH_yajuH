@@ -3,6 +3,16 @@ title = "18 स्विष्टकृद्विकारे वनस्प�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 At the Vanaspati sacrifice, which is a modification (vikāra) of the Sviṣṭakṛt, the addresses (nigama) of the deities should take place in the Yājyā, because they are included in the Prakṛti.

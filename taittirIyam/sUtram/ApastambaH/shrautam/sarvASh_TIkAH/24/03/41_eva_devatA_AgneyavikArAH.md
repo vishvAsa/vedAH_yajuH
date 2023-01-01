@@ -3,6 +3,16 @@ title = "41 एव देवता आग्नेयविकाराः"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Offerings for two deities are vikāras of the Agnīṣomīya.

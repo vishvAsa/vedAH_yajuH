@@ -3,6 +3,16 @@ title = "08 उच्चैरृग्वेदसामवेदाभ्य�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 With the Ṛg-veda and Sāma-veda the performance takes place with a loud voice (uccaiḥ).

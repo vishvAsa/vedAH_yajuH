@@ -3,6 +3,16 @@ title = "22 सर्वक्रतूनामग्नयः सकृदा�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 For all sacrifices the fires are laid once.

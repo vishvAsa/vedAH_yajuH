@@ -3,6 +3,16 @@ title = "35 नैन्द्राग्नः सन्नयतो वर्
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Without distinction of caste, the Aindrāgna offering is omitted for one who offers the Sāṃnāyya.

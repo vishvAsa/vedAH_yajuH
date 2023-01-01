@@ -3,6 +3,16 @@ title = "54 मात्रापचारे तच्छेषेण समा
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 If something is wanting in the measure, let him finish with the rest.

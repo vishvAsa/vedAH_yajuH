@@ -3,6 +3,16 @@ title = "03 स त्रिभिर्वेदैर्विधीयते"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The sacrifice is prescribed by the three Vedas.

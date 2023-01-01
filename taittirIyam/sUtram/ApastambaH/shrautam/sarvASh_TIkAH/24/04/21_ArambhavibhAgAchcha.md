@@ -3,6 +3,16 @@ title = "21 आरम्भविभागाच्च"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 And again, because there is difference in the undertaking.

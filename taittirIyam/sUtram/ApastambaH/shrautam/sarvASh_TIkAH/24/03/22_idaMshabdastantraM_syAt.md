@@ -3,6 +3,16 @@ title = "22 इदंशब्दस्तन्त्रं स्यात्"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 All this applies also to Carus and Puroḍāśas which are separated.

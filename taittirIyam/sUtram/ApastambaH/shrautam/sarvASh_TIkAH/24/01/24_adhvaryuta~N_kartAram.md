@@ -3,6 +3,16 @@ title = "24 अध्वर्युतङ् कर्तारम्"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 If it is said, juhoti, it should be known that the Adhvaryu is meant as performer.

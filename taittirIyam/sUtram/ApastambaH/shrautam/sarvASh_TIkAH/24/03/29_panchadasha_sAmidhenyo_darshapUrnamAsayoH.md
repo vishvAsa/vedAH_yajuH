@@ -3,6 +3,16 @@ title = "29 पञ्चदश सामिधेन्यो दर्शपू
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 At the Iṣṭi and Paśubandha sacrifices there are seventeen Sāmidhenīs, when they are so handed down.

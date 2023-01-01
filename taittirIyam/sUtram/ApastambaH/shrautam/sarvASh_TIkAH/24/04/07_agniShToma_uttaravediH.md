@@ -3,6 +3,16 @@ title = "07 अग्निष्टोम उत्तरवेदिः"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 At the Agniṣṭoma there is the Uttara-vedi.

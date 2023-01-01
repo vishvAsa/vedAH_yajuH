@@ -3,6 +3,16 @@ title = "23 व्यतिषक्तेष्वपि"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 At the time when the Kapālas are put on the fire, one puts on the karu with the first kapāla verse.

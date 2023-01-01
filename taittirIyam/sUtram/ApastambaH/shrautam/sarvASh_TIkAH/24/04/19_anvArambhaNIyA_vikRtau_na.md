@@ -3,6 +3,16 @@ title = "19 अन्वारम्भणीया विकृतौ न"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Anvārambhaṇīyā or initiatory ceremony does not take place in a Vikṛti, because the Vikṛtis would fall within the time of the Prakṛti, and the Anvārambhaṇīyā has but one object, namely (the initiation of) the Darśa-pūrṇamāsa sacrifice.

@@ -3,6 +3,16 @@ title = "14 वषट्कृते वषट्कारेण वाहुत
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 With the Grahas the act should be made to coincide with the Upayāma.

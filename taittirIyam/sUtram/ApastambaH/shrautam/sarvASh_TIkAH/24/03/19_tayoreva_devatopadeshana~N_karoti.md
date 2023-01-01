@@ -3,6 +3,16 @@ title = "19 तयोरेव देवतोपदेशनङ् करोत
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 When there is a number of Carus and Puroḍāśas, one separates what belongs to the Carus and what belongs to the Puroḍāśas, before the strewing.

@@ -3,6 +3,16 @@ title = "25 ध्रुवोऽसीति मन्त्रं सन्न
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 At the time when the meal is to be cleansed, one cleanses the grains.

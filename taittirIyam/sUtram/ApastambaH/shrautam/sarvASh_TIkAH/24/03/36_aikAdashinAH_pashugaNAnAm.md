@@ -3,6 +3,16 @@ title = "36 ऐकादशिनाः पशुगणानाम्"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Vaiśvadeva is the norm for the Varuṇa-praghāsa, Sākamedha, and Sīra.

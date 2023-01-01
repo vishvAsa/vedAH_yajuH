@@ -3,6 +3,16 @@ title = "10 अन्यत्राश्रुतप्रत्याश्�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 With the exception of addresses, replies, choosing of priests (pravara), dialogues, and commands.

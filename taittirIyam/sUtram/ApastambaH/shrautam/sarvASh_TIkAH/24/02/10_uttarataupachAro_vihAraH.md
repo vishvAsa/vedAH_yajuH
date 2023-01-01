@@ -3,6 +3,16 @@ title = "10 उत्तरतौपचारो विहारः"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 All priestly performances take place on the northern side of the Vihāra.

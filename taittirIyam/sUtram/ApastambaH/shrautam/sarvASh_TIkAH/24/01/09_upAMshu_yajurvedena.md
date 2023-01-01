@@ -3,6 +3,16 @@ title = "09 उपांशु यजुर्वेदेन"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 With the Yajur-veda the performance takes place by murmuring (upāṃśu).

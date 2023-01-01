@@ -3,6 +3,16 @@ title = "53 तद्धर्मा च स्यात्"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The substitute should take the nature of that for which it is substituted.

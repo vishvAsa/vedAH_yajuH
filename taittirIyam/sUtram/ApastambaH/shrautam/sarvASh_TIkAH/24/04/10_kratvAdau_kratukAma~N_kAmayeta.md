@@ -3,6 +3,16 @@ title = "10 क्रत्वादौ क्रतुकामङ् काम
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 A sacrificer wishes the object of his sacrifice at the beginning of the sacrifice.

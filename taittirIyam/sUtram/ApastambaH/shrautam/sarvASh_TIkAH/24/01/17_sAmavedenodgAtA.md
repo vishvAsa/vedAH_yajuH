@@ -3,6 +3,16 @@ title = "17 सामवेदेनोद्गाता"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Udgātṛ-priest with the Sāma-veda.

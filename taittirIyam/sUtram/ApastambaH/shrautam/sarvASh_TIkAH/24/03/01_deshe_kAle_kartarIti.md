@@ -3,6 +3,16 @@ title = "01 देशे काले कर्तरीति"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 A principal act is what has its own name, and is prescribed with special reference to place, time, and performer.

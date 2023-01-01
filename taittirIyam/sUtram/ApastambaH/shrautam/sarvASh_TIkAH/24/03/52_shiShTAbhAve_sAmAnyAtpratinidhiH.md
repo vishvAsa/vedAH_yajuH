@@ -3,6 +3,16 @@ title = "52 शिष्टाभावे सामान्यात्प्�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 If there is nothing very like, something a little like may be substituted, only it must not be prohibited.

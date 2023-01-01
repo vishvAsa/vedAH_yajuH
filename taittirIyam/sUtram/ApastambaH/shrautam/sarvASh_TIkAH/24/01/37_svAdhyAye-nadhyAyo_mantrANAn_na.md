@@ -3,6 +3,16 @@ title = "37 स्वाध्यायेऽनध्यायो मन्त�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The prohibition of reciting Mantras in the Svādhyāya does not apply to the sacrifice, because there is then a different object.

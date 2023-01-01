@@ -3,6 +3,16 @@ title = "19 सर्वैर्ब्रह्मा"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Brahma-priest with all.

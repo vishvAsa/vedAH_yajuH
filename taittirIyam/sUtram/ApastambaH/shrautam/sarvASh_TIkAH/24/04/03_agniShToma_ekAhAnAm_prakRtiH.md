@@ -3,6 +3,16 @@ title = "03 अग्निष्टोम एकाहानाम् प्र
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Agniṣṭoma is the Prakṛti of the Ekāha sacrifices.

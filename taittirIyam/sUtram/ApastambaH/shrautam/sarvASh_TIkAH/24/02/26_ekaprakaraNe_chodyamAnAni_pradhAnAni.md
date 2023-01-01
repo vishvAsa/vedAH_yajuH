@@ -3,6 +3,16 @@ title = "26 एकप्रकरणे चोद्यमानानि प्
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The principal acts (pradhāna), prescribed in one (typical) performance, follow the same special rules (vidhāna).

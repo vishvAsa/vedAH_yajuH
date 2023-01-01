@@ -3,6 +3,16 @@ title = "14 क्रुष्टेन शेषे तृतीयसवने
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 In the remainder and at the third Savana with the sharp (kruṣṭa) voice[^2].

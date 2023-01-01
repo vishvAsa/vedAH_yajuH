@@ -3,6 +3,16 @@ title = "16 तयादेवतेनेष्टकासु"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 When there is a number of Puroḍāśas, one should slice off one after another, saying for each portion vyāvartadhvam (separate)!

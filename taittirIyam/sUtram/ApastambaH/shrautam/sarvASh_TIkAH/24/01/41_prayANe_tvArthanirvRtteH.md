@@ -3,6 +3,16 @@ title = "41 प्रयाणे त्वार्थनिर्वृत्�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 In case of a journey, however, one hymn is used till the object (of the journey) has been accomplished.

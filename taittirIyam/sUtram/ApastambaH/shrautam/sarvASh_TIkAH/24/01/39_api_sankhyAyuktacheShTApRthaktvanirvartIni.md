@@ -3,6 +3,16 @@ title = "39 अपि सङ्ख्यायुक्तचेष्टाप�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 This applies also to sacrificial acts which have a number and are to be carried out by separate (repeated) acts.

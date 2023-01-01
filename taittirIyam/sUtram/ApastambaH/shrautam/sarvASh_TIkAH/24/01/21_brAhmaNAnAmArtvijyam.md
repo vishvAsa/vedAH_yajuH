@@ -3,6 +3,16 @@ title = "21 ब्राह्मणानामार्त्विज्य�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The priestly office (ārtvijya) belongs to the Brāhmaṇas.

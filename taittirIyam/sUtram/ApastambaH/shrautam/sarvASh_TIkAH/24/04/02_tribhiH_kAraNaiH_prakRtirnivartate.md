@@ -3,6 +3,16 @@ title = "02 त्रिभिः कारणैः प्रकृतिर्
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Prakṛti stops from three causes, from a corollary, from a prohibition, and from loss of purpose.

@@ -3,6 +3,16 @@ title = "11 यज्ञाङ्गादौ यज्ञाङ्गकाम�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 At the beginning of a special part of the sacrifice, one should wish the object of that part of the sacrifice.

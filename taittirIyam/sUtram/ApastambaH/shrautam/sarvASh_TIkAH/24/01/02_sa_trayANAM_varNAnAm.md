@@ -3,6 +3,16 @@ title = "02 स त्रयाणां वर्णानाम्"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The sacrifice is for the three colours or castes (varṇa), for Brāhmaṇas and Rājanyas, also for the Vaiśya.

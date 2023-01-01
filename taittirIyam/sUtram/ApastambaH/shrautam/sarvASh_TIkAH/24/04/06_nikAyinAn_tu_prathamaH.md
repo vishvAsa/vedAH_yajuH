@@ -3,6 +3,16 @@ title = "06 निकायिनान् तु प्रथमः"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Of the Nikāyi sacrifices the first serves as Prakṛti.

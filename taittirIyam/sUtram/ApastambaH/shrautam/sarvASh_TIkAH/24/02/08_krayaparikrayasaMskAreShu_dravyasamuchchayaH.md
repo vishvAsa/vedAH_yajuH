@@ -3,6 +3,16 @@ title = "08 क्रयपरिक्रयसंस्कारेषु द�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 But accumulation is meant in the buying (of Soma), in the redemption, and in initiation.

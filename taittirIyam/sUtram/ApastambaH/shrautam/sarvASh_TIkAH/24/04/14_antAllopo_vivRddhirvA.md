@@ -3,6 +3,16 @@ title = "14 अन्ताल्लोपो विवृद्धिर्व�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 From the end there takes place omission or addition.

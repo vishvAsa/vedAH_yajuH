@@ -3,6 +3,16 @@ title = "23 खर्विकान् तृतीयां वाजसने
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Vājasaneyins mention a third, the Kharvikā full moon.

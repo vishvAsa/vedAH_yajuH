@@ -3,6 +3,16 @@ title = "08 समिदभावश्चाग्निहोत्रवर�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 There is no fuel (in the Darvi-homa), except at the Agnihotra.

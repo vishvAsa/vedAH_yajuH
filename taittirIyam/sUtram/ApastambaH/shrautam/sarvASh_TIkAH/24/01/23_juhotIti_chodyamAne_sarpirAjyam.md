@@ -3,6 +3,16 @@ title = "23 जुहोतीति चोद्यमाने सर्पि
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 If it is said, juhoti, 'he sacrifices,' it should be known that sarpir ājya, melted butter, is meant.

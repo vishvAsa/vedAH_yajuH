@@ -3,6 +3,16 @@ title = "09 अन्यत्र साद्यस्क्रेभ्यो 
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 This does not apply to the Sādyaskras, the Vājapeya, the Ṣoḍaśin, and the Sārasvata Sattra.

@@ -3,6 +3,16 @@ title = "40 कण्डूयनस्वप्ननदीतराववर�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The same applies to rubbing, sleeping, crossing a river, down-pours of rain, the conjuring of unlucky omens, unless they happened some time ago.

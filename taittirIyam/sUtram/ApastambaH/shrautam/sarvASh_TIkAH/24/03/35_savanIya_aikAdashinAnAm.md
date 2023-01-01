@@ -3,6 +3,16 @@ title = "35 सवनीय ऐकादशिनानाम्"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 And the Aikādaśinas are the norm for the Paśugaṇas.

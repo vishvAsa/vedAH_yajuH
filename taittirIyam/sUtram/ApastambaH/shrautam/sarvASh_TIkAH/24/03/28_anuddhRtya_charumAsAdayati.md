@@ -3,6 +3,16 @@ title = "28 अनुद्धृत्य चरुमासादयति"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 At the Darśa-pūrṇamāsa sacrifices there are fifteen Sāmidhenīs.

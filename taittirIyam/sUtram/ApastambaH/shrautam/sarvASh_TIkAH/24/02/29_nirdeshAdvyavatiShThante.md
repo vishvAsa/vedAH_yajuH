@@ -3,6 +3,16 @@ title = "29 निर्देशाद्व्यवतिष्ठन्त�
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 If a special instruction is given, they are restricted.

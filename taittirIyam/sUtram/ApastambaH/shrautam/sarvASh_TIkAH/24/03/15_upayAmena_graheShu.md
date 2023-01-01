@@ -3,6 +3,16 @@ title = "15 उपयामेन ग्रहेषु"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 With the Iṣṭakās, the act should be made to coincide with the words tayā deva tena.

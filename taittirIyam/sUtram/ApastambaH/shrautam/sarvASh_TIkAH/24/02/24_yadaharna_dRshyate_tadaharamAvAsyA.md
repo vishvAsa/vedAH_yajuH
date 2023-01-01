@@ -3,6 +3,16 @@ title = "24 यदहर्न दृश्यते तदहरमावास
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 Let a man observe that new-moon day (amāvāsyā) as a day of abstinence, on which the moon is not seen.

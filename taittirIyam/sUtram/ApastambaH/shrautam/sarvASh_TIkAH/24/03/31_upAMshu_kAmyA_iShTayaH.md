@@ -3,6 +3,16 @@ title = "31 उपांशु काम्या इष्टयः"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 The Darśa-pūrṇamāsa sacrifice is the Prakṛti or norm for all iṣṭis.

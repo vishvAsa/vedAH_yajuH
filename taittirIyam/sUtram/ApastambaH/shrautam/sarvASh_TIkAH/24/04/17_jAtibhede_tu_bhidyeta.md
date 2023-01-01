@@ -3,6 +3,16 @@ title = "17 जातिभेदे तु भिद्येत"
 
 +++
 
+<details><summary>कपर्दिस्वामी</summary>
+
+
+<details>
+
+<details><summary>हरदत्तः</summary>
+
+
+<details>
+
 <details><summary>Müller</summary>
 
 But if there is a different kind of animal, there is difference (in pots and spits), owing to the diversity of cooking.
