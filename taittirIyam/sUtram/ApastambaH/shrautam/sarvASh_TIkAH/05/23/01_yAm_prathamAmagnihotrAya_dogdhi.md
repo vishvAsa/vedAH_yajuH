@@ -1,9 +1,9 @@
 +++
-title = "01 याम् प्रथमामग्निहोत्राय दोग्धि"
+title = "02 अथैकेषाम्। अग्नीनाधाय हस्ताववनिग्य संवत्सरमग्निहोत्रं हत्वा"
 
 +++
 
 <details><summary>थिते</summary>
 
-1. (The sacrificer) gives that cow which he milks first for the sake of the Agnihotra as a gift (to any one whom he likes to give).
+2. Now according some (ritualists): Having established fires, having washed his hands, having performed the Agnihotra for one year, (the sacrificer) starts performing New and Full moon sacrifices. Having performed them for one year he per forms a Soma-sacrifice or an animal-sacrifice. Thereafter he performs other rituals.
 </details>
