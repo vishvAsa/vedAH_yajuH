@@ -1,0 +1,9 @@
++++
+title = "02 एतद्वा विपरीतम्"
+
++++
+
+<details><summary>थिते</summary>
+
+एतद्वा विपरीतम् २
+</details>

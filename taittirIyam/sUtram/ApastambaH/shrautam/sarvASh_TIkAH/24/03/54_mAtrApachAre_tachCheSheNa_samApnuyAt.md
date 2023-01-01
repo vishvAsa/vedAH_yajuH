@@ -1,0 +1,18 @@
++++
+title = "54 मात्रापचारे तच्छेषेण समाप्नुयात्"
+
++++
+
+<details><summary>Müller</summary>
+
+If something is wanting in the measure, let him finish with the rest.
+
+#####  Commentary
+
+If it is said that a puroḍāśa should be as large as a horse's hoof, and there is not quite so much left, yet whatever is left should be used to finish the offering.
+</details>
+
+<details><summary>थिते</summary>
+
+मात्रापचारे तच्छेषेण समाप्नुयात् ५४
+</details>

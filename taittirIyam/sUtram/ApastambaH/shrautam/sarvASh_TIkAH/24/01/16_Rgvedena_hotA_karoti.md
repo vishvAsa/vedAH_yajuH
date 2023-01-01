@@ -1,0 +1,14 @@
++++
+title = "16 ऋग्वेदेन होता करोति"
+
++++
+
+<details><summary>Müller</summary>
+
+The Hotṛ-priest performs with the Ṛg-veda.
+</details>
+
+<details><summary>थिते</summary>
+
+ऋग्वेदेन होता करोति १६
+</details>
