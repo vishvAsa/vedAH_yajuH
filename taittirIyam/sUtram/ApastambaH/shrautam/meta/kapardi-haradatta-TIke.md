@@ -4,15 +4,12 @@ title = "कपर्दि-हरदत्त-टीके"
 
 Source: [TW](https://archive.org/details/in.ernet.dli.2015.273855/page/n66/mode/1up)
 
-Government Oriental Library Series. 
-BIBLIOTHECA SANSKRITA NO. 2. 
-आपस्तम्बपरिभाषासूत्रम् 
-कपर्दिस्वामिविरचितेन भाष्येण हरदत्ताचा- यविरचितया व्याख्यया च समेतम्. 
-THE 
-āPASTAMBA-PARIBHāSHā-SÚTRA 
-WITH THE COMMENTARIES OF 
-KAPARDISVA'MIN AND HARADATTA'CHARYA. 
-भारती भन 
+Government Oriental Library Series.   
+BIBLIOTHECA SANSKRITA NO. 2.  
+आपस्तम्ब-परिभाषा-सूत्रम्  
+कपर्दिस्वामि-विरचितेन भाष्येण हरदत्ताचार्य-विरचितया व्याख्यया च समेतम्।  
+
+
 EDITED BY 
 A. MAHA DEVA S'A'STRI, B. Curator, Groceryonent Oriental Library, Mysore 
 Published under the Order of the Government of His Highness the Maharaja of Mysore. 
