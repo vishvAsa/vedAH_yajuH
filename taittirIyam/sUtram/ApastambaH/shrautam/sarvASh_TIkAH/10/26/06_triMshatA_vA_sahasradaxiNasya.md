@@ -5,5 +5,5 @@ title = "06 त्रिंशता वा सहस्रदक्षिणस
 
 <details><summary>थिते</summary>
 
-त्रिंशता वा सहस्रदक्षिणस्य ६
+6. Or in (a sacrifice in which)a thousand (cows) (are given as) sacrificial gifts... for thirty (things)—
 </details>

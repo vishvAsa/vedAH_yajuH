@@ -5,5 +5,11 @@ title = "15 स्वान भ्राजेति सोमक्रयणा
 
 <details><summary>थिते</summary>
 
-स्वान भ्राजेति सोमक्रयणाननुदिश्य स्वजा असि स्वभूरस्यस्मै कर्मणे जात ऋतेन त्वा गृह्णाम्यृतेन मा पाहीति सोमविक्रयिणो राजानमपादत्ते १५
+15. With svāna bhrāja...[^1] having assigned the (various things employed for the Soma-purchase, with svajā asi...[^2] he takes away the king (Soma) from the Soma-vendor.  
+
+
+[^1]: TS I.2.7.h.  
+
+
+[^2]: MS I.3.6 (with a few changes).
 </details>

@@ -5,5 +5,6 @@ title = "01 देव सूर्य सोमङ्"
 
 <details><summary>थिते</summary>
 
-देव सूर्य सोमं क्रेष्यामस्तं ते प्रब्रूमस्तं त्वं विश्वेभ्यो देवेभ्यः क्रतून्कल्पय दक्षिणाः कल्पय यथर्तु यथादेवतमित्यादित्यमुपस्थाय सोमविक्रयिणे राजानं प्रदाय पणते १
+1. With deva sūrya somam kreṣyāmaḥ... having praised the sun while standing, then having handed over the king (Soma) to the Soma-vendor, (the Adhvaryu) bargans (about Soma as follows).
+
 </details>

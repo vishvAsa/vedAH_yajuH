@@ -5,5 +5,12 @@ title = "02 दीक्षितदण्डञ् च मैत्रावर
 
 <details><summary>थिते</summary>
 
-दीक्षितदण्डं च मैत्रावरुणाय प्रयच्छति मित्रावरुणयोस्त्वा प्रशास्त्रोः प्रशिषा प्रयच्छाम्यवक्रोऽविधुरो भूयासमिति २
+2. He gives[^1] the staff of the consecrated to the Maitrāvaruṇa[^2] (-priest), with mitrāvaruṇayostvā praśāstroḥ...[^3]  
+
+
+[^1]: See XI.18.6.  
+
+[^2]: See X. 10.4.  
+
+[^3]: See Aśvaśs III.1.16-17. For the contents of this Sūtra cf. TS VI.1.4.2; cp. MS III.6.8.
 </details>
