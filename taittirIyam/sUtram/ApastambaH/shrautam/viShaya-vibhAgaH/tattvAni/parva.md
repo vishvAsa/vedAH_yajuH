@@ -7,7 +7,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/19_amAvAsyAyAmamAvAsyayA_yajeta.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/20_pauNamAsyAm_paurNamAsyA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/20_paurNamAsyAm_paurNamAsyA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/21_yadahaH_purastAchchandramAH_pUrNa.md"  newLevelForH1="2" includeTitle="false"> </div>  
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/22_shvaH_pUriteti_vA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
