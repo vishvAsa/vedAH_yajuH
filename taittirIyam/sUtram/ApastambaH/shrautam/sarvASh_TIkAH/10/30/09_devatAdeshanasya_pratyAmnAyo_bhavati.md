@@ -5,5 +5,5 @@ title = "09 देवतादेशनस्य प्रत्याम्न�
 
 <details><summary>थिते</summary>
 
-देवतादेशनस्य प्रत्याम्नायो भवति ९
+9. (These formulae) become a substitute of the (formulae) meantioning the deity.
 </details>

@@ -5,5 +5,13 @@ title = "15 वारुणमसीति वासोऽपादाय वर
 
 <details><summary>थिते</summary>
 
-वारुणमसीति वासोऽपादाय वरुणोऽसि धृतव्रत इति राजानमादायाच्छिद्रपत्रः प्रजा उपावरोहोशन्नुशतीः स्योनः स्योनाः सोम राजन्विश्वस्त्वं प्रजा उपावरोह विश्वास्त्वां प्रजा उपावरोहन्त्वित्युपावहृत्योर्वन्तरिक्षमन्विहीत्यभिप्रव्रजति १५
+15. with vāruṇamasi,[^3] having taken away the piece of cloth (from the Soma in the cart), with varuṇosi dhr̥tavrataḥ[^4] having taken up the king (Soma) with acchidrapatraḥ prajā upāvaroha...[^5] having taken out (the Soma from the cart), with urvantarikṣamasi he goes towards (the Prāgvaṁśa).  
+
+
+
+[^3]: MS 1.2.6; KS 11.7.  
+
+[^4]: TS 1.2.10.d. (See X.31.4).  
+
+[^5]: See, cp. KS II.7; VS VI.26.  
 </details>

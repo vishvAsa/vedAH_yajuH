@@ -5,5 +5,5 @@ title = "13 पञ्च प्रयाजाः"
 
 <details><summary>थिते</summary>
 
-पञ्च प्रयाजाः १३
+13. There should be five fore-offerings (Prayāja-).
 </details>

@@ -5,5 +5,8 @@ title = "02 श्येनो भूत्वा परापतेत्यध
 
 <details><summary>थिते</summary>
 
-श्येनो भूत्वा परापतेत्यध्वर्यू राजानमभिमन्त्रयते २
+2. The Adhvaryu addresses the king (Soma) with syeno bhūtvā parāpata...[^1]  
+
+
+[^1]: TS I.2.9.b.  
 </details>

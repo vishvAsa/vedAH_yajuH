@@ -5,5 +5,8 @@ title = "10 एवमुत्तरमनड्वाहं विमुञ्�
 
 <details><summary>थिते</summary>
 
-एवमुत्तरमनड्वाहं विमुञ्चति १०
+10. In the same manner he releases[^1] the left hand-side bullock.  
+
+
+[^1]: This is done at a later stage. See X.30.14.
 </details>

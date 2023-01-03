@@ -5,5 +5,8 @@ title = "08 अग्नेरातिथ्यमसीत्येतैः �
 
 <details><summary>थिते</summary>
 
-अग्नेरातिथ्यमसीत्येतैः प्रतिमन्त्रम् ८
+8. He pours out the handfuls (of the sacrificial material) each (handful with one of the formulae) beginning with agnerātithya-masi.[^1]  
+
+
+[^1]: TS I.2.10.a.  
 </details>

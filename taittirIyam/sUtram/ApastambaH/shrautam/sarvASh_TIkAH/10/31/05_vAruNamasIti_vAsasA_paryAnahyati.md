@@ -5,5 +5,5 @@ title = "05 वारुणमसीति वाससा पर्यानह
 
 <details><summary>थिते</summary>
 
-वारुणमसीति वाससा पर्यानह्यति ५
+5. With vāruṇamasi...[^1], he wraps it round with the piece of cloth (which he had taken away from it).[^2]  
 </details>

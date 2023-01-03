@@ -5,5 +5,5 @@ title = "11 यजमानं वाचयतीत्येके"
 
 <details><summary>थिते</summary>
 
-यजमानं वाचयतीत्येके ११
+11. According to some (ritualists) he makes the sacrificer recite (the Sambhārayajus-formulae).
 </details>

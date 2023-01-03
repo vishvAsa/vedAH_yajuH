@@ -5,5 +5,5 @@ title = "02 द्वाविंशतिदारुरध्मः"
 
 <details><summary>थिते</summary>
 
-द्वाविंशतिदारुरध्मः २
+2. The fuel (for this offering consists of twenty-two (fuel sticks).
 </details>
