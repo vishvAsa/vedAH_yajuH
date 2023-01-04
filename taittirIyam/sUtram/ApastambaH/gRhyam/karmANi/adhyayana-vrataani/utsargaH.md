@@ -84,7 +84,7 @@ title = "उत्सर्गः"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/AdityaH/Rk/vAruNyaH/">
+<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/varuNaH/Rk/vAruNyaH/">
 <details open=""><summary><h7>वारुण्यः ...{Loading}...</h7></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/14_ava_te.md">
 <details open=""><summary><h9>१४ अव ते ...{Loading}...</h9></summary>
