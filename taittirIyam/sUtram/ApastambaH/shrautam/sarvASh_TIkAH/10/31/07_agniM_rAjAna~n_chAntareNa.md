@@ -5,5 +5,5 @@ title = "07 अग्निं राजानञ् चान्तरेण"
 
 <details><summary>थिते</summary>
 
-अग्निं राजानं चान्तरेण मा संचारिष्टेति सम्प्रेष्यति ७
+7. He (then) orders “Do you not go between the Āhavanīya (fire) and the king (Soma).”
 </details>

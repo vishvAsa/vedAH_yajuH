@@ -5,5 +5,8 @@ title = "01 प्रच्यवस्व भुवस्पत इति"
 
 <details><summary>थिते</summary>
 
-प्रच्यवस्व भुवस्पत इति प्राञ्चोऽभिप्रयाय प्रदक्षिणमावर्तन्ते १
+1. with pracyavasva bhuvaspate...[^1] (the Adhvaryu, the Brahman, and the sacrificer), having gone towards the east, turn by the right.  
+
+
+[^1]: TS I.2.9.a. This verse is be recited by the Adhvaryu. 
 </details>

@@ -5,5 +5,5 @@ title = "05 लोहस्तूपरो भवति अप्यतूपर
 
 <details><summary>थिते</summary>
 
-लोहस्तूपरो भवति । अप्यतूपरः । कृष्णसारङ्गो लोहितसारङ्गो वा ५
+5. (The he-goat) should be red and hornless or (it may) not even (be) hornless. (It should be black-spotted or red spotted, 
 </details>

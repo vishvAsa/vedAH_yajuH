@@ -5,5 +5,8 @@ title = "08 अवहननादि कर्म प्रतिपद्यत
 
 <details><summary>थिते</summary>
 
-अवहननादि कर्म प्रतिपद्यते ८
+8. (Then) he undertakes the work beginning with pounding (of the rice-grains).[^1]   
+
+
+[^1]: See I.19.11.  
 </details>
