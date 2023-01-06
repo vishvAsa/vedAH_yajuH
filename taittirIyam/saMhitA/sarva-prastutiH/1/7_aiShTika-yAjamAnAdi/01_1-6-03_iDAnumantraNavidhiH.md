@@ -253,7 +253,7 @@ verily with it he milks it.
 ## प्रत्ता-दोहः, इडा-दोहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(वत्स-लेहनेन)+++ प्रत्ता॒+++(=प्रस्नुत-स्तनी)+++ वै गौर् दु॑हे+++(←"लोपस् त आत्मनेपदेषु")+++ ।  
++++(वत्स-लेहनेन)+++ प्रत्ता॒+++(←प्र+दा+क्त →प्रस्नुत-स्तनी)+++ वै गौर् दु॑हे+++(←"लोपस् त आत्मनेपदेषु")+++ ।  
 प्रत्तेडा॒ यज॑मानाय दुहे +++(←"लोपस् त आत्मनेपदेषु")+++।  
 </details>
 
@@ -279,7 +279,7 @@ and willingly the Ida is milked for the sacrificer;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ते वा इडा॑यै॒ स्तना॒ "इडोप॑हू॒ते"ति॑ +++(वचने)+++, वा॒युर् व॒थ्सः।  
+ए॒ते वा इडा॑यै॒ स्तना॒ → "इडोप॑हू॒ते"ति॑ +++(वचने)+++, वा॒युर् व॒थ्सः।  
 </details>
 
 <details><summary>Keith</summary>
@@ -326,7 +326,7 @@ verily he lets the calf go to the mother
 </details>
 
 
-
+## इडा मानवी
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सर्वे॑ण॒ वै य॒ज्ञेन॑ दे॒वास्सु॑व॒र्गल्ँलो॒कमा॑यन्पाकय॒ज्ञेन॒ मनु॑रश्राम्य॒थ्सेडा॒ मनु॑मु॒पाव॑र्तत॒ तान्दे॑वासु॒रा व्य॑ह्वयन्त प्र॒तीची᳚न्दे॒वाᳶ परा॑ची॒मसु॑रा॒स्सा दे॒वानु॒पाव॑र्तत प॒शवो॒ वै तद्दे॒वान॑वृणत प॒शवोऽसु॑रानजहुः 
@@ -334,10 +334,17 @@ verily he lets the calf go to the mother
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वे॑ण॒ वै य॒ज्ञेन॑ दे॒वास्सु॑व॒र्गल्ँलो॒कमा॑यन् ।  
+सर्वे॑ण॒ वै य॒ज्ञेन॑ दे॒वास् सु॑व॒र्गल्ँ लो॒कम् आ॑यन् ।  
 
-पा॒क॒य॒ज्ञेन॒ मनु॑रश्राम्यत् ।  
+पा॒क॒य॒ज्ञेन॒ मनु॑र् अश्राम्यत् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+By the whole sacrifice the gods went to the world of heaven;   
+Manu laboured with the cooked offering;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -348,13 +355,19 @@ verily he lets the calf go to the mother
 
 <details><summary>भट्टभास्करटीका</summary>
 
-4सर्वेणेत्यादि ॥ अश्राम्यत् पाकयज्ञमात्रानुष्ठानतत्परोभवत् ।  
+4सर्वेणेत्यादि ॥ **अश्राम्यत्** पाकयज्ञमात्रानुष्ठान-तत्परोभवत् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सेडा॒ मनु॑मु॒पाव॑र्तत ।  
+सेडा॒ मनु॑म् उ॒पाव॑र्तत ।   +++(तस्मादियं मानवीत्युच्यते। )+++
 </details>
+
+<details><summary>Keith</summary>
+
+the Ida went to Manu; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -363,12 +376,17 @@ verily he lets the calf go to the mother
 
 <details><summary>भट्टभास्करटीका</summary>
 
-ततस्सेडा मनुमुपावर्तत । तस्मादियं मानवीत्युच्यत इत्यभिप्रायः ।  
+ततस् **सेडा मनुमुपावर्तत** । तस्मादियं मानवीत्युच्यत इत्यभिप्रायः ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान्दे॑वासु॒रा व्य॑ह्वयन्त ।  
+</details>
+
+<details><summary>Keith</summary>
+
+the gods and the Asuras called severally upon her, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -383,12 +401,21 @@ verily he lets the calf go to the mother
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒तीची᳚न्दे॒वाः ।  
+प्र॒तीची᳚न् दे॒वाः ।   
+परा॑ची॒मसु॑राः ।
 </details>
+
+<details><summary>Keith</summary>
+
+the gods directly,  
+the Asuras indirectly; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 प्र॒तीची᳚न्दे॒वाः ।  
+परा॑ची॒मसु॑राः ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -398,7 +425,6 @@ verily he lets the calf go to the mother
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परा॑ची॒मसु॑राः ।  
 सा दे॒वानु॒पाव॑र्तत ।   
 प॒शवो॒ वै तद्दे॒वान॑वृणत ।   
 प॒शवोऽसु॑रानजहुः ।   
@@ -406,7 +432,6 @@ verily he lets the calf go to the mother
 
 <details><summary>मूलम्</summary>
 
-परा॑ची॒मसु॑राः ।  
 सा दे॒वानु॒पाव॑र्तत ।   
 प॒शवो॒ वै तद्दे॒वान॑वृणत ।   
 प॒शवोऽसु॑रानजहुः ।   
