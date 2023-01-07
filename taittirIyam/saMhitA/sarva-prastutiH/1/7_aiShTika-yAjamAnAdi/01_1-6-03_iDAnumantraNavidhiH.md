@@ -639,6 +639,7 @@ verily by the holy power (Brahman) he unites the sacrifice-
 तस्मात् 'बृहस्पतिस्तनुतामिमं नः' इति मार्जनमन्त्रे वचनं ब्रह्मणि सन्धानप्रतिपादनार्थं, विच्छिन्नमिति वचनं सन्तत्यै । ब्रह्मणा समदधुरित्युक्ते ब्रह्मप्रतिपादनस्याकाङ्क्षितत्वात् तृतीयः पादः प्रथमं व्याख्यातः ।  
 </details>
 
+## विश्वे॑ दे॒वा इ॒ह मा॑दयन्ता॒म्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "विश्वे॑ दे॒वा इ॒ह मा॑दयन्ता॒म्" इत्य् आ॑ह ।  
@@ -665,40 +666,40 @@ verily continuing the sacrifice he indicates it to the gods-
 ततो द्वितीयः - विश्व इति । विच्छिन्नं यज्ञं सन्तत्यैव सन्धाय देवेभ्योनुदिशति । इह संहिते यज्ञे देवा माद्यन्तु मोपेक्षां कृषतेति बोधयति ॥
 </details>
 
+## दक्षिणायां वचनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याव्ँवै [5] य॒ज्ञे दख्षि॑णा॒न्ददा॑ति ।  
+याव्ँ वै [5] य॒ज्ञे दख्षि॑णा॒न् ददा॑ति॒, ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।  
 </details>
+
+<details><summary>Keith</summary>
+
+The [5] sacrificial fee which he gives at the sacrifice his cattle accompany; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-याव्ँवै [5] य॒ज्ञे दख्षि॑णा॒न्ददा॑ति ।  
+याव्ँवै [5] य॒ज्ञे दख्षि॑णा॒न्ददा॑ति॒, ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
 9यां वा इत्यादि ॥ अत्र 'ब्रध्न पिन्वस्व' इति बर्हिषदं पुरोडाशमनुमन्त्रयते, स च ऋत्विग्भ्यो दक्षिणैव दीयते ।  
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।  
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
 
 तामधिकृत्येदमुच्यते - दक्षिणां पशवोनुसङ्क्रामन्ति दक्षिणया सह गच्छन्ति ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒ष ई॑जा॒नो॑ऽप॒शुर्भावु॑कः ।  
+स ए॒ष ई॑जा॒नो॑ ऽप॒शुर् भावु॑कः ।  
 </details>
+
+<details><summary>Keith</summary>
+
+he having sacrificed is like to become without cattle; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -712,16 +713,19 @@ verily continuing the sacrifice he indicates it to the gods-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानेन॒ खलु॒ वै तत्का॒र्य॑मित्या॑हुः ।  
-यथा॑ देव॒त्रा द॒त्तङ्कु॑र्वी॒त  ।   
-आत्मन्प॒शून्र॒मये॒तेति॑ ।  
+"यज॑मानेन॒ खलु॒ वै तत् का॒र्य॑म्" इत्य् आ॑हु॒र् -  
+"यथा॑ देव॒त्रा द॒त्तङ् कु॑र्वी॒तात्मन् प॒शून् र॒मये॒ते"ति॑ ।  
 </details>
+
+<details><summary>Keith</summary>
+
+'the sacrificer must so arrange', they say, 'that he may place among the gods what is given, but keep his cattle with himself.' 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-यज॑मानेन॒ खलु॒ वै तत्का॒र्य॑मित्या॑हुः ।  
-यथा॑ देव॒त्रा द॒त्तङ्कु॑र्वी॒त  ।   
-आत्मन्प॒शून्र॒मये॒तेति॑ ।  
+यज॑मानेन॒ खलु॒ वै तत्का॒र्य॑मित्या॑हु॒र्यथा॑ देव॒त्रा द॒त्तङ्कु॑र्वी॒तात्मन्प॒शून्र॒मये॒तेति॒
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
@@ -731,36 +735,77 @@ verily continuing the sacrifice he indicates it to the gods-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रध्न॒ पिन्व॒स्वेत्या॑ह ।  
-य॒ज्ञो वै ब्र॒ध्नो य॒ज्ञमे॒व तन्म॑हयति ।  
-अथो॑ देव॒त्रैव द॒त्तङ्कु॑रुते ।  
-
-आ॒त्मन्प॒शून्र॑मयते ।  
-दद॑तो मे॒ मा ख्षा॒यीत्या॑ह।  
-अख्षि॑तिमे॒वोपै॑ति ।   
-कुर्व॒तो मे॒ मोप॑ दस॒दित्या॑ह ।  
-भू॒मान॑मे॒वोपै॑ति ॥ [6]
+"ब्रध्न॒ पिन्व॒स्वे"त्या॑ह ।  
+य॒ज्ञो वै ब्र॒ध्नो, य॒ज्ञम् ए॒व तन् म॑हयति ।  
+अथो॑ देव॒त्रैव द॒त्तङ् कु॑रुते ।  
+आ॒त्मन् प॒शून्र॑मयते ।  
 </details>
+
+<details><summary>Keith</summary>
+
+'Swell, O ruddy one', he says;  
+the ruddy one is the sacrifice;  
+verily he magnifies the sacrifice;  
+thus he places among the gods what is given,  
+but keeps his cattle with himself-
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ब्रध्न॒ पिन्व॒स्वेत्या॑ह ।  
-य॒ज्ञो वै ब्र॒ध्नो य॒ज्ञमे॒व तन्म॑हयति ।  
+य॒ज्ञो वै ब्र॒ध्नो य॒ज्ञमे॒व तन् म॑हयति ।  
 अथो॑ देव॒त्रैव द॒त्तङ्कु॑रुते ।  
-
-आ॒त्मन्प॒शून्र॑मयते ।  
-दद॑तो मे॒ मा ख्षा॒यीत्या॑ह।  
-अख्षि॑तिमे॒वोपै॑ति ।   
-कुर्व॒तो मे॒ मोप॑ दस॒दित्या॑ह ।  
-भू॒मान॑मे॒वोपै॑ति ॥ [6]
+आ॒त्मन् प॒शून्र॑मयते ।
 </details>
+
+
 
 <details><summary>भट्टभास्करटीका</summary>
 
-ब्रध्न पिन्वस्वेत्यादि । महयति महान्तं करोति ; महितं वा करोति । गतमन्यत् ।  
+ब्रध्न पिन्वस्वेत्यादि । महयति महान्तं करोति ; महितं वा करोति । गतमन्यत् ।
 
 
-इपि सप्तमे प्रथमोनुवाकः ॥  
+इपि सप्तमे प्रथमोनुवाकः ॥
 
 - ऐष्टिकहौत्रब्राह्मणशेषः
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"दद॑तो मे॒ मा ख्षा॒यी"त्या॑ह।  
+अख्षि॑तिम् ए॒वोपै॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+'May (my act) as I give be not destroyed', he says; verily he avoids destruction; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दद॑तो मे॒ मा ख्षा॒यीत्या॑ह।  
+अख्षि॑तिमे॒वोपै॑ति ।   
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"कु॒र्व॒तो मे॒ मोप॑ दस॒द्" इत्या॑ह ।  
+भू॒मान॑मे॒वोपै॑ति ॥ [6]
+</details>
+
+<details><summary>Keith</summary>
+
+'May (my act) as I work not perish', he says; verily he attains prosperity.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कु॒र्व॒तो मे॒ मोप॑ दस॒दित्या॑ह ।  
+भू॒मान॑मे॒वोपै॑ति ॥ [6]
+</details>
+
