@@ -1,5 +1,5 @@
 ﻿+++
-title = "मडपूशि-वीरराघव-प्रयोग-चन्द्रिका"
+title = "०१ पूर्व-प्रयोग-चन्द्रिका"
 +++
 Source: [TW](https://archive.org/details/prayoga-chandrika-nsr-swamy)
 
