@@ -1,5 +1,5 @@
 ﻿+++
-title = "पूर्व-प्रयोगः"
+title = "०१ पूर्व-प्रयोगः"
 +++
 
 Source: [TW](https://archive.org/details/apastambiya-purvaprayoga-ghanapathi-vaduvur-veeravalli-srinivasadesikacharya)
