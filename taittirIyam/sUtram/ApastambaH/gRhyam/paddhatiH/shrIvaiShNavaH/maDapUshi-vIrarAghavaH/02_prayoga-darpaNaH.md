@@ -2,6 +2,8 @@
 title = "०२ अपर-प्रयोग-दर्पणः"
 +++
 
+Source: [TW](https://archive.org/details/prayoga-darpana)
+
 
 ॥ श्रीः ॥
 

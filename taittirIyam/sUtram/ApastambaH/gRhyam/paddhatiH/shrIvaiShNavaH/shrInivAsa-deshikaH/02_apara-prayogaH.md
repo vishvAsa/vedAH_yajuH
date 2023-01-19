@@ -2,6 +2,9 @@
 title = "०२ अपर-प्रयोगः"
 +++
 
+Source: [TW](https://archive.org/details/prayoga-darpana)
+
+
 प्रयोगदर्पणानुक्रमणिकायाः
 
 विषयसूची
