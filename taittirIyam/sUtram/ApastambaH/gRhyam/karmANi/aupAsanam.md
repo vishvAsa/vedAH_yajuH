@@ -24,6 +24,10 @@ unicode_script: devanagari
 </div>  
 
 ### अनुगते
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_15_nityaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_16_dhAryaH_eSha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 +++(विच्छिन्नाग्निसन्धानम् इतो ऽनुमेयम्। )+++
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_17_anugato_manthyaH.md">
@@ -65,6 +69,10 @@ unicode_script: devanagari
 </div>
 </details>
 </div>  
+
+### प्रयाणे
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_14_samopyaitamagnimanuharanti_etam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 ## होमः  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_19_sAyam_prAtarata.md">
