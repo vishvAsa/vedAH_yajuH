@@ -1,6 +1,5 @@
 ---
-layout: prayoga
-language: sa
+
 title: विघ्नेश्वरपूजा
 ---
 

@@ -1,6 +1,5 @@
 ---
-layout: prayoga
-language: sa
+
 title: दर्शश्राद्धविधिः
 ---
 

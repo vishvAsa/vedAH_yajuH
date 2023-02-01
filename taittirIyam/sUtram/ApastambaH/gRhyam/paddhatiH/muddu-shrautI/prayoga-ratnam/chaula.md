@@ -1,6 +1,5 @@
 ---
-layout: prayoga
-language: sa
+
 title: चौलकर्मप्रयोगः 
 ---
 

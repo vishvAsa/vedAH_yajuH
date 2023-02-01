@@ -1,6 +1,5 @@
 ---
-layout: prayoga
-language: sa
+
 title: अभ्युदयश्राद्धम्
 ---
 

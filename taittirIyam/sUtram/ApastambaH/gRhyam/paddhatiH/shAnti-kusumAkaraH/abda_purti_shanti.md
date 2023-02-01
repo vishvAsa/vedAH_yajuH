@@ -1,6 +1,5 @@
 ---
-layout: prayoga
-language: sa
+
 title: अब्दपूर्तिशान्तिः
 ---
 

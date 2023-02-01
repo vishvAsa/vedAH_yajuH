@@ -1,6 +1,5 @@
 ---
-layout: prayoga
-language: sa
+
 title: महागणपतिहोमप्रयोगः
 ---
 

@@ -1,6 +1,5 @@
 ---
-layout: prayoga
-language: sa
+
 title: आवहन्तीहोमविधिः
 ---
 

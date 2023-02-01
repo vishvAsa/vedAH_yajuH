@@ -1,6 +1,5 @@
 ---
-layout: prayoga
-language: sa
+
 title: नूतनगृहप्रवेशकालिकवास्तुशान्तिः
 ---
 

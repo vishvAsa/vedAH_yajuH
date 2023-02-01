@@ -1,6 +1,5 @@
 ---
-layout: prayoga
-language: sa
+
 title: सर्वरोगहरशान्तिः
 ---
 

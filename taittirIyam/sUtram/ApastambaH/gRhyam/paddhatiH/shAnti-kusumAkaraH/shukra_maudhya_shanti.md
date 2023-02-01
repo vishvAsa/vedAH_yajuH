@@ -1,6 +1,5 @@
 ---
-layout: prayoga
-language: sa
+
 title: शुक्रमौढ्यशान्तिः
 ---
 

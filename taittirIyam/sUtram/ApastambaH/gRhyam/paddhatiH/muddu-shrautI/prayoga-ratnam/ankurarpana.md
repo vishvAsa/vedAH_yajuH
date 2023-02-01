@@ -1,6 +1,5 @@
 ---
-layout: prayoga
-language: sa
+
 title: अङ्कुरार्पणम्
 ---
 
