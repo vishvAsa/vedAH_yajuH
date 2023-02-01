@@ -5,5 +5,8 @@ title = "14 विमिमे त्वा पयस्वतीन्"
 
 <details><summary>थिते</summary>
 
-विमिमे त्वा पयस्वतीं देवानां धेनुं सुदुघामनपस्फुरन्तीम् । इन्द्रः सोमं पिबतु क्षेमो अस्तु न इति विमानः १४
+14. With vi mime tvā payasvatīm...[^1] he measures out (me altar).  
+
+[^1]: TB III.7.7.13. 
+
 </details>

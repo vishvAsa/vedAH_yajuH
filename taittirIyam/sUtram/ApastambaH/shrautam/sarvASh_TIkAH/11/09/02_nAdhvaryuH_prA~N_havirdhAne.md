@@ -5,5 +5,5 @@ title = "02 नाध्वर्युः प्राङ् हविर्ध
 
 <details><summary>थिते</summary>
 
-नाध्वर्युः प्राङ् हविर्धाने अतीयात् २
+2. The Adhvaryu should not pass beyond the two Havirdhāna (carts) towards the east.
 </details>

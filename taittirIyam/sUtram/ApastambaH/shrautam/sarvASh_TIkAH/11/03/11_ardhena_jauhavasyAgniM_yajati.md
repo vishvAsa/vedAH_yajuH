@@ -5,5 +5,5 @@ title = "11 अर्धेन जौहवस्याग्निं यजत
 
 <details><summary>थिते</summary>
 
-अर्धेन जौहवस्याग्निं यजति । अर्धेन सोमम् ११
+11. By means of the half (of the ghee) in the Juhū, he offers to Agni, by means of the (other) half to Soma.  
 </details>

@@ -5,5 +5,5 @@ title = "13 तस्मात्पञ्चदशसु दक्षिणत�
 
 <details><summary>थिते</summary>
 
-तस्मात्पञ्चदशसु दक्षिणतः । एवमुत्तरतः । ते श्रोणी । प्रथमनिहताच्छङ्कोः षट्त्रिंशतिः पुरस्तात् । तस्माद्द्वादशसु दक्षिणतः । एवमुत्तरतः । तावंसौ १३
+13. From that point, at a distance of fifteen (steps), towards the south and at the same distance towards the north (he fixes up two yoke-pins). They represent the two hips (of the altar). At a distance of thirty-six (steps), to the east of the first fixed yoke-pin (he fixes up a yoke-pin). From that (yoke-pin) at the distance of twelve steps towards the south (he fixes a yoke-pin) and at the same distance towards the north (he fixes a yoke pin). They represent the two shoulders.  
 </details>
