@@ -1,9 +1,6 @@
 ---
-
 title: दर्शश्राद्धविधिः
 ---
-
-
 
 source: āpastambīya śrāddha prayoga  
 author: muddu śroutigal  
