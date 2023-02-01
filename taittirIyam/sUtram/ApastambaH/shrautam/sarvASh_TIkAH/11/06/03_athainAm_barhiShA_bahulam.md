@@ -5,5 +5,23 @@ title = "03 अथैनाम् बर्हिषा बहुलम्"
 
 <details><summary>थिते</summary>
 
-अथैनां बर्हिषा बहुलं प्राचीनं स्तीर्त्वा प्रयुक्तपूर्वे शकटे नद्धयुगे प्रतिहतशम्ये प्रक्षाल्य तयोः प्रथमग्रथितान्ग्रन्थीन्विस्रस्य नवान्प्रज्ञातान्कृत्वाग्रेण प्राग्वंशमभितः पृष्ठ्यामव्यवनयन्परिश्रिते सच्छदिषी अवस्थापयति ३
+3. Then on it having scattered[^1] ample[^2] sacred grass with their tips to the east,[^3] having washed clean the two carts which have been already used, to which the yokes have been fastened,[^4] and yoke-pins have been fastened, which have been curtained and provided with roofs,[^5] after having loosened their knots[^6] which had been tied before, and tied new knots which should then be clearly marked,[^7] (the Adhvaryu) stations them in front or the Pragvaṁśa, on the two sides of the Pr̥ṣṭhyā(-line).[^8]  
+
+
+[^1]: Cf. TS VI.2.4.5.  
+
+[^2]: Cf. MS III.8.6.  
+
+[^3]: Cf. MS III.8.6.  
+
+[^4]: Cf. TS VI.2.9.1.  
+
+[^5]: Cr. ŚB III.5.3.9.  
+
+[^6]: Cf. TS VI.2.9.1.  
+
+[^7]: Cp. XIII.24.14.  
+
+[^8]: See XI.4.16.  
+
 </details>

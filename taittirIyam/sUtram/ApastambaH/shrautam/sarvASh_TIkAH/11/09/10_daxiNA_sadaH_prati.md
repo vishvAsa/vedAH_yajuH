@@ -5,5 +5,8 @@ title = "10 दक्षिणा सदः प्रति"
 
 <details><summary>थिते</summary>
 
-दक्षिणा सदः प्रति कर्षेद्यथा साङ्काशिनस्याविरोधं स्यात् १०
+10. He should shift the Sadas (sligtly) to the south so that there will be no obstruction in the simultaneous visibility (of the Śālāmukhīya etc.)[^1]   
+
+[^1]: See XI.7.10.  
+
 </details>

@@ -5,5 +5,18 @@ title = "01 विष्णो रराटमसीति पुरस्ता
 
 <details><summary>थिते</summary>
 
-विष्णो रराटमसीति पुरस्ताद्रराट्यां तिर्यञ्चं वंशं धारयन्विष्णोः स्यूरसीति स्यूत्वा विष्णोर्ध्रुवमसीति प्रज्ञातं ग्रन्थिं कृत्वा प्राचो वंशानत्याधाय विष्णोः पृष्ठमसीति तेषु मध्यमं छदिरध्यूहति त्र्यरत्निविस्तारं नवायामम् १
+1. With viṣṇo rarāṭamasi having held up a beam Obliquely[^2] within the bunches of the grass towards the east, with viṣṇoḥ syūrasi[^3] having stitched it up, with viṣṇor dhruvamasi[^4] having tied up a well-marked-out knot,[^5] having set down the beams in such a manner that they would point to the east, with viṣṇoḥ pr̥ṣṭhamasi[^6] (the Adhvaryu) raises up and spreads upon these (beams) the middle roof which has three cubits breadth and nine cubits length.  
+
+
+[^1]: TS 1.2.13.k.  
+
+[^2]: Cf. KS XXV.8.  
+
+[^3]: TS 1.2.13.m.  
+
+[^4]: TS 1.2.13.n.  
+
+[^5]: Cp. XIII.24.14.  
+
+[^6]: TS 1.2.13.k.  
 </details>

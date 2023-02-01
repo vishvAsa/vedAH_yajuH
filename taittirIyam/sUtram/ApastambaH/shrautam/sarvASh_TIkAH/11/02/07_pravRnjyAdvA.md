@@ -5,5 +5,5 @@ title = "07 प्रवृञ्ज्याद्वा"
 
 <details><summary>थिते</summary>
 
-प्रवृञ्ज्याद्वा ७
+7. or one may perform it.
 </details>

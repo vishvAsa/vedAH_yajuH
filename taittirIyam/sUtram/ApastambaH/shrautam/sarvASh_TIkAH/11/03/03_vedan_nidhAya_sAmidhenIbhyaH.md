@@ -5,5 +5,6 @@ title = "03 वेदन् निधाय सामिधेनीभ्यः
 
 <details><summary>थिते</summary>
 
-वेदं निधाय सामिधेनीभ्यः प्रतिपद्यते ३
+3. Having kept down the brush, he starts the ritual of the Sāmidheni (enkindling-verse).  
+
 </details>
