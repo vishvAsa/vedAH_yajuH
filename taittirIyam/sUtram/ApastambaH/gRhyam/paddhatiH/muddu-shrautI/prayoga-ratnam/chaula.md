@@ -11,7 +11,7 @@ publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)
 script: grantha
 
 
-{% capture toc_include %}{% include toc.md %}{% endcapture %}{{ toc_include | markdownify }}
+
 
 सू - जन्मनोऽधि तृतीये वर्षे चौलं पुनर्वस्वोर्ब्राह्मणानां भोजनमुपायनवत्॥ 
 

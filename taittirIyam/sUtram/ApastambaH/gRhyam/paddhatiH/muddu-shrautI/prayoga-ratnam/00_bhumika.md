@@ -1,7 +1,5 @@
 ---
-layout: noswara
-language: sa
-title: भूमिका
+title: ०० भूमिका
 ---
 
 

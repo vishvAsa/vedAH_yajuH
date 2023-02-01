@@ -11,7 +11,7 @@ publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)
 script: grantha
 
 
-{% capture toc_include %}{% include toc.md %}{% endcapture %}{{ toc_include | markdownify }}
+
 
 सू -- उपनयनं व्याख्यास्यामो गर्भाष्टमेषु ब्राह्मणमुपनयीत गर्भैकादशेषु राज्यं गर्भद्वादशेषु वैश्यं वसन्तो ग्रीष्मः शरदित्यृतवो वर्णानुपूर्व्येण ब्राह्मणान् भोजयित्वाऽऽशिषो वाचयित्वा 
 

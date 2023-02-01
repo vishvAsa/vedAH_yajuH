@@ -11,7 +11,7 @@ publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)
 script: grantha
 
 
-{% capture toc_include %}{% include toc.md %}{% endcapture %}{{ toc_include | markdownify }}
+
 
 ## सङ्कल्पः
 
