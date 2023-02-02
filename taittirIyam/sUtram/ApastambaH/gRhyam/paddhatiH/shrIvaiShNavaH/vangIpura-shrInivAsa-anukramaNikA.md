@@ -2,7 +2,7 @@
 title = "वङ्गीपुर-श्रीनिवासानुक्रमणिका"
 +++
 
-Source: [TW](https://archive.org/details/prayoga-chandrika-nsr-swamy)
+Source: [pg 85 at AR](https://archive.org/details/prayoga-chandrika-nsr-swamy)
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
