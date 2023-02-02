@@ -5,5 +5,6 @@ title = "13 उपसदस्तन्त्रम् प्रक्रमय�
 
 <details><summary>थिते</summary>
 
-उपसदस्तन्त्रं प्रक्रमयति १३
+13. (The Adhvaryu now) starts the procedure of the Upasad (-offering).  
+
 </details>

@@ -5,5 +5,6 @@ title = "07 एवमितराम्"
 
 <details><summary>थिते</summary>
 
-एवमितराम् ७
+7. In the same manner (she anoints) the other (the northern end of the axle).   
+
 </details>

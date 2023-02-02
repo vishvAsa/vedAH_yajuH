@@ -5,5 +5,8 @@ title = "07 यम् प्रथमङ् ग्रन्थिङ्"
 
 <details><summary>थिते</summary>
 
-यं प्रथमं ग्रन्थिं ग्रथ्नीयादित्युक्तम् ७
+7. It has been said (in the Brāhmaṇa-text): "The Adhvaryu should not loosen) the knot which he may have tied first."[^1]
+
+[^1]: TS VI.2.9.4; MS III.8.7.  
+
 </details>

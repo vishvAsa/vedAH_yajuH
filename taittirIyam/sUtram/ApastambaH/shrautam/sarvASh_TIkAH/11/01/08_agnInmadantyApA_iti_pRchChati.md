@@ -5,5 +5,8 @@ title = "08 अग्नीन्मदन्त्यापा इति पृ
 
 <details><summary>थिते</summary>
 
-अग्नीन्मदन्त्यापा इति पृच्छति ८
+8. He asks (the Āgnīdhra), “Is the water, boiling?"[^1]
+
+[^1]: Cf. ŚB III.4.2.22.
+
 </details>

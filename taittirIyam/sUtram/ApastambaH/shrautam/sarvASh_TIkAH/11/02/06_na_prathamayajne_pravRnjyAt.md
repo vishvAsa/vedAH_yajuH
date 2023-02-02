@@ -5,5 +5,8 @@ title = "06 न प्रथमयज्ञे प्रवृञ्ज्या
 
 <details><summary>थिते</summary>
 
-न प्रथमयज्ञे प्रवृञ्ज्यात् ६
+6. One should not perform the Pravargya (rite) in the first (Soma) sacrifice,[^1]
+
+[^1]: Cf. ŚB XIV.2.2.44; KB VIII.3.  
+
 </details>
