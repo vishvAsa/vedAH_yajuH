@@ -65,8 +65,8 @@ jobs:
       if: ${{ steps.changed-files.conclusion == 'skipped' || (!contains(steps.changed-files.outputs.all, 'content') ) }}
       run: |
         set -o xtrace
-        git submodule update --init --recursive
-        git submodule update --remote --merge --recursive
+        git submodule update  --single-branch --init --recursive
+        git submodule update  --single-branch --remote --merge --recursive
     - name: Set content to pull request
       if: ${{ github.event_name == 'pull_request'}}
       uses: actions/checkout@master
