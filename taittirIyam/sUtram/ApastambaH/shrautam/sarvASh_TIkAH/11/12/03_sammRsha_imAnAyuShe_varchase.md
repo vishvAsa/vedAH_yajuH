@@ -5,5 +5,9 @@ title = "03 सम्मृश इमानायुषे वर्चसे"
 
 <details><summary>थिते</summary>
 
-सम्मृश इमानायुषे वर्चसे च देवानां निधिरसि द्वेषोयवनः । युयोध्यस्मद्द्वेषांसि यानि कानि च यकृम । देवानामिदं निहितं यदस्तथाभाहि प्रदिशश्चतस्रः । कृण्वानो अन्याँ अधरान्सपत्नानित्युपरवान्सम्मृश्य दक्षिणपूर्वं यजमानोऽवमृशति । उत्तरापरमध्वर्युः ३
+3. Having touched each other's hand with the two verses[^1] beginning with saṁmr̥śa imān devānāṁ idam—the sacrificer touches through the south-eastern (Uparava) and the Adhvaryu (through) the north-western.[^2]  
+
+[^1]: MS I.2.73-74.  
+
+[^2]: Cf. ŚB III.5.4.15.  
 </details>

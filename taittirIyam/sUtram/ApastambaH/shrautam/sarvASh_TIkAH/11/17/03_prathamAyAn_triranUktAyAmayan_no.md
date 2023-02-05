@@ -5,5 +5,10 @@ title = "03 प्रथमायान् त्रिरनूक्ताय�
 
 <details><summary>थिते</summary>
 
-प्रथमायां त्रिरनूक्तायामयं नो अग्निर्वरिवः कृणोत्वित्यग्निप्रथमाः सोमप्रथमा वा प्राञ्चोऽभिप्रव्रजन्ति ३
+3. After the first (verse) has been recited thrice (by the Hotr̥), with ayaṁ no agnir varivaḥ kr̥ņotu[^1] they go to the east with either fire[^2] or Soma in the forefront.  
+
+[^1]: TS 1.3.4.c.  
+
+[^2]: According to XIV.9.2, only this alternative is acceptable to Āpastamba. For it is said there that Brahman carrying Soma follows
+the fire.  
 </details>

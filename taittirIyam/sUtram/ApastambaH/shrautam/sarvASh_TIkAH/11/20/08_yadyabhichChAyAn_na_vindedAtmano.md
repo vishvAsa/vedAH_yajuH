@@ -5,5 +5,5 @@ title = "08 यद्यभिच्छायान् न विन्देद
 
 <details><summary>थिते</summary>
 
-यद्यभिच्छायां न विन्देदात्मनो वृक्षस्य कूलस्य वा छायायाम् ८
+8. If he does not find the shade (of a cloud) (he may get the water from the conjunction of the sun shine and) his own shadow, or the shade of a tree or of a (sinking river-) bank.  
 </details>

@@ -5,5 +5,7 @@ title = "07 अत्र प्रतिप्रस्थाता पयस्
 
 <details><summary>थिते</summary>
 
-अत्र प्रतिप्रस्थाता पयस्यार्थं सायन्दोहं दोहयति ७
+7. At this stage the Pratiprasthātr̥ causes (the milker) to get the evening milking done for the sake Payasyā(-milk-mess).   
+
+[^1]: See XII.4.11.
 </details>

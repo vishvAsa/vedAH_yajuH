@@ -5,5 +5,5 @@ title = "03 स्तृणीत बर्हिः प्र"
 
 <details><summary>थिते</summary>
 
-स्तृणीत बर्हिः प्र व्रतं यच्छतेति सम्प्रेष्यति ३
+3. He orders, "Do you scatter the grass, do you give (to the sacrificer) the fast (-milk)." 
 </details>

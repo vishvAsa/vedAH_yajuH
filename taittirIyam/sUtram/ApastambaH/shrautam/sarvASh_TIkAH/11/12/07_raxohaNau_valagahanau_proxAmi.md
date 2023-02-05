@@ -5,5 +5,10 @@ title = "07 रक्षोहणौ वलगहनौ प्रोक्षा
 
 <details><summary>थिते</summary>
 
-रक्षोहणौ वलगहनौ प्रोक्षामि वैष्णवी इत्यधिषवणफलके प्रोक्षति ७
+7. With rakṣohaṇau valagahanau...[^1] he sprinkles water on the two pressing boards.[^2]  
+
+
+[^1]: KS XXV.9.  
+
+[^2]: Cf. KS XXV.9.  
 </details>

@@ -5,5 +5,24 @@ title = "02 एतत्त्वं सोम देवो"
 
 <details><summary>थिते</summary>
 
-एतत्त्वं सोम देवो देवानुपागा इत्यभिमन्त्र्येदमहं मनुष्यो मनुष्यानिति प्रदक्षिणमावृत्य नमो देवेभ्य इति प्राचीनमञ्जलिं कृत्वा स्वधा पितृभ्य इति दक्षिणेदमहं निर्वरुणस्य पाशादित्युपनिष्क्रम्य स्वरभिव्यख्यमिति प्राङ् प्रेक्षते । सुवरभिविख्येषमिति सर्वं विहारमनुवीक्षते । वैश्वानरं ज्योतिरित्याहवनीयम् २
+2. With etat tvaṁ soma devaḥ devānupāgāh...[^1], having addressed (the Soma), with idaṁ ahaṁ manuṣyo manuṣyān...[^2] having turned by his right, with namo devebhyaḥ...[^3] having folded his hands towards the east (and) with svadhā pitr̥bhyaḥ...[^4] having folded, (his hands) towards the south, with idamhaṁ nirvaruṇasya pāśāt...[^5] having stepped out,[^6] with svarabhivyakhyam...[^7] he looks at the east. With suvarabhi khyeṣam...[^8] he looks along at the entire sacrificial place; with vaiśvānaram...[^9] (he looks) at the Āhavanīya (-fire).   
+
+
+[^1]: TS I.3.4.i.  
+
+[^2]: TS I.3.4.j.  
+
+[^3]: TS.I.3.4.k.  
+
+[^4]: TS I.3.4.k.   
+
+[^5]: TS I.3.4.1.   
+
+[^6]: Of the Havirdhāna-shed. Cf. ŚB III.6.3.20.  
+
+[^7]: KS XXVI.2.  
+
+[^8]: TS I.3.4.1.   
+
+[^9]: TS I.3.4.1.   
 </details>

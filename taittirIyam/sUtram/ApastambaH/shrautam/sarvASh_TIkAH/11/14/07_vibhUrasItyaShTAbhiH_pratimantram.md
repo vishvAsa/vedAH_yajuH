@@ -5,5 +5,7 @@ title = "07 विभूरसीत्यष्टाभिः प्रति�
 
 <details><summary>थिते</summary>
 
-विभूरसीत्यष्टाभिः प्रतिमन्त्रम् ७
+7. (He piles up these Dhiṣṇyas) each with one of the formulae respectively beginning with vibhūrasi.[^1]  
+
+[^1]: TS I.3.3.a-h. See XI.15.2; cp. TS VI.3.1.6.  
 </details>

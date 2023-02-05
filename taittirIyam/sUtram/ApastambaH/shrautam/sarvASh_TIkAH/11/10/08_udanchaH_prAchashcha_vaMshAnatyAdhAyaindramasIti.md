@@ -5,5 +5,8 @@ title = "08 उदञ्चः प्राचश्च वंशानत्य
 
 <details><summary>थिते</summary>
 
-उदञ्चः प्राचश्च वंशानत्याधायैन्द्रमसीति तेषु मध्यमानि त्रीणि छदींष्यध्यूहति ८
+8. Having placed the bamboo-beams (upon the posts), with their points to the north and to the east, he spreads out over them three middle roofs with aindramasi;[^1] 
+
+[^1]: TS I.3.1.q.  
+
 </details>

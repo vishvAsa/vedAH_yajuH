@@ -5,5 +5,6 @@ title = "11 एतावन्नाना पूर्वेणपूर्व�
 
 <details><summary>थिते</summary>
 
-एतावन्नाना । पूर्वेणपूर्वेण मन्त्रेण बाहुमुपावहृत्योत्तरेणोत्तरेण छन्दसावबाधते ११
+11. (Only) this much is different: having put his arm into (the different Uparavas) respectively with each preceding formula he presses down (the earth with his fists) with the following metres.  
+
 </details>

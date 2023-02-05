@@ -5,5 +5,5 @@ title = "05 द्वौ दक्षिणेनापिदधाति द्
 
 <details><summary>थिते</summary>
 
-द्वौ दक्षिणेनापिदधाति । द्वावुत्तरेण ५
+5. He covers the two (Uparavas) by means of the southern (pressing board) and the two by means of the northern.   
 </details>

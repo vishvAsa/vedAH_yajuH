@@ -5,5 +5,7 @@ title = "05 वितराम् मेखलां विस्रंसते
 
 <details><summary>थिते</summary>
 
-वितरां मेखलां विस्रंसते । वितरां मुष्टी कर्षते ५
+5. He fully loosens the girdle; fully opens the fists.[^1]   
+
+[^1]: Cp. XI.2.1.  
 </details>

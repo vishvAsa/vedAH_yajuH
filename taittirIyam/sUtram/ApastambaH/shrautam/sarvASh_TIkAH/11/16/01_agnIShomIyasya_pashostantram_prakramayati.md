@@ -5,5 +5,5 @@ title = "01 अग्नीषोमीयस्य पशोस्तन्त�
 
 <details><summary>थिते</summary>
 
-अग्नीषोमीयस्य पशोस्तन्त्रं प्रक्रमयति १
+1. (The Adhvaryu) starts the procedure (of the ritual) in connection with the animal (-sacrifice) for Agni-Soma.  
 </details>

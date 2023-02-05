@@ -5,5 +5,5 @@ title = "14 यजमानो राजानङ् गोपयति"
 
 <details><summary>थिते</summary>
 
-यजमानो राजानं गोपयति गोपयति १४
+14. The sacrificer protects the king (-Soma).  
 </details>

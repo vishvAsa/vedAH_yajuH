@@ -5,5 +5,7 @@ title = "08 एतस्यैव हविर्धानस्याग्र�
 
 <details><summary>थिते</summary>
 
-एतस्यैव हविर्धानस्याग्रेणोपस्तम्भनमुपरवपांसुभिश्चतुरश्रं खरं करोति सोमपात्रेभ्य आप्तम् ८
+8. To the east of the supporting pole of this very (that is the southern) Havirdhāna-cart, he prepares a square mound big enough for (accommodating) the same utensils,[^1] by means of the earth taken out of the Uparavas.  
+
+[^1]: See XII.1.6.  
 </details>

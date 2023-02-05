@@ -5,5 +5,12 @@ title = "02 देवस्य त्वा सवितुः"
 
 <details><summary>थिते</summary>
 
-देवस्य त्वा सवितुः प्रसव इत्यभ्रिमादाय परिलिखितं रक्षः परिलिखिता अरातय इति त्रिर्दक्षिणपूर्वं परिलिखति २
+2. Having taken the spade with devasya tvā savituḥ prasave...[^1] he draws an outline thrice round the south-eastern[^2] (Uparava) with parilikhitaṁ rakṣaḥ parilikhitā arātayaḥ.[^3]  
+
+
+[^1]: TS I.3.1.1a.  
+
+[^2]: Cf. ŚB III.5.4.6 (indirectly).  
+
+[^3]: TS I.3.1.b.  
 </details>
