@@ -5,5 +5,5 @@ title = "06 बहिः सदसो मार्जालीयन्"
 
 <details><summary>थिते</summary>
 
-बहिः सदसो मार्जालीयं दक्षिणे वेद्यन्ते दक्षिणतः सञ्चरं शिष्ट्वा सममाग्नीध्रीयेण ६
+6. (He prepares) the Mārjālīya (Dhiṣṇya) out side the Sadas, on the southern end of the altar, parallel to the Āgnīdhrīya (Dhiṣṇya), leaving along the south enough room for moving about.  
 </details>

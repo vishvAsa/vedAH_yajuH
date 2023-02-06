@@ -5,5 +5,11 @@ title = "15 इन्द्रस्य स्यूरसीति सीव्
 
 <details><summary>थिते</summary>
 
-इन्द्रस्य स्यूरसीति सीव्यति । इन्द्रस्य ध्रुवमसीति प्रज्ञातं ग्रन्थिं कृत्वैन्द्रमसीन्द्राय त्वेति सम्मितमभिमृशति १५
+15. With indrasya syūrasī (the Adhvaryu) stitches up. With indrasya dhruvamasi[^2] having tied up a well-marked-out knot,with aindramasīndrāya tvā[^3] he touches the (Sadas) (which is now) prepared.  
+
+[^1]: TS 1.3.1.p.  
+
+[^2]: TS 1.3.1.q.  
+
+[^3]: TS 1.3.1.r.  
 </details>

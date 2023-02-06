@@ -5,5 +5,5 @@ title = "12 आग्नीध्रे हविर्धाने वा"
 
 <details><summary>थिते</summary>
 
-आग्नीध्रे हविर्धाने वा यजमानं जागरयन्ति । प्राग्वंशे पत्नीम् १२
+12. They (the priests) cause the sacrificer to remain wakeful either in the Āgnīdhra's shed or in the Havirdhāna-shed; and the wife of the sacrificer in the Prāgvaṁśa.  
 </details>

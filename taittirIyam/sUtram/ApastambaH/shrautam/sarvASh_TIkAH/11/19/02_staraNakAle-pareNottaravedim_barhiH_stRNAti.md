@@ -5,5 +5,5 @@ title = "02 स्तरणकालेऽपरेणोत्तरवेद�
 
 <details><summary>थिते</summary>
 
-स्तरणकालेऽपरेणोत्तरवेदिं बर्हिः स्तृणाति २
+2. At the time of spreading (of the sacrificial grass) he spreads the sacrificial grass to the west of the Uttaravedi.  
 </details>

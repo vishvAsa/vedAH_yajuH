@@ -5,5 +5,9 @@ title = "02 विराडसि सपत्नहा सम्राडसि
 
 <details><summary>थिते</summary>
 
-विराडसि सपत्नहा सम्राडसि भ्रातृव्यहा स्वराडस्यभिमातिहा विश्वाराडसि विश्वासां नाष्ट्राणां हन्तेति बाहू उपावहरतोऽध्वर्युर्यजमानश्च २
+2. The Adhvaryu and the sacrificer insert their hands into the four Uparavas[^1] with the formulae beginning with virāḍasi[^2] (respectively).   
+
+[^1]: Cf. ŚB III.5.4.15.  
+
+[^2]: TS I.3.2.f. See XI.11.8.  
 </details>

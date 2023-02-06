@@ -5,5 +5,7 @@ title = "12 गायत्रन् त्रैष्टुभञ् जाग
 
 <details><summary>थिते</summary>
 
-गायत्रं त्रैष्टुभं जागतमानुष्टुभं पाङ्क्तमित्याम्नातानि भवन्ति १२
+12. Gāyatri, Triṣṭubh, Anuṣṭubh, and Paṅkti are the metres which are mentioned (to be used).[^1]  
+
+[^1]: For Sūtras 11 and 12 cf. KS II. 11.  
 </details>
