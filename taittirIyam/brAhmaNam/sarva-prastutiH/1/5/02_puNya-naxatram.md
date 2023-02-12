@@ -448,11 +448,7 @@ unicode_script: devanagari
 </details>
 
 ## पुण्य-भूमिः
-<details><summary>मूलम्</summary>
 
-यानि॒ वा इ॒मानि॑ पृथि॒व्याश्चि॒त्राणि॑ ।
-तानि॒ नख्ष॑त्राणि ।
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -461,7 +457,8 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यानि॒ वा इ॒मानि॑ पृथि॒व्याश् चि॒त्राणि॒ , तानि॒ नख्ष॑त्राणि ।
+यानि॒ वा इ॒मानि॑ पृथि॒व्याश्चि॒त्राणि॑ ।
+तानि॒ नख्ष॑त्राणि ।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
