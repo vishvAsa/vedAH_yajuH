@@ -188,9 +188,15 @@ strength is food, verily he wins food;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै य॒ज्ञस्य॒ द्वौ दोहौ॑ वि॒द्वान् यज॑ते ।  
-उभ॒यतः॑ [16] ए॒व य॒ज्ञन्दु॑हे पु॒रस्ता᳚च्चो॒परि॑ष्टाच्च ।  
+यो वै य॒ज्ञस्य॒ द्वौ दोहौ॑ वि॒द्वान् यज॑ते,  
+उभ॒यतः॑ [16] ए॒व य॒ज्ञन् दु॑हे - पु॒रस्ता᳚च् चो॒परि॑ष्टाच् च ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He who sacrifices knowing the two milkings of the sacrifice milks thus the sacrifice on both sides [2], in front and behind.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -205,8 +211,14 @@ strength is food, verily he wins food;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वा अ॒न्यो य॒ज्ञस्य॒ दोह॒ इडा॑याम॒न्यः +++(दोहः)+++  ।
+ए॒ष वा अ॒न्यो य॒ज्ञस्य॒, दोह॒ इडा॑याम् अ॒न्यः +++(दोहः)+++  ।
 </details>
+
+<details><summary>Keith</summary>
+
+this is one milking of the sacrifice, another is in the Ida. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -220,40 +232,57 @@ strength is food, verily he wins food;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यर्हि॒ होता॒ यज॑मानस्य॒ नाम॑ गृह्णी॒यात् तर्हि॑ ब्रूयात् ।  
+यर्हि॒ होता॒ यज॑मानस्य॒ नाम॑ गृह्णी॒यात् तर्हि॑ ब्रूया॒द् -  
+"आ+इ॒मा अ॑ग्मन्न् आ॒शिषो॒ दोह॑कामा॒" इति॑।
+</details>
+
+<details><summary>Keith</summary>
+
+When the Hotr utters the name of the sacrificer, then he should say,  
+'Hither these blessings have come, fain for milking';
 </details>
 
 <details><summary>मूलम्</summary>
 
-यर्हि॒ होता॒ यज॑मानस्य॒ नाम॑ गृह्णी॒यात् तर्हि॑ ब्रूयात् ।  
+यर्हि॒ होता॒ यज॑मानस्य॒ नाम॑ गृह्णी॒यात् तर्हि॑ ब्रूया॒द्  
+एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इति॑।
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-5अत्र द्वितीयं दोहं विदधाति - यर्हि होतेत्यादि ॥ 'आ शास्ते यं यजमानोसौ' इत्यदश्शब्दस्य स्थाने यदा यजमानस्य नाम गृह्णाति तदा ब्रूयाद्यजमानः ।  
+5अत्र द्वितीयं दोहं विदधाति - यर्हि होतेत्यादि ॥ 'आ शास्ते यं यजमानोसौ' इत्यदश्शब्दस्य स्थाने यदा यजमानस्य नाम गृह्णाति तदा ब्रूयाद्यजमानः - एमा अग्मन् इत्यादि ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इति॑।  
 सꣵस्तु॑ता ए॒व दे॒वता॑ दु॒हे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+verily he milks the deities which he praises together; 
 </details>
 
 <details><summary>मूलम्</summary>
 
-एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इति॑।  
 सꣵस्तु॑ता ए॒व दे॒वता॑ दु॒हे ।  
 </details>
 
 <details><summary>भट्टभास्करटीका</summary>
 
-एमा अग्मन् इत्यादि । संस्तुताः 'अग्निमावह' अग्निरिदं हविरजुषत' इत्यादिषु बहुशस्सङ्कीर्तिताः ।  दर्शपूर्णमासदेवतास्सर्वा एव दुग्धे ।  
+संस्तुताः 'अग्निमावह' अग्निरिदं हविरजुषत' इत्यादिषु बहुशस्सङ्कीर्तिताः ।  दर्शपूर्णमासदेवतास्सर्वा एव दुग्धे ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ उभ॒यत॑ ए॒व य॒ज्ञन्दु॑हे पु॒रस्ता᳚च्चो॒परि॑ष्टाच्च ।  
+अथो॑ उभ॒यत॑ ए॒व य॒ज्ञन् दु॑हे - पु॒रस्ता᳚च् चो॒परि॑ष्टाच्च ।  
 </details>
+
+<details><summary>Keith</summary>
+
+verily he milks the sacrifice on both sides, in front and behind. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -267,11 +296,12 @@ strength is food, verily he wins food;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रोहि॑तेन त्वा॒ऽग्निर्दे॒वता᳚ङ्गमय॒त्वित्या॑ह ।   
+"रोहि॑तेन त्वा॒ ऽग्निर् दे॒वता᳚ङ् गमय॒त्व्" इत्य् आ॑ह ।   
 ए॒ते वै दे॑वा॒श्वाः [17]।  
-
 यज॑मानᳶ प्रस्त॒रः।  
 </details>
+
+
 
 <details><summary>मूलम्</summary>
 
