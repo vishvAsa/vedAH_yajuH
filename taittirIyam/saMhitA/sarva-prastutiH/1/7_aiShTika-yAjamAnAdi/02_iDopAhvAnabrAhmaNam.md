@@ -459,6 +459,5 @@ he who knows thus is propagated with offspring; he becomes an eater of food.
 
 इति सप्तमे द्वितीयोनुवाकः ॥  
 
-- ऐष्टिकयाजमानब्राह्मणशेषः
-  - अन्वाहार्यस्य विधिः,
+
 </details>
