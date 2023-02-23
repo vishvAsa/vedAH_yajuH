@@ -266,6 +266,14 @@ with it may he win the prize.
 ते नो॒ ऽग्नय॒ᳶ पप्र॑यᳶ पारयन्तु ॥ [33]
 </details>
 
+<details><summary>Keith</summary>
+
+May the two Ankas, the two Nyankas, which are on either side of the chariot, Speeding on with the rushing wind,  
+The far-darting, powerful one, the winged one,  
+The fires which are furtherers, further us.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अ॒ङ्कौ न्य॒ङ्काव॒भितो॒ रथ॒य्ँयौ   

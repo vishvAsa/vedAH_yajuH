@@ -3,38 +3,10 @@ title = "7 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 
-## 07 The Vajapeya
 ### h
-May the two Ankas, the two Nyankas, which are on either side of the chariot, Speeding on with the rushing wind,  
-The far-darting, powerful one, the winged one,  
-The fires which are furtherers, further us.
-## 08
 
-### a
-On the instigation of the god Savitr, through Brhaspati, winner of the prize, may I win the prize.
-### b
-On the instigation of the god Savitr, through Brhaspati, winner of the prize, may I mount the highest vault.
-### c
-To Indra utter your voices, make Indra win the prize, Indra hath won the prize.
-### d
-O whip, strong, having strength for the prizes,  
-Do thou in the contests strengthen the steeds.
-### e
-The swift art thou, the runner, the strong.
-### f
-O steeds, hasten for the prize; conquer on the instigation of the Maruts: measure ye the leagues; establish the ways [1]; attain the goal.
-### g
-For each prize aid us, O ye steeds,  
-For the rewards, O ye wise, immortal, righteous ones;  
-Drink of this mead, rejoice in it;  
-Delighted go by paths on which the gods go.
-### h
-May the swift coursers, who hear the call,  
-All hearken to our cry.
 ### i
-Strong limbed, winning a thousand,  
-Eager to gain in the gaining of praise,  
-The steeds, which have won in the contests great prizes,  
+
 May they be propitious to us when we call.
 ### k
 Among the gods, strong limbed, good praisers,  
