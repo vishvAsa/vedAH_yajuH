@@ -4,28 +4,6 @@ title = "7 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 +++
 
 ## 07 The Vajapeya
-### a
-O god Savitr, instigate the sacrifice, instigate the lord of the sacrifice for good luck; may the divine Gandharva who purifieth thoughts purify our thought; may the lord of speech to-day make sweet our utterance.
-### b
-Thou art the thunderbolt of Indra, slaying obstructions, with thee may this one smite Vrtra.
-### c
-On the instigation of strength, the mother, the mighty one,  
-We shall proclaim with our speech, Aditi, by name,  
-Into whom all this world hath entered;  
-In her may the god Savitr instigate right for us.
-### d
-In the waters [1] is ambrosia, in the waters is medicine;  
-Through the guidance of the waters  
-Be ye steeds, O ye that are strong.
-### e
-Or Vayu thee, or Manu thee,  
-The seven and twenty Gandharvas;  
-They first yoked the steed;  
-They placed swiftness in it.
-### f
-Child of the waters, swift one, the towering onrushing wave most fain to win the prize, with it may he win the prize.
-### g
-Thou art the stepping of Visnu, thou art the step of Visnu, thou art the stride of Visnu.
 ### h
 May the two Ankas, the two Nyankas, which are on either side of the chariot, Speeding on with the rushing wind,  
 The far-darting, powerful one, the winged one,  
