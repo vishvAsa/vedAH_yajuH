@@ -3,10 +3,7 @@ title = "7 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 
-## 06
-Within the Garhapatya much variegated work is performed; with two verses to Agni, the purifier, he pays reverence to the Garhapatya; verily he purifies the fire, he purifies himself; (he uses) two for support. 'O Agni, lord of the house', he says [4]; that is according to the text. 'For a hundred winters', he says; 'for a hundred winters may I kindle thee', he says in effect. He utters the name of his son; verily he makes him an eater of food. 'This prayer I utter, bringing light for the race', he should say who has no son born to him, verily is born to him a brilliant and resplendent son. 'This prayer I utter, bringing light to N. N.', he should say who has a son born [5]; verily he bestows upon him brilliance and splendour. He who having yoked the sacrifice does not let it free becomes without a support. 'Who yoketh thee? Let him set thee free', he says; Who (ka) is Prajapati; verily by Prajapati he yokes him, by Prajapati he lets him free, for support. The vow if not released is liable to consume (the sacrificer); 'O Agni, lord of vows, I have performed my vow', he says; verily he releases his vow [6], for atonement, to prevent burning. The sacrifice goes away, and turns not back; to him who sacrifices knowing the restoration of the sacrifice it does turn back; 'The sacrifice hath become, it hath come into being', he says; this is the restoration of the sacrifice, and thereby he restores it. Excellence has not been obtained by him who having established a fire has no retinue; cattle indeed are the retinue of a Brahman. Having sacrificed, he should step forward to the east and say, 'Rich in cattle, in sheep, O Agni, in horses is the sacrificer'; he wins his retinue, he obtains a thousand cattle, in his offspring a strong one is born.  
-The Vajapeya
-## 07
+## 07 The Vajapeya
 ### a
 O god Savitr, instigate the sacrifice, instigate the lord of the sacrifice for good luck; may the divine Gandharva who purifieth thoughts purify our thought; may the lord of speech to-day make sweet our utterance.
 ### b
