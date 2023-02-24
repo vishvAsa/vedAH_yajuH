@@ -3,16 +3,7 @@ title = "7 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 
-### h
-
-### i
-
-May they be propitious to us when we call.
-### k
-Among the gods, strong limbed, good praisers,  
-Destroying the serpent, the wolf, the Raksases,  
-For ever may they remove from us evil [2].  
-1 This steed speedeth his swift course,  
+This steed speedeth his swift course,  
 Bound at the neck, the shoulder, and the mouth;  
 Displaying his strength Dadhikra  
 Springeth along the bends of the ways.
