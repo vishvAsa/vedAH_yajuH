@@ -14,7 +14,7 @@ unicode_script = "devanagari"
 
 <details><summary>Keith</summary>
 
-There is an Agnistoma with the Pañcadaça (Stoma), for the gaining of Prajapati;  
+There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati;  
 (it has) the characteristics of the Mahavrata, for the gaining of food.
 </details>
 

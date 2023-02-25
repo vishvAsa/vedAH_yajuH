@@ -15,8 +15,8 @@ unicode_script = "devanagari"
 <details><summary>Keith</summary>
 
 There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilliance.  
-There is a Pañcadaça (Stoma); verily he wins power.  
-There is a Saptadaça (Stoma), for the obtainment of food; verily also he gains offspring by reason of it.
+There is a Pañcadaśa (Stoma); verily he wins power.  
+There is a Saptadaśa (Stoma), for the obtainment of food; verily also he gains offspring by reason of it.
 </details>
 
 

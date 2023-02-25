@@ -11,6 +11,6 @@ title = "विश्वजित्-विधानम्"
 
 <details><summary>Keith</summary>
 
-There is a Viçvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
+There is a Viśvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
 </details>
 
