@@ -3,52 +3,12 @@ title = "7 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 
-## 09
-### f
-### g
-For food thee! For proper food thee! For strength thee! For the conquering of strength thee!
-### h
-Thou art ambrosia, thou art prospering, thou art begetting.
 ## 10
-### a
-The instigation of strength pressed in aforetime  
-This Soma, the lord in the plants, in the waters;  
-Be they full of sweetness for us;  
-May we as Purohitas watch over the kingship.
-### b
-The instigation of strength hath pervaded  
-This (world) and all these worlds on every side;  
-He goeth around knowing pre-eminence,  
-Increasing offspring and prosperity for us.
-### c
-The instigation of strength rested on this sky  
-And all these worlds as king;  
-May the wise one make the niggard to be generous,  
-And may he accord us wealth [1] with all heroes.
-### d
-O Agni, speak to us;  
-To us be thou kindly disposed;  
-Further us, O lord of the world  
-Thou art the giver of wealth to us.
-### e
-May Aryaman further us,  
-May Bhaga, may Brhaspati,  
-May the gods, and the bounteous one;  
-May the goddess speech be bountiful to us.
-### f
-Aryaman, Brhaspati, Indra,  
-Impel to give us gifts,  
-Speech, Visnu, Sarasvat!,  
-And Savitr the strong.
-### g
-Soma the king, Varuna,  
-Agni, we grasp,  
-The Adityas, Visnu, Surya  
-And Brhaspati, the Brahman (priest).
+
 ### h
-On the instigation of the god Savitr with the arms of the Aśvins, with the hands of Pusan, with the bond of Sarasvati, of speech, the binder, I anoint thee with the lordship of Agni, with the lordship of Indra of Brhaspati I anoint thee.
+
 ## 11
-Agni with one syllable won speech; the Aśvins with two syllables won expiration and inspiration; Visnu with three syllables won the three worlds; Soma with four syllables won four-footed cattle; Pusan with five syllables won the Parkti; Dhatr with six syllables won the six seasons; the Maruts with seven syllables won the seven-footed Śakvari; Brhaspati with eight syllables won the Gayatri;  
+the Aśvins with two syllables won expiration and inspiration; Visnu with three syllables won the three worlds; Soma with four syllables won four-footed cattle; Pusan with five syllables won the Parkti; Dhatr with six syllables won the six seasons; the Maruts with seven syllables won the seven-footed Śakvari; Brhaspati with eight syllables won the Gayatri;  
 Mitra with nine syllables won the threefold Stoma [1]; Varuna with ten syllables won the Viraj; Indra with eleven syllables won the Tristubh; the All-gods with twelve syllables won the Jagati; the Vasus with thirteen syllables won the thirteenfold Stoma; the Rudras with fourteen syllables won the fourteenfold Stoma; the Adityas with fifteen syllables won the fifteenfold Stoma; Aditi with sixteen syllables won the sixteen fold Stoma; Prajapati with seventeen syllables won the seventeenfold Stoma.
 ## 12
 
