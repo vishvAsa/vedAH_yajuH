@@ -3,43 +3,8 @@ title = "7 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 
-This steed speedeth his swift course,  
-Bound at the neck, the shoulder, and the mouth;  
-Displaying his strength Dadhikra  
-Springeth along the bends of the ways.
-### m
-After him as he hasteneth in triumphant speed  
-Bloweth the wind as after the wing of the bird,  
-Of the impetuous eagle, (after him) Dadhikravan,  
-As in his might he crosseth the winding ways.
-### n
-May there come to me the instigation of strength;  
-May there come sky and earth with all healing;  
-Come to me father [3] and mother;  
-May Soma come to me for immortality.
-### o
-O ye steeds, prize winning, about to run for the prize, about to win the prize, do ye touch Brhaspati's portion.
-### p
-O ye steeds, prize winning, that have run for the prize, that have won the prize, do ye be pure in Brhaspati's portion.
-### q
-True hath been the compact  
-That ye did make with Indra.
-### r
-Ye have made Indra win the prize, O trees; now be ye loosed.
 ## 09
-### a
-Thou art the caul of the kingly class, thou art the womb of the kingly class.
-### b
-O wife, come hither to the heaven; let us two mount! Yes, let us two mount the heaven; I will mount the heaven for us both.
-### c
-Strength, instigation, the later born, inspiration, heaven, the head, the Vyaśniya, the offspring of the last, the last, the offspring of being, being, the overlord.
-### d
-May life accord with the sacrifice, may expiration accord with the sacrifice, may inspiration accord with the sacrifice [1], may cross-breathing accord with the sacrifice, may eye accord with the sacrifice, may ear accord with the sacrifice, may mind accord with the sacrifice, may the body accord with the sacrifice, may the sacrifice accord with the sacrifice.
-### e
-We have come to the heaven, to the gods; we have become immortal; we have become the offspring of Prajapati.
-
 ### f
-May I be united with offspring, offspring with me; may I be united with increase of wealth, increase of wealth with me.
 ### g
 For food thee! For proper food thee! For strength thee! For the conquering of strength thee!
 ### h
