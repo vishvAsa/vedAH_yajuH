@@ -2,39 +2,7 @@
 title = "7 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
-
-
-## 13
-### a
-The months, the woods,  
-The plants, the mountains,  
-The earth and sky in longing,  
-The waters, followed Indra on his birth.
-### b
-To thee hath been assigned for mighty power,  
-For ever, in the slaying of Vrtra,  
-All lordship, and all strength, O thou that art worthy of sacrifice  
-In the overcoming of man by the gods, O Indra,
-### c
-Indrani beyond other women  
-I have heard to be favoured with a spouse,  
-For never at any time [1]  
-Shall her husband die of old age.
-### d
-I have not joyed, O Indrani,  
-Without my friend Vrsakapi,  
-Whose oblation rich in water  
-Goeth dear to the gods.
-### e
-He who first born in his wisdom  
-A god, surpassed the gods in insight,  
-From whose breath the sky and earth recoiled,  
-In the greatness of his manhood, he, O ye men, is Indra.
 ### f
-Hitherward be thy might with aid, O dread Indra,  
-What time the armies meet in combat,  
-And the arrow flieth from the arms of the strong men;  
-Let not thine [2] anger spread on every side.
 ### g
 Destroy us not; bring and give to us  
 That plenteous bounty which thou hast to give to the pious man,  
