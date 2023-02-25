@@ -45,10 +45,16 @@ Agni with one syllable won speech;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विनौ॒ द्व्य॑ख्षरेण प्राणापा॒नावुद॑जयताम् ।  
+अ॒श्विनौ॒ द्व्य॑ख्षरेण प्राणापा॒नाव् उद॑जयताम् ।  
 विष्णु॒स्त्र्य॑ख्षरेण॒ त्रील्ँ लो॒कानुद॑जय॒त्।  
-सोम॒श्चतु॑रख्षरेण॒ चतु॑ष्पदᳶ प॒शूनुद॑जयत्।  
+सोम॒श् चतु॑रख्षरेण॒ चतु॑ष्पदᳶ प॒शून् उद॑जयत्।  
 </details>
+
+<details><summary>Keith</summary>
+
+the Aśvins with two syllables won expiration and inspiration; Visnu with three syllables won the three worlds; Soma with four syllables won four-footed cattle; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -67,6 +73,12 @@ Agni with one syllable won speech;
 पू॒षा पञ्चा᳚ख्षरेण प॒ङ्क्तिमुद॑जयत्  ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Pusan with five syllables won the Pankti; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 पू॒षा पञ्चा᳚ख्षरेण प॒ङ्क्तिमुद॑जयत्  ।  
@@ -84,6 +96,14 @@ Agni with one syllable won speech;
 बृह॒स्पति॑र॒ष्टाख्ष॑रेण गाय॒त्रीमुद॑जयन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Dhatr with six syllables won the six seasons;  
+the Maruts with seven syllables won the seven-footed Śakvari;  
+Brhaspati with eight syllables won the Gayatri;  
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 धा॒ता षड॑ख्षरेण॒ षडृ॒तूनुद॑जयन् ।  
@@ -95,14 +115,19 @@ Agni with one syllable won speech;
 
 बृहस्पतिर्व्याख्यातः +++(पञ्चमप्रपाठके)+++  ।  
 
-
-  - बृहस्पतिशब्दश्च पारस्करादिः, वनस्पत्यादिश्च । तेन सुडागमः, पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं च ॥
+(बृहस्पतिशब्दश्च पारस्करादिः, वनस्पत्यादिश्च । तेन सुडागमः, पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं च ॥)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रो नवा᳚ख्षरेण त्रि॒वृत॒ꣵ॒ स्तोम॒मुद॑जयत् [43]।
+मि॒त्रो नवा᳚ख्षरेण त्रि॒वृत॒ꣵ॒ स्तोम॒म् उद॑जयत् [43]।
 </details>
+
+<details><summary>Keith</summary>
+
+Mitra with nine syllables won the threefold Stoma [1]; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -119,6 +144,12 @@ Agni with one syllable won speech;
 वरु॑णो॒ दशा᳚ख्षरेण वि॒राज॒मुद॑जयत् ।
 </details>
 
+<details><summary>Keith</summary>
+
+Varuna with ten syllables won the Viraj; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 वरु॑णो॒ दशा᳚ख्षरेण वि॒राज॒मुद॑जयत् ।
@@ -131,29 +162,54 @@ Agni with one syllable won speech;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॒ एका॑दशाख्षरेण त्रि॒ष्टुभ॒मुद॑जय॒त्  ।  
-विश्वे॑ दे॒वा द्वाद॑शाख्षरेण॒ जग॑ती॒मुद॑जय॒न् ।  
-वस॑व॒स्त्रयो॑दशाख्षरेण त्रयोद॒शꣵ स्तोम॒मुद॑जयन् ।  
-रु॒द्राश्चतु॑र्दशाख्षरेण चतुर्द॒शꣵ स्तोम॒मुद॑जयन् ।  
-आ॒दि॒त्याᳶ पञ्च॑दशाख्षरेण पञ्चद॒शꣵ स्तोम॒मुद॑जयन् ।  
-अदि॑ति॒ष्षोड॑शाख्षरेण षोड॒शꣵ स्तोम॒मुद॑जयत् ।  
-प्र॒जाप॑तिस्स॒प्तद॑शाख्षरेण सप्तद॒शꣵ स्तोम॒मुद॑जयत् ॥   
+इन्द्र॒ एका॑दशाख्षरेण त्रि॒ष्टुभ॒म् उद॑जय॒त्  ।  
+विश्वे॑ दे॒वा द्वाद॑शाख्षरेण॒ जग॑ती॒म् उद॑जय॒न् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+Indra with eleven syllables won the Tristubh; the All-gods with twelve syllables won the Jagati; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इन्द्र॒ एका॑दशाख्षरेण त्रि॒ष्टुभ॒मुद॑जय॒त्  ।  
 विश्वे॑ दे॒वा द्वाद॑शाख्षरेण॒ जग॑ती॒मुद॑जय॒न् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वस॑व॒स् त्रयो॑दशाख्षरेण त्रयोद॒शꣵ स्तोम॒म् उद॑जयन् ।  
+रु॒द्राश् चतु॑र्दशाख्षरेण चतुर्द॒शꣵ स्तोम॒म् उद॑जयन् ।  
+आ॒दि॒त्याᳶ पञ्च॑दशाख्षरेण पञ्चद॒शꣵ स्तोम॒म् उद॑जयन् ।  
+अदि॑ति॒ष् षोड॑शाख्षरेण षोड॒शꣵ स्तोम॒म् उद॑जयत् ।  
+प्र॒जाप॑तिस् स॒प्तद॑शाख्षरेण सप्तद॒शꣵ स्तोम॒म् उद॑जयत् ॥   
+</details>
+
+<details><summary>Keith</summary>
+
+the Vasus with thirteen syllables won the thirteenfold Stoma; the Rudras with fourteen syllables won the fourteenfold Stoma; the Adityas with fifteen syllables won the fifteenfold Stoma; Aditi with sixteen syllables won the sixteen fold Stoma; Prajapati with seventeen syllables won the seventeenfold Stoma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 वस॑व॒स्त्रयो॑दशाख्षरेण त्रयोद॒शꣵ स्तोम॒मुद॑जयन् ।  
 रु॒द्राश्चतु॑र्दशाख्षरेण चतुर्द॒शꣵ स्तोम॒मुद॑जयन् ।  
 आ॒दि॒त्याᳶ पञ्च॑दशाख्षरेण पञ्चद॒शꣵ स्तोम॒मुद॑जयन् ।  
 अदि॑ति॒ष्षोड॑शाख्षरेण षोड॒शꣵ स्तोम॒मुद॑जयत् ।  
 प्र॒जाप॑तिस्स॒प्तद॑शाख्षरेण सप्तद॒शꣵ स्तोम॒मुद॑जयत् ॥   
+
 </details>
+
 
 <details><summary>भट्टभास्करटीका</summary>
 
-त्रयोदश स्तोमा यथासम्भवं द्रष्टव्याः । यथा द्वाभ्यां पञ्चकाभ्यामेकेन च त्रिकेण त्रयोदशेत्यादि । तत्र त्रयोदश स्तोत्रीयाः परिमाणमस्येति । 'स्तोमे डविधिः पञ्चदशाद्यर्थम्' इति डः । एवं सर्वत्र । त्रयोदशषोडशानां चास्तित्वे इदमेव प्रमाणम् ॥
+त्रयोदश स्तोमा यथासम्भवं द्रष्टव्याः ।  
+यथा द्वाभ्यां पञ्चकाभ्याम् एकेन च त्रिकेण त्रयोदशेत्यादि ।  
+तत्र त्रयोदश स्तोत्रीयाः परिमाणम् अस्येति । 'स्तोमे डविधिः पञ्चदशाद्यर्थम्' इति डः । एवं सर्वत्र ।  
+त्रयोदश-षोडशानां चास्तित्वे इदम् एव प्रमाणम् ॥
 
 इति सप्तमे एकादशोनुवाकः ॥  
 </details>

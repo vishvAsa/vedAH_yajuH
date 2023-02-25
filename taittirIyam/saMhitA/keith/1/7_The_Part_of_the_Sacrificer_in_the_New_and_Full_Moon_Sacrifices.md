@@ -3,42 +3,7 @@ title = "7 The Part of the Sacrificer in the New and Full Moon Sacrifices"
 
 +++
 
-## 10
 
-### h
-
-## 11
-the Aśvins with two syllables won expiration and inspiration; Visnu with three syllables won the three worlds; Soma with four syllables won four-footed cattle; Pusan with five syllables won the Parkti; Dhatr with six syllables won the six seasons; the Maruts with seven syllables won the seven-footed Śakvari; Brhaspati with eight syllables won the Gayatri;  
-Mitra with nine syllables won the threefold Stoma [1]; Varuna with ten syllables won the Viraj; Indra with eleven syllables won the Tristubh; the All-gods with twelve syllables won the Jagati; the Vasus with thirteen syllables won the thirteenfold Stoma; the Rudras with fourteen syllables won the fourteenfold Stoma; the Adityas with fifteen syllables won the fifteenfold Stoma; Aditi with sixteen syllables won the sixteen fold Stoma; Prajapati with seventeen syllables won the seventeenfold Stoma.
-## 12
-
-### a
-Thou art taken with a support; thee that sittest among men, that sittest in the wood, that sittest in the world, I take acceptable to Indra this is thy birthplace; to Indra thee!
-### b
-Thou art taken with a support; thee that sittest in the waters, that sittest in the ghee, that sittest in the sky, I take acceptable to Indra; this is thy birthplace; to Indra thee!
-### c
-Thou art taken with a support; thee that sittest on the earth, that sittest on the atmosphere, that sittest on the vault, I take acceptable to Indra; this is thy birthplace; to Indra thee!
-### d
-The cups of the five folk,  
-Of which three are of highest birth,  
-(And for which) the divine cask [1] has been forced out  
-Of these that have no handles  
-The food and strength have I seized;  
-This is thy birthplace; to Indra thee!
-### e
-The sap of the waters, the vigorous,  
-The ray of the sun that has been gathered,  
-The sap of the sap of the waters,  
-That of you I take which is the best;  
-This is thy birthplace; to Indra thee!
-### f
-By this shape producing mighty deeds,  
-He is dread, a broad way for gain,  
-He hath come to the top, bearing sweetness,  
-What time he moved a body in his own body.
-### g
-Thou art taken with a support; agreeable to Prajapati I take thee  
-this is thy birthplace; to Prajapati thee!
 ## 13
 ### a
 The months, the woods,  

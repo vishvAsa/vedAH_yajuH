@@ -27,35 +27,10 @@ title = "१० अग्निग्रहाः प्राणग्रहा
 उ॒प॒या॒मगृ॑हीतोऽसि प्र॒जाप॑तये त्वा॒ जुष्ट॑ङ्गृह्णाम्ये॒ष ते॒ योनि॑ᳶ प्र॒जाप॑तये त्वा  ।   
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒मगृ॑हीतोऽसि प्र॒जाप॑तये त्वा॒ जुष्ट॑ङ्गृह्णामि  ।  
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-<details><summary>मूलम्</summary>
-
-उ॒प॒या॒मगृ॑हीतोऽसि प्र॒जाप॑तये त्वा॒ जुष्ट॑ङ्गृह्णामि  ।  
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-2उपयामगृहीतोसीत्यादि ॥ गतम् ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ए॒ष ते॒ योनि॑ᳶ प्र॒जाप॑तये त्वा  ।   
-</details>
-
-<details><summary>मूलम्</summary>
-
-ए॒ष ते॒ योनि॑ᳶ प्र॒जाप॑तये त्वा  ।   
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-3अनेन गृहीत्वा परिमृज्य सादयति - एष ते योनिः प्रजापतये त्वेत्यादि ॥ 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/12_atigrAhyamantrAbhidhAnam/prajApataye_tvA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
