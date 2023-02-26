@@ -5,5 +5,5 @@ title = "09 अप्यन्यदेवतानिन्द्रपीत�
 
 <details><summary>थिते</summary>
 
-अप्यन्यदेवतानिन्द्रपीतस्येति ९
+9. (One should consume the remnants of the offerings) even to the other deities with (the formula containing the word) indrapītasya.   
 </details>

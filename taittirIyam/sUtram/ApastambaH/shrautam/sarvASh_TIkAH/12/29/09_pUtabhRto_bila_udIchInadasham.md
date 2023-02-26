@@ -5,5 +5,9 @@ title = "09 पूतभृतो बिल उदीचीनदशम्"
 
 <details><summary>थिते</summary>
 
-पूतभृतो बिल उदीचीनदशं पवित्रं वितत्य य आधवनीये राजा तं सर्वं पूतभृत्यवनीयाच्छावाकचमसमुख्यांश्चमसानुन्नयन्सर्वं राजानमुन्नीय दशाभिः कलशौ मृष्ट्वा न्युब्जति ९
+9. After (the singers) have spread out the (woolen) filter with its fringes pointing to the north, over the opening of the Pūtabhr̥t,[^1] (the Adhvaryu) pours the entire quantity of the king (Soma) which is in the Ādhavanīya into the Pūtabhr̥t, filling the goblets beginning with the goblet of the Acchāvāka, with the entire quantity (of the Soma).[^2] Having wiped off the two pitchers with the fringes, he keeps them upside down.  
+
+[^1]: See XII.16.11.  
+
+[^2]: viz. Putabhr̥t and Droṇakalaśa.  
 </details>

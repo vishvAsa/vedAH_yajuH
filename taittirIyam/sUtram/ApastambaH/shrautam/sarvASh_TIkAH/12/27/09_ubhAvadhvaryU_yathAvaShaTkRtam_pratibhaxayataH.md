@@ -5,5 +5,5 @@ title = "09 उभावध्वर्यू यथावषट्कृतम�
 
 <details><summary>थिते</summary>
 
-उभावध्वर्यू यथावषट्कृतं प्रतिभक्षयतः ९
+9. The two Adhvaryus on their sides drink from the R̥tu-cup) in acordance with (the priests who have uttered) the Vaṣaṭ (call) (for their offerings).  
 </details>

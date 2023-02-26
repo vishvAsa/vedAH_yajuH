@@ -5,5 +5,5 @@ title = "15 एवमत ऊर्ध्वन् नाराशंसवर्
 
 <details><summary>थिते</summary>
 
-एवमत ऊर्ध्वं नाराशंसवर्जं गणेषु चर्या १५
+15. Henceforth the performance in (connection with) the groups (of goblets) (should be) thus except the Narāśaṁsa( goblets).  
 </details>

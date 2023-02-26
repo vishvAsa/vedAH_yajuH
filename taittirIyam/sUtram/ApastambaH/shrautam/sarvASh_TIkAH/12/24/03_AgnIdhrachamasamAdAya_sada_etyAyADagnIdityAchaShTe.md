@@ -5,5 +5,7 @@ title = "03 आग्नीध्रचमसमादाय सद एत्य
 
 <details><summary>थिते</summary>
 
-आग्नीध्रचमसमादाय सद एत्यायाडग्नीदित्याचष्टे ३
+3. Having taken the Āgnīdhra's cup, having come to the Sadas, the Adhvaryu anounces “the Āgnīdhra has recited the offering verse."[^1]  
+
+[^1]: Cf. ŚB IV.2.1.33.  
 </details>

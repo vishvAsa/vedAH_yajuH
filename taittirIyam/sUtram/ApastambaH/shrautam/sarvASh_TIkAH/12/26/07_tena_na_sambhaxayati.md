@@ -5,5 +5,7 @@ title = "07 तेन न सम्भक्षयति"
 
 <details><summary>थिते</summary>
 
-तेन न सम्भक्षयति । नास्मिन्नुपहवमिच्छते । यद्यस्मिन्नुपहवमिच्छेत भक्षयेत्येनं ब्रूयात् ७
+7. (The Adhvaryu) does not drink together with him (the Acchāvāka). (The Acchāvāka) does not seek invitation[^1] in connection with it. If the Acchāvāka desires invitation in connection with it the Adhvaryu should (merely) say to him, “Do you drink."   
+
+[^1]: From the Adhvaryu.  
 </details>

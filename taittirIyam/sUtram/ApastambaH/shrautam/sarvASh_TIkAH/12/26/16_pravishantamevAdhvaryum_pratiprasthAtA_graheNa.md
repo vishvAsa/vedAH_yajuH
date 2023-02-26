@@ -5,5 +5,7 @@ title = "16 प्रविशन्तमेवाध्वर्युम् �
 
 <details><summary>थिते</summary>
 
-प्रविशन्तमेवाध्वर्युं प्रतिप्रस्थाता ग्रहेण परिप्रगृह्णाति । निष्क्रामन्तं पात्रेण १६
+16. Only when the Adhvaryu is entering (into the Havirdhāna-shed),[^1] the Pratiprasthātr̥ passes the scoop round him; when (the Adhvaryu) is going out (of the Havirdhāna), the Prathiprasthātr̥ passes) the (empty) cup (round him).  
+
+[^1]: in order to fill the cup.  
 </details>

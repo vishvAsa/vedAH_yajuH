@@ -5,5 +5,11 @@ title = "22 यतो मन्येतानभिक्रम्य होष
 
 <details><summary>थिते</summary>
 
-यतो मन्येतानभिक्रम्य होष्यामीति तत्तिष्ठन्स्रुचं वायव्यं चमसं वान्वारभ्याश्रावयेत् । ग्रहं वा गृहीत्वा चमसं वोन्नीय स्तोत्रमुपाकर्युआ\!दित्यत्यन्तप्रदेशः २२
+22. Standing at the place from where he may think “I shall (be able to) offer, without having to step forward,[^1] having held either the ladle or the Vāyavya-goblet, he makes the Āgnīdhra to say astu śrauṣaṭ.[^2] Or after having taken the scoop or having filled the goblet, he should bespeak the Stotra (singing)[^3]-This is a general rule.  
+
+[^1]: See II.17.5.  
+
+[^2]: See II.15.3-6.  
+
+[^3]: Both the rules are based upon TS III.1.2.3-4.  
 </details>

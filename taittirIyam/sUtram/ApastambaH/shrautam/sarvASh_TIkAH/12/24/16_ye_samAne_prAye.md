@@ -5,5 +5,7 @@ title = "16 ये समाने प्राये"
 
 <details><summary>थिते</summary>
 
-ये समाने प्राये भक्षयन्ति तेषूपहवमिच्छते १६
+16. One seeks (such) invitation from those who consume at the same time[^1] 
+
+[^1]: See XII.25.18-23.   
 </details>

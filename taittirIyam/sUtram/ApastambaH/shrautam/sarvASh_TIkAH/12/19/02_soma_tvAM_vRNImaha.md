@@ -5,5 +5,10 @@ title = "02 सोम त्वां वृणीमह"
 
 <details><summary>थिते</summary>
 
-सोम त्वां वृणीमह उद्गातारं नृचक्षसं पारया ण स्वस्तये । विश्वेभ्यो मे रूपेभ्य इति सर्वं राजानम् २
+2. the entire quantity of the king Soma with soma tvāṁ vr̥ṇīmahe...[^2] and viśvebhyo me rūpebhyaḥ...[^3]   
+
+
+[^2]: The formula only in the ĀpŚS.  
+
+[^3]: TS III.2.3.r.  
 </details>

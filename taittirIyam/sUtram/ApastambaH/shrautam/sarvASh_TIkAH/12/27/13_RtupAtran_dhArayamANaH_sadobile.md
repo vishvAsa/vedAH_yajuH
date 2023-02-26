@@ -5,5 +5,5 @@ title = "13 ऋतुपात्रन् धारयमाणः सदोब
 
 <details><summary>थिते</summary>
 
-ऋतुपात्रं धारयमाणः सदोबिले प्रत्यङ्तिष्ठन्प्रतिगृणाति । प्रह्वो वा १३
+13. Holding the R̥tu-cup, standing at the entrance of the Sadas, with his face to the west, he responds or (he does so while standing) in a bending position:  
 </details>

@@ -5,5 +5,9 @@ title = "07 उप मा द्यावापृथिवी"
 
 <details><summary>थिते</summary>
 
-उप मा द्यावापृथिवी इति द्यावापृथिवी । उपास्ताव इति वहिष्पवमानास्तावम् ७
+7. He praises Dyāvapr̥thivī with upa mā dyāvāpr̥thivī...,[^1] the place of singing the Bahiṣpavamāna with upāstāvaḥ...[^2]   
+
+[^1]: TS III.2.4.b.  
+
+[^2]: TS III.2.4.c.  
 </details>

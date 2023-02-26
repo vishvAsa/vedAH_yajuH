@@ -5,5 +5,7 @@ title = "11 उत्तमेऽभिषवे ऽभिषुते राज
 
 <details><summary>थिते</summary>
 
-उत्तमेऽभिषवे ऽभिषुते राजन्यसम्भृते देवा ग्रावाण इन्दुरिन्द्र इत्यवादिषुः । एन्द्रमचुच्यवुः परमस्याः पराबतः । आस्मात्सधस्तादोरोरन्तरिक्षात् । आ सुभूतमसुषवुर्ब्रह्मवर्चसं म आसुषवुः समरे रक्षांस्यवधिषुरपहतं ब्रह्मज्यस्येति प्रतिप्रस्थाता ग्राव्णोऽनुमोदते ११
+11. After the king (Soma) has been pressed out at the last pressing (and) before (the Soma-juice) is collected together (in the Ādhavanīya), the Pratiprasthātr̥ praises the pressing stones with devā gravāṇa indur indra....[^1]  
+
+[^1]: TB 111.7.9.2.  
 </details>

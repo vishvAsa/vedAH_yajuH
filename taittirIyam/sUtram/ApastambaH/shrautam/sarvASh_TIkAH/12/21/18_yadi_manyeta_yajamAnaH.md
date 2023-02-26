@@ -5,5 +5,7 @@ title = "18 यदि मन्येत यजमानः"
 
 <details><summary>थिते</summary>
 
-यदि मन्येत यजमानः पूर्वो मातिक्रान्तो भ्रातृव्य इति प्रतिप्रस्थानेन पूर्वो गृहीत्वा पूर्वो हुत्वा पूर्वः सादयेत् १८
+18. If the sacrificer thinks, "My senior enemy has surpassed me, “(the Adhvaryu) having first taken the scoop by means of the Pratiprasthātr̥'s cup, having offered it first should deposit it first.[^1]   
+
+[^1]: Cf. MS IV.6.2; cp. KS XXVII.6.  
 </details>

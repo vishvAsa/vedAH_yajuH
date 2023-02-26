@@ -5,5 +5,9 @@ title = "02 तौ प्रोक्षिताभ्यां शकलाभ
 
 <details><summary>थिते</summary>
 
-तौ प्रोक्षिताभ्यां शकलाभ्यामपिधायाप्रोक्षिताभ्यामधस्तात्पांसूनपध्वंसयतोऽपनुत्तौ शण्डामर्कौ सहामुनेति । अपनुत्तः शण्ड इति वाध्वर्युर्द्वेष्यं मनसा ध्यायन् । अपनुत्तो मर्क इति प्रतिप्रस्थाता २
+2. Having covered these scoops by means of the two splinters on which water has been sprinkled, (the Adhvaryu and the Pratiprasthātr̥ wipe off the dust below them by means of the two splinters on which water has not been sprinkled, with apanuttau śaṇḍāmarkau saha N.N.[^1] or the Adharvyu (does this) with apanuttaḥ śaṇḍaḥ...[^2] while thinking about the enemy, and the Pratiprasthātr̥ (does this) with apanutto markaḥ...[^3]   
+
+[^1]: The name of the enemy is to be used here. For the formula see TS VI.4.10.2.   
+
+[^2-3]: For these formulae cp. ŚB IV.2.1.13.   
 </details>

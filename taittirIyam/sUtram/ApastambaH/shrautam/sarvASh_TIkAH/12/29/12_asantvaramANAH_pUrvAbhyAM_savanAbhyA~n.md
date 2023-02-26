@@ -5,5 +5,7 @@ title = "12 असन्त्वरमाणाः पूर्वाभ्य�
 
 <details><summary>थिते</summary>
 
-असन्त्वरमाणाः पूर्वाभ्यां सवनाभ्यां चरन्ति । संत्वरमाणास्तृतीयसवनेन १२
+12. Without making haste they perform the first two pressings; making haste they perform the third pressing.[^1]  
+
+[^1]: This rule is found only in this text.  
 </details>

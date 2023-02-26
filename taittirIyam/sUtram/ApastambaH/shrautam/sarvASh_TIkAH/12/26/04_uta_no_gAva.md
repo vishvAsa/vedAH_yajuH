@@ -5,5 +5,11 @@ title = "04 उत नो गाव"
 
 <details><summary>थिते</summary>
 
-उत नो गाव उपहूता उपहूतेति होतुरभिज्ञायोन्नीयमानायानुब्रूह्यच्छावाकस्य चमसाध्वर्यो उन्नयस्वोभयतः शुक्रं कुरुष्वेति ४
+4. Having come to know of the Hotr̥ (that he is reciting uta no gāva upahūtā upahūta[^1] (the Adhvaryu orders): “Do you recite the invitatory verse in connection with the goblet being filled.[^2] O Camasādhvaryu of the Acchāvāka, do you fill the goblet), do you make it bright (with Soma-juice) on both sides”.[^3]   
+
+[^1]: Cf. KB XIII.8.  
+
+[^2]: See XII.21.13.  
+
+[^3]: See XII.21.15. For filling, the Acchāvāka recites R̥V VI.42.1-4.  
 </details>

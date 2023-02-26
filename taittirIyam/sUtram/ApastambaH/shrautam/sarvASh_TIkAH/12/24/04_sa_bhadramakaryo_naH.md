@@ -5,5 +5,5 @@ title = "04 स भद्रमकर्यो नः"
 
 <details><summary>थिते</summary>
 
-स भद्रमकर्यो नः सोमं पाययिष्यतीतीतरे प्रत्याहुः ४
+4. The others respond (with the words): “He has done an auspicious things who will cause us drink Soma.”  
 </details>
