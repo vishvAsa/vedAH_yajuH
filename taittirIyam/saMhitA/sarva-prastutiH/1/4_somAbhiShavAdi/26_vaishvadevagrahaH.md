@@ -37,7 +37,7 @@ Homage to the great bull!
 बृ॒हदु॒ख्षे नमः॑ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 वैश्वदेवो गण उच्यते । **सुशर्मा** सुसुखः शोभनग्रहो वा त्वमसि । 'सोर्मनसी' इत्युत्तरपदाद्युदात्तत्वम् । 
 
@@ -49,7 +49,7 @@ Homage to the great bull!
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/16_vaishvadevagrahaH/eShaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2एष ते योनिः इत्यादि व्याख्यातप्रायम् । 'वैश्वदेव्यो वै प्रजा वैश्वदेवः कलशः' इत्यादि ब्राह्मणम्  ॥
 </details>

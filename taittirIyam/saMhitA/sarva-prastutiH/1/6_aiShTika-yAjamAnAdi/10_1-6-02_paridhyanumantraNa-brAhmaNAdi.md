@@ -36,7 +36,7 @@ verily he makes them secure.
 ध्रु॒वाने॒वैना᳚न्कुरुते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 1ध्रुवोसीत्यादीनां याजमानमन्त्राणां ब्राह्मणम् । तत्र परिधीनामनुमन्त्रणमन्त्राः ध्रुवोसीत्यादयः ॥ एनान् सजातानविनष्टान् करोति । तथा हि सति तेष्वयं ध्रुवतरो भवति । एनानप्रतिवादिनः कुरुते सजातान् ।
 </details>
@@ -64,7 +64,7 @@ verily he makes them harmonious.
 अप्र॑तिवादिन ए॒वैना᳚न्कुरुते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 उग्रः उद्गूर्णः यस्याग्रे न कश्रित्प्रतिवदतीति ।  
 </details>
@@ -96,7 +96,7 @@ verily he overthrows him who rises against him.
 
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **प्रत्युत्पिपीते** सजातेषु मध्ये य एनं प्रातिकूल्येन उपजीवति तमुपास्यते उपक्षिपति ।  
 पीङ् पाने, दैवादिकः, व्यत्ययेन शपश्श्लुः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' इत्यस्यतेरात्मनेपदम् ।  
@@ -125,7 +125,7 @@ this is the yoking of the fire; verily [1] with it he yokes it.
 ए॒ष वा अ॒ग्नेर्योग॒स्तेन॑ [33] ए॒वैन॑य्ँयुनक्ति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2युनज्मि त्वेत्यग्नियोगः ॥ एष मन्त्रोग्नेर्योगः । अग्निर्युज्यते बद्ध्यतेऽनेनेति करणे घञ् ॥
 </details>
@@ -150,7 +150,7 @@ with the unsuccessful part they overcame the Asuras.
 य॒ज्ञस्य॒ व्यृ॑द्धे॒नासु॑रा॒न्परा॑भावयन् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 3यज्ञस्येत्यादि ॥ यज्ञस्य यत्स्वमृद्धं हविरादीनामन्यूनत्वम्, अन्यूनं वा हविरादि, तत्स्वर्गप्राप्तिहेतु । यत् पुनर् **व्यृद्धं** स्कन्नादिवैकल्यं तेनासुरान् पराभावयन्देवाः ।
 </details>
@@ -177,7 +177,7 @@ with the unsuccessful part he overcomes the foes.
 य॒ज्ञस्य॒ व्यृ॑द्धेन॒ भ्रातृ॑व्या॒न्परा॑ भावयति
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 'यन्मे अग्रे' इत्यनेनासन्नहविरभिमन्त्रणेन तद्वैकल्यं प्रति पराभवनहेतुः क्रियत इत्यर्थः । 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
@@ -205,7 +205,7 @@ verily at the beginning of the sacrifice he makes the Brahman [2].
 ब्रह्मै॒ता व्याहृ॑तयो यज्ञमु॒ख ए॒व ब्रह्म॑ [34] +कु॒रु॒ते।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4हविरासादिन्यो व्याहृतयः ॥ विविधमाह्रियन्ते अनीयन्त इति व्याहृतयः । लोकत्रयात्मिकाः, विविधफलाहरणहेतुभूता वा । अनन्तरगतेः 'तादौ च' इति प्रकृतिस्वरत्वम् । एताभिरग्निहोत्रहविरुपसादयेत् । यज्ञमुखं वा अग्निहोत्रं, प्राधान्यात् ।
 
@@ -231,7 +231,7 @@ verily with the Brahman he surrounds the year on both sides.
 ब्रह्म॑णै॒वोभ॒यत॑स्सव्ँवथ्स॒रम्परि॑गृह्णाति। 
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पर्यागते पर्यावृत्ते । पूर्व्पदप्रकृतिस्वरत्वम् ।
 
@@ -265,7 +265,7 @@ verily at the beginning of the sacrifice he makes the Brahman.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 5दर्शपूर्णमासावित्यादि ॥ गतं प्रथमप्रयोग इदम् ॥
 </details>
@@ -308,7 +308,7 @@ To the kingly class falls the blessing of the part of the sacrifice which is per
 य॒ज्ञस्या॒ऽऽशीर्ग॑च्छति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 6यद्वा इत्यादि ॥ **यज्ञस्य** या **अशीः साम्ना** क्रियते  
 सा सामस्थाशीः आशंसनीयं फलं **राष्ट्रं गच्छति** यत्रायं वसति तद् राष्ट्रवासिनां तत्-केवलं स्थात् ।
@@ -330,7 +330,7 @@ to the people (falls) the blessing of what (is performed) with the Rc;
 यदृ॒चा विश॑य्ँय॒ज्ञस्या॒ऽऽशीर्ग॑च्छ॒ति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथ यदृचा क्रियते सा यज्ञस्यशीः विशं गच्छति सर्वान्मनुष्यान् । जातावेकवचनम् ।
 </details>
@@ -351,7 +351,7 @@ now the Brahman sacrifices with an offering without a blessing;
 अथ॑ ब्राह्म॒णो॑ऽना॒शीर्के॑ण य॒ज्ञेन॑ यजते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथेदानीमयं **ब्राह्मणो** वराको **ऽनाशीर्केण** +अफलेन **यज्ञेन यजते**, किमेतद् युज्यते ?  
 यद्वा - तिष्ठन्त्व् अन्ये; **ब्राह्मणः** किम् **अनाशीर्केण यजेत**  
@@ -381,7 +381,7 @@ when he is about to recite the kindling-verses he should first insert the Vyahrt
 सामिधे॒नीर॑नुव॒ख्ष्यन्ने॒ता व्याहृ॑तीᳶ पु॒रस्ता᳚द्दध्यात् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 सामिधेनीरित्यादि । समिधामाधानमन्त्रास्सामिधेन्यः 'प्र वो वाजाः' इत्याद्याः । 'समिधामाधाने षेण्यण्', 'हलस्तद्धितस्य' इति यलोपः ।
 </details>
@@ -405,7 +405,7 @@ and thus the Brahman sacrifices with an offering which has a blessing.
 तथा᳚ ब्राह्म॒णस्साशी᳚र्केण य॒ज्ञेन॑ यजते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्रतिपदं प्रारम्भं कुरुते । प्रथमतः पद्यत इति प्रतिपत् । सम्पदादित्वात्क्विप् ॥
 </details>
@@ -436,7 +436,7 @@ verily the blessing of his sacrifice falls to his foe [4].
 भ्रातृ॑व्यमे॒वास्य॑ य॒ज्ञस्य॑ [36] आ॒शीर्ग॑च्छति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 7यं कामयेतेत्यादि ॥ पुरस्तादवदानकालेनूच्यत इति पुरोनुवाक्या । गतमन्यत् ॥
 </details>
@@ -467,7 +467,7 @@ and thus the blessing of the sacrifice falls to them equally.
 यान्का॒मये॑त॒ यज॑मानान्थ्स॒माव॑त्येनान् य॒ज्ञस्या॒ऽऽशीर्ग॑च्छे॒दिति॒ तेषा॑मे॒ता व्याहृ॑तीᳶ पुरोऽनुवा॒क्या॑या अर्ध॒र्च एका᳚न्दध्याद्या॒ज्या॑यै पु॒रस्ता॒देका᳚य्ँया॒ज्या॑या अर्ध॒र्च एका॒न्तथै॑नान्थ्स॒माव॑ती य॒ज्ञस्या॒ऽऽशीर्ग॑च्छति॒
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 8यानित्यादि ॥ **समावती** समा सर्वेषां तुल्या न कदाचिदपि भ्रातृव्यस्य । यद्वा - समा अविषमा सदा यजमानगामिनी । समादावतुप् ।
 
@@ -499,7 +499,7 @@ they surround the water with a mound, the sacrificer surrounds the sacrifice wit
 आ॒शिषा॑ य॒ज्ञय्ँयज॑मान॒ᳶ परि॑गृह्णाति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यथेति । **स्थलया** कूलेन उदकं परिगृह्णन्ति निरुद्धन्ति । एवमाशिषा यज्ञं यजमानः परिगृह्णाति फलप्रदानैकव्यापारयन्त्रितमिव करोति, यथा न कदाचिदपि फलमददानस्तिष्ठति, दत्ते चेदं न याचते यजमानः, याचितेयाचिते ददाति यज्ञ इति ॥
 </details>
@@ -526,7 +526,7 @@ verily he confers upon himself mind and the sacrifice.
 मनो॒ वै प्रा॑जाप॒त्यम्, प्रा॑जाप॒त्यो य॒ज्ञो, मन॑ ए॒व य॒ज्ञमा॒त्मन्ध॑त्ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 9मनोसीति ॥ स्रौवाघाराभिमन्त्रणम् । प्राजापत्याविशेषान्मन इति यज्ञ उच्यते ॥
 </details>
@@ -558,7 +558,7 @@ verily he confers upon himself speech as connected with Indra.
 वा॒चा मे᳚न्द्रि॒येणाऽऽवि॒शेत्या॑है॒न्द्री वै वाग्वाच॑मे॒वैन्द्रीमा॒त्मन्ध॑त्ते ॥ [38]
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 10वागसीति ॥ स्रुच्याघाराभिमन्त्रणम् । गतम् ॥
 

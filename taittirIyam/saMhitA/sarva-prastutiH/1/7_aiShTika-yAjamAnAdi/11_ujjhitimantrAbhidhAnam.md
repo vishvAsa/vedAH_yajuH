@@ -31,7 +31,7 @@ Agni with one syllable won speech;
 अ॒ग्निरेका᳚ख्षरेण॒ वाच॒मुद॑जयत्।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 एकमक्षरं यस्य तेनैकाक्षरेण छन्दसाग्निर्वाचमुदजयत् उज्जितवान्, तद्वदहमप्येकाक्षरेण वाचमुज्जीयासमिति । सर्वत्रैवमुक्तादीन्यष्ट्यन्तानि द्रष्टव्यानि, सप्तदश छन्दांसि स्तूयन्ते । केचिदाहुः - 'आश्रावयेति चतुरक्षरमस्तु श्रौषडिति चतुरक्षरं यजेति द्व्यक्षरं ये यजामह इति पञ्चाक्षरं द्व्यक्षरो वषट्कार एष वै सप्तदशः प्रजापतिः' इत्यस्यैकाक्षरादारभ्योच्यन्ते, इति । तेषां बहुव्रीहिस्वरो नोपपद्यते । 'ता वा एता उज्जितयो व्याख्यायन्ते । यज्ञस्य सर्वत्वाय । देवतानामनिर्भागाय' । इत्यादि ब्राह्मणम् ॥
 </details>
@@ -63,7 +63,7 @@ the Aśvins with two syllables won expiration and inspiration; Visnu with three 
 सोम॒श्चतु॑रख्षरेण॒ चतु॑ष्पदᳶ प॒शूनुद॑जयत्।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2-17अश्विनावित्यादयो निगदसिद्धाः । चतुष्पदः चत्वारः पादा येषाम् । 'सङ्ख्यासुपूर्वस्य' इति पादस्य लोपे 'पादः पत्' इति पद्भावः ।  
 </details>
@@ -84,7 +84,7 @@ Pusan with five syllables won the Pankti;
 पू॒षा पञ्चा᳚ख्षरेण प॒ङ्क्तिमुद॑जयत्  ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पङ्क्तिः पञ्चपदा । सप्तपदा । 'टाबृचि' इति टाप् ।  
 </details>
@@ -111,7 +111,7 @@ Brhaspati with eight syllables won the Gayatri;
 बृह॒स्पति॑र॒ष्टाख्ष॑रेण गाय॒त्रीमुद॑जयन् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 बृहस्पतिर्व्याख्यातः +++(पञ्चमप्रपाठके)+++  ।  
 
@@ -134,7 +134,7 @@ Mitra with nine syllables won the threefold Stoma [1];
 मि॒त्रो नवा᳚ख्षरेण त्रि॒वृत॒ꣵ॒ स्तोम॒मुद॑जयत् [43]।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 त्रिवृतमिति । अवयवेषु अवयविनि च तिस्रो वृत्तयो यस्य इति बहुव्रीहौ त्रिचक्रादित्वादुत्तरपदान्तोदात्तत्वम् । नवस्तोत्रीयस्तोमस्त्रिवृत् ।  
 </details>
@@ -155,7 +155,7 @@ Varuna with ten syllables won the Viraj;
 वरु॑णो॒ दशा᳚ख्षरेण वि॒राज॒मुद॑जयत् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 विराट् दशाक्षरा, अन्नं चोच्यते ।  
 </details>
@@ -204,7 +204,7 @@ the Vasus with thirteen syllables won the thirteenfold Stoma; the Rudras with fo
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 त्रयोदश स्तोमा यथासम्भवं द्रष्टव्याः ।  
 यथा द्वाभ्यां पञ्चकाभ्याम् एकेन च त्रिकेण त्रयोदशेत्यादि ।  

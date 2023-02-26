@@ -40,7 +40,7 @@ verily he wins all the domesticated animals.
 अम्भ॑स्स्थ,  अम्भो॑ वो भख्षी॒येत्या॒ह ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 गृहाणां पशूनां चोपस्थानमन्त्रः । ग्राम्याः पशवो गोश्वाजाविपुरुषगर्दभोष्ट्रास्सप्त ॥
 </details>
@@ -63,7 +63,7 @@ verily he wins all the domesticated animals.
 अम्भो॒ ह्ये॑ताः।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2अम्भो ह्येता इति ॥ अदनीयं क्षीराद्यन्नम् अम्भः । 'अदेर्नुम्भश्च' इत्यसुन् । तत्-साधनत्वात् ताच्छब्द्यं गवाम् । एवं सर्वत्र द्रष्टव्यम्॥
 </details>
@@ -84,7 +84,7 @@ verily he wins all the domesticated animals.
 मह॑स्स्थ॒, महो॑ वो भख्षी॒येत्या॑ह॒ महो॒ ह्ये॑ताः ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 3महः पूजा ब्रह्म वा, यागादिद्वारेण तत्साधनत्वात् ॥
 </details>
@@ -105,7 +105,7 @@ verily he wins all the domesticated animals.
 सह॑स्स्थ॒, सहो॑ वो भख्षी॒येत्या॑ह॒ सहो॒ ह्ये॑ताः ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4सहो बलं, घृतादीनां बलहेतुत्वात् ॥
 </details>
@@ -126,7 +126,7 @@ verily he wins all the domesticated animals.
 ऊर्ज॑ स्थ, ऊर्ज॑व्ँवो भख्षी॒येति॑ [31] +आ॒होर्जो॒ ह्ये॑ताः ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 5ऊर्जः क्षीरादिरसः ॥
 </details>
@@ -159,7 +159,7 @@ verily he makes cattle stay with himself.
 प॒शवो॒ वै रे॒वतीः᳚ प॒शूने॒वात्मन् र॑मयते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 6पशवो वै रेवतीः रैवत्यः, क्षीरादिसाधनेन तद्वत्त्वात् । 'रयेर्मतौ बहुलम्' इति सम्प्रसारणम्, 'वाच्छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । रेवतीशब्दः पशूनां संज्ञात्वेनाजहत्स्वलिङ्ग एव पशुषु वर्तते ॥
 </details>
@@ -182,7 +182,7 @@ verily he makes cattle stay with himself.
 ध्रु॒वा ए॒वैना॒ अन॑पगाᳵ कुरुते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 7ध्रुवा नित्याः अनपगाः अनपाक्ताः ॥
 </details>
@@ -220,7 +220,7 @@ verily he piles it up and makes it piled with cattle.
 प॒शु॒चित॑मेनङ्कुरुते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 8इष्टकचिदित्यादि ॥ इष्टकाभिश् चीयत एको **ऽग्निः** । 'इष्टकेषीकामालानाम्' इति ह्रस्वत्वम् । 
 
@@ -252,7 +252,7 @@ He falls away [2] from this world who pays reverence to the Ahavaniya;
 य आ॑हव॒नीय॑मुप॒तिष्ठ॑ते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 9प्र वा एष इत्यादि ॥ 'सुवर्गो लोक आहवनयिः' इत्यन्यत्र दर्शनात् ।
 </details>
@@ -278,7 +278,7 @@ verily he rests on this world, and also he makes amends to the Garhapatya.
 अथो॒ गार्ह॑पत्यायै॒व नि ह्नु॑ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 गार्हपत्यमिति । 'गृहपतिना संयुक्ते ञ्यः' । अथो अपि च उपस्थानेन गार्हपत्याय निह्नुते प्रह्वीभवति । यद्वा - आहवनीयं छादयति । त्वमेवोपस्थेय इति ॥
 </details>
@@ -309,7 +309,7 @@ the Gayatri is brilliance; verily he confers brilliance upon himself;
 तेजो॒ वै गा॑य॒त्री - तेज॑ ए॒वात्मन् ध॑त्ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 10गायत्रीभिरिति ॥ 'उप त्वाग्ने दिवेदिवे' इत्येताभिस्तिसृभिः ।
 तेजो वा इति । पूर्ववत्ताच्छब्द्यम् ।
@@ -331,7 +331,7 @@ moreover in that he repeats the triad (of verses), (it serves) for continuity.
 अथो॒ यदे॒तन्तृ॒चम॒न्वाह॒ सन्त॑त्यै।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथो अपि च एतस्य तृचस्यानुवचनं सन्तत्यै भवति । 'पितेव सूनवे' इति च मन्त्रपदम् । 'तादो च' इति गतेः प्रकृतिस्वरत्वम् । तिस्र ऋचस्समाहृताः । 'ऋक्पूरब्धूः' इति समासान्तः, 'ऋचि त्रेरुत्तरपदादिलोपश्च' इति सम्प्रसारणम् ॥
 </details>
@@ -362,7 +362,7 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 आऽस्य॑ वी॒रो जा॑यते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 11गार्हपत्यं वा इत्यादि ॥ लक्षणेऽनोः कर्मप्रवचनीयत्वम् । द्विपाद इति । 'सङ्ख्या सुपूर्वस्य' इति लोपस्समासान्तः ।
 
@@ -396,7 +396,7 @@ verily he invokes this blessing.
 आ॒शिष॑मे॒वैतामा शा᳚स्ते  ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 12ऊर्जा व इत्यादि ॥ अयमपि ग्रहपशूपस्थानमन्त्रः । पुष्यासं श्रयन्तामित्येतामाशिषमाशास्ते ॥
 </details>
@@ -419,7 +419,7 @@ verily he invokes this blessing.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 13तत्सवितुरिति आहवनीयोपस्थानम् ॥ प्रसूत्यै अनुज्ञानाय भवति । पूर्ववद्गतिस्वरः ॥
 </details>
@@ -450,7 +450,7 @@ verily he wins the Soma draught.
 सोमपी॒थमे॒वाव॑ रुन्धे ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 14सोमानम् इत्याहवनीयोपस्थानम् एव ॥  
 **सोमपीथम् एव** सोम-पानम् एव अनेनावरुन्धे । पिबतेरौणादिकस्थक्प्रत्ययः ॥
@@ -475,7 +475,7 @@ verily he wins splendour.
 ब्र॒ह्म॒व॒र्च॒समे॒वाव॑ रुन्धे।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 15ब्रह्मवर्चसमिति ॥ 'ब्रह्महस्तिभ्यां वर्चसः' इत्यत् ॥
 </details>
@@ -508,7 +508,7 @@ who knowing thus pays reverence to the fire.
 न स्त॒रीꣳ रात्रि॑व्ँवसति॒ य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 16कदा चनेति रात्र्युपस्थानम् ॥
 
@@ -541,7 +541,7 @@ verily he sets around a barrier, that nothing be spilt.
 परि॒धिमे॒वैतम्परि॑ दधा॒त्यस्क॑न्दा॒य ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 17परि त्वेति गार्हपत्योपस्थानम् ॥ इममेव मन्त्रं परिध्यात्यकं परितस्सर्वतो दधाति । तच्चास्कन्दायाग्नेर्भवति ॥
 </details>
@@ -562,7 +562,7 @@ verily he sets around a barrier, that nothing be spilt.
 अग्ने॑ गृहपत॒ इत्या॑ह यथा य॒जुरे॒वैतत् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 18अग्ने गृहपत इति गार्हपत्योपस्थानमेव ॥ अत्र सूगृहपतित्वादिफलं यथा यजुर्वदति तथा भवत्येव ॥
 </details>
@@ -592,7 +592,7 @@ verily he sets around a barrier, that nothing be spilt.
 श॒तन्त्वा॑ हेम॒न्तान् इ॑न्धिषी॒येति॒ वावैतदा॑ह ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 19शतं त्वेति ॥ हिमशब्देन संवत्सराभिधानमुक्तम् । इन्धिषीयेति । इदमेव सुगृहपतित्वमिति ॥
 </details>
@@ -623,7 +623,7 @@ verily he makes him an eater of food.
 अ॒न्ना॒दम् ए॒वैन॑ङ् करोति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 20पुत्रस्येति ॥ अमुष्मा इत्यत्र यथा नारायणाय केशवायेति ।  
 अन्नादमिति । इदमेव ज्योतिष्मत्त्वम् ॥
@@ -648,7 +648,7 @@ who has no son born; verily is born to him a son brilliant and resplendent.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 21यस्य पुत्र इति ॥ यस्याजातः पुत्रः तस्य तन्तव इति ब्रूयात् असन्निहितत्वात् ।
 </details>
@@ -676,7 +676,7 @@ who has no son born; verily is born to him a son brilliant and resplendent.
 अ॒मुष्मै॒ ज्योति॑ष्मती॒मिति॑ ब्रूया॒द् यस्य॑ पु॒त्त्रो जा॒तस्स्यात् - तेज॑  ए॒वास्मि॑न्ब्रह्मवर्च॒सन्द॑धाति ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अमुष्मा इति जातं निर्देष्टुं शक्यत इति तन्तव इत्युच्यते । अमुष्मा इति जातपुत्रस्य, अदश्-शब्दस्य सन्निहितविषयत्वात् ॥
 

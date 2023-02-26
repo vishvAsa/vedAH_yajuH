@@ -34,7 +34,7 @@ verily he creates offspring.
 तेनै॒व प्र॒जास्सृ॑जते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 1अथानूयाजानाम् अनुमन्त्रण-मन्त्राः - बर्हिषोहमित्याद्याः ।  
 गताः ।  
@@ -61,7 +61,7 @@ by Naraśansa Prajapati created cattle; verily he creates cattle.
 तेनै॒व प॒शून्थ् सृ॑जते ।   
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 नरैश्शंसनीयो नराशंसः । द्वितीयानूयाजदेवता । छान्दसं पूर्वपदस्य दीर्घत्वम् उत्तरपदाद्युदात्तत्वं च ॥
 </details>
@@ -106,7 +106,7 @@ With the victory of the new and full moon sacrifices [1] the gods conquered, and
 द॒र्श॒पू॒र्ण॒मा॒साभ्या॒मसु॑रा॒नपा॑नुदन्त ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2दर्शपूर्णमासयोर्वा इत्यादि ॥ दर्शपूर्णमासयोर्या उज्जितिः उच्छ्रिता जितिः दर्शपूर्णमासनिमित्ता वा । तामनु देवाः उदजयन् । लक्षणेनोः कर्मप्रवचनीयत्वं, 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ।  
 </details>
@@ -131,7 +131,7 @@ With the victory of the new and full moon sacrifices [1] the gods conquered, and
 द॒र्श॒पू॒र्ण॒मासाभ्या॒म्भ्रातृ॑व्या॒नप॑ नुदते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 दर्शपूर्णमासयोरेवेति । दर्शपूर्णमासयोर्या देवता अग्न्यादयः तासामुज्जितिमनु यजमान उज्जयति । सूक्तवाके 'अग्नेरहम्' इत्युज्जितीनां वचनात् । अग्नेरहमिति चोपलक्षणं 'सोमस्याहम्' इत्यदीनां सर्वासामुज्जितीनाम् ॥
 </details>
@@ -156,7 +156,7 @@ strength is food, verily he wins food;
 अन्न॒व्ँवै वाजोऽन्न॑मे॒वाव॑रुन्धे ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 8वाजवतीभ्यामित्यादि ॥ 'वाजस्य मा प्रसवेन' इत्यादिभ्यां स्रुचौ व्यूहाति विश्लेष्यति ।  
 </details>
@@ -176,7 +176,7 @@ strength is food, verily he wins food;
 द्वाभ्या॒म्प्रति॑ष्ठित्यै ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अध्वर्युणा क्रियमाणमनुमन्त्रयते - द्वाभ्यां व्यूहनं प्रतिष्ठित्यै भवति । द्वाभ्यां हि पुरुषः प्रतिष्ठति । पूर्ववद्गतेः प्रकृतिस्वरत्वम् ॥
 </details>
@@ -199,7 +199,7 @@ He who sacrifices knowing the two milkings of the sacrifice milks thus the sacri
 उभ॒यतः॑ [16] ए॒व य॒ज्ञन्दु॑हे पु॒रस्ता᳚च्चो॒परि॑ष्टाच्च ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4यो वै यज्ञस्येत्यादि ॥ उभयतः यज्ञं दुग्धे पुरस्तादुपरिष्टाच्च । पूर्ववत्तलोपः ।  
 </details>
@@ -220,7 +220,7 @@ this is one milking of the sacrifice, another is in the Ida.
 ए॒ष वा अ॒न्यो य॒ज्ञस्य॒ दोह॒ इडा॑याम॒न्यः +++(दोहः)+++  ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 एष वा इत्यादि । एष वक्ष्यमाणो यज्ञस्यैको दोहः, इडायामेको दोहः । तत्रेडायां स प्रथमेनुवाके उक्तः 'सा मे सत्याशीः' इति ॥
 </details>
@@ -243,7 +243,7 @@ When the Hotr utters the name of the sacrificer, then he should say,
 एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इति॑।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 5अत्र द्वितीयं दोहं विदधाति - यर्हि होतेत्यादि ॥ 'आ शास्ते यं यजमानोसौ' इत्यदश्शब्दस्य स्थाने यदा यजमानस्य नाम गृह्णाति तदा ब्रूयाद्यजमानः - एमा अग्मन् इत्यादि ।
 </details>
@@ -263,7 +263,7 @@ verily he milks the deities which he praises together;
 सꣵस्तु॑ता ए॒व दे॒वता॑ दु॒हे ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 संस्तुताः 'अग्निमावह' अग्निरिदं हविरजुषत' इत्यादिषु बहुशस्सङ्कीर्तिताः ।  दर्शपूर्णमासदेवतास्सर्वा एव दुग्धे ।  
 </details>
@@ -284,7 +284,7 @@ verily he milks the sacrifice on both sides, in front and behind.
 अथो॑ उभ॒यत॑ ए॒व य॒ज्ञन्दु॑हे पु॒रस्ता᳚च्चो॒परि॑ष्टाच्च ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथो अपि च उभयतः पुरस्तादुपरिष्टाच्च यज्ञं दुग्धे ॥
 </details>
@@ -311,7 +311,7 @@ the straw is the sacrificer;
 यज॑मानᳶ प्रस्त॒रः।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 6"रोहितेन त्वे"ति प्रस्तरस्य प्रह्रियमाणस्यानुमन्त्रणम् ॥  
 तत्रैते रोहितादयः देवानाम् अग्न्यादीनाम् अश्वाः ।  
@@ -336,7 +336,7 @@ he makes the sacrificer to go by the steeds of the gods to the world of heaven.
 यदे॒तैᳶ प्र॑स्त॒रम्प्र॒हर॑ति देवा॒श्वैरे॒व यज॑मानꣳ सुव॒र्गल्ँलो॒कङ्ग॑मयति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यदेतैरित्यादि । एतैरनुमन्त्र्यमाणं प्रस्तरं प्रहरन्नग्निः देवाश्वैर्यजमानं स्वर्गं प्रापयति ॥
 </details>
@@ -359,7 +359,7 @@ that is the unyoking of Agni; verily thereby he unyokes him.
 ए॒ष वा अ॒ग्नेर्वि॑मो॒कस्तेनै॒वैन॒व्ँवि मु॑ञ्चति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 7वि ते मुञ्चामीति परिधीनां विमुच्यमानानाम् अनुमन्त्रणम् ॥ एष मन्त्रोग्निविमोको नाम ॥
 </details>
@@ -382,7 +382,7 @@ that is the unyoking of Agni; verily thereby he unyokes him.
 य॒ज्ञो वै विष्णु॑र्य॒ज्ञ ए॒वान्त॒तᳶ प्रति॑ तिष्ठति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 8शंयुवाकस्य उक्तस्यानुमन्त्रणं विष्णोरिति ॥
 </details>
@@ -407,7 +407,7 @@ verily he confers seed upon himself.
 सोमो॒ वै रे॑तो॒धास्तेनै॒व रेत॑ आ॒त्मन्ध॑त्ते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 9सोमस्याहमित्यादयः पत्नीसंयाजानुमन्त्रणमन्त्राः ॥
 </details>
@@ -460,7 +460,7 @@ and thereby he confers upon himself the form of cattle.
 तस्मा॑दे॒व यज॑मानो मिथु॒नेन॒ प्र जा॑यते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 मिथुनेन प्रजायत इति । मिथुनेन प्रजावान् भवेत् । तस्मात्पूर्वोक्ताद्यज्ञस्य मिथुनाद्यजमानो मिथुनेन प्रजावान् भवति ॥
 </details>
@@ -489,7 +489,7 @@ and that is why the bundle has its name.
 तद्वे॒दस्य॑ वेद॒त्वम् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 10वेदोसीति वेदेऽन्तर्वेदि विधीयमाने यजमानं वाचयति ॥ वित्तं लब्धं वेद्यं लब्धुं योग्यं च धनं वेदादलभन्त देवाः । 'विदेर्वीत्तश्च विन्नश्च' इति पाक्षिको नत्वाभावः, विद्यते लभ्यतेनेनेति करणे घञ् । उञ्छादित्वादन्तोदात्तत्वम् ।  
 </details>
@@ -514,7 +514,7 @@ Whatever of his foe's he may covet, the name of that he should utter; verily he 
 तदे॒वास्य॒ सर्व॑व्ँवृङ्क्ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यद्यद्भ्रातृव्यस्य सम्बन्धि गृहक्षेत्रादि तद् अभिध्यायेत् "इदं ममास्त्व्" इति मनसा काङ्क्षेत्, "मेदम् अस्य भूयाद्" इति वा ।  
 </details>
@@ -539,7 +539,7 @@ he obtains a thousand cattle.
 प्र स॒हस्र॑म्प॒शूना᳚प्नोति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यं द्विष्यात् तस्य नामधेयं विदेयेत्यतः पुरा गृह्णीयात् ।   
 तत्सर्वमस्य वृङ्क्ते स्वयमेव गृह्नाति । वृजी वर्जने, रौधादिकः । यद्वा - तत्सर्वं तस्य वर्जयति नाशयति ।  
@@ -561,7 +561,7 @@ In his offspring a strong one is born who knows thus.
 आऽस्य॑ प्र॒जाया᳚व्ँवा॒जी जा॑यते॒ य ए॒वव्ँवेद॑ ॥ [20]
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 वेदितुः प्रजासु वाजी जायते अन्नवानेव सर्वं आजीजायते, सर्वत्र वा जायते ॥
 

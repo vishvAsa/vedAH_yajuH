@@ -10,7 +10,7 @@ title = "०९ अग्निहोत्रब्राह्मणम्"
 
 ## हविषो ऽनाशः
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 1अथाग्निहोत्र-ब्राह्मणम् अग्न्यार्षेयम् । 
 </details>
@@ -38,7 +38,7 @@ He offers the Agnihotra; whatever there is of the Sacrificer's own, that is (sti
 अ॒ग्नि॒हो॒त्रञ्जु॑होति॒ यदे॒व किञ्च॒ यज॑मानस्य॒ स्वन्तस्यै॒व तत् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तत्र 'अग्निहोत्रं जुहोति' इति विधिः ।  
 
@@ -74,7 +74,7 @@ In the generative organ he pours seed,
 रेत॑स्सिञ्चति प्र॒जन॑ने ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ननु दग्धमविनष्टं तिष्ठतीत्यसमीचीनम् । तत्राह - रेत इत्यादि । सदृशप्रधानो निर्देशः । यथा प्रजनने योनौ रेतास्सिक्तमविनष्टं तिष्ठति तत्सदृशमिदमिति जानीयादित्यर्थः । प्रजायन्ते प्रजा अस्मिन्निति प्रजननम् । 'करणाधिकरणयोश्च' इत्यधिकर्णे ल्युट् ।
 </details>
@@ -95,7 +95,7 @@ for Agni is the generative organ.
 प्र॒जन॑न॒ꣳ॒ हि वा अ॒ग्निः ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथाग्नेः प्रजननत्वं समर्थयते - प्रजननं हीति । ताद्धर्म्यात्ताच्छब्द्यम् । प्रजननसदृशोयमग्निरिति । नन्वग्निर्नाम सर्वं दहति, तत्कीदृशमस्य प्रजननसामर्थ्यमिति पर्यनुयोगावसरे प्रजननसामर्थ्यं दर्शयितुमाह - अथौषधीरन्तगता दहतीति ।
 </details>
@@ -119,7 +119,7 @@ they then grow more numerous.
 तास्ततो॒ भूय॑सी॒ᳶ प्रजा॑यन्ते।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथेति प्रस्तावे । अन्तं समीपं गता अन्तगताः । 'द्वितीयाश्रित' इति समासः, द्वितीयापूर्वपदप्रकृतिस्वरत्वम् । अयमग्निरेव समीपे निपतिता ओषधीर्दहति, ता यदृच्छानिपतिताः अमन्त्रहुता अपि ततः पूर्वं दग्ध स्वरूपेभ्यो भूयसीः भूयस्यः बहुतराः प्रजायन्ते । यदैवमिदं पश्यामः, तदा किं पुनर्मन्त्रहुता इति । 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वत् । तस्मादुपपन्नमग्नेः प्रजननत्वम् । अतस्तत्र हु[हुतं] तस्यैव स्वं भूयिष्ठं च प्रथते इति । उक्तञ्च - ' यावदेका देवता' इत्यादि । तस्मादग्निहोत्रं जुहोतीति ॥
 </details>
@@ -144,7 +144,7 @@ and makes it productive by the morning (offering).
 प्रैव प्रा॑त॒स्तने॑न जनयति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2अथ सायम्प्रातश्च होमं विधातुमाह - यत्सायमित्यादि ॥ गतम् ॥
 </details>
@@ -181,7 +181,7 @@ as many modifications of seed when poured [1] as Tvastr makes, in so many shapes
 ताव॒च्छो वै तत्प्रजा॑यते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 3अग्नेरुपस्थानं विधातुमाह - तद्रेत इत्यादि ॥ तदुक्तम् - 'रेतस्सिञ्चति प्रजनने' इति । तद्रेतस्सिक्तमपि यदि त्वष्टा न विक्रियते नैव प्रजायते, त्वष्टा वै रूपाणि विकरोतीति । तद्विकुर्वंस्त्वष्टा यावन्ति रूपाणि विकरोति तावद्रूपं तत्प्रजायते । 'सङ्ख्यैकवचनाच्च' इति शत् ।
 </details>
@@ -202,7 +202,7 @@ the sacrificer is the divine Tvastr.
 ए॒ष वै दैव्य॒स्त्वष्टा॒ यो यज॑ते।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 एष वा इत्यादि । देवेषु भवो दैव्यः सामन्त इत्यर्थः । 'देवाद्यञञौ' । 
 </details>
@@ -224,7 +224,7 @@ He pays reverence with many (verses);
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 बह्वीभिरुपतिष्ठत इति विधिः । उत्तराहुत्यनन्तरं 'उपप्रयन्तः' इत्येतत्प्रभृतिभिः ऋग्भिः बह्वीभिरुपतिष्ठते । 'नित्यं छन्दसि' इति ङीप् । 'उपान्मन्त्रकरणे' इत्यात्मनेपदम् ।
 </details>
@@ -248,7 +248,7 @@ He is fruitful
 स प्रैव जा॑यते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 रेतस एवेत्यादि । बहुशः बहूनि । 'बह्वल्पार्थात्' इति शस् ।
 </details>
@@ -270,7 +270,7 @@ who knowing thus pays reverence to the fire.
 श्वश्श्वो॒ भूया᳚न्भवति॒ य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॒ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 भूयानिति । अद्यतनापेक्षया श्वस्तनः प्रकृष्यते ।
 </details>
@@ -297,7 +297,7 @@ The day was the gods', the night the Asuras'. The Asuras entered night with all 
 ते॒ दे॒वा ही॒ना अ॑मन्यन्त ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पुनर् अप्य् उपस्थान-गुणान् विधातुमाह - अहरित्यादि । वित्तं लब्धं वेद्यं लब्धुं योग्यं धनं पशुलक्षणं यदासीत्तत्सर्वमादाय तेन सह रात्रिं प्राविशन्, तत्र देवां अपहृतपशवो हीनास्स्मः इत्यमन्यन्त ।
 </details>
@@ -328,7 +328,7 @@ they perceived, 'The night is Agni's, cattle are Agni's; verily let us praise Ag
 स ए᳚भ्यस्स्तु॒तो रात्रि॑या॒ अध्यह॑र॒भि प॒शून्निरा᳚र्जत् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ते पश्यन्नित्यादि । अधिरनर्थकः । अहरभि अहर्लक्षीकृत्य रात्र्या पशून्निरार्जत् निरगमयत् । ऋजु गत्यादिषु, भौवादिकः । 'अभिरभागे' इत्यभेर्लक्षणे कर्मप्रवचनीयत्वम् ।
 </details>
@@ -351,7 +351,7 @@ the gods having gained their cattle per formed their desires. He who knowing thu
 य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते पशु॒मान्भ॑वति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ते देवा इत्यादि । गतम् ।
 </details>
@@ -400,7 +400,7 @@ He who [4] knowing thus pays reverence to the fire, goes to the world of heaven 
 सुव॒र्गम् ए॒व लो॒कम् ए॑ति॒, सर्व॒म् आयु॑र् एति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 आदित्यो वा इत्यादि । अस्मान्मनुष्यलोकादमुं लोकमैत् अगच्छत् । गतमन्यत् ।
 </details>
@@ -427,7 +427,7 @@ he acts according to the desires of one who has attained a higher place.
 यथा॒ खलु॒ वै श्रेया॑न् अ॒भ्यारू॑ढᳵ का॒मय॑ते॒ - तथा॑ करोति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अभि वा इत्यादि । अभ्यारोहणमभिमुखेन रोहणमुच्छ्रिताधिष्ठानम् ।
 </details>
@@ -450,7 +450,7 @@ He pays reverence at night, not in the morning,
 नक्त॒मुप॑ तिष्ठते॒ न प्रा॒तः ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यथा खलु श्रेयान् श्रेयसाभिमुखमारूढो भवितुं कामयते एवमयमुपस्थाता करोति । तथापि नक्तमुपतिष्ठते प्रयोजनान्तरार्थमिति भावः । नैव प्रातरुपस्थानं कर्तव्यं तादृशस्य प्रयोजनस्याभावात् ।
 </details>
@@ -477,7 +477,7 @@ for vows are mingled at night, the bad and the good are on the same level, the f
 यन् नक्त॑मुप॒तिष्ठ॑ते - ज्योति॑षै॒व तम॑स्तरति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 किम्पुनस्तत्प्रयोजनमित्याह - सं हीत्यादि । हिशब्दो यस्मादित्यर्थे वर्तते । यस्मान्नक्तं व्रतानि कर्माणि शुभाशुभलक्षणानि संसृज्यन्ते अविभक्तानि भवन्ति, श्रेयसां पापीयसां च विशेषप्रतिपत्तिर्नास्ति तस्मादेतद्दोषपरिहारार्थमुपस्थातव्यं; उपस्थानेन तमस्स्वरूपां रात्रिं ज्योतिषा सन्तरति । अथ पूर्वपक्षावतारं संशयपूर्वं प्रस्तौति ।
 </details>
@@ -499,7 +499,7 @@ for vows are mingled at night, the bad and the good are on the same level, the f
 उप॒स्थेयो॒ऽग्नी ३ र्नोप॒स्थेया ३ इत्या॑हुः ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 उपस्थेय इति । 'विचार्यमाणानाम्' इत्युभयत्रोदात्तप्लुतः । उपस्थेया इत्यत्र पूर्वं परत्वात् प्लुतोदात्तत्वं, ततस्तस्यासिद्धत्वात्कृदुत्तरपदप्रकृतिस्वरत्वम्, 'यतोऽनावः' इत्याद्युदात्तत्वम्, तेन द्वयोरुदात्तयोश्श्रवणं भवति ।
 </details>
@@ -523,7 +523,7 @@ he who day by day makes a present to a man and then begs of him assuredly molest
 स इन्न्वै तमुपा᳚र्च्छति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 मनुष्यायेत्यादि । इदित्यवधारणे, नु इति वितर्के, वै इति प्रसिद्धौ । मनुष्यायाहरहः फलादिकमाहृत्यैवाथैनं यो याचति सोपि **तम् उपार्च्छति** उपरुध्य पीडयत्येव । एवं खल्वेतत् । 'उपसर्गादृति धातौ' इति वृद्धिः । 'तुनुपूर्व उदात्तयोर्वकारः' इति वचनात् ।
 </details>
@@ -546,7 +546,7 @@ and who then will day by day beg of the gods? …
 तस्मा॒न्नोप॒स्थेयः॑ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यदा मनुष्यविषयेप्येवं भवति अथेदानीं को देवान् महानुभावान् अहरहर्याचिष्यति तस्मात्कदाचिदप्यग्निर्नोपस्थेय इति ।
 </details>
@@ -574,7 +574,7 @@ Then they say, 'The sacrificer sacrifices for the sake of the benediction.' The 
 तस्मा॑दुप॒स्थेयः॑ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथ समाधत्ते - अथो खल्वाहुरिति । 
 
@@ -605,7 +605,7 @@ Prajapati created cattle; being created they entered day and night; he recovered
 यच्छन्दो॑भिरुप॒तिष्ठ॑ते॒ स्वमे॒व तदन्वि॑च्छति ।   
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजापतिः पशूनित्यादि । पश्ववगमनमेव यजमानोन्विच्छति ।    
 </details>
@@ -627,7 +627,7 @@ Prajapati created cattle; being created they entered day and night; he recovered
 न तत्र॑  जा॒म्य॑स्तीत्या॑हु॒र्योऽह॑रहरुप॒तिष्ठ॑त॒ इति॑ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 जामि आलस्यम् । गतमन्यत् ।
 </details>
@@ -651,7 +651,7 @@ If a man pays reverence to the fire facing it, it burns him;
 यो वा  अ॒ग्निम्प्र॒त्यङ्ङु॑प॒तिष्ठ॑ते॒ प्रत्ये॑नमोषति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यो वा इत्यादि । प्रत्यङ्प्रातिमुखेयेन । ओषति दहति ।
 </details>
@@ -672,7 +672,7 @@ if with averted (face), he is deprived of offspring and cattle;
 यᳶ पराङ्॑   +++(उपतिष्ठते)+++  विष्व॑ङ्  प्र॒जया॑ प॒शुभि॑र् +++(हीन)+++ एति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यः पराङ्मुख उपतिष्ठते इत्येव । विष्वङ् नानागमनः प्रजया पशुभिश्च विष्वङेति विगच्छति नष्टो भवति ।
 </details>
@@ -701,7 +701,7 @@ he should pay reverence with (face) somewhat to the side, then (the fire) does n
 न विष्व॑ङ्प्र॒जया॑ प॒शुभि॑रेति ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात्कवातिर्यङ् ईषत्तिरश्चीन इव भूत्वा उपतिष्ठेति । छान्दसः कुशब्दस्य कवादेशः ॥
 

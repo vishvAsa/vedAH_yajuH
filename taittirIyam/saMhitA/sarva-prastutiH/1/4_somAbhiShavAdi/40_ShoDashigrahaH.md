@@ -22,7 +22,7 @@ _______
 
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादने समाने ॥
 </details>
