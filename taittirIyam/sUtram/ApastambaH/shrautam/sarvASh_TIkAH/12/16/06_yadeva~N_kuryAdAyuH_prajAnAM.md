@@ -5,5 +5,7 @@ title = "06 यदेवङ् कुर्यादायुः प्रजा
 
 <details><summary>थिते</summary>
 
-यदेवं कुर्यादायुः प्रजानां विचालयेत् । तृणमेतेन मन्त्रेणोपर्युपर्यतिहरेत् ६
+6. If he were to do this he would disturb the life of his offsprings. (Therefore) he should throw away a blade of grass beyond (the Dhruva-scoop).[^1]  
+
+[^1]: KS XXVIII.1.  
 </details>

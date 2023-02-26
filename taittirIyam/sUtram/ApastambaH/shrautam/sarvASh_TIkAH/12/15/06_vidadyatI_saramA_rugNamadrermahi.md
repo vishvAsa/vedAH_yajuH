@@ -5,5 +5,9 @@ title = "06 विदद्यती सरमा रुग्णमद्रे
 
 <details><summary>थिते</summary>
 
-विदद्यती सरमा रुग्णमद्रेर्महि पाथः पूर्व्यं सध्रियक्कः । अग्रं नयत्सुपद्यक्षराणामच्छा रवं प्रथमा जानती गादिति वाभिचरतः ६
+6. Or[^1] in the case of a sacrificer who is practising black magic he should use the verse vidadyatī saramā...[^2]   
+
+[^1]: Cf. MS IV.6.4; KS XXVII.9.   
+
+[^2]: TB II.5.8.10.  
 </details>

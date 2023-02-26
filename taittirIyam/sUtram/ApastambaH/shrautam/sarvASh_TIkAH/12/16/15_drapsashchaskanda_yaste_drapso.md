@@ -5,5 +5,9 @@ title = "15 द्रप्सश्चस्कन्द यस्ते द्
 
 <details><summary>थिते</summary>
 
-द्रप्सश्चस्कन्द यस्ते द्रप्सो यो द्रप्सो यस्ते द्रप्स इत्येतैः प्रतिमन्त्रं वैप्रुषान्होमाञ्जुहोति १५
+15. He offers the (four) Vaipr̥ṣa(-libations)[^1] respectively with drapsaścaskanda..., yaste drapsaḥ..., yo drapsaḥ..., yaste drapsaḥ...[^2]   
+
+[^1]: Cf. ŚB IV.2.5.1-2.  
+
+[^2]: For the formulae see TS III.1.6.d; III. 1.10.c-e.  
 </details>

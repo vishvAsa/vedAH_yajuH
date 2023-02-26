@@ -5,5 +5,7 @@ title = "09 अत्र धारा विरमति"
 
 <details><summary>थिते</summary>
 
-अत्र धारा विरमति ९
+9. At this stage the stream stops.[^1]  
+
+[^1]: The stream was started at XII.13.1.  
 </details>

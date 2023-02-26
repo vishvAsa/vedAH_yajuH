@@ -5,5 +5,9 @@ title = "03 प्रजापतिर्मनसान्धो ऽच्छ�
 
 <details><summary>थिते</summary>
 
-प्रजापतिर्मनसान्धो ऽच्छेत इति त्रयस्त्रिंशतमाग्नीध्रे यज्ञतनूर्जुहोति । प्रथमेन मन्त्रेण हुत्वा पूर्वम्पूर्वमनुद्रुत्योत्तरेणोत्तरेण जुहोति ३
+3. With prājāpatir manasā'ndho'ccheta...[^1] (the Adhvaryu) offers thirtythree libations (of ghee) (called) Yajñatanu (forms of the sacrifice) on the Āgnīdhrīya (-fire). having offered the first libation with the first formula, having uttered everytime the next formula he offers then with the latter formula (out of the following pairs of the formulae).[^2]   
+
+[^1]: TS IV.4.9.  
+
+[^2]: Cr. KS XXXIV.17; cp. ŚB IV.5.7.1.   
 </details>

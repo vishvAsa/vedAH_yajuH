@@ -5,5 +5,9 @@ title = "15 आ वपायाः कृत्वा"
 
 <details><summary>थिते</summary>
 
-आ वपायाः कृत्वा हुतायां वपायां मार्जयित्वा प्रातःसवनाय सम्प्रसर्पन्ति म् १५
+15. Having performed the ritual upto the omentum, after the omentum has been offered, having cleansed[^1] themselves, together they[^2] move towards (the Sadas) for the morning pressing.   
+
+[^1]: See and cp. XI.19.4-20.3.  
+
+[^2]: The Adhvaryu, Brahman and the sacrificer.  
 </details>

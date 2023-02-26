@@ -5,5 +5,7 @@ title = "08 अथैनौ प्रतिप्रस्थाता हिर
 
 <details><summary>थिते</summary>
 
-अथैनौ प्रतिप्रस्थाता हिरण्येन संस्पर्शयत्यद्भिश्च प्रत्युक्षति ८
+8. Then the Pratiprasthātr̥ touches both of them (the Adhvaryu and the sacrificer) with a piece of gold and sprinkles water upon them.[^1]  
+
+[^1]: cf. KS XXIV.6.  
 </details>

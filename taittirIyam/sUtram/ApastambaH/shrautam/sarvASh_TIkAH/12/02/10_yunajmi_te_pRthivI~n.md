@@ -5,5 +5,7 @@ title = "10 युनज्मि ते पृथिवीञ्"
 
 <details><summary>थिते</summary>
 
-युनज्मि ते पृथिवीं ज्योतिषा सहेति दक्षिणस्य हविर्धानस्याधस्तात्पश्चादक्षं द्रोणकलशं सदशापवित्रम् १०
+10. (He places) the Droṇakalaśa accompanied by a fringe and strainer under the southern Havirdhāna(-cart), to the west of the axle, with yunajmi te pr̥thivīm...[^1]  
+
+[^1]: TS III.1.6.b.a.  
 </details>

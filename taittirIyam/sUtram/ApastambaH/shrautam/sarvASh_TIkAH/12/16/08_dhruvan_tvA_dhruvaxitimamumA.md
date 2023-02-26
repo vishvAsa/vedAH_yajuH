@@ -5,5 +5,7 @@ title = "08 ध्रुवन् त्वा ध्रुवक्षिति
 
 <details><summary>थिते</summary>
 
-ध्रुवं त्वा ध्रुवक्षितिममुमा स्थानाच्च्यावयामीति वा व्यङ्गयेत् ८
+8. Or he should move (the Dhruva) with “I fell you, the N.N., the firm one, of firm station.”[^1]  
+
+[^1]: Cf. MS IV.6.6.  
 </details>

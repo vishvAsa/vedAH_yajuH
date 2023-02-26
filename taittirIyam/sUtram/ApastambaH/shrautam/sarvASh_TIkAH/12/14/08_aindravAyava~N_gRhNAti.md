@@ -5,5 +5,5 @@ title = "08 ऐन्द्रवायवङ् गृह्णाति"
 
 <details><summary>थिते</summary>
 
-ऐन्द्रवायवं गृह्णाति ८
+8. He scoops the Aindravāyava-scoop.  
 </details>

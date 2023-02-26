@@ -5,5 +5,9 @@ title = "05 अंशुङ् गृह्णन्नेकग्रहाय�
 
 <details><summary>थिते</summary>
 
-अंशुं गृह्णन्नेकग्रहायाप्तं राजानमुपरे न्युप्य सकृदभिषुत्य वामदेव्यं मनसा गायमानो ऽनवानं गृह्णाति । वामदेव्यस्य वर्चा कया नश्चित्र आभुवदिति ५
+5. (Before) taking the Aṁśu (-scoop), having poured upon the Upara (lower pressing stone) some quantity of the king (Soma) which would be suffficient for one cup of Soma-juice, having pressed it once,[^1] singing the Vāmadevya (-sāman) mentally he takes the scoop without breathing. Or (he may scoop) with the (basic) verse of the Vāmadevya (sāman) (beginning with) kayā naścitra ābhuvat.[^2]  
+
+[^1]: Cf. TS VI.6.10.1.  
+
+[^2]: TS IV.2.11.i.  
 </details>

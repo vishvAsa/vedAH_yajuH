@@ -5,5 +5,7 @@ title = "10 यो वस्त्रे बाहावुरसि"
 
 <details><summary>थिते</summary>
 
-यो वस्त्रे बाहावुरसि वांशुराश्लिष्टस्तमभिचरतो जुहोतीत्येके देवांशो यस्मै त्वेडे तत्सत्यमपरिप्लुता भङ्ग्येन हतोऽसौ फडिति १०
+10. According to some ritualists for the (sacrificer) practising black magic with devāṁśo yasmai tveḍe he should offer the stalk which clings to (his) garment, arm or chest.[^1]   
+
+[^1]: Cp. IV.1.1.26. The formula is, however, different.  
 </details>

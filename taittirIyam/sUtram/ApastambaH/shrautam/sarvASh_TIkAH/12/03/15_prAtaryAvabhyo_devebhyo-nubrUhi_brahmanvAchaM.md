@@ -5,5 +5,13 @@ title = "15 प्रातर्यावभ्यो देवेभ्यो�
 
 <details><summary>थिते</summary>
 
-प्रातर्यावभ्यो देवेभ्योऽनुब्रूहि ब्रह्मन्वाचं यच्छ प्रतिप्रस्थातः सवनीयान्निर्वप सुब्रह्मण्य सुब्रह्मण्यामाह्वयेति सम्प्रेष्यति १५
+15. He orders “(O Hotr̥), Do you recite verses for the gods going at the time of morning;[^1] O Brahman, restrain the speech;[^2] O Pratiprasthātr̥, take out the material for the Savanīya sacrificial breads;[^3] O Subrahmaṇya, sing the Subrahmaṇya (call)".[^4]   
+
+[^1]: Cp. AB II.15; MS IV.5.3.  
+
+[^2]: Cp. XIV.9.3.  
+
+[^3]: For the details of these see XII.3.18-4.15.  
+
+[^4]: See XI.20.3; LāṭyāŚS I.3.18.  
 </details>

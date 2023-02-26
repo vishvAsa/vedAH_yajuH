@@ -5,5 +5,7 @@ title = "14 पञ्चहोत्रा यजमानः सर्वान
 
 <details><summary>थिते</summary>
 
-पञ्चहोत्रा यजमानः सर्वान्ग्रहानभिमृशति १४
+14. The sacrificer touches all the scoops with the Pañcahotr̥ -formula.[^1]  
+
+[^1]: TA III.3.  
 </details>

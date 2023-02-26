@@ -5,5 +5,9 @@ title = "13 ते अपरेण प्रबाहुगृतुपात्
 
 <details><summary>थिते</summary>
 
-ते अपरेण प्रबाहुगृतुपात्रे आश्वत्थे अश्वशफबुध्ने उभयतोमुखे । दक्षिणमध्वर्योः । उत्तरम् प्रतिप्रस्थातुः १३
+13. to the west of these in a straight line the two R̥tu-cups made fo Aśvattha-wood[^5] with bottoms of the shape of horse's hoof and with spouts on both sides[^6]—that for Adhvaryu towards the south, and that for Pratiprasthātr̥ towards the north;  
+
+[^5]: Cf. ŚB IV.3.3.6.  
+
+[^6]: Cf. TS VI.5.3.1.  
 </details>

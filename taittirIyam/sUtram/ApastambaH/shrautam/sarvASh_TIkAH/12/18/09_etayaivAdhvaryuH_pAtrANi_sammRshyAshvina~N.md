@@ -5,5 +5,5 @@ title = "09 एतयैवाध्वर्युः पात्राणि 
 
 <details><summary>थिते</summary>
 
-एतयैवाध्वर्युः पात्राणि सम्मृश्याश्विनं गृह्णाति ९
+9. With the same (verse) having touched (Soma-) vessels, the Adhvaryu takes the āśvina (-scoop).  
 </details>

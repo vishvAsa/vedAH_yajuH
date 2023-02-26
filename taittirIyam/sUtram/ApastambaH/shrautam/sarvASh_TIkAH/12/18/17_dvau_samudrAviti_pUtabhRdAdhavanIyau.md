@@ -5,5 +5,5 @@ title = "17 द्वौ समुद्राविति पूतभृदा
 
 <details><summary>थिते</summary>
 
-द्वौ समुद्राविति पूतभृदाधवनीयौ १७
+17. With dvau samudrau... (they look) at Pūtabhr̥t and Ādhvanīya;  
 </details>

@@ -5,5 +5,7 @@ title = "11 होतृचमसीयानंशूनुत्तमे प�
 
 <details><summary>थिते</summary>
 
-होतृचमसीयानंशूनुत्तमे पर्यायेऽभिषुणोति ११
+11. At the time of the last round (The Adhvaryu) presses the Soma-stalks from the Hotr̥'s goblet.[^1]   
+
+[^1]: See XII.9.8.  
 </details>

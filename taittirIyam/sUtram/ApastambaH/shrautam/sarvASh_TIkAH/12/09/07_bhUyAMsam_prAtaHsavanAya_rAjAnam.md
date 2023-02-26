@@ -5,5 +5,5 @@ title = "07 भूयांसम् प्रातःसवनाय राज
 
 <details><summary>थिते</summary>
 
-भूयांसं प्रातःसवनाय राजानं प्रकल्पयति । अल्पीयांसं माध्यन्दिनाय ७
+7. He arranges for ample king (Soma) for the morning pressing and less one for the midday (-pressing).   
 </details>

@@ -5,5 +5,7 @@ title = "11 एतदर्थं वा द्वितीयम्"
 
 <details><summary>थिते</summary>
 
-एतदर्थं वा द्वितीयं पवित्रं दशावत्स्यात् ११
+11. Or, for this purpose there should be a second strainer with-fringes.[^1]  
+
+[^1]: See X.26.13.  
 </details>

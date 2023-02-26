@@ -5,5 +5,5 @@ title = "13 तौ न सर्वत्र"
 
 <details><summary>थिते</summary>
 
-तौ न सर्वत्र ग्रहीतव्यौ । वाजपेये राजसूये सत्त्रे सर्ववेदसे वा १३
+13. These two (scoops) should not be taken in all (the Soma-sacrifices). (They should be taken only) in the Vājapeya, Rājasūya or in the Sarvavedasa sacrificial session.  
 </details>
