@@ -5,5 +5,7 @@ title = "05 अथ प्रतिप्रस्थातोपांशुप�
 
 <details><summary>थिते</summary>
 
-अथ प्रतिप्रस्थातोपांशुपात्रं धारयन्नपात्तानामुपरि द्वावंशू अन्तर्दधाति ५
+5. Then while holding the Aṁśu(cup) (in his hand) the Pratiprasthātr̥ places two stalks over the cup from those (six) which have been taken (previously).[^1]  
+
+[^1]: See XII.9.10. For the ritual cf. MS IV.5.5; cp. TS VI.4.5.3.  
 </details>

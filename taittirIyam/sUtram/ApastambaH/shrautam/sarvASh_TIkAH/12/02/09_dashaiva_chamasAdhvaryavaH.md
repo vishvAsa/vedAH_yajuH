@@ -5,5 +5,5 @@ title = "09 दशैव चमसाध्वर्यवः"
 
 <details><summary>थिते</summary>
 
-दशैव चमसाध्वर्यवः ९
+9. There are only ten Camasādhvaryus.  
 </details>

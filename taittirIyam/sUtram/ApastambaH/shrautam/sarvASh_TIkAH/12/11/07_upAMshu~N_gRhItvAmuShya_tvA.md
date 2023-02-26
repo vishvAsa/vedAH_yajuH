@@ -5,5 +5,13 @@ title = "07 उपांशुङ् गृहीत्वामुष्य त
 
 <details><summary>थिते</summary>
 
-उपांशुं गृहीत्वामुष्य त्वा प्राणे सादयामीति सादयित्वा देवस्य त्वा सवितुः प्रसव इत्यादायामुष्य त्वा प्राणमपिदधामीति हस्तेनापिधायामुं जह्यथ त्वा होष्यामीति ब्रूयात् ७
+7. Having taken the Upāṁśu (-scoop), with amuṣya tvā prāṇe sādayāmi[^1] having deposited (the cup containing the scoop on the mound), with devasya tvā savituḥ prasave... having taken it[^2], having covered (the cup) by means of his hand with amuṣya tvā prāṇamapidadhāmi,[^3] he should say: amuṁ jahyatha tvā hoṣyāmi.[^4]   
+
+[^1]: TS VI.4.5.6.  
+
+[^2]: Cf. KS XXVIII.1.  
+
+[^3]: Cf. MS IV.5.5.  
+
+[^4]: TS VI.4.5.6.  
 </details>

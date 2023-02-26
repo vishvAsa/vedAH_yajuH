@@ -5,5 +5,13 @@ title = "10 यदि सोमग्रहङ् गृह्णीयादे
 
 <details><summary>थिते</summary>
 
-यदि सोमग्रहं गृह्णीयादेकग्रहायाप्तं राजानमुपरे न्युप्य वसतीवरीभिरुपसृज्यावीवृधं वो मनसा सुजाता इत्यभिमन्त्र्य तिस्रो यह्वस्य समिधः परिज्मनो देवा अकृण्वन्नुशिजो अमर्त्यवे । तासामेकामदधुर्मर्त्ये भुजं लोकमिद्द्वे उप जामी ईयतुरिति सोमकरण्याभिषुणोति १०
+10. If he is going to take the Soma-scoop,[^1] having poured out on the lower pressing stone (Upara) some quantity of the king (Soma) which would be sufficient for one scoop (of juice),[^2] having poured down the Vasatīvarī (-water) over it, having addressed it with avīvr̥dhaṁ vo manasā...[^3] he presses it with the Somakaraṇī-verse viz. tisro yahvasya samidhaḥ....[^4]   
+
+[^1]: Instead of curds-scoop or ghee-scoop.  
+
+[^2]: See XII.2.15.  
+
+[^3]: TS III.1.8.b.  
+
+[^4]: MS I.3.35.   
 </details>

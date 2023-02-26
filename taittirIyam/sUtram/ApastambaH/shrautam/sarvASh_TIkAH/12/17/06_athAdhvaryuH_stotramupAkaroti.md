@@ -5,5 +5,7 @@ title = "06 अथाध्वर्युः स्तोत्रमुपा�
 
 <details><summary>थिते</summary>
 
-अथाध्वर्युः स्तोत्रमुपाकरोति ६
+6. Now, the Adhvaryu bespeaks the stotra.[^1]  
+
+[^1]: For the details of this see the next Sūtra.  
 </details>

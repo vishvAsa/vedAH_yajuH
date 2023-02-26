@@ -5,5 +5,5 @@ title = "05 तेषां यान्यनादिष्टवृक्ष�
 
 <details><summary>थिते</summary>
 
-तेषां यान्यनादिष्टवृक्षाणि वैकङ्कतानि स्युः । यो वा यज्ञियो वृक्षः फलग्रहिः ५
+5. Out of them about which no tree is prescribed, they are to be prepared out of Vikaṅkata-wood or (out of any other), sacrificial tree having fmits.  
 </details>

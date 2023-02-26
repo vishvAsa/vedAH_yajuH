@@ -5,5 +5,7 @@ title = "15 ता एवमेवाच्छावाकं सीदन्त
 
 <details><summary>थिते</summary>
 
-ता एवमेवाच्छावाकं सीदन्तमनूपसादयति १५
+15. (Later on) in the same manner she (again) keeps them down (to the west of the Neṣṭr̥'s fire-hearth) after the Acchāvāka has sat down.[^1]   
+
+[^1]: See XII.26.8.
 </details>

@@ -5,5 +5,7 @@ title = "14 योऽस्य सुप्रियः सुविचित"
 
 <details><summary>थिते</summary>
 
-योऽस्य सुप्रियः सुविचित इव स्यात्तस्य ग्रहीतव्यौ १४
+14. They can be taken for a (sacrificer) who is very dear to him (=the Adhvaryu) and one who is properly examined by him).[^1]  
+
+[^1]: ŚB IV.6.1.14;cp. XIX.15.9.  
 </details>

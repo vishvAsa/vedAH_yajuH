@@ -5,5 +5,5 @@ title = "02 एतस्यैव हविर्धानस्याधस्�
 
 <details><summary>थिते</summary>
 
-एतस्यैव हविर्धानस्याधस्तात्पुरोऽक्षं मैत्रावरुणचमसम् । उत्तरस्यां वर्तन्यां पुरश्चक्रं होतृचमसम् । उत्तरस्य हविर्धानस्याधस्तात्पुरोऽक्षं वसतीवरीः । पश्चादक्षमेकधनाः २
+2. (He places) the Maitrāvaruṇa's goblet under the same (southern) Havirdhāna (-cart) in front of the axle; the Hotr̥'s goblet near the northern track in front of the wheel; the Vasatīvarī (water) under the northern Havirdhāna (-cart) in front of the axle; (and the pitchers of the) Ekadhanā (-water) behind the axle.  
 </details>

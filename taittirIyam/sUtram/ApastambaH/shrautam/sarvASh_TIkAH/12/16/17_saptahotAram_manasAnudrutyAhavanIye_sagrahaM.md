@@ -5,5 +5,11 @@ title = "17 सप्तहोतारम् मनसानुद्रुत�
 
 <details><summary>थिते</summary>
 
-सप्तहोतारं मनसानुद्रुत्याहवनीये सग्रहं हुत्वोदञ्चः प्रह्वा बहिष्पवमानाय पञ्चर्त्विजः समन्वारब्धाः सर्पन्ति १७
+17. After having mentally recited the Saptahotr̥[^1] formula, after having offered a libation on the Āhavanīya fire with the Graha (-portion of the formula),[^2] the five priests creep towards the north for the Bahiṣpavamāna in a bending position and having held one another from behind.[^3]  
+
+[^1]: TA III.5.   
+
+[^2]: Cf. TB II.2.6.2.  
+
+[^3]: Cf. TMB VI.7.10,12.  
 </details>

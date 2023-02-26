@@ -5,5 +5,9 @@ title = "12 युनज्मि वायुमन्तरिक्षेण 
 
 <details><summary>थिते</summary>
 
-युनज्मि वायुमन्तरिक्षेण ते सहेत्युत्तरस्य हविर्धानस्योपरिष्टान्नीड आधवनीयम् । युनज्मि वाचं सह सूर्येण त इति प्रधुर पूतभृतम् १२
+12. (He palces) the Ādhavanīya upon the seat above the northern Havirdhāna (-cart) with yunajmi vāyumantarikṣeṇa...;[^1] (and) the Pūtabhr̥t upon the front part of the yoke (of the same cart) with yunajmi vācaṁ saha sūryeṇa te....[^2]  
+
+[^1]: TS II.16.b.b.  
+
+[^2]: TS III.1.6.b.c.  
 </details>

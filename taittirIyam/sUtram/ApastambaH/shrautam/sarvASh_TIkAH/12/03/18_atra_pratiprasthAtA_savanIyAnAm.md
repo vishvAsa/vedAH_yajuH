@@ -5,5 +5,5 @@ title = "18 अत्र प्रतिप्रस्थाता सवनी
 
 <details><summary>थिते</summary>
 
-अत्र प्रतिप्रस्थाता सवनीयानां पाणिप्रक्षालनादि कर्म प्रतिपद्यते १८
+18. At this stage, the Pratiprasthātr̥ starts the work beginning with the washing of the hands in connection with the Savanīya (oblations).  
 </details>

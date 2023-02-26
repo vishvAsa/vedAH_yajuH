@@ -5,5 +5,11 @@ title = "02 अपाङ् क्षया ऋतस्य"
 
 <details><summary>थिते</summary>
 
-अपां क्षया ऋतस्य गर्भा भुवनस्य गोपाः श्येना अतिथयः पर्वतानां ककुभः प्रयुतो न पातारः । वग्नुनेन्द्रं ह्वयत घोषेणामीवांश्चातयत । युक्ता स्थ वहत स्वर्गं लोकं यजमानमभिवहतेति सन्नानभिमन्त्र्याग्नीषोमीयवत्सवनीयपात्राणि प्रयुनक्ति । अग्नीषोमीयवदाज्यानि गृह्णाति २
+2. Having addressed the pressing-stones which have been placed (upon the skin) with apāṁ kṣayā r̥tasya garbhāḥ...[^1] and with yukta stha vahata...[^2] (the Adhvaryu arranges) the utensils of the Savanīya-animal-sacrifice in the same manner as that of the Agnīṣomīya (-animal-sacrifice) (and) scoops the ghees in the same manner as that of the Agnīṣomīya (-animal sacrifice).[^3]   
+
+[^1]: Cp. TMB I.2.5.  
+
+[^2]: Cp. TB III.7.9.1-2.  
+
+[^3]: See XI.16.6;8.  
 </details>

@@ -5,5 +5,5 @@ title = "19 परिभूरग्निमिति सर्वं राज
 
 <details><summary>थिते</summary>
 
-परिभूरग्निमिति सर्वं राजानम् १९
+19. with paribhūragnim... all the king (Soma);  
 </details>

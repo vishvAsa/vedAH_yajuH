@@ -5,5 +5,11 @@ title = "16 द्वितीये पवमाने द्वितीये
 
 <details><summary>थिते</summary>
 
-द्वितीये पवमाने द्वितीयेन मन्त्रेण । तृतीये तृतीयेन १६
+16. At the second (=midday) Pavamāna he mutters the second formula.[^1] At the third[^2], the third.[^3]   
+
+[^1]: TS III.2.1.1.  
+
+[^2]: viz. Ārbhavapavamāna.  
+
+[^3]: TS III.2.1.1.  
 </details>

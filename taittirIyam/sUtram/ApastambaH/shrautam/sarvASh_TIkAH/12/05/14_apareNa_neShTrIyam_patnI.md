@@ -5,5 +5,7 @@ title = "14 अपरेण नेष्ट्रीयम् पत्नी"
 
 <details><summary>थिते</summary>
 
-अपरेण नेष्ट्रीयं पत्नी पन्नेजनीः सादयति प्रत्यङ्तिष्ठन्ती वसुभ्यो रुद्रेभ्य आदित्येभ्य इति १४
+14. With vasubhyo rudrebhya ādityebyaḥ...[^1] (the wife of the sacrificer), standing to the west keeps down the foot-washing (-waters) to the west of the Neṣṭr̥'s (fire-hearth).  
+
+[^1]: TS II.5.6.g-h.  
 </details>

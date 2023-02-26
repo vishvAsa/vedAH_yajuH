@@ -5,5 +5,11 @@ title = "04 आधवनानंशून्प्रज्ञातान्�
 
 <details><summary>थिते</summary>
 
-आधवनानंशून्प्रज्ञातान्निधायोशिक्त्वं देव सोम गायत्रेण छन्दसेत्येतैः प्रतिमन्त्रमनुसवनमेकैकं महाभिषवेष्वपिसृजति ४
+4. Having kept the stalks used for stirring[^1] in a marked place, in every pressing at the time when he adds them one by one to the Soma-stalks being pressed in the great pressing[^2] with one of the formulae beginning with uśik tvaṁ deva soma[^3] (in the sequence).   
+
+[^1]: Cf. KS XXX.7.TS VI.6.10.2. See also XII.12.1; XIII. 10.5.  
+
+[^2]: See XII.12.1ff.  
+
+[^3]: TS III.3.3.t-v.  
 </details>

@@ -5,5 +5,9 @@ title = "01 उत्तरस्यां वर्तन्यां होत
 
 <details><summary>थिते</summary>
 
-उत्तरस्यां वर्तन्यां होतृचमसं वसतीवरीभिरभिपूर्य निग्राभ्यासु यजमानं वाचयति निग्राभ्या स्थ देवश्रुत इति १
+1. Having filled the Hotr̥'s goblet with the Vasatīvari (-waters) placed upon the northern track (of the southern Havirdhāna-cart) the Adhvaryu makes the sacrificer recite nigrābhyā stha devaśrutaḥ[^1] on (those waters in order to make them) the Nigrābhyās.[^2]   
+
+[^1]: TS III.1.8.A.  
+
+[^2]: By reciting this formula one makes the Vasatīvarī-water to be the Nigrābhyā ("worthy to be scooped").  
 </details>

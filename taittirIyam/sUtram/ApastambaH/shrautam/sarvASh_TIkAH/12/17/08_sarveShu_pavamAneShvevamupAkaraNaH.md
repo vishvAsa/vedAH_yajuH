@@ -5,5 +5,5 @@ title = "08 सर्वेषु पवमानेष्वेवमुपा�
 
 <details><summary>थिते</summary>
 
-सर्वेषु पवमानेष्वेवमुपाकरणः ८
+8. The way of bespeaking should be thus in all the Pavamāna (-stotras).  
 </details>

@@ -5,5 +5,7 @@ title = "11 नानुदिते सूर्य उपांश्वन्
 
 <details><summary>थिते</summary>
 
-नानुदिते सूर्य उपांश्वन्तर्यामौ जुहुयात् ११
+11. He should not offer the Upāṁśu and Antaryāma (-scoops)[^1] while the sun has not yet arisen.[^1]   
+
+[^1]: KB XII.4 rejects this view.  
 </details>

@@ -5,5 +5,7 @@ title = "13 वस्व्यै हिङ्कुरु तस्यै"
 
 <details><summary>थिते</summary>
 
-वस्व्यै हिङ्कुरु तस्यै प्रस्तुहि तस्यै स्तुहि तस्यै मेऽवरुद्ध्या इति पुरस्ताद्बहिष्पवमानाद्यजमानो जपति १३
+13. Before the Bahiṣpavamāna, the sacrificer muttters, vasvyai hiṁkuru...[^1]  
+
+[^1]: Cf. MS IV.2.4. For this Sūtra see also XIII.3.1;XIII.11.1.  
 </details>

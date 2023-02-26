@@ -5,5 +5,11 @@ title = "13 अयं वेनश्चोदयदिति शुक्रङ
 
 <details><summary>थिते</summary>
 
-अयं वेनश्चोदयदिति शुक्रं गृहीत्वा हिरण्येन श्रीत्वैष ते योनिर्वीरतां पाहीति सादयति १३
+13. With ayam venaścodayat.....[^4] having taken the Śukra-scoop, having mixed it with gold[^5], with eṣa te yoniḥ...[^6] he deposits it.  
+
+[^4]: TS I.4.8.a.  
+
+[^5]: Cf. KS XXVII.8.  
+
+[^6]: TS I.4.8.b.b.  
 </details>

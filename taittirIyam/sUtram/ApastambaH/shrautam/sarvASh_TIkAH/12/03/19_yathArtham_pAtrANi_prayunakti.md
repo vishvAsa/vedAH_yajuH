@@ -5,5 +5,5 @@ title = "19 यथार्थम् पात्राणि प्रयुन
 
 <details><summary>थिते</summary>
 
-यथार्थं पात्राणि प्रयुनक्ति १९
+19. He arranges the utenesils in accordance with their purpose.  
 </details>

@@ -5,5 +5,7 @@ title = "07 यज्ञस्य सन्ततिरसि यज्ञस्
 
 <details><summary>थिते</summary>
 
-यज्ञस्य सन्ततिरसि यज्ञस्य त्वा सन्तत्यै स्तृणामि सन्तत्यै त्वा यज्ञस्येति गार्हपत्यात्प्रक्रम्य सन्ततमनुपृष्ठ्यं बर्हिः स्तृणात्याहवनीयात् ७
+7. With yajñasya santatirasi...[^1] (the Agnīdhra) scatters grass continuously along the Pr̥ṣṭhyā-line beginnng from the Gārhapatya upto the Āhavanīya.  
+
+[^1]: TB III.2.4.1.  
 </details>

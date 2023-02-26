@@ -5,5 +5,9 @@ title = "08 अत्र सौमिकानाम् पात्राणा
 
 <details><summary>थिते</summary>
 
-अत्र सौमिकानां पात्राणां संसादनमेके समामनन्ति ८
+8. According to the opinion of some[^1] (ritualists) the ritual of placing of the utensils of Soma-sacrifice[^2] (should be done) at this stage.  
+
+[^1]: Cr. MāŚS II.3.1.12ff.  
+
+[^2]: See XII.1.7-XII.3.2.a.  
 </details>
