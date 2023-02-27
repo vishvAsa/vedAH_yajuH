@@ -2,43 +2,9 @@
 title = "8 The Rajasuya"
 
 +++
-## 01
-### a
-
-
-
-
-## 03
-### a
-He offers on eleven potsherds to Indra and Agni, clotted curds to the Maruts, clotted curds to Varuna, and on one potsherd to Ka.
-### b
-The voracious we invoke,  
-The Maruts who bear the sacrifice,  
-Rejoicing in the mush.
-### c
-Be not against us in battles, O god Indra  
-Let there be expiation to satisfy thee, O impetuous one;  
-For great is the barley heap of this bountiful one;  
-Rich in oblation are the Maruts whom our song praises.'
-### d
-The wrong we have done in village or wild,  
-In the assembly, in our members,  
-The wrong to Śudra or Aryan,  
-The wrong contrary to the law of either,  
-Of that thou art the expiation; hail!
-### e
-The doers of the deed have performed the deed,  
-With wondrous speech;  
-Having done the deed to the gods go ye  
-To your home, ye bounteous ones.
 ## 04
 ### a
-To Agni Anikavant he offers a cake on eight potsherds as the sun rises, an oblation to the Maruts as the heaters at midday, and to the Maruts as lords of the house he milks at evening an oblation of all (the cows).
 ### b
-O ladle, fly away filled,  
-And well filled do thou fly back;  
-Like wares, O Śatakratu,  
-Let us barter food and strength.
 ### c
 Give thou to me; I shall give to thee;  
 Bestow upon me; I shall bestow upon thee;  
