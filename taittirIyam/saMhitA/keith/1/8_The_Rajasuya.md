@@ -5,10 +5,9 @@ title = "8 The Rajasuya"
 ## 01
 ### a
 
-  
-He offers an oblation to Aditya; the sacrificial fee is a choice (ox). (He offers) to Agni and Visnu on eleven potsherds; the sacrificial fee is a dwarf beast of burden. (He offers) to Agni and Soma [1] on eleven potsherds; the sacrificial fee is gold. (He offers) to Indra on eleven potsherds; the sacrificial fee is a bull as a beast of burden. (He offers) to Agni on eight potsherds, and curds to Indra; the sacrificial fee is a bull as a beast of burden. (He offers) to Indra and Agni on twelve potsherds, and an oblation (caru) to the All-gods; the sacrificial fee is a first-born calf. (He offers) an oblation of millet to Soma; the sacrificial fee is a garment. (He offers) an oblation to Sarasvati, and an oblation to Sarasvant; the sacrificial fee is a pair of oxen.
 
-He offers to Agni on eight potsherds, an oblation to Soma, to Savitr on twelve potsherds, an oblation to Sarasvati, an oblation to Pusan, to the Maruts on seven potsherds, clotted curds to the All-gods, and on eleven potsherds to sky and earth.
+
+
 ## 03
 ### a
 He offers on eleven potsherds to Indra and Agni, clotted curds to the Maruts, clotted curds to Varuna, and on one potsherd to Ka.
