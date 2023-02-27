@@ -31,7 +31,7 @@ When thou hadst drunk the cup-pressed Soma.
 सोम॑मिन्द्र च॒मू सु॒तम् ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 हे **इन्द्र सुतम्** अभिषुतं **सोमं पीत्वा ओजसा** बलेन महता **सह उत्तिष्ठन् शिप्रे** हनू । कीदृग्भूते? **चमू** अदन-करण-भूते **अवेपयः** वेपय आचूषणिकान्तां तृप्तिं जनयन् हनुयुगळं चालय । 
 
@@ -83,7 +83,7 @@ to Indra the mighty thee!
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादने व्याख्याते ॥
 </details>

@@ -38,7 +38,7 @@ I draw the cup connected with the wives.
 पत्नी॑वन्त॒ङ्ग्रह॑ङ्गृह्णा॒मि ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तत्र बृहस्पतिसुतस्येति प्रथमा व्याख्यायते । सोम उच्यते ।  
 
@@ -73,7 +73,7 @@ O Agni, with the wives, in unison with the god Tvastr, drink the Soma, hail.
 अग्ना३इ पत्नी॒वा३स् स॒जूर् दे॒वेन॒ त्वष्ट्रा᳚ सोम॑म्पिब॒ स्वाहा᳚ ॥ [28]
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2अथ द्वितीया - हे **अग्ने पत्नीवन् देवेन त्वष्ट्रा सजूः** समानप्रीतिः । नास्य पाने ऽन्वयः । 'ससजुषोः' इति रुत्वम् । 
 

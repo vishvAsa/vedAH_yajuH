@@ -27,7 +27,7 @@ To energy hail!
 प्र॒या॒साय॒ स्वाहा᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्रयासः प्रकृष्टो यासः क्रिया यागादिः ।
 </details>
@@ -48,7 +48,7 @@ To effort hail!
 आ॒या॒साय॒ स्वाहा᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 आयासः शास्त्रपूर्वः प्रयासः अर्थार्जनादिः । मर्यादायामाकारः ।
 </details>
@@ -68,7 +68,7 @@ To distraction hail!
 वि॒या॒साय॒ स्वाहा᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 वियासः विविधो व्यापारः हसितकण्डूयितादिः ।
 </details>
@@ -88,7 +88,7 @@ To attempt hail!
 स॒य्ँया॒साय॒ स्वाहा᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 संयासः समीचीनप्रयत्नः परोपकारादिः ।
 </details>
@@ -108,7 +108,7 @@ To endeavour hail!
 उ॒द्या॒साय॒ स्वाहा᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 उद्यासः उद्भूतो व्यापारः महाभूतविकारादिः ।
 </details>
@@ -128,7 +128,7 @@ To striving hail!
 अ॒व॒या॒साय॒ स्वाहा᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अवयासः निकृष्टो व्यापारः दुष्कर्म ।
 </details>
@@ -149,7 +149,7 @@ To heat hail!
 शु॒चे स्वाहा᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 शुक् शोचयितृस्वभावं दुःखात्मकं कर्म ।
 </details>
@@ -169,7 +169,7 @@ To burning hail!
 शोका॑य॒ स्वाहा᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 शोकः तत्फलमात्मधर्मः ।
 </details>
@@ -189,7 +189,7 @@ To heating hail!
 त॒प्य॒त्वै स्वाहा᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तप्यतुः तापहेतुः अनिष्टाचरणम् । तपतेरौणादिकोतुच्प्रत्ययः, यकारोपजनश्छान्दसः, 'उदात्तयणः ' इति विभक्तेरुदात्तत्वम् ।
 </details>
@@ -209,7 +209,7 @@ To the hot hail!
 तप॑ते॒ स्वाहा᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तपः कृच्छ्रादि देहशोषकम् ।
 </details>
@@ -229,7 +229,7 @@ To the slaying of a Brahmin hail!
 ब्र॒ह्म॒ह॒त्यायै॒ स्वाहा᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ब्रह्महत्या ग्रहणं महापातकानामुपलक्षणम् ।
 </details>
@@ -249,7 +249,7 @@ To the slaying of a Brahmin hail!
 To all hail!
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 सर्वग्रहणं अनुक्तपरिस्पन्दपरिग्रहार्थम् ॥
 </details>

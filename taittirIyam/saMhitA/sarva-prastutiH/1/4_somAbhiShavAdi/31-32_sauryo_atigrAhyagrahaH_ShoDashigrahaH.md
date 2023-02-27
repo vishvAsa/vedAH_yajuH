@@ -59,7 +59,7 @@ This is thy birthplace; to Surya the radiant thee!
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादने गते । न त्वाम्नातामित्युक्तम् ॥
 </details>

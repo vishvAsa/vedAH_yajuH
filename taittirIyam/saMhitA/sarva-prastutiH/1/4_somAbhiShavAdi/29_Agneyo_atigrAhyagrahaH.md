@@ -56,7 +56,7 @@ This is thy birthplace; to Agni the radiant thee!
 ए॒ष ते॒ योनि॑र॒ग्नये᳚ त्वा॒ तेज॑स्वते ॥ [30]   +++(सादनमन्त्रः)+++
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादनमन्त्रौ गतौ ॥
 </details>

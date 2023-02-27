@@ -27,7 +27,7 @@ Thou art the caul of the kingly class.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 केचित्तरुत्वचं तार्प्यमाहुः । **क्षत्रस्य** धनस्य शरीरलक्षणस्य **उल्बं** रक्षाधिकरणस्थानीयं वा परिवासस्त्वमसि ॥
 </details>
@@ -53,7 +53,7 @@ thou art the womb of the kingly class
 ख्ष॒त्रस्य॒ योनि॑रसि ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 क्षत्रस्य धनस्य योनिः कारणमसि । दर्भमूलत्वाद्धनसाधनानां कर्मणाम् ॥
 </details>
@@ -80,7 +80,7 @@ O wife, come hither to the heaven; let us two mount!
 जाय॒ एहि॒ सुवो॒ रोहा॑व ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 हे जाये एह्यागच्छ सुवः स्वर्गं स्वर्गहेतुं निश्रेणिं रोहाव त्वञ्चाहञ्च किं रोहावेति । 'चादिलोपे विभाषा' इति तिङन्तस्य निघातप्रतिषेधः । 'स्वरो रोहतौ छन्दसि' इत्युत्वम् ॥
 </details>
@@ -101,7 +101,7 @@ Yes, let us two mount the heaven;
 रोहा॑व॒ हि सुवः॑ ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4जाया पतिभ्यामा[पतिं प्रत्या]ह - रोहाव इति ॥ एवं भवत्या[त्वा] रोहाव सुवरावाम् । हिशब्दो यस्मादर्थे । यस्मात्सुवः तस्माद्रोहाव इति । अपदात्परत्वान्न निहन्यते, हियोगाच्च ॥
 </details>
@@ -127,7 +127,7 @@ I will mount the heaven for us both.
 अ॒हन्ना॑वु॒भयो॒स्सुवो॑ रोख्ष्यामि ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तर्हि नौ आवयोरुभयोरहं सुवो रोक्ष्यामि । पूर्ववदुत्वम् ॥
 </details>
@@ -176,7 +176,7 @@ Strength, instigation, the later born, inspiration, heaven, the head, the Vyaśn
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्राजापत्यास् सर्वाः ; तस्य सर्वमयत्वात् ।  
 वाजोन्नम् ।  
@@ -234,7 +234,7 @@ May life accord with the sacrifice, may expiration accord with the sacrifice, ma
 य॒ज्ञो य॒ज्ञेन॑ कल्पताम्  ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 आयुर्जीवनमन्नं वा । तद् **यज्ञेनानेन कल्पतां** मम सम्पद्यतां यथाश्रुतं भूयात् । प्राणादीनां कल्पनं स्वकार्यकरणसामर्थ्यम् । पदानि व्याख्यातानि । यज्ञस्य कल्पनं अविच्छेदेन प्रवर्तनम् ॥
 </details>
@@ -264,7 +264,7 @@ We have come to the heaven, to the gods;
 सुव॑र्दे॒वाꣳ अ॑गन् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 सुवः स्वर्गं देवांश्च तत्रस्थान् सर्वान् अगन्म गतवन्तो वयम् । 'अस्मदो द्वयोश्च' इत्येकस्मिन् बहुवचनम् । अनेन निश्रेण्यारोहेन स्वर्गं देवांश्च प्राप्ता वयमिति । छान्दसो भविष्यति लङ् । अनेनारोहणेन स्वर्गं देवांश्च गमिष्यामो वयमिति । 'आशंसायां भूतवच्च' इति वा भविष्यति भूतप्रत्ययः । सांहितिकौ रुत्वानुनासिकौ ।  
 </details>
@@ -285,7 +285,7 @@ we have become immortal;
 मा॒मृता॑ अभूम ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अमृता अमरणा अभूम भविष्यामो वा । 'न ञो जरमर' इत्युत्तरपदाद्युत्तम् ।  
 </details>
@@ -305,7 +305,7 @@ we have become the offspring of Prajapati.
 प्र॒जाप॑तेᳶ प्र॒जा अ॑भूम ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजापतेः सर्वस्य पितुः प्रजा अभूम।  
 वयं सम्प्रति प्रजास्सञ्जाताः ; प्रजाकार्यकरत्वात् ।  
@@ -360,7 +360,7 @@ For the conquering of strength thee!
 वाजजि॒त्यायै᳚ त्वा  +++(हन्मि)+++ ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अन्नाय अन्नार्थं अन्नं तव स्यादिति, त्वामहं हन्मीति शेषः । हननं ताडनम् । अन्नाद्यं अन्नादनसामर्थ्यम् । छान्दसो यत् । वाजः सङ्ग्रामसामर्थ्यम् । अन्नमेव वा । वाजयित्या सङ्ग्रामे विजयः । अन्नविजयो वा । छान्दसः क्यप् । व्यत्ययेनान्तोदात्तत्वम् पित्त्वस्य वा तुगर्थत्वात् ॥
 </details>
@@ -386,7 +386,7 @@ Thou art ambrosia,
 अमृत॑मसि ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अमृतममरणहेतुस्त्वमसि ॥
 </details>
@@ -412,7 +412,7 @@ thou art prospering, thou art begetting.
 पुष्टि॑रसि प्र॒जन॑नमसि ॥ [39]
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पुष्टिः पुष्टिहेतुः असि । प्रजननं प्रजहेतुरसि ॥
 

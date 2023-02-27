@@ -4,12 +4,8 @@ title = "8 The Rajasuya"
 +++
 ## 01
 ### a
-Anumati he offers a cake on eight potsherds; the sacrificial fee is a cow. The (grains) which are thrown down to the west of the support he (offers) on one potsherd to Nirrti; the sacrificial fee is a black garment with a black fringe.  
-Go away, hail! rejoicing in the oblation.  
-This is thy share, O Nirrti;  
-O thou who hast prospered, thou art rich in oblation;  
-Free him from evil. Hail!  
-Honour to him who hath done this.  
+
+  
 He offers an oblation to Aditya; the sacrificial fee is a choice (ox). (He offers) to Agni and Visnu on eleven potsherds; the sacrificial fee is a dwarf beast of burden. (He offers) to Agni and Soma [1] on eleven potsherds; the sacrificial fee is gold. (He offers) to Indra on eleven potsherds; the sacrificial fee is a bull as a beast of burden. (He offers) to Agni on eight potsherds, and curds to Indra; the sacrificial fee is a bull as a beast of burden. (He offers) to Indra and Agni on twelve potsherds, and an oblation (caru) to the All-gods; the sacrificial fee is a first-born calf. (He offers) an oblation of millet to Soma; the sacrificial fee is a garment. (He offers) an oblation to Sarasvati, and an oblation to Sarasvant; the sacrificial fee is a pair of oxen.
 
 He offers to Agni on eight potsherds, an oblation to Soma, to Savitr on twelve potsherds, an oblation to Sarasvati, an oblation to Pusan, to the Maruts on seven potsherds, clotted curds to the All-gods, and on eleven potsherds to sky and earth.

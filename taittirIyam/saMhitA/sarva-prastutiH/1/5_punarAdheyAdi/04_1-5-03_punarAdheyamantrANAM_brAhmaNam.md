@@ -30,7 +30,7 @@ _______
 भूमि॑र्भू॒म्ना द्यौर्व॑रि॒णेत्या॑हा॒ऽऽशिषै॒वैन॒मा ध॑त्ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 आशिषा अन्नाद्यं प्राप्तुमिच्छया ॥
 </details>
@@ -58,7 +58,7 @@ The serpents thought that they were growing worn out;
 स॒र्पा वै जीर्य॑न्तोऽमन्यन्त ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2सर्पा वा इत्यादि ॥ धिक् जरा प्राप्यतेऽस्माभिरिति सविषादां मतिमकुर्वत सर्पाः ।
 </details>
@@ -79,7 +79,7 @@ Kasarnira Kadraveya beheld this Mantra;
 स ए॒तङ्क॑स॒र्णीर॑ᳵ काद्रवे॒यो मन्त्र॑मपश्यत् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथ तेषु कसर्णीरो नाम कश्चित्कद्रूपुत्रः स एतं भूमिर्भूम्नेत्यादिकं सर्पराज्ञ्याख्यं मन्त्रमपश्यत् । 'स्त्रीभ्यो ढक्' इति ढक् । ततस्सर्पा एतेनाग्निमादधतेति सामर्थ्याद्गम्यते ।
 </details>
@@ -100,7 +100,7 @@ then did they strike off their worn-out skins.
 ततो॒ वै ते जी॒र्णास्त॒नूरपा᳚घ्नत।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ततश्च जीर्णास्तनूरपहत्याभिनवा अलभन्तेत्यर्थः ।
 </details>
@@ -123,7 +123,7 @@ With the verses of the queen of serpents he establishes the Garhapatya,
 सर्परा॒ज्ञिया॑ ऋ॒ग्भिर्गार्ह॑पत्य॒मा द॑धाति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 सर्पराज्ञिया इत्यादि । गतम् ।  पृथिवी सर्पराज्ञी । यथोक्तम् - 'इयं वै सर्पतो राज्ञी' इति । तस्या ऋग्भिः भूमिर्भूम्नेत्यादिभिः । 'अपोद्धृत्य घर्मशिर एतस्य सर्पराज्ञी रोप्य गार्हपत्यमेव सर्वाभिराददीत' इत्याचार्याः । राजनशीला राज्ञी । 'कनिन्युवृष' इति कनिन्प्रत्ययः, 'ऋन्नेभ्यः' इति ङीप् । सर्पाणां राज्ञी स्वामिनी सर्पराज्ञी । 'समासस्य' इत्यन्तोदात्तत्वम् । 'उदात्तयणः' इत्येतद्बाधित्वा व्यत्ययेन । उदात्तस्वरितयोर्यणः' इति विभक्तिस्त्वर्यते ।
 </details>
@@ -144,7 +144,7 @@ and so renewing it he establishes it as immortal.
 पु॒न॒र्न॒वमे॒वैन॑म॒जर॑ङ्कृ॒त्वाऽऽध॑त्ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पुनर्नवमित्यादि । गतम् ।
 </details>
@@ -172,7 +172,7 @@ Pure
 अथो॑ पू॒तमे॒व  +++(आधत्ते)+++ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथो अपिच पूतमेवाधत्ते । येनायमृद्धिहेतुर्भवति इत्यादि हेतुश्च न भवति ।
 </details>
@@ -200,7 +200,7 @@ food did not come to the earth; she [1] beheld this Mantra; then food came to he
 अ॒न्नाद्य॒स्याव॑रुद्ध्यै ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पृथिवीमित्यादि । गतम् । 'अन्नाद्यायादधे' इति मन्त्रपदम् ।  
 </details>
@@ -221,7 +221,7 @@ verily he establishes it firm in the (earth).
 अथो॑ अ॒स्यामे॒वैन॒म्प्रति॑ष्ठित॒मा ध॑त्ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथो अपिच अस्यां पृथिव्यां प्रतिष्ठितमाधत्ते । 'उपस्थे ते देवि' इति मन्त्रपदम् ।
 </details>
@@ -243,7 +243,7 @@ verily he establishes it firm in the (earth).
 यत्त्वा᳚ क्रु॒द्धᳶ प॑रो॒वपेत्या॒हाप॑ह्नुत ए॒वास्मै॒ तत् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यत्त्वेति । आत्मीयम् उद्वासनात्मकं दुष्कृतम् अस्मा अग्नये **ऽपह्नुते** अपनय[पलप]ति 'सुकल्पमग्ने तत्' इति प्रच्छादयति । तद्दुष्कृतमपि त्वत्प्रसादात् सुकृतमेव भवतीति ।
 </details>
@@ -266,7 +266,7 @@ verily he establishes it firm in the (earth).
 समि॑न्ध ए॒वैन॒॑म्।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पुनस्त्वेत्यादि । गतम् ॥
 </details>
@@ -320,7 +320,7 @@ The sacrifice of him who removes the fire is split; he pays reverence with a ver
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 3वि वा एतस्येत्यादि ॥ 'मनो ज्योतिः' इत्येषा बृहस्पतिवती ऋक् । 'छन्दसीरः' इति मतुपो वत्वम् । बृहस्पतिशब्दस्याद्युदात्तत्वम् ।
 </details>
@@ -345,7 +345,7 @@ The sacrifice of him who removes the fire is split; he pays reverence with a ver
 स॒न्तत्यै॒व य॒ज्ञन्दे॒वेभ्योऽनु॑ दिशति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 विश्वे देवा इति । विच्छिन्नयज्ञं सन्तत्यैव सन्धाय सन्ततमिहेति देवेभ्योनुदिशति ज्ञापयति ।
 </details>
@@ -370,7 +370,7 @@ The sacrifice of him who removes the fire is split; he pays reverence with a ver
 स॒प्तस॑प्त॒ वै स॑प्त॒धाऽग्नेᳶ प्रि॒यास्त॒नुव॒स्ता ए॒वाव॑ रुन्धे ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 सप्त त इति । समिदादयस्सप्तसप्त प्रत्येकं सप्तसङ्ख्याः सप्तधा सर्वा अपि सप्तधा भिन्नाः अग्नेः प्रियास्तनुवः तनुवत् मूर्तिरिव प्रधानभूताः अग्नेस्तास्सर्वाः अवरुन्धे स्वाभिमतसाधनतया लभते ।
 </details>
@@ -394,7 +394,7 @@ The sacrifice of him who removes the fire is split; he pays reverence with a ver
 र॒य्येत्य॒भित॑ᳶ पुरो॒डाश॒माहु॑ती जुहोति।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पुनरूर्जेति । 'पुनरूर्जा निवर्तस्व' 'सह रय्या नि वर्तस्व' इति मन्त्राभ्यामभितः पुरोडाशमाहुती जुहोति पुरस्तादुर्परिष्टाच्च । 'अभितःपरितः' इति द्वितीया ।
 </details>
@@ -415,7 +415,7 @@ verily with strength and with wealth he surrounds on either side the sacrificer.
 यज॑मानमे॒वोर्जा च॑ र॒य्या चो॑भ॒यत॒ᳶ परि॑ गृह्णाति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यजमानमेवेत्यादि । 'सावेकाचः' इत्येकत्रोदात्तत्वम् । 'उदात्तयणः' इतीतरत्र ॥
 </details>
@@ -447,7 +447,7 @@ The Adityas went from this world to yonder world, they were thirsty in yonder wo
 ते अ॑मुष्मि॑ल्ँलो॒के व्य॑तृष्यन् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4आदित्या इत्यादि ॥ भूलोकाद्द्योलोकं गताः ऋद्ध्यर्थं कृत-पुनर्-आधानाः आदित्याः । तत्र च ते **व्यतृष्यन्** भूयोपि ऋद्ध्य्-अभावेन विविधं तृष्यन्तोभवन् । तृषा पिपासायां दैवादिकः ।
 </details>
@@ -475,7 +475,7 @@ having returned to this world and having established the fire, they offered thes
 ते सु॑व॒र्गल्ँ लो॒कमा॑यन् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ततस्ते पुनरपि इममेव लोकमभ्यवेत्य अभ्यावृत्य तृतीयम् अग्निम् आधाय एतान् 'लेकः' इत्यादीन् होमानजुहवुः ऋद्धाः स्वगं गताः ।
 </details>
@@ -498,7 +498,7 @@ He, who establishes a fire after the second establishment, should offer these ob
 स ए॒तान् होमा᳚ञ्जुहुयात् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 य इत्यादि । पराचीनं पुनराधेयात् पुनराधेयानन्तरं तृतीयमित्यर्थः ।
 </details>
@@ -519,7 +519,7 @@ be prospers with the prosperity where with the Adityas prospered.
 यामे॒वाऽऽदि॒त्या ऋद्धि॒मार्ध्नु॑व॒न्तामे॒वर्ध्नो॑ति ॥ [16]
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यामित्यादि । अयमृध्नोतिः ऋद्धौ च वर्तते यथा ऋध्नुवन्तीति । ऋद्धिकर्मिकायां च प्राप्तौ ऋद्धिमार्ध्नुवन्निति । तत्र पोषं पुष्णातीतिवत्प्राप्तिमात्रप्रवृत्तिर्द्वितीयो द्रष्टव्यः ॥
 
