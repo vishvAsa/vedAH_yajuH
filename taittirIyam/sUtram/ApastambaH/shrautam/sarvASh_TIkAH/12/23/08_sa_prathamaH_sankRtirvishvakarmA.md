@@ -5,5 +5,8 @@ title = "08 स प्रथमः सङ्कृतिर्विश्वक
 
 <details><summary>थिते</summary>
 
-स प्रथमः सङ्कृतिर्विश्वकर्मा स प्रथमो मित्रो वरुणो अग्निः । स प्रथमो बृहस्पतिश्चिकित्वांस्तस्मा इन्द्राय सुतमाजुहोमि स्वाहेत्यध्वर्युर्जुहोति । तस्मै सूर्याय सुतमाजुहोमि स्वाहेति प्रतिप्रस्थाता ८
+8. With sa prathamaḥ saṅkr̥tir viśvakarmā...[^2] the Adhvaryu offers, the Pratiprasthātr̥ offers (with the same verse but at the end adding) tasmai sūryāya sutamājuhomi (instead of tasmā indrāya sutamājuhomi).  
+
+
+[^2]: TB I.1.1.5.   
 </details>

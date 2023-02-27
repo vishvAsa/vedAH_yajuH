@@ -5,5 +5,13 @@ title = "01 ततः शुक्रामन्थिभ्याम् प्
 
 <details><summary>थिते</summary>
 
-ततः शुक्रामन्थिभ्यां प्रचरतः । स्तुतोऽसि जनधा देवास्त्वा शुक्रपाः प्रणयन्त्विति शुक्रमध्वर्युरादत्ते । स्तुतोऽसि जनधा देवास्त्वा मन्थिपाः प्रणयन्त्विति मन्थिनं प्रतिप्रस्थाता । चमसांश्चमसाध्वर्यवः १
+1. Then (the Adhvaryu and the Pratiprasthātr̥) perform the ritual with the Śukra and Manthin (-scoops).[^1] With stuto'si janadhā devāstvā śukrapāḥ...[^2] the Adhvaryu takes the Śukra (-scoop). With stuto'si janadhā devāstvā manthipāḥ...[^3] the Pratiprasthātr̥ takes the Manthin (-scoop). The Camasādhvaryus (take) the goblets.[^4]   
+
+[^1]: They are kept ready on the Khara (mound). See XII. 14.16.   
+
+[^2]: TS 1.1.1.1-2.  
+
+[^3]: TB 1.1.1.2.  
+
+[^4]: They are kept ready on the Khara (mound). See XII.21.15.   
 </details>

@@ -5,5 +5,7 @@ title = "02 हुते चादित्यमुपतिष्ठते भ
 
 <details><summary>थिते</summary>
 
-हुते चादित्यमुपतिष्ठते भूरसि श्रेष्ठो रश्मीनां प्राणपाः प्राणं मे पाहीति २
+2. And after the libation is offered (the sacrificer) praises the sun with bhūrasi śreṣtho raśmīnām...[^1]  
+
+[^1]: TS III.2. 10.1.  
 </details>

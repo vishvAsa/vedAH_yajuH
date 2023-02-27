@@ -5,5 +5,11 @@ title = "02 अप्रोक्षितौ शकलौ बहिर्वे
 
 <details><summary>थिते</summary>
 
-अप्रोक्षितौ शकलौ बहिर्वेदि निरस्यतो निरस्तौ शण्डामर्कौ सहामुनेति । निरस्तः शण्ड इति वाध्वर्युर्द्वेष्यं मनसा ध्यायन् । विरस्तो मर्क इति प्रतिप्रस्थाता २
+2. (The Adhvaryu and the Pratiprasthātr̥) throw away outside the altar the two splinters on which water was not sprinkled, with nirastau śaṇḍāmarkau along with N.N.[^1] Or the Adhvaryu (throws) while thinking about the enemy in the mind, with nirastaḥ śaṇḍaḥa[^2]... and the Pratiprasthātr̥ with nirasto markaḥ....[^3]   
+
+[^1]: KS XXVII.8. In the formula one has to utter the name of the enemy.  
+
+[^2]: TB I.1.1.5.  
+
+[^3]: TB I.1.1.5.  
 </details>

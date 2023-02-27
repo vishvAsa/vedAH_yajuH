@@ -5,5 +5,5 @@ title = "06 असम्प्रेषितो ग्रावस्तोत�
 
 <details><summary>थिते</summary>
 
-असम्प्रेषितो ग्रावस्तोत्रीया अन्वाह ६
+6. Without (formally) being ordered (the Grāvastut) recites the verses praising the pressing-stones.  
 </details>

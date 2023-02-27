@@ -5,5 +5,11 @@ title = "07 तानि दक्षिणस्य हविर्धानस
 
 <details><summary>थिते</summary>
 
-तानि दक्षिणस्य हविर्धानस्योत्तरस्यां वर्तन्यां सादयति । आ तृतीयसवनात्परिशेरे यज्ञस्य सन्तत्या इति विज्ञायते ७
+7. It is known (from a Brāhmaṇa-text): “He places those (cups) upon the northern track of the southern Havirdhāna (-cart).[^1] They lie (there) till the third pressing[^2] for the sake of the continuity of the sacrifice".[^3]  
+
+[^1]: TS VI.4.9.5.  
+
+[^2]: Thus not upon the Khara (mound); contrast XII.1.10.  
+
+[^3]: See XIII.13.12.  
 </details>

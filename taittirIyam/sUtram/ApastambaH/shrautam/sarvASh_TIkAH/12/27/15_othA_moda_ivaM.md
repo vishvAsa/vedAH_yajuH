@@ -5,5 +5,5 @@ title = "15 ओथा मोद इवं"
 
 <details><summary>थिते</summary>
 
-ओथा मोद इवं होतर्मोद इवमोथा मोद इवोमिति विकल्पन्ते १५
+15. (The responses) othā moda ivam, hotar moda ivam, (and) othā moda ivom are the (other) alternatives (of the above mentioned responses.  
 </details>

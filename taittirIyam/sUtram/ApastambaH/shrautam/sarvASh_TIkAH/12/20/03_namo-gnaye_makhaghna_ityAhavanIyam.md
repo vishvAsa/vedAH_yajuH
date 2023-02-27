@@ -5,5 +5,7 @@ title = "03 नमोऽग्नये मखघ्न इत्याहवन
 
 <details><summary>थिते</summary>
 
-नमोऽग्नये मखघ्न इत्याहवनीयम् । नमो रुद्राय मखघ्न इत्याग्नीध्रीयम् । नम इन्द्राय मखघ्न इति होत्रीयम् ३
+3. With namo'gnaye ... he stands praising near the Āhavanīya; with namo rudrāya... the Āgnidhrīya; with nama indrāya... the Hotrīya.[^1]   
+
+[^1]: For the formulae see TS III.2.4.c-e.  
 </details>

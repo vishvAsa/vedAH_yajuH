@@ -5,5 +5,5 @@ title = "10 पूर्वेषां शेषेषूत्तरानभ�
 
 <details><summary>थिते</summary>
 
-पूर्वेषां शेषेषूत्तरानभिगृह्णीतः १०
+10. (The Adhvaryu and the Pratiprasthātr̥) take (Soma juice for) the posterior (scoops) into the remnants (in the cups) form (the Soma of) the prior-libations.  
 </details>

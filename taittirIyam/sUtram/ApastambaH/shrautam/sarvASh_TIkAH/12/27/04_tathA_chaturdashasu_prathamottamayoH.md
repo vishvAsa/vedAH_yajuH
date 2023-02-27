@@ -5,5 +5,5 @@ title = "04 तथा चतुर्दशसु प्रथमोत्तम
 
 <details><summary>थिते</summary>
 
-तथा चतुर्दशसु प्रथमोत्तमयोः ४
+4. Similarly if fourteen (scoops are taken the acts of taking and offering the last two are done simultaneously).  
 </details>

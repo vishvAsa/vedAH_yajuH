@@ -5,5 +5,5 @@ title = "03 ताभ्याम् प्रतिप्रस्थाता 
 
 <details><summary>थिते</summary>
 
-ताभ्यां प्रतिप्रस्थाता चरति । एतावन्नाना ३
+3. The Pratiprasthātr̥ performs (the ritual) with them. This much (only) is different.  
 </details>

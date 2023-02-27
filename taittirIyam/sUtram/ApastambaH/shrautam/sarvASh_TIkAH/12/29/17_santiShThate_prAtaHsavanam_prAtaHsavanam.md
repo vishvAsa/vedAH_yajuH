@@ -5,5 +5,5 @@ title = "17 सन्तिष्ठते प्रातःसवनम् प
 
 <details><summary>थिते</summary>
 
-सन्तिष्ठते प्रातःसवनं प्रातःसवनम् १७
+17. The morning-pressing (thus) stands completely established (i.e. concluded).  
 </details>

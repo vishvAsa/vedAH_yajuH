@@ -5,5 +5,11 @@ title = "05 शृतौ स्थः प्राणापानौ"
 
 <details><summary>थिते</summary>
 
-शृतौ स्थः प्राणापानौ मे श्रीणीतमित्युपांश्वन्तर्यामौ । शृतोऽसि व्यानं मे श्रीणाहीत्युपांशुसवनम् । शृतोऽसि वाचं मे श्रीणाहीत्यैन्द्रवायवम् । शृतोऽसि दक्षक्रतू मे श्रीणाहीति मैत्रावरुणम् । शृतौ स्थश्चक्षुषी मे श्रीणीतमिति शुक्रामन्थिनौ । शृतोऽसि श्रोत्रं मे श्रीणाहीत्याश्विनम् । शृतोऽस्यात्मानं मे श्रीणाहीत्याग्रयणम् । शृतोऽस्यङ्गानि मे श्रीणाहीत्युक्थ्यम् । शृतोऽस्यायुर्मे श्रीणाहीति ध्रुवम् । शृतमसि तेजो म श्रीणाहीत्याज्यानि । शृतमसि पशून्मे श्रीणाहीति पृषदाज्यम् । शृता स्थ पुष्टिं मे श्रीणीतेति सर्वान्ग्रहान् । प्रजापतेर्जठरमसि शृतोऽसि स मा श्रीणाहीति द्रोणकलशम् । इन्द्रस्य जठरमसि शृतोऽसि स मा श्रीणाहीत्याधवनीयम् । विश्वेषां देवानां जठरमसि शृतोऽसि स मा श्रीणाहीति पूतभृतम् । शृतस्त्वं शृतोऽहं शृतो मे प्राणः शृतो मेऽपानः शृतो मे व्यानः शृतं मे चक्षुः शृतं मे श्रोतं शृता मे वाक् शृतो म आत्मा शृतं मे हविः शृतो मे सोमः शृता मे ग्रहाः । इममिन्द्र सुतं पिब ज्येष्ठममर्त्यं मदम् । शुक्रस्य त्वाभ्यक्षरन्धारा ऋतस्य सादने । वृषा सोम द्युमाँ असि वृषा देव वृषव्रतः । वृषा धर्माणि दधिषे । वृष्णस्ते वृष्ण्यं शवो वृषा वने वृषा मदे । स त्वं वृषन्वृषेदसि । अश्वो न चक्रदो वृषा सं गा इन्द्रो समर्वतः । वि नो राये दुरो वृधीति सर्वं राजानम् ५
+5. (thus) with śrtau sthaḥ... the Upāṁśu and Antaryāma (-scoops); with śrto'si vyānaṁ me ... the Upāṁśusavana (-stone); with śr̥to’si vācam me ... the Aindravāyava (-scoop); with śr̥oto'si dakṣakratū me...the Maitrāvaruṇa (-scoop); with śr̥tau sthaśca kṣuṣī... the Śukra and Manthin (-scoops); with śr̥to'si śrotram me... the Āśvina (-scoop), with śr̥to' syātmānaṁ me... the Āgrayaṇa (-scoop); with śr̥to'syaṅgāni me... the Ukthya (-scoop); with śr̥to'syāyur me... the Dhruva (-scoop); with śr̥tamasi tejo me... the ghees (in the ladles); with śrutamasi paśūn me... the spotted ghee (Pr̥ṣadājya: ghee mixed with curds); with śr̥tā stha puṣṭiṁ me... all the scoops; with prajāpater jaṭharamasi... the Droṇakalaśa; with indrasya jaṭharamasi... the Ādhavanīya; with viśveṣāṁ devānāṁ jaṭharamasi... the Putabhr̥t;[^1] with śr̥tastvaṁ śr̥to'haṁ..., with imamindra sutaṁ piba...[^2] and with vr̥ṣā soma dyutimān...[^3] the entire quantity of the king (Soma).  
+
+[^1]: All the formulae only in the Āpastamba. They are mostly the variants of the formulae in XII.18.20.  
+
+[^2]: RV I.84.4.  
+
+[^3]: RV IX 64.1-3.  
 </details>

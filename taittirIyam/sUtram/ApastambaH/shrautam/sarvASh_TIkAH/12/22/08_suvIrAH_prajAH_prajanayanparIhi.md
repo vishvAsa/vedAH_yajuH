@@ -5,5 +5,15 @@ title = "08 सुवीराः प्रजाः प्रजनयन्प
 
 <details><summary>थिते</summary>
 
-सुवीराः प्रजाः प्रजनयन्परीहि शुक्रः शुक्रशोचिषेति दक्षिणेनाध्वर्युः प्रतिपद्यते । सुप्रजाः प्रजाः प्रजनयन्परीहि मन्थीमन्थिशोचिषेत्युत्तरेण प्रतिप्रस्थाता । अग्रेणोत्तरवेदिं ग्रहावरत्नी वा सन्धत्तः सञ्जग्मानौ दिव आ पृथिव्या आयुः सन्धत्तं तन्मे जिन्वतं प्राणं सन्धत्तं तं मे जिन्वतमपानं सन्धत्तं तं मे जिन्वतं व्यानं सन्धत्तं तं मे जिन्वतं चक्षुः सन्धत्तं तन्मे जिन्वतं श्रोत्रं सन्धत्तं तन्मे जिन्वतं मनः सन्धत्तं तन्मे जिन्वतं वाचं सन्धत्तं तां मे जिन्वतमिति ८
+8. With suviraḥ prajāḥ prajanayan...[^1] the Adhvaryu goes along the south (to his place) and with suprajaḥ prajaḥ prajanayan...[^2] the Pratiprasthatr̥ (goes) along the north to his place.[^3] With saṁjagmānau diva ā pr̥thivyāḥ....[^4] they join the two cups or their elbows[^5] to each other.  
+
+[^1]: TS VI. 4.10.4.  
+
+[^2]: TS VI. 4.10.5,  
+
+[^3]: Cf. ŚB IV. 2.1.16.17.  
+
+[^4]: TB I. 1.1.2-3.  
+
+[^5]: Cf. ŚB IV. 1.1.19.  
 </details>

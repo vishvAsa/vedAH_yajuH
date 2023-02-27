@@ -5,5 +5,9 @@ title = "06 इडायै हिङ्कुरु तस्यै"
 
 <details><summary>थिते</summary>
 
-इडायै हिङ्कुरु तस्यै प्रस्तुहि तस्यै स्तुहि तस्यै मेऽवरुद्ध्या इति पुरस्तादाज्यानां यजमानो जपति चतुर्होतारं च व्याचष्टे ६
+6. Before the Ājya-stotras, the sacrificer mutters iḍāyai hiṅkuru...[^1] and (also) recites the Caturhotr̥-(formula).[^2]   
+
+[^1]: MS IV.2.4. See ĀpŚS XII.17.13.  
+
+[^2]: TA III.2.  
 </details>

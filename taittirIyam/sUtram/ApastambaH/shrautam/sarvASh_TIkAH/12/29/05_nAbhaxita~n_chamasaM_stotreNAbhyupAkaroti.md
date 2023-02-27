@@ -5,5 +5,5 @@ title = "05 नाभक्षितञ् चमसं स्तोत्रे
 
 <details><summary>थिते</summary>
 
-नाभक्षितं चमसं स्तोत्रेणाभ्युपाकरोति ५
+5. (The Adhvaryu) does not bespeak goblet out of which Soma is not drunk, by means of a Stotra.  
 </details>

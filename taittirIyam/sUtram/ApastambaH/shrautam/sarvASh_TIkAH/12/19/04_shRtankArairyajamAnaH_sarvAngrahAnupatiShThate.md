@@ -5,5 +5,5 @@ title = "04 शृतङ्कारैर्यजमानः सर्वा�
 
 <details><summary>थिते</summary>
 
-शृतङ्कारैर्यजमानः सर्वान्ग्रहानुपतिष्ठते ४
+4. The sacrificer should stand near praising all the scoops with the formulae containing the word śr̥ta:  
 </details>

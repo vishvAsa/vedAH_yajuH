@@ -5,5 +5,7 @@ title = "01 कलश इति कलशम्"
 
 <details><summary>थिते</summary>
 
-कलश इति कलशम् । सोम इति सोमम् । अग्निरित्यग्निम् । उप देवा इति देवान् । उप यज्ञ इति यज्ञम् । उप मा होत्रा इति होत्रकान् १
+1. He praises the (Drona-) kalaśa with kalaśaḥ...; Soma with somaḥ...; Agni with agniḥ...; gods with upa devāḥ...: the sacrifice with upa yajñaḥ...; the Hotrakas with upa mā hotrāḥ...[^1]   
+
+[^1]: For the formulae see TS III.2.4.b.  
 </details>

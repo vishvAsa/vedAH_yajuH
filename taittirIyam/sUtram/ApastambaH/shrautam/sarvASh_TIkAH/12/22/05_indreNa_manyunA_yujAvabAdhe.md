@@ -5,5 +5,7 @@ title = "05 इन्द्रेण मन्युना युजावबा
 
 <details><summary>थिते</summary>
 
-इन्द्रेण मन्युना युजावबाधे पृतन्यता । घ्नता वृत्राण्यप्रतीति शुक्रं यजमानोऽन्वारभत होमात् ५
+5. Upto the act of offering the libation, the sacrificer holds the Śukra(-cup) with indreṆa manyunā yujā...[^1]  
+
+[^1]: For the ritual and the formula see MS IV.6.3.  
 </details>

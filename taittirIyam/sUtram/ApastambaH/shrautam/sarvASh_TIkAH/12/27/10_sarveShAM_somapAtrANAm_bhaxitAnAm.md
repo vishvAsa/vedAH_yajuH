@@ -5,5 +5,5 @@ title = "10 सर्वेषां सोमपात्राणाम् भ
 
 <details><summary>थिते</summary>
 
-सर्वेषां सोमपात्राणां भक्षितानां मार्जालीये प्रक्षालनम् १०
+10. The act of washing of all the Soma-cups out which drinking has been done (should be done) in the Mārjālīya (-shed).  
 </details>

@@ -5,5 +5,7 @@ title = "11 विभूरसि श्रेष्ठो रश्मीना
 
 <details><summary>थिते</summary>
 
-विभूरसि श्रेष्ठो रश्मीनां व्यानपा व्यानं मे पाहीति तृतीय आदित्योपस्थानः ११
+11. The third (formula to be used for the praise of the sun (Āditya) should be: vibhūrasi śreṣṭho vyānapāḥ...[^1]  
+
+[^1]: See the note on Sūtra 10.  
 </details>

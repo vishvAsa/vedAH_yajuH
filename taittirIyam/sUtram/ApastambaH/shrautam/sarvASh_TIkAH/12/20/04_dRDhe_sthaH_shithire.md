@@ -5,5 +5,7 @@ title = "04 दृढे स्थः शिथिरे"
 
 <details><summary>थिते</summary>
 
-दृढे स्थः शिथिरे समीची इति द्यावापृथिवी उपतिष्ठते । सूर्यं वायुमग्निं यमं सरस्वतीं सदसो द्वाराविति ४
+4. He praises the Dyāvāpr̥thivī with dr̥ḍhe stha śithire...., the... Sūrya, Vāyu, Yama, Sarasvatī and the two doors of the Sadas with the corresponding formulae.[^1]  
+
+[^1]: For the formulae see TS III.2.4.g-i.  
 </details>

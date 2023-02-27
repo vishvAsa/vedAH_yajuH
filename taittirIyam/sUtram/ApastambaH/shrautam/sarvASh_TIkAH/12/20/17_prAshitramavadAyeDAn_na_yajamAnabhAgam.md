@@ -5,5 +5,7 @@ title = "17 प्राशित्रमवदायेडान् न यज
 
 <details><summary>थिते</summary>
 
-प्राशित्रमवदायेडां न यजमानभागम् १७
+17. Having cut the Prāśitra (the Adhvaryu cuts) the Iḍā (-portion) (but) not the portion of the sacrificer.[^1]  
+
+[^1]: Cp. VII.23.1; see also XII.25.8.  
 </details>
