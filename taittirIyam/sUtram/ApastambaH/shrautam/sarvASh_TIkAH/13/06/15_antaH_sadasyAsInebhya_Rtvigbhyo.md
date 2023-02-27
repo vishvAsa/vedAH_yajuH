@@ -5,5 +5,7 @@ title = "15 अन्तः सदस्यासीनेभ्य ऋत्व
 
 <details><summary>थिते</summary>
 
-अन्तः सदस्यासीनेभ्य ऋत्विग्भ्यो दद्यात् । हविर्धानेऽध्वर्युभ्यः १५
+15. He should give them to the priests sitting inside the Sadas; and to the Adhvaryus (who are sitting in the Havirdhāna (-shed).[^1]  
+
+[^1]: Cr. ŚB IV.3.4.21-22.  
 </details>

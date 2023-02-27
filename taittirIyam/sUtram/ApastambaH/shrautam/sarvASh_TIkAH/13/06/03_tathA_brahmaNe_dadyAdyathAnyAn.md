@@ -5,5 +5,5 @@ title = "03 तथा ब्रह्मणे दद्याद्यथान
 
 <details><summary>थिते</summary>
 
-तथा ब्रह्मणे दद्याद्यथान्यां दक्षिणां नानुध्यायेत् ३
+3. He should give to the Brahman in such a way that he (the Brahman) would not covet another gift.
 </details>

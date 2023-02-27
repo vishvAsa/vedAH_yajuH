@@ -5,5 +5,9 @@ title = "06 मित्रो जनान्प्र स"
 
 <details><summary>थिते</summary>
 
-मित्रो जनान्प्र स मित्रेति भक्षयित्वा नाभिदेशानभिमृशन्ते ६
+6. With mitro janān...[^1] and pra sa mitra...[^2] having consumed (the remnant of the Dadhigharma), they (the consumers) touch their navels.  
+
+[^1]: TS III.4.11.q.  
+
+[^2]: TS III.4.11.r.  
 </details>

@@ -5,5 +5,19 @@ title = "01 ज्योतिषे हिङ्कुरु तस्यै"
 
 <details><summary>थिते</summary>
 
-ज्योतिषे हिङ्कुरु तस्यै प्रस्तुहि तस्यै स्तुहि तस्यै मेऽवरुद्ध्या इति पुरस्तान्माध्यन्दिनात्पवमानाद्यजमानो जपति । चतुर्होतारं पञ्चहोतारं वा व्याचष्टे । ज्योक्त्यै हिङ्कुरु तस्यै प्रस्तुहि तस्यै स्तुहि तस्यै मेऽवरुद्ध्या इति च । स्तूयमाने च चतुर्होतारं पञ्चहोतारं वा जपति । मध्यमायां च स्तोत्रीयायां द्वितीयमन्वारोहम् । स्तुतेऽध्वर्युः सम्प्रेष्यत्यग्नीदग्नीन्विहर बर्हि स्तृणीहि पुरोडाशाँ अलङ्कुरु प्रतिप्रस्थातर्दधिघर्मेणानूदेहीति १
+1. Before (the singing of) the Mādhyandina Pavamāna (-laud) the sacrificer mutters jyotiṣe hiṅkuru...[^1]. Or he recites the Caturhotr̥[^2] or the Pañcahotri[^3] formula and (the formula) jyoktyai hiṅkuru...[^4] While (the Mādhyandina Pavamāna(-laud) is being sung, he mutters the Cāturhotr̥ formula or the Pancahotr̥ formula.[^5] While the middle verse (is being sung) (he mutters) the second Anvāroha.[^6] After the singing is over the Adhvaryu orders, “O Āgnīdhra, spread the fires, scatter the sacrificial grass, adorn the sacrificial breads (connected with the Soma-pressing). O Pratiprasthātr̥ do you come here with the Dadhigharma."[^7]  
+
+[^1]: MS IV.2.4 has been expanded here. For the ritual see and cp. XII.17.13.  
+
+[^2]: Cf. TB II.2.8.3.  
+
+[^3]: Cf. MS I.9.5.  
+
+[^4]: This formula occurs only here.  
+
+[^5]: See and cp. XII.17.14.  
+
+[^6]: i.e. TS III.2.1.1; cp. ĀpŚSs XII.17.15-16.  
+
+[^7]: Cp. XII.17.19. The ritual mentioned in XII.18.1-8. takes place here.  
 </details>

@@ -5,5 +5,7 @@ title = "11 तुथो वो विश्ववेदा"
 
 <details><summary>थिते</summary>
 
-तुथो वो विश्ववेदा विभजत्विति ता यजमानश्चतुर्धा कृष्णाजिनेन व्युत्त्रास्य चतुर्थमध्वर्युभ्यो विभजति ११
+11. With tutho vo viśavedāḥ...[^1] having frightened those (cows) by means of the black antelope's skin in four directions (and thus having made four divisions off them) the sacrificer alots one fourth (of the cows) to the Adhvaryus:  
+
+[^1]: TS I.4.4.f.  
 </details>

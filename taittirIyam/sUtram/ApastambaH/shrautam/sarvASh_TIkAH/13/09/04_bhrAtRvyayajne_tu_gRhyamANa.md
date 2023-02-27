@@ -5,5 +5,7 @@ title = "04 भ्रातृव्ययज्ञे तु गृह्यम
 
 <details><summary>थिते</summary>
 
-भ्रातृव्ययज्ञे तु गृह्यमाण आदित्ये बहिर्वेदि तिष्ठेत् ४
+4. While however (the Āditya-scoop) is being taken in a sacrifice of his enemy, (the sacrificer) should stand outside the great altar.[^1]  
+
+[^1]: Cf. MS IV.6.9.  
 </details>

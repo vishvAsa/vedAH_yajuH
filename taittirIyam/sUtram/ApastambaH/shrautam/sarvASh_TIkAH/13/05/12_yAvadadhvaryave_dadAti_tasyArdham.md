@@ -5,5 +5,7 @@ title = "12 यावदध्वर्यवे ददाति तस्या
 
 <details><summary>थिते</summary>
 
-यावदध्वर्यवे ददाति तस्यार्धं प्रतिप्रस्थात्रे तृतीयं नेष्ट्रे चतुर्थमुन्नेत्रे १२
+12. To the Pratiprasthātr̥ he gives one half, to the Neṣṭr̥ one third and to the Unnetr̥ one fourth of as many cows as he gives to the Adhvaryu.[^1]  
+
+[^1]: Thus if 12 cows are given to the Adhvaryu, 6, 4 and 3 cows are to be given to his assistants respectively.  
 </details>

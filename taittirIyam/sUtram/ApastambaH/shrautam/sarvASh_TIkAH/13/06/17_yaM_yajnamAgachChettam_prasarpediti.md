@@ -5,5 +5,5 @@ title = "17 यं यज्ञमागच्छेत्तम् प्रस
 
 <details><summary>थिते</summary>
 
-यं यज्ञमागच्छेत्तं प्रसर्पेदिति प्रसर्पकाणां विज्ञायते १७
+17. In connection with the visitors it is known (from a BrāhmaṆa-text), to whichever sacrifice one may come, (towards) that (sacrifice) one may move.
 </details>

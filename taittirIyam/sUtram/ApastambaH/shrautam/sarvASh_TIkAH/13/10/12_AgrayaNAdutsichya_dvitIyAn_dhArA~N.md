@@ -5,5 +5,9 @@ title = "12 आग्रयणादुत्सिच्य द्विती�
 
 <details><summary>थिते</summary>
 
-आग्रयणादुत्सिच्य द्वितीयां धारां करोति । आदित्यस्थाल्यास्तृतीयाम् । आदित्यग्रहसम्पाताचतुर्थोम् १२
+12. He makes the second stream (of the Soma) after having poured it from the Āgrayaṇa-vessel (into another pot); the third from the Āditya-vessel[^1] (and) the fourth from the remnant of the Soma in the Āditya-cup.[^2]   
+
+[^1]: See XIII.9.7.  
+
+[^2]: See XIII. 10.5. For this Sūtra see ŚB III.3.5.21.  
 </details>

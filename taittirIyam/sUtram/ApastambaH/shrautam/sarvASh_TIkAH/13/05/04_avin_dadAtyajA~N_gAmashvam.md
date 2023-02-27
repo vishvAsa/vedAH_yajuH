@@ -5,5 +5,5 @@ title = "04 अविन् ददात्यजाङ् गामश्वम
 
 <details><summary>थिते</summary>
 
-अविं ददात्यजां गामश्वं पुरुषं हस्तिनं वासोऽनो रथमोदनं मन्थं माषांस्तिलान्व्रीहियवान्गर्दभमित्यधिकान्यनियतानि ४
+4. He also gives a sheep, a she-goat, a bull, a horse, a man, an elephant, a garment, a cart, a chariot, rice-pap, stirred (flour), black bear, sesame, rice-grains, barley, a donkey as additional, non-obligatiory (gifts).   
 </details>

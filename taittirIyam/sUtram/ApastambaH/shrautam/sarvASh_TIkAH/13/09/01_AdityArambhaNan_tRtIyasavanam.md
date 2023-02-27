@@ -5,5 +5,5 @@ title = "01 आदित्यारम्भणन् तृतीयसवन�
 
 <details><summary>थिते</summary>
 
-आदित्यारम्भणं तृतीयसवनम् १
+1. The third pressing begins with (the taking of) the Āditya (-scoop).  
 </details>

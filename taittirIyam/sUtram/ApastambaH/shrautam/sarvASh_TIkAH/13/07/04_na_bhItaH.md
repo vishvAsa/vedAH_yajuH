@@ -5,5 +5,6 @@ title = "04 न भीतः"
 
 <details><summary>थिते</summary>
 
-न भीतः ४
+4. nor (when he is) frightened;  
+
 </details>
