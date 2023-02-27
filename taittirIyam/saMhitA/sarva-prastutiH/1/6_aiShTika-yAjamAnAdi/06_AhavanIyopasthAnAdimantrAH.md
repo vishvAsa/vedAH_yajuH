@@ -31,7 +31,7 @@ We have come to the heaven;
 अग॑न्म॒ सुवः॑ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 सुवस्स्वर्गमगन्म गमिष्यामः, गम्यास्म वा, सर्वेपि वयं सपुत्रपौत्राः । छान्दसो लुङ्, 'मन्त्रे घस' इति च्लेर्लुक् ।
 </details>
@@ -51,7 +51,7 @@ to the heaven we have come.
 सुव॑रगन्म ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 स्वर्गे भोक्तव्यानि भुक्त्वा पश्चात्सुवः सुष्ठु अरणीयं आदित्यान्तरपुरुषं मुक्तिस्थानमगन्म गमिष्यामः गम्यास्म वा । स एव लुङ् । पूर्वाभिधानेन पूर्वस्मादस्याभ्यर्हितत्वं द्योतयति ।
 </details>
@@ -72,7 +72,7 @@ May I not be cut off from seeing thee;
 स॒न्दृश॑स्ते॒ मा छि॑थ्सि ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तदर्थमहं तव सन्दृशः सन्दर्शनात् अनुध्यानलक्षणात् मा छित्सि आछेद्यो मा भूवम् । आत्माभिप्रायमेकवचनम् । आत्मनोऽच्छेदनस्य सवार्थसाधनत्वात् ।
 </details>
@@ -93,7 +93,7 @@ what heat is thine, to that of thee may I not be brought low.
 यत्ते॒ तप॒स्तस्मै॑ ते॒ माऽऽवृ॑ख्षि ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 किञ्च - यत्ते त्वदर्थं तपः कर्म यागादि तस्मै तदर्थं ते तव प्रसादात् तत एव वा सन्दृशः मा वृक्षि मा विवर्ज्यो भूयासम् । वृजी वर्जने । यद्वा - व्रश्चनीयो मा भूवं, त्वत्परिचरणव्यापारो यथा मा विच्छेदि तथानुध्यातुमर्हसीति ॥
 </details>
@@ -123,7 +123,7 @@ Thou art good, the best of rays,
 सु॒भूर॑सि॒ श्रेष्ठो॑ रश्मी॒नाम्   ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 सुष्टु भवति उदेतीति सुभूः शोभनभवनोसि सर्वबोधकामाभिमतत्वात् । सुष्ठु भावंयतीति वा सुभूः । 'बहुलं संज्ञाछन्दसोः' इति णिलुक्, 'कृदुत्तरपदप्रकृतिस्वरत्वम्, बहुव्रीहित्वेन 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । ईदृशोसि हे भगवन्निति ।
 
@@ -147,7 +147,7 @@ upon me
 आ॒यु॒र्धा अ॒स्यायु॑र्मे धेहि ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 आयुर्धाः आयुषो धाता दातासि । स त्वं मे मम आयुर्धेहि देहि ।
 </details>
@@ -167,7 +167,7 @@ thou art radiance-bestowing, bestow radiance upon me.
 व॒र्चो॒धा अ॑सि॒ वर्चो॒ मयि॑ धेहि ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 वर्चोधाः वर्चसो बलस्य धाता स्थापयिता चासि त्वं मयि वर्चो धेहि स्थापय ॥
 </details>
@@ -204,7 +204,7 @@ Here do I exclude my enemy, N. N., from these quarters, this sky, this atmospher
 इ॒दम॒हम॒मुम्भ्रातृ॑व्यमा॒भ्यो दि॒ग्भ्यो᳚ऽस्यै दि॒वो᳚ऽस्माद॒न्तरि॑ख्षाद॒स्यै पृ॑थि॒व्या अ॒स्माद॒न्नाद्या॒न्निर्भ॑जामि
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 इदमिति क्रियाविशेषणम् । इदं निर्भजाम ।
 
@@ -237,7 +237,7 @@ Excluded is he whom we hate [1].
 निर्भ॑क्त॒स्स यन्द्वि॒ष्मः [17] ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ततश्च स निर्भक्तः दूरीकृतः यं च वयं द्विष्म इति । गतम् ॥
 </details>
@@ -267,7 +267,7 @@ I have been united with the light.
 सञ्ज्योति॑षाऽभूवम् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ज्योतिषा दीप्त्याहं समभूवमेकीभूतोस्मीति । छान्दसो वा लुङ् । कृतकर्माहमादित्यस्य परमेण वा ज्योतिषा एकीभूयसमिति । यद्वा - 'आशंसायां भूतवच्च' इति भविष्यति लुङ् । इदानीमेव ज्योतिषा सम्भविष्यामीति ॥
 </details>
@@ -293,7 +293,7 @@ I turn the turning of Indra.
 ऐ॒न्द्रीमा॒वृत॑म॒न्वाव॑र्ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **ऐन्द्रीम् आवृतम्** आवृत्तिं पर्यावृत्ति अहमन्वावर्तेनुगन्तास्मि । इन्द्रेण पूर्वकृतामनु पश्चादहमनुवर्ते । यद्वा - लक्षणेऽनोः कर्मप्रवचनीयत्वम्, ऐन्द्र्यावृत्त्या इयमावृत्तिर्लक्ष्यत इति । इन्द्र आदित्यः । 'असौ वा आदित्य इन्द्रः' इत्यादि ब्राह्मणम् ॥
 </details>
@@ -304,89 +304,8 @@ _______
 6उपीतष्ठते - समहमिति ॥ 
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/samaham_prajayA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सम् अ॒हम् प्र॒जया᳚  +++(भूयासम्)+++  ।  
-</details>
-
-<details><summary>Keith</summary>
-
-May I be united with offspring, 
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-सम॒हम्प्र॒जया᳚  +++(भूयासम्)+++  ।  
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-ससाधनां क्रियामुपसर्ग आह । सा 'सं ज्योतिषाभूवम्' इति मन्त्रान्तरेऽनन्तरप्रकृतत्वात्भवतिक्रियेति विज्ञायते, गमनक्रिया वा । अहं प्रजया सम्भूयासम्, सङ्गंसीय वा ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सम् मया᳚ प्र॒जा  +++(भूयात्)+++ ।
-</details>
-
-<details><summary>Keith</summary>
-
-offspring with me.
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-सम्मया᳚ प्र॒जा  +++(भूयात्)+++ ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-प्रजा च मया सह सम्भूयात्, सङ्गंसीष्ट वा ।   
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
-</details>
-
-<details><summary>Keith</summary>
-
-May I be united with increase of wealth,
-</details>
-
-<details><summary>मूलम्</summary>
-
-सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-रायो धनस्य क्षेत्रपश्वादेः पोषेण पुष्ट्याहं सम्भूयासं, सङ्गंसीय वा ।   
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सम्मया॑ रा॒यस्पोषः॑   +++(भूयात्)+++  ।
-</details>
-
-<details><summary>Keith</summary>
-
-increase of wealth with me.
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-सम्मया॑ रा॒यस्पोषः॑   +++(भूयात्)+++  ।
-</details>
-
-<details><summary>भट्टभास्करटीका</summary>
-
-रायस्पोषश्च मया सह सम्भूयात् सङ्गंसीष्ट वा ॥
-</details>
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -409,7 +328,7 @@ Kindled, O Agni, shine for me;
 समि॑द्धो अग्ने मे दीदिहि ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने समिद्धः अनया समिधा सम्यग्दीपितः । कर्मणि निष्ठा, श्वीदितो निष्ठायाम्' इतीट्प्रतिषेधः, 'गतिरनन्तरः' इति पूर्वदप्रकृतिस्वरत्वम् । स त्वं मे मदर्थे दीदिहि दीप्यस्व । दीदितिर्दीप्तिकर्मा छान्दसः ।
 </details>
@@ -429,7 +348,7 @@ kindling thee, O Agni, may I shine.
 स॒मे॒द्धा ते॑ अग्ने दीद्यासम् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अहं च **ते समेद्धा** सन्दीपयिता । इडभावानुनासिकलोपौ छान्दसौ । सोहं त्वदर्थमेव दीद्यासं दीधिषीय । धातोरन्तलोपश्छान्दसः ॥
 </details>
@@ -457,7 +376,7 @@ Be rich the sacrifice; may I be rich.
 वसु॑मान् य॒ज्ञो वसी॑यान्भूयासम् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अयं यज्ञः त्वत्प्रसादाद्वसुमान्धनवान् प्रशस्तैरेव बहुभिर्धनैस्तद्वान् । प्रसिद्धमिदम् । अहमपि त्वत्प्रसादाद्वसीयान् ततोपि वसुमत्तरोहं भूयासम् । वसुमच्छब्दादीयसुनि 'विन्मतोर्लुक्' 'टेः' इति टिलोपः ॥
 </details>
@@ -480,7 +399,7 @@ _______
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/066/21_agne_pavasva.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्याते चैते 'त्वमग्ने रुद्रः' इत्यत्र । 
 </details>
@@ -494,7 +413,7 @@ _______
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/agne_gRhapate.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 11अत्रैव 'अग्ने गृहपते' इत्यादि यजुर् व्याख्यातं - अग्न्युपस्थाने 'सं पश्यामि' इत्यत्र ॥ 
 </details>
@@ -521,7 +440,7 @@ Who yoketh thee? Let him set thee free.
 कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्च॒तु ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 कः प्रजापतिस्त्वां युनक्ति, अतस्स एव त्वां विमुञ्चतु हे यज्ञ स एव त्वां विमोक्तुं चार्हतीति ॥
 </details>
@@ -548,7 +467,7 @@ O Agni, lord of vows, I have performed my vow;
 अग्ने᳚ व्रतपते व्र॒तम॑चारिषम् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने व्रतानां पातः त्वत्प्रसादाद्व्रतमचारिषं यथाशक्त्यनुष्ठितवानस्मि ।
 </details>
@@ -569,7 +488,7 @@ for that I have had strength;
 तद॑शकम् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 त्वत्प्रसादात्तदशकं तत्प्रसाधयितुं शक्त एवाभूवम् । एतेन वैगुण्याभावः प्रतिपादितः ।
 </details>
@@ -589,7 +508,7 @@ that hath been accomplished by me.
 तन्मे॑ऽराधि ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्रसाधितत्वादेव तन्मे व्रतमराधि सिद्धमभूत् । एतेन फलसम्पत्तिरुक्ता ॥
 </details>
@@ -620,7 +539,7 @@ It hath been born, it hath waxed great;
 स प्र ज॑ज्ञे॒ स वा॑वृधे ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 इयं पञ्चपदा जगती ॥ यज्ञोयं बभूव निवृत्तोभूत् । स आबभूव स निर्वृत्तोस्माकमावृत्त्या भवतु पुनःपुनर्भवतु । छान्दसो लिट् । स प्रजज्ञे प्रजातः प्रज्ञातो वास्तु प्रसिद्धोस्तु । स वावृधे स प्रसिद्धो वर्धताम् । 'तुजादीनाम्' इत्यभ्यासस्य दीर्घत्वम् ।
 </details>
@@ -640,7 +559,7 @@ It hath become the overlord of the gods,
 स दे॒वाना॒मधि॑पतिर्बभूव ।   
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 स च प्रसिद्धो देवानामधिपतिहेतुत्वादधिपतिः अधिकं पालयिता भवतु ।
 </details>
@@ -661,7 +580,7 @@ May it make us overlords,
 सो अ॒स्माꣳ अधि॑पतीन्करोतु  ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 स तादृशस्सन्नस्मानप्यधिपतीन् मनुष्याणामधिकं पालयितॄन् करोतु ।
 </details>
@@ -681,7 +600,7 @@ May we be lords of wealth.
 व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम्  ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तदर्थं वयं रयीणां धनानां पतयस्स्वामिनस्स्याम भवेम । पूर्व्ववन्नाम उदात्तत्वम् ॥
 </details>
@@ -716,7 +635,7 @@ Enduring wealth, deep based and rich in houses.
 इडा॑वाꣳ ए॒षो अ॑सुर प्र॒जावा᳚न्दी॒र्घो र॒यिᳶ पृ॑थुबु॒ध्नस्स॒भावान्॑ ॥ [20]
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यज्ञः पुनराभवत्वित्युक्तं, कीदृशः स आभवत्विति स विशेष्यते।  
 हे **अग्ने** गोभिर्बहुभिः अविभिर् अश्वैश् च तद्-वान् **नृवत्-सखा** मनुष्यवन्तो देवास् सखायो यस्य तादृशः । छान्दसम्मतुपो वत्वम् । **सदम् इत्** सदैवाप्रमृष्यः अनभिभवनीयः । 'ऋदुपधाच्चाकॢपिचृतेः' इति क्यप्, 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् । **इडावान्** अन्नवान् । 'दीर्घादटि समानपादे' इति नकारस्य संहितायां रुत्वम् । **प्रजावान्** दीर्घः सन्ततिमान् अविछिन्नः **पृथु-बुध्नः** विस्तीर्ण-मूलः **रयिः** साक्षाद्धनं च सभावान् गृहवान् **एष** ईदृशो यज्ञः पुनःपुनराभवतु आगच्च्छतु कालेकाले **असुर** असुमान् प्राणवान् । मत्वर्थीयो रः, सूलुक् ॥

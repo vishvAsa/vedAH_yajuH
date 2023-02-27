@@ -25,7 +25,7 @@ Bold art thou, support our prayer.
 धृष्टि॑रसि॒ ब्रह्म॑ यच्छ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 धृष्टिरुपवेषः । धृष्टिर्धर्षणे समर्थासि शत्रूणाम् । अतो ब्रह्म हविर्लक्षणमन्नं यच्छ देहि । किं हि नाम त्वया न शक्यते कर्तुमिति ॥
 </details>
@@ -53,7 +53,7 @@ O Agni, drive off the fire that eats raw flesh,
 अपा᳚ऽग्ने॒ऽग्निमा॒माद॑ञ्जहि ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने गार्हपत्य यस्त्वयि आमात् अग्निः तं जहि नाशय । आमात् अपक्वाशी हविषो विनाशकः । 'अदोऽनन्ने' (पा.सू. 3.2.68) इति विट्प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) ॥
 </details>
@@ -81,7 +81,7 @@ send away the corpse-eating one
 निष्क्र॒व्यादꣳ॑ से॒ध ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 क्रव्यादं अग्निं निस्सेध निष्कृष्य बहिरपनय । षिधू गत्यां, भौवादिकः । आममांसभक्षकः क्रव्यात् चिताग्निः । 'क्रव्ये च' (पा.सू. 3.2.69) इति विट्प्रत्ययः, पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
@@ -110,7 +110,7 @@ bring hither the fire that sacrifices to the gods.
 आ दे॑व॒यज॑व्ँवह ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 देवान् यजतीति देवयट्, हविषां सम्यक्सम्पादकः । 'अन्येभ्योपि दृश्यते' (पा.सू. 3.2.178) इति क्विप्प्रत्ययः । स एव प्रकृतिस्वरः । देवयजं अग्निम् आवह आनय । 'य एवामात्क्रव्यात्' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ॥
 </details>
@@ -140,7 +140,7 @@ The Raksas is burnt, the evil spirits are burnt.
 निर्द॑ग्ध॒ꣳ॒ रख्षो॒ निर्द॑ग्धा॒ अरा॑तयः ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्रत्युष्टादिना व्याख्यातम् (तै.सं. 1.1.2) ।  
 'अग्निवत्युपदधाति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ॥
@@ -181,7 +181,7 @@ Thou art firm; make firm the earth, make life firm, make offspring firm,
 प्र॒जान् दृꣳ॑ह ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ध्रुवं निश्चलं मध्यमं सर्वकपालानामसि । सर्वं तद्वत् ।
 
@@ -229,7 +229,7 @@ Thou art a supporter, make firm the atmosphere, make expiration firm, make inspi
 अपा॒नन्दृꣳ॑ह ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 धर्त्रं धारकं पुरस्तात्पुरोडाशस्यासि । 'धृञ् धारणे', 'गुधृविपचि' (उ.सू. 606) इत्यादिना त्रप्रत्ययः । अन्तरिक्षादिकं दृंह निश्चलं धारय ।
 
@@ -274,7 +274,7 @@ Thou are supporting, make the heaven firm, make the eye [1] firm, make the ear f
 श्रोत्र॑न्दृꣳह ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 धरुणं धारकं अपरतः पुरोडाशस्यासि । 'धारेर्णिलुक्च' इति उनन्प्रत्ययः । तत्त्वं द्युप्रभृतीनि दृंह । समानमन्यत् ।
 
@@ -319,7 +319,7 @@ Thou art a support, make the quarters firm, make the organ firm, make offspring 
 प्र॒जान्दृꣳ॑ह ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 धर्म धारकं दक्षिणतः पुरोडाशस्यासि । ध्रिञो मनिन् । अत्र तु प्रजननशक्तिः प्रजा ॥
 
@@ -363,7 +363,7 @@ Ye are gatherers, bring offspring to this sacrificer, wealth to him,
 र॒यिम् अ॒स्मै  [यज॑मानाय॒ पर्यू॑ह ] ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 चीयन्ते उपचीयन्ते इति चितः चितयः । यस्माच्चितः स्थ, तस्मादस्य यजमानस्य प्रजार्थं पर्यूहत परितश्चिनुत । प्रत्येकमभिधानादेकवचनम् । शिष्टं स्पष्टम् ॥
 </details>
@@ -393,7 +393,7 @@ Be ye heated with the heat of the Bhrgus and the Angirases.
 भृगू॑णा॒मङ्गि॑रसा॒न्तप॑सा तप्यध्वम् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 भृगवोङ्गिरसश्च तपस्विनः प्रसिद्धाः । तेषां तपसा तप्यध्वं तप्तानि भवत । कर्मणि लकारः । 'देवतानामेव' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ॥
 </details>

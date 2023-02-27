@@ -35,7 +35,7 @@ Cattle attend the cooked offerings of him who has established a fire
 पा॒क॒य॒ज्ञव्ँवा अन्वाहि॑ताग्नेᳶ प॒शव॒ उप॑ तिष्ठन्ते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अत्रेदमुक्तम् आचार्येण 
 
@@ -65,7 +65,7 @@ The cooked offering is the Ida;
 इडा॒ खलु॒ वै पा॑कय॒ज्ञः ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 इडा खल्वित्यादि । इडायाः प्राशनं पाकयज्ञः ।  
 </details>
@@ -86,7 +86,7 @@ it is placed in the world of the sacrifice between the fore- and the after-offer
 सैषान्त॒रा प्र॑याजानूया॒जान् यज॑मानस्य लो॒केऽव॑हिता ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 सैषेति । 'अन्तरान्तरेण' इति द्वितीया । यजमानस्य लोके स्थाने अवहितावस्थिता ।  
 </details>
@@ -109,7 +109,7 @@ Over it as it is brought up he should say, 'O thou of fair rain colour, come hit
 सुरू॑पवर्षवर्ण॒ एहीति॑।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तामित्यादि । पशुसाधनत्वात्ताच्छब्द्यम् ।  
 </details>
@@ -131,7 +131,7 @@ the cattle are the Ida; verily he summons cattle
 प॒शवो॒ वा इडा॑ प॒शूने॒वोप॑ ह्वयते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पशव इडेति । तस्मादिड एहीति पशूनेवोपह्वयते । 'निसमुपविभ्यो ह्वः' इत्यात्मनेपदम् ॥
 </details>
@@ -153,7 +153,7 @@ The gods milked the sacrifice,
 य॒ज्ञव्ँवै दे॒वा अदु॑ह्रन् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2यज्ञं वा इत्यादि ॥ दुहेर्लङि 'बहुलं छन्दसि' इति रुट् । 'वैवावेति च छन्दसि' इति निघाताभावः ।  
 </details>
@@ -173,7 +173,7 @@ the sacrifice milked the Asuras;
 य॒ज्ञोऽसु॑राꣳ अदुहत् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अदुहदिति व्यत्ययेन च्लेरङ् ।  
 </details>
@@ -194,7 +194,7 @@ the Asuras, being milked by the sacrifice, were defeated;
 तेऽसु॑रा य॒ज्ञदु॑ग्धा॒ᳶ परा॑ऽभवन् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यज्ञेन दुग्धा यज्ञदुग्धाः । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । पराभवनं विनाशः । दोहनं हि रिक्तीकरणम् । 'दुह प्रपूरणे' इति प्रशब्दो हि धात्वर्थनिवृत्तिमाचष्टे प्रस्मरणं प्रस्थानमिति यथा । यज्ञस्तु देवैर्दुग्धोपि स्वमहिम्ना पुनःपुनराप्यायते गौरिव ।  
 </details>
@@ -216,7 +216,7 @@ he, who knowing the milking of the sacrifice [1] sacrifices, milks another sacri
 यो वै य॒ज्ञस्य॒ दोह॑व्ँवि॒द्वान् [1] यज॒तेऽप्य॒न्यय्ँयज॑मानन्दुहे।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यो वा इत्यादि ।  
 </details>
@@ -244,7 +244,7 @@ verily with it he milks it.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 सा मे सत्याशीरित्यादिवचनं यज्ञस्य दोहः । अनेन मन्त्रेण यज्ञो ऽसुरान् अधुक्षत् ।  
 दुह इति पूर्ववत् तलोपः ।  
@@ -269,7 +269,7 @@ and willingly the Ida is milked for the sacrificer;
 प्रत्तेडा॒ यज॑मानाय दुहे ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 3प्रत्तेत्यादि ॥ पयः प्रदातुम् आरब्धवती **प्रत्ता** वत्स-लेहनेन प्रस्नुत-स्तनी गौः । आदिकर्मणि क्तः, 'अच उपसर्गात्तः' इति तत्वम् ।  
 दुहे दुग्धे भूयिष्ठं क्षीरं क्षारयति । 
@@ -293,7 +293,7 @@ these are the teats of Ida, 'Ida is invoked'-Vayu is the calf-
 ए॒ते वा इडा॑यै॒ स्तना॒ इडोप॑हू॒तेति॑ वा॒युर्व॒थ्सः।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 एते वा इत्यादि । इडोपहूतेत्यादयो मन्त्राः अस्यास्स्तनस्थानीयाः ; दोहनसाधनत्वात्स्तनत्वेन रूप्यन्ते स्तनापेक्षत्वाद्दोहस्य । वायुर्वत्सस्थानीयः प्राणवृत्तिरूपत्वात् ।  
 </details>
@@ -319,7 +319,7 @@ verily he lets the calf go to the mother
 मा॒त्रे व॒थ्समु॒पाव॑सृजति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यर्हीत्यादि । `अनद्यतने र्हिल् अन्यतरस्याम्' इति र्हिल् । वायुमित्यादि । किं कृतं भवतीत्याह - मात्र इति । दोहार्थं मातृसकाशं वत्सं प्रापयतीत्यनेन प्रदेशान्तरमृता एतेनेति ।  [ ...न्तरं गता एव ते इति ।] +++(अत्र कोपि व्यत्यासः वर्तते , परिशीलनीयः)+++
   'उदात्तयणः' इति चतुर्थ्या उदात्तत्वम् ॥
@@ -353,7 +353,7 @@ Manu laboured with the cooked offering;
 पा॒क॒य॒ज्ञेन॒ मनु॑रश्राम्यत् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4सर्वेणेत्यादि ॥ **अश्राम्यत्** पाकयज्ञमात्रानुष्ठान-तत्परोभवत् ।  
 </details>
@@ -374,7 +374,7 @@ the Ida went to Manu;
 सेडा॒ मनु॑मु॒पाव॑र्तत ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ततस् **सेडा मनुमुपावर्तत** । तस्मादियं मानवीत्युच्यत इत्यभिप्रायः ।  
 </details>
@@ -395,7 +395,7 @@ the gods and the Asuras called severally upon her,
 तान्दे॑वासु॒रा व्य॑ह्वयन्त ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तामित्यादि । व्यह्वयन्त विविधमाह्वयन् । पूर्ववदात्मनेपदम् ।  
 </details>
@@ -419,7 +419,7 @@ the Asuras indirectly;
 परा॑ची॒मसु॑राः ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्रतीचीं स्वात्माभिमुखावस्थानाम्, पदाभ्यासात् । 'चौ' इति पूर्वपदस्य दीर्घत्वमन्तोदात्तत्वं च ।  
 </details>
@@ -446,7 +446,7 @@ cattle deserted the Asuras-
 प॒शवोऽसु॑रानजहुः ।   
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पराचीं पराङ्मुखावस्थानाम्, पदाभ्यासाभावात् । 'अनिगन्तोञ्चतौ' इति गतेः प्रकृतिस्वरत्वं च । केचिदाहुः - 'इडोपहूतेति प्राची, उपहूतेडेति पराची । पशवो वा इत्यादि । इडायाः प्रतीचीनत्वेन पशव एव देवानवृणत इति वेदितव्यम् । पराचीनत्वेनासुरान् पशवोऽजहुरत्यजन् । 'सिज भ्यस्त इति जुस् ॥
 </details>
@@ -478,7 +478,7 @@ verily he becomes rich in cattle-
 प्र॒तीची॒न्तस्येडा॒मुप॑ह्वयेत पशु॒माने॒व भ॑वति।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 5यमित्यादि । गतम् ॥
 </details>
@@ -507,7 +507,7 @@ The theologians say, 'He would invoke the Ida indeed who in invoking the Ida sho
 य इडा॑मुप॒हूया॒त्मान॒मिडा॑यामुप॒ह्वये॒तेति॑ ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 6ब्रह्मवादिन इत्यादि ॥ ब्रह्म वेदः तद्वदितुं शीलं येषामीति 'ब्रह्मणि वदः' इति णिनिः ; संहितायां तोरन्त्यलोपश्छान्दसः । उक्तं च प्रातिशाख्ये - 'तुनुपूर्व उदात्तयोर्वकारः' इति । य इडामात्मनि उपहूयात्मानमिडायामुपह्वयते स एवेडामुपह्वातुमर्हतीति ब्रह्मवादिन आहुः ॥
 </details>
@@ -530,7 +530,7 @@ The theologians say, 'He would invoke the Ida indeed who in invoking the Ida sho
 इडा॑मे॒वोप॒हूया॒ऽऽत्मान॒मिडा॑या॒मुप॑ ह्वयते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 7सा न इत्यादि ॥ सुप्रतूर्तित्वान्मघवत्त्वाच्च सास्माकं प्रियेति आत्मानमिडायामुपह्वयते ।  
 </details>
@@ -557,12 +557,12 @@ The Ida is as it were a breach in the sacrifice; half they eat [4], half they wi
 सा॒मि मा᳚र्जयन्ते  ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **व्यस्तम्** इत्यादि । विच्छेद इवैष यज्ञस्य क्रियते यदिडा नाम । कथमित्याह - सामीत्यादि । तत्र हविषो यद् एकदेशं **प्राश्नन्ति** यजमानपञ्चमा ऋत्विजः, एकदेशं प्रस्तरे माजर्यन्ते, नायं यज्ञो न दक्षिणा व्यय एवायं ; तस्माद्विच्छिद्यते यज्ञ इति । 'चादिलोपे विभाषा' इति प्रथमा, तिङ्विभक्तिर्न निहन्यते, गतिस्वरसमासावुक्तौ ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 8व्यस्तमिति ॥ भावे निष्ठायां व्यत्ययेन गतेः प्रकृतिस्वरत्वम् । 'उदात्तस्वरितयोर्यणः' इत्याकारस्स्वर्यते ।  
 </details>
@@ -583,7 +583,7 @@ in this regard the sacrifice of the Asuras was broken;
 ए॒तत्प्रति॒ वा असु॑राणाय्ँय॒ज्ञो व्य॑च्छिद्यत ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 एतत्प्रतीति । अत एवैतस्मिन् प्रदेशे असुराणां यज्ञो व्यच्छिद्यत अतः परं लुप्त एवाभवत् । लक्षणादिना प्रतेः कर्मप्रवचनीयत्वम् ।  
 </details>
@@ -604,7 +604,7 @@ the gods united it by the holy power (Brahman)-
 ब्रह्म॑णा दे॒वास्सम॑दधुः ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 देवास्तु विच्छिन्नं यज्ञं ब्रह्मणि समदधुः संहितमकुर्वन् ।  
 </details>
@@ -634,7 +634,7 @@ verily by the holy power (Brahman) he unites the sacrifice-
 विच्छि॑न्नय्ँय॒ज्ञꣳ समि॒मन्द॑धा॒त्वित्या॑ह॒ सन्त॑त्यै ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात् 'बृहस्पतिस्तनुतामिमं नः' इति मार्जनमन्त्रे वचनं ब्रह्मणि सन्धानप्रतिपादनार्थं, विच्छिन्नमिति वचनं सन्तत्यै । ब्रह्मणा समदधुरित्युक्ते ब्रह्मप्रतिपादनस्याकाङ्क्षितत्वात् तृतीयः पादः प्रथमं व्याख्यातः ।  
 </details>
@@ -661,7 +661,7 @@ verily continuing the sacrifice he indicates it to the gods-
 स॒न्तत्यै॒व य॒ज्ञन्दे॒वेभ्योऽनु॑ दिशति।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ततो द्वितीयः - विश्व इति । विच्छिन्नं यज्ञं सन्तत्यैव सन्धाय देवेभ्योनुदिशति । इह संहिते यज्ञे देवा माद्यन्तु मोपेक्षां कृषतेति बोधयति ॥
 </details>
@@ -683,7 +683,7 @@ The [5] sacrificial fee which he gives at the sacrifice his cattle accompany;
 याव्ँवै [5] य॒ज्ञे दख्षि॑णा॒न्ददा॑ति॒, ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 9यां वा इत्यादि ॥ अत्र 'ब्रध्न पिन्वस्व' इति बर्हिषदं पुरोडाशमनुमन्त्रयते, स च ऋत्विग्भ्यो दक्षिणैव दीयते ।  
 
@@ -706,7 +706,7 @@ he having sacrificed is like to become without cattle;
 स ए॒ष ई॑जा॒नो॑ऽप॒शुर्भावु॑कः ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 स एष यजमानः ईजानः दक्षिणादानान्तं सर्वं यज्ञं कृतवान् अपशुर्भावुकः भविता । 'लषपतपद' इत्युकञ् ।  
 </details>
@@ -728,7 +728,7 @@ he having sacrificed is like to become without cattle;
 यज॑मानेन॒ खलु॒ वै तत्का॒र्य॑मित्या॑हु॒र्यथा॑ देव॒त्रा द॒त्तङ्कु॑र्वी॒तात्मन्प॒शून्र॒मये॒तेति॒
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तस्माद्यजमानेन तादृशं किञ्चित्कर्तव्यं, येन देवत्रा देवेषु ऋत्विक्षु दत्तं पुरोडाशमेव कुर्वीत कर्तुं समर्थस्स्यात्, आत्मन्येव पशून्नमयते । 'देवमनुष्य' इति त्राप्रत्ययः ।  
 </details>
@@ -761,7 +761,7 @@ but keeps his cattle with himself-
 
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ब्रध्न पिन्वस्वेत्यादि । महयति महान्तं करोति ; महितं वा करोति । गतमन्यत् ।
 

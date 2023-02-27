@@ -14,12 +14,12 @@ unicode_script = "devanagari"
 कर्म॑णे वान्दे॒वेभ्य॑श्शकेय॒"मित्या॑ह॒ शक्त्यै᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 1कर्मणे वामित्यादि ॥ 'कर्मणे वाम्' इतीह कर्मारम्भे हस्तयोस्संमर्शनम् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 1कर्मणे वामित्यादि ॥ 'कर्मणे वाम्' इतीह कर्मारम्भे हस्तयोस्संमर्शनम् ।
 </details>
@@ -38,7 +38,7 @@ unicode_script = "devanagari"
 य॒ज्ञस्य॒ सन्त॑तिरसि य॒ज्ञस्य॑ त्वा॒ सन्त॑त्यै स्तृणामि॒ सन्त॑त्यै ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यज्ञस्य वा इति । लक्षणेऽनोः कर्मप्रवचनीयत्वम् ।
 </details>
@@ -55,7 +55,7 @@ unicode_script = "devanagari"
 यज॑मानस्य प्र॒जायै॑ पशू॒नाꣳ सन्त॑त्यै ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 आहवनीयादिति । गार्हपत्यात्प्रक्रम्य संततामुलपराजीं स्तृणात्याहवनीयात् ॥
 </details>
@@ -77,7 +77,7 @@ unicode_script = "devanagari"
 वेषा॑य॒ ह्ये॑नदाद॒त्ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 3वेषाय त्वेति शूर्पादानम् ॥ वेषाय व्यापनाय कर्मणे शूर्पमादत्ते॥
 </details>
@@ -94,7 +94,7 @@ unicode_script = "devanagari"
 रख्ष॑सा॒मप॑हत्यै ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4प्रत्युष्टमिति प्रतितपनम् ॥
 </details>
@@ -115,7 +115,7 @@ unicode_script = "devanagari"
 उ॒प॒स्पृश्यात्ये॑त्य् अ॒ध्व॒र्योश्च॒ यज॑मानस्य॒ चाप्र॑दाहाय ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 5धूरसीति धुरोऽभिमर्शनम् ॥ धुर्य इति । यज्ञस्य धुरो वोढा धुर्यः । 'धुरो यढ्ढकौ' ॥
 </details>
@@ -134,7 +134,7 @@ unicode_script = "devanagari"
 यञ्चै॒व धूर्व॑ति॒ यश्चै॑न॒न्धूर्व॑ति॒ तावु॒भौ शु॒चाऽर्प॑यति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 6धूर्वन्तमिति ॥ धुर्वी हिंसायाम् । 'उपधायां च' इति दीर्घत्वम् ॥
 </details>
@@ -157,7 +157,7 @@ unicode_script = "devanagari"
 "दृꣳह॑स्व॒ मा ह्वा॒"रित्या॑ह॒ धृत्यै᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 7त्वं देवानामिति अनसोऽभिमन्त्रणम् ॥ यथायजुर्वदति अनसो माहात्म्यं तथा सर्वमेतदस्त्वेव ॥
 </details>
@@ -176,7 +176,7 @@ unicode_script = "devanagari"
 यद्वै किञ्च॒ वातो॒ नाभि॒वाति॒ तथ्सर्व॑व्ँवरुणदेव॒त्य᳚म् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 8मित्रस्य त्वेति पुरोडाशीयानां प्रोक्षणम् ॥
 </details>
@@ -193,7 +193,7 @@ unicode_script = "devanagari"
 अवा॑रुणमे॒वैन॑त्करोति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 9उरुवातायेति तृणादिनिरसनम् ॥ यद्वातो न प्रविशति तद्वरुणदेवत्यं वारकेण तमसा गृहीतं, तत् तस्मात् तृणादिनिरसनेन वातसञ्चारार्थं महानवकाशः क्रियत इति यावत् ॥
 </details>
@@ -240,7 +240,7 @@ unicode_script = "devanagari"
 स ए॒वमे॒वानु॑पू॒र्वꣳ ह॒वीꣳषि॒ निर्व॑पति ॥33॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 10देवस्यत्वेति हविषो निर्वापणम् ॥ व्याख्यातम् । हवींषीति । अग्नीषोमीयादीनि ॥
 </details>
@@ -255,7 +255,7 @@ unicode_script = "devanagari"
 "इ॒दन्दे॒वाना॑मि॒दमु॑ नस्स॒हे"त्या॑ह॒ व्यावृ॑त्यै ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 11इदं देवानामिति निरुप्ताभिमर्शनम् ॥ इदमु न इति निरुप्तशेषाभिमर्शनम् । व्यावृत्तिः निरुप्तानिरुप्तविभागः ॥
 </details>
@@ -281,7 +281,7 @@ unicode_script = "devanagari"
 यᳶ प॑री॒णहि॑ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 12स्फात्या इति कोष्ठादौ शिष्टावपनम् ॥ परीणत् गहम्, आवपनं वा ॥
 </details>
@@ -296,7 +296,7 @@ unicode_script = "devanagari"
 "सुव॑र॒भि विख्ये॑षव्ँ वैश्वान॒रञ्ज्योति॒"रित्या॑ह ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 13सुवरिति आहवनीयानुवीक्षणम् ॥
 </details>
@@ -313,7 +313,7 @@ unicode_script = "devanagari"
 द्यावा॑पृथि॒वी ह॒विषि॑ गृही॒त उद॑वेपेताम् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 सुवरेवेति । सुष्ठु श्रेयसां गमयितृ ज्योतिः आहवनीयम् ॥
 </details>
@@ -330,7 +330,7 @@ unicode_script = "devanagari"
 गृ॒हाणा॒न्द्यावा॑पृथि॒व्योर्धृत्यै᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 14दृंहन्तामिति गृहानुवीक्षणम् ॥
 </details>
@@ -345,7 +345,7 @@ unicode_script = "devanagari"
 "उ॒र्व॑न्तरि॑ख्ष॒मन्वि॒ही"त्या॑ह॒ गत्यै᳚ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 15उर्विति गमनम् ॥
 </details>
@@ -364,7 +364,7 @@ unicode_script = "devanagari"
 अ॒स्या ए॒वैन॑दु॒पस्थे॑ सादयति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 16अदित्या इति परेण गार्हपत्यमाहवनीयं वा सादनम् ॥
 </details>
@@ -379,7 +379,7 @@ unicode_script = "devanagari"
 "अग्ने॑ ह॒व्यꣳ र॑ख्ष॒स्वे"त्या॑ह॒ गुप्त्यै᳚ ॥34॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 17अग्ने हव्यमिति गार्हपत्याभिमन्त्रणम् ॥
 </details>

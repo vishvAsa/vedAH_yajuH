@@ -42,7 +42,7 @@ Prajapati created the sacrifices, the Agnihotra, the Agnistoma, the full moon sa
 अ॒मा॒वा॒स्या᳚ञ्चातिरा॒त्रञ्च॑ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अग्निहोत्रं व्याख्यातम् ।  
 अग्निष्टोम एकाहानां प्रकृतिभूतं कर्म । अग्नेस्स्तोमः यज्ञायज्ञीयं सामाग्निष्टोमम्; तत्प्रधानत्वात् तत्-संस्थमपि कर्माग्निष्टोम उच्यते । 'अग्नेस्तुत्स्तोमसोमाः' इति षत्वम् ।  
@@ -102,7 +102,7 @@ he who knowing thus offers the new moon sacrifice obtains as much as by offering
 याव॑दतिरा॒त्रेणो॑पा॒प्नोति॒ ताव॒दुपा᳚ऽऽप्नोति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तानित्यादि । ऊर्ध्वमानमुन्मानं तुलापरिच्छेदः । तत्राग्निहोत्रादिभिस्तुल्यगौरवात् अग्निष्टोमादयो दृश्यन्ते । तस्मादेवं विदित्वाग्निहोत्रादिकं कुर्वन्नग्निष्टोमादिफलमाप्नोति । प्रासङ्गिकमग्निहोत्रग्रहणम्, उन्मानेन सहभावात् ॥
 </details>
@@ -126,7 +126,7 @@ and by means of it he reached the supreme goal.
 तेन॒ स प॑र॒माङ् काष्ठा॑म् अगच्छत् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2पुनरपि दर्शपूर्णमासयोस्स्तुतिः - परमेष्ठिन इत्यादि ॥ परमे महिम्नि तिष्ठतीति परमेष्ठी । उणादिषु निपात्यते । सर्वदेवतासमष्टिः परमात्मोच्यते । तस्यैष यज्ञो दर्शश्च पूर्णमासश्च अग्रे आदावासीत् ।
 
@@ -169,7 +169,7 @@ He furnished Agni and Soma with it, and by means of it Agni and Soma reached the
 तेना॒ग्नीषोमौ॑ पर॒माङ्काष्ठा॑मगच्छताम् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तेन यज्ञेन स परमेष्ठी प्रजापतिं जगतां स्रष्टारं निरवासाययत् देवतान्तरेभ्यो व्यावृत्तमुत्कर्षिणमकरोत् । निरवसानमुत्कर्षः ।  
 यथा - तस्माज्ज्येष्ठं पुत्रं धनेन निरवसाययन्ति' इति । निरवपूर्वात्स्यतेर्णिचि शाच्छासाह्वा' इति युक्, गतिद्वयमप्याख्यातेन समस्यते, गतिर्गर्तौ' इति प्रथमोनुदात्तः, `उदात्तवता च तिङा सह' इति समास(निषेधः) । एवं सर्वत्र ।
@@ -193,7 +193,7 @@ He who [2] knowing thus offers the new and full moon sacrifices reaches the supr
 पर॒मामे॒व काष्ठा᳚ङ्गच्छति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 या प्राणिनां सदा निरतिशयानन्द-निर्वृत्ति-दायिनी शाश्वती पुनर्जन्मच्छेदिनी सा परमा काष्ठा,  
 तां गच्छति प्राप्नोत्येव ।
@@ -224,7 +224,7 @@ these are to be produced', they say.
 द्वाद॑श॒ मासाः᳚ सव्ँवथ्स॒रो द्वाद॑श द्व॒न्द्वानि॑ दर्शपूर्णमा॒सयो॒स्तानि॑ स॒म्पाद्या॒नीत्या॑हुः ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यो वा इत्यादि । प्रजातो जातप्रजः । यथा संवत्सरस्य द्वादश मासाः, एवं द्वादश द्वन्द्वानि दर्शपूर्णमासयोस्सन्ति, तानि सम्पाद्यानि क्रियाविशेषैर् इत्याहुः । द्वेद्वे संयुक्ते द्वन्द्वं यज्ञपात्रयोगे निपात्यते ॥
 </details>
@@ -247,7 +247,7 @@ He lets the calf go free and puts the pot on the fire:
 उ॒खाञ्चाधि॑ श्रय॒ति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 3अथ तानि दर्शयति - वत्सं चेत्यादि ॥ एतैः क्रियाविशेषैः द्वन्द्वानि सम्पद्यन्ते; तेन द्वन्द्वबहुत्वेपि द्वन्द्वसम्पादनक्रियापेक्षं द्वादशत्वं वेदितव्यम् । वत्समुपावसृजति मातृसकाशं प्रापयाति । अनेनोपावसर्जनेन मातृवत्सयोः द्वन्द्वभावस्सम्पद्यते । एवं सर्वत्र  द्रष्टव्यम् । एतानि याजमानप्रकरणगतान्यपि अध्वर्युणैव कर्तव्यानि । उक्तं च - 'याजमाने समाख्यानात्कर्मणि याजमानं स्युः' इत्यत्र ।
 
@@ -273,7 +273,7 @@ he puts down (the rice), and beats the millstones together;
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अवहन्ति व्रीहीनुलूखले ।  
 दृषदौ च समाहन्ति शम्यया ।
@@ -297,7 +297,7 @@ he scatters (the grains) and collects the potsherds;
 क॒पाला॑नि॒ चोप॑ दधाति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अधिवपति दृषदि तण्डुलान् ।   
 कपालान्य् उपदधात्य् अङ्गारेषु ।  
@@ -321,7 +321,7 @@ the cake [3] he puts on the fire and the melted butter;
 आज्य॑ञ्च  +++(अधिश्रयति)+++  ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पुरोडाशं चाधिश्रयति कपालेषु ।  
 आज्यं चाधिश्रयतीत्येव ।   
@@ -345,7 +345,7 @@ he throws the clump of grass, and gathers it in;
 अ॒भि च॑ गृह्णाति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 स्तम्बयजुर्हरति ।  
 सतृणं पुरीषम् अभिगृह्णाति ।
@@ -370,7 +370,7 @@ he surrounds the Vedi and he girds the wife (of the sacrificer);
 
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 न्युप्तमञ्जलिनाग्नीध्रः वेदिं परिगृह्णाति ।    
 स्फ्येनोत्तरं परिग्राहम् ।  
@@ -395,7 +395,7 @@ he puts in place the anointing waters and the melted butter.
 आज्य॑ञ्च  +++(अवसादयति)+++  ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्रोक्षणीरप आसादयति ।   
 आज्यं चावसादयतीत्येव, स्रुग्-गृहीतमित्यर्थः ॥
@@ -426,7 +426,7 @@ with cattle, with pairings.
 प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते ॥ [32]
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4एतनि वा इत्यादि ॥ गतम् ॥
 

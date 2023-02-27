@@ -26,7 +26,7 @@ title = "३७ राजगवी होमः"
 Citta with the sinew, 
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 परमेश्वरस्य प्रपञ्चाधिष्ठातृरूपाण्युच्यन्ते एते शरीरहोमाः इमां देवतां अनेन यजामीति । **चित्तं** महान् तस्य अधिष्ठाता **सन्तानः** पुत्रपौत्रादिः आन्त्रं माला पुरीतदित्येके ।  
 </details>
@@ -47,7 +47,7 @@ Bhava with the liver,
 भ॒वय्ँय॒क्ना  +++(यजामि)+++ ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 भवः अपामधिष्ठाता । यकृत् कृष्णो मांसविशेषः ।  
 </details>
@@ -69,7 +69,7 @@ Rudra with the taniman,
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 रुद्रः आदित्यस्याधिष्ठाता । **तनिमा** पद्मदलवत् - ततो मांसविशेषः ।   
 </details>
@@ -91,7 +91,7 @@ Paśupati with the thick heart,
 पशु॒पतिꣵ॑ स्थूलहृद॒येन  +++(यजामि)+++ ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पशुपतिः पृथिव्या अधिष्ठाता । स्थूलहृदयं पद्मकोशाकारो मांसविशेषः ।
 </details>
@@ -113,7 +113,7 @@ Agni with the heart,
 अ॒ग्निꣳ हृद॑येन  +++(यजामि)+++ ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अग्निः अग्नेरधिष्ठाता । हृदयं सूक्ष्माकाशाधारः प्रदेशविशेषः ।  
 </details>
@@ -135,7 +135,7 @@ Rudra with the blood,
 रु॒द्रल्ँलोहि॑तेन  +++(यजामि)+++ ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 रुद्रः यजमानस्य अधिष्ठाता । लोहितं रक्तम् ।   
 </details>
@@ -155,7 +155,7 @@ Rudra with the blood,
 श॒र्वम्मत॑स्नाभ्याम्  +++(यजामि)+++ ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 शर्वं आकाशस्य अधिष्ठाता । **मतस्ने** दीर्घौ सिराविशेषौ ।  
 </details>
@@ -177,7 +177,7 @@ Mahadeva with the intestinal flesh,
 म॒हा॒दे॒वम॒न्तᳶपा᳚र्श्वेन ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **महादेवः** प्राणस्य वायोरधिष्ठाता । **अन्तःपार्श्वं** पार्श्वयोरन्तः अन्तःपार्श्वम् ।
 </details>
@@ -199,7 +199,7 @@ him that slayest most quickly with the entrails.
 ओ॒षि॒ष्ठ॒हनꣳ॑ शिङ्गी-निको॒श्या᳚भ्याम्+++(=??)+++   +++(यजामि)+++ ॥ [37]  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **ओषिष्ठहा** ओषधि-पक्ष-गामी [ओषिष्ठः क्षयपक्षः तद्गामी] चन्द्रः । ओषितृशब्दात् 'तुश्छन्दसि' इति इष्ठन्प्रत्ययः।  
 
