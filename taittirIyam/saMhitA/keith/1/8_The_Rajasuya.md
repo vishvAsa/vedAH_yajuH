@@ -2,19 +2,6 @@
 title = "8 The Rajasuya"
 
 +++
-
-### h
-
-### i
-May the Pitrs restore mind to us,  
-May the host of the gods;  
-May we belong to the band of the living.
-### k
-Whatever hurt we have done to atmosphere, to earth, to sky,  
-To mother or to father,  
-May Agni of the house free me from this sin;  
-May he make me blameless  
-In respect of all the ill we have wrought.
 ## 06
 ### a
 For each he offers on one potsherd, and one over.
