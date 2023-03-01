@@ -77,7 +77,7 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 पू॒र्णा द॑र्वि॒ परा॑ पत॒  
 सुपू᳚र्णा॒ पुन॒र् आप॑त ।   
@@ -113,7 +113,7 @@ Let us barter food and strength.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 दे॒हि मे॒, ददा॑मि ते॒  
 नि मे॑ धेहि॒, नि ते॑ दधे ।    

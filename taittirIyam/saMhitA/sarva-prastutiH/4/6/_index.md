@@ -1,5 +1,5 @@
 +++
-title = "6"
+title = "+6"
 unicode_script = "devanagari"
 
 +++

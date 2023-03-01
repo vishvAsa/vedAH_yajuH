@@ -16,7 +16,7 @@ title = "१० वाजप्रसवीयादि"
 तत्राद्यास्तिस्रस्त्रिष्टुभः, अन्त्या अनुष्टुभः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वाज॑स्ये॒मम् +++(→सोमं)+++ प्र॑स॒वस् **सु॑षुवे॒**  
 अग्रे॒ सोम॒ꣳ॒ राजा॑न॒म् ओष॑धीष्व् अ॒फ्सु ।  
@@ -50,7 +50,7 @@ May we as Purohitas watch over the kingship.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वाज॑स्ये॒दम् प्र॑स॒व **आ ब॑भूव  
 +इ॒मा** च॒ विश्वा॒ भुव॑नानि स॒र्वतः॑ ।   
@@ -78,7 +78,7 @@ Increasing offspring and prosperity for us.
 वाजस्य प्रसवः प्रसवहेतुः इदं कर्म आ बभूव उदपादि । अनन्तरं चेमानि विश्वानि भुवनानि भूतजातान्या बभूवुः । सर्वतः सर्वेण प्रकारेण । 'शेश्छन्दसि' इति शेर्लोपः । स वाजस्य प्रसवः अन्नं वा कर्म वा विराजं प्रजापति कर्मपक्षे अन्नं पर्येति प्राप्नोति । प्रजानन् प्रजानन्निव मयैतत्कर्तव्यमिति विद्वानिव प्रजां पुष्टिञ्च वर्धयमानः वर्धयितुम् । हेतौ शानच्, अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । अस्मे अस्माकं अस्मदर्थम् । 'सुपां सुलुक्' इति शे आदेशः, उदात्तनिवृत्तिस्वरेण तस्योदात्तत्वम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वाज॑स्ये॒माम् प्र॑स॒वश् **शि॑श्रिये॒** दिव॑म्  
 इ॒मा च॒ विश्वा॒ भुव॑नानि स॒म्राट् ।   
@@ -112,7 +112,7 @@ And may he accord us wealth [1] with all heroes.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अग्ने॒ अच्छा॑ **वदे॒ह** न॒ᳶ  
 प्रति॑ नस् सु॒मना॑ **भव** ।   
@@ -147,7 +147,7 @@ Thou art the giver of wealth to us.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **प्र** णो॑ **यच्छत्व्** अर्य॒मा  
 प्र भग॒ᳶ प्र बृह॒स्पतिः॑ ।  
@@ -181,7 +181,7 @@ May the goddess speech be bountiful to us.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ॒र्य॒मण॒म् बृह॒स्पति॒म्  
 इन्द्र॒न् **दाना॑य चोदय** ।  
@@ -216,7 +216,7 @@ And Savitr the strong.
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सोम॒ꣳ॒ राजा॑न॒व्ँ वरु॑णम्  
 अ॒ग्निम् **अ॒न्वार॑भामहे**+++(=आलभामहे)+++ ।  
@@ -285,7 +285,7 @@ with the bond of Sarasvati, of speech, the binder, I anoint thee with the lordsh
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्र॑स्य॒ साम्रा᳚ज्येना॒भिषि॑ञ्चामि ॥  
-बृह॒स्पते᳚स्त्वा॒ साम्रा᳚ज्येना॒भिषि॑ञ्चामि ॥
+बृह॒स्पते᳚स् त्वा॒ साम्रा᳚ज्येना॒भिषि॑ञ्चामि ॥
 </details>
 
 <details><summary>Keith</summary>

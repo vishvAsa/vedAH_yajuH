@@ -140,7 +140,7 @@ title = "१२ काम्येष्टिमन्त्राः"
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्र स॒म्राज॑म्, प्रथ॒मम् अ॑ध्व॒राणा᳚म्, [48]   
 अꣳहो॒मुच॑व्ँ, वृष॒भय्ँ य॒ज्ञिया॑नाम् ।  
@@ -188,7 +188,7 @@ Do ye confer power and strength on this one.
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वि न॑ इन्द्र॒ मृधो॑+++(=योद्धॄन्)+++ जहि  
 नी॒चा य॑च्छ पृतन्य॒तः+++(←पृतना + क्यच्)+++ ।   
@@ -238,7 +238,7 @@ Who is hostile to us.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **मृ॒गो** न भी॒मᳵ कु॑च॒रो गि॑रि॒ष्ठाᳶ  
 प॑रा॒वतः॒ [49] **आ ज॑गामा॒** पर॑स्याः ।  
@@ -281,7 +281,7 @@ Smite the foes, drive away the enemy.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वि शत्रू॒न् वि मृधो॑ नुद॒  
 वि वृ॒त्रस्य॒ हनू॑ रुज ।   
@@ -316,7 +316,7 @@ Of him who is hostile to us.
 16 'इन्द्राय त्रात्रे पुरोडाशमेकादशकपालं निर्वपेद्बद्धो वा परियत्तो वा' इत्यस्य पुरोनुवाक्या - त्रातारमिन्द्रमिति त्रिष्टुप् ॥ 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 त्रा॒तार॒म् इन्द्र॑म् अवि॒तार॒म् इन्द्र॒ꣳ॒  
 हवे॑हवे सु॒हव॒ꣳ॒ शूर॒म् इन्द्र᳚म् ।   
@@ -351,7 +351,7 @@ May Indra in his bounty bestow on us prosperity
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **मा** ते॑ अ॒स्याम् [50] सहसाव॒न्+++(←सहः)+++  
 परि॑ष्टाव्+++(=परितः)+++ अ॒घाय॑ **भूम** हरिवᳶ, परा॒दै+++(=परादातुम्)+++ ।   
