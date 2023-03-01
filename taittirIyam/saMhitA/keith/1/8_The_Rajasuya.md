@@ -2,60 +2,6 @@
 title = "8 The Rajasuya"
 
 +++
-## 04
-### a
-### b
-### c
-Give thou to me; I shall give to thee;  
-Bestow upon me; I shall bestow upon thee;  
-Accept my offering;  
-I shall accept thy offering [1].
-### d
-To the Maruts, the playful, he offers a cake on seven potsherds at the rising of the sun; he ofibrs to Agni on eight potsherds, an oblation to Soma, to Savitr on twelve potsherds, to Sarasvati an oblation, to Pusan an oblation, to Indra and Agni on eleven potsherds, to Indra an oblation, to Viśvakarman on eleven potsherds.
-## 05
-### a
-He offers to Soma with the Pitrs a cake on six potsherds, to the Pitrs who sit on the straw fried grains, for the Pitrs prepared by Agni he milks a beverage from a cow which has to be won over (to another calf).
-### b
-This for thee, O father, and for thy line;  
-This for thee, O grandfather, great-grandfather, and for thy line  
-Do ye Pitrs rejoice in your portions.
-### c
-May we gladden thee,  
-O bountiful one, fair to see;  
-Forth now with full chariot seat
-
-Being praised, dost thou fare according to our will;  
-Yoke, O Indra, thy two bay steeds [1].
-### d
-They have eaten, they have rejoiced,  
-The dear ones have dispelled (evil),  
-The radiant sages have been praised with newest hymn;  
-Yoke, O Indra, thy two bay steeds.
-### e
-The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pitrs have purified themselves.
-### f
-Go away, O ye Pitrs, Soma loving,  
-With your majestic ancient paths;  
-Then reach ye the kindly Pitrs  
-Who carouse in company with Yama.
-### h
-Mind let us summon hither  
-With the praise of Naraśansa  
-And the reverence of the Pitrs.
-### h
-Let mind return to us [2]  
-For vigour, for insight, for life,  
-And that long we may see the sun.'
-### i
-May the Pitrs restore mind to us,  
-May the host of the gods;  
-May we belong to the band of the living.
-### k
-Whatever hurt we have done to atmosphere, to earth, to sky,  
-To mother or to father,  
-May Agni of the house free me from this sin;  
-May he make me blameless  
-In respect of all the ill we have wrought.
 ## 06
 ### a
 For each he offers on one potsherd, and one over.
