@@ -215,7 +215,7 @@ ____
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/05_haviHproxaNAdiH/avadhUtaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
