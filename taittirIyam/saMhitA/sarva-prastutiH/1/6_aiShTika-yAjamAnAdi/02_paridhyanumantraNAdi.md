@@ -169,7 +169,7 @@ _______
 6हवींष्यासन्नान्य् अभिमन्त्रयते - यन्मे अग्न इति त्रिष्टुभा ॥ 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 यन् मे॑ अग्ने अ॒स्य य॒ज्ञस्य॒ **रिष्या᳚त्** [4]  
 यद् वा॒ **स्कन्दा॒द्** आज्य॑स्यो॒त वि॑ष्णो ।   
@@ -238,17 +238,21 @@ _______
 
 उच्छु॑ष्मो अग्ने॒ यज॑मानायैधि॒  
 नि+++(=न्यक्)+++-शु॑ष्मो अभि॒दास॑ते ।  
+अग्ने॒ देवे᳚द्ध॒ मन्व्-इ॑द्ध॒ मन्द्र॑-जि॒ह्व॥
 </details>
 
 <details><summary>Keith</summary>
 
-O Agni, do thou strengthen the sacrificer; weaken him who plotteth evil.
+O Agni, do thou strengthen the sacrificer;  
+weaken him who plotteth evil.  
+O Agni, kindled by the gods, kindled by Manu, with sweet tongue,
 </details>
 
 <details><summary>मूलम्</summary>
 
 उच्छु॑ष्मो अग्ने॒ यज॑मानायैधि॒  
 निशु॑ष्मो अभि॒दास॑ते ।  
+अग्ने॒ देवे᳚द्ध॒ मन्व्-इ॑द्ध॒ मन्द्र॑-जि॒ह्व॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -261,21 +265,20 @@ O Agni, do thou strengthen the sacrificer; weaken him who plotteth evil.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॒ देवे᳚द्ध॒ मन्व्-इ॑द्ध॒ मन्द्र॑-जि॒ह्वाम॑र्त्यस्य ते होतर्  
+अम॑र्त्यस्य ते होतर्  
 मू॒र्धन्न् **आ जि॑घर्मि**  
 रा॒यस्पोषा॑य सुप्रजा॒स्त्वाय॑ सु॒वीर्या॑य ।
 </details>
 
 <details><summary>Keith</summary>
 
-O Agni, kindled by the gods, kindled by Manu, with sweet tongue,  
 I touch the head of thee, the immortal, O Hotr, for increase of wealth, good offspring, strength.
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-अग्ने॒ देवे᳚द्ध॒ मन्व् इ॑द्ध॒ मन्द्र॑जि॒ह्वाम॑र्त्यस्य ते होतर्मू॒र्धन्ना जि॑घर्मि रा॒यस्पोषा॑य सुप्रजा॒स्त्वाय॑ सु॒वीर्या॑य ।
+अम॑र्त्यस्य ते होतर्मू॒र्धन्ना जि॑घर्मि रा॒यस्पोषा॑य सुप्रजा॒स्त्वाय॑ सु॒वीर्या॑य ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -337,7 +340,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाग॑सि स॑पत्न॒-ख्षय॑णी।  
+वाग् अ॑सि स॑पत्न॒-ख्षय॑णी।  
 वा॒चा मे᳚न्द्रि॒येणाऽऽवि॑श। 
 </details>
 
@@ -424,7 +427,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ग्री॒ष्ममृ॑तू॒नाम्प्री॑णामि ।  
+ग्री॒ष्मम् ऋ॑तू॒नाम् प्री॑णामि ।  
 स मा᳚ प्री॒तᳶ प्री॑णातु ।
 </details>
 
@@ -790,7 +793,8 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेस् स्वि॑ष्ट॒कृतो॒ ऽहन् दे॑वय॒ज्यया ऽऽयु॑ष्मान् य॒ज्ञेन॑ प्रति॒ष्ठाङ् ग॑मेयम् ॥ [7]
+अ॒ग्नेस् स्वि॑ष्ट॒कृतो॒ ऽहन् दे॑वय॒ज्यया  
+ऽऽयु॑ष्मान् य॒ज्ञेन॑ प्रति॒ष्ठाङ् ग॑मेयम् ॥ [7]
 </details>
 
 <details><summary>Keith</summary>
