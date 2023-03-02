@@ -7,7 +7,7 @@ title = "०१ पुनराधान-कालद्रव्यादि"
 
 अग्निर्ऋषिः
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्रस्तावना
 
@@ -41,7 +41,7 @@ The gods and the Asuras were in conflict;
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 1देवाश्चासुराश्च संयत्ताः सङ्ग्रामार्थमुद्युक्ताः आसन् अभवन् । यती प्रयत्ने, 'श्वीदितो निष्ठायाम्' इतीट्प्रतिषेधः, सम्यग्यत्ता इति कर्तरि निष्ठा, तेन प्रादिसमासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
@@ -65,7 +65,7 @@ The gods and the Asuras were in conflict;
 इ॒दमु॑ नो भविष्यति॒ यदि॑ नो जे॒ष्यन्तीति॑  ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 क्वचित् ते देवा विजयमुपयन्तः असुरान्विजयमानाः तेभ्यः पराजयमानेभ्योसुरेभ्यो यद्वामं वसु वननीयं वरिष्ठं वसु धनं समासादितवन्तः तत् सर्वमग्नौ न्यदधत सम्यक् सम्भूय निभृतं निहितवन्तः ।
 
@@ -88,7 +88,7 @@ The gods and the Asuras were in conflict;
 तद॒ग्निर्न्य॑कामयत ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तद्देवैरात्मनि निहितं वस्वग्निर्न्यकामयत आत्मसात्कर्तुमैच्छत् ।   
 </details>
@@ -109,7 +109,7 @@ and went away with it.
 तेनापा᳚क्रामत् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ततस्स कामयमानस्तेन वसुना सहापाक्रामत् देवसकाशात्पलायत ।
 </details>
@@ -137,7 +137,7 @@ The gods having defeated (the Asuras) pursued (Agni) desirous of recovering it.
 तद्दे॒वा वि॒जित्या॑व॒रुरु॑थ्समाना॒ अन्वा॑यन् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथ देवा असुरान्विजित्य तद्वामं वस्ववरुरुत्समानाः आत्मसात्कर्तुमिच्छन्तः अग्निमन्वायन् अन्वगच्छन् ।
 </details>
@@ -160,7 +160,7 @@ They sought violently to take it from him.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अनुगम्य च तद्वसु अस्याग्नेस्सकाशात् सहसा बलेन विनैवानुज्ञया आदित्सन्त आदातुमैच्छन् ।
 </details>
@@ -181,7 +181,7 @@ He wept; in that he wept (arodit), that is why Rudra has his name.
 सो॑ऽरोदी॒द् - यदरो॑दी॒त्तद्रु॒द्रस्य॑ रुद्र॒त्वम् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ततःप्रभृत्यग्निं रुद्रमाचक्षते रोदनेन निमित्तेन । 'रोदेर्णिलुक्च' इति ण्यन्ताद्विधीयमानो रक्प्रत्ययो बाहुलकात्केवलादपि भवति ।
 </details>
@@ -209,7 +209,7 @@ The tear that [1] was shed became silver;
 यदश्र्वशी॑यत॒ तद्  रज॒तꣳ हिर॑ण्यमभवत् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तस्य रुदतो यदश्रु नेत्रजलमशीयत न्यपतत् रजतं रूप्यं हिरण्यमभवत्, हितरमणीयं वा । यद्वा - रूप्यस्वर्णयोर्हिरण्यामिति वर्तते (भवति) ।
 </details>
@@ -230,7 +230,7 @@ therefore silver is not a suitable gift, for it is born of tears.
 तस्मा᳚द्रज॒तꣳ हिर॑ण्यमदख्षि॒ण्यम॑श्रु॒जꣳ  हि ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तदिदानीं रजतेन विशेष्यते - हिरण्यशब्दाभिधानं तु प्रशंसार्थम् । तस्माद्रजतमदक्षिण्यं अदक्षिणार्हं अश्रुजम् । हीति हेतौ । हिरण्यमप्यदक्षिणार्हमिति प्रतिपादनार्थं पुनरपि हिरण्यग्रहणम् । 'कडङ्करदक्षि- णाछ्व च' इति यत्प्रत्ययः, 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
@@ -258,7 +258,7 @@ He who gives on the strew, in his house before the year is out they weep;
 यो ब॒र्हिषि॒ ददा॑ति पु॒राऽस्य॑ सव्ँवथ्स॒राद्गृ॒हे रु॑दन्ति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात्, बर्हिषि यज्ञे यो रजतं ददाति अस्य गृहे पुरा संवत्सरात् संवत्सरसमाप्तेः रुदन्ति रोदननिमित्तान्युत्पत्स्यन्ते । 'यावत्पुरानिपातयोर्लट्' । यद्वा - 'सप्तमीपञ्चम्यौ कारकमध्ये' इति पञ्चमी ।
 </details>
@@ -279,7 +279,7 @@ therefore one should not give on the strew.
 तस्मा᳚द्ब॒र्हिषि॒ न देयम् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात् बर्हिषि रजतं न दद्यादिति । इदं प्रास्सङ्गिकमुक्तम् ॥
 </details>
@@ -307,7 +307,7 @@ Agni said, 'Let me have a share; then this will be yours.'
 सो᳚ऽग्निर॑ब्रवीत् - भा॒ग्य॑सानि॒, अथ॑ व इ॒दमिति॑  ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2अथ सः कृतरोदनोग्निः तद्वस्वप्रयच्छन्नेवाब्रवीत् ।  
 
@@ -331,7 +331,7 @@ They replied, 'The re-establishing shall be thine alone.'
 पु॒न॒रा॒धेय॑न् ते॒ केव॑ल॒मित्य॑ब्रुवन् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तच्छ्रुश्रुवांसो देवा अब्रुवन् पुनराधेयं ते तवैव केवलमस्ति नान्यः कश्चिदत्र भागीति । पुनः आधानानन्तरमग्निराधीयते तस्मिन्निति पुनराधेयं कर्म अग्न्याधेयस्यैव उत्तराततिः ऋद्धिकामिभिः कर्तव्या । अधिकरणे कृत्यः ।
 </details>
@@ -360,7 +360,7 @@ They replied, 'The re-establishing shall be thine alone.'
 ऋ॒ध्नव॒त्खलु॒ स - इत्य् अ॑ब्रवी॒द् - यो म॑द्देव॒त्य॑म॒ग्निमा॒दधा॑ता॒ इति
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथाग्निरब्रवीत् ऋध्नवत् ऋध्नुयात् खलु सः।
 
@@ -408,7 +408,7 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 तस्मा᳚न्मान॒व्य॑ᳶ प्र॒जा उ॑च्यन्ते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अनन्तरं च ऋद्धिकामाः पूषादयः तादृशेन पुनराधेयेन ऋद्धिं प्राप्ता इति दर्शयति - पूषेत्यादि । गतम् । पूष्णः स्वभूताः पौष्णाः पशवः ।
 </details>
@@ -437,7 +437,7 @@ Dhatr is the year; therefore offspring and cattle are born in the course of the 
 तस्मा᳚त् सव्ँवथ्स॒रम्प्र॒जाᳶ प॒शवोऽनु॒ प्र जा॑यन्ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 संवत्सरमिति । प्रजाः पशवश्च संवत्सरमनु प्रजायन्ते । लक्षणादिना अनोः कर्मप्रवचनीयत्वम् ॥
 </details>
@@ -470,7 +470,7 @@ He who knows his connexions becomes possessed of connexions himself.
 यो᳚ऽस्यै॒वम्ब॒न्धुता॒व्ँवेद॒ बन्धु॑मान्भवति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 3य एवमित्यादि ॥ गतम् । बन्धुतां बन्धुसमूहं पूषादीनाम् । 'ग्रामजनबन्धुसहायेभ्यस्तल्' ॥
 </details>
@@ -492,7 +492,7 @@ Agni desiring a share after being established assailed the offspring and cattle 
 भाग॒धेय॒व्ँवा अ॒ग्निराहि॑त इ॒च्छमा॑नᳶ प्र॒जाम्प॒शून् यज॑मान॒स्योप॑ दोद्राव ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4भागधेयं वा इत्यादि ॥ गतम् । आत्मन एवासाधारणं भागमिच्छन् प्रजां पशूंश्च यजमानस्योपदोद्राव भृशमुपद्रुतान् करोति स्म । द्रवतेर् यङ्लुगन्ताच् छान्दसो लिट् ।
 </details>
@@ -520,7 +520,7 @@ Having removed it, one should re-establish it;
 उ॒द्वास्य॒ पुन॒रा द॑धीत ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तस्माद् उद्वास्याग्निं पुनरादधीत ।
 </details>
@@ -542,7 +542,7 @@ thus he unites him with his own portion;
 भा॒ग॒धेये॑नै॒वैन॒ꣳ॒ सम॑र्धयति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 भागधेयेनाभीप्सितेन एनमग्निं समर्थयति सुप्रीतं करोति । +++(समर्थयति इति भाष्ये पाठः ??)+++  
 </details>
@@ -563,7 +563,7 @@ verily he is appeased.
 अथो॒ शान्ति॑रे॒वास्यै॒षा ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **अथो** आपि च **शान्तिर् एवैषा** ऽस्य येनोपद्रवकारी न भवति।  
 उद्वासन्येष्ट्येष्ट्वा  
@@ -600,7 +600,7 @@ He should establish under Punarvasu; Punarvasu is the Naksatra for the re-establ
 स्वाया॑मे॒वैन॑न्दे॒वता॑यामा॒धाय॑ ब्रह्मवर्च॒सी भ॑वति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 5पुनर्वस्वोरिति ॥ पुनरावर्तते वामं वस्वेतयोरिति पुनर्वसू देवतायाम् । ब्रह्मवर्चसी ब्राह्मणस्येयमेव ऋद्ध्यिरिति ॥
 </details>
@@ -631,7 +631,7 @@ He should establish under Punarvasu; Punarvasu is the Naksatra for the re-establ
 द॒र्भैरा द॑धात्य॒द्भ्य ए॒वैन॒मोष॑धीभ्योऽव॒रुध्याऽऽध॑त्ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 6दर्भैरिति ॥ न प्रणयनीयेनेध्मेन । अयातयामत्वाय अपुनरुक्तत्वाय । किञ्च - दर्भैराधानमद्भ्यश्चौषधीभ्यश्चाग्नेरेवावरुद्ध्यै भवति ॥
 </details>
@@ -660,7 +660,7 @@ The sacrificial cake is offered on five potsherds;
 पञ्च॑कपालᳶ पुरो॒डाशो॑ भवति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 7पञ्चकपाल इत्यष्टाकपालस्य स्थाने ॥ पञ्चसु कपालेषु संस्कृत इति तद्धितार्थे द्विगुः, 'द्विगोः' इति लुक्, 'इगन्तकाल' इति पूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
@@ -681,7 +681,7 @@ the seasons are five; verily he wins it from the seasons and establishes it.
 पञ्च॒ वा ऋ॒तव॑ ऋ॒तुभ्य॑ ए॒वैन॑मव॒रुध्याऽऽध॑त्ते ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 पञ्च वा इति ॥ हेमन्तशिशिरयोरेकत्वाभिप्रायमिदम, 'हेमन्तशिशिरावृतूनाम्' इति सहनिर्देशात् ॥
 </details>

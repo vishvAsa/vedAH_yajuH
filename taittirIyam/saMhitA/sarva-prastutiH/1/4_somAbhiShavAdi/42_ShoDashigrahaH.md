@@ -27,7 +27,7 @@ May he smite him who hateth us.
 स्व॒स्ति नो॑ म॒घवा॑ करोतु॒ हन्तु॑ पा॒प्मान॒य्ँयो᳚ऽस्मान्द्वेष्टि॑ ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 1महाꣳ इन्द्र इत्यादि । इयमप्यनुष्टुप् ॥ महत्त्वादिगुणविशिष्ट इन्द्रः अस्मभ्यं शर्म सुखं यच्छतु ददातु । स्वस्ति अविनाशं चास्माकं करोतु । हन्तु चास्माकं पाप्मानं पापम् । योस्मान्द्वेष्टि तं च हन्तु । यद्वा - योस्मान्द्वेष्टि तं पाप्मानं हन्तु ॥
 
@@ -39,7 +39,7 @@ _______
 <div class="js_include" url="taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादने स्पष्टे ॥
 </details>

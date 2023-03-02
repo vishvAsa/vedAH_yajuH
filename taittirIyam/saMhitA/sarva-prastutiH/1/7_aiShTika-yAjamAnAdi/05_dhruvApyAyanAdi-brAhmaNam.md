@@ -94,7 +94,7 @@ through its swelling the sacrifice is made to swell, through the sacrifice the s
 तामा॒प्याय॑मानाय्ँय॒ज्ञोऽन्वा प्या॑यते य॒ज्ञय्ँयज॑मानो॒ यज॑मानम्प्र॒जा
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तामाप्यायमानां स्तोतुमाह - ध्रुवां वा इत्यादि ॥ अनोर्लक्षणे कर्मप्रवचनीयत्वम् । रिचिर् रेचने, रौधादिकः, कर्मकर्तरि यक् व्यत्ययेनाद्युदात्तत्वम् । 'अचः कर्तृयकि' इति वा व्यत्ययेनानजन्तस्य भवति । श्यन्वा व्यत्ययेन । ओ प्यायी वृद्धौ । गतमन्यत् ॥
 </details>
@@ -140,7 +140,7 @@ the world of Prajapati, named Vibhan, is this (world); verily he places it in it
 तस्मि॑न्ने॒वैन॑न्दधाति स॒ह यज॑मानेन ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2प्रजापतेर्विभानिति ॥ यजमानप्राशनमन्त्रः । अयं लोको मनुष्यलोकः सूर्यादिभिर्विविधं भातीति विभान् ।  
 </details>
@@ -165,7 +165,7 @@ In that he sacrifices he is as it were emptied; in that he eats the sacrificer's
 आ॒त्मान॑मे॒व प्री॑णाति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 रिच्यत इवेत्यादि । नियमैः कर्शितत्वात् रिच्यत इव यजमानः । स आत्मीयभागप्राशनेनात्मानं तर्पयति ।  
 </details>
@@ -195,7 +195,7 @@ he places the sacrifice in the sacrifice.
 य॒ज्ञ ए॒व य॒ज्ञम्प्रति॑ष्ठापयति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 एतावानित्यादि । प्राधान्याद्यज्ञो यजमान इति तदधीनत्वात्तन्निवृत्तेः ॥
 </details>
@@ -217,7 +217,7 @@ he places the sacrifice in the sacrifice.
 ए॒तद्वै सू॒यव॑स॒ꣳ॒ सोद॑कं यद्ब॒र्हिश्चाऽऽप॑श्च ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 3एतद्वा इत्यादि ॥ पूणपात्रविधिः । सूयवसं सोदकं चानेनेतत्क्रियते, यद्बर्हिश्चापश्च संयोज्यन्ते । 
 </details>
@@ -272,7 +272,7 @@ in that he places the full bowl within the Vedi, he establishes good grass and g
 सद॑सि॒ सन्मे॑ भूया॒ इत्या॑ह ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4तत्र सदसि सन्मे इति पूर्णपात्र अनीयमाने यजमानो जपति ॥
 </details>
@@ -296,7 +296,7 @@ verily he bestows upon himself the sacrifice and the waters.
 आपो॒ऽमृत॑य्ँय॒ज्ञमे॒वामृत॑मा॒त्मन्ध॑त्ते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 आपो वा इत्यादि । गतम् । यज्ञममृतं चात्मनि स्थापयति अनेन मन्त्रेण । सदादिपदैर्यज्ञामृते अभिधीयेते इति भावः ॥
 </details>
@@ -324,7 +324,7 @@ All creatures attend him who is performing the vow.
 सर्वा॑णि॒ वै भू॒तानि॑ व्र॒तमु॑प॒यन्त॒मनूप॑ यन्ति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 5सर्वाणीत्यादि ॥ व्रतोपायनकाल एवैनमनु सर्वाणि भूतानि देवादीनि उपयन्ति उपगच्छन्ति । इदानीं तैस्सर्वैस्सहावभृथमवैति ।  
 </details>
@@ -353,7 +353,7 @@ He goes to the bath along with the creatures which attend him as he performs the
 तैरे॒व स॒हाव॑भृ॒थमवै॑ति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 कः पुनरयमवभृथ इत्याह – प्राच्यामित्यादि । अनेन मन्त्रेण यद्दिशां व्युत्सेचनम् ॥
 </details>
@@ -381,7 +381,7 @@ Headed by Visnu the gods won these worlds by the metres so as to be irrecoverabl
 विष्णु॑मुखा॒ वै दे॒वाश्छन्दो॑भिरि॒माल्ँ लो॒कान॑नपज॒य्यम॒भ्य॑जयन् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 6विष्णुमुखा इत्यादि ॥ विष्णुक्रमाणां क्रमणविधिः । ते च 'विष्णोः क्रमोसि' इत्यादयः । विष्णुमुखाः विष्णुप्रधानाः । अनपजय्यमन्यैरपजेतुमशक्यम् । क्रियाविशेषणम्, 'अचो यत्' 'क्षय्यजय्यौ शक्यार्थे' इति अयादेशः, 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् ।  
 </details>
@@ -431,7 +431,7 @@ in that he takes the steps of Visnu the sacrificer becoming Visnu wins these wor
 आनु॑ष्टुभी॒र्दिशः॑ ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 विष्णोः क्रमोसीति । चतुर्णां क्रमाणां ग्रहणम् । त्रिष्टुब्जगत्यनुष्टुप्शब्देभ्य उत्सादित्वादञ् । आनुष्टुभीः अनुष्टुब्भ्यः । 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् ।  
 </details>
@@ -451,7 +451,7 @@ verily by the metres he wins these worlds in order.
 छन्दो॑भिरे॒वेमाल्ँ लो॒कान् य॑थापू॒र्वम॒भि ज॑यति ॥ [24] 
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 छन्दोभिरेवेत्यादि । गायत्र्यादयः पृथिव्यादीनां कारणानि ; कारणेन च कार्यजयस्सुकर इति भावः ।  
 

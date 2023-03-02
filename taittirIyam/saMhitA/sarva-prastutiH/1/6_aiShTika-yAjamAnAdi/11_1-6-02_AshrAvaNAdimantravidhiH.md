@@ -25,7 +25,7 @@ and falls not away from the sacrifice.
 न य॒ज्ञाद्भ्रꣳ॑शते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 1यो वा इत्यादि ॥ सप्तदशाक्षर-समूहात्मा प्रजापतिः सप्तदशः । समूहे छान्दसो डः । परिमाणो वा 'तस्य पूरणे' इति डट् । अवयवधर्मेण समुदायो व्यपदिश्यते, सप्तदशसु प्रथमादीनामपि सप्तदशत्वात् । यज्ञमन्वायत् , तमनुप्रविष्टम् ॥
 </details>
@@ -65,7 +65,7 @@ the Vasat has two syllables;
 द्व्यख्ष॒रो व॑षट्का॒रः ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2आ श्रावयेत्यादि ॥ "तुभ्यम् इदं दीयत" इति देवताविशेषम् आभिमुख्येन "आ श्रावयेति" चतुरक्षरम् अध्वर्योः ।
 
@@ -97,7 +97,7 @@ he who knows thus rests secure through the sacrifice and does not fall away from
 य ए॒वव्ँवेद॒ प्रति॑ य॒ज्ञेन॑ तिष्ठति॒ न य॒ज्ञाद्भ्रꣳ॑शते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 एष वा इत्यादि । गतम् ॥
 </details>
@@ -128,7 +128,7 @@ reaches the end with a secure and uninjured sacrifice.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 3यो वै यज्ञस्येत्यादि ॥ **प्रायणं** प्रारम्भः प्रवेशनम् ।  
 **प्रतिष्ठा** स्थितिः ।    
@@ -159,7 +159,7 @@ he who knows thus reaches the end with a secure and uninjured sacrifice.
 य ए॒वव्ँवेद॒ प्रति॑ष्ठिते॒नारि॑ष्टेन य॒ज्ञेन॑ स॒ꣵ॒स्थाङ्ग॑च्छति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 एतत्त्रयात्मिकमाश्रावयादिकम् । तस्मादत्रैव समस्तो यागस्समाप्तः, एतच्छेषतया सर्वमन्यत्क्रियत इति । अरिष्टः हिसारहितः ॥
 </details>
@@ -186,7 +186,7 @@ He who knows the milking of the generous one milks her indeed.
 यो वै सू॒नृता॑यै॒ दोह॒व्ँवेद॑ दु॒ह ए॒वैनाँ᳚म् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4यो वै सूनृताया इत्यादि ॥ प्रियसत्यात्मिका वाक् **सूनृता** ।  
 तत्-तुल्यत्वात् तत्-साधनत्वाद् वा अभेदेन यज्ञ उच्यते ।  
@@ -211,7 +211,7 @@ The generous one is the sacrifice; (with the words) 'Do thou proclaim', he calls
 य॒ज्ञो वै सू॒नृताऽऽश्रा॑व॒येत्यैवैना॑मह्वत् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **एवैनाम् अह्वत्** एनाम् आह्वयत् दोग्धुम् । छान्दसो लुङ्, 'लिपिसिचिह्वश्च' इत्यङ् ।
 </details>
@@ -231,7 +231,7 @@ with 'Be it proclaimed' [2], he lets (the calf) go up to her;
 अस्तु॒ श्रौष॒डित्यु॒पावा᳚स्राक् ।    
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **उपावास्राक्** उपसृजति वत्सम् । सृजतेर्लुङि । 'बहुलं छन्दसि' इतीडभावः, 'सृजिदृशोः' इत्यमागमः, 'वदव्रज' इति वृद्धिः ।
 </details>
@@ -252,7 +252,7 @@ with 'Utter', he raises (the pail);
 यजेत्युद॑नैषी॒दत् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 उदनैषीत् उन्नयति पात्रम् ।
 </details>
@@ -272,7 +272,7 @@ with 'We that do utter', he sits down beside her,
 ये यजा॑मह॒ इत्युपा॑सदत्।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **उपासदत्** उपसीदति ।
 </details>
@@ -297,7 +297,7 @@ This is the milking of the generous one; he who knows thus milks her indeed.
 ए॒ष वै सू॒नृता॑यै॒ दोहो॒ य ए॒वव्ँवेद॑ दु॒ह ए॒वैना᳚म्।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 दोग्धा । ऌदित्वादङ् । आश्रावयाद्युक्तिरभिमतसिध्यै सूनृताह्वानादिकृत् ॥
 </details>
@@ -326,7 +326,7 @@ The gods performed a sacrificial session;
 दे॒वा वै स॒त्रमा॑सत ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 5देवा वा इत्यादि ॥ सत्रासनं क्रतुविशेषः एकादशरात्रादिः, तमकुर्वत । आस्थानकर्मा वा इदानीमयमास्तिः ।
 </details>
@@ -347,7 +347,7 @@ the quarters were dried up;
 तेषा॒न्दिशो॑ऽदस्यन् ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 दिशः प्रागाद्या अदस्यन् उपक्षीणविभवा अभूवन् । दसु उपक्षये ।
 </details>
@@ -389,7 +389,7 @@ for him who knows thus the quarters are made to swell.
 य ए॒वव्ँवेद॒ प्रास्मै॒ दिश॑ᳶ प्यायन्ते ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 आर्द्रामार्द्रयित्रीम् आ समन्ताद्रात्रीं लोकानां वर्षहेतुं अक्षरपङ्क्तिमपश्यन् । गतमन्यत् ॥
 </details>
@@ -414,7 +414,7 @@ Prajapati knows one;
 प्र॒जाप॑तिस्त्वव्ँवेद ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 6प्रजापतिमित्यादि ॥ **प्रजापतिं** कश्चिद् **वेद** ज्ञातवान् । **प्रजापतिर्** अपि कं चिद् **वेद** ।  
 `त्वसमसीमनेमेत्यनुच्चानि' इति त्व-शब्दस्यानुदात्तत्वात् तस्याख्यातेनैकपद्यं मन्यन्ते पदकाराः ।  
@@ -437,7 +437,7 @@ whom Prajapati knows, he becomes pure.
 यम्प्र॒जाप॑ति॒र्वेद॒ स पुण्यो॑ भवति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यमित्यादि । एतं प्रचरन्तं प्रजापतिर्वेदेति ।
 </details>
@@ -460,7 +460,7 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 य ए॒वव्ँवेद॒ पुण्यो॑ भवति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 छन्दस्य इति । 'अक्षरसमूहे छन्दस उपसङ्ख्यानम्' इति यत् । आश्रावयादीनां छन्दसां वीर्यत्वात् यथोक्तम् - 'य एवं छन्दसां वीर्यम्' इत्यादि । तत्रैषां छन्दसां वीर्यत्वमुक्तम्, अत्र तु तत्समूहस्य प्रजापतित्वमिति विवेकः ।  +++(मूले एवंवेद इति वर्तते । पूर्वतनस्थलेष्वपि वेद- वित् इत्यनयोः पृथङ् निर्देशः दृश्यते । अत्र वेद इत्यस्य स्थाने वित् इति पाठः कथं घटत इति विचारणीयम्)+++ एवंविदनुष्ठाता पुण्यो भवति, न चेत्पापकृत् । यत्किञ्चित्पापकृदपीति केचित् ॥
 </details>
@@ -500,7 +500,7 @@ the seasons are in order for him who knows thus.
 कल्प॑न्तेऽस्मा ऋ॒तवो॒ य ए॒वव्ँवेद ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 7वसन्तमित्यादयः प्रयाजानुमन्त्रणमन्त्राः ॥ पञ्चत्वान्वयाल्लोकस्थितिहेतुत्वाच्च प्रयाजा ऋतवः । प्रथममिज्यन्त इति प्रयाजाः । 'प्रयाजानुयाजौ यज्ञाङ्गे' इति कुत्वाभावः, थाथादिना उत्तरपदान्तोदात्तत्वम् । कल्पन्ते अविपर्यासेन प्रवर्तन्ते ॥
 </details>
@@ -534,7 +534,7 @@ verily by means of them he confers sight upon himself.
 अग्नीषोमा᳚भ्या॒व्ँवै य॒ज्ञश्चख्षु॑ष्मा॒न्ताभ्या॑मे॒व चख्षु॑रा॒त्मन्ध॑त्ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 8अग्नीषोमयोरित्याज्यभागानुमन्त्रणम् ॥ 'ईदग्नेः' इतीत्वम्, 'अग्नेस्तुत्स्तोमसोमाः' इति षत्वम्, 'देवताद्वन्द्वे च' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
@@ -560,7 +560,7 @@ verily by means of him [5] he confers the eating of food upon himself.
 अ॒ग्निर्वै दे॒वाना॑मन्ना॒दस्तेनै॒व [43] +अ॒न्नाद्य॑मा॒त्मन्ध॑त्ते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 9अग्नेरहमित्याग्नेयस्य पुरोडाशस्यानुमन्त्रणम् - अग्निर्वा इत्यादि ॥ देवानाम्मध्येग्निरन्नादः अन्नस्यात्ता, हविषां भोक्तृत्वात् । अणपवादः, पचाद्यच् ।
 
@@ -598,7 +598,7 @@ verily by means of him [5] he confers the eating of food upon himself.
 तयै॒व भ्रातृ॑व्यन्दभ्नोति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 10दब्धिरसीत्युपांशुयाजस्यानुमन्त्रणम् - एतया वा इत्यादि ॥ दब्ध्या दम्भनेन शत्रूणां दम्भनहेतुना । उपांशुयाजेन देवा असुरानदभ्नुवन् हिंसितवन्तः ॥
 </details>
@@ -635,7 +635,7 @@ verily by means of them he lays low his foe.
 </details>
 
 ### ऐन्द्राग्नम्
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 11अग्नीषोमयोरित्यग्नीषोमीयस्यानुमन्त्रणम् ॥ स्तृणुते नाशयति ॥
 </details>
@@ -665,7 +665,7 @@ verily by means of them he lays low his foe.
 इ॒न्द्रि॒या॒व्य् ए॑वान्ना॒दो भ॑व॒ति।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 12इन्द्राग्नियोरहमित्यैन्द्राग्नस्यानुमन्त्रणम् - इन्द्रियाव्येवेत्यादि ॥  
 इन्द्रेणेन्द्रियावी, अग्निनान्नादश्च भवति । 'बहुलं छन्दसि' इति विनिः, 'अन्येभ्योपि दृश्यते' इति दीर्घत्वम् ॥
@@ -692,7 +692,7 @@ verily he becomes powerful.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 13इन्द्रस्येत्यैन्द्रस्य सान्नाय्यस्यानुमन्त्रणम् ॥
 </details>
@@ -717,7 +717,7 @@ verily he attains superiority and greatness.
 जे॒मान॑मे॒व म॑हि॒मान॑ङ्गच्छति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 14महेन्द्रस्येति माहेन्द्रस्य ॥ जेमा जेतृत्वं सर्वोत्कृष्टत्वम् । 'तुश्छन्दसि' इति जेतृशब्दादिमनिच्, छान्दस इकारलोपः, 'तुरिष्ठेमेयस्सु' इति तृलोपः । जनयितृत्वं वा । जनेश्छान्दसो जाभावः । 'अन्येभ्योपि दृश्यन्ते' इति वा व्यत्ययेन भावे जयतेर्मनिन्प्रत्ययः, छान्दसमन्तोदात्तत्वम् । महिमानं महत्त्वम् । मह पूजायाम् । सर्वेषां पूजार्हत्वम् । पूवर्वन्मनिन्प्रत्ययस्स्वरश्च ॥
 </details>
@@ -751,7 +751,7 @@ verily he confers long life upon himself and attains security through the sacrif
 प्रति॑ य॒ज्ञेन॑ तिष्ठति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 15अग्नेस्स्विष्टकृत इति स्विष्टकृतोनुमन्त्रणम् ॥ आयुष्मान्दीर्घायुः । आयुर्दीर्घमात्मनि स्थापयति । प्रतियज्ञेन तिष्ठतीति । यज्ञेन या प्रतिष्ठा यजमानस्य भवति, 'प्रति तिष्ठति प्रजया पशुभिर्यजमानः' इति तामपि प्रतिष्ठां गच्छतीति । यद्वा - प्रतिष्ठेति परमात्मोच्यते । यज्ञेन यजनेन तं प्रतितिष्ठति प्राप्नोतीति ॥
 
