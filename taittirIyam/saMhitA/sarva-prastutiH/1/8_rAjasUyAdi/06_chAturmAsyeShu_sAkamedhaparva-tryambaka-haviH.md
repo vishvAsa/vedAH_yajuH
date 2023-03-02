@@ -23,6 +23,11 @@ title = "०६ चातुर्मास्येषु साकमेधप
 +++(प्रतिस्त्रीकम्)+++ प्र॒ति॒पू॒रु॒षम् +++(इति)+++ एक॑कपाला॒न् निर्व॑प॒त्य्, +++(ततश्च)+++ एक॒म् अति॑रिक्तम्। 
 </details>
 
+<details><summary>Keith</summary>
+
+For each he offers on one potsherd, and one over.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒ति॒पू॒रु॒षमेक॑कपाला॒न्निर्व॑प॒त्येक॒मति॑रिक्तम्। 
