@@ -5,5 +5,13 @@ title = "01 उदेत प्रजामायुर्वर्चो दध
 
 <details><summary>थिते</summary>
 
-उदेत प्रजामायुर्वर्चो दधाना अध स्यामसुरुभयोर्गृहेषु । गायत्रीं छन्दांस्यनुसंरभन्तामस्मान्राय उत यज्ञाः सचन्ताम् । सुप्रीतः सुवरप आविवेशेत्युन्नेतोन्नयति १
+1. With ud eta prajām āyur varcaḥ...[^1] and suprītaḥ suvarapaḥ...[^2] the Unnetr̥ leads[^3] (them[^4] all out of water).   
+
+[^1]: KS IV.13.   
+
+[^2]: Cp. KS IV.13.   
+
+[^3]: Cf. ŚB II.6.8.  
+
+[^4]: The sacrificer, his wife, and others who have taken bath.   
 </details>

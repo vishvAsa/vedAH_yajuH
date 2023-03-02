@@ -5,5 +5,7 @@ title = "05 उपयामगृहीतोऽसि सुशर्मास�
 
 <details><summary>थिते</summary>
 
-उपयामगृहीतोऽसि सुशर्मासीति ग्रहणसादनौ ५
+5. The formulae for scooping and depositing should be upayāmagr̥hītosi... and suśarmāsi...[^1] respectively.  
+
+[^1]: TS I.4.26.  
 </details>

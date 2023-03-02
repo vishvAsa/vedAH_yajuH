@@ -5,5 +5,9 @@ title = "01 समुद्रं वः प्रहिणोमि"
 
 <details><summary>थिते</summary>
 
-समुद्रं वः प्रहिणोमि स्वां योनिमपिगच्छत । अरिष्टा अस्माकं वीराः सन्तु मा परासेचि नः स्वम् । अच्छायं वो मरुतः श्लोक एत्वच्छा विष्णुं निषिक्तपामवोभिः । उत प्रजायै गृणते वयो धुर्यूयं पात स्वस्तिभिः सदा न इत्यन्तर्वेदि शेषान्निनीय दधिक्राव्णो अकारिषमित्याग्नीध्रे दधिद्रप्सान्भक्षयन्ति १
+1. With samudraṁ vaḥ prahiṇomi...[^1] having poured the remnants (in their respective goblets within the altar, with dadhikvrāvṇo akāriṣam...[^2] they eat in the Āgnīdhra's shed, the drops of curds.   
+
+[^1]: Here we find two verses. For the first, cp. TS IV.4.14.b. For the second see VII.36.9.  
+
+[^2]: TS I.5.11.1  
 </details>

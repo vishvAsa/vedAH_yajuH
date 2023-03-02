@@ -5,5 +5,7 @@ title = "10 आयुर्म इन्द्रियन् धेह्यद
 
 <details><summary>थिते</summary>
 
-आयुर्म इन्द्रियं धेह्यदो म आगच्छत्वित्याहवनीयम् १०
+10. With āyurma indriyaṁ dhehyado ma agacchatu[^1] (he praises) the Āhavanīya.  
+
+[^1]: MS IV.6.6.  
 </details>

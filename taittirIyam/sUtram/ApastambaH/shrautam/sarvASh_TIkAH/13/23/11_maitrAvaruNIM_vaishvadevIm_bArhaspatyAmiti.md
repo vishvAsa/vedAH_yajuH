@@ -5,5 +5,5 @@ title = "11 मैत्रावरुणीं वैश्वदेवीम�
 
 <details><summary>थिते</summary>
 
-मैत्रावरुणीं वैश्वदेवीं बार्हस्पत्यामिति ११
+11. (The three Anūbandhyā-cows are to be offered) to Mitrā-varuṇa, Viśvedevas and to Br̥haspati respectively.  
 </details>

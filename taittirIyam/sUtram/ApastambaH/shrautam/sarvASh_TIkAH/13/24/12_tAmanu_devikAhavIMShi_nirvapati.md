@@ -5,5 +5,5 @@ title = "12 तामनु देविकाहवींषि निर्व
 
 <details><summary>थिते</summary>
 
-तामनु देविकाहवींषि निर्वपति १२
+12. After that (offering is over the Adhvaryu) pours out the (oblation material of) the Devikā-oblations.   
 </details>

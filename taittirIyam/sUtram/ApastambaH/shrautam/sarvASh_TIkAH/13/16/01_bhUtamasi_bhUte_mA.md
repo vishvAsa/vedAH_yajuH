@@ -5,5 +5,18 @@ title = "01 भूतमसि भूते मा"
 
 <details><summary>थिते</summary>
 
-भूतमसि भूते मा धा इति प्रतिप्रस्थाता ध्रुवमवेक्ष्य द्यावापृथिवीभ्यां त्वा परिगृह्णामीत्यञ्जलिना परिगृह्य विश्वे त्वा देवा वैश्वानराः प्रच्यावयन्त्विति हृत्वा ध्रुवं ध्रुवेणेति पुरस्तात्प्रत्यङ्ङासीनो होतृचमसे ध्रुवमवनयति १
+1. Having looked at the Dhruva(-scoop) with bhūtamasi bhūte mā dhāḥ...,[^1] having held it by means of the folded hands (in the cavity of the folded hands) with dyāvāpr̥thivībhyaṁ tvā parigr̥hṇāmi,[^2] having carried it with viśve tvā devāḥ...,[^3] the Pratiprasthātr̥, sitting in front of him (Hotr̥) with his face to the west[^4] pours the Dhruva (-scoop) into the goblet of the Hotr̥,[^5] with dhruvaṁ dhruveṇa...[^6]   
+
+
+[^1]: TS III.2.8.n.  
+
+[^2]: TS III.2.8.0.   
+
+[^3]: TS III.2.8.p-q.   
+
+[^4]: Cf. KS XXVIII.1.   
+
+[^5]: Cf. TS VI.5.2.2.  
+
+[^6]: TS III.2.8.r-s.  
 </details>

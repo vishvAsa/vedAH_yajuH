@@ -5,5 +5,7 @@ title = "10 व्यवहितमेके समामनन्ति मद
 
 <details><summary>थिते</summary>
 
-व्यवहितमेके समामनन्ति मदा मोद इव ओथा मोद इव मोदा मोद इवेति १०
+10. According to some ritualists' the response should be interrupted: modā moda iva (at the end of the first half verse); othả moda iva (at the end of the verse); othā moda iva (at the end of the second half-verse).  
+
+[^1]: Not indentified.  
 </details>

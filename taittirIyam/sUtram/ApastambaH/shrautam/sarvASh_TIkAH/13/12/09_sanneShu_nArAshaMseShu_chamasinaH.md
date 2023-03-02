@@ -5,5 +5,10 @@ title = "09 सन्नेषु नाराशंसेषु चमसिन
 
 <details><summary>थिते</summary>
 
-सन्नेषु नाराशंसेषु चमसिनः स्वंस्वं चमसमनू न्यन्ते त्रींस्त्रीन्पुरोडाशशकलानुपवपन्त एतत्ते ततासौ ये च त्वामन्वित्येतैः प्रतिमन्त्रम् ९
+9. After the Nārāśaṁsa (-gobelts) have been deposited, lay down three pieces of the Savanīya-sacrificial-breads (i.e. the oblation -materials),[^1] each, with one of the formulae beginning with etat te tatāsau ye ca tvām anu.[^2]   
+
+
+[^1]: Cf. KB XVI.1.  
+
+[^2]: TS III.2.5.q.r.  
 </details>

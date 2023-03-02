@@ -5,5 +5,7 @@ title = "09 यथा त्वं सूर्यासि"
 
 <details><summary>थिते</summary>
 
-यथा त्वं सूर्यासि विश्वदर्शत एवमहं विश्वदर्शतो भूयासमित्यादित्यं यजमान उपतिष्ठते ९
+9. With yathā tvaṁ suryāsi...[^1] the sacrificer praises the sun.  
+
+[^1]: MS IV.6.6.  
 </details>

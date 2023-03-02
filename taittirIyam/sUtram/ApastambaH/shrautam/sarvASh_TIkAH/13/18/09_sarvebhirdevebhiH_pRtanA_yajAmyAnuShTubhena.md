@@ -5,5 +5,9 @@ title = "09 सर्वेभिर्देवेभिः पृतना य
 
 <details><summary>थिते</summary>
 
-सर्वेभिर्देवेभिः पृतना यजाम्यानुष्टुभेन छन्दसैकविंशेन स्तोमेन वैराजेन साम्ना वषट्कारेण वज्रेण सर्वजान्भ्रातृव्यानधरान्पादयाम्यवैनान्बाधे प्रत्येनान्नुदेऽस्मिन्क्षयेऽस्मिन्भूमिलोके योऽस्मान्द्वेष्टि यं च वयं द्विष्मो विष्णोः क्रमेणात्येनान्क्रामामीति चतुर्थमेके समामनन्ति ९
+9. In the opinion of some ritualists[^1] the sacrificer should take the fourth (stride) with sarvebhirdevebhiḥ pr̥tanāḥ...[^2]  
+
+[^1]: Not idnetified.   
+
+[^2]: The formula appears to have been prepared by Āpastamba himself.  
 </details>

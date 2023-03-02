@@ -5,5 +5,7 @@ title = "01 नमो रुद्राय वास्तोष्पतय"
 
 <details><summary>थिते</summary>
 
-नमो रुद्राय वास्तोष्पतय आयने विद्रवण उद्याने यत्परायण आवर्तने विवर्तने यो गोपायति तं हुव इति च १
+1. And (the Adhvaryu offers the third libation) with namo rudrāya...[^1]  
+
+[^1]: TB III.7.9.7; cp. AV VI.77.2; R̥V X.19.4-5.   
 </details>

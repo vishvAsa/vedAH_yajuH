@@ -5,5 +5,5 @@ title = "12 द्विरूपा मैत्रावरुणी बहु
 
 <details><summary>थिते</summary>
 
-द्विरूपा मैत्रावरुणी । बहुरूपा वैश्वदेवी । रोहिणी बार्हस्पत्या १२
+12. The (cow) for Mitrāvaruṇa (should be) tawo-coloured; the one for Viśvedevas multicoloured; (and) the one for Br̥haspati red-coloured.  
 </details>

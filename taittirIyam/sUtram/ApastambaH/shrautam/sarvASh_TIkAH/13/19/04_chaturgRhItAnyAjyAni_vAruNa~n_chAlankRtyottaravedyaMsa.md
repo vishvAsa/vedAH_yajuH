@@ -5,5 +5,5 @@ title = "04 चतुर्गृहीतान्याज्यानि व�
 
 <details><summary>थिते</summary>
 
-चतुर्गृहीतान्याज्यानि वारुणं चालङ्कृत्योत्तरवेद्यंस आसादयति ४
+4. The ghee is to be taken by means of scooping for four times. Having adorned (i.e. made perfect) the sacrificial bread he keeps (the ghee and the sacrificial bread) on the north-eastern corner of the Uttaravedi.   
 </details>
