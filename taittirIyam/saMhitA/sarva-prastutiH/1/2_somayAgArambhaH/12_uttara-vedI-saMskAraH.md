@@ -178,7 +178,7 @@ ________
 उत्तरवेद्यां निवपति।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarvASh_TIkAH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -221,7 +221,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second ea
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarvASh_TIkAH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ________
@@ -251,7 +251,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third ear
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarvASh_TIkAH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>

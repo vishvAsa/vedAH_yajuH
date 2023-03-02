@@ -4,7 +4,7 @@ title = "8 The Rajasuya"
 +++
 ## 06
 ### a
-For each he offers on one potsherd, and one over.
+
 ### b
 As many as we are of the house, to them have I made prosperity.
 ### c

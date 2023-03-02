@@ -10,7 +10,7 @@ _______
 1अतः परं षोडशिग्रहणमन्त्राः पूर्वैस्सह विकल्प्यन्ते । तत्र प्रथमा - सर्वस्येत्यनुष्टुप् ॥ 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सर्व॑स्य प्रति॒शीव॑री॒+++(←शी शयने)+++  
 **भूमि॑स् +++(इन्द्र!)+++ त्वो॒पस्थ॒ आऽधि॑त**+++(←धा)+++ ।  
@@ -46,7 +46,7 @@ Grant him protection, extending wide.
 
 
 _______
-<div class="js_include" url="taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details><summary>भट्टभास्कर-टीका</summary>

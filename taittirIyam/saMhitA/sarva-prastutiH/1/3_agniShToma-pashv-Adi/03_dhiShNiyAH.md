@@ -497,7 +497,7 @@ Thou art the dragon of the deep.
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/03_dhiShNiyAH/raudreNa.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details open><summary>विश्वास-विवरणम्</summary>
+<details><summary>विश्वास-विवरणम्</summary>
 
 अत्र धिष्णियास्व् अन्तिमौ मन्त्रगुच्छौ -
 

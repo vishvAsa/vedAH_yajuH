@@ -110,7 +110,7 @@ Do ye Pitrs rejoice in your portions.
 3आहवनीयमुपतिष्ठते - सुसन्दृशमिति पञ्चपदया ऐन्द्रापङ्क्त्या ॥ 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सु॒स॒न्दृश॑न् त्वा व॒यम्  
 मघ॑वन् मन्दिषी॒महि॑  ॥    
@@ -192,7 +192,7 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **परे॑त** पितरस् सोम्या  
 गम्भी॒रैᳶ प॒थिभि॑ᳶ पू॒र्व्यैः  ।   
@@ -227,12 +227,12 @@ Who carouse in company with Yama.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 +++(पितॄन् अनु प्रेषितम्)+++  
 मनो॒ न्व् **आ हु॑वामहे**  
 नाराश॒ꣳ॒सेन॒ स्तोमे॑न +++(←शाकले "सोमेन")+++ ।    
-पितॄ॒णाञ् च॒ मन्म॑भिः+++(=मननीयैः)+++  ॥
+पितृ॒णाञ् +++(←६.४.५ छन्दस्युभयथा)+++ च॒ च॒ मन्म॑भिः+++(=मननीयैः)+++  ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -245,7 +245,7 @@ And the reverence of the Pitrs.
 <details><summary>मूलम्</summary>
 
 मनो॒ न्वा हु॑वामहे नाराश॒ꣳ॒सेन॒ स्तोमे॑न ।    
-पितॄ॒णाञ्च॒ मन्म॑भिः  ॥
+पितृ॒णाञ् च॒ मन्म॑भिः  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -262,7 +262,7 @@ And the reverence of the Pitrs.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **आ** [8] न **एतु** मन॒ᳶ पुन॒ᳵ  
 क्रत्वे॒ दख्षा॑य जी॒वसे᳚ ॥   
@@ -312,7 +312,7 @@ And that long we may see the sun.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 यद् अ॒न्तरि॑ख्षम् पृथि॒वीम् उ॒त द्याय्ँ  
 यन् मा॒तर॑म् पि॒तर॑व्ँ वा **जिहिꣳसि॒म**  ॥    

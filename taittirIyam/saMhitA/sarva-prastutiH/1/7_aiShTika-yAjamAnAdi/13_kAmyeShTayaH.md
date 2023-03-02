@@ -41,7 +41,7 @@ title = "१३ काम्येष्टयः"
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 इ॒न्द्रा॒णीमा॒सु नारि॑षु  
 सु॒पत्नी॑म् अ॒हम् अ॑श्रवम् ।   
@@ -137,7 +137,7 @@ Shall her husband die of old age.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्र॒दा॒तारꣳ॑ **हवामह॒**  
 इन्द्र॒म् आ ह॒विषा॑ व॒यम् ।    
@@ -173,7 +173,7 @@ Give to us from the left and the right.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्र॒दा॒ता व॒ज्री वृ॑ष॒भस् +++(आ)+++तु॑रा॒-षाट्+++(←सह्)+++  
 छु॒ष्मी राजा॑ वृत्र॒-हा सो॑म॒पावा᳚ ।   

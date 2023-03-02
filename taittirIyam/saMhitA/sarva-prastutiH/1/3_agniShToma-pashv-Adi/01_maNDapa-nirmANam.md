@@ -220,7 +220,7 @@ ________
 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_sado-maNDapa-nirmANam/yavosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -230,7 +230,7 @@ ________
 9तस्मिन् व्यतिषज्य बर्हिर्-मुष्टिं निदधाति - पितृणामिति ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_sado-maNDapa-nirmANam/pitRNAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/pitRNAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -304,7 +304,7 @@ ________
 12पुरीषेणौदुम्बरीं प्रदक्षिर्णं पर्यूहति - ब्रह्मवनिमिति ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_sado-maNDapa-nirmANam/brahma-vanim.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma-vanim.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ________
@@ -314,7 +314,7 @@ _______
 13 मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_sado-maNDapa-nirmANam/brahma_dRMha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma_dRMha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 _______
@@ -392,13 +392,14 @@ the shade of all folk.
 16पार्श्वयोश्छदिर्निदधाति - विश्वजनस्येति ॥ विश्वजनस्य सर्वजनस्य छाया गृहमासि । 'विश्वजनस्य ह्येषा छाया' `इति ब्राह्मणम् । छायाशब्दो गृहनामसु निरुक्तकारैः पठ्यते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 परि॑ त्वा गिर्वणो॒+++(=गिर्भिर् वननीयः)+++ गिर॑  
 इ॒मा भ॑वन्तु वि॒श्वतः॑ ।  
 वृ॒द्धायु॒म् अनु॒ वृद्ध॑यो॒  
 जुष्टा॑ भवन्तु॒ जुष्ट॑यः ॥
 </details>
+
 <details><summary>Keith</summary>
 
 May these our songs, O lover of song,
