@@ -5,5 +5,7 @@ title = "13 अहम् परस्तादित्यादित्यं 
 
 <details><summary>थिते</summary>
 
-अहं परस्तादित्यादित्यं यजमानोऽन्वारभत आ होमात् १३
+13. With ahaṁ purastāt.... the sacrificer holds the Āditya (-cup) until the libation is offered.  
+
+[^1]: TS III.5.5.b.   
 </details>

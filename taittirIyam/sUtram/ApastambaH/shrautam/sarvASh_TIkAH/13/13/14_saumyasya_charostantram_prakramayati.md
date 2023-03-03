@@ -5,5 +5,5 @@ title = "14 सौम्यस्य चरोस्तन्त्रम् प
 
 <details><summary>थिते</summary>
 
-सौम्यस्य चरोस्तन्त्रं प्रक्रमयति १४
+14. (The Adhvaryu) starts the ritual connected with (the offering of) the rice-pap to Soma.   
 </details>

@@ -5,5 +5,11 @@ title = "16 नीतासु दक्षिणासु चात्वाल
 
 <details><summary>थिते</summary>
 
-नीतासु दक्षिणासु चात्वाले कृष्णविषाणां प्रास्यति हरिणस्य रघुष्यतोऽधि शीर्षणि भेषजम् । स क्षेत्रियं विषाणया विषूचीनमनीनशत् । अनु त्वा हरिणो मृगः पड्भिश्चतुर्भिरक्रमीत् । विषाणे विष्यैतं ग्रन्थिं यदस्य गुल्फितं हृदि मनो यदस्य गुल्फितमित्येताभ्याम् १६
+16. After the gift (-cows) have been led, (the sacrificer) throws the horn of black antelope upon the Cātvāla (-pit)[^1] with these (Verses): hariṇasya raghuṣyato'dhi śirṣaṇi bheṣajam...[^2] and with anu tvā hariṇo mr̥gaḥ....[^3]   
+
+[^1]: Cf. TS VI.1.3.8; See and cp.x.13.3; see also XIII.18.7.  
+
+[^2]: Cp. AV III.7.1.  
+
+[^3]: Cp. AV III.7.2 and MS II.2.2.  
 </details>

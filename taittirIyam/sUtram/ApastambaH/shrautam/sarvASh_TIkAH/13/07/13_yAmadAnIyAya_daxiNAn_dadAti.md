@@ -5,5 +5,9 @@ title = "13 यामदानीयाय दक्षिणान् ददा
 
 <details><summary>थिते</summary>
 
-यामदानीयाय दक्षिणां ददाति तामस्य पशवोऽन्वपक्रामन्ति । यदि मन्येतादानीयायादामिति न म इदमुपदम्भिषगित्येतद्यजुर्जपेद्गां वा दद्याद्ब्राह्मणाय १३
+13. Whatever (gift-cow) he gives to a person who does not deserve to be given to, the other cattle go away from him. If he thinks, I have "(given a gift-cow) to a person who does not deserve to be given to”, he should either mutter the Yajus formula na mā idamupadambhiṣak...[^1] or should give (another) cow to a Brāhmaṇa.[^2]  
+
+[^1]: MS IV.2.8.  
+
+[^2]: Cp. MS IV.2.8.   
 </details>

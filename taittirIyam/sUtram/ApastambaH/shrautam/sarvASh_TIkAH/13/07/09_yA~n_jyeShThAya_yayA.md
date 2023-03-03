@@ -5,5 +5,7 @@ title = "09 याञ् ज्येष्ठाय यया"
 
 <details><summary>थिते</summary>
 
-यां ज्येष्ठाय यया स देवतया ज्यैष्ठ्यं गच्छति तां तयावरुन्द्धे ९
+9. Whatever (gifts he gives) to a seniormost person, he obtains senior-mostness by means of that deity due to which (the senior-most) has reached the senior-most-ness.[^1]  
+
+[^1]: Cf. KS XXVIII.5.  
 </details>

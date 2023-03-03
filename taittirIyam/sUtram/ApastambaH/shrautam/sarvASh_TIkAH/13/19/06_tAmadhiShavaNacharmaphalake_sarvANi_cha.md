@@ -5,5 +5,7 @@ title = "06 तामधिषवणचर्मफलके सर्वाण�
 
 <details><summary>थिते</summary>
 
-तामधिषवणचर्मफलके सर्वाणि च सोमलिप्तान्यन्तरा चात्वालोत्करावुत्तरे वा वेद्यंस औदुम्बर्यामासन्द्यां सादयति । अन्यत्र चतसृभ्यः सोमस्थालीभ्यः ६
+6. He places it (the Udumbara post), the skin and the (Soma)-pressing boards, and all (the vessels) besmeared by Soma (-juice) except the four Soma-vessels between the Cātvāla (pit) and the rubbish-heap or upon the throne-seat of Udumbara on the north-eastern part of the altar.   
+
+[^1]: viz. the Āgrayaṇa, Ukthya, Āditya and Dhruva. For their uses see XIII.24.3.  
 </details>

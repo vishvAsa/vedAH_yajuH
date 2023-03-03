@@ -5,5 +5,7 @@ title = "04 अङ्गानि दत्त्वा तेनतेन"
 
 <details><summary>थिते</summary>
 
-अङ्गानि दत्त्वा तेनतेन यथालिङ्गं निष्क्रीणीते यद्यास्यन्स्यात् ४
+4. Having given (his) limbs, he redeems them by means of the (other items) which he is going to give, in accordance with the characteristic mark.[^1]   
+
+[^1]: Cf. JB II.54. See the Sūtras 5 and 6.  
 </details>

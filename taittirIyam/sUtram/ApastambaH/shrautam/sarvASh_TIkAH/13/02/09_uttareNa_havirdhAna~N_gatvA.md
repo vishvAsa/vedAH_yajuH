@@ -5,5 +5,5 @@ title = "09 उत्तरेण हविर्धानङ् गत्वा
 
 <details><summary>थिते</summary>
 
-उत्तरेण हविर्धानं गत्वा दक्षिणेन मार्जालीयं धिष्णियं परीत्य पूर्वया द्वारा सदः प्रविश्याग्रेण होतारमध्वर्युर्यजमानश्चावतिष्ठेते । दक्षिणेनोत्तरेण वा प्रशास्तुर्धिष्णियं परीत्योद्गातारो माध्यन्दिनेन पवमानेन स्तुवते ९
+9. Having gone along the north of the Havirdhāna(-shed). having then gone round along the south of the Mārjālīya Dhiṣṇya, then having entered into the Sadas through the eastern dore, the Adhvaryu and the sacrificer sit down in front of the Hotr̥. Having gone by the south or by the north of the Praśāstr̥'s Dhiṣṇya, the Udgātr̥s sing the Mādhyandina Pavamāna (-laud).  
 </details>

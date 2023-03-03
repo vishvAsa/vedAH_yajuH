@@ -5,5 +5,6 @@ title = "03 न याचितः"
 
 <details><summary>थिते</summary>
 
-न याचितः ३
+3. nor (when) he has been begged for,   
+
 </details>

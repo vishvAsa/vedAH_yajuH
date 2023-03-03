@@ -5,5 +5,7 @@ title = "07 कृष्यै क्षेमाय रय्यै"
 
 <details><summary>थिते</summary>
 
-कृष्यै क्षेमाय रय्यै पोषायेति भक्षयित्वा जपन्ति ७
+7. Having eaten they mutter krsyai ksemāya rayyai pos āya.1  
+
+[^1]: Cp. MS IV.7.4.   
 </details>

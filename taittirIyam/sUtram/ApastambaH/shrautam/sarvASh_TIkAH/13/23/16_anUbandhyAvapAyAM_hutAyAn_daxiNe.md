@@ -5,5 +5,5 @@ title = "16 अनूबन्ध्यावपायां हुताया�
 
 <details><summary>थिते</summary>
 
-अनूबन्ध्यावपायां हुतायां दक्षिणे वेद्यन्ते यजमानः केशश्मश्रु वापयते १६
+16. After the omentum of the Anūbandhyā is offered, the sacrificer causes his hair and beard be shaved on the southern end of the altar.  
 </details>

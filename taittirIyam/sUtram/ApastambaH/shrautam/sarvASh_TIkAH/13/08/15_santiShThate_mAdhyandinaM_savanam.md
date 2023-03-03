@@ -5,5 +5,5 @@ title = "15 सन्तिष्ठते माध्यन्दिनं स
 
 <details><summary>थिते</summary>
 
-सन्तिष्ठते माध्यन्दिनं सवनम् १५
+15. The midday-pressing stands completely established (i.e. concluded).  
 </details>

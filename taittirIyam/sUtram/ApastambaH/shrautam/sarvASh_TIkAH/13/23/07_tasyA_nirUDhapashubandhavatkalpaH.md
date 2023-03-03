@@ -5,5 +5,7 @@ title = "07 तस्या निरूढपशुबन्धवत्कल�
 
 <details><summary>थिते</summary>
 
-तस्या निरूढपशुबन्धवत्कल्पः ७
+7. The procedure (of this ritual should be) similar to that of the Nirūḍhapaśubandha.[^1]  
+
+[^6]: See the chapter VII.   
 </details>

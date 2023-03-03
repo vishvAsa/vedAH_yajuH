@@ -5,5 +5,7 @@ title = "03 अश्वतरं साहस्रे सर्ववेदस
 
 <details><summary>थिते</summary>
 
-अश्वतरं साहस्रे सर्ववेदसे च ददाति ३
+3. He gives a mule (in a sacrifice) in which one thousand cows or the entire wealth (is given as Dakṣiṇā).[^1]  
+
+[^1]: Cf. TS VII.1.1.3.  
 </details>

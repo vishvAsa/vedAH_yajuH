@@ -5,5 +5,9 @@ title = "10 पूतभृतो बिल उदीचीनदशम्"
 
 <details><summary>थिते</summary>
 
-पूतभृतो बिल उदीचीनदशं पवित्रं वितत्य तस्मिन्यजमानः पुरस्तात्प्रत्यङ्तिष्ठन्सह पत्न्याशिरमवनयत्यस्मे देवासो वपुषे चिकित्सतेति चतसृभिः १०
+10. Over the opening of the Pūtabhịt, after the singers have stretched the woolen strainer with its fringes pointing towards the north,[^1] the sacrificer with his face to the west, together with his wife, pours the Āśir (into the Pūtabr̥t) with four verses beginning with asme devāso vapuṣe cikitsata.[^2]  
+
+[^1]: Cf. ŚB IV.3.5.21; see also XII.29.9.  
+
+[^2]: TS III.2.8.i-m.  
 </details>

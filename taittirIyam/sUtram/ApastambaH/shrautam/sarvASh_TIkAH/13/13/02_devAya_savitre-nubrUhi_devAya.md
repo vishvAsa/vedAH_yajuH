@@ -5,5 +5,5 @@ title = "02 देवाय सवित्रेऽनुब्रूहि द
 
 <details><summary>थिते</summary>
 
-देवाय सवित्रेऽनुब्रूहि देवाय सवित्रे प्रेष्येति सम्प्रैषौ २
+2. The two orders should be devāya savitre'nubrūhi and devāya savitre preṣya.   
 </details>

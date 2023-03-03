@@ -5,5 +5,5 @@ title = "11 यामन्यो दीयमानान् न"
 
 <details><summary>थिते</summary>
 
-यामन्यो दीयमानां न कामयेत यं द्विष्यात्तस्मै दद्यात्सहान्येन धनेन ११
+11. To him whom he (the sacrificer) hates he should give such a gift as another one may not desire, along with some Other wealth.
 </details>

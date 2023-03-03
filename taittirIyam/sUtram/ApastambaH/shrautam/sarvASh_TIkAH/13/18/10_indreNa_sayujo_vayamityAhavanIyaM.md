@@ -5,5 +5,8 @@ title = "10 इन्द्रेण सयुजो वयमित्याह
 
 <details><summary>थिते</summary>
 
-इन्द्रेण सयुजो वयमित्याहवनीयं यजमान उपतिष्ठते १०
+10. The sacrificer stands near the Āhavanīya (fire) praising it with indreṇa sayujo vayam...[^1]
+
+
+[^1]: TS III.3.3.d-e.  
 </details>

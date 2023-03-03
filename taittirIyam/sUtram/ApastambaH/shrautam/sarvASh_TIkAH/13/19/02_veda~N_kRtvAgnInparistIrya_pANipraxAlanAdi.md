@@ -5,5 +5,5 @@ title = "02 वेदङ् कृत्वाग्नीन्परिस्�
 
 <details><summary>थिते</summary>
 
-वेदं कृत्वाग्नीन्परिस्तीर्य पाणिप्रक्षालनादि कर्म प्रतिपद्यते । यथार्थं पात्रयोगः २
+2. Having prepared the Veda (brush of grass), having scattered (sacrificial grass) around the fires, he begins the work of washing hands etc. The (act of) arrangement of the sacrificial utensils should be done in accordance with the requirement.  
 </details>

@@ -5,5 +5,7 @@ title = "07 ब्राह्मणायाप्यविदुषे न द
 
 <details><summary>थिते</summary>
 
-ब्राह्मणायाप्यविदुषे न देयम् । अप्यब्राह्मणाय विद्याविदे दद्यात् । यां स विद्यां वेद तां तयावरुन्द्धे ७
+7. One should not give to one who is not learned even though he is a Brāhmaṇa. One may give even to a non-brāhmin who is learned. He (the sacrificer) obtains that knowledge which he (the non-brāhmin) knows.[^1]  
+
+[^1]: Cf. KS XXVIII.4.  
 </details>

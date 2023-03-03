@@ -5,5 +5,5 @@ title = "12 एतावन्नाना इन्द्राय त्वे
 
 <details><summary>थिते</summary>
 
-एतावन्नाना । इन्द्राय त्वेन्द्राय त्वेति सर्वत्र ग्रहणसादनौ सन्नमति १२
+12. (Only) this much should be different: (the Adhvaryu) modifies the formula for taking and for placing, everywhere with indrāya tvā....  
 </details>
