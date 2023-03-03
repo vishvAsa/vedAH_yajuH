@@ -62,7 +62,7 @@ and on one potsherd to Ka.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 +++(वरुण-)+++प्र॒घा॒स्यान्॑ **हवामहे**  
 म॒रुतो॑ य॒ज्ञ-वा॑हसः ।  
@@ -97,7 +97,7 @@ Rejoicing in the mush.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 मो षू+++(←सु+उ)+++ ण॑+++(ः)+++ इन्द्र पृ॒थ्सु देव +  
 +**अस्तु॑** स्म +++(पराजितिः)+++ ते शुष्मिन्न् अव॒या+++(=ऊत्या)+++ ।  
@@ -163,7 +163,7 @@ Rich in oblation are the Maruts whom our song praises.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 यद् ग्रामे॒ यद् अर॑ण्ये॒ ..  
 यत् स॒भाया॒य्ँ, यद् इ॑न्द्रि॒ये ।    
@@ -204,7 +204,7 @@ Of that thou art the expiation; hail!
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **अक्र॒न्** कर्म॑ कर्म॒-कृत॑स्  
 स॒ह वा॒चा म॑यो-भु॒वा ।    

@@ -4,7 +4,7 @@ title = "४२ षोडशिग्रहः"
 +++
  स्वराडनुष्टुप्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 म॒हाꣳ इन्द्रो॒ वज्र॑बाहुष्  
 षोड॒शी **शर्म॑ यच्छतु** ।  
@@ -36,7 +36,7 @@ May he smite him who hateth us.
 
 
 _______
-<div class="js_include" url="taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details><summary>भट्टभास्कर-टीका</summary>

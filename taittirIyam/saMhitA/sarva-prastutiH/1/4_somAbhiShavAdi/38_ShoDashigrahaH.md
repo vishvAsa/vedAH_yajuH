@@ -17,5 +17,5 @@ _______
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/03_A_tiShTha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 _______
-<div class="js_include" url="taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 

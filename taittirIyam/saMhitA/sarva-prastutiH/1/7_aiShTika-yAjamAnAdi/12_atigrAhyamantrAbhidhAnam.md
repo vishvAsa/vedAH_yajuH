@@ -117,7 +117,7 @@ thee that sittest on the earth, that sittest on the atmosphere, that sittest on 
 7अथ चतुर्थम् - ये ग्रहा इति पञ्चपदया पङ्क्त्या ॥ 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ये ग्रहाः᳚ पञ्चज॒नीना॒  
 येषा᳚न् ति॒स्रᳶ प॑रम॒जाः ।  
@@ -164,7 +164,7 @@ The food and strength have I seized;
 9-10अथ पञ्चमम् - अपां रसमित्यनुष्टुप् ॥ 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ॒पाꣳ रस॒म्, उद्-व॑यस॒ꣳ॒+++(=उज्जीवनम्)+++,  
 सूर्य॑-रश्मिꣳ स॒माभृ॑तम् ।  
@@ -207,7 +207,7 @@ That of you I take which is the best;
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ॒या+++(=अनया)+++ वि॒-ष्ठा ज॒नय॒न् कर्व॑राणि॒+++(=कर्माणि)+++  
 स हि घृणि॑र्+++(←घृ सेके छादने वा)+++ उ॒रुर् वरा॑य गा॒तुः+++(=मार्गः)+++ ।  

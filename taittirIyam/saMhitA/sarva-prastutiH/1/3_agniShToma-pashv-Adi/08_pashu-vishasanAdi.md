@@ -358,7 +358,7 @@ Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 यद्वा - सर्वे पशव उच्यन्ते - वयमस्माकमेको हन्तुं नीयत इति उद्वेगं मा कार्ष्ट । यजमानस्योपभोगाय प्रीतिपूर्वकं तस्मिन्वर्तध्वम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 उरो॑ अन्तरिख्ष!  
 स॒जूर् दे॒वेन॑ वाते॑ना॒  
