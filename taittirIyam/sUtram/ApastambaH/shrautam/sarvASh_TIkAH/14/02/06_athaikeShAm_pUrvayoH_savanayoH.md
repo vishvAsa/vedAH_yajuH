@@ -5,5 +5,7 @@ title = "06 अथैकेषाम् पूर्वयोः सवनयो
 
 <details><summary>थिते</summary>
 
-अथैकेषाम् । पूर्वयोः सवनयोः पुरस्तादुत्तमादुक्थ्यपर्यायादुक्थ्याद्गृह्णीयात्सर्वैः प्रचरिते । तृतीयसवन आग्रयणात् ६
+6. Now according to some[^1]: He should fill it in both the first two pressings before the last Ukthya-round, from the Ukthya-scoop, after the ritual with all the Ukthya-scoops has been performed.  
+
+[^1]: not known. 
 </details>

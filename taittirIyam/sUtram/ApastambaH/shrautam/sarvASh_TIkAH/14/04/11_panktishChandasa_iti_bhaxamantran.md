@@ -5,5 +5,5 @@ title = "11 पङ्क्तिश्छन्दस इति भक्षम
 
 <details><summary>थिते</summary>
 
-पङ्क्तिश्छन्दस इति भक्षमन्त्रं नमति ११
+11. He modifies the formula for drinking (Soma) with the expression) paṅktiśchandase.  
 </details>

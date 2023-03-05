@@ -5,5 +5,7 @@ title = "10 उन्नेतः सर्वं राजानमुन्न
 
 <details><summary>थिते</summary>
 
-उन्नेतः सर्वं राजानमुन्नय मातिरीरिचो दशाभिः कलशौ मृष्ट्वा न्युब्जेति सर्वसंस्थासूत्तमे गण एतत्सम्प्रेष्यति १०
+10. In all the Soma-sacrificial institutes, (after the ritual of) the last group (of goblets is performed) the Adhvaryu orders: “O Unnetr̥, do you fill all the king (Soma); do not let it remain over; having rubbed the jars by means of fringes place them turned down upwards.[^1]  
+
+[^1]: See XIII. 15.2.  
 </details>

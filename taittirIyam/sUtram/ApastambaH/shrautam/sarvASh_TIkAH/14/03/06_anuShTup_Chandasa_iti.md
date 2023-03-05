@@ -5,5 +5,5 @@ title = "06 अनुष्टुप् छन्दस इति"
 
 <details><summary>थिते</summary>
 
-अनुष्टुप् छन्दस इति भक्षमन्त्रं नमति ६
+6. He modifies the formula of drinking (by substituting the expression jagatīchandase by) anuṣṭupchandase.  
 </details>

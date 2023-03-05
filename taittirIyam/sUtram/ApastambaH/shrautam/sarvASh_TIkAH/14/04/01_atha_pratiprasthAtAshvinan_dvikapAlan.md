@@ -5,5 +5,7 @@ title = "01 अथ प्रतिप्रस्थाताश्विनन�
 
 <details><summary>थिते</summary>
 
-अथ प्रतिप्रस्थाताश्विनं द्विकपालं निर्वपति १
+1. Then the Pratiprasthātr̥ pours out the material (i.e. unhusked rice-grains) for the sacrificial bread on two potsherds to be offered to Aśvins.[^1]   
+
+[^1]: Cf. KB XVII.1. 
 </details>
