@@ -5,5 +5,5 @@ title = "02 यद्यु वै षोडश्युक्थ्यचमस
 
 <details><summary>थिते</summary>
 
-यद्यु वै षोडश्युक्थ्यचमसानामुत्तमं गणमुन्नयन्नेकस्मै चमसगणाय राजानमतिरेचयति २
+2. If it is a Ṣodasin, while filling the last group (of goblets) he causes the king (Soma) to remain for one group of goblets. 
 </details>

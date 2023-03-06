@@ -5,5 +5,9 @@ title = "13 यस्मान्न जातः परो"
 
 <details><summary>थिते</summary>
 
-यस्मान्न जातः परो अन्यो अस्ति य आविवेश भुवनानि विश्वा । प्रजापतिः प्रजया संविदानस्त्रीणि ज्योतींषि सचते स षोडशी । एष ब्रह्मा य ऋत्वियः । इन्द्रो नाम श्रुतो गणे । प्र ते महे विदथे शंसिषं हरी । य ऋत्वियः प्र ते वन्वे । वनुषो हर्यतं मदम् । इन्द्रो नाम घृतं न यः । हरिभिश्चारु सेचते । श्रुतो गण आ त्वा विशन्तु । हरिवर्पसं गिर इत्येताभिश्चतसृभिः सन्नमभिमन्त्र्य १३
+13. With the four (verses) beginning with yasmānna jātaḥ[^1] having addressed the (scoop) which has been deposited (on the Khara-mound),[^2]   
+
+[^1]: TB II.7.9.5-6.  
+
+[^2]: Cf. TMB XII.13.32, JB I.205. The sentence in the Sūtra is incomplete. See the next Sūtra.   
 </details>

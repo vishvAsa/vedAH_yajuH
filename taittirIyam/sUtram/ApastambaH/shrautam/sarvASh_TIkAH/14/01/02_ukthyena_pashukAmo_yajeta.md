@@ -5,5 +5,7 @@ title = "02 उक्थ्येन पशुकामो यजेत"
 
 <details><summary>थिते</summary>
 
-उक्थ्येन पशुकामो यजेत । षोडशिना वीर्यकामः । अतिरात्रेण प्रजाकामः पशुकामो वा । अप्तोर्यामेणातिरात्रेण सर्वान्कामानवाप्नोति २
+2. (A sacrificer) desirous of cattle should perform an Ukthya sacrifice; ...desirous of power a Ṣoḍaśin, ...desirous of progeny or desirous of cattle Atirātra...; (the sacrificer) obtains all the desired (things) by means of Aptoryāma-Atirātra.[^1]  
+
+[^1]: Cf. TS VI.6.11.1. 
 </details>

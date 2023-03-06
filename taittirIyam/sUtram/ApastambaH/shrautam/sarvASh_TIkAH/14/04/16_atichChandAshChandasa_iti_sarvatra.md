@@ -5,5 +5,5 @@ title = "16 अतिच्छन्दाश्छन्दस इति सर
 
 <details><summary>थिते</summary>
 
-अतिच्छन्दाश्छन्दस इति सर्वत्र भक्षमन्त्रं नमति १६
+16. Everywhere he modifies the formula to be used at the time of drinking (with the words) aticchandāśchandase.  
 </details>

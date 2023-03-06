@@ -5,5 +5,7 @@ title = "05 तदुदित आदित्ये परिधीयते"
 
 <details><summary>थिते</summary>
 
-तदुदित आदित्ये परिधीयते ५
+5. It is concluded after the sun has risen.[^1]  
+
+[^1]: Cf. KB XVIII.4.  
 </details>
