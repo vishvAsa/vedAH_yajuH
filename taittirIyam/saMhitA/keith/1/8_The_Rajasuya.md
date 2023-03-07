@@ -3,40 +3,14 @@ title = "8 The Rajasuya"
 
 +++
 ## 06
-### a
-
-### b
-As many as we are of the house, to them have I made prosperity.
-### c
-Thou art the protection of cattle, the protection of the sacrifice; give  
-me protection.
-### d
-Rudra alone yieldeth to no second.
-### e
-The mole is thy beast, O Rudra; rejoice in it.
 ### f
-This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
+
 ### g
-(Give) medicine for ox, for horse, for man,  
-And medicine for us, medicine  
-That it be rich in healing,  
-Good [1] for ram and sheep.
+
 ### h
-We have appeased, O lady, Rudra,  
-The god Tryambaka;  
-That he may make us prosperous,  
-That he may increase our wealth,  
-That he may make us rich in cattle,  
-That he may embolden us.
 ### i
-To Tryambaka we make offering,  
-The fragrant, increaser of prosperity;  
-Like a cucumber from its stem,  
-From death may I be loosened, not from immortality.
 ### k
-This is thy portion, O Rudra; rejoice in it; with it for food, do thou go away beyond the Mujavants.
-### l
-With unstrung bow, thy club in thy hand, clad in skins.
+
 ## 07
 
 ### a
