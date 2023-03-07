@@ -2,21 +2,10 @@
 title = "8 The Rajasuya"
 
 +++
-## 06
-### f
-
-### g
-
-### h
-### i
-### k
-
-## 07
-
 ### a
-(He I offers) to Indra and Agni on twelve potsherds, an oblation to the All-gods, a cake on twelve potsherds to Indra Śunasira, milk to Vayu, to Sarya on one potsherd; the sacrificial fee is a plough for twelve oxen.
+
 ### b
-To Agni he offers on eight potsherds, to Rudra an oblation of Gavidhuka, to Indra curds, to Varuna an oblation made of barley; the sacrificial fee is a cow for draught purposes.
+
 ### c
 The gods that sit in the east, led by Agni; that sit in the south, led by Yama; that sit in the west, led by Savitr; that sit in the north, led by Varuna; that sit above, led by Brhaspati; that slay the Raksases; may they protect us, may they help us; to them homage; to them hail! [1]
 ### d
