@@ -3,13 +3,7 @@ title = "8 The Rajasuya"
 
 +++
 
-## 08
-
-## 09
-To the Aśvins (he offers) on two potsherds in the house of the charioteer; the sacrificial fee is two born of one mother. To Pusan (he offers) an oblation in the house of the divider; the sacrificial fee is a black (ox). To Rudra (he offers) an oblation of Gavidhuka in the house of the thrower of the dice; the sacrificial fee is a speckled (ox) with raised tail. To Indra, the good protector, he offers a cake on eleven potsherds and to Indra, who frees from distress, (with the words),  
-May the king, the slayer of Vrtra,  
-Be our king and slay the foe.  
-There is (an offering) to Mitra and Brhaspati; in the milk of a white (cow) with a white calf which has curdled itself, and in butter which has churned itself, in a dish of Aśvattha wood [2] with four corners (made) of a branch which has fallen of itself, he should scatter husked and unhusked rice grains; the husked ones in the milk are Brhaspati's, the unhusked in the butter are Mitra's; the Vedi must be self-made, the strew self-cut, the kindling-stick self-made; the sacrificial fee is the white (cow) with a white calf.
+in the milk of a white (cow) with a white calf which has curdled itself, and in butter which has churned itself, in a dish of Aśvattha wood [2] with four corners (made) of a branch which has fallen of itself, he should scatter husked and unhusked rice grains; the husked ones in the milk are Brhaspati's, the unhusked in the butter are Mitra's; the Vedi must be self-made, the strew self-cut, the kindling-stick self-made; the sacrificial fee is the white (cow) with a white calf.
 ## 10
 
 ### a

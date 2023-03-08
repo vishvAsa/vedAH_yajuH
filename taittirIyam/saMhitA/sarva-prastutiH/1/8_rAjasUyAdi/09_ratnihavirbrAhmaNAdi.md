@@ -220,9 +220,9 @@ To the Maruts (he offers) on seven potsherds in the house of the village headman
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा॒वि॒त्रन् द्वाद॑शकपालं [15]  
-ख्ष॒त्तुर्गृ॒हे  +++(निर्व॑प॒ति)+++।    
+ख्ष॒त्तुर्+++(=दासिपुत्रस्य)+++ गृ॒हे  +++(निर्व॑प॒ति)+++।    
 
-उ॑पध्व॒स्तो दख्षि॑णा ।
+उ॑पध्व॒स्तो+++(=परिभूतनिजवर्णो)+++ दख्षि॑णा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -247,12 +247,17 @@ To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒श्वि॒नन्द्वि॑कपा॒लम्    +++(निर्व॑प॒ति)+++ ।  
+आ॒श्वि॒नन् द्वि॑कपा॒लं  
+सङ्ग्रही॒तुर् गृ॒हे   +++(निर्व॑प॒ति)+++।   
 
-स॒ङ्ग्र॒ही॒तुर्गृ॒हे   +++(निर्व॑प॒ति)+++।   
-
-स॒वा॒त्यौ॑ दख्षि॑णा ।
+स॒वा॒त्यौ॑+++(=सोदर्यौ)+++ दख्षि॑णा ।
 </details>
+
+<details><summary>Keith</summary>
+
+To the Aśvins (he offers) on two potsherds in the house of the charioteer; the sacrificial fee is two born of one mother. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -265,17 +270,22 @@ To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sa
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-9श्वो भूते सङ्गहीतुस्सारथेः रश्मिग्राहिणो गृहं गत्वा आश्विनं द्विकपालं निर्वपति । रज्जुभिर्नियन्ता कुमाराध्यक्ष इत्यन्ये । सवात्यौ समानमातृकवत्सौ समाने वाते भवौ सवात्यौ सोदर्यौ । 'भवे छन्दसि' इति यः । वत्सान्तरेण दोह्या मृतवत्सा च तदीया च मातेत्यन्ये ॥
+9श्वो भूते सङ्गहीतुस्सारथेः रश्मिग्राहिणो गृहं गत्वा आश्विनं द्विकपालं निर्वपति । रज्जुभिर्नियन्ता कुमाराध्यक्ष इत्यन्ये । सवात्यौ समानमातृकवत्सौ समाने वाते भवौ **सवात्यौ** सोदर्यौ । 'भवे छन्दसि' इति यः । वत्सान्तरेण दोह्या मृतवत्सा च तदीया च मातेत्यन्ये ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पौ॒ष्णञ्च॒रुम्   +++(निर्व॑प॒ति)+++ ।   
-
-भा॒ग॒दु॒घस्य॑ गृ॒हे    +++(निर्व॑प॒ति)+++।  
+पौ॒ष्णञ्च॒रुम्  
+भागदु॒घस्य॑ गृ॒हे    +++(निर्व॑प॒ति)+++।  
 
 श्या॒मो दख्षि॑णा ।
 </details>
+
+<details><summary>Keith</summary>
+
+To Pusan (he offers) an oblation in the house of the divider; the sacrificial fee is a black (ox). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -293,16 +303,21 @@ To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौ॒द्रङ्गा॑वीधु॒कञ्च॒रुम्  
+रौ॒द्रङ् गा॑वीधु॒कञ् च॒रुम्  
+अख्षावा॒पस्य॑ गृ॒हे +++(निर्व॑प॒ति)+++।   
 
-अ॒ख्षा॒वा॒पस्य॑ गृ॒हे +++(निर्व॑प॒ति)+++।   
-
-श॒बल॒ उद्वा॑र दख्षि॑णा  ।    
+श॒बल॒ उद्वा॑र+++(=उद्वाल)+++ दख्षि॑णा  ।    
 </details>
+
+<details><summary>Keith</summary>
+
+To Rudra (he offers) an oblation of Gavidhuka in the house of the thrower of the dice; the sacrificial fee is a speckled (ox) with raised tail. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-रौ॒द्रङ्गा॑वीधु॒कञ्च॒रुम्  
+रौ॒द्रङ् गा॑वीधु॒कञ् +++(=गावीधुक-तृणजम्)+++ च॒रुम्  
 
 अ॒ख्षा॒वा॒पस्य॑ गृ॒हे +++(निर्व॑प॒ति)+++।   
 
@@ -316,23 +331,22 @@ To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sa
 
 
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-इन्द्रा॑य सु॒त्राम्णे॑ पुरो॒डाश॒मेका॑दशकपाल॒म्प्रति॒ निर्व॑प॒तीन्द्रा॑याꣳहो॒मुचे 
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य सु॒त्राम्णे॑ पुरो॒डाश॒मेका॑दशकपाल॒म्प्रति॒ निर्व॑प॒ति  ।   
-
-इन्द्रा॑याꣳहो॒मुचे॒ [पुरो॒डाश॒मेका॑दशकपाल॒म्प्रति॒ निर्व॑प॒ति ]   +++(ऋषभो दक्षिणा??)+++
+इन्द्रा॑य सु॒-त्राम्णे॑ पुरो॒डाश॒म् एका॑दशकपाल॒म् प्रति॒ निर्व॑प॒ति+   
+इन्द्रा॑याꣳहो॒मुचे॒ +++(चानेन मन्त्रेण - )+++  
++++(केचिदृषभं दक्षिणामाहुः ॥)+++
 </details>
+
+<details><summary>Keith</summary>
+
+To Indra, the good protector, he offers a cake on eleven potsherds and to Indra, who frees from distress, (with the words),
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-इन्द्रा॑य सु॒त्राम्णे॑ पुरो॒डाश॒मेका॑दशकपाल॒म्प्रति॒ निर्व॑प॒ति  ।   
-
-इन्द्रा॑याꣳहो॒मुचे॒ [पुरो॒डाश॒मेका॑दशकपाल॒म्प्रति॒ निर्व॑प॒ति ]   +++(ऋषभो दक्षिणा??)+++
+इन्द्रा॑य सु॒त्राम्णे॑ पुरो॒डाश॒मेका॑दशकपाल॒म्प्रति॒ निर्व॑प॒तीन्द्रा॑याꣳहो॒मुचे
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -342,7 +356,14 @@ To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒यन्नो॒ राजा॑ वृत्र॒हा राजा॑ भू॒त्वा वृ॒त्रव्ँव॑ध्यात् ।  
+अ॒यन्नो॒ राजा॑ +++(एव)+++ वृत्र॒हा -  
+राजा॑ भू॒त्वा वृ॒त्रव्ँ व॑ध्यात् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+May the king, the slayer of Vrtra,  
+Be our king and slay the foe.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -355,10 +376,22 @@ To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sa
 13पुरस्तात्स्विष्टकृतोध्वर्युर्जपति - अयं न इति ॥ रत्निनां गृहेभ्यः प्रव्रजतोनुमन्त्रणमनेनेति केचिदाहुः । अयं नोस्माकं राजा वृत्रहा शत्रुहा भूत्वा राजा दीप्यमानश्च भूत्वा वृत्रं शत्रून् वध्यात् नाशयेदित्याशास्महे । जातावेकवचनम् । यद्वा - वृत्रहा राजा इन्द्रः यो वृत्रं हत्वा अधिकार्थं राजा स एव भूत्वा वृत्रं वध्यादिति ॥
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+14अथैन्द्रकर्मणि समाप्ते श्वो भूते अभिषेचनीयोक्थ्ये प्रक्रान्ते द्विहविष्कां दीक्षणीयामिष्टिं विदधाति - मैत्राबार्हस्पत्यं भवतीति ॥ 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मै॒त्रा॒बा॒र्ह॒स्प॒त्यम्भ॑वति  ।
+मै॒त्रा॒बा॒र्ह॒स्प॒त्यम्भ॑वति +++(हविः)+++ ।
 </details>
+
+<details><summary>Keith</summary>
+
+There is (an offering) to Mitra and Brhaspati; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -367,7 +400,7 @@ To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sa
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-14अथैन्द्रकर्मणि समाप्ते श्वो भूते अभिषेचनीयोक्थ्ये प्रक्रान्ते द्विहविष्कां दीक्षणीयामिष्टिं विदधाति - मैत्राबार्हस्पत्यं भवतीति ॥ मैत्रश्च बार्हस्पत्यश्च मैत्राबार्हस्पत्यं, समाहारद्वन्द्वः । मैत्रश्च बार्हस्पत्यश्च द्वौ चरू कर्तव्यौ भवत इत्यर्थः । समासान्तोदात्तत्वं, छान्दस आनर्ङ् । तत्र बार्हस्पत्यस्य प्राथम्येपि अल्पाच्तरत्वान्मैत्रशब्दस्य पूर्वनिपातः ।
+मैत्रश्च बार्हस्पत्यश्च मैत्राबार्हस्पत्यं, समाहारद्वन्द्वः । मैत्रश्च बार्हस्पत्यश्च द्वौ चरू कर्तव्यौ भवत इत्यर्थः । समासान्तोदात्तत्वं, छान्दस आनर्ङ् । तत्र बार्हस्पत्यस्य प्राथम्येपि अल्पाच्तरत्वान्मैत्रशब्दस्य पूर्वनिपातः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
