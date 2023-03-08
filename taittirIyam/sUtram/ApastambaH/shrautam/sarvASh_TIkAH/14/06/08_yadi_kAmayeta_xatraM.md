@@ -5,5 +5,7 @@ title = "08 यदि कामयेत क्षत्रं"
 
 <details><summary>थिते</summary>
 
-यदि कामयेत क्षत्रं विश ओजीयः स्यादित्यग्निष्ठाद्दक्षिणान्वर्षीयसो मिनुयात् ८
+8. If he desires, "May the Kṣatriyas be superiour to the Vaiśyas”, he should make posts to the south of the Agniṣṭha taller.[^1]  
+
+[^1]: The posts to the north will be equal in height to that of the Agnistha in that case.   
 </details>

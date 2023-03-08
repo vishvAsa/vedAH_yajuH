@@ -5,5 +5,12 @@ title = "02 स यः कामयेत"
 
 <details><summary>थिते</summary>
 
-स यः कामयेत प्रियः स्यामिति यं वा कामयेत प्रियः स्यादिति तस्मा एतं स्थागरमलङ्कारं कल्पयित्वा दशहोतारं पुरस्ताद्व्याख्याय चतुर्होतारं दक्षिणतः पञ्चहोतारं पश्चात्षड्ढोतारमुत्तरतः सप्तहोतारमुपरिष्टात्सम्भारैश्च पत्निभिश्च मुखेऽलङ्कृत्यास्यार्धं व्रजेत् । प्रियो हैव भवतीति विज्ञायते २
+2. “He who desires, “May I be dear (of a certain person)”, or about whom he desires, “May he be dear (to me)," having arranged this ornament out of Sthagara,[^1] for him, having recited the Daśahotr̥ (-formula) to the east (of it), the Caturhotr̥-formula to the south (of it), the Pañcahotr̥ (formula) to the west (of it), the Ṣadḍhotr̥ (-formula) to the north (of it) and the Saptahotr̥ (formula) above (it), having adorned his face with (that material while reciting) the Sambhāra and Patnī-fromulae,[^2] he should go towards (the person concerned). He indded becomes dear (of that person)”—thus is known (from a Brāhmaṇa-text).[^3]   
+
+
+[^1]: For Sthagara cp. also Kau. Sūtra 35.21.  
+
+[^2]: TĀ III.9 and 10.  
+
+[^3]: Cf. TB II.3.10.1-3.  
 </details>

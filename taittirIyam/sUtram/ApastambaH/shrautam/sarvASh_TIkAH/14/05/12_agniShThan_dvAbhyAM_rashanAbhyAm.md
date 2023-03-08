@@ -5,5 +5,7 @@ title = "12 अग्निष्ठन् द्वाभ्यां रशन
 
 <details><summary>थिते</summary>
 
-अग्निष्ठं द्वाभ्यां रशनाभ्यां परिवीयैकादशिनी रशनाः परिवीयाग्निष्ठे वासयति १२
+12. Having wound the Agniṣṭha (-sacrificial post) by means of two strings,[^1] having wound the Agniṣṭha by means of the strings intended for the eleven (sacrificial posts), he causes it remain so (through the night).   
+
+[^1]: See also VII.11.5.   
 </details>

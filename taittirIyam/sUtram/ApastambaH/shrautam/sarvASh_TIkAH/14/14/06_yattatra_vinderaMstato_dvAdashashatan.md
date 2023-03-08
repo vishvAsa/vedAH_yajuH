@@ -5,5 +5,7 @@ title = "06 यत्तत्र विन्देरंस्ततो द्
 
 <details><summary>थिते</summary>
 
-यत्तत्र विन्देरंस्ततो द्वादशशतं दक्षिणाः ६
+6. One hundred and twelve (cows should be given as) gifts out of what they obtain there (as booty).[^1]   
+
+[^1]: Cf. KS IX.14.  
 </details>

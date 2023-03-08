@@ -5,5 +5,7 @@ title = "08 उपाकृते स्तोत्रे वाचं"
 
 <details><summary>थिते</summary>
 
-उपाकृते स्तोत्रे वाचं यच्छत्या शस्त्रयाज्यायाः ८
+8. After the Praise-singing (stotra) has been bespoken, he restrains his speech upto the offering verse in the Śastra (-recitation).[^1]   
+
+[^1]: Cf. AB V.33.   
 </details>
