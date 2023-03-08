@@ -439,8 +439,14 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रष्टिवा॒ही रथो॒ दख्षि॑णा ।
+प्रष्टि+++(=त्र्यश्व)+++-वा॒ही रथो॒ दख्षि॑णा ।
 </details>
+
+<details><summary>Keith</summary>
+
+The sacrificial fee is a chariot with three horses.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -450,7 +456,7 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अत्र प्रष्टिवाही रथो दक्षिणा ।  
-प्रष्टिः त्रिपादाधारविशेषः ।  
+**प्रष्टिः** त्रिपादाधारविशेषः ।  
 
 यो रथस्त्रिभिरश्वैर्युक्तः प्रष्टिवद्वहति स प्रष्टिवाही ।  
 'उपमानं शब्दार्थप्रकृतावेव' इति नियमात् पूर्वपदाद्युदात्तत्वाभावे कृदुत्तरपदप्रकृतिस्वरत्वमेव प्रवर्तते ।  
@@ -464,35 +470,75 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 सो ऽनेन यजेतेत्य् अयज्ञसंयुक्तं केचिदाहुः ॥
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚ऽश्विनो᳚र्बा॒हुभ्या᳚म्पू॒ष्णो हस्ता᳚भ्या॒ꣳ॒ रख्ष॑सो व॒धञ्जु॑होमि ।
+14अथ व्युष्टायां पुनर[पुरा]ग्निहोत्रात् अपामार्गसक्तून् जुहोति - देवस्येति ॥ 
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
 
-14अथ व्युष्टायां पुनर[पुरा]ग्निहोत्रात् अपामार्गसक्तून् जुहोति - देवस्येति ॥ व्याख्यातम् । रक्षसो वधं वधहेतूनिमान् जुहोमीति ॥
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ह॒तꣳ रख्षः॑ ।
+‌… रख्ष॑सो व॒धञ्जु॑होमि ।
 </details>
+
+<details><summary>Keith</summary>
+
+I offer (for) the death of the Raksases; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-ह॒तꣳ रख्षः॑ ।
+‌… रख्ष॑सो व॒धञ्जु॑होमि ।
 </details>
 
+
 <details><summary>भट्टभास्कर-टीका</summary>
+
+व्याख्यातम् । रक्षसो वधं वधहेतूनिमान् जुहोमीति ॥
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
 15स्रुवं प्रहरति - हतं रक्ष इति ॥
 </details>
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ह॒तꣳ रख्षः॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+the Raksases are slain
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ह॒तꣳ रख्षः॑ ।
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+16उत्तिष्ठति - अवधिष्म रक्ष इति ॥ 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव॑धिष्म॒ रख्षः॑ ।  
 </details>
+
+<details><summary>Keith</summary>
+
+we have killed the Raksases.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -501,12 +547,17 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-16उत्तिष्ठति - अवधिष्म रक्ष इति ॥ हतवन्तो वयं रक्षः, तत्किमिदानीमास्म इत्युत्तिष्ठति ॥
+हतवन्तो वयं रक्षः, तत्किमिदानीमास्म इत्युत्तिष्ठति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्वस्ते॒ तद्दख्षि॑णा ॥ [13]
+यद् वस्ते॒+++(=परिधत्ते)+++ तद् दख्षि॑णा ॥ [13]
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+The sacrificial fee is what he wears.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -516,7 +567,7 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-17अत्र राजा यद्वस्ते परिधत्ते तद्दक्षिणा अध्वर्यवे वस्त्रं देयम् ॥
+17अत्र राजा **यद् वस्ते** परिधत्ते तद् दक्षिणा अध्वर्यवे वस्त्रं देयम् ॥
 
 इत्यष्टमे सप्तमोनुवाकः ॥  
 </details>

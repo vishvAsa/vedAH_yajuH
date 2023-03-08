@@ -2,24 +2,9 @@
 title = "8 The Rajasuya"
 
 +++
-### a
 
-### b
-
-### c
-
-### d
-
-### e
-
-### f
-The sacrificial fee is a chariot with three horses.
-### g
-On the instigation of the god Savity, with the arms of the Aśvins, with the hands of Pusan, I offer (for) the death of the Raksases; the Raksases are slain; we have killed the Raksases.
-### h
-The sacrificial fee is what he wears.
 ## 08
-He offers a cake on twelve potsherds to Dhatr, to Anumati an oblation, to Raka an oblation, to Sinivali an oblation, to Kuhu an oblation; the sacrificial fee is a pair of cattle. To Agni and Visnu he offers on eleven potsherds, to Indra and Visnu on eleven potsherds, to Visnu on three potsherds; the sacrificial fee is a dwarf beast of burden. To Agni and Soma he offers on eleven potsherds, to Indra and Soma on eleven potsherds, to Soma an oblation; the sacrificial fee is a brown (animal). To Soma and Pusan he offers an oblation, to Indra and Pusan an oblation, to Pusan an oblation; the sacrificial fee is a dark (animal). To (Agni) Vaiśvanara he offers on twelve potsherds; the sacrificial fee is gold. To Varuna (he offers) an oblation made of barley; the sacrificial fee is a horse.
+
 ## 09
 To Brhaspati he offers an oblation in the house of the Brahman (priest); the sacrificial fee is a white-backed (animal). (He offers) to Indra on eleven potsherds in the house of a Rajanya; the sacrificial fee is a bull. To Aditya (he offers) an oblation in the house of the chief wife; the sacrificial fee is a cow. To Nirrti (he offers) an oblation in the house of the neglected wife, made up of rice broken by the nails; the sacrificial fee is a black hornless (cow). To Agni (he offers) on eight potsherds in the house of the leader of the host; the sacrificial fee is gold. To Varuna (he offers) on ten potsherds in the house of the minstrel; the sacrificial fee is a great castrated (ox). To the Maruts (he offers) on seven potsherds in the house of the village headman; the sacrificial fee is a dappled (cow). To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sacrificial fee is a speckled (ox). To the Aśvins (he offers) on two potsherds in the house of the charioteer; the sacrificial fee is two born of one mother. To Pusan (he offers) an oblation in the house of the divider; the sacrificial fee is a black (ox). To Rudra (he offers) an oblation of Gavidhuka in the house of the thrower of the dice; the sacrificial fee is a speckled (ox) with raised tail. To Indra, the good protector, he offers a cake on eleven potsherds and to Indra, who frees from distress, (with the words),  
 May the king, the slayer of Vrtra,  
