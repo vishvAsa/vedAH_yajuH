@@ -7,11 +7,11 @@ title = "8 The Rajasuya"
 ### b
 
 ### c
-The gods that sit in the east, led by Agni; that sit in the south, led by Yama; that sit in the west, led by Savitr; that sit in the north, led by Varuna; that sit above, led by Brhaspati; that slay the Raksases; may they protect us, may they help us; to them homage; to them hail! [1]
+
 ### d
-The Raksases are collected, the Raksases are burnt up; here do I burn up the Raksases.
+
 ### e
-To Agni, slayer of Raksases, hail! To Yama, Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
+
 ### f
 The sacrificial fee is a chariot with three horses.
 ### g
