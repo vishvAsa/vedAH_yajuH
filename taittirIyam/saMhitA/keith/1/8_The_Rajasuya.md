@@ -2,66 +2,8 @@
 title = "8 The Rajasuya"
 
 +++
-## 06
-### a
 
-### b
-As many as we are of the house, to them have I made prosperity.
-### c
-Thou art the protection of cattle, the protection of the sacrifice; give  
-me protection.
-### d
-Rudra alone yieldeth to no second.
-### e
-The mole is thy beast, O Rudra; rejoice in it.
-### f
-This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
-### g
-(Give) medicine for ox, for horse, for man,  
-And medicine for us, medicine  
-That it be rich in healing,  
-Good [1] for ram and sheep.
-### h
-We have appeased, O lady, Rudra,  
-The god Tryambaka;  
-That he may make us prosperous,  
-That he may increase our wealth,  
-That he may make us rich in cattle,  
-That he may embolden us.
-### i
-To Tryambaka we make offering,  
-The fragrant, increaser of prosperity;  
-Like a cucumber from its stem,  
-From death may I be loosened, not from immortality.
-### k
-This is thy portion, O Rudra; rejoice in it; with it for food, do thou go away beyond the Mujavants.
-### l
-With unstrung bow, thy club in thy hand, clad in skins.
-## 07
-
-### a
-(He I offers) to Indra and Agni on twelve potsherds, an oblation to the All-gods, a cake on twelve potsherds to Indra Śunasira, milk to Vayu, to Sarya on one potsherd; the sacrificial fee is a plough for twelve oxen.
-### b
-To Agni he offers on eight potsherds, to Rudra an oblation of Gavidhuka, to Indra curds, to Varuna an oblation made of barley; the sacrificial fee is a cow for draught purposes.
-### c
-The gods that sit in the east, led by Agni; that sit in the south, led by Yama; that sit in the west, led by Savitr; that sit in the north, led by Varuna; that sit above, led by Brhaspati; that slay the Raksases; may they protect us, may they help us; to them homage; to them hail! [1]
-### d
-The Raksases are collected, the Raksases are burnt up; here do I burn up the Raksases.
-### e
-To Agni, slayer of Raksases, hail! To Yama, Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
-### f
-The sacrificial fee is a chariot with three horses.
-### g
-On the instigation of the god Savity, with the arms of the Aśvins, with the hands of Pusan, I offer (for) the death of the Raksases; the Raksases are slain; we have killed the Raksases.
-### h
-The sacrificial fee is what he wears.
-## 08
-He offers a cake on twelve potsherds to Dhatr, to Anumati an oblation, to Raka an oblation, to Sinivali an oblation, to Kuhu an oblation; the sacrificial fee is a pair of cattle. To Agni and Visnu he offers on eleven potsherds, to Indra and Visnu on eleven potsherds, to Visnu on three potsherds; the sacrificial fee is a dwarf beast of burden. To Agni and Soma he offers on eleven potsherds, to Indra and Soma on eleven potsherds, to Soma an oblation; the sacrificial fee is a brown (animal). To Soma and Pusan he offers an oblation, to Indra and Pusan an oblation, to Pusan an oblation; the sacrificial fee is a dark (animal). To (Agni) Vaiśvanara he offers on twelve potsherds; the sacrificial fee is gold. To Varuna (he offers) an oblation made of barley; the sacrificial fee is a horse.
-## 09
-To Brhaspati he offers an oblation in the house of the Brahman (priest); the sacrificial fee is a white-backed (animal). (He offers) to Indra on eleven potsherds in the house of a Rajanya; the sacrificial fee is a bull. To Aditya (he offers) an oblation in the house of the chief wife; the sacrificial fee is a cow. To Nirrti (he offers) an oblation in the house of the neglected wife, made up of rice broken by the nails; the sacrificial fee is a black hornless (cow). To Agni (he offers) on eight potsherds in the house of the leader of the host; the sacrificial fee is gold. To Varuna (he offers) on ten potsherds in the house of the minstrel; the sacrificial fee is a great castrated (ox). To the Maruts (he offers) on seven potsherds in the house of the village headman; the sacrificial fee is a dappled (cow). To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sacrificial fee is a speckled (ox). To the Aśvins (he offers) on two potsherds in the house of the charioteer; the sacrificial fee is two born of one mother. To Pusan (he offers) an oblation in the house of the divider; the sacrificial fee is a black (ox). To Rudra (he offers) an oblation of Gavidhuka in the house of the thrower of the dice; the sacrificial fee is a speckled (ox) with raised tail. To Indra, the good protector, he offers a cake on eleven potsherds and to Indra, who frees from distress, (with the words),  
-May the king, the slayer of Vrtra,  
-Be our king and slay the foe.  
-There is (an offering) to Mitra and Brhaspati; in the milk of a white (cow) with a white calf which has curdled itself, and in butter which has churned itself, in a dish of Aśvattha wood [2] with four corners (made) of a branch which has fallen of itself, he should scatter husked and unhusked rice grains; the husked ones in the milk are Brhaspati's, the unhusked in the butter are Mitra's; the Vedi must be self-made, the strew self-cut, the kindling-stick self-made; the sacrificial fee is the white (cow) with a white calf.
+in the milk of a white (cow) with a white calf which has curdled itself, and in butter which has churned itself, in a dish of Aśvattha wood [2] with four corners (made) of a branch which has fallen of itself, he should scatter husked and unhusked rice grains; the husked ones in the milk are Brhaspati's, the unhusked in the butter are Mitra's; the Vedi must be self-made, the strew self-cut, the kindling-stick self-made; the sacrificial fee is the white (cow) with a white calf.
 ## 10
 
 ### a

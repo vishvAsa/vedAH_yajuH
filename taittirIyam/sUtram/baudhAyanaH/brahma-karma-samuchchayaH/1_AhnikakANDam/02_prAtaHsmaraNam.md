@@ -6,7 +6,6 @@ title = "०२ प्रातःस्मरणम्"
 
 अथ रात्रेरुपान्त्ययामे तल्पादुत्थाय श्रीमहागणपतिं स्मृत्वा हस्तपादं प्रक्षाल्य तूष्णीमाचम्य पठेत्- 
 
-
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/01_prAtaragnim_prAtarindram.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
@@ -27,7 +26,6 @@ title = "०२ प्रातःस्मरणम्"
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/04_adyA_no.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/05_vishvAni_deva.md"  newLevelForH1="5" includeTitle="false"> </div>  
-
 
 
 [[वेदमन्त्रादिः]]
