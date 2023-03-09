@@ -3,26 +3,6 @@ title = "8 The Rajasuya"
 
 +++
 
-
-
-### b
-
-### c
-O ye gods that instigate the gods, do ye instigate him, descendant of N. N., to freedom from foes, to great lordship, to great overlordship, to great rule over the people.
-### d
-This is your king, O Bharatas; Soma is the king of us Brahmans.
-### e
-This kingdom hath verily been conferred,  
-Varuna hath diffused his own body;  
-We have become obedient to pure Mitra;  
-We have magnified the name of the great holy order.
-### f
-These have become all the hosts of Varuna,  
-Mitra in his course hath overcome hostility;  
-The worshipful ones have taken order according to sacred law:  
-Trita hath taken possession of our old age.
-### g
-Thou art the stepping of Visnu, thou art the step of Visnu, thou art the stride of Visnu.
 ## 11
 
 ### a
