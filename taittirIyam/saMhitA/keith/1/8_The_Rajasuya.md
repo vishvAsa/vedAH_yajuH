@@ -3,13 +3,10 @@ title = "8 The Rajasuya"
 
 +++
 
-in the milk of a white (cow) with a white calf which has curdled itself, and in butter which has churned itself, in a dish of Aśvattha wood [2] with four corners (made) of a branch which has fallen of itself, he should scatter husked and unhusked rice grains; the husked ones in the milk are Brhaspati's, the unhusked in the butter are Mitra's; the Vedi must be self-made, the strew self-cut, the kindling-stick self-made; the sacrificial fee is the white (cow) with a white calf.
-## 10
 
-### a
-To Agni, lord of the house, he offers a cake of black rice on eight potsherds; to Soma, lord of the forest, an oblation of millet; to Savitr, of true instigation, a cake of swift-growing rice on twelve potsherds; to Rudra, lord of cattle, an oblation of Gavidhuka; to Brhaspati, lord of speech, an oblation of wild rice; to Indra, the noblest, a cake of large rice on eleven potsherds; to Mitra, the true, an oblation of Amba grain, and to Varuna, lord of right, an oblation made of barley.
+
 ### b
-May Savity of instigations instigate thee, Agni of lords of the house, Soma of lords of the forest, Rudra of cattle [1], Brhaspati of speech, Indra of nobles, Mitra of truth, Varuna of lords of right.
+
 ### c
 O ye gods that instigate the gods, do ye instigate him, descendant of N. N., to freedom from foes, to great lordship, to great overlordship, to great rule over the people.
 ### d
