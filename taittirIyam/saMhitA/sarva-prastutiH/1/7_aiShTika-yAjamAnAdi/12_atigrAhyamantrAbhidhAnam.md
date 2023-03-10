@@ -39,7 +39,7 @@ title = "१२ अतिग्राह्यमन्त्राभिधा�
 हे ग्रह त्वा त्वां नृषदं नृषु प्रजासु सीदति स्थित्यर्थं तेषां नृषत् । एवमुत्तरत्र । सुषामादित्वात्षत्वम्, 'सन्दिरप्रतेः' इति वा सर्वविषयं द्रष्टव्यम् । द्रुषदं 'वनस्पतयो वै द्रु' । भुवनसदं भुवनं सर्वभूतजातम् । इन्द्राय जुष्टं प्रियं गृह्णामीति व्याख्यातप्रायम् ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -71,7 +71,7 @@ thee that sittest in the waters, that sittest in the ghee, that sittest in the s
 त्वा त्वामप्सुषदम् । 'तत्पुरुषे कृतिबहुलम्' इत्यलुक् । अन्नादीनामुत्पादकतया तत्र सीदतीति । अग्नौ प्रास्ताहुतिस्सम्यक्' इत्यादि ।  
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -110,7 +110,7 @@ thee that sittest on the earth, that sittest on the atmosphere, that sittest on 
 पृथिविषदम् । 'ङ्यापोस्संज्ञाच्छन्दसोः' इति ह्रस्वत्वम् । पूर्ववद्भूतिहेतुत्वेन पृथिव्यादिषु सदनम् । गतमन्यत् ।  
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -152,7 +152,7 @@ The food and strength have I seized;
 तेषां तेभ्यः । तादर्थ्यचतुर्थ्याष्षष्ठी । विशिप्रियाणां विविधहनुपर्यन्तानां इषमन्नमूर्जं रसं च समग्रभीं सङ्गृह्णामि । उपयामगृहीतोसीति गृह्णाति । छान्दसे लुङि 'अमो मश्' 'हृग्रहोर्भः' ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -194,7 +194,7 @@ That of you I take which is the best;
 उपयामगृहीतोसीति गृह्णाति । क्रियाविशेषणं वा, उत्तमं गृह्णामीति । तादर्थ्यात्ताच्छब्द्यम् । उत्तमशब्द उञ्छादिः । 'ऊडिदम्' इत्यद्भ्यष्षष्ठ्या उदात्तत्वम् ।  
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -243,7 +243,7 @@ What time he moved a body in his own body.
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/12_atigrAhyamantrAbhidhAnam/prajApataye_tvA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/prajApataye_tvA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details><summary>भट्टभास्कर-टीका</summary>
