@@ -394,7 +394,7 @@ Trita hath taken possession of our old age.
 7-9त्रीन्विष्णुक्रमान् प्राचः क्रामति - विष्णोः क्रमोसीति ॥ व्याख्यातम् ॥
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 

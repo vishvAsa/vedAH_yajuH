@@ -8,12 +8,7 @@ title = "8 The Rajasuya"
 ### a
 Ye are active, thou art the lord of the waters, thou art the male wave, thou art the male host, ye are the pen-dwellers, ye are the strength of the Maruts, ye have the radiance of the sun, ye have the brightness of the sun, ye are delightful, ye are obedient, ye are powerful, ye are all supporters, ye are supporters of men, ye have the brilliance of Agni, ye are the sap of the waters, of the plants.
 ### b
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
-### c
-Ye are givers of the kingdom; give ye the kingdom, hail! Ye are givers of the kingdom; give N. N. the kingdom.
+
 ## 12
 a. O ye divine waters, be ye united  
 Full of sweetness with the sweet,  
