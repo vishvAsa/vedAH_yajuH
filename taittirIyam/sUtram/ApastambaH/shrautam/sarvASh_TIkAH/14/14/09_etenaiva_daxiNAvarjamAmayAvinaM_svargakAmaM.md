@@ -5,5 +5,5 @@ title = "09 एतेनैव दक्षिणावर्जमामया�
 
 <details><summary>थिते</summary>
 
-एतेनैव दक्षिणावर्जमामयाविनं स्वर्गकामं वा याजयेत् ९
+9. (The Adhvaryu) should cause a (sacrificer) diseased or desirous of heaven, to perform the same (rite with the Pañcahotr̥ formula) without the sacrificial gifts.  
 </details>

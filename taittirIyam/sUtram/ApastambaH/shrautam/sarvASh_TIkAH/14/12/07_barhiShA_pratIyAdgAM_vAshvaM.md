@@ -5,5 +5,7 @@ title = "07 बर्हिषा प्रतीयाद्गां वाश
 
 <details><summary>थिते</summary>
 
-बर्हिषा प्रतीयाद्गां वाश्वं वा ७
+7. One should go towards the cow or the horse (given to one) with sacrificial grass (in one's hand),[^1]   
+
+[^1]: Cf. TB II.3.2.6.  
 </details>

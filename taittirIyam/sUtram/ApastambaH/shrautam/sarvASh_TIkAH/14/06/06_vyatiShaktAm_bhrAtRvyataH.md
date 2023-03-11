@@ -5,5 +5,7 @@ title = "06 व्यतिषक्ताम् भ्रातृव्यत�
 
 <details><summary>थिते</summary>
 
-व्यतिषक्तां भ्रातृव्यतः ६
+6. In the case of a (sacrificer) who has an enemy, (he should make the line of the sacrificial posts) alternately equally tall and short.   
+
+[^1]: Cp. KS XXVI.8. 
 </details>

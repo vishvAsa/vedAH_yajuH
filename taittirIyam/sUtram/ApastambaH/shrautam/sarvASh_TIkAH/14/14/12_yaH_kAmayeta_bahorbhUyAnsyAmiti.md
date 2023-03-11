@@ -5,5 +5,7 @@ title = "12 यः कामयेत बहोर्भूयान्स्य
 
 <details><summary>थिते</summary>
 
-यः कामयेत बहोर्भूयान्स्यामिति स दशहोतारं प्रयुञ्जीत । यः कामयेत वीरो म आजायेतेति स चतुर्होतारम् । यः कामयेत पशुमान्स्यामिति स पञ्चहोतारम् । यः कामयेतर्तवो मे कल्पेरन्निति स षड्ढोतारम् । यः कामयेत सोमपः सोमयाजी स्यामा मे सोमपः सोमयाजी जायेतेति स सप्तहोतारम् १२
+12. (The sacrificer) who would desire, “May I become better than the good," should use the Daśahotr̥ (Formula);... who would desire, “May a heroic son be born of me he the Caturhotr̥(-formula); who would desire, “May I be possessor of cattle" he the Pañcahotr̥ (formula); who would desire, “May the seasons be arranged for me,” he the Śaḍhotr̥ (-formula); who would desire, “May I be a drinker of Soma, performer of a Soma-sacrifice, may a drinker of Soma, performer of a Soma sacrifice be born to me," he the Saptahotr̥ (-formula).[^1]   
+
+[^1]: For this Sūtra cf. TB II.2.11.1-4. 
 </details>

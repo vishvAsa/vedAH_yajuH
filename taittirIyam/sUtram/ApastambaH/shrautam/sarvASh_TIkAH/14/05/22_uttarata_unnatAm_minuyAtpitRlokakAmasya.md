@@ -5,5 +5,5 @@ title = "22 उत्तरत उन्नताम् मिनुयात्
 
 <details><summary>थिते</summary>
 
-उत्तरत उन्नतां मिनुयात्पितृलोककामस्य २२
+22. In the case of a (sacrificer) desirous of the world of ancestors, (it should be) tall (and taller successively) towards the north.  
 </details>

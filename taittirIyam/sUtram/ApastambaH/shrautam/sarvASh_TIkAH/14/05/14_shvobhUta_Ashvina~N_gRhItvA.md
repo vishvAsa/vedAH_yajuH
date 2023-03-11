@@ -5,5 +5,5 @@ title = "14 श्वोभूत आश्विनङ् गृहीत्व
 
 <details><summary>थिते</summary>
 
-श्वोभूत आश्विनं गृहीत्वा यूपान्सम्मिनोति १४
+14. On the next day having taken the Āśvina-scoop, he fixes the (other)sacrificial posts.  
 </details>

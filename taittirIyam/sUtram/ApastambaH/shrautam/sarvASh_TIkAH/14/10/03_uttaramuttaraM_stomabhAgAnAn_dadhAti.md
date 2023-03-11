@@ -5,5 +5,5 @@ title = "03 उत्तरमुत्तरं स्तोमभागान�
 
 <details><summary>थिते</summary>
 
-उत्तरमुत्तरं स्तोमभागानां दधाति ३
+3. In every following praise-song, he adds one of the following Stomabhāga-formulae.  
 </details>

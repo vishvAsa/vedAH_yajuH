@@ -5,5 +5,5 @@ title = "11 सप्तहोत्रा यज्ञविभ्रष्ट�
 
 <details><summary>थिते</summary>
 
-सप्तहोत्रा यज्ञविभ्रष्टं याजयेच्चतुर्गृहीतेनाज्येन । अर्धं वा पूर्वेण ग्रहेणार्धमुत्तरेण ११
+11. He should cause a (sacrificer) fallen from sacrifice to perform an offering with the Saptahotr̥ (formula) by means of four-times-scooped ghee; or (he may offer) half (of the ghee) with the first (part of the formula called) graha and half with the next (part of the formula called graha).  
 </details>

@@ -5,5 +5,5 @@ title = "06 अभ्यावर्तते मनोता"
 
 <details><summary>थिते</summary>
 
-अभ्यावर्तते मनोता ६
+6. The (libation to) Manotā is repeated (in the case of each animal)  
 </details>

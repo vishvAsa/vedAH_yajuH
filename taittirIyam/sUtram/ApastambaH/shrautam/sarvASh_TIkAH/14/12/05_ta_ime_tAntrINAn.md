@@ -5,5 +5,5 @@ title = "05 त इमे तान्त्रीणान्"
 
 <details><summary>थिते</summary>
 
-त इमे तान्त्रीणां दक्षिणानां प्रतिग्रहणाः स्युः ५
+5. Thus these (formlae) should be used at the time of receiving the gifts being given at the time of regular sacrificial procedure. 
 </details>

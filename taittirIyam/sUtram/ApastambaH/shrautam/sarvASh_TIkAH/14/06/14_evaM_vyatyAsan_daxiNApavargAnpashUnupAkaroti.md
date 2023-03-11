@@ -5,5 +5,5 @@ title = "14 एवं व्यत्यासन् दक्षिणापव
 
 <details><summary>थिते</summary>
 
-एवं व्यत्यासं दक्षिणापवर्गान्पशूनुपाकरोति १४
+14. In this manner, alternately, he dedicates the animals at the sacrificial posts to the north and south of the Agniṣṭha, ending towards the south.    
 </details>

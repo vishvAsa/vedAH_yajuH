@@ -5,5 +5,5 @@ title = "10 मनसा स्वर्गकामस्य जुहुया
 
 <details><summary>थिते</summary>
 
-मनसा स्वर्गकामस्य जुहुयात् १०
+10. For a sacrificer desirous of heaven, he should offer . (while reciting the Palicahotr-formula) mentally. 
 </details>

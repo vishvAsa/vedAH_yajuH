@@ -5,5 +5,5 @@ title = "11 आध्वर्यव एवातोऽन्यानि कर
 
 <details><summary>थिते</summary>
 
-आध्वर्यव एवातोऽन्यानि कर्माणि ब्रह्मण आम्नातानि भवन्ति ११
+11. The duties other than those of the Brahman are prescribed in the part dealing with the ritual of the Adhvaryu itself. 
 </details>
