@@ -2,62 +2,13 @@
 title = "8 The Rajasuya"
 
 +++
-### a
 
-### b
-
-### c
-The gods that sit in the east, led by Agni; that sit in the south, led by Yama; that sit in the west, led by Savitr; that sit in the north, led by Varuna; that sit above, led by Brhaspati; that slay the Raksases; may they protect us, may they help us; to them homage; to them hail! [1]
-### d
-The Raksases are collected, the Raksases are burnt up; here do I burn up the Raksases.
-### e
-To Agni, slayer of Raksases, hail! To Yama, Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
-### f
-The sacrificial fee is a chariot with three horses.
-### g
-On the instigation of the god Savity, with the arms of the Aśvins, with the hands of Pusan, I offer (for) the death of the Raksases; the Raksases are slain; we have killed the Raksases.
-### h
-The sacrificial fee is what he wears.
-## 08
-He offers a cake on twelve potsherds to Dhatr, to Anumati an oblation, to Raka an oblation, to Sinivali an oblation, to Kuhu an oblation; the sacrificial fee is a pair of cattle. To Agni and Visnu he offers on eleven potsherds, to Indra and Visnu on eleven potsherds, to Visnu on three potsherds; the sacrificial fee is a dwarf beast of burden. To Agni and Soma he offers on eleven potsherds, to Indra and Soma on eleven potsherds, to Soma an oblation; the sacrificial fee is a brown (animal). To Soma and Pusan he offers an oblation, to Indra and Pusan an oblation, to Pusan an oblation; the sacrificial fee is a dark (animal). To (Agni) Vaiśvanara he offers on twelve potsherds; the sacrificial fee is gold. To Varuna (he offers) an oblation made of barley; the sacrificial fee is a horse.
-## 09
-To Brhaspati he offers an oblation in the house of the Brahman (priest); the sacrificial fee is a white-backed (animal). (He offers) to Indra on eleven potsherds in the house of a Rajanya; the sacrificial fee is a bull. To Aditya (he offers) an oblation in the house of the chief wife; the sacrificial fee is a cow. To Nirrti (he offers) an oblation in the house of the neglected wife, made up of rice broken by the nails; the sacrificial fee is a black hornless (cow). To Agni (he offers) on eight potsherds in the house of the leader of the host; the sacrificial fee is gold. To Varuna (he offers) on ten potsherds in the house of the minstrel; the sacrificial fee is a great castrated (ox). To the Maruts (he offers) on seven potsherds in the house of the village headman; the sacrificial fee is a dappled (cow). To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sacrificial fee is a speckled (ox). To the Aśvins (he offers) on two potsherds in the house of the charioteer; the sacrificial fee is two born of one mother. To Pusan (he offers) an oblation in the house of the divider; the sacrificial fee is a black (ox). To Rudra (he offers) an oblation of Gavidhuka in the house of the thrower of the dice; the sacrificial fee is a speckled (ox) with raised tail. To Indra, the good protector, he offers a cake on eleven potsherds and to Indra, who frees from distress, (with the words),  
-May the king, the slayer of Vrtra,  
-Be our king and slay the foe.  
-There is (an offering) to Mitra and Brhaspati; in the milk of a white (cow) with a white calf which has curdled itself, and in butter which has churned itself, in a dish of Aśvattha wood [2] with four corners (made) of a branch which has fallen of itself, he should scatter husked and unhusked rice grains; the husked ones in the milk are Brhaspati's, the unhusked in the butter are Mitra's; the Vedi must be self-made, the strew self-cut, the kindling-stick self-made; the sacrificial fee is the white (cow) with a white calf.
-## 10
-
-### a
-To Agni, lord of the house, he offers a cake of black rice on eight potsherds; to Soma, lord of the forest, an oblation of millet; to Savitr, of true instigation, a cake of swift-growing rice on twelve potsherds; to Rudra, lord of cattle, an oblation of Gavidhuka; to Brhaspati, lord of speech, an oblation of wild rice; to Indra, the noblest, a cake of large rice on eleven potsherds; to Mitra, the true, an oblation of Amba grain, and to Varuna, lord of right, an oblation made of barley.
-### b
-May Savity of instigations instigate thee, Agni of lords of the house, Soma of lords of the forest, Rudra of cattle [1], Brhaspati of speech, Indra of nobles, Mitra of truth, Varuna of lords of right.
-### c
-O ye gods that instigate the gods, do ye instigate him, descendant of N. N., to freedom from foes, to great lordship, to great overlordship, to great rule over the people.
-### d
-This is your king, O Bharatas; Soma is the king of us Brahmans.
-### e
-This kingdom hath verily been conferred,  
-Varuna hath diffused his own body;  
-We have become obedient to pure Mitra;  
-We have magnified the name of the great holy order.
-### f
-These have become all the hosts of Varuna,  
-Mitra in his course hath overcome hostility;  
-The worshipful ones have taken order according to sacred law:  
-Trita hath taken possession of our old age.
-### g
-Thou art the stepping of Visnu, thou art the step of Visnu, thou art the stride of Visnu.
 ## 11
 
 ### a
 Ye are active, thou art the lord of the waters, thou art the male wave, thou art the male host, ye are the pen-dwellers, ye are the strength of the Maruts, ye have the radiance of the sun, ye have the brightness of the sun, ye are delightful, ye are obedient, ye are powerful, ye are all supporters, ye are supporters of men, ye have the brilliance of Agni, ye are the sap of the waters, of the plants.
 ### b
-They have taken the waters, divine,  
-Rich in sweetness, full of strength, caring for the royal consecration;  
-Whereby they anointed Mitra and Varuna,  
-Whereby they led Indra beyond his foes.
-### c
-Ye are givers of the kingdom; give ye the kingdom, hail! Ye are givers of the kingdom; give N. N. the kingdom.
+
 ## 12
 a. O ye divine waters, be ye united  
 Full of sweetness with the sweet,  

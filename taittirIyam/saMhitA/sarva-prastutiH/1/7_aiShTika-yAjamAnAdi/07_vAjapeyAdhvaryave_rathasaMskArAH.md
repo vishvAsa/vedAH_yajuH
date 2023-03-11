@@ -255,7 +255,7 @@ with it may he win the prize.
 7विष्णुक्रमान् क्रमते, रथं यजमानोभ्येति - विष्णोरिति ॥ 
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
