@@ -1,5 +1,5 @@
 ---
-title: शिंशुमार-वन्दनम्
+title: २२-३ शिंशुमार-वन्दनम्
 unicode_script: devanagari
 practice_weight: 0
 ---

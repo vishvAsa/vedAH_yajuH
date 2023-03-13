@@ -3,12 +3,6 @@ title = "8 The Rajasuya"
 
 +++
 
-## 11
-
-### a
-Ye are active, thou art the lord of the waters, thou art the male wave, thou art the male host, ye are the pen-dwellers, ye are the strength of the Maruts, ye have the radiance of the sun, ye have the brightness of the sun, ye are delightful, ye are obedient, ye are powerful, ye are all supporters, ye are supporters of men, ye have the brilliance of Agni, ye are the sap of the waters, of the plants.
-### b
-
 ## 12
 a. O ye divine waters, be ye united  
 Full of sweetness with the sweet,  

@@ -8,7 +8,7 @@ title = "३८ षोडशिग्रहः"
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-1षोडशिनं गृह्नाति - आतिष्ठेत्यनुष्टुभा ॥ 
+1षोडशिनं गृह्णाति - आतिष्ठेत्यनुष्टुभा ॥ 
 </details>
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/03_A_tiShTha.md"  newLevelForH1="5" includeTitle="plain" title="विश्वास-प्रस्तुतिः"> </div>  
