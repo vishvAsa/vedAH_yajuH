@@ -4,12 +4,7 @@ title = "8 The Rajasuya"
 +++
 
 ## 12
-a. O ye divine waters, be ye united  
-Full of sweetness with the sweet,  
-Winning great radiance for the Ksatriya.
 ### b
-Unsurpassed, sit ye down, full of strength,  
-Bestowing great radiance upon the Ksatriya.
 ### c
 Friend of speech, born of heat, thou art undefeated; thou art the share of Soma.
 ### d
