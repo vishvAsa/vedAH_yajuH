@@ -11,9 +11,18 @@ title = "०४ गार्हपत्यचयनम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपे॑त॒ वीत॒ वि च॑ सर्प॒तातो॒ येऽत्र॒ स्थ पु॑रा॒णा ये च॒ नूत॑नाः ।  
-अदा॑दि॒दय्ँय॒मो॑ऽव॒सान॑म्पृथि॒व्या अक्र॑न्नि॒मम्पि॒तरो॑ लो॒कम॑स्मै ।  
+अपे॑त॒, वीत॒, वि च॑ सर्प॒तातो॒  
+येऽत्र॒ स्थ पु॑रा॒णा ये च॒ नूत॑नाः ।  
+अदा॑द् इ॒दय्ँ य॒मो॑ऽव॒सान॑म् पृथि॒व्या  
+अक्र॑न्नि् इ॒मम् पि॒तरो॑ लो॒कम् अ॑स्मै ।  
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Go away, depart, and creep away from here.
+You all that are stationed here from old and you that are new, Yama has given him a place of this earth. The manes fashioned this world for him.
+</details>
+
 
 <details><summary>मूलम्</summary>
 

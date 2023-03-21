@@ -38,7 +38,7 @@ To I earth thee! To atmosphere thee! To sky thee!
 दि॒वे त्वा᳚   +++(प्रोक्षामि)+++ ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 1-3यूपं पराञ्चं प्रोक्षति - पृथिव्यै त्वेति ॥ व्याख्यातम् ।   
 प्रोक्षामीति शेषः । पृथिव्यादीनां स्थित्यर्थं त्वां प्रोक्षामीति ॥  
@@ -55,7 +55,7 @@ _______
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/shundhantAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 4अवटेऽपोऽवनयति - शुन्धतामिति ॥ व्याख्यातम् ॥
 </details>
@@ -67,9 +67,9 @@ _______
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_sado-maNDapa-nirmANam/yavosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 5यवान्प्रस्कन्दयति - यवोसीति ॥ व्याख्यातमेव । 'ऊर्ग्वै यवो यजमानेन यूपस्सम्मितः' इत्यादि ब्राह्मणम् ॥
 </details>
@@ -81,10 +81,10 @@ _______
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_sado-maNDapa-nirmANam/pitRNAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/pitRNAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 6बर्हिर्हस्तं व्यतिषज्यावस्तृणाति - पितृणामिति ॥ व्याख्यातमेव । 'यद्बर्हिरनवस्तीर्य मिनुयात्पितृदेवत्यो निखातस्स्यात्' `इति ब्राह्मणम् ॥
 </details>
@@ -123,7 +123,7 @@ be aware of it.
 तस्य॑ वित्तात्।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 7यूपशकलम् अवास्यति - स्वावेश इति ॥ सुष्ठु आविश्यते स्थीयतेस्मिन्निति स्वावेशः । अधिकरणे घञ्, थाथादिसूत्रेणोत्तरपदान्तोदात्तत्वम् । यूपस्य सुखासनमसीत्यर्थः ।
 नेतारो यागस्य निर्वोढारः यूपशकलाः । 'छन्दस्युभयथा' इति 'नामि' इति दीघाभावः । 'नामन्यतरस्याम्' इति नाम उदात्तत्वम् । तेषां मध्ये अग्रेगास्त्वमसि अग्रे प्रथमं यूपात् गच्छति परापततीत्यग्रेगाः । 'यः प्रथमश्शकलः परापतेत्तमप्याहरेत्' इति गृहीतत्वात् । यद्वा - नेतृणामग्रे गच्छतीत्यग्रेगाः मुख्य इत्यर्थ प्रथमपतितत्वादेव । यद्वा - नेतॄणां मध्ये अग्रे गच्छति यागसाधनत्वं यूपादपि पूर्वमुपयुज्यमानत्वादवटप्रवेशेन । 'जनसनखनक्रमगमो विट्' इति विटप्रत्ययः, ' विड्वनोरनुनासिकस्यात्' इत्यात्वम्, 'तत्पुरुषे कृति बहुलम्' इत्यलुक्, कृदुत्तरपदप्रकृतिस्वरत्वम् । यद्वा - यूपस्य ये नेतारः परिष्कर्तारः प्रथमशकलस्स्वरुश्चषालमिति, तेषां मध्ये अग्रे प्रथमं यूपं गच्छतीति ।
@@ -141,7 +141,7 @@ _______
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/devas_tvA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 8यूपस्याग्रमनक्ति - देवस्त्वेति ॥ व्याख्यातम् ॥  
 </details>
@@ -155,7 +155,7 @@ _______
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/02_dIxA/supippalAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 9चषालं प्रतिमुञ्चाति - सुपिप्पलाभ्य इति ॥ व्याख्यातमेव । शोभनफलानामोषधीनामर्थाय त्वां चषालं यूपस्याग्रे प्रतिमुञ्चामीति शेषः । 'तस्माच्छीर्षत ओषधयः फलं गृह्णन्ति' `इति ब्राह्मणम् ॥
 </details>
@@ -191,7 +191,7 @@ Support the sky, fill the atmosphere, with thy base make firm the earth.
 पृ॒थि॒वीमुप॑रेण दृꣳह ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 10यूपमुच्छ्रयति - उद्दिवमिति ॥ व्याख्यातम् ।
 
@@ -210,7 +210,7 @@ _______
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ते ते॒ धामा᳚न्य् उश्मसि+++(=इच्छामो)+++ ग॒मध्ये॒+++(=गन्तुं)+++  
 गावो॒+++(→रश्मयः)+++ यत्र॒ भूरि॑-शृङ्गा अ॒यासः॑+++(=गमनशीलाः)+++ ।   
@@ -233,7 +233,7 @@ Of the wide-stepping Visnu, the mighty!
 अत्राह॒ तदु॑रुगा॒यस्य॒ विष्णोः᳚ पर॒मम्प॒दमव॑ भाति॒ भूरेः᳚ ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 11यूपं वैष्णवीभ्यामृग्भ्यां कल्प्यति स्थापयति - ते ते धामानि ... विष्णोः कर्माणि पश्यतेति ॥
 तत्र प्रथमा चतुष्पदा त्रिष्टुप् । द्वितीया त्रिपदा गायत्री ।  
@@ -277,10 +277,10 @@ _______
 ब्र॒ह्म॒वनि॑न्त्वा ख्षत्त्र॒वनिꣳ॑ सुप्रजा॒वनिꣳ॑ रायस्पोष॒वनि॒म्पर्यू॑हामि ।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_sado-maNDapa-nirmANam/brahma-vanim.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma-vanim.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 14प्रदक्षिणं पुरीषेण पर्यूहति - ब्रह्मवनिमिति ॥ व्याख्यातम् ॥
 </details>
@@ -293,10 +293,10 @@ _______
 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_sado-maNDapa-nirmANam/brahma_dRMha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma_dRMha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 15मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥ व्याख्यातमेव ॥
 </details>
@@ -336,7 +336,7 @@ let increase of wealth, let (the clans) of men invest the sacrificer here.
 परी॒मꣳ रा॒यस्पोषो॒ यज॑मानम्मनु॒ष्याः॑   ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 16रशनया त्रिः प्रदक्षिणं परिव्ययति - परिवीरसीति ॥ परिवीयत इति **परिवीः** । 'अन्येभ्योपि दृश्यते' इति कर्मणि क्विप्, यजादित्वात्सम्प्रसारणम्, 'हलः' इति दीर्घः, कृदुत्तरपदप्रकृतिस्वरत्वम् । परितो रशनया वेष्टनीयोसि हे यूप ।
 
@@ -366,7 +366,7 @@ On the slope of the atmosphere I conceal thee.
 अ॒न्तरि॑ख्षस्य त्वा॒ साना॒वव॑ गूहामि ॥ [11]
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 17मध्यमे रशनागुणे स्वरुमवगूहति - अन्तरिक्षस्य त्वेति ॥ मध्यमत्वसाधर्म्यात् अन्तरिक्षस्थानीयस्य मध्यमस्य रशनागुणस्य स्थाने त्वामवगूहामि सुगुप्तं स्थापयामि हे स्वरो । कीदृशे स्थाने? सानौ समुन्नते स्वस्थानत्वादेव समुच्छ्रिते । यद्वा - सननीयः सानुः मध्यमेन गुणेन सम्भक्ते प्रदेशे 'दॄसनिजनि' इत्यादिना सनो ञुण्प्रत्ययः । 'ऊदुपधाया गोहः' इत्यूकारः ॥
 </details>

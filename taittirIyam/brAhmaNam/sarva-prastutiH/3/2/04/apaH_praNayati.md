@@ -17,7 +17,7 @@ unicode_script: devanagari
 श्र॒द्धामे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2अपः प्रणयतीत्यसकृद्विधानं फलविशेषार्थम् ।
 </details>
@@ -37,7 +37,7 @@ unicode_script: devanagari
 य॒ज्ञमे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 इष्टसाधनत्वात् यज्ञत्वमपाम् ।
 </details>
@@ -57,7 +57,7 @@ unicode_script: devanagari
 वज्र॑मे॒व भ्रातृ॑व्येभ्यᳶ प्र॒हृत्य॑ प्र॒णीय॒ प्रच॑रति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अरिष्टशमनत्वाद्वज्रत्वम् ।
 </details>
@@ -92,7 +92,7 @@ unicode_script: devanagari
 दे॒वता॑ ए॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 सर्व देवताप्रीणनत्वात् सर्व देवतात्वम् ॥
 </details>

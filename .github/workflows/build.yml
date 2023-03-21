@@ -2,9 +2,9 @@ name: Build Hugo site
 
 on:
   push:
-    branches: [ master, content, static_files ]
+    branches: [ '*' ]
   pull_request:
-    branches: [ master, content, static_files ]
+    branches: [ '*' ]
   workflow_dispatch:
     inputs:
       logLevel:
@@ -50,7 +50,7 @@ jobs:
     - name: Update submodules
       run: |
         set -o xtrace
-        git submodule update --init --recursive
+        git submodule update  --init --recursive
         git submodule update --remote --merge --recursive
     - name: Set content to pull request
       if: ${{ github.event_name == 'pull_request'}}
@@ -75,3 +75,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build_github
         publish_branch: gh-pages
+        force_orphan: true # git history growth - even on non-src branches - makes cloning slow.

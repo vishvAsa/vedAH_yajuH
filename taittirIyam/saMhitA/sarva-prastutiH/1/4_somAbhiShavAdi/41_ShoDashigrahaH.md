@@ -10,7 +10,7 @@ _______
 1अतः परं षोडशिग्रहणमन्त्राः पूर्वैस्सह विकल्प्यन्ते । तत्र प्रथमा - सर्वस्येत्यनुष्टुप् ॥ 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सर्व॑स्य प्रति॒शीव॑री॒+++(←शी शयने)+++  
 **भूमि॑स् +++(इन्द्र!)+++ त्वो॒पस्थ॒ आऽधि॑त**+++(←धा)+++ ।  
@@ -33,7 +33,7 @@ Grant him protection, extending wide.
 स्यो॒नास्मै॑ सु॒षदा॑ भव॒ यच्छा᳚स्मै॒ शर्म॑ स॒प्रथाः᳚ ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **सर्वस्य** भूतजातस्य **प्रतिशविरी** प्रत्येकं सुखेन शयनाधिकरणभूता । शेतेरौणादिके क्वरच्युत्तरपदाद्युदात्तत्वम् ।  
 यद्वा - शयानस्य सर्वभूतजातस्य प्रतिशयनं प्रतिमुखं शयनं बालस्य जननीव करोतीति प्रतिशीवरी । 'अन्येभ्योपि दृश्यते' इति क्वनिप्, 'वनोरच' इति ङीब्रेफौ । 
@@ -46,10 +46,10 @@ Grant him protection, extending wide.
 
 
 _______
-<div class="js_include" url="taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादने उक्ते ॥
 </details>

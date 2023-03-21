@@ -31,7 +31,7 @@ He who offers sacrifice without faith, they place not faith in his sacrifice. He
 यो वै श्र॒द्धामना॑रभ्य य॒ज्ञेन॒ यज॑ते॒ नास्ये॒ष्टाय॒ श्रद्द॑धते॒ऽपᳶ प्र ण॑यति श्र॒द्धा वा आप॑श्श्र॒द्धामे॒वाऽऽरभ्य॑ य॒ज्ञेन॑ यजत उ॒भये᳚ऽस्य देवमनु॒ष्या इ॒ष्टाय॒ श्रद्द॑धते
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 'श्रदन्तरोरुपसर्गवद्वृत्तिः' इति दधातेः 'आतश्चोपसर्गे' इत्यङ् । अनारभ्यासन्निधाष्य न श्रद्दधते देवा मनुष्याश्च । विशिष्टदेशमन्त्रक्रमपाठसाधनं प्रणयनम् । 'श्रद्धा वा आपः' इति शोधकत्वेन श्रद्धाजनकत्वात् ।
 </details>
@@ -54,7 +54,7 @@ They say, 'They foam over the barrier, they foam over speech, but over mind they
 मनो॒ वावैता नाति॑ नेद॒न्तीति ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तदाहुरित्यादि । **वर्त्रं** शरीरेन्द्रियवृत्तिः । **एता** आपस् **तद् अतिनेदन्ति** अतिगछन्ति अतिव्याप्य वर्तन्ते । णिदृ णेदृ गतादिषु ।  
 
@@ -77,7 +77,7 @@ He brings them forward with mind;
 मन॑सा॒ प्र ण॑यति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मान्मनसा प्रणयतीत्याहुः ।
 </details>
@@ -97,7 +97,7 @@ mind is this (earth) [1]; verily with this (earth) he brings them forward.
 इ॒यव्ँवै मनः॑ [25] अ॒नयै॒वैना॒ᳶ प्र ण॑यति ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 इयं वा इत्यादि । मनसो व्यापकत्वात् ।
 </details>
@@ -118,7 +118,7 @@ The sacrifice of him who knows thus does not spill.
 अस्क॑न्नहविर्भवति॒ य ए॒वव्ँवेद॑ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अस्कन्नहविरिति । पृथिव्यात्मना व्यापकेन मनसा धृतत्वाद् अपाम् ॥
 </details>
@@ -167,7 +167,7 @@ and thus there is a pair.
 याज्यानुवा॒क्य॑योरे॒व रू॒पङ्क॑रो॒त्यथो॑ मिथु॒नमे॒व ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2यज्ञायुधानीत्यादि ॥ तदधीनत्वाद्यज्ञनिवृत्तेस्ताच्छब्द्यम् । एकैकप्रयोगे पितृदेवत्यानि पात्राणि स्युः । सर्वेषां सह प्रयोगे मानुषाणि स्युः । तस्माद्द्वेद्वे प्रयुनक्ति । द्वित्वान्वयाद्याज्यानुवाक्यारूपलाभः ।
 
@@ -190,7 +190,7 @@ If a man knows the ten weapons of the sacrifice, his sacrifice is in order at th
 यो वै दश॑ यज्ञायु॒धानि॒ वेद॑ मुख॒तो᳚ऽस्य य॒ज्ञᳵ क॑ल्पते ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यो वै दशेत्यादि । स्फ्यादयो दश । यज्ञायुधानि यागारम्भे यो वेद, अस्य यज्ञारम्भ एव यज्ञस्सम्पद्यते; तदात्मकत्वाद्यज्ञस्य । 'आद्यादिभ्यस्तसिः' ।
 </details>
@@ -211,7 +211,7 @@ The wooden sword [2], the potsherds, the offering-spoon,
 स्फ्यः [26] च॒ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च  ..  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 कानि पुनस्तनीत्याह - स्फ्यश्छेदनादिकृत् । कपालानि हविरधिश्रयणार्थानि । अग्निहोत्रहवणी हविर्निर्वपणाद्यथा ।
 </details>
@@ -232,7 +232,7 @@ the basket, the black antelope skin,
 शूर्प॑ञ्च कृष्णाजि॒नञ्च ..  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 शूर्पं परावपनार्थम् । कृष्णाजिनं कृष्णमृगचर्म उलूखलाद्यधिकरणम् ।
 </details>
@@ -255,7 +255,7 @@ the lower and upper millstones,
 दृ॒षच्चोप॑ला च ...
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 शम्या समाहननाद्यर्था । उलूखलमवहन्तव्याधिकरणम् ।  
 मुसलुमवहननकृत् ।
@@ -328,7 +328,7 @@ and the gods delight in his sacrifice.
 जु॒षन्ते᳚ऽस्य दे॒वा ह॒व्यम् ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्रतिप्रोच्य प्रत्यावेद्य जुषन्ते सेवन्ते अस्य हव्यं देवाः । हविर्निरुप्यमाणमित्यादि ।
 </details>
@@ -349,7 +349,7 @@ This is the taking of the sacrifice and so after taking the sacrifice he sacrifi
 ए॒ष वै य॒ज्ञस्य॒ ग्रहो॑ गृही॒त्वैव य॒ज्ञेन॑ यजते ।   
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 एष वा इत्यादि । एष मन्त्रो यज्ञस्य ग्रहः गृह्यतेनेन यज्ञ इति । तस्माद्गृहीत्वैव यज्ञमनेनाभिमन्त्रणेन; ततो यागमारभते ।
 </details>
@@ -370,7 +370,7 @@ After speaking he remains silent, to support the sacrifice.
 तदु॑दि॒त्वा वाच॑य्ँयच्छति य॒ज्ञस्य॒ धृत्यै᳚ ।  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तदुदित्वा तद्वचनानन्तरं वाचं यच्छत्यवचनो भवति यज्ञस्य धृत्यै गृहीतस्य यज्ञस्याविस्रंसनाय ।
 </details>
@@ -393,7 +393,7 @@ Now Prajapati performed the sacrifice with mind; verily he performs the sacrific
 मन॑सै॒व तद्य॒ज्ञन्त॑नुते॒ रख्ष॑सा॒मन॑न्ववचाराय ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथो अपि च प्रजापतिरिव मनसैवायं यज्ञं तनितुमर्हति किं वाचा । एवं हि क्रियमाणं रक्षसाम् अनन्ववचारायाननुप्रवेशाय भवति ॥
 </details>
@@ -422,7 +422,7 @@ He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among 
 यो वै य॒ज्ञय्ँयोग॒ आग॑ते यु॒नक्ति॑ यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 योगे यागकाल आगते यज्ञं यो युनक्ति बध्नाति, अयमेव युञ्जानेषु यजमानेषु मध्ये युङ्क्ते युङ्क्त इति व्यपदेशमर्हति । यद्वा - युञ्जानेष्वात्मानं योजयति ।
 </details>
@@ -447,7 +447,7 @@ He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among 
 प्र॒जाप॑तिनै॒वैन॑य्ँयुनक्ति यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ॥ [28]
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 मन्त्रपदमिदनीं व्याचष्टे - कस्त्वेति । गतम् ॥
 </details>

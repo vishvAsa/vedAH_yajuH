@@ -1,5 +1,5 @@
 +++
-title = "+प्रपाठकः ५"
+title = "+५"
 unicode_script = "devanagari"
 
 +++

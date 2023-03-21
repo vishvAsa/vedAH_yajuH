@@ -68,7 +68,7 @@ This is thy birth place; guard offspring.
 ए॒ष ते᳚ योनि॑ᳶ प्र॒जाᳶ पा॑हि ॥ [10]  
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजाः यजमानस्य स्वभूतास्सर्वा वा ॥
 
