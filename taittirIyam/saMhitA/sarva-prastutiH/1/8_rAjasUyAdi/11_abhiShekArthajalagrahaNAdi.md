@@ -44,6 +44,12 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 अ॒र्थेत॑स्स्थ  ।
 </details>
 
+<details><summary>Keith</summary>
+
+Ye are active,
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अ॒र्थेत॑स्स्थ  ।  
@@ -58,8 +64,18 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[अ॒र्थेत॑स्स्थ  ।]
+</details>
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+2पुन्नदस्य शोणादेर्वा जलं - अपाम्पतिरसीति ॥ 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -67,6 +83,12 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 अपाम्पति॑रसि  ।      
 </details>
 
+<details><summary>Keith</summary>
+
+thou art the lord of the waters, 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अपाम्पति॑रसि  ।      
@@ -74,18 +96,36 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2पुन्नदस्य शोणादेर्वा जलं - अपाम्पतिरसीति ॥ अपाम्पतिस्समुद्रः तदीया आप उच्यन्ते ; विकारे प्रकृतिशब्दात् । समुदायशब्दादेकवचनम् । शोणादीनां पुंस्त्वेन अपांपतित्वम् । 'ऊडिदम्' इति षष्ठ्या उदात्तत्वम् ॥
+अपाम्पतिस्समुद्रः तदीया आप उच्यन्ते ; विकारे प्रकृतिशब्दात् । समुदायशब्दादेकवचनम् । शोणादीनां पुंस्त्वेन अपांपतित्वम् । 'ऊडिदम्' इति षष्ठ्या उदात्तत्वम् ॥
 </details>
 
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[अपाम्पति॑रसि  ।]
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+3अथ नद्यां पुरुषे पशौ वा तिष्ठति प्रतीपमन्य ऊर्मिर् युद्ध्यति,  
+अन्वीपम् अन्यः ; 
+तयोः प्रतिस्रोता य ऊर्मिर् भवति तज्-जलं गृह्णाति - वृषास्यूर्मीरिति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृषा᳚स्यू॒र्मिः  ।     
+वृषा᳚स्य् ऊ॒र्मिः  ।     
+</details>
+
+<details><summary>Keith</summary>
+
+thou art the male wave, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -95,19 +135,36 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-3अथ नद्यां पुरुषे पशौ वा तिष्ठति प्रतीपमन्य ऊर्मिर्युद्ध्यति, अन्वीपमन्यः ; तयोः प्रतिस्रोता य ऊर्मिर्भवति तज्जलं गृह्णाति - वृषास्यूर्मीरिति ॥ वृषा वर्षिता वृष्टिहेतुत्वात् । प्रधाने[धानं]वा ; सङ्घातरूपत्वात् । ऊर्मिस्सङ्घातार्था अरणशीला वा ॥
+वृषा वर्षिता वृष्टिहेतुत्वात् । प्रधाने[धानं]वा ; सङ्घातरूपत्वात् । ऊर्मिस्सङ्घातार्था अरणशीला वा ॥
 </details>
 
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[वृषा᳚स्य् ऊ॒र्मिः  ।]
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+4अथानुस्रोता य ऊर्मिस्तज्जलं गृह्णाति - वृषसेनोसीति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृ॑षसे॒नो॑ऽसि  ।      
+वृ॑ष-से॒नो॑ऽसि  ।      
 </details>
+
+<details><summary>Keith</summary>
+
+thou art the male host, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -116,18 +173,34 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-4अथानुस्रोता य ऊर्मिस्तज्जलं गृह्णाति - वृषसेनोसीति ॥ सेक्त्री सेना यस्य संघातत्वेन महत्त्वात् सेकसामर्थ्याच्च । छान्दसमन्तोदात्तत्वम् । केचित्तु - वृषास्यूर्मिरित्येतावता ऊर्मिजलं गृह्णाति, वृषसेनोसीति पल्वल्यमिति ॥
+सेक्त्री सेना यस्य संघातत्वेन महत्त्वात् सेकसामर्थ्याच्च । छान्दसमन्तोदात्तत्वम् । केचित्तु - वृषास्यूर्मिरित्येतावता ऊर्मिजलं गृह्णाति, वृषसेनोसीति पल्वल्यमिति ॥
 </details>
 
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[वृ॑षसे॒नो॑ऽसि  ।]
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+5अथ कूप्या गृह्णाति - व्रजक्षितस्स्थ इति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्रज॒ख्षित॑स्स्थ।      
+व्रज॒-ख्षित॑स्+++(=आश्रयाः)+++ स्थ।      
+</details>
+
+<details><summary>Keith</summary>
+
+ye are the pen-dwellers, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -137,18 +210,28 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-5अथ कूप्या गृह्णाति - व्रजक्षितस्स्थ इति ॥ व्रजे वेष्टितेवकाशे क्षियन्ति निवसन्तीति व्रजक्षितः । क्षि निवासगत्योः ॥
+व्रजे वेष्टितेवकाशे क्षियन्ति निवसन्तीति व्रजक्षितः । क्षि निवासगत्योः ॥
 </details>
 
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[व्रज॒ख्षित॑स् स्थ।]
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुता॒मोज॑स्स्थ  ।      
+म॒रुता॒म् ओज॑स् स्थ  ।      
+</details>
+
+<details><summary>Keith</summary>
+
+ye are the strength of the Maruts, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -165,12 +248,29 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[म॒रुता॒म् ओज॑स् स्थ  ।]
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+7आदित्ये दृश्यमाने यदा वर्षति तज्जलं गृह्णाति - सुर्यवर्चसस्स्थेति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूर्य॑वर्चसस्स्थ  ।      
+सूर्य॑वर्चसस् स्थ  ।      
 </details>
+
+<details><summary>Keith</summary>
+
+ye have the radiance of the sun, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -179,19 +279,36 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-7आदित्ये दृश्यमाने यदा वर्षति तज्जलं गृह्णाति - सुर्यवर्चसस्स्थेति ॥ सूर्यं वर्चयन्ति भृशं दीपयन्ति । 'गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वञ्च' इत्यसुन् । सातपेहि वर्षे भृशमादित्यो दीप्यते । बहुव्रीहिर्वा सूर्यस्येव वर्चो येषामिति । सूर्यरश्मिसंयोगेन वर्चस्वित्वात् ॥
+सूर्यं वर्चयन्ति भृशं दीपयन्ति । 'गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वञ्च' इत्यसुन् । सातपेहि वर्षे भृशमादित्यो दीप्यते । बहुव्रीहिर्वा सूर्यस्येव वर्चो येषामिति । सूर्यरश्मिसंयोगेन वर्चस्वित्वात् ॥
 </details>
 
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[सूर्य॑वर्चसस् स्थ  ।]
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+8यत्र कुत्र चित्प्रसन्नं जलं गृह्णाति - सूर्यत्वचसस्स्थेति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूर्य॑त्वचसस्स्थ ।     
+सूर्य॑-त्वचसस् स्थ ।     
 </details>
+
+<details><summary>Keith</summary>
+
+ye have the brightness of the sun, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -200,20 +317,37 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-8यत्र कुत्र चित्प्रसन्नं जलं गृह्णाति - सूर्यत्वचसस्स्थेति ॥ त्वच संवरणे, सुर्यं त्वचन्ति संवृण्वन्ति । पूर्ववदसुन् । यासु खलु निर्मलास्वप्सु रूपाणि परिदृश्यन्ते ताः खलु सूर्यरूपप्रकाशनं सूर्यमपि स्वमहिम्ना संवृण्वन्ति ॥
+त्वच संवरणे, सुर्यं त्वचन्ति संवृण्वन्ति । पूर्ववदसुन् । यासु खलु निर्मलास्वप्सु रूपाणि परिदृश्यन्ते ताः खलु सूर्यरूपप्रकाशनं सूर्यमपि स्वमहिम्ना संवृण्वन्ति ॥
 </details>
 
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[सूर्य॑-त्वचसस् स्थ ।]
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+9स्थावराणां गृह्णाति, ह्रादीर् वा - मान्दास् स्थेति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मान्दाः᳚ स्थ  ।      
 </details>
 
+<details><summary>Keith</summary>
+
+ye are delightful, 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 मान्दाः᳚ स्थ  ।      
@@ -221,20 +355,37 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-9स्थावराणां गृह्नाति, ह्रादीर्वा - मान्दास्स्थेति ॥ मन्दस्वभावाः । मां दत्तदेवेभ्य इति ह्रादं कुर्वाणाः, अशोष्या इत्यन्ये ॥
+मन्दस्वभावाः । मां दत्तदेवेभ्य इति ह्रादं कुर्वाणाः, अशोष्या इत्यन्ये ॥
 </details>
 
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[मान्दाः᳚ स्थ  ।]
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+10अवश्यायोदकं गृह्णाति -  वाशास्थेति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाशाः᳚ स्थ  ।      
 </details>
 
+<details><summary>Keith</summary>
+
+ye are obedient, 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 वाशाः᳚ स्थ  ।      
@@ -242,19 +393,36 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-10अवश्यायोदकं गृह्णाति - [ वाशास्थेति ॥ वाशा वश्याः नीहारो हि नदीप्रवाहवन्मनुष्यगतिं न प्रतिबध्नाति ; ततो वश्यत्वम् ॥
+वाशा वश्याः नीहारो हि नदीप्रवाहवन्मनुष्यगतिं न प्रतिबध्नाति ; ततो वश्यत्वम् ॥
 </details>
 
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[वाशाः᳚ स्थ  ।]
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+11गोरुल्ब्याः गोर् गर्भवेष्टनगता आपो गृह्णाति -  शक्वरीस्स्थेति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शक्व॑रीस्स्थ  ।      
+शक्व॑रीस् स्थ  ।      
 </details>
+
+<details><summary>Keith</summary>
+
+ye are powerful, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -263,19 +431,36 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-11गोरुल्ब्याः गोर्गर्भवेष्टनगता आपो गृह्णाति - ] शक्वरीस्स्थेति ॥ गर्भसंरक्षणे शक्ताश्शक्वर्यः । 'वा छन्दसि' इति पूर्वसवार्णदीर्घत्वम् ॥
+गर्भसंरक्षणे शक्ताश्शक्वर्यः । 'वा छन्दसि' इति पूर्वसवार्णदीर्घत्वम् ॥
 </details>
 
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[शक्व॑रीस् स्थ  ।]
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+12पयो गृह्णाति - विश्वभृतस्स्थेति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒श्व॒भृत॑स्स्थ ।       
+वि॒श्व॒भृत॑स् स्थ ।       
 </details>
+
+<details><summary>Keith</summary>
+
+ye are all supporters, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -284,20 +469,37 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-12पयो गृह्णाति - विश्वभृतस्स्थेति ॥ विश्वं बिभ्रति धारयन्ति वा पोषयन्ति वा विश्वभृतः, तद्रूपेण विवक्षितत्वात् बहुवचनं स्त्रीत्वं च ॥
+विश्वं बिभ्रति धारयन्ति वा पोषयन्ति वा विश्वभृतः, तद्रूपेण विवक्षितत्वात् बहुवचनं स्त्रीत्वं च ॥
 </details>
 
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[वि॒श्व॒भृत॑स् स्थ ।]
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+13दधि गृह्णाति - जनभृतस्स्थेति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज॒न॒भृत॑स्स्थ ।     
 </details>
 
+<details><summary>Keith</summary>
+
+ye are supporters of men, 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 ज॒न॒भृत॑स्स्थ ।     
@@ -305,19 +507,36 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-13दधि गृह्नाति - जनभृतस्स्थेति ॥ जनं बिभ्रर्तीति जनभृतः ॥
+जनं बिभ्रर्तीति जनभृतः ॥
 </details>
 
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज॒न॒भृत॑स्स्थ ।
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+14घृतं गृह्णाति - अग्नेस्तेजस्यास्स्थेति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेस्ते॑ज॒स्याः᳚ स्थ  ।      
+अ॒ग्नेस् ते॑ज॒स्याः᳚ स्थ  ।      
 </details>
+
+<details><summary>Keith</summary>
+
+ye have the brilliance of Agni, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -326,19 +545,37 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-14घृतं गृह्णाति - अग्नेस्तेजस्यास्स्थेति ॥ अग्नेस्तेजसा सहितास्तेजस्याः गवादिर्द्रष्टव्यः । तेजसो वा निमित्तभूतास्तेजस्याः । 'गोद्व्यचः' इति यत् । तेजसि वा भवाः ; तदर्थं व्यापृतत्वात् ॥
+अग्नेस्तेजसा सहितास्तेजस्याः गवादिर्द्रष्टव्यः । तेजसो वा निमित्तभूतास्तेजस्याः । 'गोद्व्यचः' इति यत् । तेजसि वा भवाः ; तदर्थं व्यापृतत्वात् ॥
 </details>
 
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[अ॒ग्नेस् ते॑ज॒स्याः᳚ स्थ  ।]
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+15-16मधु गृह्णाति - अपामोषधीनां रसस्थेति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒पामोष॑धीना॒ꣳ॒ रस॑स्स्थ  ।      
 </details>
+
+<details><summary>Keith</summary>
+
+ye are the sap of the waters, of the plants.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -347,7 +584,7 @@ title = "११ अभिषेकार्थजलग्रहणादि"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-15-16मधु गृह्णाति - अपामोषधीनां रसस्थेति ॥ अद्भ्य ओषधीभ्यश्च निष्पत्तेः ॥
+अद्भ्य ओषधीभ्यश्च निष्पत्तेः ॥
 
 इत्यष्टमे एकादशोनुवाकः ॥  
 </details>
@@ -355,5 +592,10 @@ title = "११ अभिषेकार्थजलग्रहणादि"
   
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[अ॒पामोष॑धीना॒ꣳ॒ रस॑स्स्थ  ।]
+</details>
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md"  newLevelForH1="5" includeTitle="false"> </div>  
