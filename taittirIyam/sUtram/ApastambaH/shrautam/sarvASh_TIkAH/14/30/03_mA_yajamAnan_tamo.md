@@ -5,5 +5,7 @@ title = "03 मा यजमानन् तमो"
 
 <details><summary>थिते</summary>
 
-मा यजमानं तमो विदन्मर्त्विजो मो इमाः प्रजाः । मा यः सोममिमं पिबात्संसृष्टमुभयं कृतमिति भक्षयति ३
+3. (The concerned priest) drinks (the Soma) with mā yajamānaṁ tamo vidat...[^1]   
+
+[^1]: TB III.7.8.3. 
 </details>

@@ -5,5 +5,7 @@ title = "05 यदि प्रातःसवने ग्रावाणन्
 
 <details><summary>थिते</summary>
 
-यदि प्रातःसवने ग्रावाणं नाधिगच्छेत्पलाशदण्डमाहृत्य तेनैवाभिषुणुयात् । एतदेवास्य प्रायश्चित्तं भवतीति विज्ञायते ५
+5. At the morning-pressing if (the Adhvaryu) does not find the (pressing) stone, having brought a Palāśa-stick, he should press with it only. This itself is the expiation for this (mishap)-thus is known (from a Brāhmaṇa-text).[^1]  
+
+[^1]: Cf. JB I.353.   
 </details>

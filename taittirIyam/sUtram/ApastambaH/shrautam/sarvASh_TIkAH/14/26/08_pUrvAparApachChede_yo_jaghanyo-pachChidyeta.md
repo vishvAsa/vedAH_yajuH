@@ -5,5 +5,5 @@ title = "08 पूर्वापरापच्छेदे यो जघन्
 
 <details><summary>थिते</summary>
 
-पूर्वापरापच्छेदे यो जघन्योऽपच्छिद्येत तस्य प्राय श्चित्तम् ८
+8. If one (of them) is separated after another, the expiation of one who is sepatrated afterwards (should be performed).   
 </details>

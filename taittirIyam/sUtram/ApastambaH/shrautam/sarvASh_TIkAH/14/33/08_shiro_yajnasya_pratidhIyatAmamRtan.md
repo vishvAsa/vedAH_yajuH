@@ -5,5 +5,5 @@ title = "08 शिरो यज्ञस्य प्रतिधीयताम
 
 <details><summary>थिते</summary>
 
-शिरो यज्ञस्य प्रतिधीयताममृतं देवतामयम् । वेष्णव्या क्रियतां शिर आश्विन्या प्रतिधीयतामिति पञ्चगृहीतेन समानौ होमौ जुहुतः ८
+8. With śiro yajñasya pratidhīyatām... both of them, each reciting this verse, offer (a libation of ghee) in the Āgnīdhra (fire-hearth).   
 </details>

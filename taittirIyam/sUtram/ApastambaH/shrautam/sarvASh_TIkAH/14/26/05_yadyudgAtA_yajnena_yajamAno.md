@@ -5,5 +5,7 @@ title = "05 यद्युद्गाता यज्ञेन यजमान
 
 <details><summary>थिते</summary>
 
-यद्युद्गाता यज्ञेन यजमानो व्यृध्येत । अदक्षिणः स यज्ञः संस्थाप्यः । अथान्य आहृत्यः ५
+5. If the Udgātr̥ (is separated), the sacrificer will be deprived of the sacrifice. In that case that sacrifice should be caused to be completely established (i.e. be concluded) without any sacrificial gift; then another (sacrifice) should be brought (i.e. performed).  
+
+
 </details>

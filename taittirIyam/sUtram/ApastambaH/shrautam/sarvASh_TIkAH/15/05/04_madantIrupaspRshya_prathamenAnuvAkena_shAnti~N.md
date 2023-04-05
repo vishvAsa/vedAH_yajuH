@@ -5,5 +5,13 @@ title = "04 मदन्तीरुपस्पृश्य प्रथमे�
 
 <details><summary>थिते</summary>
 
-मदन्तीरुपस्पृश्य प्रथमेनानुवाकेन शान्तिं कृत्वाग्रेण गार्हपत्यं दर्भान्संस्तीर्य तेषु महावीरानुपावहरति देव पुरश्चर सघ्यासं त्वेति ४
+4. Having touched the boiling water,[^1] having made the pacification[^2] by means of the first chapter, having spread the Darbha-grass along the front of the Gārhapatya-(fire), (the Adhvaryu) keeps the Mahāvīras on them (blades of grass) with deva puraścara saghyāsaṁ tvā.[^4]   
+
+[^1]: See XV.2.9.  
+
+[^2]: See XV.2.9.  
+
+[^3]: viz. TĀ IV.1.  
+
+[^4]: TĀ IV.3.3(10).  
 </details>

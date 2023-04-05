@@ -5,5 +5,9 @@ title = "06 यदि सोमः स्कन्देद्ब्रह्म
 
 <details><summary>थिते</summary>
 
-यदि सोमः स्कन्देद्ब्रह्मन्सोमोऽस्कानित्युक्त्वाभूद्देवः सविता वन्द्यो नु न इत्यभिमन्त्र्य भूपतये स्वाहेति पञ्च प्रादेशान्मिमीते यथा पुरस्तात् ६
+6. having addressed it with abhuddevaḥ savitā...[^1] (the Adhvaryu) measures five spans with bhupataye svāhā.... as (he did) earlier.[^2]  
+
+[^1]: Cf. KS XXXIV.183; the verse is also a found in TB III.7.13.4..  
+
+[^2]: See IX.13.6.  
 </details>

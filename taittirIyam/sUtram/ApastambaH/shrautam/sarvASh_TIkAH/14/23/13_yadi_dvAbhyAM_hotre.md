@@ -5,5 +5,9 @@ title = "13 यदि द्वाभ्यां होत्रे"
 
 <details><summary>थिते</summary>
 
-यदि द्वाभ्यां होत्रे मैत्रावरुणाय च पूर्वस्मिन्पर्याये स्तुयुः । ब्राह्मणाच्छंसिनेऽच्छावाकाय चोत्तरस्मिन् १३
+13. If (it dawns while the praise-singing) with the last two night-rounds (is not yet over), they should sing (the stotra) (corresponding the recitation of the Hotr̥ and Maitrāvaruṇa in the first[^1] round; and (the Stotra corresponding the recitation) of the Brāhmaṇācchaṁsin and Acchāvāka in the next (round).[^2]  
+
+[^1]: One expects here “middle” (see Rudradatta's commentary).  
+
+[^2]: Thus the last two Stotra-śastras of the 2nd round and the first two of the last Stotra-śastra are omitted. For this Sūtra cf. JB I.348.  
 </details>

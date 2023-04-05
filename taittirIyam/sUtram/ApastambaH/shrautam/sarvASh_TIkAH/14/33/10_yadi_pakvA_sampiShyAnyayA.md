@@ -5,5 +5,5 @@ title = "10 यदि पक्वा सम्पिष्यान्यया
 
 <details><summary>थिते</summary>
 
-यदि पक्वा सम्पिष्यान्यया मृदा संसृज्योखां कारयेत् १०
+10. If it breaks (after it has been already) baked, he should, after having mixed (the pieces of it) with another clay prepare (a new) fire-pan.  
 </details>

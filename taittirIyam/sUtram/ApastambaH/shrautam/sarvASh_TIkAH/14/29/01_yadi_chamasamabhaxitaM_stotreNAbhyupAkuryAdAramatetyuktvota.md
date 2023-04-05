@@ -5,5 +5,20 @@ title = "01 यदि चमसमभक्षितं स्तोत्रे
 
 <details><summary>थिते</summary>
 
-यदि चमसमभक्षितं स्तोत्रेणाभ्युपाकुर्यादारमतेत्युक्त्वोत त्या नो दिवा मतिरदितिरूत्यागमत् । सा शन्ताची मयस्करदप स्रिधः । उत त्या दैव्या भिषजा शं नस्करतो अश्विना । यूयातामस्मद्रपो अप स्रिधः । शमग्निरग्निभिस्करच्छं नस्तपतु सूर्यः । शं वातो वात्वरपा अप स्रिध इति तिस्र आग्नीध्रीये हुत्वा तं सदसि भक्षयित्वोत्तरवाससा प्रच्छाद्य दक्षिणां द्वार्बाहुमनु निर्हृत्य मार्जालीये प्रक्षाल्य पूर्वयातिहृत्य तदित्पदं न विचिकेत विद्वान्यन्मृतः पुनरप्येति जीवान् । त्रिवृद्यद्भुवनस्य रथवृज्जीवो गर्भो न मृतः स जीवादिति तन्नचमसेष्वपिसृज्य हिरण्यगर्भः समवर्तताग्र इत्याहुतिं हुत्वाप्यायस्व मदिन्तम सोम विश्वाभिरूतिभिः । भवा नः सप्रथस्तम इत्याप्याययति १
+1. If (the Adhvaryu) bespeaks a goblet (the Soma-juice out of) which has not been drunk, by means of a Stotra,[^2] having said, “Do you halt," (to the singers), having offered three libations (of ghee) in the Āgnīdhrīya-fire with uta tyā no diva matiḥ...[^2], after (the concerned priest) has drunk the (Soma in the goblet) in the Sadas-shed, having covered the (goblet) by means of his uppper garment,[^3] having carried it out along the right panell of the door, having washed it in the Mārjālīya (-shed),[^4] having carried it (into the Havirdhāna-shed) through the eastern (door), with tadit padaṁ na viciketa...[^5] having kept it among the (other) goblets with hiraṇyagarbhaḥ samavartatāgre...[^6] having offered a libation of ghee (in the Āhavanīya), with āpyāyasya madintama soma....[^7]   
+
+
+[^1]: See XII.29.5.   
+
+[^2]: TB III.7.10.4-5; R̥V VIII.18.7-9.  
+
+[^3]: Cf. JB I.351; cp. ŚāṅkhāŚS XIII.12.12.  
+
+[^4]: Cp. JB I.351.  
+
+[^5]: KS XXXV.13; TB III.7.10.6   
+
+[^6]: TS IV.1.8.n; TMB IX.9.12; JB I.351.  
+
+[^6]: KS XXXV.13; TS I.4.32.   
 </details>

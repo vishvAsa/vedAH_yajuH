@@ -5,5 +5,5 @@ title = "14 एतस्यैव द्वारस्य पूर्वस्
 
 <details><summary>थिते</summary>
 
-एतस्यैव द्वारस्य पूर्वस्यै द्वार्यायै दक्षिणतो वत्साय शङ्कुम् १४
+14. (He fixes) a pin for the calf towards the south of the eastern door-post of the same (i.e. southern) door.   
 </details>

@@ -5,5 +5,9 @@ title = "02 प्रत्यस्मै पिपीषते विश्व
 
 <details><summary>थिते</summary>
 
-प्रत्यस्मै पिपीषते विश्वानि विदुषे भर । अरङ्गमाय जग्मवेऽपश्चाद्दघ्वने नर इत्यववृष्टं भक्षमभिमन्त्र्येन्दुरिन्दुमवागादिन्दोरिन्द्रोऽपात् । तस्य त इन्दविन्द्रपीतस्य मधुमत उपहूतस्योपहूतो भक्षयामीति भक्षयति २
+2. Having addressed the Soma-drink on which rain has  been showered, with pratyasmai pipīṣate...[^1] he drinks it with indurindumavāgāt....[^2]   
+
+[^1]: TB III.7.10.6.  
+
+[^2]: Cf. JB I.351; TMB IX.9.10-11.   
 </details>

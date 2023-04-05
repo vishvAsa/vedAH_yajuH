@@ -5,5 +5,5 @@ title = "05 त इमं यज्ञमवन्तु"
 
 <details><summary>थिते</summary>
 
-त इमं यज्ञमवन्तु ते मामवन्त्वनु व आरभेऽनु मारभध्वं स्वाहेत्यृतुनामस्वनुषजति ५
+5. If the Soma is fallen out, having uttered brahman somoskān (O Brahman, the Soma has fallen out), 
 </details>

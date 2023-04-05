@@ -5,5 +5,7 @@ title = "21 प्रोक्षणीनामावृता प्रोक�
 
 <details><summary>थिते</summary>
 
-प्रोक्षणीनामावृता प्रोक्षणीः संस्कृत्य ब्रह्माणमामन्त्रयते २१
+21. Having sanctified the sprinkling water according to the manner of sanctifying the sprinkling water (in the basic paradigm),[^1] he calls the Brahman.   
+
+[^1]: See I. 11.6-9. Here the strainers mentioned in XV.2.20 are to be used.   
 </details>

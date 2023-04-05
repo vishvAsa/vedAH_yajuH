@@ -5,5 +5,5 @@ title = "02 परिश्रयन्ति पत्न्याः"
 
 <details><summary>थिते</summary>
 
-परिश्रयन्ति पत्न्याः २
+2. They enclose the shed of the wife of the sacrificer.  
 </details>

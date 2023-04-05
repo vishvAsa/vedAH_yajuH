@@ -5,5 +5,10 @@ title = "07 परीमम् परि ते"
 
 <details><summary>थिते</summary>
 
-परीमं परि ते ब्रह्मणे ददामि ब्रह्म परिददातु देवताभ्यः । वषट्कारस्त्वा भिषज्यतु सह विश्वैर्देवैः । वसव एतद्वः प्रातःसवनं रुद्रा एतद्वो माध्यन्दिनं सवनं विश्वे देवा एतद्वस्तृतीयसवनम् । तद्रक्षध्वं तद्भिषज्यत तद्गोपायत तद्वो मा विगादिति सर्वत्रानुषजति ७
+7. with parīm te brahmaṇe dadāmi...[^2] to each of the latter parts of the formulae, he adds tadrakṣadhvam...[^3]   
+
+
+[^2]: These formulae occur only here.  
+
+[^3]: This formula occurs also in KātyāŚS with some variants. The older source is not known.  
 </details>

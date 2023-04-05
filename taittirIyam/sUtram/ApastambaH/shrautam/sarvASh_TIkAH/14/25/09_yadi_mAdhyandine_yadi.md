@@ -5,5 +5,5 @@ title = "09 यदि माध्यन्दिने यदि"
 
 <details><summary>थिते</summary>
 
-यदि माध्यन्दिने यदि तृतीयसवन एतदेव पुरस्तात्पवमानेभ्यः स्तुवते ९
+9. If (the pressing stone is broken) at the midday press. ing, (or) at the third pressing, they sing the same (Sāman). before the Pavamana (lauds).  
 </details>

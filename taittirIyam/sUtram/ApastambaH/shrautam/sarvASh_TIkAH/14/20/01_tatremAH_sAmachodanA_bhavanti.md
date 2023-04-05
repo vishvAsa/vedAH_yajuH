@@ -5,5 +5,13 @@ title = "01 तत्रेमाः सामचोदना भवन्ति
 
 <details><summary>थिते</summary>
 
-तत्रेमाः सामचोदना भवन्ति । तौरश्रवसं कार्यम् । वसिष्ठस्य निहवः कार्यः । अभीवर्तं ब्रह्मसाम कुरुतात् । उभे बृहद्रथन्तरे कुरुतात् । अभिजितं विश्वजितं वा यज्ञक्रतुं कुरुतात् । क्रोशानुक्रोशे कुरुतादिति १
+1. There are these prescriptions in conneciton with the Sāmans (which are to be used in this Sacrifice). The Tauraśravasa[^1] should be used. The (Saman named) Vasiṣṭhasya Nihava should be used. Before the Morning pressing the Adhvaryu orders, “Use the Abhīvarta-sāman as the Brahma-sāman (i.e. the Saman corresponding the Brāhmaṇācchamsin's recitation).[^2] Use both the Br̥hat and Rathantara.[^3] Make sacrifice either Abhijit or Viśvajit.[^4] Use both the Krośa and Anukrośa ( sāmans)."   
+
+[^1]: Cf. TMB IX.4.9.  
+
+[^2]: See XIV.19.6.  
+
+[^3]: See XIV.19.7.  
+
+[^4]: See XIV.19.9.   
 </details>

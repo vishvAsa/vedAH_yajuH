@@ -5,5 +5,5 @@ title = "04 एतेनैव पृथिव्यां वामदेव्
 
 <details><summary>थिते</summary>
 
-एतेनैव पृथिव्यां वामदेव्ये श्रयस्व स्वाहेति होत्रीये यदि सदः ४
+4. With the same (verse) (but using the expression) pr̥thivyāṁ vāmadeve śrayasva svāhā (instead of the expression rathantare svayasva svāhā in the above mentioned verse) (he should offer a libation of ghee) in the (fire-hearth) of Hotr̥ if Sadas (collapses).  
 </details>

@@ -5,5 +5,5 @@ title = "14 अभिमन्त्रणे विकारः"
 
 <details><summary>थिते</summary>
 
-अभिमन्त्रणे विकारः १४
+14. There will be modification at the time of addressing (these materials). 
 </details>

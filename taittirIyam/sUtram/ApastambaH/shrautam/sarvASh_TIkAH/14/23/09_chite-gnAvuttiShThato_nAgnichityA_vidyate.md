@@ -5,5 +5,5 @@ title = "09 चितेऽग्नावुत्तिष्ठतो ना�
 
 <details><summary>थिते</summary>
 
-चितेऽग्नावुत्तिष्ठतो नाग्निचित्या विद्यते । तूष्णीं वाग्निं चिन्वीत । मन्त्रवन्तमित्यपरम् ९
+9. For some one standing up (i.e. discontinuing a sacrificial session) after the fire-altar-building is prepared, there is no (necessity of the) preparation of the fire-altar-building. Or one may prepare the fire-altar-building silently (without any formula); there is another (view that one may prepare another fire-altar-building) with formulae.  
 </details>

@@ -5,5 +5,5 @@ title = "20 ततः खरानुपवपति"
 
 <details><summary>थिते</summary>
 
-ततः खरानुपवपति २०
+20. Then he piles up the mounds-  
 </details>

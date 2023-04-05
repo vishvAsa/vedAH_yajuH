@@ -5,5 +5,9 @@ title = "13 यद्युक्थ्ये षोडशिनम् यदि
 
 <details><summary>थिते</summary>
 
-यद्युक्थ्ये षोडशिनम् । यदि षोडशिन्यतिरात्रम् । यद्यतिरात्रे द्विरात्रम् । यदि द्विरात्र एकस्तोत्रमेव १३
+
+13. if in the Ukthya, then... Ṣoḍaśin; if in the Ṣoḍaśin, then... Atirātra; if in the Atirātra, then... Dvirātra; if in the Dvirātra, then... a single Stotra only.[^1]  
+
+[^1]: Cp. TB I.4.5.4-5; ŚB IV.5.10.8.  
+
 </details>

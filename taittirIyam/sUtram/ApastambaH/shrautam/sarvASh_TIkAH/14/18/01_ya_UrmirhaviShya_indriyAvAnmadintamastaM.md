@@ -5,5 +5,7 @@ title = "01 य ऊर्मिर्हविष्य इन्द्रिय
 
 <details><summary>थिते</summary>
 
-य ऊर्मिर्हविष्य इन्द्रियावान्मदिन्तमस्तं व ऋध्यासम् । सोमस्याज्यमसि हविषो हविर्ज्योतिषां ज्योतिः । विश्वेषां वो देवानां देवताभिर्गृह्णामीत्यभिमन्त्र्य सं वः सिञ्चन्तु मरुतः समिन्द्रः सं बृहस्पतिः । सं वोऽयमग्निः सिञ्चत्वायुषा च धनेन च । सर्वमायुर्दधातु मे । मान्दा वाशाः । आपो भद्राः । आदित्पश्यामि । आपो हि ष्ठा मयोभुव इत्येताभिः सप्तभिः संसिञ्चेदभि वा मन्त्रयेत १
+1. with ya ūrmir haviṣya, having addressed (the water), with these seven formulae beginning with saṁ vaḥ siñcantu marutaḥ, 2. māndā vāśāḥ, 3. apo bhadrāḥ, 4. ādit paśyāmi, 5-7. āpo hi ṣṭhāḥ,[^1] he should pour it together or address it.  
+
+[^1]: Cp. KS XXXV.3.  
 </details>

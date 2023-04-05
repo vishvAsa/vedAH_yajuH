@@ -5,5 +5,7 @@ title = "03 सम्मितान् नित्येन यजुषाभ
 
 <details><summary>थिते</summary>
 
-सम्मितां नित्येन यजुषाभिमृशति ३
+3. After it is raised, (the Adhvaryu) touches it with the usual formula.[^1]   
+
+[^1]: viz. TS I.3.1.i; cp. XI. 10.1. 
 </details>

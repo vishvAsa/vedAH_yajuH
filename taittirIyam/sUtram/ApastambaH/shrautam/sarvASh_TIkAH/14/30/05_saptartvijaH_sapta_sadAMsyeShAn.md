@@ -5,5 +5,9 @@ title = "05 सप्तर्त्विजः सप्त सदांस्
 
 <details><summary>थिते</summary>
 
-सप्तर्त्विजः सप्त सदांस्येषां दश क्षिपो अश्विना पञ्च वाजाः । प्राणो व्यानोऽपानो मन आकूतमग्निः स्वाहाकृतं हविरदन्तु देवा इति भक्षं व्यापन्नमभिमन्त्र्येदं विष्णुर्विचक्रम इति दक्षिणपूर्व उपरवेऽवनयेत् ५
+5. With saptarvijaḥ sapta sadāṁsyeṣām...[^1] having addressed the Soma-drink which is polluted on account of falling (of an insect etc. in it), with idaṁ viṣṇur vi cakrame....[^2] he should pour it in the south-western Uparava (sounding hole).   
+
+[^1]: KS XXXV.4.  
+
+[^2]: TS I.2.13.e.  
 </details>
