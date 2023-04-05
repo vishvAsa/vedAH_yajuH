@@ -5,5 +5,6 @@ title = "06 स्तोत्रेस्तोत्रे ऽस्थिक�
 
 <details><summary>थिते</summary>
 
-स्तोत्रेस्तोत्रे ऽस्थिकुम्भमुपनिदधाति ६
+6. At the time of singing every Stotra, one keeps the jar containing the bones, near.  
+
 </details>

@@ -5,5 +5,6 @@ title = "03 देवस्य त्वा सवितुः"
 
 <details><summary>थिते</summary>
 
-देवस्य त्वा सवितुः प्रसव इत्यभ्रिमादायाभ्रिरसि नारिरसीत्यभिमन्त्रयते ३
+3. With devasya tvā savituḥ prasave... having taken the spade with abhrirasi nārirasi... he addresses it.  
+
 </details>

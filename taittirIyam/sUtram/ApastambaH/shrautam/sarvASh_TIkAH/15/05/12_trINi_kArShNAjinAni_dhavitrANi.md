@@ -5,5 +5,5 @@ title = "12 त्रीणि कार्ष्णाजिनानि धव
 
 <details><summary>थिते</summary>
 
-त्रीणि कार्ष्णाजिनानि धवित्राणि शुक्लकृष्णलोमानि १२
+12. three fans made of the skin of black antelope with white and black hair; 
 </details>

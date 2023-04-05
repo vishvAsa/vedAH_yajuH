@@ -5,5 +5,7 @@ title = "22 उत्तरपूर्वन् द्वारम् प्र
 
 <details><summary>थिते</summary>
 
-उत्तरपूर्वं द्वारं प्रत्युच्छिष्टखरं करोति बाह्यतो निःषेचनवन्तम् २२
+22. He prepares the Ucchiṣṭa Khara towards the north- eastern door, with an outward outlet.[^1]  
+
+[^1]: For the purpose of this mound see XV.11.16. 
 </details>

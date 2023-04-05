@@ -5,5 +5,7 @@ title = "02 सव्यानुद्ग्रथ्य दक्षिणा�
 
 <details><summary>थिते</summary>
 
-सव्यानुद्ग्रथ्य दक्षिणान्प्रस्रस्य सव्यानूरूनाघ्नाना अनभिधून्वन्तस्त्रिः प्रतिपरियन्त्यप नः शोशुचदघमिति २
+2. Having knotted the left (tufts of hair) and having loosened the right (tufts of hair), beating their left thighs, without fanning, thrice they move in the reverse manner[^1] with apa naḥ śośucadagham...  
+
+[^1]: Cf. TB I.4.6.7. They move in a clockwise manner.   
 </details>

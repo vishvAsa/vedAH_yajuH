@@ -5,5 +5,8 @@ title = "03 पश्चाद्धोतोपविशति पुरस्�
 
 <details><summary>थिते</summary>
 
-पश्चाद्धोतोपविशति । पुरस्तादध्वर्युः । दक्षिणतो ब्रह्मा यजमानः प्रस्तोता च । उत्तरतः प्रतिप्रस्थाताग्नीध्रश्च ३
+3. The Hotr̥ sits down towards the west; the Adhvaryu towards the east; the Brahman, the sacrificer and the Prastotr̥ towards the south; (and) the Pratiprasthātr̥ and the Āgnīdhra towards the north.  
+
+[^1]: To the west of the place mentioned in Sūtra 4.  
+
 </details>

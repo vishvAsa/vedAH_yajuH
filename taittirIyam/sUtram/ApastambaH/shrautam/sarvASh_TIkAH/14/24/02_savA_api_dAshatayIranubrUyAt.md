@@ -5,5 +5,8 @@ title = "02 सवा अपि दाशतयीरनुब्रूयात
 
 <details><summary>थिते</summary>
 
-सवा अपि दाशतयीरनुब्रूयात् २
+2. He (the Hotr̥) should recite all the R̥gvedic verses.[^1]   
+
+[^1]: i.e. he should go on reciting verses so long as the sun does not rise.  
+
 </details>

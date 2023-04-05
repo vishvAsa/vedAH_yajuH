@@ -5,5 +5,7 @@ title = "03 पञ्चसवनो यज्ञः त्रीणि"
 
 <details><summary>थिते</summary>
 
-पञ्चसवनो यज्ञः । त्रीणि सवनान्यवभृथोऽनूबन्ध्येति । पञ्च समिद्धेऽग्नौ हूयन्त प्राणापानौ मृत्योर्मा पातं प्राणापानौ मा मा हासिष्टमिति ३
+3b. Five liberation are offered in enkindleded fire.[^2]  
+
+[^2]: Cf. TMB IX.4.5. 
 </details>

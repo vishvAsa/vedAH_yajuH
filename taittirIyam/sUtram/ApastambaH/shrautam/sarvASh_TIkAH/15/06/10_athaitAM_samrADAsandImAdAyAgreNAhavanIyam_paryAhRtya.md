@@ -5,5 +5,9 @@ title = "10 अथैतां सम्राडासन्दीमादा�
 
 <details><summary>थिते</summary>
 
-अथैतां सम्राडासन्दीमादायाग्रेणाहवनीयं पर्याहृत्य पुरस्ताद्राजासन्द्याः सादयति १०
+10. Then having taken the emperor-throne-seat,[^1] having carried it round along the front of the Āhavanīya, (the Adhvaryu) places it in front of the king's throne-seat.[^2]   
+
+[^1]: See XV.5.7.  
+
+[^2]: i.e. the throne-seat for Soma. For this Sūtra cf. ŚB XIV.1.3.8.  
 </details>

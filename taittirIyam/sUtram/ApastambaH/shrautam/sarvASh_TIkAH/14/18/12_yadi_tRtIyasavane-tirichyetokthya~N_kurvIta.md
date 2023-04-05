@@ -5,5 +5,5 @@ title = "12 यदि तृतीयसवनेऽतिरिच्येत�
 
 <details><summary>थिते</summary>
 
-यदि तृतीयसवनेऽतिरिच्येतोक्थ्यं कुर्वीत १२
+12. If (the Soma-juice) would be excessive in the third pressing, the Adhvaryu should make (the sacrifice) Ukthya, 
 </details>

@@ -5,5 +5,9 @@ title = "01 यस्याग्निरुख्य उद्वायोद�
 
 <details><summary>थिते</summary>
 
-यस्याग्निरुख्य उद्वायोद्गार्हपत्यादन्यं प्रणयेत् । स एव पुनः परीध्यः । स्वादेवैनं योनेर्जनयतीति विज्ञायते १
+1. If fire in the fire-pan gets extinguished, (the Adhvaryu) should lead forward another (fire) form the Gārhapatya. This is to be newly enkindled.[^1] “One produces it from its own womb”—thus is known from (a Brāhmaṇa-text).[^2]   
+
+[^1]: In the manner described in XVI.9.4-14.  
+
+[^2]: MS III.4.7.  
 </details>

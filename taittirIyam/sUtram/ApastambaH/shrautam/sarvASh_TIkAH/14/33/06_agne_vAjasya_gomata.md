@@ -5,5 +5,9 @@ title = "06 अग्ने वाजस्य गोमत"
 
 <details><summary>थिते</summary>
 
-अग्ने वाजस्य गोमत इति तिस्रः । भद्रो नो अग्निराहुतो भद्रा रातिः सुभग भद्रो अध्वरः । भद्रा उत प्रशस्तयः । भद्रा उत प्रशस्तयो भद्रं मनः कृणुष्व वृत्रतूर्ये । येना समत्सु सासहः । येना समत्सु सासहो ऽव स्थिरा तनुहि भूरि शर्धताम् । वनेमा ते अभिष्टिभिरिति षड्भिरुष्णिक्ककुद्भिराग्नीध्रीये जुहुतः ६
+6. The three verses (beginning with agne vājasya gomataḥ[^1] (are in Uṣṇih-metre); the three verses beginning with utara no agnirāhutaḥ...[^2] (are in Kakubh-metre). With (these verses in) Uṣṇih and Kakubh, (the Adhvarvu and me Pratiprasthātr̥) offer libations (of ghee) in the Āgnīdhra's (fire hearth).   
+
+[^1]: TS IV.4.4.q-s; VS XV.35.37.  
+
+[^2]: VS XV.38-40.  
 </details>

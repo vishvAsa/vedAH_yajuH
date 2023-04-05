@@ -5,5 +5,7 @@ title = "03 ते यदोदञ्चः सम्पद्यन्तेऽ
 
 <details><summary>थिते</summary>
 
-ते यदोदञ्चः सम्पद्यन्तेऽथैभ्योऽध्वर्युर्दक्षिणतोऽश्मानं परिधिं दधातीमं जीवेभ्यः परिधिं दधामि मा नो नु गादपरो अर्धमेतम् । शतं जीवन्तु शरदः पुरूचीस्तिरो मृत्युं दध्महे पर्वतेनेति ३
+3. When they become facing the north then the Adhvaryu places a stone as a fence towards the south with imaṁ jivebhyaḥ paridhiṁ dadhāmi...[^1]   
+
+[^1]: TB III.7.11.3. For this Sūtra cp. ŚB XIII.8.4.12. 
 </details>

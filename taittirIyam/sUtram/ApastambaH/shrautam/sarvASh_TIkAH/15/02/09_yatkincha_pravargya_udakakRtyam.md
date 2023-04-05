@@ -5,5 +5,5 @@ title = "09 यत्किञ्च प्रवर्ग्य उदककृ
 
 <details><summary>थिते</summary>
 
-यत्किञ्च प्रवर्ग्य उदककृत्यं मदन्तीभिरेव तत्क्रयते । नैनं स्त्री प्रेक्षते न शूद्रः ९
+9. In the Pravargya (-ritual) whatever is to be done with water that is done by means of Madantī (-boiling water) only. Neither a woman nor a Śudra sees it (Pravargya) pot (while being prepared). 
 </details>

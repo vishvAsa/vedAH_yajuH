@@ -5,5 +5,7 @@ title = "05 भये जातेऽशक्ये यष्टुं"
 
 <details><summary>थिते</summary>
 
-भये जातेऽशक्ये यष्टुं सर्वेभ्यो हविर्भ्यः सोमेभ्यश्च द्रोणकलशे समवधाय ये देवा येषामिदं भागधेयं बभूव येषां प्रयाजा उतानूयाजाः । इन्द्रज्येष्ठेभ्यो वरुणराजभ्योऽग्निहोतृभ्यो देवेभ्यः स्वाहेति द्रोणकलशेन हुत्वाभये पुनर्यजेत ५
+5. When a danger arises and it is impossible to perform the sacrifice, having poured some portion of all the oblation ( substances) and Somas in the Droṇakalaśa, having offered an offering (of this mixture) by means of the Droṇakalaśa, with ye devā yeṣāmidam...[^1] when there is no danger, (at that time) he should perform the (original) sacrifice.   
+
+[^1]: TB III.7.10.4. 
 </details>

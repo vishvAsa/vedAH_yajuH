@@ -5,5 +5,5 @@ title = "16 शतमानौ भवतः"
 
 <details><summary>थिते</summary>
 
-शतमानौ भवतः १६
+16. they should be one hundred Mānas in weight- 
 </details>

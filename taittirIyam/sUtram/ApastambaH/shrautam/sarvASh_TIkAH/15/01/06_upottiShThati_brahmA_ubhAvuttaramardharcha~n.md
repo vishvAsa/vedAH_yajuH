@@ -5,5 +5,9 @@ title = "06 उपोत्तिष्ठति ब्रह्मा उभा
 
 <details><summary>थिते</summary>
 
-उपोत्तिष्ठति ब्रह्मा । उभावुत्तरमर्धर्चं जपतः । आददते कृष्णाजिनम् । अनुनयन्त्यजां पुंश्छगलामश्वं वृषाणमिति ६
+6. The Brahman rises (from his seat). Both (the Adhvaryu and the Brahman) mutter the half of the verse.[^1]' They take the skin of black antelope. They lead a she-goat' with a little he goat (as her young one) and a stallion.   
+
+[^1]: The verse mentioned in the previous Sūtra. 2. See Sūtra 10.  
+
+[^2]: See XV.4.10. 
 </details>

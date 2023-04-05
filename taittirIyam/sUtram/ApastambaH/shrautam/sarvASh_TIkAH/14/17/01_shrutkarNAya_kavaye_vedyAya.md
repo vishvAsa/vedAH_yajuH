@@ -5,5 +5,7 @@ title = "01 श्रुत्कर्णाय कवये वेद्या
 
 <details><summary>थिते</summary>
 
-श्रुत्कर्णाय कवये वेद्याय नमोभिर्नाकमुपयामि शंसन् । यतो भयमभयं तत्कृधी नोऽग्ने देवानामव हेड इयक्ष्व । अग्निं वो देवमग्निभिः सजोषा यजिष्ठं दूतमध्वरे कृणुध्वम् । यो मर्त्येषु निध्रुविरृतावा तपुर्मूर्धा घृतान्नः पावकः । घृतप्रतीको घृतपृष्ठो अग्निर्घृतैः समिद्धो घृतमस्यान्नम् । घृतप्रुषस्त्वा सरितो वहन्ति घृतं पिबन्यजताद्देव देवान् । आयुर्दा अग्ने । इमो अग्ने । सप्त ते अग्ने । मनो ज्योतिर्जुषताम् । त्रयस्त्रिंशत् । यन्मे मनसः । विश्वकर्मा । अग्निं युनज्मि । इन्धानास्त्वा । अग्निर्न ईडित ईडितव्यैर्देवैः पार्थिवैः पातु । वायुर्न ईडित ईडितव्यैर्देवैरान्तरिक्षैः पातु । सूर्यो न ईडित ईडितव्यैर्देवैर्दिव्यैः पातु । विष्णुर्न ईडित ईडितव्यैर्देवैर्दिश्यैः पातु । अग्निर्यजुर्भिः पूषा स्वगाकारैस्त इमं यज्ञमवन्तु ते मामवन्त्वनु व आरभेऽनु मारभध्वं स्वाहेत्येतैस्त्रिभिरनुवाकैरविज्ञातप्रायश्चित्ते सोमे त्रयस्त्रिंशतमाहुतीर्जुहोति १
+1. With śrutkarṇāya kavaye..., 17. agniṁ vo devam agnibhiḥ..., 18. ghr̥tapr̥ṣṭiko ghr̥tapr̥ṣṭhah..., 19. āyurdā agne..., 20. imo agne..., 21. sapta te agne..., 22. mano jyotir juṣatām..., 23. trayastriṁśat.., 24. yan me manasaḥ..., 25. viśvakarmā..., 26. agniṁ yunajmi.... 27. indhānāstvā..., 25. agnir na īditaḥ..., 29. vāyur na īḍitaḥ..., 30. sūryo na īḍitaḥ..., 31. viṣṇur īḍitaḥ..., 32. agnir yajurbhiḥ..., 33. pūṣā svagākāraiḥ... these three sections[^1] (the Adhvaryu) offers thirty-three libations of ghee when the cause of expiation is not known in a Soma-sacrifice.  
+
+[^1]: See KS XXXIV.9; XXXV.1 and XXXV.2 The first section ends with no. 10, the second with no. 19, and the third with no.33. No. 19 and 22 are not found in KS.  
 </details>

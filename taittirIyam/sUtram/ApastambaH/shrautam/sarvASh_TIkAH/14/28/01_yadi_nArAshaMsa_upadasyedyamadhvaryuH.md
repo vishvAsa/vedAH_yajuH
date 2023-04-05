@@ -5,5 +5,12 @@ title = "01 यदि नाराशंस उपदस्येद्यमध
 
 <details><summary>थिते</summary>
 
-यदि नाराशंस उपदस्येद्यमध्वर्युः पूर्वं ग्रहं गृह्णीयात्तं वषट्कृतानुवषट्कृते हुत्वा चमसाध्वर्यवे प्रयच्छेत् । तेनैनं स आप्याययत्याप्यायस्व समेतु त इति १
+1. If the (Soma in the) Narāśaṁsa (-goblet)[^1] is exhausted, after Vaṣaṭ and second Vaṣaṭ have been uttered, the Adhvaryu having offered a libation (of Soma-juice) of that scoop[^2] which he takes first (from it), should give it to the Camasādhvaryu, with it (i.e. the remnants of the scoop given to him), he (the Camasādhvaryu) causes it (the contents in the exhausted goblet) to swell with āpyayasva sametu te...[^3]   
+
+
+[^1]: See XII.24.25.  
+
+[6^]: i.e. in the normal practice the Aindragna-scoop.  
+
+[^3]: TS III.2.5.k. For this Sūtra cf. TMB IX.9.5-6; KS XXXV.16.  
 </details>

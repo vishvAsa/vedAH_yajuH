@@ -5,5 +5,7 @@ title = "03 तञ् जघनेन दक्षिणाप्रागग्
 
 <details><summary>थिते</summary>
 
-तं जघनेन दक्षिणाप्रागग्रान्दर्भान्संस्तीर्य दधि ददाति देवास इह मादयध्वं सोम्यास इह मादयध्वं कव्यास इह मादयध्वमिति ३
+3. Towards the west of it (Dakṣiṇa-fire) having spread Darbha-blades with their points to the south-east, he offers curds (on the Darbha-blades) with devāsa iha mādayadhvam...[^1]   
+
+[^1]: TB III.7.14.4. 
 </details>

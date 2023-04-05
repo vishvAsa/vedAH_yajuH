@@ -5,5 +5,7 @@ title = "15 अथैकेषाम् प्रतिधुक्च प्र
 
 <details><summary>थिते</summary>
 
-अथैकेषाम् । प्रतिधुक्च प्रातःसवने पूतीकाश्च । शृतं च माध्यन्दिने सवने पूतीकाश्च । दधि च तृतीयसवने पूतीकाश्चेति १५
+15. Now according to some,[^1] fresh milk and Pūtika-plants are to be pressed at the morning-pressing; cooked milk and Pūtikā-plants ... at the midday-pressing; curds and Pūtīkā plants ... at the third pressing.   
+
+[^1]: The Kauthumas. Cf. TMB IX.5.5.  
 </details>

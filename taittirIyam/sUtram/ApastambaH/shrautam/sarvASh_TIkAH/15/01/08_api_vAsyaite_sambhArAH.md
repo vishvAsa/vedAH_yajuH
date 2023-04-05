@@ -5,5 +5,7 @@ title = "08 अपि वास्यैते सम्भाराः"
 
 <details><summary>थिते</summary>
 
-अपि वास्यैते सम्भाराः परिश्रितेऽभ्युदाहृता भवन्ति ८
+8. Or these materials are already collected in an enclosed place.[^1]  
+
+[^1]: Cf. ŚB XIV.1.2.15.  
 </details>
