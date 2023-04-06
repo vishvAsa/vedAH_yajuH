@@ -5,5 +5,9 @@ title = "04 मखस्य शिरोऽसीति पिण्डङ्"
 
 <details><summary>थिते</summary>
 
-मखस्य शिरोऽसीति पिण्डं कृत्वा यज्ञस्य पदे स्थ इति कृष्णाजिनं पुष्करपर्णं चाभिमृशति मृदि वाङ्गुष्ठाभ्यां निगृह्णाति ४
+4. Having made a lump out of the clay with makhasya śiro'si[^1] he touches the black antelope and the lotus leaf or he presses with both the thumbs on the clay with yajñasya pade stha.[^2]  
+
+[^1]: TS IV.1.5.1.  
+
+[^2]: TS IV.1.5.m.  
 </details>

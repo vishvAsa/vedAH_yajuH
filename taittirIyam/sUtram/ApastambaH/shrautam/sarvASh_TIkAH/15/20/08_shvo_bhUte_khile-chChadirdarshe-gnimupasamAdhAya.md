@@ -5,5 +5,6 @@ title = "08 श्वो भूते खिलेऽच्छदिर्दर
 
 <details><summary>थिते</summary>
 
-श्वो भूते खिलेऽच्छदिर्दर्शेऽग्निमुपसमाधाय सम्परिस्तीर्याथास्य षट्तयमभिविदर्शयति । सप्ततयमित्येके । अग्निमादित्यमुदकुम्भमश्मानं वत्सं महानग्नाम् । हिरण्यं सप्तमम् ८
+8. On the next day in the morning, having kept fire in a solitary region from where (even) the roof (of any house in the village will) not be seen, having scattered (sacred grass) around (the fire), (having taken away the garment from the head of the student), he causes (the student to see a group of six (things) -according to some a group of seven (things)-viz. fire, sun, a jar full of water, a stone, a calf, and a small girl; (and) gold as the seventh.  
+
 </details>

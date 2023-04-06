@@ -5,5 +5,7 @@ title = "05 यत्र दर्भा उपदीकसन्तताः"
 
 <details><summary>थिते</summary>
 
-यत्र दर्भा उपदीकसन्तताः स्युस्तदुद्वासयेद्वृष्टिकामस्य ५
+5. In the case of a (sacrificer) desirous of rain-shower, (the Adhvaryu should dispose of (the Pravargya) at a place where there are Darbha-blades eaten by white ants.[^1]  
+
+[^1]: Cf. TĀ V.10.6.  
 </details>

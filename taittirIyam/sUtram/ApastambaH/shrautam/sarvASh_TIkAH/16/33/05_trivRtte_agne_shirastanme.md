@@ -5,5 +5,9 @@ title = "05 त्रिवृत्ते अग्ने शिरस्तन
 
 <details><summary>थिते</summary>
 
-त्रिवृत्ते अग्ने शिरस्तन्मे अग्ने शिरः । पञ्चदशौ ते अग्ने बाहू तौ मे अग्ने बाहू । सप्तदशस्ते अग्न आत्मा स मे अग्न आत्मा । एकविंशौ ते अग्ने ऊरू तौ मे अग्ने ऊरू । त्रिणवौ ते अग्ने अष्ठीवन्तौ तौ मे अग्ने अष्ठीवन्तौ । त्रयस्त्रिंशं ते अग्ने प्रतिष्ठानं तन्मे अग्ने प्रतिष्ठानमित्येताः शिरसि पक्षयोर्मध्ये पुच्छे वोपदधाति ५
+5. With trivr̥t te agne śiraḥ (he places) these[^1] (Trivr̥t-bricks) on the head, on the two wings, on the central part, and[^2] on the tail (part).  
+
+[^1]: KS XXXIX.3.  
+
+[^2]: The context shows that there should be reading copadadhāti rather than vopadadhāti.  
 </details>

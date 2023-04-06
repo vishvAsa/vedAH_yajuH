@@ -5,5 +5,6 @@ title = "07 निर्मन्थ्येन लोहिनीः पचन
 
 <details><summary>थिते</summary>
 
-निर्मन्थ्येन लोहिनीः पचन्ति ७
+7. They bake (the bricks) by means of fire produced through churning, (until they become) red. 
+
 </details>

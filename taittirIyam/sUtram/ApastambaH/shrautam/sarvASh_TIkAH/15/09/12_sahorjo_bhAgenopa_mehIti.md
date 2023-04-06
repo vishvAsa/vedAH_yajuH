@@ -5,5 +5,7 @@ title = "12 सहोर्जो भागेनोप मेहीति"
 
 <details><summary>थिते</summary>
 
-सहोर्जो भागेनोप मेहीति पय आह्रियमाणं प्रतीक्षते १२
+12. With sahorjo bhāgenopa mehi[^1] he looks at the milk being brought forth.  
+
+[^1]: TĀ IV.8.14. 
 </details>

@@ -5,5 +5,7 @@ title = "04 एकचितीकानेवात ऊर्ध्वञ् च
 
 <details><summary>थिते</summary>
 
-एकचितीकानेवात ऊर्ध्वं चिन्वीत ४
+4. Hereafterwards he should build them (Gārhapatya-altars) with one layer only[^1].  
+
+[^1]: Cp. KS XX.1. 
 </details>

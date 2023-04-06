@@ -5,5 +5,6 @@ title = "12 नित्ये"
 
 <details><summary>थिते</summary>
 
-नित्ये १२
+12. in the obligatory manner.  
+
 </details>

@@ -5,5 +5,18 @@ title = "01 यत्ते देवी निरृतिराबबन्ध
 
 <details><summary>थिते</summary>
 
-यत्ते देवी निरृतिराबबन्धेति शिक्यजालेनैनाः म्रच्छाद्य रुक्मसूत्रमासन्दीं च परस्तान्निधायापास्मदेतु निरृतिर्नेहास्या अपि किञ्चन । अगोतां नाष्ट्रां पाप्मानं सर्वं तदपहन्महे । अपास्मन्नैरृतान्पाशान्मृत्यूनेकशतं चये । अपास्य ये सिनाः पाशा मृत्यूनेकशतं सुवे । ये ते पास्य एकशतं मृत्यो मर्त्याय हन्तवे । तान्यज्ञस्य मायया सर्वानवयजामहे । देवीमहं निरृतिं बाधमानः पितेव पुत्रं दसये वचोभिः । विश्वस्य या जायमानस्य वेद शिरःशिरः प्रति सूरी विचष्ट इत्येताभिश्चतसृभिरुपहिता अभिमन्त्र्य यदस्य पारे रजस इति वैश्वानर्या परिषिच्य भूत्यै नम इत्युपस्थायाप्रतीक्षमायन्ति १
+1. Having covered these bricks by means of the net of the sling with yat te devi nirr̥tirā babandha[^1] having kept the thread of the gold plate and the seat further to them,[^2] having addressed the kept down bricks with four verses beginning with apāsmadetu nirr̥tiḥ;[^3] having poured water with a verse addressed to Agni Vaiśvānara beginning with yadasya pāre rajasaḥ,[^4] having stood near them while praising with bhūtyai namaḥ[^5] (the Adhvaryu, the sacrificer and the Brahman) return without looking back.[^6]   
+
+
+[^1]: TS IV.2.5.h.  
+
+[^2]: Cf. ŚB VII.2.1.15.   
+
+[^3]: KS. XXXVIII.13.   
+
+[^4]: TS. IV.2.5.f.   
+
+[^5]: Cf. MS III.2.4.  
+
+[^6]: Cf. TS V.2.4.4.  
 </details>

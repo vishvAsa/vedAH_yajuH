@@ -5,5 +5,7 @@ title = "01 आतिथ्याया ध्रौवादित्येत�
 
 <details><summary>थिते</summary>
 
-आतिथ्याया ध्रौवादित्येतदादि कर्म प्रतिपद्यते १
+1. (Then the Adhvaryu) does the work beginning with (taking of the ghee remaining) in Dhruva (at the time) of the Guest-offering (Ātithyā-iṣṭi)[^1].  
+
+[^1]: For this see X.1.1. 
 </details>

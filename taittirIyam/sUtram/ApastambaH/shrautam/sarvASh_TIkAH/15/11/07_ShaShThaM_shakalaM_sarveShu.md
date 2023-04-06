@@ -5,5 +5,14 @@ title = "07 षष्ठं शकलं सर्वेषु"
 
 <details><summary>थिते</summary>
 
-षष्ठं शकलं सर्वेषु लेपेष्वक्त्वानन्व्रीक्षमाण उदञ्चं निरस्यति रुद्राय रुद्रहोत्रे स्वाहेति ७
+7. Having anointed the sixth chip with all the wipings[^1], he throws it towards the north,[^2] without looking at it,[^3] with rudrāya rudrahotre svāhā.[^4]  
+
+
+[^1]: Cf. TĀ V.8.9.  
+
+[^2]: Outside the fire-hall.   
+
+[^3]: Cf. TĀ V.8.9-10.  
+
+[^4]: TĀ IV.10.6.  
 </details>

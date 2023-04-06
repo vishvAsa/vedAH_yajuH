@@ -5,5 +5,8 @@ title = "06 अपि वा सार्वत्रिकमेतत्प्
 
 <details><summary>थिते</summary>
 
-अपि वा सार्वत्रिकमेतत्प्रायश्चित्तं क्रियेत ६
+6. Or rather this expiation may be performed in general.[^1]   
+
+[^1]: i.e. not necessarily if the Gharma-cow has worms but if any cow gets worms. 
+
 </details>

@@ -5,5 +5,5 @@ title = "06 क्रियमाणामेतैरेव यजमानो�
 
 <details><summary>थिते</summary>
 
-क्रियमाणामेतैरेव यजमानोऽनुमन्त्रयते ६
+6. The sacrificer addresses (the fire-pan when it is) being prepared, with these same (formulae).  
 </details>

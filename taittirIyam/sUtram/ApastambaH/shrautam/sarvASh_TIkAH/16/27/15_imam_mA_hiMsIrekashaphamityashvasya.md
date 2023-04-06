@@ -5,5 +5,7 @@ title = "15 इमम् मा हिंसीरेकशफमित्यश
 
 <details><summary>थिते</summary>
 
-इमं मा हिंसीरेकशफमित्यश्वस्य १५
+15. with imaṁ mā hiṁsirekaśapham[^2] (the head) of horse;  
+
+[^2]: TS IV.2.10.d. 
 </details>

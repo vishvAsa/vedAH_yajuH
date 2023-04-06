@@ -5,5 +5,6 @@ title = "08 नाक्तो नाभ्यक्तो नार्द्र
 
 <details><summary>थिते</summary>
 
-नाक्तो नाभ्यक्तो नार्द्रो नार्द्रे नानववृष्टे नाभ्रे न छायायां न पर्यावृत्त आदित्ये न हरितयवान्प्रेक्षमाणो न ग्राम्यस्य पशोरन्ते नारण्यस्य नापामन्ते ८
+8. (One should) not (study) when one has applied ointment to one's eyes, (or) when one has ointed one's body, (or) when one is wet (after bath), (or) on a wet place, (or) on a place where rain has not fallen, (or) when there are clouds (in the sky), (or) when the sun is about to set, (or) while looking at green grass, (or) near a village-animal, (or) near the forest, (or) near the waters.  
+
 </details>

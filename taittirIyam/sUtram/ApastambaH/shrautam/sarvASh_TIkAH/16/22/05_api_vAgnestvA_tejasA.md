@@ -5,5 +5,7 @@ title = "05 अपि वाग्नेस्त्वा तेजसा"
 
 <details><summary>थिते</summary>
 
-अपि वाग्नेस्त्वा तेजसा सादयामीत्याज्यस्य पूर्णां कार्ष्मर्यमयीं दक्षिणेन पुरुषम् । इन्द्रस्य त्वौजसा सादयामीति दध्नः पूर्णामौदुम्बरीमुत्तरेण पुरुषम् ५
+5. Or with agnestva tejasā sādayāmi... (he places the ladle) made out of Kārṣmarya-wood and full of ghee to the south of the golden man; with indrasya tvāujusā sādayāmi... (he places the ladle) made out of Udumbara wood full of curds to the north of the golden man[^1].  
+
+[^1]: Cf. ŚB VII.4.1.41.  
 </details>

@@ -5,5 +5,5 @@ title = "04 अप्सु यायावरः प्रवयेत्"
 
 <details><summary>थिते</summary>
 
-अप्सु यायावरः प्रवयेत् ४
+4. A nomad (sacrificer) should throw (the ashes) in water.  
 </details>

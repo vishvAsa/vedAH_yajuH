@@ -5,5 +5,5 @@ title = "06 षडुपसदः"
 
 <details><summary>थिते</summary>
 
-षडुपसदः ६
+6. There are six Upasads connected with fire-altar-building.  
 </details>

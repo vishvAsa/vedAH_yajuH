@@ -5,5 +5,9 @@ title = "06 उष्टारयोः पिल्वयोरथो आबन
 
 <details><summary>थिते</summary>
 
-उष्टारयोः पिल्वयोरथो आबन्धनीययोः । सर्वेषां विद्म वो नाम वाहाः कीलालपेशस इति युक्तानभिमन्त्र्योदस्थाद्गोजिद्धनजिदश्वजिद्धिरण्यजित्सूनृतया परीवृतः । एकचक्रेण सविता रथेनोर्जो भागं पृथिवीमेत्वापृणन्निति लाङ्गलमुच्छ्रयति ६
+6. Having addressed the yoked oxen with uṣṭārayoḥ pilvayoḥ....[^1] he raises the pole and the plough with udasthād gojit....[^2]  
+
+[^1]: MS II.7.12.  
+
+[^2]: KS XXXVIII.14   
 </details>

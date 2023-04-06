@@ -5,5 +5,11 @@ title = "02 चतस्र आशाः प्रचरन्त्वग्न
 
 <details><summary>थिते</summary>
 
-चतस्र आशाः प्रचरन्त्वग्नय इति वोपधायावकाभिः परीतंस्य जालेन प्रच्छाद्य शङ्कुभिः परिणिहत्यापां गम्भीरं गच्छ मात्वा सूर्यः परीताप्सीन्मो अग्निर्वैश्वानरः । अघोरः प्रजा अभिविपश्यानु त्वा दिव्या वृष्टिः सचताम् । संसर्प त्रीन्समुद्रान्स्वर्गांल्लोकानपां पतिर्वृषभ इष्टकानाम् । तत्र गच्छ यत्र पूर्वे परेताः पुरीषं वसानः स्वां योनिं यथायथमित्युपहितमभिमन्त्रयते २
+2. Or having placed it with catasra āśāḥ pracarantvagnaye, having (then) covered it which is surrounded by the Avakā-plants by means of a net, having (then) fixed it by means of nails, he addresses the placed down (tortoise) with apāṀ gambhīraṁ gaccha....[^3]  
+
+[^1]: TS V.7.8.b.  
+
+[^2]: Cp. ŚB VII.5.1.11.  
+
+[^3]: KS XXXIX.3; VS XIII.30-31.  
 </details>

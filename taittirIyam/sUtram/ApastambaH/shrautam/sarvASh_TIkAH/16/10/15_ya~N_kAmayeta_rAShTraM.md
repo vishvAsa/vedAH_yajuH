@@ -5,5 +5,8 @@ title = "15 यङ् कामयेत राष्ट्रं"
 
 <details><summary>थिते</summary>
 
-यं कामयेत राष्ट्रं स्यादिति तं मनसा ध्यायेत् १५
+15. He should think in his mind about him in connection with whom he thinks that he should get kingdom.[^1]  
+
+[^1]: Cf. TS V.2.1.4.  
+
 </details>

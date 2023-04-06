@@ -5,5 +5,6 @@ title = "06 न नक्तम्"
 
 <details><summary>थिते</summary>
 
-न नक्तम् ६
+6. One should not study during the night time.  
+
 </details>

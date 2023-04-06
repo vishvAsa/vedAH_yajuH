@@ -5,5 +5,7 @@ title = "05 अग्ने देवाँ इहा"
 
 <details><summary>थिते</summary>
 
-अग्ने देवाँ इहा वह जज्ञानो वृक्तबर्हिषे । असि होता न ईड्यः । अगन्म महा मनसा यविष्ठं यो दीदाय समिद्धः स्वे दुरोणे । चित्रभानू रोदसी अन्तरुर्वी स्वाहुतं विश्वतः प्रत्यञ्चम् । मेधाकारं विदथस्य प्रसाधनमग्निं होतारं परिभूतमं मतिम् । त्वामर्भस्य हविषः समानमित्त्वां महो वृणते नरो नान्यं त्वत् । मनुष्वत्त्वा नि धीमहि मनुष्वत्समिधीमहि । अग्ने मनुष्वदङ्गिरो देवान्देवायते यज । अग्निर्हि वाजिनं विशे ददाति विश्वचर्षणिः । अग्नी राये स्वाभुवं स प्रीतो याति वार्यमिषं स्तोतृभ्य आ भरेत्येता आम्नाता भवन्ति ५
+5. These verses beginning with agne devān ihā vaha[^1] are transmitted (for being used in this respect).  
+
+[^1]: For the verses sec TB III.11.6.2-4. It is possible that these verses might have been taken from KS XXXIX.3 and that is why the verses are given completely and not simply with their beginning.   
 </details>

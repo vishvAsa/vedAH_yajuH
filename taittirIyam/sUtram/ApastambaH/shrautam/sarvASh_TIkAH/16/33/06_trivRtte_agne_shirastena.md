@@ -5,5 +5,7 @@ title = "06 त्रिवृत्ते अग्ने शिरस्ते
 
 <details><summary>थिते</summary>
 
-त्रिवृत्ते अग्ने शिरस्तेन मा पाहीति सन्नमयंस्तान्तामुपतिष्ठते यजमानः ६
+6. The sacrificer stands praying near each (brick after it has been placed by the Adhvaryu) while changing the words trivr̥t te agne śiraḥ with tena mā pāhi....[^1]   
+
+[^1]: Cf. KS XXXIX.5.  
 </details>

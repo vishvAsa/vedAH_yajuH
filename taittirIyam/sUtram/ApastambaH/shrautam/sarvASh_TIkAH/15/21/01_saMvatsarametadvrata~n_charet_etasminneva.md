@@ -5,5 +5,8 @@ title = "01 संवत्सरमेतद्व्रतञ् चरेत�
 
 <details><summary>थिते</summary>
 
-संवत्सरमेतद्व्रतं चरेत् । एतस्मिन्नेव संवत्सरेऽधीयीत १
+1. One should observe this vow[^1] for a year. During the same year he should study (the Pravargya-ritual).  
+
+[^1]: See also TA I.32.1. 
+
 </details>

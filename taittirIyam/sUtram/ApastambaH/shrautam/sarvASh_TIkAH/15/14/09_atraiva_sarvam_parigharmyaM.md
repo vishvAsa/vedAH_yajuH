@@ -5,5 +5,5 @@ title = "09 अत्रैव सर्वम् परिघर्म्यं
 
 <details><summary>थिते</summary>
 
-अत्रैव सर्वं परिघर्म्यं सर्वतः परिमण्डलमादित्यस्य रूपं करोति ९
+9. On that spot itself, (he places) all the Pravargya-utensils round (the Mahāvīras) in a circle and he makes out the form of the (orb of ) sun.  
 </details>

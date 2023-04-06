@@ -5,5 +5,7 @@ title = "03 अथ देवता उपतिष्ठतेऽग्ने"
 
 <details><summary>थिते</summary>
 
-अथ देवता उपतिष्ठतेऽग्ने व्रतपते व्रतं चरिष्यामीति ३
+3. Then he stands praising the deities with agne vratapate...[^1]  
+
+[^1]: TĀ IV.41.5. 
 </details>

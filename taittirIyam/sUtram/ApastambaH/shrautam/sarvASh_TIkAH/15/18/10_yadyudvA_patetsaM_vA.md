@@ -5,5 +5,6 @@ title = "10 यद्युद्वा पतेत्सं वा"
 
 <details><summary>थिते</summary>
 
-यद्युद्वा पतेत्सं वा विजेत शार्दूलो वा हन्यादर्कक्षीरमजाक्षीर आश्चोत्य तेन प्रेचरेत् १०
+10. If (the Gharma-cow, while being milked) jumps, or gets frightened, or a leopard may kill her, then having poured the sap of Arka-tree or milk of a she-goat, he should perform (the Pravargya-ritual).  
+
 </details>

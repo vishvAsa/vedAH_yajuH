@@ -5,5 +5,7 @@ title = "04 यदि कामयेत पापवस्यसं"
 
 <details><summary>थिते</summary>
 
-यदि कामयेत पापवस्यसं स्यादिति गर्दभप्रथमा गच्छेयुः ४
+4. If he desires that (the sacrificer) should be worse, then they should go having kept ass in the front.[^1]   
+
+[^1]: Cf. MS III.1.3. 
 </details>

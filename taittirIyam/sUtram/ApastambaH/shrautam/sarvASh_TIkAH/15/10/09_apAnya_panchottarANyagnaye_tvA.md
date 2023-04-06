@@ -5,5 +5,6 @@ title = "09 अपान्य पञ्चोत्तराण्यग्न�
 
 <details><summary>थिते</summary>
 
-अपान्य पञ्चोत्तराण्यग्नये त्वा वसुमते स्वाहेति ९
+9. Having breathed out (he recites) the next five Vātanāman (formulae) beginning with agnaye tvā vasumate svāhā. 
+
 </details>

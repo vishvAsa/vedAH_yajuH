@@ -5,5 +5,7 @@ title = "07 यद्यस्यै वत्सो वायोर्निय
 
 <details><summary>थिते</summary>
 
-यद्यस्यै वत्सो वायोर्नियुत्वत ऋचा जुहुयात् ७
+7. If the calf of her (disappears), he should offer a libation (of ghee) with a verse of Vāyu Niyutvat.[^1]  
+
+[^1]: TS I.4.4.a.  
 </details>

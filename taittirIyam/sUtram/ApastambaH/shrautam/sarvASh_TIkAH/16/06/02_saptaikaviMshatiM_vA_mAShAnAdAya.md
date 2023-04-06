@@ -5,5 +5,7 @@ title = "02 सप्तैकविंशतिं वा माषानाद
 
 <details><summary>थिते</summary>
 
-सप्तैकविंशतिं वा माषानादाय पुरुषशिरोऽच्छैति वैश्यस्य राजन्यस्य वेषुहतस्याशनिहतस्य वा २
+2. Having taken seven or twenty-one[^1] beans in his hand he goes towards a human head-(head) either of a Vaiśya or Rājanya, or one who is killed due to an arrow or killed due to thunderbolt.  
+
+[^1]: Cf. TS V.1.8.1; KS XX.8. 
 </details>

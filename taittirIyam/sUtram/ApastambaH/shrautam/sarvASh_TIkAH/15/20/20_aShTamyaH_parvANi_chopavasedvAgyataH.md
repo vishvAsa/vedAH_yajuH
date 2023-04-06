@@ -5,5 +5,6 @@ title = "20 अष्टम्यः पर्वाणि चोपवसेद
 
 <details><summary>थिते</summary>
 
-अष्टम्यः पर्वाणि चोपवसेद्वाग्यतः २०
+20. Being restrained in his speech, he should observe fast on the eighth days and joining days (in a month).  
+
 </details>

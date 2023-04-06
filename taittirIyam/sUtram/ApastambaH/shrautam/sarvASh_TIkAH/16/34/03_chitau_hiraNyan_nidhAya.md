@@ -5,5 +5,9 @@ title = "03 चितौ हिरण्यन् निधाय"
 
 <details><summary>थिते</summary>
 
-चितौ हिरण्यं निधाय चित्तिमचित्तिमिति चितिकॢप्त्याभिमृशति ३
+3. Having kept gold on the layer[^1] (the Adhvaryu) touches the layer with the Citiptikl̥pti-verse beginning with cittimacittim.[^2]   
+
+[^1]: Cf. ŚB X.1.3.7.  
+
+[^2]: TS V.5.4.4.  
 </details>

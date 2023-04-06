@@ -5,5 +5,5 @@ title = "03 कीनाशा बलीवर्दानजन्ति"
 
 <details><summary>थिते</summary>
 
-कीनाशा बलीवर्दानजन्ति ३
+3. The ploughers drive the oxen.  
 </details>

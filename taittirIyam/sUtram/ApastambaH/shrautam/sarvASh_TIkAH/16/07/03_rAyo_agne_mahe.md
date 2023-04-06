@@ -5,5 +5,8 @@ title = "03 रायो अग्ने महे"
 
 <details><summary>थिते</summary>
 
-रायो अग्ने महे त्वा दानाय समिधीमहि । ईडिष्वा हि मही वृषन्द्यावा होत्राय पृथिवीमिति यद्येकविंशतिः ३
+3. If there are twenty-one verses then the verse begining with rāyo agne mahe[^1] (is to be used as the penultimate verse).   
+
+[^1]: SV.1.93 (with variants). 
+
 </details>

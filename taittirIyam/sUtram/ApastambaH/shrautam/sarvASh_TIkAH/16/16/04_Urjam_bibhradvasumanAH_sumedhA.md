@@ -5,5 +5,9 @@ title = "04 ऊर्जम् बिभ्रद्वसुमनाः सु
 
 <details><summary>थिते</summary>
 
-ऊर्जं बिभ्रद्वसुमनाः सुमेधा गृहानैमि मनसा मोदमानः सुवर्चाः । अघोरेण चक्षुषाहं शिवेन गृहाणां पश्यन्वय उत्तिराणि । गृहाणामायुः प्र वयं तिरामो गृहा अस्माकं प्र तिरन्त्वायुः । गृहानहं सुमनसः प्रपद्येऽवीरघ्नो वीरवतः सुवीरानिति गृहानभ्येति ४
+4. (The sacrificer) comes back to his home[^1] with Urjaṁ bibhrat....[^2]  
+
+[^1]: i.e. to the place of the performance of the sacrifice. Cp. XVIII.5.15. According to Tālavr̥ntavāsin by the word “home” we have to understand “Prācīnavaṁśa".  
+
+[^2]: KS XXXVIII.13. 
 </details>

@@ -5,5 +5,5 @@ title = "09 प्राचीरुपदधाति प्रतीचीर�
 
 <details><summary>थिते</summary>
 
-प्राचीरुपदधाति प्रतीचीरुपदधातीति गणेषु रीतिवादः ९
+9. When it is said, he places the bricks towards the east, he places the bricks towards the west it refer to the bricks in groups.  
 </details>

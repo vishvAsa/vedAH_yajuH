@@ -5,5 +5,9 @@ title = "02 अपरङ् खरम् पूर्वस्मिन्खर
 
 <details><summary>थिते</summary>
 
-अपरं खरं पूर्वस्मिन्खरे न्युप्योच्छिष्टखरं सङ्कृष्योत्तरेणाहवनीयं सम्राडासन्दीं प्रतिष्ठाप्य तस्यां सर्वं परिघर्म्यं समवधायौदुम्बर्यां स्रुचि चतुर्गृहीतं गृहीत्वा घर्म या ते दिवि शुगित्येतैर्यथालिङ्गं जुहोति २
+2. Having poured down the rear mound upon the front mound, having scrapped the Ucchiṣṭa-mound,[^1] having placed the emperor's throne-seat to the north of the Āhavanīya (-fire), having put down all the Pravargya (-implements) together upon it, having taken four-times-scooped ghee in a ladle of Udumbara (-wood) with gharma yā te divi śuk...[^2] he offers the libations (of ghee) in accordance with the characteristic marks in the formula).   
+
+[^1]: So that it can be carried along afterwards (see XV.13.8).  
+
+[^2]: TĀ IV. 11.1-2.  
 </details>

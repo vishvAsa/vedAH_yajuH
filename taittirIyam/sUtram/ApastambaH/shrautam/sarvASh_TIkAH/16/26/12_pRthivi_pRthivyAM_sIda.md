@@ -5,5 +5,11 @@ title = "12 पृथिवि पृथिव्यां सीद"
 
 <details><summary>थिते</summary>
 
-पृथिवि पृथिव्यां सीद माता मातरि माता स्योना स्योनायामुखां स्वसारमधि वेदिमस्थात् । सत्यं पूर्वैरृषिभिश्चाकुपानोऽग्निः प्रविद्वानिह तद्दधात्विति वोलूखलमुपदधातीति वाजसनेयकम् १२
+12. Or (he places) it with pr̥thivī pr̥thivyām sīda...[^1] According to the view of the Vājasaneyins,[^2] he places it on the mortar.[^3]  
+
+[^1]: Cp. KS XXXIX.3; cp. MS III.7.16.  
+
+[^2]: See ŚB VII.5.1.26.  
+
+[^3]: Instead of alukhalam, it should read as ulthale.   
 </details>

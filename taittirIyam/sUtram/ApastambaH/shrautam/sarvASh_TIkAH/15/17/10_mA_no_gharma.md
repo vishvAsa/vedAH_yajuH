@@ -5,5 +5,9 @@ title = "10 मा नो घर्म"
 
 <details><summary>थिते</summary>
 
-मा नो घर्म व्यथित इत्यष्टौ घर्मे व्यथिते प्रायश्चित्तानि १०
+10. In the case of Gharma-pot being oscilitated[^1] there are eight expiations (to be performed) with mā no gharma vyathitaḥ...[^2]  
+
+[^1]: See also IX.17.  
+
+[^2]: TĀ IV.20.6-9.  
 </details>

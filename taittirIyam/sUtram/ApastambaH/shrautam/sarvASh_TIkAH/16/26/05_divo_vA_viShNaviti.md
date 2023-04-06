@@ -5,5 +5,7 @@ title = "05 दिवो वा विष्णविति"
 
 <details><summary>थिते</summary>
 
-दिवो वा विष्णविति शूर्पम् ५
+5. With divo vā viṣṇo...[^1] he places the winnowing basket.  
+
+[^1]: TS I.2.15.h.  
 </details>

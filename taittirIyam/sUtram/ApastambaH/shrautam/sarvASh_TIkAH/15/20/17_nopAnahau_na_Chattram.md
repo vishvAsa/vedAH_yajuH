@@ -5,5 +5,6 @@ title = "17 नोपानहौ न छत्त्रम्"
 
 <details><summary>थिते</summary>
 
-नोपानहौ न छत्त्रम् १७
+17. He should not hold either shoes or unbrella. 
+
 </details>

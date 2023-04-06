@@ -5,5 +5,8 @@ title = "12 यदि घर्मेण चरत्स्वादित्य
 
 <details><summary>थिते</summary>
 
-यदि घर्मेण चरत्स्वादित्योऽस्तमियादपरस्यां द्वारि दर्भेण हिरण्यं प्रबध्योद्वयं तमसस्परीत्युपस्थायोदु त्यं चित्रमिति द्वाभ्यां गार्हपत्ये हुत्वा प्रवृज्य श्वो भूते वयः सुपर्णा इत्यादित्यमुपतिष्ठन्ते १२
+12. While they are performing (the ritual) with the Gharma-pot, if the sun sets, having tied a piece of gold to the western door by means of Darbha (-blade), having stood there while praising (the sun) with udvayaṁ tamasaspari...,[^1] having offered libations (of ghee ) in the Gārhapatya-fire with two verses beginning with udu tyaṁ[^2] and citram,[^3] having performed the Pravargya-ritual, they stand while praising the sun with vayaḥ suparṇā...,[^4] on the next day.  
+
+[^1-4]: TĀ IV.20.10.  
+
 </details>

@@ -5,5 +5,9 @@ title = "02 प्रबाहुगिष्टकायां हिरण्�
 
 <details><summary>थिते</summary>
 
-प्रबाहुगिष्टकायां हिरण्यशकलावध्यूह्य यास्ते अग्ने सूर्ये रुच इति द्वाभ्यां वामभृतम् २
+2. Having kept two golden pieces to the left and right on the brick[^1], he places the Vāmabhr̥t (holder of wealth) brick with two verses beginning with yāste agne sūrye rucaḥ[^2].  
+
+[^1]: Cp. KSXX.6.  
+
+[^2]: TS IV.2.9.n-o.  
 </details>

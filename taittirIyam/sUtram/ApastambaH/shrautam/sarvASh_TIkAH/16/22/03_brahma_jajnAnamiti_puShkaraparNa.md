@@ -5,5 +5,21 @@ title = "03 ब्रह्म जज्ञानमिति पुष्कर
 
 <details><summary>थिते</summary>
 
-ब्रह्म जज्ञानमिति पुष्करपर्ण उपरिष्टान्निर्बाधं रुक्ममुपधाय हिरण्यगर्भः समवर्तताग्र इति तस्मिन्हिरण्मयं पुरुषं प्राचीनमुत्तानं दक्षिणेनातृणं प्राङ्मुख उपधाय पुरुषसाम गायेति सम्प्रेष्यति ३
+3. Having kept, with brahma jajñānam...[^1] the gold plate[^2] with its knobs upwards[^3] on the lotus leaf[^4] then with his face to the east, having kept with hiraṇyagarbhaḥ samavartatāgre...[^5] the golden man with his face to the east[^6] on his back[^7], to the south of the opening[^8] (of the gold plate) he orders, “Do you sing the Puruṣa-Sāman”.  
+
+[^1]: TS IV.2.8.d.  
+
+[^2]: See XVI.10.9.  
+
+[^3]: Cf. KS XX.5.  
+
+[^4]: Cf. ŚB VII.4.1.10.  
+
+[^5]: TS IV.2.8.e.  
+
+[^6]: Cf. TS V.2.7.2.  
+
+[^7]: Cf. ŚB VII.4.1.18.  
+
+[^8]: Cf. TS V.2.7.2.   
 </details>

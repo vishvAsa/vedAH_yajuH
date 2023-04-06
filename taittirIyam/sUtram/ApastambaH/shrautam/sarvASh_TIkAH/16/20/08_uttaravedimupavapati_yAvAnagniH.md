@@ -5,5 +5,7 @@ title = "08 उत्तरवेदिमुपवपति यावानग�
 
 <details><summary>थिते</summary>
 
-उत्तरवेदिमुपवपति यावानग्निः ८
+8. He prepares[^1] the Uttaravedi as big as (The place) measured out for the fire-altar-building.   
+
+[^1]: After having performed the ritual mentioned in VII.3.10-14.   
 </details>

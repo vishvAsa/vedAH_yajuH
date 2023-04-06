@@ -5,5 +5,6 @@ title = "13 न नक्तम् भुञ्जीत"
 
 <details><summary>थिते</summary>
 
-न नक्तं भुञ्जीत १३
+13. He should not eat at the time of right. 
+
 </details>

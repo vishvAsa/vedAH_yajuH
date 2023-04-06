@@ -5,5 +5,8 @@ title = "05 यदि घर्मधुक्क्रिमिणा स्य
 
 <details><summary>थिते</summary>
 
-यदि घर्मधुक्क्रिमिणा स्यादत्रिणा त्वा क्रिमे हन्मीत्यनुवाकेनास्याः क्रिमीन्हन्यात् ५
+5. If the Gharma-cow gets worms, he should kill her worms with the section beginning with atriṇā tvā krime hanmi[^1].  
+
+[^1]: TĀ IV.36.  
+
 </details>

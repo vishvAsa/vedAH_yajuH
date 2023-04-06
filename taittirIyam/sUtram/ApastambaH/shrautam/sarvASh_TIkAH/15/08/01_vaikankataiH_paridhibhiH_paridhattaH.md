@@ -5,5 +5,7 @@ title = "01 वैकङ्कतैः परिधिभिः परिधत
 
 <details><summary>थिते</summary>
 
-वैकङ्कतैः परिधिभिः परिधत्तः १
+1. (the Adhvaryu and the Pratiprasthātr̥) enclose (the Mahāvīra) with the enclosing sticks of Vikaṅkata (wood).[^1]   
+
+[^1]: See XV.5.11.  
 </details>
