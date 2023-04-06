@@ -5,5 +5,7 @@ title = "04 देवस्य त्वा सवितुः"
 
 <details><summary>थिते</summary>
 
-देवस्य त्वा सवितुः प्रसवेऽश्विनोर्बाहुभ्यां पूष्णो हस्ताभ्यां गायत्रेण च्छन्दसा रात्रिमिष्टकामुपदधे तया देवतयाङ्गिरस्वद्ध्रुवा सीदेति सायं समिधमादधाति ४
+4. With devasya tvā...[^1] he puts a fuel-stick in the fire (in the pan) at the evening.  
+
+[^1]: KS XXXVIII.12. 
 </details>

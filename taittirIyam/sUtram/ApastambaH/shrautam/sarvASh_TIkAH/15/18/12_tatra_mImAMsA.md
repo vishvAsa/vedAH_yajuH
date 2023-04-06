@@ -5,5 +5,6 @@ title = "12 तत्र मीमांसा"
 
 <details><summary>थिते</summary>
 
-तत्र मीमांसा १२
+12. The thinking in that respect (is as follows):  
+
 </details>

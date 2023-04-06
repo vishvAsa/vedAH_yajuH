@@ -5,5 +5,9 @@ title = "02 अग्ने जातान्प्र णुदा"
 
 <details><summary>थिते</summary>
 
-अग्ने जातान्प्र णुदा नः सपत्नानिति पुरस्तादुपदधाति । सहसा जातानिति पश्चात् । चतुश्चत्वारिंश स्तोम इति दक्षिणतः । षोडश स्तोम इत्युत्तरतः २
+2. With agne jātān pra ṇudā sapatnān[^1] (he places) an Asapatna (Enemyless-brick) in the east; sahasā jātān... in the west; catuścatvārimśa stomaḥ in the south; ṣoḍaśa stomaḥ in the north.   
+
+[^1]: For the formulae see IV.3.12.a-d.  
+
+[^2]: Cf. TS V.3.5.1-2.  
 </details>

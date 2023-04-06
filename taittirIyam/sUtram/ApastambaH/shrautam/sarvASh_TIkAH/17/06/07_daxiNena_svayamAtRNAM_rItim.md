@@ -5,5 +5,6 @@ title = "07 दक्षिणेन स्वयमातृणां रीत
 
 <details><summary>थिते</summary>
 
-दक्षिणेन स्वयमातृणां रीतिं प्रतिपादयति ७
+7. He brings the line up to the south of the naturally per forated (stone).  
+
 </details>

@@ -5,5 +5,7 @@ title = "07 शुक्रा स्थ वीर्यावतीरिन्
 
 <details><summary>थिते</summary>
 
-शुक्रा स्थ वीर्यावतीरिन्द्रस्य व इन्द्रियावतो देवताभिर्गृह्णामि ७
+7. (The formulae beginning with) śukrā stha[^1] 
+
+[^1]: KS XXXIX.1.  
 </details>

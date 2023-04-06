@@ -5,5 +5,11 @@ title = "03 माषानुपन्युप्यायं योऽसि 
 
 <details><summary>थिते</summary>
 
-माषानुपन्युप्यायं योऽसि यस्य त इदं शिर इति पुरुषशिरः प्रच्छिद्यैतेन त्वमत्र शीर्षण्वानेधीति सप्तधा वितृणां वल्मीकवपां शिरसः स्थाने प्रतिनिदधाति ३
+3. Having thrown the beans hear (the bodies)[^1], having cut head of man with ayam yo'si...[^2] he keeps[^3] a fossilized ant hill with seven perforations, on the place of the head.   
+
+[^1]: Cf. KS XX.8.   
+
+[^2]: KS XXXVIII.12.  
+
+[^3]: Cf. TS. V. 1.8.1.  
 </details>

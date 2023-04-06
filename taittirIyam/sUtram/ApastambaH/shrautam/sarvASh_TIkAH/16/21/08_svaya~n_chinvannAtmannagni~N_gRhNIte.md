@@ -5,5 +5,5 @@ title = "08 स्वयञ् चिन्वन्नात्मन्नग�
 
 <details><summary>थिते</summary>
 
-स्वयं चिन्वन्नात्मन्नग्निं गृह्णीते न स्वयञ्चित्याभिमृशति ८
+8. The sacrificer himself building mystically takes fire in himself but does not touch the Uttaravedi with the verse called Svayaṁciti.  
 </details>

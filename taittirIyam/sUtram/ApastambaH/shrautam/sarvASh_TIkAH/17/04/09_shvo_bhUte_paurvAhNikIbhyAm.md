@@ -5,5 +5,8 @@ title = "09 श्वो भूते पौर्वाह्णिकीभ्
 
 <details><summary>थिते</summary>
 
-श्वो भूते पौर्वाह्णिकीभ्यां प्रचर्य पञ्चम्याश्चितेः शेषं याज्ञसेनीं चितिं चिनोति ९
+9. On the next day after having performed the (Pravargya and Upasad-rites) of the morning, he builds the Yajñaseni-layer[^1] as a part of the fifth layer.   
+
+[^1]: The brick mentioned in the next Sūtra is called “Yājñaseni citi” because it was taught by Yajñasena to the son of Citriya. The work of building the fifth layer requires two days (see XVI.35.9).  
+
 </details>

@@ -5,5 +5,13 @@ title = "05 निवेशनः सङ्गमनो वसूनामित
 
 <details><summary>थिते</summary>
 
-निवेशनः सङ्गमनो वसूनामित्याहवनीयं गार्हपत्यं वोपतिष्ठन्ते ५
+5. With niveśanaḥ saṁgamano vasūnām...[^1] they[^2] stand near the Āhavanīya[^3] or Gārhapatya[^4] while praising it.  
+
+[^1]: TS IV.2.5.m.  
+
+[^2]: i.e. The Adharvyu, the sacrificer and the Brahman.   
+
+[^3]: Cf. KS XX.2.   
+
+[^4]: Cf. TS V.2.4.4.  
 </details>

@@ -5,5 +5,5 @@ title = "06 भूर्भुवः सुवरिति सर्वप्र
 
 <details><summary>थिते</summary>
 
-भूर्भुवः सुवरिति सर्वप्रायश्चित्तानि ६
+6. (The sacred utterances) bhūḥ, bhuvaḥ and svāḥ are useful for all the expiations. 
 </details>

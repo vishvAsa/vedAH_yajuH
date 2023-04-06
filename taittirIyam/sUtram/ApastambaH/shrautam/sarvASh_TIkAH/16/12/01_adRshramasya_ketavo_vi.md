@@ -5,5 +5,9 @@ title = "01 अदृश्रमस्य केतवो वि"
 
 <details><summary>थिते</summary>
 
-अदृश्रमस्य केतवो वि रश्मयो जनाँ अनु । भ्राजन्तो अग्नयो यथा । तरणिर्विश्वदर्शत इत्येषा । दिवो रुक्म उरुचक्षा उदेति दूरे अर्थस्तरणिर्भ्राजमानः । नूनं जनाः सूर्येण प्रसूता आयन्नर्थानि कृणवन्नपांसीति १
+1. If he desires that it should not rain, he should put three fuel-sticks in the fire in the pan with those three verses which are addressed to Sūrya which contain the word bhrājas[^1] and begin with adr̥śramasya ketavaḥ.[^2]   
+[^1]: Cf. KSXXII.12   
+
+[^2]: KS XXII.12. 
+
 </details>

@@ -5,5 +5,9 @@ title = "17 स्योना पृथिवि भवानृक्षरा
 
 <details><summary>थिते</summary>
 
-स्योना पृथिवि भवानृक्षरा निवेशनी । यच्छा नः शर्म सप्रथा । बडित्था पर्वतानामित्येताभ्यां विमितमग्निमाक्रमन्ते १७
+17. With two verses beginning with syonā prthivī[^1] and baḍitthā parvatānām[^2] they step upon the measured out (site of the) fire-altar-building.   
+
+[^1]: KS XXXVIII.13.  
+
+[^2]: TS II.2.2.1.  
 </details>

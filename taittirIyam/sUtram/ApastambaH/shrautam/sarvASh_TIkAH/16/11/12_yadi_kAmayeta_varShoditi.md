@@ -5,5 +5,8 @@ title = "12 यदि कामयेत वर्षोदिति"
 
 <details><summary>थिते</summary>
 
-यदि कामयेत वर्षोदिति याः सौरी रश्मिवतीस्ताभिस्तिसृभिस्तिस्रः समिध आदध्यात् । सूर्यो अपो वि गाहते रश्मिभिर्वाजसातमः । बोधा स्तोत्रे वयोवृधः । परि यो रश्मिना दिवोऽन्तान्ममे पृथिव्याः । उभे आ पप्रौ रोदसी महित्वा । वहिष्ठेभिर्विहरन्यासि तन्तुमवव्ययन्नसितं देव वस्वः । दविध्वतो रश्मयः सूर्यस्य चर्मेवावाधुस्तमो अप्स्वन्तरिति १२
+12. If he desires that it should rain, he should put those three fuel-sticks (in the fire in the pan)[^1] with those three verses which are addressed to Sūrya, which contain the word raśmi (ray) and begin with sūryo apo vi gāhate.  
+
+[^1]: Cf. KS XXII.12.  
+
 </details>

@@ -5,5 +5,5 @@ title = "11 आत्मा चतुःपुरुषः"
 
 <details><summary>थिते</summary>
 
-आत्मा चतुःपुरुषः ११
+11. The trunk should be four men in size. 
 </details>

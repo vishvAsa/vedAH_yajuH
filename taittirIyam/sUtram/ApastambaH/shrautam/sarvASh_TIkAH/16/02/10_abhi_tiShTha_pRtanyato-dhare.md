@@ -5,5 +5,7 @@ title = "10 अभि तिष्ठ पृतन्यतोऽधरे"
 
 <details><summary>थिते</summary>
 
-अभि तिष्ठ पृतन्यतोऽधरे सन्तु शत्रवः । इन्द्र इव वृत्रहा तिष्ठापः क्षेत्राणि सञ्जयन् । अभिष्ठितोऽसीति यं द्वेष्टि तमधस्पदमश्वस्य मनसा ध्यायति १०
+10. With abhi tiṣṭha pr̥tanyataḥ..[^1] he thinks about him whom he hates, to be under the foot of the horse.  
+
+[^1]: TB II.4.2.9. For this Sūtra cp. TS V.1.2.c; MS III.1.4.  
 </details>

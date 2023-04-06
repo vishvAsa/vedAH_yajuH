@@ -5,5 +5,6 @@ title = "10 अपि वा गोष्ठस्यैव"
 
 <details><summary>थिते</summary>
 
-अपि वा गोष्ठस्यैव दक्षिणां द्वार्बाहुमेतेनैव विचालयेत् १०
+10. Or he should shake the southern post of the door of the cow-stall with the same section.  
+
 </details>

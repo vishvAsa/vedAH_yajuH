@@ -5,5 +5,7 @@ title = "01 यदि घर्मधुग्दोहकाले नागच
 
 <details><summary>थिते</summary>
 
-यदि घर्मधुग्दोहकाले नागच्छेदन्यां दुग्ध्वा प्रवृज्य तां सुत्यायां ब्राह्मणाय दद्याद्यमनभ्यागमिष्यन्स्यात् १
+1. If the cow yielding milk for the Gharma, does not come at the time of milking,[^1] (the Adhvaryu) should milk another cow, and perform the Pravargya-ritual, (and the sacrificer) should give that cow to a Brāhmaṇa, whom he is not going to visit in the future.  
+
+[^1]: See XV.4.4.  
 </details>

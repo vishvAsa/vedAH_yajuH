@@ -5,5 +5,9 @@ title = "04 तान्व्यत्यस्तानुपरि रुक�
 
 <details><summary>थिते</summary>
 
-तान्व्यत्यस्तानुपरि रुक्मे निदधात्यर्चिरसि शोचिरसि ज्योतिरसि तपो ऽसीति ४
+4. He keeps down those (Muñja-cuttings) upon the plate inversely[^1] with arcirasi śocirasi...[^2]   
+
+[^1]: Thus some pointing to the east and some pointing to the west.  
+
+[^2]: TĀ IV.5.6.   
 </details>

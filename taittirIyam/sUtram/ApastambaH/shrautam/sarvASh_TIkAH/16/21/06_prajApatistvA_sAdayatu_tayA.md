@@ -5,5 +5,11 @@ title = "06 प्रजापतिस्त्वा सादयतु तय
 
 <details><summary>थिते</summary>
 
-प्रजापतिस्त्वा सादयतु तया देवतयाङ्गिरस्वद्ध्रुवा सीदेत्युत्तरवेदिमभिमृश्य मयि गृह्णाम्यग्रे अग्निं यो नो अग्निः पितर इति द्वाभ्यामात्मन्नग्निं गृहीत्वा यास्ते अग्ने समिध इति स्वयञ्चित्याभिमृशति ६
+6. Having touched the Uttaravedi with prajāpatistvā sādayatu....[^1] then having mystically taken the fire in himself with two verses beginning with mayi gr̥hṇāmyagre....[^2] he touches the Uttaravedi with the verse called Svayaṁciti (self-building) beginning with yāste agne samidhaḥ[^3].  
+
+[^1]: TS V.5.2.4.  
+
+[^2]: TS V.7.9.a-b. 
+
+[^3]: TS V.7.8.a.  
 </details>

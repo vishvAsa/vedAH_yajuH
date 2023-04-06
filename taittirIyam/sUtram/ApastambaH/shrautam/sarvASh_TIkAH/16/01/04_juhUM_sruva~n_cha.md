@@ -5,5 +5,7 @@ title = "04 जुहूं स्रुवञ् च"
 
 <details><summary>थिते</summary>
 
-जुहूं स्रुवं च सम्मृज्य जुह्वामष्टगृहीतं गृहीत्वा युञ्जानः प्रथमं मन इति यजुरष्टमाभिरृग्भिरेकामाहुतिं जुहोत्यन्तर्वेद्यूर्ध्वस्तिष्ठन् ४
+4. Having cleared the Juhū (ladle) and Sruva (spoon) having taken eight-times scooped ghee in the Juhū, standing erect inside the altar, he offers a single libation with seven verses beginning with yuñjānaḥ prathamaṁ manaḥ having a Yajus formula in the eighth place.[^1]   
+
+[^1]: For the verse and the formula see TS IV.1.1.a-h. For the ritual cf. KS XVIII.19; cp. MS III.1.1; TS V.1.1.1; ŚB VI.3.1.8.  
 </details>

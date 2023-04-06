@@ -5,5 +5,5 @@ title = "14 अधीत्य चोत्तमेन"
 
 <details><summary>थिते</summary>
 
-अधीत्य चोत्तमेन १४
+14. And after having studied (every day one should perform the pacification) by means of the last (section). 
 </details>

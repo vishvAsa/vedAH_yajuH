@@ -3,7 +3,13 @@ title = "09 तपो ष्वग्ने अन्तराँ"
 
 +++
 
-<details><summary>थिते</summary>
+<details><summary>थिते</summary> 
 
-तपो ष्वग्ने अन्तराँ अमित्रानिति गार्हपत्यादुदीचोऽङ्गारान्निरूह्य चितः स्थ परिचित इति प्रदक्षिणमङ्गारैः पर्यूह्य ९
+8. With tapo ṣvagne antarān amitrān...[^1] having taken out embers from the Gārhapatya to the north, with citaḥ stha paricitaḥ[^2] having surounded the Mahāvīra by the right with (these) embers,[^3]   
+
+[^1]: TĀ IV.5.11   
+
+[^2]: TĀ IV.5.12.   
+
+[^3]: The sentence is incomplete. See the next Sūtra.  
 </details>

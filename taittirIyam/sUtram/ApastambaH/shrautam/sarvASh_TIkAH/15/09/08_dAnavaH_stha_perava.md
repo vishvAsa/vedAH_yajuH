@@ -5,5 +5,13 @@ title = "08 दानवः स्थ पेरव"
 
 <details><summary>थिते</summary>
 
-दानवः स्थ पेरव इति स्तनान्सम्मृश्याश्विभ्यां पिन्वस्व सरस्वत्यै पिन्वस्व पूष्णे पिन्वस्व बृहस्पतये पिन्वस्वेन्द्राय पिन्वस्वेन्द्राय पिन्वस्वेति वर्षीयसि दोग्ध्रे दोग्धि ८
+8. With dānavaḥ stha peravaḥ[^1] having touched the udders (of the cow) all together,[^2] with aśvibhyāṁ pinvasva...[^3] he milks (the cow) into the bigger milking pot.[^4]  
+
+[^1]: TĀ IV.8.11.  
+
+[^2]: See TĀ V.7.11.  
+
+[^3]: TĀ IV.8.12.  
+
+[^4]: See XV.3.11. 
 </details>

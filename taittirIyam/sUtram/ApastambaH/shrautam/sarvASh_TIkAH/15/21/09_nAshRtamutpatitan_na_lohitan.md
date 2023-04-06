@@ -5,5 +5,6 @@ title = "09 नाशृतमुत्पतितन् न लोहितन
 
 <details><summary>थिते</summary>
 
-नाशृतमुत्पतितं न लोहितं दृष्ट्वा । न हर्म्याणि न शरीराणि न शवं नापपात्रम् ९
+9. (One should) not (study) after uncooked (flesh) falls upon one, (or) having seen blood; (or) when one has seen palaces, limbs, on corpse, or something fallen.  
+
 </details>

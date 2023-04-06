@@ -5,5 +5,6 @@ title = "05 नानुत्सृष्टाध्यायोऽधीय�
 
 <details><summary>थिते</summary>
 
-नानुत्सृष्टाध्यायोऽधीयीत ५
+5. After having completed one's study (in manner of completion) one should not study.  
+
 </details>

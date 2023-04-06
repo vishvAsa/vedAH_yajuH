@@ -5,5 +5,8 @@ title = "03 रोहितेषु त्वा जीमूतेषु"
 
 <details><summary>थिते</summary>
 
-रोहितेषु त्वा जीमूतेषु सादयाम्यरुणेषु त्वा कृष्णेषु त्वा नीलेषु त्वा सितेषु त्वा जीमूतेषु सादयामीति पञ्च जीमूताः ३
+3. With rohiteṣu tvā jīmūteṣu...[^1] (he places the five Jīmūta (Cloud-bricks).   
+
+[^1]: KS XL.4.  
+
 </details>

@@ -5,5 +5,5 @@ title = "07 इष्टकाभिरग्निञ् चिनोत्य�
 
 <details><summary>थिते</summary>
 
-इष्टकाभिरग्निं चिनोत्यध्वर्युर्यजमानो वा ७
+7. Either the Adhvaryu or the sacrificer builds the fire altar building by means of the bricks.  
 </details>

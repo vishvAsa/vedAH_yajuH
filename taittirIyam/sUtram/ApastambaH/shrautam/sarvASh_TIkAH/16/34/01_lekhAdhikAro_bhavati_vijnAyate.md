@@ -5,5 +5,5 @@ title = "01 लेखाधिकारो भवति विज्ञायत
 
 <details><summary>थिते</summary>
 
-लेखाधिकारो भवति विज्ञायते च १
+1.  means that there should be lines (on the bricks and through these lines those forms are made).  
 </details>

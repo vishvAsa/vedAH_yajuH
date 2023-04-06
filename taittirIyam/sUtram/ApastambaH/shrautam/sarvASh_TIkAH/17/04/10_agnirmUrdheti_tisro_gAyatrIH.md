@@ -5,5 +5,9 @@ title = "10 अग्निर्मूर्धेति तिस्रो ग
 
 <details><summary>थिते</summary>
 
-अग्निर्मूर्धेति तिस्रो गायत्रीः पुरस्तादुपदधाति । एवमुत्तराणि त्रीणित्रीणि । त्रिष्टुभो दक्षिणतः । जगतीः पश्चात् । अनुष्टुभ उत्तरतः । बृहतीरुष्णिहाः पङ्क्तीरक्षरपङ्क्तीरिति विषुरूपाणि छन्दांसि यथावकाशम् । अतिच्छन्दसं मध्ये । द्विपदा अन्ततः १०
+10. With agnir mūrdhā...[^1] he places the three Gāyatris to the east (of the naturally perforated stone)[^2]; in the same manner each of the three next (bricks): Thus the Triṣṭubhs to the South; the Jagatīs to the west; the Anuṣṭubhs to the North; the bricks connected with metres of different forms viz. Br̥hatī Uṣṇnih, Paṅkti, Akṣarapaṇkti, in accordance with the available space; the Dvipadās at the end.  
+
+[^1]: TS IV.4.4.ac.  
+
+[^2]: Cf TS V.3.8.1.  
 </details>

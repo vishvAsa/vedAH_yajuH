@@ -5,5 +5,7 @@ title = "05 सूर्यस्य तपस्तपेत्यूष्म�
 
 <details><summary>थिते</summary>
 
-सूर्यस्य तपस्तपेत्यूष्माणम् ५
+5. He addresses the vapor (of the milk of she-goat) with sūryasya tapastapa.[^1]   
+
+[^1]: TĀ IV.8.18. 
 </details>

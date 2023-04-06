@@ -5,5 +5,11 @@ title = "07 तासु पुरीषमध्यूह्यायम् प
 
 <details><summary>थिते</summary>
 
-तासु पुरीषमध्यूह्यायं पुरो हरिकेश इति पञ्चचोडा अभ्युपदधाति । द्वेष्यं मनसा ध्यायन्पश्चात्प्राचीमुत्तमाम् ७
+7. Having kept loose soil,[^1] with ayaṁ puro harikeśaḥ[^2] he places the PañcacoḌā (Five-chignoned) (bricks while meditating on the enemy; (he places) the last one in the west with its face to the easts.   
+
+[^1]: Cf. ŚB VIII.6.1.22.   
+
+[^2]: TS IV.4.3.a-e.  
+
+[^3]: Cf. TS V. 3.7.2-3.  
 </details>

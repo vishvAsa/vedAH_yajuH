@@ -5,5 +5,7 @@ title = "04 ये वनस्पतीनाम् फलग्रहयस्
 
 <details><summary>थिते</summary>
 
-ये वनस्पतीनां फलग्रहयस्तानिध्म उपसन्नह्य प्रोक्षेत् ४
+4. Having tied the (wood) of the trees which bear fruits, to the fuel, he sprinkles (water on it)[^1].  
+
+[^1]: Cp. TS V.2.5.6.  
 </details>

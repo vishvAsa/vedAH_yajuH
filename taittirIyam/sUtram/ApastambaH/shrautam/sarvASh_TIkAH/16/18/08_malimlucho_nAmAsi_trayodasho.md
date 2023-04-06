@@ -5,5 +5,7 @@ title = "08 मलिम्लुचो नामासि त्रयोदश
 
 <details><summary>थिते</summary>
 
-मलिम्लुचो नामासि त्रयोदशो मास इन्द्रस्य वर्मासीन्द्रस्य शर्मासीन्द्रस्य वरूथमसि तं त्वा प्रपद्ये ८
+8. With malimluco nāmāsi...[^1]  
+
+[61]: Cp. KS XXXVIII.14. The Sūtra continues in the next section.  
 </details>

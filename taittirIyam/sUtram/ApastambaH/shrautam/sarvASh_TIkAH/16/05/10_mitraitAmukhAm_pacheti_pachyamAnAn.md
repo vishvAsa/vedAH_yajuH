@@ -5,5 +5,12 @@ title = "10 मित्रैतामुखाम् पचेति पच्
 
 <details><summary>थिते</summary>
 
-मित्रैतामुखां पचेति पच्यमानां तिसृभिर्मैत्रीभिरुपचरति १०
+10. He serves[^1] the (fire-pan) being baked with three verses addressed to Mitra[^2] beginning with mitraitāmukhām.[^3]   
+
+[^1]: Cf. ŚB VI.5.4.10; cp. XV.3.4.  
+
+[^2]: TS V.1.7.3 mentions the word maitryā in singular.  
+
+[^3]: TS IV.1.6.e-h.  
+
 </details>

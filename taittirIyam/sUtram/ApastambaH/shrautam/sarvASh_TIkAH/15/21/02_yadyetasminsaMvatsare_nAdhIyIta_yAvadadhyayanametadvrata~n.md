@@ -5,5 +5,6 @@ title = "02 यद्येतस्मिन्संवत्सरे ना�
 
 <details><summary>थिते</summary>
 
-यद्येतस्मिन्संवत्सरे नाधीयीत यावदध्ययनमेतद्व्रतं चरेत् २
+2. If one does not study (the Pravargya-ritual) during this year, one should observe it as long as one (continues one's study).   
+
 </details>

@@ -5,5 +5,7 @@ title = "01 अग्ने गोभिर्न आ"
 
 <details><summary>थिते</summary>
 
-अग्ने गोभिर्न आ गहीत्यनुवाकेन प्रतिमन्त्रं पुनःपुनरभ्यासम् १
+1. (The Adhvaryu) places them each one with a formula from the section beginning with agne gobhir na ā gahi[^1] repeating (the formulae) again and again (upto one thousandth brick).   
+
+[^1]: TS II.4.5.  
 </details>

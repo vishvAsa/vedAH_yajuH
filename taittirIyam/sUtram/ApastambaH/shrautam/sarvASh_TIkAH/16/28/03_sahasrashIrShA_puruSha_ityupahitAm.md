@@ -5,5 +5,7 @@ title = "03 सहस्रशीर्षा पुरुष इत्युप
 
 <details><summary>थिते</summary>
 
-सहस्रशीर्षा पुरुष इत्युपहितां पुरुषेण नारायणेन यजमान उपतिष्ठते ३
+3. The sacrificer stands near the laid (human figure) with the Puruṣa Nārāyaṇa (section of formulae) beginning with sahasraśīrṣā puruṣaḥ.[^1]  
+
+[^1]: TĀ III.12.  
 </details>

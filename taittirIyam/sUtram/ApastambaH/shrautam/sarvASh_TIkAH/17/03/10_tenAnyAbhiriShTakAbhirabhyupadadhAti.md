@@ -5,5 +5,8 @@ title = "10 तेनान्याभिरिष्टकाभिरभ्�
 
 <details><summary>थिते</summary>
 
-तेनान्याभिरिष्टकाभिरभ्युपदधाति १०
+10. He does not place any other bricks on these two.[^1]   
+
+[^1]: Cf. TS V.3.7.3. The Garbe's text should be corrected as te nānyābhiriṣṭakābhirabhyupadadhati.  
+
 </details>

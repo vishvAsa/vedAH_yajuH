@@ -5,5 +5,5 @@ title = "14 घर्मेष्टकामुपधाय कुलायि�
 
 <details><summary>थिते</summary>
 
-घर्मेष्टकामुपधाय कुलायिनीम् १४
+14. After having placed the Gharma (Heat) (brick) het places the Kulāyinī (Nest-type) (brick).  
 </details>

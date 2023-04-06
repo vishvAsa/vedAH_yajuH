@@ -5,5 +5,5 @@ title = "07 गार्हपत्याद्धूपनपचने भव�
 
 <details><summary>थिते</summary>
 
-गार्हपत्याद्धूपनपचने भवतः ७
+7. The fumigation and baking take place on the fire taken from the Gārhapatya.  
 </details>

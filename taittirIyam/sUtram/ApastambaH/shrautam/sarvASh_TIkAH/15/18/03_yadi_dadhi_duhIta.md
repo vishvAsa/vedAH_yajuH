@@ -5,5 +5,5 @@ title = "03 यदि दधि दुहीत"
 
 <details><summary>थिते</summary>
 
-यदि दधि दुहीत बार्हस्पत्यं शंसेत् ३
+3. If the cow yields curds, he should recite a hymn addressed to Br̥haspati.  
 </details>

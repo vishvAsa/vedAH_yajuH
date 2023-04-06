@@ -5,5 +5,7 @@ title = "14 ज्योतिरसि ज्योतिर्मे यच्
 
 <details><summary>थिते</summary>
 
-ज्योतिरसि ज्योतिर्मे यच्छेति हिरण्येष्टकाम् १४
+14. With jyotirasi jyotirme yaccha (he places) the golden brick.  
+
+[^1]: Cp. XVI.23.8 and the notes on it.   
 </details>

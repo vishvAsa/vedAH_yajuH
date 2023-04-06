@@ -5,5 +5,7 @@ title = "10 अत्रैतद्वासो गुरवे दत्त्
 
 <details><summary>थिते</summary>
 
-अत्रैतद्वासो गुरवे दत्त्वा वयः सुपर्णा इत्यादित्यमुपतिष्ठते १०
+10. Having given that garment to the teacher, (the student) stands praising the sun with vayaḥ suparnā...[^1]   
+
+[^1]: TĀ IV.20. 10. 
 </details>

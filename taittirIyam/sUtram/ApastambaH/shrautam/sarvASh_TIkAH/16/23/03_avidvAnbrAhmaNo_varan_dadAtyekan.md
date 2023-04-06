@@ -5,5 +5,7 @@ title = "03 अविद्वान्ब्राह्मणो वरन् 
 
 <details><summary>थिते</summary>
 
-अविद्वान्ब्राह्मणो वरं ददात्येकं द्वौ त्रीन्वा ३
+3. The ignorant Brahmin gives one or two or three boons (gifts) (chosen by the Adhvaryu) (out of the possessions of the sacrificer to the Adhvaryu)[^1].  
+
+[^1]: Cf. TS V.2.8.2.  
 </details>

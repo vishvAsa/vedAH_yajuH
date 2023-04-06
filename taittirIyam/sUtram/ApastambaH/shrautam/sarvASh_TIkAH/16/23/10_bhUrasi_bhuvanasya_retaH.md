@@ -5,5 +5,7 @@ title = "10 भूरसि भुवनस्य रेतः"
 
 <details><summary>थिते</summary>
 
-भूरसि भुवनस्य रेतः । इष्टका स्वर्गो लोकः । वाचा त्वान्वारोहामि । अग्निर्ज्योतिर्ज्योतिरग्निः । तया देवतयाङ्गिरस्वद्ध्रुवा सीद । सूरसि सुवनस्य रेतः । इष्टका स्वर्गो लोकः । मनसा त्वान्वारोहामि । सूर्यो ज्योतिर्ज्योतिः सूर्यः । तया देवतयाङ्गिरस्वद्ध्रुवा सीदेत्यन्वारोहे द्वे १०
+10. With the two formulae beginning with bhūrasi bhuvanasya retaḥ sūrasi suvanasya retaḥ[^1] he places the two Anvāroha bricks.   
+
+[^1]: For the formulae see and cp. MS III.7.16; KS XXXIX.3. 
 </details>

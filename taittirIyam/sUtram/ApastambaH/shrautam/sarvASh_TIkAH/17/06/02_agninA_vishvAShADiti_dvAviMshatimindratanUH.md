@@ -5,5 +5,9 @@ title = "02 अग्निना विश्वाषाडिति द्व
 
 <details><summary>थिते</summary>
 
-अग्निना विश्वाषाडिति द्वाविंशतिमिन्द्रतनूः २
+2. With agninā viśvāṣāṭ...[^1] (he places) the twenty-two Indratanū (Indra's forms) (bricks).[^2]  
+
+[^1]: TS IV.4.3.  
+
+[^2]: Cf. TS V.4.1.1. 
 </details>

@@ -5,5 +5,7 @@ title = "02 स्वाहा त्वा सूर्यस्य"
 
 <details><summary>थिते</summary>
 
-स्वाहा त्वा सूर्यस्य रश्मये वृष्टिवनये जुहोमीत्युद्यन्तमूष्माणमनुमन्त्रयते २
+2. With svāhā tvā sūryasya raśmaye...[^1] he addresses the vapor rising (from it).  
+
+[^1]: TĀ IV.8.16. 
 </details>

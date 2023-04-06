@@ -5,5 +5,7 @@ title = "05 उत्तमेनानुवाकेन शान्तिङ�
 
 <details><summary>थिते</summary>
 
-उत्तमेनानुवाकेन शान्तिं कृत्वा ततः सम्मीलयति वाचं च यच्छति ५
+5. Having performed the pacification by means of the last section,[^1] he closes his eyes, and restrains his speech.  
+
+[^1]: TĀ XV.12.3.  
 </details>

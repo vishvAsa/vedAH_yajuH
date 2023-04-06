@@ -5,5 +5,7 @@ title = "03 यद्युपरिष्टात्परिषिञ्च�
 
 <details><summary>थिते</summary>
 
-यद्युपरिष्टात्परिषिञ्चेत्तत्र वार्षाहरं चोदयेत् ३
+3. If one is going to sprinkle (water) afterwards, then he should order for singing of the Vārṣāhara-sāman at that stage (only).[^1]   
+
+[^1]: See XV.16.8. 
 </details>

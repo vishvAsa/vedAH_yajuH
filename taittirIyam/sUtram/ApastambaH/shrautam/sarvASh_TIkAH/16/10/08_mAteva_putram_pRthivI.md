@@ -5,5 +5,9 @@ title = "08 मातेव पुत्रम् पृथिवी"
 
 <details><summary>थिते</summary>
 
-मातेव पुत्रं पृथिवी पुरीष्यमग्निं स्वे योनौ भरिष्यत्बुखा । तां विश्वैर्देवैरृतुभिः संविदानः प्रजापतिर्विश्वकर्मा युनक्त्विति मौञ्जे शिक्ये षडुद्यामे द्वादशोद्यामे वोखामवदधाति ८
+8. With māteva putram...[^1] he keeps (hangs) the fire-pan on sling of Muñja-grass six or twelve fathom long.[^2]   
+
+[^1]: Cp. TS IV.1.5.e. with some variants.  
+
+[^2]: Cf. TS V.1.10.5.  
 </details>

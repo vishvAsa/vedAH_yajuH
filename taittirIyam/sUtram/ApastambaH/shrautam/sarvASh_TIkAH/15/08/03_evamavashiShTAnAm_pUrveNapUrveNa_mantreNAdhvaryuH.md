@@ -5,5 +5,5 @@ title = "03 एवमवशिष्टानाम् पूर्वेणप�
 
 <details><summary>थिते</summary>
 
-एवमवशिष्टानां पूर्वेणपूर्वेण मन्त्रेणाध्वर्युः । उत्तरेणोत्तरेण प्रतिप्रस्थाता ३
+3. In the same manner the Adhvaryu (places the two) of the remaining (enclosing sticks) each time with the first formula; (and) the Pratiprasthātr̥ (places the two of the remaining enclosing sticks) each time with the immediately next formula.  
 </details>

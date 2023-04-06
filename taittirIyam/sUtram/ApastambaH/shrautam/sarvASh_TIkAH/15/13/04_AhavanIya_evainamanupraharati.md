@@ -5,5 +5,5 @@ title = "04 आहवनीय एवैनमनुप्रहरति"
 
 <details><summary>थिते</summary>
 
-आहवनीय एवैनमनुप्रहरति ४
+4. (The Pratiprasthātr̥) throws it (the third) in the Āhavanīya itself.  
 </details>

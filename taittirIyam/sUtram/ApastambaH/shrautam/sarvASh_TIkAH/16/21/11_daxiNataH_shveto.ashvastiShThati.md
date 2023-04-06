@@ -5,5 +5,5 @@ title = "11 दक्षिणतः श्वेतो ऽश्वस्ति
 
 <details><summary>थिते</summary>
 
-दक्षिणतः श्वेतो ऽश्वस्तिष्ठति ११
+11. A white horse stands to the south of the fire-altar building.   
 </details>

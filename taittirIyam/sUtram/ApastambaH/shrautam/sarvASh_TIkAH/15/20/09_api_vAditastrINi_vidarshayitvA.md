@@ -5,5 +5,6 @@ title = "09 अपि वादितस्त्रीणि विदर्श
 
 <details><summary>थिते</summary>
 
-अपि वादितस्त्रीणि विदर्शयित्वा यथोपपातमितराणि ९
+9. Or rather having shown the first three, (he shows) the other (things) in accordance with their availability. 
+ 
 </details>

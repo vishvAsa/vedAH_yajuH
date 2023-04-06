@@ -5,5 +5,6 @@ title = "04 अथैनं सर्वेषामनुवाकानाम�
 
 <details><summary>थिते</summary>
 
-अथैनं सर्वेषामनुवाकानां प्रभृतीरभिव्याहारयति । प्रथमोत्तमयोर्वा ४
+4. Then (the teacher) makes (the student) utter the beginning (verse)s of all the sections; or (only) of first and the last (sections). 
+
 </details>

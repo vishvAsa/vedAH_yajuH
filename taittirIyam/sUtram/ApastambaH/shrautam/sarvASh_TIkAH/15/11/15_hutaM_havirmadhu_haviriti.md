@@ -5,5 +5,9 @@ title = "15 हुतं हविर्मधु हविरिति"
 
 <details><summary>थिते</summary>
 
-हुतं हविर्मधु हविरिति भक्षयित्वोपयमनं प्रतिप्रस्थात्रे प्रयच्छति १५
+15. With hutaṁ havir madhu haviḥ[^1] after they have drunk,[^2] (the Adhvaryu) gives the supporting ladle to the Pratiprasthātr̥.  
+
+[^1]: TĀ IV. 10.11.  
+
+[^2]: Cf. ŚB XIV.2.2.42.  
 </details>

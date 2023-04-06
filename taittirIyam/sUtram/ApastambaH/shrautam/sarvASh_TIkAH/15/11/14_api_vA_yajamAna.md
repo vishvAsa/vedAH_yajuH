@@ -5,5 +5,5 @@ title = "14 अपि वा यजमान"
 
 <details><summary>थिते</summary>
 
-अपि वा यजमान एव प्रत्यक्षम् । अवघ्रेणेतरे १४
+14. Or only the Sacrificer (drinks) actually; others (do so only) by smelling it.  
 </details>

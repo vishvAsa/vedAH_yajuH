@@ -5,5 +5,9 @@ title = "13 इषे पीपिह्यूर्जे पीपिहीत
 
 <details><summary>थिते</summary>
 
-इषे पीपिह्यूर्जे पीपिहीति विक्षरन्तमनुमन्त्रयते १३
+13. With iṣe pīpihyūrje pĪpihi[^1] (the Adhvaryu) addresses the overflowing (Mahāvīra).[^2]   
+
+[^1]: TĀ IV. 10.1.   
+
+[^2]: Cf. TĀ V.8.4-5. 
 </details>

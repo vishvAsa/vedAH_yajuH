@@ -5,5 +5,7 @@ title = "11 यद्युख्ये भ्रियमाणेऽयन् 
 
 <details><summary>थिते</summary>
 
-यद्युख्ये भ्रियमाणेऽयं देवः प्रजा अभिमन्येताग्नेयीभिर्भिषग्वतीभिस्तिसृभिस्तिस्रः समिध आदध्यात् । भिषङ्गो अग्न आवह स्वरूपं कृष्णवर्तने । असि होता न ईड्यः । त्वं नो अग्ने भिषग्भव देवेषु हव्यवाहनः । देवेभ्यो हव्यवडसि । भिषजस्त्वा हवामहे भिषजः समिधीमहि । भिषग्देवेषु नो भवेति ११
+11. If during the period in which the fire in the pan is being carried, this god viz. Rudra becomes angry with his (of the sacrificer) progeney, he should put three fuel-sticks on the fire in the pan with the three verses containing the word bhiṣaj (physician) (and) beginning with bhiṣabṇno agna āvaha.  
+
+[^1]: Cf. KS XXII.12. 
 </details>

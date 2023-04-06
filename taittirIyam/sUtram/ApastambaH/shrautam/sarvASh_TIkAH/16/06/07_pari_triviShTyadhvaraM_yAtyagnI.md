@@ -5,5 +5,9 @@ title = "07 परि त्रिविष्ट्यध्वरं यात
 
 <details><summary>थिते</summary>
 
-परि त्रिविष्ट्यध्वरं यात्यग्नी रथीरिव । आ देवेषु प्रयो दधत् । परि वाजपतिः कविरित्येषा । परि प्रागाद्देवो अग्नी रक्षोहामीवचातनः । सेधन्विश्वा अप द्विषो दहन्त्रक्षांसि विश्वहेति तिसृभिः पर्यग्नि कृत्वा मृदा प्रलिप्य निदधाति ७
+7. With the three verses beginning with pari triviṣṭyadhvaram[^1] having carried fire around it, having besmeared it with clay[^2] he keeps it down.   
+
+[^1]: KS XXXVIII.12.  
+
+[^2]: Cf. TS V.7.10.2. For the use of fire-pan see XVI.26.13ff. 
 </details>

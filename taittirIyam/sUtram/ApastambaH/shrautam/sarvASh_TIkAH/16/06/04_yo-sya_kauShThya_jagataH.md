@@ -5,5 +5,9 @@ title = "04 योऽस्य कौष्ठ्य जगतः"
 
 <details><summary>थिते</summary>
 
-योऽस्य कौष्ठ्य जगतः पार्थिवस्यैक इद्वशी । यमं भङ्ग्यश्रवो गाय यो राजानपरोध्यः । यमं गाय भङ्ग्यश्रवो यो राजानपरोध्यः । येनापो नद्यो धन्वानि येन द्यौः पृथिवी दृढा । हिरण्यकक्ष्यान्सुधुरान्हिरण्याक्षानयःशफान् । अश्वाननश्यतो दानं यमो राजाभितिष्ठतीति तिसृभिर्यमगाथाभिः परिगायति ४
+4. While moving around (the head in the clockwise manner) he sings three sung-verses addressed to Yama[^1] beginning with yo'sya kauṣṭhya.[^2]   
+
+[^1]: Cf. TS V.1.8.2.  
+
+[^2]: For the verses cp. TĀ VI.5.2; KS XXXVIII. 12. 
 </details>

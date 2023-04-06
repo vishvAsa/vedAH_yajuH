@@ -5,5 +5,9 @@ title = "02 यद्युख्ये भ्रियमाणे यजमा
 
 <details><summary>थिते</summary>
 
-यद्युख्ये भ्रियमाणे यजमानस्य नश्येदग्नेऽभ्यावर्तिन्नग्ने अङ्गिरः पुनरूर्जा सह रय्येत्येताभिश्चतसृभिरुपतिष्ठेत २
+2. If something belonging to the sacrificer is lost the fire in the pan is being carried by the sacrificer he should stand near (the fire)[^1] praising it with these four verse begining with agnebhyāvartin.[^2]   
+
+[^1]: Cf. KS XXII.12  
+
+[^2]: TS IV.2.1.c-f.  
 </details>

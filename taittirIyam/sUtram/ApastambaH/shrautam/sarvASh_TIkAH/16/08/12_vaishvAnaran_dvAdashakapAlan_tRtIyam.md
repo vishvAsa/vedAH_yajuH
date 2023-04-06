@@ -5,5 +5,8 @@ title = "12 वैश्वानरन् द्वादशकपालन् 
 
 <details><summary>थिते</summary>
 
-वैश्वानरं द्वादशकपालं तृतीयं पुरस्तादसंवत्सरभृतः १२
+12. in the case of a sacrificer who is not going to carry Agni for one year, the third viz the (sacrificial bread) on twelve potsherds for (Agni) Vaiśvānara should be made the first (oblation).[^1]   
+
+[^1]: And not third. For this Sūtra cf. TS V.5.1.6.  
+
 </details>

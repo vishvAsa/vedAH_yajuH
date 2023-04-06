@@ -5,5 +5,9 @@ title = "08 पञ्चप्रादेशामिषुमात्री�
 
 <details><summary>थिते</summary>
 
-पञ्चप्रादेशामिषुमात्रीं वा यदि पञ्च पशवो भवन्तीति वाजसनेयकम् ८
+8. In the Vājasaneyaka[^1] it is said: “If there are five victims[^2] then the fire-pan should be of the size of five spans or of the size of one arrow.”  
+
+[^1]: See ŚB VI.5.1.10.  
+
+[^2]: For these see below XVI.7.1. 
 </details>

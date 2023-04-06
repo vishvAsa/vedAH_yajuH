@@ -5,5 +5,5 @@ title = "10 जात उख्येऽनुगमयत्याहवनी�
 
 <details><summary>थिते</summary>
 
-जात उख्येऽनुगमयत्याहवनीयम् १०
+10. When the fire is produced in the pan, he lets Āhavanīya to be extinguished. 
 </details>
