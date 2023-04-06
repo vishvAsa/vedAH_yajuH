@@ -7,5 +7,5 @@ title = "01 ऋतञ् च स्थ"
 
 1. are (the formulae) of taking, placing and throwing (golden pieces) for the Kumbha (Jar)-bricks.  
 
-[^1]: KS XXXIX.1.  
+
 </details>
