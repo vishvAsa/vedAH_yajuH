@@ -5,9 +5,5 @@ title = "01 श्वो भूते पौर्वाह्णिकीभ्
 
 <details><summary>थिते</summary>
 
-2. With dhruvakṣitiḥ...[^1] he places five Aśvinī-bricks.[^2]   
-
-[^1]: TS IV.3.4.a-e.  
-
-[^2]: Cf. TS V.3.1.1.   
+1. On the next day, after having performed (the Pravargya and Upasad) of morning, the Adhvaryu builds the second layer.  
 </details>

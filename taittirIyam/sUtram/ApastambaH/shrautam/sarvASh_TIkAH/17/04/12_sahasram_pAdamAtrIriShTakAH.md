@@ -5,5 +5,5 @@ title = "12 सहस्रम् पादमात्रीरिष्टक�
 
 <details><summary>थिते</summary>
 
-सहस्रं पादमात्रीरिष्टकाः १२
+12. (In it there should be) one thousand bricks of the size of one foot.  
 </details>

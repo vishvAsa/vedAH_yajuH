@@ -5,5 +5,9 @@ title = "04 ज्योतिष्मतीन् त्वा सादया
 
 <details><summary>थिते</summary>
 
-ज्योतिष्मतीं त्वा सादयामीति द्वादश ज्योतिष्मतीः ४
+4. With jyotiṣmatīṁ tvā sādayāmi....[^1] (he places) the twelve Jyotiṣmatī (Bright) (bricks).[^2]  
+
+[^1]: TS I.4.34.  
+
+[^2]: Cf. V.4.1.3. 
 </details>

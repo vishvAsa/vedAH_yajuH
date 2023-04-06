@@ -5,5 +5,9 @@ title = "05 रश्मिरसि क्षयाय त्वा"
 
 <details><summary>थिते</summary>
 
-रश्मिरसि क्षयाय त्वा क्षयं जिन्वेति स्तोमभागाः । सप्तसप्त प्रतिदिशम् । अवशिष्टा मध्ये ५
+5. With raśmirasi...[^1] he places the Stomabhāga (-bricks): seven in each direction; the remaining in the middle.[^2]  
+
+[^1]: TS IV.4.1.  
+
+[^2]: Cf. TS V.3.5.5. 
 </details>

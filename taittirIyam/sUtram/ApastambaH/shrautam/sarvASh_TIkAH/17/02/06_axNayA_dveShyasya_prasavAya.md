@@ -5,5 +5,11 @@ title = "06 अक्ष्णया द्वेष्यस्य प्रस
 
 <details><summary>थिते</summary>
 
-अक्ष्णया द्वेष्यस्य प्रसवाय त्वोपयामाय त्वा काटाय त्वार्णवाय त्वा धर्णसाय त्वा द्रविणाय त्वा सिन्धवे त्वा समुद्राय त्वा सरस्वते त्वा विश्वव्यचसे त्वा सुभूताय त्वान्तरिक्षाय त्वेति द्वादश भूतेष्टकाः ६
+6. For the sacrificer whom he hates he places the Vālakhilyā-bricks diagonically,[^1] with prasavāya tvopayāmāya ...[^2] (he places) the twelve Bhūta (Being) bricks.[^3]   
+
+[^1]: Cf. MS II.2.9.  
+
+[^2]: KS XL.4; cp. MS III.12.12.   
+
+[^3]: TS V.6.3.1 mentions the Bhūteṣṭakās but does not give the formulae for these.   
 </details>

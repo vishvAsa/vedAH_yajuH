@@ -5,5 +5,9 @@ title = "02 इन्द्राग्निभ्यान् त्वा स
 
 <details><summary>थिते</summary>
 
-इन्द्राग्निभ्यां त्वा सयुजा युजा युनज्मीत्यष्टौ सयुजः २
+2. With indrāgnibhyāṀ tvā sayujā yujā...[^1] (he places) the eight Sayuj (Yoked-together) (bricks).[^2]   
+
+[^1]: TS IV.4.5.  
+
+[^2]: Cf. TS V.3.9.1.  
 </details>

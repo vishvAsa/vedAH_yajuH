@@ -5,5 +5,7 @@ title = "13 चित्तिञ् जुहोमीति स्वयमा
 
 <details><summary>थिते</summary>
 
-चित्तिं जुहोमीति स्वयमातृणायां हुत्वा व्यनिति १३
+13. With cittiṁ juhomi having made a libation (of ghee) on the naturally perforated stone he should breathe (over the stone).[^1]   
+
+[^1]: Cp. XVI.23.2.  
 </details>

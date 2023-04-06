@@ -5,5 +5,5 @@ title = "13 ताः प्रथमायाञ् चित्याम्"
 
 <details><summary>थिते</summary>
 
-ताः प्रथमायां चित्यां मध्यमायामुत्तमायां वोपदध्यात् १३
+13. He places them either in the first or the middle or the last layer.  
 </details>

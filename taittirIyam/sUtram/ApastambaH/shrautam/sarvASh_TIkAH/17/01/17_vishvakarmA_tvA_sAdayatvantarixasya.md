@@ -5,5 +5,9 @@ title = "17 विश्वकर्मा त्वा सादयत्वन
 
 <details><summary>थिते</summary>
 
-विश्वकर्मा त्वा सादयत्वन्तरिक्षस्य पृष्ठे ज्योतिष्मतीमिति विश्वज्योतिषम् १७
+17. With viśvakarmā tvā sādayatu...[^1] he places the Viśvajyotis (All-light)[^2] (brick).   
+
+[^1]: TS IV.4.6.b.  
+
+[^2]: Cp. XVI.24.7.  
 </details>

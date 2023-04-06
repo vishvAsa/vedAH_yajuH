@@ -5,5 +5,9 @@ title = "08 त्र्यविर्वय इति पञ्च"
 
 <details><summary>थिते</summary>
 
-त्र्यविर्वय इति पञ्च दक्षिणस्यां श्रोण्याम् । पष्ठवाड्वय इति पञ्चोत्तरस्याम् । बस्तो वय इति दक्षिणेऽसें\! । वृष्णिर्वय इत्युत्तरे । व्याघ्रो वय इति दक्षिणे पक्षे । सिंहो वय इत्युत्तरे । एतद्वा विपरीतम् । पुरुषो वय इति मध्ये । विष्टम्भो वय इति चतस्रो वयस्याः पुरस्तात्प्रतीचीः ८
+8. With tryavir vayaḥ....[^1] (he places) five (bricks) on the southwest corner; with paṣṭhavād vayaḥ... five... north-west corner; with basto vayaḥ... south-east corner; with vr̥ṣnir vayaḥ... north-east corner; with vyāghro vayaḥ... southern wing; with siṁho vayaḥ... northern (wing)-or this may be in reverse order-with puruṣo vayaḥ... in the middle; with viṣṭambho vayaḥ... (he places) four Vayasyā (-bricks) from east to west in the front part.[^2]  
+
+[^1]: For the formulae in this Sūtra see TS IV.3.5.  
+
+[^2]: The bricks mentioned in this Sūtra are called Vayasyā bricks. For them cp. TS V.3.1.5. 
 </details>
