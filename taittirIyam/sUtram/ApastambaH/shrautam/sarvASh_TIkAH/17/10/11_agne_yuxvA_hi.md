@@ -5,5 +5,13 @@ title = "11 अग्ने युक्ष्वा हि"
 
 <details><summary>थिते</summary>
 
-अग्ने युक्ष्वा हि ये तव । युक्ष्वा हि देवहूतमानिति द्वाभ्यां सञ्चितमग्निमभिमृश्य वसवस्त्वा रुद्रैः पुरस्तात्पान्त्वित्येतैर्यथालिङ्गं सञ्चितमग्निमाज्येन प्रोक्षति । मध्य उत्तमेन प्राङ्मुखः ११
+11. Having touched the built up fire-altar with two verses beginning with agne yukṣvā hi ye tava[^1] and yukṣvā hi devahūtamām[^2] he sprinkles ghee on the built up fire-altar[^3] with vasavastvā rudraiḥ purastāt pāntu...[^4] in accordance with the chracteristic word (in the formula); facing the east (he sprinkles ghee) in the middle with the last (formula).   
+
+[^1]: TS IV.2.9.q.   
+
+[^2]: TS IV.2.9.r.  
+
+[^3]: Cf. TS V.5.3.1-5.  
+
+[^4]: TS IV.2.9.1.  
 </details>

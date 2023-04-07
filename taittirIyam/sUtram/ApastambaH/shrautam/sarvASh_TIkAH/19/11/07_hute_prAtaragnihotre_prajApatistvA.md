@@ -5,5 +5,9 @@ title = "07 हुते प्रातरग्निहोत्रे प्
 
 <details><summary>थिते</summary>
 
-हुते प्रातरग्निहोत्रे प्रजापतिस्त्वा सादयतु तया देवतयाङ्गिरस्वद्ध्रुवा सीदेत्युत्तरवेदिमभिमृश्य मयि गृह्णाम्यग्रे अग्निं यो नो अग्निः पितर इति द्वाभ्यामात्मन्नग्निं गृहीत्वा यास्ते अग्ने समिध इति स्वयंचित्याभिमृश्याग्नेर्भस्मासीति सिकता निवपति । सञ्ज्ञानमित्यूषान् ७
+7. After (on the next day) the morning-Agnihotra is performed, having touched the Uttaravedi (High-altar) with prajapatistvā, and having (mystically) taken the fire in himself with the two verses beginning with mayi gr̥hṇāmi and yo no agniḥ, having touched the Uttaravedi[^1] with the formula called Svayaṁciti (Self-building) beginning with (the words) yaste samidhaḥ, he scatters sand (on that place) with agnerbhasmāsi and (scatters) salty soil with samjñānam....[^2]   
+
+[^1]: For all this cp. XVI.21.6.  
+
+[^2]: Cp. XVI.14.1 (at the end)-2. 
 </details>

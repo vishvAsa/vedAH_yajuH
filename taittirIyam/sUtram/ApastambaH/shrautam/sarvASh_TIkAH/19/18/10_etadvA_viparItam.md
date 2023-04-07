@@ -5,5 +5,8 @@ title = "10 एतद्वा विपरीतम्"
 
 <details><summary>थिते</summary>
 
-एतद्वा विपरीतम् १०
+
+10. or it may be reverse[^2].  
+
+[^2]: Cp. XXIV.13.8.   
 </details>

@@ -5,5 +5,7 @@ title = "12 अथो खलु यावतीः"
 
 <details><summary>थिते</summary>
 
-अथो खलु यावतीः समा एष्यन्मन्येत तावन्मानं स्यात् १२
+12. Or it may be weighing as many Mānas as many (the sacrificer) believes to (be able) to live.[^1]  
+
+[^1]: Cf. TS III.3.11.5.  
 </details>

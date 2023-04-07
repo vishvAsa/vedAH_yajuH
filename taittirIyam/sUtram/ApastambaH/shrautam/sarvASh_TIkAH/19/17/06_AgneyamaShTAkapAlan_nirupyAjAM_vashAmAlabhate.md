@@ -5,5 +5,8 @@ title = "06 आग्नेयमष्टाकपालन् निरुप�
 
 <details><summary>थिते</summary>
 
-आग्नेयमष्टाकपालं निरुप्याजां वशामालभते ६
+6. After having offered a sacrificial bread on eight potsherds for Agni, he seizes a barren she-goat.[^1]  
+
+[^1]: For this offering see TS III.4.3.1-2. 
+
 </details>

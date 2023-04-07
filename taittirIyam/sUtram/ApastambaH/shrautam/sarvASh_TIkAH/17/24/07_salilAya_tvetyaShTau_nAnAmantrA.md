@@ -5,5 +5,7 @@ title = "07 सलिलाय त्वेत्यष्टौ नानाम
 
 <details><summary>थिते</summary>
 
-सलिलाय त्वेत्यष्टौ नानामन्त्रा उत्तरवेद्यामुपदध्यात् । यथार्थं लोकम्पृणा अथ पुरीषम् ७
+7. (At that time) with salilāya tvā...[^1] (the Adhvaryu) should place eight bricks (each) with a separate formula on the Uttaravedi; the Lokampr̥ṇā (-brick)s as per requirement; and then loose soil.   
+
+[^1]: TS IV.4.6.i.  
 </details>

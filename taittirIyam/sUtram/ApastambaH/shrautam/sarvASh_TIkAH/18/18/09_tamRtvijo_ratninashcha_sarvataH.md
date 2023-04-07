@@ -5,5 +5,5 @@ title = "09 तमृत्विजो रत्निनश्च सर्व
 
 <details><summary>थिते</summary>
 
-तमृत्विजो रत्निनश्च सर्वतः पर्युपविशन्ति । पुरस्तादध्वर्युः । दक्षिणतो ब्रह्मा । पश्चाद्धोता । उत्तरत उद्गाता ९
+9. The priests and the Ratnins sit around him on all sides: the Adhvaryu to the east, Brahman to the south, Hotr̥ to the west, (and) Udgātr̥ to the north.  
 </details>

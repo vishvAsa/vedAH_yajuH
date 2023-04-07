@@ -5,5 +5,7 @@ title = "09 पौंश्चलेयः पेशसा जानु"
 
 <details><summary>थिते</summary>
 
-पौंश्चलेयः पेशसा जानु वेष्टयित्वा पश्चादन्वेति ९
+9. The son of a whore having covered the (left) knie with a cloth (peśasā) follows it (the dog).[^1]  
+
+[^1]: Cf. TB III.8.4.1-2. 
 </details>

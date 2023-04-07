@@ -5,5 +5,7 @@ title = "01 ऐन्द्रावरुणम् पुरोडाशन् 
 
 <details><summary>थिते</summary>
 
-ऐन्द्रावरुणं पुरोडाशं निरुप्यैन्द्रावरुणीं पयस्यां निर्वपेत् १
+1. After having taken out the material for the sacrificial bread for Indra and Varuṇa, (the Adhvaryu) should take out the material for the milk-mess for Indra and Varuṇa.  
+
+[^1]: Cf. TS II.3.13.1ff.  
 </details>

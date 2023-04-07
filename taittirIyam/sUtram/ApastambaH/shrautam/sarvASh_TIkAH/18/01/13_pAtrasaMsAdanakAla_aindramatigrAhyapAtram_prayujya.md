@@ -5,5 +5,8 @@ title = "13 पात्रसंसादनकाल ऐन्द्रमत�
 
 <details><summary>थिते</summary>
 
-पात्रसंसादनकाल ऐन्द्रमतिग्राह्यपात्रं प्रयुज्य तत्समीपे पञ्चैन्द्राण्यतिग्राह्यपात्राणि प्रयुनक्ति १३
+13. At the time of placing the utensils (on the Khara). after having prepared vessel for the additional scoop[^1] for India's immediately next to it he makes ready the five vessels for the additional scoops for Indra.  
+
+[^1]: Cp.XII.1.15. 
+
 </details>

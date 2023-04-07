@@ -5,5 +5,11 @@ title = "15 विशाखो यूप इति"
 
 <details><summary>थिते</summary>
 
-विशाखो यूप इति यदूर्ध्वं रशनायास्तद्विशाखम् । यद्वोपरादुभे शाखे अष्टाश्री सचषाले स्याताम् १५
+15. The expression “Viśākha (forked) sacrificial post"[^1] means that part (of the sacrificial post) which is above the string,[^1] should be forked or that part which is above the Upara[^3] should be forked. Both the branches should be eight-cornered, and accompanied with a top-ring.  
+
+[^1]: TS II.1.9.3.  
+
+[^2]: For this see VII.11.5.  
+
+[^3]: For this See VII.3.1. 
 </details>

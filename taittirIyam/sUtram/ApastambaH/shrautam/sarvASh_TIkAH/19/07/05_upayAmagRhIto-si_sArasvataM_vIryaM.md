@@ -5,5 +5,9 @@ title = "05 उपयामगृहीतोऽसि सारस्वतं 
 
 <details><summary>थिते</summary>
 
-उपयामगृहीतोऽसि सारस्वतं वीर्यं सरस्वत्यै त्वा जुष्टं गृह्णामीति गृहीत्वा पवित्रेण परिमृज्यैष ते योनिरानन्दाय त्वेति सादयति ५
+5. Having drawn (the second scoop) with upayāma gr̥hito'si...,[^1] having wiped it (the cup) by means of (eagle) feather, he deposits it (on the mound) with eṣa te yoniḥ....[^2]  
+
+[^1]: TB II.6.15.  
+
+[^2]: TB II.6.1.5.  
 </details>

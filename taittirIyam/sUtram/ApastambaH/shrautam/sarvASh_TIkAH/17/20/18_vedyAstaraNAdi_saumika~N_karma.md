@@ -5,5 +5,7 @@ title = "18 वेद्यास्तरणादि सौमिकङ् क
 
 <details><summary>थिते</summary>
 
-वेद्यास्तरणादि सौमिकं कर्म प्रतिपद्यते १८
+18. Then he starts the work of the Soma-sacrifice beginning with spreading grass on the altar.[^1]   
+
+[^1]: See XI.6.3.   
 </details>

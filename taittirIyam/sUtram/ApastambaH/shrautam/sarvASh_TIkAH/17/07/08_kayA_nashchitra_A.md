@@ -5,5 +5,9 @@ title = "08 कया नश्चित्र आ"
 
 <details><summary>थिते</summary>
 
-कया नश्चित्र आ भुवदूती सदावृधः सखा । कया शचिष्ठया वृता । कस्त्वा सत्यो मदानां मंहिष्ठो मत्सदन्धसः । दृढा चिदारुजे वसु । अभी षु णः सखीनामविता जरितॄणाम् । शतं भवास्यूतिभिरिति वामदेव्यम् ८
+8. With kaya naścitra ā...[^1] (he places) the Vāmadevya (brick),[^2]  
+
+[^1]: KS XXXIX.12.  
+
+[^2]: The Sūtra is in complete. See the first Sūtra of the next section.  
 </details>

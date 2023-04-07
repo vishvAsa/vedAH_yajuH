@@ -5,5 +5,7 @@ title = "04 अभि त्वा शूर"
 
 <details><summary>थिते</summary>
 
-अभि त्वा शूर नोनुमोऽदुग्धा इव धेनवः । ईशानमस्य जगतः सुवर्दृशमीशानमिन्द्र तस्थुषः । ईशानमिन्द्र तस्थुषः । न त्वावाँ अन्यो दिव्यो न पार्थिवः । न जातो न जनिष्यते अश्वायन्तो मघवन्निन्द्र वाजिनः । गव्यन्तस्त्वा हवामह इति रथन्तरं दक्षिणे पक्षेऽध्यात्मन्नपवर्गः ४
+4. With two verses abhi tvā śūra...[^1] (he places) the Rathantara-sāman-bricks in such a manner that the last (brick) (will be placed) on the trunk.[^2]   
+
+[^1]: KSXXYIX.12. For detais see the next two Sūtras.  
 </details>

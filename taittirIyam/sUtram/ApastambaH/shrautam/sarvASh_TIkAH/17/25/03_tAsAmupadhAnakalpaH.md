@@ -5,5 +5,5 @@ title = "03 तासामुपधानकल्पः"
 
 <details><summary>थिते</summary>
 
-तासामुपधानकल्पः ३
+3. The procedure of placing these (is as follows): 
 </details>

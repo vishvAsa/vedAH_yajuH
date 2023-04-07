@@ -5,5 +5,5 @@ title = "06 अथापरुध्यमानोऽदिते ऽनुम�
 
 <details><summary>थिते</summary>
 
-अथापरुध्यमानोऽदिते ऽनुमन्यस्वेत्यपरोद्धुः पदमादाय गच्छेत् ६
+6. Then one who is being caught should go away after having taken the foot-print (i.e. the sand therein) of one who catches him with adite'numanyasva. 
 </details>

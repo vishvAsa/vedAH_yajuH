@@ -5,5 +5,5 @@ title = "01 राजा सार्वभौमोऽश्वमेधेन 
 
 <details><summary>थिते</summary>
 
-राजा सार्वभौमोऽश्वमेधेन यजेत । अप्यसार्वभौमः १
+1. A king, (who is) the lord of all the earth should perform the Aśvamedha (sacrifice) or even one who is not the lord of all the earth.  
 </details>

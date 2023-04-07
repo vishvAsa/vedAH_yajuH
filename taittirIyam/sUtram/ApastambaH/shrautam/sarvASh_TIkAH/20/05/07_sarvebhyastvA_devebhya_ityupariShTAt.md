@@ -5,5 +5,6 @@ title = "07 सर्वेभ्यस्त्वा देवेभ्य इ
 
 <details><summary>थिते</summary>
 
-सर्वेभ्यस्त्वा देवेभ्य इत्युपरिष्टात् ७
+7. with sarvebhyastvā devebhyaḥ above;   
+
 </details>

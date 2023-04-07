@@ -5,5 +5,5 @@ title = "02 समानमावभृथात्"
 
 <details><summary>थिते</summary>
 
-समानमावभृथात् २
+2. (The Ritual) upto the Avabhr̥tha is the same as in the (Agniṣṭoma-sacrifice).  
 </details>

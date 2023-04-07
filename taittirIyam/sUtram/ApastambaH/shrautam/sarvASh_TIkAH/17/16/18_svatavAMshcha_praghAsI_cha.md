@@ -5,5 +5,8 @@ title = "18 स्वतवांश्च प्रघासी च"
 
 <details><summary>थिते</summary>
 
-स्वतवांश्च प्रघासी च सान्तपनश्च गृहमेधी च क्रीडी च साकी चोर्जिषी चेत्येष षष्ठ आम्नातः १८
+18. svatavāṁśca... is mentioned as the sixth (group).[^1]   
+
+[^1]: After the addition of the Āraṇyaka-section this group becomes the seventh.   
+
 </details>

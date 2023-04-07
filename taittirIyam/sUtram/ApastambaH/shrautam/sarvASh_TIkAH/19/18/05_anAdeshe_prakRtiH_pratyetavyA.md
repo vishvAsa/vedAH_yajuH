@@ -5,5 +5,5 @@ title = "05 अनादेशे प्रकृतिः प्रत्ये
 
 <details><summary>थिते</summary>
 
-अनादेशे प्रकृतिः प्रत्येतव्या ५
+5. When there is no prescription the basic paradigm (that of new and full-moon-sacrifices) should be understood. 
 </details>

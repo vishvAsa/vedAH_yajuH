@@ -5,5 +5,7 @@ title = "10 अत्र सारस्वतप्रभृतीनान् 
 
 <details><summary>थिते</summary>
 
-अत्र सारस्वतप्रभृतीनां दैवतेन प्रचरति १०
+10. At this time (the Adhvaryu) performs the ritual of the pieces of those animals the first of which is for Sarasvat.[^1]  
+
+[^1]: See XVIII.2.13. 
 </details>

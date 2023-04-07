@@ -5,5 +5,5 @@ title = "17 अग्नेस्तेजस्या इति घृतस्
 
 <details><summary>थिते</summary>
 
-अग्नेस्तेजस्या इति घृतस्य १७
+17. With agnestejasyāḥ (he scoops) ghee.  
 </details>

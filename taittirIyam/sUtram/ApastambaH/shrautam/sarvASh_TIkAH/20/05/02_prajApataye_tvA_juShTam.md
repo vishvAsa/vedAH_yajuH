@@ -5,5 +5,5 @@ title = "02 प्रजापतये त्वा जुष्टम्"
 
 <details><summary>थिते</summary>
 
-प्रजापतये त्वा जुष्टं प्रोक्षामीति पुरस्तात्प्रत्यङ् तिष्ठन् २
+2. standing in the east with his face to the west with prajāpataye tvā..; 
 </details>

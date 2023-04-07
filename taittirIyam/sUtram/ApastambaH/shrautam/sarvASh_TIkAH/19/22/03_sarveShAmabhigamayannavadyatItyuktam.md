@@ -5,5 +5,7 @@ title = "03 सर्वेषामभिगमयन्नवद्यती�
 
 <details><summary>थिते</summary>
 
-सर्वेषामभिगमयन्नवद्यतीत्युक्तम् ३
+3. It is said (in a Brāhmaṇa-text) “He should take the portions of all the breads while reaching them."[^1]  
+
+[^1]: TS II.3.6.2. 
 </details>

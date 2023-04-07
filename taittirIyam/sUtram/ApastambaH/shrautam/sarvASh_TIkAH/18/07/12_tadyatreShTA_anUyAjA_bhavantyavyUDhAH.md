@@ -5,5 +5,7 @@ title = "12 तद्यत्रेष्टा अनूयाजा भवन
 
 <details><summary>थिते</summary>
 
-तद्यत्रेष्टा अनूयाजा भवन्त्यव्यूढाः स्रुचः । तदेतैः प्रचरेयुः । तदु तथा न कुर्यात् । ह्वलति वा एतद्यज्ञो यदेवं कुर्वन्तीति १२
+12. Therefore when the after-offerings are made and the ladles are not separated from each other,[^1] then should one perform with these (pieces of animals dedicated to Prajāpati). One should however not do this. The sacrifice indeed trembles if they do this.   
+
+[^1]: Cf. III.5.3, VII.27.5. 
 </details>

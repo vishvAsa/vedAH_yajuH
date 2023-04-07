@@ -5,5 +5,7 @@ title = "05 तस्याः पशुपुरोडाशन् नैवा
 
 <details><summary>थिते</summary>
 
-तस्याः पशुपुरोडाशं नैवारं चतुष्पद्याः सूनाया निर्वपति ५
+5. He takes out the Nīvāra-rice for the animal-sacrificial bread of it (cow) from a basket with four feet.[^1]  
+
+[^1]: See MS IV.4.3. 
 </details>

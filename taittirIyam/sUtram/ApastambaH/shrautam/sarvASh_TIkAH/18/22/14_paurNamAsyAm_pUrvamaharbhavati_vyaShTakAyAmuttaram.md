@@ -5,5 +5,8 @@ title = "14 पौर्णमास्याम् पूर्वमहर्�
 
 <details><summary>थिते</summary>
 
-पौर्णमास्यां पूर्वमहर्भवति । व्यष्टकायामुत्तरम् १४
+14. The first day (=first sacrifice) takes place on the full moon day, the second on the Vyaṣṭaka[^1] (day).  
+
+
+[^1]: According to LāṭyāŚS IX.3.8 Vyaṣṭaka means the first three days of a dark-fortnight.  
 </details>

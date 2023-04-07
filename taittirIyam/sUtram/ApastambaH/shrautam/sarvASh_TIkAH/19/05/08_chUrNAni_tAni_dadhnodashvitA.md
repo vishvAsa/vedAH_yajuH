@@ -5,5 +5,5 @@ title = "08 चूर्णानि तानि दध्नोदश्वि
 
 <details><summary>थिते</summary>
 
-चूर्णानि तानि दध्नोदश्विता वा संसृज्य दर्भैः परितंस्य निदधाति ८
+8. After having mixed those flours (of roasted barley) with curds or butter-milk (with double quantity of water), then having covered (the mixture) by means of Darbha-blades, he places (it).  
 </details>

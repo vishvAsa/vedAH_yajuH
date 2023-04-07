@@ -5,5 +5,8 @@ title = "01 षोडशगृहीतेन स्रुचम् पूरय
 
 <details><summary>थिते</summary>
 
-षोडशगृहीतेन स्रुचं पूरयित्वा वैश्वकर्मणानि जुहोति १
-</details>
+1. having filled the Juhū (-ladle) with sixteen-times scooped ghee,[^1] (the Adhvaryu) offers the Vaiśvakarmaṇa libaions.[^2]  
+
+[^1]: Cf. MS III.3.7; ŚB IX.9.2.6.  
+
+[^2]: Cf. TS V.4.5.4.   </details>

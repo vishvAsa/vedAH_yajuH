@@ -5,5 +5,6 @@ title = "10 अथान्तरस्यान् द्वादशापर�
 
 <details><summary>थिते</summary>
 
-अथान्तरस्यां द्वादशापरपक्षानुपदधाति सहस्वान्सहीयानिति १०
+10. Then on the inner (i.e. the fourth line) he places (bricks representing) twelve second fortnights with sahasvān sahīyān....  
+
 </details>

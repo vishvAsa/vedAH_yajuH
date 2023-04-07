@@ -5,5 +5,7 @@ title = "03 अग्नीनन्वाधाय वेदङ् कृत्
 
 <details><summary>थिते</summary>
 
-अग्नीनन्वाधाय वेदं कृत्वाग्नीन्परिस्तीर्य पाणिप्रक्षालनादि कर्म प्रतिपद्यते ३
+3. Having added fuel to fires, having prepared a grass brush (Veda), having spread grass around the fire, he does the works like washing of the hands[^1].  
+
+[^1]: Cf. I.15.4-6. 
 </details>

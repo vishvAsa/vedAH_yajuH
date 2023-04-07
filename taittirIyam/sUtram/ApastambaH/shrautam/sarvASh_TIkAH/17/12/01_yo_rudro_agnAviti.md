@@ -5,5 +5,7 @@ title = "01 यो रुद्रो अग्नाविति"
 
 <details><summary>थिते</summary>
 
-यो रुद्रो अग्नाविति रौद्रं गावीधुकं चरुम् १
+1. (The Adhvaryu) keeps the Gavīdhuka-rice-pap for Rudra on the brick  
+
+
 </details>

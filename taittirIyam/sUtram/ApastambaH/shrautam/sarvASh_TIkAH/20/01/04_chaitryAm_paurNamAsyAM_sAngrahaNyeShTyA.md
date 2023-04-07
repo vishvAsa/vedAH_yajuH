@@ -5,5 +5,9 @@ title = "04 चैत्र्याम् पौर्णमास्यां 
 
 <details><summary>थिते</summary>
 
-चैत्र्यां पौर्णमास्यां साङ्ग्रहण्येष्ट्या यजते । तस्या योत्तरामावास्या तस्यां सञ्ज्ञान्या ४
+4. He should perform the Sāṁgrahaṇī-offering[^1] on the Full-Moon-day of Caitra and the Samjñānī (-offering)[^2] on the New-moon-day which follows it.  
+
+[^1]: Cf. TB III.8.1.1. For this offering see XIX.23.6.  
+
+[^2]: For this offering see XIX.20.3. 
 </details>

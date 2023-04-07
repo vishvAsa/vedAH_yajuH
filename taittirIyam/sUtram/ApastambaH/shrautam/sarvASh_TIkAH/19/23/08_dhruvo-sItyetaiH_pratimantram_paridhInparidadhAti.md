@@ -5,5 +5,9 @@ title = "08 ध्रुवोऽसीत्येतैः प्रतिम�
 
 <details><summary>थिते</summary>
 
-ध्रुवोऽसीत्येतैः प्रतिमन्त्रं परिधीन्परिदधाति ८
+8. He places the surrounding sticks[^1] one by one with (the three Mantras) beginning with dhruvosi.[^2]  
+
+[^1]: For these see II.9.5.  
+
+[^2]: TS II.3.9.4.  
 </details>

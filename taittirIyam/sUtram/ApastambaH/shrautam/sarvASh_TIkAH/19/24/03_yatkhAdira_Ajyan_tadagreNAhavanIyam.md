@@ -5,5 +5,5 @@ title = "03 यत्खादिर आज्यन् तदग्रेणा
 
 <details><summary>थिते</summary>
 
-यत्खादिर आज्यं तदग्रेणाहवनीयं पर्याहृत्य दक्षिणस्यां वेदिश्रोण्यां सादयति ३
+3. Having brought the ghee in the Khadira-pot by the north of the Āhavanīya he places it on the south-western corner of the altar.  
 </details>

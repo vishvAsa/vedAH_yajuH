@@ -5,5 +5,14 @@ title = "14 वाजिनो वाजजितो वाजं"
 
 <details><summary>थिते</summary>
 
-वाजिनो वाजजितो वाजं सरिष्यन्तो वाजं जेष्यन्तो बृहस्पतेर्भागमव जिघ्रतेति नैवारमश्वौ धुर्याववघ्रापयति । सर्वान्वा १४
+14. With vājino vājajitaḥ...[^1] he (the Adhvaryu) 
+causes the two horses at the yoke[^2] (of the sacrificer's chariot) or all the (three horses)[^3] smell Nīvara-rice-pap[^4].   
+
+[^1]: TS I.7.8.q.  
+
+[^2]: Cf. KS XIV.7.  
+
+[^3]: Cf. ŚB V.1.4.15.  
+
+[^4]: Cf. TB I.3.6.9.  
 </details>

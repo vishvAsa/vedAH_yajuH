@@ -5,5 +5,7 @@ title = "08 अजाविलोम्नामध्वर्योः पव�
 
 <details><summary>थिते</summary>
 
-अजाविलोम्नामध्वर्योः पवित्रं भवति । गोअश्वानां प्रतिप्रस्थातुः ८
+8. The strainer of the Adhvaryu is (made) out of hair of a he-goat and a ram, and that of the Pratiprasthātr̥ (is made) of (the hair) of a cow and horse.[^1]  
+
+[^1]: See ll and 12.  
 </details>

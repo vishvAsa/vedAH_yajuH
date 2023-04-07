@@ -5,5 +5,5 @@ title = "18 आग्नेयस्य च सौम्यस्य"
 
 <details><summary>थिते</summary>
 
-आग्नेयस्य च सौम्यस्य चैन्द्रे समाश्लेषयेदिति संहितानि हवींष्यधिश्रयेदित्यर्थः १८
+18. When it is said 'He should bring the Agni (-bread) and the Soma (-bread) in contact with the Indra (-bread)", it means, “He should place the oblation-materials (of Agni and Soma) on the fire near that of Indra." 
 </details>

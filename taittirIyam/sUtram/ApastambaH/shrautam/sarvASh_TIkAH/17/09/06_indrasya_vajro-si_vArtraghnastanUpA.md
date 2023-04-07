@@ -5,5 +5,7 @@ title = "06 इन्द्रस्य वज्रोऽसि वार्त
 
 <details><summary>थिते</summary>
 
-इन्द्रस्य वज्रोऽसि वार्त्रघ्नस्तनूपा नः प्रतिस्पशः । यो न उपरिष्टादघायुरभिदासत्येतं सोऽश्मानमृच्छत्विति मध्ये पञ्चमीमेके समामनन्ति ६
+6. According to the opinion of some (ritualists) (he should also place the fifth brick with indrasya vajro'si...[^1] (adding the words), yo na upariṣṭād....   
+
+[^1]: TS V.7.3.a.  
 </details>

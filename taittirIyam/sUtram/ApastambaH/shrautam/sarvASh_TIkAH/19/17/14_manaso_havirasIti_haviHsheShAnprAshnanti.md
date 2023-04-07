@@ -5,5 +5,7 @@ title = "14 मनसो हविरसीति हविःशेषान्
 
 <details><summary>थिते</summary>
 
-मनसो हविरसीति हविःशेषान्प्राश्नन्ति १४
+14. (They=the performers) eat the remnants of the oblation-(material) with manaso havirasi....[^1]  
+
+[^1]: TS III.4.2.g. 
 </details>

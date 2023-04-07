@@ -1,9 +1,9 @@
 +++
-title = "04 तासु घ्रचरन्ति"
+title = "04 तासु प्रचरन्ति"
 
 +++
 
 <details><summary>थिते</summary>
 
-तासु घ्रचरन्ति ४
+4. On these they perform (the Avabhr̥tha-)ritual. 
 </details>

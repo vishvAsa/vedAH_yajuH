@@ -5,5 +5,5 @@ title = "06 व्रजक्षित स्थेति कूप्यान
 
 <details><summary>थिते</summary>
 
-व्रजक्षित स्थेति कूप्यानाम् ६
+6. With vrajakṣita stha (he scoops) the water from a well. 
 </details>

@@ -5,5 +5,7 @@ title = "08 एकैकमुत्सृज्य तञ् जित्वा
 
 <details><summary>थिते</summary>
 
-एकैकमुत्सृज्य तं जित्वा समहमिन्द्रियेण वीर्येणेति प्रदक्षिणमावर्तते ८
+8. After having released (the arrows) one by one (and) having won him(the Kṣatriya), (the sacrificer) turns himself (the chariot) with samaham indriyeṇa viryeṇa....[^1]   
+
+[^1]: TS I.8.15.f.  
 </details>

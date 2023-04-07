@@ -5,5 +5,5 @@ title = "05 विश्वेभ्यस्त्वा देवेभ्य 
 
 <details><summary>थिते</summary>
 
-विश्वेभ्यस्त्वा देवेभ्य इत्युत्तरतो दक्षिणा ५
+5. standing in the north with his face to the south  
 </details>

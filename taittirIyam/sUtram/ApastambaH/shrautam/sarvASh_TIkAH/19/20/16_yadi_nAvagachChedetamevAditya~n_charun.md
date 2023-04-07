@@ -5,5 +5,5 @@ title = "16 यदि नावगच्छेदेतमेवादित्�
 
 <details><summary>थिते</summary>
 
-यदि नावगच्छेदेतमेवादित्यं चरुं निर्वपेत् १६
+16. If (the king) does not return (inspite of this) then (the Adhvaryu) should take out the material of rice- pap for the Ādityas. 
 </details>

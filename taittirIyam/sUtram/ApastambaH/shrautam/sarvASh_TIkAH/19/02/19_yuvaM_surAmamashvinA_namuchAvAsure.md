@@ -5,5 +5,9 @@ title = "19 युवं सुराममश्विना नमुचाव
 
 <details><summary>थिते</summary>
 
-युवं सुराममश्विना नमुचावासुरे सचा । विपिपाना शुभस्पती इन्द्रं कर्मस्वावतम् । पुत्रमिव पितरावश्विनोभेन्द्रावतं कर्मणा दंसनाभिः । यत्सुरामं व्यपिबः शचीभिः सरस्वती त्वा मघवन्नभीष्णादिति सर्वदेवत्ये याज्यानुवाक्ये भवतः १९
+19. yuvaṁ surām and putramiva...[^1] are to be used as invitatory and offering verses; they are connected with all the deities.[^2]  
+
+[^1]: Both these verses are found in TB 1.4.2.1.  
+
+[^2]: Cf. I.8.6.1.  
 </details>

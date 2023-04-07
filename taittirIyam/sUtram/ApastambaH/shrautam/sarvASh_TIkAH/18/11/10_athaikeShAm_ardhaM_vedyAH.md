@@ -5,5 +5,8 @@ title = "10 अथैकेषाम् अर्धं वेद्याः"
 
 <details><summary>थिते</summary>
 
-अथैकेषाम् । अर्धं वेद्याः कुर्वन्ति । अर्धं स्वयङ्कृतम् । अर्धं बर्हिर्दाति । अर्धं स्वयन्दिनमुपसन्नह्यति । अर्धमिध्मस्य वृश्चति । अर्धं स्वयंवृक्णम् १०
+10. According to some (ritualists)[^1] they prepare the half of the altar; the other half is self-prepared; (the Adhvaryu) cuts the half of the grass; and he collects the self-cut (grass) for the remaining half; he cuts half of the fuel; the other half is self-cut.   
+
+[^1]: Cf. KS XV.5. 
+
 </details>

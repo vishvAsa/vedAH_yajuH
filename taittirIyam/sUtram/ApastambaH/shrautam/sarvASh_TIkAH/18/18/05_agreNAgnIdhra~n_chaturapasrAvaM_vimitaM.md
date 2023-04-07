@@ -5,5 +5,7 @@ title = "05 अग्रेणाग्नीध्रञ् चतुरपस�
 
 <details><summary>थिते</summary>
 
-अग्रेणाग्नीध्रं चतुरपस्रावं विमितं विमिन्वन्ति पुरस्तादुन्नतं पश्चान्निनतम् ५
+5. To the east of the Āgnīdhra-shed (the assistants of the priests) prepare a hut[^1] (Vimita) with four sewers slightly higher in the east and sloping down to the west.  
+
+[^1]: Cp. ŚB V.4.4.21. 
 </details>

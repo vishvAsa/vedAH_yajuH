@@ -5,5 +5,6 @@ title = "08 यो वामिन्द्रावरुणावग्नौ 
 
 <details><summary>थिते</summary>
 
-यो वामिन्द्रावरुणावग्नौ स्राम इत्युपहोमाः ८
+8. With yo vāmindrāvaruṇau... (he should perform) the 
+by-offerings.  
 </details>

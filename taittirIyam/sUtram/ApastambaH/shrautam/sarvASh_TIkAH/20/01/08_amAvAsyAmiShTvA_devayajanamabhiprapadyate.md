@@ -5,5 +5,5 @@ title = "08 अमावास्यामिष्ट्वा देवयज�
 
 <details><summary>थिते</summary>
 
-अमावास्यामिष्ट्वा देवयजनमभिप्रपद्यते ८
+8. Having performed (the New-Moon-offering) on the New Moon-day, he goes to the place of the (Aśvamedha) sacrifice.  
 </details>

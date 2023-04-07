@@ -5,5 +5,5 @@ title = "06 तेषामन्तरालेष्वेतेषामह�
 
 <details><summary>थिते</summary>
 
-तेषामन्तरालेष्वेतेषामह्नां पञ्चदश मुहूर्तानुपदधाति सविता प्रसवितेति ६
+6. In the intermediate spaces of these (bricks representing days) he places fifteen (bricks representing the) Muhūrtas of these (nights) with savitā prasavitā....  
 </details>

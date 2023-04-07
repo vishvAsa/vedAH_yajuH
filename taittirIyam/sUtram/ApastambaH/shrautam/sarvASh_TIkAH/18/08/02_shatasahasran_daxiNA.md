@@ -5,5 +5,5 @@ title = "02 शतसहस्रन् दक्षिणा"
 
 <details><summary>थिते</summary>
 
-शतसहस्रं दक्षिणा २
+2. One hudred thousand (cows) are the sacrificial gift (dakṣiṇā). 
 </details>

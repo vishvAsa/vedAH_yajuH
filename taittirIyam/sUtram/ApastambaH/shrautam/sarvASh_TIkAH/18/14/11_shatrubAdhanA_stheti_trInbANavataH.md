@@ -5,5 +5,9 @@ title = "11 शत्रुबाधना स्थेति त्रीन्
 
 <details><summary>थिते</summary>
 
-शत्रुबाधना स्थेति त्रीन्बाणवतः ११
+11. With śatrubādhanā stha[^1] he gives three arrows.[^2]   
+
+[^1]: TS I.8.12.k.  
+
+[^2]: CI. TB I.7.6.8.  
 </details>

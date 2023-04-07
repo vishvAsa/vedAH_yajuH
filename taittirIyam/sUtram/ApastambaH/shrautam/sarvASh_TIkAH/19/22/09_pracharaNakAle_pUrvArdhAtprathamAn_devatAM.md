@@ -5,5 +5,5 @@ title = "09 प्रचरणकाले पूर्वार्धात्�
 
 <details><summary>थिते</summary>
 
-प्रचरणकाले पूर्वार्धात्प्रथमां देवतां यजति ९
+9. At the time of offering, he offers the (portion of a bread) from the eastern side (of the bread) to the first deity.  
 </details>

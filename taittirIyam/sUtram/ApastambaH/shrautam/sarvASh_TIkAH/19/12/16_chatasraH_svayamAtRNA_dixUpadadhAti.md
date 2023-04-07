@@ -5,5 +5,7 @@ title = "16 चतस्रः स्वयमातृणा दिक्षू
 
 <details><summary>थिते</summary>
 
-चतस्रः स्वयमातृणा दिक्षूपदधाति भूरग्निं च पृथिवीं च मां चेति १६
+16. He places the four naturally perforated (bricks) in four quarters with bhūragniṁ ca....[^1]   
+
+[^1]: TB III. 10.2.1. 
 </details>

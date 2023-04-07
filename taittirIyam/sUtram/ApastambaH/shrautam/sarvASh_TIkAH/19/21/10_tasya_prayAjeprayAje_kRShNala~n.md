@@ -5,5 +5,5 @@ title = "10 तस्य प्रयाजेप्रयाजे कृष्
 
 <details><summary>थिते</summary>
 
-तस्य प्रयाजेप्रयाजे कृष्णलं जुहोति १०
+10. Before every Prayāja ( fore-offering) of it, he offers one gold-corn.  
 </details>

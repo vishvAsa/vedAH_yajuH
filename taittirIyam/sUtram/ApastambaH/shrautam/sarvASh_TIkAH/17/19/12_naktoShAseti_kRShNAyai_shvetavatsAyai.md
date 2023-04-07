@@ -5,5 +5,12 @@ title = "12 नक्तोषासेति कृष्णायै श्व
 
 <details><summary>थिते</summary>
 
-नक्तोषासेति कृष्णायै श्वेतवत्सायै पयसा हुत्वा षड्भिः पर्यायैर्द्वादश राष्ट्रभृतो जुहोति १२
+12. Having offered libations of milk of a black cow having a white calf[^1] with naktoṣāsā...[^2], he offers the twelve Rāṣṭrabhr̥t (Kingdom-holder) (libations) in six rounds.[^3]   
+
+[^1]: Cf. TS V.4.9.3. CP. XVII.15.2.  
+
+[^2]: TS IV.7.12.h.  
+
+[^3]: For details see the next Sūtra.  
+
 </details>

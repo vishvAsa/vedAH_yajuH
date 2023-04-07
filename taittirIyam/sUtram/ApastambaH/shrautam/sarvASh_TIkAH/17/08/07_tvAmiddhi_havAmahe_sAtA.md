@@ -5,5 +5,8 @@ title = "07 त्वामिद्धि हवामहे साता"
 
 <details><summary>थिते</summary>
 
-त्वामिद्धि हवामहे साता वाजस्य कारवः । त्वां वृत्रेष्विन्द्र सत्पतिं नरस्त्वां काष्ठास्वर्वतः । त्वां काष्ठास्वर्वतः । स त्वं नश्चित्र वज्रहस्त धृष्णुया । महस्तवानो अद्रिवः । मह स्तवानो अद्रिवः । गामश्वं रथ्यमिन्द्र सं किर । सत्रा वाजं न जिग्युष इति बृहदुत्तरे पक्षे ७
+7. With tvāmiddhi havāmahe...[^1] (he places) the Br̥hatsām-an (-brick) on the left wing.  
+
+[^1]: KS XXXIX. 12. Here also with two verses three bricks are kept.  
+
 </details>

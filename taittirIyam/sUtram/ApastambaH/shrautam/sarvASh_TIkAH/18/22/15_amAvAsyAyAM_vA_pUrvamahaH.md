@@ -5,5 +5,5 @@ title = "15 अमावास्यायां वा पूर्वमहः
 
 <details><summary>थिते</summary>
 
-अमावास्यायां वा पूर्वमहः । उद्दृष्ट उत्तरम् १५
+15. Or the first (sacrifice) (should be) on the New Moon day, the second on the day on which the moon is visible. 
 </details>

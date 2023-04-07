@@ -5,5 +5,7 @@ title = "14 अग्नये रक्षोख्ने पुरोडाश
 
 <details><summary>थिते</summary>
 
-अग्नये रक्षोख्ने पुरोडाशमष्टाकपालममावास्यायां निशायां निर्वपेत्तस्याः साद्गुण्यसामर्थ्यात् १४
+14a. One should offer a sacrificial bread on eight potsherds to Agni Rakṣoghna on the night of a New moon day.[^1]  
+
+[^1]: Cf. TS II.2.2.2. 
 </details>

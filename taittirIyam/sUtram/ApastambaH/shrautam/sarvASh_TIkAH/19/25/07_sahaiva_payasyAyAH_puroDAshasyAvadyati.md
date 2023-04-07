@@ -5,5 +5,8 @@ title = "07 सहैव पयस्यायाः पुरोडाशस्
 
 <details><summary>थिते</summary>
 
-सहैव पयस्यायाः पुरोडाशस्यावद्यति ७
+7. He cuts the portions of the sacrificial bread along with those of the milk-mess.[^1]  
+
+[^1]: Cf. TS II.3.13.1.  
+
 </details>

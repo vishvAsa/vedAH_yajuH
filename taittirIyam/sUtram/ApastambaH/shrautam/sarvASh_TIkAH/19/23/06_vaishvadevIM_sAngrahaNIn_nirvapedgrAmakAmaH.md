@@ -5,5 +5,8 @@ title = "06 वैश्वदेवीं साङ्ग्रहणीन् 
 
 <details><summary>थिते</summary>
 
-वैश्वदेवीं साङ्ग्रहणीं निर्वपेद्ग्रामकामः ६
+6. One who desires to get (supremacy in the ) village should perform a collective offering to Viśvedevas.[^1]  
+
+[^1]: Cf. TS II.3.9.1ff.  
+
 </details>

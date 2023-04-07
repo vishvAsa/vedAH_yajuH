@@ -5,5 +5,5 @@ title = "04 पुरुषे पशौ वाभ्यवेते"
 
 <details><summary>थिते</summary>
 
-पुरुषे पशौ वाभ्यवेते प्रतीपमन्य ऊर्मिर्युध्यति अन्वीपमन्यः ४
+4. When a man or an animal enters (into water) one wave comes against the current, another with the current. 
 </details>

@@ -5,5 +5,7 @@ title = "12 पात्रसंसादनकाले बार्हस्�
 
 <details><summary>थिते</summary>
 
-पात्रसंसादनकाले बार्हस्पत्यं चरुं मैत्रं च पात्रं कपालानां स्थाने प्रयुनक्ति १२
+12. At the time of placing the utensils[^1] he keeps the pot for the rice-pap for Br̥haspati and the pot for (the rice-pap) for Mitra on the place of potsherds.  
+
+[^1]: See I.15.6. 
 </details>

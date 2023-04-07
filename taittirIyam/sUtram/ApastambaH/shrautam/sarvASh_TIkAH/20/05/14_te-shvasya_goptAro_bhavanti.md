@@ -5,5 +5,5 @@ title = "14 तेऽश्वस्य गोप्तारो भवन्त
 
 <details><summary>थिते</summary>
 
-तेऽश्वस्य गोप्तारो भवन्ति १४
+14. they become the protectors of the horse.  
 </details>

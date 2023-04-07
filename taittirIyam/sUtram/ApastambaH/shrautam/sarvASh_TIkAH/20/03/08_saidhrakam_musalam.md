@@ -5,5 +5,5 @@ title = "08 सैध्रकम् मुसलम्"
 
 <details><summary>थिते</summary>
 
-सैध्रकं मुसलम् ८
+8. (There should be) a pestle of Sidhraka (-wood). 
 </details>

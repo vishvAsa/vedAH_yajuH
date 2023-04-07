@@ -5,5 +5,7 @@ title = "11 पात्रसंसादनकाले खादिरम् 
 
 <details><summary>थिते</summary>
 
-पात्रसंसादनकाले खादिरं पात्रं चतुःस्रक्ति प्रयुनक्ति । सौवर्न च प्रवर्तं शतमानस्य कृतम् ११
+11. At the time of arrangement of utensils,[^1] he also places a four-cornered, pot of Khadira (wood), and an earring weighing one hundred Mānas.  
+
+[^1]: Cf. I.15.6ff. 
 </details>

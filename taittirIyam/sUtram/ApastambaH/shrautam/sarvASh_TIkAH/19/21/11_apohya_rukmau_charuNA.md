@@ -5,5 +5,5 @@ title = "11 अपोह्य रुक्मौ चरुणा"
 
 <details><summary>थिते</summary>
 
-अपोह्य रुक्मौ चरुणा प्रचरति ११
+11. Having taken out the gold-corn he makes (the oblation) with the rice-pap.  
 </details>

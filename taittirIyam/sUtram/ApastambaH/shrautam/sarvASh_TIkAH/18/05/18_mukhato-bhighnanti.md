@@ -5,5 +5,5 @@ title = "18 मुखतोऽभिघ्नन्ति"
 
 <details><summary>थिते</summary>
 
-मुखतोऽभिघ्नन्ति १८
+18. They throw towards the (sacrificer's) mouth. 
 </details>

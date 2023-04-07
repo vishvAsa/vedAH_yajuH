@@ -5,5 +5,5 @@ title = "12 एवम् ब्रह्माणं होतारमुद्
 
 <details><summary>थिते</summary>
 
-एवं ब्रह्माणं होतारमुद्गातारं च १२
+12. In the same manner ( the sacrificer) addresses the Brahman, the Hotr̥ and the Udgātr̥.  
 </details>

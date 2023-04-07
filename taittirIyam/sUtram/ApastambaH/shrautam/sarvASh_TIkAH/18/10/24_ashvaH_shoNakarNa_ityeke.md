@@ -5,5 +5,5 @@ title = "24 अश्वः शोणकर्ण इत्येके"
 
 <details><summary>थिते</summary>
 
-अश्वः शोणकर्ण इत्येके २४
+24. According to some a horse with red ears (is the sacrificial gift).  
 </details>

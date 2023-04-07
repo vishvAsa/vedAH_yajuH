@@ -5,5 +5,7 @@ title = "04 दक्षिणाकाले सप्तदश रथान्
 
 <details><summary>थिते</summary>
 
-दक्षिणाकाले सप्तदश रथान्ददाति । सप्तदशानांसि सप्तदशाश्वान्सप्तदश हस्तिनः सप्तदश निष्कान्सप्तदश दास्यः सप्तदशाजाः सप्तदशावीः सप्तदश वासांसि सप्तदश गवां शतानि ४
+4. At the time of giving the Dakṣinṇās he (sacrificer) gives seventeen chariots, seventeen carts, seventeen horses, seventeen elephants, seventeen gold-plates (niṣka), seventeen female slaves, seventeen (she-) goats, seventeen ewes, seventeen cloths, and seventeen hundred cows.[^1]   
+
+[^1]: In TB.I.3.6.3 only this much is said : saptadaśa saptadaśa dīyante.  
 </details>

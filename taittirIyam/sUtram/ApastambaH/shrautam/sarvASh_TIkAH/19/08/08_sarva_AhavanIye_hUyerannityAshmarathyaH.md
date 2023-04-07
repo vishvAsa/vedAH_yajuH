@@ -5,5 +5,7 @@ title = "08 सर्व आहवनीये हूयेरन्नित्
 
 <details><summary>थिते</summary>
 
-सर्व आहवनीये हूयेरन्नित्याश्मरथ्यः । दक्षिणेऽग्नौ सुराग्रहा इत्यालेखनः ८
+8. According to Āśmarathya all the scoops should be offered in the Āhavanīya (fire); according to Ālekhana, the Surā-Scoops (should be offered) in Dakṣiṇa-fire.[^1]  
+
+[^1]: ŚB XII.9.3.11-12. 
 </details>

@@ -5,5 +5,7 @@ title = "04 अभ्यषिक्षि राजाभूवमित्य�
 
 <details><summary>थिते</summary>
 
-अभ्यषिक्षि राजाभूवमित्यावेदयते ४
+4. He announces (through the messengers), “I have been sprinkled upon, I have become a king”.[^1]  
+
+[^1]: MS IV.4.9.  
 </details>

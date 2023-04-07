@@ -5,5 +5,5 @@ title = "13 तेषान् दक्षिणो यजुर्युक्
 
 <details><summary>थिते</summary>
 
-तेषां दक्षिणो यजुर्युक्तः १३
+13. The one which is yoked with the formula should be to the South of these (chariots).  
 </details>

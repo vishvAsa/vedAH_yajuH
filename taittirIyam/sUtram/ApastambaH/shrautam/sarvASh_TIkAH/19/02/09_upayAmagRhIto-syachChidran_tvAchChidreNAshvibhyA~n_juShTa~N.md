@@ -5,5 +5,9 @@ title = "09 उपयामगृहीतोऽस्यच्छिद्र�
 
 <details><summary>थिते</summary>
 
-उपयामगृहीतोऽस्यच्छिद्रं त्वाच्छिद्रेणाश्विभ्यां जुष्टं गृह्णामीत्याश्विनमध्वर्युर्गृह्णाति । एतेनैव सरस्वत्या इति सारस्वतं प्रतिप्रस्थाताग्नीध्रो वा । इन्द्राय त्वेत्यैन्द्रं ब्रह्मा यजमानो वा ९
+9. The Adhvaryu draws the scoop for Aśvins with upayāmagr̥hīto'si acchidraṁ tvācсhidreṇāśribhyāṁ juṣṭaṁ gr̥hṇām...;[^1] the Pratiprasthātr̥ or the Āgnīdhra (draws the scoop) for Sarasvatī with the same (formula) (substituting the word) sarasvatyai (in the place of aśvibhyām) and Brahman or the sacrificer (draws the scoop) (with the same formula substituting the words aśvibhyāṁ vā) with indrāya tvā.[^2]  
+
+[^1]: KS XII.9; MS II.3.8.  
+
+[^2]: Cf. KS XII. 10; MS II.3.8. 
 </details>

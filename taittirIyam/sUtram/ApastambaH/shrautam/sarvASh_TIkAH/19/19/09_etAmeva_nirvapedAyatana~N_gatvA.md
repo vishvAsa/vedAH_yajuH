@@ -5,5 +5,7 @@ title = "09 एतामेव निर्वपेदायतनङ् गत
 
 <details><summary>थिते</summary>
 
-एतामेव निर्वपेदायतनं गत्वा ९
+9. Having gone to the place, one should perform the same offering.[^1]  
+
+[^1]: Cp. TS II.2.10.5.  
 </details>

@@ -5,5 +5,9 @@ title = "01 जुह्वाम् पञ्चगृहीतङ् गृह
 
 <details><summary>थिते</summary>
 
-जुह्वां पञ्चगृहीतं गृहीत्वा स्वयं कृण्वान इति द्वे १
+1. Having taken five-times-scooped ghee into the Juhū, (the Adhvaryu) offers two libations of ghee with svayaṁ kr̥ṇvānaḥ...[^1] 
+
+[^1]: TB II.4.2.5-6.  
+
+
 </details>

@@ -5,5 +5,7 @@ title = "14 सुवर्देवाँ अगन्मेत्यग्र�
 
 <details><summary>थिते</summary>
 
-सुवर्देवाँ अगन्मेत्यग्रं प्राप्य जपति १४
+14. Having reached the top (of the sacrificial post, the sacrificer), mutters, suvar devān aganma....[^1]  
+
+[^1]: TS I.7.9.e. 
 </details>

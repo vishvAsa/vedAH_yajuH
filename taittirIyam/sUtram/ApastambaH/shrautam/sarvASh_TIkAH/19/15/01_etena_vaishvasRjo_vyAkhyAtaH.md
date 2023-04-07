@@ -5,5 +5,6 @@ title = "01 एतेन वैश्वसृजो व्याख्यात
 
 <details><summary>थिते</summary>
 
-एतेन वैश्वसृजो व्याख्यातः १
+1. With this the Viśvasr̥j-fire-altar-building-ritual (is as good as) described.  
+
 </details>

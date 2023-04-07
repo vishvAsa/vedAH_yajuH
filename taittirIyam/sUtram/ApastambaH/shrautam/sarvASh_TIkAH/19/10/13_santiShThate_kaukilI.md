@@ -5,5 +5,5 @@ title = "13 सन्तिष्ठते कौकिली"
 
 <details><summary>थिते</summary>
 
-सन्तिष्ठते कौकिली १३
+13. (Herewith the performance of) the Kaukilī (Sautrāmaṇī) stands completely established (i.e. concluded).  
 </details>

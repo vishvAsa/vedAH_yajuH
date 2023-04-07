@@ -5,5 +5,5 @@ title = "13 अनुक्रमिष्यामः"
 
 <details><summary>थिते</summary>
 
-अनुक्रमिष्यामः १३
+13. We shall detail (these offerings) in the sequence. 
 </details>

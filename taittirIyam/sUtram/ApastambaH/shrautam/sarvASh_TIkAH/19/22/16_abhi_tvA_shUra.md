@@ -5,5 +5,7 @@ title = "16 अभि त्वा शूर"
 
 <details><summary>थिते</summary>
 
-अभि त्वा शूर नोनुमोऽदुग्धा इव धेनवः । ईशानमस्य जगतः सुवर्दृशमीशानमोमित्यनूच्य न्द्र तस्थुष स्त्वामिद्धि हवामह इति यजेत् १६
+16. Having recited the invitatory verse abhi tvā...suvardr̥śam iśānamom, (the Hotr̥) should recite indra tasthuṣastvām iddhi havāmahe.[^1]  
+
+[^1]: Thus here the words indra tasthuṣaḥ belonging to the earlier verse are attached to the next verse.  
 </details>

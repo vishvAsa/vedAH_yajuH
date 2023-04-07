@@ -5,5 +5,7 @@ title = "05 अवभृथ निचङ्कणेत्यवभृथं य
 
 <details><summary>थिते</summary>
 
-अवभृथ निचङ्कणेत्यवभृथं यजमानोऽभिमन्त्र्य सुमित्रा न आपो द्रुपदादिवेन्मुमुचान इत्याप्लुत्योद्वयं तमसस्परीत्यादित्यमुपस्थाय प्रतियुतो वरुणस्य पाश इत्युदकान्तं प्रत्यस्यति ५
+5. After having addressed the Avabhr̥tha with avabhr̥tha nicaṅkuṇa...[^1], after having taken bath with sumitrā na āpaḥ...[^2] and drupadādiva...[^3], having stood while praising the sun with udvayaṁ tamasaspari...[^4], the sacrificer throws back (with the front part of his foot) the bank of the water.  
+
+[^1-4]: TB II.6.6.3-4; cf.VIII.8.15-18b. 
 </details>

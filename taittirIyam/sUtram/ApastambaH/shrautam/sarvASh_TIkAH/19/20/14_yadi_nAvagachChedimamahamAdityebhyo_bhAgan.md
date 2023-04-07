@@ -5,5 +5,5 @@ title = "14 यदि नावगच्छेदिममहमादित्�
 
 <details><summary>थिते</summary>
 
-यदि नावगच्छेदिममहमादित्येभ्यो भागं निर्वपाम्यामुष्मादमुष्यै विशोऽवगन्तोरित्यपरोद्धुर्नाम गृह्णीयात्तस्यै च विशः १४
+14. If (the king) does not return then he(the Adhvaryu). (should perform this offering having changed the formula of taking out the oblation-material and use the words), idam aham (and there) he should utter the name of him who has caught (the king) and the name of his subjects.  
 </details>

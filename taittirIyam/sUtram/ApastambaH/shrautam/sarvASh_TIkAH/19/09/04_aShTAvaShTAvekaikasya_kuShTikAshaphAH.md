@@ -5,5 +5,4 @@ title = "04 अष्टावष्टावेकैकस्य कुष्�
 
 <details><summary>थिते</summary>
 
-अष्टावष्टावेकैकस्य कुष्टिकाशफाः ४
-</details>
+4. Every animal has (together) eight: (four) pseudo-claws and (four) hoofs.  </details>

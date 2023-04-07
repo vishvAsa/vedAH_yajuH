@@ -5,5 +5,7 @@ title = "08 ताञ् जुह्वदिह सोऽस्त्वित
 
 <details><summary>थिते</summary>
 
-तां जुह्वदिह सोऽस्त्विति दिग्भ्योऽग्निं मनसा ध्यायति ८
+8. While offering this (libation) he thinks in his mind about the fire that the fire from the quaters should be here (on the altar).[^1]  
+
+[^1]: Cf. TS V.4.7.6.  
 </details>

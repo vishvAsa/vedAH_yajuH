@@ -5,5 +5,7 @@ title = "05 पीवोऽन्नां रयिवृधः सुमेध
 
 <details><summary>थिते</summary>
 
-पीवोऽन्नां रयिवृधः सुमेधा इत्येतानि यथापूर्वं यथालिङ्गमाम्नातानि भवन्ति ५
+5. The sections the first of which begins with pīvo'nnāṁ rayivr̥dhaḥ sumedhāḥ[^1] are mentioned to be used in the sequence and in accordance with the characteristic words.   
+
+[^1]: TB II.8.1.1-9.9.  
 </details>

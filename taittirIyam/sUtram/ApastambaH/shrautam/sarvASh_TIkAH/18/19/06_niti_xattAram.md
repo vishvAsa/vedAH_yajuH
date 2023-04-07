@@ -5,7 +5,9 @@ title = "06 निति क्षत्तारम्"
 
 <details><summary>थिते</summary>
 
-मङ्गल्यनाम्नो राजाह्वयति । सुश्लोकां३
-इति संग्रहीतारम् । सुमङ्गलां३
-इति भागदुघम् । सत्यराजा३निति क्षत्तारम् ६
+6. (Then) the king calls those having auspicious[^1] names: (thus) the Saṁgrahītr̥ (chariot-driver) as suślokā3m; the Bhāgadugha as sumaṅgalā3m; the Kṣattr̥ as satyarājā3m.[^2]   
+
+[^1]: Cf. MS IV.4.6.  
+
+[^2]: TS I.8.16.k. 
 </details>

@@ -5,5 +5,6 @@ title = "02 दण्डो वा शुष्को"
 
 <details><summary>थिते</summary>
 
-दण्डो वा शुष्को वा दृतिर्जरदुपानहौ वा २
+2. Or either a staff or a dry leather bag or two old shoes.  
+
 </details>

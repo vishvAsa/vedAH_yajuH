@@ -5,5 +5,7 @@ title = "17 अन्नाय त्वेति पुरस्तादध्
 
 <details><summary>थिते</summary>
 
-अन्नाय त्वेति पुरस्तादध्वर्युः । अन्नाद्याय त्वेति दक्षिणतो ब्रह्मा । वाजाय त्वेति पश्चाद्धोता । वाजजित्यायै त्वेत्युत्तरत उद्गाता १७
+17. From the east the Adhvaryu with annāya tvā; from the south the Brahman with annādyāya tvā; from the west the Hotr̥ with vājāya tvā; (and) from the north the Udgātr with vājajityāyai tvā.[^1]   
+
+[^1]: For the formulae in this Sūtra see TS 1.7.9.g.  
 </details>

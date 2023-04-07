@@ -5,5 +5,5 @@ title = "05 वैशाख्याम् पौर्णमास्याम�
 
 <details><summary>थिते</summary>
 
-वैशाख्यां पौर्णमास्यां प्राजापत्यमृषभं तूपरं सर्वरूपं सर्वेभ्यः कामेभ्य आलभते ५
+5. On the Full-Moon-day of Vaiśakhā, he should offer a bull with its horns intact and having variegated colour to Prajāpati for the sake of fulfillment of all the desires.  
 </details>

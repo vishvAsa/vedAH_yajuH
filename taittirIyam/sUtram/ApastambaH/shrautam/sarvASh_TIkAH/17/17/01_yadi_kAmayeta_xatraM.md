@@ -5,5 +5,6 @@ title = "01 यदि कामयेत क्षत्रं"
 
 <details><summary>थिते</summary>
 
-यदि कामयेत क्षत्रं विश ओजीयः स्यादिति ग्रामेऽनुवाक्यस्य त्रीणि चत्वारि वा पदान्यनुद्रुत्यारण्येऽनुवाक्यमनुद्रुत्य ग्रामेऽनुवाक्यस्य शेषेण जुहुयात् १
+1. If the Adhvaryu desires: “May the Kṣatriyas be more powerful than the Vaiśyas, having recited three or four words of the formula-group to be studied in village, then having recited the formula-group to be studied in forest, he should make the libation with the remaining portion of the formula group to be recited in village.   
+
 </details>

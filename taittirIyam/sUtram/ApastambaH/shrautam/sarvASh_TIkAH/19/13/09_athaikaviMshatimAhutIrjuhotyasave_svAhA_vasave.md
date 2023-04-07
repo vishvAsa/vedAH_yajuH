@@ -5,5 +5,7 @@ title = "09 अथैकविंशतिमाहुतीर्जुहो�
 
 <details><summary>थिते</summary>
 
-अथैकविंशतिमाहुतीर्जुहोत्यसवे स्वाहा वसवे स्वाहेत्यनुवाकेन प्रतिमन्त्रम् ९
+9. (The Adhvaryu) then offers twenty-one libations with the section beginning with vasave svāhā,[^1] each (libation) with one formula(in the sequence).  
+
+[^1]: TB. III. 10.7.1.  
 </details>

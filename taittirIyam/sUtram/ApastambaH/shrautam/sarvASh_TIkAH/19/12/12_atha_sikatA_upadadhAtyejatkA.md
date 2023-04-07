@@ -5,5 +5,5 @@ title = "12 अथ सिकता उपदधात्येजत्का"
 
 <details><summary>थिते</summary>
 
-अथ सिकता उपदधात्येजत्का जोवत्का इति १२
+12. Then he places sand with ejatkā jīvatkāḥ.... 
 </details>

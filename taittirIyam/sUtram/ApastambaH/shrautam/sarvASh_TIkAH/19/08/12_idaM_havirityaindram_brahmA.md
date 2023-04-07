@@ -5,5 +5,7 @@ title = "12 इदं हविरित्यैन्द्रम् ब्र
 
 <details><summary>थिते</summary>
 
-इदं हविरित्यैन्द्रं ब्रह्मा यजमानश्च १२
+12. The Brahman and the Sacrifiecr (consume the remn ants from the milk-cup) for Indra with idaṁ haviḥ....[^1]  
+
+[^1]: TB II.6.3.5. 
 </details>

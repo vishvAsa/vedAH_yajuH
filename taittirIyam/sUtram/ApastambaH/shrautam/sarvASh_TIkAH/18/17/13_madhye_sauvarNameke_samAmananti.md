@@ -5,5 +5,5 @@ title = "13 मध्ये सौवर्णमेके समामनन्
 
 <details><summary>थिते</summary>
 
-मध्ये सौवर्णमेके समामनन्ति १३
+13. According to some the golden (amulet) (is to be taken) in the middle.  
 </details>

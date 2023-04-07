@@ -5,5 +5,5 @@ title = "04 तासामन्तरालेष्वेन्तासा�
 
 <details><summary>थिते</summary>
 
-तासामन्तरालेष्वेन्तासां रात्रीणां पञ्चदश मुहूर्तानुपदधाति दाता प्रदातेति ४
+4. In the intermediate spaces of these (bricks representing nights) he places fifteen (bricks representing) the Muhūrtas of these (nights) with dātā pradātā. 
 </details>

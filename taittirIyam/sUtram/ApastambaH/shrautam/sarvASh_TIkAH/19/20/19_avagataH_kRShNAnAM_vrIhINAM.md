@@ -5,5 +5,7 @@ title = "19 अवगतः कृष्णानां व्रीहीणा
 
 <details><summary>थिते</summary>
 
-अवगतः कृष्णानां व्रीहीणां वारुणं चरुं निर्वपति १९
+19. (The king) after having returned should offer a rice pap of black rice-grains to Varuṇa.[^1]  
+
+[^1]: See Sūtra 10. 
 </details>

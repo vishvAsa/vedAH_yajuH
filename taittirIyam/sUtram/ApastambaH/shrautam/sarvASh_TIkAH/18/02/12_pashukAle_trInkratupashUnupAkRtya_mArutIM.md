@@ -5,5 +5,7 @@ title = "12 पशुकाले त्रीन्क्रतुपशून�
 
 <details><summary>थिते</summary>
 
-पशुकाले त्रीन्क्रतुपशूनुपाकृत्य मारुतीं वशामुपाकरोति । सारस्वतीं च मेषीमपन्नदतीम् १२
+12. At the time of the performance of the animal-sacrifice, having dedicated the first three Savana-animals[^1] he dedicates a barren cow for Maruts and a ewe whose teeth have not yet fallen down for Sarasvatī.  
+
+[^1]: viz. one for Agni, one for Indra and one for Indra (Cf. XII.18.121). See TB I.3.4.1-2.   
 </details>

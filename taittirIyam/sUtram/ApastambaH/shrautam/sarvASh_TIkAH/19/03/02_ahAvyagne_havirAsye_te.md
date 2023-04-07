@@ -5,5 +5,7 @@ title = "02 अहाव्यग्ने हविरास्ये ते"
 
 <details><summary>थिते</summary>
 
-अहाव्यग्ने हविरास्ये ते स्रुचीव घृतं चमू इव सोमः । वाजसनिं रयिमस्मे सुवीरं प्रशस्तं धेहि यशसं बृहन्तम् । यस्मिन्नश्वास ऋषभास उक्षणो वशा मेषा अवसृष्टास आहुताः । कीलालपे सोमपृष्ठाय वेधसे हृदा मतिं जनये चारुमग्नय इति हुतां हूयमानां वा यजमानोऽनुमन्त्रयते २
+2. The sacrificer addresses the offering which is offered or is being offered, with the formulae ahāvyagne..., and yasminnaśvāsaḥ.[^1]  
+
+[^1]: For these verses see TB I.4.2.1-2. 
 </details>

@@ -5,5 +5,5 @@ title = "07 मरुतामोज स्थेति याः"
 
 <details><summary>थिते</summary>
 
-मरुतामोज स्थेति याः प्रतीपं गच्छन्ति । ह्रादुनीनां वा ७
+7. With marutāmoja stha (he scoops the water) which goes against the current or hail water.  
 </details>

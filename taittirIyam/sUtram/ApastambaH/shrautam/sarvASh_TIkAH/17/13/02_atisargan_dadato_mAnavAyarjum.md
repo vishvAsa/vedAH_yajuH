@@ -5,5 +5,13 @@ title = "02 अतिसर्गन् ददतो मानवायर्ज
 
 <details><summary>थिते</summary>
 
-अतिसर्गं ददतो मानवायर्जुं पन्थामनुपश्यमानाः । अजुषन्त मरुतो यज्ञमेतं वृष्टिं देवानाममृतं स्वर्विदम् । आवर्तमानो भुवनस्य मध्ये प्रजा विकुर्वञ्जनयन्विरूपाः । संवत्सरः परमेष्ठी धृतव्रतो यज्ञं नः पातु रजसः पुरस्तात् । प्रजां ददातु परिवत्सरो नो धाता ददातु सुमनस्यमानः । बह्वीः साकं बहुधा विश्वरूपा एकव्रता मामभिसंविशन्त्विति पञ्चान्वारोहान्हुत्वापरं पञ्चगृहीतं गृहीत्वा कार्ष्णी उपानहावुपमुञ्चते । एकां वा २
+2. (and he offers the three other libations), with atisargaṁ dadataḥ...[^2] having thus offered the five “ascending" (libations), having again taken five-times-scooped ghee, he puts on the shoes made out of black-antelope skin[^3]- 
+
+
+[^2]: Cp. MS II.13.21; cp. KS XL.12.  
+
+[^3]: Cf. TS V.4.4.4. 
+
+
+
 </details>

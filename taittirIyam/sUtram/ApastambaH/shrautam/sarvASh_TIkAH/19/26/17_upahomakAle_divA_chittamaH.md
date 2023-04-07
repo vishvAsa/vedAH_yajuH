@@ -5,5 +5,7 @@ title = "17 उपहोमकाले दिवा चित्तमः"
 
 <details><summary>थिते</summary>
 
-उपहोमकाले दिवा चित्तमः कृण्वन्तीत्येतैः प्रतिमन्त्रं पिण्डीराबध्नाति १७
+17. At the time of the by-offerings (the Adhvaryu) binds the balls each with one of the (three) verse(s) beginning with divā cit tamaḥ kr̥ṇvanti.[^1]  
+
+[^1]: TS II.4.8.b-d.  
 </details>

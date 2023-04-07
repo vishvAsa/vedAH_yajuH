@@ -5,5 +5,7 @@ title = "09 यस्ते देव वरुण"
 
 <details><summary>थिते</summary>
 
-यस्ते देव वरुण गायत्रच्छन्दाः पाशस्तं त एतेनावयजे स्वाहेत्याश्विनपात्रमवभृथे प्रविध्यति । एतेनैव त्रिष्टुप्छन्दा इति सारस्वतस्य । जगतीछन्दा इत्यैन्द्रस्य । अनुष्टुप्छन्दा इति सतं वालस्रावं श्येनपत्त्रं च । पङ्क्तिच्छन्दा इति शूलान् ९
+9. He throws (the cup for Aśvins)(with yaste varuṇa...) into the (water of the) Avabhr̥tha (Concluding Bath); with the same (formula) (substituting the word gāyatracchandāḥ in the original) by (the word) triṣṭupchandā for the cup for Sarasvatī; by (the word) jagatichandā for the (cup) for Indra; by (the word) anuṣṭupchandāḥ the vessel (Sata), hair-strainer (Vālasrāva) and the eagle-feather and by (the word) paṅkticchandāḥ the spits.[^1]  
+
+[^1]: For the first three formulae, see TB 1.4.2.3-4; for the fourth see MS II.3.3. The fifth only here and in SatyāśS. 
 </details>

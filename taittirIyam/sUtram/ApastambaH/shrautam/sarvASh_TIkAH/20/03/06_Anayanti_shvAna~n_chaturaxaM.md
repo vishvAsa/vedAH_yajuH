@@ -5,5 +5,5 @@ title = "06 आनयन्ति श्वानञ् चतुरक्षं
 
 <details><summary>थिते</summary>
 
-आनयन्ति श्वानं चतुरक्षं विष्वग्बन्धेन बद्धम् ६
+6. They bring a four-eyed dog bound with a string the ends of which can be held on both the sides. 
 </details>

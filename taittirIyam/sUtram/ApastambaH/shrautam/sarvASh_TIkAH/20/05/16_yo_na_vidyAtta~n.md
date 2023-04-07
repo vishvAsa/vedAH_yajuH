@@ -5,5 +5,5 @@ title = "16 यो न विद्यात्तञ्"
 
 <details><summary>थिते</summary>
 
-यो न विद्यात्तं जित्वा तस्य गृहात्खादं पानं चोपनिवपेयुः १६
+16. Having conquered him who does not know they may put (in front of the horse having forcefully taken from him) the food (fodder) and drink. 
 </details>

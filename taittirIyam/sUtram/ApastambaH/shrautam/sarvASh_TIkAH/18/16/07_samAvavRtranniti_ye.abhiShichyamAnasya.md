@@ -5,5 +5,5 @@ title = "07 समाववृत्रन्निति ये ऽभिषि
 
 <details><summary>थिते</summary>
 
-समाववृत्रन्निति ये ऽभिषिच्यमानस्य लेपा व्यवस्रवन्ति ७
+7. (The Adhvaryu) wipes upwards those sticky substances (the sprinkled water) which flow down (from the body) of (the sacrificer)  
 </details>

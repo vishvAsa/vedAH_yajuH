@@ -5,5 +5,7 @@ title = "06 तेषां यावत्य इष्टकास्ताव
 
 <details><summary>थिते</summary>
 
-तेषां यावत्य इष्टकास्तावतीः शर्कराः परिश्रिताः ६
+6. He encloses them with as many pebble-stones as many bricks there are.[^1]   
+
+[^1]: Cf. ŚB IX.4.3.9.  
 </details>

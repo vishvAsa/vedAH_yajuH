@@ -5,5 +5,7 @@ title = "07 यदि न वर्षेद्देवाः"
 
 <details><summary>थिते</summary>
 
-यदि न वर्षेद्देवाः शर्मण्या इति मध्यमायामाबध्नीयात् ७
+7. If it does not rain then he should stick (the skin) on the middle (hood) with devāḥ śarmaṇyāḥ...[^1]  
+
+[^1]: TS II.4.8.a.2. 
 </details>

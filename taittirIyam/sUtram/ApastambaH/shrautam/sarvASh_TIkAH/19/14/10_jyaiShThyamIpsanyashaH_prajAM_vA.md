@@ -5,5 +5,7 @@ title = "10 ज्यैष्ठ्यमीप्सन्यशः प्र�
 
 <details><summary>थिते</summary>
 
-ज्यैष्ठ्यमीप्सन्यशः प्रजां वा त्रिवृतमेव । सप्त पुरस्तात्तिस्रो दक्षिणतः सप्त पश्चात्तिस्र उत्तरत एकां मध्ये १०
+10. One who desires to get prominence, or glory or progeny (should build the fire-altar in) threefold (manner). Thus there should be seven (bricks) in the East, three in the South, seven in the West, three on the North and one in the middle.[^1]  
+
+[^1]: Cf. TB III. 11.9.4-5. 
 </details>

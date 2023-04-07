@@ -5,5 +5,5 @@ title = "01 शतेन राजपुत्रैः सहाध्वर्
 
 <details><summary>थिते</summary>
 
-शतेन राजपुत्रैः सहाध्वर्युः पुरस्तात्प्रत्यङ् तिष्ठन्प्रोक्षत्यनेनाश्वेन मेध्येनेष्ट्वायं राजा वृत्रं वध्यादिति १
+1. Along with one hundred princes the Adhvaryu standing in the east (in front of the horse) with his face to the west, sprinkles (water on) the horse (which is facing the east), with aneāśvena....  
 </details>

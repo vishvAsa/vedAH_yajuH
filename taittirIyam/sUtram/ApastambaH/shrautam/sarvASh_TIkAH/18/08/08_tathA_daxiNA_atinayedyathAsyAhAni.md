@@ -5,5 +5,5 @@ title = "08 तथा दक्षिणा अतिनयेद्यथास
 
 <details><summary>थिते</summary>
 
-तथा दक्षिणा अतिनयेद्यथास्याहानि स्वकालानि स्युः ८
+8. He should lead the Dakṣiṇā cows in such a manner that its (=of Rājasūya) days should be on their own time.'
 </details>

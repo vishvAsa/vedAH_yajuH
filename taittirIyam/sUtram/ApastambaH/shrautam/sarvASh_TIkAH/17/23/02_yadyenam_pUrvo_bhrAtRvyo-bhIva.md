@@ -5,5 +5,5 @@ title = "02 यद्येनम् पूर्वो भ्रातृव्
 
 <details><summary>थिते</summary>
 
-यद्येनं पूर्वो भ्रातृव्योऽभीव स्यादष्टौ गायत्रीः पुरस्ताद्वहिष्पवमानादुपदध्यात् । एकादश त्रिष्टुभः पुरस्तान्माध्यन्दिनात् । द्वादश जगतीः पुरस्तादार्भवात् २
+2. If the enemy in the east is likely to attack him, he should place (eight bricks with) Gāyatri (-verses) before the Bahiṣpavamāna(-laud); eleven... Triṣṭubh... before the Mādhyandina (midday-laud); twelve... Jagatī... before the Ārbhava (-laud). 
 </details>

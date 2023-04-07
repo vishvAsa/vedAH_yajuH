@@ -5,5 +5,5 @@ title = "07 यः परस्ताद्ग्राम्यवादी स
 
 <details><summary>थिते</summary>
 
-यः परस्ताद्ग्राम्यवादी स्यात्तस्य गृहाद्व्रीहीनाहरेत् ७
+7. (The Adhvaryu) should bring rice-grains from the house of him who calls himself the best in the village.  
 </details>

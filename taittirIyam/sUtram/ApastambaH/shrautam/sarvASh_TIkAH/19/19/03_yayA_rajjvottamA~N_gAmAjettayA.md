@@ -5,5 +5,7 @@ title = "03 यया रज्ज्वोत्तमाङ् गामाज
 
 <details><summary>थिते</summary>
 
-यया रज्ज्वोत्तमां गामाजेत्तया भ्रातृव्यगवीमभिदध्याद्गोष्ठे वास्य न्यस्येत् ३
+3. One should tie the cow of the enemy with the tether by means of which one may lead the last (of the looted) cows or one should throw it (the tether) in his cow-stall.[^1]  
+
+[^1]: Cf. TS II.2.6.5. 
 </details>

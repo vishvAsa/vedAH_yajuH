@@ -5,5 +5,6 @@ title = "05 चतुरश्राः परिमण्डला वा"
 
 <details><summary>थिते</summary>
 
-चतुरश्राः परिमण्डला वा धिष्णियाः ५
+5. The Dhiṣṇyas should be four-sided or round. 
+
 </details>

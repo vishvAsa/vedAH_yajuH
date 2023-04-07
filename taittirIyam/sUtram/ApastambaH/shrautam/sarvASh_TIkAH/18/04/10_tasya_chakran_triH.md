@@ -5,5 +5,7 @@ title = "10 तस्य चक्रन् त्रिः"
 
 <details><summary>थिते</summary>
 
-तस्य चक्रं त्रिः प्रदक्षिणमावर्तयति १०
+10. He rotates (the wheel)[^1] of it thrice from left to right (clockwise).   
+
+[^1]: Cp. TB I.3.6.1.  
 </details>

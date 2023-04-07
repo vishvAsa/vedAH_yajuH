@@ -5,5 +5,5 @@ title = "01 शरदि वाजपेयेन यजेत"
 
 <details><summary>थिते</summary>
 
-शरदि वाजपेयेन यजेत ब्राह्मणो राजन्यो वर्द्धिकामः १
+1. A Brahmin or a Kṣatriya who wants to get prosperity should perform the Vājapeya (-sacrifice) in autumn.  
 </details>

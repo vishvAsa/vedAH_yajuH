@@ -5,5 +5,9 @@ title = "08 पृथिव्यै त्वान्तरिक्षाय 
 
 <details><summary>थिते</summary>
 
-पृथिव्यै त्वान्तरिक्षाय त्वा दिवे त्वेति शेषम् ८
+8. with pr̥thivyai tvā... the remaining.[^1]  
+
+[^1]: Cf. TB III.8.7.1-3. 
+  
+
 </details>
