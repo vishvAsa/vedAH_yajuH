@@ -1263,1928 +1263,952 @@ ApśS Translation : THITE
 
 
 ध्रुवक्षितिरिति पञ्चाश्विनीरुपदधाति॥२॥  
-2. With dhruvakṣitiḥ...[^1] he places five Aśvinī-bricks.[^2]   
-
-[^1]: TS IV.3.4.a-e.  
-
-[^2]: Cf. TS V.3.1.1.   
+  
 
 सजूक्रतुभिरिति पञ्चर्तव्या। आश्विनीरनूपधाय॥३॥ 
-3. After having placed the Aśvinī bricks he places the five R̥tavyā[^1] (seasonal bricks) with sajūr r̥tubhiḥ....[^2]   
 
-[^1]: Cf. TS V.3.1.1-2.  
-
-[^2]: TS IV.3.4.f.  
 
 प्राणं मे पाहीति पञ्च प्राणभृत ऋतव्या अनूपधाय॥४॥ 
-4. After having placed the R̥tavya(-bricks) (he places) the five Prāṇabhr̥t[^1] (Breath-holder)(-bricks) with prāṇam me pāhi.[^2]  
 
-[^1]: Cf. TS V.3.1.2.  
-
-[^2]: TS IV.3.4.g.  
 
 अपस्पिन्वेति पञ्चापस्या अनुपरिहारम्॥५॥ 
-5. Carrying (the brick) everytime around (the altar) (keeping the altar to the right)[^1] (he places) the five (Apasyā)[^2] (Watery) (bricks) with apaspinva....[^3]  
 
-[^1]: Cf. TS V.3.1.3.  
-
-[^2]: In TS V.3.13 these bricks are called Vr̥ṣtisani (Shower-winning).  
-
-[^3]: TS IV.3.4.h.  
 
 
 वायोर्यान्यसीति द्वे संयान्यौ॥६॥ 
-6. With (two formulae beginning with) vayoryānyasi[^1] (he places) the two Saṁyānī (Going) (bricks).[^2]  
 
-[^1]: TS IV.4.6.f.  
 
 शुक्रश्च शुचिश्चेति द्वे ऋतव्ये समानतयादेवते॥७॥ 
-7. With the two formulae beginning śukraśca śuciśca[^1] he places the two R̥tavyā (seasonal-bricks) of which (the recitation of) the formula tayā devatayā... is common.  
 
-[^1]: TS IV.4.11.b.  
 
 त्र्यविर्वय इति पञ्च दक्षिणस्यां श्रोण्याम्। पष्ठवाड्वय इति पञ्चोत्तरस्याम्। बस्तो वय इति दक्षिणेऽसे। वृष्णिर्वय इत्युत्तरे। व्याघ्नो वय इति दक्षिणे पक्षे। सिंहो वय इत्युत्तरे। एतद्वा विपरीतम्। पुरुषो वय इति मध्ये। विष्टम्भो वय इति चतस्रो वयस्याः पुरस्तात्प्रतीचीः॥८॥ 
-8. With tryavir vayaḥ....[^1] (he places) five (bricks) on the southwest corner; with paṣṭhavād vayaḥ... five... north-west corner; with basto vayaḥ... south-east corner; with vr̥ṣnir vayaḥ... north-east corner; with vyāghro vayaḥ... southern wing; with siṁho vayaḥ... northern (wing)-or this may be in reverse order-with puruṣo vayaḥ... in the middle; with viṣṭambho vayaḥ... (he places) four Vayasyā (-bricks) from east to west in the front part.[^2]  
-
-[^1]: For the formulae in this Sūtra see TS IV.3.5.  
-
-[^2]: The bricks mentioned in this Sūtra are called Vayasyā bricks. For them cp. TS V.3.1.5.  
+ 
 
 यं कामयेतापशुः स्यादिति वयस्यास्तस्येत्युक्तम्॥९॥ 
-9. It has been said (in a Brāhmaṇa-text): “In connection with whom (sacrificer), (the Adhvaryu) may desire that he should be devoid of cattle, (he should place) the Vayasyā (bricks) for him first and then the water-bricks; (if he may desire that the sacrificer should be a possessor of cattle then in the reverse order)."[^2]   
 
-[^1]: TS V.3.1.4.   
-
-[^2]: See Sūtra 5 above. 
 
 
 ऋषभादिश्चित्यन्तः॥१०॥ 
-10. Then the layer is to be built completely, beginning with (placing of) the Bull-bricks.[^1]   
-
-[^1]: Thus the rites mentioned in XVI.33.8-35.5.  
 
 
 श्वो भूते पौर्वाहिकीभ्यां प्रचर्य तृतीयां चितिं चिनोति॥११॥ 
-11. On the next day, having performed (the Pravargya and Upasad rites) of the morning, (the Adhvaryu) builds the third layer.  
+
 
 
 इन्द्राग्नी अव्यथमानामिति स्वयमातृण्णामभिमृश्याश्वेनोपघ्राप्य विश्वकर्मा त्वा सादयत्वन्तरिक्षस्य पृष्ठ इत्यविदुषा ब्राह्मणेन सह मध्ये ऽग्नेरुपदधाति। भुव इति चैतया व्याहृत्या॥१२॥ 
-12. With indrāgni avyathamānām...[^1] having touched the naturally perforated stone,[^2] then having caused a horse to smell,[^3] he, accompanied by an ingnorant Brahmin, should place it on the central part with viśvakarmā tvā sādayatu...[^4] and with the sacred utterance viz. bhuvaḥ.[^5]   
 
-[^1]: TS IV.3.6.a.  
-
-[^2]: For this cp. XVI.23.1; XVII.3.8.  
-
-[^3]: Cp. XVI.23.1;XVII.3.8.  
-
-[^4]: TS IV.3.6.b.  
-
-[^5]: Cp. XVI.23.1.  
 
 चित्तिं जुहोमीति स्वयमातृण्णायां हुत्वा व्यनिति॥१३॥ 
-13. With cittiṁ juhomi having made a libation (of ghee) on the naturally perforated stone he should breathe (over the stone).[^1]   
 
-[^1]: Cp. XVI.23.2.  
 
 ज्योतिरसि ज्योतिर्मे यच्छेति हिरण्येष्टकाम्॥१४॥ 
-14. With jyotirasi jyotirme yaccha (he places) the golden brick.  
 
-[^1]: Cp. XVI.23.8 and the notes on it.   
 
 
 अधिद्यौरिति मण्डलेष्टकाम्॥१५॥ 
-15. With adhi dyauḥ[^1] (he places) a brick having a mark of circle on it.[^2]  
-
-[^1]: TS IV.4.5.d.  
-
-[^2]: Cp. XVI.23.9 and the note no. 2 on it.   
+  
  
 अत्र रेतःसिचो विवयसः॥१६॥ 
-16. At this time (he places) the Retaḥsic (Semen-pourer) for the sake of a sacrificer of middle age.[^1]  
 
-[^1]: Cp. XVI.24.3-4.  
 
 विश्वकर्मा त्वा सादयत्वन्तरिक्षस्य पृष्ठे ज्योतिष्मतीमिति विश्वज्योतिषम्॥१७॥ 
-17. With viśvakarmā tvā sādayatu...[^1] he places the Viśvajyotis (All-light)[^2] (brick).   
 
-[^1]: TS IV.4.6.b.  
-
-[^2]: Cp. XVI.24.7.  
 
 अन्तरिक्षस्य यान्यसीति द्वे संयान्यौ॥१८॥ 
-18. With antarikṣasya yānyasi he places the two Saṁyānī (Going-) bricks.   
-
-[^1]: TS IV.4.6.g-h. 2. Cp. XVI.24.8.   
+ 
 
 XVII.2 
 नभश्च नभस्यश्चेति चतस्र ऋतव्याः। द्वेद्वे समानतयादेवते॥१॥ 
-1. With nabhaśca nabhasyaśca...[^1] (the Adhvaryu places) the four R̥tavyā (Seasonal) bricks; For each two bricks there should be only one tayā devatayā formula.[^2]   
 
-[^1]: TS IV.4.11.c-d.  
-
-[^2]: Cp. XVI.24.9.  
 
 राज्यसि प्राची दिगिति पञ्च दिश्याः प्रतिदिशमेकां मध्ये॥२॥ 
-2. With rājñyasi... [^1] he places five Diśyā (Direction)[^2] bricks one in each direction and one in the middle.   
 
-[^1]: TS IV.3.6.c.  
-
-[^2]: Cf. TS V.3.2.2.  
 
 
 आयुर्मे पाहीति दश प्राणभृतः पुरस्तादुपधाय॥३॥ 
 षट्त्रिंशतं बृहतीः। मा छन्द इति द्वादश दक्षिणतः। पृथिवी छन्द इति द्वादश पश्चात्। अग्निर्देवतेति द्वादशोत्तरतः।।४॥ 
-3. After having placed ten Prāṇabhr̥t (Breath-holder) (bricks) in the east[^1] with āyur me pāhi...[^2]  
-
-[^1]: C:. TS V.3.2.2-3.  
-
-[^2]: TS IV.3.6.d.   
 
 
 
-4. (he places) thirty-six Br̥hatī (bricks) (in the following manner): with mā chandaḥ[^3] twelve to the south; with pr̥thivī chandaḥ[^4] twelve to the west; and with agnir devatā[^5] twelve to the north.[^6]   
-
-[^3]: TS IV.3.7.a.   
-
-[^4]: TS IV.3.7.a.   
-
-[^5]: TS IV.3.7.a  
-
-[^6]: Cf. For this Sūtra TS V.3.2.4.   
+ 
 
 मूर्धासि राडिति सप्त वालखिल्याः पुरस्तात्प्रतीचीः। यन्त्री राडिति सप्त पश्चात्प्राचीः॥५॥ 
-5. With muūrdhāsi rāṭ...[^1] he places the seven Valakhilyā-(bricks) turned to the west in the east; with yantrī rāṭ...[^2] (he places) the (other) seven Vālakhilyās turned to the east, in the west.[^3]   
 
-[^1]: TS IV.3.7.b.   
-
-[^2]: TS IV.3.7.b.   
-
-[^3]: Cf. TS V.3.2.5.    
 
 अक्ष्णया द्वेष्यस्य प्रसवाय त्वोपयामाय त्वा काटाय त्वार्णवाय त्वा धर्णसाय त्वा द्रविणाय त्वा सिन्धवे त्वा समुद्राय त्वा सरस्वते त्वा विश्वव्यचसे त्वा सुभूताय त्वान्तरिक्षाय त्वेति द्वादश भूतेष्टकाः॥६॥ 
-6. For the sacrificer whom he hates he places the Vālakhilyā-bricks diagonically,[^1] with prasavāya tvopayāmāya ...[^2] (he places) the twelve Bhūta (Being) bricks.[^3]   
 
-[^1]: Cf. MS II.2.9.  
-
-[^2]: KS XL.4; cp. MS III.12.12.   
-
-[^3]: TS V.6.3.1 mentions the Bhūteṣṭakās but does not give the formulae for these.   
 
 
 ऋषभादिश्चित्यन्तः॥७॥ 
-7. Then the layer is to be built completely beginning with (placing of) the R̥ṣabha (Bull bricks).[^1]  
 
-[^1]: Thus the rites mentioned in XVI.33.8-35.5 are to be performed. Cp. XVII.1.10.   
 
 श्वो भूते पौर्वाह्निकीभ्यां प्रचर्य चतुर्थी चितिं चिनोति॥८॥ 
-8. On the next day having performed the (Pravargya and Upasad-rites) of the morning, (the Adhvaryu) builds the fourth layer.   
+
 
 आशुस्त्रिवृदग्नेर्भागो ऽसीत्येताभ्यामनुवाकाभ्यां यथा ब्राह्मणमुपधा यान्तरिक्षमस्यन्तरिक्षाय त्वेति द्वे संयान्यौ॥९॥ 
-9. With two sections[^1] beginning with āśustrivr̥t and agnerbhāgo'si having placed (the Akṣṇayāstomīya-bricks) in accordance with the details mentioned in the Brāhmaṇa,[^2] he places the two Saṁyāni (Going) (bricks) with antarikṣamasi...[^3]  
-
-[^1]: TS IV.3.8.and 9.  
-
-[^2]: TS V.3.3. Here the details about the direction in which the particular brick is to be placed and the formula which accompanies it are given.  
-
-[^3]: TS IV.4.6.h; Cp. Āpsśs XVI.24.8, XVII.1.18.  
+ 
 
 सहश्च सहस्यश्चेति द्वे ऋतव्ये समानतयादेवते॥१०॥ 
-10. With sahaśca sahasyaśca...[^1] he places the two R̥tavya (-bricks) for which the formula tayā devatayā is to be used commonly.[^2]   
 
-[^1]: TS IV.4.11.e.  
-
-[^2]: Cp. XVI.24.9, XVII.2.1.  
 
 एकयास्तुवतेति सप्तदश सृष्टीः॥११॥ 
-11. With ekayāstuvata...[^1] (he places) the seventeen Sr̥ṣṭi (creation-bricks).[^2]   
 
-[^1]: TS IV.3.10.  
-
-[^2]: Cf. TS V.3.4.7.  
 
 इयमेव सा या प्रथमा व्यौच्छदिति षोडश व्युष्टीः॥१२॥ 
-12. With iyameva sā yā prathamā...[^1] he places the sixteen[^2] Vyuṣṭi (Shining-) (bricks).[^2]   
-
-[^1]: TS IV.3.11.  
-
-[^2]: For the sixteenth brick TS I.4.33 is used as an accompanying verse.   
-
-[^3]: Cf. TS V.3.4.7.  
 
 ऋषभादिश्चित्यन्तः॥१३॥ 
-13. Then the layer is to be built completely beginning with (placing of) the Bull-bricks.[^1]  
-
-[^1]: Thus the rites mentioned in XVI.33.8-35.5 are to be performed. Cp. XVII.1.10; 2.7.  
 
 ## 17.03
 श्वो भूते पौर्वाह्निकीभ्यां प्रचर्य पञ्चमी चितिं चिनोति॥१॥ 
-1. On the next day, after having performed the Pravargya and Upasad-rites of the morning (the Adhvaryu) builds the fifth layer.  
 
 
 अग्ने जातान्प्र णुदा नः सपत्नानिति पुरस्तादुपदधाति। सहसा जातानिति पश्चात्। चतुश्चत्वारिंश स्तोम इति दक्षिणतः। षोडश स्तोम इत्युत्तरतः॥२॥ 
-2. With agne jātān pra ṇudā sapatnān[^1] (he places) an Asapatna (Enemyless-brick) in the east; sahasā jātān... in the west; catuścatvārimśa stomaḥ in the south; ṣoḍaśa stomaḥ in the north.   
 
-[^1]: For the formulae see IV.3.12.a-d.  
-
-[^2]: Cf. TS V.3.5.1-2.  
 
 
 इष्टकायां पुरीषमध्यूह्य पृथिव्याः पुरीषमसीति मध्ये ऽग्नेः पुरीषवतीम्॥३॥ 
-3. Having kept loose soil on a brick he places (this) brick with loose soil[^1] in the central part of the fire-altar-building with purīṣam asi.[^2]   
 
-[^1]: Cf. TS V.3.5.2.  
-
-[^2]: TS IV.3.12.e.  
 
 
 एवश्छन्दो वरिवश्छन्द इति चत्वारिंशतं विराजो दशदश प्रतिदिश मक्ष्णया।।४॥ 
-4. With evaśchando varivaśchandaḥ[^1] he places forty Virāj (-bricks) diagonically, ten in each direction.  
 
-[^1]: TS IV.3.12.f.  
-
-[^2]: Cf. TS V.3.5.3-4.  
 
 रश्मिरसि क्षयाय त्वा क्षयं जिन्वेति स्तोमभागाः। सप्तसप्त प्रतिदिशम्। अवशिष्टा मध्ये॥५॥ 
-5. With raśmirasi...[^1] he places the Stomabhāga (-bricks): seven in each direction; the remaining in the middle.[^2]  
 
-[^1]: TS IV.4.1.  
-
-[^2]: Cf. TS V.3.5.5. 
 
 राजयसि प्राची दिगिति पञ्च नाकसदः प्रतिदिशमेकां मध्ये॥६॥ 
-6. With rajñyasi prācī dik...[^1] (he places) the five Nākasad (Sitting in the Heaven) (bricks): one in each direction, one in the middle.[^2]   
 
-[^1]: TS IV.4.2.a-e.  
-
-[^2]: TS V.3.7.1.  
 
 तासु पुरीषमध्यूह्यायं पुरो हरिकेश इति पञ्चचोडा अभ्युपदधाति। द्वेष्यं मनसा ध्यायन्पश्चात्प्राचीमुत्तमाम्॥७॥ 
-7. Having kept loose soil,[^1] with ayaṁ puro harikeśaḥ[^2] he places the PañcacoḌā (Five-chignoned) (bricks while meditating on the enemy; (he places) the last one in the west with its face to the easts.   
 
-[^1]: Cf. ŚB VIII.6.1.22.   
-
-[^2]: TS IV.4.3.a-e.  
-
-[^3]: Cf. TS V. 3.7.2-3.  
 
 आयोस्त्वा सदने सादयामीति स्वयमातृण्णामभिमृश्याश्वेनोपघ्राप्य परमेष्ठी त्वा सादयतु दिवः पृष्ठ इत्यविदुषा ब्राह्मणेन सह मध्ये ऽग्नेरुपदधाति। सुवरिति 
 चैतया व्याहृत्या॥८॥ 
-8. With āyostvā sadane sādayāmi[^1] having touched the naturally perforated stone,[^2] having then caused the horse to smell it, along with an ignorant Brāhmaṇa he places it in the central part of the fire (-altar-building) with parameṣṭhi tvā sādayatu[^3] and with the sacred utterance suvaḥ.[^4]   
-
-[^1]: TS IV.4.3.g.  
-
-[^2]: Cp. XVI.23.1; XVII.1.12. This is the third and the last naturally perforated stone.   
-
-[^3]: TS IV.4.3.h.  
-
-[^4]: Cf. TS V.5.5.3; cp. XVI.23.1.; XVII.1.12.  
 
 
 चित्तिं जुहोमीति स्वयमातृण्णायां हुत्वापान्य प्रोथदश्व इत्युत्तरेऽसे विकर्णीम्॥९॥ 
-9. With cittiṁ juhomi having made a libation (of ghee) on the naturally perforated stone, then having breathed over it,[^1] he places the Vikarṇī (-brick)[^2] on the north-eastern corner with prothadaśvaḥ.[^3]   
 
-[^1]: Cp. XVI.23.2. and XVII.1.13. 
-
-[^2]: The brick on which there is a figure of a Visakhakarni stri on it Cf. Mahāgnisarvasva on Baudhass XXX.6.  
-
-[^3]: TS IV.4.3.i.  
 
 तेनान्याभिरिष्टकाभिरभ्युपदधाति॥१०॥  
-10. He does not place any other bricks on these two.[^1]   
-
-[^1]: Cf. TS V.3.7.3. The Garbe's text should be corrected as te nānyābhiriṣṭakābhirabhyupadadhati.  
 
 ## 17.04
 सुवरसि सुवर्मे यच्छेति हिरण्येष्टकाम्॥१॥ 
-1. With suvarasi suvarme yaccha...[^1] (the Adhvaryu places) the golden brick.[^2]  
-
-[^1]: TS V.7.6.c.c.  
-
-[^2]: Cf. TS V.7.6.2-3. Cp. XVI.23.9; XVII.1.  
 
 15. द्यौरपराजितेति मण्डलेष्टकाम्॥२॥ 
-2. With dyauraparājitā[^1] (he places brick) having a marked circle on it[^2].   
 
-[^1]: TS IV.4.5.e.  
-
-[^2]: Cf. TS V.3.9.2; cp. XVI.23.9; XVII.1.15.   
 
 अत्रैकां रेतःसिचं स्थविरस्य॥३॥ 
-3. At this time he places one Retaḥsic (Semen-pourer) (brick) (in the case) of an old (sacrificer).[^1]  
 
-[^1]: Cp. XVI.24.4.  
 
 प्रजापतिस्त्वा सादयतु दिवः पृष्ठे ज्योतिष्मतीमिति विश्वज्योतिषम्॥४॥ 
-4. With prajāpatistvā sādayatu...[^1] (he places) the Viśvajyotis (All-light) (-brick).   
 
-[^1]: TS IV.4.6.c.  
-
-[^2]: Cf. TS V.39.2; cp. XVI.24.7; XVII.1.17.  
 
 
 तपश्च तपस्यश्चेति द्वे ऋतव्ये समानतयादेवते॥५॥ 
-5. With the two formulae beginning with tapśca tapasyaśca[^1] (he places) the two R̥tavyā (Seasonal) (bricks) the tayā devatayā...[^2] (formula) for which is common for both.   
 
-[^1]: TS IV.4.11.f.  
-
-[^2]: Cf. TS V.4.2.1; cp. XVI.24.9; XVII.2.1. 
 
 
 देवानां यान्यसि देवानां देवयान्यसीति द्वे संन्यान्यौ।६॥ 
-6. With devānāṁ yānyasi...[^1] he places the two Saṁyānī (Going) (bricks).[^2]   
 
-[^1]: MS III.8.13; KS XXII.5.  
-
-[^2]: Cp. XVI.24.8;XVII.1.18.  
 
 संन्यान्यावृतव्ये विश्वज्योतिषं रेतःसिचं हिरण्येप्टकां मण्डलेप्टकां विकर्णी स्वयमातृण्णामित्येवमनुपूर्वा एके समामनन्ति॥७॥ 
-7. According to the opinion of some (ritualists)[^1] (there should be) the Saṁyānī, two R̥tavyās, Viśvajyotis, Retaḥsic, Hiraṇyeṣṭaka, Maṇḍaleṣṭaka, Vikarṇī, Svayamātr̥ṇṇā (bricks) in this order.   
-
-[^1]: Perhaps the followers of ŚB VII.7.1.9.   
+ 
 
 आपराह्निकीभ्यां प्रचर्योदुम्बरीः समिधो घृते वासयति॥८॥ 
-8. After having performed the (Pravargya and Upasad rites) of the afternoon, he keeps (three) fuel-sticks of Udumbara wood in ghee[^1] throughout the night.  
 
-[^1]: For the ritual mentioned in XVII.14.5.  
 
 श्वो भूते पौर्वाह्निकीभ्यां प्रचर्य पञ्चम्याश्चितेः शेषं याज्ञसेनी चितिं चिनोति॥९॥ 
-9. On the next day after having performed the (Pravargya and Upasad-rites) of the morning, he builds the Yajñaseni-layer[^1] as a part of the fifth layer.   
-
-[^1]: The brick mentioned in the next Sūtra is called “Yājñaseni citi” because it was taught by Yajñasena to the son of Citriya. The work of building the fifth layer requires two days (see XVI.35.9).  
 
 अग्निर्मूर्धेति तिस्त्रो गायत्रीः पुरस्तादुपदधाति। एवमुत्तराणि त्रीणित्रीणि। त्रिष्टुभो दक्षिणतः। जगतीः पश्चात्। अनुष्टुभ उत्तरतः। बृहतीरुष्णिहाः पङ्क्ती रक्षरपड्.क्तीरिति विषुरूपाणि छन्दांसि यथावकाशम्। अतिच्छन्दसं मध्ये। द्विपदा अन्ततः॥१०॥ 
-10. With agnir mūrdhā...[^1] he places the three Gāyatris to the east (of the naturally perforated stone)[^2]; in the same manner each of the three next (bricks): Thus the Triṣṭubhs to the South; the Jagatīs to the west; the Anuṣṭubhs to the North; the bricks connected with metres of different forms viz. Br̥hatī Uṣṇnih, Paṅkti, Akṣarapaṇkti, in accordance with the available space; the Dvipadās at the end.  
 
-[^1]: TS IV.4.4.ac.  
-
-[^2]: Cf TS V.3.8.1.  
 
 
 अन्यत्र साहनात्पशुकामस्य गोचितिं चिनोति॥११॥ 
-11. Except the one-thousand-brick (fire-altar-building)[^1] he should build the Gociti (Cow-building)[^2] for the sacrificer desirous of cattle.   
-
-[^1]: See XVI.13.11.  
-
-[^2]: See for this XVII.4.12-5.1.  
 
 सहस्रं पादमात्रीरिष्टकाः॥१२॥ 
-12. (In it there should be) one thousand bricks of the size of one foot.  
+
 
 ताः प्रथमायां चित्यां मध्यमायामुत्तमायां वोपदध्यात्॥१३॥ 
-13. He places them either in the first or the middle or the last layer.  
+
 
 ## 17.05
 अग्ने गोभिर्न आ गहीत्यनुवाकेन प्रतिमन्त्रं पुनःपुनरभ्यासम्॥१॥  
-1. (The Adhvaryu) places them each one with a formula from the section beginning with agne gobhir na ā gahi[^1] repeating (the formulae) again and again (upto one thousandth brick).   
 
-[^1]: TS II.4.5.  
 
 इन्द्राग्निभ्यां त्वा सयुजा युजा युनज्मीत्यष्टौ सयुजः॥२॥ 
-2. With indrāgnibhyāṀ tvā sayujā yujā...[^1] (he places) the eight Sayuj (Yoked-together) (bricks).[^2]   
 
-[^1]: TS IV.4.5.  
-
-[^2]: Cf. TS V.3.9.1.  
 
 रोहितेषु त्वा जीमूतेषु सादयाम्यरुणेषु त्वा कृष्णेषु त्वा नीलेषु त्वा सितेषु त्वा जीमूतेषु सादयामीति पञ्च जीमूताः॥३॥ 
-3. With rohiteṣu tvā jīmūteṣu...[^1] (he places the five Jīmūta (Cloud-bricks).   
-
-[^1]: KS XL.4.  
 
 अम्बा नामासीति सप्त कृत्तिकाः॥४॥  
-4. With ambā nāmāsi...' (he places) seven Kịttikā ( 
-bricks).  
 
-[^1]: TS IV.4.5.b.  
-
-[^2]: Cf. TS V.3.9.1.  
 
 पुरोवातसनिरसीति पञ्च वृष्टिसनीरनुपरिहारम्॥५॥ 
-5. With purovātasnirasi...' (he places) the five Vṣsṭisani (Rain-winner) (bricks) in the circular manner.2   
 
-[^1]: TS IV.4.6.d.  
-
-[^2]: Cf. V.3.10.1. The first brick is to be placed in the east, the second in the south, the third in the west, the fourth in the north and the fifth in the middle.  
 
 HII etalGrecht:11€ 11  
-6. With salilāya tvā...[^1] (he places) the eight Āditya (bricks).   
 
-[^1]: TS IV.4.6.f.  
-
-[^2]: Cf. TS V.3.10.2-3.   
 
 ऋचे त्वा रुचे त्वेति पञ्च घृतेष्टका अनुपरिहारम्॥७॥ 
-7. With rce tvā ruce tvā...[^1] (he places) the five Ghr̥ta( Ghee-bricks)[^2] in the circular manner.[^3]   
 
-[^1]: TS IV.4.6.k.  
-
-[^2]: These are not the bricks in the literal sense. They are simply libations of ghee metaphorically treated as bricks.  
-
-[^3]: Cf. TS V.3.10.3-4. See also the next Sūtra and XVI. 13.10. For the circular manner see the note on 5th Sūtra above.  
 
 आदित्येष्टकाभिघृतपिण्डान्व्यतिषक्तानिति वाजसनेयकम्॥८॥ 
-8. According to the view of the Vājsaneyins[^1] “He should place the Aditya-bricks and balls of ghee alternately (one Āditya brick and one ghee ball; then the next Āditya-brick and the next ghee-ball and so on)."   
 
-[^1]: The exact source not known.  
 
 यशोदां त्वेति पञ्च यशोदाः॥९॥ 
-9. With yaśodāṁ tvā[^1] he places the five Yaśodā (Glory giver-) (bricks).[^2]   
 
-[^1]: TS IV.4.7.a.  
-
-[^2]: Cf. TS V.3.11.1-2. 
 
 
 भूयस्कृदसीति पञ्च भूयस्कृतः॥१०॥ 
-10. With bhūyaskr̥dasi...[^1] (he places) the five Bhūyaskr̥t (More-making) (bricks).[^2]   
 
-[^1]: TS IV.4.7.a.  
-
-[^2]: Cf. TS V.3.11.1-2.  
 
 
 अप्सुषदसीति पञ्चाग्निरूपाणि॥११॥ 
-11. With apsuṣadsi...[^1] (he places) the five Agnirūpa (Fire form) (bricks).  
-
-[^1]: TS IV.4.7.b.  
-
-[^2]: Cf. TS V.3.11.2.  
+  
 
 पृथिव्यास्त्वा द्रविणे सादयामीति पञ्च द्रविणोदाः॥१२॥ 
-12. With pr̥thivyās tvā draviṇe sādayāmi[^1] (he places) the five Draviṇodas (Wealth-giver) (bricks).[^2]   
 
-[^1]: TS IV.4.7.c.  
-
-[^2]: Cf. V.3.11.2.  
 
 
 प्राणं मे पाहीति षडायुष्याः॥१३॥ 
-13. With prāṇam me pāhi...[^1] (he places) the six Ayuṣya (Life) (-bricks).[^2]  
 
-[^1]: TS IV.4.7.d.  
-
-[^2]: Cf. TS V.3.11.2-3.  
 
 
 अग्ने यत्ते परं हृन्नामेत्यग्नेर्हृदयम्॥१४॥ 
-14. With agne yatte paraṁ hr̥nnāma...[^1] (he places) the (brick named) “Heart of the fire".[^2]   
 
-[^1]: TS IV.4.7.e.  
-
-[^2]: Cf. TS V.3.11.3.  
 
 यावा अयावा इति सप्तर्तव्याः॥१५॥ 
-15. With yāvā ayāvā...[^1] (he places) the seven R̥tavyā (Seasonal) (bricks)[^2].   
 
-[^1]: TS IV.4.7.f.  
-
-[^2]: Cf. TS V.3.11.3.  
 
 या देव्यसीष्टक आयुर्दा उपशीवरी। सा मामुपशेष्व जायेव पतिमित्सदा॥ या देव्यसीष्टके प्राणदा अपानदा व्यानदाश्चक्षुर्दा श्रोत्रदा वाग्दा आत्मदाः 
 987 
 पथिविदा अन्तरिक्षदा द्यौर्दा स्वर्दाः कुमारीदाः प्रफर्विदाः प्रथमौपशदा युवतिदा उपशीवरी। सा मामुपशेष्व जायेव पतिमित्सदेति षोडशोपशीवरीः॥१६॥ 
-16. With yā devyasīṣṭake...[^1] (he places) the sixteen Upaśīvarī (Sleeping near) (bricks).   
 
-[^1]: KS XXXIX.9.  
 
 ## 17.06
 अभीषाच्चाभिषवी चाभिवयाश्चोर्ध्ववयाश्च बृहद्वयाश्च सवयाश्च सह्वांश्च सहमानश्च सहस्वांश्च सहीयांश्चेति दशेन्द्रनामानि॥१॥ 
-1. With abhīṣāccābhiṣavi ca...[^1] (the Adhvaryu) places the ten (bricks called) Indranāmāni (Indra's Names).   
 
-[^1]: KS XXXIX. 11 (with some changes).  
 
 अग्निना विश्वाषाडिति द्वाविंशतिमिन्द्रतनूः॥२॥ 
-2. With agninā viśvāṣāṭ...[^1] (he places) the twenty-two Indratanū (Indra's forms) (bricks).[^2]  
-
-[^1]: TS IV.4.3.  
-
-[^2]: Cf. TS V.4.1.1.  
+ 
 
 प्रजापतिर्मनसान्धो ऽच्छेत इति त्रयस्त्रिंशतं यज्ञतनूः॥३॥ 
-3. With prajāpatir manasāndhoccheta...[^1] (he places) the thirtythree Yajñatanū (Forms of sacrifices) (bricks).[^2]  
 
-[^1]: TS IV.4.9.  
-
-[^2]: Cf. TS V.4.1.1.   
 
 ज्योतिष्मती त्वा सादयामीति द्वादश ज्योतिष्मतीः॥४॥ 
-4. With jyotiṣmatīṁ tvā sādayāmi....[^1] (he places) the twelve Jyotiṣmatī (Bright) (bricks).[^2]  
-
-[^1]: TS I.4.34.  
-
-[^2]: Cf. V.4.1.3.  
+ 
 
 पूर्णा पश्चादिति पौर्णमासी पुरस्तादुपधाय कृत्तिका नक्षत्रमिति नक्षत्रेष्टकाः पुरस्तात्प्रतीचीरसंस्पृष्टकाः॥५॥ 
-5. After having kept the Paurṇamāsī (Full-moon-)(brick) in the east with purṇā paścāt...,[^1] he places the Nakṣatra (Constellation) (bricks)[^2] in the east with their faces to the west, without letting them touch each other, with kṛttikā nakṣatram....[^3]  
 
-[^1]: TS IV.4.10.c.a.  
-
-[^2]: Cf. TS V.4.1.4.  
-
-[^3]: TS IV.4.10.a and b.  
 
 पूर्वामुपधायापरामपरामा विशाखाभ्याम्॥६॥ 
-6. Each time after having placed the earlier (brick) Che places) the next (brick) upto the Viśākhā-brick.  
+
 
 दक्षिणेन स्वयमातृण्णां रीतिं प्रतिपादयति॥७॥ 
-7. He brings the line up to the south of the naturally per forated (stone).  
 
 यत्ते देवा अदधुरित्यमावास्यां पश्चादुपधायावशिष्टानां पूर्वांपूर्वामापभर णीभ्यः॥८॥ 
-8. After having placed the Amāvāsyā (New-moon) (brick) with yat te devā adadhuḥ...[^1] in the west, (he places)[^2] each time one of the remaining bricks to the east of the earlier one) upto Apabharaṇī (brick).  
 
-[^1]: TS IV.4.10.c.b.  
-
-[^2]: With TS IV.4.10.b.  
 
 उत्तररेण स्वयमातृण्णां रीतिं प्रतिपादयति॥९॥ 
-9. He brings the line upto the north of the naturally perforated stone.   
+
 
 पौर्णमासीमन्ततः॥१०॥  
-10. The full-moon(-brick) at the end.  
+
 
 ऋचे त्वा रुचे त्वेति सर्वासु नक्षत्रेष्टकास्वनुषजति॥११॥ 
-11. He adds R̥ce tvā ruce tvā[^1] to all (each formulae used for placing) the Nakṣatra(-bricks).   
 
-[^1]: TS IV.4.10.a.b.  
 
 ## 17.07
 हिरण्यगर्भः समवर्ततान इत्यष्टौ सरितः॥१॥ 
-1. With hiraṇyagarbhaḥ samavartatāgre...[^1] (the Adhvaryu) places the eight Sarit (River) (bricks).  
-
-[^1] TS IV.1.8.n-u. 
 
 
 
 विश्वकर्मा दिशां पतिरिति पञ्च हिरण्येष्टकाः प्रतिदिशमेकां मध्ये॥२॥ 
-2. With viśvakarmā diśāṁ patiḥ...[^1] (he places) the five golden bricks one in each direction; one in the middle.  
 
-[^1]: TS V.5.5.1.  
 
 प्राणाय त्वा चक्षुषे त्वेति चतस्त्रः स्वयमातृण्णाः प्रतिदिशम्॥३॥ 
-3. With prāṇāya tvā cakṣuśe tvā...[^1] (he places) the four naturally perforated (stones) one in each direction.   
 
-[^1]: TS V.5.5.4.   
 
 अग्न आ याहि वीतये॥ अग्निं दूतं वृणीमहे॥ अग्निनाग्निः समिध्यते॥ अग्निर्वृत्राणि जङ्घनत्॥ अग्ने स्तोमं मनामहे सिध्रमद्य दिविस्पृशम्॥ देवस्य द्रविणस्यव इति पञ्चाह्नां रूपाणि॥४॥ 
-4. With agna ā yāhi...' (he places) the five forms of days.?  
 
-[^1]: TS V.5.6.a-e.  
-
-[^2]: Cf. TS V.5.6.2.  
 
 अथ व्रतमुपदधाति॥५॥  
-5. Then he places the Vrata.[^1]  
 
-[^1]: This ritual ends with XVII.9.2. Vrata is the same as the Mahāvrata; see Māśs VI.2.3.1. Perhaps the verses on which Vrata is sung are meant.  
 
 प्राच्या त्वा दिशा सादयामीति पञ्चात्मेष्टकाः प्रतिदिशमेकां मध्ये॥६॥ 
-6. With pracyā tvā diśā sādayami...' (he places) five Ātman (Trunk) (-bricks): one in each direction one in the mid dle.2  
 
-[^1]: TS V.5.8.2-3..  
-
-[^2]: Cf. TS V.5.8.3-4.  
 
 संयच्च प्रचेताश्चेति पञ्च वैश्वदेवीरात्मनि द्वेष्यं मनसा ध्यायन्॥७॥ 
-7. With saṁyacca pracetāśca...' (he places) the five Vaiśvadevi (bricks belonging to All-gods) on the trunk of the fire-altar-building while thinking about the enemy in his mind.  
-
-[^1]: TS IV.4.11.h-n. The last formula is to be added to each of the preceding formulae.  
-
-[^2]: Cf. TS V.4.7.2-3.   
-
-Here, however, these bricks are called Adhipatnis.  
 
 कया नश्चित्र आ भुवदूती सदावृधः सखा। कया शचिष्ठया वृता॥ कस्त्वा सत्यो मदानां मंहिष्ठो मत्सदन्धसः। दृढा चिदारुजे वसु॥ अभी ष णः सखी नामाविता जरितॄणाम्। शतं भवास्यूतिभिरिति वामदेव्यम्॥८॥ 
-8. With kaya naścitra ā...[^1] (he places) the Vāmadevya (brick),[^2]  
 
-[^1]: KS XXXIX.12.  
-
-[^2]: The Sūtra is in complete. See the first Sūtra of the next section.  
 
 
 ## 17.08
 
 दक्षिणत आत्मनि॥१॥  
-1. to the south of the trunk (of the fire-altar-building).[^1]   
 
-[^1]: Read this Sūtra along with XVII.7.8.  
 
 इन्द्रो दधीचो अस्थभिव॒त्राण्यप्रतिष्कुतः। ववक्षुरुग्रो अस्तृत इत्यथर्वशिरो दशातिषक्ताः ॥२॥ 
-2. With indro dadhico asthabhiḥ... [^1] (the Adhvaryu places) the ten (bricks)[^2] close to each other as the head of the Atharvan, in the east[^3] (of the Fire-altar-building).   
 
-[^1]: TB I.5.8.1ff; cp. KS XXXIX.12.  
-
-[^2]: Cf. TS V.6.6.3.  
-
-[^3]: The word pūrvārdhe of the Sūtra 3 in Garbe's text should be brought here. Cf. also Mass VI.2.2.20.   
 
 पूर्वार्धे विद्यते शिरसो निरूहणम्। न विद्यत इत्यपरम्॥३॥ 
-3. There is the act of taking out of the head; there is not this is another (view).[^1]   
 
-[^1]: This Sūtra is difficult Perhaps it refers to the head part of the fire altar-building which is in the form of a bird.  
 
 
 अभि त्वा शूर नोनुमो ऽदुग्धा इव धेनवः। ईशानमस्य जगतः सुवरदृश मीशानमिन्द्र तस्थुषः। ईशानमिन्द्र तस्थुषः। न त्वावाँ अन्यो दिव्यो न पार्थिवः। न जातो न जनिष्यते अश्वायन्तो मघवन्निन्द्र वाजिनः। गव्यन्तस्त्वा हवामह इति रथंतरं दक्षिणे पक्षे ऽध्यात्मन्नपवर्गः॥४॥ 
-4. With two verses abhi tvā śūra...[^1] (he places) the Rathantara-sāman-bricks in such a manner that the last (brick) (will be placed) on the trunk.[^2]   
 
-[^1]: KSXXYIX.12. For detais see the next two Sutras.  
 
 
 प्रथमामुपधाय द्वितीयामथ विशयाम्॥५॥ अर्धमात्मन्यर्धं पक्षे॥६॥ 
-5. Having placed the first and the second on the wing (part), he places the separately lying (Visayā) (brick)  
 
-6. with its half part on the trunk and half on the wing.   
+
+
 
 त्वामिद्धि हवामहे साता वाजस्य कारवः। त्वां वृत्रेष्विन्द्र सत्पतिं नरस्त्वां काष्ठास्वर्वतः। त्वां काष्ठास्वर्वतः। स त्वं नश्चित्र वज्रहस्त धृष्णुया। मह स्तवानो अद्रिवः। मह स्तवानो अद्रिवः। गामश्वं रथ्यमिन्द्र सं किर। सत्रा वाजं न जिग्युष इति बृहदुत्तरे पक्षे॥७॥  
-7. With tvāmiddhi havāmahe...[^1] (he places) the Br̥hatsām-an (-brick) on the left wing.  
-
-[^1]: KS XXXIX. 12. Here also with two verses three bricks are kept.  
 
 तस्य रथंतरवत्कल्पः॥८॥  
-8. Its procedure is the same as that of Rathantara.[^1]  
 
-[^1]: See Sūtras 5 and 6.  
 
 XVII.9 
 यज्ञायज्ञा वो अग्नये गिरागिरा च दक्षसे। प्रप्र वयममृतं जातवेदसं प्रियं मित्रं न शंसिषम्। प्रियं मित्रं न शंसिषम्। ऊर्जा नपातं स हिनायमस्मयुः। दाशेम हव्यदातये। दाशेम हव्यदातये। भुवद्वाजेष्वविता भुवद्वधः। उत त्राता तनूनामिति यज्ञायज्ञियं पुच्छे॥१॥ 
-1. With two verses yajñā yajñā vo agnaye...[^1] (the Adhvaryu) places the Yajñāyajñiya (-sāman-brick) on the tail.  
 
-[^1]: KS XXXIX.12.  
 
 तस्य रथंतरवत्कल्पः॥२॥  
-2. Its procedure is the same as that of Rathantra.'  
 
-[^1]: See XVII.8.5-6.  
 
 त्वामग्ने वृषभमित्वृषभमुपधाय संवत्सरस्य प्रतिमामिति प्राजापत्याम्॥३॥  
-3. Having placed the Vr̥ṣabha (Bull) (-brick) with evāmagne vr̥sabham...[^1] (he places) the Prājāpatyā(-brick) with saṁvatsarasya pratimām....[^2]  
-
-[^1]: TS V.7.2.a. See XVI.33.7.  
-
-[^2]: T V.7.2.b. For this Sūtra cf. TS V.7.2.1-2.  
+ 
 
 शतायुधाय शतवीर्यायेति पञ्चाज्यानीः प्रतिदिशमेकां मध्ये॥४॥ 
-4. Then with the five verses śatāyudhāya śatavīryāya..[^1] (he places) the five Ajyāni(-bricks)[^2] one in each direction, one in the middle.  
 
-[^1]: TS V.7.2.d-h.  
-
-[^2]: Cf. TS V.7.2.5.  
 
 इन्द्रस्य वज्रो ऽसीति चतस्त्रो वन्त्रिणीः प्रतिदिशमश्मन इषुहस्त उपद धाति॥५॥ 
-5. With indrasya vajro'si...[^1] carrying an arrow in his hand he places the four Vajriṇi (Having thunderbolt) (bricks)[^2] one in each direction.   
 
-[^1]: TS V.7.3.A.  
-
-[^2]: i.e. four stones.  
-
-[^3]: Cf. TS V.7.3.1-2.  
 
 इन्द्रस्य वन्तो ऽसि वात्रघ्नस्तनूपा नः प्रतिस्पशः। यो न उपरिष्टाद घायुरभिदासत्येतं सो ऽश्मानमृच्छत्विति मध्ये पञ्चमीमेके समामनन्ति॥६॥ 
-6. According to the opinion of some (ritualists) (he should also place the fifth brick with indrasya vajro'si...[^1] (adding the words), yo na upariṣṭād....   
 
-[^1]: TS V.7.3.a.  
 
 पृथिव्यै त्वान्तरिक्षाय त्वा दिवे त्वेति तिम्रो लोकेष्टकाः॥७॥ 
-7. With (the three formulae) pr̥thivyai tvāntarikṣāya...[^1] (he places) the three Loka-(World) bricks.   
 
-[^1]: TS I.3.6.a.  
 
 अग्नये त्वा पवमानायाग्नये त्वा पावकायाग्नये त्वा शुचय इति तिस्त्रः पवमानीः॥८॥ 
-8. With (the three formulae) agnaye tvā pavamānāya...[^1] (he places) the three Pāvamānī (-bricks).  
 
-[^1]: See V.21.5.
 
 ## 17.10
 ऋचा त्वा छन्दसा सादयामि वषट्कारेण त्वा छन्दसा सादयामि हिङ्कारेण त्वा छन्दसा सादयामि प्रस्तावेन त्वा छन्दसा सादयामि प्रतिहारेण त्वा छन्दसा सादयाम्युद्गीथेन त्वा छन्दसा सादयामि निधनेन त्वा छन्दसा सादयामीति सप्त च्छन्दस्याः॥१॥ 
-1. With (seven formulae) r̥cā tvā chandasā sādayāmi...[^1] (the Adhvaryu places) the seven Chandasyā (Vedic) (bricks).  
 
-[^1]: Cp. MS II.14.4.  
 
 अग्ने यशस्विन्निति चतस्त्रो राष्ट्रभृतः पुरस्तादुपधाय हिरण्येप्टकाभिः सर्वतो मुखमुपदधाति॥२॥ 
-2. After having placed the four Rastrabhr̥t (Kingdom holder) (bricks) in the east with agne yaśasvin...[^1] (he places) the golden bricks in such a manner that the fire-altar-building faces everywhere.   
 
-[^1]: Cf. TS V.7.4.4.  
-
-[^2]: TS V.7.4.e.   
 
 गायत्री पुरस्तादुपदधातीत्युक्तम्॥३॥ 
-3. It is said (in a Brāhmaṇa-text): "He places the Gāyatrī in the front, (Triṣṭubh to the right, Jagati to the back, Anuṣṭubh to the left and Paṅkti in the middle)."[^1]   
-
-[^1]: TS V.7.9.4.  
+ 
 
 अथैकेषाम्। गायत्री पुरस्तादुपदधाति त्रिष्टुभं दक्षिणतो जगतीं पश्चादनुष्टुभमुत्तरतः पङ्क्ति मध्ये। इत्येताभिः सर्वाभिः सर्वतो मुखमुप दधाति।।४॥ 
-4. Now according to some “He places Gāyatri in the front, Triṣṭubh to the right, Jagatī to the back, Anuṣṭubh to the left and Paṅkti in the middle. With all these (verses and bricks) he builds the fire altar-building facing everywhere."   
 
-[^1]: I is not known who these “some” are. But the view of Taittirīyakas (see the Sūtra) is not different from the view of these “some”.  
 
 गायत्र्यादयो भवन्ति पङ्क्तयुदयनाः॥५॥ 
-5. (The verses used at this time) are beginning with Gāyatri and end with Paṅkti.  
+
 
 
 अग्निमूर्धा। भुवः। जनस्य गोपाः। त्वां चित्रश्रवस्तम। अग्ने तमद्याश्वमित्येता आम्नाता भवन्ति॥६॥ 
-6. The following verses are mentioned to be used there agnir mūrdhā... bhuvaḥ... janasya gopāḥ..., tvāṁ citraśravastama..., agne tamadyāśvam....[^1]   
+ 
 
 अग्न आ याहि वीतय इति चैताभिः सर्वतो मुखमुपधाति॥७॥ 
-7. Or[^1] with the verses beginning agna ā yāhi vītaye he places the bricks in such a way that it faces to all directions.[^2]   
 
-[^1]: We have to read vaitābhiḥ instead of catitābhiḥ.   
-
-[^2]: TS V.5.6.a-e. See XVII. 7.4.  
 
 लोकंपृणाभिरित्येके॥८॥ 
-8. According to some (ritualists)[^1] (he should make the fire- altar-building "facing to all directions” by means of the formulae used for Lokampr̥ṇā (Space-filler) bricks.   
 
-[^1]: Not identified.   
 
 अत्र वा विकर्णी स्वयमातृण्णां चोपदध्यात्॥९॥ 
-9. Optionally one may place the Vikarṇi and Svayamātsnnā (brick) now.1   
 
-[^1]: For this view see ŚB VIII.7.3.9. For the other option see XVII.3. 8-9.   
 
 लोकंपृणादिश्चित्यन्तः॥१०॥ 
-10. The building of the layer comes to an end with the ritual beginning with placing of the Lokaṁpr̥ṇā (bricks).   
+
 
 अग्ने युक्ष्वा हि ये तव। युक्ष्वा हि देवहूतमानिति द्वाभ्यां संचित मग्निमभिमृश्य वसवस्त्वा रुद्रैः पुरस्तात्पान्त्वित्येतैर्यथालिङ्गं संचितमग्निमाज्येन प्रोक्षति। मध्य उत्तमेन प्राङ्मुखः॥११॥ 
-11. Having touched the built up fire-altar with two verses beginning with agne yukṣvā hi ye tava[^1] and yukṣvā hi devahūtamām[^2] he sprinkles ghee on the built up fire-altar[^3] with vasavastvā rudraiḥ purastāt pāntu...[^4] in accordance with the chracteristic word (in the formula); facing the east (he sprinkles ghee) in the middle with the last (formula).   
 
-[^1]: TS IV.2.9.q.   
-
-[^2]: TS IV.2.9.r.  
-
-[^3]: Cf. TS V.5.3.1-5.  
-
-[^4]: TS IV.2.9.1.  
 
 ## 17.11
 
 सहस्रस्य प्रमा असीति सहस्रेण हिरण्यशल्कैरूस्तिष्ठन्प्रतिदिशि मग्निं प्रोक्षति द्वाभ्यांद्वाभ्यां शताभ्याम्। मध्य उत्तमाभ्यां प्राङ्मुखः॥१॥ 
-1. With sahasrasya pramā asi...[^1] while standing[^2] the Adhvaryu sprinkles (scatters) thousand pieces of gold[^3] on the (built up) fire(-altar)-two hundred pieces on each (direction)[^4]; while facing the east (he scatters two hundred pieces) in the middle with the last two formulae.  
-
-[^1]: TS IV.4.11.o  
-
-[^2]: Cf. KS XXI.4.  
-
-[^3]: Cf. TS.V.4.2.3-4.  
-
-[^4]: Cf. ŚB VII.7.4.10  
+ 
 
 इमा मे अग्न इष्टका धेनवः सन्त्वितीष्टका धेनूर्यजमानः कुरुते॥२॥ 
-2. With imā me agna iṣṭakāḥ...[^1] the sacrificer makes the bricks milch-cows[^2].   
-
-[^1]: TS V.4.2.4.  
-
-[^2]: Cp. TS V.4.2.4.  
+ 
 
 ऐडिक्या चित्याध्वर्युरग्निमभिमृश्य शतरुद्रीयं जुहोति जर्तिलयवाग्वा गवीधुकयवाग्वा वा जर्तिलैर्गवीधुकसक्तुभिः कुसयसर्पिषाजाक्षीरेण मृगीक्षीरेण वार्कपर्णेनोद तिष्ठन्। उत्तरस्य पक्षस्योत्तरापरस्यां सक्तयां विकर्यां स्वयमा तृण्णायामनुपरिचारं वा॥३॥ 
-3. Having touched the Fire (-altar-building) with the section called) Aiḍikī (layer)[^1], standing with his face to the north, (the Adhvaryu) offers the Śatarudriya with Jartila-gruel or Gavīdhuka-gruel or Jartilas or coarse flour of Gavidhukas or with Kusaya-ghee[^3] or goat-milk or buffalo-milk[^4] by means of a leaf of Arka(-tree). (He does so) on the western corner of the left wing or on the Vikarṇī or on the naturally perforated stone. Or he offers while moving around (the altar keeping it to is right).   
 
-[^1]: TĀ IV.19.  
-
-[^2]: Cf. KS XXI.6.  
-
-[^3]: The meaning of the word kusaya is not known. According to 
-Dhūrtasvāmin and Tālavr̥ntavāsin kusaya-ghee means old ghee.  
-
-[^4]: According to the same commentators mr̥gakṣīra means milk of buffalo.   
-
-[^5]: Cf. and cp. in general TS V.4.3.2-3.  
 
 नमस्ते रुद्र मन्यव इत्येताननुवाकांस्त्रैधं विभाज्यापि वा प्रथमादपक्रम्य नमस्तक्षभ्य इति जानुदने धारयमाणे रथकारेभ्यश्च व इत्युपक्रम्य नमः स्वा युधायेति नाभिदने शेषेण प्रागवतानेभ्य आस्यदने हुत्वा सहस्त्राणि सहस्रश इति दशावतानान्हुत्वान्वारोहाञ्जुहोति॥४॥ 
-4. Having offered after having divided the sections beginning with namaste rudra manyave[^1] into three parts[^2] or having started from the first formula upto namas takṣabhyaḥ, holding (the Arka-leaf) at the level of knee, starting from rathakārebhyaśca vaḥ upto namaḥ svāyudhāya holding the (Arka-leaf) at the level of the navel, (then) with the remaining portion upto the Avatānas[^3] at the level of the mouth, with sahasrāṇi sahasraśaḥ (then) he offers the ten Anvāroha-offerings.   
-
-[^1]: TS IV.5.1-10.  
-
-[^2]: Cf. TS V.4.3.3.  
-
-[^3]: TS IV.5.11.a-k.  
-
-[^4]: “Ascending".  
+x
 
 नमो रुद्रेभ्यो ये पृथिव्यामिति जानुदने धारयमाणो नमो रुद्रेभ्यो ये ऽन्तरिक्ष इति नाभिदने नमो रुद्रेभ्यो ये दिवीत्यास्यदने हुत्वैतानेव यजमानं वाचयित्वैतानेव विपरीतान्प्रत्यवरोहान्हुत्वासंचरे पशूनामर्कपर्णमुदस्यति॥५॥ 
-5. Having then offered with namo rudrebhyo ye pr̥thivyām[^1] while holding (the Arka-leaf) at the level of the knee, with namo rudrebhyo yentarikṣe[^2] while holding (the Arka-leaf) at the level of the navel, and with namo rudrebhyo ye divi[^3] (while holding the Arka-leaf) at the level of the mouth, then having caused the sacrificer to recite the same (formulae), then having offered with the same formulae in the reverse (descending) order, he throws the Arka-leaf on a place where cattle do not wander.[^4]    
 
-[^1-3]: TS IV.5.11.m-n. For the offerings cf. TS V.4.3.4.   
-
-[^4]: Read hutvāsaṁcare. Cf. TS V.4.3.5.  
 
 
 यं द्विष्यात्तस्य संचरे यस्य रुद्रः प्रजां पशून्वाभिमन्येतोदङ् परेत्य रुद्राञ्ज पंश्चरेदित्ययज्ञसंयुक्तः कल्पः॥६॥ 
-6. In the case of whom (the sacrificer) he hates, he (should throw the Arka-leaf) on a (place where cattle) wander.[^1] (In the case of a sacrificer) with the progeny or cattle of whom Rudra is angry, having gone with his (Adhvaryu's) face to the north, he should mutter the Rudra (formulae)—this is a rite not connected with any (Śrauta) sacrifice[^2].   
 
-[^1]: Cf. TS V. 4.3.5.  
-
-[^2]: Thus it is a "Gr̥hya” ritual.   
 
 ## 17.12
 यो रुद्रो अग्नाविति रौद्रं गावीधुकं चरुम्॥१॥ एतेन यजुषा यस्यामिष्टकायां शतरुद्रीयं जुहोति तस्यां प्रतिष्ठापयति॥२॥ 
-1. (The Adhvaryu) keeps the Gavīdhuka-rice-pap for Rudra on the brick  
 
-2. on which he has offered the Śatarudrīya with this verse (beginning with yo rudro agnau).[^1]   
-
-[^1]: TS V.5.9.i. For the contents in this Sūtra cf. TS V.4.3.3-4.  
 
 तिसुधन्वमयाचितं यजमानो ब्राह्मणाय दत्त्वा यत्ते रुद्र पुरो धनुरित्ये तैर्यथालिङ्गमुपतिष्ठते॥३॥ 
-3. After having given a bow with three arrows (to a Brāhmin) without being asked for, the sacrificer stands near the fire-altar with these formulae beginning with yatte rudra puro yattel in accordance with the characteristic (words in the formulae).  
 
-[^1]: TS V.5.7.2-3. For the contents in this Sūtra cf. TS V.5.7.2.  
-
-[^2]: Thus in the east, south, west and north. The fifth formula is to be used in the manner mentioned in XVII. 10.11.  
 
 
 उदकुम्भमादायाध्वर्युरश्मन्नूर्जमिति त्रिः प्रदक्षिणमग्निं परिषिञ्चन्पति 
-4. Having taken a jar full of water the Adhvaryu goes thrice around the fire-altar keeping it to his right while sprinkling (water) with aśmannūrjam....[^1]   
 
-[^1]: TS IV.5.1.a. For the contents in this Sutra cf. TS V.4.4.1-2.   
 
 निधाय कुम्भमश्मंस्ते क्षुदमुं ते शुगृच्छतु यं द्विष्म इति त्रिरपरिषिञ्चन्नति पर्येति॥५॥ 
-5. Having kept down the jar he goes around the fire-altar without sprinking (water) in the reverse direction with aśmanste kṣudamuṁ te śugr̥cchatu yaṁ dviṣmaḥ.[^1]   
 
-[^1]: TS IV.6.1.b. For the contens in the Sūtra cf. TS V.4.4.2.  
 
 
 यद्यभिचरेदिदममुष्यामुष्यायणस्यायुः प्रक्षिणोमीति दक्षिणस्यामुत्तरस्यां वा स्त्रक्तयां कुम्भं प्रक्षिणुयात्॥६॥ 
-6. If he wants to practise black magic (against the enemy) idamahamamusyāmusyāyanasya... he should destroy the jar on the southern or northern corner.!   
 
-[^1]: Cf. MS III.3.5; KS XXI.7. According MS and KS this is to be done on the south-western or north-western corner.  
 
 अवकां वेतसशाखां मण्डूकं च दीर्घवंशे प्रबध्य समुद्रस्य त्वावाकयेति सप्तभिरष्टाभिर्वाग्निं विकर्षति॥७॥ 
-7. Having tied Avakā (plant), a reed-branch, and a frog to a long bamboo-stick,[^1] he draws it on the fire-altar-building[^2] with seveno[^3] eight[^4] verses beginning with samudrasya tvāvākayā[^5].   
 
-[^1]: Cf. ŚB IX.1.2.25.  
-
-[^2]: Cf. TS V.4.4.3.  
-
-[^3]: Cf. MS III.3.6; ŚB IX.1.2.31.  
-
-[^4]: Cf. TS V.4.4.3.  
-
-[^5]: TS IV.6.1.c.k.  
 
 
 विकर्षन्नेवानुगमयित्वा मण्डूकस्य प्राणान्सर्वान्संलोभ्योत्कर उदस्यति॥८॥  
-8. Having caused (the frog) to die,[^2] while he is drawing it only, (then) having destroyed[^2] all the vital parts of the frog, he throws it on the rubbish heap[^3].   
-
-[^1]: anugamayitva.  
-
-[^2]: sailobliya.  
-
-[^3]: Cp. KS XXI.7.  
+ 
 
 
 यं द्विष्यात्तमेतैरुपस्पृशेत्॥९॥ 
-9. He should touch him whom he hates with these (things before throwing them).[^1]  
 
-[^1]: Cf. KS XXI.7.  
 
 पृष्ठैरुपतिष्ठते। गायत्रेण पुरस्तात्। बृहद्रथंतराभ्यां पक्षो। ऋतुस्थाय ज्ञायज्ञियेन पुच्छम्। दक्षिणस्यां श्रोण्यां वारवन्तीयेन। उत्तरस्यां वामदेव्येन॥१०॥ 
 अपिपक्षे प्रजापतेः सामानृचं गायति॥११॥ 
-10. He stands near (the fire-altar) while praising it with the Pr̥ṣṭha-sāmans: with the Gāyatra(-saman) in the east; with the Br̥hat and Rathantara(-sāmans) near the wings; with the R̥tusthāyajñayajnīya(-saman) near the tail; with the Vāravantīya (-sāman) on the south-western corner; with the Vāmadevya ( sāman) on the north-western corner; on the joint of the (right) wing with the trunk, he sings the Prājāpati's Sāman without verses.[^1]   
 
-[^1]: Cf. in general TS V.5.8.1-2; cp. MS III.3.5; for the Samans cp. Lātyāśs I.5.11-16; Drāhyaśs II.1.14-24. The Gāyatra is sung on Sāmaveda II.868; the Rathantara on SV I.233; The Br̥hat on SV I.234; the R̥tushāyajñāyajñiya on Āraṇyakasaṁhita IV.2; the Vāravantīya on SV I.17; the Vāmadevya on SV I.169. The Prjāpater hr̥dayam is sung on Stobhas without verses.  
 
 
 पिता मातरिश्वेति संचितोक्थ्येन होतानुशंसति॥१२॥ 
-12. With pitā mātariśvā...[^1] the Hotr̥ recites the recitation of completion of building.[^2]   
 
-[^1]: TS V.6.8.6.  
-
-[^2]: Cp. KB XIX.4.  
 
 
 होतर्यकामयमानेऽध्वर्युः स्तुतशस्त्रयोर्दोहे यजमानं वाचयति॥१३॥ 
 स्तुतस्य स्तुतमसीत्यत्र प्रवर्दीमुद्वासयति॥१४॥  
-13. If the Hotr̥ is unwilling (to recite), the Adhvaryu (recites). (The Adhvaryu) makes the sacrificer utter the milkings of the Stotra and Śastra: “You are the praised of the praised. "I At this stage (i.e. now)[^1] the Adhvaryu throws away the Pravarova (-material).  
-
-[^1]: Cp. XII.17.17.   
-
-[^2]: After the ritual described in XV.13. Iff is done.  
 
 ## 17.13
 जुह्वां पञ्चगृहीतं गृहीत्वा स्वयं कृण्वान इति द्वे॥१॥ अतिसगं ददतो मानवायर्जु पन्थामनुपश्यमानाः। अजुषन्त मरुतो यज्ञमेतं वृष्टिं देवानाममतं स्वर्विदम्॥ आवर्तमानो भुवनस्य मध्ये प्रजा विकुर्वञ्जनयन्विरूपाः। संवत्सरः परमेष्ठी धृतव्रतो यज्ञं नः पातु रजसः पुरस्तात्॥ प्रजां ददातु परिवत्सरो नो धाता ददातु सुमनस्यमानः॥ बह्वीः साकं बहुधा विश्वरूपा एकव्रता मामभि संविशन्त्विति पञ्चान्वारोहान्हुत्वापरं पञ्चगृहीतं गृहीत्वा काम उपानहावुपमुञ्चते। एकां वा॥२॥ चिते त्वेति दक्षिणाम्। अनुचिते त्वेत्युत्तराम्॥३॥   
-1-3. Having taken five-times-scooped ghee into the Juhū, (the Adhvaryu) offers two libations of ghee with svayaṁ kmvānah...1 (and he offers the three other libations), with atisargam dadataḥ...2 having thus offered the five “ascend ing" (libations), having again taken five-times-scooped ghee, he puts on the shoes made out of black-antelope skin-or only the (right) one with cite tvā...' (he puts) on the right; with anucite tva...' the left.   
 
-[^1]: TB II.4.2.5-6.  
+एवं यजमानः॥४॥ 
 
-[^2]: Cp. MS II.13.21; cp. KS XL.12.  
-
-[^3]: Cf. TS V.4.4.4.  
-
-[^4]: Cf. TS V.4.4.4.  
-
-[^5]: Baudhass X.23.  
-
-[^6]: BaudhāśS X.23.   
-
-एवं यजमानः॥४॥ 4. The sacrificer (does) in a similar way. 
 अपामिदं न्ययनम्। पृथिवीमाक्रमिषमित्येतैर्यजमानः॥५॥ 
-5. (The Adhvaryu) ascends the Fire (altar-building) with these two (verses) beginning with apāmidaṁ nyayanam, and namaste harase[^1]; the sacrificer[^2] with these formulae beginning with pr̥thivīmākramiṣam.[^3]   
 
-[^1]: TS IV.6.1.m.  
-
-[^2]: Cf. TS V.6.8.1.  
-
-[^3]: TS V.6.8.1.  
 
 नृषदे वडिति पञ्चभिरुत्तरवेदिवदग्निं स्वयमातण्णां वा व्याघार्य ये देवा देवानामिति द्वाभ्यामनुपरिचारं दध्ना मधुमिश्रेण दर्भग्रुमुष्टिनाग्निं व्यवोक्ष्य कूर्मपृषन्तं कृत्वा प्राणदा अपानदा इति प्रत्यवरुह्याग्निस्तिग्मेनेति द्वाभ्यामग्नये ऽनीकवत एकामाहुति हुत्वा॥६॥ 
-6. With five formulae beginning with nr̥ṣade vaṭ[^1] having poured ghee on the Fire-altar or the naturally peforated stone in the same manner as that of Uttara-Vedi,[^2] having sprinkled[^3] curds mixed with honey on the fire-alar by means of a handful of Darbha grass while going around (the altar) with two verses beginning with devā devānām[^4] (and) having made (the Fire altar) spotted like a tortoise, having descended (the fire-altar) with prāṇada apanadāḥ...[^5] (then) having made a libation of ghee to Agni Anīkavat[^6] with two (verses beginning with) agnistigmena,[^7]   
-
-[^1]: TS IV.6.1.n-r.  
-
-[^2]: See VII.5.4-5; cf. TS V.4.5.1.  
-
-[^3]: Cf. TS V.4.5.2-3.  
-
-[^4]: TS IV.6.1.o.  
-
-[^5]: TS IV.6.1.q.  
-
-[^6]: Cf. TS V.4.5.4.  
-
-[^7]: TS IV.6.1.r-s. This sentence in this Sūtra is not complete. It is completed in following Sūtra.  
+ 
 
 
 ## 17.14
 
 षोडशगृहीतेन त्रुचं पूरयित्वा वैश्वकर्मणानि जुहोति॥१॥ 
-1. having filled the Juhū (-ladle) with sixteen-times scooped ghee,[^1] (the Adhvaryu) offers the Vaiśvakarmaṇa libaions.[^2]  
 
-[^1]: Cf. MS III.3.7; ŚB IX.9.2.6.  
-
-[^2]: Cf. TS V.4.5.4.   
 
 य इमा विश्वा भुवनानि जुह्वत्। चक्षुषः पिता मनसा हि धीर इति नाना सूक्ताभ्यां द्वे आहुती॥२॥ 
-2. (And he offers) two libations with two different hymns[^1] beginning with ya imā visívā bhuvanāi[^2] and cakṣuṣah pitā 
-manasā hi dhīraḥ[^3] (respectively).  
 
-[^1]: Cf. TS V.4.5.5.   
-
-[^2]: TS IV.6.2.a-h; KS XXI.8.  
-
-[^3]: TS IV.6.2.i-q; KS XXI.8.   
 
 यं कामयेत चिरं पाप्मनो निर्मुच्येतेत्येकैकं तस्येत्युक्तम्॥३॥ 
-3. It has been said (in a Brāhmaṇa-text)': “In the case of whom (the sacrificer) he (the Adhvaryu) may desire (the sacrificer) should be very late released from his sin (the Adhvaryu should offer) one libation each with one verse; in the case of whom (he may desire) the sacrificer should be quickly released from the sin, he should offer one single libation after (all the verses have been uttered)".   
 
-[^1]: TS V.4.5.4-5.  
 
 
 यद्येनमुदके भीर्विन्देदुकाञ्जलिमादाय समुद्राय वयुनायेत्यप्सु जुहुया दित्ययज्ञसंयुक्तः कल्पः॥४॥ 
-4. If one gets fear in water, having taken a handful of water one should offer it (water) with samudrāya vayunāya! 
--this is a rite not connected with any (Śrauta) sacrificer.   
 
-[^1]: TS IV.6.2.  
-
-[^2]: For this expression cp. XVII.11.6.   
 
 उदेनमुत्तरां नयेत्यौदुम्बरीः समिधो घृतोषितास्तिसृभिस्तिस्त्र आधाय पशुबन्धवदग्निं प्रणयति॥५॥ 
-5. Having placed three fuel-sticks of Udumbara, soaked in ghee (on fire)[^1] with three verses beginning with udenamuttarā naya,[^2] he should carry forward the fire in the same manner as that in the Paśubandha.[^3]   
 
-[^1]: Cf. ŚB IX.2.2.7; TS V.4.6.1.  
-
-[^2]: TS IV.6.3.a-c.  
-
-[^3]: See VII.6.4ff.   
 
 
 उदु त्वा विश्वे देवा इत्यग्निमुद्यम्य पञ्च दिशो दैवीरिति पञ्चभिर्हरत्याग्नी ध्रात्॥६॥ 
-6. With ud u tvā, viśve devāḥ...[^1] having lifted up fire[^2], with five verses beginning with pañca diśo daivīḥ[^3] he brings it upto the Āgnidhra (shed). [^4]   
 
-[^1]: TS IV.6.3.d.  
-
-[^2]: Cf. TS V.4.6.1-2.  
-
-[^3]: TS IV.6.3.e-k; MS III.3.6; KS XXI.8.  
-
-[^4]: Cf. MS III.3.8; KS XXI.8.  
 
 आशुः शिशान इति दक्षिणतो ब्रह्मा दशर्चेनान्वेति। मैत्रावरुणः प्रतिप्रस्थाता वा॥७॥ 
-7. With (a hymn) consisting of ten verses[^1] (beginning) with āśuḥ śiśānaḥ[^2] either the Brahman[^3] or the Maitrāvaruṇa[^4] or the Pratiprasthātr̥ follows (the procession going) by the right side.  
 
-[^1]: Cf. TS V.4.6.4.  
-
-[^2]: TS IV.6.4. Here, however, there are fifteen verses. MS II.10.4; KS XVIII.5 have ten verses. Influence of MS or KS is possible.  
-
-[^3]: Cf. MS III.3.7; SB IX.2.3.5.   
-
-[^4]: Cp. TS V.4.6.4.   
 
 यं कामयेत राष्ट्र स्यादिति तमेतेन संनह्यान्वियात्॥ संग्रामे संयत्ते होतव्यम्। तैजनो मान्धुको वेध्मो भवतीत्ययज्ञसंयुक्तः कल्पः॥८॥ 
-8. In the case of whom he my desire—“(The sacrificer) should get kingdom”, for him, after having armoured himself with this (hymn), he should follow him. When the battle is going on one may offer an offering (with this hymn). (In this offering) the fuel should be of reed or Mandhuka wood-this is a rite not connected with (Śrauta) ritual.  
 
-[^1]: Cf. KS XXI.10.  
 
 विमान एष दिवो मध्य आस्त इति द्वाभ्यामाग्नीधे ऽश्मानं निधायेन्द्र विश्वा अवीवृधन्निति चतसृभिरा पुच्छाद्गत्वा॥९॥ 
-9. With the two verses beginning with vimāna eṣa divo madlrya āste,[^1] having placed a stone in the Āgnīdhra (-shed)[^2], with four (verses) beginning with indraṁ viśívā avīvr̥dhan[^3] having gone upto to the tail[^4] (part of the fire-altar),[^5]   
 
-
-[^1]: TS IV.6.3.k-1.  
-
-[^2]: Cf. TS V.4.6.4-5.  
-
-[^3]: TS IV.6.3.m-p.  
-
-[^4]: Cf. TS V.4.6.5.   
-
-[^5]: The sentence is not complete. It will be completed in the next Sūtra.  
 
 ## 17.15
 प्राचीमनु प्रदिशमिति पञ्चभिरग्निमधिरुह्य नक्तोषासाग्ने सहस्राक्षेति द्वाभ्यां संहिताभ्यां दध्नः पूर्णामौदुम्बरी स्वयमातृण्णायां जुहोति॥१॥  
-1. with five[^1] (verses beginning with prācīmanu pradiśam[^2] having ascended upon the (fire altar building) with the two joint[^3] (verses) beginning with naktoṣāsā[^4] and agne sahasrākṣa (the Adhvaryu) offers (the contents of the Juhū) made of Udumbara-wood (and) full of curds on the naturally perforated (stone).[^5]   
-
-[^1]: Cf. TS V.4.7.2.  
-
-[^2]: TS IV.6.5.a-e.   
-
-[^3]: Cf. KS XXI.9. The first verse is to be used as the invitattory formula and the second as the offering formula.   
-
-[^4]: TS IV.6.5.f-g.   
-
-[^5]: Cf. TS V.4.7.3.   
+  
 
 नक्तोषासेति कृष्णायै श्वेतवत्सायै पयसा जुहोति॥२॥ पयसा व्याघारयतीत्येके॥३॥ 
-2. He should offer milk of a black cow with white calf with naktoṣāsā.[^1]   
+  
 
-[^1]: Cp. KS XXI.9; MS III.3.9; ŚB IX.2.3.20.   
 
-3. According to some (ritualists) he should pour the milk scatteringly.   
 
 
 ऊर्णावन्तं प्रथमः सीद योनिमिति होतुरभिज्ञाय पाशुकान्संभारान्युष्य सुपर्णो ऽसि गरुत्मानिति तिसृभिः स्वयमातृण्णायामग्निं प्रतिष्ठाप्य प्रेद्धो अग्ने दीदिहि पुरो न इत्यौदुम्बरी समिधमादधाति॥४॥ 
-4. Having recognised (the verse beginning with) urṇavantaṁ prathamaḥ sīda yonim[^1] of the Hotr̥, having taken down the material[^2] necessary for the animal-sacrifice, with three verses beginning with suparṇosi garutmān[^3] having established the fire on the naturally perforated stone, with preddho agne dīdihi...[^4] he puts a fuel-stick of Udumbara-wood (on the fire).[^5]   
 
-
-[^1]: R̥V VI.15.16; cp. VII.6.7.  
-
-[^2]: Cp. VII.6.1.   
-
-[^3]: TS IV.6.5.h-k; cf. V.4.7.3.   
-
-[^4]: TS IV.6.5.5.k.  
-
-[^5]: Cf. TS V.4.7.3.   
 
 
 विधेम ते परमे जन्मन्नग्न इति वैककृतीम्॥५॥ 
-5. With vidhema te parame janmnnagne[^1] (he puts a fuel stick) of Vikaṅkata (wood)[^2].   
 
-[^1]: TS IX.6.5.1.   
-
-[^2]: Cf. TS V.4.7.4.   
 
 तां सवितुर्वरेण्यस्य चित्रामिति शमीमयीम्॥६॥ 
-6. With tāṁ savitur vareṇyasya...[^1] (he puts a fuel-stick) of Śamī (wood)[^2].  
 
-[^1]: TS IV.6.5.m.  
-
-[^2]: Cf. TS V.4.7.4.  
 
 चित्तिं जुहोमि। अग्ने तमद्याश्वमिति द्वे आहुती हुत्वा द्वादशगृहीतेन युचं पूरयित्वा सप्त ते अग्ने समिधः सप्त जिह्वा इति सप्तवत्या पूर्णाहुतिं जुहोति।॥७॥  
-7. With cittiṁ juhomi...[^1] and agne tamadyāśvam...[^2] having offered two libations having filled the Juhū(-laddle) with twelve-times-scooped(-ghee) he offers the full-spoon-offering with a verse containing the word sapta[^3] (seven) and (begin ning with) sapta te agne smidhaḥ.[^4]   
-
-[^1]: TS V.5.4.3.  
-
-[^2]: IV.4.4.w.  
-
-[^3]: Cp. VII.7.1.  
-
-[^4]: TS IV.6.5.n. cf. TS V.4.7.5. (V.7.4.1).   
+ 
 
 
 तां जुह्वदिह सो ऽस्त्विति दिग्भ्यो ऽग्निं मनसा ध्यायति॥८॥ 
-8. While offering this (libation) he thinks in his mind about the fire that the fire from the quaters should be here (on the altar).  
 
-[^1]: Cf. TS V.4.7.6.  
 
 ## 17.16
 आ वेदिप्रोक्षात्कृत्वा वैश्वानरस्य तन्त्रं प्रक्रमयति॥१॥ 
-1. Having performed the ritual upto sprinkling of the altar[^1] (the Adhvaryu) starts the procedure of the offering to Vaiśvānara.  
 
-[^1]: The ritual described in VII.7.2. and then the ritual mentioned in VI.8.5.(b)-9.  
 
 
 वेदं कृत्वाग्निं परिस्तीर्य पाणिप्रक्षालनादि कर्म प्रतिपद्यते॥२॥ 
-2. Having prepared the grass-brush, then having sprinkled water around the fire(s)[^2] he does the work beginning with washing of the hands.[^3]   
-
-[^1]: See 1.6.4-5.  
-
-[^2]: See I.14.14-15, (See also I.15.3). (See I.15.4-5.  
-
-[^3]: From XVII.16.2-XVII.17.7 the ritual of the offering to Vaiśvānara and Maruts is described.   
+ 
 
 यथार्थं पात्रयोगः॥३॥  
-3. The arrangement of the utensils should be done in ac cordance with the requirement.[^1]   
 
-[^1]: See I.15.6.  
 
 
 निर्वपणकाले वैश्वानरं द्वादशकपालं निरुप्य सप्त मारुतान्सप्तकपा लान्निर्वपति।।४॥ 
-4. At the time of pouring out the material,[^1] having poured out the material for the sacrificial bread to be prepared on twelve potsherds, for the sake of Vaiśvānara, he takes out the material for the seven sacrificial breads to be prepared on seven potsherds for the sake of Maruts.[^2]   
 
-[^1]: See 1.17.2.  
-
-[^2]: Cf. TS V.4.7.6-7.  
 
 तूष्णीमुपचरिता भवन्ति॥५॥ 
-5. (The sacrificial breads for Maruts) are dealt with with out any formula.[^1]  
 
-[^1]: Cf. ŚB IX.3.1.9.  
 
 संप्रेषकाले पत्नीवर्जं संप्रेष्यति॥६॥ 
-6. At the time of giving the orders he gives order without (that which refers to) the wife of the sacrificer.[^1]   
 
-[^1]: See II.3.11. Thus the order patnin saṁnahya is to be dropped.   
 
 आज्यग्रहणकाले ध्रुवायामेव गृह्णाति॥७॥ 
-7. At the time of scooping the ghee he scoops only in the Dhruvā (ladle).   
-
-[^1]: See II.7.3ff.  
-
-[^2]: For, there are no Prayājas and Anuyājas.   
+   
 
 प्रोक्षणीनामभिमन्त्रणादि कर्म प्रतिपद्यते॥८॥ 
-8. He does the work beginning with address of the sprinkling water.[^1]   
 
-[^1]: See II.8.1ff.  
 
 स्तरणकाले ऽपरेणाग्निं बर्हिः स्ती| ध्रुवां स्रुवं च सादयति॥९॥ 
-9. At the time of spreading (sacred grass on the altar)[^1] having spread the Barhis to the west of the (built-up-) fire-altar, he places the Dhruvā and the Sruva.   
 
-[^1]: See II.9.1.  
 
 एतावसदतामिति मन्त्रं संनमति॥१०॥ 
-10. (At that time) he modifies the formula in the following way: etāvasadatām... (instead of etā asadan....)[^1].   
 
-[^1]: See for the original formula II. 10.4.  
 
 वेदं निधाय सामिधेनीभ्यः प्रतिपद्यते॥११॥ 
-11. After he has kept down the grass-brush he does the work for (recitation of) the Enkindling (Sāmidhenī) verses.[^1]  
 
-[^1]: See II.11.10   
 
 न संप्रेष्यति न संमाष्टि न प्रयाजान्यजति॥१२॥ 
-12. He does not order[^1]; he does not wipe[^2]; he does not perform the fore-offerings (Prayajas).[^3]   
 
-[^1]: The order to Agnidhra priest to utter 'astu srauṣaṭ'.  
-
-[^2]: See II.13.1.  
-
-[^3]: See II.17.1. For this last rule cf. TS V.4.7.7.  
 
 
 आज्यभागाभ्यां प्रचर्य जुह्वामुपस्तीर्य कृत्स्नं वैश्वानरमवदाय दिरभिषा र्योच्चैश्वानरस्याश्रावयति॥१३॥ 
-13. After having performed the offering of ghee-portions[^1]; having spread an under-layer of ghee in the Juhū(-ladle), having taken the entire portion of the Vaiśvānara (-sacrificial bread): having twice poured ghee on the sacrificial bread, he orders the Āgnīdhra priest to utter astu śrauṣaṭa[^2].   
 
-[^1]: Thus having done the ritual upto II.18.6.   
-
-[^2]: Cf. TS V.4.7.7.   
 
 उपांशु मारुतान्सर्वहुताञ्जुहोति॥१४॥ 
-14. He offers completely[^1] the sacrificial breads for Maruts while the formulae are being uttered inaudibly.[^2]   
 
-[^1]: i.e. without taking portions as is normally done.  
-
-[^2]: Cf. TS V.4.7.7.   
 
 
 ईदृङ् चान्यादृङ्चेति सप्तभिर्गणैरासीनो हस्तेन गणेन गणमनुद्रुत्य मारुता झुहोति॥१५॥ 
 मध्ये ऽरण्येऽनुवाक्येन गणेनगणेन जुहोतीत्येक॥१६॥ 
-15. While sitting and by means of his hand[^1] he offers the sacrificial breads for Maruts with seven groups of formulae (the first of which begins with) idr̥ṅ cānyādr̥ṅ ca, every time reciting the group of formulae one after another and at the end of the next group offering (one sacrificial bread); and in the middle with the group (of formulae) in the Āraṇyaka.   
 
-[^1]: Cf. ŚB IX.3..9,16; cf. MS III.3.10.KS XXI. 10; The Groups 
-are as follows: i. TS IV.6.5.0. ii. TS IV.6.5.p. iii. TS IV.6.5.q. iv. TĀ IV.25. (This is the middle Group from the Āraṇyaka.) V. TS IV.6.5.r. vi. TS IV.6.5.s vii. Svatavāṁśa (VS XVII.85) (See XVII.16.18).  
 
-16b. According to some ritualists he should offer with group after group.[^1]  
 
-[^1]: Cf. MS III.3. 10.  
+
+
+
 
 मारुतैः सर्वतो वैश्वानरं परिचिनोतीत्येके॥१७॥ 
-17. According to some ritualists[^1] he should heap (sacrificial breads for Maruts) all sides around the Vaiśvānara (sacrificial bread).  
 
-[^1]: Older text for this is not available. See, however, Baudhāśs V.53; Māśs VI.2.5.23.  
 
 स्वतवांश्च प्रघासी च सांतपनश्च गृहमेधी च क्रीडी च साकी चोर्जिपी चेत्येष षष्ठ आम्नातः॥१८॥ 
-18. svatavāṁśca... is mentioned as the sixth (group).[^1]   
-
-[^1]: After the addition of the Āraṇyaka-section this group becomes the seventh.   
 
 मितासश्च संमितासश्च न इति सर्वत्रानुषजति॥१९॥ 
-19. To the (formulae) of each group he adds mitāsaśca and saṁmitāsaśca naḥ.[^1]   
 
-[^1]: TS IV.6.5.t and u.   
 
 ## 17.17
 यदि कामयेत क्षत्रं विश ओजीयः स्यादिति ग्रामेऽनुवाक्यस्य त्रीणि चत्वारि वा पदान्यनुद्रुत्यारण्येऽनुवाक्यमनुद्रुत्य ग्रामेऽनुवाक्यस्य शेषेण जुहुयात् ॥१॥ 
-1. If the Adhvaryu desires: “May the Kṣatriyas be more powerful than the Vaiśyas, having recited three or four words of the formula-group to be studied in village, then having recited the formula-group to be studied in forest, he should make the libation with the remaining portion of the formula group to be recited in village.   
 
 
 एवमादितस्त्रिभिर्गणैर्तुत्वारण्येऽनुवाक्येन जुहुयात्॥२॥ 
-2. After having offered in this manner with the first three formula-groups he should offer the fourth sacrificial bread for Maruts with the formula group to be studied in forest.   
 
 यथा पूर्वैरेवं त्रिभिरुत्तरैर्गणैः॥३॥ 
-3. As with the first three (formula-groups) in the same manner he should offer with the next three formula-groups.[^1]   
 
-[^1]: For Sūtras 1-3 cf. MS III.3. 10. The first sacrificial bread is to be offered with TS IV.6.5.0 (idr̥ṅ cānyādr̥ṅ caitādr̥ṅ ca.) Then he adds forest-formula ugraśca dhuniśca.... Then he recites the remaining part of the formula (TS IV.6.5.0). Similar is to be done in connection with the second and third sacrificial bread. In connetion with the fourth or the middle one there is no change. Then three are to be performed in the same manner as that of the first three.   
 
 यदि कामयेत विट् क्षत्रादोजीयसी स्यादिति यथासमाम्नातमाहित स्त्रिभिर्गणैर्तुत्वारण्येऽनुवाक्यस्य षट्सु पदान्तरालेषु पड्गणानोप्यारण्येऽनुवाकोन जुहुयात्॥४॥ 
-4. If he desires: “May the Vaiśyas be more powerful than the Kṣatriyas, having offered with the first three formula-groups as mentioned (earlier) at the six gaps of words in the formula to be studied in forest, having added the six group-formulae he should offer (the fourth sacrificial bread) with the formula to be studied in forest.   
+  
 
 यथा पूर्वरेवं त्रिभिरुत्तरैर्गणैः॥५॥ 
-5. Then in the same manner as that of the first three he offers with the three last (formula-groups).[^1]   
 
-[^1]: The method of offering mentioned in the Sūtras 4 and 5 is as follows the first three sacrificial breads are to be offered in the usual manner. For the fourth one should utter ugraśca TĀ IV.25; idr̥ṅ cāryadr̥ṅ caitādr̥ṅ...TS IV.6.5.D; dhuniśca TĀ IV.25; śukrajyotiśca citrajyotiśca... TS IV.6.5.p. For these two Sūtras also cf. MS III.8.10.  
 
 न संप्रेष्यति न संमाष्टि नानूयाजान्यजति॥६॥ 
-6. He does not order, does not wipe does not offer the after-offerings.[^1]   
 
-[^1]: Cp. XVII.16.12 (TS V.4.7.7.)  
 
 
 यं कामयेत क्षत्रेणास्य क्षत्रं हन्यात्प्रस्वादायतनाच्च्यवेतेति तस्या रण्येऽनुवाक्येनाग्निष्ठं रथवाहनं वा व्यङ्गयेदित्ययज्ञसंयुक्तः कल्पः॥७॥ 
-7. If he desires: “May I kill his Kṣatra with Kṣatra; may he fall from his place", he (The Adhvaryu) should shake his fire-cart[^1] or the chariot with the formula-group to be recited in the forest[^2]-This is a rite not connected with any (Śrauta) sacrifice.   
 
-[^1]: See I.17.5.  
-
-[^2]: Cp. MS III.3.10; KS XXI.10.   
 
 अग्नाविष्णू सजोषसेति चतुर्गृहीतं हुत्वौदुम्बरीं त्रुचं व्यायाममात्रीं मृदा पदिग्धां पश्चादासेचनवतीं घृतस्य पूरयित्वा वाजश्च मे प्रसवश्च म इति संततां वसोर्धारां जुहोत्या मन्त्रसमापनात्॥८॥  
-8. With agnāviṣṇū sajoṣasā...[^1] having offered a libation of four-times-scooped (ghee), having filled with ghee a ladle of Udumbara-wood[^2] of the measurement of a Vyāyāma (span with outstretched arms), besmeared with clay and accompanied with a part useful for pouring (ghee etc.) with vājaśca me prasavaśca me[^3] he offers a continuous Vasordhārā (stream of 
-wealth) (in the form of ghee)[^4] upto the end of the formulae.   
 
-
-[^1]: TS IV.7.1.a.  
-
-[^2]: Cf. ŚB IX.3.2.2.  
-
-[^3]: TS IV.7.1. (without a) upto 11.  
-
-[^4]: Cf. TS V.4.8.1.  
 
 यं कामयेत प्राणानस्यान्नाद्यं वि छिन्द्यामिति विग्राहं तस्येत्युक्तम्॥९॥ 
-9. It has been said in a Brāhmaṇa-text: “In the case of a sacrificer about whom he desires: ‘May I cut his breath; his food', (he should offer ghee) separately (after) every (formula) and (not in a continuous stream). (In the case of a sacrificer about whom he desires, “May I hold his breath, his food continous" he should offer the ghee in a continuous line)."[^1]   
 
-[^1]: Cf. TS V.4.8.1-2.   
 
 
 यदाज्यमुच्छिष्येत तस्मिन्ब्रह्मौदनं पक्त्वा चतुरो ब्राह्मणान्भोजयेत्। चतुःशरावं वौदनं पक्त्वा चतुरो ब्राह्मणाम्भोजयेत् चतुःशरावं वौदनं पक्त्वा तद्व्यञ्जनं भोजयेत्॥१०॥ 
-10. Having cooked the Brahman-rice-pap in the ghee that remains, the sacrificer should feed four Brāhmaṇas.[^1] Or having cooked pap of four bushels of rice he should feed Brāhmaṇas, having mixed it with that (ghee).  
-
-[^1]: Cf. TS V.7.3.4.   
+  
 
 
 प्राशितवद्भ्यश्चतस्रो धेनूर्दद्यात्॥११॥ 
-11. He should give four milch-cows to the Brāhmaṇas who have eaten (that rice-pap).[^1]   
-
-[^1]: i.e. one cow to each. Cf. TS V.7.3.4. 
+ 
 
 समुद्रादूर्मिरिति तिस्रः॥१२॥  
-12. The three verses beginning with samudrādūrmiḥ,[^1]   
 
-[^1]: This Sūtra is incomplete. It is completed in the next Sūtra.  
 
 XVII.18 
 त्रिधा हितं पणिभिर्गुह्यमानं गवि देवासो घृतमन्वविन्दन्। इन्द्र एक सूर्य एकं जजान वेनादेकं स्वधया निष्टतक्षुः॥ एता अर्पन्ति हृद्यात्समुद्राच्छतव्रजा 
 रिपुणा नावचक्षे। घृतस्य धारा अभि चाकशीमि हिरण्ययो वेतसो मध्यं 
 आसाम्॥ सम्यक् स्रवन्ति सरितो न धेना अन्तर्हदा मनसा पूयमानाः। एते अर्षन्त्यूर्मयो घृतस्य मृगा इव क्षिपणोरीषमाणाः॥ सिन्धोरिव प्राध्वने शूधनासो वातप्रमियः पतयन्ति यह्वाः। घृतस्य धारा अरुषो न वाजी काष्ठा भिन्दन्नूर्मिभिः पिन्वमानः। अभि प्रवन्त समनेव योषाः कल्याण्यः स्मयमानासो अग्निम्। घृतस्य धाराः समिधो नसन्त ता जुषाणो हर्यति जातवेदाः। कन्या इव वहतुमेतवा उ अझ्यञ्जाना अभि चाकशीमि। यत्र सोमः सूयते यत्र यज्ञो घृतस्य धारा अभि तत्पवन्ते। अभ्यर्षत सुष्टुतिं गव्यमाजिमस्मासु भद्रा द्रविणानि धत्त। इमं यज्ञं नयत देवता नो घृतस्य धारा मधुमत्पवन्ते॥ धामन्ते विश्वं भुवनमति श्रितमन्तः समुद्रे हृद्यन्तरायुषि। अपामनीके समिथे य आभृतस्तमश्याम मधुमन्तं त ऊर्मिमिति हुतां हूयमानां वा यजमानो ऽनुमन्त्रयते॥१॥ 
-1. and the verses beginning with tridhāhitam paṇibhiḥ...[^1] The sacrificer recites these verses after the Vasordhārā libation is offered or when it is being offered.   
 
-[^1]: for these verses see KS XI.7 (=R̥V IV.58).  
 
 
 XVII.19  
 वाजप्रसवीयं जुहोति॥१॥  
-1. (The Adhvaryu) offers the Vājaprasavīya (-offering).[^1]   
 
-[^1]: Cf. TS V.4.9. The name is basd on the beginning words of the first verse vājasyemaṁ prasavaḥ.  
 
 सप्त ग्राम्या ओषधयः सप्तारण्याः॥२॥XVII. 19] 
 Āpss Translation : THITE 
 1013 
 पृथगन्नानि द्रवीकृत्यौदुम्बरेण स्रवेण वाजस्येमं प्रसवः सुषुव इति ग्राम्या हुत्वारण्या जुहोति॥३॥ 
-2. There should be seven cultivated plants (their grains) and seven uncultivated (forest) (grains)[^1];  
-
-[^1]: For the plants see ĀpŚS XVI.19.13-14.  
 
 
-3. having made separate liquid mixtures of the flour of these grains (along with ghee) these foods, having offered the mixture of cultivated (grains) by means of a spoon of Udumbara wood[^1] with vājasyemaṁ prasavaḥ...,[^2] he offers the mixture of uncultivated (grains).   
-
-[^1]: Cf. TS V.4.9.1  
-
-[^2]: TS I.7.10.a-g, IV.7.12.a-g.  
 
 हुत्वाहुत्वा पात्र्यां संपातमवनयति।।४॥ 
-4. After every act of offering he pours the remnants in a wooden vessel.[^1]   
 
-[^1]: These remnants are used in the sprinkling for which see the next Sūtra.  
 
 दक्षिणं प्रत्यपिपक्षमौदुम्बरीमासन्दी प्रतिष्ठाय तस्यां कृष्णाजिनं प्राचीनग्रीवमुत्तरलोमास्तीर्य तस्मिन्नासीनं यजमानमग्निमन्वारब्धं संपातैर भिषिञ्चति॥५॥ 
-5. Having placed a seat of Udumbara wood near the joint of the right (southern) wing with the hip[^1] of the fire-altar, having spread a black antelope skin with its neck to the east and the hairy part upwards[^3] on it, he sprinkles the remnants[^4] on the sacrificer who is sitting on it (the skin) and who is touching the fire-altar.[^5]   
 
-[^1]: See ŚB IX.3.4.10f where this is mentioned as the view of some ritualists.   
-
-[^2]: Cf. ŚB IX.3.4.10.   
-
-[^3]: Cf. ŚB IX.3.4.10.   
-
-[^4]: Cf. TS V.6.3.2.  
-
-[^5]: Cf. ŚB IX.3.4.15.   
 
 
 व्याघ्रर्चमणि राजन्यम्। बस्ताजिने वैश्यम्। कृष्णाजिने ब्रह्मवर्चसकामम्॥६॥ बस्ताजिने पुष्टिकाममित्येके।७॥ 
-6. He sprinkles on a Kṣatriya (-sacrificer sitting on) a tiger-skin[^1]; Vaiśya... a he-goat skin; on a sacrificer who is desirous of Brahman-splendor (sitting on) a black-antelope-skin...[^2]; 
-
-[^1]: Cp. XVIII. 15.5.  
-
-[^2]: Cf. MS III.4.37; ŚB IV.3.4.15.  
 
 
-7. who is desirous of prosperity ... a he-goat-skin-according to some ritualists.[^3]   
 
-[^3]: cf. ŚB IX.3.4.15.  
 
 देवस्य त्वेत्यनद्रत्याग्नेस्त्वा साम्राज्येनाभिषिञ्चामीति ब्राह्मणमा इन्टरन राजन्यम्। बृहस्पतेरिति वैश्यम्॥८॥ 
-8. Having recited devasya tvā... he sprinkles on a Brāhmaṇa (sacrificer) with agnestvā sāmrājyena, a Kṣatriya with indrasya, a Vaiśya with br̥haspateḥ...[^1]  
 
-[^1] For the formulae see TS V.6.3.1-3; for the Sūtra cf. MS III.4.3.   
 
 राजन्यवैश्ययोर्मन्त्रविपर्यासमेके समामनन्ति॥९॥ 
-9. Some (ritualists)[^1] think that the formulae of the Kṣatriya and Vaiśya should be swapped.  
 
-[^1]: not known.  
 
 प्राङ्मुखमासीनं प्रत्यङ्मुखस्तिष्ठशीर्षतो ऽभिषिच्यामुखादन्ववस्त्रावयति॥१०॥ 
-10. Standing and with his face to the west, having sprinkled on the sacrificer sitting with his face to the east, he causes (the sprinkles) flow from the head upto the mouth (of the sacrificer).[^1]   
 
-[^1]: Cf. TS V.6.3.2.  
 
 तदाहु)तव्यमेव नहि सुषुवाणः कंचन प्रत्यवरोहतीति॥११॥ 
-11. Some (ritualists) say “Only the act of offering should be done; for one who has a undrgone Sava (consecration for a high rank) does not come down (from the chariot or seat) before anyone"[^1].   
 
-[^1]: MS III.4.3. The implication of this Sūtra is not clear. Perhaps it is implied here with that the act of Agnicayana is as good as Sava. Therefore here only the act offering is to be done (1-3) and the act of sprinkling (4-10) need not be done. Cp. in general XVII.7.16.  
 
 नक्तोषासेति कृष्णायै श्वेतवत्सायै पयसा हुत्वा षड्भिः पर्यायैादश राष्ट्रभृतो जुहोति॥१२॥ 
-12. Having offered libations of milk of a black cow having a white calf[^1] with naktoṣāsā...[^2], he offers the twelve Rāṣṭrabhr̥t (Kingdom-holder) (libations) in six rounds.[^3]   
-
-[^1]: Cf. TS V.4.9.3. CP. XVII.15.2.  
-
-[^2]: TS IV.7.12.h.  
-
-[^3]: For details see the next Sūtra.  
 
 
 ## 17.20
 ऋताषाइतधामेति पर्यायमनुद्रुत्य तस्मै स्वाहेति प्रथमामाहुतिं जुहोति। ताभ्यः स्वाहेत्युत्तराम्॥१॥ 
-1. Having recited the first round beginning with r̥tāṣāḍr̥tadhāmā (the Adhvaryu) offers the first libation with tasmai (Gandharva) svāhā and the second with tābhyaḥ (Apsarases) svāhā.  
+
 
 
 एवमितरान्पर्यायान्विभजति॥२॥  
-2. In the same manner he divides the other (five) rounds.  
+
 
 भुवनस्य पत इति पर्यायाणां सप्तम्याहुतीनां त्रयोदशी॥३॥ 
-3. With the seventh round beginning with bhuvanasya pate the thirteenth of the libations should be offered.  
+
 
 एतेन व्याख्यातम्॥४॥ 
-4. (The same procedure) is explained with this (applies to this offering also).[^1]   
 
-[^1]: The Rāṣṭrabhr̥t libations are mentioned in TS III.4.7. The first six (a-f) end with tasmai svāhā, tābhyaḥ svāhā and have two parts each. With them twelve libations are to be offered. The 13th libation is offered with TS III.4.7.g and it also should end with tasmai svāḥā, tabḥyaḥ svāhā.  
 
 
 भुवनस्य पत इति रथमुखे पञ्चाहुतीर्जुहोति। दश वा॥५॥ 
-5. With bhuvanasya pate...[^1] he offers five or ten libations on the front part of a chariot.[^2]  
 
-[^1]: TS III.4.7.g. and following.  
-
-[^2]: Cf. TS V.4.9.3. If the libations are five then TS IV.4.7.g-1 are used. If there are ten then g-m are used-the h and I are divided into two each. Thus g, h(a), h(b), l(a), [(b), k(a), k(b), 1(a), (b),  
 
 
 उपर्याहवनीये रथशिरो धार्यमाणमभिजुहोतीत्येके॥६॥ 
-6. According to some ritualists[^1] he offers (these libations) on the head (part) of the chariot being held on the Āhavanīya (-fire).  
-
-[^1]: The Vāsajaneyins: ŚB IX. 4.1.14.  
 
 अभिहुतमुद्यम्याध्वर्योरावसथं हरन्ति॥७॥ 
-7. Having raised (the chariot) on which libations are offered (the assistants of the sacrificer) bring it to the residence of the Adhvaryu.[^1]   
 
-[^1]: Cf. ŚB IX.4.2.11.  
 
 अनुनयन्ति त्रीनश्वान्। चतुरो वा॥८॥ 
-8. They carry three or four horses after (the chariot).[^1]  
 
-[^1]: Cp. ŚB IX.4.2.11.  
 
 तान्सरथानध्वर्यवे ददाति॥९॥ 
-9. (The scrificer) gives them along with the chariot to the Adhvaryu.[^1]   
 
-[^1]: Cf. ŚB IX.4.2.11.   
 
 वडबा इत्येकेषाम्। वडबे इत्येकेषाम्॥१०॥ 
-10. According to some (ritualists) there should be three mares or according to some others two (mares).[^1]  
-
-[^1]: It is not known whose views are being quoted.  
+ 
 
 समुद्रो ऽसि नभस्वानित्यञ्जलिना त्रीणि वातनामानि जुहोति॥११॥ 
-11. With samudro'si nabhasvān...[^1] he offers three libations with the names of wind by means of his folded hands.[^2]   
 
-[^1]: TS IV.7.12.i.  
-
-[^2]: Cf. TS V.4.9.4.  
 
 नह्येतस्यावदानमस्तीति विज्ञायते॥१२॥ 
-12. It is known (from a Brāhmaṇa-text): “Of this (i.e. for this offering) there is no act of cutting of the portion (avadāna).  
 
-[^1]: MS III.4.3. Generally, before making an offering some portion is taken out of the offering matrial. Cp. TS V.4.9.4; KS XXI.10. 
 
 
 कृष्णाजिनपुटेन वातं जुहोतीत्येके॥१३॥ 
-13. According to some other ritualists, “He should offer wind by means of the folded black-antelope-skin.”[^1]   
 
-[^1]: See ŚB IX.4.2.2-3. Wind is offered here instead of ghee.  
 
 
 अग्न उदधे या त इषुर्युवा नामेति पञ्चाज्याहुतीर्हत्वा समीची नामामि प्राची दिगिति दध्ना मधुमिश्रेण पट् सर्पाहुतीरनुपरिचारम्॥१४॥ 
-14. With agna udadhe yā ta iṣur yuvā nāma[^1] having offered five libations of ghee,[^2] with samici nāmāsi[^3] prāci dig[^4] he offers six Sarpa (Serpent) libations of curds mixed with ghee (while going around the fire-altar-building).   
 
-[^1]: TS V.5.9.a-e.  
-
-[^2]: Cf. TS V.5.9.2.  
-
-[^3]: TS V.5.10.a.  
-
-[^4]: Cf. TS V.5.10.5-6. The first libation in the east, the second in the south, the third in the west, the fourth in the north and the fifth and sixth in the middle.   
 
 हेतयो नाम स्थेति षण्महाहुतीर्यथा सर्पाहुतीः॥१५॥ 
-15. With hetayo nāma stha...[^1] he offers six great libations in the same manner as that of Sarpa-libations[^2].   
 
-[^1]: TS V.5.10.c.  
-
-[^2]: See 14 above.  
 
 सुवर्न धर्म स्वाहेति पञ्चााहुतीः॥१६॥ 
-16. With suvarṇa gharma svāhā...[^1] (he offers) the five Arka (Sun)-libations.[^2]   
 
-[^1]: TS V.7.5.b.  
-
-[^2]: Cf. TS V.7.5.  
 
 यास्ते अग्ने सूर्ये रुच इति तिस्रो रुचः॥१७॥ 
-17. With yāste agne surye rucaḥ...[^1] (he offers) three Ruc (Light)-libations.[^2]   
 
-[^1]: TS V.7.6.d.  
-
-[^2]: Cf. TS V.7.6.  
 
 वेद्यास्तरणादि सौमिकं कर्म प्रतिपद्यते॥१८॥ 
-18. Then he starts the work of the Soma-sacrifice beginning with spreading grass on the altar.[^1]   
 
-[^1]: See XI.6.3.   
 
 
 यत्प्राग्धिष्णियनिवपनात्तत्कृत्वा॥१९॥  
-19. Having done whatever is before the preparation of the Dhiṣṇyas,   
 
-[^1]: The ritual described in XI.6.3-XI.14.7 (construction of Havirdhāna, Sadas etc.). The sentence is incomplete. See the next Sūtra.  
 
 ## 17.21
 ममाग्ने वर्षो विहवेष्वस्त्वित्यनुवाकेन प्रतिमन्त्रमिष्टकाभिर्धिष्णियांश्चि नोति॥१॥ 
-1. with the section[^1] beginning with mamāgne vihaveṣu (the Adhvaryu) prepares Dhiṣṇyas[^2] by means of bricks each with one formula.   
 
-[^1]: TS IV.7.14.  
-
-[^2]: Cf. TS V.4.11.3-4.  
 
 अश्मनवमा आग्नीध्रीय उपदधाति॥२॥ 
-2. (He places) (eight bricks) with a stone as the ninth on the Dhiṣṇya of Āgnīdhra.[^1]   
 
-[^1]: Cf. MS III.4.4.  
 
 द्वादश षोडशैकविंशतिं चतुर्विंशतिं वा होत्रीये। एकादश ब्राह्मणाच्छंसीये। षण्मार्जालीये॥३॥ 
-3. (He places) twelve[^1] or sixteen or twentyone[^2] or twenty-four (bricks) on the Dhiṣṇya of Hotr̥, eleven... of Brāhmaṇācchaṁsin, (and) six on Mārjālīya.[^3]    
 
-[^1]: Cf. TS V.4.11.4.   
-
-[^2]: Cf. MS III.4.4; KS XXI.12.   
-
-[^3]: Cf. TS V.4.11.4.  
 
 अष्टावष्टावन्येषु धिष्णियेषूपदधातीति विज्ञायते॥४॥ 
-4. It is known (from a Brāhmaṇa-text) that he places eight (bricks) on each other Dhiṣṇyas.   
 
-[^1]: Cf. T3 V.4.11.4.  
 
 चतुरश्राः परिमण्डला वा धिष्णियाः॥५॥  
-5. The Dhiṣṇyas should be four-sided or round. 
 
 तेषां यावत्य इष्टकास्तावतीः शर्कराः परिश्रिताः॥६॥ 
-6. He encloses them with as many pebble-stones as many bricks there are.[^1]   
 
-[^1]: Cf. ŚB IX.4.3.9.  
 
 तव श्रिये व्यजिहीत पर्वतो गवां गोत्रमुदसृजो यदङ्गिरः। इन्द्रेण युजा तमसा परीवृतं बृहस्पते निरपामौब्जो अर्णवम्॥ बृहस्पते अति यदर्यो अर्हात्॥ बहस्पतिः समजयद्वसूनि महो व्रजान्गोमतो देव एषः। अपः सिषासन्त्सुवरप्रतीतो बृहस्पतिर्हन्त्यमित्रमरिति तिस्रो ब्रह्मसदने॥७॥ 
-7. With three verses beginning with tava śriye vyajihīta parvataḥ[^1] (he places) three (bricks) on the seat of the Brahman.[^2]   
 
-[^1]: KS XL. I1.  
-
-[^2]: Cf. KS XXII.11.  
 
 यमो दाधार पृथिवीं यमो विश्वमिदं जगत्। यमाय सर्वमित्तस्थे यत्प्राणद्वायुरक्षितम्॥ यथा पञ्च यथा षड्यथा पञ्चदशर्षयः। यमं यो विद्यात्स ब्रूयाद्यथैक ऋषिर्विजानते॥ त्रिकद्रुकेभिः पतति षडुर्वीरेकमिद् बृहत्। गायत्री त्रिष्टुप् छन्दांसि सर्वा ता यम आहितेति तिस्रो मार्जालीये॥८॥ 
-8. With (three verses beginning with) yamo dādhāra[^1] (he places) three bricks on the Mārjālīya(-dhiṣṇya)[^2].   
 
-[^1]: KS XL.11;  
-
-[^2]: Cf. KSXXII.11.  
 
 ## 17.22
 मृडा नो रुद्रोत नो मयस्कृधि॥ अश्याम ते सुमतिं देवयज्यया क्षयद्वीरस्य तव रुद्र मीढ्वः सुम्नायन्निद्विशो अस्माकमा चरारिष्टवीरा जुहवाम ते हविः।। त्वेषं वयं रुद्रं यज्ञसाधनं वर्षं कविमवसे नि ह्वयामहे। आरे अस्मदमतिं हेडो अस्यतु सुमतिमिद्वयमस्या वृणीमह इति तिस्रश्चात्वाले॥१॥ . 
-1. With (three verses beginning with) mr̥ḍā no rudrota no mayaskr̥dhi[^1] (the Adhvaryu places) three (bricks) on the Cātvāla (pit).[^2]   
 
-[^1]: KS XL.11.  
 
-[^2]: Cp. KS XXII. 11 according to which these bricks are to be kept to the south of the Paśuśrapaṇa. That indicates Cātvāla. 
+हव्यं प्रीणीहि हव्यं श्रीणीहि हव्यं पच हव्यं श्रपय हव्यमसि हव्याय त्वा हव्येभ्यस्त्वा हव्ये सीदेत्यष्टौ शामित्रे॥२॥ 
 
-हव्यं प्रीणीहि हव्यं श्रीणीहि हव्यं पच हव्यं श्रपय हव्यमसि हव्याय त्वा हव्येभ्यस्त्वा हव्ये सीदेत्यष्टौ शामित्रे॥२॥ 3: 2. With havyai priṇihi...' he places eight bricks on the Samitra.  
-
-[^1]: Cp. KS LX.12.  
-
-[^2]: Not mentioned in KS.  
 
 अव ते हेडः। उदुत्तमम्। तत्त्वा यामीति तिस्रो ऽवभृथे॥३॥ 
-3. With ava te heḍaḥ...,[^1] uduttamam[^2]... and tattvā yāmi...[^3] he places three (bricks) on the (places where) Avabhr̥tha (ritual is to be performed)[^4].  
 
-[^1]: TS I.5.11.i.  
-
-[^2]: TS I.5.11.k.  
-
-[^3]: TS II.1.11.w. The three verses in this context are mentioned in KS XL.11.  
-
-[^4]: Cf. KS XXII. 11.  
 
 तासु प्रचरन्ति॥४॥  
-4. On these they perform (the Avabhr̥tha-)ritual.  
+ 
 
 खण्डाः कृष्णा लक्ष्मणाश्चोत्कर उदस्यति॥५॥ 
-5. He throws the broken, black and (unwantedly) marked (bricks) on the Utkara (rubbish-heap).  
+
 
 
 अवशिष्टाश्च भित्त्वा यत्प्राग्यूपसंमानात्तत्कृत्वैकयूपमेकादश वा यूपान्समि 
 नोति॥६॥ 
-6. And having broken the remaining (bricks) then having done whatever is before the act of fixing of the sacrificial post,[^1] he fixes one or eleven sacrificial posts.   
 
-[^1]: In connection with the Agnīṣomīya-animal-sacrifice. (see XI.16.1); (See also VII. 10.9).  
 
 तेषां पूर्वेधुरग्निष्ठम्। अत्रैवेतरान्। श्वो वा॥७॥ 
-7. Out of them he fixes the post, standing in front of the fire i.e. the central post on the day preceding the Sutya-day and the others either at this time only or on the next day.[^1]   
 
-[^1]: After the ritual mentioned in XIV.5 is done. 
 
 एकयूपे वैकादशिनानुपाकरोति॥८॥ 
-8. Or he dedicates all the animals on one post only.[^1]  
 
-[^1]: In case there is only one post.  
 
 अग्नीषोमीयस्य पशुपुरोडाशमष्टौ देवसुवां हवींप्यनुनिर्वपति॥९॥ 
-9. After the material has been taken out for the sacrificial bread in connection with the animal-sacrifice for Agni and Soma[^1] he takes out the material for the Devasū-offerings[^2].  
 
-[^1]: See XI.20.13.  
-
-[^2]: Cf. ŚB IX.4.3.12. For these offerings see XIII.24.8.  
 
 समानं तु स्विष्टकृदिडम्॥१०॥ 
-10. The Sviṣṭakr̥t and Iḍā (for both of these offerings should) however (be) common.  
 
-[^1]: Cf. ŚB IX.4.3.15.  
 
 ## 17.23
 पुरस्तात्प्रातरनुवाकादग्निं युनज्मीति तिसृभिरभिमृशन्नग्निं युनक्ति॥१॥ 
-1. Before the morning litany,[^1] with three verses beginning with agniṀ yunajmi[^2] (the Adhvaryu), while touching the fire-altar-builiding “yokes"[^3] it.[^4]   
 
-[^1]: Cf. ŚB IX.4.4.1  
-
-[^2]: TS IV.7.13.a-c.  
-
-[^3]: i.e. he brings it into use.  
-
-[^4]: Cf. TS V.4.10.1. According to ŚB IX.4.4.3 he touches the enclosing sticks.  
 
 यद्येनं पूर्वो भ्रातृव्यो ऽभीव स्यादष्टौ गायत्रीः पुरस्तादबहिष्पवमानादुप दध्यात्। एकादश त्रिष्टुभः पुरस्तान्माध्यंदिनात्। द्वादश जगतीः पुरस्ता दार्भवात्॥२॥ यदि वापर एतद्विपरीतम्। उपरिष्टात्पवमानेभ्य उपधीयन्ते॥३॥ . . 
-2. If the enemy in the east is likely to attack him, he should place (eight bricks with) Gāyatri (-verses) before the Bahiṣpavamāna(-laud); eleven... Triṣṭubh... before the Mādhyandina (midday-laud); twelve... Jagatī... before the Ārbhava (-laud). 
 
-3. Or if the enemy in the west (is likely to attack him) this (should be done) reversely-(these bricks) are placed after the (above mentioned) Pavamāna (-lauds).[^1]   
 
-[^1]: Cp. KS XXII. 10.  
+
 
 पशुकाल आग्नेयं सवनीयं पशुमुपाकरोति। ऐकादशिनान्वारा 
-4. At the time of the animal-sacrifice on the Soma-sacrificial day[^1] he dedicates the animal to Agni; or (he dedicates) the eleven animals (to various deities).  
 
-[^1]: See XII.18.12.  
 
 दक्षिणाकाले हिरण्यपात्रं मधोः पूर्णं शतमानस्य कृतं चित्रं देवानामित्य वेक्ष्याश्वेनावघ्राप्य ब्रह्मणे ददाति॥५॥ 
-5. At the time of giving the gifts[^1], with citraṁ devānām...[^2] having seen and then caused a horse to smell a golden vessel made out of hundred Mānas in weight, full of honey, (the sacrificer) gives it to the Brahman.[^3]   
 
-[^1]: See XIII.6.12.  
-
-[^2]: TS II.4.14.p.  
-
-[^3]: Cf. KSXXII.8.  
 
 
 अध्वर्यवे कल्याणीदक्षिणा ददाति॥६॥ यद्यस्याग्निं चिनोति यज्ञायज्ञीयस्य स्तोत्र एकयाप्रस्तुतं भवति॥७॥ अथ नमस्ते अस्तु मा मा हिंसीरिति द्वाभ्यामग्निमभिमृश्यैकादश समिष्टयजूंषि जुहोति॥८॥ 
-6. If the Adhvaryu builds his fire-altar-building[^1] (the sacrificer) gives him (in addition to the usual gifts some ohter) auspicious gifts. 
 
-[^1]: Cp. XVI.21.7-8.  
 
-7. When the Yajñāyañīya-stotra is sung but one (verse), 
 
-8. then with two verses beginning with namaste astu mā mā hiṁsīḥ[^2] having touched the fire-altar-building (the 
-Adhvaryu) offers eleven Samiṣṭayajus-libations).   
 
-[^2]: TS IV.7.13.d-e. Cf. TS V.4.10.2.  
+
 
 नवावरिकाणि हुत्वेष्टो यज्ञो भृगुभिरिति दशमैकादशे जुहोति॥९॥ 
-9. After having offered the nine (Samiṣṭayajus-libations) connected with Soma-sacrifice,[^1] with iṣṭo yajño yajño bhr̥gubhiḥ...[^2] he offers the tenth and eleventh (Samiṣṭayajus libations).  
 
-[^1]: See XII.18.4.  
-
-[^2]: TS V.6.8.g. The second formula is missing. Cp. ŚB IX.5.1.30-31. According to Dhūrtasvāmin the same formula is to be used twice. According to Tālavr̥ndavāsin this formula should be divided into two.   
 
 
 अनूबन्ध्यावपायां हुतायामौदुम्बरी स्रुचं घृतस्य पूरयित्वेमं स्तनमूर्जस्वन्तं धयापामित्यग्नेर्विमोकं जुहोति॥१०॥ 
-10. After the momentum of the Anūbandhyā-cow for Mitra and Varuṇa is offered,[^1] having filled the ladle made of Udumbara with ghee, with imaṁ stanam ūrjasvantam...[^2] he offers the libation named Agner Vimoka (Unyoking of Agni).[^3]   
 
-[^1]: See XIII.23.6.  
-
-[^2]: TS V.5.10.e.  
-
-[^3]: Contrast XVII.23.9. For this Sūtra cf. TS V.5.10.7.   
 
 
 हुते सक्तुहोमे यदाकूतादिति दशाकूतीर्हत्वा प्रत्यवरुह्य पुनर्मनः पुनरा युरागात्पुनः प्राणः पुनराकूतमागात्। वैश्वानरो रश्मिभिर्वावृधानो ऽन्तस्तिष्ठ त्वमृतस्य गोपा इत्युपतिष्ठते॥११॥ 
-11. After the offering of Barley-flour is done,[^1] with yadākūtāt...[^2] having offered ten libations (of ghee),[^3] then having come down from the fire-altar-building he stands near praising it with punarmanah punarāyuḥ....[^4] 
 
-[^1]: See XIII.24.16.  
-
-[^2]: TS V.7.7.a-k.  
-
-[^3]: For these libations to be offered at this time see ŚB IX.5.1.42f.  
-
-[^4]: Cp. TB III. 10.8.9.  
 
 ये ऽग्नयः पुरीष्या इति प्रयास्यन्नाप्तिभिरग्निं यजमान उपतिष्ठते॥१२॥ 
-12. When about to go away the sacrificer stands near (the fire-altar-building), praising it with the (formulae called) Āpti (obtainments)[^1] beginning with ye agnayaḥ purīṣyāḥ.[^2]   
 
-[^1]: After the entire ceremony is over.   
-
-[^2]: Really speaking the formulae apāṁ tvā... (TS V.5.7.5) are meant here. But actually Āpastamba follows here KS XXII. 10. 
 
 
 XVII.24 
 उप त्वाग्ने दिवेदिव इति तिसृभिरन्येषामग्नीन् दृष्ट्वाग्निं चित्वा सौत्रामण्या यजेत। मैत्रावरुण्या चामिक्षया॥१॥ 
-la. Having seen the fire-altar-buildings of other (sacrificers) the sacrificer should stand near praising them with three (verses beginning)[^1] with upa ivāgne.[^2]  
 
-[^1]: Cf. KS XXII. 10.  
-
-[^2]: TS 1.5.6.f-h. This part of the Sūtra should be a part of XVII.23.12.  
-
-1b. After having built fire-altar he should perform the Sautrāmaṇi (-offering)[^1] or an offering with milkmess to Mitra and Varuṇa.?  
-
-[^1]: Cf. TS V.5.4.2-3.  
-
-[^2]: Cf. TB III. 12.5.12. We should read vamikṣayā instead of cāmikṣyà (cp. XIX.15.15).  
 
 संवत्सरं न कंचन प्रत्यवरोहेन च रामामुपेयात्। न पक्षिणो ऽश्नीयात्॥२॥ 
-2. For one year (after the fire-building-ritual and the Soma-sacrifice connected with it) (the sacrificer) should not get down (from his vehicle or seat) for anyone[^1]; he should not practise intercourse with any black woman[^2]; he should not eat any bird.[^3]   
 
-[^1]: Cf. TS V.5.4.2-3.   
-
-[^2]: Cf. TS V.6.8.3.   
-
-[^3]: Cf. TS V.7.6.1.  
 
 
 यावन्जीवं च मस्तिष्कस्य नाश्नीयान्न च वर्षति धावेत्॥३॥ 
-3. And for the whole life he should not eat brain and should not run in rain.[^2]  
 
-[^1]: No support from any Brāhmaṇa-text.  
-
-[^2]: Cf. KS XXI.12.  
 
 यदि धावेदुपावर्तेत॥४॥  
-4. And if he were to run (in rain)[^1] he should return.  
 
-[^1]: i.e. if there would be rains while he is on his way.  
 
 न द्वितीयं चित्वान्यस्य स्त्रियमपेयात्। न तृतीयं चित्वा कांचन। भायाँ वोपेयात्।।५॥ 
-5. Having built the fire altar for the second time, he should not practise intercourse with another's wife; having built for the third time he should practise intercourse with any woman or he may practise with his wife.[^1]   
 
-[^1]: Cf. TS V.6.8.3-4.   
 
 अग्निं चित्वैतस्मिन्संवत्सरे यो न यात्स क्रतुमाहरमाण एकचितीकं चिन्वीत॥६॥ 
-6. Having built the fire-altar, he who will not prosper within one year, should build (before) performing a Soma sac rifice, a fire-altar with one layer.   
+
 
 सलिलाय त्वेत्यष्टौ नानामन्त्रा उत्तरवेद्यामुपदध्यात्। यथार्थं लोकंपृणा अथ पुरीषम्॥७॥ 
-7. (At that time) with salilāya tvā...[^1] (the Adhvaryu) should place eight bricks (each) with a separate formula on the Uttaravedi; the Lokampr̥ṇā (-brick)s as per requirement; and then loose soil.   
 
-[^1]: TS IV.4.6.i.  
 
 अथ यो न प्रतितिष्ठेत्स क्रतुमाहरमाण एकचितीकमेव चिन्वीत॥८॥ 
-8. He who may not be established, however, should build before performing a Soma sacrifice, a fire-altar with one layer.  
 
 
 संयच्च प्रचेताश्चेति पञ्च नानामन्त्रा उत्तरवेद्यामुपदध्यात्। यथार्थं लोकंपृणा अथ पुरीषम्॥९॥ 
-9. (At that time) with saṁyacca pracetāśca...[^1] the Adhvaryu should place five bricks (each) with a separate formula on the Uttaravedi; the Lokaṁpr̥ṇa (-bricks) as per requirement and then loose soil.  
 
-[^1]: TS IV.4.11.h-n.  
 
 विपरीतौ कामावेके समामनन्ति॥१०॥ 
-10. Some (ritualists) think that the desires (should be) reversed.[^1]   
 
-[^1]: Thus the building with five bricks should be done in the case mentioned in Sūtra 6 and the building with eight bricks should be done in the case mentioned in Sūtra 8.  
 
 पुनश्चितिस्त्रिष्वर्थेषु श्रूयते। श्रवणार्थे समृद्ध्यर्थे संतानार्थे वा॥११॥ 
-11. (In the sacred texts) the re-building[^1] of the fire-altar is heard for three purposes: In order that (the sacrifice) should not go to nothing,[^2] for the sake of prosperity of the sacrifice and for the sake (of progeny of the sacrificer).[^3]    
 
-[^1]: For this subject see TS V.4. 10.3-5; MS III.4.5, KS XII.2. ŚB VII.6.3.8-24.  
-
-[^2]: We must read friyate nravanārthe, cp. BaudhāŚS XXV.30.  
-
-[^3]: Out of these three purposes TS refers to only the first. For the remaining two cf. MS III.4.5.  
 
 श्रवणार्थी व्याख्यास्यामः॥१२॥ 
-12. We shall explain the fire-altar-building to be built in order that the sacrifice should not go to nothing.[^1]  
 
-[^1]: The Sūtras 11-12 should have been continuous and therefore we should read santânārthe vāsravaṇārthām. The description of this topic continues upto XVII.25.9.  
 
 यदीष्ट्या यदि पशुना यदि सोमेन यजेत यो ऽस्य पुराग्निस्तमन्ववसाय यजेत॥१३॥ 
-13. If (the sacrificer) performs an Iṣṭi (or) an animal-sacrifice (or) a Soma-sacrifice, he should perform it after having gone near his earlier fire (i.e. the built-up fire-altar).[^1]   
 
-[^1]: Cf. MS III.4.5; KS XXII.2.  
 
 अपि वा येनर्षय इत्यष्टौ नानामन्त्रा उत्तरवेद्यामुपदध्यात्। यथार्थ लोकंपृणा अथ पुरीषम्॥१४॥ 
-14. Or (in that case) with yenarṣayaḥ... (the Adhvaryu) should place eight bricks (each) with a seperate formula on the 
-Uttaravedi; the Lokaṁpr̥ṇa (brick)s as per requirement; and then loose soil.   
 
-[^1]: TS IV.7.13.f-n. For the use of these verses in Punaściti cf. ŚB VIII.8.3.18.  
 
 ## 17.25
 
 अपि वोत्तरवेद्यामुपर्यग्नौ धार्यमाणे प्रजापतिस्त्वा सादयतु तया देवत याङ्गिरस्वधुवा सीदेत्युत्तरवेदिमभिमशेत्॥१॥ 
-1. Or instead of placing the bricks with these verses, with prajāpatis tvā sādayatu...[^1] (the Adhvaryu) should touch the Uttaravedi while fire is being held above[^2].   
-
-[^1]: TS V.5.2.4.  
-
-[^2]: The source of this rule not known.   
+ 
 
 अपि वा तिस्त्रः स्वयमातृण्णाः ॥२॥  
-2. Or (he should place) three naturally perforated stones.'   
 
-[^1]: Cf. ŚB IX.5.1.58.  
 
 तासामुपधानकल्पः॥३॥  
-3. The procedure of placing these (is as follows):  
+ 
 
 स्वयमातृण्णा सामपुरीषम्। एवं विहिता द्वितीया। अपुरीषा तृतीया।।४॥ 
-4. (The Adhvaryu should place the first) naturally perforated stone and then soft loose soil (sāmapurīṣa). In the same manner the second is prescribed. The third is without loose soil.  
+
 
 अपि वा तिस्त्रः स्वयमातृण्णास्तिस्त्रश्च विश्वज्योतिषः॥५॥ 
-5. Or there should be three naturally perforated stones and three Viśvajyotis (bricks).[^1]   
 
-[^1]: See XVI.24.7; XVII.1.17; XVII.4.4. Cp. ŚB IX.5.1.60.  
 
 तासामुपधानकल्पः॥६॥  
-6. The procedure of placing these (is as follows):  
+
 
 स्वयमातृण्णा सामपुरीषमथ विश्वज्योतिः। एवं विहिता द्वितीया। तृतीयस्यां तु विश्वज्योतिः प्रथमाथ स्वयमातृण्णाथ सामपुरीषम्॥७॥ 
-7. (He should place) the first naturally perforated stone and then soft loose soil, then the Viśvajyotis-brick. In the same manner the second layer. In the third layer, however, he should first place the Viśvajyotis brick, then the naturally perforated stone and then the loose soil.  
+
 
 अपि वाष्टौ लोकंपृणाः पुरीषम्। एकादश लोकंपृणाः पुरीषम्। द्वादश लोकंपृणाः पुरीषम्॥८॥ 
-8. Or there should be eight Lokaṁpr̥ṇā-bricks and loose soil; eleven Lokaṁpr̥ṇa-bricks and loose soil; twelve Lokaṁpr̥ṇā-bricks and loose soil.  
+
 
 अग्निं चित्वा यः सोमेन यजेत स एता एकत्रिंशतं लोकंपृणा उत्तरवेद्या मुपधाय यजेत॥९॥ 
-9. He who after having built the fire-altar performs a Soma-sacrifice, should perform it after having kept thirty-one Lokaṁpr̥ṇā (space-filler-brick)s on the Uttaravedi.   
 
-[^1]: Cp. Perhaps MS IV.4.5.  
 
 समृद्ध्यर्थायां तु द्वितीयं चिन्वानो द्वितीयस्यां चितौ येनर्पय इत्यादी नानामन्त्रा उत्तरवेद्यामुपदध्यात्। अष्टौ च लोकंपृणा अथ पुरीषम्॥१०॥ 
-10. Building (a fire-altar) second time however, for the sake of presperity (of the sacrificer)[^1] he should place at the time of the second layer eight bricks each having separate formula on the Uttaravedi with yenarṣayaḥ...[^2] and then should place eight Lokaṁpr̥ṇās and then loose soil.  
 
-[^1]: See XVII.24.11.  
-
-[^2]: TS IV.7.13.f-n.   
 
 श्वो भूत एताश्चैव नानामन्त्रा एकादश च लोकंपृणा अथ पुरीषम्॥११॥ 
-11. On the next day (he places) the same bricks each having a separate formula, and eleven Lokaṁpr̥ṇā (bricks) (and) the loose soil.  
 
 
 श्वो भूत एताश्चैव नानामन्त्रा द्वादश च लोकंपृणा अथ पुरीषम्॥१२॥ 
-12. On the next day (he places) the same (bricks) each having a separate formula,[^1] and twelve Lokaṁpr̥ṇa (bricks) (and) then loose soil.   
 
-[^1]: For Sūtras 10-11 cf. KS XXII.2.  
 
 संतानार्थायां तु तृतीयं चिन्वानस्तृतीयस्यां चितौ येनर्षय इत्यष्टौ नानामन्त्रा . उत्तरवेद्यामुपदध्यात्। यथार्थं लोकंपृणा अथ पुरीषम्॥१३॥ 
-13. Building (a fire-altar) third time, however, for the sake progeny of the sacrificer he should palce at the time of the third layer eight bricks each having a separate formula on the Uttaravedi with yenarṣayaḥ, then (should place) the Lokaṁpr̥ṇās as required and then loose soil[^1].  
 
-[^1]: Cf. KS XXII.2.  
 
 ## 17.26
 अथो खल्वाहुर्न चेतव्येति। रुद्रो वा एष यदग्निरित्युक्तम्॥१॥ 
-1. Now indeed they say: “The fire-altar should not be built (again)." It is said (in a Brāhmaṇa-text): “This Agni (fire altar) indeed is Rudra."[^1]  
 
-[^1]: TS V.4.10.5.  
 
 छन्दश्चितमिति काम्याः। ते शुल्बेष्वनुक्रान्ताः॥२॥ 
-2. They are the optional fire-altar-buildings described in the section beginning with chandaścitam.[^1] They are discussed in the Śulbasūtras in accordance with the sequence.[^2]   
 
-[^1]: TS V.4.11.  
-
-[^2]: Āpastambaśulbasūtra XII.3 (see Z.D.M.G. LV, p. 578ff).  
 
 
 तापश्चिते ऽग्नौ संवत्सरं दीक्षाः। संवत्सरमुपसदः॥३॥ 
-3. In the Tapaścita-fire-altar-building[^1] there should be Dīkṣā-(period) for one year, Upasads for one year.  
 
-[^1]: See TMB XXV.5.1ff, TS V.6.5.1, KS XXII.3; ŚB X.2.5.1ff.  
 
 पुरस्तादुपसदामाग्नेयमष्टाकपालमिति पञ्च चतुरश्चतुरो मासानेकैकेनोप सन्मन्त्रेण जुहोति॥४॥ 
-4. Before the Upasads the Adhvaryu should take out the offering-material for a sacrificial bread on eight potsherds for Agni, (for a sacrificial bread on eleven potsherds for Indra, ...on twelve potsherds for Viśvedevas, for rice-pap for Br̥haspati, and for a sacrificial bread on three potsherds for Viṣṇu). (During this first year preceding the year of Fire-altar building and of Soma-sacrifice he should offer for each four months with one of the Upasad-formulae).[^1]   
 
-[^1]: See the note on XVI.35.7.  
 
 अनूपसदमग्निं चिनोति॥५॥ 
-5. In accordance with the Upasad days he builds the fire altar[^1].  
 
-[^1]: Cp. XVI.35.8.  
 
 द्वौद्वौ मासावेकैका चितिः। चतुर उत्तमा॥६॥ 
-6. For each (period of) two months, (he builds) the one (out of the first four layers); for the last four (months) the last (layer).   
 
-[^1]: Cp. XVI.35.9.  
 
 चतुस्तनं त्रिस्तनं द्विस्तनमेकस्तनमिति त्रीस्त्रीन्मासान्त्रतानि॥७॥  
-7. During these months on which Upasads are performed (the sacrificer consumes) fast (milk)s of four teats, three teats two teats and one teat for every (period of) three months.   
 
-[^1]: Cp. XVI.35.10.  
 
 ऋषीणामाग्नेयेन संवत्सरमुपधान आस्ते॥८॥ 
-8. He remains under the recitation of a hymn of R̥ṣis addressed to Agni for the entire year.[^1]   
 
-[^1]: The translation is doubtful.  
 
 विज्ञायत एतद्वा ऋषीणामाग्नेयं यद्याज्ञसेनी चितिरिति॥९॥ 
-9. It is known from a Brāhmaṇa-text: “This indeed is the hymn of Rṣis addressed to Agni namely the Yājñaseni-fire altar-building."[^1]   
 
-[^1]: See and cp. XVII.4.9. TS IV.4.4. is to be used for building.  
 
 यानि वा दशतयीष्वाग्नेयानि सूक्तानि स्युस्तैरुपदध्यात्॥१०॥ 
-10. Or he may place (the bricks) with those hymns addressed to Agni which are in the R̥gveda.   
+ 
 
 सूक्तपरिमाणा नानामन्त्रा इष्टकाः। यथार्थं लोकंपृणा अथ पुरीषम्॥११॥ 
-11. The number of bricks should be as much as the number of the hymns; each having separate formula; the number of the Lokaṁpr̥ṇās should be as much as required; then the loose soil (should be placed).  
+
 
 
 तृतीये संवत्सरे ऽभिजिता विश्वजिता वा यजेत॥१२॥ 
-12. In the third year one should perform either the Abhijit[^1] or Viśvajit[^2] sacrifice.[^3]   
-
-[^1]: Cf. TS V.6.5.2.  
-
-[^2]: Cf. ŚB X.2.5.16.  
-
-[^3]: For these two sacrifices see XXII.1.6(b)-15.  
+ 
 
 सर्ववेदसं ददाति॥१३॥ 
-13. (The sacrificer) should give all his wealth (as the sac rificial gift to the priests).  
 
-[^1]: Cf. ŚB X.2.5.16; TB XVI.5.2; KB XXV.14.  
 
 उदवसाय रोहिणीं वत्सच्छवीं सकर्णपुच्छावच्छातां सखुरां सुखुरिका वा बहिर्लोमः परिधायोष्णीषेणं प्रदक्षिणं शिरो वेष्टयित्वौदुम्बरं चमसमादत्ते। औदुम्बरी चाभ्रीं वैणवीं वा कल्माषीं पूर्ववत्प्रमाणाम्॥१४॥  
-14. Having completed the Abhijit or Viśvajit, having put red hide of a calf flayed along with the ears and tail, accompanied by the hoof or the upper foot parts, with its hairy side outside, having covered the head by means of a turban in a clockwise manner he takes a Camasa-pot made of Udumbara-wood or a spotted spade made of Udumbara-wood or Bamboo-wood[^1] of the size mentioned earlier.[^2]   
-
-[^1]: Cf. TMB XVI.6.1ff; JB II.182f; KB XXV.15.  
-
-[^2]: See XVI.1.7.  
 
 अरण्यौदुम्बरे तिस्रो रात्रीर्वसतो मूलफलभक्षौ। खनित्रेण वा जीवतः। मूलं परिखायैतस्मिन्पात्रे ऽवधायान्योऽन्यमप्यादयतः पत्नी यजमानश्च॥१५॥ 
-15. In forest under an Udumbara-tree the sacrificer and his wife stay for three days eating roots and fruits; or they live by means of the spade: having dug out root(s) (thereby) placing it (them) in this (Camasa)-pot, they feed it (them) each other.[^1]   
 
-[^1]: Cp. TMB XVII.6.3-6.  
 
 न मृन्मयेन पिबतः॥१६॥  
-16. They should not drink by means of an earthen vessel.   
+ 
 
 समूहकेन खनातकेन वा यजमानो भक्षमिच्छेत। उपवीक्षायेणोपविकृन्तेन वा पत्नीत्येकै॥१७॥ 
-17. According to some ritualists: "The sacrificer should seek his food by means of a broom,[^1] or by means of a shovel;[^2] the wife by means of an Upavīkṣāya[^3] or by means of a Upavikr̥nta."[^4]   
 
-[^1]: Cp. BaudhāyanaDharmasūtra III.2.12.   
-
-[^2]: Doubtful translation.   
-
-[^3-4]: Not clear.  
 
 निषादे तिस्रो रात्रीर्वसतः। वैश्ये तिस्त्रः। राजन्ये तिस्त्रः। ब्राह्मणे वा तित्रस्तिस्त्रः॥१८॥ 
-18. They stay with a Niṣāda (hunter) for (another period of) three days, with a Vaiśya... three days, ... with a Kṣatriya, or with a Brāhmaṇa each period of three days.  
 
 संवत्सरं न याचेत्। न च दीयमानं प्रत्याचक्षीत॥१९॥ 
-19. The sacrificer should not beg (any one) for one year nor should reject whatever is being given.[^1]  
-
-
-[^1]: Cf. TMB XVI.6.11-12.  
+ 
 
 न चेत्संवत्सरं द्वादशाहं द्वादशाहम्॥२०॥  
-20. If not for year (at least) for twelve days. 
