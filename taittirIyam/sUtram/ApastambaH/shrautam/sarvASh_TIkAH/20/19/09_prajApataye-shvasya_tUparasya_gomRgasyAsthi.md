@@ -5,5 +5,5 @@ title = "09 प्रजापतयेऽश्वस्य तूपरस्�
 
 <details><summary>थिते</summary>
 
-प्रजापतयेऽश्वस्य तूपरस्य गोमृगस्यास्थि लोम च तिर्यगसम्भिन्दन्तः सूकरविशसं विशसतेति सम्प्रैषवत्कुर्वन्ति ९
+9. (The slaughterers) carry out their work as ordered (by the Adhvaryu viz.) “For the sake of Prajāpati cut the animals in the same manner in which the swines are cut; obliquely, splitting without the bones and hair of the horse, of the horn less goat and of Gomr̥ga".  
 </details>

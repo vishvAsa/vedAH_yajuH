@@ -5,5 +5,7 @@ title = "08 बह्वीनाम् पिता बहुरस्य"
 
 <details><summary>थिते</summary>
 
-बह्वीनां पिता बहुरस्य पुत्र इति पृष्ठ इषुधिं निनह्यति ८
+8. He fixes the quiver on the back with bahvīnāṁ pitā...[^1]  
+
+[^1]: TS IV.6.6.e. 
 </details>

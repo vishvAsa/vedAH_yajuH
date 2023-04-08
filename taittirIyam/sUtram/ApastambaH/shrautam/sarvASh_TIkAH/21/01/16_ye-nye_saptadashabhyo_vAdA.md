@@ -5,5 +5,5 @@ title = "16 येऽन्ये सप्तदशभ्यो वादा"
 
 <details><summary>थिते</summary>
 
-येऽन्ये सप्तदशभ्यो वादा अहीन एव ते स्थानिनः १६
+16. The words (referring to the number) other than seventeen find their place only in the (Dvādaśāha of the) Ahīna type.  
 </details>

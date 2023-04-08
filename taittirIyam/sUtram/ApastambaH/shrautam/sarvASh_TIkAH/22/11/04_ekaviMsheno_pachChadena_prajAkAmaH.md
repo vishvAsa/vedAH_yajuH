@@ -5,5 +5,5 @@ title = "04 एकविंशेनो पच्छदेन प्रजाक
 
 <details><summary>थिते</summary>
 
-एकविंशेनो पच्छदेन प्रजाकामः ४
+4. One who is desirous of Progeny should perform the Aupacchada (-sacrifice).  
 </details>

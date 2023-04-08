@@ -5,5 +5,7 @@ title = "16 अथैकेषाम् पृष्ठ्या आक्ष्
 
 <details><summary>थिते</summary>
 
-अथैकेषाम् । पृष्ठ्या आक्ष्यन्ति चादित्यानामयनमभिप्लवा आक्ष्यन्ति चाङ्गिरसामयनम् । यदन्यत्पृष्ठाभिप्लवेभ्यस्तान्याक्ष्यन्तीत्याचक्षते १६
+16. Now according to some the Ādityānām ayanam should consist of only Pr̥ṣṭhya-six-day-periods and the Ākṣyat-days and the Aṅgirasām Ayanam should consist of only Abhiplava six-day periods and the Ākṣyat-days. They say that whatever is different from the Pr̥ṣṭhya and Abhiplava is called Akṣyat.  
+
+[^1]: Cf. AB IV.17.  
 </details>

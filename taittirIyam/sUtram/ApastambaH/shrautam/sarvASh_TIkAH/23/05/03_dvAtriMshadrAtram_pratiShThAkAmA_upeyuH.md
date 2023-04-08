@@ -5,5 +5,5 @@ title = "03 द्वात्रिंशद्रात्रम् प्र�
 
 <details><summary>थिते</summary>
 
-द्वात्रिंशद्रात्रं प्रतिष्ठाकामा उपेयुः ३
+3. (The performers) desirous of firm establishment should perform the thirty-two-day-sacrificial-session.  
 </details>

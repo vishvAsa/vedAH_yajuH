@@ -24,5 +24,5 @@ The Gavāmayana lasts three years, and it is the type of all Sāṃvatsarika sac
 
 <details><summary>थिते</summary>
 
-गवामयनं सांवत्सरिकाणाम् ५
+5. Gavāmayana (Course of Cows) (is the basic paradigm) of the year-long-sacrificial-sessions.  
 </details>

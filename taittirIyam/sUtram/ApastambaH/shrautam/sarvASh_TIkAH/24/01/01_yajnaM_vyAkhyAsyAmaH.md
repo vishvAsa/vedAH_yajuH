@@ -26,5 +26,5 @@ Yajña, yāga, yajana, and iṣṭi are considered as synonymes.
 
 <details><summary>थिते</summary>
 
-यज्ञं व्याख्यास्यामः १
+1. We shall explain sacrifice. 
 </details>

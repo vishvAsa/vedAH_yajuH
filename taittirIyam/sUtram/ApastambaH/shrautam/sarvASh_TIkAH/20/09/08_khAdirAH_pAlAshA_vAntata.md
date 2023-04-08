@@ -5,5 +5,5 @@ title = "08 खादिराः पालाशा वान्तत"
 
 <details><summary>थिते</summary>
 
-खादिराः पालाशा वान्तत इत्येके ८
+8. According to other (ritualists) there should be either (posts) of Khadira or of Palasa at the end (of each sides).
 </details>

@@ -5,5 +5,7 @@ title = "05 अथैकेषाम् यन्नाना जुहुया
 
 <details><summary>थिते</summary>
 
-अथैकेषाम् । यन्नाना जुहुयादात्मनो ऽङ्गानि विच्छिन्द्यात् । यत्समाहृत्याहुतीः संरुन्ध्यात्तदनु यजमानाः संरुन्ध्येरन् । स्तोका एवात्मन्प्रत्यानीय होतव्याः । प्रत्यहाङ्गानि ददाति नाहुतीः संरुणद्धि न यज्ञं विच्छिनत्तीति विज्ञायते ५
+5. According to some “If he were to offer them (the scoops) separately, he would cut limbs from the trunk (of the sacrifice). If he were to lock up the libations after having brought (the scoops) together, the sacrificer would be locked up; having poured together only some drops on the trunk (i.e in the middle vessel) they should be offered , thereby he brings the limbs together with the trunk; does not lockup the libations (and) does not cut the sacrifice" this is known (fromp a Brāhmaṇa-text).[^1]   
+
+[^1]: The Brāhmaṇa-text is not known.  
 </details>

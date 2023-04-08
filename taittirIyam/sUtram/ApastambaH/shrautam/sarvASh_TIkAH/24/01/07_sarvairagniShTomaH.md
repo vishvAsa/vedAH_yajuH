@@ -26,5 +26,5 @@ The Agniṣṭoma requires sixteen priests, the Paśu sacrifices six, the Cātur
 
 <details><summary>थिते</summary>
 
-सर्वैरग्निष्टोमः ७
+7. The Agniṣṭoma (is performed) with the help of all the Vedas.  
 </details>

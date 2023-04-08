@@ -24,5 +24,5 @@ Prāg adhivapanāt, before the strewing, is explained by prāg adhivapanārthak�
 
 <details><summary>थिते</summary>
 
-तयोरेव देवतोपदेशनं करोति १९
+19. He makes indication in accordance with the deity on each one of these two.  
 </details>

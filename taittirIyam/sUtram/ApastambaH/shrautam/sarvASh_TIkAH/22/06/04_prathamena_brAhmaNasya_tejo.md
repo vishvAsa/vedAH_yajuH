@@ -5,5 +5,6 @@ title = "04 प्रथमेन ब्राह्मणस्य तेजो
 
 <details><summary>थिते</summary>
 
-प्रथमेन ब्राह्मणस्य तेजो ब्रह्मवर्चसम् । द्वितीयेन क्षत्रियस्य राष्ट्रमुग्रमव्यथ्यम् । न तु बहुपशू इव भवतः ४
+4. By means of the first a Brāhmaṇa can obtain lustre and Brahman-splendour; by means of the second a Kṣatriya can obtain powerful and undisturbed kingdom. They, however, do not possess ample cattle.  
+
 </details>

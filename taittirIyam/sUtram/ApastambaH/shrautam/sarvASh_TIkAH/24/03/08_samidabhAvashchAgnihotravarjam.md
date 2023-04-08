@@ -24,5 +24,5 @@ In the case of the Agnihotra it is distinctly stated, dve samidhāv ādadhyāt, 
 
 <details><summary>थिते</summary>
 
-समिदभावश्चाग्निहोत्रवर्जम् ८
+8. And there is no fuel-stick (to be used in a Darvihoma) except in the Agnihotra. 
 </details>

@@ -5,5 +5,7 @@ title = "09 एता ऐन्द्राग्नाः पृश्नयो
 
 <details><summary>थिते</summary>
 
-एता ऐन्द्राग्नाः । पृश्नयो मारुताः । कृष्णा वारुणाः । कायास्तूपराः ९
+9. (Then there should be three he-goats) of variegatesed colour for Indra and Agni; three speckled ones for Maruts; (three) black ones for Varuṇa and (three) hornless ones for Ka[^1].  
+
+[^1]: vs XxIV.15.  
 </details>

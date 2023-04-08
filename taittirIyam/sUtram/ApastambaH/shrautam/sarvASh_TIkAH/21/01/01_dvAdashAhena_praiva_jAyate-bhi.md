@@ -5,5 +5,8 @@ title = "01 द्वादशाहेन प्रैव जायतेऽभ
 
 <details><summary>थिते</summary>
 
-द्वादशाहेन प्रैव जायतेऽभि स्वर्गं लोकं जयत्येषु लोकेषु प्रतितिष्ठति १
+1. One produces progeny, one wins the heaven, one establishes in these worlds by means of Dvādaśāha sacrifice.[^1]  
+
+[^1]: See TS VII.2.9.1. 
+
 </details>

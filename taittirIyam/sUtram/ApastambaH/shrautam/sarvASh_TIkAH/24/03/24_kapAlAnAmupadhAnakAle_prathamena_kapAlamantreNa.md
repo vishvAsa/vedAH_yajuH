@@ -24,5 +24,5 @@ Saṃnāma means the same as ūha, i.e. the modification of a verse so as to ada
 
 <details><summary>थिते</summary>
 
-कपालानामुपधानकाले प्रथमेन कपालमन्त्रेण चरुमुपदधाति २४
+24. At the time of placing the potsherds, he places the rice-pap with the first formula for the potsherd.  
 </details>

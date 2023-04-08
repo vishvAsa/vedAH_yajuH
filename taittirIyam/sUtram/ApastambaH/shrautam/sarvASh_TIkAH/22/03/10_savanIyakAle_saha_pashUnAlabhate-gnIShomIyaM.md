@@ -5,5 +5,7 @@ title = "10 सवनीयकाले सह पशूनालभतेऽग
 
 <details><summary>थिते</summary>
 
-सवनीयकाले सह पशूनालभतेऽग्नीषोमीयं सवनीयमनूबन्ध्यां च १०
+10. At the time of the Savanīya-animal-sacrifice he seizes (all) the animals jointly viz. the he-goat for Agni and Soma the Savanīya (he-goat) and the Anūbandhya (-cow).[^1]  
+
+[^1]: Cf. JB II. 17.  
 </details>

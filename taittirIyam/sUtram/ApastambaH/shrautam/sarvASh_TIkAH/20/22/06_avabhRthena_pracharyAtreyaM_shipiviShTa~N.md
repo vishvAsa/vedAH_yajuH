@@ -5,5 +5,7 @@ title = "06 अवभृथेन प्रचर्यात्रेयं श
 
 <details><summary>थिते</summary>
 
-अवभृथेन प्रचर्यात्रेयं शिपिविष्टं खलतिं विक्लिधं शुक्लं पिङ्गाक्षं तिलकावलमवभृथमभ्यवनीय तस्य मूर्धञ्जुहोति मृत्यवे स्वाहा भ्रूणहत्यायै स्वाहा जुम्बकाय स्वाहेति तिस्रः ६
+6. Having performed the Avabhr̥tha ritual, having brought in the water a man who belongs to the family of Atri, who is Sipiviṣṭa, bald, leper, white-skinned, yellow-eyed and spotted he offers a libation thrice on his head with mr̥tyave svāhā brahmahatyāyai svāhā, jumbakāya svāhā[^1].  
+
+[^1]: Cf. TB III.9.15.1-3.  
 </details>

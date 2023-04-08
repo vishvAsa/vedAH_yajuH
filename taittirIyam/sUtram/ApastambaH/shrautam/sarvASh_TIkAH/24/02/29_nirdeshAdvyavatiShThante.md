@@ -24,5 +24,5 @@ Nirdeśa is explained as viśeṣa-śruti, and the meaning is supposed to be tha
 
 <details><summary>थिते</summary>
 
-निर्देशाद्व्यवतिष्ठन्ते २९
+29. They are valid in specific things when there is specific mention. 
 </details>

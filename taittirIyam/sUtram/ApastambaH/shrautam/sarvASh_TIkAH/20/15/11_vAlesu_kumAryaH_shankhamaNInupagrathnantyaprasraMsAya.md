@@ -5,5 +5,5 @@ title = "11 वालेसु कुमार्यः शङ्खमणीन
 
 <details><summary>थिते</summary>
 
-वालेसु कुमार्यः शङ्खमणीनुपग्रथ्नन्त्यप्रस्रंसाय । न वा ११
+11. The maidens bind the conch beads in the hair of the tail in such a way that they will not fall ; or they do not (bind).  
 </details>

@@ -5,5 +5,5 @@ title = "10 तेषाम् पूर्वेद्युराग्ने�
 
 <details><summary>थिते</summary>
 
-तेषां पूर्वेद्युराग्नेयः सौम्यो बार्हस्पत्यश्च पशवः १०
+10. On the preceding day (one should seize three he-goats viz.) one for Agni, one for Soma and one for Br̥haspati.  
 </details>

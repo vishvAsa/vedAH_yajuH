@@ -5,5 +5,5 @@ title = "15 प्रातःसवने सन्नेषु नाराश
 
 <details><summary>थिते</summary>
 
-प्रातःसवने सन्नेषु नाराशंसेष्वन्नमन्नं जुहोति १५
+15. At the time of the morning-pressing, after the Narāśaṁsa-cups are deposited, (the Adhvaryu) offers all types of food (in the fire).  
 </details>

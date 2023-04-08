@@ -5,5 +5,5 @@ title = "07 बलूकान्तानि दामतूषाणीतर�
 
 <details><summary>थिते</summary>
 
-बलूकान्तानि दामतूषाणीतरेषाम् ७
+7. Of others (there should be) (the upper garments) with red borders and corded fringes, 
 </details>

@@ -5,5 +5,5 @@ title = "12 यद्यत्र सार्ष्टिम् प्रवृ
 
 <details><summary>थिते</summary>
 
-यद्यत्र सार्ष्टिं प्रवृणीरन्नेक एवैषां प्रवरः । मानवैड पौरूरवसेति । पुरूरवोवदिडावन्मनुवदिति १२
+12. If they may mention the series of ancestors along with a R̥ṣi, then there should be only one series of ancestors. (The Hotr̥ says): O Mānava, Aiḍa, Paurūravasa. (The Adhvaryu says): In the manner of Purāravas, Iḍā, Manu.  
 </details>

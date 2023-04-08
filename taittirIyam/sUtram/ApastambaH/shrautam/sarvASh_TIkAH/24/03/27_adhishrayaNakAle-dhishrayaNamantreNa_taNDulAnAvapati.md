@@ -20,5 +20,5 @@ Without taking the caru (out of the sthālī) one puts it down.
 
 <details><summary>थिते</summary>
 
-अधिश्रयणकालेऽधिश्रयणमन्त्रेण तण्डुलानावपति २७
+27. At the time of placing (the offering-material) on (the fire) he takes out the rice-grains with a formula meant for placing (the material) on (the fire).  
 </details>

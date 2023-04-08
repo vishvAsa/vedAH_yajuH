@@ -24,5 +24,5 @@ With the earlier portions, there is a rule which of two gods should have the fir
 
 <details><summary>थिते</summary>
 
-उत्तमौ यथाभागं व्यावर्तेथामिति १८
+18. To the last two (portions) (one should address) with yathābhāgaṁ vyāvartethām....  
 </details>

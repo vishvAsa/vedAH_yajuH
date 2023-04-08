@@ -5,5 +5,6 @@ title = "03 तां राजारोहति"
 
 <details><summary>थिते</summary>
 
-तां राजारोहति ३
+3. The king ascends upon it. 
+
 </details>

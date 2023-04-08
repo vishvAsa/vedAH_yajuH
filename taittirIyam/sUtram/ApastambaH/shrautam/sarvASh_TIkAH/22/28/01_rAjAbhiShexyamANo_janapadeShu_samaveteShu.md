@@ -5,5 +5,5 @@ title = "01 राजाभिषेक्ष्यमाणो जनपदे�
 
 <details><summary>थिते</summary>
 
-राजाभिषेक्ष्यमाणो जनपदेषु समवेतेषु द्वयोः पुण्याहयोः पूर्वस्मिन्स्थण्डिलं कल्पयित्वाग्निमुपसमाधाय सम्परिस्तीर्य वसति १
+1. A king who is going to be sprinkled water upon (and thus consecrated for being a king), should remain, for two auspicious days ater having on the first day prepared a place for the domestic fire, having put fuel in it, and having scattered sacred grass around it, while the people in the kingdom have come together.  
 </details>

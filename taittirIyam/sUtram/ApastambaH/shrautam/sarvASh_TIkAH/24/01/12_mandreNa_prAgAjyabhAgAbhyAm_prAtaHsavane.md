@@ -24,5 +24,5 @@ The pronunciation is loud, uccaiḥ, but soft, mandra. Satyavrata restricts this
 
 <details><summary>थिते</summary>
 
-मन्द्रेण प्रागाज्यभागाभ्यां प्रातःसवने च १२
+12. One should recite in lower tone before the Ājyabhāgas in an Iṣṭi and at the time of the morning pressing in a Soma-sacrifice; 
 </details>

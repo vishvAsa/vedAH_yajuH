@@ -5,5 +5,5 @@ title = "14 ब्रह्मणि होत्रका उपहवमिच
 
 <details><summary>थिते</summary>
 
-ब्रह्मणि होत्रका उपहवमिच्छन्ते १४
+14. The Hotrakas seek invitation from the Brahman. 
 </details>

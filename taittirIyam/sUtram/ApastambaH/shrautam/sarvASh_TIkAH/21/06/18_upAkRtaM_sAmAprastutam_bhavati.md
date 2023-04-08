@@ -5,5 +5,5 @@ title = "18 उपाकृतं सामाप्रस्तुतम् भ
 
 <details><summary>थिते</summary>
 
-उपाकृतं सामाप्रस्तुतं भवति १८
+18. When the Saman is bespoken, but its Prastāva (-part) is not (yet) sung, 
 </details>

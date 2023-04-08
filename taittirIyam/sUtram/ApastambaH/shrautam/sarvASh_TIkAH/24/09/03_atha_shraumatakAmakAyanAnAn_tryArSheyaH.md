@@ -5,5 +5,5 @@ title = "03 अथ श्रौमतकामकायनानान् त्
 
 <details><summary>थिते</summary>
 
-अथ श्रौमतकामकायनानां त्र्यार्षेयः । वैश्वामित्र दैवश्रवस दैवतरसेति । देवतरसवद्देवश्रवोवद्विश्वामित्रवदिति ३
+3. Now there are three Rṣis of Śraumata-Kāmakāyanas. (The Hotr says): O Vaiśvāmitra, Daivaśravasa, Daivatarasa. (The Adhvaryu says). In the manner of Devatarasa, Devaśravasa, Viśvāmitra. 
 </details>

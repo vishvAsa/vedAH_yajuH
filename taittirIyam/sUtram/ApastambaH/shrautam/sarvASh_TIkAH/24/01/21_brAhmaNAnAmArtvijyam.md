@@ -24,5 +24,5 @@ Sacrifices may be performed for Kṣatriyas, Vaiśyas, and, in certain cases, ev
 
 <details><summary>थिते</summary>
 
-ब्राह्मणानामार्त्विज्यम् २१
+21. The priest-hood (is) a lot of Brāhmaṇas (only).  
 </details>

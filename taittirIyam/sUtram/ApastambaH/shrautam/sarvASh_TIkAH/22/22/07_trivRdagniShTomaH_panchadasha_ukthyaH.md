@@ -5,5 +5,8 @@ title = "07 त्रिवृदग्निष्टोमः पञ्चद�
 
 <details><summary>थिते</summary>
 
-त्रिवृदग्निष्टोमः पञ्चदश उक्थ्यः सप्तदश उक्थ्यो ज्योतिर्गौरायुरतिरात्रः ७
+7. (Its days are as follows): Agniṣṭoma with nine-versed Stoma, Ukthya with fifteen-versed Stoma, Ukthya with seventeen -versd Stoma, Jyotis, Go, Āyus[^1].   
+
+[^1]: Cf. TMB XXII.2.1. 
+
 </details>

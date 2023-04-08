@@ -5,5 +5,5 @@ title = "16 अथ वामदेवा गौतमाः"
 
 <details><summary>थिते</summary>
 
-अथ वामदेवा गौतमाः १६
+16. Now the Vāmadeva-Gautamas. 
 </details>

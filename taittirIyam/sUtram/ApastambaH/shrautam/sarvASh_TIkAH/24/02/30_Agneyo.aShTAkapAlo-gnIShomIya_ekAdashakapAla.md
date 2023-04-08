@@ -24,5 +24,5 @@ The Aṣṭā-kapāla is the cake baked in eight cups, the Ekādaśa-kapāla tha
 
 <details><summary>थिते</summary>
 
-आग्नेयो ऽष्टाकपालोऽग्नीषोमीय एकादशकपाल उपांशुयाजश्च पौर्णमास्यां प्रधानानि ३०
+30. A sacrificial bread prepared on eight potsherds for Agni, a sacrificial bread prepared on eleven potsherds for Agni and Soma, and the Upaṁaśu (inaudible) offering are the principal things in the Full-moon-sacrifice.  
 </details>

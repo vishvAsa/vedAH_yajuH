@@ -24,5 +24,7 @@ The Sūtras, in describing the performance of certain sacrifices, treat some of 
 
 <details><summary>थिते</summary>
 
-उपांशु काम्या इष्टयः क्रियन्त इति तत्र यावत्प्रधानमुपांशु ३१
+31. (It is said) “The optional-offerings are performed inaudibly[^1]". There (one has to understand that this rule is valid) as far as the main (rite in that offering) (is concerned).  
+
+[^1]: Cp. ŚB I.3.5.10. 
 </details>

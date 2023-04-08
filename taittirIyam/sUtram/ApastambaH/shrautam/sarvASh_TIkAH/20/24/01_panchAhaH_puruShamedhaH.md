@@ -5,5 +5,5 @@ title = "01 पञ्चाहः पुरुषमेधः"
 
 <details><summary>थिते</summary>
 
-पञ्चाहः पुरुषमेधः १
+1. Puruṣamedha (Man-sacrifice) is a five-day (Soma sacrifice). 
 </details>

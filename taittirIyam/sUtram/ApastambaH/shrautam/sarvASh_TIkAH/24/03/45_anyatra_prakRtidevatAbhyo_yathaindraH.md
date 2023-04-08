@@ -24,5 +24,5 @@ If a caru for Prajāpati occurs in a vikṛti sacrifice, it would follow that, b
 
 <details><summary>थिते</summary>
 
-अन्यत्र प्रकृतिदेवताभ्यो यथैन्द्रः पुरोडाशः सौम्यश्चरुरिति ४५
+45. Except the deities of the basic paradigm; as for example sacrificial bread for Indra and rice-pap for Soma.  
 </details>

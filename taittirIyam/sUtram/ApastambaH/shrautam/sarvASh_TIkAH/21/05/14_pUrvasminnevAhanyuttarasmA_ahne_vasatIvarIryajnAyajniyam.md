@@ -5,5 +5,5 @@ title = "14 पूर्वस्मिन्नेवाहन्युत्�
 
 <details><summary>थिते</summary>
 
-पूर्वस्मिन्नेवाहन्युत्तरस्मा अह्ने वसतीवरीर्यज्ञायज्ञियं प्रति गृह्णाति १४
+14. Every time on the previous day itself (the Adhvaryu) scoops the overnight-water (Vasatīvarī) for the Yajñyayajñiya stoma (performed on the next day).  
 </details>

@@ -70,5 +70,5 @@ Corresponding to these two kinds of Paurṇamāsī there are also two kinds of A
 
 <details><summary>थिते</summary>
 
-यदहः पुरस्ताच्चन्द्रमाः पूर्ण उत्सर्पेत्तां पौर्णमासीमुपवसेत् २१
+21. One should observe fast on that Full-moon-day on which the Full-moon rises in the east;  
 </details>

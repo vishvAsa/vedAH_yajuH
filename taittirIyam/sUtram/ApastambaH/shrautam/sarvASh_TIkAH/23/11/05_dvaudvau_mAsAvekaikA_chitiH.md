@@ -5,5 +5,7 @@ title = "05 द्वौद्वौ मासावेकैका चिति
 
 <details><summary>थिते</summary>
 
-द्वौद्वौ मासावेकैका चितिः । चतुर उत्तमा ५
+5. (Each layer of the fire-altar-building is built) during two months, the last one during the four months.[^1]  
+
+[^1]: Cp. XVII.26.6. 
 </details>

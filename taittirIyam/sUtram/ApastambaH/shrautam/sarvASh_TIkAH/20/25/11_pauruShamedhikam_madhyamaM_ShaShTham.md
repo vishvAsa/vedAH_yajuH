@@ -5,5 +5,5 @@ title = "11 पौरुषमेधिकम् मध्यमं षष्ठ
 
 <details><summary>थिते</summary>
 
-पौरुषमेधिकं मध्यमं षष्ठम् । तस्मिन्पुरुषान् ११
+11. The sixth day should be the (same as the ) middle day of Puruṣamedha. On it (he should seize) men (as victims).  
 </details>

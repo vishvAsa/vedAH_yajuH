@@ -5,5 +5,5 @@ title = "12 एवं विहितान्पञ्च मासानुप
 
 <details><summary>थिते</summary>
 
-एवं विहितान्पञ्च मासानुपयन्ति १२
+12. Thus they perform five months prescribed in this manner.  
 </details>

@@ -30,5 +30,5 @@ According to Maṇḍana's Trikāṇḍa, the degrees of similarity are to be de
 
 <details><summary>थिते</summary>
 
-परवाक्यश्रवणादर्थवादः ५१
+51. Atharvāda is there where the expression of another is heard. 
 </details>

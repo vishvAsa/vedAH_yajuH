@@ -5,5 +5,7 @@ title = "11 सप्तदश पृश्नीनुक्ष्णः पञ
 
 <details><summary>थिते</summary>
 
-सप्तदश पृश्नीनुक्ष्णः पञ्चवर्षानानयन्ति । सप्तदश पृश्नीर्वत्सतर्यस्त्रिवत्सा अप्रवीताः ११
+11. They bring seventeen spotted, five-year-old bulls; they also bring seventeen spotted, three-year-old, unimpregnated female calves.[^1]   
+
+[^1]: Cf. TMB XXI.14.7.   
 </details>

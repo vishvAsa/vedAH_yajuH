@@ -5,5 +5,5 @@ title = "17 अग्निष्टोमा इतरे अङ्गिरस
 
 <details><summary>थिते</summary>
 
-अग्निष्टोमा इतरे । अङ्गिरसां द्वितीयः । साध्यानां तृतीयः । मरुतां चतुर्थेनौजो वीर्यमाप्नोति । त्रयस्त्रिंशः पञ्चमः १७
+17. The others are to be performed as Agniṣṭomas. The second belongs to Aṅgirases; the third to Sādhyas; one obtains strength and valour by means of the fourth which belongs to Maruts.  
 </details>

@@ -5,5 +5,7 @@ title = "18 औदुम्बरश्चमसश्चतुःस्रक�
 
 <details><summary>थिते</summary>
 
-औदुम्बरश्चमसश्चतुःस्रक्तिः सोमस्य पूर्णः सगोत्राय प्रियाय ब्रह्मणे देयः १८
+18. A square Camasa (pot) made out of Udumbara-wood, filled with Soma-juice should be given to the Brahman belonging to the same Gotra (family) as that of the sacrificer and being (dear to him) (as a sacrificial gift).[^1]   
+
+[^1]: Cf. TMB XVIII.2.10-12; cp. JB II.158f. 
 </details>

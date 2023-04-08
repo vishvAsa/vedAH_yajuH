@@ -5,5 +5,5 @@ title = "03 ब्रह्मा पृच्छति यच्चतुर्
 
 <details><summary>थिते</summary>
 
-ब्रह्मा पृच्छति यच्चतुर्होतारः सत्त्रमासत केन ते गृहपतिनार्ध्नुवन्केनौषधीरसृजन्तेति ३
+3. The Brahman asks, “When the Caturhotr-s performed the sacrificial session with whom as Gphapati did they prosper (and) through whom did they create plants?" 
 </details>

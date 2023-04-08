@@ -20,5 +20,5 @@ The Hotṛ-priest performs with the Ṛg-veda.
 
 <details><summary>थिते</summary>
 
-ऋग्वेदेन होता करोति १६
+16. The Hotr̥ performs (his work) with the R̥gveda; 
 </details>

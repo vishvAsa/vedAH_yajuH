@@ -20,5 +20,5 @@ The name Veda belongs both to the Mantras and Brāhmaṇas.
 
 <details><summary>थिते</summary>
 
-मन्त्रब्राह्मणयोर्वेदनामधेयम् ३१
+31. The name Veda is (to be given) to Mantra and Brāhmaṇa.
 </details>

@@ -5,5 +5,6 @@ title = "16 नक्तमाहवनीयमभ्यावृत्या�
 
 <details><summary>थिते</summary>
 
-नक्तमाहवनीयमभ्यावृत्यास्ते । दिवादित्यम् १६
+16. At the time of the night having turned towards the Āhavanīya he sits; at the time of the day, towards the sun.  
+
 </details>

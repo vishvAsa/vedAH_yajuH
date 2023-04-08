@@ -5,5 +5,5 @@ title = "06 माहेन्द्रस्य स्तुतमनु घो
 
 <details><summary>थिते</summary>
 
-माहेन्द्रस्य स्तुतमनु घोषाः शाम्यन्ति ६
+6. After the conclusion of the praise-song connected with Māhendra (scoop) the cries stop.  
 </details>

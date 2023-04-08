@@ -5,5 +5,7 @@ title = "03 न देवैर्न मनुष्यैरार्षेय
 
 <details><summary>थिते</summary>
 
-न देवैर्न मनुष्यैरार्षेयं वृणीते । ऋषिभिरेवार्षेयं वृणीत इति विज्ञायते ३
+3. “He does not mention either gods or human beings in the Pravara of the R̥ṣis. He mentions only R̥ṣis in the Pravara of the R̥ṣis” —Thus is known (from a Brāhmaṇa-text).[^1]  
+
+[^1]: The source of the quotations in Sūtras 3-5 is not known. 
 </details>

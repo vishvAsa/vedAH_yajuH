@@ -24,5 +24,5 @@ In the Darśa-pūrṇamāsa, which is the prakṛti of the iṣṭis, the puro�
 
 <details><summary>थिते</summary>
 
-तत्र सामान्याद्विकारो गम्येत ४०
+40. There the modification may be known from the general.
 </details>

@@ -5,5 +5,5 @@ title = "03 नवभिरैन्द्रीभिरप्रतिहृ�
 
 <details><summary>थिते</summary>
 
-नवभिरैन्द्रीभिरप्रतिहृताभिरध्वर्युरुद्गायति । न वा ३
+3. The Adhvaryu sings nine verses belonging to Indra, without Pratihāra; or rather he does not sing at all.  
 </details>

@@ -24,5 +24,7 @@ Sāmidhenīs are particular verses recited while the fire is being kindled. The 
 
 <details><summary>थिते</summary>
 
-अनुद्धृत्य चरुमासादयति २८
+28. Without lifting up[^1] the pot he places it on the altar.  
+
+[^1]: i.e dragging it. Cp. II.11.1.  
 </details>

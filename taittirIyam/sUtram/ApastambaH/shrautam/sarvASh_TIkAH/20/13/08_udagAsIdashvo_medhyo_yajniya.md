@@ -5,5 +5,8 @@ title = "08 उदगासीदश्वो मेध्यो यज्ञि
 
 <details><summary>थिते</summary>
 
-उदगासीदश्वो मेध्यो यज्ञिय इति शतेन शतपलेन च निष्केणोद्गातारमुपशिक्ष्येमां देवतामुद्गायन्तीमनूद्गायेति सम्प्रेष्यति ८
+8. Having attracted the Udgātr̥ with udagāsīdaśvo medhyaḥ by means one hundred cows and a golden plate weighing one hundred Palas, (the Adhvaryu) orders him: “Sing after this deity which is singing.”[^1]   
+
+[^1]: Cf. TB III.8.22.3.  
+
 </details>

@@ -5,5 +5,5 @@ title = "27 धेनुर्दक्षिणा"
 
 <details><summary>थिते</summary>
 
-धेनुर्दक्षिणा २७
+27. A milk cow is the sacrificial gift.  
 </details>

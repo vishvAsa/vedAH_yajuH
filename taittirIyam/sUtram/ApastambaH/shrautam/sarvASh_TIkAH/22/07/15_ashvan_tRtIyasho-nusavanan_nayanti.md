@@ -5,5 +5,7 @@ title = "15 अश्वन् तृतीयशोऽनुसवनन् न
 
 <details><summary>थिते</summary>
 
-अश्वं तृतीयशोऽनुसवनं नयन्ति १५
+15. They carry (give) a horse at each pressing.[^1]  
+
+[^1]: Cf. JB II.130. 
 </details>

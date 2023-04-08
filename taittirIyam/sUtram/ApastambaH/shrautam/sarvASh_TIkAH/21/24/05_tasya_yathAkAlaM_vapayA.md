@@ -5,5 +5,8 @@ title = "05 तस्य यथाकालं वपया"
 
 <details><summary>थिते</summary>
 
-तस्य यथाकालं वपया प्रचर्याग्नये वसुमते पुरोडाशमष्टाकपालं निर्वपत्यैन्द्रं च दधि ५
+5. Having performed the ritual of offering of omentum in its proper time[^1] (the Adhvaryu) takes out the material of the sacrificial bread for Agni Vasumat and curd for Indra.  
+
+[^1]: i.e, at the time of the Morning-pressing.  
+
 </details>

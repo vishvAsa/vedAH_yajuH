@@ -5,5 +5,7 @@ title = "23 परि मा सेन्या"
 
 <details><summary>थिते</summary>
 
-परि मा सेन्या इति द्वे वाचयित्वोत्तराभिस्तिसृभिरभिमन्त्र्योदसावेत्वित्यादित्यमुदीक्षयति २३
+23. Having caused (the king) recite the two (verses beginning with) pari mā senyāḥ, then having addressed him with the next three verses, he causes him to look up at the sun with udasau....[^1]   
+
+[^1]: For all the verses see TB II.7.16.4.  
 </details>

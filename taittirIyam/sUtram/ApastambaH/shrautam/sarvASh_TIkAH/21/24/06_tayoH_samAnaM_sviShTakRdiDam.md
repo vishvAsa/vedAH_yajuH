@@ -5,5 +5,5 @@ title = "06 तयोः समानं स्विष्टकृदिडम
 
 <details><summary>थिते</summary>
 
-तयोः समानं स्विष्टकृदिडम् ६
+6. The Sviṣṭakr̥t and Iḍā rites for both of these offerings will be the same (common).  
 </details>

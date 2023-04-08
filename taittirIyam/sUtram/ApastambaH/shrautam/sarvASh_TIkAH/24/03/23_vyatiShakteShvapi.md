@@ -24,5 +24,5 @@ Karu is here used for the vessel for boiling the caru, the carusthālī. The fir
 
 <details><summary>थिते</summary>
 
-व्यतिषक्तेष्वपि २३
+23. (The same is) also (to be done in connection with the series of offering-materials) when they are interlinked with each other.  
 </details>

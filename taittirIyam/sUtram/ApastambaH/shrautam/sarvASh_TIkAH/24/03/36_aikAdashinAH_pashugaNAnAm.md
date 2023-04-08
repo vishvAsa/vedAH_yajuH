@@ -24,5 +24,5 @@ The Vaiśvadeva, beginning, like the Darśa-pūrṇamāsa, with an Āgneya aṣ�
 
 <details><summary>थिते</summary>
 
-ऐकादशिनाः पशुगणानाम् ३६
+36. The (animal-scrifices) in the groups of elevens (are the basic paradigms) of (the animal-sacrifices) in the groups of animals. 
 </details>

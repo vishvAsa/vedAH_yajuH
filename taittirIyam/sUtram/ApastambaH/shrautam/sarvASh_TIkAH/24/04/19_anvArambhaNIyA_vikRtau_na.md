@@ -24,5 +24,11 @@ The Anvārambhaṇīyā ceremony has to be performed by those who begin the Dar�
 
 <details><summary>थिते</summary>
 
-अन्वारम्भणीया विकृतौ न स्यात्प्रकृतिकालमध्यत्वात् । कृता हि तदर्थेन १९
+19. The Anvāraṁbhaṇīyā (offering)[^1] should not be performed in a modificatory-rite because it is in the middle of the time of the basic paradigm (that the modificatory rites occur);[^2] (and the Anvāraṁbhaṇīyā offering) is indeed (done for it basic paradigm).[^3]  
+
+[^1]: See V.23.4-24.6. This is to be done before the New and Full moon-offerings and the Cāturmāsya-sacrifices.  
+
+[^2] i.e. the New and Full-moon-offerings and the Cāturmāsyas are performed throughout the life.  
+
+[^3]: The Anvārabhaṇīyā-offering is performed in the beginning of the New and Full-Moon-offerings and the Cāturmāsya sacrifices.  
 </details>

@@ -24,5 +24,7 @@ If different animals are to be cooked, then there must be different pots for eac
 
 <details><summary>थिते</summary>
 
-जातिभेदे तु भिद्येत पक्तिवैषम्यात् १७
+17. But when there is a difference (of the genus of the victims)[^3] then these things should be different, because of the difference in cooking.  
+
+[^3]: As e.g. in the case of Paśvekādaśinī.  
 </details>

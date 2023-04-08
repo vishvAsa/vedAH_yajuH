@@ -5,5 +5,7 @@ title = "06 तीव्रसुतोक्थ्येन रथन्तर�
 
 <details><summary>थिते</summary>
 
-तीव्रसुतोक्थ्येन रथन्तरसाम्ना बृहत्साम्नोभयसाम्ना वामयाविनमन्नाद्यकामं प्रजाकामं पशुकामं श्रिया वा प्रत्यवरूढं याजयेत् ६
+6. (The Adhvaryu) should cause a sacrificer who is diseased or desirous of food, or desirous of progeny or desirous of cattle or one who has come down from prosperity, to perform the sacrifice Tīvrasut as an Ukthya, the first Pr̥ṣṭhastotra of which is sung in the manner of the Br̥hat-sāman or Rathantara sāman or both these sāmans.[^1]  
+
+[^1]: Cp. TMB XVII.5.5; 9,10,11.  
 </details>

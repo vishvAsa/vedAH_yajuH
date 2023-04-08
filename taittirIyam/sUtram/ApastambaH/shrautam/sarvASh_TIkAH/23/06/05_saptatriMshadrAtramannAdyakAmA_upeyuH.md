@@ -5,5 +5,5 @@ title = "05 सप्तत्रिंशद्रात्रमन्ना�
 
 <details><summary>थिते</summary>
 
-सप्तत्रिंशद्रात्रमन्नाद्यकामा उपेयुः ५
+5. (The performes) desirous of food should perform the thirty-seven-day-sacrificial-session.  
 </details>

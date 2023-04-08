@@ -5,5 +5,6 @@ title = "06 तम् भक्षयति महस्ते"
 
 <details><summary>थिते</summary>
 
-तं भक्षयति महस्ते भक्षयामि बर्गं ते भक्षयामि भुजं ते भक्षयाम्यन्नाद्यं ते भक्षयामीति ६
+6. He consumes this scoop with mahaste bhakṣayāmi....  
+
 </details>

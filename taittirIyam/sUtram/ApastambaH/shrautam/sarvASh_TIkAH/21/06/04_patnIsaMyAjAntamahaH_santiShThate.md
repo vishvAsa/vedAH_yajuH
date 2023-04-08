@@ -5,5 +5,5 @@ title = "04 पत्नीसंयाजान्तमहः सन्ति�
 
 <details><summary>थिते</summary>
 
-पत्नीसंयाजान्तमहः सन्तिष्ठते ४
+4. The day stands completely established ending with the Patnīsaṁyāja (-rite).  
 </details>

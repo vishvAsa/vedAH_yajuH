@@ -24,5 +24,7 @@ The Brahma-priest with all.
 
 <details><summary>थिते</summary>
 
-सर्वैर्ब्रह्मा १९
+19. the Brahman with all.[^1]  
+
+[^1]: Cp. AB V.33.  
 </details>

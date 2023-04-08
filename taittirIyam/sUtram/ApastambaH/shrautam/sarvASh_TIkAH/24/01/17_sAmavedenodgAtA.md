@@ -20,5 +20,5 @@ The Udgātṛ-priest with the Sāma-veda.
 
 <details><summary>थिते</summary>
 
-सामवेदेनोद्गाता १७
+17. the Udgātr̥ with the Sāmaveda; 
 </details>

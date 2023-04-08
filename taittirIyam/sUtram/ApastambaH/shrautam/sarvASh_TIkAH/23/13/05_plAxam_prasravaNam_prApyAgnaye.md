@@ -5,5 +5,7 @@ title = "05 प्लाक्षम् प्रस्रवणम् प्र
 
 <details><summary>थिते</summary>
 
-प्लाक्षं प्रस्रवणं प्राप्याग्नये कामायेष्टिं निर्वपन्ति ५
+5. Having reached Plakṣa Prasravaṇa, they perform an offering for Agni Kāma.[^1]  
+
+[^1]: Cf. TMB XXV.10.22.  
 </details>

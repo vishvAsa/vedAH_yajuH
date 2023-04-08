@@ -5,5 +5,5 @@ title = "21 नित्या हारियोजनस्य"
 
 <details><summary>थिते</summary>
 
-नित्या हारियोजनस्य २१
+21. He uses the usual verse for the Hāriyojana scoop. 
 </details>

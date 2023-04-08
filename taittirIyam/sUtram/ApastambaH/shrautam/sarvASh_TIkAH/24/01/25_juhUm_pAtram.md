@@ -20,5 +20,5 @@ Likewise, the spoon (juhū) as the vessel.
 
 <details><summary>थिते</summary>
 
-जुहूं पात्रम् २५
+25. (One should understand) the utensil to be the Juhū (ladle). 
 </details>

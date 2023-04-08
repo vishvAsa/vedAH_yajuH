@@ -5,5 +5,5 @@ title = "08 अथ सङ्कृमिपूतिमाषाणान् त
 
 <details><summary>थिते</summary>
 
-अथ सङ्कृमिपूतिमाषाणां त्र्यार्षेयः । शाक्त्य साङ्कृत्य गौरिवीतेति । गौरिवीतिवत्सङ्कृतिवच्छक्तिवदिति ८
+8. Now there are three R̥ṣis of Saṅkr̥ti-Pūtimāṣas. (The Hotr̥ says) O Śāktya, Sāṅkr̥tya, Gaurivīta. (The Adhvaryu says): In the manner of Gaurivīti, Saṁkr̥ti, Śakti. 
 </details>

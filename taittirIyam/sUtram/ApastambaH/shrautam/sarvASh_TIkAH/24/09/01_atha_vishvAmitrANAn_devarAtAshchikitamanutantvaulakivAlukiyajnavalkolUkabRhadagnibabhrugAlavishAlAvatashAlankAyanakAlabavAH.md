@@ -5,5 +5,5 @@ title = "01 अथ विश्वामित्राणान् देवर
 
 <details><summary>थिते</summary>
 
-अथ विश्वामित्राणां देवराताश्चिकितमनुतन्त्वौलकिवालुकियज्ञवल्कोलूकबृहदग्निबभ्रुगालविशालावतशालङ्कायनकालबवाः १
+1. Now the lists of Rṣis of Viśvāmitras: to these belong the Devarātas, Cikitas, Manutantus Aulakis, Vālukis, Yajñavalkas, Ulūkas, Br̥hadagnis, Babhr̥s, Gālavis, Sālāvatas, Śālaṅkāyanas (and) the Kālabavas.  
 </details>

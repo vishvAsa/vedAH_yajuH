@@ -5,5 +5,5 @@ title = "11 तस्मिन्राजोपविशति"
 
 <details><summary>थिते</summary>
 
-तस्मिन्राजोपविशति ११
+11. The king sits on it (the tiger-skin). 
 </details>

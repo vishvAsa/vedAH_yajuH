@@ -5,5 +5,5 @@ title = "08 रथन्तरसामा बृहत्सामोभयस�
 
 <details><summary>थिते</summary>
 
-रथंतरसामा बृहत्सामोभयसामा वा प्रथमः ८
+8. The first has either Rathantara-sāman or Br̥hat-sāman or both the Sāmans as the first Pr̥ṣṭha-stotra.  
 </details>

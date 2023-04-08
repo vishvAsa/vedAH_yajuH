@@ -5,5 +5,5 @@ title = "08 तेषान् त्र्यार्षेयः भार्
 
 <details><summary>थिते</summary>
 
-तेषां त्र्यार्षेयः । भार्गव वैन्य पार्थेति । पृथु वद्वेन वद्भृगुवदिति ८
+8. They have three R̥ṣis. (The Hotr̥ says:) O Bhārgava, Vanya Pārtha. (The Adhvaryu says:) In the manner of Pr̥thu, Vena Bhr̥gu.  
 </details>

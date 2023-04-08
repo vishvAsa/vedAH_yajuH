@@ -5,5 +5,7 @@ title = "07 त्रीणि शतानि त्रयस्त्रिं
 
 <details><summary>थिते</summary>
 
-त्रीणि शतानि त्रयस्त्रिंशतं च प्रथमेऽहनि ददाति । एवं द्वितीये तृतीये च ७
+7. On the first day (the sacrificer) gives three-hundred thirty-three, and similarly on the second and the third day.[^1]  
+
+[^1]: Cf. JB II.264; TMB XX.15.3; ŚB IV.5.8.1.  
 </details>

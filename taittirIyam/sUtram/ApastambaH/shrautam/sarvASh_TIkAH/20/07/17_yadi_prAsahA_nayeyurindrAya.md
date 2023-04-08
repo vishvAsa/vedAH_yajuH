@@ -5,5 +5,7 @@ title = "17 यदि प्रासहा नयेयुरिन्द्र
 
 <details><summary>थिते</summary>
 
-यदि प्रासहा नयेयुरिन्द्राय प्रसह्वन एकादशकपालम् १७
+17. If (enemis) take it away forcefully (he should offer a sacrificial bread) on eleven potsherds to Indra Prasahvan.[^1]  
+
+[^1]: Cf. TMB XXI.14.18. 
 </details>

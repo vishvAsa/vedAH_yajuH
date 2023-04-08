@@ -5,5 +5,5 @@ title = "07 अथ प्रतिप्रस्थाता महाव्र
 
 <details><summary>थिते</summary>
 
-अथ प्रतिप्रस्थाता महाव्रतिकानि शिल्पानि व्यायातयति ७
+7. the Pratiprasthātr̥ places the utensils required for Mahāvrata on their proper place.  
 </details>

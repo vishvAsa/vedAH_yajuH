@@ -5,5 +5,8 @@ title = "03 प्रजापतेस्त्वा प्रसवे पृ
 
 <details><summary>थिते</summary>
 
-प्रजापतेस्त्वा प्रसवे पृथिव्या नाभावन्तरिक्षस्य बाहुभ्यां दिवो हस्ताभ्यां प्रजापतेस्त्वा परमेष्ठिनः स्वाराज्येनाभिषिञ्चामीति महिम्नोः संस्स्रावेणाभिषिञ्चति ३
+3. He Sprinkles the remnants of the (two) Mahiman (scoops)[^1] (on the sacrificer) with prajāpatestvā....  
+
+[^1]: See XX.19.2. 
+
 </details>

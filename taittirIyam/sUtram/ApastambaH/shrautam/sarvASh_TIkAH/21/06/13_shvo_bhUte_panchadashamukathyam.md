@@ -5,5 +5,5 @@ title = "13 श्वो भूते पञ्चदशमुकथ्यम्
 
 <details><summary>थिते</summary>
 
-श्वो भूते पञ्चदशमुकथ्यं बृहत्सामानमुपयन्ति १३
+13. On the next day they perform an Ukthya-sacrifice with fifteen-versed Stoma and the first Pr̥ṣṭhastotra of it is sung on the Br̥hat-sāman.  
 </details>

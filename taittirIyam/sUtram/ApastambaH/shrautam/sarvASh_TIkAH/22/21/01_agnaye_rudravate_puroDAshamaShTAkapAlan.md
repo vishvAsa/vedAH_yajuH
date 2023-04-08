@@ -5,5 +5,5 @@ title = "01 अग्नये रुद्रवते पुरोडाशम
 
 <details><summary>थिते</summary>
 
-अग्नये रुद्रवते पुरोडाशमष्टाकपालं निर्वपेत् १
+1. The sacrificer should offer sacrificial bread prepared on eight potsherds to Agni Rudravat. 
 </details>

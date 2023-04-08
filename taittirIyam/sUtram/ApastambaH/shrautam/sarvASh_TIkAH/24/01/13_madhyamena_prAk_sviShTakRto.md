@@ -20,5 +20,5 @@ Before the Sviṣṭakṛt (at the Darśa-pūrṇamāsa) sacrifice, and at the m
 
 <details><summary>थिते</summary>
 
-मध्यमेन प्राक् स्विष्टकृतो माध्यन्दिने च १३
+13. in middle tone before the Sviṣṭakr̥t (in an Iṣṭi) and at the time of the midday pressing in a soma sacrifice; 
 </details>

@@ -5,5 +5,7 @@ title = "12 अथ समन्वारब्धेषु गार्हपत
 
 <details><summary>थिते</summary>
 
-अथ समन्वारब्धेषु गार्हपत्ये जुहोत्यपैतु मृत्युरमृतं न आगन्वैवस्वतो नो अभयं कृणोतु । पर्णं वनस्पतेरिवाभि नः शीयतां रयिः । सचतां नः शचीपतिः स्वाहेति १२
+12. When all have held (the Adhvaryu) from behind, he offers a libation in the Gārhapatya (-fire) with apaitu mr̥tyuramr̥tam....[^1]  
+
+[^1]: TB III.7.14.4. 
 </details>

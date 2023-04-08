@@ -24,5 +24,6 @@ This takes place after the caru-pot has been put on. The taṇḍulas are the un
 
 <details><summary>थिते</summary>
 
-ध्रुवोऽसीति मन्त्रं सन्नमति २५
+25. In that formula he modifies the formula with the words dhruvo'si (thus instead of dhruvam the word dhruvaḥ is used).  
+
 </details>

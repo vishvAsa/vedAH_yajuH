@@ -5,5 +5,5 @@ title = "13 तानच्छावाकस्य स्तोत्रे भ
 
 <details><summary>थिते</summary>
 
-तानच्छावाकस्य स्तोत्रे भक्षयन्ति १३
+13. They consume (it) at the time of the Stotra of the Acchāvaka. 
 </details>

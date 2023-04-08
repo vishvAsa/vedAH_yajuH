@@ -5,5 +5,7 @@ title = "02 अग्नेः सहस्रसाव्येन सर्व
 
 <details><summary>थिते</summary>
 
-अग्नेः सहस्रसाव्येन सर्वस्यान्नाद्यस्य प्रसवं गच्छन्ति २
+2. (The performers) go to the impulse (obtainment) of all the food by means (of the performance of the sacrificial-session) called Agneḥ sahasrasavyam (Agni's sacrificial-session in which there is thousand-fold impulse).[^1]  
+
+[^1]: Cf. TMB Xxv.9.2. 
 </details>

@@ -5,5 +5,7 @@ title = "05 ऋतीयेते ब्रह्मचारी पुंश्
 
 <details><summary>थिते</summary>
 
-ऋतीयेते ब्रह्मचारी पुंश्चली च दक्षिणां द्वार्बाहुमाश्लिष्यमाणौ ५
+5. The vedic student and the harlot clinging to the southern door-post (of the Sadas) quarrel with each other.[^1]  
+
+[^1]: For the details of the quarrel see Drāhyass XI.3.9-10.  
 </details>

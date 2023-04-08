@@ -5,5 +5,5 @@ title = "01 उत्सर्गिणामयनङ् गवामयनङ�
 
 <details><summary>थिते</summary>
 
-उत्सर्गिणामयनं गवामयनं गुणविकृतम् १
+1. The Utsargiṇām ayanam i.e. a year long session of those who have abandoned (days) is a modified Gavāmayana.  
 </details>

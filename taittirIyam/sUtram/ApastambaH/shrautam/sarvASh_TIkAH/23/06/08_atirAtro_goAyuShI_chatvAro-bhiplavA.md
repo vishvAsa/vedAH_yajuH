@@ -5,5 +5,7 @@ title = "08 अतिरात्रो गोआयुषी चत्वार
 
 <details><summary>थिते</summary>
 
-अतिरात्रो गोआयुषी चत्वारोऽभिप्लवा द्वादशाहस्य दशाहान्यतिरात्रः ८
+8. (The days in it are as follows:) an Atirātra, Go, Āyus, four Abhiplava six-day-periods, the ten-days of the Dvādaśāha, and an Atirātra.  
+
+[^1]: Cf. TMB XXIV.8.1.  
 </details>

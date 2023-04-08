@@ -5,5 +5,7 @@ title = "05 उदवसानीययेष्ट्वान्यानृ�
 
 <details><summary>थिते</summary>
 
-उदवसानीययेष्ट्वान्यानृत्विजो वृत्वा पृष्ठशमनीयेन यजन्ते ज्योतिष्टोमेनाग्निष्टोमेन सहस्रदक्षिणेन ५
+5. After having performed the Udavasānīya-iṣṭi[^1] and having formally selected the priests they perform a Jyotiṣṭoma Agniṣṭoma-sacrifice with one thousand (cows as) gifts-the sacrifice which should pacify the Pr̥ṣṭhas (Pr̥ṣṭhaśamanīya).  
+
+[^1]: For this see XIII.25.3.  
 </details>

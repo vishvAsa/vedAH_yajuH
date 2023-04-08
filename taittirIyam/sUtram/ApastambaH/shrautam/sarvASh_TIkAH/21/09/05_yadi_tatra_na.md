@@ -5,5 +5,5 @@ title = "05 यदि तत्र न"
 
 <details><summary>थिते</summary>
 
-यदि तत्र न विन्देयुर्गृहपतिना व्युच्यम् ५
+5. If they do not find any one there to blame, the act of blaming may be done by the Gr̥hapati.  
 </details>

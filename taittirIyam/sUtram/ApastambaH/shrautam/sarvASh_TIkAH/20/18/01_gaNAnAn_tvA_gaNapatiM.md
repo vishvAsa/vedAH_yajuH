@@ -5,5 +5,7 @@ title = "01 गणानान् त्वा गणपतिं"
 
 <details><summary>थिते</summary>
 
-गणानां त्वा गणपतिं हवामह इत्यभिमन्त्र्याहं स्यां त्वं स्याः सुरायाः कुलजः स्यात्तत्रेमांश्चतुरः पदो व्यतिषज्य शयावहा इति पदो व्यतिषजते १
+1. having addressed (the dead horse) with gaṇānāṁ tvā gaṇapatim...[^1] interwines the legs (with her own) with ahaṁ syām tvaṁ syāḥ....  
+
+[^1]: TS II.3.14.0. See also MS III.12.20; VS XXIII.19, śB XIII.2.8.4. 
 </details>

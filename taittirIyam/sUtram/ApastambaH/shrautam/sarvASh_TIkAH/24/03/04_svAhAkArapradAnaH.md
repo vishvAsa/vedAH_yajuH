@@ -24,5 +24,5 @@ According to Kātyāyana I, 2, 6-7, the juhotis are offered sitting, the yajatis
 
 <details><summary>थिते</summary>
 
-स्वाहाकारप्रदानः ४
+4. It is offered with the exclamation svāhā. 
 </details>

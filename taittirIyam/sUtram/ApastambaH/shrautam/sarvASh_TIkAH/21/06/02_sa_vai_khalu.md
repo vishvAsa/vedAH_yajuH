@@ -5,5 +5,5 @@ title = "02 स वै खलु"
 
 <details><summary>थिते</summary>
 
-स वै खलु श्वःसुत्यामिति ब्रूयादित्याश्मरथ्यः । अद्यसुत्यामित्यालेखनः २
+2. According to Āśmarathya, he should use the (expicssion śvaḥsutyām (in the above-mentioned order); according to Ālekhana, (he should use the expression) adyasutyām. 
 </details>

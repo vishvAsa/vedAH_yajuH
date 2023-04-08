@@ -40,5 +40,8 @@ Or, if on the sixteenth day, the full moon takes place before noon, that also is
 
 <details><summary>थिते</summary>
 
-खर्विकां तृतीयां वाजसनेयिनः समामनन्ति २३
+23. The Vājasaneyins think Kharvikā[^1] as the third Full moon-day.  
+
+[^1]: i.e. the day on which the moon is not yet full.  
+
 </details>

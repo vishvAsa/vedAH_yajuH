@@ -24,5 +24,5 @@ This means that the offering (havis) intended for each deity should be pointed o
 
 <details><summary>थिते</summary>
 
-यथादेवतमुपलक्षयति २१
+21. He makes the separated portions indicated according to the deity. 
 </details>

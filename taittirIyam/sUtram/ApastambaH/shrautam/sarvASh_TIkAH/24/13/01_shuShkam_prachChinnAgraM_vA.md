@@ -5,5 +5,5 @@ title = "01 शुष्कम् प्रच्छिन्नाग्रं 
 
 <details><summary>थिते</summary>
 
-शुष्कं प्रच्छिन्नाग्रं वा निरस्तः पराग्वसुः सह पाप्मनेति १
+1. (The Hotr̥ throws a blade of grass which is) dry or the one the point of which is cut. (He throws it) with nirastaḥ parāgvasuḥ.... 
 </details>

@@ -5,5 +5,5 @@ title = "22 यत्र गौरिवीतं साम"
 
 <details><summary>थिते</summary>
 
-यत्र गौरिवीतं साम तद्बहूनतिग्राह्यान्गृह्णाति २२
+22. The day on which there is the Gaurivīta-Sāman he scoops many Atigrāhya-scoops.  
 </details>

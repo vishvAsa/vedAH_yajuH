@@ -5,5 +5,7 @@ title = "23 आयुषा स्वर्गकामः"
 
 <details><summary>थिते</summary>
 
-आयुषा स्वर्गकामः २३
+23. (A sacrificer) desirous of heaven should peform the Āyus (-sacrifice).  
+
+[^1]: Cp. XXI.1.6.  
 </details>

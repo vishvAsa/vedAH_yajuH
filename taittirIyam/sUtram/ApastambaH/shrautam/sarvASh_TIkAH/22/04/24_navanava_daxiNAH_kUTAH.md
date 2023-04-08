@@ -5,5 +5,5 @@ title = "24 नवनव दक्षिणाः कूटाः"
 
 <details><summary>थिते</summary>
 
-नवनव दक्षिणाः कूटाः कर्णाः काणाः खण्डा बण्डाः २४
+24. There should be sacrificial gifts consisting of nine cows with broken horns, nine cows with long ears, nine with one eye, nine crippled ones, and nine mutilated ones. 
 </details>

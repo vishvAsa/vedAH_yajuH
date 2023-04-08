@@ -5,5 +5,5 @@ title = "02 त्र्यार्षेयमु हैके काश्य
 
 <details><summary>थिते</summary>
 
-त्र्यार्षेयमु हैके । काश्यप दैवलासितेति । असितवद्देवलवत्कश्यपवदिति २
+2. According to some they have three R̥ṣis (The Hotr̥ says). O Kāśyapa, Daivala, Āsita. (The Adhvaryu says): In the manner of Asita, Devala, Kaśyapa. 
 </details>

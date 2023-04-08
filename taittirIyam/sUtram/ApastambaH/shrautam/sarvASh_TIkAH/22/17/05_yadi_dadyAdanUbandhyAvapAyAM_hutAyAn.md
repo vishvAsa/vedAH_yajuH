@@ -5,5 +5,7 @@ title = "05 यदि दद्यादनूबन्ध्यावपाय�
 
 <details><summary>थिते</summary>
 
-यदि दद्यादनूबन्ध्यावपायां हुतायां दक्षिणा नयन्नन्यूना दशतो नयेत् ५
+5. If he gives any thing additionally he should give it after the performance of the offering of the omentum of the Anūbandhyā (cow).[^1] 
+
+[^1]: Cf. ŚB IV.5.8.15. For the ritual of Anūbandhyā-cow see XIII. 23.6ff.  
 </details>

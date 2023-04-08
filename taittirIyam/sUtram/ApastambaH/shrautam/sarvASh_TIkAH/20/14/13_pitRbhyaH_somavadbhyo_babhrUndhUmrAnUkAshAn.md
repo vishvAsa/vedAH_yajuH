@@ -5,5 +5,7 @@ title = "13 पितृभ्यः सोमवद्भ्यो बभ्र
 
 <details><summary>थिते</summary>
 
-पितृभ्यः सोमवद्भ्यो बभ्रून्धूम्रानूकाशान् । पितृभ्यो बर्हिषद्भ्यो धूम्रान्बभ्र्वनूकाशान् पितृभ्योऽग्निष्वात्तेभ्यो धूम्रान्रोहितांस्तैयम्बकान् १३
+13. (Then there should be three) brown-yellowish (he-goats) for Pitr̥s Somavats; (three) grey-brownish (he-goats) for Pitr̥s Barhiṣads; (three) grey-red (he-goats) for Pitr̥s Agniṣvātta-s belonging to Tryambaka.[^1]  
+
+[^1]: Cp. VS XXIV.18. 
 </details>

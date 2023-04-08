@@ -24,5 +24,5 @@ Apūrva is explained by the commentator, not in its usual sense of miraculous, b
 
 <details><summary>थिते</summary>
 
-अपूर्वो दर्विहोमः २
+2. The Darvihoma (offering from a ladle) is not based upon any earlier rite i.e. it is independent. 
 </details>

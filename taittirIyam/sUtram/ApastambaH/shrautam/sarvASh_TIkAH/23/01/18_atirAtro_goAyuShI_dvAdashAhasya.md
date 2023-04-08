@@ -5,5 +5,7 @@ title = "18 अतिरात्रो गोआयुषी द्वादश
 
 <details><summary>थिते</summary>
 
-अतिरात्रो गोआयुषी द्वादशाहस्य दशाहान्यतिरात्रः १८
+18. (The days in it are as follows): an Atirātra, Go, Āyus, the ten days of the Dvādaśāha, and an Atirātra.  
+
+[^1]: Cf. TMB XXIII.5.1. 
 </details>

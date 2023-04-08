@@ -24,5 +24,5 @@ Though there is a man who offers the sacrifice, yet the actual homa, the throwin
 
 <details><summary>थिते</summary>
 
-अध्वर्युतं कर्तारम् २४
+24. One should understand Adhvaryu as the subject (in all the sentences except in those where someone else is expressedly mentioned or there is a conflict).  
 </details>

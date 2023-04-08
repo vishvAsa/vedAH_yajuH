@@ -5,5 +5,5 @@ title = "06 अथ काठकाः"
 
 <details><summary>थिते</summary>
 
-अथ काठकाः ६
+6. Now (the view of) Kāṭhakas. 
 </details>

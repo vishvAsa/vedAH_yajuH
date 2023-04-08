@@ -5,5 +5,7 @@ title = "03 अतिरात्रोऽभिप्लवः षडहोऽ�
 
 <details><summary>थिते</summary>
 
-अतिरात्रोऽभिप्लवः षडहोऽतिरात्रो द्वावभिप्लवावतिरात्रः ३
+3. (The days in it are as follows): an Atirātra, the Abhiplava six-day-period, an Atirātra, two Abhiplava-day-periods, and an Atirātra.[^1]  
+
+[^1]: Cf. TMB XXIII.15.1.  
 </details>

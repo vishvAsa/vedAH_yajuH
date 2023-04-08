@@ -5,5 +5,5 @@ title = "10 अनुसंवत्सरम् पशुबन्धेन य
 
 <details><summary>थिते</summary>
 
-अनुसंवत्सरं पशुबन्धेन यजते १०
+10. In every year (before the performance of the Pañcaśāradīya proper) he performs an animal-sacrifice.  
 </details>

@@ -5,5 +5,5 @@ title = "07 यदि सेनाभीत्वरी विन्देते
 
 <details><summary>थिते</summary>
 
-यदि सेनाभीत्वरी विन्देतेन्द्राय जयत एकादशकपालम् ७
+7. If an attacking army wins a bull he should offer a sacrificial bread on eleven potsherds to Indra Jayat.  
 </details>

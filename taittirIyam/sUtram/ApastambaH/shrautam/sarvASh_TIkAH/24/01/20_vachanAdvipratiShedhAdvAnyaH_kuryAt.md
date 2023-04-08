@@ -24,5 +24,9 @@ Vipratishedha is explained by asambhava and aśakti.
 
 <details><summary>थिते</summary>
 
-वचनाद्विप्रतिषेधाद्वान्यः कुर्यात् २०
+20. Only when it is expressedly said[^1] or in the case of a conflict, another[^2] (priest does the work).  
+
+[^1]: e.g. the Agnidhra in XII.17.19.  
+
+[^2]: Thus when the Adhvaryu is busy, someone else does the work of releasing the victim.  
 </details>

@@ -24,5 +24,5 @@ They must, however, be vegetable offerings, because the puroḍāśa for Agnī-S
 
 <details><summary>थिते</summary>
 
-एव देवता आग्नेयविकाराः ४१
+41. (The offerings) having only deity (are to be undersood as) the modifications of the sacrificial breads to be offered to Agni.  
 </details>

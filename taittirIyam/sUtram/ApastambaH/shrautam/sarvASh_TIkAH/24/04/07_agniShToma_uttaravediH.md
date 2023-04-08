@@ -24,5 +24,5 @@ The commentator explains this by saying that at the Soma sacrifices, i.e. at the
 
 <details><summary>थिते</summary>
 
-अग्निष्टोम उत्तरवेदिः ७
+7. In the Agniṣṭoma-sacrifice (there is) an Uttaravedi.  
 </details>

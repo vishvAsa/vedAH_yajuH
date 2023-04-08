@@ -5,5 +5,5 @@ title = "01 एकत्रिंशद्रात्रमन्नाद्�
 
 <details><summary>थिते</summary>
 
-एकत्रिंशद्रात्रमन्नाद्यकामा उपेयुः १
+1. (The peformers) desirous of food should perform the thirty-one-day-sacrificial-session. 
 </details>

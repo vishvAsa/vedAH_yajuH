@@ -20,5 +20,5 @@ Taking (the butter) once.
 
 <details><summary>थिते</summary>
 
-सकृद्गृहीत्वा ५
+5. It is offered after (the offering-material) has been taken once (only). 
 </details>

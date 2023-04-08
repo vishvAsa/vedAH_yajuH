@@ -5,5 +5,7 @@ title = "16 अध्वर्युर्गृहपतिन् दीक्�
 
 <details><summary>थिते</summary>
 
-अध्वर्युर्गृहपतिं दीक्षयित्वा ब्रह्माणं दीक्षयति । तत उद्गातारम् । ततो होतारम् १६
+16. The Adhvaryu, after having consecrated[^1] the Gr̥hapati, consecrates the Brahman, then the Udgātr̥ (and) then the Hotr̥.  
+
+[^1]: Thus he performs activities mentioned in X.5.6-13. 
 </details>

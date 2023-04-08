@@ -26,5 +26,5 @@ The Sāṃnāyya is a mixture of dadhi and payas, sour and sweet milk, and is in
 
 <details><summary>थिते</summary>
 
-सान्नाय्यं द्वितीयं सोमयाजिनः ३३
+33. In the case of a sacrificer who has performed soma sacrifice, Saṁnāyya (mixture of curds and milk) takes the second place.  
 </details>

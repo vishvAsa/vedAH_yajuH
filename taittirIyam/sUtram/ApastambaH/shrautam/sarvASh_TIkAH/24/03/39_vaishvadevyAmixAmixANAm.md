@@ -24,5 +24,5 @@ If it has once been laid down that the Darśa-pūrṇamāsa is the prakṛti or 
 
 <details><summary>थिते</summary>
 
-वैश्वदेव्यामिक्षामिक्षाणाम् ३९
+39. The (offering of) Āmikṣā (thick part of the curds) (is the basic paradigm) of (all the offerings of) Āmikṣās.  
 </details>

@@ -24,5 +24,7 @@ If it is said that the priest cuts the plants with fourteen verses, that means t
 
 <details><summary>थिते</summary>
 
-एकमन्त्राणि कर्माणि ३८
+38. A ritual act (should be accompanied only) by one formula (Mantra).[^1]  
+
+[^1]: See and compare Sūtra 44 below.  
 </details>

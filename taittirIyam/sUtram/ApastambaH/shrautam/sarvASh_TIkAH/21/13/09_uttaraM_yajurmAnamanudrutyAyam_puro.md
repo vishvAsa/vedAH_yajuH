@@ -5,5 +5,7 @@ title = "09 उत्तरं यजुर्मानमनुद्रुत�
 
 <details><summary>थिते</summary>
 
-उत्तरं यजुर्मानमनुद्रुत्यायं पुरो भुव इति दशभिः प्राणग्रहाणां मन्त्रैर्दश मानानि मिमीते ९
+9. After having recited the next formula which is used at the time of measuring of the Soma-stalks in the basic paradigm he measures the ten measurements with the ten formulae which serve for the Breath-scoops beginning with ayaṁ purobhuvaḥ.[^1]  
+
+[^1]: TS IV.3.2.  
 </details>

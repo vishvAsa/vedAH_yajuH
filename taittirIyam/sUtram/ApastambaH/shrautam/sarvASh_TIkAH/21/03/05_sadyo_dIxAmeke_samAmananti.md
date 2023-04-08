@@ -5,5 +5,5 @@ title = "05 सद्यो दीक्षामेके समामनन्
 
 <details><summary>थिते</summary>
 
-सद्यो दीक्षामेके समामनन्ति । अन्वहं दीक्षामेके ५
+5. According to some (ritualists) the consecration (should take place) on one and the same day. According to some others the consecration should take place on each successive day.  
 </details>

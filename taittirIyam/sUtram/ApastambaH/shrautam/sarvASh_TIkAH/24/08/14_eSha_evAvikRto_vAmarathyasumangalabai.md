@@ -5,5 +5,5 @@ title = "14 एष एवाविकृतो वामरथ्यसुमङ
 
 <details><summary>थिते</summary>
 
-एष एवाविकृतो वामरथ्यसुमङ्गलबै जवापीनाम् १४
+14. The same (list) without any change (is appliable) to the Vāmarathyas Sumaṅgalas, Baijāvāpis. 
 </details>

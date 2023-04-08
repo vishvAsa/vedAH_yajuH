@@ -5,5 +5,5 @@ title = "14 तमध्वर्युः पृच्छति"
 
 <details><summary>थिते</summary>
 
-तमध्वर्युः पृच्छति १४
+14. The Adhvaryu asks him.  
 </details>

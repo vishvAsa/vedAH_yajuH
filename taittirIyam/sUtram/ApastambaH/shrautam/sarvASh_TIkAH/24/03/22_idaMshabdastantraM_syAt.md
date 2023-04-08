@@ -24,5 +24,5 @@ The commentary explains vyatishikta by anyonyaṃ vyavahita, though it is diffic
 
 <details><summary>थिते</summary>
 
-इदंशब्दस्तन्त्रं स्यात् २२
+22. The word “idam (this) (for you)" should be uttered only once. 
 </details>

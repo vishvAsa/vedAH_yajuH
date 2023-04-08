@@ -5,5 +5,5 @@ title = "01 पञ्चत्रिंशद्रात्रम् पशु�
 
 <details><summary>थिते</summary>
 
-पञ्चत्रिंशद्रात्रं पशुकामा उपेयुः १
+1. (The performers) desirous of cattle should perform the thirty-five-day-sacrificial-session.  
 </details>

@@ -20,5 +20,5 @@ Sacrificial acts intended for the Fathers should be performed by the priest towa
 
 <details><summary>थिते</summary>
 
-प्राचीनावीती प्रसव्यं दक्षिणापवर्गाणि पित्र्याणि १६
+16. Wearing one's sacrificial garment on the right shoulder and under the left armpit one should carry out the activities connected with ancestors, ending in the south; and (one goes) in an anti-clock-wise manner.  
 </details>

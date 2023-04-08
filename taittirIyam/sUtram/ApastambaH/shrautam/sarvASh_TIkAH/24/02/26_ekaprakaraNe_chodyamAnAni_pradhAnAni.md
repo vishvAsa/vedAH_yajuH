@@ -24,5 +24,5 @@ This Sūtra is variously explained: Satyavrata's commentary, which I have follow
 
 <details><summary>थिते</summary>
 
-एकप्रकरणे चोद्यमानानि प्रधानानि समानविधानानि २६
+26. The principal acts being prescribed in one and the same chapter (context) are to be considered as general injunctions.  
 </details>

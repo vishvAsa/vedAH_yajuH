@@ -5,5 +5,5 @@ title = "07 अथ मुद्गलानान् त्र्यार्ष
 
 <details><summary>थिते</summary>
 
-अथ मुद्गलानां त्र्यार्षेयः । आङ्गिरस भार्ग्यश्च मौद्गल्येति । मुद्गलवद्भृम्यश्ववदङ्गिरोवदिति ७
+7. Now there are three R̥ṣis of the Mudgalas. (The Hotr̥ says:) O Aṅgirasa, Bhārmyaśva, Maudgalya. (The Adhvaryu says:) In the manner of Mudgala, Bhr̥myaśva Aṅgiras.  
 </details>

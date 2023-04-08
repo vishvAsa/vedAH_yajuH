@@ -24,5 +24,12 @@ A corollary (pratyāmnāna) occurs, when it is said, 'instead of Kuśa grass, le
 
 <details><summary>थिते</summary>
 
-त्रिभिः कारणैः प्रकृतिर्निवर्तते प्रत्याम्नानात्प्रतिषेधादर्थलोपाच्च २
+2. The basic paradigm stops (i.e. not followed) on account of three reasons: when there is a counter-sacred-text,[^1] when it is prohibited,[^2] or when the purpose will not be served.[^3]   
+
+[^1]: See e.g. XXII.4.19ff.  
+
+[^2]: See e.g. VII.14.21.  
+
+[^3]: While cooking rice-pap one should not use flour because the grains are expected to remain distinct even when they are cooked and this purpose will not be served when flour is used.  
+
 </details>

@@ -5,5 +5,7 @@ title = "06 सवित्रे प्रसवित्र एकादशक
 
 <details><summary>थिते</summary>
 
-सवित्रे प्रसवित्र एकादशकपालं मध्यन्दिने । सवित्र आसवित्रे द्वादशकपालमपराह्णे ६
+6. At the mid-day he offers a sacrificial bread on eleva Dotsherds to Savits Prasavits and at the afternoon time he offer a sacrificial bread on twelve potsherds to Savitr̥ Āsavitr̥.[^1]  
+
+[^1]: cf. TB III.8.12.1-2. 
 </details>

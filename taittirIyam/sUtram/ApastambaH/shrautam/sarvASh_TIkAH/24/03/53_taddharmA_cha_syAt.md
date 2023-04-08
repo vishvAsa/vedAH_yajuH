@@ -24,5 +24,5 @@ Taddharma, having the same qualities. If, for instance, nīvāra has been substi
 
 <details><summary>थिते</summary>
 
-तद्धर्मा च स्यात् ५३
+53. And (the substitute) should have the same properties (as the original has).  
 </details>

@@ -5,5 +5,9 @@ title = "07 अथ यदेनमाहासौ मानुष"
 
 <details><summary>थिते</summary>
 
-अथ यदेनमाहासौ मानुष इति तदुपोत्थाय दक्षिणेन पाणिना दक्षिणमध्वर्योरंसमन्वारभ्य जपति । सव्येनाग्नीध्रस्य दक्षिणम् । षष्टिश्चाध्वर्यो नवतिश्च पाशा होतारमग्निमन्तरा विचृत्ताः । सिनन्ति पाकमति धीर एत्यृतस्य पन्थामन्वेति होता । अग्निमन्वारभामहे होतृवर्ये पुरोहितम् । येनायन्नुत्तमं स्वर्देवा अङ्गिरसो दिवमिति ७
+7. Then when the Adhvaryu says to him (the Hotr̥)[^1] “So and so is the human Hotr̥” having stood up, having held from behind the right sholulder of the Adhvaryu with his own right hand and the right shoulder of the Āgnīdhra with his own left hand[^2] the Hotr̥ mutters: ṣaṣṭiścādhvaryo... and agnimanvārabhāmahe.....  
+
+[^1]: Cp. I.16.14.  
+
+[^2]: Cf. ŚāṅkhāŚS I.6.3.  
 </details>

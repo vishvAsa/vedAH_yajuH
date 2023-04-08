@@ -5,5 +5,5 @@ title = "07 आग्नेयम् प्रायणीय आलभन्त
 
 <details><summary>थिते</summary>
 
-आग्नेयं प्रायणीय आलभन्ते । श्वो भूते सारस्वतीं मेषीम् ७
+7. They seize a victim for Agni on the Prāyaṇīya day: on the next day a ewe for Sarasvatī.  
 </details>

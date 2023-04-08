@@ -20,5 +20,5 @@ And the Savanīya is the norm for the Aikādaśinas.
 
 <details><summary>थिते</summary>
 
-स सवनीयस्य ३४
+34. And that (the animal-sacrifice for Agni-and-Soma is the basic paradigın) of the animal-sacrifice connected with the Soma-pressing.  
 </details>

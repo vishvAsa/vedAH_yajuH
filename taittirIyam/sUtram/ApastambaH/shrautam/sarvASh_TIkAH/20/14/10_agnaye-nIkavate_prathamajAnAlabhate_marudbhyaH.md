@@ -5,5 +5,7 @@ title = "10 अग्नयेऽनीकवते प्रथमजाना�
 
 <details><summary>थिते</summary>
 
-अग्नयेऽनीकवते प्रथमजानालभते । मरुद्भ्यः सान्तपनेभ्यः सवात्यान् । मरुद्भ्यो गृहमेधिभ्यो बाष्कान् । मरुद्भ्यः क्रीडिभ्यः संसृष्टान् । मरुद्भ्यः स्वतवद्भ्योऽनुसृष्टान् १०
+10. (Then the Adhvaryu) seizes (he-goats) born as the first issues for Agni Anīkavat, the (three) he-goats situated in the storm for Maruts Sāntapana, (three he-goats) which were born after a very long time, to Maruts Gr̥hamedhins, triplet (he-goats) for Maruts Krīdins, (three) born successivelly for Maruts Svatavats.[^1]  
+
+[^1]: VS XXIV.16. 
 </details>

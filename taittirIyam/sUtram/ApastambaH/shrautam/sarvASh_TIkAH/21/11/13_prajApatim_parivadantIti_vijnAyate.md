@@ -5,5 +5,7 @@ title = "13 प्रजापतिम् परिवदन्तीति व
 
 <details><summary>थिते</summary>
 
-प्रजापतिं परिवदन्तीति विज्ञायते १३
+13. “They blame Prajapati" -so is heard from a Brāhmaṇa-text.[^1]   
+
+[^1]: TMB IV.9.14.  
 </details>

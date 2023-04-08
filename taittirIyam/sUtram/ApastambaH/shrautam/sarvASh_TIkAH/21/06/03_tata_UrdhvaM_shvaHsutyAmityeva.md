@@ -5,5 +5,5 @@ title = "03 तत ऊर्ध्वं श्वःसुत्यामित
 
 <details><summary>थिते</summary>
 
-तत ऊर्ध्वं श्वःसुत्यामित्येव ब्रूयात् ३
+3. Thereafter (i.e. on the following days ) he should say (i.e. use the expression) śvaḥsutyām only.  
 </details>

@@ -5,5 +5,6 @@ title = "08 अध्यास्थाता सन्नद्धः सन्
 
 <details><summary>थिते</summary>
 
-अध्यास्थाता सन्नद्धः सन्नद्धसारथिरावृतः प्रतिहिताभ्याम् ८
+8. (The charioteer) sitting on it should be armoured; the chariot-driver (also should be) armoured. He should be covered with two (arrows) kept on (the bow). 
+
 </details>

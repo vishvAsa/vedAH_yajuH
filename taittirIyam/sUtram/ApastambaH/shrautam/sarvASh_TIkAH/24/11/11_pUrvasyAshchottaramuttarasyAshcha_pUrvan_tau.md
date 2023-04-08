@@ -5,5 +5,5 @@ title = "11 पूर्वस्याश्चोत्तरमुत्त�
 
 <details><summary>थिते</summary>
 
-पूर्वस्याश्चोत्तरमुत्तरस्याश्च पूर्वं तौ सन्दध्यात् ११
+11. with the first quarter of the following verse and the first quarter of the following verse with the last quarter of the preceding verse".  
 </details>

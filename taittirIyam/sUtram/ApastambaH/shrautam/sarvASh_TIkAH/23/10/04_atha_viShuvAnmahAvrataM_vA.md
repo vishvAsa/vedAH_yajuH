@@ -5,5 +5,5 @@ title = "04 अथ विषुवान्महाव्रतं वा"
 
 <details><summary>थिते</summary>
 
-अथ विषुवान्महाव्रतं वा ४
+4. Then the Viṣuvat or the Mahāvrata day (is to be performed). 
 </details>

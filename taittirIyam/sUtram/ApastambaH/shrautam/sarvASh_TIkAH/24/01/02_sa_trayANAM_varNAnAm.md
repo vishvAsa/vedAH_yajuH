@@ -32,5 +32,5 @@ That certain women are admitted to the sacrifice, is distinctly stated by Kāty�
 
 <details><summary>थिते</summary>
 
-स त्रयाणां वर्णानां ब्राह्मणराजन्ययोर्वैश्यस्य च २
+2. It is meant for three classes Brāhmaṇa, Kṣatriya, and Vaiśya. 
 </details>

@@ -5,5 +5,7 @@ title = "02 प्रथमेन वि पाप्मना"
 
 <details><summary>थिते</summary>
 
-प्रथमेन वि पाप्मना भ्रातृव्येणावर्तन्ते २
+2. (The performers) separate themselves from evil, from an enemy by means of the performance of the first fotry-nine day-sacrificial-session.[^1]  
+
+[^1]: cf. TMB XXIV.11.3. 
 </details>

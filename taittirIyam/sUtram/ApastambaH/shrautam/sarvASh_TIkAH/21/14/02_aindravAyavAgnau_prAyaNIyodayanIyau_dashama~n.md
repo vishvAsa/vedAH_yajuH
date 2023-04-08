@@ -5,5 +5,5 @@ title = "02 ऐन्द्रवायवाग्नौ प्रायणी�
 
 <details><summary>थिते</summary>
 
-ऐन्द्रवायवाग्नौ प्रायणीयोदयनीयौ दशमं चाहः २
+2. The introductory day, concluding day and the tenth day in a twelve-day-sacrifice have the scoop for Indra-Vāyu as the first one.  
 </details>

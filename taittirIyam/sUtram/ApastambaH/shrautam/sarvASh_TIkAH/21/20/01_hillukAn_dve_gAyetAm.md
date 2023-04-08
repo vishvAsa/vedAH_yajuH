@@ -5,5 +5,7 @@ title = "01 हिल्लुकान् द्वे गायेताम्
 
 <details><summary>थिते</summary>
 
-हिल्लुकां द्वे गायेताम् । हिम्बिनीं द्वे । हस्तावारां द्वे । संवत्सरगाथां द्वे १
+1. two (slave-maidens) should sing the Hillukā, two the Him-binī, two the Hastavārā two the Saṁvatsara-Gāthā.[^1]  
+
+[^1]: For details of these verses see the next two Sūtras. 
 </details>

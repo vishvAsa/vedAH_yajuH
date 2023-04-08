@@ -5,5 +5,5 @@ title = "07 अष्टात्रिंशद्रात्रम् पश�
 
 <details><summary>थिते</summary>
 
-अष्टात्रिंशद्रात्रं पशुकामा उपेयुः ७
+7. (The performers) desirous of cattle should perform the thirty-eight-day-sacrificial-session. 
 </details>

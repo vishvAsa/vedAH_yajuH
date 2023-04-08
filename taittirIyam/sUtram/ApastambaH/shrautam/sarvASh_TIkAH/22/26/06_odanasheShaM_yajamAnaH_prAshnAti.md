@@ -5,5 +5,7 @@ title = "06 ओदनशेषं यजमानः प्राश्नात
 
 <details><summary>थिते</summary>
 
-ओदनशेषं यजमानः प्राश्नाति ६
+6. The sacrificer eats the remaining rice-pap.  
+
+[^1]: Out of the offering-material. See XXII.25.22. 
 </details>

@@ -5,5 +5,5 @@ title = "09 तान्यूपान्तरालेषु धारयन�
 
 <details><summary>थिते</summary>
 
-तान्यूपान्तरालेषु धारयन्ति ९
+9. They hold them in the spaces between the sacrificial posts. 
 </details>

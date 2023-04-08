@@ -5,5 +5,7 @@ title = "15 तमभिमन्त्रयते सहस्रस्य प
 
 <details><summary>थिते</summary>
 
-तमभिमन्त्रयते सहस्रस्य प्रतिष्ठासि वैष्णवो वामनस्त्वम् । स नः सहस्र आ धेहि प्रजया पशुभिः सह पुनर्मा विशताद्रयिरिति १५
+15. He addresses it with sahasrasya pratiṣṭhāsi.... It has been said (in a Brāhmaṇa-text)[^1] “Having taken that (thousandth) cow by the north of the Āgnīdhra (shed)...” or by the south of the Mahāvedi (great altar) between the sacrificial post and the Āhavanīya fire, 
+
+[^1]: Cp. TS VII.1.6.6.  
 </details>

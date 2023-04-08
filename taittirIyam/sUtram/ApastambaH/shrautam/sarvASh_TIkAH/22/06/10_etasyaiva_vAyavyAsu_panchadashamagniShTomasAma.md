@@ -5,5 +5,5 @@ title = "10 एतस्यैव वायव्यासु पञ्चदश
 
 <details><summary>थिते</summary>
 
-एतस्यैव वायव्यासु पञ्चदशमग्निष्टोमसाम कृत्वामयाक्विनमन्नाद्यकामं प्रजाकामं पशुकामं वा याजयेत् । एतस्यैव रेवतीषु वारवन्तीयमग्निष्टोमसाम कृत्वा ब्रह्मवर्चसकामम् । एतमेव चतुष्टोमं कृत्वा ग्रामकामम् १०
+10. The same one-day-sacrifice but with the fifteen-versed Agniṣṭoma-sāman in verses addressed to Vāyu is to be performed for a sacrificer who is either diseased or desirous of food or desirous of progeny or desirous of cattle. The same one-day-sacrifice but with the Vāravantīya-sāman as the Agniṣṭoma-sāman, one should perform for a sacrificer who is de sirous of Brahman-splendor. The same one-day-sacrifice but as Catuṣṭoma is to be performed for a sacrificer desirous of village.  
 </details>

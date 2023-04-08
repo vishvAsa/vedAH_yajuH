@@ -5,5 +5,5 @@ title = "15 अष्टादशरात्रम् पशुकामा उ
 
 <details><summary>थिते</summary>
 
-अष्टादशरात्रं पशुकामा उपेयुः १५
+15. (The performers) desirous of cattle should perform the eighteen-day-sacrificial-session. 
 </details>

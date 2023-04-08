@@ -5,5 +5,5 @@ title = "01 चतुर्विंशतिपरमाः सत्त्र�
 
 <details><summary>थिते</summary>
 
-चतुर्विंशतिपरमाः सत्त्रमासीरन् १
+1. At the most twenty-four (persones) may perform a sacrificial session.  
 </details>

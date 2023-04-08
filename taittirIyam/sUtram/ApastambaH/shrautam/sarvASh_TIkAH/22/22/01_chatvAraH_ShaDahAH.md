@@ -5,5 +5,5 @@ title = "01 चत्वारः षडहाः"
 
 <details><summary>थिते</summary>
 
-चत्वारः षडहाः १
+1. There are four six-day-sacrifices. 
 </details>

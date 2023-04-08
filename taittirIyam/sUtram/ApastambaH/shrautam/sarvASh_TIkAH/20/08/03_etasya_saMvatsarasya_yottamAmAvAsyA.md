@@ -5,5 +5,7 @@ title = "03 एतस्य संवत्सरस्य योत्तमा
 
 <details><summary>थिते</summary>
 
-एतस्य संवत्सरस्य योत्तमामावास्या तस्यामुखां सम्भरति ३
+3. On the last New-moon-day of this year, (the Adhvaryu) collects the material of the fire-pan.[^1]  
+
+[^1]: Fire-altar-building-rite is a part of the Aśvamedha sacrifice. Now the activities mentioned in XVI.1.3-XVI.5.3 (inclusive) are to be performed. 
 </details>

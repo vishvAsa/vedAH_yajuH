@@ -5,5 +5,7 @@ title = "02 रथन्तरम् महानाम्नी बृहदि
 
 <details><summary>थिते</summary>
 
-रथन्तरं महानाम्नी बृहदिति पृष्ठानि २
+2. (The samans for the first Pr̥ṣṭhastotra of these three days should be) the Rathantara, the Mahānāmnīs and the Br̥hat respectively.  
+
+[^1]: For Sūtras 1 and 2 cf. TMB XX.4.1;8. 
 </details>

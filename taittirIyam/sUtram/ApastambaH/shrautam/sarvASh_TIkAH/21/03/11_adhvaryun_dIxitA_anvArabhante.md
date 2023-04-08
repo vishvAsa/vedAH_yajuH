@@ -5,5 +5,7 @@ title = "11 अध्वर्युन् दीक्षिता अन्व
 
 <details><summary>थिते</summary>
 
-अध्वर्युं दीक्षिता अन्वारभन्ते । दीक्षितान्पत्नयः ११
+11. The consecrated persons hold the Adhvaryu from behind, the wives (hold) the consecrated ones (their husbands from behind).  
+
+[^1]: This takes place on the last Dīkṣa-day. 
 </details>

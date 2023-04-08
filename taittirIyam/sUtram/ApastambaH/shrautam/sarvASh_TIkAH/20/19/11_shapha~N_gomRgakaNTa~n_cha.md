@@ -5,5 +5,7 @@ title = "11 शफङ् गोमृगकण्टञ् च"
 
 <details><summary>थिते</summary>
 
-शफं गोमृगकण्टं च माहेन्द्रस्य स्तोत्रं प्रत्यभिषिञ्चति ११
+11. At the time of the Stotra(-singing) connected with the Māhendra-scoop he sprinkes (water on the sacrificer)[^2]   
+
+[^2]: See XVIII. 15. 10; See also XVIII. 19.5f.  
 </details>

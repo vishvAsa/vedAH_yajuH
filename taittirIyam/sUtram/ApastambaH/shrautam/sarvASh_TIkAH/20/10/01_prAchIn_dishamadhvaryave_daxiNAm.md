@@ -5,5 +5,7 @@ title = "01 प्राचीन् दिशमध्वर्यवे दक
 
 <details><summary>थिते</summary>
 
-प्राचीं दिशमध्वर्यवे । दक्षिणां ब्रह्मणे । प्रतीचीं होत्रे । उदीचीमुद्गात्रे । यदन्यद्भूमेः पुरुषेभ्यश्च । अपि वा प्राचीं होत्रे । प्रतीचीमध्वर्यवे १
+1. (At that time he gives) the eastern region to the Adhvaryu, southern to the Brahman, western to the Hotr̥ (and) northern to the Udgātr̥ (everything in it) excluding the land and men. Or (he should give) the eastern region to the Hotr̥, and the western region to the Adhvaryu (and the other details remain as above).[^1]  
+
+[^1]: Cp. SB XIII.5.4.24. 
 </details>

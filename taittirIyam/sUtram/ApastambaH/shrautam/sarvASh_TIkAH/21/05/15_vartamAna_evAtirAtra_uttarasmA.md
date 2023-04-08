@@ -5,5 +5,7 @@ title = "15 वर्तमान एवातिरात्र उत्तर
 
 <details><summary>थिते</summary>
 
-वर्तमान एवातिरात्र उत्तरस्मा अह्ने पयांसि विशास्ति १५
+15. While the Atirātra (ritual) is still being performed he allots the different (portions of)[^1] milks for the next day.  
+
+[^1]: Cp. XI.21.8.  
 </details>

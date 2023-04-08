@@ -5,5 +5,5 @@ title = "02 अथ द्व्यामुष्यायणानाङ् क
 
 <details><summary>थिते</summary>
 
-अथ द्व्यामुष्यायणानां कुलानां यथा शुङ्गशैशिरयः २
+2. Now (series of ancestors) of those belonging to two families (on account of adoption) as for example Śuṅga-śaiśirīyas.  
 </details>

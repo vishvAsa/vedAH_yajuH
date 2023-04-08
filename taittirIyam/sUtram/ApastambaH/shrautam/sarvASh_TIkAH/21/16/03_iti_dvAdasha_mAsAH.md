@@ -5,5 +5,5 @@ title = "03 इति द्वादश मासाः"
 
 <details><summary>थिते</summary>
 
-इति द्वादश मासाः ३
+3. Thus the twelve months (take place). 
 </details>

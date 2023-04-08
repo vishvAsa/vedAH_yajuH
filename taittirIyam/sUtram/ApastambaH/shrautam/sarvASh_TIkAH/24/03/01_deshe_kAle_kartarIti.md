@@ -24,5 +24,5 @@ This Sūtra is sometimes divided into two; the first, dese kāle kartarīti nird
 
 <details><summary>थिते</summary>
 
-देशे काले कर्तरीति निर्दिश्यते स्वशब्दं यत् १
+1. Whatever is indicated with its own name (word) is connected with its place, time and the performer (and is to be considered as the principal act).  
 </details>

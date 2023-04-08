@@ -26,5 +26,9 @@ bṛhatī sthālī; Śūla by hṛdayapākārthā yaṣṭiḥ, and Vapāśrapa�
 
 <details><summary>थिते</summary>
 
-कुम्भीशूलवपाश्रपणीप्रभुत्वात्तन्त्रं स्यात् १६
+16. The cooking pot, (heart-roasting) spit, and the Vapāśrapaṇī (y-shaped sticks) for roasting the Omentum[^1] should be common (to all the victims) because they are capable for being used for more than one victim.[^2]  
+
+[^1]: See VII.8.3.  
+
+[^2]: When the animals are of the same genus like he-goat as in the case of seventeen he-goats for Prajāpati (XVII.2.3). 
 </details>

@@ -5,5 +5,5 @@ title = "04 तेषाम् पञ्चार्षेयः आङ्गि
 
 <details><summary>थिते</summary>
 
-तेषां पञ्चार्षेयः । आङ्गिरस बार्हस्पत्य भारद्वाज कात्यात्कीलेति । अत्कीलवत्कतवद्भरद्वाजवद्बृहस्पतिवदङ्गिरोवदिति ४
+4. They have five R̥ṣis. (The Hotr̥ says:) O Āṅgirasa, Bārhaspatya; Bhāradvāja, Kātya, Ātkīla. (The Adhvaryu says:). In the manner of Atkila, Kata, Bharadvaja, Br̥haspati, Aṅgiras.  4. They have five R̥ṣis. (The Hotr̥ says:) O Āṅgirasa, Bārhaspatya; Bhāradvāja, Kātya, Ātkīla. (The Adhvaryu says:). In the manner of Atkila, Kata, Bharadvaja, Br̥haspati, Aṅgiras.  
 </details>

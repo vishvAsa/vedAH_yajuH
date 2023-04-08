@@ -5,5 +5,5 @@ title = "10 अर्यम्णा वै ते"
 
 <details><summary>थिते</summary>
 
-अर्यम्णा वै ते गृहपतिनार्ध्नुवंस्तेन सुवरायंस्तेनेमांल्लोकान्समतन्वन्निति प्रतिवचनः १०
+10. The answer is, “With Aryaman indeed as Gr̥hapati did they prosper, with him did they reach heaven and with him did they continue these worlds."   
 </details>

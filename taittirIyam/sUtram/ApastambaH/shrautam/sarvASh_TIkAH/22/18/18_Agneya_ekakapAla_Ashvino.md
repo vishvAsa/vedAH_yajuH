@@ -5,5 +5,7 @@ title = "18 आग्नेय एककपाल आश्विनो"
 
 <details><summary>थिते</summary>
 
-आग्नेय एककपाल आश्विनो द्विकपालो वैष्णवस्त्रिकपालः सौम्यश्चतुष्कपालः सावित्रः पञ्चकपालो धात्रः षट्कपालो मारुतः सप्तकपालो बार्हस्पत्योऽष्टाकपालो मैत्रो नवकपालो वारुणो दशकपाल ऐन्द्र एकादशकपालो वैश्वदेवो द्वादशकपालः १८
+18. (On the twelve Upasad-days which precede this sacrifice in the morning and in the after-noon following sacrificial breads are respectively offered by the Adhvaryu) (bread) prepared on one potsherd for Agni; prepared on two potsherds for Asvins; prepared on three potshi ds for Vişņu; prepared on four potsherds for Soma; prepared on five potsherds for Savits; prepared on six potsherds for Dhātr̥; prepared on seven potsherds for Maruts; prepared on eight potsherds for Br̥haspati; prepared on nine potsherds for Mitra; prepared on ten potsherds for Varuṇa; prepared on eleven potsherds for Indra and prepared on twelve potsherds for Viśvedevasi.  
+
+[^1]: Cf. TMB XXI. 10.23.  
 </details>

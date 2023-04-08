@@ -5,5 +5,5 @@ title = "06 कुण्डपायिनामयने मासन् दी
 
 <details><summary>थिते</summary>
 
-कुण्डपायिनामयने मासं दीक्षिता भवन्ति ६
+6. In the (sacrificial session named) Kuṇḍāpāyinām Ayanam (the performers) remain consecrated for one month.  
 </details>

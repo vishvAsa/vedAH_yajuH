@@ -24,5 +24,5 @@ This murmuring, upāṃśu, is described as a mere opus operatum, the words bein
 
 <details><summary>थिते</summary>
 
-उपांशु यजुर्वेदेन ९
+9. The recitation is done in an inaudible manner with the Yajurveda.  
 </details>

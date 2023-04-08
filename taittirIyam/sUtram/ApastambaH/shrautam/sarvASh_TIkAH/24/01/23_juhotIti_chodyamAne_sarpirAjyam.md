@@ -26,5 +26,5 @@ In the Aitareya-Brāhmaṇa I, 3, we read ājyaṃ vai devānāṃ surabhi, gh�
 
 <details><summary>थिते</summary>
 
-जुहोतीति चोद्यमाने सर्पिराज्यं प्रतीयाम् २३
+23. When it is prescribed “he offers a libation" one should understand “(of) ghee." 
 </details>

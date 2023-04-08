@@ -5,5 +5,7 @@ title = "07 कृष्णग्रीवा आग्नेयाः बभ्
 
 <details><summary>थिते</summary>
 
-कृष्णग्रीवा आग्नेयाः । बभ्रवः सौम्याः । उपध्वस्ताः सावित्राः । सारस्वत्यो वत्सतर्यः । पौष्णाः श्यामाः पृश्नयो मारुताः । बहुरूपा वैश्वदेवाः । वशा द्यावापृथिव्याः ७
+7. (There should be three he-goats) with black neck for Agni; brownish for Soma, speckled-ones for Savitr̥; heifers for Sarasvatī, black-white ones for Pūṣan, dappled one for Maruts; of variegated colours for Viśvedevas; sterile cows for Heaven and earth[^1].  
+
+[^1]: Cf. VS XXIV.14.  
 </details>

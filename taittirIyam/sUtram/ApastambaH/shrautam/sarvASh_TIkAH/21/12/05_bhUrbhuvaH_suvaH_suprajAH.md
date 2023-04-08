@@ -5,5 +5,8 @@ title = "05 भूर्भुवः सुवः सुप्रजाः"
 
 <details><summary>थिते</summary>
 
-भूर्भुवः सुवः सुप्रजाः प्रजया भूयासं सुवीरो वीरैः सुवर्चा वर्चसा सुपोषः ह्पोषैरित्येतद्विदधाति ५
+5. (Therefore one may choose many things. (A sacred text) prescribes this (with the formula) bhur bhuvah suvaḥ....[^1]  
+
+[^1]: Cf. JB III.306; cp. KB XXVII; ŚB IV.6.9.23.  
+
 </details>

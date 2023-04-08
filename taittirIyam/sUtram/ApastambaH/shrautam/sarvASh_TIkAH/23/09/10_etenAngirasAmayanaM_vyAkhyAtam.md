@@ -5,5 +5,5 @@ title = "10 एतेनाङ्गिरसामयनं व्याख्�
 
 <details><summary>थिते</summary>
 
-एतेनाङ्गिरसामयनं व्याख्यातम् १०
+10. By (the description of this sacrificial session the sacrificial session called) Aṅgirasām ayanam (is as good) as explained.  
 </details>

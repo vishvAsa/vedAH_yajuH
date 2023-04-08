@@ -24,5 +24,7 @@ The exact process here intended is not quite clear. The ropes seem to have been 
 
 <details><summary>थिते</summary>
 
-अथ यानि न समस्यन्ते प्रदक्षिणं तानि १८
+18. One should bring together the strings which already are not brought together, in a clock-wise manner.[^1]  
+
+[^1]: Thus e.g. the strings which are used for binding the grass or the fuel-sticks (I.4.10, I.5.12).  
 </details>

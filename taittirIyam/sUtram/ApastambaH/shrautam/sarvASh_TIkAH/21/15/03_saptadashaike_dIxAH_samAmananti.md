@@ -5,5 +5,5 @@ title = "03 सप्तदशैके दीक्षाः समामनन
 
 <details><summary>थिते</summary>
 
-सप्तदशैके दीक्षाः समामनन्ति ३
+3. According to some there should be seventeen Dīkṣā (-days).  
 </details>

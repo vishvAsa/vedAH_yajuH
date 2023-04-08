@@ -24,5 +24,5 @@ Some MSS. read kāmayeta, 'he should wish,' but the commentator explains that su
 
 <details><summary>थिते</summary>
 
-क्रत्वादौ क्रतुकामं कामयेत १०
+10. The sacrificer should desire (express his desire) in the beginning of a sacrifice;  
 </details>

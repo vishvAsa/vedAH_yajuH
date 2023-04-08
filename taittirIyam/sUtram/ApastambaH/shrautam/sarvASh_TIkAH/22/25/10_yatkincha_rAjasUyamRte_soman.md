@@ -5,5 +5,9 @@ title = "10 यत्किञ्च राजसूयमृते सोमन
 
 <details><summary>थिते</summary>
 
-यत्किञ्च राजसूयमृते सोमं तत्सर्वं भवति १०
+10. Everything in the Rājasūya except the Soma[^1] takes place here.[^2]  
+
+[^1]: i.e. except the Soma-sacrificial days. Thus the rites like Pavitra or Abhyārohaṇīya, the Abhiṣecanīya, the Daśapeya, the Keśavapanīya, Vyuṣṭi-Dvirāta, the Kṣatrasya Dhr̥ti from the Rājasuya are dropped here.  
+
+[^2]: For this Sūtra cf. TB 11.7.4.1.  
 </details>

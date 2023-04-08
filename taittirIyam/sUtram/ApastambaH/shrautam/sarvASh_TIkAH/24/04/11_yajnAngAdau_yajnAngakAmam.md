@@ -57,5 +57,5 @@ According to the substances offered, sacrifices are sometimes divided into veget
 
 <details><summary>थिते</summary>
 
-यज्ञाङ्गादौ यज्ञाङ्गकामम् ११
+11. (and) the desire of a subsidiary rite of a sacrifice in the beginning of that subsidiary rite of the sacrifice.  
 </details>

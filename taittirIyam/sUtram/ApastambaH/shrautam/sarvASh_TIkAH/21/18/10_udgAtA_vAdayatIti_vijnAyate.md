@@ -5,5 +5,5 @@ title = "10 उद्गाता वादयतीति विज्ञाय
 
 <details><summary>थिते</summary>
 
-उद्गाता वादयतीति विज्ञायते १०
+10. It is known (from a Brāhmaṇa-text), "The Udgātr̥ plays the lute."  
 </details>

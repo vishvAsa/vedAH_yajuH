@@ -20,5 +20,9 @@ For every object (new sacrifice) let him bring forward the fire (let him perform
 
 <details><summary>थिते</summary>
 
-अर्थायार्थायाग्निं प्रणयति । अपवृत्ते कर्मणि लौकिकः सम्पद्यते यथा समारूढे २२
+22. For every purpose (i.e. for every performance of a rite) (the Adhvaryu) carries fire forwards.[^1] When the rite is over, the fire becomes profane as in the case (of fire which has been) taken up.[^2]  
+
+[^1]: i.e. from the Gārhapatya to the Āhavanīya. See I.1.2.  
+
+[^2]: See VI.28.8-11. 
 </details>

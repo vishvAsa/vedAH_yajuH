@@ -24,5 +24,7 @@ Puroḍāśa is a cake made of meal (pakvaḥ piṣṭapiṇḍaḥ), different 
 
 <details><summary>थिते</summary>
 
-तयादेवतेनेष्टकासु १६
+16. In the case of the bricks, he should put them simultaneously with the formula taya devatayā....[^1]  
+
+[^1]: See XVI.14.10. 
 </details>

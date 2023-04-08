@@ -5,5 +5,5 @@ title = "01 आदित्यानामयनेन प्रजातिम�
 
 <details><summary>थिते</summary>
 
-आदित्यानामयनेन प्रजातिं भूमानं गच्छन्त्यभि स्वर्गं लोकं जयन्त्येषु लोकेषु प्रतितिष्ठन्ति १
+1. (The performers obtain progeny, become many, win the heaven, get themselves established firmly in these worlds by means (of the performance) of the (sacrificial session called) Ādityānām ayanam.  
 </details>

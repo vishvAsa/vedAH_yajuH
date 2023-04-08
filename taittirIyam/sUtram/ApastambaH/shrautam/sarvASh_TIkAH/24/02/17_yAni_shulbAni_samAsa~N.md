@@ -20,5 +20,7 @@ Ropes which have to be joined, should be joined by the priest from left to right
 
 <details><summary>थिते</summary>
 
-यानि शुल्बानि समासं गच्छन्ति प्रसव्यं तान्यावेष्ट्य प्रदक्षिणं समस्येत् १७
+17. One should bring together the strings which already are brought together in a clock-wise manner after having first woven them in an anti-clockwise manner.[^1]  
+
+[^1]: This is to be done e.g. in connection with the threefold Pavitra (strainer) (I.6.9). 
 </details>

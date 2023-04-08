@@ -5,5 +5,7 @@ title = "11 एवंविहितांश्चतुरोऽभिप्�
 
 <details><summary>थिते</summary>
 
-एवंविहितांश्चतुरोऽभिप्लवानुपयन्ति । पृष्ट्यं षडहं समासे ११
+11. They perform the four Abhiplavas prescribed in this manner; then the Pr̥ṣṭhya-ṣaḍaha (six-days)-rite; that makes one month.[^1]  
+
+[^1]: Cf. Z.D.M.G. LVIII. p. 743.  
 </details>

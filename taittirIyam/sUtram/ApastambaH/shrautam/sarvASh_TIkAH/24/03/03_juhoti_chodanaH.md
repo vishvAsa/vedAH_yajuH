@@ -20,5 +20,5 @@ They are ordered by the word juhoti, he pours out.
 
 <details><summary>थिते</summary>
 
-जुहोति चोदनः ३
+3. It is prescribed with the word juhoti (he offers a libation). 
 </details>

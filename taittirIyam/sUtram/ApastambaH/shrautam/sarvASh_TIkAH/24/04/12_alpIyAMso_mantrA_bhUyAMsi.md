@@ -24,5 +24,7 @@ It happens, for instance, in certain iṣṭis that a pair of Yājyā and Anuvā
 
 <details><summary>थिते</summary>
 
-अल्पीयांसो मन्त्रा भूयांसि कर्माणि तत्र समशः प्रतिविभज्य पूर्वैः पूर्वाणि कारयेदुत्तरैरुत्तराणि १२
+12. When there are less formulae and more acts one should divide the formulae equally and use the first formula for the first act, the next formula for the next act.[^1]  
+
+[^1]: Thus TS II.2.1 sacrificial breads are mentioned and TS 1.1.14. a-d there are four formulae. Then for the sake of first three sacrificial breads TS 1.1.14 a and b and for the last three TS 1.1.14.c-d are to be used.  
 </details>

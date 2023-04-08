@@ -5,5 +5,7 @@ title = "02 दृषद्वत्या अप्ययेऽपोनप्�
 
 <details><summary>थिते</summary>
 
-दृषद्वत्या अप्ययेऽपोनप्त्रीयं चरुं निरुप्यातियन्ति २
+2. At the juncture of Dr̥ṣadvatī and Sarasvatī, having performed an offering of rice-pap for Aponapāt they cross (the river)[^1].  
+
+[^1]: Cf. TMB XXV.10.15. 
 </details>

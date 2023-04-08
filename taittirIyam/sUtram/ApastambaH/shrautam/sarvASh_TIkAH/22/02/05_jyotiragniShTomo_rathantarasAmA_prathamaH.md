@@ -5,5 +5,11 @@ title = "05 ज्योतिरग्निष्टोमो रथन्त�
 
 <details><summary>थिते</summary>
 
-ज्योतिरग्निष्टोमो रथन्तरसामा प्रथमः । प्राणेष्वन्नाद्ये च प्रतितिष्ठति । गौरुक्थ्यो बृहत्सामा द्वितीयः । पशुषु प्रतितिष्ठति । सर्वज्योतिरग्निष्टोम उभयसामा तृतीयः । सर्वमाप्नोति सर्वं जयति । त्रिरात्रसम्मितोऽग्निष्टोमो बृहत्सामा चतुर्थः । त्रिरात्रस्य फलमाप्नोति ५
+5. The first should be Jvotriragniṣṭoma the first Pr̥ṣṭha stotra of which is to be sung on the Rathantara-sāman. (Thereby) one becoines firmly established on the breaths and food.[^1] The second should be Go-Ukthya, the first Pr̥ṣṭha-stotra of which is to be sung on the Br̥hat-sāman; one becomes established in the cattle; the third should be a Sarvajyotis-Agniṣṭoma[^2] with both the (Br̥hat and Rathantara) sāmans; thereby one obtains all, wins all; the fourth should be an Agniṣṭoma similar to the three-day-Soma-sacrifice; thereby one obtains the result of the three-day-Soma-sacrifice.[^3]  
+
+[^1]: Cf. TMB XVI.8.1.9.  
+
+[^2]: Cf. TMB XVI.9.  
+
+[^3]: Cf. TMB XVI.11.  
 </details>

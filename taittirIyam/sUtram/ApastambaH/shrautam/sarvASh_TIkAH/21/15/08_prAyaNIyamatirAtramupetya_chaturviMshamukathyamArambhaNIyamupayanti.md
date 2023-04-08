@@ -5,5 +5,5 @@ title = "08 प्रायणीयमतिरात्रमुपेत्�
 
 <details><summary>थिते</summary>
 
-प्रायणीयमतिरात्रमुपेत्य चतुर्विंशमुकथ्यमारम्भणीयमुपयन्ति ८
+8. Having performed an Atirātra (sacrifice) on the Prāyaṇīya-day, they perform an Ukthya with twenty-four versed stoma as the Ārambhaṇīya (beginning-day).  
 </details>

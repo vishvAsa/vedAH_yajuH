@@ -24,5 +24,11 @@ These nigamas of the deities are not mentioned in the rules of the Vanaspati sac
 
 <details><summary>थिते</summary>
 
-स्विष्टकृद्विकारे वनस्पतौ याज्यायां देवतानिगमाः स्युः प्रकृत्युपबन्धात् १८
+18. In the offering to Vanaspati[^1] which is a modification of Sviṣṭakr̥t[^2] the addresses to the deity should be in the offering verse because they are connected with the (basic paradigm)[^3].  
+
+[^1]: See VII.25.15.  
+
+[^2]: See VII.25.16.  
+
+[^3]: i.e. this also happens in the basic pardigmatic rites viz. New and Full-moon-sacrifice.  
 </details>

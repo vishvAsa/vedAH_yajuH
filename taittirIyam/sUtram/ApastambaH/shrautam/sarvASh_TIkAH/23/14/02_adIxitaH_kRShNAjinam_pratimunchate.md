@@ -5,5 +5,5 @@ title = "02 अदीक्षितः कृष्णाजिनम् प्
 
 <details><summary>थिते</summary>
 
-अदीक्षितः कृष्णाजिनं प्रतिमुञ्चते । मानुषीं तेनर्द्धिमृध्नोति २
+2. While one is (still) unconsecrated, one should wear black antelope-skin. Thereby one obtains the human prosperity.  
 </details>

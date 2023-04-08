@@ -5,5 +5,7 @@ title = "11 अतिरात्रो द्वादशाहस्य दश
 
 <details><summary>थिते</summary>
 
-अतिरात्रो द्वादशाहस्य दशाहानि महाव्रतमतिरात्रश्च ११
+11. (The days in it are as follows): an Atirātra, the ten days of the Dvadaśāha; Mahāvrata-day, an Atirātra[^1].  
+
+[^1]: Cf. TMB XXIII.2.1. 
 </details>

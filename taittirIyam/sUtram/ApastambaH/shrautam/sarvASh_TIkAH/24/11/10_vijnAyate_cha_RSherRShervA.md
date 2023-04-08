@@ -5,5 +5,7 @@ title = "10 विज्ञायते च ऋषेरृषेर्वा"
 
 <details><summary>थिते</summary>
 
-विज्ञायते च । ऋषेरृषेर्वा एता निर्मिता यत्सामिधेन्यः । ता यदसंयुक्ताः स्युः प्रजया पशुभिर्यजमानस्य वितिष्ठेरन् । अर्धर्चौ सन्दधाति संयुनक्त्येवैना इति ते मन्यामहे १०
+10. And it is known (from a Brāhmaṇa text)[^1] : "The Sāmidhenīs are created by different sages. If they were disunited, they may separate the sacrificer from the offspring and cattle. He joins the half-verses; he thereby unites them[^1]. We think that he should join the last quarter of the preceding verse 
+
+[^1]: Cf. TS II.5.7.5.   
 </details>

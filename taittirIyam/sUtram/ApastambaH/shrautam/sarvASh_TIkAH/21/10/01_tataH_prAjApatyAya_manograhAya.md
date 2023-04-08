@@ -5,5 +5,7 @@ title = "01 ततः प्राजापत्याय मनोग्रह
 
 <details><summary>थिते</summary>
 
-ततः प्राजापत्याय मनोग्रहाय सम्प्रसर्पन्ति १
+1. Then all (the performers) creep for the Mind-scoop[^1] for Prajāpati.  
+
+[^1]: For this see the next Sūtra. 
 </details>

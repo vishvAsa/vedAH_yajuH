@@ -5,5 +5,5 @@ title = "08 आवृत्तम् पृष्ठ्यं षडहमुप
 
 <details><summary>थिते</summary>
 
-आवृत्तं पृष्ठ्यं षडहमुपेत्य चतुरोऽभिप्लवानावृत्तान्समासे ८
+8. Then having performed the reversed Pr̥ṣṭhya-six-day rite, they perform the reversed four Abhiplava-six-day-periods: this makes one month.  
 </details>

@@ -34,5 +34,5 @@ This Sūtra has to be connected with Sūtra LXV. The abstinence takes place on t
 
 <details><summary>थिते</summary>
 
-यदहर्न दृश्यते तदहरमावास्या २४
+24. The New-moon-day is that day on which (the moon) may not be seen  
 </details>

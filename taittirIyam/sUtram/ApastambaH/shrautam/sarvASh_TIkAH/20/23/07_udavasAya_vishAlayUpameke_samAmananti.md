@@ -5,5 +5,7 @@ title = "07 उदवसाय विशालयूपमेके समाम
 
 <details><summary>थिते</summary>
 
-उदवसाय विशालयूपमेके समामनन्ति ७
+7. According to some (ritualists) having pulled out the big sacrificial post[^1] (the Traidhātavīyā-offering should be performed).  
+
+[^1]: For this See XX.22.14. 
 </details>

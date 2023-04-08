@@ -24,5 +24,5 @@ The rules for the Paśugaṇas are therefore to be taken over from the Aikādaś
 
 <details><summary>थिते</summary>
 
-सवनीय ऐकादशिनानाम् ३५
+35. The (animal-sacrifice) connected with the Soma pressing (is the basic pradigm) of the (animal-sacrifices in the groups in) eleven. 
 </details>

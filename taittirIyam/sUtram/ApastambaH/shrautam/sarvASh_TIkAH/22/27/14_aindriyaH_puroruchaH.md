@@ -5,5 +5,5 @@ title = "14 ऐन्द्रियः पुरोरुचः"
 
 <details><summary>थिते</summary>
 
-ऐन्द्रियः पुरोरुचः १४
+14. All the Puroruc-verses are addressed to Indra.  
 </details>

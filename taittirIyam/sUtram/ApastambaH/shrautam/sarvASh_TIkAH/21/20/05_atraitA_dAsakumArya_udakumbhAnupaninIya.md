@@ -5,5 +5,5 @@ title = "05 अत्रैता दासकुमार्य उदकुम
 
 <details><summary>थिते</summary>
 
-अत्रैता दासकुमार्य उदकुम्भानुपनिनीय यथार्थं गच्छन्ति ५
+5. Then these slave-maidens, having poured their water jars near (Mārjālīya) go according to their destination.  
 </details>

@@ -20,5 +20,5 @@ Sacrificial acts intended for the gods, should be performed by the priest toward
 
 <details><summary>थिते</summary>
 
-प्रागपवर्गाण्युदगपवर्गाणि वा यज्ञोपवीती प्रदक्षिणं दैवानि कर्माणि करोति १५
+15. Carrying the sacrificial garment on the left shoulder and under the right armpit, one should carry out the activities connected to gods, ending in the east or ending in the north and one goes always in a clock-wise manner.  
 </details>

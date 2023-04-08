@@ -5,5 +5,7 @@ title = "07 मा ते केशानिति"
 
 <details><summary>थिते</summary>
 
-मा ते केशानिति केशान्प्रकीर्यमाणाननुमन्त्रयते ७
+7. (The chaplain) addresses the hair being scattered with mā te keśān....[^1]  
+
+[^1]: TB II.7.17.2. 
 </details>

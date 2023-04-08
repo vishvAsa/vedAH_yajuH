@@ -5,5 +5,7 @@ title = "13 त्रिंशद्रात्रमन्नाद्यक�
 
 <details><summary>थिते</summary>
 
-त्रिंशद्रात्रमन्नाद्यकामा उपेयुः १३
+13. (The peformers) desirous of food should perform the thirty-day-sacrificial-session.[^1]  
+
+[^1]: Cf. TMB XXIII.26.3. 
 </details>

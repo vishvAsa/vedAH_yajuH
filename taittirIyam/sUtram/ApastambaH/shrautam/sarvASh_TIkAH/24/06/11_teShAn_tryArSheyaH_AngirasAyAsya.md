@@ -5,5 +5,5 @@ title = "11 तेषान् त्र्यार्षेयः आङ्ग
 
 <details><summary>थिते</summary>
 
-तेषां त्र्यार्षेयः । आङ्गिरसायास्य गौतमेति । गोतमवदयास्यवदङ्गिरोवदिति ११
+11. They have three R̥ṣis. (The Hotr̥ says:) O Āṅgirasa, O Āyāsya, O Gautama. The Adhvaryu says: In the manner of Gotama, Ayāsya, Aṅgiras.  
 </details>

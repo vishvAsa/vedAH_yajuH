@@ -5,5 +5,5 @@ title = "02 अपि वा प्रजापतिपरिवादान्
 
 <details><summary>थिते</summary>
 
-अपि वा प्रजापतिपरिवादान्मन्त्रानधीयते २
+2. Or rather they recite the mantras consisting of Prajapati's blame. 
 </details>

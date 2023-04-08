@@ -24,5 +24,5 @@ When the different iṣṭakās or bricks are placed together for building an al
 
 <details><summary>थिते</summary>
 
-उपयामेन ग्रहेषु १५
+15. In the case of libations of scoops of Soma, he (the Adhvaryu) should make them simultaneous with the Upayāma formula.  
 </details>

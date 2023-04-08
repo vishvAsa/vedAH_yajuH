@@ -24,5 +24,5 @@ The Dvādaśāha lasts twelve days and is a Soma sacrifice. It is either an Ahī
 
 <details><summary>थिते</summary>
 
-द्वादशाहोऽहर्गणानाम् ४
+4. Dvādaśāha (is the basic paradigm) of the groups of days i.e. of the Ahīna and Sattra sacrifices. 
 </details>

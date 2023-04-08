@@ -5,5 +5,5 @@ title = "01 द्विरात्रप्रभृतय उपरिष्�
 
 <details><summary>थिते</summary>
 
-द्विरात्रप्रभृतय उपरिष्टादतिरात्रा अहीना ऐकादशरात्रात् १
+1. The sacrifices beginning from two-day-sacrifices upto eleven-day-sacrifices, the last day of which is an Atirātra are called Ahīna. 
 </details>

@@ -24,5 +24,5 @@ Grahas are offerings of Soma, and likewise the vessels (kamasa) in which the Som
 
 <details><summary>थिते</summary>
 
-वषट्कृते वषट्कारेण वाहुतिषु सन्निपातयेत् १४
+14. While making the offerings (the act of pouring the offering material) should be done either after the Vaṣaṭ has been uttered or one should make it simultaneous with the Vaṣaṭ-call.  
 </details>

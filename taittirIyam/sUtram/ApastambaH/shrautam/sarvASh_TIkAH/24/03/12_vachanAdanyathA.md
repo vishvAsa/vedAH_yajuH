@@ -24,5 +24,7 @@ The Āśruta is ā śrāvaya; the Pratyāśruta, astu śrauṣaṭ; Anuvākyā a
 
 <details><summary>थिते</summary>
 
-वचनादन्यथा १२
+12. (Only when there is) a specific statement (he offers the libation) otherwise.[^1]  
+
+[^1]: As e.g. at the Somacaru: XIII.13.18.  
 </details>

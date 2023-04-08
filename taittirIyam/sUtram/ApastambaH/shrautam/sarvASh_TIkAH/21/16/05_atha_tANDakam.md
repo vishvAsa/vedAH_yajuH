@@ -5,5 +5,5 @@ title = "05 अथ ताण्डकम्"
 
 <details><summary>थिते</summary>
 
-अथ ताण्डकम् ५
+5. Now the Tāṇḍaka (view).  
 </details>

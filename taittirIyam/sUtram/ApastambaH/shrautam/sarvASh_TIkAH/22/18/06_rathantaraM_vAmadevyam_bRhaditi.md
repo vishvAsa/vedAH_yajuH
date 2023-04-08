@@ -5,5 +5,5 @@ title = "06 रथन्तरं वामदेव्यम् बृहदि
 
 <details><summary>थिते</summary>
 
-रथन्तरं वामदेव्यं बृहदिति पृष्ठानि ६
+6. (The Samans for the first Pr̥ṣṭhastotra of these three days should be) the Rathantara, Vāmadevya and Br̥hat (respectively).  
 </details>

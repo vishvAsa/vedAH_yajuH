@@ -5,5 +5,5 @@ title = "06 तेषान् त्र्यार्षेयः वैश्
 
 <details><summary>थिते</summary>
 
-तेषां त्र्यार्षेयः । वैश्वामित्र माधुच्छन्दस धानञ्जय्येति । धनञ्जयवन्मधुच्छन्दोवद्विश्वामित्रवदिति ६
+6. There are three R̥ṣis of them. (The Hotr̥ says): O Vaiśvamitra, Madhucchandasa, Dhanañjayaya. (The Adhvaryu says): In the manner of Dhanañjaya, Madhucchandas, Viśvāmitra. 
 </details>

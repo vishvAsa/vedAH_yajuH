@@ -5,5 +5,5 @@ title = "16 यदि सेनामीत्वरी विन्देते
 
 <details><summary>थिते</summary>
 
-यदि सेनामीत्वरी विन्देतेन्द्राय जयत एकादशकपालम् १६
+16. If an attacking army (of the enemy) takes hold of it, (he should offer) a sacrificial bread on eleven potsherds to Indra Jayat.  
 </details>

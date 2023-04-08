@@ -5,5 +5,5 @@ title = "03 सर्वमेधो दशरात्रः"
 
 <details><summary>थिते</summary>
 
-सर्वमेधो दशरात्रः ३
+3. The Sarvamedha is a ten-day-(Soma-sacrifice). 
 </details>

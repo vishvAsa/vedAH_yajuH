@@ -5,5 +5,5 @@ title = "15 तते विद्ध्या नातिपातयन्त
 
 <details><summary>थिते</summary>
 
-तते विद्ध्या नातिपातयन्ति १५
+15. They shoot (the arrows) on it (the hide); and at that time they do not cause ( the arrows) to fall beyond (the hide).  
 </details>

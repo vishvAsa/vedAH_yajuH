@@ -5,5 +5,5 @@ title = "15 य एषां व्रतमिच्छेदभिपूरय
 
 <details><summary>थिते</summary>
 
-य एषां व्रतमिच्छेदभिपूरयितुं दध्न एकं स्रुवमुन्नीय नापरमुन्नयेत १५
+15. He who desires to increase the fast-food, after having taken one spoon-full of curds, should not take anything more.  
 </details>

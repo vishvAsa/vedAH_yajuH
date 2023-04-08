@@ -5,5 +5,7 @@ title = "10 योऽतपस्वी स्यादसंश्लिष्�
 
 <details><summary>थिते</summary>
 
-योऽतपस्वी स्यादसंश्लिष्टोऽस्य यज्ञः स्यात् । तपस्वी स्यात् । यज्ञमेव तत्संश्लेषयत इति विज्ञायते १०
+10. His sacrifice will be unconnected who would be with out penance. He practises penance, thereby he causes the sacrifice to be connected-Thus is known from a Brāhmaṇa-text[^1].  
+
+[^1]: KS XXXIV.9. vs
 </details>

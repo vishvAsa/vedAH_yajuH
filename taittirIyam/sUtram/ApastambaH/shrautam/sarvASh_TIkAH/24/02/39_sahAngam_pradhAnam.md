@@ -24,5 +24,8 @@ This Sūtra forms sometimes part of the preceding Sūtra, and would then refer t
 
 <details><summary>थिते</summary>
 
-सहाङ्गं प्रधानम् ३९
+39. The principal (rite) is accompanied by the subsidiary.[^1]  
+
+[^1]: Thus for example when a particular sacrificial bread is prescribed to be offered to a particular deity, one has to peform the entire ritual of an offering the basic paradigm of which is the New and Full-moon-sacrifices.  
+
 </details>

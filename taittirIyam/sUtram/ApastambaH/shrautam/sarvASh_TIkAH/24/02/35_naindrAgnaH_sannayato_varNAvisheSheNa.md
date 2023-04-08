@@ -26,5 +26,5 @@ This whole matter is summed up in Kapardin's commentary: Amāvāsyāyām asomay�
 
 <details><summary>थिते</summary>
 
-नैन्द्राग्नः सन्नयतो वर्णाविशेषेण ३५
+35. In the case of a sacrificer who performs Saṁnāyya offering, there should be no (sacrificial bread for Indra-Agni) irrespective of his caste.  
 </details>

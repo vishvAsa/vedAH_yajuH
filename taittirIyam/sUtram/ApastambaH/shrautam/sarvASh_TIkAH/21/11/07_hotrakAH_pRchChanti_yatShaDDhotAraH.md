@@ -5,5 +5,5 @@ title = "07 होत्रकाः पृच्छन्ति यत्षड
 
 <details><summary>थिते</summary>
 
-होत्रकाः पृच्छन्ति यत्षड्ढोतारः सत्त्रमासत केन ते गृहपतिनार्ध्नुवन्केनर्तूनकल्पयन्तेति ७
+7. The Hotraka-s ask, “When the Śaḍḍhotr̥s performed the sacrificial session with whom as Gr̥hapati did they prosper (and) with whom did they arrange the seasons?”  
 </details>

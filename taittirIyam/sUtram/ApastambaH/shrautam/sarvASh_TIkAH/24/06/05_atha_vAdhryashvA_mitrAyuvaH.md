@@ -5,5 +5,5 @@ title = "05 अथ वाध्र्यश्वा मित्रायुव
 
 <details><summary>थिते</summary>
 
-अथ वाध्र्यश्वा मित्रायुवः ५
+5. Now the Vādhryaśva-Mitrāyus.
 </details>

@@ -20,5 +20,5 @@ If there are fewer acts and more Mantras, let him perform and act with one mantr
 
 <details><summary>थिते</summary>
 
-अल्पीयांसि कर्माणि भूयांसो मन्त्रास्तत्र प्रतिमन्त्रं कुर्यात् । अवशिष्टा विकल्पार्था यथा यूपद्रव्याणीति १३
+13. When there are less acts and more formulae, then one should use the formulae in their order each one for each act; the remaining formulae are optional as for example the substances of the sacrificial post.  
 </details>

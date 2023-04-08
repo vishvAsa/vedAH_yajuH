@@ -20,5 +20,5 @@ One pours out (juhoti) the Darvi-homas, sitting west of the Āhavanīya fire, an
 
 <details><summary>थिते</summary>
 
-अपरेणाग्निं दक्षिणं जान्वाच्यानाच्य वासीनो दर्विहोमाञ्जुहोति ९
+9. The Adhvaryu offers all the Darvihomas sitting west of the fire having bent or not bent his right knee. 
 </details>

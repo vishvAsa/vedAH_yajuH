@@ -5,5 +5,7 @@ title = "09 मासमग्निहोत्रञ् जुह्वति 
 
 <details><summary>थिते</summary>
 
-मासमग्निहोत्रं जुह्वति । मासं दर्शपूर्णमासाभ्यां यजन्ते मासं वैश्वदेवेन मासं वरुणप्रघासैर्मासं साकमेधैर्मासं शुनासीरीयेण । त्रिवृता मासं पञ्चदशेन मासं सप्तदशेन मासमेकविंशेन मासं त्रिणवेन मासम् । अष्टादश त्रयस्त्रिंशान्यहानि द्वादशाहस्य दशाहानि महाव्रतमतिरात्रश्चेति द्वादश मासाः ९
+9. They perform Agnihotra for one month; New and Full moon sacrifices for one month, Vaiśvadeva for one month, Varuṇapraghāsas for one month; Śākamedhas of one month. Sunāsīrya for one month. (Then follows the Soma-sacrificial sesssion proper). They perform every day with nine-versed stoma for one month; then with fifteen-versed-stoma for one month; seventeen-versed-stoma for one month; twenty-one versed-stoma for one month; twenety-seven-versed-stoma for one month; in the twelfth month there should be eighteen days with thirty-three-versed-stoma; then days of the Dvādaśāha, Mahāvrata and Atirātra. In this way there should be the twelve months.[^1]  
+
+[^1]: Cf. TMB XXV.4.1. 
 </details>

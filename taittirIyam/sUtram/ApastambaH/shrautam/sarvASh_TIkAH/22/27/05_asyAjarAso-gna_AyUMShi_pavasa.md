@@ -5,5 +5,7 @@ title = "05 अस्याजरासोऽग्न आयूंषि पव
 
 <details><summary>थिते</summary>
 
-अस्याजरासोऽग्न आयूंषि पवस इत्यैन्द्रवायवस्य । द्वितीया मैत्रावरुणस्य । तृतीयाश्विनस्य । चतुर्थी पञ्चमी च शुक्रामन्थिनोः षष्ठ्याग्रयणस्य ५
+5. (The Puroruc-verse) of the scoop for Indra and Vayu (is) asyājarāsah... agna āyaimsi pavase... The second of the scoop for Mitra and Varuṇa; the third of the Aśvins-scoop and the fourth and fifth of the scoops for śukra and Manthin; the sixth of the Āgrayaṇa[^1],  
+
+[^1]: For the verses see TB II.7.12.1ff. 
 </details>

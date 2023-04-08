@@ -24,5 +24,11 @@ The reason why such passages are not to be treated as Mantras is that they shoul
 
 <details><summary>थिते</summary>
 
-अनाम्नातास्त्वमन्त्रा यथा प्रवरोहनामधेयग्रहणानीति ३५
+35. (Those parts which have not been traditionally transmitted should) not be called Mantras just as Pravara,[^1] Ūha,[^2] and mentions of names.[^3]  
+
+[^1]: Names of the ancient R̥ṣis.  
+
+[^2]: Modifications in the formulae.  
+
+[^3]: e.g. in the Sūktavāka (See TS 11.6.9.7). 
 </details>

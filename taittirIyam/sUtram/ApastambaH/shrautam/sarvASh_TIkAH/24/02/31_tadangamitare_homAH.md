@@ -20,5 +20,5 @@ The other Homas are Aṅga.
 
 <details><summary>थिते</summary>
 
-तदङ्गमितरे होमाः ३१
+31. The other libations are subsidiary to them. 
 </details>

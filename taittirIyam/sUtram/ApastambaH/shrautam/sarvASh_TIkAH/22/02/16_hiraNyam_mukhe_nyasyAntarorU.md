@@ -5,5 +5,7 @@ title = "16 हिरण्यम् मुखे न्यस्यान्त
 
 <details><summary>थिते</summary>
 
-हिरण्यं मुखे न्यस्यान्तरोरू प्रियायै भार्यायै ब्रह्मचारी शेते श्व इष्ट्या पशुना वा यक्ष्य इति १६
+16a. After having kept gold in his mouth (the sacrificer) sleeps in between the thighs of the beloved wife while observing celibacy.   
+
+[^1]: For Sūtras 15 and 16 cf. JB II. 117.  
 </details>

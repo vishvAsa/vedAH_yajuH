@@ -5,5 +5,5 @@ title = "17 एवम् माध्यन्दिने तृतीयसव
 
 <details><summary>थिते</summary>
 
-एवं माध्यन्दिने तृतीयसवने च १७
+17. (The same is to be done) at the time of the midday pressing and the third-pressing.  
 </details>

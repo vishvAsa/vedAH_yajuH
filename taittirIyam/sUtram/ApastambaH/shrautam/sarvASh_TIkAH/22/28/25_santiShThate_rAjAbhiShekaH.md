@@ -5,5 +5,5 @@ title = "25 सन्तिष्ठते राजाभिषेकः"
 
 <details><summary>थिते</summary>
 
-सन्तिष्ठते राजाभिषेकः २५
+25. The (ritual of) sprinkling (of water) on the king stands established completely (i.e. is over). 
 </details>

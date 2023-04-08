@@ -5,5 +5,5 @@ title = "12 तेषाम् पञ्चार्षेयुः प्रव
 
 <details><summary>थिते</summary>
 
-तेषां पञ्चार्षेयुः प्रवरः । भार्गव च्यावनाप्र्नवानौर्व जामदग्न्येति । जमदग्निवदूर्ववदप्नवानवच्च्यवनवद्भृगुवदिति १२
+12. the series of ancestors of them consist of five R̥ṣis (the Hotr̥ says:) O Bhārgava, Cyāvana, Āpnavāna, Aurva, Jāmadagnya. The Adhvaryu says: in the manner of Jamadagni, Ūrva, Apnavat, Cyavana, Bhr̥gu.  
 </details>

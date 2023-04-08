@@ -5,5 +5,5 @@ title = "09 महाव्रतोदयनीयाभ्यामिति �
 
 <details><summary>थिते</summary>
 
-महाव्रतोदयनीयाभ्यामिति द्व्यूनो मासः पूर्यते ९
+9. Through the Mahāvrata day and the Udayanīya (concluding) day the month in which two days are lacking is completed. 
 </details>

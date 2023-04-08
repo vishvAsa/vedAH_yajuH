@@ -24,5 +24,5 @@ Arthavāda is generally explained as anything occurring in the Brāhmaṇas whic
 
 <details><summary>थिते</summary>
 
-विकृतौ यथार्थमूहोऽर्थवादवर्जम् ५०
+50. In the modificatory rite the change in the formula should be done in accordance with the requirement with the exception of the Arthavāda (Explanation)s. 
 </details>

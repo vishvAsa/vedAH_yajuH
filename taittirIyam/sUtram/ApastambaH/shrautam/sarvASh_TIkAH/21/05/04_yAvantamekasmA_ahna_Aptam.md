@@ -5,5 +5,5 @@ title = "04 यावन्तमेकस्मा अह्न आप्तम
 
 <details><summary>थिते</summary>
 
-यावन्तमेकस्मा अह्न आप्तं मन्यते ४
+4. Having tied in another cloth as much (Soma-plants) as he (i.e. Adhvaryu) thinks sufficient for one day,  
 </details>

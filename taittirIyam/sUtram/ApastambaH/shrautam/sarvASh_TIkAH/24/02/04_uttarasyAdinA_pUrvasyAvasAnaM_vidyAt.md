@@ -20,5 +20,5 @@ One should know that with the beginning of a following mantra, the former mantra
 
 <details><summary>थिते</summary>
 
-उत्तरस्यादिना पूर्वस्यावसानं विद्यात् ४
+4. One should know the end of the former formula by means of the beginning of the latter (one).  
 </details>

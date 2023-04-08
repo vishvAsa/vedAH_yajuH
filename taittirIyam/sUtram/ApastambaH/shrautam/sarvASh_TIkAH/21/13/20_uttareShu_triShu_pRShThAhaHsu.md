@@ -5,5 +5,7 @@ title = "20 उत्तरेषु त्रिषु पृष्ठाहः
 
 <details><summary>थिते</summary>
 
-उत्तरेषु त्रिषु पृष्ठाहःसु त्रीनतिग्राह्यान्गृह्णाति आग्नेयमेकविंश ऐन्द्रं त्रिणवे सौर्यं त्रयस्त्रिंशे २०
+20. On the last three Pr̥ṣṭhya days he scoops three Atigrāhya scoops.  
+
+[^1]: Thus on the fourth, fifth and sixth days of the ten-day-period in the Dvādaśāha.  
 </details>

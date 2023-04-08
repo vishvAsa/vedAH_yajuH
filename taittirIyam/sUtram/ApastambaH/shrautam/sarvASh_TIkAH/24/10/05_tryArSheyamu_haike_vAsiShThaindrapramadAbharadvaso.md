@@ -5,5 +5,5 @@ title = "05 त्र्यार्षेयमु हैके वासिष
 
 <details><summary>थिते</summary>
 
-त्र्यार्षेयमु हैके । वासिष्ठैन्द्रप्रमदाभरद्वसो इति । आभरद्वसुवदिन्द्रप्रमदवद्वसिष्ठवदिति ५
+5. According to some they have three R̥ṣis (The Hotr̥ says) O Vasiṣṭha, Aindrapramada, Ābharadvasu. (The Adhvaryu says): In the manner of Ābharadvasu, Indrapramada, Vasiṣṭha. 
 </details>

@@ -5,5 +5,5 @@ title = "14 चतुस्तनन् त्रिस्तनन् द्व
 
 <details><summary>थिते</summary>
 
-चतुस्तनं त्रिस्तनं द्विस्तनमेकस्तनमिति त्र्यहं त्र्यहं व्रतानि १४
+14. For a period of every three days the fast-food for every day should be milk of four teats, three teats, two teats and on teat respectively.  
 </details>

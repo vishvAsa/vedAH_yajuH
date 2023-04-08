@@ -5,5 +5,5 @@ title = "09 ततश्चतुर्षु मासेषु वरुणप
 
 <details><summary>थिते</summary>
 
-ततश्चतुर्षु मासेषु वरुणप्रघासानां लोकेऽग्निष्टोम उक्थ्यः । उक्थ्यावग्निष्टोमौ वा ९
+9. Then after four months an Agniṣṭoma and an Ukthya should be performed in the place of Varuṇapraghāsas; or there should be either two Ukthyas or two Agniṣṭomas.  
 </details>

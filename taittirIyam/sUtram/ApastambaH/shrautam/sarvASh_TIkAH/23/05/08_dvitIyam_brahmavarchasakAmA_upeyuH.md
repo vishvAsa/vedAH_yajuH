@@ -5,5 +5,5 @@ title = "08 द्वितीयम् ब्रह्मवर्चसका�
 
 <details><summary>थिते</summary>
 
-द्वितीयं ब्रह्मवर्चसकामा उपेयुः ८
+8. (The performers) desirous of Brahman-splendour should perform the second thirty-three-day-sacrificial-session.  
 </details>

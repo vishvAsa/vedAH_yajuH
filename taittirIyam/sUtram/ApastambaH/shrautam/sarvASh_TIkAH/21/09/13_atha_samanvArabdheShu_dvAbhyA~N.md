@@ -5,5 +5,6 @@ title = "13 अथ समन्वारब्धेषु द्वाभ्य
 
 <details><summary>थिते</summary>
 
-अथ समन्वारब्धेषु द्वाभ्यां गार्हपत्ये जुहोति । अमूर्या उप सूर्ये याभिर्वा सूर्यः सह । ता नो हिन्वन्त्वध्वरम् । इह रतिरिह रन्तिरिह रमतिरिह रमध्वमिह वो रमतिः स्वाहेति १३
+13. Then while the others hold him from behind, (the Adhvaryu) makes libations (of ghee) in the Gārhapatya-fire 
+
 </details>

@@ -5,5 +5,7 @@ title = "07 अग्नये स्वाहा वायवे"
 
 <details><summary>थिते</summary>
 
-अग्नये स्वाहा वायवे स्वाहेत्येतं हुत्वार्वाङ्यज्ञः सं क्रामत्वित्याप्तीः ७
+7. (he offers offerings called) Āpti-s (obtainment) with arvan yajñaḥ;[^9]  
+
+[^9]: TS VII.3.11.  
 </details>

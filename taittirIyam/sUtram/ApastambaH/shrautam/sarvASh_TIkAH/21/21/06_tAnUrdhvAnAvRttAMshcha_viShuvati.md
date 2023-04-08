@@ -5,5 +5,5 @@ title = "06 तानूर्ध्वानावृत्तांश्च �
 
 <details><summary>थिते</summary>
 
-तानूर्ध्वानावृत्तांश्च विषुवति ६
+6. (He takes) them (the same scoops) in the upward direction (i.e. the normal order) and in reverse order on the Viṣuvatday.  
 </details>

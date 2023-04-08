@@ -5,5 +5,5 @@ title = "13 धारयत्याहवनीयम्"
 
 <details><summary>थिते</summary>
 
-धारयत्याहवनीयम् १३
+13. He holds the Āhavanīya-fire nearby.  
 </details>

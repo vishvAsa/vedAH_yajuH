@@ -20,5 +20,5 @@ And this is the norm for the Savanīya.
 
 <details><summary>थिते</summary>
 
-अग्नीषोमीयस्य च पशोः ३३
+33. And (they are also the basic paradigm) of the animal sacrifice for Agni-and-Soma.  
 </details>

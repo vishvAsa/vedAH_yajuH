@@ -5,5 +5,7 @@ title = "07 यान् देवतां यजेत्ताम्"
 
 <details><summary>थिते</summary>
 
-यां देवतां यजेत्तां मनसा ध्यायेत्पुरा वषट्कारात्स्वर्गकामस्येति विज्ञायते ७
+7. It is known from a Brāhmaṇa-text: in the case of a sacrificer who is desirous of heaven (the Hotr̥) should think of the deity.[^1]  
+
+[^1]: Cp. AB III.8.  
 </details>

@@ -20,5 +20,5 @@ If no special instruction is given (in the Śruti), the acts are general.
 
 <details><summary>थिते</summary>
 
-अनिर्देशात्साधारणानि २८
+28. When there is no specific mention, (the injunctions are to be considered as) general.  
 </details>

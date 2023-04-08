@@ -5,5 +5,9 @@ title = "12 भुवो देवानाङ् कर्मणेत्यृ
 
 <details><summary>थिते</summary>
 
-भुवो देवानां कर्मणेत्यृतुदीक्षाभिः कृष्णाजिनमारोहन्तमभिमन्त्रयते १२
+12. With the R̥tu-Dīkṣa-formulae beginning with bhuvo devānām...[^1] he addresses (the sacrificer) ascending upon the black antelope skin.[^2]  
+
+[^1]: TS VII.1.18.1ff.  
+
+[^2]: See X.9.3.  
 </details>

@@ -5,5 +5,5 @@ title = "05 उष्णीषम् प्रतोदो ज्याह्र
 
 <details><summary>थिते</summary>
 
-उष्णीषं प्रतोदो ज्याह्रोडो रथो विपथः फलकास्तीर्णोऽश्वोऽश्वतरश्च युग्यौ कृष्णशं वासः कृष्णबलक्षे अजिने रजतो निष्कः ५
+5. A turban, a whip, a bow without arrow, a chariot covered with a board and the one which goes astray from the path, a horse and a mule worthy for yoking, a garment with black fringes, two goat-skins-one white and one black, a silver ornament (worn around) neck, 
 </details>

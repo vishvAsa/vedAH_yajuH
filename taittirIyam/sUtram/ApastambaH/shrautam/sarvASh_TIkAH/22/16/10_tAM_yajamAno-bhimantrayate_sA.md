@@ -5,5 +5,8 @@ title = "10 तां यजमानोऽभिमन्त्रयते स
 
 <details><summary>थिते</summary>
 
-तां यजमानोऽभिमन्त्रयते सा मा सुवर्गं लोकं गमयेति १०
+10. The sacrificer addresses her (the cow) with sā mā suvargam....[^1]  
+
+[^1]: Cf. TS VII.1.7.1-2. 
+
 </details>

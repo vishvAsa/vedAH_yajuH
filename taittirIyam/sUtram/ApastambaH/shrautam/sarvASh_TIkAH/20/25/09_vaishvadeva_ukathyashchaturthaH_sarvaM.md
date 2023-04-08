@@ -5,5 +5,5 @@ title = "09 वैश्वदेव उकथ्यश्चतुर्थः 
 
 <details><summary>थिते</summary>
 
-वैश्वदेव उकथ्यश्चतुर्थः । सर्वं वैश्वदेवम् ९
+9. The fourth (day) should be Vaiśvadeva-Ukthya ; every thing should be connected with Viśvedevas.  
 </details>

@@ -20,5 +20,5 @@ At every sacrifice these vessels are to be purified.
 
 <details><summary>थिते</summary>
 
-तेषां प्रतितन्त्रं संस्कारः २९
+29. They are to be sanctified everytime in accordance to the ritual procedure.
 </details>

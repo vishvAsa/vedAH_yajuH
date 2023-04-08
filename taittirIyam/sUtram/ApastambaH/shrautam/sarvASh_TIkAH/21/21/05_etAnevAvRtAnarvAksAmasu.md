@@ -5,5 +5,7 @@ title = "05 एतानेवावृतानर्वाक्सामस�
 
 <details><summary>थिते</summary>
 
-एतानेवावृतानर्वाक्सामसु ५
+5. (He takes) the same (scoops) in the reverse order on the (Svarasāman) with reverted sāmans."  
+
+[^1]: Cf. TS III.3.6.2. 
 </details>

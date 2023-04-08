@@ -5,5 +5,5 @@ title = "03 तस्मिन्सर्वा ऋचः सर्वाणि
 
 <details><summary>थिते</summary>
 
-तस्मिन्सर्वा ऋचः सर्वाणि सामानि सर्वाणि यजूंषि प्रयुज्यन्ते ३
+3. In it all the R̥cs, all the Sāmans, and all the Yajus are used.  
 </details>

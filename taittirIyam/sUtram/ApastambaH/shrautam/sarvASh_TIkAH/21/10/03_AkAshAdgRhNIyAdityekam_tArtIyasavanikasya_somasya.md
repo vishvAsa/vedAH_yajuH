@@ -5,5 +5,5 @@ title = "03 आकाशाद्गृह्णीयादित्येक�
 
 <details><summary>थिते</summary>
 
-आकाशाद्गृह्णीयादित्येकम् । तार्तीयसवनिकस्य सोमस्य परिशाययेद्यावन्तमेकस्मै चमसगणाय सग्रहायाप्तं मन्येतेत्यपरम् ३
+3. (There is ) one (view according to which) he takes it from the sky; (there is) another (view according to which) he should let aside as much of the Soma used for the third pressing as he may think to be enough for (filling) one group of Camasas along with (the performance of a) scoop. 
 </details>

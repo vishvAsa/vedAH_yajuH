@@ -24,5 +24,5 @@ If it is said that a puroḍāśa should be as large as a horse's hoof, and ther
 
 <details><summary>थिते</summary>
 
-मात्रापचारे तच्छेषेण समाप्नुयात् ५४
+54. In the insufficiency of the adequate quantity, one should complete the work by means of the remaining substance (itself).  
 </details>

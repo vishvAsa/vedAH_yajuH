@@ -5,5 +5,5 @@ title = "03 पञ्च पञ्चाहाः"
 
 <details><summary>थिते</summary>
 
-पञ्च पञ्चाहाः ३
+3. There are five five-day-sacrifices. 
 </details>

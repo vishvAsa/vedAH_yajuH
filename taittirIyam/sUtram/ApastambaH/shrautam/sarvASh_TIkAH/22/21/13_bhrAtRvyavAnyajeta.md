@@ -5,5 +5,5 @@ title = "13 भ्रातृव्यवान्यजेत"
 
 <details><summary>थिते</summary>
 
-भ्रातृव्यवान्यजेत १३
+13. (A sacrificer who) has enemies should perform it. 
 </details>

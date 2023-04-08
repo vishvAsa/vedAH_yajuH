@@ -5,5 +5,6 @@ title = "03 अथ गार्त्समदाः शनकाः"
 
 <details><summary>थिते</summary>
 
-अथ गार्त्समदाः शनकाः ३
+3. Now the Gartsamada Śunakas. 
+
 </details>
