@@ -5,371 +5,242 @@ title = "25 Aśvamedhaḥ"
 ASVAMEDHA (HORSE-SACRIFICE) 
 ## 20.01
 राजा सार्वभौमो ऽश्वमेधेन यजेत। अप्यसार्वभौमः॥१॥
-1. A king, (who is) the lord of all the earth should perform the Aśvamedha (sacrifice) or even one who is not the lord of all the earth.  
+
 
 
 
 चित्रा नक्षत्रम्॥२॥
-2. The constellation (on which the performance of sacrifice should begin, should be) Citrā.  
 
-[^1]: The word Puṇyanāma in the Sūtra-text edited by Garbe should be a part of the next Sūtra. For this Sūtra cf. TB III.8.1.1.  
 
 पण्यनाम देवयजनमध्यवस्यति यत्रापः पुरस्तात्सुखाः सूपावगाहा अन पस्वरीः॥३॥
-3. (At that time the sacrificer) should settle on the sacrificial ground having an auspicious name (Puṇyanāma)[^1] where the waters go forward (i.e. to the east), they are pleasant (sukhāḥ) easy to swim in and are inexhaustible.  
 
-[^1]: Cf. TB III.8.1.2. 
 
 
 चैत्र्यां पौर्णमास्यां सांग्रहण्येष्ट्या यजते। तस्या योत्तरामावास्या तस्यां संज्ञान्या।॥४॥
-4. He should perform the Sāṁgrahaṇī-offering[^1] on the Full-Moon-day of Caitra and the Samjñānī (-offering)[^2] on the New-moon-day which follows it.  
 
-[^1]: Cf. TB III.8.1.1. For this offering see XIX.23.6.  
-
-[^2]: For this offering see XIX.20.3. 
 
 वैशाख्यां पौर्णमास्यां प्राजापत्यमृषभं तूपरं सर्वरूपं सर्वेभ्यः कामेभ्य आलभते॥५॥
-5. On the Full-Moon-day of Vaisakha, he should offer a bull with its horns intact and having variegated colour to Prajāpati for the sake of fulfillment of all the desires.  
+
 
 
 तस्या योत्तरामावास्या तस्यामपदातीन्महर्विज आवहन्ति॥६॥
-6. On the New-Moon-day which follows it, they (the officers of the king) bring the great priests[^1] not being walking on their feet (i.e. sitting on chariots or elephants).  
 
-[^1]: Viz. Hotr̥, Adhvaryu, Udgātr̥ and Brahman. For this Sūtra cp. TB III.8.1.2.  
 
 अन्वहमितरानावहन्त्या सुब्रह्मण्यायाः॥७॥
-7. Day by day they bring the other priests upto the (priest called) Subrahmaṇya.[^1]  
 
-[^1]: Cf. TB III.8.1.2. 
 
 
 
 अमावास्यामिष्ट्वा देवयजनमभिप्रपद्यते॥८॥
-8. Having performed (the New-Moon-offering) on the New Moon-day, he goes to the place of the (Aśvamedha) sacrifice.  
+
 
 
 केशश्मश्रु वपते॥९॥ नखानि निकृन्तते॥१०॥ दतो धावते॥११॥ स्नाति॥१२॥ अहतं वासः परिधत्ते॥१३॥
-9. He gets his hair and beard shaved; 
 
-10. gets his nails cut;  
 
-11. cleanses the teeth;  
 
-12. takes bath,  
 
-13. wears a new garment[1].  
 
-[^1]: Cf. TB III.8.1.2.  
+
+
+
+
 
 वाचं यत्वोपवसति॥१४॥ ये रातयस्ते जागरयन्ति॥१५॥
-14. Having restrained this speech, he stays (during the night) near (the fire having eaten the fast-food and then observing fast);[^1] 
 
-[^1]: Cf. TB III.8.1.2.  
 
-15. those who are his friends, they keep him awake.  
+
 
 
 वाग्यतस्यैतां रात्रिमग्निहोत्रं जुह्वति॥१६॥
-16. (The priests) perform the Agnihotra-rite on the night for him who is observing silence. 
+
 
 
 द्रप्ट्रे नम उपद्रष्ट्रे नमो ऽनु द्रष्ट्रे नमः ख्यात्रे नम उपख्यात्रे नमो ऽनुख्याने नमः शृण्वते नम उपशृण्वते नमः सते नमो ऽसते नमो जाताय नमो जनिष्य माणाय नमो भूताय नमो भविष्यते नमश्चक्षुषे नमः श्रोत्राय नमो नमो वाचे नमो ब्रह्मणे नमस्तपसे नमः शान्ताय नम इत्येकविंशत्या नमस्कारैरुद्यन्त मादित्यमुपतिष्ठते॥१७॥
-17. He stands praising the rising sun in the morning with twenty-one obeisances with draṣṭre namaḥ....[^1]  
 
-[^1]: For the formulac see VS XVI.12.  
 
 
 नमो ऽग्नये पृथिविक्षित इत्येतैश्च यथालिङ्गम्॥१॥
-1. And (the sacrifiicer also stands near the Fire, Wind and Sun) with these formulae (begining with) namo'gnaye pr̥thivikṣite[^1] in accordance with the characteristic mark in the formula (indicating the deity)  
 
-[^1]: TS VII.5.24.b. 
 
 ये ते पन्थानः सवितरिति पूर्वया द्वारा प्राग्वंशं प्रविश्याहवनीये वैतसमिध्ममभ्याधायैकादश पूर्णाहुतीर्जुहोति। हिरण्यगर्भः समवर्तताग्र इत्यष्टौ। देवा देवेषु पराक्रमध्वमिति तिस्त्रः॥२॥  
-2. Having entered the Prāgvaṁśa (-hall) through the eastern door with ye te panthānaḥ savitaḥ...,[^1] having put reed fuel in the Āhavanīya (-fire), he makes eleven full-spoon libations (of ghee), eight with hiraṇyagarbhaḥ samavartatāgre...,[^2] (and) three with devā deveṣu parākramadhvam.....[^3]  
 
-[^1]: TS VII.5.24.a.  
-
-[^2]: TS IV.1.8.n-u.  
-
-[^3]: TB III.7.5.1.  
 
 चतुष्टय्य आपो दिग्भ्यः समाभृताः॥३॥
-3. There should be four kinds of water brought from (four) directions (kept ready before-hand).[^2]  
-
-[^1]: viz. rain-water showering in the sun, water out of a well, standing, (not flowing, still) water and flowing water.  
-
-[^2]: Cf TB III.8.2.1.  
 
 तासु ब्रह्मौदनं पचति॥४॥
-4. In this water (the Pratiprasthātr̥) cooks rice-pap for the Brāhmaṇas.[^1]  
-
-[^1]: Cf. TB III.8.2.1.  
 
 पात्र्यां राजतं रुक्म निधाय तस्मिन्ब्रह्मौदनमुद्धत्य प्रभूतेन सर्पिषोपसिच्य सौवर्ण रुक्ममुपरिष्टात्कृत्वा कर्षन्ननुच्छिन्दश्चतुर्थ्य आयेभ्यो महविग्भ्य उपोहति।५॥
-5. Having placed a silver plate in the pot, having taken up the rice-pap in it, having poured ample ghee (on it), having 
-placed a golden plate on it, he brings it towards the great or who know their lineage upto the original sage,[^1] dragging is (the pot) without any break.  
 
-[^1]: Cf. TB III.8.2.2. 
 
 प्राशितवद्भ्यश्चतुरः साहसान्सौवर्णानिष्कान्ददाति चतुर शाश्वतरीरथानेही च रुक्मौ ॥६॥
-6. After they have consumed it, he gives them four golden[^1] Niṣkas (each one) weighing one thousand Mānas, Fourmule chariots and those two plates.  
 
-[^1]: CI. TB III.8.2.2; cp. ŚB XIII.4.1.6.  
 
 द्वादशारत्निस्त्रयोदशारलिर्वा दर्भमयी मौञ्जी वा रशना॥७॥
-7. There should be kept ready a string of twelve or thirteen cubits length made of Darbha or Muñja grass."  
 
-[^1]: Cp. TB III.8.2.3-4; 3.3.  
 
 तां ब्रह्मौदनोच्छेषेणानक्ति॥८॥
-8. (The Adhvaryu) anoints it with the ghee which remains from the rice-pap for the priests.[^1]  
 
-[^1]: Cp. TB III.8.2.3. 
 
 अश्वस्य रूपाणि समामनन्ति। कृष्णः श्वेतः पिशङ्गः सारङ्गोऽरुणपिशङ्गो वा॥९॥
-9. The sacred texts say about the appearances of the horse (that it should be) black or white or brown[^1] or spotted,[^2] or red brown.  
 
-[^1]: Cp. ŚB II.268 according to which it should be black-brown (Kr̥ṣnapiśaṅga).  
-
-[^2]: Cp. ŚB XIII.4.2.3 according to which it should be black-spotted (Krsnasāranga).  
 
 यस्य वा श्वेतस्याल्पं कृष्णं स्यात्तमलाभेत। मातृमन्तं पितृमन्तं पृष्ठे वहे च दान्तं सोमपं सोमपयोः पुत्रम्॥१०॥  
-10. One should seize a white horse with a little black part', or a horse of any colour but having (good) mother and (8000) father, tamed for riding and carrying? a Soma-drinker, and a son of Soma-drinkers (mother and father).  
-
-[^1]: Cp. JB II.268.  
-
-[^2]: Cp. ŚB XIII.4.2.1; JB II.268.  
 
 
 विज्ञायत एष वै सोमपो यं शिशुं जातं पुरा तृणाद्यात्सोमं पाययन्ति। तो वै सोमपी यो शिशू जाता पुरा तृणाद्यात्सोमं पाययन्तीति॥११॥
-11. It is known (from a Brāhmaṇa-text): “The young (horse) after being born whom they make drink Soma (-juice) before caring grass is called Somapa (a Soma-drinker). These are the comana (Soma-drinker)s (father and mother) whom being voung after being born they make drink Soma, before eating grass".  
+
 
 
 अध्वर्यु राज्याय परिददाति॥१२॥
-12. (The sacrificer) hands over the kingdom to the Adhvaryu.[^1]   
 
-[^1]: See the next Sūtra.  
 
 ## 20.03
 
 
 ब्राह्मणा राजानश्चायं वो ऽध्व! राजा। या ममापचितिः सा व एतस्मिन्। यद्व एष करोति तद्वः कृतमसदिति॥१॥ 
-1. (The sacrificer hands over the kingdom to the Adhvaryu) with “O Brāhmaṇas and Kings! This Adhvaryu is your King. Whatever honour you have for me, the same of you should be in him, whatever he does for you, it should be done for you.[^1]  
+
 
 यावद्यज्ञमध्व! राजा भवति॥२॥
-2. As long as the sacrifice continues, upto that time the Adhvaryu remains the King.  
 
 
 देवस्य त्वा सवितुः प्रसव इति रशनामादायेमामगृभ्णन्त्रशनामृतस्येत्य भिमन्त्र्य ब्रह्मन्नश्वं मेध्यं भन्स्यामि देवेभ्यो मेधाय प्रजापतये तेन राध्यासमिति ब्रह्माणमामन्त्रयते॥३॥
-3. Having taken the string with devasya tvā...[^1] having addressed it with imām agr̥bhṇan...[^2] (the Adhvaryu) calls the Brahman with brahmannaśvaṁ bhantsyāmi....[^4]  
 
-[^1]: TS VII.1.11.a.  
-
-[^2]: Cp. TB III.8.3.2.  
-
-[^3]: TS VII.1.11.b.  
-
-[^4]: TB III.8.3.2.   
 
 
 
 तं बधान देवेभ्यो मेधाय प्रजापतये तेन राध्नुहीति प्रत्याहा४॥
-4. (The Brahman) replies taṁ badhāna devebhyaḥ.... 
+
 
 अभिधा असीत्यश्वमभिदधाति॥५॥
-5. With abhidhā asi...[^1] (the Adhvaryu) binds the horse (with the string).  
 
-[^1]: TS VII.1.11.c-e. 
 
 आनयन्ति श्वानं चतुरक्षं विष्वग्बन्धेन बद्धम्॥६॥ पितुरनुजायाः पुत्रः पुरस्तान्नयति। मातुरनुजायाः पुत्रः पश्चात्॥७॥
-6. They bring a four-eyed dog bound with a string the ends of which can be held on both the sides. 
 
-7. The son of the younger sister of the father leads it from the front; the son of the younger sister of the mother (holds) it from behind.[^1]  
 
-[^1]: For this Sūtra cf.TB III.8.4.1. 
+
 
 सैधकं मुसलम्॥८॥ पौंश्चलेयः पेशसा जानु वेष्टयित्वा पश्चादन्वेति॥९॥
-8. (There should be) a pestle of Sidhraka (-wood). The son of a whore having covered the (left) knie with a cloth (peśasā) follows it (the dog).[^1]  
 
-[^1]: Cf. TB III.8.4.1-2. 
+
+
 
 अपो ऽश्वमभ्यवगाहयन्ति श्वानं च॥१०॥
-10. They cause the horse and the dog enter into the water. 
+
 
 यत्र शुनो ऽप्रतिष्ठा तदध्वर्युः प्रसौति जहीति॥११॥
-11. (When they go upto such a depth) as the dog cannot stand firmly (in water) the Adhvaryu orders, “Kill (the dog)".[^1]  
 
-[^1]: Cf. TB III.8.4.1. 
 
 यो अर्वन्तमिति सैध्रकेण मुसलेन पौंश्चलेयः शुनः प्रहन्ति॥१२॥
-12. The son of whore (then) kills the dog by means of the pestle of Sidhraka with yo arvantam....[^1]  
 
-[^1]: TS VII.4.15. a.a-b; cp. TB III.8.4.1-2. 
 
 तमश्वस्याधस्पदमुपास्यति परो मतः पर श्वेति॥१३॥
-13. (The Adhvaryu) throws the (dead body of the dog ) below the feet of the horse with paro martaḥ paraḥ śvā.[^1]  
 
-[^1]: TS VII.4.15.a.c; cp. TB III.8.4.2.  
 
 भिणापप्लाव्याहं च त्वं च वृत्रहन्निति ब्रह्मा यजमानस्य हस्तं गृह्णाति॥१४॥
-14. After (the dead body of the dog) has been floated[^1] (in water) towards south (of the horse), the Brahman holds the hand of the sacrificer[^2] with ahaṁ ca tvaṁ ca....[^3]  
-
-[^1]:. Cf. TB III.8.4.2.  
-
-[^2]: Cf. TB III.8.4.3.  
-
-[^3]: TS VII.4.15.b.  
+ 
 
 अभि क्रत्वेन्द्र भूरधज्मन्नित्यध्वर्युर्यजमानं वाचयति॥१५॥
-15. Then the Adhvaryu makes the sacrificer recite, abhi kratvendra....[^1]  
 
-[^1]: TS VII.4.15.c; cf. TB III.8.4.3.  
 
 आहरन्त्यैषीकमुदूहं वरत्रया विबद्धम्॥१६॥
-16. (The assistants) bring a reed-broom to which a thong is tied.[^1]  
 
-[^1]: Cf. TB III.8.4.3.  
 
 तस्मिन्नाा वेतसशाखोपसंबद्धा भवति॥१७॥
-17. To it a wet reed-branch is tied.[^1]  
 
-[^1]: Cf. III.8.4.3. 
 
 तं द्वे शते दक्षिणतो धारयतः। द्वे उत्तरतः॥१८॥
-18. Two hundred men hold it (reed-broom) from the south and the two hundred men from the north.[^1]  
 
-[^1]: See XX.4.1ff. 
 
 
 तेनाश्वं पुरस्तात्प्रत्यञ्चमभ्युदूहन्ति॥१९॥
-19. By means of it (reed-broom) they move the horse from the front to the back.[^1]   
 
-[^1]: Cf. TB III.8.4.3.  
 
 
 
 शतेन राजपुत्रैः सहाध्वर्युः पुरस्तात्प्रत्यङ् तिष्ठन्प्रोक्षत्यनेनाश्वेन मेध्येनेष्ट्वायं राजा वृत्रं वध्यादिति॥१॥
-1. Along with one hundred princes the Adhvaryu standing in the east (in front of the horse) with his face to the west, sprinkles (water on) the horse (which is facing the east), with aneāśvena....  
+
 
 
 
 शतेनाराजभिरुग्रैः सह ब्रह्मा दक्षिणत उद्ङ् तिष्ठन्प्रोक्षत्यनेनाश्वेनमेध्ये नेष्ट्वायं राजाप्रतिधृष्यो ऽस्त्विति॥२॥
-2. Along with one hundred Ugras who are not Kṣatriyas the Brahman standing to the south (right of the horse) with her face to the north sprinkles (water on the horse) with anenāśvena....  
 
-[^1]: Ugra = a son of a Kśatriya-man and a Śudra-woman.  
 
 शतेन सूतग्रामणिभिः स होता पश्चात्प्राङ् तिष्ठन्प्रोक्षत्यनेनाश्वेन मेध्येनेष्टायं राजास्यै विशो बहुग्वै बह्वश्वायै बह्वजाविकायै बहुव्रीहिकायै बहुमापतिलायै बहुहिरण्यायै बहुहस्तिकायै बहुदासपुरुषायै रयिमत्यै पुष्टिमत्यै बहुरायस्पोपाय राजास्त्विति॥३॥
-3. Along with one hundred Sūtas and Grāmaṇīs the Hotr̥ Standing to the west (back-side of the horse) with his face to the east sprinkles (water on the horse) with anenāśvena.... 
+
 
 
 शतेन क्षतृसंगृहीतृभिः सहोद्गातोत्तरतो दक्षिणा तिष्ठन्प्रोक्षत्यनेनाश्वेन मेध्येनेष्ट्वायं राजा सर्वमायुरेत्विति॥४॥ 
-4. Along with one hundred Kṣatriyas and Saṅgrahītr̥s, the Udgātr̥ standing to the north (to the left of the horse), with his face to the south sprinkles (water on the horse) with anenāśvena.[^1]  
 
-[^1]: For Sūtras 1-4, cf. TB III.8.5.1-4.  
 
 
 अत्रैतमैषीकमपप्लाव्यानुदकमश्वमाक्रमय्यान्तरा स्थानमाक्रमणं चेदं विष्णुः प्र तद्विष्णुर्दिवो वा विष्णवित्यश्वस्य पदे तिस्रो वैष्णवीर्हत्वाश्वस्य स्तोकाननुमन्त्रयते ऽग्नये स्वाहा सोमाय स्वाहेति॥५॥
-5. After having sunk the broom in this (water), having caused the horse to step upon dry (place) having offered three libations (of ghee) on the three foot-prints of the horse between the place (on which the horse was standing) and (the place) where it has stopped, with idaṁ viṣṇur vicakrame...[^1] (the Adhvaryu) addresses the drops (of water) falling down from he body of the horse with agnaye svāhā...[^2]  
-
-[^1]: TS I.2.13.e; TB II.4.3.4; TS I.2.13.h.   
-
-[^2]: TS VII.1.16.1ff; cf. TB III.8.6.1ff.  
+ 
 
 
 शतकत्व एतमनुवाकमावर्तयति दशदशसंपातम्। अपरिमितकृत्वो वा॥६॥
-6. He repeats this section[^1] for one-hundred-times, taking each time ten (formulae) in a group; or he (repeats for) unlimited number[^2].  
 
-[^1]: viz. TS VII.1.1.6.  
-
-[^2]: Cf. TB III.8.6.5.  
 
 ## 20.05
 
 
 अथैनं प्रतिदिशं प्रोक्षति॥१॥ प्रजापतये त्वा जुष्टं प्रोक्षामीति पुरस्तात्प्रत्यङ् तिष्ठन्॥२॥ इन्द्राग्निभ्यां त्वेति दक्षिणत उद॥३॥ वायवे त्वेति पश्चात्प्राङ्॥४॥ विश्वेभ्यस्त्वा देवेभ्य इत्युत्तरतो दक्षिणा।।५॥ देवेभ्यस्वेत्यधस्तात्।।६॥ सर्वेभ्यस्त्वा देवेभ्य इत्युपरिष्टात्॥७॥ पृथिव्यै त्वान्तरिक्षाय त्वा दिवे त्वेति शेषम्॥८॥
-1. Then (The Adhvaryu) sprinkles water on the horse in every direction: 
 
-2. standing in the east with his face to the west with prajāpataye tvā..; 
 
-3. standing in the south with his face to the north with indrāgnibhyāṁ tvā;  
 
-4. standing in the west with his face to the east with vāyave tvā;  
 
-5. standing in the north with his face to the south  
 
-6. with viśvebhyas tvā devebhyaḥ;  
 
-6. with devebhyastvā below;   
 
-7. with sarvebhyastvā devebhyaḥ above;   
 
-8. with pr̥thivyai tvā... the remaining.[^1]  
 
-[^1]: Cf. TB III.8.7.1-3. 
+
+
+
+
+
 
 
 विभूर्मात्रा प्रभूः पित्रेत्यश्वस्य दक्षिणे कर्णे यजमानमश्वनामानि वाच यित्वाग्नये स्वाहा स्वाहेन्द्राग्निभ्यामिति पूर्वहोमान्हुत्वा भूरसि भुवे त्वा भव्याय त्वा भविष्यते त्वेत्यश्वमुत्सृज्य देवा आशापाला इति रनिभ्यः परिददाति॥९॥
-9. Having made the sacrificer recite the names of the horse in the right ear of the horse with vibhur mātrā[^1] having made the Previous Offerings with agnaye svāhā[^2], having released the horse with bhūrasi he hands it (the horse) to the Ratnins[^4] with devā āśāpālä”.  
 
-[^1]: TS VII.1.12.a; cf. ŚB XIII.4.2.15.   
-
-[^2] Cf. TS VII.1.12.b; cf. TB III.8.9.3.  
-
-[^3]: TS VII.1.12.d; cf.TB III.8.9.3.  
-
-[^4]: For Ratnins see TB I.7.3.1ff.  
-
-[^5]: TS VII.1.12.e.  
 
 
 शतं कवचिनो रक्षन्ति॥१०॥
-10. One hundred armoured (men) protect it (the horse for one year).[^1]  
 
-[^1]: Cf. ŚB XIII. 1.6.3. 
 
 अपर्यावर्तयन्तो ऽश्वमनुचरन्ति॥११॥
-11. Without driving it back they follow the horse[^1] (for one year).  
 
-[^1]: Cf. ŚB XIII.4.2.16. 
 
 चतुःशता इत्येकेषाम्॥१२॥
-12. According to some, they should be four hundred[^1].  
 
-[^1]: Cf. TB III.8.9.4.  
 
 
 शतं तल्प्या राजपुत्राः संनद्धा संनद्धसारथिनः शतमुग्रा अराजानः सनद्धाः संनद्धसारथिन शतं वैश्या विपथिनः शतं शूद्रा वरूथिनः॥१३॥ ते ऽश्वस्य गोप्तारो भवन्ति॥१४॥
-13. One hundred princes who deserve marriage, who are armoured and whose charioteers are armoured, one hundred Ugras[^1] who are not kings, who are armoured and whose charioteers are armoured; one hundred Vaiśyas having chariots which can go without roads and one hundred Śūdras who are guarded— 
-
-14. they become the protectors of the horse.  
 
 
-[^1]: See the note on XX.4.2. 
+
+
+
+
 
 यद्यद्ब्राह्मणजातमुपेयुस्तान्पृच्छेयुः कियद्यूयमश्वमेधस्य वित्थेति॥१५॥
-15. Whomsoever born as a Brahmin they meet, they should ask him “How much do you know of Aśvamedha?”  
+
 
 
 यो न विद्यात्तं जित्वा तस्य गृहात्खादं पानं चोपनिवपेयुः॥१६॥
-16. Having conquered him who does not know they may put (in front of the horse having forcefully taken from him) the food (fodder) and drink. 
+
 
 
 यट. अणानां कृतान्नं तदेषामन्नम्॥१७॥
-17. Whatever food is prepared for non-brahmins (Kṣatriyas and Vaiśyas) should be the food of these (guards).  
+
 
 
 
 रथकारकुले वसतिर्भवति॥१८॥
-18. In the connectivity of chariot-makers, they shall stay 
-(during the night).[^1]  
 
-[^1]: For Sūtras 15-18; cp. ŚB XIII.4.2.17. 
 
 इह धुतिः स्वाहेति सायमश्वस्य चतुर्यु पत्सु चतस्रो धृतीर्जुहोति॥१९॥
-19. In the evening (the Adhvaryu) offers a (ghee)-libation called Dhr̥ti each on each of the four foot-prints of the horse[^1] with one of the formulae beginning with iha dhr̥ti[^2] svāhā.  
 
-[^1]: Cf. TB III.8.9.3.  
-
-[^2]: TS VIII.1.12.c.  
 
 ## 20.06
 
