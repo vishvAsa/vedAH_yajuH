@@ -5,5 +5,5 @@ title = "02 कदा चन स्तरीरसीत्यासाञ्"
 
 <details><summary>थिते</summary>
 
-कदा चन स्तरीरसीत्यासां चतुर्थीं दधाति २
+2. The verse kadā cana starīrasi... serves as the fourth verse of these (verses). 
 </details>

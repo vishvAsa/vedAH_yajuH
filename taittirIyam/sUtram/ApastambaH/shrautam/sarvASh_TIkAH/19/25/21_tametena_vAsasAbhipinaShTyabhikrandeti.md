@@ -5,5 +5,8 @@ title = "21 तमेतेन वाससाभिपिनष्ट्यभ�
 
 <details><summary>थिते</summary>
 
-तमेतेन वाससाभिपिनष्ट्यभिक्रन्देति २१
+21. With abhikranda...[^1] he presses it (horse) with (black) cloth (taken from the sacrificer).  
+
+[^1]: TS III.1.11.y. 
+
 </details>

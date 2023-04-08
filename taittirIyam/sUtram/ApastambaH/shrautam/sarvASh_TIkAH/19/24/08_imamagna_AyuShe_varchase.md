@@ -5,5 +5,7 @@ title = "08 इममग्न आयुषे वर्चसे"
 
 <details><summary>थिते</summary>
 
-इममग्न आयुषे वर्चसे कृधीति प्राश्नन्तमभिमन्त्रयते ८
+8. (The Adhvaryu) addresses (the sacrificer while he is drinking (the ghee), with imam agna āyuṣe....[^1]   
+
+[^1]: TS II.3.10.e.  
 </details>

@@ -5,5 +5,7 @@ title = "09 संयच्च प्रवेताश्चेति पञ्
 
 <details><summary>थिते</summary>
 
-संयच्च प्रवेताश्चेति पञ्च नानामन्त्रा उत्तरवेद्यामुपदध्यात् । यथार्थं लोकम्पृणा अथ पुरीषम् ९
+9. (At that time) with saṁyacca pracetāśca...[^1] the Adhvaryu should place five bricks (each) with a separate formula on the Uttaravedi; the Lokaṁpr̥ṇa (-bricks) as per requirement and then loose soil.  
+
+[^1]: TS IV.4.11.h-n.  
 </details>

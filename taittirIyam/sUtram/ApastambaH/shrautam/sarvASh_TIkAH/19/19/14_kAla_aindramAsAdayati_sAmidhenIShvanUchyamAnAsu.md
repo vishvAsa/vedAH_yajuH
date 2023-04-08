@@ -5,5 +5,5 @@ title = "14 काल ऐन्द्रमासादयति सामिध
 
 <details><summary>थिते</summary>
 
-काल ऐन्द्रमासादयति । सामिधेनीष्वनूच्यमानासु मारुतम् १४
+14. He places the Indra (-bread) on the altar at its usual time and (he places) the Maruts (-bread) (on the altar) when the enkindling verses are being recited. 
 </details>

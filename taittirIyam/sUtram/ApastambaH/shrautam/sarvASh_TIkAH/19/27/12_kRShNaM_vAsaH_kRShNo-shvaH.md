@@ -5,5 +5,5 @@ title = "12 कृष्णं वासः कृष्णोऽश्वः"
 
 <details><summary>थिते</summary>
 
-कृष्णं वासः कृष्णोऽश्वः कृष्णाविर्दक्षिणा १२
+12. The black cloth, the black horse, (and) the black sheep (form) the sacrificial gift. 
 </details>

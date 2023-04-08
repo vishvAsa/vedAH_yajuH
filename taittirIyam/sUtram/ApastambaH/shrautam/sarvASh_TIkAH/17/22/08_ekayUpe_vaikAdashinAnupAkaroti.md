@@ -5,5 +5,7 @@ title = "08 एकयूपे वैकादशिनानुपाकरो�
 
 <details><summary>थिते</summary>
 
-एकयूपे वैकादशिनानुपाकरोति ८
+8. Or he dedicates all the animals on one post only.[^1]  
+
+[^1]: In case there is only one post.  
 </details>

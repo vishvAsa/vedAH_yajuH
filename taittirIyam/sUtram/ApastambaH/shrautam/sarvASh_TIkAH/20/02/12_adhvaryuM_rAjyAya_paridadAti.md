@@ -5,5 +5,7 @@ title = "12 अध्वर्युं राज्याय परिददा
 
 <details><summary>थिते</summary>
 
-अध्वर्युं राज्याय परिददाति १२
+12. (The sacrificer) hands over the kingdom to the Adhvaryu.[^1]   
+
+[^1]: See the next Sūtra.  
 </details>

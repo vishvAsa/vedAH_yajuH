@@ -5,5 +5,5 @@ title = "15 आहिते सङ्ग्रहीतावरोहति"
 
 <details><summary>थिते</summary>
 
-आहिते सङ्ग्रहीतावरोहति १५
+15. After the chariot is placed ( on the chariot-stand) the charioteer descends (from the chariot).  
 </details>

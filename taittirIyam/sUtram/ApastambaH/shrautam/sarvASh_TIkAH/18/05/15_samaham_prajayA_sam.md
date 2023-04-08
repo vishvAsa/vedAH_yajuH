@@ -5,5 +5,7 @@ title = "15 समहम् प्रजया सम्"
 
 <details><summary>थिते</summary>
 
-समहं प्रजया सं मया प्रजेति गृहान्प्रेक्षते १५
+15. He looks at his house with samahaṁ prajayā saṁ mayā prajā[^1].  
+
+[^1]: TS I.7.9.f. 
 </details>

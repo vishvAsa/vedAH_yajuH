@@ -5,5 +5,5 @@ title = "02 सुरायां वाल आनीयमानायान्
 
 <details><summary>थिते</summary>
 
-सुरायां वाल आनीयमानायां धारायाः प्रतिप्रस्थाता सुराग्रहान्गृह्णाति २
+2. When the Surā is being poured on the strainer (by the Āgnīdhra) the Pratiprasthātr̥ draws the Surā-scoop from the Surā-stream.  
 </details>

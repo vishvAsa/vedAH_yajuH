@@ -5,5 +5,7 @@ title = "05 पात्र्यां राजतं रुक्मन्"
 
 <details><summary>थिते</summary>
 
-पात्र्यां राजतं रुक्मं निधाय तस्मिन्ब्रह्मौदनमुद्धृत्य प्रभूतेन सर्पिषोपसिच्य सौवर्णं रुक्ममुपरिष्टात्कृत्वा कर्षन्ननुच्छिन्दंश्चतुर्भ्य आर्षेयेभ्यो महर्त्विग्भ्य उपोहति ५
+5. Having placed a silver plate in the pot, having taken up the rice-pap in it, having poured ample ghee (on it), having placed a golden plate on it, he brings it towards the great or who know their lineage upto the original sage,[^1] dragging is (the pot) without any break.  
+
+[^1]: Cf. TB III.8.2.2. 
 </details>

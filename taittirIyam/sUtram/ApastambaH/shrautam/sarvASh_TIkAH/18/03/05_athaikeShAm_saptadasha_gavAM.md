@@ -5,5 +5,7 @@ title = "05 अथैकेषाम् सप्तदश गवां"
 
 <details><summary>थिते</summary>
 
-अथैकेषाम् । सप्तदश गवां शतानि ददाति । सप्तदशानांसि युक्तानि सप्तदशाश्वरथान्सप्तदश हस्तिनः सप्तदश निष्कान्सप्तदश दास्यः सप्तदश दुन्दुभीन् ५
+5. According to some other (ritualist)s one gives seventeen hundres cows, seventeen yoked carts, seventeen horse chariots, seventeen elephants, seventeen gold-plates, seventeen female slaves and seventeen drums.[^1]   
+
+[^1]: Cp. ŚāṇŚS XV.3.12-15, where instead of seventeen female slaves, seventeen cloths are mentioned.   
 </details>

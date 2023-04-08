@@ -5,5 +5,5 @@ title = "08 अपि वाष्टौ लोकम्पृणाः"
 
 <details><summary>थिते</summary>
 
-अपि वाष्टौ लोकम्पृणाः पुरीषम् । एकादश लोकम्पृणाः पुरीषम् । द्वादश लोकम्पृणाः पुरीषम् ८
+8. Or there should be eight Lokaṁpr̥ṇā-bricks and loose soil; eleven Lokaṁpr̥ṇa-bricks and loose soil; twelve Lokaṁpr̥ṇā-bricks and loose soil.  
 </details>

@@ -5,5 +5,7 @@ title = "28 यजमानस्य गृह इन्द्राय"
 
 <details><summary>थिते</summary>
 
-यजमानस्य गृह इन्द्राय सुत्राम्णे पुरोडाशमेकादशकपालं प्रतिनिर्वपति । इन्द्रायांहोमुच एकादशकपालम् २८
+28. In the house of the sacrificer he takes out the material for the sacrificial bread to be prepared on eleven potsherds, to be offered to, Indra Sutrāman and one to be prepared on eleven potsherds for Indra Aṁhomuc.[^1]   
+
+[^1]: Cf. TS I.8.2.9. 
 </details>

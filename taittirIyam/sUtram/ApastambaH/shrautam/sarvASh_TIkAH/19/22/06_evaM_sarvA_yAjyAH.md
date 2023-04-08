@@ -5,5 +5,5 @@ title = "06 एवं सर्वा याज्याः"
 
 <details><summary>थिते</summary>
 
-एवं सर्वा याज्याः पुरोऽनुवाक्याश्च भवन्ति ६
+6. In this manner all the verses became invitatory as well as offering verses. 
 </details>

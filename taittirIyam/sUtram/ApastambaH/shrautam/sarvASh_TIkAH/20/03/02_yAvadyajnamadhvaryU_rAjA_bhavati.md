@@ -5,5 +5,6 @@ title = "02 यावद्यज्ञमध्वर्यू राजा भ
 
 <details><summary>थिते</summary>
 
-यावद्यज्ञमध्वर्यू राजा भवति २
+2. As long as the sacrifice continues, upto that time the Adhvaryu remains the King.  
+
 </details>

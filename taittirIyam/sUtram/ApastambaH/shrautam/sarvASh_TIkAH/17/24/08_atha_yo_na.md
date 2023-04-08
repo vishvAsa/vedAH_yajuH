@@ -5,5 +5,6 @@ title = "08 अथ यो न"
 
 <details><summary>थिते</summary>
 
-अथ यो न प्रतितिष्ठेत्स क्रतुमाहरमाण एकचितीकमेव चिन्वीत ८
+8. He who may not be established, however, should build before performing a Soma sacrifice, a fire-altar with one layer.  
+
 </details>

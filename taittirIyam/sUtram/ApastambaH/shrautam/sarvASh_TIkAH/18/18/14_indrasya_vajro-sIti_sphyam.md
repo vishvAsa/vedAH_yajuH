@@ -5,5 +5,9 @@ title = "14 इन्द्रस्य वज्रोऽसीति स्फ
 
 <details><summary>थिते</summary>
 
-इन्द्रस्य वज्रोऽसीति स्फ्यं ब्रह्मा राज्ञे प्रयच्छति । राजा प्रतिहिताय । प्रतिहितः पुरोहिताय । पुरोहितो रत्निभ्यः १४
+14. With indrasya vajro'si...[^1] the Brahman gives the wooden sword (Sphya)[^2] to the king. The king (gives it) to the Heir-apparent. The Heir-apparent (gives it) to the chaplain and the chaplain to the Ratnins.  
+
+[^1]: TS I.8.16.h.  
+
+[^2]: Cp. TB I.7.10.5; ŚB V.4.4.15. 
 </details>

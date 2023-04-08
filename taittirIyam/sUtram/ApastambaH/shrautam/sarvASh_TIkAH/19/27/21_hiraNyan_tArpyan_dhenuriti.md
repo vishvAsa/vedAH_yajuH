@@ -5,5 +5,7 @@ title = "21 हिरण्यन् तार्प्यन् धेनुर
 
 <details><summary>थिते</summary>
 
-हिरण्यं तार्प्यं धेनुरिति दक्षिणा २१
+21. Gold, a Tārpya-coth and a milch-cow are the sacrificial gifts.[^1]  
+
+[^1]: TS II.4.11.6. 
 </details>

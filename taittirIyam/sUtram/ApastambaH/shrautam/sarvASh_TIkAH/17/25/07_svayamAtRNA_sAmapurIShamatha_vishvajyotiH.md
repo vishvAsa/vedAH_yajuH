@@ -5,5 +5,5 @@ title = "07 स्वयमातृणा सामपुरीषमथ वि
 
 <details><summary>थिते</summary>
 
-स्वयमातृणा सामपुरीषमथ विश्वज्योतिः । एवं विहिता द्वितीया । तृतीयस्यां तु विश्वज्योतिः प्रथमाथ स्वयमातृणाथ सामपुरीषम् ७
+7. (He should place) the first naturally perforated stone and then soft loose soil, then the Viśvajyotis-brick. In the same manner the second layer. In the third layer, however, he should first place the Viśvajyotis brick, then the naturally perforated stone and then the loose soil.  
 </details>

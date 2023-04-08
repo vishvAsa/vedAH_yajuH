@@ -5,5 +5,5 @@ title = "07 यद्यस्याग्निञ् चिनोति यज
 
 <details><summary>थिते</summary>
 
-यद्यस्याग्निं चिनोति यज्ञायज्ञीयस्य स्तोत्र एकयाप्रस्तुतं भवति ७
+7. When the Yajñāyañīya-stotra is sung but one (verse), 
 </details>

@@ -5,5 +5,6 @@ title = "12 अग्रेणाहवनीयमुदीचः प्रा�
 
 <details><summary>थिते</summary>
 
-अग्रेणाहवनीयमुदीचः प्राचो वा रथानवस्थापयन्ति १२
+12. The chariots are to be placed to the East of the Āhavanīya in a line directed to the North or to the East. 
+
 </details>

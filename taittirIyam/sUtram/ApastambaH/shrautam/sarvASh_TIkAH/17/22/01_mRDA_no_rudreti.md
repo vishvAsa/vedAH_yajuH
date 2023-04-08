@@ -5,5 +5,9 @@ title = "01 मृडा नो रुद्रेति"
 
 <details><summary>थिते</summary>
 
-मृडा नो रुद्रेति नो मयस्कृधि । अश्याम ते सुमतिं देवयज्यया क्षयद्वीरस्य तव रुद्र मीढ्वः । सुम्नायन्निद्विशो अस्माकमा चरारिष्टवीरा जुहुवाम ते हविः । त्वेषं वयं रुद्रं यज्ञसाधनं वङ्कुं कविमवसे नि ह्वयामहे । आरे अस्मदमतिं हेडो अस्यतु सुमतिमिद्वयमस्या वृणीमह इति तिस्रश्चात्वाले १
+1. With (three verses beginning with) mr̥ḍā no rudrota no mayaskr̥dhi[^1] (the Adhvaryu places) three (bricks) on the Cātvāla (pit).[^2]   
+
+[^1]: KS XL.11.  
+
+[^2]: Cp. KS XXII. 11 according to which these bricks are to be kept to the south of the Paśuśrapaṇa. That indicates Cātvāla. 
 </details>

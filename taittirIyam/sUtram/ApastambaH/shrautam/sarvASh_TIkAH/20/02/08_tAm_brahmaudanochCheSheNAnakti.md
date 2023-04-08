@@ -5,5 +5,7 @@ title = "08 ताम् ब्रह्मौदनोच्छेषेणा�
 
 <details><summary>थिते</summary>
 
-तां ब्रह्मौदनोच्छेषेणानक्ति ८
+8. (The Adhvaryu) anoints it with the ghee which remains from the rice-pap for the priests.[^1]  
+
+[^1]: Cp. TB III.8.2.3. 
 </details>

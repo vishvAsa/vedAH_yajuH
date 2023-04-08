@@ -5,5 +5,5 @@ title = "15 यत्र जघन्यन् निपतति"
 
 <details><summary>थिते</summary>
 
-यत्र जघन्यं निपतति तत्रौदुम्बरीं काष्ठां लक्षणं मिनोति १५
+15. The place where (the arrow) falls last, there the Adhvaryu fixes the Udumbara wood as the boundary sign.   
 </details>

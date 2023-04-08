@@ -5,5 +5,6 @@ title = "05 अहोरात्रावासक्तम् भवति"
 
 <details><summary>थिते</summary>
 
-अहोरात्रावासक्तं भवति ५
+5. It is kept hanging for a day and a night. 
+
 </details>

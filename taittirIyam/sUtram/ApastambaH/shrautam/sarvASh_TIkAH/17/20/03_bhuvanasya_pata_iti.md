@@ -5,5 +5,5 @@ title = "03 भुवनस्य पत इति"
 
 <details><summary>थिते</summary>
 
-भुवनस्य पत इति पर्यायाणां सप्तम्याहुतीनां त्रयोदशी ३
+3. With the seventh round beginning with bhuvanasya pate the thirteenth of the libations should be offered.  
 </details>

@@ -5,5 +5,7 @@ title = "13 सन्तानार्थायान् तु तृतीय
 
 <details><summary>थिते</summary>
 
-सन्तानार्थायां तु तृतीयं चिन्वानस्तृतीयस्यां चितौ येनर्षय इत्यष्टौ नानामन्त्रा उत्तरवेद्यामुपदध्यात् यथार्थं लोकम्पृणा अथ पुरीषम् १३
+13. Building (a fire-altar) third time, however, for the sake progeny of the sacrificer he should palce at the time of the third layer eight bricks each having a separate formula on the Uttaravedi with yenarṣayaḥ, then (should place) the Lokaṁpr̥ṇās as required and then loose soil[^1].  
+
+[^1]: Cf. KS XXII.2.  
 </details>

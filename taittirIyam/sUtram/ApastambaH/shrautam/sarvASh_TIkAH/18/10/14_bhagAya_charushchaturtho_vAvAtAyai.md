@@ -5,5 +5,5 @@ title = "14 भगाय चरुश्चतुर्थो वावाता
 
 <details><summary>थिते</summary>
 
-भगाय चरुश्चतुर्थो वावातायै गृहे १४
+14. As the fourth (offering) a rice-pap for Bhaga ( is to be offered) in the house of the favorite (wife).  
 </details>

@@ -5,5 +5,5 @@ title = "04 यदि कामयेत विट्"
 
 <details><summary>थिते</summary>
 
-यदि कामयेत विट् क्षत्रादोजीयसी स्यादिति यथासमाम्नातमादितस्त्रिभिर्गणैर्हुत्वारण्येऽनुवाक्यस्य षट्सु पदान्तरालेषु षद्गणानोप्यारण्ये ऽनुवाक्येन जुहुयात् ४
+4. If he desires: “May the Vaiśyas be more powerful than the Kṣatriyas, having offered with the first three formula-groups as mentioned (earlier) at the six gaps of words in the formula to be studied in forest, having added the six group-formulae he should offer (the fourth sacrificial bread) with the formula to be studied in forest. 
 </details>

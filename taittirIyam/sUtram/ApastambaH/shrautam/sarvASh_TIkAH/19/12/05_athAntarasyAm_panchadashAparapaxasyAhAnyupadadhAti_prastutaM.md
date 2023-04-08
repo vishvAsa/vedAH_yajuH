@@ -5,5 +5,5 @@ title = "05 अथान्तरस्याम् पञ्चदशापर�
 
 <details><summary>थिते</summary>
 
-अथान्तरस्यां पञ्चदशापरपक्षस्याहान्युपदधाति प्रस्तुतं विष्टुतमिति ५
+5. Then on the inner (i.e. the seventh line) he places (bricks representing) fifteen days of the second fortnight with prastutaṁ viṣṭutam.... 
 </details>

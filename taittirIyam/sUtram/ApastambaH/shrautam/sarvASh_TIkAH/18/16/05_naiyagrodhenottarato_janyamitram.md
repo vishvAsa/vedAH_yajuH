@@ -5,5 +5,5 @@ title = "05 नैयग्रोधेनोत्तरतो जन्यम�
 
 <details><summary>थिते</summary>
 
-नैयग्रोधेनोत्तरतो जन्यमित्रम् ५
+5. A foreign friend from the north, by means of (a vessel) of Nyagrodha (wood). 
 </details>

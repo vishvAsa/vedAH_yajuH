@@ -5,5 +5,5 @@ title = "08 भक्षापनय इतरेषाम्"
 
 <details><summary>थिते</summary>
 
-भक्षापनय इतरेषाम् ८
+8. In the case of the other (priests) eating is to be excluded.  
 </details>

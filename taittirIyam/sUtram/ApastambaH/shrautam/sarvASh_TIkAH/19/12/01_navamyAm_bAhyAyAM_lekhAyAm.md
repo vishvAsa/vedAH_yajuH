@@ -5,5 +5,5 @@ title = "01 नवम्याम् बाह्यायां लेखाय
 
 <details><summary>थिते</summary>
 
-नवम्यां बाह्यायां लेखायां पञ्चदश पूर्वपक्षस्याहान्युपदधाति सञ्ज्ञानं विज्ञानमिति १
+1. On the ninth outer line (the Adhvaryu) places (bricks which represent) fifteen days of the first fortnight with saṁjñānam....  
 </details>

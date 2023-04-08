@@ -5,5 +5,5 @@ title = "06 अग्निञ् चित्वैतस्मिन्सं�
 
 <details><summary>थिते</summary>
 
-अग्निं चित्वैतस्मिन्संवत्सरे यो नर्ध्नुयात्स क्रतुमाहरमाण एकचितीकं चिन्वीत ६
+6. Having built the fire-altar, he who will not prosper within one year, should build (before) performing a Soma sac rifice, a fire-altar with one layer.   
 </details>

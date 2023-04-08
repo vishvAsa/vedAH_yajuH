@@ -5,5 +5,5 @@ title = "11 तयेष्ट्वापराह्णे दशपेयस�
 
 <details><summary>थिते</summary>
 
-तयेष्ट्वापराह्णे दशपेयस्य तन्त्रं प्रक्रमयति ११
+11. After having performed it (the last i.e. the seventh offering) in the afternoon he starts the procedure of the Daśapeya(-sacrifice).  
 </details>

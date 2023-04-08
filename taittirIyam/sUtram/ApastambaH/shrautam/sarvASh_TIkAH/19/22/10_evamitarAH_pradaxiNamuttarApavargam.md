@@ -5,5 +5,5 @@ title = "10 एवमितराः प्रदक्षिणमुत्त�
 
 <details><summary>थिते</summary>
 
-एवमितराः प्रदक्षिणमुत्तरापवर्गम् १०
+10. In the same manner he offers the five (other portions) in a clock-wise manner, ending in the north. 
 </details>

@@ -5,5 +5,5 @@ title = "15 दधि मधु घृतमापो"
 
 <details><summary>थिते</summary>
 
-दधि मधु घृतमापो धानास्तण्डुला इत्येके षामाज्यविकारः १५
+15. Thus curds, honey, ghee, water, roasted corns and rice. According to some a modification of ghee. 
 </details>

@@ -5,5 +5,6 @@ title = "06 विराट्छन्दस इति भक्षमन्त
 
 <details><summary>थिते</summary>
 
-विराट्छन्दस इति भक्षमन्त्रं नमति ६
+6. In that formula the Adhvaryu makes the following change: virāṭchandasaḥ.  
+
 </details>

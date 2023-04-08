@@ -5,5 +5,5 @@ title = "12 अभिचर्यमाणो यजेत अभिचरन्
 
 <details><summary>थिते</summary>
 
-अभिचर्यमाणो यजेत । अभिचरन्नन्नाद्यकामः ह्प्रजाकामः पशुकामो वा १२
+12. One against whom black-magic is being performed should perform (this offering) or one who is (desirous of) performing (black magic), one who desires food, one who desires progeny, or one who desires cattle (may perform this offering).  
 </details>

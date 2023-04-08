@@ -5,5 +5,7 @@ title = "07 पितुरनुजायाः पुत्रः पुरस
 
 <details><summary>थिते</summary>
 
-पितुरनुजायाः पुत्रः पुरस्तान्नयति । मातुरनुजायाः पुत्रः पश्चात् ७
+7. The son of the younger sister of the father leads it from the front; the son of the younger sister of the mother (holds) it from behind.[^1]  
+
+[^1]: For this Sūtra cf.TB III.8.4.1. 
 </details>

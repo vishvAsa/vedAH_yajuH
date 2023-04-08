@@ -5,5 +5,7 @@ title = "12 समुद्रादूर्मिरिति तिस्र�
 
 <details><summary>थिते</summary>
 
-समुद्रादूर्मिरिति तिस्रः १२
+12. The three verses beginning with samudrādūrmiḥ,[^1]   
+
+[^1]: This Sūtra is incomplete. It is completed in the next Sūtra.  
 </details>

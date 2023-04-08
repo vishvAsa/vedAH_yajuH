@@ -5,5 +5,6 @@ title = "11 एष वज्रो वाजसास्तेन"
 
 <details><summary>थिते</summary>
 
-एष वज्रो वाजसास्तेन नौ पुत्रो वाजं सेदिति धनुः पत्न्यै प्रयच्छति ११
+11. With eṣa vajraḥ he gives the bow to his wife.[^1]   
+
 </details>

@@ -5,5 +5,15 @@ title = "18 प्राक् पशूपाकरणात्कृत्व�
 
 <details><summary>थिते</summary>
 
-प्राक् पशूपाकरणात्कृत्वोद्भिद्य सुरां ब्राह्मणस्य मूर्धन्खरे वा सादयित्वा पुनातु ते परिस्रुतमिति वालमयेन पवित्रेण सुरां पावयति १८
+18. After having done the (the rites) upto the dedication of animals (to the deties),[^1] then having taken out the Surā, (he pours it into the Sata-vessel), keeps it on the head of a Brāhmaṇa,[^2] or on the mound[^3] and purifies[^4] the Surā by means of the strainer of hair with punātu te parisrutam.[^5]   
+
+[^1]: Cf. VII.8.6–VII. 12.4.  
+
+[^2]: MS II.3.9; KS XI 11.  
+
+[^3]: Cp. XIX.1.15.  
+
+[^4]: TB 1.8.5.5.  
+
+[^5]: TS 1.8.21.b.  
 </details>

@@ -5,5 +5,7 @@ title = "05 आश्विनस्य यूषेण कुष्ठिका
 
 <details><summary>थिते</summary>
 
-आश्विनस्य यूषेण कुष्ठिकां शफं च पूरयित्वा सीसेन तन्त्रमित्यष्टर्चेन प्रतिमन्त्रं द्वाभ्यान्द्वाभ्यां कुष्ठिकाशफाभ्यां जुहोति ५
+5. Having filled a pseudo-claw and a hoof by means of the gravy of the animal for Aśvins, he offers with a group of eight verses beginning with sīsena tantram[^1] and by means of a pseudo-claw and a hoof everytime with one verse.  
+
+[^1]: TB II.6.4.1-4 (first part).  
 </details>

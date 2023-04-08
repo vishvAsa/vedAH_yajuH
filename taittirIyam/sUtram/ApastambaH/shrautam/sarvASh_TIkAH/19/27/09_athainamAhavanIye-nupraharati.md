@@ -5,5 +5,5 @@ title = "09 अथैनमाहवनीयेऽनुप्रहरति"
 
 <details><summary>थिते</summary>
 
-अथैनमाहवनीयेऽनुप्रहरति ९
+9. Then he throws it on the Āhavanīya-fire.  
 </details>

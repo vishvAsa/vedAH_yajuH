@@ -5,5 +5,5 @@ title = "02 नित्यवदेके समामनन्ति"
 
 <details><summary>थिते</summary>
 
-नित्यवदेके समामनन्ति २
+2. Some think (it) to be obligatory as it were. 
 </details>

@@ -5,5 +5,7 @@ title = "08 तेषामनभिघारिताभिर्वपाभ�
 
 <details><summary>थिते</summary>
 
-तेषामनभिघारिताभिर्वपाभिः प्रचरति ८
+8. He performs the ritual of these animals with their omenta without pouring ghee[^1] on them.  
+
+[^1]: As it happens in the basic paradigm (see VII.20.9).  
 </details>

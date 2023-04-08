@@ -5,5 +5,5 @@ title = "10 यानि वा दशतयीष्वाग्नेयान
 
 <details><summary>थिते</summary>
 
-यानि वा दशतयीष्वाग्नेयानि सूक्तानि स्युस्तैरुपदध्यात् १०
+10. Or he may place (the bricks) with those hymns addressed to Agni which are in the R̥gveda.  
 </details>

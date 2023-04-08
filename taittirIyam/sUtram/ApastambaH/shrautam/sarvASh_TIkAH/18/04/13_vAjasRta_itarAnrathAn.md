@@ -5,5 +5,7 @@ title = "13 वाजसृत इतरान्रथान्"
 
 <details><summary>थिते</summary>
 
-वाजसृत इतरान्रथान् १३
+13. The other racers (ascend) on the other chariots. 
+
+
 </details>

@@ -5,5 +5,7 @@ title = "04 आ दशमात्पुरुषादन्वाख्या�
 
 <details><summary>थिते</summary>
 
-आ दशमात्पुरुषादन्वाख्यायं स भक्षस्य कर्ता भवति ४
+4. He who narrates (=can narrate) in sequence upto the tenth fore-father (as a drinker of Soma) becomes (=can become) a drinker of Soma (here).[^1]  
+
+[^1]: Cf. TMB XVIII.9.4; JB II.202. 
 </details>

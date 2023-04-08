@@ -5,5 +5,7 @@ title = "02 तस्या निरूढपशुबन्धवत्कल�
 
 <details><summary>थिते</summary>
 
-तस्या निरूढपशुबन्धवत्कल्पः २
+2. The performance of it is similar to (that of) Niruḍha paśubandha (an animal-sacrifice independent of the Soma sacrifice).[^1]  
+
+[^1]: See chapter VII.  
 </details>

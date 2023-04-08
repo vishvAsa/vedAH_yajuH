@@ -5,5 +5,9 @@ title = "02 हव्यम् प्रीणीहि हव्यं"
 
 <details><summary>थिते</summary>
 
-हव्यं प्रीणीहि हव्यं श्रीणीहि हव्यं पच हव्यं श्रपय हव्यमसि हव्याय त्वा हव्येभ्यस्त्वा हव्ये सीदेत्यष्टौ शामित्रे २
+2. With havyai priṇīhi...[^1] he places eight bricks on the Śāmitra[^2].   
+
+[^1]: Cp. KS LX.12.  
+
+[^2]: Not mentioned in KS.  
 </details>

@@ -5,5 +5,7 @@ title = "16 प्रतिपशु बर्हिषीत्युक्त�
 
 <details><summary>थिते</summary>
 
-प्रतिपशु बर्हिषीत्युक्तम् १६
+16. It has been said[^1] “For every animal there should be a separate Darbha-grass..." (and this is valid here also).   
+
+[^1]: Cf XIV.7.4. 
 </details>

@@ -5,5 +5,7 @@ title = "02 वैश्वानरन् द्वादशकपालन् 
 
 <details><summary>थिते</summary>
 
-वैश्वानरं द्वादशकपालं निर्वपेत्सङ्ग्रामायतनं गत्वा २
+2. One should perform an offering of (sacrificial bread) on twelve potsherds for (Agni) Vaiśvānara after having reached the place of battle.[^1]  
+
+[^1]: Cf. TS II.2.6.1. 
 </details>

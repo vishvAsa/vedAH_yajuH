@@ -5,5 +5,7 @@ title = "20 ब्रह्मन्विशं विनाशयेयमि�
 
 <details><summary>थिते</summary>
 
-ब्रह्मन्विशं विनाशयेयमिति सर्वं ब्राह्मणस्पत्यं भवति २०
+20. The words, “May I annihilate (all) the merchant-class in the Brahmana-class,"[^1] means all (the activities are )connected with Brahmaṇaspati.  
+
+[^1]: TS II.3.3.5. 
 </details>

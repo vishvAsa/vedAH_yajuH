@@ -5,5 +5,7 @@ title = "10 तद्यजमान आचम्य प्रतिगृह्
 
 <details><summary>थिते</summary>
 
-तद्यजमान आचम्य प्रतिगृह्य प्रदक्षिणं दक्षिणे कर्ण आबध्नात्यायुरसि विश्वायुरसि सर्वायुरसि सर्वमायुरसि सर्वं म आयुर्भूयात्सर्वमायुर्गेषमिति १०
+10. After having sipped water, and having accepted it (the golden ear-ring) the sacrificer fixes it from the right side in his right ear with ayurasi....[^1]  
+
+[^1]: TB II.5.7.2.  
 </details>

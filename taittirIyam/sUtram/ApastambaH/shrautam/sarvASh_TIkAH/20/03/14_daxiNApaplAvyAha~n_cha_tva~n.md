@@ -5,5 +5,11 @@ title = "14 दक्षिणापप्लाव्याहञ् च त्
 
 <details><summary>थिते</summary>
 
-दक्षिणापप्लाव्याहं च त्वं च वृत्रहन्निति ब्रह्मा यजमानस्य हस्तं गृह्णाति १४
+14. After (the dead body of the dog) has been floated[^1] (in water) towards south (of the horse), the Brahman holds the hand of the sacrificer[^2] with ahaṁ ca tvaṁ ca....[^3]  
+
+[^1]:. Cf. TB III.8.4.2.  
+
+[^2]: Cf. TB III.8.4.3.  
+
+[^3]: TS VII.4.15.b. 
 </details>

@@ -5,5 +5,7 @@ title = "06 एष आप्तो वाजपेयः"
 
 <details><summary>थिते</summary>
 
-एष आप्तो वाजपेयः ६
+6. This is the usual Vājapeya.[^1]   
+
+[^1]: Cf also ŚārŚs XV.3.16. 
 </details>

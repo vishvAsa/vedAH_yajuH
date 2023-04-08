@@ -5,5 +5,5 @@ title = "19 अथासान् धूममनुमन्त्रयते"
 
 <details><summary>थिते</summary>
 
-अथासां धूममनुमन्त्रयते १९
+19. Then he addresses the smoke of these (balls),  
 </details>

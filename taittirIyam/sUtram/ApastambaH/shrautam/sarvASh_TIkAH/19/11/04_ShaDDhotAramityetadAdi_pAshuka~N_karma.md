@@ -5,5 +5,7 @@ title = "04 षड्ढोतारमित्येतदादि पाश�
 
 <details><summary>थिते</summary>
 
-षड्ढोतारमित्येतदादि पाशुकं कर्म प्रतिपद्यते ४
+4. (The Adhvaryu) starts the ritual of the animal sacrifice begining with the recitation of Ṣaḍḍhotr̥-formula.[^1]  
+
+[^1]: See VII.1.1ff. 
 </details>

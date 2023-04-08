@@ -5,5 +5,7 @@ title = "15 अग्निञ् चित्वा सौत्रामण्
 
 <details><summary>थिते</summary>
 
-अग्निं चित्वा सौत्रामण्या यजेत । मैत्रावरुण्या वामिक्षया १५
+15. After having built a fire-altar, the sacrificer should perform Sautrāmaṇi or a sacrifice with a milk-mess for Varuṇa.  
+
+[^1]: Cf. TB III.12.5.12. 
 </details>

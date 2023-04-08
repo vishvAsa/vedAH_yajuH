@@ -5,5 +5,5 @@ title = "09 ये शुक्लाः स्युस्तमादित्
 
 <details><summary>थिते</summary>
 
-ये शुक्लाः स्युस्तमादित्यं चरुं निर्वपेत् ९
+9. He should prepare a pap for Ādityas out of (those grains) which are white.  
 </details>

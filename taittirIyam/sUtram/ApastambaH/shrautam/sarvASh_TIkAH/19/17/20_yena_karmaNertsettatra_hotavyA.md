@@ -5,5 +5,7 @@ title = "20 येन कर्मणेर्त्सेत्तत्र ह
 
 <details><summary>थिते</summary>
 
-येन कर्मणेर्त्सेत्तत्र होतव्या ऋध्नोत्येव तेन कर्मणेति विज्ञायते २०
+20. It is known from a Brāhmaṇa-text[^1] “By means of whatever activity (the sacrificer) wants to prosper, in it (with Abhyātāna-mantras) libations should be made.”  
+
+[^1] TS III.4.6.1. 
 </details>

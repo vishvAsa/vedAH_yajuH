@@ -5,5 +5,7 @@ title = "20 रौद्रङ् गावीधुकञ् चरुमक्
 
 <details><summary>थिते</summary>
 
-रौद्रं गावीधुकं चरुमक्षावापस्य गृहे । गोविकर्तस्य वा २०
+20. (An offering) of Gavīdhuka-rice-pap (should be made) in honour of Rudra in the house of a dice-thrower or in the house of a cow-butcher.[^1]   
+
+[^1]: Cf. KS XV.4; ŚB V.3.1.10. 
 </details>

@@ -5,5 +5,5 @@ title = "13 य एतानग्नीन्पृथक् समासेन
 
 <details><summary>थिते</summary>
 
-य एतानग्नीन्पृथक् समासेन वा चिन्वान उभयीर्दक्षिणा ददाति क्रतुदक्षिणा यथासमाम्नातमग्निदक्षिणाश्चेति १३
+13. (He) who (is the sacrificer) building these fire (altar)s either severally or jointly, should give both the sacrificial gifts viz. the gifts connected with the sacrifice and those gifts for the fire- (altar-building) as mentioned.   
 </details>

@@ -5,5 +5,7 @@ title = "14 पष्ठौहीन् त्वन्तर्वतीन् 
 
 <details><summary>थिते</summary>
 
-पष्ठौहीं त्वन्तर्वतीं दद्याद्धिरण्यं वासश्च १४
+14. But he should give a pregnant four-yeared cow, gold and cloth.[^1]   
+
+[^1]: Cr. TB III.12.5.1. 
 </details>

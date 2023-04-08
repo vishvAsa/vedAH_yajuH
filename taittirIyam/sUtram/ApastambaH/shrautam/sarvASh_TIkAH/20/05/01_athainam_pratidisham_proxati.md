@@ -5,5 +5,5 @@ title = "01 अथैनम् प्रतिदिशम् प्रोक्
 
 <details><summary>थिते</summary>
 
-अथैनं प्रतिदिशं प्रोक्षति १
+1. Then (The Adhvaryu) sprinkles water on the horse in every direction: 
 </details>

@@ -5,5 +5,7 @@ title = "07 अपरञ् चतुर्गृहीतं वसूनान
 
 <details><summary>थिते</summary>
 
-अपरं चतुर्गृहीतं वसूनां त्वाधीतेन रुद्राणामूर्म्यादित्यानां तेजसा विश्वेषां देवानां क्रतुना मरुतामेम्ना जुहोमि स्वाहेति ७
+7. (Having taken) another four-times-scooped (ghee) (he offers it) with vasūnāṁ tvādhitena....[^1]  
+
+[^1]: TB II.5.7.1. 
 </details>

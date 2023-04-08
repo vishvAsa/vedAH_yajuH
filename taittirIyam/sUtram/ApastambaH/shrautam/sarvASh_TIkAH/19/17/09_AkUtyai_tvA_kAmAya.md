@@ -5,5 +5,9 @@ title = "09 आकूत्यै त्वा कामाय"
 
 <details><summary>थिते</summary>
 
-आकूत्यै त्वा कामाय त्वेति पर्यग्नौ क्रियमाणे जुहोति ९
+9. When the fire is being carried around (the victim)[^1] he offers a libation (of ghee) with ākutyai tvā....[^2]   
+
+[^1]: See VII.15.1-3.  
+
+[^2]: TS III.4.2.b. 
 </details>

@@ -5,5 +5,5 @@ title = "03 शतेन सूतग्रामणिभिः सह"
 
 <details><summary>थिते</summary>
 
-शतेन सूतग्रामणिभिः सह होता पश्चात्प्राङ् तिष्ठन्प्रोक्षत्यनेनाश्वेन मेध्येनेष्ट्वायं राजास्यै विशो बहुग्वै बह्वश्वायै बह्वजाविकायै बहुव्रीहियवायै बहुमाषतिलायै बहुहिरण्यायै बहुहस्तिकायै बहुदासपुरुषायै रयिमत्यै पुष्टिमत्यै बहुरायस्पोषायै राजास्त्विति ३
+3. Along with one hundred Sūtas and Grāmaṇīs the Hotr̥ Standing to the west (back-side of the horse) with his face to the east sprinkles (water on the horse) with anenāśvena.... 
 </details>

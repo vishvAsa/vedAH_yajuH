@@ -5,5 +5,7 @@ title = "05 निधाय कुम्भमश्मंस्ते क्ष
 
 <details><summary>थिते</summary>
 
-निधाय कुम्भमश्मंस्ते क्षुदमुं ते शुगृच्छतु यं द्विष्म इति त्रिरपरिषिञ्चन्प्रतिपर्येति ५
+5. Having kept down the jar he goes around the fire-altar without sprinking (water) in the reverse direction with aśmanste kṣudamuṁ te śugr̥cchatu yaṁ dviṣmaḥ.[^1]   
+
+[^1]: TS IV.6.1.b. For the contens in the Sūtra cf. TS V.4.4.2.  
 </details>

@@ -5,5 +5,5 @@ title = "05 अथास्य ब्रह्मा दक्षिणं"
 
 <details><summary>थिते</summary>
 
-अथास्य ब्रह्मा दक्षिणं हस्तं गृह्णाति ५
+5. Then the Brahman holds his right hand. 
 </details>

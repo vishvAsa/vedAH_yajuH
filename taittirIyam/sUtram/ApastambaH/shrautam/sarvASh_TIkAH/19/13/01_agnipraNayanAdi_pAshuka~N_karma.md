@@ -5,5 +5,7 @@ title = "01 अग्निप्रणयनादि पाशुकङ् क
 
 <details><summary>थिते</summary>
 
-अग्निप्रणयनादि पाशुकं कर्म प्रतिपद्यते समानमातिमुक्तिभ्यः १
+1. (Then the Adhvaryu) starts the work of the animal sacrifice beginning with carrying forward of the fire (to the Uttaravedi)[^1]; everything is the same upto the Atimukti ( libations).   
+
+[^1]: Thus the work mentioned in VII.5.6-VII.1.2. 
 </details>

@@ -5,5 +5,6 @@ title = "03 अथ जीर्णमालभते प्राजापत्
 
 <details><summary>थिते</summary>
 
-अथ जीर्णमालभते प्राजापत्यमैन्द्रं त्वाष्ट्रं वा ३
+3. Then he seizes the old (bull) for Prajāpati or Indra or 
+Tvaṣṭr̥. 
 </details>

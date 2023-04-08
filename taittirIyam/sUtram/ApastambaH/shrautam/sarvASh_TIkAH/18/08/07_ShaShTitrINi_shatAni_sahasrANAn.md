@@ -5,5 +5,7 @@ title = "07 षष्टित्रीणि शतानि सहस्रा
 
 <details><summary>थिते</summary>
 
-षष्टित्रीणि शतानि सहस्राणां ददातीति बह्वृचब्राह्मणं भवति ७
+7. In the Brāhmaṇa-text of the R̥gveda[^1] it is said “He gives the three hundred sixty thousand (cows)”.  
+
+[^1]: Not known. 
 </details>

@@ -5,5 +5,5 @@ title = "03 यदि भिद्येत वर्षिष्यतीति
 
 <details><summary>थिते</summary>
 
-यदि भिद्येत वर्षिष्यतीति विद्यात् ३
+3. If it breaks then he should know that there will be rain.  
 </details>

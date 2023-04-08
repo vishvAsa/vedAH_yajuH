@@ -5,5 +5,5 @@ title = "09 अथान्तरस्यान् द्वादश पूर
 
 <details><summary>थिते</summary>
 
-अथान्तरस्यां द्वादश पूर्वपक्षानुपदधाति पवित्रं पवयिष्यन्निति ९
+9. Then on the inner (i.e. the fifth line) he places (brick representing) the twelve first fortnights with pavitraṁ pavayiṣyan....  
 </details>

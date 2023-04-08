@@ -5,5 +5,5 @@ title = "19 यावत्पदं हिरण्येष्टकाः श
 
 <details><summary>थिते</summary>
 
-यावत्पदं हिरण्येष्टकाः शर्करा वाभ्यक्ताः १९
+19. (There are) as many gold-bricks or pebbles anointed with ghee as many are the words in the Sambhāra-formulae).  
 </details>

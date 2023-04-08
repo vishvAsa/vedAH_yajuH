@@ -5,5 +5,7 @@ title = "05 मरुताम् प्रसवे जेषमिति"
 
 <details><summary>थिते</summary>
 
-मरुतां प्रसवे जेषमिति प्रयाति ५
+5. With marutām prasave jeṣam...[^1] (the sacrificer on the chariot) goes.  
+
+[^1]: TS I.8.15.d. 
 </details>

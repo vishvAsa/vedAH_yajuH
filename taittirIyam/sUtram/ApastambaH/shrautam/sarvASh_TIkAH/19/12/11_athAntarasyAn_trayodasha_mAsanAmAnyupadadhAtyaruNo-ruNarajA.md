@@ -5,5 +5,5 @@ title = "11 अथान्तरस्यान् त्रयोदश मा
 
 <details><summary>थिते</summary>
 
-अथान्तरस्यां त्रयोदश मासनामान्युपदधात्यरुणोऽरुणरजा इति ११
+11. Then on the inner (i.e. the third line) he places (bricks representing) thirteen month-names with aruṇorunarajāḥ....  
 </details>

@@ -5,5 +5,8 @@ title = "14 पाशुकानि वाज्यानि गृहीत्
 
 <details><summary>थिते</summary>
 
-पाशुकानि वाज्यानि गृहीत्वा ग्रहान्गृह्णीयुः १४
+14. They may optionally take these scoops after having taken the ghee for the animal sacrifice.[^1]  
+
+[^1]: Thus after having done the ritual mentioned in VII.9.1-6a the Surā-Scoops may be taken. 
+
 </details>

@@ -5,5 +5,5 @@ title = "09 ऋषभो दक्षिणा"
 
 <details><summary>थिते</summary>
 
-ऋषभो दक्षिणा ९
+9. A bull is the sacrificial gift.   
 </details>

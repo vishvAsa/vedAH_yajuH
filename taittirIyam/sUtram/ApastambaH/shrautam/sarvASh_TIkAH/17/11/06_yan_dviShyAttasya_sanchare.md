@@ -5,5 +5,9 @@ title = "06 यन् द्विष्यात्तस्य सञ्चर
 
 <details><summary>थिते</summary>
 
-यं द्विष्यात्तस्य सञ्चरे यस्य रुद्रः प्रजां पशून्वाभिमन्येतोदङ् परेत्य रुद्राञ्जपंश्चरेदित्ययज्ञसंयुक्तः कल्पः ६
+6. In the case of whom (the sacrificer) he hates, he (should throw the Arka-leaf) on a (place where cattle) wander.[^1] (In the case of a sacrificer) with the progeny or cattle of whom Rudra is angry, having gone with his (Adhvaryu's) face to the north, he should mutter the Rudra (formulae)—this is a rite not connected with any (Śrauta) sacrifice[^2].   
+
+[^1]: Cf. TS V. 4.3.5.  
+
+[^2]: Thus it is a "Gr̥hya” ritual.   
 </details>

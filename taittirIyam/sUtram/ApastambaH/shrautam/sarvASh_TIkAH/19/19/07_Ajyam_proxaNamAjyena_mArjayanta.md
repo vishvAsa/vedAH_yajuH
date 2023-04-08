@@ -5,5 +5,7 @@ title = "07 आज्यम् प्रोक्षणमाज्येन म
 
 <details><summary>थिते</summary>
 
-आज्यं प्रोक्षणमाज्येन मार्जयन्त इति सर्वप्रोक्षणमार्जनानीत्याज्येन ७
+7. When it is said, “Ghee is the sprinkling (as it were) they cleanse themselves with ghee",[^1] (it means that) the acts of sprinkling and cleansing (are to be done) with ghee.  
+
+[^1]: TS II .2.10.2. 
 </details>

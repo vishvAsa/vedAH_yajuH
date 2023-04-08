@@ -5,5 +5,6 @@ title = "02 स्वयमेतं सुराशेषं व्रतयन
 
 <details><summary>थिते</summary>
 
-स्वयमेतं सुराशेषं व्रतयन्नासीत २
+2. He himself should remain consuming the remnant of 
+the Surā. 
 </details>

@@ -5,5 +5,7 @@ title = "10 इन्द्रस्य वज्रोऽसीति धनु
 
 <details><summary>थिते</summary>
 
-इन्द्रस्य वज्रोऽसीति धनुरार्त्न्या पत्नीमश्वांश्चोपनुदति १०
+10. He (sacrificer) pushes the wife and the horses with the end of the bow with indrasya vajro'si....[^1]   
+
+[^1]: TS I.8.15.a.  
 </details>

@@ -5,5 +5,11 @@ title = "17 उत्तरमपरमवान्तरदेशङ् गत�
 
 <details><summary>थिते</summary>
 
-उत्तरमपरमवान्तरदेशं गत्वा स्वकृत इरिणे प्रदरे वोपसमाधाय देवस्य त्वेत्यनुद्रुत्य रक्षसो वधं जुहोमीति पर्णमयेन स्रुवेण जुहोति १७
+17. Having gone to the North-Western region,[^1] having placed (the fire-brand) on a naturally formed pit or a cleft,[^2] then having recited devasya tvā... he offers an offering (of the flour) by means of a spoon made of Palāśa-wood with rakṣaso vadhaṁ juhomi.[^3]  
+
+[^1]: Cp. TB 1.7.1.8.  
+
+[^2]: Cf. TB 1.7.1.9.  
+
+[^3]: TS 1.8.7.g. 
 </details>

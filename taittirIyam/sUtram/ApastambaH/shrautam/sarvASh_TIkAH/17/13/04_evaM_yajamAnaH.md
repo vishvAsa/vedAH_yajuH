@@ -5,5 +5,5 @@ title = "04 एवं यजमानः"
 
 <details><summary>थिते</summary>
 
-एवं यजमानः ४
+4. The sacrificer (does) in a similar way. 
 </details>

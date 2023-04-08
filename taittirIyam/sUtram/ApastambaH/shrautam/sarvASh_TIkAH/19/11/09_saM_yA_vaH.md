@@ -5,5 +5,7 @@ title = "09 सं या वः"
 
 <details><summary>थिते</summary>
 
-सं या वः प्रियास्तनुव इत्यूषान्सिकताश्च संसृज्य चित स्थ परिचित इत्यूषान्सिकताश्च संसृज्य चित स्थ परिचित इत्यपरिमिताभिः शर्कराभिः परिश्रित्या प्यायस्व समेतु त इति सिकता व्यूहति ९
+9. After having mixed the salty soil and the sand with sam yā vastanuvaḥ...,[^1] having enclosed (the place of the Uttaravedi). by means of an unlimited number of pebbles, he shoves the sand on the Uttaravedi with ā pyāyasva.  
+
+[^1]: Cp. XVI .20.9-12.  
 </details>

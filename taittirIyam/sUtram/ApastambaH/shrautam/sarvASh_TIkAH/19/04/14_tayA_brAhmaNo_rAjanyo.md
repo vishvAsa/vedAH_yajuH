@@ -5,5 +5,5 @@ title = "14 तया ब्राह्मणो राजन्यो"
 
 <details><summary>थिते</summary>
 
-तया ब्राह्मणो राजन्यो वैश्यो वा तेजस्कामो यजेत १४
+14. A Brāhmaṇa, a Kṣatriya or a Vaiśya desirous of luster should perform it.  
 </details>

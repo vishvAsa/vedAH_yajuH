@@ -5,5 +5,9 @@ title = "06 ब्रह्मण इतर ऋत्विजो"
 
 <details><summary>थिते</summary>
 
-ब्रह्मण इतर ऋत्विजो हस्तमन्वारभ्य यजमानं पर्याहुः पावमानेन त्वा स्तोमेनेति ६
+6. The other priests holding the (right) hand of the Brahman uttering pavamānena tvā stomena...[^1] surround the sacrificer.[^2]   
+
+[^1]: TS II.3.10.d.  
+
+[^2]: Cf. TS II.3.1.4.  
 </details>

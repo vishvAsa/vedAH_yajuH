@@ -5,5 +5,5 @@ title = "16 जनभूत इति दध्नः"
 
 <details><summary>थिते</summary>
 
-जनभूत इति दध्नः १६
+16. With janabhr̥taḥ (he scoops) curds.  
 </details>

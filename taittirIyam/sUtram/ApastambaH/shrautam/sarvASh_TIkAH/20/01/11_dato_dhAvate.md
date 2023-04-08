@@ -5,5 +5,5 @@ title = "11 दतो धावते"
 
 <details><summary>थिते</summary>
 
-दतो धावते ११
+11. cleanses the teeth;  
 </details>

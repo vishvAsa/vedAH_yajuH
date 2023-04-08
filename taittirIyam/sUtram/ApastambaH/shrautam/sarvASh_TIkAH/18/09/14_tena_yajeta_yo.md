@@ -5,5 +5,5 @@ title = "14 तेन यजेत यो"
 
 <details><summary>थिते</summary>
 
-तेन यजेत यो रक्षोभ्यो बिभीयात्पिशाचेभ्यो वा १४
+14. One who is afraid of evil beings like Rakṣas or Piśācas may perform this (offering) (independentely of Rājasūya).  
 </details>

@@ -5,5 +5,5 @@ title = "19 मृत्यवे वेहतम्"
 
 <details><summary>थिते</summary>
 
-मृत्यवे वेहतम् १९
+19. For Mrtyu (Death) (one should seize) a Vehat. 
 </details>

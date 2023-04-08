@@ -5,5 +5,9 @@ title = "10 समृद्ध्यर्थायान् तु द्वि
 
 <details><summary>थिते</summary>
 
-समृद्ध्यर्थायां तु द्वितीयं चिन्वानो द्वितीयस्यां चितौ येनर्षय इत्यष्टौ नानामन्त्रा उत्तरवेद्यामुपदध्यात् अष्टौ च लोकम्पृणा अथ पुरीषम् १०
+10. Building (a fire-altar) second time however, for the sake of presperity (of the sacrificer)[^1] he should place at the time of the second layer eight bricks each having separate formula on the Uttaravedi with yenarṣayaḥ...[^2] and then should place eight Lokaṁpr̥ṇās and then loose soil.  
+
+[^1]: See XVII.24.11.  
+
+[^2]: TS IV.7.13.f-n.   
 </details>

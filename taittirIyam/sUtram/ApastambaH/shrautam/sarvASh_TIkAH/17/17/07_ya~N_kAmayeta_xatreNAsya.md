@@ -5,5 +5,9 @@ title = "07 यङ् कामयेत क्षत्रेणास्य"
 
 <details><summary>थिते</summary>
 
-यं कामयेत क्षत्रेणास्य क्षत्रं हन्यात्प्र स्वादायतनाच्च्यवेतेति तस्यारण्येऽनुवाक्येनाग्निष्ठं रथवाहनं वा व्यङ्गयेदित्ययज्ञसंयुक्तः कल्पः ७
+7. If he desires: “May I kill his Kṣatra with Kṣatra; may he fall from his place", he (The Adhvaryu) should shake his fire-cart[^1] or the chariot with the formula-group to be recited in the forest[^2]-This is a rite not connected with any (Śrauta) sacrifice.   
+
+[^1]: See I.17.5.  
+
+[^2]: Cp. MS III.3.10; KS XXI.10.   
 </details>

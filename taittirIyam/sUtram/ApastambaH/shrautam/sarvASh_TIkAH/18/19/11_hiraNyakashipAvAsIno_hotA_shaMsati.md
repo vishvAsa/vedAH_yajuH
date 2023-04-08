@@ -5,5 +5,8 @@ title = "11 हिरण्यकशिपावासीनो होता श
 
 <details><summary>थिते</summary>
 
-हिरण्यकशिपावासीनो होता शंसति ११
+11. The Hotr̥ sitting on a golden cushion, narrates (it).[^1]  
+
+[^1]: Cf. AB VII.12.  
+
 </details>

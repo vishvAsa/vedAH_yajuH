@@ -5,5 +5,9 @@ title = "03 तम् बर्हिषदङ् कृत्वैना"
 
 <details><summary>थिते</summary>
 
-तं बर्हिषदं कृत्वैना व्याघ्रं परिषस्वजानाः सिंहं हिन्वन्ति महते सौभगाय । समुद्रं न सहुवं तस्थिवांसम् मर्मृज्यन्ते द्वीपिनमप्स्वन्तरिति स्फ्येन पुरोडाशमभिचरन्निहन्ति ३
+3. After having placed it (the sacrificial bread)[^1] upon the Barhis-grass (on the altar), he strikes the sacrificial bread with wooden sword with enā vyāghram.... while (if) he is performing black-magic.[^2]  
+
+[^1]: Cp. II. 11.7.  
+
+[^2]: Cf MS II.1.9. For the verse cp. TB II.7.16.4. 
 </details>

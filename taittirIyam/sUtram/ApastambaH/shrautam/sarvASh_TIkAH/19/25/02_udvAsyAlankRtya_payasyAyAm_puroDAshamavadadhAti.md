@@ -5,5 +5,7 @@ title = "02 उद्वास्यालङ्कृत्य पयस्य�
 
 <details><summary>थिते</summary>
 
-उद्वास्यालङ्कृत्य पयस्यायां पुरोडाशमवदधाति २
+2. Having taken away the sacrificial bread (from the fire), then having decorated (it) he puts (it) in the milk-mess[^1].  
+
+[^1]: Cf. TS II.3.12.2-3.  
 </details>

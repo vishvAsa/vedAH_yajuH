@@ -5,5 +5,5 @@ title = "09 केशश्मश्रु वपते"
 
 <details><summary>थिते</summary>
 
-केशश्मश्रु वपते ९
+9. He gets his hair and beard shaved; 
 </details>

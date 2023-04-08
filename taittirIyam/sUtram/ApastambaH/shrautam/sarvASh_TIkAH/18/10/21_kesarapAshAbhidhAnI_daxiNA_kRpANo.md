@@ -5,5 +5,5 @@ title = "21 केसरपाशाभिधानी दक्षिणा क
 
 <details><summary>थिते</summary>
 
-केसरपाशाभिधानी दक्षिणा । कृपाणो वालाभिवीतः शबलो वा २१
+21. A halter with cords of horse-hair (is) the sacrificial gift; or a sword covered with tail-hair, or ( an ox) of variegated colors. 
 </details>

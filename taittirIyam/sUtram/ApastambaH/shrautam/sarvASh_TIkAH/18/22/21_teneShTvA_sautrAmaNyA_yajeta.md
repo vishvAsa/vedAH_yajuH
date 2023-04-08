@@ -5,5 +5,5 @@ title = "21 तेनेष्ट्वा सौत्रामण्या य
 
 <details><summary>थिते</summary>
 
-तेनेष्ट्वा सौत्रामण्या यजेत मैत्रावरुण्या वामिक्षया २१
+21. After having performed it one should perform the Sautrāmaṇi; or an offering with milk-mess for Mitra and Varuṇa. 
 </details>

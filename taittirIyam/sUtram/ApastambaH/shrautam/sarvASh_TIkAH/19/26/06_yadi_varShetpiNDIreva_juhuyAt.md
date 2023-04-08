@@ -5,5 +5,5 @@ title = "06 यदि वर्षेत्पिण्डीरेव जुह
 
 <details><summary>थिते</summary>
 
-यदि वर्षेत्पिण्डीरेव जुहुयात् ६
+6. If it rains he should offer the balls themselves. 
 </details>

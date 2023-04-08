@@ -5,5 +5,9 @@ title = "15 कुविदङ्गेति सर्वेषामेका 
 
 <details><summary>थिते</summary>
 
-कुविदङ्गेति सर्वेषामेका पुरोरुगेका पुरोऽनुवाक्यैकः प्रैष एका याज्या १५
+15. For all the (milk scoops) the verse beginning with kuvidaṅga[^1] is the only one Puroruc and one and the same is: the invitatory verse, one and the same is the Order (given the Adhvaryu) and one and the same is the offering verse[^2].  
+
+[^1]: TB II.6.1.3.  
+
+[^2]: See XIX.2.8, 8.7.9.  
 </details>

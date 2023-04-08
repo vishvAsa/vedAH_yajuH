@@ -5,5 +5,7 @@ title = "04 दिवम् प्रोष्ठिनीमारोह ता
 
 <details><summary>थिते</summary>
 
-दिवं प्रोष्ठिनीमारोह तामारुह्य प्रपश्यैकराण्मनुष्याणामित्यारोहन्तमभिमन्त्रयते ४
+4. While he is ascending (the Adhvaryu) addresses him with divaṁ proṣṭhinīm....[^1]   
+
+[^1]: For this formula see SatyāŚS and MāŚS. 
 </details>

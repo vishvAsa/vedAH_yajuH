@@ -5,5 +5,7 @@ title = "11 यदत्र रिप्तमिति सारस्वतम
 
 <details><summary>थिते</summary>
 
-यदत्र रिप्तमिति सारस्वतं प्रतिप्रस्थाताग्नीध्रश्च ११
+11. The Pratiprasthātr̥ and Āgnīdhra (consume the remnants from the milk-cup) for Sarasvatī with yadatra riptam[^1]...  
+
+[^1]: TB II.6.3.2.  
 </details>

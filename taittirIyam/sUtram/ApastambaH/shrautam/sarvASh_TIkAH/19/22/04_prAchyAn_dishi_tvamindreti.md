@@ -5,5 +5,9 @@ title = "04 प्राच्यान् दिशि त्वमिन्द
 
 <details><summary>थिते</summary>
 
-प्राच्यां दिशि त्वमिन्द्रेति तिस्र ऋचो व्यत्यासमन्वाह ४
+4. (The Hotr̥) recites the three verses beginning with prācyām diśi[^1] (as invitatory and offering verses) while entwining them.[^2]  
+
+[^1]: TS II.4.14.c-e.  
+
+[^2]: For the details of entwinning see the next two Sūtras.
 </details>

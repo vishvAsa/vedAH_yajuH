@@ -5,5 +5,5 @@ title = "04 तम् बधान देवेभ्यो"
 
 <details><summary>थिते</summary>
 
-तं बधान देवेभ्यो मेधाय प्रजापतये तेन राध्नुहीति प्रत्याह ४
+4. (The Brahman) replies taṁ badhāna devebhyaḥ.... 
 </details>

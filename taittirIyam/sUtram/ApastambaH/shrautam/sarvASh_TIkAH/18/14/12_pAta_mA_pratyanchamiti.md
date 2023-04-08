@@ -5,5 +5,7 @@ title = "12 पात मा प्रत्यञ्चमिति"
 
 <details><summary>थिते</summary>
 
-पात मा प्रत्यञ्चमिति प्रदीयमानाननुमन्त्रयते १२
+12. With pāta ma pratyañcam....[^1] (the sacrificer) addresses the arrows being given.  
+
+[^1]: TS I.8.12.1. 
 </details>

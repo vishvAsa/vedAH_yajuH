@@ -5,5 +5,11 @@ title = "17 समूहकेन खनातकेन वा"
 
 <details><summary>थिते</summary>
 
-समूहकेन खनातकेन वा यजमानो भक्षमिच्छेत । उपवीक्षायेणोपविकृन्तेन वा पत्नीत्येके १७
+17. According to some ritualists: "The sacrificer should seek his food by means of a broom,[^1] or by means of a shovel;[^2] the wife by means of an Upavīkṣāya[^3] or by means of a Upavikr̥nta."[^4]   
+
+[^1]: Cp. BaudhāyanaDharmasūtra III.2.12.   
+
+[^2]: Doubtful translation.   
+
+[^3-4]: Not clear.  
 </details>

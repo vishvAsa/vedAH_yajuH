@@ -5,5 +5,7 @@ title = "04 अथैकेषाम् गायत्रीम् पुरस
 
 <details><summary>थिते</summary>
 
-अथैकेषाम् । गायत्रीं पुरस्तादुपदधाति त्रिष्टुभं दक्षिणतो जगतीं पश्चादनुष्टुभमुत्तरतः पङ्क्तिं मध्ये । इत्येताभिः सर्वाभिः सर्वतो मुखमुपदधाति ४
+4. Now according to some “He places Gāyatri in the front, Triṣṭubh to the right, Jagatī to the back, Anuṣṭubh to the left and Paṅkti in the middle. With all these (verses and bricks) he builds the fire altar-building facing everywhere."[^1]   
+
+[^1]: I is not known who these “some” are. But the view of Taittirīyakas (see the Sūtra) is not different from the view of these “some”.  
 </details>

@@ -5,5 +5,7 @@ title = "12 देवस्याहं सवितुः प्रसवे"
 
 <details><summary>थिते</summary>
 
-देवस्याहं सवितुः प्रसवे बृहस्पतिना वाजजिता वर्षिष्ठं नाकं रुहेयमिति यजुर्युक्तं यजमान आरोहति १२
+12. The sacrificer ascends the chariot which has been yoked with the formula, with devasyāham...[^1]   
+
+[^1]: TS I.7.8.b. 
 </details>

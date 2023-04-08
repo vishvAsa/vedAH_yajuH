@@ -5,5 +5,7 @@ title = "03 चेष्यमाण उपकल्पयते पञ्चा
 
 <details><summary>थिते</summary>
 
-चेष्यमाण उपकल्पयते पञ्चाशीतिशतं हिरण्येष्टका यावदुत्तममङ्गुलिपरु तावतीः शर्करा वाभ्यक्ताश्चतस्रः स्वयमातृणा अपरिमिता लोकम्पृणाः ३
+3. (The sacrificer who) is going to build (it) procures (following things): one hundred eighty five golden bricks (i.e. pieces), (the size similar to the size of the last part of the finger, or (if one is unable to procure these) so many pebbles[^1] besmeared (with ghee), four natually perforated pebble-stones and an unlimited number of space-filler (bricks).  
+
+[^1]: Cf. TB III.12.5.12. 
 </details>

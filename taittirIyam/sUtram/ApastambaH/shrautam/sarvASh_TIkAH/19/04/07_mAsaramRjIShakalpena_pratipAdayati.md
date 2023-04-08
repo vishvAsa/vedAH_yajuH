@@ -5,5 +5,7 @@ title = "07 मासरमृजीषकल्पेन प्रतिपा�
 
 <details><summary>थिते</summary>
 
-मासरमृजीषकल्पेन प्रतिपादयति ७
+7. They proceed with the Māsara in the same manner as that of the Soma-husks (rjīṣa).[^1]  
+
+[^1]: For this see XIII.20.8-11. 
 </details>

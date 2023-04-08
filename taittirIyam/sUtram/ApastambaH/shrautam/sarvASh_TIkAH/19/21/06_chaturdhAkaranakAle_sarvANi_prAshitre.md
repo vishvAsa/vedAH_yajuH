@@ -5,5 +5,5 @@ title = "06 चतुर्धाकरनकाले सर्वाणि प
 
 <details><summary>थिते</summary>
 
-चतुर्धाकरनकाले सर्वाणि प्राशित्रे समोप्यैकधा ब्रह्मण उपहरति ६
+6. At the time of division into four, having put all(the corns) together in Prāśitra he brings them all at once to the Brahman.  
 </details>

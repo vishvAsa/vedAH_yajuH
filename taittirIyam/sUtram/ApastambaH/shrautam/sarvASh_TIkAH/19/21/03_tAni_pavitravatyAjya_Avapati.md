@@ -5,5 +5,5 @@ title = "03 तानि पवित्रवत्याज्य आवपत
 
 <details><summary>थिते</summary>
 
-तानि पवित्रवत्याज्य आवपति ३
+3. (The Adhvaryu) puts them in ghee on which a purifier (in the form of a blade of grass) is kept.  
 </details>

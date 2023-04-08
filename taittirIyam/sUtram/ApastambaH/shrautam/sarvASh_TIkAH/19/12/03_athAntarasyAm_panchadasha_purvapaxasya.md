@@ -5,5 +5,5 @@ title = "03 अथान्तरस्याम् पञ्चदश पुर
 
 <details><summary>थिते</summary>
 
-अथान्तरस्यां पञ्चदश पुर्वपक्षस्य रात्रीरुपदधाति दर्शा दृष्टेति ३
+3. Then on the inner (i.e. the eighth line) he places (bricks representing) fifteen nights of the first fortnight with darśā dr̥ṣṭā.... 
 </details>

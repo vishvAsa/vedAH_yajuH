@@ -5,5 +5,7 @@ title = "02 शतेनाराजभिरुग्रैः सह ब्र
 
 <details><summary>थिते</summary>
 
-शतेनाराजभिरुग्रैः सह ब्रह्मा दक्षिणत उदङ् तिष्ठन्प्रोक्षत्यनेनाश्वेन मेध्येनेष्ट्वायं राजाप्रतिधृष्योऽस्त्विति २
+2. Along with one hundred Ugras who are not Kṣatriyas the Brahman standing to the south (right of the horse) with her face to the north sprinkles (water on the horse) with anenāśvena....  
+
+[^1]: Ugra = a son of a Kśatriya-man and a Śudra-woman.  
 </details>

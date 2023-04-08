@@ -5,5 +5,7 @@ title = "03 पुण्यनाम देवयजनमध्यवस्य�
 
 <details><summary>थिते</summary>
 
-पुण्यनाम देवयजनमध्यवस्यति यत्रापः पुरस्तात्सुखाः सूपावगाहा अनपस्वरीः ३
+3. (At that time the sacrificer) should settle on the sacrificial ground having an auspicious name (Puṇyanāma)[^1] where the waters go forward (i.e. to the east), they are pleasant (sukhāḥ) easy to swim in and are inexhaustible.  
+
+[^1]: Cf. TB III.8.1.2. 
 </details>

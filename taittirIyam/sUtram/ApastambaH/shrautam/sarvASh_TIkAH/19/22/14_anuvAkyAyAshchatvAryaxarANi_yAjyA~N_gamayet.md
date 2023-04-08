@@ -5,5 +5,5 @@ title = "14 अनुवाक्यायाश्चत्वार्यक�
 
 <details><summary>थिते</summary>
 
-अनुवाक्यायाश्चत्वार्यक्षराणि याज्यां गमयेत् १४
+14. He should cause the (last) four syllables of invitatory verse to go to the offering verses. 
 </details>

@@ -5,5 +5,5 @@ title = "10 तेषामेव स्थूलचूर्णानि सं
 
 <details><summary>थिते</summary>
 
-तेषामेव स्थूलचूर्णानि संस्रावेणाभिषिक्तानि स नग्नहुः १०
+10. When the remnants of the mixture are poured on the coarse (part of the) flour that is called Nagnahu.. 
 </details>

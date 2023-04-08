@@ -5,5 +5,5 @@ title = "18 एतेन चातुर्होत्रो व्याख्
 
 <details><summary>थिते</summary>
 
-एतेन चातुर्होत्रो व्याख्यातः १८
+18. Thereby the Cāturhotra (fire-altar-building) is (as good as) described.  
 </details>

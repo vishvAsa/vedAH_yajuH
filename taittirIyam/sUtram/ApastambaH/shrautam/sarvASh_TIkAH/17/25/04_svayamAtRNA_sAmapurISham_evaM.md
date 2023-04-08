@@ -5,5 +5,5 @@ title = "04 स्वयमातृणा सामपुरीषम् एव
 
 <details><summary>थिते</summary>
 
-स्वयमातृणा सामपुरीषम् । एवं विहिता द्वितीया । अपुरीषा तृतीया ४
+4. (The Adhvaryu should place the first) naturally perforated stone and then soft loose soil (sāmapurīṣa). In the same manner the second is prescribed. The third is without loose soil.  
 </details>

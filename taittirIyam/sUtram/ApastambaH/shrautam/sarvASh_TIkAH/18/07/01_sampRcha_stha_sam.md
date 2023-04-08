@@ -5,5 +5,7 @@ title = "01 सम्पृच स्थ सम्"
 
 <details><summary>थिते</summary>
 
-सम्पृच स्थ सं मा भद्रेण पृङ्क्तेति प्राङ्ध्वर्युः सोमग्रहैरुद्द्रवति । विपृच स्थ वि मा पाप्मना पृङ्क्तेति प्रत्यङ् प्रतिप्रस्थाता सुराग्रहैः १
+1. (The Adhvaryu) goes to the eastern direction with Somā-scoops with saṁpr̥ca stha....[^1] The Pratiprasthātr̥ goes to west with Surā-scoops with vipr̥ca stha....[^1]  
+
+[^1]: See TB I.3.3.6-7. 
 </details>

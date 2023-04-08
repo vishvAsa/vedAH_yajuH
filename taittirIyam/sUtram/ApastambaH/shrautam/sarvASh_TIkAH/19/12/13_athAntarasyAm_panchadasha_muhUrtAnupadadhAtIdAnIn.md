@@ -5,5 +5,5 @@ title = "13 अथान्तरस्याम् पञ्चदश मुह
 
 <details><summary>थिते</summary>
 
-अथान्तरस्यां पञ्चदश मुहूर्तानुपदधातीदानीं तदानीमिति १३
+13. Then on the inner (i.e. the second line) he places (bricks representing) fifteen Muhurtas with idānīṁ tadānīm....  
 </details>

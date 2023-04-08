@@ -5,5 +5,7 @@ title = "17 वैष्णवन् त्रिकपालन् त्रय
 
 <details><summary>थिते</summary>
 
-वैष्णवं त्रिकपालं त्रयोदशं तक्षरथकारयोर्गृहे १७
+17. (As) the thirteenth (offering)[^1] (he should offer sacrificial bread) on three potsherds to Viṣṇu in the house of a carpenter and a chariot-maker.  
+
+[^1]: Cf. MS II.6.5.  
 </details>

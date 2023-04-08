@@ -5,5 +5,7 @@ title = "09 उद्धृत्य हिरण्यम् प्रक्ष
 
 <details><summary>थिते</summary>
 
-उद्धृत्य हिरण्यं प्रक्षाल्यायुष्टे विश्वतो दधदिति यजमानाय प्रयच्छति ९
+9. Having lifted up the gold (i.e. the ear-ring from the pot), having washed it, he gives it to the sacrificer with āyuṣṭe sarvato dadhat...[^1]  
+
+[^1]: TS I.3.14.1. 
 </details>

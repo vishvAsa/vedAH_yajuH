@@ -5,5 +5,5 @@ title = "12 स्नाति"
 
 <details><summary>थिते</summary>
 
-स्नाति १२
+12. takes bath,  
 </details>

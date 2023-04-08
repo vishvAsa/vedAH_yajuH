@@ -5,5 +5,7 @@ title = "01 प्राजापत्यां शतकृष्णलान�
 
 <details><summary>थिते</summary>
 
-प्राजापत्यां शतकृष्णलां निर्वपेदायुष्कामः १
+1. One who wants (to get) a long life should perform an offering with one hundred gold-corns.[^1]  
+
+[^1]: Cf. TS II.3.2.1. 
 </details>

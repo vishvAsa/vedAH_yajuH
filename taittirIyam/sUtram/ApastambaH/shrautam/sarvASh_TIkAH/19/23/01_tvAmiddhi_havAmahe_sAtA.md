@@ -5,5 +5,5 @@ title = "01 त्वामिद्धि हवामहे साता"
 
 <details><summary>थिते</summary>
 
-त्वामिद्धि हवामहे साता वाजस्य कारवः । त्वां वृत्रेष्विन्द्र सत्पतिं नरस्त्वां काष्ठोमित्यनूच्य स्वर्वतोऽभि त्वा शूर नोनुम इति यजेत् १
+1. Having recited the invitatory verse tvāmiddhi havāmahe (for the second offering) (the Hotr̥) should recite the offering verse svarvatobhi tvā.... 
 </details>

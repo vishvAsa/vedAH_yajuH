@@ -5,5 +5,8 @@ title = "07 पुरस्तादेव कालायसेन काला
 
 <details><summary>थिते</summary>
 
-पुरस्तादेव कालायसेन कालानुशातनेन कालेन तसरेण पक्ष्मणा व्रीहियवश्यामाकान्क्रीत्वा क्षौमे वासस्युपनद्धान्व्रीहींस्तोक्मानि कुर्वन्ति । यवानीषदुपतप्तान् ७
+7. Having purchased before-hand, rice, barley, and Syāmāka-grains (from a eunuch) with black metal(iron), a black pillow, and black silk-thread they make the rice-grainsbound in the linen-cloth to germinate.[^1] (They also make) the barley slightly roasted.  
+
+[^1]: Cf. ŚB XII.7.2.10-11.  
+
 </details>

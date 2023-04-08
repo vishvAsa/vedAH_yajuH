@@ -5,5 +5,13 @@ title = "03 देवस्य त्वा सवितुः"
 
 <details><summary>थिते</summary>
 
-देवस्य त्वा सवितुः प्रसव इति रशनामादायेमामगृभ्णन्रशनामृतस्येत्यभिमन्त्र्य ब्रह्मन्नश्वं मेध्यं भन्त्स्यामि देवेभ्यो मेधाय प्रजापतये तेन राध्यासमिति ब्रह्माणमामन्त्रयते ३
+3. Having taken the string with devasya tvā...[^1] having addressed it[^2] with imām agr̥bhṇan...[^3] (the Adhvaryu) calls the Brahman with brahmannaśvaṁ bhantsyāmi....[^4]  
+
+[^1]: TS VII.1.11.a.  
+
+[^2]: Cp. TB III.8.3.2.  
+
+[^3]: TS VII.1.11.b.  
+
+[^4]: TB III.8.3.2.   
 </details>

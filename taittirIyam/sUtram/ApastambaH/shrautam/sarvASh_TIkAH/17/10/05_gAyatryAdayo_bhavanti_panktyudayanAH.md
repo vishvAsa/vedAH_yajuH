@@ -5,5 +5,5 @@ title = "05 गायत्र्यादयो भवन्ति पङ्क
 
 <details><summary>थिते</summary>
 
-गायत्र्यादयो भवन्ति पङ्क्त्युदयनाः ५
+5. (The verses used at this time) are beginning with Gāyatri and end with Paṅkti.  
 </details>

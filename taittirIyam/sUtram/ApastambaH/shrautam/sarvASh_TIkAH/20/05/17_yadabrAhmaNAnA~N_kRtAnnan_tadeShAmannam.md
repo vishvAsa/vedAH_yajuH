@@ -5,5 +5,5 @@ title = "17 यदब्राह्मणानाङ् कृतान्न�
 
 <details><summary>थिते</summary>
 
-यदब्राह्मणानां कृतान्नं तदेषामन्नम् १७
+17. Whatever food is prepared for non-brahmins (Kṣatriyas and Vaiśyas) should be the food of these (guards).  
 </details>
